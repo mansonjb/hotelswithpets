@@ -9987,6 +9987,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  cefalu: {
+    history: {
+      fr: `Cefalù s'accroche à la côte tyrrhénienne de la Sicile, à une soixantaine de kilomètres à l'est de Palerme, au pied d'un promontoire rocheux qui surplombe un ancien village de pêcheurs. La ville doit sa renommée à sa cathédrale normande, élevée à partir de 1131 sous Roger II et couverte de mosaïques byzantines dominées par un Christ Pantocrator, inscrite au patrimoine mondial de l'UNESCO au sein de l'itinéraire arabo-normand de Sicile. Au-dessus des toits, la Rocca abrite les vestiges mégalithiques du temple de Diane et offre un panorama sur la baie. Le dédale médiéval du Corso Ruggero, le lavoir médiéval alimenté par la rivière Cefalino et le vieux port aux barques colorées composent un décor très cinématographique, popularisé par le cinéma italien. Voyager ici avec un chien suppose de composer avec la forte chaleur estivale sicilienne et les restrictions de plage de la haute saison.`,
+      en: `Cefalù clings to the Tyrrhenian coast of Sicily, some sixty kilometres east of Palermo, below a great rocky headland that looms over an old fishing town. Its fame rests on the Norman cathedral, raised from 1131 under Roger II and lined with Byzantine mosaics crowned by a Christ Pantocrator, inscribed on the UNESCO World Heritage list as part of the Arab-Norman itinerary of Sicily. Above the rooftops, the Rocca holds the megalithic ruins of the Temple of Diana and a sweeping view over the bay. The medieval maze of Corso Ruggero, the river-fed medieval washhouse and the old harbour of painted boats make up a strikingly cinematic setting, long loved by Italian film-makers. Travelling here with a dog means working around the strong Sicilian summer heat and the high-season beach restrictions.`,
+      es: `Cefalù se aferra a la costa tirrena de Sicilia, unos sesenta kilómetros al este de Palermo, al pie de un gran promontorio rocoso que domina un antiguo pueblo de pescadores. Su fama descansa en la catedral normanda, levantada desde 1131 bajo Roger II y revestida de mosaicos bizantinos coronados por un Cristo Pantocrátor, inscrita en el Patrimonio Mundial de la UNESCO dentro del itinerario árabe-normando de Sicilia. Sobre los tejados, la Rocca guarda las ruinas megalíticas del templo de Diana y una vista amplia de la bahía. El laberinto medieval del Corso Ruggero, el lavadero medieval alimentado por el río Cefalino y el viejo puerto de barcas pintadas forman un decorado muy cinematográfico, querido por el cine italiano. Viajar aquí con un perro exige lidiar con el fuerte calor estival siciliano y las restricciones de playa de la temporada alta.`,
+      pt: `Cefalù agarra-se à costa tirrena da Sicília, uns sessenta quilómetros a leste de Palermo, ao pé de um grande promontório rochoso que domina uma antiga vila piscatória. A sua fama assenta na catedral normanda, erguida a partir de 1131 sob Rogério II e revestida de mosaicos bizantinos coroados por um Cristo Pantocrator, inscrita no Património Mundial da UNESCO dentro do itinerário árabe-normando da Sicília. Por cima dos telhados, a Rocca guarda as ruínas megalíticas do templo de Diana e uma vista ampla sobre a baía. O labirinto medieval do Corso Ruggero, o lavadouro medieval alimentado pelo rio Cefalino e o velho porto de barcos pintados compõem um cenário muito cinematográfico, amado pelo cinema italiano. Viajar aqui com um cão exige lidar com o forte calor estival siciliano e as restrições de praia da época alta.`,
+    },
+    sights: [
+      {
+        name: `Duomo di Cefalù`,
+        emoji: `⛪`,
+        petFriendly: false,
+        desc: {
+          fr: `La cathédrale normande du XIIe siècle, chef-d'œuvre inscrit à l'UNESCO, aux mosaïques byzantines dominées par un Christ Pantocrator. Les chiens ne sont pas admis à l'intérieur, mais la vaste Piazza del Duomo qui la précède se profite tranquillement en laisse, à l'ombre des palmiers.`,
+          en: `The twelfth-century Norman cathedral, a UNESCO-listed masterpiece whose Byzantine mosaics are crowned by a Christ Pantocrator. Dogs are not allowed inside, but the broad Piazza del Duomo in front of it is easily enjoyed on leash, in the shade of its palms.`,
+          es: `La catedral normanda del siglo XII, obra maestra inscrita en la UNESCO cuyos mosaicos bizantinos están coronados por un Cristo Pantocrátor. No se admiten perros en el interior, pero la amplia Piazza del Duomo que la precede se disfruta con calma con correa, a la sombra de sus palmeras.`,
+          pt: `A catedral normanda do século XII, obra-prima inscrita na UNESCO cujos mosaicos bizantinos são coroados por um Cristo Pantocrator. Não se admitem cães no interior, mas a ampla Piazza del Duomo que a antecede aproveita-se com calma de trela, à sombra das suas palmeiras.`,
+        },
+      },
+      {
+        name: `Rocca di Cefalù`,
+        emoji: `🥾`,
+        petFriendly: true,
+        desc: {
+          fr: `Le promontoire rocheux qui domine la ville, gravi par un sentier escarpé jusqu'aux vestiges mégalithiques du temple de Diane et aux ruines du château. Les chiens en laisse y sont admis, mais le parcours est raide et sans ombre, prévoyez de l'eau et un départ matinal.`,
+          en: `The rocky headland above the town, climbed by a steep path to the megalithic Temple of Diana and the castle ruins. Leashed dogs are allowed, but the route is steep and shadeless, so carry water and start early.`,
+          es: `El promontorio rocoso que domina la ciudad, ascendido por un sendero empinado hasta las ruinas megalíticas del templo de Diana y del castillo. Se admiten perros con correa, pero el recorrido es empinado y sin sombra, lleva agua y madruga.`,
+          pt: `O promontório rochoso que domina a cidade, subido por um trilho íngreme até às ruínas megalíticas do templo de Diana e do castelo. Admitem-se cães com trela, mas o percurso é íngreme e sem sombra, leve água e madrugue.`,
+        },
+      },
+      {
+        name: `Lavatoio Medievale`,
+        emoji: `💧`,
+        petFriendly: true,
+        desc: {
+          fr: `L'ancien lavoir médiéval, où l'eau de la rivière Cefalino descend par un escalier de pierre noire jusqu'à des bassins voûtés en contrebas de la rue. La visite est brève, en plein air et se fait en laisse, une halte fraîche appréciable les jours de canicule.`,
+          en: `The old medieval washhouse, where water from the Cefalino river runs down a flight of black stone steps into vaulted basins below street level. The visit is brief, open-air and done on leash, a welcome cool stop on scorching days.`,
+          es: `El antiguo lavadero medieval, donde el agua del río Cefalino baja por una escalera de piedra negra hasta unas pilas abovedadas bajo el nivel de la calle. La visita es breve, al aire libre y se hace con correa, una parada fresca de agradecer en días de calor.`,
+          pt: `O antigo lavadouro medieval, onde a água do rio Cefalino desce por uma escadaria de pedra negra até tanques abobadados abaixo do nível da rua. A visita é breve, ao ar livre e faz-se de trela, uma paragem fresca de agradecer nos dias de calor.`,
+        },
+      },
+      {
+        name: `Corso Ruggero`,
+        emoji: `🚶`,
+        petFriendly: true,
+        desc: {
+          fr: `L'artère principale du centre historique, qui traverse le dédale médiéval du vieux port à la cathédrale. Bordée de boutiques et de terrasses, elle se parcourt facilement en laisse, de préférence tôt le matin ou en soirée quand la pierre a refroidi.`,
+          en: `The main street of the old town, running through the medieval maze from the old harbour to the cathedral. Lined with shops and terraces, it is easy to walk on leash, best early in the morning or in the evening once the stone has cooled.`,
+          es: `La calle principal del casco histórico, que atraviesa el laberinto medieval desde el viejo puerto hasta la catedral. Flanqueada de tiendas y terrazas, se recorre con facilidad con correa, mejor a primera hora o al atardecer cuando la piedra se ha enfriado.`,
+          pt: `A rua principal do centro histórico, que atravessa o labirinto medieval desde o velho porto até à catedral. Ladeada de lojas e esplanadas, percorre-se com facilidade de trela, melhor de manhã cedo ou ao entardecer quando a pedra arrefeceu.`,
+        },
+      },
+      {
+        name: `Porto Vecchio`,
+        emoji: `⚓`,
+        petFriendly: true,
+        desc: {
+          fr: `Le vieux port de pêche, avec sa petite plage de galets et ses barques colorées tirées sur le sable au pied des maisons médiévales. La promenade se fait en laisse et offre la plus belle vue sur la Rocca, surtout à la lumière du couchant.`,
+          en: `The old fishing harbour, with its small pebble beach and painted boats hauled up onto the sand at the foot of the medieval houses. The walk is done on leash and offers the finest view of the Rocca, especially in the evening light.`,
+          es: `El viejo puerto de pesca, con su pequeña playa de guijarros y sus barcas pintadas varadas en la arena al pie de las casas medievales. El paseo se hace con correa y ofrece la mejor vista de la Rocca, sobre todo con la luz del atardecer.`,
+          pt: `O velho porto de pesca, com a sua pequena praia de seixos e os barcos pintados varados na areia ao pé das casas medievais. O passeio faz-se de trela e oferece a melhor vista da Rocca, sobretudo à luz do entardecer.`,
+        },
+      },
+      {
+        name: `Caldura`,
+        emoji: `🏖️`,
+        petFriendly: true,
+        desc: {
+          fr: `Une petite crique rocheuse à l'est du vieux port, à l'écart de la longue plage urbaine. Contrairement au Lungomare surveillé, ces criques discrètes tolèrent souvent les chiens tenus en laisse hors saison, une alternative utile quand la plage principale leur est interdite l'été.`,
+          en: `A small rocky cove east of the old harbour, away from the long town beach. Unlike the supervised Lungomare, these quiet coves often tolerate leashed dogs out of season, a useful alternative when the main beach is closed to them in summer.`,
+          es: `Una pequeña cala rocosa al este del viejo puerto, apartada de la larga playa urbana. A diferencia del Lungomare vigilado, estas calas discretas suelen tolerar perros con correa fuera de temporada, una alternativa útil cuando la playa principal les está prohibida en verano.`,
+          pt: `Uma pequena enseada rochosa a leste do velho porto, afastada da longa praia urbana. Ao contrário do Lungomare vigiado, estas enseadas discretas costumam tolerar cães com trela fora de época, uma alternativa útil quando a praia principal lhes está vedada no verão.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Chaleur estivale intense: la côte sicilienne dépasse souvent 33 °C de juin à septembre et le sable comme les pavés du centre brûlent les coussinets, sortez à l'aube ou après le coucher du soleil et testez le sol avec la main.`,
+        `La longue plage urbaine surveillée (Lungomare) interdit les chiens en haute saison, repliez-vous sur les petites criques rocheuses à l'est du port, comme Caldura, plus tolérantes hors des zones balisées.`,
+        `La montée de la Rocca est raide et totalement exposée au soleil: emportez de l'eau, partez tôt et renoncez aux heures chaudes, la roche accumule la chaleur toute la journée.`,
+        `La cathédrale et les musées sont fermés aux chiens, mais la Piazza del Duomo, le Corso Ruggero et le vieux port se parcourent en laisse, idéalement en soirée.`,
+        `En Italie, tenez le chien en laisse en ville et gardez une muselière à portée: elle est exigée dans les transports publics et les trains régionaux, ainsi que sur les ferries selon les compagnies.`,
+      ],
+      en: [
+        `Intense summer heat: the Sicilian coast often tops 33 °C from June to September and both the sand and the town's paving scorch paws, head out at dawn or after sunset and test the ground with your hand.`,
+        `The long supervised town beach (Lungomare) bans dogs in high season, fall back on the small rocky coves east of the harbour, such as Caldura, which are more tolerant away from marked areas.`,
+        `The climb up the Rocca is steep and fully sun-exposed: carry water, start early and skip the hottest hours, the rock stores heat all day long.`,
+        `The cathedral and museums are closed to dogs, but the Piazza del Duomo, the Corso Ruggero and the old harbour are all walked on leash, ideally in the evening.`,
+        `In Italy, keep your dog leashed in town and a muzzle within reach: it is required on public transport and regional trains, as well as on ferries depending on the operator.`,
+      ],
+      es: [
+        `Calor estival intenso: la costa siciliana supera a menudo los 33 °C de junio a septiembre y tanto la arena como el empedrado del centro abrasan las almohadillas, sal al amanecer o después del atardecer y comprueba el suelo con la mano.`,
+        `La larga playa urbana vigilada (Lungomare) prohíbe los perros en temporada alta, refúgiate en las pequeñas calas rocosas al este del puerto, como Caldura, más tolerantes fuera de las zonas balizadas.`,
+        `La subida a la Rocca es empinada y está totalmente expuesta al sol: lleva agua, madruga y evita las horas de más calor, la roca acumula calor todo el día.`,
+        `La catedral y los museos están cerrados a los perros, pero la Piazza del Duomo, el Corso Ruggero y el viejo puerto se recorren con correa, mejor al atardecer.`,
+        `En Italia, lleva el perro con correa en la ciudad y ten un bozal a mano: se exige en el transporte público y los trenes regionales, así como en los ferris según la compañía.`,
+      ],
+      pt: [
+        `Calor estival intenso: a costa siciliana ultrapassa muitas vezes os 33 °C de junho a setembro e tanto a areia como a calçada do centro queimam as almofadas das patas, saia ao amanhecer ou depois do pôr do sol e teste o chão com a mão.`,
+        `A longa praia urbana vigiada (Lungomare) proíbe cães em época alta, refugie-se nas pequenas enseadas rochosas a leste do porto, como Caldura, mais tolerantes fora das zonas balizadas.`,
+        `A subida à Rocca é íngreme e totalmente exposta ao sol: leve água, madrugue e evite as horas de maior calor, a rocha acumula calor todo o dia.`,
+        `A catedral e os museus estão fechados a cães, mas a Piazza del Duomo, o Corso Ruggero e o velho porto percorrem-se de trela, de preferência ao entardecer.`,
+        `Em Itália, mantenha o cão de trela na cidade e um açaime à mão: é exigido nos transportes públicos e comboios regionais, bem como nos ferries consoante a companhia.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Italie: 112 (police, pompiers, ambulance).`,
+        `Aéroport le plus proche: Palerme (PMO, Punta Raisi), à environ 70 km, relié à Cefalù par l'autoroute et la ligne ferroviaire.`,
+        `Climat méditerranéen: étés longs, chauds et secs, hivers doux, le printemps (avril-juin) et l'automne (septembre-octobre) sont les plus confortables pour voyager avec un chien.`,
+        `Cefalù est une gare de la ligne Palerme-Messine: les petits chiens en cage voyagent gratuitement dans les trains régionaux Trenitalia, les grands chiens tenus en laisse et muselés paient un billet réduit.`,
+        `Plusieurs cliniques vétérinaires sont installées à Cefalù et dans les environs, demandez à votre hébergement le vétérinaire de garde le plus proche.`,
+      ],
+      en: [
+        `Single emergency number in Italy: 112 (police, fire, ambulance).`,
+        `Nearest airport: Palermo (PMO, Punta Raisi), about 70 km away, linked to Cefalù by motorway and rail.`,
+        `Mediterranean climate: long, hot and dry summers, mild winters, spring (April to June) and autumn (September to October) are the most comfortable for travelling with a dog.`,
+        `Cefalù is a stop on the Palermo-Messina railway: small dogs in a carrier travel free on regional Trenitalia trains, larger dogs on leash and muzzled pay a reduced fare.`,
+        `Several veterinary clinics operate in Cefalù and its surroundings, ask your accommodation for the nearest on-call vet.`,
+      ],
+      es: [
+        `Número de emergencias único en Italia: 112 (policía, bomberos, ambulancia).`,
+        `Aeropuerto más cercano: Palermo (PMO, Punta Raisi), a unos 70 km, conectado con Cefalù por autopista y ferrocarril.`,
+        `Clima mediterráneo: veranos largos, cálidos y secos, inviernos suaves, la primavera (de abril a junio) y el otoño (de septiembre a octubre) son los más cómodos para viajar con perro.`,
+        `Cefalù es una parada de la línea ferroviaria Palermo-Mesina: los perros pequeños en transportín viajan gratis en los trenes regionales de Trenitalia, los grandes con correa y bozal pagan un billete reducido.`,
+        `Hay varias clínicas veterinarias en Cefalù y sus alrededores, pregunta en tu alojamiento por el veterinario de guardia más cercano.`,
+      ],
+      pt: [
+        `Número de emergência único em Itália: 112 (polícia, bombeiros, ambulância).`,
+        `Aeroporto mais próximo: Palermo (PMO, Punta Raisi), a cerca de 70 km, ligado a Cefalù por autoestrada e caminho de ferro.`,
+        `Clima mediterrânico: verões longos, quentes e secos, invernos amenos, a primavera (de abril a junho) e o outono (de setembro a outubro) são os mais confortáveis para viajar com cão.`,
+        `Cefalù é uma paragem da linha ferroviária Palermo-Messina: os cães pequenos em transportadora viajam grátis nos comboios regionais da Trenitalia, os maiores de trela e açaimados pagam um bilhete reduzido.`,
+        `Existem várias clínicas veterinárias em Cefalù e nos arredores, pergunte no seu alojamento pelo veterinário de urgência mais próximo.`,
+      ],
+    },
+  },
+
   chamonix: {
     history: {
       fr: `Chamonix-Mont-Blanc, environ 8 700 habitants au pied du plus haut sommet d'Europe occidentale, est la capitale mondiale de l'alpinisme depuis la première ascension du Mont-Blanc par Balmat et Paccard en 1786. Hôte des premiers Jeux olympiques d'hiver en 1924, la vallée vit toute l'année au rythme des cordées, des parapentes et des trailers. Avec un chien, c'est l'une des stations alpines les plus simples de France : les chiens en laisse montent dans les bus de la vallée, la navette Mulet, le Mont-Blanc Express (demi-tarif) et presque toutes les remontées, y compris le mythique train du Montenvers vers la Mer de Glace ; l'office de tourisme publie même une liste officielle de randonnées dog-friendly par village. Deux interdits structurent le séjour : le téléphérique de l'Aiguille du Midi n'accepte aucun animal, et la réserve naturelle des Aiguilles Rouges, Lac Blanc compris, est fermée aux chiens même en laisse, avec des gardes qui verbalisent. Ajoutez la cohabitation estivale avec les patous sur les alpages et la protection des coussinets sur le granite, et Chamonix se révèle un immense terrain de jeu canin, à condition de connaître les règles.`,
@@ -10257,6 +10394,143 @@ const cityContent: Record<string, CityContent> = {
         `Lojas de animais no centro moderno e secções pet nos supermercados da cidade`,
         `Autocarros urbanos e KTEL interurbanos: cães pequenos em transportadora; nos táxis, a aceitação fica ao critério do motorista`,
         `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios; os ferries do Pireu aceitam cães (canis ou camarotes pet conforme a companhia)`,
+      ],
+    },
+  },
+
+  ciutadella: {
+    history: {
+      fr: `Ciutadella de Menorca occupe l'extrémité occidentale de l'île, dans les Baléares espagnoles, autour d'un port encaissé au fond d'une longue crique étroite. Ancienne capitale de Minorque jusqu'en 1722, date à laquelle les Britanniques transférèrent le siège du gouvernement à Mahón, elle en a gardé l'âme aristocratique: palais baroques, ruelles pavées, arcades et une cathédrale gothique élevée sur une ancienne mosquée après la conquête catalane de 1287. La Plaça des Born, ancienne place d'armes, en marque le cœur. Autour de la ville s'étendent les célèbres calas du sud, Cala Macarella et Cala Turqueta, et le fascinant tombeau préhistorique de la Naveta des Tudons, l'un des plus anciens édifices d'Europe. Menorca est réserve de biosphère de l'UNESCO. Avec un chien, l'atout majeur reste le Camí de Cavalls, sentier côtier qui ceinture l'île, car les plages appliquent de strictes interdictions saisonnières.`,
+      en: `Ciutadella de Menorca sits at the western tip of the island, in Spain's Balearics, wrapped around a harbour set deep within a long, narrow inlet. The former capital of Menorca until 1722, when the British moved the seat of government to Mahón, it kept its aristocratic soul: baroque palaces, cobbled lanes, arcades and a Gothic cathedral raised over a former mosque after the Catalan conquest of 1287. The Plaça des Born, an old parade ground, marks its heart. Around the town lie the famous southern coves, Cala Macarella and Cala Turqueta, and the striking prehistoric tomb of the Naveta des Tudons, one of the oldest buildings in Europe. Menorca is a UNESCO Biosphere Reserve. With a dog, the key asset is the Camí de Cavalls, the coastal path that rings the island, because the beaches enforce strict seasonal bans.`,
+      es: `Ciutadella de Menorca ocupa el extremo occidental de la isla, en las Baleares españolas, en torno a un puerto encajado al fondo de una larga y estrecha cala. Antigua capital de Menorca hasta 1722, cuando los británicos trasladaron la sede del gobierno a Mahón, conservó su alma aristocrática: palacios barrocos, callejuelas empedradas, soportales y una catedral gótica levantada sobre una antigua mezquita tras la conquista catalana de 1287. La Plaça des Born, antigua plaza de armas, marca su corazón. Alrededor de la ciudad se extienden las célebres calas del sur, Cala Macarella y Cala Turqueta, y el fascinante sepulcro prehistórico de la Naveta des Tudons, uno de los edificios más antiguos de Europa. Menorca es Reserva de la Biosfera de la UNESCO. Con un perro, la baza principal es el Camí de Cavalls, el sendero costero que rodea la isla, pues las playas aplican estrictas prohibiciones estacionales.`,
+      pt: `Ciutadella de Menorca ocupa o extremo ocidental da ilha, nas Baleares espanholas, em torno de um porto encaixado no fundo de uma longa e estreita enseada. Antiga capital de Menorca até 1722, quando os britânicos transferiram a sede do governo para Mahón, conservou a sua alma aristocrática: palácios barrocos, ruelas empedradas, arcadas e uma catedral gótica erguida sobre uma antiga mesquita após a conquista catalã de 1287. A Plaça des Born, antiga praça de armas, marca o seu coração. À volta da cidade estendem-se as célebres enseadas do sul, Cala Macarella e Cala Turqueta, e o fascinante túmulo pré-histórico da Naveta des Tudons, um dos edifícios mais antigos da Europa. Menorca é Reserva da Biosfera da UNESCO. Com um cão, o trunfo principal é o Camí de Cavalls, o trilho costeiro que rodeia a ilha, pois as praias aplicam rígidas proibições sazonais.`,
+    },
+    sights: [
+      {
+        name: `Catedral de Menorca`,
+        emoji: `⛪`,
+        petFriendly: false,
+        desc: {
+          fr: `La cathédrale gothique de Santa Maria, élevée après 1287 sur l'emplacement de l'ancienne mosquée, domine le vieux quartier de ses hautes voûtes. Les chiens ne sont pas admis à l'intérieur, mais les ruelles pavées et la place qui l'entourent se parcourent agréablement en laisse.`,
+          en: `The Gothic cathedral of Santa Maria, raised after 1287 on the site of the former mosque, towers over the old quarter with its high vaults. Dogs are not allowed inside, but the cobbled lanes and square around it make for a pleasant leashed stroll.`,
+          es: `La catedral gótica de Santa María, levantada tras 1287 sobre el solar de la antigua mezquita, domina el casco antiguo con sus altas bóvedas. No se admiten perros en el interior, pero las callejuelas empedradas y la plaza que la rodean se recorren con gusto con correa.`,
+          pt: `A catedral gótica de Santa Maria, erguida após 1287 no local da antiga mesquita, domina o bairro antigo com as suas altas abóbadas. Não se admitem cães no interior, mas as ruelas empedradas e a praça em redor percorrem-se com gosto de trela.`,
+        },
+      },
+      {
+        name: `Port de Ciutadella`,
+        emoji: `⚓`,
+        petFriendly: true,
+        desc: {
+          fr: `Le port encaissé au fond d'une longue crique étroite, bordé de restaurants et de barques de pêche sous les remparts. La promenade se fait en laisse et offre la plus belle lumière au coucher du soleil, quand les façades ocre se reflètent dans l'eau.`,
+          en: `The harbour set deep within a long, narrow inlet, lined with restaurants and fishing boats below the old ramparts. The walk is done on leash and offers the finest light at sunset, when the ochre facades reflect in the water.`,
+          es: `El puerto encajado al fondo de una larga y estrecha cala, flanqueado de restaurantes y barcas de pesca bajo las murallas. El paseo se hace con correa y ofrece la mejor luz al atardecer, cuando las fachadas ocres se reflejan en el agua.`,
+          pt: `O porto encaixado no fundo de uma longa e estreita enseada, ladeado de restaurantes e barcos de pesca sob as muralhas. O passeio faz-se de trela e oferece a melhor luz ao entardecer, quando as fachadas ocres se refletem na água.`,
+        },
+      },
+      {
+        name: `Plaça des Born`,
+        emoji: `🏛️`,
+        petFriendly: true,
+        desc: {
+          fr: `L'ancienne place d'armes, vaste esplanade bordée de palais, de l'hôtel de ville et d'un obélisque commémoratif. Ouverte et pavée, elle se traverse facilement en laisse et sert de point de départ à la découverte du centre historique.`,
+          en: `The old parade ground, a broad esplanade fringed by palaces, the town hall and a commemorative obelisk. Open and paved, it is easily crossed on leash and serves as a starting point for exploring the old town.`,
+          es: `La antigua plaza de armas, amplia explanada flanqueada por palacios, el ayuntamiento y un obelisco conmemorativo. Abierta y empedrada, se cruza con facilidad con correa y sirve de punto de partida para descubrir el casco histórico.`,
+          pt: `A antiga praça de armas, ampla esplanada ladeada por palácios, a câmara municipal e um obelisco comemorativo. Aberta e empedrada, atravessa-se com facilidade de trela e serve de ponto de partida para descobrir o centro histórico.`,
+        },
+      },
+      {
+        name: `Naveta des Tudons`,
+        emoji: `🗿`,
+        petFriendly: true,
+        desc: {
+          fr: `Le tombeau collectif en forme de coque de navire renversée, l'un des plus anciens édifices d'Europe, à quelques kilomètres à l'est de la ville. Le site archéologique se visite en plein air et les chiens tenus en laisse y sont admis, à l'écart des vestiges.`,
+          en: `The collective tomb shaped like an upturned ship's hull, one of the oldest buildings in Europe, a few kilometres east of town. The archaeological site is visited in the open air and leashed dogs are allowed, kept away from the remains.`,
+          es: `El sepulcro colectivo con forma de casco de barco invertido, uno de los edificios más antiguos de Europa, a pocos kilómetros al este de la ciudad. El yacimiento se visita al aire libre y se admiten perros con correa, apartados de los restos.`,
+          pt: `O túmulo coletivo em forma de casco de navio invertido, um dos edifícios mais antigos da Europa, a poucos quilómetros a leste da cidade. O sítio arqueológico visita-se ao ar livre e admitem-se cães com trela, afastados dos vestígios.`,
+        },
+      },
+      {
+        name: `Cala Turqueta`,
+        emoji: `🏖️`,
+        petFriendly: false,
+        desc: {
+          fr: `L'une des plus belles criques du sud, sable blanc et eaux turquoise cernées de pins, accessible à pied depuis un parking. Comme la plupart des plages de Menorca, elle interdit les chiens en haute saison, repliez-vous alors sur le Camí de Cavalls tout proche.`,
+          en: `One of the loveliest coves of the south, white sand and turquoise water fringed with pines, reached on foot from a car park. Like most Menorca beaches, it bans dogs in high season, so fall back on the nearby Camí de Cavalls instead.`,
+          es: `Una de las calas más bellas del sur, arena blanca y aguas turquesas rodeadas de pinos, accesible a pie desde un aparcamiento. Como la mayoría de las playas de Menorca, prohíbe los perros en temporada alta, así que refúgiate entonces en el cercano Camí de Cavalls.`,
+          pt: `Uma das mais belas enseadas do sul, areia branca e águas turquesa rodeadas de pinheiros, acessível a pé a partir de um parque de estacionamento. Como a maioria das praias de Menorca, proíbe cães em época alta, refugie-se então no próximo Camí de Cavalls.`,
+        },
+      },
+      {
+        name: `Camí de Cavalls`,
+        emoji: `🥾`,
+        petFriendly: true,
+        desc: {
+          fr: `L'ancien chemin de ronde militaire (GR 223) qui ceinture toute l'île sur environ 185 km, entre criques, falaises et bois. Ses tronçons autour de Ciutadella sont le vrai paradis canin de Menorca, à faire en laisse, mais sans ombre et souvent sans eau, prévoyez le nécessaire.`,
+          en: `The old military patrol path (GR 223) that rings the whole island over some 185 km, threading coves, cliffs and woods. Its stretches around Ciutadella are Menorca's true canine paradise, to be walked on leash, but shadeless and often waterless, so pack accordingly.`,
+          es: `El antiguo camino de ronda militar (GR 223) que rodea toda la isla a lo largo de unos 185 km, entre calas, acantilados y bosques. Sus tramos en torno a Ciutadella son el verdadero paraíso canino de Menorca, para recorrer con correa, pero sin sombra y a menudo sin agua, lleva lo necesario.`,
+          pt: `O antigo caminho de ronda militar (GR 223) que rodeia toda a ilha ao longo de cerca de 185 km, entre enseadas, falésias e bosques. Os seus troços em torno de Ciutadella são o verdadeiro paraíso canino de Menorca, para percorrer de trela, mas sem sombra e muitas vezes sem água, leve o necessário.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Interdiction saisonnière des plages: à Menorca, la plupart des plages, dont Cala Macarella et Cala Turqueta, interdisent les chiens en haute saison (généralement de mai à octobre), vérifiez la réglementation locale avant de vous déplacer.`,
+        `Le Camí de Cavalls (GR 223) est la meilleure option canine de l'île: tenez le chien en laisse, mais anticipez l'absence d'ombre et de points d'eau, emportez de l'eau et partez tôt aux heures chaudes.`,
+        `La Festa de Sant Joan (24 juin) transforme Ciutadella en foule dense avec chevaux cabrés et pétards: c'est extrêmement stressant pour un chien, éloignez-le du centre ces jours-là.`,
+        `Chaleur estivale et sol brûlant: le sable et les pavés dépassent vite les 33 °C en journée, promenez à l'aube ou en soirée et testez le sol avec la main avant de partir.`,
+        `En Espagne, les races classées potentiellement dangereuses (PPP) doivent porter laisse courte et muselière sur la voie publique, prévoyez l'équipement si votre chien est concerné.`,
+      ],
+      en: [
+        `Seasonal beach ban: on Menorca most beaches, including Cala Macarella and Cala Turqueta, bar dogs in high season (typically May to October), check the local rules before setting out.`,
+        `The Camí de Cavalls (GR 223) is the island's best canine option: keep your dog on leash, but plan around the lack of shade and water points, carry water and start early in the heat.`,
+        `The Festa de Sant Joan (24 June) turns Ciutadella into a dense crowd with rearing horses and firecrackers: it is extremely stressful for a dog, keep it away from the centre on those days.`,
+        `Summer heat and scorching ground: sand and paving quickly top 33 °C during the day, walk at dawn or in the evening and test the ground with your hand before heading out.`,
+        `In Spain, breeds classed as potentially dangerous (PPP) must wear a short leash and muzzle in public, bring the gear if your dog is affected.`,
+      ],
+      es: [
+        `Prohibición estacional de las playas: en Menorca la mayoría de las playas, incluidas Cala Macarella y Cala Turqueta, prohíben los perros en temporada alta (por lo general de mayo a octubre), comprueba la normativa local antes de desplazarte.`,
+        `El Camí de Cavalls (GR 223) es la mejor opción canina de la isla: lleva el perro con correa, pero anticipa la falta de sombra y de puntos de agua, lleva agua y madruga en las horas de calor.`,
+        `La Festa de Sant Joan (24 de junio) convierte Ciutadella en una multitud densa con caballos encabritados y petardos: resulta muy estresante para un perro, aléjalo del centro esos días.`,
+        `Calor estival y suelo abrasador: la arena y el empedrado superan pronto los 33 °C durante el día, pasea al amanecer o al atardecer y comprueba el suelo con la mano antes de salir.`,
+        `En España, las razas consideradas potencialmente peligrosas (PPP) deben llevar correa corta y bozal en la vía pública, prepara el equipo si tu perro está afectado.`,
+      ],
+      pt: [
+        `Proibição sazonal das praias: em Menorca a maioria das praias, incluindo Cala Macarella e Cala Turqueta, proíbem cães em época alta (em geral de maio a outubro), confirme a regulamentação local antes de se deslocar.`,
+        `O Camí de Cavalls (GR 223) é a melhor opção canina da ilha: mantenha o cão de trela, mas antecipe a falta de sombra e de pontos de água, leve água e madrugue nas horas de calor.`,
+        `A Festa de Sant Joan (24 de junho) transforma Ciutadella numa multidão densa com cavalos empinados e petardos: é extremamente stressante para um cão, mantenha-o longe do centro nesses dias.`,
+        `Calor estival e chão a escaldar: a areia e a calçada ultrapassam depressa os 33 °C durante o dia, passeie ao amanhecer ou ao entardecer e teste o chão com a mão antes de sair.`,
+        `Em Espanha, as raças consideradas potencialmente perigosas (PPP) devem usar trela curta e açaime na via pública, prepare o equipamento se o seu cão for abrangido.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Numéro d'urgence unique en Espagne: 112 (police, pompiers, ambulance).`,
+        `Aéroport le plus proche: Menorca (MAH), près de Mahón, à environ 45 km, il n'y a pas d'aéroport à Ciutadella.`,
+        `Climat méditerranéen: étés chauds et secs, hivers doux mais venteux (la tramontane souffle fort), le printemps et l'automne sont les plus confortables pour voyager avec un chien.`,
+        `Ferries depuis le continent (Barcelone, Valence) et depuis Alcúdia à Majorque accostent au port de Ciutadella, les animaux tenus sont admis sous conditions (cage, chenil ou cabine pet), réservez la place à l'avance.`,
+        `Plusieurs cliniques vétérinaires sont installées à Ciutadella, demandez à votre hébergement le vétérinaire de garde le plus proche.`,
+      ],
+      en: [
+        `Single emergency number in Spain: 112 (police, fire, ambulance).`,
+        `Nearest airport: Menorca (MAH), near Mahón, about 45 km away, there is no airport at Ciutadella.`,
+        `Mediterranean climate: hot, dry summers, mild but windy winters (the tramontana blows hard), spring and autumn are the most comfortable for travelling with a dog.`,
+        `Ferries from the mainland (Barcelona, Valencia) and from Alcúdia on Mallorca dock at Ciutadella harbour, leashed pets are allowed under conditions (carrier, kennel or pet cabin), book the space in advance.`,
+        `Several veterinary clinics operate in Ciutadella, ask your accommodation for the nearest on-call vet.`,
+      ],
+      es: [
+        `Número de emergencias único en España: 112 (policía, bomberos, ambulancia).`,
+        `Aeropuerto más cercano: Menorca (MAH), junto a Mahón, a unos 45 km, no hay aeropuerto en Ciutadella.`,
+        `Clima mediterráneo: veranos cálidos y secos, inviernos suaves pero ventosos (la tramontana sopla fuerte), la primavera y el otoño son los más cómodos para viajar con perro.`,
+        `Los ferris desde la península (Barcelona, Valencia) y desde Alcúdia en Mallorca atracan en el puerto de Ciutadella, las mascotas con correa se admiten con condiciones (transportín, perrera o camarote pet), reserva la plaza con antelación.`,
+        `Hay varias clínicas veterinarias en Ciutadella, pregunta en tu alojamiento por el veterinario de guardia más cercano.`,
+      ],
+      pt: [
+        `Número de emergência único em Espanha: 112 (polícia, bombeiros, ambulância).`,
+        `Aeroporto mais próximo: Menorca (MAH), junto a Mahón, a cerca de 45 km, não há aeroporto em Ciutadella.`,
+        `Clima mediterrânico: verões quentes e secos, invernos amenos mas ventosos (a tramontana sopra forte), a primavera e o outono são os mais confortáveis para viajar com cão.`,
+        `Os ferries do continente (Barcelona, Valência) e de Alcúdia em Maiorca atracam no porto de Ciutadella, os animais com trela são admitidos sob condições (transportadora, canil ou camarote pet), reserve o lugar com antecedência.`,
+        `Existem várias clínicas veterinárias em Ciutadella, pergunte no seu alojamento pelo veterinário de urgência mais próximo.`,
       ],
     },
   },

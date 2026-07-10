@@ -35029,6 +35029,280 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'sant-antoni': {
+    history: {
+      fr: `Sant Antoni de Portmany, sur la côte ouest d'Ibiza aux Baléares, est la grande station balnéaire tournée vers le couchant. Née d'un modeste village de pêcheurs autour de l'église fortifiée du XIVe siècle, la ville a grandi avec le tourisme jusqu'à devenir un haut lieu de la vie nocturne et de la musique électronique. Sa baie profonde, la plus vaste de l'île, se termine par le célèbre Sunset Strip où bars et terrasses regardent le soleil plonger dans la mer chaque soir. Au-delà du tumulte estival, Sant Antoni offre un autre visage : le long Passeig de ses Fonts et ses fontaines dansantes, les criques translucides de Cala Bassa et Cala Conta à l'ouest, et l'arrière-pays paisible de Santa Agnès, célèbre pour la floraison des amandiers en hiver. On s'y promène en laisse le long du front de mer, entre marina, promenade et sentiers côtiers.`,
+      en: `Sant Antoni de Portmany, on the west coast of Ibiza in the Balearics, is the island's great sunset resort. Grown from a modest fishing village around its fourteenth-century fortified church, the town expanded with tourism to become a hub of nightlife and electronic music. Its deep bay, the largest on the island, ends at the famous Sunset Strip where bars and terraces watch the sun sink into the sea each evening. Beyond the summer bustle, Sant Antoni shows another face: the long Passeig de ses Fonts with its dancing fountains, the translucent coves of Cala Bassa and Cala Conta to the west, and the peaceful inland valley of Santa Agnès, celebrated for its winter almond blossom. You walk it on a leash along the seafront, between marina, promenade and coastal paths, an easy base for exploring the wilder west of the island.`,
+      es: `Sant Antoni de Portmany, en la costa oeste de Ibiza, en Baleares, es la gran estación balnearia volcada al atardecer. Surgida de un modesto pueblo de pescadores en torno a su iglesia fortificada del siglo XIV, la ciudad creció con el turismo hasta convertirse en un referente de la vida nocturna y la música electrónica. Su bahía profunda, la mayor de la isla, termina en el célebre Sunset Strip, donde bares y terrazas contemplan cada tarde el sol hundiéndose en el mar. Más allá del bullicio estival, Sant Antoni muestra otra cara: el largo Passeig de ses Fonts con sus fuentes danzantes, las calas translúcidas de Cala Bassa y Cala Conta al oeste, y el tranquilo interior de Santa Agnès, célebre por la floración de los almendros en invierno. Se pasea con correa por el frente marítimo, entre el puerto deportivo, el paseo y los senderos costeros.`,
+      pt: `Sant Antoni de Portmany, na costa oeste de Ibiza, nas Baleares, é a grande estância balnear virada ao pôr do sol. Nascida de uma modesta aldeia de pescadores em torno da sua igreja fortificada do século XIV, a cidade cresceu com o turismo até se tornar um polo da vida noturna e da música eletrónica. A sua baía profunda, a maior da ilha, termina no célebre Sunset Strip, onde bares e esplanadas veem o sol mergulhar no mar todas as tardes. Para além da azáfama do verão, Sant Antoni mostra outra face: o longo Passeig de ses Fonts com as suas fontes dançantes, as enseadas translúcidas de Cala Bassa e Cala Conta a oeste, e o tranquilo interior de Santa Agnès, célebre pela floração das amendoeiras no inverno. Passeia-se com trela pela frente marítima, entre a marina, o passeio e os trilhos costeiros.`,
+    },
+    sights: [
+      {
+        name: `Sunset Strip i Badia de Sant Antoni`,
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          fr: `La longue baie et sa promenade concentrent les bars à couchers de soleil face à la mer ouverte. On y marche en laisse sur le front de mer, mais la plage urbaine est réglementée l'été et les soirs de forte affluence sont bruyants pour un chien.`,
+          en: `The long bay and its promenade gather the sunset bars facing the open sea. You walk it on a leash along the seafront, but the town beach is regulated in summer and busy evenings can be noisy for a dog.`,
+          es: `La larga bahía y su paseo concentran los bares de atardecer frente al mar abierto. Se camina con correa por el frente marítimo, pero la playa urbana está regulada en verano y las noches concurridas resultan ruidosas para un perro.`,
+          pt: `A longa baía e o seu passeio concentram os bares de pôr do sol frente ao mar aberto. Caminha-se com trela pela frente marítima, mas a praia urbana é regulada no verão e as noites concorridas são ruidosas para um cão.`,
+        },
+      },
+      {
+        name: `Mirador de Ses Variades`,
+        emoji: '🌇',
+        petFriendly: true,
+        desc: {
+          fr: `Ce belvédère au bout de la promenade est le point de vue classique sur le coucher de soleil, bordé de terrasses et de rochers. Espace extérieur accessible en laisse, très fréquenté en fin de journée, mieux vaut y venir tôt avec un chien sensible à la foule.`,
+          en: `This viewpoint at the end of the promenade is the classic sunset spot, lined with terraces and rocks. An open-air space accessible on a leash, very crowded at dusk, so come early with a dog that dislikes crowds.`,
+          es: `Este mirador al final del paseo es el punto de vista clásico del atardecer, flanqueado por terrazas y rocas. Espacio al aire libre accesible con correa, muy concurrido al anochecer, conviene llegar pronto con un perro sensible a las multitudes.`,
+          pt: `Este miradouro no fim do passeio é o ponto de vista clássico do pôr do sol, ladeado de esplanadas e rochas. Espaço ao ar livre acessível com trela, muito concorrido ao anoitecer, convém chegar cedo com um cão sensível a multidões.`,
+        },
+      },
+      {
+        name: `Monument de l'Ou (l'oeuf de Colomb)`,
+        emoji: '🥚',
+        petFriendly: true,
+        desc: {
+          fr: `Cette grande sculpture blanche en forme d'oeuf, à l'entrée du port, rappelle la légende liant Christophe Colomb à Ibiza. Monument en plein air visible à toute heure, idéal pour une photo rapide avec le chien en laisse.`,
+          en: `This large white egg-shaped sculpture at the port entrance recalls the legend linking Christopher Columbus to Ibiza. An open-air monument visible at any hour, ideal for a quick photo with the dog on a leash.`,
+          es: `Esta gran escultura blanca en forma de huevo, a la entrada del puerto, recuerda la leyenda que vincula a Cristóbal Colón con Ibiza. Monumento al aire libre visible a cualquier hora, ideal para una foto rápida con el perro con correa.`,
+          pt: `Esta grande escultura branca em forma de ovo, à entrada do porto, recorda a lenda que liga Cristóvão Colombo a Ibiza. Monumento ao ar livre visível a qualquer hora, ideal para uma foto rápida com o cão com trela.`,
+        },
+      },
+      {
+        name: `Passeig de ses Fonts`,
+        emoji: '⛲',
+        petFriendly: true,
+        desc: {
+          fr: `Cette promenade paysagée du front de mer aligne pelouses, palmiers et fontaines lumineuses qui dansent en soirée. Espace piéton parfait pour une balade en laisse au frais, avec des zones d'ombre bienvenues aux heures chaudes.`,
+          en: `This landscaped seafront promenade lines up lawns, palm trees and illuminated fountains that dance in the evening. A pedestrian space perfect for a cool leashed stroll, with welcome pockets of shade during the hot hours.`,
+          es: `Este paseo ajardinado del frente marítimo alinea céspedes, palmeras y fuentes iluminadas que danzan al anochecer. Espacio peatonal perfecto para un paseo con correa al fresco, con zonas de sombra bienvenidas en las horas de calor.`,
+          pt: `Este passeio ajardinado da frente marítima alinha relvados, palmeiras e fontes iluminadas que dançam ao anoitecer. Espaço pedonal perfeito para um passeio com trela ao fresco, com zonas de sombra bem-vindas nas horas de calor.`,
+        },
+      },
+      {
+        name: `Cala Bassa i Cala Conta`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `Ces criques de sable blanc et d'eau turquoise, à l'ouest de la ville, comptent parmi les plus belles d'Ibiza. Les chiens sont interdits sur ces plages surveillées pendant la saison balnéaire, cherchez plutôt une petite crique rocheuse non aménagée.`,
+          en: `These white-sand, turquoise-water coves west of town rank among the finest on Ibiza. Dogs are banned from these patrolled beaches during the bathing season, so look instead for a small unmanaged rocky cove.`,
+          es: `Estas calas de arena blanca y agua turquesa, al oeste de la ciudad, están entre las más bellas de Ibiza. Los perros están prohibidos en estas playas vigiladas durante la temporada de baño, busca mejor una pequeña cala rocosa sin acondicionar.`,
+          pt: `Estas enseadas de areia branca e água turquesa, a oeste da cidade, estão entre as mais belas de Ibiza. Os cães são proibidos nestas praias vigiadas durante a época balnear, procure antes uma pequena enseada rochosa sem acondicionamento.`,
+        },
+      },
+      {
+        name: `Vall de Santa Agnès de Corona`,
+        emoji: '🌸',
+        petFriendly: true,
+        desc: {
+          fr: `Cette vallée agricole de l'arrière-pays se couvre de fleurs d'amandiers roses et blanches vers la fin janvier et février. Chemins ruraux et sentiers ouverts à parcourir en laisse, loin de l'agitation de la côte, idéals hors saison.`,
+          en: `This inland farming valley turns pink and white with almond blossom around late January and February. Rural lanes and open trails to walk on a leash, far from the coastal bustle, ideal off-season.`,
+          es: `Este valle agrícola del interior se cubre de flores de almendro rosas y blancas hacia finales de enero y febrero. Caminos rurales y senderos abiertos para recorrer con correa, lejos del bullicio costero, ideales fuera de temporada.`,
+          pt: `Este vale agrícola do interior cobre-se de flores de amendoeira rosa e brancas por finais de janeiro e fevereiro. Caminhos rurais e trilhos abertos para percorrer com trela, longe da azáfama costeira, ideais fora de época.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Loi espagnole : chien en laisse en ville et muselière obligatoire pour les races cataloguées PPP dans les lieux publics et les transports ; gardez passeport et puce à jour.`,
+        `Interdiction estivale des plages : aux Baléares, les chiens sont interdits sur les plages surveillées pendant la saison balnéaire (environ mai à octobre), renseignez-vous sur une éventuelle plage canine avant de partir vers le sable.`,
+        `Chaleur méditerranéenne : de juin à septembre les après-midi dépassent souvent 30 °C, sortez à l'aube ou en soirée et testez le bitume du revers de la main avant de marcher.`,
+        `Nuisance nocturne : Sant Antoni est un pôle de vie nocturne, la musique et la foule des rues du West End en août peuvent stresser un chien, choisissez un logement à l'écart du centre.`,
+        `Excursions en bateau : les navettes vers Cala Salada ou les couchers de soleil acceptent parfois les petits chiens en laisse, confirmez la politique au guichet du port avant l'embarquement.`,
+      ],
+      en: [
+        `Spanish law: dogs on a leash in town and a muzzle required for catalogued PPP breeds in public places and on transport; keep the passport and microchip up to date.`,
+        `Summer beach ban: in the Balearics dogs are barred from patrolled beaches during the bathing season (roughly May to October), so check for any designated dog beach before heading to the sand.`,
+        `Mediterranean heat: from June to September afternoons often top 30 °C, so walk at dawn or in the evening and test the tarmac with the back of your hand before setting off.`,
+        `Night-time noise: Sant Antoni is a nightlife hub, and the music and crowds of the West End streets in August can stress a dog, so choose lodging away from the centre.`,
+        `Boat trips: shuttles to Cala Salada or sunset cruises sometimes accept small leashed dogs, confirm the policy at the port desk before boarding.`,
+      ],
+      es: [
+        `Ley española: perro con correa en la ciudad y bozal obligatorio para las razas catalogadas PPP en lugares públicos y transportes; lleva pasaporte y microchip al día.`,
+        `Prohibición estival de playas: en Baleares los perros no pueden acceder a las playas vigiladas durante la temporada de baño (aproximadamente de mayo a octubre), infórmate de una posible playa canina antes de ir a la arena.`,
+        `Calor mediterráneo: de junio a septiembre las tardes superan a menudo los 30 °C, pasea al alba o al anochecer y prueba el asfalto con el dorso de la mano antes de salir.`,
+        `Ruido nocturno: Sant Antoni es un polo de vida nocturna, y la música y el gentío de las calles del West End en agosto pueden estresar a un perro, elige alojamiento alejado del centro.`,
+        `Excursiones en barco: las lanzaderas a Cala Salada o los cruceros de atardecer aceptan a veces perros pequeños con correa, confirma la política en la taquilla del puerto antes de embarcar.`,
+      ],
+      pt: [
+        `Lei espanhola: cão com trela na cidade e açaime obrigatório para as raças catalogadas PPP em locais públicos e transportes; mantenha o passaporte e o microchip em dia.`,
+        `Proibição estival de praias: nas Baleares os cães são proibidos nas praias vigiadas durante a época balnear (aproximadamente de maio a outubro), informe-se sobre uma eventual praia canina antes de ir para a areia.`,
+        `Calor mediterrânico: de junho a setembro as tardes ultrapassam muitas vezes os 30 °C, passeie de madrugada ou ao anoitecer e teste o asfalto com as costas da mão antes de sair.`,
+        `Ruído noturno: Sant Antoni é um polo de vida noturna, e a música e a multidão das ruas do West End em agosto podem stressar um cão, escolha alojamento afastado do centro.`,
+        `Passeios de barco: as lanchas para Cala Salada ou os cruzeiros de pôr do sol aceitam por vezes cães pequenos com trela, confirme a política na bilheteira do porto antes de embarcar.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences : 112 est le numéro européen unique en Espagne ; Sant Antoni compte des cabinets vétérinaires, demandez à votre hôtel le service de garde le plus proche.`,
+        `Bus vers Ibiza-ville et l'aéroport : les petits chiens en caisse de transport sont généralement admis, vérifiez la politique auprès du chauffeur ou du réseau avant de monter.`,
+        `Plages : les plages surveillées sont réglementées en saison balnéaire, repérez à l'avance une crique rocheuse non aménagée ou une éventuelle zone canine de l'île.`,
+        `Aéroport d'Ibiza (IBZ) à une vingtaine de kilomètres ; Espagne dans l'UE, passeport européen pour animaux, puce et vaccination antirabique à jour.`,
+        `Fortes chaleurs et affluence : réservez tôt en été, privilégiez un logement avec coin d'ombre et point d'eau pour le chien, l'île sature en juillet et août.`,
+      ],
+      en: [
+        `Emergencies: 112 is Spain's single European number; Sant Antoni has veterinary practices, ask your hotel for the nearest on-call service.`,
+        `Buses to Ibiza Town and the airport: small dogs in a carrier are usually admitted, check the policy with the driver or the network before boarding.`,
+        `Beaches: patrolled beaches are regulated during the bathing season, so scout an unmanaged rocky cove or any island dog area in advance.`,
+        `Ibiza airport (IBZ) is about twenty kilometres away; Spain is in the EU, so bring the European pet passport with an up-to-date microchip and rabies vaccination.`,
+        `Heat and crowds: book early in summer and favour lodging with a shaded corner and water point for the dog, as the island fills up in July and August.`,
+      ],
+      es: [
+        `Emergencias: 112 es el número europeo único en España; Sant Antoni cuenta con clínicas veterinarias, pide a tu hotel el servicio de guardia más cercano.`,
+        `Autobuses a Ibiza ciudad y al aeropuerto: los perros pequeños en transportín suelen admitirse, comprueba la política con el conductor o la red antes de subir.`,
+        `Playas: las playas vigiladas están reguladas en temporada de baño, localiza con antelación una cala rocosa sin acondicionar o una posible zona canina de la isla.`,
+        `Aeropuerto de Ibiza (IBZ) a una veintena de kilómetros; España está en la UE, lleva el pasaporte europeo para mascotas con microchip y vacuna antirrábica al día.`,
+        `Calor y afluencia: reserva pronto en verano y prioriza un alojamiento con rincón de sombra y punto de agua para el perro, la isla se satura en julio y agosto.`,
+      ],
+      pt: [
+        `Emergências: 112 é o número europeu único em Espanha; Sant Antoni tem clínicas veterinárias, peça ao seu hotel o serviço de urgência mais próximo.`,
+        `Autocarros para a cidade de Ibiza e o aeroporto: os cães pequenos em transportadora costumam ser admitidos, confirme a política com o motorista ou a rede antes de embarcar.`,
+        `Praias: as praias vigiadas são reguladas na época balnear, localize com antecedência uma enseada rochosa sem acondicionamento ou uma eventual zona canina da ilha.`,
+        `Aeroporto de Ibiza (IBZ) a uma vintena de quilómetros; Espanha está na UE, leve o passaporte europeu para animais com microchip e vacina antirrábica em dia.`,
+        `Calor e afluência: reserve cedo no verão e prefira alojamento com canto de sombra e ponto de água para o cão, a ilha satura em julho e agosto.`,
+      ],
+    },
+  },
+
+  'santa-eulalia': {
+    history: {
+      fr: `Santa Eulària des Riu, sur la côte est d'Ibiza aux Baléares, est la station la plus paisible et la plus familiale de l'île. Son nom rappelle une curiosité géographique : le Riu de Santa Eulària est le seul cours d'eau permanent des Baléares, franchi près de son embouchure par un vieux pont de pierre d'origine romaine. Au-dessus de la ville, la colline du Puig de Missa porte une église-forteresse blanche du XVIe siècle et un hameau ancien qui veillaient jadis sur la côte face aux corsaires. En contrebas, une longue promenade maritime bordée de palmiers, de sculptures et d'une marina relie les plages de Cala Llonga et d'Es Canar, où se tient chaque semaine le marché hippie historique de Punta Arabí. Réputée pour sa gastronomie et son rythme tranquille, Santa Eulària se découvre en laisse, entre vieux quartier, front de mer et bords de rivière.`,
+      en: `Santa Eulària des Riu, on the east coast of Ibiza in the Balearics, is the island's calmest and most family-friendly resort. Its name recalls a geographical curiosity: the Riu de Santa Eulària is the only permanent river in the Balearics, crossed near its mouth by an old stone bridge of Roman origin. Above the town, the Puig de Missa hill carries a whitewashed sixteenth-century fortified church and an old hamlet that once watched the coast against corsairs. Below, a long palm-lined seafront promenade dotted with sculptures and a marina links the beaches of Cala Llonga and Es Canar, home to the historic Punta Arabí hippy market held each week. Known for its food scene and unhurried pace, Santa Eulària is explored on a leash, between old quarter, seafront and riverbanks, a gentle counterpoint to the island's busier resorts.`,
+      es: `Santa Eulària des Riu, en la costa este de Ibiza, en Baleares, es la estación más tranquila y familiar de la isla. Su nombre recuerda una curiosidad geográfica: el Riu de Santa Eulària es el único curso de agua permanente de Baleares, cruzado cerca de su desembocadura por un viejo puente de piedra de origen romano. Sobre la ciudad, la colina del Puig de Missa alberga una iglesia-fortaleza blanca del siglo XVI y una antigua aldea que vigilaba la costa frente a los corsarios. Abajo, un largo paseo marítimo bordeado de palmeras, esculturas y un puerto deportivo enlaza las playas de Cala Llonga y Es Canar, donde se celebra cada semana el histórico mercadillo hippie de Punta Arabí. Famosa por su gastronomía y su ritmo sosegado, Santa Eulària se descubre con correa, entre el casco antiguo, el frente marítimo y las orillas del río.`,
+      pt: `Santa Eulària des Riu, na costa leste de Ibiza, nas Baleares, é a estância mais tranquila e familiar da ilha. O seu nome recorda uma curiosidade geográfica: o Riu de Santa Eulària é o único curso de água permanente das Baleares, atravessado perto da foz por uma velha ponte de pedra de origem romana. Acima da cidade, a colina do Puig de Missa acolhe uma igreja-fortaleza branca do século XVI e um antigo casario que outrora vigiava a costa contra os corsários. Em baixo, um longo passeio marítimo ladeado de palmeiras, esculturas e uma marina liga as praias de Cala Llonga e Es Canar, onde se realiza todas as semanas o histórico mercado hippie de Punta Arabí. Famosa pela sua gastronomia e pelo seu ritmo sereno, Santa Eulària descobre-se com trela, entre o casco antigo, a frente marítima e as margens do rio.`,
+    },
+    sights: [
+      {
+        name: `Puig de Missa`,
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Cette colline coiffée d'une église-forteresse blanche du XVIe siècle et d'un vieux hameau domine la ville et la mer. Les ruelles et le parvis extérieur se parcourent en laisse, mais l'intérieur de l'église reste interdit aux chiens.`,
+          en: `This hill crowned by a whitewashed sixteenth-century fortified church and an old hamlet overlooks the town and the sea. The lanes and outdoor forecourt are walked on a leash, but the church interior stays off-limits to dogs.`,
+          es: `Esta colina coronada por una iglesia-fortaleza blanca del siglo XVI y una antigua aldea domina la ciudad y el mar. Las callejuelas y el atrio exterior se recorren con correa, pero el interior de la iglesia sigue vetado a los perros.`,
+          pt: `Esta colina coroada por uma igreja-fortaleza branca do século XVI e um antigo casario domina a cidade e o mar. As ruelas e o adro exterior percorrem-se com trela, mas o interior da igreja continua vedado a cães.`,
+        },
+      },
+      {
+        name: `Pont Vell del Riu de Santa Eulària`,
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Ce vieux pont de pierre d'origine romaine enjambe le seul fleuve permanent des Baléares, aujourd'hui bordé de verdure. Site en plein air librement accessible en laisse, agréable pour une courte promenade à l'ombre au bord de l'eau.`,
+          en: `This old stone bridge of Roman origin spans the only permanent river in the Balearics, now fringed with greenery. An open-air site freely accessible on a leash, pleasant for a short shaded stroll by the water.`,
+          es: `Este viejo puente de piedra de origen romano cruza el único río permanente de Baleares, hoy rodeado de vegetación. Lugar al aire libre de acceso libre con correa, agradable para un breve paseo a la sombra junto al agua.`,
+          pt: `Esta velha ponte de pedra de origem romana atravessa o único rio permanente das Baleares, hoje rodeado de vegetação. Local ao ar livre de acesso livre com trela, agradável para um breve passeio à sombra junto à água.`,
+        },
+      },
+      {
+        name: `Passeig marítim i Port Esportiu`,
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `La longue promenade maritime bordée de palmiers relie le centre à la marina et à ses restaurants face aux bateaux. Espace piéton parfait pour une balade en laisse le matin ou en soirée, plus calme que les stations voisines.`,
+          en: `The long palm-lined seafront promenade links the centre to the marina and its restaurants facing the boats. A pedestrian space perfect for a leashed stroll morning or evening, calmer than the neighbouring resorts.`,
+          es: `El largo paseo marítimo bordeado de palmeras une el centro con el puerto deportivo y sus restaurantes frente a los barcos. Espacio peatonal perfecto para un paseo con correa por la mañana o al anochecer, más tranquilo que las estaciones vecinas.`,
+          pt: `O longo passeio marítimo ladeado de palmeiras liga o centro à marina e aos seus restaurantes frente aos barcos. Espaço pedonal perfeito para um passeio com trela de manhã ou ao anoitecer, mais calmo do que as estâncias vizinhas.`,
+        },
+      },
+      {
+        name: `Platja de Cala Llonga`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `Cette large plage de sable au fond d'une baie encaissée est un classique familial au sud de la ville. Les chiens sont interdits sur cette plage surveillée pendant la saison balnéaire, mieux vaut viser une crique rocheuse non aménagée.`,
+          en: `This broad sandy beach at the head of a sheltered bay is a family classic south of town. Dogs are banned from this patrolled beach during the bathing season, so aim instead for an unmanaged rocky cove.`,
+          es: `Esta amplia playa de arena al fondo de una bahía resguardada es un clásico familiar al sur de la ciudad. Los perros están prohibidos en esta playa vigilada durante la temporada de baño, conviene buscar una cala rocosa sin acondicionar.`,
+          pt: `Esta ampla praia de areia no fundo de uma baía abrigada é um clássico familiar a sul da cidade. Os cães são proibidos nesta praia vigiada durante a época balnear, convém procurar uma enseada rochosa sem acondicionamento.`,
+        },
+      },
+      {
+        name: `Mercat hippy de Punta Arabí (Es Canar)`,
+        emoji: '🛍️',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus ancien marché hippie d'Ibiza déploie chaque semaine ses centaines d'étals d'artisanat sous les pins d'Es Canar. Marché en plein air où les chiens en laisse sont tolérés, à éviter aux heures de pointe et par forte chaleur avec un animal.`,
+          en: `Ibiza's oldest hippy market spreads its hundreds of craft stalls under the pines of Es Canar each week. An open-air market where leashed dogs are tolerated, best avoided at peak hours and in strong heat with a pet.`,
+          es: `El mercadillo hippie más antiguo de Ibiza despliega cada semana sus cientos de puestos de artesanía bajo los pinos de Es Canar. Mercado al aire libre donde se toleran los perros con correa, mejor evitarlo en horas punta y con mucho calor con un animal.`,
+          pt: `O mercado hippie mais antigo de Ibiza estende todas as semanas as suas centenas de bancas de artesanato sob os pinheiros de Es Canar. Mercado ao ar livre onde os cães com trela são tolerados, melhor evitá-lo nas horas de ponta e com muito calor com um animal.`,
+        },
+      },
+      {
+        name: `Passeig de s'Alamera`,
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Cette allée ombragée bordée de platanes et d'échoppes descend du centre vers la mer, coeur animé de la vie locale. Promenade piétonne agréable en laisse, ponctuée de terrasses où l'on peut faire une pause à l'ombre avec le chien.`,
+          en: `This shaded avenue lined with plane trees and stalls runs from the centre down to the sea, the lively heart of local life. A pleasant pedestrian walk on a leash, dotted with terraces for a shaded break with the dog.`,
+          es: `Esta avenida arbolada de plátanos y puestos baja del centro hacia el mar, corazón animado de la vida local. Paseo peatonal agradable con correa, salpicado de terrazas donde hacer una pausa a la sombra con el perro.`,
+          pt: `Esta avenida sombreada de plátanos e bancas desce do centro para o mar, coração animado da vida local. Passeio pedonal agradável com trela, pontuado de esplanadas para uma pausa à sombra com o cão.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Loi espagnole : chien en laisse en ville et muselière obligatoire pour les races cataloguées PPP dans les lieux publics et les transports ; gardez passeport et puce à jour.`,
+        `Interdiction estivale des plages : aux Baléares, les chiens sont interdits sur les plages surveillées pendant la saison balnéaire (environ mai à octobre), renseignez-vous sur une éventuelle plage canine avant de partir vers le sable.`,
+        `Chaleur méditerranéenne : de juin à septembre les après-midi dépassent souvent 30 °C, sortez à l'aube ou en soirée et testez le bitume du revers de la main avant de marcher.`,
+        `Bords de rivière et Puig de Missa : ces espaces ombragés se prêtent bien aux balades en laisse aux heures chaudes, emportez de l'eau et un bol pliable pour le chien.`,
+        `Marché de Punta Arabí : chiens en laisse tolérés en plein air, mais la foule et le sol brûlant de l'après-midi en été sont pénibles, préférez l'ouverture le matin.`,
+      ],
+      en: [
+        `Spanish law: dogs on a leash in town and a muzzle required for catalogued PPP breeds in public places and on transport; keep the passport and microchip up to date.`,
+        `Summer beach ban: in the Balearics dogs are barred from patrolled beaches during the bathing season (roughly May to October), so check for any designated dog beach before heading to the sand.`,
+        `Mediterranean heat: from June to September afternoons often top 30 °C, so walk at dawn or in the evening and test the tarmac with the back of your hand before setting off.`,
+        `Riverbanks and Puig de Missa: these shaded spots suit leashed walks during the hot hours, carry water and a folding bowl for the dog.`,
+        `Punta Arabí market: leashed dogs are tolerated in the open air, but the crowds and scorching afternoon ground in summer are hard going, so favour the morning opening.`,
+      ],
+      es: [
+        `Ley española: perro con correa en la ciudad y bozal obligatorio para las razas catalogadas PPP en lugares públicos y transportes; lleva pasaporte y microchip al día.`,
+        `Prohibición estival de playas: en Baleares los perros no pueden acceder a las playas vigiladas durante la temporada de baño (aproximadamente de mayo a octubre), infórmate de una posible playa canina antes de ir a la arena.`,
+        `Calor mediterráneo: de junio a septiembre las tardes superan a menudo los 30 °C, pasea al alba o al anochecer y prueba el asfalto con el dorso de la mano antes de salir.`,
+        `Orillas del río y Puig de Missa: estos espacios con sombra son ideales para paseos con correa en las horas de calor, lleva agua y un cuenco plegable para el perro.`,
+        `Mercadillo de Punta Arabí: perros con correa tolerados al aire libre, pero el gentío y el suelo ardiente de la tarde en verano son penosos, mejor la apertura por la mañana.`,
+      ],
+      pt: [
+        `Lei espanhola: cão com trela na cidade e açaime obrigatório para as raças catalogadas PPP em locais públicos e transportes; mantenha o passaporte e o microchip em dia.`,
+        `Proibição estival de praias: nas Baleares os cães são proibidos nas praias vigiadas durante a época balnear (aproximadamente de maio a outubro), informe-se sobre uma eventual praia canina antes de ir para a areia.`,
+        `Calor mediterrânico: de junho a setembro as tardes ultrapassam muitas vezes os 30 °C, passeie de madrugada ou ao anoitecer e teste o asfalto com as costas da mão antes de sair.`,
+        `Margens do rio e Puig de Missa: estes espaços sombreados prestam-se a passeios com trela nas horas de calor, leve água e uma taça dobrável para o cão.`,
+        `Mercado de Punta Arabí: cães com trela tolerados ao ar livre, mas a multidão e o chão escaldante da tarde no verão são penosos, prefira a abertura de manhã.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences : 112 est le numéro européen unique en Espagne ; Santa Eulària compte des cabinets vétérinaires, demandez à votre hôtel le service de garde le plus proche.`,
+        `Bus vers Ibiza-ville et l'aéroport : les petits chiens en caisse de transport sont généralement admis, vérifiez la politique auprès du chauffeur ou du réseau avant de monter.`,
+        `Plages : les plages surveillées sont réglementées en saison balnéaire, repérez à l'avance une crique rocheuse non aménagée ou une éventuelle zone canine de l'île.`,
+        `Aéroport d'Ibiza (IBZ) à une vingtaine de kilomètres ; Espagne dans l'UE, passeport européen pour animaux, puce et vaccination antirabique à jour.`,
+        `Scène gastronomique : de nombreuses terrasses du front de mer et de s'Alamera accueillent les chiens en extérieur, confirmez à l'entrée avant de vous installer.`,
+      ],
+      en: [
+        `Emergencies: 112 is Spain's single European number; Santa Eulària has veterinary practices, ask your hotel for the nearest on-call service.`,
+        `Buses to Ibiza Town and the airport: small dogs in a carrier are usually admitted, check the policy with the driver or the network before boarding.`,
+        `Beaches: patrolled beaches are regulated during the bathing season, so scout an unmanaged rocky cove or any island dog area in advance.`,
+        `Ibiza airport (IBZ) is about twenty kilometres away; Spain is in the EU, so bring the European pet passport with an up-to-date microchip and rabies vaccination.`,
+        `Food scene: many seafront and s'Alamera terraces welcome dogs outdoors, confirm at the door before settling in.`,
+      ],
+      es: [
+        `Emergencias: 112 es el número europeo único en España; Santa Eulària cuenta con clínicas veterinarias, pide a tu hotel el servicio de guardia más cercano.`,
+        `Autobuses a Ibiza ciudad y al aeropuerto: los perros pequeños en transportín suelen admitirse, comprueba la política con el conductor o la red antes de subir.`,
+        `Playas: las playas vigiladas están reguladas en temporada de baño, localiza con antelación una cala rocosa sin acondicionar o una posible zona canina de la isla.`,
+        `Aeropuerto de Ibiza (IBZ) a una veintena de kilómetros; España está en la UE, lleva el pasaporte europeo para mascotas con microchip y vacuna antirrábica al día.`,
+        `Escena gastronómica: muchas terrazas del frente marítimo y de s'Alamera admiten perros en el exterior, confírmalo en la entrada antes de sentarte.`,
+      ],
+      pt: [
+        `Emergências: 112 é o número europeu único em Espanha; Santa Eulària tem clínicas veterinárias, peça ao seu hotel o serviço de urgência mais próximo.`,
+        `Autocarros para a cidade de Ibiza e o aeroporto: os cães pequenos em transportadora costumam ser admitidos, confirme a política com o motorista ou a rede antes de embarcar.`,
+        `Praias: as praias vigiadas são reguladas na época balnear, localize com antecedência uma enseada rochosa sem acondicionamento ou uma eventual zona canina da ilha.`,
+        `Aeroporto de Ibiza (IBZ) a uma vintena de quilómetros; Espanha está na UE, leve o passaporte europeu para animais com microchip e vacina antirrábica em dia.`,
+        `Cena gastronómica: muitas esplanadas da frente marítima e de s'Alamera aceitam cães no exterior, confirme à entrada antes de se instalar.`,
+      ],
+    },
+  },
+
   santander: {
     history: {
       fr: `Santander, capitale de la Cantabrie et ses 170 000 habitants, épouse l'une des plus belles baies du nord de l'Espagne, entre les collines verdoyantes cantabres et l'Atlantique ouvert. Station balnéaire distinguée depuis que le roi Alphonse XIII fit bâtir son palais d'été sur la Península de la Magdalena en 1912, la ville a reconstruit son centre dans un style sobre et élégant après le grand incendie de 1941 et bordé son long front de mer de la splendeur Belle Époque du Sardinero. C'est aujourd'hui l'une des villes les plus détendues envers les chiens de la côte espagnole : une promenade quasi ininterrompue de 8 km relie l'Estación Marítima aux Jardines de Pereda, contourne la péninsule royale et longe le Sardinero jusqu'au phare de Cabo Mayor, presque entièrement praticable en laisse. Le principal point à anticiper est l'interdiction estivale des plages urbaines, du 1er mai au 30 septembre.`,

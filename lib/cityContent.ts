@@ -26949,6 +26949,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  narbonne: {
+    history: {
+      fr: `Ancienne capitale de la Gaule narbonnaise, Narbonne fut fondée en 118 avant notre ère comme première colonie romaine hors d'Italie et devint l'un des plus grands ports de la Méditerranée occidentale. Son déclin commença lorsque l'Aude changea de lit à la fin du Moyen Âge, éloignant la mer et ensablant le port ; la ville se replia alors sur le commerce du vin, qui reste l'âme de ce coin d'Occitanie. Le passé se lit encore dans la cathédrale Saint-Just inachevée, le palais des Archevêques et les galeries souterraines de l'Horreum romain. Le canal de la Robine, classé au patrimoine mondial de l'UNESCO, traverse la ville sous le pont des Marchands couvert. Pour qui voyage avec un chien, Narbonne réunit un centre plat et arboré, un chemin de halage ombragé parfait pour les longues balades, et les plages ainsi que le massif de la Clape à un quart d'heure.`,
+      en: `The former capital of Gallia Narbonensis, Narbonne was founded in 118 BCE as the first Roman colony outside Italy and grew into one of the great ports of the western Mediterranean. Its decline began when the river Aude shifted its course in the late Middle Ages, pushing the sea back and silting up the harbour; the town then turned to the wine trade, which remains the soul of this corner of Occitania. The past still shows in the unfinished Saint-Just cathedral, the Palace of the Archbishops and the underground galleries of the Roman Horreum. The Canal de la Robine, a UNESCO World Heritage site, cuts through the centre beneath the covered Pont des Marchands. For anyone travelling with a dog, Narbonne offers a flat, tree-lined centre, a shaded canal towpath made for long walks, and beaches plus the La Clape massif just fifteen minutes away.`,
+      es: `Antigua capital de la Galia Narbonense, Narbona fue fundada en el 118 a.C. como la primera colonia romana fuera de Italia y llegó a ser uno de los grandes puertos del Mediterráneo occidental. Su declive comenzó cuando el río Aude cambió de cauce a finales de la Edad Media, alejando el mar y cegando el puerto; la ciudad se volcó entonces en el comercio del vino, que sigue siendo el alma de este rincón de Occitania. El pasado se lee todavía en la inacabada catedral de Saint-Just, el palacio de los Arzobispos y las galerías subterráneas del Horreum romano. El Canal de la Robine, Patrimonio Mundial de la UNESCO, atraviesa el centro bajo el cubierto Pont des Marchands. Para quien viaja con perro, Narbona reúne un centro llano y arbolado, un camino de sirga sombreado ideal para largos paseos, y las playas junto al macizo de La Clape a un cuarto de hora.`,
+      pt: `Antiga capital da Gália Narbonense, Narbona foi fundada em 118 a.C. como a primeira colónia romana fora da Itália e tornou-se um dos grandes portos do Mediterrâneo ocidental. O seu declínio começou quando o rio Aude mudou de leito no final da Idade Média, afastando o mar e assoreando o porto; a cidade voltou-se então para o comércio do vinho, que continua a ser a alma deste canto da Occitânia. O passado ainda se lê na inacabada catedral de Saint-Just, no palácio dos Arcebispos e nas galerias subterrâneas do Horreum romano. O Canal de la Robine, Património Mundial da UNESCO, atravessa o centro sob a coberta Pont des Marchands. Para quem viaja com um cão, Narbona reúne um centro plano e arborizado, um caminho de sirga sombreado ideal para longos passeios, e as praias e o maciço de La Clape a um quarto de hora.`,
+    },
+    sights: [
+      {
+        name: 'Canal de la Robine',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Bras du Canal du Midi classé à l'UNESCO qui traverse Narbonne, bordé de platanes. Son chemin de halage plat et ombragé est la meilleure promenade canine de la ville.`,
+          en: `A UNESCO-listed branch of the Canal du Midi running through Narbonne, lined with plane trees. Its flat, shaded towpath is the finest dog walk in town.`,
+          es: `Ramal del Canal du Midi declarado Patrimonio de la UNESCO que cruza Narbona, bordeado de plátanos. Su camino de sirga llano y sombreado es el mejor paseo canino de la ciudad.`,
+          pt: `Ramo do Canal du Midi classificado pela UNESCO que atravessa Narbona, ladeado de plátanos. O seu caminho de sirga plano e sombreado é o melhor passeio canino da cidade.`,
+        },
+      },
+      {
+        name: 'Cathédrale Saint-Just-et-Saint-Pasteur',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Cathédrale gothique restée inachevée, dont le chœur culmine à 41 m, parmi les plus hauts de France. Les chiens ne sont pas admis à l'intérieur ; le cloître et la cour se visitent en laisse.`,
+          en: `A Gothic cathedral left unfinished, its choir soaring to 41 m, among the tallest in France. Dogs are not allowed inside; the cloister and courtyard can be seen on the leash.`,
+          es: `Catedral gótica que quedó inacabada, con un coro de 41 m de altura, de los más altos de Francia. No se admiten perros en el interior; el claustro y el patio se visitan con correa.`,
+          pt: `Catedral gótica que ficou inacabada, com um coro de 41 m de altura, dos mais altos de França. Não são admitidos cães no interior; o claustro e o pátio visitam-se com trela.`,
+        },
+      },
+      {
+        name: 'Palais des Archevêques et Donjon Gilles Aycelin',
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `Vaste palais épiscopal fortifié dominant la place de l'Hôtel-de-Ville, avec son donjon du XIIIe siècle. Les musées intérieurs refusent les chiens ; le passage de l'Ancre attenant se traverse en laisse.`,
+          en: `A vast fortified bishops' palace over the town-hall square, with its 13th-century keep. The indoor museums do not allow dogs; the adjoining Passage de l'Ancre can be walked on the leash.`,
+          es: `Amplio palacio episcopal fortificado sobre la plaza del Ayuntamiento, con su torreón del siglo XIII. Los museos interiores no admiten perros; el contiguo Passage de l'Ancre se cruza con correa.`,
+          pt: `Amplo palácio episcopal fortificado sobre a praça da Câmara, com a sua torre de menagem do século XIII. Os museus interiores não admitem cães; a contígua Passage de l'Ancre atravessa-se com trela.`,
+        },
+      },
+      {
+        name: 'Pont des Marchands',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Rare pont habité couvert de boutiques, enjambant le canal de la Robine au cœur de la ville. On le traverse à pied en laisse, entre façades colorées et vitrines.`,
+          en: `A rare inhabited bridge lined with shops, spanning the Canal de la Robine in the heart of town. You cross it on foot with your dog on the leash, between colourful facades and storefronts.`,
+          es: `Raro puente habitado y cubierto de tiendas, que salva el Canal de la Robine en pleno centro. Se cruza a pie con el perro con correa, entre fachadas de colores y escaparates.`,
+          pt: `Raro ponte habitada e coberta de lojas, que atravessa o Canal de la Robine em pleno centro. Percorre-se a pé com o cão à trela, entre fachadas coloridas e montras.`,
+        },
+      },
+      {
+        name: 'Horreum romain',
+        emoji: '🏛️',
+        petFriendly: false,
+        desc: {
+          fr: `Galeries souterraines d'un entrepôt romain du Ier siècle avant notre ère, seul vestige antique visitable en élévation à Narbonne. Espace muséal étroit où les chiens ne sont pas admis.`,
+          en: `The underground galleries of a Roman warehouse from the 1st century BCE, the only standing ancient structure you can visit in Narbonne. A narrow museum space where dogs are not admitted.`,
+          es: `Galerías subterráneas de un almacén romano del siglo I a.C., el único vestigio antiguo visitable en alzado de Narbona. Espacio museístico estrecho donde no se admiten perros.`,
+          pt: `Galerias subterrâneas de um armazém romano do século I a.C., o único vestígio antigo visitável em elevação de Narbona. Espaço museológico estreito onde não são admitidos cães.`,
+        },
+      },
+      {
+        name: 'Massif de la Clape et Narbonne-Plage',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Massif calcaire couvert de garrigue entre la ville et la mer, sillonné de sentiers, débouchant sur les plages de Narbonne-Plage et Gruissan à 15 min. Idéal pour la randonnée canine hors saison estivale.`,
+          en: `A limestone massif clad in garrigue between town and sea, threaded with trails and opening onto the beaches of Narbonne-Plage and Gruissan 15 min away. Ideal for dog hiking outside the summer season.`,
+          es: `Macizo calcáreo cubierto de garriga entre la ciudad y el mar, surcado de senderos, que desemboca en las playas de Narbonne-Plage y Gruissan a 15 min. Ideal para el senderismo canino fuera de la temporada estival.`,
+          pt: `Maciço calcário coberto de garrigue entre a cidade e o mar, sulcado de trilhos, que desemboca nas praias de Narbonne-Plage e Gruissan a 15 min. Ideal para caminhadas caninas fora da época estival.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Interdiction estivale des chiens sur les plages surveillées de Narbonne-Plage et Gruissan, généralement du 15 juin au 15 septembre ; repérez les secteurs non surveillés autorisés hors saison.',
+        'La Tramontane souffle fort et sec plusieurs jours d\'affilée : prévoyez de l\'eau en rando sur la Clape, le vent déshydrate vite les chiens.',
+        'Chaleur méditerranéenne à plus de 32 °C en été, le bitume brûle : promenez tôt le matin ou après 20h et privilégiez le chemin de halage ombragé du canal.',
+        'Le chemin de halage du canal de la Robine est plat, ombragé et sans voitures : la promenade canine de référence, jusqu\'aux écluses de Mandirac au sud.',
+        'En cas d\'urgence, composez le 112 ; repérez à l\'avance une clinique vétérinaire de garde, les services 24h/24 les plus proches sont à Narbonne même et à Béziers.',
+      ],
+      en: [
+        'Summer dog ban on the guarded beaches of Narbonne-Plage and Gruissan, usually 15 June to 15 September; look for unguarded stretches allowed off-season.',
+        'The Tramontane wind blows hard and dry for days on end: carry water when hiking La Clape, as the wind dehydrates dogs quickly.',
+        'Mediterranean heat above 32 °C in summer scorches the pavement: walk early morning or after 20:00 and favour the shaded canal towpath.',
+        'The Canal de la Robine towpath is flat, shaded and traffic-free: the go-to dog walk, all the way to the Mandirac locks to the south.',
+        'In an emergency dial 112; scout a duty veterinary clinic in advance, the nearest 24-hour services are in Narbonne itself and in Béziers.',
+      ],
+      es: [
+        'Prohibición estival de perros en las playas vigiladas de Narbonne-Plage y Gruissan, normalmente del 15 de junio al 15 de septiembre; busca los tramos no vigilados permitidos fuera de temporada.',
+        'La Tramontana sopla fuerte y seca durante varios días seguidos: lleva agua al hacer senderismo en La Clape, ya que el viento deshidrata rápido a los perros.',
+        'Calor mediterráneo por encima de 32 °C en verano que abrasa el pavimento: pasea temprano o después de las 20:00 y opta por el camino de sirga sombreado del canal.',
+        'El camino de sirga del Canal de la Robine es llano, sombreado y sin coches: el paseo canino de referencia, hasta las esclusas de Mandirac al sur.',
+        'En caso de urgencia marca el 112; localiza con antelación una clínica veterinaria de guardia, los servicios 24 horas más cercanos están en la propia Narbona y en Béziers.',
+      ],
+      pt: [
+        'Proibição estival de cães nas praias vigiadas de Narbonne-Plage e Gruissan, normalmente de 15 de junho a 15 de setembro; procure os troços não vigiados permitidos fora de época.',
+        'A Tramontana sopra forte e seca durante vários dias seguidos: leve água ao caminhar em La Clape, pois o vento desidrata depressa os cães.',
+        'Calor mediterrânico acima de 32 °C no verão que queima o pavimento: passeie de manhã cedo ou depois das 20h e prefira o caminho de sirga sombreado do canal.',
+        'O caminho de sirga do Canal de la Robine é plano, sombreado e sem carros: o passeio canino de referência, até às comportas de Mandirac a sul.',
+        'Em caso de emergência ligue 112; localize com antecedência uma clínica veterinária de urgência, os serviços 24 horas mais próximos estão na própria Narbona e em Béziers.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Passeport européen et vaccination antirabique valide exigés à l\'enregistrement dans tout hôtel pet-friendly.',
+        'Laisse obligatoire dans le centre historique et sur les quais du canal ; ramassage des déjections imposé, amendes en cas de non-respect.',
+        'Les chiens voyagent dans les trains SNCF vers Montpellier, Toulouse et Perpignan avec un billet à tarif réduit ; petits chiens en sac gratuits.',
+        'Narbonne-Plage et Gruissan sont à 15 min en voiture ; hors saison, plusieurs plages non surveillées tolèrent les chiens en laisse.',
+        'Numéro d\'urgence européen 112 ; forte chaleur estivale et vent de Tramontane à anticiper pour toute sortie avec un chien.',
+      ],
+      en: [
+        'EU pet passport and valid rabies vaccination required at check-in in every pet-friendly hotel.',
+        'Leash mandatory in the historic centre and along the canal quays; waste pick-up enforced, with fines for non-compliance.',
+        'Dogs travel on SNCF trains to Montpellier, Toulouse and Perpignan on a reduced-fare ticket; small dogs in a carrier travel free.',
+        'Narbonne-Plage and Gruissan are 15 min away by car; off-season, several unguarded beaches tolerate leashed dogs.',
+        'European emergency number 112; plan around strong summer heat and the Tramontane wind for any outing with a dog.',
+      ],
+      es: [
+        'Pasaporte europeo y vacunación antirrábica vigente exigidos al hacer el check-in en todo hotel pet-friendly.',
+        'Correa obligatoria en el centro histórico y en los muelles del canal; recogida de excrementos obligatoria, con multas por incumplimiento.',
+        'Los perros viajan en los trenes SNCF hacia Montpellier, Toulouse y Perpiñán con billete de tarifa reducida; los perros pequeños en transportín viajan gratis.',
+        'Narbonne-Plage y Gruissan están a 15 min en coche; fuera de temporada, varias playas no vigiladas toleran perros con correa.',
+        'Número de urgencia europeo 112; anticipa el fuerte calor estival y el viento de Tramontana en cualquier salida con perro.',
+      ],
+      pt: [
+        'Passaporte europeu e vacinação antirrábica válida exigidos no check-in em qualquer hotel pet-friendly.',
+        'Trela obrigatória no centro histórico e nos cais do canal; recolha de dejetos obrigatória, com multas em caso de incumprimento.',
+        'Os cães viajam nos comboios SNCF para Montpellier, Toulouse e Perpignan com bilhete de tarifa reduzida; os cães pequenos em transportadora viajam grátis.',
+        'Narbonne-Plage e Gruissan ficam a 15 min de carro; fora de época, várias praias não vigiadas toleram cães à trela.',
+        'Número de emergência europeu 112; conte com o forte calor estival e o vento Tramontana em qualquer saída com um cão.',
+      ],
+    },
+  },
+
   naxos: {
     history: {
       fr: `La plus grande et la plus fertile des Cyclades fut un centre majeur de la civilisation cycladique, puis la puissance qui dominait la mer Égée archaïque : c'est de ses carrières que sortirent les colosses de marbre et les fameux kouroi inachevés que l'on voit encore couchés à Apollonas et Melanes. En 1207, le Vénitien Marco Sanudo en fit la capitale du duché de l'Archipel, laissant à la Chora son kastro perché et ses demeures blasonnées. Île d'agriculteurs autant que de marins, Naxos vit de ses pommes de terre, de ses fromages et de son élevage autant que du tourisme, ce qui lui donne un arrière-pays authentique de villages de montagne comme Halki ou Apiranthos. Entre la Portara dressée face au couchant, les kilomètres de plages de sable de la côte ouest et les sentiers byzantins de l'intérieur, Naxos est une île généreuse pour qui voyage avec un chien.`,
@@ -28022,6 +28159,143 @@ const cityContent: Record<string, CityContent> = {
         `Clínica diurna céntrica: Tierarztpraxis Altstadt, Ludwigsplatz 8, +49 911 22 47 73`,
         `ICE a partir de Múnich: 1h05; a partir de Fráncfort: 2h15; a partir de Berlín: 4h. Cães pequenos em transportadora grátis; cães mais grandes necesitan bilhete infantil (50%) e bozal.`,
         `Aeroporto Núremberg NUE a 7 km al norte, 12 min em U-Bahn U2 a partir da estação central.`,
+      ],
+    },
+  },
+
+  olbia: {
+    history: {
+      fr: `Olbia, sur la côte nord-est de la Sardaigne, garde dans son nom grec l'idée de prospérité : port phénicien puis romain sous le nom de Terranova, la ville commande depuis toujours l'entrée de la Gallura et de la mer Tyrrhénienne. Autour d'elle, les nuraghi de l'âge du bronze rappellent une occupation bien antérieure, tandis que la basilique romane de San Simplicio, bâtie en granit local au XIe siècle, veille sur le centre depuis près de mille ans. Aujourd'hui, avec son aéroport et son port de ferries, Olbia est la grande porte d'entrée de la Sardaigne du Nord et de la Costa Smeralda toute proche. Le Corso Umberto, artère piétonne animée de cafés, mène du cœur historique au vieux port face à l'île de Tavolara. Pour qui voyage avec un chien, Olbia combine une ville plate et facile, des plages de sable comme Pittulongu et Porto Istana, et des sites nuragiques en pleine nature à quelques minutes.`,
+      en: `Olbia, on the north-eastern coast of Sardinia, carries the idea of prosperity in its Greek name: a Phoenician then Roman port known as Terranova, the town has always commanded the gateway to Gallura and the Tyrrhenian Sea. Around it, Bronze Age nuraghi recall a far older settlement, while the Romanesque basilica of San Simplicio, built in local granite in the 11th century, has watched over the centre for nearly a thousand years. Today, with its airport and ferry harbour, Olbia is the main gateway to northern Sardinia and the nearby Costa Smeralda. The Corso Umberto, a lively pedestrian street full of cafes, runs from the old core to the harbour facing the island of Tavolara. For anyone travelling with a dog, Olbia combines a flat, easy town, sandy beaches such as Pittulongu and Porto Istana, and prehistoric nuragic sites in open country just minutes away.`,
+      es: `Olbia, en la costa nororiental de Cerdeña, guarda en su nombre griego la idea de prosperidad: puerto fenicio y luego romano con el nombre de Terranova, la ciudad ha dominado siempre la entrada a la Gallura y al mar Tirreno. A su alrededor, los nuraghi de la Edad del Bronce recuerdan un poblamiento muy anterior, mientras que la basílica románica de San Simplicio, levantada en granito local en el siglo XI, vela por el centro desde hace casi mil años. Hoy, con su aeropuerto y su puerto de ferris, Olbia es la gran puerta de entrada al norte de Cerdeña y a la cercana Costa Esmeralda. El Corso Umberto, animada calle peatonal llena de cafés, une el casco histórico con el puerto frente a la isla de Tavolara. Para quien viaja con perro, Olbia reúne una ciudad llana y cómoda, playas de arena como Pittulongu y Porto Istana, y yacimientos nurágicos en plena naturaleza a pocos minutos.`,
+      pt: `Olbia, na costa nordeste da Sardenha, guarda no seu nome grego a ideia de prosperidade: porto fenício e depois romano com o nome de Terranova, a cidade sempre dominou a entrada da Gallura e do mar Tirreno. Em redor, os nuraghi da Idade do Bronze recordam um povoamento muito anterior, enquanto a basílica românica de San Simplicio, erguida em granito local no século XI, vela pelo centro há quase mil anos. Hoje, com o seu aeroporto e o seu porto de ferries, Olbia é a grande porta de entrada do norte da Sardenha e da vizinha Costa Smeralda. O Corso Umberto, animada rua pedonal cheia de cafés, liga o núcleo histórico ao porto em frente à ilha de Tavolara. Para quem viaja com um cão, Olbia reúne uma cidade plana e fácil, praias de areia como Pittulongu e Porto Istana, e sítios nurágicos em plena natureza a poucos minutos.`,
+    },
+    sights: [
+      {
+        name: 'Corso Umberto I',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Grande artère piétonne du centre, bordée de cafés, de boutiques et de palmiers, reliant le cœur historique au port. On la parcourt en laisse et de nombreuses terrasses accueillent les chiens.`,
+          en: `The main pedestrian street of the centre, lined with cafes, shops and palm trees, linking the old core to the harbour. You walk it on the leash and many terraces welcome dogs.`,
+          es: `Gran calle peatonal del centro, bordeada de cafés, tiendas y palmeras, que une el casco histórico con el puerto. Se recorre con correa y muchas terrazas admiten perros.`,
+          pt: `Grande rua pedonal do centro, ladeada de cafés, lojas e palmeiras, que liga o núcleo histórico ao porto. Percorre-se à trela e muitas esplanadas acolhem cães.`,
+        },
+      },
+      {
+        name: 'Basilica di San Simplicio',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Église romane du XIe siècle en granit, le plus important monument médiéval de la Gallura. Les chiens ne sont pas admis à l'intérieur ; la place et le parvis se visitent en laisse.`,
+          en: `An 11th-century Romanesque church in granite, the most important medieval monument in Gallura. Dogs are not allowed inside; the square and forecourt can be seen on the leash.`,
+          es: `Iglesia románica del siglo XI en granito, el monumento medieval más importante de la Gallura. No se admiten perros en el interior; la plaza y el atrio se visitan con correa.`,
+          pt: `Igreja românica do século XI em granito, o mais importante monumento medieval da Gallura. Não são admitidos cães no interior; a praça e o adro visitam-se com trela.`,
+        },
+      },
+      {
+        name: 'Spiaggia di Pittulongu',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Longue plage de sable clair à quelques minutes au nord de la ville, face à l'île de Tavolara. Baignade et jeux hors saison estivale ; l'été, repérez les secteurs autorisés aux chiens.`,
+          en: `A long, pale-sand beach a few minutes north of town, facing Tavolara island. Swimming and play outside the summer season; in summer, look for the dog-permitted sections.`,
+          es: `Larga playa de arena clara a pocos minutos al norte de la ciudad, frente a la isla de Tavolara. Baño y juegos fuera de la temporada estival; en verano, busca los tramos permitidos a perros.`,
+          pt: `Longa praia de areia clara a poucos minutos a norte da cidade, em frente à ilha de Tavolara. Banho e brincadeira fora da época estival; no verão, procure os troços permitidos a cães.`,
+        },
+      },
+      {
+        name: 'Porto Istana',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Chapelet de criques de sable blanc et d'eau turquoise à une quinzaine de minutes, face à Tavolara. Cadre superbe pour une balade au bord de l'eau hors des mois de forte affluence.`,
+          en: `A string of white-sand coves with turquoise water about fifteen minutes away, facing Tavolara. A superb setting for a waterside walk outside the peak-crowd months.`,
+          es: `Rosario de calas de arena blanca y agua turquesa a unos quince minutos, frente a Tavolara. Marco espléndido para un paseo junto al agua fuera de los meses de mayor afluencia.`,
+          pt: `Rosário de enseadas de areia branca e água turquesa a cerca de quinze minutos, em frente a Tavolara. Cenário soberbo para um passeio à beira-água fora dos meses de maior afluência.`,
+        },
+      },
+      {
+        name: 'Nuraghe Riu Mulinu',
+        emoji: '🗿',
+        petFriendly: true,
+        desc: {
+          fr: `Village nuragique de l'âge du bronze perché sur la colline de Cabu Abbas, dominant le golfe d'Olbia. Site à ciel ouvert accessible à pied, chiens bienvenus en laisse sur le sentier.`,
+          en: `A Bronze Age nuragic settlement perched on the Cabu Abbas hill, overlooking the gulf of Olbia. An open-air site reached on foot, dogs welcome on the leash along the trail.`,
+          es: `Poblado nurágico de la Edad del Bronce encaramado en la colina de Cabu Abbas, dominando el golfo de Olbia. Yacimiento al aire libre accesible a pie, perros bienvenidos con correa en el sendero.`,
+          pt: `Povoado nurágico da Idade do Bronze empoleirado na colina de Cabu Abbas, dominando o golfo de Olbia. Sítio ao ar livre acessível a pé, cães bem-vindos à trela no trilho.`,
+        },
+      },
+      {
+        name: 'Museo Archeologico di Olbia',
+        emoji: '🏛️',
+        petFriendly: false,
+        desc: {
+          fr: `Musée installé sur un îlot du port, présentant les épaves romaines et l'histoire de l'antique Terranova. Espace intérieur où les chiens ne sont pas admis ; les quais alentour se longent en laisse.`,
+          en: `A museum set on a small island in the harbour, showing Roman shipwrecks and the history of ancient Terranova. An indoor space where dogs are not admitted; the surrounding quays can be walked on the leash.`,
+          es: `Museo situado en un islote del puerto, que muestra los pecios romanos y la historia de la antigua Terranova. Espacio interior donde no se admiten perros; los muelles de alrededor se recorren con correa.`,
+          pt: `Museu situado num ilhéu do porto, que mostra os destroços romanos e a história da antiga Terranova. Espaço interior onde não são admitidos cães; os cais em redor percorrem-se à trela.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        'Chaleur estivale extrême en Gallura, souvent au-delà de 35 °C : le sable et le bitume brûlent les coussinets, promenez tôt le matin ou en soirée et apportez toujours de l\'eau.',
+        'Interdiction saisonnière des chiens sur la plupart des plages en haute saison ; quelques plages équipées pour chiens (spiaggia per cani) existent en Gallura, vérifiez leur emplacement sur place.',
+        'La loi italienne impose de porter une muselière et de pouvoir l\'utiliser à la demande dans les lieux publics et les transports ; gardez-en une souple dans le sac.',
+        'Août est bondé et les hébergements pet-friendly se remplissent tôt : réservez bien à l\'avance, ferries et hôtels compris.',
+        'En cas d\'urgence, composez le 112 ; repérez à l\'arrivée une clinique vétérinaire de garde, l\'offre se concentre en ville et le long de la Costa Smeralda.',
+      ],
+      en: [
+        'Extreme summer heat in Gallura, often above 35 °C: sand and pavement burn paws, so walk early morning or evening and always carry water.',
+        'Seasonal dog ban on most beaches in high season; a few equipped dog beaches (spiaggia per cani) exist in Gallura, so check their location locally.',
+        'Italian law requires carrying a muzzle and being able to use it on request in public places and on transport; keep a soft one in your bag.',
+        'August is crowded and pet-friendly stays fill up early: book well ahead, ferries and hotels included.',
+        'In an emergency dial 112; on arrival scout a duty veterinary clinic, provision is concentrated in town and along the Costa Smeralda.',
+      ],
+      es: [
+        'Calor estival extremo en la Gallura, a menudo por encima de 35 °C: la arena y el asfalto queman las almohadillas, así que pasea temprano o al atardecer y lleva siempre agua.',
+        'Prohibición estacional de perros en la mayoría de playas en temporada alta; existen algunas playas equipadas para perros (spiaggia per cani) en la Gallura, comprueba su ubicación sobre el terreno.',
+        'La ley italiana obliga a llevar bozal y poder usarlo cuando se solicite en lugares públicos y transportes; guarda uno flexible en la bolsa.',
+        'Agosto está abarrotado y los alojamientos pet-friendly se llenan pronto: reserva con mucha antelación, ferris y hoteles incluidos.',
+        'En caso de urgencia marca el 112; al llegar localiza una clínica veterinaria de guardia, la oferta se concentra en la ciudad y a lo largo de la Costa Esmeralda.',
+      ],
+      pt: [
+        'Calor estival extremo na Gallura, muitas vezes acima de 35 °C: a areia e o asfalto queimam as almofadas das patas, por isso passeie de manhã cedo ou ao fim do dia e leve sempre água.',
+        'Proibição sazonal de cães na maioria das praias em época alta; existem algumas praias equipadas para cães (spiaggia per cani) na Gallura, confirme a sua localização no local.',
+        'A lei italiana obriga a transportar açaime e a poder usá-lo quando solicitado em locais públicos e transportes; guarde um flexível na mochila.',
+        'Agosto está cheio e os alojamentos pet-friendly esgotam cedo: reserve com muita antecedência, ferries e hotéis incluídos.',
+        'Em caso de emergência ligue 112; à chegada localize uma clínica veterinária de urgência, a oferta concentra-se na cidade e ao longo da Costa Smeralda.',
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        'Passeport européen et vaccination antirabique valide exigés à l\'enregistrement dans tout hôtel pet-friendly.',
+        'Laisse obligatoire dans les espaces publics et muselière à porter sur soi (obligation italienne), à présenter ou utiliser sur demande.',
+        'Ramassage des déjections imposé partout, amendes en cas de non-respect, contrôles fréquents sur le Corso Umberto et le front de mer.',
+        'Olbia est un hub aérien et de ferries pour la Sardaigne du Nord ; les compagnies (Moby, Tirrenia, GNV, Grimaldi) acceptent les chiens en laisse et muselés, réservation animal recommandée.',
+        'Numéro d\'urgence européen 112 ; anticipez la forte chaleur estivale et le sable brûlant pour toute sortie de plage avec un chien.',
+      ],
+      en: [
+        'EU pet passport and valid rabies vaccination required at check-in in every pet-friendly hotel.',
+        'Leash mandatory in public spaces and a muzzle to be carried (an Italian requirement), to be shown or used on request.',
+        'Waste pick-up enforced everywhere, with fines for non-compliance and frequent checks on the Corso Umberto and the seafront.',
+        'Olbia is an air and ferry hub for northern Sardinia; carriers (Moby, Tirrenia, GNV, Grimaldi) accept leashed, muzzled dogs, pet booking recommended.',
+        'European emergency number 112; plan around strong summer heat and scorching sand for any beach outing with a dog.',
+      ],
+      es: [
+        'Pasaporte europeo y vacunación antirrábica vigente exigidos al hacer el check-in en todo hotel pet-friendly.',
+        'Correa obligatoria en los espacios públicos y bozal que hay que llevar encima (obligación italiana), para mostrar o usar cuando se pida.',
+        'Recogida de excrementos obligatoria en todas partes, con multas por incumplimiento y controles frecuentes en el Corso Umberto y el paseo marítimo.',
+        'Olbia es un nudo aéreo y de ferris para el norte de Cerdeña; las navieras (Moby, Tirrenia, GNV, Grimaldi) admiten perros con correa y bozal, se recomienda reservar plaza para la mascota.',
+        'Número de urgencia europeo 112; anticipa el fuerte calor estival y la arena ardiente en cualquier salida a la playa con perro.',
+      ],
+      pt: [
+        'Passaporte europeu e vacinação antirrábica válida exigidos no check-in em qualquer hotel pet-friendly.',
+        'Trela obrigatória nos espaços públicos e açaime a transportar consigo (obrigação italiana), para mostrar ou usar quando pedido.',
+        'Recolha de dejetos obrigatória em todo o lado, com multas em caso de incumprimento e fiscalização frequente no Corso Umberto e na frente-mar.',
+        'Olbia é um polo aéreo e de ferries para o norte da Sardenha; as companhias (Moby, Tirrenia, GNV, Grimaldi) aceitam cães à trela e com açaime, recomenda-se reserva para o animal.',
+        'Número de emergência europeu 112; conte com o forte calor estival e a areia escaldante em qualquer ida à praia com um cão.',
       ],
     },
   },

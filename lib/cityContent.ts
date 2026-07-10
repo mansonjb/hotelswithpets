@@ -37808,6 +37808,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'st-moritz': {
+    history: {
+      fr: `Saint-Moritz (St. Moritz), station alpine mythique de la haute Engadine dans les Grisons, s'étage à environ 1800 mètres autour de son lac turquoise, dans un décor de sommets et de mélèzes. Berceau du tourisme hivernal alpin depuis 1864 et deux fois hôte des Jeux olympiques d'hiver, la ville doit sa réputation à son soleil abondant, à son eau minérale ferrugineuse connue depuis l'Antiquité et à une clientèle fortunée qui a fait pousser palaces et boutiques de luxe. En hiver, le lac gèle assez pour accueillir courses de chevaux sur glace, polo et cricket ; en été, la vallée devient un vaste terrain de randonnée. Pour un maître de chien, Saint-Moritz offre une nature grandiose et un réseau de funiculaires et téléphériques largement ouverts aux animaux, mais aussi l'altitude, un soleil intense et des hivers rigoureux qui demandent quelques précautions.`,
+      en: `St. Moritz, the storied alpine resort of the high Engadin valley in Graubunden, sits at around 1800 metres around its turquoise lake, ringed by peaks and larch forest. The birthplace of alpine winter tourism since 1864 and twice host of the Winter Olympics, the town owes its fame to abundant sunshine, an iron-rich mineral spring known since antiquity, and a wealthy clientele that raised its grand palace hotels and luxury boutiques. In winter the lake freezes hard enough for horse racing on ice, polo and cricket; in summer the valley becomes a vast hiking playground. For a dog owner, St. Moritz offers magnificent scenery and a network of funiculars and cable cars largely open to pets, but also altitude, intense sun and hard winters that call for a little care.`,
+      es: `St. Moritz, la mítica estación alpina del alto valle del Engadina en los Grisones, se asienta a unos 1800 metros en torno a su lago turquesa, rodeada de cumbres y bosques de alerces. Cuna del turismo invernal alpino desde 1864 y dos veces sede de los Juegos Olímpicos de Invierno, la ciudad debe su fama a su sol abundante, a un manantial mineral rico en hierro conocido desde la Antigüedad y a una clientela adinerada que levantó sus grandes hoteles palacio y boutiques de lujo. En invierno el lago se hiela lo bastante para acoger carreras de caballos sobre hielo, polo y críquet; en verano el valle se convierte en un inmenso territorio de senderismo. Para un dueño de perro, St. Moritz ofrece paisajes grandiosos y una red de funiculares y teleféricos muy abiertos a los animales, pero también altitud, sol intenso e inviernos duros que exigen algo de precaución.`,
+      pt: `St. Moritz, a lendária estância alpina do alto vale do Engadin, nos Grisões, ergue-se a cerca de 1800 metros em torno do seu lago turquesa, rodeada por picos e florestas de lariços. Berço do turismo alpino de inverno desde 1864 e duas vezes anfitriã dos Jogos Olímpicos de Inverno, a cidade deve a sua fama ao sol abundante, a uma nascente mineral rica em ferro conhecida desde a Antiguidade e a uma clientela abastada que ergueu os seus grandes hotéis palácio e boutiques de luxo. No inverno o lago gela o suficiente para acolher corridas de cavalos no gelo, polo e críquete; no verão o vale torna-se um vasto território de caminhadas. Para um dono de cão, St. Moritz oferece paisagens grandiosas e uma rede de funiculares e teleféricos muito abertos aos animais, mas também altitude, sol intenso e invernos rigorosos que exigem algum cuidado.`,
+    },
+    sights: [
+      {
+        name: 'Lej da San Murezzan (Lake St. Moritz)',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Le lac turquoise au cœur de la station, ceinturé d'une promenade plate reliant St. Moritz Bad à Dorf, idéale pour une marche facile avec vue sur les sommets. Les chiens en laisse y sont bienvenus toute l'année ; en hiver, le lac gelé accueille courses de chevaux et polo, restez alors sur les berges balisées.`,
+          en: `The turquoise lake at the heart of the resort, ringed by a flat promenade linking St. Moritz Bad to Dorf, perfect for an easy walk with mountain views. Leashed dogs are welcome year-round; in winter the frozen lake hosts horse racing and polo, so keep to the marked shore paths then.`,
+          es: `El lago turquesa en el corazón de la estación, rodeado por un paseo llano que une St. Moritz Bad con Dorf, ideal para un paseo fácil con vistas a las cumbres. Los perros con correa son bienvenidos todo el año; en invierno el lago helado acoge carreras de caballos y polo, así que quédate en los senderos señalizados de la orilla.`,
+          pt: `O lago turquesa no coração da estância, rodeado por um passeio plano que liga St. Moritz Bad a Dorf, ideal para uma caminhada fácil com vistas para os picos. Os cães com trela são bem-vindos todo o ano; no inverno o lago gelado acolhe corridas de cavalos e polo, por isso mantenha-se nos trilhos marcados da margem.`,
+        },
+      },
+      {
+        name: 'Muottas Muragl',
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          fr: `Funiculaire historique menant à 2456 mètres, d'où s'ouvre l'un des plus beaux panoramas sur la vallée de l'Engadine et sa chaîne de lacs. Les chiens sont admis dans la cabine et sur le célèbre sentier panoramique (Philosophenweg) qui part du sommet ; prévoyez de l'eau, l'air y est sec et le soleil vif.`,
+          en: `A historic funicular climbing to 2456 metres, opening one of the finest panoramas over the Engadin valley and its chain of lakes. Dogs are allowed in the cabin and on the famous panoramic path (Philosophenweg) from the top; bring water, as the air is dry and the sun fierce.`,
+          es: `Funicular histórico que sube a 2456 metros, desde donde se abre uno de los mejores panoramas del valle del Engadina y su cadena de lagos. Los perros se admiten en la cabina y en el célebre sendero panorámico (Philosophenweg) que parte de la cima; lleva agua, pues el aire es seco y el sol intenso.`,
+          pt: `Funicular histórico que sobe até 2456 metros, de onde se abre um dos mais belos panoramas do vale do Engadin e da sua cadeia de lagos. Os cães são admitidos na cabina e no famoso trilho panorâmico (Philosophenweg) que parte do cimo; leve água, pois o ar é seco e o sol intenso.`,
+        },
+      },
+      {
+        name: 'Piz Nair (Corviglia)',
+        emoji: '🏔️',
+        petFriendly: true,
+        desc: {
+          fr: `Le domaine de Corviglia et le sommet du Piz Nair (3057 mètres) sont accessibles par funiculaire puis téléphérique depuis le centre, ouvrant sur des alpages fleuris en été. Les chiens sont admis dans les cabines moyennant un billet réduit ; en altitude, le soleil et l'air raréfié fatiguent vite, ménagez les efforts.`,
+          en: `The Corviglia ski area and the Piz Nair summit (3057 metres) are reached by funicular then cable car from the centre, opening onto flower-filled alpine meadows in summer. Dogs travel in the cabins on a reduced ticket; at altitude the sun and thin air tire quickly, so pace the effort.`,
+          es: `El dominio de Corviglia y la cima del Piz Nair (3057 metros) se alcanzan en funicular y luego en teleférico desde el centro, abriéndose a praderas alpinas floridas en verano. Los perros viajan en las cabinas con billete reducido; en altura el sol y el aire enrarecido cansan pronto, dosifica el esfuerzo.`,
+          pt: `A área de Corviglia e o cume do Piz Nair (3057 metros) alcançam-se de funicular e depois de teleférico a partir do centro, abrindo-se a prados alpinos floridos no verão. Os cães viajam nas cabinas com bilhete reduzido; em altitude o sol e o ar rarefeito cansam depressa, doseie o esforço.`,
+        },
+      },
+      {
+        name: 'Morteratsch Glacier Trail',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `À une vingtaine de minutes vers le col de la Bernina, le sentier du glacier de Morteratsch suit une vallée quasi plane jalonnée de bornes marquant le recul de la glace année après année. Les chiens en laisse sont les bienvenus sur ce parcours facile et ombragé par endroits ; le torrent glaciaire permet de rafraîchir les pattes.`,
+          en: `About twenty minutes toward the Bernina Pass, the Morteratsch glacier trail follows a near-level valley marked with posts showing the ice's retreat year by year. Leashed dogs are welcome on this easy, partly shaded walk; the glacial stream lets a dog cool its paws.`,
+          es: `A unos veinte minutos hacia el puerto de la Bernina, el sendero del glaciar de Morteratsch recorre un valle casi llano jalonado de postes que marcan el retroceso del hielo año tras año. Los perros con correa son bienvenidos en este paseo fácil y en parte sombreado; el torrente glaciar permite refrescar las patas.`,
+          pt: `A cerca de vinte minutos rumo ao passo da Bernina, o trilho do glaciar de Morteratsch percorre um vale quase plano marcado por postes que assinalam o recuo do gelo ano após ano. Os cães com trela são bem-vindos neste passeio fácil e em parte sombreado; a torrente glaciar permite refrescar as patas.`,
+        },
+      },
+      {
+        name: 'Bernina Express',
+        emoji: '🚂',
+        petFriendly: true,
+        desc: {
+          fr: `Ligne ferroviaire classée UNESCO franchissant le col de la Bernina jusqu'à Tirano en Italie, parmi les plus spectaculaires des Alpes avec ses viaducs en spirale. Les chiens voyagent à bord au demi-tarif (muselière possible selon affluence) ; un billet régional jusqu'à Alp Grum ou Ospizio Bernina suffit pour goûter les plus beaux paysages.`,
+          en: `A UNESCO-listed railway crossing the Bernina Pass down to Tirano in Italy, among the most spectacular in the Alps with its spiral viaducts. Dogs ride at half fare (a muzzle may be asked when crowded); a regional ticket as far as Alp Grum or Ospizio Bernina is enough to enjoy the finest scenery.`,
+          es: `Línea ferroviaria Patrimonio de la UNESCO que cruza el puerto de la Bernina hasta Tirano, en Italia, de las más espectaculares de los Alpes con sus viaductos en espiral. Los perros viajan a mitad de tarifa (puede pedirse bozal si va lleno); un billete regional hasta Alp Grum u Ospizio Bernina basta para disfrutar de los mejores paisajes.`,
+          pt: `Linha ferroviária classificada pela UNESCO que atravessa o passo da Bernina até Tirano, em Itália, das mais espetaculares dos Alpes com os seus viadutos em espiral. Os cães viajam a meia tarifa (pode ser pedido açaime quando cheio); um bilhete regional até Alp Grum ou Ospizio Bernina basta para desfrutar das melhores paisagens.`,
+        },
+      },
+      {
+        name: 'Segantini Museum',
+        emoji: '🖼️',
+        petFriendly: false,
+        desc: {
+          fr: `Musée coiffé d'une coupole dédié au peintre Giovanni Segantini, dont les toiles alpines lumineuses résument l'âme de l'Engadine. Les chiens ne sont pas admis à l'intérieur ; laissez votre compagnon avec un proche et profitez ensuite de la promenade du lac toute proche, qui elle est ouverte aux animaux en laisse.`,
+          en: `A dome-topped museum devoted to the painter Giovanni Segantini, whose luminous alpine canvases capture the soul of the Engadin. Dogs are not allowed inside; leave your companion with a friend and afterwards enjoy the nearby lakeside promenade, which is open to leashed pets.`,
+          es: `Museo coronado por una cúpula dedicado al pintor Giovanni Segantini, cuyos luminosos lienzos alpinos resumen el alma del Engadina. Los perros no se admiten en el interior; deja a tu compañero con alguien de confianza y disfruta luego del cercano paseo del lago, abierto a los animales con correa.`,
+          pt: `Museu encimado por uma cúpula dedicado ao pintor Giovanni Segantini, cujas luminosas telas alpinas resumem a alma do Engadin. Os cães não são admitidos no interior; deixe o seu companheiro com alguém de confiança e desfrute depois do vizinho passeio à beira-lago, aberto aos animais com trela.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Attention à l'altitude : à 1800 mètres et plus, l'air est raréfié et l'effort fatigue plus vite ; laissez votre chien s'acclimater un jour ou deux avant les grandes randonnées et proposez de l'eau souvent.`,
+        `En hiver, le sel et les produits de déneigement irritent les coussinets : rincez et séchez les pattes au retour, appliquez un baume protecteur, et surveillez les boules de neige glacées entre les doigts.`,
+        `Le soleil de montagne est très intense, surtout réverbéré par la neige ou en altitude : cherchez l'ombre aux heures chaudes en été et protégez les chiens à peau claire ou au poil ras.`,
+        `Sur les remontées mécaniques (funiculaires, téléphériques, Bernina Express), les chiens sont généralement admis avec un billet réduit ou au demi-tarif ; une muselière peut être exigée aux heures d'affluence, gardez-en une dans le sac.`,
+        `Quand le lac gèle et accueille courses de chevaux, polo ou White Turf, tenez votre chien en laisse à l'écart des pistes damées et des chevaux ; ne vous aventurez jamais sur la glace hors des zones balisées.`,
+      ],
+      en: [
+        `Mind the altitude: at 1800 metres and above the air is thin and exertion tires a dog faster; let your dog acclimatise a day or two before big hikes and offer water often.`,
+        `In winter, road salt and de-icing grit irritate paw pads: rinse and dry the paws on return, apply a protective balm, and watch for ice balls forming between the toes.`,
+        `Mountain sun is very strong, especially reflected off snow or at altitude: seek shade in the hot hours in summer and protect light-skinned or short-coated dogs.`,
+        `On the mountain transport (funiculars, cable cars, Bernina Express), dogs are generally allowed on a reduced or half fare; a muzzle may be required at busy times, so keep one in the bag.`,
+        `When the lake freezes for horse racing, polo or the White Turf, keep your dog leashed and well clear of the groomed tracks and horses; never venture onto the ice outside marked areas.`,
+      ],
+      es: [
+        `Cuidado con la altitud: a 1800 metros y más el aire es enrarecido y el esfuerzo cansa antes; deja que tu perro se aclimate un día o dos antes de las grandes caminatas y ofrécele agua a menudo.`,
+        `En invierno, la sal y los productos antihielo irritan las almohadillas: enjuaga y seca las patas al volver, aplica un bálsamo protector y vigila las bolas de hielo entre los dedos.`,
+        `El sol de montaña es muy intenso, sobre todo reflejado en la nieve o en altura: busca la sombra en las horas de calor en verano y protege a los perros de piel clara o pelo corto.`,
+        `En los remontes (funiculares, teleféricos, Bernina Express), los perros suelen admitirse con billete reducido o a mitad de tarifa; puede exigirse bozal en horas punta, así que lleva uno en la mochila.`,
+        `Cuando el lago se hiela para carreras de caballos, polo o el White Turf, mantén a tu perro con correa y lejos de las pistas preparadas y de los caballos; no te aventures nunca sobre el hielo fuera de las zonas señalizadas.`,
+      ],
+      pt: [
+        `Atenção à altitude: a 1800 metros e mais o ar é rarefeito e o esforço cansa mais depressa; deixe o seu cão aclimatar-se um dia ou dois antes das grandes caminhadas e ofereça água com frequência.`,
+        `No inverno, o sal e os produtos de degelo irritam as almofadinhas: enxágue e seque as patas ao regressar, aplique um bálsamo protetor e vigie as bolas de gelo entre os dedos.`,
+        `O sol de montanha é muito intenso, sobretudo refletido na neve ou em altitude: procure a sombra nas horas de calor no verão e proteja os cães de pele clara ou pelo curto.`,
+        `Nos transportes de montanha (funiculares, teleféricos, Bernina Express), os cães são geralmente admitidos com bilhete reduzido ou a meia tarifa; pode ser exigido açaime nas horas de ponta, por isso leve um na mochila.`,
+        `Quando o lago gela para corridas de cavalos, polo ou o White Turf, mantenha o seu cão com trela e bem afastado das pistas preparadas e dos cavalos; nunca se aventure sobre o gelo fora das zonas marcadas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `La Suisse est hors UE mais compatible avec le passeport animalier européen : puce ISO, vaccination antirabique en cours de validité et passeport suffisent pour entrer et revenir dans l'UE, sans test sérologique.`,
+        `Dans les transports publics suisses (trains RhB, PostBus, remontées), les chiens voyagent au demi-tarif ou avec une carte journalière chien ; les petits chiens en sac voyagent souvent gratuitement, muselière possible selon l'affluence.`,
+        `Saint-Moritz est une station de luxe : l'hébergement y est cher, réservez tôt et comparez avec les villages voisins de l'Engadine (Pontresina, Celerina, Samedan) souvent plus abordables et tout aussi accueillants.`,
+        `Pour une urgence vétérinaire, la clinique de référence de la région est à Samedan, à quelques minutes en voiture ; gardez sur vous le carnet de santé et le passeport de l'animal ; numéro d'urgence général 112, urgences sanitaires 144.`,
+        `Le climat est alpin : étés frais et agréables pour les chiens, mais soleil vif en altitude, et hivers longs et neigeux (novembre à avril) qui imposent soins des pattes et vigilance sur le sel de déneigement.`,
+      ],
+      en: [
+        `Switzerland is outside the EU but compatible with the EU pet passport: an ISO microchip, a valid rabies vaccination and the passport are enough to enter and return to the EU, with no blood titre test needed.`,
+        `On Swiss public transport (RhB trains, PostBus, mountain lifts), dogs travel at half fare or on a dog day pass; small dogs in a bag often travel free, with a muzzle possible when busy.`,
+        `St. Moritz is a luxury resort: lodging is expensive, so book early and compare with the nearby Engadin villages (Pontresina, Celerina, Samedan), which are often cheaper and just as welcoming.`,
+        `For a veterinary emergency, the region's referral clinic is in Samedan, a few minutes away by car; keep your pet's health record and passport on you; general emergency number 112, medical emergencies 144.`,
+        `The climate is alpine: summers are cool and pleasant for dogs, but the sun is fierce at altitude, and winters are long and snowy (November to April), calling for paw care and vigilance about road salt.`,
+      ],
+      es: [
+        `Suiza está fuera de la UE pero es compatible con el pasaporte animal europeo: microchip ISO, vacunación antirrábica en vigor y pasaporte bastan para entrar y volver a la UE, sin prueba serológica.`,
+        `En el transporte público suizo (trenes RhB, PostBus, remontes), los perros viajan a mitad de tarifa o con un abono diario para perros; los perros pequeños en bolsa suelen viajar gratis, con posible bozal si va lleno.`,
+        `St. Moritz es una estación de lujo: el alojamiento es caro, reserva pronto y compara con los pueblos cercanos del Engadina (Pontresina, Celerina, Samedan), a menudo más asequibles e igual de acogedores.`,
+        `Para una urgencia veterinaria, la clínica de referencia de la región está en Samedan, a pocos minutos en coche; lleva contigo la cartilla y el pasaporte del animal; número de emergencia general 112, urgencias sanitarias 144.`,
+        `El clima es alpino: veranos frescos y agradables para los perros, pero sol intenso en altura, e inviernos largos y nevados (noviembre a abril) que exigen cuidado de las patas y atención a la sal antihielo.`,
+      ],
+      pt: [
+        `A Suíça está fora da UE mas é compatível com o passaporte animal europeu: microchip ISO, vacinação antirrábica válida e passaporte bastam para entrar e regressar à UE, sem teste serológico.`,
+        `Nos transportes públicos suíços (comboios RhB, PostBus, teleféricos), os cães viajam a meia tarifa ou com um passe diário para cães; os cães pequenos em saco viajam muitas vezes grátis, com possível açaime quando cheio.`,
+        `St. Moritz é uma estância de luxo: o alojamento é caro, reserve cedo e compare com as aldeias vizinhas do Engadin (Pontresina, Celerina, Samedan), muitas vezes mais acessíveis e igualmente acolhedoras.`,
+        `Para uma emergência veterinária, a clínica de referência da região fica em Samedan, a poucos minutos de carro; leve consigo o boletim sanitário e o passaporte do animal; número de emergência geral 112, emergências médicas 144.`,
+        `O clima é alpino: verões frescos e agradáveis para os cães, mas sol intenso em altitude, e invernos longos e com neve (novembro a abril) que exigem cuidado com as patas e atenção ao sal de degelo.`,
+      ],
+    },
+  },
+
   stavanger: {
     history: {
       fr: `Stavanger, fondée comme bourg viking au VIIIe siècle puis bourg ecclésiastique en 1125 quand l'évêque Reinald y fit construire la cathédrale de pierre romane qui domine encore le centre-ville, est devenue au XXe siècle la « capitale du pétrole » norvégienne après la découverte des champs de la mer du Nord en 1969. Aujourd'hui troisième ville du pays (140 000 habitants), Stavanger combine un héritage industriel pétrolier (musée du pétrole sur le port) avec la plus grande vieille ville em bois préservée du nord de l'Europe (Gamle Stavanger, 173 maisons des XVIIIe-XIXe siècles) et l'iconique Preikestolen à 50 min à l'est. Pour les voyageurs avec un chien, c'est l'une des destinations européennes les plus dog-friendly : transports gratuits sans muselière sans billet (Kolumbus bus + ferries Lysefjord, Vy trains), randonnée du Preikestolen accessible aux chiens em laisse toute l'année, 35 km de sable atlantique dog-friendly à 15 min au sud (Solastranden, Borestranden), et un hôpital vétérinaire 24h/24 em périphérie.`,
@@ -39228,6 +39365,143 @@ const cityContent: Record<string, CityContent> = {
         `Lojas de animais e secções pet nos supermercados da cidade; banhos e tosquias no centro`,
         `Comboios regionais da CP na linha do Algarve: cães pequenos em transportadora grátis, cães grandes com trela e açaime com bilhete a meia tarifa; barcos para a ilha: cães geralmente admitidos, informar-se no cais`,
         `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios; trela obrigatória nos espaços públicos, cães proibidos nas praias vigiadas na época balnear, prevenção da leishmaniose fortemente aconselhada no sul de Portugal (flebótomos ativos de maio a outubro)`,
+      ],
+    },
+  },
+
+  tbilisi: {
+    history: {
+      fr: `Tbilissi, capitale de la Géorgie, s'étire dans une vallée encaissée du Caucase le long de la rivière Mtkvari (Koura), à la croisée des routes entre Europe et Asie. La légende attribue sa fondation au Ve siècle au roi Vakhtang Gorgassali, qui découvrit ses sources chaudes sulfureuses ; le nom même de la ville vient du géorgien tbili, chaud. Carrefour convoité, elle fut tour à tour persane, ottomane, russe puis soviétique, et ce brassage se lit dans sa vieille ville où églises orthodoxes, mosquée, synagogue et bains à coupoles se côtoient. Depuis l'indépendance de 1991, Tbilissi mêle ruelles de bois sculpté, façades restaurées et architecture contemporaine audacieuse. Pour un maître de chien, c'est une ville étonnamment accueillante : la Géorgie tolère et prend soin de ses chiens des rues, marqués à l'oreille après stérilisation et vaccination, et les parcs comme les collines offrent de belles promenades.`,
+      en: `Tbilisi, the capital of Georgia, unfolds in a steep Caucasus valley along the Mtkvari (Kura) river, at the crossroads between Europe and Asia. Legend credits its 5th-century founding to King Vakhtang Gorgasali, who discovered its warm sulphur springs; the city's very name comes from the Georgian tbili, meaning warm. A coveted junction, it was in turn Persian, Ottoman, Russian and Soviet, and that mingling shows in its old town, where Orthodox churches, a mosque, a synagogue and domed bathhouses stand side by side. Since independence in 1991, Tbilisi has blended carved-wood lanes, restored facades and bold contemporary architecture. For a dog owner it is a surprisingly welcoming city: Georgia tolerates and cares for its street dogs, ear-tagged after sterilisation and vaccination, and its parks and hills offer fine walks.`,
+      es: `Tbilisi, capital de Georgia, se extiende por un valle escarpado del Cáucaso a lo largo del río Mtkvari (Kura), en la encrucijada entre Europa y Asia. La leyenda atribuye su fundación en el siglo V al rey Vajtang Gorgasali, que descubrió sus cálidas fuentes sulfurosas; el propio nombre de la ciudad procede del georgiano tbili, cálido. Cruce codiciado, fue sucesivamente persa, otomana, rusa y soviética, y esa mezcla se percibe en su casco antiguo, donde iglesias ortodoxas, una mezquita, una sinagoga y baños con cúpulas conviven. Desde la independencia de 1991, Tbilisi combina callejuelas de madera tallada, fachadas restauradas y una arquitectura contemporánea atrevida. Para un dueño de perro es una ciudad sorprendentemente acogedora: Georgia tolera y cuida a sus perros callejeros, marcados en la oreja tras esterilizarlos y vacunarlos, y sus parques y colinas ofrecen buenos paseos.`,
+      pt: `Tbilisi, capital da Geórgia, estende-se por um vale íngreme do Cáucaso ao longo do rio Mtkvari (Kura), no cruzamento entre a Europa e a Ásia. A lenda atribui a sua fundação no século V ao rei Vakhtang Gorgasali, que descobriu as suas quentes nascentes sulfurosas; o próprio nome da cidade vem do georgiano tbili, quente. Cruzamento cobiçado, foi sucessivamente persa, otomana, russa e soviética, e essa mistura lê-se na sua cidade velha, onde igrejas ortodoxas, uma mesquita, uma sinagoga e balneários de cúpulas convivem. Desde a independência de 1991, Tbilisi combina vielas de madeira entalhada, fachadas restauradas e arquitetura contemporânea arrojada. Para um dono de cão é uma cidade surpreendentemente acolhedora: a Geórgia tolera e cuida dos seus cães de rua, marcados na orelha após esterilização e vacinação, e os seus parques e colinas oferecem belos passeios.`,
+    },
+    sights: [
+      {
+        name: 'Abanotubani',
+        emoji: '♨️',
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier historique des bains sulfureux, reconnaissable à ses coupoles de brique et à l'odeur de soufre, berceau légendaire de la ville au pied de la forteresse. On flâne librement dans les ruelles et jusqu'à la cascade de Leghvtakhevi avec un chien en laisse ; les bains eux-mêmes, en intérieur, ne sont pas ouverts aux animaux.`,
+          en: `The historic sulphur-bath district, recognisable by its brick domes and the smell of sulphur, the legendary cradle of the city at the foot of the fortress. You can wander the lanes and up to the Leghvtakhevi waterfall freely with a leashed dog; the baths themselves, indoors, are not open to pets.`,
+          es: `El histórico barrio de los baños sulfurosos, reconocible por sus cúpulas de ladrillo y el olor a azufre, cuna legendaria de la ciudad al pie de la fortaleza. Se pasea libremente por las callejuelas y hasta la cascada de Leghvtakhevi con un perro con correa; los baños en sí, en interior, no admiten animales.`,
+          pt: `O histórico bairro dos balneários sulfurosos, reconhecível pelas suas cúpulas de tijolo e pelo cheiro a enxofre, berço lendário da cidade ao pé da fortaleza. Passeia-se livremente pelas vielas e até à cascata de Leghvtakhevi com um cão com trela; os balneários em si, no interior, não admitem animais.`,
+        },
+      },
+      {
+        name: 'Narikala Fortress',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Forteresse du IVe siècle dominant la vieille ville, accessible à pied ou par téléphérique depuis le parc Rike, d'où la vue embrasse tout Tbilissi et la vallée. Les remparts en plein air se parcourent avec un chien en laisse ; la cabine du téléphérique admet généralement les petits chiens tenus, mais vérifiez auprès de l'agent avant d'embarquer.`,
+          en: `A 4th-century fortress crowning the old town, reached on foot or by cable car from Rike Park, its ramparts taking in the whole of Tbilisi and the valley. The open ramparts are walkable with a leashed dog; the cable-car cabin usually admits small held dogs, but check with the attendant before boarding.`,
+          es: `Fortaleza del siglo IV que domina el casco antiguo, accesible a pie o en teleférico desde el parque Rike, con vistas que abarcan todo Tbilisi y el valle. Las murallas al aire libre se recorren con un perro con correa; la cabina del teleférico suele admitir perros pequeños en brazos, pero consulta con el operario antes de subir.`,
+          pt: `Fortaleza do século IV que coroa a cidade velha, acessível a pé ou de teleférico a partir do parque Rike, com vistas que abarcam toda a Tbilisi e o vale. As muralhas ao ar livre percorrem-se com um cão com trela; a cabina do teleférico costuma admitir cães pequenos ao colo, mas confirme com o operador antes de embarcar.`,
+        },
+      },
+      {
+        name: 'Kartlis Deda (Mother of Georgia)',
+        emoji: '🗽',
+        petFriendly: true,
+        desc: {
+          fr: `Statue monumentale en aluminium dressée sur la crête de Sololaki, une coupe de vin dans une main pour les amis, une épée dans l'autre pour les ennemis, emblème de l'esprit géorgien. Le belvédère et le sentier de crête qui y mène se font avec un chien en laisse ; le panorama sur la ville et la Mtkvari est splendide au coucher du soleil.`,
+          en: `A monumental aluminium statue on the Sololaki ridge, a wine bowl in one hand for friends, a sword in the other for enemies, an emblem of the Georgian spirit. The viewpoint and the ridge path leading to it are done with a leashed dog; the panorama over the city and the Mtkvari is splendid at sunset.`,
+          es: `Estatua monumental de aluminio erguida en la cresta de Sololaki, una copa de vino en una mano para los amigos, una espada en la otra para los enemigos, emblema del espíritu georgiano. El mirador y el sendero de cresta que lleva hasta él se hacen con un perro con correa; el panorama sobre la ciudad y el Mtkvari es espléndido al atardecer.`,
+          pt: `Estátua monumental de alumínio erguida na crista de Sololaki, uma taça de vinho numa mão para os amigos, uma espada na outra para os inimigos, emblema do espírito georgiano. O miradouro e o trilho de crista que lá leva fazem-se com um cão com trela; o panorama sobre a cidade e o Mtkvari é esplêndido ao pôr do sol.`,
+        },
+      },
+      {
+        name: 'Rike Park & Peace Bridge',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Parc moderne au bord de la rivière relié à la vieille ville par le pont de la Paix, passerelle de verre et d'acier illuminée le soir. Pelouses, fontaines et allées se prêtent aux promenades avec un chien en laisse, et c'est le point de départ du téléphérique vers Narikala ; prévoyez de l'eau car l'ombre y est limitée l'été.`,
+          en: `A modern riverside park linked to the old town by the Peace Bridge, a glass-and-steel footbridge lit up at night. Lawns, fountains and paths make for pleasant walks with a leashed dog, and it is the departure point of the cable car to Narikala; bring water, as shade is limited in summer.`,
+          es: `Parque moderno junto al río unido al casco antiguo por el puente de la Paz, una pasarela de vidrio y acero iluminada de noche. Céspedes, fuentes y senderos invitan a pasear con un perro con correa, y es el punto de partida del teleférico hacia Narikala; lleva agua, pues la sombra es escasa en verano.`,
+          pt: `Parque moderno à beira-rio ligado à cidade velha pela ponte da Paz, uma passarela de vidro e aço iluminada à noite. Relvados, fontes e trilhos convidam a passear com um cão com trela, e é o ponto de partida do teleférico para Narikala; leve água, pois a sombra é escassa no verão.`,
+        },
+      },
+      {
+        name: 'Mtatsminda Park',
+        emoji: '🎡',
+        petFriendly: true,
+        desc: {
+          fr: `Parc d'attractions et belvédère au sommet de la colline sacrée de Mtatsminda, accessible par un funiculaire historique, offrant la plus haute vue sur Tbilissi. Les allées et jardins en plein air accueillent les chiens en laisse ; le funiculaire admet généralement les petits chiens tenus, mais l'accès aux manèges eux-mêmes leur est fermé.`,
+          en: `An amusement park and viewpoint atop the sacred Mtatsminda hill, reached by a historic funicular, giving the highest view over Tbilisi. The open paths and gardens welcome leashed dogs; the funicular usually admits small held dogs, though the rides themselves are off-limits to them.`,
+          es: `Parque de atracciones y mirador en la cima de la sagrada colina de Mtatsminda, accesible por un funicular histórico, con la vista más alta sobre Tbilisi. Los senderos y jardines al aire libre acogen perros con correa; el funicular suele admitir perros pequeños en brazos, aunque las atracciones en sí les están vedadas.`,
+          pt: `Parque de diversões e miradouro no topo da sagrada colina de Mtatsminda, acessível por um funicular histórico, com a vista mais alta sobre Tbilisi. Os trilhos e jardins ao ar livre acolhem cães com trela; o funicular costuma admitir cães pequenos ao colo, embora os divertimentos em si lhes estejam vedados.`,
+        },
+      },
+      {
+        name: 'Vake Park',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Vaste parc arboré du quartier résidentiel de Vake, l'un des poumons verts de la ville, avec fontaine monumentale, allées ombragées et pentes boisées grimpant vers le mont Turtle Lake. C'est l'endroit idéal pour une longue promenade avec un chien en laisse à l'écart de la circulation, très fréquenté par les habitants et leurs animaux.`,
+          en: `A large leafy park in the residential Vake district, one of the city's green lungs, with a monumental fountain, shaded avenues and wooded slopes climbing toward Turtle Lake. It is the ideal place for a long walk with a leashed dog away from traffic, much used by locals and their pets.`,
+          es: `Amplio parque arbolado del residencial barrio de Vake, uno de los pulmones verdes de la ciudad, con fuente monumental, avenidas sombreadas y laderas boscosas que ascienden hacia el lago de las Tortugas. Es el lugar ideal para un largo paseo con un perro con correa lejos del tráfico, muy frecuentado por los vecinos y sus animales.`,
+          pt: `Amplo parque arborizado do residencial bairro de Vake, um dos pulmões verdes da cidade, com fonte monumental, avenidas sombreadas e encostas arborizadas que sobem rumo ao lago das Tartarugas. É o lugar ideal para um longo passeio com um cão com trela longe do trânsito, muito frequentado pelos habitantes e seus animais.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La Géorgie est réputée pour sa tolérance envers les chiens des rues, stérilisés, vaccinés et marqués à l'oreille par la municipalité : ils sont généralement calmes et bien nourris, mais gardez votre chien en laisse et évitez les confrontations autour de la nourriture.`,
+        `Les étés à Tbilissi sont chauds et secs (souvent 32 à 35 °C) : promenez tôt le matin ou en soirée, emportez toujours de l'eau et cherchez les parcs ombragés comme Vake plutôt que les places minérales en plein soleil.`,
+        `La vieille ville est faite de ruelles pentues et de pavés qui chauffent l'après-midi en été : testez le sol du dos de la main avant de faire marcher votre chien, et privilégiez les sentiers de terre des collines.`,
+        `Sur les téléphériques (Narikala) et funiculaires (Mtatsminda), les petits chiens tenus sont généralement admis, mais la règle varie selon l'agent : gardez une muselière et une caisse souple à portée en cas de refus.`,
+        `En hiver, Tbilissi peut être froide et neigeuse en altitude sur les collines ; en dehors de la ville, méfiez-vous des chiens de troupeau (bergers du Caucase) qui gardent les troupeaux et n'apprécient pas les chiens étrangers.`,
+      ],
+      en: [
+        `Georgia is known for its tolerance of street dogs, sterilised, vaccinated and ear-tagged by the municipality: they are usually calm and well fed, but keep your dog leashed and avoid confrontations over food.`,
+        `Summers in Tbilisi are hot and dry (often 32 to 35°C): walk early morning or in the evening, always carry water, and seek shaded parks like Vake rather than open stone squares in full sun.`,
+        `The old town is made of steep lanes and cobbles that heat up on summer afternoons: test the ground with the back of your hand before walking your dog, and favour the earth paths of the hills.`,
+        `On the cable car (Narikala) and funicular (Mtatsminda), small held dogs are generally allowed, but the rule varies by attendant: keep a muzzle and a soft carrier handy in case of refusal.`,
+        `In winter Tbilisi can be cold and snowy up on the hills; outside the city, beware of livestock-guarding dogs (Caucasian shepherds) that guard the flocks and dislike strange dogs.`,
+      ],
+      es: [
+        `Georgia es conocida por su tolerancia con los perros callejeros, esterilizados, vacunados y marcados en la oreja por el ayuntamiento: suelen ser tranquilos y estar bien alimentados, pero mantén a tu perro con correa y evita enfrentamientos por la comida.`,
+        `Los veranos en Tbilisi son calurosos y secos (a menudo 32 a 35 °C): pasea temprano por la mañana o al atardecer, lleva siempre agua y busca parques con sombra como Vake en lugar de plazas de piedra a pleno sol.`,
+        `El casco antiguo está hecho de callejuelas empinadas y adoquines que se calientan por la tarde en verano: prueba el suelo con el dorso de la mano antes de pasear a tu perro, y prefiere los senderos de tierra de las colinas.`,
+        `En los teleféricos (Narikala) y funiculares (Mtatsminda), los perros pequeños en brazos suelen admitirse, pero la norma varía según el operario: lleva un bozal y un transportín blando a mano por si te lo deniegan.`,
+        `En invierno Tbilisi puede ser fría y nevada en lo alto de las colinas; fuera de la ciudad, cuidado con los perros de ganado (pastores del Cáucaso) que guardan los rebaños y recelan de los perros ajenos.`,
+      ],
+      pt: [
+        `A Geórgia é conhecida pela sua tolerância para com os cães de rua, esterilizados, vacinados e marcados na orelha pelo município: costumam ser calmos e bem alimentados, mas mantenha o seu cão com trela e evite confrontos por comida.`,
+        `Os verões em Tbilisi são quentes e secos (muitas vezes 32 a 35 °C): passeie de manhã cedo ou ao fim do dia, leve sempre água e procure parques com sombra como Vake em vez de praças de pedra a pleno sol.`,
+        `A cidade velha é feita de vielas íngremes e paralelepípedos que aquecem nas tardes de verão: teste o chão com as costas da mão antes de passear o seu cão, e prefira os trilhos de terra das colinas.`,
+        `Nos teleféricos (Narikala) e funiculares (Mtatsminda), os cães pequenos ao colo costumam ser admitidos, mas a regra varia consoante o operador: tenha um açaime e uma caixa de transporte flexível à mão caso lhe recusem.`,
+        `No inverno Tbilisi pode ser fria e com neve no alto das colinas; fora da cidade, cuidado com os cães de gado (pastores do Cáucaso) que guardam os rebanhos e desconfiam de cães estranhos.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `La Géorgie est hors UE : pour revenir dans l'UE avec votre animal, une puce ISO, une vaccination antirabique valide et un test sérologique de titrage des anticorps antirabiques (prise de sang au moins 30 jours après la vaccination, puis délai réglementaire) sont exigés ; anticipez plusieurs mois.`,
+        `Se déplacer : le métro de Tbilissi n'accepte pas les chiens hors caisse de transport, mais la ville se parcourt bien à pied ; les taxis et Bolt acceptent souvent les animaux, prévenez le chauffeur et gardez une couverture pour le siège.`,
+        `Le climat est continental : étés chauds et secs (juillet-août souvent au-dessus de 32 °C) et hivers froids ; emportez de l'eau en permanence l'été et prévoyez des sorties aux heures fraîches.`,
+        `Pour une urgence vétérinaire, plusieurs cliniques modernes existent dans les quartiers de Vake et Saburtalo ; gardez le carnet de santé et le passeport de l'animal sur vous ; numéro d'urgence général unique 112.`,
+        `La monnaie est le lari géorgien (GEL) ; l'accueil des chiens dans cafés et restaurants en terrasse est courant et détendu, mais confirmez à l'entrée pour les espaces intérieurs, plus variables.`,
+      ],
+      en: [
+        `Georgia is outside the EU: to return to the EU with your pet, an ISO microchip, a valid rabies vaccination and a rabies antibody titration blood test (drawn at least 30 days after vaccination, then a mandatory waiting period) are required; plan several months ahead.`,
+        `Getting around: the Tbilisi metro does not accept dogs outside a carrier, but the city is very walkable; taxis and Bolt often take pets, so warn the driver and keep a blanket for the seat.`,
+        `The climate is continental: summers are hot and dry (July and August often above 32°C) and winters cold; carry water at all times in summer and plan outings for the cool hours.`,
+        `For a veterinary emergency, several modern clinics operate in the Vake and Saburtalo districts; keep your pet's health record and passport on you; single general emergency number 112.`,
+        `The currency is the Georgian lari (GEL); dogs are commonly and casually welcome at cafe and restaurant terraces, but confirm at the door for indoor spaces, which vary more.`,
+      ],
+      es: [
+        `Georgia está fuera de la UE: para volver a la UE con tu mascota se exigen un microchip ISO, una vacunación antirrábica válida y una prueba serológica de titulación de anticuerpos antirrábicos (extracción de sangre al menos 30 días después de la vacuna y un plazo reglamentario); planifica con varios meses de antelación.`,
+        `Desplazarse: el metro de Tbilisi no admite perros fuera de transportín, pero la ciudad se recorre muy bien a pie; los taxis y Bolt suelen aceptar animales, avisa al conductor y lleva una manta para el asiento.`,
+        `El clima es continental: veranos calurosos y secos (julio y agosto a menudo por encima de 32 °C) e inviernos fríos; lleva agua siempre en verano y planifica las salidas en las horas frescas.`,
+        `Para una urgencia veterinaria, hay varias clínicas modernas en los barrios de Vake y Saburtalo; lleva contigo la cartilla y el pasaporte del animal; número único de emergencia general 112.`,
+        `La moneda es el lari georgiano (GEL); es habitual y relajado que se admitan perros en terrazas de cafés y restaurantes, pero confirma en la entrada para los espacios interiores, más variables.`,
+      ],
+      pt: [
+        `A Geórgia está fora da UE: para regressar à UE com o seu animal exigem-se um microchip ISO, uma vacinação antirrábica válida e um teste serológico de titulação de anticorpos antirrábicos (colheita de sangue pelo menos 30 dias após a vacina e um prazo regulamentar); planeie com vários meses de antecedência.`,
+        `Deslocar-se: o metro de Tbilisi não aceita cães fora de caixa de transporte, mas a cidade percorre-se muito bem a pé; os táxis e a Bolt aceitam muitas vezes animais, avise o motorista e leve uma manta para o banco.`,
+        `O clima é continental: verões quentes e secos (julho e agosto muitas vezes acima de 32 °C) e invernos frios; leve água sempre no verão e planeie as saídas para as horas frescas.`,
+        `Para uma emergência veterinária, existem várias clínicas modernas nos bairros de Vake e Saburtalo; leve consigo o boletim sanitário e o passaporte do animal; número único de emergência geral 112.`,
+        `A moeda é o lari georgiano (GEL); é comum e descontraído os cães serem bem-vindos nas esplanadas de cafés e restaurantes, mas confirme à entrada para os espaços interiores, mais variáveis.`,
       ],
     },
   },

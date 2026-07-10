@@ -39065,6 +39065,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'tossa-de-mar': {
+    history: {
+      fr: `Tossa de Mar occupe une anse de la Costa Brava, dans la province de Gérone, en Catalogne. Elle possède la Vila Vella, seule ville fortifiée médiévale encore debout sur toute la côte catalane : un dédale de ruelles pavées ceinturé de remparts et de tours cylindriques du XIIe siècle, planté sur un promontoire au-dessus de la mer. Village de pêcheurs devenu refuge d'artistes dans les années 1930 (Marc Chagall la baptisa « paradis bleu »), Tossa doit aussi sa renommée au film Pandora tourné ici en 1951 avec Ava Gardner, dont une statue veille sur la baie. Autour du bourg, le camí de ronda serpente le long des falaises vers des criques cachées, tandis que la Platja Gran et la crique de Mar Menuda ferment la baie. Pour le voyageur avec un chien, Tossa combine remparts en plein air, sentiers côtiers et pinèdes méditerranéennes.`,
+      en: `Tossa de Mar sits in a cove on the Costa Brava, in the province of Girona, Catalonia. It holds the Vila Vella, the only fortified medieval town still standing on the entire Catalan coast: a maze of cobbled lanes ringed by ramparts and cylindrical twelfth-century towers, set on a headland above the sea. A fishing village that became an artists' refuge in the 1930s (Marc Chagall called it the 'blue paradise'), Tossa also owes its fame to the film Pandora, shot here in 1951 with Ava Gardner, whose statue now watches over the bay. Around the old town the camí de ronda coastal path winds along the cliffs to hidden coves, while the Platja Gran and the Mar Menuda cove enclose the bay. For the traveller with a dog, Tossa combines open-air ramparts, coastal trails and Mediterranean pine woods.`,
+      es: `Tossa de Mar se asienta en una cala de la Costa Brava, en la provincia de Girona, Cataluña. Conserva la Vila Vella, la única villa medieval fortificada que sigue en pie en toda la costa catalana: un laberinto de callejones empedrados ceñido por murallas y torres cilíndricas del siglo XII, sobre un promontorio junto al mar. Pueblo de pescadores convertido en refugio de artistas en los años treinta (Marc Chagall la llamó «paraíso azul»), Tossa debe también su fama a la película Pandora, rodada aquí en 1951 con Ava Gardner, cuya estatua vela hoy sobre la bahía. Alrededor del casco antiguo, el camí de ronda serpentea por los acantilados hacia calas escondidas, mientras la Platja Gran y la cala de Mar Menuda cierran la bahía. Para el viajero con perro, Tossa combina murallas al aire libre, senderos costeros y pinares mediterráneos.`,
+      pt: `Tossa de Mar ocupa uma enseada da Costa Brava, na província de Girona, na Catalunha. Guarda a Vila Vella, a única vila medieval fortificada ainda de pé em toda a costa catalã: um labirinto de ruelas empedradas cercado por muralhas e torres cilíndricas do século XII, sobre um promontório à beira-mar. Aldeia de pescadores tornada refúgio de artistas nos anos trinta (Marc Chagall chamou-lhe «paraíso azul»), Tossa deve também a sua fama ao filme Pandora, rodado aqui em 1951 com Ava Gardner, cuja estátua vela hoje sobre a baía. Em redor do casco antigo, o camí de ronda serpenteia pelas falésias até enseadas escondidas, enquanto a Platja Gran e a enseada de Mar Menuda fecham a baía. Para o viajante com cão, Tossa combina muralhas ao ar livre, trilhos costeiros e pinhais mediterrânicos.`,
+    },
+    sights: [
+      { name: 'Vila Vella', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Enceinte médiévale fortifiée du XIIe siècle, classée monument historique, dressée sur le promontoire du Mont Guardí. Ses ruelles pavées, ses remparts et ses tours cylindriques se parcourent librement en plein air, chien en laisse, avec des vues plongeantes sur la baie.`,
+        en: `A twelfth-century fortified enclosure, a listed monument, rising on the Mont Guardí headland. Its cobbled lanes, ramparts and cylindrical towers are freely walked in the open air with a leashed dog, with sweeping views over the bay.`,
+        es: `Recinto medieval amurallado del siglo XII, declarado monumento, alzado sobre el promontorio del Mont Guardí. Sus callejones empedrados, murallas y torres cilíndricas se recorren al aire libre con perro con correa, con vistas en picado sobre la bahía.`,
+        pt: `Recinto medieval muralhado do século XII, classificado como monumento, erguido sobre o promontório do Mont Guardí. As suas ruelas empedradas, muralhas e torres cilíndricas percorrem-se ao ar livre com cão com trela, com vistas a pique sobre a baía.`,
+      }},
+      { name: 'Far de Tossa i Museu Municipal', emoji: '🗼', petFriendly: false, desc: {
+        fr: `Le phare qui couronne la Vila Vella et le Musée municipal installé dans l'ancienne maison du gouverneur, premier musée d'art contemporain d'Espagne (1935). L'esplanade extérieure du phare est accessible en laisse, mais les chiens ne sont pas admis à l'intérieur du musée.`,
+        en: `The lighthouse crowning the Vila Vella and the Municipal Museum housed in the old governor's house, Spain's first museum of contemporary art (1935). The lighthouse esplanade outside is open on a leash, but dogs are not allowed inside the museum.`,
+        es: `El faro que corona la Vila Vella y el Museo Municipal instalado en la antigua casa del gobernador, primer museo de arte contemporáneo de España (1935). La explanada exterior del faro es accesible con correa, pero no se admiten perros dentro del museo.`,
+        pt: `O farol que coroa a Vila Vella e o Museu Municipal instalado na antiga casa do governador, primeiro museu de arte contemporânea de Espanha (1935). A esplanada exterior do farol é acessível com trela, mas não se admitem cães no interior do museu.`,
+      }},
+      { name: 'Platja Gran i Mar Menuda', emoji: '🏖️', petFriendly: false, desc: {
+        fr: `Les deux plages de sable de la baie, la grande Platja Gran au pied des remparts et la crique de Mar Menuda prisée des plongeurs. Chiens interdits sur ces plages surveillées de la Semaine sainte à fin septembre ; hors saison, l'accès est toléré.`,
+        en: `The bay's two sandy beaches, the broad Platja Gran below the ramparts and the Mar Menuda cove popular with divers. Dogs are banned on these guarded beaches from Easter week to the end of September; off-season, access is tolerated.`,
+        es: `Las dos playas de arena de la bahía, la amplia Platja Gran al pie de las murallas y la cala de Mar Menuda, apreciada por los buceadores. Perros prohibidos en estas playas vigiladas de Semana Santa a finales de septiembre; fuera de temporada, el acceso se tolera.`,
+        pt: `As duas praias de areia da baía, a ampla Platja Gran ao pé das muralhas e a enseada de Mar Menuda, apreciada pelos mergulhadores. Cães proibidos nestas praias vigiadas da Semana Santa ao fim de setembro; fora de época, o acesso é tolerado.`,
+      }},
+      { name: 'Camí de Ronda', emoji: '🥾', petFriendly: true, desc: {
+        fr: `Ancien chemin de ronde des douaniers qui longe les falaises de la Costa Brava vers des criques cachées comme Cala Bona ou Cala Pola. Sentier ouvert aux chiens en laisse toute l'année, ombragé de pins, c'est la plus belle balade canine de Tossa.`,
+        en: `The old customs officers' path following the Costa Brava cliffs to hidden coves such as Cala Bona and Cala Pola. Open to leashed dogs year-round and shaded by pines, it is Tossa's finest dog walk.`,
+        es: `Antiguo camino de ronda de los aduaneros que bordea los acantilados de la Costa Brava hacia calas escondidas como Cala Bona o Cala Pola. Sendero abierto a perros con correa todo el año, sombreado por pinos, es el mejor paseo canino de Tossa.`,
+        pt: `Antigo caminho de ronda dos aduaneiros que percorre as falésias da Costa Brava até enseadas escondidas como Cala Bona ou Cala Pola. Trilho aberto a cães com trela todo o ano, sombreado por pinheiros, é o melhor passeio canino de Tossa.`,
+      }},
+      { name: "Estàtua d'Ava Gardner", emoji: '🎬', petFriendly: true, desc: {
+        fr: `Statue en bronze de l'actrice, érigée sur un balcon de la Vila Vella en souvenir du tournage de Pandora à Tossa en 1951. Point de vue en plein air librement accessible avec un chien, face à la mer et aux remparts.`,
+        en: `A bronze statue of the actress set on a Vila Vella balcony in memory of the 1951 filming of Pandora in Tossa. An open-air viewpoint freely accessible with a dog, facing the sea and the ramparts.`,
+        es: `Estatua de bronce de la actriz, erigida en un balcón de la Vila Vella en recuerdo del rodaje de Pandora en Tossa en 1951. Mirador al aire libre de libre acceso con perro, frente al mar y las murallas.`,
+        pt: `Estátua de bronze da atriz, erguida num balcão da Vila Vella em memória das filmagens de Pandora em Tossa em 1951. Miradouro ao ar livre de livre acesso com cão, virado para o mar e as muralhas.`,
+      }},
+      { name: 'Cala Pola i Cala Giverola', emoji: '🏝️', petFriendly: true, desc: {
+        fr: `Criques sauvages au nord de Tossa, nichées dans la pinède et accessibles par le camí de ronda ou une route de terre. Loin des plages urbaines, elles offrent hors saison des baignades tranquilles où les chiens tenus en laisse sont mieux tolérés.`,
+        en: `Wild coves north of Tossa, tucked into the pine woods and reached by the camí de ronda or a dirt road. Away from the town beaches, off-season they offer quiet swims where leashed dogs are better tolerated.`,
+        es: `Calas salvajes al norte de Tossa, escondidas en el pinar y accesibles por el camí de ronda o una pista de tierra. Lejos de las playas urbanas, fuera de temporada ofrecen baños tranquilos donde los perros con correa se toleran mejor.`,
+        pt: `Enseadas selvagens a norte de Tossa, escondidas no pinhal e acessíveis pelo camí de ronda ou por uma estrada de terra. Longe das praias urbanas, fora de época oferecem banhos tranquilos onde os cães com trela são mais bem tolerados.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale des chiens sur les plages surveillées (Platja Gran, Mar Menuda) de la Semaine sainte à fin septembre : repliez-vous sur les criques sauvages du camí de ronda hors saison.`,
+        `Forte chaleur méditerranéenne en juillet et août : promenez tôt le matin ou en soirée, le sable et les rochers de la baie brûlent en milieu de journée.`,
+        `La Tramontane, vent du nord violent, peut se lever brutalement sur la Costa Brava : tenez les petits chiens en laisse courte sur les sentiers exposés des falaises.`,
+        `Le camí de ronda est étroit et surplombe la mer : gardez votre chien en laisse, certains passages sont rocheux et glissants après la pluie.`,
+        `En cas d'urgence vétérinaire, composez le 112 (numéro d'urgence européen) ; des cliniques vétérinaires sont présentes à Tossa et dans la voisine Lloret de Mar.`,
+      ],
+      en: [
+        `Summer dog ban on the guarded beaches (Platja Gran, Mar Menuda) from Easter week to the end of September: fall back on the wild coves along the camí de ronda off-season.`,
+        `Strong Mediterranean heat in July and August: walk early morning or in the evening, as the bay's sand and rock scorch in the middle of the day.`,
+        `The Tramuntana, a violent north wind, can rise abruptly on the Costa Brava: keep small dogs on a short leash on the exposed cliff trails.`,
+        `The camí de ronda is narrow and hangs above the sea: keep your dog leashed, as some stretches are rocky and slippery after rain.`,
+        `For a veterinary emergency dial 112 (the EU emergency number); veterinary clinics operate in Tossa and neighbouring Lloret de Mar.`,
+      ],
+      es: [
+        `Prohibición estival de perros en las playas vigiladas (Platja Gran, Mar Menuda) de Semana Santa a finales de septiembre: refúgiese en las calas salvajes del camí de ronda fuera de temporada.`,
+        `Fuerte calor mediterráneo en julio y agosto: pasee a primera hora o al atardecer, la arena y las rocas de la bahía queman a media jornada.`,
+        `La Tramontana, viento del norte violento, puede levantarse de golpe en la Costa Brava: lleve a los perros pequeños con correa corta en los senderos expuestos de los acantilados.`,
+        `El camí de ronda es estrecho y bordea el mar: mantenga a su perro con correa, algunos tramos son rocosos y resbaladizos tras la lluvia.`,
+        `Ante una urgencia veterinaria marque el 112 (número de emergencia europeo); hay clínicas veterinarias en Tossa y en la vecina Lloret de Mar.`,
+      ],
+      pt: [
+        `Proibição estival de cães nas praias vigiadas (Platja Gran, Mar Menuda) da Semana Santa ao fim de setembro: recorra às enseadas selvagens do camí de ronda fora de época.`,
+        `Forte calor mediterrânico em julho e agosto: passeie de manhã cedo ou ao fim do dia, a areia e as rochas da baía queimam a meio do dia.`,
+        `A Tramuntana, vento do norte violento, pode levantar-se de repente na Costa Brava: mantenha os cães pequenos com trela curta nos trilhos expostos das falésias.`,
+        `O camí de ronda é estreito e debruça-se sobre o mar: mantenha o seu cão com trela, alguns troços são rochosos e escorregadios depois da chuva.`,
+        `Numa urgência veterinária marque o 112 (número de emergência europeu); há clínicas veterinárias em Tossa e na vizinha Lloret de Mar.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Espagne dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays de l'UE.`,
+        `Aéroport le plus proche : Gérone-Costa Brava (GRO), à environ 40 km ; Barcelone-El Prat (BCN) à environ 100 km.`,
+        `Pas de gare à Tossa : accès en voiture ou en bus depuis Gérone, Lloret de Mar ou Barcelone (chiens en laisse et muselière ou en sac selon la taille).`,
+        `Devise : euro. En Catalogne, les chiens de catégorie « potentiellement dangereux » doivent porter laisse et muselière sur la voie publique.`,
+        `Meilleure période : mai-juin et septembre-octobre, pour éviter la foule estivale et l'interdiction des plages.`,
+      ],
+      en: [
+        `Spain is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Nearest airport: Girona-Costa Brava (GRO), about 40 km away; Barcelona-El Prat (BCN) about 100 km.`,
+        `No train station in Tossa: reached by car or by bus from Girona, Lloret de Mar or Barcelona (dogs on a leash and muzzle or in a carrier depending on size).`,
+        `Currency: euro. In Catalonia, dogs classed as 'potentially dangerous' must wear a leash and muzzle in public.`,
+        `Best time: May-June and September-October, to avoid summer crowds and the beach ban.`,
+      ],
+      es: [
+        `España está en la UE y Schengen: pasaporte europeo + vacuna antirrábica vigente + microchip ISO es suficiente desde cualquier país de la UE.`,
+        `Aeropuerto más cercano: Girona-Costa Brava (GRO), a unos 40 km; Barcelona-El Prat (BCN) a unos 100 km.`,
+        `Tossa no tiene estación de tren: se llega en coche o en autobús desde Girona, Lloret de Mar o Barcelona (perros con correa y bozal o en transportín según el tamaño).`,
+        `Moneda: euro. En Cataluña, los perros considerados «potencialmente peligrosos» deben llevar correa y bozal en la vía pública.`,
+        `Mejor época: mayo-junio y septiembre-octubre, para evitar las aglomeraciones estivales y la prohibición de las playas.`,
+      ],
+      pt: [
+        `Espanha está na UE e Schengen: passaporte europeu + vacina antirrábica válida + microchip ISO é suficiente a partir de qualquer país da UE.`,
+        `Aeroporto mais próximo: Girona-Costa Brava (GRO), a cerca de 40 km; Barcelona-El Prat (BCN) a cerca de 100 km.`,
+        `Tossa não tem estação de comboio: chega-se de carro ou de autocarro a partir de Girona, Lloret de Mar ou Barcelona (cães com trela e açaime ou em transportadora consoante o tamanho).`,
+        `Moeda: euro. Na Catalunha, os cães considerados «potencialmente perigosos» devem usar trela e açaime na via pública.`,
+        `Melhor época: maio-junho e setembro-outubro, para evitar as multidões estivais e a proibição das praias.`,
+      ],
+    },
+  },
+
   toulon: {
     history: {
       fr: `Toulon, premier port militaire français en Méditerranée depuis Louis XIV, s'étire au pied du Mont Faron (584 m) sur l'une des plus belles rades du monde. Phocéens, Romains, Sarrasins, puis Vauban qui en fit en 1679 la place forte qu'on connaît : les Atlantes du quai par Pierre Puget, la Tour Royale du XVIe siècle et les fortifications de la Vieille Ville sont l'héritage de cet âge. Au XXe siècle, Toulon est tristement célèbre pour le sabordage de la flotte française en novembre 1942 pour éviter la capture nazie, et pour la libération en août 1944 commémorée au Mémorial du Débarquement au sommet du Mont Faron. Pour les voyageurs avec chien ou chat, la France impose le passeport européen, la puce ISO et la rage en cours de validité. Toulon est l'une des villes françaises les mieux équipées pour les chiens : cani-plage officielle à l'Anse Tabarly, deux cani-parcs clôturés sur le Mourillon, Réseau Mistral qui accepte officiellement les grands chiens en laisse muselés dans les bus et bateaux-bus (rareté française), et téléphérique du Mont Faron qui embarque les chiens gratuitement.`,
@@ -41848,6 +41955,113 @@ const cityContent: Record<string, CityContent> = {
         `O autocarro urbano VITRASA só admite cães em transportadora fechada; para cães grandes prefira táxi (à descrição do condutor) ou andar a pé.`,
         `Excursões dog-friendly: Praia da Mourisca em Nigrán (12 km), Costa da Vela em torno do cabo Home (40 km), Santiago de Compostela (90 km a norte), Pontevedra histórica (30 km).`,
         `Suprimentos: Kiwoko e Tiendanimal nos centros comerciais Vialia e A Laxe, mais várias clínicas-loja em Coruxo e Navia.`,
+      ],
+    },
+  },
+
+  'villefranche-sur-mer': {
+    history: {
+      fr: `Villefranche-sur-Mer se love dans l'une des rades naturelles les plus profondes de la Côte d'Azur, entre Nice et le cap Ferrat, dans les Alpes-Maritimes. Fondée au XIIIe siècle par Charles d'Anjou comme port franc (d'où son nom), elle a gardé une vieille ville colorée qui dévale vers la mer, dominée par la Citadelle Saint-Elme bâtie au XVIe siècle par les ducs de Savoie. Sa profondeur exceptionnelle en a fait un mouillage de choix pour les marines du monde entier et, aujourd'hui, pour les paquebots de croisière. On y flâne dans la Rue Obscure, ruelle voûtée médiévale unique en son genre, et l'on y admire la chapelle Saint-Pierre décorée par Jean Cocteau. Reliée à Nice en quelques minutes de train ou de bus, elle offre au voyageur avec un chien un décor de carte postale, un port de pêche vivant et le sentier du littoral vers le cap Ferrat voisin.`,
+      en: `Villefranche-sur-Mer nestles in one of the deepest natural harbours on the French Riviera, between Nice and Cap Ferrat, in the Alpes-Maritimes. Founded in the thirteenth century by Charles of Anjou as a free port (hence its name), it has kept a colourful old town tumbling down to the sea, watched over by the Citadelle Saint-Elme built in the sixteenth century by the dukes of Savoy. Its exceptional depth made it a favoured anchorage for navies the world over and, today, for cruise ships. Visitors wander the Rue Obscure, a one-of-a-kind medieval vaulted lane, and admire the Chapelle Saint-Pierre decorated by Jean Cocteau. A few minutes from Nice by train or bus, it offers the traveller with a dog a postcard setting, a lively fishing harbour and the coastal path towards neighbouring Cap Ferrat.`,
+      es: `Villefranche-sur-Mer se acurruca en una de las radas naturales más profundas de la Costa Azul, entre Niza y el cabo Ferrat, en los Alpes Marítimos. Fundada en el siglo XIII por Carlos de Anjou como puerto franco (de ahí su nombre), conserva un casco antiguo de fachadas coloridas que baja hasta el mar, dominado por la Ciudadela Saint-Elme construida en el siglo XVI por los duques de Saboya. Su profundidad excepcional la convirtió en fondeadero predilecto de las armadas del mundo y, hoy, de los cruceros. Se pasea por la Rue Obscure, callejón medieval abovedado único, y se admira la capilla Saint-Pierre decorada por Jean Cocteau. A pocos minutos de Niza en tren o autobús, ofrece al viajero con perro un decorado de postal, un puerto pesquero animado y el sendero del litoral hacia el vecino cabo Ferrat.`,
+      pt: `Villefranche-sur-Mer aninha-se numa das enseadas naturais mais profundas da Riviera Francesa, entre Nice e o cabo Ferrat, nos Alpes-Marítimos. Fundada no século XIII por Carlos de Anjou como porto franco (daí o seu nome), guarda uma cidade antiga de fachadas coloridas que desce até ao mar, dominada pela Cidadela Saint-Elme erguida no século XVI pelos duques de Saboia. A sua profundidade excecional fez dela um ancoradouro predileto das marinhas de todo o mundo e, hoje, dos navios de cruzeiro. Passeia-se pela Rue Obscure, ruela medieval abobadada única, e admira-se a capela Saint-Pierre decorada por Jean Cocteau. A poucos minutos de Nice de comboio ou autocarro, oferece ao viajante com cão um cenário de postal, um porto de pesca animado e o trilho do litoral rumo ao vizinho cabo Ferrat.`,
+    },
+    sights: [
+      { name: 'Vieille ville et Rue Obscure', emoji: '🏘️', petFriendly: true, desc: {
+        fr: `Dédale de ruelles colorées qui dévalent vers le port, avec la Rue Obscure, passage voûté médiéval du XIIIe siècle unique sur la côte. Tout se parcourt à pied en laisse, à l'abri de la circulation.`,
+        en: `A maze of colourful lanes tumbling down to the harbour, including the Rue Obscure, a thirteenth-century vaulted medieval passage unique on the coast. All walkable on a leash, away from traffic.`,
+        es: `Laberinto de callejones coloridos que bajan hacia el puerto, con la Rue Obscure, pasaje abovedado medieval del siglo XIII único en la costa. Todo se recorre a pie con correa, al abrigo del tráfico.`,
+        pt: `Labirinto de ruelas coloridas que descem até ao porto, com a Rue Obscure, passagem abobadada medieval do século XIII única na costa. Tudo se percorre a pé com trela, ao abrigo do trânsito.`,
+      }},
+      { name: 'Chapelle Saint-Pierre', emoji: '🎨', petFriendly: false, desc: {
+        fr: `Ancienne chapelle des pêcheurs sur le port, entièrement décorée en 1957 par Jean Cocteau de fresques sur la vie de saint Pierre. Intérieur payant et interdit aux chiens ; la façade et le quai se contemplent librement.`,
+        en: `A former fishermen's chapel on the harbour, entirely decorated in 1957 by Jean Cocteau with frescoes on the life of Saint Peter. The interior is ticketed and closed to dogs; the facade and quay can be enjoyed freely.`,
+        es: `Antigua capilla de los pescadores en el puerto, decorada por completo en 1957 por Jean Cocteau con frescos sobre la vida de san Pedro. El interior es de pago y no admite perros; la fachada y el muelle se contemplan libremente.`,
+        pt: `Antiga capela dos pescadores no porto, decorada por completo em 1957 por Jean Cocteau com frescos sobre a vida de são Pedro. O interior é pago e não admite cães; a fachada e o cais contemplam-se livremente.`,
+      }},
+      { name: 'Citadelle Saint-Elme', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Forteresse du XVIe siècle bâtie par les ducs de Savoie au-dessus du port, aujourd'hui hôtel de ville et musées. Les jardins et les remparts extérieurs se visitent gratuitement, chien en laisse, avec vue sur la rade.`,
+        en: `A sixteenth-century fortress built by the dukes of Savoy above the harbour, now the town hall and museums. The gardens and outer ramparts are free to visit with a leashed dog, overlooking the bay.`,
+        es: `Fortaleza del siglo XVI construida por los duques de Saboya sobre el puerto, hoy ayuntamiento y museos. Los jardines y las murallas exteriores se visitan gratis con perro con correa, con vistas a la rada.`,
+        pt: `Fortaleza do século XVI erguida pelos duques de Saboia acima do porto, hoje câmara municipal e museus. Os jardins e as muralhas exteriores visitam-se gratuitamente com cão com trela, com vista sobre a enseada.`,
+      }},
+      { name: 'Port de la Santé et darse', emoji: '⚓', petFriendly: true, desc: {
+        fr: `Le port de pêche traditionnel et la darse aux barques colorées, bordés de terrasses au pied de la vieille ville. Promenade à plat très agréable en laisse, entre filets, pointus et vue sur le cap Ferrat.`,
+        en: `The traditional fishing port and the darse with its colourful boats, lined with terraces below the old town. A very pleasant flat stroll on a leash, among nets, wooden boats and views of Cap Ferrat.`,
+        es: `El puerto pesquero tradicional y la dársena de barcas coloridas, bordeados de terrazas al pie del casco antiguo. Paseo llano muy agradable con correa, entre redes, barcas y vistas al cabo Ferrat.`,
+        pt: `O porto de pesca tradicional e a doca das barcas coloridas, ladeados de esplanadas ao pé da cidade antiga. Passeio plano muito agradável com trela, entre redes, barcos e vistas para o cabo Ferrat.`,
+      }},
+      { name: 'Plage des Marinières', emoji: '🏖️', petFriendly: false, desc: {
+        fr: `Longue plage de sable en arc de cercle au fond de la rade, doublée d'une promenade le long de la voie ferrée. Chiens interdits sur la plage en saison estivale ; la promenade reste ouverte en laisse toute l'année.`,
+        en: `A long crescent of sand at the head of the bay, backed by a promenade along the railway line. Dogs are banned on the beach in summer; the promenade stays open on a leash year-round.`,
+        es: `Larga playa de arena en forma de arco al fondo de la rada, con un paseo junto a la vía férrea. Perros prohibidos en la playa en temporada estival; el paseo sigue abierto con correa todo el año.`,
+        pt: `Longa praia de areia em arco ao fundo da enseada, ladeada por um passeio junto à linha ferroviária. Cães proibidos na praia na época estival; o passeio mantém-se aberto com trela todo o ano.`,
+      }},
+      { name: 'Sentier du littoral (Cap Ferrat)', emoji: '🥾', petFriendly: true, desc: {
+        fr: `Chemin côtier qui contourne la presqu'île du cap Ferrat voisine, entre pins, criques et villas Belle Époque. Sentier spectaculaire ouvert aux chiens en laisse, à faire tôt le matin l'été pour éviter la chaleur.`,
+        en: `A coastal path that loops around the neighbouring Cap Ferrat peninsula, through pines, coves and Belle Époque villas. A spectacular trail open to leashed dogs, best done early morning in summer to avoid the heat.`,
+        es: `Sendero costero que rodea la vecina península del cabo Ferrat, entre pinos, calas y villas de la Belle Époque. Ruta espectacular abierta a perros con correa, mejor a primera hora en verano para evitar el calor.`,
+        pt: `Trilho costeiro que contorna a vizinha península do cabo Ferrat, entre pinheiros, enseadas e vilas da Belle Époque. Percurso espetacular aberto a cães com trela, a fazer de manhã cedo no verão para evitar o calor.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale des chiens sur la plage des Marinières en saison (généralement mai à septembre) : privilégiez la promenade du bord de mer et le sentier du littoral du cap Ferrat.`,
+        `Forte chaleur méditerranéenne et affluence de croisiéristes l'été : promenez tôt le matin ou en soirée, les ruelles pavées et les quais chauffent vite en milieu de journée.`,
+        `Le sentier du littoral du cap Ferrat est rocheux et exposé : gardez le chien en laisse, prévoyez de l'eau et évitez les heures brûlantes de l'après-midi.`,
+        `Train et bus depuis Nice acceptent les chiens (en laisse et muselière ou en sac selon la taille) : c'est le moyen le plus simple d'éviter le stationnement rare et cher du village.`,
+        `En cas d'urgence vétérinaire, composez le 112 (numéro d'urgence européen) ; des cliniques vétérinaires sont présentes à Villefranche et dans la voisine Nice.`,
+      ],
+      en: [
+        `Summer dog ban on the Plage des Marinières in season (typically May to September): favour the seafront promenade and the Cap Ferrat coastal path instead.`,
+        `Strong Mediterranean heat and cruise-ship crowds in summer: walk early morning or in the evening, as the cobbled lanes and quays heat up fast at midday.`,
+        `The Cap Ferrat coastal path is rocky and exposed: keep the dog leashed, carry water and avoid the scorching afternoon hours.`,
+        `Trains and buses from Nice accept dogs (leashed and muzzled or in a carrier depending on size): the easiest way to avoid the village's scarce, pricey parking.`,
+        `For a veterinary emergency dial 112 (the EU emergency number); veterinary clinics operate in Villefranche and neighbouring Nice.`,
+      ],
+      es: [
+        `Prohibición estival de perros en la Plage des Marinières en temporada (normalmente de mayo a septiembre): opte por el paseo marítimo y el sendero del litoral del cabo Ferrat.`,
+        `Fuerte calor mediterráneo y afluencia de cruceristas en verano: pasee a primera hora o al atardecer, los callejones empedrados y los muelles se calientan rápido a mediodía.`,
+        `El sendero del litoral del cabo Ferrat es rocoso y expuesto: mantenga al perro con correa, lleve agua y evite las horas ardientes de la tarde.`,
+        `El tren y el autobús desde Niza admiten perros (con correa y bozal o en transportín según el tamaño): es la forma más fácil de evitar el aparcamiento escaso y caro del pueblo.`,
+        `Ante una urgencia veterinaria marque el 112 (número de emergencia europeo); hay clínicas veterinarias en Villefranche y en la vecina Niza.`,
+      ],
+      pt: [
+        `Proibição estival de cães na Plage des Marinières em época alta (normalmente de maio a setembro): prefira o passeio marítimo e o trilho do litoral do cabo Ferrat.`,
+        `Forte calor mediterrânico e afluência de cruzeiristas no verão: passeie de manhã cedo ou ao fim do dia, as ruelas empedradas e os cais aquecem depressa a meio do dia.`,
+        `O trilho do litoral do cabo Ferrat é rochoso e exposto: mantenha o cão com trela, leve água e evite as horas escaldantes da tarde.`,
+        `Comboio e autocarro a partir de Nice aceitam cães (com trela e açaime ou em transportadora consoante o tamanho): é a forma mais fácil de evitar o estacionamento escasso e caro da aldeia.`,
+        `Numa urgência veterinária marque o 112 (número de emergência europeu); há clínicas veterinárias em Villefranche e na vizinha Nice.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `France dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays de l'UE.`,
+        `Aéroport le plus proche : Nice-Côte d'Azur (NCE), à environ 10 km ; liaison en voiture, bus ou train via Nice (chiens acceptés).`,
+        `Gare TER sur la ligne Nice-Vintimille : Villefranche est à quelques minutes de Nice et de Monaco, les chiens voyagent en laisse et muselière ou en sac.`,
+        `Devise : euro. Stationnement rare et cher au village : privilégiez le train ou le bus depuis Nice, chiens admis.`,
+        `Meilleure période : mai-juin et septembre-octobre, pour éviter la chaleur, la foule et l'interdiction estivale de la plage.`,
+      ],
+      en: [
+        `France is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Nearest airport: Nice-Côte d'Azur (NCE), about 10 km away; reached by car, bus or train via Nice (dogs welcome).`,
+        `TER station on the Nice-Ventimiglia line: Villefranche is minutes from Nice and Monaco, with dogs travelling leashed and muzzled or in a carrier.`,
+        `Currency: euro. Parking is scarce and expensive in the village: favour the train or bus from Nice, dogs allowed.`,
+        `Best time: May-June and September-October, to avoid the heat, the crowds and the summer beach ban.`,
+      ],
+      es: [
+        `Francia está en la UE y Schengen: pasaporte europeo + vacuna antirrábica vigente + microchip ISO es suficiente desde cualquier país de la UE.`,
+        `Aeropuerto más cercano: Niza-Costa Azul (NCE), a unos 10 km; se llega en coche, autobús o tren vía Niza (perros admitidos).`,
+        `Estación TER en la línea Niza-Ventimiglia: Villefranche está a pocos minutos de Niza y Mónaco, los perros viajan con correa y bozal o en transportín.`,
+        `Moneda: euro. Aparcamiento escaso y caro en el pueblo: opte por el tren o el autobús desde Niza, perros admitidos.`,
+        `Mejor época: mayo-junio y septiembre-octubre, para evitar el calor, las aglomeraciones y la prohibición estival de la playa.`,
+      ],
+      pt: [
+        `França está na UE e Schengen: passaporte europeu + vacina antirrábica válida + microchip ISO é suficiente a partir de qualquer país da UE.`,
+        `Aeroporto mais próximo: Nice-Côte d'Azur (NCE), a cerca de 10 km; chega-se de carro, autocarro ou comboio via Nice (cães admitidos).`,
+        `Estação TER na linha Nice-Ventimiglia: Villefranche fica a poucos minutos de Nice e do Mónaco, os cães viajam com trela e açaime ou em transportadora.`,
+        `Moeda: euro. Estacionamento escasso e caro na aldeia: prefira o comboio ou o autocarro a partir de Nice, cães admitidos.`,
+        `Melhor época: maio-junho e setembro-outubro, para evitar o calor, as multidões e a proibição estival da praia.`,
       ],
     },
   },

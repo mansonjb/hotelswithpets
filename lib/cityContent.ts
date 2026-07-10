@@ -32367,6 +32367,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  positano: {
+    history: {
+      fr: `Accrochée à la falaise de la Côte amalfitaine, Positano dévale vers la mer en une cascade de maisons pastel, d'escaliers et de bougainvilliers. Ancien port de pêche de la province de Salerne, le village s'est fait un nom au XXe siècle avec la « moda Positano », ses tissus légers et ses sandales. Aujourd'hui c'est l'une des cartes postales les plus célèbres d'Italie, au cœur de la Côte amalfitaine classée à l'UNESCO. Pour un maître, Positano est aussi belle qu'exigeante : la ville est un mur d'escaliers, la plupart des plages limitent les chiens et la pierre brûle en été. Mais les chiens en laisse prennent les bus SITA et les ferries, et surtout parcourent le Sentier des Dieux, l'une des plus belles randonnées côtières du pays.`,
+      en: `Clinging to the Amalfi Coast cliff, Positano tumbles to the sea in a cascade of pastel houses, staircases and bougainvillea. A former fishing port in the province of Salerno, the village made its name in the 20th century with "moda Positano", its light fabrics and sandals. Today it is one of Italy's most famous postcards, at the heart of the UNESCO-listed Amalfi Coast. For a dog owner, Positano is as beautiful as it is demanding: the town is a wall of stairs, most beaches restrict dogs and the stone bakes in summer. But leashed dogs ride the SITA buses and the ferries and, above all, walk the Path of the Gods, one of the finest coastal hikes in the country.`,
+      es: `Aferrada al acantilado de la Costa Amalfitana, Positano cae al mar en una cascada de casas pastel, escaleras y buganvillas. Antiguo puerto pesquero de la provincia de Salerno, el pueblo se hizo un nombre en el siglo XX con la "moda Positano", sus tejidos ligeros y sus sandalias. Hoy es una de las postales más famosas de Italia, en el corazón de la Costa Amalfitana declarada Patrimonio de la UNESCO. Para un dueño, Positano es tan bonita como exigente: el pueblo es un muro de escaleras, la mayoría de las playas restringen los perros y la piedra abrasa en verano. Pero los perros con correa viajan en los autobuses SITA y en los ferries y, sobre todo, recorren el Sendero de los Dioses, una de las mejores rutas costeras del país.`,
+      pt: `Agarrada à falésia da Costa Amalfitana, Positano desce para o mar numa cascata de casas em tons pastel, escadarias e buganvílias. Antigo porto piscatório da província de Salerno, a vila ganhou nome no século XX com a "moda Positano", os seus tecidos leves e as suas sandálias. Hoje é um dos postais mais famosos de Itália, no coração da Costa Amalfitana classificada pela UNESCO. Para um dono, Positano é tão bonita quanto exigente: a vila é um muro de escadas, a maioria das praias restringe cães e a pedra escalda no verão. Mas os cães com trela viajam nos autocarros SITA e nos ferries e, sobretudo, percorrem o Caminho dos Deuses, uma das mais belas caminhadas costeiras do país.`,
+    },
+    sights: [
+      {
+        name: 'Sentiero degli Dei',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Le légendaire Sentier des Dieux, de Bomerano à Nocelle, offre des vues vertigineuses sur la côte. Les chiens en laisse y sont les bienvenus : c'est le vrai point fort de Positano pour eux, mais emportez beaucoup d'eau car l'ombre est rare.`,
+          en: `The legendary Path of the Gods, from Bomerano to Nocelle, delivers dizzying views over the coast. Leashed dogs are welcome and this is the real highlight of Positano for them, but bring plenty of water as shade is scarce.`,
+          es: `El legendario Sendero de los Dioses, de Bomerano a Nocelle, ofrece vistas de vértigo sobre la costa. Los perros con correa son bienvenidos y este es el verdadero atractivo de Positano para ellos, pero lleva mucha agua porque la sombra escasea.`,
+          pt: `O lendário Caminho dos Deuses, de Bomerano a Nocelle, oferece vistas de tirar o fôlego sobre a costa. Os cães com trela são bem-vindos e este é o verdadeiro destaque de Positano para eles, mas leve muita água pois a sombra é rara.`,
+        },
+      },
+      {
+        name: "Via Positanesi d'America",
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `La seule promenade plate de Positano relie la Spiaggia Grande à Fornillo à flanc de falaise. Sans escaliers et panoramique, c'est la balade la plus facile en ville pour un chien en laisse.`,
+          en: `The only flat walk in Positano links Spiaggia Grande to Fornillo along the cliff. Stair-free and panoramic, it is the easiest stroll in town for a leashed dog.`,
+          es: `El único paseo llano de Positano une la Spiaggia Grande con Fornillo al borde del acantilado. Sin escaleras y panorámico, es el paseo más fácil del pueblo para un perro con correa.`,
+          pt: `O único passeio plano de Positano liga a Spiaggia Grande a Fornillo à beira da falésia. Sem escadas e panorâmico, é o passeio mais fácil na vila para um cão com trela.`,
+        },
+      },
+      {
+        name: 'Santa Maria Assunta',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `L'église à la coupole de majolique et sa petite place forment le cœur carte-postale de Positano. Les chiens en laisse profitent de la place et des ruelles, mais l'intérieur de l'église leur est interdit.`,
+          en: `The majolica-domed church and its little piazza are the postcard heart of Positano. Leashed dogs enjoy the square and the lanes, though the church interior is off limits to them.`,
+          es: `La iglesia de cúpula de mayólica y su pequeña plaza son el corazón de postal de Positano. Los perros con correa disfrutan de la plaza y las callejuelas, aunque el interior de la iglesia les está vetado.`,
+          pt: `A igreja de cúpula de majólica e a sua pequena praça são o coração de postal de Positano. Os cães com trela desfrutam da praça e das ruelas, embora o interior da igreja lhes seja vedado.`,
+        },
+      },
+      {
+        name: 'Nocelle',
+        emoji: '🍋',
+        petFriendly: true,
+        desc: {
+          fr: `Ce hameau en terrasses au-dessus de Positano est plus vert, plus frais et bien plus calme que le front de mer, et marque l'extrémité basse du Sentier des Dieux. Prenez le bus pour monter et épargnez les 1 500 marches à votre chien.`,
+          en: `This terraced hamlet above Positano is greener, cooler and far quieter than the seafront, and marks the lower end of the Path of the Gods. Take the bus up to spare your dog the 1,500 steps.`,
+          es: `Esta aldea en terrazas sobre Positano es más verde, fresca y mucho más tranquila que el paseo marítimo, y marca el extremo inferior del Sendero de los Dioses. Sube en autobús para ahorrar a tu perro los 1500 escalones.`,
+          pt: `Esta aldeia em socalcos acima de Positano é mais verde, fresca e bem mais calma do que a marginal, e marca o extremo inferior do Caminho dos Deuses. Suba de autocarro para poupar ao seu cão os 1500 degraus.`,
+        },
+      },
+      {
+        name: 'Spiaggia Grande',
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `La plage principale sous l'église est surtout occupée par des lidos privés qui n'acceptent généralement pas les chiens, avec des restrictions estivales. À voir en passant plutôt qu'un lieu de baignade avec un chien.`,
+          en: `The main beach below the church is mostly private lidos that generally do not welcome dogs, with summer restrictions. A place to pass through rather than to swim with a dog.`,
+          es: `La playa principal bajo la iglesia está ocupada sobre todo por lidos privados que por lo general no admiten perros, con restricciones estivales. Un sitio para pasar más que para bañarse con un perro.`,
+          pt: `A praia principal sob a igreja é sobretudo ocupada por lidos privados que geralmente não admitem cães, com restrições no verão. Um sítio para passar em vez de nadar com um cão.`,
+        },
+      },
+      {
+        name: 'Agerola (Bomerano)',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Le plateau verdoyant au-dessus de la côte, plus frais et champêtre, où débute le Sentier des Dieux à Bomerano. Le meilleur endroit près de Positano pour marcher sur un sol ouvert plutôt que sur des marches brûlantes.`,
+          en: `The green upland plateau above the coast, cooler and pastoral, where the Path of the Gods begins at Bomerano. The best place near Positano to walk on open ground rather than baking steps.`,
+          es: `La meseta verde sobre la costa, más fresca y pastoral, donde empieza el Sendero de los Dioses en Bomerano. El mejor lugar cerca de Positano para caminar sobre terreno abierto en vez de escalones ardientes.`,
+          pt: `O planalto verde sobre a costa, mais fresco e rural, onde começa o Caminho dos Deuses em Bomerano. O melhor sítio perto de Positano para caminhar em terreno aberto em vez de degraus escaldantes.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Positano est un mur d'escaliers : prévoyez un chien en forme, appuyez-vous sur les bus et les ferries et emportez beaucoup d'eau.`,
+        `Sur les bus SITA SUD, les petits chiens sont admis en laisse ou en sac avec muselière si nécessaire ; ils sont bondés en été, voyagez tôt.`,
+        `Sur les ferries (Travelmar, Alicost), les chiens voyagent en laisse et muselière moyennant un petit tarif ; au-dessus de 10 kg, ils peuvent devoir rester dans l'espace chenil du pont.`,
+        `Les chiens sont interdits sur la plupart des plages publiques de juin à septembre ; Fornillo est un peu plus souple hors saison.`,
+        `Le Sentier des Dieux accepte les chiens en laisse : faites Bomerano vers Nocelle pour descendre, et gardez votre chien loin des bords sans protection.`,
+      ],
+      en: [
+        `Positano is a wall of stairs: plan for a fit dog, lean on the buses and ferries and carry plenty of water.`,
+        `On the SITA SUD buses, small dogs are allowed on a leash or in a carrier with a muzzle where required; they get packed in summer, so travel early.`,
+        `On the ferries (Travelmar, Alicost), dogs travel on a leash and muzzle for a small fare; over 10 kg they may have to stay in the deck kennel area.`,
+        `Dogs are banned from most public beaches from June to September; Fornillo is a little more relaxed off-season.`,
+        `The Path of the Gods welcomes leashed dogs: walk Bomerano to Nocelle to go downhill, and keep your dog well back from the unfenced edges.`,
+      ],
+      es: [
+        `Positano es un muro de escaleras: cuenta con un perro en forma, apóyate en los autobuses y ferries y lleva mucha agua.`,
+        `En los autobuses SITA SUD, los perros pequeños se admiten con correa o en transportín con bozal cuando se exija; van llenos en verano, así que viaja temprano.`,
+        `En los ferries (Travelmar, Alicost), los perros viajan con correa y bozal por una pequeña tarifa; de más de 10 kg pueden tener que quedarse en la zona de perrera de cubierta.`,
+        `Los perros están prohibidos en la mayoría de las playas públicas de junio a septiembre; Fornillo es algo más flexible fuera de temporada.`,
+        `El Sendero de los Dioses admite perros con correa: haz Bomerano a Nocelle para bajar, y mantén a tu perro lejos de los bordes sin protección.`,
+      ],
+      pt: [
+        `Positano é um muro de escadas: conte com um cão em forma, apoie-se nos autocarros e ferries e leve muita água.`,
+        `Nos autocarros SITA SUD, os cães pequenos são admitidos com trela ou em transportadora com açaime quando exigido; ficam cheios no verão, por isso viaje cedo.`,
+        `Nos ferries (Travelmar, Alicost), os cães viajam com trela e açaime mediante uma pequena tarifa; acima de 10 kg podem ter de ficar na zona de canil do convés.`,
+        `Os cães estão proibidos na maioria das praias públicas de junho a setembro; Fornillo é um pouco mais flexível fora de época.`,
+        `O Caminho dos Deuses aceita cães com trela: faça Bomerano a Nocelle para descer, e mantenha o seu cão afastado dos bordos sem proteção.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire le plus proche : Ambulatorio Veterinario Gli Amici del Cuore, Via degli Aranci 31, Sorrente, +39 081 362 2147`,
+        `Côté Salerne : Centro Medico Veterinario Costa d'Amalfi, Via De Marinis 29, Vietri sul Mare, +39 349 336 5930`,
+        `Passeport animalier européen et carnet de santé exigés, y compris pour les bus SITA et les ferries.`,
+        `Le Sentier des Dieux est gratuit, sans réservation, et accepte les chiens en laisse ; descente de 1 500 marches vers Positano.`,
+        `Accès : aéroport de Naples (NAP) puis bus ou ferry ; le centre est piéton, utilisez la navette orange interne pour éviter les escaliers.`,
+      ],
+      en: [
+        `Nearest vet: Ambulatorio Veterinario Gli Amici del Cuore, Via degli Aranci 31, Sorrento, +39 081 362 2147`,
+        `Salerno end: Centro Medico Veterinario Costa d'Amalfi, Via De Marinis 29, Vietri sul Mare, +39 349 336 5930`,
+        `EU pet passport and health booklet required, including for the SITA buses and the ferries.`,
+        `The Path of the Gods is free, needs no booking and welcomes leashed dogs; the descent to Positano is 1,500 steps.`,
+        `Getting there: Naples airport (NAP) then bus or ferry; the centre is pedestrian, use the internal orange shuttle to avoid stairs.`,
+      ],
+      es: [
+        `Veterinario más cercano: Ambulatorio Veterinario Gli Amici del Cuore, Via degli Aranci 31, Sorrento, +39 081 362 2147`,
+        `Lado Salerno: Centro Medico Veterinario Costa d'Amalfi, Via De Marinis 29, Vietri sul Mare, +39 349 336 5930`,
+        `Pasaporte europeo de mascotas y cartilla sanitaria exigidos, también para los autobuses SITA y los ferries.`,
+        `El Sendero de los Dioses es gratis, no necesita reserva y admite perros con correa; la bajada a Positano son 1500 escalones.`,
+        `Cómo llegar: aeropuerto de Nápoles (NAP) y luego autobús o ferry; el centro es peatonal, usa la lanzadera naranja interna para evitar escaleras.`,
+      ],
+      pt: [
+        `Veterinário mais próximo: Ambulatorio Veterinario Gli Amici del Cuore, Via degli Aranci 31, Sorrento, +39 081 362 2147`,
+        `Lado de Salerno: Centro Medico Veterinario Costa d'Amalfi, Via De Marinis 29, Vietri sul Mare, +39 349 336 5930`,
+        `Passaporte europeu para animais e boletim de saúde exigidos, incluindo para os autocarros SITA e os ferries.`,
+        `O Caminho dos Deuses é gratuito, não precisa de reserva e aceita cães com trela; a descida a Positano são 1500 degraus.`,
+        `Como chegar: aeroporto de Nápoles (NAP) e depois autocarro ou ferry; o centro é pedonal, use a lançadeira laranja interna para evitar escadas.`,
+      ],
+    },
+  },
+
   poznan: {
     history: {
       fr: `Poznań est le berceau de l'État polonais. C'est sur l'Île de la Cathédrale (Ostrów Tumski) que le roi Mieszko Ier fut baptisé en 966, posant le premier acte de fondation de la Pologne chrétienne. Mille ans plus tard, la ville garde cette double identité de capitale historique et de cité commerçante : son immense Stary Rynek, l'une des plus vastes places de marché médiévales d'Europe, est bordée de maisons Renaissance aux façades colorées et abrite l'Hôtel de Ville Renaissance dont les célèbres chèvres mécaniques se cognent chaque jour à midi. Autour du centre, la Citadelle (100 hectares de parc sur l'ancienne forteresse prussienne), le lac Malta de 64 hectares à dix minutes à pied, et le Parc national de Wielkopolska à 30 km au sud font de Poznań une découverte pour les propriétaires de chiens. Le tram MPK accepte les animaux moyennant un billet simple, les terrasses du Rynek les accueillent en laisse, et la ville compte une quarantaine de zones canines clôturées (wybiegi).`,

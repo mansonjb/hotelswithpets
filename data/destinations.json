@@ -27383,5 +27383,80 @@
       }
     },
     "iata": "PSA"
+  },
+  {
+    "slug": "positano",
+    "name": "Positano",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/positano.jpg",
+    "intro": "Positano is the vertical jewel of the Amalfi Coast, a cascade of pastel houses tumbling down the cliff to the sea. It is honest work with a dog: the town is a staircase of hundreds of steps, most beaches restrict dogs and summer stone bakes, but leashed dogs ride the SITA buses and the ferries and, above all, walk the spectacular Path of the Gods.",
+    "lat": 40.6281,
+    "lng": 14.485,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "NAP"
   }
 ]

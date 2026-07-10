@@ -28955,6 +28955,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  oviedo: {
+    history: {
+      fr: `Oviedo, capitale des Asturies, veille sur l'intérieur verdoyant du nord de l'Espagne, adossée aux montagnes plutôt qu'à la mer. Berceau du royaume médiéval des Asturies, elle conserve un joyau de l'art préroman inscrit à l'UNESCO : sur le Monte Naranco, Santa María del Naranco et San Miguel de Lillo dressent leurs voûtes du IXe siècle au-dessus de la ville. En contrebas, la cathédrale gothique de San Salvador domine une vieille ville de ruelles pavées, de places et du marché du Fontán. Oviedo est aussi la ville de la sidra : les sidrerías de la rue Gascona versent le cidre à la volée sur des terrasses très accueillantes pour les chiens, et une statue de Woody Allen rappelle son attachement à la cité. Son climat océanique, doux et humide, offre des étés frais confortables pour un chien, et les Picos de Europa comme les plages asturiennes se rejoignent en excursion à la journée.`,
+      en: `Oviedo, capital of Asturias, watches over the green interior of northern Spain, set against the mountains rather than the sea. Cradle of the medieval Asturian kingdom, it keeps a jewel of pre-Romanesque art listed by UNESCO: on Monte Naranco, Santa María del Naranco and San Miguel de Lillo raise their ninth-century vaults above the town. Below, the Gothic Cathedral of San Salvador presides over an old quarter of cobbled lanes, squares and the Fontán market. Oviedo is also a city of cider: the sidrerías of Calle Gascona pour their cider from a height on terraces very welcoming to dogs, and a statue of Woody Allen recalls his fondness for the place. Its oceanic climate, mild and damp, brings cool summers that are comfortable for a dog, while the Picos de Europa and the Asturian beaches are within reach as a day trip.`,
+      es: `Oviedo, capital de Asturias, vela por el interior verde del norte de España, apoyada en las montañas más que en el mar. Cuna del reino medieval asturiano, conserva una joya del arte prerrománico declarada por la UNESCO: en el Monte Naranco, Santa María del Naranco y San Miguel de Lillo alzan sus bóvedas del siglo IX sobre la ciudad. Más abajo, la catedral gótica de San Salvador preside un casco antiguo de callejas empedradas, plazas y el mercado del Fontán. Oviedo es además ciudad de la sidra: las sidrerías de la calle Gascona escancian el culín en terrazas muy acogedoras para los perros, y una estatua de Woody Allen recuerda su cariño por la villa. Su clima oceánico, suave y húmedo, regala veranos frescos cómodos para un perro, mientras los Picos de Europa y las playas asturianas quedan a un paso como excursión de un día.`,
+      pt: `Oviedo, capital das Astúrias, vela pelo interior verdejante do norte de Espanha, encostada às montanhas mais do que ao mar. Berço do reino medieval asturiano, guarda uma joia da arte pré-românica classificada pela UNESCO: no Monte Naranco, Santa María del Naranco e San Miguel de Lillo erguem as suas abóbadas do século IX sobre a cidade. Mais abaixo, a catedral gótica de San Salvador preside a um casco antigo de ruelas empedradas, praças e o mercado do Fontán. Oviedo é também cidade da sidra: as sidrerías da rua Gascona servem o cidre em altura em esplanadas muito acolhedoras para cães, e uma estátua de Woody Allen recorda o seu apreço pela vila. O seu clima oceânico, ameno e húmido, oferece verões frescos confortáveis para um cão, enquanto os Picos de Europa e as praias asturianas ficam a um passo como passeio de um dia.`,
+    },
+    sights: [
+      {
+        name: 'Catedral de San Salvador',
+        emoji: '🕍',
+        petFriendly: false,
+        desc: {
+          fr: `Cathédrale gothique au cœur de la vieille ville, abritant la Cámara Santa préromane classée à l'UNESCO. L'intérieur est fermé aux chiens, mais la place et les ruelles alentour se parcourent tranquillement en laisse.`,
+          en: `A Gothic cathedral at the heart of the old town, home to the pre-Romanesque Cámara Santa listed by UNESCO. The interior is closed to dogs, but the square and surrounding lanes are easily explored on the leash.`,
+          es: `Catedral gótica en el corazón del casco antiguo, que alberga la Cámara Santa prerrománica declarada por la UNESCO. El interior está cerrado a los perros, pero la plaza y las callejas de alrededor se recorren con calma con correa.`,
+          pt: `Catedral gótica no coração do casco antigo, que abriga a Cámara Santa pré-românica classificada pela UNESCO. O interior está fechado a cães, mas a praça e as ruelas em redor percorrem-se com calma à trela.`,
+        },
+      },
+      {
+        name: 'Santa María del Naranco',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Chef-d'œuvre préroman du IXe siècle sur les pentes du Monte Naranco, voisin de San Miguel de Lillo. Les chiens tenus en laisse profitent de la colline et des vues sur la ville, même si l'intérieur du monument ne leur est pas ouvert.`,
+          en: `A ninth-century pre-Romanesque masterpiece on the slopes of Monte Naranco, next to San Miguel de Lillo. Leashed dogs enjoy the hillside and the views over the town, though the interior of the monument is not open to them.`,
+          es: `Obra maestra prerrománica del siglo IX en las laderas del Monte Naranco, junto a San Miguel de Lillo. Los perros con correa disfrutan de la colina y de las vistas sobre la ciudad, aunque el interior del monumento no les está abierto.`,
+          pt: `Obra-prima pré-românica do século IX nas encostas do Monte Naranco, junto a San Miguel de Lillo. Os cães à trela desfrutam da colina e das vistas sobre a cidade, embora o interior do monumento não lhes esteja aberto.`,
+        },
+      },
+      {
+        name: 'Plaza del Fontán',
+        emoji: '🛒',
+        petFriendly: true,
+        desc: {
+          fr: `Place à arcades de la vieille ville, siège d'un marché animé et bordée de terrasses. On y flâne en laisse au milieu des étals, cœur populaire d'Oviedo depuis des siècles.`,
+          en: `An arcaded square in the old town, home to a lively market and lined with terraces. You stroll here on the leash amid the stalls, the popular heart of Oviedo for centuries.`,
+          es: `Plaza porticada del casco antiguo, sede de un mercado animado y rodeada de terrazas. Se pasea con correa entre los puestos, corazón popular de Oviedo desde hace siglos.`,
+          pt: `Praça com arcadas do casco antigo, sede de um mercado animado e rodeada de esplanadas. Passeia-se à trela entre as bancas, coração popular de Oviedo há séculos.`,
+        },
+      },
+      {
+        name: 'Campo de San Francisco',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Grand parc central aux allées ombragées, poumon vert de la ville à deux pas de la cathédrale. Les chiens en laisse y sont bienvenus le long des sentiers, des fontaines et des parterres.`,
+          en: `A large central park with shaded avenues, the green lung of the city a short walk from the cathedral. Leashed dogs are welcome along its paths, fountains and flower beds.`,
+          es: `Gran parque central de paseos sombreados, pulmón verde de la ciudad a dos pasos de la catedral. Los perros con correa son bienvenidos por sus senderos, fuentes y parterres.`,
+          pt: `Grande parque central de alamedas sombreadas, pulmão verde da cidade a dois passos da catedral. Os cães à trela são bem-vindos pelos seus caminhos, fontes e canteiros.`,
+        },
+      },
+      {
+        name: 'Calle Gascona',
+        emoji: '🍶',
+        petFriendly: true,
+        desc: {
+          fr: `Boulevard de la sidra, aligné de sidrerías où l'on verse le cidre asturien de haut. Les terrasses sont très tolérantes envers les chiens sages tenus en laisse, ambiance conviviale garantie.`,
+          en: `The boulevard of cider, lined with sidrerías where Asturian cider is poured from a height. The terraces are very tolerant of well-behaved leashed dogs, with a guaranteed convivial atmosphere.`,
+          es: `Bulevar de la sidra, jalonado de sidrerías donde se escancia el cidre asturiano desde lo alto. Las terrazas son muy tolerantes con los perros tranquilos y con correa, ambiente animado asegurado.`,
+          pt: `Bulevar da sidra, ladeado de sidrerías onde se serve o cidre asturiano em altura. As esplanadas são muito tolerantes com cães calmos e à trela, ambiente animado garantido.`,
+        },
+      },
+      {
+        name: 'Picos de Europa',
+        emoji: '🏔️',
+        petFriendly: true,
+        desc: {
+          fr: `Massif spectaculaire à une petite heure d'Oviedo, sentiers, lacs de Covadonga et gorges verdoyantes. Excursion à la journée où les chiens en laisse profitent des chemins de montagne et de l'air frais.`,
+          en: `A spectacular massif under an hour from Oviedo, with trails, the Covadonga lakes and green gorges. A day trip where leashed dogs enjoy the mountain paths and the fresh air.`,
+          es: `Macizo espectacular a menos de una hora de Oviedo, con senderos, los lagos de Covadonga y gargantas verdes. Excursión de un día donde los perros con correa disfrutan de los caminos de montaña y del aire fresco.`,
+          pt: `Maciço espetacular a menos de uma hora de Oviedo, com trilhos, os lagos de Covadonga e desfiladeiros verdes. Passeio de um dia onde os cães à trela desfrutam dos caminhos de montanha e do ar fresco.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Climat vert et humide toute l'année : prévoyez de quoi sécher un chien mouillé, mais les étés frais restent très confortables pour marcher.`,
+        `Attention saisonnière : les plages asturiennes de la côte (Gijón, Salinas, San Lorenzo) interdisent souvent les chiens de juin à septembre ; vérifiez avant l'excursion et repliez-vous sur les parcs urbains l'été.`,
+        `Les sidrerías de la rue Gascona et beaucoup de terrasses acceptent volontiers les chiens sages tenus en laisse, idéal pour une pause conviviale.`,
+        `Sur le Monte Naranco, les chiens en laisse profitent de la colline et de l'extérieur des églises préromanes, mais pas de leur intérieur ; la route grimpe, emportez de l'eau.`,
+        `Numéro d'urgence unique 112 ; passeport européen et vaccination antirabique à jour exigés à l'hôtel, repérez à l'arrivée une clinique vétérinaire de garde.`,
+      ],
+      en: [
+        `Green, damp climate all year: bring something to dry a wet dog, but the cool summers stay very comfortable for walking.`,
+        `Seasonal warning: the Asturian coast beaches (Gijón, Salinas, San Lorenzo) often ban dogs from June to September; check before a day trip and fall back on the city parks in summer.`,
+        `The sidrerías of Calle Gascona and many terraces gladly accept well-behaved leashed dogs, ideal for a convivial break.`,
+        `On Monte Naranco, leashed dogs enjoy the hillside and the exterior of the pre-Romanesque churches, but not their interiors; the road climbs, so carry water.`,
+        `Single emergency number 112; EU pet passport and up-to-date rabies vaccination required at the hotel, and on arrival scout a duty vet clinic.`,
+      ],
+      es: [
+        `Clima verde y húmedo todo el año: lleva con qué secar a un perro mojado, pero los veranos frescos resultan muy cómodos para pasear.`,
+        `Aviso estacional: las playas de la costa asturiana (Gijón, Salinas, San Lorenzo) suelen prohibir los perros de junio a septiembre; comprueba antes de la excursión y recurre a los parques urbanos en verano.`,
+        `Las sidrerías de la calle Gascona y muchas terrazas admiten de buen grado a los perros tranquilos con correa, ideal para una pausa animada.`,
+        `En el Monte Naranco, los perros con correa disfrutan de la colina y del exterior de las iglesias prerrománicas, pero no de su interior; la carretera sube, lleva agua.`,
+        `Número único de urgencias 112; pasaporte europeo y vacunación antirrábica al día exigidos en el hotel, y al llegar localiza una clínica veterinaria de guardia.`,
+      ],
+      pt: [
+        `Clima verde e húmido todo o ano: leve com que secar um cão molhado, mas os verões frescos mantêm-se muito confortáveis para passear.`,
+        `Aviso sazonal: as praias da costa asturiana (Gijón, Salinas, San Lorenzo) proíbem muitas vezes os cães de junho a setembro; confirme antes do passeio e recorra aos parques urbanos no verão.`,
+        `As sidrerías da rua Gascona e muitas esplanadas aceitam de bom grado os cães calmos à trela, ideal para uma pausa animada.`,
+        `No Monte Naranco, os cães à trela desfrutam da colina e do exterior das igrejas pré-românicas, mas não do seu interior; a estrada sobe, leve água.`,
+        `Número único de emergência 112; passaporte europeu e vacinação antirrábica em dia exigidos no hotel, e à chegada localize uma clínica veterinária de urgência.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen et vaccination antirabique à jour exigés à l'enregistrement dans les hôtels pet-friendly.`,
+        `Laisse obligatoire en ville et ramassage des déjections sous peine d'amende ; les races cataloguées PPP doivent porter laisse et muselière.`,
+        `Climat océanique doux et pluvieux toute l'année, étés frais agréables pour un chien ; prévoyez une protection contre la pluie.`,
+        `Oviedo est reliée par Renfe, la FEVE et les cars ALSA à Gijón, à la côte et aux Picos de Europa ; chiens admis selon les règles de chaque transporteur.`,
+        `Numéro d'urgence européen 112 ; les plages de la côte imposent des interdictions estivales, tandis que les parcs et la vieille ville restent ouverts toute l'année.`,
+      ],
+      en: [
+        `EU pet passport and up-to-date rabies vaccination required at check-in in pet-friendly hotels.`,
+        `Leash mandatory in town and waste pick-up enforced under fine; breeds listed as PPP must wear a leash and muzzle.`,
+        `Mild, rainy oceanic climate all year, with cool summers pleasant for a dog; bring rain protection.`,
+        `Oviedo is linked by Renfe, the FEVE line and ALSA coaches to Gijón, the coast and the Picos de Europa; dogs accepted under each operator's rules.`,
+        `European emergency number 112; coast beaches impose summer bans, while the parks and old town stay open all year.`,
+      ],
+      es: [
+        `Pasaporte europeo y vacunación antirrábica al día exigidos en el check-in de los hoteles pet-friendly.`,
+        `Correa obligatoria en la ciudad y recogida de excrementos bajo multa; las razas catalogadas como PPP deben llevar correa y bozal.`,
+        `Clima oceánico suave y lluvioso todo el año, con veranos frescos agradables para un perro; lleva protección contra la lluvia.`,
+        `Oviedo está conectada por Renfe, la FEVE y los autocares ALSA con Gijón, la costa y los Picos de Europa; perros admitidos según las normas de cada operador.`,
+        `Número de urgencia europeo 112; las playas de la costa imponen prohibiciones estivales, mientras los parques y el casco antiguo siguen abiertos todo el año.`,
+      ],
+      pt: [
+        `Passaporte europeu e vacinação antirrábica em dia exigidos no check-in dos hotéis pet-friendly.`,
+        `Trela obrigatória na cidade e recolha de dejetos sob multa; as raças catalogadas como PPP devem usar trela e açaime.`,
+        `Clima oceânico ameno e chuvoso todo o ano, com verões frescos agradáveis para um cão; leve proteção contra a chuva.`,
+        `Oviedo está ligada por Renfe, pela linha FEVE e pelos autocarros ALSA a Gijón, à costa e aos Picos de Europa; cães aceites segundo as regras de cada operador.`,
+        `Número de emergência europeu 112; as praias da costa impõem proibições no verão, enquanto os parques e o casco antigo permanecem abertos todo o ano.`,
+      ],
+    },
+  },
+
   oxford: {
     history: {
       fr: `Oxford accueille les chiens depuis le Moyen Âge, le Domesday Book de 1086 mentionne déjà Port Meadow, la prairie commune de 162 hectares qui borde la Tamise au nord de la ville et qui est pâturée et promenée sans interruption depuis. La ville universitaire elle-même est née autour des collèges fondés à partir du XIIe siècle, et la tradition anglaise des "town and gown", pubs, marchés et boutiques ouverts aux travailleurs comme aux universitaires, a toujours inclus les chiens. Aujourd'hui, Oxford est l'une des petites villes les plus dog-friendly d'Angleterre : plus de 80 % des pubs accueillent les chiens em salle, les bus de la ville et les cars Oxford Tube vers Londres les transportent gratuitement, et les trois grandes prairies (Port Meadow, Christ Church Meadow, University Parks) offrent plus de 200 hectares d'espace canin à 20 minutes à pied de Carfax. Seules les cours et jardins des collèges restent fermés aux chiens, ainsi que les bâtiments de la Bodléienne, un compromis acceptable étant donné l'abondance d'alternatives em plein air.`,
@@ -29225,6 +29362,143 @@ const cityContent: Record<string, CityContent> = {
         `Mais de 25 km de arcadas porticadas no centro histórico, um valioso activo contra a niebla invernal (novembro-janeiro) e o caldo umido estival (junho-agosto, 32-35°C com 80%+ de humidade).`,
         `Trens regionais Trenitalia: Venecia 25 min, Verona 40 min, Vicenza 15 min, Bologna 60 min; 5 € fixo para cães médios/grandes, grátis em transportin.`,
         `Colli Euganei (Parque Regional, 20-30 km a sul): 150+ km de trilhos abertos a cães com trela, agriturismi acolhedores; as termas de Abano e Montegrotto excluem os cães do interior do spa.`,
+      ],
+    },
+  },
+
+  palamos: {
+    history: {
+      fr: `Palamós est un port de pêche vivant de la Costa Brava, dans la province de Gérone, célèbre pour ses gambas rouges, les fameuses gambes de Palamós que s'arrachent les tables de toute la Catalogne. La criée du soir, quand les chalutiers rentrent, reste un spectacle populaire au bord du port de travail, et le Musée de la Pêche raconte cette histoire maritime. Derrière le port, la vieille ville escalade la colline jusqu'à l'église de Santa Maria, tandis que la côte déroule ses criques : la Fosca et sa forteresse en ruine, la plage sauvage de Castell préservée du béton, et le Camí de Ronda qui relie les anses en surplombant la mer. Ce sentier littoral, praticable toute l'année en laisse, est le vrai trésor des maîtres de chien. Le climat méditerranéen impose ses étés chauds et ses interdictions estivales de plage, mais l'arrière-saison offre des promenades côtières idéales, et la Costa Brava voisine, de Calella de Palafrugell à Cadaqués, se visite à la journée.`,
+      en: `Palamós is a lively fishing port on the Costa Brava, in the province of Girona, famous for its red prawns, the celebrated gambes de Palamós fought over by kitchens across Catalonia. The evening auction, when the trawlers come in, remains a popular sight beside the working harbour, and the Fishing Museum tells this maritime story. Behind the port, the old town climbs the hill to the church of Santa Maria, while the coast unrolls its coves: La Fosca with its ruined fortress, the wild, undeveloped beach of Castell, and the Camí de Ronda linking the inlets high above the sea. This coastal path, walkable year-round on the leash, is the real treasure for dog owners. The Mediterranean climate brings hot summers and seasonal beach bans, but the shoulder season offers ideal coastal walks, and the neighbouring Costa Brava, from Calella de Palafrugell to Cadaqués, is within reach as a day trip.`,
+      es: `Palamós es un animado puerto pesquero de la Costa Brava, en la provincia de Girona, célebre por sus gambas rojas, las famosas gambes de Palamós que se disputan las mesas de toda Cataluña. La subasta del atardecer, cuando entran los arrastreros, sigue siendo un espectáculo popular junto al puerto de trabajo, y el Museo de la Pesca cuenta esta historia marinera. Tras el puerto, el casco antiguo trepa por la colina hasta la iglesia de Santa Maria, mientras la costa despliega sus calas: la Fosca con su fortaleza en ruinas, la playa salvaje de Castell libre de cemento, y el Camí de Ronda que enlaza las ensenadas sobre el mar. Este sendero litoral, transitable todo el año con correa, es el verdadero tesoro para los dueños de perros. El clima mediterráneo trae veranos calurosos y prohibiciones estivales de playa, pero la temporada media ofrece paseos costeros ideales, y la Costa Brava vecina, de Calella de Palafrugell a Cadaqués, se visita en una excursión de un día.`,
+      pt: `Palamós é um animado porto de pesca da Costa Brava, na província de Girona, célebre pelos seus camarões vermelhos, as famosas gambes de Palamós disputadas pelas mesas de toda a Catalunha. O leilão do entardecer, quando os arrastões regressam, continua a ser um espetáculo popular junto ao porto de trabalho, e o Museu da Pesca conta esta história marítima. Por detrás do porto, o casco antigo sobe a colina até à igreja de Santa Maria, enquanto a costa desdobra as suas enseadas: a Fosca com a sua fortaleza em ruínas, a praia selvagem de Castell livre de cimento, e o Camí de Ronda que liga as angras acima do mar. Este trilho litoral, percorrível todo o ano à trela, é o verdadeiro tesouro para os donos de cães. O clima mediterrânico traz verões quentes e proibições estivais de praia, mas a época baixa oferece passeios costeiros ideais, e a vizinha Costa Brava, de Calella de Palafrugell a Cadaqués, visita-se num passeio de um dia.`,
+    },
+    sights: [
+      {
+        name: 'Port de Palamós',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Port de pêche en activité où l'on assiste à la criée du soir et au retour des chalutiers. Les quais et les terrasses du front de port se parcourent en laisse, ambiance maritime authentique loin des marinas de plaisance.`,
+          en: `A working fishing port where you can watch the evening auction and the trawlers coming in. The quays and harbour-front terraces are walked on the leash, an authentic maritime scene far from the leisure marinas.`,
+          es: `Puerto pesquero en activo donde se asiste a la subasta del atardecer y al regreso de los arrastreros. Los muelles y las terrazas del frente portuario se recorren con correa, ambiente marinero auténtico lejos de las marinas de recreo.`,
+          pt: `Porto de pesca em atividade onde se assiste ao leilão do entardecer e ao regresso dos arrastões. Os cais e as esplanadas da frente portuária percorrem-se à trela, ambiente marítimo autêntico longe das marinas de recreio.`,
+        },
+      },
+      {
+        name: 'Museu de la Pesca',
+        emoji: '🐟',
+        petFriendly: false,
+        desc: {
+          fr: `Musée de la pêche installé sur le quai, dédié à la tradition des gambes de Palamós et aux métiers de la mer. L'intérieur n'accepte pas les chiens, mais l'esplanade du port se longe agréablement en laisse.`,
+          en: `A fishing museum set on the quay, devoted to the tradition of the gambes de Palamós and the trades of the sea. The interior does not accept dogs, but the harbour esplanade makes a pleasant leashed walk.`,
+          es: `Museo de la pesca instalado en el muelle, dedicado a la tradición de las gambes de Palamós y a los oficios del mar. El interior no admite perros, pero la explanada del puerto se recorre a gusto con correa.`,
+          pt: `Museu da pesca instalado no cais, dedicado à tradição das gambes de Palamós e aos ofícios do mar. O interior não aceita cães, mas a esplanada do porto percorre-se agradavelmente à trela.`,
+        },
+      },
+      {
+        name: 'Camí de Ronda',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Sentier littoral qui relie les criques en surplombant la mer, praticable toute l'année en laisse. C'est la plus belle promenade de Palamós avec un chien, entre pins, rochers et eaux turquoise ; ombre rare, à éviter en pleine chaleur.`,
+          en: `A coastal path linking the coves high above the sea, walkable year-round on the leash. It is the finest walk in Palamós with a dog, among pines, rocks and turquoise water; shade is scarce, so avoid the midday heat.`,
+          es: `Sendero litoral que enlaza las calas sobre el mar, transitable todo el año con correa. Es el paseo más bonito de Palamós con un perro, entre pinos, rocas y aguas turquesa; la sombra escasea, evítalo con mucho calor.`,
+          pt: `Trilho litoral que liga as enseadas acima do mar, percorrível todo o ano à trela. É o passeio mais bonito de Palamós com um cão, entre pinheiros, rochas e águas turquesa; a sombra é escassa, evite-o com muito calor.`,
+        },
+      },
+      {
+        name: 'Platja de la Fosca',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Plage familiale dominée par les ruines du château de Sant Esteve de Mar, aux eaux calmes et peu profondes. Les chiens sont interdits en été (grosso modo mi-juin à mi-septembre) mais retrouvent l'accès en laisse hors saison.`,
+          en: `A family beach overlooked by the ruins of Sant Esteve de Mar castle, with calm, shallow water. Dogs are banned in summer (roughly mid-June to mid-September) but regain leashed access off-season.`,
+          es: `Playa familiar dominada por las ruinas del castillo de Sant Esteve de Mar, de aguas tranquilas y poco profundas. Los perros están prohibidos en verano (aproximadamente de mediados de junio a mediados de septiembre) pero recuperan el acceso con correa fuera de temporada.`,
+          pt: `Praia familiar dominada pelas ruínas do castelo de Sant Esteve de Mar, de águas calmas e pouco profundas. Os cães são proibidos no verão (sensivelmente de meados de junho a meados de setembro) mas recuperam o acesso à trela fora de época.`,
+        },
+      },
+      {
+        name: 'Platja de Castell',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Plage sauvage préservée du béton grâce à une votation citoyenne, bordée de pins et d'un site ibère. Interdite aux chiens en pleine saison estivale, elle se savoure en laisse au printemps et à l'automne, accès à pied depuis le parking.`,
+          en: `A wild beach saved from development by a citizens' vote, fringed by pines and an Iberian site. Off-limits to dogs in high summer, it is best enjoyed on the leash in spring and autumn, reached on foot from the car park.`,
+          es: `Playa salvaje preservada del cemento gracias a una votación ciudadana, bordeada de pinos y de un yacimiento ibérico. Prohibida a los perros en plena temporada estival, se disfruta con correa en primavera y otoño, con acceso a pie desde el aparcamiento.`,
+          pt: `Praia selvagem preservada do cimento graças a uma votação cidadã, orlada de pinheiros e de um sítio ibérico. Interdita a cães em plena época estival, saboreia-se à trela na primavera e no outono, com acesso a pé a partir do parque de estacionamento.`,
+        },
+      },
+      {
+        name: 'Cap de Planes',
+        emoji: '🧭',
+        petFriendly: true,
+        desc: {
+          fr: `Pointe rocheuse et enchaînement de criques entre la Fosca et les plages du nord, jalonnée par le Camí de Ronda. Belvédères sur la Méditerranée et petites anses discrètes, à parcourir en laisse hors des heures chaudes.`,
+          en: `A rocky headland and a string of coves between La Fosca and the northern beaches, threaded by the Camí de Ronda. Viewpoints over the Mediterranean and quiet little inlets, to be walked on the leash outside the hot hours.`,
+          es: `Punta rocosa y sucesión de calas entre la Fosca y las playas del norte, jalonada por el Camí de Ronda. Miradores sobre el Mediterráneo y pequeñas ensenadas discretas, para recorrer con correa fuera de las horas de calor.`,
+          pt: `Ponta rochosa e sucessão de enseadas entre a Fosca e as praias do norte, marcada pelo Camí de Ronda. Miradouros sobre o Mediterrâneo e pequenas angras discretas, para percorrer à trela fora das horas de calor.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Interdictions estivales de plage : les chiens sont bannis de la Fosca, de Castell et des plages urbaines de mi-juin à mi-septembre environ ; hors saison l'accès en laisse revient et le Camí de Ronda reste ouvert toute l'année.`,
+        `Chaleur méditerranéenne l'été : promenez tôt le matin ou en soirée, le sable et la roche brûlent les coussinets à midi, emportez toujours de l'eau.`,
+        `Le Camí de Ronda entre les criques est la promenade reine avec un chien, mais l'ombre y est rare : évitez les heures les plus chaudes et surveillez les signes de coup de chaleur.`,
+        `Les quais du port de pêche se parcourent en laisse et la criée du soir vaut le détour ; l'intérieur du Musée de la Pêche n'accepte pas les chiens.`,
+        `Numéro d'urgence unique 112 ; passeport européen et vaccination antirabique à jour exigés à l'hôtel, repérez à l'arrivée une clinique vétérinaire de garde.`,
+      ],
+      en: [
+        `Summer beach bans: dogs are barred from La Fosca, Castell and the town beaches from roughly mid-June to mid-September; off-season leashed access returns and the Camí de Ronda stays open all year.`,
+        `Mediterranean summer heat: walk early morning or in the evening, as sand and rock scorch paw pads at midday, and always carry water.`,
+        `The Camí de Ronda between the coves is the standout dog walk, but shade is scarce: avoid the hottest hours and watch for signs of heatstroke.`,
+        `The fishing-port quays can be walked on the leash and the evening auction is worth a look; the interior of the Fishing Museum does not accept dogs.`,
+        `Single emergency number 112; EU pet passport and up-to-date rabies vaccination required at the hotel, and on arrival scout a duty vet clinic.`,
+      ],
+      es: [
+        `Prohibiciones estivales de playa: los perros quedan vetados de la Fosca, Castell y las playas urbanas de mediados de junio a mediados de septiembre aproximadamente; fuera de temporada vuelve el acceso con correa y el Camí de Ronda sigue abierto todo el año.`,
+        `Calor mediterráneo en verano: pasea a primera hora o al atardecer, la arena y la roca queman las almohadillas al mediodía, y lleva siempre agua.`,
+        `El Camí de Ronda entre las calas es el paseo estrella con un perro, pero la sombra escasea: evita las horas de más calor y vigila los signos de golpe de calor.`,
+        `Los muelles del puerto pesquero se recorren con correa y la subasta del atardecer merece la visita; el interior del Museo de la Pesca no admite perros.`,
+        `Número único de urgencias 112; pasaporte europeo y vacunación antirrábica al día exigidos en el hotel, y al llegar localiza una clínica veterinaria de guardia.`,
+      ],
+      pt: [
+        `Proibições estivais de praia: os cães ficam vetados da Fosca, de Castell e das praias urbanas sensivelmente de meados de junho a meados de setembro; fora de época volta o acesso à trela e o Camí de Ronda permanece aberto todo o ano.`,
+        `Calor mediterrânico no verão: passeie de manhã cedo ou ao entardecer, a areia e a rocha queimam as almofadas ao meio-dia, e leve sempre água.`,
+        `O Camí de Ronda entre as enseadas é o passeio de eleição com um cão, mas a sombra é escassa: evite as horas de mais calor e vigie os sinais de golpe de calor.`,
+        `Os cais do porto de pesca percorrem-se à trela e o leilão do entardecer merece a visita; o interior do Museu da Pesca não aceita cães.`,
+        `Número único de emergência 112; passaporte europeu e vacinação antirrábica em dia exigidos no hotel, e à chegada localize uma clínica veterinária de urgência.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen et vaccination antirabique à jour exigés à l'enregistrement dans les hôtels pet-friendly.`,
+        `Laisse obligatoire et ramassage des déjections sous peine d'amende ; les races cataloguées PPP doivent porter laisse et muselière, et les plages appliquent des interdictions estivales aux chiens.`,
+        `Climat méditerranéen : étés chauds et secs (attention aux coussinets et au coup de chaleur), arrière-saison douce idéale pour les promenades côtières.`,
+        `Pas de train à Palamós ; les cars Moventis relient Gérone, Barcelone et les villages de la Costa Brava (Calella de Palafrugell, Cadaqués), chiens selon les règles du transporteur, aéroport de Gérone à environ 50 km.`,
+        `Numéro d'urgence européen 112 ; le Camí de Ronda offre une promenade côtière en laisse accessible toute l'année entre les criques.`,
+      ],
+      en: [
+        `EU pet passport and up-to-date rabies vaccination required at check-in in pet-friendly hotels.`,
+        `Leash mandatory and waste pick-up enforced under fine; breeds listed as PPP must wear a leash and muzzle, and beaches enforce summer dog bans.`,
+        `Mediterranean climate: hot, dry summers (mind paw pads and heatstroke), with a mild shoulder season ideal for coastal walks.`,
+        `No train to Palamós; Moventis coaches connect Girona, Barcelona and the Costa Brava villages (Calella de Palafrugell, Cadaqués), dogs under the operator's rules, with Girona airport about 50 km away.`,
+        `European emergency number 112; the Camí de Ronda offers a leashed coastal walk open all year between the coves.`,
+      ],
+      es: [
+        `Pasaporte europeo y vacunación antirrábica al día exigidos en el check-in de los hoteles pet-friendly.`,
+        `Correa obligatoria y recogida de excrementos bajo multa; las razas catalogadas como PPP deben llevar correa y bozal, y las playas aplican prohibiciones estivales a los perros.`,
+        `Clima mediterráneo: veranos calurosos y secos (cuidado con las almohadillas y el golpe de calor), temporada media suave ideal para los paseos costeros.`,
+        `Sin tren en Palamós; los autocares Moventis conectan Girona, Barcelona y los pueblos de la Costa Brava (Calella de Palafrugell, Cadaqués), perros según las normas del operador, aeropuerto de Girona a unos 50 km.`,
+        `Número de urgencia europeo 112; el Camí de Ronda ofrece un paseo costero con correa accesible todo el año entre las calas.`,
+      ],
+      pt: [
+        `Passaporte europeu e vacinação antirrábica em dia exigidos no check-in dos hotéis pet-friendly.`,
+        `Trela obrigatória e recolha de dejetos sob multa; as raças catalogadas como PPP devem usar trela e açaime, e as praias aplicam proibições estivais aos cães.`,
+        `Clima mediterrânico: verões quentes e secos (atenção às almofadas e ao golpe de calor), época baixa amena ideal para os passeios costeiros.`,
+        `Sem comboio em Palamós; os autocarros Moventis ligam Girona, Barcelona e as aldeias da Costa Brava (Calella de Palafrugell, Cadaqués), cães segundo as regras do operador, aeroporto de Girona a cerca de 50 km.`,
+        `Número de emergência europeu 112; o Camí de Ronda oferece um passeio costeiro à trela acessível todo o ano entre as enseadas.`,
       ],
     },
   },

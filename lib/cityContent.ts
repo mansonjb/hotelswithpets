@@ -31152,6 +31152,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  plovdiv: {
+    history: {
+      fr: `Plovdiv, en plaine de Thrace au sud de la Bulgarie, est l'une des plus anciennes villes habitées d'Europe, peuplée sans interruption depuis plus de six mille ans. Thraces, Macédoniens, Romains, Byzantins et Ottomans y ont laissé des couches successives que la ville porte à ciel ouvert : le théâtre romain de Philippopolis, toujours en activité, le stade antique enfoui sous la rue piétonne, et la colline de Nebet Tepe où naquit la cité. La Vieille Ville escalade trois collines de pavés, alignant les maisons peintes de la Renaissance nationale bulgare, aujourd'hui musées et galeries. En contrebas, le quartier créatif de Kapana multiplie ateliers, terrasses et cafés, tandis que le jardin Tsar Siméon déroule ses allées et ses fontaines chantantes. Capitale européenne de la culture en 2019, Plovdiv se parcourt à pied, au rythme de ses terrasses. Le climat continental impose des étés chauds et des hivers froids.`,
+      en: `Plovdiv, on the Thracian plain of southern Bulgaria, is one of Europe's oldest continuously inhabited cities, settled without a break for more than six thousand years. Thracians, Macedonians, Romans, Byzantines and Ottomans each left a layer the city wears in the open air: the Roman Theatre of Philippopolis, still in use, the ancient stadium buried under the pedestrian street, and the hill of Nebet Tepe where the city was born. The Old Town climbs three cobbled hills, lined with the painted houses of the Bulgarian National Revival, now museums and galleries. Below, the Kapana creative district fills up with studios, terraces and cafes, while the Tsar Simeon Garden unrolls its avenues and singing fountains. A 2019 European Capital of Culture, Plovdiv is walked on foot, to the rhythm of its terraces. The continental climate brings hot summers and cold winters.`,
+      es: `Plovdiv, en la llanura de Tracia al sur de Bulgaria, es una de las ciudades habitadas más antiguas de Europa, poblada sin interrupción desde hace más de seis mil años. Tracios, macedonios, romanos, bizantinos y otomanos dejaron capas sucesivas que la ciudad muestra a cielo abierto: el teatro romano de Filipópolis, aún en uso, el estadio antiguo enterrado bajo la calle peatonal y la colina de Nebet Tepe donde nació la ciudad. El Casco Antiguo trepa por tres colinas empedradas, jalonadas de casas pintadas del Renacimiento Nacional búlgaro, hoy museos y galerías. Abajo, el barrio creativo de Kapana se llena de talleres, terrazas y cafés, mientras el jardín Zar Simeón despliega sus paseos y sus fuentes cantarinas. Capital Europea de la Cultura en 2019, Plovdiv se recorre a pie, al ritmo de sus terrazas. El clima continental trae veranos calurosos e inviernos fríos.`,
+      pt: `Plovdiv, na planície da Trácia no sul da Bulgária, é uma das cidades habitadas mais antigas da Europa, povoada sem interrupção há mais de seis mil anos. Trácios, macedónios, romanos, bizantinos e otomanos deixaram camadas sucessivas que a cidade exibe a céu aberto: o teatro romano de Filipópolis, ainda em uso, o estádio antigo enterrado sob a rua pedonal e a colina de Nebet Tepe onde a cidade nasceu. O Casco Antigo sobe por três colinas calcetadas, ladeadas pelas casas pintadas do Renascimento Nacional búlgaro, hoje museus e galerias. Em baixo, o bairro criativo de Kapana enche-se de ateliês, esplanadas e cafés, enquanto o jardim Czar Simeão desenrola as suas alamedas e as suas fontes cantantes. Capital Europeia da Cultura em 2019, Plovdiv percorre-se a pé, ao ritmo das suas esplanadas. O clima continental traz verões quentes e invernos frios.`,
+    },
+    sights: [
+      {
+        name: 'Antichen teatar Filipopol',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Le théâtre romain de Philippopolis, amphithéâtre du IIe siècle taillé dans la colline, sert encore aux concerts et spectacles. Site en plein air, les chiens tenus en laisse sont admis sur les terrasses de gradins hors soirées de représentation, avec une vue superbe sur la ville et les Rhodopes.`,
+          en: `The Roman Theatre of Philippopolis, a second-century amphitheatre cut into the hill, still hosts concerts and shows. An open-air site, leashed dogs are welcome on the tiered terraces outside performance evenings, with a superb view over the city and the Rhodope mountains.`,
+          es: `El teatro romano de Filipópolis, anfiteatro del siglo II tallado en la colina, sigue acogiendo conciertos y espectáculos. Recinto al aire libre, los perros con correa son bienvenidos en las gradas fuera de las noches de función, con una vista soberbia sobre la ciudad y los montes Ródope.`,
+          pt: `O teatro romano de Filipópolis, anfiteatro do século II talhado na colina, ainda acolhe concertos e espetáculos. Recinto ao ar livre, os cães à trela são bem-vindos nas bancadas fora das noites de espetáculo, com uma vista soberba sobre a cidade e os montes Ródope.`,
+        },
+      },
+      {
+        name: 'Stariyat grad',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `La Vieille Ville escalade trois collines de pavés bordées de maisons peintes de la Renaissance nationale bulgare, aux étages en encorbellement colorés. Les ruelles se parcourent en laisse ; l'intérieur des maisons-musées n'accepte pas les chiens, mais les cours et façades valent à elles seules la montée.`,
+          en: `The Old Town climbs three cobbled hills lined with the painted houses of the Bulgarian National Revival, their colourful upper floors jutting over the street. The lanes are walked on the leash; the interiors of the house-museums do not accept dogs, but the courtyards and facades alone are worth the climb.`,
+          es: `El Casco Antiguo trepa por tres colinas empedradas jalonadas de casas pintadas del Renacimiento Nacional búlgaro, con pisos superiores en voladizo y colores vivos. Las callejuelas se recorren con correa; el interior de las casas-museo no admite perros, pero los patios y las fachadas ya valen la subida.`,
+          pt: `O Casco Antigo sobe por três colinas calcetadas ladeadas pelas casas pintadas do Renascimento Nacional búlgaro, de pisos superiores em consola e cores vivas. As ruelas percorrem-se à trela; o interior das casas-museu não aceita cães, mas os pátios e as fachadas já valem a subida.`,
+        },
+      },
+      {
+        name: 'Kapana',
+        emoji: '🎨',
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier créatif de Kapana, dédale d'ateliers d'artistes, de boutiques et de bars, est le cœur branché de la ville. Ses terrasses tolèrent volontiers les chiens, idéal pour une pause à l'ombre entre deux visites de la Vieille Ville toute proche.`,
+          en: `The Kapana creative district, a maze of artists' studios, shops and bars, is the city's hip heart. Its terraces are happy to welcome dogs, ideal for a shaded break between visits to the nearby Old Town.`,
+          es: `El barrio creativo de Kapana, un laberinto de talleres de artistas, tiendas y bares, es el corazón moderno de la ciudad. Sus terrazas admiten de buen grado a los perros, ideal para una pausa a la sombra entre dos visitas al cercano Casco Antiguo.`,
+          pt: `O bairro criativo de Kapana, um labirinto de ateliês de artistas, lojas e bares, é o coração moderno da cidade. As suas esplanadas acolhem de bom grado os cães, ideal para uma pausa à sombra entre duas visitas ao vizinho Casco Antigo.`,
+        },
+      },
+      {
+        name: 'Antichen stadion na Filipopol',
+        emoji: '🏟️',
+        petFriendly: true,
+        desc: {
+          fr: `Le stade romain de Philippopolis, long de plus de 200 mètres, dort sous la rue piétonne principale ; on en voit l'extrémité en gradins depuis la place Djumaya. La partie visible se contemple en laisse à ciel ouvert, au milieu de l'animation de la grande artère commerçante.`,
+          en: `The Roman stadium of Philippopolis, over 200 metres long, sleeps beneath the main pedestrian street; its tiered end is seen from Dzhumaya Square. The exposed section is admired on the leash in the open air, amid the bustle of the main shopping street.`,
+          es: `El estadio romano de Filipópolis, de más de 200 metros, duerme bajo la calle peatonal principal; su extremo en gradas se ve desde la plaza Dzhumaya. La parte descubierta se contempla con correa al aire libre, en medio del bullicio de la gran arteria comercial.`,
+          pt: `O estádio romano de Filipópolis, com mais de 200 metros, dorme sob a rua pedonal principal; a sua extremidade em bancadas vê-se da praça Dzhumaya. A parte descoberta contempla-se à trela ao ar livre, no meio da animação da grande artéria comercial.`,
+        },
+      },
+      {
+        name: 'Nebet tepe',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `La colline de Nebet Tepe, berceau de la cité thrace il y a plus de six mille ans, conserve d'imposantes ruines de remparts au sommet de la Vieille Ville. Le site est ouvert et libre d'accès en laisse, avec l'un des plus beaux couchers de soleil de Plovdiv sur les toits et la plaine.`,
+          en: `The hill of Nebet Tepe, cradle of the Thracian city more than six thousand years ago, keeps imposing rampart ruins at the top of the Old Town. The site is open and free to enter on the leash, offering one of Plovdiv's finest sunsets over the roofs and the plain.`,
+          es: `La colina de Nebet Tepe, cuna de la ciudad tracia hace más de seis mil años, conserva imponentes ruinas de murallas en lo alto del Casco Antiguo. El recinto es abierto y de acceso libre con correa, con una de las mejores puestas de sol de Plovdiv sobre los tejados y la llanura.`,
+          pt: `A colina de Nebet Tepe, berço da cidade trácia há mais de seis mil anos, conserva imponentes ruínas de muralhas no topo do Casco Antigo. O recinto é aberto e de acesso livre à trela, com um dos mais belos pores do sol de Plovdiv sobre os telhados e a planície.`,
+        },
+      },
+      {
+        name: 'Tsar Simeonova gradina',
+        emoji: '⛲',
+        petFriendly: true,
+        desc: {
+          fr: `Le jardin Tsar Siméon, grand parc du centre-ville, déroule allées ombragées, parterres et un lac agrémenté de fontaines chantantes qui s'illuminent le soir. On s'y promène en laisse, halte fraîche et vivante à deux pas de la rue piétonne et de Kapana.`,
+          en: `The Tsar Simeon Garden, a large downtown park, unrolls shaded avenues, flower beds and a lake set with singing fountains that light up at night. You stroll here on the leash, a cool and lively stop a stone's throw from the pedestrian street and Kapana.`,
+          es: `El jardín Zar Simeón, gran parque del centro, despliega paseos con sombra, parterres y un lago con fuentes cantarinas que se iluminan al anochecer. Se pasea con correa, una parada fresca y animada a dos pasos de la calle peatonal y de Kapana.`,
+          pt: `O jardim Czar Simeão, grande parque do centro, desenrola alamedas com sombra, canteiros e um lago com fontes cantantes que se iluminam à noite. Passeia-se à trela, uma paragem fresca e animada a dois passos da rua pedonal e de Kapana.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Été continental très chaud : promenez tôt le matin ou en soirée, les pavés et les collines de la Vieille Ville chauffent fort et offrent peu d'ombre, emportez de l'eau.`,
+        `La Vieille Ville et le centre autour de la rue piétonne se parcourent parfaitement à pied en laisse, mais l'intérieur des maisons-musées et des monuments fermés refuse les chiens.`,
+        `Les terrasses de cafés de Kapana et du centre tolèrent volontiers les chiens ; demandez simplement une table en extérieur et une gamelle d'eau se trouve souvent sans peine.`,
+        `Hiver froid et parfois neigeux : prévoyez de quoi tenir votre chien au chaud pour les longues balades sur les collines, et attention au sel de déneigement sur les coussinets.`,
+        `Numéro d'urgence unique 112 ; passeport européen et vaccination antirabique à jour exigés à l'hôtel, repérez à l'arrivée une clinique vétérinaire de garde.`,
+      ],
+      en: [
+        `Very hot continental summer: walk early in the morning or in the evening, as the cobbles and Old Town hills heat up strongly and give little shade, so carry water.`,
+        `The Old Town and the centre around the pedestrian street are perfectly walkable on the leash, but the interiors of house-museums and enclosed monuments turn dogs away.`,
+        `The cafe terraces of Kapana and the centre gladly tolerate dogs; simply ask for an outdoor table, and a water bowl is often easy to come by.`,
+        `Cold and sometimes snowy winter: bring something to keep your dog warm on long walks over the hills, and mind the de-icing salt on paw pads.`,
+        `Single emergency number 112; EU pet passport and up-to-date rabies vaccination required at the hotel, and on arrival scout a duty vet clinic.`,
+      ],
+      es: [
+        `Verano continental muy caluroso: pasea temprano por la mañana o al atardecer, porque los adoquines y las colinas del Casco Antiguo se calientan mucho y dan poca sombra, lleva agua.`,
+        `El Casco Antiguo y el centro en torno a la calle peatonal se recorren perfectamente a pie con correa, pero el interior de las casas-museo y de los monumentos cerrados no admite perros.`,
+        `Las terrazas de los cafés de Kapana y del centro admiten de buen grado a los perros; basta pedir una mesa en el exterior, y un cuenco de agua suele conseguirse sin problema.`,
+        `Invierno frío y a veces nevado: lleva algo para mantener a tu perro caliente en los largos paseos por las colinas, y cuidado con la sal de deshielo en las almohadillas.`,
+        `Número único de urgencias 112; pasaporte europeo y vacunación antirrábica al día exigidos en el hotel, y al llegar localiza una clínica veterinaria de guardia.`,
+      ],
+      pt: [
+        `Verão continental muito quente: passeie de manhã cedo ou ao entardecer, pois os paralelepípedos e as colinas do Casco Antigo aquecem muito e dão pouca sombra, leve água.`,
+        `O Casco Antigo e o centro em torno da rua pedonal percorrem-se perfeitamente a pé à trela, mas o interior das casas-museu e dos monumentos fechados não aceita cães.`,
+        `As esplanadas dos cafés de Kapana e do centro toleram de bom grado os cães; basta pedir uma mesa no exterior, e uma taça de água consegue-se muitas vezes sem dificuldade.`,
+        `Inverno frio e por vezes com neve: leve algo para manter o seu cão quente nos longos passeios pelas colinas, e atenção ao sal de degelo nas almofadas.`,
+        `Número único de emergência 112; passaporte europeu e vacinação antirrábica em dia exigidos no hotel, e à chegada localize uma clínica veterinária de urgência.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen et vaccination antirabique à jour exigés à l'enregistrement dans les hôtels pet-friendly (la Bulgarie est dans l'UE).`,
+        `Laisse et ramassage des déjections de rigueur en ville ; le centre piétonnier, la Vieille Ville et les jardins se parcourent en laisse toute l'année.`,
+        `Climat continental : étés chauds (attention aux coussinets sur les pavés et au coup de chaleur), hivers froids et parfois neigeux, printemps et automne idéaux pour les longues balades.`,
+        `Centre très marchable : la rue piétonne, la Vieille Ville et Kapana se rejoignent à pied ; l'aéroport de Plovdiv est petit, beaucoup arrivent via Sofia à environ 1h30 de route.`,
+        `Numéro d'urgence européen 112 ; l'intérieur des maisons-musées et des monuments fermés refuse les chiens, mais l'essentiel des sites se visite à ciel ouvert.`,
+      ],
+      en: [
+        `EU pet passport and up-to-date rabies vaccination required at check-in in pet-friendly hotels (Bulgaria is in the EU).`,
+        `Leash and waste pick-up expected in town; the pedestrian centre, the Old Town and the gardens are walked on the leash all year.`,
+        `Continental climate: hot summers (mind paw pads on the cobbles and heatstroke), cold and sometimes snowy winters, with spring and autumn ideal for long walks.`,
+        `Very walkable centre: the pedestrian street, the Old Town and Kapana are linked on foot; Plovdiv airport is small, so many arrive via Sofia about 1h30 away by road.`,
+        `European emergency number 112; the interiors of house-museums and enclosed monuments turn dogs away, but most sites are visited in the open air.`,
+      ],
+      es: [
+        `Pasaporte europeo y vacunación antirrábica al día exigidos en el check-in de los hoteles pet-friendly (Bulgaria está en la UE).`,
+        `Correa y recogida de excrementos de rigor en la ciudad; el centro peatonal, el Casco Antiguo y los jardines se recorren con correa todo el año.`,
+        `Clima continental: veranos calurosos (cuidado con las almohadillas en los adoquines y el golpe de calor), inviernos fríos y a veces nevados, primavera y otoño ideales para los paseos largos.`,
+        `Centro muy caminable: la calle peatonal, el Casco Antiguo y Kapana se enlazan a pie; el aeropuerto de Plovdiv es pequeño, muchos llegan vía Sofía a unos 1h30 por carretera.`,
+        `Número de urgencia europeo 112; el interior de las casas-museo y de los monumentos cerrados no admite perros, pero la mayoría de los sitios se visita a cielo abierto.`,
+      ],
+      pt: [
+        `Passaporte europeu e vacinação antirrábica em dia exigidos no check-in dos hotéis pet-friendly (a Bulgária está na UE).`,
+        `Trela e recolha de dejetos de rigor na cidade; o centro pedonal, o Casco Antigo e os jardins percorrem-se à trela todo o ano.`,
+        `Clima continental: verões quentes (atenção às almofadas nos paralelepípedos e ao golpe de calor), invernos frios e por vezes com neve, primavera e outono ideais para os passeios longos.`,
+        `Centro muito caminhável: a rua pedonal, o Casco Antigo e Kapana ligam-se a pé; o aeroporto de Plovdiv é pequeno, muitos chegam via Sófia a cerca de 1h30 por estrada.`,
+        `Número de emergência europeu 112; o interior das casas-museu e dos monumentos fechados não aceita cães, mas a maioria dos locais visita-se a céu aberto.`,
+      ],
+    },
+  },
+
   porto: {
     history: {
       en: 'Porto, Portugal\'s second city and the origin of port wine, sits on the dramatic granite gorge of the Douro river. With around 240,000 inhabitants, it has the warmth of a neighbourhood city and a dog culture that mirrors Lisbon\'s openness. Portuenses (Porto residents) are matter-of-fact about dogs in public spaces: café terraces, riverside promenades and tram cars all see dogs as a normal part of daily life. The Atlantic coast is minutes away, and the Douro Valley wine country, an extraordinary day trip, is one of the most scenic walking environments in Europe.',
@@ -31803,6 +31940,143 @@ const cityContent: Record<string, CityContent> = {
         `Lojas de animais e secções pet nos supermercados de Quiberon e de Saint-Pierre-Quiberon`,
         `O comboio sazonal Tire-Bouchon (Auray-Quiberon) aplica as regras da SNCF: cães pequenos em bolsa, cães grandes com trela e açaime e com bilhete`,
         `Passaporte europeu, microchip e vacina antirrábica em dia para viajar em França; mantenha a proteção antiparasitária, as carraças estão ativas na charneca`,
+      ],
+    },
+  },
+
+  quimper: {
+    history: {
+      fr: `Quimper, capitale de la Cornouaille au fond de son estuaire, est l'une des villes les plus bretonnes du Finistère. Son nom vient du breton kemper, la confluence, car c'est ici que l'Odet rejoint le Steir sous une série de ponts fleuris qui font le charme du centre. La cathédrale Saint-Corentin, gothique aux deux flèches jumelles élancées du XIXe siècle, domine un lacis de ruelles pavées bordées de maisons à pans de bois. Cité épiscopale ancienne, Quimper est aussi la capitale de la faïence : le quartier de Locmaria, en aval du fleuve, perpétue depuis le XVIIe siècle un artisanat de céramique peinte à la main devenu emblème de la ville. Au-dessus du centre, la colline boisée du Mont Frugy offre ses sentiers ombragés, tandis que la culture bretonne s'affirme chaque juillet au Festival de Cornouaille. Le climat atlantique reste doux et humide, et la côte, plages et pointes du bout du monde, n'est qu'à une demi-heure.`,
+      en: `Quimper, capital of Cornouaille at the head of its estuary, is one of the most Breton towns in Finistere. Its name comes from the Breton kemper, meaning confluence, for it is here that the Odet meets the Steir beneath a string of flowered footbridges that give the centre its charm. The Cathedral of Saint-Corentin, Gothic with slender nineteenth-century twin spires, rises over a web of cobbled lanes lined with half-timbered houses. An old cathedral city, Quimper is also the capital of faience: the Locmaria quarter, downstream, has kept up hand-painted ceramics since the seventeenth century, an emblem of the town. Above the centre, the wooded hill of Mont Frugy offers its shaded paths, while Breton culture asserts itself each July at the Festival de Cornouaille. The Atlantic climate stays mild and wet, and the coast, its beaches and land's-end headlands, lies just half an hour away.`,
+      es: `Quimper, capital de la Cornualla bretona al fondo de su estuario, es una de las ciudades más bretonas de Finisterre. Su nombre viene del bretón kemper, la confluencia, pues es aquí donde el Odet se une al Steir bajo una serie de puentes floridos que dan encanto al centro. La catedral de San Corentino, gótica con dos esbeltas flechas gemelas del siglo XIX, domina un enredo de callejuelas empedradas jalonadas de casas con entramado de madera. Antigua ciudad episcopal, Quimper es también la capital de la loza: el barrio de Locmaria, río abajo, mantiene desde el siglo XVII una cerámica pintada a mano convertida en emblema de la ciudad. Sobre el centro, la colina boscosa del Mont Frugy ofrece sus senderos con sombra, mientras la cultura bretona se afirma cada julio en el Festival de Cornualla. El clima atlántico se mantiene suave y húmedo, y la costa, playas y cabos del fin del mundo, está a solo media hora.`,
+      pt: `Quimper, capital da Cornualha bretã no fundo do seu estuário, é uma das cidades mais bretãs de Finistère. O seu nome vem do bretão kemper, a confluência, pois é aqui que o Odet se junta ao Steir sob uma série de pontes floridas que dão encanto ao centro. A catedral de São Corentino, gótica com duas esguias flechas gémeas do século XIX, domina um emaranhado de ruelas calcetadas ladeadas de casas de tabique de madeira. Antiga cidade episcopal, Quimper é também a capital da faiança: o bairro de Locmaria, rio abaixo, mantém desde o século XVII uma cerâmica pintada à mão tornada emblema da cidade. Acima do centro, a colina arborizada do Mont Frugy oferece os seus trilhos com sombra, enquanto a cultura bretã se afirma todos os julhos no Festival de Cornualha. O clima atlântico mantém-se ameno e húmido, e a costa, praias e pontas do fim do mundo, fica a apenas meia hora.`,
+    },
+    sights: [
+      {
+        name: 'Cathédrale Saint-Corentin',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `La cathédrale Saint-Corentin, chef-d'œuvre gothique aux deux flèches jumelles, domine le cœur de la ville. Les chiens ne sont pas admis à l'intérieur, mais le parvis et la place Saint-Corentin qui l'entourent se rejoignent en laisse, au départ des ruelles pavées.`,
+          en: `The Cathedral of Saint-Corentin, a Gothic masterpiece with its twin spires, rises over the heart of town. Dogs are not allowed inside, but the forecourt and the surrounding Place Saint-Corentin are reached on the leash, at the start of the cobbled lanes.`,
+          es: `La catedral de San Corentino, obra maestra gótica con dos flechas gemelas, domina el corazón de la ciudad. Los perros no se admiten dentro, pero el atrio y la plaza Saint-Corentin que la rodean se alcanzan con correa, al inicio de las callejuelas empedradas.`,
+          pt: `A catedral de São Corentino, obra-prima gótica com duas flechas gémeas, domina o coração da cidade. Os cães não são admitidos no interior, mas o adro e a praça Saint-Corentin em redor alcançam-se à trela, no início das ruelas calcetadas.`,
+        },
+      },
+      {
+        name: 'Vieux Quimper',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le vieux Quimper aligne ses maisons à pans de bois le long de ruelles piétonnes et des berges de l'Odet et du Steir, franchis par des passerelles fleuries. Tout se parcourt en laisse, entre boutiques, crêperies et halles, dans l'un des centres médiévaux les plus intacts de Bretagne.`,
+          en: `Old Quimper lines up its half-timbered houses along pedestrian lanes and the banks of the Odet and Steir, crossed by flowered footbridges. It is all walked on the leash, among shops, creperies and the covered market, in one of the most intact medieval centres in Brittany.`,
+          es: `El viejo Quimper alinea sus casas con entramado de madera a lo largo de callejuelas peatonales y de las orillas del Odet y el Steir, cruzadas por pasarelas floridas. Todo se recorre con correa, entre tiendas, creperías y el mercado cubierto, en uno de los centros medievales más intactos de Bretaña.`,
+          pt: `O velho Quimper alinha as suas casas de tabique de madeira ao longo de ruelas pedonais e das margens do Odet e do Steir, atravessadas por passadiços floridos. Tudo se percorre à trela, entre lojas, creperias e o mercado coberto, num dos centros medievais mais intactos da Bretanha.`,
+        },
+      },
+      {
+        name: 'Quartier de Locmaria',
+        emoji: '🏺',
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier de Locmaria, en aval de l'Odet, est le berceau de la faïence de Quimper, avec son église romane et son jardin médiéval clos. On y flâne en laisse le long du fleuve et dans le jardin ; les ateliers et le musée de la faïence se visitent, chiens exclus de l'intérieur.`,
+          en: `The Locmaria quarter, downstream on the Odet, is the cradle of Quimper faience, with its Romanesque church and enclosed medieval garden. You wander here on the leash along the river and through the garden; the workshops and the faience museum can be visited, with dogs kept out of the interiors.`,
+          es: `El barrio de Locmaria, río abajo del Odet, es la cuna de la loza de Quimper, con su iglesia románica y su jardín medieval cerrado. Se pasea con correa a lo largo del río y por el jardín; los talleres y el museo de la loza se visitan, con los perros fuera del interior.`,
+          pt: `O bairro de Locmaria, rio abaixo no Odet, é o berço da faiança de Quimper, com a sua igreja românica e o seu jardim medieval murado. Passeia-se à trela ao longo do rio e pelo jardim; os ateliês e o museu da faiança visitam-se, com os cães fora do interior.`,
+        },
+      },
+      {
+        name: 'Mont Frugy',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le Mont Frugy, colline boisée qui surplombe directement le centre depuis la rive sud de l'Odet, se gravit par des sentiers ombragés. La montée se fait en laisse et récompense d'un beau point de vue sur les flèches de la cathédrale et les toits de la ville.`,
+          en: `Mont Frugy, a wooded hill rising straight above the centre from the south bank of the Odet, is climbed by shaded paths. The walk up is done on the leash and rewards with a fine view over the cathedral spires and the town's roofs.`,
+          es: `El Mont Frugy, colina boscosa que se alza directamente sobre el centro desde la orilla sur del Odet, se sube por senderos con sombra. La subida se hace con correa y recompensa con una bonita vista sobre las flechas de la catedral y los tejados de la ciudad.`,
+          pt: `O Mont Frugy, colina arborizada que se ergue diretamente sobre o centro a partir da margem sul do Odet, sobe-se por trilhos com sombra. A subida faz-se à trela e recompensa com uma bela vista sobre as flechas da catedral e os telhados da cidade.`,
+        },
+      },
+      {
+        name: 'Jardin de la Retraite',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Le Jardin de la Retraite, écrin botanique niché derrière les remparts au cœur de la ville, mêle plantes exotiques, palmiers et coins ombragés. Ce havre paisible se visite en laisse, halte fraîche à deux pas des ruelles animées du vieux Quimper.`,
+          en: `The Jardin de la Retraite, a botanical pocket tucked behind the ramparts in the heart of town, blends exotic plants, palms and shaded corners. This peaceful haven is visited on the leash, a cool stop a stone's throw from the busy lanes of old Quimper.`,
+          es: `El Jardin de la Retraite, joya botánica escondida tras las murallas en el corazón de la ciudad, mezcla plantas exóticas, palmeras y rincones con sombra. Este remanso apacible se visita con correa, una parada fresca a dos pasos de las animadas callejuelas del viejo Quimper.`,
+          pt: `O Jardin de la Retraite, escrínio botânico escondido atrás das muralhas no coração da cidade, mistura plantas exóticas, palmeiras e cantos com sombra. Este remanso tranquilo visita-se à trela, uma paragem fresca a dois passos das ruelas animadas do velho Quimper.`,
+        },
+      },
+      {
+        name: 'Pointe du Raz',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `À une petite heure de Quimper, la Pointe du Raz plonge ses falaises dans l'Atlantique au bout de la Cornouaille, grand site classé battu par les vents. Les sentiers de lande se parcourent en laisse ; sur les plages voisines de Bénodet et de la baie, l'accès des chiens est souvent restreint l'été, autorisé hors saison.`,
+          en: `Just under an hour from Quimper, the Pointe du Raz plunges its cliffs into the Atlantic at the tip of Cornouaille, a wind-battered protected site. The heathland paths are walked on the leash; on the nearby beaches of Benodet and the bay, dog access is often restricted in summer and allowed off-season.`,
+          es: `A menos de una hora de Quimper, la Pointe du Raz hunde sus acantilados en el Atlántico en el extremo de la Cornualla, gran paraje protegido azotado por el viento. Los senderos de landa se recorren con correa; en las playas cercanas de Bénodet y de la bahía, el acceso de perros suele restringirse en verano y permitirse fuera de temporada.`,
+          pt: `A menos de uma hora de Quimper, a Pointe du Raz mergulha as suas falésias no Atlântico na ponta da Cornualha, grande sítio protegido fustigado pelo vento. Os trilhos de charneca percorrem-se à trela; nas praias vizinhas de Bénodet e da baía, o acesso dos cães é muitas vezes restrito no verão e permitido fora de época.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Accès aux plages réglementé l'été : sur la côte proche (Bénodet, baie de la Forêt-Fouesnant), les chiens sont souvent interdits sur les plages surveillées de mai/juin à septembre, mais autorisés en laisse hors saison et sur les sentiers côtiers du GR34.`,
+        `Le centre médiéval, les berges de l'Odet et du Steir et leurs passerelles fleuries se parcourent parfaitement à pied en laisse, mais la cathédrale et les musées refusent les chiens.`,
+        `Climat atlantique doux et humide : prévoyez la pluie toute l'année et une serviette, mais les températures modérées rendent les longues balades agréables même en été.`,
+        `Le Mont Frugy et le Jardin de la Retraite offrent des espaces verts ombragés en plein centre pour une pause en laisse entre deux visites.`,
+        `Numéro d'urgence unique 112 ; passeport européen et vaccination antirabique à jour exigés à l'hôtel, repérez à l'arrivée une clinique vétérinaire de garde.`,
+      ],
+      en: [
+        `Beach access is regulated in summer: on the nearby coast (Benodet, the Bay of La Foret-Fouesnant), dogs are often banned on supervised beaches from May/June to September, but allowed on the leash off-season and on the GR34 coastal path.`,
+        `The medieval centre, the banks of the Odet and Steir and their flowered footbridges are perfectly walkable on the leash, but the cathedral and museums turn dogs away.`,
+        `Mild, wet Atlantic climate: expect rain all year and pack a towel, but the moderate temperatures make long walks pleasant even in summer.`,
+        `Mont Frugy and the Jardin de la Retraite offer shaded green spaces right in the centre for a break on the leash between visits.`,
+        `Single emergency number 112; EU pet passport and up-to-date rabies vaccination required at the hotel, and on arrival scout a duty vet clinic.`,
+      ],
+      es: [
+        `Acceso a las playas regulado en verano: en la costa cercana (Bénodet, bahía de La Forêt-Fouesnant), los perros suelen estar prohibidos en las playas vigiladas de mayo/junio a septiembre, pero permitidos con correa fuera de temporada y en el sendero costero GR34.`,
+        `El centro medieval, las orillas del Odet y el Steir y sus pasarelas floridas se recorren perfectamente a pie con correa, pero la catedral y los museos no admiten perros.`,
+        `Clima atlántico suave y húmedo: cuenta con lluvia todo el año y lleva una toalla, pero las temperaturas moderadas hacen agradables los paseos largos incluso en verano.`,
+        `El Mont Frugy y el Jardin de la Retraite ofrecen espacios verdes con sombra en pleno centro para una pausa con correa entre dos visitas.`,
+        `Número único de urgencias 112; pasaporte europeo y vacunación antirrábica al día exigidos en el hotel, y al llegar localiza una clínica veterinaria de guardia.`,
+      ],
+      pt: [
+        `Acesso às praias regulado no verão: na costa próxima (Bénodet, baía de La Forêt-Fouesnant), os cães estão muitas vezes proibidos nas praias vigiadas de maio/junho a setembro, mas permitidos à trela fora de época e no trilho costeiro GR34.`,
+        `O centro medieval, as margens do Odet e do Steir e os seus passadiços floridos percorrem-se perfeitamente a pé à trela, mas a catedral e os museus não aceitam cães.`,
+        `Clima atlântico ameno e húmido: conte com chuva todo o ano e leve uma toalha, mas as temperaturas moderadas tornam os passeios longos agradáveis mesmo no verão.`,
+        `O Mont Frugy e o Jardin de la Retraite oferecem espaços verdes com sombra em pleno centro para uma pausa à trela entre duas visitas.`,
+        `Número único de emergência 112; passaporte europeu e vacinação antirrábica em dia exigidos no hotel, e à chegada localize uma clínica veterinária de urgência.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen et vaccination antirabique à jour exigés à l'enregistrement dans les hôtels pet-friendly (la France est dans l'UE).`,
+        `Laisse et ramassage des déjections de rigueur ; le centre médiéval, les berges des rivières et les jardins se parcourent en laisse toute l'année.`,
+        `Climat atlantique doux et humide : pluie fréquente en toute saison, étés modérés agréables pour la marche, prévoyez de quoi sécher le chien.`,
+        `Centre compact et piétonnier : tout se rejoint à pied ; gare TGV à 10 min du cœur de ville, la côte (Bénodet, Pointe du Raz, Glénan) accessible en 30 à 60 min en voiture.`,
+        `Numéro d'urgence européen 112 ; la cathédrale et les musées refusent les chiens, mais l'essentiel de la visite se fait à ciel ouvert dans les ruelles et le long de l'eau.`,
+      ],
+      en: [
+        `EU pet passport and up-to-date rabies vaccination required at check-in in pet-friendly hotels (France is in the EU).`,
+        `Leash and waste pick-up expected; the medieval centre, the riverbanks and the gardens are walked on the leash all year.`,
+        `Mild, wet Atlantic climate: frequent rain in every season, moderate summers pleasant for walking, so bring something to dry the dog.`,
+        `Compact, pedestrian centre: everything is linked on foot; the TGV station is 10 min from the heart of town, and the coast (Benodet, Pointe du Raz, Glenan) is 30 to 60 min away by car.`,
+        `European emergency number 112; the cathedral and museums turn dogs away, but most of the visit is in the open air through the lanes and along the water.`,
+      ],
+      es: [
+        `Pasaporte europeo y vacunación antirrábica al día exigidos en el check-in de los hoteles pet-friendly (Francia está en la UE).`,
+        `Correa y recogida de excrementos de rigor; el centro medieval, las orillas de los ríos y los jardines se recorren con correa todo el año.`,
+        `Clima atlántico suave y húmedo: lluvia frecuente en toda estación, veranos moderados agradables para caminar, lleva con qué secar al perro.`,
+        `Centro compacto y peatonal: todo se enlaza a pie; estación de TGV a 10 min del corazón de la ciudad, la costa (Bénodet, Pointe du Raz, Glénan) accesible en 30 a 60 min en coche.`,
+        `Número de urgencia europeo 112; la catedral y los museos no admiten perros, pero la mayor parte de la visita se hace a cielo abierto por las callejuelas y a lo largo del agua.`,
+      ],
+      pt: [
+        `Passaporte europeu e vacinação antirrábica em dia exigidos no check-in dos hotéis pet-friendly (a França está na UE).`,
+        `Trela e recolha de dejetos de rigor; o centro medieval, as margens dos rios e os jardins percorrem-se à trela todo o ano.`,
+        `Clima atlântico ameno e húmido: chuva frequente em todas as estações, verões moderados agradáveis para caminhar, leve com que secar o cão.`,
+        `Centro compacto e pedonal: tudo se liga a pé; estação de TGV a 10 min do coração da cidade, a costa (Bénodet, Pointe du Raz, Glénan) acessível em 30 a 60 min de carro.`,
+        `Número de emergência europeu 112; a catedral e os museus não aceitam cães, mas a maior parte da visita faz-se a céu aberto pelas ruelas e ao longo da água.`,
       ],
     },
   },

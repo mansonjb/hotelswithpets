@@ -2612,10 +2612,10 @@ const cityContent: Record<string, CityContent> = {
 
   barcelona: {
     history: {
-      fr: `Barcelone, fondée par les Romains sous le nom de Barcino vers 15 av. J.-C., est devenue au Moyen Âge la capitale de la Couronne d'Aragon, l'une des puissances maritimes majeures de la Méditerranée. La ville doit son visage actuel au visionnnaire Ildefons Cerdà, dont le plan d'extension de 1860, l'Eixample, a créé ce quadrillage orthogonal caractéristique avec ses blocs arrondis et ses rues larges de 20 mètres. Gaudí a ensuite sculpté l'âme de la ville avec la Sagrada Família, le Parc Güell et la Casa Batlló. Aujourd'hui, Barcelone est l'une des villes d'Europe où le nombre d'animaux de compagnie croît le plus vite, et ses espaces verts et plages s'adaptent progressivement à cette réalité.`,
+      fr: `Barcelone, fondée par les Romains sous le nom de Barcino vers 15 av. J.-C., est devenue au Moyen Âge la capitale de la Couronne d'Aragon, l'une des puissances maritimes majeures de la Méditerranée. La ville doit son visage actuel au visionnaire Ildefons Cerdà, dont le plan d'extension de 1860, l'Eixample, a créé ce quadrillage orthogonal caractéristique avec ses blocs arrondis et ses rues larges de 20 mètres. Gaudí a ensuite sculpté l'âme de la ville avec la Sagrada Família, le Parc Güell et la Casa Batlló. Aujourd'hui, Barcelone est l'une des villes d'Europe où le nombre d'animaux de compagnie croît le plus vite, et ses espaces verts et plages s'adaptent progressivement à cette réalité.`,
       en: `Barcelona, founded by the Romans as Barcino around 15 BC, became in the Middle Ages the capital of the Crown of Aragon, one of the Mediterranean's major maritime powers. The city owes its current face to the visionary Ildefons Cerdà, whose 1860 expansion plan, the Eixample, created the characteristic orthogonal grid with its chamfered corners and 20-metre-wide streets. Gaudí then sculpted the city's soul with the Sagrada Família, Parc Güell and Casa Batlló. Today Barcelona is one of Europe's fastest-growing cities for pet ownership, and its parks and beaches are gradually adapting to this reality.`,
-      es: `Barcelona, fundada por los romanos como Barcino hacia o año 15 a. C., se convirtió na Edad Media na capital de la Corona de Aragón, una das grandes potencias marítimas del mediterrâneo. a cidade debe su fisonomía actual al visionario Ildefons Cerdà, cuyo plan de ensanche de 1860,o Eixample, creó esa cuadrícula ortogonal característica con sus chaflanes y ruas de 20 metros de amplo. Gaudí esculpió después o alma de a cidade con la Sagrada Família, el Park Güell y la Casa Batlló. Hoy Barcelona es una das ciudades europeias donde la tenencia de mascotas crece más rápido, y sus parques y playas se adaptan progresivamente a esta realidad.`,
-      pt: `Barcelona, fundada pelos romanos como Barcino para o ano 15 a. C., tornou-se na Edad Media na capital da Corona de Aragón, uma das grandes potencias marítimas do mediterrâneo. A cidade debe su fisonomía actual al visionario Ildefons Cerdà, cuyo plan de ensanche de 1860,o Eixample, creó essa cuadrícula ortogonal característica com os seus chaflanes e ruas de 20 metros de amplo. Gaudí esculpió depois o alma da cidade com a Sagrada Família, o Park Güell e a Casa Batlló. Hoy Barcelona é uma das as cidades europeias onde a tenencia de animais crece mais rápido, e os seus parques e praias se adaptan progresivamente a esta realidad.`,
+      es: `Barcelona, fundada por los romanos como Barcino hacia el año 15 a. C., se convirtió en la Edad Media en la capital de la Corona de Aragón, una de las grandes potencias marítimas del Mediterráneo. La ciudad debe su fisonomía actual al visionario Ildefons Cerdà, cuyo plan de ensanche de 1860, el Eixample, creó esa característica cuadrícula ortogonal con sus chaflanes y sus calles de 20 metros de ancho. Gaudí esculpió después el alma de la ciudad con la Sagrada Família, el Parc Güell y la Casa Batlló. Hoy Barcelona es una de las ciudades de Europa donde la tenencia de mascotas crece más rápido, y sus parques y playas se adaptan progresivamente a esta realidad.`,
+      pt: `Barcelona, fundada pelos romanos com o nome de Barcino por volta do ano 15 a. C., tornou-se na Idade Média a capital da Coroa de Aragão, uma das grandes potências marítimas do Mediterrâneo. A cidade deve o seu rosto atual ao visionário Ildefons Cerdà, cujo plano de expansão de 1860, o Eixample, criou a característica malha ortogonal com os seus chanfros e as suas ruas de 20 metros de largura. Gaudí esculpiu depois a alma da cidade com a Sagrada Família, o Parc Güell e a Casa Batlló. Hoje Barcelona é uma das cidades da Europa onde a posse de animais de companhia mais cresce, e os seus parques e praias adaptam-se progressivamente a esta realidade.`,
     },
     sights: [
       {
@@ -2625,8 +2625,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Le grand parc central de Barcelone (17 ha) est le rendez-vous préféré des chiens et de leurs maîtres. Zones de pelouse dégagées, lac avec barques et allées ombragées. Les chiens peuvent y aller sans laisse dans certaines zones désignées le matin.',
           en: 'Barcelona\'s main central park (17 ha) is the favourite meeting point for dogs and their owners. Open lawns, a boating lake and shaded paths. Dogs can go off-leash in designated areas in the morning.',
-          es: 'El gran parque central de Barcelona (17 ha) es el punto de encuentro favorito de perros y dueños. Zonas de césped abierto, lago con barcas y caminos sombreados. Los perros pueden ir sin trela em zonas designadas por la mañana.',
-          pt: 'O grande parque central de Barcelona (17 ha) é o punto de encuentro favorito de cães e donos. Zonas de relva aberto, lago com barcas e caminos sombreados. Os cães podem ir sem trela em zonas designadas pela manhã.',
+          es: `El gran parque central de Barcelona (17 ha) es el punto de encuentro favorito de perros y dueños. Zonas de césped abierto, lago con barcas y caminos sombreados. Los perros pueden ir sin correa en zonas designadas por la mañana.`,
+          pt: `O grande parque central de Barcelona (17 ha) é o ponto de encontro preferido dos cães e dos donos. Relvados abertos, lago com barcos e caminhos sombreados. Os cães podem andar sem trela em zonas designadas de manhã.`,
         },
       },
       {
@@ -2636,8 +2636,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Le parc de Gaudí est accessible aux chiens dans ses zones non payantes (la majeure partie du parc). La zone monumentale (payante) n\'accepte pas les animaux. Promenez les terrasses supérieures pour une vue imprenable sur la ville.',
           en: 'Gaudí\'s park welcomes dogs in its free areas (the majority of the park). The paid monumental zone does not accept pets. Walk the upper terraces for stunning views over the city.',
-          es: 'o parque de Gaudí admite perros em sus zonas gratuitas (la mayor parte del parque). a zona monumental de pago no acepta mascotas. Recorre las terrazas superiores para una vista impresionante sobre a cidade.',
-          pt: 'O parque de Gaudí admite cães nos seus zonas gratuitas (a mayor parte do parque). A zona monumental de pago no aceita animais. Recorre as esplanadas superiores para uma vista impresionante sobre a cidade.',
+          es: `El parque de Gaudí admite perros en sus zonas gratuitas (la mayor parte del parque). La zona monumental de pago no acepta mascotas. Recorre las terrazas superiores para una vista impresionante sobre la ciudad.`,
+          pt: `O parque de Gaudí admite cães nas suas zonas gratuitas (a maior parte do parque). A zona monumental paga não aceita animais. Percorra os terraços superiores para uma vista deslumbrante sobre a cidade.`,
         },
       },
       {
@@ -2647,8 +2647,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Les plages principales de Barcelone (Barceloneta, Bogatell) sont interdites aux chiens de juin à septembre. Hors saison, les chiens sont tolérés tôt le matin. La plage de Llevant (nord de la Barceloneta) dispose d\'une zone officielle pour chiens toute l\'année.',
           en: 'Barcelona\'s main beaches (Barceloneta, Bogatell) are closed to dogs from June to September. Off-season, dogs are tolerated early in the morning. Llevant beach (north of Barceloneta) has an official dog zone open year-round.',
-          es: 'Las playas principales de Barcelona (Barceloneta, Bogatell) están prohibidas para perros de junio a septiembre. Fuera de temporada, los perros se toleran a primera hora. La playa de Llevant (al norte de la Barceloneta) tiene una zona oficial para perros abierta todo o año.',
-          pt: 'As praias principales de Barcelona (Barceloneta, Bogatell) estão prohibidas para cães de junho a setembro. Fora de temporada, os cães se toleran a primera hora. A praia de Llevant (a norte da Barceloneta) tem uma zona oficial para cães aberta o ano inteiro.',
+          es: `Las playas principales de Barcelona (Barceloneta, Bogatell) están prohibidas para perros de junio a septiembre. Fuera de temporada, los perros se toleran a primera hora. La playa de Llevant (al norte de la Barceloneta) tiene una zona oficial para perros abierta todo el año.`,
+          pt: `As praias principais de Barcelona (Barceloneta, Bogatell) estão interditas a cães de junho a setembro. Fora de época, os cães são tolerados ao início da manhã. A praia de Llevant (a norte da Barceloneta) tem uma zona oficial para cães aberta todo o ano.`,
         },
       },
       {
@@ -2658,8 +2658,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Le quartier de Gràcia est le plus dog-friendly de Barcelone : terrasses animées, petites places comme la Plaça del Sol, et habitants habitués aux chiens. L\'Eixample avec ses larges trottoirs est idéal pour se promener et faire du lèche-vitrine.',
           en: 'The Gràcia neighbourhood is Barcelona\'s most dog-friendly: lively terraces, intimate squares like Plaça del Sol, and residents accustomed to dogs. The Eixample\'s wide pavements make for ideal window-shopping walks.',
-          es: 'o bairro de Gràcia es el más amigable con los perros de Barcelona: terrazas animadas, plazas íntimas como la Plaça del Sol y vecinos acostumbrados a los perros. o Eixample, con sus amplas aceras, es ideal para pasear y hacer escaparates.',
-          pt: 'O bairro de Gràcia é o mais amigable com os cães de Barcelona: esplanadas animadas, praças íntimas como a Plaça do Sol e vecinos acostumbrados aos cães. O Eixample, com os seus amplas aceras, é ideal para pasear e hacer escaparates.',
+          es: `El barrio de Gràcia es el más dog-friendly de Barcelona: terrazas animadas, plazas íntimas como la Plaça del Sol y vecinos acostumbrados a los perros. El Eixample, con sus amplias aceras, es ideal para pasear y mirar escaparates.`,
+          pt: `O bairro de Gràcia é o mais dog-friendly de Barcelona: esplanadas animadas, praças íntimas como a Plaça del Sol e moradores habituados aos cães. O Eixample, com os seus passeios largos, é ideal para passear e ver montras.`,
         },
       },
       {
@@ -2667,10 +2667,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌲',
         petFriendly: true,
         desc: {
-          fr: 'Le parc naturel de Collserola (8 000 ha) surplombe Barcelone et offre des dizaines de kilomètres de sentiers où les chiens peuvent courir librement. Accessible em FGC depuis la Plaça Catalunya. Idéal pour une matinée de randonnée avant de revenir em ville.',
+          fr: `Le parc naturel de Collserola (8 000 ha) surplombe Barcelone et offre des dizaines de kilomètres de sentiers où les chiens peuvent courir librement. Accessible en FGC depuis la Plaça Catalunya. Idéal pour une matinée de randonnée avant de revenir en ville.`,
           en: 'The Collserola natural park (8,000 ha) overlooks Barcelona and offers dozens of kilometres of trails where dogs can run freely. Accessible by FGC from Plaça Catalunya. Ideal for a morning hike before returning to the city.',
-          es: 'o parque natural de Collserola (8.000 ha) domina Barcelona y ofrece decenas de kilómetros de senderos donde los perros pueden correr libremente. acessível em FGC desde la Plaça Catalunya. Ideal para una mañana de senderismo antes de volver a a cidade.',
-          pt: 'O parque natural de Collserola (8.000 ha) domina Barcelona e ofrece decenas de kilómetros de trilhos onde os cães podem correr libremente. acessível em FGC a partir da Plaça Catalunya. Ideal para uma manhã de senderismo antes de volver a cidade.',
+          es: `El parque natural de Collserola (8.000 ha) domina Barcelona y ofrece decenas de kilómetros de senderos donde los perros pueden correr libremente. Accesible en FGC desde la Plaça Catalunya. Ideal para una mañana de senderismo antes de volver a la ciudad.`,
+          pt: `O parque natural de Collserola (8.000 ha) domina Barcelona e oferece dezenas de quilómetros de trilhos onde os cães podem correr livremente. Acessível de FGC a partir da Plaça Catalunya. Ideal para uma manhã de caminhada antes de regressar à cidade.`,
         },
       },
       {
@@ -2678,20 +2678,20 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛪',
         petFriendly: false,
         desc: {
-          fr: 'L\'intérieur de la basilique est interdit aux animaux. em revanche, la place et les jardins extérieurs sont accessibles pour admirer l\'architecture depuis l\'extérieur, et de nombreux cafés voisins acceptent les chiens em terrasse.',
+          fr: `L'intérieur de la basilique est interdit aux animaux. En revanche, la place et les jardins extérieurs sont accessibles pour admirer l'architecture depuis l'extérieur, et de nombreux cafés voisins acceptent les chiens en terrasse.`,
           en: 'The basilica interior is off-limits to animals. However, the square and exterior gardens are open to enjoy the architecture from outside, and many nearby cafés welcome dogs on their terraces.',
-          es: 'o interior de la basílica está prohibido para los animales. Sin embargo, la plaza y los jardines exteriores son acessíveis para admirar a arquitectura desde fuera, y muchos cafés cercanos aceptan perros em su terraza.',
-          pt: 'O interior da basílica está prohibido para os animales. No entanto, a praça e os jardins exteriores são acessíveis para admirar a arquitetura a partir de fora, e muitos cafés cercanos aceitam cães em su esplanada.',
+          es: `El interior de la basílica está prohibido para los animales. Sin embargo, la plaza y los jardines exteriores son accesibles para admirar la arquitectura desde fuera, y muchos cafés cercanos aceptan perros en su terraza.`,
+          pt: `O interior da basílica está interdito a animais. No entanto, a praça e os jardins exteriores são acessíveis para admirar a arquitetura a partir de fora, e muitos cafés próximos aceitam cães na esplanada.`,
         },
       },
     ],
     petTips: {
       fr: [
-        'Les chiens sont admis dans le métro barcelonais à condition d\'être em sac ou cage. Les grands chiens ne sont pas autorisés dans les transports em commun, préférez les taxis ou VTC (précisez à la réservation).',
-        'La chaleur estivale (juillet-août) peut dépasser 35°C. Évitez les sorties entre 12h et 17h et assurez-vous que votre chien s\'hydrate régulièrement.',
-        'La plage officielle pour chiens de Llevant est la seule plage accessible toute l\'année, notez sa localisation avant d\'arriver.',
-        'Les supermarchés Mercadona et Lidl locaux vendent des croquettes et des accessoires pour animaux à prix raisonnables.',
-        'Le Parc de la Ciutadella est gratuit et ouvert tôt, parfait pour une longue promenade matinale avant la chaleur et les touristes.',
+        `Les chiens sont admis dans le métro barcelonais à condition d'être en sac ou en cage. Les grands chiens ne sont pas autorisés dans les transports en commun, préférez les taxis ou VTC (précisez à la réservation).`,
+        `La chaleur estivale (juillet-août) peut dépasser 35°C. Évitez les sorties entre 12h et 17h et assurez-vous que votre chien s'hydrate régulièrement.`,
+        `La plage officielle pour chiens de Llevant est la seule plage accessible toute l'année, notez sa localisation avant d'arriver.`,
+        `Les supermarchés Mercadona et Lidl locaux vendent des croquettes et des accessoires pour animaux à prix raisonnables.`,
+        `Le Parc de la Ciutadella est gratuit et ouvert tôt, parfait pour une longue promenade matinale avant la chaleur et les touristes.`,
       ],
       en: [
         'Dogs are allowed on Barcelona Metro if carried in a bag or carrier. Large dogs are not permitted on public transport, use taxis or ride-hailing (specify when booking).',
@@ -2701,26 +2701,26 @@ const cityContent: Record<string, CityContent> = {
         'Parc de la Ciutadella is free and opens early, perfect for a long morning walk before the heat and tourists arrive.',
       ],
       es: [
-        'Los perros pueden viajar em el metro de Barcelona em bolsa o transportín. Los perros grandes no están permitidos em o transporte público: usa taxis o VTC (indícalo al reservar).',
-        'El calor veraniego (julio-agosto) puede superar los 35°C. Evita las saídas entre las 12 y las 17 h y asegúrate de que tu perro beba suficiente agua.',
-        'La playa oficial para perros de Llevant es a única abierta todo o año: anota su ubicación antes de llegar.',
-        'Los supermercados Mercadona y Lidl locales venden pienso y accesorios para mascotas a precios razonables.',
-        'El Parc de la Ciutadella es gratuito y abre temprano: perfecto para un longo paseo matutino antes do calor y los turistas.',
+        `Los perros pueden viajar en el metro de Barcelona en bolsa o transportín. Los perros grandes no están permitidos en el transporte público: usa taxis o VTC (indícalo al reservar).`,
+        `El calor veraniego (julio-agosto) puede superar los 35°C. Evita las salidas entre las 12 y las 17 h y asegúrate de que tu perro beba suficiente agua.`,
+        `La playa oficial para perros de Llevant es la única abierta todo el año: anota su ubicación antes de llegar.`,
+        `Los supermercados Mercadona y Lidl locales venden pienso y accesorios para mascotas a precios razonables.`,
+        `El Parc de la Ciutadella es gratuito y abre temprano: perfecto para un largo paseo matutino antes del calor y los turistas.`,
       ],
       pt: [
-        'Os cães podem viajar no metro de Barcelona em bolsa o transportadora. Os cães grandes no están permitidos no transporte público: usa taxis o VTC (indícalo al reservar).',
-        'O calor veraniego (julho-agosto) pode superar os 35°C. Evita as saídas entre as 12 e as 17 h e asegúrate de que tu cão beba suficiente água.',
-        'A praia oficial para cães de Llevant é a única aberta o ano inteiro: anota su ubicación antes de chegar.',
-        'Os supermercados Mercadona e Lidl locales venden pienso e accesorios para animais a preços razonables.',
-        'O Parc da Ciutadella é gratuito e abre temprano: perfeito para um longo passeio matutino antes do calor e os turistas.',
+        `Os cães podem viajar no metro de Barcelona em saco ou transportadora. Os cães grandes não são permitidos nos transportes públicos: use táxis ou VTC (indique-o ao reservar).`,
+        `O calor de verão (julho-agosto) pode ultrapassar os 35°C. Evite as saídas entre as 12h e as 17h e certifique-se de que o seu cão se hidrata com regularidade.`,
+        `A praia oficial para cães de Llevant é a única aberta todo o ano: registe a sua localização antes de chegar.`,
+        `Os supermercados Mercadona e Lidl locais vendem ração e acessórios para animais a preços razoáveis.`,
+        `O Parc de la Ciutadella é gratuito e abre cedo, perfeito para um longo passeio matinal antes do calor e dos turistas.`,
       ],
     },
     practicalInfo: {
       fr: [
-        'Vétérinaire d\'urgence 24h/24 : Clínica Veterinaria Mediterrani, Carrer de Còrsega 251, +34 93 217 00 45',
-        'Clinique vétérinaire bien équipée : Atenea Veterinaris, Carrer de Provença 320, Eixample',
-        'Trains depuis Paris ou Madrid : les animaux em sac sont acceptés sur Renfe Avant. Les grands chiens doivent voyager em soute ou em voiture particulière.',
-        'Aéroport de Barcelone-El Prat : animaux UE avec passeport valide admis sans quarantaine.',
+        `Vétérinaire d'urgence 24h/24 : Clínica Veterinaria Mediterrani, Carrer de Còrsega 251, +34 93 217 00 45`,
+        `Clinique vétérinaire bien équipée : Atenea Veterinaris, Carrer de Provença 320, Eixample`,
+        `Trains depuis Paris ou Madrid : les animaux en sac sont acceptés sur Renfe Avant. Les grands chiens doivent voyager en soute ou en voiture particulière.`,
+        `Aéroport de Barcelone-El Prat : animaux UE avec passeport valide admis sans quarantaine.`,
       ],
       en: [
         '24/7 emergency vet: Clínica Veterinaria Mediterrani, Carrer de Còrsega 251, +34 93 217 00 45',
@@ -2729,16 +2729,16 @@ const cityContent: Record<string, CityContent> = {
         'Barcelona-El Prat Airport: EU pets with valid passport admitted without quarantine.',
       ],
       es: [
-        'Veterinario de urgencias 24h: Clínica Veterinaria Mediterrani, Carrer de Còrsega 251, +34 93 217 00 45',
-        'Clínica bien equipada: Atenea Veterinaris, Carrer de Provença 320, Eixample',
-        'Trenes desde París o Madrid: animales em transportín admitidos em Renfe Avant. Los perros grandes deben viajar em bodega o em vehículo particular.',
-        'Aeropuerto de Barcelona-El Prat: mascotas de a UE con passaporte válido admitidas sin cuarentena.',
+        `Veterinario de urgencias 24h: Clínica Veterinaria Mediterrani, Carrer de Còrsega 251, +34 93 217 00 45`,
+        `Clínica bien equipada: Atenea Veterinaris, Carrer de Provença 320, Eixample`,
+        `Trenes desde París o Madrid: los animales en transportín se admiten en Renfe Avant. Los perros grandes deben viajar en bodega o en vehículo particular.`,
+        `Aeropuerto de Barcelona-El Prat: mascotas de la UE con pasaporte válido admitidas sin cuarentena.`,
       ],
       pt: [
-        'Veterinário de urgências 24h: Clínica Veterinária Mediterrani, Carrer de Còrsega 251, +34 93 217 00 45',
-        'Clínica bien equipada: Atenea Veterinaris, Carrer de Provença 320, Eixample',
-        'Comboios a partir de París o Madrid: animales em transportadora admitidos em Renfe Avant. Os cães grandes deben viajar em bodega o em vehículo particular.',
-        'Aeroporto de Barcelona-O Prat: animais da UE con passaporte válido admitidas sem cuarentena.',
+        `Veterinário de urgência 24h: Clínica Veterinária Mediterrani, Carrer de Còrsega 251, +34 93 217 00 45`,
+        `Clínica bem equipada: Atenea Veterinaris, Carrer de Provença 320, Eixample`,
+        `Comboios a partir de Paris ou Madrid: os animais em transportadora são aceites na Renfe Avant. Os cães grandes têm de viajar no porão ou em veículo particular.`,
+        `Aeroporto de Barcelona-El Prat: animais da UE com passaporte válido admitidos sem quarentena.`,
       ],
     },
   },
@@ -24957,10 +24957,10 @@ const cityContent: Record<string, CityContent> = {
 
   madrid: {
     history: {
-      fr: `Madrid est née d'une forteresse maure du IXe siècle appelée Mayrit avant de devenir la capitale de l'Espagne sous Philippe II en 1561, passant d'une modeste bourgade médiévale au cœur politique et culturel de l'empire des Habsbourg. La ville marie aujourd'hui la grandeur Bourbon à une énergie urbaine noctambule et frénétique. Madrid est une capitale remarquablement attentive aux chiens : la mairie recense plus de 300 000 chiens enregistrés et a multiplié les zones canines (zonas de esparcimiento canino) dans chaque quartier. Les matins de week-end, les allées du Retiro se remplissent de Galgos, Podencos et chiens adoptés via les vastes réseaux de sauvetage espagnols. Les cafés de Malasaña, Chueca et La Latina accueillent les chiens em terrasse, et l'immense Casa de Campo, cinq fois le central Park, offre un vrai terrain de jeu aux toutous urbains.`,
+      fr: `Madrid est née d'une forteresse maure du IXe siècle appelée Mayrit avant de devenir la capitale de l'Espagne sous Philippe II en 1561, passant d'une modeste bourgade médiévale au cœur politique et culturel de l'empire des Habsbourg. La ville marie aujourd'hui la grandeur Bourbon à une énergie urbaine noctambule et frénétique. Madrid est une capitale remarquablement attentive aux chiens : la mairie recense plus de 300 000 chiens enregistrés et a multiplié les zones canines (zonas de esparcimiento canino) dans chaque quartier. Les matins de week-end, les allées du Retiro se remplissent de Galgos, Podencos et chiens adoptés via les vastes réseaux de sauvetage espagnols. Les cafés de Malasaña, Chueca et La Latina accueillent les chiens en terrasse, et l'immense Casa de Campo, cinq fois le Central Park, offre un vrai terrain de jeu aux toutous urbains.`,
       en: `Madrid rose from a 9th-century Moorish fortress called Mayrit to become Spain's capital under Felipe II in 1561, transforming from a modest medieval town into the political and cultural heart of the Habsburg empire. Today it balances Bourbon grandeur with a frenetic, night-loving urban pulse. Madrid is a remarkably dog-aware capital: the Ayuntamiento counts over 300,000 registered dogs, and the city has invested heavily in dedicated dog runs (zonas de esparcimiento canino) across every district. Weekend mornings, Retiro's gravel paths fill with Galgos, Podencos, and rescue mutts from Spain's vast galgo-rehoming networks. Cafés in Malasaña, Chueca, and La Latina routinely welcome dogs on terraces, and the enormous Casa de Campo, five times the size of central Park, gives urban hounds space to truly stretch their legs.`,
-      es: `Madrid surgió de una fortaleza musulmana del siglo IX llamada Mayrit y se convirtió em capital de España bajo Felipe II en 1561, pasando de ser una modesta villa medieval al coração político y cultural del imperio dos Habsburgo. Hoy combina la grandeza borbónica con un pulso urbano frenético y nocturno. Madrid es una capital notablemente consciente dos perros: o Ayuntamiento registra más de 300.000 perros censados y ha invertido em zonas de esparcimiento canino em todos los distritos. Las mañanas de fin de semana, los senderos do Retiro se llenan de Galgos, Podencos y mestizos rescatados das extensas redes de adopción galgueras. Los cafés de Malasaña, Chueca y La Latina acogen perros em sus terrazas, y a enorme Casa de Campo, cinco veces el central Park, ofrece espacio real para que los canes urbanos corran.`,
-      pt: `Madrid surgió duma fortaleza musulmana do século IX chamada Mayrit e tornou-se em capital de Espanha sob Felipe II em 1561, pasando de ser uma modesta villa medieval al coração político e cultural do imperio dois Habsburgo. Hoy combina a grandeza borbónica com um pulso urbano frenético e nocturno. Madrid é uma capital notavelmente consciente dois cães: o Câmara municipal registra mais de 300.000 cães censados e tem invertido em zonas de esparcimiento canino em todos os distritos. As manhãs de fin de semana, os trilhos do Retiro se llenan de Galgos, Podencos e mestizos rescatados das extensas redes de adopción galgueras. Os cafés de Malasanha, Chueca e A Latina acogen cães nos seus esplanadas, e a enorme Casa de Campo, cinco veces o central Park, ofrece espacio real para que os canes urbanos corran.`,
+      es: `Madrid surgió de una fortaleza musulmana del siglo IX llamada Mayrit y se convirtió en la capital de España bajo Felipe II en 1561, pasando de ser una modesta villa medieval al corazón político y cultural del imperio de los Habsburgo. Hoy combina la grandeza borbónica con un pulso urbano frenético y nocturno. Madrid es una capital notablemente consciente de los perros: el Ayuntamiento registra más de 300.000 perros censados y ha invertido en zonas de esparcimiento canino en todos los distritos. Las mañanas de fin de semana, los senderos del Retiro se llenan de Galgos, Podencos y mestizos rescatados de las extensas redes de adopción galgueras. Los cafés de Malasaña, Chueca y La Latina acogen perros en sus terrazas, y la enorme Casa de Campo, cinco veces el Central Park, ofrece espacio real para que los perros urbanos corran.`,
+      pt: `Madrid nasceu de uma fortaleza mourisca do século IX chamada Mayrit antes de se tornar a capital de Espanha sob Filipe II em 1561, passando de uma modesta vila medieval ao coração político e cultural do império dos Habsburgo. Hoje combina a grandeza bourbónica com uma energia urbana frenética e noctívaga. Madrid é uma capital notavelmente atenta aos cães: a Câmara Municipal regista mais de 300.000 cães inscritos e investiu fortemente em zonas de esparcimiento canino em todos os bairros. Nas manhãs de fim de semana, os caminhos de saibro do Retiro enchem-se de Galgos, Podencos e rafeiros resgatados das vastas redes espanholas de adoção de galgos. Os cafés de Malasaña, Chueca e La Latina acolhem cães nas esplanadas, e a enorme Casa de Campo, cinco vezes o Central Park, dá aos cães da cidade espaço para se esticarem a sério.`,
     },
     sights: [
       {
@@ -24968,10 +24968,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌳',
         petFriendly: true,
         desc: {
-          fr: 'Le parc royal de 125 hectares accueille les chiens em laisse partout, avec des zones sans laisse près de la Puerta de Madrid et de la Puerta de Mariano de Cavia. Évitez la Roseraie et l\'intérieur du Palais de Cristal, où les animaux sont interdits.',
+          fr: `Le parc royal de 125 hectares accueille les chiens en laisse partout, avec des zones sans laisse près de la Puerta de Madrid et de la Puerta de Mariano de Cavia. Évitez la Roseraie et l'intérieur du Palais de Cristal, où les animaux sont interdits.`,
           en: 'Madrid\'s 125-hectare royal park welcomes dogs on leash throughout, with designated off-leash areas near Puerta de Madrid and Puerta de Mariano de Cavia. Avoid the Rosaleda rose garden and interior of the Crystal Palace, where pets are restricted.',
-          es: 'o parque real de 125 hectáreas admite perros com trela em todo su recinto, con zonas de suelta cerca de Puerta de Madrid y Puerta de Mariano de Cavia. Evita La Rosaleda y o interior del Palacio de Cristal, donde las mascotas están restringidas.',
-          pt: 'O parque real de 125 hectáreas admite cães com trela em todo su recinto, com zonas de suelta perto de Puerta de Madrid e Puerta de Mariano de Cavia. Evita A Rosaleda e o interior do Palácio de Cristal, onde as animais estão restringidas.',
+          es: `El parque real de 125 hectáreas admite perros con correa en todo su recinto, con zonas de suelta cerca de Puerta de Madrid y Puerta de Mariano de Cavia. Evita La Rosaleda y el interior del Palacio de Cristal, donde las mascotas están restringidas.`,
+          pt: `O parque real de 125 hectares admite cães com trela em todo o seu recinto, com zonas de largada perto de Puerta de Madrid e Puerta de Mariano de Cavia. Evite La Rosaleda e o interior do Palácio de Cristal, onde os animais têm restrições.`,
         },
       },
       {
@@ -24981,8 +24981,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Avec ses 1 700 hectares, le plus grand espace vert de Madrid est un paradis canin : kilomètres de sentiers, un lac et une large tolérance sans laisse loin des zones de pique-nique. Accessible par le métro ligne 10 (Lago) ou le téléphérique depuis le Parque del Oeste.',
           en: 'At 1,700 hectares, Madrid\'s largest green space is a dog paradise with kilometers of trails, a lake, and broad off-leash tolerance away from picnic zones. Reachable by Metro line 10 (Lago) or the teleférico from Parque del Oeste.',
-          es: 'Con 1.700 hectáreas, el mayor espacio verde de Madrid es un paraíso canino: kilómetros de senderos, un lago y ampla tolerancia a la suelta lejos das zonas de picnic. Llega em Metro línea 10 (Lago) o em el teleférico desde o parque del Oeste.',
-          pt: 'Com 1.700 hectáreas, o mayor espacio verde de Madrid é um paraíso canino: kilómetros de trilhos, um lago e ampla tolerancia a suelta longe das zonas de picnic. Chega no metro línea 10 (Lago) o no teleférico a partir do Parque do oeste.',
+          es: `Con 1.700 hectáreas, el mayor espacio verde de Madrid es un paraíso canino: kilómetros de senderos, un lago y amplia tolerancia a la suelta lejos de las zonas de picnic. Llega en Metro línea 10 (Lago) o en el teleférico desde el Parque del Oeste.`,
+          pt: `Com 1.700 hectares, o maior espaço verde de Madrid é um paraíso canino: quilómetros de trilhos, um lago e ampla tolerância à trela solta longe das zonas de piquenique. Chega-se de metro linha 10 (Lago) ou de teleférico a partir do Parque del Oeste.`,
         },
       },
       {
@@ -24990,10 +24990,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏛️',
         petFriendly: true,
         desc: {
-          fr: 'La place à arcades du XVIIe siècle et le quartier des Habsbourg sont parfaits pour une balade em laisse, avec d\'innombrables terrasses pet-friendly sur Cava Baja et rua Mayor. Les pavés chauffent intensément em juillet-août, restez sous les porches ombragés.',
+          fr: `La place à arcades du XVIIe siècle et le quartier des Habsbourg sont parfaits pour une balade en laisse, avec d'innombrables terrasses pet-friendly sur la Cava Baja et la Calle Mayor. Les pavés chauffent intensément en juillet-août, restez sous les porches ombragés.`,
           en: 'The 17th-century arcaded square and surrounding Habsburg quarter are ideal for leashed strolls, with countless dog-welcoming terraces on Cava Baja and rua Mayor. Cobblestones can heat up fiercely in July-August, stick to shaded porticos.',
-          es: 'La plaza porticada del siglo XVII y o entorno del Madrid dos Austrias son ideales para pasear com trela, con infinidad de terrazas dog-friendly em Cava Baja y rua Mayor. o adoquín se calienta muchísimo em julio-agosto: busca los soportales con sombra.',
-          pt: 'A praça porticada do século XVII e o entorno do Madrid dois Austrias são ideales para pasear com trela, com infinidad de esplanadas pet-friendly em Cava Baja e Rua Mayor. O adoquín se calienta muchísimo em julho-agosto: busca os soportales com sombra.',
+          es: `La plaza porticada del siglo XVII y el entorno del Madrid de los Austrias son ideales para pasear con correa, con infinidad de terrazas dog-friendly en la Cava Baja y la Calle Mayor. El adoquín se calienta muchísimo en julio-agosto: busca los soportales con sombra.`,
+          pt: `A praça de arcadas do século XVII e a zona envolvente do Madrid de los Austrias são ideais para passear com trela, com inúmeras esplanadas pet-friendly na Cava Baja e na Calle Mayor. O empedrado aquece imenso em julho-agosto: procure os arcos com sombra.`,
         },
       },
       {
@@ -25001,10 +25001,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🎨',
         petFriendly: false,
         desc: {
-          fr: 'Le grand musée espagnol interdit les chiens sauf ceux d\'assistance certifiés, mais le Paseo del Prado et l\'entrée des Jardines du Retiro se prêtent à une promenade avant la visite. Des services de dog-sitting opèrent sur rua Alfonso XII.',
+          fr: `Le grand musée espagnol interdit les chiens sauf ceux d'assistance certifiés, mais le Paseo del Prado et l'entrée des Jardines du Buen Retiro se prêtent à une promenade avant la visite. Des services de dog-sitting opèrent sur la calle Alfonso XII.`,
           en: 'Spain\'s flagship museum prohibits dogs except certified assistance animals, but the surrounding Paseo del Prado and Jardines del Buen Retiro entrance are lovely for a pre-visit walk. Nearby dog-sitting services operate on rua Alfonso XII.',
-          es: 'El museo estrella de España prohíbe perros salvo los de asistencia certificados, pero el Paseo del Prado y a entrada a los Jardines del Buen Retiro son perfectos para un paseo previo. Hay servicios de dog-sitting cerca, em rua Alfonso XII.',
-          pt: 'O museu estrella de Espanha prohíbe cães salvo os de asistencia certificados, mas o Passeio do Prado e a entrada aos Jardins do Buen Retiro são perfeitos para um passeio previo. Hay serviços de dog-sitting cerca, em Rua Alfonso XII.',
+          es: `El museo estrella de España prohíbe perros salvo los de asistencia certificados, pero el Paseo del Prado y la entrada a los Jardines del Buen Retiro son perfectos para un paseo previo. Hay servicios de dog-sitting cerca, en la calle Alfonso XII.`,
+          pt: `O museu de referência de Espanha proíbe cães, exceto os de assistência certificados, mas o Paseo del Prado e a entrada dos Jardines del Buen Retiro são perfeitos para um passeio antes da visita. Há serviços de dog-sitting nas imediações, na calle Alfonso XII.`,
         },
       },
       {
@@ -25012,10 +25012,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌅',
         petFriendly: true,
         desc: {
-          fr: 'Ce temple égyptien authentique du IIe siècle avant J.-C., offert à l\'Espagne en 1968, trône dans le Parque del Oeste avec les plus beaux couchers de soleil de Madrid. Chiens acceptés em laisse dans le parc ; l\'intérieur du temple leur est interdit.',
+          fr: `Ce temple égyptien authentique du IIe siècle avant J.-C., offert à l'Espagne en 1968, trône dans le Parque del Oeste avec les plus beaux couchers de soleil de Madrid. Chiens acceptés en laisse dans le parc ; l'intérieur du temple leur est interdit.`,
           en: 'This authentic 2nd-century BC Egyptian temple, gifted to Spain in 1968, sits in Parque del Oeste with Madrid\'s best sunset views. Dogs are welcome on leash in the surrounding park; entry inside the temple itself is not permitted.',
-          es: 'Este auténtico templo egipcio del siglo II a.C., donado a España en 1968, se alza em o parque del Oeste con las mejores puestas de sol de Madrid. Se admiten perros com trela em o parque; o interior del templo no está permitido.',
-          pt: 'Este auténtico templo egipcio do século II a.C., donado a Espanha em 1968, se alza no Parque do oeste com as melhores puestas de sol de Madrid. Se admitem cães com trela no parque; o interior do templo no está permitido.',
+          es: `Este auténtico templo egipcio del siglo II a.C., donado a España en 1968, se alza en el Parque del Oeste con las mejores puestas de sol de Madrid. Se admiten perros con correa en el parque; el interior del templo no está permitido.`,
+          pt: `Este autêntico templo egípcio do século II a.C., oferecido a Espanha em 1968, ergue-se no Parque del Oeste com os melhores pores do sol de Madrid. Admitem-se cães com trela no parque; o interior do templo não é permitido.`,
         },
       },
       {
@@ -25023,20 +25023,20 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌉',
         petFriendly: true,
         desc: {
-          fr: 'Le corridor réhabilité du Manzanares s\'étire sur 10 km avec parcs à chiens, fontaines et le pont historique de Tolède. Ses allées linéaires ombragées et ses jeux d\'eau em font la meilleure promenade par temps chaud dans le centre.',
+          fr: `Le corridor réhabilité du Manzanares s'étire sur 10 km avec parcs à chiens, fontaines et le pont historique de Tolède. Ses allées linéaires ombragées et ses jeux d'eau en font la meilleure promenade par temps chaud dans le centre.`,
           en: 'The reclaimed Manzanares riverside corridor stretches 10 km with dog parks, fountains, and the historic Puente de Toledo. Its shaded linear paths and water features make it the smartest hot-weather walk in central Madrid.',
-          es: 'El corredor recuperado del Manzanares se extiende 10 km con zonas caninas, fuentes y el histórico Puente de Toledo. Sus paseos lineales a la sombra y sus juegos de agua lo convierten na mejor ruta em pleno calor madrileño.',
-          pt: 'O corredor recuperado do Manzanares estende-se 10 km com zonas caninas, fuentes e o histórico Ponte de Toledo. Os seus passeios lineales a sombra e os seus juegos de água lo convierten na melhor ruta em pleno calor madrilenho.',
+          es: `El corredor recuperado del Manzanares se extiende 10 km con zonas caninas, fuentes y el histórico Puente de Toledo. Sus paseos lineales a la sombra y sus juegos de agua lo convierten en la mejor ruta en pleno calor madrileño.`,
+          pt: `O corredor recuperado do Manzanares estende-se por 10 km, com zonas caninas, fontes e a histórica Puente de Toledo. Os seus percursos lineares à sombra e os seus jogos de água tornam-no o melhor passeio em pleno calor madrileno.`,
         },
       },
     ],
     petTips: {
       fr: [
-        'Le métro de Madrid accepte un chien moyen par voyageur em heures creuses (avant 7h30, 9h30-14h, après 19h em semaine ; toute la journée le week-end), muselière et laisse obligatoires.',
-        'em juillet-août, le bitume dépasse 55°C l\'après-midi, promenez avant 10h ou après 21h, et testez l\'asphalte avec la main pendant 7 secondes avant d\'y poser les pattes.',
-        'Madrid impose la laisse dans les espaces publics ; les races classées PPP (Rottweiler, type Pitbull, etc.) doivent porter une muselière et le maître nécessite une licence municipale.',
-        'Les terrasses acceptant les chiens doivent afficher un autocollant officiel, à l\'intérieur des restaurants c\'est au patron, mais les bars à tapas de La Latina et Malasaña sont très accueillants.',
-        'Emportez toujours de l\'eau : Madrid compte plus de 180 fontaines publiques (beaucoup avec vasque à hauteur de chien) cartographiées sur l\'app \'Canes Madrid\'.',
+        `Le métro de Madrid accepte un chien moyen par voyageur en heures creuses (avant 7h30, 9h30-14h, après 19h en semaine ; toute la journée le week-end), muselière et laisse obligatoires.`,
+        `En juillet-août, le bitume dépasse 55°C l'après-midi, promenez avant 10h ou après 21h, et testez l'asphalte avec la main pendant 7 secondes avant d'y poser les pattes.`,
+        `Madrid impose la laisse dans les espaces publics ; les races classées PPP (Rottweiler, type Pitbull, etc.) doivent porter une muselière et le maître nécessite une licence municipale.`,
+        `Les terrasses acceptant les chiens doivent afficher un autocollant officiel, à l'intérieur des restaurants c'est au patron, mais les bars à tapas de La Latina et Malasaña sont très accueillants.`,
+        `Emportez toujours de l'eau : Madrid compte plus de 180 fontaines publiques (beaucoup avec vasque à hauteur de chien) cartographiées sur l'app 'Canes Madrid'.`,
       ],
       en: [
         'Metro Madrid allows one medium dog per passenger off-peak (before 07:30, 09:30-14:00, after 19:00 weekdays; all day weekends), dog must wear muzzle and leash.',
@@ -25046,27 +25046,27 @@ const cityContent: Record<string, CityContent> = {
         'Carry water everywhere: Madrid has 180+ public fountains (many with dog-level basins) mapped on the \'Canes Madrid\' app.',
       ],
       es: [
-        'Metro de Madrid permite un perro mediano por viajero em horas valle (antes de 7:30, de 9:30 a 14:00, después de 19:00 entre semana; todo el día los fines de semana), con bozal y trela.',
-        'em julio-agosto o asfalto supera los 55°C por la tarde, pasea antes das 10:00 o después das 21:00, y comprueba el solo con la mano durante 7 segundos antes de que pise tu perro.',
-        'Madrid exige trela em espacios públicos; las razas consideradas PPP (Rottweiler, tipo Pitbull, etc.) deben llevar bozal y el dueño necesita licencia municipal.',
-        'Las terrazas que admiten perros deben exhibir pegatina oficial, dentro del local depende del dueño, pero los bares de tapas de La Latina y Malasaña son muy receptivos.',
-        'Lleva siempre agua: Madrid tiene más de 180 fuentes públicas (muchas con pilón a altura canina) mapeadas na app \'Canes Madrid\'.',
+        `El metro de Madrid permite un perro mediano por viajero en horas valle (antes de 7:30, de 9:30 a 14:00, después de 19:00 entre semana; todo el día los fines de semana), con bozal y correa.`,
+        `En julio-agosto el asfalto supera los 55°C por la tarde, pasea antes de las 10:00 o después de las 21:00, y comprueba el suelo con la mano durante 7 segundos antes de que pise tu perro.`,
+        `Madrid exige correa en espacios públicos; las razas consideradas PPP (Rottweiler, tipo Pitbull, etc.) deben llevar bozal y el dueño necesita licencia municipal.`,
+        `Las terrazas que admiten perros deben exhibir pegatina oficial, dentro del local depende del dueño, pero los bares de tapas de La Latina y Malasaña son muy receptivos.`,
+        `Lleva siempre agua: Madrid tiene más de 180 fuentes públicas (muchas con pilón a altura canina) mapeadas en la app 'Canes Madrid'.`,
       ],
       pt: [
-        'Metro de Madrid permite um cão mediano por viajero em horas vale (antes de 7:30, de 9:30 a 14:00, depois de 19:00 entre semana; todo o dia os fines de semana), con bozal e trela.',
-        'em julho-agosto o asfalto supera os 55°C pela tarde, pasea antes das 10:00 o depois das 21:00, e comprueba o solo com a mano durante 7 segundos antes de que pise tu cão.',
-        'Madrid exige trela em espacios públicos; as raças consideradas PPP (Rottweiler, tipo Pitbull, etc.) deben levar bozal e o dono necesita licencia municipal.',
-        'As esplanadas que admiten cães deben exhibir pegatina oficial, dentro do local depende do dono, mas os bares de tapas da Latina e Malasaña são muito receptivos.',
-        'Lleva sempre água: Madrid tem mais de 180 fuentes públicas (muitas con pilón a altura canina) mapeadas na app \'Canes Madrid\'.',
+        `O metro de Madrid permite um cão médio por passageiro em horas de menor afluência (antes das 7:30, das 9:30 às 14:00, depois das 19:00 nos dias úteis; todo o dia ao fim de semana), com açaimo e trela obrigatórios.`,
+        `Em julho-agosto o asfalto ultrapassa os 55°C à tarde, passeie antes das 10:00 ou depois das 21:00, e teste o piso com a mão durante 7 segundos antes de o seu cão o pisar.`,
+        `Madrid exige trela nos espaços públicos; as raças consideradas PPP (Rottweiler, tipo Pitbull, etc.) têm de usar açaimo e o dono precisa de licença municipal.`,
+        `As esplanadas que admitem cães devem exibir um autocolante oficial; dentro do estabelecimento depende do dono, mas os bares de tapas de La Latina e Malasaña são muito recetivos.`,
+        `Leve sempre água: Madrid tem mais de 180 fontes públicas (muitas com pia à altura do cão) mapeadas na app 'Canes Madrid'.`,
       ],
     },
     practicalInfo: {
       fr: [
-        'Aéroport : Madrid-Barajas (MAD) dispose d\'une zone de détente canine au terminal 4 ; les taxis acceptent les chiens em laisse à la discrétion du chauffeur.',
-        'Vétérinaires : cliniques d\'urgence 24h/24 dans chaque quartier, Hospital Veterinario Puchol (Chamartín) et Los Madrazo (Sol) sont les références centrales.',
-        'Alternative plage : la Dehesa de la Villa municipale et le Pinar de Chamartín offrent des balades forestières quand la ville surchauffe.',
-        'Transports : les bus (EMT) acceptent les petits chiens em caisse ; les Cercanías admettent les chiens jusqu\'à 10 kg em caisse, les plus grands tolérés em heures creuses avec muselière.',
-        'Fournitures : Kiwoko, Tiendanimal et la chaîne locale Masquepet ont des boutiques centrales.',
+        `Aéroport : Madrid-Barajas (MAD) dispose d'une zone de détente canine au terminal 4 ; les taxis acceptent les chiens en laisse à la discrétion du chauffeur.`,
+        `Vétérinaires : cliniques d'urgence 24h/24 dans chaque quartier, Hospital Veterinario Puchol (Chamartín) et Los Madrazo (Sol) sont les références centrales.`,
+        `Alternative plage : la Dehesa de la Villa municipale et le Pinar de Chamartín offrent des balades forestières quand la ville surchauffe.`,
+        `Transports : les bus (EMT) acceptent les petits chiens en caisse ; les Cercanías admettent les chiens jusqu'à 10 kg en caisse, les plus grands tolérés en heures creuses avec muselière.`,
+        `Fournitures : Kiwoko, Tiendanimal et la chaîne locale Masquepet ont des boutiques centrales.`,
       ],
       en: [
         'Airport: Madrid-Barajas (MAD) has a pet relief area in Terminal 4; taxis accept leashed dogs at the driver\'s discretion.',
@@ -25076,18 +25076,18 @@ const cityContent: Record<string, CityContent> = {
         'Pet supplies: Kiwoko, Tiendanimal, and local petshop chain Masquepet have central branches.',
       ],
       es: [
-        'Aeropuerto: Madrid-Barajas (MAD) tiene zona de esparcimiento canino na T4; los taxis admiten perros com trela a criterio del conductor.',
-        'Veterinarios: clínicas de urgencias 24h em todos los distritos, Hospital Veterinario Puchol (Chamartín) y Los Madrazo (Sol) son referencias céntricas.',
-        'Alternativa a la playa: la Dehesa de la Villa y el Pinar de Chamartín ofrecen paseos de floresta cuando a cidade es un horno.',
-        'Transporte: los autobuses (EMT) admiten perros pequeños em transportín; Cercanías acepta perros hasta 10 kg em transportín y los mayores em horas valle con bozal.',
-        'Suministros: Kiwoko, Tiendanimal y la cadena local Masquepet tienen tiendas por toda a cidade.',
+        `Aeropuerto: Madrid-Barajas (MAD) tiene zona de esparcimiento canino en la T4; los taxis admiten perros con correa a criterio del conductor.`,
+        `Veterinarios: clínicas de urgencias 24h en todos los distritos, Hospital Veterinario Puchol (Chamartín) y Los Madrazo (Sol) son referencias céntricas.`,
+        `Alternativa a la playa: la Dehesa de la Villa y el Pinar de Chamartín ofrecen paseos de bosque cuando la ciudad es un horno.`,
+        `Transporte: los autobuses (EMT) admiten perros pequeños en transportín; Cercanías acepta perros hasta 10 kg en transportín y los mayores en horas valle con bozal.`,
+        `Suministros: Kiwoko, Tiendanimal y la cadena local Masquepet tienen tiendas por toda la ciudad.`,
       ],
       pt: [
-        'Aeroporto: Madrid-Barajas (MAD) tem zona de esparcimiento canino na T4; os taxis admiten cães com trela a criterio do conductor.',
-        'Veterinários: clínicas de urgências 24h em todos os distritos, Hospital Veterinário Puchol (Chamartín) e Os Madrazo (Sol) são referencias céntricas.',
-        'Alternativa a a praia: a Dehesa da Villa e o Pinar de Chamartín ofrecen passeios de floresta quando a cidade é um horno.',
-        'Transporte: os autocarros (EMT) admiten cães pequenos em transportadora; Cercanías aceita cães até 10 kg em transportadora e os mayores em horas vale con bozal.',
-        'Suministros: Kiwoko, Tiendanimal e a cadena local Masquepet têm tiendas por toda a cidade.',
+        `Aeroporto: Madrid-Barajas (MAD) tem zona de esparcimiento canino na T4; os táxis admitem cães com trela ao critério do motorista.`,
+        `Veterinários: clínicas de urgência 24h em todos os bairros, Hospital Veterinario Puchol (Chamartín) e Los Madrazo (Sol) são referências centrais.`,
+        `Alternativa à praia: a Dehesa de la Villa e o Pinar de Chamartín oferecem passeios de floresta quando a cidade é um forno.`,
+        `Transporte: os autocarros (EMT) admitem cães pequenos em transportadora; a Cercanías aceita cães até 10 kg em transportadora e os maiores em horas de menor afluência com açaimo.`,
+        `Fornecimentos: Kiwoko, Tiendanimal e a cadeia local Masquepet têm lojas por toda a cidade.`,
       ],
     },
   },
@@ -30804,10 +30804,10 @@ const cityContent: Record<string, CityContent> = {
 
   paris: {
     history: {
-      fr: `Paris est une ville de chien, et les Parisiens le savent depuis toujours. On compte aujourd'hui plus de 500 000 chiens dans la capitale, soit un pour huit habitants. Cette relation ancienne entre Paris et ses animaux remonte aux cafés du XVIIIe siècle, où les chiens accompagnaient leurs maîtres sur les banquettes. La ville a beau être la plus visitée au monde, elle conserve cette culture de proximité : les chiens sont admis dans la plupart des brasseries, dans les boutiques, dans les jardins sans laisse désignés. Le Bois de Boulogne (846 ha) et le Bois de Vincennes (995 ha) constituent deux poumons verts immenses, parcourus chaque matin par des milliers de chiens em liberté.`,
+      fr: `Paris est une ville de chien, et les Parisiens le savent depuis toujours. On compte aujourd'hui plus de 500 000 chiens dans la capitale, soit un pour huit habitants. Cette relation ancienne entre Paris et ses animaux remonte aux cafés du XVIIIe siècle, où les chiens accompagnaient leurs maîtres sur les banquettes. La ville a beau être la plus visitée au monde, elle conserve cette culture de proximité : les chiens sont admis dans la plupart des brasseries, dans les boutiques, dans les jardins sans laisse désignés. Le Bois de Boulogne (846 ha) et le Bois de Vincennes (995 ha) constituent deux poumons verts immenses, parcourus chaque matin par des milliers de chiens en liberté.`,
       en: `Paris is a city of dogs, and Parisians have always known it. The capital is home to over 500,000 dogs, roughly one for every eight residents. This long-standing relationship between Paris and its animals stretches back to 18th-century café culture, when dogs lounged on banquettes beside their owners. Despite being the world's most visited city, Paris retains this intimacy: dogs are welcome in most brasseries, shops and designated off-leash garden zones. The Bois de Boulogne (846 ha) and Bois de Vincennes (995 ha) provide two vast green lungs, busy with off-leash dogs every morning.`,
-      es: `París es uma cidade de perros, y los parisinos lo saben desde siempre. La capital cuenta con más de 500.000 perros, aproximadamente uno por cada ocho habitantes. Esta relación histórica entre París y sus animales se remonta a los cafés del siglo XVIII, donde los perros descansaban junto a sus dueños. A pesar de ser a cidade más visitada del mundo, París conserva esa intimidad: los perros son bienvenidos na mayoría de brasseries, tiendas y zonas de jardín designadas sin trela. El Bois de Boulogne (846 ha) y el Bois de Vincennes (995 ha) ofrecen dos inmensos pulmones verdes frecuentados cada mañana por miles de perros.`,
-      pt: `París é uma cidade de cães, e os parisinos lo saben a partir de sempre. A capital tem com mais de 500.000 cães, aproximadamente uno por cada oito habitantes. Esta relación histórica entre París e os seus animales se remonta aos cafés do século XVIII, onde os cães descansaban junto aos seus donos. Apesar de ser a cidade mais visitada do mundo, París conserva essa intimidad: os cães são bem-vindos na maioria de brasseries, tiendas e zonas de jardim designadas sem trela. O Bois de Boulogne (846 ha) e o Bois de Vincennes (995 ha) ofrecen dois inmensos pulmones verdes frecuentados cada manhã por miles de cães.`,
+      es: `París es una ciudad de perros, y los parisinos lo saben desde siempre. La capital cuenta con más de 500.000 perros, aproximadamente uno por cada ocho habitantes. Esta relación histórica entre París y sus animales se remonta a los cafés del siglo XVIII, cuando los perros descansaban junto a sus dueños en las banquetas. Pese a ser la ciudad más visitada del mundo, París conserva esa cercanía: los perros son bienvenidos en la mayoría de las brasseries, en las tiendas y en las zonas de jardín habilitadas sin correa. El Bois de Boulogne (846 ha) y el Bois de Vincennes (995 ha) ofrecen dos inmensos pulmones verdes, frecuentados cada mañana por miles de perros sin correa.`,
+      pt: `Paris é uma cidade de cães, e os parisienses sempre o souberam. A capital conta com mais de 500.000 cães, aproximadamente um por cada oito habitantes. Esta relação histórica entre Paris e os seus animais remonta aos cafés do século XVIII, quando os cães descansavam ao lado dos donos nos bancos corridos. Apesar de ser a cidade mais visitada do mundo, Paris conserva essa proximidade: os cães são bem-vindos na maioria das brasseries, nas lojas e nas zonas de jardim assinaladas sem trela. O Bois de Boulogne (846 ha) e o Bois de Vincennes (995 ha) constituem dois imensos pulmões verdes, percorridos todas as manhãs por milhares de cães sem trela.`,
     },
     sights: [
       {
@@ -30817,8 +30817,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: '846 hectares de forêt à l\'ouest de Paris. De nombreuses zones permettent aux chiens de courir librement le matin. Le lac Inférieur et le Pré Catelan sont des incontournables pour une longue promenade matinale.',
           en: '846 hectares of forest on Paris\'s western edge. Many areas allow dogs to run freely in the morning. The Lac Inférieur and Pré Catelan are essential stops for a long morning walk.',
-          es: '846 hectáreas de floresta al oeste de París. Numerosas zonas permiten a los perros correr libremente por la mañana. El Lac Inférieur y el Pré Catelan son paradas imprescindibles para un longo paseo matutino.',
-          pt: '846 hectáreas de floresta a oeste de París. Numerosas zonas permiten aos cães correr libremente pela manhã. O Lac Inférieur e o Pré Catelan são paradas imprescindibles para um longo passeio matutino.',
+          es: `846 hectáreas de bosque al oeste de París. Numerosas zonas permiten a los perros correr libremente por la mañana. El Lac Inférieur y el Pré Catelan son paradas imprescindibles para un largo paseo matutino.`,
+          pt: `846 hectares de floresta a oeste de Paris. Numerosas zonas permitem aos cães correr livremente pela manhã. O Lac Inférieur e o Pré Catelan são paragens imprescindíveis para um longo passeio matinal.`,
         },
       },
       {
@@ -30826,10 +30826,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏘️',
         petFriendly: true,
         desc: {
-          fr: 'Le quartier le plus dog-friendly de Paris. Boutiques indépendantes, terrasses de café et pharmacies vétérinaires à chaque coin de rue. La Place des Vosges est magnifique mais les chiens y sont tenus em laisse.',
+          fr: `Le quartier le plus dog-friendly de Paris. Boutiques indépendantes, terrasses de café et pharmacies vétérinaires à chaque coin de rue. La Place des Vosges est magnifique mais les chiens y sont tenus en laisse.`,
           en: 'Paris\'s most dog-friendly neighbourhood. Independent shops, café terraces and vet pharmacies on every street. Place des Vosges is stunning but dogs must be kept on leads inside.',
-          es: 'o bairro más amigable con los perros de París. Tiendas independientes, terrazas de café y farmacias veterinarias em cada esquina. La Place des Vosges es preciosa, pero los perros deben llevar trela dentro.',
-          pt: 'O bairro mais amigable com os cães de París. Tiendas independientes, esplanadas de café e farmácias veterinárias em cada esquina. A Place des Vosges é preciosa, mas os cães deben levar trela dentro.',
+          es: `El barrio más dog-friendly de París. Tiendas independientes, terrazas de café y farmacias veterinarias en cada esquina. La Place des Vosges es preciosa, pero los perros deben ir con correa dentro.`,
+          pt: `O bairro mais dog-friendly de Paris. Lojas independentes, esplanadas de café e farmácias veterinárias em cada esquina. A Place des Vosges é magnífica, mas os cães têm de andar com trela lá dentro.`,
         },
       },
       {
@@ -30839,8 +30839,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'L\'un des jardins les plus beaux de Paris, mais les chiens n\'y sont pas admis. Contournez-le par le boulevard Saint-Michel ou profitez des rues piétonnes du Quartier Latin avec votre animal.',
           en: 'One of Paris\'s most beautiful gardens, but dogs are not permitted inside. Walk around it via Boulevard Saint-Michel or enjoy the pedestrian streets of the Latin Quarter with your pet instead.',
-          es: 'Uno dos jardines más hermosos de París, pero los perros no están permitidos em su interior. Rodéalo por el Boulevard Saint-Michel o disfruta das ruas peatonales del Barrio Latino con tu mascota.',
-          pt: 'Uno dois jardins mais hermosos de París, mas os cães no estão permitidos em su interior. Rodéalo pelo Boulevard Saint-Michel o disfruta das ruas peatonales do Bairro Latino com o teu animal.',
+          es: `Uno de los jardines más hermosos de París, pero los perros no pueden entrar. Rodéalo por el Boulevard Saint-Michel o disfruta de las calles peatonales del Barrio Latino con tu mascota.`,
+          pt: `Um dos jardins mais bonitos de Paris, mas os cães não podem entrar. Contorne-o pelo Boulevard Saint-Michel ou aproveite as ruas pedonais do Bairro Latino com o seu animal.`,
         },
       },
       {
@@ -30850,8 +30850,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Le canal préféré des Parisiens pour une promenade décontractée. Les quais ombragés sont parfaits pour une balade avec un chien, terrasses de café et épiceries fines s\'y succèdent. Évitez les week-ends très fréquentés.',
           en: 'Parisians\' favourite canal for a relaxed stroll. The shaded quaysides are perfect for a dog walk, café terraces and delis line the route. Avoid peak weekend crowds.',
-          es: 'El canal favorito dos parisinos para un paseo tranquilo. Los muelles sombreados son perfectos para pasear con un perro: terrazas de café y delicatessen se suceden a lo longo del recorrido. Evita los fines de semana muy concurridos.',
-          pt: 'O canal favorito dois parisinos para um passeio tranquilo. Os muelles sombreados são perfeitos para pasear com um cão: esplanadas de café e delicatessen se suceden a lo longo do recorrido. Evita os fines de semana muito concurridos.',
+          es: `El canal favorito de los parisinos para un paseo tranquilo. Los muelles sombreados son perfectos para pasear con un perro: terrazas de café y delicatessen se suceden a lo largo del recorrido. Evita los fines de semana muy concurridos.`,
+          pt: `O canal preferido dos parisienses para um passeio tranquilo. Os cais sombreados são perfeitos para passear com um cão: esplanadas de café e mercearias finas sucedem-se ao longo do percurso. Evite os fins de semana muito concorridos.`,
         },
       },
       {
@@ -30859,10 +30859,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🗼',
         petFriendly: true,
         desc: {
-          fr: 'Les pelouses du Champ-de-Mars accueillent les chiens em laisse, vue imprenable sur la Tour Eiffel garantie. L\'intérieur de la tour est interdit aux animaux, mais personne ne vient à Paris pour l\'éviter.',
+          fr: `Les pelouses du Champ-de-Mars accueillent les chiens en laisse, avec une vue imprenable garantie sur la Tour Eiffel. L'intérieur de la tour est interdit aux animaux, mais ses jardins offrent une promenade emblématique.`,
           en: 'The Champ-de-Mars lawns welcome dogs on leads, with a guaranteed unbeatable view of the Eiffel Tower. The tower itself is off-limits to animals, but the gardens make for an iconic dog walk.',
-          es: 'Los céspedes del Champ-de-Mars admiten perros com trela, con una vista inmejorable de la Torre Eiffel. o interior de la torre no está permitido para animales, pero los jardines son un paseo icónico.',
-          pt: 'Os céspedes do Champ-de-Mars admitem cães com trela, com uma vista inmejorable da Torre Eiffel. O interior da torre no está permitido para animales, mas os jardins são um passeio icónico.',
+          es: `Los céspedes del Champ-de-Mars admiten perros con correa, con una vista inmejorable de la Torre Eiffel. El interior de la torre no está permitido para los animales, pero sus jardines son un paseo icónico.`,
+          pt: `Os relvados do Champ-de-Mars acolhem cães com trela, com uma vista imbatível da Torre Eiffel. O interior da torre não é permitido a animais, mas os seus jardins são um passeio icónico.`,
         },
       },
       {
@@ -30870,20 +30870,20 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛪',
         petFriendly: true,
         desc: {
-          fr: 'Les rues pavées de Montmartre sont parfaites pour se promener avec un chien. Les escaliers menant au Sacré-Cœur sont accessibles avec un animal, la vue vaut l\'effort. Le Square Louise Michel em contrebas est un bon spot pour souffler.',
+          fr: `Les rues pavées de Montmartre sont parfaites pour se promener avec un chien. Les escaliers menant au Sacré-Cœur sont accessibles avec un animal, la vue vaut l'effort. Le Square Louise Michel en contrebas est un bon coin pour souffler.`,
           en: 'Montmartre\'s cobbled streets are perfect for a dog walk. The steps up to the Sacré-Cœur are accessible with a dog, the view is worth the effort. Square Louise Michel below is a good spot to rest.',
-          es: 'Las ruas empedradas de Montmartre son perfectas para pasear con un perro. Los escalones que suben al Sacré-Cœur son acessíveis con mascota: la vista merece o esfuerzo. El Square Louise Michel, abajo, es un buen sitio para descansar.',
-          pt: 'As ruas empedradas de Montmartre são perfeitas para pasear com um cão. Os escalones que suben al Sacré-Cœur são acessíveis com animal: a vista merece o esfuerzo. O Square Louise Michel, abajo, é um buen sitio para descansar.',
+          es: `Las calles empedradas de Montmartre son perfectas para pasear con un perro. Las escaleras que suben al Sacré-Cœur son accesibles con mascota: la vista merece el esfuerzo. El Square Louise Michel, más abajo, es un buen sitio para descansar.`,
+          pt: `As ruas empedradas de Montmartre são perfeitas para passear com um cão. As escadas que sobem até ao Sacré-Cœur são acessíveis com animal: a vista compensa o esforço. O Square Louise Michel, mais abaixo, é um bom lugar para descansar.`,
         },
       },
     ],
     petTips: {
       fr: [
-        'Les chiens sont admis dans le métro parisien à condition d\'être dans un sac ou cage de transport. Les grands chiens peuvent voyager avec un billet enfant, tenus em laisse et muselés.',
-        'La majorité des brasseries et bistros acceptent les chiens em terrasse et souvent em salle, demandez simplement à l\'entrée.',
-        'Attention aux trottoirs : Paris reste une ville où la propreté canine est inégale. Gardez votre chien em laisse courte dans les zones commerçantes.',
-        'L\'eau est fournie gratuitement dans de nombreuses terrasses, pensez à em demander un bol pour votre chien.',
-        'Les Jardins des Tuileries, le Luxembourg et le Palais-Royal sont fermés aux chiens. Préparez des itinéraires alternatifs dans ces zones.',
+        `Les chiens sont admis dans le métro parisien à condition d'être dans un sac ou une cage de transport. Les grands chiens peuvent voyager avec un billet enfant, tenus en laisse et muselés.`,
+        `La majorité des brasseries et bistros acceptent les chiens en terrasse et souvent en salle, demandez simplement à l'entrée.`,
+        `Attention aux trottoirs : Paris reste une ville où la propreté canine est inégale. Gardez votre chien en laisse courte dans les zones commerçantes.`,
+        `L'eau est fournie gratuitement sur de nombreuses terrasses, pensez à en demander un bol pour votre chien.`,
+        `Les Jardins des Tuileries, le Luxembourg et le Palais-Royal sont fermés aux chiens. Préparez des itinéraires alternatifs dans ces zones.`,
       ],
       en: [
         'Dogs are allowed on the Paris Métro if carried in a bag or carrier. Larger dogs can travel with a child ticket, kept on a lead and muzzled.',
@@ -30893,26 +30893,26 @@ const cityContent: Record<string, CityContent> = {
         'The Tuileries Gardens, Luxembourg and Palais-Royal gardens are closed to dogs. Plan alternative routes in these areas.',
       ],
       es: [
-        'Los perros pueden viajar em el metro de París si van em bolsa o transportín. Los perros grandes pueden hacerlo con un billete de criança, com trela y bozal.',
-        'La mayoría de brasseries y bistrós aceptan perros na terraza y a menudo dentro: solo hay que preguntarlo a a entrada.',
-        'Cuidado con las aceras: París sigue siendo uma cidade donde la limpieza canina es irregular. Lleva a tu perro com trela curta em zonas comerciales.',
-        'em muchas terrazas ofrecen agua gratuita: pide un cuenco para tu perro.',
-        'Los Jardines das Tullerías, el Luxemburgo y el Palais-Royal están cerrados a los perros. Prepara rutas alternativas em estas zonas.',
+        `Los perros pueden viajar en el metro de París si van en bolsa o transportín. Los perros grandes pueden hacerlo con un billete de niño, con correa y bozal.`,
+        `La mayoría de las brasseries y bistrós aceptan perros en la terraza y a menudo dentro: solo hay que preguntarlo en la entrada.`,
+        `Cuidado con las aceras: París sigue siendo una ciudad donde la limpieza canina es irregular. Lleva a tu perro con correa corta en las zonas comerciales.`,
+        `En muchas terrazas ofrecen agua gratuita: pide un cuenco para tu perro.`,
+        `Los Jardines de las Tullerías, el Luxemburgo y el Palais-Royal están cerrados a los perros. Prepara rutas alternativas en estas zonas.`,
       ],
       pt: [
-        'Os cães podem viajar no metro de París si van em bolsa o transportadora. Os cães grandes podem hacerlo con um bilhete de criança, com trela e bozal.',
-        'A maioria de brasseries e bistrós aceitam cães na esplanada e a menudo dentro: só hay que preguntarlo a a entrada.',
-        'Cuidado com as aceras: París sigue siendo uma cidade onde a limpieza canina é irregular. Lleva a tu cão com trela curta em zonas comerciales.',
-        'em muitas esplanadas ofrecen água gratuita: pide um cuenco para tu cão.',
-        'Os Jardins das Tullerías, o Luxemburgo e o Palais-Royal están cerrados aos cães. Prepara rutas alternativas em estas zonas.',
+        `Os cães podem viajar no metro de Paris se forem em saco ou transportadora. Os cães grandes podem fazê-lo com um bilhete de criança, com trela e açaimo.`,
+        `A maioria das brasseries e bistrôs aceitam cães na esplanada e muitas vezes lá dentro: basta perguntar à entrada.`,
+        `Cuidado com os passeios: Paris continua a ser uma cidade onde a limpeza canina é irregular. Leve o seu cão com trela curta nas zonas comerciais.`,
+        `Em muitas esplanadas oferecem água gratuita: peça uma tigela para o seu cão.`,
+        `Os Jardins das Tulherias, o Luxemburgo e o Palais-Royal estão fechados aos cães. Prepare percursos alternativos nestas zonas.`,
       ],
     },
     practicalInfo: {
       fr: [
-        'Vétérinaire d\'urgence 24h/24 : Clinique Vétérinaire Frégis, 43 avenue Aristide Briand, Arcueil, +33 1 46 15 20 00',
-        'Pharmacies vétérinaires : disponibles dans tous les arrondissements, notamment dans Le Marais et Montparnasse',
-        'Eurostar depuis Londres : les chiens em sac ou cage sont acceptés. Les grands chiens ne sont pas admis dans l\'Eurostar, préférez le ferry + train.',
-        'Aéroport Charles-de-Gaulle : les animaux de compagnie de l\'UE avec passeport valide peuvent entrer sans quarantaine.',
+        `Vétérinaire d'urgence 24h/24 : Clinique Vétérinaire Frégis, 43 avenue Aristide Briand, Arcueil, +33 1 46 15 20 00`,
+        `Pharmacies vétérinaires : disponibles dans tous les arrondissements, notamment dans Le Marais et Montparnasse`,
+        `Eurostar depuis Londres : les chiens en sac ou en cage sont acceptés. Les grands chiens ne sont pas admis dans l'Eurostar, préférez le ferry + train.`,
+        `Aéroport Charles-de-Gaulle : les animaux de compagnie de l'UE avec passeport valide peuvent entrer sans quarantaine.`,
       ],
       en: [
         '24/7 emergency vet: Clinique Vétérinaire Frégis, 43 avenue Aristide Briand, Arcueil, +33 1 46 15 20 00',
@@ -30921,16 +30921,16 @@ const cityContent: Record<string, CityContent> = {
         'Charles de Gaulle Airport: EU pets with valid passport can enter without quarantine.',
       ],
       es: [
-        'Veterinario de urgencias 24h: Clinique Vétérinaire Frégis, 43 avenue Aristide Briand, Arcueil, +33 1 46 15 20 00',
-        'Farmacias veterinarias disponibles em todos los arrondissements, especialmente em Le Marais y Montparnasse',
-        'Eurostar desde Londres: se aceptan perros em bolsa o transportín. Los perros grandes no están admitidos em o Eurostar, considera el ferry + tren.',
-        'Aeropuerto Charles de Gaulle: mascotas de a UE con passaporte válido pueden entrar sin cuarentena.',
+        `Veterinario de urgencias 24h: Clinique Vétérinaire Frégis, 43 avenue Aristide Briand, Arcueil, +33 1 46 15 20 00`,
+        `Farmacias veterinarias disponibles en todos los arrondissements, especialmente en Le Marais y Montparnasse`,
+        `Eurostar desde Londres: se aceptan perros en bolsa o transportín. Los perros grandes no están admitidos en el Eurostar, considera el ferry + tren.`,
+        `Aeropuerto Charles de Gaulle: las mascotas de la UE con pasaporte válido pueden entrar sin cuarentena.`,
       ],
       pt: [
-        'Veterinário de urgências 24h: Clinique Vétérinaire Frégis, 43 avenue Aristide Briand, Arcueil, +33 1 46 15 20 00',
-        'Farmácias veterinárias disponibles em todos os arrondissements, especialmente em Le Marais e Montparnasse',
-        'Eurostar a partir de Londres: se aceitam cães em bolsa o transportadora. Os cães grandes no están admitidos no Eurostar, considera o ferry + comboio.',
-        'Aeroporto Charles de Gaulle: animais da UE con passaporte válido podem entrar sem cuarentena.',
+        `Veterinário de urgência 24h/24: Clinique Vétérinaire Frégis, 43 avenue Aristide Briand, Arcueil, +33 1 46 15 20 00`,
+        `Farmácias veterinárias disponíveis em todos os arrondissements, sobretudo no Marais e em Montparnasse`,
+        `Eurostar a partir de Londres: são aceites cães em saco ou transportadora. Os cães grandes não são admitidos no Eurostar, opte pelo ferry + comboio.`,
+        `Aeroporto Charles de Gaulle: os animais de companhia da UE com passaporte válido podem entrar sem quarentena.`,
       ],
     },
   },

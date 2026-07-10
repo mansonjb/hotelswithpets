@@ -39720,6 +39720,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  trapani: {
+    history: {
+      fr: `Trapani, la « faucille » posée sur la mer à la pointe occidentale de la Sicile, doit son nom grec (Drepanon, faucille) à la langue de terre courbe qui abrite son port. Fondée par les Élymes puis comptoir carthaginois, elle fut le débarcadère de la montagne sacrée d'Éryx avant de devenir sous les Aragonais un grand port du sel et du corail. Ses salines, exploitées depuis l'Antiquité, alignent encore leurs moulins à vent entre ciel et lagune. La vieille ville, resserrée sur son éperon baroque, déroule palais, églises et la via Torrearsa piétonne jusqu'aux môles d'où l'on embarque pour les Égades et la Tunisie. Dominée par Érice perchée à 750 mètres et reliée par un spectaculaire téléphérique, Trapani vit tournée vers l'eau : couscous de poisson, thon, sel et couchers de soleil sur les marais. Une ville plate, marchable et venteuse, idéale à parcourir en laisse.`,
+      en: `Trapani, the "sickle" laid on the sea at Sicily's western tip, owes its Greek name (Drepanon, sickle) to the curved spit of land that shelters its harbour. Founded by the Elymians and then a Carthaginian trading post, it was the landing stage for the sacred mountain of Eryx before becoming, under the Aragonese, a great port of salt and coral. Its salt pans, worked since antiquity, still line up their windmills between sky and lagoon. The old town, packed onto its baroque spur, unrolls palaces, churches and the pedestrian Via Torrearsa down to the moles where you board for the Egadi Islands and Tunisia. Overlooked by Erice perched at 750 metres and linked by a spectacular cable car, Trapani lives facing the water: fish couscous, tuna, salt and sunsets over the marshes. A flat, walkable, windy city, perfect to explore on a leash.`,
+      es: `Trapani, la « hoz » tendida sobre el mar en el extremo occidental de Sicilia, debe su nombre griego (Drepanon, hoz) a la lengua de tierra curva que abriga su puerto. Fundada por los élimos y luego factoría cartaginesa, fue el embarcadero de la montaña sagrada de Érice antes de convertirse, con los aragoneses, en un gran puerto de la sal y del coral. Sus salinas, explotadas desde la Antigüedad, alinean todavía sus molinos de viento entre el cielo y la laguna. El casco antiguo, apretado sobre su espolón barroco, despliega palacios, iglesias y la peatonal Via Torrearsa hasta los muelles desde donde se embarca hacia las islas Égadas y Túnez. Dominada por Érice, encaramada a 750 metros y unida por un espectacular teleférico, Trapani vive de cara al agua: cuscús de pescado, atún, sal y puestas de sol sobre las marismas. Una ciudad llana, caminable y ventosa, ideal para recorrer con correa.`,
+      pt: `Trapani, a « foice » pousada sobre o mar na ponta ocidental da Sicília, deve o seu nome grego (Drepanon, foice) à língua de terra curva que abriga o seu porto. Fundada pelos élimos e depois entreposto cartaginês, foi o cais da montanha sagrada de Érice antes de se tornar, sob os aragoneses, um grande porto do sal e do coral. As suas salinas, exploradas desde a Antiguidade, ainda alinham os seus moinhos de vento entre o céu e a lagoa. A cidade velha, apertada sobre o seu esporão barroco, desenrola palácios, igrejas e a pedonal Via Torrearsa até aos molhes de onde se embarca para as ilhas Égadas e a Tunísia. Dominada por Érice, empoleirada a 750 metros e ligada por um espetacular teleférico, Trapani vive virada para a água: cuscuz de peixe, atum, sal e pores do sol sobre os pântanos. Uma cidade plana, percorrível a pé e ventosa, ideal para explorar com trela.`,
+    },
+    sights: [
+      {
+        name: `Centro Storico e Via Torrearsa`,
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `L'axe piéton du vieux Trapani file entre palais baroques, marché couvert et façades sur l'éperon marin. Tout se vit dehors en laisse : marché du matin, aperitivo et la promenade vers la cathédrale San Lorenzo.`,
+          en: `The pedestrian spine of old Trapani runs between baroque palaces, a covered market and facades on the sea spur. Everything happens outdoors on a leash: the morning market, aperitivo and the stroll to San Lorenzo cathedral.`,
+          es: `El eje peatonal del viejo Trapani discurre entre palacios barrocos, mercado cubierto y fachadas sobre el espolón marino. Todo se vive fuera con correa: el mercado matinal, el aperitivo y el paseo hacia la catedral de San Lorenzo.`,
+          pt: `O eixo pedonal da velha Trapani corre entre palácios barrocos, mercado coberto e fachadas sobre o esporão marinho. Tudo se vive ao ar livre com trela: o mercado da manhã, o aperitivo e o passeio até à catedral de San Lorenzo.`,
+        },
+      },
+      {
+        name: `Saline di Trapani e Riserva WWF`,
+        emoji: '🦩',
+        petFriendly: true,
+        desc: {
+          fr: `Les salines historiques, leurs moulins à vent et la réserve WWF forment une lagune plate où passent flamants et échasses. Sentiers de digues en plein air, chiens en laisse : très exposé au soleil, prévoyez eau et une visite tôt le matin ou au coucher.`,
+          en: `The historic salt pans, their windmills and the WWF reserve form a flat lagoon where flamingos and stilts pass through. Open-air dyke paths, dogs on a leash: very exposed to the sun, so bring water and visit early or at sunset.`,
+          es: `Las salinas históricas, sus molinos de viento y la reserva WWF forman una laguna llana por donde pasan flamencos y cigüeñuelas. Senderos de diques al aire libre, perros con correa: muy expuesto al sol, lleva agua y visítalo temprano o al atardecer.`,
+          pt: `As salinas históricas, os seus moinhos de vento e a reserva WWF formam uma lagoa plana por onde passam flamingos e pernilongos. Trilhos de diques ao ar livre, cães com trela: muito exposto ao sol, leve água e visite cedo ou ao pôr do sol.`,
+        },
+      },
+      {
+        name: `Funivia Trapani-Erice`,
+        emoji: '🚡',
+        petFriendly: true,
+        desc: {
+          fr: `Le téléphérique grimpe en dix minutes de Trapani à Érice avec un panorama sur les salines et les Égades. Les chiens tenus en laisse et muselés sont admis en cabine : muselière obligatoire, mieux vaut voyager hors des heures de pointe.`,
+          en: `The cable car climbs from Trapani to Erice in ten minutes with a panorama over the salt pans and the Egadi Islands. Dogs kept leashed and muzzled are allowed in the cabin: a muzzle is required, and it is best to travel outside peak hours.`,
+          es: `El teleférico sube de Trapani a Érice en diez minutos con vistas a las salinas y a las Égadas. Se admiten perros con correa y bozal en la cabina: el bozal es obligatorio y conviene viajar fuera de las horas punta.`,
+          pt: `O teleférico sobe de Trapani a Érice em dez minutos com panorama sobre as salinas e as Égadas. Cães com trela e açaime são admitidos na cabina: o açaime é obrigatório e é melhor viajar fora das horas de ponta.`,
+        },
+      },
+      {
+        name: `Erice`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Le bourg médiéval perché à 750 mètres, ruelles pavées, château de Vénus et remparts dans la brume. On y monte à pied ou en téléphérique et on l'arpente entièrement en laisse : sol glissant par temps humide, prévoyez de l'eau et des pauses à l'ombre.`,
+          en: `The medieval town perched at 750 metres, cobbled lanes, the castle of Venus and ramparts in the mist. Reach it on foot or by cable car and walk it entirely on a leash: the ground is slippery in damp weather, so bring water and shady breaks.`,
+          es: `El pueblo medieval encaramado a 750 metros, callejuelas empedradas, castillo de Venus y murallas entre la niebla. Se sube a pie o en teleférico y se recorre entero con correa: el suelo resbala con humedad, lleva agua y descansos a la sombra.`,
+          pt: `A vila medieval empoleirada a 750 metros, ruelas empedradas, castelo de Vénus e muralhas na bruma. Sobe-se a pé ou de teleférico e percorre-se toda com trela: o piso escorrega com humidade, leve água e pausas à sombra.`,
+        },
+      },
+      {
+        name: `Torre di Ligny`,
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: `La tour espagnole du XVIIe siècle marque la pointe extrême de la faucille, entre deux mers, avec l'un des plus beaux couchers de soleil de Sicile. Le môle et le sentier du bord de mer se parcourent en laisse, très venté et sans ombre.`,
+          en: `The 17th-century Spanish tower marks the far tip of the sickle, between two seas, with one of Sicily's finest sunsets. The mole and the seafront path are walked on a leash, very windy and shadeless.`,
+          es: `La torre española del siglo XVII marca la punta extrema de la hoz, entre dos mares, con una de las mejores puestas de sol de Sicilia. El muelle y el sendero costero se recorren con correa, muy ventoso y sin sombra.`,
+          pt: `A torre espanhola do século XVII marca a ponta extrema da foice, entre dois mares, com um dos mais belos pores do sol da Sicília. O molhe e o trilho à beira-mar percorrem-se com trela, muito ventoso e sem sombra.`,
+        },
+      },
+      {
+        name: `Isole Egadi (Favignana)`,
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `Depuis le port, les hydroglisseurs et le ferry desservent Favignana, Levanzo et Marettimo, aux eaux transparentes. Les chiens tenus en laisse et muselés sont admis à bord : Favignana se parcourt à vélo ou à pied entre criques et anciennes madragues.`,
+          en: `From the port, hydrofoils and the ferry serve Favignana, Levanzo and Marettimo, with crystal-clear water. Dogs kept leashed and muzzled are allowed aboard: Favignana is explored by bike or on foot among coves and old tuna traps.`,
+          es: `Desde el puerto, los hidroalas y el ferry conectan Favignana, Levanzo y Marettimo, de aguas transparentes. Se admiten perros con correa y bozal a bordo: Favignana se recorre en bici o a pie entre calas y antiguas almadrabas.`,
+          pt: `A partir do porto, os hidroplanadores e o ferry servem Favignana, Levanzo e Marettimo, de águas transparentes. Cães com trela e açaime são admitidos a bordo: Favignana percorre-se de bicicleta ou a pé entre enseadas e antigas armações de atum.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Règle italienne : laisse de 1,5 m maximum en ville et muselière à portée de main, exigible dans les transports, sur le téléphérique et les ferries ; amende possible si vous ne l'avez pas sur vous.`,
+        `Chaleur estivale sicilienne : de juin à septembre le thermomètre dépasse souvent 33 °C et les digues des salines n'offrent aucune ombre, sortez à l'aube ou au crépuscule et emportez toujours de l'eau.`,
+        `Bitume, sel et rochers brûlants l'après-midi : testez le sol du revers de la main avant de faire marcher votre chien et privilégiez les pauses à l'ombre des arcades du centre.`,
+        `Sicile endémique pour la leishmaniose (phlébotomes actifs au crépuscule d'avril à octobre) : parlez collier ou pipette répulsive avec votre vétérinaire avant le séjour.`,
+        `Plages : la plupart des lidos interdisent les chiens l'été ; visez les criques non surveillées, la côte de San Vito Lo Capo à une quarantaine de kilomètres, ou les zones canines signalées, tôt le matin.`,
+      ],
+      en: [
+        `Italian rule: a leash of 1.5 m maximum in town and a muzzle to hand, required on transport, the cable car and the ferries; you risk a fine if you do not carry one.`,
+        `Sicilian summer heat: from June to September the thermometer often tops 33 °C and the salt-pan dykes offer no shade, so walk at dawn or dusk and always carry water.`,
+        `Asphalt, salt and rocks are scorching in the afternoon: test the ground with the back of your hand before walking your dog and favour shady breaks under the town's arcades.`,
+        `Sicily is endemic for leishmaniasis (sandflies active at dusk from April to October): discuss a repellent collar or spot-on with your vet before the trip.`,
+        `Beaches: most lidos ban dogs in summer; aim for unpatrolled coves, the San Vito Lo Capo coast about forty kilometres away, or signposted dog areas, early in the morning.`,
+      ],
+      es: [
+        `Regla italiana: correa de 1,5 m máximo en ciudad y bozal a mano, exigible en el transporte, el teleférico y los ferris; te arriesgas a una multa si no lo llevas.`,
+        `Calor estival siciliano: de junio a septiembre el termómetro supera a menudo los 33 °C y los diques de las salinas no dan sombra, pasea al alba o al atardecer y lleva siempre agua.`,
+        `Asfalto, sal y rocas ardientes por la tarde: prueba el suelo con el dorso de la mano antes de sacar a tu perro y prioriza las pausas a la sombra de los soportales del centro.`,
+        `Sicilia es endémica de leishmaniosis (flebótomos activos al anochecer de abril a octubre): consulta con tu veterinario un collar o pipeta repelente antes del viaje.`,
+        `Playas: la mayoría de los lidos prohíben los perros en verano; busca calas sin vigilancia, la costa de San Vito Lo Capo a unos cuarenta kilómetros o las zonas caninas señalizadas, temprano por la mañana.`,
+      ],
+      pt: [
+        `Regra italiana: trela de 1,5 m no máximo na cidade e açaime à mão, exigível nos transportes, no teleférico e nos ferries; arrisca multa se não o levar consigo.`,
+        `Calor estival siciliano: de junho a setembro o termómetro ultrapassa muitas vezes os 33 °C e os diques das salinas não dão sombra, passeie de madrugada ou ao fim do dia e leve sempre água.`,
+        `Asfalto, sal e rochas escaldantes à tarde: teste o piso com as costas da mão antes de pôr o seu cão a andar e prefira pausas à sombra das arcadas do centro.`,
+        `A Sicília é endémica de leishmaniose (flebótomos ativos ao anoitecer de abril a outubro): fale com o seu veterinário sobre uma coleira ou pipeta repelente antes da viagem.`,
+        `Praias: a maioria dos lidos proíbe cães no verão; procure enseadas sem vigilância, a costa de San Vito Lo Capo a cerca de quarenta quilómetros ou as zonas caninas assinaladas, de manhã cedo.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences : 112 est le numéro européen unique en Italie ; Trapani compte plusieurs cliniques vétérinaires dans le centre et près du port, demandez le service de garde le plus proche à votre hôtel.`,
+        `Ferries et hydroglisseurs pour les Égades (Liberty Lines, Siremar) : chiens admis en laisse et muselés, un billet peut être exigé pour les grands chiens, vérifiez au guichet du port.`,
+        `Téléphérique Trapani-Érice : chiens en laisse et muselés admis en cabine ; c'est le moyen le plus simple d'atteindre le bourg perché sans la route en lacets.`,
+        `Plages : lidos interdits aux chiens l'été ; la côte de San Vito Lo Capo (une quarantaine de kilomètres) compte des criques et des sections canines signalées, à repérer avant de partir.`,
+        `Aéroport de Trapani-Birgi (Vincenzo Florio) à environ 15 km ; Italie dans l'UE, passeport européen pour animaux, puce et vaccination antirabique à jour.`,
+      ],
+      en: [
+        `Emergencies: 112 is Italy's single European number; Trapani has several veterinary clinics in the centre and near the port, ask your hotel for the nearest on-call service.`,
+        `Ferries and hydrofoils to the Egadi Islands (Liberty Lines, Siremar): dogs admitted leashed and muzzled, a ticket may be required for large dogs, check at the port desk.`,
+        `Trapani-Erice cable car: leashed and muzzled dogs allowed in the cabin; it is the easiest way to reach the perched town without the hairpin road.`,
+        `Beaches: lidos ban dogs in summer; the San Vito Lo Capo coast (about forty kilometres) has coves and signposted dog sections, worth scouting before you set off.`,
+        `Trapani-Birgi airport (Vincenzo Florio) is about 15 km away; Italy is in the EU, so bring the European pet passport with an up-to-date microchip and rabies vaccination.`,
+      ],
+      es: [
+        `Urgencias: 112 es el número europeo único en Italia; Trapani tiene varias clínicas veterinarias en el centro y cerca del puerto, pregunta en tu hotel por el servicio de guardia más cercano.`,
+        `Ferris e hidroalas a las islas Égadas (Liberty Lines, Siremar): perros admitidos con correa y bozal, puede exigirse billete para perros grandes, comprueba en la taquilla del puerto.`,
+        `Teleférico Trapani-Érice: perros con correa y bozal admitidos en la cabina; es la forma más sencilla de llegar al pueblo encaramado sin la carretera de curvas.`,
+        `Playas: los lidos prohíben los perros en verano; la costa de San Vito Lo Capo (unos cuarenta kilómetros) tiene calas y tramos caninos señalizados, conviene localizarlos antes de salir.`,
+        `Aeropuerto de Trapani-Birgi (Vincenzo Florio) a unos 15 km; Italia en la UE, pasaporte europeo para mascotas, microchip y vacuna antirrábica al día.`,
+      ],
+      pt: [
+        `Urgências: 112 é o número europeu único em Itália; Trapani tem várias clínicas veterinárias no centro e junto ao porto, pergunte no seu hotel pelo serviço de urgência mais próximo.`,
+        `Ferries e hidroplanadores para as ilhas Égadas (Liberty Lines, Siremar): cães admitidos com trela e açaime, pode ser exigido bilhete para cães grandes, confirme no balcão do porto.`,
+        `Teleférico Trapani-Érice: cães com trela e açaime admitidos na cabina; é a forma mais simples de chegar à vila empoleirada sem a estrada de curvas.`,
+        `Praias: os lidos proíbem cães no verão; a costa de San Vito Lo Capo (cerca de quarenta quilómetros) tem enseadas e troços caninos assinalados, vale a pena localizá-los antes de partir.`,
+        `Aeroporto de Trapani-Birgi (Vincenzo Florio) a cerca de 15 km; Itália na UE, passaporte europeu para animais, microchip e vacina antirrábica em dia.`,
+      ],
+    },
+  },
+
   trento: {
     history: {
       fr: `Tridentum romaine posée sur l'Adige, Trente doit son nom aux trois collines qui l'entourent et sa renommée au concile qui, de 1545 à 1563, y redessina l'Europe catholique. Gouvernée près de huit siècles par des princes-évêques depuis le Castello del Buonconsiglio, elle a gardé de la Renaissance ses palais aux façades peintes autour de la Piazza del Duomo. Autrichienne jusqu'en 1918, elle est aujourd'hui capitale d'une province autonome prospère, réputée pour sa qualité de vie. Ville d'études et de sciences avec le MUSE de Renzo Piano, elle reste avant tout une ville de montagne : la funivia grimpe à Sardagna en quatre minutes et le Monte Bondone culmine à plus de 2 000 mètres au-dessus des toits. Pour les chiens, c'est une ville d'aires clôturées, de parcs boisés et de sentiers alpins qui commencent presque en centre-ville.`,
@@ -43098,6 +43235,143 @@ const cityContent: Record<string, CityContent> = {
         `Secções de animais nos supermercados da vila na época alta; lojas de animais mais bem fornecidas em Barbate e nas zonas comerciais de La Línea e Algeciras`,
         `Aeroportos mais próximos: Jerez (XRY) e Gibraltar a cerca de 1h15 de estrada, com Sevilha e Málaga em alternativa; não há estação de comboio em Zahara, e os autocarros interurbanos Comes desde Cádis e Barbate aceitam cães pequenos em transportadora segundo as condições do operador`,
         `Passaporte europeu para animais, microchip e vacina antirrábica em dia obrigatórios; a Espanha está na UE, sem formalidades adicionais à chegada de França ou de Portugal`,
+      ],
+    },
+  },
+
+  zakynthos: {
+    history: {
+      fr: `Zante, joyau des îles Ioniennes, doit à Venise son surnom de « Fiore di Levante », la fleur de l'Orient. Quatre siècles sous la Sérénissime lui ont légué une élégance qui survécut aux séismes : après le tremblement de terre de 1953, Zante-ville fut reconstruite sur son plan vénitien, arcades de la place Solomos et campanile de l'église Saint-Denys en tête. Patrie du poète national Dionysios Solomos, l'île fut aussi un refuge célèbre pendant la Seconde Guerre mondiale. Mais Zante est surtout une nature spectaculaire : falaises calcaires de la côte ouest, la crique de Navagio et son épave, les grottes bleues du cap Skinari, et la baie de Laganas où la tortue caouanne vient pondre chaque été, aujourd'hui cœur d'un parc marin national strictement protégé. Entre montagnes couvertes d'oliviers et villages perchés, Zante se découvre au grand air, en laisse.`,
+      en: `Zakynthos, jewel of the Ionian Islands, owes to Venice its nickname "Fiore di Levante", the flower of the East. Four centuries under the Serenissima left it an elegance that outlived earthquakes: after the 1953 quake, Zakynthos Town was rebuilt on its Venetian plan, led by the arcades of Solomos Square and the campanile of the church of Saint Dionysios. Homeland of the national poet Dionysios Solomos, the island was also a celebrated refuge during the Second World War. But Zakynthos is above all spectacular nature: the limestone cliffs of the west coast, the Navagio cove with its shipwreck, the blue caves off Cape Skinari, and Laganas Bay where the loggerhead turtle nests each summer, now the heart of a strictly protected national marine park. Between olive-clad mountains and hilltop villages, Zakynthos is discovered in the open air, on a leash.`,
+      es: `Zante, joya de las islas Jónicas, debe a Venecia su apodo de « Fiore di Levante », la flor de Oriente. Cuatro siglos bajo la Serenísima le legaron una elegancia que sobrevivió a los terremotos: tras el seísmo de 1953, la ciudad de Zante se reconstruyó sobre su plano veneciano, con los soportales de la plaza Solomos y el campanario de la iglesia de San Dionisio a la cabeza. Patria del poeta nacional Dionisios Solomós, la isla fue también un refugio célebre durante la Segunda Guerra Mundial. Pero Zante es sobre todo naturaleza espectacular: los acantilados calcáreos de la costa oeste, la cala de Navagio y su pecio, las grutas azules del cabo Skinari y la bahía de Laganas, donde la tortuga boba anida cada verano, hoy corazón de un parque marino nacional estrictamente protegido. Entre montañas cubiertas de olivos y pueblos encaramados, Zante se descubre al aire libre, con correa.`,
+      pt: `Zákynthos, joia das ilhas Jónicas, deve a Veneza a sua alcunha de « Fiore di Levante », a flor do Oriente. Quatro séculos sob a Sereníssima deixaram-lhe uma elegância que sobreviveu aos sismos: após o terramoto de 1953, a cidade de Zákynthos foi reconstruída sobre o seu traçado veneziano, com as arcadas da praça Solomos e o campanário da igreja de São Dionísio à cabeça. Pátria do poeta nacional Dionísios Solomós, a ilha foi também um refúgio célebre durante a Segunda Guerra Mundial. Mas Zákynthos é sobretudo natureza espetacular: as falésias calcárias da costa oeste, a enseada de Navagio e o seu naufrágio, as grutas azuis do cabo Skinari e a baía de Laganas, onde a tartaruga-comum nidifica todos os verões, hoje coração de um parque marinho nacional rigorosamente protegido. Entre montanhas cobertas de oliveiras e aldeias empoleiradas, Zákynthos descobre-se ao ar livre, com trela.`,
+    },
+    sights: [
+      {
+        name: `Navagio Viewpoint`,
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `La crique de l'épave, image emblématique de l'île, n'est accessible que par bateau et son sable est fermé ou restreint depuis les éboulements (aggravés en 2024). Le belvédère au sommet de la falaise reste ouvert et se rejoint en voiture : chien en laisse courte, barrières à respecter, vertige garanti.`,
+          en: `The shipwreck cove, the island's signature image, is reachable only by boat and its sand has been closed or restricted since the rockfalls (worsened in 2024). The clifftop viewpoint stays open and is reached by car: dog on a short leash, respect the barriers, vertigo guaranteed.`,
+          es: `La cala del pecio, imagen emblemática de la isla, solo es accesible en barco y su arena está cerrada o restringida desde los desprendimientos (agravados en 2024). El mirador en lo alto del acantilado sigue abierto y se llega en coche: perro con correa corta, respeta las vallas, vértigo garantizado.`,
+          pt: `A enseada do naufrágio, imagem emblemática da ilha, só é acessível de barco e a sua areia está fechada ou restrita desde os desabamentos (agravados em 2024). O miradouro no topo da falésia continua aberto e chega-se de carro: cão com trela curta, respeite as barreiras, vertigem garantida.`,
+        },
+      },
+      {
+        name: `Galazia Spilia (Blue Caves)`,
+        emoji: '🚤',
+        petFriendly: true,
+        desc: {
+          fr: `Au cap Skinari, les arches calcaires renvoient un bleu électrique sous les petits bateaux. Les excursions partent d'Agios Nikolaos et de Skinari ; beaucoup de patrons acceptent un chien calme en laisse à bord, à confirmer avant d'embarquer.`,
+          en: `At Cape Skinari, the limestone arches throw back an electric blue beneath the small boats. Trips leave from Agios Nikolaos and Skinari; many skippers accept a calm dog on a leash aboard, worth confirming before boarding.`,
+          es: `En el cabo Skinari, los arcos calcáreos devuelven un azul eléctrico bajo las pequeñas embarcaciones. Las excursiones salen de Agios Nikolaos y Skinari; muchos patrones aceptan un perro tranquilo con correa a bordo, conviene confirmarlo antes de embarcar.`,
+          pt: `No cabo Skinari, os arcos calcários devolvem um azul elétrico sob os pequenos barcos. As excursões partem de Agios Nikolaos e Skinari; muitos patrões aceitam um cão calmo com trela a bordo, convém confirmar antes de embarcar.`,
+        },
+      },
+      {
+        name: `Zakynthos Town & Bochali`,
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Le front de mer reconstruit à la vénitienne, la place Solomos et la longue Strata Marina se parcourent en laisse. Montez à la colline de Bochali et au château vénitien pour le coucher de soleil sur toute la baie.`,
+          en: `The Venetian-style rebuilt seafront, Solomos Square and the long Strata Marina are walked on a leash. Climb to Bochali hill and the Venetian castle for sunset over the whole bay.`,
+          es: `El frente marítimo reconstruido al estilo veneciano, la plaza Solomos y el largo Strata Marina se recorren con correa. Sube a la colina de Bochali y al castillo veneciano para la puesta de sol sobre toda la bahía.`,
+          pt: `A frente de mar reconstruída ao estilo veneziano, a praça Solomos e a longa Strata Marina percorrem-se com trela. Suba à colina de Bochali e ao castelo veneziano para o pôr do sol sobre toda a baía.`,
+        },
+      },
+      {
+        name: `Laganas Bay (National Marine Park)`,
+        emoji: '🐢',
+        petFriendly: false,
+        desc: {
+          fr: `Cœur du parc marin national, les plages de ponte de la tortue caouanne (Laganas, Kalamaki, Gerakas, Dafni, Sekania) sont strictement réglementées : chiens tenus à l'écart, aucun accès aux plages la nuit de mai à octobre, nids balisés à ne jamais approcher. Respectez chaque panneau, c'est vital pour l'espèce.`,
+          en: `The heart of the national marine park, the loggerhead turtle nesting beaches (Laganas, Kalamaki, Gerakas, Dafni, Sekania) are strictly regulated: dogs kept well away, no beach access at night from May to October, marked nests never to be approached. Respect every sign, it is vital for the species.`,
+          es: `Corazón del parque marino nacional, las playas de puesta de la tortuga boba (Laganas, Kalamaki, Gerakas, Dafni, Sekania) están estrictamente reguladas: perros mantenidos alejados, sin acceso a las playas de noche de mayo a octubre, nidos balizados que nunca hay que acercarse. Respeta cada cartel, es vital para la especie.`,
+          pt: `Coração do parque marinho nacional, as praias de desova da tartaruga-comum (Laganas, Kalamaki, Gerakas, Dafni, Sekania) são rigorosamente reguladas: cães mantidos afastados, sem acesso às praias à noite de maio a outubro, ninhos balizados nunca a aproximar. Respeite cada placa, é vital para a espécie.`,
+        },
+      },
+      {
+        name: `Keri (caves and lighthouse)`,
+        emoji: '🪨',
+        petFriendly: true,
+        desc: {
+          fr: `Au sud-ouest, les grottes marines de Keri et le phare offrent falaises, arche de Mizithres et couchers de soleil. Le belvédère et les sentiers du cap se parcourent en laisse ; les grottes se voient depuis les bateaux qui partent du petit port de Limni Keriou.`,
+          en: `In the south-west, the Keri sea caves and lighthouse offer cliffs, the Mizithres sea stacks and sunsets. The viewpoint and cape paths are walked on a leash; the caves are seen from the boats leaving the little harbour of Limni Keriou.`,
+          es: `Al suroeste, las grutas marinas de Keri y el faro ofrecen acantilados, los islotes de Mizithres y puestas de sol. El mirador y los senderos del cabo se recorren con correa; las grutas se ven desde los barcos que salen del pequeño puerto de Limni Keriou.`,
+          pt: `A sudoeste, as grutas marinhas de Keri e o farol oferecem falésias, os ilhéus de Mizithres e pores do sol. O miradouro e os trilhos do cabo percorrem-se com trela; as grutas veem-se dos barcos que partem do pequeno porto de Limni Keriou.`,
+        },
+      },
+      {
+        name: `Gerakas Beach`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `L'une des plus belles plages de ponte du parc marin, à l'extrémité de la péninsule de Vasilikos. Zone protégée : accès fermé la nuit de mai à octobre, chiens interdits sur le sable, restez sur les sentiers et les points de vue en surplomb.`,
+          en: `One of the finest nesting beaches in the marine park, at the tip of the Vasilikos peninsula. Protected area: closed at night from May to October, dogs banned on the sand, so stay on the paths and the overlooking viewpoints.`,
+          es: `Una de las playas de puesta más bellas del parque marino, en el extremo de la península de Vasilikos. Zona protegida: acceso cerrado de noche de mayo a octubre, perros prohibidos en la arena, quédate en los senderos y los miradores elevados.`,
+          pt: `Uma das mais belas praias de desova do parque marinho, na ponta da península de Vasilikos. Zona protegida: acesso fechado à noite de maio a outubro, cães proibidos na areia, fique nos trilhos e nos miradouros elevados.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Parc marin national : chiens strictement tenus à l'écart des plages de ponte (Laganas, Kalamaki, Gerakas, Dafni, Sekania), aucun accès la nuit de mai à octobre, nids balisés à ne jamais approcher.`,
+        `Chaleur grecque extrême l'été : de juillet à septembre on dépasse souvent 33 °C, le sable et la roche brûlent l'après-midi, sortez tôt le matin ou au crépuscule et emportez toujours de l'eau.`,
+        `Testez le sol du revers de la main avant chaque promenade ; sur les belvédères des falaises (Navagio, Keri), gardez une laisse courte, les à-pics sont vertigineux et sans barrière continue.`,
+        `Sur les bateaux (grottes bleues, Navagio, Keri), confirmez la politique animaux avant d'embarquer et prévoyez ombre et eau ; beaucoup de petits opérateurs acceptent un chien calme en laisse.`,
+        `Grèce endémique pour la leishmaniose (phlébotomes au crépuscule) : parlez collier ou pipette répulsive avec votre vétérinaire avant le séjour, et emportez le carnet à jour.`,
+      ],
+      en: [
+        `National marine park: dogs strictly kept away from the nesting beaches (Laganas, Kalamaki, Gerakas, Dafni, Sekania), no access at night from May to October, marked nests never to be approached.`,
+        `Extreme Greek summer heat: from July to September it often tops 33 °C, sand and rock scorch in the afternoon, so walk early morning or at dusk and always carry water.`,
+        `Test the ground with the back of your hand before every walk; on the clifftop viewpoints (Navagio, Keri) keep a short leash, the drops are dizzying and without a continuous barrier.`,
+        `On boats (blue caves, Navagio, Keri) confirm the pet policy before boarding and plan for shade and water; many small operators accept a calm dog on a leash.`,
+        `Greece is endemic for leishmaniasis (sandflies at dusk): discuss a repellent collar or spot-on with your vet before the trip, and carry an up-to-date booklet.`,
+      ],
+      es: [
+        `Parque marino nacional: perros mantenidos estrictamente alejados de las playas de puesta (Laganas, Kalamaki, Gerakas, Dafni, Sekania), sin acceso de noche de mayo a octubre, nidos balizados que nunca hay que acercarse.`,
+        `Calor griego extremo en verano: de julio a septiembre se superan a menudo los 33 °C, la arena y la roca queman por la tarde, pasea temprano o al atardecer y lleva siempre agua.`,
+        `Prueba el suelo con el dorso de la mano antes de cada paseo; en los miradores de los acantilados (Navagio, Keri) mantén la correa corta, los precipicios son vertiginosos y sin barrera continua.`,
+        `En los barcos (grutas azules, Navagio, Keri) confirma la política de mascotas antes de embarcar y prevé sombra y agua; muchos pequeños operadores aceptan un perro tranquilo con correa.`,
+        `Grecia es endémica de leishmaniosis (flebótomos al anochecer): consulta con tu veterinario un collar o pipeta repelente antes del viaje y lleva la cartilla al día.`,
+      ],
+      pt: [
+        `Parque marinho nacional: cães mantidos rigorosamente afastados das praias de desova (Laganas, Kalamaki, Gerakas, Dafni, Sekania), sem acesso à noite de maio a outubro, ninhos balizados nunca a aproximar.`,
+        `Calor grego extremo no verão: de julho a setembro ultrapassam-se muitas vezes os 33 °C, a areia e a rocha escaldam à tarde, passeie de manhã cedo ou ao fim do dia e leve sempre água.`,
+        `Teste o piso com as costas da mão antes de cada passeio; nos miradouros das falésias (Navagio, Keri) mantenha a trela curta, os precipícios são vertiginosos e sem barreira contínua.`,
+        `Nos barcos (grutas azuis, Navagio, Keri) confirme a política de animais antes de embarcar e leve sombra e água; muitos pequenos operadores aceitam um cão calmo com trela.`,
+        `A Grécia é endémica de leishmaniose (flebótomos ao anoitecer): fale com o seu veterinário sobre uma coleira ou pipeta repelente antes da viagem e leve o boletim atualizado.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences : 112 est le numéro européen unique en Grèce ; Zante-ville concentre plusieurs cabinets vétérinaires, demandez le service de garde le plus proche à votre hôtel.`,
+        `Ferries depuis Kyllini (Péloponnèse) vers le port de Zante, environ 1 h (opérateurs comme Levante Ferries) : chiens admis en laisse et muselés, un billet peut être demandé, vérifiez au guichet.`,
+        `Règles du parc marin : aucun chien sur les plages de ponte (Laganas, Kalamaki, Gerakas, Dafni, Sekania) et fermeture nocturne de mai à octobre ; c'est l'erreur n°1 des visiteurs, respectez chaque panneau.`,
+        `Navagio : la crique elle-même est fermée ou restreinte depuis les éboulements ; visez le belvédère au sommet de la falaise, accessible en voiture et ouvert aux chiens en laisse.`,
+        `Grèce dans l'UE : passeport européen pour animaux, puce et vaccination antirabique à jour ; île montagneuse, prévoyez une voiture climatisée et de l'eau pour les trajets.`,
+      ],
+      en: [
+        `Emergencies: 112 is Greece's single European number; Zakynthos Town has several veterinary practices, ask your hotel for the nearest on-call service.`,
+        `Ferries from Kyllini (Peloponnese) to Zakynthos port, about 1 hour (operators such as Levante Ferries): dogs admitted leashed and muzzled, a ticket may be required, check at the desk.`,
+        `Marine park rules: no dogs on the nesting beaches (Laganas, Kalamaki, Gerakas, Dafni, Sekania) and night closure from May to October; it is visitors' number-one mistake, respect every sign.`,
+        `Navagio: the cove itself is closed or restricted since the rockfalls; aim for the clifftop viewpoint, reachable by car and open to leashed dogs.`,
+        `Greece is in the EU: European pet passport, up-to-date microchip and rabies vaccination; it is a mountainous island, so plan an air-conditioned car and water for the drives.`,
+      ],
+      es: [
+        `Urgencias: 112 es el número europeo único en Grecia; la ciudad de Zante concentra varias consultas veterinarias, pregunta en tu hotel por el servicio de guardia más cercano.`,
+        `Ferris desde Kyllini (Peloponeso) al puerto de Zante, alrededor de 1 h (operadores como Levante Ferries): perros admitidos con correa y bozal, puede exigirse billete, comprueba en la taquilla.`,
+        `Reglas del parque marino: sin perros en las playas de puesta (Laganas, Kalamaki, Gerakas, Dafni, Sekania) y cierre nocturno de mayo a octubre; es el error número uno de los visitantes, respeta cada cartel.`,
+        `Navagio: la cala en sí está cerrada o restringida desde los desprendimientos; busca el mirador en lo alto del acantilado, accesible en coche y abierto a perros con correa.`,
+        `Grecia en la UE: pasaporte europeo para mascotas, microchip y vacuna antirrábica al día; isla montañosa, prevé un coche con aire acondicionado y agua para los trayectos.`,
+      ],
+      pt: [
+        `Urgências: 112 é o número europeu único na Grécia; a cidade de Zákynthos concentra vários consultórios veterinários, pergunte no seu hotel pelo serviço de urgência mais próximo.`,
+        `Ferries desde Kyllini (Peloponeso) para o porto de Zákynthos, cerca de 1 h (operadores como a Levante Ferries): cães admitidos com trela e açaime, pode ser exigido bilhete, confirme no balcão.`,
+        `Regras do parque marinho: sem cães nas praias de desova (Laganas, Kalamaki, Gerakas, Dafni, Sekania) e encerramento noturno de maio a outubro; é o erro número um dos visitantes, respeite cada placa.`,
+        `Navagio: a enseada em si está fechada ou restrita desde os desabamentos; procure o miradouro no topo da falésia, acessível de carro e aberto a cães com trela.`,
+        `Grécia na UE: passaporte europeu para animais, microchip e vacina antirrábica em dia; ilha montanhosa, preveja um carro com ar condicionado e água para as viagens.`,
       ],
     },
   },

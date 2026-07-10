@@ -29846,6 +29846,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  paphos: {
+    history: {
+      fr: `Paphos, sur la côte sud-ouest de Chypre, mêle station balnéaire et archéologie classée au patrimoine mondial de l'UNESCO. Le Parc archéologique de Kato Paphos abrite d'extraordinaires mosaïques romaines, tandis que les Tombeaux des Rois déroulent leur nécropole rupestre face à la mer. Le port de plaisance, dominé par son petit château médiéval, ouvre sur une promenade animée, et le front de mer de Kato Paphos aligne tavernes et terrasses. Plus loin, la légende situe à Petra tou Romiou, le rocher d'Aphrodite, la naissance de la déesse dans l'écume. Vers le nord-ouest, la péninsule sauvage de l'Akamas et la baie de Lara, où pondent les tortues marines, offrent des paysages préservés. Le climat est méditerranéen à tendance sèche : les étés dépassent souvent 35 °C, le sable et la pierre brûlent, mais l'automne et le printemps sont doux et propices aux longues balades côtières en laisse.`,
+      en: `Paphos, on the south-west coast of Cyprus, blends a seaside resort with UNESCO World Heritage archaeology. The Kato Paphos Archaeological Park holds extraordinary Roman mosaics, while the Tombs of the Kings unfold their rock-cut necropolis facing the sea. The harbour, watched over by its small medieval castle, opens onto a lively promenade, and the Kato Paphos seafront lines up tavernas and terraces. Further out, legend places the birth of Aphrodite in the foam at Petra tou Romiou, the goddess's rock. To the north-west, the wild Akamas peninsula and Lara Bay, where sea turtles nest, offer unspoilt landscapes. The climate is dry Mediterranean: summers often top 35 °C and sand and stone scorch underfoot, but autumn and spring are mild and perfect for long leashed coastal walks. Cyprus drives on the left, a detail worth remembering with a dog in the car.`,
+      es: `Pafos, en la costa suroeste de Chipre, combina estación balnearia y arqueología declarada Patrimonio de la Humanidad por la Unesco. El Parque Arqueológico de Kato Pafos guarda extraordinarios mosaicos romanos, mientras que las Tumbas de los Reyes despliegan su necrópolis excavada en la roca frente al mar. El puerto, vigilado por su pequeño castillo medieval, se abre a un animado paseo, y el frente marítimo de Kato Pafos alinea tabernas y terrazas. Más allá, la leyenda sitúa en Petra tou Romiou, la roca de Afrodita, el nacimiento de la diosa entre la espuma. Hacia el noroeste, la salvaje península de Akamas y la bahía de Lara, donde anidan las tortugas marinas, ofrecen paisajes intactos. El clima es mediterráneo seco: los veranos superan a menudo los 35 °C y la arena y la piedra queman, pero el otoño y la primavera son suaves e ideales para largos paseos costeros con correa.`,
+      pt: `Pafos, na costa sudoeste de Chipre, combina estância balnear e arqueologia classificada como Património Mundial da UNESCO. O Parque Arqueológico de Kato Pafos guarda extraordinários mosaicos romanos, enquanto os Túmulos dos Reis desdobram a sua necrópole escavada na rocha virada para o mar. O porto, vigiado pelo seu pequeno castelo medieval, abre-se a um passeio animado, e a frente marítima de Kato Pafos alinha tabernas e esplanadas. Mais além, a lenda situa em Petra tou Romiou, a rocha de Afrodite, o nascimento da deusa entre a espuma. Para noroeste, a selvagem península de Akamas e a baía de Lara, onde nidificam as tartarugas marinhas, oferecem paisagens intactas. O clima é mediterrânico seco: os verões ultrapassam muitas vezes os 35 °C e a areia e a pedra queimam, mas o outono e a primavera são amenos e ideais para longos passeios costeiros à trela.`,
+    },
+    sights: [
+      {
+        name: 'Kato Paphos Harbour & Castle',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Le port historique, dominé par son petit fort médiéval, borde une promenade animée de tavernes et de bateaux de pêche. Les quais et le front de mer se parcourent agréablement en laisse, le tour intérieur du château ne se prête pas aux chiens.`,
+          en: `The historic harbour, watched over by its small medieval fort, edges a lively promenade of tavernas and fishing boats. The quays and seafront make a pleasant leashed walk, though the castle interior is not suited to dogs.`,
+          es: `El puerto histórico, dominado por su pequeño fuerte medieval, bordea un animado paseo de tabernas y barcas de pesca. Los muelles y el frente marítimo se recorren a gusto con correa, aunque el interior del castillo no es apto para perros.`,
+          pt: `O porto histórico, vigiado pelo seu pequeno forte medieval, orla um passeio animado de tabernas e barcos de pesca. Os cais e a frente marítima percorrem-se agradavelmente à trela, embora o interior do castelo não seja adequado a cães.`,
+        },
+      },
+      {
+        name: 'Kato Paphos Archaeological Park',
+        emoji: '🏛️',
+        petFriendly: false,
+        desc: {
+          fr: `Site classé à l'UNESCO célèbre pour ses mosaïques romaines des maisons de Dionysos et de Thésée. Les chiens ne sont pas admis à l'intérieur de l'enceinte archéologique, prévoyez la promenade du port voisin pour votre compagnon.`,
+          en: `A UNESCO-listed site famed for the Roman mosaics of the Houses of Dionysos and Theseus. Dogs are not admitted inside the archaeological enclosure, so plan the nearby harbour promenade for your companion.`,
+          es: `Sitio declarado Patrimonio de la Unesco célebre por los mosaicos romanos de las casas de Dionisos y Teseo. Los perros no pueden entrar en el recinto arqueológico, reserve el paseo del puerto cercano para su compañero.`,
+          pt: `Sítio classificado pela UNESCO célebre pelos mosaicos romanos das casas de Dioniso e Teseu. Os cães não são admitidos no recinto arqueológico, reserve o passeio do porto vizinho para o seu companheiro.`,
+        },
+      },
+      {
+        name: 'Tombs of the Kings',
+        emoji: '⚱️',
+        petFriendly: false,
+        desc: {
+          fr: `Vaste nécropole rupestre hellénistique et romaine taillée face à la mer, inscrite à l'UNESCO. Les chiens ne sont pas admis dans l'enceinte du site, mais le sentier côtier qui le longe se marche en laisse hors des heures chaudes.`,
+          en: `A vast Hellenistic and Roman rock-cut necropolis carved facing the sea, part of the UNESCO listing. Dogs are not allowed inside the fenced site, but the coastal path alongside it can be walked on the leash outside the hot hours.`,
+          es: `Vasta necrópolis helenística y romana excavada en la roca frente al mar, inscrita en la Unesco. Los perros no pueden entrar en el recinto, pero el sendero costero que lo bordea se recorre con correa fuera de las horas de calor.`,
+          pt: `Vasta necrópole helenística e romana escavada na rocha virada para o mar, inscrita na UNESCO. Os cães não podem entrar no recinto, mas o trilho costeiro que o ladeia percorre-se à trela fora das horas de calor.`,
+        },
+      },
+      {
+        name: 'Akamas Peninsula & Lara Bay',
+        emoji: '🐢',
+        petFriendly: true,
+        desc: {
+          fr: `Péninsule sauvage aux pistes et criques préservées, où la baie de Lara accueille la ponte des tortues marines. Chiens tenus en laisse et tenus à l'écart des zones de nidification en saison (été), emportez beaucoup d'eau car l'ombre est rare.`,
+          en: `A wild peninsula of unspoilt tracks and coves, where Lara Bay hosts the nesting of sea turtles. Keep dogs on the leash and well away from nesting zones in season (summer), and carry plenty of water as shade is scarce.`,
+          es: `Península salvaje de pistas y calas intactas, donde la bahía de Lara acoge el desove de las tortugas marinas. Mantenga a los perros con correa y lejos de las zonas de anidación en temporada (verano), y lleve mucha agua porque la sombra escasea.`,
+          pt: `Península selvagem de pistas e enseadas intactas, onde a baía de Lara acolhe a desova das tartarugas marinhas. Mantenha os cães à trela e afastados das zonas de nidificação na época (verão), e leve muita água pois a sombra é escassa.`,
+        },
+      },
+      {
+        name: 'Petra tou Romiou',
+        emoji: '🪨',
+        petFriendly: true,
+        desc: {
+          fr: `Le rocher d'Aphrodite, où la légende place la naissance de la déesse, domine une plage de galets battue par les flots. Le belvédère et le rivage se parcourent en laisse, mais ce n'est pas une plage canine officielle, la baignade des chiens y est à éviter.`,
+          en: `Aphrodite's Rock, where legend places the birth of the goddess, rises above a wave-washed pebble beach. The viewpoint and shore can be walked on the leash, but this is not a designated dog beach, so dog bathing is best avoided here.`,
+          es: `La roca de Afrodita, donde la leyenda sitúa el nacimiento de la diosa, domina una playa de guijarros batida por el oleaje. El mirador y la orilla se recorren con correa, pero no es una playa canina oficial, así que conviene evitar el baño de perros.`,
+          pt: `A rocha de Afrodite, onde a lenda situa o nascimento da deusa, ergue-se sobre uma praia de seixos batida pelas ondas. O miradouro e a margem percorrem-se à trela, mas não é uma praia canina oficial, pelo que se deve evitar o banho de cães.`,
+        },
+      },
+      {
+        name: 'Coral Bay',
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `Grande plage de sable doré très fréquentée au nord de Kato Paphos, prisée des familles. Les chiens y sont interdits comme sur les plages surveillées, rabattez-vous sur les plages canines officielles du district (Acheleia, Pitili).`,
+          en: `A large golden-sand beach, very busy, north of Kato Paphos and popular with families. Dogs are banned here as on all supervised beaches, so fall back on the district's designated dog beaches (Acheleia, Pitili).`,
+          es: `Amplia playa de arena dorada muy concurrida al norte de Kato Pafos, apreciada por las familias. Los perros están prohibidos como en las playas vigiladas, recurra a las playas caninas oficiales del distrito (Acheleia, Pitili).`,
+          pt: `Ampla praia de areia dourada muito frequentada a norte de Kato Pafos, apreciada pelas famílias. Os cães são proibidos como nas praias vigiadas, recorra às praias caninas oficiais do distrito (Acheleia, Pitili).`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Plages canines officielles uniquement : dans le district de Paphos, seules Acheleia (près de l'aéroport) et Pitili sont autorisées aux chiens ; ailleurs, sur une plage surveillée, l'amende atteint 85 €.`,
+        `Chaleur estivale extrême : les étés dépassent souvent 35 °C, le sable et la pierre brûlent les coussinets à midi, promenez tôt le matin ou en soirée et emportez toujours de l'eau.`,
+        `Chypre roule à gauche : soyez vigilant en traversant avec votre chien et à l'ouverture des portières côté circulation.`,
+        `Les grands sites archéologiques (Parc de Kato Paphos, Tombeaux des Rois) n'admettent pas les chiens dans leurs enceintes ; réservez pour votre compagnon la promenade du port et les sentiers côtiers de l'Akamas.`,
+        `Numéro d'urgence unique 112 ; passeport européen et vaccination antirabique à jour exigés à l'hôtel, repérez à l'arrivée une clinique vétérinaire de garde.`,
+      ],
+      en: [
+        `Designated dog beaches only: in the Paphos district only Acheleia (near the airport) and Pitili allow dogs; elsewhere, on a supervised beach, the fine reaches 85 euros.`,
+        `Extreme summer heat: summers often top 35 °C and sand and stone scorch paw pads at midday, so walk early morning or in the evening and always carry water.`,
+        `Cyprus drives on the left: take care crossing with your dog and when opening car doors on the traffic side.`,
+        `The major archaeological sites (Kato Paphos Park, Tombs of the Kings) do not admit dogs inside their enclosures; save the harbour promenade and the Akamas coastal paths for your companion.`,
+        `Single emergency number 112; EU pet passport and up-to-date rabies vaccination required at the hotel, and on arrival scout a duty vet clinic.`,
+      ],
+      es: [
+        `Playas caninas oficiales únicamente: en el distrito de Pafos solo Acheleia (cerca del aeropuerto) y Pitili admiten perros; en otra playa vigilada la multa alcanza los 85 euros.`,
+        `Calor estival extremo: los veranos superan a menudo los 35 °C y la arena y la piedra queman las almohadillas al mediodía, pasea a primera hora o al atardecer y lleva siempre agua.`,
+        `Chipre circula por la izquierda: ten cuidado al cruzar con tu perro y al abrir las puertas del lado del tráfico.`,
+        `Los grandes yacimientos arqueológicos (Parque de Kato Pafos, Tumbas de los Reyes) no admiten perros en sus recintos; reserva para tu compañero el paseo del puerto y los senderos costeros de Akamas.`,
+        `Número único de urgencias 112; pasaporte europeo y vacunación antirrábica al día exigidos en el hotel, y al llegar localiza una clínica veterinaria de guardia.`,
+      ],
+      pt: [
+        `Praias caninas oficiais apenas: no distrito de Pafos só Acheleia (perto do aeroporto) e Pitili admitem cães; noutra praia vigiada a multa chega aos 85 euros.`,
+        `Calor estival extremo: os verões ultrapassam muitas vezes os 35 °C e a areia e a pedra queimam as almofadas ao meio-dia, passeie de manhã cedo ou ao entardecer e leve sempre água.`,
+        `Chipre circula pela esquerda: tenha cuidado ao atravessar com o seu cão e ao abrir as portas do lado do trânsito.`,
+        `Os grandes sítios arqueológicos (Parque de Kato Pafos, Túmulos dos Reis) não admitem cães nos seus recintos; reserve para o seu companheiro o passeio do porto e os trilhos costeiros de Akamas.`,
+        `Número único de emergência 112; passaporte europeu e vacinação antirrábica em dia exigidos no hotel, e à chegada localize uma clínica veterinária de urgência.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen et vaccination antirabique à jour exigés à l'enregistrement dans les hôtels pet-friendly (Chypre est dans l'UE).`,
+        `Laisse et ramassage des déjections de rigueur ; baignade des chiens réservée aux plages canines officielles du district (Acheleia, Pitili), amende de 85 € sur une plage surveillée.`,
+        `Climat méditerranéen sec : étés très chauds (souvent plus de 35 °C, attention aux coussinets et au coup de chaleur), printemps et automne doux idéaux pour les promenades côtières.`,
+        `Chypre roule à gauche ; pas de train sur l'île, l'aéroport international de Paphos est à environ 15 km et des bus desservent la ville et la côte.`,
+        `Numéro d'urgence européen 112 ; la promenade du port et les pistes de l'Akamas offrent de belles balades en laisse hors des heures chaudes.`,
+      ],
+      en: [
+        `EU pet passport and up-to-date rabies vaccination required at check-in in pet-friendly hotels (Cyprus is in the EU).`,
+        `Leash and waste pick-up expected; dog bathing is limited to the district's designated dog beaches (Acheleia, Pitili), with an 85 euro fine on a supervised beach.`,
+        `Dry Mediterranean climate: very hot summers (often above 35 °C, mind paw pads and heatstroke), with mild spring and autumn ideal for coastal walks.`,
+        `Cyprus drives on the left; there are no trains on the island, Paphos International Airport is about 15 km away and buses serve the town and coast.`,
+        `European emergency number 112; the harbour promenade and the Akamas tracks offer fine leashed walks outside the hot hours.`,
+      ],
+      es: [
+        `Pasaporte europeo y vacunación antirrábica al día exigidos en el check-in de los hoteles pet-friendly (Chipre está en la UE).`,
+        `Correa y recogida de excrementos de rigor; el baño de perros se limita a las playas caninas oficiales del distrito (Acheleia, Pitili), con multa de 85 euros en una playa vigilada.`,
+        `Clima mediterráneo seco: veranos muy calurosos (a menudo más de 35 °C, cuidado con las almohadillas y el golpe de calor), primavera y otoño suaves ideales para los paseos costeros.`,
+        `Chipre circula por la izquierda; no hay tren en la isla, el aeropuerto internacional de Pafos está a unos 15 km y hay autobuses que sirven la ciudad y la costa.`,
+        `Número de urgencia europeo 112; el paseo del puerto y las pistas de Akamas ofrecen bonitos paseos con correa fuera de las horas de calor.`,
+      ],
+      pt: [
+        `Passaporte europeu e vacinação antirrábica em dia exigidos no check-in dos hotéis pet-friendly (Chipre está na UE).`,
+        `Trela e recolha de dejetos de rigor; o banho de cães limita-se às praias caninas oficiais do distrito (Acheleia, Pitili), com multa de 85 euros numa praia vigiada.`,
+        `Clima mediterrânico seco: verões muito quentes (muitas vezes acima de 35 °C, atenção às almofadas e ao golpe de calor), primavera e outono amenos ideais para os passeios costeiros.`,
+        `Chipre circula pela esquerda; não há comboio na ilha, o aeroporto internacional de Pafos fica a cerca de 15 km e há autocarros que servem a cidade e a costa.`,
+        `Número de emergência europeu 112; o passeio do porto e as pistas de Akamas oferecem belos passeios à trela fora das horas de calor.`,
+      ],
+    },
+  },
+
   paris: {
     history: {
       fr: `Paris est une ville de chien, et les Parisiens le savent depuis toujours. On compte aujourd'hui plus de 500 000 chiens dans la capitale, soit un pour huit habitants. Cette relation ancienne entre Paris et ses animaux remonte aux cafés du XVIIIe siècle, où les chiens accompagnaient leurs maîtres sur les banquettes. La ville a beau être la plus visitée au monde, elle conserve cette culture de proximité : les chiens sont admis dans la plupart des brasseries, dans les boutiques, dans les jardins sans laisse désignés. Le Bois de Boulogne (846 ha) et le Bois de Vincennes (995 ha) constituent deux poumons verts immenses, parcourus chaque matin par des milliers de chiens em liberté.`,
@@ -30600,6 +30737,143 @@ const cityContent: Record<string, CityContent> = {
         `Chegada: estação Perugia Fontivegge na linha Florença-Roma via Terontola; aeroporto San Francesco d'Assisi a 12 km.`,
         `Moeda: euro; esplanadas e táxis aceitam cartão, guarde moedas para as fontes de água e o Minimetrò.`,
         `Urgência veterinária: hospital universitário OVUD 24/7 (Via San Costanzo 4, +39 075 585 7792, urgência pequenos animais +39 335 572 4193); Clinica Veterinaria Cortonese também 24/7 (+39 075 505 5354).`,
+      ],
+    },
+  },
+
+  piran: {
+    history: {
+      fr: `Piran, à la pointe de la courte côte istrienne de Slovénie, est un joyau vénitien-gothique serré sur son promontoire. La place Tartini, ancien port comblé et cœur de la ville, porte le nom du violoniste Giuseppe Tartini, né ici, dont la statue veille sur les terrasses. Les remparts médievaux escaladent la colline et offrent, depuis leurs chemins de ronde, un panorama sur les toits rouges, la mer et le golfe de Trieste, tandis que l'église Saint-Georges couronne le sommet. En contrebas, les ruelles étroites et le port de pêche composent un dédale piétonnier presque sans voitures. Aux portes de la ville, le parc naturel des salines de Sečovlje perpétue une récolte de sel millénaire dans un paysage de bassins et d'oiseaux. La baignade se fait sur des enrochements plutôt que sur du sable, et la station voisine de Portorož prolonge le littoral. Le climat méditerranéen impose des étés chauds, mais la ville se parcourt à pied toute l'année.`,
+      en: `Piran, at the tip of Slovenia's short Istrian coast, is a Venetian-Gothic gem packed onto its headland. Tartini Square, a filled-in former harbour and the heart of town, is named after the violinist Giuseppe Tartini, born here, whose statue watches over the terraces. The medieval town walls climb the hill and give, from their walkways, a panorama over red roofs, the sea and the Gulf of Trieste, while the church of St George crowns the summit. Below, the narrow alleys and the fishing harbour form an almost car-free pedestrian maze. On the edge of town, the Sečovlje Salina Nature Park keeps up a thousand-year-old salt harvest in a landscape of pans and birds. Bathing is off rocky shelves rather than sand, and the neighbouring resort of Portorož extends the coastline. The Mediterranean climate brings hot summers, but the town is walkable on foot all year round.`,
+      es: `Piran, en el extremo de la breve costa istria de Eslovenia, es una joya véneto-gótica apretada sobre su promontorio. La plaza Tartini, antiguo puerto cegado y corazón de la ciudad, lleva el nombre del violinista Giuseppe Tartini, nacido aquí, cuya estatua vela sobre las terrazas. Las murallas medievales trepan por la colina y ofrecen, desde sus caminos de ronda, un panorama sobre los tejados rojos, el mar y el golfo de Trieste, mientras la iglesia de San Jorge corona la cima. Abajo, las callejuelas estrechas y el puerto de pesca forman un laberinto peatonal casi sin coches. A las puertas de la ciudad, el parque natural de las salinas de Sečovlje mantiene una recolección de sal milenaria en un paisaje de balsas y aves. El baño se hace sobre rocas más que sobre arena, y la vecina estación de Portorož prolonga el litoral. El clima mediterráneo trae veranos calurosos, pero la ciudad se recorre a pie todo el año.`,
+      pt: `Piran, na ponta da curta costa istriana da Eslovénia, é uma joia véneto-gótica apertada no seu promontório. A praça Tartini, antigo porto aterrado e coração da cidade, tem o nome do violinista Giuseppe Tartini, aqui nascido, cuja estátua vela sobre as esplanadas. As muralhas medievais sobem a colina e oferecem, dos seus adarves, um panorama sobre os telhados vermelhos, o mar e o golfo de Trieste, enquanto a igreja de São Jorge coroa o cume. Em baixo, as ruelas estreitas e o porto de pesca formam um labirinto pedonal quase sem carros. Às portas da cidade, o parque natural das salinas de Sečovlje mantém uma colheita de sal milenar numa paisagem de tanques e aves. Os banhos fazem-se sobre rochas mais do que sobre areia, e a vizinha estância de Portorož prolonga o litoral. O clima mediterrânico traz verões quentes, mas a cidade percorre-se a pé todo o ano.`,
+    },
+    sights: [
+      {
+        name: 'Tartinijev trg',
+        emoji: '🎻',
+        petFriendly: true,
+        desc: {
+          fr: `La place Tartini, cœur ovale et pavé de la ville, entourée de façades vénitiennes et de la statue du violoniste. Elle se traverse en laisse, entre terrasses de cafés et fenêtres gothiques, point de départ idéal pour explorer les ruelles.`,
+          en: `Tartini Square, the paved oval heart of town, ringed by Venetian facades and the statue of the violinist. It is crossed on the leash, among cafe terraces and Gothic windows, an ideal starting point for exploring the alleys.`,
+          es: `La plaza Tartini, corazón ovalado y empedrado de la ciudad, rodeada de fachadas venecianas y de la estatua del violinista. Se cruza con correa, entre terrazas de cafés y ventanas góticas, punto de partida ideal para explorar las callejuelas.`,
+          pt: `A praça Tartini, coração oval e calcetado da cidade, rodeada de fachadas venezianas e da estátua do violinista. Atravessa-se à trela, entre esplanadas de cafés e janelas góticas, ponto de partida ideal para explorar as ruelas.`,
+        },
+      },
+      {
+        name: 'Piran Town Walls',
+        emoji: '🧱',
+        petFriendly: true,
+        desc: {
+          fr: `Les remparts médiévaux qui escaladent la colline offrent le plus beau panorama sur les toits rouges, la mer et le golfe de Trieste. La montée et les chemins de ronde se font en laisse, escaliers raides et peu d'ombre, à éviter en pleine chaleur.`,
+          en: `The medieval walls climbing the hill give the finest panorama over the red roofs, the sea and the Gulf of Trieste. The climb and walkways are done on the leash, with steep steps and little shade, best avoided in full heat.`,
+          es: `Las murallas medievales que trepan por la colina ofrecen el mejor panorama sobre los tejados rojos, el mar y el golfo de Trieste. La subida y los caminos de ronda se hacen con correa, con escaleras empinadas y poca sombra, evítalos con mucho calor.`,
+          pt: `As muralhas medievais que sobem a colina oferecem o melhor panorama sobre os telhados vermelhos, o mar e o golfo de Trieste. A subida e os adarves fazem-se à trela, com escadas íngremes e pouca sombra, evite-os com muito calor.`,
+        },
+      },
+      {
+        name: 'Cerkev sv. Jurija',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `L'église Saint-Georges, campanile à la vénitienne, couronne la colline au-dessus de la vieille ville. L'intérieur n'accepte pas les chiens, mais la terrasse panoramique et le parvis se rejoignent en laisse pour une vue superbe sur les toits et la mer.`,
+          en: `The church of St George, with its Venetian-style bell tower, crowns the hill above the old town. The interior does not accept dogs, but the panoramic terrace and forecourt are reached on the leash for a superb view over the roofs and sea.`,
+          es: `La iglesia de San Jorge, con campanario al estilo veneciano, corona la colina sobre el casco antiguo. El interior no admite perros, pero la terraza panorámica y el atrio se alcanzan con correa para una vista soberbia sobre los tejados y el mar.`,
+          pt: `A igreja de São Jorge, com campanário ao estilo veneziano, coroa a colina sobre o casco antigo. O interior não aceita cães, mas o terraço panorâmico e o adro alcançam-se à trela para uma vista soberba sobre os telhados e o mar.`,
+        },
+      },
+      {
+        name: 'Piran Harbour & Old Town',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Le port de pêche et le dédale de ruelles médiévales composent un centre presque entièrement piétonnier. On y flâne en laisse entre maisons serrées, placettes et front de mer, loin des voitures reléguées aux parkings d'entrée de ville.`,
+          en: `The fishing harbour and the maze of medieval alleys make up an almost entirely pedestrian centre. You stroll on the leash among tightly packed houses, small squares and the seafront, far from the cars kept to the car parks at the town's edge.`,
+          es: `El puerto de pesca y el laberinto de callejuelas medievales forman un centro casi enteramente peatonal. Se pasea con correa entre casas apretadas, placitas y frente marítimo, lejos de los coches relegados a los aparcamientos de entrada.`,
+          pt: `O porto de pesca e o labirinto de ruelas medievais formam um centro quase totalmente pedonal. Passeia-se à trela entre casas apertadas, pracetas e frente marítima, longe dos carros relegados para os parques à entrada da cidade.`,
+        },
+      },
+      {
+        name: 'Krajinski park Sečoveljske soline',
+        emoji: '🧂',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc naturel des salines de Sečovlje déroule ses bassins de récolte de sel millénaire, refuge d'une riche avifaune. Les sentiers et digues se parcourent en laisse, paysage plat et sans ombre, prévoyez de l'eau et évitez le plein midi en été.`,
+          en: `The Sečovlje Salina Nature Park spreads out its thousand-year-old salt pans, a haven for rich birdlife. The paths and dykes are walked on the leash across a flat, shadeless landscape, so carry water and avoid midday in summer.`,
+          es: `El parque natural de las salinas de Sečovlje despliega sus balsas de recolección de sal milenaria, refugio de una rica avifauna. Los senderos y diques se recorren con correa por un paisaje llano y sin sombra, lleva agua y evita el mediodía en verano.`,
+          pt: `O parque natural das salinas de Sečovlje desdobra os seus tanques de colheita de sal milenar, refúgio de uma rica avifauna. Os trilhos e diques percorrem-se à trela por uma paisagem plana e sem sombra, leve água e evite o meio-dia no verão.`,
+        },
+      },
+      {
+        name: "Monty's Dog Beach",
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Première vraie plage canine de Slovénie, à Lucija près de Portorož, où les chiens se baignent sans laisse. Entrée gratuite, aire de jeu, coins ombragés, douche et bar : les plages de baignade publiques de Portorož et Piran, elles, interdisent les chiens.`,
+          en: `Slovenia's first real dog beach, at Lucija near Portorož, where dogs swim off the leash. Free entry, a play area, shaded corners, a shower and a bar: the public bathing beaches of Portorož and Piran, by contrast, ban dogs.`,
+          es: `Primera playa canina de verdad de Eslovenia, en Lucija cerca de Portorož, donde los perros se bañan sin correa. Entrada gratuita, zona de juego, rincones con sombra, ducha y bar: las playas de baño públicas de Portorož y Piran, en cambio, prohíben los perros.`,
+          pt: `Primeira verdadeira praia canina da Eslovénia, em Lucija perto de Portorož, onde os cães se banham sem trela. Entrada gratuita, zona de recreio, cantos com sombra, duche e bar: as praias de banho públicas de Portorož e Piran, pelo contrário, proíbem os cães.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les plages de baignade publiques de Piran et Portorož interdisent les chiens ; rabattez-vous sur Monty's Dog Beach à Lucija, première plage canine de Slovénie, où la baignade est libre et sans laisse.`,
+        `Chaleur méditerranéenne l'été : la baignade se fait sur des enrochements plutôt que du sable, promenez tôt ou en soirée et emportez de l'eau car la vieille ville et les remparts offrent peu d'ombre.`,
+        `Vieille ville quasi sans voitures : garez-vous aux parkings d'entrée (Fornače, Arze) puis rejoignez le centre à pied ou par la navette, chien en laisse dans les ruelles et sur la place Tartini.`,
+        `Les salines de Sečovlje se visitent en laisse mais le paysage est plat et sans ombre : évitez le plein midi en été et surveillez les coussinets sur les digues chaudes.`,
+        `Numéro d'urgence unique 112 ; passeport européen et vaccination antirabique à jour exigés à l'hôtel, repérez à l'arrivée une clinique vétérinaire de garde.`,
+      ],
+      en: [
+        `The public bathing beaches of Piran and Portorož ban dogs; fall back on Monty's Dog Beach at Lucija, Slovenia's first dog beach, where swimming is free and off the leash.`,
+        `Mediterranean summer heat: bathing is off rocky shelves rather than sand, so walk early or in the evening and carry water, as the old town and walls offer little shade.`,
+        `Almost car-free old town: park at the entrance car parks (Fornače, Arze) then reach the centre on foot or by shuttle, with the dog on the leash in the alleys and on Tartini Square.`,
+        `The Sečovlje salt pans can be visited on the leash but the landscape is flat and shadeless: avoid midday in summer and mind paw pads on the hot dykes.`,
+        `Single emergency number 112; EU pet passport and up-to-date rabies vaccination required at the hotel, and on arrival scout a duty vet clinic.`,
+      ],
+      es: [
+        `Las playas de baño públicas de Piran y Portorož prohíben los perros; recurre a Monty's Dog Beach en Lucija, primera playa canina de Eslovenia, donde el baño es libre y sin correa.`,
+        `Calor mediterráneo en verano: el baño se hace sobre rocas más que sobre arena, pasea temprano o al atardecer y lleva agua, porque el casco antiguo y las murallas dan poca sombra.`,
+        `Casco antiguo casi sin coches: aparca en los aparcamientos de entrada (Fornače, Arze) y llega al centro a pie o en lanzadera, con el perro con correa en las callejuelas y en la plaza Tartini.`,
+        `Las salinas de Sečovlje se visitan con correa pero el paisaje es llano y sin sombra: evita el mediodía en verano y vigila las almohadillas en los diques calientes.`,
+        `Número único de urgencias 112; pasaporte europeo y vacunación antirrábica al día exigidos en el hotel, y al llegar localiza una clínica veterinaria de guardia.`,
+      ],
+      pt: [
+        `As praias de banho públicas de Piran e Portorož proíbem os cães; recorra à Monty's Dog Beach em Lucija, primeira praia canina da Eslovénia, onde o banho é livre e sem trela.`,
+        `Calor mediterrânico no verão: os banhos fazem-se sobre rochas mais do que sobre areia, passeie cedo ou ao entardecer e leve água, pois o casco antigo e as muralhas dão pouca sombra.`,
+        `Casco antigo quase sem carros: estacione nos parques à entrada (Fornače, Arze) e chegue ao centro a pé ou de shuttle, com o cão à trela nas ruelas e na praça Tartini.`,
+        `As salinas de Sečovlje visitam-se à trela mas a paisagem é plana e sem sombra: evite o meio-dia no verão e vigie as almofadas nos diques quentes.`,
+        `Número único de emergência 112; passaporte europeu e vacinação antirrábica em dia exigidos no hotel, e à chegada localize uma clínica veterinária de urgência.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen et vaccination antirabique à jour exigés à l'enregistrement dans les hôtels pet-friendly (la Slovénie est dans l'UE).`,
+        `Laisse et ramassage des déjections de rigueur ; chiens interdits sur les plages de baignade publiques, plage canine à Lucija (Monty's Dog Beach), baignade libre et sans laisse.`,
+        `Climat méditerranéen : étés chauds (attention aux coussinets et au coup de chaleur), côte rocheuse plutôt que sableuse, arrière-saison douce idéale pour les promenades.`,
+        `Vieille ville piétonne : stationnement aux parkings d'entrée (Fornače, Arze) puis navette ou marche ; bus et bateaux saisonniers relient Portorož, Trieste et la côte, Ljubljana à environ 1h30 en voiture.`,
+        `Numéro d'urgence européen 112 ; la place Tartini, les remparts et le port se parcourent en laisse toute l'année.`,
+      ],
+      en: [
+        `EU pet passport and up-to-date rabies vaccination required at check-in in pet-friendly hotels (Slovenia is in the EU).`,
+        `Leash and waste pick-up expected; dogs banned on public bathing beaches, with a dog beach at Lucija (Monty's Dog Beach) where swimming is free and off the leash.`,
+        `Mediterranean climate: hot summers (mind paw pads and heatstroke), a rocky rather than sandy coast, with a mild shoulder season ideal for walks.`,
+        `Pedestrian old town: park at the entrance car parks (Fornače, Arze) then take the shuttle or walk; buses and seasonal boats link Portorož, Trieste and the coast, with Ljubljana about 1h30 away by car.`,
+        `European emergency number 112; Tartini Square, the town walls and the harbour can be walked on the leash all year.`,
+      ],
+      es: [
+        `Pasaporte europeo y vacunación antirrábica al día exigidos en el check-in de los hoteles pet-friendly (Eslovenia está en la UE).`,
+        `Correa y recogida de excrementos de rigor; perros prohibidos en las playas de baño públicas, con playa canina en Lucija (Monty's Dog Beach) donde el baño es libre y sin correa.`,
+        `Clima mediterráneo: veranos calurosos (cuidado con las almohadillas y el golpe de calor), costa rocosa más que arenosa, temporada media suave ideal para los paseos.`,
+        `Casco antiguo peatonal: aparcamiento en las entradas (Fornače, Arze) y luego lanzadera o a pie; autobuses y barcos estacionales enlazan Portorož, Trieste y la costa, Liubliana a unos 1h30 en coche.`,
+        `Número de urgencia europeo 112; la plaza Tartini, las murallas y el puerto se recorren con correa todo el año.`,
+      ],
+      pt: [
+        `Passaporte europeu e vacinação antirrábica em dia exigidos no check-in dos hotéis pet-friendly (a Eslovénia está na UE).`,
+        `Trela e recolha de dejetos de rigor; cães proibidos nas praias de banho públicas, com praia canina em Lucija (Monty's Dog Beach) onde o banho é livre e sem trela.`,
+        `Clima mediterrânico: verões quentes (atenção às almofadas e ao golpe de calor), costa rochosa mais do que arenosa, época baixa amena ideal para os passeios.`,
+        `Casco antigo pedonal: estacionamento nas entradas (Fornače, Arze) e depois shuttle ou a pé; autocarros e barcos sazonais ligam Portorož, Trieste e a costa, Liubliana a cerca de 1h30 de carro.`,
+        `Número de emergência europeu 112; a praça Tartini, as muralhas e o porto percorrem-se à trela todo o ano.`,
       ],
     },
   },

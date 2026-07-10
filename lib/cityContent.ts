@@ -28544,6 +28544,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'oropesa-del-mar': {
+    history: {
+      fr: `Oropesa del Mar, Orpesa en valencien, veille sur la Costa del Azahar depuis sa colline coiffée d'une vieille ville aux ruelles blanches, dans la province de Castellón. La Torre del Rey, tour de guet côtière élevée au XVIe siècle contre les incursions barbaresques, en reste le symbole, tandis que le phare domine le cap et que la Playa de la Concha et la Playa Morro de Gos, pavillon bleu, déroulent leur sable au pied du bourg. Longtemps village de pêcheurs, Oropesa est devenue une station familiale de la Méditerranée, marquée par l'immense complexe de Marina d'Or juste au sud. Autour, la Via Verde du littoral et le sentier de Voramar invitent à marcher au ras de l'eau, et la zone humide du Prat de Cabanes-Torreblanca, toute proche, protège lagunes et oiseaux. Avec un chien, la ville plate et balnéaire se parcourt aisément hors de la canicule estivale.`,
+      en: `Oropesa del Mar, Orpesa in Valencian, watches over the Costa del Azahar from its hilltop old town of white lanes, in the province of Castellón. The Torre del Rey, a coastal watchtower raised in the 16th century against Barbary raids, remains its emblem, while the lighthouse crowns the headland and the Playa de la Concha and blue-flag Playa Morro de Gos spread their sand at the foot of the town. Long a fishing village, Oropesa has become a family seaside resort on the Mediterranean, marked by the vast Marina d'Or complex just to the south. Around it, the coastal Via Verde greenway and the Voramar path invite walks at the water's edge, while the nearby Prat de Cabanes-Torreblanca wetland shelters lagoons and birds. With a dog, the flat seaside town is easy to explore outside the summer heat.`,
+      es: `Oropesa del Mar, Orpesa en valenciano, vela por la Costa del Azahar desde su casco antiguo encaramado en una colina de callejas blancas, en la provincia de Castellón. La Torre del Rey, atalaya costera levantada en el siglo XVI contra las incursiones berberiscas, sigue siendo su emblema, mientras el faro corona el cabo y la Playa de la Concha y la Playa Morro de Gos, con bandera azul, extienden su arena al pie del pueblo. Antiguo pueblo de pescadores, Oropesa se ha convertido en una estación familiar del Mediterráneo, marcada por el enorme complejo de Marina d'Or justo al sur. Alrededor, la Vía Verde del litoral y el paseo de Voramar invitan a caminar a ras del agua, y el humedal del Prat de Cabanes-Torreblanca, muy cercano, protege lagunas y aves. Con un perro, la ciudad llana y playera se recorre con facilidad fuera del calor estival.`,
+      pt: `Oropesa del Mar, Orpesa em valenciano, vela pela Costa del Azahar a partir do seu casco antigo empoleirado numa colina de ruelas brancas, na província de Castellón. A Torre del Rey, atalaia costeira erguida no século XVI contra as incursões berberes, continua a ser o seu emblema, enquanto o farol coroa o cabo e a Playa de la Concha e a Playa Morro de Gos, com bandeira azul, estendem a sua areia ao pé da vila. Antiga aldeia de pescadores, Oropesa tornou-se uma estância familiar do Mediterrâneo, marcada pelo enorme complexo de Marina d'Or logo a sul. Em redor, a Via Verde do litoral e o passeio de Voramar convidam a caminhar rente à água, e a zona húmida do Prat de Cabanes-Torreblanca, muito próxima, protege lagunas e aves. Com um cão, a cidade plana e balnear percorre-se facilmente fora do calor estival.`,
+    },
+    sights: [
+      {
+        name: 'Torre del Rey',
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: `Tour de guet du XVIe siècle dressée face à la mer pour surveiller les côtes contre les pirates barbaresques. Monument en accès libre à l'extérieur, on en fait le tour en laisse le long du front de mer.`,
+          en: `A 16th-century watchtower standing over the sea, built to guard the coast against Barbary pirates. Freely accessible outside, you can walk around it on the leash along the seafront.`,
+          es: `Atalaya del siglo XVI alzada frente al mar para vigilar la costa contra los piratas berberiscos. Monumento de acceso libre por fuera, se rodea con correa a lo largo del paseo marítimo.`,
+          pt: `Atalaia do século XVI erguida frente ao mar para vigiar a costa contra os piratas berberes. Monumento de acesso livre pelo exterior, contorna-se à trela ao longo da frente-mar.`,
+        },
+      },
+      {
+        name: 'Casco Antiguo de Oropesa',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Vieille ville perchée aux ruelles blanches, place de l'église et vestiges de l'ancien château dominant la baie. On y flâne en laisse, entre terrasses et points de vue sur la mer.`,
+          en: `The hilltop old town of white lanes, church square and remains of the old castle overlooking the bay. You wander it on the leash, among terraces and sea viewpoints.`,
+          es: `Casco antiguo encaramado de callejas blancas, plaza de la iglesia y restos del antiguo castillo dominando la bahía. Se pasea con correa, entre terrazas y miradores al mar.`,
+          pt: `Casco antigo empoleirado de ruelas brancas, largo da igreja e vestígios do antigo castelo a dominar a baía. Passeia-se à trela, entre esplanadas e miradouros sobre o mar.`,
+        },
+      },
+      {
+        name: 'Faro de Oropesa',
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          fr: `Phare qui coiffe le cap au bout de la vieille ville, ouvrant sur un large panorama de la Méditerranée. L'intérieur ne se visite pas, mais l'esplanade et le sentier alentour se parcourent en laisse.`,
+          en: `A lighthouse crowning the cape at the end of the old town, opening onto a wide Mediterranean panorama. The interior is not open, but the esplanade and surrounding path can be walked on the leash.`,
+          es: `Faro que corona el cabo al final del casco antiguo, abriéndose a un amplio panorama del Mediterráneo. El interior no se visita, pero la explanada y el sendero de alrededor se recorren con correa.`,
+          pt: `Farol que coroa o cabo no fim do casco antigo, abrindo-se para um amplo panorama do Mediterrâneo. O interior não se visita, mas a esplanada e o trilho em redor percorrem-se à trela.`,
+        },
+      },
+      {
+        name: 'Playa de la Concha',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Plage urbaine de sable au pied de la vieille ville, en arc abrité, bordée d'une promenade animée. Baignade et jeux hors saison ; l'été, les chiens sont interdits sur le sable surveillé, repérez la zone autorisée.`,
+          en: `An urban sandy beach at the foot of the old town, a sheltered curve backed by a lively promenade. Swimming and play off-season; in summer dogs are banned from the patrolled sand, so find the permitted zone.`,
+          es: `Playa urbana de arena al pie del casco antiguo, en arco resguardado, con un paseo animado. Baño y juegos fuera de temporada; en verano los perros no pueden pisar la arena vigilada, busca la zona permitida.`,
+          pt: `Praia urbana de areia ao pé do casco antigo, em arco resguardado, ladeada por um passeio animado. Banho e brincadeira fora de época; no verão os cães são proibidos na areia vigiada, procure a zona permitida.`,
+        },
+      },
+      {
+        name: 'Vía Verde del Mar',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Ancienne voie ferrée reconvertie en promenade côtière plate reliant Oropesa à Benicàssim au ras des criques. Idéale pour marcher ou courir avec un chien en laisse, à l'ombre des pins et face à la mer.`,
+          en: `A former railway turned flat coastal path linking Oropesa to Benicàssim along the coves. Ideal for walking or running with a leashed dog, shaded by pines and facing the sea.`,
+          es: `Antigua vía de tren reconvertida en paseo costero llano que une Oropesa con Benicàssim junto a las calas. Ideal para caminar o correr con un perro con correa, a la sombra de los pinos y frente al mar.`,
+          pt: `Antiga linha de comboio reconvertida em passeio costeiro plano que liga Oropesa a Benicàssim junto às enseadas. Ideal para caminhar ou correr com um cão à trela, à sombra dos pinheiros e frente ao mar.`,
+        },
+      },
+      {
+        name: 'Prat de Cabanes-Torreblanca',
+        emoji: '🦩',
+        petFriendly: true,
+        desc: {
+          fr: `Parc naturel de lagunes et de marais côtiers au nord d'Oropesa, refuge d'oiseaux d'eau et de tortues. Sentiers et observatoires se parcourent en laisse ; restez sur les chemins pour préserver la faune.`,
+          en: `A natural park of coastal lagoons and marsh north of Oropesa, a refuge for waterbirds and turtles. Trails and hides can be walked on the leash; stay on the paths to protect the wildlife.`,
+          es: `Parque natural de lagunas y marismas costeras al norte de Oropesa, refugio de aves acuáticas y tortugas. Senderos y observatorios se recorren con correa; no salgas de los caminos para preservar la fauna.`,
+          pt: `Parque natural de lagunas e sapais costeiros a norte de Oropesa, refúgio de aves aquáticas e tartarugas. Trilhos e observatórios percorrem-se à trela; mantenha-se nos caminhos para preservar a fauna.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Chaleur méditerranéenne intense de juin à septembre : le sable et le bitume brûlent les coussinets, promenez tôt le matin ou en soirée et emportez toujours de l'eau.`,
+        `Interdiction estivale des chiens sur les plages urbaines (La Concha, Morro de Gos) en haute saison ; renseignez-vous sur place, la côte de Castellón compte quelques playas caninas où ils sont admis.`,
+        `Les races cataloguées PPP (chiens potentiellement dangereux) doivent porter laisse courte et muselière dans l'espace public, papiers en règle.`,
+        `Prévention leishmaniose recommandée : le phlébotome est actif du printemps à l'automne sur toute la côte méditerranéenne, pensez à un antiparasitaire adapté.`,
+        `Numéro d'urgence unique 112 ; repérez à l'arrivée une clinique vétérinaire de garde, l'offre se concentre à Oropesa et vers Benicàssim et Castellón.`,
+      ],
+      en: [
+        `Intense Mediterranean heat from June to September: sand and pavement burn paws, so walk early morning or evening and always carry water.`,
+        `Summer ban on dogs at the urban beaches (La Concha, Morro de Gos) in high season; ask locally, the Castellón coast has a few dog beaches (playas caninas) where they are allowed.`,
+        `Breeds listed as PPP (potentially dangerous dogs) must wear a short leash and muzzle in public, with papers in order.`,
+        `Leishmaniasis prevention is advised: the sandfly is active from spring to autumn all along the Mediterranean coast, so use a suitable repellent treatment.`,
+        `Single emergency number 112; on arrival scout a duty vet clinic, provision is concentrated in Oropesa and toward Benicàssim and Castellón.`,
+      ],
+      es: [
+        `Calor mediterráneo intenso de junio a septiembre: la arena y el asfalto queman las almohadillas, pasea temprano o al atardecer y lleva siempre agua.`,
+        `Prohibición estival de perros en las playas urbanas (La Concha, Morro de Gos) en temporada alta; pregunta sobre el terreno, la costa de Castellón tiene algunas playas caninas donde sí se admiten.`,
+        `Las razas catalogadas PPP (perros potencialmente peligrosos) deben llevar correa corta y bozal en la vía pública, con la documentación en regla.`,
+        `Se recomienda prevención de la leishmaniosis: el flebótomo está activo de primavera a otoño en toda la costa mediterránea, usa un antiparasitario adecuado.`,
+        `Número único de urgencias 112; al llegar localiza una clínica veterinaria de guardia, la oferta se concentra en Oropesa y hacia Benicàssim y Castellón.`,
+      ],
+      pt: [
+        `Calor mediterrânico intenso de junho a setembro: a areia e o asfalto queimam as almofadas das patas, passeie de manhã cedo ou ao fim do dia e leve sempre água.`,
+        `Proibição estival de cães nas praias urbanas (La Concha, Morro de Gos) em época alta; informe-se no local, a costa de Castellón tem algumas praias caninas onde são admitidos.`,
+        `As raças catalogadas como PPP (cães potencialmente perigosos) devem usar trela curta e açaime na via pública, com a documentação em ordem.`,
+        `Recomenda-se a prevenção da leishmaniose: o flebótomo está ativo da primavera ao outono em toda a costa mediterrânica, use um antiparasitário adequado.`,
+        `Número único de emergência 112; à chegada localize uma clínica veterinária de urgência, a oferta concentra-se em Oropesa e em direção a Benicàssim e Castellón.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen et vaccination antirabique à jour exigés à l'enregistrement dans les hôtels pet-friendly.`,
+        `Laisse obligatoire dans l'espace public ; muselière requise pour les races PPP, ramassage des déjections sous peine d'amende municipale.`,
+        `Plages urbaines interdites aux chiens l'été (grosso modo de mi-juin à mi-septembre) ; hors saison, l'accès au sable est généralement toléré, vérifiez la signalétique.`,
+        `Village très plat et piéton en bord de mer ; les trains Renfe de la ligne Castellón-Barcelone admettent les petits chiens en sac et les grands chiens muselés selon les conditions en vigueur.`,
+        `Numéro d'urgence européen 112 ; anticipez la forte chaleur estivale et le sable brûlant pour toute sortie avec un chien.`,
+      ],
+      en: [
+        `EU pet passport and up-to-date rabies vaccination required at check-in in pet-friendly hotels.`,
+        `Leash mandatory in public; a muzzle is required for PPP breeds, and waste pick-up is enforced under threat of a municipal fine.`,
+        `Urban beaches are closed to dogs in summer (roughly mid-June to mid-September); off-season, access to the sand is generally tolerated, so check the signs.`,
+        `A very flat, walkable seaside town; Renfe trains on the Castellón-Barcelona line accept small dogs in a carrier and larger muzzled dogs under the rules in force.`,
+        `European emergency number 112; plan around strong summer heat and scorching sand for any outing with a dog.`,
+      ],
+      es: [
+        `Pasaporte europeo y vacunación antirrábica al día exigidos en el check-in de los hoteles pet-friendly.`,
+        `Correa obligatoria en la vía pública; bozal requerido para las razas PPP y recogida de excrementos bajo multa municipal.`,
+        `Playas urbanas cerradas a los perros en verano (aproximadamente de mediados de junio a mediados de septiembre); fuera de temporada, el acceso a la arena suele tolerarse, comprueba la señalización.`,
+        `Pueblo muy llano y peatonal junto al mar; los trenes Renfe de la línea Castellón-Barcelona admiten perros pequeños en transportín y perros grandes con bozal según las condiciones vigentes.`,
+        `Número de urgencia europeo 112; anticipa el fuerte calor estival y la arena ardiente en cualquier salida con perro.`,
+      ],
+      pt: [
+        `Passaporte europeu e vacinação antirrábica em dia exigidos no check-in dos hotéis pet-friendly.`,
+        `Trela obrigatória na via pública; açaime exigido para as raças PPP e recolha de dejetos sob multa municipal.`,
+        `Praias urbanas fechadas a cães no verão (sensivelmente de meados de junho a meados de setembro); fora de época, o acesso à areia é geralmente tolerado, confirme a sinalização.`,
+        `Vila muito plana e pedonal à beira-mar; os comboios Renfe da linha Castellón-Barcelona aceitam cães pequenos em transportadora e cães grandes com açaime segundo as condições em vigor.`,
+        `Número de emergência europeu 112; conte com o forte calor estival e a areia escaldante em qualquer saída com um cão.`,
+      ],
+    },
+  },
+
   oslo: {
     history: {
       fr: `Fondée vers 1040 au fond de son fjord, Oslo fut reconstruite par Christian IV après l'incendie de 1624 sous le nom de Christiania, avant de reprendre son nom actuel en 1925. Peuplée d'environ 710 000 habitants, la capitale norvégienne est encerclée par la forêt de Marka et affiche l'un des taux de possession canine les plus élevés d'Europe, avec près de 75 000 chiens enregistrés. Les Norvégiens considèrent leurs chiens comme de la famille : la loi båndtvang impose la laisse du 1er avril au 20 août pour protéger faune et moutons, mais hors saison les sentiers de Nordmarka deviennent un paradis sans laisse. Oslo compte des dizaines de hundeparker clôturés, Torshovdalen, Sofienbergparken, St. Hanshaugen, et les chiens voyagent pour un tarif enfant dans tous les transports. Cafés, hôtels et certains musées les accueillent ; ramasser est obligatoire, sous peine d'une amende de 1 600 NOK.`,
@@ -28677,6 +28814,143 @@ const cityContent: Record<string, CityContent> = {
         'Urgência veterinária 24 h: AniCura Dyresykehus, Ensjøveien 14, +47 22 68 35 00.',
         'O ferry de Bygdøy (línea B9, abril-outubro) sale de Rådhusbrygge 3, admite cães grátis e llega a museus e praias en 15 min.',
         'O água do grifo procede do lago Maridalsvannet vía Oset e é potable em toda a cidade, no hace falta comprar água embotellada.',
+      ],
+    },
+  },
+
+  ostend: {
+    history: {
+      fr: `Ostende, Oostende en néerlandais, est surnommée la Reine de la côte belge. Ancien port de pêche fortifié de Flandre-Occidentale, elle devint au XIXe siècle la station balnéaire favorite des rois des Belges, qui y firent bâtir digues, galeries et le somptueux Kursaal. Léopold II y laissa les Galeries royales, longue promenade couverte face à la mer du Nord, et la ville reste marquée par le peintre James Ensor, enfant du pays. Sa vaste plage de sable et sa digue rectiligne, battues par les vents, s'étirent sur des kilomètres, tandis que le trois-mâts Mercator et le port de plaisance rappellent le passé maritime. Le Kusttram, plus longue ligne de tram du monde, dessert toute la côte depuis Ostende, et le site du Mur de l'Atlantique à Raversyde en garde les traces de guerre. Avec un chien, la plage offre de larges zones autorisées hors saison et des secteurs canins dédiés l'été, et la digue se marche toute l'année en laisse.`,
+      en: `Ostend, Oostende in Dutch, is nicknamed the Queen of the Belgian Coast. A former fortified fishing port in West Flanders, in the 19th century it became the favourite seaside resort of the Belgian kings, who built its sea walls, galleries and the sumptuous Kursaal. Leopold II left the Royal Galleries, a long covered promenade facing the North Sea, and the town is still marked by the painter James Ensor, a local son. Its wide sandy beach and straight, wind-swept dyke stretch for kilometres, while the three-master Mercator and the marina recall the maritime past. The Kusttram, the world's longest tram line, serves the whole coast from Ostend, and the Atlantic Wall site at Raversyde keeps the marks of wartime. With a dog, the beach offers broad permitted areas off-season and dedicated dog zones in summer, and the dyke can be walked year-round on the leash.`,
+      es: `Ostende, Oostende en neerlandés, es apodada la Reina de la costa belga. Antiguo puerto pesquero fortificado de Flandes Occidental, en el siglo XIX se convirtió en la estación balnearia favorita de los reyes de los belgas, que levantaron sus diques, galerías y el suntuoso Kursaal. Leopoldo II dejó las Galerías Reales, un largo paseo cubierto frente al mar del Norte, y la ciudad sigue marcada por el pintor James Ensor, hijo de la villa. Su amplia playa de arena y su dique recto, batidos por el viento, se extienden kilómetros, mientras el velero de tres mástiles Mercator y el puerto deportivo recuerdan el pasado marítimo. El Kusttram, la línea de tranvía más larga del mundo, recorre toda la costa desde Ostende, y el Muro del Atlántico de Raversyde conserva las huellas de la guerra. Con un perro, la playa ofrece amplias zonas permitidas fuera de temporada y tramos caninos dedicados en verano, y el dique se pasea todo el año con correa.`,
+      pt: `Ostende, Oostende em neerlandês, é apelidada de Rainha da costa belga. Antigo porto de pesca fortificado da Flandres Ocidental, no século XIX tornou-se a estância balnear favorita dos reis dos belgas, que ergueram os seus diques, galerias e o sumptuoso Kursaal. Leopoldo II deixou as Galerias Reais, um longo passeio coberto frente ao mar do Norte, e a cidade continua marcada pelo pintor James Ensor, filho da terra. A sua ampla praia de areia e o seu dique reto, fustigados pelo vento, estendem-se por quilómetros, enquanto o veleiro de três mastros Mercator e a marina recordam o passado marítimo. O Kusttram, a mais longa linha de elétrico do mundo, serve toda a costa a partir de Ostende, e o Muro do Atlântico de Raversyde guarda as marcas da guerra. Com um cão, a praia oferece amplas zonas permitidas fora de época e troços caninos dedicados no verão, e o dique percorre-se todo o ano à trela.`,
+    },
+    sights: [
+      {
+        name: 'Zeedijk en strand',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Longue digue-promenade rectiligne et vaste plage de sable de la mer du Nord, cœur de la vie balnéaire. Hors saison les chiens courent librement sur de larges portions ; l'été, ils sont cantonnés aux zones canines signalées.`,
+          en: `A long, straight promenade dyke and a vast North Sea sandy beach, the heart of seaside life. Off-season dogs run freely on wide stretches; in summer they are confined to signposted dog zones.`,
+          es: `Largo dique-paseo recto y amplia playa de arena del mar del Norte, corazón de la vida balnearia. Fuera de temporada los perros corren libres por amplios tramos; en verano quedan restringidos a las zonas caninas señalizadas.`,
+          pt: `Longo dique-passeio reto e ampla praia de areia do mar do Norte, coração da vida balnear. Fora de época os cães correm livres em amplos troços; no verão ficam restritos às zonas caninas sinalizadas.`,
+        },
+      },
+      {
+        name: 'Kursaal',
+        emoji: '🎰',
+        petFriendly: false,
+        desc: {
+          fr: `Casino et salle de concerts monumentale sur le front de mer, héritier des fastes royaux du XIXe siècle. L'intérieur est interdit aux chiens ; on longe le bâtiment et sa terrasse panoramique en laisse.`,
+          en: `A monumental casino and concert hall on the seafront, heir to the royal splendour of the 19th century. The interior is off-limits to dogs; you walk past the building and its panoramic terrace on the leash.`,
+          es: `Casino y sala de conciertos monumental en el frente marítimo, heredero del fasto real del siglo XIX. El interior está prohibido a los perros; se bordea el edificio y su terraza panorámica con correa.`,
+          pt: `Casino e sala de concertos monumental na frente-mar, herdeiro do fausto real do século XIX. O interior é proibido a cães; contorna-se o edifício e o seu terraço panorâmico à trela.`,
+        },
+      },
+      {
+        name: 'James Ensorhuis',
+        emoji: '🎨',
+        petFriendly: false,
+        desc: {
+          fr: `Maison-musée du peintre James Ensor, figure de l'expressionnisme, reconstituée avec son atelier et sa boutique de souvenirs marins. Les chiens ne sont pas admis à l'intérieur ; le quartier commerçant alentour se visite en laisse.`,
+          en: `The house-museum of the painter James Ensor, a figure of expressionism, recreated with his studio and its shop of marine curios. Dogs are not allowed inside; the shopping district around it can be explored on the leash.`,
+          es: `Casa-museo del pintor James Ensor, figura del expresionismo, recreada con su taller y su tienda de recuerdos marinos. No se admiten perros en el interior; el barrio comercial de alrededor se visita con correa.`,
+          pt: `Casa-museu do pintor James Ensor, figura do expressionismo, recriada com o seu atelier e a sua loja de recordações marinhas. Não são admitidos cães no interior; o bairro comercial em redor visita-se à trela.`,
+        },
+      },
+      {
+        name: 'Mercator',
+        emoji: '⛵',
+        petFriendly: false,
+        desc: {
+          fr: `Ancien navire-école à trois mâts amarré dans le bassin de plaisance, transformé en musée flottant. La visite du bord n'accepte pas les chiens, mais les quais du port se longent agréablement en laisse.`,
+          en: `A former three-masted training ship moored in the marina, turned into a floating museum. Dogs are not accepted on board, but the harbour quays make a pleasant leashed walk.`,
+          es: `Antiguo buque escuela de tres mástiles amarrado en la dársena deportiva, convertido en museo flotante. La visita a bordo no admite perros, pero los muelles del puerto se recorren a gusto con correa.`,
+          pt: `Antigo navio-escola de três mastros ancorado na doca de recreio, transformado em museu flutuante. A visita a bordo não aceita cães, mas os cais do porto percorrem-se agradavelmente à trela.`,
+        },
+      },
+      {
+        name: 'Venetiaanse Gaanderijen',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Galeries vénitiennes du début du XXe siècle, arcades blanches ouvertes sur la digue et la mer du Nord. Passage à ciel ouvert que l'on traverse en laisse, à l'abri du vent lors des balades sur le front de mer.`,
+          en: `Early 20th-century Venetian galleries, white arcades open onto the dyke and the North Sea. An open-air passage crossed on the leash, sheltered from the wind during seafront strolls.`,
+          es: `Galerías venecianas de principios del siglo XX, arcadas blancas abiertas al dique y al mar del Norte. Pasaje al aire libre que se cruza con correa, al resguardo del viento en los paseos por el frente marítimo.`,
+          pt: `Galerias venezianas do início do século XX, arcadas brancas abertas para o dique e o mar do Norte. Passagem ao ar livre que se atravessa à trela, ao abrigo do vento nos passeios pela frente-mar.`,
+        },
+      },
+      {
+        name: 'Kusttram',
+        emoji: '🚋',
+        petFriendly: true,
+        desc: {
+          fr: `Tram côtier qui longe toute la côte belge, de La Panne à Knokke, plus longue ligne de tram du monde. Les chiens y sont admis avec un billet, pratique pour rejoindre les plages voisines sans voiture.`,
+          en: `The coastal tram running the whole Belgian coast, from De Panne to Knokke, the world's longest tram line. Dogs are allowed with a ticket, handy for reaching neighbouring beaches without a car.`,
+          es: `Tranvía costero que recorre toda la costa belga, de La Panne a Knokke, la línea de tranvía más larga del mundo. Los perros viajan con billete, práctico para llegar a las playas vecinas sin coche.`,
+          pt: `Elétrico costeiro que percorre toda a costa belga, de De Panne a Knokke, a mais longa linha de elétrico do mundo. Os cães viajam com bilhete, prático para chegar às praias vizinhas sem carro.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Vent et froid de la mer du Nord même en été : prévoyez de quoi essuyer et réchauffer un chien mouillé, l'eau reste fraîche toute l'année.`,
+        `Règles de plage saisonnières : l'été (grosso modo de mai à septembre) les chiens sont limités aux zones canines signalées, mais hors saison ils profitent de la plage librement, souvent sans laisse tôt le matin.`,
+        `Sable et laisses de mer peuvent cacher hameçons ou débris ; rincez les pattes après la plage et surveillez ce que le chien avale.`,
+        `Le Kusttram et les trains SNCB acceptent les chiens (petit chien gratuit en sac, grand chien avec un billet et souvent muselière) : idéal pour explorer la côte sans voiture.`,
+        `Numéro d'urgence unique 112 ; repérez à l'arrivée une clinique vétérinaire de garde, plusieurs cabinets desservent Ostende et la côte.`,
+      ],
+      en: [
+        `North Sea wind and cold even in summer: bring something to dry and warm a wet dog, as the water stays cool all year.`,
+        `Seasonal beach rules: in summer (roughly May to September) dogs are limited to signposted dog zones, but off-season they enjoy the beach freely, often off-leash early in the morning.`,
+        `Sand and tidal wrack can hide fish hooks or debris; rinse paws after the beach and watch what the dog swallows.`,
+        `The Kusttram and SNCB trains accept dogs (small dog free in a bag, large dog with a ticket and often a muzzle): ideal for exploring the coast without a car.`,
+        `Single emergency number 112; on arrival scout a duty vet clinic, several practices serve Ostend and the coast.`,
+      ],
+      es: [
+        `Viento y frío del mar del Norte incluso en verano: lleva con qué secar y calentar a un perro mojado, el agua sigue fresca todo el año.`,
+        `Normas de playa estacionales: en verano (aproximadamente de mayo a septiembre) los perros se limitan a las zonas caninas señalizadas, pero fuera de temporada disfrutan de la playa libremente, a menudo sin correa a primera hora.`,
+        `La arena y los restos de marea pueden esconder anzuelos o desechos; enjuaga las patas tras la playa y vigila lo que el perro traga.`,
+        `El Kusttram y los trenes SNCB admiten perros (perro pequeño gratis en bolsa, perro grande con billete y a menudo bozal): ideal para explorar la costa sin coche.`,
+        `Número único de urgencias 112; al llegar localiza una clínica veterinaria de guardia, varias consultas atienden Ostende y la costa.`,
+      ],
+      pt: [
+        `Vento e frio do mar do Norte mesmo no verão: leve com que secar e aquecer um cão molhado, a água mantém-se fresca todo o ano.`,
+        `Regras de praia sazonais: no verão (sensivelmente de maio a setembro) os cães ficam limitados às zonas caninas sinalizadas, mas fora de época desfrutam da praia livremente, muitas vezes sem trela de manhã cedo.`,
+        `A areia e os restos de maré podem esconder anzóis ou detritos; enxágue as patas após a praia e vigie o que o cão engole.`,
+        `O Kusttram e os comboios SNCB aceitam cães (cão pequeno grátis em saco, cão grande com bilhete e muitas vezes açaime): ideal para explorar a costa sem carro.`,
+        `Número único de emergência 112; à chegada localize uma clínica veterinária de urgência, vários consultórios servem Ostende e a costa.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen et vaccination antirabique à jour exigés à l'enregistrement dans les hôtels pet-friendly.`,
+        `Laisse obligatoire en ville et ramassage des déjections sous peine d'amende ; certaines races de type molosse sont réglementées selon les communes.`,
+        `Plage à règles saisonnières : zones canines dédiées l'été, accès quasi libre hors saison, panneaux à l'entrée des accès.`,
+        `Ostende est un nœud du Kusttram et de la SNCB ; chiens admis dans les deux, ce qui permet de rejoindre Bruges, Bruxelles et toute la côte sans voiture.`,
+        `Numéro d'urgence européen 112 ; prévoyez vent et pluie fréquents et un point d'eau douce pour rincer le chien après la plage.`,
+      ],
+      en: [
+        `EU pet passport and up-to-date rabies vaccination required at check-in in pet-friendly hotels.`,
+        `Leash mandatory in town and waste pick-up enforced under fine; some mastiff-type breeds are regulated depending on the commune.`,
+        `Beach with seasonal rules: dedicated dog zones in summer, near-free access off-season, with signs at each access point.`,
+        `Ostend is a hub of the Kusttram and SNCB; dogs are accepted on both, allowing you to reach Bruges, Brussels and the whole coast without a car.`,
+        `European emergency number 112; expect frequent wind and rain and bring fresh water to rinse the dog after the beach.`,
+      ],
+      es: [
+        `Pasaporte europeo y vacunación antirrábica al día exigidos en el check-in de los hoteles pet-friendly.`,
+        `Correa obligatoria en la ciudad y recogida de excrementos bajo multa; algunas razas de tipo moloso están reguladas según el municipio.`,
+        `Playa con normas estacionales: zonas caninas dedicadas en verano, acceso casi libre fuera de temporada, con carteles en cada acceso.`,
+        `Ostende es un nudo del Kusttram y de la SNCB; los perros se admiten en ambos, lo que permite llegar a Brujas, Bruselas y toda la costa sin coche.`,
+        `Número de urgencia europeo 112; cuenta con viento y lluvia frecuentes y lleva agua dulce para enjuagar al perro tras la playa.`,
+      ],
+      pt: [
+        `Passaporte europeu e vacinação antirrábica em dia exigidos no check-in dos hotéis pet-friendly.`,
+        `Trela obrigatória na cidade e recolha de dejetos sob multa; algumas raças de tipo moloso são regulamentadas consoante o município.`,
+        `Praia com regras sazonais: zonas caninas dedicadas no verão, acesso quase livre fora de época, com placas em cada acesso.`,
+        `Ostende é um nó do Kusttram e da SNCB; os cães são aceites em ambos, o que permite chegar a Bruges, Bruxelas e toda a costa sem carro.`,
+        `Número de emergência europeu 112; conte com vento e chuva frequentes e leve água doce para enxaguar o cão após a praia.`,
       ],
     },
   },

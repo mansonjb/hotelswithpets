@@ -36986,6 +36986,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  soller: {
+    history: {
+      fr: `Sóller, blottie dans une vallée d'orangers au cœur de la Serra de Tramuntana classée au patrimoine mondial de l'UNESCO, est une ville majorquine cernée de montagnes qui doit sa prospérité aux agrumes jadis exportés vers la France. Autour de la Plaça de la Constitució, la façade moderniste de l'église Sant Bartomeu, dessinée par un disciple de Gaudí, témoigne de la fortune des marchands d'oranges du XIXe siècle. Un tramway de bois historique descend jusqu'au Port de Sóller et sa baie en fer à cheval, tandis que le célèbre train à voie étroite relie Palma en franchissant treize tunnels de montagne. Vergers d'orangers et de citronniers, moulins, sentiers de pierre sèche et criques ferment l'horizon. Base idéale pour la randonnée en Tramuntana, Sóller se vit dehors, en laisse, entre marché, terrasses et promenades vers le phare, plus fraîche que la plaine grâce à l'altitude.`,
+      en: `Sóller, tucked into a valley of orange groves at the heart of the UNESCO-listed Serra de Tramuntana, is a Mallorcan town ringed by mountains that owes its wealth to the citrus once shipped to France. Around the Plaça de la Constitució, the Modernista facade of the Sant Bartomeu church, designed by a disciple of Gaudí, recalls the fortunes of nineteenth-century orange merchants. A historic wooden tram rattles down to Port de Sóller and its horseshoe bay, while the famous narrow-gauge train links Palma through thirteen mountain tunnels. Orange and lemon orchards, mills, dry-stone paths and coves close the horizon. An ideal base for hiking the Tramuntana, Sóller is lived outdoors and on a leash, between the market, café terraces and walks to the lighthouse, and it stays cooler than the plain thanks to its altitude.`,
+      es: `Sóller, acurrucada en un valle de naranjos en el corazón de la Serra de Tramuntana, declarada Patrimonio Mundial de la UNESCO, es una localidad mallorquina rodeada de montañas que debe su prosperidad a los cítricos que antaño se exportaban a Francia. En torno a la Plaça de la Constitució, la fachada modernista de la iglesia de Sant Bartomeu, obra de un discípulo de Gaudí, recuerda la fortuna de los comerciantes de naranjas del siglo XIX. Un histórico tranvía de madera baja hasta el Port de Sóller y su bahía en herradura, mientras el famoso tren de vía estrecha enlaza con Palma atravesando trece túneles de montaña. Naranjos y limoneros, molinos, senderos de piedra seca y calas cierran el horizonte. Base ideal para el senderismo en la Tramuntana, Sóller se vive al aire libre y con correa, entre el mercado, las terrazas y los paseos hasta el faro, y es más fresca que el llano gracias a su altitud.`,
+      pt: `Sóller, aninhada num vale de laranjais no coração da Serra de Tramuntana, classificada Património Mundial da UNESCO, é uma vila maiorquina rodeada de montanhas que deve a sua prosperidade aos citrinos outrora exportados para França. Em torno da Plaça de la Constitució, a fachada modernista da igreja de Sant Bartomeu, obra de um discípulo de Gaudí, recorda a fortuna dos comerciantes de laranjas do século XIX. Um histórico elétrico de madeira desce até ao Port de Sóller e à sua baía em ferradura, enquanto o famoso comboio de via estreita liga a Palma atravessando treze túneis de montanha. Laranjais e limoeiros, moinhos, trilhos de pedra seca e enseadas fecham o horizonte. Base ideal para as caminhadas na Tramuntana, Sóller vive-se ao ar livre e com trela, entre o mercado, as esplanadas e os passeios até ao farol, e é mais fresca do que a planície graças à sua altitude.`,
+    },
+    sights: [
+      {
+        name: `Plaça de la Constitució i Sant Bartomeu`,
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `La place centrale, ses terrasses et sa fontaine s'animent devant la façade moderniste de Sant Bartomeu. La place et le parvis se vivent en laisse, mais l'intérieur de l'église est interdit aux chiens.`,
+          en: `The central square, its café terraces and fountain come alive before the Modernista facade of Sant Bartomeu. The square and forecourt are enjoyed on a leash, but the church interior is off-limits to dogs.`,
+          es: `La plaza central, sus terrazas y su fuente se animan ante la fachada modernista de Sant Bartomeu. La plaza y el atrio se disfrutan con correa, pero el interior de la iglesia no admite perros.`,
+          pt: `A praça central, as suas esplanadas e a sua fonte animam-se diante da fachada modernista de Sant Bartomeu. A praça e o adro vivem-se com trela, mas o interior da igreja não admite cães.`,
+        },
+      },
+      {
+        name: `Tramvia de Sóller`,
+        emoji: '🚋',
+        petFriendly: true,
+        desc: {
+          fr: `Le tramway de bois de 1913 relie la place au Port de Sóller sur cinq kilomètres à travers les vergers. Les chiens tenus en laisse et muselés sont acceptés sur les plateformes ouvertes, à confirmer au conducteur en haute saison.`,
+          en: `The 1913 wooden tram links the square to Port de Sóller over five kilometres through the orchards. Dogs kept leashed and muzzled are accepted on the open platforms, best confirmed with the driver in high season.`,
+          es: `El tranvía de madera de 1913 une la plaza con el Port de Sóller en cinco kilómetros a través de los huertos. Se aceptan perros con correa y bozal en las plataformas abiertas, conviene confirmarlo con el conductor en temporada alta.`,
+          pt: `O elétrico de madeira de 1913 liga a praça ao Port de Sóller ao longo de cinco quilómetros através dos pomares. Cães com trela e açaime são aceites nas plataformas abertas, convém confirmar com o condutor na época alta.`,
+        },
+      },
+      {
+        name: `Ferrocarril de Sóller`,
+        emoji: '🚂',
+        petFriendly: true,
+        desc: {
+          fr: `Le train à voie étroite de 1912 franchit treize tunnels entre Palma et Sóller pour un trajet panoramique d'une heure. Les petits chiens en laisse et muselés sont généralement admis, mieux vaut vérifier la politique du jour à la gare avant de monter.`,
+          en: `The 1912 narrow-gauge train crosses thirteen tunnels between Palma and Sóller for a scenic one-hour ride. Small leashed and muzzled dogs are usually admitted, but check the current policy at the station before boarding.`,
+          es: `El tren de vía estrecha de 1912 atraviesa trece túneles entre Palma y Sóller en un trayecto panorámico de una hora. Los perros pequeños con correa y bozal suelen admitirse, conviene comprobar la política del día en la estación antes de subir.`,
+          pt: `O comboio de via estreita de 1912 atravessa treze túneis entre Palma e Sóller numa viagem panorâmica de uma hora. Cães pequenos com trela e açaime costumam ser admitidos, mas confirme a política do dia na estação antes de embarcar.`,
+        },
+      },
+      {
+        name: `Port de Sóller i Far del Cap Gros`,
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          fr: `La baie ronde du port, sa promenade et le sentier qui monte au phare du Cap Gros offrent l'une des plus belles vues de la côte. Promenade et chemin du phare se font en laisse ; la plage principale est réglementée l'été.`,
+          en: `The port's round bay, its promenade and the path climbing to the Cap Gros lighthouse offer one of the finest views on the coast. The promenade and lighthouse trail are walked on a leash; the main beach is regulated in summer.`,
+          es: `La bahía redonda del puerto, su paseo marítimo y el sendero que sube al faro de Cap Gros ofrecen una de las mejores vistas de la costa. El paseo y el camino del faro se hacen con correa; la playa principal está regulada en verano.`,
+          pt: `A baía redonda do porto, o seu passeio marítimo e o trilho que sobe ao farol do Cap Gros oferecem uma das mais belas vistas da costa. O passeio e o caminho do farol fazem-se com trela; a praia principal é regulada no verão.`,
+        },
+      },
+      {
+        name: `Camí de Castelló i horts de tarongers`,
+        emoji: '🍊',
+        petFriendly: true,
+        desc: {
+          fr: `Les chemins ruraux qui serpentent entre orangers, citronniers et murets de pierre sèche descendent de la vallée vers Biniaraix. Sentiers en plein air à parcourir en laisse, ombragés le matin, très exposés au soleil l'après-midi.`,
+          en: `The rural lanes winding between orange trees, lemon trees and dry-stone walls run down from the valley towards Biniaraix. Open-air paths to walk on a leash, shaded in the morning and very sun-exposed in the afternoon.`,
+          es: `Los caminos rurales que serpentean entre naranjos, limoneros y muros de piedra seca bajan del valle hacia Biniaraix. Senderos al aire libre para recorrer con correa, sombreados por la mañana y muy expuestos al sol por la tarde.`,
+          pt: `Os caminhos rurais que serpenteiam entre laranjeiras, limoeiros e muros de pedra seca descem do vale em direção a Biniaraix. Trilhos ao ar livre para percorrer com trela, sombreados de manhã e muito expostos ao sol à tarde.`,
+        },
+      },
+      {
+        name: `Jardí Botànic de Sóller`,
+        emoji: '🌿',
+        petFriendly: false,
+        desc: {
+          fr: `Le jardin botanique met en scène la flore endémique des Baléares et de la Méditerranée occidentale au pied de la Tramuntana. Comme la plupart des jardins botaniques, il n'accepte pas les chiens ; prévoyez une alternative pour cette visite.`,
+          en: `The botanical garden showcases the endemic flora of the Balearics and the western Mediterranean at the foot of the Tramuntana. Like most botanical gardens, it does not admit dogs; plan an alternative for this visit.`,
+          es: `El jardín botánico muestra la flora endémica de Baleares y del Mediterráneo occidental al pie de la Tramuntana. Como la mayoría de los jardines botánicos, no admite perros; prevé una alternativa para esta visita.`,
+          pt: `O jardim botânico apresenta a flora endémica das Baleares e do Mediterrâneo ocidental ao pé da Tramuntana. Como a maioria dos jardins botânicos, não admite cães; preveja uma alternativa para esta visita.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Loi espagnole : chien en laisse en ville et muselière obligatoire pour les races cataloguées PPP dans les lieux publics et les transports ; ayez toujours le passeport et la puce à jour.`,
+        `Chaleur estivale : la vallée est plus fraîche que la plaine mais dépasse souvent 30 °C de juin à septembre, sortez à l'aube ou en soirée et testez le bitume du revers de la main avant de marcher.`,
+        `Plage du Port de Sóller : chiens interdits sur la plage surveillée pendant la saison balnéaire (environ mai à octobre), repérez une crique non surveillée ou promenez-vous sur le sentier du phare.`,
+        `Randonnée en Tramuntana : sentiers autorisés en laisse, emportez beaucoup d'eau, respectez les troupeaux de brebis et vérifiez les restrictions estivales pour risque d'incendie.`,
+        `Tramway et train : muselière exigée à bord, gardez-la à portée de main ; en haute saison confirmez la place de votre chien avant de monter.`,
+      ],
+      en: [
+        `Spanish law: dogs on a leash in town and a muzzle required for catalogued PPP breeds in public places and on transport; always keep the passport and microchip up to date.`,
+        `Summer heat: the valley is cooler than the plain but often tops 30 °C from June to September, so walk at dawn or in the evening and test the tarmac with the back of your hand before setting off.`,
+        `Port de Sóller beach: dogs are banned from the patrolled beach during the bathing season (roughly May to October), so find an unpatrolled cove or walk the lighthouse trail instead.`,
+        `Hiking the Tramuntana: trails are open on a leash, carry plenty of water, respect the sheep flocks and check summer wildfire restrictions.`,
+        `Tram and train: a muzzle is required on board, so keep one to hand; in high season confirm your dog's place before boarding.`,
+      ],
+      es: [
+        `Ley española: perro con correa en la ciudad y bozal obligatorio para las razas catalogadas PPP en lugares públicos y transportes; lleva siempre el pasaporte y el microchip al día.`,
+        `Calor estival: el valle es más fresco que el llano pero supera a menudo los 30 °C de junio a septiembre, pasea al alba o al anochecer y prueba el asfalto con el dorso de la mano antes de salir.`,
+        `Playa del Port de Sóller: perros prohibidos en la playa vigilada durante la temporada de baño (aproximadamente de mayo a octubre), busca una cala sin vigilancia o pasea por el sendero del faro.`,
+        `Senderismo en la Tramuntana: senderos permitidos con correa, lleva mucha agua, respeta los rebaños de ovejas y comprueba las restricciones estivales por riesgo de incendio.`,
+        `Tranvía y tren: bozal exigido a bordo, tenlo a mano; en temporada alta confirma la plaza de tu perro antes de subir.`,
+      ],
+      pt: [
+        `Lei espanhola: cão com trela na cidade e açaime obrigatório para as raças catalogadas PPP em locais públicos e transportes; mantenha sempre o passaporte e o microchip em dia.`,
+        `Calor estival: o vale é mais fresco do que a planície mas ultrapassa muitas vezes os 30 °C de junho a setembro, passeie de madrugada ou ao anoitecer e teste o asfalto com as costas da mão antes de sair.`,
+        `Praia do Port de Sóller: cães proibidos na praia vigiada durante a época balnear (aproximadamente de maio a outubro), procure uma enseada sem vigilância ou passeie pelo trilho do farol.`,
+        `Caminhadas na Tramuntana: trilhos permitidos com trela, leve bastante água, respeite os rebanhos de ovelhas e confirme as restrições de verão por risco de incêndio.`,
+        `Elétrico e comboio: açaime exigido a bordo, tenha-o à mão; na época alta confirme o lugar do seu cão antes de embarcar.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences : 112 est le numéro européen unique en Espagne ; Sóller et son port comptent des cabinets vétérinaires, demandez à votre hôtel le service de garde le plus proche, avec Palma à une trentaine de kilomètres pour les urgences 24 h.`,
+        `Train de Sóller depuis Palma : petits chiens en laisse et muselés généralement admis, vérifiez la politique du jour au guichet de la gare avant d'acheter le billet.`,
+        `Tramway vers le Port de Sóller : chiens en laisse et muselés acceptés sur les plateformes ouvertes, l'option la plus simple pour rejoindre la baie sans voiture.`,
+        `Plages : la plage du port est réglementée en saison balnéaire ; repérez à l'avance une crique non surveillée ou les zones canines de la côte.`,
+        `Aéroport de Palma de Majorque à environ 30 km ; Espagne dans l'UE, passeport européen pour animaux, puce et vaccination antirabique à jour.`,
+      ],
+      en: [
+        `Emergencies: 112 is Spain's single European number; Sóller and its port have veterinary practices, ask your hotel for the nearest on-call service, with Palma about thirty kilometres away for 24-hour emergencies.`,
+        `Sóller train from Palma: small leashed and muzzled dogs are usually admitted, check the current policy at the station desk before buying your ticket.`,
+        `Tram to Port de Sóller: leashed and muzzled dogs accepted on the open platforms, the simplest way to reach the bay without a car.`,
+        `Beaches: the port beach is regulated during the bathing season; scout an unpatrolled cove or the coast's dog areas in advance.`,
+        `Palma de Mallorca airport is about 30 km away; Spain is in the EU, so bring the European pet passport with an up-to-date microchip and rabies vaccination.`,
+      ],
+      es: [
+        `Urgencias: 112 es el número europeo único en España; Sóller y su puerto tienen clínicas veterinarias, pregunta en tu hotel por el servicio de guardia más cercano, con Palma a unos treinta kilómetros para urgencias 24 h.`,
+        `Tren de Sóller desde Palma: los perros pequeños con correa y bozal suelen admitirse, comprueba la política del día en la taquilla de la estación antes de comprar el billete.`,
+        `Tranvía al Port de Sóller: perros con correa y bozal aceptados en las plataformas abiertas, la forma más sencilla de llegar a la bahía sin coche.`,
+        `Playas: la playa del puerto está regulada en temporada de baño; localiza con antelación una cala sin vigilancia o las zonas caninas de la costa.`,
+        `Aeropuerto de Palma de Mallorca a unos 30 km; España en la UE, pasaporte europeo para mascotas, microchip y vacuna antirrábica al día.`,
+      ],
+      pt: [
+        `Urgências: 112 é o número europeu único em Espanha; Sóller e o seu porto têm clínicas veterinárias, pergunte no seu hotel pelo serviço de urgência mais próximo, com Palma a cerca de trinta quilómetros para urgências 24 h.`,
+        `Comboio de Sóller a partir de Palma: cães pequenos com trela e açaime costumam ser admitidos, confirme a política do dia no balcão da estação antes de comprar o bilhete.`,
+        `Elétrico para o Port de Sóller: cães com trela e açaime aceites nas plataformas abertas, a forma mais simples de chegar à baía sem carro.`,
+        `Praias: a praia do porto é regulada na época balnear; localize com antecedência uma enseada sem vigilância ou as zonas caninas da costa.`,
+        `Aeroporto de Palma de Maiorca a cerca de 30 km; Espanha na UE, passaporte europeu para animais, microchip e vacina antirrábica em dia.`,
+      ],
+    },
+  },
+
   split: {
     history: {
       fr: `Split a grandi à l'intérieur d'un palais. Lorsque l'empereur romain Dioclétien s'y retira en 305 ap. J.-C., il bâtit une résidence-forteresse em bord de mer que des réfugiés transformèrent plus tard em cœur vivant d'une ville, 3 000 personnes y dorment encore dans les murs de calcaire. Le résultat est un chaos UNESCO : colonnes romaines soutenant des appartements médiévaux, autels baroques encastrés dans des maisons marchandes vénitiennes, le tout face à une Adriatique plus bleue qu'une carte postale. Split s'élève entre la pinède de la colline du Marjan et la Riva bordée de palmiers, avec les îles dalmates à une traversée de ferry. Les Croates adorent les chiens, em particulier le dalmatien, sélectionné sur cette côte, et la plupart des cafés laissent des gamelles dehors.`,
@@ -41163,6 +41300,143 @@ const cityContent: Record<string, CityContent> = {
         'O serviço Valenbisi é excelente para os donos con muitas estações nas entradas do Turia, mas os cães no viajan de bicicleta, melhor acompañantes a pé.',
         'Praia: Pinedo queda a 30 min de autocarro (línea 25) o líneas estacionales EMT; lleva água dulce, as fuentes do lugar são irregulares.',
         'Suministros: Tiendanimal, Kiwoko e a cadena local Acuarium têm tiendas por toda a cidade.',
+      ],
+    },
+  },
+
+  valldemossa: {
+    history: {
+      fr: `Valldemossa, village de pierre dorée accroché aux versants de la Serra de Tramuntana à cinq cents mètres d'altitude, doit sa célébrité à l'hiver 1838-1839 que Frédéric Chopin et George Sand passèrent dans les cellules de sa chartreuse. La Reial Cartoixa, ancien monastère chartreux devenu musée, conserve le piano du compositeur et les manuscrits nés de ce séjour pluvieux et douloureux, immortalisé par « Un hiver à Majorque ». Autour, les ruelles pavées débordent de géraniums et la place de la Cartoixa embaume la coca de patata, brioche moelleuse dont le village a fait sa spécialité. Sur la route côtière, l'archiduc Louis-Salvator d'Autriche laissa les domaines de Miramar et Son Marroig, jardins et belvédères ouverts sur la mer. Plus frais que la côte, envahi de visiteurs à la mi-journée en été, Valldemossa se savoure tôt le matin, en laisse, entre pierre, fleurs et sentiers de la Tramuntana.`,
+      en: `Valldemossa, a golden-stone village clinging to the slopes of the Serra de Tramuntana at five hundred metres, owes its fame to the winter of 1838-1839 that Frédéric Chopin and George Sand spent in the cells of its charterhouse. The Reial Cartoixa, a former Carthusian monastery turned museum, keeps the composer's piano and the manuscripts born of that rainy, painful stay, immortalised in her book 'A Winter in Majorca'. Around it, cobbled lanes overflow with geraniums and the Cartoixa square is scented with coca de patata, the soft brioche the village has made its own. On the coast road, Archduke Ludwig Salvator of Austria left the estates of Miramar and Son Marroig, gardens and viewpoints open to the sea. Cooler than the coast and swamped with visitors at midday in summer, Valldemossa is best savoured early, on a leash, among stone, flowers and Tramuntana trails.`,
+      es: `Valldemossa, pueblo de piedra dorada aferrado a las laderas de la Serra de Tramuntana a quinientos metros de altitud, debe su fama al invierno de 1838-1839 que Frédéric Chopin y George Sand pasaron en las celdas de su cartuja. La Reial Cartoixa, antiguo monasterio cartujo convertido en museo, conserva el piano del compositor y los manuscritos surgidos de aquella estancia lluviosa y dolorosa, inmortalizada en 'Un invierno en Mallorca'. Alrededor, las callejuelas empedradas rebosan de geranios y la plaza de la Cartoixa huele a coca de patata, el bollo esponjoso que el pueblo ha hecho suyo. En la carretera de la costa, el archiduque Luis Salvador de Austria dejó las fincas de Miramar y Son Marroig, jardines y miradores abiertos al mar. Más fresco que la costa e invadido de visitantes al mediodía en verano, Valldemossa se saborea temprano, con correa, entre piedra, flores y senderos de la Tramuntana.`,
+      pt: `Valldemossa, aldeia de pedra dourada agarrada às encostas da Serra de Tramuntana a quinhentos metros de altitude, deve a sua fama ao inverno de 1838-1839 que Frédéric Chopin e George Sand passaram nas celas da sua cartuxa. A Reial Cartoixa, antigo mosteiro cartuxo tornado museu, guarda o piano do compositor e os manuscritos nascidos daquela estada chuvosa e dolorosa, imortalizada em 'Um Inverno em Maiorca'. À volta, as ruelas empedradas transbordam de gerânios e a praça da Cartoixa cheira a coca de patata, o pão-de-ló fofo que a aldeia fez seu. Na estrada da costa, o arquiduque Luís Salvador da Áustria deixou as quintas de Miramar e Son Marroig, jardins e miradouros abertos ao mar. Mais fresca do que a costa e invadida por visitantes ao meio-dia no verão, Valldemossa saboreia-se cedo, com trela, entre pedra, flores e trilhos da Tramuntana.`,
+    },
+    sights: [
+      {
+        name: `Reial Cartoixa de Valldemossa`,
+        emoji: '🎹',
+        petFriendly: false,
+        desc: {
+          fr: `L'ancienne chartreuse abrite les cellules de Chopin et George Sand, son piano et un musée sur la vie monastique. L'intérieur du monastère et son musée sont interdits aux chiens, mais tout le village autour se parcourt en laisse.`,
+          en: `The former charterhouse holds the cells of Chopin and George Sand, his piano and a museum on monastic life. The monastery interior and its museum are off-limits to dogs, but the whole village around it can be walked on a leash.`,
+          es: `La antigua cartuja alberga las celdas de Chopin y George Sand, su piano y un museo sobre la vida monástica. El interior del monasterio y su museo no admiten perros, pero todo el pueblo de alrededor se recorre con correa.`,
+          pt: `A antiga cartuxa abriga as celas de Chopin e George Sand, o seu piano e um museu sobre a vida monástica. O interior do mosteiro e o seu museu não admitem cães, mas toda a aldeia à volta percorre-se com trela.`,
+        },
+      },
+      {
+        name: `Carrer de la Rectoria`,
+        emoji: '🌸',
+        petFriendly: true,
+        desc: {
+          fr: `Les ruelles pavées et fleuries de géraniums serpentent entre maisons de pierre et carreaux de céramique dédiés à sainte Catherine Thomàs, enfant du village. On les arpente entièrement en laisse, tôt le matin pour éviter la foule des excursions.`,
+          en: `The cobbled lanes, bright with geraniums, wind between stone houses and ceramic tiles honouring Saint Catherine Thomàs, the village's own saint. They are walked entirely on a leash, best early in the morning to avoid the day-trip crowds.`,
+          es: `Las callejuelas empedradas y floridas de geranios serpentean entre casas de piedra y azulejos dedicados a santa Catalina Thomàs, hija del pueblo. Se recorren enteras con correa, mejor temprano para evitar la multitud de las excursiones.`,
+          pt: `As ruelas empedradas e floridas de gerânios serpenteiam entre casas de pedra e azulejos dedicados a santa Catarina Thomàs, filha da aldeia. Percorrem-se inteiras com trela, de preferência cedo para evitar a multidão das excursões.`,
+        },
+      },
+      {
+        name: `Son Marroig i Miramar`,
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          fr: `Sur la route côtière, les domaines de l'archiduc Louis-Salvator offrent jardins, mirador de marbre et vues plongeantes sur la Foradada. Les extérieurs et belvédères se visitent en laisse, très exposés au soleil et au vent.`,
+          en: `On the coast road, Archduke Ludwig Salvator's estates offer gardens, a marble viewpoint and sweeping views over the Foradada rock. The grounds and lookouts are visited on a leash, very exposed to sun and wind.`,
+          es: `En la carretera de la costa, las fincas del archiduque Luis Salvador ofrecen jardines, un mirador de mármol y vistas en picado sobre la Foradada. Los exteriores y miradores se visitan con correa, muy expuestos al sol y al viento.`,
+          pt: `Na estrada da costa, as quintas do arquiduque Luís Salvador oferecem jardins, um miradouro de mármore e vistas a pique sobre a Foradada. Os exteriores e miradouros visitam-se com trela, muito expostos ao sol e ao vento.`,
+        },
+      },
+      {
+        name: `Port de Valldemossa`,
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Une route étroite et sinueuse descend vers une petite crique de galets encaissée sous les falaises, avec quelques restaurants de poisson. La descente et la crique se font en laisse ; parking rare, mieux vaut arriver tôt.`,
+          en: `A narrow, winding road drops to a small pebble cove hemmed in below the cliffs, with a few fish restaurants. The descent and the cove are done on a leash; parking is scarce, so arrive early.`,
+          es: `Una carretera estrecha y sinuosa baja hasta una pequeña cala de cantos rodados encajada bajo los acantilados, con algunos restaurantes de pescado. La bajada y la cala se hacen con correa; el aparcamiento es escaso, conviene llegar temprano.`,
+          pt: `Uma estrada estreita e sinuosa desce até uma pequena enseada de seixos encaixada sob as falésias, com alguns restaurantes de peixe. A descida e a enseada fazem-se com trela; o estacionamento é escasso, convém chegar cedo.`,
+        },
+      },
+      {
+        name: `GR-221 (Ruta de Pedra en Sec)`,
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Le grand sentier de la pierre sèche traverse la Tramuntana en passant par Valldemossa, entre murets, oliveraies et charbonnières restaurées. Randonnée en laisse, emportez de l'eau et vérifiez les restrictions estivales pour risque d'incendie.`,
+          en: `The long dry-stone route crosses the Tramuntana through Valldemossa, among low walls, olive groves and restored charcoal pits. Hike on a leash, carry water and check summer wildfire restrictions.`,
+          es: `El gran sendero de la piedra seca atraviesa la Tramuntana pasando por Valldemossa, entre muros, olivares y carboneras restauradas. Senderismo con correa, lleva agua y comprueba las restricciones estivales por riesgo de incendio.`,
+          pt: `O grande trilho de pedra seca atravessa a Tramuntana passando por Valldemossa, entre muros, olivais e carvoeiras restauradas. Caminhada com trela, leve água e confirme as restrições de verão por risco de incêndio.`,
+        },
+      },
+      {
+        name: `Plaça de la Cartoixa`,
+        emoji: '☕',
+        petFriendly: true,
+        desc: {
+          fr: `La place devant la chartreuse aligne cafés et terrasses où l'on goûte la coca de patata accompagnée d'un chocolat chaud ou d'une boisson d'amande. Les terrasses acceptent les chiens en laisse, à l'ombre des platanes.`,
+          en: `The square in front of the charterhouse lines up cafés and terraces where you taste the coca de patata with a hot chocolate or an almond drink. The terraces welcome leashed dogs in the shade of the plane trees.`,
+          es: `La plaza frente a la cartuja alinea cafés y terrazas donde se prueba la coca de patata acompañada de un chocolate caliente o una horchata de almendra. Las terrazas admiten perros con correa a la sombra de los plátanos.`,
+          pt: `A praça em frente à cartuxa alinha cafés e esplanadas onde se prova a coca de patata acompanhada de um chocolate quente ou de uma bebida de amêndoa. As esplanadas aceitam cães com trela à sombra dos plátanos.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Loi espagnole : chien en laisse dans le village et muselière obligatoire pour les races cataloguées PPP dans les lieux publics et les transports ; gardez passeport et puce à jour.`,
+        `Village de montagne plus frais que la côte, mais les pavés et la place sans ombre chauffent fort à midi en été : promenez-vous tôt le matin ou en soirée et emportez de l'eau.`,
+        `GR-221 et sentiers de la Tramuntana : chiens en laisse, prévoyez beaucoup d'eau, respectez les chèvres et troupeaux et vérifiez les restrictions estivales pour risque d'incendie.`,
+        `Chartreuse : l'intérieur du monastère et son musée sont interdits aux chiens ; prévoyez de vous relayer ou contentez-vous de la balade en laisse dans le village et sur la place.`,
+        `Port de Valldemossa : route étroite et pentue vers une crique rocheuse minuscule sans aménagement canin, et affluence de mi-journée en été ; visitez tôt et tenez le chien en laisse dans les lacets.`,
+      ],
+      en: [
+        `Spanish law: dogs on a leash in the village and a muzzle required for catalogued PPP breeds in public places and on transport; keep the passport and microchip up to date.`,
+        `A mountain village cooler than the coast, but the cobbles and the shadeless square heat up sharply at midday in summer: walk early or in the evening and carry water.`,
+        `GR-221 and Tramuntana trails: dogs on a leash, bring plenty of water, respect the goats and flocks and check summer wildfire restrictions.`,
+        `Charterhouse: the monastery interior and its museum are off-limits to dogs; plan to take turns or simply enjoy the leashed walk through the village and the square.`,
+        `Port de Valldemossa: a narrow, steep road leads to a tiny rocky cove with no dog facilities, and midday crowds in summer; visit early and keep the dog leashed on the hairpins.`,
+      ],
+      es: [
+        `Ley española: perro con correa en el pueblo y bozal obligatorio para las razas catalogadas PPP en lugares públicos y transportes; mantén el pasaporte y el microchip al día.`,
+        `Pueblo de montaña más fresco que la costa, pero los adoquines y la plaza sin sombra se calientan mucho al mediodía en verano: pasea temprano o al anochecer y lleva agua.`,
+        `GR-221 y senderos de la Tramuntana: perros con correa, lleva mucha agua, respeta las cabras y rebaños y comprueba las restricciones estivales por riesgo de incendio.`,
+        `Cartuja: el interior del monasterio y su museo no admiten perros; prevé turnarte o conténtate con el paseo con correa por el pueblo y la plaza.`,
+        `Port de Valldemossa: carretera estrecha y empinada hacia una cala rocosa diminuta sin servicios caninos, y aglomeración de mediodía en verano; visita temprano y lleva al perro con correa en las curvas.`,
+      ],
+      pt: [
+        `Lei espanhola: cão com trela na aldeia e açaime obrigatório para as raças catalogadas PPP em locais públicos e transportes; mantenha o passaporte e o microchip em dia.`,
+        `Aldeia de montanha mais fresca do que a costa, mas as calçadas e a praça sem sombra aquecem muito ao meio-dia no verão: passeie cedo ou ao anoitecer e leve água.`,
+        `GR-221 e trilhos da Tramuntana: cães com trela, leve bastante água, respeite as cabras e os rebanhos e confirme as restrições de verão por risco de incêndio.`,
+        `Cartuxa: o interior do mosteiro e o seu museu não admitem cães; combine revezar-se ou contente-se com o passeio com trela pela aldeia e pela praça.`,
+        `Port de Valldemossa: estrada estreita e íngreme até uma enseada rochosa minúscula sem serviços para cães, e multidão ao meio-dia no verão; visite cedo e mantenha o cão com trela nas curvas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences : 112 est le numéro européen unique en Espagne ; Valldemossa n'a pas de clinique 24 h, les urgences vétérinaires les plus proches sont à Palma (environ 17 km), demandez le service de garde à votre hôtel.`,
+        `Chartreuse : l'intérieur et le musée sont interdits aux chiens ; le village, ses ruelles et la place se visitent librement en laisse.`,
+        `Stationnement limité et forte affluence de mi-journée en été : arrivez tôt le matin, garez-vous aux parkings de l'entrée du village et parcourez le reste à pied.`,
+        `Bus 210 depuis Palma : petits chiens en laisse et muselés généralement admis dans les bus TIB, vérifiez la politique avant de monter.`,
+        `Aéroport de Palma de Majorque à environ 20 km ; Espagne dans l'UE, passeport européen pour animaux, puce et vaccination antirabique à jour.`,
+      ],
+      en: [
+        `Emergencies: 112 is Spain's single European number; Valldemossa has no 24-hour clinic, the nearest veterinary emergencies are in Palma (about 17 km), so ask your hotel for the on-call service.`,
+        `Charterhouse: the interior and museum are off-limits to dogs; the village, its lanes and the square are freely visited on a leash.`,
+        `Parking is limited and midday crowds are heavy in summer: arrive early, use the car parks at the village entrance and cover the rest on foot.`,
+        `Bus 210 from Palma: small leashed and muzzled dogs are usually admitted on TIB buses, check the policy before boarding.`,
+        `Palma de Mallorca airport is about 20 km away; Spain is in the EU, so bring the European pet passport with an up-to-date microchip and rabies vaccination.`,
+      ],
+      es: [
+        `Urgencias: 112 es el número europeo único en España; Valldemossa no tiene clínica 24 h, las urgencias veterinarias más cercanas están en Palma (unos 17 km), pregunta en tu hotel por el servicio de guardia.`,
+        `Cartuja: el interior y el museo no admiten perros; el pueblo, sus callejuelas y la plaza se visitan libremente con correa.`,
+        `Aparcamiento limitado y gran afluencia de mediodía en verano: llega temprano, usa los aparcamientos de la entrada del pueblo y recorre el resto a pie.`,
+        `Autobús 210 desde Palma: los perros pequeños con correa y bozal suelen admitirse en los autobuses TIB, comprueba la política antes de subir.`,
+        `Aeropuerto de Palma de Mallorca a unos 20 km; España en la UE, pasaporte europeo para mascotas, microchip y vacuna antirrábica al día.`,
+      ],
+      pt: [
+        `Urgências: 112 é o número europeu único em Espanha; Valldemossa não tem clínica 24 h, as urgências veterinárias mais próximas estão em Palma (cerca de 17 km), pergunte no seu hotel pelo serviço de urgência.`,
+        `Cartuxa: o interior e o museu não admitem cães; a aldeia, as suas ruelas e a praça visitam-se livremente com trela.`,
+        `Estacionamento limitado e grande afluência ao meio-dia no verão: chegue cedo, use os parques à entrada da aldeia e percorra o resto a pé.`,
+        `Autocarro 210 a partir de Palma: cães pequenos com trela e açaime costumam ser admitidos nos autocarros TIB, confirme a política antes de embarcar.`,
+        `Aeroporto de Palma de Maiorca a cerca de 20 km; Espanha na UE, passaporte europeu para animais, microchip e vacina antirrábica em dia.`,
       ],
     },
   },

@@ -27308,5 +27308,80 @@
     },
     "iata": "ZRH",
     "countryCode": "CH"
+  },
+  {
+    "slug": "cinque-terre",
+    "name": "Cinque Terre",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/cinque-terre.jpg",
+    "intro": "The Cinque Terre are five UNESCO-listed fishing villages strung along the Ligurian cliffs, and they are surprisingly dog-friendly where it counts: leashed dogs ride the regional train and the ferry, and walk the coastal CAI trails and the reopened Via dell'Amore. The villages are steep and their beaches restricted, so this is a destination for the paths and the sea rather than the sand.",
+    "lat": 44.1279,
+    "lng": 9.7089,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Cool & changeable",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild spring",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "PSA"
   }
 ]

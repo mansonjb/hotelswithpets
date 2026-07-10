@@ -11294,6 +11294,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'cinque-terre': {
+    history: {
+      fr: `Accrochées aux falaises de la riviera ligure, les Cinque Terre réunissent cinq villages de pêcheurs, Monterosso, Vernazza, Corniglia, Manarola et Riomaggiore, classés au patrimoine mondial de l'UNESCO depuis 1997. Des siècles de labeur y ont sculpté des milliers de terrasses en pierre sèche plantées de vignes qui donnent le vin de Sciacchetrà. Les villages, aux maisons pastel serrées autour de petits ports, sont fermés aux voitures et reliés par le train régional, le ferry et les sentiers côtiers. Pour un voyageur avec un chien, c'est là que réside la bonne surprise : les chiens en laisse voyagent en train et en ferry et parcourent les sentiers CAI et la Via dell'Amore rouverte. Le revers, honnête, ce sont les centaines de marches, la chaleur estivale et des plages presque toutes interdites aux chiens.`,
+      en: `Clinging to the cliffs of the Ligurian Riviera, the Cinque Terre are five fishing villages, Monterosso, Vernazza, Corniglia, Manarola and Riomaggiore, listed as a UNESCO World Heritage Site since 1997. Centuries of labour carved thousands of dry-stone terraces planted with the vines that yield sweet Sciacchetrà wine. The villages, their pastel houses crowded around small harbours, are closed to cars and linked by the regional train, the ferry and the coastal footpaths. For a traveller with a dog, this is where the good surprise lies: leashed dogs ride the train and the ferry and walk the CAI trails and the reopened Via dell'Amore. The honest flip side is the hundreds of steps, the summer heat and beaches that almost all ban dogs.`,
+      es: `Aferradas a los acantilados de la Riviera ligur, Cinque Terre reúne cinco pueblos pesqueros, Monterosso, Vernazza, Corniglia, Manarola y Riomaggiore, declarados Patrimonio de la Humanidad por la UNESCO desde 1997. Siglos de trabajo tallaron miles de terrazas de piedra seca plantadas con las vides que dan el dulce vino Sciacchetrà. Los pueblos, con sus casas pastel apiñadas en torno a pequeños puertos, están cerrados al tráfico y unidos por el tren regional, el ferry y los senderos costeros. Para un viajero con perro, aquí está la grata sorpresa: los perros con correa viajan en tren y ferry y recorren los senderos CAI y la reabierta Via dell'Amore. La contrapartida honesta son los cientos de escalones, el calor del verano y unas playas que casi siempre prohíben los perros.`,
+      pt: `Agarradas às falésias da Riviera lígure, as Cinque Terre reúnem cinco aldeias piscatórias, Monterosso, Vernazza, Corniglia, Manarola e Riomaggiore, classificadas como Património Mundial da UNESCO desde 1997. Séculos de trabalho esculpiram milhares de socalcos de pedra seca plantados com as vinhas que dão o doce vinho Sciacchetrà. As aldeias, de casas em tons pastel apinhadas à volta de pequenos portos, estão fechadas ao trânsito e ligadas pelo comboio regional, pelo ferry e pelos trilhos costeiros. Para um viajante com cão, é aqui que está a boa surpresa: os cães com trela viajam de comboio e de ferry e percorrem os trilhos CAI e a Via dell'Amore reaberta. O reverso honesto são as centenas de degraus, o calor do verão e praias que quase todas proíbem os cães.`,
+    },
+    sights: [
+      {
+        name: 'Sentiero Azzurro',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Le sentier bleu côtier relie les cinq villages entre vignes en terrasses et à-pics sur la mer. Les chiens en laisse sont admis ; le chemin est étroit, en marches et chaud, donc idéal aux mois frais avec une Trekking Card.`,
+          en: `The coastal Blue Path links the five villages through terraced vineyards and sea drops. Leashed dogs are welcome; the trail is narrow, stepped and hot, so it is best in the cooler months with a Trekking Card.`,
+          es: `El sendero azul costero une los cinco pueblos entre viñedos en terrazas y caídas al mar. Los perros con correa son bienvenidos; el camino es estrecho, con escalones y caluroso, así que conviene en los meses frescos con una Trekking Card.`,
+          pt: `O trilho azul costeiro liga as cinco aldeias entre vinhas em socalcos e quedas sobre o mar. Os cães com trela são bem-vindos; o percurso é estreito, com degraus e quente, sendo melhor nos meses frescos com um Trekking Card.`,
+        },
+      },
+      {
+        name: 'Via dell’Amore',
+        emoji: '❤️',
+        petFriendly: true,
+        desc: {
+          fr: `Le célèbre Chemin des Amoureux entre Riomaggiore et Manarola a rouvert en 2024 : court, plat et spectaculaire. Les chiens en laisse peuvent l'emprunter avec une Cinque Terre Card et, en été, un créneau réservé.`,
+          en: `The famous Lovers' Path between Riomaggiore and Manarola reopened in 2024: short, flat and spectacular. Leashed dogs can walk it with a Cinque Terre Card and, in summer, a booked time slot.`,
+          es: `El famoso Camino del Amor entre Riomaggiore y Manarola reabrió en 2024: corto, llano y espectacular. Los perros con correa pueden recorrerlo con una Cinque Terre Card y, en verano, una franja horaria reservada.`,
+          pt: `O famoso Caminho do Amor entre Riomaggiore e Manarola reabriu em 2024: curto, plano e espetacular. Os cães com trela podem percorrê-lo com um Cinque Terre Card e, no verão, um horário reservado.`,
+        },
+      },
+      {
+        name: 'Vernazza & Castello Doria',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus joli des cinq villages, avec son port cerné de maisons pastel et la tour médiévale du château Doria. Les chiens en laisse parcourent les ruelles et montent à la terrasse panoramique du château.`,
+          en: `The prettiest of the five, with a harbour ringed by pastel houses and the medieval Doria Castle tower. Leashed dogs roam the lanes and climb to the castle's panoramic terrace.`,
+          es: `El más bonito de los cinco, con un puerto rodeado de casas pastel y la torre medieval del castillo Doria. Los perros con correa recorren las callejuelas y suben a la terraza panorámica del castillo.`,
+          pt: `A mais bonita das cinco, com um porto rodeado de casas em tons pastel e a torre medieval do castelo Doria. Os cães com trela percorrem as ruelas e sobem ao terraço panorâmico do castelo.`,
+        },
+      },
+      {
+        name: 'Punta Bonfiglio',
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          fr: `Cette terrasse herbeuse sur le promontoire au-delà de Manarola offre bancs, aire de jeux et l'une des plus belles vues au coucher du soleil. Un rare espace ouvert où un chien en laisse peut souffler loin des ruelles.`,
+          en: `This grassy headland terrace beyond Manarola offers benches, a playground and one of the best sunset views. A rare open space where a leashed dog can relax away from the lanes.`,
+          es: `Esta terraza con césped en el promontorio más allá de Manarola ofrece bancos, parque infantil y una de las mejores vistas del atardecer. Un raro espacio abierto donde un perro con correa puede descansar lejos de las callejuelas.`,
+          pt: `Este terraço relvado no promontório para lá de Manarola oferece bancos, parque infantil e uma das melhores vistas do pôr do sol. Um raro espaço aberto onde um cão com trela pode descansar longe das ruelas.`,
+        },
+      },
+      {
+        name: 'Santuario di Volastra',
+        emoji: '🍇',
+        petFriendly: true,
+        desc: {
+          fr: `Au-dessus de Manarola, le hameau et le sanctuaire de Volastra se rejoignent par un sentier en vignes, plus ombragé et calme que la côte. Une belle montée en laisse récompensée par la vue sur les terrasses.`,
+          en: `Above Manarola, the hamlet and sanctuary of Volastra are reached by a vineyard trail, shadier and quieter than the coast. A fine leashed climb rewarded with views over the terraces.`,
+          es: `Sobre Manarola, la aldea y el santuario de Volastra se alcanzan por un sendero entre viñas, más sombreado y tranquilo que la costa. Una bonita subida con correa recompensada con vistas a las terrazas.`,
+          pt: `Acima de Manarola, a aldeia e o santuário de Volastra alcançam-se por um trilho entre vinhas, mais sombreado e calmo do que a costa. Uma bela subida com trela recompensada com vistas sobre os socalcos.`,
+        },
+      },
+      {
+        name: 'Monterosso al Mare',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus grand village, aux ruelles animées et au vieux bourg médiéval, que les chiens en laisse parcourent librement. À savoir : les chiens sont interdits sur la plage principale de baignade.`,
+          en: `The largest village, with lively lanes and a medieval old town that leashed dogs can wander freely. Note: dogs are banned from the main swimming beach.`,
+          es: `El pueblo más grande, de callejuelas animadas y casco antiguo medieval que los perros con correa recorren con libertad. A tener en cuenta: los perros están prohibidos en la playa principal de baño.`,
+          pt: `A maior aldeia, de ruelas animadas e centro antigo medieval que os cães com trela percorrem à vontade. A ter em conta: os cães são proibidos na praia principal de banhos.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La laisse est obligatoire partout : tout le territoire est un parc national qui protège la faune, y compris sur les sentiers.`,
+        `En train (Cinque Terre Express), les petits chiens en sac voyagent gratuitement ; les grands en laisse et muselière avec un billet à tarif réduit.`,
+        `Le ferry du Golfo dei Poeti accepte les chiens de toute taille gratuitement, avec muselière et laisse, sur le pont extérieur ; il ne dessert pas Corniglia.`,
+        `Villages verticaux et pierre brûlante : promenez votre chien tôt ou tard, privilégiez le printemps et l'automne, et emportez beaucoup d'eau.`,
+        `Plages presque toutes interdites aux chiens ; en été, l'accès n'est généralement toléré que de 20h30 à 5h30 environ (1er mai au 30 septembre).`,
+      ],
+      en: [
+        `A leash is mandatory everywhere: the whole area is a national park that protects wildlife, including on the trails.`,
+        `On the train (Cinque Terre Express), small dogs in a carrier travel free; larger dogs on a leash and muzzle with a reduced-fare ticket.`,
+        `The Golfo dei Poeti ferry takes dogs of any size for free, with muzzle and leash, on the open deck; it does not serve Corniglia.`,
+        `Vertical villages and baking stone: walk your dog early or late, favour spring and autumn, and carry plenty of water.`,
+        `Beaches almost all ban dogs; in summer access is generally tolerated only from about 20:30 to 05:30 (1 May to 30 September).`,
+      ],
+      es: [
+        `La correa es obligatoria en todas partes: toda la zona es un parque nacional que protege la fauna, también en los senderos.`,
+        `En el tren (Cinque Terre Express), los perros pequeños en transportín viajan gratis; los grandes con correa y bozal con un billete de tarifa reducida.`,
+        `El ferry del Golfo dei Poeti admite perros de cualquier tamaño gratis, con bozal y correa, en la cubierta al aire libre; no da servicio a Corniglia.`,
+        `Pueblos verticales y piedra ardiente: pasea al perro temprano o tarde, elige primavera y otoño, y lleva mucha agua.`,
+        `Las playas casi todas prohíben los perros; en verano el acceso solo suele tolerarse de 20:30 a 5:30 aproximadamente (1 de mayo al 30 de septiembre).`,
+      ],
+      pt: [
+        `A trela é obrigatória em todo o lado: toda a área é um parque nacional que protege a fauna, incluindo nos trilhos.`,
+        `No comboio (Cinque Terre Express), os cães pequenos em transportadora viajam grátis; os grandes com trela e açaime com um bilhete de tarifa reduzida.`,
+        `O ferry do Golfo dei Poeti aceita cães de qualquer tamanho grátis, com açaime e trela, no convés ao ar livre; não serve Corniglia.`,
+        `Aldeias verticais e pedra escaldante: passeie o cão de manhã cedo ou ao fim do dia, prefira a primavera e o outono, e leve muita água.`,
+        `As praias quase todas proíbem cães; no verão o acesso só costuma ser tolerado entre as 20h30 e as 5h30 (1 de maio a 30 de setembro).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire le plus proche (nord) : Studio Veterinario Associato Bonati & Chiocca, Via Martiri della Libertà 47, Levanto, +39 0187 801663`,
+        `Urgences 24h/24 : Clinica Veterinaria Haziel, Via Camaiora 5, Santo Stefano di Magra (SP), +39 0187 981421`,
+        `Les chiens en laisse sont admis sur la Via dell'Amore et le Sentiero Azzurro, mais une Cinque Terre Trekking Card est requise sur les tronçons payants.`,
+        `Passeport animalier européen accepté ; emportez le carnet de santé, exigé aussi pour le train et le ferry.`,
+        `Accès : train jusqu'à La Spezia Centrale ou Levanto, puis le Cinque Terre Express (chiens admis) ; les villages sont sans voitures.`,
+      ],
+      en: [
+        `Nearest vet (north): Studio Veterinario Associato Bonati & Chiocca, Via Martiri della Libertà 47, Levanto, +39 0187 801663`,
+        `24/7 emergency: Clinica Veterinaria Haziel, Via Camaiora 5, Santo Stefano di Magra (SP), +39 0187 981421`,
+        `Leashed dogs are allowed on the Via dell'Amore and the Sentiero Azzurro, but a Cinque Terre Trekking Card is required on the paid sections.`,
+        `EU pet passport accepted; carry the health booklet, also required for the train and ferry.`,
+        `Getting there: train to La Spezia Centrale or Levanto, then the Cinque Terre Express (dogs allowed); the villages are car-free.`,
+      ],
+      es: [
+        `Veterinario más cercano (norte): Studio Veterinario Associato Bonati & Chiocca, Via Martiri della Libertà 47, Levanto, +39 0187 801663`,
+        `Urgencias 24h: Clinica Veterinaria Haziel, Via Camaiora 5, Santo Stefano di Magra (SP), +39 0187 981421`,
+        `Los perros con correa se admiten en la Via dell'Amore y el Sentiero Azzurro, pero se requiere una Cinque Terre Trekking Card en los tramos de pago.`,
+        `Pasaporte europeo de mascotas aceptado; lleva la cartilla sanitaria, exigida también para el tren y el ferry.`,
+        `Cómo llegar: tren hasta La Spezia Centrale o Levanto, luego el Cinque Terre Express (perros admitidos); los pueblos son peatonales.`,
+      ],
+      pt: [
+        `Veterinário mais próximo (norte): Studio Veterinario Associato Bonati & Chiocca, Via Martiri della Libertà 47, Levanto, +39 0187 801663`,
+        `Urgências 24h: Clinica Veterinaria Haziel, Via Camaiora 5, Santo Stefano di Magra (SP), +39 0187 981421`,
+        `Os cães com trela são admitidos na Via dell'Amore e no Sentiero Azzurro, mas é preciso um Cinque Terre Trekking Card nos troços pagos.`,
+        `Passaporte europeu para animais aceite; leve o boletim de saúde, também exigido no comboio e no ferry.`,
+        `Como chegar: comboio até La Spezia Centrale ou Levanto, depois o Cinque Terre Express (cães admitidos); as aldeias não têm carros.`,
+      ],
+    },
+  },
+
   'cluj-napoca': {
     history: {
       fr: `Cluj-Napoca, capitale historique de la Transylvanie, est bâtie sur les fondations de la cité romaine de Napoca, au bord de la rivière Someșul Mic. Avec plus de 80 000 étudiants, c'est la grande ville universitaire de la Roumanie, jeune, animée et réputée pour sa culture de terrasses où les chiens sont bien tolérés. Le cœur se resserre autour de la Piața Unirii et de l'église gothique Saint-Michel, dont les animaux n'entrent pas mais dont la place reste un point de rendez-vous agréable. Sur les hauteurs, la colline de la Cetățuia offre un panorama sur les toits et les collines environnantes, tandis que le Parc Central Simion Bărnuțiu et son lac bordent la Cluj Arena. La forêt de Hoia, célèbre et immense, commence aux portes de la ville pour de longues randonnées en laisse. Le climat continental apporte des étés chauds et des hivers froids et enneigés, si bien que le printemps et le début de l'automne sont les saisons les plus confortables pour voyager avec un chien.`,

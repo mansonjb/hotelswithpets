@@ -5924,6 +5924,142 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  boston: {
+    history: {
+      fr: `Boston, capitale du Massachusetts et l'une des plus anciennes villes des États-Unis, fut fondée par les puritains en 1630 et devint le berceau de la Révolution américaine. Compacte et éminemment piétonne, elle se parcourt à pied bien plus facilement que la plupart des villes américaines, ce qui en fait une escapade urbaine étonnamment agréable avec un chien. Son cœur historique s'articule autour du Boston Common, le plus ancien parc public du pays (1634), prolongé par le Public Garden victorien, tandis que le Freedom Trail relie sur 4 km les grands sites de l'indépendance. Le long de la Charles River, l'Esplanade offre des kilomètres de berges prisées des promeneurs de chiens, et le Harborwalk suit le front de mer réaménagé. Les hivers sont froids et neigeux (attention au sel de déneigement), les étés chauds et humides. Point d'attention majeur pour les visiteurs : le métro et le train de banlieue (le "T", MBTA) admettent les chiens sous conditions.`,
+      en: `Boston, the capital of Massachusetts and one of the oldest cities in the United States, was founded by Puritans in 1630 and became the cradle of the American Revolution. Compact and famously walkable, it is far easier to explore on foot than most American cities, which makes it a surprisingly rewarding urban break with a dog. Its historic heart centres on Boston Common, the oldest public park in the country (1634), flowing into the Victorian Public Garden, while the Freedom Trail links the great sites of independence along a 4 km walking route. Beside the Charles River, the Esplanade offers miles of riverbank popular with dog walkers, and the Harborwalk traces the reclaimed waterfront. Winters are cold and snowy (mind the de-icing salt), summers hot and humid. The main thing visitors ask about: the subway and commuter rail (the "T", MBTA) allow dogs under conditions.`,
+      es: `Boston, capital de Massachusetts y una de las ciudades más antiguas de Estados Unidos, fue fundada por puritanos en 1630 y se convirtió en la cuna de la Revolución Americana. Compacta y muy caminable, se recorre a pie mucho más fácilmente que la mayoría de las ciudades estadounidenses, lo que la convierte en una escapada urbana sorprendentemente grata con perro. Su corazón histórico gira en torno al Boston Common, el parque público más antiguo del país (1634), que se prolonga en el Public Garden victoriano, mientras que el Freedom Trail enlaza los grandes escenarios de la independencia en un recorrido a pie de 4 km. Junto al río Charles, el Esplanade ofrece kilómetros de ribera muy frecuentada por paseadores de perros, y el Harborwalk sigue el frente marítimo rehabilitado. Los inviernos son fríos y nevados (cuidado con la sal de deshielo), los veranos calurosos y húmedos. Lo que más preguntan los visitantes: el metro y el tren de cercanías (el "T", MBTA) admiten perros con condiciones.`,
+      pt: `Boston, capital do Massachusetts e uma das cidades mais antigas dos Estados Unidos, foi fundada por puritanos em 1630 e tornou-se o berço da Revolução Americana. Compacta e muito pedonal, percorre-se a pé bem mais facilmente do que a maioria das cidades norte-americanas, o que a torna uma escapadela urbana surpreendentemente agradável com um cão. O seu coração histórico centra-se no Boston Common, o parque público mais antigo do país (1634), que se prolonga no Public Garden vitoriano, enquanto o Freedom Trail liga os grandes cenários da independência num percurso a pé de 4 km. Junto ao rio Charles, o Esplanade oferece quilómetros de margem muito procurada por quem passeia cães, e o Harborwalk acompanha a frente ribeirinha reabilitada. Os invernos são frios e com neve (atenção ao sal de degelo), os verões quentes e húmidos. O que os visitantes mais perguntam: o metro e o comboio suburbano (o "T", MBTA) admitem cães com condições.`,
+    },
+    sights: [
+      {
+        name: 'Boston Common & Public Garden',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus ancien parc public des États-Unis (1634), 20 hectares de pelouses au cœur de la ville, prolongé par le Public Garden victorien et ses parterres soignés. Les chiens en laisse sont les bienvenus dans les deux espaces sur les allées et pelouses ; le Frog Pond et les massifs fleuris restent hors limites, et les célèbres barques Swan Boats n'admettent pas les animaux.`,
+          en: `The oldest public park in the United States (1634), 20 hectares of lawns at the city's heart, extending into the Victorian Public Garden with its manicured beds. Leashed dogs are welcome across both on the paths and lawns; the Frog Pond and flower beds are off-limits, and the famous Swan Boats do not take pets.`,
+          es: `El parque público más antiguo de Estados Unidos (1634), 20 hectáreas de praderas en el corazón de la ciudad, que se prolonga en el Public Garden victoriano y sus cuidados parterres. Los perros con correa son bienvenidos en ambos por los senderos y praderas; el Frog Pond y los macizos de flores quedan vetados, y las célebres barcas Swan Boats no admiten mascotas.`,
+          pt: `O parque público mais antigo dos Estados Unidos (1634), 20 hectares de relvados no coração da cidade, que se prolonga no Public Garden vitoriano e nos seus canteiros cuidados. Os cães com trela são bem-vindos em ambos pelos caminhos e relvados; o Frog Pond e os canteiros de flores estão interditos, e os célebres barcos Swan Boats não aceitam animais.`,
+        },
+      },
+      {
+        name: 'Freedom Trail',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Un itinéraire piéton de 4 km balisé par une ligne de briques rouges reliant 16 sites historiques, de Boston Common au Bunker Hill Monument. Entièrement en plein air, il se parcourt en laisse et constitue la meilleure façon de découvrir la ville avec un chien ; seuls les intérieurs (Old State House, Old North Church) ne sont pas accessibles aux animaux.`,
+          en: `A 4 km walking route marked by a red-brick line linking 16 historic sites, from Boston Common to the Bunker Hill Monument. Entirely outdoors, it is walked on lead and is the best way to see the city with a dog; only the interiors (Old State House, Old North Church) are off-limits to pets.`,
+          es: `Un recorrido a pie de 4 km señalizado con una línea de ladrillo rojo que enlaza 16 lugares históricos, desde Boston Common hasta el Bunker Hill Monument. Totalmente al aire libre, se recorre con correa y es la mejor forma de conocer la ciudad con perro; solo los interiores (Old State House, Old North Church) quedan vetados a las mascotas.`,
+          pt: `Um percurso a pé de 4 km assinalado por uma linha de tijolo vermelho que liga 16 locais históricos, desde o Boston Common até ao Bunker Hill Monument. Totalmente ao ar livre, percorre-se com trela e é a melhor forma de conhecer a cidade com um cão; apenas os interiores (Old State House, Old North Church) estão interditos aos animais.`,
+        },
+      },
+      {
+        name: 'Charles River Esplanade',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Un parc linéaire de 5 km le long de la Charles River côté Boston, avec chemins pavés, lagons et pelouses ouvertes face aux voiliers et au campus du MIT sur l'autre rive. Très prisé des promeneurs de chiens matin et soir, il se parcourt en laisse ; le Boston Common voisin et le parc canin de Charlesbank complètent les options.`,
+          en: `A 5 km linear park along the Boston bank of the Charles River, with paved paths, lagoons and open lawns facing sailboats and the MIT campus across the water. A favourite with dog walkers morning and evening, it is walked on lead; the nearby Charlesbank dog park adds an off-leash option.`,
+          es: `Un parque lineal de 5 km a lo largo de la orilla de Boston del río Charles, con senderos pavimentados, lagunas y praderas abiertas frente a los veleros y al campus del MIT en la otra ribera. Muy apreciado por los paseadores de perros mañana y tarde, se recorre con correa; el cercano parque canino de Charlesbank añade una opción sin correa.`,
+          pt: `Um parque linear de 5 km ao longo da margem de Boston do rio Charles, com caminhos pavimentados, lagoas e relvados abertos de frente para os veleiros e para o campus do MIT na outra margem. Muito apreciado por quem passeia cães de manhã e à tarde, percorre-se com trela; o vizinho parque canino de Charlesbank acrescenta uma opção sem trela.`,
+        },
+      },
+      {
+        name: 'Boston Harborwalk',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Une promenade publique du front de mer qui suit sur des kilomètres les quais réaménagés, du North End au Seaport en passant par le Fan Pier. Les chiens en laisse y sont bienvenus toute l'année, avec vues sur le port, les ferries et les îles ; les intérieurs des musées (dont l'ICA) restent hors limites mais les esplanades extérieures sont ouvertes.`,
+          en: `A public waterfront promenade tracing the reclaimed docks for miles, from the North End through the Seaport and Fan Pier. Leashed dogs are welcome year-round, with views of the harbour, ferries and islands; museum interiors (including the ICA) are off-limits but the outdoor plazas are open.`,
+          es: `Un paseo marítimo público que sigue durante kilómetros los muelles rehabilitados, del North End al Seaport pasando por Fan Pier. Los perros con correa son bienvenidos todo el año, con vistas al puerto, los ferris y las islas; los interiores de los museos (incluido el ICA) quedan vetados pero las explanadas exteriores están abiertas.`,
+          pt: `Um passeio público na frente marítima que acompanha durante quilómetros as docas reabilitadas, do North End ao Seaport passando pelo Fan Pier. Os cães com trela são bem-vindos todo o ano, com vistas para o porto, os ferries e as ilhas; os interiores dos museus (incluindo o ICA) estão interditos mas as esplanadas exteriores estão abertas.`,
+        },
+      },
+      {
+        name: 'Beacon Hill',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier historique le plus pittoresque de Boston, aux ruelles pavées bordées de maisons en brique fédérale, de réverbères à gaz et de la célèbre Acorn Street. Entièrement à explorer à pied en laisse, c'est un décor idéal pour flâner avec un chien avant de rejoindre le Boston Common tout proche ; boutiques et cafés de Charles Street sont souvent accueillants en terrasse.`,
+          en: `Boston's most picturesque historic neighbourhood, all cobbled lanes lined with Federal-style brick houses, gas lamps and the famous Acorn Street. Entirely explored on foot on lead, it is an ideal setting for a stroll with a dog before dropping down to the adjacent Boston Common; the shops and cafés of Charles Street are often welcoming on their terraces.`,
+          es: `El barrio histórico más pintoresco de Boston, todo callejuelas empedradas flanqueadas por casas de ladrillo de estilo federal, farolas de gas y la célebre Acorn Street. Se explora enteramente a pie con correa, un escenario ideal para pasear con perro antes de bajar al vecino Boston Common; las tiendas y cafés de Charles Street suelen ser acogedores en sus terrazas.`,
+          pt: `O bairro histórico mais pitoresco de Boston, todo em ruelas empedradas ladeadas por casas de tijolo de estilo federal, candeeiros a gás e a célebre Acorn Street. Explora-se inteiramente a pé com trela, um cenário ideal para passear com um cão antes de descer ao vizinho Boston Common; as lojas e cafés da Charles Street são muitas vezes acolhedores nas esplanadas.`,
+        },
+      },
+      {
+        name: 'Arnold Arboretum',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc arboré de l'université Harvard, 115 hectares de collections d'arbres du monde entier dessinés par Frederick Law Olmsted, maillon de l'Emerald Necklace au sud de la ville. Les chiens en laisse sont bienvenus sur les allées et pelouses toute l'année (jamais en liberté), pour de longues promenades ombragées spectaculaires au printemps des lilas et à l'automne.`,
+          en: `Harvard University's tree park, 115 hectares of tree collections from around the world laid out by Frederick Law Olmsted, a link in the Emerald Necklace south of the city. Leashed dogs are welcome on the paths and lawns year-round (never off-leash), for long shaded walks that are spectacular in lilac season and autumn.`,
+          es: `El parque arbóreo de la Universidad de Harvard, 115 hectáreas de colecciones de árboles de todo el mundo diseñadas por Frederick Law Olmsted, eslabón del Emerald Necklace al sur de la ciudad. Los perros con correa son bienvenidos en senderos y praderas todo el año (nunca sueltos), para largos paseos sombreados espectaculares en la temporada de lilas y en otoño.`,
+          pt: `O parque arbóreo da Universidade de Harvard, 115 hectares de coleções de árvores de todo o mundo desenhadas por Frederick Law Olmsted, um elo do Emerald Necklace a sul da cidade. Os cães com trela são bem-vindos nos caminhos e relvados todo o ano (nunca à solta), para longos passeios sombreados espetaculares na época dos lilases e no outono.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Le "T" (métro et train de banlieue MBTA) admet les petits chiens en sac de transport fermé à toute heure ; les grands chiens en laisse sont autorisés uniquement hors heures de pointe (jamais en semaine 7h-9h et 16h-19h), à la discrétion du conducteur.`,
+        `La plupart des plages du Massachusetts interdisent les chiens en été ; certaines les admettent hors saison (à partir de l'automne). Vérifiez la réglementation de chaque plage avant de vous déplacer.`,
+        `Hivers froids et neigeux : le sel et les produits de déneigement irritent et brûlent les coussinets. Rincez les pattes au retour ou utilisez des bottines, surtout en janvier et février.`,
+        `Étés chauds et humides : promenez tôt le matin ou en soirée, évitez le bitume brûlant en pleine journée et emportez de l'eau ; l'Esplanade et l'Arboretum offrent de l'ombre.`,
+        `Le Freedom Trail se fait entièrement en laisse et en extérieur : c'est la meilleure façon de visiter la ville avec un chien, mais prévoyez que les intérieurs des monuments ne sont pas accessibles.`,
+      ],
+      en: [
+        `The "T" (MBTA subway and commuter rail) allows small dogs in a closed carrier at any time; larger leashed dogs are permitted off-peak only (never weekdays 7-9am and 4-7pm), at the operator's discretion.`,
+        `Most Massachusetts beaches ban dogs in summer; some allow them off-season (from autumn). Check each beach's rules before making the trip.`,
+        `Cold, snowy winters: road salt and de-icing chemicals irritate and burn paw pads. Rinse paws on return or use booties, especially in January and February.`,
+        `Hot, humid summers: walk early morning or evening, avoid scorching pavement in the middle of the day and carry water; the Esplanade and the Arboretum offer shade.`,
+        `The Freedom Trail is entirely on-lead and outdoors: it is the best way to tour the city with a dog, but plan for the monument interiors being off-limits.`,
+      ],
+      es: [
+        `El "T" (metro y tren de cercanías MBTA) admite perros pequeños en transportín cerrado a cualquier hora; los perros grandes con correa solo se permiten fuera de las horas punta (nunca entre semana de 7-9h y 16-19h), a discreción del conductor.`,
+        `La mayoría de las playas de Massachusetts prohíben los perros en verano; algunas los admiten fuera de temporada (a partir del otoño). Comprueba las normas de cada playa antes de desplazarte.`,
+        `Inviernos fríos y nevados: la sal y los productos de deshielo irritan y queman las almohadillas. Enjuaga las patas al volver o usa botines, sobre todo en enero y febrero.`,
+        `Veranos calurosos y húmedos: pasea a primera hora o al atardecer, evita el asfalto ardiente a mediodía y lleva agua; el Esplanade y el Arboretum ofrecen sombra.`,
+        `El Freedom Trail se hace enteramente con correa y al aire libre: es la mejor forma de visitar la ciudad con perro, pero cuenta con que los interiores de los monumentos no son accesibles.`,
+      ],
+      pt: [
+        `O "T" (metro e comboio suburbano MBTA) admite cães pequenos em transportadora fechada a qualquer hora; os cães maiores com trela só são permitidos fora das horas de ponta (nunca em dias úteis das 7h-9h e 16h-19h), ao critério do condutor.`,
+        `A maioria das praias do Massachusetts proíbe cães no verão; algumas admitem-nos fora de época (a partir do outono). Verifique as regras de cada praia antes de se deslocar.`,
+        `Invernos frios e com neve: o sal e os produtos de degelo irritam e queimam as almofadinhas das patas. Enxague as patas ao regressar ou use botinhas, sobretudo em janeiro e fevereiro.`,
+        `Verões quentes e húmidos: passeie de manhã cedo ou ao fim do dia, evite o alcatrão escaldante a meio do dia e leve água; o Esplanade e o Arboretum oferecem sombra.`,
+        `O Freedom Trail faz-se inteiramente com trela e ao ar livre: é a melhor forma de visitar a cidade com um cão, mas conte que os interiores dos monumentos não são acessíveis.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrer aux États-Unis avec un chien relève des règles du CDC, pas du passeport européen : depuis août 2024, tout chien doit avoir une puce ISO, avoir au moins 6 mois et un formulaire d'importation CDC Dog Import Form rempli en ligne avant l'arrivée.`,
+        `Numéro d'urgence général (police, pompiers, ambulance) : 911. Il n'existe pas de numéro national dédié aux urgences vétérinaires ; adressez-vous directement à un hôpital vétérinaire 24h/24.`,
+        `Se déplacer : la ville est très piétonne ; le métro et le train de banlieue MBTA (le "T") admettent les petits chiens en sac à toute heure et les grands chiens en laisse hors heures de pointe, à la discrétion du personnel.`,
+        `Règle locale : chiens tenus en laisse dans les parcs et rues, ramassage obligatoire des déjections. Les aires sans laisse sont rares et signalées (Charlesbank, Peters Park) ; ailleurs, la laisse est la norme.`,
+        `Urgences vétérinaires 24h/24 : l'Angell Animal Medical Center (MSPCA, 350 South Huntington Avenue, Jamaica Plain) est l'hôpital vétérinaire d'urgence de référence de Boston, ouvert en continu.`,
+      ],
+      en: [
+        `Entering the United States with a dog follows CDC rules, not an EU passport: since August 2024 every dog must have an ISO microchip, be at least 6 months old and carry a CDC Dog Import Form completed online before arrival.`,
+        `General emergency number (police, fire, ambulance): 911. There is no dedicated national veterinary emergency line; go directly to a 24-hour animal hospital.`,
+        `Getting around: the city is highly walkable; the MBTA subway and commuter rail (the "T") take small dogs in a carrier at any time and larger leashed dogs off-peak, at staff discretion.`,
+        `Local rule: dogs on lead in parks and streets, picking up after them is mandatory. Off-leash areas are few and signposted (Charlesbank, Peters Park); elsewhere, the lead is the norm.`,
+        `24-hour veterinary emergencies: the Angell Animal Medical Center (MSPCA, 350 South Huntington Avenue, Jamaica Plain) is Boston's leading emergency animal hospital, open around the clock.`,
+      ],
+      es: [
+        `Entrar en Estados Unidos con un perro se rige por las normas del CDC, no por el pasaporte europeo: desde agosto de 2024 todo perro debe tener microchip ISO, tener al menos 6 meses y llevar un formulario CDC Dog Import Form cumplimentado en línea antes de la llegada.`,
+        `Número de emergencias general (policía, bomberos, ambulancia): 911. No existe una línea nacional dedicada a urgencias veterinarias; acude directamente a un hospital veterinario de 24 horas.`,
+        `Moverse: la ciudad es muy caminable; el metro y el tren de cercanías MBTA (el "T") admiten perros pequeños en transportín a cualquier hora y perros grandes con correa fuera de horas punta, a discreción del personal.`,
+        `Norma local: perros con correa en parques y calles, recogida obligatoria de excrementos. Las zonas sin correa son escasas y están señalizadas (Charlesbank, Peters Park); en el resto, la correa es la norma.`,
+        `Urgencias veterinarias 24 horas: el Angell Animal Medical Center (MSPCA, 350 South Huntington Avenue, Jamaica Plain) es el hospital veterinario de urgencias de referencia de Boston, abierto de forma continua.`,
+      ],
+      pt: [
+        `Entrar nos Estados Unidos com um cão segue as regras do CDC, não o passaporte europeu: desde agosto de 2024 todo o cão deve ter microchip ISO, ter pelo menos 6 meses e levar um formulário CDC Dog Import Form preenchido online antes da chegada.`,
+        `Número de emergência geral (polícia, bombeiros, ambulância): 911. Não existe uma linha nacional dedicada a urgências veterinárias; dirija-se diretamente a um hospital veterinário de 24 horas.`,
+        `Deslocações: a cidade é muito pedonal; o metro e o comboio suburbano MBTA (o "T") aceitam cães pequenos em transportadora a qualquer hora e cães maiores com trela fora das horas de ponta, ao critério do pessoal.`,
+        `Regra local: cães com trela nos parques e ruas, recolha obrigatória dos dejetos. As zonas sem trela são poucas e sinalizadas (Charlesbank, Peters Park); no resto, a trela é a norma.`,
+        `Urgências veterinárias 24 horas: o Angell Animal Medical Center (MSPCA, 350 South Huntington Avenue, Jamaica Plain) é o hospital veterinário de urgência de referência de Boston, aberto de forma contínua.`,
+      ],
+    },
+  },
   bournemouth: {
     history: {
       en: `Bournemouth sits on the Dorset coast facing the English Channel, a Victorian seaside resort founded in 1810 when Lewis Tregonwell built the first villa on what was then empty heathland. By the mid-19th century the pine-scented air had attracted a stream of convalescents, and the town expanded into a planned grid of gardens, hotels and a 305-metre iron pier (built 1880). Today Bournemouth-Christchurch-Poole (BCP) is one of the UK's largest conurbations at around 400,000 residents, swollen by five million visitors a year drawn to the seven-mile golden-sand beach, the protected Jurassic Coast immediately west, and the New Forest National Park 30 minutes north. For pet visitors the headline is the year-round dog beach zones at Fisherman's Walk (Southbourne) and the Hengistbury end, the off-leash 162-hectare Hengistbury Head Nature Reserve, a 2 km linear chain of public gardens through the centre, and the wooded chines (Branksome, Durley, Alum) descending to the beach.`,
@@ -10749,6 +10885,142 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  chicago: {
+    history: {
+      fr: `Chicago, troisième ville des États-Unis, s'étire sur la rive sud-ouest du lac Michigan dans l'Illinois. Reconstruite après le grand incendie de 1871, elle est devenue le berceau du gratte-ciel et l'une des grandes villes d'architecture du monde, tout en conservant un rapport exceptionnel à son lac : 29 km de rivage public entièrement dédiés aux parcs et à la promenade. Pour un chien, c'est l'une des villes américaines les mieux équipées : le Lakefront Trail longe l'eau sur toute la ville, Chicago dispose d'un réseau officiel d'aires canines clôturées (les Dog Friendly Areas, ou DFA) et de véritables plages canines comme la fameuse Montrose Dog Beach. Le climat est un cas d'école de continentalité : étés chauds et humides, hivers très froids, neigeux et venteux (la "Windy City"), avec un sel de déneigement omniprésent qui agresse les coussinets. Millennium Park, le Riverwalk et Lincoln Park complètent un centre étonnamment vert et praticable à pied.`,
+      en: `Chicago, the third-largest city in the United States, stretches along the south-western shore of Lake Michigan in Illinois. Rebuilt after the great fire of 1871, it became the birthplace of the skyscraper and one of the world's great architecture cities, while keeping an exceptional relationship with its lake: 29 km of public shoreline given over entirely to parks and promenade. For a dog it is one of the best-equipped American cities: the Lakefront Trail runs beside the water the length of the city, Chicago has an official network of fenced dog areas (Dog Friendly Areas, or DFAs) and genuine dog beaches like the famous Montrose Dog Beach. The climate is a textbook case of continentality: hot humid summers, very cold snowy windy winters (the "Windy City"), with pervasive de-icing salt that attacks paw pads. Millennium Park, the Riverwalk and Lincoln Park round out a surprisingly green, walkable centre.`,
+      es: `Chicago, la tercera ciudad de Estados Unidos, se extiende a lo largo de la orilla suroeste del lago Michigan, en Illinois. Reconstruida tras el gran incendio de 1871, se convirtió en la cuna del rascacielos y en una de las grandes ciudades de la arquitectura mundial, sin perder una relación excepcional con su lago: 29 km de ribera pública dedicados por entero a parques y paseo. Para un perro es una de las ciudades estadounidenses mejor equipadas: el Lakefront Trail bordea el agua a lo largo de toda la ciudad, Chicago cuenta con una red oficial de zonas caninas valladas (las Dog Friendly Areas, o DFA) y verdaderas playas caninas como la famosa Montrose Dog Beach. El clima es un caso de manual de continentalidad: veranos calurosos y húmedos, inviernos muy fríos, nevados y ventosos (la "Windy City"), con una sal de deshielo omnipresente que agrede las almohadillas. Millennium Park, el Riverwalk y Lincoln Park completan un centro sorprendentemente verde y transitable a pie.`,
+      pt: `Chicago, a terceira maior cidade dos Estados Unidos, estende-se ao longo da margem sudoeste do lago Michigan, no Illinois. Reconstruída após o grande incêndio de 1871, tornou-se o berço do arranha-céus e uma das grandes cidades da arquitetura mundial, mantendo uma relação excecional com o seu lago: 29 km de margem pública inteiramente dedicados a parques e passeio. Para um cão é uma das cidades norte-americanas mais bem equipadas: o Lakefront Trail acompanha a água ao longo de toda a cidade, Chicago dispõe de uma rede oficial de zonas para cães vedadas (as Dog Friendly Areas, ou DFA) e verdadeiras praias caninas como a famosa Montrose Dog Beach. O clima é um caso de manual de continentalidade: verões quentes e húmidos, invernos muito frios, com neve e vento (a "Windy City"), com um sal de degelo omnipresente que agride as almofadinhas das patas. O Millennium Park, o Riverwalk e o Lincoln Park completam um centro surpreendentemente verde e percorrível a pé.`,
+    },
+    sights: [
+      {
+        name: 'Lakefront Trail',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Un sentier pavé de 29 km longeant le lac Michigan d'un bout à l'autre de la ville, reliant plages, parcs et ports de plaisance, l'une des plus belles promenades urbaines des États-Unis. Les chiens en laisse y sont bienvenus sur toute sa longueur ; il dessert au passage plusieurs DFA clôturées et les plages canines officielles.`,
+          en: `A 29 km paved path running the length of the city beside Lake Michigan, linking beaches, parks and marinas, one of the finest urban walks in the United States. Leashed dogs are welcome its whole length; it passes several fenced DFAs and the official dog beaches along the way.`,
+          es: `Un sendero pavimentado de 29 km que bordea el lago Michigan de un extremo a otro de la ciudad, enlazando playas, parques y puertos deportivos, uno de los mejores paseos urbanos de Estados Unidos. Los perros con correa son bienvenidos en toda su longitud; de paso da servicio a varias DFA valladas y a las playas caninas oficiales.`,
+          pt: `Um trilho pavimentado de 29 km que acompanha o lago Michigan de uma ponta à outra da cidade, ligando praias, parques e marinas, um dos melhores passeios urbanos dos Estados Unidos. Os cães com trela são bem-vindos em todo o seu comprimento; ao longo do percurso serve várias DFA vedadas e as praias caninas oficiais.`,
+        },
+      },
+      {
+        name: 'Millennium Park & Cloud Gate',
+        emoji: '🫧',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc emblématique du centre, avec la sculpture miroir Cloud Gate (le "Bean"), le pavillon Pritzker de Frank Gehry et la Crown Fountain. Les chiens en laisse sont admis dans les allées et pelouses extérieures ; la fontaine où pataugent les enfants et les scènes de concert leur sont interdites, mais l'esplanade autour du Bean se visite sans problème.`,
+          en: `The city's signature downtown park, with the mirror sculpture Cloud Gate (the "Bean"), Frank Gehry's Pritzker Pavilion and the Crown Fountain. Leashed dogs are allowed on the outdoor paths and lawns; the wading fountain and concert stages are off-limits to them, but the plaza around the Bean is easily visited.`,
+          es: `El parque emblemático del centro, con la escultura espejo Cloud Gate (el "Bean"), el pabellón Pritzker de Frank Gehry y la Crown Fountain. Los perros con correa se admiten en los senderos y praderas exteriores; la fuente donde chapotean los niños y los escenarios de conciertos les quedan vetados, pero la explanada en torno al Bean se visita sin problema.`,
+          pt: `O parque emblemático do centro, com a escultura espelho Cloud Gate (o "Bean"), o pavilhão Pritzker de Frank Gehry e a Crown Fountain. Os cães com trela são admitidos nos caminhos e relvados exteriores; a fonte onde as crianças chapinham e os palcos de concertos estão-lhes interditos, mas a esplanada em redor do Bean visita-se sem problema.`,
+        },
+      },
+      {
+        name: 'Montrose Dog Beach',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La grande plage canine sans laisse de Chicago, une étendue clôturée de sable et de baignade lacustre à l'angle nord-ouest de Montrose Beach. Les chiens y courent et nagent librement, mais un badge DFA (délivré sur présentation d'un vaccin antirabique à jour) est obligatoire ; la partie "humaine" de Montrose Beach reste interdite aux chiens.`,
+          en: `Chicago's big off-leash dog beach, a fenced stretch of sand and lake swimming at the north-west corner of Montrose Beach. Dogs run and swim freely, but a DFA tag (issued on proof of current rabies vaccination) is required; the "people" side of Montrose Beach stays off-limits to dogs.`,
+          es: `La gran playa canina sin correa de Chicago, una extensión vallada de arena y baño lacustre en la esquina noroeste de Montrose Beach. Los perros corren y nadan libremente, pero es obligatorio un distintivo DFA (que se emite presentando la vacuna antirrábica al día); la parte "humana" de Montrose Beach sigue vetada a los perros.`,
+          pt: `A grande praia canina sem trela de Chicago, uma extensão vedada de areia e banho no lago no canto noroeste de Montrose Beach. Os cães correm e nadam livremente, mas é obrigatória uma chapa DFA (emitida mediante prova de vacina antirrábica em dia); a parte "humana" de Montrose Beach continua interdita aos cães.`,
+        },
+      },
+      {
+        name: 'Chicago Riverwalk',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Une promenade aménagée le long de la rivière Chicago au cœur du Loop, ponctuée de terrasses, de jardins et de vues sur les gratte-ciel les plus célèbres de la ville. Les chiens en laisse y sont bienvenus tout du long ; c'est un maillon plat et ombragé par endroits reliant le lac au quartier des affaires.`,
+          en: `A landscaped promenade along the Chicago River in the heart of the Loop, dotted with terraces, gardens and views of the city's most famous skyscrapers. Leashed dogs are welcome its full length; it is a flat, partly shaded link between the lake and the business district.`,
+          es: `Un paseo ajardinado a lo largo del río Chicago en el corazón del Loop, salpicado de terrazas, jardines y vistas a los rascacielos más famosos de la ciudad. Los perros con correa son bienvenidos en todo su recorrido; es un tramo llano y en parte sombreado que une el lago con el distrito financiero.`,
+          pt: `Um passeio ajardinado ao longo do rio Chicago no coração do Loop, pontuado de esplanadas, jardins e vistas para os arranha-céus mais famosos da cidade. Os cães com trela são bem-vindos em todo o percurso; é um troço plano e em parte sombreado que liga o lago ao distrito financeiro.`,
+        },
+      },
+      {
+        name: 'Lincoln Park',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus grand parc de la ville, plus de 480 hectares le long du lac au nord du centre, avec étangs, jardins et le premier parc canin officiel de Chicago (Wiggly Field). Les chiens en laisse sont bienvenus dans tout le parc ; plusieurs DFA clôturées permettent le hors-laisse avec un badge DFA, tandis que le zoo gratuit voisin reste interdit aux chiens.`,
+          en: `The city's largest park, over 480 hectares along the lake north of downtown, with ponds, gardens and Chicago's first official dog park (Wiggly Field). Leashed dogs are welcome throughout; several fenced DFAs allow off-leash play with a DFA tag, while the adjacent free zoo remains off-limits to dogs.`,
+          es: `El mayor parque de la ciudad, más de 480 hectáreas junto al lago al norte del centro, con estanques, jardines y el primer parque canino oficial de Chicago (Wiggly Field). Los perros con correa son bienvenidos en todo el parque; varias DFA valladas permiten el suelto con distintivo DFA, mientras que el zoo gratuito contiguo sigue vetado a los perros.`,
+          pt: `O maior parque da cidade, mais de 480 hectares ao longo do lago a norte do centro, com lagos, jardins e o primeiro parque canino oficial de Chicago (Wiggly Field). Os cães com trela são bem-vindos em todo o parque; várias DFA vedadas permitem andar à solta com chapa DFA, enquanto o jardim zoológico gratuito contíguo continua interdito aos cães.`,
+        },
+      },
+      {
+        name: 'The 606 (Bloomingdale Trail)',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Une ancienne voie ferrée surélevée transformée en promenade plantée de 4,3 km à travers les quartiers nord-ouest, dans l'esprit de la High Line new-yorkaise. Les chiens en laisse y sont bienvenus toute l'année ; c'est une échappée verte à l'écart de la circulation, avec accès par rampes et petits parcs le long du parcours.`,
+          en: `A former elevated railway turned into a 4.3 km planted promenade through the north-west neighbourhoods, in the spirit of New York's High Line. Leashed dogs are welcome year-round; it is a green escape away from traffic, with ramp access and pocket parks along the way.`,
+          es: `Una antigua vía férrea elevada convertida en un paseo ajardinado de 4,3 km por los barrios del noroeste, al estilo de la High Line neoyorquina. Los perros con correa son bienvenidos todo el año; es una escapada verde apartada del tráfico, con acceso por rampas y pequeños parques a lo largo del recorrido.`,
+          pt: `Uma antiga via férrea elevada convertida num passeio ajardinado de 4,3 km pelos bairros do noroeste, no espírito da High Line nova-iorquina. Os cães com trela são bem-vindos todo o ano; é uma fuga verde afastada do trânsito, com acesso por rampas e pequenos parques ao longo do percurso.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Pour utiliser les aires canines sans laisse (DFA) et les plages canines comme Montrose, un badge DFA est obligatoire pour chaque chien : gratuit d'accès mais délivré par un vétérinaire participant sur preuve de vaccination antirabique à jour, à obtenir avant votre visite.`,
+        `Le métro et les bus CTA n'acceptent que les petits animaux dans un sac de transport fermé ; les grands chiens ne sont pas admis, prévoyez la marche, le vélo ou la voiture.`,
+        `Hivers très froids, neigeux et venteux : le sel de déneigement brûle les coussinets et le froid ressenti peut être dangereux. Rincez ou essuyez les pattes au retour, envisagez bottines et manteau de décembre à mars.`,
+        `Étés chauds et humides : le sable et le bitume chauffent fort, promenez tôt ou tard et emportez de l'eau ; Montrose Dog Beach permet la baignade pour se rafraîchir (de 11h à 19h en saison).`,
+        `Chiens tenus en laisse partout hors des DFA clôturées ; le hors-laisse en dehors de ces zones est verbalisable. Les plages "humaines" de la ville interdisent totalement les chiens, en laisse comme sans.`,
+      ],
+      en: [
+        `To use the off-leash dog areas (DFAs) and dog beaches like Montrose, a DFA tag is required for each dog: free to use but issued by a participating vet on proof of current rabies vaccination, best obtained before your visit.`,
+        `The CTA subway and buses only take small animals in a closed carrier; larger dogs are not allowed, so plan on walking, cycling or driving.`,
+        `Very cold, snowy, windy winters: de-icing salt burns paw pads and the wind chill can be dangerous. Rinse or wipe paws on return, consider booties and a coat from December to March.`,
+        `Hot, humid summers: sand and pavement get very hot, so walk early or late and carry water; Montrose Dog Beach allows swimming to cool off (11am to 7pm in season).`,
+        `Dogs on lead everywhere outside the fenced DFAs; off-leash outside those zones is ticketable. The city's "people" beaches ban dogs entirely, on or off lead.`,
+      ],
+      es: [
+        `Para usar las zonas caninas sin correa (DFA) y las playas caninas como Montrose, es obligatorio un distintivo DFA por cada perro: de uso gratuito pero emitido por un veterinario participante presentando la vacuna antirrábica al día, mejor obtenerlo antes de la visita.`,
+        `El metro y los autobuses CTA solo admiten animales pequeños en transportín cerrado; los perros grandes no se permiten, así que cuenta con caminar, la bici o el coche.`,
+        `Inviernos muy fríos, nevados y ventosos: la sal de deshielo quema las almohadillas y la sensación térmica puede ser peligrosa. Enjuaga o seca las patas al volver, considera botines y abrigo de diciembre a marzo.`,
+        `Veranos calurosos y húmedos: la arena y el asfalto se calientan mucho, pasea temprano o tarde y lleva agua; Montrose Dog Beach permite el baño para refrescarse (de 11:00 a 19:00 en temporada).`,
+        `Perros con correa en todas partes fuera de las DFA valladas; el suelto fuera de esas zonas es sancionable. Las playas "humanas" de la ciudad prohíben totalmente los perros, con o sin correa.`,
+      ],
+      pt: [
+        `Para usar as zonas para cães sem trela (DFA) e as praias caninas como Montrose, é obrigatória uma chapa DFA por cada cão: de uso gratuito mas emitida por um veterinário participante mediante prova de vacina antirrábica em dia, de preferência obtida antes da visita.`,
+        `O metro e os autocarros CTA só aceitam animais pequenos em transportadora fechada; os cães maiores não são admitidos, por isso conte com andar a pé, de bicicleta ou de carro.`,
+        `Invernos muito frios, com neve e vento: o sal de degelo queima as almofadinhas e a sensação térmica pode ser perigosa. Enxague ou limpe as patas ao regressar, pondere botinhas e casaco de dezembro a março.`,
+        `Verões quentes e húmidos: a areia e o alcatrão aquecem muito, passeie cedo ou ao fim do dia e leve água; a Montrose Dog Beach permite o banho para refrescar (das 11h às 19h na época).`,
+        `Cães com trela em todo o lado fora das DFA vedadas; andar à solta fora dessas zonas é passível de multa. As praias "humanas" da cidade proíbem totalmente os cães, com ou sem trela.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrer aux États-Unis avec un chien relève des règles du CDC, pas du passeport européen : depuis août 2024, tout chien doit avoir une puce ISO, avoir au moins 6 mois et un formulaire d'importation CDC Dog Import Form rempli en ligne avant l'arrivée.`,
+        `Numéro d'urgence général (police, pompiers, ambulance) : 911. Il n'existe pas de numéro national dédié aux urgences vétérinaires ; adressez-vous directement à un hôpital vétérinaire 24h/24.`,
+        `Se déplacer : le métro et les bus CTA n'acceptent que les petits chiens en sac de transport ; pour les grands chiens, comptez sur la marche, le vélo en libre-service Divvy (paniers) ou la voiture.`,
+        `Aires canines : Chicago fonctionne avec un réseau officiel de Dog Friendly Areas (DFA) clôturées et de plages canines, toutes soumises au badge DFA ; hors de ces zones, la laisse est obligatoire et le ramassage exigé.`,
+        `Urgences vétérinaires 24h/24 : MedVet Chicago (3123 North Clybourn Avenue) est l'un des hôpitaux vétérinaires d'urgence de référence de la ville, ouvert en continu.`,
+      ],
+      en: [
+        `Entering the United States with a dog follows CDC rules, not an EU passport: since August 2024 every dog must have an ISO microchip, be at least 6 months old and carry a CDC Dog Import Form completed online before arrival.`,
+        `General emergency number (police, fire, ambulance): 911. There is no dedicated national veterinary emergency line; go directly to a 24-hour animal hospital.`,
+        `Getting around: the CTA subway and buses only take small dogs in a carrier; for larger dogs, plan on walking, the Divvy bike-share (with baskets) or a car.`,
+        `Dog areas: Chicago runs an official network of fenced Dog Friendly Areas (DFAs) and dog beaches, all requiring a DFA tag; outside those zones a lead is mandatory and picking up is required.`,
+        `24-hour veterinary emergencies: MedVet Chicago (3123 North Clybourn Avenue) is one of the city's leading emergency animal hospitals, open around the clock.`,
+      ],
+      es: [
+        `Entrar en Estados Unidos con un perro se rige por las normas del CDC, no por el pasaporte europeo: desde agosto de 2024 todo perro debe tener microchip ISO, tener al menos 6 meses y llevar un formulario CDC Dog Import Form cumplimentado en línea antes de la llegada.`,
+        `Número de emergencias general (policía, bomberos, ambulancia): 911. No existe una línea nacional dedicada a urgencias veterinarias; acude directamente a un hospital veterinario de 24 horas.`,
+        `Moverse: el metro y los autobuses CTA solo admiten perros pequeños en transportín; para los perros grandes, cuenta con caminar, la bici compartida Divvy (con cestas) o el coche.`,
+        `Zonas caninas: Chicago funciona con una red oficial de Dog Friendly Areas (DFA) valladas y playas caninas, todas sujetas al distintivo DFA; fuera de esas zonas la correa es obligatoria y la recogida exigida.`,
+        `Urgencias veterinarias 24 horas: MedVet Chicago (3123 North Clybourn Avenue) es uno de los hospitales veterinarios de urgencias de referencia de la ciudad, abierto de forma continua.`,
+      ],
+      pt: [
+        `Entrar nos Estados Unidos com um cão segue as regras do CDC, não o passaporte europeu: desde agosto de 2024 todo o cão deve ter microchip ISO, ter pelo menos 6 meses e levar um formulário CDC Dog Import Form preenchido online antes da chegada.`,
+        `Número de emergência geral (polícia, bombeiros, ambulância): 911. Não existe uma linha nacional dedicada a urgências veterinárias; dirija-se diretamente a um hospital veterinário de 24 horas.`,
+        `Deslocações: o metro e os autocarros CTA só aceitam cães pequenos em transportadora; para os cães maiores, conte com andar a pé, a bicicleta partilhada Divvy (com cestos) ou o carro.`,
+        `Zonas para cães: Chicago funciona com uma rede oficial de Dog Friendly Areas (DFA) vedadas e praias caninas, todas sujeitas à chapa DFA; fora dessas zonas a trela é obrigatória e a recolha exigida.`,
+        `Urgências veterinárias 24 horas: o MedVet Chicago (3123 North Clybourn Avenue) é um dos hospitais veterinários de urgência de referência da cidade, aberto de forma contínua.`,
+      ],
+    },
+  },
   ciutadella: {
     history: {
       fr: `Ciutadella de Menorca occupe l'extrémité occidentale de l'île, dans les Baléares espagnoles, autour d'un port encaissé au fond d'une longue crique étroite. Ancienne capitale de Minorque jusqu'en 1722, date à laquelle les Britanniques transférèrent le siège du gouvernement à Mahón, elle en a gardé l'âme aristocratique: palais baroques, ruelles pavées, arcades et une cathédrale gothique élevée sur une ancienne mosquée après la conquête catalane de 1287. La Plaça des Born, ancienne place d'armes, en marque le cœur. Autour de la ville s'étendent les célèbres calas du sud, Cala Macarella et Cala Turqueta, et le fascinant tombeau préhistorique de la Naveta des Tudons, l'un des plus anciens édifices d'Europe. Menorca est réserve de biosphère de l'UNESCO. Avec un chien, l'atout majeur reste le Camí de Cavalls, sentier côtier qui ceinture l'île, car les plages appliquent de strictes interdictions saisonnières.`,

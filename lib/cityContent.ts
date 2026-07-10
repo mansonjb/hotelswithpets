@@ -23604,10 +23604,10 @@ const cityContent: Record<string, CityContent> = {
 
   lisbon: {
     history: {
-      fr: `Lisbonne est l'une des plus vieilles capitales d'Europe. Fondée par les Phéniciens, développée par les Romains sous le nom de Olisipo, elle est devenue au XVe siècle le centre névralgique des Grandes Découvertes portugaises, d'où partirent Vasco de Gama et les flottes qui ont relié l'Europe à l'Asie et à l'Amérique. Le grand séisme de 1755, suivi d'un tsunami et d'incendies, a détruit une grande partie du centre médiéval. Le marquis de Pombal a reconstruit la Baixa em damier, la première cité moderne planifiée d'Europe. Aujourd'hui, Lisbonne est une ville douce et ensoleillée, aux collines couvertes de miradouros et de cafés avec terrasses, idéale pour voyager avec un animal toute l'année.`,
+      fr: `Lisbonne est l'une des plus vieilles capitales d'Europe. Fondée par les Phéniciens, développée par les Romains sous le nom de Olisipo, elle est devenue au XVe siècle le centre névralgique des Grandes Découvertes portugaises, d'où partirent Vasco de Gama et les flottes qui ont relié l'Europe à l'Asie et à l'Amérique. Le grand séisme de 1755, suivi d'un tsunami et d'incendies, a détruit une grande partie du centre médiéval. Le marquis de Pombal a reconstruit la Baixa en damier, la première cité moderne planifiée d'Europe. Aujourd'hui, Lisbonne est une ville douce et ensoleillée, aux collines couvertes de miradouros et de cafés avec terrasses, idéale pour voyager avec un animal toute l'année.`,
       en: `Lisbon is one of Europe's oldest capitals. Founded by the Phoenicians and developed by the Romans as Olisipo, it became in the 15th century the nerve centre of the Portuguese Age of Discovery, the port from which Vasco da Gama and the fleets that connected Europe to Asia and the Americas set sail. The great earthquake of 1755, followed by a tsunami and fires, destroyed much of the medieval centre. The Marquis of Pombal rebuilt the Baixa on a grid, Europe's first planned modern city. Today Lisbon is a mild, sun-drenched city of hillside miradouros and terrace cafés, ideal for year-round pet travel.`,
-      es: `Lisboa es una das capitales más antigas de Europa. fundada por los fenicios y desarrollada por los romanos como Olisipo, se convirtió em el siglo XV em o centro neurálgico dos Grandes Descubrimientos portugueses: el puerto desde el que partieron Vasco de Gama y las flotas que unieron Europa con Asia y América. El gran terremoto de 1755, seguido de un tsunami e incendios, destruyó gran parte del centro medieval. El marqués de Pombal reconstruyó la Baixa em cuadrícula, la primera ciudad moderna planificada de Europa. Hoy Lisboa es uma cidade suave y soleada, de miradores em las colinas y cafés con terraza: ideal para viajar con mascota durante todo o año.`,
-      pt: `Lisboa é uma das capitais mais antigas da Europa. fundada pelos Fenícios e desenvolvida pelos Romanos como Olisipo, tornou-se no século XV o centro nevrálgico dois Descobrimentos portugueses, o porto de onde partiram Vasco da Gama e as frotas que ligaram a Europa à Ásia e às Américas. O grande terramoto de 1755, seguido de tsunami e incêndios, destruiu grande parte do centro medieval. O Marquês de Pombal reconstruiu a Baixa em quadrícula, a primeira cidade moderna planeada da Europa. Hoje Lisboa é uma cidade amena e soalheira, de miradouros nas colinas e cafés com esplanada, ideal para viajar com animal o ano inteiro.`,
+      es: `Lisboa es una de las capitales más antiguas de Europa. Fundada por los fenicios y desarrollada por los romanos como Olisipo, se convirtió en el siglo XV en el centro neurálgico de los Descubrimientos portugueses: el puerto desde el que partieron Vasco da Gama y las flotas que unieron Europa con Asia y América. El gran terremoto de 1755, seguido de un tsunami e incendios, destruyó gran parte del centro medieval. El marqués de Pombal reconstruyó la Baixa en cuadrícula, la primera ciudad moderna planificada de Europa. Hoy Lisboa es una ciudad suave y soleada, de miradores en las colinas y cafés con terraza: ideal para viajar con mascota durante todo el año.`,
+      pt: `Lisboa é uma das capitais mais antigas da Europa. Fundada pelos Fenícios e desenvolvida pelos Romanos como Olisipo, tornou-se no século XV o centro nevrálgico dos Descobrimentos portugueses, o porto de onde partiram Vasco da Gama e as frotas que ligaram a Europa à Ásia e às Américas. O grande terramoto de 1755, seguido de tsunami e incêndios, destruiu grande parte do centro medieval. O Marquês de Pombal reconstruiu a Baixa em quadrícula, a primeira cidade moderna planeada da Europa. Hoje Lisboa é uma cidade amena e soalheira, de miradouros nas colinas e cafés com esplanada, ideal para viajar com animal o ano inteiro.`,
     },
     sights: [
       {
@@ -23615,9 +23615,9 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌲',
         petFriendly: true,
         desc: {
-          fr: 'Le poumon vert de Lisbonne (10 km²) est le meilleur endroit pour lâcher son chien dans la ville. Chemins forestiers, pique-niques, aires de jeux canines. Accessible em bus 723 depuis le Marquês de Pombal.',
+          fr: 'Le poumon vert de Lisbonne (10 km²) est le meilleur endroit pour lâcher son chien dans la ville. Chemins forestiers, pique-niques, aires de jeux canines. Accessible en bus 723 depuis le Marquês de Pombal.',
           en: 'Lisbon\'s green lung (10 km²) is the best place to let your dog run free in the city. Forest paths, picnic areas, dog play zones. Accessible by bus 723 from Marquês de Pombal.',
-          es: 'El pulmón verde de Lisboa (10 km²) es el mejor lugar para dejar correr a tu perro na ciudad. Caminos forestales, zonas de picnic, áreas de juego caninas. acessível em autobús 723 desde Marquês de Pombal.',
+          es: 'El pulmón verde de Lisboa (10 km²) es el mejor lugar para dejar correr a tu perro en la ciudad. Caminos forestales, zonas de picnic, áreas de juego caninas. Accesible en autobús 723 desde Marquês de Pombal.',
           pt: 'O pulmão verde de Lisboa (10 km²) é o melhor sítio para soltar o cão na cidade. Caminhos florestais, áreas de piquenique, zonas de recreio caninas. Acessível pelo autocarro 723 a partir do Marquês de Pombal.',
         },
       },
@@ -23626,10 +23626,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛵',
         petFriendly: true,
         desc: {
-          fr: 'Le quartier de Belém, avec sa Tour emblématique et le Monastère des Hiéronymites, offre de larges espaces piétonniers em bord de fleuve parfaits pour une promenade avec un chien. Les jardins du bord du Tage sont accessibles aux animaux em laisse.',
+          fr: 'Le quartier de Belém, avec sa Tour emblématique et le Monastère des Hiéronymites, offre de larges espaces piétonniers en bord de fleuve parfaits pour une promenade avec un chien. Les jardins du bord du Tage sont accessibles aux animaux en laisse.',
           en: 'The Belém neighbourhood, with its iconic Tower and Jerónimos Monastery, offers wide pedestrian riverside spaces perfect for a dog walk. The Tagus riverside gardens welcome dogs on leads.',
-          es: 'o bairro de Belém, con su icónica Torre y el Monasterio dos Jerónimos, ofrece amplas zonas peatonales junto al río ideales para pasear con un perro. Los jardines junto al Tajo admiten perros com trela.',
-          pt: 'O bairro de Belém, com a sua emblemática Torre e o Mosteiro dois Jerónimos, oferece amplas zonas pedonais à beira-rio perfeitas para um passeio com cão. Os jardins junto ao Tejo recebem animais com trela.',
+          es: 'El barrio de Belém, con su icónica Torre y el Monasterio de los Jerónimos, ofrece amplias zonas peatonales junto al río ideales para pasear con un perro. Los jardines junto al Tajo admiten perros con correa.',
+          pt: 'O bairro de Belém, com a sua emblemática Torre e o Mosteiro dos Jerónimos, oferece amplas zonas pedonais à beira-rio perfeitas para um passeio com cão. Os jardins junto ao Tejo recebem animais com trela.',
         },
       },
       {
@@ -23639,7 +23639,7 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Les ruelles de l\'Alfama et les belvédères (miradouros) comme le Miradouro da Graça ou de Santa Luzia sont accessibles aux chiens. La montée est rude mais la vue sur le Tage depuis le sommet avec son chien est l\'une des plus belles de la ville.',
           en: 'The lanes of Alfama and viewpoints (miradouros) such as Miradouro da Graça or Santa Luzia are accessible to dogs. The climb is steep but the view over the Tagus from the top with your dog is one of the city\'s finest.',
-          es: 'Los callejones de a Alfama y los miradores como el Miradouro da Graça o de Santa Luzia son acessíveis para los perros. La subida es empinada, pero la vista sobre el Tajo desde lo alto con tu perro es una das más belas de a cidade.',
+          es: 'Los callejones de la Alfama y los miradores como el Miradouro da Graça o el de Santa Luzia son accesibles para los perros. La subida es empinada, pero la vista sobre el Tajo desde lo alto con tu perro es una de las más bellas de la ciudad.',
           pt: 'As ruelas de Alfama e os miradouros (Miradouro da Graça, de Santa Luzia) recebem cães. A subida é íngreme, mas a vista sobre o Tejo lá de cima com o seu cão é uma das mais belas da cidade.',
         },
       },
@@ -23659,19 +23659,19 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌸',
         petFriendly: true,
         desc: {
-          fr: 'L\'un des plus beaux jardins de Lisbonne, adjacent à la Fondation Calouste Gulbenkian. Les chiens em laisse y sont admis. Étang, pelouses et grandes allées ombragées, parfait pour une pause em milieu de journée.',
+          fr: 'L\'un des plus beaux jardins de Lisbonne, adjacent à la Fondation Calouste Gulbenkian. Les chiens en laisse y sont admis. Étang, pelouses et grandes allées ombragées, parfait pour une pause en milieu de journée.',
           en: 'One of Lisbon\'s finest gardens, adjacent to the Calouste Gulbenkian Foundation. Dogs on leads are welcome. Pond, lawns and wide shaded paths, perfect for a midday break.',
-          es: 'Uno dos jardines más hermosos de Lisboa, junto a la Fundación Calouste Gulbenkian. Los perros com trela son bienvenidos. Estanque, céspedes y amplos caminos sombreados: perfecto para un descanso a mediodía.',
-          pt: 'Um dois mais belos jardins de Lisboa, junto à Fundação Calouste Gulbenkian. Cães com trela são bem-vindos. Lago, relvados e longas alamedas sombreadas, perfeito para uma pausa a meio do dia.',
+          es: 'Uno de los jardines más hermosos de Lisboa, junto a la Fundación Calouste Gulbenkian. Los perros con correa son bienvenidos. Estanque, céspedes y amplios caminos sombreados: perfecto para un descanso a mediodía.',
+          pt: 'Um dos mais belos jardins de Lisboa, junto à Fundação Calouste Gulbenkian. Cães com trela são bem-vindos. Lago, relvados e longas alamedas sombreadas, perfeito para uma pausa a meio do dia.',
         },
       },
     ],
     petTips: {
       fr: [
-        'Les chiens sont admis dans le métro lisbonnais à condition d\'être em sac ou cage. Les trams historiques (28, 15E) sont souvent bondés, mieux vaut y aller tôt ou les éviter.',
+        'Les chiens sont admis dans le métro lisbonnais à condition d\'être en sac ou en cage. Les trams historiques (28, 15E) sont souvent bondés, mieux vaut y aller tôt ou les éviter.',
         'La chaleur estivale peut être intense à Lisbonne. Monsanto offre de l\'ombre et de la fraîcheur même en été, c\'est là qu\'il faut aller aux heures chaudes.',
         'Lisbonne est une ville très pentue. Vérifiez que votre chien est à l\'aise sur les pavés portugais (calceteiro) avant de vous lancer dans une longue promenade dans l\'Alfama.',
-        'De nombreux restaurants et cafés du Chiado et de Santos acceptent les chiens em terrasse. Demandez simplement : "Posso trazer o meu cão?"',
+        'De nombreux restaurants et cafés du Chiado et de Santos acceptent les chiens en terrasse. Demandez simplement : "Posso trazer o meu cão?"',
         'L\'eau du robinet est potable à Lisbonne, les fontaines publiques sont nombreuses et votre chien peut s\'y désaltérer.',
       ],
       en: [
@@ -23682,11 +23682,11 @@ const cityContent: Record<string, CityContent> = {
         'Tap water is drinkable in Lisbon, public fountains are plentiful and your dog can drink from them.',
       ],
       es: [
-        'Los perros pueden viajar em el metro de Lisboa em bolsa o transportín. Los tranvías históricos (28, 15E) costumam ir llenos: ve temprano o evítalos.',
-        'El calor veraniego puede ser intenso em Lisboa. Monsanto ofrece sombra y frescor incluso em verano: ve allí em las horas de más calor.',
-        'Lisboa es uma cidade muy empinada. Comprueba que tu perro se desenvuelve bien sobre los adoquines portugueses (calceteiro) antes de aventurarte em un longo paseo por a Alfama.',
-        'Muchos restaurantes y cafés em Chiado y Santos admiten perros na terraza. Solo hay que preguntar: "Posso trazer o meu cão?"',
-        'o agua del grifo es potable em Lisboa: las fuentes públicas son abundantes y tu perro puede beber de ellas.',
+        'Los perros pueden viajar en el metro de Lisboa en bolsa o transportín. Los tranvías históricos (28, 15E) suelen ir llenos: ve temprano o evítalos.',
+        'El calor veraniego puede ser intenso en Lisboa. Monsanto ofrece sombra y frescor incluso en verano: ve allí en las horas de más calor.',
+        'Lisboa es una ciudad muy empinada. Comprueba que tu perro se desenvuelve bien sobre los adoquines portugueses (calceteiro) antes de aventurarte en un largo paseo por la Alfama.',
+        'Muchos restaurantes y cafés en Chiado y Santos admiten perros en la terraza. Solo hay que preguntar: "Posso trazer o meu cão?"',
+        'El agua del grifo es potable en Lisboa: las fuentes públicas son abundantes y tu perro puede beber de ellas.',
       ],
       pt: [
         'Os cães são admitidos no Metro de Lisboa desde que vão em saco ou transportadora. Os elétricos históricos (28, 15E) andam frequentemente cheios, vá cedo ou evite-os.',
@@ -23700,7 +23700,7 @@ const cityContent: Record<string, CityContent> = {
       fr: [
         'Vétérinaire d\'urgence 24h/24 : Hospital Veterinário do Restelo, Rua Duarte Pacheco Pereira 15, +351 21 302 9999',
         'Clinique centrale : Clinica Veterinária de Lisboa, Av. António Augusto de Aguiar 138, +351 21 315 5590',
-        'Trains depuis Paris ou Madrid : Renfe-SNCF accepte les animaux em cage sur les lignes internationales. Vérifiez à la réservation selon la taille.',
+        'Trains depuis Paris ou Madrid : Renfe-SNCF accepte les animaux en cage sur les lignes internationales. Vérifiez à la réservation selon la taille.',
         'Aéroport de Lisbonne Humberto Delgado : animaux UE avec passeport valide admis sans quarantaine.',
       ],
       en: [
@@ -23712,8 +23712,8 @@ const cityContent: Record<string, CityContent> = {
       es: [
         'Veterinario de urgencias 24h: Hospital Veterinário do Restelo, Rua Duarte Pacheco Pereira 15, +351 21 302 9999',
         'Clínica central: Clinica Veterinária de Lisboa, Av. António Augusto de Aguiar 138, +351 21 315 5590',
-        'Trenes desde París o Madrid: Renfe-SNCF acepta animales em transportín em líneas internacionales. Consulta al reservar según el tamanho.',
-        'Aeropuerto de Lisboa Humberto Delgado: mascotas de a UE con passaporte válido admitidas sin cuarentena.',
+        'Trenes desde París o Madrid: Renfe-SNCF acepta animales en transportín en líneas internacionales. Consulta al reservar según el tamaño.',
+        'Aeropuerto de Lisboa Humberto Delgado: mascotas de la UE con pasaporte válido admitidas sin cuarentena.',
       ],
       pt: [
         'Veterinário de urgência 24h: Hospital Veterinário do Restelo, Rua Duarte Pacheco Pereira 15, +351 21 302 9999',
@@ -24079,8 +24079,8 @@ const cityContent: Record<string, CityContent> = {
     history: {
       fr: `L'histoire de Londres s'étend du Londinium romain à la capitale mondiale d'aujourd'hui, peuplée de près de 9 millions d'habitants, et son attachement aux chiens est tout aussi profond. Le Royaume-Uni est une nation réputée pour son amour des chiens, avec environ 13 millions de chiens de compagnie, dont plus d'un million rien qu'à Londres. Les parcs royaux comme Hyde Park et Hampstead Heath accueillent les promenades sans laisse depuis plus d'un siècle, et les pubs affichent fièrement des panneaux 'dogs welcome'. Depuis le Brexit, les visiteurs européens ne peuvent plus utiliser le passeport européen pour animaux et doivent obtenir un Certificat Sanitaire Animal (AHC) délivré dans les 10 jours précédant le voyage. Un traitement contre le ténia est également requis 24 à 120 heures avant l'arrivée. Malgré les formalités, Londres reste l'une des capitales européennes les plus agréables à découvrir avec son chien.`,
       en: `London's story stretches from Roman Londinium to today's global capital of nearly 9 million residents, and its affection for dogs runs just as deep. The UK is a famously dog-loving nation with an estimated 13 million pet dogs, and London alone is home to more than a million. Royal parks like Hyde Park and Hampstead Heath have welcomed off-leash walks for over a century, and pubs across the city proudly display 'dogs welcome' signs. Since Brexit, EU visitors can no longer use the EU Pet Passport to enter Great Britain and must instead obtain an Animal Health Certificate (AHC) issued within 10 days of travel. Dogs also require a tapeworm treatment 24-120 hours before arrival. Despite the paperwork, London remains one of Europe's most rewarding cities to explore with a four-legged companion.`,
-      es: `La historia de Londres abarca desde el Londinium romano hasta la capital global actual de casi 9 millones de habitantes, y su afecto por los perros es igual de profundo. El Reino Unido es una nación célebre por su pasión canina, con aproximadamente 13 millones de perros de companhia, dos cuales más de un millón viven em Londres. Los parques reales como Hyde Park y Hampstead Heath permiten paseos sin trela desde hace más de un siglo, y los pubs exhiben con orgullo carteles de 'dogs welcome'. Desde el Brexit, los visitantes de a UE ya no pueden usar el passaporte europeu para Mascotas y deben obtener un Certificado Sanitario Animal (AHC) emitido dentro dos 10 días previos al viaje. También se requiere un tratamento antiparasitario contra la tenia entre 24 y 120 horas antes de la chegada. Pese a los trámites, Londres sigue siendo una das capitales europeias más gratificantes para recorrer con un companheiro de cuatro patas.`,
-      pt: `A história de Londres abarca a partir do Londinium romano até a capital global actual de quase 9 millones de habitantes, e su afecto pelos cães é igual de profundo. O Reino Unido é uma nação célebre por su pasión canina, com aproximadamente 13 millones de cães de companhia, dois cuales mais dum millón viven em Londres. Os parques reales como Hyde Park e Hampstead Heath permiten passeios sem trela a partir de hace mais dum século, e os pubs exhiben com orgullo carteles de 'dogs welcome'. A partir do Brexit, os visitantes da UE ya no podem usar o passaporte europeu para Animais e deben obtener um Certificado Sanitario Animal (AHC) emitido dentro dois 10 dias previos al viaje. Também se requiere um tratamento antiparasitario contra a tenia entre 24 e 120 horas antes da chegada. Pese aos trámites, Londres continua a ser uma das capitales europeias mais gratificantes para recorrer com um companheiro de quatro patas.`,
+      es: `La historia de Londres abarca desde el Londinium romano hasta la capital global actual de casi 9 millones de habitantes, y su afecto por los perros es igual de profundo. El Reino Unido es una nación célebre por su pasión canina, con aproximadamente 13 millones de perros de compañía, de los cuales más de un millón viven en Londres. Los parques reales como Hyde Park y Hampstead Heath permiten paseos sin correa desde hace más de un siglo, y los pubs exhiben con orgullo carteles de 'dogs welcome'. Desde el Brexit, los visitantes de la UE ya no pueden usar el pasaporte europeo para mascotas y deben obtener un Certificado Sanitario Animal (AHC) emitido dentro de los 10 días previos al viaje. También se requiere un tratamiento antiparasitario contra la tenia entre 24 y 120 horas antes de la llegada. Pese a los trámites, Londres sigue siendo una de las capitales europeas más gratificantes para recorrer con un compañero de cuatro patas.`,
+      pt: `A história de Londres estende-se desde a Londinium romana até à capital global de hoje, com quase 9 milhões de habitantes, e o seu afeto pelos cães é igualmente profundo. O Reino Unido é uma nação célebre pela sua paixão canina, com cerca de 13 milhões de cães de companhia, dos quais mais de um milhão vivem em Londres. Os parques reais como Hyde Park e Hampstead Heath permitem passeios sem trela há mais de um século, e os pubs exibem com orgulho placas de 'dogs welcome'. Desde o Brexit, os visitantes da UE já não podem usar o passaporte europeu para animais e têm de obter um Certificado Sanitário Animal (AHC) emitido nos 10 dias anteriores à viagem. Também é exigido um tratamento antiparasitário contra a ténia entre 24 e 120 horas antes da chegada. Apesar da burocracia, Londres continua a ser uma das capitais europeias mais gratificantes para percorrer com um companheiro de quatro patas.`,
     },
     sights: [
       {
@@ -24090,8 +24090,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Ce parc royal de 140 hectares au cœur de Londres autorise les chiens sans laisse dans la majeure partie de son enceinte, à l\'exception de la fontaine Diana et des jardins fleuris. C\'est un incontournable pour une promenade matinale au bord de la Serpentine.',
           en: 'The 350-acre royal park in central London allows dogs off-leash throughout most of its grounds, except in the Diana Memorial Fountain and flower gardens. It\'s a classic morning walk spot along the Serpentine lake.',
-          es: 'Este parque real de 140 hectáreas em o centro de Londres permite perros sin trela em casi todo su recinto, salvo na Fuente Diana y los jardines de flores. Es un clásico para el paseo matinal junto al lago Serpentine.',
-          pt: 'Este parque real de 140 hectáreas no centro de Londres permite cães sem trela em quase todo su recinto, salvo na Fuente Diana e os jardins de flores. É um clásico para o passeio matinal junto al lago Serpentine.',
+          es: 'Este parque real de 140 hectáreas en el centro de Londres permite perros sin correa en casi todo su recinto, salvo en la Fuente Diana y los jardines de flores. Es un clásico para el paseo matinal junto al lago Serpentine.',
+          pt: 'Este parque real de 140 hectares no centro de Londres permite cães sem trela em quase todo o seu recinto, exceto na Fonte Diana e nos jardins de flores. É um clássico para o passeio matinal junto ao lago Serpentine.',
         },
       },
       {
@@ -24101,8 +24101,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Une lande sauvage de 320 hectares au nord de Londres, adorée des propriétaires de chiens, avec bois, prairies et étangs. Les chiens circulent librement sur la plupart des sentiers, et Parliament Hill offre l\'une des plus belles vues sur la ville.',
           en: 'A wild 320-hectare heath in north London beloved by dog owners, with woodlands, meadows and ponds. Dogs roam freely across most paths, and Parliament Hill offers one of the best skyline views in the city.',
-          es: 'Un brezal salvaje de 320 hectáreas em el norte de Londres, adorado por los dueños de perros, con florestas, praderas y estanques. Los perros circulan libremente por casi todos los senderos, y Parliament Hill ofrece una das mejores vistas del skyline.',
-          pt: 'Um brezal salvaje de 320 hectáreas no norte de Londres, adorado por os donos de cães, com florestas, pradarias e estanques. Os cães circulan libremente por quase todos os trilhos, e Parliament Hill ofrece uma das melhores vistas do skyline.',
+          es: 'Un brezal salvaje de 320 hectáreas en el norte de Londres, adorado por los dueños de perros, con bosques, praderas y estanques. Los perros circulan libremente por casi todos los senderos, y Parliament Hill ofrece una de las mejores vistas del horizonte urbano.',
+          pt: 'Uma charneca selvagem de 320 hectares a norte de Londres, adorada pelos donos de cães, com bosques, prados e lagos. Os cães circulam livremente pela maioria dos trilhos, e Parliament Hill oferece uma das melhores vistas do horizonte da cidade.',
         },
       },
       {
@@ -24110,10 +24110,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏘️',
         petFriendly: true,
         desc: {
-          fr: 'Maisons aux façades pastel, cafés indépendants et célèbre marché aux antiquités du samedi font de Notting Hill un bonheur pour les promeneurs de chiens. De nombreux cafés de Portobello Road installent gamelles d\'eau et accueillent les chiens em terrasse.',
+          fr: 'Maisons aux façades pastel, cafés indépendants et célèbre marché aux antiquités du samedi font de Notting Hill un bonheur pour les promeneurs de chiens. De nombreux cafés de Portobello Road installent gamelles d\'eau et accueillent les chiens en terrasse.',
           en: 'Pastel townhouses, independent cafés and the famous Saturday antiques market make Notting Hill a dog-walker\'s delight. Many cafés along Portobello Road keep water bowls outside and welcome leashed dogs on their terraces.',
-          es: 'Casas de fachadas pastel, cafés independientes y el famoso mercadillo sabatino de antigüedades hacen de Notting Hill un deleite para pasear con perro. Muchos cafés de Portobello Road dejan cuencos de agua fuera y reciben perros com trela em sus terrazas.',
-          pt: 'Casas de fachadas pastel, cafés independientes e o famoso mercadillo sabatino de antigüedades hacen de Notting Hill um deleite para pasear com cão. Muitos cafés de Portobello Road deixam cuencos de água fora e reciben cães com trela nos seus esplanadas.',
+          es: 'Casas de fachadas pastel, cafés independientes y el famoso mercadillo sabatino de antigüedades hacen de Notting Hill un deleite para pasear con perro. Muchos cafés de Portobello Road dejan cuencos de agua fuera y reciben perros con correa en sus terrazas.',
+          pt: 'Casas de fachadas em tons pastel, cafés independentes e o famoso mercado de antiguidades de sábado fazem de Notting Hill um prazer para passear com cão. Muitos cafés da Portobello Road deixam tigelas de água à porta e recebem cães com trela nas suas esplanadas.',
         },
       },
       {
@@ -24123,8 +24123,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Les chiens ne sont pas admis à l\'intérieur de cette forteresse du XIe siècle, mais les jardins de Tower Hill et le Thames Path voisin offrent une superbe balade extérieure. La vue sur le Tower Bridge est d\'ailleurs plus belle depuis les quais.',
           en: 'Dogs aren\'t allowed inside this 11th-century fortress, but the Tower Hill gardens and nearby Thames Path make a scenic exterior walk. Views of Tower Bridge are arguably better from the outside anyway.',
-          es: 'Los perros no pueden entrar em esta fortaleza del siglo XI, pero los jardines de Tower Hill y el cercano Thames Path permiten un paseo exterior muy pintoresco. Las vistas del Tower Bridge son incluso mejores desde fuera.',
-          pt: 'Os cães no podem entrar em esta fortaleza do século XI, mas os jardins de Tower Hill e o cercano Thames Path permiten um passeio exterior muito pintoresco. As vistas do Tower Bridge são mesmo melhores a partir de fora.',
+          es: 'Los perros no pueden entrar en esta fortaleza del siglo XI, pero los jardines de Tower Hill y el cercano Thames Path permiten un paseo exterior muy pintoresco. Las vistas del Tower Bridge son incluso mejores desde fuera.',
+          pt: 'Os cães não podem entrar nesta fortaleza do século XI, mas os jardins de Tower Hill e o vizinho Thames Path permitem um passeio exterior muito pitoresco. As vistas do Tower Bridge são até melhores vistas de fora.',
         },
       },
       {
@@ -24132,10 +24132,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🛶',
         petFriendly: true,
         desc: {
-          fr: 'Un chemin de halage plat de 5 km relie Little Venice à Camden Lock em longeant Regent\'s Park. Péniches, saules pleureurs et nombreux pubs acceptant les chiens em font l\'une des plus jolies balades de Londres.',
+          fr: 'Un chemin de halage plat de 5 km relie Little Venice à Camden Lock en longeant Regent\'s Park. Péniches, saules pleureurs et nombreux pubs acceptant les chiens en font l\'une des plus jolies balades de Londres.',
           en: 'A flat 5km towpath links Little Venice to Camden Lock through Regent\'s Park borders. Narrowboats, willow trees and plenty of dog-friendly pubs make it one of London\'s most charming walks.',
-          es: 'Un camino de sirga llano de 5 km une Little Venice con Camden Lock bordeando Regent\'s Park. Barcazas, sauces llorones y numerosos pubs dog-friendly lo convierten em uno dos paseos más encantadores de Londres.',
-          pt: 'Um camino de sirga llano de 5 km une Little Venice con Camden Lock bordeando Regent\'s Park. Barcazas, sauces llorones e numerosos pubs pet-friendly lo convierten em uno dois passeios mais encantadores de Londres.',
+          es: 'Un camino de sirga llano de 5 km une Little Venice con Camden Lock bordeando Regent\'s Park. Barcazas, sauces llorones y numerosos pubs dog-friendly lo convierten en uno de los paseos más encantadores de Londres.',
+          pt: 'Um caminho de sirga plano de 5 km liga Little Venice a Camden Lock ao longo do Regent\'s Park. Barcos-casa, salgueiros-chorões e numerosos pubs pet-friendly fazem dele um dos passeios mais bonitos de Londres.',
         },
       },
       {
@@ -24143,18 +24143,18 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🔭',
         petFriendly: true,
         desc: {
-          fr: 'Le plus ancien parc royal clos de Londres grimpe jusqu\'à l\'Observatoire Royal et au méridien de Greenwich. Les chiens y sont acceptés em laisse près du parc aux daims, et sans laisse ailleurs, avec vue panoramique sur Canary Wharf.',
+          fr: 'Le plus ancien parc royal clos de Londres grimpe jusqu\'à l\'Observatoire Royal et au méridien de Greenwich. Les chiens y sont acceptés en laisse près du parc aux daims, et sans laisse ailleurs, avec vue panoramique sur Canary Wharf.',
           en: 'London\'s oldest enclosed royal park climbs to the Royal Observatory and the Prime Meridian. Dogs are welcome on-leash near the deer enclosure and off-leash elsewhere, with panoramic views over Canary Wharf.',
-          es: 'o parque real amurallado más antigo de Londres sube hasta el Real Observatorio y el Meridiano de Greenwich. Los perros son bienvenidos com trela cerca del cercado de ciervos y sueltos em el resto, con vistas panorámicas sobre Canary Wharf.',
-          pt: 'O parque real amurallado mais antigo de Londres sube até o Real Observatorio e o Meridiano de Greenwich. Os cães são bem-vindos com trela perto do cercado de ciervos e sueltos no resto, com vistas panorámicas sobre Canary Wharf.',
+          es: 'El parque real amurallado más antiguo de Londres sube hasta el Real Observatorio y el Meridiano de Greenwich. Los perros son bienvenidos con correa cerca del cercado de ciervos y sueltos en el resto, con vistas panorámicas sobre Canary Wharf.',
+          pt: 'O mais antigo parque real murado de Londres sobe até ao Real Observatório e ao Meridiano de Greenwich. Os cães são bem-vindos com trela perto do cercado dos veados e à solta no resto do parque, com vistas panorâmicas sobre Canary Wharf.',
         },
       },
     ],
     petTips: {
       fr: [
-        'Les chiens voyagent gratuitement sur tout le réseau TfL (métro, Overground, bus, DLR) mais doivent être portés dans les escalators ou tenus em laisse courte, sinon le personnel peut refuser l\'embarquement.',
+        'Les chiens voyagent gratuitement sur tout le réseau TfL (métro, Overground, bus, DLR) mais doivent être portés dans les escalators ou tenus en laisse courte, sinon le personnel peut refuser l\'embarquement.',
         'Les black cabs (taxis Hackney agréés) sont légalement tenus d\'accepter les chiens sans supplément ; Uber et les VTC peuvent refuser, pensez à vérifier à la réservation.',
-        'La plupart des pubs londoniens acceptent les chiens au bar mais pas em salle de restauration, repérez l\'autocollant \'dog-friendly\' sur la porte ou consultez Doggie Pubs UK.',
+        'La plupart des pubs londoniens acceptent les chiens au bar mais pas en salle de restauration, repérez l\'autocollant \'dog-friendly\' sur la porte ou consultez Doggie Pubs UK.',
         'Pour les arrivées depuis l\'UE post-Brexit : votre Certificat Sanitaire Animal doit avoir moins de 10 jours à l\'entrée, et vous devez utiliser un Point d\'Entrée Voyageur désigné comme St Pancras (Eurostar) ou Heathrow.',
         'Hampstead Heath compte trois étangs de baignade non clôturés où les chiens sont autorisés dans certaines zones, lisez les panneaux, l\'étang mixte est interdit aux chiens en été.',
       ],
@@ -24166,27 +24166,27 @@ const cityContent: Record<string, CityContent> = {
         'Hampstead Heath has three unfenced swimming ponds where dogs are allowed in specific sections, check posted signs, as the mixed bathing pond is off-limits to dogs in summer.',
       ],
       es: [
-        'Los perros viajan gratis em toda a rede TfL (Metro, Overground, autobuses, DLR) pero deben ir em brazos em las escaleras mecánicas o com trela curta, de lo contrario el personal puede impedir o acesso.',
-        'Los black cabs (taxis Hackney con licencia) están legalmente obligados a aceptar perros sin recargo; Uber y VTC pueden negarse, confírmalo al reservar.',
-        'La mayoría dos pubs londinenses admiten perros na zona de barra pero no em el comedor, busca la pegatina \'dog-friendly\' na puerta o consulta Doggie Pubs UK.',
-        'Para llegadas desde a UE tras el Brexit: tu Certificado Sanitario Animal debe tener menos de 10 días a a entrada y hay que usar un Traveller Point of Entry designado como St Pancras (Eurostar) o Heathrow.',
-        'Hampstead Heath cuenta con tres estanques de baño sin vallar donde los perros son bienvenidos em zonas concretas, mira los carteles, o estanque mixto prohíbe perros em verano.',
+        'Los perros viajan gratis en toda la red TfL (Metro, Overground, autobuses, DLR) pero deben ir en brazos en las escaleras mecánicas o con correa corta, de lo contrario el personal puede impedir el acceso.',
+        'Los black cabs (taxis Hackney con licencia) están legalmente obligados a aceptar perros sin recargo; Uber y los VTC pueden negarse, confírmalo al reservar.',
+        'La mayoría de los pubs londinenses admiten perros en la zona de barra pero no en el comedor, busca la pegatina \'dog-friendly\' en la puerta o consulta Doggie Pubs UK.',
+        'Para llegadas desde la UE tras el Brexit: tu Certificado Sanitario Animal debe tener menos de 10 días a la entrada y hay que usar un Traveller Point of Entry designado como St Pancras (Eurostar) o Heathrow.',
+        'Hampstead Heath cuenta con tres estanques de baño sin vallar donde los perros son bienvenidos en zonas concretas, mira los carteles, pues el estanque mixto prohíbe perros en verano.',
       ],
       pt: [
-        'Os cães viajan grátis em toda a rede TfL (Metro, Overground, autocarros, DLR) mas deben ir em brazos nas escaleras mecánicas o com trela curta, de lo contrario o personal pode impedir o acceso.',
-        'Os black cabs (taxis Hackney con licencia) están legalmente obligados a aceptar cães sem recargo; Uber e VTC podem negarse, confírmalo al reservar.',
-        'A maioria dois pubs londinenses admiten cães na zona de barra mas no no comedor, busca a pegatina \'pet-friendly\' na puerta o consulta Doggie Pubs UK.',
-        'Para chegadas a partir da UE tras o Brexit: tu Certificado Sanitario Animal debe tener menos de 10 dias a a entrada e hay que usar um Traveller Point of Entry designado como St Pancras (Eurostar) o Heathrow.',
-        'Hampstead Heath cuenta con três estanques de banho sem vallar onde os cães são bem-vindos em zonas concretas, mira os carteles, o estanque mixto prohíbe cães em verão.',
+        'Os cães viajam gratuitamente em toda a rede TfL (Metro, Overground, autocarros, DLR) mas têm de ir ao colo nas escadas rolantes ou com trela curta, caso contrário o pessoal pode impedir o embarque.',
+        'Os black cabs (táxis Hackney licenciados) são legalmente obrigados a aceitar cães sem custo adicional; a Uber e os TVDE podem recusar, confirme ao reservar.',
+        'A maioria dos pubs londrinos admite cães na zona do bar mas não na sala de refeições, procure o autocolante \'pet-friendly\' na porta ou consulte o Doggie Pubs UK.',
+        'Para chegadas da UE após o Brexit: o seu Certificado Sanitário Animal deve ter menos de 10 dias à entrada e é obrigatório usar um Traveller Point of Entry designado, como St Pancras (Eurostar) ou Heathrow.',
+        'Hampstead Heath tem três lagos de banho sem vedação onde os cães são bem-vindos em zonas específicas, veja os avisos afixados, pois o lago de banho misto proíbe cães no verão.',
       ],
     },
     practicalInfo: {
       fr: [
-        'Aéroports principaux : Heathrow (LHR) et Gatwick (LGW) sont des points d\'entrée désignés ; les chiens ne voyagent pas em cabine et doivent arriver em fret manifesté via IAG Cargo ou équivalent.',
-        'L\'Eurostar N\'ACCEPTE PAS les chiens, sauf chiens d\'assistance ; la seule option ferroviaire depuis Paris/Bruxelles avec un chien est l\'Eurotunnel Le Shuttle depuis Folkestone (em voiture).',
+        'Aéroports principaux : Heathrow (LHR) et Gatwick (LGW) sont des points d\'entrée désignés ; les chiens ne voyagent pas en cabine et doivent arriver en fret manifesté via IAG Cargo ou équivalent.',
+        'L\'Eurostar N\'ACCEPTE PAS les chiens, sauf chiens d\'assistance ; la seule option ferroviaire depuis Paris/Bruxelles avec un chien est l\'Eurotunnel Le Shuttle depuis Folkestone (en voiture).',
         'Meilleures saisons : avril-juin et septembre-octobre offrent des températures douces et peu de pluie ; évitez août (foule) et juillet (canicules occasionnelles au-dessus de 30°C).',
         'Urgence vétérinaire 24h/24 : Royal Veterinary College Hospital Camden, +44 20 7387 8134, ou The London Vet Clinic à Belgravia pour le centre.',
-        'Les amendes pour déjections canines à Londres atteignent 150 £ (amende forfaitaire) et les municipalités comme Westminster sanctionnent activement ; les sacs sont obligatoires em permanence.',
+        'Les amendes pour déjections canines à Londres atteignent 150 £ (amende forfaitaire) et les municipalités comme Westminster sanctionnent activement ; les sacs sont obligatoires en permanence.',
       ],
       en: [
         'Main airports: Heathrow (LHR) and Gatwick (LGW) are designated pet entry points; dogs cannot arrive in the cabin and must travel as manifest cargo via IAG Cargo or similar.',
@@ -24196,18 +24196,18 @@ const cityContent: Record<string, CityContent> = {
         'Dog waste fines in London can reach £150 (fixed penalty notice) and councils like Westminster actively enforce; bags are mandatory at all times.',
       ],
       es: [
-        'Aeropuertos principales: Heathrow (LHR) y Gatwick (LGW) son puntos de entrada designados; los perros no pueden viajar em cabina y deben llegar como carga manifiesta vía IAG Cargo o similar.',
-        'Eurostar NO admite perros salvo perros de asistencia registrados, a única opción ferroviaria desde París/Bruselas con mascota es o Eurotunnel Le Shuttle desde Folkestone (em coche).',
+        'Aeropuertos principales: Heathrow (LHR) y Gatwick (LGW) son puntos de entrada designados; los perros no pueden viajar en cabina y deben llegar como carga manifiesta vía IAG Cargo o similar.',
+        'Eurostar NO admite perros salvo perros de asistencia registrados; la única opción ferroviaria desde París/Bruselas con mascota es el Eurotunnel Le Shuttle desde Folkestone (en coche).',
         'Mejores temporadas: abril-junio y septiembre-octubre ofrecen temperaturas suaves y poca lluvia; evita agosto por las multitudes y julio por olas de calor ocasionales superiores a 30°C.',
-        'Urgencia veterinaria 24h: Royal Veterinary College Hospital Camden, +44 20 7387 8134, o The London Vet Clinic em Belgravia para o centro.',
-        'Las multas por excrementos caninos em Londres alcanzan 150 £ (sanción fija) y ayuntamientos como Westminster a aplican con rigor; las bolsas son obrigatórias em todo momento.',
+        'Urgencia veterinaria 24h: Royal Veterinary College Hospital Camden, +44 20 7387 8134, o The London Vet Clinic en Belgravia para el centro.',
+        'Las multas por excrementos caninos en Londres alcanzan las 150 £ (sanción fija) y ayuntamientos como Westminster las aplican con rigor; las bolsas son obligatorias en todo momento.',
       ],
       pt: [
-        'Aeroportos principales: Heathrow (LHR) e Gatwick (LGW) são puntos de entrada designados; os cães no podem viajar em cabina e deben chegar como carga manifiesta vía IAG Cargo o similar.',
-        'Eurostar NO admite cães salvo cães de assistência registrados, a única opción ferroviaria a partir de París/Bruselas con animal é o Eurotunnel Le Shuttle a partir de Folkestone (de carro).',
-        'Melhores temporadas: abril-junho e setembro-outubro ofrecen temperaturas suaves e pouca chuva; evita agosto pelas multitudes e julho por olas de calor ocasionales superiores a 30°C.',
-        'Urgência veterinária 24h: Royal Veterinary College Hospital Camden, +44 20 7387 8134, o The London Vet Clinic em Belgravia para o centro.',
-        'As multas por excrementos caninos em Londres alcanzan 150 £ (sanción fija) e câmaras municipais como Westminster a aplican con rigor; as bolsas são obrigatórias em todo momento.',
+        'Aeroportos principais: Heathrow (LHR) e Gatwick (LGW) são pontos de entrada designados; os cães não podem viajar na cabina e têm de chegar como carga manifestada via IAG Cargo ou similar.',
+        'O Eurostar NÃO aceita cães, salvo cães de assistência registados; a única opção ferroviária a partir de Paris/Bruxelas com animal é o Eurotunnel Le Shuttle a partir de Folkestone (de carro).',
+        'Melhores estações: abril-junho e setembro-outubro oferecem temperaturas amenas e pouca chuva; evite agosto pelas multidões e julho pelas ondas de calor ocasionais acima de 30°C.',
+        'Urgência veterinária 24h: Royal Veterinary College Hospital Camden, +44 20 7387 8134, ou The London Vet Clinic em Belgravia para o centro.',
+        'As multas por dejetos caninos em Londres chegam às 150 £ (coima fixa) e câmaras municipais como Westminster aplicam-nas com rigor; os sacos são obrigatórios a todo o momento.',
       ],
     },
   },
@@ -26678,10 +26678,10 @@ const cityContent: Record<string, CityContent> = {
 
   milan: {
     history: {
-      fr: `Milan, capitale de la Lombardie et moteur financier et mode de l'Italie, remonte à l'établissement celte de Medhelan vers 600 av. J.-C. avant de devenir capitale impériale romaine en 286 apr. J.-C. La ville mêle aujourd'hui la grandeur gothique, le Duomo et ses 135 flèches ont mis près de six siècles à être achevés, aux gratte-ciel élégants de Porta Nuova et aux canaux restaurés des Navigli. Le mode de vie milanais est réputé dog-friendly: l'Italie a le plus fort taux de possession de chiens d'Europe, et on les voit impeccablement toilettés dans le Quadrilatero, aux terrasses de l'aperitivo des Navigli et au Parco Sempione le dimanche. La ville accueille même chaque année 'Quattrozampeinfiera' à la Fiera Milano. Les animaux sont admis dans les transports ATM, métro, tram, bus, à condition de porter laisse ET muselière, règle appliquée plus strictement qu'ailleurs em Italie.`,
+      fr: `Milan, capitale de la Lombardie et moteur financier et mode de l'Italie, remonte à l'établissement celte de Medhelan vers 600 av. J.-C. avant de devenir capitale impériale romaine en 286 apr. J.-C. La ville mêle aujourd'hui la grandeur gothique, le Duomo et ses 135 flèches ont mis près de six siècles à être achevés, aux gratte-ciel élégants de Porta Nuova et aux canaux restaurés des Navigli. Le mode de vie milanais est réputé dog-friendly: l'Italie a le plus fort taux de possession de chiens d'Europe, et on les voit impeccablement toilettés dans le Quadrilatero, aux terrasses de l'aperitivo des Navigli et au Parco Sempione le dimanche. La ville accueille même chaque année 'Quattrozampeinfiera' à la Fiera Milano. Les animaux sont admis dans les transports ATM, métro, tram, bus, à condition de porter laisse ET muselière, règle appliquée plus strictement qu'ailleurs en Italie.`,
       en: `Milan, capital of Lombardy and Italy's financial and fashion powerhouse, traces its origins to the Celtic settlement of Medhelan around 600 BCE before becoming a Roman imperial capital in 286 CE. Today it blends Gothic grandeur, the Duomo's 135 spires took nearly six centuries to complete, with sleek Porta Nuova skyscrapers and the restored Navigli canals. Milanese lifestyle is famously dog-forward: Italy's highest per-capita pet ownership sees immaculately groomed dogs in Quadrilatero boutiques, aperitivo terraces along the Navigli, and Sunday strolls in Parco Sempione. The city even hosts the annual 'Quattrozampeinfiera' pet fair at Fiera Milano. Pets are fully welcomed on ATM transit, metro, tram and bus, provided they wear both leash and muzzle, a rule enforced more strictly here than in most Italian cities.`,
-      es: `Milán, capital de Lombardía y motor financiero y de la moda de Italia, nació como asentamiento celta de Medhelan hacia el 600 a.C. antes de convertirse em capital imperial romana em el 286 d.C. Hoy combina la grandeza gótica, el Duomo y sus 135 agujas tardaron casi seis siglos em completarse, con los rascacielos de Porta Nuova y los canales restaurados dos Navigli. o estilo de vida milanés es conocido por su amor a los perros: Italia tiene la mayor tasa de posesión canina de Europa, y se les ve impecables em las boutiques del Quadrilatero, em los aperitivos dos Navigli y em los paseos dominicales del Parco Sempione. a cidade acoge cada año la feria 'Quattrozampeinfiera' em Fiera Milano. Las mascotas viajan em o transporte ATM, metro, tranvía y autobús, com trela Y bozal, norma aplicada con más rigor que em otras ciudades italianas.`,
-      pt: `Milán, capital de Lombardía e motor financiero e da moda de Italia, nació como asentamiento celta de Medhelan para o 600 a.C. antes de convertirse em capital imperial romana no 286 d.C. Hoy combina a grandeza gótica, o Duomo e os seus 135 agujas tardaron quase seis séculos em completarse, com os rascacielos de Porta Nuova e os canales restaurados dois Navigli. O estilo de vida milanés é conocido por su amor aos cães: Italia tem a mayor tasa de posesión canina de Europa, e se les ve impecables nas boutiques do Quadrilatero, nos aperitivos dois Navigli e nos passeios dominicales do Parco Sempione. A cidade acoge cada ano a feira 'Quattrozampeinfiera' em Fiera Milano. As animais viajan no transporte ATM, metro, elétrico e autocarro, com trela E bozal, norma aplicada com mais rigor que em outras cidades italianas.`,
+      es: `Milán, capital de Lombardía y motor financiero y de la moda de Italia, nació como asentamiento celta de Medhelan hacia el 600 a.C. antes de convertirse en capital imperial romana en el 286 d.C. Hoy combina la grandeza gótica, las 135 agujas del Duomo tardaron casi seis siglos en completarse, con los rascacielos de Porta Nuova y los canales restaurados de los Navigli. El estilo de vida milanés es conocido por su amor a los perros: Italia tiene la mayor tasa de posesión canina de Europa, y se les ve impecables en las boutiques del Quadrilatero, en los aperitivos de los Navigli y en los paseos dominicales del Parco Sempione. La ciudad acoge cada año la feria 'Quattrozampeinfiera' en Fiera Milano. Las mascotas viajan en el transporte ATM, metro, tranvía y autobús, con correa Y bozal, norma aplicada con más rigor que en otras ciudades italianas.`,
+      pt: `Milão, capital da Lombardia e motor financeiro e da moda de Itália, nasceu como povoado celta de Medhelan por volta de 600 a.C. antes de se tornar capital imperial romana em 286 d.C. Hoje combina a grandeza gótica, as 135 agulhas do Duomo demoraram quase seis séculos a concluir, com os arranha-céus de Porta Nuova e os canais restaurados dos Navigli. O estilo de vida milanês é conhecido pelo seu amor aos cães: a Itália tem a maior taxa de posse canina da Europa, e vêem-se impecáveis nas boutiques do Quadrilatero, nos aperitivos dos Navigli e nos passeios de domingo do Parco Sempione. A cidade acolhe todos os anos a feira 'Quattrozampeinfiera' na Fiera Milano. Os animais viajam no transporte ATM, metro, elétrico e autocarro, com trela E açaime, norma aplicada com mais rigor do que na maioria das cidades italianas.`,
     },
     sights: [
       {

@@ -32081,6 +32081,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  ravenna: {
+    history: {
+      fr: `Ravenne, discrète capitale de l'Émilie-Romagne au bord de l'Adriatique, fut trois fois capitale : de l'Empire romain d'Occident au Ve siècle, du royaume ostrogoth de Théodoric, puis de l'exarchat byzantin. De cet âge d'or elle a gardé huit monuments inscrits au patrimoine mondial de l'UNESCO, tapissés des plus belles mosaïques byzantines du monde : la basilique San Vitale, le mausolée de Galla Placidia et son ciel étoilé, Sant'Apollinare Nuovo. C'est aussi ici que mourut Dante Alighieri, exilé de Florence, en 1321 ; son tombeau se dresse près de l'église San Francesco. Ville plate et faite pour le vélo, entourée des pinèdes de San Vitale et de Classe chantées par Dante et Byron, Ravenne s'étend jusqu'aux plages de sable de Marina di Ravenna et Punta Marina, sur une côte adriatique douce et familiale.`,
+      en: `Ravenna, the quiet capital of Emilia-Romagna on the edge of the Adriatic, was three times a capital: of the Western Roman Empire in the fifth century, of Theodoric's Ostrogothic kingdom, then of the Byzantine exarchate. From that golden age it has kept eight UNESCO World Heritage monuments, lined with the finest Byzantine mosaics in the world: the Basilica of San Vitale, the Mausoleum of Galla Placidia with its starry vault, and Sant'Apollinare Nuovo. It was also here that Dante Alighieri, exiled from Florence, died in 1321; his tomb stands beside the church of San Francesco. Flat and made for cycling, ringed by the pine forests of San Vitale and Classe once sung by Dante and Byron, Ravenna reaches down to the sandy beaches of Marina di Ravenna and Punta Marina on a gentle, family-friendly Adriatic coast.`,
+      es: `Rávena, discreta capital de la Emilia-Romaña a orillas del Adriático, fue tres veces capital: del Imperio romano de Occidente en el siglo V, del reino ostrogodo de Teodorico y luego del exarcado bizantino. De aquella edad de oro conserva ocho monumentos inscritos en el Patrimonio Mundial de la UNESCO, revestidos de los mosaicos bizantinos más bellos del mundo: la basílica de San Vitale, el mausoleo de Gala Placidia con su bóveda estrellada y San Apolinar el Nuevo. Aquí murió también Dante Alighieri, exiliado de Florencia, en 1321; su tumba se alza junto a la iglesia de San Francisco. Ciudad llana y hecha para la bici, rodeada por los pinares de San Vitale y de Classe cantados por Dante y Byron, Rávena se extiende hasta las playas de arena de Marina di Ravenna y Punta Marina, en una costa adriática suave y familiar.`,
+      pt: `Ravena, discreta capital da Emília-Romanha à beira do Adriático, foi três vezes capital: do Império Romano do Ocidente no século V, do reino ostrogodo de Teodorico e depois do exarcado bizantino. Dessa idade de ouro conserva oito monumentos inscritos no Património Mundial da UNESCO, revestidos dos mais belos mosaicos bizantinos do mundo: a basílica de San Vitale, o mausoléu de Gala Placídia com a sua abóbada estrelada e Sant'Apollinare Nuovo. Foi também aqui que morreu Dante Alighieri, exilado de Florença, em 1321 ; o seu túmulo ergue-se junto à igreja de San Francesco. Cidade plana e feita para a bicicleta, rodeada pelos pinhais de San Vitale e de Classe cantados por Dante e Byron, Ravena estende-se até às praias de areia de Marina di Ravenna e Punta Marina, numa costa adriática suave e familiar.`,
+    },
+    sights: [
+      {
+        name: 'Basilica di San Vitale e Mausoleo di Galla Placidia',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `La basilique San Vitale et le petit mausolée de Galla Placidia voisin abritent les mosaïques byzantines les plus somptueuses de la ville, dont un célèbre ciel étoilé. Les chiens ne sont pas admis dans les monuments, mais le jardin et les allées qui les relient se parcourent en laisse.`,
+          en: `The Basilica of San Vitale and the small neighbouring Mausoleum of Galla Placidia hold the city's most sumptuous Byzantine mosaics, including a famous starry vault. Dogs are not allowed inside the monuments, but the garden and the paths that link them are walked on the leash.`,
+          es: `La basílica de San Vitale y el pequeño mausoleo vecino de Gala Placidia guardan los mosaicos bizantinos más suntuosos de la ciudad, incluida una célebre bóveda estrellada. Los perros no se admiten en los monumentos, pero el jardín y los senderos que los unen se recorren con correa.`,
+          pt: `A basílica de San Vitale e o pequeno mausoléu vizinho de Gala Placídia guardam os mosaicos bizantinos mais sumptuosos da cidade, incluindo uma célebre abóbada estrelada. Os cães não são admitidos nos monumentos, mas o jardim e os trilhos que os ligam percorrem-se à trela.`,
+        },
+      },
+      {
+        name: "Basilica di Sant'Apollinare Nuovo",
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Sant'Apollinare Nuovo aligne le long de sa nef deux processions de saints et de martyrs en mosaïque d'or, chef-d'œuvre de l'art byzantin. L'intérieur est interdit aux chiens, mais la rue et les places du centre historique qui y mènent se font en laisse.`,
+          en: `Sant'Apollinare Nuovo lines its nave with two processions of saints and martyrs in golden mosaic, a masterpiece of Byzantine art. The interior is off-limits to dogs, but the street and the squares of the old centre leading to it are done on the leash.`,
+          es: `San Apolinar el Nuevo alinea a lo largo de su nave dos procesiones de santos y mártires en mosaico de oro, obra maestra del arte bizantino. El interior está prohibido a los perros, pero la calle y las plazas del centro histórico que llevan hasta él se hacen con correa.`,
+          pt: `Sant'Apollinare Nuovo alinha ao longo da sua nave duas procissões de santos e mártires em mosaico de ouro, obra-prima da arte bizantina. O interior está interdito aos cães, mas a rua e as praças do centro histórico que a ele conduzem fazem-se à trela.`,
+        },
+      },
+      {
+        name: 'Tomba di Dante',
+        emoji: '📖',
+        petFriendly: true,
+        desc: {
+          fr: `Le tombeau de Dante, petit temple néoclassique où repose le poète mort en exil à Ravenne en 1321, se dresse à ciel ouvert dans la « zone du silence » près de l'église San Francesco. On s'y recueille en laisse, dans un quartier calme et ombragé au cœur de la vieille ville.`,
+          en: `Dante's Tomb, a small neoclassical shrine where the poet who died in exile in Ravenna in 1321 rests, stands in the open air in the quiet "zone of silence" near the church of San Francesco. You pause here on the leash, in a calm, shaded corner at the heart of the old town.`,
+          es: `La tumba de Dante, pequeño templo neoclásico donde reposa el poeta muerto en el exilio en Rávena en 1321, se alza al aire libre en la «zona del silencio» junto a la iglesia de San Francisco. Se visita con correa, en un rincón tranquilo y sombreado en el corazón del casco antiguo.`,
+          pt: `O túmulo de Dante, pequeno templo neoclássico onde repousa o poeta morto no exílio em Ravena em 1321, ergue-se ao ar livre na «zona do silêncio» junto à igreja de San Francesco. Recolhe-se aí à trela, num canto tranquilo e sombreado no coração da cidade velha.`,
+        },
+      },
+      {
+        name: 'Pineta di San Vitale e Classe',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Les grandes pinèdes historiques de San Vitale et de Classe, célébrées par Dante et Byron, ceinturent la ville de sentiers plats entre pins parasols, zones humides et canaux. On y marche en laisse ; attention aux moustiques près des marais et à la chaleur estivale sous les pins.`,
+          en: `The great historic pine forests of San Vitale and Classe, celebrated by Dante and Byron, ring the city with flat trails among umbrella pines, wetlands and canals. You walk here on the leash; watch for mosquitoes near the marshes and for summer heat under the pines.`,
+          es: `Los grandes pinares históricos de San Vitale y de Classe, cantados por Dante y Byron, rodean la ciudad de senderos llanos entre pinos piñoneros, humedales y canales. Se pasea con correa; ojo con los mosquitos cerca de las marismas y con el calor estival bajo los pinos.`,
+          pt: `Os grandes pinhais históricos de San Vitale e de Classe, cantados por Dante e Byron, cercam a cidade de trilhos planos entre pinheiros-mansos, zonas húmidas e canais. Passeia-se à trela; atenção aos mosquitos junto aos pântanos e ao calor estival sob os pinheiros.`,
+        },
+      },
+      {
+        name: 'Marina di Ravenna e Punta Marina',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Sur le littoral à quelques kilomètres du centre, Marina di Ravenna et Punta Marina alignent de longues plages de sable adriatiques. La côte compte plusieurs plages canines équipées (« bau beach ») ouvertes l'été, tandis que les plages balnéaires classiques limitent l'accès des chiens en haute saison.`,
+          en: `On the shore a few kilometres from the centre, Marina di Ravenna and Punta Marina line up long Adriatic sandy beaches. The coast has several equipped dog beaches ("bau beach") open in summer, while the classic bathing beaches restrict dog access in high season.`,
+          es: `En el litoral a pocos kilómetros del centro, Marina di Ravenna y Punta Marina alinean largas playas de arena adriáticas. La costa cuenta con varias playas caninas equipadas («bau beach») abiertas en verano, mientras las playas balnearias clásicas limitan el acceso de perros en temporada alta.`,
+          pt: `No litoral a poucos quilómetros do centro, Marina di Ravenna e Punta Marina alinham longas praias de areia adriáticas. A costa conta com várias praias caninas equipadas («bau beach») abertas no verão, enquanto as praias balneares clássicas limitam o acesso de cães na época alta.`,
+        },
+      },
+      {
+        name: 'Piazza del Popolo e Mercato Coperto',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La Piazza del Popolo, cœur vénitien de la ville avec ses colonnes et ses palais, et le Mercato Coperto tout proche donnent le pouls de Ravenne. Les places et les rues piétonnes se parcourent en laisse ; l'intérieur du marché couvert reste réservé aux clients sans animaux.`,
+          en: `Piazza del Popolo, the Venetian heart of the city with its columns and palaces, and the nearby Mercato Coperto give Ravenna its pulse. The squares and pedestrian streets are walked on the leash; the interior of the covered market stays reserved for customers without animals.`,
+          es: `La Piazza del Popolo, corazón veneciano de la ciudad con sus columnas y palacios, y el cercano Mercato Coperto marcan el pulso de Rávena. Las plazas y calles peatonales se recorren con correa; el interior del mercado cubierto queda reservado a los clientes sin animales.`,
+          pt: `A Piazza del Popolo, coração veneziano da cidade com as suas colunas e palácios, e o vizinho Mercato Coperto dão o pulso a Ravena. As praças e ruas pedonais percorrem-se à trela; o interior do mercado coberto fica reservado aos clientes sem animais.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Chaleur adriatique estivale : de juin à août l'air est lourd et humide, promenez le chien tôt le matin ou en soirée et emportez de l'eau, le sable des plages devenant brûlant en milieu de journée.`,
+        `Plages : la côte compte des plages canines équipées (« bau beach ») à Marina di Ravenna et Punta Marina, mais les plages balnéaires classiques interdisent les chiens en haute saison estivale, vérifiez sur place.`,
+        `Ville plate et cyclable : le centre historique et les huit monuments UNESCO se rejoignent facilement à pied en laisse, mais l'intérieur des basiliques et mausolées est interdit aux chiens.`,
+        `Pinèdes et zones humides de San Vitale et Classe : superbes pour de longues balades, mais protégez le chien contre les moustiques (marais) et surveillez la chaleur sous les pins en été.`,
+        `Numéro d'urgence unique 112 ; passeport européen et vaccination antirabique à jour exigés à l'hôtel, repérez à l'arrivée une clinique vétérinaire de garde.`,
+      ],
+      en: [
+        `Summer Adriatic heat: from June to August the air is heavy and humid, so walk the dog early or in the evening and carry water, as the beach sand turns scorching in the middle of the day.`,
+        `Beaches: the coast has equipped dog beaches ("bau beach") at Marina di Ravenna and Punta Marina, but the classic bathing beaches ban dogs in the high summer season, so check on site.`,
+        `Flat, cycle-friendly city: the old centre and the eight UNESCO monuments are easily linked on foot on the leash, but the interiors of the basilicas and mausoleums are off-limits to dogs.`,
+        `Pine forests and wetlands of San Vitale and Classe: superb for long walks, but protect the dog against mosquitoes (marshes) and watch for heat under the pines in summer.`,
+        `Single emergency number 112; EU pet passport and up-to-date rabies vaccination required at the hotel, and on arrival scout a duty vet clinic.`,
+      ],
+      es: [
+        `Calor adriático estival: de junio a agosto el aire es pesado y húmedo, pasea al perro temprano o al atardecer y lleva agua, pues la arena de las playas se vuelve ardiente a mediodía.`,
+        `Playas: la costa cuenta con playas caninas equipadas («bau beach») en Marina di Ravenna y Punta Marina, pero las playas balnearias clásicas prohíben los perros en plena temporada estival, comprueba sobre el terreno.`,
+        `Ciudad llana y ciclable: el centro histórico y los ocho monumentos UNESCO se enlazan fácilmente a pie con correa, pero el interior de las basílicas y mausoleos está prohibido a los perros.`,
+        `Pinares y humedales de San Vitale y Classe: magníficos para paseos largos, pero protege al perro contra los mosquitos (marismas) y vigila el calor bajo los pinos en verano.`,
+        `Número único de urgencias 112; pasaporte europeo y vacunación antirrábica al día exigidos en el hotel, y al llegar localiza una clínica veterinaria de guardia.`,
+      ],
+      pt: [
+        `Calor adriático estival: de junho a agosto o ar é pesado e húmido, passeie o cão cedo ou ao fim do dia e leve água, pois a areia das praias fica escaldante a meio do dia.`,
+        `Praias: a costa conta com praias caninas equipadas («bau beach») em Marina di Ravenna e Punta Marina, mas as praias balneares clássicas proíbem os cães em plena época estival, confirme no local.`,
+        `Cidade plana e ciclável: o centro histórico e os oito monumentos UNESCO ligam-se facilmente a pé à trela, mas o interior das basílicas e mausoléus está interdito aos cães.`,
+        `Pinhais e zonas húmidas de San Vitale e Classe: magníficos para passeios longos, mas proteja o cão contra os mosquitos (pântanos) e vigie o calor sob os pinheiros no verão.`,
+        `Número único de emergência 112; passaporte europeu e vacinação antirrábica em dia exigidos no hotel, e à chegada localize uma clínica veterinária de urgência.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen et vaccination antirabique à jour exigés à l'enregistrement dans les hôtels pet-friendly (l'Italie est dans l'UE).`,
+        `Laisse et ramassage des déjections de rigueur ; muselière à présenter sur demande dans certains transports et lieux publics italiens.`,
+        `Chaleur et humidité estivales sur l'Adriatique : promenades aux heures fraîches, eau en permanence, vigilance moustiques près des pinèdes et marais.`,
+        `Ville plate et compacte, idéale à pied ou à vélo ; gare bien reliée à Bologne et à la côte, plages de Marina di Ravenna et Punta Marina à une dizaine de minutes.`,
+        `Numéro d'urgence européen 112 ; l'intérieur des huit monuments UNESCO est interdit aux chiens, mais la ville se visite surtout à ciel ouvert.`,
+      ],
+      en: [
+        `EU pet passport and up-to-date rabies vaccination required at check-in in pet-friendly hotels (Italy is in the EU).`,
+        `Leash and waste pick-up expected; a muzzle should be available on request on some Italian public transport and in public places.`,
+        `Summer heat and humidity on the Adriatic: walk in the cooler hours, keep water on hand, and stay alert to mosquitoes near the pine forests and marshes.`,
+        `Flat, compact city, ideal on foot or by bike; the station is well connected to Bologna and the coast, with the beaches of Marina di Ravenna and Punta Marina about ten minutes away.`,
+        `European emergency number 112; the interiors of the eight UNESCO monuments are off-limits to dogs, but the city is mostly visited in the open air.`,
+      ],
+      es: [
+        `Pasaporte europeo y vacunación antirrábica al día exigidos en el check-in de los hoteles pet-friendly (Italia está en la UE).`,
+        `Correa y recogida de excrementos de rigor; conviene llevar bozal disponible a petición en algunos transportes públicos y lugares públicos italianos.`,
+        `Calor y humedad estivales en el Adriático: paseos en las horas frescas, agua siempre a mano y atención a los mosquitos cerca de los pinares y marismas.`,
+        `Ciudad llana y compacta, ideal a pie o en bici; estación bien conectada con Bolonia y la costa, playas de Marina di Ravenna y Punta Marina a unos diez minutos.`,
+        `Número de urgencia europeo 112; el interior de los ocho monumentos UNESCO está prohibido a los perros, pero la ciudad se visita sobre todo a cielo abierto.`,
+      ],
+      pt: [
+        `Passaporte europeu e vacinação antirrábica em dia exigidos no check-in dos hotéis pet-friendly (a Itália está na UE).`,
+        `Trela e recolha de dejetos de rigor; convém ter açaime disponível a pedido em alguns transportes públicos e locais públicos italianos.`,
+        `Calor e humidade estivais no Adriático: passeios nas horas frescas, água sempre à mão e atenção aos mosquitos junto aos pinhais e pântanos.`,
+        `Cidade plana e compacta, ideal a pé ou de bicicleta; estação bem ligada a Bolonha e à costa, praias de Marina di Ravenna e Punta Marina a cerca de dez minutos.`,
+        `Número de emergência europeu 112; o interior dos oito monumentos UNESCO está interdito aos cães, mas a cidade visita-se sobretudo a céu aberto.`,
+      ],
+    },
+  },
+
   reims: {
     history: {
       fr: `Reims, surnommée « la cité des sacres », a vu couronner trente-trois rois de France entre 816 et 1825 dans sa cathédrale Notre-Dame, chef-d'œuvre gothique inscrit au patrimoine mondial de l'UNESCO depuis 1991 avec le Palais du Tau et la basilique Saint-Remi. Située à 45 minutes de Paris em TGV, la capitale historique de la Champagne combine héritage royal et terroir viticole d'exception : les caves de Pommery, Taittinger, Veuve Clicquot et Ruinart s'étendent sous la ville dans d'anciennes crayères gallo-romaines. Largement détruite lors de la Première Guerre mondiale, Reims fut reconstruite dans le style Art déco caractéristique des années 1920, visible Place Drouet d'Erlon et le long de la rue de Vesle. Aujourd'hui, ville d'environ 180 000 habitants entourée de vignes classées UNESCO depuis 2015, Reims propose un cadre élégant et facile à parcourir avec un chien : avenues larges, nombreux parcs et chemins de halage le long du canal de l'Aisne à la Marne.`,
@@ -32454,6 +32591,143 @@ const cityContent: Record<string, CityContent> = {
         `A água da torneira é potável; fontes de água no Parc du Thabor, em torno do Étang d'Apigné e ao longo do caminho de sirga do Vilaine, leva um bol pliable.`,
         `O mercado de sábado na Place des Lices (segundo maior mercado al aire libre de França) funciona das 07:30 às 13:30 e é ideal para abastecer-se de produtos bretões (galette-saucisse, ostras, kouign-amann), cães com trela bem-vindos.`,
         `Lei francesa: chip ISO, vacina antirrábica e passaporte europeu para todo cão que entre; trela de 1,5 m obrigatória em público, a multa por dejeções chega a 68 € em Rennes.`,
+      ],
+    },
+  },
+
+  rethymno: {
+    history: {
+      fr: `Réthymnon, sur la côte nord de la Crète entre La Canée et Héraklion, possède la vieille ville vénitienne et ottomane la mieux préservée de l'île. Fondée à l'emplacement de l'antique Rhithymna, elle fut façonnée par quatre siècles de domination vénitienne puis par les Ottomans, qui lui ont laissé un lacis de ruelles étroites, des maisons à encorbellement, des fontaines et un minaret encore debout. La puissante Fortezza vénitienne veille sur la mer du haut de sa colline, tandis que le petit port abrite un phare et des barques de pêche. Ville universitaire animée, Réthymnon borde une longue plage de sable qui file vers l'est. Tout autour, l'arrière-pays crétois déroule le monastère d'Arkadi, les gorges de Kourtaliotiko et la palmeraie de Preveli. L'été y est brûlant et sec, tempéré le soir par la brise de mer.`,
+      en: `Rethymno, on the north coast of Crete between Chania and Heraklion, has the best-preserved Venetian and Ottoman old town on the island. Built on the site of ancient Rhithymna, it was shaped by four centuries of Venetian rule and then by the Ottomans, who left it a maze of narrow lanes, overhanging houses, fountains and a still-standing minaret. The mighty Venetian Fortezza watches over the sea from its hilltop, while the little harbour shelters a lighthouse and fishing boats. A lively university town, Rethymno runs along a long sandy beach stretching east. All around, the Cretan hinterland unfolds the Arkadi Monastery, the Kourtaliotiko gorge and the palm grove of Preveli. Summers are hot and dry, tempered in the evening by the sea breeze.`,
+      es: `Réthymno, en la costa norte de Creta entre La Canea y Heraclión, posee el casco antiguo veneciano y otomano mejor conservado de la isla. Levantada sobre la antigua Rhithymna, fue moldeada por cuatro siglos de dominio veneciano y luego por los otomanos, que le dejaron un laberinto de callejuelas estrechas, casas con voladizos, fuentes y un minarete aún en pie. La poderosa Fortezza veneciana vigila el mar desde lo alto de su colina, mientras el pequeño puerto cobija un faro y barcas de pesca. Ciudad universitaria animada, Réthymno bordea una larga playa de arena que se prolonga hacia el este. Alrededor, el interior cretense despliega el monasterio de Arkadi, las gargantas de Kourtaliotiko y el palmeral de Preveli. El verano es caluroso y seco, atemperado al anochecer por la brisa marina.`,
+      pt: `Réthymno, na costa norte de Creta entre Chania e Heraclião, possui o centro histórico veneziano e otomano mais bem preservado da ilha. Erguida sobre a antiga Rhithymna, foi moldada por quatro séculos de domínio veneziano e depois pelos otomanos, que lhe deixaram um labirinto de ruelas estreitas, casas em consola, fontes e um minarete ainda de pé. A poderosa Fortezza veneziana vigia o mar do alto da sua colina, enquanto o pequeno porto abriga um farol e barcos de pesca. Cidade universitária animada, Réthymno margeia uma longa praia de areia que se prolonga para leste. Em redor, o interior cretense desenrola o mosteiro de Arkadi, o desfiladeiro de Kourtaliotiko e o palmeiral de Preveli. O verão é quente e seco, temperado ao entardecer pela brisa do mar.`,
+    },
+    sights: [
+      {
+        name: 'Fortezza',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `La Fortezza, vaste citadelle vénitienne du XVIe siècle, couronne la colline Paleokastro au-dessus de la mer avec ses remparts, sa mosquée et ses vues panoramiques. Le site en plein air se parcourt en laisse ; emportez de l'eau, l'ombre y est rare et la pierre chauffe fort l'été.`,
+          en: `The Fortezza, a vast sixteenth-century Venetian citadel, crowns the Paleokastro hill above the sea with its ramparts, mosque and sweeping views. The open-air site is walked on the leash; bring water, as shade is scarce and the stone gets very hot in summer.`,
+          es: `La Fortezza, vasta ciudadela veneciana del siglo XVI, corona la colina Paleokastro sobre el mar con sus murallas, su mezquita y sus vistas panorámicas. El recinto al aire libre se recorre con correa; lleva agua, pues la sombra escasea y la piedra se calienta mucho en verano.`,
+          pt: `A Fortezza, vasta cidadela veneziana do século XVI, coroa a colina Paleokastro sobre o mar com as suas muralhas, a sua mesquita e vistas panorâmicas. O recinto ao ar livre percorre-se à trela; leve água, pois a sombra é escassa e a pedra aquece muito no verão.`,
+        },
+      },
+      {
+        name: 'Porto Veneziano',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Le vieux port vénitien, avec son phare égyptien du XIXe siècle et son quai bordé de tavernes à poisson, forme le décor le plus photographié de la ville. On y flâne en laisse le long de l'eau, entre barques de pêche et terrasses, tôt le matin ou en soirée pour éviter la foule.`,
+          en: `The old Venetian harbour, with its nineteenth-century Egyptian lighthouse and quay lined with fish tavernas, forms the city's most photographed scene. You stroll here on the leash along the water, among fishing boats and terraces, early in the morning or in the evening to avoid the crowds.`,
+          es: `El viejo puerto veneciano, con su faro egipcio del siglo XIX y su muelle jalonado de tabernas de pescado, forma el escenario más fotografiado de la ciudad. Se pasea con correa a lo largo del agua, entre barcas de pesca y terrazas, temprano por la mañana o al atardecer para evitar el gentío.`,
+          pt: `O velho porto veneziano, com o seu farol egípcio do século XIX e o cais ladeado de tabernas de peixe, forma o cenário mais fotografado da cidade. Passeia-se à trela ao longo da água, entre barcos de pesca e esplanadas, de manhã cedo ou ao fim do dia para evitar a multidão.`,
+        },
+      },
+      {
+        name: 'Krini Rimondi',
+        emoji: '⛲',
+        petFriendly: true,
+        desc: {
+          fr: `La fontaine Rimondi, gracieuse fontaine vénitienne à têtes de lion de 1626, marque le cœur de la vieille ville, à deux pas du minaret de la mosquée Neratze. Tout le dédale de ruelles, boutiques et cafés se parcourt en laisse, à l'ombre bienvenue des façades.`,
+          en: `The Rimondi Fountain, a graceful 1626 Venetian fountain with lion heads, marks the heart of the old town, steps from the minaret of the Neratze mosque. The whole maze of lanes, shops and cafes is walked on the leash, in the welcome shade of the facades.`,
+          es: `La fuente Rimondi, elegante fuente veneciana con cabezas de león de 1626, marca el corazón del casco antiguo, a dos pasos del minarete de la mezquita Neratze. Todo el laberinto de callejuelas, tiendas y cafés se recorre con correa, a la sombra grata de las fachadas.`,
+          pt: `A fonte Rimondi, graciosa fonte veneziana com cabeças de leão de 1626, marca o coração da cidade velha, a dois passos do minarete da mesquita Neratze. Todo o labirinto de ruelas, lojas e cafés percorre-se à trela, à sombra bem-vinda das fachadas.`,
+        },
+      },
+      {
+        name: 'Rethymno Town Beach',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La longue plage de sable de la ville file vers l'est sur plusieurs kilomètres depuis le centre. Les chiens sont interdits sur les sections aménagées et surveillées l'été, mais les portions plus sauvages vers l'est les tolèrent en laisse ; le sable devient brûlant à la mi-journée.`,
+          en: `The town's long sandy beach runs east for several kilometres from the centre. Dogs are banned on the organised, supervised sections in summer, but the wilder stretches to the east tolerate them on the leash; the sand turns scorching at midday.`,
+          es: `La larga playa de arena de la ciudad se prolonga hacia el este varios kilómetros desde el centro. Los perros están prohibidos en las secciones acondicionadas y vigiladas en verano, pero los tramos más salvajes hacia el este los toleran con correa; la arena se vuelve ardiente a mediodía.`,
+          pt: `A longa praia de areia da cidade prolonga-se para leste por vários quilómetros a partir do centro. Os cães estão proibidos nas secções organizadas e vigiadas no verão, mas os troços mais selvagens para leste toleram-nos à trela; a areia fica escaldante a meio do dia.`,
+        },
+      },
+      {
+        name: 'Moni Arkadiou',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Le monastère d'Arkadi, à une vingtaine de kilomètres au sud-est, est un symbole national de la résistance crétoise de 1866, avec sa façade baroque au milieu des collines. Les chiens ne sont pas admis dans l'enceinte du monastère, mais les abords et les sentiers alentour se marchent en laisse.`,
+          en: `The Arkadi Monastery, some twenty kilometres to the south-east, is a national symbol of the Cretan resistance of 1866, with its Baroque facade set among the hills. Dogs are not allowed inside the monastery grounds, but the surroundings and nearby paths are walked on the leash.`,
+          es: `El monasterio de Arkadi, a unos veinte kilómetros al sureste, es un símbolo nacional de la resistencia cretense de 1866, con su fachada barroca entre las colinas. Los perros no se admiten en el recinto del monasterio, pero los alrededores y los senderos cercanos se recorren con correa.`,
+          pt: `O mosteiro de Arkadi, a cerca de vinte quilómetros a sudeste, é um símbolo nacional da resistência cretense de 1866, com a sua fachada barroca no meio das colinas. Os cães não são admitidos no recinto do mosteiro, mas os arredores e os trilhos vizinhos percorrem-se à trela.`,
+        },
+      },
+      {
+        name: 'Preveli e Kourtaliotiko',
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: `Au sud, la palmeraie de Preveli borde une rivière qui se jette dans la mer de Libye, en contrebas des gorges spectaculaires de Kourtaliotiko. La randonnée se fait en laisse ; prévoyez beaucoup d'eau, de l'ombre rare et une longue descente jusqu'à la plage.`,
+          en: `To the south, the palm grove of Preveli lines a river flowing into the Libyan Sea, below the spectacular Kourtaliotiko gorge. The hike is done on the leash; plan for plenty of water, scarce shade and a long descent down to the beach.`,
+          es: `Al sur, el palmeral de Preveli bordea un río que desemboca en el mar de Libia, bajo las espectaculares gargantas de Kourtaliotiko. La caminata se hace con correa; prevé mucha agua, sombra escasa y un largo descenso hasta la playa.`,
+          pt: `A sul, o palmeiral de Preveli ladeia um rio que desagua no mar da Líbia, abaixo do espetacular desfiladeiro de Kourtaliotiko. A caminhada faz-se à trela; conte com muita água, sombra escassa e uma longa descida até à praia.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Chaleur crétoise extrême l'été : les températures dépassent souvent 33 °C de juin à septembre, promenez le chien tôt le matin ou après le coucher du soleil et emportez toujours de l'eau.`,
+        `Sable et pavés brûlants aux heures chaudes : testez le sol avec la main, marchez à l'ombre des ruelles de la vieille ville et évitez les plages en pleine journée l'été.`,
+        `Plage de la ville : chiens interdits sur les sections aménagées et surveillées en été, mais tolérés en laisse sur les portions plus sauvages vers l'est, hors des zones balnéaires.`,
+        `Randonnées du sud (Preveli, gorges de Kourtaliotiko) en laisse : longues, exposées et peu ombragées, à faire tôt avec beaucoup d'eau ; les chiens sont exclus de l'enceinte du monastère d'Arkadi.`,
+        `Numéro d'urgence unique 112 ; passeport européen et vaccination antirabique à jour exigés à l'hôtel, repérez à l'arrivée une clinique vétérinaire de garde (Réthymnon dispose de vétérinaires d'urgence).`,
+      ],
+      en: [
+        `Extreme Cretan summer heat: temperatures often top 33 C from June to September, so walk the dog early in the morning or after sunset and always carry water.`,
+        `Scorching sand and paving in the hot hours: test the ground with your hand, walk in the shade of the old-town lanes and avoid the beaches in the middle of the day in summer.`,
+        `Town beach: dogs are banned on the organised, supervised sections in summer, but tolerated on the leash on the wilder stretches to the east, away from the bathing zones.`,
+        `Southern hikes (Preveli, Kourtaliotiko gorge) on the leash: long, exposed and lightly shaded, best done early with plenty of water; dogs are kept out of the Arkadi Monastery grounds.`,
+        `Single emergency number 112; EU pet passport and up-to-date rabies vaccination required at the hotel, and on arrival scout a duty vet clinic (Rethymno has emergency vets).`,
+      ],
+      es: [
+        `Calor cretense extremo en verano: las temperaturas superan a menudo los 33 C de junio a septiembre, pasea al perro temprano por la mañana o tras la puesta de sol y lleva siempre agua.`,
+        `Arena y adoquines ardientes en las horas de calor: comprueba el suelo con la mano, camina a la sombra de las callejuelas del casco antiguo y evita las playas a mediodía en verano.`,
+        `Playa de la ciudad: perros prohibidos en las secciones acondicionadas y vigiladas en verano, pero tolerados con correa en los tramos más salvajes hacia el este, fuera de las zonas balnearias.`,
+        `Caminatas del sur (Preveli, gargantas de Kourtaliotiko) con correa: largas, expuestas y con poca sombra, mejor temprano y con mucha agua; los perros quedan fuera del recinto del monasterio de Arkadi.`,
+        `Número único de urgencias 112; pasaporte europeo y vacunación antirrábica al día exigidos en el hotel, y al llegar localiza una clínica veterinaria de guardia (Réthymno cuenta con veterinarios de urgencia).`,
+      ],
+      pt: [
+        `Calor cretense extremo no verão: as temperaturas ultrapassam muitas vezes os 33 C de junho a setembro, passeie o cão de manhã cedo ou após o pôr do sol e leve sempre água.`,
+        `Areia e calçada escaldantes nas horas quentes: teste o chão com a mão, caminhe à sombra das ruelas da cidade velha e evite as praias a meio do dia no verão.`,
+        `Praia da cidade: cães proibidos nas secções organizadas e vigiadas no verão, mas tolerados à trela nos troços mais selvagens para leste, fora das zonas balneares.`,
+        `Caminhadas do sul (Preveli, desfiladeiro de Kourtaliotiko) à trela: longas, expostas e pouco sombreadas, a fazer cedo e com muita água; os cães ficam fora do recinto do mosteiro de Arkadi.`,
+        `Número único de emergência 112; passaporte europeu e vacinação antirrábica em dia exigidos no hotel, e à chegada localize uma clínica veterinária de urgência (Réthymno dispõe de veterinários de urgência).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen et vaccination antirabique à jour exigés à l'enregistrement dans les hôtels pet-friendly (la Grèce est dans l'UE).`,
+        `Laisse et ramassage des déjections de rigueur ; la vieille ville, la Fortezza et le port vénitien se parcourent en laisse toute l'année.`,
+        `Chaleur estivale intense et sèche : promenades aux heures fraîches, eau en permanence, attention au sol brûlant pour les coussinets.`,
+        `Réthymnon se rejoint en ferry (port du nord de la Crète) ou via l'aéroport d'Héraklion à environ 80 km ; centre compact et piéton, arrière-pays et sud accessibles en voiture.`,
+        `Numéro d'urgence européen 112 ; les monastères et musées refusent les chiens, mais l'essentiel de la visite se fait à ciel ouvert.`,
+      ],
+      en: [
+        `EU pet passport and up-to-date rabies vaccination required at check-in in pet-friendly hotels (Greece is in the EU).`,
+        `Leash and waste pick-up expected; the old town, the Fortezza and the Venetian harbour are walked on the leash all year.`,
+        `Intense, dry summer heat: walk in the cooler hours, keep water on hand, and watch for scorching ground on paws.`,
+        `Rethymno is reached by ferry (northern Crete port) or via Heraklion airport about 80 km away; the centre is compact and pedestrian, with the hinterland and south accessible by car.`,
+        `European emergency number 112; monasteries and museums turn dogs away, but most of the visit is in the open air.`,
+      ],
+      es: [
+        `Pasaporte europeo y vacunación antirrábica al día exigidos en el check-in de los hoteles pet-friendly (Grecia está en la UE).`,
+        `Correa y recogida de excrementos de rigor; el casco antiguo, la Fortezza y el puerto veneciano se recorren con correa todo el año.`,
+        `Calor estival intenso y seco: paseos en las horas frescas, agua siempre a mano y atención al suelo ardiente para las almohadillas.`,
+        `A Réthymno se llega en ferry (puerto del norte de Creta) o vía el aeropuerto de Heraclión a unos 80 km; centro compacto y peatonal, interior y sur accesibles en coche.`,
+        `Número de urgencia europeo 112; los monasterios y museos no admiten perros, pero la mayor parte de la visita se hace a cielo abierto.`,
+      ],
+      pt: [
+        `Passaporte europeu e vacinação antirrábica em dia exigidos no check-in dos hotéis pet-friendly (a Grécia está na UE).`,
+        `Trela e recolha de dejetos de rigor; a cidade velha, a Fortezza e o porto veneziano percorrem-se à trela todo o ano.`,
+        `Calor estival intenso e seco: passeios nas horas frescas, água sempre à mão e atenção ao chão escaldante para as almofadinhas.`,
+        `Réthymno alcança-se de ferry (porto do norte de Creta) ou pelo aeroporto de Heraclião a cerca de 80 km; centro compacto e pedonal, interior e sul acessíveis de carro.`,
+        `Número de emergência europeu 112; os mosteiros e museus não aceitam cães, mas a maior parte da visita faz-se a céu aberto.`,
       ],
     },
   },

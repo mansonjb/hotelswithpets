@@ -35577,6 +35577,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  setubal: {
+    history: {
+      fr: `Setúbal s'étend au sud de Lisbonne, sur la rive nord de l'estuaire du Sado, dans une région où la montagne calcaire de l'Arrábida plonge dans l'Atlantique. Port de pêche toujours en activité, la ville vit au rythme des bateaux qui ramènent la sardine et la seiche, spécialité locale servie en choco frito. Son histoire remonte aux Romains, qui y salaient le poisson et fabriquaient le garum ; le château de São Filipe, bâti au XVIe siècle, veille encore sur la baie. Setúbal est surtout la porte de deux merveilles naturelles : la réserve de l'estuaire du Sado, où vit une population résidente de grands dauphins, et le parc naturel de l'Arrábida, avec ses plages de sable blanc et ses eaux turquoise. Pour le voyageur avec un chien, elle combine marché aux azulejos, sentiers de montagne, front de mer et ferry vers les plages sauvages de Tróia.`,
+      en: `Setúbal lies south of Lisbon, on the northern shore of the Sado estuary, where the limestone hills of the Arrábida plunge into the Atlantic. A working fishing port, the town still lives to the rhythm of the boats bringing in sardines and cuttlefish, the local speciality served as choco frito. Its history reaches back to the Romans, who salted fish and made garum here; the 16th-century Castelo de São Filipe still watches over the bay. Above all, Setúbal is the gateway to two natural wonders: the Sado Estuary Nature Reserve, home to a resident population of bottlenose dolphins, and the Arrábida Natural Park, with its white-sand beaches and turquoise water. For the traveller with a dog, it combines an azulejo-tiled market, mountain trails, a seafront promenade and a ferry to the wild beaches of the Tróia peninsula.`,
+      es: `Setúbal se extiende al sur de Lisboa, en la orilla norte del estuario del Sado, donde las montañas calizas de la Arrábida se hunden en el Atlántico. Puerto pesquero todavía en activo, la ciudad vive al ritmo de los barcos que traen la sardina y la sepia, especialidad local servida como choco frito. Su historia se remonta a los romanos, que salaban pescado y fabricaban garum aquí; el castillo de São Filipe, del siglo XVI, aún vigila la bahía. Setúbal es sobre todo la puerta de dos maravillas naturales: la reserva del estuario del Sado, hogar de una población residente de delfines mulares, y el parque natural de la Arrábida, con sus playas de arena blanca y aguas turquesa. Para el viajero con perro combina un mercado de azulejos, senderos de montaña, paseo marítimo y ferry hacia las playas salvajes de la península de Tróia.`,
+      pt: `Setúbal estende-se a sul de Lisboa, na margem norte do estuário do Sado, onde a serra calcária da Arrábida mergulha no Atlântico. Porto de pesca ainda em plena atividade, a cidade vive ao ritmo dos barcos que trazem a sardinha e o choco, especialidade local servida como choco frito. A sua história remonta aos romanos, que aqui salgavam peixe e faziam garum; o Castelo de São Filipe, do século XVI, ainda vela pela baía. Setúbal é sobretudo a porta de duas maravilhas naturais: a Reserva Natural do Estuário do Sado, lar de uma população residente de roazes, e o Parque Natural da Arrábida, com as suas praias de areia branca e águas turquesa. Para o viajante com cão combina um mercado de azulejos, trilhos de montanha, marginal e ferry para as praias selvagens da península de Tróia.`,
+    },
+    sights: [
+      { name: 'Reserva Natural do Estuário do Sado', emoji: '🐬', petFriendly: true, desc: {
+        fr: `Vaste réserve d'estuaire abritant l'une des rares populations résidentes de grands dauphins d'Europe. Des sorties en bateau permettent de les observer ; certains opérateurs acceptent les chiens à bord, à confirmer à la réservation.`,
+        en: `A vast estuary reserve sheltering one of Europe's few resident populations of bottlenose dolphins. Boat trips let you watch them; some operators allow dogs on board, so confirm when booking.`,
+        es: `Amplia reserva de estuario que alberga una de las pocas poblaciones residentes de delfines mulares de Europa. Hay salidas en barco para observarlos; algunos operadores admiten perros a bordo, confírmelo al reservar.`,
+        pt: `Vasta reserva de estuário que abriga uma das poucas populações residentes de roazes da Europa. Há passeios de barco para os observar; alguns operadores aceitam cães a bordo, confirme ao reservar.`,
+      }},
+      { name: 'Parque Natural da Arrábida', emoji: '⛰️', petFriendly: true, desc: {
+        fr: `Massif calcaire couvert de maquis méditerranéen qui domine des criques turquoise. Nombreux sentiers de randonnée ouverts aux chiens en laisse, avec des vues plongeantes sur l'Atlantique.`,
+        en: `A limestone massif cloaked in Mediterranean scrub rising above turquoise coves. Plenty of hiking trails open to leashed dogs, with sweeping views down to the Atlantic.`,
+        es: `Macizo calizo cubierto de monte mediterráneo que domina calas turquesa. Numerosos senderos abiertos a perros con correa, con vistas en picado al Atlántico.`,
+        pt: `Maciço calcário coberto de mato mediterrânico que domina enseadas turquesa. Muitos trilhos abertos a cães com trela, com vistas a pique sobre o Atlântico.`,
+      }},
+      { name: 'Portinho da Arrábida e Praia de Galapinhos', emoji: '🏖️', petFriendly: false, desc: {
+        fr: `Plages de sable blanc et d'eau turquoise (Galapinhos, Portinho) parmi les plus belles du Portugal. Chiens interdits sur les plages surveillées de juin à septembre ; l'accès plus sauvage est parfois toléré hors saison.`,
+        en: `White-sand, turquoise-water beaches (Galapinhos, Portinho) among Portugal's finest. Dogs are banned on guarded beaches from June to September; wilder access is sometimes tolerated off-season.`,
+        es: `Playas de arena blanca y agua turquesa (Galapinhos, Portinho) entre las más bellas de Portugal. Perros prohibidos en las playas vigiladas de junio a septiembre; el acceso más salvaje se tolera a veces fuera de temporada.`,
+        pt: `Praias de areia branca e água turquesa (Galapinhos, Portinho) entre as mais belas de Portugal. Cães proibidos nas praias vigiadas de junho a setembro; o acesso mais selvagem é por vezes tolerado fora de época.`,
+      }},
+      { name: 'Castelo de São Filipe', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Forteresse du XVIe siècle bâtie par Philippe II au-dessus de la ville, aujourd'hui pousada. Remparts et esplanade extérieurs accessibles aux chiens en laisse, avec une vue superbe sur l'estuaire et Tróia.`,
+        en: `A 16th-century fortress built by Philip II above the town, now a pousada. The outer ramparts and esplanade are open to leashed dogs, with a superb view over the estuary and Tróia.`,
+        es: `Fortaleza del siglo XVI construida por Felipe II sobre la ciudad, hoy pousada. Murallas y explanada exteriores accesibles a perros con correa, con una vista soberbia del estuario y Tróia.`,
+        pt: `Fortaleza do século XVI erguida por Filipe II acima da cidade, hoje pousada. Muralhas e esplanada exteriores acessíveis a cães com trela, com uma vista soberba sobre o estuário e Tróia.`,
+      }},
+      { name: 'Mercado do Livramento', emoji: '🐟', petFriendly: false, desc: {
+        fr: `Marché couvert célèbre pour ses fresques d'azulejos et ses étals de poisson parmi les plus réputés du pays. Les chiens ne sont pas admis à l'intérieur ; admirez les façades carrelées depuis la rue.`,
+        en: `A covered market famous for its azulejo tile panels and some of the country's most renowned fish stalls. Dogs are not allowed inside; admire the tiled facades from the street.`,
+        es: `Mercado cubierto célebre por sus paneles de azulejos y algunos de los puestos de pescado más reputados del país. No se admiten perros dentro; admire las fachadas alicatadas desde la calle.`,
+        pt: `Mercado coberto célebre pelos seus painéis de azulejos e por algumas das mais afamadas bancas de peixe do país. Os cães não são admitidos no interior; admire as fachadas azulejadas a partir da rua.`,
+      }},
+      { name: 'Península de Tróia', emoji: '⛴️', petFriendly: true, desc: {
+        fr: `Longue langue de sable face à Setúbal, atteinte en une vingtaine de minutes de ferry (chiens admis). Kilomètres de plages ouvertes et ruines romaines de Tróia, idéal pour de longues promenades hors saison.`,
+        en: `A long sand spit facing Setúbal, reached by a twenty-minute ferry (dogs allowed). Miles of open beach and the Roman ruins of Tróia, ideal for long walks off-season.`,
+        es: `Larga lengua de arena frente a Setúbal, a unos veinte minutos en ferry (perros admitidos). Kilómetros de playa abierta y las ruinas romanas de Tróia, ideales para largos paseos fuera de temporada.`,
+        pt: `Longa língua de areia em frente a Setúbal, alcançada em cerca de vinte minutos de ferry (cães admitidos). Quilómetros de praia aberta e as ruínas romanas de Tróia, ideais para longos passeios fora de época.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale des chiens sur les plages surveillées de l'Arrábida (juin à septembre) : privilégiez les criques sauvages hors saison ou la longue plage de Tróia.`,
+        `La Nortada, vent du nord soutenu, souffle souvent l'après-midi en été : prévoyez de l'eau et de l'ombre, surtout sur les sentiers exposés de l'Arrábida.`,
+        `Forte chaleur atlantique l'été : promenez tôt le matin ou en soirée, le sable et les rochers brûlent en milieu de journée.`,
+        `Sorties dauphins dans l'estuaire du Sado : tous les opérateurs n'acceptent pas les chiens à bord, confirmez avant de réserver et prévoyez un gilet pour votre animal.`,
+        `En cas d'urgence vétérinaire, composez le 112 (numéro d'urgence européen) ; des cliniques vétérinaires sont présentes à Setúbal.`,
+      ],
+      en: [
+        `Summer dog ban on the Arrábida's guarded beaches (June to September): favour the wild coves off-season or the long Tróia beach.`,
+        `The Nortada, a steady north wind, often blows on summer afternoons: carry water and seek shade, especially on the exposed Arrábida trails.`,
+        `Strong Atlantic summer heat: walk early morning or in the evening, as sand and rock scorch in the middle of the day.`,
+        `Dolphin trips in the Sado estuary: not every operator takes dogs on board, so confirm before booking and bring a life vest for your pet.`,
+        `For a veterinary emergency dial 112 (the EU emergency number); veterinary clinics operate in Setúbal.`,
+      ],
+      es: [
+        `Prohibición estival de perros en las playas vigiladas de la Arrábida (junio a septiembre): opte por las calas salvajes fuera de temporada o la larga playa de Tróia.`,
+        `La Nortada, viento del norte constante, sopla a menudo las tardes de verano: lleve agua y busque sombra, sobre todo en los senderos expuestos de la Arrábida.`,
+        `Fuerte calor atlántico en verano: pasee a primera hora o al atardecer, la arena y las rocas queman a media jornada.`,
+        `Salidas de delfines en el estuario del Sado: no todos los operadores admiten perros a bordo, confírmelo antes de reservar y lleve un chaleco para su animal.`,
+        `Ante una urgencia veterinaria marque el 112 (número de emergencia europeo); hay clínicas veterinarias en Setúbal.`,
+      ],
+      pt: [
+        `Proibição estival de cães nas praias vigiadas da Arrábida (junho a setembro): prefira as enseadas selvagens fora de época ou a longa praia de Tróia.`,
+        `A Nortada, vento do norte constante, sopra muitas vezes nas tardes de verão: leve água e procure sombra, sobretudo nos trilhos expostos da Arrábida.`,
+        `Forte calor atlântico no verão: passeie de manhã cedo ou ao fim do dia, a areia e as rochas queimam a meio do dia.`,
+        `Passeios de golfinhos no estuário do Sado: nem todos os operadores aceitam cães a bordo, confirme antes de reservar e leve um colete para o seu animal.`,
+        `Numa urgência veterinária marque o 112 (número de emergência europeu); há clínicas veterinárias em Setúbal.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Portugal dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays de l'UE.`,
+        `Aéroport le plus proche : Lisbonne (LIS), à environ 50 km ; liaison en voiture ou en train/bus via Lisbonne (chiens acceptés).`,
+        `Ferry Setúbal-Tróia toutes les 30 à 60 minutes selon la saison ; chiens admis pour traverser vers les plages de la péninsule.`,
+        `Devise : euro. Transports urbains et régionaux : chiens en laisse et muselière ou en sac selon la taille, confirmez auprès du transporteur.`,
+        `Meilleure période : mai-juin et septembre-octobre, pour éviter la foule estivale et les interdictions de plage.`,
+      ],
+      en: [
+        `Portugal is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Nearest airport: Lisbon (LIS), about 50 km away; reached by car or by train/bus via Lisbon (dogs welcome).`,
+        `Setúbal-Tróia ferry runs every 30 to 60 minutes depending on the season; dogs are allowed for the crossing to the peninsula's beaches.`,
+        `Currency: euro. Urban and regional transport: dogs on a leash and muzzle or in a carrier depending on size, confirm with the operator.`,
+        `Best time: May-June and September-October, to avoid summer crowds and beach bans.`,
+      ],
+      es: [
+        `Portugal está en la UE y Schengen: pasaporte europeo + vacuna antirrábica vigente + microchip ISO es suficiente desde cualquier país de la UE.`,
+        `Aeropuerto más cercano: Lisboa (LIS), a unos 50 km; se llega en coche o en tren/autobús vía Lisboa (perros admitidos).`,
+        `El ferry Setúbal-Tróia sale cada 30 a 60 minutos según la temporada; perros admitidos para cruzar a las playas de la península.`,
+        `Moneda: euro. Transporte urbano y regional: perros con correa y bozal o en transportín según el tamaño, confirme con el transportista.`,
+        `Mejor época: mayo-junio y septiembre-octubre, para evitar las aglomeraciones estivales y las prohibiciones de playa.`,
+      ],
+      pt: [
+        `Portugal está na UE e Schengen: passaporte europeu + vacina antirrábica válida + microchip ISO é suficiente a partir de qualquer país da UE.`,
+        `Aeroporto mais próximo: Lisboa (LIS), a cerca de 50 km; chega-se de carro ou de comboio/autocarro via Lisboa (cães admitidos).`,
+        `O ferry Setúbal-Tróia parte a cada 30 a 60 minutos consoante a época; cães admitidos para atravessar até às praias da península.`,
+        `Moeda: euro. Transportes urbanos e regionais: cães com trela e açaime ou em transportadora consoante o tamanho, confirme com o operador.`,
+        `Melhor época: maio-junho e setembro-outubro, para evitar as multidões estivais e as proibições de praia.`,
+      ],
+    },
+  },
+
   seville: {
     history: {
       fr: `L'identité de Séville s'est forgée dans l'empire : Hispalis sous Rome, Ishbiliya sous les Almohades, puis port atlantique exclusif des Indes espagnoles après 1503, elle a fait transiter l'argent du Nouveau Monde par sa Torre del Oro et vu naître Velázquez, Murillo et le flamenco. Il em résulte une ville de patios parfumés à l'oranger, d'azulejos mudéjars et de la plus grande cathédrale gothique au monde. Les Sévillans entretiennent un rapport très social avec leurs chiens, fruit d'un mode de vie place-et-patio où le perro de casa suit simplement la famille au bar à tapas. L'été bouleverse tout autour de l'ombre : chiens et maîtres vivent nocturnes de juin à septembre, les berges ombragées du Guadalquivir faisant office de salon extérieur.`,
@@ -36117,6 +36224,113 @@ const cityContent: Record<string, CityContent> = {
         `Comboio urbano CP desde Lisboa (Rossio ou Oriente) até Sintra em 40 minutos, aceita cães`,
         `Microchip e passaporte europeu de animal obrigatórios; vacina antirrábica em dia para viajar em Portugal`,
         `Cabo da Roca e as praias da costa (Praia das Maçãs, Praia Grande) acessíveis de autocarro 403 ou carro`,
+      ],
+    },
+  },
+
+  sirmione: {
+    history: {
+      fr: `Sirmione occupe la pointe d'une étroite presqu'île qui s'avance sur près de quatre kilomètres dans le lac de Garde, en Lombardie. Réputée depuis l'Antiquité pour ses sources thermales sulfureuses, elle inspira au poète latin Catulle des vers célèbres ; les vastes ruines romaines qui coiffent la pointe portent d'ailleurs son nom, les Grotte di Catullo. Au XIIIe siècle, la puissante famille véronaise des Scaliger y éleva une forteresse entourée de douves, la Rocca Scaligera, dont les tours crénelées gardent toujours l'entrée du bourg. Les ruelles pavées du centre historique, entièrement piétonnes, se remplissent d'une foule dense l'été, attirée par les eaux turquoise, les spas et les glaciers. Pour le voyageur avec un chien, Sirmione offre un château au bord de l'eau, un parc archéologique planté d'oliviers, des bains sur rochers plats et des bateaux qui sillonnent le plus grand lac d'Italie.`,
+      en: `Sirmione sits at the tip of a narrow peninsula that reaches almost four kilometres into Lake Garda, in Lombardy. Prized since antiquity for its sulphurous thermal springs, it inspired the Latin poet Catullus to write some of his most famous verses; the vast Roman ruins crowning the point still bear his name, the Grotte di Catullo. In the 13th century the powerful Scaliger family of Verona raised a moated fortress here, the Rocca Scaligera, whose crenellated towers still guard the entrance to the old town. The cobbled, entirely pedestrian lanes of the centre fill with dense crowds in summer, drawn by the turquoise water, the spas and the gelato. For the traveller with a dog, Sirmione offers a lakeside castle, an archaeological park dotted with olive trees, flat-rock bathing spots and boats that criss-cross Italy's largest lake.`,
+      es: `Sirmione ocupa la punta de una estrecha península que se adentra casi cuatro kilómetros en el lago de Garda, en Lombardía. Apreciada desde la Antigüedad por sus fuentes termales sulfurosas, inspiró al poeta latino Catulo algunos de sus versos más famosos; las vastas ruinas romanas que coronan la punta llevan aún su nombre, las Grotte di Catullo. En el siglo XIII la poderosa familia veronesa de los Scaligeri levantó aquí una fortaleza rodeada de fosos, la Rocca Scaligera, cuyas torres almenadas siguen guardando la entrada del casco antiguo. Las callejuelas empedradas del centro, totalmente peatonales, se llenan de gentío en verano, atraído por las aguas turquesa, los balnearios y los helados. Para el viajero con perro, Sirmione ofrece un castillo junto al agua, un parque arqueológico plantado de olivos, zonas de baño sobre roca plana y barcos que surcan el mayor lago de Italia.`,
+      pt: `Sirmione ocupa a ponta de uma estreita península que avança quase quatro quilómetros pelo lago de Garda, na Lombardia. Apreciada desde a Antiguidade pelas suas fontes termais sulfurosas, inspirou ao poeta latino Catulo alguns dos seus versos mais célebres; as vastas ruínas romanas que coroam a ponta ainda levam o seu nome, as Grotte di Catullo. No século XIII a poderosa família veronesa dos Scaligeri ergueu aqui uma fortaleza rodeada de fossos, a Rocca Scaligera, cujas torres ameadas ainda guardam a entrada do centro histórico. As ruelas empedradas do centro, totalmente pedonais, enchem-se de multidão no verão, atraída pelas águas turquesa, pelos spas e pelos gelados. Para o viajante com cão, Sirmione oferece um castelo à beira de água, um parque arqueológico plantado de oliveiras, zonas de banho sobre rocha plana e barcos que sulcam o maior lago de Itália.`,
+    },
+    sights: [
+      { name: 'Rocca Scaligera', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Château fort du XIIIe siècle entouré de douves, aux tours crénelées gardant l'entrée du bourg. Cour extérieure accessible aux chiens en laisse ; l'ascension des tours et certaines salles intérieures leur sont fermées.`,
+        en: `A 13th-century moated castle whose crenellated towers guard the entrance to the old town. The outer courtyard is open to leashed dogs; the tower climb and some interior rooms are off-limits to them.`,
+        es: `Castillo del siglo XIII rodeado de fosos, con torres almenadas que guardan la entrada del pueblo. Patio exterior accesible a perros con correa; la subida a las torres y algunas salas interiores les están vedadas.`,
+        pt: `Castelo do século XIII rodeado de fossos, com torres ameadas a guardar a entrada da vila. Pátio exterior acessível a cães com trela; a subida às torres e algumas salas interiores estão-lhes vedadas.`,
+      }},
+      { name: 'Grotte di Catullo', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Vaste villa romaine en ruine à la pointe de la presqu'île, dans une oliveraie ouverte sur le lac. Parc archéologique en plein air où les chiens sont admis en laisse ; renseignez-vous à l'entrée en haute saison.`,
+        en: `A vast ruined Roman villa at the peninsula's tip, set in an olive grove overlooking the lake. An open-air archaeological park where leashed dogs are allowed; check at the entrance in high season.`,
+        es: `Vasta villa romana en ruinas en la punta de la península, en un olivar abierto al lago. Parque arqueológico al aire libre donde se admiten perros con correa; infórmese en la entrada en temporada alta.`,
+        pt: `Vasta villa romana em ruínas na ponta da península, num olival aberto sobre o lago. Parque arqueológico ao ar livre onde se admitem cães com trela; informe-se à entrada em época alta.`,
+      }},
+      { name: 'Spiaggia Jamaica', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Baignade sur de grandes dalles de roche plate à l'extrémité de la presqu'île, près des Grotte di Catullo. Eau claire et peu profonde ; les chiens y sont tolérés hors des zones les plus fréquentées, tenez-les en laisse.`,
+        en: `Bathing over broad flat rock slabs at the peninsula's tip, near the Grotte di Catullo. Clear, shallow water; dogs are tolerated away from the busiest spots, so keep them leashed.`,
+        es: `Baño sobre grandes losas de roca plana en el extremo de la península, junto a las Grotte di Catullo. Agua clara y poco profunda; se tolera a los perros lejos de las zonas más concurridas, llévelos con correa.`,
+        pt: `Banho sobre grandes lajes de rocha plana no extremo da península, junto às Grotte di Catullo. Água clara e pouco profunda; toleram-se cães longe das zonas mais movimentadas, mantenha-os com trela.`,
+      }},
+      { name: 'Terme di Sirmione', emoji: '♨️', petFriendly: false, desc: {
+        fr: `Les sources thermales sulfureuses qui firent la réputation de Sirmione, avec le spa Aquaria au bord du lac. Les animaux ne sont pas admis dans l'établissement thermal ; prévoyez une garde si vous souhaitez en profiter.`,
+        en: `The sulphurous thermal springs that made Sirmione famous, with the lakeside Aquaria spa. Pets are not allowed in the thermal complex; arrange dog care if you want to enjoy it.`,
+        es: `Las fuentes termales sulfurosas que dieron fama a Sirmione, con el balneario Aquaria junto al lago. No se admiten animales en el complejo termal; organice el cuidado del perro si desea disfrutarlo.`,
+        pt: `As fontes termais sulfurosas que deram fama a Sirmione, com o spa Aquaria à beira do lago. Não se admitem animais no complexo termal; organize o cuidado do cão se quiser desfrutá-lo.`,
+      }},
+      { name: 'Centro storico', emoji: '🍦', petFriendly: true, desc: {
+        fr: `Dédale de ruelles pavées entièrement piétonnes, bordées de boutiques, de glaciers et de terrasses. Charmant avec un chien tôt le matin ou en soirée ; l'été, la foule y est très dense aux heures de pointe.`,
+        en: `A maze of entirely pedestrian cobbled lanes lined with shops, gelaterie and terraces. Charming with a dog early in the morning or in the evening; in summer the crowds are very dense at peak hours.`,
+        es: `Laberinto de callejuelas empedradas totalmente peatonales, con tiendas, heladerías y terrazas. Encantador con un perro a primera hora o al atardecer; en verano el gentío es muy denso en horas punta.`,
+        pt: `Labirinto de ruelas empedradas totalmente pedonais, com lojas, gelatarias e esplanadas. Encantador com um cão de manhã cedo ou ao fim do dia; no verão a multidão é muito densa nas horas de ponta.`,
+      }},
+      { name: 'Navigazione Lago di Garda', emoji: '⛴️', petFriendly: true, desc: {
+        fr: `Bateaux et ferries reliant Sirmione aux villages du lac de Garde (Desenzano, Peschiera, Garda). Les chiens sont admis à bord en laisse, souvent avec un billet réduit ou gratuit selon la taille.`,
+        en: `Boats and ferries linking Sirmione to the lakeside villages of Lake Garda (Desenzano, Peschiera, Garda). Dogs are allowed on board on a leash, often with a reduced or free ticket depending on size.`,
+        es: `Barcos y ferris que enlazan Sirmione con los pueblos del lago de Garda (Desenzano, Peschiera, Garda). Se admiten perros a bordo con correa, a menudo con billete reducido o gratuito según el tamaño.`,
+        pt: `Barcos e ferries que ligam Sirmione às aldeias do lago de Garda (Desenzano, Peschiera, Garda). Admitem-se cães a bordo com trela, muitas vezes com bilhete reduzido ou gratuito consoante o tamanho.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Foule estivale intense de juin à septembre : parcourez le centre historique et le château tôt le matin, quand les ruelles piétonnes sont encore calmes pour votre chien.`,
+        `Baignade au lac : cherchez une zone tolérée aux chiens près de Sirmione (souvent des plages libres non surveillées) ; l'eau douce du Garde est idéale pour se rafraîchir l'été.`,
+        `Chaleur d'été sur les dalles de roche et les pavés : ils chauffent fort à midi, promenez aux heures fraîches et emportez de l'eau.`,
+        `Centre historique entièrement piéton : chien en laisse courte obligatoire au milieu des terrasses et de la foule ; ramassez systématiquement.`,
+        `En cas d'urgence vétérinaire, composez le 112 (numéro d'urgence européen) ; des cliniques vétérinaires existent à Sirmione et autour de Desenzano.`,
+      ],
+      en: [
+        `Intense summer crowds from June to September: explore the old town and the castle early in the morning, when the pedestrian lanes are still calm for your dog.`,
+        `Lake swimming: look for a dog-tolerant zone near Sirmione (often free, unguarded beaches); Garda's fresh water is ideal for cooling off in summer.`,
+        `Summer heat on the rock slabs and cobbles: they get very hot at midday, so walk in the cool hours and carry water.`,
+        `The old town is entirely pedestrian: keep your dog on a short leash amid the terraces and crowds, and always pick up.`,
+        `For a veterinary emergency dial 112 (the EU emergency number); veterinary clinics operate in Sirmione and around Desenzano.`,
+      ],
+      es: [
+        `Gentío estival intenso de junio a septiembre: recorra el casco antiguo y el castillo a primera hora, cuando las callejuelas peatonales aún están tranquilas para su perro.`,
+        `Baño en el lago: busque una zona tolerada para perros cerca de Sirmione (a menudo playas libres sin vigilancia); el agua dulce del Garda es ideal para refrescarse en verano.`,
+        `Calor de verano sobre las losas de roca y los adoquines: se calientan mucho al mediodía, pasee en las horas frescas y lleve agua.`,
+        `El casco antiguo es totalmente peatonal: perro con correa corta obligatoria entre las terrazas y el gentío, y recoja siempre.`,
+        `Ante una urgencia veterinaria marque el 112 (número de emergencia europeo); hay clínicas veterinarias en Sirmione y alrededor de Desenzano.`,
+      ],
+      pt: [
+        `Multidão estival intensa de junho a setembro: percorra o centro histórico e o castelo de manhã cedo, quando as ruelas pedonais ainda estão calmas para o seu cão.`,
+        `Banho no lago: procure uma zona tolerada a cães perto de Sirmione (muitas vezes praias livres não vigiadas) ; a água doce do Garda é ideal para refrescar no verão.`,
+        `Calor de verão sobre as lajes de rocha e os paralelepípedos: aquecem muito ao meio-dia, passeie nas horas frescas e leve água.`,
+        `O centro histórico é totalmente pedonal: cão com trela curta obrigatória entre as esplanadas e a multidão, e recolha sempre.`,
+        `Numa urgência veterinária marque o 112 (número de emergência europeu) ; há clínicas veterinárias em Sirmione e em redor de Desenzano.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Italie dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays de l'UE.`,
+        `Aéroports les plus proches : Vérone (VRN) à environ 30 km, Bergame (BGY) et Brescia à environ 50 à 70 km ; Milan et Venise à environ 130 km.`,
+        `Gare de Desenzano del Garda-Sirmione sur la ligne Milan-Venise (env. 8 km) ; bus ou taxi ensuite, chiens acceptés en laisse et muselière dans les transports.`,
+        `Devise : euro. Le centre historique est fermé aux voitures : garez-vous aux parkings d'entrée et rejoignez le bourg à pied avec votre chien.`,
+        `Meilleure période : mai-juin et septembre pour un climat doux et éviter la foule et la chaleur d'août.`,
+      ],
+      en: [
+        `Italy is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Nearest airports: Verona (VRN) about 30 km, Bergamo (BGY) and Brescia about 50 to 70 km; Milan and Venice about 130 km.`,
+        `Desenzano del Garda-Sirmione station is on the Milan-Venice line (about 8 km); bus or taxi from there, dogs allowed on a leash and muzzle on transport.`,
+        `Currency: euro. The old town is closed to cars: park at the entrance car parks and walk into the village with your dog.`,
+        `Best time: May-June and September for mild weather and to avoid the August crowds and heat.`,
+      ],
+      es: [
+        `Italia está en la UE y Schengen: pasaporte europeo + vacuna antirrábica vigente + microchip ISO es suficiente desde cualquier país de la UE.`,
+        `Aeropuertos más cercanos: Verona (VRN) a unos 30 km, Bérgamo (BGY) y Brescia a unos 50 a 70 km; Milán y Venecia a unos 130 km.`,
+        `Estación de Desenzano del Garda-Sirmione en la línea Milán-Venecia (unos 8 km); autobús o taxi después, perros admitidos con correa y bozal en el transporte.`,
+        `Moneda: euro. El casco antiguo está cerrado a los coches: aparque en los estacionamientos de entrada y acceda al pueblo a pie con su perro.`,
+        `Mejor época: mayo-junio y septiembre para un clima suave y evitar el gentío y el calor de agosto.`,
+      ],
+      pt: [
+        `Itália está na UE e Schengen: passaporte europeu + vacina antirrábica válida + microchip ISO é suficiente a partir de qualquer país da UE.`,
+        `Aeroportos mais próximos: Verona (VRN) a cerca de 30 km, Bérgamo (BGY) e Bréscia a cerca de 50 a 70 km; Milão e Veneza a cerca de 130 km.`,
+        `Estação de Desenzano del Garda-Sirmione na linha Milão-Veneza (cerca de 8 km); autocarro ou táxi depois, cães admitidos com trela e açaime nos transportes.`,
+        `Moeda: euro. O centro histórico está fechado a carros: estacione nos parques de entrada e aceda à vila a pé com o seu cão.`,
+        `Melhor época: maio-junho e setembro para um clima ameno e evitar a multidão e o calor de agosto.`,
       ],
     },
   },

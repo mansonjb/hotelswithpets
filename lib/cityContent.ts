@@ -39780,6 +39780,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  texel: {
+    history: {
+      fr: `Texel est la plus grande des îles frisonnes occidentales, un banc de sable posé au nord des Pays-Bas et bordé à l'est par la mer des Wadden, classée au patrimoine mondial de l'UNESCO. On y accède en une vingtaine de minutes par le ferry de la TESO depuis Den Helder, qui débarque à 't Horntje ; les chiens y voyagent gratuitement, tenus en laisse sur le pont. L'île vit de l'élevage de moutons, de la pêche et du tourisme balnéaire, et sept villages, dont Den Burg le chef-lieu et Oudeschild son port, ponctuent un paysage de digues, de polders et de dunes. Trente kilomètres de plage de sable font face à la mer du Nord, tandis que le parc national des Dunes de Texel protège landes et forêts. Pour un maître de chien, Texel est un paradis : de longues plages autorisées aux chiens toute l'année, des pistes cyclables partout et une culture profondément accueillante envers les animaux.`,
+      en: `Texel is the largest of the West Frisian islands, a sandbank off the northern tip of the Netherlands, bordered to the east by the Wadden Sea, a UNESCO World Heritage site. It is reached in about twenty minutes on the TESO ferry from Den Helder, landing at 't Horntje; dogs travel free, kept leashed on deck. The island lives on sheep farming, fishing and seaside tourism, and seven villages, among them the main town of Den Burg and the harbour of Oudeschild, dot a landscape of dykes, polders and dunes. Thirty kilometres of sandy beach face the North Sea, while the Dunes of Texel National Park protects heath and woodland. For a dog owner, Texel is a paradise: long dog-permitted beaches all year round, cycle paths everywhere and a deeply pet-welcoming culture.`,
+      es: `Texel es la mayor de las islas Frisias Occidentales, un banco de arena frente al extremo norte de los Países Bajos, bordeado al este por el mar de Wadden, patrimonio mundial de la UNESCO. Se llega en unos veinte minutos en el ferry de la TESO desde Den Helder, que atraca en 't Horntje; los perros viajan gratis, con correa en cubierta. La isla vive de la cría de ovejas, la pesca y el turismo de playa, y siete pueblos, entre ellos la capital Den Burg y el puerto de Oudeschild, salpican un paisaje de diques, pólderes y dunas. Treinta kilómetros de playa de arena miran al mar del Norte, mientras que el parque nacional de las Dunas de Texel protege brezales y bosques. Para un dueño de perro, Texel es un paraíso: largas playas que admiten perros todo el año, carriles bici por doquier y una cultura profundamente acogedora con los animales.`,
+      pt: `Texel é a maior das ilhas Frísias Ocidentais, um banco de areia ao largo da ponta norte dos Países Baixos, ladeado a leste pelo mar de Wadden, património mundial da UNESCO. Chega-se em cerca de vinte minutos no ferry da TESO a partir de Den Helder, que atraca em 't Horntje; os cães viajam gratuitamente, com trela no convés. A ilha vive da criação de ovelhas, da pesca e do turismo balnear, e sete aldeias, entre elas a capital Den Burg e o porto de Oudeschild, pontuam uma paisagem de diques, pólderes e dunas. Trinta quilómetros de praia de areia dão para o mar do Norte, enquanto o parque nacional das Dunas de Texel protege charnecas e bosques. Para um dono de cão, Texel é um paraíso: longas praias que admitem cães todo o ano, ciclovias por toda a parte e uma cultura profundamente acolhedora para com os animais.`,
+    },
+    sights: [
+      {
+        name: 'Noordzeestrand',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La longue plage de la mer du Nord qui borde toute la côte ouest de l'île, repérée par des poteaux numérotés (paal) qui servent de points de rendez-vous. De vastes tronçons sont autorisés aux chiens sans laisse hors saison ; en été, du 1er mai au 15 septembre, certaines sections deviennent réglementées, mais plusieurs plages restent ouvertes aux chiens toute l'année.`,
+          en: `The long North Sea beach running the whole west coast of the island, marked by numbered poles (paal) that serve as meeting points. Broad stretches allow off-leash dogs out of season; in summer, from 1 May to 15 September, some sections become regulated, but several beaches stay open to dogs all year.`,
+          es: `La larga playa del mar del Norte que recorre toda la costa oeste de la isla, señalada con postes numerados (paal) que sirven de puntos de encuentro. Amplios tramos permiten perros sin correa fuera de temporada; en verano, del 1 de mayo al 15 de septiembre, algunas secciones se regulan, pero varias playas siguen abiertas a los perros todo el año.`,
+          pt: `A longa praia do mar do Norte que percorre toda a costa oeste da ilha, assinalada por postes numerados (paal) que servem de pontos de encontro. Amplos troços permitem cães sem trela fora de época; no verão, de 1 de maio a 15 de setembro, algumas secções passam a ser regulamentadas, mas várias praias mantêm-se abertas a cães todo o ano.`,
+        },
+      },
+      {
+        name: 'Nationaal Park Duinen van Texel',
+        emoji: '🌾',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc national des Dunes de Texel protège un cordon de dunes, de landes et de forêts le long de la côte ouest, riche en oiseaux nicheurs. Les chiens sont admis en laisse sur les sentiers balisés ; au printemps, la laisse est impérative pour protéger les oiseaux qui nichent au sol, et certaines zones de réserve stricte sont fermées.`,
+          en: `The Dunes of Texel National Park protects a belt of dunes, heath and woodland along the west coast, rich in nesting birds. Dogs are allowed on the marked trails when leashed; in spring the leash is essential to protect ground-nesting birds, and some strict reserve zones are closed.`,
+          es: `El parque nacional de las Dunas de Texel protege un cordón de dunas, brezales y bosques a lo largo de la costa oeste, rico en aves nidificantes. Se admiten perros con correa en los senderos señalizados; en primavera la correa es imprescindible para proteger a las aves que anidan en el suelo, y algunas zonas de reserva estricta están cerradas.`,
+          pt: `O parque nacional das Dunas de Texel protege um cordão de dunas, charnecas e bosques ao longo da costa oeste, rico em aves nidificantes. Os cães são admitidos com trela nos trilhos assinalados; na primavera a trela é imprescindível para proteger as aves que nidificam no solo, e algumas zonas de reserva estrita estão fechadas.`,
+        },
+      },
+      {
+        name: 'Den Burg',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le chef-lieu de l'île, avec sa place du marché, ses ruelles commerçantes et son église gothique, cœur animé de Texel où se tient le marché du lundi en été. On s'y promène facilement avec un chien en laisse, et de nombreux cafés en terrasse accueillent volontiers les animaux avec un bol d'eau.`,
+          en: `The island's main town, with its market square, shopping lanes and Gothic church, the lively heart of Texel where the Monday market is held in summer. It is easy to stroll here with a leashed dog, and many terrace cafes gladly welcome pets with a bowl of water.`,
+          es: `La capital de la isla, con su plaza del mercado, sus calles comerciales y su iglesia gótica, el animado corazón de Texel donde se celebra el mercado de los lunes en verano. Se pasea con facilidad con un perro con correa, y muchos cafés con terraza acogen de buen grado a los animales con un cuenco de agua.`,
+          pt: `A capital da ilha, com a sua praça do mercado, ruas comerciais e igreja gótica, o coração animado de Texel onde se realiza o mercado de segunda-feira no verão. Passeia-se com facilidade com um cão com trela, e muitos cafés com esplanada acolhem de bom grado os animais com uma taça de água.`,
+        },
+      },
+      {
+        name: 'Oudeschild',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Le port de pêche de l'île, aligné de cotres et de senneurs, avec sa criée, son musée maritime Kaap Skil et son moulin restauré face à la mer des Wadden. On flâne le long des quais avec un chien en laisse, et c'est le point de départ des sorties d'observation des phoques et de pêche à la crevette.`,
+          en: `The island's fishing harbour, lined with cutters and seiners, with its fish auction, the Kaap Skil maritime museum and a restored windmill facing the Wadden Sea. You can wander the quaysides with a leashed dog, and it is the departure point for seal-watching and shrimp-fishing trips.`,
+          es: `El puerto pesquero de la isla, jalonado de arrastreros y traíñas, con su lonja, el museo marítimo Kaap Skil y un molino restaurado frente al mar de Wadden. Se pasea por los muelles con un perro con correa, y es el punto de partida de las salidas de avistamiento de focas y pesca de camarón.`,
+          pt: `O porto de pesca da ilha, alinhado de traineiras e cúteres, com a sua lota, o museu marítimo Kaap Skil e um moinho restaurado virado para o mar de Wadden. Passeia-se pelos cais com um cão com trela, e é o ponto de partida das saídas de observação de focas e pesca do camarão.`,
+        },
+      },
+      {
+        name: 'Ecomare',
+        emoji: '🦭',
+        petFriendly: false,
+        desc: {
+          fr: `Le centre nature et refuge pour phoques et marsouins de De Koog, qui présente la faune de la mer des Wadden et de la mer du Nord. C'est une visite d'intérieur avec bassins et sanctuaire animalier : les chiens n'y sont pas admis, prévoyez de laisser votre compagnon à l'hébergement ou de vous relayer.`,
+          en: `The nature centre and rescue for seals and porpoises at De Koog, showcasing the wildlife of the Wadden Sea and North Sea. It is an indoor visit with pools and an animal sanctuary: dogs are not admitted, so plan to leave your companion at your lodging or take turns.`,
+          es: `El centro de naturaleza y refugio de focas y marsopas de De Koog, que muestra la fauna del mar de Wadden y del mar del Norte. Es una visita de interior con piscinas y un santuario de animales: no se admiten perros, así que prevé dejar a tu compañero en el alojamiento o turnaros.`,
+          pt: `O centro de natureza e refúgio de focas e botos de De Koog, que mostra a fauna do mar de Wadden e do mar do Norte. É uma visita de interior com tanques e um santuário de animais: não se admitem cães, por isso planeie deixar o seu companheiro no alojamento ou revezarem-se.`,
+        },
+      },
+      {
+        name: 'Vuurtoren Eierland',
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: `Le phare rouge de De Cocksdorp, à la pointe nord de l'île, sentinelle emblématique dressée entre dunes et mer du Nord. Les abords, la plage voisine et les sentiers de dunes se parcourent avec un chien en laisse ; l'ascension de la tour, en intérieur, n'est pas ouverte aux animaux.`,
+          en: `The red lighthouse of De Cocksdorp at the island's northern tip, an iconic sentinel standing between dunes and the North Sea. The surroundings, the nearby beach and the dune paths can all be walked with a leashed dog; the climb up the tower, indoors, is not open to pets.`,
+          es: `El faro rojo de De Cocksdorp, en el extremo norte de la isla, un centinela emblemático erguido entre dunas y el mar del Norte. Los alrededores, la playa cercana y los senderos de dunas se recorren con un perro con correa; la subida a la torre, en interior, no está abierta a los animales.`,
+          pt: `O farol vermelho de De Cocksdorp, na ponta norte da ilha, uma sentinela emblemática erguida entre dunas e o mar do Norte. Os arredores, a praia vizinha e os trilhos de dunas percorrem-se com um cão com trela; a subida à torre, no interior, não está aberta aos animais.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Texel est l'une des îles les plus dog-friendly des Pays-Bas : de vastes plages autorisent les chiens toute l'année, mais du 1er mai au 15 septembre certaines sections deviennent réglementées ou exigent la laisse, repérez les panneaux et les poteaux numérotés (paal) qui délimitent les zones.`,
+        `Sur le ferry de la TESO depuis Den Helder, les chiens voyagent gratuitement mais doivent rester en laisse sur le pont ; achetez un billet aller-retour car on ne paie qu'au départ de l'île.`,
+        `L'île se vit à vélo : de nombreux loueurs proposent des paniers et des remorques pour chiens, une manière commode et bien acceptée de se déplacer sur les pistes cyclables plates.`,
+        `Dans le parc national des Dunes, tenez impérativement votre chien en laisse au printemps pour protéger les oiseaux nichant au sol, et méfiez-vous des tiques dans les dunes et les hautes herbes (risque de maladie de Lyme).`,
+        `La mer du Nord est fraîche et le vent souvent fort : rincez le pelage au sable et au sel après la baignade, emportez de l'eau douce et une serviette, et surveillez les courants pour un chien qui nage.`,
+      ],
+      en: [
+        `Texel is one of the most dog-friendly islands in the Netherlands: broad beaches allow dogs all year, but from 1 May to 15 September some sections become regulated or require a leash, so watch the signs and the numbered poles (paal) that mark the zones.`,
+        `On the TESO ferry from Den Helder, dogs travel free but must stay leashed on deck; buy a return ticket, as you only pay on the way off the island.`,
+        `The island runs on cycling: many rental shops offer dog baskets and trailers, a handy and well-accepted way to get around on the flat cycle paths.`,
+        `In the Dunes National Park, keep your dog strictly leashed in spring to protect ground-nesting birds, and watch for ticks in the dunes and tall grass (Lyme disease risk).`,
+        `The North Sea is cold and the wind often strong: rinse sand and salt from the coat after a swim, carry fresh water and a towel, and mind the currents if your dog swims.`,
+      ],
+      es: [
+        `Texel es una de las islas más dog-friendly de los Países Bajos: amplias playas admiten perros todo el año, pero del 1 de mayo al 15 de septiembre algunas secciones se regulan o exigen correa, así que fíjate en los carteles y en los postes numerados (paal) que delimitan las zonas.`,
+        `En el ferry de la TESO desde Den Helder, los perros viajan gratis pero deben ir con correa en cubierta; compra un billete de ida y vuelta, pues solo se paga al salir de la isla.`,
+        `La isla se vive en bici: muchos alquileres ofrecen cestas y remolques para perros, una forma cómoda y bien aceptada de moverse por los carriles bici llanos.`,
+        `En el parque nacional de las Dunas, lleva a tu perro estrictamente con correa en primavera para proteger a las aves que anidan en el suelo, y cuidado con las garrapatas en las dunas y la hierba alta (riesgo de enfermedad de Lyme).`,
+        `El mar del Norte es frío y el viento a menudo fuerte: enjuaga la arena y la sal del pelaje tras el baño, lleva agua dulce y una toalla, y vigila las corrientes si tu perro nada.`,
+      ],
+      pt: [
+        `Texel é uma das ilhas mais dog-friendly dos Países Baixos: praias amplas admitem cães todo o ano, mas de 1 de maio a 15 de setembro algumas secções passam a ser regulamentadas ou exigem trela, por isso repare nos sinais e nos postes numerados (paal) que delimitam as zonas.`,
+        `No ferry da TESO a partir de Den Helder, os cães viajam gratuitamente mas devem ficar com trela no convés; compre um bilhete de ida e volta, pois só se paga à saída da ilha.`,
+        `A ilha vive-se de bicicleta: muitos alugueres oferecem cestos e atrelados para cães, uma forma cómoda e bem aceite de circular nas ciclovias planas.`,
+        `No parque nacional das Dunas, mantenha o seu cão estritamente com trela na primavera para proteger as aves que nidificam no solo, e cuidado com as carraças nas dunas e na erva alta (risco de doença de Lyme).`,
+        `O mar do Norte é frio e o vento muitas vezes forte: enxágue a areia e o sal do pelo depois do banho, leve água doce e uma toalha, e vigie as correntes se o seu cão nadar.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Les Pays-Bas font partie de l'UE : passeport européen pour animal de compagnie, puce ISO et vaccin antirabique à jour suffisent, sans quarantaine ni formalité particulière à l'arrivée.`,
+        `L'accès se fait uniquement par le ferry de la TESO entre Den Helder et 't Horntje, environ 20 minutes, très fréquent en été ; les chiens y sont admis gratuitement, tenus en laisse.`,
+        `Le climat est maritime et venteux : étés doux (souvent 18 à 22 °C) propices aux longues plages, hivers frais et humides ; c'est hors saison que les chiens profitent de la plus grande liberté sur le sable.`,
+        `Une clinique vétérinaire est installée à Den Burg pour les soins courants et les urgences de l'île ; en cas d'urgence générale, le numéro européen unique est le 112.`,
+        `La monnaie est l'euro ; hébergements, cafés en terrasse et de nombreux restaurants accueillent les chiens, mais confirmez à la réservation, surtout en haute saison estivale.`,
+      ],
+      en: [
+        `The Netherlands is part of the EU: an EU pet passport, an ISO microchip and an up-to-date rabies vaccination are enough, with no quarantine or special formality on arrival.`,
+        `Access is only by the TESO ferry between Den Helder and 't Horntje, about 20 minutes, very frequent in summer; dogs are carried free, kept on a leash.`,
+        `The climate is maritime and windy: mild summers (often 18 to 22°C) ideal for the long beaches, cool damp winters; it is out of season that dogs enjoy the greatest freedom on the sand.`,
+        `A veterinary clinic operates in Den Burg for routine care and island emergencies; for a general emergency, the single European number is 112.`,
+        `The currency is the euro; lodgings, terrace cafes and many restaurants welcome dogs, but confirm when booking, especially in the summer high season.`,
+      ],
+      es: [
+        `Los Países Bajos forman parte de la UE: bastan un pasaporte europeo para mascotas, un microchip ISO y la vacuna antirrábica al día, sin cuarentena ni trámite especial a la llegada.`,
+        `El acceso es solo por el ferry de la TESO entre Den Helder y 't Horntje, unos 20 minutos, muy frecuente en verano; los perros viajan gratis, con correa.`,
+        `El clima es marítimo y ventoso: veranos suaves (a menudo 18 a 22 °C) ideales para las largas playas, inviernos frescos y húmedos; es fuera de temporada cuando los perros disfrutan de mayor libertad en la arena.`,
+        `Hay una clínica veterinaria en Den Burg para los cuidados corrientes y las urgencias de la isla; para una emergencia general, el número único europeo es el 112.`,
+        `La moneda es el euro; alojamientos, cafés con terraza y muchos restaurantes acogen perros, pero confírmalo al reservar, sobre todo en plena temporada estival.`,
+      ],
+      pt: [
+        `Os Países Baixos fazem parte da UE: bastam um passaporte europeu para animais, um microchip ISO e a vacina antirrábica em dia, sem quarentena nem formalidade especial à chegada.`,
+        `O acesso faz-se apenas pelo ferry da TESO entre Den Helder e 't Horntje, cerca de 20 minutos, muito frequente no verão; os cães viajam gratuitamente, com trela.`,
+        `O clima é marítimo e ventoso: verões amenos (muitas vezes 18 a 22 °C) ideais para as longas praias, invernos frescos e húmidos; é fora de época que os cães desfrutam da maior liberdade na areia.`,
+        `Existe uma clínica veterinária em Den Burg para os cuidados correntes e as urgências da ilha; para uma emergência geral, o número único europeu é o 112.`,
+        `A moeda é o euro; alojamentos, cafés com esplanada e muitos restaurantes acolhem cães, mas confirme ao reservar, sobretudo em plena época estival.`,
+      ],
+    },
+  },
+
   thessaloniki: {
     history: {
       fr: `Thessalonique est la deuxième ville de Grèce et l'une des plus anciennes cités habitées em continu d'Europe, fondée en 315 av. J.-C. par le roi macédonien Cassandre, qui lui donna le nom de sa femme, la demi-sœur d'Alexandre le Grand. Ville cosmopolite carrefour des Balkans, elle fut tour à tour capitale romaine, métropole byzantine, cité ottomane et foyer de la bourgeoisie juive séfarade. Aujourd'hui, c'est la capitale culturelle de la Grèce du Nord, riche em monuments de l'Antiquité, de Byzance et de l'époque ottomane qui coexistent dans un tissu urbain vivant. Sa culture est profondément méditerranéenne : on y mange bien, on y sort tard, et les chiens y sont les bienvenus partout sur les terrasses. La Nea Paralia, promenade réaménagée en 2013 avec son parc canin dédié, incarne cette convivialité entre la ville et ses habitants à quatre pattes.`,
@@ -43295,6 +43432,143 @@ const cityContent: Record<string, CityContent> = {
         `Estação TER na linha Nice-Ventimiglia: Villefranche fica a poucos minutos de Nice e do Mónaco, os cães viajam com trela e açaime ou em transportadora.`,
         `Moeda: euro. Estacionamento escasso e caro na aldeia: prefira o comboio ou o autocarro a partir de Nice, cães admitidos.`,
         `Melhor época: maio-junho e setembro-outubro, para evitar o calor, as multidões e a proibição estival da praia.`,
+      ],
+    },
+  },
+
+  villach: {
+    history: {
+      fr: `Villach, deuxième ville de Carinthie au sud de l'Autriche, s'étire de part et d'autre de la Drave, près du point où se rejoignent les frontières italienne et slovène. Sa vieille ville colorée, dominée par la tour de l'église paroissiale Saint-Jacques, s'organise autour de la Hauptplatz, place-marché bordée d'arcades et de façades baroques. Ville d'eaux depuis l'Antiquité romaine, elle exploite la source thermale sulfureuse de Warmbad, tandis qu'aux portes de la cité les lacs alpins turquoise du Faaker See et de l'Ossiacher See offrent une baignade tiède l'été. Le massif du Dobratsch, sommet emblème surplombant la ville, se gravit par la route panoramique des Alpes de Villach, et le téléphérique de la Gerlitzen ouvre sur un vaste panorama. Terre de lacs et de montagnes, la Carinthie est douce aux chiens : plages canines aménagées, sentiers d'altitude et terrasses accueillantes font de Villach une base idéale pour un séjour actif avec son animal.`,
+      en: `Villach, the second city of Carinthia in southern Austria, spreads along both banks of the Drau river, near the point where the Italian and Slovenian borders meet. Its colourful old town, crowned by the tower of St Jacob's parish church, gathers around the Hauptplatz, an arcaded market square lined with baroque facades. A spa town since Roman antiquity, it draws on the sulphur springs of Warmbad, while at the city's edge the turquoise alpine lakes of the Faaker See and Ossiacher See offer warm bathing in summer. The Dobratsch massif, the emblematic peak looming over the town, is climbed by the panoramic Villach Alpine Road, and the Gerlitzen cable car opens onto a sweeping view. A land of lakes and mountains, Carinthia is kind to dogs: dedicated dog beaches, high trails and welcoming terraces make Villach an ideal base for an active stay with a pet.`,
+      es: `Villach, la segunda ciudad de Carintia, al sur de Austria, se extiende a ambas orillas del río Drava, cerca del punto donde se juntan las fronteras italiana y eslovena. Su colorido casco antiguo, dominado por la torre de la iglesia parroquial de San Jacobo, se organiza en torno a la Hauptplatz, plaza-mercado con soportales y fachadas barrocas. Ciudad balnearia desde la Antigüedad romana, aprovecha la fuente termal sulfurosa de Warmbad, mientras que a las puertas de la ciudad los lagos alpinos turquesa del Faaker See y el Ossiacher See ofrecen un baño templado en verano. El macizo del Dobratsch, cima emblemática que domina la ciudad, se asciende por la carretera panorámica de los Alpes de Villach, y el teleférico de la Gerlitzen abre un amplio panorama. Tierra de lagos y montañas, Carintia es amable con los perros: playas caninas acondicionadas, senderos de altura y terrazas acogedoras hacen de Villach una base ideal para una estancia activa con tu animal.`,
+      pt: `Villach, a segunda cidade da Caríntia, no sul da Áustria, estende-se por ambas as margens do rio Drau, perto do ponto onde se juntam as fronteiras italiana e eslovena. A sua colorida cidade velha, dominada pela torre da igreja paroquial de São Jacob, organiza-se em torno da Hauptplatz, praça-mercado com arcadas e fachadas barrocas. Cidade termal desde a Antiguidade romana, aproveita a nascente sulfurosa de Warmbad, enquanto às portas da cidade os lagos alpinos turquesa do Faaker See e do Ossiacher See oferecem banhos mornos no verão. O maciço do Dobratsch, cume emblemático que domina a cidade, sobe-se pela estrada panorâmica dos Alpes de Villach, e o teleférico da Gerlitzen abre para um vasto panorama. Terra de lagos e montanhas, a Caríntia é amável para os cães: praias caninas equipadas, trilhos de altitude e esplanadas acolhedoras fazem de Villach uma base ideal para uma estada ativa com o seu animal.`,
+    },
+    sights: [
+      {
+        name: 'Hauptplatz',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La grande place-marché de la vieille ville, bordée de maisons bourgeoises aux façades pastel et dominée par la tour de l'église Saint-Jacques, cœur battant de Villach. On y flâne aisément avec un chien en laisse, entre terrasses de cafés et rues piétonnes, et le pont sur la Drave tout proche offre une jolie perspective.`,
+          en: `The great market square of the old town, lined with patrician houses in pastel facades and crowned by the tower of St Jacob's church, the beating heart of Villach. You can stroll here easily with a leashed dog among cafe terraces and pedestrian streets, and the nearby bridge over the Drau gives a pretty view.`,
+          es: `La gran plaza-mercado del casco antiguo, flanqueada por casas señoriales de fachadas pastel y dominada por la torre de la iglesia de San Jacobo, corazón palpitante de Villach. Se pasea con facilidad con un perro con correa entre terrazas de cafés y calles peatonales, y el cercano puente sobre el Drava ofrece una bonita perspectiva.`,
+          pt: `A grande praça-mercado da cidade velha, ladeada por casas senhoriais de fachadas pastel e dominada pela torre da igreja de São Jacob, coração pulsante de Villach. Passeia-se com facilidade com um cão com trela entre esplanadas de cafés e ruas pedonais, e a ponte vizinha sobre o Drau oferece uma bela perspetiva.`,
+        },
+      },
+      {
+        name: 'Faaker See',
+        emoji: '🏊',
+        petFriendly: true,
+        desc: {
+          fr: `Lac alpin d'un turquoise saisissant au pied du Mittagskogel, l'un des plans d'eau les plus chauds de Carinthie l'été. Des plages canines aménagées (Hundestrand) permettent la baignade des chiens dans des secteurs dédiés ; les plages de baignade publiques principales leur sont en revanche fermées en haute saison.`,
+          en: `An alpine lake of striking turquoise at the foot of the Mittagskogel, one of the warmest bodies of water in Carinthia in summer. Dedicated dog beaches (Hundestrand) allow dogs to swim in set areas; the main public bathing beaches, by contrast, are closed to them in high season.`,
+          es: `Lago alpino de un turquesa asombroso al pie del Mittagskogel, uno de los cuerpos de agua más cálidos de Carintia en verano. Playas caninas acondicionadas (Hundestrand) permiten el baño de los perros en zonas dedicadas; las principales playas públicas, en cambio, les están vedadas en temporada alta.`,
+          pt: `Lago alpino de um turquesa impressionante ao pé do Mittagskogel, um dos planos de água mais quentes da Caríntia no verão. Praias caninas equipadas (Hundestrand) permitem o banho dos cães em zonas dedicadas; as principais praias públicas de banho, em contrapartida, estão-lhes vedadas na época alta.`,
+        },
+      },
+      {
+        name: 'Ossiacher See',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: `Le troisième plus grand lac de Carinthie, allongé au pied de la Gerlitzen, prisé pour la voile, la baignade et les promenades sur ses rives boisées. Plusieurs plages canines et sentiers riverains accueillent les chiens en laisse ; la piste cyclable qui fait le tour du lac est idéale pour une longue balade.`,
+          en: `The third-largest lake in Carinthia, stretched at the foot of the Gerlitzen, prized for sailing, bathing and walks along its wooded shores. Several dog beaches and lakeside paths welcome leashed dogs; the cycle path circling the lake is ideal for a long outing.`,
+          es: `El tercer lago más grande de Carintia, alargado al pie de la Gerlitzen, apreciado por la vela, el baño y los paseos por sus orillas boscosas. Varias playas caninas y senderos ribereños acogen perros con correa; el carril bici que rodea el lago es ideal para un largo paseo.`,
+          pt: `O terceiro maior lago da Caríntia, alongado ao pé da Gerlitzen, apreciado pela vela, pelo banho e pelos passeios nas suas margens arborizadas. Várias praias caninas e trilhos ribeirinhos acolhem cães com trela; a ciclovia que contorna o lago é ideal para um longo passeio.`,
+        },
+      },
+      {
+        name: 'Burgruine Landskron',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Ruines d'un château fort perché sur une colline dominant l'Ossiacher See, offrant un vaste panorama sur les lacs et les montagnes. Les abords et le sentier d'accès se parcourent avec un chien en laisse ; les attractions voisines, spectacle de rapaces (Adlerarena) et montagne aux singes (Affenberg), n'admettent en revanche pas les chiens.`,
+          en: `The ruins of a hilltop castle overlooking the Ossiacher See, giving a wide panorama over the lakes and mountains. The surroundings and the access path are walkable with a leashed dog; the neighbouring attractions, a birds-of-prey show (Adlerarena) and monkey mountain (Affenberg), do not admit dogs.`,
+          es: `Ruinas de un castillo encaramado en una colina que domina el Ossiacher See, con un amplio panorama sobre los lagos y las montañas. Los alrededores y el sendero de acceso se recorren con un perro con correa; las atracciones vecinas, el espectáculo de rapaces (Adlerarena) y la montaña de los monos (Affenberg), en cambio, no admiten perros.`,
+          pt: `Ruínas de um castelo empoleirado numa colina que domina o Ossiacher See, com um vasto panorama sobre os lagos e as montanhas. Os arredores e o trilho de acesso percorrem-se com um cão com trela; as atrações vizinhas, o espetáculo de aves de rapina (Adlerarena) e a montanha dos macacos (Affenberg), em contrapartida, não admitem cães.`,
+        },
+      },
+      {
+        name: 'Gerlitzen Alpe',
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          fr: `Sommet de 1 909 m dominant les lacs, accessible par un téléphérique depuis Annenheim, d'où rayonnent sentiers de randonnée l'été et pistes l'hiver. Les chiens sont admis dans la cabine, généralement tenus ou en caisse pour les petits ; en haut, un vaste panorama sur la Carinthie et les Alpes juliennes récompense la montée.`,
+          en: `A 1,909 m peak dominating the lakes, reached by cable car from Annenheim, from where hiking trails radiate in summer and slopes in winter. Dogs are allowed in the cabin, usually held or in a carrier for small ones; at the top a broad panorama over Carinthia and the Julian Alps rewards the climb.`,
+          es: `Cima de 1.909 m que domina los lagos, accesible en teleférico desde Annenheim, de donde parten senderos en verano y pistas en invierno. Se admiten perros en la cabina, normalmente en brazos o en transportín los pequeños; arriba, un amplio panorama sobre Carintia y los Alpes Julianos recompensa la subida.`,
+          pt: `Cume de 1.909 m que domina os lagos, acessível de teleférico a partir de Annenheim, de onde partem trilhos no verão e pistas no inverno. Os cães são admitidos na cabina, normalmente ao colo ou em caixa os pequenos; no topo, um vasto panorama sobre a Caríntia e os Alpes Julianos recompensa a subida.`,
+        },
+      },
+      {
+        name: 'KärntenTherme Warmbad',
+        emoji: '♨️',
+        petFriendly: false,
+        desc: {
+          fr: `Les grands thermes de Warmbad-Villach, alimentés par la source sulfureuse chaude exploitée depuis l'époque romaine, avec bassins intérieurs et extérieurs, saunas et espace bien-être. Comme tout établissement thermal, les chiens n'y sont pas admis : prévoyez de laisser votre compagnon à l'hébergement pendant la baignade.`,
+          en: `The large thermal baths of Warmbad-Villach, fed by the warm sulphur spring used since Roman times, with indoor and outdoor pools, saunas and a wellness area. Like any spa, dogs are not admitted: plan to leave your companion at your lodging while you bathe.`,
+          es: `Los grandes termas de Warmbad-Villach, alimentadas por la cálida fuente sulfurosa explotada desde época romana, con piscinas interiores y exteriores, saunas y zona de bienestar. Como todo balneario, no se admiten perros: prevé dejar a tu compañero en el alojamiento mientras te bañas.`,
+          pt: `As grandes termas de Warmbad-Villach, alimentadas pela quente nascente sulfurosa explorada desde a época romana, com piscinas interiores e exteriores, saunas e zona de bem-estar. Como qualquer termas, os cães não são admitidos: planeie deixar o seu companheiro no alojamento enquanto se banha.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La Carinthie est réputée pour ses lacs tièdes : le Faaker See et l'Ossiacher See disposent de plages canines aménagées (Hundestrand) où les chiens peuvent se baigner, mais du 1er mai au 30 septembre les plages de baignade publiques leur sont interdites, repérez les zones dédiées.`,
+        `Sur les bus urbains et les trains régionaux ÖBB, la muselière et la laisse sont exigées pour les chiens : gardez toujours une muselière souple dans le sac, l'agent peut la réclamer et une amende est possible.`,
+        `En randonnée sur le Dobratsch ou les alpages, tenez votre chien en laisse à proximité des troupeaux : les vaches en estive peuvent charger un chien, et le bétail est protégé par la coutume alpine.`,
+        `Les étés au bord des lacs sont chauds : prévoyez ombre et eau fraîche, évitez le bitume brûlant en milieu de journée, et surveillez la fatigue de votre chien après une baignade prolongée.`,
+        `Les hivers sont froids et neigeux : essuyez et rincez les pattes après les sorties pour retirer le sel de déneigement, et méfiez-vous des plaques de glace sur les berges et les sentiers.`,
+      ],
+      en: [
+        `Carinthia is known for its warm lakes: the Faaker See and Ossiacher See have dedicated dog beaches (Hundestrand) where dogs may swim, but from 1 May to 30 September the public bathing beaches are off-limits to them, so look for the dedicated zones.`,
+        `On city buses and ÖBB regional trains, a muzzle and leash are required for dogs: always keep a soft muzzle in your bag, as staff may ask for it and a fine is possible.`,
+        `When hiking on the Dobratsch or the alpine pastures, keep your dog leashed near livestock: grazing cattle can charge a dog, and the herds are protected by alpine custom.`,
+        `Lakeside summers are hot: provide shade and fresh water, avoid scorching asphalt in the middle of the day, and watch your dog for tiredness after a long swim.`,
+        `Winters are cold and snowy: wipe and rinse the paws after outings to remove road-grit salt, and beware of ice patches on the shores and trails.`,
+      ],
+      es: [
+        `Carintia es conocida por sus lagos templados: el Faaker See y el Ossiacher See tienen playas caninas acondicionadas (Hundestrand) donde los perros pueden bañarse, pero del 1 de mayo al 30 de septiembre las playas públicas de baño les están prohibidas, busca las zonas dedicadas.`,
+        `En los autobuses urbanos y los trenes regionales ÖBB se exige bozal y correa para los perros: lleva siempre un bozal blando en la bolsa, el personal puede pedirlo y es posible una multa.`,
+        `Al hacer senderismo por el Dobratsch o los pastos alpinos, mantén a tu perro con correa cerca del ganado: las vacas en pastoreo pueden embestir a un perro, y los rebaños están protegidos por la costumbre alpina.`,
+        `Los veranos junto a los lagos son calurosos: procura sombra y agua fresca, evita el asfalto ardiente a mediodía y vigila el cansancio de tu perro tras un baño prolongado.`,
+        `Los inviernos son fríos y nevados: limpia y enjuaga las patas tras las salidas para retirar la sal de deshielo, y cuidado con las placas de hielo en las orillas y los senderos.`,
+      ],
+      pt: [
+        `A Caríntia é conhecida pelos seus lagos mornos: o Faaker See e o Ossiacher See têm praias caninas equipadas (Hundestrand) onde os cães podem banhar-se, mas de 1 de maio a 30 de setembro as praias públicas de banho estão-lhes proibidas, procure as zonas dedicadas.`,
+        `Nos autocarros urbanos e nos comboios regionais ÖBB exige-se açaime e trela para os cães: leve sempre um açaime flexível no saco, o pessoal pode pedi-lo e uma multa é possível.`,
+        `Ao fazer caminhadas no Dobratsch ou nas pastagens alpinas, mantenha o seu cão com trela perto do gado: as vacas em pastoreio podem investir contra um cão, e os rebanhos estão protegidos pelo costume alpino.`,
+        `Os verões à beira dos lagos são quentes: garanta sombra e água fresca, evite o asfalto escaldante a meio do dia e vigie o cansaço do seu cão após um banho prolongado.`,
+        `Os invernos são frios e com neve: limpe e enxágue as patas depois das saídas para retirar o sal de degelo, e cuidado com as placas de gelo nas margens e nos trilhos.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'Autriche fait partie de l'UE : passeport européen pour animal de compagnie, puce ISO et vaccin antirabique à jour suffisent, sans quarantaine à l'arrivée.`,
+        `Sur les transports publics de Villach (bus) et les trains ÖBB, les chiens voyagent avec laisse et muselière ; les petits chiens en caisse voyagent souvent gratuitement, les grands paient un demi-tarif.`,
+        `Le climat est continental de montagne : étés chauds propices à la baignade en lac, hivers froids et neigeux ; adaptez les sorties à la saison et gérez chaleur estivale comme verglas hivernal.`,
+        `Des cliniques vétérinaires assurent les soins courants à Villach et dans la région de Carinthie ; pour une urgence, le numéro européen unique est le 112 et le secours médical d'urgence autrichien le 144.`,
+        `La monnaie est l'euro ; les chiens sont largement acceptés sur les terrasses, dans de nombreux hôtels et sur les sentiers, mais les thermes et les plages de baignade publiques leur restent fermés.`,
+      ],
+      en: [
+        `Austria is part of the EU: an EU pet passport, an ISO microchip and an up-to-date rabies vaccination are enough, with no quarantine on arrival.`,
+        `On Villach's public transport (buses) and ÖBB trains, dogs travel with a leash and muzzle; small dogs in a carrier often travel free, while large ones pay a half fare.`,
+        `The climate is continental alpine: warm summers ideal for lake bathing, cold snowy winters; adjust outings to the season and manage both summer heat and winter ice.`,
+        `Veterinary clinics provide routine care in Villach and across the Carinthia region; for an emergency, the single European number is 112 and the Austrian medical emergency line is 144.`,
+        `The currency is the euro; dogs are widely accepted on terraces, in many hotels and on the trails, but the thermal baths and public bathing beaches remain closed to them.`,
+      ],
+      es: [
+        `Austria forma parte de la UE: bastan un pasaporte europeo para mascotas, un microchip ISO y la vacuna antirrábica al día, sin cuarentena a la llegada.`,
+        `En el transporte público de Villach (autobuses) y los trenes ÖBB, los perros viajan con correa y bozal; los perros pequeños en transportín suelen viajar gratis, mientras que los grandes pagan medio billete.`,
+        `El clima es continental de montaña: veranos cálidos ideales para el baño en lago, inviernos fríos y nevados; adapta las salidas a la estación y controla tanto el calor estival como el hielo invernal.`,
+        `Hay clínicas veterinarias para los cuidados corrientes en Villach y en toda la región de Carintia; para una urgencia, el número único europeo es el 112 y la emergencia médica austriaca el 144.`,
+        `La moneda es el euro; los perros se aceptan ampliamente en terrazas, en muchos hoteles y en los senderos, pero las termas y las playas públicas de baño les siguen vedadas.`,
+      ],
+      pt: [
+        `A Áustria faz parte da UE: bastam um passaporte europeu para animais, um microchip ISO e a vacina antirrábica em dia, sem quarentena à chegada.`,
+        `Nos transportes públicos de Villach (autocarros) e nos comboios ÖBB, os cães viajam com trela e açaime; os cães pequenos em caixa viajam muitas vezes gratuitamente, enquanto os grandes pagam meio bilhete.`,
+        `O clima é continental de montanha: verões quentes ideais para o banho no lago, invernos frios e com neve; adapte as saídas à estação e faça a gestão tanto do calor estival como do gelo invernal.`,
+        `Clínicas veterinárias asseguram os cuidados correntes em Villach e em toda a região da Caríntia; para uma emergência, o número único europeu é o 112 e a emergência médica austríaca o 144.`,
+        `A moeda é o euro; os cães são amplamente aceites nas esplanadas, em muitos hotéis e nos trilhos, mas as termas e as praias públicas de banho permanecem-lhes fechadas.`,
       ],
     },
   },

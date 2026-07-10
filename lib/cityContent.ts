@@ -35166,6 +35166,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'sant-josep': {
+    history: {
+      fr: `Sant Josep de sa Talaia, qui couvre tout le sud-ouest d'Ibiza aux Baléares, est la plus vaste et la plus rurale des communes de l'île. Loin de l'agitation de Sant Antoni voisin, c'est le pays des collines boisées de pins, des champs d'amandiers et des longs murets de pierre sèche, dominé par le Sa Talaia, point culminant de l'île à 475 mètres. Son littoral déchiroté aligne quelques-unes des plus belles criques d'Ibiza, de Cala d'Hort face au rocher magnétique d'Es Vedra à Cala Tarida et Cala Vadella, tandis qu'au sud le parc naturel de Ses Salines déroule ses marais salants où stationnent les flamants roses. Le village lui-même se resserre autour d'une église-forteresse blanche du XVIIIe siècle, typique de l'architecture ibisenque. On y vient chercher la nature plutôt que la fête, et l'on s'y promène en laisse entre sentiers côtiers, salines et arrière-pays paisible.`,
+      en: `Sant Josep de sa Talaia, covering the whole southwest of Ibiza in the Balearics, is the island's largest and most rural municipality. Far from the bustle of neighbouring Sant Antoni, this is a land of pine-clad hills, almond fields and long dry-stone walls, crowned by Sa Talaia, the island's highest point at 475 metres. Its rugged coast strings together some of Ibiza's finest coves, from Cala d'Hort facing the magnetic islet of Es Vedra to Cala Tarida and Cala Vadella, while to the south the Ses Salines nature park spreads its salt pans where flamingos gather. The village itself clusters around a whitewashed fortified church of the eighteenth century, typical of Ibizan architecture. People come here for nature rather than nightlife, and you explore it on a leash between coastal paths, salt flats and a peaceful hinterland.`,
+      es: `Sant Josep de sa Talaia, que abarca todo el suroeste de Ibiza, en Baleares, es el municipio más extenso y rural de la isla. Lejos del bullicio del vecino Sant Antoni, es tierra de colinas cubiertas de pinos, campos de almendros y largos muros de piedra seca, coronada por Sa Talaia, el punto más alto de la isla con 475 metros. Su costa recortada enlaza algunas de las calas más bellas de Ibiza, desde Cala d'Hort frente al islote magnético de Es Vedra hasta Cala Tarida y Cala Vadella, mientras que al sur el parque natural de Ses Salines despliega sus salinas donde se posan los flamencos. El pueblo se agrupa en torno a una iglesia fortificada encalada del siglo XVIII, típica de la arquitectura ibicenca. Aquí se busca la naturaleza más que la fiesta, y se pasea con correa entre senderos costeros, salinas y un interior tranquilo.`,
+      pt: `Sant Josep de sa Talaia, que abrange todo o sudoeste de Ibiza, nas Baleares, é o município mais extenso e rural da ilha. Longe da azáfama da vizinha Sant Antoni, é terra de colinas cobertas de pinheiros, campos de amendoeiras e longos muros de pedra seca, coroada por Sa Talaia, o ponto mais alto da ilha com 475 metros. A sua costa recortada reúne algumas das enseadas mais belas de Ibiza, desde Cala d'Hort frente ao ilhéu magnético de Es Vedra até Cala Tarida e Cala Vadella, enquanto a sul o parque natural de Ses Salines estende as suas salinas onde pousam os flamingos. A aldeia agrupa-se em torno de uma igreja fortificada caiada do século XVIII, típica da arquitetura ibicenca. Aqui procura-se a natureza mais do que a festa, e passeia-se com trela entre trilhos costeiros, salinas e um interior tranquilo.`,
+    },
+    sights: [
+      {
+        name: `Sa Talaia`,
+        emoji: `⛰️`,
+        petFriendly: true,
+        desc: {
+          fr: `Point culminant d'Ibiza à 475 mètres, cette colline boisée de pins offre au sommet une vue circulaire sur toute l'île et, par temps clair, jusqu'à Formentera. La montée se fait en laisse par des pistes ombragées, à réserver aux heures fraîches car il n'y a pas de point d'eau en chemin.`,
+          en: `The highest point on Ibiza at 475 metres, this pine-covered hill gives a full circular view over the whole island and, on a clear day, as far as Formentera. The climb is done on a leash along shaded tracks, best kept for the cooler hours as there is no water point on the way.`,
+          es: `Punto más alto de Ibiza con 475 metros, esta colina cubierta de pinos ofrece en la cima una vista circular sobre toda la isla y, con buen tiempo, hasta Formentera. La subida se hace con correa por pistas sombreadas, mejor reservarla para las horas frescas porque no hay punto de agua en el camino.`,
+          pt: `Ponto mais alto de Ibiza com 475 metros, esta colina coberta de pinheiros oferece no cume uma vista circular sobre toda a ilha e, com bom tempo, até Formentera. A subida faz-se com trela por pistas sombreadas, de preferência nas horas frescas porque não há ponto de água no caminho.`,
+        },
+      },
+      {
+        name: `Cala d'Hort i Es Vedra`,
+        emoji: `🌅`,
+        petFriendly: true,
+        desc: {
+          fr: `Cette crique fait face à Es Vedra, l'îlot rocheux magnétique le plus emblématique d'Ibiza, spectaculaire au coucher du soleil depuis les belvédères de la falaise. Les points de vue en hauteur se parcourent en laisse toute l'année, mais le sable de la plage surveillée est interdit aux chiens en saison balnéaire.`,
+          en: `This cove faces Es Vedra, Ibiza's most iconic magnetic rock islet, spectacular at sunset from the clifftop viewpoints. The high vantage points can be walked on a leash all year, but the sand of the patrolled beach is off-limits to dogs in the bathing season.`,
+          es: `Esta cala mira a Es Vedra, el islote rocoso magnético más emblemático de Ibiza, espectacular al atardecer desde los miradores del acantilado. Los miradores en altura se recorren con correa todo el año, pero la arena de la playa vigilada está prohibida a los perros en temporada de baño.`,
+          pt: `Esta enseada olha para Es Vedra, o ilhéu rochoso magnético mais emblemático de Ibiza, espetacular ao pôr do sol a partir dos miradouros da falésia. Os miradouros em altura percorrem-se com trela todo o ano, mas a areia da praia vigiada é proibida aos cães na época balnear.`,
+        },
+      },
+      {
+        name: `Parc Natural de Ses Salines`,
+        emoji: `🦩`,
+        petFriendly: true,
+        desc: {
+          fr: `Ces anciens marais salants du sud de l'île, encore exploités, attirent les flamants roses et une riche avifaune migratrice, dans un paysage plat de digues et de plans d'eau. Des sentiers et chemins se parcourent en laisse, en gardant ses distances avec les oiseaux et les zones de nidification protégées.`,
+          en: `These working salt pans in the south of the island draw flamingos and a rich migratory birdlife across a flat landscape of dykes and lagoons. Paths and tracks can be walked on a leash, keeping your distance from the birds and the protected nesting areas.`,
+          es: `Estas salinas en activo del sur de la isla atraen a los flamencos y a una rica avifauna migratoria, en un paisaje llano de diques y láminas de agua. Los senderos y caminos se recorren con correa, guardando distancia con las aves y las zonas de nidificación protegidas.`,
+          pt: `Estas salinas ainda em atividade no sul da ilha atraem os flamingos e uma rica avifauna migratória, numa paisagem plana de diques e lagoas. Os trilhos e caminhos percorrem-se com trela, mantendo distância das aves e das zonas de nidificação protegidas.`,
+        },
+      },
+      {
+        name: `Cala Vadella`,
+        emoji: `🏖️`,
+        petFriendly: false,
+        desc: {
+          fr: `Cette crique en forme de fer à cheval, aux eaux calmes et abritées, est l'une des plus prisées de la commune pour la baignade en famille. Comme les autres plages surveillées des Baléares, elle est interdite aux chiens pendant la saison balnéaire, repérez plutôt une petite crique rocheuse à l'écart.`,
+          en: `This horseshoe-shaped cove, with calm sheltered water, is one of the municipality's favourites for family swimming. Like the other patrolled beaches of the Balearics, it bans dogs during the bathing season, so scout a small rocky cove off to the side instead.`,
+          es: `Esta cala en forma de herradura, de aguas tranquilas y resguardadas, es una de las más apreciadas del municipio para el baño en familia. Como las demás playas vigiladas de Baleares, prohíbe los perros durante la temporada de baño, busca mejor una pequeña cala rocosa apartada.`,
+          pt: `Esta enseada em forma de ferradura, de águas calmas e abrigadas, é uma das mais apreciadas do município para banhos em família. Tal como as outras praias vigiadas das Baleares, proíbe os cães durante a época balnear, procure antes uma pequena enseada rochosa afastada.`,
+        },
+      },
+      {
+        name: `Cala Tarida`,
+        emoji: `🐚`,
+        petFriendly: false,
+        desc: {
+          fr: `La plus grande plage de sable de la commune, largement ouverte et bordée de restaurants, séduit par ses eaux peu profondes et claires. Les chiens n'y sont pas admis sur le sable surveillé en été, mais les sentiers côtiers rocheux qui la relient aux criques voisines se marchent en laisse hors des zones de bain.`,
+          en: `The municipality's largest sandy beach, wide open and lined with restaurants, appeals for its shallow, clear water. Dogs are not allowed on the patrolled sand in summer, but the rocky coastal paths linking it to neighbouring coves can be walked on a leash away from the bathing areas.`,
+          es: `La mayor playa de arena del municipio, amplia y bordeada de restaurantes, seduce por sus aguas poco profundas y claras. Los perros no se admiten en la arena vigilada en verano, pero los senderos costeros rocosos que la unen con las calas vecinas se caminan con correa fuera de las zonas de baño.`,
+          pt: `A maior praia de areia do município, ampla e ladeada de restaurantes, seduz pelas suas águas pouco profundas e claras. Os cães não são admitidos na areia vigiada no verão, mas os trilhos costeiros rochosos que a ligam às enseadas vizinhas percorrem-se com trela fora das zonas de banho.`,
+        },
+      },
+      {
+        name: `Església de Sant Josep`,
+        emoji: `⛪`,
+        petFriendly: false,
+        desc: {
+          fr: `Cette église-forteresse blanchie à la chaux du XVIIIe siècle, au coeur du village, illustre l'architecture rurale ibisenque avec son porche à arcades et son retable baroque. L'intérieur n'accepte pas les chiens, mais la place ombragée qui l'entoure se prête à une pause en laisse.`,
+          en: `This whitewashed fortified church of the eighteenth century, at the heart of the village, shows off Ibizan rural architecture with its arcaded porch and baroque altarpiece. The interior does not admit dogs, but the shaded square around it makes a good leashed pause.`,
+          es: `Esta iglesia fortificada encalada del siglo XVIII, en el corazón del pueblo, ilustra la arquitectura rural ibicenca con su porche de arcadas y su retablo barroco. El interior no admite perros, pero la plaza sombreada que la rodea invita a una pausa con correa.`,
+          pt: `Esta igreja fortificada caiada do século XVIII, no coração da aldeia, ilustra a arquitetura rural ibicenca com o seu alpendre de arcadas e o seu retábulo barroco. O interior não admite cães, mas a praça sombreada em redor convida a uma pausa com trela.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Loi espagnole : chien en laisse en public et muselière obligatoire pour les races cataloguées PPP dans les lieux publics et les transports ; gardez passeport et puce à jour.`,
+        `Interdiction estivale des plages : aux Baléares, les chiens sont interdits sur les plages surveillées pendant la saison balnéaire (environ mai à octobre), repérez une crique rocheuse non aménagée avant de partir vers le sable.`,
+        `Chaleur méditerranéenne : de juin à septembre les après-midi dépassent souvent 30 °C, sortez à l'aube ou en soirée et testez le bitume du revers de la main avant de marcher.`,
+        `Es Vedra au coucher du soleil : les belvédères de Cala d'Hort sont bondés en fin de journée l'été, garez-vous tôt et tenez le chien à distance du bord de falaise.`,
+        `Parc de Ses Salines : zone protégée avec faune nidificatrice, restez sur les chemins balisés en laisse et évitez de laisser le chien approcher les oiseaux et les plans d'eau salés.`,
+      ],
+      en: [
+        `Spanish law: dogs on a leash in public and a muzzle required for catalogued PPP breeds in public places and on transport; keep the passport and microchip up to date.`,
+        `Summer beach ban: in the Balearics dogs are barred from patrolled beaches during the bathing season (roughly May to October), so scout an unmanaged rocky cove before heading to the sand.`,
+        `Mediterranean heat: from June to September afternoons often top 30 °C, so walk at dawn or in the evening and test the tarmac with the back of your hand before setting off.`,
+        `Es Vedra at sunset: the Cala d'Hort viewpoints are packed at dusk in summer, so park early and keep the dog well back from the cliff edge.`,
+        `Ses Salines park: a protected area with nesting wildlife, so stay on marked paths on a leash and keep the dog away from the birds and the salt lagoons.`,
+      ],
+      es: [
+        `Ley española: perro con correa en público y bozal obligatorio para las razas catalogadas PPP en lugares públicos y transportes; lleva pasaporte y microchip al día.`,
+        `Prohibición estival de playas: en Baleares los perros no pueden acceder a las playas vigiladas durante la temporada de baño (aproximadamente de mayo a octubre), localiza una cala rocosa sin acondicionar antes de ir a la arena.`,
+        `Calor mediterráneo: de junio a septiembre las tardes superan a menudo los 30 °C, pasea al alba o al anochecer y prueba el asfalto con el dorso de la mano antes de salir.`,
+        `Es Vedra al atardecer: los miradores de Cala d'Hort se llenan al anochecer en verano, aparca pronto y mantén al perro lejos del borde del acantilado.`,
+        `Parque de Ses Salines: zona protegida con fauna nidificante, quédate en los caminos señalizados con correa y evita que el perro se acerque a las aves y a las láminas de agua salada.`,
+      ],
+      pt: [
+        `Lei espanhola: cão com trela em público e açaime obrigatório para as raças catalogadas PPP em locais públicos e transportes; mantenha o passaporte e o microchip em dia.`,
+        `Proibição estival de praias: nas Baleares os cães são proibidos nas praias vigiadas durante a época balnear (aproximadamente de maio a outubro), localize uma enseada rochosa sem acondicionamento antes de ir para a areia.`,
+        `Calor mediterrânico: de junho a setembro as tardes ultrapassam muitas vezes os 30 °C, passeie de madrugada ou ao anoitecer e teste o asfalto com as costas da mão antes de sair.`,
+        `Es Vedra ao pôr do sol: os miradouros de Cala d'Hort enchem-se ao anoitecer no verão, estacione cedo e mantenha o cão longe da beira da falésia.`,
+        `Parque de Ses Salines: zona protegida com fauna nidificante, mantenha-se nos caminhos sinalizados com trela e evite que o cão se aproxime das aves e das lagoas salgadas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences : 112 est le numéro européen unique en Espagne ; la commune compte des cabinets vétérinaires, demandez à votre hôtel le service de garde le plus proche.`,
+        `Se déplacer : Sant Josep est très étendue et rurale, une voiture est quasi indispensable pour relier les criques ; les petits chiens en caisse sont généralement admis dans les bus, à confirmer auprès du chauffeur.`,
+        `Plages : les plages surveillées sont réglementées en saison balnéaire, repérez à l'avance une crique rocheuse non aménagée ou une éventuelle zone canine de l'île.`,
+        `Aéroport d'Ibiza (IBZ) à une vingtaine de minutes ; Espagne dans l'UE, passeport européen pour animaux, puce et vaccination antirabique à jour.`,
+        `Nature et chaleur : privilégiez un logement avec coin d'ombre et point d'eau, l'arrière-pays boisé est superbe hors saison mais expose peu à l'ombre en plein été.`,
+      ],
+      en: [
+        `Emergencies: 112 is Spain's single European number; the municipality has veterinary practices, ask your hotel for the nearest on-call service.`,
+        `Getting around: Sant Josep is very spread out and rural, so a car is almost essential to reach the coves; small dogs in a carrier are usually admitted on buses, confirm with the driver.`,
+        `Beaches: patrolled beaches are regulated during the bathing season, so scout an unmanaged rocky cove or any island dog area in advance.`,
+        `Ibiza airport (IBZ) is about twenty minutes away; Spain is in the EU, so bring the European pet passport with an up-to-date microchip and rabies vaccination.`,
+        `Nature and heat: favour lodging with a shaded corner and water point, as the wooded hinterland is superb off-season but offers little shade at the height of summer.`,
+      ],
+      es: [
+        `Emergencias: 112 es el número europeo único en España; el municipio cuenta con clínicas veterinarias, pide a tu hotel el servicio de guardia más cercano.`,
+        `Moverse: Sant Josep es muy extenso y rural, el coche resulta casi imprescindible para enlazar las calas; los perros pequeños en transportín suelen admitirse en los autobuses, confírmalo con el conductor.`,
+        `Playas: las playas vigiladas están reguladas en temporada de baño, localiza con antelación una cala rocosa sin acondicionar o una posible zona canina de la isla.`,
+        `Aeropuerto de Ibiza (IBZ) a unos veinte minutos; España está en la UE, lleva el pasaporte europeo para mascotas con microchip y vacuna antirrábica al día.`,
+        `Naturaleza y calor: prioriza un alojamiento con rincón de sombra y punto de agua, el interior boscoso es magnífico fuera de temporada pero da poca sombra en pleno verano.`,
+      ],
+      pt: [
+        `Emergências: 112 é o número europeu único em Espanha; o município tem clínicas veterinárias, peça ao seu hotel o serviço de urgência mais próximo.`,
+        `Deslocações: Sant Josep é muito extenso e rural, o carro é quase indispensável para ligar as enseadas; os cães pequenos em transportadora costumam ser admitidos nos autocarros, confirme com o motorista.`,
+        `Praias: as praias vigiadas são reguladas na época balnear, localize com antecedência uma enseada rochosa sem acondicionamento ou uma eventual zona canina da ilha.`,
+        `Aeroporto de Ibiza (IBZ) a cerca de vinte minutos; Espanha está na UE, leve o passaporte europeu para animais com microchip e vacina antirrábica em dia.`,
+        `Natureza e calor: prefira alojamento com canto de sombra e ponto de água, o interior arborizado é magnífico fora de época mas dá pouca sombra em pleno verão.`,
+      ],
+    },
+  },
+
   'santa-eulalia': {
     history: {
       fr: `Santa Eulària des Riu, sur la côte est d'Ibiza aux Baléares, est la station la plus paisible et la plus familiale de l'île. Son nom rappelle une curiosité géographique : le Riu de Santa Eulària est le seul cours d'eau permanent des Baléares, franchi près de son embouchure par un vieux pont de pierre d'origine romaine. Au-dessus de la ville, la colline du Puig de Missa porte une église-forteresse blanche du XVIe siècle et un hameau ancien qui veillaient jadis sur la côte face aux corsaires. En contrebas, une longue promenade maritime bordée de palmiers, de sculptures et d'une marina relie les plages de Cala Llonga et d'Es Canar, où se tient chaque semaine le marché hippie historique de Punta Arabí. Réputée pour sa gastronomie et son rythme tranquille, Santa Eulària se découvre en laisse, entre vieux quartier, front de mer et bords de rivière.`,
@@ -40050,6 +40187,143 @@ const cityContent: Record<string, CityContent> = {
         'Bus OASTH: cão pequeno em transportadora aceite a discreción do conductor; cão grande con bozal + trela obrigatório.',
         'Praia pet-friendly mais cercana: Peraia (25 min de carro a sul de Tesalónica), secciones no organizadas pet-friendly o ano inteiro.',
         'Aeroporto de Tesalónica (SKG) a 15 km al este; taxi al centro aproximadamente 15–20 €, 15–25 min.',
+      ],
+    },
+  },
+
+  tirano: {
+    history: {
+      fr: `Tirano, dans la haute Valtelline en Lombardie, veille sur la frontière alpine avec la Suisse, au débouché des vallées qui montent vers le col de la Bernina. La petite ville est surtout connue comme le terminus italien du Bernina Express, la ligne de chemin de fer rhétique classée à l'UNESCO qui la relie à Saint-Moritz en franchissant sans crémaillère des viaducs et des glaciers spectaculaires. Son centre historique s'organise autour de la basilique de la Madonna di Tirano, grand sanctuaire de pèlerinage de la Renaissance, et de palais anciens comme le Palazzo Salis. Tout autour, les versants en terrasses portent les vignobles de la Valtellina, patrie du Sforzato, tandis que les vergers de pommiers tapissent le fond de vallée. Porte des Alpes rhétiques et de la vallée suisse de Poschiavo toute proche, Tirano se découvre en laisse, entre ruelles, quais de gare et sentiers de montagne.`,
+      en: `Tirano, in the upper Valtellina in Lombardy, guards the Alpine border with Switzerland at the mouth of the valleys climbing toward the Bernina pass. The little town is best known as the Italian terminus of the Bernina Express, the UNESCO-listed Rhaetian Railway that links it to St Moritz, crossing spectacular viaducts and glaciers without a rack. Its historic centre gathers around the Basilica of the Madonna di Tirano, a great Renaissance pilgrimage sanctuary, and old palaces such as Palazzo Salis. All around, terraced slopes carry the Valtellina vineyards, home of Sforzato wine, while apple orchards line the valley floor. A gateway to the Rhaetian Alps and the nearby Swiss valley of Poschiavo, Tirano is explored on a leash, between lanes, station platforms and mountain trails.`,
+      es: `Tirano, en la alta Valtelina, en Lombardía, vigila la frontera alpina con Suiza, a la salida de los valles que suben hacia el puerto de la Bernina. La pequeña ciudad es conocida sobre todo como terminal italiana del Bernina Express, el ferrocarril rético declarado Patrimonio de la Humanidad que la enlaza con St. Moritz cruzando viaductos y glaciares espectaculares sin cremallera. Su centro histórico se organiza en torno a la basílica de la Madonna di Tirano, gran santuario de peregrinación renacentista, y a palacios antiguos como el Palazzo Salis. Alrededor, las laderas en terrazas sostienen los viñedos de la Valtelina, cuna del Sforzato, mientras los manzanares tapizan el fondo del valle. Puerta de los Alpes réticos y del cercano valle suizo de Poschiavo, Tirano se descubre con correa, entre callejuelas, andenes y senderos de montaña.`,
+      pt: `Tirano, na alta Valtelina, na Lombardia, vigia a fronteira alpina com a Suíça, à saída dos vales que sobem até ao colo da Bernina. A pequena cidade é conhecida sobretudo como terminal italiano do Bernina Express, o caminho de ferro rético classificado pela UNESCO que a liga a St. Moritz atravessando viadutos e glaciares espetaculares sem cremalheira. O seu centro histórico organiza-se em torno da basílica da Madonna di Tirano, grande santuário de peregrinação renascentista, e de palácios antigos como o Palazzo Salis. Em redor, as encostas em socalcos sustentam os vinhedos da Valtelina, berço do Sforzato, enquanto os pomares de macieiras revestem o fundo do vale. Porta dos Alpes réticos e do vizinho vale suíço de Poschiavo, Tirano descobre-se com trela, entre ruelas, cais de estação e trilhos de montanha.`,
+    },
+    sights: [
+      {
+        name: `Bernina Express`,
+        emoji: `🚂`,
+        petFriendly: true,
+        desc: {
+          fr: `Tirano est le terminus italien de ce célèbre train panoramique de la Ferrovia retica, qui monte vers Saint-Moritz par des viaducs en spirale et des cols glaciaires. Les chiens en laisse sont admis à bord avec un billet, prévoyez de l'eau et une place au calme car le trajet dure plusieurs heures.`,
+          en: `Tirano is the Italian terminus of this famous panoramic train of the Rhaetian Railway, climbing toward St Moritz over spiral viaducts and glacial passes. Leashed dogs are allowed on board with a ticket, so bring water and a quiet seat as the journey lasts several hours.`,
+          es: `Tirano es la terminal italiana de este famoso tren panorámico del Ferrocarril Rético, que sube hacia St. Moritz por viaductos en espiral y puertos glaciares. Se admiten perros con correa a bordo con billete, lleva agua y busca un sitio tranquilo porque el trayecto dura varias horas.`,
+          pt: `Tirano é o terminal italiano deste famoso comboio panorâmico do Caminho de Ferro Rético, que sobe até St. Moritz por viadutos em espiral e colos glaciares. São admitidos cães com trela a bordo com bilhete, leve água e procure um lugar tranquilo porque a viagem dura várias horas.`,
+        },
+      },
+      {
+        name: `Basilica della Madonna di Tirano`,
+        emoji: `⛪`,
+        petFriendly: false,
+        desc: {
+          fr: `Ce grand sanctuaire de pèlerinage de la Renaissance, élevé au XVIe siècle sur le lieu d'une apparition mariale, abrite un intérieur richement décoré et un orgue monumental. Les chiens ne sont pas admis dans la basilique, mais la vaste esplanade et les jardins qui la précèdent se parcourent en laisse.`,
+          en: `This great Renaissance pilgrimage sanctuary, raised in the sixteenth century on the site of a Marian apparition, holds a richly decorated interior and a monumental organ. Dogs are not admitted inside the basilica, but the broad forecourt and gardens before it can be walked on a leash.`,
+          es: `Este gran santuario de peregrinación renacentista, levantado en el siglo XVI en el lugar de una aparición mariana, guarda un interior ricamente decorado y un órgano monumental. Los perros no se admiten dentro de la basílica, pero la amplia explanada y los jardines que la preceden se recorren con correa.`,
+          pt: `Este grande santuário de peregrinação renascentista, erguido no século XVI no local de uma aparição mariana, guarda um interior ricamente decorado e um órgão monumental. Os cães não são admitidos dentro da basílica, mas o amplo terreiro e os jardins que a antecedem percorrem-se com trela.`,
+        },
+      },
+      {
+        name: `Centro storico e Palazzo Salis`,
+        emoji: `🏛️`,
+        petFriendly: true,
+        desc: {
+          fr: `Le vieux centre de Tirano aligne ruelles pavées, maisons anciennes et le Palazzo Salis, demeure aristocratique aux salons baroques et au jardin clos. On flâne en laisse dans les rues et sur les places, l'accès aux salles historiques du palais restant réservé aux visiteurs sans chien.`,
+          en: `Tirano's old centre lines up cobbled lanes, historic houses and Palazzo Salis, an aristocratic mansion with baroque salons and a walled garden. You stroll the streets and squares on a leash, while access to the palace's historic rooms stays reserved for visitors without a dog.`,
+          es: `El casco antiguo de Tirano alinea callejuelas empedradas, casas antiguas y el Palazzo Salis, mansión aristocrática de salones barrocos y jardín cerrado. Se pasea con correa por calles y plazas, mientras el acceso a las salas históricas del palacio queda reservado a los visitantes sin perro.`,
+          pt: `O centro antigo de Tirano alinha ruelas empedradas, casas antigas e o Palazzo Salis, mansão aristocrática de salões barrocos e jardim murado. Passeia-se com trela por ruas e praças, enquanto o acesso às salas históricas do palácio fica reservado aos visitantes sem cão.`,
+        },
+      },
+      {
+        name: `Vigneti della Valtellina`,
+        emoji: `🍇`,
+        petFriendly: true,
+        desc: {
+          fr: `Les versants au-dessus de Tirano sont couverts de vignes en terrasses soutenues par des murets de pierre, patrie du Sforzato et des rouges de Valtellina. Des sentiers viticoles se parcourent en laisse au milieu des rangs, offrant de belles vues sur la vallée aux heures fraîches.`,
+          en: `The slopes above Tirano are covered with terraced vines held by dry-stone walls, home of Sforzato and the Valtellina reds. Vineyard paths can be walked on a leash among the rows, giving fine views over the valley in the cooler hours.`,
+          es: `Las laderas sobre Tirano están cubiertas de viñas en terrazas sostenidas por muretes de piedra, cuna del Sforzato y de los tintos de la Valtelina. Los senderos vitícolas se recorren con correa entre las hileras, con hermosas vistas del valle en las horas frescas.`,
+          pt: `As encostas acima de Tirano estão cobertas de vinhas em socalcos sustentadas por muretes de pedra, berço do Sforzato e dos tintos da Valtelina. Os trilhos vitícolas percorrem-se com trela entre as fileiras, com belas vistas do vale nas horas frescas.`,
+        },
+      },
+      {
+        name: `Valle di Poschiavo`,
+        emoji: `🏔️`,
+        petFriendly: true,
+        desc: {
+          fr: `Juste au-delà de la frontière suisse, la vallée de Poschiavo prolonge le paysage alpin avec ses lacs et ses villages, accessible en train ou en voiture depuis Tirano. Les sentiers et bords de lac se parcourent en laisse, pensez au passeport de l'animal pour franchir la frontière.`,
+          en: `Just across the Swiss border, the Poschiavo valley extends the Alpine landscape with its lakes and villages, reached by train or car from Tirano. Trails and lakeshores can be walked on a leash, remember the pet passport to cross the frontier.`,
+          es: `Justo al otro lado de la frontera suiza, el valle de Poschiavo prolonga el paisaje alpino con sus lagos y pueblos, accesible en tren o en coche desde Tirano. Los senderos y orillas de lago se recorren con correa, recuerda el pasaporte del animal para cruzar la frontera.`,
+          pt: `Logo a seguir à fronteira suíça, o vale de Poschiavo prolonga a paisagem alpina com os seus lagos e aldeias, acessível de comboio ou de carro a partir de Tirano. Os trilhos e margens de lago percorrem-se com trela, lembre-se do passaporte do animal para atravessar a fronteira.`,
+        },
+      },
+      {
+        name: `Alpi Retiche`,
+        emoji: `🥾`,
+        petFriendly: true,
+        desc: {
+          fr: `Autour de Tirano, les Alpes rhétiques offrent de nombreux itinéraires de randonnée entre alpages, forêts et vergers de pommiers du fond de vallée. Les sentiers se parcourent en laisse, la fraîcheur de l'altitude en été convient bien aux chiens, à condition d'emporter de l'eau.`,
+          en: `Around Tirano, the Rhaetian Alps offer many hiking routes among mountain pastures, forests and the valley-floor apple orchards. The trails are walked on a leash, and the cool of altitude in summer suits dogs well, as long as you carry water.`,
+          es: `En torno a Tirano, los Alpes réticos ofrecen numerosas rutas de senderismo entre pastos de montaña, bosques y los manzanares del fondo del valle. Los senderos se recorren con correa, y el fresco de la altitud en verano conviene bien a los perros, siempre que se lleve agua.`,
+          pt: `Em torno de Tirano, os Alpes réticos oferecem numerosos percursos de caminhada entre pastagens de montanha, florestas e os pomares de macieiras do fundo do vale. Os trilhos percorrem-se com trela, e o fresco da altitude no verão convém bem aos cães, desde que se leve água.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Loi italienne : chien en laisse dans les lieux publics, muselière à porter sur demande dans les transports et lieux bondés, tenez passeport et puce à jour.`,
+        `Bernina Express : les chiens en laisse voyagent avec un billet, réservez tôt en été et choisissez une place au calme, le trajet vers Saint-Moritz dure plusieurs heures.`,
+        `Passage en Suisse : Poschiavo est hors UE, gardez le passeport européen de l'animal à portée de main pour la frontière et vérifiez les règles suisses en vigueur.`,
+        `Climat de montagne : les étés restent frais et agréables pour un chien, mais les hivers sont neigeux et froids, prévoyez de quoi protéger les coussinets du sel de déneigement.`,
+        `Basilique et églises : l'intérieur des lieux de culte n'accepte pas les chiens, prévoyez de vous relayer ou de rester sur les places et esplanades extérieures.`,
+      ],
+      en: [
+        `Italian law: dogs on a leash in public places, a muzzle to be carried on request on transport and in crowded spots, keep the passport and microchip up to date.`,
+        `Bernina Express: leashed dogs travel with a ticket, so book early in summer and choose a quiet seat, as the ride to St Moritz lasts several hours.`,
+        `Crossing into Switzerland: Poschiavo is outside the EU, so keep the pet's European passport handy for the border and check current Swiss rules.`,
+        `Mountain climate: summers stay cool and pleasant for a dog, but winters are snowy and cold, so bring something to protect the paw pads from road salt.`,
+        `Basilica and churches: the interiors of places of worship do not admit dogs, so plan to take turns or stay on the outdoor squares and forecourts.`,
+      ],
+      es: [
+        `Ley italiana: perro con correa en lugares públicos, bozal para llevar a mano si se pide en transportes y sitios concurridos, mantén pasaporte y microchip al día.`,
+        `Bernina Express: los perros con correa viajan con billete, reserva pronto en verano y elige un sitio tranquilo, el trayecto a St. Moritz dura varias horas.`,
+        `Paso a Suiza: Poschiavo está fuera de la UE, ten a mano el pasaporte europeo del animal para la frontera y consulta las normas suizas vigentes.`,
+        `Clima de montaña: los veranos se mantienen frescos y agradables para un perro, pero los inviernos son nevados y fríos, lleva con qué proteger las almohadillas de la sal de deshielo.`,
+        `Basílica e iglesias: el interior de los lugares de culto no admite perros, prevé turnarte o quedarte en las plazas y explanadas exteriores.`,
+      ],
+      pt: [
+        `Lei italiana: cão com trela em locais públicos, açaime para levar à mão se pedido nos transportes e sítios concorridos, mantenha passaporte e microchip em dia.`,
+        `Bernina Express: os cães com trela viajam com bilhete, reserve cedo no verão e escolha um lugar tranquilo, a viagem até St. Moritz dura várias horas.`,
+        `Passagem para a Suíça: Poschiavo está fora da UE, tenha à mão o passaporte europeu do animal para a fronteira e consulte as regras suíças em vigor.`,
+        `Clima de montanha: os verões mantêm-se frescos e agradáveis para um cão, mas os invernos são de neve e frio, leve com que proteger as almofadinhas do sal de degelo.`,
+        `Basílica e igrejas: o interior dos locais de culto não admite cães, preveja revezar-se ou ficar nas praças e terreiros exteriores.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences : 112 est le numéro d'urgence unique en Italie ; Tirano et la vallée comptent des cabinets vétérinaires, demandez à votre hôtel le service de garde le plus proche.`,
+        `Train : la gare de Tirano relie le réseau italien (Trenord vers Sondrio et Milan) et la Ferrovia retica suisse ; petits chiens en caisse et grands chiens en laisse muselés selon les règles de chaque compagnie.`,
+        `Frontière suisse : la vallée de Poschiavo est à quelques kilomètres, hors UE, gardez le passeport de l'animal pour un aller-retour.`,
+        `Saison : étés frais agréables pour un chien, hivers neigeux, vérifiez l'accès aux sentiers d'altitude et l'équipement selon la période.`,
+        `Vignobles et vergers : respectez les cultures en terrasses et les vergers privés, restez sur les sentiers balisés et ramassez toujours les déjections.`,
+      ],
+      en: [
+        `Emergencies: 112 is Italy's single emergency number; Tirano and the valley have veterinary practices, ask your hotel for the nearest on-call service.`,
+        `Train: Tirano station connects the Italian network (Trenord to Sondrio and Milan) and the Swiss Rhaetian Railway; small dogs in a carrier and large dogs leashed and muzzled per each operator's rules.`,
+        `Swiss border: the Poschiavo valley is a few kilometres away, outside the EU, so keep the pet's passport for a round trip.`,
+        `Season: cool summers pleasant for a dog, snowy winters, so check access to high trails and gear up according to the time of year.`,
+        `Vineyards and orchards: respect the terraced crops and private orchards, stay on marked paths and always pick up after your dog.`,
+      ],
+      es: [
+        `Emergencias: 112 es el número de emergencia único en Italia; Tirano y el valle cuentan con clínicas veterinarias, pide a tu hotel el servicio de guardia más cercano.`,
+        `Tren: la estación de Tirano enlaza la red italiana (Trenord hacia Sondrio y Milán) y el Ferrocarril Rético suizo; perros pequeños en transportín y perros grandes con correa y bozal según las normas de cada compañía.`,
+        `Frontera suiza: el valle de Poschiavo está a pocos kilómetros, fuera de la UE, guarda el pasaporte del animal para una ida y vuelta.`,
+        `Temporada: veranos frescos agradables para un perro, inviernos nevados, comprueba el acceso a los senderos de altura y el equipo según la época.`,
+        `Viñedos y huertos: respeta los cultivos en terrazas y los huertos privados, quédate en los senderos señalizados y recoge siempre las deposiciones.`,
+      ],
+      pt: [
+        `Emergências: 112 é o número de emergência único em Itália; Tirano e o vale têm clínicas veterinárias, peça ao seu hotel o serviço de urgência mais próximo.`,
+        `Comboio: a estação de Tirano liga a rede italiana (Trenord para Sondrio e Milão) e o Caminho de Ferro Rético suíço; cães pequenos em transportadora e cães grandes com trela e açaime conforme as regras de cada operadora.`,
+        `Fronteira suíça: o vale de Poschiavo está a poucos quilómetros, fora da UE, guarde o passaporte do animal para uma ida e volta.`,
+        `Época: verões frescos agradáveis para um cão, invernos de neve, verifique o acesso aos trilhos de altitude e o equipamento consoante a altura do ano.`,
+        `Vinhedos e pomares: respeite as culturas em socalcos e os pomares privados, mantenha-se nos trilhos sinalizados e apanhe sempre os dejetos.`,
       ],
     },
   },

@@ -33723,6 +33723,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  rouen: {
+    history: {
+      fr: `Rouen, capitale historique de la Normandie, s'étire sur les rives de la Seine à environ 130 km au nord-ouest de Paris. Ancienne cité gallo-romaine devenue puissante capitale du duché de Normandie, elle fut au Moyen Âge l'une des plus grandes villes de la chrétienté occidentale, hérissée de clochers gothiques qui lui valurent le surnom de « ville aux cent clochers ». C'est ici, place du Vieux-Marché, que Jeanne d'Arc fut brûlée vive en 1431. Sa cathédrale Notre-Dame, immortalisée par la série de toiles de Claude Monet, domine un centre médiéval de maisons à pans de bois remarquablement préservé. Meurtrie par les bombardements de 1944 puis restaurée, Rouen offre au voyageur accompagné d'un chien un lacis de ruelles piétonnes, des quais de Seine réaménagés pour la promenade et de vastes jardins, à une heure des falaises de la côte d'Albâtre.`,
+      en: `Rouen, the historic capital of Normandy, stretches along the banks of the Seine about 130 km north-west of Paris. Once a Gallo-Roman town and later the powerful capital of the Duchy of Normandy, it was in the Middle Ages one of the largest cities in Western Christendom, bristling with the Gothic spires that earned it the nickname "the city of a hundred spires". It was here, on the Place du Vieux-Marché, that Joan of Arc was burned at the stake in 1431. Its Notre-Dame cathedral, immortalised in Claude Monet's series of paintings, towers over a remarkably preserved medieval centre of half-timbered houses. Scarred by the bombing of 1944 and then restored, Rouen offers the traveller with a dog a maze of pedestrian lanes, redesigned Seine quays made for walking and large gardens, an hour from the cliffs of the Alabaster Coast.`,
+      es: `Ruan (Rouen en francés), capital histórica de Normandía, se extiende a orillas del Sena a unos 130 km al noroeste de París. Antigua ciudad galorromana convertida en poderosa capital del ducado de Normandía, fue en la Edad Media una de las mayores ciudades de la cristiandad occidental, erizada de campanarios góticos que le valieron el apodo de «la ciudad de los cien campanarios». Fue aquí, en la plaza del Vieux-Marché, donde Juana de Arco fue quemada en la hoguera en 1431. Su catedral de Notre-Dame, inmortalizada por la serie de lienzos de Claude Monet, domina un centro medieval de casas con entramado de madera admirablemente conservado. Golpeada por los bombardeos de 1944 y luego restaurada, Ruan ofrece al viajero con perro un laberinto de callejuelas peatonales, muelles del Sena reacondicionados para el paseo y amplios jardines, a una hora de los acantilados de la costa de Alabastro.`,
+      pt: `Ruão (Rouen em francês), capital histórica da Normandia, estende-se pelas margens do Sena a cerca de 130 km a noroeste de Paris. Antiga cidade galo-romana tornada poderosa capital do ducado da Normandia, foi na Idade Média uma das maiores cidades da cristandade ocidental, eriçada de campanários góticos que lhe valeram a alcunha de «a cidade dos cem campanários». Foi aqui, na praça do Vieux-Marché, que Joana d'Arc foi queimada na fogueira em 1431. A sua catedral de Notre-Dame, imortalizada pela série de telas de Claude Monet, domina um centro medieval de casas em tabique de madeira notavelmente preservado. Marcada pelos bombardeamentos de 1944 e depois restaurada, Ruão oferece ao viajante com cão um dédalo de ruelas pedonais, cais do Sena reordenados para o passeio e amplos jardins, a uma hora das falésias da costa de Alabastro.`,
+    },
+    sights: [
+      { name: 'Cathédrale Notre-Dame de Rouen', emoji: '⛪', petFriendly: false, desc: {
+        fr: `Chef-d'œuvre gothique aux flèches dentelées, peint des dizaines de fois par Monet selon les heures du jour. Les chiens ne sont pas admis à l'intérieur, mais la place de la Cathédrale et ses abords se découvrent très bien en laisse.`,
+        en: `A Gothic masterpiece of lace-like spires, painted dozens of times by Monet according to the hour of day. Dogs are not allowed inside, but the Place de la Cathédrale and its surroundings are lovely to explore on a leash.`,
+        es: `Obra maestra gótica de agujas caladas, pintada decenas de veces por Monet según las horas del día. No se admiten perros en el interior, pero la plaza de la Catedral y sus alrededores se recorren muy bien con correa.`,
+        pt: `Obra-prima gótica de flechas rendilhadas, pintada dezenas de vezes por Monet consoante as horas do dia. Não são admitidos cães no interior, mas a praça da Catedral e os arredores exploram-se muito bem com trela.`,
+      }},
+      { name: 'Gros-Horloge', emoji: '🕰️', petFriendly: true, desc: {
+        fr: `Horloge astronomique du XIVe siècle enjambant une rue piétonne pavée, emblème de la ville. On passe dessous librement avec un chien en laisse, au cœur du secteur commerçant médiéval.`,
+        en: `A 14th-century astronomical clock straddling a cobbled pedestrian street, the city's emblem. You pass beneath it freely with a leashed dog, in the heart of the medieval shopping quarter.`,
+        es: `Reloj astronómico del siglo XIV que salva una calle peatonal adoquinada, emblema de la ciudad. Se pasa por debajo libremente con un perro con correa, en el corazón del barrio comercial medieval.`,
+        pt: `Relógio astronómico do século XIV que atravessa uma rua pedonal em calçada, ex-líbris da cidade. Passa-se por baixo livremente com um cão com trela, no coração do bairro comercial medieval.`,
+      }},
+      { name: 'Place du Vieux-Marché', emoji: '🔥', petFriendly: true, desc: {
+        fr: `Vaste place où Jeanne d'Arc fut brûlée en 1431, aujourd'hui bordée de maisons à colombages et d'un marché couvert. Espace ouvert idéal pour flâner en laisse ; l'église Sainte-Jeanne-d'Arc n'accueille pas les chiens à l'intérieur.`,
+        en: `A broad square where Joan of Arc was burned in 1431, now lined with timber-framed houses and a covered market. An open space ideal for strolling on a leash; the church of Sainte-Jeanne-d'Arc does not admit dogs indoors.`,
+        es: `Amplia plaza donde Juana de Arco fue quemada en 1431, hoy rodeada de casas con entramado de madera y un mercado cubierto. Espacio abierto ideal para pasear con correa; la iglesia de Sainte-Jeanne-d'Arc no admite perros en el interior.`,
+        pt: `Ampla praça onde Joana d'Arc foi queimada em 1431, hoje rodeada de casas em tabique e um mercado coberto. Espaço aberto ideal para passear com trela; a igreja de Sainte-Jeanne-d'Arc não admite cães no interior.`,
+      }},
+      { name: 'Jardin des Plantes de Rouen', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Jardin botanique historique de la rive gauche, riche en serres et arbres remarquables. Chiens admis en laisse sur les allées ; un vrai bol de verdure pour une pause au calme.`,
+        en: `A historic botanical garden on the Left Bank, rich in glasshouses and notable trees. Dogs are allowed on a leash along the paths; a genuine patch of green for a quiet break.`,
+        es: `Jardín botánico histórico de la orilla izquierda, rico en invernaderos y árboles notables. Perros admitidos con correa por los paseos; un auténtico remanso verde para una pausa tranquila.`,
+        pt: `Jardim botânico histórico da margem esquerda, rico em estufas e árvores notáveis. Cães admitidos com trela nas alamedas; um verdadeiro oásis verde para uma pausa tranquila.`,
+      }},
+      { name: 'Quais de Seine', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Berges réaménagées en promenades et espaces de détente le long du fleuve, de part et d'autre du centre. Idéales pour une longue balade avec le chien ; surveillez la circulation aux abords des ponts.`,
+        en: `Riverbanks redesigned into walkways and relaxation areas along the Seine, on both sides of the centre. Ideal for a long walk with the dog; watch for traffic near the bridges.`,
+        es: `Riberas reacondicionadas en paseos y zonas de descanso a lo largo del Sena, a ambos lados del centro. Ideales para un largo paseo con el perro; atención al tráfico junto a los puentes.`,
+        pt: `Margens reordenadas em passeios e zonas de estar ao longo do Sena, de ambos os lados do centro. Ideais para uma longa caminhada com o cão; atenção ao trânsito junto às pontes.`,
+      }},
+      { name: 'Aître Saint-Maclou', emoji: '⚰️', petFriendly: true, desc: {
+        fr: `Rare ossuaire médiéval à galeries de bois sculptées de motifs macabres, vestige des grandes épidémies de peste. Cour à ciel ouvert visitable avec un chien tenu en laisse, atmosphère unique.`,
+        en: `A rare medieval charnel house with wooden galleries carved with macabre motifs, a relic of the great plague epidemics. An open-air courtyard you can visit with a leashed dog, a unique atmosphere.`,
+        es: `Raro osario medieval con galerías de madera talladas con motivos macabros, vestigio de las grandes epidemias de peste. Patio al aire libre visitable con un perro con correa, ambiente único.`,
+        pt: `Raro ossário medieval com galerias de madeira esculpidas com motivos macabros, vestígio das grandes epidemias de peste. Pátio a céu aberto visitável com um cão com trela, ambiente único.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `En ville, tenez le chien en laisse : les ruelles pavées du centre médiéval sont piétonnes et fréquentées, et le ramassage des déjections est verbalisé.`,
+        `Climat normand humide et changeant : prévoyez une serviette et de quoi sécher les pattes, les pavés glissent par temps de pluie et les averses sont fréquentes toute l'année.`,
+        `En été, l'ancien centre minéral et peu ombragé chauffe vite l'après-midi : promenez tôt ou en soirée, préférez les quais de Seine et les jardins pour l'ombre et l'eau.`,
+        `Pour une excursion aux falaises d'Étretat (environ 1 h de route), gardez le chien en laisse courte au bord des à-pics : les sentiers du sommet longent des chutes vertigineuses.`,
+        `En cas d'urgence, composez le 112 (numéro d'urgence européen) ; pour un vétérinaire de garde la nuit ou le week-end, un service de garde local existe à Rouen, renseignez-vous auprès de votre clinique.`,
+      ],
+      en: [
+        `In town keep your dog on a leash: the cobbled lanes of the medieval centre are pedestrian and busy, and failing to pick up waste is fined.`,
+        `Normandy's climate is damp and changeable: pack a towel and something to dry paws, as cobbles get slippery in the rain and showers are frequent all year.`,
+        `In summer the stony, lightly shaded old centre heats up fast in the afternoon: walk early or in the evening, and favour the Seine quays and gardens for shade and water.`,
+        `For a day trip to the Étretat cliffs (about an hour's drive), keep the dog on a short leash near the edges: the clifftop paths run beside sheer drops.`,
+        `In an emergency dial 112 (the EU emergency number); for an on-call vet at night or on weekends a local rota operates in Rouen, so ask your clinic for details.`,
+      ],
+      es: [
+        `En la ciudad lleve al perro con correa: las callejuelas adoquinadas del centro medieval son peatonales y concurridas, y no recoger los excrementos se multa.`,
+        `El clima normando es húmedo y cambiante: lleve una toalla y con qué secar las patas, pues el adoquín resbala con la lluvia y los chubascos son frecuentes todo el año.`,
+        `En verano el casco antiguo, pétreo y con poca sombra, se calienta rápido por la tarde: pasee temprano o al atardecer y prefiera los muelles del Sena y los jardines por la sombra y el agua.`,
+        `Para una excursión a los acantilados de Étretat (aproximadamente 1 h en coche), lleve al perro con correa corta junto a los cortados: los senderos de la cima bordean caídas vertiginosas.`,
+        `Ante una urgencia marque el 112 (número de emergencia europeo); para un veterinario de guardia de noche o el fin de semana existe un servicio de guardia local en Ruan, consulte con su clínica.`,
+      ],
+      pt: [
+        `Na cidade mantenha o cão com trela: as ruelas em calçada do centro medieval são pedonais e movimentadas, e não recolher os dejetos é multado.`,
+        `O clima normando é húmido e instável: leve uma toalha e algo para secar as patas, pois a calçada fica escorregadia com a chuva e os aguaceiros são frequentes todo o ano.`,
+        `No verão o centro antigo, pétreo e com pouca sombra, aquece depressa à tarde: passeie cedo ou ao fim do dia e prefira os cais do Sena e os jardins pela sombra e pela água.`,
+        `Para uma excursão às falésias de Étretat (cerca de 1 h de carro), mantenha o cão com trela curta junto às arribas: os trilhos do topo ladeiam quedas vertiginosas.`,
+        `Numa urgência marque o 112 (número de emergência europeu); para um veterinário de urgência à noite ou ao fim de semana existe um serviço de turno local em Ruão, informe-se junto da sua clínica.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `France dans l'UE et Schengen : passeport européen pour animal + vaccin antirabique en cours + puce ISO suffisent depuis tout pays de l'UE.`,
+        `Rouen est à environ 1 h 15 de Paris-Saint-Lazare en train (gare Rouen-Rive-Droite) ; les petits chiens en sac voyagent gratuitement sur la SNCF, les grands en laisse et muselière avec un billet réduit.`,
+        `Côte la plus proche : Dieppe (environ 1 h) et les falaises d'Étretat (environ 1 h) sur la côte d'Albâtre ; une voiture facilite ces excursions.`,
+        `Devise : euro. Réseau urbain Astuce (métro, bus, TEOR) : petits chiens en sac acceptés, grands chiens en laisse et muselière selon les règles du transporteur.`,
+        `Meilleure période : de fin avril à juin et en septembre-octobre, pour un temps plus clément et des ruelles moins encombrées qu'en plein été.`,
+      ],
+      en: [
+        `France is in the EU and Schengen: an EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Rouen is about 1 hr 15 from Paris Saint-Lazare by train (Rouen-Rive-Droite station); small dogs in a bag travel free on SNCF, larger dogs on a leash and muzzle with a reduced ticket.`,
+        `Nearest coast: Dieppe (about 1 hr) and the Étretat cliffs (about 1 hr) on the Alabaster Coast; a car makes these day trips easier.`,
+        `Currency: euro. City network Astuce (metro, bus, TEOR): small dogs in a bag accepted, larger dogs on a leash and muzzle under the operator's rules.`,
+        `Best time: late April to June and September-October, for milder weather and lanes less crowded than at the height of summer.`,
+      ],
+      es: [
+        `Francia está en la UE y Schengen: pasaporte europeo para mascotas + vacuna antirrábica vigente + microchip ISO es suficiente desde cualquier país de la UE.`,
+        `Ruan está a unos 1 h 15 de París-Saint-Lazare en tren (estación Rouen-Rive-Droite); los perros pequeños en bolsa viajan gratis en la SNCF, los grandes con correa y bozal con billete reducido.`,
+        `Costa más cercana: Dieppe (aproximadamente 1 h) y los acantilados de Étretat (aproximadamente 1 h) en la costa de Alabastro; un coche facilita estas excursiones.`,
+        `Moneda: euro. Red urbana Astuce (metro, autobús, TEOR): perros pequeños en bolsa admitidos, perros grandes con correa y bozal según las normas del operador.`,
+        `Mejor época: de finales de abril a junio y en septiembre-octubre, con un tiempo más suave y callejuelas menos concurridas que en pleno verano.`,
+      ],
+      pt: [
+        `A França está na UE e no Espaço Schengen: passaporte europeu para animais + vacina antirrábica válida + microchip ISO é suficiente a partir de qualquer país da UE.`,
+        `Ruão fica a cerca de 1 h 15 de Paris-Saint-Lazare de comboio (estação Rouen-Rive-Droite); os cães pequenos em saco viajam grátis na SNCF, os grandes com trela e açaime com bilhete reduzido.`,
+        `Costa mais próxima: Dieppe (cerca de 1 h) e as falésias de Étretat (cerca de 1 h) na costa de Alabastro; um carro facilita estas excursões.`,
+        `Moeda: euro. Rede urbana Astuce (metro, autocarro, TEOR): cães pequenos em saco aceites, cães grandes com trela e açaime segundo as regras do operador.`,
+        `Melhor época: de finais de abril a junho e em setembro-outubro, com tempo mais ameno e ruelas menos concorridas do que em pleno verão.`,
+      ],
+    },
+  },
+
   rovinj: {
     history: {
       fr: `Rovinj (Rovigno en italien), ville d'environ 14 000 habitants sur la côte ouest de l'Istrie, est l'un des lieux les plus photographiés de l'Adriatique : un amas de maisons vénéto-italiennes s'élevant d'un ancien îlot jusqu'à l'église Sainte-Euphémie, dont le campanile de 60 m s'inspire de celui de Saint-Marc à Venise. Rattachée au continent en 1763, la vieille ville (Stari Grad) est une presqu'île compacte et piétonne, faite de ruelles pavées, de la rue des artistes Grisia et de l'arc Balbi de 1679. Officiellement bilingue croate-italien, Rovinj est aussi l'une des villes les plus accueillantes pour les chiens d'Istrie : les chiens en laisse sont admis sur la promenade du port et dans tout le parc forestier littoral de Punta Corrente (Zlatni rt), 120 hectares qui abritent plusieurs plages canines signalées. Les points à anticiper sont l'affluence estivale des croisières et excursionnistes dans la vieille ville et l'absence de gare, la plus proche étant à Pula, 35 km au sud.`,
@@ -34674,6 +34781,113 @@ const cityContent: Record<string, CityContent> = {
         'O aeroporto de Salzburgo (SZG) admite em cabina cães de menos de 8 kg con Austrian Airlines e Eurowings; os mayores viajan em bodega só em rutas seleccionadas.',
         'Os cães no entran nas piscinas públicas, mas sí no Hundebadeplatz do arroyo Glan, em Liefering.',
         'A trela é obrigatória em toda zona urbanizada, nos trilhos de pastos alpinos (Almen) e em temporada de protección de fauna forestal (1 de abril-30 de junho).',
+      ],
+    },
+  },
+
+  'san-francisco': {
+    history: {
+      fr: `San Francisco occupe l'extrémité d'une péninsule vallonnée entre l'océan Pacifique et sa grande baie, en Californie du Nord. Simple mission espagnole puis presidio, la ville explosa avec la ruée vers l'or de 1849, qui fit affluer les chercheurs de fortune du monde entier. Reconstruite après le séisme et l'incendie de 1906, elle est devenue une métropole cosmopolite célèbre pour ses collines abruptes parcourues de cable cars, ses maisons victoriennes colorées, le quartier de Chinatown et l'emblématique Golden Gate Bridge inauguré en 1937. Cœur historique de la contre-culture et aujourd'hui capitale de la tech, San Francisco compte parmi les villes les plus accueillantes pour les chiens des États-Unis : parcs immenses, nombreuses aires sans laisse, plages canines et terrasses tolérantes. Son microclimat brumeux et frais, personnifié par le fameux « Karl the Fog », rend la marche agréable presque toute l'année sur un relief toutefois très pentu.`,
+      en: `San Francisco sits at the tip of a hilly peninsula between the Pacific Ocean and its great bay, in Northern California. First a Spanish mission and presidio, the city exploded with the Gold Rush of 1849, which drew fortune-seekers from around the world. Rebuilt after the earthquake and fire of 1906, it became a cosmopolitan metropolis famous for its steep hills climbed by cable cars, its colourful Victorian houses, the Chinatown district and the iconic Golden Gate Bridge, opened in 1937. A historic heart of the counterculture and now a capital of tech, San Francisco ranks among the most dog-friendly cities in the United States: huge parks, many off-leash areas, dog beaches and tolerant patios. Its cool, foggy microclimate, personified by the famous "Karl the Fog", makes walking pleasant nearly all year, though the terrain is decidedly steep.`,
+      es: `San Francisco se asienta en el extremo de una península montañosa entre el océano Pacífico y su gran bahía, en el norte de California. Primero misión española y presidio, la ciudad estalló con la fiebre del oro de 1849, que atrajo a buscadores de fortuna de todo el mundo. Reconstruida tras el terremoto y el incendio de 1906, se convirtió en una metrópoli cosmopolita célebre por sus empinadas colinas que recorren los cable cars, sus coloridas casas victorianas, el barrio de Chinatown y el emblemático puente Golden Gate, inaugurado en 1937. Corazón histórico de la contracultura y hoy capital tecnológica, San Francisco figura entre las ciudades más dog-friendly de Estados Unidos: parques inmensos, numerosas zonas sin correa, playas caninas y terrazas tolerantes. Su microclima fresco y neblinoso, personificado por la famosa «Karl the Fog», hace agradable pasear casi todo el año, aunque el relieve es muy pronunciado.`,
+      pt: `San Francisco ocupa a ponta de uma península montanhosa entre o oceano Pacífico e a sua grande baía, no norte da Califórnia. Primeiro missão espanhola e presídio, a cidade explodiu com a corrida ao ouro de 1849, que atraiu garimpeiros de todo o mundo. Reconstruída após o terramoto e o incêndio de 1906, tornou-se uma metrópole cosmopolita célebre pelas suas colinas íngremes percorridas pelos cable cars, pelas coloridas casas vitorianas, pelo bairro de Chinatown e pela emblemática ponte Golden Gate, inaugurada em 1937. Coração histórico da contracultura e hoje capital tecnológica, San Francisco está entre as cidades mais pet-friendly dos Estados Unidos: parques imensos, inúmeras zonas sem trela, praias caninas e esplanadas tolerantes. O seu microclima fresco e nevoento, personificado pelo famoso «Karl the Fog», torna o passeio agradável quase todo o ano, ainda que o relevo seja muito acentuado.`,
+    },
+    sights: [
+      { name: 'Golden Gate Park', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Immense parc urbain plus grand que Central Park, avec jardins, lacs et prairies. Chiens admis en laisse sur la plupart des sentiers, plus quelques aires clôturées de liberté (dog play areas) signalées.`,
+        en: `A vast urban park larger than Central Park, with gardens, lakes and meadows. Dogs are allowed on a leash on most trails, plus a few signposted fenced off-leash dog play areas.`,
+        es: `Inmenso parque urbano mayor que Central Park, con jardines, lagos y praderas. Perros admitidos con correa en la mayoría de los senderos, más algunas zonas valladas de suelta (dog play areas) señalizadas.`,
+        pt: `Imenso parque urbano maior do que o Central Park, com jardins, lagos e prados. Cães admitidos com trela na maioria dos trilhos, além de algumas zonas vedadas sem trela (dog play areas) sinalizadas.`,
+      }},
+      { name: 'Crissy Field', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Ancienne piste d'aviation devenue promenade au bord de l'eau avec vue frontale sur le Golden Gate Bridge. Très prisée des chiens : en laisse sur la promenade, avec une portion de plage tolérant l'accès sans laisse.`,
+        en: `A former airfield turned waterfront promenade with a head-on view of the Golden Gate Bridge. Hugely popular with dogs: on a leash along the promenade, with a beach stretch that allows off-leash access.`,
+        es: `Antigua pista de aviación convertida en paseo junto al agua con vista frontal del puente Golden Gate. Muy popular entre los perros: con correa en el paseo, con un tramo de playa que permite el acceso sin correa.`,
+        pt: `Antiga pista de aviação tornada passeio à beira-água com vista frontal para a ponte Golden Gate. Muito procurada pelos cães: com trela no passeio, com um troço de praia que permite o acesso sem trela.`,
+      }},
+      { name: 'Fort Funston', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Falaises sauvages du sud-ouest de la ville, célèbre paradis canin sans laisse au-dessus de l'océan. Sentiers sablonneux, parapentistes et longues plages : l'un des meilleurs spots à chiens de Californie.`,
+        en: `Wild clifftops in the city's south-west, a famous off-leash dog paradise above the ocean. Sandy trails, hang-gliders and long beaches: one of California's best dog spots.`,
+        es: `Salvajes acantilados del suroeste de la ciudad, célebre paraíso canino sin correa sobre el océano. Senderos de arena, parapentistas y largas playas: uno de los mejores lugares para perros de California.`,
+        pt: `Falésias selvagens do sudoeste da cidade, célebre paraíso canino sem trela sobre o oceano. Trilhos de areia, parapentistas e longas praias: um dos melhores locais para cães da Califórnia.`,
+      }},
+      { name: 'Ocean Beach', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Longue plage de sable battue par le Pacifique le long de la façade ouest de la ville. Chiens autorisés sur de larges portions, en laisse ou sous contrôle vocal ; courants forts, baignade déconseillée.`,
+        en: `A long sandy beach pounded by the Pacific along the city's western edge. Dogs allowed on wide stretches, on a leash or under voice control; strong currents make swimming inadvisable.`,
+        es: `Larga playa de arena batida por el Pacífico a lo largo del borde oeste de la ciudad. Perros permitidos en amplios tramos, con correa o bajo control vocal; corrientes fuertes, baño desaconsejado.`,
+        pt: `Longa praia de areia fustigada pelo Pacífico ao longo do bordo oeste da cidade. Cães permitidos em amplos troços, com trela ou sob controlo vocal; correntes fortes, banho desaconselhado.`,
+      }},
+      { name: 'Dolores Park', emoji: '🌴', petFriendly: true, desc: {
+        fr: `Parc en pente très animé du quartier de Mission, avec vue sur la skyline. Chiens en laisse bienvenus sur les pelouses ensoleillées, avec une aire canine dédiée ; foule les week-ends de beau temps.`,
+        en: `A lively sloping park in the Mission district, with a view over the skyline. Leashed dogs welcome on the sunny lawns, with a dedicated dog area; crowded on fine-weather weekends.`,
+        es: `Animado parque en pendiente del barrio de Mission, con vistas al skyline. Perros con correa bienvenidos en el césped soleado, con una zona canina específica; mucha gente los fines de semana de buen tiempo.`,
+        pt: `Animado parque inclinado do bairro de Mission, com vista sobre a skyline. Cães com trela bem-vindos nos relvados soalheiros, com uma zona canina dedicada; muita gente nos fins de semana de bom tempo.`,
+      }},
+      { name: 'Embarcadero et Ferry Building', emoji: '⛴️', petFriendly: true, desc: {
+        fr: `Front de mer réaménagé le long de la baie, du Ferry Building aux jetées, idéal pour une longue promenade plate. Chiens en laisse bienvenus à l'extérieur ; l'intérieur du marché du Ferry Building peut varier selon les commerces.`,
+        en: `A redesigned waterfront along the bay, from the Ferry Building to the piers, ideal for a long flat walk. Leashed dogs welcome outdoors; access inside the Ferry Building marketplace may vary by vendor.`,
+        es: `Paseo marítimo reacondicionado a lo largo de la bahía, del Ferry Building a los muelles, ideal para un largo paseo llano. Perros con correa bienvenidos en el exterior; el acceso al interior del mercado del Ferry Building puede variar según el comercio.`,
+        pt: `Frente ribeirinha reordenada ao longo da baía, do Ferry Building aos cais, ideal para uma longa caminhada plana. Cães com trela bem-vindos no exterior; o acesso ao interior do mercado do Ferry Building pode variar consoante o comerciante.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `San Francisco est réellement dog-friendly : de nombreuses aires sans laisse et plages canines existent, mais gardez la laisse par défaut sur les sentiers et respectez le contrôle vocal là où il est exigé.`,
+        `Microclimat brumeux et frais toute l'année (« Karl the Fog ») : prévoyez une petite laine même en été, le vent de l'océan sur Ocean Beach et au Golden Gate peut être mordant.`,
+        `Attention saisonnière : les brèves vagues de chaleur de septembre-octobre (« Indian summer ») surprennent après des mois frais ; par temps chaud, évitez le bitume aux heures chaudes et emportez de l'eau.`,
+        `Le relief est très pentu : ménagez les chiens âgés ou petits sur les montées raides et les longs escaliers, et surveillez les coussinets sur le trottoir chaud ou râpeux.`,
+        `Transports : le BART n'accepte que les petits animaux en sac de transport ; en cas d'urgence composez le 911, plusieurs hôpitaux vétérinaires ouverts 24 h sur 24 existent dans la ville.`,
+      ],
+      en: [
+        `San Francisco is genuinely dog-friendly: many off-leash areas and dog beaches exist, but keep the leash on by default on trails and respect voice control where it is required.`,
+        `Cool, foggy microclimate all year ("Karl the Fog"): pack a light layer even in summer, as the ocean wind at Ocean Beach and the Golden Gate can be biting.`,
+        `Seasonal warning: the brief September-October heat spells ("Indian summer") catch people off guard after cool months; on hot days avoid pavement in peak hours and carry water.`,
+        `The terrain is very steep: go easy on older or small dogs on sharp climbs and long stairways, and watch paw pads on hot or rough sidewalks.`,
+        `Transport: BART only accepts small pets in a carrier; in an emergency dial 911, and several 24-hour veterinary hospitals operate in the city.`,
+      ],
+      es: [
+        `San Francisco es realmente dog-friendly: hay numerosas zonas sin correa y playas caninas, pero mantenga la correa por defecto en los senderos y respete el control vocal donde se exige.`,
+        `Microclima fresco y neblinoso todo el año («Karl the Fog»): lleve una prenda ligera incluso en verano, pues el viento del océano en Ocean Beach y en el Golden Gate puede ser cortante.`,
+        `Aviso estacional: las breves olas de calor de septiembre-octubre («Indian summer») sorprenden tras meses frescos; con calor, evite el asfalto en las horas centrales y lleve agua.`,
+        `El relieve es muy pronunciado: cuide a los perros mayores o pequeños en las cuestas empinadas y las largas escaleras, y vigile las almohadillas en la acera caliente o áspera.`,
+        `Transporte: el BART solo admite animales pequeños en transportín; ante una urgencia marque el 911, y hay varios hospitales veterinarios abiertos 24 horas en la ciudad.`,
+      ],
+      pt: [
+        `San Francisco é realmente pet-friendly: existem inúmeras zonas sem trela e praias caninas, mas mantenha a trela por defeito nos trilhos e respeite o controlo vocal onde é exigido.`,
+        `Microclima fresco e nevoento todo o ano («Karl the Fog»): leve uma peça leve mesmo no verão, pois o vento do oceano em Ocean Beach e na Golden Gate pode ser cortante.`,
+        `Aviso sazonal: as breves ondas de calor de setembro-outubro («Indian summer») apanham desprevenido após meses frescos; com calor, evite o asfalto nas horas centrais e leve água.`,
+        `O relevo é muito acentuado: poupe os cães idosos ou pequenos nas subidas íngremes e nas longas escadarias, e vigie as almofadas das patas no passeio quente ou áspero.`,
+        `Transporte: o BART só aceita animais pequenos em transportadora; numa urgência marque o 911, e há vários hospitais veterinários abertos 24 horas na cidade.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `États-Unis hors UE : pas de passeport européen ; depuis l'étranger, vérifiez les règles d'importation en vigueur des CDC pour les chiens (puce, vaccination antirabique, formulaires) avant le départ.`,
+        `Transports : le BART n'accepte que les petits animaux en sac ; le réseau Muni (bus, tram, cable car) admet les chiens tenus en laisse et muselés ou en sac, souvent hors heures de pointe.`,
+        `Aéroport international de San Francisco (SFO) à environ 20 km au sud ; les VTC peuvent refuser les animaux hors animaux d'assistance, prévenez le chauffeur à l'avance.`,
+        `Devise : dollar américain ; le pourboire (15 à 20 %) est d'usage au restaurant et pour de nombreux services.`,
+        `Meilleure période : septembre-octobre, souvent les mois les plus ensoleillés et les moins brumeux ; l'été reste frais et couvert de brouillard côté océan.`,
+      ],
+      en: [
+        `The United States is outside the EU: no EU pet passport; from abroad, check the current CDC dog-import rules (microchip, rabies vaccination, forms) before you travel.`,
+        `Transport: BART only accepts small pets in a bag; the Muni network (bus, streetcar, cable car) allows leashed and muzzled dogs or dogs in a carrier, often outside peak hours.`,
+        `San Francisco International Airport (SFO) lies about 20 km to the south; ride-hail drivers may refuse pets other than service animals, so tell the driver in advance.`,
+        `Currency: US dollar; tipping (15 to 20 percent) is customary in restaurants and for many services.`,
+        `Best time: September-October, often the sunniest and least foggy months; summer stays cool and fog-bound on the ocean side.`,
+      ],
+      es: [
+        `Estados Unidos está fuera de la UE: no hay pasaporte europeo; desde el extranjero, consulte las normas vigentes de importación de perros de los CDC (microchip, vacuna antirrábica, formularios) antes de viajar.`,
+        `Transporte: el BART solo admite animales pequeños en bolsa; la red Muni (autobús, tranvía, cable car) permite perros con correa y bozal o en transportín, a menudo fuera de las horas punta.`,
+        `El aeropuerto internacional de San Francisco (SFO) está a unos 20 km al sur; los VTC pueden rechazar animales salvo los de asistencia, avise al conductor con antelación.`,
+        `Moneda: dólar estadounidense; la propina (del 15 al 20 %) es habitual en los restaurantes y en muchos servicios.`,
+        `Mejor época: septiembre-octubre, a menudo los meses más soleados y menos neblinosos; el verano sigue fresco y con niebla en la zona del océano.`,
+      ],
+      pt: [
+        `Os Estados Unidos estão fora da UE: não há passaporte europeu; a partir do estrangeiro, verifique as regras vigentes de importação de cães dos CDC (microchip, vacina antirrábica, formulários) antes de viajar.`,
+        `Transporte: o BART só aceita animais pequenos em saco; a rede Muni (autocarro, elétrico, cable car) permite cães com trela e açaime ou em transportadora, muitas vezes fora das horas de ponta.`,
+        `O aeroporto internacional de San Francisco (SFO) fica a cerca de 20 km a sul; os motoristas de VTC podem recusar animais além dos de assistência, avise o motorista com antecedência.`,
+        `Moeda: dólar americano; a gorjeta (15 a 20 %) é habitual nos restaurantes e em muitos serviços.`,
+        `Melhor época: setembro-outubro, muitas vezes os meses mais soalheiros e menos nevoentos; o verão mantém-se fresco e com nevoeiro do lado do oceano.`,
       ],
     },
   },

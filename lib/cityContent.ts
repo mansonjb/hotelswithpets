@@ -35851,6 +35851,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  saranda: {
+    history: {
+      fr: `Saranda (Sarandë), capitale ensoleillée de la Riviera albanaise, fait face à l'île grecque de Corfou de l'autre côté d'un détroit étroit, sa baie en fer à cheval bordée d'une longue promenade de front de mer. La ville doit son nom à un ancien monastère byzantin, les Agioi Saranta (Quarante Saints), et son passé stratifié va de l'Antiquité grecque et romaine à la domination ottomane, puis aux décennies d'isolement communiste sous Enver Hoxha, quand l'Albanie était coupée du monde. Depuis la réouverture du pays dans les années 1990, Saranda est devenue sa principale station estivale, un mur croissant d'immeubles blancs autour de la baie. Pour un maître de chien, c'est un lieu de contrastes : chaleur extrême en août, foule et circulation, mais aussi les ruines UNESCO de Butrint toute proche, la source de l'Œil Bleu, le coucher de soleil du château de Lëkurësi et des promenades plus calmes en ailes de saison le long de l'eau.`,
+      en: `Sarandë, the sun-drenched capital of the Albanian Riviera, faces the Greek island of Corfu across a narrow strait, its horseshoe bay lined with a long seafront promenade. The town takes its name from an early Byzantine monastery, the Agioi Saranta (Forty Saints), and its layered past runs from Greek and Roman antiquity through Ottoman rule to decades of communist isolation under Enver Hoxha, when Albania was sealed off from the world. Since the country reopened in the 1990s, Sarandë has become its leading summer resort, a growing wall of white apartment blocks around the bay. For a dog owner it is a place of contrasts: extreme August heat, crowds and traffic, but also the extraordinary UNESCO ruins of nearby Butrint, the Blue Eye spring, the Lëkurësi castle sunset and quieter shoulder-season walks along the water.`,
+      es: `Sarandë, la soleada capital de la Riviera albanesa, mira a la isla griega de Corfú al otro lado de un estrecho angosto, con su bahía en forma de herradura bordeada por un largo paseo marítimo. La ciudad toma su nombre de un antiguo monasterio bizantino, los Agioi Saranta (Cuarenta Santos), y su pasado estratificado va de la Antigüedad griega y romana al dominio otomano y a décadas de aislamiento comunista bajo Enver Hoxha, cuando Albania estuvo cerrada al mundo. Desde la reapertura del país en los años noventa, Sarandë se ha convertido en su principal estación veraniega, un muro creciente de bloques blancos alrededor de la bahía. Para un dueño de perro es un lugar de contrastes: calor extremo en agosto, gentío y tráfico, pero también las extraordinarias ruinas UNESCO de la cercana Butrint, el manantial del Ojo Azul, el atardecer del castillo de Lëkurësi y paseos más tranquilos en temporada media junto al agua.`,
+      pt: `Sarandë, a ensolarada capital da Riviera albanesa, fica em frente à ilha grega de Corfu, do outro lado de um estreito apertado, com a sua baía em forma de ferradura ladeada por um longo passeio marítimo. A cidade deve o seu nome a um antigo mosteiro bizantino, os Agioi Saranta (Quarenta Santos), e o seu passado estratificado vai da Antiguidade grega e romana ao domínio otomano e às décadas de isolamento comunista sob Enver Hoxha, quando a Albânia esteve fechada ao mundo. Desde a reabertura do país nos anos noventa, Sarandë tornou-se a sua principal estância de verão, um muro crescente de blocos brancos em torno da baía. Para um dono de cão é um lugar de contrastes: calor extremo em agosto, multidões e trânsito, mas também as extraordinárias ruínas UNESCO da vizinha Butrint, a nascente do Olho Azul, o pôr do sol do castelo de Lëkurësi e passeios mais calmos na época intermédia junto à água.`,
+    },
+    sights: [
+      {
+        name: 'Sarandë Lungomare',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Le long boulevard piéton qui épouse toute la baie en fer à cheval, palmiers, cafés et vues sur Corfou, cœur de la vie sarandiote surtout à la fraîcheur du soir. Les chiens en laisse y sont bienvenus tout du long ; marchez tôt le matin ou après le coucher du soleil en été, car le béton emmagasine la chaleur.`,
+          en: `The long pedestrian boulevard hugging the whole horseshoe bay, with palms, cafes and views across to Corfu, the heart of Sarandë life especially in the cool of the evening. Leashed dogs are welcome the length of it; walk early morning or after sunset in summer, as the concrete stores the heat.`,
+          es: `El largo bulevar peatonal que abraza toda la bahía en herradura, con palmeras, cafés y vistas a Corfú, el corazón de la vida de Sarandë sobre todo al fresco del atardecer. Los perros con correa son bienvenidos a lo largo de todo el paseo; camina temprano por la mañana o tras la puesta de sol en verano, pues el hormigón acumula el calor.`,
+          pt: `O longo bulevar pedonal que abraça toda a baía em ferradura, com palmeiras, cafés e vistas para Corfu, o coração da vida de Sarandë sobretudo no fresco da noite. Os cães com trela são bem-vindos ao longo de todo o passeio; caminhe de manhã cedo ou após o pôr do sol no verão, pois o betão acumula o calor.`,
+        },
+      },
+      {
+        name: 'Lëkurësi Castle',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Forteresse ottomane du XVIe siècle perchée sur la colline au sud de la ville, offrant le plus beau panorama sur la baie, Ksamil et Corfou, magnifique au coucher du soleil. Les abords et les remparts en plein air se visitent librement avec un chien en laisse ; seule la salle du restaurant intérieur peut être limitée.`,
+          en: `A 16th-century Ottoman fortress perched on the hill south of town, giving the finest panorama over the bay, Ksamil and Corfu, and stunning at sunset. The grounds and open ramparts are freely walkable with a leashed dog; only the indoor restaurant room may be restricted.`,
+          es: `Fortaleza otomana del siglo XVI encaramada en la colina al sur de la ciudad, con el mejor panorama sobre la bahía, Ksamil y Corfú, espléndido al atardecer. El recinto y las murallas al aire libre se recorren libremente con un perro con correa; solo la sala interior del restaurante puede estar restringida.`,
+          pt: `Fortaleza otomana do século XVI empoleirada na colina a sul da cidade, com o melhor panorama sobre a baía, Ksamil e Corfu, deslumbrante ao pôr do sol. O recinto e as muralhas ao ar livre percorrem-se livremente com um cão com trela; apenas a sala interior do restaurante pode ser restringida.`,
+        },
+      },
+      {
+        name: 'Butrint National Park',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Site archéologique classé UNESCO à 18 km au sud, où se superposent théâtre grec, forum romain, baptistère paléochrétien et forteresse vénitienne dans une lagune boisée, l'un des plus beaux d'Albanie. Les chiens en laisse sont admis sur les sentiers extérieurs du parc ; prévoyez de l'eau car l'ombre est rare et les journées d'été écrasantes.`,
+          en: `A UNESCO-listed archaeological site 18 km south, layering a Greek theatre, a Roman forum, an early Christian baptistery and a Venetian fortress within a wooded lagoon, one of Albania's finest. Leashed dogs are allowed on the park's outdoor paths; bring water, as shade is scarce and summer days are punishing.`,
+          es: `Yacimiento arqueológico Patrimonio de la UNESCO a 18 km al sur, que superpone un teatro griego, un foro romano, un baptisterio paleocristiano y una fortaleza veneciana en una laguna boscosa, uno de los más bellos de Albania. Los perros con correa se admiten en los senderos exteriores del parque; lleva agua, pues la sombra escasea y los días de verano son agotadores.`,
+          pt: `Sítio arqueológico classificado pela UNESCO a 18 km a sul, que sobrepõe um teatro grego, um fórum romano, um batistério paleocristão e uma fortaleza veneziana numa lagoa arborizada, um dos mais belos da Albânia. Os cães com trela são admitidos nos trilhos exteriores do parque; leve água, pois a sombra é escassa e os dias de verão são esgotantes.`,
+        },
+      },
+      {
+        name: 'Syri i Kaltër (Blue Eye)',
+        emoji: '💧',
+        petFriendly: true,
+        desc: {
+          fr: `Source karstique d'un bleu profond à environ 25 km à l'est, dont l'eau glacée jaillit d'une profondeur inconnue au cœur d'une forêt de chênes. Les chiens en laisse sont admis sur le sentier et autour du bassin ; la baignade dans l'œil protégé est interdite, mais les ruisseaux en aval permettent de rafraîchir les pattes.`,
+          en: `A deep-blue karst spring about 25 km east, its icy water welling up from an unknown depth in the heart of an oak forest. Leashed dogs are allowed on the trail and around the pool; swimming in the protected eye is forbidden, but the downstream streams let a dog cool its paws.`,
+          es: `Manantial kárstico de un azul profundo a unos 25 km al este, cuyas aguas heladas brotan de una profundidad desconocida en el corazón de un bosque de robles. Los perros con correa se admiten en el sendero y alrededor de la poza; bañarse en el ojo protegido está prohibido, pero los arroyos aguas abajo permiten refrescar las patas.`,
+          pt: `Nascente cársica de um azul profundo a cerca de 25 km a leste, cujas águas geladas brotam de uma profundidade desconhecida no coração de uma floresta de carvalhos. Os cães com trela são admitidos no trilho e em redor do tanque; nadar no olho protegido é proibido, mas os ribeiros a jusante permitem refrescar as patas.`,
+        },
+      },
+      {
+        name: 'Synagogue-Basilica',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Ruines à ciel ouvert au centre de Saranda, où une synagogue du Ve siècle aux mosaïques de sol remarquables fut plus tard transformée en basilique chrétienne, témoin rare de la diversité antique de la ville. Le site clôturé se contemple depuis le pourtour avec un chien en laisse ; les mosaïques sont souvent recouvertes hors saison pour protection.`,
+          en: `Open-air ruins in central Sarandë, where a 5th-century synagogue with remarkable floor mosaics was later converted into a Christian basilica, a rare witness to the town's ancient diversity. The fenced site can be viewed from its edge with a leashed dog; the mosaics are often covered off-season for protection.`,
+          es: `Ruinas al aire libre en el centro de Sarandë, donde una sinagoga del siglo V con notables mosaicos de suelo fue transformada después en basílica cristiana, testimonio raro de la diversidad antigua de la ciudad. El recinto vallado se contempla desde su borde con un perro con correa; los mosaicos suelen cubrirse fuera de temporada para protegerlos.`,
+          pt: `Ruínas ao ar livre no centro de Sarandë, onde uma sinagoga do século V com notáveis mosaicos de chão foi mais tarde convertida em basílica cristã, testemunho raro da diversidade antiga da cidade. O recinto vedado contempla-se a partir da sua orla com um cão com trela; os mosaicos são muitas vezes cobertos fora de época para proteção.`,
+        },
+      },
+      {
+        name: 'Ksamil',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Village balnéaire à 15 minutes au sud, réputé pour ses petites plages de sable blanc et ses îlots accessibles à la nage, l'un des paysages côtiers les plus photographiés d'Albanie. Bondé et peu accueillant pour les chiens en juillet-août ; venez en ailes de saison (mai, octobre) pour un sable calme et des criques tranquilles.`,
+          en: `A beach village 15 minutes south, famous for its small white-sand coves and swim-out islets, one of Albania's most photographed coastal landscapes. Packed and dog-unfriendly in July and August; come in the shoulder season (May, October) for quiet sand and calm coves.`,
+          es: `Pueblo playero a 15 minutos al sur, famoso por sus pequeñas calas de arena blanca e islotes accesibles a nado, uno de los paisajes costeros más fotografiados de Albania. Abarrotado y poco acogedor con perros en julio y agosto; ven en temporada media (mayo, octubre) para disfrutar de arena tranquila y calas serenas.`,
+          pt: `Aldeia balnear a 15 minutos a sul, famosa pelas suas pequenas enseadas de areia branca e ilhéus acessíveis a nado, uma das paisagens costeiras mais fotografadas da Albânia. Cheia e pouco acolhedora para cães em julho e agosto; venha na época intermédia (maio, outubro) para areia calma e enseadas tranquilas.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `En août, la chaleur est extrême (35 °C et plus) et la foule à son comble : faites Butrint, Lëkurësi et la promenade tôt le matin ou en soirée, jamais en plein midi, et emportez toujours de l'eau.`,
+        `Des chiens errants à l'oreille tatouée (stérilisés et vaccinés par la municipalité) fréquentent la promenade ; généralement calmes, gardez votre chien en laisse et laissez-leur de la distance.`,
+        `À Butrint, les chiens en laisse sont admis sur les sentiers extérieurs mais pas dans le musée ; l'ombre est rare, prévoyez de l'eau et évitez les heures chaudes.`,
+        `Les plages de Ksamil sont saturées et peu tolérantes aux chiens en plein été ; privilégiez mai ou octobre pour du sable calme et dog-friendly.`,
+        `Le bitume et les rochers du bord de mer brûlent l'après-midi en été : testez le sol du dos de la main, et rafraîchissez les pattes dans les ruisseaux en aval de l'Œil Bleu plutôt que dans la source protégée.`,
+      ],
+      en: [
+        `In August the heat is extreme (35°C and up) and crowds peak: do Butrint, Lëkurësi and the promenade early morning or in the evening, never at midday, and always carry water.`,
+        `Ear-tagged stray dogs (sterilised and vaccinated by the municipality) frequent the promenade; usually calm, keep your dog leashed and give them space.`,
+        `At Butrint, leashed dogs are allowed on the outdoor paths but not in the museum; shade is scarce, so bring water and avoid the hot hours.`,
+        `Ksamil's beaches are saturated and dog-unfriendly in high summer; favour May or October for quiet, dog-friendly sand.`,
+        `Seafront tarmac and rock get scorching on summer afternoons: test the ground with the back of your hand, and cool paws in the streams below the Blue Eye rather than the protected spring itself.`,
+      ],
+      es: [
+        `En agosto el calor es extremo (35 °C y más) y el gentío está en su punto máximo: haz Butrint, Lëkurësi y el paseo temprano por la mañana o al atardecer, nunca al mediodía, y lleva siempre agua.`,
+        `Perros callejeros con la oreja marcada (esterilizados y vacunados por el ayuntamiento) frecuentan el paseo; suelen ser tranquilos, mantén a tu perro con correa y dales distancia.`,
+        `En Butrint, los perros con correa se admiten en los senderos exteriores pero no en el museo; la sombra escasea, lleva agua y evita las horas de calor.`,
+        `Las playas de Ksamil están saturadas y son poco tolerantes con los perros en pleno verano; prefiere mayo u octubre para arena tranquila y dog-friendly.`,
+        `El asfalto y las rocas del paseo marítimo queman por la tarde en verano: prueba el suelo con el dorso de la mano, y refresca las patas en los arroyos aguas abajo del Ojo Azul, no en el manantial protegido.`,
+      ],
+      pt: [
+        `Em agosto o calor é extremo (35 °C e mais) e a multidão está no auge: faça Butrint, Lëkurësi e o passeio de manhã cedo ou ao fim do dia, nunca ao meio-dia, e leve sempre água.`,
+        `Cães errantes com a orelha marcada (esterilizados e vacinados pelo município) frequentam o passeio; normalmente calmos, mantenha o seu cão com trela e dê-lhes distância.`,
+        `Em Butrint, os cães com trela são admitidos nos trilhos exteriores mas não no museu; a sombra é escassa, leve água e evite as horas de calor.`,
+        `As praias de Ksamil estão saturadas e pouco tolerantes com cães em pleno verão; prefira maio ou outubro para areia calma e dog-friendly.`,
+        `O alcatrão e as rochas da frente de mar ficam a escaldar nas tardes de verão: teste o chão com as costas da mão, e refresque as patas nos ribeiros a jusante do Olho Azul, e não na nascente protegida.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'Albanie est hors UE : pour revenir dans l'UE avec votre animal, une puce ISO, une vaccination antirabique et un test sérologique de titrage des anticorps antirabiques (prise de sang au moins 30 jours après la vaccination, puis délai réglementaire) sont exigés ; anticipez plusieurs mois.`,
+        `Ferries et catamarans relient Saranda à Corfou (Grèce) en 30 à 70 minutes ; les chiens sont acceptés selon les compagnies, muselière et laisse et documents sanitaires à jour requis, confirmez les règles au guichet avant d'embarquer.`,
+        `Se déplacer : pas de train ; la ville se parcourt à pied, et les taxis ou minibus furgon desservent Butrint, Ksamil et l'Œil Bleu, l'accueil d'un chien restant à la discrétion du chauffeur.`,
+        `L'offre vétérinaire à Saranda est limitée ; emportez le carnet de santé et les traitements de votre animal, les cliniques les plus complètes étant à Gjirokastër ou Tirana ; numéro d'urgence général 112 (ambulance 127).`,
+        `Chaleur estivale accablante de juin à septembre et longues plages de béton sans ombre : hébergez-vous près de la promenade nord, plus calme, et planifiez les sorties aux heures fraîches.`,
+      ],
+      en: [
+        `Albania is outside the EU: to return to the EU with your pet, an ISO microchip, a rabies vaccination and a rabies antibody titration blood test (drawn at least 30 days after vaccination, then a mandatory waiting period) are required; plan several months ahead.`,
+        `Ferries and catamarans link Sarandë to Corfu (Greece) in 30 to 70 minutes; dogs are accepted depending on the operator, with a muzzle, lead and up-to-date health documents required, so confirm the rules at the desk before boarding.`,
+        `Getting around: there is no railway; the town is walkable, and taxis or furgon minibuses serve Butrint, Ksamil and the Blue Eye, with a dog welcome at the driver's discretion.`,
+        `Veterinary options in Sarandë are limited; carry your pet's health records and any medication, with fuller clinics found in Gjirokastër or Tirana; general emergency number 112 (ambulance 127).`,
+        `Summer heat is punishing from June to September and the seafront is long, shadeless concrete: stay near the quieter northern promenade and plan outings for the cool hours.`,
+      ],
+      es: [
+        `Albania está fuera de la UE: para regresar a la UE con tu mascota se exigen un microchip ISO, una vacunación antirrábica y una prueba serológica de titulación de anticuerpos antirrábicos (extracción de sangre al menos 30 días después de la vacuna, más un plazo reglamentario); prevé varios meses.`,
+        `Ferries y catamaranes unen Sarandë con Corfú (Grecia) en 30 a 70 minutos; los perros se aceptan según la compañía, con bozal, correa y documentos sanitarios al día obligatorios, así que confirma las normas en la taquilla antes de embarcar.`,
+        `Moverse: no hay tren; la ciudad es caminable, y los taxis o minibuses furgon dan servicio a Butrint, Ksamil y el Ojo Azul, admitiendo perro a discreción del conductor.`,
+        `La oferta veterinaria en Sarandë es limitada; lleva la cartilla sanitaria y la medicación de tu mascota, ya que las clínicas más completas están en Gjirokastër o Tirana; número de emergencia general 112 (ambulancia 127).`,
+        `El calor estival es agobiante de junio a septiembre y el frente marítimo es de largo hormigón sin sombra: alójate cerca del paseo norte, más tranquilo, y planifica las salidas a las horas frescas.`,
+      ],
+      pt: [
+        `A Albânia está fora da UE: para regressar à UE com o seu animal são exigidos um microchip ISO, uma vacinação antirrábica e um teste serológico de titulação de anticorpos antirrábicos (colheita de sangue pelo menos 30 dias após a vacina, mais um prazo regulamentar); planeie vários meses.`,
+        `Ferries e catamarãs ligam Sarandë a Corfu (Grécia) em 30 a 70 minutos; os cães são aceites consoante a companhia, com açaime, trela e documentos sanitários em dia obrigatórios, por isso confirme as regras no balcão antes de embarcar.`,
+        `Deslocações: não há comboio; a cidade percorre-se a pé, e os táxis ou minibus furgon servem Butrint, Ksamil e o Olho Azul, admitindo cão ao critério do condutor.`,
+        `A oferta veterinária em Sarandë é limitada; leve o boletim sanitário e a medicação do seu animal, pois as clínicas mais completas estão em Gjirokastër ou Tirana; número de emergência geral 112 (ambulância 127).`,
+        `O calor estival é sufocante de junho a setembro e a frente de mar é um longo betão sem sombra: fique perto do passeio norte, mais calmo, e planeie as saídas para as horas frescas.`,
+      ],
+    },
+  },
+
   setubal: {
     history: {
       fr: `Setúbal s'étend au sud de Lisbonne, sur la rive nord de l'estuaire du Sado, dans une région où la montagne calcaire de l'Arrábida plonge dans l'Atlantique. Port de pêche toujours en activité, la ville vit au rythme des bateaux qui ramènent la sardine et la seiche, spécialité locale servie en choco frito. Son histoire remonte aux Romains, qui y salaient le poisson et fabriquaient le garum ; le château de São Filipe, bâti au XVIe siècle, veille encore sur la baie. Setúbal est surtout la porte de deux merveilles naturelles : la réserve de l'estuaire du Sado, où vit une population résidente de grands dauphins, et le parc naturel de l'Arrábida, avec ses plages de sable blanc et ses eaux turquoise. Pour le voyageur avec un chien, elle combine marché aux azulejos, sentiers de montagne, front de mer et ferry vers les plages sauvages de Tróia.`,
@@ -36742,6 +36879,143 @@ const cityContent: Record<string, CityContent> = {
         `Lojas de animais no centro e junto ao mercado, secções pet nos supermercados da vila`,
         `Comboios Rodalies R2 gratuitos para cães (trela e açaime, ou transportadora); autocarros urbanos: cães pequenos em transportadora; táxis ao critério do motorista`,
         `Passaporte europeu, microchip e vacina antirrábica em dia obrigatórios; prevenção da leishmaniose recomendada na costa mediterrânica de abril a novembro`,
+      ],
+    },
+  },
+
+  sliema: {
+    history: {
+      fr: `Sliema, la principale ville balnéaire chic de Malte, s'étire le long de la côte face à La Valette, séparée de la capitale par le port de Marsamxett. Simple hameau de pêcheurs et de villégiature estivale au XIXe siècle, dont le nom dérive d'une invocation mariale (Sliem, la paix), elle est devenue le cœur commerçant et résidentiel moderne de l'île : tours d'habitation, boutiques, cafés et un front de mer animé du matin au soir. Son littoral n'est pas de sable mais de roche plate calcaire, creusée de piscines naturelles et des anciens bains romains taillés dans la pierre. Pour un maître de chien, Sliema est l'une des villes les plus agréables de Malte : la promenade continue du bord de mer, de Tigné jusqu'à Saint-Julien, est l'une des meilleures balades canines de l'archipel, plate, ininterrompue et rythmée par la vue sur les bastions dorés de La Valette de l'autre côté du port.`,
+      en: `Sliema, Malta's main upmarket seafront town, stretches along the coast facing Valletta across Marsamxett Harbour. A modest fishing and summer-retreat village in the 19th century, its name drawn from a Marian invocation (Sliem, peace), it has become the island's modern commercial and residential heart: apartment towers, shops, cafes and a waterfront busy from morning to night. Its shoreline is not sand but flat limestone rock, cut with tidal pools and the old Roman baths hewn into the stone. For a dog owner, Sliema is one of Malta's most enjoyable towns: the continuous seafront promenade from Tigné to St Julian's is one of the archipelago's best dog walks, flat, unbroken and paced by the view of Valletta's golden bastions across the harbour.`,
+      es: `Sliema, la principal ciudad costera de lujo de Malta, se extiende por la costa frente a La Valeta, separada de la capital por el puerto de Marsamxett. Modesto pueblo de pescadores y de veraneo en el siglo XIX, cuyo nombre procede de una invocación mariana (Sliem, la paz), se ha convertido en el corazón comercial y residencial moderno de la isla: torres de apartamentos, tiendas, cafés y un frente marítimo animado de la mañana a la noche. Su litoral no es de arena sino de roca caliza plana, horadada por piscinas naturales y por los antiguos baños romanos tallados en la piedra. Para un dueño de perro, Sliema es una de las ciudades más agradables de Malta: el paseo marítimo continuo de Tigné a San Julián es uno de los mejores paseos caninos del archipiélago, llano, ininterrumpido y marcado por la vista de los bastiones dorados de La Valeta al otro lado del puerto.`,
+      pt: `Sliema, a principal cidade balnear de luxo de Malta, estende-se ao longo da costa em frente a Valletta, separada da capital pelo porto de Marsamxett. Modesta aldeia de pescadores e de veraneio no século XIX, cujo nome deriva de uma invocação mariana (Sliem, a paz), tornou-se o coração comercial e residencial moderno da ilha: torres de apartamentos, lojas, cafés e uma frente de mar animada de manhã à noite. O seu litoral não é de areia mas de rocha calcária plana, escavada por piscinas naturais e pelos antigos banhos romanos talhados na pedra. Para um dono de cão, Sliema é uma das cidades mais agradáveis de Malta: o passeio marítimo contínuo de Tigné a São Julião é um dos melhores passeios caninos do arquipélago, plano, ininterrupto e marcado pela vista dos baluartes dourados de Valletta do outro lado do porto.`,
+    },
+    sights: [
+      {
+        name: 'Sliema Promenade',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `La longue promenade pavée qui longe toute la côte, de Tigné jusqu'à Saint-Julien, plate et ininterrompue sur plusieurs kilomètres, avec cafés à terrasse et vue permanente sur La Valette. C'est l'une des meilleures balades canines de Malte ; les chiens en laisse y sont partout bienvenus, à faire tôt ou en soirée l'été.`,
+          en: `The long paved promenade running the whole coast from Tigné to St Julian's, flat and unbroken for several kilometres, with terrace cafes and a constant view of Valletta. It is one of Malta's best dog walks; leashed dogs are welcome throughout, best done early or in the evening in summer.`,
+          es: `El largo paseo pavimentado que recorre toda la costa, de Tigné a San Julián, llano e ininterrumpido durante varios kilómetros, con cafés con terraza y vista permanente a La Valeta. Es uno de los mejores paseos caninos de Malta; los perros con correa son bienvenidos en todo el trayecto, mejor temprano o al atardecer en verano.`,
+          pt: `O longo passeio pavimentado que percorre toda a costa, de Tigné a São Julião, plano e ininterrupto por vários quilómetros, com cafés com esplanada e vista permanente para Valletta. É um dos melhores passeios caninos de Malta; os cães com trela são bem-vindos em todo o percurso, de preferência cedo ou ao fim do dia no verão.`,
+        },
+      },
+      {
+        name: 'Roman Baths & Fond Għadir',
+        emoji: '🪨',
+        petFriendly: true,
+        desc: {
+          fr: `Le platier rocheux de Fond Għadir, où subsistent d'anciens bassins taillés dans la roche, dits « bains romains », remplis par la marée et le clapot. Faute de sable, c'est ici que les chiens sont tolérés sur les rochers plats hors saison ; attention à la roche glissante et aux vagues, et évitez la pierre brûlante en plein après-midi d'été.`,
+          en: `The flat rock shelf of Fond Għadir, where old rock-cut pools known as the Roman Baths are filled by the tide and the swell. With no sand, this is where dogs are tolerated on the flat rocks off-season; mind the slippery rock and the waves, and avoid the scorching stone on summer afternoons.`,
+          es: `La plataforma rocosa de Fond Għadir, donde perduran antiguas pozas talladas en la roca, llamadas «baños romanos», que llena la marea y el oleaje. A falta de arena, es aquí donde se tolera a los perros sobre las rocas planas fuera de temporada; cuidado con la roca resbaladiza y las olas, y evita la piedra ardiente a media tarde en verano.`,
+          pt: `A plataforma rochosa de Fond Għadir, onde perduram antigos tanques talhados na rocha, ditos «banhos romanos», cheios pela maré e pela ondulação. À falta de areia, é aqui que os cães são tolerados sobre as rochas planas fora de época; atenção à rocha escorregadia e às ondas, e evite a pedra a escaldar nas tardes de verão.`,
+        },
+      },
+      {
+        name: 'Tigné Point',
+        emoji: '🌆',
+        petFriendly: true,
+        desc: {
+          fr: `La pointe rénovée à l'entrée du port de Marsamxett, avec places ouvertes, front de mer et l'une des plus belles vues frontales sur les remparts de La Valette. Les esplanades extérieures et la promenade se parcourent librement avec un chien en laisse, superbes au coucher du soleil.`,
+          en: `The redeveloped headland at the mouth of Marsamxett Harbour, with open squares, a waterfront and one of the finest head-on views of Valletta's fortifications. The outdoor plazas and promenade are freely walkable with a leashed dog, superb at sunset.`,
+          es: `La punta rehabilitada a la entrada del puerto de Marsamxett, con plazas abiertas, frente marítimo y una de las mejores vistas frontales a las murallas de La Valeta. Las explanadas exteriores y el paseo se recorren libremente con un perro con correa, espléndidos al atardecer.`,
+          pt: `A ponta reabilitada à entrada do porto de Marsamxett, com praças abertas, frente de mar e uma das melhores vistas frontais das muralhas de Valletta. As esplanadas exteriores e o passeio percorrem-se livremente com um cão com trela, magníficas ao pôr do sol.`,
+        },
+      },
+      {
+        name: 'Fort Tigné',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Petit fort de l'ordre de Malte achevé en 1795, l'un des plus anciens forts polygonaux du monde, gardant l'entrée du port à la pointe de Tigné. Ses abords extérieurs se visitent avec un chien en laisse et complètent une boucle facile depuis la promenade.`,
+          en: `A small fort of the Order of Malta completed in 1795, one of the oldest polygonal forts in the world, guarding the harbour mouth at Tigné Point. Its outer surroundings can be visited with a leashed dog and round off an easy loop from the promenade.`,
+          es: `Pequeño fuerte de la Orden de Malta terminado en 1795, uno de los fuertes poligonales más antiguos del mundo, que guarda la entrada del puerto en la punta de Tigné. Sus alrededores exteriores se visitan con un perro con correa y completan un circuito fácil desde el paseo.`,
+          pt: `Pequeno forte da Ordem de Malta concluído em 1795, um dos mais antigos fortes poligonais do mundo, guardando a entrada do porto na ponta de Tigné. Os seus arredores exteriores visitam-se com um cão com trela e completam um circuito fácil a partir do passeio.`,
+        },
+      },
+      {
+        name: 'Independence Garden',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Petit jardin public en bord de mer (Ġnien l-Indipendenza), avec palmiers, bancs ombragés et pelouses, l'un des rares espaces verts de cette ville très minérale. Les chiens en laisse y sont bienvenus, précieux pour une pause à l'ombre entre deux tronçons de la promenade.`,
+          en: `A small seafront public garden (Ġnien l-Indipendenza), with palms, shaded benches and lawns, one of the few green spaces in this very built-up town. Leashed dogs are welcome, a valuable shaded break between stretches of the promenade.`,
+          es: `Pequeño jardín público junto al mar (Ġnien l-Indipendenza), con palmeras, bancos con sombra y césped, uno de los pocos espacios verdes de esta ciudad muy mineral. Los perros con correa son bienvenidos, valiosos para una pausa a la sombra entre tramos del paseo.`,
+          pt: `Pequeno jardim público junto ao mar (Ġnien l-Indipendenza), com palmeiras, bancos sombreados e relvados, um dos poucos espaços verdes desta cidade muito betonada. Os cães com trela são bem-vindos, preciosos para uma pausa à sombra entre troços do passeio.`,
+        },
+      },
+      {
+        name: 'Sliema Ferries',
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `L'embarcadère au fond du port de Marsamxett d'où part la petite navette maritime pour La Valette, traversée panoramique de quelques minutes. Les chiens en laisse sont admis à bord, ce qui permet de gagner la capitale et ses bastions sans voiture ni bus.`,
+          en: `The landing at the head of Marsamxett Harbour where the small passenger ferry crosses to Valletta, a scenic few-minute hop. Leashed dogs are allowed aboard, letting you reach the capital and its bastions without car or bus.`,
+          es: `El embarcadero al fondo del puerto de Marsamxett de donde sale el pequeño ferry de pasajeros a La Valeta, una travesía panorámica de pocos minutos. Los perros con correa se admiten a bordo, lo que permite llegar a la capital y sus bastiones sin coche ni autobús.`,
+          pt: `O cais ao fundo do porto de Marsamxett de onde parte o pequeno ferry de passageiros para Valletta, uma travessia panorâmica de poucos minutos. Os cães com trela são admitidos a bordo, o que permite chegar à capital e aos seus baluartes sem carro nem autocarro.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `En plein été (juillet-août, 33 °C et plus), la promenade exposée et la roche calcaire deviennent brûlantes à la mi-journée : sortez à l'aube ou après le coucher du soleil et emportez de l'eau, l'ombre étant rare.`,
+        `La côte de Sliema est rocheuse, quasiment sans sable ; hors saison les chiens sont tolérés sur les rochers plats et autour des bains romains, mais les plages de sable canines officielles de Malte sont ailleurs (Little Armier notamment).`,
+        `Faites la promenade continue de Tigné à Saint-Julien, plate et ininterrompue, l'une des meilleures balades canines de l'île, avec de nombreux cafés à terrasse qui acceptent les chiens dehors.`,
+        `Prenez le petit ferry avec votre chien en laisse pour rejoindre La Valette : quelques minutes de traversée et une vue imprenable sur les bastions.`,
+        `Gardez le chien en laisse en ville et ramassez systématiquement (amendes possibles) ; surveillez les coussinets sur la pierre chauffée au soleil et prudence sur la roche mouillée et glissante au bord de l'eau.`,
+      ],
+      en: [
+        `In high summer (July-August, 33°C and up), the exposed promenade and limestone rock get scorching by midday: walk at dawn or after sunset and carry water, as shade is scarce.`,
+        `Sliema's coast is rocky with almost no sand; off-season dogs are tolerated on the flat rocks and around the Roman baths, but Malta's official sandy dog beaches are elsewhere (notably Little Armier).`,
+        `Walk the continuous Tigné-to-St Julian's promenade, flat and unbroken, one of the island's best dog walks, with many terrace cafes that welcome dogs outside.`,
+        `Take the small ferry with your leashed dog across to Valletta: a few-minute crossing and a stunning view of the bastions.`,
+        `Keep your dog leashed in town and always pick up (fines apply); watch paws on sun-heated stone and take care on the wet, slippery rock at the water's edge.`,
+      ],
+      es: [
+        `En pleno verano (julio-agosto, 33 °C y más), el paseo expuesto y la roca caliza se vuelven ardientes a mediodía: sal al amanecer o tras la puesta de sol y lleva agua, pues la sombra escasea.`,
+        `La costa de Sliema es rocosa, casi sin arena; fuera de temporada se tolera a los perros sobre las rocas planas y alrededor de los baños romanos, pero las playas de arena caninas oficiales de Malta están en otros sitios (sobre todo Little Armier).`,
+        `Recorre el paseo continuo de Tigné a San Julián, llano e ininterrumpido, uno de los mejores paseos caninos de la isla, con muchos cafés con terraza que aceptan perros fuera.`,
+        `Toma el pequeño ferry con tu perro con correa para cruzar a La Valeta: unos minutos de travesía y una vista impresionante de los bastiones.`,
+        `Mantén al perro con correa en la ciudad y recoge siempre (hay multas); vigila las almohadillas sobre la piedra caldeada por el sol y ten cuidado con la roca mojada y resbaladiza junto al agua.`,
+      ],
+      pt: [
+        `Em pleno verão (julho-agosto, 33 °C e mais), o passeio exposto e a rocha calcária ficam a escaldar a meio do dia: saia ao amanhecer ou após o pôr do sol e leve água, pois a sombra é escassa.`,
+        `A costa de Sliema é rochosa, quase sem areia; fora de época os cães são tolerados sobre as rochas planas e em redor dos banhos romanos, mas as praias de areia caninas oficiais de Malta estão noutros locais (sobretudo Little Armier).`,
+        `Percorra o passeio contínuo de Tigné a São Julião, plano e ininterrupto, um dos melhores passeios caninos da ilha, com muitos cafés com esplanada que aceitam cães lá fora.`,
+        `Apanhe o pequeno ferry com o seu cão com trela para atravessar até Valletta: poucos minutos de travessia e uma vista deslumbrante dos baluartes.`,
+        `Mantenha o cão com trela na cidade e apanhe sempre os dejetos (há multas); vigie as almofadinhas sobre a pedra aquecida pelo sol e tenha cuidado com a rocha molhada e escorregadia junto à água.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Malte est dans l'UE et l'espace Schengen : passeport européen pour animaux, puce ISO et vaccination antirabique à jour suffisent, sans test de titrage, et sont exigés à l'enregistrement dans les hôtels pet-friendly.`,
+        `Se déplacer : les bus maltais acceptent les petits chiens en sac de transport (à la discrétion du chauffeur) mais pas les grands ; Sliema est compacte et se parcourt à pied, sinon taxis pet-friendly (Bolt, eCabs sur demande).`,
+        `Le ferry Sliema-La Valette (port de Marsamxett) admet les chiens en laisse, courte traversée panoramique ; le ferry pour Gozo accepte aussi les chiens.`,
+        `Chaleur estivale intense de juin à septembre (33 °C et plus), roche et trottoirs brûlants et peu d'ombre sur la promenade : sorties tôt le matin ou en soirée, eau indispensable.`,
+        `Soins vétérinaires : des cliniques opèrent à Sliema et à Gżira toute proche, avec un service d'urgence 24h/24 disponible sur l'île ; numéro d'urgence général 112. La côte est rocheuse, prévoyez peu de sable.`,
+      ],
+      en: [
+        `Malta is in the EU and Schengen: an EU pet passport, ISO microchip and up-to-date rabies vaccination are enough, with no titre test, and are required at pet-friendly hotel check-in.`,
+        `Getting around: Maltese buses take small dogs in a carrier (driver's discretion) but not large ones; Sliema is compact and walkable, otherwise use pet-friendly taxis (Bolt, eCabs on request).`,
+        `The Sliema-Valletta ferry (Marsamxett Harbour) admits leashed dogs on a short scenic crossing; the Gozo ferry also accepts dogs.`,
+        `Summer heat is intense from June to September (33°C and up), with scorching rock and pavement and little shade on the promenade: walk early morning or evening, and water is essential.`,
+        `Vet care: clinics operate in Sliema and neighbouring Gżira, with a 24-hour emergency service available on the island; general emergency number 112. The coast is rocky, so expect little sand.`,
+      ],
+      es: [
+        `Malta está en la UE y en Schengen: un pasaporte europeo para mascotas, microchip ISO y vacunación antirrábica al día bastan, sin prueba de titulación, y se exigen al hacer el check-in en hoteles pet-friendly.`,
+        `Moverse: los autobuses malteses admiten perros pequeños en transportín (a discreción del conductor) pero no grandes; Sliema es compacta y caminable, si no usa taxis pet-friendly (Bolt, eCabs bajo petición).`,
+        `El ferry Sliema-La Valeta (puerto de Marsamxett) admite perros con correa en una corta travesía panorámica; el ferry a Gozo también acepta perros.`,
+        `El calor estival es intenso de junio a septiembre (33 °C y más), con roca y aceras ardientes y poca sombra en el paseo: salidas temprano por la mañana o al atardecer, y agua imprescindible.`,
+        `Atención veterinaria: hay clínicas en Sliema y en la vecina Gżira, con servicio de urgencia 24 h disponible en la isla; número de emergencia general 112. La costa es rocosa, cuenta con poca arena.`,
+      ],
+      pt: [
+        `Malta está na UE e no Espaço Schengen: um passaporte europeu para animais, microchip ISO e vacinação antirrábica em dia bastam, sem teste de titulação, e são exigidos no check-in em hotéis pet-friendly.`,
+        `Deslocações: os autocarros malteses aceitam cães pequenos em transportadora (ao critério do condutor) mas não grandes; Sliema é compacta e percorre-se a pé, caso contrário use táxis pet-friendly (Bolt, eCabs a pedido).`,
+        `O ferry Sliema-Valletta (porto de Marsamxett) admite cães com trela numa curta travessia panorâmica; o ferry para Gozo também aceita cães.`,
+        `O calor estival é intenso de junho a setembro (33 °C e mais), com rocha e passeios a escaldar e pouca sombra no passeio marítimo: saídas de manhã cedo ou ao fim do dia, e água indispensável.`,
+        `Cuidados veterinários: há clínicas em Sliema e na vizinha Gżira, com serviço de urgência 24h disponível na ilha; número de emergência geral 112. A costa é rochosa, conte com pouca areia.`,
       ],
     },
   },

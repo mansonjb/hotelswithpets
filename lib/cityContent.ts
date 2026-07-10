@@ -17970,6 +17970,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  groningen: {
+    history: {
+      fr: `Groningue, grande ville du nord des Pays-Bas, est la capitale vive et étudiante de sa province. Fondée sur une crête sableuse au Moyen Âge, elle prospéra grâce à la Hanse et au commerce du grain, puis se dota en 1614 de l'une des plus anciennes universités du pays, qui lui donne aujourd'hui sa jeunesse et son énergie. Le cœur historique se resserre autour du Grote Markt et de la Martinitoren, le clocher que les habitants surnomment d'Olle Grieze, la « vieille grise ». Ceinturée de canaux et posée dans une campagne plate quadrillée de pistes cyclables, Groningue file à vélo et respire au rythme de ses terrasses. Pour un visiteur avec un chien, c'est une ville facile : parcs en laisse, canaux, et la nature des côtes de la mer des Wadden à moins d'une heure.`,
+      en: `Groningen, the largest city in the north of the Netherlands, is the lively student capital of its province. Founded on a sandy ridge in the Middle Ages, it grew rich through the Hanseatic League and the grain trade, then in 1614 gained one of the country's oldest universities, which gives it its youth and energy today. The historic core tightens around the Grote Markt and the Martinitoren, the bell tower locals nickname d'Olle Grieze, the "old grey one". Ringed by canals and set in flat countryside laced with cycle paths, Groningen moves by bike and lives on its cafe terraces. For a visitor with a dog it is an easy city: leashed parks, canals, and the nature of the Wadden Sea coast less than an hour away.`,
+      es: `Groninga, la mayor ciudad del norte de los Países Bajos, es la capital vivaz y estudiantil de su provincia. Fundada sobre una loma arenosa en la Edad Media, prosperó gracias a la Liga Hanseática y al comercio del grano, y en 1614 obtuvo una de las universidades más antiguas del país, que hoy le da su juventud y su energía. El corazón histórico se aprieta en torno al Grote Markt y a la Martinitoren, el campanario que los vecinos apodan d'Olle Grieze, la «vieja gris». Rodeada de canales y asentada en un campo llano surcado de carriles bici, Groninga se mueve en bicicleta y respira al ritmo de sus terrazas. Para un visitante con perro es una ciudad fácil: parques con correa, canales y la naturaleza de la costa del mar de Frisia a menos de una hora.`,
+      pt: `Groninga, a maior cidade do norte dos Países Baixos, é a capital animada e estudantil da sua província. Fundada sobre uma crista arenosa na Idade Média, enriqueceu com a Liga Hanseática e o comércio de cereais, e em 1614 recebeu uma das universidades mais antigas do país, que hoje lhe dá a juventude e a energia. O coração histórico aperta-se em torno do Grote Markt e da Martinitoren, o campanário que os habitantes apelidam de d'Olle Grieze, a «velha cinzenta». Rodeada de canais e assente num campo plano cortado por ciclovias, Groninga move-se de bicicleta e respira ao ritmo das suas esplanadas. Para um visitante com cão é uma cidade fácil: parques à trela, canais e a natureza da costa do mar de Wadden a menos de uma hora.`,
+    },
+    sights: [
+      {
+        name: 'Grote Markt en Martinitoren',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La grande place centrale et la Martinitoren, clocher médiéval de 97 m que l'on gravit pour la vue, forment le cœur battant de Groningue. La place et ses terrasses se parcourent en laisse, mais l'ascension de la tour est interdite aux chiens.`,
+          en: `The great central square and the Martinitoren, a 97 m medieval bell tower you can climb for the view, form the beating heart of Groningen. The square and its terraces are walked on the leash, but the tower climb is off-limits to dogs.`,
+          es: `La gran plaza central y la Martinitoren, campanario medieval de 97 m que se sube por la vista, forman el corazón palpitante de Groninga. La plaza y sus terrazas se recorren con correa, pero la subida a la torre está prohibida a los perros.`,
+          pt: `A grande praça central e a Martinitoren, campanário medieval de 97 m que se sobe pela vista, formam o coração pulsante de Groninga. A praça e as suas esplanadas percorrem-se à trela, mas a subida à torre está interdita aos cães.`,
+        },
+      },
+      {
+        name: 'Vismarkt',
+        emoji: '🐟',
+        petFriendly: true,
+        desc: {
+          fr: `L'ancienne place du marché aux poissons, dominée par le Korenbeurs néoclassique, accueille encore un marché animé plusieurs jours par semaine. On y flâne en laisse entre étals et cafés, à deux pas du Grote Markt.`,
+          en: `The old fish market square, overlooked by the neoclassical Korenbeurs, still hosts a lively market several days a week. You stroll here on the leash between stalls and cafes, a step from the Grote Markt.`,
+          es: `La antigua plaza del mercado de pescado, presidida por el neoclásico Korenbeurs, aún acoge un mercado animado varios días por semana. Se pasea con correa entre puestos y cafés, a un paso del Grote Markt.`,
+          pt: `A antiga praça do mercado do peixe, dominada pelo neoclássico Korenbeurs, ainda acolhe um mercado animado vários dias por semana. Passeia-se à trela entre bancas e cafés, a dois passos do Grote Markt.`,
+        },
+      },
+      {
+        name: 'Groninger Museum',
+        emoji: '🎨',
+        petFriendly: false,
+        desc: {
+          fr: `Le Groninger Museum, pavillon coloré posé sur un îlot au milieu du canal face à la gare, est le musée d'art le plus audacieux du nord des Pays-Bas. L'intérieur est interdit aux chiens, mais les ponts et les quais qui l'entourent se longent en laisse.`,
+          en: `The Groninger Museum, a colourful pavilion set on an island in the canal opposite the station, is the boldest art museum in the northern Netherlands. The interior is off-limits to dogs, but the bridges and quays around it are walked on the leash.`,
+          es: `El Groninger Museum, pabellón colorido posado sobre un islote en medio del canal frente a la estación, es el museo de arte más atrevido del norte de los Países Bajos. El interior está prohibido a los perros, pero los puentes y muelles que lo rodean se recorren con correa.`,
+          pt: `O Groninger Museum, pavilhão colorido pousado sobre um ilhéu no meio do canal em frente à estação, é o museu de arte mais ousado do norte dos Países Baixos. O interior está interdito aos cães, mas as pontes e cais em redor percorrem-se à trela.`,
+        },
+      },
+      {
+        name: 'Noorderplantsoen',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Ce grand parc à l'anglaise, aménagé sur les anciens remparts, est le poumon vert et le lieu de rendez-vous des Groningois, très prisé des propriétaires de chiens. On s'y promène en laisse le long des étangs et des pelouses, avec des zones où les chiens peuvent courir librement.`,
+          en: `This large English-style park, laid out on the former ramparts, is the green lung and meeting place of Groningen, hugely popular with dog owners. You walk here on the leash along ponds and lawns, with areas where dogs can run free.`,
+          es: `Este gran parque de estilo inglés, trazado sobre las antiguas murallas, es el pulmón verde y punto de encuentro de Groninga, muy querido por los dueños de perros. Se pasea con correa junto a estanques y praderas, con zonas donde los perros pueden correr libres.`,
+          pt: `Este grande parque de estilo inglês, traçado sobre as antigas muralhas, é o pulmão verde e ponto de encontro de Groninga, muito apreciado pelos donos de cães. Passeia-se à trela junto a lagos e relvados, com zonas onde os cães podem correr livres.`,
+        },
+      },
+      {
+        name: 'Prinsentuin',
+        emoji: '🌷',
+        petFriendly: false,
+        desc: {
+          fr: `Le Prinsentuin, jardin Renaissance du XVIIe siècle avec ses haies taillées, sa roseraie et son cadran solaire, est une oasis close près du Noorderplantsoen. Les chiens n'y sont pas admis, mais le parc voisin offre une belle alternative pour les balades.`,
+          en: `The Prinsentuin, a seventeenth-century Renaissance garden with clipped hedges, a rose garden and a sundial, is a walled oasis near the Noorderplantsoen. Dogs are not allowed inside, but the neighbouring park is a fine alternative for walks.`,
+          es: `El Prinsentuin, jardín renacentista del siglo XVII con sus setos recortados, su rosaleda y su reloj de sol, es un oasis cerrado junto al Noorderplantsoen. Los perros no se admiten dentro, pero el parque vecino ofrece una buena alternativa para pasear.`,
+          pt: `O Prinsentuin, jardim renascentista do século XVII com as suas sebes aparadas, o roseiral e o relógio de sol, é um oásis fechado junto ao Noorderplantsoen. Os cães não são admitidos lá dentro, mas o parque vizinho oferece uma boa alternativa para passear.`,
+        },
+      },
+      {
+        name: 'Lauwersmeer en Waddenkust',
+        emoji: '🌾',
+        petFriendly: true,
+        desc: {
+          fr: `Au nord de la ville, le parc national du Lauwersmeer et la côte de la mer des Wadden, inscrite à l'UNESCO, déroulent de vastes étendues d'eau, de roseaux et de digues battues par le vent. Les chiens y sont bienvenus en laisse, mais la faune nichant au sol impose de respecter strictement les sentiers balisés.`,
+          en: `North of the city, the Lauwersmeer National Park and the UNESCO-listed Wadden Sea coast unfurl vast stretches of water, reeds and wind-swept dykes. Dogs are welcome here on the leash, but ground-nesting wildlife means you must keep strictly to the marked trails.`,
+          es: `Al norte de la ciudad, el parque nacional del Lauwersmeer y la costa del mar de Frisia, declarada Patrimonio de la UNESCO, despliegan vastas extensiones de agua, cañaverales y diques batidos por el viento. Los perros son bienvenidos con correa, pero la fauna que anida en el suelo obliga a respetar estrictamente los senderos señalizados.`,
+          pt: `A norte da cidade, o parque nacional do Lauwersmeer e a costa do mar de Wadden, classificada pela UNESCO, desdobram vastas extensões de água, caniçais e diques fustigados pelo vento. Os cães são bem-vindos à trela, mas a fauna que nidifica no solo obriga a respeitar estritamente os trilhos assinalados.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Ville du vélo par excellence : circulez prudemment avec le chien, les pistes cyclables sont partout et rapides, tenez-le du côté trottoir et non côté fietspad.`,
+        `Le Noorderplantsoen est le grand rendez-vous canin, en laisse le long des étangs avec des zones de liberté ; le Prinsentuin voisin, lui, est interdit aux chiens.`,
+        `Nature côtière du Lauwersmeer et de la mer des Wadden : superbe en laisse, mais la faune nichant au sol impose de rester sur les sentiers, surtout au printemps (mars à juillet).`,
+        `Climat doux mais très humide et venteux : prévoyez une serviette et de quoi sécher le chien, les averses sont fréquentes toute l'année sur le nord du pays.`,
+        `Dans les trains NS, les petits chiens en sac voyagent gratuitement, les plus grands avec un Dagkaart Hond (ticket journalier chien) ; muselière non requise mais laisse obligatoire.`,
+      ],
+      en: [
+        `A cycling city above all: move carefully with the dog, the bike lanes are everywhere and fast, so keep it on the pavement side rather than the fietspad side.`,
+        `The Noorderplantsoen is the great canine meeting point, on the leash along the ponds with off-leash areas; the neighbouring Prinsentuin, by contrast, bans dogs.`,
+        `Coastal nature at the Lauwersmeer and the Wadden Sea: superb on the leash, but ground-nesting wildlife means keeping to the trails, especially in spring (March to July).`,
+        `Mild but very wet and windy climate: bring a towel and a way to dry the dog, as showers are frequent all year in the north of the country.`,
+        `On NS trains, small dogs in a bag travel free, larger dogs with a Dagkaart Hond (day ticket for dogs); no muzzle required but a leash is mandatory.`,
+      ],
+      es: [
+        `Ciudad de la bicicleta por excelencia: circula con cuidado con el perro, los carriles bici están por todas partes y son rápidos, llévalo del lado de la acera y no del fietspad.`,
+        `El Noorderplantsoen es el gran punto de encuentro canino, con correa junto a los estanques y con zonas de suelta; el vecino Prinsentuin, en cambio, prohíbe los perros.`,
+        `Naturaleza costera del Lauwersmeer y del mar de Frisia: magnífica con correa, pero la fauna que anida en el suelo obliga a no salir de los senderos, sobre todo en primavera (marzo a julio).`,
+        `Clima suave pero muy húmedo y ventoso: lleva una toalla y con qué secar al perro, los chubascos son frecuentes todo el año en el norte del país.`,
+        `En los trenes NS, los perros pequeños en bolsa viajan gratis, los grandes con un Dagkaart Hond (billete diario para perros); no se exige bozal pero sí la correa.`,
+      ],
+      pt: [
+        `Cidade da bicicleta por excelência: circule com cuidado com o cão, as ciclovias estão por todo o lado e são rápidas, leve-o do lado do passeio e não do fietspad.`,
+        `O Noorderplantsoen é o grande ponto de encontro canino, à trela junto aos lagos e com zonas de soltar; o vizinho Prinsentuin, esse, proíbe os cães.`,
+        `Natureza costeira do Lauwersmeer e do mar de Wadden: magnífica à trela, mas a fauna que nidifica no solo obriga a não sair dos trilhos, sobretudo na primavera (março a julho).`,
+        `Clima ameno mas muito húmido e ventoso: leve uma toalha e com que secar o cão, os aguaceiros são frequentes todo o ano no norte do país.`,
+        `Nos comboios NS, os cães pequenos em saco viajam grátis, os maiores com um Dagkaart Hond (bilhete diário para cães); açaime não é exigido mas a trela é obrigatória.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen, puce et vaccination antirabique à jour exigés à l'enregistrement (les Pays-Bas sont dans l'UE).`,
+        `Laisse obligatoire en ville et ramassage des déjections de rigueur ; attention permanente aux pistes cyclables rapides omniprésentes.`,
+        `Climat doux, humide et venteux toute l'année : prévoyez de quoi sécher le chien, les averses sont fréquentes.`,
+        `Ville plate et compacte, idéale à pied et à vélo ; trains NS fréquents (chiens en sac gratuits, sinon Dagkaart Hond) vers le reste du pays.`,
+        `Numéro d'urgence européen 112 ; nature de la mer des Wadden et du Lauwersmeer accessible en moins d'une heure, chiens en laisse et faune protégée.`,
+      ],
+      en: [
+        `EU pet passport, microchip and up-to-date rabies vaccination required at check-in (the Netherlands is in the EU).`,
+        `Leash mandatory in town and waste pick-up expected; stay constantly alert to the fast, ever-present cycle lanes.`,
+        `Mild, wet and windy climate all year: bring a way to dry the dog, as showers are frequent.`,
+        `Flat, compact city, ideal on foot and by bike; frequent NS trains (dogs in a bag free, otherwise a Dagkaart Hond) to the rest of the country.`,
+        `European emergency number 112; the nature of the Wadden Sea and the Lauwersmeer is reachable in under an hour, with dogs leashed and wildlife protected.`,
+      ],
+      es: [
+        `Pasaporte europeo, microchip y vacunación antirrábica al día exigidos en el check-in (los Países Bajos están en la UE).`,
+        `Correa obligatoria en la ciudad y recogida de excrementos de rigor; atención permanente a los rápidos carriles bici omnipresentes.`,
+        `Clima suave, húmedo y ventoso todo el año: lleva con qué secar al perro, los chubascos son frecuentes.`,
+        `Ciudad llana y compacta, ideal a pie y en bici; trenes NS frecuentes (perros en bolsa gratis, si no Dagkaart Hond) hacia el resto del país.`,
+        `Número de urgencia europeo 112; la naturaleza del mar de Frisia y del Lauwersmeer se alcanza en menos de una hora, perros con correa y fauna protegida.`,
+      ],
+      pt: [
+        `Passaporte europeu, microchip e vacinação antirrábica em dia exigidos no check-in (os Países Baixos estão na UE).`,
+        `Trela obrigatória na cidade e recolha de dejetos de rigor; atenção permanente às rápidas ciclovias omnipresentes.`,
+        `Clima ameno, húmido e ventoso todo o ano: leve com que secar o cão, os aguaceiros são frequentes.`,
+        `Cidade plana e compacta, ideal a pé e de bicicleta; comboios NS frequentes (cães em saco grátis, senão Dagkaart Hond) para o resto do país.`,
+        `Número de emergência europeu 112; a natureza do mar de Wadden e do Lauwersmeer alcança-se em menos de uma hora, cães à trela e fauna protegida.`,
+      ],
+    },
+  },
+
   guimaraes: {
     history: {
       fr: `« Aqui nasceu Portugal », ici est né le Portugal : la devise inscrite sur les remparts résume Guimarães. C'est dans ce bourg du Minho qu'Afonso Henriques, premier roi du Portugal, vit le jour vers 1109, et c'est près de son château qu'il remporta en 1128 la bataille de São Mamede, acte fondateur du royaume. Le centre médiéval, remarquablement préservé avec ses maisons à pans de bois, ses places en granit et ses ruelles pavées, est classé au patrimoine mondial de l'UNESCO depuis 2001. Capitale européenne de la culture en 2012, la ville a su rester vivante et étudiante sans se muséifier. Pour un visiteur avec un chien, Guimarães se découvre à pied : tout le centre historique se parcourt en une journée de flânerie, et la montagne de la Penha offre une échappée verte au-dessus des toits.`,
@@ -32763,6 +32900,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'ras-al-khaimah': {
+    history: {
+      fr: `Ras al-Khaimah, l'émirat le plus au nord des Émirats arabes unis, est resté à l'écart du tumulte de Dubaï. Ancien port de la puissante tribu Al Qawasim, jadis redoutée pour ses marins, il vit longtemps de la pêche perlière et du commerce du Golfe. Aujourd'hui, c'est un émirat plus calme et tourné vers la nature : entre le désert de dunes rouges, les mangroves, la vieille ville corallienne d'Al Jazirah Al Hamra et surtout le Jebel Jais, plus haut sommet du pays à près de 1 900 m, où l'air fraîchit et où l'on peut marcher. Pour un visiteur avec un chien, il faut être lucide : comme ailleurs aux Émirats, les chiens sont largement interdits sur les plages publiques, dans les centres commerciaux et les sites clos, et la chaleur d'été dépasse souvent 45 °C, dangereuse en milieu de journée. La montagne et le désert en laisse, tôt le matin, restent les vraies options.`,
+      en: `Ras Al Khaimah, the northernmost emirate of the United Arab Emirates, has stayed apart from the rush of Dubai. Once the port of the powerful Al Qawasim tribe, long feared for its seafarers, it lived for centuries on pearling and Gulf trade. Today it is a quieter, more nature-facing emirate: red dune desert, mangroves, the coral old town of Al Jazirah Al Hamra, and above all Jebel Jais, the country's highest peak at nearly 1,900 m, where the air cools and you can actually walk. For a visitor with a dog, be clear-eyed: as elsewhere in the UAE, dogs are largely banned from public beaches, malls and enclosed sites, and summer heat often tops 45 C, dangerous in the middle of the day. The mountain and the desert on the leash, early in the morning, remain the real options.`,
+      es: `Ras al-Jaima, el emirato más septentrional de los Emiratos Árabes Unidos, se ha mantenido al margen del bullicio de Dubái. Antiguo puerto de la poderosa tribu Al Qawasim, temida por sus marinos, vivió durante siglos de la pesca de perlas y del comercio del Golfo. Hoy es un emirato más tranquilo y volcado a la naturaleza: desierto de dunas rojas, manglares, la vieja ciudad coralina de Al Jazirah Al Hamra y, sobre todo, el Jebel Jais, la cumbre más alta del país con casi 1.900 m, donde el aire refresca y se puede caminar. Para un visitante con perro conviene ser realista: como en el resto de los Emiratos, los perros están en gran medida prohibidos en las playas públicas, los centros comerciales y los recintos cerrados, y el calor estival supera a menudo los 45 °C, peligroso a mediodía. La montaña y el desierto con correa, temprano, siguen siendo las opciones reales.`,
+      pt: `Ras al-Khaimah, o emirado mais a norte dos Emirados Árabes Unidos, manteve-se à margem do bulício do Dubai. Antigo porto da poderosa tribo Al Qawasim, temida pelos seus marinheiros, viveu durante séculos da pesca de pérolas e do comércio do Golfo. Hoje é um emirado mais calmo e virado para a natureza: deserto de dunas vermelhas, mangais, a velha cidade coralina de Al Jazirah Al Hamra e, sobretudo, o Jebel Jais, o pico mais alto do país com quase 1900 m, onde o ar refresca e se pode caminhar. Para um visitante com cão convém ser lúcido: como no resto dos Emirados, os cães estão em grande medida proibidos nas praias públicas, nos centros comerciais e nos recintos fechados, e o calor de verão ultrapassa muitas vezes os 45 °C, perigoso a meio do dia. A montanha e o deserto à trela, de manhã cedo, continuam a ser as opções reais.`,
+    },
+    sights: [
+      {
+        name: 'Jebel Jais',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Plus haut sommet des Émirats à près de 1 900 m, le Jebel Jais offre un air nettement plus frais qu'en plaine et des sentiers et belvédères où marcher avec le chien tenu en laisse. C'est la vraie échappée nature de l'émirat, à réserver aux heures fraîches et en emportant beaucoup d'eau.`,
+          en: `The highest peak in the UAE at nearly 1,900 m, Jebel Jais offers markedly cooler air than the lowlands and trails and viewpoints where you can walk the dog on the leash. It is the emirate's real nature escape, best kept to the cooler hours and with plenty of water.`,
+          es: `Cumbre más alta de los Emiratos con casi 1.900 m, el Jebel Jais ofrece un aire mucho más fresco que la llanura y senderos y miradores donde pasear al perro con correa. Es la verdadera escapada natural del emirato, mejor a horas frescas y llevando mucha agua.`,
+          pt: `Pico mais alto dos Emirados com quase 1900 m, o Jebel Jais oferece um ar bastante mais fresco que a planície e trilhos e miradouros onde passear o cão à trela. É a verdadeira escapadela natural do emirado, de preferência nas horas frescas e levando muita água.`,
+        },
+      },
+      {
+        name: 'Dhayah Fort',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Perché sur une colline au-dessus des palmeraies, ce fort de terre du XVIIIe siècle est le dernier vestige de la résistance des Al Qawasim et offre une vue superbe sur la côte et les montagnes. Le site est en plein air et se visite en laisse, mais la montée en escaliers chauffe vite au soleil.`,
+          en: `Perched on a hill above the palm groves, this eighteenth-century mud-brick fort is the last relic of the Al Qawasim resistance and gives a superb view over the coast and mountains. The site is open-air and visited on the leash, but the stepped climb heats up fast in the sun.`,
+          es: `Encaramado en una colina sobre los palmerales, este fuerte de adobe del siglo XVIII es el último vestigio de la resistencia de los Al Qawasim y ofrece una vista soberbia de la costa y las montañas. El sitio es al aire libre y se visita con correa, pero la subida escalonada se calienta rápido al sol.`,
+          pt: `Empoleirado numa colina acima dos palmeirais, este forte de adobe do século XVIII é o último vestígio da resistência dos Al Qawasim e oferece uma vista soberba da costa e das montanhas. O local é ao ar livre e visita-se à trela, mas a subida em degraus aquece depressa ao sol.`,
+        },
+      },
+      {
+        name: 'Al Jazirah Al Hamra',
+        emoji: '🏚️',
+        petFriendly: true,
+        desc: {
+          fr: `Ancienne ville de pêcheurs de perles bâtie en corail et abandonnée dans les années 1960, Al Jazirah Al Hamra est l'un des rares villages traditionnels intacts du Golfe. On y déambule à ciel ouvert dans ses ruelles et ses maisons de corail, chien en laisse, de préférence en fin de journée.`,
+          en: `A former pearling town built of coral and abandoned in the 1960s, Al Jazirah Al Hamra is one of the few intact traditional villages left on the Gulf. You wander its lanes and coral houses in the open air, dog on the leash, best in the late afternoon.`,
+          es: `Antigua ciudad de pescadores de perlas construida en coral y abandonada en los años 1960, Al Jazirah Al Hamra es uno de los pocos pueblos tradicionales intactos del Golfo. Se deambula al aire libre por sus callejones y casas de coral, con el perro con correa, mejor al final del día.`,
+          pt: `Antiga cidade de pescadores de pérolas construída em coral e abandonada nos anos 1960, Al Jazirah Al Hamra é uma das poucas aldeias tradicionais intactas do Golfo. Deambula-se ao ar livre pelas suas ruelas e casas de coral, com o cão à trela, de preferência ao fim do dia.`,
+        },
+      },
+      {
+        name: 'Al Qawasim Corniche',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `La corniche d'Al Qawasim longe la crique de Ras al-Khaimah avec ses promenades, ses pelouses et sa vue sur les boutres et la vieille ville. On peut y marcher tôt le matin en laisse, mais les plages de baignade publiques restent interdites aux chiens.`,
+          en: `The Al Qawasim Corniche runs along the Ras Al Khaimah creek with its walkways, lawns and views of dhows and the old town. You can walk here early in the morning on the leash, but the public bathing beaches remain off-limits to dogs.`,
+          es: `La cornisa de Al Qawasim bordea la ría de Ras al-Jaima con sus paseos, céspedes y vistas de los dhows y la ciudad vieja. Se puede pasear temprano con correa, pero las playas de baño públicas siguen prohibidas a los perros.`,
+          pt: `A avenida marginal de Al Qawasim acompanha a ria de Ras al-Khaimah com os seus passeios, relvados e vistas dos dhows e da cidade velha. Pode passear-se de manhã cedo à trela, mas as praias balneares públicas continuam interditas aos cães.`,
+        },
+      },
+      {
+        name: 'Mangroves de la crique',
+        emoji: '🛶',
+        petFriendly: true,
+        desc: {
+          fr: `Les mangroves qui bordent la crique et le désert d'Al Wadi abritent une faune d'oiseaux et se découvrent surtout en kayak au fil des chenaux. Certaines sorties acceptent un petit chien à bord en laisse, à confirmer avec l'opérateur, aux heures fraîches uniquement.`,
+          en: `The mangroves lining the creek and the Al Wadi desert shelter a rich birdlife and are best explored by kayak along the channels. Some trips will take a small dog aboard on the leash, to confirm with the operator, and only in the cooler hours.`,
+          es: `Los manglares que bordean la ría y el desierto de Al Wadi albergan una rica avifauna y se descubren sobre todo en kayak por los canales. Algunas salidas admiten un perro pequeño a bordo con correa, a confirmar con el operador, solo a horas frescas.`,
+          pt: `Os mangais que bordejam a ria e o deserto de Al Wadi abrigam uma rica avifauna e descobrem-se sobretudo de caiaque pelos canais. Algumas saídas aceitam um cão pequeno a bordo à trela, a confirmar com o operador, apenas nas horas frescas.`,
+        },
+      },
+      {
+        name: 'National Museum of Ras Al Khaimah',
+        emoji: '🏛️',
+        petFriendly: false,
+        desc: {
+          fr: `Installé dans l'ancien fort résidence de la famille régnante, le musée national retrace l'archéologie, la pêche perlière et l'histoire de l'émirat. L'intérieur est interdit aux chiens, mais la cour et les remparts extérieurs se longent en laisse.`,
+          en: `Housed in the former fort residence of the ruling family, the national museum traces the archaeology, pearling and history of the emirate. The interior is off-limits to dogs, but the courtyard and outer walls can be walked on the leash.`,
+          es: `Instalado en el antiguo fuerte residencia de la familia gobernante, el museo nacional recorre la arqueología, la pesca de perlas y la historia del emirato. El interior está prohibido a los perros, pero el patio y las murallas exteriores se recorren con correa.`,
+          pt: `Instalado no antigo forte residência da família reinante, o museu nacional percorre a arqueologia, a pesca de pérolas e a história do emirado. O interior está interdito aos cães, mas o pátio e as muralhas exteriores percorrem-se à trela.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Chaleur extrême : de mai à septembre les températures dépassent souvent 45 °C, le bitume et le sable brûlent les coussinets, ne sortez le chien qu'à l'aube ou après le coucher du soleil et jamais aux heures chaudes.`,
+        `Restrictions strictes : les chiens sont interdits sur les plages publiques, dans les centres commerciaux et la plupart des lieux clos, prévoyez des balades en pleine nature (montagne, désert) et vérifiez chaque site à l'avance.`,
+        `Le Jebel Jais est la meilleure sortie : l'altitude rafraîchit l'air et l'on y marche en laisse, mais emportez beaucoup d'eau et une gamelle, il n'y a pas de point d'eau sur les sentiers.`,
+        `Entrée aux Émirats : ce n'est PAS le passeport européen, il faut une puce, une vaccination antirabique, un titrage sérique et un permis d'importation officiel, à préparer plusieurs semaines à l'avance.`,
+        `Numéros d'urgence : police 999, ambulance 998 ; repérez à l'arrivée une clinique vétérinaire et gardez de l'eau en permanence, le coup de chaleur est le premier danger ici.`,
+      ],
+      en: [
+        `Extreme heat: from May to September temperatures often exceed 45 C, and tarmac and sand burn paw pads, so walk the dog only at dawn or after sunset and never in the hot hours.`,
+        `Strict restrictions: dogs are banned from public beaches, malls and most enclosed places, so plan walks out in nature (mountain, desert) and check each site in advance.`,
+        `Jebel Jais is the best outing: altitude cools the air and you walk on the leash, but carry plenty of water and a bowl, as there are no water points on the trails.`,
+        `Entry to the UAE: this is NOT the EU pet passport, you need a microchip, rabies vaccination, a blood titre test and an official import permit, to arrange several weeks ahead.`,
+        `Emergency numbers: police 999, ambulance 998; on arrival locate a vet clinic and keep water on hand at all times, as heatstroke is the number one danger here.`,
+      ],
+      es: [
+        `Calor extremo: de mayo a septiembre las temperaturas superan a menudo los 45 °C, y el asfalto y la arena queman las almohadillas, saca al perro solo al amanecer o tras la puesta de sol y nunca a horas de calor.`,
+        `Restricciones estrictas: los perros están prohibidos en playas públicas, centros comerciales y la mayoría de recintos cerrados, planifica paseos en plena naturaleza (montaña, desierto) y comprueba cada sitio de antemano.`,
+        `El Jebel Jais es la mejor salida: la altitud refresca el aire y se pasea con correa, pero lleva mucha agua y un bebedero, no hay puntos de agua en los senderos.`,
+        `Entrada a los Emiratos: NO es el pasaporte europeo, hacen falta microchip, vacunación antirrábica, prueba serológica y un permiso de importación oficial, a preparar varias semanas antes.`,
+        `Números de urgencia: policía 999, ambulancia 998; al llegar localiza una clínica veterinaria y ten siempre agua a mano, el golpe de calor es el primer peligro aquí.`,
+      ],
+      pt: [
+        `Calor extremo: de maio a setembro as temperaturas ultrapassam muitas vezes os 45 °C, e o alcatrão e a areia queimam as almofadas das patas, passeie o cão só ao amanhecer ou após o pôr do sol e nunca nas horas quentes.`,
+        `Restrições rígidas: os cães estão proibidos nas praias públicas, nos centros comerciais e na maioria dos recintos fechados, planeie passeios em plena natureza (montanha, deserto) e confirme cada local com antecedência.`,
+        `O Jebel Jais é a melhor saída: a altitude refresca o ar e passeia-se à trela, mas leve muita água e uma tigela, não há pontos de água nos trilhos.`,
+        `Entrada nos Emirados: NÃO é o passaporte europeu, é preciso microchip, vacinação antirrábica, teste serológico e uma licença de importação oficial, a preparar várias semanas antes.`,
+        `Números de emergência: polícia 999, ambulância 998; à chegada localize uma clínica veterinária e tenha sempre água à mão, o golpe de calor é o primeiro perigo aqui.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée aux Émirats hors UE : puce, vaccination antirabique, titrage sérique et permis d'importation officiel obligatoires, à préparer très en amont.`,
+        `Chaleur extrême de mai à septembre (souvent plus de 45 °C) : sorties à l'aube ou de nuit, eau en permanence, surface brûlante pour les coussinets.`,
+        `Chiens interdits sur les plages publiques, dans les centres commerciaux et la plupart des lieux clos ; privilégier montagne (Jebel Jais) et désert en laisse.`,
+        `Émirat plus calme et nature que Dubaï, mais mêmes règles et même chaleur ; louer une voiture est quasi indispensable pour rejoindre les sites.`,
+        `Numéros d'urgence : police 999, ambulance 998 ; repérer une clinique vétérinaire dès l'arrivée, le coup de chaleur étant le premier risque.`,
+      ],
+      en: [
+        `Entry to the UAE from outside the EU: microchip, rabies vaccination, blood titre test and an official import permit required, to arrange well ahead.`,
+        `Extreme heat from May to September (often over 45 C): outings at dawn or by night, water at all times, scorching surfaces for paw pads.`,
+        `Dogs banned from public beaches, malls and most enclosed places; favour the mountain (Jebel Jais) and the desert on the leash.`,
+        `A quieter, more nature-facing emirate than Dubai, but the same rules and the same heat; renting a car is all but essential to reach the sites.`,
+        `Emergency numbers: police 999, ambulance 998; locate a vet clinic on arrival, as heatstroke is the leading risk.`,
+      ],
+      es: [
+        `Entrada a los Emiratos desde fuera de la UE: microchip, vacunación antirrábica, prueba serológica y permiso de importación oficial obligatorios, a preparar con mucha antelación.`,
+        `Calor extremo de mayo a septiembre (a menudo más de 45 °C): salidas al amanecer o de noche, agua siempre, superficies ardientes para las almohadillas.`,
+        `Perros prohibidos en playas públicas, centros comerciales y la mayoría de recintos cerrados; prioriza montaña (Jebel Jais) y desierto con correa.`,
+        `Emirato más tranquilo y natural que Dubái, pero con las mismas reglas y el mismo calor; alquilar coche es casi imprescindible para llegar a los sitios.`,
+        `Números de urgencia: policía 999, ambulancia 998; localiza una clínica veterinaria al llegar, el golpe de calor es el primer riesgo.`,
+      ],
+      pt: [
+        `Entrada nos Emirados vindo de fora da UE: microchip, vacinação antirrábica, teste serológico e licença de importação oficial obrigatórios, a preparar com muita antecedência.`,
+        `Calor extremo de maio a setembro (muitas vezes mais de 45 °C): saídas ao amanhecer ou de noite, água sempre, superfícies escaldantes para as almofadas.`,
+        `Cães proibidos nas praias públicas, nos centros comerciais e na maioria dos recintos fechados; privilegie a montanha (Jebel Jais) e o deserto à trela.`,
+        `Emirado mais calmo e natural que o Dubai, mas com as mesmas regras e o mesmo calor; alugar carro é quase indispensável para chegar aos locais.`,
+        `Números de emergência: polícia 999, ambulância 998; localize uma clínica veterinária à chegada, sendo o golpe de calor o primeiro risco.`,
+      ],
+    },
+  },
+
   ravenna: {
     history: {
       fr: `Ravenne, discrète capitale de l'Émilie-Romagne au bord de l'Adriatique, fut trois fois capitale : de l'Empire romain d'Occident au Ve siècle, du royaume ostrogoth de Théodoric, puis de l'exarchat byzantin. De cet âge d'or elle a gardé huit monuments inscrits au patrimoine mondial de l'UNESCO, tapissés des plus belles mosaïques byzantines du monde : la basilique San Vitale, le mausolée de Galla Placidia et son ciel étoilé, Sant'Apollinare Nuovo. C'est aussi ici que mourut Dante Alighieri, exilé de Florence, en 1321 ; son tombeau se dresse près de l'église San Francesco. Ville plate et faite pour le vélo, entourée des pinèdes de San Vitale et de Classe chantées par Dante et Byron, Ravenne s'étend jusqu'aux plages de sable de Marina di Ravenna et Punta Marina, sur une côte adriatique douce et familiale.`,
@@ -43215,6 +43489,143 @@ const cityContent: Record<string, CityContent> = {
         `Domtoren, Centraal Museum, Spoorwegmuseum e Miffy Museum só admiten cães de assistência: reserva um cuidador Pawshake o Petbnb si necesitas visitar.`,
         `A Spoedkliniek fora de horario (Yalelaan, De Uithof) é a clínica central de urgências 24 h; chama ao 0900-2223000 antes de ir.`,
         `Aeroporto mais cercano: Schiphol (AMS), comboio directo a partir de Utrecht Centraal en 30 min; cães em transportadora grátis, cães mais grandes con Dagkaart Hond.`,
+      ],
+    },
+  },
+
+  valbona: {
+    history: {
+      fr: `Valbona n'est pas une ville mais une vallée glaciaire spectaculaire, nichée au cœur des Alpes albanaises que l'on surnomme les « Montagnes maudites » (Bjeshkët e Nemuna), dans le district reculé de Tropoja. Longtemps coupée du monde, la région ne s'atteint qu'après l'un des plus beaux voyages en bateau d'Europe, la traversée du lac de Koman, puis une route de montagne jusqu'au village. Classée parc national, la vallée de Valbona déroule une rivière aux eaux claires, des forêts de hêtres et de pins et des parois calcaires qui montent à plus de 2 500 m. On y vient pour marcher, notamment la célèbre randonnée qui franchit le col depuis Theth, et pour loger dans les bujtina, ces maisons d'hôtes traditionnelles qui accueillent volontiers les chiens. Pour un visiteur avec un chien, c'est une destination de trek : nature grandiose, étés frais parfaits pour l'animal, mais aussi remote et sans vétérinaire à proximité.`,
+      en: `Valbona is not a town but a spectacular glacial valley, tucked into the Albanian Alps known as the "Accursed Mountains" (Bjeshkët e Nemuna), in the remote Tropoja district. Long cut off from the world, the region is reached only after one of Europe's finest boat journeys, the crossing of Lake Koman, then a mountain road to the village. Protected as a national park, the Valbona Valley unrolls a clear-water river, beech and pine forests and limestone walls rising above 2,500 m. People come to walk, above all the famous hike over the pass from Theth, and to stay in the bujtina, the traditional guesthouses that gladly welcome dogs. For a visitor with a dog, this is a trekking destination: grand nature, cool summers ideal for the animal, but also remote and with no vet nearby.`,
+      es: `Valbona no es una ciudad sino un valle glaciar espectacular, encajado en los Alpes albaneses apodados «Montañas Malditas» (Bjeshkët e Nemuna), en el remoto distrito de Tropoja. Largo tiempo aislada del mundo, la región solo se alcanza tras uno de los viajes en barco más bellos de Europa, la travesía del lago de Koman, y luego una carretera de montaña hasta el pueblo. Protegido como parque nacional, el valle de Valbona despliega un río de aguas claras, bosques de hayas y pinos y paredes calcáreas que superan los 2.500 m. Se viene a caminar, sobre todo la célebre ruta que cruza el collado desde Theth, y a alojarse en las bujtina, esas casas de huéspedes tradicionales que acogen de buen grado a los perros. Para un visitante con perro es un destino de trekking: naturaleza grandiosa, veranos frescos ideales para el animal, pero también remoto y sin veterinario cerca.`,
+      pt: `Valbona não é uma cidade mas um vale glaciar espetacular, encaixado nos Alpes albaneses apelidados de «Montanhas Malditas» (Bjeshkët e Nemuna), no remoto distrito de Tropoja. Muito tempo isolada do mundo, a região só se alcança depois de uma das mais belas viagens de barco da Europa, a travessia do lago de Koman, e depois uma estrada de montanha até à aldeia. Protegido como parque nacional, o vale de Valbona desenrola um rio de águas claras, florestas de faias e pinheiros e paredes calcárias que ultrapassam os 2500 m. Vem-se para caminhar, sobretudo a célebre caminhada que atravessa o colo desde Theth, e para ficar nas bujtina, essas casas de hóspedes tradicionais que acolhem de bom grado os cães. Para um visitante com cão é um destino de trekking: natureza grandiosa, verões frescos ideais para o animal, mas também remoto e sem veterinário por perto.`,
+    },
+    sights: [
+      {
+        name: 'Parku Kombëtar i Luginës së Valbonës',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc national de la vallée de Valbona protège l'un des plus beaux paysages glaciaires des Balkans, entre rivière claire, forêts et hauts sommets calcaires. Les chiens y sont bienvenus en laisse sur les sentiers, mais gardez vos distances avec les chiens de troupeau qui gardent les alpages.`,
+          en: `The Valbona Valley National Park protects one of the finest glacial landscapes in the Balkans, between clear river, forests and high limestone peaks. Dogs are welcome on the leash on the trails, but keep your distance from the livestock-guardian dogs watching the pastures.`,
+          es: `El parque nacional del valle de Valbona protege uno de los paisajes glaciares más bellos de los Balcanes, entre río claro, bosques y altas cumbres calcáreas. Los perros son bienvenidos con correa en los senderos, pero mantén la distancia con los mastines que guardan los pastos.`,
+          pt: `O parque nacional do vale de Valbona protege uma das mais belas paisagens glaciares dos Balcãs, entre rio claro, florestas e altos picos calcários. Os cães são bem-vindos à trela nos trilhos, mas mantenha a distância dos cães de gado que guardam as pastagens.`,
+        },
+      },
+      {
+        name: 'Theth-Valbona Pass',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `La grande randonnée qui franchit le col entre Theth et Valbona, à plus de 1 800 m, est l'une des plus célèbres des Balkans, une longue journée de marche en haute montagne. Le chien peut la faire en laisse s'il est en forme, mais le dénivelé, le soleil et la météo changeante imposent eau, prudence et départ matinal.`,
+          en: `The great hike over the pass between Theth and Valbona, above 1,800 m, is one of the most famous in the Balkans, a long day's walk in high mountains. A fit dog can do it on the leash, but the climb, the sun and the fast-changing weather call for water, care and an early start.`,
+          es: `La gran ruta que cruza el collado entre Theth y Valbona, a más de 1.800 m, es una de las más célebres de los Balcanes, una larga jornada de caminata en alta montaña. Un perro en forma puede hacerla con correa, pero el desnivel, el sol y el tiempo cambiante exigen agua, prudencia y salida temprana.`,
+          pt: `A grande caminhada que atravessa o colo entre Theth e Valbona, acima dos 1800 m, é uma das mais célebres dos Balcãs, um longo dia de marcha em alta montanha. Um cão em forma pode fazê-la à trela, mas o desnível, o sol e o tempo mutável exigem água, prudência e partida matinal.`,
+        },
+      },
+      {
+        name: 'Lumi i Valbonës',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `La rivière Valbona serpente au fond de la vallée sur un large lit de galets blancs, entre eaux turquoise et bras asséchés selon la saison. C'est un lieu idéal pour laisser le chien se rafraîchir en laisse, à l'écart des troupeaux et en surveillant le courant après les pluies.`,
+          en: `The Valbona river winds along the valley floor over a wide bed of white pebbles, between turquoise water and dry channels depending on the season. It is an ideal spot to let the dog cool off on the leash, away from the flocks and watching the current after rain.`,
+          es: `El río Valbona serpentea por el fondo del valle sobre un ancho lecho de guijarros blancos, entre aguas turquesa y brazos secos según la estación. Es un lugar ideal para dejar que el perro se refresque con correa, lejos de los rebaños y vigilando la corriente tras las lluvias.`,
+          pt: `O rio Valbona serpenteia pelo fundo do vale sobre um largo leito de seixos brancos, entre águas turquesa e braços secos consoante a estação. É um local ideal para deixar o cão refrescar-se à trela, longe dos rebanhos e vigiando a corrente após as chuvas.`,
+        },
+      },
+      {
+        name: 'Bjeshkët e Nemuna',
+        emoji: '🏔️',
+        petFriendly: true,
+        desc: {
+          fr: `Les « Montagnes maudites », massif partagé entre l'Albanie, le Kosovo et le Monténégro, dressent autour de Valbona des pics acérés et des cirques sauvages parmi les plus reculés d'Europe. On y randonne en laisse, en autonomie complète, car il n'y a ni commerce ni secours rapide en altitude.`,
+          en: `The "Accursed Mountains", a range shared by Albania, Kosovo and Montenegro, raise around Valbona jagged peaks and wild cirques among the most remote in Europe. You hike here on the leash, fully self-sufficient, as there are no shops and no fast rescue at altitude.`,
+          es: `Las «Montañas Malditas», macizo compartido entre Albania, Kosovo y Montenegro, alzan en torno a Valbona picos afilados y circos salvajes de los más remotos de Europa. Se camina con correa, en total autonomía, pues no hay comercios ni rescate rápido en altura.`,
+          pt: `As «Montanhas Malditas», maciço partilhado entre a Albânia, o Kosovo e o Montenegro, erguem em redor de Valbona picos afiados e circos selvagens entre os mais remotos da Europa. Caminha-se à trela, em total autonomia, pois não há comércio nem socorro rápido em altitude.`,
+        },
+      },
+      {
+        name: 'Liqeni i Komanit',
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `La traversée du lac de Koman en ferry, entre parois vertigineuses et bras de rivière encaissés, est le passage obligé pour atteindre Valbona et l'un des plus beaux voyages en bateau d'Europe. Les chiens sont admis à bord en laisse ; réservez et arrivez tôt, la place est limitée en haute saison.`,
+          en: `The ferry crossing of Lake Koman, between sheer walls and narrow river arms, is the necessary gateway to Valbona and one of the finest boat journeys in Europe. Dogs are allowed aboard on the leash; book and arrive early, as space is limited in high season.`,
+          es: `La travesía del lago de Koman en ferry, entre paredes vertiginosas y brazos de río encajonados, es el paso obligado para llegar a Valbona y uno de los viajes en barco más bellos de Europa. Los perros se admiten a bordo con correa; reserva y llega temprano, la plaza es limitada en temporada alta.`,
+          pt: `A travessia do lago de Koman de ferry, entre paredes vertiginosas e braços de rio encaixados, é a passagem obrigatória para chegar a Valbona e uma das mais belas viagens de barco da Europa. Os cães são admitidos a bordo à trela; reserve e chegue cedo, o lugar é limitado na época alta.`,
+        },
+      },
+      {
+        name: 'Bujtina de Valbona',
+        emoji: '🏡',
+        petFriendly: true,
+        desc: {
+          fr: `Les bujtina, maisons d'hôtes familiales en bois et pierre disséminées dans la vallée, sont le cœur de l'hospitalité montagnarde albanaise et se montrent généralement tolérantes envers les chiens. On y partage des repas maison et l'on part de là pour les randonnées, chien en laisse dès la porte franchie.`,
+          en: `The bujtina, family guesthouses of wood and stone scattered through the valley, are the heart of Albanian mountain hospitality and are generally tolerant of dogs. You share home-cooked meals and set off from them for the hikes, dog on the leash from the doorstep.`,
+          es: `Las bujtina, casas de huéspedes familiares de madera y piedra repartidas por el valle, son el corazón de la hospitalidad montañesa albanesa y suelen ser tolerantes con los perros. Se comparten comidas caseras y se parte de ellas para las rutas, con el perro con correa desde la misma puerta.`,
+          pt: `As bujtina, casas de hóspedes familiares de madeira e pedra espalhadas pelo vale, são o coração da hospitalidade montanhesa albanesa e costumam ser tolerantes com os cães. Partilham-se refeições caseiras e parte-se delas para as caminhadas, com o cão à trela logo à porta.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Chiens de troupeau : les bergers des alpages emploient de grands chiens de garde qui peuvent charger si l'on approche du bétail, gardez le vôtre en laisse et courte, contournez largement et ne fuyez pas en courant.`,
+        `Été frais et idéal : de juin à septembre les températures de montagne conviennent bien au chien, mais la météo change vite en altitude, prévoyez pluie, vent et brouillard même par beau temps.`,
+        `Autonomie totale : la vallée est reculée, sans commerces sur les sentiers, emportez eau et nourriture pour le chien, une trousse de premiers soins et de quoi le porter en cas de blessure.`,
+        `Vétérinaire éloigné : il n'y a pas de clinique dans la vallée, le plus proche est à Bajram Curri, à environ une heure de route, anticipez tout traitement avant de monter.`,
+        `Retour vers l'UE : l'Albanie est hors UE, prévoyez puce, vaccination antirabique et titrage sérique des anticorps antirabiques dans les délais requis pour repasser la frontière avec l'animal.`,
+      ],
+      en: [
+        `Livestock-guardian dogs: shepherds in the pastures use large guard dogs that may charge if you approach the flock, so keep yours on a short leash, give a wide berth and do not run away.`,
+        `Cool, ideal summers: from June to September the mountain temperatures suit a dog well, but the weather changes fast at altitude, so plan for rain, wind and fog even in fine weather.`,
+        `Full self-sufficiency: the valley is remote, with no shops on the trails, so carry water and food for the dog, a first-aid kit and a way to carry it if injured.`,
+        `Distant vet: there is no clinic in the valley, the nearest being in Bajram Curri, about an hour's drive away, so sort out any treatment before heading up.`,
+        `Returning to the EU: Albania is outside the EU, so arrange microchip, rabies vaccination and a rabies antibody titre test within the required timeframe to cross back with the animal.`,
+      ],
+      es: [
+        `Mastines de rebaño: los pastores de los altos usan grandes perros de guarda que pueden embestir si te acercas al ganado, lleva al tuyo con correa corta, rodea con amplitud y no huyas corriendo.`,
+        `Verano fresco e ideal: de junio a septiembre las temperaturas de montaña sientan bien al perro, pero el tiempo cambia rápido en altura, prevé lluvia, viento y niebla incluso con buen tiempo.`,
+        `Autonomía total: el valle es remoto, sin comercios en los senderos, lleva agua y comida para el perro, un botiquín y con qué transportarlo en caso de herida.`,
+        `Veterinario lejano: no hay clínica en el valle, la más cercana está en Bajram Curri, a cerca de una hora en coche, anticipa cualquier tratamiento antes de subir.`,
+        `Regreso a la UE: Albania está fuera de la UE, prevé microchip, vacunación antirrábica y prueba serológica de anticuerpos antirrábicos en los plazos requeridos para volver a cruzar con el animal.`,
+      ],
+      pt: [
+        `Cães de gado: os pastores dos altos usam grandes cães de guarda que podem investir se se aproximar do rebanho, leve o seu com trela curta, contorne com folga e não fuja a correr.`,
+        `Verão fresco e ideal: de junho a setembro as temperaturas de montanha assentam bem ao cão, mas o tempo muda depressa em altitude, preveja chuva, vento e nevoeiro mesmo com bom tempo.`,
+        `Autonomia total: o vale é remoto, sem comércio nos trilhos, leve água e comida para o cão, um kit de primeiros socorros e com que o transportar em caso de ferimento.`,
+        `Veterinário distante: não há clínica no vale, a mais próxima fica em Bajram Curri, a cerca de uma hora de carro, antecipe qualquer tratamento antes de subir.`,
+        `Regresso à UE: a Albânia está fora da UE, preveja microchip, vacinação antirrábica e teste serológico de anticorpos antirrábicos nos prazos exigidos para voltar a passar a fronteira com o animal.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Albanie hors UE : pour revenir dans l'UE, puce, vaccination antirabique et titrage sérique des anticorps antirabiques respectant les délais légaux sont indispensables.`,
+        `Destination de trek reculée : accès par le ferry du lac de Koman (chiens admis en laisse) puis route de montagne, aucun commerce sur les sentiers, prévoir eau et nourriture.`,
+        `Étés frais parfaits pour le chien (juin à septembre), mais météo de haute montagne changeante ; hors saison, les cols peuvent être enneigés et les bujtina fermées.`,
+        `Chiens de troupeau présents sur les alpages : laisse courte obligatoire, contourner le bétail, ne pas courir.`,
+        `Vétérinaire le plus proche à Bajram Curri (environ une heure) ; numéros d'urgence 112 (général) et 127 (ambulance), couverture réseau limitée en altitude.`,
+      ],
+      en: [
+        `Albania outside the EU: to return to the EU, a microchip, rabies vaccination and a rabies antibody titre test within the legal timeframe are essential.`,
+        `Remote trekking destination: access via the Lake Koman ferry (dogs allowed on the leash) then a mountain road, no shops on the trails, so carry water and food.`,
+        `Cool summers perfect for a dog (June to September), but changeable high-mountain weather; off-season, the passes can be snowbound and the bujtina closed.`,
+        `Livestock-guardian dogs on the pastures: short leash mandatory, give the flock a wide berth, do not run.`,
+        `Nearest vet in Bajram Curri (about an hour); emergency numbers 112 (general) and 127 (ambulance), with limited phone coverage at altitude.`,
+      ],
+      es: [
+        `Albania fuera de la UE: para volver a la UE son imprescindibles microchip, vacunación antirrábica y prueba serológica de anticuerpos antirrábicos dentro de los plazos legales.`,
+        `Destino de trekking remoto: acceso por el ferry del lago de Koman (perros admitidos con correa) y luego carretera de montaña, sin comercios en los senderos, lleva agua y comida.`,
+        `Veranos frescos perfectos para el perro (junio a septiembre), pero tiempo de alta montaña cambiante; fuera de temporada, los collados pueden estar nevados y las bujtina cerradas.`,
+        `Mastines de rebaño en los pastos: correa corta obligatoria, rodear el ganado, no correr.`,
+        `Veterinario más cercano en Bajram Curri (cerca de una hora); números de urgencia 112 (general) y 127 (ambulancia), cobertura de red limitada en altura.`,
+      ],
+      pt: [
+        `Albânia fora da UE: para regressar à UE são indispensáveis microchip, vacinação antirrábica e teste serológico de anticorpos antirrábicos dentro dos prazos legais.`,
+        `Destino de trekking remoto: acesso pelo ferry do lago de Koman (cães admitidos à trela) e depois estrada de montanha, sem comércio nos trilhos, leve água e comida.`,
+        `Verões frescos perfeitos para o cão (junho a setembro), mas tempo de alta montanha mutável; fora de época, os colos podem estar cobertos de neve e as bujtina fechadas.`,
+        `Cães de gado nas pastagens: trela curta obrigatória, contornar o rebanho, não correr.`,
+        `Veterinário mais próximo em Bajram Curri (cerca de uma hora); números de emergência 112 (geral) e 127 (ambulância), com cobertura de rede limitada em altitude.`,
       ],
     },
   },

@@ -17423,6 +17423,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'feldkirchen-in-karnten': {
+    history: {
+      fr: `Feldkirchen in Kärnten est une petite ville-marché historique de Carinthie, dans le sud de l'Autriche, blottie entre collines boisées et lacs alpins au nord de Villach. Son cœur est le Hauptplatz, place centrale aux façades colorées et aux maisons bourgeoises, dominée par l'église paroissiale et parcourue à pied. La ville sert de porte d'entrée à la région des lacs carinthiens : le petit Maltschacher See tout proche et le grand Ossiacher See offrent des eaux qui comptent parmi les plus chaudes des Alpes en été. Aux alentours s'élèvent la Gerlitzen Alpe, sommet-belvédère desservi par un télécabine, et les vastes pâturages des Nockberge, réserve de biosphère aux montagnes rondes idéales pour la randonnée. Le climat est continental et montagnard : étés doux et baignades, hivers enneigés. Autriche, zone euro, membre de l'UE. Urgences : 112, secours 144.`,
+      en: `Feldkirchen in Kärnten is a small historic market town in Carinthia, in southern Austria, tucked between wooded hills and alpine lakes just north of Villach. Its heart is the Hauptplatz, a central square of colourful facades and burgher houses, watched over by the parish church and best explored on foot. The town is a gateway to the Carinthian lake district: the small Maltschacher See close by and the larger Ossiacher See hold some of the warmest bathing water in the Alps in summer. All around rise the Gerlitzen Alpe, a viewpoint summit served by a cable car, and the broad pastures of the Nockberge, a biosphere reserve of gentle rounded mountains ideal for hiking. The climate is continental and alpine: mild summers and lake swimming, snowy winters. Austria, eurozone, EU member. Emergencies: 112, medical rescue 144.`,
+      es: `Feldkirchen in Kärnten es una pequeña villa mercado histórica de Carintia, en el sur de Austria, encajada entre colinas boscosas y lagos alpinos justo al norte de Villach. Su corazón es el Hauptplatz, plaza central de fachadas coloridas y casas burguesas, presidida por la iglesia parroquial y que se recorre a pie. La villa es la puerta de entrada a la región de lagos de Carintia: el pequeño Maltschacher See, muy cercano, y el mayor Ossiacher See guardan algunas de las aguas de baño más cálidas de los Alpes en verano. Alrededor se alzan la Gerlitzen Alpe, cima mirador servida por un teleférico, y los amplios pastos de los Nockberge, reserva de la biosfera de montañas redondeadas ideales para el senderismo. El clima es continental y montañoso: veranos suaves y baños de lago, inviernos nevados. Austria, zona euro, miembro de la UE. Emergencias: 112, rescate médico 144.`,
+      pt: `Feldkirchen in Kärnten é uma pequena vila-mercado histórica da Caríntia, no sul da Áustria, encaixada entre colinas arborizadas e lagos alpinos logo a norte de Villach. O seu coração é o Hauptplatz, praça central de fachadas coloridas e casas burguesas, dominada pela igreja paroquial e percorrida a pé. A vila é a porta de entrada para a região de lagos da Caríntia: o pequeno Maltschacher See, ali perto, e o maior Ossiacher See guardam algumas das águas de banho mais quentes dos Alpes no verão. Em redor erguem-se a Gerlitzen Alpe, cume miradouro servido por um teleférico, e as vastas pastagens dos Nockberge, reserva da biosfera de montanhas arredondadas ideais para caminhadas. O clima é continental e de montanha: verões amenos e banhos de lago, invernos com neve. Áustria, zona euro, membro da UE. Emergências: 112, socorro médico 144.`,
+    },
+    sights: [
+      {
+        name: 'Hauptplatz',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La grande place-marché au centre de la ville, bordée de maisons bourgeoises colorées, forme le cœur piéton de Feldkirchen. Les chiens en laisse y sont les bienvenus pour flâner entre les terrasses et les ruelles anciennes ; l'intérieur des cafés et boutiques reste à la discrétion de chaque commerçant.`,
+          en: `The broad market square at the town centre, lined with colourful burgher houses, forms the pedestrian heart of Feldkirchen. Leashed dogs are welcome to wander among the terraces and old lanes; entering the cafes and shops is at each owner's discretion.`,
+          es: `La amplia plaza-mercado del centro, flanqueada por casas burguesas coloridas, forma el corazón peatonal de Feldkirchen. Los perros con correa son bienvenidos para pasear entre las terrazas y las callejuelas antiguas; entrar en los cafés y comercios queda a discreción de cada dueño.`,
+          pt: `A ampla praça-mercado no centro, ladeada por casas burguesas coloridas, forma o coração pedonal de Feldkirchen. Os cães com trela são bem-vindos para passear entre as esplanadas e as ruelas antigas; entrar nos cafés e lojas fica ao critério de cada dono.`,
+        },
+      },
+      {
+        name: 'Stadtpfarrkirche',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `L'église paroissiale, dont les origines remontent au Moyen Âge, domine le Hauptplatz de son clocher. Comme dans la plupart des lieux de culte, les chiens ne sont pas admis à l'intérieur, mais le parvis et les rues alentour se visitent aisément en laisse.`,
+          en: `The parish church, with medieval origins, rises over the Hauptplatz with its bell tower. As in most places of worship, dogs are not allowed inside, but the forecourt and surrounding streets are easily visited on lead.`,
+          es: `La iglesia parroquial, de origen medieval, se alza sobre el Hauptplatz con su campanario. Como en la mayoría de los lugares de culto, los perros no se admiten en el interior, pero la explanada y las calles del entorno se visitan con facilidad con correa.`,
+          pt: `A igreja paroquial, de origem medieval, ergue-se sobre o Hauptplatz com o seu campanário. Como na maioria dos locais de culto, os cães não são admitidos no interior, mas o adro e as ruas em redor visitam-se facilmente com trela.`,
+        },
+      },
+      {
+        name: 'Maltschacher See',
+        emoji: '🏊',
+        petFriendly: true,
+        desc: {
+          fr: `Ce petit lac de baignade à quelques minutes de la ville figure parmi les plans d'eau les plus tièdes de Carinthie, avec des rives boisées et calmes. Certaines zones enherbées tolèrent les chiens et une aire de baignade canine est aménagée sur plusieurs lacs carinthiens ; vérifiez la signalétique locale avant de laisser votre chien nager.`,
+          en: `This small bathing lake a few minutes from town is among the warmest in Carinthia, with quiet wooded shores. Some grassy areas allow dogs and dog-swim zones are set up on several Carinthian lakes; check the local signage before letting your dog swim.`,
+          es: `Este pequeño lago de baño a pocos minutos de la villa figura entre los más templados de Carintia, con orillas boscosas y tranquilas. Algunas zonas de césped admiten perros y hay áreas de baño canino habilitadas en varios lagos carintios; consulta la señalización local antes de dejar nadar a tu perro.`,
+          pt: `Este pequeno lago de banho a poucos minutos da vila está entre os mais mornos da Caríntia, com margens arborizadas e tranquilas. Algumas zonas relvadas admitem cães e há áreas de banho canino em vários lagos carintios; verifique a sinalização local antes de deixar o seu cão nadar.`,
+        },
+      },
+      {
+        name: 'Ossiacher See',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Troisième plus grand lac de Carinthie, l'Ossiacher See s'étire au sud de Feldkirchen entre la Gerlitzen et le monastère d'Ossiach. Plusieurs plages disposent d'espaces de baignade réservés aux chiens (Hundestrand) ; ailleurs, tenez votre chien en laisse sur les rives et les promenades très fréquentées en été.`,
+          en: `Carinthia's third-largest lake, the Ossiacher See stretches south of Feldkirchen between the Gerlitzen and Ossiach abbey. Several beaches have dedicated dog-swim sections (Hundestrand); elsewhere keep your dog on lead along the shores and promenades, which are busy in summer.`,
+          es: `Tercer lago más grande de Carintia, el Ossiacher See se extiende al sur de Feldkirchen entre la Gerlitzen y la abadía de Ossiach. Varias playas cuentan con secciones de baño para perros (Hundestrand); en el resto, lleva a tu perro con correa por las orillas y paseos, muy concurridos en verano.`,
+          pt: `Terceiro maior lago da Caríntia, o Ossiacher See estende-se a sul de Feldkirchen entre a Gerlitzen e a abadia de Ossiach. Várias praias têm secções de banho para cães (Hundestrand); no resto, mantenha o cão com trela nas margens e passeios, muito movimentados no verão.`,
+        },
+      },
+      {
+        name: 'Gerlitzen Alpe',
+        emoji: '🚠',
+        petFriendly: true,
+        desc: {
+          fr: `Ce sommet-belvédère de près de 1 900 mètres, desservi par un télécabine, offre un panorama à 360 degrés sur les lacs et les Alpes carinthiennes. Les chiens sont généralement admis dans les cabines (souvent muselés ou tenus en laisse selon le règlement) et sur les sentiers d'altitude ; renseignez-vous auprès de la station avant de monter.`,
+          en: `This viewpoint summit of nearly 1,900 metres, served by a cable car, gives a 360-degree panorama over the lakes and the Carinthian Alps. Dogs are generally allowed in the gondolas (often muzzled or leashed per the rules) and on the high trails; check with the lift station before going up.`,
+          es: `Esta cima mirador de casi 1.900 metros, servida por un teleférico, ofrece una panorámica de 360 grados sobre los lagos y los Alpes carintios. Los perros suelen admitirse en las cabinas (a menudo con bozal o correa según el reglamento) y en los senderos de altura; infórmate en la estación antes de subir.`,
+          pt: `Este cume miradouro de quase 1.900 metros, servido por um teleférico, oferece uma panorâmica de 360 graus sobre os lagos e os Alpes carintios. Os cães costumam ser admitidos nas cabinas (muitas vezes com açaimo ou trela conforme o regulamento) e nos trilhos de altitude; informe-se na estação antes de subir.`,
+        },
+      },
+      {
+        name: 'Nockberge',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Au nord de la ville, la réserve de biosphère des Nockberge déroule des montagnes rondes et herbeuses sillonnées de sentiers de randonnée et d'alpages. Les chiens en laisse y sont les bienvenus ; gardez vos distances avec les troupeaux et les vaches en estive, qui peuvent charger un chien perçu comme une menace.`,
+          en: `North of town, the Nockberge biosphere reserve unfolds rounded grassy mountains laced with hiking trails and summer pastures. Leashed dogs are welcome; keep your distance from grazing herds and cattle, which may charge a dog they see as a threat.`,
+          es: `Al norte de la villa, la reserva de la biosfera de los Nockberge despliega montañas redondeadas y herbosas surcadas de senderos y pastos de verano. Los perros con correa son bienvenidos; mantén la distancia con los rebaños y las vacas de pasto, que pueden embestir a un perro que perciban como amenaza.`,
+          pt: `A norte da vila, a reserva da biosfera dos Nockberge estende montanhas arredondadas e relvadas percorridas por trilhos e pastagens de verão. Os cães com trela são bem-vindos; mantenha a distância dos rebanhos e do gado em pastagem, que pode investir contra um cão que veja como ameaça.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `En été, les lacs carinthiens comptent parmi les plus chauds des Alpes : idéal pour la baignade des chiens, mais réservez les plages où une zone canine (Hundestrand) est signalée et rincez le pelage après un bain en eau douce.`,
+        `Les alpages et forêts des Nockberge et de la Gerlitzen sont infestés de tiques du printemps à l'automne : appliquez un antiparasitaire et inspectez votre chien après chaque randonnée.`,
+        `Attention aux troupeaux en estive : sur les alpages, gardez votre chien en laisse courte et contournez largement les vaches et les moutons, qui peuvent charger.`,
+        `L'hiver est enneigé et froid : prévoyez un manteau pour les chiens frileux et surveillez le sel de déneigement, qui irrite les coussinets sur les trottoirs de la ville.`,
+        `Sur le télécabine de la Gerlitzen, les chiens sont admis selon un règlement précis (laisse et parfois muselière) : vérifiez les conditions à la caisse avant de monter avec votre animal.`,
+      ],
+      en: [
+        `In summer the Carinthian lakes are among the warmest in the Alps: great for dog swims, but stick to beaches with a signposted dog zone (Hundestrand) and rinse the coat after a freshwater dip.`,
+        `The pastures and forests of the Nockberge and Gerlitzen are tick-heavy from spring to autumn: use a parasite treatment and check your dog after every hike.`,
+        `Beware grazing herds on the alpine pastures: keep your dog on a short lead and give cattle and sheep a wide berth, as they may charge.`,
+        `Winter is snowy and cold: pack a coat for cold-sensitive dogs and watch for de-icing salt, which irritates paw pads on the town's pavements.`,
+        `On the Gerlitzen cable car, dogs are admitted under specific rules (lead and sometimes a muzzle): check the conditions at the ticket desk before going up with your pet.`,
+      ],
+      es: [
+        `En verano los lagos de Carintia figuran entre los más cálidos de los Alpes: ideales para el baño de perros, pero limítate a las playas con zona canina señalizada (Hundestrand) y enjuaga el pelaje tras el baño en agua dulce.`,
+        `Los pastos y bosques de los Nockberge y la Gerlitzen están llenos de garrapatas de primavera a otoño: aplica un antiparasitario e inspecciona a tu perro tras cada caminata.`,
+        `Cuidado con los rebaños de pasto: en los alpes, lleva a tu perro con correa corta y rodea con amplitud vacas y ovejas, que pueden embestir.`,
+        `El invierno es nevado y frío: lleva un abrigo para los perros frioleros y vigila la sal de deshielo, que irrita las almohadillas en las aceras de la villa.`,
+        `En el teleférico de la Gerlitzen los perros se admiten con un reglamento concreto (correa y a veces bozal): consulta las condiciones en taquilla antes de subir con tu mascota.`,
+      ],
+      pt: [
+        `No verão os lagos da Caríntia estão entre os mais quentes dos Alpes: ótimos para banhos de cães, mas limite-se às praias com zona canina sinalizada (Hundestrand) e enxágue o pelo após o banho em água doce.`,
+        `As pastagens e florestas dos Nockberge e da Gerlitzen estão cheias de carraças da primavera ao outono: aplique um antiparasitário e inspecione o seu cão após cada caminhada.`,
+        `Cuidado com os rebanhos em pastagem: nos alpes, mantenha o cão com trela curta e contorne com folga vacas e ovelhas, que podem investir.`,
+        `O inverno é com neve e frio: leve um casaco para cães friorentos e atenção ao sal de degelo, que irrita as almofadas nas calçadas da vila.`,
+        `No teleférico da Gerlitzen os cães são admitidos com um regulamento específico (trela e por vezes açaimo): verifique as condições na bilheteira antes de subir com o seu animal.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrer en Autriche depuis un pays de l'UE se fait avec le passeport européen pour animaux : puce électronique et vaccination antirabique à jour.`,
+        `Numéro d'urgence unique européen : 112. Pour un secours médical, composez le 144. Il n'existe pas de ligne vétérinaire nationale ; demandez à votre hébergement le vétérinaire de garde le plus proche.`,
+        `Se déplacer : Feldkirchen est compacte et se parcourt à pied ; les chiens tenus en laisse (petits chiens souvent muselés selon le règlement) sont admis dans les trains ÖBB et les bus régionaux de Carinthie.`,
+        `Règle locale : chiens en laisse dans le centre-ville et ramassage obligatoire des déjections ; sur les alpages et près des troupeaux, la laisse est vivement recommandée.`,
+        `Feldkirchen est à une vingtaine de minutes de Villach et au bord de la région des lacs : une base pratique pour explorer l'Ossiacher See, la Gerlitzen et les Nockberge avec un animal.`,
+      ],
+      en: [
+        `Entering Austria from an EU country uses the European pet passport: microchip and up-to-date rabies vaccination.`,
+        `Single European emergency number: 112. For medical rescue, dial 144. There is no national veterinary line; ask your accommodation for the nearest on-call vet.`,
+        `Getting around: Feldkirchen is compact and walkable; leashed dogs (small dogs often muzzled per the rules) are allowed on ÖBB trains and Carinthian regional buses.`,
+        `Local rule: dogs on lead in the town centre and picking up after them is mandatory; on the alpine pastures and near herds, a lead is strongly advised.`,
+        `Feldkirchen is about twenty minutes from Villach and on the edge of the lake district: a handy base to explore the Ossiacher See, the Gerlitzen and the Nockberge with a pet.`,
+      ],
+      es: [
+        `Entrar en Austria desde un país de la UE se hace con el pasaporte europeo para mascotas: microchip y vacunación antirrábica al día.`,
+        `Número único europeo de emergencias: 112. Para rescate médico, marca el 144. No existe una línea veterinaria nacional; pide a tu alojamiento el veterinario de guardia más cercano.`,
+        `Moverse: Feldkirchen es compacta y se recorre a pie; los perros con correa (los pequeños a menudo con bozal según el reglamento) se admiten en los trenes ÖBB y los autobuses regionales de Carintia.`,
+        `Norma local: perros con correa en el centro y recogida obligatoria de excrementos; en los alpes y cerca de los rebaños, la correa es muy recomendable.`,
+        `Feldkirchen está a unos veinte minutos de Villach y al borde de la región de lagos: una base práctica para explorar el Ossiacher See, la Gerlitzen y los Nockberge con mascota.`,
+      ],
+      pt: [
+        `Entrar na Áustria a partir de um país da UE faz-se com o passaporte europeu para animais: microchip e vacinação antirrábica em dia.`,
+        `Número único europeu de emergência: 112. Para socorro médico, marque 144. Não existe uma linha veterinária nacional; peça ao seu alojamento o veterinário de urgência mais próximo.`,
+        `Deslocações: Feldkirchen é compacta e percorre-se a pé; os cães com trela (os pequenos muitas vezes com açaimo conforme o regulamento) são admitidos nos comboios ÖBB e nos autocarros regionais da Caríntia.`,
+        `Regra local: cães com trela no centro e recolha obrigatória dos dejetos; nas pastagens alpinas e junto a rebanhos, a trela é vivamente recomendada.`,
+        `Feldkirchen fica a cerca de vinte minutos de Villach e à beira da região de lagos: uma base prática para explorar o Ossiacher See, a Gerlitzen e os Nockberge com um animal.`,
+      ],
+    },
+  },
+
   'gran-canaria': {
     history: {
       fr: `Habitée depuis l'Antiquité par les Guanches, peuple aborigène d'origine berbère, Gran Canaria fut conquise par la Couronne de Castille en 1483 au terme de cinq ans de résistance. Sa capitale, Las Palmas de Gran Canaria, fondée en 1478, devint un port atlantique clé sur la route des Amériques : Christophe Colomb y fit escale en 1492 avant de traverser l'Atlantique. L'île prospéra grâce au sucre, puis au vin et à la cochenille, avant que le tourisme ne la transforme au XXe siècle. Aujourd'hui, Gran Canaria est la deuxième île la plus peuplée des Canaries avec environ 850 000 habitants, surnommée le continent miniature pour la diversité de ses paysages, des dunes de Maspalomas aux sommets volcaniques du Roque Nublo. Son climat subtropical, doux toute l'année, en fait l'une des escapades hivernales les plus prisées d'Europe pour les voyageurs avec animaux.`,
@@ -35570,6 +35707,143 @@ const cityContent: Record<string, CityContent> = {
         'Os autocarros Dbus admiten cães com trela e bozal em horas vale; cães pequenos em transportadora sempre, uma das redes urbanas mais permisivas de España.',
         'Excursiones: Pasai Donibane (o ferry admite cães), Hondarribia e a costa vasco-francesa, todas a menos de 40 min e muito pet-friendly.',
         'Suministros: Kiwoko no centro e várias clínicas-tienda em Gros e antigo.',
+      ],
+    },
+  },
+
+  'sankt-polten': {
+    history: {
+      fr: `Sankt Pölten, capitale de la Basse-Autriche (Niederösterreich), s'étend sur les rives de la Traisen, entre Vienne et la vallée de la Wachau. Sa vieille ville baroque se déploie autour du Rathausplatz, l'une des plus belles places du pays, ourlée d'hôtels particuliers, d'églises et de façades ornées héritées du XVIIIᵉ siècle. La cathédrale et les bâtiments de l'Institut des Anglaises témoignent de ce riche passé religieux et architectural. À l'écart du centre historique, le quartier gouvernemental et culturel (Regierungsviertel) affiche une architecture résolument moderne, avec la tour sonore Klangturm et le théâtre régional. Le long de la rivière, le parc de la Traisen et le Sonnenpark offrent de vastes espaces verts, tandis que les lacs de Viehofen, au nord, servent de plans d'eau de baignade en été. Le climat est continental : étés chauds, hivers froids et parfois neigeux. Autriche, zone euro, membre de l'UE. Urgences : 112, secours 144.`,
+      en: `Sankt Pölten, capital of Lower Austria (Niederösterreich), spreads along the banks of the Traisen river, between Vienna and the Wachau valley. Its baroque old town unfolds around the Rathausplatz, one of the finest squares in the country, edged with mansions, churches and ornate 18th-century facades. The Cathedral and the buildings of the Institute of the English Ladies attest to this rich religious and architectural past. Away from the historic centre, the government and cultural district (Regierungsviertel) shows off resolutely modern architecture, with the Klangturm sound tower and the regional theatre. Along the river, the Traisen park and the Sonnenpark offer wide green spaces, while the Viehofen lakes to the north serve as summer bathing waters. The climate is continental: warm summers, cold and sometimes snowy winters. Austria, eurozone, EU member. Emergencies: 112, medical rescue 144.`,
+      es: `Sankt Pölten, capital de la Baja Austria (Niederösterreich), se extiende por las orillas del río Traisen, entre Viena y el valle de la Wachau. Su casco antiguo barroco se despliega en torno al Rathausplatz, una de las plazas más bellas del país, orlada de palacetes, iglesias y fachadas ornamentadas del siglo XVIII. La catedral y los edificios del Instituto de las Damas Inglesas dan fe de este rico pasado religioso y arquitectónico. Lejos del centro histórico, el barrio gubernamental y cultural (Regierungsviertel) luce una arquitectura decididamente moderna, con la torre sonora Klangturm y el teatro regional. Junto al río, el parque del Traisen y el Sonnenpark ofrecen amplios espacios verdes, mientras que los lagos de Viehofen, al norte, sirven de aguas de baño en verano. El clima es continental: veranos cálidos, inviernos fríos y a veces nevados. Austria, zona euro, miembro de la UE. Emergencias: 112, rescate médico 144.`,
+      pt: `Sankt Pölten, capital da Baixa Áustria (Niederösterreich), estende-se pelas margens do rio Traisen, entre Viena e o vale da Wachau. O seu centro histórico barroco desenrola-se em torno do Rathausplatz, uma das mais belas praças do país, orlada de palacetes, igrejas e fachadas ornamentadas do século XVIII. A catedral e os edifícios do Instituto das Damas Inglesas atestam esse rico passado religioso e arquitetónico. Longe do centro histórico, o bairro governamental e cultural (Regierungsviertel) exibe uma arquitetura decididamente moderna, com a torre sonora Klangturm e o teatro regional. Junto ao rio, o parque do Traisen e o Sonnenpark oferecem amplos espaços verdes, enquanto os lagos de Viehofen, a norte, servem de águas de banho no verão. O clima é continental: verões quentes, invernos frios e por vezes com neve. Áustria, zona euro, membro da UE. Emergências: 112, socorro médico 144.`,
+    },
+    sights: [
+      {
+        name: 'Rathausplatz',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `La grande place de l'hôtel de ville, cœur de la vieille ville baroque, aligne façades ornées, colonne de la Trinité et terrasses de café. Les chiens en laisse y sont les bienvenus pour une promenade dans le centre piéton ; l'entrée des cafés et boutiques reste à la discrétion de chaque commerçant.`,
+          en: `The grand town-hall square, heart of the baroque old town, lines up ornate facades, a Trinity column and cafe terraces. Leashed dogs are welcome for a stroll through the pedestrian centre; entering the cafes and shops is at each owner's discretion.`,
+          es: `La gran plaza del ayuntamiento, corazón del casco antiguo barroco, alinea fachadas ornamentadas, una columna de la Trinidad y terrazas de café. Los perros con correa son bienvenidos para pasear por el centro peatonal; entrar en los cafés y comercios queda a discreción de cada dueño.`,
+          pt: `A grande praça da câmara municipal, coração do centro histórico barroco, alinha fachadas ornamentadas, uma coluna da Trindade e esplanadas de café. Os cães com trela são bem-vindos para um passeio pelo centro pedonal; entrar nos cafés e lojas fica ao critério de cada dono.`,
+        },
+      },
+      {
+        name: 'Dom (Cathédrale)',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `La cathédrale de Sankt Pölten, d'origine romane et richement transformée à l'époque baroque, abrite un intérieur somptueux. Comme dans la plupart des lieux de culte, les chiens ne sont pas admis à l'intérieur, mais la place attenante et les ruelles de la vieille ville se parcourent en laisse.`,
+          en: `Sankt Pölten's cathedral, Romanesque in origin and richly transformed in the baroque era, holds a sumptuous interior. As in most places of worship, dogs are not allowed inside, but the adjoining square and the old-town lanes can be walked on lead.`,
+          es: `La catedral de Sankt Pölten, de origen románico y ricamente transformada en la época barroca, alberga un interior suntuoso. Como en la mayoría de los lugares de culto, los perros no se admiten en el interior, pero la plaza contigua y las callejuelas del casco antiguo se recorren con correa.`,
+          pt: `A catedral de Sankt Pölten, de origem românica e ricamente transformada na época barroca, abriga um interior sumptuoso. Como na maioria dos locais de culto, os cães não são admitidos no interior, mas a praça contígua e as ruelas do centro histórico percorrem-se com trela.`,
+        },
+      },
+      {
+        name: 'Regierungsviertel et Klangturm',
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: `Le quartier gouvernemental moderne aligne architecture contemporaine, esplanades et la tour sonore Klangturm, repère de la ville. Les vastes espaces extérieurs et les allées se parcourent en laisse ; l'intérieur de la tour, du théâtre régional et des musées n'admet en général que les chiens d'assistance.`,
+          en: `The modern government district lines up contemporary architecture, plazas and the Klangturm sound tower, a city landmark. The wide outdoor spaces and walkways can be strolled on lead; the interiors of the tower, the regional theatre and the museums generally admit only assistance dogs.`,
+          es: `El moderno barrio gubernamental alinea arquitectura contemporánea, explanadas y la torre sonora Klangturm, referente de la ciudad. Los amplios espacios exteriores y los paseos se recorren con correa; el interior de la torre, del teatro regional y de los museos suele admitir solo perros de asistencia.`,
+          pt: `O moderno bairro governamental alinha arquitetura contemporânea, esplanadas e a torre sonora Klangturm, marco da cidade. Os amplos espaços exteriores e os passeios percorrem-se com trela; o interior da torre, do teatro regional e dos museus costuma admitir apenas cães de assistência.`,
+        },
+      },
+      {
+        name: 'Sonnenpark et parc de la Traisen',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le long de la rivière Traisen, une chaîne d'espaces verts dont le Sonnenpark offre pelouses, sentiers ombragés et bords d'eau. Les chiens en laisse y sont les bienvenus pour de longues promenades ; ramassez les déjections et vérifiez la signalétique là où des zones sans laisse sont éventuellement autorisées.`,
+          en: `Along the Traisen river, a chain of green spaces including the Sonnenpark offers lawns, shaded paths and waterside walks. Leashed dogs are welcome for long strolls; pick up after them and check the signage where off-leash zones may be allowed.`,
+          es: `A lo largo del río Traisen, una cadena de espacios verdes que incluye el Sonnenpark ofrece céspedes, senderos sombreados y orillas. Los perros con correa son bienvenidos para largos paseos; recoge los excrementos y consulta la señalización donde puedan permitirse zonas sin correa.`,
+          pt: `Ao longo do rio Traisen, uma cadeia de espaços verdes que inclui o Sonnenpark oferece relvados, caminhos sombreados e margens. Os cães com trela são bem-vindos para longos passeios; recolha os dejetos e verifique a sinalização onde possam ser permitidas zonas sem trela.`,
+        },
+      },
+      {
+        name: 'Viehofner Seen',
+        emoji: '🏊',
+        petFriendly: true,
+        desc: {
+          fr: `Au nord de la ville, ces lacs de baignade nés d'anciennes gravières offrent rives enherbées et eaux calmes en été. Certaines sections tolèrent les chiens et une aire de baignade canine peut y être signalée ; vérifiez la signalétique locale et tenez votre chien à l'écart des zones de baignade familiales.`,
+          en: `North of town, these bathing lakes formed from old gravel pits offer grassy shores and calm water in summer. Some sections allow dogs and a dog-swim area may be signposted; check the local signage and keep your dog away from the family swimming zones.`,
+          es: `Al norte de la ciudad, estos lagos de baño surgidos de antiguas graveras ofrecen orillas herbosas y aguas tranquilas en verano. Algunas secciones admiten perros y puede señalizarse un área de baño canino; consulta la señalización local y mantén al perro lejos de las zonas de baño familiares.`,
+          pt: `A norte da cidade, estes lagos de banho nascidos de antigas pedreiras de cascalho oferecem margens relvadas e águas tranquilas no verão. Algumas secções admitem cães e pode estar sinalizada uma área de banho canino; verifique a sinalização local e mantenha o cão longe das zonas de banho familiares.`,
+        },
+      },
+      {
+        name: 'Vallée de la Wachau',
+        emoji: '🍇',
+        petFriendly: true,
+        desc: {
+          fr: `À courte distance à l'ouest, la Wachau déroule ses vignobles en terrasses le long du Danube, classés au patrimoine mondial. Les chiens en laisse sont les bienvenus sur les sentiers viticoles et dans les villages ; respectez les vignes clôturées et évitez les périodes de vendange où l'activité est intense.`,
+          en: `A short way west, the Wachau unfolds its terraced vineyards along the Danube, a World Heritage landscape. Leashed dogs are welcome on the vineyard trails and in the villages; respect the fenced vines and avoid the harvest season, when activity is intense.`,
+          es: `A poca distancia al oeste, la Wachau despliega sus viñedos en terrazas junto al Danubio, paisaje Patrimonio de la Humanidad. Los perros con correa son bienvenidos en los senderos vitícolas y en los pueblos; respeta las viñas valladas y evita la vendimia, cuando la actividad es intensa.`,
+          pt: `A curta distância a oeste, a Wachau estende os seus vinhedos em terraços ao longo do Danúbio, paisagem Património Mundial. Os cães com trela são bem-vindos nos trilhos vinícolas e nas aldeias; respeite as vinhas vedadas e evite a época das vindimas, quando a atividade é intensa.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `En été, le climat continental peut être chaud : promenez votre chien tôt le matin ou en soirée, et profitez des lacs de Viehofen là où une zone canine est signalée pour le rafraîchir.`,
+        `Les rives boisées de la Traisen et les vignobles de la Wachau abritent des tiques du printemps à l'automne : appliquez un antiparasitaire et inspectez votre chien après chaque promenade.`,
+        `L'hiver est froid et parfois neigeux : prévoyez un manteau pour les chiens frileux et rincez les coussinets exposés au sel de déneigement sur les trottoirs.`,
+        `Dans la Wachau, restez sur les sentiers balisés et tenez votre chien en laisse près des vignes clôturées ; évitez la période des vendanges, très fréquentée.`,
+        `Sankt Pölten est un nœud ferroviaire vers Vienne : pour une excursion en train, munissez votre chien d'une laisse (et d'une muselière pour les grands chiens, souvent exigée sur les ÖBB).`,
+      ],
+      en: [
+        `In summer the continental climate can be hot: walk your dog early morning or evening, and use the Viehofen lakes where a dog zone is signposted to cool off.`,
+        `The wooded banks of the Traisen and the Wachau vineyards harbour ticks from spring to autumn: apply a parasite treatment and check your dog after every walk.`,
+        `Winter is cold and sometimes snowy: pack a coat for cold-sensitive dogs and rinse paw pads exposed to de-icing salt on the pavements.`,
+        `In the Wachau, stay on marked trails and keep your dog on lead near the fenced vines; avoid the busy harvest season.`,
+        `Sankt Pölten is a rail hub to Vienna: for a train day trip, put your dog on a lead (and a muzzle for large dogs, often required on ÖBB).`,
+      ],
+      es: [
+        `En verano el clima continental puede ser caluroso: pasea a tu perro a primera hora o al atardecer, y usa los lagos de Viehofen donde haya zona canina señalizada para refrescarlo.`,
+        `Las orillas boscosas del Traisen y los viñedos de la Wachau albergan garrapatas de primavera a otoño: aplica un antiparasitario e inspecciona a tu perro tras cada paseo.`,
+        `El invierno es frío y a veces nevado: lleva un abrigo para los perros frioleros y enjuaga las almohadillas expuestas a la sal de deshielo en las aceras.`,
+        `En la Wachau, mantente en los senderos señalizados y lleva al perro con correa cerca de las viñas valladas; evita la concurrida temporada de vendimia.`,
+        `Sankt Pölten es un nudo ferroviario hacia Viena: para una excursión en tren, lleva a tu perro con correa (y bozal para los perros grandes, a menudo exigido en los ÖBB).`,
+      ],
+      pt: [
+        `No verão o clima continental pode ser quente: passeie o seu cão de manhã cedo ou ao fim do dia, e use os lagos de Viehofen onde houver zona canina sinalizada para o refrescar.`,
+        `As margens arborizadas do Traisen e os vinhedos da Wachau abrigam carraças da primavera ao outono: aplique um antiparasitário e inspecione o seu cão após cada passeio.`,
+        `O inverno é frio e por vezes com neve: leve um casaco para cães friorentos e enxágue as almofadas expostas ao sal de degelo nas calçadas.`,
+        `Na Wachau, mantenha-se nos trilhos sinalizados e leve o cão com trela junto às vinhas vedadas; evite a movimentada época das vindimas.`,
+        `Sankt Pölten é um nó ferroviário para Viena: para uma excursão de comboio, leve o seu cão com trela (e açaimo para cães grandes, muitas vezes exigido nos ÖBB).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrer en Autriche depuis un pays de l'UE se fait avec le passeport européen pour animaux : puce électronique et vaccination antirabique à jour.`,
+        `Numéro d'urgence unique européen : 112. Pour un secours médical, composez le 144. Il n'existe pas de ligne vétérinaire nationale ; demandez à votre hébergement le vétérinaire de garde le plus proche.`,
+        `Se déplacer : le centre de Sankt Pölten est compact et se parcourt à pied ; les chiens tenus en laisse (grands chiens souvent muselés selon le règlement) sont admis dans les trains ÖBB et les bus régionaux.`,
+        `Règle locale : chiens en laisse dans le centre-ville et ramassage obligatoire des déjections ; respectez la signalétique des parcs quant aux zones où la liberté est autorisée.`,
+        `Sankt Pölten est à moins de 30 minutes de Vienne en train et aux portes de la Wachau et de l'abbaye de Melk : une base pratique pour rayonner en Basse-Autriche avec un animal.`,
+      ],
+      en: [
+        `Entering Austria from an EU country uses the European pet passport: microchip and up-to-date rabies vaccination.`,
+        `Single European emergency number: 112. For medical rescue, dial 144. There is no national veterinary line; ask your accommodation for the nearest on-call vet.`,
+        `Getting around: central Sankt Pölten is compact and walkable; leashed dogs (large dogs often muzzled per the rules) are allowed on ÖBB trains and regional buses.`,
+        `Local rule: dogs on lead in the town centre and picking up after them is mandatory; follow the park signage regarding zones where off-leash is allowed.`,
+        `Sankt Pölten is under 30 minutes from Vienna by train and at the gateway to the Wachau and Melk Abbey: a handy base for touring Lower Austria with a pet.`,
+      ],
+      es: [
+        `Entrar en Austria desde un país de la UE se hace con el pasaporte europeo para mascotas: microchip y vacunación antirrábica al día.`,
+        `Número único europeo de emergencias: 112. Para rescate médico, marca el 144. No existe una línea veterinaria nacional; pide a tu alojamiento el veterinario de guardia más cercano.`,
+        `Moverse: el centro de Sankt Pölten es compacto y se recorre a pie; los perros con correa (los grandes a menudo con bozal según el reglamento) se admiten en los trenes ÖBB y los autobuses regionales.`,
+        `Norma local: perros con correa en el centro y recogida obligatoria de excrementos; respeta la señalización de los parques sobre las zonas donde se permite ir sin correa.`,
+        `Sankt Pölten está a menos de 30 minutos de Viena en tren y a las puertas de la Wachau y la abadía de Melk: una base práctica para recorrer la Baja Austria con mascota.`,
+      ],
+      pt: [
+        `Entrar na Áustria a partir de um país da UE faz-se com o passaporte europeu para animais: microchip e vacinação antirrábica em dia.`,
+        `Número único europeu de emergência: 112. Para socorro médico, marque 144. Não existe uma linha veterinária nacional; peça ao seu alojamento o veterinário de urgência mais próximo.`,
+        `Deslocações: o centro de Sankt Pölten é compacto e percorre-se a pé; os cães com trela (os grandes muitas vezes com açaimo conforme o regulamento) são admitidos nos comboios ÖBB e nos autocarros regionais.`,
+        `Regra local: cães com trela no centro e recolha obrigatória dos dejetos; siga a sinalização dos parques quanto às zonas onde é permitido andar sem trela.`,
+        `Sankt Pölten fica a menos de 30 minutos de Viena de comboio e à porta da Wachau e da abadia de Melk: uma base prática para percorrer a Baixa Áustria com um animal.`,
       ],
     },
   },

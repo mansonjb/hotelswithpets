@@ -14670,10 +14670,10 @@ const cityContent: Record<string, CityContent> = {
 
   florence: {
     history: {
-      fr: `Florence est le berceau de la Renaissance. C'est ici, entre le XIVe et le XVIe siècle, que les Médicis ont financé Botticelli, Léonard de Vinci, Michel-Ange et Brunelleschi, transformant une cité marchande prospère em centre mondial de la culture et des arts. La Florence d'aujourd'hui est une ville à taille humaine (370 000 habitants) qui préserve avec soin ce patrimoine exceptionnel : 70% du patrimoine mondial de l'art selon une estimation célèbre est concentré em Italie, dont une part considérable à Florence. Mais Florence est aussi une ville vivante, avec ses marchés, ses cafés em terrasse le long de l'Arno et une culture canine très développée, les chiens accompagnent leurs maîtres dans les marchés couverts, les bars à vin et les jardins historiques.`,
+      fr: `Florence est le berceau de la Renaissance. C'est ici, entre le XIVe et le XVIe siècle, que les Médicis ont financé Botticelli, Léonard de Vinci, Michel-Ange et Brunelleschi, transformant une cité marchande prospère en centre mondial de la culture et des arts. La Florence d'aujourd'hui est une ville à taille humaine (370 000 habitants) qui préserve avec soin ce patrimoine exceptionnel : 70% du patrimoine mondial de l'art selon une estimation célèbre est concentré en Italie, dont une part considérable à Florence. Mais Florence est aussi une ville vivante, avec ses marchés, ses cafés en terrasse le long de l'Arno et une culture canine très développée, les chiens accompagnent leurs maîtres dans les marchés couverts, les bars à vin et les jardins historiques.`,
       en: `Florence is the cradle of the Renaissance. It was here, between the 14th and 16th centuries, that the Medicis funded Botticelli, Leonardo da Vinci, Michelangelo and Brunelleschi, transforming a prosperous merchant city into the world's cultural and artistic centre. Today's Florence is a human-scaled city (370,000 inhabitants) that carefully preserves this exceptional heritage: an estimated 70% of the world's art heritage is concentrated in Italy, a considerable share of it in Florence. But Florence is also a living city, with its markets, terrace cafés along the Arno and a very developed canine culture, dogs accompany their owners in covered markets, wine bars and historic gardens.`,
-      es: `Florencia es la cuna del Renacimiento. Fue aquí, entre los siglos XIV y XVI, donde los Médici financiaron a Botticelli, Leonardo da Vinci, Miguel Ángel y Brunelleschi, transformando una próspera ciudad mercantil em o centro mundial de la cultura y las artes. La Florencia de hoy es uma cidade a escala humana (370.000 habitantes) que cuida con esmero ese patrimonio excepcional: según una célebre estimación, el 70% del patrimonio artístico mundial está concentrado em Italia, y una parte considerable de él em Florencia. Pero Florencia también es uma cidade viva, con sus mercados, sus terrazas de café a orillas del Arno y una cultura canina muy desarrollada: los perros acompañan a sus dueños em los mercados cubiertos, los bares de vinos y los jardines históricos.`,
-      pt: `Florencia é a cuna do Renacimiento. Foi aqui, entre os séculos XIV e XVI, onde os Médici financiaron a Botticelli, Leonardo da Vinci, Miguel Ángel e Brunelleschi, transformando uma próspera cidade mercantil no centro mundial da cultura e as artes. A Florencia de hoy é uma cidade a escala humana (370.000 habitantes) que cuida com esmero esse patrimonio excecional: segundo uma célebre estimación, o 70% do patrimonio artístico mundial está concentrado em Italia, e uma parte considerable de él em Florencia. Mas Florencia também é uma cidade viva, com os seus mercados, os seus esplanadas de café a margens do Arno e uma cultura canina muito desenvolvida: os cães acompanhan aos seus donos nos mercados cubiertos, os bares de vinos e os jardins históricos.`,
+      es: `Florencia es la cuna del Renacimiento. Fue aquí, entre los siglos XIV y XVI, donde los Médici financiaron a Botticelli, Leonardo da Vinci, Miguel Ángel y Brunelleschi, transformando una próspera ciudad mercantil en el centro mundial de la cultura y las artes. La Florencia de hoy es una ciudad a escala humana (370.000 habitantes) que cuida con esmero ese patrimonio excepcional: según una célebre estimación, el 70% del patrimonio artístico mundial está concentrado en Italia, y una parte considerable de él en Florencia. Pero Florencia también es una ciudad viva, con sus mercados, sus terrazas de café a orillas del Arno y una cultura canina muy desarrollada: los perros acompañan a sus dueños en los mercados cubiertos, los bares de vinos y los jardines históricos.`,
+      pt: `Florença é o berço do Renascimento. Foi aqui, entre os séculos XIV e XVI, que os Médici financiaram Botticelli, Leonardo da Vinci, Miguel Ângelo e Brunelleschi, transformando uma próspera cidade mercantil no centro mundial da cultura e das artes. A Florença de hoje é uma cidade à escala humana (370.000 habitantes) que preserva com esmero este património excecional: segundo uma célebre estimativa, 70% do património artístico mundial está concentrado em Itália, e uma parte considerável dele em Florença. Mas Florença é também uma cidade viva, com os seus mercados, os seus cafés com esplanada nas margens do Arno e uma cultura canina muito desenvolvida: os cães acompanham os seus donos nos mercados cobertos, nos bares de vinhos e nos jardins históricos.`,
     },
     sights: [
       {
@@ -14681,10 +14681,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌿',
         petFriendly: true,
         desc: {
-          fr: 'Le jardin à l\'italienne derrière le Palazzo Pitti (45 000 m²) est accessible aux chiens em laisse. Terrasses, grottes, statues et vue panoramique sur Florence depuis le belvédère. Les chiens sont admis moyennant droit d\'entrée.',
+          fr: 'Le jardin à l\'italienne derrière le Palazzo Pitti (45 000 m²) est accessible aux chiens en laisse. Terrasses, grottes, statues et vue panoramique sur Florence depuis le belvédère. Les chiens sont admis moyennant droit d\'entrée.',
           en: 'The Italian garden behind the Palazzo Pitti (45,000 m²) is accessible to dogs on leads. Terraces, grottos, statues and panoramic views over Florence from the belvedere. Dogs admitted with entry fee.',
-          es: 'El jardín italiano detrás del Palazzo Pitti (45.000 m²) es acessível para perros com trela. Terrazas, grutas, estatuas y vistas panorámicas sobre Florencia desde el mirador. Los perros están admitidos previo pago de entrada.',
-          pt: 'O jardim italiano detrás do Palazzo Pitti (45.000 m²) é acessível para cães com trela. Esplanadas, grutas, estatuas e vistas panorámicas sobre Florencia a partir do mirador. Os cães estão admitidos previo pago de entrada.',
+          es: 'El jardín italiano detrás del Palazzo Pitti (45.000 m²) es accesible para perros con correa. Terrazas, grutas, estatuas y vistas panorámicas sobre Florencia desde el mirador. Los perros están admitidos previo pago de entrada.',
+          pt: 'O jardim italiano por trás do Palazzo Pitti (45.000 m²) é acessível a cães com trela. Esplanadas, grutas, estátuas e vistas panorâmicas sobre Florença a partir do miradouro. Os cães são admitidos mediante pagamento de entrada.',
         },
       },
       {
@@ -14694,8 +14694,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Le grand parc linéaire de Florence (160 ha) le long de l\'Arno est le terrain de jeu préféré des Florentins et de leurs chiens. Zones sans laisse dans plusieurs sections, pistes cyclables et courts de tennis. Le marché du mardi y est animé.',
           en: 'Florence\'s large linear park (160 ha) along the Arno is the favourite playground of Florentines and their dogs. Off-leash areas in several sections, cycle paths and tennis courts. The Tuesday market here is lively.',
-          es: 'El gran parque lineal de Florencia (160 ha) a lo longo del Arno es el terreno de juego favorito dos florentinos y sus perros. Zonas sin trela em varias secciones, carriles bici y pistas de tenis. El mercado del terça-feira aquí es muy animado.',
-          pt: 'O grande parque lineal de Florencia (160 ha) a lo longo do Arno é o terreno de juego favorito dois florentinos e os seus cães. Zonas sem trela em várias secciones, carriles bici e pistas de tenis. O mercado do terça-feira aqui é muito animado.',
+          es: 'El gran parque lineal de Florencia (160 ha) a lo largo del Arno es el terreno de juego favorito de los florentinos y sus perros. Zonas sin correa en varias secciones, carriles bici y pistas de tenis. El mercado de los martes es muy animado.',
+          pt: 'O grande parque linear de Florença (160 ha) ao longo do Arno é o terreno de brincadeira preferido dos florentinos e dos seus cães. Zonas sem trela em várias secções, ciclovias e campos de ténis. O mercado de terça-feira aqui é muito animado.',
         },
       },
       {
@@ -14705,8 +14705,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Le quartier de l\'autre côté de l\'Arno (Oltrarno) est le plus authentique et dog-friendly de Florence. La Piazza Santo Spirito est une place vivante avec terrasses et bars à vin où les chiens sont bienvenus. San Frediano est le quartier préféré des artisans et des chiens.',
           en: 'The neighbourhood on the other side of the Arno (Oltrarno) is Florence\'s most authentic and dog-friendly. Piazza Santo Spirito is a lively square with terraces and wine bars where dogs are welcome. San Frediano is the favourite neighbourhood of artisans and dogs alike.',
-          es: 'o bairro al otro lado del Arno (Oltrarno) es el más auténtico y amigable con los perros de Florencia. La Piazza Santo Spirito es una animada plaza con terrazas y bares de vinos donde los perros son bienvenidos. San Frediano es o bairro favorito de artesanos y perros.',
-          pt: 'O bairro al outro lado do Arno (Oltrarno) é o mais auténtico e amigable com os cães de Florencia. A Piazza Santo Spirito é uma animada praça com esplanadas e bares de vinos onde os cães são bem-vindos. San Frediano é o bairro favorito de artesanos e cães.',
+          es: 'El barrio al otro lado del Arno (Oltrarno) es el más auténtico y amigable con los perros de Florencia. La Piazza Santo Spirito es una animada plaza con terrazas y bares de vinos donde los perros son bienvenidos. San Frediano es el barrio favorito de artesanos y perros.',
+          pt: 'O bairro do outro lado do Arno (Oltrarno) é o mais autêntico e acolhedor para cães de Florença. A Piazza Santo Spirito é uma praça animada com esplanadas e bares de vinhos onde os cães são bem-vindos. San Frediano é o bairro preferido de artesãos e cães.',
         },
       },
       {
@@ -14716,8 +14716,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Les quais de l\'Arno qui traversent Florence sont la promenade vespérale par excellence. Lumière dorée sur le Ponte Vecchio, terrasses animées et chiens em laisse partout. La passeggiata florentine se fait ici chaque soir.',
           en: 'The Arno quaysides through Florence are the quintessential evening walk. Golden light on the Ponte Vecchio, lively terraces and dogs on leads everywhere. Florence\'s passeggiata happens here every evening.',
-          es: 'Los paseos junto al Arno a través de Florencia son el paseo vespertino por excelencia. Luz dorada sobre el Ponte Vecchio, terrazas animadas y perros com trela por todas partes. La passeggiata florentina tiene lugar aquí cada tarde.',
-          pt: 'Os passeios junto al Arno a través de Florencia são o passeio vespertino por excelencia. Luz dorada sobre o Ponte Vecchio, esplanadas animadas e cães com trela por todas partes. A passeggiata florentina tem lugar aqui cada tarde.',
+          es: 'Los paseos junto al Arno a través de Florencia son el paseo vespertino por excelencia. Luz dorada sobre el Ponte Vecchio, terrazas animadas y perros con correa por todas partes. La passeggiata florentina tiene lugar aquí cada tarde.',
+          pt: 'As margens do Arno que atravessam Florença são o passeio vespertino por excelência. Luz dourada sobre o Ponte Vecchio, esplanadas animadas e cães à trela por todo o lado. A passeggiata florentina acontece aqui todas as tardes.',
         },
       },
       {
@@ -14725,17 +14725,17 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏛️',
         petFriendly: false,
         desc: {
-          fr: 'Les Offices et le musée de l\'Académie (David de Michel-Ange) n\'admettent pas les animaux. Profitez-em pour confier votre chien à l\'hôtel ou à un service de garde, les visites sont longues et les files d\'attente importantes.',
+          fr: 'Les Offices et le musée de l\'Académie (David de Michel-Ange) n\'admettent pas les animaux. Profitez-en pour confier votre chien à l\'hôtel ou à un service de garde, les visites sont longues et les files d\'attente importantes.',
           en: 'The Uffizi and Accademia (Michelangelo\'s David) do not admit animals. Use this time to leave your dog at the hotel or with a pet-sitting service, queues are long and visits are lengthy.',
-          es: 'Los Uffizi y a Accademia (el David de Miguel Ángel) no admiten animales. Aprovecha para dejar a tu perro em o hotel o con un servicio de cuidado: las colas son longas y las visitas extensas.',
-          pt: 'Os Uffizi e a Accademia (o David de Miguel Ángel) no admitem animales. Aproveita para deixar ao teu cão no hotel o com um serviço de cuidado: as colas são longas e as visitas extensas.',
+          es: 'Los Uffizi y la Accademia (el David de Miguel Ángel) no admiten animales. Aprovecha para dejar a tu perro en el hotel o con un servicio de cuidado: las colas son largas y las visitas extensas.',
+          pt: 'Os Uffizi e a Accademia (o David de Miguel Ângelo) não admitem animais. Aproveite para deixar o seu cão no hotel ou com um serviço de acolhimento: as filas são longas e as visitas demoradas.',
         },
       },
     ],
     petTips: {
       fr: [
-        'Les chiens sont admis dans les bus florentins avec un billet réduit et doivent être em sac ou muselés. Pour les courtes distances dans le centre, marchez, Florence est très compacte.',
-        'La plupart des marchés couverts (Mercato Centrale, Sant\'Ambrogio) acceptent les chiens em laisse, une véritable expérience locale.',
+        'Les chiens sont admis dans les bus florentins avec un billet réduit et doivent être en sac ou muselés. Pour les courtes distances dans le centre, marchez, Florence est très compacte.',
+        'La plupart des marchés couverts (Mercato Centrale, Sant\'Ambrogio) acceptent les chiens en laisse, une véritable expérience locale.',
         'En été, Florence est l\'une des villes les plus chaudes d\'Italie (jusqu\'à 38°C). Le Parco delle Cascine et les quais de l\'Arno offrent de l\'ombre, évitez les promenades entre 12h et 17h.',
         'Le Mercato delle Pulci (marché aux puces) du Piazzale degli Uffizi est dog-friendly et fascinant pour une balade le dimanche matin.',
         'De nombreux restaurants proposent de l\'eau pour les chiens à Florence, c\'est dans la tradition toscane d\'hospitalité.',
@@ -14748,25 +14748,25 @@ const cityContent: Record<string, CityContent> = {
         'Many Florence restaurants spontaneously bring water for dogs, it\'s part of the Tuscan tradition of hospitality.',
       ],
       es: [
-        'Los perros están admitidos em los autobuses de Florencia con billete reducido y deben ir em transportín o con bozal. Para distancias curtas em o centro, camina: Florencia es muy compacta.',
-        'La mayoría dos mercados cubiertos (Mercato Centrale, Sant\'Ambrogio) admiten perros com trela: una experiencia local genuina.',
-        'em verano, Florencia es una das ciudades más calurosas de Italia (hasta 38°C). El Parco delle Cascine y los paseos junto al Arno ofrecen sombra: evita los paseos entre las 12 y las 17 h.',
-        'El Mercato delle Pulci (mercado de antigüedades) em Piazzale degli Uffizi es dog-friendly y fascinante para un paseo el domingo por la mañana.',
+        'Los perros están admitidos en los autobuses de Florencia con billete reducido y deben ir en transportín o con bozal. Para distancias cortas en el centro, camina: Florencia es muy compacta.',
+        'La mayoría de los mercados cubiertos (Mercato Centrale, Sant\'Ambrogio) admiten perros con correa: una experiencia local genuina.',
+        'En verano, Florencia es una de las ciudades más calurosas de Italia (hasta 38°C). El Parco delle Cascine y los paseos junto al Arno ofrecen sombra: evita los paseos entre las 12 y las 17 h.',
+        'El Mercato delle Pulci (mercado de antigüedades) en Piazzale degli Uffizi es dog-friendly y fascinante para un paseo el domingo por la mañana.',
         'Muchos restaurantes de Florencia traen agua espontáneamente para los perros: es parte de la tradición toscana de hospitalidad.',
       ],
       pt: [
-        'Os cães están admitidos nos autocarros de Florencia con bilhete reducido e deben ir em transportadora o con bozal. Para distancias curtas no centro, camina: Florencia é muito compacta.',
-        'A maioria dois mercados cubiertos (Mercato Centrale, Sant\'Ambrogio) admiten cães com trela: uma experiencia local genuína.',
-        'em verão, Florencia é uma das as cidades mais calurosas de Italia (até 38°C). O Parco delle Cascine e os passeios junto al Arno ofrecen sombra: evita os passeios entre as 12 e as 17 h.',
-        'O Mercato delle Pulci (mercado de antigüedades) em Piazzale degli Uffizi é pet-friendly e fascinante para um passeio o domingo pela manhã.',
-        'Muitos restaurantes de Florencia traen água espontáneamente para os cães: é parte da tradición toscana de hospitalidad.',
+        'Os cães são admitidos nos autocarros de Florença com bilhete reduzido e devem ir em transportadora ou com açaime. Para distâncias curtas no centro, caminhe: Florença é muito compacta.',
+        'A maioria dos mercados cobertos (Mercato Centrale, Sant\'Ambrogio) admite cães à trela: uma experiência local genuína.',
+        'No verão, Florença é uma das cidades mais quentes de Itália (até 38°C). O Parco delle Cascine e as margens do Arno oferecem sombra: evite os passeios entre as 12 e as 17 h.',
+        'O Mercato delle Pulci (mercado de velharias) em Piazzale degli Uffizi é pet-friendly e fascinante para um passeio ao domingo de manhã.',
+        'Muitos restaurantes de Florença trazem água espontaneamente para os cães: faz parte da tradição toscana de hospitalidade.',
       ],
     },
     practicalInfo: {
       fr: [
         'Vétérinaire d\'urgence 24h/24 : Clinica Veterinaria Firenze Sud, Via Senese 251, +39 055 204 9818',
         'Clinique centrale : Clinica Veterinaria Scandicci, Via Strozzi 9, Scandicci, +39 055 756 4800',
-        'Trains depuis Paris (Trenitalia Frecciarossa) : les animaux em cage voyagent avec billet enfant. Les grands chiens nécessitent un billet demi-tarif.',
+        'Trains depuis Paris (Trenitalia Frecciarossa) : les animaux en cage voyagent avec billet enfant. Les grands chiens nécessitent un billet demi-tarif.',
         'Aéroport de Florence Peretola : animaux UE avec passeport valide admis sans quarantaine.',
       ],
       en: [
@@ -14778,14 +14778,14 @@ const cityContent: Record<string, CityContent> = {
       es: [
         'Veterinario de urgencias 24h: Clinica Veterinaria Firenze Sud, Via Senese 251, +39 055 204 9818',
         'Clínica central: Clinica Veterinaria Scandicci, Via Strozzi 9, Scandicci, +39 055 756 4800',
-        'Trenes desde París (Trenitalia Frecciarossa): animales em transportín viajan con billete de criança. Los perros grandes necesitan billete a mitad de precio.',
-        'Aeropuerto de Florencia Peretola: mascotas de a UE con passaporte válido admitidas sin cuarentena.',
+        'Trenes desde París (Trenitalia Frecciarossa): animales en transportín viajan con billete de niño. Los perros grandes necesitan billete a mitad de precio.',
+        'Aeropuerto de Florencia Peretola: mascotas de la UE con pasaporte válido admitidas sin cuarentena.',
       ],
       pt: [
         'Veterinário de urgências 24h: Clinica Veterinária Firenze Sud, Via Senese 251, +39 055 204 9818',
         'Clínica central: Clinica Veterinária Scandicci, Via Strozzi 9, Scandicci, +39 055 756 4800',
-        'Comboios a partir de París (Trenitalia Frecciarossa): animales em transportadora viajan con bilhete de criança. Os cães grandes necesitan bilhete a mitad de preço.',
-        'Aeroporto de Florencia Peretola: animais da UE con passaporte válido admitidas sem cuarentena.',
+        'Comboios a partir de Paris (Trenitalia Frecciarossa): animais em transportadora viajam com bilhete de criança. Os cães grandes precisam de bilhete a meia tarifa.',
+        'Aeroporto de Florença Peretola: animais da UE com passaporte válido admitidos sem quarentena.',
       ],
     },
   },
@@ -16483,10 +16483,10 @@ const cityContent: Record<string, CityContent> = {
 
   ghent: {
     history: {
-      fr: `Gand, au cœur de la Flandre, fut la deuxième plus grande ville d'Europe du Nord médiévale après Paris, et sa silhouette aux trois tours, cathédrale Saint-Bavon, Beffroi et Saint-Nicolas, témoigne encore de cet âge d'or. C'est aujourd'hui une ville universitaire compacte de 265 000 habitants dotée de l'un des centres historiques les plus piétonniers d'Europe, un paradis pour qui promène son chien. La Flandre est la terre d'élection canine de Belgique, et Gand compte des dizaines de hondenlosloopzones officielles, dont les grandes réserves naturelles de Bourgoyen et du lac récréatif de Blaarmeersen. L'esprit progressiste de la ville s'étend aux animaux : elle a été la première em Europe à instaurer un Jeudi Veggie en 2009, et ses cafés du Graslei accueillent presque tous les chiens. Sans voitures depuis 2017, le centre médiéval se parcourt à pas d'homme, et de chien.`,
+      fr: `Gand, au cœur de la Flandre, fut la deuxième plus grande ville d'Europe du Nord médiévale après Paris, et sa silhouette aux trois tours, cathédrale Saint-Bavon, Beffroi et Saint-Nicolas, témoigne encore de cet âge d'or. C'est aujourd'hui une ville universitaire compacte de 265 000 habitants dotée de l'un des centres historiques les plus piétonniers d'Europe, un paradis pour qui promène son chien. La Flandre est la terre d'élection canine de Belgique, et Gand compte des dizaines de hondenlosloopzones officielles, dont les grandes réserves naturelles de Bourgoyen et du lac récréatif de Blaarmeersen. L'esprit progressiste de la ville s'étend aux animaux : elle a été la première ville d'Europe à instaurer un Jeudi Veggie hebdomadaire en 2009, et ses cafés du Graslei accueillent presque tous les chiens. Sans voitures depuis 2017, le centre médiéval se parcourt à pas d'homme, et de chien.`,
       en: `Ghent, in the heart of Flanders, was the second-largest city in medieval Northern Europe after Paris, and its skyline of three towers, St Bavo's Cathedral, the Belfry and St Nicholas' Church, still announces that golden age. Today it's a compact university city of 265,000 people with one of Europe's most pedestrianised historic centres, which makes it paradise for walking a dog. Flanders is Belgium's dog-owning heartland, and Ghent counts dozens of official hondenlosloopzones including large ones at Bourgoyen nature reserve and Blaarmeersen recreational lake. The city's famously progressive spirit extends to animals: it was the first European city to introduce a weekly Veggie Day in 2009, and its cafés along the Graslei canal almost universally welcome dogs. Car-free since 2017, the medieval centre lets you wander with a leashed dog at human (and canine) pace.`,
-      es: `Gante, em el coração de Flandes, fue la segunda ciudad más grande del norte de Europa medieval tras París, y su perfil de tres torres, catedral de San Bavón, Campanario y San Nicolás, aún evoca aquella edad dorada. Hoy es uma cidade universitaria compacta de 265.000 habitantes con uno dos centros históricos más peatonalizados de Europa, un paraíso para pasear con perro. Flandes es el territorio canino por excelencia de Bélgica, y Gante cuenta con decenas de hondenlosloopzones oficiales, incluidas las grandes de la reserva natural de Bourgoyen y el lago recreativo de Blaarmeersen. o espíritu progresista de a cidade se extiende a los animales: fue la primera em Europa em instaurar un Día Vegetariano semanal en 2009, y sus cafés del Graslei admiten perros casi sin excepción. Sin coches desde 2017, o centro medieval se recorre a ritmo humano, y canino.`,
-      pt: `Gante, no coração de Flandes, foi a segunda cidade mais grande do norte de Europa medieval tras París, e su perfil de três torres, catedral de San Bavón, Campanario e San Nicolás, aún evoca aquela edad dorada. Hoy é uma cidade universitaria compacta de 265.000 habitantes com uno dois centros históricos mais peatonalizados de Europa, um paraíso para pasear com cão. Flandes é o territorio canino por excelencia de Bélgica, e Gante tem com decenas de hondenlosloopzones oficiais, incluidas as grandes da reserva natural de Bourgoyen e o lago recreativo de Blaarmeersen. O espíritu progresista da cidade estende-se aos animales: foi a primera em Europa em instaurar um Dia Vegetariano semanal em 2009, e os seus cafés do Graslei admitem cães quase sem excepción. Sem carros a partir de 2017, o centro medieval se recorre a ritmo humano, e canino.`,
+      es: `Gante, en el corazón de Flandes, fue la segunda ciudad más grande del norte de Europa medieval tras París, y su perfil de tres torres, catedral de San Bavón, Campanario y San Nicolás, aún evoca aquella edad dorada. Hoy es una ciudad universitaria compacta de 265.000 habitantes con uno de los centros históricos más peatonalizados de Europa, un paraíso para pasear con perro. Flandes es el territorio canino por excelencia de Bélgica, y Gante cuenta con decenas de hondenlosloopzones oficiales, incluidas las grandes de la reserva natural de Bourgoyen y el lago recreativo de Blaarmeersen. El espíritu progresista de la ciudad se extiende a los animales: fue la primera ciudad de Europa en instaurar un Día Vegetariano semanal en 2009, y sus cafés del Graslei admiten perros casi sin excepción. Sin coches desde 2017, el centro medieval se recorre a ritmo humano, y canino.`,
+      pt: `Gante, no coração de Flandres, foi a segunda maior cidade do norte da Europa medieval depois de Paris, e o seu perfil de três torres, catedral de São Bavão, Campanário e São Nicolau, ainda evoca aquela idade de ouro. Hoje é uma cidade universitária compacta de 265.000 habitantes com um dos centros históricos mais pedonais da Europa, um paraíso para passear com o cão. Flandres é o território canino por excelência da Bélgica, e Gante conta com dezenas de hondenlosloopzones oficiais, incluindo as grandes da reserva natural de Bourgoyen e do lago recreativo de Blaarmeersen. O espírito progressista da cidade estende-se aos animais: foi a primeira cidade da Europa a instaurar um Dia Vegetariano semanal em 2009, e os seus cafés do Graslei acolhem quase todos os cães. Sem carros desde 2017, o centro medieval percorre-se a passo humano, e canino.`,
     },
     sights: [
       {
@@ -16496,8 +16496,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Le château des Comtes, du XIIe siècle, dresse ses douves au cœur de la ville. Les chiens n\'ont pas accès à la visite intérieure, mais le tour des douves et la place Sint-Veerleplein voisine sont superbes.',
           en: 'The 12th-century Castle of the Counts stands moated in the city centre. Dogs can\'t enter the interior tour, but the exterior walk around the moat and the adjoining Sint-Veerleplein square are picture-perfect.',
-          es: 'El Castillo dos Condes, del siglo XII, se alza con sus fosos em o centro. Los perros no pueden entrar na visita interior, pero la vuelta exterior por el foso y la plaza Sint-Veerleplein son de postal.',
-          pt: 'O Castelo dois Condes, do século XII, se alza com os seus fosos no centro. Os cães no podem entrar na visita interior, mas a vuelta exterior pelo foso e a praça Sint-Veerleplein são de postal.',
+          es: 'El Castillo de los Condes, del siglo XII, se alza con sus fosos en el centro de la ciudad. Los perros no pueden entrar en la visita interior, pero la vuelta exterior por el foso y la plaza Sint-Veerleplein contigua son de postal.',
+          pt: 'O Castelo dos Condes, do século XII, ergue-se com os seus fossos no centro da cidade. Os cães não podem entrar na visita interior, mas a volta exterior pelo fosso e a praça Sint-Veerleplein contígua são de postal.',
         },
       },
       {
@@ -16507,8 +16507,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Les deux quais médiévaux qui se font face sur la Lys forment le paysage le plus photogénique de Belgique. Les chiens sont acceptés à presque toutes les terrasses le long du canal, les Gantois pique-niquent souvent avec leur chien sur les marches du Graslei.',
           en: 'The two medieval quays facing each other across the Leie river form the most photogenic stretch in Belgium. Dogs are welcome at nearly every canal-side terrace, locals often picnic with their dogs on the Graslei steps.',
-          es: 'Los dos muelles medievales enfrentados sobre o rio Lys componen a estampa más fotogénica de Bélgica. Los perros son bienvenidos em casi todas las terrazas del canal, los locales costumam merendar con sus perros em las escaleras del Graslei.',
-          pt: 'Os dois muelles medievais enfrentados sobre o rio Lys componen a estampa mais fotogénica de Bélgica. Os cães são bem-vindos em quase todas as esplanadas do canal, os locales costumam merendar com os seus cães nas escaleras do Graslei.',
+          es: 'Los dos muelles medievales enfrentados sobre el río Lys componen la estampa más fotogénica de Bélgica. Los perros son bienvenidos en casi todas las terrazas del canal, y los vecinos suelen merendar con sus perros en las escaleras del Graslei.',
+          pt: 'Os dois cais medievais frente a frente sobre o rio Lys compõem a paisagem mais fotogénica da Bélgica. Os cães são bem-vindos em quase todas as esplanadas do canal, e os habitantes costumam merendar com os seus cães nas escadas do Graslei.',
         },
       },
       {
@@ -16516,10 +16516,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🦢',
         petFriendly: true,
         desc: {
-          fr: 'Réserve naturelle humide de 230 hectares à l\'ouest de la ville, avec caillebotis, observatoires ornithologiques et zones sans laisse dédiées. À quelques minutes du centre em tram 1.',
+          fr: 'Réserve naturelle humide de 230 hectares à l\'ouest de la ville, avec caillebotis, observatoires ornithologiques et zones sans laisse dédiées. À quelques minutes du centre en tram 1.',
           en: 'A 230-hectare wetland nature reserve on the city\'s western edge, with boardwalks, bird hides and dedicated off-leash zones. A short tram 1 ride from the centre.',
-          es: 'Una reserva natural de humedales de 230 hectáreas em o extremo oeste de a cidade, con pasarelas, hides para avistar aves y zonas sin trela habilitadas. A pocos minutos del centro em el tranvía 1.',
-          pt: 'Uma reserva natural de humedales de 230 hectáreas no extremo oeste da cidade, com pasarelas, hides para avistar aves e zonas sem trela habilitadas. A poucos minutos do centro no elétrico 1.',
+          es: 'Una reserva natural de humedales de 230 hectáreas en el extremo oeste de la ciudad, con pasarelas, observatorios para avistar aves y zonas sin correa habilitadas. A pocos minutos del centro en el tranvía 1.',
+          pt: 'Uma reserva natural de zonas húmidas de 230 hectares no extremo oeste da cidade, com passadiços, observatórios de aves e zonas sem trela dedicadas. A poucos minutos do centro no elétrico 1.',
         },
       },
       {
@@ -16527,10 +16527,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌷',
         petFriendly: true,
         desc: {
-          fr: 'Parc central de Gand aménagé sur une ancienne citadelle, il abrite le SMAK (art contemporain) et le MSK (beaux-arts). Les chiens em laisse sont admis dans le parc, pas dans les musées.',
+          fr: 'Parc central de Gand aménagé sur une ancienne citadelle, il abrite le SMAK (art contemporain) et le MSK (beaux-arts). Les chiens en laisse sont admis dans le parc, pas dans les musées.',
           en: 'Ghent\'s central public park, built on a former citadel, houses the SMAK contemporary art museum and the MSK fine arts museum. Leashed dogs are welcome in the grounds but not inside the museums.',
-          es: 'o parque público central de Gante, levantado sobre una antiga ciudadela, alberga el SMAK de arte contemporáneo y el MSK de belas artes. Los perros com trela son bienvenidos em el recinto pero no em los museos.',
-          pt: 'O parque público central de Gante, levantado sobre uma antiga ciudadela, alberga o SMAK de arte contemporâneo e o MSK de belas artes. Os cães com trela são bem-vindos no recinto mas no nos museus.',
+          es: 'El parque público central de Gante, levantado sobre una antigua ciudadela, alberga el SMAK de arte contemporáneo y el MSK de bellas artes. Los perros con correa son bienvenidos en el recinto pero no en los museos.',
+          pt: 'O parque público central de Gante, erguido sobre uma antiga cidadela, alberga o SMAK de arte contemporânea e o MSK de belas-artes. Os cães com trela são bem-vindos no recinto mas não nos museus.',
         },
       },
       {
@@ -16540,8 +16540,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Zone de loisirs de 90 hectares avec lac de baignade, pistes de jogging et plage canine clôturée sans laisse sur la rive nord, l\'un des rares endroits urbains où les chiens peuvent nager l\'été.',
           en: 'A 90-hectare recreation area with a swimming lake, running tracks and a fenced off-leash dog beach on the northern shore, one of the rare city spots where dogs can swim in summer.',
-          es: 'Una zona recreativa de 90 hectáreas con lago de baño, pistas de jogging y una playa canina vallada sin trela na orilla norte, uno dos pocos lugares urbanos donde los perros pueden nadar em verano.',
-          pt: 'Uma zona recreativa de 90 hectáreas com lago de banho, pistas de jogging e uma praia canina vallada sem trela na margem norte, uno dois poucos lugares urbanos onde os cães podem nadar em verão.',
+          es: 'Una zona recreativa de 90 hectáreas con lago de baño, pistas de jogging y una playa canina vallada sin correa en la orilla norte, uno de los pocos lugares urbanos donde los perros pueden nadar en verano.',
+          pt: 'Uma zona recreativa de 90 hectares com lago de banho, pistas de jogging e uma praia canina vedada sem trela na margem norte, um dos poucos lugares urbanos onde os cães podem nadar no verão.',
         },
       },
       {
@@ -16549,19 +16549,19 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🍺',
         petFriendly: true,
         desc: {
-          fr: 'Un dédale de ruelles médiévales derrière Gravensteen, truffé de restaurants indépendants et de \'brown cafés\'. Beaucoup accueillent les chiens em intérieur l\'hiver, essayez \'t Dreupelkot pour une dégustation de genièvre.',
+          fr: 'Un dédale de ruelles médiévales derrière Gravensteen, truffé de restaurants indépendants et de \'brown cafés\'. Beaucoup accueillent les chiens en intérieur l\'hiver, essayez \'t Dreupelkot pour une dégustation de genièvre.',
           en: 'A warren of narrow medieval lanes behind Gravensteen, packed with independent restaurants and brown cafés. Many welcome dogs inside in winter, try \'t Dreupelkot for a genever tasting.',
-          es: 'Un laberinto de callejuelas medievales detrás del Gravensteen, repleto de restaurantes independientes y \'brown cafés\'. Muchos admiten perros em o interior em invierno, prueba \'t Dreupelkot para una cata de ginebra genever.',
-          pt: 'Um laberinto de callejuelas medievais detrás do Gravensteen, repleto de restaurantes independientes e \'brown cafés\'. Muitos admiten cães no interior em inverno, prueba \'t Dreupelkot para uma cata de ginebra genever.',
+          es: 'Un laberinto de callejuelas medievales detrás del Gravensteen, repleto de restaurantes independientes y \'brown cafés\'. Muchos admiten perros en el interior en invierno, prueba \'t Dreupelkot para una cata de ginebra genever.',
+          pt: 'Um labirinto de vielas medievais atrás do Gravensteen, repleto de restaurantes independentes e \'brown cafés\'. Muitos acolhem cães no interior no inverno, experimente o \'t Dreupelkot para uma prova de genever.',
         },
       },
     ],
     petTips: {
       fr: [
-        'Les trams De Lijn 1, 2 et 4 desservent toutes les grandes promenades canines depuis Gent-Sint-Pieters, 1,80 € par trajet pour le chien, gratuit em sac pour les petits, laisse obligatoire.',
+        'Les trams De Lijn 1, 2 et 4 desservent toutes les grandes promenades canines depuis Gent-Sint-Pieters, 1,80 € par trajet pour le chien, gratuit en sac pour les petits, laisse obligatoire.',
         'Le centre médiéval sans voitures (depuis 2017) permet de promener son chien sereinement sur le Korenmarkt, le Vrijdagmarkt et les quais sans traverser de trafic.',
-        'Les canaux de Gand sont accessibles em plusieurs points, évitez que votre chien y boive, la qualité de l\'eau varie ; les cafés vous prêteront une gamelle sur demande.',
-        'Si vous louez un bateau chez Minerva ou la Rederij Dewaele pour une croisière, la plupart des opérateurs acceptent les chiens sages em laisse sans supplément, confirmez à la réservation.',
+        'Les canaux de Gand sont accessibles en plusieurs points, évitez que votre chien y boive, la qualité de l\'eau varie ; les cafés vous prêteront une gamelle sur demande.',
+        'Si vous louez un bateau chez Minerva ou la Rederij Dewaele pour une croisière, la plupart des opérateurs acceptent les chiens sages en laisse sans supplément, confirmez à la réservation.',
         'Attention aux cyclistes : Gand affiche l\'une des plus fortes parts modales vélo de Flandre, et les zones partagées exigent une laisse courte, notamment dans le quartier étudiant d\'Overpoort.',
       ],
       en: [
@@ -16572,24 +16572,24 @@ const cityContent: Record<string, CityContent> = {
         'Watch for cyclists: Ghent has one of Flanders\' highest bike-mode shares, and shared zones mean dogs must be kept on a short leash, especially around the student quarter Overpoort.',
       ],
       es: [
-        'Los tranvías De Lijn 1, 2 y 4 conectan con todos los grandes paseos caninos desde Gent-Sint-Pieters, 1,80 € por trayecto para el perro, gratis em bolsa para los pequeños, trela obrigatória.',
-        'o centro medieval sin coches (desde 2017) permite pasear sin estrés por el Korenmarkt, el Vrijdagmarkt y los muelles sin cruzar tráfico.',
-        'Los canales de Gante son acessíveis em varios puntos, evita que tu perro beba de ellos, la calidad del agua varía; los cafés te prestarán un cuenco si lo pides.',
-        'Si alquilas un barco em Minerva o Rederij Dewaele para un crucero por los canales, casi todos los operadores aceptan perros tranquilos com trela sin recargo, confírmalo al reservar.',
-        'Atención a las bicicletas: Gante tiene una das mayores cuotas modales ciclistas de Flandes, y em zonas compartidas se exige trela curta, sobre todo em o bairro estudiantil de Overpoort.',
+        'Los tranvías De Lijn 1, 2 y 4 conectan con todos los grandes paseos caninos desde Gent-Sint-Pieters, 1,80 € por trayecto para el perro, gratis en bolsa para los pequeños, correa obligatoria.',
+        'El centro medieval sin coches (desde 2017) permite pasear sin estrés por el Korenmarkt, el Vrijdagmarkt y los muelles sin cruzar tráfico.',
+        'Los canales de Gante son accesibles en varios puntos, evita que tu perro beba de ellos, la calidad del agua varía; los cafés te prestarán un cuenco si lo pides.',
+        'Si alquilas un barco en Minerva o Rederij Dewaele para un crucero por los canales, casi todos los operadores aceptan perros tranquilos con correa sin recargo, confírmalo al reservar.',
+        'Atención a las bicicletas: Gante tiene una de las mayores cuotas modales ciclistas de Flandes, y en las zonas compartidas se exige correa corta, sobre todo en el barrio estudiantil de Overpoort.',
       ],
       pt: [
-        'Os elétricos De Lijn 1, 2 e 4 conectan con todos os grandes passeios caninos a partir de Gent-Sint-Pieters, 1,80 € por trayecto para o cão, grátis em bolsa para os pequenos, trela obrigatória.',
-        'O centro medieval sem carros (a partir de 2017) permite pasear sem estrés pelo Korenmarkt, o Vrijdagmarkt e os muelles sem cruzar tráfego.',
-        'Os canales de Gante são acessíveis em vários puntos, evita que tu cão beba de ellos, a qualidade do água varía; os cafés te prestarán um cuenco si lo pides.',
-        'Si alquilas um barco em Minerva o Rederij Dewaele para um crucero pelos canales, quase todos os operadores aceitam cães tranquilos com trela sem recargo, confírmalo al reservar.',
-        'Atención a as bicicletas: Gante tem uma das mayores cuotas modales ciclistas de Flandes, e em zonas compartidas se exige trela curta, sobre todo no bairro estudiantil de Overpoort.',
+        'Os elétricos De Lijn 1, 2 e 4 ligam a todos os grandes passeios caninos a partir de Gent-Sint-Pieters, 1,80 € por viagem para o cão, grátis em saco para os pequenos, trela obrigatória.',
+        'O centro medieval sem carros (desde 2017) permite passear sem stress pelo Korenmarkt, o Vrijdagmarkt e os cais sem atravessar trânsito.',
+        'Os canais de Gante são acessíveis em vários pontos, evite que o seu cão beba deles, a qualidade da água varia; os cafés emprestam-lhe uma taça se pedir.',
+        'Se alugar um barco na Minerva ou na Rederij Dewaele para um passeio pelos canais, quase todos os operadores aceitam cães tranquilos à trela sem suplemento, confirme ao reservar.',
+        'Atenção às bicicletas: Gante tem uma das maiores quotas modais de ciclismo de Flandres, e nas zonas partilhadas exige-se trela curta, sobretudo no bairro estudantil de Overpoort.',
       ],
     },
     practicalInfo: {
       fr: [
         'Aéroport principal : Bruxelles (BRU) à 55 km avec un IC direct chaque heure pour Gent-Sint-Pieters (55 min) ; Brussels-South Charleroi pour les low-cost.',
-        'Les trains NMBS/SNCB acceptent les chiens : gratis em sac pour les petits, 3,40 € em billet journée pour les grands, laisse obligatoire, idéal pour une journée à Bruges (25 min) ou Anvers (50 min).',
+        'Les trains NMBS/SNCB acceptent les chiens : gratuit en sac pour les petits, 3,40 € en billet journée pour les grands, laisse obligatoire, idéal pour une journée à Bruges (25 min) ou Anvers (50 min).',
         'Meilleures saisons : avril-juin pour les floraisons au bord des canaux et les Floralies de Gand ; les Gentse Feesten fin juillet sont splendides mais bruyantes et bondées, à éviter avec un chien sensible.',
         'Vétérinaire d\'urgence 24h/24 : Faculté Vétérinaire de l\'Université de Gand à Merelbeke, +32 9 264 77 00, l\'un des plus grands CHU vétérinaires d\'Europe.',
         'Les hôtels gantois affichent souvent des tarifs \'chien inclus\', Ghent Marriott, 1898 The Post et NH Gent Belfort sont fiables côté accueil ; apportez toujours la preuve de vaccination antirabique.',
@@ -16603,17 +16603,17 @@ const cityContent: Record<string, CityContent> = {
       ],
       es: [
         'Aeropuerto principal: Bruselas (BRU) a 55 km con IC directo cada hora hasta Gent-Sint-Pieters (55 min); Brussels-South Charleroi para los low-cost.',
-        'Los trenes NMBS/SNCB admiten perros: gratis em bolsa los pequeños, 3,40 € billete diario los grandes, trela obrigatória, ideal para excursiones a Brujas (25 min) o Amberes (50 min).',
-        'Mejores temporadas: abril-junio por las floraciones junto a los canales y las Floralías de Gante; las Gentse Feesten de finais de julio son espectaculares pero ruidosas y abarrotadas, no aptas para perros nerviosos.',
-        'Urgencia veterinaria 24h: Facultad de Veterinaria de a Universidad de Gante em Merelbeke, +32 9 264 77 00, uno dos hospitales veterinarios universitarios más destacados de Europa.',
-        'Los hoteles gantesess costumam ofrecer tarifas \'perro incluido\', Ghent Marriott, 1898 The Post y NH Gent Belfort son fiables em acogida; lleva siempre la prueba de vacunación antirrábica.',
+        'Los trenes NMBS/SNCB admiten perros: gratis en bolsa los pequeños, 3,40 € billete diario los grandes, correa obligatoria, ideal para excursiones a Brujas (25 min) o Amberes (50 min).',
+        'Mejores temporadas: abril-junio por las floraciones junto a los canales y las Floralías de Gante; las Gentse Feesten de finales de julio son espectaculares pero ruidosas y abarrotadas, no aptas para perros nerviosos.',
+        'Urgencia veterinaria 24h: Facultad de Veterinaria de la Universidad de Gante en Merelbeke, +32 9 264 77 00, uno de los hospitales veterinarios universitarios más destacados de Europa.',
+        'Los hoteles de Gante suelen ofrecer tarifas \'perro incluido\', Ghent Marriott, 1898 The Post y NH Gent Belfort son fiables en la acogida; lleva siempre la prueba de vacunación antirrábica.',
       ],
       pt: [
-        'Aeroporto principal: Bruselas (BRU) a 55 km con IC directo cada hora até Gent-Sint-Pieters (55 min); Brussels-South Charleroi para os low-cost.',
-        'Os comboios NMBS/SNCB admiten cães: grátis em bolsa os pequenos, 3,40 € bilhete diario os grandes, trela obrigatória, ideal para excursiones a Brujas (25 min) o Amberes (50 min).',
-        'Melhores temporadas: abril-junho pelas floraciones junto aos canales e as Floralías de Gante; as Gentse Feesten de finais de julho são espectaculares mas ruidosas e abarrotadas, no aptas para cães nerviosos.',
-        'Urgência veterinária 24h: Facultad de Veterinária da Universidade de Gante em Merelbeke, +32 9 264 77 00, uno dois hospitais veterinários universitarios mais destacados de Europa.',
-        'Os hotéis gantesess costumam ofrecer tarifas \'cão incluido\', Ghent Marriott, 1898 The Post e NH Gent Belfort são fiables em acogida; lleva sempre a prueba de vacunación antirrábica.',
+        'Aeroporto principal: Bruxelas (BRU) a 55 km com IC direto de hora a hora até Gent-Sint-Pieters (55 min); Brussels-South Charleroi para os voos low-cost.',
+        'Os comboios NMBS/SNCB aceitam cães: grátis em saco os pequenos, 3,40 € bilhete diário os grandes, trela obrigatória, ideal para um dia em Bruges (25 min) ou Antuérpia (50 min).',
+        'Melhores estações: abril-junho pelas floradas junto aos canais e as Floralias de Gante; as Gentse Feesten de finais de julho são espetaculares mas ruidosas e apinhadas, não aconselhadas a cães nervosos.',
+        'Urgência veterinária 24h: Faculdade de Veterinária da Universidade de Gante em Merelbeke, +32 9 264 77 00, um dos hospitais veterinários universitários mais conceituados da Europa.',
+        'Os hotéis de Gante costumam oferecer tarifas \'cão incluído\', Ghent Marriott, 1898 The Post e NH Gent Belfort são fiáveis no acolhimento; leve sempre a prova de vacinação antirrábica.',
       ],
     },
   },
@@ -27770,10 +27770,10 @@ const cityContent: Record<string, CityContent> = {
 
   naples: {
     history: {
-      fr: `Naples, fondée vers 600 avant notre ère sous le nom grec de Neápolis (« nouvelle ville »), a été pendant deux mille cinq cents ans la métropole culturelle du sud de l'Italie : capitale du royaume de Naples, port commercial majeur de la Méditerranée, berceau de la pizza et du café espresso. Ses 915 000 habitants partagent une ville aussi chaotique qu'attachante, dominée par la silhouette du Vésuve et adossée à l'un des golfes les plus photographiés d'Europe. Pour les propriétaires de chiens, Naples est à la fois exigeante, circulation dense, été à plus de 35 °C, muselière obligatoire em transports, et gratifiante : les trattorie et pizzerie accueillent largement les chiens bien tenus, les 134 hectares du Bosco di Capodimonte offrent une respiration rare, et les 2,5 km piétons du Lungomare constituent l'une des plus belles promenades canines urbaines d'Italie.`,
+      fr: `Naples, fondée vers 600 avant notre ère sous le nom grec de Neápolis (« nouvelle ville »), a été pendant deux mille cinq cents ans la métropole culturelle du sud de l'Italie : capitale du royaume de Naples, port commercial majeur de la Méditerranée, berceau de la pizza et du café espresso. Ses 915 000 habitants partagent une ville aussi chaotique qu'attachante, dominée par la silhouette du Vésuve et adossée à l'un des golfes les plus photographiés d'Europe. Pour les propriétaires de chiens, Naples est à la fois exigeante, circulation dense, été à plus de 35 °C, muselière obligatoire dans les transports, et gratifiante : les trattorie et pizzerie accueillent largement les chiens bien tenus, les 134 hectares du Bosco di Capodimonte offrent une respiration rare, et les 2,5 km piétons du Lungomare constituent l'une des plus belles promenades canines urbaines d'Italie.`,
       en: `Naples, founded around 600 BCE under the Greek name Neápolis ("new city"), has been the cultural capital of southern Italy for 2,500 years, capital of the Kingdom of Naples, major Mediterranean trading port, birthplace of pizza and espresso. Its 915,000 inhabitants share a city as chaotic as it is endearing, dominated by the silhouette of Vesuvius and set on one of the most photographed gulfs in Europe. For dog owners, Naples is both demanding, dense traffic, summer above 35 °C, muzzles mandatory on public transport, and rewarding: trattorie and pizzerie broadly welcome well-behaved dogs, the 134-hectare Bosco di Capodimonte offers a rare green lung, and the 2.5 km pedestrian Lungomare is one of the most beautiful urban dog walks in Italy.`,
-      es: `Nápoles, fundada hacia el 600 a.C. con el nombre griego de Neápolis ("nueva ciudad"), lleva 2.500 años siendo la capital cultural del sur de Italia: capital del Reino de Nápoles, gran puerto comercial del mediterrâneo, cuna de la pizza y o espresso. Sus 915.000 habitantes comparten uma cidade tan caótica como entrañable, dominada por la silueta del Vesubio y asomada a uno dos golfos más fotografiados de Europa. Para los dueños de perros, Nápoles es a la vez exigente, tráfico denso, veranos por encima de 35 °C, bozal obrigatório em transporte, y gratificante: trattorie y pizzerías admiten ampliamente a perros bien educados, las 134 hectáreas del Bosco di Capodimonte ofrecen un pulmón verde poco común, y los 2,5 km peatonales del Lungomare son uno dos paseos caninos urbanos más belos de Italia.`,
-      pt: `Nápoles, fundada para o 600 a.C. com o nombre griego de Neápolis ("nueva cidade"), leva 2.500 anos siendo a capital cultural do sul de Italia: capital do Reino de Nápoles, grande porto comercial do mediterrâneo, cuna da pizza e o espresso. Os seus 915.000 habitantes comparten uma cidade tan caótica como entranhable, dominada pela silueta do Vesubio e asomada a uno dois golfos mais fotografiados de Europa. Para os donos de cães, Nápoles é a vez exigente, tráfego denso, veranos por encima de 35 °C, bozal obrigatório em transporte, e gratificante: trattorie e pizzerías admitem ampliamente a cães bien educados, as 134 hectáreas do Bosco di Capodimonte ofrecen um pulmón verde pouco común, e os 2,5 km peatonales do Lungomare são uno dois passeios caninos urbanos mais belos de Italia.`,
+      es: `Nápoles, fundada hacia el 600 a.C. con el nombre griego de Neápolis ("nueva ciudad"), lleva 2.500 años siendo la capital cultural del sur de Italia: capital del Reino de Nápoles, gran puerto comercial del Mediterráneo, cuna de la pizza y el espresso. Sus 915.000 habitantes comparten una ciudad tan caótica como entrañable, dominada por la silueta del Vesubio y asomada a uno de los golfos más fotografiados de Europa. Para los dueños de perros, Nápoles es a la vez exigente, tráfico denso, veranos por encima de 35 °C, bozal obligatorio en el transporte, y gratificante: trattorie y pizzerías admiten ampliamente a perros bien educados, las 134 hectáreas del Bosco di Capodimonte ofrecen un pulmón verde poco habitual, y los 2,5 km peatonales del Lungomare son uno de los paseos caninos urbanos más bellos de Italia.`,
+      pt: `Nápoles, fundada por volta de 600 a.C. com o nome grego de Neápolis ("cidade nova"), foi durante dois mil e quinhentos anos a metrópole cultural do sul de Itália: capital do Reino de Nápoles, grande porto comercial do Mediterrâneo, berço da pizza e do café espresso. Os seus 915.000 habitantes partilham uma cidade tão caótica quanto cativante, dominada pela silhueta do Vesúvio e debruçada sobre um dos golfos mais fotografados da Europa. Para os donos de cães, Nápoles é ao mesmo tempo exigente, trânsito denso, verões acima de 35 °C, açaime obrigatório nos transportes, e gratificante: as trattorie e pizzerie acolhem largamente os cães bem-comportados, os 134 hectares do Bosco di Capodimonte oferecem um pulmão verde raro, e os 2,5 km pedonais do Lungomare constituem um dos mais belos passeios caninos urbanos de Itália.`,
     },
     sights: [
       {
@@ -27784,7 +27784,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `Promenade piétonne du front de mer de 2,5 km entre le Castel dell'Ovo et Mergellina. Sans voitures depuis 2012, bancs tous les 50 m, la meilleure balade canine de Naples.`,
           en: `A 2.5 km pedestrian seafront promenade between Castel dell'Ovo and Mergellina. Traffic-free since 2012, benches every 50 m, the single best dog walk in Naples.`,
           es: `Paseo marítimo peatonal de 2,5 km entre el Castel dell'Ovo y Mergellina. Sin coches desde 2012, bancos cada 50 m, el mejor paseo canino de Nápoles.`,
-          pt: `Passeio marítimo peatonal de 2,5 km entre o Castel dell'Ovo e Mergellina. Sem carros a partir de 2012, bancos cada 50 m, o melhor passeio canino de Nápoles.`,
+          pt: `Passeio marítimo pedonal de 2,5 km entre o Castel dell'Ovo e Mergellina. Sem carros desde 2012, bancos a cada 50 m, o melhor passeio canino de Nápoles.`,
         },
       },
       {
@@ -27794,8 +27794,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Bois royal de 134 hectares derrière le Palais de Capodimonte, plus grand espace vert de Naples. Chênaies et châtaigneraies, 5 km de sentiers, laisse stricte.`,
           en: `A 134-hectare royal woodland behind the Capodimonte Palace, the largest green space in Naples. Oak and chestnut groves, 5 km of paths, strict leash rule.`,
-          es: `floresta real de 134 hectáreas tras el Palacio de Capodimonte, el mayor espacio verde de Nápoles. Encinares y castañares, 5 km de senderos, trela estricta.`,
-          pt: `Floresta real de 134 hectáreas tras o Palácio de Capodimonte, o mayor espacio verde de Nápoles. Encinares e castanhares, 5 km de trilhos, trela estricta.`,
+          es: `Bosque real de 134 hectáreas tras el Palacio de Capodimonte, el mayor espacio verde de Nápoles. Encinares y castañares, 5 km de senderos, correa estricta.`,
+          pt: `Bosque real de 134 hectares por trás do Palácio de Capodimonte, o maior espaço verde de Nápoles. Carvalhais e castanhais, 5 km de trilhos, trela obrigatória.`,
         },
       },
       {
@@ -27803,10 +27803,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏞️',
         petFriendly: true,
         desc: {
-          fr: `Parc em terrasses au sommet de la falaise de Posillipo. Vues panoramiques sur le Vésuve et les îles du Golfe, Area Cani clôturée sur la terrasse supérieure.`,
+          fr: `Parc en terrasses au sommet de la falaise de Posillipo. Vues panoramiques sur le Vésuve et les îles du Golfe, Area Cani clôturée sur la terrasse supérieure.`,
           en: `A cliff-top terraced park on Posillipo. Panoramic views over Vesuvius and the Gulf islands, plus a fenced Area Cani on the upper terrace.`,
-          es: `Parque em terrazas em lo alto del acantilado de Posillipo. Vistas panorámicas del Vesubio y las islas del Golfo, con Area Cani vallada na terraza superior.`,
-          pt: `Parque em esplanadas em lo alto do acantilado de Posillipo. Vistas panorámicas do Vesubio e as ilhas do Golfo, com Area Cani vallada na esplanada superior.`,
+          es: `Parque en terrazas en lo alto del acantilado de Posillipo. Vistas panorámicas del Vesubio y las islas del Golfo, con Area Cani vallada en la terraza superior.`,
+          pt: `Parque em esplanadas no topo da falésia de Posillipo. Vistas panorâmicas sobre o Vesúvio e as ilhas do Golfo, com Area Cani vedada na esplanada superior.`,
         },
       },
       {
@@ -27814,10 +27814,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏰',
         petFriendly: true,
         desc: {
-          fr: `La plus ancienne fortification debout de Naples, sur un îlot de tuf relié à Santa Lucia par une chaussée. Remparts extérieurs accessibles em laisse.`,
+          fr: `La plus ancienne fortification debout de Naples, sur un îlot de tuf relié à Santa Lucia par une chaussée. Remparts extérieurs accessibles en laisse.`,
           en: `Naples' oldest standing fortification, on a tufa islet connected to Santa Lucia by a causeway. Exterior ramparts are leash-accessible.`,
-          es: `La fortificación más antiga em pie de Nápoles, sobre un islote de toba unido a Santa Lucia por una calzada. Murallas exteriores acessíveis com trela.`,
-          pt: `A fortificación mais antiga em pie de Nápoles, sobre um islote de toba unido a Santa Lucia por uma calzada. Muralhas exteriores acessíveis com trela.`,
+          es: `La fortificación en pie más antigua de Nápoles, sobre un islote de toba unido a Santa Lucia por una calzada. Murallas exteriores accesibles con correa.`,
+          pt: `A mais antiga fortificação de pé de Nápoles, sobre um ilhéu de tufo ligado a Santa Lucia por uma calçada. Muralhas exteriores acessíveis com trela.`,
         },
       },
       {
@@ -27825,10 +27825,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏛️',
         petFriendly: true,
         desc: {
-          fr: `Cité romaine UNESCO à 30 km, ensevelie par le Vésuve en 79. Les chiens em laisse sont admis gratuitement dans tout le parc archéologique.`,
+          fr: `Cité romaine UNESCO à 30 km, ensevelie par le Vésuve en 79. Les chiens en laisse sont admis gratuitement dans tout le parc archéologique.`,
           en: `UNESCO Roman city 30 km away, buried by Vesuvius in 79 CE. Leashed dogs are admitted free of charge across the entire archaeological park.`,
-          es: `Ciudad romana UNESCO a 30 km, sepultada por el Vesubio em el 79 d.C. Los perros com trela entran gratis em todo o parque arqueológico.`,
-          pt: `Cidade romana UNESCO a 30 km, sepultada pelo Vesubio no 79 d.C. Os cães com trela entran grátis em todo o parque arqueológico.`,
+          es: `Ciudad romana UNESCO a 30 km, sepultada por el Vesubio en el 79 d.C. Los perros con correa entran gratis en todo el parque arqueológico.`,
+          pt: `Cidade romana UNESCO a 30 km, soterrada pelo Vesúvio em 79 d.C. Os cães à trela entram gratuitamente em todo o parque arqueológico.`,
         },
       },
       {
@@ -27839,15 +27839,15 @@ const cityContent: Record<string, CityContent> = {
           fr: `Jardin public du XVIIIe siècle au bord de mer, 1,3 km de long entre Piazza Vittoria et Piazza della Repubblica. Fontaines, cafés, bancs sous les magnolias.`,
           en: `An 18th-century seafront public garden, 1.3 km long between Piazza Vittoria and Piazza della Repubblica. Fountains, cafés, benches under magnolias.`,
           es: `Jardín público del siglo XVIII frente al mar, de 1,3 km entre Piazza Vittoria y Piazza della Repubblica. Fuentes, cafeterías, bancos bajo magnolias.`,
-          pt: `Jardim público do século XVIII frente al mar, de 1,3 km entre Piazza Vittoria e Piazza della Repubblica. Fuentes, cafeterías, bancos sob magnolias.`,
+          pt: `Jardim público do século XVIII à beira-mar, de 1,3 km entre Piazza Vittoria e Piazza della Repubblica. Fontes, cafés, bancos sob magnólias.`,
         },
       },
     ],
     petTips: {
       fr: [
-        'Muselière souple OBLIGATOIRE em transports publics (ANM métro, bus, funiculaires), amendes de 25 à 250 € em cas d\'absence.',
+        'Muselière souple OBLIGATOIRE dans les transports publics (ANM métro, bus, funiculaires), amendes de 25 à 250 € en cas d\'absence.',
         'Interdiction estivale sur la plupart des plages du 15 mai au 30 septembre, seules les Spiagge Cani enregistrées BauWatch font exception.',
-        'La Circumvesuviana (Pompéi, Sorrente) accepte les chiens em laisse et muselière ; billet demi-tarif pour chiens de plus de 6 kg.',
+        'La Circumvesuviana (Pompéi, Sorrente) accepte les chiens en laisse et muselière ; billet demi-tarif pour chiens de plus de 6 kg.',
         'Cliniques d\'urgence 24h/24 : Partenope au Vomero (081 5566144) et Pegaso à Ponticelli (081 5838183).',
         'Bitume à 55 °C les après-midis d\'été, promenez avant 9h ou après 19h30 et évitez l\'asphalte noir, préférez les pavés clairs du Centro Storico.',
       ],
@@ -27859,18 +27859,18 @@ const cityContent: Record<string, CityContent> = {
         'Pavement reaches 55 °C on summer afternoons, walk before 09:00 or after 19:30, avoid black asphalt and prefer the lighter cobbles of the historic centre.',
       ],
       es: [
-        'Bozal flexible obrigatório em transporte público ANM (metro, buses, funiculares), multas de 25 a 250 € por incumplimiento.',
-        'Prohibición estival na mayoría de playas del 15 mayo ao 30 septiembre, solo las Spiagge Cani registradas BauWatch están exentas.',
-        'La Circumvesuviana (Pompeya, Sorrento) admite perros com trela y bozal; medio billete para perros de más de 6 kg.',
-        'Clínicas de urgencias 24/7: Partenope em Vomero (081 5566144) y Pegaso em Ponticelli (081 5838183).',
-        'El pavimento alcanza 55 °C em tardes de verano, pasea antes das 9:00 o después das 19:30, evita o asfalto negro y opta por los adoquines claros del Centro Storico.',
+        'Bozal flexible obligatorio en el transporte público ANM (metro, autobuses, funiculares), multas de 25 a 250 € por incumplimiento.',
+        'Prohibición estival en la mayoría de playas del 15 de mayo al 30 de septiembre, solo las Spiagge Cani registradas BauWatch están exentas.',
+        'La Circumvesuviana (Pompeya, Sorrento) admite perros con correa y bozal; medio billete para perros de más de 6 kg.',
+        'Clínicas de urgencias 24/7: Partenope en Vomero (081 5566144) y Pegaso en Ponticelli (081 5838183).',
+        'El pavimento alcanza 55 °C en las tardes de verano, pasea antes de las 9:00 o después de las 19:30, evita el asfalto negro y opta por los adoquines claros del Centro Storico.',
       ],
       pt: [
-        'Bozal flexible obrigatório em transporte público ANM (metro, buses, funiculares), multas de 25 a 250 € por incumplimiento.',
-        'Prohibición estival na maioria de praias do 15 maio ao 30 setembro, só as Spiagge Cani registradas BauWatch están exentas.',
-        'A Circumvesuviana (Pompeya, Sorrento) admite cães com trela e bozal; medio bilhete para cães de mais de 6 kg.',
-        'Clínicas de urgências 24/7: Partenope em Vomero (081 5566144) e Pegaso em Ponticelli (081 5838183).',
-        'O pavimento alcanza 55 °C em tardes de verão, pasea antes das 9:00 o depois das 19:30, evita o asfalto negro e opta pelos adoquines claros do centro Storico.',
+        'Açaime flexível OBRIGATÓRIO no transporte público ANM (metro, autocarros, funiculares), multas de 25 a 250 € em caso de incumprimento.',
+        'Proibição estival na maioria das praias de 15 de maio a 30 de setembro, só as Spiagge Cani registadas BauWatch estão isentas.',
+        'A Circumvesuviana (Pompeia, Sorrento) admite cães com trela e açaime; meio bilhete para cães de mais de 6 kg.',
+        'Clínicas de urgência 24/7: Partenope no Vomero (081 5566144) e Pegaso em Ponticelli (081 5838183).',
+        'O pavimento chega aos 55 °C nas tardes de verão, passeie antes das 9:00 ou depois das 19:30, evite o asfalto preto e prefira as pedras claras do Centro Storico.',
       ],
     },
     practicalInfo: {
@@ -27879,7 +27879,7 @@ const cityContent: Record<string, CityContent> = {
         'Laisse obligatoire (Legge Regionale 16/2001) dans tous les espaces publics sauf Aree Cani, amendes à partir de 50 €.',
         'Ramassage des déjections obligatoire partout, amendes de 75 à 450 €, particulièrement contrôlées à Chiaia et sur le Lungomare.',
         'Ferries Capri/Ischia : chiens acceptés sur les ponts extérieurs avec laisse, muselière et billet chien (~5 €) auprès d\'Alilauro, Caremar, SNAV et NLG.',
-        'Pompéi admet les chiens em laisse gratuitement ; éviter les heures de midi em juillet-août, le basalte chauffe fortement.',
+        'Pompéi admet les chiens en laisse gratuitement ; éviter les heures de midi en juillet-août, le basalte chauffe fortement.',
       ],
       en: [
         'EU pet passport and valid rabies vaccination required at every pet-friendly hotel check-in.',
@@ -27889,18 +27889,18 @@ const cityContent: Record<string, CityContent> = {
         'Pompeii admits leashed dogs free of charge; avoid midday in July–August as the basalt street surface heats significantly.',
       ],
       es: [
-        'passaporte europeu y vacunación antirrábica vigente exigidos em todos los hoteles pet-friendly al hacer el check-in.',
-        'trela obrigatória (Legge Regionale 16/2001) em todos los espacios públicos salvo Aree Cani, multas desde 50 €.',
-        'Recoger las deposiciones es obrigatório em todas partes, multas 75–450 €, controladas activamente em Chiaia y em el Lungomare.',
-        'Ferris a Capri/Ischia: perros com trela y bozal admitidos em cubiertas exteriores; billete de perro (~5 €) con Alilauro, Caremar, SNAV, NLG.',
-        'Pompeya admite perros com trela gratis; evita el mediodía em julio-agosto, el basalto se calienta mucho.',
+        'Pasaporte europeo y vacunación antirrábica vigente exigidos en todos los hoteles pet-friendly al hacer el check-in.',
+        'Correa obligatoria (Legge Regionale 16/2001) en todos los espacios públicos salvo Aree Cani, multas desde 50 €.',
+        'Recoger las deposiciones es obligatorio en todas partes, multas 75–450 €, controladas activamente en Chiaia y en el Lungomare.',
+        'Ferris a Capri/Ischia: perros con correa y bozal admitidos en cubiertas exteriores; billete de perro (~5 €) con Alilauro, Caremar, SNAV, NLG.',
+        'Pompeya admite perros con correa gratis; evita el mediodía en julio-agosto, el basalto se calienta mucho.',
       ],
       pt: [
-        'passaporte europeu e vacunación antirrábica vigente exigidos em todos os hotéis pet-friendly al hacer o check-in.',
-        'trela obrigatória (Legge Regionale 16/2001) em todos os espacios públicos salvo Aree Cani, multas a partir de 50 €.',
-        'Recoger as deposiciones é obrigatório em todo o lado, multas 75–450 €, controladas activamente em Chiaia e no Lungomare.',
-        'Ferris a Capri/Ischia: cães com trela e bozal admitidos em cubiertas exteriores; bilhete de cão (~5 €) con Alilauro, Caremar, SNAV, NLG.',
-        'Pompeya admite cães com trela grátis; evita o mediodía em julho-agosto, o basalto se calienta muito.',
+        'Passaporte europeu e vacinação antirrábica válida exigidos em todos os hotéis pet-friendly no check-in.',
+        'Trela obrigatória (Legge Regionale 16/2001) em todos os espaços públicos salvo Aree Cani, multas a partir de 50 €.',
+        'Recolha dos dejetos obrigatória em todo o lado, multas 75–450 €, fiscalizadas ativamente em Chiaia e no Lungomare.',
+        'Ferries para Capri/Ischia: cães com trela e açaime admitidos nos conveses exteriores; bilhete de cão (~5 €) com Alilauro, Caremar, SNAV, NLG.',
+        'Pompeia admite cães à trela gratuitamente; evite o meio-dia em julho-agosto, o basalto aquece muito.',
       ],
     },
   },

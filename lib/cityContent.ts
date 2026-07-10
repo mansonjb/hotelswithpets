@@ -33250,6 +33250,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'riva-del-garda': {
+    history: {
+      fr: `Riva del Garda occupe la pointe nord du lac de Garde, dans le Trentin, encadrée par des falaises spectaculaires et un climat doux presque méditerranéen malgré les Alpes toutes proches. Longtemps disputée entre Venise, les princes-évêques de Trente et l'Empire austro-hongrois, dont elle garda la marque jusqu'en 1918, la ville conserve un centre médiéval intact autour de la Rocca, château sur l'eau, et de la Torre Apponale. Au XIXe siècle, sa lumière et son air attirèrent écrivains et voyageurs du Grand Tour, de Goethe à Kafka. Aujourd'hui, Riva est une capitale européenne de la voile et de la planche à voile, portée par les vents réguliers du lac, le Peler du matin et l'Ora de l'après-midi. Pour le voyageur avec un chien, elle offre une promenade lacustre plate, des sentiers de falaise et des plages où les chiens sont tolérés en laisse.`,
+      en: `Riva del Garda sits at the northern tip of Lake Garda, in Trentino, framed by dramatic cliffs and a mild, almost Mediterranean climate despite the nearby Alps. Long contested between Venice, the prince-bishops of Trento and the Austro-Hungarian Empire, whose mark it kept until 1918, the town preserves an intact medieval core around the Rocca, its castle on the water, and the Torre Apponale. In the 19th century its light and air drew Grand Tour writers and travellers, from Goethe to Kafka. Today Riva is a European capital of sailing and windsurfing, driven by the lake's steady winds, the morning Peler and the afternoon Ora. For the traveller with a dog, it offers a flat lakeside promenade, cliff-carved trails and beaches where leashed dogs are tolerated, all within a compact, walkable centre.`,
+      es: `Riva del Garda se asienta en el extremo norte del lago de Garda, en el Trentino, enmarcada por acantilados espectaculares y un clima suave, casi mediterráneo, pese a los Alpes cercanos. Disputada durante siglos entre Venecia, los príncipes-obispos de Trento y el Imperio austrohúngaro, cuya huella conservó hasta 1918, la localidad mantiene un casco medieval intacto en torno a la Rocca, su castillo sobre el agua, y a la Torre Apponale. En el siglo XIX su luz y su aire atrajeron a escritores y viajeros del Grand Tour, de Goethe a Kafka. Hoy Riva es una capital europea de la vela y el windsurf, impulsada por los vientos regulares del lago, el Peler de la mañana y el Ora de la tarde. Para el viajero con perro ofrece un paseo lacustre llano, senderos de acantilado y playas donde se toleran los perros con correa.`,
+      pt: `Riva del Garda situa-se na ponta norte do lago de Garda, no Trentino, emoldurada por falésias espetaculares e um clima ameno, quase mediterrânico, apesar dos Alpes próximos. Disputada durante séculos entre Veneza, os príncipes-bispos de Trento e o Império austro-húngaro, cuja marca conservou até 1918, a vila mantém um núcleo medieval intacto em torno da Rocca, o seu castelo sobre a água, e da Torre Apponale. No século XIX a sua luz e o seu ar atraíram escritores e viajantes do Grand Tour, de Goethe a Kafka. Hoje Riva é uma capital europeia da vela e do windsurf, movida pelos ventos regulares do lago, o Peler da manhã e o Ora da tarde. Para o viajante com cão oferece um passeio lacustre plano, trilhos de falésia e praias onde os cães são tolerados com trela.`,
+    },
+    sights: [
+      { name: 'Rocca di Riva', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Château médiéval du XIIe siècle entouré d'eau, au cœur du centre. Les cours et les abords lacustres se visitent en laisse ; le musée MAG à l'intérieur est réservé aux chiens d'assistance.`,
+        en: `12th-century moated castle in the heart of the centre. Its courtyards and lakeside surroundings can be explored on a leash; the MAG museum inside is assistance dogs only.`,
+        es: `Castillo medieval del siglo XII rodeado de agua, en pleno centro. Sus patios y su entorno lacustre se recorren con correa; el museo MAG del interior es solo para perros de asistencia.`,
+        pt: `Castelo medieval do século XII rodeado de água, em pleno centro. Os seus pátios e a envolvente lacustre percorrem-se com trela; o museu MAG no interior é só para cães de assistência.`,
+      }},
+      { name: 'Bastione di Riva', emoji: '🗼', petFriendly: true, desc: {
+        fr: `Tour de guet vénitienne de 1508 accrochée à la falaise au-dessus de la ville, accessible à pied par un sentier en lacets ou par un ascenseur panoramique. Chiens bienvenus en laisse, vue plongeante sur le lac.`,
+        en: `Venetian watchtower of 1508 clinging to the cliff above town, reached on foot by a switchback path or by a panoramic lift. Leashed dogs welcome, with a sweeping view over the lake.`,
+        es: `Torre de vigilancia veneciana de 1508 aferrada al acantilado sobre la ciudad, accesible a pie por un sendero en zigzag o por un ascensor panorámico. Perros con correa bienvenidos, con vistas al lago.`,
+        pt: `Torre de vigia veneziana de 1508 agarrada à falésia sobre a cidade, acessível a pé por um trilho em ziguezague ou por um elevador panorâmico. Cães com trela bem-vindos, com vista sobre o lago.`,
+      }},
+      { name: 'Sentiero del Ponale', emoji: '🥾', petFriendly: true, desc: {
+        fr: `Ancienne route taillée dans la falaise au-dessus du lac, aujourd'hui sentier piéton et cyclable spectaculaire vers le Val di Ledro. Superbe avec un chien en laisse ; tenez-le près de la paroi.`,
+        en: `Former road carved into the cliff above the lake, now a spectacular walking and cycling path toward the Ledro valley. Superb with a leashed dog; keep it close to the rock wall.`,
+        es: `Antigua carretera excavada en el acantilado sobre el lago, hoy espectacular sendero peatonal y ciclista hacia el valle de Ledro. Magnífico con un perro con correa; manténgalo cerca de la pared.`,
+        pt: `Antiga estrada escavada na falésia sobre o lago, hoje espetacular trilho pedonal e ciclável rumo ao vale de Ledro. Soberbo com um cão com trela; mantenha-o perto da parede.`,
+      }},
+      { name: 'Cascata del Varone', emoji: '💧', petFriendly: true, desc: {
+        fr: `Cascade de 98 mètres tombant dans une gorge à 3 km de Riva, aménagée de passerelles et de jardins. Les chiens tenus en laisse sont admis dans le parc.`,
+        en: `98-metre waterfall plunging into a gorge 3 km from Riva, laid out with walkways and gardens. Leashed dogs are allowed in the park.`,
+        es: `Cascada de 98 metros que cae en un desfiladero a 3 km de Riva, con pasarelas y jardines. Se admiten perros con correa en el parque.`,
+        pt: `Cascata de 98 metros que cai numa garganta a 3 km de Riva, com passadiços e jardins. Admitem-se cães com trela no parque.`,
+      }},
+      { name: 'Spiaggia Sabbioni', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `La principale plage de galets et de pelouse de Riva, prisée des véliplanchistes. Les chiens sont tolérés en laisse hors des zones de baignade balisées ; des plages canines équipées existent ailleurs autour du lac.`,
+        en: `Riva's main pebble-and-lawn beach, popular with windsurfers. Leashed dogs are tolerated outside the marked swimming zones; equipped dog beaches exist elsewhere around the lake.`,
+        es: `La principal playa de guijarros y césped de Riva, muy popular entre los windsurfistas. Se toleran perros con correa fuera de las zonas de baño balizadas; hay playas caninas equipadas en otros puntos del lago.`,
+        pt: `A principal praia de seixos e relva de Riva, muito procurada pelos windsurfistas. Toleram-se cães com trela fora das zonas de banho balizadas; há praias caninas equipadas noutros pontos do lago.`,
+      }},
+      { name: 'Torbole sul Garda', emoji: '🏄', petFriendly: true, desc: {
+        fr: `Village voisin à 4 km, mecque mondiale de la planche à voile et du kitesurf, avec un long front de lac plat idéal pour marcher. Terrasses et promenade dog-friendly en laisse.`,
+        en: `Neighbouring village 4 km away, a world mecca of windsurfing and kitesurfing, with a long flat lakefront ideal for walking. Dog-friendly terraces and promenade on a leash.`,
+        es: `Pueblo vecino a 4 km, meca mundial del windsurf y el kitesurf, con un largo frente lacustre llano ideal para pasear. Terrazas y paseo dog-friendly con correa.`,
+        pt: `Aldeia vizinha a 4 km, meca mundial do windsurf e do kitesurf, com uma longa frente lacustre plana ideal para passear. Esplanadas e passeio pet-friendly com trela.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Le lac de Garde applique des règles de plage variables selon la commune : chiens en laisse tolérés sur de nombreuses plages hors zones de baignade, avec des plages canines équipées dédiées autour du lac.`,
+        `Le Sentiero del Ponale et les chemins de falaise sont splendides mais bordés de vide : gardez le chien en laisse courte côté paroi.`,
+        `Été chaud et affluence maximale en juillet-août : promenez tôt le matin ou en soirée, testez les galets et le bitume brûlants avant de laisser marcher le chien.`,
+        `Les vents réguliers (Peler le matin, Ora l'après-midi) rafraîchissent le bord du lac : une baignade surveillée dans une crique calme convient aux chiens qui aiment l'eau.`,
+        `En cas d'urgence vétérinaire, composez le 112 (numéro d'urgence européen) ; des cliniques vétérinaires existent à Riva et dans la voisine Arco.`,
+      ],
+      en: [
+        `Lake Garda's beach rules vary by municipality: leashed dogs are tolerated on many beaches outside swimming zones, with dedicated equipped dog beaches around the lake.`,
+        `The Ponale path and cliff trails are stunning but edge sheer drops: keep the dog on a short leash on the rock-wall side.`,
+        `Hot summers and peak crowds in July and August: walk early morning or evening, and test scorching pebbles and pavement before letting the dog walk.`,
+        `The steady winds (Peler in the morning, Ora in the afternoon) cool the lakeshore: a supervised swim in a calm cove suits water-loving dogs.`,
+        `For a veterinary emergency dial 112 (the EU emergency number); veterinary clinics operate in Riva and neighbouring Arco.`,
+      ],
+      es: [
+        `Las normas de playa del lago de Garda varían según el municipio: se toleran perros con correa en muchas playas fuera de las zonas de baño, y hay playas caninas equipadas en torno al lago.`,
+        `El Sentiero del Ponale y los senderos de acantilado son magníficos pero bordean el vacío: mantenga al perro con correa corta del lado de la pared.`,
+        `Veranos calurosos y máxima afluencia en julio y agosto: pasee a primera hora o al atardecer y pruebe los guijarros y el asfalto ardientes antes de dejar caminar al perro.`,
+        `Los vientos regulares (Peler por la mañana, Ora por la tarde) refrescan la orilla: un baño vigilado en una cala tranquila viene bien a los perros que aman el agua.`,
+        `Ante una urgencia veterinaria marque el 112 (número de emergencia europeo); hay clínicas veterinarias en Riva y en la vecina Arco.`,
+      ],
+      pt: [
+        `As regras de praia do lago de Garda variam consoante o município: toleram-se cães com trela em muitas praias fora das zonas de banho, e há praias caninas equipadas em redor do lago.`,
+        `O Sentiero del Ponale e os trilhos de falésia são magníficos mas ladeiam o vazio: mantenha o cão com trela curta do lado da parede rochosa.`,
+        `Verões quentes e afluência máxima em julho e agosto: passeie de manhã cedo ou ao fim do dia e teste os seixos e o asfalto escaldantes antes de deixar o cão caminhar.`,
+        `Os ventos regulares (Peler de manhã, Ora à tarde) refrescam a margem: um banho vigiado numa enseada calma agrada aos cães que gostam de água.`,
+        `Numa urgência veterinária marque o 112 (número de emergência europeu); há clínicas veterinárias em Riva e na vizinha Arco.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Italie dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays de l'UE.`,
+        `Riva n'a pas de gare : les plus proches sont Rovereto et Trente (env. 40 min en bus) ou Vérone ; de là, bus Trentino Trasporti jusqu'au lac.`,
+        `Aéroports : Vérone-Villafranca (VRN) à env. 90 km, Bergame (BGY) et Vérone offrant le plus de vols ; voiture ou bus recommandés.`,
+        `Devise : euro. Bus Trentino Trasporti : petits chiens en sac, grands chiens en laisse et muselière ; ferries Navigazione Laghi : chiens en laisse admis.`,
+        `Meilleure période : mai-juin et septembre-octobre pour un climat doux et moins de foule ; juillet-août sont chauds et très fréquentés par les véliplanchistes.`,
+      ],
+      en: [
+        `Italy is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Riva has no train station: the nearest are Rovereto and Trento (about 40 min by bus) or Verona; from there Trentino Trasporti buses reach the lake.`,
+        `Airports: Verona-Villafranca (VRN) about 90 km away, with Bergamo (BGY) and Verona offering the most flights; a car or bus is recommended.`,
+        `Currency: euro. Trentino Trasporti buses: small dogs in a carrier, larger dogs on a leash and muzzle; Navigazione Laghi ferries admit leashed dogs.`,
+        `Best time: May-June and September-October for mild weather and fewer crowds; July and August are hot and very busy with windsurfers.`,
+      ],
+      es: [
+        `Italia está en la UE y Schengen: pasaporte europeo + vacuna antirrábica vigente + microchip ISO es suficiente desde cualquier país de la UE.`,
+        `Riva no tiene estación de tren: las más cercanas son Rovereto y Trento (unos 40 min en autobús) o Verona; desde allí, autobuses Trentino Trasporti llegan al lago.`,
+        `Aeropuertos: Verona-Villafranca (VRN) a unos 90 km, con Bérgamo (BGY) y Verona ofreciendo más vuelos; se recomienda coche o autobús.`,
+        `Moneda: euro. Autobuses Trentino Trasporti: perros pequeños en transportín, grandes con correa y bozal; los ferris Navigazione Laghi admiten perros con correa.`,
+        `Mejor época: mayo-junio y septiembre-octubre por el clima suave y menos gente; julio y agosto son calurosos y muy concurridos por los windsurfistas.`,
+      ],
+      pt: [
+        `Itália está na UE e Schengen: passaporte europeu + vacina antirrábica válida + microchip ISO é suficiente a partir de qualquer país da UE.`,
+        `Riva não tem estação de comboio: as mais próximas são Rovereto e Trento (cerca de 40 min de autocarro) ou Verona; a partir daí, autocarros Trentino Trasporti chegam ao lago.`,
+        `Aeroportos: Verona-Villafranca (VRN) a cerca de 90 km, com Bérgamo (BGY) e Verona a oferecer mais voos; recomenda-se carro ou autocarro.`,
+        `Moeda: euro. Autocarros Trentino Trasporti: cães pequenos em transportadora, grandes com trela e açaime; os ferries Navigazione Laghi admitem cães com trela.`,
+        `Melhor época: maio-junho e setembro-outubro pelo clima ameno e menos gente; julho e agosto são quentes e muito movimentados por windsurfistas.`,
+      ],
+    },
+  },
+
   rome: {
     history: {
       fr: `Rome est éternelle, et ses chiens le savent depuis l'Antiquité. Les Romains de l'Antiquité tenaient des chiens de chasse, des lévriers et des molosses, souvent représentés sur les mosaïques et bas-reliefs. Aujourd'hui, Rome compte près de 400 000 chiens pour 2,8 millions d'habitants. La ville a cette particularité unique em Italie : les chiens accompagnent leurs maîtres partout, restaurants em terrasse, marchés, piazzas baroques. La tradition du passeggiata (la promenade vespérale) est aussi une tradition canine. Le soir, le long du Tibre ou dans les parcs du Borghese, Rome révèle son visage le plus local et le plus chaleureux.`,
@@ -33368,6 +33475,113 @@ const cityContent: Record<string, CityContent> = {
         'Clínica central: Policlinico Veterinário Roma, Via G. Borsi 3, +39 06 558 0710',
         'Comboios a partir de París (Trenitalia): animales em transportadora admitidos grátis. Os cães grandes necesitan bilhete e deben levar bozal.',
         'Aeroporto de Roma-Fiumicino: animais da UE con passaporte válido admitidas sem cuarentena.',
+      ],
+    },
+  },
+
+  roses: {
+    history: {
+      fr: `Roses (Rosas en castillan) s'étire au nord du golfe du même nom, sur la Costa Brava catalane, dans la province de Gérone. Son histoire remonte aux Grecs de Rhodes, qui y fondèrent le comptoir de Rhode vers le IVe siècle av. J.-C. ; Romains, Wisigoths et abbayes médiévales lui succédèrent. Au XVIe siècle, Charles Quint fit édifier la vaste Ciutadella, forteresse Renaissance qui enferme aujourd'hui des vestiges grecs, romains et monastiques. Sur les hauteurs, des dolmens mégalithiques rappellent une occupation bien plus ancienne. Longtemps village de pêcheurs, Roses est devenue une station balnéaire animée, avec une longue baie de sable et des criques sauvages vers le cap de Creus. Pour le voyageur avec un chien, elle combine un site archéologique en plein air, un front de mer plat, des sentiers côtiers et la réserve des Aiguamolls de l'Empordà toute proche.`,
+      en: `Roses (Rosas in Spanish) stretches along the northern end of the gulf that bears its name, on the Catalan Costa Brava, in the province of Girona. Its history reaches back to the Greeks of Rhodes, who founded the trading post of Rhode here around the 4th century BC; Romans, Visigoths and medieval abbeys followed. In the 16th century Charles V built the vast Ciutadella, a Renaissance fortress that now encloses Greek, Roman and monastic remains. On the hills above, megalithic dolmens recall a far older settlement. Long a fishing village, Roses has become a lively seaside resort, with a long sandy bay and wild coves toward Cap de Creus. For the traveller with a dog, it combines an open-air archaeological site, a flat seafront, coastal footpaths and the nearby Aiguamolls de l'Empordà nature reserve.`,
+      es: `Roses (Rosas en castellano) se extiende por el extremo norte del golfo que lleva su nombre, en la Costa Brava catalana, en la provincia de Girona. Su historia se remonta a los griegos de Rodas, que fundaron aquí el enclave de Rhode hacia el siglo IV a. C.; les siguieron romanos, visigodos y abadías medievales. En el siglo XVI Carlos V mandó construir la vasta Ciutadella, fortaleza renacentista que hoy encierra restos griegos, romanos y monásticos. En las colinas, dólmenes megalíticos recuerdan una ocupación mucho más antigua. Durante siglos pueblo de pescadores, Roses se ha convertido en una animada estación de playa, con una larga bahía de arena y calas salvajes hacia el cabo de Creus. Para el viajero con perro combina un yacimiento arqueológico al aire libre, un paseo marítimo llano, senderos costeros y la cercana reserva de los Aiguamolls de l'Empordà.`,
+      pt: `Roses (Rosas em castelhano) estende-se pelo extremo norte do golfo que leva o seu nome, na Costa Brava catalã, na província de Girona. A sua história remonta aos gregos de Rodes, que aqui fundaram o entreposto de Rhode por volta do século IV a. C.; seguiram-se romanos, visigodos e abadias medievais. No século XVI Carlos V mandou erguer a vasta Ciutadella, fortaleza renascentista que hoje encerra vestígios gregos, romanos e monásticos. Nas colinas, dólmenes megalíticos recordam uma ocupação muito mais antiga. Durante séculos aldeia de pescadores, Roses tornou-se uma animada estância balnear, com uma longa baía de areia e enseadas selvagens rumo ao cabo de Creus. Para o viajante com cão combina um sítio arqueológico ao ar livre, uma marginal plana, trilhos costeiros e a próxima reserva dos Aiguamolls de l'Empordà.`,
+    },
+    sights: [
+      { name: 'Ciutadella de Roses', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Vaste forteresse Renaissance de Charles Quint enfermant les vestiges de la Rhode grecque, d'une villa romaine et d'un monastère lombard. Enceinte archéologique en plein air, chiens admis en laisse.`,
+        en: `Vast Renaissance fortress of Charles V enclosing the remains of Greek Rhode, a Roman villa and a Lombard monastery. Open-air archaeological grounds, dogs allowed on a leash.`,
+        es: `Vasta fortaleza renacentista de Carlos V que encierra los restos de la Rhode griega, una villa romana y un monasterio lombardo. Recinto arqueológico al aire libre, perros admitidos con correa.`,
+        pt: `Vasta fortaleza renascentista de Carlos V que encerra os vestígios da Rhode grega, uma villa romana e um mosteiro lombardo. Recinto arqueológico ao ar livre, cães admitidos com trela.`,
+      }},
+      { name: 'Castell de la Trinitat', emoji: '🏰', petFriendly: true, desc: {
+        fr: `Fort du XVIe siècle en forme d'étoile perché au-dessus de la baie, gardant l'entrée du port. Accès et abords extérieurs dog-friendly en laisse, avec vue panoramique sur le golfe.`,
+        en: `16th-century star-shaped fort perched above the bay, guarding the harbour mouth. Outdoor approach and surroundings dog-friendly on a leash, with a panoramic view over the gulf.`,
+        es: `Fuerte del siglo XVI en forma de estrella sobre la bahía, que guarda la bocana del puerto. Acceso y entorno exterior dog-friendly con correa, con vista panorámica del golfo.`,
+        pt: `Forte do século XVI em forma de estrela sobre a baía, guardando a entrada do porto. Acesso e envolvente exterior pet-friendly com trela, com vista panorâmica sobre o golfo.`,
+      }},
+      { name: 'Platja de Roses', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `La longue plage de sable de la baie, bordée d'une promenade. Chiens interdits sur les plages surveillées l'été (généralement mi-juin à mi-septembre) : cherchez la plage canine signalée du secteur.`,
+        en: `The bay's long sandy beach, lined by a promenade. Dogs are banned on guarded beaches in summer (typically mid-June to mid-September): look for the signposted local dog beach.`,
+        es: `La larga playa de arena de la bahía, bordeada por un paseo. Perros prohibidos en las playas vigiladas en verano (por lo general de mediados de junio a mediados de septiembre): busque la playa canina señalizada de la zona.`,
+        pt: `A longa praia de areia da baía, ladeada por uma marginal. Cães proibidos nas praias vigiadas no verão (em geral de meados de junho a meados de setembro): procure a praia canina sinalizada da zona.`,
+      }},
+      { name: "Dolmen de la Creu d'en Cobertella", emoji: '🗿', petFriendly: true, desc: {
+        fr: `Le plus grand dolmen de Catalogne, monument mégalithique vieux d'environ 5 000 ans sur les collines derrière la ville. Site en plein air, accessible à pied avec un chien en laisse.`,
+        en: `The largest dolmen in Catalonia, a megalithic monument some 5,000 years old on the hills behind town. Open-air site, reachable on foot with a leashed dog.`,
+        es: `El mayor dolmen de Cataluña, monumento megalítico de unos 5.000 años en las colinas tras la ciudad. Yacimiento al aire libre, accesible a pie con un perro con correa.`,
+        pt: `O maior dólmen da Catalunha, monumento megalítico com cerca de 5.000 anos nas colinas atrás da cidade. Sítio ao ar livre, acessível a pé com um cão com trela.`,
+      }},
+      { name: 'Cala Montjoi i camí de ronda', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Sentier littoral (camí de ronda) reliant les criques sauvages vers le cap de Creus, dont Cala Montjoi. Superbe randonnée côtière avec un chien en laisse ; peu d'ombre, prévoyez de l'eau.`,
+        en: `Coastal path (camí de ronda) linking the wild coves toward Cap de Creus, including Cala Montjoi. A superb shoreline walk with a leashed dog; little shade, so carry water.`,
+        es: `Sendero litoral (camí de ronda) que enlaza las calas salvajes hacia el cabo de Creus, entre ellas Cala Montjoi. Magnífica ruta costera con un perro con correa; poca sombra, lleve agua.`,
+        pt: `Trilho litoral (camí de ronda) que liga as enseadas selvagens rumo ao cabo de Creus, entre elas Cala Montjoi. Magnífica caminhada costeira com um cão com trela; pouca sombra, leve água.`,
+      }},
+      { name: "Aiguamolls de l'Empordà", emoji: '🦩', petFriendly: true, desc: {
+        fr: `Réserve naturelle de zones humides au sud de la baie, refuge d'oiseaux migrateurs (flamants, cigognes). Chiens admis en laisse sur les chemins ; observez la faune à distance.`,
+        en: `Wetland nature reserve south of the bay, a haven for migratory birds (flamingos, storks). Dogs allowed on a leash on the trails; watch wildlife from a distance.`,
+        es: `Reserva natural de humedales al sur de la bahía, refugio de aves migratorias (flamencos, cigüeñas). Perros admitidos con correa en los caminos; observe la fauna a distancia.`,
+        pt: `Reserva natural de zonas húmidas a sul da baía, refúgio de aves migratórias (flamingos, cegonhas). Cães admitidos com trela nos trilhos; observe a fauna à distância.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Interdiction estivale des chiens sur les plages surveillées (généralement mi-juin à mi-septembre) : repérez à l'avance la plage canine signalée pour la baignade de votre chien.`,
+        `La Tramontane, vent fort du nord, peut se lever brusquement : sécurisez le harnais et évitez les falaises exposées les jours de forte rafale.`,
+        `Chaleur méditerranéenne : promenez tôt ou en soirée, le sable et les rochers brûlent à midi ; emportez toujours de l'eau sur le camí de ronda peu ombragé.`,
+        `Réserve des Aiguamolls et cap de Creus : chiens en laisse obligatoire pour protéger oiseaux et faune ; certaines zones cœur de parc peuvent être restreintes.`,
+        `En cas d'urgence vétérinaire, composez le 112 (numéro d'urgence européen) ; des cliniques vétérinaires existent à Roses et dans la voisine Figueres.`,
+      ],
+      en: [
+        `Summer dog ban on guarded beaches (typically mid-June to mid-September): scout the signposted dog beach in advance for your dog's swim.`,
+        `The Tramontana, a strong north wind, can pick up suddenly: secure the harness and avoid exposed clifftops on gusty days.`,
+        `Mediterranean heat: walk early or in the evening, as sand and rock scorch at midday; always carry water on the lightly shaded camí de ronda.`,
+        `Aiguamolls reserve and Cap de Creus: leashes are mandatory to protect birds and wildlife; some park-core zones may be restricted.`,
+        `For a veterinary emergency dial 112 (the EU emergency number); veterinary clinics operate in Roses and neighbouring Figueres.`,
+      ],
+      es: [
+        `Prohibición estival de perros en las playas vigiladas (por lo general de mediados de junio a mediados de septiembre): localice de antemano la playa canina señalizada para el baño de su perro.`,
+        `La Tramontana, fuerte viento del norte, puede levantarse de golpe: asegure el arnés y evite los acantilados expuestos los días de racha fuerte.`,
+        `Calor mediterráneo: pasee temprano o al atardecer, la arena y las rocas queman al mediodía; lleve siempre agua en el camí de ronda, con poca sombra.`,
+        `Reserva de los Aiguamolls y cabo de Creus: correa obligatoria para proteger aves y fauna; algunas zonas núcleo del parque pueden estar restringidas.`,
+        `Ante una urgencia veterinaria marque el 112 (número de emergencia europeo); hay clínicas veterinarias en Roses y en la vecina Figueres.`,
+      ],
+      pt: [
+        `Proibição estival de cães nas praias vigiadas (em geral de meados de junho a meados de setembro): localize com antecedência a praia canina sinalizada para o banho do seu cão.`,
+        `A Tramontana, forte vento do norte, pode levantar-se de repente: fixe o arnês e evite as falésias expostas nos dias de rajada forte.`,
+        `Calor mediterrânico: passeie cedo ou ao fim do dia, a areia e as rochas queimam ao meio-dia; leve sempre água no camí de ronda, com pouca sombra.`,
+        `Reserva dos Aiguamolls e cabo de Creus: trela obrigatória para proteger aves e fauna; algumas zonas centrais do parque podem estar restritas.`,
+        `Numa urgência veterinária marque o 112 (número de emergência europeu); há clínicas veterinárias em Roses e na vizinha Figueres.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Espagne dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays de l'UE.`,
+        `Roses n'a pas de gare : la plus proche est Figueres (env. 20 km), sur la ligne à grande vitesse et Renfe ; de là, bus Sarfa/Moventis jusqu'à Roses.`,
+        `Aéroports : Gérone (GRO) à env. 60 km et Barcelone (BCN) à env. 150 km ; voiture recommandée pour explorer la Costa Brava.`,
+        `Devise : euro. Bus régionaux (Moventis) : chiens en laisse et muselière ou en sac selon la taille ; confirmez auprès du chauffeur.`,
+        `Meilleure période : mai-juin et septembre-octobre pour éviter la foule et la chaleur ; l'été est très fréquenté et les plages ferment aux chiens.`,
+      ],
+      en: [
+        `Spain is in the EU and Schengen: EU pet passport + valid rabies vaccination + ISO microchip is sufficient from any EU country.`,
+        `Roses has no train station: the nearest is Figueres (about 20 km) on the high-speed and Renfe line; from there Sarfa/Moventis buses reach Roses.`,
+        `Airports: Girona (GRO) about 60 km away and Barcelona (BCN) about 150 km; a car is recommended to explore the Costa Brava.`,
+        `Currency: euro. Regional buses (Moventis): dogs on a leash and muzzle or in a carrier depending on size; confirm with the driver.`,
+        `Best time: May-June and September-October to avoid crowds and heat; summer is very busy and beaches close to dogs.`,
+      ],
+      es: [
+        `España está en la UE y Schengen: pasaporte europeo + vacuna antirrábica vigente + microchip ISO es suficiente desde cualquier país de la UE.`,
+        `Roses no tiene estación de tren: la más cercana es Figueres (unos 20 km), en la línea de alta velocidad y Renfe; desde allí, autobuses Sarfa/Moventis llegan a Roses.`,
+        `Aeropuertos: Girona (GRO) a unos 60 km y Barcelona (BCN) a unos 150 km; se recomienda coche para explorar la Costa Brava.`,
+        `Moneda: euro. Autobuses regionales (Moventis): perros con correa y bozal o en transportín según el tamaño; confirme con el conductor.`,
+        `Mejor época: mayo-junio y septiembre-octubre para evitar las aglomeraciones y el calor; el verano está muy concurrido y las playas cierran a los perros.`,
+      ],
+      pt: [
+        `Espanha está na UE e Schengen: passaporte europeu + vacina antirrábica válida + microchip ISO é suficiente a partir de qualquer país da UE.`,
+        `Roses não tem estação de comboio: a mais próxima é Figueres (cerca de 20 km), na linha de alta velocidade e Renfe; a partir daí, autocarros Sarfa/Moventis chegam a Roses.`,
+        `Aeroportos: Girona (GRO) a cerca de 60 km e Barcelona (BCN) a cerca de 150 km; recomenda-se carro para explorar a Costa Brava.`,
+        `Moeda: euro. Autocarros regionais (Moventis): cães com trela e açaime ou em transportadora consoante o tamanho; confirme com o motorista.`,
+        `Melhor época: maio-junho e setembro-outubro para evitar multidões e calor; o verão é muito movimentado e as praias fecham aos cães.`,
       ],
     },
   },

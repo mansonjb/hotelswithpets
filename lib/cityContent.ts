@@ -28988,10 +28988,10 @@ const cityContent: Record<string, CityContent> = {
 
   nuremberg: {
     history: {
-      fr: `Nuremberg (Nürnberg em allemand), capitale officieuse de la Franconie, fut l'une des grandes villes libres impériales du Saint-Empire romain germanique du XIIIe au XVIIIe siècle, siège fréquent des Diètes impériales et résidence préférée de plusieurs empereurs. Le Kaiserburg, perché sur sa crête de grès, et l'Altstadt à colombages classée au patrimoine bavarois témoignent de cet âge d'or. Berceau d'Albrecht Dürer et du Lebkuchen (pain d'épices), Nuremberg accueille depuis 1628 le plus célèbre marché de Noël d'Allemagne, le Christkindlesmarkt, qui attire chaque année 2 millions de visiteurs. La ville fut presque entièrement détruite en 1945 puis reconstruite à l'identique. Aujourd'hui, deuxième ville de Bavière avec 520 000 habitants, Nuremberg combine héritage médiéval, culture Wirtshaus accueillant les chiens à l'intérieur et accès direct à 25 000 hectares de forêt impériale (Reichswald). À 1h05 de Munich et 4h de Berlin em ICE, c'est l'une des villes allemandes les plus faciles avec un chien.`,
+      fr: `Nuremberg (Nürnberg en allemand), capitale officieuse de la Franconie, fut l'une des grandes villes libres impériales du Saint-Empire romain germanique du XIIIe au XVIIIe siècle, siège fréquent des Diètes impériales et résidence préférée de plusieurs empereurs. Le Kaiserburg, perché sur sa crête de grès, et l'Altstadt à colombages classée au patrimoine bavarois témoignent de cet âge d'or. Berceau d'Albrecht Dürer et du Lebkuchen (pain d'épices), Nuremberg accueille depuis 1628 le plus célèbre marché de Noël d'Allemagne, le Christkindlesmarkt, qui attire chaque année 2 millions de visiteurs. La ville fut presque entièrement détruite en 1945 puis reconstruite à l'identique. Aujourd'hui, deuxième ville de Bavière avec 520 000 habitants, Nuremberg combine héritage médiéval, culture Wirtshaus accueillant les chiens à l'intérieur et accès direct à 25 000 hectares de forêt impériale (Reichswald). À 1h05 de Munich et 4h de Berlin en ICE, c'est l'une des villes allemandes les plus faciles avec un chien.`,
       en: `Nuremberg (Nürnberg in German), the unofficial capital of Franconia, was one of the great Free Imperial Cities of the Holy Roman Empire from the 13th to the 18th century, frequent site of Imperial Diets and a favourite residence of several emperors. The Kaiserburg, perched on its sandstone ridge, and the half-timbered Altstadt (listed as a Bavarian heritage ensemble) testify to that golden age. Birthplace of Albrecht Dürer and of Lebkuchen (gingerbread), Nuremberg has hosted since 1628 Germany's most famous Christmas market, the Christkindlesmarkt, which now draws 2 million visitors each year. The city was almost entirely destroyed in 1945 and faithfully rebuilt. Today, Bavaria's second city with 520,000 inhabitants, Nuremberg combines medieval heritage, a Wirtshaus culture that welcomes dogs indoors, and direct access to 25,000 hectares of imperial forest (Reichswald). Just 1h05 from Munich and 4h from Berlin by ICE, it is one of Germany's easiest cities for travel with a dog.`,
-      es: `Núremberg (Nürnberg em alemán), capital extraoficial de Franconia, fue una das grandes Ciudades Imperiales Libres del Sacro Imperio Romano Germánico del s. XIII al XVIII, sede frecuente das Dietas Imperiales y residencia preferida de varios emperadores. El Kaiserburg, encaramado em su cresta de arenisca, y a Altstadt con entramado de madera (conjunto patrimonial bávaro) atestiguan esa edad de oro. Cuna de Albrecht Dürer y del Lebkuchen (pan de jengibre), Núremberg acoge desde 1628 el mercado navideño más famoso de Alemania, el Christkindlesmarkt, que atrae cada año a 2 millones de visitantes. a cidade fue casi completamente destruida en 1945 y reconstruida fielmente. Hoy, segunda ciudad de Baviera con 520.000 habitantes, Núremberg combina herencia medieval, cultura Wirtshaus que admite perros dentro y acceso directo a 25.000 hectáreas de floresta imperial (Reichswald). A 1h05 de Múnich y 4h de Berlín em ICE, es una das ciudades alemanas más fáceis para viajar con perro.`,
-      pt: `Núremberg (Nürnberg em alemão), capital extraoficial de Franconia, foi uma das grandes Cidades Imperiales Libres do Sacro Imperio Romano Germánico do s. XIII al XVIII, sede frecuente das Dietas Imperiales e residencia preferida de vários emperadores. O Kaiserburg, encaramado em su cresta de arenisca, e a Altstadt com entramado de madeira (conjunto patrimonial bávaro) atestiguan essa edad de oro. Cuna de Albrecht Dürer e do Lebkuchen (pan de jengibre), Núremberg acoge a partir de 1628 o mercado navidenho mais famoso de Alemania, o Christkindlesmarkt, que atrae cada ano a 2 millones de visitantes. A cidade foi quase completamente destruida em 1945 e reconstruida fielmente. Hoy, segunda cidade de Baviera com 520.000 habitantes, Núremberg combina herencia medieval, cultura Wirtshaus que admite cães dentro e acesso directo a 25.000 hectáreas de floresta imperial (Reichswald). A 1h05 de Múnich e 4h de Berlín em ICE, é uma das as cidades alemãs mais fáceis para viajar com cão.`,
+      es: `Núremberg (Nürnberg en alemán), capital extraoficial de Franconia, fue una de las grandes Ciudades Imperiales Libres del Sacro Imperio Romano Germánico del s. XIII al XVIII, sede frecuente de las Dietas Imperiales y residencia preferida de varios emperadores. El Kaiserburg, encaramado en su cresta de arenisca, y la Altstadt con entramado de madera (conjunto patrimonial bávaro) atestiguan esa edad de oro. Cuna de Albrecht Dürer y del Lebkuchen (pan de jengibre), Núremberg acoge desde 1628 el mercado navideño más famoso de Alemania, el Christkindlesmarkt, que atrae cada año a 2 millones de visitantes. La ciudad fue casi completamente destruida en 1945 y reconstruida fielmente. Hoy, segunda ciudad de Baviera con 520.000 habitantes, Núremberg combina herencia medieval, cultura Wirtshaus que admite perros dentro y acceso directo a 25.000 hectáreas de bosque imperial (Reichswald). A 1h05 de Múnich y 4h de Berlín en ICE, es una de las ciudades alemanas más fáciles para viajar con perro.`,
+      pt: `Nuremberga (Nürnberg em alemão), capital extraoficial da Francónia, foi uma das grandes Cidades Imperiais Livres do Sacro Império Romano-Germânico do séc. XIII ao XVIII, sede frequente das Dietas Imperiais e residência preferida de vários imperadores. O Kaiserburg, empoleirado na sua crista de arenito, e a Altstadt de tabique (conjunto patrimonial bávaro) atestam essa idade de ouro. Berço de Albrecht Dürer e do Lebkuchen (pão de mel), Nuremberga acolhe desde 1628 o mercado de Natal mais famoso da Alemanha, o Christkindlesmarkt, que atrai todos os anos 2 milhões de visitantes. A cidade foi quase completamente destruída em 1945 e reconstruída fielmente. Hoje, segunda cidade da Baviera com 520.000 habitantes, Nuremberga combina herança medieval, cultura Wirtshaus que acolhe cães no interior e acesso direto a 25.000 hectares de floresta imperial (Reichswald). A 1h05 de Munique e 4h de Berlim em ICE, é uma das cidades alemãs mais fáceis para viajar com cão.`,
     },
     sights: [
       {
@@ -28999,10 +28999,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏰',
         petFriendly: true,
         desc: {
-          fr: `Château impérial médiéval perché sur la crête de grès. Les cours extérieures et les jardins du Burggarten (avril–octobre) sont ouverts aux chiens em laisse ; les intérieurs des musées ne le sont pas.`,
+          fr: `Château impérial médiéval perché sur la crête de grès. Les cours extérieures et les jardins du Burggarten (avril–octobre) sont ouverts aux chiens en laisse ; les intérieurs des musées ne le sont pas.`,
           en: `Medieval imperial castle perched on the sandstone ridge. The outdoor courtyards and Burggarten gardens (April–October) are open to leashed dogs; museum interiors are not.`,
-          es: `Castillo imperial medieval encaramado na cresta de arenisca. Los patios exteriores y los jardines del Burggarten (abril–octubre) admiten perros com trela; los interiores dos museos no.`,
-          pt: `Castelo imperial medieval encaramado na cresta de arenisca. Os patios exteriores e os jardins do Burggarten (abril–outubro) admitem cães com trela; os interiores dois museus no.`,
+          es: `Castillo imperial medieval encaramado en la cresta de arenisca. Los patios exteriores y los jardines del Burggarten (abril–octubre) admiten perros con correa; los interiores de los museos no.`,
+          pt: `Castelo imperial medieval empoleirado na crista de arenito. Os pátios exteriores e os jardins do Burggarten (abril–outubro) admitem cães com trela; os interiores dos museus não.`,
         },
       },
       {
@@ -29010,10 +29010,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛲',
         petFriendly: true,
         desc: {
-          fr: `Place centrale du marché, dominée par la Belle Fontaine gothique (Schöner Brunnen, 1385–96) et la Frauenkirche. Marché quotidien 9h–18h ; site du Christkindlesmarkt em décembre.`,
+          fr: `Place centrale du marché, dominée par la Belle Fontaine gothique (Schöner Brunnen, 1385–96) et la Frauenkirche. Marché quotidien 9h–18h ; site du Christkindlesmarkt en décembre.`,
           en: `central market square, dominated by the Gothic Beautiful Fountain (Schöner Brunnen, 1385–96) and the Frauenkirche. Daily market 09:00–18:00; site of the Christkindlesmarkt in December.`,
-          es: `Plaza central del mercado, dominada por la gótica Hermosa Fuente (Schöner Brunnen, 1385–96) y la Frauenkirche. Mercado diario 09:00–18:00; sede del Christkindlesmarkt em dezembro.`,
-          pt: `Praça central do mercado, dominada pela gótica Hermosa Fuente (Schöner Brunnen, 1385–96) e a Frauenkirche. Mercado diario 09:00–18:00; sede do Christkindlesmarkt em dezembro.`,
+          es: `Plaza central del mercado, dominada por la gótica Hermosa Fuente (Schöner Brunnen, 1385–96) y la Frauenkirche. Mercado diario 09:00–18:00; sede del Christkindlesmarkt en diciembre.`,
+          pt: `Praça central do mercado, dominada pela gótica Bela Fonte (Schöner Brunnen, 1385–96) e pela Frauenkirche. Mercado diário 09:00–18:00; sede do Christkindlesmarkt em dezembro.`,
         },
       },
       {
@@ -29024,7 +29024,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `La place pavée la plus photogénique de Nuremberg, au pied du Kaiserburg. La maison à colombages où vécut Dürer (1509–1528) est un musée, chiens interdits ; la place extérieure leur est ouverte.`,
           en: `Nuremberg's most photogenic cobbled square, at the foot of the Kaiserburg. The half-timbered house where Dürer lived (1509–1528) is a museum, dogs not allowed; the outdoor square is open to them.`,
           es: `La plaza empedrada más fotogénica de Núremberg, a los pies del Kaiserburg. La casa con entramado donde vivió Dürer (1509–1528) es un museo, perros no admitidos; la plaza exterior sí.`,
-          pt: `A praça empedrada mais fotogénica de Núremberg, aos pies do Kaiserburg. A casa com entramado onde vivió Dürer (1509–1528) é um museu, cães no admitidos; a praça exterior sí.`,
+          pt: `A praça calcetada mais fotogénica de Nuremberga, aos pés do Kaiserburg. A casa de tabique onde Dürer viveu (1509–1528) é um museu, cães não admitidos; a praça exterior está aberta a eles.`,
         },
       },
       {
@@ -29032,10 +29032,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🐕',
         petFriendly: true,
         desc: {
-          fr: `Lac artificiel de 44 ha avec plage canine désignée (Hundebadestelle) sur la rive nord. Sentier em boucle de 4 km, eau peu profonde, idéal pour la baignade canine en été.`,
+          fr: `Lac artificiel de 44 ha avec plage canine désignée (Hundebadestelle) sur la rive nord. Sentier en boucle de 4 km, eau peu profonde, idéal pour la baignade canine en été.`,
           en: `44-hectare artificial lake with designated dog beach (Hundebadestelle) on the north shore. 4 km loop trail, shallow water, ideal for dog swimming in summer.`,
-          es: `Lago artificial de 44 ha con playa canina designada (Hundebadestelle) na orilla norte. Sendero circular de 4 km, agua poco profunda, ideal para baño canino em verano.`,
-          pt: `Lago artificial de 44 tem com praia canina designada (Hundebadestelle) na margem norte. Trilho circular de 4 km, água pouco profunda, ideal para banho canino em verão.`,
+          es: `Lago artificial de 44 ha con playa canina designada (Hundebadestelle) en la orilla norte. Sendero circular de 4 km, agua poco profunda, ideal para baño canino en verano.`,
+          pt: `Lago artificial de 44 ha com praia canina designada (Hundebadestelle) na margem norte. Trilho circular de 4 km, água pouco profunda, ideal para banho canino no verão.`,
         },
       },
       {
@@ -29043,10 +29043,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌲',
         petFriendly: true,
         desc: {
-          fr: `Forêt impériale de 25 000 ha em lisière de ville. La loi forestière bavaroise autorise les chiens sans laisse sur les sentiers balisés hors heures de chasse (aube/crépuscule avril–juillet).`,
+          fr: `Forêt impériale de 25 000 ha en lisière de ville. La loi forestière bavaroise autorise les chiens sans laisse sur les sentiers balisés hors heures de chasse (aube/crépuscule avril–juillet).`,
           en: `25,000-hectare imperial forest at the city edge. Bavarian forest law allows dogs off-leash on marked paths outside hunting hours (dawn/dusk April–July).`,
-          es: `floresta imperial de 25.000 ha al borde de a cidade. La ley forestal bávara permite perros sin trela em senderos señalizados fuera de horas de caza (amanecer/atardecer abril–julio).`,
-          pt: `Floresta imperial de 25.000 tem al borde da cidade. A lei forestal bávara permite cães sem trela em trilhos senhalizados fora de horas de caza (amanecer/atardecer abril–julho).`,
+          es: `Bosque imperial de 25.000 ha al borde de la ciudad. La ley forestal bávara permite perros sin correa en senderos señalizados fuera de horas de caza (amanecer/atardecer abril–julio).`,
+          pt: `Floresta imperial de 25.000 ha à beira da cidade. A lei florestal bávara autoriza os cães sem trela nos trilhos sinalizados fora das horas de caça (amanhecer/anoitecer abril–julho).`,
         },
       },
       {
@@ -29054,20 +29054,20 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🎄',
         petFriendly: true,
         desc: {
-          fr: `Marché de Noël depuis 1628, 28 novembre au 24 décembre. Les chiens em laisse sont admis partout sur le Hauptmarkt, mais la foule est dense (2 M de visiteurs sur 4 semaines), préférez les après-midis em semaine ou après 21h.`,
+          fr: `Marché de Noël depuis 1628, 28 novembre au 24 décembre. Les chiens en laisse sont admis partout sur le Hauptmarkt, mais la foule est dense (2 M de visiteurs sur 4 semaines), préférez les après-midis en semaine ou après 21h.`,
           en: `Christmas market since 1628, 28 November to 24 December. Leashed dogs welcome throughout the Hauptmarkt, but crowds are thick (2 M visitors over 4 weeks), prefer weekday afternoons or after 21:00.`,
-          es: `Mercado navideño desde 1628, del 28 de novembro ao 24 de dezembro. Perros com trela admitidos em todo el Hauptmarkt, pero las multitudes son densas (2 M de visitantes en 4 semanas), prefiere tardes entre semana o después das 21:00.`,
-          pt: `Mercado navidenho a partir de 1628, do 28 de novembro ao 24 de dezembro. Cães com trela admitidos em todo o Hauptmarkt, mas as multitudes são densas (2 M de visitantes em 4 semanas), prefiere tardes entre semana o depois das 21:00.`,
+          es: `Mercado navideño desde 1628, del 28 de noviembre al 24 de diciembre. Perros con correa admitidos en todo el Hauptmarkt, pero las multitudes son densas (2 M de visitantes en 4 semanas), prefiere tardes entre semana o después de las 21:00.`,
+          pt: `Mercado de Natal desde 1628, de 28 de novembro a 24 de dezembro. Cães com trela são admitidos em todo o Hauptmarkt, mas a multidão é densa (2 M de visitantes em 4 semanas), prefira as tardes de dias úteis ou depois das 21h.`,
         },
       },
     ],
     petTips: {
       fr: [
-        `Les Wirtshaus allemands accueillent massivement les chiens em laisse à l'intérieur, bien plus qu'em Europe du Sud.`,
-        `Le réseau VGN (U-Bahn, tram, bus) accepte les petits chiens em sac gratuitement ; chiens plus grands : billet enfant + laisse.`,
-        `Le Reichswald em lisière de ville offre 25 000 ha de forêt avec sentiers sans laisse, accessible em tram 4 jusqu'au terminus.`,
-        `La loi Listenhunde bavaroise restreint Pit Bull, Bull Terrier et variantes Staffordshire, emportez les papiers si vous em avez un.`,
-        `Le sel antigel sur les pavés de l'Altstadt em décembre peut blesser les coussinets, bottines protectrices ou Vaseline avant la sortie.`,
+        `Les Wirtshaus allemands accueillent massivement les chiens en laisse à l'intérieur, bien plus qu'en Europe du Sud.`,
+        `Le réseau VGN (U-Bahn, tram, bus) accepte les petits chiens en sac gratuitement ; chiens plus grands : billet enfant + laisse.`,
+        `Le Reichswald en lisière de ville offre 25 000 ha de forêt avec sentiers sans laisse, accessible en tram 4 jusqu'au terminus.`,
+        `La loi Listenhunde bavaroise restreint Pit Bull, Bull Terrier et variantes Staffordshire, emportez les papiers si vous en avez un.`,
+        `Le sel antigel sur les pavés de l'Altstadt en décembre peut blesser les coussinets, bottines protectrices ou Vaseline avant la sortie.`,
       ],
       en: [
         `German Wirtshäuser welcome leashed dogs indoors on a massive scale, far more than in southern Europe.`,
@@ -29077,26 +29077,26 @@ const cityContent: Record<string, CityContent> = {
         `Anti-icing salt on Altstadt cobbles in December can hurt paw pads, protective booties or Vaseline before going out.`,
       ],
       es: [
-        `Las Wirtshäuser alemanas admiten masivamente perros com trela em o interior, mucho más que em el sur de Europa.`,
-        `a rede VGN (U-Bahn, tranvía, autobús) admite perros pequeños em transportín gratis; perros más grandes necesitan billete infantil y trela.`,
-        `El Reichswald al borde de a cidade ofrece 25.000 ha de floresta con senderos sin trela, acessível em tranvía 4 hasta el final.`,
+        `Las Wirtshäuser alemanas admiten masivamente perros con correa en el interior, mucho más que en el sur de Europa.`,
+        `La red VGN (U-Bahn, tranvía, autobús) admite perros pequeños en transportín gratis; perros más grandes necesitan billete infantil y correa.`,
+        `El Reichswald al borde de la ciudad ofrece 25.000 ha de bosque con senderos sin correa, accesible en tranvía 4 hasta el final.`,
         `La ley Listenhunde bávara restringe Pit Bull, Bull Terrier y variantes Staffordshire, lleva los papeles si tienes uno.`,
-        `La sal anticongelante sobre los adoquines de a Altstadt em dezembro puede dañar las almohadillas, botitas protectoras o vaselina antes de salir.`,
+        `La sal anticongelante sobre los adoquines de la Altstadt en diciembre puede dañar las almohadillas, botitas protectoras o vaselina antes de salir.`,
       ],
       pt: [
-        `As Wirtshäuser alemãs admiten masivamente cães com trela no interior, muito mais que no sur de Europa.`,
-        `A red VGN (U-Bahn, elétrico, autocarro) admite cães pequenos em transportadora grátis; cães mais grandes necesitan bilhete infantil e trela.`,
-        `O Reichswald al borde da cidade ofrece 25.000 ha de floresta con trilhos sem trela, acessível no elétrico 4 até o final.`,
-        `A lei Listenhunde bávara restringe Pit Bull, Bull Terrier e variantes Staffordshire, lleva os papeles si tienes uno.`,
-        `A sal anticongelante sobre os adoquines da Altstadt em dezembro pode dañar as almohadillas, botitas protectoras o vaselina antes de sair.`,
+        `As Wirtshäuser alemãs admitem massivamente cães com trela no interior, muito mais que no sul da Europa.`,
+        `A rede VGN (U-Bahn, elétrico, autocarro) admite cães pequenos em transportadora grátis; cães maiores precisam de bilhete infantil e trela.`,
+        `O Reichswald à beira da cidade oferece 25.000 ha de floresta com trilhos sem trela, acessível no elétrico 4 até ao final.`,
+        `A lei Listenhunde bávara restringe Pit Bull, Bull Terrier e variantes Staffordshire, leve os papéis se tiver um.`,
+        `O sal anticongelante sobre os paralelepípedos da Altstadt em dezembro pode magoar as almofadas das patas, botas protetoras ou vaselina antes de sair.`,
       ],
     },
     practicalInfo: {
       fr: [
         `Vétérinaires d'urgence 24h/24 : Tierklinik Nürnberg-Hafen, Hafenstraße 5, +49 911 64 87 60 ; Anicura Tierklinik, Stresemannplatz 5, +49 911 58 78 50`,
         `Cabinet de jour central : Tierarztpraxis Altstadt, Ludwigsplatz 8, +49 911 22 47 73`,
-        `ICE depuis Munich : 1h05 ; depuis Francfort : 2h15 ; depuis Berlin : 4h. Petits chiens em sac gratuits ; chiens plus grands : billet enfant (50%) + muselière.`,
-        `Aéroport Nuremberg NUE à 7 km au nord, 12 min em U-Bahn U2 depuis la gare centrale.`,
+        `ICE depuis Munich : 1h05 ; depuis Francfort : 2h15 ; depuis Berlin : 4h. Petits chiens en sac gratuits ; chiens plus grands : billet enfant (50%) + muselière.`,
+        `Aéroport Nuremberg NUE à 7 km au nord, 12 min en U-Bahn U2 depuis la gare centrale.`,
       ],
       en: [
         `24/7 emergency vets: Tierklinik Nürnberg-Hafen, Hafenstraße 5, +49 911 64 87 60; Anicura Tierklinik, Stresemannplatz 5, +49 911 58 78 50`,
@@ -29107,14 +29107,14 @@ const cityContent: Record<string, CityContent> = {
       es: [
         `Veterinarios de urgencias 24h: Tierklinik Nürnberg-Hafen, Hafenstraße 5, +49 911 64 87 60; Anicura Tierklinik, Stresemannplatz 5, +49 911 58 78 50`,
         `Clínica diurna céntrica: Tierarztpraxis Altstadt, Ludwigsplatz 8, +49 911 22 47 73`,
-        `ICE desde Múnich: 1h05; desde Fráncfort: 2h15; desde Berlín: 4h. Perros pequeños em transportín gratis; perros más grandes necesitan billete infantil (50%) y bozal.`,
-        `Aeropuerto Núremberg NUE a 7 km al norte, 12 min em U-Bahn U2 desde a estação central.`,
+        `ICE desde Múnich: 1h05; desde Fráncfort: 2h15; desde Berlín: 4h. Perros pequeños en transportín gratis; perros más grandes necesitan billete infantil (50%) y bozal.`,
+        `Aeropuerto Núremberg NUE a 7 km al norte, 12 min en U-Bahn U2 desde la estación central.`,
       ],
       pt: [
         `Veterinários de urgências 24h: Tierklinik Nürnberg-Hafen, Hafenstraße 5, +49 911 64 87 60; Anicura Tierklinik, Stresemannplatz 5, +49 911 58 78 50`,
-        `Clínica diurna céntrica: Tierarztpraxis Altstadt, Ludwigsplatz 8, +49 911 22 47 73`,
-        `ICE a partir de Múnich: 1h05; a partir de Fráncfort: 2h15; a partir de Berlín: 4h. Cães pequenos em transportadora grátis; cães mais grandes necesitan bilhete infantil (50%) e bozal.`,
-        `Aeroporto Núremberg NUE a 7 km al norte, 12 min em U-Bahn U2 a partir da estação central.`,
+        `Clínica diurna central: Tierarztpraxis Altstadt, Ludwigsplatz 8, +49 911 22 47 73`,
+        `ICE a partir de Munique: 1h05; a partir de Frankfurt: 2h15; a partir de Berlim: 4h. Cães pequenos em transportadora grátis; cães maiores precisam de bilhete infantil (50%) e açaime.`,
+        `Aeroporto Nuremberga NUE a 7 km a norte, 12 min de U-Bahn U2 a partir da estação central.`,
       ],
     },
   },

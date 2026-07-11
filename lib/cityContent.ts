@@ -11707,10 +11707,10 @@ const cityContent: Record<string, CityContent> = {
 
   coimbra: {
     history: {
-      fr: `Coimbra, troisième ville du Portugal et capitale médiévale du royaume entre 1131 et 1255, doit aujourd'hui sa renommée à son université, fondée en 1290 par le roi Dinis, l'une des plus anciennes d'Europe em activité continue. Inscrite au patrimoine mondial de l'UNESCO en 2013 sous l'intitulé « Université de Coimbra, Alta et Sofia », la ville concentre dans un centre historique compact des chefs-d'œuvre qui couvrent neuf siècles : la Sé Velha romane (1184), la Bibliothèque Joanina baroque (1717), le couvent de Santa Cruz (XIIe s.) et l'iconique cape noire des étudiants. Étalée sur une colline qui domine le Mondego, Coimbra se découvre à pied avec un chien em laisse, pavés, escaliers (Quebra-Costas signifie « casse-dos ») et terrasses ombragées. À 1h45 de Lisbonne et 1h15 de Porto em train Alfa Pendular, c'est l'une des villes les plus dog-friendly du Portugal grâce à la culture étudiante détendue et à la Mata do Choupal, 78 hectares de forêt riveraine à 10 min du centre.`,
+      fr: `Coimbra, troisième ville du Portugal et capitale médiévale du royaume entre 1131 et 1255, doit aujourd'hui sa renommée à son université, fondée en 1290 par le roi Dinis, l'une des plus anciennes d'Europe en activité continue. Inscrite au patrimoine mondial de l'UNESCO en 2013 sous l'intitulé « Université de Coimbra, Alta et Sofia », la ville concentre dans un centre historique compact des chefs-d'œuvre qui couvrent neuf siècles : la Sé Velha romane (1184), la Bibliothèque Joanina baroque (1717), le couvent de Santa Cruz (XIIe s.) et l'iconique cape noire des étudiants. Étalée sur une colline qui domine le Mondego, Coimbra se découvre à pied avec un chien en laisse, pavés, escaliers (Quebra-Costas signifie « casse-dos ») et terrasses ombragées. À 1h45 de Lisbonne et 1h15 de Porto en train Alfa Pendular, c'est l'une des villes les plus dog-friendly du Portugal grâce à la culture étudiante détendue et à la Mata do Choupal, 78 hectares de forêt riveraine à 10 min du centre.`,
       en: `Coimbra, Portugal's third city and its medieval capital from 1131 to 1255, owes its modern fame to the University of Coimbra, founded in 1290 by King Dinis, one of Europe's oldest continuously operating universities. Listed by UNESCO in 2013 as 'Coimbra, Alta and Sofia', the city packs into a compact historic centre masterpieces spanning nine centuries: the Romanesque Sé Velha (1184), the Baroque Joanina Library (1717), the Santa Cruz monastery (12th c.) and the iconic black student cape. Set on a hill rising from the Mondego, Coimbra is best explored on foot with a leashed dog, cobbles, stairways (Quebra-Costas means 'back-breaker') and shaded terraces. Just 1h45 from Lisbon and 1h15 from Porto by Alfa Pendular train, it's among Portugal's most dog-friendly cities thanks to relaxed student culture and the Mata do Choupal, 78 hectares of riparian forest 10 minutes west of the centre.`,
-      es: `Coimbra, tercera ciudad de Portugal y capital medieval del reino entre 1131 y 1255, debe su fama moderna a a Universidad de Coimbra, fundada en 1290 por el rey Dinis, una das más antigas de Europa em actividad continua. Declarada Patrimonio UNESCO en 2013 bajo el título «Coimbra, Alta y Sofia», a cidade concentra em un casco histórico compacto obras maestras que abarcan nueve siglos: la Sé Velha románica (1184), la Biblioteca Joanina barroca (1717), el monasterio de Santa Cruz (s. XII) y a icónica capa negra estudiantil. Asentada em una colina sobre el Mondego, Coimbra se descubre a pie con perro com trela, adoquines, escaleras (Quebra-Costas significa «rompe-espaldas») y terrazas a la sombra. A 1h45 de Lisboa y 1h15 de Oporto em tren Alfa Pendular, es una das ciudades más pet-friendly de Portugal gracias a la cultura estudiantil relajada y a la Mata do Choupal, 78 hectáreas de floresta ripario a 10 min al oeste del centro.`,
-      pt: `Coimbra, terceira cidade de Portugal e capital medieval do reino entre 1131 e 1255, deve a sua fama moderna à Universidade de Coimbra, fundada em 1290 por D. Dinis, uma das mais antigas da Europa em atividade contínua. Classificada como Património Mundial pela UNESCO em 2013 sob o título «Universidade de Coimbra, Alta e Sofia», a cidade concentra num centro histórico compacto obras-primas que abrangem nove séculos: a Sé Velha românica (1184), a Biblioteca Joanina barroca (1717), o Mosteiro de Santa Cruz (séc. XII) e a icónica capa negra dois estudantes. Assente sobre uma colina que domina o Mondego, Coimbra descobre-se a pé com um cão com trela, calçada, escadarias (Quebra-Costas) e esplanadas à sombra. A 1h45 de Lisboa e 1h15 do Porto em Alfa Pendular, é uma das cidades mais pet-friendly de Portugal graças à cultura estudantil descontraída e à Mata do Choupal, 78 hectares de floresta ribeirinha a 10 min do centro.`,
+      es: `Coímbra, tercera ciudad de Portugal y capital medieval del reino entre 1131 y 1255, debe su fama moderna a la Universidad de Coímbra, fundada en 1290 por el rey Dinis, una de las más antiguas de Europa en actividad continua. Declarada Patrimonio de la Humanidad por la UNESCO en 2013 bajo el título «Coímbra, Alta y Sofía», la ciudad concentra en un casco histórico compacto obras maestras que abarcan nueve siglos: la Sé Velha románica (1184), la Biblioteca Joanina barroca (1717), el monasterio de Santa Cruz (s. XII) y la icónica capa negra estudiantil. Asentada en una colina sobre el Mondego, Coímbra se descubre a pie con el perro con correa, adoquines, escaleras (Quebra-Costas significa «rompe-espaldas») y terrazas a la sombra. A 1h45 de Lisboa y 1h15 de Oporto en tren Alfa Pendular, es una de las ciudades más pet-friendly de Portugal gracias a la cultura estudiantil relajada y a la Mata do Choupal, 78 hectáreas de bosque de ribera a 10 min al oeste del centro.`,
+      pt: `Coimbra, terceira cidade de Portugal e capital medieval do reino entre 1131 e 1255, deve a sua fama moderna à Universidade de Coimbra, fundada em 1290 por D. Dinis, uma das mais antigas da Europa em atividade contínua. Classificada como Património Mundial pela UNESCO em 2013 sob o título «Universidade de Coimbra, Alta e Sofia», a cidade concentra num centro histórico compacto obras-primas que abrangem nove séculos: a Sé Velha românica (1184), a Biblioteca Joanina barroca (1717), o Mosteiro de Santa Cruz (séc. XII) e a icónica capa negra dos estudantes. Assente sobre uma colina que domina o Mondego, Coimbra descobre-se a pé com um cão com trela, calçada, escadarias (Quebra-Costas) e esplanadas à sombra. A 1h45 de Lisboa e 1h15 do Porto em Alfa Pendular, é uma das cidades mais pet-friendly de Portugal graças à cultura estudantil descontraída e à Mata do Choupal, 78 hectares de floresta ribeirinha a 10 min do centro.`,
     },
     sights: [
       {
@@ -11718,10 +11718,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🎓',
         petFriendly: true,
         desc: {
-          fr: `Fondée en 1290, inscrite à l'UNESCO en 2013. La cour extérieure du Paço das Escolas au sommet de la colline accueille les chiens em laisse. Les visites intérieures (Bibliothèque Joanina, Palais Royal) restent payantes et interdites aux animaux.`,
+          fr: `Fondée en 1290, inscrite à l'UNESCO en 2013. La cour extérieure du Paço das Escolas au sommet de la colline accueille les chiens en laisse. Les visites intérieures (Bibliothèque Joanina, Palais Royal) restent payantes et interdites aux animaux.`,
           en: `Founded 1290, UNESCO-listed since 2013. The outdoor Paço das Escolas courtyard at the top of the hill welcomes leashed dogs. Interior tours (Joanina Library, Royal Palace) remain ticketed and off-limits to pets.`,
-          es: `fundada en 1290, Patrimonio UNESCO desde 2013. El patio exterior del Paço das Escolas em lo alto de la colina admite perros com trela. Las visitas interiores (Biblioteca Joanina, Palacio Real) son de pago y vetadas a mascotas.`,
-          pt: `fundada em 1290, Património UNESCO desde 2013. O pátio exterior do Paço das Escolas no topo da colina admite cães com trela. As visitas interiores (Biblioteca Joanina, Paço Real) são pagas e vedadas a animais.`,
+          es: `Fundada en 1290, Patrimonio UNESCO desde 2013. El patio exterior del Paço das Escolas en lo alto de la colina admite perros con correa. Las visitas interiores (Biblioteca Joanina, Palacio Real) son de pago y vetadas a mascotas.`,
+          pt: `Fundada em 1290, Património UNESCO desde 2013. O pátio exterior do Paço das Escolas no topo da colina admite cães com trela. As visitas interiores (Biblioteca Joanina, Paço Real) são pagas e vedadas a animais.`,
         },
       },
       {
@@ -11731,8 +11731,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Cathédrale romane à allure de forteresse consacrée en 1184. Chiens interdits à l'intérieur (sauf chiens d'assistance), mais la place pavée devant est l'un des plus beaux extérieurs de la ville.`,
           en: `Fortress-like Romanesque cathedral consecrated 1184. Dogs not allowed inside (except assistance dogs), but the cobbled square in front is one of the city's prettiest outdoor spots.`,
-          es: `Catedral románica con aspecto de fortaleza consagrada en 1184. No se admiten perros em o interior (salvo perros de asistencia), pero la plaza empedrada delante es uno dos exteriores más belos de a cidade.`,
-          pt: `Catedral românica com ar de fortaleza, consagrada em 2184. Não admite cães no interior (salvo cães de assistência), mas o longo empedrado em frente é um dois mais belos exteriores da cidade.`,
+          es: `Catedral románica con aspecto de fortaleza consagrada en 1184. No se admiten perros en el interior (salvo perros de asistencia), pero la plaza empedrada de delante es uno de los exteriores más bonitos de la ciudad.`,
+          pt: `Catedral românica com ar de fortaleza, consagrada em 1184. Não admite cães no interior (salvo cães de assistência), mas o largo empedrado em frente é um dos mais belos exteriores da cidade.`,
         },
       },
       {
@@ -11740,10 +11740,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌳',
         petFriendly: true,
         desc: {
-          fr: `Forêt riveraine de 78 ha le long du Mondego à l'ouest du centre, peupliers, frênes, saules, et un sentier em boucle de 5 km. Le spot de promenade canine le plus apprécié de Coimbra.`,
+          fr: `Forêt riveraine de 78 ha le long du Mondego à l'ouest du centre, peupliers, frênes, saules, et un sentier en boucle de 5 km. Le spot de promenade canine le plus apprécié de Coimbra.`,
           en: `78 ha riparian forest along the Mondego west of the centre, poplars, ash, willows and a 5 km loop trail. The most popular dog walking spot in Coimbra.`,
-          es: `floresta ripario de 78 ha junto al Mondego al oeste del centro, choupos, fresnos, sauces y un sendero circular de 5 km. El lugar de paseo canino más popular de Coimbra.`,
-          pt: `Mata ribeirinha de 78 tem ao longo do Mondego, a oeste do centro, choupos, freixos, salgueiros e um trilho circular de 5 km. O local de passeio canino mais popular de Coimbra.`,
+          es: `Bosque de ribera de 78 ha junto al Mondego al oeste del centro, álamos, fresnos, sauces y un sendero circular de 5 km. El lugar de paseo canino más popular de Coímbra.`,
+          pt: `Mata ribeirinha de 78 ha ao longo do Mondego, a oeste do centro, choupos, freixos, salgueiros e um trilho circular de 5 km. O local de passeio canino mais popular de Coimbra.`,
         },
       },
       {
@@ -11753,7 +11753,7 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Passerelle piétonne courbe (2007) reliant les deux rives du Parque Verde do Mondego. Vue imbattable sur la silhouette de la vieille ville au coucher du soleil. Ouverte 24h/24 aux chiens.`,
           en: `Curved pedestrian bridge (2007) linking the two banks of the Parque Verde do Mondego. Unbeatable view of the old town skyline at sunset. Open 24/7 to dogs.`,
-          es: `Pasarela peatonal curvada (2007) que une las dos orillas del Parque Verde do Mondego. Vista inmejorable de la silueta del casco antigo al atardecer. Abierta 24h a los perros.`,
+          es: `Pasarela peatonal curvada (2007) que une las dos orillas del Parque Verde do Mondego. Vista inmejorable de la silueta del casco antiguo al atardecer. Abierta 24h a los perros.`,
           pt: `Ponte pedonal curva (2007) que une as duas margens do Parque Verde do Mondego. Vista imbatível da silhueta do centro histórico ao pôr do sol. Aberta 24h a cães.`,
         },
       },
@@ -11762,10 +11762,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌿',
         petFriendly: true,
         desc: {
-          fr: `Fondé en 1772, l'un des plus anciens jardins botaniques universitaires d'Europe. Terrasses paysagées, arbres rares, bambouseraie. Chiens em laisse admis dans les espaces extérieurs (pas dans les serres).`,
+          fr: `Fondé en 1772, l'un des plus anciens jardins botaniques universitaires d'Europe. Terrasses paysagées, arbres rares, bambouseraie. Chiens en laisse admis dans les espaces extérieurs (pas dans les serres).`,
           en: `Founded 1772, one of Europe's oldest university botanical gardens. Terraced grounds, rare trees, bamboo grove. Leashed dogs welcome in the outdoor areas (not in the greenhouses).`,
-          es: `fundado en 1772, uno dos jardines botánicos universitarios más antigos de Europa. Terrazas paisajísticas, árboles raros, bambúzar. Perros com trela admitidos em los espacios exteriores (no em los invernaderos).`,
-          pt: `fundado em 1772, um dois mais antigos jardins botânicos universitários da Europa. Socalcos paisagísticos, árvores raras, bambuzal. Cães com trela admitidos nos espaços exteriores (não nas estufas).`,
+          es: `Fundado en 1772, uno de los jardines botánicos universitarios más antiguos de Europa. Terrazas paisajísticas, árboles raros, bosque de bambú. Perros con correa admitidos en los espacios exteriores (no en los invernaderos).`,
+          pt: `Fundado em 1772, um dos mais antigos jardins botânicos universitários da Europa. Socalcos paisagísticos, árvores raras, bambuzal. Cães com trela admitidos nos espaços exteriores (não nas estufas).`,
         },
       },
       {
@@ -11773,20 +11773,20 @@ const cityContent: Record<string, CityContent> = {
         emoji: '💔',
         petFriendly: true,
         desc: {
-          fr: `Jardins historiques du XIVe s. liés à la légende de Pedro et Inês de Castro, la « fontaine des amours » et la « fontaine des larmes » sont accessibles aux visiteurs et aux chiens em laisse.`,
+          fr: `Jardins historiques du XIVe s. liés à la légende de Pedro et Inês de Castro, la « fontaine des amours » et la « fontaine des larmes » sont accessibles aux visiteurs et aux chiens en laisse.`,
           en: `14th-century historic gardens linked to the Pedro and Inês de Castro legend, the 'Fountain of Loves' and 'Fountain of Tears' are accessible to visitors and leashed dogs.`,
-          es: `Jardines históricos del s. XIV ligados a la leyenda de Pedro e Inés de Castro, la «Fuente dos Amores» y la «Fuente das Lágrimas» son acessíveis a visitantes y perros com trela.`,
-          pt: `Jardins históricos do séc. XIV ligados à lenda de Pedro e Inês de Castro, a Fonte dois Amores e a Fonte das Lágrimas são acessíveis a visitantes e cães com trela.`,
+          es: `Jardines históricos del s. XIV ligados a la leyenda de Pedro e Inés de Castro, la «Fuente de los Amores» y la «Fuente de las Lágrimas» son accesibles a visitantes y perros con correa.`,
+          pt: `Jardins históricos do séc. XIV ligados à lenda de Pedro e Inês de Castro, a Fonte dos Amores e a Fonte das Lágrimas são acessíveis a visitantes e cães com trela.`,
         },
       },
     ],
     petTips: {
       fr: [
         `Le centre historique grimpe de 70 m sur des pavés et escaliers, prévoyez de l'eau et des pauses pour les chiens plus âgés ou aux pattes courtes.`,
-        `Le mini-bus électrique Linha Verde (8–12 min de fréquence) évite la montée à pied, les petits chiens em sac sont gratuits.`,
+        `Le mini-bus électrique Linha Verde (8–12 min de fréquence) évite la montée à pied, les petits chiens en sac sont gratuits.`,
         `La culture café portugaise est détendue : la plupart des terrasses acceptent les chiens spontanément, beaucoup apportent un bol d'eau.`,
         `La Mata do Choupal à 10 min à pied du centre est l'incontournable promenade canine, 78 ha de forêt riveraine plate et ombragée.`,
-        `Les trains Alfa Pendular Lisbonne–Porto–Coimbra acceptent les chiens jusqu'à 6 kg em sac gratuitement ; au-delà, billet animal (~6 €) + muselière obligatoires.`,
+        `Les trains Alfa Pendular Lisbonne–Porto–Coimbra acceptent les chiens jusqu'à 6 kg en sac gratuitement ; au-delà, billet animal (~6 €) + muselière obligatoires.`,
       ],
       en: [
         `The old town climbs 70 m on cobbles and stairways, bring water and plan breaks for older or short-legged dogs.`,
@@ -11796,11 +11796,11 @@ const cityContent: Record<string, CityContent> = {
         `Alfa Pendular trains Lisbon–Porto–Coimbra accept dogs up to 6 kg in a carrier free; beyond that, pet ticket (~6 EUR) and muzzle required.`,
       ],
       es: [
-        `El casco antigo sube 70 m por adoquines y escaleras, lleva agua y planea descansos para perros mayores o de patas curtas.`,
-        `El minibús eléctrico Linha Verde (frecuencia 8–12 min) evita subir a pie, los perros pequeños em transportín son gratis.`,
-        `La cultura del café portuguesa es relajada: la mayoría das terrazas admiten perros espontáneamente, muchas traen un bol de agua.`,
-        `La Mata do Choupal, a 10 min a pie del centro, es el paseo canino imprescindible, 78 ha de floresta ripario llano y sombreado.`,
-        `Los trenes Alfa Pendular Lisboa–Oporto–Coimbra admiten perros hasta 6 kg em transportín gratis; más allá, billete mascota (~6 €) y bozal obrigatórios.`,
+        `El casco antiguo sube 70 m por adoquines y escaleras, lleva agua y planea descansos para perros mayores o de patas cortas.`,
+        `El minibús eléctrico Linha Verde (frecuencia 8–12 min) evita subir a pie, los perros pequeños en transportín son gratis.`,
+        `La cultura del café portuguesa es relajada: la mayoría de las terrazas admiten perros espontáneamente, muchas traen un bol de agua.`,
+        `La Mata do Choupal, a 10 min a pie del centro, es el paseo canino imprescindible, 78 ha de bosque de ribera llano y sombreado.`,
+        `Los trenes Alfa Pendular Lisboa–Oporto–Coímbra admiten perros hasta 6 kg en transportín gratis; más allá, billete mascota (~6 €) y bozal obligatorios.`,
       ],
       pt: [
         `O centro histórico sobe 70 m por calçada e escadarias, leve água e planeie pausas para cães mais velhos ou de patas curtas.`,
@@ -11815,7 +11815,7 @@ const cityContent: Record<string, CityContent> = {
         `Vétérinaire d'urgence 24h/24 le plus proche : Hospital Veterinário do Baixo Vouga, 50 min au nord par l'A1, +351 234 540 100`,
         `Clinique de jour centrale : Clínica Veterinária de Coimbra, Avenida Fernão de Magalhães 605, +351 239 71 90 38`,
         `Train Alfa Pendular depuis Lisbonne Santa Apolónia : 1h45 directs ; depuis Porto Campanhã : 1h15.`,
-        `Aéroports les plus proches : Porto OPO (1h30 em voiture) ou Lisbonne LIS (2h15), Porto est plus pratique pour la plupart des liaisons européennes.`,
+        `Aéroports les plus proches : Porto OPO (1h30 en voiture) ou Lisbonne LIS (2h15), Porto est plus pratique pour la plupart des liaisons européennes.`,
       ],
       en: [
         `Closest 24/7 emergency vet: Hospital Veterinário do Baixo Vouga, 50 min north on the A1, +351 234 540 100`,
@@ -11824,10 +11824,10 @@ const cityContent: Record<string, CityContent> = {
         `Closest airports: Porto OPO (1h30 by car) or Lisbon LIS (2h15), Porto is more practical for most European links.`,
       ],
       es: [
-        `Veterinario de urgencias 24h más cercano: Hospital Veterinário do Baixo Vouga, 50 min al norte por a A1, +351 234 540 100`,
+        `Veterinario de urgencias 24h más cercano: Hospital Veterinário do Baixo Vouga, 50 min al norte por la A1, +351 234 540 100`,
         `Clínica diurna céntrica: Clínica Veterinária de Coimbra, Avenida Fernão de Magalhães 605, +351 239 71 90 38`,
         `Tren Alfa Pendular desde Lisboa Santa Apolónia: 1h45 directos; desde Oporto Campanhã: 1h15.`,
-        `Aeropuertos más cercanos: Oporto OPO (1h30 em coche) o Lisboa LIS (2h15), Oporto es más práctico para la mayoría de conexiones europeias.`,
+        `Aeropuertos más cercanos: Oporto OPO (1h30 en coche) o Lisboa LIS (2h15), Oporto es más práctico para la mayoría de conexiones europeas.`,
       ],
       pt: [
         `Veterinário de urgência 24h mais próximo: Hospital Veterinário do Baixo Vouga, 50 min a norte pela A1, +351 234 540 100`,

@@ -30050,10 +30050,10 @@ const cityContent: Record<string, CityContent> = {
 
   oxford: {
     history: {
-      fr: `Oxford accueille les chiens depuis le Moyen Âge, le Domesday Book de 1086 mentionne déjà Port Meadow, la prairie commune de 162 hectares qui borde la Tamise au nord de la ville et qui est pâturée et promenée sans interruption depuis. La ville universitaire elle-même est née autour des collèges fondés à partir du XIIe siècle, et la tradition anglaise des "town and gown", pubs, marchés et boutiques ouverts aux travailleurs comme aux universitaires, a toujours inclus les chiens. Aujourd'hui, Oxford est l'une des petites villes les plus dog-friendly d'Angleterre : plus de 80 % des pubs accueillent les chiens em salle, les bus de la ville et les cars Oxford Tube vers Londres les transportent gratuitement, et les trois grandes prairies (Port Meadow, Christ Church Meadow, University Parks) offrent plus de 200 hectares d'espace canin à 20 minutes à pied de Carfax. Seules les cours et jardins des collèges restent fermés aux chiens, ainsi que les bâtiments de la Bodléienne, un compromis acceptable étant donné l'abondance d'alternatives em plein air.`,
+      fr: `Oxford accueille les chiens depuis le Moyen Âge, le Domesday Book de 1086 mentionne déjà Port Meadow, la prairie commune de 162 hectares qui borde la Tamise au nord de la ville et qui est pâturée et promenée sans interruption depuis. La ville universitaire elle-même est née autour des collèges fondés à partir du XIIe siècle, et la tradition anglaise des "town and gown", pubs, marchés et boutiques ouverts aux travailleurs comme aux universitaires, a toujours inclus les chiens. Aujourd'hui, Oxford est l'une des petites villes les plus dog-friendly d'Angleterre : plus de 80 % des pubs accueillent les chiens en salle, les bus de la ville et les cars Oxford Tube vers Londres les transportent gratuitement, et les trois grandes prairies (Port Meadow, Christ Church Meadow, University Parks) offrent plus de 200 hectares d'espace canin à 20 minutes à pied de Carfax. Seules les cours et jardins des collèges restent fermés aux chiens, ainsi que les bâtiments de la Bodléienne, un compromis acceptable étant donné l'abondance d'alternatives en plein air.`,
       en: `Oxford has been welcoming dogs since the Middle Ages, the 1086 Domesday Book already mentions Port Meadow, the 162-hectare common bordering the Thames north of the city, which has been grazed and walked continuously ever since. The university city itself grew up around the colleges founded from the 12th century onward, and the English "town and gown" tradition of pubs, markets and shops open to workers and academics alike has always included dogs. Today, Oxford is one of England's most dog-friendly small cities: over 80% of pubs welcome dogs indoors, city buses and the Oxford Tube coaches to London carry them free, and the three great meadows (Port Meadow, Christ Church Meadow, University Parks) offer more than 200 hectares of canine space within a 20-minute walk of Carfax. Only the college quadrangles and gardens remain closed to dogs, along with the Bodleian buildings, a reasonable trade-off given the abundance of outdoor alternatives.`,
-      es: `Oxford acoge perros desde a Edad Media, el Domesday Book de 1086 menciona ya Port Meadow, el común de 162 hectáreas que bordea el Támesis al norte de a cidade y que se ha pastoreado y paseado ininterrumpidamente desde entonces. a cidade universitaria nació alrededor dos colleges fundados a partir del siglo XII, y la tradición inglesa del "town and gown", pubs, mercados y tiendas abiertos por igual a trabajadores y académicos, siempre ha incluido a los perros. Hoy, Oxford es una das ciudades pequeñas más dog-friendly de Inglaterra: más del 80% dos pubs admiten perros dentro, los autobuses urbanos y los autocares Oxford Tube hacia Londres los llevan gratis, y los tres grandes prados (Port Meadow, Christ Church Meadow, University Parks) ofrecen más de 200 hectáreas de espacio canino a 20 minutos a pie de Carfax. Solo los patios y jardines dos colleges siguen cerrados a los perros, junto con los edificios de la Bodleian, un compromiso razonable dada a abundancia de alternativas al aire libre.`,
-      pt: `Oxford acoge cães a partir da Edad Media, o Domesday Book de 1086 menciona ya Port Meadow, o común de 162 hectáreas que bordea o Támesis a norte da cidade e que se tem pastoreado e paseado ininterrumpidamente a partir de entonces. A cidade universitaria nació alrededor dois colleges fundados a partir do século XII, e a tradición inglesa do "town and gown", pubs, mercados e tiendas abiertos por igual a trabajadores e académicos, sempre tem incluido aos cães. Hoy, Oxford é uma das as cidades pequenas mais pet-friendly de Inglaterra: mais do 80% dois pubs admitem cães dentro, os autocarros urbanos e os autocares Oxford Tube para Londres os levam grátis, e os três grandes prados (Port Meadow, Christ Church Meadow, University Parks) ofrecen mais de 200 hectáreas de espacio canino a 20 minutos a pé de Carfax. Só os patios e jardins dois colleges continuam cerrados aos cães, junto com os edifícios da Bodleian, um compromiso razonable dada a abundancia de alternativas al aire libre.`,
+      es: `Oxford acoge perros desde la Edad Media, el Domesday Book de 1086 menciona ya Port Meadow, el común de 162 hectáreas que bordea el Támesis al norte de la ciudad y que se ha pastoreado y paseado ininterrumpidamente desde entonces. La ciudad universitaria nació alrededor de los colleges fundados a partir del siglo XII, y la tradición inglesa del "town and gown", pubs, mercados y tiendas abiertos por igual a trabajadores y académicos, siempre ha incluido a los perros. Hoy, Oxford es una de las ciudades pequeñas más dog-friendly de Inglaterra: más del 80% de los pubs admiten perros dentro, los autobuses urbanos y los autocares Oxford Tube hacia Londres los llevan gratis, y los tres grandes prados (Port Meadow, Christ Church Meadow, University Parks) ofrecen más de 200 hectáreas de espacio canino a 20 minutos a pie de Carfax. Solo los patios y jardines de los colleges siguen cerrados a los perros, junto con los edificios de la Bodleian, un compromiso razonable dada la abundancia de alternativas al aire libre.`,
+      pt: `Oxford acolhe cães desde a Idade Média, o Domesday Book de 1086 menciona já Port Meadow, o baldio comum de 162 hectares que ladeia o Tamisa a norte da cidade e que tem sido pastoreado e percorrido ininterruptamente desde então. A cidade universitária nasceu em torno dos colleges fundados a partir do século XII, e a tradição inglesa do "town and gown", pubs, mercados e lojas abertos por igual a trabalhadores e académicos, sempre incluiu os cães. Hoje, Oxford é uma das cidades pequenas mais pet-friendly de Inglaterra: mais de 80% dos pubs admitem cães lá dentro, os autocarros urbanos e os autocarros Oxford Tube para Londres levam-nos grátis, e os três grandes prados (Port Meadow, Christ Church Meadow, University Parks) oferecem mais de 200 hectares de espaço canino a 20 minutos a pé de Carfax. Só os pátios e jardins dos colleges continuam fechados aos cães, juntamente com os edifícios da Bodleian, um compromisso razoável dada a abundância de alternativas ao ar livre.`,
     },
     sights: [
       {
@@ -30063,8 +30063,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Common ancestral de 162 hectares au nord de la ville, sans laisse, avec accès direct à la Tamise pour la baignade canine.`,
           en: `162-hectare ancient common north of the city, off-lead, with direct Thames access for canine swimming.`,
-          es: `Common ancestral de 162 hectáreas al norte de a cidade, sin trela, con acceso directo al Támesis para baño canino.`,
-          pt: `Common ancestral de 162 hectáreas a norte da cidade, sem trela, com acesso directo al Támesis para banho canino.`,
+          es: `Common ancestral de 162 hectáreas al norte de la ciudad, sin correa, con acceso directo al Támesis para baño canino.`,
+          pt: `Common ancestral de 162 hectares a norte da cidade, sem trela, com acesso direto ao Tamisa para banho canino.`,
         },
       },
       {
@@ -30072,10 +30072,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: `🐄`,
         petFriendly: true,
         desc: {
-          fr: `Prairie inondable de 16 hectares appartenant à Christ Church College, boucle de 2,4 km em laisse offrant la vue carte postale des flèches d'Oxford.`,
+          fr: `Prairie inondable de 16 hectares appartenant à Christ Church College, boucle de 2,4 km en laisse offrant la vue carte postale des flèches d'Oxford.`,
           en: `16-hectare floodplain meadow owned by Christ Church College, 2.4 km on-lead loop offering the postcard view of Oxford's spires.`,
-          es: `Prado inundable de 16 hectáreas propiedad de Christ Church College, bucle de 2,4 km com trela que ofrece la vista postal das agujas de Oxford.`,
-          pt: `Prado inundable de 16 hectáreas propiedad de Christ Church College, bucle de 2,4 km com trela que ofrece a vista postal das agujas de Oxford.`,
+          es: `Prado inundable de 16 hectáreas propiedad de Christ Church College, bucle de 2,4 km con correa que ofrece la vista postal de las agujas de Oxford.`,
+          pt: `Prado inundável de 16 hectares propriedade do Christ Church College, circuito de 2,4 km à trela que oferece a vista de postal das agulhas de Oxford.`,
         },
       },
       {
@@ -30083,10 +30083,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: `🌳`,
         petFriendly: true,
         desc: {
-          fr: `37 hectares de pelouses et bois entre le Cherwell et Parks Road, em laisse uniquement ; Charles II y promenait ses chiens dans les années 1680.`,
+          fr: `37 hectares de pelouses et bois entre le Cherwell et Parks Road, en laisse uniquement ; Charles II y promenait ses chiens dans les années 1680.`,
           en: `37 hectares of grassland and woodland between the Cherwell and Parks Road, on-lead only; Charles II walked his dogs here in the 1680s.`,
-          es: `37 hectáreas de césped y floresta entre el Cherwell y Parks Road, solo com trela; Carlos II paseaba aquí a sus perros na década de 1680.`,
-          pt: `37 hectáreas de relva e floresta entre o Cherwell e Parks Road, só com trela; Carlos II paseaba aqui aos seus cães na década de 1680.`,
+          es: `37 hectáreas de césped y bosque entre el Cherwell y Parks Road, solo con correa; Carlos II paseaba aquí a sus perros en la década de 1680.`,
+          pt: `37 hectares de relva e bosque entre o Cherwell e Parks Road, só à trela; Carlos II passeava aqui os seus cães na década de 1680.`,
         },
       },
       {
@@ -30094,10 +30094,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: `📚`,
         petFriendly: true,
         desc: {
-          fr: `Place pavée la plus photographiée d'Oxford avec la Radcliffe Camera, ouverte 24h/24 aux chiens em laisse ; intérieur fermé aux visiteurs.`,
+          fr: `Place pavée la plus photographiée d'Oxford avec la Radcliffe Camera, ouverte 24h/24 aux chiens en laisse ; intérieur fermé aux visiteurs.`,
           en: `Oxford's most photographed cobbled square with the Radcliffe Camera, open 24/7 to leashed dogs; interior closed to visitors.`,
-          es: `Plaza empedrada más fotografiada de Oxford con la Radcliffe Camera, abierta 24/7 a perros com trela; interior fechado a visitantes.`,
-          pt: `Praça empedrada mais fotografiada de Oxford com a Radcliffe Camera, aberta 24/7 a cães com trela; interior fechado a visitantes.`,
+          es: `Plaza empedrada más fotografiada de Oxford con la Radcliffe Camera, abierta 24/7 a perros con correa; interior cerrado a visitantes.`,
+          pt: `Praça calcetada mais fotografada de Oxford com a Radcliffe Camera, aberta 24/7 a cães com trela; interior fechado a visitantes.`,
         },
       },
       {
@@ -30105,10 +30105,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: `🛶`,
         petFriendly: true,
         desc: {
-          fr: `Pont sur le Cherwell d'où partent les punts ; les chiens montent gratuitement à bord em laisse courte à Cherwell Boathouse ou Magdalen Bridge Boat House.`,
+          fr: `Pont sur le Cherwell d'où partent les punts ; les chiens montent gratuitement à bord en laisse courte à Cherwell Boathouse ou Magdalen Bridge Boat House.`,
           en: `Bridge over the Cherwell where the punts depart; dogs ride free on a short lead at Cherwell Boathouse or Magdalen Bridge Boat House.`,
-          es: `Puente sobre el Cherwell de donde salen los punts; los perros suben gratis com trela curta em Cherwell Boathouse o Magdalen Bridge Boat House.`,
-          pt: `Ponte sobre o Cherwell de onde salen os punts; os cães suben grátis com trela curta em Cherwell Boathouse o Magdalen Bridge Boat House.`,
+          es: `Puente sobre el Cherwell de donde salen los punts; los perros suben gratis con correa corta en Cherwell Boathouse o Magdalen Bridge Boat House.`,
+          pt: `Ponte sobre o Cherwell de onde partem os punts; os cães sobem grátis com trela curta em Cherwell Boathouse ou Magdalen Bridge Boat House.`,
         },
       },
       {
@@ -30118,8 +30118,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Motte saxonne et prison victorienne dont la cour extérieure est gratuite et dog-friendly ; visite intérieure de la prison fermée aux chiens.`,
           en: `Saxon motte and Victorian prison whose outdoor courtyard is free and dog-friendly; indoor prison tour closed to dogs.`,
-          es: `Monte sajón y prisión victoriana cuyo patio exterior es gratuito y dog-friendly; visita interior de la prisión fechada a los perros.`,
-          pt: `Monte sajón e prisión victoriana cuyo patio exterior é gratuito e pet-friendly; visita interior da prisión fechada aos cães.`,
+          es: `Mota sajona y prisión victoriana cuyo patio exterior es gratuito y dog-friendly; visita interior de la prisión cerrada a los perros.`,
+          pt: `Mota saxã e prisão vitoriana cujo pátio exterior é gratuito e pet-friendly; visita interior da prisão fechada aos cães.`,
         },
       },
     ],
@@ -30127,9 +30127,9 @@ const cityContent: Record<string, CityContent> = {
       fr: [
         `Entrée animaux post-Brexit : depuis l'UE il faut vaccination antirabique valide (≥21 jours), puce, traitement antiparasitaire (24–120 h avant) et un Animal Health Certificate délivré dans les 10 jours précédant le voyage, le passeport européen n'est plus accepté.`,
         `Les 39 collèges d'Oxford refusent les chiens dans leurs cours et jardins (sauf chiens-guides), y compris Christ Church, Magdalen, Merton, New College ; Christ Church Meadow est la seule exception.`,
-        `Algues bleu-vert : risque mortel sur la Tamise et le Cherwell em juillet–septembre ; vérifiez la carte des incidents de l'Environment Agency avant la baignade.`,
+        `Algues bleu-vert : risque mortel sur la Tamise et le Cherwell en juillet–septembre ; vérifiez la carte des incidents de l'Environment Agency avant la baignade.`,
         `Urgence vétérinaire de nuit : Medivet 24 Hour Woodstock, +44 1993 811355, à 25 minutes au nord du centre, c'est le seul vrai hôpital 24/7 d'Oxfordshire.`,
-        `Bus Oxford Bus Company et Stagecoach : chiens gratuits, max 2 par passager par étage, em laisse ou muselière à la discrétion du chauffeur.`,
+        `Bus Oxford Bus Company et Stagecoach : chiens gratuits, max 2 par passager par étage, en laisse ou muselière à la discrétion du chauffeur.`,
       ],
       en: [
         `Post-Brexit pet entry: from the EU you need a valid rabies vaccination (≥21 days old), microchip, tapeworm treatment (24–120 hours before entry) and an Animal Health Certificate issued within 10 days of travel, the EU pet passport is no longer accepted.`,
@@ -30139,26 +30139,26 @@ const cityContent: Record<string, CityContent> = {
         `Oxford Bus Company and Stagecoach: dogs travel free, max 2 per passenger per deck, on a lead or muzzled at the driver's discretion.`,
       ],
       es: [
-        `Entrada de mascotas post-Brexit: desde a UE necesitas vacunación antirrábica válida (≥21 días), microchip, tratamento contra tenia (24–120 h antes) y un Animal Health Certificate emitido em los 10 días previos al viaje, el passaporte europeu ya no se acepta.`,
-        `Los 39 colleges de Oxford rechazan a los perros em sus patios y jardines (salvo perros guía), incluidos Christ Church, Magdalen, Merton, New College; Christ Church Meadow es a única excepción.`,
-        `Algas verde-azules: riesgo mortal em el Támesis y el Cherwell de julio a septiembre; consulta el mapa de incidentes de a Environment Agency antes de dejar a tu perro nadar.`,
+        `Entrada de mascotas post-Brexit: desde la UE necesitas vacunación antirrábica válida (≥21 días), microchip, tratamiento contra la tenia (24–120 h antes) y un Animal Health Certificate emitido en los 10 días previos al viaje, el pasaporte europeo ya no se acepta.`,
+        `Los 39 colleges de Oxford rechazan a los perros en sus patios y jardines (salvo perros guía), incluidos Christ Church, Magdalen, Merton, New College; Christ Church Meadow es la única excepción.`,
+        `Algas verde-azules: riesgo mortal en el Támesis y el Cherwell de julio a septiembre; consulta el mapa de incidentes de la Environment Agency antes de dejar a tu perro nadar.`,
         `Urgencias veterinarias nocturnas: Medivet 24 Hour Woodstock, +44 1993 811355, a 25 minutos al norte del centro, único verdadero hospital 24/7 de Oxfordshire.`,
-        `Oxford Bus Company y Stagecoach: perros gratis, máx 2 por pasajero por planta, com trela o bozal a discreción del conductor.`,
+        `Oxford Bus Company y Stagecoach: perros gratis, máx 2 por pasajero por planta, con correa o bozal a discreción del conductor.`,
       ],
       pt: [
-        `Entrada de animais post-Brexit: a partir da UE necesitas vacunación antirrábica válida (≥21 dias), microchip, tratamento contra tenia (24–120 h antes) e um Animal Health Certificate emitido nos 10 dias previos al viaje, o passaporte europeu ya no se aceita.`,
-        `Os 39 colleges de Oxford rechazan aos cães em sus patios e jardins (salvo cães guía), incluidos Christ Church, Magdalen, Merton, New College; Christ Church Meadow é a única excepción.`,
-        `Algas verde-azuis: riesgo mortal no Támesis e o Cherwell de julho a setembro; consulta o mapa de incidentes da Environment Agency antes de dejar a tu cão nadar.`,
-        `Urgências veterinárias nocturnas: Medivet 24 Hour Woodstock, +44 1993 811355, a 25 minutos al norte do centro, único verdadero hospital 24/7 de Oxfordshire.`,
-        `Oxford Bus Company e Stagecoach: cães grátis, máx 2 por pasajero por planta, com trela o bozal a discreción do conductor.`,
+        `Entrada de animais pós-Brexit: a partir da UE precisa de vacinação antirrábica válida (≥21 dias), microchip, tratamento contra a ténia (24–120 h antes) e um Animal Health Certificate emitido nos 10 dias anteriores à viagem, o passaporte europeu já não é aceite.`,
+        `Os 39 colleges de Oxford recusam os cães nos seus pátios e jardins (salvo cães-guia), incluindo Christ Church, Magdalen, Merton, New College; Christ Church Meadow é a única exceção.`,
+        `Algas verde-azuladas: risco mortal no Tamisa e no Cherwell de julho a setembro; consulte o mapa de incidentes da Environment Agency antes de deixar o seu cão nadar.`,
+        `Urgências veterinárias noturnas: Medivet 24 Hour Woodstock, +44 1993 811355, a 25 minutos a norte do centro, o único verdadeiro hospital 24/7 de Oxfordshire.`,
+        `Oxford Bus Company e Stagecoach: cães grátis, máx 2 por passageiro por piso, com trela ou açaime ao critério do motorista.`,
       ],
     },
     practicalInfo: {
       fr: [
         `Oxford est compacte : 30 minutes à pied pour traverser le centre, pas de métro ni de tramway ; les bus desservent surtout les park-and-ride et les banlieues.`,
-        `Plus de 80 % des pubs d'Oxford acceptent les chiens em laisse em salle ; aucun ne facture de supplément, la plupart fournissent gamelle d'eau et biscuits.`,
-        `Port Meadow est pâturée par vaches et chevaux em liberté toute l'année, rappel fiable exigé par le Countryside Code, un chien dangereux peut légalement être abattu par le propriétaire.`,
-        `Loi XL Bully (em vigueur depuis 2024) : les propriétaires de XL Bully doivent les museler et tenir em laisse dans tout lieu public et détenir un certificat d'exemption ; les visiteurs sans exemption ne peuvent légalement pas amener un XL Bully em Angleterre.`,
+        `Plus de 80 % des pubs d'Oxford acceptent les chiens en laisse en salle ; aucun ne facture de supplément, la plupart fournissent gamelle d'eau et biscuits.`,
+        `Port Meadow est pâturée par vaches et chevaux en liberté toute l'année, rappel fiable exigé par le Countryside Code, un chien dangereux peut légalement être abattu par le propriétaire.`,
+        `Loi XL Bully (en vigueur depuis 2024) : les propriétaires de XL Bully doivent les museler et tenir en laisse dans tout lieu public et détenir un certificat d'exemption ; les visiteurs sans exemption ne peuvent légalement pas amener un XL Bully en Angleterre.`,
         `Punts dog-friendly à Cherwell Boathouse et Magdalen Bridge Boat House : chiens gratuits sur laisse courte, mars-octobre 10h-coucher du soleil.`,
       ],
       en: [
@@ -30169,18 +30169,18 @@ const cityContent: Record<string, CityContent> = {
         `Dog-friendly punting at Cherwell Boathouse and Magdalen Bridge Boat House: dogs free on a short lead, March–October 10:00–dusk.`,
       ],
       es: [
-        `Oxford es compacta: 30 minutos a pie para cruzar o centro, sin metro ni tranvía; los autobuses sirven sobre todo a los park-and-ride y las afueras.`,
-        `Más del 80 % dos pubs de Oxford admiten perros com trela dentro; ninguno cobra suplemento y la mayoría provee boles de agua y galletas.`,
-        `Port Meadow está pastoreada por vacas y caballos em libertad todo o año, el Countryside Code exige llamada fiable, y un perro peligroso puede ser legalmente abatido por el propietario.`,
-        `Ley XL Bully (vigente desde 2024): los propietarios de XL Bully deben llevarlos con bozal y trela em cualquier lugar público y tener un certificado de exención; los visitantes sin exención no pueden traer legalmente un XL Bully a Inglaterra.`,
-        `Punts dog-friendly em Cherwell Boathouse y Magdalen Bridge Boat House: perros gratis com trela curta, marzo–octubre 10:00–atardecer.`,
+        `Oxford es compacta: 30 minutos a pie para cruzar el centro, sin metro ni tranvía; los autobuses sirven sobre todo a los park-and-ride y las afueras.`,
+        `Más del 80 % de los pubs de Oxford admiten perros con correa dentro; ninguno cobra suplemento y la mayoría provee boles de agua y galletas.`,
+        `Port Meadow está pastoreada por vacas y caballos en libertad todo el año, el Countryside Code exige llamada fiable, y un perro peligroso puede ser legalmente abatido por el propietario.`,
+        `Ley XL Bully (vigente desde 2024): los propietarios de XL Bully deben llevarlos con bozal y correa en cualquier lugar público y tener un certificado de exención; los visitantes sin exención no pueden traer legalmente un XL Bully a Inglaterra.`,
+        `Punts dog-friendly en Cherwell Boathouse y Magdalen Bridge Boat House: perros gratis con correa corta, marzo–octubre 10:00–atardecer.`,
       ],
       pt: [
-        `Oxford é compacta: 30 minutos a pé para cruzar o centro, sem metro ni elétrico; os autocarros sirven sobre todo aos park-and-ride e as afueras.`,
-        `Mais do 80 % dois pubs de Oxford admiten cães com trela dentro; ninguno cobra suplemento e a mayoría provee boles de água e galletas.`,
-        `Port Meadow está pastoreada por vacas e caballos em libertad o ano inteiro, o Countryside Code exige chamada fiable, e um cão peligroso pode ser legalmente abatido pelo proprietário.`,
-        `Lei XL Bully (vigente a partir de 2024): os proprietários de XL Bully deben llevarlos con bozal e trela em cualquier lugar público e tener um certificado de exención; os visitantes sem exención no podem traer legalmente um XL Bully a Inglaterra.`,
-        `Punts pet-friendly em Cherwell Boathouse e Magdalen Bridge Boat House: cães grátis com trela curta, março–outubro 10:00–atardecer.`,
+        `Oxford é compacta: 30 minutos a pé para cruzar o centro, sem metro nem elétrico; os autocarros servem sobretudo os park-and-ride e os subúrbios.`,
+        `Mais de 80 % dos pubs de Oxford admitem cães com trela lá dentro; nenhum cobra suplemento e a maioria oferece taças de água e biscoitos.`,
+        `Port Meadow é pastoreada por vacas e cavalos em liberdade o ano inteiro, o Countryside Code exige uma chamada fiável, e um cão perigoso pode ser legalmente abatido pelo proprietário.`,
+        `Lei XL Bully (em vigor desde 2024): os proprietários de XL Bully devem usar açaime e trela em qualquer lugar público e ter um certificado de isenção; os visitantes sem isenção não podem legalmente levar um XL Bully para Inglaterra.`,
+        `Punts pet-friendly em Cherwell Boathouse e Magdalen Bridge Boat House: cães grátis com trela curta, março–outubro 10:00–pôr do sol.`,
       ],
     },
   },

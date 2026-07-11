@@ -2882,10 +2882,10 @@ const cityContent: Record<string, CityContent> = {
 
   basel: {
     history: {
-      fr: `Bâle, fondée comme camp romain (Basilia) au 1er siècle puis bourg épiscopal médiéval, est devenue en 1501 a onzième ville à rejoindre la Confédération suisse, et une capitale de l'humanisme européen avec son université (1460), Érasme et Holbein. Aujourd'hui troisième ville de Suisse (180 000 habitants ; 830 000 dans l'agglomération tri-frontalière France-Allemagne-Suisse), Bâle conjugue ordre helvétique et culture rhénane décontractée : on s'y baigne dans le Rhin de juin à septembre em flottant avec ses affaires dans un sac étanche Wickelfisch, on traverse em bac à câble silencieux d'une rive à l'autre, et on déjeune sur des terrasses où les chiens reçoivent un Wassernapf sans qu'on ait à le demander. Avec ses 40 musées (le Kunstmuseum, le plus ancien musée d'art accessible au public au monde ; la Fondation Beyeler ; le Tinguely), Art Basel chaque mois de juin et l'architecture signée Herzog & de Meuron, Mario Botta ou Renzo Piano, Bâle revendique le statut de capitale culturelle suisse. Côté chien : la Suisse fait partie du système européen de passeport, deux Hundebadi officielles bordent le Rhin, et le canton applique strictement la laisse em parc public, mais les forêts alluviales de la Wiese offrent des kilomètres de course libre.`,
+      fr: `Bâle, fondée comme camp romain (Basilia) au Ier siècle puis bourg épiscopal médiéval, est devenue en 1501 la onzième ville à rejoindre la Confédération suisse, et une capitale de l'humanisme européen avec son université (1460), Érasme et Holbein. Aujourd'hui troisième ville de Suisse (180 000 habitants ; 830 000 dans l'agglomération tri-frontalière France-Allemagne-Suisse), Bâle conjugue ordre helvétique et culture rhénane décontractée : on s'y baigne dans le Rhin de juin à septembre en flottant avec ses affaires dans un sac étanche Wickelfisch, on traverse en bac à câble silencieux d'une rive à l'autre, et on déjeune sur des terrasses où les chiens reçoivent un Wassernapf sans qu'on ait à le demander. Avec ses 40 musées (le Kunstmuseum, le plus ancien musée d'art accessible au public au monde ; la Fondation Beyeler ; le Tinguely), Art Basel chaque mois de juin et l'architecture signée Herzog & de Meuron, Mario Botta ou Renzo Piano, Bâle revendique le statut de capitale culturelle suisse. Côté chien : la Suisse fait partie du système européen de passeport, deux Hundebadi officielles bordent le Rhin, et le canton applique strictement la laisse en parc public, mais les forêts alluviales de la Wiese offrent des kilomètres de course libre.`,
       en: `Basel, founded as the Roman camp Basilia in the 1st century and later a medieval episcopal town, joined the Swiss Confederation in 1501 as the eleventh canton, and became a capital of European humanism with its university (1460), Erasmus and Holbein. Today Switzerland's third city (180,000 residents; 830,000 in the tri-border France-Germany-Switzerland metropolitan area), Basel combines Swiss orderliness with a relaxed Rhine culture: from June to September locals swim in the river floating with their belongings in waterproof Wickelfisch bags, cross from bank to bank on silent cable-driven ferries, and lunch on terraces where dogs are brought a Wassernapf without asking. With 40 museums (the Kunstmuseum, the oldest public art museum in the world; the Fondation Beyeler; the Tinguely), Art Basel every June and architecture signed by Herzog & de Meuron, Mario Botta and Renzo Piano, Basel claims the title of Switzerland's cultural capital. For dogs: Switzerland is part of the EU pet-passport system, two official Hundebadi swim spots line the Rhine, and the canton enforces leash laws strictly in city parks, but the floodplain forests along the Wiese offer kilometres of off-leash freedom.`,
-      es: `Basilea, fundada como campamento romano (Basilia) em el siglo I y luego ciudad episcopal medieval, se sumó a la Confederación Suiza en 1501 como undécimo cantón, y se convirtió em una capital del humanismo europeu con su universidad (1460), Erasmo y Holbein. Hoy es la tercera ciudad de Suiza (180.000 habitantes; 830.000 em o área metropolitana trifronteriza Francia-Alemania-Suiza), y combina o orden suizo con una cultura renana relajada: de junio a septiembre los locales se bañan em o rio flotando con sus pertenencias em bolsas estancas Wickelfisch, cruzan de orilla a orilla em silenciosos ferris movidos por cable y almuerzan em terrazas donde a los perros se les trae un Wassernapf sin pedirlo. Con 40 museos (el Kunstmuseum, el museo de arte público más antigo del mundo; la Fondation Beyeler; el Tinguely), Art Basel cada junio y arquitectura firmada por Herzog & de Meuron, Mario Botta y Renzo Piano, Basilea reivindica el título de capital cultural de Suiza. Para los perros: Suiza forma parte del sistema europeu de passaporte, dos Hundebadi oficiales bordean el Rin, y el cantón aplica con rigor la trela em los parques urbanos, pero los florestas aluviales del Wiese ofrecen kilómetros de libertad sin trela.`,
-      pt: `Basilea, fundada como campamento romano (Basilia) no século I e luego cidade episcopal medieval, se sumó a Confederación Suiza em 1501 como undécimo cantón, e tornou-se numa capital do humanismo europeu com su universidade (1460), Erasmo e Holbein. Hoy é a tercera cidade de Suiza (180.000 habitantes; 830.000 no área metropolitana trifronteriza Francia-Alemania-Suiza), e combina o orden suizo com uma cultura renana relajada: de junho a setembro os locales se banhan no rio flotando com os seus pertenencias em bolsas estancas Wickelfisch, cruzan de margem a margem em silenciosos ferris movidos por cable e almuerzan em esplanadas onde aos cães se les trae um Wassernapf sem pedirlo. Com 40 museus (o Kunstmuseum, o museu de arte público mais antigo do mundo; a Fondation Beyeler; o Tinguely), Art Basel cada junho e arquitetura firmada por Herzog & de Meuron, Mario Botta e Renzo Piano, Basilea reivindica o título de capital cultural de Suiza. Para os cães: Suiza forma parte do sistema europeu de passaporte, dois Hundebadi oficiais bordean o Rin, e o cantón aplica com rigor a trela nos parques urbanos, mas os florestas aluviales do Wiese ofrecen kilómetros de libertad sem trela.`,
+      es: `Basilea, fundada como campamento romano (Basilia) en el siglo I y luego ciudad episcopal medieval, se sumó a la Confederación Suiza en 1501 como undécimo cantón, y se convirtió en una capital del humanismo europeo con su universidad (1460), Erasmo y Holbein. Hoy es la tercera ciudad de Suiza (180.000 habitantes; 830.000 en el área metropolitana trifronteriza Francia-Alemania-Suiza), y combina el orden suizo con una cultura renana relajada: de junio a septiembre los lugareños se bañan en el río flotando con sus pertenencias en bolsas estancas Wickelfisch, cruzan de orilla a orilla en silenciosos transbordadores movidos por cable y almuerzan en terrazas donde a los perros se les trae un Wassernapf sin pedirlo. Con 40 museos (el Kunstmuseum, el museo de arte público más antiguo del mundo; la Fondation Beyeler; el Tinguely), Art Basel cada junio y arquitectura firmada por Herzog & de Meuron, Mario Botta y Renzo Piano, Basilea reivindica el título de capital cultural de Suiza. Para los perros: Suiza forma parte del sistema europeo de pasaporte, dos Hundebadi oficiales bordean el Rin, y el cantón aplica con rigor la correa en los parques urbanos, pero los bosques aluviales del Wiese ofrecen kilómetros de libertad sin correa.`,
+      pt: `Basileia, fundada como acampamento romano (Basilia) no século I e depois burgo episcopal medieval, tornou-se em 1501 a décima primeira cidade a juntar-se à Confederação Suíça, e uma capital do humanismo europeu com a sua universidade (1460), Erasmo e Holbein. Hoje terceira cidade da Suíça (180.000 habitantes; 830.000 na área metropolitana trifronteiriça França-Alemanha-Suíça), Basileia conjuga a ordem helvética com uma cultura renana descontraída: de junho a setembro nada-se no Reno a flutuar com os pertences num saco estanque Wickelfisch, atravessa-se de uma margem à outra num batelão silencioso movido a cabo, e almoça-se em esplanadas onde os cães recebem um Wassernapf sem ser preciso pedir. Com os seus 40 museus (o Kunstmuseum, o mais antigo museu de arte aberto ao público do mundo; a Fondation Beyeler; o Tinguely), a Art Basel todos os meses de junho e a arquitetura assinada por Herzog & de Meuron, Mario Botta ou Renzo Piano, Basileia reivindica o estatuto de capital cultural suíça. Quanto aos cães: a Suíça faz parte do sistema europeu de passaporte, duas Hundebadi oficiais ladeiam o Reno, e o cantão aplica com rigor a trela nos parques públicos, mas as florestas aluviais da Wiese oferecem quilómetros de corrida à solta.`,
     },
     sights: [
       {
@@ -2893,10 +2893,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛪',
         petFriendly: true,
         desc: {
-          fr: `La cathédrale em grès rouge perchée au-dessus du Rhin (XIIe-XVe s.). La terrasse Pfalz à l'arrière offre l'une des plus belles vues fluviales gratuites d'Europe, dog-friendly em laisse.`,
+          fr: `La cathédrale en grès rouge perchée au-dessus du Rhin (XIIe-XVe s.). La terrasse Pfalz à l'arrière offre l'une des plus belles vues fluviales gratuites d'Europe, dog-friendly en laisse.`,
           en: `The red-sandstone cathedral perched above the Rhine (12th-15th c.). The Pfalz terrace behind offers one of Europe's great free river views, dog-friendly on leash.`,
-          es: `La catedral de arenisca roja asomada al Rin (s. XII-XV). La terraza Pfalz detrás ofrece una das mejores vistas fluviales gratuitas de Europa, dog-friendly com trela.`,
-          pt: `A catedral de arenisca vermelha asomada al Rin (s. XII-XV). A esplanada Pfalz detrás ofrece uma das melhores vistas fluviales gratuitas de Europa, pet-friendly com trela.`,
+          es: `La catedral de arenisca roja asomada al Rin (s. XII-XV). La terraza Pfalz de detrás ofrece una de las mejores vistas fluviales gratuitas de Europa, dog-friendly con correa.`,
+          pt: `A catedral de arenito vermelho debruçada sobre o Reno (s. XII-XV). O terraço Pfalz nas traseiras oferece uma das melhores vistas fluviais gratuitas da Europa, pet-friendly com trela.`,
         },
       },
       {
@@ -2904,10 +2904,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏛️',
         petFriendly: true,
         desc: {
-          fr: `Place centrale dominée par le spectaculaire Rathaus rouge (XVIe s.) couvert de fresques. Marché matinal quotidien (sauf dimanche), chiens em laisse acceptés sur les pavés.`,
+          fr: `Place centrale dominée par le spectaculaire Rathaus rouge (XVIe s.) couvert de fresques. Marché matinal quotidien (sauf dimanche), chiens en laisse acceptés sur les pavés.`,
           en: `central square dominated by the spectacular red Rathaus (16th c.) covered with frescoes. Daily morning market (except Sunday), leashed dogs welcome on the cobbles.`,
-          es: `Plaza central dominada por o espectacular Rathaus rojo (s. XVI) cubierto de frescos. Mercado matutino diario (salvo domingo), perros com trela admitidos sobre los adoquines.`,
-          pt: `Praça central dominada pelo espectacular Rathaus vermelho (s. XVI) cubierto de frescos. Mercado matutino diario (salvo domingo), cães com trela admitidos sobre os adoquines.`,
+          es: `Plaza central dominada por el espectacular Rathaus rojo (s. XVI) cubierto de frescos. Mercado matutino diario (salvo domingo), perros con correa admitidos sobre los adoquines.`,
+          pt: `Praça central dominada pelo espetacular Rathaus vermelho (s. XVI) coberto de frescos. Mercado matinal diário (exceto domingo), cães com trela admitidos sobre os paralelepípedos.`,
         },
       },
       {
@@ -2915,10 +2915,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌉',
         petFriendly: true,
         desc: {
-          fr: `Le pont médiéval reliant Grossbasel et Kleinbasel depuis 1226, l'un des plus anciens du Rhin. Vue iconique sur le Münster, dog-friendly em laisse à toute heure.`,
+          fr: `Le pont médiéval reliant Grossbasel et Kleinbasel depuis 1226, l'un des plus anciens du Rhin. Vue iconique sur le Münster, dog-friendly en laisse à toute heure.`,
           en: `The medieval bridge connecting Grossbasel and Kleinbasel since 1226, one of the oldest crossings on the Rhine. Iconic view of the Münster, dog-friendly on leash at any hour.`,
-          es: `El puente medieval que conecta Grossbasel y Kleinbasel desde 1226, uno dos más antigos del Rin. Vista icónica del Münster, dog-friendly com trela a cualquier hora.`,
-          pt: `O ponte medieval que conecta Grossbasel e Kleinbasel a partir de 1226, uno dois mais antigos do Rin. Vista icónica do Münster, pet-friendly com trela a cualquier hora.`,
+          es: `El puente medieval que conecta Grossbasel y Kleinbasel desde 1226, uno de los más antiguos del Rin. Vista icónica del Münster, dog-friendly con correa a cualquier hora.`,
+          pt: `A ponte medieval que liga Grossbasel e Kleinbasel desde 1226, uma das mais antigas do Reno. Vista icónica do Münster, pet-friendly com trela a qualquer hora.`,
         },
       },
       {
@@ -2928,8 +2928,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Presqu'île à la confluence Birs-Rhin, l'une des deux Hundebadi (zones de baignade canine) officielles du canton. Courant doux, plage sablonneuse, sans laisse.`,
           en: `Peninsula at the Birs-Rhine confluence, one of the canton's two official Hundebadi (dog bathing zones). Gentle current, sandy beach, off-leash.`,
-          es: `Península na confluencia Birs-Rin, una das dos Hundebadi (zonas de baño canino) oficiales del cantón. Corriente suave, playa arenosa, sin trela.`,
-          pt: `Península na confluencia Birs-Rin, uma das dois Hundebadi (zonas de banho canino) oficiais do cantón. Corriente suave, praia arenosa, sem trela.`,
+          es: `Península en la confluencia Birs-Rin, una de las dos Hundebadi (zonas de baño canino) oficiales del cantón. Corriente suave, playa arenosa, sin correa.`,
+          pt: `Península na confluência Birs-Reno, uma das duas Hundebadi (zonas de banho canino) oficiais do cantão. Corrente suave, praia arenosa, sem trela.`,
         },
       },
       {
@@ -2939,8 +2939,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Parc fluvial de 3 km le long de la Wiese, du nord du Kleinbasel à la frontière allemande. Sections sans laisse, plages de galets, accès rivière pour les chiens nageurs.`,
           en: `3 km riparian park along the Wiese river, from northern Kleinbasel to the German border. Off-leash sections, gravel beaches, river access for swimming dogs.`,
-          es: `Parque fluvial de 3 km a lo longo del Wiese, desde el norte de Kleinbasel hasta la frontera alemana. Tramos sin trela, playas de grava, acceso al río para perros nadadores.`,
-          pt: `Parque fluvial de 3 km a lo longo do Wiese, a partir do norte de Kleinbasel até a frontera alemã. Tramos sem trela, praias de grava, acesso al rio para cães nadadores.`,
+          es: `Parque fluvial de 3 km a lo largo del Wiese, desde el norte de Kleinbasel hasta la frontera alemana. Tramos sin correa, playas de grava, acceso al río para perros nadadores.`,
+          pt: `Parque fluvial de 3 km ao longo do Wiese, do norte de Kleinbasel até à fronteira alemã. Troços sem trela, praias de gravilha, acesso ao rio para cães nadadores.`,
         },
       },
       {
@@ -2948,10 +2948,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛲',
         petFriendly: true,
         desc: {
-          fr: `La fontaine cinétique de Jean Tinguely (1977) sur la Theaterplatz, dix sculptures métalliques crachant et tournant em continu. Place ouverte, dog-friendly em laisse.`,
+          fr: `La fontaine cinétique de Jean Tinguely (1977) sur la Theaterplatz, dix sculptures métalliques crachant et tournant en continu. Place ouverte, dog-friendly en laisse.`,
           en: `Jean Tinguely's kinetic fountain (1977) on Theaterplatz, ten metal sculptures spitting and rotating continuously. Open square, dog-friendly on leash.`,
-          es: `La fuente cinética de Jean Tinguely (1977) na Theaterplatz, diez esculturas metálicas escupiendo y girando sin parar. Plaza abierta, dog-friendly com trela.`,
-          pt: `A fuente cinética de Jean Tinguely (1977) na Theaterplatz, dez esculturas metálicas escupiendo e girando sem parar. Praça aberta, pet-friendly com trela.`,
+          es: `La fuente cinética de Jean Tinguely (1977) en la Theaterplatz, diez esculturas metálicas escupiendo y girando sin parar. Plaza abierta, dog-friendly con correa.`,
+          pt: `A fonte cinética de Jean Tinguely (1977) na Theaterplatz, dez esculturas metálicas a cuspir e a girar sem parar. Praça aberta, pet-friendly com trela.`,
         },
       },
     ],
@@ -2959,8 +2959,8 @@ const cityContent: Record<string, CityContent> = {
       fr: [
         `La Suisse fait partie du système passeport européen : puce + vaccination antirabique valide + passeport européen exigés à la frontière.`,
         `Deux Hundebadi officielles dans le Rhin : Birsköpfli (crique calme, pour tous les chiens) et St. Alban-Rheinweg près du musée Tinguely (courant fort, nageurs confirmés).`,
-        `Trams BVB/BLT : chiens >30 cm au garrot tarif 2e classe réduit ; petits formats em panier fermé gratuits. Achetez au distributeur vert TNW avant de monter.`,
-        `Les bacs em bois du Rhin (Münsterfähre, Klingentalfähre) acceptent les chiens contre un petit forfait, beaucoup moins stressant qu'un tram pour un animal anxieux.`,
+        `Trams BVB/BLT : chiens >30 cm au garrot tarif 2e classe réduit ; petits formats en panier fermé gratuits. Achetez au distributeur vert TNW avant de monter.`,
+        `Les bacs en bois du Rhin (Münsterfähre, Klingentalfähre) acceptent les chiens contre un petit forfait, beaucoup moins stressant qu'un tram pour un animal anxieux.`,
         `Numéro vétérinaire d'urgence cantonal : 0900 515 114 (1,90 CHF/min). VetTrust Tierklinik à Münchenstein ouverte 24h/24.`,
       ],
       en: [
@@ -2971,25 +2971,25 @@ const cityContent: Record<string, CityContent> = {
         `Cantonal emergency vet line: 0900 515 114 (CHF 1.90/min). VetTrust Tierklinik in Münchenstein is open 24/7.`,
       ],
       es: [
-        `Suiza está na zona del passaporte europeu: microchip + vacuna antirrábica vigente + passaporte europeu obrigatórios na frontera.`,
-        `Dos Hundebadi oficiales em el Rin: Birsköpfli (ensenada tranquila, para todos los perros) y St. Alban-Rheinweg junto al Museo Tinguely (corriente fuerte, solo nadadores confirmados).`,
-        `Tranvías BVB/BLT: perros de más de 30 cm a la cruz pagan billete reducido de 2ª clase; los pequeños em transportín fechado viajan gratis. Compra na máquina verde TNW antes de subir.`,
+        `Suiza forma parte de la zona del pasaporte europeo: microchip + vacuna antirrábica vigente + pasaporte europeo obligatorios en la frontera.`,
+        `Dos Hundebadi oficiales en el Rin: Birsköpfli (ensenada tranquila, para todos los perros) y St. Alban-Rheinweg junto al Museo Tinguely (corriente fuerte, solo nadadores confirmados).`,
+        `Tranvías BVB/BLT: perros de más de 30 cm a la cruz pagan billete reducido de 2ª clase; los pequeños en transportín cerrado viajan gratis. Compra en la máquina verde TNW antes de subir.`,
         `Los ferris de madera del Rin (Münsterfähre, Klingentalfähre) admiten perros con una pequeña tarifa fija, mucho menos estresante que un tranvía para un animal nervioso.`,
-        `número cantonal de urgencias veterinarias: 0900 515 114 (1,90 CHF/min). VetTrust Tierklinik em Münchenstein abierta 24/7.`,
+        `Número cantonal de urgencias veterinarias: 0900 515 114 (1,90 CHF/min). VetTrust Tierklinik en Münchenstein abierta 24/7.`,
       ],
       pt: [
-        `Suiza está na zona do passaporte europeu: microchip + vacuna antirrábica vigente + passaporte europeu obrigatórios na frontera.`,
-        `Dois Hundebadi oficiales no Rin: Birsköpfli (ensenada tranquila, para todos os cães) e St. Alban-Rheinweg junto al Museu Tinguely (corriente fuerte, só nadadores confirmados).`,
-        `Elétricos BVB/BLT: cães de mais de 30 cm a a cruz pagan bilhete reducido de 2ª clase; os pequenos em transportadora fechado viajan grátis. Compra na máquina verde TNW antes de subir.`,
-        `Os ferris de madeira do Rin (Münsterfähre, Klingentalfähre) admiten cães con uma pequena tarifa fija, muito menos estresante que um elétrico para um animal nervioso.`,
-        `número cantonal de urgências veterinárias: 0900 515 114 (1,90 CHF/min). VetTrust Tierklinik em Münchenstein aberta 24/7.`,
+        `A Suíça faz parte da zona do passaporte europeu: microchip + vacina antirrábica válida + passaporte europeu obrigatórios na fronteira.`,
+        `Duas Hundebadi oficiais no Reno: Birsköpfli (enseada tranquila, para todos os cães) e St. Alban-Rheinweg junto ao Museu Tinguely (corrente forte, só nadadores experientes).`,
+        `Elétricos BVB/BLT: cães de mais de 30 cm ao garrote pagam bilhete reduzido de 2ª classe; os pequenos em transportadora fechada viajam grátis. Compre na máquina verde TNW antes de subir.`,
+        `Os batelões de madeira do Reno (Münsterfähre, Klingentalfähre) aceitam cães mediante uma pequena tarifa fixa, muito menos stressante do que um elétrico para um animal nervoso.`,
+        `Número cantonal de urgências veterinárias: 0900 515 114 (1,90 CHF/min). VetTrust Tierklinik em Münchenstein aberta 24/7.`,
       ],
     },
     practicalInfo: {
       fr: [
         `Vétérinaire d'urgence 24h/24 : VetTrust Tierklinik Basel, Emil Frey-Strasse 137, Münchenstein, +41 61 416 13 14.`,
         `Numéro de garde cantonal hors heures : 0900 515 114 (1,90 CHF/min).`,
-        `Trains : SBB-CFF accepte les chiens em laisse muselée >30 cm (billet 2e classe réduit) ; les chats et petits chiens em panier voyagent gratuitement.`,
+        `Trains : SBB-CFF accepte les chiens en laisse muselée >30 cm (billet 2e classe réduit) ; les chats et petits chiens en panier voyagent gratuitement.`,
         `EuroAirport Bâle-Mulhouse-Fribourg : passeport européen exigé. Sortie suisse pour rejoindre Bâle par le bus 50 (20 min jusqu'à Bâle SBB).`,
         `Pendant les pics touristiques (Art Basel mi-juin, Herbstmesse fin octobre), réservez hôtels et pet-sitters au moins une semaine à l'avance.`,
       ],
@@ -3002,17 +3002,17 @@ const cityContent: Record<string, CityContent> = {
       ],
       es: [
         `Veterinario de urgencias 24h: VetTrust Tierklinik Basel, Emil Frey-Strasse 137, Münchenstein, +41 61 416 13 14.`,
-        `número cantonal de guardia fuera de horario: 0900 515 114 (1,90 CHF/min).`,
-        `Trenes: SBB-CFF admite perros com trela y bozal de más de 30 cm (billete reducido de 2ª clase); gatos y perros pequeños em transportín viajan gratis.`,
-        `EuroAirport Basilea-Mulhouse-Friburgo: passaporte europeu obrigatório. Usa la saída suiza para conectar con Basilea por o autobús 50 (20 min hasta Basilea SBB).`,
-        `Durante los picos turísticos (Art Basel a mediados de junio, Herbstmesse a finais de octubre), reserva hoteles y pet-sitters al menos con una semana de antelación.`,
+        `Número cantonal de guardia fuera de horario: 0900 515 114 (1,90 CHF/min).`,
+        `Trenes: SBB-CFF admite perros con correa y bozal de más de 30 cm (billete reducido de 2ª clase); gatos y perros pequeños en transportín viajan gratis.`,
+        `EuroAirport Basilea-Mulhouse-Friburgo: pasaporte europeo obligatorio. Usa la salida suiza para conectar con Basilea por el autobús 50 (20 min hasta Basilea SBB).`,
+        `Durante los picos turísticos (Art Basel a mediados de junio, Herbstmesse a finales de octubre), reserva hoteles y pet-sitters al menos con una semana de antelación.`,
       ],
       pt: [
         `Veterinário de urgências 24h: VetTrust Tierklinik Basel, Emil Frey-Strasse 137, Münchenstein, +41 61 416 13 14.`,
-        `número cantonal de guardia fora de horario: 0900 515 114 (1,90 CHF/min).`,
-        `Comboios: SBB-CFF admite cães com trela e bozal de mais de 30 cm (bilhete reducido de 2ª clase); gatos e cães pequenos em transportadora viajan grátis.`,
-        `EuroAirport Basilea-Mulhouse-Friburgo: passaporte europeu obrigatório. Usa a saída suiza para conectar con Basilea pelo autocarro 50 (20 min até Basilea SBB).`,
-        `Durante os picos turísticos (Art Basel a mediados de junho, Herbstmesse a finais de outubro), reserva hotéis e pet-sitters al menos con uma semana de antelación.`,
+        `Número cantonal de urgência fora de horas: 0900 515 114 (1,90 CHF/min).`,
+        `Comboios: SBB-CFF aceita cães com trela e açaime de mais de 30 cm (bilhete reduzido de 2ª classe); gatos e cães pequenos em transportadora viajam grátis.`,
+        `EuroAirport Basileia-Mulhouse-Friburgo: passaporte europeu obrigatório. Use a saída suíça para chegar a Basileia pelo autocarro 50 (20 min até Basileia SBB).`,
+        `Durante os picos turísticos (Art Basel em meados de junho, Herbstmesse no final de outubro), reserve hotéis e pet-sitters com pelo menos uma semana de antecedência.`,
       ],
     },
   },

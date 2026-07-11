@@ -11581,10 +11581,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛪',
         petFriendly: false,
         desc: {
-          fr: 'La cathédrale aux deux flèches de 157 mètres a nécessité 632 ans de construction et abrite les reliques des Rois Mages. Les chiens ne sont pas admis à l\'intérieur, mais la vaste Domplatte qui l\'entoure se prête à une balade em laisse, avec des cafés accueillants.',
+          fr: `La cathédrale aux deux flèches de 157 mètres a nécessité 632 ans de construction et abrite les reliques des Rois Mages. Les chiens ne sont pas admis à l'intérieur, mais la vaste Domplatte qui l'entoure se prête à une balade en laisse, avec des cafés accueillants.`,
           en: 'The 157-metre twin-spired cathedral took 632 years to complete and holds the relics of the Three Magi. Dogs are not permitted inside, but the vast Domplatte plaza around it is a classic leashed stroll with cafés that welcome pets.',
-          es: 'La catedral de dos torres de 157 metros tardó 632 años em terminarse y alberga las reliquias dos Reyes Magos. No se admiten perros em o interior, pero a ampla Domplatte invita a pasear com trela, con cafés que aceptan mascotas.',
-          pt: 'A catedral de dois torres de 157 metros tardó 632 anos em terminarse e alberga as reliquias dois Reyes Magos. No se admitem cães no interior, mas a ampla Domplatte invita a pasear com trela, com cafés que aceitam animais.',
+          es: `La catedral de dos torres de 157 metros tardó 632 años en terminarse y alberga las reliquias de los Reyes Magos. No se admiten perros en el interior, pero la amplia Domplatte invita a pasear con correa, con cafés que aceptan mascotas.`,
+          pt: `A catedral de duas torres de 157 metros levou 632 anos a construir e guarda as relíquias dos Reis Magos. Não se admitem cães no interior, mas a ampla Domplatte convida a um passeio com trela, com cafés acolhedores.`,
         },
       },
       {
@@ -11592,10 +11592,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌉',
         petFriendly: true,
         desc: {
-          fr: 'La Rheinuferpromenade pavée relie le pont Hohenzollern aux maisons à pignons colorés de la vieille ville. Les chiens doivent rester em laisse dans a Altstadt ; les Poller Wiesen, au sud, offrent un espace de liberté officieux aux heures calmes.',
+          fr: `La Rheinuferpromenade pavée relie le pont Hohenzollern aux maisons à pignons colorés de la vieille ville. Les chiens doivent rester en laisse dans l'Altstadt ; les Poller Wiesen, au sud, offrent un espace de liberté officieux aux heures calmes.`,
           en: 'The cobbled Rheinuferpromenade links the Hohenzollern bridge to the colourful Altstadt gable houses. Dogs must stay on a leash within the old town, and the riverside Poller Wiesen just south offers unofficial off-leash space during quiet hours.',
-          es: 'a adoquinada Rheinuferpromenade conecta el puente Hohenzollern con las coloridas casas de a Altstadt. Los perros deben ir com trela em el casco antigo; los Poller Wiesen, al sur, ofrecen un espacio suelto extraoficial em horas tranquilas.',
-          pt: 'A adoquinada Rheinuferpromenade conecta o ponte Hohenzollern com as coloridas casas da Altstadt. Os cães deben ir com trela no centro histórico; os Poller Wiesen, al sur, ofrecen um espacio suelto extraoficial em horas tranquilas.',
+          es: `La adoquinada Rheinuferpromenade conecta el puente Hohenzollern con las coloridas casas de la Altstadt. Los perros deben ir con correa en el casco antiguo; los Poller Wiesen, al sur, ofrecen un espacio suelto extraoficial en las horas tranquilas.`,
+          pt: `A calcetada Rheinuferpromenade liga a ponte Hohenzollern às coloridas casas de empena da Altstadt. Os cães devem andar com trela no centro histórico; os Poller Wiesen, a sul, oferecem um espaço livre não oficial nas horas mais calmas.`,
         },
       },
       {
@@ -11605,8 +11605,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'La « forêt urbaine » de Cologne s\'étend sur 205 hectares dans le quartier verdoyant de Lindenthal et dispose d\'un Hundeauslaufplatz clôturé où les chiens peuvent courir librement. Ailleurs, la laisse est obligatoire du 1er mars au 15 juillet pour protéger les oiseaux nicheurs.',
           en: 'Cologne\'s \'city forest\' covers 205 hectares in the leafy Lindenthal district, with a dedicated fenced Hundeauslaufplatz where dogs can run off-leash. Elsewhere in the park leashes are mandatory from 1 March to 15 July to protect ground-nesting birds.',
-          es: 'El \'floresta urbano\' de Colonia abarca 205 hectáreas em el frondoso barrio de Lindenthal, con un Hundeauslaufplatz vallado donde los perros corren sueltos. em el resto del parque la trela es obrigatória del 1 de marzo ao 15 de julio para proteger a las aves nidificantes.',
-          pt: 'O \'floresta urbano\' de Colonia abarca 205 hectáreas no frondoso bairro de Lindenthal, con um Hundeauslaufplatz vallado onde os cães corren sueltos. No resto do parque a trela é obrigatória do 1 de março ao 15 de julho para proteger a as aves nidificantes.',
+          es: `El 'bosque urbano' de Colonia abarca 205 hectáreas en el frondoso barrio de Lindenthal, con un Hundeauslaufplatz vallado donde los perros corren sueltos. En el resto del parque la correa es obligatoria del 1 de marzo al 15 de julio para proteger a las aves nidificantes.`,
+          pt: `A 'floresta urbana' de Colónia ocupa 205 hectares no verdejante bairro de Lindenthal, com um Hundeauslaufplatz vedado onde os cães correm à solta. No resto do parque a trela é obrigatória de 1 de março a 15 de julho para proteger as aves que nidificam no solo.`,
         },
       },
       {
@@ -11616,8 +11616,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Un parc paysager paisible au sud-ouest du centre, organisé autour d\'un étang d\'aviron de 1,5 km. La laisse est exigée près de l\'eau et des aires de jeux, mais les prairies attenantes font le bonheur des propriétaires de teckels et de bergers allemands.',
           en: 'A calm landscape park southwest of the centre wrapped around a 1.5-kilometre rowing pond. Leashes are required near the water and children\'s areas, but the adjoining meadows are a favourite of local Dackel and Schäferhund owners.',
-          es: 'Un tranquilo parque paisajístico al suroeste del centro que rodea un estanque de remo de 1,5 km. La trela es obrigatória junto al agua y las zonas infantiles, pero los prados colindantes son los favoritos dos dueños de teckels y pastores alemanes.',
-          pt: 'Um tranquilo parque paisajístico al suroeste do centro que rodea um estanque de remo de 1,5 km. A trela é obrigatória junto al água e as zonas infantiles, mas os prados colindantes são os favoritos dois donos de teckels e pastores alemães.',
+          es: `Un tranquilo parque paisajístico al suroeste del centro que rodea un estanque de remo de 1,5 km. La correa es obligatoria junto al agua y las zonas infantiles, pero los prados colindantes son los favoritos de los dueños de teckels y pastores alemanes.`,
+          pt: `Um tranquilo parque paisagístico a sudoeste do centro, em redor de um lago de remo de 1,5 km. A trela é obrigatória junto à água e às zonas infantis, mas os prados vizinhos são os preferidos dos donos de teckels e pastores-alemães.`,
         },
       },
       {
@@ -11627,8 +11627,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Les rues ombragées du Belgisches Viertel, baptisées du nom de villes flamandes, forment le quartier le plus branché de Cologne. La plupart des bistrots de la Brüsseler Platz laissent une gamelle dehors et acceptent les chiens sages sous la table, demandez « Hund erlaubt ? ».',
           en: 'The Belgian Quarter\'s tree-lined streets named after Flemish cities form Cologne\'s hippest café grid. Most bistros on Brüsseler Platz keep water bowls outside, and many interiors welcome well-behaved dogs under the table, just ask \'Hund erlaubt?\' first.',
-          es: 'Las ruas arboladas del Belgisches Viertel, con nombres de ciudades flamencas, forman o bairro más moderno de Colonia. Casi todos los bistrós de Brüsseler Platz dejan un cuenco fuera y admiten perros tranquilos bajo la mesa, pregunta primero ¿Hund erlaubt?.',
-          pt: 'As ruas arboladas do Belgisches Viertel, com nombres de cidades flamencas, forman o bairro mais moderno de Colonia. Quase todos os bistrós de Brüsseler Platz deixam um cuenco fora e admitem cães tranquilos sob a mesa, pregunta primero Hund erlaubt?.',
+          es: `Las calles arboladas del Belgisches Viertel, con nombres de ciudades flamencas, forman el barrio más moderno de Colonia. Casi todos los bistrós de Brüsseler Platz dejan un cuenco fuera y admiten perros tranquilos bajo la mesa; pregunta primero ¿Hund erlaubt?.`,
+          pt: `As ruas arborizadas do Belgisches Viertel, com nomes de cidades flamengas, formam o bairro mais moderno de Colónia. Quase todos os bistrôs da Brüsseler Platz deixam uma tigela cá fora e aceitam cães sossegados debaixo da mesa; pergunte primeiro «Hund erlaubt?».`,
         },
       },
       {
@@ -11636,16 +11636,16 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🎡',
         petFriendly: true,
         desc: {
-          fr: 'Rive droite face à la vieille ville, le Rheinpark déploie 40 hectares de pelouses soignées. Les chiens voyagent gratuitement sur le téléphérique Kölner Seilbahn (à l\'appréciation du conducteur) s\'ils sont tenus em laisse et muselés, offrant une vue aérienne sur le Rhin.',
+          fr: `Rive droite face à la vieille ville, le Rheinpark déploie 40 hectares de pelouses soignées. Les chiens voyagent gratuitement sur le téléphérique Kölner Seilbahn (à l'appréciation du conducteur) s'ils sont tenus en laisse et muselés, offrant une vue aérienne sur le Rhin.`,
           en: 'On the right bank opposite the Altstadt, the Rheinpark stretches 40 hectares with sculpted lawns. Dogs ride free on the Kölner Seilbahn cable car (subject to driver discretion) if leashed and muzzled, giving a stroller-friendly aerial view of the Rhine.',
-          es: 'na orilla derecha frente a a Altstadt, el Rheinpark despliega 40 hectáreas de césped cuidado. Los perros viajan gratis em el teleférico Kölner Seilbahn (a criterio del operador) com trela y bozal, ofreciendo una vista aérea del Rin.',
-          pt: 'Na margem derecha frente a Altstadt, o Rheinpark despliega 40 hectáreas de relva cuidado. Os cães viajan grátis no teleférico Kölner Seilbahn (a criterio do operador) com trela e bozal, ofreciendo uma vista aérea do Rin.',
+          es: `En la orilla derecha frente a la Altstadt, el Rheinpark despliega 40 hectáreas de césped cuidado. Los perros viajan gratis en el teleférico Kölner Seilbahn (a criterio del operador) con correa y bozal, ofreciendo una vista aérea del Rin.`,
+          pt: `Na margem direita, em frente à Altstadt, o Rheinpark estende-se por 40 hectares de relvados cuidados. Os cães viajam grátis no teleférico Kölner Seilbahn (ao critério do operador) com trela e açaimo, oferecendo uma vista aérea do Reno.`,
         },
       },
     ],
     petTips: {
       fr: [
-        'La Deutsche Bahn facture un tarif enfant (environ 50 % du billet adulte) pour les chiens plus grands qu\'un chat ; les petits chiens em cage fermée voyagent gratuitement em ICE, IC et trains régionaux.',
+        `La Deutsche Bahn facture un tarif enfant (environ 50 % du billet adulte) pour les chiens plus grands qu'un chat ; les petits chiens en cage fermée voyagent gratuitement en ICE, IC et trains régionaux.`,
         'La muselière est obligatoire pour les chiens de taille moyenne et grande dans les trams, bus et U-Bahn de la KVB aux heures de pointe, gardez une muselière souple dans votre sac.',
         'Au-delà de trois mois de séjour, vous devez déclarer votre chien au Kassenamt dans les 14 jours et commencer à payer la Hundesteuer le mois suivant.',
         'Gardez toujours le passeport européen sur vous : des contrôles aléatoires ont lieu dans les ICE venant de Belgique ou des Pays-Bas à la Hauptbahnhof de Cologne.',
@@ -11659,27 +11659,27 @@ const cityContent: Record<string, CityContent> = {
         'Dog waste bags are dispensed free at green Köln-tipptopp stations across all major parks; fines for not scooping reach 100 euros.',
       ],
       es: [
-        'Deutsche Bahn cobra tarifa infantil (cerca del 50 % del billete de adulto) para perros mayores que un gato; los pequeños em transportín fechado viajan gratis em ICE, IC y regionales.',
-        'El bozal es obrigatório para perros medianos y grandes em los tranvías, autobuses y U-Bahn de KVB em hora punta; lleva un bozal flexible na bolsa.',
-        'Si te quedas más de tres meses, debes inscribir al perro em el Kassenamt en 14 días y empezar a pagar la Hundesteuer el mês siguiente.',
-        'Lleva siempre el passaporte europeu para mascotas: hay controles aleatorios em los ICE que llegan desde Bélgica o Países Bajos a la Hauptbahnhof de Colonia.',
-        'Las bolsas para excrementos se reparten gratis em las estações verdes Köln-tipptopp de todos los parques; la multa por no recoger llega a 100 euros.',
+        `Deutsche Bahn cobra tarifa infantil (cerca del 50 % del billete de adulto) para perros mayores que un gato; los pequeños en transportín cerrado viajan gratis en ICE, IC y regionales.`,
+        `El bozal es obligatorio para perros medianos y grandes en los tranvías, autobuses y U-Bahn de KVB en hora punta; lleva un bozal flexible en la bolsa.`,
+        `Si te quedas más de tres meses, debes inscribir al perro en el Kassenamt en 14 días y empezar a pagar la Hundesteuer el mes siguiente.`,
+        `Lleva siempre el pasaporte europeo para mascotas: hay controles aleatorios en los ICE que llegan desde Bélgica o los Países Bajos a la Hauptbahnhof de Colonia.`,
+        `Las bolsas para excrementos se reparten gratis en las estaciones verdes Köln-tipptopp de todos los parques; la multa por no recoger llega a 100 euros.`,
       ],
       pt: [
-        'Deutsche Bahn cobra tarifa infantil (perto do 50 % do bilhete de adulto) para cães mayores que um gato; os pequenos em transportadora fechado viajan grátis em ICE, IC e regionales.',
-        'O bozal é obrigatório para cães medianos e grandes nos elétricos, autocarros e U-Bahn de KVB em hora punta; lleva um bozal flexible na bolsa.',
-        'Si te quedas mais de três meses, debes inscribir al cão no Kassenamt en 14 dias e empezar a pagar a Hundesteuer o mês siguiente.',
-        'Lleva sempre o passaporte europeu para animais: hay controles aleatorios nos ICE que llegan a partir de Bélgica o Países Bajos a a Hauptbahnhof de Colonia.',
-        'As bolsas para excrementos se reparten grátis nas estações verdes Köln-tipptopp de todos os parques; a multa por no recoger llega a 100 euros.',
+        `A Deutsche Bahn cobra tarifa de criança (cerca de 50 % do bilhete de adulto) para cães maiores do que um gato; os pequenos numa transportadora fechada viajam grátis nos ICE, IC e comboios regionais.`,
+        `O açaimo é obrigatório para cães médios e grandes nos elétricos, autocarros e U-Bahn da KVB nas horas de ponta; leve um açaimo flexível na mala.`,
+        `Se ficar mais de três meses, tem de inscrever o cão no Kassenamt em 14 dias e começar a pagar a Hundesteuer no mês seguinte.`,
+        `Leve sempre o passaporte europeu para animais: há controlos aleatórios nos ICE que chegam da Bélgica ou dos Países Baixos à Hauptbahnhof de Colónia.`,
+        `Os sacos para dejetos são distribuídos gratuitamente nos postos verdes Köln-tipptopp de todos os parques; a multa por não apanhar chega aos 100 euros.`,
       ],
     },
     practicalInfo: {
       fr: [
         'Urgences vétérinaires (Tierärztlicher Notdienst Köln) : +49 221 340 5555, rotation 24h/24 des cliniques participantes.',
         'Le Tierheim Köln-Dellbrück (Iddelsfelder Hardt 120) gère les déclarations de pertes et les lectures de puce, tous les jours 10h-16h.',
-        'Les races « listées » em NRW incluent le Pit Bull, l\'American Staffordshire, le Staffordshire Bullterrier et le Bull Terrier, une autorisation d\'importation est requise avant l\'arrivée.',
-        'L\'aéroport de Cologne/Bonn (CGN) accepte les chiens em cabine jusqu\'à 8 kg avec Eurowings ; les plus gros voyagent em soute via l\'Animal Lounge de Francfort.',
-        'La tenue em laisse (Anleinpflicht) est obligatoire sur tous les trottoirs, zones piétonnes, cimetières et à moins de 5 mètres des aires de jeux.',
+        `Les races « listées » en NRW incluent le Pit Bull, l'American Staffordshire, le Staffordshire Bullterrier et le Bull Terrier, une autorisation d'importation est requise avant l'arrivée.`,
+        `L'aéroport de Cologne/Bonn (CGN) accepte les chiens en cabine jusqu'à 8 kg avec Eurowings ; les plus gros voyagent en soute via l'Animal Lounge de Francfort.`,
+        `La tenue en laisse (Anleinpflicht) est obligatoire sur tous les trottoirs, zones piétonnes, cimetières et à moins de 5 mètres des aires de jeux.`,
       ],
       en: [
         'Emergency vet (Tierärztlicher Notdienst Köln): +49 221 340 5555, 24/7 rotation of participating clinics.',
@@ -11689,18 +11689,18 @@ const cityContent: Record<string, CityContent> = {
         'Leash law (Anleinpflicht) applies citywide on all pavements, pedestrian zones, cemeteries and within 5 metres of playgrounds.',
       ],
       es: [
-        'Urgencias veterinarias (Tierärztlicher Notdienst Köln): +49 221 340 5555, rotación 24/7 de clínicas.',
-        'El Tierheim Köln-Dellbrück (Iddelsfelder Hardt 120) atiende mascotas perdidas y lectura de microchip de 10:00 a 16:00.',
-        'Las razas \'listadas\' em NRW incluyen Pit Bull, American Staffordshire, Staffordshire Bullterrier y Bull Terrier, requieren permiso de importación previo.',
-        'o aeropuerto Colonia/Bonn (CGN) admite perros em cabina hasta 8 kg con Eurowings; los mayores viajan como carga vía Animal Lounge de Fráncfort.',
-        'a obrigação de trela (Anleinpflicht) rige em toda a cidade em aceras, zonas peatonales, cementerios y a menos de 5 metros de parques infantiles.',
+        `Urgencias veterinarias (Tierärztlicher Notdienst Köln): +49 221 340 5555, rotación 24/7 de clínicas participantes.`,
+        `El Tierheim Köln-Dellbrück (Iddelsfelder Hardt 120) atiende mascotas perdidas y lectura de microchip de 10:00 a 16:00.`,
+        `Las razas 'listadas' en NRW incluyen Pit Bull, American Staffordshire, Staffordshire Bullterrier y Bull Terrier, requieren permiso de importación previo.`,
+        `El aeropuerto Colonia/Bonn (CGN) admite perros en cabina hasta 8 kg con Eurowings; los mayores viajan como carga vía Animal Lounge de Fráncfort.`,
+        `La obligación de correa (Anleinpflicht) rige en toda la ciudad en aceras, zonas peatonales, cementerios y a menos de 5 metros de parques infantiles.`,
       ],
       pt: [
-        'Urgências veterinárias (Tierärztlicher Notdienst Köln): +49 221 340 5555, rotación 24/7 de clínicas.',
-        'O Tierheim Köln-Dellbrück (Iddelsfelder Hardt 120) atiende animais perdidas e lectura de microchip de 10:00 a 16:00.',
-        'As raças \'listadas\' em NRW incluyen Pit Bull, American Staffordshire, Staffordshire Bullterrier e Bull Terrier, requieren permiso de importación previo.',
-        'O aeroporto Colonia/Bonn (CGN) admite cães em cabina até 8 kg con Eurowings; os mayores viajan como carga vía Animal Lounge de Fráncfort.',
-        'A obrigação de trela (Anleinpflicht) rige em toda a cidade em aceras, zonas peatonales, cementerios e a menos de 5 metros de parques infantiles.',
+        `Urgências veterinárias (Tierärztlicher Notdienst Köln): +49 221 340 5555, rotação 24/7 de clínicas participantes.`,
+        `O Tierheim Köln-Dellbrück (Iddelsfelder Hardt 120) trata de animais perdidos e leitura de microchip das 10:00 às 16:00.`,
+        `As raças 'listadas' na NRW incluem Pit Bull, American Staffordshire, Staffordshire Bullterrier e Bull Terrier, exigindo autorização de importação prévia.`,
+        `O aeroporto Colónia/Bona (CGN) aceita cães em cabina até 8 kg com a Eurowings; os maiores viajam como carga através da Animal Lounge de Frankfurt.`,
+        `A obrigação de trela (Anleinpflicht) vigora em toda a cidade nos passeios, zonas pedonais, cemitérios e a menos de 5 metros dos parques infantis.`,
       ],
     },
   },
@@ -14929,10 +14929,10 @@ const cityContent: Record<string, CityContent> = {
 
   frankfurt: {
     history: {
-      fr: `Francfort-sur-le-Main, cité libre du Saint Empire romain germanique et lieu du couronnement des empereurs pendant cinq siècles, est aujourd'hui la capitale financière de l'Allemagne et le siège de la Banque centrale européenne. Derrière sa skyline de gratte-ciel, unique em Europe continentale, se cache une ville étonnamment verte : plus de 52% du territoire est forêt, parc ou plan d'eau, dont le Stadtwald de 4 200 hectares, l'une des plus grandes forêts municipales d'Allemagne. Le quartier historique de Sachsenhausen, avec ses ruelles pavées et ses Apfelweinwirtschaften centenaires, incarne l'autre visage de la ville : traditionnel, convivial, résolument tourné vers le chien. Entre la promenade Mainufer de 4 km, les sentiers du Stadtwald et les Hundeauslaufflächen clôturés du Grüneburgpark et du Niddapark, Francfort offre aux propriétaires de chiens un équilibre rare entre grande métropole et nature urbaine.`,
+      fr: `Francfort-sur-le-Main, cité libre du Saint Empire romain germanique et lieu du couronnement des empereurs pendant cinq siècles, est aujourd'hui la capitale financière de l'Allemagne et le siège de la Banque centrale européenne. Derrière sa skyline de gratte-ciel, unique en Europe continentale, se cache une ville étonnamment verte : plus de 52% du territoire est forêt, parc ou plan d'eau, dont le Stadtwald de 4 200 hectares, l'une des plus grandes forêts municipales d'Allemagne. Le quartier historique de Sachsenhausen, avec ses ruelles pavées et ses Apfelweinwirtschaften centenaires, incarne l'autre visage de la ville : traditionnel, convivial, résolument tourné vers le chien. Entre la promenade Mainufer de 4 km, les sentiers du Stadtwald et les Hundeauslaufflächen clôturés du Grüneburgpark et du Niddapark, Francfort offre aux propriétaires de chiens un équilibre rare entre grande métropole et nature urbaine.`,
       en: `Frankfurt am Main, a Free Imperial City of the Holy Roman Empire and the coronation site of emperors for five centuries, is today Germany's financial capital and headquarters of the European central Bank. Behind its skyline of skyscrapers (unique in continental Europe) hides a surprisingly green city: more than 52% of its territory is forest, park, or water, including the 4,200-hectare Stadtwald, one of the largest city-owned forests in Germany. The historic Sachsenhausen district, with its cobbled alleys and century-old Apfelweinwirtschaften (apple-wine taverns), embodies the other face of the city: traditional, welcoming, resolutely dog-friendly. Between the 4 km Mainufer promenade, the Stadtwald trails, and the fenced off-leash zones in Grüneburgpark and Niddapark, Frankfurt offers dog owners a rare balance between big metropolis and urban nature.`,
-      es: `Fráncfort del Meno, Ciudad Libre Imperial del Sacro Imperio Romano Germánico y sede de la coronación dos emperadores durante cinco siglos, es hoy la capital financiera de Alemania y sede del Banco central europeu. Tras su skyline de rascacielos (único na Europa continental) se esconde uma cidade sorprendentemente verde: más del 52% de su territorio es floresta, parque o agua, incluido el Stadtwald de 4.200 hectáreas, uno dos mayores florestas municipales de Alemania. o bairro histórico de Sachsenhausen, con sus callejones empedrados y sus centenarios Apfelweinwirtschaften (tabernas de vino de manzana), encarna a otra cara de a cidade: tradicional, acogedora, decididamente dog-friendly. Entre el paseo Mainufer de 4 km, los senderos del Stadtwald y las zonas sin trela valladas del Grüneburgpark y Niddapark, Fráncfort ofrece a los dueños de perros un raro equilibrio entre gran metrópoli y naturaleza urbana.`,
-      pt: `Fráncfort do Meno, Cidade Libre Imperial do Sacro Imperio Romano Germánico e sede da coronación dois emperadores durante cinco séculos, é hoy a capital financiera de Alemania e sede do Banco central europeu. Tras su skyline de rascacielos (único na Europa continental) se esconde uma cidade sorprendentemente verde: mais do 52% de su territorio é floresta, parque o água, incluido o Stadtwald de 4.200 hectáreas, uno dois mayores florestas municipales de Alemania. O bairro histórico de Sachsenhausen, com os seus ruelas empedrados e os seus centenarios Apfelweinwirtschaften (tabernas de vino de manzana), encarna a outra cara da cidade: tradicional, acogedora, decididamente pet-friendly. Entre o passeio Mainufer de 4 km, os trilhos do Stadtwald e as zonas sem trela valladas do Grüneburgpark e Niddapark, Fráncfort ofrece aos donos de cães um raro equilibrio entre grande metrópoli e naturaleza urbana.`,
+      es: `Fráncfort del Meno, Ciudad Libre Imperial del Sacro Imperio Romano Germánico y sede de la coronación de los emperadores durante cinco siglos, es hoy la capital financiera de Alemania y sede del Banco Central Europeo. Tras su skyline de rascacielos (único en la Europa continental) se esconde una ciudad sorprendentemente verde: más del 52% de su territorio es bosque, parque o agua, incluido el Stadtwald de 4.200 hectáreas, uno de los mayores bosques municipales de Alemania. El barrio histórico de Sachsenhausen, con sus callejones empedrados y sus centenarios Apfelweinwirtschaften (tabernas de vino de manzana), encarna la otra cara de la ciudad: tradicional, acogedora, decididamente dog-friendly. Entre el paseo Mainufer de 4 km, los senderos del Stadtwald y las zonas sin correa valladas del Grüneburgpark y el Niddapark, Fráncfort ofrece a los dueños de perros un raro equilibrio entre gran metrópoli y naturaleza urbana.`,
+      pt: `Frankfurt am Main, Cidade Livre Imperial do Sacro Império Romano-Germânico e local da coroação dos imperadores durante cinco séculos, é hoje a capital financeira da Alemanha e sede do Banco Central Europeu. Por trás do seu skyline de arranha-céus (único na Europa continental) esconde-se uma cidade surpreendentemente verde: mais de 52% do território é floresta, parque ou água, incluindo o Stadtwald de 4.200 hectares, uma das maiores florestas municipais da Alemanha. O bairro histórico de Sachsenhausen, com as suas ruelas empedradas e as suas centenárias Apfelweinwirtschaften (tabernas de vinho de maçã), encarna a outra face da cidade: tradicional, acolhedora, decididamente pet-friendly. Entre o passeio Mainufer de 4 km, os trilhos do Stadtwald e as zonas sem trela vedadas do Grüneburgpark e do Niddapark, Frankfurt oferece aos donos de cães um raro equilíbrio entre grande metrópole e natureza urbana.`,
     },
     sights: [
       {
@@ -14942,8 +14942,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Parc anglais de 29 hectares dans le Westend, avec l'une des rares Hundeauslaufflächen clôturées du centre de Francfort. Pelouses ombragées et allées piétonnes, interdit aux vélos.`,
           en: `A 29-hectare English-style park in the Westend featuring one of central Frankfurt's few fenced off-leash areas. Shaded lawns and pedestrian-only paths, no cyclists allowed.`,
-          es: `Parque inglés de 29 hectáreas em el Westend, con una das escasas Hundeauslaufflächen valladas del centro de Fráncfort. Céspedes sombreados y senderos solo peatonales, sin bicis.`,
-          pt: `Parque inglês de 29 hectáreas no Westend, com uma das escasas Hundeauslaufflächen valladas do centro de Fráncfort. Céspedes sombreados e trilhos só peatonales, sem bicis.`,
+          es: `Parque inglés de 29 hectáreas en el Westend, con una de las escasas Hundeauslaufflächen valladas del centro de Fráncfort. Céspedes sombreados y senderos solo peatonales, sin bicis.`,
+          pt: `Parque inglês de 29 hectares no Westend, com uma das poucas Hundeauslaufflächen vedadas do centro de Frankfurt. Relvados sombreados e trilhos apenas pedonais, sem bicicletas.`,
         },
       },
       {
@@ -14953,8 +14953,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Forêt municipale de 4 200 hectares au sud de la ville. Sans laisse hors période de reproduction (16 juillet–28 février), la plus grande balade canine d'Allemagne intra-muros.`,
           en: `A 4,200-hectare municipal forest south of the city. Off-leash outside the breeding season (16 July–28 February), the largest within-city dog walking ground in Germany.`,
-          es: `floresta municipal de 4.200 hectáreas al sur de a cidade. Sin trela fuera de temporada de reproducción (16 jul–28 feb), el mayor paseo canino intraurbano de Alemania.`,
-          pt: `Floresta municipal de 4.200 hectáreas a sul da cidade. Sem trela fora de temporada de reproducción (16 jul–28 feb), o mayor passeio canino intraurbano de Alemania.`,
+          es: `Bosque municipal de 4.200 hectáreas al sur de la ciudad. Sin correa fuera de la temporada de reproducción (16 jul–28 feb), el mayor paseo canino intraurbano de Alemania.`,
+          pt: `Floresta municipal de 4.200 hectares a sul da cidade. Sem trela fora da época de reprodução (16 jul–28 fev), o maior passeio canino intraurbano da Alemanha.`,
         },
       },
       {
@@ -14962,10 +14962,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏛️',
         petFriendly: true,
         desc: {
-          fr: `Place médiévale de l'Altstadt, avec ses façades à colombages reconstruites après-guerre. Marché de Noël et foires em plein air, chiens em laisse bienvenus em extérieur.`,
+          fr: `Place médiévale de l'Altstadt, avec ses façades à colombages reconstruites après-guerre. Marché de Noël et foires en plein air, chiens en laisse bienvenus en extérieur.`,
           en: `The Altstadt's medieval central square, with its post-war half-timbered façades. Christmas market and open-air fairs, leashed dogs welcome outdoors.`,
-          es: `Plaza medieval central de a Altstadt, con sus fachadas entramadas reconstruidas tras la guerra. Mercado navideño y ferias al aire libre, perros com trela bienvenidos.`,
-          pt: `Praça medieval central da Altstadt, com os seus fachadas entramadas reconstruidas tras a guerra. Mercado navidenho e feiras al aire libre, cães com trela bem-vindos.`,
+          es: `Plaza medieval central de la Altstadt, con sus fachadas entramadas reconstruidas tras la guerra. Mercado navideño y ferias al aire libre, perros con correa bienvenidos.`,
+          pt: `Praça medieval central da Altstadt, com as suas fachadas de enxaimel reconstruídas após a guerra. Mercado de Natal e feiras ao ar livre, cães com trela bem-vindos no exterior.`,
         },
       },
       {
@@ -14973,10 +14973,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌉',
         petFriendly: true,
         desc: {
-          fr: `Passerelle piétonne em fer de 170 m enjambant le Main, reliant l'Altstadt à Sachsenhausen. Entièrement accessible aux chiens, vue panoramique sur la skyline.`,
+          fr: `Passerelle piétonne en fer de 170 m enjambant le Main, reliant l'Altstadt à Sachsenhausen. Entièrement accessible aux chiens, vue panoramique sur la skyline.`,
           en: `A 170-metre pedestrian iron bridge across the Main linking the Altstadt to Sachsenhausen. Fully dog-accessible, panoramic skyline views.`,
-          es: `Pasarela peatonal de hierro de 170 m que cruza el Main uniendo a Altstadt con Sachsenhausen. Totalmente acessível para perros, vistas panorámicas al skyline.`,
-          pt: `Pasarela peatonal de ferro de 170 m que cruza o Main uniendo a Altstadt com Sachsenhausen. Totalmente acessível para cães, vistas panorámicas al skyline.`,
+          es: `Pasarela peatonal de hierro de 170 m que cruza el Main uniendo la Altstadt con Sachsenhausen. Totalmente accesible para perros, vistas panorámicas del skyline.`,
+          pt: `Passadiço pedonal de ferro de 170 m que atravessa o Main, ligando a Altstadt a Sachsenhausen. Totalmente acessível a cães, vista panorâmica sobre o skyline.`,
         },
       },
       {
@@ -14986,8 +14986,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Promenade fluviale de 4 km le long des deux rives du Main, passant devant le Museumsufer. Plate, large, pavée, bancs et fontaines publiques en été.`,
           en: `A 4 km riverbank promenade along both sides of the Main, passing the Museumsufer. Flat, wide, paved, benches and public water taps in summer.`,
-          es: `Paseo ribereño de 4 km a lo longo de ambas orillas del Main, pasando por el Museumsufer. Plano, amplo, pavimentado, bancos y fuentes públicas em verano.`,
-          pt: `Passeio riberenho de 4 km a lo longo de ambas margens do Main, pasando pelo Museumsufer. Plano, amplo, pavimentado, bancos e fuentes públicas em verão.`,
+          es: `Paseo ribereño de 4 km a lo largo de ambas orillas del Main, pasando por el Museumsufer. Plano, amplio, pavimentado, bancos y fuentes públicas en verano.`,
+          pt: `Passeio ribeirinho de 4 km ao longo de ambas as margens do Main, passando pelo Museumsufer. Plano, largo, pavimentado, bancos e bebedouros públicos no verão.`,
         },
       },
       {
@@ -14997,8 +14997,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Plus grand parc intra-urbain de Francfort (168 ha), au nord-ouest. Hundeauslauffläche dédiée à l'est, 6 km d'allées circulaires pour le footing canin.`,
           en: `Frankfurt's largest inner-city park (168 ha) in the north-west. Dedicated off-leash area on the eastern edge, 6 km of circular paths for dog jogging.`,
-          es: `Mayor parque intraurbano de Fráncfort (168 ha) al noroeste. Zona sin trela em el borde este, 6 km de senderos circulares para correr con el perro.`,
-          pt: `Mayor parque intraurbano de Fráncfort (168 ha) al noroeste. Zona sem trela no borde este, 6 km de trilhos circulares para correr com o cão.`,
+          es: `Mayor parque intraurbano de Fráncfort (168 ha) al noroeste. Zona sin correa en el borde este, 6 km de senderos circulares para correr con el perro.`,
+          pt: `Maior parque intraurbano de Frankfurt (168 ha) a noroeste. Zona sem trela na orla este, 6 km de trilhos circulares para correr com o cão.`,
         },
       },
     ],

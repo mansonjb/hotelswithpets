@@ -24454,10 +24454,10 @@ const cityContent: Record<string, CityContent> = {
 
   lucerne: {
     history: {
-      fr: `Lucerne s'enroule autour de la pointe nord-ouest du Vierwaldstättersee, le « lac des Quatre-Cantons », au pied du Pilatus et du Rigi. Fondée comme port lacustre au IXe siècle, elle prend son essor avec l'ouverture du col du Saint-Gothard au XIIIe siècle et devient l'un des trois cantons fondateurs de la Confédération en 1332. Aujourd'hui peuplée d'environ 82 000 habitants intra-muros (220 000 dans l'agglomération), c'est la capitale touristique de la Suisse centrale et l'un des villes les plus visitées du pays. Côté chiens, Lucerne combine la rigueur juridique suisse (puce ISO obligatoire, déclaration cantonale, taxe Hundesteuer) avec une culture étonnamment détendue : les Lucernois emmènent leur chien partout, terrasses lacustres, bateaux à vapeur SGV, crémaillères du Pilatus et du Rigi, pubs, magasins. La carte journalière chien à 25 CHF, valable sur tout le réseau national de transports publics, permet une journée multi-sommets et lac sans contrainte. Seules limites : la laisse obligatoire em forêt du 1er avril au 31 juillet (saison de nidification), l'interdiction des chiens dans les lidos (Lido, Ufschötti) du 1er mai au 30 septembre, et les pavés brûlants de la Vieille Ville em plein été.`,
+      fr: `Lucerne s'enroule autour de la pointe nord-ouest du Vierwaldstättersee, le « lac des Quatre-Cantons », au pied du Pilatus et du Rigi. Fondée comme port lacustre au IXe siècle, elle prend son essor avec l'ouverture du col du Saint-Gothard au XIIIe siècle et devient l'un des trois cantons fondateurs de la Confédération en 1332. Aujourd'hui peuplée d'environ 82 000 habitants intra-muros (220 000 dans l'agglomération), c'est la capitale touristique de la Suisse centrale et l'une des villes les plus visitées du pays. Côté chiens, Lucerne combine la rigueur juridique suisse (puce ISO obligatoire, déclaration cantonale, taxe Hundesteuer) avec une culture étonnamment détendue : les Lucernois emmènent leur chien partout, terrasses lacustres, bateaux à vapeur SGV, crémaillères du Pilatus et du Rigi, pubs, magasins. La carte journalière chien à 25 CHF, valable sur tout le réseau national de transports publics, permet une journée multi-sommets et lac sans contrainte. Seules limites : la laisse obligatoire en forêt du 1er avril au 31 juillet (saison de nidification), l'interdiction des chiens dans les lidos (Lido, Ufschötti) du 1er mai au 30 septembre, et les pavés brûlants de la Vieille Ville en plein été.`,
       en: `Lucerne wraps around the north-western tip of the Vierwaldstättersee, the Lake of the Four Forest Cantons, at the foot of Pilatus and Rigi mountains. Founded as a lakeside port in the 9th century, it boomed after the Saint Gotthard Pass opened in the 13th century and became one of the three founding cantons of the Swiss Confederation in 1332. Today the city of around 82,000 inhabitants (220,000 in the agglomeration) is central Switzerland's tourism capital and one of the country's most visited cities. On the dog front, Lucerne pairs Swiss legal rigour (ISO microchip required, cantonal registration, Hundesteuer tax) with a surprisingly laid-back day-to-day culture: locals take their dogs everywhere, lakeside terraces, SGV paddle steamers, Pilatus and Rigi cogwheel railways, pubs, shops. The CHF 25 nationwide dog day pass on public transport makes multi-mountain and lake days seamless. The only constraints are leash duty in forests from 1 April to 31 July (nesting season), a dog ban inside the Lido and Ufschötti bathing perimeters from 1 May to 30 September, and Altstadt cobbles that bake under summer sun.`,
-      es: `Lucerna se enrosca alrededor de la punta noroccidental del Vierwaldstättersee, el «lago dos Cuatro Cantones», al pie del Pilatus y el Rigi. fundada como puerto lacustre em el siglo IX, despegó tras a apertura del paso de San Gotardo em el siglo XIII y se convirtió em uno dos tres cantones fundadores de la Confederación Suiza en 1332. Hoy con unos 82.000 habitantes intramuros (220.000 na aglomeración), es la capital turística de la Suiza central y una das ciudades más visitadas del país. Para los perros, Lucerna combina el rigor jurídico suizo (microchip ISO obrigatório, registro cantonal, impuesto Hundesteuer) con una cultura sorprendentemente relajada em el día a día: los lucerneses llevan a sus perros a todas partes, terrazas lacustres, vapores de paletas SGV, cremalleras del Pilatus y el Rigi, pubs, tiendas. El billete diario para perros de 25 CHF, válido em toda a rede nacional de transporte público, permite jornadas multi-cima y lago sin trabas. Únicas limitaciones: trela obrigatória em floresta del 1 de abril ao 31 de julio (nidificación), prohibición de perros em los lidos (Lido, Ufschötti) del 1 de mayo ao 30 de septiembre, y adoquines del casco antigo abrasadores em pleno verano.`,
-      pt: `Lucerna se enrosca alrededor da punta noroccidental do Vierwaldstättersee, o «lago dois Quatro Cantones», al pie do Pilatus e o Rigi. fundada como porto lacustre no século IX, despegó tras a apertura do paso de San Gotardo no século XIII e tornou-se em uno dois três cantones fundadores da Confederación Suiza em 1332. Hoy com uns 82.000 habitantes intramuros (220.000 na aglomeración), é a capital turística da Suiza central e uma das cidades mais visitadas do país. Para os cães, Lucerna combina o rigor jurídico suizo (microchip ISO obrigatório, registro cantonal, impuesto Hundesteuer) com uma cultura sorprendentemente relajada no dia a dia: os lucerneses levam aos seus cães a todas partes, esplanadas lacustres, vapores de paletas SGV, cremalleras do Pilatus e o Rigi, pubs, tiendas. O bilhete diario para cães de 25 CHF, válido em toda a rede nacional de transporte público, permite jornadas multi-cima e lago sem trabas. Únicas limitaciones: trela obrigatória em floresta do 1 de abril ao 31 de julho (nidificación), prohibición de cães nos lidos (Lido, Ufschötti) do 1 de maio ao 30 de setembro, e adoquines do centro histórico abrasadores em pleno verão.`,
+      es: `Lucerna se enrosca alrededor de la punta noroccidental del Vierwaldstättersee, el «lago de los Cuatro Cantones», al pie del Pilatus y el Rigi. Fundada como puerto lacustre en el siglo IX, despegó tras la apertura del paso de San Gotardo en el siglo XIII y se convirtió en uno de los tres cantones fundadores de la Confederación Suiza en 1332. Hoy, con unos 82.000 habitantes intramuros (220.000 en la aglomeración), es la capital turística de la Suiza central y una de las ciudades más visitadas del país. Para los perros, Lucerna combina el rigor jurídico suizo (microchip ISO obligatorio, registro cantonal, impuesto Hundesteuer) con una cultura sorprendentemente relajada en el día a día: los lucerneses llevan a sus perros a todas partes, terrazas junto al lago, vapores de paletas SGV, cremalleras del Pilatus y el Rigi, pubs, tiendas. El billete diario para perros de 25 CHF, válido en toda la red nacional de transporte público, permite jornadas de varias cimas y lago sin trabas. Únicas limitaciones: correa obligatoria en el bosque del 1 de abril al 31 de julio (nidificación), prohibición de perros en los lidos (Lido, Ufschötti) del 1 de mayo al 30 de septiembre, y adoquines del casco antiguo abrasadores en pleno verano.`,
+      pt: `Lucerna enrola-se em torno da ponta noroeste do Vierwaldstättersee, o «lago dos Quatro Cantões», ao pé do Pilatus e do Rigi. Fundada como porto lacustre no século IX, cresceu após a abertura do desfiladeiro de São Gotardo no século XIII e tornou-se um dos três cantões fundadores da Confederação Suíça em 1332. Hoje, com cerca de 82.000 habitantes intramuros (220.000 na aglomeração), é a capital turística da Suíça central e uma das cidades mais visitadas do país. Para os cães, Lucerna combina o rigor jurídico suíço (microchip ISO obrigatório, registo cantonal, imposto Hundesteuer) com uma cultura surpreendentemente descontraída no dia a dia: os habitantes levam os cães a toda a parte, esplanadas à beira-lago, vapores de rodas SGV, funiculares de cremalheira do Pilatus e do Rigi, pubs, lojas. O bilhete diário para cães de 25 CHF, válido em toda a rede nacional de transportes públicos, permite dias de várias montanhas e lago sem entraves. Únicas limitações: trela obrigatória na floresta de 1 de abril a 31 de julho (nidificação), proibição de cães nos lidos (Lido, Ufschötti) de 1 de maio a 30 de setembro, e as calçadas do centro histórico escaldantes em pleno verão.`,
     },
     sights: [
       {
@@ -24465,10 +24465,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌉',
         petFriendly: true,
         desc: {
-          fr: `Le pont couvert em bois du XIVe siècle qui zigzague à travers la Reuss est l'emblème de Lucerne et le plus ancien pont à treillis em bois encore debout d'Europe. Les chiens em laisse traversent toute l'année ; portez les petits chiens em pleine après-midi estivale lorsque le pont devient bondé.`,
+          fr: `Le pont couvert en bois du XIVe siècle qui zigzague à travers la Reuss est l'emblème de Lucerne et le plus ancien pont à treillis en bois encore debout d'Europe. Les chiens en laisse le traversent toute l'année ; portez les petits chiens en pleine après-midi estivale lorsque le pont devient bondé de groupes de touristes.`,
           en: `The 14th-century covered wooden bridge zigzagging across the Reuss River is Lucerne's emblem and Europe's oldest surviving wooden truss bridge. Leashed dogs cross year-round; carry small dogs at peak summer afternoons when the bridge becomes packed with tour groups.`,
-          es: `El puente cubierto de madera del siglo XIV que zigzaguea a través del río Reuss es o emblema de Lucerna y el puente de armadura de madera más antigo de Europa aún em pie. Los perros com trela cruzan todo o año; lleva em brazos a perros pequeños em máximas tardes estivales cuando el puente se llena de grupos turísticos.`,
-          pt: `O ponte cubierto de madeira do século XIV que zigzaguea a través do rio Reuss é o emblema de Lucerna e o ponte de armadura de madeira mais antigo de Europa aún em pie. Os cães com trela cruzan o ano inteiro; leva em brazos a cães pequenos em máximas tardes estivales quando o ponte se llena de grupos turísticos.`,
+          es: `El puente cubierto de madera del siglo XIV que zigzaguea a través del río Reuss es el emblema de Lucerna y el puente de armadura de madera más antiguo de Europa aún en pie. Los perros con correa lo cruzan todo el año; lleva en brazos a los perros pequeños en las tardes estivales de máxima afluencia, cuando el puente se llena de grupos turísticos.`,
+          pt: `A ponte coberta de madeira do século XIV que serpenteia sobre o rio Reuss é o emblema de Lucerna e a mais antiga ponte de treliça de madeira ainda de pé na Europa. Os cães com trela atravessam-na o ano inteiro; leva ao colo os cães pequenos nas tardes de verão de maior afluência, quando a ponte fica cheia de grupos de turistas.`,
         },
       },
       {
@@ -24476,10 +24476,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🦁',
         petFriendly: true,
         desc: {
-          fr: `Le « Lion mourant » sculpté en 1820 par Bertel Thorvaldsen directement dans la falaise de grès commémore les 760 Gardes suisses tombés em défendant les Tuileries en 1792. Mark Twain l'a décrit comme « le morceau de pierre le plus émouvant et triste au monde ». Site em plein air, gratuit, dog-friendly avec un petit bassin et des bancs ombragés.`,
+          fr: `Le « Lion mourant » sculpté en 1820 par Bertel Thorvaldsen directement dans la falaise de grès commémore les 760 Gardes suisses tombés en défendant les Tuileries en 1792. Mark Twain l'a décrit comme « le morceau de pierre le plus émouvant et triste au monde ». Site en plein air, gratuit, dog-friendly avec un petit bassin et des bancs ombragés.`,
           en: `The "Dying Lion", carved in 1820 by Bertel Thorvaldsen directly into the sandstone cliff, commemorates the 760 Swiss Guards killed defending the Tuileries in 1792. Mark Twain called it "the most mournful and moving piece of stone in the world." Open-air, free, dog-friendly with a small reflecting pond and shaded benches.`,
-          es: `El «León moribundo», esculpido en 1820 por Bertel Thorvaldsen directamente em o acantilado de arenisca, conmemora a los 760 Guardias suizos caídos defendiendo las Tullerías en 1792. Mark Twain lo describió como «el trozo de piedra más conmovedor y triste del mundo». Al aire libre, gratuito, dog-friendly con un pequeño estanque y bancos sombreados.`,
-          pt: `O «León moribundo», esculpido em 1820 por Bertel Thorvaldsen directamente no acantilado de arenisca, conmemora aos 760 Guardias suizos caídos defendiendo as Tullerías em 1792. Mark Twain lo describió como «o trozo de pedra mais conmovedor e triste do mundo». Al aire libre, gratuito, pet-friendly com um pequeno estanque e bancos sombreados.`,
+          es: `El «León moribundo», esculpido en 1820 por Bertel Thorvaldsen directamente en el acantilado de arenisca, conmemora a los 760 Guardias suizos caídos defendiendo las Tullerías en 1792. Mark Twain lo describió como «el trozo de piedra más conmovedor y triste del mundo». Al aire libre, gratuito, dog-friendly con un pequeño estanque y bancos sombreados.`,
+          pt: `O «Leão moribundo», esculpido em 1820 por Bertel Thorvaldsen diretamente na falésia de arenito, evoca os 760 Guardas suíços tombados a defender as Tulherias em 1792. Mark Twain descreveu-o como «o pedaço de pedra mais comovente e triste do mundo». Ao ar livre, gratuito, dog-friendly, com um pequeno espelho de água e bancos à sombra.`,
         },
       },
       {
@@ -24487,10 +24487,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏰',
         petFriendly: true,
         desc: {
-          fr: `Le rempart médiéval de 870 mètres au nord de la Vieille Ville, avec ses neuf tours dont le Zytturm dont l'horloge de 1535 sonne une minute avant toutes les autres em ville. Trois tours sont accessibles à la montée d'avril à octobre ; la Männliturm offre l'escalier le plus large pour monter avec un petit chien em laisse.`,
+          fr: `Le rempart médiéval de 870 mètres au nord de la Vieille Ville, avec ses neuf tours dont le Zytturm, dont l'horloge de 1535 sonne une minute avant toutes les autres en ville. Trois tours sont accessibles à la montée d'avril à octobre ; la Männliturm offre l'escalier le plus large pour monter avec un petit chien en laisse.`,
           en: `The 870-metre medieval wall north of the Altstadt, with nine towers including the Zytturm whose 1535 clock chimes one minute before all others in the city. Three towers are climbable April-October; the Männliturm has the widest stairway, easiest for climbing with a small leashed dog.`,
-          es: `La muralla medieval de 870 metros al norte del casco antigo, con nueve torres incluida la Zytturm cuyo reloj de 1535 suena un minuto antes que todos los demás de a cidade. Tres torres son escalables de abril a octubre; la Männliturm tiene a escalera más ampla, más fácil para subir con un perro pequeño com trela.`,
-          pt: `A muralha medieval de 870 metros al norte do centro histórico, com nove torres incluida a Zytturm cuyo reloj de 1535 suena um minuto antes que todos os demais da cidade. Três torres são escalables de abril a outubro; a Männliturm tem a escalera mais ampla, mais fácil para subir com um cão pequeno com trela.`,
+          es: `La muralla medieval de 870 metros al norte del casco antiguo, con nueve torres incluida la Zytturm, cuyo reloj de 1535 suena un minuto antes que todos los demás de la ciudad. Tres torres se pueden subir de abril a octubre; la Männliturm tiene la escalera más ancha, la más fácil para subir con un perro pequeño con correa.`,
+          pt: `A muralha medieval de 870 metros a norte do centro histórico, com nove torres, incluindo a Zytturm, cujo relógio de 1535 toca um minuto antes de todos os outros da cidade. Três torres podem ser subidas de abril a outubro; a Männliturm tem a escadaria mais larga, a mais fácil para subir com um cão pequeno com trela.`,
         },
       },
       {
@@ -24498,10 +24498,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛰️',
         petFriendly: true,
         desc: {
-          fr: `Crête boisée de 745 mètres directement au-dessus de la ville, sillonnée de 15 km de chemins forestiers et de sentiers panoramiques. La Sonnenbergbahn (funiculaire) depuis Kriens accepte les chiens em laisse et hisse promeneur et chien au sommet em cinq minutes pour une longue descente boisée jusqu'à Lucerne.`,
+          fr: `Crête boisée de 745 mètres directement au-dessus de la ville, sillonnée de 15 km de chemins forestiers et de sentiers panoramiques. La Sonnenbergbahn (funiculaire) depuis Kriens accepte les chiens en laisse et hisse promeneur et chien au sommet en cinq minutes pour une longue descente boisée jusqu'à Lucerne.`,
           en: `A 745-metre forested ridge directly above the city, criss-crossed by 15 km of forestry tracks and panoramic ridge paths. The Sonnenbergbahn funicular from Kriens accepts leashed dogs and lifts hiker and dog to the top in five minutes for a long downhill forest walk back into Lucerne.`,
-          es: `Cresta boscosa de 745 metros directamente sobre a cidade, surcada por 15 km de pistas forestales y senderos panorámicos. La Sonnenbergbahn (funicular) desde Kriens admite perros com trela y sube excursionista y perro a la cima em cinco minutos para un longo descenso boscoso hasta Lucerna.`,
-          pt: `Cresta boscosa de 745 metros directamente sobre a cidade, surcada por 15 km de pistas forestales e trilhos panorámicos. A Sonnenbergbahn (funicular) a partir de Kriens admite cães com trela e sube excursionista e cão a cima em cinco minutos para um longo descenso boscoso até Lucerna.`,
+          es: `Cresta boscosa de 745 metros directamente sobre la ciudad, surcada por 15 km de pistas forestales y senderos panorámicos. La Sonnenbergbahn (funicular) desde Kriens admite perros con correa y sube al excursionista y su perro a la cima en cinco minutos para un largo descenso boscoso hasta Lucerna.`,
+          pt: `Cordilheira arborizada de 745 metros diretamente sobre a cidade, cruzada por 15 km de caminhos florestais e trilhos panorâmicos. A Sonnenbergbahn (funicular) a partir de Kriens admite cães com trela e leva o caminhante e o cão ao cimo em cinco minutos, para uma longa descida pela floresta até Lucerna.`,
         },
       },
       {
@@ -24509,10 +24509,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🚠',
         petFriendly: true,
         desc: {
-          fr: `Sommet alpin emblématique à 2 132 m surplombant Lucerne, accessible em téléphérique depuis Kriens (toute l'année, chiens gratuits) ou par la crémaillère la plus raide au monde depuis Alpnachstad (mai-novembre, billet demi-tarif). Sentiers panoramiques au sommet et gamelles d'eau sur la terrasse, vue sur 73 sommets alpins par temps clair.`,
+          fr: `Sommet alpin emblématique à 2 132 m surplombant Lucerne, accessible en téléphérique depuis Kriens (toute l'année, chiens gratuits) ou par la crémaillère la plus raide au monde depuis Alpnachstad (mai-novembre, billet demi-tarif). Sentiers panoramiques au sommet et gamelles d'eau sur la terrasse, vue sur 73 sommets alpins par temps clair.`,
           en: `Iconic 2,132 m alpine summit overlooking Lucerne, reached by cable car from Kriens (year-round, dogs free) or by the world's steepest cogwheel railway from Alpnachstad (May-November, half-fare ticket). Panoramic summit trails and water bowls at the terrace, 73 alpine peaks visible on a clear day.`,
-          es: `Cumbre alpina icónica a 2.132 m sobre Lucerna, acessível em teleférico desde Kriens (todo o año, perros gratis) o por la cremallera más empinada del mundo desde Alpnachstad (mayo-novembro, billete a mitad de precio). Senderos panorámicos na cumbre y cuencos de agua na terraza, 73 cumbres alpinas visibles em día claro.`,
-          pt: `Cumbre alpina icónica a 2.132 m sobre Lucerna, acessível em teleférico a partir de Kriens (o ano inteiro, cães grátis) o pela cremallera mais empinada do mundo a partir de Alpnachstad (maio-novembro, bilhete a mitad de preço). Trilhos panorámicos na cumbre e cuencos de água na esplanada, 73 cumbres alpinas visibles em dia claro.`,
+          es: `Cumbre alpina icónica a 2.132 m sobre Lucerna, accesible en teleférico desde Kriens (todo el año, perros gratis) o por la cremallera más empinada del mundo desde Alpnachstad (mayo-noviembre, billete a mitad de precio). Senderos panorámicos en la cumbre y cuencos de agua en la terraza, 73 cumbres alpinas visibles en un día claro.`,
+          pt: `Cume alpino icónico a 2.132 m sobre Lucerna, acessível em teleférico a partir de Kriens (o ano inteiro, cães grátis) ou pela cremalheira mais íngreme do mundo a partir de Alpnachstad (maio-novembro, bilhete a meio-preço). Trilhos panorâmicos no cume e tigelas de água na esplanada, 73 cumes alpinos visíveis num dia claro.`,
         },
       },
       {
@@ -24522,16 +24522,16 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `La « Reine des Montagnes » à 1 798 m, accessible par la première crémaillère de montagne d'Europe (1871), depuis Vitznau ou Goldau. Les chiens voyagent gratuitement toute l'année sur crémaillère, téléphérique et gondole. Sentiers panoramiques larges et plats au sommet, idéaux pour des vieux chiens ou des chiens à mobilité réduite.`,
           en: `The "Queen of the Mountains" at 1,798 m, reached by Europe's first mountain cogwheel railway (1871) from Vitznau or Goldau. Dogs ride free year-round on cogwheel, cable car and gondola. Wide, flat panoramic ridge trails at the summit, ideal for older or less mobile dogs.`,
-          es: `La «Reina das Montañas» a 1.798 m, acessível por la primera cremallera de montaña de Europa (1871) desde Vitznau o Goldau. Los perros viajan gratis todo o año em cremallera, teleférico y góndola. Senderos panorámicos amplos y llanos na cumbre, ideales para perros mayores o con movilidad reducida.`,
-          pt: `A «Reina das Montanhas» a 1.798 m, acessível pela primera cremallera de montanha de Europa (1871) a partir de Vitznau o Goldau. Os cães viajan grátis o ano inteiro em cremallera, teleférico e góndola. Trilhos panorámicos amplos e llanos na cumbre, ideales para cães mayores o com movilidad reducida.`,
+          es: `La «Reina de las Montañas» a 1.798 m, accesible por el primer ferrocarril de cremallera de montaña de Europa (1871) desde Vitznau o Goldau. Los perros viajan gratis todo el año en cremallera, teleférico y góndola. Senderos panorámicos amplios y llanos en la cumbre, ideales para perros mayores o con movilidad reducida.`,
+          pt: `A «Rainha das Montanhas» a 1.798 m, acessível pelo primeiro comboio de cremalheira de montanha da Europa (1871) a partir de Vitznau ou Goldau. Os cães viajam grátis o ano inteiro em cremalheira, teleférico e telecabina. Trilhos panorâmicos largos e planos no cume, ideais para cães mais velhos ou com mobilidade reduzida.`,
         },
       },
     ],
     petTips: {
       fr: [
         `La carte journalière chien à 25 CHF (« Tageskarte für Hunde ») est valable toute la journée dans tous les trains CFF, bus, bateaux SGV et la plupart des crémaillères du pays, la meilleure affaire d'Europe pour combiner Lucerne, Pilatus, Rigi et le lac.`,
-        `Les petits chiens (moins de 30 cm au garrot) em sac fermé voyagent gratuitement sur tout le réseau suisse, sans billet.`,
-        `Laisse obligatoire em forêt cantonale du 1er avril au 31 juillet (saison de nidification au sol) ; les amendes pour rappel non respecté commencent à 100 CHF.`,
+        `Les petits chiens (moins de 30 cm au garrot) en sac fermé voyagent gratuitement sur tout le réseau suisse, sans billet.`,
+        `Laisse obligatoire en forêt cantonale du 1er avril au 31 juillet (saison de nidification au sol) ; les amendes pour rappel non respecté commencent à 100 CHF.`,
         `Les pavés piétons de la Vieille Ville atteignent 50 °C+ par après-midi d'août, promenez tôt avant 10 h ou après 18 h, ou restez sur les sentiers boisés du Sonnenberg.`,
         `Les chiens sont interdits dans les lidos (Lido, Ufschötti) du 1er mai au 30 septembre ; baignade libre toute l'année à Tribschen et Würzenbach.`,
       ],
@@ -24543,26 +24543,26 @@ const cityContent: Record<string, CityContent> = {
         `Dogs are banned inside the Lido and Ufschötti bathing perimeters from 1 May to 30 September; free swimming year-round at Tribschen and Würzenbach lakeshore.`,
       ],
       es: [
-        `El billete diario para perros de 25 CHF («Tageskarte für Hunde») es válido todo el día em todos los trenes SBB, autobuses, barcos SGV y la mayoría das cremalleras de montaña del país, la mejor oferta de Europa para combinar Lucerna, Pilatus, Rigi y el lago.`,
-        `Los perros pequeños (menos de 30 cm a la cruz) em transportín fechado viajan gratis em toda a rede suiza, sin billete.`,
-        `trela obrigatória em floresta cantonal del 1 de abril ao 31 de julio (temporada de nidificación em el solo); las multas por perros sueltos empiezan en 100 CHF.`,
-        `Los adoquines peatonales del casco antigo alcanzan 50 °C+ las tardes de agosto, pasea temprano antes das 10:00 o después das 18:00, o quédate em los senderos boscosos del Sonnenberg.`,
-        `Los perros están prohibidos dentro del Lido y del Ufschötti del 1 de mayo ao 30 de septiembre; baño libre todo o año na orilla de Tribschen y Würzenbach.`,
+        `El billete diario para perros de 25 CHF («Tageskarte für Hunde») es válido todo el día en todos los trenes SBB, autobuses, barcos SGV y la mayoría de las cremalleras de montaña del país, la mejor oferta de Europa para combinar Lucerna, Pilatus, Rigi y el lago.`,
+        `Los perros pequeños (menos de 30 cm a la cruz) en un transportín cerrado viajan gratis por toda la red suiza, sin billete.`,
+        `Correa obligatoria en el bosque cantonal del 1 de abril al 31 de julio (temporada de aves que anidan en el suelo); las multas por perros sueltos empiezan en 100 CHF.`,
+        `Los adoquines peatonales del casco antiguo alcanzan 50 °C o más las tardes de agosto, pasea temprano antes de las 10:00 o después de las 18:00, o quédate en los senderos boscosos del Sonnenberg.`,
+        `Los perros están prohibidos dentro del Lido y del Ufschötti del 1 de mayo al 30 de septiembre; baño libre todo el año en la orilla de Tribschen y Würzenbach.`,
       ],
       pt: [
-        `O bilhete diario para cães de 25 CHF («Tageskarte für Hunde») é válido todo o dia em todos os comboios SBB, autocarros, barcos SGV e a maioria das cremalleras de montaña do país, a melhor oferta de Europa para combinar Lucerna, Pilatus, Rigi e o lago.`,
-        `Os cães pequenos (menos de 30 cm a a cruz) em transportadora fechado viajan grátis em toda a rede suiza, sem bilhete.`,
-        `trela obrigatória em floresta cantonal do 1 de abril ao 31 de julho (temporada de nidificación no solo); as multas por cães sueltos empiezan en 100 CHF.`,
-        `Os adoquines peatonales do centro histórico alcanzan 50 °C+ as tardes de agosto, pasea temprano antes das 10:00 o depois das 18:00, o quédate nos trilhos boscosos do Sonnenberg.`,
-        `Os cães están prohibidos dentro do Lido e do Ufschötti do 1 de maio ao 30 de setembro; banho libre o ano inteiro na margem de Tribschen e Würzenbach.`,
+        `O bilhete diário para cães de 25 CHF («Tageskarte für Hunde») é válido todo o dia em todos os comboios SBB, autocarros, barcos SGV e na maioria das cremalheiras de montanha do país, a melhor oferta da Europa para combinar Lucerna, Pilatus, Rigi e o lago.`,
+        `Os cães pequenos (menos de 30 cm ao garrote) numa transportadora fechada viajam grátis por toda a rede suíça, sem bilhete.`,
+        `Trela obrigatória na floresta cantonal de 1 de abril a 31 de julho (época das aves que nidificam no solo); as multas por cães à solta começam nos 100 CHF.`,
+        `As calçadas pedonais do centro histórico atingem 50 °C ou mais nas tardes de agosto, passeia cedo antes das 10:00 ou depois das 18:00, ou fica pelos trilhos arborizados do Sonnenberg.`,
+        `Os cães são proibidos dentro do Lido e do Ufschötti de 1 de maio a 30 de setembro; banho livre o ano inteiro na margem de Tribschen e Würzenbach.`,
       ],
     },
     practicalInfo: {
       fr: [
         `La Suisse n'est pas dans l'UE mais accepte le passeport européen pour animal, puce ISO, vaccin antirabique d'au moins 21 jours, sans traitement antitenia obligatoire (contrairement au Royaume-Uni).`,
-        `Aéroport de Zurich (ZRH, 50 minutes em train direct) : entrée animale principale em Suisse centrale ; les chiens em cabine sont acceptés jusqu'à 8 kg sur la plupart des compagnies.`,
-        `Aucune clinique vétérinaire 24h/24 em ville : urgences nocturnes via le tour de garde régional (répondeur de la Tierklinik Obergrund) ou l'AniCura Tierspital Zürich (50 min em voiture, ouvert 24h/24).`,
-        `Climat : étés doux 18-25 °C avec orages occasionnels, hivers froids -2 à +5 °C avec neige fréquente entre décembre et février ; le brouillard du « Hochnebel » peut durer plusieurs jours em automne.`,
+        `Aéroport de Zurich (ZRH, 50 minutes en train direct) : entrée animale principale en Suisse centrale ; les chiens en cabine sont acceptés jusqu'à 8 kg sur la plupart des compagnies.`,
+        `Aucune clinique vétérinaire 24h/24 en ville : urgences nocturnes via le tour de garde régional (répondeur de la Tierklinik Obergrund) ou l'AniCura Tierspital Zürich (50 min en voiture, ouvert 24h/24).`,
+        `Climat : étés doux 18-25 °C avec orages occasionnels, hivers froids -2 à +5 °C avec neige fréquente entre décembre et février ; le brouillard du « Hochnebel » peut durer plusieurs jours en automne.`,
         `Tarifs vétérinaires parmi les plus chers d'Europe : consultation 80-120 CHF, supplément urgence 200-400 CHF, assurance voyage avec couverture vétérinaire fortement recommandée.`,
       ],
       en: [
@@ -24573,18 +24573,18 @@ const cityContent: Record<string, CityContent> = {
         `Vet fees are among the highest in Europe: consultation CHF 80-120, after-hours surcharge CHF 200-400, travel insurance with vet cover strongly recommended.`,
       ],
       es: [
-        `Suiza no está na UE pero acepta el passaporte UE para mascotas, microchip ISO, vacuna antirrábica de al menos 21 días, sin tratamento antitenia obrigatório (a diferencia del Reino Unido).`,
-        `Aeropuerto de Zúrich (ZRH, 50 minutos em tren directo) es el principal punto de entrada animal para la Suiza central; los perros em cabina son aceptados hasta 8 kg na mayoría de aerolíneas.`,
-        `No hay clínica veterinaria 24h dentro de Lucerna: las urgencias nocturnas se derivan al turno regional de guardia (contestador de la Tierklinik Obergrund) o al AniCura Tierspital Zürich (50 min em coche, 24/7).`,
-        `Clima: veranos suaves 18-25 °C con tormentas ocasionales, inviernos fríos -2 a +5 °C con nieve frecuente dezembro-febrero; la niebla alta («Hochnebel») puede cubrir a cidade durante días em otoño.`,
-        `Tarifas veterinarias entre las más altas de Europa: consulta 80-120 CHF, recargo de urgencia 200-400 CHF, recomendable seguro de viaje con cobertura veterinaria.`,
+        `Suiza no está en la UE pero acepta el pasaporte europeo para mascotas, microchip ISO y vacuna antirrábica de al menos 21 días, sin tratamiento antitenia obligatorio (a diferencia del Reino Unido).`,
+        `El aeropuerto de Zúrich (ZRH, 50 minutos en tren directo) es el principal punto de entrada animal para la Suiza central; los perros en cabina se aceptan hasta 8 kg en la mayoría de las aerolíneas.`,
+        `No hay clínica veterinaria 24h dentro de Lucerna: las urgencias nocturnas se derivan al turno regional de guardia (contestador de la Tierklinik Obergrund) o al AniCura Tierspital Zürich (50 min en coche, 24/7).`,
+        `Clima: veranos suaves 18-25 °C con tormentas ocasionales, inviernos fríos -2 a +5 °C con nieve frecuente de diciembre a febrero; la niebla alta («Hochnebel») puede cubrir la ciudad durante días en otoño.`,
+        `Tarifas veterinarias entre las más altas de Europa: consulta 80-120 CHF, recargo de urgencia 200-400 CHF, recomendable un seguro de viaje con cobertura veterinaria.`,
       ],
       pt: [
-        `Suiza no está na UE mas aceita o passaporte UE para animais, microchip ISO, vacuna antirrábica de al menos 21 dias, sem tratamento antitenia obrigatório (a diferencia do Reino Unido).`,
-        `Aeroporto de Zúrich (ZRH, 50 minutos de comboio directo) é o principal punto de entrada animal para a Suiza central; os cães em cabina são aceites até 8 kg na maioria de aerolíneas.`,
-        `No hay clínica veterinária 24h dentro de Lucerna: as urgências nocturnas se derivan al turno regional de guardia (contestador da Tierklinik Obergrund) o al AniCura Tierspital Zürich (50 min de carro, 24/7).`,
-        `Clima: veranos suaves 18-25 °C con tormentas ocasionales, inviernos frios -2 a +5 °C con nieve frecuente dezembro-fevereiro; a niebla alta («Hochnebel») pode cubrir a cidade durante dias em outono.`,
-        `Tarifas veterinárias entre as mais altas de Europa: consulta 80-120 CHF, recargo de urgência 200-400 CHF, recomendable seguro de viaje con cobertura veterinária.`,
+        `A Suíça não está na UE mas aceita o passaporte europeu para animais, microchip ISO e vacina antirrábica com pelo menos 21 dias, sem tratamento antiténia obrigatório (ao contrário do Reino Unido).`,
+        `O aeroporto de Zurique (ZRH, 50 minutos de comboio direto) é o principal ponto de entrada de animais para a Suíça central; os cães em cabina são aceites até 8 kg na maioria das companhias aéreas.`,
+        `Não há clínica veterinária 24h dentro de Lucerna: as urgências noturnas são encaminhadas para a escala regional de serviço (atendedor da Tierklinik Obergrund) ou para o AniCura Tierspital Zürich (50 min de carro, 24/7).`,
+        `Clima: verões amenos 18-25 °C com trovoadas ocasionais, invernos frios -2 a +5 °C com neve frequente de dezembro a fevereiro; o nevoeiro alto («Hochnebel») pode cobrir a cidade durante dias no outono.`,
+        `Tarifas veterinárias entre as mais altas da Europa: consulta 80-120 CHF, sobretaxa de urgência 200-400 CHF, recomendável um seguro de viagem com cobertura veterinária.`,
       ],
     },
   },

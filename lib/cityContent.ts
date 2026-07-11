@@ -13923,10 +13923,10 @@ const cityContent: Record<string, CityContent> = {
 
   edinburgh: {
     history: {
-      fr: `Édimbourg est une ville qui respire l'histoire. Construite sur des roches volcaniques au sommet desquelles trône le château (XIe siècle), elle fut la capitale du Royaume d'Écosse et le lieu de naissance de la Renaissance écossaise. Sa vieille ville médiévale et son New Town géorgien du XVIIIe siècle sont inscrits ensemble au patrimoine mondial de l'UNESCO. Mais Édimbourg est aussi une ville profondément dog-friendly : les chiens sont admis dans la plupart des pubs, sur les collines d'Arthur's Seat, dans les jardins publics et dans une majorité de cafés. La tradition britannique du chien au pub est ici une réalité quotidienne, et l'Écosse est, avec l'Allemagne, le pays d'Europe le plus accueillant pour les animaux de compagnie.`,
+      fr: `Édimbourg est une ville qui respire l'histoire. Bâtie sur une roche volcanique que couronne son château (XIe siècle), elle fut la capitale du Royaume d'Écosse et le berceau des Lumières écossaises. Sa vieille ville médiévale et sa New Town géorgienne du XVIIIe siècle sont inscrites ensemble au patrimoine mondial de l'UNESCO. Mais Édimbourg est aussi une ville profondément dog-friendly : les chiens sont admis dans la plupart des pubs, sur les collines d'Arthur's Seat, dans les jardins publics et dans la majorité des cafés. La tradition britannique du chien au pub est ici une réalité quotidienne, et l'Écosse est, avec l'Allemagne, le pays le plus accueillant pour les animaux de compagnie en Europe.`,
       en: `Edinburgh is a city that breathes history. Built on volcanic rock crowned by its castle (11th century), it was the capital of the Kingdom of Scotland and the birthplace of the Scottish Enlightenment. Its medieval Old Town and 18th-century Georgian New Town are jointly inscribed as a UNESCO World Heritage Site. But Edinburgh is also a deeply dog-friendly city: dogs are allowed in most pubs, on the Arthur's Seat hills, in public gardens and in the majority of cafés. The British tradition of dogs in pubs is a daily reality here, and Scotland is, alongside Germany, the most pet-welcoming country in Europe.`,
-      es: `Edimburgo es uma cidade que respira historia. Construida sobre roca volcánica coronada por su castillo (siglo XI), fue la capital del Reino de Escocia y la cuna de a Ilustración escocesa. Su casco antigo medieval y su New Town georgiano del siglo XVIII están inscritos conjuntamente como Patrimonio de la Humanidad por a UNESCO. Pero Edimburgo también es uma cidade profundamente amigable con los perros: los perros están admitidos na mayoría dos pubs, em las colinas de Arthur's Seat, em los jardines públicos y na mayoría dos cafés. La tradición británica dos perros em el pub es aquí una realidad cotidiana, y Escocia es, junto con Alemania, el país más acogedor de Europa para las mascotas.`,
-      pt: `Edimburgo é uma cidade que respira história. Construida sobre roca volcánica coronada por su castelo (século XI), foi a capital do Reino de Escocia e a cuna da Ilustración escocesa. Su centro histórico medieval e su New Town georgiano do século XVIII estão inscritos conjuntamente como Patrimonio da Humanidad pela UNESCO. Mas Edimburgo também é uma cidade profundamente amigable com os cães: os cães estão admitidos na maioria dois pubs, nas colinas de Arthur's Seat, nos jardins públicos e na maioria dois cafés. A tradición britânica dois cães no pub é aqui uma realidad cotidiana, e Escocia é, junto com Alemania, o país mais acogedor de Europa para as animais.`,
+      es: `Edimburgo es una ciudad que respira historia. Construida sobre roca volcánica coronada por su castillo (siglo XI), fue la capital del Reino de Escocia y la cuna de la Ilustración escocesa. Su casco antiguo medieval y su New Town georgiana del siglo XVIII están inscritos conjuntamente como Patrimonio de la Humanidad por la UNESCO. Pero Edimburgo es también una ciudad profundamente amigable con los perros: los perros están admitidos en la mayoría de los pubs, en las colinas de Arthur's Seat, en los jardines públicos y en la mayoría de las cafeterías. La tradición británica del perro en el pub es aquí una realidad cotidiana, y Escocia es, junto con Alemania, el país más acogedor de Europa para las mascotas.`,
+      pt: `Edimburgo é uma cidade que respira história. Construída sobre rocha vulcânica coroada pelo seu castelo (século XI), foi a capital do Reino da Escócia e o berço do Iluminismo escocês. O seu centro histórico medieval e a sua New Town georgiana do século XVIII estão inscritos em conjunto como Património Mundial da UNESCO. Mas Edimburgo é também uma cidade profundamente dog-friendly: os cães são admitidos na maioria dos pubs, nas colinas de Arthur's Seat, nos jardins públicos e na maioria dos cafés. A tradição britânica do cão no pub é aqui uma realidade quotidiana, e a Escócia é, juntamente com a Alemanha, o país mais acolhedor da Europa para os animais de companhia.`,
     },
     sights: [
       {
@@ -13936,8 +13936,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Le volcan endormi au cœur d\'Édimbourg (251 m) est un terrain de jeu extraordinaire pour les chiens. Les sentiers sont ouverts et les chiens peuvent y aller sans laisse dans la plupart des zones. La vue sur la ville depuis le sommet est spectaculaire.',
           en: 'The dormant volcano at Edinburgh\'s heart (251 m) is an extraordinary playground for dogs. Trails are open and dogs can go off-leash in most areas. The view over the city from the summit is spectacular.',
-          es: 'El volcán dormido em el coração de Edimburgo (251 m) es un extraordinario terreno de juego para los perros. Los senderos son abiertos y los perros pueden ir sin trela na mayoría das zonas. La vista sobre a cidade desde la cima es espectacular.',
-          pt: 'O volcán dormido no coração de Edimburgo (251 m) é um extraordinario terreno de juego para os cães. Os trilhos são abiertos e os cães podem ir sem trela na maioria das zonas. A vista sobre a cidade a partir da cima é espectacular.',
+          es: 'El volcán dormido en el corazón de Edimburgo (251 m) es un extraordinario terreno de juego para los perros. Los senderos están abiertos y los perros pueden ir sin correa en la mayoría de las zonas. La vista sobre la ciudad desde la cima es espectacular.',
+          pt: 'O vulcão adormecido no coração de Edimburgo (251 m) é um extraordinário recreio para os cães. Os trilhos estão abertos e os cães podem andar sem trela na maioria das zonas. A vista sobre a cidade a partir do cume é espetacular.',
         },
       },
       {
@@ -13947,8 +13947,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'La rivière qui traverse Édimbourg est bordée d\'un chemin piétonnier de 12 km, du centre-ville jusqu\'à Leith. Les chiens peuvent y aller sans laisse dans la plupart des sections. Un itinéraire vert et paisible loin de l\'agitation touristique.',
           en: 'The river that crosses Edinburgh is lined with a 12 km footpath from the city centre to Leith. Dogs can go off-leash in most sections. A green, peaceful route away from tourist bustle.',
-          es: 'o rio que atraviesa Edimburgo está bordeado por un sendero peatonal de 12 km desde o centro de a cidade hasta Leith. Los perros pueden ir sin trela na mayoría dos tramos. Una ruta verde y tranquila alejada del ajetreo turístico.',
-          pt: 'O rio que atraviesa Edimburgo está bordeado por um trilho peatonal de 12 km a partir do centro da cidade até Leith. Os cães podem ir sem trela na maioria dois tramos. Uma ruta verde e tranquila alejada do ajetreo turístico.',
+          es: 'El río que atraviesa Edimburgo está bordeado por un sendero peatonal de 12 km desde el centro de la ciudad hasta Leith. Los perros pueden ir sin correa en la mayoría de los tramos. Una ruta verde y tranquila alejada del ajetreo turístico.',
+          pt: 'O rio que atravessa Edimburgo é ladeado por um percurso pedonal de 12 km desde o centro da cidade até Leith. Os cães podem andar sem trela na maioria dos troços. Um percurso verde e tranquilo, longe do bulício turístico.',
         },
       },
       {
@@ -13958,8 +13958,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'La rue principale de la vieille ville médiévale est accessible aux chiens. La plupart des closes (ruelles) latérales sont parfaites pour explorer avec un animal. Le château d\'Édimbourg n\'admet pas les animaux à l\'intérieur.',
           en: 'The main street of the medieval Old Town is accessible to dogs. Most lateral closes (alleyways) are perfect for exploring with a pet. Edinburgh Castle does not admit animals inside.',
-          es: 'La rua principal del casco antigo medieval es acessível para los perros. La mayoría dos "closes" (callejones) laterales son perfectos para explorar con una mascota. El Castillo de Edimburgo no admite animales em su interior.',
-          pt: 'A rua principal do centro histórico medieval é acessível para os cães. A maioria dois "closes" (ruelas) laterales são perfeitos para explorar com uma animal. O Castelo de Edimburgo no admite animales em su interior.',
+          es: 'La calle principal del casco antiguo medieval es accesible para los perros. La mayoría de los "closes" (callejones) laterales son perfectos para explorar con una mascota. El Castillo de Edimburgo no admite animales en su interior.',
+          pt: 'A rua principal do centro histórico medieval é acessível aos cães. A maioria dos "closes" (vielas) laterais são perfeitos para explorar com um animal. O Castelo de Edimburgo não admite animais no seu interior.',
         },
       },
       {
@@ -13967,10 +13967,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌿',
         petFriendly: true,
         desc: {
-          fr: 'Le parc royal qui entoure Arthur\'s Seat (263 ha) est entièrement accessible aux chiens. Les lochans (petits lacs), les falaises de Salisbury Crags et les vastes prairies em font l\'un des meilleurs parcs urbains d\'Europe.',
+          fr: 'Le parc royal qui entoure Arthur\'s Seat (263 ha) est entièrement accessible aux chiens. Les lochans (petits lacs), les falaises de Salisbury Crags et les vastes prairies en font l\'un des meilleurs parcs urbains d\'Europe.',
           en: 'The royal park surrounding Arthur\'s Seat (263 ha) is fully accessible to dogs. The lochans (small lakes), Salisbury Crags cliffs and wide meadows make it one of Europe\'s finest urban parks.',
-          es: 'o parque real que rodea Arthur\'s Seat (263 ha) es totalmente acessível para los perros. Los lochans (pequeños lagos), los acantilados de Salisbury Crags y los amplos prados lo convierten em uno dos mejores parques urbanos de Europa.',
-          pt: 'O parque real que rodea Arthur\'s Seat (263 ha) é totalmente acessível para os cães. Os lochans (pequenos lagos), os acantilados de Salisbury Crags e os amplos prados lo convierten em uno dois melhores parques urbanos de Europa.',
+          es: 'El parque real que rodea Arthur\'s Seat (263 ha) es totalmente accesible para los perros. Los lochans (pequeños lagos), los acantilados de Salisbury Crags y los amplios prados lo convierten en uno de los mejores parques urbanos de Europa.',
+          pt: 'O parque real que rodeia Arthur\'s Seat (263 ha) é totalmente acessível aos cães. Os lochans (pequenos lagos), as falésias de Salisbury Crags e os amplos prados fazem dele um dos melhores parques urbanos da Europa.',
         },
       },
       {
@@ -13978,16 +13978,16 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏘️',
         petFriendly: true,
         desc: {
-          fr: 'Stockbridge est le quartier le plus charmant et dog-friendly d\'Édimbourg. Marché du dimanche, pubs accueillants, bouchers et épiceries qui gardent un biscuit pour votre chien. Dean Village, em contrebas, est une merveille architecturale au bord de l\'eau.',
+          fr: 'Stockbridge est le quartier le plus charmant et dog-friendly d\'Édimbourg. Marché du dimanche, pubs accueillants, bouchers et épiceries qui gardent un biscuit pour votre chien. Dean Village, en contrebas, est une merveille architecturale au bord de l\'eau.',
           en: 'Stockbridge is Edinburgh\'s most charming and dog-friendly neighbourhood. Sunday market, welcoming pubs, butchers and delis that keep a treat for your dog. Dean Village below is an architectural gem by the water.',
-          es: 'Stockbridge es o bairro más encantador y amigable con los perros de Edimburgo. Mercado dominical, pubs acogedores, carnicerías y delicatessen que guardan una golosina para tu perro. Dean Village, más abajo, es una joya arquitectónica junto al agua.',
-          pt: 'Stockbridge é o bairro mais encantador e amigable com os cães de Edimburgo. Mercado dominical, pubs acogedores, carnicerías e delicatessen que guardan uma golosina para o teu cão. Dean Village, mais abajo, é uma joya arquitetónica junto al água.',
+          es: 'Stockbridge es el barrio más encantador y amigable con los perros de Edimburgo. Mercado dominical, pubs acogedores, carnicerías y delicatessen que guardan una golosina para tu perro. Dean Village, más abajo, es una joya arquitectónica junto al agua.',
+          pt: 'Stockbridge é o bairro mais encantador e dog-friendly de Edimburgo. Mercado ao domingo, pubs acolhedores, talhos e mercearias que guardam um biscoito para o seu cão. Dean Village, mais abaixo, é uma maravilha arquitetónica à beira de água.',
         },
       },
     ],
     petTips: {
       fr: [
-        '⚠️ IMPORTANT : Le Royaume-Uni n\'accepte plus le passeport européen pour animaux post-Brexit. Un Certificat Sanitaire Animal (AHC) est obligatoire pour entrer em Grande-Bretagne. Prenez rendez-vous chez votre vétérinaire 10 jours avant le départ.',
+        '⚠️ IMPORTANT : Le Royaume-Uni n\'accepte plus le passeport européen pour animaux post-Brexit. Un Certificat Sanitaire Animal (AHC) est obligatoire pour entrer en Grande-Bretagne. Prenez rendez-vous chez votre vétérinaire 10 jours avant le départ.',
         'Les chiens sont admis dans la quasi-totalité des pubs écossais, c\'est une tradition nationale. Cherchez le signe "Dogs Welcome" à l\'entrée.',
         'Le ferry Stena Line ou P&O depuis Calais/Dunkerque vers Douvres est la meilleure option pour voyager avec un grand chien depuis le continent.',
         'Édimbourg est souvent ventée et fraîche même en été, prévoyez une couverture ou un imperméable pour votre chien.',
@@ -14001,18 +14001,18 @@ const cityContent: Record<string, CityContent> = {
         'The Meadows (large park south of the centre) has popular off-leash zones used by locals.',
       ],
       es: [
-        '⚠️ IMPORTANTE: El Reino Unido ya no acepta el passaporte europeu para mascotas tras el Brexit. Se requiere un Certificado Sanitario Animal (AHC) para entrar em Gran Bretaña. Solicita cita con tu veterinario 10 días antes de salir.',
-        'Los perros son bienvenidos em prácticamente todos los pubs escoceses: es una tradición nacional. Busca el cartel "Dogs Welcome" a a entrada.',
+        '⚠️ IMPORTANTE: El Reino Unido ya no acepta el pasaporte europeo para mascotas tras el Brexit. Se requiere un Certificado Sanitario Animal (AHC) para entrar en Gran Bretaña. Solicita cita con tu veterinario 10 días antes de salir.',
+        'Los perros son bienvenidos en prácticamente todos los pubs escoceses: es una tradición nacional. Busca el cartel "Dogs Welcome" a la entrada.',
         'El ferry de Stena Line o P&O desde Calais/Dunkerque a Dover es la mejor opción para viajar con un perro grande desde el continente.',
-        'Edimburgo es a menudo ventosa y fresca incluso em verano: lleva una manta o impermeable para tu perro.',
-        'The Meadows (gran parque al sur del centro) tiene populares zonas sin trela frecuentadas por los locales.',
+        'Edimburgo es a menudo ventosa y fresca incluso en verano: lleva una manta o impermeable para tu perro.',
+        'The Meadows (gran parque al sur del centro) tiene populares zonas sin correa frecuentadas por los locales.',
       ],
       pt: [
-        '⚠️ IMPORTANTE: O Reino Unido ya no aceita o passaporte europeu para animais tras o Brexit. Se requiere um Certificado Sanitario Animal (AHC) para entrar em Grande Bretaña. Solicita cita con tu veterinário 10 dias antes de sair.',
-        'Os cães são bem-vindos em prácticamente todos os pubs escoceses: é uma tradición nacional. Busca o cartel "Dogs Welcome" a a entrada.',
-        'O ferry de Stena Line o P&O a partir de Calais/Dunkerque a Dover é a melhor opción para viajar con um cão grande a partir do continente.',
-        'Edimburgo é a menudo ventosa e fresca mesmo em verão: lleva uma manta o impermeable para tu cão.',
-        'The Meadows (grande parque al sur do centro) tem populares zonas sem trela frecuentadas pelos locales.',
+        '⚠️ IMPORTANTE: O Reino Unido já não aceita o passaporte europeu para animais após o Brexit. É exigido um Certificado Sanitário Animal (AHC) para entrar na Grã-Bretanha. Marque consulta com o seu veterinário 10 dias antes de partir.',
+        'Os cães são bem-vindos em praticamente todos os pubs escoceses: é uma tradição nacional. Procure o cartaz "Dogs Welcome" à entrada.',
+        'O ferry da Stena Line ou P&O de Calais/Dunquerque para Dover é a melhor opção para viajar com um cão grande a partir do continente.',
+        'Edimburgo é muitas vezes ventosa e fresca mesmo no verão: leve uma manta ou um impermeável para o seu cão.',
+        'The Meadows (grande parque a sul do centro) tem populares zonas sem trela frequentadas pelos locais.',
       ],
     },
     practicalInfo: {
@@ -14031,14 +14031,14 @@ const cityContent: Record<string, CityContent> = {
       es: [
         'Veterinario de urgencias 24h: Dick Vet Emergency Service, Easter Bush, Roslin, Midlothian, +44 131 650 7650',
         'Clínica central: Vets4Pets Edinburgh, 12 Fountain Park, +44 131 443 7474',
-        '⚠️ El passaporte UE para mascotas no es válido em el Reino Unido, se requiere Certificado Sanitario Animal (AHC) expedido por un veterinario acreditado.',
+        '⚠️ El pasaporte UE para mascotas no es válido en el Reino Unido, se requiere Certificado Sanitario Animal (AHC) expedido por un veterinario acreditado.',
         'Ferry recomendado: DFDS Dover-Calais o Stena Line Fishguard-Rosslare (Irlanda), animales admitidos a bordo.',
       ],
       pt: [
         'Veterinário de urgências 24h: Dick Vet Emergency Service, Easter Bush, Roslin, Midlothian, +44 131 650 7650',
         'Clínica central: Vets4Pets Edinburgh, 12 Fountain Park, +44 131 443 7474',
-        '⚠️ O passaporte UE para animais no é válido no Reino Unido, se requiere Certificado Sanitario Animal (AHC) expedido por um veterinário acreditado.',
-        'Ferry recomendado: DFDS Dover-Calais o Stena Line Fishguard-Rosslare (Irlanda), animales admitidos a bordo.',
+        '⚠️ O passaporte UE para animais não é válido no Reino Unido, é exigido um Certificado Sanitário Animal (AHC) emitido por um veterinário acreditado.',
+        'Ferry recomendado: DFDS Dover-Calais ou Stena Line Fishguard-Rosslare (Irlanda), animais admitidos a bordo.',
       ],
     },
   },

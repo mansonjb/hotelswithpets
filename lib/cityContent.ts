@@ -12643,10 +12643,10 @@ const cityContent: Record<string, CityContent> = {
 
   cork: {
     history: {
-      fr: `Cork, la deuxième ville d'Irlande avec 210 000 habitants, fut fondée par les moines de Saint Finbarr au VIIᵉ siècle sur une île marécageuse au confluent du fleuve Lee, puis transformée em cité fortifiée par les Vikings au IXᵉ siècle (le nom vient du gaélique « Corcaigh » : marais). Au XIXᵉ siècle, Cork devint le port d'embarquement majeur des émigrants irlandais vers l'Amérique du Nord, c'est de Cobh, à 20 minutes em train, que partit le Titanic en 1912. Aujourd'hui surnommée la « Rebel City » pour son rôle dans la guerre d'indépendance, Cork cultive une fierté locale farouche autour de son English Market victorien, ses 25 000 étudiants à University College Cork, et sa scène culinaire : trois chefs étoilés Michelin dans une ville plus petite que Bordeaux. Pour les voyageurs avec chien, Cork est un des hubs les plus accueillants d'Irlande : Fitzgerald's Park au cœur du centre, le Ballincollig Regional Park de 200 hectares avec zone sans laisse à 8 km, les pubs traditionnels qui maintiennent la pratique du « snug » (petite salle em bois) où les chiens sont admis, et le Cork Harbour avec Cobh, Fountainstown et Garrettstown à moins de 30 min em voiture pour les balades plage. Les bus Bus Éireann et trains Iarnród Éireann transportent gratuitement les chiens em laisse.`,
+      fr: `Cork, la deuxième ville d'Irlande avec 210 000 habitants, fut fondée par les moines de Saint Finbarr au VIIᵉ siècle sur une île marécageuse au confluent du fleuve Lee, puis transformée en cité fortifiée par les Vikings au IXᵉ siècle (le nom vient du gaélique « Corcaigh » : marais). Au XIXᵉ siècle, Cork devint le port d'embarquement majeur des émigrants irlandais vers l'Amérique du Nord, c'est de Cobh, à 20 minutes en train, que partit le Titanic en 1912. Aujourd'hui surnommée la « Rebel City » pour son rôle dans la guerre d'indépendance, Cork cultive une fierté locale farouche autour de son English Market victorien, ses 25 000 étudiants à University College Cork, et sa scène culinaire : trois chefs étoilés Michelin dans une ville plus petite que Bordeaux. Pour les voyageurs avec chien, Cork est un des hubs les plus accueillants d'Irlande : Fitzgerald's Park au cœur du centre, le Ballincollig Regional Park de 200 hectares avec zone sans laisse à 8 km, les pubs traditionnels qui maintiennent la pratique du « snug » (petite salle en bois) où les chiens sont admis, et le Cork Harbour avec Cobh, Fountainstown et Garrettstown à moins de 30 min en voiture pour les balades plage. Les bus Bus Éireann et trains Iarnród Éireann transportent gratuitement les chiens en laisse.`,
       en: `Cork, Ireland's second city with 210,000 inhabitants, was founded by Saint Finbarr's monks in the 7th century on a marshy island at the confluence of the River Lee, then transformed into a fortified town by the Vikings in the 9th century (the name comes from Gaelic "Corcaigh": marsh). In the 19th century Cork became the major emigration port for Irish leaving for North America, it was from Cobh, 20 minutes by train, that the Titanic departed in 1912. Now nicknamed the "Rebel City" for its role in the War of Independence, Cork cultivates a fierce local pride around its Victorian English Market, its 25,000 University College Cork students and its food scene: three Michelin-starred chefs in a city smaller than Bordeaux. For travellers with a dog, Cork is one of Ireland's most welcoming hubs: Fitzgerald's Park in the heart of the centre, Ballincollig Regional Park (200 hectares with off-leash zone) 8 km away, traditional pubs that maintain the "snug" practice (small wood-panelled side rooms where dogs are admitted), and Cork Harbour with Cobh, Fountainstown and Garrettstown all under 30 min by car for beach walks. Bus Éireann and Iarnród Éireann carry leashed dogs free of charge.`,
-      es: `Cork, la segunda ciudad de Irlanda con 210.000 habitantes, fue fundada por los monjes de San Finbarr em el siglo VII em uma ilha pantanosa na confluencia del río Lee, después transformada em ciudad fortificada por los vikingos em el siglo IX (el nombre viene del gaélico «Corcaigh»: pantano). em el siglo XIX Cork se convirtió em el principal puerto de emigración irlandesa hacia Norteamérica, fue desde Cobh, a 20 minutos em tren, desde donde partió el Titanic en 1912. Hoy apodada la «Rebel City» por su papel na guerra de a Independencia, Cork cultiva un feroz orgullo local em torno a su English Market victoriano, sus 25.000 estudiantes em University College Cork y su escena gastronómica: tres chefs estrellados Michelin em uma cidade más pequeña que Burdeos. Para los viajeros con perro, Cork es uno dos hubs más acogedores de Irlanda: Fitzgerald's Park em el coração del centro, el Ballincollig Regional Park de 200 hectáreas con zona sin trela a 8 km, los pubs tradicionais que mantienen la práctica del «snug» (pequeñas salas entabladas donde admiten perros), y el Cork Harbour con Cobh, Fountainstown y Garrettstown a menos de 30 min em coche para paseos em playa. Bus Éireann y Iarnród Éireann transportan gratis perros com trela.`,
-      pt: `Cork, a segunda cidade de Irlanda com 210.000 habitantes, foi fundada pelos monjes de San Finbarr no século VII numa ilha pantanosa na confluencia do rio Lee, depois transformada em cidade fortificada pelos vikingos no século IX (o nombre viene do gaélico «Corcaigh»: pantano). No século XIX Cork tornou-se no principal porto de emigración irlandesa para Norteamérica, foi a partir de Cobh, a 20 minutos de comboio, a partir de onde partió o Titanic em 1912. Hoy apodada a «Rebel City» por su papel na guerra da Independencia, Cork cultiva um feroz orgullo local em torno a su English Market victoriano, os seus 25.000 estudantes em University College Cork e su escena gastronómica: três chefs estrellados Michelin numa cidade mais pequena que Burdeos. Para os viajeros com cão, Cork é um dois os hubs mais acogedores de Irlanda: Fitzgerald's Park no coração do centro, o Ballincollig Regional Park de 200 hectáreas com zona sem trela a 8 km, os pubs tradicionais que mantienen a práctica do «snug» (pequenas salas entabladas onde admitem cães), e o Cork Harbour com Cobh, Fountainstown e Garrettstown a menos de 30 min de carro para passeios em praia. Bus Éireann e Iarnród Éireann transportan grátis cães com trela.`,
+      es: `Cork, la segunda ciudad de Irlanda con 210.000 habitantes, fue fundada por los monjes de San Finbarr en el siglo VII en una isla pantanosa en la confluencia del río Lee, después transformada en ciudad fortificada por los vikingos en el siglo IX (el nombre viene del gaélico «Corcaigh»: pantano). En el siglo XIX Cork se convirtió en el principal puerto de emigración irlandesa hacia Norteamérica, fue desde Cobh, a 20 minutos en tren, desde donde partió el Titanic en 1912. Hoy apodada la «Rebel City» por su papel en la guerra de la Independencia, Cork cultiva un feroz orgullo local en torno a su English Market victoriano, sus 25.000 estudiantes en el University College Cork y su escena gastronómica: tres chefs con estrella Michelin en una ciudad más pequeña que Burdeos. Para los viajeros con perro, Cork es uno de los enclaves más acogedores de Irlanda: Fitzgerald's Park en el corazón del centro, el Ballincollig Regional Park de 200 hectáreas con zona sin correa a 8 km, los pubs tradicionales que mantienen la práctica del «snug» (pequeñas salas entabladas donde se admiten perros), y el Cork Harbour con Cobh, Fountainstown y Garrettstown a menos de 30 min en coche para paseos en la playa. Bus Éireann e Iarnród Éireann transportan gratis a los perros con correa.`,
+      pt: `Cork, a segunda cidade da Irlanda com 210.000 habitantes, foi fundada pelos monges de São Finbarr no século VII numa ilha pantanosa na confluência do rio Lee, depois transformada em cidade fortificada pelos vikings no século IX (o nome vem do gaélico «Corcaigh»: pântano). No século XIX Cork tornou-se no principal porto de emigração irlandesa para a América do Norte, foi de Cobh, a 20 minutos de comboio, que partiu o Titanic em 1912. Hoje apelidada de «Rebel City» pelo seu papel na guerra da Independência, Cork cultiva um feroz orgulho local em torno do seu English Market vitoriano, dos seus 25.000 estudantes do University College Cork e da sua cena gastronómica: três chefs com estrela Michelin numa cidade mais pequena que Bordéus. Para os viajantes com cão, Cork é um dos polos mais acolhedores da Irlanda: Fitzgerald's Park no coração do centro, o Ballincollig Regional Park de 200 hectares com zona sem trela a 8 km, os pubs tradicionais que mantêm a prática do «snug» (pequenas salas forradas a madeira onde se admitem cães), e o Cork Harbour com Cobh, Fountainstown e Garrettstown a menos de 30 min de carro para passeios de praia. A Bus Éireann e a Iarnród Éireann transportam gratuitamente cães com trela.`,
     },
     sights: [
       {
@@ -12654,10 +12654,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌳',
         petFriendly: true,
         desc: {
-          fr: `Parc édouardien emblématique de Cork (5 hectares) em bordure ouest du centre-ville, avec le fleuve Lee, le Cork Public Museum, fontaines et jardins de roses. Chiens em laisse, sachets aux entrées.`,
+          fr: `Parc édouardien emblématique de Cork (5 hectares) en bordure ouest du centre-ville, avec le fleuve Lee, le Cork Public Museum, fontaines et jardins de roses. Chiens en laisse, sachets aux entrées.`,
           en: `Cork's flagship Edwardian park (5 hectares) on the western edge of the city centre, with the River Lee, the Cork Public Museum, fountains and rose gardens. Leashed dogs, bags at the entrances.`,
-          es: `Parque edwardiano emblemático de Cork (5 hectáreas) em el borde oeste del centro, con o rio Lee, el Cork Public Museum, fuentes y jardines de rosas. Perros com trela, bolsas em las entradas.`,
-          pt: `Parque edwardiano emblemático de Cork (5 hectáreas) no borde oeste do centro, com o rio Lee, o Cork Public Museum, fuentes e jardins de rosas. Cães com trela, bolsas nas entradas.`,
+          es: `Parque eduardiano emblemático de Cork (5 hectáreas) en el borde oeste del centro, con el río Lee, el Cork Public Museum, fuentes y jardines de rosas. Perros con correa, bolsas en las entradas.`,
+          pt: `Parque eduardiano emblemático de Cork (5 hectares) na orla oeste do centro, com o rio Lee, o Cork Public Museum, fontes e jardins de rosas. Cães com trela, sacos nas entradas.`,
         },
       },
       {
@@ -12667,8 +12667,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Plus grand parc de Cork (200 hectares) le long du Lee, à 8 km à l'ouest. Zone sans laisse désignée le long du sentier sud de la rive ; ruines des Royal Gunpowder Mills.`,
           en: `Cork's largest park (200 hectares) along the River Lee, 8 km west. Designated off-leash zone along the southern riverbank trail; Royal Gunpowder Mills ruins.`,
-          es: `Mayor parque de Cork (200 hectáreas) junto al río Lee, 8 km al oeste. Zona sin trela designada por el sendero sur de la ribera; ruinas dos Royal Gunpowder Mills.`,
-          pt: `Mayor parque de Cork (200 hectáreas) junto al rio Lee, 8 km al oeste. Zona sem trela designada pelo trilho sur da ribera; ruinas dois Royal Gunpowder Mills.`,
+          es: `El mayor parque de Cork (200 hectáreas) junto al río Lee, 8 km al oeste. Zona sin correa designada a lo largo del sendero sur de la ribera; ruinas de las Royal Gunpowder Mills.`,
+          pt: `O maior parque de Cork (200 hectares) junto ao rio Lee, 8 km a oeste. Zona sem trela designada ao longo do trilho sul da margem; ruínas das Royal Gunpowder Mills.`,
         },
       },
       {
@@ -12676,10 +12676,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏰',
         petFriendly: true,
         desc: {
-          fr: `Château du XVIᵉ siècle sur un promontoire du Cork Harbour, devenu observatoire astronomique. Enceinte, chaussée fluviale et terrasse du café accessibles aux chiens em laisse.`,
+          fr: `Château du XVIᵉ siècle sur un promontoire du Cork Harbour, devenu observatoire astronomique. Enceinte, chaussée fluviale et terrasse du café accessibles aux chiens en laisse.`,
           en: `16th-century castle on a Cork Harbour promontory, now an astronomy observatory. Grounds, riverside causeway and café terrace accessible to leashed dogs.`,
-          es: `Castillo del siglo XVI em un promontorio del Cork Harbour, hoy observatorio astronómico. Recinto, calzada fluvial y terraza del café acessíveis para perros com trela.`,
-          pt: `Castelo do século XVI num promontorio do Cork Harbour, hoy observatorio astronómico. Recinto, calzada fluvial e esplanada do café acessíveis para cães com trela.`,
+          es: `Castillo del siglo XVI en un promontorio del Cork Harbour, hoy observatorio astronómico. Recinto, calzada fluvial y terraza del café accesibles para perros con correa.`,
+          pt: `Castelo do século XVI num promontório do Cork Harbour, hoje observatório astronómico. Recinto, calçada fluvial e esplanada do café acessíveis a cães com trela.`,
         },
       },
       {
@@ -12687,10 +12687,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛪',
         petFriendly: true,
         desc: {
-          fr: `Cathédrale néogothique de William Burges (1879), avec les flèches les plus photographiées de Cork. Chiens em laisse bienvenus dans le clos extérieur et les pelouses.`,
+          fr: `Cathédrale néogothique de William Burges (1879), avec les flèches les plus photographiées de Cork. Chiens en laisse bienvenus dans le clos extérieur et les pelouses.`,
           en: `Gothic Revival cathedral by William Burges (1879), with the most photographed spires in Cork. Leashed dogs welcome in the outdoor close and lawns.`,
-          es: `Catedral neogótica de William Burges (1879), con las agujas más fotografiadas de Cork. Perros com trela bienvenidos em el cierre exterior y los céspedes.`,
-          pt: `Catedral neogótica de William Burges (1879), com as agujas mais fotografiadas de Cork. Cães com trela bem-vindos no cierre exterior e os céspedes.`,
+          es: `Catedral neogótica de William Burges (1879), con las agujas más fotografiadas de Cork. Perros con correa bienvenidos en el recinto exterior y los céspedes.`,
+          pt: `Catedral neogótica de William Burges (1879), com as agulhas mais fotografadas de Cork. Cães com trela bem-vindos no recinto exterior e nos relvados.`,
         },
       },
       {
@@ -12698,10 +12698,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🦆',
         petFriendly: true,
         desc: {
-          fr: `Lac d'eau douce de 5 hectares et refuge faunique dans les faubourgs sud, avec un chemin périphérique d'1 km. Chiens em laisse, colonie protégée de cygnes.`,
+          fr: `Lac d'eau douce de 5 hectares et refuge faunique dans les faubourgs sud, avec un chemin périphérique d'1 km. Chiens en laisse, colonie protégée de cygnes.`,
           en: `5-hectare freshwater lake and wildlife refuge in the southern suburbs, with a 1 km perimeter path. Leashed dogs, protected swan colony.`,
-          es: `Lago de agua dulce de 5 hectáreas y refugio de fauna em los suburbios sur, con un camino perimetral de 1 km. Perros com trela, colonia protegida de cisnes.`,
-          pt: `Lago de água dulce de 5 hectáreas e refugio de fauna nos suburbios sur, com um camino perimetral de 1 km. Cães com trela, colonia protegida de cisnes.`,
+          es: `Lago de agua dulce de 5 hectáreas y refugio de fauna en los suburbios sur, con un camino perimetral de 1 km. Perros con correa, colonia protegida de cisnes.`,
+          pt: `Lago de água doce de 5 hectares e refúgio de fauna nos subúrbios sul, com um caminho perimetral de 1 km. Cães com trela, colónia protegida de cisnes.`,
         },
       },
       {
@@ -12709,20 +12709,20 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⚓',
         petFriendly: true,
         desc: {
-          fr: `Port historique du départ du Titanic à 25 min em train, avec promenade fluviale de 2 km, l'emblématique Deck of Cards et la cathédrale St Colman. Chiens em laisse partout em extérieur.`,
+          fr: `Port historique du départ du Titanic à 25 min en train, avec promenade fluviale de 2 km, l'emblématique Deck of Cards et la cathédrale St Colman. Chiens en laisse partout en extérieur.`,
           en: `Historic Titanic departure port 25 min by train, with 2 km waterfront promenade, the iconic Deck of Cards row of houses and St Colman's Cathedral. Leashed dogs welcome throughout outdoor areas.`,
-          es: `Puerto histórico de partida del Titanic a 25 min em tren, con paseo marítimo de 2 km, o emblemático Deck of Cards y la catedral St Colman. Perros com trela em todas las zonas exteriores.`,
+          es: `Puerto histórico de partida del Titanic a 25 min en tren, con paseo marítimo de 2 km, el emblemático Deck of Cards y la catedral St Colman. Perros con correa en todas las zonas exteriores.`,
           pt: `Porto histórico de partida do Titanic a 25 min de comboio, com passeio marítimo de 2 km, o emblemático Deck of Cards e a catedral St Colman. Cães com trela em todas as zonas exteriores.`,
         },
       },
     ],
     petTips: {
       fr: [
-        `Bus Éireann et Iarnród Éireann acceptent les chiens em laisse muselés gratuitement, à la discrétion du chauffeur ou contrôleur.`,
+        `Bus Éireann et Iarnród Éireann acceptent les chiens en laisse muselés gratuitement, à la discrétion du chauffeur ou contrôleur.`,
         `Les bylaws de la ville de Cork prévoient une amende max de 4 000 € pour le non-ramassage des déjections, distributeurs gratuits aux entrées de chaque parc public.`,
-        `La pratique du « snug » (petite salle em bois adjacente au bar) est maintenue à Sin É, The Long Valley et An Spailpín Fánach, les chiens y sont les bienvenus.`,
+        `La pratique du « snug » (petite salle en bois adjacente au bar) est maintenue à Sin É, The Long Valley et An Spailpín Fánach, les chiens y sont les bienvenus.`,
         `Cliniques d'urgence 24h/24 : Gilabbey Veterinary Hospital (021 431 2900) et ARK Veterinary Hospital (021 496 6677).`,
-        `Les races restreintes em Irlande (Pit Bull Terrier, Rottweiler, Dobermann, Bull Mastiff) doivent porter muselière + laisse courte (≤2m) em public, applicable même sur les promenades de Cork Harbour.`,
+        `Les races restreintes en Irlande (Pit Bull Terrier, Rottweiler, Dobermann, Bull Mastiff) doivent porter muselière + laisse courte (≤2m) en public, applicable même sur les promenades de Cork Harbour.`,
       ],
       en: [
         `Bus Éireann and Iarnród Éireann accept leashed and muzzled dogs free of charge, at the driver/conductor's discretion.`,
@@ -12732,27 +12732,27 @@ const cityContent: Record<string, CityContent> = {
         `Ireland's restricted breeds (Pit Bull Terrier, Rottweiler, Dobermann, Bull Mastiff) must wear a muzzle and short leash (≤2m) in public, enforced even on Cork Harbour seafront walks.`,
       ],
       es: [
-        `Bus Éireann y Iarnród Éireann admiten perros com trela y bozal gratis, a discreción del conductor o revisor.`,
-        `Los bylaws del Ayuntamiento de Cork imponen multas máximas de 4.000 € por no recoger las deposiciones, dispensadores gratuitos em cada entrada de parque público.`,
-        `La práctica del «snug» (pequeña sala entablada junto a la barra) se mantiene em Sin É, The Long Valley y An Spailpín Fánach, los perros son bienvenidos.`,
+        `Bus Éireann e Iarnród Éireann admiten perros con correa y bozal gratis, a discreción del conductor o revisor.`,
+        `Los bylaws del Ayuntamiento de Cork imponen multas máximas de 4.000 € por no recoger los excrementos, dispensadores gratuitos en cada entrada de parque público.`,
+        `La práctica del «snug» (pequeña sala entablada junto a la barra) se mantiene en Sin É, The Long Valley y An Spailpín Fánach, donde los perros son bienvenidos.`,
         `Clínicas de urgencias 24/7: Gilabbey Veterinary Hospital (021 431 2900) y ARK Veterinary Hospital (021 496 6677).`,
-        `Las razas restringidas em Irlanda (Pit Bull Terrier, Rottweiler, Dóberman, Bull Mastiff) deben llevar bozal + trela curta (≤2m) em público, aplicable incluso em los paseos del Cork Harbour.`,
+        `Las razas restringidas en Irlanda (Pit Bull Terrier, Rottweiler, Dóberman, Bull Mastiff) deben llevar bozal + correa corta (≤2m) en público, aplicable incluso en los paseos del Cork Harbour.`,
       ],
       pt: [
-        `Bus Éireann e Iarnród Éireann admiten cães com trela e bozal grátis, a discreción do conductor o revisor.`,
-        `Os bylaws do Câmara municipal de Cork imponen multas máximas de 4.000 € por no recoger as deposiciones, dispensadores gratuitos em cada entrada de parque público.`,
-        `A práctica do «snug» (pequena sala entablada junto a a barra) se mantiene em Sem É, The Long Valley e An Spailpín Fánach, os cães são bem-vindos.`,
+        `A Bus Éireann e a Iarnród Éireann aceitam cães com trela e açaimo gratuitamente, ao critério do motorista ou revisor.`,
+        `Os regulamentos municipais de Cork impõem multas máximas de 4.000 € por não recolher os dejetos, dispensadores gratuitos em cada entrada de parque público.`,
+        `A prática do «snug» (pequena sala forrada a madeira junto ao bar) mantém-se em Sin É, The Long Valley e An Spailpín Fánach, onde os cães são bem-vindos.`,
         `Clínicas de urgências 24/7: Gilabbey Veterinary Hospital (021 431 2900) e ARK Veterinary Hospital (021 496 6677).`,
-        `As raças restringidas em Irlanda (Pit Bull Terrier, Rottweiler, Dóberman, Bull Mastiff) deben levar bozal + trela curta (≤2m) em público, aplicable mesmo nos passeios do Cork Harbour.`,
+        `As raças restringidas na Irlanda (Pit Bull Terrier, Rottweiler, Dobermann, Bull Mastiff) devem usar açaimo + trela curta (≤2m) em público, aplicável mesmo nos passeios do Cork Harbour.`,
       ],
     },
     practicalInfo: {
       fr: [
-        `Entrée em Irlande : passeport européen + traitement antiténiacide (échinococcose) administré par un vétérinaire UE 24h-120h avant l'arrivée, consigné dans le passeport.`,
-        `Aéroport de Cork (ORK) à 8 km au sud, bus 226A toutes les 30 min, 25 min de trajet, chiens em laisse gratuits.`,
-        `Train Iarnród Éireann Cork-Dublin (2h30) et Cork-Cobh (25 min), petits chiens em sac gratuits, grands em laisse muselée gratuits dans le vestibule.`,
+        `Entrée en Irlande : passeport européen + traitement antiténiacide (échinococcose) administré par un vétérinaire UE 24h-120h avant l'arrivée, consigné dans le passeport.`,
+        `Aéroport de Cork (ORK) à 8 km au sud, bus 226A toutes les 30 min, 25 min de trajet, chiens en laisse gratuits.`,
+        `Train Iarnród Éireann Cork-Dublin (2h30) et Cork-Cobh (25 min), petits chiens en sac gratuits, grands en laisse muselée gratuits dans le vestibule.`,
         `Festival de jazz de Cork (fin octobre) sature les hôtels, réservez 3 mois à l'avance ou évitez la dernière semaine d'octobre.`,
-        `Climat océanique humide : prévoyez serviette et imperméable canin, il pleut em moyenne 200 jours/an dans le comté de Cork.`,
+        `Climat océanique humide : prévoyez serviette et imperméable canin, il pleut en moyenne 200 jours/an dans le comté de Cork.`,
       ],
       en: [
         `Entry to Ireland: EU pet passport + tapeworm (echinococcus) treatment administered by an EU vet 24-120h before arrival, recorded in the passport.`,
@@ -12762,18 +12762,18 @@ const cityContent: Record<string, CityContent> = {
         `Humid oceanic climate: pack an absorbent towel and dog raincoat, it rains on average 200 days/year in County Cork.`,
       ],
       es: [
-        `Entrada a Irlanda: passaporte europeu + tratamento antitenia (equinococose) administrado por un veterinario UE 24-120h antes de la chegada, registrado em el passaporte.`,
-        `Aeropuerto de Cork (ORK) a 8 km al sur, bus 226A cada 30 min, 25 min de trayecto, perros com trela gratis.`,
-        `Tren Iarnród Éireann Cork-Dublín (2h30) y Cork-Cobh (25 min), perros pequeños em transportín gratis, grandes com trela y bozal gratis em el vestíbulo.`,
-        `Festival de Jazz de Cork (finais de octubre) satura los hoteles, reserva con 3 meses de antelación o evita a última semana de octubre.`,
-        `Clima oceánico húmedo: lleva toalla y impermeable para perro, llueve una media de 200 días/año em el condado de Cork.`,
+        `Entrada a Irlanda: pasaporte europeo + tratamiento antitenia (equinococosis) administrado por un veterinario UE 24-120h antes de la llegada, registrado en el pasaporte.`,
+        `Aeropuerto de Cork (ORK) a 8 km al sur, bus 226A cada 30 min, 25 min de trayecto, perros con correa gratis.`,
+        `Tren Iarnród Éireann Cork-Dublín (2h30) y Cork-Cobh (25 min), perros pequeños en transportín gratis, grandes con correa y bozal gratis en el vestíbulo.`,
+        `Festival de Jazz de Cork (finales de octubre) satura los hoteles, reserva con 3 meses de antelación o evita la última semana de octubre.`,
+        `Clima oceánico húmedo: lleva toalla e impermeable para perro, llueve una media de 200 días/año en el condado de Cork.`,
       ],
       pt: [
-        `Entrada a Irlanda: passaporte europeu + tratamento antitenia (equinococose) administrado por um veterinário UE 24-120h antes da chegada, registrado no passaporte.`,
-        `Aeroporto de Cork (ORK) a 8 km al sur, bus 226A cada 30 min, 25 min de trayecto, cães com trela grátis.`,
-        `Comboio Iarnród Éireann Cork-Dublín (2h30) e Cork-Cobh (25 min), cães pequenos em transportadora grátis, grandes com trela e bozal grátis no vestíbulo.`,
-        `Festival de Jazz de Cork (finais de outubro) satura os hotéis, reserva con 3 meses de antelación o evita a última semana de outubro.`,
-        `Clima oceánico húmedo: lleva toalla e impermeable para cão, llueve uma media de 200 dias/ano no condado de Cork.`,
+        `Entrada na Irlanda: passaporte europeu + tratamento antitenia (equinococose) administrado por um veterinário da UE 24-120h antes da chegada, registado no passaporte.`,
+        `Aeroporto de Cork (ORK) a 8 km a sul, autocarro 226A a cada 30 min, 25 min de trajeto, cães com trela grátis.`,
+        `Comboio Iarnród Éireann Cork-Dublin (2h30) e Cork-Cobh (25 min), cães pequenos em transportadora grátis, grandes com trela e açaimo grátis no vestíbulo.`,
+        `Festival de Jazz de Cork (finais de outubro) esgota os hotéis, reserve com 3 meses de antecedência ou evite a última semana de outubro.`,
+        `Clima oceânico húmido: leve toalha e impermeável para cão, chove em média 200 dias/ano no condado de Cork.`,
       ],
     },
   },

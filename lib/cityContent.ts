@@ -1989,8 +1989,8 @@ const cityContent: Record<string, CityContent> = {
     history: {
       fr: `Anvers, capitale flamande du diamant et deuxième ville de Belgique, est une puissance commerciale depuis le XVIe siècle, époque où Rubens peignait et où le port rivalisait avec Venise. Aujourd'hui, ses 530 000 habitants partagent la ville avec une densité canine inhabituelle, la Flandre affiche l'un des plus hauts taux de possession de chiens d'Europe, et Anvers compte plusieurs centaines de zones de liberté clôturées (hondenlosloopzones). La ville prend le bien-être animal au sérieux : tous les chiens doivent être pucés et enregistrés dans DogID, et la laisse est stricte hors des zones désignées. Ville d'avant-garde grâce aux 'Six d'Anvers', elle est aussi étonnamment accueillante envers les compagnons à quatre pattes dans ses cafés et boutiques. Les quais de l'Escaut, le Grote Markt médiéval et le vaste parc de sculptures Middelheim sont des terrains de promenade de choix.`,
       en: `Antwerp, Flanders' diamond capital and Belgium's second-largest city, has been a trading powerhouse since the 16th century, when Rubens painted and the port rivalled Venice. Today its 530,000 residents share the city with an unusually high density of dogs, Flanders has one of Europe's highest dog-ownership rates, and Antwerp counts several hundred registered fenced dog runs (hondenlosloopzones). The city takes pet welfare seriously: all dogs must be microchipped and registered in DogID, and there are strict leash rules outside designated zones. A famously fashion-forward town thanks to the Antwerp Six designers, it's also surprisingly relaxed about four-legged customers in its cafés and boutiques. The Scheldt riverside promenade, the medieval Grote Markt and the vast Middelheim sculpture park all double as prime dog-walking territory.`,
-      es: `Amberes, capital flamenca del diamante y segunda ciudad de Bélgica, es una potencia comercial desde el siglo XVI, cuando Rubens pintaba y el puerto rivalizaba con Venecia. Hoy, sus 530.000 habitantes comparten a cidade con una densidad canina poco habitual, Flandes presenta una das tasas más altas de tenencia de perros de Europa, y Amberes cuenta con varios centenares de zonas valladas de suelta (hondenlosloopzones). a cidade se toma em serio el bienestar animal: todos los perros deben ir microchipados e inscritos em DogID, y la trela es obrigatória fuera das áreas habilitadas. Ciudad vanguardista gracias a los Seis de Amberes, también es sorprendentemente abierta a los clientes de cuatro patas em sus cafés y boutiques. El paseo del Escalda, el medieval Grote Markt y o extenso parque escultórico Middelheim son territorios ideales para el paseo canino.`,
-      pt: `Amberes, capital flamenca do diamante e segunda cidade de Bélgica, é uma potencia comercial a partir do século XVI, quando Rubens pintaba e o porto rivalizaba com Venecia. Hoy, os seus 530.000 habitantes comparten a cidade com uma densidad canina pouco habitual, Flandes apresenta uma das tasas mais altas de tenencia de cães de Europa, e Amberes tem com vários centenares de zonas valladas de suelta (hondenlosloopzones). A cidade se toma em serio o bienestar animal: todos os cães deben ir microchipados e inscritos em DogID, e a trela é obrigatória fora das áreas habilitadas. Cidade vanguardista gracias aos Seis de Amberes, também é sorprendentemente aberta aos clientes de quatro patas nos seus cafés e boutiques. O passeio do Escalda, o medieval Grote Markt e o extenso parque escultórico Middelheim são territorios ideales para o passeio canino.`,
+      es: `Amberes, capital flamenca del diamante y segunda ciudad de Bélgica, es una potencia comercial desde el siglo XVI, cuando Rubens pintaba y el puerto rivalizaba con Venecia. Hoy, sus 530.000 habitantes comparten la ciudad con una densidad canina poco habitual, Flandes presenta una de las tasas más altas de tenencia de perros de Europa, y Amberes cuenta con varios centenares de zonas valladas de suelta (hondenlosloopzones). La ciudad se toma en serio el bienestar animal: todos los perros deben ir microchipados e inscritos en DogID, y la correa es obligatoria fuera de las áreas habilitadas. Ciudad vanguardista gracias a los Seis de Amberes, también es sorprendentemente abierta a los clientes de cuatro patas en sus cafés y boutiques. El paseo del Escalda, el medieval Grote Markt y el extenso parque escultórico Middelheim son territorios ideales para el paseo canino.`,
+      pt: `Antuérpia, capital flamenga do diamante e segunda cidade da Bélgica, é uma potência comercial desde o século XVI, quando Rubens pintava e o porto rivalizava com Veneza. Hoje, os seus 530.000 habitantes partilham a cidade com uma densidade canina pouco habitual, a Flandres apresenta uma das taxas mais altas de posse de cães da Europa, e Antuérpia conta com várias centenas de zonas vedadas de largada (hondenlosloopzones). A cidade leva a sério o bem-estar animal: todos os cães têm de estar microchipados e inscritos no DogID, e a trela é obrigatória fora das áreas designadas. Cidade vanguardista graças aos Seis de Antuérpia, é também surpreendentemente aberta aos clientes de quatro patas nos seus cafés e boutiques. O passeio do Escalda, o medieval Grote Markt e o extenso parque de esculturas Middelheim são territórios ideais para o passeio canino.`,
     },
     sights: [
       {
@@ -2000,8 +2000,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'La place triangulaire médiévale est dominée par les maisons des guildes et la cathédrale gothique de 123 mètres abritant quatre retables de Rubens. Les chiens profitent de la place et des ruelles pavées environnantes, mais ne sont pas admis dans la cathédrale.',
           en: 'The triangular medieval square is dominated by guild houses and the 123-metre Gothic cathedral housing four Rubens altarpieces. Dogs can enjoy the square and surrounding cobbled streets, though they aren\'t allowed inside the cathedral itself.',
-          es: 'La plaza triangular medieval está dominada por las casas gremiales y la catedral gótica de 123 metros, que alberga cuatro retablos de Rubens. Los perros disfrutan de la plaza y las callejuelas empedradas, pero no pueden entrar na catedral.',
-          pt: 'A praça triangular medieval está dominada pelas casas gremiales e a catedral gótica de 123 metros, que alberga quatro retablos de Rubens. Os cães disfrutan da praça e as callejuelas empedradas, mas no podem entrar na catedral.',
+          es: 'La plaza triangular medieval está dominada por las casas gremiales y la catedral gótica de 123 metros, que alberga cuatro retablos de Rubens. Los perros disfrutan de la plaza y las callejuelas empedradas, pero no pueden entrar en la catedral.',
+          pt: 'A praça triangular medieval é dominada pelas casas das corporações e a catedral gótica de 123 metros, que alberga quatro retábulos de Rubens. Os cães desfrutam da praça e das ruelas calcetadas, mas não podem entrar na catedral.',
         },
       },
       {
@@ -2009,10 +2009,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🚂',
         petFriendly: true,
         desc: {
-          fr: 'Ancienne gare de triage de 24 hectares reconvertie em parc urbain dans le quartier branché 2060, avec une grande zone clôturée sans laisse (hondenweide). Prisée des habitants pour les footings du week-end et les pataugeoires l\'été.',
+          fr: 'Ancienne gare de triage de 24 hectares reconvertie en parc urbain dans le quartier branché 2060, avec une grande zone clôturée sans laisse (hondenweide). Prisée des habitants pour les footings du week-end et les pataugeoires l\'été.',
           en: 'A reclaimed 24-hectare railway yard turned urban park in the trendy 2060 district, with a large fenced off-leash zone (hondenweide). Popular with locals for weekend runs and paddling-pool days in summer.',
-          es: 'Una antiga estação de maniobras de 24 hectáreas convertida em parque urbano em el moderno distrito 2060, con una gran zona vallada sin trela (hondenweide). Muy popular entre los locales para correr los fines de semana y refrescarse em verano.',
-          pt: 'Uma antiga estação de maniobras de 24 hectáreas convertida em parque urbano no moderno distrito 2060, com uma grande zona vallada sem trela (hondenweide). Muito popular entre os locales para correr os fines de semana e refrescarse em verão.',
+          es: 'Una antigua estación de maniobras de 24 hectáreas convertida en parque urbano en el moderno distrito 2060, con una gran zona vallada sin correa (hondenweide). Muy popular entre los locales para correr los fines de semana y refrescarse en verano.',
+          pt: 'Uma antiga estação de triagem de 24 hectares reconvertida em parque urbano no moderno bairro 2060, com uma grande zona vedada sem trela (hondenweide). Muito popular entre os habitantes para corridas de fim de semana e chapinheiros no verão.',
         },
       },
       {
@@ -2022,8 +2022,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Le château du XIIIe siècle sur l\'Escaut marque le départ d\'une longue promenade fluviale prisée des coureurs et des promeneurs de chiens. La nouvelle terrasse du Steenplein offre une vue dégagée sur Linkeroever.',
           en: 'The 13th-century castle on the Scheldt marks the start of a long riverside promenade popular with joggers and dog walkers. The new Steenplein terrace offers sweeping views across to Linkeroever.',
-          es: 'El castillo del siglo XIII sobre o Escalda marca o início de un longo paseo fluvial muy querido por corredores y paseadores de perros. La nueva terraza del Steenplein ofrece vistas amplas hacia Linkeroever.',
-          pt: 'O castelo do século XIII sobre o Escalda marca o início dum longo passeio fluvial muito querido por corredores e paseadores de cães. A nueva esplanada do Steenplein ofrece vistas amplas para Linkeroever.',
+          es: 'El castillo del siglo XIII sobre el Escalda marca el inicio de un largo paseo fluvial muy querido por corredores y paseadores de perros. La nueva terraza del Steenplein ofrece amplias vistas hacia Linkeroever.',
+          pt: 'O castelo do século XIII sobre o Escalda marca o início dum longo passeio fluvial muito apreciado por corredores e passeadores de cães. A nova esplanada do Steenplein oferece amplas vistas para Linkeroever.',
         },
       },
       {
@@ -2031,10 +2031,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🗿',
         petFriendly: true,
         desc: {
-          fr: 'Un parc de 30 hectares exposant 400 sculptures modernes et contemporaines, dont Rodin et Henry Moore, où les chiens em laisse sont les bienvenus. Entrée gratuite toute l\'année.',
+          fr: 'Un parc de 30 hectares exposant 400 sculptures modernes et contemporaines, dont Rodin et Henry Moore, où les chiens en laisse sont les bienvenus. Entrée gratuite toute l\'année.',
           en: 'A 30-hectare park displaying 400 modern and contemporary sculptures, including Rodin and Henry Moore, where leashed dogs are free to roam. Entry is free year-round.',
-          es: 'Un parque de 30 hectáreas con 400 esculturas modernas y contemporáneas, incluidos Rodin y Henry Moore, donde los perros com trela son bienvenidos. Entrada gratuita todo o año.',
-          pt: 'Um parque de 30 hectáreas com 400 esculturas modernas e contemporâneas, incluidos Rodin e Henry Moore, onde os cães com trela são bem-vindos. Entrada gratuita o ano inteiro.',
+          es: 'Un parque de 30 hectáreas con 400 esculturas modernas y contemporáneas, incluidos Rodin y Henry Moore, donde los perros con correa son bienvenidos. Entrada gratuita todo el año.',
+          pt: 'Um parque de 30 hectares com 400 esculturas modernas e contemporâneas, incluindo Rodin e Henry Moore, onde os cães com trela são bem-vindos. Entrada gratuita o ano inteiro.',
         },
       },
       {
@@ -2042,10 +2042,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏛️',
         petFriendly: true,
         desc: {
-          fr: 'Les chiens ne sont pas admis dans les galeries du musée, mais la montée gratuite em escalators em plein air jusqu\'à 60 mètres leur est ouverte et offre le plus beau panorama sur le port et la vieille ville.',
+          fr: 'Les chiens ne sont pas admis dans les galeries du musée, mais la montée gratuite en escalators en plein air jusqu\'à 60 mètres leur est ouverte et offre le plus beau panorama sur le port et la vieille ville.',
           en: 'You can\'t take dogs into the museum galleries, but the free open-air rooftop escalator climb to 60 metres is dog-friendly and delivers the best panorama of the port and old town.',
-          es: 'No se admiten perros em las salas del museo, pero o ascenso gratuito por las escaleras mecánicas al aire libre hasta los 60 metros sí lo es, y ofrece la mejor panorámica del puerto y el casco antigo.',
-          pt: 'No se admitem cães nas salas do museu, mas o ascenso gratuito pelas escaleras mecánicas al aire libre até os 60 metros sí lo é, e ofrece a melhor panorámica do porto e o centro histórico.',
+          es: 'No se admiten perros en las salas del museo, pero el ascenso gratuito por las escaleras mecánicas al aire libre hasta los 60 metros sí lo es, y ofrece la mejor panorámica del puerto y el casco antiguo.',
+          pt: 'Não se admitem cães nas salas do museu, mas a subida gratuita pelas escadas rolantes ao ar livre até aos 60 metros é permitida, e oferece a melhor panorâmica do porto e do centro histórico.',
         },
       },
       {
@@ -2055,18 +2055,18 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Ce quartier fin de siècle est un musée vivant d\'Art Nouveau et d\'architecture éclectique, idéal à découvrir à pied sans se presser. Le Dakota Café et plusieurs terrasses de la Dageraadplaats accueillent les chiens.',
           en: 'This fin-de-siècle neighbourhood is a living museum of Art Nouveau and eclectic architecture, best explored slowly on foot. Dakota Café and several terraces on Dageraadplaats welcome dogs.',
-          es: 'Este barrio finisecular es un museo vivo del Art Nouveau y a arquitectura ecléctica, ideal para recorrer a pie sin prisas. El Dakota Café y varias terrazas de Dageraadplaats admiten perros.',
-          pt: 'Este bairro finisecular é um museu vivo do Art Nouveau e a arquitetura ecléctica, ideal para recorrer a pé sem prisas. O Dakota Café e várias esplanadas de Dageraadplaats admitem cães.',
+          es: 'Este barrio finisecular es un museo vivo del Art Nouveau y la arquitectura ecléctica, ideal para recorrer a pie sin prisas. El Dakota Café y varias terrazas de Dageraadplaats admiten perros.',
+          pt: 'Este bairro fin-de-siècle é um museu vivo da Art Nouveau e da arquitetura eclética, ideal para percorrer a pé sem pressas. O Dakota Café e várias esplanadas da Dageraadplaats admitem cães.',
         },
       },
     ],
     petTips: {
       fr: [
-        'Les trams et bus De Lijn acceptent les chiens moyennant un tarif réduit de 1,80 € par trajet (les petits chiens em cage voyagent gratuitement) ; la muselière n\'est pas obligatoire, mais la laisse si.',
+        'Les trams et bus De Lijn acceptent les chiens moyennant un tarif réduit de 1,80 € par trajet (les petits chiens en cage voyagent gratuitement) ; la muselière n\'est pas obligatoire, mais la laisse si.',
         'Téléchargez la carte \'Stad Antwerpen\' des hondenlosloopzones, plus de 40 zones clôturées sans laisse dans la ville, dont les grandes du Rivierenhof et du Nachtegalenpark.',
         'Les déjections canines sont sanctionnées jusqu\'à 350 €, et Anvers expérimente le traçage ADN dans certains quartiers, ramassez toujours.',
         'De nombreux hôtels anversois facturent 10-25 € par nuit et par chien ; les boutique-hôtels du Zuid sont souvent les plus accueillants, demandez les limites de taille à la réservation.',
-        'Pour passer aux Pays-Bas avec votre chien, Anvers-central dessert directement Rotterdam et Amsterdam em Intercity, avec un NS Dagkaart Hond à 3,40 €.',
+        'Pour passer aux Pays-Bas avec votre chien, Anvers-central dessert directement Rotterdam et Amsterdam en Intercity, avec un NS Dagkaart Hond à 3,40 €.',
       ],
       en: [
         'De Lijn trams and buses accept dogs for a reduced fare of €1.80 per trip (small dogs in a carrier travel free); muzzles aren\'t legally required but leash is mandatory.',
@@ -2076,24 +2076,24 @@ const cityContent: Record<string, CityContent> = {
         'If you\'re crossing into the Netherlands with your dog, Antwerp-Centraal has direct Intercity trains to Rotterdam and Amsterdam where dogs travel for a €3.40 NS Dagkaart Hond.',
       ],
       es: [
-        'Los tranvías y autobuses De Lijn admiten perros por 1,80 € por trayecto (los perros pequeños em transportín viajan gratis); el bozal no es obrigatório, la trela sí.',
-        'Descarga el mapa \'Stad Antwerpen\' de hondenlosloopzones, más de 40 zonas valladas sin trela na ciudad, con áreas grandes em Rivierenhof y Nachtegalenpark.',
-        'Las multas por excrementos caninos llegan a 350 €, y Amberes prueba el rastreo por ADN em algunos distritos, así que recoge siempre.',
-        'Muchos hoteles de Amberes cobran una tarifa de 10-25 € por noche y perro; los hoteles-boutique de Het Zuid costumam ser los más acogedores, pregunta por los límites de tamanho al reservar.',
-        'Para cruzar a los Países Bajos con tu perro, Antwerpen-Centraal conecta directamente con Rotterdam y Ámsterdam em Intercity, con un NS Dagkaart Hond por 3,40 €.',
+        'Los tranvías y autobuses De Lijn admiten perros por 1,80 € por trayecto (los perros pequeños en transportín viajan gratis); el bozal no es obligatorio, la correa sí.',
+        'Descarga el mapa \'Stad Antwerpen\' de hondenlosloopzones, más de 40 zonas valladas sin correa en la ciudad, con áreas grandes en Rivierenhof y Nachtegalenpark.',
+        'Las multas por excrementos caninos llegan a 350 €, y Amberes prueba el rastreo por ADN en algunos distritos, así que recoge siempre.',
+        'Muchos hoteles de Amberes cobran una tarifa de 10-25 € por noche y perro; los hoteles-boutique de Het Zuid suelen ser los más acogedores, pregunta por los límites de tamaño al reservar.',
+        'Para cruzar a los Países Bajos con tu perro, Antwerpen-Centraal conecta directamente con Rotterdam y Ámsterdam en Intercity, con un NS Dagkaart Hond por 3,40 €.',
       ],
       pt: [
-        'Os elétricos e autocarros De Lijn admiten cães por 1,80 € por trayecto (os cães pequenos em transportadora viajan grátis); o bozal no é obrigatório, a trela sí.',
-        'Descarga o mapa \'Stad Antwerpen\' de hondenlosloopzones, mais de 40 zonas valladas sem trela na cidade, con áreas grandes em Rivierenhof e Nachtegalenpark.',
-        'As multas por excrementos caninos llegan a 350 €, e Amberes prueba o rastreo por ADN em algunos distritos, así que recoge sempre.',
-        'Muitos hotéis de Amberes cobran uma tarifa de 10-25 € por noite e cão; os hotéis-boutique de Het Zuid costumam ser os mais acogedores, pregunta pelos límites de tamanho al reservar.',
-        'Para cruzar aos Países Bajos con tu cão, Antwerpen-Centraal conecta directamente con Rotterdam e Ámsterdam em Intercity, con um NS Dagkaart Hond por 3,40 €.',
+        'Os elétricos e autocarros De Lijn aceitam cães por 1,80 € por trajeto (os cães pequenos em transportadora viajam grátis); o açaime não é obrigatório, a trela sim.',
+        'Descarrega o mapa \'Stad Antwerpen\' de hondenlosloopzones, mais de 40 zonas vedadas sem trela na cidade, com áreas grandes em Rivierenhof e Nachtegalenpark.',
+        'As multas por excrementos caninos chegam a 350 €, e Antuérpia testa o rastreio por ADN em alguns bairros, por isso apanha sempre.',
+        'Muitos hotéis de Antuérpia cobram uma taxa de 10-25 € por noite e cão; os hotéis-boutique de Het Zuid costumam ser os mais acolhedores, pergunta pelos limites de tamanho ao reservar.',
+        'Para passar aos Países Baixos com o teu cão, Antwerpen-Centraal liga diretamente a Roterdão e Amesterdão em Intercity, com um NS Dagkaart Hond por 3,40 €.',
       ],
     },
     practicalInfo: {
       fr: [
         'Aéroport principal : Brussels Airport (BRU) à 45 km ; Antwerp Airport (ANR) gère uniquement le court-courrier. Thalys et Eurostar desservent Antwerpen-Centraal, l\'une des plus belles gares d\'Europe.',
-        'Tout chien enregistré dans l\'UE doit disposer d\'un passeport européen, d\'une puce et d\'une vaccination antirabique valide (au moins 21 jours) pour entrer em Belgique.',
+        'Tout chien enregistré dans l\'UE doit disposer d\'un passeport européen, d\'une puce et d\'une vaccination antirabique valide (au moins 21 jours) pour entrer en Belgique.',
         'Meilleures saisons : mai-juin et septembre pour 18-22°C et parcs fleuris ; les hivers sont humides mais rarement sous zéro.',
         'Vétérinaire d\'urgence 24h/24 : Dierenkliniek Visserij (+32 3 449 55 51) et AniCura Kontich au sud pour les soins spécialisés.',
         'L\'eau du robinet est excellente et gratuite dans la plupart des cafés, demandez \'water voor de hond\' et on vous apportera une gamelle.',
@@ -2106,18 +2106,18 @@ const cityContent: Record<string, CityContent> = {
         'Tap water is excellent and free in most cafés, just ask for \'water voor de hond\' and you\'ll usually get a bowl.',
       ],
       es: [
-        'Aeropuerto principal: Brussels Airport (BRU) a 45 km; Antwerp Airport (ANR) solo opera vuelos curtos. Thalys y Eurostar llegan a Antwerpen-Centraal, una das estações más belas de Europa.',
-        'Todo perro registrado na UE necesita passaporte europeu, microchip y vacuna antirrábica vigente (mínimo 21 días) para entrar em Bélgica.',
+        'Aeropuerto principal: Brussels Airport (BRU) a 45 km; Antwerp Airport (ANR) solo opera vuelos cortos. Thalys y Eurostar llegan a Antwerpen-Centraal, una de las estaciones más bellas de Europa.',
+        'Todo perro registrado en la UE necesita pasaporte europeo, microchip y vacuna antirrábica vigente (mínimo 21 días) para entrar en Bélgica.',
         'Mejores temporadas: mayo-junio y septiembre por el clima suave de 18-22°C y los parques floridos; los inviernos son húmedos pero rara vez bajo cero.',
         'Urgencia veterinaria 24h: Dierenkliniek Visserij (+32 3 449 55 51) y AniCura Kontich al sur para atención especializada.',
-        'o agua del grifo es excelente y gratuita em casi todos los cafés, pide \'water voor de hond\' y te traerán un cuenco.',
+        'El agua del grifo es excelente y gratuita en casi todos los cafés, pide \'water voor de hond\' y te traerán un cuenco.',
       ],
       pt: [
-        'Aeroporto principal: Brussels Airport (BRU) a 45 km; Antwerp Airport (ANR) só opera voos curtos. Thalys e Eurostar llegan a Antwerpen-Centraal, uma das estações mais belas de Europa.',
-        'Todo cão registrado na UE necesita passaporte europeu, microchip e vacuna antirrábica vigente (mínimo 21 dias) para entrar em Bélgica.',
-        'Melhores temporadas: maio-junho e setembro pelo clima suave de 18-22°C e os parques floridos; os inviernos são húmedos mas rara vez sob cero.',
-        'Urgência veterinária 24h: Dierenkliniek Visserij (+32 3 449 55 51) e AniCura Kontich al sur para atención especializada.',
-        'O água do grifo é excelente e gratuita em quase todos os cafés, pide \'water voor de hond\' e te traerán um cuenco.',
+        'Aeroporto principal: Brussels Airport (BRU) a 45 km; Antwerp Airport (ANR) só opera voos curtos. Thalys e Eurostar chegam a Antwerpen-Centraal, uma das estações mais belas da Europa.',
+        'Todo o cão registado na UE necessita de passaporte europeu, microchip e vacina antirrábica válida (mínimo 21 dias) para entrar na Bélgica.',
+        'Melhores épocas: maio-junho e setembro pelo clima ameno de 18-22°C e os parques floridos; os invernos são húmidos mas raramente abaixo de zero.',
+        'Urgência veterinária 24h: Dierenkliniek Visserij (+32 3 449 55 51) e AniCura Kontich a sul para atenção especializada.',
+        'A água da torneira é excelente e gratuita em quase todos os cafés, pede \'water voor de hond\' e trazem-te uma tigela.',
       ],
     },
   },

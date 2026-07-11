@@ -24321,7 +24321,7 @@ const cityContent: Record<string, CityContent> = {
 
   lucca: {
     history: {
-      fr: `Lucca, ville toscane d'environ 89 000 habitants, fut fondée comme colonie romaine en 180 av. J.-C. (Luca) sur la Via Cassia. Elle devint un puissant centre marchand médiéval grâce à son monopole de la soie au XIIIe siècle, et se distingua surtout par sa singulière trajectoire politique : république indépendante de 1119 à 1799, elle ne fut jamais absorbée par la Toscane médicéenne, fait unique pour une ville toscane. Cette indépendance lui valut sa parure exceptionnelle : 4,2 km de murailles Renaissance bastionnées (1545-1650), parmi les mieux préservées d'Italie, transformées au XIXe siècle em promenade publique surmontée d'arbres. L'ovale de la Piazza dell'Anfiteatro épouse les fondations de l'amphithéâtre romain du IIe siècle, la Cathédrale San Martino romano-pisane abrite le Volto Santo, et la Tour Guinigi (XIVe s.) porte des chênes verts sur son toit, l'image emblématique de la ville. Lucca est aussi la ville natale de Giacomo Puccini. Pour les voyageurs avec chien, c'est sans doute la ville italienne la plus facile : centre fortifié sans voitures (ZTL), 4,2 km de remparts plats comme promenade quotidienne, culture trattoria détendue, et les plages canines de Versilia à 30 min em train.`,
+      fr: `Lucca, ville toscane d'environ 89 000 habitants, fut fondée comme colonie romaine en 180 av. J.-C. (Luca) sur la Via Cassia. Elle devint un puissant centre marchand médiéval grâce à son monopole de la soie au XIIIe siècle, et se distingua surtout par sa singulière trajectoire politique : république indépendante de 1119 à 1799, elle ne fut jamais absorbée par la Toscane médicéenne, fait unique pour une ville toscane. Cette indépendance lui valut sa parure exceptionnelle : 4,2 km de murailles Renaissance bastionnées (1545-1650), parmi les mieux préservées d'Italie, transformées au XIXe siècle en promenade publique surmontée d'arbres. L'ovale de la Piazza dell'Anfiteatro épouse les fondations de l'amphithéâtre romain du IIe siècle, la Cathédrale San Martino romano-pisane abrite le Volto Santo, et la Tour Guinigi (XIVe s.) porte des chênes verts sur son toit, l'image emblématique de la ville. Lucca est aussi la ville natale de Giacomo Puccini. Pour les voyageurs avec chien, c'est sans doute la ville italienne la plus facile : centre fortifié sans voitures (ZTL), 4,2 km de remparts plats comme promenade quotidienne, culture trattoria détendue, et les plages canines de Versilia à 30 min en train.`,
       en: `Lucca, a Tuscan city of about 89,000 inhabitants, was founded as a Roman colony in 180 BC (Luca) on the Via Cassia. It became a powerful medieval trading centre thanks to its 13th-century silk monopoly, and stood out above all for its singular political trajectory: an independent republic from 1119 to 1799, never absorbed by Medici Tuscany, unique among Tuscan cities. That independence earned it an exceptional crown: 4.2 km of bastioned Renaissance walls (1545-1650), among Italy's best-preserved, transformed in the 19th century into a tree-lined public promenade. The oval of the Piazza dell'Anfiteatro hugs the foundations of the 2nd-century Roman amphitheatre, the Romanesque-Pisan Cathedral of San Martino houses the Volto Santo, and the Guinigi Tower (14th c.) bears holm oaks on its roof, the city's iconic image. Lucca is also the birthplace of Giacomo Puccini. For travellers with a dog, it is arguably Italy's easiest city: car-free walled centre (ZTL), 4.2 km of flat ramparts as the daily walk, relaxed trattoria culture, and the Versilia dog beaches 30 min away by train.`,
       es: `Lucca, ciudad toscana de unos 89.000 habitantes, fue fundada como colonia romana en 180 a.C. (Luca) sobre la Via Cassia. Se convirtió en un poderoso centro comercial medieval gracias a su monopolio sedero del s. XIII, y destacó sobre todo por su singular trayectoria política: república independiente de 1119 a 1799, jamás absorbida por la Toscana de los Médici, caso único entre las ciudades toscanas. Esa independencia le valió un ornamento excepcional: 4,2 km de murallas renacentistas abaluartadas (1545-1650), de las mejor conservadas de Italia, transformadas en el s. XIX en paseo público arbolado. El óvalo de la Piazza dell'Anfiteatro abraza los cimientos del anfiteatro romano del s. II, la Catedral románico-pisana de San Martino guarda el Volto Santo, y la Torre Guinigi (s. XIV) lleva encinas en su tejado, la imagen icónica de la ciudad. Lucca es también la cuna de Giacomo Puccini. Para los viajeros con perro, es sin duda la ciudad italiana más fácil: centro amurallado sin coches (ZTL), 4,2 km de murallas llanas como paseo diario, cultura de trattorie relajada, y las playas caninas de Versilia a 30 min en tren.`,
       pt: `Lucca, cidade toscana de cerca de 89.000 habitantes, foi fundada como colónia romana em 180 a.C. (Luca) sobre a Via Cassia. Tornou-se um poderoso centro comercial medieval graças ao seu monopólio da seda no séc. XIII, e destacou-se sobretudo pela sua singular trajetória política: república independente de 1119 a 1799, nunca absorvida pela Toscana dos Médici, caso único entre as cidades toscanas. Essa independência valeu-lhe um adorno excecional: 4,2 km de muralhas renascentistas abaluartadas (1545-1650), entre as mais bem preservadas de Itália, transformadas no séc. XIX em passeio público arborizado. O oval da Piazza dell'Anfiteatro abraça os alicerces do anfiteatro romano do séc. II, a Catedral românico-pisana de San Martino guarda o Volto Santo, e a Torre Guinigi (séc. XIV) traz azinheiras no seu telhado, a imagem icónica da cidade. Lucca é também o berço de Giacomo Puccini. Para os viajantes com cão, é sem dúvida a cidade italiana mais fácil: centro amuralhado sem carros (ZTL), 4,2 km de muralhas planas como passeio diário, cultura de trattoria descontraída, e as praias caninas da Versilia a 30 min de comboio.`,
@@ -24332,7 +24332,7 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏰',
         petFriendly: true,
         desc: {
-          fr: `4,2 km de remparts Renaissance (1545-1650) parfaitement préservés transformés em promenade arborée. Plate, herbeuse, sans circulation, la promenade canine italienne la plus emblématique.`,
+          fr: `4,2 km de remparts Renaissance (1545-1650) parfaitement préservés transformés en promenade arborée. Plate, herbeuse, sans circulation, la promenade canine italienne la plus emblématique.`,
           en: `4.2 km of perfectly preserved Renaissance walls (1545-1650) turned into a tree-lined promenade. Flat, grassy, traffic-free, Italy's most emblematic dog walking promenade.`,
           es: `4,2 km de murallas renacentistas (1545-1650) perfectamente conservadas convertidas en paseo arbolado. Llano, con hierba, sin tráfico, el paseo canino italiano más emblemático.`,
           pt: `4,2 km de muralhas renascentistas (1545-1650) perfeitamente preservadas transformadas em passeio arborizado. Plano, com relva, sem trânsito, o passeio canino italiano mais emblemático.`,
@@ -24365,7 +24365,7 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛪',
         petFriendly: false,
         desc: {
-          fr: `Cathédrale romano-pisane commencée em 1063 avec sa fameuse façade asymétrique. Chiens interdits à l'intérieur (sauf chiens d'assistance), mais le portail droit avec son labyrinthe sculpté du XIIIe siècle est un beau spot photo extérieur.`,
+          fr: `Cathédrale romano-pisane commencée en 1063 avec sa fameuse façade asymétrique. Chiens interdits à l'intérieur (sauf chiens d'assistance), mais le portail droit avec son labyrinthe sculpté du XIIIe siècle est un beau spot photo extérieur.`,
           en: `Romanesque-Pisan cathedral started in 1063 with its famous asymmetric façade. Dogs not allowed inside (except assistance dogs), but the right portal with its 13th-century carved labyrinth is a beautiful outdoor photo spot.`,
           es: `Catedral románico-pisana iniciada en 1063 con su famosa fachada asimétrica. No se admiten perros en el interior (salvo perros de asistencia), pero el portal derecho con su laberinto tallado del s. XIII es un bonito punto fotográfico exterior.`,
           pt: `Catedral românico-pisana iniciada em 1063 com a sua famosa fachada assimétrica. Cães proibidos no interior (exceto cães de assistência), mas o portal direito com o seu labirinto esculpido do séc. XIII é um belo ponto fotográfico exterior.`,
@@ -24376,7 +24376,7 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌿',
         petFriendly: true,
         desc: {
-          fr: `Jardin botanique de 2 ha fondé em 1820 par Marie-Louise de Bourbon. Chiens en laisse admis, rare pour un jardin botanique italien. Le cèdre du Liban de 1822 est la pièce maîtresse.`,
+          fr: `Jardin botanique de 2 ha fondé en 1820 par Marie-Louise de Bourbon. Chiens en laisse admis, rare pour un jardin botanique italien. Le cèdre du Liban de 1822 est la pièce maîtresse.`,
           en: `2 ha botanical garden founded in 1820 by Maria Luisa di Borbone. Leashed dogs welcome, rare for an Italian botanical garden. The 1822 cedar of Lebanon is the showpiece.`,
           es: `Jardín botánico de 2 ha fundado en 1820 por María Luisa de Borbón. Perros con correa admitidos, raro en un jardín botánico italiano. El cedro del Líbano de 1822 es la pieza estrella.`,
           pt: `Jardim botânico de 2 ha fundado em 1820 por Maria Luísa de Bourbon. Cães com trela admitidos, raro num jardim botânico italiano. O cedro do Líbano de 1822 é a peça-mestra.`,
@@ -24387,7 +24387,7 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏖️',
         petFriendly: true,
         desc: {
-          fr: `Plages canines de la côte toscane à 25-30 km à l'ouest. Lido di Camaiore et Viareggio ont chacune des zones Bau-Beach signalées ouvertes toute l'année, accessibles em 20-30 min em train.`,
+          fr: `Plages canines de la côte toscane à 25-30 km à l'ouest. Lido di Camaiore et Viareggio ont chacune des zones Bau-Beach signalées ouvertes toute l'année, accessibles en 20-30 min en train.`,
           en: `Tuscan coast dog beaches 25-30 km west. Lido di Camaiore and Viareggio each have signed year-round Bau-Beach zones, reachable in 20-30 min by train.`,
           es: `Playas caninas de la costa toscana a 25-30 km al oeste. Lido di Camaiore y Viareggio tienen zonas Bau-Beach señalizadas todo el año, alcanzables en 20-30 min en tren.`,
           pt: `Praias caninas da costa toscana a 25-30 km a oeste. Lido di Camaiore e Viareggio têm zonas Bau-Beach sinalizadas o ano inteiro, alcançáveis em 20-30 min de comboio.`,
@@ -24399,8 +24399,8 @@ const cityContent: Record<string, CityContent> = {
         `Le centre fortifié est ZTL (zone à trafic limité), circulation quasi nulle, idéal pour chiens nerveux en ville.`,
         `La boucle de 4,2 km sur les murailles est l'incontournable promenade canine, plate, herbeuse, ombragée. Attention aux cyclistes.`,
         `Trenitalia régional pour Pise (30 min) ou Florence (1h20) : petits chiens en sac gratuits, grands chiens billet enfant + muselière.`,
-        `Plages canines de Versilia à 20-30 min em train direct, Lido di Camaiore et Viareggio signalées toute l'année.`,
-        `Lucca Comics & Games (dernière semaine d'octobre) sature la ville em 250 000 visiteurs, réservez l'hôtel des mois à l'avance ou évitez.`,
+        `Plages canines de Versilia à 20-30 min en train direct, Lido di Camaiore et Viareggio signalées toute l'année.`,
+        `Lucca Comics & Games (dernière semaine d'octobre) sature la ville avec 250 000 visiteurs, réservez l'hôtel des mois à l'avance ou évitez.`,
       ],
       en: [
         `The walled centre is ZTL (limited traffic zone), virtually no cars, ideal for city-nervous dogs.`,
@@ -24426,10 +24426,10 @@ const cityContent: Record<string, CityContent> = {
     },
     practicalInfo: {
       fr: [
-        `Vétérinaire d'urgence 24h/24 le plus proche : Ospedale Veterinario Pisa San Concordio, +39 050 985 2222 (30 min em voiture).`,
+        `Vétérinaire d'urgence 24h/24 le plus proche : Ospedale Veterinario Pisa San Concordio, +39 050 985 2222 (30 min en voiture).`,
         `Cabinet de jour central : Clinica Veterinaria Lucca Centro, Via dei Macelli 60, +39 0583 491 030`,
         `Trenitalia régional depuis Pise Centrale : 30 min ; depuis Florence SMN : 1h20.`,
-        `Aéroport le plus proche : Pise PSA (30 min em train ou taxi, 50 € forfait) ; Florence FLR (1h em voiture).`,
+        `Aéroport le plus proche : Pise PSA (30 min en train ou taxi, 50 € forfait) ; Florence FLR (1h en voiture).`,
       ],
       en: [
         `Closest 24/7 emergency vet: Ospedale Veterinario Pisa San Concordio, +39 050 985 2222 (30 min by car).`,

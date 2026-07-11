@@ -13191,10 +13191,10 @@ const cityContent: Record<string, CityContent> = {
 
   dresden: {
     history: {
-      fr: `Fondée vers 1206 sur les rives de l'Elbe, Dresde devint au XVIIIᵉ siècle la "Florence du Nord" sous l'électeur Auguste le Fort, qui fit du Zwinger, du Schloss et de la Frauenkirche les emblèmes d'une cour baroque parmi les plus brillantes d'Europe. Le bombardement allié de février 1945 anéantit le centre ; la reconstruction patiente de la Frauenkirche, achevée en 2005, symbolise la résurrection de la ville. Capitale de la Saxe et bordée par les Elbwiesen, prairies fluviales où les chiens courent sans laisse par usage,, Dresde combine patrimoine baroque, forêt urbaine de 5 800 hectares et une flotte historique de bateaux à aubes qui accueille les chiens sans supplément.`,
+      fr: `Fondée vers 1206 sur les rives de l'Elbe, Dresde devint au XVIIIᵉ siècle la "Florence du Nord" sous l'électeur Auguste le Fort, qui fit du Zwinger, du Schloss et de la Frauenkirche les emblèmes d'une cour baroque parmi les plus brillantes d'Europe. Le bombardement allié de février 1945 anéantit le centre ; la reconstruction patiente de la Frauenkirche, achevée en 2005, symbolise la résurrection de la ville. Capitale de la Saxe et bordée par les Elbwiesen, prairies fluviales où les chiens courent sans laisse par usage, Dresde combine patrimoine baroque, forêt urbaine de 5 800 hectares et une flotte historique de bateaux à aubes qui accueille les chiens sans supplément.`,
       en: `Founded around 1206 on the banks of the Elbe, Dresden became "Florence on the Elbe" in the 18th century under Elector Augustus the Strong, whose Zwinger, Schloss, and Frauenkirche made the city one of Europe's most brilliant baroque courts. The Allied bombing of February 1945 destroyed the centre; the patient reconstruction of the Frauenkirche, completed in 2005, has come to symbolise the city's rebirth. Capital of Saxony and lined by the Elbwiesen, river meadows where dogs run off-leash by long-standing custom, Dresden combines baroque heritage, a 5,800-hectare municipal forest, and a historic paddle-steamer fleet that welcomes dogs at no extra charge.`,
-      es: `fundada hacia 1206 a orillas del Elba, Dresde se convirtió na "Florencia del Elba" em el siglo XVIII bajo o elector Augusto el Fuerte, cuyos Zwinger, Schloss y Frauenkirche hicieron de a cidade una das cortes barrocas más brillantes de Europa. El bombardeo aliado de febrero de 1945 destruyó o centro; la paciente reconstrucción de la Frauenkirche, terminada en 2005, simboliza el renacer de a cidade. Capital de Sajonia y flanqueada por las Elbwiesen, praderas fluviales donde los perros corren sin trela por costumbre arraigada,, Dresde combina patrimonio barroco, un floresta urbano de 5.800 hectáreas y una flota histórica de vapores de paletas que admite perros sin coste extra.`,
-      pt: `fundada para 1206 a margens do Elba, Dresde tornou-se na "Florencia do Elba" no século XVIII sob o elector Augusto o Fuerte, cuyos Zwinger, Schloss e Frauenkirche fizeram da cidade uma das cortes barrocas mais brillantes de Europa. O bombardeo aliado de fevereiro de 1945 destruyó o centro; a paciente reconstrucción da Frauenkirche, terminada em 2005, simboliza o renacer da cidade. Capital de Sajonia e flanqueada pelas Elbwiesen, pradarias fluviales onde os cães corren sem trela por costumbre arraigada,, Dresde combina patrimonio barroco, um floresta urbano de 5.800 hectáreas e uma flota histórica de vapores de paletas que admite cães sem coste extra.`,
+      es: `Fundada hacia 1206 a orillas del Elba, Dresde se convirtió en la "Florencia del Elba" en el siglo XVIII bajo el elector Augusto el Fuerte, cuyos Zwinger, Schloss y Frauenkirche hicieron de la ciudad una de las cortes barrocas más brillantes de Europa. El bombardeo aliado de febrero de 1945 destruyó el centro; la paciente reconstrucción de la Frauenkirche, terminada en 2005, simboliza el renacer de la ciudad. Capital de Sajonia y flanqueada por las Elbwiesen, praderas fluviales donde los perros corren sin correa por costumbre arraigada, Dresde combina patrimonio barroco, un bosque urbano de 5.800 hectáreas y una flota histórica de vapores de paletas que admite perros sin coste extra.`,
+      pt: `Fundada por volta de 1206 nas margens do Elba, Dresden tornou-se na "Florença do Elba" no século XVIII sob o eleitor Augusto o Forte, cujos Zwinger, Schloss e Frauenkirche fizeram da cidade uma das cortes barrocas mais brilhantes da Europa. O bombardeamento aliado de fevereiro de 1945 destruiu o centro; a paciente reconstrução da Frauenkirche, concluída em 2005, simboliza o renascer da cidade. Capital da Saxónia e ladeada pelas Elbwiesen, prados fluviais onde os cães correm sem trela por costume enraizado, Dresden combina património barroco, uma floresta urbana de 5.800 hectares e uma frota histórica de barcos a vapor de rodas que aceita cães sem custo adicional.`,
     },
     sights: [
       {
@@ -13202,10 +13202,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛪',
         petFriendly: false,
         desc: {
-          fr: `La cathédrale baroque protestante reconstruite de 1994 à 2005 sur les ruines du bombardement de 1945, symbole le plus puissant de la résurrection de Dresde. L'intérieur n'admet que les chiens d'assistance, mais la place et la vue depuis la Brühlsche Terrasse sont accessibles em laisse à toute heure.`,
+          fr: `La cathédrale baroque protestante reconstruite de 1994 à 2005 sur les ruines du bombardement de 1945, symbole le plus puissant de la résurrection de Dresde. L'intérieur n'admet que les chiens d'assistance, mais la place et la vue depuis la Brühlsche Terrasse sont accessibles en laisse à toute heure.`,
           en: `The Baroque Protestant cathedral rebuilt from 1994 to 2005 on the ruins of the 1945 bombing, Dresden's most powerful symbol of resurrection. The interior admits only assistance dogs, but the square and the view from the Brühlsche Terrasse are accessible on leash at any time.`,
-          es: `Catedral barroca protestante reconstruida de 1994 a 2005 sobre las ruinas del bombardeo de 1945, el símbolo más potente del renacer de Dresde. o interior solo admite perros de asistencia, pero la plaza y la vista desde la Brühlsche Terrasse son acessíveis com trela a cualquier hora.`,
-          pt: `Catedral barroca protestante reconstruida de 1994 a 2005 sobre as ruinas do bombardeo de 1945, o símbolo mais potente do renacer de Dresde. O interior só admite cães de assistência, mas a praça e a vista a partir da Brühlsche Terrasse são acessíveis com trela a cualquier hora.`,
+          es: `Catedral barroca protestante reconstruida de 1994 a 2005 sobre las ruinas del bombardeo de 1945, el símbolo más potente del renacer de Dresde. El interior solo admite perros de asistencia, pero la plaza y la vista desde la Brühlsche Terrasse son accesibles con correa a cualquier hora.`,
+          pt: `Catedral barroca protestante reconstruída de 1994 a 2005 sobre as ruínas do bombardeamento de 1945, o símbolo mais poderoso do renascer de Dresden. O interior só admite cães de assistência, mas a praça e a vista a partir da Brühlsche Terrasse são acessíveis com trela a qualquer hora.`,
         },
       },
       {
@@ -13213,10 +13213,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏛️',
         petFriendly: true,
         desc: {
-          fr: `Palais baroque du XVIIIᵉ siècle, ancienne cour royale aujourd'hui musée. Les cours intérieures et les jardins sont accessibles aux chiens em laisse à toute heure ; les musées (Gemäldegalerie, Porzellansammlung, Mathematisch-Physikalischer Salon) n'admettent que les chiens d'assistance.`,
+          fr: `Palais baroque du XVIIIᵉ siècle, ancienne cour royale aujourd'hui musée. Les cours intérieures et les jardins sont accessibles aux chiens en laisse à toute heure ; les musées (Gemäldegalerie, Porzellansammlung, Mathematisch-Physikalischer Salon) n'admettent que les chiens d'assistance.`,
           en: `An 18th-century Baroque palace, the former royal court and now a museum complex. The inner courtyards and gardens are accessible to leashed dogs at any time; the museums (Old Masters Gallery, Porcelain Collection, Mathematics-Physics Salon) admit only assistance dogs.`,
-          es: `Palacio barroco del siglo XVIII, antiga corte real y hoy complejo museístico. Los patios interiores y los jardines son acessíveis a perros com trela a cualquier hora; los museos (Galería dos Maestros antigos, Colección de Porcelana, Salón Matemático-Físico) solo admiten perros de asistencia.`,
-          pt: `Palácio barroco do século XVIII, antiga corte real e hoy complejo museístico. Os patios interiores e os jardins são acessíveis a cães com trela a cualquier hora; os museus (Galería dois Maestros antigos, Colección de Porcelana, Salón Matemático-Físico) só admitem cães de assistência.`,
+          es: `Palacio barroco del siglo XVIII, antigua corte real y hoy complejo museístico. Los patios interiores y los jardines son accesibles a perros con correa a cualquier hora; los museos (Galería de los Maestros Antiguos, Colección de Porcelana, Salón Matemático-Físico) solo admiten perros de asistencia.`,
+          pt: `Palácio barroco do século XVIII, antiga corte real e hoje complexo museológico. Os pátios interiores e os jardins são acessíveis a cães com trela a qualquer hora; os museus (Galeria dos Mestres Antigos, Coleção de Porcelana, Salão Matemático-Físico) só admitem cães de assistência.`,
         },
       },
       {
@@ -13224,10 +13224,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌅',
         petFriendly: true,
         desc: {
-          fr: `Promenade surélevée surnommée "balcon de l'Europe", entre l'Augustusbrücke et le Carolabrücke. Ouverte jour et nuit, avec escaliers descendant aux Elbwiesen, couvre l'essentiel de la silhouette dite de Canaletto em une boucle de 20 minutes em laisse.`,
+          fr: `Promenade surélevée surnommée "balcon de l'Europe", entre l'Augustusbrücke et le Carolabrücke. Ouverte jour et nuit, avec escaliers descendant aux Elbwiesen, couvre l'essentiel de la silhouette dite de Canaletto en une boucle de 20 minutes en laisse.`,
           en: `An elevated riverside promenade nicknamed the "Balcony of Europe", running between the Augustusbrücke and the Carolabrücke. Open day and night, with stairs down to the Elbwiesen, covers most of the famous Canaletto-view skyline in a leashed 20-minute loop.`,
-          es: `Paseo elevado a orillas del río apodado "Balcón de Europa", entre o Augustusbrücke y el Carolabrücke. Abierto día y noche, con escaleras hasta las Elbwiesen: cubre casi todo el perfil canalettiano em una vuelta de 20 minutos com trela.`,
-          pt: `Passeio elevado a margens do rio apodado "Varanda de Europa", entre o Augustusbrücke e o Carolabrücke. Aberto dia e noite, com escaleras até as Elbwiesen: cubre quase todo o perfil canalettiano numa vuelta de 20 minutos com trela.`,
+          es: `Paseo elevado a orillas del río apodado "Balcón de Europa", entre el Augustusbrücke y el Carolabrücke. Abierto día y noche, con escaleras hasta las Elbwiesen: cubre casi todo el perfil canalettiano en una vuelta de 20 minutos con correa.`,
+          pt: `Passeio elevado à beira-rio apelidado de "Varanda da Europa", entre o Augustusbrücke e o Carolabrücke. Aberto dia e noite, com escadas até às Elbwiesen: cobre quase todo o perfil canalettiano numa volta de 20 minutos com trela.`,
         },
       },
       {
@@ -13235,10 +13235,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌳',
         petFriendly: true,
         desc: {
-          fr: `Parc baroque central de 147 hectares, dessiné en 1676. Chiens em laisse autorisés dans tout le parc (sauf le Jardin botanique). Idéal pour une promenade régulière em plein centre, avec terrasse de café accueillante au Carolasee.`,
+          fr: `Parc baroque central de 147 hectares, dessiné en 1676. Chiens en laisse autorisés dans tout le parc (sauf le Jardin botanique). Idéal pour une promenade régulière en plein centre, avec terrasse de café accueillante au Carolasee.`,
           en: `A 147-hectare central Baroque park laid out in 1676. Leashed dogs welcome throughout the park (except the Botanical Garden). Ideal for a regular walk right in the centre, with a dog-welcoming café terrace at the Carolasee lake.`,
-          es: `Parque barroco central de 147 hectáreas, trazado en 1676. Perros com trela permitidos em todo o parque (salvo el Jardín Botánico). Ideal para un paseo habitual em pleno centro, con terraza de café que admite perros junto al Carolasee.`,
-          pt: `Parque barroco central de 147 hectáreas, trazado em 1676. Cães com trela permitidos em todo o parque (salvo o Jardim Botánico). Ideal para um passeio habitual em pleno centro, com esplanada de café que admite cães junto al Carolasee.`,
+          es: `Parque barroco central de 147 hectáreas, trazado en 1676. Perros con correa permitidos en todo el parque (salvo el Jardín Botánico). Ideal para un paseo habitual en pleno centro, con terraza de café que admite perros junto al Carolasee.`,
+          pt: `Parque barroco central de 147 hectares, traçado em 1676. Cães com trela permitidos em todo o parque (exceto o Jardim Botânico). Ideal para um passeio habitual em pleno centro, com esplanada de café que aceita cães junto ao Carolasee.`,
         },
       },
       {
@@ -13248,8 +13248,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Larges prairies herbeuses bordant les deux rives de l'Elbe à travers le centre de Dresde. Les chiens y courent sans laisse par usage local sur la bande herbeuse, entre la rivière et la piste cyclable. Le tronçon Carolabrücke–Albertbrücke est le plus large.`,
           en: `Wide grass meadows lining both banks of the Elbe through central Dresden. Dogs run off-leash by local custom on the grass strip between the river and the cycle path. The Carolabrücke–Albertbrücke stretch is the widest.`,
-          es: `amplas praderas herbosas que flanquean ambas orillas del Elba a su paso por o centro de Dresde. Los perros corren sin trela por costumbre local na franja entre o rio y el carril bici. El tramo Carolabrücke–Albertbrücke es el más amplo.`,
-          pt: `amplas pradarias herbosas que flanquean ambas margens do Elba a su paso pelo centro de Dresde. Os cães corren sem trela por costumbre local na franja entre o rio e o carril bici. O tramo Carolabrücke–Albertbrücke é o mais amplo.`,
+          es: `Amplias praderas herbosas que flanquean ambas orillas del Elba a su paso por el centro de Dresde. Los perros corren sin correa por costumbre local en la franja entre el río y el carril bici. El tramo Carolabrücke–Albertbrücke es el más amplio.`,
+          pt: `Amplos prados relvados que ladeiam ambas as margens do Elba ao atravessar o centro de Dresden. Os cães correm sem trela por costume local na faixa de relva entre o rio e a ciclovia. O troço Carolabrücke–Albertbrücke é o mais largo.`,
         },
       },
       {
@@ -13257,20 +13257,20 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏯',
         petFriendly: true,
         desc: {
-          fr: `Parc du château romantique sur la rive est de l'Elbe, accessible em bateau à aubes ou em bus 63. Tout le parc est ouvert aux chiens em laisse ; les bâtiments (musée, palmeraie, serre aux camélias) restent réservés aux chiens d'assistance.`,
+          fr: `Parc du château romantique sur la rive est de l'Elbe, accessible en bateau à aubes ou en bus 63. Tout le parc est ouvert aux chiens en laisse ; les bâtiments (musée, palmeraie, serre aux camélias) restent réservés aux chiens d'assistance.`,
           en: `Romantic palace park on the eastern bank of the Elbe, reachable by paddle steamer or bus 63. The entire park is open to leashed dogs; the buildings (museum, palm house, camellia house) remain assistance-dog-only.`,
-          es: `Parque del palacio romántico na orilla este del Elba, acessível em vapor de paletas o em autobús 63. Todo o parque está abierto a perros com trela; los edificios (museo, palmeral, casa das camelias) solo admiten perros de asistencia.`,
-          pt: `Parque do palácio romántico na margem este do Elba, acessível em vapor de paletas o de autocarro 63. Todo o parque está aberto a cães com trela; os edifícios (museu, palmeral, casa das camelias) só admitem cães de assistência.`,
+          es: `Parque del palacio romántico en la orilla este del Elba, accesible en vapor de paletas o en autobús 63. Todo el parque está abierto a perros con correa; los edificios (museo, palmeral, casa de las camelias) solo admiten perros de asistencia.`,
+          pt: `Parque do palácio romântico na margem este do Elba, acessível de barco a vapor de rodas ou de autocarro 63. Todo o parque está aberto a cães com trela; os edifícios (museu, palmeiral, casa das camélias) só admitem cães de assistência.`,
         },
       },
     ],
     petTips: {
       fr: [
-        `Dans les trams et bus DVB, les chiens hors cage doivent porter une muselière et être tenus em laisse courte, amende de 20 € si la muselière manque.`,
+        `Dans les trams et bus DVB, les chiens hors cage doivent porter une muselière et être tenus en laisse courte, amende de 20 € si la muselière manque.`,
         `Sur les Elbwiesen, les chiens courent sans laisse par usage local, restez sur la bande herbeuse entre rivière et piste cyclable, et hors des Wasserschutzbereiche balisés.`,
-        `La Dresdner Heide est em laisse obligatoire du 1er mars au 30 juin (saison de nidification) ; le reste de l'année, sentiers Hundeauslauf balisés.`,
-        `Les bateaux à aubes de la Sächsische Dampfschifffahrt acceptent les chiens em laisse courte sans supplément, la ligne Pillnitz monte à travers les vignobles.`,
-        `Numéro central d'urgence vétérinaire : 01805 843736 (rotation Tierärztlicher Notdienst Dresden) ; supplément urgence de 50 € HT em plus des honoraires.`,
+        `La Dresdner Heide est en laisse obligatoire du 1er mars au 30 juin (saison de nidification) ; le reste de l'année, sentiers Hundeauslauf balisés.`,
+        `Les bateaux à aubes de la Sächsische Dampfschifffahrt acceptent les chiens en laisse courte sans supplément, la ligne Pillnitz monte à travers les vignobles.`,
+        `Numéro central d'urgence vétérinaire : 01805 843736 (rotation Tierärztlicher Notdienst Dresden) ; supplément urgence de 50 € HT en plus des honoraires.`,
       ],
       en: [
         `On DVB trams and buses, dogs outside a carrier must wear a muzzle and be on a short leash, €20 fine for a missing muzzle.`,
@@ -13280,27 +13280,27 @@ const cityContent: Record<string, CityContent> = {
         `central emergency vet number: 01805 843736 (Tierärztlicher Notdienst Dresden rotation); €50 net emergency surcharge added to standard fees.`,
       ],
       es: [
-        `em los tranvías y autobuses DVB, los perros fuera de transportín deben llevar bozal y trela curta: multa de 20 € si falta el bozal.`,
-        `em las Elbwiesen, los perros corren sin trela por costumbre local: mantente na franja de hierba entre o rio y el carril bici y fuera dos Wasserschutzbereiche señalizados.`,
-        `La Dresdner Heide es de trela obrigatória del 1 de marzo ao 30 de junio (temporada de cría); el resto del año, senderos Hundeauslauf señalizados.`,
-        `Los vapores de paletas de Sächsische Dampfschifffahrt admiten perros com trela curta sin coste extra: la línea aguas arriba a Pillnitz pasa por los viñedos.`,
-        `número central de urgencias veterinarias: 01805 843736 (rotación Tierärztlicher Notdienst Dresden); recargo de urgencia de 50 € netos sobre honorarios estándar.`,
+        `En los tranvías y autobuses DVB, los perros fuera de transportín deben llevar bozal y correa corta: multa de 20 € si falta el bozal.`,
+        `En las Elbwiesen, los perros corren sin correa por costumbre local: mantente en la franja de hierba entre el río y el carril bici y fuera de los Wasserschutzbereiche señalizados.`,
+        `La Dresdner Heide es de correa obligatoria del 1 de marzo al 30 de junio (temporada de cría); el resto del año, senderos Hundeauslauf señalizados.`,
+        `Los vapores de paletas de Sächsische Dampfschifffahrt admiten perros con correa corta sin coste extra: la línea aguas arriba a Pillnitz pasa por los viñedos.`,
+        `Número central de urgencias veterinarias: 01805 843736 (rotación Tierärztlicher Notdienst Dresden); recargo de urgencia de 50 € netos sobre honorarios estándar.`,
       ],
       pt: [
-        `Nos elétricos e autocarros DVB, os cães fora de transportadora deben levar bozal e trela curta: multa de 20 € si falta o bozal.`,
-        `Nas Elbwiesen, os cães corren sem trela por costumbre local: mantente na franja de hierba entre o rio e o carril bici e fora dos Wasserschutzbereiche señalizados.`,
-        `A Dresdner Heide é de trela obrigatória do 1 de março ao 30 de junho (temporada de cría); o resto do ano, trilhos Hundeauslauf señalizados.`,
-        `Os vapores de paletas de Sächsische Dampfschifffahrt admiten cães com trela curta sem coste extra: a línea águas arriba a Pillnitz pasa pelos viñedos.`,
-        `número central de urgências veterinárias: 01805 843736 (rotación Tierärztlicher Notdienst Dresden); recargo de urgência de 50 € netos sobre honorarios estándar.`,
+        `Nos elétricos e autocarros DVB, os cães fora de transportadora devem usar açaimo e trela curta: multa de 20 € se faltar o açaimo.`,
+        `Nas Elbwiesen, os cães correm sem trela por costume local: mantenha-se na faixa de relva entre o rio e a ciclovia e fora dos Wasserschutzbereiche sinalizados.`,
+        `A Dresdner Heide é de trela obrigatória de 1 de março a 30 de junho (época de nidificação); o resto do ano, trilhos Hundeauslauf sinalizados.`,
+        `Os barcos a vapor de rodas da Sächsische Dampfschifffahrt aceitam cães com trela curta sem custo adicional: a linha rio acima até Pillnitz passa pelos vinhedos.`,
+        `Número central de urgências veterinárias: 01805 843736 (rotação Tierärztlicher Notdienst Dresden); sobretaxa de urgência de 50 € líquidos sobre os honorários habituais.`,
       ],
     },
     practicalInfo: {
       fr: [
-        `Passeport européen pour animaux et vaccin antirabique em cours requis dans tous les hôtels pet-friendly au check-in.`,
+        `Passeport européen pour animaux et vaccin antirabique en cours requis dans tous les hôtels pet-friendly au check-in.`,
         `Laisse obligatoire dans tout l'espace public hors Hundeauslauf et Elbwiesen ; déjections à ramasser obligatoirement, amendes à partir de 20 €.`,
         `Zwinger, Albertinum, Residenzschloss et Frauenkirche n'admettent que les chiens d'assistance, réservez un Pawshake ou un Rover si besoin de visiter.`,
         `Notdienst hors horaires (Tierärztlicher Notdienst Dresden) : appelez le 01805 843736, la rotation des cabinets de garde est mise à jour chaque semaine.`,
-        `Aéroport le plus proche : Dresden International (DRS), 9 km du centre ; sinon, Berlin BER em train ICE direct (2h15).`,
+        `Aéroport le plus proche : Dresden International (DRS), 9 km du centre ; sinon, Berlin BER en train ICE direct (2h15).`,
       ],
       en: [
         `EU pet passport and current rabies vaccination required at check-in in every pet-friendly hotel.`,
@@ -13310,18 +13310,18 @@ const cityContent: Record<string, CityContent> = {
         `Closest airport: Dresden International (DRS), 9 km from the centre; otherwise Berlin BER on a direct ICE train (2 h 15).`,
       ],
       es: [
-        `passaporte europeu de mascota y vacuna antirrábica vigente requeridos em el check-in de todos los hoteles pet-friendly.`,
-        `trela obrigatória em todo o espacio público fuera das zonas Hundeauslauf y das Elbwiesen: hay que recoger las heces, multas desde 20 €.`,
+        `Pasaporte europeo de mascota y vacuna antirrábica vigente requeridos en el check-in de todos los hoteles pet-friendly.`,
+        `Correa obligatoria en todo el espacio público fuera de las zonas Hundeauslauf y de las Elbwiesen: hay que recoger las heces, multas desde 20 €.`,
         `Zwinger, Albertinum, Residenzschloss y Frauenkirche solo admiten perros de asistencia: reserva un cuidador Pawshake o Rover si necesitas visitar.`,
-        `Urgencia fuera de horario (Tierärztlicher Notdienst Dresden): llama ao 01805 843736, la rotación de la clínica de guardia se actualiza semanalmente.`,
-        `Aeropuerto más cercano: Dresden International (DRS), 9 km del centro; alternativa, Berlín BER em tren ICE directo (2 h 15).`,
+        `Urgencia fuera de horario (Tierärztlicher Notdienst Dresden): llama al 01805 843736, la rotación de la clínica de guardia se actualiza semanalmente.`,
+        `Aeropuerto más cercano: Dresden International (DRS), 9 km del centro; alternativa, Berlín BER en tren ICE directo (2 h 15).`,
       ],
       pt: [
-        `passaporte europeu de animal e vacuna antirrábica vigente requeridos no check-in de todos os hotéis pet-friendly.`,
-        `trela obrigatória em todo o espacio público fora das zonas Hundeauslauf e das Elbwiesen: hay que recoger as heces, multas a partir de 20 €.`,
-        `Zwinger, Albertinum, Residenzschloss e Frauenkirche só admiten cães de assistência: reserva um cuidador Pawshake o Rover si necesitas visitar.`,
-        `Urgência fora de horario (Tierärztlicher Notdienst Dresden): chama ao 01805 843736, a rotación da clínica de guardia se actualiza semanalmente.`,
-        `Aeroporto mais cercano: Dresden International (DRS), 9 km do centro; alternativa, Berlín BER de comboio ICE directo (2 h 15).`,
+        `Passaporte europeu de animal e vacina antirrábica válida exigidos no check-in de todos os hotéis pet-friendly.`,
+        `Trela obrigatória em todo o espaço público fora das zonas Hundeauslauf e das Elbwiesen: é obrigatório recolher as fezes, multas a partir de 20 €.`,
+        `Zwinger, Albertinum, Residenzschloss e Frauenkirche só admitem cães de assistência: reserve um cuidador Pawshake ou Rover se precisar de visitar.`,
+        `Urgência fora de horário (Tierärztlicher Notdienst Dresden): ligue para o 01805 843736, a rotação da clínica de urgência é atualizada semanalmente.`,
+        `Aeroporto mais próximo: Dresden International (DRS), 9 km do centro; em alternativa, Berlim BER de comboio ICE direto (2 h 15).`,
       ],
     },
   },

@@ -17429,10 +17429,10 @@ const cityContent: Record<string, CityContent> = {
 
   graz: {
     history: {
-      fr: `Graz, capitale de la Styrie et deuxième ville d'Autriche avec environ 290 000 habitants, fut résidence impériale des Habsbourg de 1379 à 1619, époque qui lui légua sa concentration unique de palais Renaissance et baroques. Son centre historique de 1 km² est, selon l'UNESCO qui l'a inscrit en 1999 (étendu en 2010 au château d'Eggenberg), le plus grand ensemble Renaissance préservé d'Europe centrale. Le Schlossberg, colline de 123 m couronnée par l'Uhrturm gothique (1265), domine la ville et fournit le symbole le plus reconnaissable de Graz. Ville universitaire (50 000 étudiants sur 290 000 habitants), Graz est jeune, détendue et pet-positive : la culture Wirtshaus accueille les chiens à l'intérieur, le tram et le funiculaire du Schlossberg les acceptent, et la ville compte plusieurs Hundezonen clôturées. À 2h30 de Vienne em Railjet, c'est l'une des villes autrichiennes les plus faciles avec un chien, et la plus dog-friendly après Salzbourg.`,
+      fr: `Graz, capitale de la Styrie et deuxième ville d'Autriche avec environ 290 000 habitants, fut résidence impériale des Habsbourg de 1379 à 1619, époque qui lui légua sa concentration unique de palais Renaissance et baroques. Son centre historique de 1 km² est, selon l'UNESCO qui l'a inscrit en 1999 (étendu en 2010 au château d'Eggenberg), le plus grand ensemble Renaissance préservé d'Europe centrale. Le Schlossberg, colline de 123 m couronnée par l'Uhrturm gothique (1265), domine la ville et fournit le symbole le plus reconnaissable de Graz. Ville universitaire (50 000 étudiants sur 290 000 habitants), Graz est jeune, détendue et pet-positive : la culture Wirtshaus accueille les chiens à l'intérieur, le tram et le funiculaire du Schlossberg les acceptent, et la ville compte plusieurs Hundezonen clôturées. À 2h30 de Vienne en Railjet, c'est l'une des villes autrichiennes les plus faciles avec un chien, et la plus dog-friendly après Salzbourg.`,
       en: `Graz, capital of Styria and Austria's second city with about 290,000 inhabitants, was a Habsburg imperial residence from 1379 to 1619, an era that left it a unique concentration of Renaissance and Baroque palaces. Its 1 km² historic centre is, according to the UNESCO listing of 1999 (extended in 2010 to Schloss Eggenberg), the largest preserved Renaissance ensemble in central Europe. The Schlossberg, a 123 m wooded hill crowned by the Gothic Uhrturm clock tower (1265), dominates the city and provides Graz's most recognisable symbol. A university city (50,000 students out of 290,000 inhabitants), Graz is young, relaxed and pet-positive: Wirtshaus culture welcomes dogs indoors, trams and the Schlossberg funicular accept them, and the city has several fenced Hundezonen. Just 2h30 from Vienna by Railjet, it is one of Austria's easiest cities to visit with a dog, and the most dog-friendly after Salzburg.`,
-      es: `Graz, capital de Estiria y segunda ciudad de Austria con unos 290.000 habitantes, fue residencia imperial dos Habsburgo de 1379 a 1619, una era que le dejó una concentración única de palacios renacentistas y barrocos. Su casco histórico de 1 km² es, según la declaración UNESCO de 1999 (ampliada en 2010 al castillo de Eggenberg), el mayor conjunto renacentista conservado de Europa central. El Schlossberg, colina boscosa de 123 m coronada por la torre del reloj gótica Uhrturm (1265), domina a cidade y aporta el símbolo más reconocible de Graz. Ciudad universitaria (50.000 estudiantes de 290.000 habitantes), Graz es joven, relajada y pet-positive: la cultura Wirtshaus admite perros em o interior, los tranvías y el funicular del Schlossberg los aceptan, y a cidade cuenta con varias Hundezonen valladas. A 2h30 de Viena em Railjet, es una das ciudades austriacas más fáceis para visitar con perro, y la más pet-friendly después de Salzburgo.`,
-      pt: `Graz, capital de Estiria e segunda cidade de Austria com uns 290.000 habitantes, foi residencia imperial dois Habsburgo de 1379 a 1619, uma era que le dejó uma concentración única de palácios renacentistas e barrocos. Su casco histórico de 1 km² é, segundo a declaración UNESCO de 1999 (ampliada em 2010 al castelo de Eggenberg), o mayor conjunto renascentista conservado de Europa central. O Schlossberg, colina boscosa de 123 m coronada pela torre do reloj gótica Uhrturm (1265), domina a cidade e aporta o símbolo mais reconocible de Graz. Cidade universitaria (50.000 estudantes de 290.000 habitantes), Graz é jovem, relajada e pet-positive: a cultura Wirtshaus admite cães no interior, os elétricos e o funicular do Schlossberg os aceitam, e a cidade tem com várias Hundezonen valladas. A 2h30 de Viena em Railjet, é uma das as cidades austriacas mais fáceis para visitar com cão, e a mais pet-friendly depois de Salzburgo.`,
+      es: `Graz, capital de Estiria y segunda ciudad de Austria con unos 290.000 habitantes, fue residencia imperial de los Habsburgo de 1379 a 1619, una era que le dejó una concentración única de palacios renacentistas y barrocos. Su casco histórico de 1 km² es, según la declaración UNESCO de 1999 (ampliada en 2010 al castillo de Eggenberg), el mayor conjunto renacentista conservado de Europa central. El Schlossberg, colina boscosa de 123 m coronada por la torre del reloj gótica Uhrturm (1265), domina la ciudad y aporta el símbolo más reconocible de Graz. Ciudad universitaria (50.000 estudiantes de 290.000 habitantes), Graz es joven, relajada y pet-positive: la cultura Wirtshaus admite perros en el interior, los tranvías y el funicular del Schlossberg los aceptan, y la ciudad cuenta con varias Hundezonen valladas. A 2h30 de Viena en Railjet, es una de las ciudades austriacas más fáciles para visitar con perro, y la más pet-friendly después de Salzburgo.`,
+      pt: `Graz, capital da Estíria e segunda cidade da Áustria com cerca de 290.000 habitantes, foi residência imperial dos Habsburgo de 1379 a 1619, uma era que lhe deixou uma concentração única de palácios renascentistas e barrocos. O seu centro histórico de 1 km² é, segundo a classificação da UNESCO de 1999 (alargada em 2010 ao castelo de Eggenberg), o maior conjunto renascentista preservado da Europa central. O Schlossberg, colina arborizada de 123 m coroada pela torre do relógio gótica Uhrturm (1265), domina a cidade e oferece o símbolo mais reconhecível de Graz. Cidade universitária (50.000 estudantes em 290.000 habitantes), Graz é jovem, descontraída e acolhedora para animais: a cultura Wirtshaus recebe cães no interior, os elétricos e o funicular do Schlossberg aceitam-nos, e a cidade tem várias Hundezonen vedadas. A 2h30 de Viena de comboio Railjet, é uma das cidades austríacas mais fáceis de visitar com cão, e a mais acolhedora para cães depois de Salzburgo.`,
     },
     sights: [
       {
@@ -17440,10 +17440,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🕰️',
         petFriendly: true,
         desc: {
-          fr: `Colline boisée de 123 m au cœur de l'Altstadt UNESCO, couronnée par l'iconique tour d'horloge Uhrturm (1265). Sentiers, terrasses et belvédères ouverts aux chiens em laisse ; funiculaire Schlossbergbahn gratuit pour les chiens.`,
+          fr: `Colline boisée de 123 m au cœur de l'Altstadt UNESCO, couronnée par l'iconique tour d'horloge Uhrturm (1265). Sentiers, terrasses et belvédères ouverts aux chiens en laisse ; funiculaire Schlossbergbahn gratuit pour les chiens.`,
           en: `123 m wooded hill at the heart of the UNESCO Altstadt, crowned by the iconic Uhrturm clock tower (1265). Paths, terraces and viewpoints open to leashed dogs; the Schlossbergbahn funicular is free for dogs.`,
-          es: `Colina boscosa de 123 m em el coração de a Altstadt UNESCO, coronada por a icónica torre del reloj Uhrturm (1265). Senderos, terrazas y miradores admiten perros com trela; el funicular Schlossbergbahn es gratis para perros.`,
-          pt: `Colina boscosa de 123 m no coração da Altstadt UNESCO, coronada pela icónica torre do reloj Uhrturm (1265). Trilhos, esplanadas e miradores admitem cães com trela; o funicular Schlossbergbahn é grátis para cães.`,
+          es: `Colina boscosa de 123 m en el corazón de la Altstadt UNESCO, coronada por la icónica torre del reloj Uhrturm (1265). Senderos, terrazas y miradores admiten perros con correa; el funicular Schlossbergbahn es gratis para perros.`,
+          pt: `Colina arborizada de 123 m no coração da Altstadt UNESCO, coroada pela icónica torre do relógio Uhrturm (1265). Trilhos, esplanadas e miradouros admitem cães com trela; o funicular Schlossbergbahn é grátis para cães.`,
         },
       },
       {
@@ -17454,7 +17454,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `Place principale au pied du Schlossberg, dominée par le Rathaus néo-Renaissance (1893). Marché alimentaire du samedi matin (6h–13h), la meilleure ambiance avec un chien.`,
           en: `Main square at the foot of the Schlossberg, dominated by the neo-Renaissance Rathaus (1893). Saturday morning food market (06:00–13:00), the best atmosphere with a dog.`,
           es: `Plaza principal a los pies del Schlossberg, dominada por el Rathaus neorrenacentista (1893). Mercado de productos del sábado por la mañana (06:00–13:00), el mejor ambiente con perro.`,
-          pt: `Praça principal aos pies do Schlossberg, dominada pelo Rathaus neorrenacentista (1893). Mercado de productos do sábado pela manhã (06:00–13:00), o melhor ambiente com cão.`,
+          pt: `Praça principal aos pés do Schlossberg, dominada pelo Rathaus neorrenascentista (1893). Mercado de produtos do sábado de manhã (06:00–13:00), o melhor ambiente com cão.`,
         },
       },
       {
@@ -17462,10 +17462,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏝️',
         petFriendly: true,
         desc: {
-          fr: `Île artificielle em acier et verre flottant sur la Mur, dessinée par Vito Acconci pour Graz Capitale de la culture 2003. Ouverte 24h/24 aux chiens em laisse ; café avec terrasse pet-friendly.`,
+          fr: `Île artificielle en acier et verre flottant sur la Mur, dessinée par Vito Acconci pour Graz Capitale de la culture 2003. Ouverte 24h/24 aux chiens en laisse ; café avec terrasse pet-friendly.`,
           en: `Floating steel-and-glass artificial island on the Mur, designed by Vito Acconci for Graz's 2003 Capital of Culture year. Open 24/7 to leashed dogs; café with pet-friendly terrace.`,
-          es: `Isla artificial de acero y vidrio flotando sobre el Mur, desenhada por Vito Acconci para o año Capital de la Cultura 2003. Abierta 24h a perros com trela; café con terraza pet-friendly.`,
-          pt: `Ilha artificial de aço e vidro flotando sobre o Mur, desenhada por Vito Acconci para o ano Capital da Cultura 2003. Aberta 24h a cães com trela; café com esplanada pet-friendly.`,
+          es: `Isla artificial de acero y vidrio flotando sobre el Mur, diseñada por Vito Acconci para el año Capital de la Cultura 2003. Abierta 24h a perros con correa; café con terraza pet-friendly.`,
+          pt: `Ilha artificial de aço e vidro a flutuar sobre o Mur, desenhada por Vito Acconci para o ano Capital da Cultura de 2003. Aberta 24h a cães com trela; café com esplanada pet-friendly.`,
         },
       },
       {
@@ -17475,8 +17475,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Parc central de 23 ha à l'est de l'Altstadt, aménagé en 1869 sur les anciennes murailles. Hundezone clôturée dans le coin sud-est, le meilleur off-leash du centre de Graz.`,
           en: `central park of 23 ha east of the Altstadt, laid out 1869 on the old defensive walls. Fenced Hundezone in the south-east corner, the best off-leash spot in central Graz.`,
-          es: `Parque central de 23 ha al este de a Altstadt, trazado en 1869 sobre las antigas murallas. Hundezone vallada em o extremo sureste, el mejor sin trela del centro de Graz.`,
-          pt: `Parque central de 23 tem a leste da Altstadt, trazado em 1869 sobre as antigas muralhas. Hundezone vallada no extremo sureste, o melhor sem trela do centro de Graz.`,
+          es: `Parque central de 23 ha al este de la Altstadt, trazado en 1869 sobre las antiguas murallas. Hundezone vallada en el extremo sureste, el mejor sin correa del centro de Graz.`,
+          pt: `Parque central de 23 ha a leste da Altstadt, traçado em 1869 sobre as antigas muralhas. Hundezone vedada no extremo sudeste, o melhor sem trela do centro de Graz.`,
         },
       },
       {
@@ -17486,8 +17486,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Cathédrale gothique du XVe siècle et Mausolée Ferdinand II baroque adjacent. Chiens interdits dans les deux intérieurs (sauf chiens d'assistance), mais les places et la cour Renaissance du Landhaushof voisin sont accessibles.`,
           en: `15th-century Gothic cathedral and the adjacent Baroque Mausoleum of Ferdinand II. Dogs not allowed in either interior (except assistance dogs), but the surrounding squares and the Renaissance Landhaushof courtyard nearby are open.`,
-          es: `Catedral gótica del s. XV y Mausoleo barroco de Fernando II adyacente. No se admiten perros em ninguno dos interiores (salvo perros de asistencia), pero las plazas circundantes y el patio renacentista del Landhaushof cercano son acessíveis.`,
-          pt: `Catedral gótica do s. XV e Mausoleo barroco de Fernando II adyacente. No se admitem cães em ninguno dois interiores (salvo cães de assistência), mas as praças circundantes e o patio renascentista do Landhaushof cercano são acessíveis.`,
+          es: `Catedral gótica del s. XV y Mausoleo barroco de Fernando II adyacente. No se admiten perros en ninguno de los interiores (salvo perros de asistencia), pero las plazas circundantes y el patio renacentista del Landhaushof cercano son accesibles.`,
+          pt: `Catedral gótica do séc. XV e Mausoléu barroco de Fernando II adjacente. Não se admitem cães em nenhum dos interiores (salvo cães de assistência), mas as praças circundantes e o pátio renascentista do Landhaushof próximo estão acessíveis.`,
         },
       },
       {
@@ -17495,18 +17495,18 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏰',
         petFriendly: true,
         desc: {
-          fr: `Château baroque (1635) à l'ouest de la ville, inscrit à l'UNESCO en 2010. Parc paysager de 90 ha avec paons em liberté ; chiens em laisse admis dans le parc mais pas dans les Salles d'apparat.`,
+          fr: `Château baroque (1635) à l'ouest de la ville, inscrit à l'UNESCO en 2010. Parc paysager de 90 ha avec paons en liberté ; chiens en laisse admis dans le parc mais pas dans les Salles d'apparat.`,
           en: `Baroque palace (1635) west of the city, added to the UNESCO list in 2010. 90 ha landscape park with free-roaming peacocks; leashed dogs welcome in the park but not in the State Rooms.`,
-          es: `Palacio barroco (1635) al oeste de a cidade, añadido a la lista UNESCO en 2010. Parque paisajístico de 90 ha con pavos reales em libertad; perros com trela admitidos em o parque pero no em las Salas de Estado.`,
-          pt: `Palácio barroco (1635) a oeste da cidade, anhadido a lista UNESCO em 2010. Parque paisajístico de 90 tem com pavos reales em libertad; cães com trela admitidos no parque mas no nas Salas de Estado.`,
+          es: `Palacio barroco (1635) al oeste de la ciudad, añadido a la lista UNESCO en 2010. Parque paisajístico de 90 ha con pavos reales en libertad; perros con correa admitidos en el parque pero no en las Salas de Estado.`,
+          pt: `Palácio barroco (1635) a oeste da cidade, adicionado à lista da UNESCO em 2010. Parque paisagístico de 90 ha com pavões em liberdade; cães com trela admitidos no parque mas não nas Salas de Estado.`,
         },
       },
     ],
     petTips: {
       fr: [
-        `La culture Wirtshaus autrichienne accueille massivement les chiens calmes em laisse à l'intérieur, encore plus qu'em Allemagne.`,
-        `Tram et funiculaire du Schlossberg acceptent les chiens : petits chiens em sac gratis, grands chiens demi-tarif (~1,40 €) + muselière.`,
-        `Le Schlossberg se grimpe en 15 min par escalier em zigzag, préférez le funiculaire em pleine chaleur d'été.`,
+        `La culture Wirtshaus autrichienne accueille massivement les chiens calmes en laisse à l'intérieur, encore plus qu'en Allemagne.`,
+        `Tram et funiculaire du Schlossberg acceptent les chiens : petits chiens en sac gratuits, grands chiens demi-tarif (~1,40 €) + muselière.`,
+        `Le Schlossberg se grimpe en 15 min par un escalier en zigzag, préférez le funiculaire en pleine chaleur d'été.`,
         `La Hundezone clôturée du Stadtpark (coin sud-est) est le rendez-vous canin du soir : locaux entre 17h30 et 20h.`,
         `Loi autrichienne : tous les chiens doivent être pucés, enregistrés et le maître doit avoir une assurance responsabilité civile.`,
       ],
@@ -17518,26 +17518,26 @@ const cityContent: Record<string, CityContent> = {
         `Austrian law: all dogs must be microchipped, registered, and owners must hold third-party liability insurance.`,
       ],
       es: [
-        `La cultura Wirtshaus austriaca admite masivamente perros tranquilos com trela em o interior, aún más que em Alemania.`,
-        `Tranvía y funicular del Schlossberg admiten perros: perros pequeños em transportín gratis, perros más grandes medio precio (~1,40 €) y bozal obrigatório.`,
-        `El Schlossberg se sube en 15 min por a escalera em zigzag, mejor el funicular em pleno calor estival.`,
-        `La Hundezone vallada em o extremo sureste del Stadtpark es el punto de encuentro canino vespertino: locales entre 17:30 y 20:00.`,
+        `La cultura Wirtshaus austriaca admite masivamente perros tranquilos con correa en el interior, aún más que en Alemania.`,
+        `Tranvía y funicular del Schlossberg admiten perros: perros pequeños en transportín gratis, perros más grandes medio precio (~1,40 €) y bozal obligatorio.`,
+        `El Schlossberg se sube en 15 min por la escalera en zigzag, mejor el funicular en pleno calor estival.`,
+        `La Hundezone vallada en el extremo sureste del Stadtpark es el punto de encuentro canino vespertino: locales entre 17:30 y 20:00.`,
         `Ley austriaca: todos los perros deben llevar microchip, estar registrados y el dueño debe tener seguro de responsabilidad civil.`,
       ],
       pt: [
-        `A cultura Wirtshaus austriaca admite masivamente cães tranquilos com trela no interior, aún mais que em Alemania.`,
-        `Elétrico e funicular do Schlossberg admiten cães: cães pequenos em transportadora grátis, cães mais grandes meio preço (~1,40 €) e bozal obrigatório.`,
-        `O Schlossberg se sube en 15 min pela escalera em zigzag, melhor o funicular em pleno calor estival.`,
-        `A Hundezone vallada no extremo sureste do Stadtpark é o punto de encuentro canino vespertino: locales entre 17:30 e 20:00.`,
-        `Lei austriaca: todos os cães deben levar microchip, estar registrados e o dono debe tener seguro de responsabilidad civil.`,
+        `A cultura Wirtshaus austríaca acolhe massivamente cães tranquilos com trela no interior, ainda mais do que na Alemanha.`,
+        `Elétrico e funicular do Schlossberg admitem cães: cães pequenos em transportadora grátis, cães maiores meio preço (~1,40 €) e açaime obrigatório.`,
+        `O Schlossberg sobe-se em 15 min pela escada em ziguezague, melhor o funicular em pleno calor de verão.`,
+        `A Hundezone vedada no extremo sudeste do Stadtpark é o ponto de encontro canino ao fim da tarde: habitantes locais entre 17:30 e 20:00.`,
+        `Lei austríaca: todos os cães devem ter microchip, estar registados e o dono deve ter um seguro de responsabilidade civil.`,
       ],
     },
     practicalInfo: {
       fr: [
         `Vétérinaire d'urgence 24h/24 : Tierklinik Graz Lend, Schmiedgasse 23, +43 316 71 02 80`,
         `Cabinet de jour central : Tierarztpraxis Geidorf, Heinrichstraße 119, +43 316 32 23 80`,
-        `Railjet depuis Vienne : 2h30 horaires. Petits chiens em sac gratuits ; chiens plus grands : billet demi-tarif + muselière.`,
-        `Aéroport Graz GRZ à 9 km au sud, 25 min em S-Bahn S5 depuis la gare centrale.`,
+        `Railjet depuis Vienne : 2h30, cadence horaire. Petits chiens en sac gratuits ; chiens plus grands : billet demi-tarif + muselière.`,
+        `Aéroport Graz GRZ à 9 km au sud, 25 min en S-Bahn S5 depuis la gare centrale.`,
       ],
       en: [
         `24/7 emergency vet: Tierklinik Graz Lend, Schmiedgasse 23, +43 316 71 02 80`,
@@ -17548,14 +17548,14 @@ const cityContent: Record<string, CityContent> = {
       es: [
         `Veterinario de urgencias 24h: Tierklinik Graz Lend, Schmiedgasse 23, +43 316 71 02 80`,
         `Clínica diurna céntrica: Tierarztpraxis Geidorf, Heinrichstraße 119, +43 316 32 23 80`,
-        `Railjet desde Viena: 2h30 cada hora. Perros pequeños em transportín gratis; perros más grandes: billete medio precio y bozal obrigatório.`,
-        `Aeropuerto Graz GRZ a 9 km al sur, 25 min em S-Bahn S5 desde a estação central.`,
+        `Railjet desde Viena: 2h30, cada hora. Perros pequeños en transportín gratis; perros más grandes: billete medio precio y bozal obligatorio.`,
+        `Aeropuerto Graz GRZ a 9 km al sur, 25 min en S-Bahn S5 desde la estación central.`,
       ],
       pt: [
         `Veterinário de urgências 24h: Tierklinik Graz Lend, Schmiedgasse 23, +43 316 71 02 80`,
-        `Clínica diurna céntrica: Tierarztpraxis Geidorf, Heinrichstraße 119, +43 316 32 23 80`,
-        `Railjet a partir de Viena: 2h30 cada hora. Cães pequenos em transportadora grátis; cães mais grandes: bilhete meio preço e bozal obrigatório.`,
-        `Aeroporto Graz GRZ a 9 km al sur, 25 min em S-Bahn S5 a partir da estação central.`,
+        `Clínica diurna central: Tierarztpraxis Geidorf, Heinrichstraße 119, +43 316 32 23 80`,
+        `Railjet a partir de Viena: 2h30, de hora a hora. Cães pequenos em transportadora grátis; cães maiores: bilhete meio preço e açaime obrigatório.`,
+        `Aeroporto Graz GRZ a 9 km a sul, 25 min de S-Bahn S5 a partir da estação central.`,
       ],
     },
   },

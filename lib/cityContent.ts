@@ -19034,7 +19034,7 @@ const cityContent: Record<string, CityContent> = {
 
   heraklion: {
     history: {
-      fr: `Capitale de la Crète et plus grande ville de l'île (environ 145 000 habitants), Héraklion fut fondée comme port romain puis arabe (Rabdh-el-Khandak, IXe siècle), avant de devenir le grand emporium vénitien de Candie de 1204 à 1669, siège de plus de 450 ans de domination latine qui légua à la ville sa ceinture de murailles de 4 km, la forteresse Koules et la Fontaine Morosini. La domination ottomane (1669-1898) ajouta minarets et bains turcs avant que la Crète ne rejoigne la Grèce em 1913. Aujourd'hui, Héraklion est la porte d'entrée du palais minoen de Knossos (4 km au sud, fondé vers 2000 av. J.-C.) et le hub des ferries vers Athènes. Pour les voyageurs avec chien, c'est l'une des villes grecques les plus faciles : climat doux toute l'année (12-28°C), deux Bau-Beach signalées à l'est et à l'ouest, culture taverne détendue qui accueille les chiens en terrasse, et un hôpital vétérinaire 24h/24 qui dessert toute la Crète.`,
+      fr: `Capitale de la Crète et plus grande ville de l'île (environ 145 000 habitants), Héraklion fut fondée comme port romain puis arabe (Rabdh-el-Khandak, IXe siècle), avant de devenir le grand emporium vénitien de Candie de 1204 à 1669, siège de plus de 450 ans de domination latine qui légua à la ville sa ceinture de murailles de 4 km, la forteresse Koules et la Fontaine Morosini. La domination ottomane (1669-1898) ajouta minarets et bains turcs avant que la Crète ne rejoigne la Grèce en 1913. Aujourd'hui, Héraklion est la porte d'entrée du palais minoen de Knossos (4 km au sud, fondé vers 2000 av. J.-C.) et le hub des ferries vers Athènes. Pour les voyageurs avec chien, c'est l'une des villes grecques les plus faciles : climat doux toute l'année (12-28°C), deux Bau-Beach signalées à l'est et à l'ouest, culture taverne détendue qui accueille les chiens en terrasse, et un hôpital vétérinaire 24h/24 qui dessert toute la Crète.`,
       en: `Capital of Crete and the island's largest city (about 145,000 inhabitants), Heraklion was founded as a Roman then Arab port (Rabdh-el-Khandak, 9th century), before becoming the great Venetian emporium of Candia from 1204 to 1669, over 450 years of Latin rule that left the city its 4 km ring of walls, the Koules harbour fortress and the Morosini Fountain. Ottoman rule (1669-1898) added minarets and Turkish baths before Crete joined Greece in 1913. Today Heraklion is the gateway to the Minoan palace of Knossos (4 km south, founded c. 2000 BC) and the ferry hub for Athens. For travellers with a dog, it is one of Greece's easiest cities: mild climate year-round (12-28°C), two signed Bau-Beach zones east and west, relaxed taverna culture welcoming dogs on terraces, and a 24/7 veterinary hospital serving all of Crete.`,
       es: `Capital de Creta y la ciudad más grande de la isla (unos 145.000 habitantes), Heraklion fue fundada como puerto romano y luego árabe (Rabdh-el-Khandak, s. IX), antes de convertirse en el gran emporio veneciano de Candia entre 1204 y 1669, más de 450 años de dominio latino que legaron a la ciudad su anillo de murallas de 4 km, la fortaleza portuaria Koules y la Fuente Morosini. El dominio otomano (1669-1898) añadió minaretes y baños turcos antes de que Creta se uniera a Grecia en 1913. Hoy Heraklion es la puerta de entrada al palacio minoico de Knosos (4 km al sur, fundado hacia 2000 a.C.) y el hub de ferries con Atenas. Para los viajeros con perro, es una de las ciudades griegas más fáciles: clima suave todo el año (12-28°C), dos zonas Bau-Beach señalizadas al este y al oeste, cultura de tabernas relajada que admite perros en terraza, y un hospital veterinario 24h que atiende toda Creta.`,
       pt: `Capital de Creta e a maior cidade da ilha (cerca de 145.000 habitantes), Heraklion foi fundada como porto romano e depois árabe (Rabdh-el-Khandak, séc. IX), antes de se tornar o grande empório veneziano de Candia entre 1204 e 1669, mais de 450 anos de domínio latino que legaram à cidade o seu anel de muralhas de 4 km, a fortaleza portuária Koules e a Fonte Morosini. O domínio otomano (1669-1898) acrescentou minaretes e banhos turcos antes de Creta se juntar à Grécia em 1913. Hoje Heraklion é a porta de entrada para o palácio minoico de Knossos (4 km a sul, fundado por volta de 2000 a.C.) e o hub de ferries para Atenas. Para os viajantes com cão, é uma das cidades gregas mais fáceis: clima suave o ano inteiro (12-28°C), duas zonas Bau-Beach sinalizadas a leste e oeste, cultura de tabernas descontraída que aceita cães em esplanada, e um hospital veterinário 24h que serve toda Creta.`,
@@ -19156,10 +19156,10 @@ const cityContent: Record<string, CityContent> = {
 
   helsinki: {
     history: {
-      fr: `Fondée en 1550 par Gustave Vasa pour concurrencer Tallinn, Helsinki ne prit son essor qu'en 1812, lorsque la Russie em fit la capitale du Grand-Duché de Finlande et confia à C. L. Engel le dessin néoclassique de la place du Sénat. La ville compte aujourd'hui près de 630 000 habitants et environ 60 000 chiens enregistrés, soit l'un des taux les plus élevés d'Europe. La loi finlandaise impose la laisse de mars à août pour protéger les oiseaux nicheurs, mais Helsinki offre em contrepartie plus de 80 koira-aitaus, ces enclos clôturés où les chiens courent librement, notamment à Kivinokka et Mustikkamaa. Les chiens voyagent gratuitement dans les trams, le métro et les ferries, et la plupart des cafés les acceptent à l'intérieur. Baume pour coussinets, gilet réfléchissant et étiquette du sauna canin font ici partie du quotidien.`,
+      fr: `Fondée en 1550 par Gustave Vasa pour concurrencer Tallinn, Helsinki ne prit son essor qu'en 1812, lorsque la Russie en fit la capitale du Grand-Duché de Finlande et confia à C. L. Engel le dessin néoclassique de la place du Sénat. La ville compte aujourd'hui près de 630 000 habitants et environ 60 000 chiens enregistrés, soit l'un des taux les plus élevés d'Europe. La loi finlandaise impose la laisse de mars à août pour protéger les oiseaux nicheurs, mais Helsinki offre en contrepartie plus de 80 koira-aitaus, ces enclos clôturés où les chiens courent librement, notamment à Kivinokka et Mustikkamaa. Les chiens voyagent gratuitement dans les trams, le métro et les ferries, et la plupart des cafés les acceptent à l'intérieur. Baume pour coussinets, gilet réfléchissant et étiquette du sauna canin font ici partie du quotidien.`,
       en: `Founded in 1550 by King Gustav Vasa of Sweden as a rival to Tallinn, Helsinki grew slowly until Russia made it the capital of the Grand Duchy of Finland in 1812, giving the city its neoclassical Senate Square heart designed by C. L. Engel. Today around 630,000 residents share the capital with roughly 60,000 registered dogs, one of the highest per-capita ratios in Europe. Finnish law requires dogs to be leashed from March to August to protect ground-nesting birds, but the city compensates with more than 80 fenced koira-aitaus (off-leash enclosures), including large ones in Kivinokka and Mustikkamaa. Dogs ride freely on trams, metros and ferries, and most cafés tolerate them indoors. Helsinki's pet culture is quietly practical: heated winter paw balms, reflective vests and sauna-dog etiquette are simply part of city life.`,
-      es: `fundada en 1550 por Gustavo Vasa de Suecia como rival de Tallin, Helsinki creció despacio hasta que Rusia la convirtió en 1812 em capital del Gran Ducado de Finlândia, encargando a C. L. Engel el neoclásico coração de la plaza del Senado. Hoy sus cerca de 630.000 vecinos conviven con unos 60.000 perros registrados, una das proporciones más altas de Europa. La ley finlandesa obliga a llevarlos atados de marzo a agosto para proteger a las aves que anidan em el solo, pero a cidade compensa con más de 80 koira-aitaus, recintos vallados sin trela, entre ellos los amplos de Kivinokka y Mustikkamaa. Los perros viajan gratis em tranvía, metro y ferris, y los cafés costumam admitirlos dentro. Bálsamo para almohadillas, chaleco reflectante y saber comportarse na sauna forman parte del día a día.`,
-      pt: `fundada em 1550 por Gustavo Vasa de Suecia como rival de Tallin, Helsinki creció despacio até que Rusia a convirtió em 1812 em capital do Grande Ducado de Finlândia, encargando a C. L. Engel o neoclásico coração da praça do Senado. Hoy os seus perto de 630.000 vecinos conviven com uns 60.000 cães registrados, uma das proporciones mais altas de Europa. A lei finlandesa obliga a llevarlos atados de março a agosto para proteger a as aves que anidan no solo, mas a cidade compensa com mais de 80 koira-aitaus, recintos vallados sem trela, entre ellos os amplos de Kivinokka e Mustikkamaa. Os cães viajan grátis no elétrico, metro e ferris, e os cafés costumam admitirlos dentro. Bálsamo para almohadillas, chaleco reflectante e saber comportarse na sauna forman parte do dia a dia.`,
+      es: `Fundada en 1550 por Gustavo Vasa de Suecia como rival de Tallin, Helsinki creció despacio hasta que Rusia la convirtió en 1812 en capital del Gran Ducado de Finlandia, encargando a C. L. Engel el neoclásico corazón de la plaza del Senado. Hoy sus cerca de 630.000 habitantes conviven con unos 60.000 perros registrados, una de las proporciones más altas de Europa. La ley finlandesa obliga a llevarlos atados de marzo a agosto para proteger a las aves que anidan en el suelo, pero la ciudad lo compensa con más de 80 koira-aitaus, recintos vallados sin correa, entre ellos los amplios de Kivinokka y Mustikkamaa. Los perros viajan gratis en tranvía, metro y ferris, y los cafés suelen admitirlos dentro. Bálsamo para las almohadillas, chaleco reflectante y saber comportarse en la sauna forman parte del día a día.`,
+      pt: `Fundada em 1550 por Gustavo Vasa da Suécia como rival de Taline, Helsínquia cresceu lentamente até que a Rússia a tornou, em 1812, capital do Grão-Ducado da Finlândia, confiando a C. L. Engel o neoclássico coração da Praça do Senado. Hoje os seus cerca de 630.000 habitantes convivem com uns 60.000 cães registados, uma das proporções mais altas da Europa. A lei finlandesa obriga a trazê-los à trela de março a agosto para proteger as aves que nidificam no solo, mas a cidade compensa com mais de 80 koira-aitaus, recintos vedados sem trela, entre eles os amplos de Kivinokka e Mustikkamaa. Os cães viajam gratuitamente no elétrico, no metro e nos ferries, e a maioria dos cafés aceita-os no interior. Bálsamo para as almofadinhas, colete refletor e saber comportar-se na sauna fazem parte do dia a dia.`,
     },
     sights: [
       {
@@ -19169,8 +19169,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Un couloir vert de 10 km fait de pinèdes, de tourbières et de lacs, qui relie le centre-ville aux quartiers nord. Plusieurs zones clôturées, notamment près de Pirkkola, autorisent les chiens sans laisse, et les sentiers enneigés servent de pistes de ski doublées de couloirs pour promeneurs canins.',
           en: 'A 10 km green corridor of pine forest, bogs and lakes stretching from the city centre to the northern suburbs. Several sections, notably near Pirkkola, allow dogs off-leash in fenced zones, and winter trails double as ski paths with parallel dog-walking lanes.',
-          es: 'Un corredor verde de 10 km con pinares, turberas y lagos que une o centro con los barrios del norte. Varias zonas valladas, sobre todo cerca de Pirkkola, permiten soltar al perro, y em invierno los senderos se comparten con esquiadores y pasean perros em carriles paralelos.',
-          pt: 'Um corredor verde de 10 km com pinares, turberas e lagos que une o centro com os bairros do norte. Várias zonas valladas, sobretudo perto de Pirkkola, permiten soltar al cão, e em inverno os trilhos se comparten com esquiadores e pasean cães em carriles paralelos.',
+          es: `Un corredor verde de 10 km de pinares, turberas y lagos que une el centro con los barrios del norte. Varias zonas valladas, sobre todo cerca de Pirkkola, permiten soltar al perro, y en invierno los senderos se comparten con esquiadores y se pasean perros en carriles paralelos.`,
+          pt: `Um corredor verde de 10 km de pinhais, turfeiras e lagos que liga o centro aos bairros do norte. Várias zonas vedadas, sobretudo perto de Pirkkola, permitem soltar o cão, e no inverno os trilhos são partilhados com esquiadores e passeiam-se cães em pistas paralelas.`,
         },
       },
       {
@@ -19178,10 +19178,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏰',
         petFriendly: true,
         desc: {
-          fr: 'Forteresse du XVIIIe siècle classée à l\'UNESCO, répartie sur six îlots et accessible en 15 minutes de ferry depuis le Kauppatori. Les chiens voyagent gratuitement sur le ferry HSL, tenus em laisse, et peuvent arpenter remparts, batteries et rivages rocheux, à l\'exception des musées.',
+          fr: 'Forteresse du XVIIIe siècle classée à l\'UNESCO, répartie sur six îlots et accessible en 15 minutes de ferry depuis le Kauppatori. Les chiens voyagent gratuitement sur le ferry HSL, tenus en laisse, et peuvent arpenter remparts, batteries et rivages rocheux, à l\'exception des musées.',
           en: 'A UNESCO-listed 18th-century fortress spread across six islands, reached by a 15-minute ferry from Market Square. Dogs ride the HSL ferry free with a leashed owner and can roam the ramparts, cannon batteries and rocky shores except inside the museums.',
-          es: 'Fortaleza del siglo XVIII declarada Patrimonio de la Humanidad, repartida em seis islas y a 15 minutos em ferry desde la plaza del Mercado. Los perros viajan gratis em el ferry HSL com trela y pueden recorrer murallas, baterías y costas rocosas, salvo o interior dos museos.',
-          pt: 'Fortaleza do século XVIII declarada Patrimonio da Humanidad, repartida em seis ilhas e a 15 minutos em ferry a partir da praça do Mercado. Os cães viajan grátis no ferry HSL com trela e podem recorrer muralhas, baterías e costas rocosas, salvo o interior dois museus.',
+          es: `Fortaleza del siglo XVIII declarada Patrimonio de la Humanidad, repartida en seis islas y a 15 minutos en ferry desde la plaza del Mercado. Los perros viajan gratis en el ferry HSL con correa y pueden recorrer murallas, baterías y costas rocosas, salvo el interior de los museos.`,
+          pt: `Fortaleza do século XVIII classificada como Património da Humanidade, repartida por seis ilhas e a 15 minutos de ferry a partir da Praça do Mercado. Os cães viajam gratuitamente no ferry HSL com a trela e podem percorrer muralhas, baterias e costas rochosas, exceto no interior dos museus.`,
         },
       },
       {
@@ -19189,10 +19189,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌊',
         petFriendly: true,
         desc: {
-          fr: 'Le plus ancien parc d\'Helsinki, jardin thermal du XIXe siècle à la pointe sud de la presqu\'île, avec une vue dégagée sur la Baltique. La côte rocheuse d\'Ullanlinna, juste em contrebas, abrite une plage canine officielle et devient le rendez-vous dominical des teckels et huskies de la capitale.',
+          fr: 'Le plus ancien parc d\'Helsinki, jardin thermal du XIXe siècle à la pointe sud de la presqu\'île, avec une vue dégagée sur la Baltique. La côte rocheuse d\'Ullanlinna, juste en contrebas, abrite une plage canine officielle et devient le rendez-vous dominical des teckels et huskies de la capitale.',
           en: 'Helsinki\'s oldest park, a 19th-century spa garden on the southern tip of the peninsula with sweeping Baltic views. The rocky Ullanlinna shoreline below has a dedicated dog swimming spot and is the classic Sunday stroll for Helsinki\'s dachshunds and huskies.',
-          es: 'o parque más antigo de Helsinki, un jardín balneario del siglo XIX na punta sur de la península con vistas abiertas al Báltico. La costa rocosa de Ullanlinna, justo debajo, cuenta con una zona de baño canino y es el paseo dominical clásico de teckels y huskies.',
-          pt: 'O parque mais antigo de Helsinki, um jardim balneario do século XIX na punta sur da península com vistas abiertas al Báltico. A costa rocosa de Ullanlinna, justo debajo, tem com uma zona de banho canino e é o passeio dominical clásico de teckels e huskies.',
+          es: `El parque más antiguo de Helsinki, un jardín balneario del siglo XIX en la punta sur de la península con vistas abiertas al Báltico. La costa rocosa de Ullanlinna, justo debajo, cuenta con una zona de baño canino y es el paseo dominical clásico de los teckels y huskies de la capital.`,
+          pt: `O parque mais antigo de Helsínquia, um jardim termal do século XIX na ponta sul da península com vistas desafogadas sobre o Báltico. A costa rochosa de Ullanlinna, mesmo por baixo, tem uma zona de banho canino e é o passeio dominical clássico dos teckels e huskies da capital.`,
         },
       },
       {
@@ -19200,10 +19200,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏖️',
         petFriendly: true,
         desc: {
-          fr: 'Sur l\'île de Mustikkamaa, accessible à pied depuis le métro Kalasatama, se trouve l\'une des deux plages canines officielles de la ville. Eau peu profonde, sable fin, pins ombragés et prairie clôturée sans laisse em font le spot préféré des Helsinkiens en été.',
+          fr: 'Sur l\'île de Mustikkamaa, accessible à pied depuis le métro Kalasatama, se trouve l\'une des deux plages canines officielles de la ville. Eau peu profonde, sable fin, pins ombragés et prairie clôturée sans laisse en font le spot préféré des Helsinkiens en été.',
           en: 'On the island of Mustikkamaa, a short bridge walk from Kalasatama metro, lies one of the city\'s two official dog beaches. Sandy shallows, shaded pines and a fenced off-leash meadow make it the summer favourite of locals.',
-          es: 'na isla de Mustikkamaa, a un puente del metro Kalasatama, está una das dos playas caninas oficiales de a cidade. Aguas someras, arena, pinos con sombra y un prado vallado sin trela la convierten na favorita del verano.',
-          pt: 'Na ilha de Mustikkamaa, a um ponte do metro Kalasatama, está uma das duas praias caninas oficiais da cidade. Águas someras, areia, pinos com sombra e um prado vallado sem trela a convierten na favorita do verão.',
+          es: `En la isla de Mustikkamaa, a un puente del metro Kalasatama, está una de las dos playas caninas oficiales de la ciudad. Aguas someras, arena, pinos con sombra y un prado vallado sin correa la convierten en la favorita del verano.`,
+          pt: `Na ilha de Mustikkamaa, à distância de uma ponte a pé do metro Kalasatama, fica uma das duas praias caninas oficiais da cidade. Águas rasas, areia, pinheiros com sombra e um prado vedado sem trela tornam-na a preferida do verão.`,
         },
       },
       {
@@ -19211,10 +19211,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🎨',
         petFriendly: true,
         desc: {
-          fr: 'Environ 200 boutiques, ateliers et galeries se concentrent autour de Fredrikinkatu et Uudenmaankatu. La plupart des enseignes finlandaises acceptent les chiens em laisse, et des adresses comme Johan & Nyström ou le Fazer Café sortent des gamelles d\'eau sur le pas de la porte.',
+          fr: 'Environ 200 boutiques, ateliers et galeries se concentrent autour de Fredrikinkatu et Uudenmaankatu. La plupart des enseignes finlandaises acceptent les chiens en laisse, et des adresses comme Johan & Nyström ou le Fazer Café sortent des gamelles d\'eau sur le pas de la porte.',
           en: 'Some 200 shops, studios and galleries cluster around Fredrikinkatu and Uudenmaankatu. Most Finnish boutiques allow leashed dogs inside, and cafés like Johan & Nyström and Fazer Café keep water bowls by the door.',
-          es: 'Unas 200 tiendas, estudios y galerías se agrupan em torno a Fredrikinkatu y Uudenmaankatu. La mayoría de comercios finlandeses admite perros com trela, y cafés como Johan & Nyström o Fazer Café sacan cuencos de agua junto a la puerta.',
-          pt: 'Umas 200 tiendas, estudios e galerías se agrupan em torno a Fredrikinkatu e Uudenmaankatu. A maioria de comercios finlandeses admite cães com trela, e cafés como Johan & Nyström o Fazer Café sacan cuencos de água junto a puerta.',
+          es: `Unas 200 tiendas, estudios y galerías se agrupan en torno a Fredrikinkatu y Uudenmaankatu. La mayoría de los comercios finlandeses admite perros con correa, y cafés como Johan & Nyström o Fazer Café sacan cuencos de agua junto a la puerta.`,
+          pt: `Cerca de 200 lojas, ateliês e galerias concentram-se à volta de Fredrikinkatu e Uudenmaankatu. A maioria das lojas finlandesas admite cães à trela, e cafés como o Johan & Nyström ou o Fazer Café colocam tigelas de água à porta.`,
         },
       },
       {
@@ -19224,18 +19224,18 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'L\'ensemble néoclassique d\'Engel, achevé en 1852, est l\'image carte postale d\'Helsinki : cathédrale blanche, marches de granit et pavés. Les chiens sont les bienvenus sur la place et les escaliers, mais pas à l\'intérieur de l\'édifice.',
           en: 'Engel\'s neoclassical ensemble of 1852 is the postcard image of Helsinki: white cathedral, granite steps and cobbled square. Dogs are welcome on the square and steps outside the cathedral, though not inside the church itself.',
-          es: 'El conjunto neoclásico de Engel, terminado en 1852, es a imagen postal de Helsinki: catedral blanca, escalinata de granito y empedrado. Los perros pueden estar na plaza y em las escaleras, pero no dentro del templo.',
-          pt: 'O conjunto neoclásico de Engel, terminado em 1852, é a imagen postal de Helsinki: catedral branca, escalinata de granito e empedrado. Os cães podem estar na praça e nas escaleras, mas no dentro do templo.',
+          es: `El conjunto neoclásico de Engel, terminado en 1852, es la imagen postal de Helsinki: catedral blanca, escalinata de granito y empedrado. Los perros pueden estar en la plaza y en las escaleras, pero no dentro del templo.`,
+          pt: `O conjunto neoclássico de Engel, concluído em 1852, é a imagem de postal de Helsínquia: catedral branca, escadaria de granito e calçada. Os cães são bem-vindos na praça e nas escadas, mas não no interior do templo.`,
         },
       },
     ],
     petTips: {
       fr: [
-        'Dans la zone AB d\'Helsinki, les chiens voyagent gratuitement em tram, métro, bus et sur le ferry de Suomenlinna ; seul le train régional longue distance exige un billet réduit.',
+        'Dans la zone AB d\'Helsinki, les chiens voyagent gratuitement en tram, métro, bus et sur le ferry de Suomenlinna ; seul le train régional longue distance exige un billet réduit.',
         'Du 1er mars au 19 août, la laisse est obligatoire partout hors des koira-aitaus clôturés, les gardes verbalisent régulièrement à Keskuspuisto.',
         'L\'urgence vétérinaire 24h/24 est Yliopistollinen Eläinsairaala à Viikki (+358 2 941 57373) ; Univet à Konala assure aussi une permanence de nuit.',
-        'em hiver, rincez les coussinets après chaque sortie : Helsinki sable ses trottoirs avec du gravier concassé qui se coince douloureusement entre les doigts.',
-        'De nombreux magasins Alko et K-Market laissent entrer les chiens tenus em laisse, repérez le sticker patte collé sur la porte.',
+        'En hiver, rincez les coussinets après chaque sortie : Helsinki sable ses trottoirs avec du gravier concassé qui se coince douloureusement entre les doigts.',
+        'De nombreux magasins Alko et K-Market laissent entrer les chiens tenus en laisse, repérez le sticker patte collé sur la porte.',
       ],
       en: [
         'Buy a single HSL ticket for your dog only on long regional trains; within Helsinki zone AB dogs ride trams, metro, buses and Suomenlinna ferry for free.',
@@ -19245,26 +19245,26 @@ const cityContent: Record<string, CityContent> = {
         'Many Alko off-licences and K-Market grocery stores allow leashed dogs inside, look for the paw sticker on the door.',
       ],
       es: [
-        'Dentro de a zona AB de Helsinki el perro viaja gratis em tranvía, metro, autobús y ferry a Suomenlinna; solo em los trenes regionales de longo recorrido necesita billete reducido.',
-        'Del 1 de marzo ao 19 de agosto la trela es obrigatória fuera dos koira-aitaus vallados, los guardas multan a los reincidentes em Keskuspuisto.',
-        'a urgencia veterinaria 24 h es Yliopistollinen Eläinsairaala em Viikki (+358 2 941 57373); Univet em Konala también atiende de noche.',
-        'em invierno enjuaga las almohadillas al volver: Helsinki echa grava gruesa em vez de sal y se clava dolorosamente entre los dedos.',
-        'Muchas tiendas Alko y supermercados K-Market admiten perros com trela, busca la pegatina con la huella na puerta.',
+        `Dentro de la zona AB de Helsinki el perro viaja gratis en tranvía, metro, autobús y ferry a Suomenlinna; solo en los trenes regionales de largo recorrido necesita billete reducido.`,
+        `Del 1 de marzo al 19 de agosto la correa es obligatoria fuera de los koira-aitaus vallados, los guardas multan a los reincidentes en Keskuspuisto.`,
+        `La urgencia veterinaria 24 h es Yliopistollinen Eläinsairaala en Viikki (+358 2 941 57373); Univet en Konala también atiende de noche.`,
+        `En invierno enjuaga las almohadillas al volver: Helsinki echa grava gruesa en vez de sal y se clava dolorosamente entre los dedos.`,
+        `Muchas tiendas Alko y supermercados K-Market admiten perros con correa, busca la pegatina con la huella en la puerta.`,
       ],
       pt: [
-        'Dentro da zona AB de Helsinki o cão viaja grátis no elétrico, metro, autocarro e ferry a Suomenlinna; só nos comboios regionales de longo recorrido necesita bilhete reducido.',
-        'Do 1 de março ao 19 de agosto a trela é obrigatória fora dos koira-aitaus vallados, os guardas multan aos reincidentes em Keskuspuisto.',
-        'A urgência veterinária 24 h é Yliopistollinen Eläinsairaala em Viikki (+358 2 941 57373); Univet em Konala também atiende de noite.',
-        'em inverno enjuaga as almohadillas al volver: Helsinki echa grava gruesa em vez de sal e se clava dolorosamente entre os dedos.',
-        'Muitas tiendas Alko e supermercados K-Market admiten cães com trela, busca a pegatina com a huella na puerta.',
+        `Dentro da zona AB de Helsínquia o cão viaja gratuitamente no elétrico, no metro, no autocarro e no ferry para Suomenlinna; só nos comboios regionais de longo curso precisa de bilhete reduzido.`,
+        `De 1 de março a 19 de agosto a trela é obrigatória fora dos koira-aitaus vedados, os guardas multam os reincidentes em Keskuspuisto.`,
+        `A urgência veterinária 24 h é o Yliopistollinen Eläinsairaala em Viikki (+358 2 941 57373); a Univet em Konala também atende à noite.`,
+        `No inverno, enxagua as almofadinhas ao regressar: Helsínquia espalha gravilha grossa em vez de sal e esta encrava-se dolorosamente entre os dedos.`,
+        `Muitas lojas Alko e supermercados K-Market admitem cães à trela, procura o autocolante com a pata na porta.`,
       ],
     },
     practicalInfo: {
       fr: [
-        'L\'aéroport Helsinki-Vantaa (HEL) est à 30 min du centre par les trains I ou P (4,10 €) ; les chiens voyagent gratuitement em caisse ou muselés.',
+        'L\'aéroport Helsinki-Vantaa (HEL) est à 30 min du centre par les trains I ou P (4,10 €) ; les chiens voyagent gratuitement en caisse ou muselés.',
         'Meilleures saisons : mai-septembre pour la baignade sans laisse, février pour marcher sur la banquise au large de Lauttasaari.',
         'Urgence vétérinaire 24h/24 : Yliopistollinen Eläinsairaala, Agnes Sjöbergin katu 2, Viikki, +358 2 941 57373.',
-        'La gare centrale relie Tallinn par ferry Tallink (2 h, chiens em cabine uniquement) ; la ligne vers Saint-Pétersbourg est suspendue depuis 2022.',
+        'La gare centrale relie Tallinn par ferry Tallink (2 h, chiens en cabine uniquement) ; la ligne vers Saint-Pétersbourg est suspendue depuis 2022.',
         'L\'eau du robinet est parmi les plus pures au monde, la plupart des cafés remplissent la gamelle sans qu\'on le demande.',
       ],
       en: [
@@ -19275,18 +19275,18 @@ const cityContent: Record<string, CityContent> = {
         'Tap water is among the cleanest in the world, bowls are refilled without asking in most cafés.',
       ],
       es: [
-        'o aeropuerto de Helsinki-Vantaa (HEL) está a 30 min del centro em los trenes I o P (4,10 €); los perros viajan gratis em transportín o con bozal.',
-        'Mejores temporadas: mayo-septiembre para baños sin trela, febrero para caminar sobre el hielo marino frente a Lauttasaari.',
-        'Urgencia veterinaria 24 h: Yliopistollinen Eläinsairaala, Agnes Sjöbergin katu 2, Viikki, +358 2 941 57373.',
-        'a estação central conecta con Tallin em ferry Tallink (2 h, perros solo em camarote); la línea a San Petersburgo está suspendida desde 2022.',
-        'o agua del grifo es das más puras del mundo, em casi todos los cafés rellenan el cuenco sin pedirlo.',
+        `El aeropuerto de Helsinki-Vantaa (HEL) está a 30 min del centro en los trenes I o P (4,10 €); los perros viajan gratis en transportín o con bozal.`,
+        `Mejores temporadas: mayo-septiembre para baños sin correa, febrero para caminar sobre el hielo marino frente a Lauttasaari.`,
+        `Urgencia veterinaria 24 h: Yliopistollinen Eläinsairaala, Agnes Sjöbergin katu 2, Viikki, +358 2 941 57373.`,
+        `La estación central conecta con Tallin en ferry Tallink (2 h, perros solo en camarote); la línea a San Petersburgo está suspendida desde 2022.`,
+        `El agua del grifo es de las más puras del mundo, en casi todos los cafés rellenan el cuenco sin pedirlo.`,
       ],
       pt: [
-        'O aeroporto de Helsinki-Vantaa (HEL) está a 30 min do centro nos comboios I o P (4,10 €); os cães viajan grátis em transportadora o con bozal.',
-        'Melhores temporadas: maio-setembro para banhos sem trela, fevereiro para caminhar sobre o hielo marino frente a Lauttasaari.',
-        'Urgência veterinária 24 h: Yliopistollinen Eläinsairaala, Agnes Sjöbergin katu 2, Viikki, +358 2 941 57373.',
-        'A Estação central conecta con Tallin em ferry Tallink (2 h, cães só em camarote); a línea a San Petersburgo está suspendida a partir de 2022.',
-        'O água do grifo é das mais puras do mundo, em quase todos os cafés rellenan o cuenco sem pedirlo.',
+        `O aeroporto de Helsínquia-Vantaa (HEL) fica a 30 min do centro nos comboios I ou P (4,10 €); os cães viajam gratuitamente em transportadora ou com açaime.`,
+        `Melhores estações: maio-setembro para banhos sem trela, fevereiro para caminhar sobre o gelo marinho ao largo de Lauttasaari.`,
+        `Urgência veterinária 24 h: Yliopistollinen Eläinsairaala, Agnes Sjöbergin katu 2, Viikki, +358 2 941 57373.`,
+        `A estação central liga a Taline por ferry Tallink (2 h, cães só em camarote); a ligação a São Petersburgo está suspensa desde 2022.`,
+        `A água da torneira está entre as mais puras do mundo, na maioria dos cafés enchem a tigela sem ser preciso pedir.`,
       ],
     },
   },

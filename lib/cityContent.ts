@@ -32367,6 +32367,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  portofino: {
+    history: {
+      fr: `Blottie autour d'un port minuscule sur un promontoire boisé de la Riviera ligure, Portofino fut longtemps un modeste village de pêcheurs avant de devenir, au XXe siècle, l'un des refuges les plus glamour de la Méditerranée. Sa piazzetta bordée de maisons pastel, ses yachts et son cadre protégé par le Parco Naturale Regionale di Portofino en ont fait une carte postale mondiale. Pour un maître, Portofino demande de l'honnêteté : la côte est rocheuse et exclusive, il n'y a quasiment aucune plage pour chiens et l'été chauffe la pierre. Mais la piazzetta est plate et facile, les chiens en laisse montent au Castello Brown et au phare, et parcourent les sentiers du parc jusqu'à l'abbaye cachée de San Fruttuoso. On arrive en bus ou en ferry depuis Santa Margherita, tous deux ouverts aux chiens.`,
+      en: `Tucked around a tiny harbour on a wooded promontory of the Ligurian Riviera, Portofino was long a modest fishing village before becoming, in the 20th century, one of the Mediterranean's most glamorous boltholes. Its pastel-lined piazzetta, its yachts and its setting inside the Parco Naturale Regionale di Portofino made it a global postcard. For a dog owner, Portofino calls for honesty: the coast is rocky and exclusive, there is essentially no dog beach, and summer bakes the stone. But the piazzetta is flat and easy, leashed dogs climb to Castello Brown and the lighthouse, and walk the park trails to the hidden abbey of San Fruttuoso. You arrive by bus or ferry from Santa Margherita, both of which take dogs.`,
+      es: `Acurrucada en torno a un puerto minúsculo sobre un promontorio boscoso de la Riviera ligur, Portofino fue durante mucho tiempo un modesto pueblo pesquero antes de convertirse, en el siglo XX, en uno de los refugios más glamurosos del Mediterráneo. Su piazzetta de casas pastel, sus yates y su enclave dentro del Parco Naturale Regionale di Portofino la hicieron una postal mundial. Para un dueño, Portofino exige honestidad: la costa es rocosa y exclusiva, prácticamente no hay playa para perros y el verano abrasa la piedra. Pero la piazzetta es llana y cómoda, los perros con correa suben al Castello Brown y al faro, y recorren los senderos del parque hasta la abadía escondida de San Fruttuoso. Se llega en autobús o ferry desde Santa Margherita, y ambos admiten perros.`,
+      pt: `Aninhada em redor de um porto minúsculo sobre um promontório arborizado da Riviera ligure, Portofino foi durante muito tempo uma modesta aldeia piscatória antes de se tornar, no século XX, um dos refúgios mais glamorosos do Mediterrâneo. A sua piazzetta de casas em tons pastel, os seus iates e o seu enquadramento dentro do Parco Naturale Regionale di Portofino tornaram-na um postal mundial. Para um dono, Portofino exige honestidade: a costa é rochosa e exclusiva, praticamente não há praia para cães e o verão escalda a pedra. Mas a piazzetta é plana e cómoda, os cães com trela sobem ao Castello Brown e ao farol, e percorrem os trilhos do parque até à abadia escondida de San Fruttuoso. Chega-se de autocarro ou ferry desde Santa Margherita, e ambos aceitam cães.`,
+    },
+    sights: [
+      {
+        name: 'Piazzetta di Portofino',
+        emoji: '🚤',
+        petFriendly: true,
+        desc: {
+          fr: `Le cœur du village : une petite place plate au bord du port, bordée de terrasses et de maisons pastel. Au niveau de la mer et sans escaliers, c'est l'endroit le plus facile de Portofino pour un chien en laisse, avec des terrasses qui acceptent les chiens.`,
+          en: `The heart of the village: a small, flat square at the water's edge, ringed by terraces and pastel houses. At sea level and stair-free, it is the easiest place in Portofino for a leashed dog, with dog-friendly terraces around it.`,
+          es: `El corazón del pueblo: una pequeña plaza llana al borde del puerto, rodeada de terrazas y casas pastel. A nivel del mar y sin escaleras, es el lugar más fácil de Portofino para un perro con correa, con terrazas que admiten perros alrededor.`,
+          pt: `O coração da aldeia: uma pequena praça plana à beira do porto, rodeada de esplanadas e casas em tons pastel. Ao nível do mar e sem escadas, é o sítio mais fácil de Portofino para um cão com trela, com esplanadas que aceitam cães em redor.`,
+        },
+      },
+      {
+        name: 'Castello Brown',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Un fort médiéval devenu villa au-dessus du port, dont les jardins et terrasses offrent la vue classique sur Portofino. La montée en plein air et les jardins sont accessibles aux chiens en laisse ; confirmez la politique à l'intérieur.`,
+          en: `A medieval fort turned villa above the harbour, whose grounds and terraces give the classic view over Portofino. The open-air climb and the gardens are dog-friendly on the lead; confirm the policy for the interior.`,
+          es: `Un fuerte medieval convertido en villa sobre el puerto, cuyos jardines y terrazas dan la vista clásica sobre Portofino. La subida al aire libre y los jardines son aptos para perros con correa; confirma la política del interior.`,
+          pt: `Um forte medieval transformado em vila sobre o porto, cujos jardins e esplanadas dão a vista clássica sobre Portofino. A subida ao ar livre e os jardins são adequados a cães com trela; confirme a política do interior.`,
+        },
+      },
+      {
+        name: 'Faro di Portofino',
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: `Le phare à la pointe du promontoire, atteint par un chemin panoramique en plein air qui prolonge celui du Castello Brown. Un aller-retour facile et très photogénique, apprécié des chiens en laisse ; le chemin est exposé, emportez de l'eau.`,
+          en: `The lighthouse at the tip of the promontory, reached by a scenic open-air path continuing past Castello Brown. An easy, photogenic there-and-back that leashed dogs love; the path is exposed, so bring water.`,
+          es: `El faro en la punta del promontorio, al que se llega por un camino panorámico al aire libre que continúa más allá del Castello Brown. Una ida y vuelta fácil y muy fotogénica que encanta a los perros con correa; el camino es expuesto, lleva agua.`,
+          pt: `O farol na ponta do promontório, alcançado por um caminho panorâmico ao ar livre que prolonga o do Castello Brown. Uma ida e volta fácil e muito fotogénica que os cães com trela adoram; o caminho é exposto, leve água.`,
+        },
+      },
+      {
+        name: 'Parco Naturale Regionale di Portofino',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc régional qui couvre tout le promontoire, avec quelque 80 km de chemins muletiers et de sentiers côtiers. Les chiens en laisse y sont admis, avec un maximum de trois chiens par personne : le principal endroit près du village pour une vraie balade.`,
+          en: `The regional park covering the whole promontory, with around 80 km of mule tracks and coastal trails. Leashed dogs are welcome, up to three per person, making it the main place near the village for a proper walk.`,
+          es: `El parque regional que abarca todo el promontorio, con unos 80 km de caminos de herradura y senderos costeros. Los perros con correa son bienvenidos, hasta tres por persona, siendo el principal lugar cerca del pueblo para un buen paseo.`,
+          pt: `O parque regional que abrange todo o promontório, com cerca de 80 km de caminhos de mula e trilhos costeiros. Os cães com trela são bem-vindos, até três por pessoa, sendo o principal sítio perto da aldeia para um bom passeio.`,
+        },
+      },
+      {
+        name: 'Abbazia di San Fruttuoso',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Une abbaye millénaire dans une crique cachée, accessible seulement à pied ou en bateau. Les petits chiens n'entrent que portés, mais il existe un service de garde surveillée à l'entrée (à réserver 48h avant) ; le sentier depuis Portofino est une belle sortie en laisse.`,
+          en: `A thousand-year-old abbey in a hidden cove reachable only on foot or by boat. Small dogs may enter only if carried, but there is a supervised dog-minding service at the entrance (book 48h ahead); the trail from Portofino is a fine leashed outing.`,
+          es: `Una abadía milenaria en una cala escondida, accesible solo a pie o en barco. Los perros pequeños solo entran en brazos, pero hay un servicio de guardería vigilada en la entrada (reservar con 48h); el sendero desde Portofino es una bonita salida con correa.`,
+          pt: `Uma abadia milenar numa enseada escondida, acessível apenas a pé ou de barco. Os cães pequenos só entram ao colo, mas há um serviço de guarda vigiada à entrada (reservar com 48h); o trilho desde Portofino é uma bela saída com trela.`,
+        },
+      },
+      {
+        name: 'Bau Bau Beach',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La plage pour chiens du secteur, une bande de galets gratuite sur la route de Paraggi, dans la commune de Santa Margherita, avec douche pour chiens et eau douce. C'est le seul endroit près de Portofino où un chien peut vraiment se baigner en saison.`,
+          en: `The area's dog beach, a free pebble stretch on the road to Paraggi in the Santa Margherita municipality, with a dog shower and fresh water. It is the one place near Portofino where a dog can actually swim in season.`,
+          es: `La playa para perros de la zona, un tramo de guijarros gratuito en la carretera de Paraggi, en el municipio de Santa Margherita, con ducha para perros y agua dulce. Es el único lugar cerca de Portofino donde un perro puede bañarse de verdad en temporada.`,
+          pt: `A praia para cães da zona, uma faixa de calhau gratuita na estrada para Paraggi, no concelho de Santa Margherita, com chuveiro para cães e água doce. É o único sítio perto de Portofino onde um cão pode nadar a sério na época.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Portofino n'a pas de plage pour chiens : la vraie est la Bau Bau Beach, sur la route de Paraggi, dans la commune de Santa Margherita.`,
+        `On arrive en bus 782 ou en ferry depuis Santa Margherita ; le village est en grande partie sans voiture et son parking est minuscule et cher.`,
+        `Sur les ferries du Tigullio, les chiens de toute taille voyagent en laisse et doivent avoir une muselière disponible dans un sac, comme l'exige la loi.`,
+        `Les sentiers du parc admettent les chiens en laisse, avec un maximum de trois chiens par personne ; ils sont raides, pierreux et exposés, emportez de l'eau.`,
+        `Sur ce promontoire rocheux, la pierre chauffe en été : marchez tôt, protégez les coussinets et gardez votre chien à l'ombre.`,
+      ],
+      en: [
+        `Portofino has no dog beach: the real one is Bau Bau Beach on the road to Paraggi, in the Santa Margherita municipality.`,
+        `Arrive by the 782 bus or the ferry from Santa Margherita; the village is largely car-free and its car park is tiny and costly.`,
+        `On the Tigullio ferries, dogs of any size travel on a leash and must have a muzzle available in a bag, as required by law.`,
+        `The park trails welcome leashed dogs, with a maximum of three dogs per person; they are steep, stony and exposed, so carry water.`,
+        `On this rocky promontory the stone bakes in summer: walk early, protect paws and keep your dog in the shade.`,
+      ],
+      es: [
+        `Portofino no tiene playa para perros: la de verdad es la Bau Bau Beach, en la carretera de Paraggi, en el municipio de Santa Margherita.`,
+        `Llega en el autobús 782 o en el ferry desde Santa Margherita; el pueblo está en gran parte sin coches y su aparcamiento es diminuto y caro.`,
+        `En los ferries del Tigullio, los perros de cualquier tamaño viajan con correa y deben llevar un bozal disponible en una bolsa, como exige la ley.`,
+        `Los senderos del parque admiten perros con correa, con un máximo de tres perros por persona; son empinados, pedregosos y expuestos, lleva agua.`,
+        `En este promontorio rocoso la piedra abrasa en verano: camina temprano, protege las almohadillas y mantén a tu perro a la sombra.`,
+      ],
+      pt: [
+        `Portofino não tem praia para cães: a verdadeira é a Bau Bau Beach, na estrada para Paraggi, no concelho de Santa Margherita.`,
+        `Chegue no autocarro 782 ou no ferry desde Santa Margherita; a aldeia está em grande parte sem carros e o seu parque é minúsculo e caro.`,
+        `Nos ferries do Tigullio, os cães de qualquer tamanho viajam com trela e têm de ter um açaime disponível num saco, como exige a lei.`,
+        `Os trilhos do parque aceitam cães com trela, com um máximo de três cães por pessoa; são íngremes, pedregosos e expostos, leve água.`,
+        `Neste promontório rochoso a pedra escalda no verão: caminhe cedo, proteja as almofadinhas e mantenha o seu cão à sombra.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire le plus proche : Ambulatorio Veterinario Bonino, Via Somalia 12, Santa Margherita Ligure, +39 0185 283409`,
+        `Urgences hors heures : Clinica Veterinaria Tigullio, Chiavari, numéro 24h +39 0185 301596 ; Studio Veterinario Pagella, Rapallo, +39 0185 54562. Urgence nationale : 112.`,
+        `Passeport animalier européen et carnet de vaccination exigés, y compris sur les ferries du Tigullio et le bus 782.`,
+        `Portofino est en grande partie sans voiture : garez-vous à Santa Margherita et prenez le bus 782 (env. 17 min) ou le ferry, tous deux ouverts aux chiens.`,
+        `Accès : aéroport de Gênes (GOA) puis train jusqu'à Santa Margherita Ligure, puis bus ou ferry pour la dernière portion.`,
+      ],
+      en: [
+        `Nearest vet: Ambulatorio Veterinario Bonino, Via Somalia 12, Santa Margherita Ligure, +39 0185 283409`,
+        `Out-of-hours emergencies: Clinica Veterinaria Tigullio, Chiavari, 24h number +39 0185 301596; Studio Veterinario Pagella, Rapallo, +39 0185 54562. National emergency: 112.`,
+        `EU pet passport and vaccination record required, including on the Tigullio ferries and the 782 bus.`,
+        `Portofino is largely car-free: park in Santa Margherita and take the 782 bus (about 17 min) or the ferry, both of which take dogs.`,
+        `Getting there: Genoa airport (GOA), then train to Santa Margherita Ligure, then bus or ferry for the final stretch.`,
+      ],
+      es: [
+        `Veterinario más cercano: Ambulatorio Veterinario Bonino, Via Somalia 12, Santa Margherita Ligure, +39 0185 283409`,
+        `Urgencias fuera de horario: Clinica Veterinaria Tigullio, Chiavari, número 24h +39 0185 301596; Studio Veterinario Pagella, Rapallo, +39 0185 54562. Emergencia nacional: 112.`,
+        `Pasaporte europeo de mascotas y cartilla de vacunación exigidos, también en los ferries del Tigullio y el autobús 782.`,
+        `Portofino está en gran parte sin coches: aparca en Santa Margherita y toma el autobús 782 (unos 17 min) o el ferry, ambos admiten perros.`,
+        `Cómo llegar: aeropuerto de Génova (GOA), luego tren hasta Santa Margherita Ligure y después autobús o ferry para el último tramo.`,
+      ],
+      pt: [
+        `Veterinário mais próximo: Ambulatorio Veterinario Bonino, Via Somalia 12, Santa Margherita Ligure, +39 0185 283409`,
+        `Urgências fora de horas: Clinica Veterinaria Tigullio, Chiavari, número 24h +39 0185 301596; Studio Veterinario Pagella, Rapallo, +39 0185 54562. Emergência nacional: 112.`,
+        `Passaporte europeu para animais e boletim de vacinas exigidos, incluindo nos ferries do Tigullio e no autocarro 782.`,
+        `Portofino está em grande parte sem carros: estacione em Santa Margherita e apanhe o autocarro 782 (cerca de 17 min) ou o ferry, ambos aceitam cães.`,
+        `Como chegar: aeroporto de Génova (GOA), depois comboio até Santa Margherita Ligure e a seguir autocarro ou ferry para o último troço.`,
+      ],
+    },
+  },
+
   positano: {
     history: {
       fr: `Accrochée à la falaise de la Côte amalfitaine, Positano dévale vers la mer en une cascade de maisons pastel, d'escaliers et de bougainvilliers. Ancien port de pêche de la province de Salerne, le village s'est fait un nom au XXe siècle avec la « moda Positano », ses tissus légers et ses sandales. Aujourd'hui c'est l'une des cartes postales les plus célèbres d'Italie, au cœur de la Côte amalfitaine classée à l'UNESCO. Pour un maître, Positano est aussi belle qu'exigeante : la ville est un mur d'escaliers, la plupart des plages limitent les chiens et la pierre brûle en été. Mais les chiens en laisse prennent les bus SITA et les ferries, et surtout parcourent le Sentier des Dieux, l'une des plus belles randonnées côtières du pays.`,

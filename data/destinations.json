@@ -27385,6 +27385,81 @@
     "iata": "PSA"
   },
   {
+    "slug": "portofino",
+    "name": "Portofino",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/portofino.jpg",
+    "lat": 44.3036,
+    "lng": 9.2097,
+    "intro": "Portofino is the iconic fishing village of the Italian Riviera, a cluster of pastel houses around a tiny, exclusive harbour on a steep, wooded promontory. With a dog it is honest work: there is essentially no dog beach and the coast is rocky and pricey, but the flat harbour piazzetta, the walk up to Castello Brown and the lighthouse, and the leashed trails through the Parco di Portofino to San Fruttuoso are genuinely dog-friendly, and the ferries and buses from Santa Margherita take dogs.",
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "GOA"
+  },
+  {
     "slug": "positano",
     "name": "Positano",
     "country": "Italy",

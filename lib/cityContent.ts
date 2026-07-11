@@ -4464,10 +4464,10 @@ const cityContent: Record<string, CityContent> = {
 
   bern: {
     history: {
-      fr: `Berne, capitale fédérale de la Suisse depuis 1848 et l'une des plus anciennes villes médiévales d'Europe encore intactes, fut fondée en 1191 par le duc Berthold V de Zähringen sur une boucle de l'Aare em forme de presqu'île, choix défensif qui explique encore aujourd'hui sa silhouette unique enroulée autour du fleuve. Son centre historique, inscrit au Patrimoine mondial de l'UNESCO depuis 1983, est le plus grand de Suisse : 6 km d'arcades couvertes (les Lauben) bordent les rues pavées em grès, fontaines polychromes, façades médiévales presque intactes, et la tour-horloge astronomique Zytglogge de 1218 toujours em fonctionnement. La ville reste discrète à l'image de la Confédération qu'elle abrite, le Palais fédéral surplombe l'Aare avec une sobriété toute suisse, mais sa qualité de vie est régulièrement classée parmi les meilleures du monde. Côté chiens, Berne est exceptionnellement bien équipée : trois forêts urbaines à distance de tram (Bremgartenwald au nord, Könizbergwald à l'ouest, Gurten au sud), 5 km de promenade fluviale le long de l'Aare, le BärenPark public et gratuit em bordure de Vieille-Ville, et l'hôpital universitaire vétérinaire de l'Université de Berne, référence d'enseignement pour toute l'Europe germanophone.`,
+      fr: `Berne, capitale fédérale de la Suisse depuis 1848 et l'une des plus anciennes villes médiévales d'Europe encore intactes, fut fondée en 1191 par le duc Berthold V de Zähringen sur une boucle de l'Aare en forme de presqu'île, choix défensif qui explique encore aujourd'hui sa silhouette unique enroulée autour du fleuve. Son centre historique, inscrit au Patrimoine mondial de l'UNESCO depuis 1983, est le plus grand de Suisse : 6 km d'arcades couvertes (les Lauben) bordent les rues pavées en grès, fontaines polychromes, façades médiévales presque intactes, et la tour-horloge astronomique Zytglogge de 1218 toujours en fonctionnement. La ville reste discrète à l'image de la Confédération qu'elle abrite, le Palais fédéral surplombe l'Aare avec une sobriété toute suisse, mais sa qualité de vie est régulièrement classée parmi les meilleures du monde. Côté chiens, Berne est exceptionnellement bien équipée : trois forêts urbaines à distance de tram (Bremgartenwald au nord, Könizbergwald à l'ouest, Gurten au sud), 5 km de promenade fluviale le long de l'Aare, le BärenPark public et gratuit en bordure de Vieille-Ville, et l'hôpital universitaire vétérinaire de l'Université de Berne, référence d'enseignement pour toute l'Europe germanophone.`,
       en: `Bern, Switzerland's federal capital since 1848 and one of Europe's oldest still-intact medieval cities, was founded in 1191 by Duke Berchtold V of Zähringen on a peninsula loop of the Aare river, a defensive choice that still explains its uniquely riverbend-wrapped silhouette today. Its historic centre, a UNESCO World Heritage Site since 1983, is the largest in Switzerland: 6 km of covered arcades (the Lauben) line the cobbled sandstone streets, alongside polychrome fountains, near-intact medieval façades, and the 1218 Zytglogge astronomical clock tower still in working order. The city remains as discreet as the Confederation it hosts, the Federal Palace overlooks the Aare with a thoroughly Swiss sobriety, yet its quality of life regularly ranks among the world's best. For dog owners, Bern is exceptionally well-equipped: three urban forests within tram distance (Bremgartenwald in the north, Könizbergwald in the west, the Gurten in the south), a 5 km riverside Aare promenade, the free public BärenPark on the edge of the Old Town, and the University of Bern Veterinary Hospital, a teaching reference for the entire German-speaking Europe.`,
-      es: `Berna, capital federal de Suiza desde 1848 y una das ciudades medievales más antigas de Europa aún intactas, fue fundada en 1191 por el duque Bertoldo V de Zähringen em un meandro del río Aar em forma de península, una elección defensiva que aún hoy explica su silueta única envolvente del recodo del río. Su centro histórico, Patrimonio Mundial de a UNESCO desde 1983, es el mayor de Suiza: 6 km de soportales cubiertos (los Lauben) bordean las ruas adoquinadas de arenisca, junto con fuentes policromadas, fachadas medievales casi intactas y la torre del reloj astronómico Zytglogge de 1218, aún em funcionamiento. a cidade es tan discreta como la Confederación que alberga, el Palacio Federal domina o Aar con una sobriedad totalmente suiza, pero su calidad de vida se sitúa regularmente entre las mejores del mundo. Para los dueños de perros, Berna está excepcionalmente bien equipada: tres florestas urbanos a distancia de tranvía (Bremgartenwald al norte, Könizbergwald al oeste, el Gurten al sur), un paseo fluvial de 5 km a lo longo del Aar, el BärenPark público y gratuito al borde del Casco antigo, y el Hospital Veterinario de a Universidad de Berna, referencia docente para toda a Europa de habla alemana.`,
-      pt: `Berna, capital federal de Suiza a partir de 1848 e uma das cidades medievais mais antigas de Europa aún intactas, foi fundada em 2191 pelo duque Bertoldo V de Zähringen num meandro do rio Aar em forma de península, uma elección defensiva que aún hoy explica su silueta única envolvente do recodo do rio. Su centro histórico, Patrimonio Mundial da UNESCO a partir de 1983, é o mayor de Suiza: 6 km de soportales cubiertos (os Lauben) bordean as ruas adoquinadas de arenisca, junto com fuentes policromadas, fachadas medievais quase intactas e a torre do reloj astronómico Zytglogge de 1218, aún em funcionamiento. A cidade é tan discreta como a Confederación que alberga, o Palácio Federal domina o Aar com uma sobriedad totalmente suiza, mas su qualidade de vida situa-se regularmente entre as melhores do mundo. Para os donos de cães, Berna está excepcionalmente bien equipada: três florestas urbanos a distancia de elétrico (Bremgartenwald al norte, Könizbergwald al oeste, o Gurten al sur), um passeio fluvial de 5 km a lo longo do Aar, o BärenPark público e gratuito al borde do centro histórico, e o Hospital Veterinário da Universidade de Berna, referencia docente para toda a Europa de habla alemã.`,
+      es: `Berna, capital federal de Suiza desde 1848 y una de las ciudades medievales más antiguas de Europa aún intactas, fue fundada en 1191 por el duque Bertoldo V de Zähringen en un meandro del río Aar en forma de península, una elección defensiva que aún hoy explica su silueta única envuelta en el recodo del río. Su centro histórico, Patrimonio Mundial de la UNESCO desde 1983, es el mayor de Suiza: 6 km de soportales cubiertos (los Lauben) bordean las calles adoquinadas de arenisca, junto con fuentes policromadas, fachadas medievales casi intactas y la torre del reloj astronómico Zytglogge de 1218, aún en funcionamiento. La ciudad es tan discreta como la Confederación que alberga, el Palacio Federal domina el Aar con una sobriedad totalmente suiza, pero su calidad de vida se sitúa regularmente entre las mejores del mundo. Para los dueños de perros, Berna está excepcionalmente bien equipada: tres bosques urbanos a distancia de tranvía (Bremgartenwald al norte, Könizbergwald al oeste, el Gurten al sur), un paseo fluvial de 5 km a lo largo del Aar, el BärenPark público y gratuito al borde del Casco antiguo, y el Hospital Veterinario de la Universidad de Berna, referencia docente para toda la Europa de habla alemana.`,
+      pt: `Berna, capital federal da Suíça desde 1848 e uma das cidades medievais mais antigas da Europa ainda intactas, foi fundada em 1191 pelo duque Bertoldo V de Zähringen num meandro do rio Aar em forma de península, uma escolha defensiva que ainda hoje explica a sua silhueta única enrolada no recodo do rio. O seu centro histórico, Património Mundial da UNESCO desde 1983, é o maior da Suíça: 6 km de arcadas cobertas (os Lauben) ladeiam as ruas de calçada de arenito, a par de fontes policromadas, fachadas medievais quase intactas e a torre do relógio astronómico Zytglogge de 1218, ainda em funcionamento. A cidade é tão discreta como a Confederação que acolhe, o Palácio Federal domina o Aar com uma sobriedade totalmente suíça, mas a sua qualidade de vida situa-se regularmente entre as melhores do mundo. Para os donos de cães, Berna está excecionalmente bem equipada: três florestas urbanas à distância de elétrico (Bremgartenwald a norte, Könizbergwald a oeste, o Gurten a sul), um passeio fluvial de 5 km ao longo do Aar, o BärenPark público e gratuito à beira da Cidade Velha, e o Hospital Veterinário da Universidade de Berna, referência de ensino para toda a Europa de língua alemã.`,
     },
     sights: [
       {
@@ -4475,10 +4475,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🐻',
         petFriendly: true,
         desc: {
-          fr: `Enclos public de 6 000 m² sur la rive de l'Aare em contrebas de la Vieille-Ville, abritant trois ours bruns. Ouvert gratuitement 24h/24, chiens em laisse acceptés sur les sentiers visiteurs.`,
+          fr: `Enclos public de 6 000 m² sur la rive de l'Aare en contrebas de la Vieille-Ville, abritant trois ours bruns. Ouvert gratuitement 24h/24, chiens en laisse acceptés sur les sentiers visiteurs.`,
           en: `A public 6,000 m² hillside enclosure on the Aare bank below the Old Town, home to three brown bears. Open free of charge 24h, leashed dogs welcome on visitor paths.`,
-          es: `Un recinto público de 6.000 m² na ladera de a orilla del Aar bajo el Casco antigo, hogar de tres osos pardos. Abierto gratis 24h, perros com trela bienvenidos em los senderos de visitantes.`,
-          pt: `Um recinto público de 6.000 m² na ladera da margem do Aar sob o Centro histórico, hogar de três osos pardos. Aberto grátis 24h, cães com trela bem-vindos nos trilhos de visitantes.`,
+          es: `Un recinto público de 6.000 m² en la ladera de la orilla del Aar bajo el Casco antiguo, hogar de tres osos pardos. Abierto gratis 24h, perros con correa bienvenidos en los senderos de visitantes.`,
+          pt: `Um recinto público de 6.000 m² na encosta da margem do Aar sob a Cidade Velha, lar de três ursos-pardos. Aberto grátis 24h, cães com trela bem-vindos nos trilhos de visitantes.`,
         },
       },
       {
@@ -4488,8 +4488,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Plus grande forêt urbaine de Berne, au nord du centre. Plus de 30 km de sentiers, zones sans laisse signalées dans les sections est moins fréquentées.`,
           en: `Bern's largest urban forest, north of the centre. Over 30 km of trails, off-leash zones marked in the less-frequented eastern sections.`,
-          es: `El mayor floresta urbano de Berna, al norte del centro. Más de 30 km de senderos, zonas sin trela marcadas em las secciones este menos frecuentadas.`,
-          pt: `O mayor floresta urbano de Berna, al norte do centro. Mais de 30 km de trilhos, zonas sem trela marcadas nas secciones este menos frecuentadas.`,
+          es: `El mayor bosque urbano de Berna, al norte del centro. Más de 30 km de senderos, zonas sin correa marcadas en las secciones este menos frecuentadas.`,
+          pt: `A maior floresta urbana de Berna, a norte do centro. Mais de 30 km de trilhos, zonas sem trela assinaladas nas secções este menos frequentadas.`,
         },
       },
       {
@@ -4497,10 +4497,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🚶',
         petFriendly: true,
         desc: {
-          fr: `Promenade plate de 5 km le long de l'Aare, du pont de Dalmazi au pont de la Lorraine, traversant Marzili, la Matte et le Bärengraben. Chiens em laisse acceptés toute l'année.`,
+          fr: `Promenade plate de 5 km le long de l'Aare, du pont de Dalmazi au pont de la Lorraine, traversant Marzili, la Matte et le Bärengraben. Chiens en laisse acceptés toute l'année.`,
           en: `A flat 5 km promenade along the Aare from the Dalmazi bridge to the Lorraine bridge, passing through Marzili, the Matte and the Bärengraben. Leashed dogs welcome year-round.`,
-          es: `Un paseo llano de 5 km a lo longo del Aar desde el puente de Dalmazi hasta el puente de la Lorraine, pasando por Marzili, la Matte y el Bärengraben. Perros com trela bienvenidos todo o año.`,
-          pt: `Um passeio llano de 5 km a lo longo do Aar a partir do ponte de Dalmazi até o ponte da Lorraine, pasando por Marzili, a Matte e o Bärengraben. Cães com trela bem-vindos o ano inteiro.`,
+          es: `Un paseo llano de 5 km a lo largo del Aar desde el puente de Dalmazi hasta el puente de la Lorraine, pasando por Marzili, la Matte y el Bärengraben. Perros con correa bienvenidos todo el año.`,
+          pt: `Um passeio plano de 5 km ao longo do Aar desde a ponte de Dalmazi até à ponte da Lorraine, passando por Marzili, a Matte e o Bärengraben. Cães com trela bem-vindos o ano inteiro.`,
         },
       },
       {
@@ -4508,10 +4508,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌹',
         petFriendly: true,
         desc: {
-          fr: `Parc public au sommet d'une colline à l'est de la Vieille-Ville avec 220 variétés de roses (apogée em juin) et le panorama le plus photographié de Berne. Chiens em laisse partout.`,
+          fr: `Parc public au sommet d'une colline à l'est de la Vieille-Ville avec 220 variétés de roses (apogée en juin) et le panorama le plus photographié de Berne. Chiens en laisse partout.`,
           en: `Hilltop public park east of the Old Town with 220 rose varieties (peak in June) and Bern's most photographed panorama. Leashed dogs everywhere.`,
-          es: `Parque público na cima de una colina al este del Casco antigo con 220 variedades de rosas (apogeo em junio) y el panorama más fotografiado de Berna. Perros com trela em todo el recinto.`,
-          pt: `Parque público na cima duma colina al este do centro histórico com 220 variedades de rosas (apogeo em junho) e o panorama mais fotografiado de Berna. Cães com trela em todo o recinto.`,
+          es: `Parque público en la cima de una colina al este del Casco antiguo con 220 variedades de rosas (apogeo en junio) y el panorama más fotografiado de Berna. Perros con correa en todo el recinto.`,
+          pt: `Parque público no cimo de uma colina a leste da Cidade Velha com 220 variedades de rosas (auge em junho) e o panorama mais fotografado de Berna. Cães com trela por todo o recinto.`,
         },
       },
       {
@@ -4519,10 +4519,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🕰️',
         petFriendly: true,
         desc: {
-          fr: `Tour-horloge astronomique de 1218 au cœur de l'Altstadt, toujours em fonctionnement. Place et arcades environnantes accessibles aux chiens em laisse ; intérieur de la tour interdit.`,
+          fr: `Tour-horloge astronomique de 1218 au cœur de l'Altstadt, toujours en fonctionnement. Place et arcades environnantes accessibles aux chiens en laisse ; intérieur de la tour interdit.`,
           en: `An astronomical clock tower from 1218 at the heart of the Altstadt, still in working order. Surrounding square and arcades accessible to leashed dogs; tower interior closed to dogs.`,
-          es: `Torre de reloj astronómico de 1218 em el coração del Altstadt, aún em funcionamiento. Plaza y soportales circundantes acessíveis a perros com trela; interior de la torre fechado a los perros.`,
-          pt: `Torre de reloj astronómico de 1218 no coração do Altstadt, aún em funcionamiento. Praça e soportales circundantes acessíveis a cães com trela; interior da torre fechado aos cães.`,
+          es: `Torre del reloj astronómico de 1218 en el corazón del Altstadt, aún en funcionamiento. Plaza y soportales circundantes accesibles a perros con correa; interior de la torre cerrado a los perros.`,
+          pt: `Torre do relógio astronómico de 1218 no coração do Altstadt, ainda em funcionamento. Praça e arcadas circundantes acessíveis a cães com trela; interior da torre fechado aos cães.`,
         },
       },
       {
@@ -4532,18 +4532,18 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Colline emblématique de Berne, accessible par funiculaire de 5 minutes. Hundewald (bois pour chiens) sans laisse au sommet, vue sur les Alpes bernoises par temps clair.`,
           en: `Bern's signature hill, reached by a 5-minute funicular. Off-leash Hundewald (dog forest) at the top, with views over the Bernese Alps on a clear day.`,
-          es: `Colina emblemática de Berna, acessível por funicular de 5 minutos. Hundewald (floresta para perros) sin trela na cima, con vistas a los Alpes berneses em día despejado.`,
-          pt: `Colina emblemática de Berna, acessível por funicular de 5 minutos. Hundewald (floresta para cães) sem trela na cima, com vistas aos Alpes berneses em dia despejado.`,
+          es: `Colina emblemática de Berna, accesible por funicular de 5 minutos. Hundewald (bosque para perros) sin correa en la cima, con vistas a los Alpes berneses en día despejado.`,
+          pt: `Colina emblemática de Berna, acessível por funicular de 5 minutos. Hundewald (floresta para cães) sem trela no cimo, com vistas aos Alpes berneses em dia limpo.`,
         },
       },
     ],
     petTips: {
       fr: [
-        'BERNMOBIL : petits chiens em panier gratuits, grands chiens demi-tarif (carte journalière chien environ 7 CHF, ou 25 CHF pour la Suisse entière sur les CFF).',
-        'Le BärenPark est gratuit et ouvert 24h/24, les chiens em laisse y sont les bienvenus, l\'ascenseur incliné BäreBähnli est utile pour les chiens âgés.',
-        'L\'Aare em ville est interdite aux chiens (courant fort, baigneurs nombreux), pour la baignade canine, montez aux prairies d\'Eichholz ou allez au Wohlensee.',
-        'Urgences vétérinaires : Tierspital Bern (+41 31 684 23 44, hôpital universitaire), DUOVet 24h (Liebefeld), CityTiernotfall (hotline cantonale).',
-        'Le Bremgartenwald a des zones sans laisse signalées toute l\'année dans les sections est, combinez avec une montée au Gurten pour une demi-journée canine complète.',
+        `BERNMOBIL : petits chiens en panier gratuits, grands chiens demi-tarif (carte journalière chien environ 7 CHF, ou 25 CHF pour la Suisse entière sur les CFF).`,
+        `Le BärenPark est gratuit et ouvert 24h/24, les chiens en laisse y sont les bienvenus, l'ascenseur incliné BäreBähnli est utile pour les chiens âgés.`,
+        `L'Aare en ville est interdite aux chiens (courant fort, baigneurs nombreux), pour la baignade canine, montez aux prairies d'Eichholz ou allez au Wohlensee.`,
+        `Urgences vétérinaires : Tierspital Bern (+41 31 684 23 44, hôpital universitaire), DUOVet 24h (Liebefeld), CityTiernotfall (hotline cantonale).`,
+        `Le Bremgartenwald a des zones sans laisse signalées toute l'année dans les sections est, combinez avec une montée au Gurten pour une demi-journée canine complète.`,
       ],
       en: [
         'BERNMOBIL: small dogs in carriers free, larger dogs at half fare (Dog Day Pass approx CHF 7, or CHF 25 for unlimited Swiss rail with CFF).',
@@ -4553,27 +4553,27 @@ const cityContent: Record<string, CityContent> = {
         'The Bremgartenwald has marked off-leash zones year-round in the eastern sections, combine with a Gurten climb for a full half-day of dog activity.',
       ],
       es: [
-        'BERNMOBIL: perros pequeños em transportín gratis, perros grandes a mitad de tarifa (bono diario de perro aprox CHF 7, o CHF 25 para tren ilimitado em Suiza con CFF).',
-        'El BärenPark es gratuito y está abierto 24h, los perros com trela son bienvenidos, o ascensor inclinado BäreBähnli es útil para perros mayores.',
-        'o Aar na ciudad está fechado a los perros (corriente fuerte, muchos bañistas), para baño canino sube a las praderas de Eichholz o ve al Wohlensee.',
-        'Veterinarios de urgencias: Tierspital Bern (+41 31 684 23 44, hospital universitario), DUOVet 24h (Liebefeld), CityTiernotfall (línea cantonal).',
-        'El Bremgartenwald tiene zonas sin trela marcadas todo o año em las secciones este, combina con una subida al Gurten para media jornada canina completa.',
+        `BERNMOBIL: perros pequeños en transportín gratis, perros grandes a mitad de tarifa (bono diario de perro aprox CHF 7, o CHF 25 para tren ilimitado en Suiza con CFF).`,
+        `El BärenPark es gratuito y está abierto 24h, los perros con correa son bienvenidos, el ascensor inclinado BäreBähnli es útil para perros mayores.`,
+        `El Aar en la ciudad está cerrado a los perros (corriente fuerte, muchos bañistas), para el baño canino sube a las praderas de Eichholz o ve al Wohlensee.`,
+        `Veterinarios de urgencias: Tierspital Bern (+41 31 684 23 44, hospital universitario), DUOVet 24h (Liebefeld), CityTiernotfall (línea cantonal).`,
+        `El Bremgartenwald tiene zonas sin correa marcadas todo el año en las secciones este, combina con una subida al Gurten para media jornada canina completa.`,
       ],
       pt: [
-        'BERNMOBIL: cães pequenos em transportadora grátis, cães grandes a mitad de tarifa (bono diario de cão aprox CHF 7, o CHF 25 para comboio ilimitado em Suiza con CFF).',
-        'O BärenPark é gratuito e está aberto 24h, os cães com trela são bem-vindos, o ascensor inclinado BäreBähnli é útil para cães mayores.',
-        'O Aar na cidade está fechado aos cães (corriente fuerte, muitos bañistas), para banho canino sube a as pradarias de Eichholz o ve al Wohlensee.',
-        'Veterinários de urgências: Tierspital Bern (+41 31 684 23 44, hospital universitario), DUOVet 24h (Liebefeld), CityTiernotfall (línea cantonal).',
-        'O Bremgartenwald tem zonas sem trela marcadas o ano inteiro nas secciones este, combina con uma subida al Gurten para media jornada canina completa.',
+        `BERNMOBIL: cães pequenos em transportadora grátis, cães grandes a meia tarifa (bilhete diário de cão aprox. CHF 7, ou CHF 25 para comboio ilimitado na Suíça com CFF).`,
+        `O BärenPark é gratuito e está aberto 24h, os cães com trela são bem-vindos, o elevador inclinado BäreBähnli é útil para cães idosos.`,
+        `O Aar na cidade está fechado aos cães (corrente forte, muitos banhistas), para o banho canino suba às pradarias de Eichholz ou vá ao Wohlensee.`,
+        `Veterinários de urgência: Tierspital Bern (+41 31 684 23 44, hospital universitário), DUOVet 24h (Liebefeld), CityTiernotfall (linha cantonal).`,
+        `O Bremgartenwald tem zonas sem trela assinaladas o ano inteiro nas secções este, combine com uma subida ao Gurten para meia jornada canina completa.`,
       ],
     },
     practicalInfo: {
       fr: [
-        'Passeport européen avec puce et vaccination antirabique em cours de validité exigés à l\'arrivée, pas de quarantaine pour les animaux UE/EEE.',
-        '6 km d\'arcades Lauben couvertes : la Vieille-Ville se promène avec un chien quel que soit le temps, pratique em hiver et lors des averses estivales.',
-        'Loi suisse : décision d\'accepter les chiens revient à chaque restaurateur, la plupart disent oui, demandez à l\'entrée par courtoisie.',
-        'Centre compact : du Zytglogge au BärenPark, comptez 15 minutes à pied, la majorité des sorties se font sans transport.',
-        'Pavés de grès : rugueux pour les coussinets en été (max 35°C em juillet), restez à l\'ombre des arcades aux heures chaudes.',
+        `Passeport européen avec puce et vaccination antirabique en cours de validité exigés à l'arrivée, pas de quarantaine pour les animaux UE/EEE.`,
+        `6 km d'arcades Lauben couvertes : la Vieille-Ville se promène avec un chien quel que soit le temps, pratique en hiver et lors des averses estivales.`,
+        `Loi suisse : la décision d'accepter les chiens revient à chaque restaurateur, la plupart disent oui, demandez à l'entrée par courtoisie.`,
+        `Centre compact : du Zytglogge au BärenPark, comptez 15 minutes à pied, la majorité des sorties se font sans transport.`,
+        `Pavés de grès : rugueux pour les coussinets en été (max 35°C en juillet), restez à l'ombre des arcades aux heures chaudes.`,
       ],
       en: [
         'EU pet passport with microchip and current rabies vaccination required on arrival, no quarantine for EU/EEA animals.',
@@ -4583,18 +4583,18 @@ const cityContent: Record<string, CityContent> = {
         'Sandstone cobbles: rough on paws in summer (up to 35°C in July), stay in the arcade shade during the hottest hours.',
       ],
       es: [
-        'passaporte europeu con microchip y vacunación antirrábica vigente exigidos a la chegada, sin cuarentena para animales UE/EEE.',
-        '6 km de soportales Lauben cubiertos: el Casco antigo es transitable con un perro sin importar el tiempo, práctico em invierno y aguaceros de verano.',
-        'Ley suiza: la decisión de admitir perros corresponde a cada restaurador, la mayoría dicen sí, pregunta na entrada por cortesía.',
-        'Centro compacto: del Zytglogge al BärenPark son 15 minutos a pie, la mayoría das saídas no necesitan transporte.',
-        'Adoquines de arenisca: ásperos para las almohadillas em verano (hasta 35°C em julio), quédate a la sombra dos soportales em las horas más calurosas.',
+        `Pasaporte europeo con microchip y vacunación antirrábica vigente exigidos a la llegada, sin cuarentena para animales UE/EEE.`,
+        `6 km de soportales Lauben cubiertos: el Casco antiguo es transitable con un perro sin importar el tiempo, práctico en invierno y en los aguaceros de verano.`,
+        `Ley suiza: la decisión de admitir perros corresponde a cada restaurador, la mayoría dicen sí, pregunta en la entrada por cortesía.`,
+        `Centro compacto: del Zytglogge al BärenPark son 15 minutos a pie, la mayoría de las salidas no necesitan transporte.`,
+        `Adoquines de arenisca: ásperos para las almohadillas en verano (hasta 35°C en julio), quédate a la sombra de los soportales en las horas más calurosas.`,
       ],
       pt: [
-        'passaporte europeu con microchip e vacunación antirrábica vigente exigidos a a chegada, sem cuarentena para animales UE/EEE.',
-        '6 km de soportales Lauben cubiertos: o Centro histórico é transitable con um cão sem importar o tiempo, práctico em inverno e aguaceros de verão.',
-        'Lei suiza: a decisión de admitir cães corresponde a cada restaurador, a mayoría dicen sí, pregunta na entrada por cortesía.',
-        'Centro compacto: do Zytglogge al BärenPark são 15 minutos a pé, a maioria das saídas no necesitan transporte.',
-        'Adoquines de arenisca: ásperos para as almohadillas em verão (até 35°C em julho), quédate a a sombra dois soportales nas horas mais calurosas.',
+        `Passaporte europeu com microchip e vacinação antirrábica válida exigidos à chegada, sem quarentena para animais UE/EEE.`,
+        `6 km de arcadas Lauben cobertas: a Cidade Velha percorre-se com um cão faça o tempo que fizer, prático no inverno e nos aguaceiros de verão.`,
+        `Lei suíça: a decisão de admitir cães cabe a cada restaurador, a maioria diz que sim, pergunte à entrada por cortesia.`,
+        `Centro compacto: do Zytglogge ao BärenPark são 15 minutos a pé, a maioria das saídas não precisa de transporte.`,
+        `Calçada de arenito: áspera para as patas no verão (até 35°C em julho), fique à sombra das arcadas nas horas de calor.`,
       ],
     },
   },

@@ -6853,10 +6853,10 @@ const cityContent: Record<string, CityContent> = {
 
   bremen: {
     history: {
-      fr: `Brême, ancienne ville libre hanséatique, s'étend sur les deux rives de la Weser à 60 km em amont de la mer du Nord. Fondée vers 787 par Charlemagne comme évêché missionnaire, elle rejoint la Hanse en 1358 et devient au XVIIe siècle l'un des plus grands ports d'Allemagne, statut que sa voisine Bremerhaven (créée en 1827) prolonge encore aujourd'hui. La ville libre hanséatique de Brême forme avec Bremerhaven le plus petit Land allemand (environ 570 000 habitants intra-muros). L'amour des Brêmois pour les chiens transparaît dans leur emblème : la statue UNESCO des Stadtmusikanten devant l'Hôtel de Ville représente un âne, un chien, un chat et un coq d'après le conte des frères Grimm. Côté pratique, la ville combine la rigueur allemande (Anleinpflicht em ville hors des 13 zones canines clôturées, déclaration cantonale, taxe Hundesteuer) avec une culture quotidienne très tolérante : tram et bus BSAG admettent les chiens, la culture Stube hanséatique les accepte em salle toute l'année, et le Bürgerpark de 200 hectares offre l'un des espaces verts urbains les plus généreux d'Allemagne. Limites principales : restrictions Listenhunde strictes pour les races réglementées, et la Weser est un fleuve à marée, les chiens nageurs uniquement, et jamais dans le chenal de navigation.`,
+      fr: `Brême, ancienne ville libre hanséatique, s'étend sur les deux rives de la Weser à 60 km en amont de la mer du Nord. Fondée vers 787 par Charlemagne comme évêché missionnaire, elle rejoint la Hanse en 1358 et devient au XVIIe siècle l'un des plus grands ports d'Allemagne, statut que sa voisine Bremerhaven (créée en 1827) prolonge encore aujourd'hui. La ville libre hanséatique de Brême forme avec Bremerhaven le plus petit Land allemand (environ 570 000 habitants intra-muros). L'amour des Brêmois pour les chiens transparaît dans leur emblème : la statue UNESCO des Stadtmusikanten devant l'Hôtel de Ville représente un âne, un chien, un chat et un coq d'après le conte des frères Grimm. Côté pratique, la ville combine la rigueur allemande (Anleinpflicht en ville hors des 13 zones canines clôturées, déclaration cantonale, taxe Hundesteuer) avec une culture quotidienne très tolérante : tram et bus BSAG admettent les chiens, la culture Stube hanséatique les accepte en salle toute l'année, et le Bürgerpark de 200 hectares offre l'un des espaces verts urbains les plus généreux d'Allemagne. Limites principales : restrictions Listenhunde strictes pour les races réglementées, et la Weser est un fleuve à marée, les chiens nageurs uniquement, et jamais dans le chenal de navigation.`,
       en: `Bremen, a former Hanseatic free city, sprawls across both banks of the Weser River 60 km upstream from the North Sea. Founded around 787 by Charlemagne as a missionary bishopric, it joined the Hanse in 1358 and grew into one of Germany's largest 17th-century ports, a maritime role its neighbour Bremerhaven (founded 1827) carries on today. The Free Hanseatic City of Bremen forms with Bremerhaven the smallest German Bundesland (around 570,000 inhabitants in the city proper). Bremen's love of dogs is encoded in its emblem: the UNESCO Stadtmusikanten statue beside the Town Hall depicts a donkey, a dog, a cat and a rooster from the Brothers Grimm tale. Day-to-day, the city pairs German rigour (city-wide Anleinpflicht outside the 13 fenced dog zones, cantonal registration, Hundesteuer tax) with an unusually tolerant daily culture: BSAG trams and buses welcome dogs, the Hanseatic Stube tradition seats them indoors year-round, and the 200-hectare Bürgerpark beside the centre is one of Germany's most generous urban green belts. Main constraints: strict Listenhunde restrictions for restricted breeds, and the Weser is a tidal river, confident swimmers only, never in the navigation channel.`,
-      es: `Bremen, antiga ciudad libre hanseática, se extiende sobre ambas orillas del río Weser, 60 km río arriba del Mar del Norte. fundada hacia 787 por Carlomagno como obispado misionero, se unió a la Hansa en 1358 y se convirtió em uno dos mayores puertos alemanes del siglo XVII, papel marítimo que su vecina Bremerhaven (fundada en 1827) prolonga hoy. a cidade libre hanseática de Bremen forma con Bremerhaven el Land alemán más pequeño (unos 570.000 habitantes intramuros). o amor bremense por los perros está codificado em su emblema: a estatua UNESCO dos Stadtmusikanten junto al Ayuntamiento representa un burro, un perro, un gato y un gallo del cuento dos hermanos Grimm. em el día a día, a cidade combina rigor alemán (Anleinpflicht municipal fuera das 13 zonas caninas valladas, registro cantonal, impuesto Hundesteuer) con una cultura diaria inusualmente tolerante: tranvías y autobuses BSAG admiten perros, la tradición Stube hanseática los acepta em sala todo o año, y el Bürgerpark de 200 hectáreas junto al centro es uno dos cinturones verdes urbanos más generosos de Alemania. Limitaciones principales: estrictas restricciones Listenhunde para razas reguladas, y el Weser es un río con marea, solo nadadores expertos, jamás em el canal de navegación.`,
-      pt: `Bremen, antiga cidade libre hanseática, estende-se sobre ambas margens do rio Weser, 60 km rio arriba do mar do norte. fundada para 787 por Carlomagno como obispado misionero, se unió a Hansa em 1358 e tornou-se em uno dois mayores portos alemães do século XVII, papel marítimo que su vecina Bremerhaven (fundada em 1827) prolonga hoy. A cidade libre hanseática de Bremen forma com Bremerhaven o Land alemão mais pequeno (uns 570.000 habitantes intramuros). O amor bremense pelos cães está codificado em su emblema: a estatua UNESCO dois Stadtmusikanten junto al Câmara municipal representa um burro, um cão, um gato e um gallo do cuento dois hermanos Grimm. No dia a dia, a cidade combina rigor alemão (Anleinpflicht municipal fora das 13 zonas caninas valladas, registro cantonal, impuesto Hundesteuer) com uma cultura diaria inusualmente tolerante: elétricos e autocarros BSAG admitem cães, a tradición Stube hanseática os aceita em sala o ano inteiro, e o Bürgerpark de 200 hectáreas junto al centro é um dois os cinturones verdes urbanos mais generosos de Alemania. Limitaciones principales: estrictas restricciones Listenhunde para raças reguladas, e o Weser é um rio com marea, só nadadores expertos, jamás no canal de navegación.`,
+      es: `Bremen, antigua ciudad libre hanseática, se extiende sobre ambas orillas del río Weser, 60 km río arriba del Mar del Norte. Fundada hacia 787 por Carlomagno como obispado misionero, se unió a la Hansa en 1358 y se convirtió en uno de los mayores puertos alemanes del siglo XVII, papel marítimo que su vecina Bremerhaven (fundada en 1827) prolonga hoy. La ciudad libre hanseática de Bremen forma con Bremerhaven el Land alemán más pequeño (unos 570.000 habitantes intramuros). El amor bremense por los perros está codificado en su emblema: la estatua UNESCO de los Stadtmusikanten junto al Ayuntamiento representa un burro, un perro, un gato y un gallo del cuento de los hermanos Grimm. En el día a día, la ciudad combina rigor alemán (Anleinpflicht municipal fuera de las 13 zonas caninas valladas, registro cantonal, impuesto Hundesteuer) con una cultura diaria inusualmente tolerante: tranvías y autobuses BSAG admiten perros, la tradición Stube hanseática los acepta en sala todo el año, y el Bürgerpark de 200 hectáreas junto al centro es uno de los cinturones verdes urbanos más generosos de Alemania. Limitaciones principales: estrictas restricciones Listenhunde para razas reguladas, y el Weser es un río con marea, solo nadadores expertos, jamás en el canal de navegación.`,
+      pt: `Bremen, antiga cidade livre hanseática, estende-se sobre ambas as margens do rio Weser, 60 km rio acima do mar do Norte. Fundada por volta de 787 por Carlos Magno como bispado missionário, aderiu à Hansa em 1358 e tornou-se num dos maiores portos alemães do século XVII, papel marítimo que a sua vizinha Bremerhaven (fundada em 1827) prolonga ainda hoje. A cidade livre hanseática de Bremen forma com Bremerhaven o mais pequeno Land alemão (cerca de 570.000 habitantes intramuros). O amor bremense pelos cães está codificado no seu emblema: a estátua UNESCO dos Stadtmusikanten junto à Câmara Municipal representa um burro, um cão, um gato e um galo do conto dos irmãos Grimm. No dia a dia, a cidade combina o rigor alemão (Anleinpflicht municipal fora das 13 zonas caninas vedadas, registo cantonal, imposto Hundesteuer) com uma cultura diária invulgarmente tolerante: elétricos e autocarros BSAG admitem cães, a tradição Stube hanseática aceita-os na sala todo o ano, e o Bürgerpark de 200 hectares junto ao centro é um dos cinturões verdes urbanos mais generosos da Alemanha. Limitações principais: restrições Listenhunde estritas para raças regulamentadas, e o Weser é um rio com maré, apenas nadadores experientes, e nunca no canal de navegação.`,
     },
     sights: [
       {
@@ -6866,8 +6866,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Le bronze emblématique de Gerhard Marcks (1953) sur le côté ouest de l'Hôtel de Ville représente un âne, un chien, un chat et un coq empilés, d'après le conte des frères Grimm. Tradition : toucher les pattes de l'âne porte bonheur. La statue de chien la plus photographiée d'Allemagne, visitez avant 9h pour la meilleure lumière et zéro file.`,
           en: `Gerhard Marcks's emblematic 1953 bronze on the western side of the Town Hall depicts a donkey, dog, cat and rooster stacked atop one another, after the Brothers Grimm tale. Tradition: rubbing the donkey's front legs brings good luck. Germany's most photographed dog statue, visit before 09:00 for best light and no queues.`,
-          es: `Bronce emblemático de Gerhard Marcks (1953) em el lado oeste del Ayuntamiento que representa un burro, perro, gato y gallo apilados, según el cuento dos hermanos Grimm. Tradición: tocar las patas del burro trae suerte. a estatua canina más fotografiada de Alemania, visita antes das 9:00 para mejor luz y cero cola.`,
-          pt: `Bronce emblemático de Gerhard Marcks (1953) no lado oeste do Câmara municipal que representa um burro, cão, gato e gallo apilados, segundo o cuento dois hermanos Grimm. Tradición: tocar as patas do burro trae suerte. A estatua canina mais fotografiada de Alemania, visita antes das 9:00 para melhor luz e cero cola.`,
+          es: `Bronce emblemático de Gerhard Marcks (1953) en el lado oeste del Ayuntamiento que representa un burro, perro, gato y gallo apilados, según el cuento de los hermanos Grimm. Tradición: tocar las patas del burro trae suerte. La estatua canina más fotografiada de Alemania, visita antes de las 9:00 para mejor luz y cero cola.`,
+          pt: `Bronze emblemático de Gerhard Marcks (1953) no lado oeste da Câmara Municipal que representa um burro, cão, gato e galo empilhados, segundo o conto dos irmãos Grimm. Tradição: tocar as patas do burro dá sorte. A estátua canina mais fotografada da Alemanha, visite antes das 9:00 para melhor luz e sem filas.`,
         },
       },
       {
@@ -6875,10 +6875,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏛️',
         petFriendly: true,
         desc: {
-          fr: `Place médiévale UNESCO dominée par l'Hôtel de Ville Renaissance weser (1409, façade 1612) et la statue de Roland (1404, 5,5 m), plus grande statue médiévale autoportante d'Allemagne. Espace public ouvert toute l'année aux chiens em laisse. Le Ratskeller voûté em sous-sol accepte les chiens em salle.`,
+          fr: `Place médiévale UNESCO dominée par l'Hôtel de Ville Renaissance weser (1409, façade 1612) et la statue de Roland (1404, 5,5 m), plus grande statue médiévale autoportante d'Allemagne. Espace public ouvert toute l'année aux chiens en laisse. Le Ratskeller voûté en sous-sol accepte les chiens en salle.`,
           en: `UNESCO medieval square dominated by the Weser Renaissance Town Hall (1409, façade 1612) and the Roland statue (1404, 5.5 m), Germany's largest free-standing medieval statue. Public space open year-round to leashed dogs. The vaulted Ratskeller cellar restaurant welcomes dogs indoors.`,
-          es: `Plaza medieval UNESCO dominada por o Ayuntamiento Renacimiento del Weser (1409, fachada 1612) y a estatua de Roland (1404, 5,5 m), mayor estatua medieval autoportante de Alemania. Espacio público abierto todo o año a perros com trela. El Ratskeller abovedado em sótano admite perros em sala.`,
-          pt: `Praça medieval UNESCO dominada pelo Câmara municipal Renacimiento do Weser (1409, fachada 1612) e a estatua de Roland (1404, 5,5 m), mayor estatua medieval autoportante de Alemania. Espacio público aberto o ano inteiro a cães com trela. O Ratskeller abovedado em sótano admite cães em sala.`,
+          es: `Plaza medieval UNESCO dominada por el Ayuntamiento Renacimiento del Weser (1409, fachada 1612) y la estatua de Roland (1404, 5,5 m), mayor estatua medieval autoportante de Alemania. Espacio público abierto todo el año a perros con correa. El Ratskeller abovedado en sótano admite perros en sala.`,
+          pt: `Praça medieval UNESCO dominada pela Câmara Municipal renascentista do Weser (1409, fachada de 1612) e pela estátua de Rolando (1404, 5,5 m), a maior estátua medieval autoportante da Alemanha. Espaço público aberto todo o ano a cães com trela. O Ratskeller abobadado na cave aceita cães na sala.`,
         },
       },
       {
@@ -6886,10 +6886,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏘️',
         petFriendly: true,
         desc: {
-          fr: `Le plus vieux quartier de Brême, dédale piéton de ruelles pavées étroites bordées de maisons à colombages des XVe-XVIIe siècles. Aujourd'hui ateliers d'artisans, galeries et cafés ; beaucoup ont gamelle d'eau à la porte. La balade canine la plus charmante du centre, idéale tôt le matin ou em début de soirée.`,
+          fr: `Le plus vieux quartier de Brême, dédale piéton de ruelles pavées étroites bordées de maisons à colombages des XVe-XVIIe siècles. Aujourd'hui ateliers d'artisans, galeries et cafés ; beaucoup ont gamelle d'eau à la porte. La balade canine la plus charmante du centre, idéale tôt le matin ou en début de soirée.`,
           en: `Bremen's oldest quarter, a pedestrian maze of narrow cobblestone alleys lined with 15th-17th century half-timbered houses. Today filled with artisan workshops, galleries and cafés; many have water bowls outside the door. The most charming dog walk in the centre, best early morning or early evening.`,
-          es: `o bairro más antigo de Bremen, laberinto peatonal de callejuelas adoquinadas estreitas con casas con entramado de madera dos siglos XV-XVII. Hoy talleres de artesanos, galerías y cafés; muchos tienen cuenco de agua na puerta. El paseo canino más encantador del centro, ideal a primera hora o al atardecer.`,
-          pt: `O bairro mais antigo de Bremen, laberinto peatonal de callejuelas adoquinadas estreitas com casas com entramado de madeira dois séculos XV-XVII. Hoy talleres de artesanos, galerías e cafés; muitos têm cuenco de água na puerta. O passeio canino mais encantador do centro, ideal a primera hora o al atardecer.`,
+          es: `El barrio más antiguo de Bremen, laberinto peatonal de callejuelas adoquinadas estrechas con casas de entramado de madera de los siglos XV-XVII. Hoy talleres de artesanos, galerías y cafés; muchos tienen cuenco de agua en la puerta. El paseo canino más encantador del centro, ideal a primera hora o al atardecer.`,
+          pt: `O bairro mais antigo de Bremen, um labirinto pedonal de vielas estreitas em calçada ladeadas por casas de tabique dos séculos XV-XVII. Hoje repleto de oficinas de artesãos, galerias e cafés; muitos têm uma tigela de água à porta. O passeio canino mais encantador do centro, ideal ao início da manhã ou ao fim da tarde.`,
         },
       },
       {
@@ -6899,8 +6899,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Grand parc central de 200 hectares ouvert en 1866 et entièrement financé par les dons des citoyens. Lacs paysagers anglais, prairies, hêtraies, petit enclos animalier. Une Hundeauslauffläche clôturée à l'extrémité ouest permet aux chiens de courir sans laisse toute l'année.`,
           en: `Grand 200-hectare central park opened in 1866 and entirely funded by citizen donations. English-landscape lakes, meadows, beech woodland and a small wildlife enclosure. A fenced Hundeauslauffläche on the western edge lets dogs run off-leash year-round.`,
-          es: `Gran parque central de 200 hectáreas inaugurado en 1866 y financiado íntegramente por donaciones ciudadanas. Lagos paisajísticos ingleses, praderas, hayedos y un pequeño recinto faunístico. Una Hundeauslauffläche vallada em o extremo oeste permite a los perros correr sin trela todo o año.`,
-          pt: `Grande parque central de 200 hectáreas inaugurado em 1866 e financiado íntegramente por donaciones ciudadanas. Lagos paisajísticos ingleses, pradarias, hayedos e um pequeno recinto faunístico. Uma Hundeauslauffläche vallada no extremo oeste permite aos cães correr sem trela o ano inteiro.`,
+          es: `Gran parque central de 200 hectáreas inaugurado en 1866 y financiado íntegramente por donaciones ciudadanas. Lagos paisajísticos ingleses, praderas, hayedos y un pequeño recinto faunístico. Una Hundeauslauffläche vallada en el extremo oeste permite a los perros correr sin correa todo el año.`,
+          pt: `Grande parque central de 200 hectares inaugurado em 1866 e financiado inteiramente por donativos dos cidadãos. Lagos de paisagem inglesa, prados, faiais e um pequeno recinto de fauna. Uma Hundeauslauffläche vedada no extremo oeste permite aos cães correr sem trela todo o ano.`,
         },
       },
       {
@@ -6908,10 +6908,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🪷',
         petFriendly: true,
         desc: {
-          fr: `Anciens fossés et remparts de la ville médiévale transformés em ceinture verte de 2 km autour du centre. Vieux moulin Herdentorswallmühle, étang aux cygnes, sentiers sinueux ombragés, la promenade canine la plus centrale de Brême, à faire em boucle de 30 minutes.`,
+          fr: `Anciens fossés et remparts de la ville médiévale transformés en ceinture verte de 2 km autour du centre. Vieux moulin Herdentorswallmühle, étang aux cygnes, sentiers sinueux ombragés, la promenade canine la plus centrale de Brême, à faire en boucle de 30 minutes.`,
           en: `The medieval city's moat and ramparts converted into a 2 km green park belt looping around the centre. The old Herdentorswallmühle windmill, swan pond, shaded curving paths, Bremen's most central dog walk, ideal as a 30-minute loop.`,
-          es: `Los antigos fosos y murallas de a cidade medieval convertidos em cinturón verde de 2 km alrededor del centro. Viejo molino Herdentorswallmühle, estanque de cisnes, senderos sinuosos sombreados, el paseo canino más céntrico de Bremen, ideal como bucle de 30 minutos.`,
-          pt: `Os antigos fosos e muralhas da cidade medieval convertidos em cinturón verde de 2 km alrededor do centro. Viejo molino Herdentorswallmühle, estanque de cisnes, trilhos sinuosos sombreados, o passeio canino mais céntrico de Bremen, ideal como bucle de 30 minutos.`,
+          es: `Los antiguos fosos y murallas de la ciudad medieval convertidos en cinturón verde de 2 km alrededor del centro. Viejo molino Herdentorswallmühle, estanque de cisnes, senderos sinuosos sombreados, el paseo canino más céntrico de Bremen, ideal como bucle de 30 minutos.`,
+          pt: `Os antigos fossos e muralhas da cidade medieval convertidos num cinturão verde de 2 km à volta do centro. Antigo moinho Herdentorswallmühle, lago dos cisnes, trilhos sinuosos e sombreados, o passeio canino mais central de Bremen, ideal como circuito de 30 minutos.`,
         },
       },
       {
@@ -6921,8 +6921,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Promenade hanséatique historique sur la rive est de la Weser, longeant le centre médiéval. Voiliers restaurés amarrés, terrasses de Biergarten, accès aux marches de la berge. Le spot café-chien numéro un de Brême, la plupart des terrasses servent une gamelle d'eau sans qu'on demande.`,
           en: `Historic Hanseatic riverside promenade on the eastern Weser bank, running the length of the medieval centre. Restored sailing ships moored alongside, beer-garden terraces, river-bank step access. Bremen's prime dog-and-coffee strip, most terraces serve a water bowl unprompted.`,
-          es: `Paseo fluvial hanseático histórico na orilla este del Weser, a lo longo del centro medieval. Veleros restaurados amarrados, terrazas de Biergarten, acceso a las escaleras de orilla. a arteria café-perro número uno de Bremen, la mayoría de terrazas sirven cuenco de agua sin pedirlo.`,
-          pt: `Passeio fluvial hanseático histórico na margem este do Weser, a lo longo do centro medieval. Veleros restaurados amarrados, esplanadas de Biergarten, acesso a as escaleras de margem. A arteria café-cão número uno de Bremen, a maioria de esplanadas sirven cuenco de água sem pedirlo.`,
+          es: `Paseo fluvial hanseático histórico en la orilla este del Weser, a lo largo del centro medieval. Veleros restaurados amarrados, terrazas de Biergarten, acceso a las escaleras de la orilla. La arteria café-perro número uno de Bremen, la mayoría de terrazas sirven cuenco de agua sin pedirlo.`,
+          pt: `Passeio fluvial hanseático histórico na margem este do Weser, ao longo do centro medieval. Veleiros restaurados atracados, esplanadas de Biergarten, acesso às escadas da margem. A artéria café-cão número um de Bremen, a maioria das esplanadas serve uma tigela de água sem que se peça.`,
         },
       },
     ],
@@ -6930,7 +6930,7 @@ const cityContent: Record<string, CityContent> = {
       fr: [
         `Brême applique une obligation de laisse (Anleinpflicht) dans tous les espaces verts publics ; le sans laisse n'est autorisé que dans les 13 Hundeauslaufflächen balisées par l'Umweltbetrieb Bremen.`,
         `Restrictions Listenhunde strictes : pitbull terrier, American Staffordshire, bull terrier, Tosa Inu et croisements doivent porter une muselière et une laisse de 1,5 m partout, apportez la documentation de race.`,
-        `Petits chiens em sac fermé voyagent gratuitement sur tout le réseau BSAG (tram + bus) ; grands chiens : billet enfant (1,85 € unitaire ou 10,10 € journée).`,
+        `Petits chiens en sac fermé voyagent gratuitement sur tout le réseau BSAG (tram + bus) ; grands chiens : billet enfant (1,85 € unitaire ou 10,10 € journée).`,
         `Brême reçoit 220 jours de pluie par an, emportez un imperméable pour le chien et privilégiez les revêtements forestiers (Bürgerpark, Stadtwald) plutôt que les pavés trempés.`,
         `Les amendes pour déjections non ramassées commencent à 25 € et des sacs sont distribués gratuitement à la plupart des entrées de parcs.`,
       ],
@@ -6942,25 +6942,25 @@ const cityContent: Record<string, CityContent> = {
         `Fines for unbagged droppings start at €25; waste bags are dispensed free at most park entrances.`,
       ],
       es: [
-        `Bremen aplica obrigação municipal de trela (Anleinpflicht) em todos los espacios verdes públicos; sin trela solo em las 13 Hundeauslaufflächen señalizadas por a Umweltbetrieb Bremen.`,
-        `Restricciones Listenhunde estrictas: pit bull terrier, American Staffordshire, bull terrier, Tosa Inu y cruces deben llevar bozal y trela de 1,5 m em todas partes, lleva documentación de raza.`,
-        `Los perros pequeños em transportín fechado viajan gratis por toda a rede BSAG (tranvía + bus); perros grandes necesitan billete infantil (1,85 € unitario o 10,10 € diario).`,
+        `Bremen aplica obligación municipal de correa (Anleinpflicht) en todos los espacios verdes públicos; sin correa solo en las 13 Hundeauslaufflächen señalizadas por la Umweltbetrieb Bremen.`,
+        `Restricciones Listenhunde estrictas: pit bull terrier, American Staffordshire, bull terrier, Tosa Inu y cruces deben llevar bozal y correa de 1,5 m en todas partes, lleva documentación de raza.`,
+        `Los perros pequeños en transportín cerrado viajan gratis por toda la red BSAG (tranvía + bus); perros grandes necesitan billete infantil (1,85 € unitario o 10,10 € diario).`,
         `Bremen tiene 220 días de lluvia al año, lleva impermeable canino y prioriza pistas forestales (Bürgerpark, Stadtwald) sobre adoquines mojados.`,
-        `Las multas por excrementos no recogidos empiezan en 25 €; se reparten bolsas gratis na mayoría de entradas de parques.`,
+        `Las multas por excrementos no recogidos empiezan en 25 €; se reparten bolsas gratis en la mayoría de entradas de parques.`,
       ],
       pt: [
-        `Bremen aplica obrigação municipal de trela (Anleinpflicht) em todos os espacios verdes públicos; sem trela só nas 13 Hundeauslaufflächen señalizadas pela Umweltbetrieb Bremen.`,
-        `Restricciones Listenhunde estrictas: pit bull terrier, American Staffordshire, bull terrier, Tosa Inu e cruces deben levar bozal e trela de 1,5 m em todo o lado, lleva documentación de raça.`,
-        `Os cães pequenos em transportadora fechado viajan grátis por toda a red BSAG (elétrico + bus); cães grandes necesitan bilhete infantil (1,85 € unitario o 10,10 € diario).`,
-        `Bremen tem 220 dias de chuva ao ano, lleva impermeable canino e prioriza pistas forestales (Bürgerpark, Stadtwald) sobre adoquines mojados.`,
-        `As multas por excrementos no recogidos empiezan en 25 €; se reparten bolsas grátis na maioria de entradas de parques.`,
+        `Bremen aplica a obrigação municipal de trela (Anleinpflicht) em todos os espaços verdes públicos; sem trela só nas 13 Hundeauslaufflächen sinalizadas pela Umweltbetrieb Bremen.`,
+        `Restrições Listenhunde estritas: pit bull terrier, American Staffordshire, bull terrier, Tosa Inu e cruzamentos têm de usar açaime e trela de 1,5 m em todo o lado, leve a documentação da raça.`,
+        `Os cães pequenos em transportadora fechada viajam grátis por toda a rede BSAG (elétrico + autocarro); os cães grandes precisam de bilhete infantil (1,85 € avulso ou 10,10 € diário).`,
+        `Bremen tem 220 dias de chuva por ano, leve um impermeável canino e privilegie os trilhos florestais (Bürgerpark, Stadtwald) em vez da calçada molhada.`,
+        `As multas por dejeções não apanhadas começam nos 25 €; há sacos distribuídos gratuitamente na maioria das entradas dos parques.`,
       ],
     },
     practicalInfo: {
       fr: [
-        `Passeport européen, puce ISO et vaccin antirabique d'au moins 21 jours sont requis pour entrer em Allemagne ; aucun traitement antitenia obligatoire (contrairement au Royaume-Uni).`,
-        `Aéroport de Brême (BRE, 5 km du centre) accepte les animaux em cabine jusqu'à 8 kg sur la plupart des compagnies ; tram 6 vers la gare en 11 minutes, gratuit pour chiens em sac.`,
-        `Aucun cabinet vétérinaire 24h/24 em ville : urgences via le Notdienst régional (+49 421 1 22 11) ouvert lun-ven 18h-22h et week-end/fériés 8h-22h ; sinon Hochschule Hannover (130 km, 1h em voiture, 24/7).`,
+        `Passeport européen, puce ISO et vaccin antirabique d'au moins 21 jours sont requis pour entrer en Allemagne ; aucun traitement antitenia obligatoire (contrairement au Royaume-Uni).`,
+        `Aéroport de Brême (BRE, 5 km du centre) accepte les animaux en cabine jusqu'à 8 kg sur la plupart des compagnies ; tram 6 vers la gare en 11 minutes, gratuit pour chiens en sac.`,
+        `Aucun cabinet vétérinaire 24h/24 en ville : urgences via le Notdienst régional (+49 421 1 22 11) ouvert lun-ven 18h-22h et week-end/fériés 8h-22h ; sinon Hochschule Hannover (130 km, 1h en voiture, 24/7).`,
         `Climat : étés doux 17-19 °C avec bruine fréquente, hivers froids 2-3 °C avec gel et neige occasionnelle ; vent maritime de la mer du Nord toute l'année.`,
         `Tarifs vétérinaires régulés par le GOT (Gebührenordnung für Tierärzte) : consultation 23-46 €, supplément urgence 1,5x à 4x, assurance voyage avec couverture vétérinaire recommandée.`,
       ],
@@ -6972,18 +6972,18 @@ const cityContent: Record<string, CityContent> = {
         `Vet fees regulated by GOT (Gebührenordnung für Tierärzte): consultation €23-46, after-hours surcharge 1.5x-4x, travel insurance with vet cover recommended.`,
       ],
       es: [
-        `passaporte UE, microchip ISO y vacuna antirrábica de al menos 21 días son obrigatórios para entrar em Alemania; sin tratamento antitenia obrigatório (a diferencia del Reino Unido).`,
-        `Aeropuerto de Bremen (BRE, 5 km del centro) admite mascotas em cabina hasta 8 kg na mayoría de aerolíneas; tranvía 6 conecta con a estação central en 11 minutos, gratis para perros em bolso.`,
-        `No hay clínica veterinaria 24h dentro de Bremen: urgencias vía Notdienst regional (+49 421 1 22 11), abierto lun-vie 18:00-22:00 y fines de semana/festivos 8:00-22:00; sino Tierärztliche Hochschule Hannover (130 km, 1 h em coche, 24/7).`,
-        `Clima: veranos suaves 17-19 °C con llovizna frecuente, inviernos fríos 2-3 °C con heladas y nieve ocasional; viento marítimo del Mar del Norte todo o año.`,
+        `Pasaporte UE, microchip ISO y vacuna antirrábica de al menos 21 días son obligatorios para entrar en Alemania; sin tratamiento antitenia obligatorio (a diferencia del Reino Unido).`,
+        `Aeropuerto de Bremen (BRE, 5 km del centro) admite mascotas en cabina hasta 8 kg en la mayoría de aerolíneas; tranvía 6 conecta con la estación central en 11 minutos, gratis para perros en bolso.`,
+        `No hay clínica veterinaria 24h dentro de Bremen: urgencias vía Notdienst regional (+49 421 1 22 11), abierto lun-vie 18:00-22:00 y fines de semana/festivos 8:00-22:00; si no, Tierärztliche Hochschule Hannover (130 km, 1 h en coche, 24/7).`,
+        `Clima: veranos suaves 17-19 °C con llovizna frecuente, inviernos fríos 2-3 °C con heladas y nieve ocasional; viento marítimo del Mar del Norte todo el año.`,
         `Tarifas veterinarias reguladas por GOT (Gebührenordnung für Tierärzte): consulta 23-46 €, recargo de urgencia 1,5x-4x, recomendable seguro de viaje con cobertura veterinaria.`,
       ],
       pt: [
-        `passaporte UE, microchip ISO e vacuna antirrábica de al menos 21 dias são obrigatórios para entrar em Alemania; sem tratamento antitenia obrigatório (a diferencia do Reino Unido).`,
-        `Aeroporto de Bremen (BRE, 5 km do centro) admite animais em cabina até 8 kg na maioria de aerolíneas; elétrico 6 conecta com a estação central en 11 minutos, grátis para cães em bolso.`,
-        `No hay clínica veterinária 24h dentro de Bremen: urgências vía Notdienst regional (+49 421 1 22 11), aberto lun-vie 18:00-22:00 e fines de semana/festivos 8:00-22:00; sino Tierärztliche Hochschule Hannover (130 km, 1 h de carro, 24/7).`,
-        `Clima: veranos suaves 17-19 °C con llovizna frecuente, inviernos frios 2-3 °C con heladas e nieve ocasional; viento marítimo do mar do norte o ano inteiro.`,
-        `Tarifas veterinárias reguladas por GOT (Gebührenordnung für Tierärzte): consulta 23-46 €, recargo de urgência 1,5x-4x, recomendable seguro de viaje con cobertura veterinária.`,
+        `Passaporte UE, microchip ISO e vacina antirrábica com pelo menos 21 dias são obrigatórios para entrar na Alemanha; sem tratamento antiténia obrigatório (ao contrário do Reino Unido).`,
+        `O aeroporto de Bremen (BRE, 5 km do centro) admite animais em cabina até 8 kg na maioria das companhias; o elétrico 6 liga à estação central em 11 minutos, grátis para cães em saco.`,
+        `Não há clínica veterinária 24h dentro de Bremen: urgências através do Notdienst regional (+49 421 1 22 11), aberto seg-sex 18:00-22:00 e fins de semana/feriados 8:00-22:00; caso contrário, Tierärztliche Hochschule Hannover (130 km, 1 h de carro, 24/7).`,
+        `Clima: verões suaves 17-19 °C com chuviscos frequentes, invernos frios 2-3 °C com geada e neve ocasional; vento marítimo do mar do Norte todo o ano.`,
+        `Tarifas veterinárias reguladas pelo GOT (Gebührenordnung für Tierärzte): consulta 23-46 €, sobretaxa de urgência 1,5x-4x, recomendável seguro de viagem com cobertura veterinária.`,
       ],
     },
   },

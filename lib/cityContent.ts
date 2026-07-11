@@ -11570,10 +11570,10 @@ const cityContent: Record<string, CityContent> = {
 
   cologne: {
     history: {
-      fr: `Cologne (Köln), fondée par les Romains en 50 apr. J.-C. sous le nom de Colonia Claudia Ara Agrippinensium, est la quatrième ville d'Allemagne et la gardienne de la cathédrale gothique classée à l'UNESCO, dont les deux flèches dominent les berges du Rhin. Reconstruite après les bombardements, elle mêle l'effervescence du Carnaval à l'esprit décontracté de la Rhénanie. La culture canine y est solidement ancrée : la Rhénanie-du-Nord-Westphalie impose une Hundesteuer annuelle (environ 156 euros pour le premier chien en 2026) et l'enregistrement de l'animal auprès de la ville. Les grandes races ou races dites « listées » doivent passer un test comportemental, et leur maître détenir un Hundeführerschein. Les propriétaires em règle profitent de vastes espaces verts, de promenades au bord du fleuve et de cafés où la gamelle d'eau à l'entrée est la norme.`,
+      fr: `Cologne (Köln), fondée par les Romains en 50 apr. J.-C. sous le nom de Colonia Claudia Ara Agrippinensium, est la quatrième ville d'Allemagne et la gardienne de la cathédrale gothique classée à l'UNESCO, dont les deux flèches dominent les berges du Rhin. Reconstruite après les bombardements, elle mêle l'effervescence du Carnaval à l'esprit décontracté de la Rhénanie. La culture canine y est solidement ancrée : la Rhénanie-du-Nord-Westphalie impose une Hundesteuer annuelle (environ 156 euros pour le premier chien en 2026) et l'enregistrement de l'animal auprès de la ville. Les grandes races ou races dites « listées » doivent passer un test comportemental, et leur maître détenir un Hundeführerschein. Les propriétaires en règle profitent de vastes espaces verts, de promenades au bord du fleuve et de cafés où la gamelle d'eau à l'entrée est la norme.`,
       en: `Cologne (Köln), founded by the Romans in 50 AD as Colonia Claudia Ara Agrippinensium, is Germany's fourth-largest city and guardian of the UNESCO-listed Gothic Kölner Dom, whose twin spires dominate the Rhine skyline. Rebuilt from wartime rubble, the city blends Carnival exuberance with a laid-back Rhineland spirit. Dog culture runs deep here: North Rhine-Westphalia requires owners to pay an annual Hundesteuer (dog tax, roughly 156 euros for the first dog in 2026) and register the animal with the city. Large or so-called 'listed' breeds must pass a temperament test and their owners carry a Hundeführerschein permit. Cologne rewards compliant owners with generous green space, riverside promenades, and a café culture where a water bowl at the door is the rule rather than the exception.`,
-      es: `Colonia (Köln), fundada por los romanos em o año 50 d.C. como Colonia Claudia Ara Agrippinensium, es la cuarta ciudad de Alemania y guardiana de la catedral gótica declarada Patrimonio de a UNESCO, cuyas torres gemelas dominan el Rin. Reconstruida tras los bombardeos, combina a euforia del Carnaval con o espíritu relajado de Renania. La cultura canina está profundamente arraigada: Renania del Norte-Westfalia exige una Hundesteuer anual (unos 156 euros por el primer perro en 2026) y el registro del animal em o ayuntamiento. Las razas grandes o 'listadas' deben superar una prueba de temperamento, y sus dueños portar un Hundeführerschein. A cambio, Colonia ofrece amplos espacios verdes, paseos ribereños y una cultura de cafés donde el cuenco de agua na puerta es la norma.`,
-      pt: `Colonia (Köln), fundada pelos romanos no ano 50 d.C. como Colonia Claudia Ara Agrippinensium, é a cuarta cidade de Alemania e guardiana da catedral gótica declarada Patrimonio da UNESCO, cuyas torres gemelas dominan o Rin. Reconstruida tras os bombardeos, combina a euforia do Carnaval com o espíritu relajado de Renania. A cultura canina está profundamente arraigada: Renania do norte-Westfalia exige uma Hundesteuer anual (uns 156 euros pelo primer cão em 2026) e o registro do animal no câmara municipal. As raças grandes o 'listadas' deben superar uma prueba de temperamento, e os seus donos portar um Hundeführerschein. A cambio, Colonia ofrece amplos espacios verdes, passeios riberenhos e uma cultura de cafés onde o cuenco de água na puerta é a norma.`,
+      es: `Colonia (Köln), fundada por los romanos en el año 50 d.C. como Colonia Claudia Ara Agrippinensium, es la cuarta ciudad de Alemania y guardiana de la catedral gótica declarada Patrimonio de la UNESCO, cuyas torres gemelas dominan el Rin. Reconstruida tras los bombardeos, combina la euforia del Carnaval con el espíritu relajado de Renania. La cultura canina está profundamente arraigada: Renania del Norte-Westfalia exige una Hundesteuer anual (unos 156 euros por el primer perro en 2026) y el registro del animal en el ayuntamiento. Las razas grandes o 'listadas' deben superar una prueba de temperamento, y sus dueños portar un Hundeführerschein. A cambio, Colonia ofrece amplios espacios verdes, paseos ribereños y una cultura de cafés donde el cuenco de agua en la puerta es la norma.`,
+      pt: `Colónia (Köln), fundada pelos romanos no ano 50 d.C. como Colonia Claudia Ara Agrippinensium, é a quarta cidade da Alemanha e guardiã da catedral gótica classificada pela UNESCO, cujas duas torres dominam as margens do Reno. Reconstruída após os bombardeamentos, combina a efervescência do Carnaval com o espírito descontraído da Renânia. A cultura canina está profundamente enraizada: a Renânia do Norte-Vestefália exige uma Hundesteuer anual (cerca de 156 euros pelo primeiro cão em 2026) e o registo do animal junto da cidade. As raças grandes ou ditas «listadas» têm de passar um teste de temperamento, e os seus donos possuir um Hundeführerschein. Em troca, Colónia oferece amplos espaços verdes, passeios à beira-rio e uma cultura de cafés onde a tigela de água à entrada é a norma.`,
     },
     sights: [
       {
@@ -18653,10 +18653,10 @@ const cityContent: Record<string, CityContent> = {
 
   hamburg: {
     history: {
-      fr: `Hambourg, fondée en 808 par Charlemagne comme poste avancé face aux Slaves de l'Est, est depuis mille ans une ville libre et hanséatique, son port, le deuxième d'Europe après Rotterdam, demeure le cœur d'une métropole de 1,9 million d'habitants. Ville-état à part entière au sein de l'Allemagne fédérale, Hambourg combine un centre d'affaires prospère avec un attachement viscéral à l'eau : plus de 2 500 ponts (davantage que Venise, Amsterdam et Londres réunies), le lac Alster em plein cœur urbain et 7 km de rives élégantes. Pour les propriétaires de chiens, Hambourg est une bénédiction : 14% de la surface em parcs et jardins, 56 Hundeauslaufzonen officielles réparties sur 104 quartiers, des plages de sable urbaines le long de l'Elbe, et une culture portuaire décontractée où chien et café font bon ménage. La Hamburg Hundegesetz impose la laisse em public hors zones désignées, mais les Hambourgeois l'appliquent avec le pragmatisme qui a forgé leur réputation hanséatique.`,
+      fr: `Hambourg, fondée en 808 par Charlemagne comme poste avancé face aux Slaves de l'Est, est depuis mille ans une ville libre et hanséatique, son port, le deuxième d'Europe après Rotterdam, demeure le cœur d'une métropole de 1,9 million d'habitants. Ville-État à part entière au sein de l'Allemagne fédérale, Hambourg combine un centre d'affaires prospère avec un attachement viscéral à l'eau : plus de 2 500 ponts (davantage que Venise, Amsterdam et Londres réunies), le lac Alster en plein cœur urbain et 7 km de rives élégantes. Pour les propriétaires de chiens, Hambourg est une bénédiction : 14 % de sa surface en parcs et jardins, 56 Hundeauslaufzonen officielles réparties sur 104 quartiers, des plages de sable urbaines le long de l'Elbe et une culture portuaire décontractée où chien et café font bon ménage. La Hamburg Hundegesetz impose la laisse en public hors des zones désignées, mais les Hambourgeois l'appliquent avec le pragmatisme qui a forgé leur réputation hanséatique.`,
       en: `Hamburg, founded by Charlemagne in 808 as an outpost against the eastern Slavs, has been a free Hanseatic city for a thousand years, its port, second only to Rotterdam in Europe, remains the heart of a 1.9 million-strong metropolis. A city-state in its own right within federal Germany, Hamburg combines a thriving business centre with a visceral attachment to water: over 2,500 bridges (more than Venice, Amsterdam and London combined), the Alster lake in the very heart of the city, and 7 km of elegant shoreline. For dog owners, Hamburg is a blessing: 14% of its surface is parks and gardens, 56 official Hundeauslaufzonen spread across 104 districts, urban sandy beaches along the Elbe, and a relaxed port culture where dog and coffee go hand in hand. The Hamburg Hundegesetz requires leashes in public outside designated zones, but Hamburgers enforce it with the pragmatism that forged their Hanseatic reputation.`,
-      es: `Hamburgo, fundada por Carlomagno em el 808 como avanzada frente a los eslavos orientales, ha sido durante mil años uma cidade libre hanseática, su puerto, segundo de Europa tras Róterdam, sigue siendo el coração de una metrópoli de 1,9 millones de habitantes. Ciudad-estado independiente dentro de a Alemania federal, Hamburgo combina un próspero centro de negocios con un apego visceral al agua: más de 2.500 puentes (más que Venecia, Ámsterdam y Londres juntas), el lago Alster em pleno coração urbano y 7 km de elegantes orillas. Para los dueños de perros, Hamburgo es una bendición: el 14% de su superficie son parques y jardines, 56 Hundeauslaufzonen oficiales repartidas por 104 barrios, playas de arena urbanas a lo longo del Elba y una cultura portuaria relajada donde perro y café conviven con naturalidad. La Hamburg Hundegesetz exige trela em público fuera das zonas designadas, pero los hamburgueses a aplican con el pragmatismo que forjó su reputación hanseática.`,
-      pt: `Hamburgo, fundada por Carlomagno no 808 como avançada frente aos eslavos orientales, tem sido durante mil anos uma cidade libre hanseática, su porto, segundo de Europa tras Róterdam, continua a ser o coração duma metrópoli de 1,9 millones de habitantes. Cidade-estado independiente dentro da Alemania federal, Hamburgo combina um próspero centro de negocios com um apego visceral al água: mais de 2.500 pontes (mais que Venecia, Ámsterdam e Londres juntas), o lago Alster em pleno coração urbano e 7 km de elegantes margens. Para os donos de cães, Hamburgo é uma bendición: o 14% de su superficie são parques e jardins, 56 Hundeauslaufzonen oficiais repartidas por 104 bairros, praias de areia urbanas a lo longo do Elba e uma cultura portuaria relajada onde cão e café conviven com naturalidad. A Hamburg Hundegesetz exige trela em público fora das zonas designadas, mas os hamburgueses a aplican com o pragmatismo que forjó su reputación hanseática.`,
+      es: `Hamburgo, fundada por Carlomagno en el 808 como avanzada frente a los eslavos orientales, ha sido durante mil años una ciudad libre hanseática, su puerto, segundo de Europa tras Róterdam, sigue siendo el corazón de una metrópoli de 1,9 millones de habitantes. Ciudad-estado independiente dentro de la Alemania federal, Hamburgo combina un próspero centro de negocios con un apego visceral al agua: más de 2.500 puentes (más que Venecia, Ámsterdam y Londres juntas), el lago Alster en pleno corazón urbano y 7 km de elegantes orillas. Para los dueños de perros, Hamburgo es una bendición: el 14 % de su superficie son parques y jardines, 56 Hundeauslaufzonen oficiales repartidas por 104 barrios, playas de arena urbanas a lo largo del Elba y una cultura portuaria relajada donde perro y café conviven con naturalidad. La Hamburg Hundegesetz exige correa en público fuera de las zonas designadas, pero los hamburgueses la aplican con el pragmatismo que forjó su reputación hanseática.`,
+      pt: `Hamburgo, fundada por Carlos Magno em 808 como posto avançado frente aos eslavos orientais, é há mil anos uma cidade livre e hanseática, o seu porto, o segundo da Europa a seguir a Roterdão, continua a ser o coração de uma metrópole de 1,9 milhões de habitantes. Cidade-estado de pleno direito dentro da Alemanha federal, Hamburgo combina um próspero centro de negócios com um apego visceral à água: mais de 2500 pontes (mais do que Veneza, Amesterdão e Londres juntas), o lago Alster em pleno coração urbano e 7 km de margens elegantes. Para os donos de cães, Hamburgo é uma bênção: 14 % da sua superfície são parques e jardins, 56 Hundeauslaufzonen oficiais distribuídas por 104 bairros, praias de areia urbanas ao longo do Elba e uma cultura portuária descontraída onde cão e café convivem com naturalidade. A Hamburg Hundegesetz exige trela em público fora das zonas designadas, mas os hamburgueses aplicam-na com o pragmatismo que forjou a sua reputação hanseática.`,
     },
     sights: [
       {
@@ -18664,10 +18664,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🦢',
         petFriendly: true,
         desc: {
-          fr: `Lac intra-urbain de 164 hectares entouré d'un sentier em laisse de 7 km, promenade incontestée du week-end. Pelouses Hund-erlaubt désignées et une Hundeauslaufzone au nord-est.`,
+          fr: `Lac intra-urbain de 164 hectares entouré d'un sentier en laisse de 7 km, promenade incontestée du week-end. Pelouses Hund-erlaubt désignées et une Hundeauslaufzone au nord-est.`,
           en: `A 164-hectare inner-city lake surrounded by a 7 km leashed walking path, the city's undisputed weekend promenade. Designated Hund-erlaubt lawns and a Hundeauslaufzone on the north-eastern shore.`,
-          es: `Lago intraurbano de 164 hectáreas rodeado por un sendero de 7 km com trela, el paseo indiscutible del fin de semana. Céspedes Hund-erlaubt designados y una Hundeauslaufzone al noreste.`,
-          pt: `Lago intraurbano de 164 hectáreas rodeado por um trilho de 7 km com trela, o passeio indiscutible do fin de semana. Céspedes Hund-erlaubt designados e uma Hundeauslaufzone al noreste.`,
+          es: `Lago intraurbano de 164 hectáreas rodeado por un sendero de 7 km con correa, el paseo indiscutible del fin de semana. Céspedes Hund-erlaubt designados y una Hundeauslaufzone en la orilla noreste.`,
+          pt: `Lago intraurbano de 164 hectares rodeado por um trilho de 7 km com trela, o passeio indiscutível do fim de semana. Relvados Hund-erlaubt designados e uma Hundeauslaufzone na margem nordeste.`,
         },
       },
       {
@@ -18675,10 +18675,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏖️',
         petFriendly: true,
         desc: {
-          fr: `Plage urbaine de sable de 3 km le long de l'Elbe, face au port de conteneurs. Chiens sans laisse côté ouest du 1er octobre au 30 avril, em laisse toute l'année.`,
+          fr: `Plage urbaine de sable de 3 km le long de l'Elbe, face au port de conteneurs. Chiens sans laisse côté ouest du 1er octobre au 30 avril, en laisse toute l'année.`,
           en: `A 3 km urban sandy beach along the Elbe facing the container port. Off-leash on the western section 1 Oct–30 Apr, on-leash year-round.`,
-          es: `Playa urbana de arena de 3 km a lo longo del Elba, frente al puerto de contenedores. Sin trela em el tramo oeste del 1 oct ao 30 abr, com trela todo o año.`,
-          pt: `Praia urbana de areia de 3 km a lo longo do Elba, frente al porto de contenedores. Sem trela no tramo oeste do 1 oct ao 30 abr, com trela o ano inteiro.`,
+          es: `Playa urbana de arena de 3 km a lo largo del Elba, frente al puerto de contenedores. Sin correa en el tramo oeste del 1 oct al 30 abr, con correa todo el año.`,
+          pt: `Praia urbana de areia de 3 km ao longo do Elba, frente ao porto de contentores. Sem trela no troço oeste de 1 out a 30 abr, com trela o ano inteiro.`,
         },
       },
       {
@@ -18686,10 +18686,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏛️',
         petFriendly: true,
         desc: {
-          fr: `Quartier d'entrepôts classé UNESCO, bâti sur pilotis dans l'Elbe. Canaux, ponts et allées accessibles em laisse, l'une des plus belles balades urbaines d'Europe.`,
+          fr: `Quartier d'entrepôts classé UNESCO, bâti sur pilotis dans l'Elbe. Canaux, ponts et allées accessibles en laisse, l'une des plus belles balades urbaines d'Europe.`,
           en: `UNESCO-listed warehouse district built on oak pilings in the Elbe. Canals, bridges and walkways are leash-accessible, one of Europe's finest urban walks.`,
-          es: `Barrio de almacenes catalogado por a UNESCO, construido sobre pilotes de roble em o Elba. Canales, puentes y senderos acessíveis com trela, uno dos mejores paseos urbanos de Europa.`,
-          pt: `Bairro de almacenes catalogado pela UNESCO, construido sobre pilotes de roble no Elba. Canales, pontes e trilhos acessíveis com trela, uno dois melhores passeios urbanos de Europa.`,
+          es: `Barrio de almacenes catalogado por la UNESCO, construido sobre pilotes de roble en el Elba. Canales, puentes y senderos accesibles con correa, uno de los mejores paseos urbanos de Europa.`,
+          pt: `Bairro de armazéns classificado pela UNESCO, construído sobre estacas de carvalho no Elba. Canais, pontes e passadiços acessíveis com trela, um dos mais belos passeios urbanos da Europa.`,
         },
       },
       {
@@ -18699,8 +18699,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Plus grand parc public de Hambourg (205 hectares). Trois grandes Hundeauslaufzonen clôturées, roseraie, forêts et prairies, destination n°1 pour les chiens sans laisse.`,
           en: `Hamburg's largest public park (205 ha). Three large fenced Hundeauslaufzonen, a rose garden, woodland and meadows, the top off-leash destination in town.`,
-          es: `Mayor parque público de Hamburgo (205 ha). Tres grandes Hundeauslaufzonen valladas, rosaleda, floresta y praderas, el destino nº1 para perros sin trela.`,
-          pt: `Mayor parque público de Hamburgo (205 ha). Três grandes Hundeauslaufzonen valladas, rosaleda, floresta e pradarias, o destino nº1 para cães sem trela.`,
+          es: `El mayor parque público de Hamburgo (205 ha). Tres grandes Hundeauslaufzonen valladas, una rosaleda, bosque y praderas, el destino nº1 para perros sin correa.`,
+          pt: `O maior parque público de Hamburgo (205 ha). Três grandes Hundeauslaufzonen vedadas, uma roseira, bosque e prados, o destino nº1 para cães sem trela.`,
         },
       },
       {
@@ -18708,10 +18708,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⚓',
         petFriendly: true,
         desc: {
-          fr: `Embarcadère flottant de 688 m au cœur du port. Chiens em laisse bienvenus sur le ponton et sur la plupart des croisières (Rainer Abicht, Barkassen-Centrale).`,
+          fr: `Embarcadère flottant de 688 m au cœur du port. Chiens en laisse bienvenus sur le ponton et sur la plupart des croisières (Rainer Abicht, Barkassen-Centrale).`,
           en: `A 688-metre floating pier at the heart of the port. Leashed dogs welcome on the pier and on most harbour cruises (Rainer Abicht, Barkassen-Centrale).`,
-          es: `Muelle flotante de 688 m em el coração del puerto. Perros com trela bienvenidos em el muelle y na mayoría de cruceros (Rainer Abicht, Barkassen-Centrale).`,
-          pt: `Muelle flotante de 688 m no coração do porto. Cães com trela bem-vindos no muelle e na maioria de cruceros (Rainer Abicht, Barkassen-Centrale).`,
+          es: `Embarcadero flotante de 688 m en el corazón del puerto. Perros con correa bienvenidos en el muelle y en la mayoría de cruceros (Rainer Abicht, Barkassen-Centrale).`,
+          pt: `Cais flutuante de 688 m no coração do porto. Cães com trela bem-vindos no pontão e na maioria dos cruzeiros (Rainer Abicht, Barkassen-Centrale).`,
         },
       },
       {
@@ -18719,18 +18719,18 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌸',
         petFriendly: true,
         desc: {
-          fr: `Parc central de 47 hectares avec jardins botaniques. Chiens em laisse dans les zones principales, mais interdits au Jardin japonais, aux serres tropicales et aires de jeux.`,
+          fr: `Parc central de 47 hectares avec jardins botaniques. Chiens en laisse dans les zones principales, mais interdits au Jardin japonais, aux serres tropicales et aires de jeux.`,
           en: `A 47-hectare central park with botanical gardens. Leashed dogs in the main areas, but banned from the Japanese Garden, tropical greenhouses and playgrounds.`,
-          es: `Parque central de 47 hectáreas con jardines botánicos. Perros com trela em las zonas principales, pero prohibidos em el Jardín Japonés, invernaderos tropicales y zonas de juegos.`,
-          pt: `Parque central de 47 hectáreas com jardins botánicos. Cães com trela nas zonas principales, mas prohibidos no Jardim Japonés, invernaderos tropicales e zonas de juegos.`,
+          es: `Parque central de 47 hectáreas con jardines botánicos. Perros con correa en las zonas principales, pero prohibidos en el Jardín Japonés, los invernaderos tropicales y las zonas de juegos.`,
+          pt: `Parque central de 47 hectares com jardins botânicos. Cães com trela nas zonas principais, mas proibidos no Jardim Japonês, nas estufas tropicais e nos parques infantis.`,
         },
       },
     ],
     petTips: {
       fr: [
-        'Le réseau HVV (S-Bahn, U-Bahn, bus, ferries) accepte les petits chiens em cage gratuitement ; les grands chiens avec un Kinderkarte (billet enfant).',
+        'Le réseau HVV (S-Bahn, U-Bahn, bus, ferries) accepte les petits chiens en cage gratuitement ; les grands chiens avec un Kinderkarte (billet enfant).',
         'Laisse obligatoire hors des 56 Hundeauslaufzonen officielles, amendes à partir de 150 € dans les quartiers centraux.',
-        'Les plages de l\'Elbe (Elbstrand, Falkensteiner Ufer) imposent la laisse du 1er mai au 30 septembre ; sans laisse em zone désignée le reste de l\'année.',
+        'Les plages de l\'Elbe (Elbstrand, Falkensteiner Ufer) imposent la laisse du 1er mai au 30 septembre ; sans laisse en zone désignée le reste de l\'année.',
         'Cliniques d\'urgence 24h/24 : Tierärztliches Zentrum Bahrenfeld (040 8907670) et Tierärztliche Klinik Dr. Staudacher (040 6514140).',
         'Listenhunde (Am. Staff, Pit Bull, Bullterrier, Rottweiler) : permis spécial, muselière dans tous les espaces publics, règles renforcées à Hambourg.',
       ],
@@ -18742,18 +18742,18 @@ const cityContent: Record<string, CityContent> = {
         'Listenhunde (Am. Staff, Pit Bull, Bullterrier, Rottweiler): special permit required, muzzle in all public spaces, stricter rules in Hamburg than elsewhere.',
       ],
       es: [
-        'a rede HVV (S-Bahn, U-Bahn, bus, ferris) admite perros pequeños em transportín gratis; los más grandes necesitan una Kinderkarte (billete infantil).',
-        'trela obrigatória fuera das 56 Hundeauslaufzonen oficiales, multas desde 150 € em los barrios centrales.',
-        'Las playas del Elba (Elbstrand, Falkensteiner Ufer) imponen trela del 1 mayo ao 30 septiembre; sin trela na zona designada el resto del año.',
+        'La red HVV (S-Bahn, U-Bahn, bus, ferris) admite perros pequeños en transportín gratis; los más grandes necesitan una Kinderkarte (billete infantil).',
+        'Correa obligatoria fuera de las 56 Hundeauslaufzonen oficiales, multas desde 150 € en los barrios centrales.',
+        'Las playas del Elba (Elbstrand, Falkensteiner Ufer) imponen correa del 1 de mayo al 30 de septiembre; sin correa en la zona designada el resto del año.',
         'Clínicas de urgencias 24/7: Tierärztliches Zentrum Bahrenfeld (040 8907670) y Tierärztliche Klinik Dr. Staudacher (040 6514140).',
-        'Listenhunde (Am. Staff, Pit Bull, Bullterrier, Rottweiler): permiso especial, bozal em todos los espacios públicos, normas más estrictas em Hamburgo.',
+        'Listenhunde (Am. Staff, Pit Bull, Bullterrier, Rottweiler): permiso especial, bozal en todos los espacios públicos, normas más estrictas en Hamburgo.',
       ],
       pt: [
-        'A red HVV (S-Bahn, U-Bahn, bus, ferris) admite cães pequenos em transportadora grátis; os mais grandes necesitan uma Kinderkarte (bilhete infantil).',
-        'trela obrigatória fora das 56 Hundeauslaufzonen oficiales, multas a partir de 150 € nos bairros centrales.',
-        'As praias do Elba (Elbstrand, Falkensteiner Ufer) imponen trela do 1 maio ao 30 setembro; sem trela na zona designada o resto do ano.',
-        'Clínicas de urgências 24/7: Tierärztliches Zentrum Bahrenfeld (040 8907670) e Tierärztliche Klinik Dr. Staudacher (040 6514140).',
-        'Listenhunde (Am. Staff, Pit Bull, Bullterrier, Rottweiler): permiso especial, bozal em todos os espacios públicos, normas mais estrictas em Hamburgo.',
+        'A rede HVV (S-Bahn, U-Bahn, autocarro, ferries) admite cães pequenos em transportadora grátis; os maiores precisam de uma Kinderkarte (bilhete infantil).',
+        'Trela obrigatória fora das 56 Hundeauslaufzonen oficiais, multas a partir de 150 € nos bairros centrais.',
+        'As praias do Elba (Elbstrand, Falkensteiner Ufer) impõem trela de 1 de maio a 30 de setembro; sem trela na zona designada o resto do ano.',
+        'Clínicas de urgência 24/7: Tierärztliches Zentrum Bahrenfeld (040 8907670) e Tierärztliche Klinik Dr. Staudacher (040 6514140).',
+        'Listenhunde (Am. Staff, Pit Bull, Bullterrier, Rottweiler): licença especial, açaime em todos os espaços públicos, regras mais rígidas em Hamburgo.',
       ],
     },
     practicalInfo: {
@@ -18762,7 +18762,7 @@ const cityContent: Record<string, CityContent> = {
         'Ramassage des déjections obligatoire, amendes jusqu\'à 100 €, contrôles actifs le long de l\'Alster et dans Planten un Blomen.',
         'Miniatur Wunderland et la plupart des musées (Kunsthalle, MKG, Maritimes Museum) interdisent les chiens, prévoyez un sitter Pawshake local.',
         'Les ferries HVV sur l\'Alster et l\'Elbe acceptent les chiens sur les ponts extérieurs, une belle alternative estivale à la marche.',
-        'Aéroport HAM : aire de détente animale devant le Terminal 1 ; toutes les grandes compagnies acceptent les chiens em cabine sur les vols européens.',
+        'Aéroport HAM : aire de détente animale devant le Terminal 1 ; toutes les grandes compagnies acceptent les chiens en cabine sur les vols européens.',
       ],
       en: [
         'EU pet passport and valid rabies vaccination required by every pet-friendly hotel at check-in.',
@@ -18772,18 +18772,18 @@ const cityContent: Record<string, CityContent> = {
         'HAM airport: pet relief area outside Terminal 1; all major airlines accept pets in cabin on European routes.',
       ],
       es: [
-        'passaporte europeu y vacunación antirrábica vigente exigidos por todos los hoteles pet-friendly em el check-in.',
-        'Recoger las deposiciones es obrigatório, multas hasta 100 €, controladas activamente junto al Alster y em Planten un Blomen.',
+        'Pasaporte europeo y vacunación antirrábica vigente exigidos por todos los hoteles pet-friendly en el check-in.',
+        'Recoger las deposiciones es obligatorio, multas hasta 100 €, controladas activamente junto al Alster y en Planten un Blomen.',
         'Miniatur Wunderland y la mayoría de museos (Kunsthalle, MKG, Maritimes Museum) prohíben perros, reserva un cuidador Pawshake local.',
-        'Los ferris HVV em o Alster y o Elba admiten perros em cubiertas exteriores, una bonita alternativa estival al paseo.',
-        'Aeropuerto HAM: área de esparcimiento animal fuera de la Terminal 1; todas las grandes aerolíneas admiten mascotas em cabina em vuelos europeus.',
+        'Los ferris HVV en el Alster y el Elba admiten perros en cubiertas exteriores, una bonita alternativa estival al paseo.',
+        'Aeropuerto HAM: área de esparcimiento animal fuera de la Terminal 1; todas las grandes aerolíneas admiten mascotas en cabina en vuelos europeos.',
       ],
       pt: [
-        'passaporte europeu e vacunación antirrábica vigente exigidos por todos os hotéis pet-friendly no check-in.',
-        'Recoger as deposiciones é obrigatório, multas até 100 €, controladas activamente junto al Alster e em Planten um Blomen.',
-        'Miniatur Wunderland e a maioria de museus (Kunsthalle, MKG, Maritimes Museum) prohíben cães, reserva um cuidador Pawshake local.',
-        'Os ferris HVV no Alster e o Elba admiten cães em cubiertas exteriores, uma bonita alternativa estival al passeio.',
-        'Aeroporto HAM: área de esparcimiento animal fora da Terminal 1; todas as grandes aerolíneas admiten animais em cabina em voos europeus.',
+        'Passaporte europeu e vacinação antirrábica válida exigidos por todos os hotéis pet-friendly no check-in.',
+        'Recolher os dejetos é obrigatório, multas até 100 €, fiscalizadas ativamente junto ao Alster e em Planten un Blomen.',
+        'Miniatur Wunderland e a maioria dos museus (Kunsthalle, MKG, Maritimes Museum) proíbem cães, reserve um cuidador Pawshake local.',
+        'Os ferries HVV no Alster e no Elba admitem cães nos conveses exteriores, uma bela alternativa de verão ao passeio.',
+        'Aeroporto HAM: área de alívio para animais em frente ao Terminal 1; todas as grandes companhias aceitam animais em cabina em voos europeus.',
       ],
     },
   },

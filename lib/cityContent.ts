@@ -15004,11 +15004,11 @@ const cityContent: Record<string, CityContent> = {
     ],
     petTips: {
       fr: [
-        'Les transports RMV acceptent les petits chiens em cage gratuitement ; les grands chiens nécessitent un Kinderfahrkarte (billet enfant).',
-        'Muselière requise em transports publics pour les races listées (Am. Staff, Pit Bull, Bullterrier, Rottweiler), emportez-em une souple par précaution.',
-        'Amende jusqu\'à 150 € pour non-ramassage des déjections : les Kotbeutel sont gratuits aux distributeurs des parcs.',
-        'Cliniques d\'urgence 24h/24 : Kleintierklinik Bockenheim (069 97074955) et Tierklinik Kalbach (069 300651550).',
-        'Canicule possible em juillet (35 °C+) : promenez tôt ou après 19h, l\'asphalte du Bankenviertel atteint 55 °C.',
+        `Les transports RMV acceptent les petits chiens en cage gratuitement ; les grands chiens nécessitent un Kinderfahrkarte (billet enfant).`,
+        `Muselière requise en transports publics pour les races listées (Am. Staff, Pit Bull, Bullterrier, Rottweiler), emportez-en une souple par précaution.`,
+        `Amende jusqu'à 150 € pour non-ramassage des déjections : les Kotbeutel sont gratuits aux distributeurs des parcs.`,
+        `Cliniques d'urgence 24h/24 : Kleintierklinik Bockenheim (069 97074955) et Tierklinik Kalbach (069 300651550).`,
+        `Canicule possible en juillet (35 °C+) : promenez tôt ou après 19h, l'asphalte du Bankenviertel atteint 55 °C.`,
       ],
       en: [
         'RMV public transport accepts small dogs in carriers for free; larger dogs need a Kinderfahrkarte (child-rate ticket).',
@@ -15018,18 +15018,18 @@ const cityContent: Record<string, CityContent> = {
         'Summer heatwaves possible in July (35 °C+): walk early or after 19:00, asphalt in the Bankenviertel reaches 55 °C.',
       ],
       es: [
-        'o transporte público RMV admite perros pequeños em transportín gratis; los grandes necesitan un Kinderfahrkarte (billete infantil).',
-        'Se exige bozal em transporte público para las razas listadas (Am. Staff, Pit Bull, Bullterrier, Rottweiler), lleva un bozal flexible por precaución.',
-        'Multa hasta 150 € por no recoger las deposiciones: los Kotbeutel son gratuitos em los dispensadores dos parques.',
-        'Clínicas de urgencias 24/7: Kleintierklinik Bockenheim (069 97074955) y Tierklinik Kalbach (069 300651550).',
-        'Olas de calor posibles em julio (35 °C+): pasea temprano o después das 19:00, o asfalto del Bankenviertel alcanza 55 °C.',
+        `El transporte público RMV admite perros pequeños en transportín gratis; los grandes necesitan un Kinderfahrkarte (billete infantil).`,
+        `Se exige bozal en transporte público para las razas listadas (Am. Staff, Pit Bull, Bullterrier, Rottweiler), lleva un bozal flexible por precaución.`,
+        `Multa hasta 150 € por no recoger las deposiciones: los Kotbeutel son gratuitos en los dispensadores de los parques.`,
+        `Clínicas de urgencias 24/7: Kleintierklinik Bockenheim (069 97074955) y Tierklinik Kalbach (069 300651550).`,
+        `Olas de calor posibles en julio (35 °C+): pasea temprano o después de las 19:00, el asfalto del Bankenviertel alcanza 55 °C.`,
       ],
       pt: [
-        'O transporte público RMV admite cães pequenos em transportadora grátis; os grandes necesitan um Kinderfahrkarte (bilhete infantil).',
-        'Se exige bozal em transporte público para as raças listadas (Am. Staff, Pit Bull, Bullterrier, Rottweiler), lleva um bozal flexible por precaución.',
-        'Multa até 150 € por no recoger as deposiciones: os Kotbeutel são gratuitos nos dispensadores dois parques.',
-        'Clínicas de urgências 24/7: Kleintierklinik Bockenheim (069 97074955) e Tierklinik Kalbach (069 300651550).',
-        'Olas de calor posibles em julho (35 °C+): pasea temprano o depois das 19:00, o asfalto do Bankenviertel alcanza 55 °C.',
+        `O transporte público RMV admite cães pequenos em transportadora grátis; os grandes precisam de um Kinderfahrkarte (bilhete infantil).`,
+        `Exige-se açaimo no transporte público para as raças listadas (Am. Staff, Pit Bull, Bullterrier, Rottweiler), leve um açaimo flexível por precaução.`,
+        `Multa até 150 € por não apanhar os dejetos: os Kotbeutel são gratuitos nos dispensadores dos parques.`,
+        `Clínicas de urgência 24/7: Kleintierklinik Bockenheim (069 97074955) e Tierklinik Kalbach (069 300651550).`,
+        `Ondas de calor possíveis em julho (35 °C+): passeie cedo ou depois das 19:00, o asfalto do Bankenviertel chega aos 55 °C.`,
       ],
     },
     practicalInfo: {
@@ -15037,7 +15037,7 @@ const cityContent: Record<string, CityContent> = {
         'Passeport européen et vaccination antirabique valide exigés par tous les hôtels pet-friendly à l\'enregistrement.',
         'Laisse obligatoire (Leinenpflicht) dans tous les parcs publics sauf Hundeauslaufflächen clôturés, amendes à partir de 35 €.',
         'Stadtwald : laisse obligatoire du 1er mars au 15 juillet (reproduction de la faune), contrôles par gardes forestiers.',
-        'Animal Lounge à l\'aéroport FRA pour les animaux em transit ; aires de détente dog-friendly aux Terminals 1 et 2.',
+        `Animal Lounge à l'aéroport FRA pour les animaux en transit ; aires de détente dog-friendly aux Terminals 1 et 2.`,
         'Numéros d\'urgence vétérinaire à enregistrer avant arrivée, l\'Allemagne n\'a pas de hotline nationale.',
       ],
       en: [
@@ -15048,18 +15048,18 @@ const cityContent: Record<string, CityContent> = {
         'Save emergency vet numbers before arrival, Germany has no national pet emergency hotline.',
       ],
       es: [
-        'passaporte europeu y vacunación antirrábica vigente exigidos por todos los hoteles pet-friendly em el check-in.',
-        'trela obrigatória (Leinenpflicht) em todos los parques públicos salvo Hundeauslaufflächen valladas, multas desde 35 €.',
-        'Stadtwald: trela obrigatória del 1 mar ao 15 jul (temporada de reproducción), controles dos guardas forestales.',
-        'Animal Lounge em o aeropuerto FRA para mascotas em tránsito; áreas dog-friendly junto a las Terminales 1 y 2.',
-        'Guarda los números de urgencias veterinarias antes de llegar, Alemania no tiene línea nacional.',
+        `Pasaporte europeo y vacunación antirrábica vigente exigidos por todos los hoteles pet-friendly en el check-in.`,
+        `Correa obligatoria (Leinenpflicht) en todos los parques públicos salvo Hundeauslaufflächen valladas, multas desde 35 €.`,
+        `Stadtwald: correa obligatoria del 1 mar al 15 jul (temporada de reproducción), controles de los guardas forestales.`,
+        `Animal Lounge en el aeropuerto FRA para mascotas en tránsito; áreas dog-friendly junto a las Terminales 1 y 2.`,
+        `Guarda los números de urgencias veterinarias antes de llegar, Alemania no tiene línea nacional.`,
       ],
       pt: [
-        'passaporte europeu e vacunación antirrábica vigente exigidos por todos os hotéis pet-friendly no check-in.',
-        'trela obrigatória (Leinenpflicht) em todos os parques públicos salvo Hundeauslaufflächen valladas, multas a partir de 35 €.',
-        'Stadtwald: trela obrigatória do 1 mar ao 15 jul (temporada de reproducción), controles dois guardas forestales.',
-        'Animal Lounge no aeroporto FRA para animais em tránsito; áreas pet-friendly junto a as Terminales 1 e 2.',
-        'Guarda os números de urgências veterinárias antes de chegar, Alemania no tem línea nacional.',
+        `Passaporte europeu e vacinação antirrábica válida exigidos por todos os hotéis pet-friendly no check-in.`,
+        `Trela obrigatória (Leinenpflicht) em todos os parques públicos salvo Hundeauslaufflächen vedadas, multas a partir de 35 €.`,
+        `Stadtwald: trela obrigatória de 1 mar a 15 jul (época de reprodução), fiscalização pelos guardas florestais.`,
+        `Animal Lounge no aeroporto FRA para animais em trânsito; áreas pet-friendly junto aos Terminais 1 e 2.`,
+        `Guarde os números de urgência veterinária antes de chegar, a Alemanha não tem linha nacional.`,
       ],
     },
   },
@@ -16072,10 +16072,10 @@ const cityContent: Record<string, CityContent> = {
 
   geneva: {
     history: {
-      fr: `Genève, à la pointe sud-ouest du lac Léman et lovée entre Jura et Alpes, fut une cité-état fortifiée avant de devenir le berceau de la Réforme calvinienne au XVIe siècle, puis la capitale humanitaire mondiale au XXe, siège de la Croix-Rouge, des Nations Unies à l'européenne et de plus de 40 organisations internationales. Cette population diplomatique cosmopolite (40% des résidents sont étrangers) façonne une ville extraordinairement multilingue où il est aussi naturel d'entendre une commande em français qu'em anglais, italien ou portugais, y compris les ordres donnés à un chien. Compacte (16 km²), Genève se traverse à pied du nord au sud en 45 minutes, et son organisation autour de la Rade, le bassin lacustre coiffé du Jet d'Eau de 140 mètres, relie tous les quartiers : Pâquis sur la rive droite, Eaux-Vives sur la gauche, la Vieille-Ville sur sa colline et Carouge la bohème de l'autre côté de l'Arve. La loi suisse fédérale autorise les chiens partout sauf interdiction explicite par le propriétaire des lieux : restaurants, cafés, hôtels, transports, la décision revient à chacun, et la culture dominante reste l'accueil. Le Bois de la Bâtie, em plein centre, est l'une des rares forêts urbaines suisses sans laisse toute l'année.`,
+      fr: `Genève, à la pointe sud-ouest du lac Léman et lovée entre Jura et Alpes, fut une cité-état fortifiée avant de devenir le berceau de la Réforme calvinienne au XVIe siècle, puis la capitale humanitaire mondiale au XXe, siège de la Croix-Rouge, des Nations Unies à l'européenne et de plus de 40 organisations internationales. Cette population diplomatique cosmopolite (40% des résidents sont étrangers) façonne une ville extraordinairement multilingue où il est aussi naturel d'entendre une commande en français qu'en anglais, italien ou portugais, y compris les ordres donnés à un chien. Compacte (16 km²), Genève se traverse à pied du nord au sud en 45 minutes, et son organisation autour de la Rade, le bassin lacustre coiffé du Jet d'Eau de 140 mètres, relie tous les quartiers : Pâquis sur la rive droite, Eaux-Vives sur la gauche, la Vieille-Ville sur sa colline et Carouge la bohème de l'autre côté de l'Arve. La loi suisse fédérale autorise les chiens partout sauf interdiction explicite par le propriétaire des lieux : restaurants, cafés, hôtels, transports, la décision revient à chacun, et la culture dominante reste l'accueil. Le Bois de la Bâtie, en plein centre, est l'une des rares forêts urbaines suisses sans laisse toute l'année.`,
       en: `Geneva, at the south-western tip of Lake Geneva and cradled between the Jura and Alps, was a fortified city-state before becoming the cradle of the Calvinist Reformation in the 16th century, then the world's humanitarian capital in the 20th: home to the Red Cross, the European seat of the United Nations and more than 40 international organisations. This cosmopolitan diplomatic population (40% of residents are foreign) shapes an extraordinarily multilingual city where it is just as natural to hear an order placed in French as in English, Italian or Portuguese, including the commands given to a dog. Compact (16 km²), Geneva can be crossed on foot north to south in 45 minutes, and its layout around the Rade, the lakeside basin crowned by the 140-metre Jet d'Eau, connects all districts: Pâquis on the right bank, Eaux-Vives on the left, the Old Town on its hilltop, and bohemian Carouge across the Arve. Swiss federal law lets dogs in everywhere unless an owner explicitly forbids it: restaurants, cafés, hotels, public transport, the decision is left to each business, and the prevailing culture is welcome. The Bois de la Bâtie, in the very centre, is one of the rare Swiss urban forests with year-round off-leash status.`,
-      es: `Ginebra, na punta suroeste del lago Lemán y acunada entre el Jura y los Alpes, fue uma cidade-estado fortificada antes de convertirse na cuna de la Reforma calvinista em el siglo XVI, y después na capital humanitaria mundial em el XX: sede de la Cruz Roja, la sede europeia das Naciones Unidas y más de 40 organizaciones internacionales. Esta população diplomática cosmopolita (el 40% dos residentes son extranjeros) modela uma cidade extraordinariamente multilingüe donde es igual de natural oír un pedido em francés que em inglés, italiano o portugués, incluidas las órdenes dadas a un perro. Compacta (16 km²), Ginebra se atraviesa a pie de norte a sur en 45 minutos, y su organización em torno a la Rade, la cuenca lacustre coronada por el Jet d'Eau de 140 metros, conecta todos los barrios: Pâquis na orilla derecha, Eaux-Vives na izquierda, el Casco antigo em su colina y la bohemia Carouge al otro lado del Arve. La ley federal suiza permite perros em todas partes salvo prohibición explícita del propietario del local: restaurantes, cafés, hoteles, transporte, la decisión queda em cada uno, y la cultura dominante es de acogida. El Bois de la Bâtie, em pleno centro, es uno dos raros florestas urbanos suizos sin trela todo o año.`,
-      pt: `Ginebra, na punta suroeste do lago Lemán e acunada entre o Jura e os Alpes, foi uma cidade-estado fortificada antes de convertirse na cuna da Reforma calvinista no século XVI, e depois na capital humanitaria mundial no XX: sede da Cruz vermelha, a sede europeia das Nações Unidas e mais de 40 organizações internacionales. Esta população diplomática cosmopolita (o 40% dois residentes são extranjeros) modela uma cidade extraordinariamente multilingüe onde é igual de natural oír um pedido em francês que em inglês, italiano o português, incluidas as órdenes dadas a um cão. Compacta (16 km²), Ginebra se atraviesa a pé de norte a sur em 45 minutos, e su organização em torno a Rade, a cuenca lacustre coronada pelo Jet d'Eau de 140 metros, conecta todos os bairros: Pâquis na margem derecha, Eaux-Vives na izquierda, o Centro histórico em su colina e a bohemia Carouge al outro lado do Arve. A lei federal suiza permite cães em todo o lado salvo prohibición explícita do proprietário do local: restaurantes, cafés, hotéis, transporte, a decisión fica em cada uno, e a cultura dominante é de acogida. O Bois da Bâtie, em pleno centro, é um dois os raros florestas urbanos suizos sem trela o ano inteiro.`,
+      es: `Ginebra, en la punta suroeste del lago Lemán y acunada entre el Jura y los Alpes, fue una ciudad-estado fortificada antes de convertirse en la cuna de la Reforma calvinista en el siglo XVI, y después en la capital humanitaria mundial en el XX: sede de la Cruz Roja, la sede europea de las Naciones Unidas y más de 40 organizaciones internacionales. Esta población diplomática cosmopolita (el 40% de los residentes son extranjeros) modela una ciudad extraordinariamente multilingüe donde es igual de natural oír un pedido en francés que en inglés, italiano o portugués, incluidas las órdenes dadas a un perro. Compacta (16 km²), Ginebra se atraviesa a pie de norte a sur en 45 minutos, y su organización en torno a la Rade, la cuenca lacustre coronada por el Jet d'Eau de 140 metros, conecta todos los barrios: Pâquis en la orilla derecha, Eaux-Vives en la izquierda, el Casco Antiguo en su colina y la bohemia Carouge al otro lado del Arve. La ley federal suiza permite perros en todas partes salvo prohibición explícita del propietario del local: restaurantes, cafés, hoteles, transporte, la decisión queda en cada uno, y la cultura dominante es de acogida. El Bois de la Bâtie, en pleno centro, es uno de los raros bosques urbanos suizos sin correa todo el año.`,
+      pt: `Genebra, na ponta sudoeste do lago Lemano e aninhada entre o Jura e os Alpes, foi uma cidade-estado fortificada antes de se tornar o berço da Reforma calvinista no século XVI, e depois a capital humanitária mundial no século XX: sede da Cruz Vermelha, a sede europeia das Nações Unidas e mais de 40 organizações internacionais. Esta população diplomática cosmopolita (40% dos residentes são estrangeiros) molda uma cidade extraordinariamente multilingue onde é tão natural ouvir um pedido em francês como em inglês, italiano ou português, incluindo as ordens dadas a um cão. Compacta (16 km²), Genebra atravessa-se a pé de norte a sul em 45 minutos, e a sua organização em torno da Rade, a bacia lacustre coroada pelo Jet d'Eau de 140 metros, liga todos os bairros: Pâquis na margem direita, Eaux-Vives na esquerda, a Cidade Velha na sua colina e a boémia Carouge do outro lado do Arve. A lei federal suíça permite cães em todo o lado salvo proibição explícita do proprietário do espaço: restaurantes, cafés, hotéis, transportes, a decisão cabe a cada um, e a cultura dominante é de acolhimento. O Bois de la Bâtie, em pleno centro, é uma das raras florestas urbanas suíças sem trela todo o ano.`,
     },
     sights: [
       {
@@ -16085,8 +16085,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Colline boisée entre Rhône et Arve, plus grande zone sans laisse toute l'année du centre genevois. Sentiers ombragés, petit parc animalier gratuit, panorama sur la ville.`,
           en: `A wooded hillside between the Rhône and Arve, the largest year-round off-leash zone in central Geneva. Shaded forest paths, a free small animal park, and panoramic city views.`,
-          es: `Colina arbolada entre el Ródano y o Arve, la mayor zona sin trela durante todo o año del centro de Ginebra. Senderos sombreados, pequeño parque animal gratuito, vistas panorámicas a a cidade.`,
-          pt: `Colina arbolada entre o Ródano e o Arve, a mayor zona sem trela durante o ano inteiro do centro de Ginebra. Trilhos sombreados, pequeno parque animal gratuito, vistas panorámicas a cidade.`,
+          es: `Colina arbolada entre el Ródano y el Arve, la mayor zona sin correa durante todo el año del centro de Ginebra. Senderos sombreados, pequeño parque animal gratuito, vistas panorámicas de la ciudad.`,
+          pt: `Colina arborizada entre o Ródano e o Arve, a maior zona sem trela durante o ano inteiro do centro de Genebra. Trilhos sombreados, pequeno parque de animais gratuito, vista panorâmica sobre a cidade.`,
         },
       },
       {
@@ -16094,10 +16094,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🚶',
         petFriendly: true,
         desc: {
-          fr: `Promenade de 1,5 km em bord de lac sur la rive droite, du Pont du Mont-Blanc au parc de la Perle du Lac. Bandes herbeuses, accès direct au lac, chiens em laisse acceptés toute l'année.`,
+          fr: `Promenade de 1,5 km en bord de lac sur la rive droite, du Pont du Mont-Blanc au parc de la Perle du Lac. Bandes herbeuses, accès direct au lac, chiens en laisse acceptés toute l'année.`,
           en: `A 1.5 km lakeside promenade on the right bank, from the Mont-Blanc Bridge to the Perle du Lac park. Grassy strips, direct lake access, leashed dogs welcome year-round.`,
-          es: `Paseo de 1,5 km a a orilla del lago na margen derecha, del Pont du Mont-Blanc al parque de la Perle du Lac. Franjas de césped, acceso directo al lago, perros com trela todo o año.`,
-          pt: `Passeio de 1,5 km a margem do lago na margen derecha, do Pont du Mont-Blanc al parque da Perle du Lac. Franjas de relva, acesso directo al lago, cães com trela o ano inteiro.`,
+          es: `Paseo de 1,5 km a la orilla del lago en la margen derecha, del Pont du Mont-Blanc al parque de la Perle du Lac. Franjas de césped, acceso directo al lago, perros con correa todo el año.`,
+          pt: `Passeio de 1,5 km à beira do lago na margem direita, do Pont du Mont-Blanc ao parque da Perle du Lac. Faixas de relva, acesso direto ao lago, cães com trela todo o ano.`,
         },
       },
       {

@@ -25749,10 +25749,10 @@ const cityContent: Record<string, CityContent> = {
 
   manchester: {
     history: {
-      fr: `Manchester a été la première grande ville industrielle du monde, c'est ici que la révolution industrielle s'est faite, autour des moulins à coton et du Bridgewater Canal achevé en 1761, premier canal industriel britannique. Aujourd'hui ville de 553 000 habitants au cœur du Grand Manchester (2,8 millions d'habitants), elle a transformé son patrimoine industriel em quartiers créatifs : le Northern Quarter pour les indépendants, Ancoats et son ancien Little Italy, Castlefield et son bassin de canaux. La culture canine britannique du nord est l'une des plus généreuses : pubs dog-friendly à chaque rue, animaux gratuits dans les trams Metrolink (depuis 2023, permanent) et les bus Bee Network, et 240 hectares sans laisse au seul Heaton Park. Particularité post-Brexit : les visiteurs depuis l'UE doivent obtenir un Animal Health Certificate (AHC) avant l'arrivée, le passeport européen ne suffit plus.`,
+      fr: `Manchester a été la première grande ville industrielle du monde, c'est ici que la révolution industrielle s'est faite, autour des moulins à coton et du Bridgewater Canal achevé en 1761, premier canal industriel britannique. Aujourd'hui ville de 553 000 habitants au cœur du Grand Manchester (2,8 millions d'habitants), elle a transformé son patrimoine industriel en quartiers créatifs : le Northern Quarter pour les indépendants, Ancoats et son ancien Little Italy, Castlefield et son bassin de canaux. La culture canine britannique du nord est l'une des plus généreuses : pubs dog-friendly à chaque rue, animaux gratuits dans les trams Metrolink (depuis 2023, permanent) et les bus Bee Network, et 240 hectares sans laisse au seul Heaton Park. Particularité post-Brexit : les visiteurs depuis l'UE doivent obtenir un Animal Health Certificate (AHC) avant l'arrivée, le passeport européen ne suffit plus.`,
       en: `Manchester was the world's first industrial city, the Industrial Revolution happened here, built on cotton mills and the Bridgewater Canal completed in 1761, Britain's first industrial canal. Today a city of 553,000 inhabitants at the heart of Greater Manchester (2.8 million people), it has reinvented its industrial heritage into creative quarters: the Northern Quarter for independents, Ancoats with its former Little Italy, Castlefield with its canal basin. Northern English dog culture is one of the most generous: dog-friendly pubs on every street, free pets on Metrolink trams (permanent since 2023) and Bee Network buses, and 240 hectares of off-leash space at Heaton Park alone. Post-Brexit quirk: visitors from the EU need an Animal Health Certificate (AHC) before arrival, the EU pet passport is no longer enough.`,
-      es: `Manchester fue la primera gran ciudad industrial del mundo: aquí ocurrió la Revolución Industrial, em torno a las fábricas de algodón y el Bridgewater Canal terminado en 1761, primer canal industrial británico. Hoy es uma cidade de 553.000 habitantes em el coração del Gran Manchester (2,8 millones de personas), que ha reinventado su herencia industrial em barrios creativos: el Northern Quarter para los locales independientes, Ancoats con su antiga Little Italy, Castlefield con su canal. La cultura canina del norte de Inglaterra es das más generosas: pubs dog-friendly em cada rua, mascotas gratis em los tranvías Metrolink (permanente desde 2023) y em los autobuses Bee Network, y 240 hectáreas sin trela solo em Heaton Park. Peculiaridad post-Brexit: los visitantes de a UE necesitan un Animal Health Certificate (AHC) antes de llegar; el passaporte europeu de mascotas ya no basta.`,
-      pt: `Manchester foi a primera grande cidade industrial do mundo: aqui ocurrió a Revolución Industrial, em torno a as fábricas de algodón e o Bridgewater Canal terminado em 1761, primer canal industrial britânico. Hoy é uma cidade de 553.000 habitantes no coração do Grande Manchester (2,8 millones de personas), que tem reinventado su herencia industrial em bairros creativos: o Northern Quarter para os locales independientes, Ancoats com su antiga Little Italy, Castlefield com su canal. A cultura canina do norte de Inglaterra é das mais generosas: pubs pet-friendly em cada rua, animais grátis nos elétricos Metrolink (permanente a partir de 2023) e nos autocarros Bee Network, e 240 hectáreas sem trela só em Heaton Park. Peculiaridad post-Brexit: os visitantes da UE necesitan um Animal Health Certificate (AHC) antes de chegar; o passaporte europeu de animais ya no basta.`,
+      es: `Manchester fue la primera gran ciudad industrial del mundo: aquí ocurrió la Revolución Industrial, en torno a las fábricas de algodón y el Bridgewater Canal terminado en 1761, primer canal industrial británico. Hoy es una ciudad de 553.000 habitantes en el corazón del Gran Manchester (2,8 millones de personas), que ha reinventado su herencia industrial en barrios creativos: el Northern Quarter para los locales independientes, Ancoats con su antigua Little Italy, Castlefield con su canal. La cultura canina del norte de Inglaterra es de las más generosas: pubs dog-friendly en cada calle, mascotas gratis en los tranvías Metrolink (permanente desde 2023) y en los autobuses Bee Network, y 240 hectáreas sin correa solo en Heaton Park. Peculiaridad post-Brexit: los visitantes de la UE necesitan un Animal Health Certificate (AHC) antes de llegar; el pasaporte europeo de mascotas ya no basta.`,
+      pt: `Manchester foi a primeira grande cidade industrial do mundo: foi aqui que aconteceu a Revolução Industrial, em torno das fábricas de algodão e do Bridgewater Canal concluído em 1761, primeiro canal industrial britânico. Hoje é uma cidade de 553.000 habitantes no coração da Grande Manchester (2,8 milhões de pessoas), que reinventou a sua herança industrial em bairros criativos: o Northern Quarter para os independentes, Ancoats com a sua antiga Little Italy, Castlefield com o seu canal. A cultura canina do norte de Inglaterra é das mais generosas: pubs pet-friendly em cada rua, animais grátis nos elétricos Metrolink (permanente desde 2023) e nos autocarros Bee Network, e 240 hectares sem trela só no Heaton Park. Particularidade pós-Brexit: os visitantes da UE precisam de um Animal Health Certificate (AHC) antes de chegar; o passaporte europeu de animais já não basta.`,
     },
     sights: [
       {
@@ -25760,10 +25760,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🎨',
         petFriendly: true,
         desc: {
-          fr: `Quartier créatif de Manchester, boutiques indépendantes, friperies, pubs dog-friendly, et le célèbre Affleck's sur Tib Street. Chiens em laisse acceptés dans presque chaque adresse indépendante ; le marché du week-end de Stevenson Square accepte les chiens.`,
+          fr: `Quartier créatif de Manchester, boutiques indépendantes, friperies, pubs dog-friendly, et le célèbre Affleck's sur Tib Street. Chiens en laisse acceptés dans presque chaque adresse indépendante ; le marché du week-end de Stevenson Square accepte les chiens.`,
           en: `Manchester's creative quarter, independent shops, vintage stores, dog-friendly pubs, and the famous Affleck's emporium on Tib Street. Leashed dogs welcome in nearly every independent venue; the weekend Stevenson Square market accepts dogs.`,
-          es: `o bairro creativo de Manchester: tiendas independientes, vintage, pubs dog-friendly y el famoso Affleck's em Tib Street. Perros com trela admitidos em casi cada local independiente; el mercado de fin de semana de Stevenson Square admite perros.`,
-          pt: `O bairro creativo de Manchester: tiendas independientes, vintage, pubs pet-friendly e o famoso Affleck's em Tib Street. Cães com trela admitidos em quase cada local independiente; o mercado de fin de semana de Stevenson Square admite cães.`,
+          es: `El barrio creativo de Manchester: tiendas independientes, vintage, pubs dog-friendly y el famoso Affleck's en Tib Street. Perros con correa admitidos en casi cada local independiente; el mercado de fin de semana de Stevenson Square admite perros.`,
+          pt: `O bairro criativo de Manchester: lojas independentes, vintage, pubs pet-friendly e o famoso Affleck's em Tib Street. Cães com trela admitidos em quase todos os espaços independentes; o mercado de fim de semana de Stevenson Square admite cães.`,
         },
       },
       {
@@ -25773,8 +25773,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Parc phare de Manchester (240 hectares), l'un des plus grands parcs municipaux d'Europe, avec Heaton Hall (1772). Sans laisse sur les pelouses ouvertes ; tram Metrolink direct depuis le centre en 25 minutes.`,
           en: `Manchester's flagship park (240 hectares), one of the largest municipal parks in Europe, with the Grade-I-listed Heaton Hall (1772). Off-leash on the open lawns; direct Metrolink tram from the centre in 25 minutes.`,
-          es: `o parque estrella de Manchester (240 hectáreas), uno dos mayores parques municipales de Europa, con el Heaton Hall (1772, Grado I protegido). Sin trela em las praderas abiertas; tranvía Metrolink directo desde o centro en 25 minutos.`,
-          pt: `O parque estrella de Manchester (240 hectáreas), uno dois mayores parques municipales de Europa, com o Heaton Hall (1772, Grado I protegido). Sem trela nas pradarias abiertas; elétrico Metrolink directo a partir do centro em 25 minutos.`,
+          es: `El parque estrella de Manchester (240 hectáreas), uno de los mayores parques municipales de Europa, con el Heaton Hall (1772, Grado I protegido). Sin correa en las praderas abiertas; tranvía Metrolink directo desde el centro en 25 minutos.`,
+          pt: `O parque emblemático de Manchester (240 hectares), um dos maiores parques municipais da Europa, com o Heaton Hall (1772, classificado Grau I). Sem trela nos relvados abertos; elétrico Metrolink direto a partir do centro em 25 minutos.`,
         },
       },
       {
@@ -25782,10 +25782,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🚢',
         petFriendly: true,
         desc: {
-          fr: `Bassin de canal historique d'où la Révolution industrielle a expédié son premier coton, devenu quartier verdoyant de bars au bord de l'eau, espace Castlefield Bowl et vestiges du fort romain. Chemins de halage du Bridgewater Canal jusqu'à Sale (9 km) em laisse.`,
+          fr: `Bassin de canal historique d'où la Révolution industrielle a expédié son premier coton, devenu quartier verdoyant de bars au bord de l'eau, espace Castlefield Bowl et vestiges du fort romain. Chemins de halage du Bridgewater Canal jusqu'à Sale (9 km) en laisse.`,
           en: `Historic canal basin where the Industrial Revolution shipped its first cotton, now a leafy quarter of canal-side bars, the Castlefield Bowl, and Roman fort remnants. The Bridgewater Canal towpath leads all the way to Sale (9 km) on leash.`,
-          es: `Histórico canal desde el que la Revolución Industrial embarcó su primer algodón, hoy un barrio frondoso de bares junto al canal, o escenario Castlefield Bowl y restos del fuerte romano. La senda del Bridgewater Canal lleva hasta Sale (9 km) com trela.`,
-          pt: `Histórico canal a partir do que a Revolución Industrial embarcó su primer algodón, hoy um bairro frondoso de bares junto al canal, o escenario Castlefield Bowl e restos do fuerte romano. A senda do Bridgewater Canal leva até Sale (9 km) com trela.`,
+          es: `Histórico canal desde el que la Revolución Industrial embarcó su primer algodón, hoy un barrio frondoso de bares junto al canal, el escenario Castlefield Bowl y restos del fuerte romano. La senda del Bridgewater Canal llega hasta Sale (9 km) con correa.`,
+          pt: `Histórica bacia de canal de onde a Revolução Industrial embarcou o seu primeiro algodão, hoje um bairro verdejante de bares à beira-canal, o palco Castlefield Bowl e vestígios do forte romano. O caminho de sirga do Bridgewater Canal leva até Sale (9 km) com trela.`,
         },
       },
       {
@@ -25795,8 +25795,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Domaine de 36 hectares dans le verdoyant Didsbury, avec forêt, jardins aquatiques, prairies et le sentier riverain de la Mersey. Sans laisse toléré sur les prairies du fond ; café-salon de thé sur place.`,
           en: `36-hectare estate in leafy Didsbury, with woodland, water gardens, meadows, and the Mersey riverside path. Off-leash tolerated on the back meadows; café-tearoom on site.`,
-          es: `Finca de 36 hectáreas em el frondoso Didsbury, con floresta, jardines acuáticos, praderas y el sendero ribereño del Mersey. Soltarlos se tolera em las praderas del fondo; café-salón de té in situ.`,
-          pt: `Finca de 36 hectáreas no frondoso Didsbury, com floresta, jardins acuáticos, pradarias e o trilho riberenho do Mersey. Soltarlos se tolera nas pradarias do fondo; café-salón de té in situ.`,
+          es: `Finca de 36 hectáreas en el frondoso Didsbury, con bosque, jardines acuáticos, praderas y el sendero ribereño del Mersey. Soltarlos se tolera en las praderas del fondo; café-salón de té in situ.`,
+          pt: `Propriedade de 36 hectares no verdejante Didsbury, com bosque, jardins aquáticos, prados e o trilho à beira-rio do Mersey. É tolerado andar sem trela nos prados do fundo; café-salão de chá no local.`,
         },
       },
       {
@@ -25804,10 +25804,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🐾',
         petFriendly: true,
         desc: {
-          fr: `Parc de 109 hectares au sud avec zone sans laisse balisée, sentiers dog-friendly et café-terrasse Wythenshawe Hall qui accepte les chiens em extérieur. Bus 41 depuis Piccadilly Gardens.`,
+          fr: `Parc de 109 hectares au sud avec zone sans laisse balisée, sentiers dog-friendly et café-terrasse Wythenshawe Hall qui accepte les chiens en extérieur. Bus 41 depuis Piccadilly Gardens.`,
           en: `109-hectare park to the south with marked off-leash zone, dog-friendly trails, and a Wythenshawe Hall café-terrace that admits dogs outside. Bus 41 from Piccadilly Gardens.`,
-          es: `Parque de 109 hectáreas al sur con zona sin trela señalizada, senderos dog-friendly y café-terraza de Wythenshawe Hall que admite perros fuera. Bus 41 desde Piccadilly Gardens.`,
-          pt: `Parque de 109 hectáreas al sur com zona sem trela senhalizada, trilhos pet-friendly e café-esplanada de Wythenshawe Hall que admite cães fora. Bus 41 a partir de Piccadilly Gardens.`,
+          es: `Parque de 109 hectáreas al sur con zona sin correa señalizada, senderos dog-friendly y café-terraza de Wythenshawe Hall que admite perros fuera. Autobús 41 desde Piccadilly Gardens.`,
+          pt: `Parque de 109 hectares a sul com zona sem trela sinalizada, trilhos pet-friendly e a esplanada-café de Wythenshawe Hall que admite cães no exterior. Autocarro 41 a partir de Piccadilly Gardens.`,
         },
       },
       {
@@ -25815,19 +25815,19 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏖️',
         petFriendly: true,
         desc: {
-          fr: `Côte de pin et dune du National Trust à 90 minutes em train de Manchester (via Liverpool). Chiens sans laisse toute l'année sur les 4 km de plage et les sentiers de dune ; laisse sur les sentiers de la réserve aux écureuils roux.`,
+          fr: `Côte de pin et dune du National Trust à 90 minutes en train de Manchester (via Liverpool). Chiens sans laisse toute l'année sur les 4 km de plage et les sentiers de dune ; laisse sur les sentiers de la réserve aux écureuils roux.`,
           en: `National Trust pine-and-dune coast 90 minutes by train from Manchester (via Liverpool). Off-leash year-round on the 4 km beach and the dune trails; leash required on the red-squirrel reserve paths.`,
-          es: `Costa de pinares y dunas del National Trust a 90 minutos em tren de Manchester (vía Liverpool). Sin trela todo o año em los 4 km de playa y senderos de dunas; trela obrigatória em los senderos de la reserva de ardillas rojas.`,
-          pt: `Costa de pinares e dunas do National Trust a 90 minutos de comboio de Manchester (vía Liverpool). Sem trela o ano inteiro nos 4 km de praia e trilhos de dunas; trela obrigatória nos trilhos da reserva de ardillas vermelhas.`,
+          es: `Costa de pinares y dunas del National Trust a 90 minutos en tren de Manchester (vía Liverpool). Sin correa todo el año en los 4 km de playa y senderos de dunas; correa obligatoria en los senderos de la reserva de ardillas rojas.`,
+          pt: `Costa de pinhal e dunas do National Trust a 90 minutos de comboio de Manchester (via Liverpool). Sem trela o ano inteiro nos 4 km de praia e trilhos de dunas; trela obrigatória nos trilhos da reserva de esquilos-vermelhos.`,
         },
       },
     ],
     petTips: {
       fr: [
         `Post-Brexit : les passeports européens ne sont plus valides pour entrer au Royaume-Uni, il faut un Animal Health Certificate (AHC) délivré par un vétérinaire de l'UE moins de 10 jours avant le voyage, plus la vaccination antirabique et le traitement contre l'échinocoque.`,
-        `Animaux gratuits sur tout le réseau Bee Network (Metrolink, bus), jusqu'à 2 chiens em laisse par voyageur ; politique permanente depuis 2023.`,
-        `Trains Northern Rail : jusqu'à 2 chiens gratuits par billet adulte ; petits animaux em panier gratuits sans limite de taille de panier.`,
-        `Urgence vétérinaire 24h/24 : Vets Now Manchester, 98 Bury Old Road, Whitefield, +44 161 222 6004, environ 20 minutes em Bolt depuis le centre.`,
+        `Animaux gratuits sur tout le réseau Bee Network (Metrolink, bus), jusqu'à 2 chiens en laisse par voyageur ; politique permanente depuis 2023.`,
+        `Trains Northern Rail : jusqu'à 2 chiens gratuits par billet adulte ; petits animaux en panier gratuits sans limite de taille de panier.`,
+        `Urgence vétérinaire 24h/24 : Vets Now Manchester, 98 Bury Old Road, Whitefield, +44 161 222 6004, environ 20 minutes en Bolt depuis le centre.`,
         `Manchester pleut souvent (830 mm/an, plus que toute autre grande ville UK), emportez un manteau imperméable pour chien et une serviette microfibre.`,
       ],
       en: [
@@ -25838,27 +25838,27 @@ const cityContent: Record<string, CityContent> = {
         `Manchester rains often (830 mm/year, more than any other major UK city), pack a waterproof dog coat and a microfibre towel.`,
       ],
       es: [
-        `Tras el Brexit: los passaportes europeus ya no sirven para entrar al Reino Unido, hace falta un Animal Health Certificate (AHC) emitido por un veterinario de a UE menos de 10 días antes do viaje, además de la vacunación antirrábica y el tratamento contra equinococos.`,
-        `Mascotas gratis em toda a rede Bee Network (Metrolink, autobuses), hasta 2 perros com trela por viajero; política permanente desde 2023.`,
-        `Trenes Northern Rail: hasta 2 perros gratis por billete adulto; mascotas pequeñas em transportín gratis sin límite de tamanho de transportín.`,
-        `Veterinario de urgencias 24h: Vets Now Manchester, 98 Bury Old Road, Whitefield, +44 161 222 6004, a unos 20 minutos em Bolt desde o centro.`,
+        `Tras el Brexit: los pasaportes europeos ya no sirven para entrar al Reino Unido, hace falta un Animal Health Certificate (AHC) emitido por un veterinario de la UE menos de 10 días antes del viaje, además de la vacunación antirrábica y el tratamiento contra equinococos.`,
+        `Mascotas gratis en toda la red Bee Network (Metrolink, autobuses), hasta 2 perros con correa por viajero; política permanente desde 2023.`,
+        `Trenes Northern Rail: hasta 2 perros gratis por billete adulto; mascotas pequeñas en transportín gratis sin límite de tamaño de transportín.`,
+        `Veterinario de urgencias 24h: Vets Now Manchester, 98 Bury Old Road, Whitefield, +44 161 222 6004, a unos 20 minutos en Bolt desde el centro.`,
         `Manchester llueve a menudo (830 mm/año, más que cualquier otra gran ciudad del Reino Unido): lleva impermeable para el perro y toalla de microfibra.`,
       ],
       pt: [
-        `Tras o Brexit: os passaportes europeus ya no sirven para entrar al Reino Unido, hace falta um Animal Health Certificate (AHC) emitido por um veterinário da UE menos de 10 dias antes do viaje, além disso da vacunación antirrábica e o tratamento contra equinococos.`,
-        `Animais grátis em toda a rede Bee Network (Metrolink, autocarros), até 2 cães com trela por viajero; política permanente a partir de 2023.`,
-        `Comboios Northern Rail: até 2 cães grátis por bilhete adulto; animais pequenas em transportadora grátis sem limite de tamanho de transportadora.`,
-        `Veterinário de urgências 24h: Vets Now Manchester, 98 Bury Old Road, Whitefield, +44 161 222 6004, a uns 20 minutos em Bolt a partir do centro.`,
-        `Manchester llueve a menudo (830 mm/ano, mais que cualquier outra grande cidade do Reino Unido): lleva impermeable para o cão e toalla de microfibra.`,
+        `Depois do Brexit: os passaportes europeus já não servem para entrar no Reino Unido, é preciso um Animal Health Certificate (AHC) emitido por um veterinário da UE menos de 10 dias antes da viagem, além da vacinação antirrábica e do tratamento contra equinococos.`,
+        `Animais grátis em toda a rede Bee Network (Metrolink, autocarros), até 2 cães com trela por viajante; política permanente desde 2023.`,
+        `Comboios Northern Rail: até 2 cães grátis por bilhete de adulto; animais pequenos em transportadora grátis sem limite de tamanho de transportadora.`,
+        `Veterinário de urgência 24h: Vets Now Manchester, 98 Bury Old Road, Whitefield, +44 161 222 6004, a cerca de 20 minutos de Bolt a partir do centro.`,
+        `Manchester chove com frequência (830 mm/ano, mais do que qualquer outra grande cidade do Reino Unido): leve uma capa impermeável para o cão e uma toalha de microfibra.`,
       ],
     },
     practicalInfo: {
       fr: [
         `L'aéroport de Manchester (MAN) est à 14 km du centre, Metrolink ligne Airport en 25 minutes (chien gratuit). Un train Northern Rail direct relie aussi Piccadilly à l'aéroport en 20 minutes.`,
         `Tarifs hôtels dog-friendly : à partir de 90 £ la nuit en 4*, supplément animal moyen 20-50 £ par séjour ou par nuit.`,
-        `Climat océanique : étés frais (17 °C em juillet), hivers doux mais humides (5 °C em janvier) ; le vent et l'humidité font ressentir le froid plus que les chiffres.`,
+        `Climat océanique : étés frais (17 °C en juillet), hivers doux mais humides (5 °C en janvier) ; le vent et l'humidité font ressentir le froid plus que les chiffres.`,
         `Tailster.com et BorrowMyDoggy.com sont les deux plateformes de référence pour la garde et la promenade ; comptez 12-18 £ la promenade, 30-45 £ la journée complète.`,
-        `Manchester est à 2h de Londres em train (Avanti West Coast), 50 min de Liverpool et 1h45 de Windermere, point de départ idéal pour un circuit canin Lake District / Yorkshire.`,
+        `Manchester est à 2h de Londres en train (Avanti West Coast), 50 min de Liverpool et 1h45 de Windermere, point de départ idéal pour un circuit canin Lake District / Yorkshire.`,
       ],
       en: [
         `Manchester Airport (MAN) is 14 km from the centre, Metrolink Airport line in 25 minutes (dog free). A Northern Rail direct train also connects Piccadilly to the airport in 20 minutes.`,
@@ -25868,18 +25868,18 @@ const cityContent: Record<string, CityContent> = {
         `Manchester is 2 hours from London by train (Avanti West Coast), 50 min from Liverpool, and 1h45 from Windermere, an ideal starting point for a Lake District / Yorkshire dog circuit.`,
       ],
       es: [
-        `o aeropuerto de Manchester (MAN) está a 14 km del centro, línea Metrolink Airport en 25 minutos (perro gratis). Un tren Northern Rail directo también conecta Piccadilly con o aeropuerto en 20 minutos.`,
+        `El aeropuerto de Manchester (MAN) está a 14 km del centro, línea Metrolink Airport en 25 minutos (perro gratis). Un tren Northern Rail directo también conecta Piccadilly con el aeropuerto en 20 minutos.`,
         `Tarifas de hoteles dog-friendly: desde 90 £ por noche en 4*, suplemento medio por mascota 20-50 £ por estancia o por noche.`,
-        `Clima oceánico: veranos frescos (17 °C em julio), inviernos suaves pero húmedos (5 °C em enero); el viento y la humedad hacen que el frío se sienta más fuerte que los números.`,
+        `Clima oceánico: veranos frescos (17 °C en julio), inviernos suaves pero húmedos (5 °C en enero); el viento y la humedad hacen que el frío se sienta más fuerte que los números.`,
         `Tailster.com y BorrowMyDoggy.com son las dos plataformas de referencia para cuidado y paseo; cuenta 12-18 £ por paseo, 30-45 £ por día completo.`,
-        `Manchester está a 2 horas de Londres em tren (Avanti West Coast), 50 min de Liverpool y 1h45 de Windermere: punto de partida ideal para un circuito canino Lake District / Yorkshire.`,
+        `Manchester está a 2 horas de Londres en tren (Avanti West Coast), 50 min de Liverpool y 1h45 de Windermere: punto de partida ideal para un circuito canino Lake District / Yorkshire.`,
       ],
       pt: [
-        `O aeroporto de Manchester (MAN) está a 14 km do centro, línea Metrolink Airport en 25 minutos (cão grátis). Um comboio Northern Rail directo também conecta Piccadilly com o aeroporto en 20 minutos.`,
-        `Tarifas de hotéis pet-friendly: a partir de 90 £ por noite en 4*, suplemento medio por animal 20-50 £ por estadia o por noite.`,
-        `Clima oceánico: veranos frescos (17 °C em julho), inviernos suaves mas húmedos (5 °C em janeiro); o viento e a humedad hacen que o frio se sienta mais fuerte que os números.`,
-        `Tailster.com e BorrowMyDoggy.com são as dois plataformas de referencia para cuidado e passeio; cuenta 12-18 £ por passeio, 30-45 £ por dia completo.`,
-        `Manchester está a 2 horas de Londres de comboio (Avanti West Coast), 50 min de Liverpool e 1h45 de Windermere: punto de partida ideal para um circuito canino Lake District / Yorkshire.`,
+        `O aeroporto de Manchester (MAN) fica a 14 km do centro, linha Metrolink Airport em 25 minutos (cão grátis). Um comboio Northern Rail direto também liga Piccadilly ao aeroporto em 20 minutos.`,
+        `Tarifas de hotéis pet-friendly: a partir de 90 £ por noite em 4*, suplemento médio por animal 20-50 £ por estadia ou por noite.`,
+        `Clima oceânico: verões frescos (17 °C em julho), invernos amenos mas húmidos (5 °C em janeiro); o vento e a humidade fazem sentir o frio mais do que os números indicam.`,
+        `Tailster.com e BorrowMyDoggy.com são as duas plataformas de referência para alojamento e passeios; conte 12-18 £ por passeio, 30-45 £ por dia completo.`,
+        `Manchester fica a 2 horas de Londres de comboio (Avanti West Coast), 50 min de Liverpool e 1h45 de Windermere: ponto de partida ideal para um circuito canino Lake District / Yorkshire.`,
       ],
     },
   },

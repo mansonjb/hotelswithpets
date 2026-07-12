@@ -32646,7 +32646,7 @@ const cityContent: Record<string, CityContent> = {
       fr: `Poznań est le berceau de l'État polonais. C'est sur l'Île de la Cathédrale (Ostrów Tumski) que le roi Mieszko Ier fut baptisé en 966, posant le premier acte de fondation de la Pologne chrétienne. Mille ans plus tard, la ville garde cette double identité de capitale historique et de cité commerçante : son immense Stary Rynek, l'une des plus vastes places de marché médiévales d'Europe, est bordée de maisons Renaissance aux façades colorées et abrite l'Hôtel de Ville Renaissance dont les célèbres chèvres mécaniques se cognent chaque jour à midi. Autour du centre, la Citadelle (100 hectares de parc sur l'ancienne forteresse prussienne), le lac Malta de 64 hectares à dix minutes à pied, et le Parc national de Wielkopolska à 30 km au sud font de Poznań une découverte pour les propriétaires de chiens. Le tram MPK accepte les animaux moyennant un billet simple, les terrasses du Rynek les accueillent en laisse, et la ville compte une quarantaine de zones canines clôturées (wybiegi).`,
       en: `Poznań is the cradle of the Polish state. It was on Cathedral Island (Ostrów Tumski) that King Mieszko I was baptised in 966, the founding act of Christian Poland. A millennium later the city keeps that double identity of historic capital and trading hub: its vast Stary Rynek, one of the largest medieval market squares in Europe, is ringed by colourful Renaissance townhouses and dominated by the Renaissance Town Hall whose famous mechanical goats butt heads every day at noon. Around the centre, the Citadel (100 hectares of park on a former Prussian fortress), the 64-hectare Lake Malta a ten-minute walk away, and the Wielkopolska National Park 30 km south make Poznań a quiet discovery for dog owners. MPK trams accept dogs with a single ticket, Rynek terraces welcome them on leash, and the city maintains around forty fenced off-leash dog zones (wybiegi).`,
       es: `Poznań es la cuna del Estado polaco. Fue en la Isla de la Catedral (Ostrów Tumski) donde el rey Mieszko I fue bautizado en el año 966, acto fundacional de la Polonia cristiana. Mil años después la ciudad conserva esa doble identidad de capital histórica y centro comercial: su enorme Stary Rynek, una de las plazas medievales más grandes de Europa, está rodeada de casas renacentistas de fachadas coloridas y dominada por el Ayuntamiento renacentista cuyas famosas cabras mecánicas se topetan cada día al mediodía. Alrededor del centro, la Ciudadela (100 hectáreas de parque sobre una antigua fortaleza prusiana), el lago Malta de 64 hectáreas a diez minutos a pie y el Parque Nacional de Wielkopolska a 30 km al sur hacen de Poznań un descubrimiento tranquilo para los dueños de perros. Los tranvías MPK admiten perros con un billete simple, las terrazas del Rynek los acogen con correa y la ciudad mantiene unas cuarenta zonas caninas valladas (wybiegi).`,
-      pt: `Poznań é o berço do Estado polaco. Foi na Ilha da Catedral (Ostrów Tumski) que o rei Mieszko I foi baptizado em 966, acto fundador da Polónia cristã. Mil anos depois a cidade mantém essa dupla identidade de capital histórica e centro comercial: a sua enorme Stary Rynek, uma das maiores praças medievais da Europa, está rodeada de casas renascentistas de fachadas coloridas e dominada pelo Pacos do Concelho renascentista cujas famosas cabras mecânicas dão marradas todos os dias ao meio-dia. À volta do centro, a Cidadela (100 hectares de parque sobre uma antiga fortaleza prussiana), o lago Malta de 64 hectares a dez minutos a pé e o Parque Nacional de Wielkopolska a 30 km a sul fazem de Poznań uma descoberta tranquila para os donos de cães. Os elétricos MPK admitem cães com um bilhete simples, as esplanadas do Rynek acolhem-nos com trela e a cidade mantém cerca de quarenta zonas caninas vedadas (wybiegi).`,
+      pt: `Poznań é o berço do Estado polaco. Foi na Ilha da Catedral (Ostrów Tumski) que o rei Mieszko I foi baptizado em 966, acto fundador da Polónia cristã. Mil anos depois a cidade mantém essa dupla identidade de capital histórica e centro comercial: a sua enorme Stary Rynek, uma das maiores praças medievais da Europa, está rodeada de casas renascentistas de fachadas coloridas e dominada pelo Paços do Concelho renascentista cujas famosas cabras mecânicas dão marradas todos os dias ao meio-dia. À volta do centro, a Cidadela (100 hectares de parque sobre uma antiga fortaleza prussiana), o lago Malta de 64 hectares a dez minutos a pé e o Parque Nacional de Wielkopolska a 30 km a sul fazem de Poznań uma descoberta tranquila para os donos de cães. Os elétricos MPK admitem cães com um bilhete simples, as esplanadas do Rynek acolhem-nos com trela e a cidade mantém cerca de quarenta zonas caninas vedadas (wybiegi).`,
     },
     sights: [
       {
@@ -32657,7 +32657,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `L'une des plus grandes places de marché médiévales d'Europe, tracée en 1253 et bordée de maisons Renaissance aux façades colorées. Au centre, l'Hôtel de Ville Renaissance abrite les fameuses chèvres mécaniques qui se cognent chaque jour à midi. Les chiens en laisse sont les bienvenus sur les pavés et sur la plupart des terrasses, mais le musée intérieur et le Château Royal n'admettent que les chiens d'assistance.`,
           en: `One of Europe's largest medieval market squares, laid out in 1253 and ringed by colourful Renaissance townhouses. At its centre, the Renaissance Town Hall houses the famous mechanical goats that butt heads every day at noon. Leashed dogs are welcome on the cobbles and most café terraces, though the indoor museum and the Royal Castle admit assistance dogs only.`,
           es: `Una de las plazas medievales más grandes de Europa, trazada en 1253 y rodeada de casas renacentistas de fachadas coloridas. En el centro, el Ayuntamiento renacentista alberga las famosas cabras mecánicas que se topetan cada día al mediodía. Los perros con correa son bienvenidos sobre los adoquines y en la mayoría de las terrazas, pero el museo interior y el Castillo Real solo admiten perros de asistencia.`,
-          pt: `Uma das maiores praças medievais da Europa, traçada em 1253 e rodeada de casas renascentistas de fachadas coloridas. No centro, o Pacos do Concelho renascentista alberga as famosas cabras mecânicas que dão marradas todos os dias ao meio-dia. Os cães com trela são bem-vindos na calçada e na maioria das esplanadas, mas o museu interior e o Castelo Real só admitem cães de assistência.`,
+          pt: `Uma das maiores praças medievais da Europa, traçada em 1253 e rodeada de casas renascentistas de fachadas coloridas. No centro, o Paços do Concelho renascentista alberga as famosas cabras mecânicas que dão marradas todos os dias ao meio-dia. Os cães com trela são bem-vindos na calçada e na maioria das esplanadas, mas o museu interior e o Castelo Real só admitem cães de assistência.`,
         },
       },
       {
@@ -32718,11 +32718,11 @@ const cityContent: Record<string, CityContent> = {
     ],
     petTips: {
       fr: [
-        `ZTM Poznań (transports publics) impose laisse et muselière pour les chiens moyens-grands dans trams et bus; un billet simple est requis, les petits chiens em sac voyagent gratuitement.`,
+        `ZTM Poznań (transports publics) impose laisse et muselière pour les chiens moyens-grands dans trams et bus; un billet simple est requis, les petits chiens en sac voyagent gratuitement.`,
         `Les onze races classées 'dangereuses' par la loi polonaise exigent un permis municipal; emportez le pedigree pour éviter les confusions.`,
         `À midi sur le Stary Rynek, la foule se densifie pour la cérémonie des chèvres mécaniques; arrivez à 11h ou 13h30 avec un chien nerveux.`,
         `Les amendes pour déjections dans le centre atteignent 500 PLN; les agents municipaux contrôlent près du Rynek et de la Citadelle, ayez toujours des sacs.`,
-        `Lake Malta exclut les chiens de la zone de baignade surveillée em juillet-août; le Lac Strzeszyńskie reste accessible em laisse hors zone surveillée.`,
+        `Lake Malta exclut les chiens de la zone de baignade surveillée en juillet-août; le Lac Strzeszyńskie reste accessible en laisse hors zone surveillée.`,
       ],
       en: [
         `ZTM Poznań public transport requires a leash and muzzle for medium-to-large dogs on trams and buses; a single ticket is required, small dogs in a carrier travel free.`,
@@ -32732,11 +32732,11 @@ const cityContent: Record<string, CityContent> = {
         `Lake Malta excludes dogs from the lifeguarded swim zone in July-August; Lake Strzeszyńskie remains accessible on leash outside the guarded area.`,
       ],
       es: [
-        `ZTM Poznań (transporte público) exige correa y bozal para perros medianos-grandes em tranvías y autobuses; se requiere un billete simple, los perros pequeños em transportín viajan gratis.`,
+        `ZTM Poznań (transporte público) exige correa y bozal para perros medianos-grandes en tranvías y autobuses; se requiere un billete simple, los perros pequeños en transportín viajan gratis.`,
         `Las once razas clasificadas como 'peligrosas' por la ley polaca requieren permiso municipal; lleva el pedigrí para evitar confusiones.`,
-        `Al mediodía em el Stary Rynek la multitud se densifica para la ceremonia de las cabras mecánicas; llega a las 11:00 o 13:30 si tu perro es nervioso.`,
-        `Las multas por heces em el centro llegan a 500 PLN; los agentes municipales patrullan cerca del Rynek y de la Ciudadela, lleva siempre bolsas.`,
-        `El lago Malta excluye a los perros de la zona de baño vigilada em julio-agosto; el lago Strzeszyńskie sigue accesible com correa fuera de la zona vigilada.`,
+        `Al mediodía en el Stary Rynek la multitud se densifica para la ceremonia de las cabras mecánicas; llega a las 11:00 o 13:30 si tu perro es nervioso.`,
+        `Las multas por heces en el centro llegan a 500 PLN; los agentes municipales patrullan cerca del Rynek y de la Ciudadela, lleva siempre bolsas.`,
+        `El lago Malta excluye a los perros de la zona de baño vigilada en julio-agosto; el lago Strzeszyńskie sigue accesible con correa fuera de la zona vigilada.`,
       ],
       pt: [
         `A ZTM Poznań (transportes públicos) exige trela e focinho para cães médios-grandes em elétricos e autocarros; é necessário um bilhete simples, os cães pequenos em transportadora viajam grátis.`,
@@ -32749,7 +32749,7 @@ const cityContent: Record<string, CityContent> = {
     practicalInfo: {
       fr: [
         `Voyageurs UE : passeport européen, puce ISO et vaccin antirabique administré au moins 21 jours avant; hors UE, certificat vétérinaire endossé dans les 10 jours précédant l'arrivée.`,
-        `L'aéroport Poznań-Ławica (POZ) accepte les animaux em cabine jusqu'à 8 kg et em soute selon les normes IATA; réservez au moins 48h à l'avance, surtout l'été.`,
+        `L'aéroport Poznań-Ławica (POZ) accepte les animaux en cabine jusqu'à 8 kg et en soute selon les normes IATA; réservez au moins 48h à l'avance, surtout l'été.`,
         `Cliniques 24h/24 : KLINWET (Wąsiatycz, ul. Księcia Mieszka I 18, +48 61 823 09 97) et EDINA (ul. Naramowicka 68, +48 61 600 65 40); pour les soins de jour, la clinique EDINA Na Polance (ul. Katowicka 11).`,
         `L'hiver à Poznań oscille entre -3 et 0 °C avec neige de décembre à mars; baume, bottines et manteau pour chiens à poil ras sont essentiels. L'été se situe à 21-25 °C.`,
         `Bolt, Free Now et iTaxi acceptent les animaux si signalé à la réservation; une serviette sur le siège est la norme courtoise.`,
@@ -32762,11 +32762,11 @@ const cityContent: Record<string, CityContent> = {
         `Taxi apps Bolt, Free Now, and iTaxi accept pets when requested at booking; a towel on the seat is expected as a courtesy.`,
       ],
       es: [
-        `Viajeros UE: pasaporte europeo, microchip ISO y vacuna antirrábica administrada al menos 21 días antes; fuera de la UE, certificado veterinario sellado em los 10 días previos a la llegada.`,
-        `El aeropuerto Poznań-Ławica (POZ) admite mascotas em cabina hasta 8 kg y em bodega según normas IATA; reserva com al menos 48 h de antelación, sobre todo em verano.`,
+        `Viajeros UE: pasaporte europeo, microchip ISO y vacuna antirrábica administrada al menos 21 días antes; fuera de la UE, certificado veterinario sellado en los 10 días previos a la llegada.`,
+        `El aeropuerto Poznań-Ławica (POZ) admite mascotas en cabina hasta 8 kg y en bodega según normas IATA; reserva con al menos 48 h de antelación, sobre todo en verano.`,
         `Clínicas 24 h: KLINWET (Wąsiatycz, ul. Księcia Mieszka I 18, +48 61 823 09 97) y EDINA (ul. Naramowicka 68, +48 61 600 65 40); para cuidados de día, la clínica EDINA Na Polance (ul. Katowicka 11).`,
-        `Los inviernos de Poznań oscilan entre -3 y 0 °C com nieve de diciembre a marzo; bálsamo, botines y abrigo para razas de pelo corto son esenciales. Los veranos rondan los 21-25 °C.`,
-        `Las apps Bolt, Free Now e iTaxi aceptan mascotas al indicarlo al reservar; una toalla em el asiento es la norma de cortesía.`,
+        `Los inviernos de Poznań oscilan entre -3 y 0 °C con nieve de diciembre a marzo; bálsamo, botines y abrigo para razas de pelo corto son esenciales. Los veranos rondan los 21-25 °C.`,
+        `Las apps Bolt, Free Now e iTaxi aceptan mascotas al indicarlo al reservar; una toalla en el asiento es la norma de cortesía.`,
       ],
       pt: [
         `Viajantes UE: passaporte europeu, microchip ISO e vacina antirrábica administrada pelo menos 21 dias antes; fora da UE, certificado veterinário endossado nos 10 dias prévios à chegada.`,

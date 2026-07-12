@@ -39314,10 +39314,10 @@ const cityContent: Record<string, CityContent> = {
 
   split: {
     history: {
-      fr: `Split a grandi à l'intérieur d'un palais. Lorsque l'empereur romain Dioclétien s'y retira en 305 ap. J.-C., il bâtit une résidence-forteresse em bord de mer que des réfugiés transformèrent plus tard em cœur vivant d'une ville, 3 000 personnes y dorment encore dans les murs de calcaire. Le résultat est un chaos UNESCO : colonnes romaines soutenant des appartements médiévaux, autels baroques encastrés dans des maisons marchandes vénitiennes, le tout face à une Adriatique plus bleue qu'une carte postale. Split s'élève entre la pinède de la colline du Marjan et la Riva bordée de palmiers, avec les îles dalmates à une traversée de ferry. Les Croates adorent les chiens, em particulier le dalmatien, sélectionné sur cette côte, et la plupart des cafés laissent des gamelles dehors.`,
+      fr: `Split a grandi à l'intérieur d'un palais. Lorsque l'empereur romain Dioclétien s'y retira en 305 ap. J.-C., il bâtit une résidence-forteresse en bord de mer que des réfugiés transformèrent plus tard en cœur vivant d'une ville, 3 000 personnes y dorment encore dans les murs de calcaire. Le résultat est un chaos UNESCO : colonnes romaines soutenant des appartements médiévaux, autels baroques encastrés dans des maisons marchandes vénitiennes, le tout face à une Adriatique plus bleue qu'une carte postale. Split s'élève entre la pinède de la colline du Marjan et la Riva bordée de palmiers, avec les îles dalmates à une traversée de ferry. Les Croates adorent les chiens, en particulier le dalmatien, sélectionné sur cette côte, et la plupart des cafés laissent des gamelles dehors.`,
       en: `Split grew up inside a palace. When Roman emperor Diocletian retired here in 305 AD, he built a seaside fortress-home that later refugees turned into the living heart of a city, today 3,000 people still sleep within its limestone walls. The result is UNESCO-listed chaos: Roman columns holding up medieval apartments, Baroque altars jammed against Venetian merchant houses, all facing an Adriatic bluer than any postcard. Split rises between Marjan Hill's pine forest and a palm-lined Riva promenade, with the Dalmatian islands just a ferry hop away. Croatians adore dogs, particularly the native Dalmatian, bred along this very coast, and most cafes keep water bowls out.`,
-      es: `Split creció dentro de un palacio. Cuando o emperador romano Diocleciano se retiró aquí em el 305 d.C., construyó una residencia-fortaleza junto al mar que refugiados posteriores convirtieron em el coração vivo de uma cidade, aún hoy 3.000 personas duermen dentro de sus muros de caliza. El resultado es un caos UNESCO: columnas romanas sosteniendo apartamentos medievales, altares barrocos encajados em casas mercantes venecianas, todo frente a un Adriático más azul que cualquier postal. Split se alza entre el pinar de la colina Marjan y la palmeada Riva, con las islas dálmatas a un salto de ferry. Los croatas adoran a los perros, em particular al dálmata, seleccionado em esta costa, y la mayoría de cafés dejan cuencos fuera.`,
-      pt: `Split creció dentro dum palácio. Quando o emperador romano Diocleciano se retiró aqui no 305 d.C., construyó uma residencia-fortaleza junto al mar que refugiados posteriores convirtieron no coração vivo duma cidade, aún hoy 3.000 personas duermen dentro dois seus muros de caliza. O resultado é um caos UNESCO: columnas romanas sosteniendo apartamentos medievais, altares barrocos encajados em casas mercantes venecianas, todo frente a um Adriático mais azul que cualquier postal. Split se alza entre o pinar da colina Marjan e a palmeada Riva, com as ilhas dálmatas a um salto de ferry. Os croatas adoran aos cães, em particular al dálmata, seleccionado em esta costa, e a maioria de cafés deixam cuencos fora.`,
+      es: `Split creció dentro de un palacio. Cuando el emperador romano Diocleciano se retiró aquí en el 305 d.C., construyó una residencia-fortaleza junto al mar que refugiados posteriores convirtieron en el corazón vivo de una ciudad, aún hoy 3.000 personas duermen dentro de sus muros de caliza. El resultado es un caos UNESCO: columnas romanas sosteniendo apartamentos medievales, altares barrocos encajados en casas mercantes venecianas, todo frente a un Adriático más azul que cualquier postal. Split se alza entre el pinar de la colina Marjan y la palmeada Riva, con las islas dálmatas a un salto de ferry. Los croatas adoran a los perros, en particular al dálmata, seleccionado en esta costa, y la mayoría de cafés dejan cuencos fuera.`,
+      pt: `Split cresceu dentro de um palácio. Quando o imperador romano Diocleciano se retirou aqui em 305 d.C., construiu uma residência-fortaleza à beira-mar que refugiados posteriores transformaram no coração vivo de uma cidade, ainda hoje 3.000 pessoas dormem dentro das suas muralhas de calcário. O resultado é um caos classificado pela UNESCO: colunas romanas a sustentar apartamentos medievais, altares barrocos encaixados em casas mercantis venezianas, tudo virado para um Adriático mais azul do que qualquer postal. Split ergue-se entre o pinhal da colina de Marjan e a Riva orlada de palmeiras, com as ilhas dálmatas à distância de um ferry. Os croatas adoram os cães, em particular o dálmata, criado nesta mesma costa, e a maioria dos cafés deixa tigelas de água à porta.`,
     },
     sights: [
       {
@@ -39325,10 +39325,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏛️',
         petFriendly: true,
         desc: {
-          fr: 'La retraite impériale romaine vieille de 1 700 ans, devenue la vieille ville de Split. Les chiens em laisse sont admis dans le labyrinthe vivant de ruelles, places et caves, mais interdits dans la cathédrale Saint-Domnius, son clocher et les musées payants. Les balades matinales avant les croisiéristes sont magiques.',
+          fr: 'La retraite impériale romaine vieille de 1 700 ans, devenue la vieille ville de Split. Les chiens en laisse sont admis dans le labyrinthe vivant de ruelles, places et caves, mais interdits dans la cathédrale Saint-Domnius, son clocher et les musées payants. Les balades matinales avant les croisiéristes sont magiques.',
           en: 'The 1,700-year-old Roman imperial retreat that became Split\'s Old Town. Leashed dogs are welcome throughout the living labyrinth of streets, squares, and cellars, but forbidden inside the Cathedral of St. Domnius, its bell tower, and paid museums. Early morning walks before cruise crowds are magical.',
-          es: 'El retiro imperial romano de 1.700 años convertido em el Casco antigo de Split. Los perros com trela son bienvenidos em el laberinto vivo de ruas, plazas y sótanos, pero no na catedral de San Domnio, su campanario ni los museos de pago. Los paseos al amanecer antes dos cruceristas son mágicos.',
-          pt: 'O retiro imperial romano de 1.700 anos convertido no Centro histórico de Split. Os cães com trela são bem-vindos no laberinto vivo de ruas, praças e sótanos, mas no na catedral de San Domnio, su campanario ni os museus de pago. Os passeios al amanecer antes dois cruceristas são mágicos.',
+          es: 'El retiro imperial romano de 1.700 años convertido en el casco antiguo de Split. Los perros con correa son bienvenidos en el laberinto vivo de calles, plazas y sótanos, pero no en la catedral de San Domnio, su campanario ni los museos de pago. Los paseos al amanecer antes de los cruceristas son mágicos.',
+          pt: 'O retiro imperial romano de 1.700 anos transformado no centro histórico de Split. Os cães à trela são bem-vindos no labirinto vivo de ruas, praças e caves, mas proibidos na catedral de São Domnio, no seu campanário e nos museus pagos. Os passeios ao amanhecer, antes dos cruzeiristas, são mágicos.',
         },
       },
       {
@@ -39336,10 +39336,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌲',
         petFriendly: true,
         desc: {
-          fr: 'La péninsule boisée de Split s\'élevant directement de la Vieille Ville, 178 mètres de pins d\'Alep, chapelles de pierre et points de vue panoramiques. Les chiens sont admis partout em laisse, et plusieurs criques rocheuses sur les pentes sud servent de spots non officiels de baignade canine toute l\'année.',
+          fr: 'La péninsule boisée de Split s\'élevant directement de la Vieille Ville, 178 mètres de pins d\'Alep, chapelles de pierre et points de vue panoramiques. Les chiens sont admis partout en laisse, et plusieurs criques rocheuses sur les pentes sud servent de spots non officiels de baignade canine toute l\'année.',
           en: 'Split\'s forested peninsula rising directly from the Old Town, with 178 meters of Aleppo pines, stone chapels, and panoramic viewpoints. Dogs are welcome throughout on leash, and several rocky coves on the southern slopes serve as unofficial dog swimming spots year-round.',
-          es: 'La península boscosa de Split que se alza directamente desde el Casco antigo: 178 metros de pinos carrascos, capillas de piedra y miradores panorámicos. Los perros son bienvenidos com trela em todo o área, y varias calas rocosas em las laderas sur sirven como puntos no oficiales de baño canino todo o año.',
-          pt: 'A península boscosa de Split que se alza directamente a partir do Centro histórico: 178 metros de pinos carrascos, capillas de pedra e miradores panorámicos. Os cães são bem-vindos com trela em todo o área, e várias calas rocosas nas laderas sur sirven como puntos no oficiais de banho canino o ano inteiro.',
+          es: 'La península boscosa de Split que se alza directamente desde el casco antiguo: 178 metros de pinos carrascos, capillas de piedra y miradores panorámicos. Los perros son bienvenidos con correa por toda ella, y varias calas rocosas en las laderas sur sirven como puntos no oficiales de baño canino todo el año.',
+          pt: 'A península arborizada de Split, que se ergue diretamente do centro histórico: 178 metros de pinheiros-de-alepo, capelas de pedra e miradouros panorâmicos. Os cães são bem-vindos à trela por toda a área, e várias enseadas rochosas nas encostas sul servem de locais informais de banho canino todo o ano.',
         },
       },
       {
@@ -39347,10 +39347,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌴',
         petFriendly: true,
         desc: {
-          fr: 'La promenade maritime bordée de palmiers de Split est le paseo quotidien de chaque habitant, chien ou non. Les chiens em laisse sont admis sur tout le tronçon et à la plupart des terrasses. La brise marine du soir la garde fraîche longtemps après que la ville de pierre a cuit.',
+          fr: 'La promenade maritime bordée de palmiers de Split est la balade quotidienne de chaque habitant, chien ou non. Les chiens en laisse sont admis sur tout le tronçon et à la plupart des terrasses. La brise marine du soir la garde fraîche longtemps après que la ville de pierre a cuit.',
           en: 'Split\'s palm-lined seafront promenade is the daily paseo of every local, dog or not. Leashed dogs are welcome along the whole strip and on most cafe terraces. Evening sea breezes keep it cool long after the stone city bakes.',
-          es: 'El paseo marítimo palmeado de Split es el paseo diario de cada local, con perro o sin él. Los perros com trela son bienvenidos em todo el tramo y na mayoría de terrazas. La brisa marina del atardecer lo mantiene fresco mucho después de que a cidade de piedra haya hervido.',
-          pt: 'O passeio marítimo palmeado de Split é o passeio diario de cada local, com cão o sem él. Os cães com trela são bem-vindos em todo o tramo e na maioria de esplanadas. A brisa marina do atardecer lo mantiene fresco muito depois de que a cidade de pedra haya hervido.',
+          es: 'El paseo marítimo palmeado de Split es el paseo diario de cada local, con perro o sin él. Los perros con correa son bienvenidos en todo el tramo y en la mayoría de las terrazas. La brisa marina del atardecer lo mantiene fresco mucho después de que la ciudad de piedra se haya caldeado.',
+          pt: 'O passeio marítimo orlado de palmeiras de Split é o passeio diário de cada residente, com cão ou sem ele. Os cães à trela são bem-vindos ao longo de todo o troço e na maioria das esplanadas. A brisa marítima do fim de tarde mantém-no fresco muito depois de a cidade de pedra ter fervido ao sol.',
         },
       },
       {
@@ -39360,8 +39360,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'La plage de sable la plus célèbre de Split, patrie du picigin local. Les chiens y sont interdits du 1er juin au 30 septembre pendant les heures de baignade, comme sur toutes les plages municipales de Split, mais admis matin et soir hors saison.',
           en: 'Split\'s most famous sandy beach, home to the local picigin ball game. Dogs are banned between June 1 and September 30 during daytime hours as on all Split municipal bathing beaches, but allowed morning and evening outside season.',
-          es: 'La playa de arena más famosa de Split, cuna del picigin local. Los perros están prohibidos del 1 de junio ao 30 de septiembre em horario diurno, como em todas las playas municipales de baño de Split, pero admitidos por la mañana y la tarde fuera de temporada.',
-          pt: 'A praia de areia mais famosa de Split, cuna do picigin local. Os cães estão prohibidos do 1 de junho ao 30 de setembro em horario diurno, como em todas as praias municipales de banho de Split, mas admitidos pela manhã e a tarde fora de temporada.',
+          es: 'La playa de arena más famosa de Split, cuna del picigin local. Los perros están prohibidos del 1 de junio al 30 de septiembre en horario diurno, como en todas las playas municipales de baño de Split, pero admitidos por la mañana y la tarde fuera de temporada.',
+          pt: 'A praia de areia mais famosa de Split, berço do picigin local. Os cães estão proibidos de 1 de junho a 30 de setembro em horário diurno, como em todas as praias municipais de banho de Split, mas são admitidos de manhã e ao fim do dia fora de época.',
         },
       },
       {
@@ -39369,10 +39369,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🐾',
         petFriendly: true,
         desc: {
-          fr: 'Plage officiellement dédiée aux chiens à l\'est du centre, ouverte toute l\'année y compris em plein été. Entrée em galets, eau tiède peu profonde et douche pour chiens em font le choix pratique em juillet-août.',
+          fr: 'Plage officiellement dédiée aux chiens à l\'est du centre, ouverte toute l\'année y compris en plein été. Entrée en galets, eau tiède peu profonde et douche pour chiens en font le choix pratique en juillet-août.',
           en: 'An officially designated pet beach east of the center, open to dogs year-round including peak summer. Pebble entry, shallow warm water, and a dog shower make it the practical choice in July and August.',
-          es: 'Playa oficialmente designada para perros al este del centro, abierta todo o año incluido el verano punta. Entrada de guijarros, agua templada poco profunda y ducha para perros la convierten na opción práctica em julio y agosto.',
-          pt: 'Praia oficialmente designada para cães al este do centro, aberta o ano inteiro incluido o verão punta. Entrada de guijarros, água templada pouco profunda e ducha para cães a convierten na opción práctica em julho e agosto.',
+          es: 'Playa oficialmente designada para perros al este del centro, abierta todo el año incluido el verano punta. Entrada de guijarros, agua templada poco profunda y ducha para perros la convierten en la opción práctica en julio y agosto.',
+          pt: 'Praia oficialmente designada para cães a leste do centro, aberta a cães todo o ano, incluindo o pico do verão. Entrada em seixos, água morna e pouco profunda e um chuveiro para cães fazem dela a escolha prática em julho e agosto.',
         },
       },
       {
@@ -39380,20 +39380,20 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🍅',
         petFriendly: true,
         desc: {
-          fr: 'Le marché aux fruits et légumes em plein air adossé au mur est du palais, animé chaque matin par des paysans dalmates. Les chiens em laisse sont admis entre les étals, et nombre de marchands gardent une gamelle à portée.',
+          fr: 'Le marché aux fruits et légumes en plein air adossé au mur est du palais, animé chaque matin par des paysans dalmates. Les chiens en laisse sont admis entre les étals, et nombre de marchands gardent une gamelle à portée.',
           en: 'The open-air fruit and vegetable market pressed against the eastern palace wall, buzzing every morning with Dalmatian farmers. Leashed dogs are welcome weaving between stalls, and many vendors keep a water bowl handy.',
-          es: 'El mercado al aire libre de frutas y verduras pegado al muro este del palacio, animado cada mañana con campesinos dálmatas. Los perros com trela son bienvenidos entre los puestos y muchos vendedores tienen un cuenco a mano.',
-          pt: 'O mercado al aire libre de frutas e verduras pegado al muro este do palácio, animado cada manhã com campesinos dálmatas. Os cães com trela são bem-vindos entre os puestos e muitos vendedores têm um cuenco a mano.',
+          es: 'El mercado al aire libre de frutas y verduras pegado al muro este del palacio, animado cada mañana con campesinos dálmatas. Los perros con correa son bienvenidos entre los puestos y muchos vendedores tienen un cuenco a mano.',
+          pt: 'O mercado ao ar livre de fruta e legumes encostado à muralha leste do palácio, animado todas as manhãs por agricultores dálmatas. Os cães à trela são bem-vindos por entre as bancas, e muitos vendedores mantêm uma tigela de água à mão.',
         },
       },
     ],
     petTips: {
       fr: [
-        'Les plages municipales de Split interdisent les chiens du 1er juin au 30 septembre em journée ; Žnjan, les criques secondaires de Kašjuni et Trstenik possèdent des zones dédiées toute l\'année.',
-        'Les ruelles em pierre calcaire atteignent 50 °C au soleil de l\'après-midi, testez avec le dos de la main ; si vous ne tenez pas 5 secondes, cela brûle les coussinets. Promenez avant 10 h ou après 20 h.',
-        'La Croatie exige la laisse dans tout espace public sauf parcs désignés ; muselière obligatoire dans les transports em commun.',
-        'L\'eau est plus difficile à trouver qu\'em Europe du Nord, emportez un bol pliable et remplissez aux fontaines em pierre de Marjan ou aux cafés de la Riva.',
-        'La compagnie Jadrolinija accepte gratuitement les chiens em laisse sur le pont de la plupart des lignes dalmates ; les cabines nécessitent un billet.',
+        'Les plages municipales de Split interdisent les chiens du 1er juin au 30 septembre en journée ; Žnjan, les criques secondaires de Kašjuni et Trstenik possèdent des zones dédiées toute l\'année.',
+        'Les ruelles en pierre calcaire atteignent 50 °C au soleil de l\'après-midi, testez avec le dos de la main ; si vous ne tenez pas 5 secondes, cela brûle les coussinets. Promenez avant 10 h ou après 20 h.',
+        'La Croatie exige la laisse dans tout espace public sauf parcs désignés ; muselière obligatoire dans les transports en commun.',
+        'L\'eau est plus difficile à trouver qu\'en Europe du Nord, emportez un bol pliable et remplissez aux fontaines en pierre de Marjan ou aux cafés de la Riva.',
+        'La compagnie Jadrolinija accepte gratuitement les chiens en laisse sur le pont de la plupart des lignes dalmates ; les cabines nécessitent un billet.',
       ],
       en: [
         'Split municipal beaches ban dogs from June 1 to September 30 during daytime; Žnjan, Kašjuni secondary coves, and Trstenik have dedicated pet areas open year-round.',
@@ -39403,27 +39403,27 @@ const cityContent: Record<string, CityContent> = {
         'Ferry company Jadrolinija welcomes leashed dogs on deck for free on most Dalmatian island routes; cabins require an extra ticket.',
       ],
       es: [
-        'Las playas municipales de Split prohíben perros del 1 de junio ao 30 de septiembre em horario diurno; Žnjan, calas secundarias de Kašjuni y Trstenik tienen zonas dedicadas todo o año.',
-        'Las callejuelas de piedra caliza alcanzan los 50 °C al sol de la tarde, comprueba con el dorso de la mano; si no aguantas 5 segundos, quemará las almohadillas. Pasea antes das 10 h o después das 20 h.',
-        'Croacia exige trela em todo espacio público salvo parques designados; bozal obrigatório em transporte público.',
-        'o agua es más difícil de encontrar que em el norte de Europa, lleva un bol plegable y rellena em las fuentes de piedra de Marjan o em cafés de la Riva.',
-        'La naviera Jadrolinija admite gratis perros com trela em cubierta na mayoría de rutas dálmatas; los camarotes requieren billete.',
+        'Las playas municipales de Split prohíben perros del 1 de junio al 30 de septiembre en horario diurno; Žnjan, las calas secundarias de Kašjuni y Trstenik tienen zonas dedicadas todo el año.',
+        'Las callejuelas de piedra caliza alcanzan los 50 °C al sol de la tarde, comprueba con el dorso de la mano; si no aguantas 5 segundos, quemará las almohadillas. Pasea antes de las 10 h o después de las 20 h.',
+        'Croacia exige correa en todo espacio público salvo parques designados; bozal obligatorio en el transporte público.',
+        'El agua es más difícil de encontrar que en el norte de Europa, lleva un bol plegable y rellena en las fuentes de piedra de Marjan o en cafés de la Riva.',
+        'La naviera Jadrolinija admite gratis perros con correa en cubierta en la mayoría de rutas dálmatas; los camarotes requieren billete.',
       ],
       pt: [
-        'As praias municipales de Split prohíben cães do 1 de junho ao 30 de setembro em horario diurno; Žnjan, calas secundarias de Kašjuni e Trstenik têm zonas dedicadas o ano inteiro.',
-        'As callejuelas de pedra caliza alcanzan os 50 °C al sol da tarde, comprueba com o dorso da mano; si no aguantas 5 segundos, quemará as almohadillas. Pasea antes das 10 h o depois das 20 h.',
-        'Croacia exige trela em todo espacio público salvo parques designados; bozal obrigatório em transporte público.',
-        'O água é mais difícil de encontrar que no norte de Europa, lleva um bol plegable e rellena nas fuentes de pedra de Marjan o em cafés da Riva.',
-        'A naviera Jadrolinija admite grátis cães com trela em cubierta na maioria de rutas dálmatas; os camarotes requieren bilhete.',
+        'As praias municipais de Split proíbem cães de 1 de junho a 30 de setembro em horário diurno; Žnjan, as enseadas secundárias de Kašjuni e Trstenik têm zonas dedicadas todo o ano.',
+        'As ruelas de pedra calcária atingem os 50 °C ao sol da tarde, teste com as costas da mão; se não aguentar 5 segundos, queima as almofadinhas. Passeie antes das 10 h ou depois das 20 h.',
+        'A Croácia exige trela em todo o espaço público salvo os parques designados; açaime obrigatório nos transportes públicos.',
+        'A água é mais difícil de encontrar do que no norte da Europa, leve uma tigela dobrável e encha nas fontes de pedra de Marjan ou nos cafés da Riva.',
+        'A companhia Jadrolinija aceita gratuitamente cães à trela no convés na maioria das linhas dálmatas; as cabinas exigem um bilhete extra.',
       ],
     },
     practicalInfo: {
       fr: [
         'La Croatie est dans l\'UE et Schengen : passeport UE, puce ISO et vaccin antirabique valide (au moins 21 jours) suffisent ; hors UE, certificat vétérinaire requis.',
-        'L\'aéroport de Split (SPU) gère les animaux em cabine jusqu\'à 8 kg et em soute toute l\'année ; réservez au moins 48 h avant et prévoyez les restrictions chaleur em juillet-août.',
+        'L\'aéroport de Split (SPU) gère les animaux en cabine jusqu\'à 8 kg et en soute toute l\'année ; réservez au moins 48 h avant et prévoyez les restrictions chaleur en juillet-août.',
         'Soins vétérinaires 24 h/24 à la Veterinarska Ambulanta Split (Poljička cesta) et à la Poliklinika Kreso ; toutes deux anglophones.',
         'Les maximales estivales dépassent souvent 32 °C avec UV intenses ; hivers doux à 5-12 °C mais la bora peut être brutale, prévoyez ombre l\'été, manteau léger pour petites races l\'hiver.',
-        'Les applis Bolt et Uber opèrent à Split et acceptent les animaux si signalé à la réservation ; les bus urbains (Promet) admettent les chiens muselés em laisse avec un petit billet animal.',
+        'Les applis Bolt et Uber opèrent à Split et acceptent les animaux si signalé à la réservation ; les bus urbains (Promet) admettent les chiens muselés en laisse avec un petit billet animal.',
       ],
       en: [
         'Croatia is in the EU and Schengen: an EU pet passport, ISO microchip, and valid rabies vaccine (at least 21 days old) are sufficient; non-EU travelers need a veterinary health certificate.',
@@ -39433,18 +39433,18 @@ const cityContent: Record<string, CityContent> = {
         'Taxi apps Bolt and Uber operate in Split and accept pets when mentioned at booking; city buses (Promet) accept muzzled leashed dogs with a small pet ticket.',
       ],
       es: [
-        'Croacia está na UE y em Schengen: passaporte UE, microchip ISO y vacuna antirrábica válida (al menos 21 días) bastan; fuera de a UE se exige certificado veterinario.',
-        'o aeropuerto de Split (SPU) gestiona mascotas em cabina hasta 8 kg y em bodega todo o año; reserva la plaza con al menos 48 h de antelación y prevé las restricciones por calor em julio-agosto.',
-        'Atención veterinaria 24 h na Veterinarska Ambulanta Split (Poljička cesta) y na Poliklinika Kreso; ambas con personal angloparlante.',
-        'Las máximas estivales superan a menudo los 32 °C con UV intenso; inviernos suaves a 5-12 °C pero el viento bora puede ser brutal, lleva sombra em verano y un abrigo ligero para razas pequeñas em invierno.',
-        'Las apps Bolt y Uber operan em Split y admiten mascotas al indicarlo al reservar; los autobuses urbanos (Promet) admiten perros con bozal y trela con un pequeño billete para mascotas.',
+        'Croacia está en la UE y en Schengen: pasaporte UE, microchip ISO y vacuna antirrábica válida (al menos 21 días) bastan; fuera de la UE se exige certificado veterinario.',
+        'El aeropuerto de Split (SPU) gestiona mascotas en cabina hasta 8 kg y en bodega todo el año; reserva la plaza con al menos 48 h de antelación y prevé las restricciones por calor en julio-agosto.',
+        'Atención veterinaria 24 h en la Veterinarska Ambulanta Split (Poljička cesta) y en la Poliklinika Kreso; ambas con personal angloparlante.',
+        'Las máximas estivales superan a menudo los 32 °C con UV intenso; inviernos suaves a 5-12 °C pero el viento bora puede ser brutal, lleva sombra en verano y un abrigo ligero para razas pequeñas en invierno.',
+        'Las apps Bolt y Uber operan en Split y admiten mascotas al indicarlo al reservar; los autobuses urbanos (Promet) admiten perros con bozal y correa con un pequeño billete para mascotas.',
       ],
       pt: [
-        'Croacia está na UE e em Schengen: passaporte UE, microchip ISO e vacuna antirrábica válida (al menos 21 dias) bastan; fora da UE se exige certificado veterinário.',
-        'O aeroporto de Split (SPU) gestiona animais em cabina até 8 kg e em bodega o ano inteiro; reserva a praça con al menos 48 h de antelación e prevé as restricciones por calor em julho-agosto.',
-        'Atención veterinária 24 h na Veterinarska Ambulanta Split (Poljička cesta) e na Poliklinika Kreso; ambas con personal angloparlante.',
-        'As máximas estivales superan a menudo os 32 °C con UV intenso; inviernos suaves a 5-12 °C mas o viento bora pode ser brutal, lleva sombra em verão e um abrigo ligero para raças pequenas em inverno.',
-        'As apps Bolt e Uber operan em Split e admiten animais al indicarlo al reservar; os autocarros urbanos (Promet) admiten cães con bozal e trela con um pequeno bilhete para animais.',
+        'A Croácia está na UE e em Schengen: passaporte UE, microchip ISO e vacina antirrábica válida (com pelo menos 21 dias) bastam; fora da UE exige-se certificado veterinário.',
+        'O aeroporto de Split (SPU) aceita animais em cabina até 8 kg e em porão todo o ano; reserve o lugar com pelo menos 48 h de antecedência e conte com as restrições por calor em julho-agosto.',
+        'Cuidados veterinários 24 h na Veterinarska Ambulanta Split (Poljička cesta) e na Poliklinika Kreso; ambas com pessoal que fala inglês.',
+        'As máximas de verão ultrapassam muitas vezes os 32 °C com UV intenso; invernos amenos entre 5-12 °C mas o vento bora pode ser brutal, leve sombra no verão e um casaco leve para raças pequenas no inverno.',
+        'As apps Bolt e Uber operam em Split e aceitam animais quando indicado na reserva; os autocarros urbanos (Promet) aceitam cães com açaime e trela mediante um pequeno bilhete para animais.',
       ],
     },
   },

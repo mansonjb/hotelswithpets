@@ -34101,10 +34101,10 @@ const cityContent: Record<string, CityContent> = {
 
   reykjavik: {
     history: {
-      fr: `Reykjavik, la « baie fumante », remonte à Ingólfur Arnarson vers 874, mais n'obtint sa charte commerciale qu'en 1786 et ne devint capitale nationale qu'en 1944. L'Islande entretient un rapport unique avec les chiens : de 1924 à 1984, leur possession fut purement interdite em ville pour lutter contre l'échinococcose. Aujourd'hui, environ 4 000 chiens vivent dans l'agglomération de 240 000 habitants, chacun devant détenir une licence municipale et un vermifuge annuel. Les règles restent plus strictes qu'ailleurs em Scandinavie : laisse obligatoire dans tout l'espace public, et plusieurs quartiers interdisent encore leur entrée dans commerces et restaurants. em compensation, la ville a aménagé quatre excellents hundasvæði clôturés, le plus grand à Geirsnefstangi, une presqu'île entière où les chiens nagent dans l'Atlantique et courent libres toute l'année.`,
+      fr: `Reykjavik, la « baie fumante », remonte à Ingólfur Arnarson vers 874, mais n'obtint sa charte commerciale qu'en 1786 et ne devint capitale nationale qu'en 1944. L'Islande entretient un rapport unique avec les chiens : de 1924 à 1984, leur possession fut purement interdite en ville pour lutter contre l'échinococcose. Aujourd'hui, environ 4 000 chiens vivent dans l'agglomération de 240 000 habitants, chacun devant détenir une licence municipale et un vermifuge annuel. Les règles restent plus strictes qu'ailleurs en Scandinavie : laisse obligatoire dans tout l'espace public, et plusieurs quartiers interdisent encore leur entrée dans les commerces et les restaurants. En compensation, la ville a aménagé quatre excellents hundasvæði clôturés, le plus grand à Geirsnefstangi, une presqu'île entière où les chiens nagent dans l'Atlantique et courent libres toute l'année.`,
       en: `Reykjavik, 'Smoky Bay', traces its origin to Ingólfur Arnarson around 874, yet only in 1786 did it receive a trading charter, and it became a national capital only in 1944. Iceland's love-hate relationship with dogs is unique: from 1924 until 1984 dog ownership was outright banned in the city to fight echinococcosis tapeworm. Today around 4 000 dogs live in the capital region of 240 000 inhabitants, each requiring a municipal licence and annual deworming. Rules remain stricter than anywhere else in the Nordics: dogs must be leashed in all public spaces, and several neighbourhoods still ban them from shops and restaurants. Offsetting this, Reykjavik has invested in four excellent fenced hundasvæði (dog zones), the largest at Geirsnefstangi, a whole peninsula where dogs swim in the Atlantic and run free year-round.`,
-      es: `Reykjavik, la «bahía humeante», se remonta a Ingólfur Arnarson hacia 874, pero no recibió carta comercial hasta 1786 y solo en 1944 se convirtió em capital. Islandia mantiene una relación única con el perro: de 1924 a 1984 estuvo prohibido tenerlos na ciudad para combatir a equinococose. Hoy unos 4.000 perros viven em o área metropolitana de 240.000 habitantes, con licencia municipal y desparasitación anual obrigatórias. Las normas siguen siendo más severas que em el resto dos países nórdicos: trela em todo espacio público y varios barrios aún prohíben a entrada em comercios y restaurantes. A cambio, a cidade ha creado cuatro excelentes hundasvæði vallados, el mayor em Geirsnefstangi, una península entera donde los perros nadan em o atlântico y corren libres todo o año.`,
-      pt: `Reykjavik, a «bahía humeante», se remonta a Ingólfur Arnarson para 874, mas no recibió carta comercial até 1786 e só em 1944 tornou-se em capital. Islandia mantiene uma relación única com o cão: de 1924 a 1984 esteve prohibido tenerlos na cidade para combatir a equinococose. Hoy uns 4.000 cães viven no área metropolitana de 240.000 habitantes, com licencia municipal e desparasitación anual obrigatórias. As normas continuam a ser mais severas que no resto dois países nórdicos: trela em todo espacio público e vários bairros aún prohíben a entrada em comercios e restaurantes. A cambio, a cidade tem creado quatro excelentes hundasvæði vallados, o mayor em Geirsnefstangi, uma península entera onde os cães nadan no atlântico e corren libres o ano inteiro.`,
+      es: `Reykjavik, la «bahía humeante», se remonta a Ingólfur Arnarson hacia 874, pero no recibió carta comercial hasta 1786 y solo en 1944 se convirtió en capital nacional. Islandia mantiene una relación única con el perro: de 1924 a 1984 estuvo prohibido tenerlos en la ciudad para combatir la equinococosis. Hoy unos 4.000 perros viven en el área metropolitana de 240.000 habitantes, cada uno con licencia municipal y desparasitación anual obligatorias. Las normas siguen siendo más severas que en el resto de los países nórdicos: correa obligatoria en todo espacio público y varios barrios aún les prohíben la entrada en comercios y restaurantes. A cambio, la ciudad ha creado cuatro excelentes hundasvæði vallados, el mayor en Geirsnefstangi, una península entera donde los perros nadan en el Atlántico y corren libres todo el año.`,
+      pt: `Reykjavik, a «baía fumegante», remonta a Ingólfur Arnarson por volta de 874, mas só recebeu carta comercial em 1786 e apenas em 1944 se tornou capital nacional. A Islândia mantém uma relação única com o cão: de 1924 a 1984 esteve proibido tê-los na cidade para combater a equinococose. Hoje cerca de 4.000 cães vivem na área metropolitana de 240.000 habitantes, cada um com licença municipal e desparasitação anual obrigatórias. As normas continuam a ser mais rigorosas do que no resto dos países nórdicos: trela obrigatória em todo o espaço público e vários bairros ainda lhes proíbem a entrada em lojas e restaurantes. Em contrapartida, a cidade criou quatro excelentes hundasvæði vedados, o maior em Geirsnefstangi, uma península inteira onde os cães nadam no Atlântico e correm livres todo o ano.`,
     },
     sights: [
       {
@@ -34112,10 +34112,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🐕',
         petFriendly: true,
         desc: {
-          fr: 'Presqu\'île d\'un kilomètre dans la baie d\'Elliðaárvogur, intégralement dédiée aux chiens sans laisse, le plus grand hundasvæði d\'Islande. Sentiers de gravier, rivage de sable noir et bains atlantiques em font le rendez-vous quotidien de la communauté canine locale.',
+          fr: `Presqu'île d'un kilomètre dans la baie d'Elliðaárvogur, intégralement dédiée aux chiens sans laisse, le plus grand hundasvæði d'Islande. Sentiers de gravier, rivage de sable noir et bains atlantiques en font le rendez-vous quotidien de la communauté canine locale.`,
           en: 'A 1 km-long peninsula in Elliðaárvogur bay dedicated entirely to off-leash dogs, the largest hundasvæði in Iceland. Gravel paths, black-sand shore and Atlantic swimming make it the daily gathering place of Reykjavik\'s dog community.',
-          es: 'Península de un kilómetro na bahía de Elliðaárvogur, dedicada por completo a perros sin trela, el mayor hundasvæði de Islandia. Senderos de grava, orilla de arena negra y baños atlánticos la convierten em el punto de encuentro diario de la comunidad canina.',
-          pt: 'Península dum kilómetro na bahía de Elliðaárvogur, dedicada por completo a cães sem trela, o mayor hundasvæði de Islandia. Trilhos de grava, margem de areia negra e banhos atlánticos a convierten no punto de encuentro diario da comunidad canina.',
+          es: `Península de un kilómetro en la bahía de Elliðaárvogur, dedicada por completo a perros sin correa, el mayor hundasvæði de Islandia. Senderos de grava, orilla de arena negra y baños atlánticos la convierten en el punto de encuentro diario de la comunidad canina.`,
+          pt: `Península de um quilómetro na baía de Elliðaárvogur, dedicada por completo a cães sem trela, o maior hundasvæði da Islândia. Trilhos de gravilha, margem de areia negra e banhos atlânticos fazem dela o ponto de encontro diário da comunidade canina.`,
         },
       },
       {
@@ -34123,10 +34123,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🦆',
         petFriendly: true,
         desc: {
-          fr: 'Le petit lac du centre est réputé pour ses 40 espèces d\'oiseaux, raison pour laquelle les chiens doivent y rester strictement em laisse. Les bancs du côté est et le jardin de sculptures derrière l\'hôtel de ville offrent de jolies balades courtes.',
+          fr: `Le petit lac du centre est réputé pour ses 40 espèces d'oiseaux, raison pour laquelle les chiens doivent y rester strictement en laisse. Les bancs du côté est et le jardin de sculptures derrière l'hôtel de ville offrent de jolies balades courtes.`,
           en: 'The small central lake is famous for its 40+ bird species, which is exactly why dogs must remain leashed on the paths around it. The benches on the east side and the sculpture garden behind City Hall make for short, easy walks with a dog.',
-          es: 'El pequeño lago central es famoso por sus más de 40 especies de aves, motivo por el que los perros deben ir atados em todo su perímetro. Los bancos del lado este y el jardín de esculturas tras o Ayuntamiento son perfectos para paseos curtos.',
-          pt: 'O pequeno lago central é famoso por os seus mais de 40 especies de aves, motivo pelo que os cães deben ir atados em todo su perímetro. Os bancos do lado este e o jardim de esculturas tras o Câmara municipal são perfeitos para passeios curtos.',
+          es: `El pequeño lago central es famoso por sus más de 40 especies de aves, motivo por el que los perros deben ir atados en todo su perímetro. Los bancos del lado este y el jardín de esculturas tras el Ayuntamiento son perfectos para paseos cortos.`,
+          pt: `O pequeno lago central é famoso pelas suas mais de 40 espécies de aves, razão pela qual os cães devem estar presos à trela em todo o seu perímetro. Os bancos do lado este e o jardim de esculturas atrás da Câmara Municipal são perfeitos para passeios curtos.`,
         },
       },
       {
@@ -34136,8 +34136,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Église de 74 mètres signée Guðjón Samúelsson, inspirée des orgues basaltiques, achevée en 1986 et emblème de Reykjavik. Les chiens ne sont admis ni à l\'intérieur ni dans l\'ascenseur, mais les pelouses autour et la statue de Leif Eriksson font une jolie halte photo.',
           en: 'Guðjón Samúelsson\'s 74-metre basalt-inspired church of 1986 is Reykjavik\'s icon. Dogs are not allowed inside the church or the tower lift, but the surrounding lawns and the Leif Eriksson statue make a fine photo stop on leash.',
-          es: 'Iglesia de 74 metros inspirada em las columnas basálticas, obra de Guðjón Samúelsson concluida en 1986 y símbolo de Reykjavik. Los perros no pueden entrar ni subir al ascensor, pero los céspedes y a estatua de Leif Eriksson son una bonita parada com trela.',
-          pt: 'Igreja de 74 metros inspirada nas columnas basálticas, obra de Guðjón Samúelsson concluida em 1986 e símbolo de Reykjavik. Os cães no podem entrar ni subir al ascensor, mas os céspedes e a estatua de Leif Eriksson são uma bonita parada com trela.',
+          es: `Iglesia de 74 metros inspirada en las columnas basálticas, obra de Guðjón Samúelsson concluida en 1986 y símbolo de Reykjavik. Los perros no pueden entrar ni subir al ascensor, pero los céspedes y la estatua de Leif Eriksson son una bonita parada con correa.`,
+          pt: `Igreja de 74 metros inspirada nas colunas basálticas, obra de Guðjón Samúelsson concluída em 1986 e símbolo de Reykjavik. Os cães não podem entrar nem subir no elevador, mas os relvados em redor e a estátua de Leif Eriksson são uma bela paragem para fotografias com trela.`,
         },
       },
       {
@@ -34145,10 +34145,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🗼',
         petFriendly: true,
         desc: {
-          fr: 'Phare blanc de 1947 à la pointe de la presqu\'île de Seltjarnarnes, accessible à pied à marée basse. La réserve ferme du 1er mai au 15 juillet pour la nidification, mais le reste de l\'année c\'est le meilleur point d\'observation des aurores em compagnie d\'un chien.',
+          fr: `Phare blanc de 1947 à la pointe de la presqu'île de Seltjarnarnes, accessible à pied à marée basse. La réserve ferme du 1er mai au 15 juillet pour la nidification, mais le reste de l'année c'est le meilleur point d'observation des aurores en compagnie d'un chien.`,
           en: 'A white 1947 lighthouse at the tip of the Seltjarnarnes peninsula, reachable on foot at low tide. From 1 May to 15 July the reserve closes for bird nesting, but the rest of the year it offers the best northern-lights-with-dog viewpoint in town.',
-          es: 'Faro blanco de 1947 na punta de la península de Seltjarnarnes, al que se accede a pie con marea baja. La reserva cierra del 1 de mayo ao 15 de julio por la nidificación, pero el resto del año ofrece el mejor mirador de auroras con perro de a cidade.',
-          pt: 'Faro branco de 1947 na punta da península de Seltjarnarnes, al que se acede a pé com marea baja. A reserva cierra do 1 de maio ao 15 de julho pela nidificación, mas o resto do ano ofrece o melhor mirador de auroras com cão da cidade.',
+          es: `Faro blanco de 1947 en la punta de la península de Seltjarnarnes, al que se accede a pie con marea baja. La reserva cierra del 1 de mayo al 15 de julio por la nidificación, pero el resto del año ofrece el mejor mirador de auroras con perro de la ciudad.`,
+          pt: `Farol branco de 1947 na ponta da península de Seltjarnarnes, a que se acede a pé com maré baixa. A reserva encerra de 1 de maio a 15 de julho para a nidificação, mas no resto do ano oferece o melhor miradouro de auroras boreais com cão da cidade.`,
         },
       },
       {
@@ -34158,8 +34158,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Plus grand parc de Reykjavik, aménagé autour des sources chaudes qui servaient jadis à laver le linge de la ville ; on y trouve jardin botanique, mini-zoo et piscines géothermales. Une aire canine clôturée occupe la lisière est, près du stade Laugardalsvöllur.',
           en: 'Reykjavik\'s largest park, built around the hot springs that once washed the city\'s laundry, now home to the botanical garden, family zoo and geothermal pools. A fenced dog area sits at the valley\'s eastern edge by the Laugardalsvöllur stadium.',
-          es: 'El mayor parque de Reykjavik, creado em torno a las fuentes termales que antaño lavaban la ropa de a cidade, con jardín botánico, mini-zoo y piscinas geotérmicas. em o extremo oriental, junto al estadio Laugardalsvöllur, hay un recinto canino vallado.',
-          pt: 'O mayor parque de Reykjavik, creado em torno a as fuentes termales que antanho lavaban a ropa da cidade, com jardim botánico, mini-zoo e piscinas geotérmicas. No extremo oriental, junto al estadio Laugardalsvöllur, hay um recinto canino vallado.',
+          es: `El mayor parque de Reykjavik, creado en torno a las fuentes termales que antaño lavaban la ropa de la ciudad, con jardín botánico, mini-zoo y piscinas geotérmicas. En el extremo oriental, junto al estadio Laugardalsvöllur, hay un recinto canino vallado.`,
+          pt: `O maior parque de Reykjavik, criado em torno das fontes termais que outrora lavavam a roupa da cidade, com jardim botânico, mini-zoo e piscinas geotérmicas. No extremo oriental, junto ao estádio Laugardalsvöllur, há um recinto canino vedado.`,
         },
       },
       {
@@ -34167,18 +34167,18 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⚓',
         petFriendly: true,
         desc: {
-          fr: 'Ancien port de pêche reconverti em quartier d\'art avec galeries, le centre Marshall House, les glaces Valdís et l\'attraction FlyOver Iceland. Les chiens em laisse sont admis sur tout le front de mer et les terrasses extérieures de la Harpa.',
+          fr: `Ancien port de pêche reconverti en quartier d'art avec galeries, le centre Marshall House, les glaces Valdís et l'attraction FlyOver Iceland. Les chiens en laisse sont admis sur tout le front de mer et les terrasses extérieures de la Harpa.`,
           en: 'Former fishing docks reinvented with galleries, the Marshall House art centre, Valdís ice cream and the FlyOver Iceland attraction. Dogs on leash are welcome along the whole waterfront and on the Harpa concert hall\'s outdoor terraces.',
-          es: 'antigo puerto pesquero reconvertido con galerías, o centro de arte Marshall House, los helados Valdís y a atracción FlyOver Iceland. Los perros com trela son bienvenidos em todo el paseo marítimo y em las terrazas exteriores de la Harpa.',
-          pt: 'antigo porto pesquero reconvertido com galerías, o centro de arte Marshall House, os helados Valdís e a atracción FlyOver Iceland. Os cães com trela são bem-vindos em todo o passeio marítimo e nas esplanadas exteriores da Harpa.',
+          es: `Antiguo puerto pesquero reconvertido con galerías, el centro de arte Marshall House, los helados Valdís y la atracción FlyOver Iceland. Los perros con correa son bienvenidos en todo el paseo marítimo y en las terrazas exteriores de la Harpa.`,
+          pt: `Antigo porto piscatório reconvertido com galerias, o centro de arte Marshall House, os gelados Valdís e a atração FlyOver Iceland. Os cães com trela são bem-vindos em todo o passeio marítimo e nas esplanadas exteriores da Harpa.`,
         },
       },
     ],
     petTips: {
       fr: [
-        'Importer un chien em Islande exige un permis MAST demandé plus de 30 jours à l\'avance et une quarantaine obligatoire de 14 jours à Keflavík.',
-        'À Reykjavik, la laisse est obligatoire partout dans l\'espace public, seuls les quatre hundasvæði officiels autorisent la course libre.',
-        'Le bus urbain Strætó accepte les chiens tenus em laisse au tarif enfant, uniquement hors heures de pointe (après 9h et avant 15h em semaine).',
+        `Importer un chien en Islande exige un permis MAST demandé plus de 30 jours à l'avance et une quarantaine obligatoire de 14 jours à Keflavík.`,
+        `À Reykjavik, la laisse est obligatoire partout dans l'espace public, seuls les quatre hundasvæði officiels autorisent la course libre.`,
+        `Le bus urbain Strætó accepte les chiens tenus en laisse au tarif enfant, uniquement hors heures de pointe (après 9h et avant 15h en semaine).`,
         'Urgence vétérinaire 24h/24 : Dýraspítalinn í Víðidal, Víðidalur (+354 587 8887), seule clinique de garde de la capitale.',
         'Ramassez avec les sacs biodégradables gratuits distribués à l\'entrée de chaque hundasvæði ; l\'amende peut atteindre 30 000 ISK.',
       ],
@@ -34190,27 +34190,27 @@ const cityContent: Record<string, CityContent> = {
         'Pick up waste with Reykjavik\'s free biodegradable poop bags dispensed at every hundasvæði entrance; fines for non-compliance reach 30 000 ISK.',
       ],
       es: [
-        'Importar un perro a Islandia exige permiso de MAST solicitado con más de 30 días de antelación y cuarentena obrigatória de 14 días em Keflavík.',
-        'em Reykjavik la trela es obrigatória em todo espacio público, solo los cuatro hundasvæði oficiales permiten soltarlo.',
-        'o autobús urbano Strætó admite perros atados con tarifa infantil, pero solo fuera de hora punta (tras las 9:00 y antes das 15:00 entre semana).',
+        `Importar un perro a Islandia exige permiso de MAST solicitado con más de 30 días de antelación y cuarentena obligatoria de 14 días en Keflavík.`,
+        `En Reykjavik la correa es obligatoria en todo espacio público, solo los cuatro hundasvæði oficiales permiten soltarlo.`,
+        `El autobús urbano Strætó admite perros atados con tarifa infantil, pero solo fuera de hora punta (tras las 9:00 y antes de las 15:00 entre semana).`,
         'Urgencia veterinaria 24 h: Dýraspítalinn í Víðidal, Víðidalur (+354 587 8887), única clínica de guardia de la capital.',
         'Recoge con las bolsas biodegradables gratuitas de cada entrada de hundasvæði; la multa puede llegar a 30.000 ISK.',
       ],
       pt: [
-        'Importar um cão a Islandia exige permiso de MAST solicitado con mais de 30 dias de antelación e cuarentena obrigatória de 14 dias em Keflavík.',
-        'em Reykjavik a trela é obrigatória em todo espacio público, só os quatro hundasvæði oficiales permiten soltarlo.',
-        'O autocarro urbano Strætó admite cães atados con tarifa infantil, mas só fora de hora punta (tras as 9:00 e antes das 15:00 entre semana).',
-        'Urgência veterinária 24 h: Dýraspítalinn í Víðidal, Víðidalur (+354 587 8887), única clínica de guardia da capital.',
-        'Recoge com as bolsas biodegradables gratuitas de cada entrada de hundasvæði; a multa pode chegar a 30.000 ISK.',
+        `Importar um cão para a Islândia exige uma autorização da MAST pedida com mais de 30 dias de antecedência e uma quarentena obrigatória de 14 dias em Keflavík.`,
+        `Em Reykjavik a trela é obrigatória em todo o espaço público, só os quatro hundasvæði oficiais permitem soltá-los.`,
+        `O autocarro urbano Strætó admite cães presos à trela com tarifa infantil, mas só fora das horas de ponta (depois das 9:00 e antes das 15:00 nos dias úteis).`,
+        `Urgência veterinária 24 h: Dýraspítalinn í Víðidal, Víðidalur (+354 587 8887), única clínica de urgência da capital.`,
+        `Recolha os dejetos com os sacos biodegradáveis gratuitos disponíveis à entrada de cada hundasvæði; a multa pode chegar a 30.000 ISK.`,
       ],
     },
     practicalInfo: {
       fr: [
-        'Keflavík International (KEF) est à 50 km à l\'ouest ; le Flybus met 45 min, les chiens voyagent em soute pour 2 500 ISK em caisse homologuée IATA.',
-        'Meilleures saisons : juin-août pour les 24 heures de jour, fin septembre pour les aurores boréales à Grótta.',
-        'Urgence vétérinaire 24h/24 : Dýraspítalinn í Víðidal, Víðidalur, +354 587 8887.',
-        'Il n\'existe aucun train em Islande ; le réseau Strætó dessert la capitale et les villes de la route circulaire, et la location de voiture s\'impose pour les routes volcaniques.',
-        'L\'eau du robinet est de l\'eau glaciaire non filtrée de Heiðmörk, parfaite pour remplir la gamelle à n\'importe quelle fontaine de la ville.',
+        `Keflavík International (KEF) est à 50 km à l'ouest ; le Flybus met 45 min, les chiens voyagent en soute pour 2 500 ISK en caisse homologuée IATA.`,
+        `Meilleures saisons : juin-août pour les 24 heures de jour, fin septembre pour les aurores boréales à Grótta.`,
+        `Urgence vétérinaire 24h/24 : Dýraspítalinn í Víðidal, Víðidalur, +354 587 8887.`,
+        `Il n'existe aucun train en Islande ; le réseau Strætó dessert la capitale et les villes de la route circulaire, et la location de voiture s'impose pour les routes volcaniques.`,
+        `L'eau du robinet est de l'eau glaciaire non filtrée de Heiðmörk, parfaite pour remplir la gamelle à n'importe quelle fontaine de la ville.`,
       ],
       en: [
         'Keflavík International (KEF) is 50 km west; the Flybus takes 45 min, dogs travel in the hold for a 2 500 ISK fee in an IATA-approved crate.',
@@ -34220,18 +34220,18 @@ const cityContent: Record<string, CityContent> = {
         'Reykjavik tap water is unfiltered glacier water from Heiðmörk, safe to refill a dog bowl from any fountain in the city.',
       ],
       es: [
-        'Keflavík International (KEF) está a 50 km al oeste; el Flybus tarda 45 min y los perros viajan em bodega por 2.500 ISK em transportín homologado IATA.',
-        'Mejores temporadas: junio-agosto para paseos con 24 horas de luz, finais de septiembre para auroras boreales em Grótta.',
-        'Urgencia veterinaria 24 h: Dýraspítalinn í Víðidal, Víðidalur, +354 587 8887.',
-        'No existen trenes em Islandia; los autobuses Strætó cubren la capital y los pueblos de la carretera de circunvalación, y el coche de alquiler es imprescindible para rutas volcánicas.',
-        'o agua del grifo es agua glaciar sin filtrar de Heiðmörk, apta para rellenar el cuenco em cualquier fuente de a cidade.',
+        `Keflavík International (KEF) está a 50 km al oeste; el Flybus tarda 45 min y los perros viajan en bodega por 2.500 ISK en transportín homologado IATA.`,
+        `Mejores temporadas: junio-agosto para paseos con 24 horas de luz, finales de septiembre para auroras boreales en Grótta.`,
+        `Urgencia veterinaria 24 h: Dýraspítalinn í Víðidal, Víðidalur, +354 587 8887.`,
+        `No existen trenes en Islandia; los autobuses Strætó cubren la capital y los pueblos de la carretera de circunvalación, y el coche de alquiler es imprescindible para rutas volcánicas.`,
+        `El agua del grifo es agua glaciar sin filtrar de Heiðmörk, apta para rellenar el cuenco en cualquier fuente de la ciudad.`,
       ],
       pt: [
-        'Keflavík International (KEF) está a 50 km al oeste; o Flybus tarda 45 min e os cães viajan em bodega por 2.500 ISK em transportadora homologado IATA.',
-        'Melhores temporadas: junho-agosto para passeios con 24 horas de luz, finais de setembro para auroras boreales em Grótta.',
-        'Urgência veterinária 24 h: Dýraspítalinn í Víðidal, Víðidalur, +354 587 8887.',
-        'No existen comboios em Islandia; os autocarros Strætó cubren a capital e os pueblos da carretera de circunvalación, e o carro de alquiler é imprescindible para rutas volcánicas.',
-        'O água do grifo é água glaciar sem filtrar de Heiðmörk, apta para rellenar o cuenco em cualquier fuente da cidade.',
+        `Keflavík International (KEF) fica a 50 km a oeste; o Flybus demora 45 min e os cães viajam no porão por 2.500 ISK numa transportadora homologada pela IATA.`,
+        `Melhores épocas: junho-agosto para passeios com 24 horas de luz, finais de setembro para auroras boreais em Grótta.`,
+        `Urgência veterinária 24 h: Dýraspítalinn í Víðidal, Víðidalur, +354 587 8887.`,
+        `Não existem comboios na Islândia; os autocarros Strætó servem a capital e as localidades da estrada circular, e o aluguer de carro é indispensável para as estradas vulcânicas.`,
+        `A água da torneira é água glaciar não filtrada de Heiðmörk, própria para encher a tigela em qualquer fonte da cidade.`,
       ],
     },
   },

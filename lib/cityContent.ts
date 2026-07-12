@@ -44592,9 +44592,9 @@ const cityContent: Record<string, CityContent> = {
   venice: {
     history: {
       en: 'Built on 118 islands connected by 400 bridges, Venice has been home to dogs for as long as it has to people. The city\'s narrow calli and open campi create a surprisingly walkable, if car-free, environment for pets. Vaporetto rules are strict (pets in carriers only on most lines), but the islands of the Giudecca and Sant\'Erasmo offer space away from the tourist rush. Venice sees around 30 million visitors a year, making timing and neighbourhood choice critical for a stress-free dog trip.',
-      fr: 'Construite sur 118 îles reliées par 400 ponts, Venise accueille des chiens depuis aussi longtemps qu\'elle accueille des habitants. Les calli étroites et les campi ouverts forment un environnement étonnamment praticable, sans voitures, pour les animaux. Les règles du vaporetto sont strictes (animaux em transport uniquement sur la plupart des lignes), mais les îles de la Giudecca et de Sant\'Erasmo offrent de l\'espace loin de l\'agitation touristique. Venise reçoit environ 30 millions de visiteurs par an : le choix du quartier et du moment est essentiel.',
-      es: 'Construida sobre 118 islas unidas por 400 puentes, Venecia ha acogido perros desde siempre. Las estreitas calli y las campi abiertas crean un entorno sorprendentemente transitable, sin coches, para las mascotas. Las normas del vaporetto son estrictas (animales em transportín na mayoría de líneas), pero las islas de la Giudecca y Sant\'Erasmo ofrecen espacio lejos del turismo masivo. Con unos 30 millones de visitantes al año, elegir bien o bairro y el momento es fundamental.',
-      pt: 'Construida sobre 118 ilhas unidas por 400 pontes, Venecia ha acogido cães a partir de sempre. As estreitas calli e as campi abiertas crean um entorno sorprendentemente transitable, sem carros, para as animais. As normas do vaporetto são estrictas (animales em transportadora na maioria de líneas), mas as ilhas da Giudecca e Sant\'Erasmo ofrecen espacio lejos do turismo masivo. Con uns 30 millones de visitantes ao ano, elegir bien o bairro e o momento é fundamental.',
+      fr: 'Construite sur 118 îles reliées par 400 ponts, Venise accueille des chiens depuis aussi longtemps qu\'elle accueille des habitants. Les calli étroites et les campi ouverts forment un environnement étonnamment praticable, sans voitures, pour les animaux. Les règles du vaporetto sont strictes (animaux en transport uniquement sur la plupart des lignes), mais les îles de la Giudecca et de Sant\'Erasmo offrent de l\'espace loin de l\'agitation touristique. Venise reçoit environ 30 millions de visiteurs par an : le choix du quartier et du moment est essentiel.',
+      es: 'Construida sobre 118 islas unidas por 400 puentes, Venecia ha acogido perros desde siempre. Las estrechas calli y los campi abiertos crean un entorno sorprendentemente transitable, sin coches, para las mascotas. Las normas del vaporetto son estrictas (animales en transportín en la mayoría de las líneas), pero las islas de la Giudecca y Sant\'Erasmo ofrecen espacio lejos del turismo masivo. Con unos 30 millones de visitantes al año, elegir bien el barrio y el momento es fundamental.',
+      pt: 'Construída sobre 118 ilhas ligadas por 400 pontes, Veneza acolhe cães desde sempre. As estreitas calli e os campi abertos criam um ambiente surpreendentemente transitável, sem carros, para os animais. As regras do vaporetto são rígidas (animais em transportadora na maioria das linhas), mas as ilhas da Giudecca e Sant\'Erasmo oferecem espaço longe do turismo em massa. Com cerca de 30 milhões de visitantes por ano, escolher bem o bairro e o momento é fundamental.',
     },
     sights: [
       {
@@ -44604,8 +44604,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           en: 'The gardens of the Venice Biennale are among the few real green spaces on the main island. Outside exhibition season they\'re quiet, leafy and perfectly suited for an off-the-beaten-track walk with your dog.',
           fr: 'Les jardins de la Biennale font partie des rares espaces verts véritables de l\'île principale. Hors saison d\'exposition, ils sont calmes, ombragés et parfaits pour une promenade tranquille avec votre chien.',
-          es: 'Los jardines de la Bienal son dos pocos espacios verdes reales de a ilha principal. Fuera de temporada de exposición, son tranquilos, arbolados y perfectos para un paseo apartado del turismo.',
-          pt: 'Os jardins da Bienal são dois poucos espacios verdes reales da ilha principal. Fora de temporada de exposición, são tranquilos, arbolados e perfeitos para um passeio apartado do turismo.',
+          es: 'Los jardines de la Bienal son de los pocos espacios verdes reales de la isla principal. Fuera de la temporada de exposición, son tranquilos, arbolados y perfectos para un paseo apartado del turismo.',
+          pt: 'Os jardins da Bienal são dos poucos espaços verdes reais da ilha principal. Fora da época de exposição, são tranquilos, arborizados e perfeitos para um passeio afastado do turismo.',
         },
       },
       {
@@ -44614,9 +44614,9 @@ const cityContent: Record<string, CityContent> = {
         petFriendly: true,
         desc: {
           en: 'The "garden of Venice", a lagoon island of market gardens, quiet lanes and open fields. Take the vaporetto with your dog in a carrier and enjoy a near-deserted half-day of countryside wandering.',
-          fr: 'Le "jardin de Venise", une île de la lagune avec des maraîchers, des ruelles tranquilles et des champs ouverts. Prenez le vaporetto avec votre chien em transport et profitez d\'une demi-journée de campagne presque déserte.',
-          es: 'El "jardín de Venecia", uma ilha de la laguna con huertos, callejuelas tranquilas y campos abiertos. Tome el vaporetto con su perro em transportín y disfrute de medio día de campo casi desierto.',
-          pt: 'O "jardim de Venecia", uma ilha da laguna com huertos, callejuelas tranquilas e campos abiertos. Tome o vaporetto com o seu cão em transportadora e disfrute de medio dia de campo quase desierto.',
+          fr: 'Le "jardin de Venise", une île de la lagune avec des maraîchers, des ruelles tranquilles et des champs ouverts. Prenez le vaporetto avec votre chien en transport et profitez d\'une demi-journée de campagne presque déserte.',
+          es: 'El "jardín de Venecia", una isla de la laguna con huertos, callejuelas tranquilas y campos abiertos. Tome el vaporetto con su perro en transportín y disfrute de medio día de campo casi desierto.',
+          pt: 'O "jardim de Veneza", uma ilha da laguna com hortas, ruelas tranquilas e campos abertos. Apanhe o vaporetto com o seu cão em transportadora e desfrute de meio dia de campo quase deserto.',
         },
       },
       {
@@ -44625,9 +44625,9 @@ const cityContent: Record<string, CityContent> = {
         petFriendly: true,
         desc: {
           en: 'The long sun-drenched promenade facing the Giudecca canal is one of Venice\'s most dog-friendly stretches. Wide, relatively uncrowded in the morning, and lined with cafés that welcome dogs on their terraces.',
-          fr: 'La longue promenade ensoleillée face au canal de la Giudecca est l\'un des parcours les plus accueillants pour les chiens à Venise. Large, relativement peu fréquentée le matin, bordée de cafés qui accueillent les chiens em terrasse.',
-          es: 'El longo paseo soleado frente al canal de la Giudecca es uno dos tramos más amigables para perros em Venecia. amplo, relativamente tranquilo por la mañana y bordeado de cafés que admiten perros em terraza.',
-          pt: 'O longo passeio soleado frente al canal da Giudecca é um dois os tramos mais amigables para cães em Venecia. amplo, relativamente tranquilo pela manhã e bordeado de cafés que admitem cães em esplanada.',
+          fr: 'La longue promenade ensoleillée face au canal de la Giudecca est l\'un des parcours les plus accueillants pour les chiens à Venise. Large, relativement peu fréquentée le matin, bordée de cafés qui accueillent les chiens en terrasse.',
+          es: 'El largo paseo soleado frente al canal de la Giudecca es uno de los tramos más amigables para perros en Venecia. Amplio, relativamente tranquilo por la mañana y bordeado de cafés que admiten perros en la terraza.',
+          pt: 'O longo passeio soalheiro em frente ao canal da Giudecca é um dos troços mais acolhedores para cães em Veneza. Amplo, relativamente tranquilo de manhã e ladeado de cafés que admitem cães na esplanada.',
         },
       },
       {
@@ -44637,8 +44637,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           en: 'The liveliest square in Dorsoduro, beloved by students and locals alike. Dogs are a fixture here, you\'ll find water bowls outside several bars and a relaxed atmosphere far from the cruise-ship crowds.',
           fr: 'La place la plus animée du Dorsoduro, adorée des étudiants et des habitants. Les chiens y sont chez eux, vous trouverez des gamelles d\'eau devant plusieurs bars et une atmosphère décontractée, loin des groupes de touristes.',
-          es: 'La plaza más animada de Dorsoduro, querida por estudiantes y locales. Los perros son habituales aquí, encontrará cuencos de agua frente a varios bares y un ambiente relajado, lejos das multitudes.',
-          pt: 'A praça mais animada de Dorsoduro, querida por estudantes e locales. Os cães são habituales aqui, encontrará cuencos de água frente a vários bares e um ambiente relajado, longe das multitudes.',
+          es: 'La plaza más animada de Dorsoduro, querida por estudiantes y locales. Los perros son habituales aquí, encontrará cuencos de agua frente a varios bares y un ambiente relajado, lejos de las multitudes.',
+          pt: 'A praça mais animada de Dorsoduro, adorada por estudantes e locais. Os cães são habituais aqui, encontrará tigelas de água em frente a vários bares e um ambiente descontraído, longe das multidões.',
         },
       },
       {
@@ -44647,9 +44647,9 @@ const cityContent: Record<string, CityContent> = {
         petFriendly: false,
         desc: {
           en: 'Pets are not allowed inside St Mark\'s Basilica or the Doge\'s Palace. The square itself is accessible but extremely crowded, avoid bringing a nervous dog during high season.',
-          fr: 'Les animaux ne sont pas admis dans la Basilique Saint-Marc ni dans le Palais des Doges. La place est accessible mais extrêmement fréquentée, évitez d\'y amener un chien anxieux em haute saison.',
-          es: 'No se admiten mascotas na Basílica de San Marcos ni em el Palacio Ducal. La plaza es acessível pero extremadamente concurrida, evite llevar un perro nervioso em temporada alta.',
-          pt: 'No se admitem animais na Basílica de San Marcos ni no Palácio Ducal. A praça é acessível mas extremadamente concurrida, evite levar um cão nervioso em temporada alta.',
+          fr: 'Les animaux ne sont pas admis dans la Basilique Saint-Marc ni dans le Palais des Doges. La place est accessible mais extrêmement fréquentée, évitez d\'y amener un chien anxieux en haute saison.',
+          es: 'No se admiten mascotas en la Basílica de San Marcos ni en el Palacio Ducal. La plaza es accesible pero extremadamente concurrida, evite llevar un perro nervioso en temporada alta.',
+          pt: 'Não são admitidos animais na Basílica de São Marcos nem no Palácio Ducal. A praça é acessível mas extremamente concorrida, evite levar um cão nervoso na época alta.',
         },
       },
     ],
@@ -44662,25 +44662,25 @@ const cityContent: Record<string, CityContent> = {
         'Summer heat is severe on the lagoon. Schedule walks before 9am and after 7pm in July and August, stone and brick surfaces retain heat long after sunset.',
       ],
       fr: [
-        'Règles du vaporetto : les chiens doivent être em transport sur la plupart des lignes ACTV. La ligne 1 (Grand Canal) est souvent bondée, partez tôt ou prenez la ligne 2 pour les traversées courtes.',
+        'Règles du vaporetto : les chiens doivent être en transport sur la plupart des lignes ACTV. La ligne 1 (Grand Canal) est souvent bondée, partez tôt ou prenez la ligne 2 pour les traversées courtes.',
         'Les rues de Venise sont entièrement sans voitures, mais aussi étroites et pavées. Les petits chiens peuvent être portés ; les grandes races peinent avec le flux touristique aux heures de pointe.',
         'Emportez toujours une gamelle portable. Les fontaines sont nombreuses, mais parfois à une hauteur difficile pour les chiens.',
         'Réservez dans le Dorsoduro ou le Cannaregio pour des quartiers plus calmes. Les hôtels près de San Marco sont centraux, mais le flux piétonnier continu stresse la plupart des chiens.',
-        'La chaleur estivale est sévère sur la lagune. Planifiez vos promenades avant 9h et après 19h em juillet-août, les surfaces em pierre restent chaudes longtemps après le coucher du soleil.',
+        'La chaleur estivale est sévère sur la lagune. Planifiez vos promenades avant 9h et après 19h en juillet-août, les surfaces en pierre restent chaudes longtemps après le coucher du soleil.',
       ],
       es: [
-        'Normas del vaporetto: los perros deben ir em transportín na mayoría de líneas ACTV. La línea 1 (Gran Canal) suele estar abarrotada, salga temprano o tome la línea 2 para trayectos curtos.',
-        'Las ruas de Venecia son completamente sin coches, pero también estreitas y adoquinadas. Los perros pequeños pueden llevarse em brazos; las razas grandes pueden tener dificultades em horas punta.',
+        'Normas del vaporetto: los perros deben ir en transportín en la mayoría de las líneas ACTV. La línea 1 (Gran Canal) suele estar abarrotada, salga temprano o tome la línea 2 para trayectos cortos.',
+        'Las calles de Venecia son completamente peatonales, pero también estrechas y adoquinadas. Los perros pequeños pueden llevarse en brazos; las razas grandes pueden tener dificultades en horas punta.',
         'Lleve siempre un cuenco de agua portátil. Las fuentes son frecuentes, pero a veces están a una altura difícil para los perros.',
-        'Reserve em Dorsoduro o Cannaregio para barrios más tranquilos. Los hoteles cerca de San Marcos son céntricos, pero el flujo peatonal constante estresa a la mayoría de perros.',
-        'El calor estival es severo na laguna. Planifique los paseos antes das 9h y después das 19h em julio y agosto, las superficies de piedra retienen el calor mucho depois do atardecer.',
+        'Reserve en Dorsoduro o Cannaregio para barrios más tranquilos. Los hoteles cerca de San Marcos son céntricos, pero el flujo peatonal constante estresa a la mayoría de los perros.',
+        'El calor estival es severo en la laguna. Planifique los paseos antes de las 9h y después de las 19h en julio y agosto, las superficies de piedra retienen el calor mucho después del atardecer.',
       ],
       pt: [
-        'Normas do vaporetto: os cães deben ir em transportadora na maioria de líneas ACTV. A línea 1 (Grande Canal) suele estar abarrotada, salga temprano o tome a línea 2 para trayectos curtos.',
-        'As ruas de Venecia são completamente sem carros, mas também estreitas e adoquinadas. Os cães pequenos podem llevarse em brazos; as raças grandes podem tener dificultades em horas punta.',
-        'Lleve sempre um cuenco de água portátil. As fuentes são frecuentes, mas a veces están a uma altura difícil para os cães.',
-        'Reserve em Dorsoduro o Cannaregio para bairros mais tranquilos. Os hotéis perto de San Marcos são céntricos, mas o flujo peatonal constante estresa a a maioria de cães.',
-        'O calor estival é severo na laguna. Planifique os passeios antes das 9h e depois das 19h em julho e agosto, as superficies de pedra retienen o calor muito depois do atardecer.',
+        'Regras do vaporetto: os cães devem ir em transportadora na maioria das linhas ACTV. A linha 1 (Grande Canal) costuma estar apinhada, saia cedo ou apanhe a linha 2 para travessias mais curtas.',
+        'As ruas de Veneza são completamente pedonais, mas também estreitas e de calçada. Os cães pequenos podem ser levados ao colo; as raças grandes podem ter dificuldades nas horas de ponta.',
+        'Leve sempre uma tigela de água portátil. As fontes são frequentes, mas por vezes estão a uma altura difícil para os cães.',
+        'Reserve em Dorsoduro ou Cannaregio para bairros mais tranquilos. Os hotéis perto de São Marcos são centrais, mas o fluxo pedonal constante stressa a maioria dos cães.',
+        'O calor de verão é intenso na laguna. Planeie os passeios antes das 9h e depois das 19h em julho e agosto, as superfícies de pedra retêm o calor muito depois do pôr do sol.',
       ],
     },
     practicalInfo: {
@@ -44692,21 +44692,21 @@ const cityContent: Record<string, CityContent> = {
       ],
       fr: [
         'Vétérinaire d\'urgence : Clinica Veterinaria Riviera del Brenta, Dolo (+39 041 410 606), l\'établissement 24h le plus proche du centre de Venise.',
-        'Accès : la gare de Venise Santa Lucia est em connexion continentale. Les chiens em transport voyagent gratuitement sur Trenitalia ; les grands chiens paient un tarif réduit.',
-        'ACTV vaporetto : les chiens em transport sont acceptés sur toutes les lignes. Les chiens em laisse sans transport doivent porter une muselière et un billet plein tarif enfant.',
+        'Accès : la gare de Venise Santa Lucia assure la connexion avec le continent. Les chiens en transport voyagent gratuitement sur Trenitalia ; les grands chiens paient un tarif réduit.',
+        'ACTV vaporetto : les chiens en transport sont acceptés sur toutes les lignes. Les chiens en laisse sans transport doivent porter une muselière et un billet plein tarif enfant.',
         'Plage canine la plus proche : Cavallino-Treporti et Jesolo (côté continental de la lagune) disposent de zones de plage réservées aux chiens en été.',
       ],
       es: [
-        'Veterinario de urgencias: Clinica Veterinaria Riviera del Brenta, Dolo (+39 041 410 606), o centro 24h más cercano al centro de Venecia.',
-        'Cómo llegar: a estação de Venecia Santa Lucía conecta con tierra firme. Los perros em transportín viajan gratis em Trenitalia; los perros grandes pagan tarifa reducida.',
-        'Vaporetto ACTV: perros em transportín admitidos em todas las líneas. Los perros com trela sin transportín necesitan bozal y billete equivalente al infantil.',
-        'Playa canina más cercana: Cavallino-Treporti y Jesolo (lado continental de la laguna) tienen zonas de playa para perros em verano.',
+        'Veterinario de urgencias: Clinica Veterinaria Riviera del Brenta, Dolo (+39 041 410 606), el centro 24h más cercano al centro de Venecia.',
+        'Cómo llegar: la estación de Venecia Santa Lucía conecta con tierra firme. Los perros en transportín viajan gratis en Trenitalia; los perros grandes pagan tarifa reducida.',
+        'Vaporetto ACTV: perros en transportín admitidos en todas las líneas. Los perros con correa sin transportín necesitan bozal y billete equivalente al infantil.',
+        'Playa canina más cercana: Cavallino-Treporti y Jesolo (lado continental de la laguna) tienen zonas de playa para perros en verano.',
       ],
       pt: [
-        'Veterinário de urgências: Clinica Veterinária Riviera do Brenta, Dolo (+39 041 410 606), o centro 24h mais cercano al centro de Venecia.',
-        'Como chegar: a estação de Venecia Santa Lucía conecta con tierra firme. Os cães em transportadora viajan grátis em Trenitalia; os cães grandes pagan tarifa reducida.',
-        'Vaporetto ACTV: cães em transportadora admitidos em todas as líneas. Os cães com trela sem transportadora necesitan bozal e bilhete equivalente al infantil.',
-        'Praia canina mais cercana: Cavallino-Treporti e Jesolo (lado continental da laguna) têm zonas de praia para cães em verão.',
+        'Veterinário de urgência: Clinica Veterinaria Riviera del Brenta, Dolo (+39 041 410 606), o centro 24h mais próximo do centro de Veneza.',
+        'Como chegar: a estação de Veneza Santa Lucia liga a terra firme. Os cães em transportadora viajam grátis na Trenitalia; os cães grandes pagam tarifa reduzida.',
+        'Vaporetto ACTV: cães em transportadora admitidos em todas as linhas. Os cães com trela sem transportadora precisam de açaime e de um bilhete equivalente ao infantil.',
+        'Praia canina mais próxima: Cavallino-Treporti e Jesolo (lado continental da laguna) têm zonas de praia para cães no verão.',
       ],
     },
   },

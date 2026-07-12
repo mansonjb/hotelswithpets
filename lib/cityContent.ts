@@ -40228,10 +40228,10 @@ const cityContent: Record<string, CityContent> = {
 
   tallinn: {
     history: {
-      fr: `Tallinn apparaît dès 1154 sur une carte arabe et rejoint la Hanse en 1285, donnant naissance à l'un des ensembles médiévaux les mieux préservés d'Europe, classé à l'UNESCO en 1997. La capitale estonienne, peuplée d'environ 460 000 habitants, enregistre près de 30 000 chiens, chiffre em forte hausse depuis la suppression de la taxe canine locale en 2014. C'est sans doute la ville balte la plus accommodante pour les chiens : transports em commun gratuits pour les résidents (chiens inclus, muselés si grands), koerte jalutusväljak clôturés dans chaque quartier, et la tradition matinale de faire le tour des bastions de Toompea avec son chien. La loi estonienne exige la laisse em zone urbaine et la muselière pour les grandes races dans les transports, mais les contrôles sont plus souples que chez les voisins nordiques, à condition de ramasser.`,
+      fr: `Tallinn apparaît dès 1154 sur une carte arabe et rejoint la Hanse en 1285, donnant naissance à l'un des ensembles médiévaux les mieux préservés d'Europe, classé à l'UNESCO en 1997. La capitale estonienne, peuplée d'environ 460 000 habitants, enregistre près de 30 000 chiens, chiffre en forte hausse depuis la suppression de la taxe canine locale en 2014. C'est sans doute la ville balte la plus accommodante pour les chiens : transports en commun gratuits pour les résidents (chiens inclus, muselés si grands), koerte jalutusväljak clôturés dans chaque quartier, et la tradition matinale de faire le tour des bastions de Toompea avec son chien. La loi estonienne exige la laisse en zone urbaine et la muselière pour les grandes races dans les transports, mais les contrôles sont plus souples que chez les voisins nordiques, à condition de ramasser.`,
       en: `Tallinn first appears on an Arab map in 1154 and joined the Hanseatic League in 1285, making its Old Town one of the best-preserved medieval ensembles in Europe and a UNESCO site since 1997. The Estonian capital of about 460 000 inhabitants registers roughly 30 000 dogs, a figure that has grown sharply since the 2014 abolition of the local dog tax. Tallinn is arguably the most dog-easy city in the Baltics: all public transport is free for residents (dogs included, muzzled if large), fenced dog parks (koerte jalutusväljak) dot every district, and historic bastions like Toompea are walked with pets as a morning ritual. Estonian law requires leashes in built-up areas and muzzles for large breeds on transport, but enforcement is relaxed compared with Nordic neighbours, provided you scoop and stay polite.`,
-      es: `Tallin aparece ya em un mapa árabe de 1154 y entró na Hansa en 1285, legando uno dos conjuntos medievales mejor conservados de Europa, Patrimonio de la Humanidad desde 1997. La capital estonia, de unos 460.000 habitantes, registra cerca de 30.000 perros, cifra que ha subido mucho desde que en 2014 se suprimió la tasa canina local. Es, quizá, a cidade más cómoda del Báltico para viajar con perro: transporte público gratuito para los residentes (perros incluidos, con bozal si son grandes), koerte jalutusväljak vallados em cada barrio y el ritual matutino de recorrer los bastiones de Toompea con o animal. La ley obliga a llevar trela em zona urbana y bozal em o transporte para razas grandes, pero los controles son más laxos que em los países nórdicos, siempre que se recoja.`,
-      pt: `Tallin aparece ya num mapa árabe de 1154 e entró na Hansa em 1285, legando uno dois conjuntos medievais melhor conservados de Europa, Patrimonio da Humanidad a partir de 1997. A capital estonia, de uns 460.000 habitantes, registra perto de 30.000 cães, cifra que tem subido muito a partir de que em 2014 se suprimió a tasa canina local. É, talvez, a cidade mais cómoda do Báltico para viajar com cão: transporte público gratuito para os residentes (cães incluidos, com bozal si são grandes), koerte jalutusväljak vallados em cada bairro e o ritual matutino de recorrer os bastiones de Toompea com o animal. A lei obliga a levar trela em zona urbana e bozal no transporte para raças grandes, mas os controles são mais laxos que nos países nórdicos, sempre que se recoja.`,
+      es: `Tallin aparece ya en un mapa árabe de 1154 y se unió a la Hansa en 1285, lo que hace de su casco antiguo uno de los conjuntos medievales mejor conservados de Europa y Patrimonio de la Humanidad desde 1997. La capital estonia, de unos 460.000 habitantes, tiene registrados unos 30.000 perros, una cifra que ha crecido mucho desde que en 2014 se suprimió la tasa canina local. Es, quizá, la ciudad más cómoda del Báltico para viajar con perro: el transporte público es gratuito para los residentes (perros incluidos, con bozal si son grandes), hay parques caninos vallados (koerte jalutusväljak) en cada barrio y recorrer los bastiones de Toompea con el perro es un ritual matutino. La ley estonia obliga a llevar correa en zona urbana y bozal en el transporte para las razas grandes, pero los controles son más laxos que en los países nórdicos, siempre que se recoja y se sea respetuoso.`,
+      pt: `Talim aparece já num mapa árabe de 1154 e aderiu à Hansa em 1285, o que faz do seu centro histórico um dos conjuntos medievais mais bem conservados da Europa e Património Mundial desde 1997. A capital estónia, de cerca de 460 000 habitantes, tem registados uns 30 000 cães, um número que cresceu muito desde que em 2014 se aboliu a taxa canina local. É, talvez, a cidade mais fácil do Báltico para viajar com cão: os transportes públicos são gratuitos para os residentes (cães incluídos, com açaime se forem grandes), há parques caninos vedados (koerte jalutusväljak) em cada bairro e percorrer os bastiões de Toompea com o cão é um ritual matinal. A lei estónia obriga a levar trela em zona urbana e açaime no transporte para as raças grandes, mas a fiscalização é mais branda do que nos países nórdicos, desde que se apanhe os dejetos e se seja educado.`,
     },
     sights: [
       {
@@ -40239,10 +40239,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏰',
         petFriendly: true,
         desc: {
-          fr: 'Cité fortifiée du XIIIe siècle avec 1,9 km de remparts, ruelles pavées et le château rose de Toompea. Les chiens em laisse circulent partout à l\'extérieur, y compris sur les belvédères Kohtuotsa et Patkuli, seuls les églises et le Parlement restent interdits.',
+          fr: `Cité fortifiée du XIIIe siècle avec 1,9 km de remparts, ruelles pavées et le château rose de Toompea. Les chiens en laisse circulent partout à l'extérieur, y compris sur les belvédères Kohtuotsa et Patkuli, seuls les églises et le Parlement restent interdits.`,
           en: 'A 13th-century walled city with 1.9 km of ramparts, cobbled lanes and the pink Toompea Castle. Dogs on leash can walk everywhere outdoors, including the Kohtuotsa and Patkuli viewing platforms, only the churches and the Parliament remain off-limits.',
-          es: 'Ciudad amurallada del siglo XIII con 1,9 km de murallas, callejuelas empedradas y el castillo rosa de Toompea. Los perros com trela pueden pasear por todo o exterior, incluidos los miradores Kohtuotsa y Patkuli, solo iglesias y Parlamento quedan vetados.',
-          pt: 'Cidade amurallada do século XIII com 1,9 km de muralhas, callejuelas empedradas e o castelo rosa de Toompea. Os cães com trela podem pasear por todo o exterior, incluidos os miradores Kohtuotsa e Patkuli, só igrejas e Parlamento ficam vetados.',
+          es: `Ciudad amurallada del siglo XIII con 1,9 km de murallas, callejuelas empedradas y el castillo rosa de Toompea. Los perros con correa pueden pasear por todo el exterior, incluidos los miradores Kohtuotsa y Patkuli; solo las iglesias y el Parlamento quedan vetados.`,
+          pt: `Cidade fortificada do século XIII com 1,9 km de muralhas, vielas de calçada e o castelo rosa de Toompea. Os cães com trela podem passear por todo o exterior, incluindo os miradouros Kohtuotsa e Patkuli; só as igrejas e o Parlamento ficam vetados.`,
         },
       },
       {
@@ -40250,10 +40250,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌷',
         petFriendly: true,
         desc: {
-          fr: 'Résidence d\'été baroque voulue par Pierre le Grand en 1718, nichée dans un parc de 70 hectares avec étang aux cygnes, jardin japonais et allée des roses présidentielle. Les chiens em laisse circulent partout dehors, et le parc file jusqu\'à la mer à Pirita via une promenade ombragée de pins.',
+          fr: `Résidence d'été baroque voulue par Pierre le Grand en 1718, nichée dans un parc de 70 hectares avec étang aux cygnes, jardin japonais et allée des roses présidentielle. Les chiens en laisse circulent partout dehors, et le parc file jusqu'à la mer à Pirita via une promenade ombragée de pins.`,
           en: 'Peter the Great\'s 1718 baroque summer residence sits in a 70-hectare park with swan pond, Japanese garden and the presidential rose alley. Leashed dogs roam everywhere outside, and the park runs straight to the sea at Pirita via a pine promenade.',
-          es: 'Residencia estival barroca mandada construir por Pedro el Grande en 1718, em un parque de 70 hectáreas con estanque de cisnes, jardín japonés y avenida presidencial de rosas. Los perros com trela circulan por todo o exterior, y o parque llega hasta o mar em Pirita por un paseo de pinos.',
-          pt: 'Residencia estival barroca mandada construir por Pedro o Grande em 1718, num parque de 70 hectáreas com estanque de cisnes, jardim japonés e avenida presidencial de rosas. Os cães com trela circulan por todo o exterior, e o parque chega até o mar em Pirita por um passeio de pinos.',
+          es: `Residencia estival barroca mandada construir por Pedro el Grande en 1718, en un parque de 70 hectáreas con estanque de cisnes, jardín japonés y avenida presidencial de rosas. Los perros con correa circulan por todo el exterior, y el parque llega hasta el mar en Pirita por un paseo de pinos.`,
+          pt: `Residência de verão barroca mandada construir por Pedro o Grande em 1718, num parque de 70 hectares com lago de cisnes, jardim japonês e avenida presidencial de rosas. Os cães com trela circulam por todo o exterior, e o parque chega até ao mar em Pirita por um passeio de pinheiros.`,
         },
       },
       {
@@ -40263,8 +40263,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Plage balte de sable de 2 km, à 5 km de la vieille ville, avec une zone de baignade canine balisée à son extrémité est, au-delà du centre TOP Sport. Hors saison (octobre-avril), toute la plage devient de fait sans laisse.',
           en: 'A 2 km Baltic sand beach 5 km from Old Town, with a marked dog-swimming zone at its eastern end, beyond the TOP Sport centre. Out of season (October-April) the whole beach is effectively off-leash.',
-          es: 'Playa báltica de arena de 2 km, a 5 km del casco antigo, con una zona de baño canino señalizada em o extremo este, pasado o centro TOP Sport. Fuera de temporada (octubre-abril) toda la playa queda prácticamente libre de trela.',
-          pt: 'Praia báltica de areia de 2 km, a 5 km do centro histórico, com uma zona de banho canino senhalizada no extremo este, pasado o centro TOP Sport. Fora de temporada (outubro-abril) toda a praia fica prácticamente libre de trela.',
+          es: `Playa báltica de arena de 2 km, a 5 km del casco antiguo, con una zona de baño canino señalizada en su extremo este, pasado el centro TOP Sport. Fuera de temporada (octubre-abril) toda la playa queda prácticamente sin correa.`,
+          pt: `Praia báltica de areia de 2 km, a 5 km do centro histórico, com uma zona de banho canino sinalizada no extremo este, depois do centro TOP Sport. Fora de época (outubro-abril) toda a praia fica praticamente sem trela.`,
         },
       },
       {
@@ -40274,8 +40274,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Ancien dépôt ferroviaire soviétique devenu le quartier créatif le plus branché de Tallinn, avec street art, friperies, musée Fotografiska et plus de 20 restaurants. La plupart des cafés, F-hoone, Peatus, Kivi Paber Käärid, accueillent ouvertement les chiens à l\'intérieur avec gamelle.',
           en: 'A former Soviet railway depot reborn as Tallinn\'s coolest creative quarter, with street art, vintage shops, the Fotografiska museum and over 20 restaurants. Most cafés, F-hoone, Peatus and Kivi Paber Käärid, openly welcome dogs indoors with bowls.',
-          es: 'antigo depósito ferroviario soviético convertido em o bairro creativo más cool de Tallin, con arte urbano, tiendas vintage, el museo Fotografiska y más de 20 restaurantes. La mayoría de cafés, F-hoone, Peatus, Kivi Paber Käärid, admiten abiertamente perros dentro, con cuenco.',
-          pt: 'antigo depósito ferroviario soviético convertido no bairro creativo mais cool de Tallin, com arte urbano, tiendas vintage, o museu Fotografiska e mais de 20 restaurantes. A maioria de cafés, F-hoone, Peatus, Kivi Paber Käärid, admitem abiertamente cães dentro, com cuenco.',
+          es: `Antiguo depósito ferroviario soviético convertido en el barrio creativo más cool de Tallin, con arte urbano, tiendas vintage, el museo Fotografiska y más de 20 restaurantes. La mayoría de los cafés, F-hoone, Peatus, Kivi Paber Käärid, admiten abiertamente perros dentro, con cuenco.`,
+          pt: `Antigo depósito ferroviário soviético convertido no bairro criativo mais cool de Talim, com arte urbana, lojas vintage, o museu Fotografiska e mais de 20 restaurantes. A maioria dos cafés, F-hoone, Peatus, Kivi Paber Käärid, admitem abertamente cães no interior, com tigela.`,
         },
       },
       {
@@ -40283,10 +40283,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏘️',
         petFriendly: true,
         desc: {
-          fr: 'Quartier de maisons em bois pastel adossé à l\'ancienne forteresse-prison soviétique de Patarei. La promenade Culture Kilometre longe la mer sur 2 km jusqu\'au port d\'hydravions Lennusadam, entièrement accessible aux chiens em extérieur.',
+          fr: `Quartier de maisons en bois pastel adossé à l'ancienne forteresse-prison soviétique de Patarei. La promenade Culture Kilometre longe la mer sur 2 km jusqu'au port d'hydravions Lennusadam, entièrement accessible aux chiens en extérieur.`,
           en: 'A district of pastel wooden houses next to the Soviet-era Patarei sea fortress and prison. The Culture Kilometre boardwalk runs 2 km along the water to Lennusadam seaplane harbour, fully dog-friendly outdoors.',
-          es: 'Barrio de casas de madera em colores pastel junto a a antiga fortaleza-prisión soviética de Patarei. El paseo Culture Kilometre bordea o mar durante 2 km hasta el puerto de hidroaviones Lennusadam, totalmente abierto a perros al aire libre.',
-          pt: 'Bairro de casas de madeira em colores pastel junto a antiga fortaleza-prisión soviética de Patarei. O passeio Culture Kilometre bordea o mar durante 2 km até o porto de hidroaviones Lennusadam, totalmente aberto a cães al aire libre.',
+          es: `Barrio de casas de madera en colores pastel junto a la antigua fortaleza-prisión soviética de Patarei. El paseo Culture Kilometre bordea el mar durante 2 km hasta el puerto de hidroaviones Lennusadam, totalmente abierto a perros al aire libre.`,
+          pt: `Bairro de casas de madeira em tons pastel junto à antiga fortaleza-prisão soviética de Patarei. O passeio Culture Kilometre contorna o mar ao longo de 2 km até ao porto de hidroaviões Lennusadam, totalmente aberto a cães ao ar livre.`,
         },
       },
       {
@@ -40296,17 +40296,17 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Dans le quartier de Kristiine, ce parc romantique du XIXe siècle abrite l\'une des plus grandes zones sans laisse clôturées de Tallinn, équipée d\'agility, de robinets et de bancs ombragés. Le tram 4 s\'arrête à la porte.',
           en: 'In the Kristiine district, this 19th-century romantic park contains one of Tallinn\'s largest fenced off-leash zones with agility equipment, water taps and shaded benches. Tram 4 stops at the gate.',
-          es: 'em o bairro de Kristiine, este parque romántico del siglo XIX alberga una das mayores zonas sin trela valladas de Tallin, con agility, fuentes y bancos con sombra. El tranvía 4 para na puerta.',
-          pt: 'No bairro de Kristiine, este parque romántico do século XIX alberga uma das mayores zonas sem trela valladas de Tallin, com agility, fuentes e bancos com sombra. O elétrico 4 para na puerta.',
+          es: `En el barrio de Kristiine, este parque romántico del siglo XIX alberga una de las mayores zonas sin correa valladas de Tallin, con agility, fuentes y bancos con sombra. El tranvía 4 para en la puerta.`,
+          pt: `No bairro de Kristiine, este parque romântico do século XIX alberga uma das maiores zonas sem trela vedadas de Talim, com equipamento de agility, torneiras e bancos à sombra. O elétrico 4 para à porta.`,
         },
       },
     ],
     petTips: {
       fr: [
         'Les non-résidents paient 2 € par trajet pour leur chien dans les trams, trolleybus et bus ; muselière obligatoire pour les grandes races.',
-        'Les pavés de la vieille ville chauffent vite em juillet, préférez les rues Vene et Müürivahe à l\'ombre et vérifiez la température avec la main.',
-        'L\'Estonie applique le passeport européen ; la rage doit dater d\'au moins 21 jours et le traitement antitiques est indispensable d\'avril à octobre.',
-        'Urgence vétérinaire 24h/24 : Loomakliinik Well, Paldiski mnt 50A (+372 600 2837), à 5 min em tram 1 du centre.',
+        `Les pavés de la vieille ville chauffent vite en juillet, préférez les rues Vene et Müürivahe à l'ombre et vérifiez la température avec la main.`,
+        `L'Estonie applique le passeport européen ; la rage doit dater d'au moins 21 jours et le traitement antitiques est indispensable d'avril à octobre.`,
+        `Urgence vétérinaire 24h/24 : Loomakliinik Well, Paldiski mnt 50A (+372 600 2837), à 5 min en tram 1 du centre.`,
         'Utilisez les distributeurs bleus gratuits de sacs à déjection dans chaque parc canin ; ne pas ramasser coûte 40 € d\'amende immédiate.',
       ],
       en: [
@@ -40317,27 +40317,27 @@ const cityContent: Record<string, CityContent> = {
         'Use the free blue poop-bag dispensers at every Tallinn dog park; not scooping incurs a €40 on-the-spot fine.',
       ],
       es: [
-        'Los no residentes pagan 2 € por trayecto para el perro em tranvía, trolebús y autobús; las razas grandes deben llevar bozal a bordo.',
-        'Los adoquines del casco antigo se calientan rápido em julio, elige las ruas Vene y Müürivahe, más umbrías, y comprueba la temperatura con la mano.',
-        'Estonia aplica las normas del passaporte europeu; la rabia debe tener al menos 21 días y el tratamento antigarrapatas es esencial de abril a octubre.',
-        'Urgencia veterinaria 24 h: Loomakliinik Well, Paldiski mnt 50A (+372 600 2837), a 5 min em tranvía 1 del centro.',
-        'Usa los dispensadores azules gratuitos de bolsas em cada parque canino; no recoger cuesta 40 € de multa inmediata.',
+        `Los no residentes pagan 2 € por trayecto para el perro en tranvía, trolebús y autobús; las razas grandes deben llevar bozal a bordo.`,
+        `Los adoquines del casco antiguo se calientan rápido en julio; elige las calles Vene y Müürivahe, más umbrías, y comprueba la temperatura con la mano.`,
+        `Estonia aplica las normas del pasaporte europeo; la rabia debe tener al menos 21 días y el tratamiento antigarrapatas es esencial de abril a octubre.`,
+        `Urgencia veterinaria 24 h: Loomakliinik Well, Paldiski mnt 50A (+372 600 2837), a 5 min en tranvía 1 del centro.`,
+        `Usa los dispensadores azules gratuitos de bolsas en cada parque canino; no recoger cuesta 40 € de multa inmediata.`,
       ],
       pt: [
-        'Os no residentes pagan 2 € por trayecto para o cão no elétrico, trolebús e autocarro; as raças grandes deben levar bozal a bordo.',
-        'Os adoquines do centro histórico se calientan rápido em julho, elige as ruas Vene e Müürivahe, mais umbrías, e comprueba a temperatura com a mano.',
-        'Estonia aplica as normas do passaporte europeu; a rabia debe tener al menos 21 dias e o tratamento antigarrapatas é esencial de abril a outubro.',
-        'Urgência veterinária 24 h: Loomakliinik Well, Paldiski mnt 50A (+372 600 2837), a 5 min no elétrico 1 do centro.',
-        'Usa os dispensadores azuis gratuitos de bolsas em cada parque canino; no recoger cuesta 40 € de multa inmediata.',
+        `Os não residentes pagam 2 € por viagem pelo cão no elétrico, trólei e autocarro; as raças grandes devem levar açaime a bordo.`,
+        `Os paralelepípedos do centro histórico aquecem depressa em julho; escolha as ruas Vene e Müürivahe, mais à sombra, e verifique a temperatura com a mão.`,
+        `A Estónia aplica as regras do passaporte europeu; a vacina da raiva deve ter pelo menos 21 dias e o tratamento contra carraças é essencial de abril a outubro.`,
+        `Urgência veterinária 24 h: Loomakliinik Well, Paldiski mnt 50A (+372 600 2837), a 5 min no elétrico 1 do centro.`,
+        `Use os dispensadores azuis gratuitos de sacos em cada parque canino; não apanhar os dejetos custa 40 € de multa imediata.`,
       ],
     },
     practicalInfo: {
       fr: [
-        'L\'aéroport de Tallinn (TLL) est le plus proche d\'une capitale em Europe, 4 km, desservi par le tram 4 en 15 min ; les chiens paient le tarif normal.',
-        'Meilleures saisons : mai-septembre pour la baignade à Pirita, fin décembre pour la vieille ville sous la neige.',
-        'Urgence vétérinaire 24h/24 : Loomakliinik Well, Paldiski mnt 50A, +372 600 2837.',
-        'Les ferries Tallink et Viking Line vers Helsinki (2 h) acceptent les chiens em cabine animaux à partir de 25 € aller-retour ; réservez en été.',
-        'L\'eau du robinet, issue du lac Ülemiste, est potable et fraîche toute l\'année, points de remplissage gratuits le long du Culture Kilometre.',
+        `L'aéroport de Tallinn (TLL) est le plus proche d'une capitale en Europe, 4 km, desservi par le tram 4 en 15 min ; les chiens paient le tarif normal.`,
+        `Meilleures saisons : mai-septembre pour la baignade à Pirita, fin décembre pour la vieille ville sous la neige.`,
+        `Urgence vétérinaire 24h/24 : Loomakliinik Well, Paldiski mnt 50A, +372 600 2837.`,
+        `Les ferries Tallink et Viking Line vers Helsinki (2 h) acceptent les chiens en cabine animaux à partir de 25 € aller-retour ; réservez en été.`,
+        `L'eau du robinet, issue du lac Ülemiste, est potable et fraîche toute l'année, points de remplissage gratuits le long du Culture Kilometre.`,
       ],
       en: [
         'Tallinn Airport (TLL) is Europe\'s closest to a capital, 4 km, reachable by tram 4 in 15 min; dogs pay standard fare.',
@@ -40347,18 +40347,18 @@ const cityContent: Record<string, CityContent> = {
         'Tallinn tap water from Lake Ülemiste is safe and cold year-round, free refill points along the Culture Kilometre.',
       ],
       es: [
-        'o aeropuerto de Tallin (TLL) es el más cercano a una capital em Europa, 4 km, con el tranvía 4 en 15 min; los perros pagan tarifa normal.',
-        'Mejores temporadas: mayo-septiembre para bañarse em Pirita, finais de dezembro para el casco antigo nevado.',
-        'Urgencia veterinaria 24 h: Loomakliinik Well, Paldiski mnt 50A, +372 600 2837.',
-        'Los ferris Tallink y Viking Line a Helsinki (2 h) admiten perros em camarotes para mascotas desde 25 € ida y vuelta; reserva em verano.',
-        'o agua del grifo, del lago Ülemiste, es potable y fresca todo o año, puntos de recarga gratuitos por el Culture Kilometre.',
+        `El aeropuerto de Tallin (TLL) es el más cercano a una capital en Europa, 4 km, con el tranvía 4 en 15 min; los perros pagan tarifa normal.`,
+        `Mejores temporadas: mayo-septiembre para bañarse en Pirita, finales de diciembre para el casco antiguo nevado.`,
+        `Urgencia veterinaria 24 h: Loomakliinik Well, Paldiski mnt 50A, +372 600 2837.`,
+        `Los ferris Tallink y Viking Line a Helsinki (2 h) admiten perros en camarotes para mascotas desde 25 € ida y vuelta; reserva en verano.`,
+        `El agua del grifo, procedente del lago Ülemiste, es potable y fresca todo el año; puntos de recarga gratuitos a lo largo del Culture Kilometre.`,
       ],
       pt: [
-        'O aeroporto de Tallin (TLL) é o mais cercano a uma capital em Europa, 4 km, com o elétrico 4 en 15 min; os cães pagan tarifa normal.',
-        'Melhores temporadas: maio-setembro para banhar-se em Pirita, finais de dezembro para o centro histórico nevado.',
-        'Urgência veterinária 24 h: Loomakliinik Well, Paldiski mnt 50A, +372 600 2837.',
-        'Os ferris Tallink e Viking Line a Helsinki (2 h) admiten cães em camarotes para animais a partir de 25 € ida e vuelta; reserva em verão.',
-        'O água do grifo, do lago Ülemiste, é potable e fresca o ano inteiro, puntos de recarga gratuitos pelo Culture Kilometre.',
+        `O aeroporto de Talim (TLL) é o mais próximo de uma capital na Europa, 4 km, com o elétrico 4 em 15 min; os cães pagam tarifa normal.`,
+        `Melhores épocas: maio-setembro para nadar em Pirita, finais de dezembro para o centro histórico com neve.`,
+        `Urgência veterinária 24 h: Loomakliinik Well, Paldiski mnt 50A, +372 600 2837.`,
+        `Os ferries Tallink e Viking Line para Helsínquia (2 h) admitem cães em camarotes para animais a partir de 25 € ida e volta; reserve no verão.`,
+        `A água da torneira, proveniente do lago Ülemiste, é potável e fresca o ano inteiro; pontos de reabastecimento gratuitos ao longo do Culture Kilometre.`,
       ],
     },
   },

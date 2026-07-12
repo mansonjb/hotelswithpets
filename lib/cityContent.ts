@@ -33830,7 +33830,7 @@ const cityContent: Record<string, CityContent> = {
       fr: `Rennes, capitale historique de la Bretagne, fut fondée par la tribu gauloise des Redones et conquise par les Romains au Ier siècle av. J.-C. sous le nom de Condate. Devenue siège du Parlement de Bretagne en 1561 après l'union du duché à la France, elle vit s'élever le monumental palais de Salomon de Brosse en 1618-1655, encore considéré comme l'un des plus beaux édifices civils Renaissance du royaume. L'incendie catastrophique de décembre 1720 ravagea pendant six jours environ 900 maisons à colombages de la ville haute ; le quartier classique reconstruit par l'architecte Jacques Gabriel coexiste depuis avec le quartier médiéval épargné autour de la cathédrale Saint-Pierre, la Place Sainte-Anne et la Place des Lices. Aujourd'hui ville d'environ 215 000 habitants (450 000 dans la métropole), quatrième pôle universitaire de France et capitale active du numérique, Rennes mêle architecture historique, deux lignes de métro automatique (la ligne B inaugurée en 2022), le Parc du Thabor central et un accès TGV en 1h26 vers Paris.`,
       en: `Rennes, the historic capital of Brittany, was founded by the Gaulish Redones tribe and conquered by Rome in the 1st century BC under the name Condate. It became the seat of the Parlement de Bretagne in 1561 after the duchy's union with France, and the monumental Salomon de Brosse palace was built in 1618-1655 and still stands as one of the kingdom's finest Renaissance civic buildings. The catastrophic fire of December 1720 raged for six days through some 900 half-timbered houses of the upper city; the classical quarter rebuilt by architect Jacques Gabriel has coexisted since with the spared medieval quarter around the Cathédrale Saint-Pierre, Place Sainte-Anne and Place des Lices. Today a city of around 215,000 (450,000 in the metropolitan area), France's fourth university hub and an active digital-economy capital, Rennes combines historic architecture, two driverless metro lines (line B opened in 2022), the central Parc du Thabor and a 1h26 TGV link to Paris.`,
       es: `Rennes, capital histórica de Bretaña, fue fundada por la tribu gala de los Redones y conquistada por Roma en el siglo I a. C. bajo el nombre de Condate. Se convirtió en sede del Parlement de Bretagne en 1561 tras la unión del ducado con Francia, y el monumental palacio de Salomon de Brosse se construyó entre 1618 y 1655 y sigue siendo uno de los mejores edificios civiles renacentistas del reino. El incendio catastrófico de diciembre de 1720 ardió durante seis días entre unas 900 casas con entramado de madera de la ciudad alta; el barrio clásico reconstruido por el arquitecto Jacques Gabriel convive desde entonces con el barrio medieval que se libró del fuego en torno a la Cathédrale Saint-Pierre, la Place Sainte-Anne y la Place des Lices. Hoy ciudad de unos 215.000 habitantes (450.000 en el área metropolitana), cuarto polo universitario de Francia y capital activa de la economía digital, Rennes combina arquitectura histórica, dos líneas de metro sin conductor (la línea B inaugurada en 2022), el central Parc du Thabor y un enlace TGV de 1h26 a París.`,
-      pt: `Rennes, capital histórica da Bretanha, foi fundada pela tribo gaulesa dos Redones e conquistada por Roma no século I a. C. com o nome de Condate. Tornou-se sede do Parlement de Bretagne em 1561 após a união do ducado com a França, e o monumental palácio de Salomon de Brosse foi construído entre 1618 e 1655 e continua a ser um dos melhores edifícios civis renascentistas do reino. O incêndio catastrófico de dezembro de 1720 ardeu durante seis dias entre cerca de 900 casas com entramado de madeira da cidade alta; o bairro clássico reconstruído pelo arquiteto Jacques Gabriel coexiste desde então com o bairro medieval que escapou ao fogo em torno da Cathédrale Saint-Pierre, da Place Sainte-Anne e da Place des Lices. Hoy cidade de uns 215.000 habitantes (450.000 na área metropolitana), quarto polo universitario de França e capital ativa da economia digital, Rennes combina arquitetura histórica, duas linhas de metro sem condutor (a linha B inaugurada em 2022), o central Parc du Thabor e um enlace TGV de 1h26 a Paris.`,
+      pt: `Rennes, capital histórica da Bretanha, foi fundada pela tribo gaulesa dos Redones e conquistada por Roma no século I a. C. com o nome de Condate. Tornou-se sede do Parlement de Bretagne em 1561 após a união do ducado à França, e o monumental palácio de Salomon de Brosse foi construído entre 1618 e 1655, continuando a ser um dos mais belos edifícios civis renascentistas do reino. O incêndio catastrófico de dezembro de 1720 lavrou durante seis dias por cerca de 900 casas de tabique da cidade alta; o bairro clássico reconstruído pelo arquiteto Jacques Gabriel coexiste desde então com o bairro medieval poupado pelo fogo em torno da Cathédrale Saint-Pierre, da Place Sainte-Anne e da Place des Lices. Hoje uma cidade de cerca de 215.000 habitantes (450.000 na área metropolitana), quarto polo universitário de França e capital ativa da economia digital, Rennes combina arquitetura histórica, duas linhas de metro sem condutor (a linha B inaugurada em 2022), o central Parc du Thabor e uma ligação de TGV de 1h26 a Paris.`,
     },
     sights: [
       {
@@ -33841,7 +33841,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `La place monumentale du XVIIe siècle au cœur de Rennes, dominée par le Parlement de Bretagne et sa façade Renaissance en grès doré. Entièrement piétonne et dog-friendly, terrasses de café face au Parlement éclairé.`,
           en: `The monumental 17th-century square at the heart of Rennes, dominated by the Parlement de Bretagne with its golden-sandstone Renaissance facade. Fully pedestrian and dog-friendly, café terraces face the floodlit Parlement at night.`,
           es: `La monumental plaza del siglo XVII en el corazón de Rennes, dominada por el Parlement de Bretagne con su fachada renacentista en arenisca dorada. Totalmente peatonal y dog-friendly, terrazas de café frente al Parlement iluminado de noche.`,
-          pt: `A monumental praça do século XVII no coração de Rennes, dominada pelo Parlement de Bretagne com a sua fachada renascentista em arenito dourado. Totalmente peatonal e pet-friendly, esplanadas de café face ao Parlement iluminado de noite.`,
+          pt: `A monumental praça do século XVII no coração de Rennes, dominada pelo Parlement de Bretagne com a sua fachada renascentista em arenito dourado. Totalmente pedonal e pet-friendly, com esplanadas de café voltadas para o Parlement iluminado à noite.`,
         },
       },
       {
@@ -33852,7 +33852,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `Parc central de 10 hectares dessiné par Denis et Eugène Bühler au XIXe siècle, avec jardin à la française, jardin paysager anglais et roseraie de 2 000 variétés. Chiens en laisse bienvenus sur les allées et pelouses signalées.`,
           en: `10-hectare central park laid out by Denis and Eugène Bühler in the 19th century, with a formal French garden, English landscape garden and rose garden of 2,000 varieties. Leashed dogs welcome on paths and signposted lawns.`,
           es: `Parque central de 10 hectáreas diseñado por Denis y Eugène Bühler en el siglo XIX, con jardín a la francesa, jardín paisajista inglés y rosaleda de 2.000 variedades. Perros con correa bienvenidos en paseos y céspedes señalizados.`,
-          pt: `Parque central de 10 hectáreas desenhado por Denis e Eugène Bühler no século XIX, com jardim à francesa, jardim paisajista inglês e rosaleda de 2.000 variedades. Cães com trela bem-vindos em alamedas e relvados sinalizados.`,
+          pt: `Parque central de 10 hectares desenhado por Denis e Eugène Bühler no século XIX, com jardim à francesa, jardim paisagístico inglês e roseiral de 2.000 variedades. Cães com trela bem-vindos nas alamedas e relvados sinalizados.`,
         },
       },
       {
@@ -33874,7 +33874,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `Le deuxième plus grand marché en plein air de France après celui de Lyon, sur la Place des Lices chaque samedi matin avec environ 300 étals de produits bretons. Chiens en laisse bienvenus dans la halle et sur la place.`,
           en: `France's second-largest open-air market (after Lyon), held on Place des Lices every Saturday morning with about 300 stalls of Breton produce. Leashed dogs welcome in the covered hall and across the square.`,
           es: `El segundo mayor mercado al aire libre de Francia (tras Lyon), en Place des Lices cada sábado por la mañana con unos 300 puestos de productos bretones. Perros con correa bienvenidos en la halle cubierta y en toda la plaza.`,
-          pt: `O segundo maior mercado al aire libre de França (depois de Lyon), na Place des Lices cada sábado de manhã com cerca de 300 bancas de produtos bretões. Cães com trela bem-vindos no halle coberto e em toda a praça.`,
+          pt: `O segundo maior mercado ao ar livre de França (depois de Lyon), na Place des Lices todos os sábados de manhã com cerca de 300 bancas de produtos bretões. Cães com trela bem-vindos no mercado coberto e em toda a praça.`,
         },
       },
       {
@@ -33885,7 +33885,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `Le chemin de halage de la Vilaine traverse Rennes d'est en ouest et rejoint le Canal d'Ille-et-Rance pour 84 km de promenade plate continue vers Saint-Malo. Idéal pour les chiens âgés et les courses sans laisse à l'écart du centre.`,
           en: `The Vilaine towpath crosses Rennes east to west and joins the Canal d'Ille-et-Rance for an 84 km continuous flat walk toward Saint-Malo. Ideal for senior dogs and off-leash running away from the centre.`,
           es: `El camino de sirga del Vilaine cruza Rennes de este a oeste y enlaza con el Canal d'Ille-et-Rance para 84 km de paseo llano continuo hacia Saint-Malo. Ideal para perros mayores y carreras sin correa lejos del centro.`,
-          pt: `O caminho de sirga do Vilaine atravessa Rennes de leste a oeste e enlaça com o Canal d'Ille-et-Rance para 84 km de passeio plano contínuo em direção a Saint-Malo. Ideal para cães séniores e corridas sem trela fora do centro.`,
+          pt: `O caminho de sirga do Vilaine atravessa Rennes de leste a oeste e liga-se ao Canal d'Ille-et-Rance para 84 km de passeio plano contínuo em direção a Saint-Malo. Ideal para cães idosos e corridas sem trela fora do centro.`,
         },
       },
       {
@@ -33896,7 +33896,7 @@ const cityContent: Record<string, CityContent> = {
           fr: `Les quelque 280 maisons à pans de bois des XVe-XVIIe siècles qui ont survécu à l'incendie de 1720, concentrées autour de la Rue du Chapitre, la Rue Saint-Sauveur et la Place Sainte-Anne. Ruelles piétonnes, dog-friendly, parmi les plus photogéniques de France.`,
           en: `Around 280 half-timbered houses from the 15th-17th centuries that survived the 1720 fire, concentrated around Rue du Chapitre, Rue Saint-Sauveur and Place Sainte-Anne. Pedestrian lanes, dog-friendly, among the most photogenic in France.`,
           es: `Las unas 280 casas con entramado de madera del siglo XV-XVII que sobrevivieron al incendio de 1720, concentradas en torno a la Rue du Chapitre, la Rue Saint-Sauveur y la Place Sainte-Anne. Callejuelas peatonales, dog-friendly, de las más fotogénicas de Francia.`,
-          pt: `As cerca de 280 casas com entramado de madeira dos séculos XV-XVII que sobreviveram ao incêndio de 1720, concentradas em torno da Rue du Chapitre, Rue Saint-Sauveur e Place Sainte-Anne. Ruelas peatonais, pet-friendly, das mais fotogénicas de França.`,
+          pt: `As cerca de 280 casas de tabique dos séculos XV-XVII que sobreviveram ao incêndio de 1720, concentradas em torno da Rue du Chapitre, Rue Saint-Sauveur e Place Sainte-Anne. Ruelas pedonais, pet-friendly, das mais fotogénicas de França.`,
         },
       },
     ],
@@ -33923,8 +33923,8 @@ const cityContent: Record<string, CityContent> = {
         `La red local SOS Vétérinaires y ChronoVet cubren la guardia 24 h, guarda los números en tu móvil; la consulta de urgencia francesa estándar ronda 80-150 €.`,
       ],
       pt: [
-        `O metro STAR admite cães pequenos (<6 kg) em transportadora fechada grátis; os maiores viajam com trela e açaime e pagam um bilhete de pasajero, a regra aplica-se uniformemente nas linhas A e B.`,
-        `Os cães de categorias 1 e 2 necessitam do permis municipal da Ville de Rennes (certificado, açaime e seguro especial); a polícia municipal controla por vezes perto do Marché des Lices e das fan-zones durante eventos.`,
+        `O metro STAR admite cães pequenos (<6 kg) em transportadora fechada grátis; os maiores viajam com trela e açaime e pagam um bilhete de passageiro, a regra aplica-se uniformemente nas linhas A e B.`,
+        `Os cães de categorias 1 e 2 necessitam da licença municipal da Ville de Rennes (certificado, açaime e seguro especial); a polícia municipal controla por vezes perto do Marché des Lices e das fan-zones durante eventos.`,
         `O Parc du Thabor exige trela em todas as alamedas e relvados, salvo sinalização em contrário; a multa por cão sem trela é de 38 €, aplicada pelos guardas do parque em época alta.`,
         `Na costa (Saint-Malo, Dinard, Cancale), as praias proíbem cães entre as 9:00 e as 19:30 de 15 de junho a 15 de setembro, sai cedo ou ao final do dia para desfrutar do mar com o cão.`,
         `A rede local SOS Vétérinaires e ChronoVet cobrem a guarda 24h, guarda os números no telemóvel; a consulta de urgência francesa standard ronda 80-150 €.`,
@@ -33953,10 +33953,10 @@ const cityContent: Record<string, CityContent> = {
         `Ley francesa: chip ISO, vacuna antirrábica y pasaporte europeo para todo perro que entre; correa de 1,5 m obligatoria en público, la multa por excrementos llega a 68 € en Rennes.`,
       ],
       pt: [
-        `Aeroporto mais cercano: Rennes-Saint-Jacques (RNS), a 9 km a sudoeste, unido pelo autocarro STAR C6; para conexões internacionais o TGV a Paris-Montparnasse (1h26) é mais rápido porta a porta.`,
+        `Aeroporto mais próximo: Rennes-Saint-Jacques (RNS), a 9 km a sudoeste, ligado pelo autocarro STAR C6; para ligações internacionais, o TGV para Paris-Montparnasse (1h26) é mais rápido porta a porta.`,
         `Veterinário de urgências 24 h: Clinique Vétérinaire Atlantia (Saint-Hélier); SOS Vétérinaires Rennes e ChronoVet cobrem a rotação de noite e domingo.`,
-        `A água da torneira é potável; fontes de água no Parc du Thabor, em torno do Étang d'Apigné e ao longo do caminho de sirga do Vilaine, leva um bol pliable.`,
-        `O mercado de sábado na Place des Lices (segundo maior mercado al aire libre de França) funciona das 07:30 às 13:30 e é ideal para abastecer-se de produtos bretões (galette-saucisse, ostras, kouign-amann), cães com trela bem-vindos.`,
+        `A água da torneira é potável; há fontes no Parc du Thabor, em torno do Étang d'Apigné e ao longo do caminho de sirga do Vilaine, leva uma tigela dobrável.`,
+        `O mercado de sábado na Place des Lices (segundo maior mercado ao ar livre de França) funciona das 07:30 às 13:30 e é ideal para abastecer-se de produtos bretões (galette-saucisse, ostras, kouign-amann), cães com trela bem-vindos.`,
         `Lei francesa: chip ISO, vacina antirrábica e passaporte europeu para todo cão que entre; trela de 1,5 m obrigatória em público, a multa por dejeções chega a 68 € em Rennes.`,
       ],
     },

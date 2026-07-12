@@ -34955,10 +34955,10 @@ const cityContent: Record<string, CityContent> = {
 
   rotterdam: {
     history: {
-      fr: `Rotterdam est née au 13e siècle sur un barrage de la rivière Rotte, d'où son nom. Entièrement détruite par les bombardements allemands en 1940, elle s'est reconstruite em une ville moderne et audacieuse, devenue le plus grand port d'Europe et un laboratoire d'architecture contemporaine. Cette culture d'innovation se retrouve dans le rapport aux chiens : Rotterdam est considérée comme l'une des villes les plus dog-friendly d'Europe. Les chiens voyagent gratuitement dans tout le réseau de transport public (métro, tram, bus), sans limite de taille ni de race. La ville compte 5 zones de liberté canine officielles et plus de 15 parcs accessibles aux chiens, dont Het Park (28 ha em plein centre, près de l'Euromast) et le Kralingse Bos (forêt et lac au bord de la ville).`,
+      fr: `Rotterdam est née au 13e siècle sur un barrage de la rivière Rotte, d'où son nom. Entièrement détruite par les bombardements allemands en 1940, elle s'est reconstruite en une ville moderne et audacieuse, devenue le plus grand port d'Europe et un laboratoire d'architecture contemporaine. Cette culture d'innovation se retrouve dans le rapport aux chiens : Rotterdam est considérée comme l'une des villes les plus dog-friendly d'Europe. Les chiens voyagent gratuitement dans tout le réseau de transport public (métro, tram, bus), sans limite de taille ni de race. La ville compte 5 zones de liberté canine officielles et plus de 15 parcs accessibles aux chiens, dont Het Park (28 ha en plein centre, près de l'Euromast) et le Kralingse Bos (forêt et lac au bord de la ville).`,
       en: `Rotterdam was born in the 13th century on a dam of the Rotte river, hence its name. Completely destroyed by German bombing in 1940, it rebuilt itself as a modern, bold city that became Europe's largest port and a laboratory of contemporary architecture. This innovation culture carries over to dogs: Rotterdam is considered one of Europe's most dog-friendly cities. Dogs travel free on the entire public transport network (metro, tram, bus), with no size or breed limit. The city has five official off-leash dog zones and more than 15 parks welcoming dogs, including Het Park (28 ha in the centre, beside the Euromast) and Kralingse Bos (forest and lake on the city edge).`,
-      es: `Rotterdam nació em el siglo XIII sobre una presa del río Rotte, de ahí su nombre. completamente destruida por los bombardeos alemanes en 1940, se reconstruyó como uma cidade moderna y audaz que se convirtió em el mayor puerto de Europa y un laboratorio de arquitectura contemporánea. Esa cultura de innovación se traslada a su relación con los perros: Rotterdam está considerada una das ciudades más dog-friendly de Europa. Los perros viajan gratis em toda a rede de transporte público (metro, tranvía, autobús), sin límite de tamanho ni raza. a cidade tiene 5 zonas oficiales de suelta y más de 15 parques que admiten perros, incluidos Het Park (28 ha em o centro, junto al Euromast) y el Kralingse Bos (floresta y lago em el borde de a cidade).`,
-      pt: `Rotterdam nació no século XIII sobre uma presa do rio Rotte, de ahí su nombre. completamente destruida pelos bombardeos alemães em 1940, se reconstruyó como uma cidade moderna e audaz que tornou-se no mayor porto de Europa e um laboratorio de arquitetura contemporânea. Essa cultura de inovação se traslada a su relación com os cães: Rotterdam está considerada uma das cidades mais pet-friendly de Europa. Os cães viajan grátis em toda a rede de transporte público (metro, elétrico, autocarro), sem limite de tamanho ni raça. A cidade tem 5 zonas oficiais de suelta e mais de 15 parques que admitem cães, incluidos Het Park (28 tem no centro, junto al Euromast) e o Kralingse Bos (floresta e lago no borde da cidade).`,
+      es: `Róterdam nació en el siglo XIII sobre una presa del río Rotte, de ahí su nombre. Completamente destruida por los bombardeos alemanes en 1940, se reconstruyó como una ciudad moderna y audaz que se convirtió en el mayor puerto de Europa y en un laboratorio de arquitectura contemporánea. Esa cultura de innovación se traslada a su relación con los perros: Róterdam está considerada una de las ciudades más dog-friendly de Europa. Los perros viajan gratis en toda la red de transporte público (metro, tranvía, autobús), sin límite de tamaño ni raza. La ciudad tiene 5 zonas oficiales de suelta y más de 15 parques que admiten perros, incluidos Het Park (28 ha en pleno centro, junto al Euromast) y el Kralingse Bos (bosque y lago en el borde de la ciudad).`,
+      pt: `Roterdão nasceu no século XIII sobre uma barragem do rio Rotte, daí o seu nome. Completamente destruída pelos bombardeamentos alemães em 1940, reconstruiu-se como uma cidade moderna e audaz que se tornou no maior porto da Europa e num laboratório de arquitetura contemporânea. Essa cultura de inovação reflete-se na relação com os cães: Roterdão é considerada uma das cidades mais pet-friendly da Europa. Os cães viajam gratuitamente em toda a rede de transporte público (metro, elétrico, autocarro), sem limite de tamanho nem de raça. A cidade tem 5 zonas oficiais para cães à solta e mais de 15 parques que admitem cães, incluindo o Het Park (28 ha em pleno centro, junto ao Euromast) e o Kralingse Bos (floresta e lago à beira da cidade).`,
     },
     sights: [
       {
@@ -34966,10 +34966,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌳',
         petFriendly: true,
         desc: {
-          fr: '28 hectares d\'espace sans laisse em plein centre, juste à côté de l\'Euromast. Café du parc avec grande terrasse dog-friendly, parfait pour un café post-balade.',
+          fr: `28 hectares d'espace sans laisse en plein centre, juste à côté de l'Euromast. Café du parc avec grande terrasse dog-friendly, parfait pour un café post-balade.`,
           en: '28 hectares of off-leash space right in the centre, beside the Euromast. The park café has a large dog-friendly terrace, perfect for post-walk coffee.',
-          es: '28 hectáreas de espacio sin trela em pleno centro, junto al Euromast. El café del parque tiene una ampla terraza dog-friendly: perfecto para café tras el paseo.',
-          pt: '28 hectáreas de espacio sem trela em pleno centro, junto al Euromast. O café do parque tem uma ampla esplanada pet-friendly: perfeito para café tras o passeio.',
+          es: `28 hectáreas de espacio sin correa en pleno centro, junto al Euromast. El café del parque tiene una amplia terraza dog-friendly: perfecto para un café tras el paseo.`,
+          pt: `28 hectares de espaço sem trela em pleno centro, junto ao Euromast. O café do parque tem uma ampla esplanada pet-friendly: perfeito para um café depois do passeio.`,
         },
       },
       {
@@ -34979,8 +34979,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Le pont signature de Rotterdam et ses gratte-ciels modernes du Wilhelminapier. Balade emblématique avec un chien, attention aux grilles métalliques qui gênent certains coussinets.',
           en: 'Rotterdam\'s signature bridge and the modern Wilhelminapier skyscrapers. Iconic dog walk, watch out for the metal grating that can bother sensitive paws.',
-          es: 'El puente emblemático de Rotterdam y los modernos rascacielos del Wilhelminapier. Paseo icónico con perro: atención a las rejillas metálicas que pueden molestar las patas sensibles.',
-          pt: 'O ponte emblemático de Rotterdam e os modernos rascacielos do Wilhelminapier. Passeio icónico com cão: atención a as rejillas metálicas que podem molestar as patas sensibles.',
+          es: `El puente emblemático de Rotterdam y los modernos rascacielos del Wilhelminapier. Paseo icónico con perro: atención a las rejillas metálicas que pueden molestar las patas sensibles.`,
+          pt: `A ponte emblemática de Roterdão e os modernos arranha-céus do Wilhelminapier. Passeio icónico com cão: atenção às grelhas metálicas que podem incomodar as patas sensíveis.`,
         },
       },
       {
@@ -34988,10 +34988,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌲',
         petFriendly: true,
         desc: {
-          fr: 'Forêt avec lac (Kralingse Plas) au nord-est de la ville. Les chiens peuvent nager dans le lac et courir em liberté sur les sentiers forestiers. Destination préférée des locaux.',
+          fr: `Forêt avec lac (Kralingse Plas) au nord-est de la ville. Les chiens peuvent nager dans le lac et courir en liberté sur les sentiers forestiers. Destination préférée des locaux.`,
           en: 'Forest with lake (Kralingse Plas) on the city\'s northeast edge. Dogs can swim in the lake and run off-leash on forest trails. Locals\' favourite weekend destination.',
-          es: 'floresta con lago (Kralingse Plas) al noreste de a cidade. Los perros pueden nadar em el lago y correr sueltos por los senderos. Destino favorito dos locales los fines de semana.',
-          pt: 'Floresta com lago (Kralingse Plas) al noreste da cidade. Os cães podem nadar no lago e correr sueltos pelos trilhos. Destino favorito dois locales os fines de semana.',
+          es: `Bosque con lago (Kralingse Plas) al noreste de la ciudad. Los perros pueden nadar en el lago y correr sueltos por los senderos. Destino favorito de los locales los fines de semana.`,
+          pt: `Floresta com lago (Kralingse Plas) a nordeste da cidade. Os cães podem nadar no lago e correr à solta pelos trilhos florestais. Destino preferido dos habitantes locais ao fim de semana.`,
         },
       },
       {
@@ -35001,8 +35001,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'La rue art et culture de Rotterdam, piétonnisée le week-end. Fresques murales, galeries et cafés dog-friendly côte à côte, le meilleur quartier pour un après-midi avec son chien.',
           en: 'Rotterdam\'s art and culture street, pedestrianised at weekends. Murals, galleries and dog-friendly cafés side by side, the best neighbourhood for a dog afternoon.',
-          es: 'La rua de arte y cultura de Rotterdam, peatonal los fines de semana. Murales, galerías y cafés dog-friendly: el mejor barrio para una tarde con tu perro.',
-          pt: 'A rua de arte e cultura de Rotterdam, peatonal os fines de semana. Murales, galerías e cafés pet-friendly: o melhor bairro para uma tarde com o teu cão.',
+          es: `La calle de arte y cultura de Rotterdam, peatonal los fines de semana. Murales, galerías y cafés dog-friendly: el mejor barrio para una tarde con tu perro.`,
+          pt: `A rua de arte e cultura de Roterdão, pedonal ao fim de semana. Murais, galerias e cafés pet-friendly: o melhor bairro para uma tarde com o teu cão.`,
         },
       },
       {
@@ -35010,10 +35010,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏪',
         petFriendly: false,
         desc: {
-          fr: 'Le marché couvert iconique em arche. Les chiens ne sont pas admis à l\'intérieur, mais la place extérieure et les bars environnants sont entièrement dog-friendly.',
+          fr: `Le marché couvert iconique en arche. Les chiens ne sont pas admis à l'intérieur, mais la place extérieure et les bars environnants sont entièrement dog-friendly.`,
           en: 'The iconic arch-shaped indoor market. Dogs are not permitted inside, but the outdoor square and surrounding bars are fully dog-friendly.',
-          es: 'o icónico mercado cubierto em forma de arco. No se admiten perros dentro, pero la plaza exterior y los bares cercanos son totalmente dog-friendly.',
-          pt: 'O icónico mercado cubierto em forma de arco. No se admitem cães dentro, mas a praça exterior e os bares cercanos são totalmente pet-friendly.',
+          es: `El icónico mercado cubierto en forma de arco. No se admiten perros dentro, pero la plaza exterior y los bares cercanos son totalmente dog-friendly.`,
+          pt: `O icónico mercado coberto em forma de arco. Não se admitem cães dentro, mas a praça exterior e os bares próximos são totalmente pet-friendly.`,
         },
       },
       {
@@ -35023,8 +35023,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Les maisons cubes de Piet Blom, icône de l\'architecture rotterdamoise. Visibles et photographiables de l\'extérieur avec votre chien, l\'intérieur-musée n\'accepte pas les animaux.',
           en: 'Piet Blom\'s Cube Houses, a Rotterdam architectural icon. Viewable and photographable with your dog from outside, the museum interior doesn\'t accept pets.',
-          es: 'Las Casas Cúbicas de Piet Blom, icono de a arquitectura de Rotterdam. Se pueden ver y fotografiar con tu perro desde fuera; el museo interior no admite mascotas.',
-          pt: 'As Casas Cúbicas de Piet Blom, ícone da arquitetura de Rotterdam. Se podem ver e fotografiar com o teu cão a partir de fora; o museu interior no admite animais.',
+          es: `Las Casas Cúbicas de Piet Blom, icono de la arquitectura de Rotterdam. Se pueden ver y fotografiar con tu perro desde fuera; el museo interior no admite mascotas.`,
+          pt: `As Casas Cúbicas de Piet Blom, ícone da arquitetura de Roterdão. Podem ver-se e fotografar-se com o teu cão a partir de fora; o interior do museu não admite animais.`,
         },
       },
     ],
@@ -35032,7 +35032,7 @@ const cityContent: Record<string, CityContent> = {
       fr: [
         'Les chiens voyagent gratuitement sur tout le réseau RET (métro, tram, bus), aucun billet requis, juste la laisse obligatoire.',
         'Pas de restriction de taille ou de race sur les transports, les grands chiens sont les bienvenus.',
-        'Pour les trains NS hors Rotterdam, un petit chien em transportin voyage gratis ; un grand chien nécessite un « hondenbiljet » journée à 3,50 €.',
+        'Pour les trains NS hors Rotterdam, un petit chien en cage de transport voyage gratuitement ; un grand chien nécessite un « hondenbiljet » à la journée à 3,50 €.',
         'Plages de Hoek van Holland : chiens interdits 9h-19h du 1er mai au 1er octobre, sauf à la pointe de l\'estuaire.',
         'Urgences vétérinaires : Dierenziekenhuis Rotterdam au 010 492 51 51 jusqu\'à 22h, puis Evidensia Barendrecht 24h/24.',
       ],
@@ -35044,23 +35044,23 @@ const cityContent: Record<string, CityContent> = {
         'Emergency vet: Dierenziekenhuis Rotterdam on +31 10 492 51 51 until 10pm, then Evidensia Barendrecht 24/7.',
       ],
       es: [
-        'Los perros viajan gratis em toda a rede RET (metro, tranvía, autobús): no se necesita billete, solo hay que llevarlos com trela.',
-        'Sin restricción de tamanho ni raza em o transporte público: los perros grandes son bienvenidos.',
-        'em los trenes NS fuera de Rotterdam, un perro pequeño em transportín viaja gratis; uno grande necesita un "hondenbiljet" de día (3,50 €).',
-        'Playas de Hoek van Holland: perros prohibidos 9:00-19:00 del 1 de mayo ao 1 de octubre, excepto na punta del estuario.',
-        'Urgencias veterinarias: Dierenziekenhuis Rotterdam em el +31 10 492 51 51 hasta las 22:00, luego Evidensia Barendrecht 24/7.',
+        `Los perros viajan gratis en toda la red RET (metro, tranvía, autobús): no se necesita billete, solo hay que llevarlos con correa.`,
+        `Sin restricción de tamaño ni raza en el transporte público: los perros grandes son bienvenidos.`,
+        `En los trenes NS fuera de Rotterdam, un perro pequeño en transportín viaja gratis; uno grande necesita un "hondenbiljet" de día (3,50 €).`,
+        `Playas de Hoek van Holland: perros prohibidos de 9:00 a 19:00 del 1 de mayo al 1 de octubre, excepto en la punta del estuario.`,
+        `Urgencias veterinarias: Dierenziekenhuis Rotterdam en el +31 10 492 51 51 hasta las 22:00, luego Evidensia Barendrecht 24/7.`,
       ],
       pt: [
-        'Os cães viajan grátis em toda a rede RET (metro, elétrico, autocarro): no se necesita bilhete, só hay que llevarlos com trela.',
-        'Sem restricción de tamanho ni raça no transporte público: os cães grandes são bem-vindos.',
-        'Nos comboios NS fora de Rotterdam, um cão pequeno em transportadora viaja grátis; uno grande necesita um "hondenbiljet" de dia (3,50 €).',
-        'Praias de Hoek van Holland: cães prohibidos 9:00-19:00 do 1 de maio ao 1 de outubro, excepto na punta do estuario.',
-        'Urgências veterinárias: Dierenziekenhuis Rotterdam no +31 10 492 51 51 até as 22:00, luego Evidensia Barendrecht 24/7.',
+        `Os cães viajam gratuitamente em toda a rede RET (metro, elétrico, autocarro): não é preciso bilhete, basta levá-los com trela.`,
+        `Sem restrição de tamanho nem raça no transporte público: os cães grandes são bem-vindos.`,
+        `Nos comboios NS fora de Roterdão, um cão pequeno numa transportadora viaja grátis; um grande precisa de um "hondenbiljet" de dia (3,50 €).`,
+        `Praias de Hoek van Holland: cães proibidos das 9:00 às 19:00 de 1 de maio a 1 de outubro, exceto na ponta do estuário.`,
+        `Urgências veterinárias: Dierenziekenhuis Rotterdam no +31 10 492 51 51 até às 22:00, depois Evidensia Barendrecht 24/7.`,
       ],
     },
     practicalInfo: {
       fr: [
-        'Aéroport Rotterdam-The Hague (RTM) à 8 km, ou Amsterdam Schiphol (AMS) à 50 min em train (chiens acceptés).',
+        'Aéroport Rotterdam-The Hague (RTM) à 8 km, ou Amsterdam Schiphol (AMS) à 50 min en train (chiens acceptés).',
         'Depuis Amsterdam : trains NS directs toutes les 15 minutes (40 min de trajet).',
         'Meilleure saison : mai à septembre pour les terrasses et les canaux. L\'hiver reste fonctionnel mais humide.',
         'Rotterdam central Station est entièrement accessible aux chiens, y compris la zone de restauration extérieure.',
@@ -35074,18 +35074,18 @@ const cityContent: Record<string, CityContent> = {
         'Most city-centre hotels accept pets (typically €10–25/night fee).',
       ],
       es: [
-        'Aeropuerto Rotterdam-La Haya (RTM) a 8 km, o Ámsterdam Schiphol (AMS) a 50 min em tren (perros admitidos).',
-        'Desde Ámsterdam: trenes NS directos cada 15 minutos (40 min de trayecto).',
-        'Mejor temporada: mayo a septiembre para terrazas y canales. o invierno sigue siendo funcional pero húmedo.',
-        'La Rotterdam central Station es totalmente acessível para perros, incluida a zona de restauración exterior.',
-        'La mayoría de hoteles céntricos admiten mascotas (tarifa típica de 10-25 €/noche).',
+        `Aeropuerto Róterdam-La Haya (RTM) a 8 km, o Ámsterdam Schiphol (AMS) a 50 min en tren (perros admitidos).`,
+        `Desde Ámsterdam: trenes NS directos cada 15 minutos (40 min de trayecto).`,
+        `Mejor temporada: mayo a septiembre para terrazas y canales. El invierno sigue siendo funcional pero húmedo.`,
+        `La estación Rotterdam Centraal es totalmente accesible para perros, incluida la zona de restauración exterior.`,
+        `La mayoría de hoteles céntricos admiten mascotas (tarifa típica de 10-25 €/noche).`,
       ],
       pt: [
-        'Aeroporto Rotterdam-A Haya (RTM) a 8 km, o Ámsterdam Schiphol (AMS) a 50 min de comboio (cães admitidos).',
-        'A partir de Ámsterdam: comboios NS directos cada 15 minutos (40 min de trayecto).',
-        'Melhor temporada: maio a setembro para esplanadas e canales. O inverno sigue siendo funcional mas húmedo.',
-        'A Rotterdam central Station é totalmente acessível para cães, incluida a zona de restauración exterior.',
-        'A maioria de hotéis céntricos admiten animais (tarifa típica de 10-25 €/noite).',
+        `Aeroporto de Roterdão-Haia (RTM) a 8 km, ou Amesterdão-Schiphol (AMS) a 50 min de comboio (cães admitidos).`,
+        `A partir de Amesterdão: comboios NS diretos a cada 15 minutos (40 min de viagem).`,
+        `Melhor época: de maio a setembro para as esplanadas e os canais. O inverno continua funcional, mas húmido.`,
+        `A estação Rotterdam Centraal é totalmente acessível para cães, incluindo a zona de restauração exterior.`,
+        `A maioria dos hotéis do centro admite animais (tarifa típica de 10-25 €/noite).`,
       ],
     },
   },

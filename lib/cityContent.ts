@@ -38665,8 +38665,8 @@ const cityContent: Record<string, CityContent> = {
     history: {
       fr: `Sofia est l'une des plus anciennes capitales européennes : ville thrace de Serdica au VIIe siècle av. J.-C., elle devient un centre romain majeur sous Constantin, puis siège byzantin, conquête ottomane et enfin capitale du royaume bulgare en 1879. Avec environ 1,2 million d'habitants, c'est aussi la capitale UE la plus verte par couvert arboré, ce qui s'explique par le massif du Vitosha qui s'élève directement du tissu urbain, 2 290 mètres aux portes de la ville. La culture canine bulgare est ouverte mais réglementée : la mairie exige une médaille pour les chiens enregistrés, le sans laisse est limité aux parcs balisés, et un annuaire national pet-friendly recense près de 500 cafés et boutiques. Sofia est aussi remarquablement abordable, les hôtels dog-friendly démarrent à 60 € la nuit, les visites vétérinaires d'urgence à 40 €, et la plateforme Pawshake à 5 € la promenade.`,
       en: `Sofia is one of Europe's oldest capitals: a Thracian settlement of Serdica in the 7th century BC, it became a major Roman centre under Constantine, then a Byzantine seat, an Ottoman conquest, and finally the capital of the Bulgarian kingdom in 1879. With about 1.2 million inhabitants, it is also the EU's greenest capital by tree canopy, which the 2 290-metre Vitosha mountain rising directly from the urban fabric explains. Bulgarian dog culture is open but regulated: the municipality requires an ID tag for registered dogs, off-leash use is limited to marked park sections, and a national pet-friendly directory lists nearly 500 cafés and shops. Sofia is also remarkably affordable, dog-friendly hotels start at €60 per night, emergency vet visits at €40, and the Pawshake platform at €5 per walk.`,
-      es: `Sofía es una das capitales más antigas de Europa: poblado tracio de Serdica em el siglo VII a. C., se convirtió em un importante centro romano bajo Constantino, luego em sede bizantina, conquista otomana y finalmente capital del reino búlgaro en 1879. Con unos 1,2 millones de habitantes, es además la capital de a UE más verde por cobertura arbórea, lo que explica el monte Vitosha de 2.290 metros que se eleva directamente desde el tejido urbano. La cultura canina búlgara es abierta pero está regulada: o ayuntamiento exige una medalla para los perros registrados, soltarlos se limita a las secciones marcadas dos parques, y un directorio nacional pet-friendly lista cerca de 500 cafés y tiendas. Sofía es además notablemente asequible: los hoteles dog-friendly empiezan en 60 € la noche, las visitas veterinarias de urgencia en 40 €, y la plataforma Pawshake en 5 € por paseo.`,
-      pt: `Sofía é uma das as capitales mais antigas de Europa: poblado tracio de Serdica no século VII a. C., tornou-se num importante centro romano sob Constantino, luego em sede bizantina, conquista otomana e finalmente capital do reino búlgaro em 1879. Com uns 1,2 millones de habitantes, é além disso a capital da UE mais verde por cobertura arbórea, lo que explica o monte Vitosha de 2.290 metros que se eleva directamente a partir do tejido urbano. A cultura canina búlgara é aberta mas está regulada: o câmara municipal exige uma medalla para os cães registrados, soltarlos se limita a as secciones marcadas dois parques, e um directorio nacional pet-friendly lista perto de 500 cafés e tiendas. Sofía é além disso notavelmente asequible: os hotéis pet-friendly empiezan em 60 € a noite, as visitas veterinárias de urgência em 40 €, e a plataforma Pawshake em 5 € por passeio.`,
+      es: `Sofía es una de las capitales más antiguas de Europa: poblado tracio de Serdica en el siglo VII a. C., se convirtió en un importante centro romano bajo Constantino, luego en sede bizantina, conquista otomana y finalmente capital del reino búlgaro en 1879. Con unos 1,2 millones de habitantes, es además la capital de la UE más verde por cobertura arbórea, lo que explica el monte Vitosha de 2.290 metros que se eleva directamente desde el tejido urbano. La cultura canina búlgara es abierta pero está regulada: el ayuntamiento exige una medalla para los perros registrados, soltarlos se limita a las secciones marcadas de los parques, y un directorio nacional pet-friendly lista cerca de 500 cafés y tiendas. Sofía es además notablemente asequible: los hoteles dog-friendly empiezan en 60 € la noche, las visitas veterinarias de urgencia en 40 €, y la plataforma Pawshake en 5 € por paseo.`,
+      pt: `Sófia é uma das capitais mais antigas da Europa: povoado trácio de Serdica no século VII a. C., tornou-se num importante centro romano sob Constantino, depois em sede bizantina, conquista otomana e finalmente capital do reino búlgaro em 1879. Com cerca de 1,2 milhões de habitantes, é também a capital da UE mais verde por cobertura arbórea, o que se explica pelo monte Vitosha de 2.290 metros que se eleva diretamente do tecido urbano. A cultura canina búlgara é aberta mas regulada: a câmara municipal exige uma medalha para os cães registados, a marcha sem trela está limitada às secções assinaladas dos parques, e um diretório nacional pet-friendly lista perto de 500 cafés e lojas. Sófia é também notavelmente acessível: os hotéis pet-friendly começam nos 60 € por noite, as consultas veterinárias de urgência nos 40 €, e a plataforma Pawshake nos 5 € por passeio.`,
     },
     sights: [
       {
@@ -38674,10 +38674,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛪',
         petFriendly: false,
         desc: {
-          fr: `Vaste cathédrale néo-byzantine aux dômes dorés, l'un des plus grands édifices orthodoxes d'Europe. L'intérieur n'admet que les chiens d'assistance, mais la grande place pavée extérieure et le marché aux puces du samedi à l'arrière sont accessibles em laisse.`,
+          fr: `Vaste cathédrale néo-byzantine aux dômes dorés, l'un des plus grands édifices orthodoxes d'Europe. L'intérieur n'admet que les chiens d'assistance, mais la grande place pavée extérieure et le marché aux puces du samedi à l'arrière sont accessibles en laisse.`,
           en: `Vast neo-Byzantine cathedral with golden domes, one of Europe's largest Orthodox churches. The interior admits only assistance dogs, but the wide stone-paved square outside and the Saturday flea market on the back side are leash-friendly.`,
-          es: `Vasta catedral neo-bizantina con cúpulas doradas, una das mayores iglesias ortodoxas de Europa. o interior solo admite perros de asistencia, pero a ampla plaza adoquinada exterior y el mercadillo dos sábados na parte trasera son acessíveis com trela.`,
-          pt: `Vasta catedral neo-bizantina com cúpulas doradas, uma das mayores igrejas ortodoxas de Europa. O interior só admite cães de assistência, mas a ampla praça adoquinada exterior e o mercadillo dois sábados na parte trasera são acessíveis com trela.`,
+          es: `Vasta catedral neobizantina con cúpulas doradas, una de las mayores iglesias ortodoxas de Europa. El interior solo admite perros de asistencia, pero la amplia plaza adoquinada exterior y el mercadillo de los sábados en la parte trasera son accesibles con correa.`,
+          pt: `Vasta catedral neobizantina com cúpulas douradas, uma das maiores igrejas ortodoxas da Europa. O interior só admite cães de assistência, mas a ampla praça calcetada no exterior e a feira da ladra de sábado nas traseiras são acessíveis à trela.`,
         },
       },
       {
@@ -38687,8 +38687,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Colonne vertébrale piétonne de Sofia, 1,2 km du sud de la place Sveta Nedelya jusqu'au massif du Vitosha. Cafés, glaciers et librairies, presque toutes les terrasses dog-friendly. La vue sur les sommets du Vitosha à l'extrémité sud est la photo signature de la ville.`,
           en: `Sofia's pedestrian spine, 1.2 km from south of Sveta Nedelya square to the Vitosha massif. Cafés, gelato shops, and bookstores, with nearly all terraces dog-friendly. The view of the Vitosha peaks at the south end is the city's signature photograph.`,
-          es: `o eje peatonal de Sofía, 1,2 km desde el sur de la plaza Sveta Nedelya hasta el macizo del Vitosha. Cafés, heladerías y librerías, con casi todas las terrazas dog-friendly. La vista das cumbres del Vitosha em o extremo sur es la foto emblemática de a cidade.`,
-          pt: `O eje peatonal de Sofía, 1,2 km a partir do sur da praça Sveta Nedelya até o macizo do Vitosha. Cafés, heladerías e librerías, com quase todas as esplanadas pet-friendly. A vista das cumbres do Vitosha no extremo sur é a foto emblemática da cidade.`,
+          es: `El eje peatonal de Sofía, 1,2 km desde el sur de la plaza Sveta Nedelya hasta el macizo del Vitosha. Cafés, heladerías y librerías, con casi todas las terrazas dog-friendly. La vista de las cumbres del Vitosha en el extremo sur es la foto emblemática de la ciudad.`,
+          pt: `O eixo pedonal de Sófia, 1,2 km a partir do sul da praça Sveta Nedelya até ao maciço do Vitosha. Cafés, geladarias e livrarias, com quase todas as esplanadas pet-friendly. A vista das cumeadas do Vitosha no extremo sul é a fotografia emblemática da cidade.`,
         },
       },
       {
@@ -38696,10 +38696,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌳',
         petFriendly: true,
         desc: {
-          fr: `Plus ancien parc public de Sofia (1884), 90 hectares au sud-est du centre. Larges allées arborées, lac Ariana, trois stades et roseraies tranquilles ; chiens em laisse partout, sans laisse toléré sur les sentiers boisés intérieurs.`,
+          fr: `Plus ancien parc public de Sofia (1884), 90 hectares au sud-est du centre. Larges allées arborées, lac Ariana, trois stades et roseraies tranquilles ; chiens en laisse partout, sans laisse toléré sur les sentiers boisés intérieurs.`,
           en: `Sofia's oldest public park (1884), 90 hectares south-east of the centre. Wide tree-lined avenues, Ariana Lake, three stadiums, and quiet rose gardens; leashed dogs throughout, off-leash tolerated on the inner woodland tracks.`,
-          es: `o parque público más antigo de Sofía (1884), 90 hectáreas al sureste del centro. amplas avenidas arboladas, lago Ariana, tres estadios y jardines de rosas tranquilos; perros com trela por todas partes, sin trela tolerado em los senderos boscosos interiores.`,
-          pt: `O parque público mais antigo de Sofía (1884), 90 hectáreas al sureste do centro. amplas avenidas arboladas, lago Ariana, três estadios e jardins de rosas tranquilos; cães com trela por todas partes, sem trela tolerado nos trilhos boscosos interiores.`,
+          es: `El parque público más antiguo de Sofía (1884), 90 hectáreas al sureste del centro. Amplias avenidas arboladas, lago Ariana, tres estadios y jardines de rosas tranquilos; perros con correa por todas partes, sin correa tolerado en los senderos boscosos interiores.`,
+          pt: `O parque público mais antigo de Sófia (1884), 90 hectares a sudeste do centro. Amplas avenidas arborizadas, lago Ariana, três estádios e roseirais tranquilos; cães à trela por todo o lado, sem trela tolerado nos trilhos arborizados interiores.`,
         },
       },
       {
@@ -38707,10 +38707,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛰️',
         petFriendly: true,
         desc: {
-          fr: `Premier parc naturel de Bulgarie (1934), couvrant tout le massif qui s'élève au sud de la ville. La cascade de Boyana et la zone d'Aleko (haut de la gondole) sont les itinéraires les plus populaires ; chiens em laisse les bienvenus, sans laisse toléré em haute altitude.`,
+          fr: `Premier parc naturel de Bulgarie (1934), couvrant tout le massif qui s'élève au sud de la ville. La cascade de Boyana et la zone d'Aleko (haut de la gondole) sont les itinéraires les plus populaires ; chiens en laisse les bienvenus, sans laisse toléré en haute altitude.`,
           en: `Bulgaria's first nature park (1934), covering the entire massif rising south of the city. Boyana Waterfall and the Aleko area (top of the gondola) are the most popular routes; leashed dogs welcome, off-leash tolerated on the upper alpine sections.`,
-          es: `El primer parque natural de Bulgaria (1934), que cubre todo el macizo que se eleva al sur de a cidade. La cascada de Boyana y a zona de Aleko (arriba de la góndola) son las rutas más populares; perros com trela bienvenidos, sin trela tolerado em las secciones alpinas superiores.`,
-          pt: `O primer parque natural de Bulgaria (1934), que cubre todo o macizo que se eleva a sul da cidade. A cascada de Boyana e a zona de Aleko (arriba da góndola) são as rutas mais populares; cães com trela bem-vindos, sem trela tolerado nas secciones alpinas superiores.`,
+          es: `El primer parque natural de Bulgaria (1934), que cubre todo el macizo que se eleva al sur de la ciudad. La cascada de Boyana y la zona de Aleko (arriba de la góndola) son las rutas más populares; perros con correa bienvenidos, sin correa tolerado en las secciones alpinas superiores.`,
+          pt: `O primeiro parque natural da Bulgária (1934), que cobre todo o maciço que se eleva a sul da cidade. A cascata de Boyana e a zona de Aleko (topo do teleférico) são os percursos mais populares; cães à trela bem-vindos, sem trela tolerado nas secções alpinas superiores.`,
         },
       },
       {
@@ -38718,10 +38718,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏛️',
         petFriendly: false,
         desc: {
-          fr: `Église UNESCO du XIIIe siècle célèbre pour ses 90 fresques médiévales. L'intérieur n'admet que les chiens d'assistance, mais le quartier de Boyana et le sentier balisé de la cascade au-dessus sont accessibles em laisse.`,
+          fr: `Église UNESCO du XIIIe siècle célèbre pour ses 90 fresques médiévales. L'intérieur n'admet que les chiens d'assistance, mais le quartier de Boyana et le sentier balisé de la cascade au-dessus sont accessibles en laisse.`,
           en: `13th-century UNESCO church famous for its 90 medieval murals. The interior admits only assistance dogs, but the Boyana neighbourhood and the marked waterfall trail above are leash-friendly.`,
-          es: `Iglesia UNESCO del siglo XIII famosa por sus 90 frescos medievales. o interior solo admite perros de asistencia, pero o bairro de Boyana y el sendero señalizado de la cascada por encima son acessíveis com trela.`,
-          pt: `Igreja UNESCO do século XIII famosa por os seus 90 frescos medievais. O interior só admite cães de assistência, mas o bairro de Boyana e o trilho senhalizado da cascada por encima são acessíveis com trela.`,
+          es: `Iglesia UNESCO del siglo XIII famosa por sus 90 frescos medievales. El interior solo admite perros de asistencia, pero el barrio de Boyana y el sendero señalizado de la cascada por encima son accesibles con correa.`,
+          pt: `Igreja UNESCO do século XIII famosa pelos seus 90 frescos medievais. O interior só admite cães de assistência, mas o bairro de Boyana e o trilho sinalizado da cascata por cima são acessíveis à trela.`,
         },
       },
       {
@@ -38731,18 +38731,18 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Réservoir de montagne de 4 km à 15 km du centre, le spot de baignade canin le plus proche de Sofia. Les sections publiques gratuites de la rive sud acceptent les chiens toute l'année ; bus 1/3 depuis le centre.`,
           en: `4 km mountain reservoir 15 km from the centre, the closest dog swimming spot to Sofia. The free public sections of the south shore accept dogs year-round; bus 1/3 from the centre.`,
-          es: `Embalse de montaña de 4 km a 15 km del centro, el punto de baño canino más cercano a Sofía. Las secciones públicas gratuitas de a orilla sur admiten perros todo o año; bus 1/3 desde o centro.`,
-          pt: `Embalse de montanha de 4 km a 15 km do centro, o punto de banho canino mais cercano a Sofía. As secciones públicas gratuitas da margem sur admitem cães o ano inteiro; bus 1/3 a partir do centro.`,
+          es: `Embalse de montaña de 4 km a 15 km del centro, el punto de baño canino más cercano a Sofía. Las secciones públicas gratuitas de la orilla sur admiten perros todo el año; bus 1/3 desde el centro.`,
+          pt: `Reservatório de montanha de 4 km a 15 km do centro, o local de banho canino mais próximo de Sófia. As secções públicas gratuitas da margem sul aceitam cães todo o ano; autocarro 1/3 a partir do centro.`,
         },
       },
     ],
     petTips: {
       fr: [
-        `Métro et trams : petits chiens em panier gratuits, grands chiens em laisse + muselière + ticket transport. Les contrôleurs vérifient.`,
+        `Métro et trams : petits chiens en panier gratuits, grands chiens en laisse + muselière + ticket de transport. Les contrôleurs vérifient.`,
         `Trains BDZ : demi-tarif seconde classe pour les chiens muselés et avec carnet vétérinaire ; les chiens guides voyagent gratuitement.`,
-        `Urgence vétérinaire 24h/24 la plus centrale : central Vet Clinic, Tsar Boris III Boulevard 130, +359 2 952 0001.`,
+        `Urgence vétérinaire 24h/24 la plus centrale : Central Vet Clinic, Tsar Boris III Boulevard 130, +359 2 952 0001.`,
         `La cathédrale Alexandre-Nevski, l'église de Boyana et la plupart des musées n'admettent que les chiens d'assistance, planifiez une garde via Pawshake si nécessaire.`,
-        `Hivers très froids : températures jusqu'à -15 °C em janvier-février, prévoyez un manteau et un baume pour les coussinets des petits chiens.`,
+        `Hivers très froids : températures jusqu'à -15 °C en janvier-février, prévoyez un manteau et un baume pour les coussinets des petits chiens.`,
       ],
       en: [
         `Metro and trams: small dogs in carriers free, large dogs need leash + muzzle + transport ticket. Inspectors do check.`,
@@ -38752,27 +38752,27 @@ const cityContent: Record<string, CityContent> = {
         `Very cold winters: temperatures down to -15 °C in January-February, pack a coat and paw balm for small dogs.`,
       ],
       es: [
-        `Metro y tranvías: perros pequeños em transportín gratis, perros grandes necesitan trela + bozal + billete de transporte. Los inspectores comprueban.`,
+        `Metro y tranvías: perros pequeños en transportín gratis, perros grandes necesitan correa + bozal + billete de transporte. Los inspectores comprueban.`,
         `Trenes BDZ: medio billete de segunda clase para perros con bozal y cartilla veterinaria; los perros guía viajan gratis.`,
-        `Veterinario de urgencias 24/7 más céntrico: central Vet Clinic, Tsar Boris III Boulevard 130, +359 2 952 0001.`,
-        `La Catedral de Alexander Nevsky, a iglesia de Boyana y la mayoría dos museos solo admiten perros de asistencia: planifica un cuidador vía Pawshake si hace falta.`,
-        `Inviernos muy fríos: temperaturas de hasta -15 °C em enero-febrero, lleva abrigo y bálsamo de almohadillas para perros pequeños.`,
+        `Veterinario de urgencias 24/7 más céntrico: Central Vet Clinic, Tsar Boris III Boulevard 130, +359 2 952 0001.`,
+        `La Catedral de Alexander Nevsky, la iglesia de Boyana y la mayoría de los museos solo admiten perros de asistencia: planifica un cuidador vía Pawshake si hace falta.`,
+        `Inviernos muy fríos: temperaturas de hasta -15 °C en enero-febrero, lleva abrigo y bálsamo de almohadillas para perros pequeños.`,
       ],
       pt: [
-        `Metro e elétricos: cães pequenos em transportadora grátis, cães grandes necesitan trela + bozal + bilhete de transporte. Os inspectores comprueban.`,
-        `Comboios BDZ: medio bilhete de segunda clase para cães con bozal e cartilla veterinária; os cães guía viajan grátis.`,
-        `Veterinário de urgências 24/7 mais céntrico: central Vet Clinic, Tsar Boris III Boulevard 130, +359 2 952 0001.`,
-        `A Catedral de Alexander Nevsky, a igreja de Boyana e a maioria dois museus só admiten cães de assistência: planifica um cuidador vía Pawshake si hace falta.`,
-        `Inviernos muito frios: temperaturas de até -15 °C em janeiro-fevereiro, lleva abrigo e bálsamo de almohadillas para cães pequenos.`,
+        `Metro e elétricos: cães pequenos em transportadora grátis, cães grandes precisam de trela + açaime + bilhete de transporte. Os fiscais verificam.`,
+        `Comboios BDZ: meio bilhete de segunda classe para cães com açaime e boletim veterinário; os cães-guia viajam grátis.`,
+        `Veterinário de urgências 24/7 mais central: Central Vet Clinic, Tsar Boris III Boulevard 130, +359 2 952 0001.`,
+        `A Catedral de Alexander Nevsky, a igreja de Boyana e a maioria dos museus só admitem cães de assistência: planeie um cuidador via Pawshake se necessário.`,
+        `Invernos muito frios: temperaturas até -15 °C em janeiro-fevereiro, leve um casaco e bálsamo para as almofadinhas dos cães pequenos.`,
       ],
     },
     practicalInfo: {
       fr: [
-        `L'aéroport de Sofia (SOF) est à 10 km du centre, métro M1 jusqu'à Serdika en 18 minutes (chien em panier gratuit, grand chien : ticket + muselière).`,
+        `L'aéroport de Sofia (SOF) est à 10 km du centre, métro M1 jusqu'à Serdika en 18 minutes (chien en panier gratuit, grand chien : ticket + muselière).`,
         `Tarifs hôtels dog-friendly : à partir de 60 € la nuit en 4*, supplément animal moyen 0-50 € par séjour.`,
-        `Climat continental : hivers froids et neigeux (0 °C em janvier), étés chauds (22 °C em juillet) ; ville à 550-600 m d'altitude, donc nuits fraîches même l'été.`,
+        `Climat continental : hivers froids et neigeux (0 °C en janvier), étés chauds (22 °C en juillet) ; ville à 550-600 m d'altitude, donc nuits fraîches même l'été.`,
         `Pawshake.com et PetBacker dominent la garde et la promenade ; comptez 6-8 € la visite, 12-18 € la journée, 15-22 € la nuit, parmi les tarifs les plus bas d'Europe de l'Est.`,
-        `Sofia est à 8h de Bucarest em train direct, 6h de Belgrade et 7h em bus depuis Thessalonique, point de départ pratique pour un circuit canin balkanique.`,
+        `Sofia est à 8h de Bucarest en train direct, 6h de Belgrade et 7h en bus depuis Thessalonique, point de départ pratique pour un circuit canin balkanique.`,
       ],
       en: [
         `Sofia Airport (SOF) is 10 km from the centre, metro M1 to Serdika in 18 minutes (small dog in carrier free, large dog: ticket + muzzle).`,
@@ -38782,18 +38782,18 @@ const cityContent: Record<string, CityContent> = {
         `Sofia is 8 hours from Bucharest by direct train, 6 hours from Belgrade, and 7 hours from Thessaloniki by bus, a practical starting point for a Balkan dog-travel circuit.`,
       ],
       es: [
-        `o aeropuerto de Sofía (SOF) está a 10 km del centro, metro M1 hasta Serdika en 18 minutos (perro pequeño em transportín gratis, perro grande: billete + bozal).`,
+        `El aeropuerto de Sofía (SOF) está a 10 km del centro, metro M1 hasta Serdika en 18 minutos (perro pequeño en transportín gratis, perro grande: billete + bozal).`,
         `Tarifas de hoteles dog-friendly: desde 60 € por noche en 4*, suplemento medio por mascota 0-50 € por estancia.`,
-        `Clima continental: inviernos fríos y nevados (0 °C em enero), veranos cálidos (22 °C em julio); a cidade está a 550-600 m, así que las noches de verano se mantienen frescas.`,
+        `Clima continental: inviernos fríos y nevados (0 °C en enero), veranos cálidos (22 °C en julio); la ciudad está a 550-600 m, así que las noches de verano se mantienen frescas.`,
         `Pawshake.com y PetBacker dominan el cuidado y paseo; cuenta 6-8 € por visita, 12-18 € por día completo, 15-22 € por noche: entre las tarifas más bajas de Europa del Este.`,
-        `Sofía está a 8 horas de Bucarest em tren directo, 6 horas de Belgrado y 7 horas de Tesalónica em autobús: un punto de partida práctico para un circuito canino balcánico.`,
+        `Sofía está a 8 horas de Bucarest en tren directo, 6 horas de Belgrado y 7 horas de Tesalónica en autobús: un punto de partida práctico para un circuito canino balcánico.`,
       ],
       pt: [
-        `O aeroporto de Sofía (SOF) está a 10 km do centro, metro M1 até Serdika en 18 minutos (cão pequeno em transportadora grátis, cão grande: bilhete + bozal).`,
-        `Tarifas de hotéis pet-friendly: a partir de 60 € por noite en 4*, suplemento medio por animal 0-50 € por estadia.`,
-        `Clima continental: inviernos frios e nevados (0 °C em janeiro), veranos cálidos (22 °C em julho); a cidade está a 550-600 m, así que as noites de verão se mantienen frescas.`,
-        `Pawshake.com e PetBacker dominan o cuidado e passeio; cuenta 6-8 € por visita, 12-18 € por dia completo, 15-22 € por noite: entre as tarifas mais bajas de Europa do leste.`,
-        `Sofía está a 8 horas de Bucarest de comboio directo, 6 horas de Belgrado e 7 horas de Tesalónica de autocarro: um punto de partida práctico para um circuito canino balcánico.`,
+        `O aeroporto de Sófia (SOF) está a 10 km do centro, metro M1 até Serdika em 18 minutos (cão pequeno em transportadora grátis, cão grande: bilhete + açaime).`,
+        `Tarifas de hotéis pet-friendly: a partir de 60 € por noite em 4*, suplemento médio por animal 0-50 € por estadia.`,
+        `Clima continental: invernos frios e nevados (0 °C em janeiro), verões quentes (22 °C em julho); a cidade está a 550-600 m, pelo que as noites de verão se mantêm frescas.`,
+        `Pawshake.com e PetBacker dominam o cuidado e o passeio; conte 6-8 € por visita, 12-18 € por dia completo, 15-22 € por noite: entre as tarifas mais baixas da Europa de Leste.`,
+        `Sófia está a 8 horas de Bucareste de comboio direto, 6 horas de Belgrado e 7 horas de Tessalónica de autocarro: um ponto de partida prático para um circuito canino balcânico.`,
       ],
     },
   },

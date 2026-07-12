@@ -36017,10 +36017,10 @@ const cityContent: Record<string, CityContent> = {
 
   salzburg: {
     history: {
-      fr: `Salzbourg, la « Rome du Nord » classée UNESCO, doit sa richesse à l'or blanc, le sel, extrait du Dürrnberg depuis les Celtes. Les princes-archevêques la gouvernèrent en État indépendant jusqu'en 1803, laissant la forteresse du Hohensalzburg, la vieille ville baroque et une tradition musicale couronnée par Mozart, l'enfant du pays. L'Autriche fixe les règles canines au niveau fédéral : puce, passeport européen et assurance responsabilité civile sont obligatoires, et la ville de Salzbourg perçoit une Hundeabgabe de 72 euros par an. Le Land exige un Hundeführerschein pour tout maître n'em ayant jamais détenu, à obtenir dans les quatre mois suivant l'enregistrement. La proximité des Alpes apporte hivers froids et étés de Föhn ; la ville compense par les berges vertes de la Salzach, les sentiers ombragés du Kapuzinerberg et une densité rare de Konditoreien dog-friendly.`,
+      fr: `Salzbourg, la « Rome du Nord » classée UNESCO, doit sa richesse à l'or blanc, le sel, extrait du Dürrnberg depuis les Celtes. Les princes-archevêques la gouvernèrent en État indépendant jusqu'en 1803, laissant la forteresse du Hohensalzburg, la vieille ville baroque et une tradition musicale couronnée par Mozart, l'enfant du pays. L'Autriche fixe les règles canines au niveau fédéral : puce, passeport européen et assurance responsabilité civile sont obligatoires, et la ville de Salzbourg perçoit une Hundeabgabe de 72 euros par an. Le Land exige un Hundeführerschein pour tout maître n'en ayant jamais détenu, à obtenir dans les quatre mois suivant l'enregistrement. La proximité des Alpes apporte hivers froids et étés de Föhn ; la ville compense par les berges vertes de la Salzach, les sentiers ombragés du Kapuzinerberg et une densité rare de Konditoreien dog-friendly.`,
       en: `Salzburg, the UNESCO-listed 'Rome of the North', grew rich on the white gold, salt, mined in the Dürrnberg since Celtic times. The prince-archbishops ruled it as an independent state until 1803, leaving behind the Hohensalzburg fortress, the baroque Altstadt and a music tradition crowned by native son Mozart. Austria's dog rules are set federally: microchip, EU passport and liability insurance are compulsory, and the city of Salzburg levies a Hundeabgabe of 72 euros per year. Salzburg Land requires a Hundeführerschein (dog licence) for any dog whose owner has never held one before, completed within four months of registration. Alpine proximity brings cold winters and hot Föhn summers; the city compensates with green banks along the Salzach, shaded Kapuzinerberg trails and an unusually high density of pet-welcoming Konditoreien.`,
-      es: `Salzburgo, la 'Roma del Norte' declarada Patrimonio UNESCO, se enriqueció con o oro blanco, la sal, extraída del Dürrnberg desde tiempos celtas. Los príncipes-arzobispos la gobernaron como estado independiente hasta 1803, legando la fortaleza Hohensalzburg, el casco barroco y una tradición musical coronada por Mozart, hijo de a cidade. Austria fija las normas caninas a nivel federal: microchip, passaporte europeu y seguro de responsabilidad civil son obrigatórios, y a cidade cobra una Hundeabgabe de 72 euros anuales. El Land exige un Hundeführerschein a todo dueño primerizo, obtenible em los cuatro meses tras el registro. La cercanía alpina trae inviernos fríos y veranos de Föhn; a cidade compensa con riberas verdes del Salzach, senderos sombreados del Kapuzinerberg y una densidad rara de Konditoreien que admiten perros.`,
-      pt: `Salzburgo, a 'Roma do norte' declarada Patrimonio UNESCO, se enriqueció com o oro branco, a sal, extraída do Dürrnberg a partir de tiempos celtas. Os príncipes-arzobispos a gobernaron como estado independiente até 1803, legando a fortaleza Hohensalzburg, o casco barroco e uma tradición musical coronada por Mozart, hijo da cidade. Austria fija as normas caninas a nivel federal: microchip, passaporte europeu e seguro de responsabilidad civil são obrigatórios, e a cidade cobra uma Hundeabgabe de 72 euros anuais. O Land exige um Hundeführerschein a todo dono primerizo, obtenible nos quatro meses tras o registro. A cercanía alpina trae inviernos frios e veranos de Föhn; a cidade compensa com riberas verdes do Salzach, trilhos sombreados do Kapuzinerberg e uma densidad rara de Konditoreien que admitem cães.`,
+      es: `Salzburgo, la 'Roma del Norte' declarada Patrimonio UNESCO, se enriqueció con el oro blanco, la sal, extraída del Dürrnberg desde tiempos celtas. Los príncipes-arzobispos la gobernaron como estado independiente hasta 1803, legando la fortaleza Hohensalzburg, el casco barroco y una tradición musical coronada por Mozart, hijo de la ciudad. Austria fija las normas caninas a nivel federal: microchip, pasaporte europeo y seguro de responsabilidad civil son obligatorios, y la ciudad cobra una Hundeabgabe de 72 euros anuales. El Land exige un Hundeführerschein a todo dueño primerizo, obtenible en los cuatro meses tras el registro. La cercanía alpina trae inviernos fríos y veranos de Föhn; la ciudad compensa con riberas verdes del Salzach, senderos sombreados del Kapuzinerberg y una densidad rara de Konditoreien que admiten perros.`,
+      pt: `Salzburgo, a 'Roma do Norte' classificada como Património UNESCO, enriqueceu com o ouro branco, o sal, extraído do Dürrnberg desde os tempos celtas. Os príncipes-arcebispos governaram-na como estado independente até 1803, deixando a fortaleza Hohensalzburg, o centro barroco e uma tradição musical coroada por Mozart, filho da cidade. A Áustria fixa as normas caninas a nível federal: microchip, passaporte europeu e seguro de responsabilidade civil são obrigatórios, e a cidade cobra uma Hundeabgabe de 72 euros por ano. O Land exige um Hundeführerschein a qualquer dono que nunca o tenha tido, a obter nos quatro meses após o registo. A proximidade alpina traz invernos frios e verões de Föhn; a cidade compensa com as margens verdes do Salzach, os trilhos sombreados do Kapuzinerberg e uma densidade rara de Konditoreien que admitem cães.`,
     },
     sights: [
       {
@@ -36028,10 +36028,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏰',
         petFriendly: true,
         desc: {
-          fr: 'Le plus grand château médiéval intact d\'Europe couronne le Festungsberg à 506 mètres. Les chiens em laisse peuvent emprunter le funiculaire et parcourir les cours extérieures et remparts ; les salles du musée et les appartements princiers leur sont interdits.',
+          fr: `Le plus grand château médiéval intact d'Europe couronne le Festungsberg à 506 mètres. Les chiens en laisse peuvent emprunter le funiculaire et parcourir les cours extérieures et remparts ; les salles du musée et les appartements princiers leur sont interdits.`,
           en: 'Europe\'s largest fully preserved medieval castle crowns the Festungsberg at 506 metres. Leashed dogs may ride the funicular and walk the outer courtyards and ramparts; interior museum rooms and the prince\'s chambers are not accessible with pets.',
-          es: 'El mayor castillo medieval íntegro de Europa corona el Festungsberg a 506 metros. Los perros com trela pueden subir em el funicular y recorrer los patios exteriores y murallas; las salas del museo y los aposentos principescos quedan vetados.',
-          pt: 'O mayor castelo medieval íntegro de Europa corona o Festungsberg a 506 metros. Os cães com trela podem subir no funicular e recorrer os patios exteriores e muralhas; as salas do museu e os aposentos principescos ficam vetados.',
+          es: `El mayor castillo medieval íntegro de Europa corona el Festungsberg a 506 metros. Los perros con correa pueden subir en el funicular y recorrer los patios exteriores y murallas; las salas del museo y los aposentos principescos quedan vetados.`,
+          pt: `O maior castelo medieval íntegro da Europa coroa o Festungsberg a 506 metros. Os cães com trela podem subir no funicular e percorrer os pátios exteriores e muralhas; as salas do museu e os aposentos principescos ficam vedados.`,
         },
       },
       {
@@ -36039,10 +36039,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌹',
         petFriendly: false,
         desc: {
-          fr: 'Le jardin baroque de 1690 et sa fontaine du Pégase ont servi de décor à La Mélodie du bonheur. Les chiens sont strictement interdits dans les parterres, mais le Kurpark voisin, le long de la Salzach, les accepte em laisse.',
+          fr: `Le jardin baroque de 1690 et sa fontaine du Pégase ont servi de décor à La Mélodie du bonheur. Les chiens sont strictement interdits dans les parterres, mais le Kurpark voisin, le long de la Salzach, les accepte en laisse.`,
           en: 'The 1690 baroque garden with its Pegasus fountain starred in The Sound of Music. Dogs are strictly prohibited inside the formal parterres per city bylaw, but the adjoining Kurpark along the Salzach allows leashed pets and makes a fine substitute.',
-          es: 'El jardín barroco de 1690 y su fuente de Pegaso aparecen em Sonrisas y Lágrimas. Los perros están estrictamente prohibidos em los parterres, pero el contiguo Kurpark junto al Salzach los admite com trela.',
-          pt: 'O jardim barroco de 1690 e su fuente de Pegaso aparecen em Sonrisas e Lágrimas. Os cães estão estrictamente prohibidos nos parterres, mas o contiguo Kurpark junto al Salzach os admite com trela.',
+          es: `El jardín barroco de 1690 y su fuente de Pegaso aparecen en Sonrisas y Lágrimas. Los perros están estrictamente prohibidos en los parterres, pero el contiguo Kurpark junto al Salzach los admite con correa.`,
+          pt: `O jardim barroco de 1690 e a sua fonte de Pégaso aparecem em Música no Coração. Os cães estão estritamente proibidos nos parterres, mas o vizinho Kurpark junto ao Salzach admite-os com trela.`,
         },
       },
       {
@@ -36052,8 +36052,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Les deux rives de la Salzach émeraude offrent 7 kilomètres de promenade pavée reliant Mülln à Aigen. La plage de graviers du Glanspitz est l\'un des rares endroits de la ville où les chiens peuvent légalement se baigner hors zone de protection d\'eau potable.',
           en: 'Both banks of the emerald Salzach offer 7 kilometres of paved promenade linking Mülln to Aigen. The gravel beach at Glanspitz marks one of the few city spots where dogs may legally swim outside the drinking-water protection zone.',
-          es: 'Ambas orillas del esmeralda Salzach ofrecen 7 km de paseo pavimentado entre Mülln y Aigen. La playa de grava del Glanspitz es uno dos pocos puntos urbanos donde los perros pueden bañarse legalmente fuera de a zona de protección de agua potable.',
-          pt: 'Ambas margens do esmeralda Salzach ofrecen 7 km de passeio pavimentado entre Mülln e Aigen. A praia de grava do Glanspitz é um dois os poucos puntos urbanos onde os cães podem banhar-se legalmente fora da zona de protección de água potable.',
+          es: `Ambas orillas del esmeralda Salzach ofrecen 7 km de paseo pavimentado entre Mülln y Aigen. La playa de grava del Glanspitz es uno de los pocos puntos urbanos donde los perros pueden bañarse legalmente fuera de la zona de protección de agua potable.`,
+          pt: `Ambas as margens do esmeralda Salzach oferecem 7 km de passeio pavimentado entre Mülln e Aigen. A praia de cascalho do Glanspitz é um dos poucos pontos urbanos onde os cães podem banhar-se legalmente fora da zona de proteção de água potável.`,
         },
       },
       {
@@ -36061,10 +36061,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛰️',
         petFriendly: true,
         desc: {
-          fr: 'La colline boisée de 640 mètres face à la vieille ville se gravit en 40 minutes jusqu\'au monastère des Capucins ; des chevreuils y vivent librement. Laisse obligatoire toute l\'année (réserve naturelle), mais les sentiers restent ombragés em juillet.',
+          fr: `La colline boisée de 640 mètres face à la vieille ville se gravit en 40 minutes jusqu'au monastère des Capucins ; des chevreuils y vivent librement. Laisse obligatoire toute l'année (réserve naturelle), mais les sentiers restent ombragés en juillet.`,
           en: 'The 640-metre wooded hill opposite the Altstadt offers a 40-minute climb to the Capuchin monastery with wild-roaming roe deer. Dogs must stay on leash year-round because of the wildlife reserve status, but paths are shaded even in July.',
-          es: 'La colina boscosa de 640 metros frente a a Altstadt se sube en 40 minutos hasta el monasterio capuchino, con corzos em libertad. La trela es obrigatória todo o año por la reserva natural, pero los senderos se mantienen sombreados em julio.',
-          pt: 'A colina boscosa de 640 metros frente a Altstadt se sube em 40 minutos até o monasterio capuchino, com corzos em libertad. A trela é obrigatória o ano inteiro pela reserva natural, mas os trilhos se mantienen sombreados em julho.',
+          es: `La colina boscosa de 640 metros frente a la Altstadt se sube en 40 minutos hasta el monasterio capuchino, con corzos en libertad. La correa es obligatoria todo el año por la reserva natural, pero los senderos se mantienen sombreados en julio.`,
+          pt: `A colina arborizada de 640 metros em frente à Altstadt sobe-se em 40 minutos até ao mosteiro dos Capuchinhos, com corços em liberdade. A trela é obrigatória o ano inteiro devido à reserva natural, mas os trilhos mantêm-se sombreados em julho.`,
         },
       },
       {
@@ -36072,10 +36072,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '⛲',
         petFriendly: true,
         desc: {
-          fr: 'Palais de plaisance de 1615 célèbre pour ses grottes et fontaines-farces destinées à arroser les invités. Le parc de 60 hectares accepte gratuitement les chiens em laisse ; la visite guidée des fontaines, elle, n\'est pas adaptée à cause des jets.',
+          fr: `Palais de plaisance de 1615 célèbre pour ses grottes et fontaines-farces destinées à arroser les invités. Le parc de 60 hectares accepte gratuitement les chiens en laisse ; la visite guidée des fontaines, elle, n'est pas adaptée à cause des jets.`,
           en: 'A 1615 pleasure palace famous for water-powered grottoes and trick fountains designed to soak unsuspecting guests. The 60-hectare park welcomes leashed dogs free of charge; the trick-fountain guided tour itself is not pet-appropriate due to spraying jets.',
-          es: 'Palacio de recreo de 1615 célebre por sus grutas y fuentes-broma que mojan a los invitados. o parque de 60 hectáreas admite perros com trela gratis; la visita guiada das fuentes no es apta por los chorros sorpresa.',
-          pt: 'Palácio de recreo de 1615 célebre por os seus grutas e fuentes-broma que mojan aos invitados. O parque de 60 hectáreas admite cães com trela grátis; a visita guiada das fuentes no é apta pelos chorros sorpresa.',
+          es: `Palacio de recreo de 1615 célebre por sus grutas y fuentes-broma que mojan a los invitados. El parque de 60 hectáreas admite perros con correa gratis; la visita guiada de las fuentes no es apta por los chorros sorpresa.`,
+          pt: `Palácio de recreio de 1615 célebre pelas suas grutas e fontes-partida que molham os convidados. O parque de 60 hectares admite cães com trela grátis; a visita guiada das fontes não é adequada devido aos jatos surpresa.`,
         },
       },
       {
@@ -36083,16 +36083,16 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🎼',
         petFriendly: true,
         desc: {
-          fr: 'La ruelle commerçante de 800 ans, célèbre pour ses enseignes em fer forgé, fait face à la maison natale jaune de Mozart, au numéro 9. Les chiens em laisse sont admis dans la rue et sur la plupart des terrasses, mais pas à l\'intérieur du musée.',
+          fr: `La ruelle commerçante de 800 ans, célèbre pour ses enseignes en fer forgé, fait face à la maison natale jaune de Mozart, au numéro 9. Les chiens en laisse sont admis dans la rue et sur la plupart des terrasses, mais pas à l'intérieur du musée.`,
           en: 'The narrow 800-year-old shopping street with its wrought-iron guild signs fronts Mozart\'s bright-yellow birth house at number 9. Leashed dogs are permitted on the street and on most café terraces, but not inside the Mozart museum itself.',
-          es: 'La callejuela comercial de 800 años, famosa por sus rótulos de hierro forjado, da al número 9 donde nació Mozart, na casa amarilla. Se admiten perros com trela na rua y na mayoría de terrazas, no dentro del museo.',
-          pt: 'A callejuela comercial de 800 anos, famosa por os seus rótulos de ferro forjado, da al número 9 onde nació Mozart, na casa amarela. Se admitem cães com trela na rua e na maioria de esplanadas, no dentro do museu.',
+          es: `La callejuela comercial de 800 años, famosa por sus rótulos de hierro forjado, da al número 9 donde nació Mozart, en la casa amarilla. Se admiten perros con correa en la calle y en la mayoría de terrazas, no dentro del museo.`,
+          pt: `A ruela comercial de 800 anos, famosa pelas suas tabuletas de ferro forjado, dá para o número 9 onde nasceu Mozart, na casa amarela. Admitem-se cães com trela na rua e na maioria das esplanadas, mas não dentro do museu.`,
         },
       },
     ],
     petTips: {
       fr: [
-        'Les chemins de fer autrichiens ÖBB : grand chien = demi-tarif adulte, muselière et laisse obligatoires ; petit chien em cage, gratuit.',
+        'Les chemins de fer autrichiens ÖBB : grand chien = demi-tarif adulte, muselière et laisse obligatoires ; petit chien en cage, gratuit.',
         'Salzbourg impose le sac jaune Biokompostsackerl (biodégradable) disponible tous les 200 mètres, utiliser un sac non biodégradable dans les bacs de compost coûte 70 euros d\'amende.',
         'Dans les cafés et restaurants salzbourgeois, le chien reste au sol, jamais sur les banquettes, norme autrichienne stricte héritée de la tradition des cafés.',
         'Par temps de Föhn estival, le thermomètre dépasse 32 °C : marchez tôt dans l\'ombragée Leopoldskroner Allee et évitez les pavés de la Residenzplatz après 11h.',
@@ -36106,27 +36106,27 @@ const cityContent: Record<string, CityContent> = {
         'Listed \'aggressive\' breeds in Salzburg Land (e.g. Bull Terrier, Rottweiler, American Staffordshire) require a Sachkundenachweis obtained before the animal enters the state.',
       ],
       es: [
-        'Los ferrocarriles austríacos ÖBB: perro grande, medio billete adulto con bozal y trela; perro pequeño em transportín, gratis.',
-        'Salzburgo exige bolsa amarilla Biokompostsackerl (biodegradable) em dispensadores cada 200 metros, usar bolsas no biodegradables em los contenedores de compost supone 70 euros de multa.',
-        'em cafés y restaurantes de Salzburgo el perro va al solo, nunca sobre los bancos tapizados, norma austríaca estricta de la tradición cafetera.',
-        'em días de Föhn estival se superan los 32 °C: camina temprano por la sombreada Leopoldskroner Allee y evita los adoquines de la Residenzplatz después das 11:00.',
-        'Las razas listadas del Land (Bull Terrier, Rottweiler, American Staffordshire…) requieren Sachkundenachweis obtenido antes de entrar em o estado.',
+        `Los ferrocarriles austríacos ÖBB: perro grande, medio billete adulto con bozal y correa; perro pequeño en transportín, gratis.`,
+        `Salzburgo exige bolsa amarilla Biokompostsackerl (biodegradable) en dispensadores cada 200 metros, usar bolsas no biodegradables en los contenedores de compost supone 70 euros de multa.`,
+        `En cafés y restaurantes de Salzburgo el perro va al suelo, nunca sobre los bancos tapizados, norma austríaca estricta de la tradición cafetera.`,
+        `En días de Föhn estival se superan los 32 °C: camina temprano por la sombreada Leopoldskroner Allee y evita los adoquines de la Residenzplatz después de las 11:00.`,
+        `Las razas listadas del Land (Bull Terrier, Rottweiler, American Staffordshire…) requieren Sachkundenachweis obtenido antes de entrar en el estado.`,
       ],
       pt: [
-        'Os ferrocarriles austríacos ÖBB: cão grande, medio bilhete adulto con bozal e trela; cão pequeno em transportadora, grátis.',
-        'Salzburgo exige bolsa amarela Biokompostsackerl (biodegradable) em dispensadores cada 200 metros, usar bolsas no biodegradables nos contenedores de compost supone 70 euros de multa.',
-        'em cafés e restaurantes de Salzburgo o cão va al solo, nunca sobre os bancos tapizados, norma austríaca estricta da tradición cafetera.',
-        'em dias de Föhn estival se superan os 32 °C: camina temprano pela sombreada Leopoldskroner Allee e evita os adoquines da Residenzplatz depois das 11:00.',
-        'As raças listadas do Land (Bull Terrier, Rottweiler, American Staffordshire…) requieren Sachkundenachweis obtenido antes de entrar no estado.',
+        `Os caminhos-de-ferro austríacos ÖBB: cão grande, meio bilhete adulto com açaime e trela; cão pequeno em transportadora, grátis.`,
+        `Salzburgo exige saco amarelo Biokompostsackerl (biodegradável) em dispensadores a cada 200 metros, usar sacos não biodegradáveis nos contentores de compostagem implica 70 euros de multa.`,
+        `Em cafés e restaurantes de Salzburgo o cão fica no chão, nunca sobre os bancos estofados, norma austríaca rígida da tradição dos cafés.`,
+        `Em dias de Föhn no verão ultrapassam-se os 32 °C: passeie cedo pela sombreada Leopoldskroner Allee e evite os paralelepípedos da Residenzplatz depois das 11:00.`,
+        `As raças listadas do Land (Bull Terrier, Rottweiler, American Staffordshire…) exigem um Sachkundenachweis obtido antes de entrar no estado.`,
       ],
     },
     practicalInfo: {
       fr: [
         'Urgences vétérinaires (Ordre des vétérinaires de Salzbourg) : +43 662 435645, redirection vers la clinique de garde.',
         'Le Tierheim Salzburg (Bayernstrasse 1) accueille les chiens trouvés 24h/24 et croise les photos avec la Heimtierdatenbank nationale par puce.',
-        'L\'aéroport de Salzbourg (SZG) admet em cabine les chiens de moins de 8 kg avec Austrian Airlines et Eurowings ; au-delà, soute uniquement et sur certaines lignes.',
-        'Les chiens sont interdits dans les piscines publiques mais bienvenus sur le Hundebadeplatz du Glan, à Liefering.',
-        'La laisse est obligatoire dans toute zone urbanisée, sur les sentiers des alpages (Almen) et em saison de protection du gibier forestier (1er avril-30 juin).',
+        `L'aéroport de Salzbourg (SZG) admet en cabine les chiens de moins de 8 kg avec Austrian Airlines et Eurowings ; au-delà, soute uniquement et sur certaines lignes.`,
+        `Les chiens sont interdits dans les piscines publiques mais bienvenus sur le Hundebadeplatz du Glan, à Liefering.`,
+        `La laisse est obligatoire dans toute zone urbanisée, sur les sentiers des alpages (Almen) et en saison de protection du gibier forestier (1er avril-30 juin).`,
       ],
       en: [
         'Veterinary emergency line (Tierärztekammer Salzburg): +43 662 435645, redirects to the on-duty clinic after hours.',
@@ -36138,16 +36138,16 @@ const cityContent: Record<string, CityContent> = {
       es: [
         'Urgencias veterinarias (Colegio de Veterinarios de Salzburgo): +43 662 435645, redirige a la clínica de guardia.',
         'El Tierheim Salzburg (Bayernstrasse 1) recibe perros perdidos 24/7 y coteja fotos con la Heimtierdatenbank nacional por microchip.',
-        'o aeropuerto de Salzburgo (SZG) admite em cabina perros de menos de 8 kg con Austrian Airlines y Eurowings; los mayores viajan em bodega solo em rutas seleccionadas.',
-        'Los perros no entran em las piscinas públicas, pero sí em el Hundebadeplatz del arroyo Glan, em Liefering.',
-        'La trela es obrigatória em toda zona urbanizada, em los senderos de pastos alpinos (Almen) y em temporada de protección de fauna forestal (1 de abril-30 de junio).',
+        `El aeropuerto de Salzburgo (SZG) admite en cabina perros de menos de 8 kg con Austrian Airlines y Eurowings; los mayores viajan en bodega solo en rutas seleccionadas.`,
+        `Los perros no entran en las piscinas públicas, pero sí en el Hundebadeplatz del arroyo Glan, en Liefering.`,
+        `La correa es obligatoria en toda zona urbanizada, en los senderos de pastos alpinos (Almen) y en temporada de protección de fauna forestal (1 de abril-30 de junio).`,
       ],
       pt: [
-        'Urgências veterinárias (Colegio de Veterinários de Salzburgo): +43 662 435645, redirige a a clínica de guardia.',
-        'O Tierheim Salzburg (Bayernstrasse 1) recibe cães perdidos 24/7 e coteja fotos com a Heimtierdatenbank nacional por microchip.',
-        'O aeroporto de Salzburgo (SZG) admite em cabina cães de menos de 8 kg con Austrian Airlines e Eurowings; os mayores viajan em bodega só em rutas seleccionadas.',
-        'Os cães no entran nas piscinas públicas, mas sí no Hundebadeplatz do arroyo Glan, em Liefering.',
-        'A trela é obrigatória em toda zona urbanizada, nos trilhos de pastos alpinos (Almen) e em temporada de protección de fauna forestal (1 de abril-30 de junho).',
+        `Urgências veterinárias (Ordem dos Veterinários de Salzburgo): +43 662 435645, encaminha para a clínica de urgência.`,
+        `O Tierheim Salzburg (Bayernstrasse 1) recebe cães perdidos 24/7 e cruza fotos com a Heimtierdatenbank nacional por microchip.`,
+        `O aeroporto de Salzburgo (SZG) admite na cabina cães de menos de 8 kg com Austrian Airlines e Eurowings; os maiores viajam em porão só em rotas selecionadas.`,
+        `Os cães não entram nas piscinas públicas, mas sim no Hundebadeplatz do ribeiro Glan, em Liefering.`,
+        `A trela é obrigatória em toda a zona urbanizada, nos trilhos de pastos alpinos (Almen) e na época de proteção da fauna florestal (1 de abril-30 de junho).`,
       ],
     },
   },

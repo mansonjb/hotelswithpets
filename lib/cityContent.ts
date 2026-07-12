@@ -43769,10 +43769,10 @@ const cityContent: Record<string, CityContent> = {
 
   utrecht: {
     history: {
-      fr: `Fondée vers 47 après J.-C. comme fort romain de Traiectum gardant un gué de la branche nord du Rhin, Utrecht devint au Moyen Âge le siège épiscopal le plus puissant des Pays-Bas, la cathédrale Saint-Martin et la Domtoren de 112 mètres em sont les vestiges. Les werven (quais bas) bordant l'Oudegracht sont uniques em Europe : creusés dans le canal au XIIIᵉ siècle pour stocker les marchandises, ils accueillent aujourd'hui les terrasses où les chiens d'Utrecht prennent leurs habitudes. La ville, siège de la première université des Pays-Bas (1636) et de la Faculté de médecine vétérinaire, conjugue patrimoine médiéval et culture canine décontractée : chiens gratuits dans les bus et trams, croisières canalières dog-friendly, et trois zones sans laisse balisées à portée du centre.`,
+      fr: `Fondée vers 47 après J.-C. comme fort romain de Traiectum gardant un gué de la branche nord du Rhin, Utrecht devint au Moyen Âge le siège épiscopal le plus puissant des Pays-Bas, la cathédrale Saint-Martin et la Domtoren de 112 mètres en sont les vestiges. Les werven (quais bas) bordant l'Oudegracht sont uniques en Europe : creusés dans le canal au XIIIᵉ siècle pour stocker les marchandises, ils accueillent aujourd'hui les terrasses où les chiens d'Utrecht prennent leurs habitudes. La ville, siège de la première université des Pays-Bas (1636) et de la Faculté de médecine vétérinaire, conjugue patrimoine médiéval et culture canine décontractée : chiens gratuits dans les bus et trams, croisières canalières dog-friendly, et trois zones sans laisse balisées à portée du centre.`,
       en: `Founded around 47 AD as the Roman fort of Traiectum guarding a ford on the northern branch of the Rhine, Utrecht grew into the most powerful episcopal seat in the medieval Netherlands, the Cathedral of St Martin and the 112-metre Dom Tower are its surviving witnesses. The werven (lower wharves) lining the Oudegracht are unique in Europe: cut into the canal in the 13th century for goods storage, they now host the terraces where Utrecht's dogs settle into the city's daily rhythm. Home to the country's oldest university (1636) and to the Faculty of Veterinary Medicine, the city combines medieval heritage with a relaxed dog-loving culture, free dogs on buses and trams, dog-welcoming canal cruises, and three signed off-leash zones within reach of the centre.`,
-      es: `fundada hacia o año 47 d.C. como el fuerte romano Traiectum, que vigilaba un vado em el brazo norte del Rin, Utrecht se convirtió na sede episcopal más poderosa dos Países Bajos medievales: la catedral de San Martín y la Dom Tower de 112 metros son sus testigos supervivientes. Los werven (muelles bajos) que bordean a Oudegracht son únicos em Europa: excavados em el canal em el siglo XIII para almacenar mercancías, hoy acogen las terrazas donde los perros de Utrecht se instalan em el ritmo diario de a cidade. Cuna de a universidad más antiga del país (1636) y sede de la Facultad de Medicina Veterinaria, a cidade combina patrimonio medieval y cultura canina relajada: perros gratis em autobuses y tranvías, cruceros por los canales que admiten perros, y tres zonas sin trela señalizadas al alcance del centro.`,
-      pt: `fundada para o ano 47 d.C. como o fuerte romano Traiectum, que vigilaba um vado no brazo norte do Rin, Utrecht tornou-se na sede episcopal mais poderosa dois Países Bajos medievais: a catedral de San Martín e a Dom Tower de 112 metros são os seus testigos supervivientes. Os werven (muelles bajos) que bordean a Oudegracht são únicos em Europa: excavados no canal no século XIII para almacenar mercancías, hoy acogen as esplanadas onde os cães de Utrecht se instalan no ritmo diario da cidade. Cuna da universidade mais antiga do país (1636) e sede da Facultad de Medicina Veterinária, a cidade combina patrimonio medieval e cultura canina relajada: cães grátis em autocarros e elétricos, cruceros pelos canales que admitem cães, e três zonas sem trela senhalizadas al alcance do centro.`,
+      es: `Fundada hacia el año 47 d.C. como el fuerte romano Traiectum, que vigilaba un vado en el brazo norte del Rin, Utrecht se convirtió en la sede episcopal más poderosa de los Países Bajos medievales: la catedral de San Martín y la Dom Tower de 112 metros son sus testigos supervivientes. Los werven (muelles bajos) que bordean el Oudegracht son únicos en Europa: excavados en el canal en el siglo XIII para almacenar mercancías, hoy acogen las terrazas donde los perros de Utrecht se instalan en el ritmo diario de la ciudad. Cuna de la universidad más antigua del país (1636) y sede de la Facultad de Medicina Veterinaria, la ciudad combina patrimonio medieval y cultura canina relajada: perros gratis en autobuses y tranvías, cruceros por los canales que admiten perros, y tres zonas sin correa señalizadas al alcance del centro.`,
+      pt: `Fundada por volta do ano 47 d.C. como o forte romano Traiectum, que guardava um vau no braço norte do Reno, Utrecht tornou-se na sede episcopal mais poderosa dos Países Baixos medievais: a catedral de São Martinho e a Dom Tower de 112 metros são as suas testemunhas sobreviventes. Os werven (cais baixos) que ladeiam o Oudegracht são únicos na Europa: escavados no canal no século XIII para armazenar mercadorias, acolhem hoje as esplanadas onde os cães de Utrecht se instalam no ritmo diário da cidade. Berço da universidade mais antiga do país (1636) e sede da Faculdade de Medicina Veterinária, a cidade combina património medieval e uma cultura canina descontraída: cães grátis nos autocarros e elétricos, cruzeiros pelos canais que admitem cães, e três zonas sem trela sinalizadas perto do centro.`,
     },
     sights: [
       {
@@ -43780,10 +43780,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏰',
         petFriendly: false,
         desc: {
-          fr: `La plus haute tour-clocher des Pays-Bas, isolée du reste de la cathédrale par une tempête en 1674. L'intérieur n'admet que les chiens d'assistance, mais le Domplein et la Pandhof voisine se visitent em laisse à toute heure.`,
+          fr: `La plus haute tour-clocher des Pays-Bas, isolée du reste de la cathédrale par une tempête en 1674. L'intérieur n'admet que les chiens d'assistance, mais le Domplein et la Pandhof voisine se visitent en laisse à toute heure.`,
           en: `The Netherlands' tallest church tower, separated from the rest of the cathedral by a 1674 storm. The interior only admits assistance dogs, but the Domplein square and the adjoining Pandhof gardens are accessible on leash at any time.`,
-          es: `La torre eclesiástica más alta dos Países Bajos, separada del resto de la catedral por una tormenta en 1674. o interior solo admite perros de asistencia, pero la plaza Domplein y los jardines anexos del Pandhof son acessíveis com trela a cualquier hora.`,
-          pt: `A torre eclesiástica mais alta dois Países Bajos, separada do resto da catedral por uma tormenta em 1674. O interior só admite cães de assistência, mas a praça Domplein e os jardins anexos do Pandhof são acessíveis com trela a cualquier hora.`,
+          es: `La torre eclesiástica más alta de los Países Bajos, separada del resto de la catedral por una tormenta en 1674. El interior solo admite perros de asistencia, pero la plaza Domplein y los jardines anexos del Pandhof son accesibles con correa a cualquier hora.`,
+          pt: `A torre eclesiástica mais alta dos Países Baixos, separada do resto da catedral por uma tempestade em 1674. O interior só admite cães de assistência, mas a praça Domplein e os jardins anexos do Pandhof são acessíveis com trela a qualquer hora.`,
         },
       },
       {
@@ -43793,8 +43793,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Le canal médiéval qui traverse le centre, bordé de quais bas (werven) creusés au niveau de l'eau au XIIIᵉ siècle. Pavés, terrasses fleuries et bateaux amarrés font la signature visuelle d'Utrecht, et toutes les terrasses au niveau bas sont dog-friendly.`,
           en: `The medieval canal threading the centre, lined with the unique lower wharves (werven) cut at water level in the 13th century. Cobbled stone, flower-banked terraces, and moored boats are Utrecht's visual signature, every lower-level terrace is dog-friendly.`,
-          es: `El canal medieval que atraviesa o centro, flanqueado por los singulares muelles bajos (werven) excavados al nivel del agua em el siglo XIII. Adoquines, terrazas con flores y barcos amarrados componen la firma visual de Utrecht, y todas las terrazas del nivel bajo admiten perros.`,
-          pt: `O canal medieval que atraviesa o centro, flanqueado pelos singulares muelles bajos (werven) excavados al nivel do água no século XIII. Adoquines, esplanadas com flores e barcos amarrados componen a firma visual de Utrecht, e todas as esplanadas do nivel sob admitem cães.`,
+          es: `El canal medieval que atraviesa el centro, flanqueado por los singulares muelles bajos (werven) excavados al nivel del agua en el siglo XIII. Adoquines, terrazas con flores y barcos amarrados componen la firma visual de Utrecht, y todas las terrazas del nivel bajo admiten perros.`,
+          pt: `O canal medieval que atravessa o centro, ladeado pelos singulares cais baixos (werven) escavados ao nível da água no século XIII. Calçada, esplanadas com flores e barcos atracados compõem a assinatura visual de Utrecht, e todas as esplanadas do nível baixo admitem cães.`,
         },
       },
       {
@@ -43804,8 +43804,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Le plus grand parc d'Utrecht (≈ 300 ha) à Leidsche Rijn, avec plusieurs zones sans laisse balisées, des étangs de baignade et une boucle plate de 10 km. C'est le terrain de jeu canin de référence de la ville, accessible en 12 minutes par le tram 22.`,
           en: `Utrecht's largest park (≈ 300 ha) in Leidsche Rijn, with multiple signed off-leash zones, swim ponds and a flat 10 km perimeter loop. The city's reference canine playground, reachable in 12 minutes on tram 22.`,
-          es: `El mayor parque de Utrecht (≈ 300 ha) em Leidsche Rijn, con varias zonas sin trela señalizadas, estanques de baño y una vuelta plana de 10 km. El terreno canino de referencia de a cidade, acessível en 12 minutos em el tranvía 22.`,
-          pt: `O mayor parque de Utrecht (≈ 300 ha) em Leidsche Rijn, com várias zonas sem trela senhalizadas, estanques de banho e uma vuelta plana de 10 km. O terreno canino de referencia da cidade, acessível em 12 minutos no elétrico 22.`,
+          es: `El mayor parque de Utrecht (≈ 300 ha) en Leidsche Rijn, con varias zonas sin correa señalizadas, estanques de baño y una vuelta plana de 10 km. El terreno canino de referencia de la ciudad, accesible en 12 minutos en el tranvía 22.`,
+          pt: `O maior parque de Utrecht (≈ 300 ha) em Leidsche Rijn, com várias zonas sem trela sinalizadas, lagos de banho e uma volta plana de 10 km. O terreno canino de referência da cidade, acessível em 12 minutos no elétrico 22.`,
         },
       },
       {
@@ -43815,8 +43815,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: `Parc urbain de 16 ha au nord du centre avec zone sans laisse balisée, café dog-friendly et un défilé constant de chiens locaux. C'est le terrain sans laisse le plus accessible si vous logez dans le centre, 15 minutes à pied du Domplein.`,
           en: `A 16-hectare urban park north of the centre with a marked off-leash zone, dog-friendly café, and a steady stream of local dogs. The easiest off-leash run if you stay central, 15 minutes on foot from the Domplein.`,
-          es: `Parque urbano de 16 hectáreas al norte del centro con zona sin trela señalizada, cafetería pet-friendly y un goteo constante de perros locales. La saída sin trela más acessível si te alojas em o centro: 15 minutos a pie de la Domplein.`,
-          pt: `Parque urbano de 16 hectáreas al norte do centro com zona sem trela senhalizada, cafetería pet-friendly e um goteo constante de cães locales. A saída sem trela mais acessível si te alojas no centro: 15 minutos a pé da Domplein.`,
+          es: `Parque urbano de 16 hectáreas al norte del centro con zona sin correa señalizada, cafetería pet-friendly y un goteo constante de perros locales. La salida sin correa más accesible si te alojas en el centro: 15 minutos a pie de la Domplein.`,
+          pt: `Parque urbano de 16 hectares a norte do centro com zona sem trela sinalizada, café pet-friendly e um desfile constante de cães locais. A saída sem trela mais acessível se ficar no centro: 15 minutos a pé do Domplein.`,
         },
       },
       {
@@ -43824,10 +43824,10 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌲',
         petFriendly: true,
         desc: {
-          fr: `Deux domaines mitoyens à 5 km au sud-est, traversés par la rivière Kromme Rijn et parcourus de hêtraies anciennes. Chiens em laisse sur Amelisweerd, mais sans laisse sur le chemin de halage et à Rhijnauwen sous contrôle vocal. Le Theehuis Rhijnauwen accueille les chiens.`,
+          fr: `Deux domaines mitoyens à 5 km au sud-est, traversés par la rivière Kromme Rijn et parcourus de hêtraies anciennes. Chiens en laisse sur Amelisweerd, mais sans laisse sur le chemin de halage et à Rhijnauwen sous contrôle vocal. Le Theehuis Rhijnauwen accueille les chiens.`,
           en: `Two adjoining estates 5 km southeast, threaded by the Kromme Rijn river and laced with old beech woods. Dogs leashed on Amelisweerd, off-leash on the towpath and at Rhijnauwen under voice control. The Theehuis Rhijnauwen tea house welcomes dogs.`,
-          es: `Dos fincas contiguas a 5 km al sureste, atravesadas por o rio Kromme Rijn y entre hayedos antigos. Perros com trela em Amelisweerd, sin trela em el camino de sirga y em Rhijnauwen bajo control de voz. El Theehuis Rhijnauwen admite perros.`,
-          pt: `Dois fincas contiguas a 5 km al sureste, atravesadas pelo rio Kromme Rijn e entre hayedos antigos. Cães com trela em Amelisweerd, sem trela no camino de sirga e em Rhijnauwen sob control de voz. O Theehuis Rhijnauwen admite cães.`,
+          es: `Dos fincas contiguas a 5 km al sureste, atravesadas por el río Kromme Rijn y salpicadas de antiguos hayedos. Perros con correa en Amelisweerd, sin correa en el camino de sirga y en Rhijnauwen bajo control de voz. El Theehuis Rhijnauwen admite perros.`,
+          pt: `Duas quintas contíguas a 5 km a sudeste, atravessadas pelo rio Kromme Rijn e salpicadas de antigos faiais. Cães com trela em Amelisweerd, sem trela no caminho de sirga e em Rhijnauwen sob controlo de voz. O Theehuis Rhijnauwen admite cães.`,
         },
       },
       {
@@ -43835,19 +43835,19 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌷',
         petFriendly: true,
         desc: {
-          fr: `Parc paysager du XIXᵉ siècle à l'est du centre, avec étang sinueux et grands platanes. Les chiens em laisse sont les bienvenus sur les pelouses, et le Theehuis au sud du parc accueille les clients à quatre pattes em terrasse.`,
+          fr: `Parc paysager du XIXᵉ siècle à l'est du centre, avec étang sinueux et grands platanes. Les chiens en laisse sont les bienvenus sur les pelouses, et le Theehuis au sud du parc accueille les clients à quatre pattes en terrasse.`,
           en: `An elegant 19th-century landscape park east of the centre, with a serpentine pond and tall plane trees. Leashed dogs are welcome on the lawns, and the Theehuis at the south end welcomes four-legged guests on its terrace.`,
-          es: `Elegante parque paisajístico del siglo XIX al este del centro, con un estanque sinuoso y grandes plátanos. Los perros com trela son bienvenidos em los céspedes, y el Theehuis al sur acoge a los clientes de cuatro patas em su terraza.`,
-          pt: `Elegante parque paisajístico do século XIX al este do centro, com um estanque sinuoso e grandes plátanos. Os cães com trela são bem-vindos nos céspedes, e o Theehuis al sur acoge aos clientes de quatro patas em su esplanada.`,
+          es: `Elegante parque paisajístico del siglo XIX al este del centro, con un estanque sinuoso y grandes plátanos. Los perros con correa son bienvenidos en los céspedes, y el Theehuis al sur acoge a los clientes de cuatro patas en su terraza.`,
+          pt: `Elegante parque paisagístico do século XIX a leste do centro, com um lago sinuoso e grandes plátanos. Os cães com trela são bem-vindos nos relvados, e o Theehuis a sul acolhe os clientes de quatro patas na sua esplanada.`,
         },
       },
     ],
     petTips: {
       fr: [
         `Bus et trams urbains U-OV gratuits pour les chiens, pas besoin de billet supplémentaire, juste une laisse courte aux heures de pointe.`,
-        `Pour les trains NS au départ d'Utrecht Centraal, achetez le Dagkaart Hond (3,50 €) à un automate jaune avant de monter, chiens em sac de transport gratuits.`,
-        `Les werven (quais bas) de l'Oudegracht sont pavés et étroits ; tenez la laisse courte et écartez-vous des cyclistes em sortant des passages voûtés.`,
-        `Au Strijkviertelplas, baignade des chiens autorisée du 1er septembre au 1er avril uniquement, interdite em saison de baignade humaine (avril–août).`,
+        `Pour les trains NS au départ d'Utrecht Centraal, achetez le Dagkaart Hond (3,50 €) à un automate jaune avant de monter, chiens en sac de transport gratuits.`,
+        `Les werven (quais bas) de l'Oudegracht sont pavés et étroits ; tenez la laisse courte et écartez-vous des cyclistes en sortant des passages voûtés.`,
+        `Au Strijkviertelplas, baignade des chiens autorisée du 1er septembre au 1er avril uniquement, interdite en saison de baignade humaine (avril–août).`,
         `Numéro central d'urgence vétérinaire : 0900-2223000 (Spoedkliniek Yalelaan, université). Enregistrez-le avant l'arrivée.`,
       ],
       en: [
@@ -43858,27 +43858,27 @@ const cityContent: Record<string, CityContent> = {
         `central emergency vet number: 0900-2223000 (Spoedkliniek on Yalelaan, university). Save it before arrival.`,
       ],
       es: [
-        `Los autobuses y tranvías urbanos U-OV son gratis para perros: no hace falta billete extra, solo trela curta em horas punta.`,
-        `Para los trenes NS desde Utrecht Centraal, compra el Dagkaart Hond (3,50 €) em una máquina amarilla antes de subir; los perros em transportín viajan gratis.`,
-        `Los werven (muelles bajos) de a Oudegracht son adoquinados y estreitos: lleva la trela curta y apártate al paso de bicis que salen dos pasajes abovedados.`,
-        `em el Strijkviertelplas, el baño de perros solo se permite del 1 de septiembre ao 1 de abril, prohibido em temporada de baño humano (abril-agosto).`,
-        `número central de urgencias veterinarias: 0900-2223000 (Spoedkliniek em Yalelaan, universidad). Guárdalo antes de llegar.`,
+        `Los autobuses y tranvías urbanos U-OV son gratis para perros: no hace falta billete extra, solo correa corta en horas punta.`,
+        `Para los trenes NS desde Utrecht Centraal, compra el Dagkaart Hond (3,50 €) en una máquina amarilla antes de subir; los perros en transportín viajan gratis.`,
+        `Los werven (muelles bajos) del Oudegracht son adoquinados y estrechos: lleva la correa corta y apártate al paso de las bicis que salen de los pasajes abovedados.`,
+        `En el Strijkviertelplas, el baño de perros solo se permite del 1 de septiembre al 1 de abril, prohibido en temporada de baño humano (abril-agosto).`,
+        `Número central de urgencias veterinarias: 0900-2223000 (Spoedkliniek en Yalelaan, universidad). Guárdalo antes de llegar.`,
       ],
       pt: [
-        `Os autocarros e elétricos urbanos U-OV são grátis para cães: no hace falta bilhete extra, só trela curta em horas punta.`,
-        `Para os comboios NS a partir de Utrecht Centraal, compra o Dagkaart Hond (3,50 €) numa máquina amarela antes de subir; os cães em transportadora viajan grátis.`,
-        `Os werven (muelles bajos) da Oudegracht são adoquinados e estreitos: lleva a trela curta e apártate al paso de bicis que salen dois pasajes abovedados.`,
-        `No Strijkviertelplas, o banho de cães só se permite do 1 de setembro ao 1 de abril, prohibido em temporada de banho humano (abril-agosto).`,
-        `número central de urgências veterinárias: 0900-2223000 (Spoedkliniek em Yalelaan, universidade). Guárdalo antes de chegar.`,
+        `Os autocarros e elétricos urbanos U-OV são grátis para cães: não é preciso bilhete extra, apenas trela curta nas horas de ponta.`,
+        `Para os comboios NS a partir de Utrecht Centraal, compre o Dagkaart Hond (3,50 €) numa máquina amarela antes de embarcar; os cães em transportadora viajam grátis.`,
+        `Os werven (cais baixos) do Oudegracht são de calçada e estreitos: mantenha a trela curta e desvie-se à passagem das bicicletas que saem das passagens abobadadas.`,
+        `No Strijkviertelplas, o banho de cães só é permitido de 1 de setembro a 1 de abril, proibido na época balnear (abril-agosto).`,
+        `Número central de urgências veterinárias: 0900-2223000 (Spoedkliniek em Yalelaan, universidade). Guarde-o antes de chegar.`,
       ],
     },
     practicalInfo: {
       fr: [
-        `Passeport européen pour animaux et vaccin antirabique em cours requis dans tous les hôtels pet-friendly au check-in.`,
+        `Passeport européen pour animaux et vaccin antirabique en cours requis dans tous les hôtels pet-friendly au check-in.`,
         `Laisse obligatoire dans tout l'espace public hors losloopgebieden balisés ; les amendes existent et sont appliquées dans le centre.`,
         `Domtoren, Centraal Museum, Spoorwegmuseum et Miffy Museum n'admettent que les chiens d'assistance, réservez un Pawshake ou un Petbnb si besoin de visiter.`,
         `La Spoedkliniek hors horaires (Yalelaan, De Uithof) est l'urgence vétérinaire centrale 24h/24 ; appelez le 0900-2223000 avant de partir.`,
-        `Aéroport le plus proche : Schiphol (AMS), train direct depuis Utrecht Centraal en 30 min, chiens em sac gratuits, plus grands chiens avec Dagkaart Hond.`,
+        `Aéroport le plus proche : Schiphol (AMS), train direct depuis Utrecht Centraal en 30 min, chiens en sac gratuits, plus grands chiens avec Dagkaart Hond.`,
       ],
       en: [
         `EU pet passport and current rabies vaccination required at check-in in every pet-friendly hotel.`,
@@ -43888,18 +43888,18 @@ const cityContent: Record<string, CityContent> = {
         `Closest airport: Schiphol (AMS), direct train from Utrecht Centraal in 30 minutes; carrier dogs free, larger dogs with the Dagkaart Hond.`,
       ],
       es: [
-        `passaporte europeu de mascota y vacuna antirrábica vigente requeridos em el check-in de todos los hoteles pet-friendly.`,
-        `trela obrigatória em todo o espacio público fuera dos losloopgebieden señalizados: las multas existen y se aplican em o centro.`,
+        `Pasaporte europeo de mascota y vacuna antirrábica vigente requeridos en el check-in de todos los hoteles pet-friendly.`,
+        `Correa obligatoria en todo el espacio público fuera de los losloopgebieden señalizados: las multas existen y se aplican en el centro.`,
         `Domtoren, Centraal Museum, Spoorwegmuseum y Miffy Museum solo admiten perros de asistencia: reserva un cuidador Pawshake o Petbnb si necesitas visitar.`,
-        `La Spoedkliniek fuera de horario (Yalelaan, De Uithof) es la clínica central de urgencias 24 h; llama ao 0900-2223000 antes de ir.`,
-        `Aeropuerto más cercano: Schiphol (AMS), tren directo desde Utrecht Centraal en 30 min; perros em transportín gratis, perros más grandes con Dagkaart Hond.`,
+        `La Spoedkliniek fuera de horario (Yalelaan, De Uithof) es la clínica central de urgencias 24 h; llama al 0900-2223000 antes de ir.`,
+        `Aeropuerto más cercano: Schiphol (AMS), tren directo desde Utrecht Centraal en 30 min; perros en transportín gratis, perros más grandes con Dagkaart Hond.`,
       ],
       pt: [
-        `passaporte europeu de animal e vacuna antirrábica vigente requeridos no check-in de todos os hotéis pet-friendly.`,
-        `trela obrigatória em todo o espacio público fora dos losloopgebieden señalizados: as multas existen e se aplican no centro.`,
-        `Domtoren, Centraal Museum, Spoorwegmuseum e Miffy Museum só admiten cães de assistência: reserva um cuidador Pawshake o Petbnb si necesitas visitar.`,
-        `A Spoedkliniek fora de horario (Yalelaan, De Uithof) é a clínica central de urgências 24 h; chama ao 0900-2223000 antes de ir.`,
-        `Aeroporto mais cercano: Schiphol (AMS), comboio directo a partir de Utrecht Centraal en 30 min; cães em transportadora grátis, cães mais grandes con Dagkaart Hond.`,
+        `Passaporte europeu de animal e vacina antirrábica válida exigidos no check-in de todos os hotéis pet-friendly.`,
+        `Trela obrigatória em todo o espaço público fora dos losloopgebieden sinalizados: as multas existem e são aplicadas no centro.`,
+        `Domtoren, Centraal Museum, Spoorwegmuseum e Miffy Museum só admitem cães de assistência: reserve um dog sitter Pawshake ou Petbnb se precisar de visitar.`,
+        `A Spoedkliniek fora de horário (Yalelaan, De Uithof) é a clínica central de urgências 24 h; ligue para o 0900-2223000 antes de ir.`,
+        `Aeroporto mais próximo: Schiphol (AMS), comboio directo a partir de Utrecht Centraal em 30 min; cães em transportadora grátis, cães maiores com Dagkaart Hond.`,
       ],
     },
   },

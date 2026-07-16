@@ -80,7 +80,9 @@ while ((m = keyRe.exec(src))) {
 }
 
 const wordCount = (text, words) => {
-  const t = ' ' + text.toLowerCase() + ' '
+  // Strip URLs first: a domain like "pawshake.com" or "zaragoza.es/animales"
+  // otherwise makes the ".com"/".es" tail match the "com" marker as a word.
+  const t = ' ' + text.toLowerCase().replace(/\b[\w-]+\.[a-z]{2,}(\/[\w./-]*)?/g, ' ') + ' '
   const out = {}
   for (const w of words) {
     const c = (t.match(new RegExp(`(?<![\\wàâäéèêëïîôöùûüçñ])${w}(?![\\wàâäéèêëïîôöùûüçñ])`, 'g')) || []).length

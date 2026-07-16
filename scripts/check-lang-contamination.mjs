@@ -45,14 +45,34 @@ const slugAt = (pos) => {
   return name
 }
 
-// Capture every fr/es/pt value (backtick string or [ ... ] array) with its slug
+// Capture every fr/es/pt value with its slug. Values come in three shapes:
+//   fr: `backtick string`   fr: 'single-quoted string'   fr: [ ...array... ]
+// Single quotes matter: many older entries use them, and an earlier version of
+// this scanner only read backticks/arrays, so it silently reported those
+// entries as clean while their prose was still macaronic.
 const entries = {}
-const keyRe = /\b(fr|en|es|pt):\s*(`|\[)/g
+const keyRe = /\b(fr|en|es|pt):\s*(`|'|\[)/g
 while ((m = keyRe.exec(src))) {
   const loc = m[1]
   const opener = m[2]
   const start = keyRe.lastIndex
-  const end = opener === '`' ? src.indexOf('`', start) : src.indexOf(']', start)
+  let end
+  if (opener === '`') {
+    end = src.indexOf('`', start)
+  } else if (opener === "'") {
+    // walk to the closing quote, skipping escaped \'
+    let i = start
+    for (;;) {
+      const q = src.indexOf("'", i)
+      if (q === -1) break
+      if (src[q - 1] === '\\') { i = q + 1; continue }
+      end = q
+      break
+    }
+  } else {
+    end = src.indexOf(']', start)
+  }
+  if (end === undefined || end === -1) continue
   const slug = slugAt(m.index)
   if (!slug) continue
   ;(entries[slug] ||= {})

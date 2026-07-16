@@ -14714,7 +14714,7 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🌊',
         petFriendly: true,
         desc: {
-          fr: 'Les quais de l\'Arno qui traversent Florence sont la promenade vespérale par excellence. Lumière dorée sur le Ponte Vecchio, terrasses animées et chiens em laisse partout. La passeggiata florentine se fait ici chaque soir.',
+          fr: 'Les quais de l\'Arno qui traversent Florence sont la promenade vespérale par excellence. Lumière dorée sur le Ponte Vecchio, terrasses animées et chiens en laisse partout. La passeggiata florentine se fait ici chaque soir.',
           en: 'The Arno quaysides through Florence are the quintessential evening walk. Golden light on the Ponte Vecchio, lively terraces and dogs on leads everywhere. Florence\'s passeggiata happens here every evening.',
           es: 'Los paseos junto al Arno a través de Florencia son el paseo vespertino por excelencia. Luz dorada sobre el Ponte Vecchio, terrazas animadas y perros con correa por todas partes. La passeggiata florentina tiene lugar aquí cada tarde.',
           pt: 'As margens do Arno que atravessam Florença são o passeio vespertino por excelência. Luz dourada sobre o Ponte Vecchio, esplanadas animadas e cães à trela por todo o lado. A passeggiata florentina acontece aqui todas as tardes.',
@@ -29661,7 +29661,7 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🗿',
         petFriendly: true,
         desc: {
-          fr: 'Parc de 25 hectares perché au-dessus du fjord, jalonné de 45 sculptures signées Rodin, Dalí ou Louise Bourgeois. Les chiens em laisse sont admis sur tous les chemins, et le belvédère près de la Vénus de Dalí offre la vue de carte postale sur la ville.',
+          fr: 'Parc de 25 hectares perché au-dessus du fjord, jalonné de 45 sculptures signées Rodin, Dalí ou Louise Bourgeois. Les chiens en laisse sont admis sur tous les chemins, et le belvédère près de la Vénus de Dalí offre la vue de carte postale sur la ville.',
           en: 'A 25-hectare hillside park above the fjord with 45 sculptures by Rodin, Dalí and Louise Bourgeois. Dogs on leash are welcome on all trails, and the viewpoint by Salvador Dalí\'s Venus gives the classic skyline photo.',
           es: 'Parque de 25 hectáreas em una ladera sobre el fiordo con 45 esculturas de Rodin, Dalí o Louise Bourgeois. Los perros com trela son bienvenidos em todos los senderos, y el mirador junto a la Venus de Dalí regala la foto clásica del skyline.',
           pt: 'Parque de 25 hectáreas numa ladera sobre o fiordo com 45 esculturas de Rodin, Dalí o Louise Bourgeois. Os cães com trela são bem-vindos em todos os trilhos, e o mirador junto a Venus de Dalí regala a foto clásica do skyline.',
@@ -29683,7 +29683,7 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🗽',
         petFriendly: true,
         desc: {
-          fr: 'Plus grand parc au monde consacré à un seul sculpteur, avec 212 bronzes et granits de Gustav Vigeland répartis sur les 45 hectares du Frognerparken. Les chiens em laisse sont admis partout à l\'extérieur, et les pelouses au sud du Monolithe accueillent volontiers les pique-niques accompagnés.',
+          fr: 'Plus grand parc au monde consacré à un seul sculpteur, avec 212 bronzes et granits de Gustav Vigeland répartis sur les 45 hectares du Frognerparken. Les chiens en laisse sont admis partout à l\'extérieur, et les pelouses au sud du Monolithe accueillent volontiers les pique-niques accompagnés.',
           en: 'The world\'s largest sculpture park by a single artist, with 212 Gustav Vigeland bronzes and granites set in the 45-hectare Frognerparken. Dogs on leash are welcome everywhere outdoors, and the lawns south of the Monolith are a popular picnic spot with them.',
           es: 'El mayor parque escultórico del mundo dedicado a un solo artista, con 212 bronces y granitos de Gustav Vigeland em las 45 hectáreas de Frognerparken. Los perros com trela son bienvenidos em todo o exterior, y los céspedes al sur del Monolito son un clásico para merendar con ellos.',
           pt: 'O mayor parque escultórico do mundo dedicado a um só artista, com 212 bronces e granitos de Gustav Vigeland nas 45 hectáreas de Frognerparken. Os cães com trela são bem-vindos em todo o exterior, e os céspedes a sul do Monolito são um clásico para merendar com ellos.',
@@ -29694,7 +29694,7 @@ const cityContent: Record<string, CityContent> = {
         emoji: '🏰',
         petFriendly: true,
         desc: {
-          fr: 'Forteresse médiévale commencée vers 1290 et encore siège militaire actif, perchée au-dessus du fjord d\'Oslo. Les chiens em laisse peuvent parcourir gratuitement remparts, cours et promenade du front de mer, mais pas le musée du château.',
+          fr: 'Forteresse médiévale commencée vers 1290 et encore siège militaire actif, perchée au-dessus du fjord d\'Oslo. Les chiens en laisse peuvent parcourir gratuitement remparts, cours et promenade du front de mer, mais pas le musée du château.',
           en: 'A medieval fortress begun around 1290 and still an active military headquarters, perched over the Oslofjord. Leashed dogs may walk the ramparts, courtyards and waterfront promenade free of charge, though not inside the castle museum.',
           es: 'Fortaleza medieval iniciada hacia 1290 y todavía cuartel general militar, asomada al fiordo de Oslo. Los perros com trela pueden recorrer gratis murallas, patios y paseo marítimo, aunque no el museo del castillo.',
           pt: 'Fortaleza medieval iniciada para 1290 e todavía cuartel general militar, asomada al fiordo de Oslo. Os cães com trela podem recorrer grátis muralhas, patios e passeio marítimo, embora no o museu do castelo.',
@@ -29718,7 +29718,7 @@ const cityContent: Record<string, CityContent> = {
         'Respectez la båndtvang : du 1er avril au 20 août la laisse est obligatoire hors enclos, Nordmarka comprise, sous peine de 2 000 NOK d\'amende.',
         'L\'urgence vétérinaire 24h/24 est AniCura Oslo Dyresykehus, Ensjøveien 14 (+47 22 68 35 00) ; gardez le passeport européen sous la main.',
         'Prévoyez des sacs : Oslo verbalise 1 600 NOK les crottes non ramassées et les gardes patrouillent activement dans les parcs centraux.',
-        'em hiver, cirez les coussinets avant la sortie, Oslo épand un mélange de gravier et de saumure qui fend les pattes à -15 °C.',
+        'En hiver, cirez les coussinets avant la sortie, Oslo épand un mélange de gravier et de saumure qui fend les pattes à -15 °C.',
       ],
       en: [
         'Buy a child-fare Ruter ticket for your dog on metro, tram and bus, no ticket needed on ferries to Bygdøy or the islands.',
@@ -29744,11 +29744,11 @@ const cityContent: Record<string, CityContent> = {
     },
     practicalInfo: {
       fr: [
-        'L\'aéroport Oslo Gardermoen (OSL) est à 19 min du centre par le Flytoget ; les chiens voyagent gratuitement em caisse ou avec un billet à 50 %.',
+        'L\'aéroport Oslo Gardermoen (OSL) est à 19 min du centre par le Flytoget ; les chiens voyagent gratuitement en caisse ou avec un billet à 50 %.',
         'Meilleures saisons : septembre-octobre pour les randonnées sans laisse, février-mars pour le skijoring et les lacs gelés.',
         'Urgence vétérinaire 24h/24 : AniCura Dyresykehus, Ensjøveien 14, +47 22 68 35 00.',
         'Le ferry de Bygdøy (ligne B9, avril-octobre) au départ de Rådhusbrygge 3 embarque les chiens gratuitement et dessert musées et plages en 15 min.',
-        'L\'eau du robinet vient directement du lac Maridalsvannet via Oset, parfaitement potable partout, inutile d\'acheter de l\'eau em bouteille.',
+        'L\'eau du robinet vient directement du lac Maridalsvannet via Oset, parfaitement potable partout, inutile d\'acheter de l\'eau en bouteille.',
       ],
       en: [
         'Oslo Lufthavn Gardermoen (OSL) is 19 min from the centre on the Flytoget airport express; dogs travel free in carriers or with a 50 % ticket.',
@@ -46700,7 +46700,7 @@ const cityContent: Record<string, CityContent> = {
         pt: `O parque com a maior zona canina vedada de Zaragoza, sem trela o ano inteiro, acesso livre 24/7. Na margem norte do Ebro, a 10 min a pé do Pilar.`,
       }},
       { name: 'La Magdalena Quarter', emoji: '🍷', petFriendly: true, desc: {
-        fr: `Quartier de tapas médiéval, ruelles pavées, plus de 30 bars à tapas dog-friendly, ambiance bohème. Ouvert 24h/24, dog-friendly partout em extérieur.`,
+        fr: `Quartier de tapas médiéval, ruelles pavées, plus de 30 bars à tapas dog-friendly, ambiance bohème. Ouvert 24h/24, dog-friendly partout en extérieur.`,
         en: `Medieval tapas quarter, cobbled lanes, 30+ dog-friendly tapas bars, bohemian atmosphere. Open 24/7, dog-friendly throughout outdoors.`,
         es: `Barrio medieval de tapas, callejones adoquinados, más de 30 bares de tapas dog-friendly, ambiente bohemio. Abierto 24/7, dog-friendly em todo o exterior.`,
         pt: `Bairro medieval de tapas, ruelas adoquinados, mais de 30 bares de tapas pet-friendly, ambiente bohemio. Aberto 24/7, pet-friendly em todo o exterior.`,
@@ -46709,8 +46709,8 @@ const cityContent: Record<string, CityContent> = {
     petTips: {
       fr: [
         `Zaragoza compte 126 zones sans laisse municipales, l'une des densités pet-friendly les plus élevées d'Espagne. Carte officielle sur zaragoza.es/animales.`,
-        `Bus urbains AUZSA et tram Línea 1 : chiens em laisse + muselière exigée pour chiens moyens/grands ; petits chiens em cage gratuits.`,
-        `Trains AVE/Avant Renfe : chiens petits em cage gratuits jusqu'à 10 kg ; les grands chiens nécessitent un billet supplémentaire et une muselière.`,
+        `Bus urbains AUZSA et tram Línea 1 : chiens en laisse + muselière exigée pour chiens moyens/grands ; petits chiens en cage gratuits.`,
+        `Trains AVE/Avant Renfe : petits chiens en cage gratuits jusqu'à 10 kg ; les grands chiens nécessitent un billet supplémentaire et une muselière.`,
         `Vétérinaire d'urgence 24h/24 : AniCura Emvet à Zaragoza centre (+34 976 22 36 25), hôpital de référence pour toute la région d'Aragon.`,
         `Chaleur estivale élevée (35-40 °C juillet-août), limitez les promenades canines avant 9h et après 20h ; le sol urbain peut atteindre 50 °C.`,
       ],
@@ -46738,9 +46738,9 @@ const cityContent: Record<string, CityContent> = {
     },
     practicalInfo: {
       fr: [
-        `Espagne dans l'UE et Schengen : passeport européen + vaccin antirabique em cours + puce ISO suffisent depuis tout pays UE.`,
-        `Trains AVE Renfe directs : Madrid 1h15, Barcelone 1h30, Valencia 4h, Séville 3h30, petits chiens em cage gratuits, grands avec billet supplémentaire + muselière.`,
-        `Aéroport de Zaragoza (ZAZ) à 9 km à l'ouest, accessible em bus 501 (25 min). Liaisons low-cost Ryanair, Volotea vers Londres, Paris, Milan, Bruxelles.`,
+        `Espagne dans l'UE et Schengen : passeport européen + vaccin antirabique en cours + puce ISO suffisent depuis tout pays UE.`,
+        `Trains AVE Renfe directs : Madrid 1h15, Barcelone 1h30, Valencia 4h, Séville 3h30, petits chiens en cage gratuits, grands avec billet supplémentaire + muselière.`,
+        `Aéroport de Zaragoza (ZAZ) à 9 km à l'ouest, accessible en bus 501 (25 min). Liaisons low-cost Ryanair, Volotea vers Londres, Paris, Milan, Bruxelles.`,
         `Devise : euro. Budget journalier dog-friendly : 50-75 €/jour hors hébergement, parmi les plus bas d'Espagne après Cordoue et Grenade.`,
         `Festivals à éviter avec un chien anxieux : Fiestas del Pilar (semaine du 12 octobre, 2 millions de visiteurs), Cincomarzada (5 mars), Semaine Sainte.`,
       ],

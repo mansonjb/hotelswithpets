@@ -29641,8 +29641,8 @@ const cityContent: Record<string, CityContent> = {
     history: {
       fr: `Fondée vers 1040 au fond de son fjord, Oslo fut reconstruite par Christian IV après l'incendie de 1624 sous le nom de Christiania, avant de reprendre son nom actuel en 1925. Peuplée d'environ 710 000 habitants, la capitale norvégienne est encerclée par la forêt de Marka et affiche l'un des taux de possession canine les plus élevés d'Europe, avec près de 75 000 chiens enregistrés. Les Norvégiens considèrent leurs chiens comme de la famille : la loi båndtvang impose la laisse du 1er avril au 20 août pour protéger faune et moutons, mais hors saison les sentiers de Nordmarka deviennent un paradis sans laisse. Oslo compte des dizaines de hundeparker clôturés, Torshovdalen, Sofienbergparken, St. Hanshaugen, et les chiens voyagent pour un tarif enfant dans tous les transports. Cafés, hôtels et certains musées les accueillent ; ramasser est obligatoire, sous peine d'une amende de 1 600 NOK.`,
       en: `Oslo was founded around 1040 at the head of its fjord, rebuilt by Christian IV after the 1624 fire as Christiania, and renamed Oslo in 1925. The capital of roughly 710,000 residents is wrapped by the Marka forest belt and has one of Europe's highest dog-ownership rates, with about 75,000 registered dogs inside the municipality. Norwegians treat dogs as family: the nationwide båndtvang law requires leashes from 1 April to 20 August to protect wildlife and grazing sheep, but outside that window the Nordmarka trails become a paradise of off-leash hiking. Oslo has dozens of hundeparker (fenced dog parks), Torshovdalen, Sofienbergparken and St. Hanshaugen among the best, and dogs ride trams, metro, buses and ferries for a child-fare ticket. Cafés, hotels and even some museums welcome them; cleaning up after your dog is strictly enforced with 1 600 NOK fines.`,
-      es: `Oslo nació hacia 1040 em el fondo de su fiordo, fue reconstruida por Cristián IV tras o incendio de 1624 bajo el nombre de Christiania y recuperó o actual en 1925. La capital, de unos 710.000 habitantes, está rodeada por el cinturón forestal de Marka y registra una das tasas de perros por habitante más altas de Europa: unos 75.000 censados. Los noruegos tratan al perro como familia: la ley båndtvang obliga a llevarlo atado del 1 de abril ao 20 de agosto para proteger fauna y ovejas, pero fuera de esas fechas los senderos de Nordmarka se convierten em paraíso sin trela. Hay decenas de hundeparker vallados, Torshovdalen, Sofienbergparken, St. Hanshaugen, y los perros pagan tarifa infantil em tranvía, metro, autobús y ferry. Cafés, hoteles y algunos museos los admiten; no recoger sus deposiciones cuesta 1.600 NOK de multa.`,
-      pt: `Oslo nació para 1040 no fondo de su fiordo, foi reconstruida por Cristián IV tras o incendio de 1624 sob o nombre de Christiania e recuperó o actual em 1925. A capital, de uns 710.000 habitantes, está rodeada pelo cinturón forestal de Marka e registra uma das tasas de cães por habitante mais altas de Europa: uns 75.000 censados. Os noruegueses tratan al cão como familia: a lei båndtvang obliga a llevarlo atado do 1 de abril ao 20 de agosto para proteger fauna e ovejas, mas fora de essas fechas os trilhos de Nordmarka tornam-se em paraíso sem trela. Hay decenas de hundeparker vallados, Torshovdalen, Sofienbergparken, St. Hanshaugen, e os cães pagan tarifa infantil no elétrico, metro, autocarro e ferry. Cafés, hotéis e algunos museus os admitem; no recoger os seus deposiciones custa 1.600 NOK de multa.`,
+      es: `Oslo nació hacia 1040 en el fondo de su fiordo, fue reconstruida por Cristián IV tras el incendio de 1624 con el nombre de Christiania y recuperó el actual en 1925. La capital, de unos 710.000 habitantes, está rodeada por el cinturón forestal de Marka y registra una de las tasas de perros por habitante más altas de Europa: unos 75.000 censados. Los noruegos tratan al perro como familia: la ley båndtvang obliga a llevarlo atado del 1 de abril al 20 de agosto para proteger fauna y ovejas, pero fuera de esas fechas los senderos de Nordmarka se convierten en un paraíso sin correa. Hay decenas de hundeparker vallados, Torshovdalen, Sofienbergparken, St. Hanshaugen, y los perros pagan tarifa infantil en tranvía, metro, autobús y ferry. Cafés, hoteles y algunos museos los admiten; no recoger sus deposiciones cuesta 1.600 NOK de multa.`,
+      pt: `Oslo nasceu por volta de 1040 no fundo do seu fiorde, foi reconstruída por Cristiano IV após o incêndio de 1624 com o nome de Christiania e recuperou o atual em 1925. A capital, de cerca de 710.000 habitantes, está rodeada pelo cinturão florestal de Marka e regista uma das taxas de cães por habitante mais altas da Europa: cerca de 75.000 registados. Os noruegueses tratam o cão como família: a lei båndtvang obriga a trazê-lo à trela de 1 de abril a 20 de agosto para proteger a fauna e as ovelhas, mas fora dessas datas os trilhos de Nordmarka tornam-se um paraíso sem trela. Há dezenas de hundeparker vedados, Torshovdalen, Sofienbergparken, St. Hanshaugen, e os cães pagam tarifa infantil no elétrico, metro, autocarro e ferry. Cafés, hotéis e alguns museus aceitam-nos; não recolher os seus dejetos custa 1.600 NOK de multa.`,
     },
     sights: [
       {
@@ -29652,8 +29652,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Réserve forestière de 430 km² accessible directement par la ligne 1 du métro jusqu\'à Frognerseteren. Hors période de båndtvang (21 août-31 mars), les chiens y courent sans laisse sur des centaines de kilomètres de sentiers, et l\'hiver les pistes balisées intègrent des couloirs pour mushers et skijoring.',
           en: 'A 430 km² forest reserve reached directly by metro line 1 to Frognerseteren. Outside båndtvang season (21 August-31 March) dogs can roam off-leash on hundreds of kilometres of trails, and in winter marked ski tracks include parallel lanes for mushers and skijoring.',
-          es: 'Reserva forestal de 430 km² acessível directamente por la línea 1 del metro hasta Frognerseteren. Fuera de la temporada de båndtvang (21 agosto-31 marzo), los perros corren sueltos por cientos de kilómetros de senderos, y em invierno las pistas señalizadas cuentan con carriles para mushers y skijoring.',
-          pt: 'Reserva forestal de 430 km² acessível directamente pela línea 1 do metro até Frognerseteren. Fora da temporada de båndtvang (21 agosto-31 março), os cães corren sueltos por cientos de kilómetros de trilhos, e em inverno as pistas senhalizadas têm com carriles para mushers e skijoring.',
+          es: 'Reserva forestal de 430 km² accesible directamente por la línea 1 del metro hasta Frognerseteren. Fuera de la temporada de båndtvang (21 agosto-31 marzo), los perros corren sueltos por cientos de kilómetros de senderos, y en invierno las pistas señalizadas cuentan con carriles para mushers y skijoring.',
+          pt: 'Reserva florestal de 430 km² acessível diretamente pela linha 1 do metro até Frognerseteren. Fora da temporada de båndtvang (21 agosto-31 março), os cães correm à solta por centenas de quilómetros de trilhos, e no inverno as pistas sinalizadas têm corredores para mushers e skijoring.',
         },
       },
       {
@@ -29663,8 +29663,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Parc de 25 hectares perché au-dessus du fjord, jalonné de 45 sculptures signées Rodin, Dalí ou Louise Bourgeois. Les chiens en laisse sont admis sur tous les chemins, et le belvédère près de la Vénus de Dalí offre la vue de carte postale sur la ville.',
           en: 'A 25-hectare hillside park above the fjord with 45 sculptures by Rodin, Dalí and Louise Bourgeois. Dogs on leash are welcome on all trails, and the viewpoint by Salvador Dalí\'s Venus gives the classic skyline photo.',
-          es: 'Parque de 25 hectáreas em una ladera sobre el fiordo con 45 esculturas de Rodin, Dalí o Louise Bourgeois. Los perros com trela son bienvenidos em todos los senderos, y el mirador junto a la Venus de Dalí regala la foto clásica del skyline.',
-          pt: 'Parque de 25 hectáreas numa ladera sobre o fiordo com 45 esculturas de Rodin, Dalí o Louise Bourgeois. Os cães com trela são bem-vindos em todos os trilhos, e o mirador junto a Venus de Dalí regala a foto clásica do skyline.',
+          es: 'Parque de 25 hectáreas en una ladera sobre el fiordo con 45 esculturas de Rodin, Dalí o Louise Bourgeois. Los perros con correa son bienvenidos en todos los senderos, y el mirador junto a la Venus de Dalí regala la foto clásica del skyline.',
+          pt: 'Parque de 25 hectares numa encosta sobre o fiorde com 45 esculturas de Rodin, Dalí ou Louise Bourgeois. Os cães à trela são bem-vindos em todos os trilhos, e o miradouro junto à Vénus de Dalí oferece a foto clássica do skyline.',
         },
       },
       {
@@ -29674,8 +29674,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Promenade portuaire du quartier de Bjørvika avec sa piscine flottante d\'eau de mer. Les chiens n\'ont pas accès au bassin, mais les marches de Sørengkaia juste à côté leur permettent de patauger dans le fjord ; l\'été, toute la promenade devient un défilé animé de badauds et de chiens.',
           en: 'A harbour-front boardwalk in the Bjørvika district with a floating seawater pool. Dogs cannot enter the swim platform but the adjacent Sørengkaia steps let them paddle in the fjord, and the whole promenade is a lively people-and-dog parade in summer.',
-          es: 'Paseo portuario del barrio de Bjørvika con una piscina flotante de agua de mar. Los perros no pueden subir al solárium, pero las escaleras contiguas de Sørengkaia les permiten chapotear em el fiordo; em verano el paseo es un desfile animado de gente y canes.',
-          pt: 'Passeio portuario do bairro de Bjørvika com uma piscina flotante de água de mar. Os cães no podem subir al solárium, mas as escaleras contiguas de Sørengkaia les permiten chapotear no fiordo; em verão o passeio é um desfile animado de gente e canes.',
+          es: 'Paseo portuario del barrio de Bjørvika con una piscina flotante de agua de mar. Los perros no pueden subir al solárium, pero las escaleras contiguas de Sørengkaia les permiten chapotear en el fiordo; en verano el paseo es un desfile animado de gente y canes.',
+          pt: 'Passeio portuário do bairro de Bjørvika com uma piscina flutuante de água do mar. Os cães não podem subir ao solário, mas as escadas contíguas de Sørengkaia deixam-nos chapinhar no fiorde; no verão o passeio é um desfile animado de gente e cães.',
         },
       },
       {
@@ -29685,8 +29685,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Plus grand parc au monde consacré à un seul sculpteur, avec 212 bronzes et granits de Gustav Vigeland répartis sur les 45 hectares du Frognerparken. Les chiens en laisse sont admis partout à l\'extérieur, et les pelouses au sud du Monolithe accueillent volontiers les pique-niques accompagnés.',
           en: 'The world\'s largest sculpture park by a single artist, with 212 Gustav Vigeland bronzes and granites set in the 45-hectare Frognerparken. Dogs on leash are welcome everywhere outdoors, and the lawns south of the Monolith are a popular picnic spot with them.',
-          es: 'El mayor parque escultórico del mundo dedicado a un solo artista, con 212 bronces y granitos de Gustav Vigeland em las 45 hectáreas de Frognerparken. Los perros com trela son bienvenidos em todo o exterior, y los céspedes al sur del Monolito son un clásico para merendar con ellos.',
-          pt: 'O mayor parque escultórico do mundo dedicado a um só artista, com 212 bronces e granitos de Gustav Vigeland nas 45 hectáreas de Frognerparken. Os cães com trela são bem-vindos em todo o exterior, e os céspedes a sul do Monolito são um clásico para merendar com ellos.',
+          es: 'El mayor parque escultórico del mundo dedicado a un solo artista, con 212 bronces y granitos de Gustav Vigeland en las 45 hectáreas de Frognerparken. Los perros con correa son bienvenidos en todo el exterior, y los céspedes al sur del Monolito son un clásico para merendar con ellos.',
+          pt: 'O maior parque escultórico do mundo dedicado a um só artista, com 212 bronzes e granitos de Gustav Vigeland nos 45 hectares de Frognerparken. Os cães à trela são bem-vindos em todo o exterior, e os relvados a sul do Monólito são um clássico para piquenique com eles.',
         },
       },
       {
@@ -29696,8 +29696,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Forteresse médiévale commencée vers 1290 et encore siège militaire actif, perchée au-dessus du fjord d\'Oslo. Les chiens en laisse peuvent parcourir gratuitement remparts, cours et promenade du front de mer, mais pas le musée du château.',
           en: 'A medieval fortress begun around 1290 and still an active military headquarters, perched over the Oslofjord. Leashed dogs may walk the ramparts, courtyards and waterfront promenade free of charge, though not inside the castle museum.',
-          es: 'Fortaleza medieval iniciada hacia 1290 y todavía cuartel general militar, asomada al fiordo de Oslo. Los perros com trela pueden recorrer gratis murallas, patios y paseo marítimo, aunque no el museo del castillo.',
-          pt: 'Fortaleza medieval iniciada para 1290 e todavía cuartel general militar, asomada al fiordo de Oslo. Os cães com trela podem recorrer grátis muralhas, patios e passeio marítimo, embora no o museu do castelo.',
+          es: 'Fortaleza medieval iniciada hacia 1290 y todavía cuartel general militar, asomada al fiordo de Oslo. Los perros con correa pueden recorrer gratis murallas, patios y paseo marítimo, aunque no el museo del castillo.',
+          pt: 'Fortaleza medieval iniciada por volta de 1290 e ainda quartel-general militar, debruçada sobre o fiorde de Oslo. Os cães à trela podem percorrer gratuitamente muralhas, pátios e passeio marítimo, embora não o museu do castelo.',
         },
       },
       {
@@ -29707,8 +29707,8 @@ const cityContent: Record<string, CityContent> = {
         desc: {
           fr: 'Quartier hipster devenu familial, jalonné de friperies, cafés vegan et librairies indépendantes. Son cœur vert, Sofienbergparken, possède un vaste enclos sans laisse clôturé qui se remplit chaque soir de chiens du quartier et de leurs maîtres.',
           en: 'Oslo\'s hipster-turned-family district lined with vintage shops, vegan cafés and independent bookstores. Its green heart, Sofienbergparken, includes a large fenced off-leash enclosure that fills up every evening with local dogs and their owners.',
-          es: 'o bairro hípster reconvertido em familiar, con tiendas vintage, cafés veganos y librerías independientes. Su pulmón verde, Sofienbergparken, tiene un amplo recinto vallado sin trela que se llena cada tarde de perros del vecindario.',
-          pt: 'O bairro hípster reconvertido em familiar, com tiendas vintage, cafés veganos e librerías independientes. Su pulmón verde, Sofienbergparken, tem um amplo recinto vallado sem trela que se llena cada tarde de cães do vecindario.',
+          es: 'El barrio hípster reconvertido en familiar, con tiendas vintage, cafés veganos y librerías independientes. Su pulmón verde, Sofienbergparken, tiene un amplio recinto vallado sin correa que se llena cada tarde de perros del vecindario.',
+          pt: 'O bairro hipster reconvertido em familiar, com lojas vintage, cafés vegan e livrarias independentes. O seu pulmão verde, Sofienbergparken, tem um amplo recinto vedado sem trela que se enche todas as tardes de cães do bairro.',
         },
       },
     ],
@@ -29728,18 +29728,18 @@ const cityContent: Record<string, CityContent> = {
         'In winter, wax your dog\'s paws before walks, Oslo uses mixed gravel and brine that cracks pads in -15 °C weather.',
       ],
       es: [
-        'Compra un billete Ruter de tarifa infantil para tu perro em metro, tranvía y autobús, em los ferris a Bygdøy y las islas viaja gratis.',
-        'Respeta la båndtvang: del 1 de abril ao 20 de agosto la trela es obrigatória fuera dos recintos vallados, Nordmarka incluida, con multas de hasta 2.000 NOK.',
-        'a urgencia veterinaria 24 h es AniCura Oslo Dyresykehus, Ensjøveien 14 (+47 22 68 35 00); ten a mano el passaporte europeu.',
+        'Compra un billete Ruter de tarifa infantil para tu perro en metro, tranvía y autobús, en los ferris a Bygdøy y las islas viaja gratis.',
+        'Respeta la båndtvang: del 1 de abril al 20 de agosto la correa es obligatoria fuera de los recintos vallados, Nordmarka incluida, con multas de hasta 2.000 NOK.',
+        'La urgencia veterinaria 24 h es AniCura Oslo Dyresykehus, Ensjøveien 14 (+47 22 68 35 00); ten a mano el pasaporte europeo.',
         'Lleva bolsas: Oslo multa con 1.600 NOK las deposiciones no recogidas y los guardas patrullan los parques céntricos.',
-        'em invierno aplica cera em las almohadillas antes de salir, Oslo echa una mezcla de grava y salmuera que agrieta las patas a -15 °C.',
+        'En invierno aplica cera en las almohadillas antes de salir, Oslo echa una mezcla de grava y salmuera que agrieta las patas a -15 °C.',
       ],
       pt: [
-        'Compra um bilhete Ruter de tarifa infantil para tu cão no metro, elétrico e autocarro, nos ferris a Bygdøy e as ilhas viaja grátis.',
-        'Respeta a båndtvang: do 1 de abril ao 20 de agosto a trela é obrigatória fora dos recintos vallados, Nordmarka incluida, con multas de até 2.000 NOK.',
-        'A urgência veterinária 24 h é AniCura Oslo Dyresykehus, Ensjøveien 14 (+47 22 68 35 00); ten a mano o passaporte europeu.',
-        'Lleva bolsas: Oslo multa con 1.600 NOK as deposiciones no recogidas e os guardas patrullan os parques céntricos.',
-        'em inverno aplica cera nas almohadillas antes de sair, Oslo echa uma mezcla de grava e salmuera que agrieta as patas a -15 °C.',
+        'Compra um bilhete Ruter de tarifa infantil para o teu cão no metro, elétrico e autocarro, nos ferries a Bygdøy e às ilhas viaja grátis.',
+        'Respeita a båndtvang: de 1 de abril a 20 de agosto a trela é obrigatória fora dos recintos vedados, Nordmarka incluída, com multas até 2.000 NOK.',
+        'A urgência veterinária 24 h é AniCura Oslo Dyresykehus, Ensjøveien 14 (+47 22 68 35 00); tem à mão o passaporte europeu.',
+        'Leva sacos: Oslo multa em 1.600 NOK os dejetos não recolhidos e os guardas patrulham os parques centrais.',
+        'No inverno aplica cera nas almofadas das patas antes de sair, Oslo espalha uma mistura de gravilha e salmoura que racha as patas a -15 °C.',
       ],
     },
     practicalInfo: {
@@ -29758,18 +29758,18 @@ const cityContent: Record<string, CityContent> = {
         'Tap water from Oset comes straight from Lake Maridalsvannet and is drinkable everywhere, no need for bottled water.',
       ],
       es: [
-        'o aeropuerto de Oslo Gardermoen (OSL) está a 19 min del centro em el tren Flytoget; los perros viajan gratis em transportín o con billete ao 50 %.',
-        'Mejores temporadas: septiembre-octubre para rutas sin trela, febrero-marzo para skijoring y lagos helados.',
+        'El aeropuerto de Oslo Gardermoen (OSL) está a 19 min del centro en el tren Flytoget; los perros viajan gratis en transportín o con billete al 50 %.',
+        'Mejores temporadas: septiembre-octubre para rutas sin correa, febrero-marzo para skijoring y lagos helados.',
         'Urgencia veterinaria 24 h: AniCura Dyresykehus, Ensjøveien 14, +47 22 68 35 00.',
         'El ferry de Bygdøy (línea B9, abril-octubre) sale de Rådhusbrygge 3, admite perros gratis y llega a museos y playas en 15 min.',
-        'o agua del grifo procede del lago Maridalsvannet vía Oset y es potable em toda a cidade, no hace falta comprar agua embotellada.',
+        'El agua del grifo procede del lago Maridalsvannet vía Oset y es potable en toda la ciudad, no hace falta comprar agua embotellada.',
       ],
       pt: [
-        'O aeroporto de Oslo Gardermoen (OSL) está a 19 min do centro no comboio Flytoget; os cães viajan grátis em transportadora o con bilhete ao 50 %.',
-        'Melhores temporadas: setembro-outubro para rutas sem trela, fevereiro-março para skijoring e lagos helados.',
+        'O aeroporto de Oslo Gardermoen (OSL) está a 19 min do centro no comboio Flytoget; os cães viajam grátis em transportadora ou com bilhete a 50 %.',
+        'Melhores épocas: setembro-outubro para caminhadas sem trela, fevereiro-março para skijoring e lagos gelados.',
         'Urgência veterinária 24 h: AniCura Dyresykehus, Ensjøveien 14, +47 22 68 35 00.',
-        'O ferry de Bygdøy (línea B9, abril-outubro) sale de Rådhusbrygge 3, admite cães grátis e llega a museus e praias en 15 min.',
-        'O água do grifo procede do lago Maridalsvannet vía Oset e é potable em toda a cidade, no hace falta comprar água embotellada.',
+        'O ferry de Bygdøy (linha B9, abril-outubro) parte de Rådhusbrygge 3, aceita cães grátis e chega a museus e praias em 15 min.',
+        'A água da torneira vem do lago Maridalsvannet via Oset e é potável em toda a cidade, não é preciso comprar água engarrafada.',
       ],
     },
   },

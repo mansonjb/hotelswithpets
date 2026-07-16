@@ -1462,6 +1462,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the flat harbour piazzetta and its dog-friendly terraces, the open-air climb past the church of San Giorgio to Castello Brown and on to the Faro di Portofino lighthouse, the leashed park trail over the headland to the abbey of San Fruttuoso, and the coastal walk to Paraggi and Santa Margherita`,
       area: `the flat harbour piazzetta at the heart of the village, the wooded Parco Naturale Regionale di Portofino behind it, the cove of Paraggi towards Santa Margherita, and the gateway towns of Santa Margherita Ligure and Rapallo where the buses and ferries run`,
     },
+    portoroz: {
+      personality: `Slovenia's Belle Époque spa resort on the Istrian coast, a flat, walkable seafront of palm promenades and grand thalasso hotels, genuinely dog-friendly outdoors even if the spa interiors are not, with Monty's Dog Beach at Lucija, the Forma Viva sculpture park on the Seča peninsula, the Sečovlje salt pans and car-free Piran all within easy reach`,
+      highlight: `Monty's Dog Beach at Lucija, the Forma Viva sculpture park on the green Seča peninsula, and the flat seafront path to Piran`,
+      area: `the palm promenade and marina in the resort centre, Lucija around the dog beach, and the Seča peninsula and Sečovlje salt pans`,
+    },
     positano: {
       personality: `the vertical jewel of the Amalfi Coast, a cascade of pastel houses tumbling down the cliff to the sea in the province of Salerno, beautiful but demanding for a dog: the town is a staircase of hundreds of steps, most beaches restrict dogs and the summer stone bakes, yet leashed dogs ride the SITA SUD buses and the Travelmar and Alicost ferries and, above all, walk the spectacular Path of the Gods above the coast`,
       highlight: `the Sentiero degli Dei (Path of the Gods) from Bomerano to Nocelle with leashed dogs, the flat Via Positanesi d'America seafront walk between Spiaggia Grande and Fornillo, the majolica-domed Church of Santa Maria Assunta and its piazza, the greener hillside hamlet of Nocelle, and the cooler Agerola plateau where the trail begins`,
@@ -3283,6 +3288,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `l'emblématique village de pêcheurs de la Riviera italienne, un ensemble de maisons pastel autour d'un port minuscule et exclusif sur un promontoire raide et boisé de la province de Gênes, glamour mais exigeant avec un chien : il n'y a quasiment aucune plage pour chiens et la côte est rocheuse et chère, mais les chiens en laisse arpentent la piazzetta plate du port, montent au Castello Brown et au phare, et parcourent les sentiers du Parco di Portofino vers San Fruttuoso`,
       highlight: `la piazzetta plate du port et ses terrasses acceptant les chiens, la montée en plein air devant l'église San Giorgio jusqu'au Castello Brown puis au phare Faro di Portofino, le sentier du parc en laisse par-dessus le promontoire jusqu'à l'abbaye de San Fruttuoso, et la promenade côtière vers Paraggi et Santa Margherita`,
       area: `la piazzetta plate du port au cœur du village, le Parco Naturale Regionale di Portofino boisé derrière, la crique de Paraggi vers Santa Margherita, et les villes-portes de Santa Margherita Ligure et Rapallo d'où partent les bus et les ferries`,
+    },
+    portoroz: {
+      personality: `la station thermale Belle Époque de la Slovénie sur la côte istrienne, un front de mer plat et piéton de promenades de palmiers et de grands hôtels de thalasso, vraiment dog-friendly en extérieur même si les intérieurs de spa ne le sont pas, avec Monty's Dog Beach à Lucija, le parc de sculptures Forma Viva sur la péninsule de Seča, les salines de Sečovlje et Piran sans voiture à portée immédiate`,
+      highlight: `Monty's Dog Beach à Lucija, le parc de sculptures Forma Viva sur la péninsule verdoyante de Seča, et le chemin plat du bord de mer jusqu'à Piran`,
+      area: `la promenade de palmiers et la marina au cœur de la station, Lucija autour de la plage canine, et la péninsule de Seča et les salines de Sečovlje`,
     },
     positano: {
       personality: `le joyau vertical de la Côte amalfitaine, une cascade de maisons pastel dévalant la falaise vers la mer dans la province de Salerne, superbe mais éprouvant pour un chien : la ville est un escalier de centaines de marches, la plupart des plages limitent les chiens et la pierre brûle en été, mais les chiens en laisse prennent les bus SITA SUD et les ferries Travelmar et Alicost et, surtout, parcourent le spectaculaire Sentier des Dieux au-dessus de la côte`,
@@ -5116,6 +5126,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la piazzetta llana del puerto y sus terrazas que admiten perros, la subida al aire libre por delante de la iglesia de San Giorgio hasta el Castello Brown y hasta el faro Faro di Portofino, el sendero del parque con correa por encima del promontorio hasta la abadía de San Fruttuoso, y el paseo costero hacia Paraggi y Santa Margherita`,
       area: `la piazzetta llana del puerto en el corazón del pueblo, el boscoso Parco Naturale Regionale di Portofino detrás, la cala de Paraggi hacia Santa Margherita, y las localidades de acceso de Santa Margherita Ligure y Rapallo desde donde salen los autobuses y los ferries`,
     },
+    portoroz: {
+      personality: `la estación termal Belle Époque de Eslovenia en la costa istria, un frente marítimo llano y peatonal de paseos de palmeras y grandes hoteles de talasoterapia, de verdad pet-friendly al aire libre aunque los interiores de los balnearios no lo sean, con Monty's Dog Beach en Lucija, el parque de esculturas Forma Viva en la península de Seča, las salinas de Sečovlje y Piran sin coches a un paso`,
+      highlight: `Monty's Dog Beach en Lucija, el parque de esculturas Forma Viva en la verde península de Seča, y el sendero llano del litoral hasta Piran`,
+      area: `el paseo de palmeras y el puerto deportivo en el centro de la estación, Lucija en torno a la playa canina, y la península de Seča y las salinas de Sečovlje`,
+    },
     positano: {
       personality: `la joya vertical de la Costa Amalfitana, una cascada de casas pastel que cae por el acantilado hasta el mar en la provincia de Salerno, preciosa pero exigente para un perro: el pueblo es una escalera de cientos de escalones, la mayoría de las playas restringen los perros y la piedra abrasa en verano, pero los perros con correa viajan en los autobuses SITA SUD y en los ferries Travelmar y Alicost y, sobre todo, recorren el espectacular Sendero de los Dioses sobre la costa`,
       highlight: `el Sentiero degli Dei (Sendero de los Dioses) de Bomerano a Nocelle con perros con correa, el paseo llano Via Positanesi d'America entre la Spiaggia Grande y Fornillo, la iglesia de Santa Maria Assunta con su cúpula de mayólica y su plaza, la más verde aldea de Nocelle, y la meseta más fresca de Agerola donde empieza el sendero`,
@@ -6947,6 +6962,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a icónica aldeia piscatória da Riviera italiana, um conjunto de casas em tons pastel em redor de um porto minúsculo e exclusivo sobre um promontório íngreme e arborizado da província de Génova, glamoroso mas exigente com um cão: praticamente não há praia para cães e a costa é rochosa e cara, mas os cães com trela percorrem a piazzetta plana do porto, sobem ao Castello Brown e ao farol, e fazem os trilhos do Parco di Portofino até San Fruttuoso`,
       highlight: `a piazzetta plana do porto e as suas esplanadas que aceitam cães, a subida ao ar livre diante da igreja de San Giorgio até ao Castello Brown e até ao farol Faro di Portofino, o trilho do parque com trela por cima do promontório até à abadia de San Fruttuoso, e o passeio costeiro até Paraggi e Santa Margherita`,
       area: `a piazzetta plana do porto no coração da aldeia, o arborizado Parco Naturale Regionale di Portofino por detrás, a enseada de Paraggi em direção a Santa Margherita, e as vilas de acesso de Santa Margherita Ligure e Rapallo de onde partem os autocarros e os ferries`,
+    },
+    portoroz: {
+      personality: `a estância termal Belle Époque da Eslovénia na costa istriana, uma frente-mar plana e pedonal de passeios de palmeiras e grandes hotéis de talassoterapia, verdadeiramente pet-friendly ao ar livre ainda que os interiores dos spas não o sejam, com a Monty's Dog Beach em Lucija, o parque de esculturas Forma Viva na península de Seča, as salinas de Sečovlje e Piran sem carros a um passo`,
+      highlight: `a Monty's Dog Beach em Lucija, o parque de esculturas Forma Viva na verde península de Seča, e o trilho plano da beira-mar até Piran`,
+      area: `o passeio de palmeiras e a marina no centro da estância, Lucija em torno da praia canina, e a península de Seča e as salinas de Sečovlje`,
     },
     positano: {
       personality: `a joia vertical da Costa Amalfitana, uma cascata de casas em tons pastel a descer a falésia até ao mar na província de Salerno, linda mas exigente para um cão: a vila é uma escadaria de centenas de degraus, a maioria das praias restringe cães e a pedra escalda no verão, mas os cães com trela viajam nos autocarros SITA SUD e nos ferries Travelmar e Alicost e, sobretudo, percorrem o espetacular Caminho dos Deuses acima da costa`,

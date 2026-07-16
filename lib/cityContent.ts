@@ -32504,6 +32504,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  portoroz: {
+    history: {
+      fr: `Portorož, dont le nom slovène signifie « port des roses », est passée d'une baie de pêche et de sauniers à la première station balnéaire et thermale de Slovénie. Sa fortune est née de la saumure et de la boue curatives des salines voisines de Sečovlje, qui dès la fin du XIXe siècle attiraient la haute société des Habsbourg dans de grands hôtels de thalasso le long de la baie bordée de palmiers. Cet héritage Belle Époque marque encore la station : vastes terrasses face à la mer, spas de bien-être et large promenade qui file jusqu'à la ville vénitienne-gothique de Piran. Derrière les plages, la péninsule verdoyante de Seča abrite le parc de sculptures en plein air Forma Viva, et les salines survivent en réserve naturelle d'oiseaux et de champs de sel travaillés à la main. Pour les maîtres de chiens, c'est l'une des bases les plus accueillantes de l'Adriatique : plate, piétonne et dotée de Monty's Dog Beach à Lucija, première plage canine officielle de Slovénie.`,
+      en: `Portorož, whose Slovenian name means "port of roses", grew from a fishing and salt-making bay into Slovenia's leading seaside and spa resort. Its fortune began with the healing brine and mud of the nearby Sečovlje salt pans, which by the late nineteenth century were drawing Habsburg high society to grand thalasso hotels along the palm-lined bay. That Belle Époque legacy still shapes the resort: sweeping seafront terraces, wellness spas and a broad promenade that runs all the way to the Venetian-Gothic town of Piran. Behind the beaches, the green Seča peninsula holds the Forma Viva open-air sculpture park, and the salt pans survive as a nature reserve of birds and hand-worked salt fields. For dog owners it is one of the Adriatic's kindest bases: flat, walkable and home to Monty's Dog Beach at Lucija, Slovenia's first designated dog beach.`,
+      es: `Portorož, cuyo nombre esloveno significa "puerto de las rosas", pasó de ser una bahía de pesca y salineros a la principal estación balnearia y termal de Eslovenia. Su fortuna nació de la salmuera y el barro curativos de las cercanas salinas de Sečovlje, que ya a finales del siglo XIX atraían a la alta sociedad de los Habsburgo a grandes hoteles de talasoterapia a lo largo de la bahía de palmeras. Ese legado de la Belle Époque sigue marcando la estación: amplias terrazas frente al mar, balnearios de bienestar y un largo paseo que llega hasta la ciudad véneto-gótica de Piran. Tras las playas, la verde península de Seča alberga el parque de esculturas al aire libre Forma Viva, y las salinas sobreviven como reserva natural de aves y campos de sal trabajados a mano. Para los dueños de perros es una de las bases más amables del Adriático: llana, peatonal y hogar de Monty's Dog Beach en Lucija, la primera playa canina oficial de Eslovenia.`,
+      pt: `Portorož, cujo nome esloveno significa "porto das rosas", passou de uma baía de pesca e de salineiros à principal estância balnear e termal da Eslovénia. A sua fortuna nasceu da salmoura e da lama curativas das vizinhas salinas de Sečovlje, que já no final do século XIX atraíam a alta sociedade dos Habsburgo a grandes hotéis de talassoterapia ao longo da baía de palmeiras. Esse legado da Belle Époque ainda marca a estância: amplas esplanadas viradas para o mar, spas de bem-estar e um longo passeio que segue até à cidade véneto-gótica de Piran. Por trás das praias, a verde península de Seča alberga o parque de esculturas ao ar livre Forma Viva, e as salinas sobrevivem como reserva natural de aves e campos de sal trabalhados à mão. Para os donos de cães é uma das bases mais acolhedoras do Adriático: plana, pedonal e lar da Monty's Dog Beach em Lucija, a primeira praia canina oficial da Eslovénia.`,
+    },
+    sights: [
+      {
+        name: 'Portorož Palm Promenade',
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: `La longue promenade bordée de palmiers qui suit la baie, plate et au niveau de la mer, ponctuée de terrasses, de plages et de la marina. On la parcourt en laisse d'un bout à l'autre, et elle se prolonge jusqu'à Piran par un chemin côtier facile.`,
+          en: `The long palm-lined promenade following the bay, flat and at sea level, punctuated by terraces, beaches and the marina. It is walked on the leash from end to end and continues to Piran along an easy coastal path.`,
+          es: `El largo paseo de palmeras que sigue la bahía, llano y al nivel del mar, salpicado de terrazas, playas y el puerto deportivo. Se recorre con correa de punta a punta y continúa hasta Piran por un sendero costero fácil.`,
+          pt: `O longo passeio de palmeiras que acompanha a baía, plano e ao nível do mar, pontuado de esplanadas, praias e da marina. Percorre-se à trela de ponta a ponta e continua até Piran por um trilho costeiro fácil.`,
+        },
+      },
+      {
+        name: "Monty's Dog Beach",
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `À Lucija, la première plage canine officielle de Slovénie, où les chiens sociables se baignent sans laisse. Entrée gratuite, aire de jeu, douche et bar avec menu pour chiens ; les plages de baignade publiques de Portorož, elles, interdisent les chiens.`,
+          en: `At Lucija, Slovenia's first designated dog beach, where sociable dogs swim off the leash. Free entry, a play area, a shower and a bar with a dog menu; the public bathing beaches of Portorož, by contrast, ban dogs.`,
+          es: `En Lucija, la primera playa canina oficial de Eslovenia, donde los perros sociables se bañan sin correa. Entrada gratuita, zona de juego, ducha y bar con menú para perros; las playas de baño públicas de Portorož, en cambio, prohíben los perros.`,
+          pt: `Em Lucija, a primeira praia canina oficial da Eslovénia, onde os cães sociáveis se banham sem trela. Entrada gratuita, zona de recreio, duche e bar com menu para cães; as praias de banho públicas de Portorož, pelo contrário, proíbem os cães.`,
+        },
+      },
+      {
+        name: 'Forma Viva Seča',
+        emoji: '🗿',
+        petFriendly: true,
+        desc: {
+          fr: `Un parc de sculptures en pierre en plein air sur la péninsule de Seča, plus de 130 œuvres depuis 1961 parmi cyprès et oliviers. Il se visite en laisse et offre un panorama superbe sur la baie de Portorož ; peu d'ombre au sommet en été.`,
+          en: `An open-air stone sculpture park on the Seča peninsula, more than 130 works since 1961 among cypresses and olives. It is visited on the leash and gives a superb panorama over Portorož Bay; little shade at the top in summer.`,
+          es: `Un parque de esculturas de piedra al aire libre en la península de Seča, más de 130 obras desde 1961 entre cipreses y olivos. Se visita con correa y ofrece un panorama soberbio sobre la bahía de Portorož; poca sombra arriba en verano.`,
+          pt: `Um parque de esculturas de pedra ao ar livre na península de Seča, mais de 130 obras desde 1961 entre ciprestes e oliveiras. Visita-se à trela e oferece um panorama soberbo sobre a baía de Portorož; pouca sombra no cimo no verão.`,
+        },
+      },
+      {
+        name: 'Krajinski park Sečoveljske soline',
+        emoji: '🧂',
+        petFriendly: true,
+        desc: {
+          fr: `Le parc naturel des salines de Sečovlje, paysage vivant de bassins de sel millénaires et d'oiseaux à la frontière croate. Les chiens ne sont admis qu'en laisse courte dans la zone de Fontanigge, jamais à Lera ; prévoyez de l'eau car tout est plat et sans ombre.`,
+          en: `The Sečovlje Salina Nature Park, a living landscape of thousand-year-old salt pans and birds on the Croatian border. Dogs are allowed only on a short leash in the Fontanigge area, never at Lera; carry water as it is all flat and shadeless.`,
+          es: `El parque natural de las salinas de Sečovlje, paisaje vivo de balsas de sal milenarias y aves en la frontera croata. Los perros solo se admiten con correa corta en la zona de Fontanigge, nunca en Lera; lleva agua porque todo es llano y sin sombra.`,
+          pt: `O parque natural das salinas de Sečovlje, paisagem viva de tanques de sal milenares e aves na fronteira croata. Os cães só são admitidos com trela curta na zona de Fontanigge, nunca em Lera; leve água porque tudo é plano e sem sombra.`,
+        },
+      },
+      {
+        name: 'Portorož Spa & Thalasso Hotels',
+        emoji: '♨️',
+        petFriendly: false,
+        desc: {
+          fr: `Le cœur historique de la station, ses grands hôtels Belle Époque et ses spas de thalasso nés de la saumure des salines. Les intérieurs de soins n'admettent pas les chiens : promenez le vôtre sur le front de mer plat pendant qu'un proche profite du spa, puis échangez.`,
+          en: `The resort's historic core, its grand Belle Époque hotels and thalasso spas born of the salt-pan brine. The treatment interiors do not admit dogs: walk yours on the flat seafront while a companion enjoys the spa, then swap.`,
+          es: `El corazón histórico de la estación, sus grandes hoteles de la Belle Époque y sus balnearios de talasoterapia nacidos de la salmuera de las salinas. Los interiores de tratamiento no admiten perros: pasea al tuyo por el frente marítimo llano mientras un acompañante disfruta del spa, y luego cambiad.`,
+          pt: `O coração histórico da estância, os seus grandes hotéis Belle Époque e spas de talassoterapia nascidos da salmoura das salinas. Os interiores de tratamento não admitem cães: passeie o seu na frente-mar plana enquanto um companheiro aproveita o spa, e depois troquem.`,
+        },
+      },
+      {
+        name: 'Seča Peninsula Walk',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Une boucle tranquille d'environ deux heures depuis Portorož sur la péninsule verdoyante de Seča, entre marina, oliveraies et vues sur la mer. Le chemin en terre se fait en laisse ; peu de fontaines, emportez de l'eau en été.`,
+          en: `A quiet loop of around two hours from Portorož onto the green Seča peninsula, past the marina, olive groves and sea views. The unpaved path is done on the leash; few fountains, so carry water in summer.`,
+          es: `Un circuito tranquilo de unas dos horas desde Portorož por la verde península de Seča, entre el puerto deportivo, olivares y vistas al mar. El sendero de tierra se hace con correa; pocas fuentes, así que lleva agua en verano.`,
+          pt: `Um circuito tranquilo de cerca de duas horas desde Portorož pela verde península de Seča, entre a marina, olivais e vistas de mar. O trilho de terra faz-se à trela; poucas fontes, por isso leve água no verão.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les plages de baignade publiques de Portorož et Piran interdisent les chiens ; rendez-vous à Monty's Dog Beach à Lucija, première plage canine de Slovénie, où la baignade est libre et sans laisse.`,
+        `Chaleur méditerranéenne l'été : promenez tôt ou en soirée et emportez de l'eau, car la promenade, la péninsule de Seča et les salines offrent très peu d'ombre.`,
+        `Aux salines de Sečovlje, les chiens ne sont admis qu'en laisse courte dans la zone de Fontanigge, jamais dans la zone de Lera : choisissez la bonne entrée.`,
+        `Portorož est une station thermale : les spas de thalasso et de bien-être sont sans chien à l'intérieur, prévoyez de faire tourner ou une garde pour un après-midi spa.`,
+        `Numéro d'urgence unique 112 ; passeport européen et vaccination antirabique à jour exigés à l'hôtel, et Vet Medica à Lucija est la clinique la plus proche.`,
+      ],
+      en: [
+        `The public bathing beaches of Portorož and Piran ban dogs; head to Monty's Dog Beach at Lucija, Slovenia's first dog beach, where swimming is free and off the leash.`,
+        `Mediterranean summer heat: walk early or in the evening and carry water, as the promenade, the Seča peninsula and the salt pans offer very little shade.`,
+        `At the Sečovlje salt pans dogs are allowed only on a short leash in the Fontanigge area, never in the Lera area, so pick the right entrance.`,
+        `Portorož is a spa resort: the thalasso and wellness spas are dog-free indoors, so plan to take turns or use a sitter for a spa afternoon.`,
+        `Single emergency number 112; EU pet passport and up-to-date rabies vaccination required at the hotel, and Vet Medica in Lucija is the nearest clinic.`,
+      ],
+      es: [
+        `Las playas de baño públicas de Portorož y Piran prohíben los perros; ve a Monty's Dog Beach en Lucija, primera playa canina de Eslovenia, donde el baño es libre y sin correa.`,
+        `Calor mediterráneo en verano: pasea temprano o al atardecer y lleva agua, porque el paseo, la península de Seča y las salinas dan muy poca sombra.`,
+        `En las salinas de Sečovlje los perros solo se admiten con correa corta en la zona de Fontanigge, nunca en la zona de Lera, así que elige la entrada correcta.`,
+        `Portorož es una estación balnearia: los balnearios de talasoterapia y bienestar no admiten perros en el interior, planifica turnaros o una guardería para una tarde de spa.`,
+        `Número único de urgencias 112; pasaporte europeo y vacunación antirrábica al día exigidos en el hotel, y Vet Medica en Lucija es la clínica más cercana.`,
+      ],
+      pt: [
+        `As praias de banho públicas de Portorož e Piran proíbem os cães; vá à Monty's Dog Beach em Lucija, primeira praia canina da Eslovénia, onde o banho é livre e sem trela.`,
+        `Calor mediterrânico no verão: passeie cedo ou ao entardecer e leve água, pois o passeio, a península de Seča e as salinas dão muito pouca sombra.`,
+        `Nas salinas de Sečovlje os cães só são admitidos com trela curta na zona de Fontanigge, nunca na zona de Lera, por isso escolha a entrada certa.`,
+        `Portorož é uma estância termal: os spas de talassoterapia e bem-estar não admitem cães no interior, planeie revezar-se ou usar um cuidador para uma tarde de spa.`,
+        `Número único de emergência 112; passaporte europeu e vacinação antirrábica em dia exigidos no hotel, e a Vet Medica em Lucija é a clínica mais próxima.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen et vaccination antirabique à jour exigés à l'enregistrement dans les hôtels pet-friendly (la Slovénie est dans l'UE).`,
+        `Laisse et ramassage des déjections de rigueur ; chiens interdits sur les plages de baignade publiques, plage canine à Lucija (Monty's Dog Beach), baignade libre et sans laisse.`,
+        `Climat méditerranéen : étés chauds (attention aux coussinets et au coup de chaleur), côte plutôt rocheuse, arrière-saison douce idéale pour les promenades.`,
+        `Station plate et piétonne : bus local fréquent vers Piran, Lucija et Strunjan (petits chiens en sac, grands en laisse avec muselière), aéroport de Trieste à environ 1h45 en bus, Ljubljana à 1h30 en voiture.`,
+        `Numéro d'urgence européen 112 ; Vet Medica à Lucija est le vétérinaire le plus proche, urgences hors horaires à la clinique de Koper.`,
+      ],
+      en: [
+        `EU pet passport and up-to-date rabies vaccination required at check-in in pet-friendly hotels (Slovenia is in the EU).`,
+        `Leash and waste pick-up expected; dogs banned on public bathing beaches, with a dog beach at Lucija (Monty's Dog Beach) where swimming is free and off the leash.`,
+        `Mediterranean climate: hot summers (mind paw pads and heatstroke), a mostly rocky coast, with a mild shoulder season ideal for walks.`,
+        `Flat, pedestrian resort: frequent local bus to Piran, Lucija and Strunjan (small dogs in a carrier, larger dogs leashed with a muzzle), Trieste Airport about 1h45 by bus, Ljubljana 1h30 by car.`,
+        `European emergency number 112; Vet Medica in Lucija is the nearest vet, with out-of-hours emergencies at the Koper clinic.`,
+      ],
+      es: [
+        `Pasaporte europeo y vacunación antirrábica al día exigidos en el check-in de los hoteles pet-friendly (Eslovenia está en la UE).`,
+        `Correa y recogida de excrementos de rigor; perros prohibidos en las playas de baño públicas, con playa canina en Lucija (Monty's Dog Beach) donde el baño es libre y sin correa.`,
+        `Clima mediterráneo: veranos calurosos (cuidado con las almohadillas y el golpe de calor), costa en su mayoría rocosa, temporada media suave ideal para los paseos.`,
+        `Estación llana y peatonal: autobús local frecuente a Piran, Lucija y Strunjan (perros pequeños en transportín, grandes con correa y bozal), aeropuerto de Trieste a unos 1h45 en autobús, Liubliana a 1h30 en coche.`,
+        `Número de urgencia europeo 112; Vet Medica en Lucija es el veterinario más cercano, urgencias fuera de horario en la clínica de Koper.`,
+      ],
+      pt: [
+        `Passaporte europeu e vacinação antirrábica em dia exigidos no check-in dos hotéis pet-friendly (a Eslovénia está na UE).`,
+        `Trela e recolha de dejetos de rigor; cães proibidos nas praias de banho públicas, com praia canina em Lucija (Monty's Dog Beach) onde o banho é livre e sem trela.`,
+        `Clima mediterrânico: verões quentes (atenção às almofadas e ao golpe de calor), costa maioritariamente rochosa, época baixa amena ideal para os passeios.`,
+        `Estância plana e pedonal: autocarro local frequente para Piran, Lucija e Strunjan (cães pequenos em transportadora, maiores à trela com açaimo), aeroporto de Trieste a cerca de 1h45 de autocarro, Liubliana a 1h30 de carro.`,
+        `Número de emergência europeu 112; a Vet Medica em Lucija é o veterinário mais próximo, urgências fora de horário na clínica de Koper.`,
+      ],
+    },
+  },
+
   positano: {
     history: {
       fr: `Accrochée à la falaise de la Côte amalfitaine, Positano dévale vers la mer en une cascade de maisons pastel, d'escaliers et de bougainvilliers. Ancien port de pêche de la province de Salerne, le village s'est fait un nom au XXe siècle avec la « moda Positano », ses tissus légers et ses sandales. Aujourd'hui c'est l'une des cartes postales les plus célèbres d'Italie, au cœur de la Côte amalfitaine classée à l'UNESCO. Pour un maître, Positano est aussi belle qu'exigeante : la ville est un mur d'escaliers, la plupart des plages limitent les chiens et la pierre brûle en été. Mais les chiens en laisse prennent les bus SITA et les ferries, et surtout parcourent le Sentier des Dieux, l'une des plus belles randonnées côtières du pays.`,

@@ -27460,6 +27460,33 @@
     "iata": "GOA"
   },
   {
+    "slug": "portoroz",
+    "name": "Portorož",
+    "country": "Slovenia",
+    "countryCode": "SI",
+    "flag": "🇸🇮",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/portoroz.jpg",
+    "intro": "Portorož, Slovenia's Belle Époque spa resort on the Istrian coast, pairs a palm-lined seafront promenade and grand thalasso hotels with a genuinely dog-friendly hinterland, from Monty's Dog Beach at Lucija, the country's first designated dog beach, to the Forma Viva sculpture park on the green Seča peninsula, the Sečovlje salt pans and the car-free stone town of Piran next door.",
+    "lat": 45.5142,
+    "lng": 13.5908,
+    "weather": {
+      "jan": {"temp": 6, "desc": "Cool with Bora wind", "icon": "🌬️"},
+      "feb": {"temp": 7, "desc": "Cool with Bora wind", "icon": "🌬️"},
+      "mar": {"temp": 10, "desc": "Mild & breezy", "icon": "⛅"},
+      "apr": {"temp": 14, "desc": "Mild & pleasant", "icon": "⛅"},
+      "may": {"temp": 19, "desc": "Warm & sunny", "icon": "☀️"},
+      "jun": {"temp": 23, "desc": "Warm & sunny", "icon": "☀️"},
+      "jul": {"temp": 25, "desc": "Hot & sunny", "icon": "☀️"},
+      "aug": {"temp": 25, "desc": "Hot & sunny", "icon": "☀️"},
+      "sep": {"temp": 21, "desc": "Warm & pleasant", "icon": "⛅"},
+      "oct": {"temp": 16, "desc": "Mild with rain", "icon": "🌦️"},
+      "nov": {"temp": 11, "desc": "Cool with rain", "icon": "🌧️"},
+      "dec": {"temp": 7, "desc": "Cool with Bora wind", "icon": "🌬️"}
+    },
+    "iata": "TRS"
+  },
+  {
     "slug": "positano",
     "name": "Positano",
     "country": "Italy",

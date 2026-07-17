@@ -46276,6 +46276,218 @@
     "slug": "hotel-sassella-tirano"
   },
   {
+    "id": "tokyo-1",
+    "name": "Grand Prince Hotel Shin Takanawa",
+    "destinationSlug": "tokyo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.2,
+    "reviewCount": 6390,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/grand-prince-shin-takanawa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Japanese hotels often apply conditions such as size or weight limits, dog-only or indoor-only rules, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "2 swimming pools",
+      "Non-smoking rooms",
+      "Private parking"
+    ],
+    "slug": "grand-prince-hotel-shin-takanawa-tokyo",
+    "address": "Takanawa, Minato-ku, Tokyo, Japan",
+    "neighborhood": "Minato (Takanawa)"
+  },
+  {
+    "id": "tokyo-2",
+    "name": "Mitsui Garden Hotel Toyosu Premier - Tokyo",
+    "destinationSlug": "tokyo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2795,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/mitsui-garden-toyosu-bayside-cross-tokyo.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Japanese hotels often apply conditions such as size or weight limits, dog-only or indoor-only rules, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Free WiFi",
+      "Restaurant"
+    ],
+    "slug": "mitsui-garden-hotel-toyosu-premier-tokyo-tokyo",
+    "address": "Toyosu, Koto-ku, Tokyo, Japan",
+    "neighborhood": "Koto (Toyosu)"
+  },
+  {
+    "id": "tokyo-3",
+    "name": "Grand Prince Hotel Takanawa",
+    "destinationSlug": "tokyo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 4857,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/grand-prince-takanawa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Japanese hotels often apply conditions such as size or weight limits, dog-only or indoor-only rules, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "2 swimming pools",
+      "Non-smoking rooms",
+      "Free WiFi"
+    ],
+    "slug": "grand-prince-hotel-takanawa-tokyo",
+    "address": "Takanawa, Minato-ku, Tokyo, Japan",
+    "neighborhood": "Minato (Takanawa)"
+  },
+  {
+    "id": "tokyo-4",
+    "name": "THE AOYAMA GRAND HOTEL",
+    "destinationSlug": "tokyo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.6,
+    "reviewCount": 785,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/the-aoyama-grand.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Japanese hotels often apply conditions such as size or weight limits, dog-only or indoor-only rules, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Free WiFi",
+      "Private parking"
+    ],
+    "slug": "the-aoyama-grand-hotel-tokyo",
+    "address": "Kita-Aoyama 2-14-4, Minato-ku, Tokyo, Japan",
+    "neighborhood": "Minato (Aoyama)"
+  },
+  {
+    "id": "tokyo-5",
+    "name": "Hotel GrandBach Tokyo Ginza",
+    "destinationSlug": "tokyo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 3138,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/grand-bach-tokyo-ginza-dong-jing-du.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Japanese hotels often apply conditions such as size or weight limits, dog-only or indoor-only rules, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "hotel-grandbach-tokyo-ginza-tokyo",
+    "address": "Ginza 5-13-12, Chuo-ku, Tokyo, Japan",
+    "neighborhood": "Chuo (Ginza)"
+  },
+  {
+    "id": "tokyo-6",
+    "name": "Marunouchi Hotel",
+    "destinationSlug": "tokyo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 2122,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/marunouchi-hotel.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Japanese hotels often apply conditions such as size or weight limits, dog-only or indoor-only rules, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Free WiFi",
+      "Parking on site"
+    ],
+    "slug": "marunouchi-hotel-tokyo",
+    "address": "Marunouchi 1-6-3, Chiyoda-ku, Tokyo, Japan",
+    "neighborhood": "Chiyoda (Marunouchi)"
+  },
+  {
+    "id": "tokyo-7",
+    "name": "Mitsui Garden Hotel Roppongi Tokyo Premier",
+    "destinationSlug": "tokyo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 2482,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/mitsui-garden-roppongi-tokyo-permier.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Japanese hotels often apply conditions such as size or weight limits, dog-only or indoor-only rules, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Free WiFi",
+      "Fitness centre"
+    ],
+    "slug": "mitsui-garden-hotel-roppongi-tokyo-premier-tokyo",
+    "address": "Roppongi, Minato-ku, Tokyo, Japan",
+    "neighborhood": "Minato (Roppongi)"
+  },
+  {
+    "id": "tokyo-8",
+    "name": "Keio Plaza Hotel Tokyo Premier Grand",
+    "destinationSlug": "tokyo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1485,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/keio-plaza-tokyo-premier-grand.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Japanese hotels often apply conditions such as size or weight limits, dog-only or indoor-only rules, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Free WiFi",
+      "Private parking"
+    ],
+    "slug": "keio-plaza-hotel-tokyo-premier-grand-tokyo",
+    "address": "Nishi-Shinjuku, Shinjuku-ku, Tokyo, Japan",
+    "neighborhood": "Shinjuku (Nishi-Shinjuku)"
+  },
+  {
     "id": "toledo-1",
     "name": "Parador de Toledo",
     "destinationSlug": "toledo",

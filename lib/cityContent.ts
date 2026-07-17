@@ -41969,6 +41969,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  tokyo: {
+    history: {
+      fr: `Tokyo naquit sous le nom d'Edo, modeste ville-château devenue capitale du shogun après que Tokugawa Ieyasu y installa son gouvernement en 1603. Lorsque l'empereur Meiji quitta Kyoto en 1868, la ville fut rebaptisée Tokyo, la capitale de l'Est, et elle s'est relevée deux fois d'une destruction presque totale : le grand séisme du Kanto de 1923 et les bombardements de 1945. Elle ancre aujourd'hui la plus vaste aire métropolitaine du monde, une mosaïque d'arrondissements où le néon de Shibuya et Shinjuku côtoie les temples d'Asakusa et de paisibles ruelles résidentielles. Pour un maître de chien, Tokyo est gratifiante mais exigeante : les règles y sont plus strictes et plus littérales qu'en Europe. Les chiens ne prennent le train JR et le métro qu'enfermés dans un sac, les parcs imposent la laisse, le jeu sans laisse se limite aux espaces canins inscrits, et les restaurants admettent rarement les animaux à l'intérieur. En contrepartie : d'excellents espaces canins, des parcs balnéaires de la baie de Tokyo et des vétérinaires anglophones 24h/24.`,
+      en: `Tokyo began as Edo, a modest castle town that exploded into the shogun's capital after Tokugawa Ieyasu established his government there in 1603. When the Meiji emperor left Kyoto in 1868 the city was renamed Tokyo, the eastern capital, and it has twice risen from near-total destruction: the 1923 Great Kanto earthquake and the 1945 firebombing. Today it anchors the world's largest metropolitan area, a mosaic of distinct wards where the neon of Shibuya and Shinjuku meets the temples of Asakusa and calm residential lanes. For a dog owner, Tokyo is rewarding but demanding: the rules are stricter and more literal than in Europe. Dogs ride JR and metro trains only inside a closed carrier, public parks require leashes with off-leash play confined to registered dog runs, and indoor dining rarely admits pets. Balancing that are superb dog runs, Tokyo Bay seaside parks and 24-hour English-speaking vets.`,
+      es: `Tokio nació como Edo, una modesta ciudad-castillo que estalló hasta convertirse en la capital del shogun después de que Tokugawa Ieyasu instalara allí su gobierno en 1603. Cuando el emperador Meiji dejó Kioto en 1868, la ciudad pasó a llamarse Tokio, la capital del este, y se ha levantado dos veces de una destrucción casi total: el gran terremoto de Kanto de 1923 y los bombardeos de 1945. Hoy vertebra la mayor área metropolitana del mundo, un mosaico de distritos donde el neón de Shibuya y Shinjuku convive con los templos de Asakusa y tranquilas callejuelas residenciales. Para un dueño de perro, Tokio es gratificante pero exigente: las normas son más estrictas y literales que en Europa. Los perros solo viajan en los trenes JR y el metro dentro de un transportín cerrado, los parques obligan a llevar correa y el juego suelto se limita a las áreas caninas registradas, y la restauración interior rara vez admite mascotas. Como contrapeso: excelentes áreas caninas, parques marítimos de la bahía de Tokio y veterinarios 24 horas que hablan inglés.`,
+      pt: `Tóquio nasceu como Edo, uma modesta vila-castelo que se transformou na capital do xogum depois de Tokugawa Ieyasu ali instalar o seu governo em 1603. Quando o imperador Meiji deixou Quioto em 1868, a cidade passou a chamar-se Tóquio, a capital do leste, e ergueu-se duas vezes de uma destruição quase total: o grande sismo de Kanto de 1923 e os bombardeamentos de 1945. Hoje sustenta a maior área metropolitana do mundo, um mosaico de bairros onde o néon de Shibuya e Shinjuku convive com os templos de Asakusa e tranquilas ruelas residenciais. Para um dono de cão, Tóquio é gratificante mas exigente: as regras são mais rígidas e literais do que na Europa. Os cães só viajam nos comboios JR e no metro dentro de uma bolsa fechada, os parques obrigam à trela e a brincadeira à solta limita-se às áreas caninas registadas, e a restauração interior raramente admite animais. Em contrapartida: excelentes áreas caninas, parques à beira-mar da baía de Tóquio e veterinários que falam inglês 24 horas por dia.`,
+    },
+    sights: [
+      { name: 'Yoyogi Park Dog Run', emoji: '🐕', petFriendly: true, desc: {
+        fr: `Grand espace canin clôturé d'environ 3 600 m² au cœur du parc Yoyogi près de Harajuku, divisé par gabarit. Sans laisse à l'intérieur, mais inscription préalable au bureau du parc avec le certificat antirabique original obligatoire.`,
+        en: `Large fenced dog run of around 3,600 m² in the heart of Yoyogi Park near Harajuku, split by dog size. Off-leash inside, but prior registration at the park office with the original rabies certificate is required.`,
+        es: `Amplia área canina vallada de unos 3.600 m² en el corazón del parque Yoyogi, cerca de Harajuku, dividida por tamaño. Sin correa dentro, pero exige registro previo en la oficina del parque con el certificado antirrábico original.`,
+        pt: `Ampla área canina vedada de cerca de 3.600 m² no coração do parque Yoyogi, perto de Harajuku, dividida por tamanho. Sem trela lá dentro, mas exige registo prévio no escritório do parque com o certificado antirrábico original.`,
+      }},
+      { name: 'Komazawa Olympic Park Dog Run', emoji: '🏅', petFriendly: true, desc: {
+        fr: `Espace canin spacieux dans le parc olympique de 1964 à Setagaya, avec des zones séparées pour chiens jusqu'à 5 kg, de 5 à 12 kg et plus grands. Gratuit pour les usagers inscrits ; larges boucles de promenade en laisse autour.`,
+        en: `Spacious dog run inside the 1964 Olympic legacy park in Setagaya, with separate zones for dogs up to 5 kg, 5 to 12 kg and larger. Free for registered users, with wide leashed-walking loops around it.`,
+        es: `Amplia área canina en el parque del legado olímpico de 1964, en Setagaya, con zonas separadas para perros de hasta 5 kg, de 5 a 12 kg y mayores. Gratis para usuarios registrados, con amplios recorridos para pasear con correa alrededor.`,
+        pt: `Ampla área canina no parque do legado olímpico de 1964, em Setagaya, com zonas separadas para cães até 5 kg, de 5 a 12 kg e maiores. Grátis para utilizadores registados, com amplos percursos para passear à trela em redor.`,
+      }},
+      { name: 'Hachiko Statue, Shibuya', emoji: '🐶', petFriendly: true, desc: {
+        fr: `Statue en bronze de l'Akita fidèle qui attendit son maître pendant des années, devant la gare de Shibuya. Espace public extérieur, chiens en laisse bienvenus ; évitez la cohue des heures de pointe au carrefour voisin.`,
+        en: `Bronze statue of the loyal Akita who waited years for his owner, outside Shibuya Station. Open public space, leashed dogs welcome; avoid the rush-hour crush at the nearby scramble crossing.`,
+        es: `Estatua de bronce del fiel Akita que esperó años a su dueño, frente a la estación de Shibuya. Espacio público exterior, perros con correa bienvenidos; evita la aglomeración de la hora punta en el cruce cercano.`,
+        pt: `Estátua de bronze do fiel Akita que esperou anos pelo dono, frente à estação de Shibuya. Espaço público exterior, cães à trela bem-vindos; evite o aperto da hora de ponta no cruzamento próximo.`,
+      }},
+      { name: 'Odaiba Seaside Park', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Plage artificielle et longue promenade sur l'île d'Odaiba, avec vue sur le Rainbow Bridge et la skyline. Chiens en laisse bienvenus sur le sable et le ponton ; baignade dans la baie interdite.`,
+        en: `Man-made beach and long waterfront promenade on Odaiba island, with Rainbow Bridge and skyline views. Leashed dogs welcome on the sand and boardwalk; swimming in the bay is not allowed.`,
+        es: `Playa artificial y largo paseo marítimo en la isla de Odaiba, con vistas al Rainbow Bridge y al skyline. Perros con correa bienvenidos en la arena y el entarimado; prohibido el baño en la bahía.`,
+        pt: `Praia artificial e longo passeio marítimo na ilha de Odaiba, com vista para a Rainbow Bridge e o horizonte. Cães à trela bem-vindos na areia e no passadiço; banho na baía não permitido.`,
+      }},
+      { name: 'Jonanjima Seaside Park', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Parc balnéaire au bord de la baie de Tokyo près de Haneda, mêlant plage de sable, espace canin clôturé et aires de barbecue. Les avions passent bas au-dessus ; rincez les pattes salées, la baie ne se prête pas à la baignade du chien.`,
+        en: `Seaside park on Tokyo Bay near Haneda, combining a sandy beach, a fenced dog run and barbecue areas. Planes pass low overhead; rinse salty paws afterward, as the bay is not for a dog swim.`,
+        es: `Parque marítimo en la bahía de Tokio cerca de Haneda, que combina playa de arena, área canina vallada y zonas de barbacoa. Los aviones pasan bajos por encima; enjuaga las patas saladas después, la bahía no es para bañar al perro.`,
+        pt: `Parque à beira-mar na baía de Tóquio perto de Haneda, que combina praia de areia, área canina vedada e zonas de churrasco. Os aviões passam baixos por cima; enxágue as patas salgadas depois, a baía não é para banho do cão.`,
+      }},
+      { name: 'Asakusa & Sensoji Approach', emoji: '⛩️', petFriendly: true, desc: {
+        fr: `Le quartier historique d'Asakusa et les abords du temple Sensoji, avec la rue Nakamise et ses ruelles. Chiens en laisse admis dans les rues publiques extérieures ; l'enceinte sacrée intérieure du temple n'admet pas les chiens.`,
+        en: `The historic Asakusa district and the approach to Sensoji Temple, with Nakamise street and its lanes. Leashed dogs are allowed on the outer public streets; the temple's inner sacred precinct does not admit dogs.`,
+        es: `El histórico barrio de Asakusa y los accesos al templo Sensoji, con la calle Nakamise y sus callejones. Se admiten perros con correa en las calles públicas exteriores; el recinto sagrado interior del templo no admite perros.`,
+        pt: `O histórico bairro de Asakusa e os acessos ao templo Sensoji, com a rua Nakamise e as suas ruelas. Admitem-se cães à trela nas ruas públicas exteriores; o recinto sagrado interior do templo não admite cães.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Gardez sur vous le certificat original de vaccination antirabique de votre chien : il est exigé pour l'inscription aux espaces canins publics de Tokyo, et une copie ou photo est en général refusée.`,
+        `Seuls les petits chiens prennent JR et le métro, entièrement enfermés dans un sac fermé respectant les limites de l'exploitant ; les chiens moyens et grands doivent utiliser un taxi animalier réservé.`,
+        `L'été à Tokyo est chaud et très humide : promenez-vous à l'aube ou après la tombée de la nuit, testez le bitume avec la main et emportez de l'eau partout.`,
+        `Vétérinaires d'urgence 24h/24 : Japan Animal Medical Center à Shibuya (03-3378-3366) et Daktari Animal Hospital à Minato (03-5420-0012), tous deux accueillant les anglophones sur appel préalable.`,
+        `Les restaurants admettent rarement les chiens en salle : visez les terrasses et les adresses dog-friendly de Hiroo, Azabu-Juban, Daikanyama et Jiyugaoka, et appelez toujours à l'avance.`,
+      ],
+      en: [
+        `Keep your dog's original rabies vaccination certificate on you: it is required to register at Tokyo's public dog runs, and a copy or photo is usually refused.`,
+        `Only small dogs use JR and the metro, fully enclosed in a closed carrier within the operator's limits; medium and large dogs must use a booked pet taxi.`,
+        `Summer in Tokyo is hot and very humid: walk at dawn or after dark, test the pavement with your hand, and carry water everywhere.`,
+        `24-hour emergency vets: Japan Animal Medical Center in Shibuya (03-3378-3366) and Daktari Animal Hospital in Minato (03-5420-0012), both able to help English speakers when you phone ahead.`,
+        `Restaurants rarely admit dogs indoors: aim for terraces and the dog-friendly venues of Hiroo, Azabu-Juban, Daikanyama and Jiyugaoka, and always call ahead.`,
+      ],
+      es: [
+        `Lleva encima el certificado original de vacunación antirrábica de tu perro: es obligatorio para registrarse en las áreas caninas públicas de Tokio, y una copia o foto suele rechazarse.`,
+        `Solo los perros pequeños usan JR y el metro, totalmente cerrados en un transportín dentro de los límites del operador; los perros medianos y grandes deben usar un taxi para mascotas reservado.`,
+        `El verano en Tokio es caluroso y muy húmedo: pasea al amanecer o de noche, comprueba el pavimento con la mano y lleva agua a todas partes.`,
+        `Veterinarios de urgencia 24 horas: Japan Animal Medical Center en Shibuya (03-3378-3366) y Daktari Animal Hospital en Minato (03-5420-0012), ambos capaces de atender a angloparlantes si llamas antes.`,
+        `Los restaurantes rara vez admiten perros en el interior: apunta a terrazas y a los locales dog-friendly de Hiroo, Azabu-Juban, Daikanyama y Jiyugaoka, y llama siempre con antelación.`,
+      ],
+      pt: [
+        `Ande com o certificado original de vacinação antirrábica do seu cão: é obrigatório para se registar nas áreas caninas públicas de Tóquio, e uma cópia ou foto costuma ser recusada.`,
+        `Só os cães pequenos usam a JR e o metro, totalmente fechados numa bolsa dentro dos limites do operador; os cães médios e grandes têm de usar um táxi para animais reservado.`,
+        `O verão em Tóquio é quente e muito húmido: passeie ao amanhecer ou à noite, teste o pavimento com a mão e leve água para todo o lado.`,
+        `Veterinários de urgência 24 horas: Japan Animal Medical Center em Shibuya (03-3378-3366) e Daktari Animal Hospital em Minato (03-5420-0012), ambos capazes de atender falantes de inglês se ligar antes.`,
+        `Os restaurantes raramente admitem cães no interior: aposte em esplanadas e nos locais dog-friendly de Hiroo, Azabu-Juban, Daikanyama e Jiyugaoka, e ligue sempre com antecedência.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Le Japon n'est ni dans l'UE ni dans Schengen : l'entrée d'un chien exige puce ISO, deux vaccins antirabiques, un test sérologique d'anticorps puis une période d'attente, et une notification préalable à la quarantaine, à organiser plusieurs mois à l'avance.`,
+        `Aéroports : Haneda (HND) est le plus proche du centre, Narita (NRT) plus loin ; vérifiez les règles de transport animalier de votre compagnie bien avant le départ.`,
+        `Monnaie : le yen japonais. Budget dog-friendly quotidien élevé, Tokyo étant l'une des capitales les plus chères, prévoyez une marge pour les taxis animaliers.`,
+        `Meilleures saisons : printemps et automne, doux pour marcher ; évitez l'été chaud et humide, la saison des pluies de juin à juillet et les perturbations de typhons autour de septembre.`,
+        `Pour un grand chien, planifiez chaque trajet autour d'un taxi animalier réservé, car les trains sont exclus ; gardez les numéros de vétérinaire d'urgence enregistrés avant d'en avoir besoin.`,
+      ],
+      en: [
+        `Japan is neither in the EU nor Schengen: importing a dog requires an ISO microchip, two rabies vaccinations, a serology antibody test then a waiting period, and advance quarantine notification, all arranged months ahead.`,
+        `Airports: Haneda (HND) is closest to the centre, Narita (NRT) is further out; check your airline's pet-transport rules well before departure.`,
+        `Currency: the Japanese yen. Daily dog-friendly budget runs high, as Tokyo is one of the pricier capitals, so allow a margin for pet taxis.`,
+        `Best seasons: spring and autumn are mild for walking; avoid the hot, humid summer, the June to July rainy season and typhoon disruption around September.`,
+        `For a large dog, plan every journey around a booked pet taxi, since trains are ruled out; keep the emergency vet numbers saved before you need them.`,
+      ],
+      es: [
+        `Japón no está en la UE ni en Schengen: importar un perro exige microchip ISO, dos vacunas antirrábicas, un test serológico de anticuerpos y luego un periodo de espera, y notificación previa de cuarentena, todo organizado con meses de antelación.`,
+        `Aeropuertos: Haneda (HND) es el más cercano al centro, Narita (NRT) queda más lejos; consulta las normas de transporte de mascotas de tu aerolínea mucho antes de salir.`,
+        `Moneda: el yen japonés. El presupuesto diario dog-friendly es alto, ya que Tokio es una de las capitales más caras, así que deja margen para los taxis para mascotas.`,
+        `Mejores temporadas: primavera y otoño son suaves para caminar; evita el verano caluroso y húmedo, la temporada de lluvias de junio a julio y las alteraciones por tifones en torno a septiembre.`,
+        `Para un perro grande, planifica cada trayecto en torno a un taxi para mascotas reservado, ya que los trenes quedan descartados; guarda los números del veterinario de urgencia antes de necesitarlos.`,
+      ],
+      pt: [
+        `O Japão não está na UE nem em Schengen: importar um cão exige microchip ISO, duas vacinas antirrábicas, um teste serológico de anticorpos e depois um período de espera, e notificação prévia de quarentena, tudo tratado com meses de antecedência.`,
+        `Aeroportos: Haneda (HND) é o mais próximo do centro, Narita (NRT) fica mais longe; verifique as regras de transporte de animais da sua companhia aérea muito antes de partir.`,
+        `Moeda: o iene japonês. O orçamento diário pet-friendly é elevado, já que Tóquio é uma das capitais mais caras, por isso deixe margem para os táxis para animais.`,
+        `Melhores épocas: primavera e outono são amenas para caminhar; evite o verão quente e húmido, a época das chuvas de junho a julho e as perturbações por tufões por volta de setembro.`,
+        `Para um cão grande, planeie cada viagem em torno de um táxi para animais reservado, já que os comboios ficam de fora; guarde os números do veterinário de urgência antes de precisar deles.`,
+      ],
+    },
+  },
+
   toledo: {
     history: {
       fr: `Toledo, fondée comme Toletum à l'époque romaine, fut successivement capitale du royaume wisigothique (VIe-VIIIe siècles), centre culturel mauresque (Tulaytula, 711-1085) puis capitale de la Castille jusqu'au transfert de la cour à Madrid en 1561. La ville est un musée à ciel ouvert classé UNESCO depuis 1986 où se rencontrent l'héritage chrétien (cathédrale gothique, Alcázar), juif (synagogues du Tránsito et de Santa María la Blanca) et islamique (mosquée Cristo de la Luz, Puerta de Bisagra). Perchée sur un éperon de granit ceinturé sur trois côtés par les gorges du Tage, Toledo doit son surnom de « cité impériale » à Charles Quint qui en fit sa capitale au XVIe siècle. Pour les voyageurs avec un chien, Toledo est l'une des destinations UNESCO les plus accessibles d'Espagne : Casco Histórico piéton en 25 min, culture tasca tolérante par défaut, Senda Ecológica de 7 km le long du Tage, Mirador del Valle dog-friendly, et liaison Avant directe depuis Madrid en 33 min.`,

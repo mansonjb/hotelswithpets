@@ -24228,6 +24228,81 @@
     "heroImage": "/images/destinations/tirano.jpg"
   },
   {
+    "slug": "tokyo",
+    "name": "Tokyo",
+    "country": "Japan",
+    "countryCode": "JP",
+    "flag": "\ud83c\uddef\ud83c\uddf5",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/tokyo.jpg",
+    "intro": "Tokyo pairs neon Shibuya crossings and centuries-old temples with a real (if stricter) pet-travel scene: Japanese rules mean dogs ride JR and metro trains only inside carriers within set dimensions, and many venues welcome pets on terraces or in dedicated dog cafes rather than in indoor dining rooms. Registered dog runs at Yoyogi and Komazawa, Tokyo Bay seaside parks such as Jonanjima, and 24-hour English-speaking veterinary hospitals make the city genuinely workable for prepared owners who plan around the rules.",
+    "lat": 35.6762,
+    "lng": 139.6503,
+    "weather": {
+      "jan": {
+        "temp": 10,
+        "desc": "Cold & dry",
+        "icon": "\u2600\ufe0f"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Cold & dry",
+        "icon": "\u26c5"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Cool & mild",
+        "icon": "\u26c5"
+      },
+      "apr": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "\u2600\ufe0f"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Warm & pleasant",
+        "icon": "\u2600\ufe0f"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Warm & rainy",
+        "icon": "\ud83c\udf27\ufe0f"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Hot & humid",
+        "icon": "\u2600\ufe0f"
+      },
+      "aug": {
+        "temp": 31,
+        "desc": "Hot & humid",
+        "icon": "\u2600\ufe0f"
+      },
+      "sep": {
+        "temp": 27,
+        "desc": "Warm & humid",
+        "icon": "\ud83c\udf27\ufe0f"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Mild & pleasant",
+        "icon": "\u26c5"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Cool & mild",
+        "icon": "\u26c5"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Cold & dry",
+        "icon": "\u2600\ufe0f"
+      }
+    },
+    "iata": "TYO"
+  },
+  {
     "slug": "toledo",
     "name": "Toledo",
     "country": "Spain",

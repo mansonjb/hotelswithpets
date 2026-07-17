@@ -1557,6 +1557,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Mirador del Valle viewpoint with the iconic skyline panorama, the Senda Ecológica circular path along the Tagus, and the Puente de San Martín medieval bridge`,
       area: `the Casco Histórico around Plaza de Zocodover, the Judería with the El Greco Museum, and La Vega across the Puente de San Martín`,
     },
+    tokyo: {
+      personality: `Japan's electric capital where neon Shibuya crossings, centuries-old temples and quiet residential backstreets sit side by side, with stricter pet rules than Europe but excellent registered dog runs, Tokyo Bay seaside parks and 24-hour English-speaking vets`,
+      highlight: `the Yoyogi Park dog run near Harajuku, the Komazawa Olympic Park dog run in Setagaya, and the Tokyo Bay seaside dog run and beach at Jonanjima`,
+      area: `the international dog-friendly enclaves of Hiroo and Azabu-Juban, the stylish cafes of Daikanyama and Jiyugaoka, and the waterfront parks of Odaiba and Kasai Rinkai`,
+    },
     'tossa-de-mar': {
       personality: `a 5,700-resident Costa Brava sud beach town wrapped around the 12th-century Vila Vella, the only fortified medieval centre that survives on the entire Catalan coast, with four watchtowers, full battlemented ramparts and the Gothic ruins of the Sant Vicenç castle church inside, plus the bronze Ava Gardner statue commemorating the 1951 filming of Pandora and the Flying Dutchman on the rocks above Platja Gran`,
       highlight: `the 12th-century Vila Vella ramparts and four watchtowers (Joanàs, Hores, Mare de Déu, Codolar), the 9 km Camí de Ronda GR-92 coastal path south past Cala Bona, Cala Pola, Cala Llevadó and Cala Giverola to Lloret de Mar, and the 1917 Far de Tossa lighthouse at the easternmost tip of the headland`,
@@ -3393,6 +3398,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la cité impériale médiévale et ancienne capitale wisigothique, mauresque et chrétienne, un musée à ciel ouvert classé UNESCO sur un éperon de granit au-dessus du Tage, avec Madrid à 33 minutes en train Avant grande vitesse`,
       highlight: `le belvédère du Mirador del Valle avec le panorama iconique sur la skyline, la Senda Ecológica circulaire le long du Tage, et le Puente de San Martín médiéval`,
       area: `le Casco Histórico autour de la Plaza de Zocodover, la Judería avec le musée El Greco, et La Vega de l'autre côté du Puente de San Martín`,
+    },
+    tokyo: {
+      personality: `la capitale électrique du Japon où les carrefours néon de Shibuya, les temples séculaires et les ruelles résidentielles tranquilles cohabitent, avec des règles plus strictes qu'en Europe mais d'excellents espaces canins inscrits, des parcs balnéaires de la baie de Tokyo et des vétérinaires anglophones 24h/24`,
+      highlight: `l'espace canin du parc Yoyogi près de Harajuku, celui du parc olympique de Komazawa à Setagaya, et l'espace canin et la plage de la baie de Tokyo à Jonanjima`,
+      area: `les quartiers internationaux dog-friendly de Hiroo et Azabu-Juban, les cafés élégants de Daikanyama et Jiyugaoka, et les parcs en bord de mer d'Odaiba et Kasai Rinkai`,
     },
     'tossa-de-mar': {
       personality: `une station balnéaire de 5 700 habitants au sud de la Costa Brava enroulée autour de la Vila Vella du XIIᵉ siècle, le seul centre médiéval fortifié qui subsiste sur toute la côte catalane, avec quatre tours de guet, des remparts crénelés complets et les ruines gothiques de l'église-château de Sant Vicenç à l'intérieur, plus la statue de bronze d'Ava Gardner en mémoire du tournage de Pandora en 1951 sur les rochers au-dessus de la Platja Gran`,
@@ -5231,6 +5241,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el mirador del Mirador del Valle con el panorama icónico del skyline, la Senda Ecológica circular a lo largo del Tajo, y el Puente de San Martín medieval`,
       area: `el Casco Histórico alrededor de la Plaza de Zocodover, la Judería con el museo del Greco, y La Vega al otro lado del Puente de San Martín`,
     },
+    tokyo: {
+      personality: `la eléctrica capital de Japón donde los cruces de neón de Shibuya, los templos centenarios y las tranquilas callejuelas residenciales conviven, con normas más estrictas que en Europa pero excelentes áreas caninas registradas, parques marítimos de la bahía de Tokio y veterinarios 24 horas que hablan inglés`,
+      highlight: `el área canina del parque Yoyogi cerca de Harajuku, la del parque olímpico de Komazawa en Setagaya, y el área canina y la playa de la bahía de Tokio en Jonanjima`,
+      area: `los barrios internacionales dog-friendly de Hiroo y Azabu-Juban, los cafés elegantes de Daikanyama y Jiyugaoka, y los parques costeros de Odaiba y Kasai Rinkai`,
+    },
     'tossa-de-mar': {
       personality: `una localidad costera de 5.700 habitantes al sur de la Costa Brava envuelta alrededor de la Vila Vella del siglo XII, el único centro medieval amurallado que sobrevive en toda la costa catalana, con cuatro torres de vigilancia, murallas almenadas completas y las ruinas góticas de la iglesia-castillo de Sant Vicenç dentro, más la estatua de bronce de Ava Gardner en memoria del rodaje de Pandora en 1951 sobre las rocas encima de la Platja Gran`,
       highlight: `las murallas de la Vila Vella del siglo XII y sus cuatro torres de vigilancia (Joanàs, Hores, Mare de Déu, Codolar), los 9 km del Camí de Ronda GR-92 al sur por Cala Bona, Cala Pola, Cala Llevadó y Cala Giverola hasta Lloret de Mar, y el faro Far de Tossa de 1917 en la punta más oriental de la península`,
@@ -7067,6 +7082,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a cidade imperial medieval e antiga capital visigoda, morisca e cristiana, um museu al aire libre clasificado UNESCO num promontorio de granito sobre o Tajo, com Madrid a 33 minutos de comboio Avant de alta velocidad`,
       highlight: `o mirador do Mirador do Valle com o panorama icónico do skyline, a Senda Ecológica circular a lo largo do Tajo, e o Ponte de San Martín medieval`,
       area: `o Casco Histórico alrededor da Praça de Zocodover, a Judería com o museu do Greco, e A Vega al otro lado do Ponte de San Martín`,
+    },
+    tokyo: {
+      personality: `a elétrica capital do Japão onde os cruzamentos de néon de Shibuya, os templos centenários e as tranquilas ruelas residenciais convivem, com regras mais rígidas do que na Europa mas excelentes áreas caninas registadas, parques à beira-mar da baía de Tóquio e veterinários 24 horas que falam inglês`,
+      highlight: `a área canina do parque Yoyogi perto de Harajuku, a do parque olímpico de Komazawa em Setagaya, e a área canina e a praia da baía de Tóquio em Jonanjima`,
+      area: `os bairros internacionais dog-friendly de Hiroo e Azabu-Juban, os cafés elegantes de Daikanyama e Jiyugaoka, e os parques à beira-mar de Odaiba e Kasai Rinkai`,
     },
     'tossa-de-mar': {
       personality: `uma vila balnear de 5.700 habitantes no sul da Costa Brava envolta na Vila Vella do século XII, o único centro medieval amuralhado que sobrevive em toda a costa catalã, com quatro torres de vigia, muralhas ameadas completas e as ruínas góticas da igreja-castelo de Sant Vicenç dentro, mais a estátua de bronze de Ava Gardner em memória da rodagem de Pandora em 1951 sobre as rochas em cima da Platja Gran`,

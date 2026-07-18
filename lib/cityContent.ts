@@ -29744,6 +29744,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  osaka: {
+    history: {
+      fr: `Osaka a grandi de la ville-temple et du port médiévaux de Naniwa jusqu'à devenir la capitale marchande du Japon, la "cuisine de la nation" dont les négociants finançaient le pays pendant que le pouvoir Tokugawa siégeait à Edo. Le grand château de Toyotomi Hideyoshi, reconstruit après les guerres et les incendies, ancre toujours la ville, et les canaux qui transportaient le riz et les marchandises ont donné naissance à la culture gastronomique de Dotonbori et Kuromon. Aujourd'hui, Osaka est le cœur animé de la région du Kansai, plus directe et joueuse que Tokyo. Pour un maître de chien, elle est praticable mais encadrée : les chiens ne prennent le métro et les trains JR qu'enfermés dans un sac, et la plupart des temples, centres commerciaux et halles gourmandes les excluent. Le plaisir se vit en plein air, dans les parcs au bord de l'eau de Nakanoshima, dans les dog runs préfectoraux comme Hamadera et le long des canaux, le Shinkansen reliant Kyoto en environ 15 minutes et Tokyo en environ 2 h 30.`,
+      en: `Osaka grew from the medieval temple town and port of Naniwa into Japan's merchant capital, the "nation's kitchen" whose traders financed the country while Tokugawa power sat in Edo. Toyotomi Hideyoshi's great castle, rebuilt after wars and fire, still anchors the city, and the canals that once carried rice and goods gave rise to the food culture of Dotonbori and Kuromon. Today Osaka is the buzzing heart of the Kansai region, blunter and more playful than Tokyo. For a dog owner it is workable but rule-bound: dogs ride the metro and JR trains only inside a closed carrier, and most temples, malls and food halls exclude them. The pleasure is outdoors, in the riverside parks of Nakanoshima, the prefectural dog runs such as Hamadera, and the canal-side streets, with the Shinkansen linking Kyoto in about 15 minutes and Tokyo in about 2 hours 30 minutes.`,
+      es: `Osaka creció desde la ciudad-templo y el puerto medievales de Naniwa hasta convertirse en la capital mercantil de Japón, la "cocina de la nación" cuyos comerciantes financiaban el país mientras el poder Tokugawa residía en Edo. El gran castillo de Toyotomi Hideyoshi, reconstruido tras guerras e incendios, sigue anclando la ciudad, y los canales que transportaban arroz y mercancías dieron origen a la cultura gastronómica de Dotonbori y Kuromon. Hoy Osaka es el bullicioso corazón de la región de Kansai, más directa y juguetona que Tokio. Para un dueño de perro es practicable pero reglada: los perros usan el metro y los trenes JR solo cerrados en un transportín, y la mayoría de los templos, centros comerciales y mercados de comida los excluyen. El disfrute está al aire libre, en los parques junto al río de Nakanoshima, en las zonas caninas de la prefectura como Hamadera y a lo largo de los canales, con el Shinkansen que enlaza Kioto en unos 15 minutos y Tokio en unas 2 horas 30 minutos.`,
+      pt: `Osaka cresceu da cidade-templo e do porto medievais de Naniwa até se tornar a capital mercantil do Japão, a "cozinha da nação" cujos comerciantes financiavam o país enquanto o poder Tokugawa residia em Edo. O grande castelo de Toyotomi Hideyoshi, reconstruído após guerras e incêndios, continua a ancorar a cidade, e os canais que transportavam arroz e mercadorias deram origem à cultura gastronómica de Dotonbori e Kuromon. Hoje Osaka é o movimentado coração da região de Kansai, mais direta e brincalhona do que Tóquio. Para um dono de cão é praticável mas regrada: os cães usam o metro e os comboios JR apenas fechados numa bolsa, e a maioria dos templos, centros comerciais e mercados de comida exclui-os. O prazer está ao ar livre, nos parques junto ao rio de Nakanoshima, nos dog runs da prefeitura como Hamadera e ao longo dos canais, com o Shinkansen a ligar Quioto em cerca de 15 minutos e Tóquio em cerca de 2 horas 30 minutos.`,
+    },
+    sights: [
+      { name: 'Osaka Castle Park (Osaka-jo Koen)', emoji: '🏯', petFriendly: true, desc: {
+        fr: `Le vaste parc autour du château d'Osaka est le grand repère vert de la ville. On y promène couramment les chiens en laisse sur les terrains extérieurs ouverts ; le donjon et le musée du château, eux, excluent les animaux.`,
+        en: `The vast park around Osaka Castle is the city's green landmark. Leashed dogs are commonly walked on the open outer grounds; the castle keep and museum, however, exclude pets.`,
+        es: `El amplio parque en torno al castillo de Osaka es el gran referente verde de la ciudad. Se pasean habitualmente perros con correa en los terrenos exteriores abiertos; el torreón y el museo del castillo, en cambio, excluyen a las mascotas.`,
+        pt: `O amplo parque em torno do castelo de Osaka é o grande marco verde da cidade. Passeiam-se habitualmente cães à trela nos terrenos exteriores abertos; a torre de menagem e o museu do castelo, porém, excluem os animais.`,
+      }},
+      { name: 'Nakanoshima', emoji: '🌊', petFriendly: true, desc: {
+        fr: `L'île fluviale au cœur d'Osaka, avec ses parcs, ses terrasses au bord de l'eau et ses berges plantées. Un axe naturel de promenade en laisse, ponctué de cafés dog-friendly cités par le guide touristique officiel de la ville.`,
+        en: `The river island at the heart of Osaka, with its parks, waterside terraces and planted embankments. A natural leashed-walking route dotted with dog-friendly cafes listed by the city's official tourism guide.`,
+        es: `La isla fluvial en el corazón de Osaka, con sus parques, terrazas junto al agua y riberas ajardinadas. Un eje natural de paseo con correa salpicado de cafés dog-friendly incluidos en la guía turística oficial de la ciudad.`,
+        pt: `A ilha fluvial no coração de Osaka, com os seus parques, esplanadas junto à água e margens ajardinadas. Um eixo natural de passeio à trela pontuado por cafés dog-friendly citados pelo guia turístico oficial da cidade.`,
+      }},
+      { name: 'Hamadera Park Dog Run', emoji: '🐕', petFriendly: true, desc: {
+        fr: `Un dog run officiel de la préfecture d'Osaka dans le parc de Hamadera, à Sakai, avec des enclos séparés pour petits et grands chiens. Entrée gratuite de 10h00 à 16h30, sur preuve de vaccins à jour.`,
+        en: `An official Osaka Prefecture dog run in Hamadera Park in Sakai, with separate fields for small and larger dogs. Free entry from 10:00 to 16:30, on proof of current vaccinations.`,
+        es: `Una zona canina oficial de la prefectura de Osaka en el parque de Hamadera, en Sakai, con recintos separados para perros pequeños y grandes. Entrada gratuita de 10:00 a 16:30, con prueba de vacunas al día.`,
+        pt: `Um dog run oficial da prefeitura de Osaka no parque de Hamadera, em Sakai, com recintos separados para cães pequenos e grandes. Entrada gratuita das 10:00 às 16:30, mediante prova de vacinas em dia.`,
+      }},
+      { name: 'Dotonbori', emoji: '🏮', petFriendly: true, desc: {
+        fr: `Le canal illuminé et ses ruelles de restaurants sont l'image d'Osaka. On peut y passer avec un chien en laisse, mais la plupart des boutiques et adresses de street food l'excluent : à vivre comme une promenade, pas comme une pause repas.`,
+        en: `The neon canal and its restaurant lanes are the image of Osaka. You can walk through with a leashed dog, but most shops and street-food spots exclude them, so treat it as a stroll rather than a meal stop.`,
+        es: `El canal iluminado y sus callejuelas de restaurantes son la imagen de Osaka. Puedes pasar con un perro con correa, pero la mayoría de las tiendas y puestos de comida callejera los excluyen, así que vívelo como un paseo y no como una parada para comer.`,
+        pt: `O canal iluminado e as suas ruelas de restaurantes são a imagem de Osaka. Pode passar com um cão à trela, mas a maioria das lojas e bancas de street food exclui-os, por isso viva-o como um passeio e não como uma paragem para comer.`,
+      }},
+      { name: 'Sukunahikona Shrine', emoji: '⛩️', petFriendly: true, desc: {
+        fr: `Un petit sanctuaire du quartier historique de la pharmacie, près de Nakanoshima, cité par le guide officiel d'Osaka comme lieu de bénédiction pour les animaux. Halte facile en laisse, en gardant le chien calme.`,
+        en: `A small shrine in the historic medicine district near Nakanoshima, listed by the official Osaka guide as a place for pet blessings. An easy leashed stop, keeping your dog calm.`,
+        es: `Un pequeño santuario del histórico barrio de la medicina, cerca de Nakanoshima, incluido por la guía oficial de Osaka como lugar de bendición para animales. Una parada fácil con correa, manteniendo al perro tranquilo.`,
+        pt: `Um pequeno santuário do histórico bairro da medicina, perto de Nakanoshima, citado pelo guia oficial de Osaka como local de bênção para animais. Uma paragem fácil à trela, mantendo o cão calmo.`,
+      }},
+      { name: 'the Farm UNIVERSAL OSAKA', emoji: '🌿', petFriendly: true, desc: {
+        fr: `Une grande jardinerie avec café à Ibaraki, au nord d'Osaka, citée sur les pages animalières officielles du tourisme, avec une terrasse dog-friendly et un petit dog run. Idéale en voiture ou en taxi animalier depuis la ville.`,
+        en: `A large garden centre with a cafe in Ibaraki, north of Osaka, listed on the official tourism pet pages, with a dog-friendly terrace and a small dog run. Best reached by car or pet taxi from the city.`,
+        es: `Un gran centro de jardinería con café en Ibaraki, al norte de Osaka, incluido en las páginas oficiales de mascotas del turismo, con una terraza dog-friendly y una pequeña zona canina. Se llega mejor en coche o taxi para mascotas desde la ciudad.`,
+        pt: `Um grande centro de jardinagem com café em Ibaraki, a norte de Osaka, citado nas páginas oficiais de animais do turismo, com uma esplanada dog-friendly e um pequeno dog run. Chega-se melhor de carro ou táxi para animais a partir da cidade.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La plupart des temples, centres commerciaux et halles gourmandes d'Osaka excluent les chiens ; sur les terrains publics ouverts, on les promène en laisse, et le donjon du château d'Osaka n'admet pas les animaux.`,
+        `Deux règles de transport : sur le métro d'Osaka et les bus, le chien voyage gratuitement dans un sac fermé et couvert tenant sur les genoux (pas de taille publiée) ; sur JR West, sac de 70 cm maximum, moins de 10 kg, supplément d'environ 290 yens.`,
+        `Les dog runs officiels de la préfecture (dont Hamadera à Sakai) sont l'option sans laisse fiable, gratuits mais sur preuve d'un vaccin antirabique et d'un vaccin annuel de moins d'un an.`,
+        `L'été à Osaka est chaud et très humide : promenez-vous à l'aube ou après la tombée de la nuit, testez le bitume avec la main et emportez de l'eau partout.`,
+        `Urgence vétérinaire de nuit : Osaka Animal Night-Time Emergency Medical Center à Higashinari (06-4259-1212), environ de 21h00 à 05h00 ; appelez pour confirmer et gardez les infos médicales par écrit.`,
+      ],
+      en: [
+        `Most Osaka temples, malls and food halls exclude dogs; on open public grounds they are walked on a leash, and the Osaka Castle keep does not admit pets.`,
+        `Two transport rules: on the Osaka Metro and buses a dog rides free in a closed, covered carrier that fits on your lap (no published size); on JR West, a carrier up to 70 cm, under 10 kg, with a fee of about 290 yen.`,
+        `The official prefectural dog runs (including Hamadera in Sakai) are the reliable off-leash option, free but requiring proof of a rabies shot and an annual vaccination within the past year.`,
+        `Summer in Osaka is hot and very humid: walk at dawn or after dark, test the pavement with your hand, and carry water everywhere.`,
+        `Night emergency vet: Osaka Animal Night-Time Emergency Medical Center in Higashinari (06-4259-1212), roughly 21:00 to 05:00; call to confirm and keep medical details written down.`,
+      ],
+      es: [
+        `La mayoría de los templos, centros comerciales y mercados de comida de Osaka excluyen a los perros; en los terrenos públicos abiertos se pasean con correa, y el torreón del castillo de Osaka no admite mascotas.`,
+        `Dos normas de transporte: en el metro de Osaka y los autobuses el perro viaja gratis en un transportín cerrado y cubierto que quepa en el regazo (sin tamaño publicado); en JR West, transportín de hasta 70 cm, menos de 10 kg, con un suplemento de unos 290 yenes.`,
+        `Las zonas caninas oficiales de la prefectura (incluida Hamadera en Sakai) son la opción fiable sin correa, gratuitas pero con prueba de vacuna antirrábica y de una vacuna anual de menos de un año.`,
+        `El verano en Osaka es caluroso y muy húmedo: pasea al amanecer o de noche, comprueba el pavimento con la mano y lleva agua a todas partes.`,
+        `Veterinario de urgencia nocturno: Osaka Animal Night-Time Emergency Medical Center en Higashinari (06-4259-1212), aproximadamente de 21:00 a 05:00; llama para confirmar y ten los datos médicos por escrito.`,
+      ],
+      pt: [
+        `A maioria dos templos, centros comerciais e mercados de comida de Osaka exclui os cães; nos terrenos públicos abertos passeiam-se à trela, e a torre de menagem do castelo de Osaka não admite animais.`,
+        `Duas regras de transporte: no metro de Osaka e nos autocarros o cão viaja gratuitamente numa bolsa fechada e coberta que caiba no colo (sem tamanho publicado); na JR West, bolsa até 70 cm, menos de 10 kg, com um suplemento de cerca de 290 ienes.`,
+        `Os dog runs oficiais da prefeitura (incluindo Hamadera em Sakai) são a opção de confiança sem trela, gratuitos mas mediante prova da vacina antirrábica e de uma vacina anual de menos de um ano.`,
+        `O verão em Osaka é quente e muito húmido: passeie ao amanhecer ou à noite, teste o pavimento com a mão e leve água para todo o lado.`,
+        `Veterinário de urgência noturno: Osaka Animal Night-Time Emergency Medical Center em Higashinari (06-4259-1212), aproximadamente das 21:00 às 05:00; ligue para confirmar e tenha os dados médicos por escrito.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Le Japon n'est ni dans l'UE ni dans Schengen : l'entrée d'un chien exige une puce ISO, deux vaccins antirabiques, un test sérologique FAVN d'un titre d'au moins 0,5 UI/ml, puis une attente de 180 jours, et une notification préalable à l'import au service de quarantaine animale au moins 40 jours avant l'arrivée.`,
+        `Aéroports : Kansai International (KIX) est la principale porte d'entrée internationale, avec Itami (ITM) pour les vols intérieurs ; vérifiez les règles de transport animalier de votre compagnie bien avant le départ.`,
+        `Monnaie : le yen japonais. Budget dog-friendly quotidien élevé, prévoyez une marge pour les taxis animaliers, indispensables pour les grands chiens exclus du métro et des trains.`,
+        `Meilleures saisons : printemps et automne, doux pour marcher ; évitez l'été chaud et humide et la saison des pluies de juin à juillet ; l'hiver est frais mais en général doux et sec.`,
+        `Cluster Japon : le Shinkansen relie Osaka à Kyoto en environ 15 minutes et à Tokyo en environ 2 h 30, ce qui ferme le triangle Tokyo-Kyoto-Osaka pour un itinéraire japonais avec chien.`,
+      ],
+      en: [
+        `Japan is neither in the EU nor Schengen: importing a dog requires an ISO microchip, two rabies vaccinations, a FAVN serology titer of at least 0.5 IU/ml, then a 180-day wait, and advance import notification to the Animal Quarantine Service at least 40 days before arrival.`,
+        `Airports: Kansai International (KIX) is the main international gateway, with Itami (ITM) for domestic flights; check your airline's pet-transport rules well before departure.`,
+        `Currency: the Japanese yen. Daily dog-friendly budget runs high, so allow a margin for pet taxis, which are essential for large dogs shut out of the metro and trains.`,
+        `Best seasons: spring and autumn are mild for walking; avoid the hot, humid summer and the June to July rainy season; winter is cool but generally mild and dry.`,
+        `Japan cluster: the Shinkansen links Osaka to Kyoto in about 15 minutes and to Tokyo in about 2 hours 30 minutes, closing the Tokyo-Kyoto-Osaka triangle for a wider Japan trip with a dog.`,
+      ],
+      es: [
+        `Japón no está en la UE ni en Schengen: importar un perro exige microchip ISO, dos vacunas antirrábicas, un test serológico FAVN con un título de al menos 0,5 UI/ml, luego una espera de 180 días, y notificación previa de importación al servicio de cuarentena animal al menos 40 días antes de la llegada.`,
+        `Aeropuertos: Kansai International (KIX) es la principal puerta de entrada internacional, con Itami (ITM) para vuelos domésticos; consulta las normas de transporte de mascotas de tu aerolínea mucho antes de salir.`,
+        `Moneda: el yen japonés. El presupuesto diario dog-friendly es alto, así que deja margen para los taxis para mascotas, imprescindibles para perros grandes excluidos del metro y los trenes.`,
+        `Mejores temporadas: primavera y otoño son suaves para caminar; evita el verano caluroso y húmedo y la temporada de lluvias de junio a julio; el invierno es fresco pero en general suave y seco.`,
+        `Clúster Japón: el Shinkansen enlaza Osaka con Kioto en unos 15 minutos y con Tokio en unas 2 horas 30 minutos, cerrando el triángulo Tokio-Kioto-Osaka para un viaje más amplio por Japón con perro.`,
+      ],
+      pt: [
+        `O Japão não está na UE nem em Schengen: importar um cão exige microchip ISO, duas vacinas antirrábicas, um teste serológico FAVN com um título de pelo menos 0,5 UI/ml, depois uma espera de 180 dias, e notificação prévia de importação ao serviço de quarentena animal pelo menos 40 dias antes da chegada.`,
+        `Aeroportos: o Kansai International (KIX) é a principal porta de entrada internacional, com o Itami (ITM) para voos domésticos; verifique as regras de transporte de animais da sua companhia aérea muito antes de partir.`,
+        `Moeda: o iene japonês. O orçamento diário pet-friendly é elevado, por isso deixe margem para os táxis para animais, indispensáveis para cães grandes excluídos do metro e dos comboios.`,
+        `Melhores épocas: primavera e outono são amenas para caminhar; evite o verão quente e húmido e a época das chuvas de junho a julho; o inverno é fresco mas em geral ameno e seco.`,
+        `Cluster Japão: o Shinkansen liga Osaka a Quioto em cerca de 15 minutos e a Tóquio em cerca de 2 horas 30 minutos, fechando o triângulo Tóquio-Quioto-Osaka para uma viagem mais ampla pelo Japão com um cão.`,
+      ],
+    },
+  },
+
   oslo: {
     history: {
       fr: `Fondée vers 1040 au fond de son fjord, Oslo fut reconstruite par Christian IV après l'incendie de 1624 sous le nom de Christiania, avant de reprendre son nom actuel en 1925. Peuplée d'environ 710 000 habitants, la capitale norvégienne est encerclée par la forêt de Marka et affiche l'un des taux de possession canine les plus élevés d'Europe, avec près de 75 000 chiens enregistrés. Les Norvégiens considèrent leurs chiens comme de la famille : la loi båndtvang impose la laisse du 1er avril au 20 août pour protéger faune et moutons, mais hors saison les sentiers de Nordmarka deviennent un paradis sans laisse. Oslo compte des dizaines de hundeparker clôturés, Torshovdalen, Sofienbergparken, St. Hanshaugen, et les chiens voyagent pour un tarif enfant dans tous les transports. Cafés, hôtels et certains musées les accueillent ; ramasser est obligatoire, sous peine d'une amende de 1 600 NOK.`,

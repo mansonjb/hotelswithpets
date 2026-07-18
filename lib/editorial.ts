@@ -1186,6 +1186,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the full-length Lungomare promenade, the Punta Kolova and Gornja Ika dog beaches, and the Ucka summit trails`,
       area: `the historic town centre around Park Angiolina, the old fishing village of Volosko, and the seafront run out to Icici and Lovran`,
     },
+    osaka: {
+      personality: `the buzzing commercial heart of the Kansai region, a rule-bound but workable dog city where carrier-only transport and mostly dog-free interiors push the pleasure outdoors, along Osaka Castle Park, the Dotonbori canal and the riverside parks, with the Shinkansen linking Kyoto in about fifteen minutes and Tokyo in about 2 hours 30 minutes`,
+      highlight: `the outer paths and lawns of Osaka Castle Park, the greenery of Nakanoshima and Utsubo parks, and the Dotonbori canal-side walk`,
+      area: `Kita around Umeda and Nakanoshima, the Namba and Dotonbori entertainment district, and Tennoji to the south`,
+    },
     oslo: {
       personality: 'a Scandinavian capital where the proximity of fjords, forests, and the vast Oslomarka trail network makes it one of the continent\'s best destinations for active dog owners',
       highlight: 'the Oslomarka forest, the Bygdøy peninsula, and the Akerselva river trail',
@@ -3034,6 +3039,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Lungomare sur toute sa longueur, les plages canines de Punta Kolova et de Gornja Ika, et les sentiers du sommet de l'Učka`,
       area: `le centre historique autour du Park Angiolina, le vieux village de pêcheurs de Volosko, et le front de mer jusqu'à Ičići et Lovran`,
     },
+    osaka: {
+      personality: `le cœur commerçant animé de la région du Kansai, une ville canine encadrée mais praticable où le transport uniquement en sac et des intérieurs le plus souvent interdits aux chiens poussent le plaisir en plein air, le long du parc du château d'Osaka, du canal de Dotonbori et des parcs en bord de rivière, avec le Shinkansen reliant Kyoto en environ quinze minutes et Tokyo en environ 2 heures 30`,
+      highlight: `les chemins extérieurs et pelouses du parc du château d'Osaka, la verdure des parcs de Nakanoshima et d'Utsubo, et la promenade au bord du canal de Dotonbori`,
+      area: `Kita autour d'Umeda et de Nakanoshima, le quartier des divertissements de Namba et Dotonbori, et Tennoji au sud`,
+    },
     oslo: {
       personality: 'une capitale scandinave où la proximité des fjords, des forêts et du vaste réseau de sentiers de l\'Oslomarka en fait l\'une des meilleures destinations du continent pour les propriétaires de chiens actifs',
       highlight: 'la forêt de l\'Oslomarka, la péninsule de Bygdøy et le sentier de la rivière Akerselva',
@@ -4881,6 +4891,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Lungomare en toda su longitud, las playas caninas de Punta Kolova y Gornja Ika, y los senderos de la cima del Učka`,
       area: `el centro histórico en torno al Park Angiolina, el antiguo pueblo pesquero de Volosko, y el paseo marítimo hasta Ičići y Lovran`,
     },
+    osaka: {
+      personality: `el bullicioso corazón comercial de la región de Kansai, una ciudad canina reglada pero practicable donde el transporte solo en transportín y unos interiores casi siempre vetados a los perros llevan el disfrute al aire libre, junto al parque del castillo de Osaka, el canal de Dotonbori y los parques ribereños, con el Shinkansen que enlaza Kioto en unos quince minutos y Tokio en unas 2 horas 30`,
+      highlight: `los caminos exteriores y céspedes del parque del castillo de Osaka, el verdor de los parques de Nakanoshima y Utsubo, y el paseo junto al canal de Dotonbori`,
+      area: `Kita en torno a Umeda y Nakanoshima, el distrito de ocio de Namba y Dotonbori, y Tennoji al sur`,
+    },
     oslo: {
       personality: 'una capital escandinava donde la proximidad de fiordos, bosques y la vasta red de senderos del Oslomarka la convierten en uno de los mejores destinos del continente para los dueños de perros activos',
       highlight: 'el bosque del Oslomarka, la península de Bygdøy y el sendero del río Akerselva',
@@ -6727,6 +6742,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a grande dama da Riviera croata, uma estância termal Belle Époque onde os cães com trela percorrem os 12 km do Lungomare junto ao mar, nadam em duas praias caninas designadas e sobem ao arborizado parque natural do Učka atrás da cidade`,
       highlight: `o Lungomare em todo o seu comprimento, as praias caninas de Punta Kolova e Gornja Ika, e os trilhos do cume do Učka`,
       area: `o centro histórico em torno do Park Angiolina, a antiga aldeia piscatória de Volosko, e a beira-mar até Ičići e Lovran`,
+    },
+    osaka: {
+      personality: `o movimentado coração comercial da região de Kansai, uma cidade canina regrada mas praticável onde o transporte só em bolsa e uns interiores quase sempre vedados aos cães levam o prazer ao ar livre, junto ao parque do castelo de Osaka, ao canal de Dotonbori e aos parques ribeirinhos, com o Shinkansen a ligar Quioto em cerca de quinze minutos e Tóquio em cerca de 2 horas 30`,
+      highlight: `os caminhos exteriores e relvados do parque do castelo de Osaka, o verde dos parques de Nakanoshima e Utsubo, e o passeio junto ao canal de Dotonbori`,
+      area: `Kita em torno de Umeda e Nakanoshima, o bairro de diversão de Namba e Dotonbori, e Tennoji a sul`,
     },
     oslo: {
       personality: 'uma capital escandinava onde a proximidad de fiordos, florestas e a vasta red de trilhos do Oslomarka a convierten en uno dos melhores destinos do continente para os duenhos de cães activos',

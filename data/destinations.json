@@ -12793,6 +12793,81 @@
     "iata": "TIA"
   },
   {
+    "slug": "kyoto",
+    "name": "Kyoto",
+    "country": "Japan",
+    "countryCode": "JP",
+    "flag": "🇯🇵",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/kyoto.jpg",
+    "intro": "Kyoto, Japan's thousand-year imperial capital, is a beautiful but demanding city for dog owners: most of its famous temples, shrines and paid gardens do not admit dogs inside, so the pleasure lies outdoors. Leashed dogs are welcome along the Kamo River, on the paths of Kyoto Gyoen (the Imperial Park) and Takaragaike Park, on the public Arashiyama bamboo path and the Philosopher's Path, and through the historic streets of Gion and Higashiyama. Public transport is carrier-only as elsewhere in Japan, a dedicated night emergency vet and an English-speaking daytime clinic back you up, and the Tokaido Shinkansen links Kyoto to Tokyo in about 2 hours 15 minutes for a wider Japan trip.",
+    "lat": 35.0116,
+    "lng": 135.7681,
+    "weather": {
+      "jan": {
+        "temp": 5,
+        "desc": "Cold, occasional snow",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cold & crisp",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm & rainy",
+        "icon": "🌧️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot & humid",
+        "icon": "🌦️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & humid",
+        "icon": "🌧️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 13,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cold & dry",
+        "icon": "❄️"
+      }
+    },
+    "iata": "KIX"
+  },
+  {
     "slug": "la-rochelle",
     "name": "La Rochelle",
     "country": "France",

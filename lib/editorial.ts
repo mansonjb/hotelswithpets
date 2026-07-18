@@ -956,6 +956,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Ponta da Piedade clifftop boardwalk, the 4 km off-season Meia Praia dune, and the year-round dog zone at Praia de Porto de Mós`,
       area: `the walled old town around Praça Gil Eanes and Praça do Infante, the Marina de Lagos waterfront and the residential Chinicato outskirts`,
     },
+    kyoto: {
+      personality: `Japan's thousand-year imperial capital, a demanding but beautiful dog city where most temples, shrines and paid gardens exclude dogs, so the joy is outdoors along the Kamo River, the Imperial Park and the historic streets, with a dedicated night emergency vet and the Shinkansen linking Tokyo in about 2 hours 15 minutes`,
+      highlight: `the Kamo River banks, the paths of Kyoto Gyoen (the Imperial Park), and the public Arashiyama bamboo path and Philosopher's Path`,
+      area: `central Nakagyo and the Higashiyama streets around Gion, the Kamo River riverside, and Arashiyama to the west`,
+    },
     'la-rochelle': {
       personality: `an Atlantic sailing capital wrapped around its medieval Vieux Port, where three guard towers frame the harbour, arcaded merchant streets shelter dogs from rain and sun, and the city's flat, bike-friendly geography makes it one of the easiest in France to explore with a dog`,
       highlight: `the three towers of the Vieux Port (Saint-Nicolas, de la Chaîne and de la Lanterne), the near-2 km Parc Charruyer green belt from centre to sea, and the Île de Ré ten minutes across the bridge`,
@@ -2799,6 +2804,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le pontón de falaise de Ponta da Piedade, la dune de Meia Praia de 4 km en demi-saison et la zone canine permanente de Praia de Porto de Mós`,
       area: `la vieille ville fortifiée autour de la Praça Gil Eanes et de la Praça do Infante, le front de la Marina de Lagos et la périphérie résidentielle de Chinicato`,
     },
+    kyoto: {
+      personality: `la capitale impériale millénaire du Japon, ville canine exigeante mais magnifique où la plupart des temples, sanctuaires et jardins payants excluent les chiens : le plaisir se vit en plein air le long de la rivière Kamo, du Parc impérial et des rues historiques, avec un vétérinaire d'urgence de nuit et le Shinkansen reliant Tokyo en environ 2 heures 15`,
+      highlight: `les berges de la rivière Kamo, les chemins du Kyoto Gyoen (le Parc impérial), et le chemin public des bambous d'Arashiyama et le chemin de la Philosophie`,
+      area: `le centre de Nakagyo et les rues de Higashiyama autour de Gion, les berges de la rivière Kamo, et Arashiyama à l'ouest`,
+    },
     'la-rochelle': {
       personality: `une capitale atlantique de la voile blottie autour de son Vieux Port médiéval, où trois tours de garde encadrent le port, où les rues à arcades des marchands abritent les chiens de la pluie et du soleil, et dont la géographie plate et propice au vélo en fait l'une des villes les plus faciles de France à explorer avec un chien`,
       highlight: `les trois tours du Vieux Port (Saint-Nicolas, de la Chaîne et de la Lanterne), la ceinture verte du Parc Charruyer de près de 2 km du centre à la mer, et l'Île de Ré à dix minutes par le pont`,
@@ -4641,6 +4651,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la pasarela de acantilado de Ponta da Piedade, la duna de Meia Praia de 4 km en temporada baja y la zona canina permanente de Praia de Porto de Mós`,
       area: `el casco antiguo amurallado en torno a la Praça Gil Eanes y la Praça do Infante, el frente de la Marina de Lagos y la periferia residencial de Chinicato`,
     },
+    kyoto: {
+      personality: `la capital imperial milenaria de Japón, una ciudad canina exigente pero preciosa donde la mayoría de templos, santuarios y jardines de pago excluyen a los perros: el disfrute está al aire libre junto al río Kamo, el Parque Imperial y las calles históricas, con un veterinario de urgencia nocturno y el Shinkansen que enlaza Tokio en unas 2 horas 15`,
+      highlight: `las orillas del río Kamo, los caminos del Kyoto Gyoen (el Parque Imperial), y el sendero público de bambú de Arashiyama y el Camino de la Filosofía`,
+      area: `el centro de Nakagyo y las calles de Higashiyama alrededor de Gion, la orilla del río Kamo, y Arashiyama al oeste`,
+    },
     'la-rochelle': {
       personality: `una capital atlántica de la vela acurrucada en torno a su Vieux Port medieval, donde tres torres de guardia enmarcan el puerto, las calles porticadas de los mercaderes resguardan a los perros de la lluvia y el sol, y cuya geografía llana y apta para la bici la convierte en una de las ciudades más fáciles de Francia para explorar con un perro`,
       highlight: `las tres torres del Vieux Port (Saint-Nicolas, de la Chaîne y de la Lanterne), el cinturón verde del Parc Charruyer de casi 2 km del centro al mar, y la Île de Ré a diez minutos por el puente`,
@@ -6482,6 +6497,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a base mais dog-tolerant do oeste do Algarve, cidade velha amuralhada do século XVI atravessada por ruelas pedonais e esplanadas calcetadas, falésias calcárias ocres da Ponta da Piedade com o seu passadiço de 4 km, duna de 4 km da Meia Praia para corridas fora de época e zona canina permanente na Praia de Porto de Mós`,
       highlight: `o passadiço de falésia da Ponta da Piedade, a duna da Meia Praia de 4 km na meia-estação e a zona canina permanente da Praia de Porto de Mós`,
       area: `a cidade velha amuralhada em torno da Praça Gil Eanes e da Praça do Infante, a frente da Marina de Lagos e a periferia residencial de Chinicato`,
+    },
+    kyoto: {
+      personality: `a capital imperial milenar do Japão, uma cidade canina exigente mas linda onde a maioria dos templos, santuários e jardins pagos exclui os cães: o prazer está ao ar livre junto ao rio Kamo, ao Parque Imperial e às ruas históricas, com um veterinário de urgência noturno e o Shinkansen a ligar Tóquio em cerca de 2 horas 15`,
+      highlight: `as margens do rio Kamo, os caminhos do Kyoto Gyoen (o Parque Imperial), e o trilho público de bambu de Arashiyama e o Caminho da Filosofia`,
+      area: `o centro de Nakagyo e as ruas de Higashiyama à volta de Gion, a margem do rio Kamo, e Arashiyama a oeste`,
     },
     'la-rochelle': {
       personality: `uma capital atlântica da vela aninhada em torno do seu Vieux Port medieval, onde três torres de guarda emolduram o porto, as ruas de arcadas dos mercadores abrigam os cães da chuva e do sol, e cuja geografia plana e amiga da bicicleta faz dela uma das cidades mais fáceis de França para explorar com um cão`,

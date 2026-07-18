@@ -21654,6 +21654,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  kyoto: {
+    history: {
+      fr: `Kyoto fut la capitale impériale du Japon pendant plus de mille ans, de 794 à 1868, sous le nom de Heian-kyo, avant que la cour ne parte pour Tokyo à l'ère Meiji. Épargnée par les bombardements de 1945, elle a conservé un patrimoine exceptionnel : dix-sept sites classés au patrimoine mondial de l'UNESCO, quelque 1 600 temples bouddhistes et 400 sanctuaires shinto, du Pavillon d'or aux milliers de torii de Fushimi Inari. Pour un maître de chien, Kyoto est magnifique mais exigeante : la plupart des temples, sanctuaires et jardins payants n'admettent pas les chiens à l'intérieur, et les transports publics n'acceptent que les chiens en sac fermé. Le plaisir se vit donc en plein air, le long de la rivière Kamo, dans le Parc impérial (Kyoto Gyoen) et le parc de Takaragaike, sur le chemin public des bambous d'Arashiyama, le chemin de la Philosophie et dans les rues historiques de Gion et Higashiyama. Le Shinkansen relie Kyoto à Tokyo en environ 2 h 15, ce qui en fait une étape naturelle d'un itinéraire japonais plus large.`,
+      en: `Kyoto was Japan's imperial capital for more than a thousand years, from 794 to 1868, under the name Heian-kyo, before the court moved to Tokyo in the Meiji era. Spared the 1945 bombing, it has kept an extraordinary heritage: seventeen UNESCO World Heritage sites, some 1,600 Buddhist temples and 400 Shinto shrines, from the Golden Pavilion to the thousands of torii gates at Fushimi Inari. For a dog owner, Kyoto is beautiful but demanding: most temples, shrines and paid gardens do not admit dogs inside, and public transport only accepts dogs in a closed carrier. The pleasure is therefore outdoors, along the Kamo River, in the Imperial Park (Kyoto Gyoen) and Takaragaike Park, on the public Arashiyama bamboo path, the Philosopher's Path and through the historic streets of Gion and Higashiyama. The Shinkansen links Kyoto to Tokyo in about 2 hours 15 minutes, making it a natural stop on a wider Japan itinerary.`,
+      es: `Kioto fue la capital imperial de Japón durante más de mil años, de 794 a 1868, con el nombre de Heian-kyo, antes de que la corte se trasladara a Tokio en la era Meiji. Salvada de los bombardeos de 1945, ha conservado un patrimonio excepcional: diecisiete sitios Patrimonio de la Humanidad de la UNESCO, unos 1.600 templos budistas y 400 santuarios sintoístas, desde el Pabellón Dorado hasta los miles de torii de Fushimi Inari. Para un dueño de perro, Kioto es preciosa pero exigente: la mayoría de los templos, santuarios y jardines de pago no admiten perros dentro, y el transporte público solo acepta perros en transportín cerrado. El disfrute está, por tanto, al aire libre, junto al río Kamo, en el Parque Imperial (Kyoto Gyoen) y el parque de Takaragaike, en el sendero público de bambú de Arashiyama, el Camino de la Filosofía y por las calles históricas de Gion y Higashiyama. El Shinkansen enlaza Kioto con Tokio en unas 2 horas 15 minutos, lo que la convierte en una parada natural de un itinerario japonés más amplio.`,
+      pt: `Quioto foi a capital imperial do Japão durante mais de mil anos, de 794 a 1868, com o nome de Heian-kyo, antes de a corte se mudar para Tóquio na era Meiji. Poupada aos bombardeamentos de 1945, conservou um património excecional: dezassete sítios Património Mundial da UNESCO, cerca de 1.600 templos budistas e 400 santuários xintoístas, do Pavilhão Dourado aos milhares de torii de Fushimi Inari. Para um dono de cão, Quioto é linda mas exigente: a maioria dos templos, santuários e jardins pagos não admite cães lá dentro, e o transporte público só aceita cães em bolsa fechada. O prazer está, por isso, ao ar livre, junto ao rio Kamo, no Parque Imperial (Kyoto Gyoen) e no parque de Takaragaike, no trilho público de bambu de Arashiyama, no Caminho da Filosofia e pelas ruas históricas de Gion e Higashiyama. O Shinkansen liga Quioto a Tóquio em cerca de 2 horas 15 minutos, o que faz dela uma paragem natural de um itinerário japonês mais amplo.`,
+    },
+    sights: [
+      { name: 'Kamo River (Kamogawa)', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Les berges herbeuses de la rivière Kamo forment la promenade canine préférée de Kyoto, sur des kilomètres à travers la ville. Chiens en laisse bienvenus ; plus animées à l'aube et au crépuscule.`,
+        en: `The grassy banks of the Kamo River are Kyoto's favourite dog walk, running for kilometres through the city. Leashed dogs welcome; busiest and friendliest at dawn and dusk.`,
+        es: `Las orillas de hierba del río Kamo son el paseo canino preferido de Kioto, kilómetros a través de la ciudad. Perros con correa bienvenidos; con más ambiente al amanecer y al atardecer.`,
+        pt: `As margens relvadas do rio Kamo são o passeio canino preferido de Quioto, quilómetros através da cidade. Cães à trela bem-vindos; com mais ambiente ao amanhecer e ao anoitecer.`,
+      }},
+      { name: 'Kyoto Gyoen (Imperial Park)', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le vaste jardin national autour du Palais impérial, avec de larges allées de gravier. Chiens en laisse admis sur les chemins, laisse courte uniquement ; les enceintes intérieures du palais n'admettent pas les chiens.`,
+        en: `The vast national garden around the Imperial Palace, with wide gravel avenues. Leashed dogs allowed on the paths, short leads only; the palace inner grounds do not admit dogs.`,
+        es: `El vasto jardín nacional alrededor del Palacio Imperial, con amplias avenidas de grava. Perros con correa admitidos en los caminos, solo correa corta; los recintos interiores del palacio no admiten perros.`,
+        pt: `O vasto jardim nacional à volta do Palácio Imperial, com largas avenidas de gravilha. Cães à trela admitidos nos caminhos, apenas trela curta; os recintos interiores do palácio não admitem cães.`,
+      }},
+      { name: 'Arashiyama Bamboo Grove', emoji: '🎋', petFriendly: true, desc: {
+        fr: `Le célèbre chemin de la bambouseraie d'Arashiyama est une voie publique où les chiens en laisse sont en général admis, à savourer tôt avant la foule. Le parc aux singes voisin d'Iwatayama exclut les chiens.`,
+        en: `The famous Arashiyama bamboo path is a public walkway where leashed dogs are generally allowed, best early before the crowds. The nearby Iwatayama monkey park excludes dogs.`,
+        es: `El famoso sendero de bambú de Arashiyama es una vía pública donde los perros con correa suelen estar admitidos, mejor temprano antes de las multitudes. El cercano parque de monos de Iwatayama excluye a los perros.`,
+        pt: `O famoso trilho de bambu de Arashiyama é uma via pública onde os cães à trela costumam ser admitidos, melhor cedo antes das multidões. O vizinho parque dos macacos de Iwatayama exclui os cães.`,
+      }},
+      { name: `Philosopher's Path (Tetsugaku-no-michi)`, emoji: '🌸', petFriendly: true, desc: {
+        fr: `Un paisible chemin le long d'un canal dans les collines de l'est, bordé de cerisiers entre Ginkakuji et Nanzenji. Itinéraire public en plein air où un chien en laisse est bienvenu ; les temples n'admettent pas les chiens à l'intérieur.`,
+        en: `A tranquil canal-side path in the eastern hills, lined with cherry trees between Ginkakuji and Nanzenji. A public outdoor route where a leashed dog is welcome; the temples do not admit dogs inside.`,
+        es: `Un tranquilo camino junto a un canal en las colinas del este, bordeado de cerezos entre Ginkakuji y Nanzenji. Una ruta pública al aire libre donde un perro con correa es bienvenido; los templos no admiten perros dentro.`,
+        pt: `Um tranquilo caminho junto a um canal nas colinas do leste, ladeado de cerejeiras entre Ginkakuji e Nanzenji. Uma rota pública ao ar livre onde um cão à trela é bem-vindo; os templos não admitem cães lá dentro.`,
+      }},
+      { name: 'Gion & Higashiyama', emoji: '⛩️', petFriendly: true, desc: {
+        fr: `Les ruelles préservées de Gion et Higashiyama, avec machiya en bois et rues pavées, comptent parmi les plus belles promenades de la ville. Chiens en laisse admis dans les rues publiques ; les intérieurs sacrés restent interdits.`,
+        en: `The preserved lanes of Gion and Higashiyama, with wooden machiya and stone streets, are among the city's finest walks. Leashed dogs allowed on the public streets; the sacred interiors remain off-limits.`,
+        es: `Las callejuelas preservadas de Gion y Higashiyama, con machiya de madera y calles empedradas, están entre los mejores paseos de la ciudad. Perros con correa admitidos en las calles públicas; los interiores sagrados siguen vetados.`,
+        pt: `As ruelas preservadas de Gion e Higashiyama, com machiya de madeira e ruas empedradas, estão entre os melhores passeios da cidade. Cães à trela admitidos nas ruas públicas; os interiores sagrados continuam vedados.`,
+      }},
+      { name: 'Takaragaike Park', emoji: '🏞️', petFriendly: true, desc: {
+        fr: `Un grand parc au bord d'un lac dans le nord de Sakyo, avec une boucle d'environ 1,5 km. Chiens en laisse sur les chemins pavés uniquement ; pelouses et aire de jeux interdites aux chiens.`,
+        en: `A large lakeside park in northern Sakyo, with a roughly 1.5 km loop. Leashed dogs on the paved paths only; lawns and the children's play zone are off-limits to dogs.`,
+        es: `Un gran parque junto a un lago en el norte de Sakyo, con un circuito de unos 1,5 km. Perros con correa solo en los caminos pavimentados; césped y zona de juegos vetados a los perros.`,
+        pt: `Um grande parque à beira de um lago no norte de Sakyo, com um circuito de cerca de 1,5 km. Cães à trela apenas nos caminhos pavimentados; relvados e zona de recreio vedados aos cães.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La plupart des temples, sanctuaires et jardins payants de Kyoto n'admettent pas les chiens à l'intérieur ; certains abords extérieurs tolèrent les chiens en laisse, mais considérez les intérieurs sacrés comme interdits et vérifiez site par site.`,
+        `Les berges de la rivière Kamo sont la promenade canine par défaut de la ville, plus animées à l'aube et au crépuscule ; laisse courte obligatoire selon la réglementation de la préfecture de Kyoto.`,
+        `Seuls les petits chiens prennent JR West, le métro et les bus, entièrement dans un sac fermé (sac de 70 cm maximum, moins de 10 kg) ; prévoyez un taxi animalier réservé pour un grand chien.`,
+        `L'été est chaud et très humide dans la cuvette de Kyoto : promenez-vous à l'aube ou après la tombée de la nuit, testez le bitume avec la main et emportez de l'eau partout.`,
+        `Urgence vétérinaire de nuit : Kyoto Night Emergency Animal Center (075-693-9912) à Minami, ouvert chaque nuit ; Animal Hospital Kyoto à Kita (075-465-3330) propose des soins de jour en anglais.`,
+      ],
+      en: [
+        `Most Kyoto temples, shrines and paid gardens do not admit dogs inside; some outer grounds tolerate leashed dogs, but treat the sacred interiors as off-limits and verify per site.`,
+        `The Kamo River banks are the city's default dog walk, busiest at dawn and dusk; a short lead is required under Kyoto Prefecture rules.`,
+        `Only small dogs use JR West, the subway and buses, fully inside a closed carrier (case up to 70 cm, under 10 kg); plan a booked pet taxi for a large dog.`,
+        `Summer is hot and very humid in the Kyoto basin: walk at dawn or after dark, test the pavement with your hand, and carry water everywhere.`,
+        `Night emergency vet: Kyoto Night Emergency Animal Center (075-693-9912) in Minami, open nightly; Animal Hospital Kyoto in Kita (075-465-3330) offers English-language daytime care.`,
+      ],
+      es: [
+        `La mayoría de los templos, santuarios y jardines de pago de Kioto no admiten perros dentro; algunos recintos exteriores toleran perros con correa, pero trata los interiores sagrados como vetados y verifica sitio por sitio.`,
+        `Las orillas del río Kamo son el paseo canino por defecto de la ciudad, con más ambiente al amanecer y al atardecer; se exige correa corta según la normativa de la prefectura de Kioto.`,
+        `Solo los perros pequeños usan JR West, el metro y los autobuses, totalmente dentro de un transportín cerrado (transportín de hasta 70 cm, menos de 10 kg); planifica un taxi para mascotas para un perro grande.`,
+        `El verano es caluroso y muy húmedo en la cuenca de Kioto: pasea al amanecer o de noche, comprueba el pavimento con la mano y lleva agua a todas partes.`,
+        `Veterinario de urgencia nocturno: Kyoto Night Emergency Animal Center (075-693-9912) en Minami, abierto cada noche; Animal Hospital Kyoto en Kita (075-465-3330) ofrece atención de día en inglés.`,
+      ],
+      pt: [
+        `A maioria dos templos, santuários e jardins pagos de Quioto não admite cães lá dentro; alguns recintos exteriores toleram cães à trela, mas trate os interiores sagrados como vedados e verifique local a local.`,
+        `As margens do rio Kamo são o passeio canino por defeito da cidade, com mais ambiente ao amanhecer e ao anoitecer; exige-se trela curta segundo o regulamento da prefeitura de Quioto.`,
+        `Só os cães pequenos usam a JR West, o metro e os autocarros, totalmente dentro de uma bolsa fechada (bolsa até 70 cm, menos de 10 kg); planeie um táxi para animais para um cão grande.`,
+        `O verão é quente e muito húmido na bacia de Quioto: passeie ao amanhecer ou à noite, teste o pavimento com a mão e leve água para todo o lado.`,
+        `Veterinário de urgência noturno: Kyoto Night Emergency Animal Center (075-693-9912) em Minami, aberto todas as noites; Animal Hospital Kyoto em Kita (075-465-3330) oferece atendimento de dia em inglês.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Le Japon n'est ni dans l'UE ni dans Schengen : l'entrée d'un chien exige puce ISO, deux vaccins antirabiques, un test sérologique d'anticorps puis une période d'attente, et une notification préalable à la quarantaine, à organiser plusieurs mois à l'avance.`,
+        `Aéroports : Kansai International (KIX) près d'Osaka est la principale porte d'entrée pour Kyoto, avec Itami (ITM) pour les vols intérieurs ; vérifiez les règles de transport animalier de votre compagnie bien avant le départ.`,
+        `Monnaie : le yen japonais. Budget dog-friendly quotidien élevé, prévoyez une marge pour les taxis animaliers, indispensables pour les grands chiens.`,
+        `Meilleures saisons : printemps et automne, doux pour marcher ; évitez l'été chaud et humide, la saison des pluies de juin à juillet, et notez que l'hiver est froid avec parfois de la neige.`,
+        `Cluster Japon : le Shinkansen relie Kyoto à Tokyo en environ 2 h 15 et à Osaka en un quart d'heure ; lors d'une excursion à Nara, gardez les chiens fermement en laisse à l'écart des daims en liberté, qui peuvent être agressifs.`,
+      ],
+      en: [
+        `Japan is neither in the EU nor Schengen: importing a dog requires an ISO microchip, two rabies vaccinations, a serology antibody test then a waiting period, and advance quarantine notification, all arranged months ahead.`,
+        `Airports: Kansai International (KIX) near Osaka is the main gateway for Kyoto, with Itami (ITM) for domestic flights; check your airline's pet-transport rules well before departure.`,
+        `Currency: the Japanese yen. Daily dog-friendly budget runs high, so allow a margin for pet taxis, which are essential for large dogs.`,
+        `Best seasons: spring and autumn are mild for walking; avoid the hot, humid summer and the June to July rainy season, and note that winter is cold with occasional snow.`,
+        `Japan cluster: the Shinkansen links Kyoto to Tokyo in about 2 hours 15 minutes and to Osaka in around fifteen minutes; on a Nara day trip, keep dogs firmly leashed away from the free-roaming deer, which can be aggressive.`,
+      ],
+      es: [
+        `Japón no está en la UE ni en Schengen: importar un perro exige microchip ISO, dos vacunas antirrábicas, un test serológico de anticuerpos y luego un periodo de espera, y notificación previa de cuarentena, todo organizado con meses de antelación.`,
+        `Aeropuertos: Kansai International (KIX) cerca de Osaka es la principal puerta de entrada para Kioto, con Itami (ITM) para vuelos domésticos; consulta las normas de transporte de mascotas de tu aerolínea mucho antes de salir.`,
+        `Moneda: el yen japonés. El presupuesto diario dog-friendly es alto, así que deja margen para los taxis para mascotas, imprescindibles para perros grandes.`,
+        `Mejores temporadas: primavera y otoño son suaves para caminar; evita el verano caluroso y húmedo y la temporada de lluvias de junio a julio, y ten en cuenta que el invierno es frío con nieve ocasional.`,
+        `Clúster Japón: el Shinkansen enlaza Kioto con Tokio en unas 2 horas 15 minutos y con Osaka en unos quince minutos; en una excursión a Nara, mantén a los perros bien atados lejos de los ciervos en libertad, que pueden ser agresivos.`,
+      ],
+      pt: [
+        `O Japão não está na UE nem em Schengen: importar um cão exige microchip ISO, duas vacinas antirrábicas, um teste serológico de anticorpos e depois um período de espera, e notificação prévia de quarentena, tudo tratado com meses de antecedência.`,
+        `Aeroportos: o Kansai International (KIX) perto de Osaka é a principal porta de entrada para Quioto, com o Itami (ITM) para voos domésticos; verifique as regras de transporte de animais da sua companhia aérea muito antes de partir.`,
+        `Moeda: o iene japonês. O orçamento diário pet-friendly é elevado, por isso deixe margem para os táxis para animais, indispensáveis para cães grandes.`,
+        `Melhores épocas: primavera e outono são amenas para caminhar; evite o verão quente e húmido e a época das chuvas de junho a julho, e note que o inverno é frio com neve ocasional.`,
+        `Cluster Japão: o Shinkansen liga Quioto a Tóquio em cerca de 2 horas 15 minutos e a Osaka em cerca de quinze minutos; numa ida a Nara, mantenha os cães bem presos à trela longe dos veados em liberdade, que podem ser agressivos.`,
+      ],
+    },
+  },
+
   'la-rochelle': {
     history: {
       fr: `La Rochelle fut l'un des plus grands ports de l'Atlantique : libre et commerçante dès le XIIe siècle, elle s'enrichit du sel, du vin puis du commerce avec le Nouveau Monde. Place forte protestante, elle résista treize mois au siège de Richelieu en 1627-1628, un épisode qui marqua à jamais son identité frondeuse. Ses trois tours médiévales gardent toujours l'entrée du Vieux-Port, et ses rues à arcades du centre historique rappellent la prospérité des armateurs. Pionnière de l'écologie urbaine (premier secteur piétonnier de France, vélos en libre-service dès 1974), La Rochelle est aujourd'hui une ville à taille humaine, tournée vers la voile et la mer. Avec un chien, on y savoure les quais, le parc Charruyer qui traverse la ville sur 2 km, les digues des Minimes et la proximité immédiate de l'île de Ré, accessible par le pont.`,

@@ -40440,6 +40440,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  sylt: {
+    history: {
+      fr: `Sylt est la plus grande des îles frisonnes du Nord, un long ruban de sable, de dunes et de landes posé dans la mer du Nord au large du Schleswig-Holstein. Reliée au continent depuis 1927 par la digue Hindenburgdamm, elle n'a pas de pont routier : les voitures embarquent sur le train-auto depuis Niebüll, tandis que les piétons arrivent en train à Westerland, la ville principale. Autour d'elle gravitent les stations de Kampen, Wenningstedt, Rantum, Hörnum au sud et List à l'extrême nord. L'île vit du tourisme balnéaire haut de gamme, mais aussi de la pêche et de l'élevage de moutons sur les digues. Sa côte ouest aligne quarante kilomètres de plage face à la mer du Nord ; à l'est s'étend la mer des Wadden, patrimoine mondial de l'UNESCO. Pour un maître de chien, Sylt est exceptionnelle : chaque station possède sa plage canine officielle et l'accueil des animaux y est une évidence.`,
+      en: `Sylt is the largest of the North Frisian islands, a long ribbon of sand, dunes and heath set in the North Sea off Schleswig-Holstein. Linked to the mainland since 1927 by the Hindenburgdamm causeway, it has no road bridge: cars load onto the car-train from Niebüll, while foot passengers arrive by train at Westerland, the main town. Around it cluster the resorts of Kampen, Wenningstedt, Rantum and Hörnum to the south and List at the far north. The island lives on upmarket seaside tourism, but also on fishing and sheep grazing on its dikes. Its west coast runs forty kilometres of beach facing the North Sea; to the east lies the Wadden Sea, a UNESCO World Heritage site. For a dog owner Sylt is exceptional: every resort has its own official dog beach and welcoming pets is simply taken for granted.`,
+      es: `Sylt es la mayor de las islas Frisias del Norte, una larga cinta de arena, dunas y brezal en el mar del Norte frente a Schleswig-Holstein. Unida al continente desde 1927 por el dique Hindenburgdamm, no tiene puente de carretera: los coches embarcan en el tren-coche desde Niebüll, mientras que los peatones llegan en tren a Westerland, la ciudad principal. A su alrededor se agrupan las localidades de Kampen, Wenningstedt, Rantum y Hörnum al sur y List en el extremo norte. La isla vive del turismo de playa de alta gama, pero también de la pesca y del pastoreo de ovejas en sus diques. Su costa oeste alinea cuarenta kilómetros de playa frente al mar del Norte; al este se extiende el mar de Wadden, patrimonio mundial de la UNESCO. Para un dueño de perro Sylt es excepcional: cada localidad tiene su playa canina oficial y acoger a los animales se da por sentado.`,
+      pt: `Sylt é a maior das ilhas Frísias do Norte, uma longa fita de areia, dunas e charneca no mar do Norte ao largo do Schleswig-Holstein. Ligada ao continente desde 1927 pelo dique Hindenburgdamm, não tem ponte rodoviária: os carros embarcam no comboio-automóvel a partir de Niebüll, enquanto os passageiros a pé chegam de comboio a Westerland, a localidade principal. À sua volta agrupam-se as estâncias de Kampen, Wenningstedt, Rantum e Hörnum a sul e List no extremo norte. A ilha vive do turismo balnear de gama alta, mas também da pesca e do pastoreio de ovelhas nos seus diques. A costa oeste alinha quarenta quilómetros de praia virada para o mar do Norte; a leste estende-se o mar de Wadden, património mundial da UNESCO. Para um dono de cão, Sylt é excecional: cada estância tem a sua praia canina oficial e acolher os animais é simplesmente natural.`,
+    },
+    sights: [
+      {
+        name: 'Hundestrand Westerland',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La plage canine officielle de Westerland, à l'extrémité nord de la ville principale près de la Nordseeklinik, offre une large bande de sable où les chiens sont chez eux. En haute saison (env. 15 mars au 31 octobre) la laisse est de rigueur ; du 1er novembre au 14 mars, les chiens courent librement sur la plupart des plages de l'île.`,
+          en: `Westerland's official dog beach, at the northern end of the main town near the Nordseeklinik, gives a wide stretch of sand where dogs are at home. In peak season (about 15 March to 31 October) a leash is required; from 1 November to 14 March dogs run free on most of the island's beaches.`,
+          es: `La playa canina oficial de Westerland, en el extremo norte de la ciudad principal junto a la Nordseeklinik, ofrece una amplia franja de arena donde los perros están a sus anchas. En temporada alta (aprox. 15 de marzo al 31 de octubre) la correa es obligatoria; del 1 de noviembre al 14 de marzo los perros corren libres en la mayoría de las playas de la isla.`,
+          pt: `A praia canina oficial de Westerland, no extremo norte da localidade principal junto à Nordseeklinik, oferece uma ampla faixa de areia onde os cães estão à vontade. Na época alta (cerca de 15 de março a 31 de outubro) a trela é obrigatória; de 1 de novembro a 14 de março os cães correm livres na maioria das praias da ilha.`,
+        },
+      },
+      {
+        name: 'Rotes Kliff, Kampen',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `La falaise rouge de Kampen, un mur de moraine ocre-rouge d'une trentaine de mètres qui court sur environ quatre kilomètres le long de la côte ouest, est le monument naturel emblématique de Sylt. Le sentier du sommet et la plage en contrebas se parcourent avec un chien en laisse, superbes dans la lumière basse du matin ou du soir.`,
+          en: `Kampen's red cliff, a roughly thirty-metre wall of ochre-red moraine running for about four kilometres along the west coast, is Sylt's signature natural landmark. The clifftop path and the beach below are both walked with a leashed dog, at their best in the low light of morning or evening.`,
+          es: `El acantilado rojo de Kampen, una pared de morrena rojo-ocre de unos treinta metros que se extiende cerca de cuatro kilómetros a lo largo de la costa oeste, es el monumento natural emblemático de Sylt. El sendero de la cima y la playa de abajo se recorren con un perro con correa, magníficos con la luz baja de la mañana o la tarde.`,
+          pt: `A falésia vermelha de Kampen, uma parede de moreia vermelho-ocre com cerca de trinta metros que se estende por quatro quilómetros ao longo da costa oeste, é o marco natural emblemático de Sylt. O trilho do topo e a praia lá em baixo percorrem-se com um cão à trela, soberbos na luz baixa da manhã ou da tarde.`,
+        },
+      },
+      {
+        name: 'Braderuper Heide',
+        emoji: '🌾',
+        petFriendly: true,
+        desc: {
+          fr: `Une des plus grandes landes de Sylt, entre Kampen et Braderup au-dessus de la mer des Wadden, sillonnée de caillebotis en bois. La bruyère la teinte de violet fin août et en septembre. C'est une réserve naturelle protégée : la laisse est obligatoire toute l'année pour préserver les oiseaux nichant au sol.`,
+          en: `One of Sylt's largest heathlands, between Kampen and Braderup above the Wadden Sea, criss-crossed by wooden boardwalks. Heather turns it purple in late August and September. It is a protected nature reserve: a leash is required all year to protect ground-nesting birds.`,
+          es: `Uno de los mayores brezales de Sylt, entre Kampen y Braderup sobre el mar de Wadden, surcado por pasarelas de madera. El brezo lo tiñe de púrpura a finales de agosto y en septiembre. Es una reserva natural protegida: la correa es obligatoria todo el año para proteger a las aves que anidan en el suelo.`,
+          pt: `Uma das maiores charnecas de Sylt, entre Kampen e Braderup sobre o mar de Wadden, atravessada por passadiços de madeira. A urze tinge-a de púrpura no final de agosto e em setembro. É uma reserva natural protegida: a trela é obrigatória todo o ano para proteger as aves que nidificam no solo.`,
+        },
+      },
+      {
+        name: 'Lister Ellenbogen',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `La presqu'île de dunes sauvage à la pointe nord de l'île, point le plus septentrional d'Allemagne, avec deux phares et une longue plage presque déserte. Paysage à couper le souffle pour une promenade, mais des moutons y paissent en liberté et des oiseaux y nichent : le chien reste en laisse partout, toute l'année.`,
+          en: `The wild dune peninsula at the island's northern tip, the northernmost point of Germany, with two lighthouses and a long, almost deserted beach. A breathtaking landscape for a walk, but sheep graze freely and birds nest here: the dog stays leashed everywhere, all year.`,
+          es: `La salvaje península de dunas en el extremo norte de la isla, el punto más septentrional de Alemania, con dos faros y una larga playa casi desierta. Un paisaje impresionante para pasear, pero pastan ovejas en libertad y anidan aves: el perro va con correa en todas partes, todo el año.`,
+          pt: `A península de dunas selvagem na ponta norte da ilha, o ponto mais setentrional da Alemanha, com dois faróis e uma praia longa e quase deserta. Uma paisagem de cortar a respiração para um passeio, mas pastam ovelhas em liberdade e nidificam aves: o cão fica à trela em todo o lado, todo o ano.`,
+        },
+      },
+      {
+        name: 'Keitum',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le cœur vert de Sylt, un village de maisons de capitaines frisonnes aux toits de chaume niché parmi de vieux arbres sur la côte est abritée. Ses ruelles, ses jardins et le sentier bas le long de la mer des Wadden offrent une balade douce avec un chien en laisse, idéale par gros temps quand les plages ouvertes sont trop exposées.`,
+          en: `The green heart of Sylt, a village of thatched Frisian captains' houses tucked among old trees on the sheltered east coast. Its lanes, gardens and the low path along the Wadden Sea make a gentle walk with a leashed dog, ideal in rough weather when the open beaches are too exposed.`,
+          es: `El corazón verde de Sylt, un pueblo de casas de capitanes frisonas con tejados de paja entre árboles viejos en la resguardada costa este. Sus callejuelas, jardines y el sendero bajo a lo largo del mar de Wadden ofrecen un paseo suave con un perro con correa, ideal con mal tiempo cuando las playas abiertas están demasiado expuestas.`,
+          pt: `O coração verde de Sylt, uma aldeia de casas de capitães frísios com telhados de colmo entre árvores antigas na abrigada costa este. As suas ruelas, jardins e o caminho baixo ao longo do mar de Wadden fazem um passeio suave com um cão à trela, ideal em tempo agitado quando as praias abertas estão demasiado expostas.`,
+        },
+      },
+      {
+        name: 'Nationalpark Wattenmeer',
+        emoji: '🐦',
+        petFriendly: true,
+        desc: {
+          fr: `Les vasières de la mer des Wadden, patrimoine mondial de l'UNESCO, un paysage de marées sans cesse changeant à l'est de l'île. Des randonnées guidées (Wattwanderungen) partent de Hörnum ; certaines acceptent les chiens en laisse. Zone protégée : laisse permanente et distance impérative avec les oiseaux ; ne jamais s'aventurer sur les vasières sans guide.`,
+          en: `The Wadden Sea tidal flats, a UNESCO World Heritage site, an ever-changing tidal landscape on the island's east side. Guided walks (Wattwanderungen) set off from Hörnum; some accept leashed dogs. Protected area: a lead is required at all times and you must keep away from the birds; never venture onto the flats without a guide.`,
+          es: `Las marismas del mar de Wadden, patrimonio mundial de la UNESCO, un paisaje mareal siempre cambiante en el lado este de la isla. Las caminatas guiadas (Wattwanderungen) parten de Hörnum; algunas admiten perros con correa. Zona protegida: correa en todo momento y distancia obligatoria con las aves; nunca te adentres en las marismas sin guía.`,
+          pt: `Os sapais do mar de Wadden, património mundial da UNESCO, uma paisagem de marés sempre mutável no lado este da ilha. As caminhadas guiadas (Wattwanderungen) partem de Hörnum; algumas aceitam cães à trela. Zona protegida: trela em todos os momentos e distância obrigatória das aves; nunca se aventure nos sapais sem guia.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Chaque station de Sylt a sa plage canine officielle (Hundestrand) : Westerland, Wenningstedt, Kampen, Rantum, Hörnum et List. En haute saison (env. 15 mars au 31 octobre) les chiens sont limités à ces sections, souvent en laisse ; du 1er novembre au 14 mars ils courent librement sur la plupart des plages.`,
+        `Dans le parc national de la mer des Wadden et les réserves de dunes (Hörnum-Odde, Ellenbogen, Braderuper Heide, Morsum Kliff), la laisse est obligatoire toute l'année, en particulier au printemps quand les oiseaux nichent au sol.`,
+        `À List et sur l'Ellenbogen, des moutons paissent en liberté : le chien reste en laisse en permanence, le harcèlement des moutons est lourdement sanctionné.`,
+        `Le climat est frais, humide et très venteux toute l'année ; même l'été dépasse rarement 20°C. Emportez une serviette pour sécher un chien mouillé et choisissez des coins de plage abrités par les dunes les jours de grand vent.`,
+        `Ramassez toujours les déjections : des distributeurs de sacs se trouvent à la plupart des accès de plage et des sacs gratuits sont disponibles à l'office de tourisme de List ; des amendes s'appliquent.`,
+      ],
+      en: [
+        `Every Sylt resort has its own official dog beach (Hundestrand): Westerland, Wenningstedt, Kampen, Rantum, Hörnum and List. In peak season (about 15 March to 31 October) dogs are limited to these sections, often leashed; from 1 November to 14 March they run free on most beaches.`,
+        `In the Wadden Sea National Park and the dune reserves (Hörnum-Odde, the Ellenbogen, Braderuper Heide, Morsum Kliff), a leash is mandatory all year, especially in spring when birds nest on the ground.`,
+        `At List and on the Ellenbogen, sheep graze freely: keep the dog leashed at all times, sheep worrying carries heavy penalties.`,
+        `The climate is cool, wet and very windy all year; even summer rarely tops 20°C. Bring a towel to dry a wet dog and choose dune-sheltered beach spots on windy days.`,
+        `Always clean up: waste-bag dispensers stand at most beach accesses and free bags are available at the List tourist office; fines apply.`,
+      ],
+      es: [
+        `Cada localidad de Sylt tiene su playa canina oficial (Hundestrand): Westerland, Wenningstedt, Kampen, Rantum, Hörnum y List. En temporada alta (aprox. 15 de marzo al 31 de octubre) los perros se limitan a estas secciones, a menudo con correa; del 1 de noviembre al 14 de marzo corren libres en la mayoría de las playas.`,
+        `En el Parque Nacional del Mar de Wadden y las reservas de dunas (Hörnum-Odde, el Ellenbogen, Braderuper Heide, Morsum Kliff), la correa es obligatoria todo el año, sobre todo en primavera cuando las aves anidan en el suelo.`,
+        `En List y en el Ellenbogen pastan ovejas en libertad: mantén al perro con correa en todo momento, el acoso a las ovejas conlleva fuertes sanciones.`,
+        `El clima es fresco, húmedo y muy ventoso todo el año; incluso el verano rara vez supera los 20°C. Lleva una toalla para secar a un perro mojado y elige rincones de playa resguardados por las dunas los días de viento.`,
+        `Recoge siempre las deposiciones: hay dispensadores de bolsas en la mayoría de los accesos a la playa y bolsas gratuitas en la oficina de turismo de List; se aplican multas.`,
+      ],
+      pt: [
+        `Cada estância de Sylt tem a sua praia canina oficial (Hundestrand): Westerland, Wenningstedt, Kampen, Rantum, Hörnum e List. Na época alta (cerca de 15 de março a 31 de outubro) os cães estão limitados a estas secções, muitas vezes à trela; de 1 de novembro a 14 de março correm livres na maioria das praias.`,
+        `No Parque Nacional do Mar de Wadden e nas reservas de dunas (Hörnum-Odde, o Ellenbogen, Braderuper Heide, Morsum Kliff), a trela é obrigatória todo o ano, sobretudo na primavera quando as aves nidificam no solo.`,
+        `Em List e no Ellenbogen pastam ovelhas em liberdade: mantenha o cão à trela em todos os momentos, perseguir ovelhas acarreta pesadas sanções.`,
+        `O clima é fresco, húmido e muito ventoso todo o ano; mesmo o verão raramente ultrapassa os 20°C. Leve uma toalha para secar um cão molhado e escolha cantos de praia abrigados pelas dunas nos dias de vento.`,
+        `Limpe sempre os dejetos: há dispensadores de sacos na maioria dos acessos à praia e sacos gratuitos no posto de turismo de List; aplicam-se multas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaires sur l'île : Tierarztpraxis Wohlenberg à Westerland (Königskamp 25, tél. 04651 35677) et Tierarztpraxis Petersen à Wenningstedt-Braderup, avec un portable d'urgence (0173 6109226).`,
+        `L'Allemagne est dans l'UE : depuis un autre pays de l'UE, il suffit d'une puce, d'une vaccination antirabique valide et d'un passeport européen pour animaux ; les arrivées hors UE relèvent de règles plus strictes.`,
+        `Il n'y a pas de pont : les voitures traversent sur le train-auto Sylt Shuttle depuis Niebüll, où le chien reste dans la voiture et voyage gratuitement (une aire clôturée pour chiens existe au terminal).`,
+        `En train Deutsche Bahn par le Hindenburgdamm, les petits chiens en sac de transport voyagent gratuitement ; les grands chiens paient 50% du tarif 2e classe et doivent porter muselière et laisse à bord.`,
+        `Laisse obligatoire toute l'année dans le parc national de la mer des Wadden et les réserves de dunes ; à List et sur l'Ellenbogen, où paissent les moutons, elle s'impose en permanence.`,
+      ],
+      en: [
+        `Island vets: Tierarztpraxis Wohlenberg in Westerland (Königskamp 25, tel. 04651 35677) and Tierarztpraxis Petersen in Wenningstedt-Braderup, which lists an emergency mobile (0173 6109226).`,
+        `Germany is in the EU: from another EU country you just need a microchip, a valid rabies vaccination and an EU pet passport; arrivals from outside the EU face stricter rules.`,
+        `There is no bridge: cars cross on the Sylt Shuttle car-train from Niebüll, where the dog stays in the car and travels free (a fenced dog-relief area is at the terminal).`,
+        `On the Deutsche Bahn train over the Hindenburgdamm, small dogs in a carrier travel free; larger dogs pay 50% of the second-class fare and must wear a muzzle and lead on board.`,
+        `A leash is mandatory all year in the Wadden Sea National Park and the dune reserves; at List and on the Ellenbogen, where sheep graze, it applies at all times.`,
+      ],
+      es: [
+        `Veterinarios en la isla: Tierarztpraxis Wohlenberg en Westerland (Königskamp 25, tel. 04651 35677) y Tierarztpraxis Petersen en Wenningstedt-Braderup, que indica un móvil de urgencias (0173 6109226).`,
+        `Alemania está en la UE: desde otro país de la UE solo necesitas un microchip, una vacuna antirrábica válida y un pasaporte europeo para mascotas; las llegadas de fuera de la UE tienen reglas más estrictas.`,
+        `No hay puente: los coches cruzan en el tren-coche Sylt Shuttle desde Niebüll, donde el perro se queda en el coche y viaja gratis (hay una zona vallada para perros en la terminal).`,
+        `En el tren de Deutsche Bahn sobre el Hindenburgdamm, los perros pequeños en transportín viajan gratis; los perros grandes pagan el 50% de la tarifa de 2ª clase y deben llevar bozal y correa a bordo.`,
+        `Correa obligatoria todo el año en el Parque Nacional del Mar de Wadden y las reservas de dunas; en List y en el Ellenbogen, donde pastan ovejas, se exige en todo momento.`,
+      ],
+      pt: [
+        `Veterinários na ilha: Tierarztpraxis Wohlenberg em Westerland (Königskamp 25, tel. 04651 35677) e Tierarztpraxis Petersen em Wenningstedt-Braderup, que indica um telemóvel de urgência (0173 6109226).`,
+        `A Alemanha está na UE: a partir de outro país da UE basta um microchip, uma vacina antirrábica válida e um passaporte europeu para animais; as chegadas de fora da UE têm regras mais rigorosas.`,
+        `Não há ponte: os carros atravessam no comboio-automóvel Sylt Shuttle a partir de Niebüll, onde o cão fica no carro e viaja gratuitamente (há uma zona vedada para cães no terminal).`,
+        `No comboio da Deutsche Bahn sobre o Hindenburgdamm, os cães pequenos numa caixa viajam grátis; os cães maiores pagam 50% da tarifa de 2.ª classe e devem usar açaime e trela a bordo.`,
+        `Trela obrigatória todo o ano no Parque Nacional do Mar de Wadden e nas reservas de dunas; em List e no Ellenbogen, onde pastam ovelhas, aplica-se em todos os momentos.`,
+      ],
+    },
+  },
+
   syracuse: {
     history: {
       fr: `Fondée en 734 avant notre ère par des colons corinthiens, Syracuse fut l'une des plus puissantes cités du monde grec, rivale d'Athènes et patrie d'Archimède, mort ici lors du siège romain de 212 avant notre ère. Cicéron la décrivait comme « la plus grande et la plus belle des villes grecques ». De cette gloire subsistent le théâtre grec, les latomies et l'Oreille de Denys, dans le parc archéologique de Neapolis. Le cœur de la ville, lui, bat sur l'île d'Ortigia, labyrinthe baroque reconstruit après le séisme de 1693, où le Duomo occupe un temple d'Athéna dont les colonnes doriques affleurent encore dans les murs. Classée à l'UNESCO, Syracuse se vit à pied : avec un chien, Ortigia au petit matin, la promenade de mer et la réserve du Plemmirio composent un itinéraire sicilien lumineux, entre pierre dorée et eau turquoise.`,

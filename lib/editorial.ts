@@ -21,6 +21,11 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    sylt: {
+      personality: `Germany's premier North Sea beach island, where 40 kilometres of dunes and a string of official dog beaches make it one of the most genuinely dog-welcoming places in the country`,
+      highlight: `the designated dog beaches at Westerland, Kampen and List, the glowing Rotes Kliff at Kampen, and the boardwalks of the Braderuper Heide`,
+      area: `Westerland, Kampen, and the thatched Friesian village of Keitum`,
+    },
     gijon: {
       personality: `a relaxed Cantabrian-coast cider city where dogs trot beside their owners along the seafront and doze under the tables of bustling sidrerías.`,
       highlight: `El Rinconín, Gijón's year-round dog beach, complete with its own fenced off-leash dog park right beside the sand.`,
@@ -1874,6 +1879,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    sylt: {
+      personality: `la première île balnéaire de la mer du Nord en Allemagne, où 40 kilomètres de dunes et une série de plages canines officielles en font l'un des endroits les plus réellement accueillants pour les chiens du pays`,
+      highlight: `les plages canines de Westerland, Kampen et List, la falaise rouge du Rotes Kliff à Kampen, et les caillebotis de la lande de Braderup`,
+      area: `Westerland, Kampen et le village frison aux toits de chaume de Keitum`,
+    },
     gijon: {
       personality: `une ville cidricole décontractée de la côte cantabrique où les chiens trottent aux côtés de leurs maîtres le long du front de mer et somnolent sous les tables des sidrerías animées.`,
       highlight: `El Rinconín, la plage canine de Gijón ouverte toute l'année, avec son propre parc clôturé pour chiens en liberté juste à côté du sable.`,
@@ -3726,6 +3736,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    sylt: {
+      personality: `la principal isla balnearia del mar del Norte de Alemania, donde 40 kilómetros de dunas y una serie de playas caninas oficiales la convierten en uno de los lugares más genuinamente acogedores para perros del país`,
+      highlight: `las playas caninas de Westerland, Kampen y List, el resplandeciente Rotes Kliff en Kampen, y las pasarelas de la Braderuper Heide`,
+      area: `Westerland, Kampen y el pueblo frisón de tejados de paja de Keitum`,
+    },
     gijon: {
       personality: `una relajada ciudad sidrera de la costa cantábrica donde los perros caminan junto a sus dueños por el paseo marítimo y dormitan bajo las mesas de las animadas sidrerías.`,
       highlight: `El Rinconín, la playa canina de Gijón abierta todo el año, con su propio parque vallado para perros sueltos justo al lado de la arena.`,
@@ -5578,6 +5593,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    sylt: {
+      personality: `a principal ilha balnear do mar do Norte da Alemanha, onde 40 quilómetros de dunas e uma série de praias caninas oficiais fazem dela um dos lugares mais genuinamente acolhedores para cães do país`,
+      highlight: `as praias caninas de Westerland, Kampen e List, o luminoso Rotes Kliff em Kampen, e os passadiços da Braderuper Heide`,
+      area: `Westerland, Kampen e a aldeia frísia de telhados de colmo de Keitum`,
+    },
     gijon: {
       personality: `uma descontraída cidade da sidra da costa cantábrica onde os cães caminham ao lado dos donos pela frente de mar e dormitam debaixo das mesas das animadas sidrerías.`,
       highlight: `El Rinconín, a praia canina de Gijón aberta todo o ano, com o seu próprio parque vedado para cães à solta mesmo ao lado da areia.`,

@@ -17467,6 +17467,81 @@
     "iata": "VLC"
   },
   {
+    "slug": "osaka",
+    "name": "Osaka",
+    "country": "Japan",
+    "countryCode": "JP",
+    "flag": "🇯🇵",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/osaka.jpg",
+    "intro": "Osaka, the buzzing commercial heart of the Kansai region, is a workable but rule-bound city for dog owners: as elsewhere in Japan, dogs ride JR West, the Osaka Metro and city buses only inside a closed carrier, and most indoor restaurants exclude them, so the pleasure lies outdoors. Leashed dogs are welcome on the outer paths and lawns of Osaka Castle Park (though not inside the castle keep or museum), along the Dotonbori canal-side and in the riverside greenery of Nakanoshima and Utsubo parks. Pet taxis cover larger dogs, international sitter platforms have Osaka listings, and the Shinkansen puts Kyoto around 15 minutes away and Tokyo about 2 hours 30 minutes away for a wider Japan trip.",
+    "lat": 34.6937,
+    "lng": 135.5023,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cold & dry",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cold & crisp",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm & rainy",
+        "icon": "🌧️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot & humid",
+        "icon": "🌦️"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Warm & humid",
+        "icon": "🌧️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 14,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cold & dry",
+        "icon": "☀️"
+      }
+    },
+    "iata": "KIX"
+  },
+  {
     "slug": "oslo",
     "name": "Oslo",
     "country": "Norway",

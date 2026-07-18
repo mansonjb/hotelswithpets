@@ -24265,6 +24265,199 @@
     ]
   },
   {
+    "id": "kyoto-1",
+    "name": "Kyoto Ryokan SAKANOUE",
+    "destinationSlug": "kyoto",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 530,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/kyoto-yado-sakanoue.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Free WiFi",
+      "Heating"
+    ],
+    "slug": "kyoto-ryokan-sakanoue-kyoto"
+  },
+  {
+    "id": "kyoto-2",
+    "name": "The Gate Hotel Kyoto Takasegawa by Hulic",
+    "destinationSlug": "kyoto",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 4043,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/the-gate-hoteljing-du-gao-lai-chuan-by-hulic.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Free WiFi",
+      "Fitness centre"
+    ],
+    "slug": "the-gate-hotel-kyoto-takasegawa-by-hulic-kyoto"
+  },
+  {
+    "id": "kyoto-3",
+    "name": "Mitsui Garden Hotel Kyoto Sanjo PREMIER",
+    "destinationSlug": "kyoto",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 2715,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/san-jing-gadenhoterujing-du-san-tiao-puremia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Free WiFi",
+      "Spa & wellness centre"
+    ],
+    "slug": "mitsui-garden-hotel-kyoto-sanjo-premier-kyoto"
+  },
+  {
+    "id": "kyoto-4",
+    "name": "Ishibekoji Muan",
+    "destinationSlug": "kyoto",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.7,
+    "reviewCount": 396,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/ishibekoji-muan-kyoto.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Free WiFi",
+      "Laundry"
+    ],
+    "slug": "ishibekoji-muan-kyoto"
+  },
+  {
+    "id": "kyoto-5",
+    "name": "Sora Niwa Terrace Kyoto Bettei",
+    "destinationSlug": "kyoto",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 611,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/si-tiao-he-yuan-ting-wen-quan-bie-di-shan-zi-shui-ming.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Free WiFi",
+      "Spa & wellness centre"
+    ],
+    "slug": "sora-niwa-terrace-kyoto-bettei-kyoto"
+  },
+  {
+    "id": "kyoto-6",
+    "name": "Homm Stay Nagi Shijo Kyoto By Banyan Group",
+    "destinationSlug": "kyoto",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 686,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/nagi-kyoto-shijo.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Free WiFi",
+      "Tea/coffee maker in all rooms"
+    ],
+    "slug": "homm-stay-nagi-shijo-kyoto-by-banyan-group-kyoto"
+  },
+  {
+    "id": "kyoto-7",
+    "name": "Nazuna Kyoto Nishi Honganji",
+    "destinationSlug": "kyoto",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 40,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/nazuna-kyoto-nishi-honganji.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Free WiFi",
+      "24-hour front desk"
+    ],
+    "slug": "nazuna-kyoto-nishi-honganji-kyoto"
+  },
+  {
+    "id": "kyoto-8",
+    "name": "Hotel The Celestine Kyoto Gion",
+    "destinationSlug": "kyoto",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 2443,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/jp/the-celestine-kyoto-gion.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Non-smoking rooms",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "hotel-the-celestine-kyoto-gion-kyoto"
+  },
+  {
     "id": "la-rochelle-1",
     "slug": "hotel-la-monnaie-art-et-spa",
     "name": "Hôtel La Monnaie Art & Spa",

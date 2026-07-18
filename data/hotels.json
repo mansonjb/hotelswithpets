@@ -44902,6 +44902,201 @@
     "petPolicyPt": "ibis Styles Stuttgart accepts cães e gatos até 10 kg por 10 EUR por animal por noite. Larger animais aceites upon pedido. animais são não permitidos no buffet breakfast area; service animals estadia free."
   },
   {
+    "id": "sylt-1",
+    "name": "Pebbles",
+    "destinationSlug": "sylt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 50,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/pebbles.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pebbles is a pet-friendly property on Sylt that welcomes dogs and cats. Confirm any pet fee, size limits and the number of pets allowed directly with the hotel when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "pebbles-sylt"
+  },
+  {
+    "id": "sylt-2",
+    "name": "A-ROSA Sylt",
+    "destinationSlug": "sylt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 924,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/grand-spa-resort-a-rosa-sylt.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "A-ROSA Sylt is a pet-friendly property on Sylt that welcomes dogs and cats. Confirm any pet fee, size limits and the number of pets allowed directly with the hotel when booking.",
+    "highlights": [
+      "2 swimming pools",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "a-rosa-sylt-sylt"
+  },
+  {
+    "id": "sylt-3",
+    "name": "Nordwind",
+    "destinationSlug": "sylt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 15,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/nordwind-westerland12.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Nordwind is a pet-friendly property on Sylt that welcomes dogs and cats. Confirm any pet fee, size limits and the number of pets allowed directly with the hotel when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "nordwind-sylt"
+  },
+  {
+    "id": "sylt-4",
+    "name": "Hyggelig",
+    "destinationSlug": "sylt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 23,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/hyggelig.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hyggelig is a pet-friendly property on Sylt that welcomes dogs and cats. Confirm any pet fee, size limits and the number of pets allowed directly with the hotel when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "hyggelig-sylt"
+  },
+  {
+    "id": "sylt-5",
+    "name": "BUDERSAND Hotel - Golf & Spa - Sylt",
+    "destinationSlug": "sylt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.6,
+    "reviewCount": 185,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/budersand-golf-amp-spa-sylt.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "BUDERSAND Hotel - Golf & Spa - Sylt is a pet-friendly property on Sylt that welcomes dogs and cats. Confirm any pet fee, size limits and the number of pets allowed directly with the hotel when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Free WiFi",
+      "Free parking"
+    ],
+    "slug": "budersand-hotel-golf-spa-sylt-sylt"
+  },
+  {
+    "id": "sylt-6",
+    "name": "Haus Carstensen Nord",
+    "destinationSlug": "sylt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/haus-carstensen-nord.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Haus Carstensen Nord is a pet-friendly property on Sylt that welcomes dogs and cats. Confirm any pet fee, size limits and the number of pets allowed directly with the hotel when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Free parking",
+      "Non-smoking rooms"
+    ],
+    "slug": "haus-carstensen-nord-sylt"
+  },
+  {
+    "id": "sylt-7",
+    "name": "Hotel Miramar",
+    "destinationSlug": "sylt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 173,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/miramar-sylt-ot-west.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Miramar is a pet-friendly property on Sylt that welcomes dogs and cats. Confirm any pet fee, size limits and the number of pets allowed directly with the hotel when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "hotel-miramar-sylt"
+  },
+  {
+    "id": "sylt-8",
+    "name": "Hotel Stadt Hamburg",
+    "destinationSlug": "sylt",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 584,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/de/stadt-hamburg-westerland.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Stadt Hamburg is a pet-friendly property on Sylt that welcomes dogs and cats. Confirm any pet fee, size limits and the number of pets allowed directly with the hotel when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "hotel-stadt-hamburg-sylt"
+  },
+  {
     "id": "syracuse-1",
     "slug": "ortea-palace-hotel-sicily-autograph-collection",
     "name": "Ortea Palace Hotel, Sicily, Autograph Collection",

@@ -41,6 +41,7 @@ export default function Footer({ locale, dict }: FooterProps) {
             <ul className="space-y-2 text-sm">
               <li><Link href={`/${locale}/destinations`} className="hover:text-white transition-colors">{footer.destinations}</Link></li>
               <li><Link href={`/${locale}/categories`} className="hover:text-white transition-colors">{footer.categories}</Link></li>
+              <li><Link href={`/${locale}/dog-parks`} className="hover:text-white transition-colors">{locale === 'fr' ? 'Parcs canins' : locale === 'es' ? 'Parques para perros' : locale === 'pt' ? 'Parques para cães' : 'Dog parks'}</Link></li>
               <li><Link href={`/${locale}/countries`} className="hover:text-white transition-colors">{locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : 'By country'}</Link></li>
             </ul>
           </div>

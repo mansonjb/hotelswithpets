@@ -85,6 +85,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
     })
   }
 
+  // Dog parks hub (aggregates every verified off-leash / fenced park)
+  for (const locale of LOCALES) {
+    entries.push({
+      url: `${BASE_URL}/${locale}/dog-parks`,
+      lastModified: BUILD_DATE,
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    })
+  }
+
   // Countries listing page
   for (const locale of LOCALES) {
     entries.push({

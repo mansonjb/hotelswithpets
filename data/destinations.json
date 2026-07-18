@@ -23402,6 +23402,81 @@
     "iata": "STR"
   },
   {
+    "slug": "sylt",
+    "name": "Sylt",
+    "country": "Germany",
+    "countryCode": "DE",
+    "flag": "🇩🇪",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/sylt.jpg",
+    "intro": "Sylt is Germany's premier North Sea beach island, a 40-kilometre ribbon of dunes, red cliffs and endless sand off the North Frisian coast, and one of the most genuinely dog-friendly destinations in the country. Every resort, from the main town of Westerland to Kampen, Wenningstedt, Rantum, Hörnum and List, has an officially designated dog beach (Hundestrand), with off-leash running on most beaches from November to mid-March. Add the purple heath of the Braderuper Heide, the glowing Rotes Kliff, the UNESCO Wadden Sea, and a car-train crossing where dogs travel free, and Sylt becomes a rare beach island built for travelling with a dog.",
+    "lat": 54.9079,
+    "lng": 8.3047,
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 3,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 5,
+        "desc": "Cool & breezy",
+        "icon": "🌥️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Cool & breezy",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Mild",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & breezy",
+        "icon": "🌥️"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "GWT"
+  },
+  {
     "slug": "syracuse",
     "name": "Syracuse",
     "country": "Italy",

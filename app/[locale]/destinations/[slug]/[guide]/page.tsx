@@ -503,7 +503,21 @@ export default async function GuideDetailPage({
 
   // Nearby hotels — value-aware order so an affordable option leads (avoids
   // price-shock on premium destinations) rather than leading with luxury.
-  const destHotels = valueSort(hotels.filter(h => h.destinationSlug === slug)).slice(0, 3)
+  const cityHotels = hotels.filter(h => h.destinationSlug === slug)
+  const destHotels = valueSort(cityHotels).slice(0, 3)
+
+  // Internal-link money bridge: this guide page ranks well (position 3-6), the
+  // city's pet-friendly hotels money page ranks much deeper. A prominent link
+  // here funnels internal authority to it AND gives the reader the commercial
+  // path. Topical guides (parks/beaches) point at the matching category page
+  // when that combo has inventory, otherwise the city hub.
+  const localizedCity = getLocalizedCityName(dest.slug, dest.name, locale)
+  const cityMinPrice = cityHotels.length ? Math.min(...cityHotels.map(h => h.priceFrom)) : 0
+  const topicalCat: Partial<Record<GuideSlug, string>> = { parks: 'near-parks', beaches: 'beach-access' }
+  const catForGuide = topicalCat[guide as GuideSlug]
+  const hotelsHref = catForGuide && cityHotels.some(h => h.categories.includes(catForGuide))
+    ? `/${locale}/${slug}/${catForGuide}`
+    : `/${locale}/destinations/${slug}`
 
   // Geographically nearest destinations — cross-sell to recover the traffic on
   // high-click / low-conversion premium pages (e.g. a user who can't find the
@@ -642,6 +656,33 @@ export default async function GuideDetailPage({
         <div className="prose prose-lg max-w-none mb-8">
           <p className="text-gray-700 text-lg leading-relaxed">{intro}</p>
         </div>
+
+        {/* ── Pet-friendly hotels money bridge (internal link to the city hotels page) ── */}
+        {cityHotels.length > 0 && (
+          <Link
+            href={hotelsHref}
+            className="flex items-center justify-between gap-3 mb-12 rounded-2xl border border-blue-200 bg-gradient-to-r from-blue-50 to-indigo-50 px-5 py-4 hover:border-blue-300 hover:shadow-sm transition-all focus-visible:ring-2 focus-visible:ring-blue-400"
+          >
+            <span className="flex items-center gap-3">
+              <span className="text-2xl flex-shrink-0">🏨</span>
+              <span>
+                <span className="block font-bold text-gray-900 text-sm">
+                  {locale === 'fr' ? `${cityHotels.length} hôtels acceptant les animaux à ${localizedCity}`
+                    : locale === 'es' ? `${cityHotels.length} hoteles que admiten mascotas en ${localizedCity}`
+                    : locale === 'pt' ? `${cityHotels.length} hotéis que aceitam animais em ${localizedCity}`
+                    : `${cityHotels.length} pet-friendly hotels in ${localizedCity}`}
+                </span>
+                <span className="block text-gray-500 text-xs mt-0.5">
+                  {locale === 'fr' ? `Politiques animaux vérifiées et prix Booking.com en direct dès ${cityMinPrice} €/nuit.`
+                    : locale === 'es' ? `Políticas de mascotas verificadas y precios Booking.com en directo desde ${cityMinPrice} €/noche.`
+                    : locale === 'pt' ? `Políticas de animais verificadas e preços Booking.com em direto desde ${cityMinPrice} €/noite.`
+                    : `Verified pet policies and live Booking.com prices from €${cityMinPrice}/night.`}
+                </span>
+              </span>
+            </span>
+            <span className="text-blue-500 flex-shrink-0 text-lg" aria-hidden="true">→</span>
+          </Link>
+        )}
 
         {/* ── Ski-resort snow report cross-link (bestsnowhotels.com, sister site) ── */}
         {bestSnowHotelsUrl(slug) && (

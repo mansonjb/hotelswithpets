@@ -41946,6 +41946,210 @@
     ]
   },
   {
+    "id": "scheveningen-1",
+    "name": "Grand Hotel Amrâth Kurhaus The Hague Scheveningen",
+    "destinationSlug": "scheveningen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 7.8,
+    "reviewCount": 8397,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/kurhaus.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Spa & wellness centre"
+    ],
+    "slug": "grand-hotel-amrath-kurhaus-the-hague-scheveningen-scheveningen"
+  },
+  {
+    "id": "scheveningen-2",
+    "name": "Scheveningen Diamond View Beach and Harbour",
+    "destinationSlug": "scheveningen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 56,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/diamondview-scheveningen-beach-and-harbour.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Beachfront",
+      "Free WiFi"
+    ],
+    "slug": "scheveningen-diamond-view-beach-and-harbour-scheveningen"
+  },
+  {
+    "id": "scheveningen-3",
+    "name": "Inntel Hotels Den Haag Marina Beach",
+    "destinationSlug": "scheveningen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.1,
+    "reviewCount": 5376,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/inntel-hotels-den-haag-marina-beach-the-hague12345.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "2 swimming pools",
+      "Parking",
+      "Spa & wellness centre"
+    ],
+    "slug": "inntel-hotels-den-haag-marina-beach-scheveningen"
+  },
+  {
+    "id": "scheveningen-4",
+    "name": "Carlton Beach",
+    "destinationSlug": "scheveningen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.1,
+    "reviewCount": 3163,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/carltonbeach.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Spa & wellness centre"
+    ],
+    "slug": "carlton-beach-scheveningen"
+  },
+  {
+    "id": "scheveningen-5",
+    "name": "Fletcher Hotel-Restaurant Scheveningen",
+    "destinationSlug": "scheveningen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8,
+    "reviewCount": 2343,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/fletcher-restaurant-scheveningen.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking",
+      "Family rooms",
+      "Beachfront"
+    ],
+    "slug": "fletcher-hotel-restaurant-scheveningen-scheveningen"
+  },
+  {
+    "id": "scheveningen-6",
+    "name": "Bilderberg Europa Hotel Scheveningen",
+    "destinationSlug": "scheveningen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8,
+    "reviewCount": 5451,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/bbeuropa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Family rooms"
+    ],
+    "slug": "bilderberg-europa-hotel-scheveningen-scheveningen"
+  },
+  {
+    "id": "scheveningen-7",
+    "name": "Ocean House Scheveningen",
+    "destinationSlug": "scheveningen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 1773,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/ocean-house-scheveningen.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Family rooms",
+      "Free WiFi"
+    ],
+    "slug": "ocean-house-scheveningen-scheveningen"
+  },
+  {
+    "id": "scheveningen-8",
+    "name": "Bizstay Harbour II Scheveningen Apartments",
+    "destinationSlug": "scheveningen",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 188,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/nl/bizstay-harbour-ii-scheveningen-apartments.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Family rooms",
+      "Beachfront"
+    ],
+    "slug": "bizstay-harbour-ii-scheveningen-apartments-scheveningen"
+  },
+  {
     "id": "sete-1",
     "name": "Hotel Port Marine",
     "destinationSlug": "sete",

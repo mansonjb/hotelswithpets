@@ -21,6 +21,11 @@ export type DestCtx = { personality: string; highlight: string; area: string }
 
 export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
   en: {
+    sydney: {
+      personality: `one of the world's most dog-friendly big cities, where a superb outdoor lifestyle of harbour dog beaches, huge off-leash parks and year-round terrace dining offsets strict zone-based beach rules and a public transport network that largely excludes pets`,
+      highlight: `the off-leash lawns of Sydney Park and Centennial Parklands, the harbour dog beach at Rose Bay, and the clifftop Federation Cliff Walk`,
+      area: `the inner west around Alexandria and Leichhardt, the eastern suburbs from Rose Bay to Watsons Bay, and the harbourfront at Barangaroo`,
+    },
     sylt: {
       personality: `Germany's premier North Sea beach island, where 40 kilometres of dunes and a string of official dog beaches make it one of the most genuinely dog-welcoming places in the country`,
       highlight: `the designated dog beaches at Westerland, Kampen and List, the glowing Rotes Kliff at Kampen, and the boardwalks of the Braderuper Heide`,
@@ -1884,6 +1889,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   fr: {
+    sydney: {
+      personality: `l'une des grandes villes les plus accueillantes pour les chiens au monde, où un superbe art de vivre en plein air (plages canines du port, immenses parcs sans laisse et terrasses ouvertes toute l'année) compense des règles de plage strictes par zones et un réseau de transports publics qui exclut largement les animaux`,
+      highlight: `les pelouses sans laisse de Sydney Park et de Centennial Parklands, la plage canine du port à Rose Bay et la Federation Cliff Walk en bord de falaise`,
+      area: `l'inner west autour d'Alexandria et Leichhardt, les banlieues est de Rose Bay à Watsons Bay, et le front de mer de Barangaroo`,
+    },
     sylt: {
       personality: `la première île balnéaire de la mer du Nord en Allemagne, où 40 kilomètres de dunes et une série de plages canines officielles en font l'un des endroits les plus réellement accueillants pour les chiens du pays`,
       highlight: `les plages canines de Westerland, Kampen et List, la falaise rouge du Rotes Kliff à Kampen, et les caillebotis de la lande de Braderup`,
@@ -3746,6 +3756,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   es: {
+    sydney: {
+      personality: `una de las grandes ciudades más dog-friendly del mundo, donde un estupendo estilo de vida al aire libre (playas caninas en el puerto, enormes parques sin correa y terrazas abiertas todo el año) compensa unas normas de playa estrictas por zonas y una red de transporte público que excluye en gran parte a las mascotas`,
+      highlight: `los céspedes sin correa de Sydney Park y Centennial Parklands, la playa canina del puerto en Rose Bay y la Federation Cliff Walk sobre los acantilados`,
+      area: `el inner west en torno a Alexandria y Leichhardt, los suburbios del este de Rose Bay a Watsons Bay, y el frente marítimo de Barangaroo`,
+    },
     sylt: {
       personality: `la principal isla balnearia del mar del Norte de Alemania, donde 40 kilómetros de dunas y una serie de playas caninas oficiales la convierten en uno de los lugares más genuinamente acogedores para perros del país`,
       highlight: `las playas caninas de Westerland, Kampen y List, el resplandeciente Rotes Kliff en Kampen, y las pasarelas de la Braderuper Heide`,
@@ -5608,6 +5623,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
     },
   },
   pt: {
+    sydney: {
+      personality: `uma das grandes cidades mais dog-friendly do mundo, onde um excelente estilo de vida ao ar livre (praias caninas no porto, enormes parques sem trela e esplanadas abertas todo o ano) compensa regras de praia rígidas por zonas e uma rede de transportes públicos que exclui em grande parte os animais`,
+      highlight: `os relvados sem trela do Sydney Park e dos Centennial Parklands, a praia canina do porto em Rose Bay e a Federation Cliff Walk no topo da falésia`,
+      area: `o inner west em torno de Alexandria e Leichhardt, os subúrbios a leste de Rose Bay a Watsons Bay, e a frente-mar de Barangaroo`,
+    },
     sylt: {
       personality: `a principal ilha balnear do mar do Norte da Alemanha, onde 40 quilómetros de dunas e uma série de praias caninas oficiais fazem dela um dos lugares mais genuinamente acolhedores para cães do país`,
       highlight: `as praias caninas de Westerland, Kampen e List, o luminoso Rotes Kliff em Kampen, e os passadiços da Braderuper Heide`,

@@ -45106,6 +45106,222 @@
     "petPolicyPt": "ibis Styles Stuttgart accepts cães e gatos até 10 kg por 10 EUR por animal por noite. Larger animais aceites upon pedido. animais são não permitidos no buffet breakfast area; service animals estadia free."
   },
   {
+    "id": "sydney-1",
+    "name": "Ace Hotel Sydney",
+    "destinationSlug": "sydney",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 3633,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/ace-sydney.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "ace-hotel-sydney-sydney",
+    "address": "47 Wentworth Avenue, Sydney CBD, 2000 Sydney, Australia",
+    "neighborhood": "Sydney CBD"
+  },
+  {
+    "id": "sydney-2",
+    "name": "Shangri-La Sydney",
+    "destinationSlug": "sydney",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 9017,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/shangrila-sydney.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "shangri-la-sydney-sydney",
+    "address": "176 Cumberland Street, The Rocks, Sydney CBD, 2000 Sydney, Australia",
+    "neighborhood": "Sydney CBD"
+  },
+  {
+    "id": "sydney-3",
+    "name": "Paradox Sydney",
+    "destinationSlug": "sydney",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 7367,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/paradox-sydney.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Parking",
+      "Free WiFi"
+    ],
+    "slug": "paradox-sydney-sydney",
+    "address": "Sydney CBD, Sydney, Australia",
+    "neighborhood": "Sydney CBD"
+  },
+  {
+    "id": "sydney-4",
+    "name": "Little National Hotel Sydney",
+    "destinationSlug": "sydney",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2688,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/little-national-sydney-sydney.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "little-national-hotel-sydney-sydney",
+    "address": "26 Clarence Street, Sydney CBD, 2000 Sydney, Australia",
+    "neighborhood": "Sydney CBD"
+  },
+  {
+    "id": "sydney-5",
+    "name": "Meriton Suites Campbell Street, Sydney",
+    "destinationSlug": "sydney",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 5391,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/meriton-serviced-apartments-campbell-street.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "meriton-suites-campbell-street-sydney-sydney",
+    "address": "4 - 10 Campbell Street, Sydney CBD, 2000 Sydney, Australia",
+    "neighborhood": "Sydney CBD"
+  },
+  {
+    "id": "sydney-6",
+    "name": "The Fullerton Hotel Sydney",
+    "destinationSlug": "sydney",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 7214,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/fullerton-sydney.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking on site",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "the-fullerton-hotel-sydney-sydney",
+    "address": "1 Martin Place, Sydney CBD, 2000 Sydney, Australia",
+    "neighborhood": "Sydney CBD"
+  },
+  {
+    "id": "sydney-7",
+    "name": "InterContinental Sydney by IHG",
+    "destinationSlug": "sydney",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 2830,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/intercontinental-sydney.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "intercontinental-sydney-by-ihg-sydney",
+    "address": "Corner of Phillip and Bridge Streets, Sydney CBD, 2000 Sydney, Australia",
+    "neighborhood": "Sydney CBD"
+  },
+  {
+    "id": "sydney-8",
+    "name": "Four Seasons Hotel Sydney",
+    "destinationSlug": "sydney",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 5282,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/four-seasons-sydney.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "four-seasons-hotel-sydney-sydney",
+    "address": "199 George Street, Sydney CBD, 2000 Sydney, Australia",
+    "neighborhood": "Sydney CBD"
+  },
+  {
     "id": "sylt-1",
     "name": "Pebbles",
     "destinationSlug": "sylt",

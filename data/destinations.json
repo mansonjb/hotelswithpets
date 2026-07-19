@@ -23477,6 +23477,81 @@
     "iata": "STR"
   },
   {
+    "slug": "sydney",
+    "name": "Sydney",
+    "country": "Australia",
+    "countryCode": "AU",
+    "flag": "🇦🇺",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/sydney.jpg",
+    "intro": "Sydney is one of the world's most dog-friendly cities, with harbour dog beaches, huge off-leash parks, and a year-round outdoor dining culture.",
+    "lat": -33.8688,
+    "lng": 151.2093,
+    "weather": {
+      "jan": {
+        "temp": 26,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 26,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 25,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 22,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Cool & clear",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 16,
+        "desc": "Cool & clear",
+        "icon": "⛅"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Cool & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 22,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 24,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 25,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "SYD"
+  },
+  {
     "slug": "sylt",
     "name": "Sylt",
     "country": "Germany",

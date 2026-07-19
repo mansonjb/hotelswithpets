@@ -40576,6 +40576,112 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  sydney: {
+    history: {
+      fr: `Sydney est née de la colonie pénitentiaire fondée en 1788 à Sydney Cove pour devenir la plus grande ville d'Australie, environ 5,3 millions d'habitants blottis autour de l'un des plus beaux ports naturels du monde. Ses caps de grès, ses plages océaniques et ses réserves de bush façonnent un art de vivre résolument tourné vers l'extérieur, et les chiens y ont toute leur place : plages canines au bord du port, immenses réserves municipales et une culture de terrasses et de beer gardens ouverte toute l'année. Deux réalités encadrent une visite avec un chien. D'abord, l'accès est strictement zoné : les célèbres plages de surf (Bondi, Manly, Coogee) interdisent les chiens, les zones sans laisse sont balisées par secteur et par horaire, et les terrains des parcs nationaux excluent les animaux. Ensuite, les transports publics aussi, dans une large mesure, si bien que la plupart des maîtres circulent en voiture ou en VTC acceptant les animaux. La récompense, quand on compose avec ces règles, est l'une des grandes villes les plus réellement dog-friendly qui soient, avec d'excellents vétérinaires d'urgence 24h/24.`,
+      en: `Sydney grew from the 1788 penal colony at Sydney Cove into Australia's largest city, roughly 5.3 million people wrapped around one of the world's great natural harbours. Its sandstone headlands, ocean beaches and bushland reserves shape a famously outdoor way of life, and dogs are woven into it: harbourside dog beaches, huge council reserves, and a year-round terrace and beer-garden culture. Two local realities frame a visit with a dog. First, access is tightly zoned: the famous surf beaches (Bondi, Manly, Coogee) ban dogs, off-leash areas are marked by zone and hour, and National Parks land excludes pets. Second, public transport largely does too, so most owners get around by car or pet-friendly rideshare. The reward for planning around those rules is one of the most genuinely dog-friendly big cities anywhere, with excellent 24/7 emergency vets and a deep pet-care economy.`,
+      es: `Sídney nació de la colonia penal fundada en 1788 en Sydney Cove hasta convertirse en la mayor ciudad de Australia, unos 5,3 millones de personas alrededor de uno de los grandes puertos naturales del mundo. Sus cabos de arenisca, sus playas oceánicas y sus reservas de monte moldean un estilo de vida célebre por su carácter al aire libre, y los perros forman parte de él: playas caninas junto al puerto, enormes reservas municipales y una cultura de terrazas y beer gardens abierta todo el año. Dos realidades enmarcan una visita con perro. Primero, el acceso está muy zonificado: las famosas playas de surf (Bondi, Manly, Coogee) prohíben los perros, las zonas sin correa se señalizan por sector y horario, y los terrenos de parques nacionales excluyen a las mascotas. Segundo, el transporte público también lo hace en gran medida, así que la mayoría de los dueños se mueven en coche o en VTC que admita mascotas. La recompensa, cuando se planifica en torno a esas normas, es una de las grandes ciudades más genuinamente dog-friendly que existen, con excelentes veterinarios de urgencia 24/7.`,
+      pt: `Sydney nasceu da colónia penal fundada em 1788 em Sydney Cove até se tornar a maior cidade da Austrália, cerca de 5,3 milhões de pessoas em redor de um dos grandes portos naturais do mundo. Os seus cabos de arenito, as praias oceânicas e as reservas de mato moldam um estilo de vida célebre pelo seu carácter ao ar livre, e os cães fazem parte dele: praias caninas junto ao porto, enormes reservas municipais e uma cultura de esplanadas e beer gardens aberta todo o ano. Duas realidades enquadram uma visita com um cão. Primeiro, o acesso é muito zonado: as famosas praias de surf (Bondi, Manly, Coogee) proíbem cães, as zonas sem trela são assinaladas por setor e por horário, e os terrenos de parques nacionais excluem os animais. Segundo, os transportes públicos também o fazem em grande medida, pelo que a maioria dos donos se desloca de carro ou de TVDE que aceite animais. A recompensa, quando se planeia em função dessas regras, é uma das grandes cidades mais genuinamente dog-friendly que existem, com excelentes veterinários de urgência 24/7.`,
+    },
+    sights: [
+      { name: 'Sydney Park', emoji: '🌳', petFriendly: true, desc: {
+        fr: `La plus grande zone sans laisse du centre-ville, sur les collines d'anciennes briqueteries à Alexandria, avec zones humides, vastes pelouses et vue sur la ville. Le point de ralliement des chiens de l'inner west, matin et soir.`,
+        en: `The largest off-leash area in the inner city, set on former brickworks hills in Alexandria, with wetlands, wide lawns and city views. The gathering point for inner-west dogs, morning and evening.`,
+        es: `La mayor zona sin correa del centro, sobre las colinas de una antigua fábrica de ladrillos en Alexandria, con humedales, amplios céspedes y vistas de la ciudad. El punto de encuentro de los perros del inner west, mañana y tarde.`,
+        pt: `A maior zona sem trela do centro da cidade, nas colinas de antigas olarias em Alexandria, com zonas húmidas, grandes relvados e vista para a cidade. O ponto de encontro dos cães do inner west, de manhã e ao fim do dia.`,
+      }},
+      { name: 'Centennial Parklands', emoji: '🌿', petFriendly: true, desc: {
+        fr: `L'un des grands parcs urbains du monde, avec environ 43 % de son espace ouvert classé sans laisse (Sandstone Ridge, Federation Valley). Chiens interdits dans les étangs, les aires de jeux et autour du pavillon.`,
+        en: `One of the world's great urban parks, with about 43 percent of its open space designated off-leash (Sandstone Ridge, Federation Valley). Dogs are kept out of the ponds, playgrounds and the area around the pavilion.`,
+        es: `Uno de los grandes parques urbanos del mundo, con cerca del 43 % de su espacio abierto designado sin correa (Sandstone Ridge, Federation Valley). Los perros no pueden entrar en los estanques, los parques infantiles ni la zona del pabellón.`,
+        pt: `Um dos grandes parques urbanos do mundo, com cerca de 43 % do seu espaço aberto designado como sem trela (Sandstone Ridge, Federation Valley). Os cães não podem entrar nos lagos, nos parques infantis nem na zona do pavilhão.`,
+      }},
+      { name: 'Rose Bay Foreshore', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Une plage de port calme dans les banlieues est où les chiens sont autorisés sans laisse à toute heure, sur la portion balisée entre Dumaresq Reserve et Percival Park. L'une des rares plages canines sans restriction horaire de Sydney.`,
+        en: `A calm harbour beach in the eastern suburbs where dogs are allowed off-leash at any time along the marked stretch between Dumaresq Reserve and Percival Park. One of the few all-hours dog beaches in Sydney.`,
+        es: `Una playa de puerto tranquila en los suburbios del este donde los perros pueden ir sin correa a cualquier hora, en el tramo señalizado entre Dumaresq Reserve y Percival Park. Una de las pocas playas caninas sin restricción horaria de Sídney.`,
+        pt: `Uma praia de porto calma nos subúrbios a leste onde os cães são permitidos sem trela a qualquer hora, no troço assinalado entre Dumaresq Reserve e Percival Park. Uma das poucas praias caninas sem restrição horária de Sydney.`,
+      }},
+      { name: 'Barangaroo Reserve', emoji: '⚓', petFriendly: true, desc: {
+        fr: `Un promontoire de grès reconstitué à la lisière ouest du CBD, avec promenade en bord de port et vues sur le pont. Chiens acceptés en laisse partout, et autorisés dans l'eau à la crique de baignade de Marrinawi Cove.`,
+        en: `A reconstructed sandstone headland on the western edge of the CBD, with a harbourfront walk and bridge views. Dogs are welcome on-leash throughout, and allowed in the water at the Marrinawi Cove swimming enclosure.`,
+        es: `Un promontorio de arenisca reconstruido en el borde oeste del CBD, con paseo junto al puerto y vistas al puente. Perros bienvenidos con correa por todas partes, y permitidos en el agua en la cala de baño de Marrinawi Cove.`,
+        pt: `Um promontório de arenito reconstruído no limite oeste do CBD, com passeio à beira do porto e vistas para a ponte. Cães bem-vindos à trela por toda a parte, e permitidos na água na enseada de banhos de Marrinawi Cove.`,
+      }},
+      { name: 'Federation Cliff Walk', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Un sentier de bord de falaise de Dover Heights vers Watsons Bay, passant le phare de Macquarie, avec de vastes vues océaniques et des réserves sans laisse (Raleigh Reserve, Lighthouse Reserve). Chiens interdits à l'extrémité Gap Park et parc national.`,
+        en: `A clifftop path from Dover Heights toward Watsons Bay past the Macquarie Lighthouse, with sweeping ocean views and off-leash reserves (Raleigh Reserve, Lighthouse Reserve). Dogs are banned at the Gap Park and National Park end.`,
+        es: `Un sendero por lo alto del acantilado de Dover Heights hacia Watsons Bay pasando el faro de Macquarie, con amplias vistas oceánicas y reservas sin correa (Raleigh Reserve, Lighthouse Reserve). Perros prohibidos en el extremo de Gap Park y el parque nacional.`,
+        pt: `Um trilho no topo da falésia de Dover Heights em direção a Watsons Bay passando pelo farol de Macquarie, com amplas vistas oceânicas e reservas sem trela (Raleigh Reserve, Lighthouse Reserve). Cães proibidos no extremo do Gap Park e do parque nacional.`,
+      }},
+      { name: 'Glebe Foreshore Walk', emoji: '🚶', petFriendly: true, desc: {
+        fr: `Une promenade en bord de port dans l'inner west, de Blackwattle Bay au Bicentennial Park, ponctuée de cafés dog-friendly. Chiens en laisse sur le chemin, avec vue sur l'Anzac Bridge et la baie.`,
+        en: `A harbourfront walk in the inner west, from Blackwattle Bay to Bicentennial Park, dotted with dog-friendly cafes. Leashed dogs on the path, with views of the Anzac Bridge and the bay.`,
+        es: `Un paseo junto al puerto en el inner west, de Blackwattle Bay al Bicentennial Park, salpicado de cafés dog-friendly. Perros con correa en el camino, con vistas al Anzac Bridge y a la bahía.`,
+        pt: `Um passeio à beira do porto no inner west, de Blackwattle Bay ao Bicentennial Park, pontuado por cafés dog-friendly. Cães à trela no caminho, com vista para a Anzac Bridge e a baía.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Accès plage et liberté strictement zonés : les plages de surf (Bondi, Manly, Coogee) interdisent les chiens ; ailleurs, le sans laisse dépend du secteur et de l'heure, avec des amendes à partir d'environ 220 AUD.`,
+        `La tique paralysante (Ixodes holocyclus) vit sur la côte et dans le bush et peut être mortelle : utilisez un antiparasitaire recommandé par un vétérinaire et inspectez le chien chaque jour après une promenade en bush ou sur la côte.`,
+        `L'été est chaud et humide : promenez-vous tôt le matin ou le soir, testez le bitume et le sable avec la main, et ne laissez jamais un chien dans une voiture garée.`,
+        `Les transports publics excluent largement les animaux : ni train ni métro pour les chiens ; bus, tramway et ferries n'acceptent qu'un petit animal en sac à la discrétion du personnel, donc prévoyez voiture ou VTC animalier.`,
+        `Urgences 24h/24 : SASH Alexandria (proche du centre) et North Ryde (nord), Animal Referral Hospital à Homebush (inner west) ; enregistrez un numéro et appelez avant de venir.`,
+      ],
+      en: [
+        `Beach and off-leash access is tightly zoned: the surf beaches (Bondi, Manly, Coogee) ban dogs; elsewhere off-leash depends on the zone and the hour, with fines from around AUD 220.`,
+        `The paralysis tick (Ixodes holocyclus) lives along the coast and in bushland and can be fatal: use a vet-recommended preventive and check your dog daily after a bush or coastal walk.`,
+        `Summer is hot and humid: walk early morning or evening, test the pavement and sand with your hand, and never leave a dog in a parked car.`,
+        `Public transport largely excludes pets: no dogs on trains or the Metro; buses, light rail and ferries take only a small pet in a carrier at staff discretion, so plan on a car or pet-friendly rideshare.`,
+        `24/7 emergencies: SASH Alexandria (near the city) and North Ryde (north), and the Animal Referral Hospital at Homebush (inner west); save a number and call ahead.`,
+      ],
+      es: [
+        `El acceso a playas y zonas sin correa está muy zonificado: las playas de surf (Bondi, Manly, Coogee) prohíben los perros; en el resto, el sin correa depende del sector y la hora, con multas desde unos 220 AUD.`,
+        `La garrapata paralizante (Ixodes holocyclus) vive en la costa y el monte y puede ser mortal: usa un antiparasitario recomendado por el veterinario y revisa a tu perro a diario tras un paseo por el monte o la costa.`,
+        `El verano es caluroso y húmedo: pasea a primera hora o al atardecer, comprueba el asfalto y la arena con la mano, y nunca dejes al perro en un coche aparcado.`,
+        `El transporte público excluye en gran parte a las mascotas: no hay perros en trenes ni Metro; autobuses, tranvía y ferris solo llevan una mascota pequeña en transportín a discreción del personal, así que planifica coche o VTC para mascotas.`,
+        `Urgencias 24/7: SASH Alexandria (cerca del centro) y North Ryde (norte), y el Animal Referral Hospital en Homebush (inner west); guarda un número y llama antes de ir.`,
+      ],
+      pt: [
+        `O acesso a praias e a zonas sem trela é muito zonado: as praias de surf (Bondi, Manly, Coogee) proíbem cães; no resto, o sem trela depende do setor e da hora, com coimas a partir de cerca de 220 AUD.`,
+        `A carraça paralisante (Ixodes holocyclus) vive no litoral e no mato e pode ser fatal: use um antiparasitário recomendado pelo veterinário e inspecione o cão diariamente após um passeio no mato ou no litoral.`,
+        `O verão é quente e húmido: passeie de manhã cedo ou ao fim do dia, teste o asfalto e a areia com a mão, e nunca deixe o cão num carro estacionado.`,
+        `Os transportes públicos excluem em grande parte os animais: não há cães em comboios nem no Metro; autocarros, elétrico e ferries só levam um animal pequeno em transportadora ao critério do pessoal, por isso conte com carro ou TVDE que aceite animais.`,
+        `Urgências 24/7: SASH Alexandria (perto do centro) e North Ryde (norte), e o Animal Referral Hospital em Homebush (inner west); guarde um número e ligue antes de ir.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `L'Australie applique l'une des biosécurités les plus strictes au monde : import réservé aux pays approuvés, avec permis d'importation, puce ISO, vaccin antirabique et test sérologique RNATT, traitements imposés, puis une quarantaine gouvernementale d'au moins 10 jours à l'établissement de Mickleham, près de Melbourne. Comptez plusieurs mois de démarches.`,
+        `Aéroport : Sydney Kingsford Smith (SYD) est la principale porte d'entrée ; les animaux vivants transitent par la quarantaine de Melbourne avant un vol intérieur vers Sydney. Vérifiez les règles de transport animalier de votre compagnie.`,
+        `Monnaie : le dollar australien (AUD). Budget dog-friendly modéré à élevé : prévoyez une marge pour les taxis animaliers, VTC et gardiens payants, les transports publics étant fermés aux animaux.`,
+        `Meilleures saisons : le printemps (septembre-novembre) et l'automne (mars-mai) sont doux pour marcher ; l'été (décembre-février) est chaud et humide, avec risque de tique et de coup de chaleur ; l'hiver (juin-août) est doux et ensoleillé, idéal pour les promenades.`,
+        `Loi : le NSW Companion Animals Act impose la laisse en public hors zones sans laisse désignées, avec amendes municipales ; les animaux d'assistance accrédités sont admis partout, y compris dans les transports.`,
+      ],
+      en: [
+        `Australia has some of the world's strictest biosecurity: import is limited to approved countries and requires an import permit, ISO microchip, rabies vaccination and an RNATT titre test, mandated treatments, then a government quarantine of at least 10 days at the Mickleham facility near Melbourne. Expect several months of preparation.`,
+        `Airport: Sydney Kingsford Smith (SYD) is the main gateway; live animals clear the Melbourne quarantine facility before a domestic flight on to Sydney. Check your airline's pet-transport rules.`,
+        `Currency: the Australian dollar (AUD). A dog-friendly budget runs moderate to high: allow a margin for pet taxis, rideshare and paid sitters, since public transport is closed to pets.`,
+        `Best seasons: spring (September-November) and autumn (March-May) are mild for walking; summer (December-February) is hot and humid with tick and heat risk; winter (June-August) is mild and sunny, ideal for walks.`,
+        `Law: the NSW Companion Animals Act requires leashing in public outside designated off-leash areas, with council fines; accredited assistance animals are allowed everywhere, including on transport.`,
+      ],
+      es: [
+        `Australia tiene una de las bioseguridades más estrictas del mundo: la importación se limita a países aprobados y exige permiso de importación, microchip ISO, vacuna antirrábica y test serológico RNATT, tratamientos obligatorios y luego una cuarentena gubernamental de al menos 10 días en la instalación de Mickleham, cerca de Melbourne. Cuenta con varios meses de trámites.`,
+        `Aeropuerto: Sydney Kingsford Smith (SYD) es la principal puerta de entrada; los animales vivos pasan por la cuarentena de Melbourne antes de un vuelo doméstico a Sídney. Consulta las normas de transporte de mascotas de tu aerolínea.`,
+        `Moneda: el dólar australiano (AUD). El presupuesto dog-friendly es de moderado a alto: deja margen para taxis para mascotas, VTC y cuidadores de pago, ya que el transporte público está cerrado a las mascotas.`,
+        `Mejores temporadas: la primavera (septiembre-noviembre) y el otoño (marzo-mayo) son suaves para caminar; el verano (diciembre-febrero) es caluroso y húmedo, con riesgo de garrapatas y golpe de calor; el invierno (junio-agosto) es suave y soleado, ideal para pasear.`,
+        `Ley: la NSW Companion Animals Act obliga a llevar correa en público fuera de las zonas sin correa designadas, con multas municipales; los animales de asistencia acreditados se admiten en todas partes, incluido el transporte.`,
+      ],
+      pt: [
+        `A Austrália tem uma das biosseguranças mais rígidas do mundo: a importação limita-se a países aprovados e exige licença de importação, microchip ISO, vacina antirrábica e teste serológico RNATT, tratamentos obrigatórios e depois uma quarentena governamental de pelo menos 10 dias na instalação de Mickleham, perto de Melbourne. Conte com vários meses de tratativas.`,
+        `Aeroporto: o Sydney Kingsford Smith (SYD) é a principal porta de entrada; os animais vivos passam pela quarentena de Melbourne antes de um voo doméstico para Sydney. Verifique as regras de transporte de animais da sua companhia aérea.`,
+        `Moeda: o dólar australiano (AUD). O orçamento dog-friendly é de moderado a elevado: deixe margem para táxis para animais, TVDE e cuidadores pagos, uma vez que os transportes públicos estão fechados a animais.`,
+        `Melhores épocas: a primavera (setembro-novembro) e o outono (março-maio) são amenos para caminhar; o verão (dezembro-fevereiro) é quente e húmido, com risco de carraça e de golpe de calor; o inverno (junho-agosto) é ameno e solarengo, ideal para passeios.`,
+        `Lei: o NSW Companion Animals Act obriga à trela em público fora das zonas sem trela designadas, com coimas municipais; os animais de assistência acreditados são admitidos em todo o lado, incluindo nos transportes.`,
+      ],
+    },
+  },
   sylt: {
     history: {
       fr: `Sylt est la plus grande des îles frisonnes du Nord, un long ruban de sable, de dunes et de landes posé dans la mer du Nord au large du Schleswig-Holstein. Reliée au continent depuis 1927 par la digue Hindenburgdamm, elle n'a pas de pont routier : les voitures embarquent sur le train-auto depuis Niebüll, tandis que les piétons arrivent en train à Westerland, la ville principale. Autour d'elle gravitent les stations de Kampen, Wenningstedt, Rantum, Hörnum au sud et List à l'extrême nord. L'île vit du tourisme balnéaire haut de gamme, mais aussi de la pêche et de l'élevage de moutons sur les digues. Sa côte ouest aligne quarante kilomètres de plage face à la mer du Nord ; à l'est s'étend la mer des Wadden, patrimoine mondial de l'UNESCO. Pour un maître de chien, Sylt est exceptionnelle : chaque station possède sa plage canine officielle et l'accueil des animaux y est une évidence.`,

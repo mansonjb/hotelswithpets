@@ -26,6 +26,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the designated dog beaches at Westerland, Kampen and List, the glowing Rotes Kliff at Kampen, and the boardwalks of the Braderuper Heide`,
       area: `Westerland, Kampen, and the thatched Friesian village of Keitum`,
     },
+    scheveningen: {
+      personality: `The Hague's North Sea beach resort, a lively urban seaside district where a long boulevard, a landmark pier and protected dunes meet year-round dog beaches at both ends of the coast`,
+      highlight: `the year-round dog beaches at the Noorderstrand and the Kijkduin end of the Zuiderstrand, the Westduinpark dunes, and the Pier reaching out over the sea`,
+      area: `the Strandweg boulevard, the working fishing harbour, and the Westduinpark dunes towards Kijkduin`,
+    },
     gijon: {
       personality: `a relaxed Cantabrian-coast cider city where dogs trot beside their owners along the seafront and doze under the tables of bustling sidrerías.`,
       highlight: `El Rinconín, Gijón's year-round dog beach, complete with its own fenced off-leash dog park right beside the sand.`,
@@ -1884,6 +1889,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `les plages canines de Westerland, Kampen et List, la falaise rouge du Rotes Kliff à Kampen, et les caillebotis de la lande de Braderup`,
       area: `Westerland, Kampen et le village frison aux toits de chaume de Keitum`,
     },
+    scheveningen: {
+      personality: `la station balnéaire de La Haye sur la mer du Nord, un quartier maritime urbain animé où un long boulevard, une jetée emblématique et des dunes protégées côtoient des plages canines ouvertes toute l'année aux deux extrémités de la côte`,
+      highlight: `les plages canines ouvertes toute l'année au Noorderstrand et à l'extrémité de Kijkduin du Zuiderstrand, les dunes du Westduinpark et la jetée qui s'avance sur la mer`,
+      area: `le boulevard Strandweg, le port de pêche en activité et les dunes du Westduinpark vers Kijkduin`,
+    },
     gijon: {
       personality: `une ville cidricole décontractée de la côte cantabrique où les chiens trottent aux côtés de leurs maîtres le long du front de mer et somnolent sous les tables des sidrerías animées.`,
       highlight: `El Rinconín, la plage canine de Gijón ouverte toute l'année, avec son propre parc clôturé pour chiens en liberté juste à côté du sable.`,
@@ -3741,6 +3751,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `las playas caninas de Westerland, Kampen y List, el resplandeciente Rotes Kliff en Kampen, y las pasarelas de la Braderuper Heide`,
       area: `Westerland, Kampen y el pueblo frisón de tejados de paja de Keitum`,
     },
+    scheveningen: {
+      personality: `la estación balnearia de La Haya en el mar del Norte, un animado barrio marítimo urbano donde un largo bulevar, un muelle emblemático y dunas protegidas conviven con playas caninas abiertas todo el año en ambos extremos de la costa`,
+      highlight: `las playas caninas de todo el año en el Noorderstrand y en el extremo de Kijkduin del Zuiderstrand, las dunas del Westduinpark y el muelle que se adentra en el mar`,
+      area: `el bulevar Strandweg, el puerto pesquero en activo y las dunas del Westduinpark hacia Kijkduin`,
+    },
     gijon: {
       personality: `una relajada ciudad sidrera de la costa cantábrica donde los perros caminan junto a sus dueños por el paseo marítimo y dormitan bajo las mesas de las animadas sidrerías.`,
       highlight: `El Rinconín, la playa canina de Gijón abierta todo el año, con su propio parque vallado para perros sueltos justo al lado de la arena.`,
@@ -5597,6 +5612,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a principal ilha balnear do mar do Norte da Alemanha, onde 40 quilómetros de dunas e uma série de praias caninas oficiais fazem dela um dos lugares mais genuinamente acolhedores para cães do país`,
       highlight: `as praias caninas de Westerland, Kampen e List, o luminoso Rotes Kliff em Kampen, e os passadiços da Braderuper Heide`,
       area: `Westerland, Kampen e a aldeia frísia de telhados de colmo de Keitum`,
+    },
+    scheveningen: {
+      personality: `a estância balnear de Haia no mar do Norte, um animado bairro marítimo urbano onde um longo passeio, um cais emblemático e dunas protegidas convivem com praias caninas abertas todo o ano em ambas as pontas da costa`,
+      highlight: `as praias caninas de todo o ano no Noorderstrand e na ponta de Kijkduin do Zuiderstrand, as dunas do Westduinpark e o cais que avança sobre o mar`,
+      area: `o passeio Strandweg, o porto de pesca em atividade e as dunas do Westduinpark em direção a Kijkduin`,
     },
     gijon: {
       personality: `uma descontraída cidade da sidra da costa cantábrica onde os cães caminham ao lado dos donos pela frente de mar e dormitam debaixo das mesas das animadas sidrerías.`,

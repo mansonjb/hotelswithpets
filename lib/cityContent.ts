@@ -37706,6 +37706,142 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  scheveningen: {
+    history: {
+      fr: `Scheveningen est le quartier balnéaire de La Haye sur la mer du Nord, ancien village de pêcheurs devenu au XIXe siècle l'une des premières stations balnéaires des Pays-Bas autour de son grand Kurhaus de 1885. Aujourd'hui c'est une station urbaine animée : un boulevard d'un kilomètre, la célèbre jetée (De Pier), un port de pêche toujours actif et une longue plage de sable adossée à des dunes protégées. Pour le chien, l'atout majeur est la combinaison d'une ville accessible en tram et de plages canines aux deux extrémités de la côte. L'accès à la plage est toutefois saisonnier et zoné : la plage de baignade centrale ferme aux chiens du 15 mai au 1er octobre, mais le Noorderstrand au nord et l'extrémité de Kijkduin au sud restent ouverts toute l'année, souvent sans laisse.`,
+      en: `Scheveningen is The Hague's North Sea beach district, a former fishing village that became one of the earliest Dutch seaside resorts in the 19th century around its grand 1885 Kurhaus. Today it is a lively urban resort: a kilometre-long boulevard, the famous Pier (De Pier), a still-working fishing harbour and a long sandy beach backed by protected dunes. For a dog, the real draw is the mix of a tram-accessible city and dog beaches at either end of the coast. Beach access is seasonal and zoned, though: the central bathing beach closes to dogs from 15 May to 1 October, but the Noorderstrand to the north and the Kijkduin end to the south stay open all year, often off the lead.`,
+      es: `Scheveningen es el barrio de playa de La Haya en el mar del Norte, un antiguo pueblo pesquero que se convirtió en una de las primeras estaciones balnearias neerlandesas en el siglo XIX en torno a su gran Kurhaus de 1885. Hoy es una animada estación urbana: un bulevar de un kilómetro, el famoso muelle (De Pier), un puerto pesquero aún en activo y una larga playa de arena respaldada por dunas protegidas. Para un perro, el gran atractivo es la mezcla de una ciudad accesible en tranvía y playas caninas en ambos extremos de la costa. El acceso a la playa es, eso sí, estacional y por zonas: la playa de baño central cierra a los perros del 15 de mayo al 1 de octubre, pero el Noorderstrand al norte y el extremo de Kijkduin al sur siguen abiertos todo el año, a menudo sin correa.`,
+      pt: `Scheveningen é o bairro de praia de Haia no mar do Norte, uma antiga aldeia piscatória que se tornou uma das primeiras estâncias balneares neerlandesas no século XIX em torno do seu grande Kurhaus de 1885. Hoje é uma animada estância urbana: um passeio de um quilómetro, o famoso cais (De Pier), um porto de pesca ainda em atividade e uma longa praia de areia apoiada em dunas protegidas. Para um cão, o grande atrativo é a combinação de uma cidade acessível de elétrico e praias caninas em ambas as pontas da costa. O acesso à praia é, no entanto, sazonal e por zonas: a praia balnear central fecha aos cães de 15 de maio a 1 de outubro, mas o Noorderstrand a norte e a ponta de Kijkduin a sul permanecem abertos todo o ano, muitas vezes sem trela.`,
+    },
+    sights: [
+      {
+        name: 'De Pier',
+        emoji: '🎡',
+        petFriendly: true,
+        desc: {
+          fr: `La jetée emblématique de Scheveningen, qui s'avance sur la mer du Nord avec terrasses, stands de restauration, grande roue et vues panoramiques sur le rivage. Les chiens en laisse sont autorisés sur le pont de la jetée, ce qui en fait une belle promenade même quand la plage est interdite aux chiens en été ; les manèges et les espaces intérieurs ne sont pas pour les animaux.`,
+          en: `Scheveningen's landmark pier, reaching out over the North Sea with terraces, food stalls, a Ferris wheel and panoramic views back to shore. Leashed dogs are allowed on the pier deck, making it a fine walk even when the beach is closed to dogs in summer; the fairground rides and indoor venues are not for pets.`,
+          es: `El emblemático muelle de Scheveningen, que se adentra en el mar del Norte con terrazas, puestos de comida, una noria y vistas panorámicas hacia la orilla. Los perros con correa pueden pasear por la cubierta del muelle, un buen paseo incluso cuando la playa está cerrada a los perros en verano; las atracciones y los espacios interiores no son para mascotas.`,
+          pt: `O emblemático cais de Scheveningen, que avança sobre o mar do Norte com terraços, bancas de comida, uma roda-gigante e vistas panorâmicas para a costa. Os cães com trela podem passear pelo tabuleiro do cais, um belo passeio mesmo quando a praia está fechada aos cães no verão; os divertimentos e os espaços interiores não são para animais.`,
+        },
+      },
+      {
+        name: 'Scheveningen Boulevard',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Le boulevard du front de mer, long d'un kilomètre, bordé de restaurants, de beach clubs et de sculptures, avec la mer et la jetée en toile de fond. Les chiens en laisse y sont bienvenus toute l'année, ce qui en fait la promenade de secours idéale pendant l'interdiction estivale de plage. C'est le cœur animé de la station, relié au reste de La Haye par les trams 1, 9 et 11.`,
+          en: `The kilometre-long seafront boulevard, lined with restaurants, beach clubs and sculptures, with the sea and the Pier as a backdrop. Leashed dogs are welcome here year-round, making it the ideal fallback stroll during the summer beach ban. It is the lively heart of the resort, linked to the rest of The Hague by trams 1, 9 and 11.`,
+          es: `El bulevar del paseo marítimo, de un kilómetro, flanqueado por restaurantes, beach clubs y esculturas, con el mar y el muelle de fondo. Los perros con correa son bienvenidos todo el año, lo que lo convierte en el paseo de repuesto ideal durante la prohibición estival de playa. Es el animado corazón de la estación, unido al resto de La Haya por los tranvías 1, 9 y 11.`,
+          pt: `O passeio da frente de mar, com um quilómetro, ladeado de restaurantes, beach clubs e esculturas, com o mar e o cais como pano de fundo. Os cães com trela são bem-vindos todo o ano, o que o torna o passeio de recurso ideal durante a proibição estival de praia. É o animado coração da estância, ligado ao resto de Haia pelos elétricos 1, 9 e 11.`,
+        },
+      },
+      {
+        name: 'Westduinpark',
+        emoji: '🌾',
+        petFriendly: true,
+        desc: {
+          fr: `Un parc dunaire côtier vallonné entre Scheveningen et Kijkduin, fait de sable ouvert, d'oyats et de basse forêt, classé zone Natura 2000 (Westduinpark & Wapendal). C'est l'une des plus belles promenades pour chiens de La Haye, avec vue sur la mer depuis les hautes dunes. Les chiens doivent y rester en laisse sur la majeure partie de la réserve pour protéger les oiseaux nicheurs et les moutons en pâture.`,
+          en: `A rolling coastal dune park between Scheveningen and Kijkduin of open sand, marram grass and low woodland, protected as a Natura 2000 area (Westduinpark & Wapendal). It is one of the finest dog walks in The Hague, with sea views from the high dunes. Dogs must stay on the lead across most of the reserve to protect nesting birds and grazing sheep.`,
+          es: `Un ondulado parque dunar costero entre Scheveningen y Kijkduin, de arena abierta, barrón y bosque bajo, protegido como zona Natura 2000 (Westduinpark & Wapendal). Es uno de los mejores paseos caninos de La Haya, con vistas al mar desde las altas dunas. Los perros deben ir con correa en la mayor parte de la reserva para proteger a las aves nidificantes y a las ovejas que pastan.`,
+          pt: `Um ondulante parque dunar costeiro entre Scheveningen e Kijkduin, de areia aberta, estorno e mata baixa, protegido como zona Natura 2000 (Westduinpark & Wapendal). É um dos melhores passeios caninos de Haia, com vista para o mar a partir das dunas altas. Os cães têm de andar com trela na maior parte da reserva para proteger as aves nidificantes e as ovelhas que pastam.`,
+        },
+      },
+      {
+        name: 'Bosjes van Poot',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `Un écrin abrité de forêt dunaire dans le quartier du Vogelwijk, parsemé de pins et de chênes, qui fait partie du grand Westduinpark. La municipalité en a fait une zone officielle sans laisse, c'est donc ici que les chiens du quartier viennent courir librement près de Scheveningen. La liberté sans laisse s'interrompt en saison de nidification (environ de mi-mars à mi-juillet).`,
+          en: `A sheltered pocket of dune woodland in the Vogelwijk district, dotted with pine and oak, forming part of the wider Westduinpark. The municipality has designated it an official off-leash area, so this is where local dogs come to run freely close to Scheveningen. Off-leash freedom pauses during the bird-breeding season (roughly mid-March to mid-July).`,
+          es: `Un resguardado rincón de bosque dunar en el barrio del Vogelwijk, salpicado de pinos y robles, que forma parte del gran Westduinpark. El ayuntamiento lo ha declarado zona oficial sin correa, así que aquí es donde los perros locales vienen a correr libremente cerca de Scheveningen. La libertad sin correa se pausa durante la temporada de cría (aproximadamente de mediados de marzo a mediados de julio).`,
+          pt: `Um recanto abrigado de mata dunar no bairro do Vogelwijk, pontuado de pinheiros e carvalhos, que faz parte do vasto Westduinpark. O município designou-o zona oficial sem trela, por isso é aqui que os cães locais vêm correr livremente perto de Scheveningen. A liberdade sem trela pausa durante a época de nidificação (sensivelmente de meados de março a meados de julho).`,
+        },
+      },
+      {
+        name: 'Kijkduin hondenstrand',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `À l'extrémité sud de la côte, le Zuiderstrand du strandopgang 2 vers le sud jusqu'à Monster est la plage la plus accueillante pour les chiens de La Haye, où ils peuvent courir sans laisse toute l'année sans restriction saisonnière. Adossée aux dunes du Westduinpark, elle est plus calme que le centre de Scheveningen et devient le choix idéal en plein été quand les plages de la station ferment aux chiens.`,
+          en: `At the southern end of the coast, the Zuiderstrand from strandopgang 2 southwards to Monster is the most dog-welcoming beach in The Hague, where dogs may run off the lead all year with no seasonal restriction. Backed by the Westduinpark dunes, it is quieter than central Scheveningen and becomes the go-to choice in high summer when the resort beaches close to dogs.`,
+          es: `En el extremo sur de la costa, el Zuiderstrand desde el strandopgang 2 hacia el sur hasta Monster es la playa más acogedora para perros de La Haya, donde pueden correr sin correa todo el año sin restricción estacional. Respaldada por las dunas del Westduinpark, es más tranquila que el centro de Scheveningen y se convierte en la opción de referencia en pleno verano cuando las playas de la estación cierran a los perros.`,
+          pt: `Na ponta sul da costa, o Zuiderstrand a partir do strandopgang 2 para sul até Monster é a praia mais acolhedora para cães de Haia, onde podem correr sem trela todo o ano sem restrição sazonal. Apoiada nas dunas do Westduinpark, é mais calma do que o centro de Scheveningen e torna-se a escolha de referência em pleno verão, quando as praias da estância fecham aos cães.`,
+        },
+      },
+      {
+        name: 'Scheveningen Haven',
+        emoji: '🐟',
+        petFriendly: true,
+        desc: {
+          fr: `Le port de pêche en activité, cœur historique de l'ancien village, avec chalutiers, quais et restaurants de poisson le long de la Dr. Lelykade, un décor bien différent du boulevard de plage. Les quais offrent une agréable promenade en laisse, avec l'odeur de la mer et l'agitation de la flotte. Beaucoup de restaurants du port ont des terrasses où un chien en laisse est le bienvenu.`,
+          en: `The working fishing harbour, the historic heart of the old village, with trawlers, quaysides and fish restaurants along the Dr. Lelykade, a complete change of scene from the beach boulevard. The quays make a pleasant leashed stroll, with the smell of the sea and the bustle of the fleet. Many harbour restaurants have outdoor terraces where a leashed dog is welcome.`,
+          es: `El puerto pesquero en activo, corazón histórico del antiguo pueblo, con arrastreros, muelles y restaurantes de pescado a lo largo de la Dr. Lelykade, un escenario muy distinto del bulevar de playa. Los muelles ofrecen un agradable paseo con correa, con el olor del mar y el bullicio de la flota. Muchos restaurantes del puerto tienen terrazas donde un perro con correa es bienvenido.`,
+          pt: `O porto de pesca em atividade, coração histórico da antiga aldeia, com arrastões, cais e restaurantes de peixe ao longo da Dr. Lelykade, um cenário muito diferente do passeio da praia. Os cais oferecem um agradável passeio com trela, com o cheiro do mar e o bulício da frota. Muitos restaurantes do porto têm esplanadas onde um cão com trela é bem-vindo.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Accès plage saisonnier : du 1er octobre au 15 mai les chiens sont admis sur toute la plage de La Haye ; du 15 mai au 1er octobre la plage de baignade centrale (entre le Zwarte Pad et le port) leur est interdite.`,
+        `Deux plages restent ouvertes aux chiens toute l'année : le Noorderstrand au nord (à partir d'environ Noorderstrand 34 vers Katwijk) et l'extrémité de Kijkduin du Zuiderstrand (du strandopgang 2 vers le sud), souvent sans laisse.`,
+        `En été, les chiens sont admis toute la journée sur les plages canines désignées aux strandslag 1, 2, 9 et 10 ; ailleurs sur le Zuiderstrand seulement le soir et la nuit, de 21h00 à 07h00.`,
+        `Dans les dunes du Westduinpark (Natura 2000), la laisse est obligatoire sauf dans la zone des Bosjes van Poot ; en saison de nidification (mi-mars à mi-juillet), laisse partout et restez sur les sentiers.`,
+        `Si vous croisez un phoque au repos sur la plage, mettez aussitôt votre chien en laisse et restez à au moins 30 mètres ; portez toujours un sac de ramassage, des amendes s'appliquent.`,
+      ],
+      en: [
+        `Seasonal beach access: from 1 October to 15 May dogs are allowed on the whole Den Haag beach; from 15 May to 1 October the central bathing beach (between the Zwarte Pad and the harbour) is off-limits to them.`,
+        `Two beaches stay open to dogs all year: the Noorderstrand to the north (from about Noorderstrand 34 towards Katwijk) and the Kijkduin end of the Zuiderstrand (from strandopgang 2 southwards), often off the lead.`,
+        `In summer, dogs are allowed all day on the designated dog beaches at strandslag 1, 2, 9 and 10; elsewhere on the Zuiderstrand only in the evening and night, from 21:00 to 07:00.`,
+        `In the Westduinpark dunes (Natura 2000) a leash is required except in the Bosjes van Poot zone; during the bird-breeding season (mid-March to mid-July) leash everywhere and stay on the paths.`,
+        `If you meet a resting seal on the beach, leash your dog at once and keep at least 30 metres away; always carry a waste bag, as fines apply.`,
+      ],
+      es: [
+        `Acceso estacional a la playa: del 1 de octubre al 15 de mayo los perros se permiten en toda la playa de La Haya; del 15 de mayo al 1 de octubre la playa de baño central (entre el Zwarte Pad y el puerto) les está vetada.`,
+        `Dos playas siguen abiertas a los perros todo el año: el Noorderstrand al norte (desde alrededor del Noorderstrand 34 hacia Katwijk) y el extremo de Kijkduin del Zuiderstrand (desde el strandopgang 2 hacia el sur), a menudo sin correa.`,
+        `En verano, los perros se permiten todo el día en las playas caninas designadas de los strandslag 1, 2, 9 y 10; en el resto del Zuiderstrand solo por la tarde y la noche, de 21:00 a 07:00.`,
+        `En las dunas del Westduinpark (Natura 2000) es obligatoria la correa salvo en la zona de los Bosjes van Poot; durante la temporada de cría (de mediados de marzo a mediados de julio) correa en todas partes y no salir de los senderos.`,
+        `Si te encuentras una foca en reposo en la playa, pon la correa al perro de inmediato y mantente al menos a 30 metros; lleva siempre una bolsa, ya que hay multas.`,
+      ],
+      pt: [
+        `Acesso sazonal à praia: de 1 de outubro a 15 de maio os cães são permitidos em toda a praia de Haia; de 15 de maio a 1 de outubro a praia balnear central (entre o Zwarte Pad e o porto) está-lhes vedada.`,
+        `Duas praias permanecem abertas aos cães todo o ano: o Noorderstrand a norte (a partir de cerca do Noorderstrand 34 em direção a Katwijk) e a ponta de Kijkduin do Zuiderstrand (a partir do strandopgang 2 para sul), muitas vezes sem trela.`,
+        `No verão, os cães são permitidos todo o dia nas praias caninas designadas dos strandslag 1, 2, 9 e 10; no restante Zuiderstrand só ao final da tarde e à noite, das 21:00 às 07:00.`,
+        `Nas dunas do Westduinpark (Natura 2000) a trela é obrigatória exceto na zona dos Bosjes van Poot; durante a época de nidificação (de meados de março a meados de julho) trela em todo o lado e fique nos trilhos.`,
+        `Se encontrar uma foca em repouso na praia, prenda o cão de imediato pela trela e mantenha-se a pelo menos 30 metros; leve sempre um saco, pois há multas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Passeport européen pour animaux avec micropuce et vaccination antirabique valide exigé à l'enregistrement dans les hôtels pet-friendly ; les Pays-Bas sont dans l'UE et l'espace Schengen.`,
+        `Règles locales : chiens en laisse dans les espaces publics, ramassage obligatoire (amende) et port d'un sac ; les dunes du Westduinpark sont en laisse (Natura 2000) sauf aux Bosjes van Poot.`,
+        `Transports : les chiens voyagent gratuitement sur les trams et bus HTM (trams 1, 9 et 11 vers le front de mer) ; sur les trains NS, petits chiens gratuits, grands chiens avec un Dagkaart Hond (environ 3,70 euros en 2026), sans muselière.`,
+        `Résumé plage : plage centrale interdite aux chiens du 15 mai au 1er octobre ; Noorderstrand et Kijkduin ouverts toute l'année ; stationnement pratique au Zwarte Pad pour la plage nord.`,
+        `Vétérinaires vérifiés : Dierenkliniek Scheveningen (Gentsestraat 3, 070-3555531) en ville ; Evidensia Dierenziekenhuis (Goudenregenstraat 296, 070-2060900) pour les urgences ; garde régionale 0900-2226333 (depuis le 1/1/2026).`,
+      ],
+      en: [
+        `EU pet passport with microchip and a valid rabies vaccination required at pet-friendly hotel check-in; the Netherlands is in the EU and Schengen.`,
+        `Local rules: dogs on lead in public spaces, clean-up required (with fines) and carry a waste bag; the Westduinpark dunes are on-lead (Natura 2000) except at the Bosjes van Poot.`,
+        `Transport: dogs travel free on HTM trams and buses (trams 1, 9 and 11 to the seafront); on NS trains small dogs are free and larger dogs need a Dagkaart Hond (about 3.70 euros in 2026), no muzzle.`,
+        `Beach summary: central beach closed to dogs 15 May to 1 October; Noorderstrand and Kijkduin open all year; parking is handy at the Zwarte Pad for the northern beach.`,
+        `Verified vets: Dierenkliniek Scheveningen (Gentsestraat 3, 070-3555531) in town; Evidensia Dierenziekenhuis (Goudenregenstraat 296, 070-2060900) for emergencies; regional out-of-hours line 0900-2226333 (as of 1/1/2026).`,
+      ],
+      es: [
+        `Pasaporte europeo para mascotas con microchip y vacunación antirrábica válida exigido al hacer el check-in en hoteles pet-friendly; los Países Bajos están en la UE y en Schengen.`,
+        `Normas locales: perros con correa en los espacios públicos, recogida obligatoria (con multas) y llevar una bolsa; las dunas del Westduinpark van con correa (Natura 2000) salvo en los Bosjes van Poot.`,
+        `Transporte: los perros viajan gratis en los tranvías y autobuses HTM (tranvías 1, 9 y 11 al paseo marítimo); en los trenes NS los perros pequeños viajan gratis y los grandes necesitan un Dagkaart Hond (unos 3,70 euros en 2026), sin bozal.`,
+        `Resumen de playa: playa central cerrada a los perros del 15 de mayo al 1 de octubre; Noorderstrand y Kijkduin abiertos todo el año; aparcamiento cómodo en el Zwarte Pad para la playa norte.`,
+        `Veterinarios verificados: Dierenkliniek Scheveningen (Gentsestraat 3, 070-3555531) en la ciudad; Evidensia Dierenziekenhuis (Goudenregenstraat 296, 070-2060900) para urgencias; línea de guardia regional 0900-2226333 (desde el 1/1/2026).`,
+      ],
+      pt: [
+        `Passaporte europeu para animais com microchip e vacinação antirrábica válida exigido no check-in em hotéis pet-friendly; os Países Baixos estão na UE e no Espaço Schengen.`,
+        `Regras locais: cães com trela nos espaços públicos, recolha obrigatória (com multas) e levar um saco; as dunas do Westduinpark são com trela (Natura 2000) exceto nos Bosjes van Poot.`,
+        `Transporte: os cães viajam gratuitamente nos elétricos e autocarros HTM (elétricos 1, 9 e 11 até à frente de mar); nos comboios NS os cães pequenos viajam gratuitamente e os maiores precisam de um Dagkaart Hond (cerca de 3,70 euros em 2026), sem açaime.`,
+        `Resumo da praia: praia central fechada aos cães de 15 de maio a 1 de outubro; Noorderstrand e Kijkduin abertos todo o ano; estacionamento prático no Zwarte Pad para a praia norte.`,
+        `Veterinários verificados: Dierenkliniek Scheveningen (Gentsestraat 3, 070-3555531) na cidade; Evidensia Dierenziekenhuis (Goudenregenstraat 296, 070-2060900) para urgências; linha de urgência regional 0900-2226333 (desde 1/1/2026).`,
+      ],
+    },
+  },
   sete: {
     history: {
       fr: `Née en 1666 d'une décision de Colbert qui cherchait un débouché méditerranéen au canal du Midi, Sète a poussé entre mer et étang de Thau, au pied du mont Saint-Clair. Le port voulu par Louis XIV a attiré pêcheurs italiens de Gaète et de Cetara, dont les descendants peuplent encore le quartier de la Pointe Courte et ont donné à la ville sa tielle, sa macaronade et son accent chantant. Sur le canal Royal, les joutes nautiques, disputées depuis l'inauguration du port, restent la grande liturgie de l'été, apothéose à la Saint-Louis. L'île singulière a aussi donné deux poètes à la France, Paul Valéry, qui repose au cimetière marin qu'il a chanté, et Georges Brassens, enterré non loin de sa plage de la Corniche. Entre canaux, halles, criée et kilomètres de lido sauvage vers Marseillan, Sète se découvre merveilleusement à pied avec un chien.`,

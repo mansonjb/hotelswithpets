@@ -21901,6 +21901,81 @@
     "iata": "TIA"
   },
   {
+    "slug": "scheveningen",
+    "name": "Scheveningen",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "flag": "🇳🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/scheveningen.jpg",
+    "intro": "Scheveningen is The Hague's North Sea beach resort, with a long boulevard, iconic Pier, protected dunes and year-round dog beaches at either end of the coast.",
+    "lat": 52.1053,
+    "lng": 4.2733,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold, wet & windy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cool & windy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool & breezy",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cool, wet & windy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cold, wet & windy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "AMS"
+  },
+  {
     "slug": "sete",
     "name": "Sète",
     "country": "France",
@@ -24457,7 +24532,7 @@
     "name": "Tokyo",
     "country": "Japan",
     "countryCode": "JP",
-    "flag": "\ud83c\uddef\ud83c\uddf5",
+    "flag": "🇯🇵",
     "categoryCount": 5,
     "heroImage": "/images/destinations/tokyo.jpg",
     "intro": "Tokyo pairs neon Shibuya crossings and centuries-old temples with a real (if stricter) pet-travel scene: Japanese rules mean dogs ride JR and metro trains only inside carriers within set dimensions, and many venues welcome pets on terraces or in dedicated dog cafes rather than in indoor dining rooms. Registered dog runs at Yoyogi and Komazawa, Tokyo Bay seaside parks such as Jonanjima, and 24-hour English-speaking veterinary hospitals make the city genuinely workable for prepared owners who plan around the rules.",
@@ -24467,62 +24542,62 @@
       "jan": {
         "temp": 10,
         "desc": "Cold & dry",
-        "icon": "\u2600\ufe0f"
+        "icon": "☀️"
       },
       "feb": {
         "temp": 11,
         "desc": "Cold & dry",
-        "icon": "\u26c5"
+        "icon": "⛅"
       },
       "mar": {
         "temp": 14,
         "desc": "Cool & mild",
-        "icon": "\u26c5"
+        "icon": "⛅"
       },
       "apr": {
         "temp": 19,
         "desc": "Mild & pleasant",
-        "icon": "\u2600\ufe0f"
+        "icon": "☀️"
       },
       "may": {
         "temp": 23,
         "desc": "Warm & pleasant",
-        "icon": "\u2600\ufe0f"
+        "icon": "☀️"
       },
       "jun": {
         "temp": 26,
         "desc": "Warm & rainy",
-        "icon": "\ud83c\udf27\ufe0f"
+        "icon": "🌧️"
       },
       "jul": {
         "temp": 30,
         "desc": "Hot & humid",
-        "icon": "\u2600\ufe0f"
+        "icon": "☀️"
       },
       "aug": {
         "temp": 31,
         "desc": "Hot & humid",
-        "icon": "\u2600\ufe0f"
+        "icon": "☀️"
       },
       "sep": {
         "temp": 27,
         "desc": "Warm & humid",
-        "icon": "\ud83c\udf27\ufe0f"
+        "icon": "🌧️"
       },
       "oct": {
         "temp": 22,
         "desc": "Mild & pleasant",
-        "icon": "\u26c5"
+        "icon": "⛅"
       },
       "nov": {
         "temp": 17,
         "desc": "Cool & mild",
-        "icon": "\u26c5"
+        "icon": "⛅"
       },
       "dec": {
         "temp": 12,
         "desc": "Cold & dry",
-        "icon": "\u2600\ufe0f"
+        "icon": "☀️"
       }
     },
     "iata": "TYO"
@@ -27771,18 +27846,66 @@
     "lat": 45.5142,
     "lng": 13.5908,
     "weather": {
-      "jan": {"temp": 6, "desc": "Cool with Bora wind", "icon": "🌬️"},
-      "feb": {"temp": 7, "desc": "Cool with Bora wind", "icon": "🌬️"},
-      "mar": {"temp": 10, "desc": "Mild & breezy", "icon": "⛅"},
-      "apr": {"temp": 14, "desc": "Mild & pleasant", "icon": "⛅"},
-      "may": {"temp": 19, "desc": "Warm & sunny", "icon": "☀️"},
-      "jun": {"temp": 23, "desc": "Warm & sunny", "icon": "☀️"},
-      "jul": {"temp": 25, "desc": "Hot & sunny", "icon": "☀️"},
-      "aug": {"temp": 25, "desc": "Hot & sunny", "icon": "☀️"},
-      "sep": {"temp": 21, "desc": "Warm & pleasant", "icon": "⛅"},
-      "oct": {"temp": 16, "desc": "Mild with rain", "icon": "🌦️"},
-      "nov": {"temp": 11, "desc": "Cool with rain", "icon": "🌧️"},
-      "dec": {"temp": 7, "desc": "Cool with Bora wind", "icon": "🌬️"}
+      "jan": {
+        "temp": 6,
+        "desc": "Cool with Bora wind",
+        "icon": "🌬️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cool with Bora wind",
+        "icon": "🌬️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cool with rain",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cool with Bora wind",
+        "icon": "🌬️"
+      }
     },
     "iata": "TRS"
   },

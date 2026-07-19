@@ -29,10 +29,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `Where to Go with Your Dog in August: 8 Cool European Cities Under 25C (2026) | HotelsWithPets.com`,
-    fr: `Ou partir avec son chien en aout : 8 villes europeennes fraiches a moins de 25C (2026) | HotelsWithPets.com`,
-    es: `Donde ir con tu perro en agosto: 8 ciudades europeas frescas a menos de 25C (2026) | HotelsWithPets.com`,
-    pt: `Para onde ir com o seu cao em agosto: 8 cidades europeias frescas a menos de 25C (2026) | HotelsWithPets.com`,
+    en: `Where to Go with Your Dog in August: 8 Cool European Cities Under 25C (2026)`,
+    fr: `Ou partir avec son chien en aout : 8 villes europeennes fraiches a moins de 25C (2026)`,
+    es: `Donde ir con tu perro en agosto: 8 ciudades europeas frescas a menos de 25C (2026)`,
+    pt: `Para onde ir com o seu cao em agosto: 8 cidades europeias frescas a menos de 25C (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Eight European cities where August temperatures stay under 25C: the safe zone for dogs that struggle in heat. Baltic capitals, Belgian canal cities, and Central European gems with verified pet-friendly hotels, dog beaches, and off-leash parks.`,

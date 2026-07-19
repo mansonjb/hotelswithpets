@@ -27,10 +27,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: 'How to Choose a Truly Pet-Friendly Hotel in Europe: The No-Nonsense Guide (2025) | HotelsWithPets.com',
-    fr: 'Comment choisir un vrai hôtel pet-friendly en Europe : le guide sans langue de bois (2025) | HotelsWithPets.com',
-    es: 'Cómo elegir un hotel realmente pet-friendly en Europa: la guía sin rodeos (2025) | HotelsWithPets.com',
-    pt: 'Como elegir um hotel realmente pet-friendly en Europa: a guía sem rodeos (2025) | HotelsWithPets.com',
+    en: 'How to Choose a Truly Pet-Friendly Hotel in Europe: The No-Nonsense Guide (2025)',
+    fr: 'Comment choisir un vrai hôtel pet-friendly en Europe : le guide sans langue de bois (2025)',
+    es: 'Cómo elegir un hotel realmente pet-friendly en Europa: la guía sin rodeos (2025)',
+    pt: 'Como elegir um hotel realmente pet-friendly en Europa: a guía sem rodeos (2025)',
   }
   const descriptions: Record<string, string> = {
     en: 'The definitive guide to decoding hotel pet policies in Europe. Red flags, green flags, questions to ask, real price ranges, and how booking platforms actually work, so you never get a nasty surprise at check-in.',

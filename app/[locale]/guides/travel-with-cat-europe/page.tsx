@@ -29,10 +29,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `Travel with Your Cat in Europe: Complete Guide (Train, Flight, Hotels) 2026 | HotelsWithPets.com`,
-    fr: `Voyager avec son chat en Europe : guide complet (train, avion, hôtels) 2026 | HotelsWithPets.com`,
-    es: `Viajar con tu gato en Europa: guía completa (tren, avión, hoteles) 2026 | HotelsWithPets.com`,
-    pt: `Viajar com o seu gato na Europa: guia completo (comboio, avião, hotéis) 2026 | HotelsWithPets.com`,
+    en: `Travel with Your Cat in Europe: Complete Guide (Train, Flight, Hotels) 2026`,
+    fr: `Voyager avec son chat en Europe : guide complet (train, avion, hôtels) 2026`,
+    es: `Viajar con tu gato en Europa: guía completa (tren, avión, hoteles) 2026`,
+    pt: `Viajar com o seu gato na Europa: guia completo (comboio, avião, hotéis) 2026`,
   }
   const descriptions: Record<string, string> = {
     en: `The complete guide to travelling Europe with a cat: EU pet passport, IATA cabin carriers, train policies per country, anti-stress protocol, and 6 European cities with genuinely cat-friendly hotels (verified, not just pet-friendly).`,

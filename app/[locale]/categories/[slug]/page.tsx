@@ -22,10 +22,10 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/categori
   const catNamePt = (cat as Record<string, unknown>).namePt as string | undefined
   const catName = locale === 'fr' && cat.nameFr ? cat.nameFr : locale === 'es' && cat.nameEs ? cat.nameEs : locale === 'pt' && catNamePt ? catNamePt : cat.name
   const titleTemplates: Record<string, string> = {
-    en: `${catName} Hotels in Europe | HotelsWithPets.com`,
-    fr: `Hôtels en Europe, ${catName} | HotelsWithPets.com`,
-    es: `Hoteles en Europa, ${catName} | HotelsWithPets.com`,
-    pt: `Hotéis na Europa, ${catName} | HotelsWithPets.com`,
+    en: `${catName} Hotels in Europe`,
+    fr: `Hôtels en Europe, ${catName}`,
+    es: `Hoteles en Europa, ${catName}`,
+    pt: `Hotéis na Europa, ${catName}`,
   }
   const metaDescFr = (cat as Record<string, unknown>).descriptionFr as string | undefined
   const metaDescEs = (cat as Record<string, unknown>).descriptionEs as string | undefined

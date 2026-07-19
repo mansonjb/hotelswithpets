@@ -31,10 +31,10 @@ export async function generateMetadata({
   const frPhrase = frCountryPhrase(countryName)   // "en France", "au Portugal", "aux États-Unis"
   const ptPhrase = ptCountryPhrase(countryName)   // "em França", "no Reino Unido", "nos Estados Unidos"
   const titleTemplates: Record<string, string> = {
-    en: `Pet-friendly hotels in ${countryName} | HotelsWithPets.com`,
-    fr: `Hôtels pet-friendly ${frPhrase} | HotelsWithPets.com`,
-    es: `Hoteles pet-friendly en ${countryEs} | HotelsWithPets.com`,
-    pt: `Hotéis pet-friendly ${ptPhrase} | HotelsWithPets.com`,
+    en: `Pet-friendly hotels in ${countryName}`,
+    fr: `Hôtels pet-friendly ${frPhrase}`,
+    es: `Hoteles pet-friendly en ${countryEs}`,
+    pt: `Hotéis pet-friendly ${ptPhrase}`,
   }
   const descTemplates: Record<string, string> = {
     en: `Discover the best pet-friendly hotels across ${countryName}. Browse cities, compare pet policies and book with confidence.`,

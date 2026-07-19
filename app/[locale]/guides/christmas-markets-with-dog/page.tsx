@@ -29,10 +29,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `Dog-Friendly Christmas Markets in Europe: 6 Cities Where Pets Are Welcome (2026) | HotelsWithPets.com`,
-    fr: `Marchés de Noël dog-friendly en Europe : 6 villes où les animaux sont bienvenus (2026) | HotelsWithPets.com`,
-    es: `Mercados navideños dog-friendly en Europa: 6 ciudades que admiten mascotas (2026) | HotelsWithPets.com`,
-    pt: `Mercados de Natal dog-friendly na Europa: 6 cidades que aceitam animais (2026) | HotelsWithPets.com`,
+    en: `Dog-Friendly Christmas Markets in Europe: 6 Cities Where Pets Are Welcome (2026)`,
+    fr: `Marchés de Noël dog-friendly en Europe : 6 villes où les animaux sont bienvenus (2026)`,
+    es: `Mercados navideños dog-friendly en Europa: 6 ciudades que admiten mascotas (2026)`,
+    pt: `Mercados de Natal dog-friendly na Europa: 6 cidades que aceitam animais (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Six European cities where Christmas markets genuinely welcome leashed dogs and the cold weather is your ally. Strasbourg, Vienna, Cologne, Prague, Bruges and Colmar with verified pet-friendly hotels and wooden stall etiquette.`,

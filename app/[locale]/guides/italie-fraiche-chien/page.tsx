@@ -398,7 +398,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   if (!hasLocale(locale)) return {}
   return {
-    title: `${p(T.metaTitle, locale)} | HotelsWithPets.com`,
+    title: `${p(T.metaTitle, locale)}`,
     description: p(T.metaDesc, locale),
     alternates: {
       canonical: `${SITE_URL}/${locale}/guides/${SLUG}`,

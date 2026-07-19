@@ -30,10 +30,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: 'Road Trip with Your Dog in Europe: Safety, Laws & Border Crossing Guide (2025) | HotelsWithPets.com',
-    fr: 'Road trip avec son chien en Europe : sécurité, lois et franchissement des frontières (2025) | HotelsWithPets.com',
-    es: 'Road trip con tu perro en Europa: seguridad, leyes y cruce de fronteras (2025) | HotelsWithPets.com',
-    pt: 'Road trip com tu cão en Europa: seguridad, leis e cruce de fronteras (2025) | HotelsWithPets.com',
+    en: 'Road Trip with Your Dog in Europe: Safety, Laws & Border Crossing Guide (2025)',
+    fr: 'Road trip avec son chien en Europe : sécurité, lois et franchissement des frontières (2025)',
+    es: 'Road trip con tu perro en Europa: seguridad, leyes y cruce de fronteras (2025)',
+    pt: 'Road trip com tu cão en Europa: seguridad, leis e cruce de fronteras (2025)',
   }
   const descriptions: Record<string, string> = {
     en: 'Complete guide to road-tripping across Europe with your dog: car safety laws by country, harness vs crate, border crossings, Eurotunnel & ferry policies, heat safety, stops, and first aid essentials.',

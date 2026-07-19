@@ -24,10 +24,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   if (!hasLocale(locale)) return {}
   const titles: Record<string, string> = {
-    en: 'Pet Passport vs Animal Health Certificate (AHC): Complete 2026 Rules for Travel With Your Dog | HotelsWithPets.com',
-    fr: 'Passeport européen vs Animal Health Certificate (AHC) : règles 2026 pour voyager avec son chien | HotelsWithPets.com',
-    es: 'Pasaporte europeo vs Animal Health Certificate (AHC): normas 2026 para viajar con tu perro | HotelsWithPets.com',
-    pt: 'Passaporte europeu vs Animal Health Certificate (AHC): normas 2026 para viajar com tu cão | HotelsWithPets.com',
+    en: 'Pet Passport vs Animal Health Certificate (AHC): Complete 2026 Rules for Travel With Your Dog',
+    fr: 'Passeport européen vs Animal Health Certificate (AHC) : règles 2026 pour voyager avec son chien',
+    es: 'Pasaporte europeo vs Animal Health Certificate (AHC): normas 2026 para viajar con tu perro',
+    pt: 'Passaporte europeu vs Animal Health Certificate (AHC): normas 2026 para viajar com tu cão',
   }
   const descriptions: Record<string, string> = {
     en: 'The €100+ mistake 78% of travellers make: confusing the EU pet passport with the UK Animal Health Certificate. Complete 2026 rules, costs, validity, and which one you actually need for every European route.',

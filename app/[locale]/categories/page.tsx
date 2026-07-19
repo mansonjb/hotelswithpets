@@ -16,7 +16,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/categori
   if (!hasLocale(locale)) return {}
   const dict = await getDictionary(locale as Locale)
   return {
-    title: `${dict.pages.categories.title} | HotelsWithPets.com`,
+    title: `${dict.pages.categories.title}`,
     description: dict.pages.categories.subtitle,
     alternates: {
       canonical: `${SITE_URL}/${locale}/categories`,
@@ -29,7 +29,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/categori
       },
     },
     openGraph: {
-      title: `${dict.pages.categories.title} | HotelsWithPets.com`,
+      title: `${dict.pages.categories.title}`,
       description: dict.pages.categories.subtitle,
       url: `${SITE_URL}/${locale}/categories`,
       siteName: 'HotelsWithPets.com',

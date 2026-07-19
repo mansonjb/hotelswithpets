@@ -29,10 +29,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `Dog-Friendly Thermal Spa Towns in Europe: 8 Wellness Retreats with Pet-Friendly Hotels (2026) | HotelsWithPets.com`,
-    fr: `Villes thermales pet-friendly en Europe : 8 escapades bien-etre avec hotels acceptant les animaux (2026) | HotelsWithPets.com`,
-    es: `Ciudades termales pet-friendly en Europa: 8 escapadas de bienestar con hoteles para mascotas (2026) | HotelsWithPets.com`,
-    pt: `Cidades termais pet-friendly na Europa: 8 escapadas de bem-estar com hoteis para animais (2026) | HotelsWithPets.com`,
+    en: `Dog-Friendly Thermal Spa Towns in Europe: 8 Wellness Retreats with Pet-Friendly Hotels (2026)`,
+    fr: `Villes thermales pet-friendly en Europe : 8 escapades bien-etre avec hotels acceptant les animaux (2026)`,
+    es: `Ciudades termales pet-friendly en Europa: 8 escapadas de bienestar con hoteles para mascotas (2026)`,
+    pt: `Cidades termais pet-friendly na Europa: 8 escapadas de bem-estar com hoteis para animais (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Eight European thermal spa towns where dogs are welcome in parks, promenades and wellness hotels. Spa (Belgium), Bad Gastein, Karlovy Vary, Aix-les-Bains, Saturnia, Heviz, Vichy and Bad Ischl, with verified pet-friendly hotels at each.`,

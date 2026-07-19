@@ -15,10 +15,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   if (!hasLocale(locale)) return {}
   const titles: Record<string, string> = {
-    en: 'Alpine Cities With Your Dog: Geneva → Zurich → Munich → Salzburg (10-Day Itinerary) | HotelsWithPets.com',
-    fr: 'Villes alpines avec son chien : Genève → Zurich → Munich → Salzbourg (itinéraire 10 jours) | HotelsWithPets.com',
-    es: 'Ciudades alpinas con tu perro: Ginebra → Zúrich → Múnich → Salzburgo (itinerario 10 días) | HotelsWithPets.com',
-    pt: 'Cidades alpinas com tu cão: Genebra → Zurique → Munique → Salzburgo (itinerario 10 dias) | HotelsWithPets.com',
+    en: 'Alpine Cities With Your Dog: Geneva → Zurich → Munich → Salzburg (10-Day Itinerary)',
+    fr: 'Villes alpines avec son chien : Genève → Zurich → Munich → Salzbourg (itinéraire 10 jours)',
+    es: 'Ciudades alpinas con tu perro: Ginebra → Zúrich → Múnich → Salzburgo (itinerario 10 días)',
+    pt: 'Cidades alpinas com tu cão: Genebra → Zurique → Munique → Salzburgo (itinerario 10 dias)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day Alpine train itinerary with your dog through Switzerland, Germany and Austria. Lake walks, Alpine hikes, dog-friendly hotels, ICE/CFF rules and live Booking.com maps for every stop.',

@@ -15,7 +15,7 @@ export async function generateMetadata({
   const { locale } = await params
   if (!hasLocale(locale)) return {}
   return {
-    title: 'Privacy Policy | HotelsWithPets.com',
+    title: 'Privacy Policy',
     robots: { index: false, follow: true },
     alternates: {
       canonical: `${SITE_URL}/${locale}/privacy`,

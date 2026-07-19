@@ -31,10 +31,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   if (!hasLocale(locale)) return {}
   const titles: Record<string, string> = {
-    en: 'Can I Take My Dog on the Eurostar? 2026 Rules, Prices and Alternatives | HotelsWithPets.com',
-    fr: 'Puis-je prendre mon chien dans l\'Eurostar ? Règles, prix et alternatives 2026 | HotelsWithPets.com',
-    es: '¿Puedo llevar mi perro en el Eurostar? Normas, precios y alternativas 2026 | HotelsWithPets.com',
-    pt: 'Puedo levar mi cão no Eurostar? Normas, preços e alternativas 2026 | HotelsWithPets.com',
+    en: 'Can I Take My Dog on the Eurostar? 2026 Rules, Prices and Alternatives',
+    fr: 'Puis-je prendre mon chien dans l\'Eurostar ? Règles, prix et alternatives 2026',
+    es: '¿Puedo llevar mi perro en el Eurostar? Normas, precios y alternativas 2026',
+    pt: 'Puedo levar mi cão no Eurostar? Normas, preços e alternativas 2026',
   }
   const descriptions: Record<string, string> = {
     en: 'The straight answer: assistance dogs only, no exceptions. Here\'s what travellers with pets actually do, Le Shuttle, ferries, Channel Tunnel alternatives, full 2026 prices and rules.',

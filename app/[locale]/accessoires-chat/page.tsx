@@ -14,7 +14,7 @@ export async function generateStaticParams() {
 }
 
 export const metadata: Metadata = {
-  title: `Accessoires pour chat voyageur : sélection HotelsWithPets (2026) | HotelsWithPets.com`,
+  title: `Accessoires pour chat voyageur : sélection HotelsWithPets (2026)`,
   description: `Tout ce qu'il faut pour partir en voyage avec son chat : sac de transport, fontaine à eau, harnais ajusté, litière de voyage, anti-stress. Sélection mise à jour, liens Amazon.fr.`,
   alternates: {
     canonical: `${SITE_URL}/fr/${SLUG}`,

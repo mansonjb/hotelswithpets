@@ -29,10 +29,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `Dog-Friendly Alternatives to Europe's Most Overcrowded Cities: 8 Quieter Picks (2026) | HotelsWithPets.com`,
-    fr: `Alternatives pet-friendly aux villes europeennes surpeuplees : 8 destinations moins bondees (2026) | HotelsWithPets.com`,
-    es: `Alternativas pet-friendly a las ciudades europeas masificadas: 8 destinos menos saturados (2026) | HotelsWithPets.com`,
-    pt: `Alternativas pet-friendly as cidades europeias superlotadas: 8 destinos menos saturados (2026) | HotelsWithPets.com`,
+    en: `Dog-Friendly Alternatives to Europe's Most Overcrowded Cities: 8 Quieter Picks (2026)`,
+    fr: `Alternatives pet-friendly aux villes europeennes surpeuplees : 8 destinations moins bondees (2026)`,
+    es: `Alternativas pet-friendly a las ciudades europeas masificadas: 8 destinos menos saturados (2026)`,
+    pt: `Alternativas pet-friendly as cidades europeias superlotadas: 8 destinos menos saturados (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Barcelona protests, Venice tourist gates, Santorini caps: 2026's anti-overtourism movement is real. Dog owners have a hidden advantage: quieter cities are almost always more dog-friendly. Eight verified alternatives with pet-friendly hotels.`,

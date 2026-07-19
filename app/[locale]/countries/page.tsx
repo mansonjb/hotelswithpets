@@ -22,10 +22,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: 'Pet-Friendly Hotels by Country in Europe | HotelsWithPets.com',
-    fr: 'Hôtels acceptant les animaux par pays en Europe | HotelsWithPets.com',
-    es: 'Hoteles con mascotas por país en Europa | HotelsWithPets.com',
-    pt: 'Hotéis que aceitam animais por país na Europa | HotelsWithPets.com',
+    en: 'Pet-Friendly Hotels by Country in Europe',
+    fr: 'Hôtels acceptant les animaux par pays en Europe',
+    es: 'Hoteles con mascotas por país en Europa',
+    pt: 'Hotéis que aceitam animais por país na Europa',
   }
   const descriptions: Record<string, string> = {
     en: `Browse pet-friendly hotels by country across ${countries.length} European countries. Find the best stays for you and your pet.`,

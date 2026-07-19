@@ -51,7 +51,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const title = pick(g.metaTitle, locale)
   const desc = pick(g.metaDesc, locale)
   return {
-    title: `${title} | HotelsWithPets.com`,
+    title: `${title}`,
     description: desc,
     alternates: {
       canonical: `${SITE_URL}/${locale}/guides/${SLUG}`,

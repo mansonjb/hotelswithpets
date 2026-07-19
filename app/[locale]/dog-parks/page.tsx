@@ -363,19 +363,19 @@ const COPY: Record<Locale, Copy> = {
 
 const META: Record<Locale, { title: string; desc: string }> = {
   en: {
-    title: `Off-Leash & Fenced Dog Parks: ${N_PARKS} verified in ${M_CITIES} cities | HotelsWithPets.com`,
+    title: `Off-Leash & Fenced Dog Parks: ${N_PARKS} verified in ${M_CITIES} cities`,
     desc: `${N_PARKS} real off-leash and fenced dog parks across ${M_CITIES} cities, with off-leash zones, rules and maps verified locally. Find an enclosed dog park where dogs are welcome, then book a pet-friendly hotel nearby.`,
   },
   fr: {
-    title: `Parcs canins sans laisse & clôturés : ${N_PARKS} vérifiés dans ${M_CITIES} villes | HotelsWithPets.com`,
+    title: `Parcs canins sans laisse & clôturés : ${N_PARKS} vérifiés dans ${M_CITIES} villes`,
     desc: `${N_PARKS} vrais parcs canins sans laisse et clôturés dans ${M_CITIES} villes, avec zones sans laisse, règles et cartes vérifiées sur place. Trouvez un parc canin fermé où les chiens sont admis, puis réservez un hôtel acceptant les animaux à proximité.`,
   },
   es: {
-    title: `Parques para perros sin correa y vallados: ${N_PARKS} verificados en ${M_CITIES} ciudades | HotelsWithPets.com`,
+    title: `Parques para perros sin correa y vallados: ${N_PARKS} verificados en ${M_CITIES} ciudades`,
     desc: `${N_PARKS} parques para perros reales sin correa y vallados en ${M_CITIES} ciudades, con zonas sin correa, normas y mapas verificados en origen. Encuentra un parque para perros cerrado donde se admiten perros y reserva un hotel que admita mascotas cerca.`,
   },
   pt: {
-    title: `Parques para cães sem trela e vedados: ${N_PARKS} verificados em ${M_CITIES} cidades | HotelsWithPets.com`,
+    title: `Parques para cães sem trela e vedados: ${N_PARKS} verificados em ${M_CITIES} cidades`,
     desc: `${N_PARKS} parques para cães reais sem trela e vedados em ${M_CITIES} cidades, com zonas sem trela, regras e mapas verificados na fonte. Encontre um parque para cães fechado onde os cães são bem-vindos e reserve um hotel que aceita animais por perto.`,
   },
 }

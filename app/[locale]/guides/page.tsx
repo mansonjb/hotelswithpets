@@ -17,10 +17,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: 'Pet Travel Guides for Europe | HotelsWithPets.com',
-    fr: 'Guides pratiques pour voyager avec son animal en Europe | HotelsWithPets.com',
-    es: 'Guías prácticas para viajar con mascota en Europa | HotelsWithPets.com',
-    pt: 'Guias práticos para viajar com o seu animal pela Europa | HotelsWithPets.com',
+    en: 'Pet Travel Guides for Europe',
+    fr: 'Guides pratiques pour voyager avec son animal en Europe',
+    es: 'Guías prácticas para viajar con mascota en Europa',
+    pt: 'Guias práticos para viajar com o seu animal pela Europa',
   }
   const descriptions: Record<string, string> = {
     en: 'All our pet-travel guides, organised by what you need to know before, during and after the trip: passports, transport, hotels, destinations and seasonal planning.',

@@ -113,10 +113,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   if (!hasLocale(locale)) return {}
   const titles: Record<string, string> = {
-    en: `Pet Travel Cost Index Europe 2026, We Audited ${GLOBAL.hotels} Hotels in ${GLOBAL.countries} Countries | HotelsWithPets.com`,
-    fr: `Pet Travel Cost Index Europe 2026 : nous avons audité ${GLOBAL.hotels} hôtels et ${GLOBAL.countries} pays | HotelsWithPets.com`,
-    es: `Pet Travel Cost Index Europa 2026: auditamos ${GLOBAL.hotels} hoteles en ${GLOBAL.countries} países | HotelsWithPets.com`,
-    pt: `Pet Travel Cost Index Europa 2026: auditamos ${GLOBAL.hotels} hotéis en ${GLOBAL.countries} países | HotelsWithPets.com`,
+    en: `Pet Travel Cost Index Europe 2026, We Audited ${GLOBAL.hotels} Hotels in ${GLOBAL.countries} Countries`,
+    fr: `Pet Travel Cost Index Europe 2026 : nous avons audité ${GLOBAL.hotels} hôtels et ${GLOBAL.countries} pays`,
+    es: `Pet Travel Cost Index Europa 2026: auditamos ${GLOBAL.hotels} hoteles en ${GLOBAL.countries} países`,
+    pt: `Pet Travel Cost Index Europa 2026: auditamos ${GLOBAL.hotels} hotéis en ${GLOBAL.countries} países`,
   }
   const descs: Record<string, string> = {
     en: `The 2026 cost benchmark for travelling Europe with a dog or cat. Average pet fees by country and city, % of pet-free hotels, and the cheapest vs most expensive cities for pet-friendly stays. Methodology + open dataset.`,

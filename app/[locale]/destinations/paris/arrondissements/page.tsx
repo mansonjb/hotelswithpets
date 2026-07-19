@@ -21,10 +21,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `Pet-Friendly Paris by Arrondissement: All 20 Districts Mapped (2026) | HotelsWithPets.com`,
-    fr: `Paris pet-friendly par arrondissement : les 20 quartiers cartographiés (2026) | HotelsWithPets.com`,
-    es: `París pet-friendly por distrito: los 20 arrondissements cartografiados (2026) | HotelsWithPets.com`,
-    pt: `Paris pet-friendly por arrondissement: os 20 distritos cartografados (2026) | HotelsWithPets.com`,
+    en: `Pet-Friendly Paris by Arrondissement: All 20 Districts Mapped (2026)`,
+    fr: `Paris pet-friendly par arrondissement : les 20 quartiers cartographiés (2026)`,
+    es: `París pet-friendly por distrito: los 20 arrondissements cartografiados (2026)`,
+    pt: `Paris pet-friendly por arrondissement: os 20 distritos cartografados (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `A neighbourhood-by-neighbourhood guide to dog-friendly Paris. The vibe, the parks where dogs are welcome, the verified vets and the best pet-friendly hotels in each of the 20 arrondissements.`,

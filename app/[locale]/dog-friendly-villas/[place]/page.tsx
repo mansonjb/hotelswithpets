@@ -172,7 +172,7 @@ export async function generateMetadata({
   const title = ui.h1(g.place)
   const desc = pick(g.intro, locale).slice(0, 160)
   return {
-    title: `${title} | HotelsWithPets.com`,
+    title: `${title}`,
     description: desc,
     alternates: {
       canonical: `${SITE_URL}/${locale}/dog-friendly-villas/${place}`,

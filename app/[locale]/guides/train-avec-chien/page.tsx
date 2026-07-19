@@ -27,10 +27,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: 'Travelling by Train with Your Dog in Europe: Complete Guide 2025 | HotelsWithPets.com',
-    fr: 'Voyager en train avec son chien en Europe : Guide complet 2025 | HotelsWithPets.com',
-    es: 'Viajar en tren con tu perro por Europa: Guía completa 2025 | HotelsWithPets.com',
-    pt: 'Viajar de comboio com tu cão por Europa: Guía completa 2025 | HotelsWithPets.com',
+    en: 'Travelling by Train with Your Dog in Europe: Complete Guide 2025',
+    fr: 'Voyager en train avec son chien en Europe : Guide complet 2025',
+    es: 'Viajar en tren con tu perro por Europa: Guía completa 2025',
+    pt: 'Viajar de comboio com tu cão por Europa: Guía completa 2025',
   }
   const descriptions: Record<string, string> = {
     en: 'Everything you need to know about travelling by train with a dog in Europe. SNCF, Deutsche Bahn, Renfe, Trenitalia, Eurostar and more: prices, rules, muzzle requirements and practical tips.',

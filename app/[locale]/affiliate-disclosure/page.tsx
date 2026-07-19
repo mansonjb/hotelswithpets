@@ -11,7 +11,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   if (!hasLocale(locale)) return {}
   return {
-    title: 'Affiliate Disclosure | HotelsWithPets.com',
+    title: 'Affiliate Disclosure',
     robots: { index: false, follow: true },
     alternates: {
       canonical: `${SITE_URL}/${locale}/affiliate-disclosure`,

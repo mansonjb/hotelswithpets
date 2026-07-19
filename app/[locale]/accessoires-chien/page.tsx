@@ -16,7 +16,7 @@ export async function generateStaticParams() {
 }
 
 export const metadata: Metadata = {
-  title: `Accessoires pour chien : la sélection voyage HotelsWithPets (2026) | HotelsWithPets.com`,
+  title: `Accessoires pour chien : la sélection voyage HotelsWithPets (2026)`,
   description: `Les accessoires testés pour partir en voyage avec son chien : gourde nomade, tapis rafraîchissant, harnais voiture, sac de transport, fontaine. Sélection mise à jour, liens directs Amazon.fr.`,
   alternates: {
     canonical: `${SITE_URL}/fr/${SLUG}`,

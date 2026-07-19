@@ -29,10 +29,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `Summer Festivals in Europe with Your Dog: 8 Festival Cities with Pet-Friendly Hotels (2026) | HotelsWithPets.com`,
-    fr: `Festivals d'ete en Europe avec son chien : 8 villes festivalières avec hotels pet-friendly (2026) | HotelsWithPets.com`,
-    es: `Festivales de verano en Europa con tu perro: 8 ciudades con hoteles para mascotas (2026) | HotelsWithPets.com`,
-    pt: `Festivais de verao na Europa com o seu cao: 8 cidades com hoteis pet-friendly (2026) | HotelsWithPets.com`,
+    en: `Summer Festivals in Europe with Your Dog: 8 Festival Cities with Pet-Friendly Hotels (2026)`,
+    fr: `Festivals d'ete en Europe avec son chien : 8 villes festivalières avec hotels pet-friendly (2026)`,
+    es: `Festivales de verano en Europa con tu perro: 8 ciudades con hoteles para mascotas (2026)`,
+    pt: `Festivais de verao na Europa com o seu cao: 8 cidades com hoteis pet-friendly (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Eight European festival cities in July-August 2026 where your dog can thrive alongside the programme. Bayreuth, Perugia, Spoleto, Orange, Colmar, Sopot, Parnu and Bregenz, with verified pet-friendly hotels near the festival venues.`,

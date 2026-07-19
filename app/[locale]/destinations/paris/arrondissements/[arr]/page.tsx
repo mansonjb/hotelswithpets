@@ -78,10 +78,10 @@ export async function generateMetadata({
   if (!a) return {}
 
   const titles: Record<string, string> = {
-    en: `Paris ${a.slug} (${a.popularName}) with a dog: parks, vets & hotels | HotelsWithPets.com`,
-    fr: `Paris ${a.slug} (${a.popularName}) avec son chien : parcs, vétérinaires et hôtels | HotelsWithPets.com`,
-    es: `París ${a.slug} (${a.popularName}) con perro: parques, veterinarios y hoteles | HotelsWithPets.com`,
-    pt: `Paris ${a.slug} (${a.popularName}) com cão: parques, veterinários e hotéis | HotelsWithPets.com`,
+    en: `Paris ${a.slug} (${a.popularName}) with a dog: parks, vets & hotels`,
+    fr: `Paris ${a.slug} (${a.popularName}) avec son chien : parcs, vétérinaires et hôtels`,
+    es: `París ${a.slug} (${a.popularName}) con perro: parques, veterinarios y hoteles`,
+    pt: `Paris ${a.slug} (${a.popularName}) com cão: parques, veterinários e hotéis`,
   }
   const descriptions: Record<string, string> = {
     en: `What to know about ${a.popularName} (${a.slug}) with a dog: the parks that actually accept leashed dogs, the verified vets, the metro lines and the pet-friendly hotel inventory in the area.`,

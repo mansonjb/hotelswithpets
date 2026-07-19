@@ -148,10 +148,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   if (!hasLocale(locale)) return {}
   const titles: Record<string, string> = {
-    en: 'Top 20 Most Dog-Friendly Cities in Europe (2026 Edition) | HotelsWithPets.com',
-    fr: 'Top 20 des villes européennes les plus dog-friendly (édition 2026) | HotelsWithPets.com',
-    es: 'Top 20 ciudades más dog-friendly de Europa (edición 2026) | HotelsWithPets.com',
-    pt: 'Top 20 cidades mais pet-friendly de Europa (edición 2026) | HotelsWithPets.com',
+    en: 'Top 20 Most Dog-Friendly Cities in Europe (2026 Edition)',
+    fr: 'Top 20 des villes européennes les plus dog-friendly (édition 2026)',
+    es: 'Top 20 ciudades más dog-friendly de Europa (edición 2026)',
+    pt: 'Top 20 cidades mais pet-friendly de Europa (edición 2026)',
   }
   const descriptions: Record<string, string> = {
     en: 'Our 2026 ranking of the 20 best European cities for travelling with a dog: off-leash zones, public transport rules, dog beaches, vet coverage and pet-friendly hotels in each.',

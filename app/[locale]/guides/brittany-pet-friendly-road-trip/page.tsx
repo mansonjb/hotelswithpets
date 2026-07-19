@@ -34,10 +34,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: '5-Day Pet-Friendly Brittany Road Trip: Rennes, Saint-Malo, Dinard & Cancale (2026) | HotelsWithPets.com',
-    fr: 'Road trip en Bretagne avec son chien en 5 jours : Rennes, Saint-Malo, Dinard et Cancale (2026) | HotelsWithPets.com',
-    es: 'Road trip pet-friendly por Bretaña en 5 días: Rennes, Saint-Malo, Dinard y Cancale (2026) | HotelsWithPets.com',
-    pt: 'Road trip pet-friendly pela Bretanha em 5 dias: Rennes, Saint-Malo, Dinard e Cancale (2026) | HotelsWithPets.com',
+    en: '5-Day Pet-Friendly Brittany Road Trip: Rennes, Saint-Malo, Dinard & Cancale (2026)',
+    fr: 'Road trip en Bretagne avec son chien en 5 jours : Rennes, Saint-Malo, Dinard et Cancale (2026)',
+    es: 'Road trip pet-friendly por Bretaña en 5 días: Rennes, Saint-Malo, Dinard y Cancale (2026)',
+    pt: 'Road trip pet-friendly pela Bretanha em 5 dias: Rennes, Saint-Malo, Dinard e Cancale (2026)',
   }
 
   const descriptions: Record<string, string> = {

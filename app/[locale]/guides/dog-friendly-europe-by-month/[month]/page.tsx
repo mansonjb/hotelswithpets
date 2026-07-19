@@ -171,10 +171,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const m = month as MonthKey
   const mn = MONTH_NAMES[locale]?.[m] ?? MONTH_NAMES.en[m]
   const titles: Record<string, string> = {
-    en: `Best Dog-Friendly Cities in Europe in ${mn} (2026) | HotelsWithPets.com`,
-    fr: `Les meilleures villes dog-friendly d'Europe en ${mn} (2026) | HotelsWithPets.com`,
-    es: `Las mejores ciudades dog-friendly de Europa en ${mn} (2026) | HotelsWithPets.com`,
-    pt: `As melhores cidades dog-friendly da Europa em ${mn} (2026) | HotelsWithPets.com`,
+    en: `Best Dog-Friendly Cities in Europe in ${mn} (2026)`,
+    fr: `Les meilleures villes dog-friendly d'Europe en ${mn} (2026)`,
+    es: `Las mejores ciudades dog-friendly de Europa en ${mn} (2026)`,
+    pt: `As melhores cidades dog-friendly da Europa em ${mn} (2026)`,
   }
   const descs: Record<string, string> = {
     en: `Where to travel in Europe with a dog or cat in ${mn}. 6 hand-picked destinations with current weather, dog-beach openings, festival warnings and pet-friendly hotel inventory.`,

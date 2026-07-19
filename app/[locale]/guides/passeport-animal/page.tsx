@@ -27,10 +27,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: 'Do I Need a Pet Passport to Travel in Europe? Country-by-Country Guide | HotelsWithPets.com',
-    fr: 'Ai-je besoin d\'un passeport animal pour voyager en Europe ? Guide par pays | HotelsWithPets.com',
-    es: '¿Necesito un pasaporte de mascota para viajar en Europa? Guía por país | HotelsWithPets.com',
-    pt: 'Necesito um passaporte de animal para viajar en Europa? Guía por país | HotelsWithPets.com',
+    en: 'Do I Need a Pet Passport to Travel in Europe? Country-by-Country Guide',
+    fr: 'Ai-je besoin d\'un passeport animal pour voyager en Europe ? Guide par pays',
+    es: '¿Necesito un pasaporte de mascota para viajar en Europa? Guía por país',
+    pt: 'Necesito um passaporte de animal para viajar en Europa? Guía por país',
   }
   const descriptions: Record<string, string> = {
     en: 'Complete guide to EU pet passport requirements when travelling in Europe with a dog or cat. Country-by-country rules: UK, Finland, Ireland, Norway, Iceland, Switzerland and all EU members.',

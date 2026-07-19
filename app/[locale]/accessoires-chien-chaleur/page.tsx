@@ -14,7 +14,7 @@ export async function generateStaticParams() {
 }
 
 export const metadata: Metadata = {
-  title: `Meilleurs accessoires pour chien quand il fait chaud (2026) | HotelsWithPets.com`,
+  title: `Meilleurs accessoires pour chien quand il fait chaud (2026)`,
   description: `Canicule et balades estivales : gourde nomade, tapis rafraîchissant, gilet, bandana, brumisateur, gamelle pliante. Sélection testée et conseils anti-chaleur pour son chien.`,
   alternates: {
     canonical: `${SITE_URL}/fr/${SLUG}`,

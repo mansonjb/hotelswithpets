@@ -33,10 +33,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `5-Day Pet-Friendly Côte d'Azur Road Trip: Nice, Antibes, Cannes & Menton (2026) | HotelsWithPets.com`,
-    fr: `Road trip sur la Côte d'Azur avec son chien en 5 jours : Nice, Antibes, Cannes et Menton (2026) | HotelsWithPets.com`,
-    es: `Road trip pet-friendly por la Costa Azul en 5 días: Niza, Antibes, Cannes y Menton (2026) | HotelsWithPets.com`,
-    pt: `Road trip pet-friendly pela Riviera Francesa em 5 dias: Nice, Antibes, Cannes e Menton (2026) | HotelsWithPets.com`,
+    en: `5-Day Pet-Friendly Côte d'Azur Road Trip: Nice, Antibes, Cannes & Menton (2026)`,
+    fr: `Road trip sur la Côte d'Azur avec son chien en 5 jours : Nice, Antibes, Cannes et Menton (2026)`,
+    es: `Road trip pet-friendly por la Costa Azul en 5 días: Niza, Antibes, Cannes y Menton (2026)`,
+    pt: `Road trip pet-friendly pela Riviera Francesa em 5 dias: Nice, Antibes, Cannes e Menton (2026)`,
   }
 
   const descriptions: Record<string, string> = {

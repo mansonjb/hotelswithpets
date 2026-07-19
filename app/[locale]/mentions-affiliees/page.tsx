@@ -10,7 +10,7 @@ export async function generateStaticParams() {
 }
 
 export const metadata: Metadata = {
-  title: `Mentions affiliées et transparence | HotelsWithPets.com`,
+  title: `Mentions affiliées et transparence`,
   description: `Comment HotelsWithPets.com utilise les liens d'affiliation Amazon et Stay22 pour financer son contenu éditorial. Transparence totale sur nos rémunérations.`,
   alternates: {
     canonical: `${SITE_URL}/fr/${SLUG}`,
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   },
   robots: { index: true, follow: true },
   openGraph: {
-    title: `Mentions affiliées et transparence | HotelsWithPets.com`,
+    title: `Mentions affiliées et transparence`,
     description: `Comment HotelsWithPets.com utilise les liens d'affiliation Amazon et Stay22 pour financer son contenu éditorial. Transparence totale sur nos rémunérations.`,
     url: `${SITE_URL}/fr/${SLUG}`,
     siteName: 'HotelsWithPets.com',

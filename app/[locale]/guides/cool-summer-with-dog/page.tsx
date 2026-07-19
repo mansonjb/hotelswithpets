@@ -29,10 +29,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `Travel with Your Dog at Under 25°C in July: 8 Cool European Destinations (2026) | HotelsWithPets.com`,
-    fr: `Voyager avec son chien à moins de 25°C en juillet : 8 destinations européennes fraîches (2026) | HotelsWithPets.com`,
-    es: `Viajar con tu perro a menos de 25°C en julio: 8 destinos europeos frescos (2026) | HotelsWithPets.com`,
-    pt: `Viajar com o seu cão a menos de 25°C em julho: 8 destinos europeus frescos (2026) | HotelsWithPets.com`,
+    en: `Travel with Your Dog at Under 25°C in July: 8 Cool European Destinations (2026)`,
+    fr: `Voyager avec son chien à moins de 25°C en juillet : 8 destinations européennes fraîches (2026)`,
+    es: `Viajar con tu perro a menos de 25°C en julio: 8 destinos europeos frescos (2026)`,
+    pt: `Viajar com o seu cão a menos de 25°C em julho: 8 destinos europeus frescos (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Eight European destinations where July temperatures stay under 25°C - the safe zone for brachycephalic breeds (bulldogs, pugs, boxers) and senior dogs. Reykjavík, Bergen, Stockholm and others, with verified pet-friendly hotels.`,

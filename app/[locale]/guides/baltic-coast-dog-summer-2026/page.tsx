@@ -29,10 +29,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `Dog-Friendly Baltic Coast 2026: 8 Beach Destinations from Poland to Estonia | HotelsWithPets.com`,
-    fr: `Cote baltique pet-friendly 2026 : 8 destinations balneaires de la Pologne a l Estonie | HotelsWithPets.com`,
-    es: `Costa baltica pet-friendly 2026: 8 destinos de playa de Polonia a Estonia | HotelsWithPets.com`,
-    pt: `Costa baltica pet-friendly 2026: 8 destinos de praia da Polonia a Estonia | HotelsWithPets.com`,
+    en: `Dog-Friendly Baltic Coast 2026: 8 Beach Destinations from Poland to Estonia`,
+    fr: `Cote baltique pet-friendly 2026 : 8 destinations balneaires de la Pologne a l Estonie`,
+    es: `Costa baltica pet-friendly 2026: 8 destinos de playa de Polonia a Estonia`,
+    pt: `Costa baltica pet-friendly 2026: 8 destinos de praia da Polonia a Estonia`,
   }
   const descriptions: Record<string, string> = {
     en: `Eight Baltic coast destinations where dogs are welcome on the beach all summer: Sopot, Kolobrzeg, Swinoujscie, Rugen, Usedom, Warnemunde, Palanga, Parnu. Cooler than the Mediterranean, official dog beach zones, verified pet-friendly hotels.`,

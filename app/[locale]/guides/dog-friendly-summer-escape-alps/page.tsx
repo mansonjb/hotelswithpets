@@ -29,10 +29,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `Dog-Friendly Alpine Summer: 8 Mountain Towns Under 22C (2026) | HotelsWithPets.com`,
-    fr: `Ete en montagne avec son chien : 8 villes alpines a moins de 22C (2026) | HotelsWithPets.com`,
-    es: `Verano en los Alpes con tu perro: 8 pueblos de montana a menos de 22C (2026) | HotelsWithPets.com`,
-    pt: `Verao alpino com o seu cao: 8 cidades de montanha a menos de 22C (2026) | HotelsWithPets.com`,
+    en: `Dog-Friendly Alpine Summer: 8 Mountain Towns Under 22C (2026)`,
+    fr: `Ete en montagne avec son chien : 8 villes alpines a moins de 22C (2026)`,
+    es: `Verano en los Alpes con tu perro: 8 pueblos de montana a menos de 22C (2026)`,
+    pt: `Verao alpino com o seu cao: 8 cidades de montanha a menos de 22C (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Eight Alpine mountain towns where July temperatures stay under 22C, with dog-friendly cable cars, mountain trails, and verified pet-friendly hotels in Switzerland, France, Italy, and Austria.`,

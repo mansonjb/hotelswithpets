@@ -100,7 +100,7 @@ export async function generateMetadata({
   const description = descriptions[locale] ?? descriptions.en
 
   return {
-    title: `${title} | HotelsWithPets.com`,
+    title: `${title}`,
     description,
     openGraph: {
       title,

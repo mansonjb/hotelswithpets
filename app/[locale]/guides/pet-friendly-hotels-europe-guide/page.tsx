@@ -35,10 +35,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   if (!hasLocale(locale)) return {}
   const titles: Record<string, string> = {
-    en: 'Pet-Friendly Hotels in Europe: The Complete 2026 Guide | HotelsWithPets.com',
-    fr: 'Hôtels pet-friendly en Europe : le guide complet 2026 | HotelsWithPets.com',
-    es: 'Hoteles pet-friendly en Europa: la guía completa 2026 | HotelsWithPets.com',
-    pt: 'Hotéis pet-friendly na Europa: o guia completo 2026 | HotelsWithPets.com',
+    en: 'Pet-Friendly Hotels in Europe: The Complete 2026 Guide',
+    fr: 'Hôtels pet-friendly en Europe : le guide complet 2026',
+    es: 'Hoteles pet-friendly en Europa: la guía completa 2026',
+    pt: 'Hotéis pet-friendly na Europa: o guia completo 2026',
   }
   const totalHotels = hotels.length
   const totalDests = destinations.length

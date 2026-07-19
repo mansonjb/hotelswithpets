@@ -29,10 +29,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `Cool Portugal with Your Dog in Summer: 8 Destinations Under 25C (2026) | HotelsWithPets.com`,
-    fr: `Portugal frais avec son chien en ete : 8 destinations a moins de 25C (2026) | HotelsWithPets.com`,
-    es: `Portugal fresco con tu perro en verano: 8 destinos a menos de 25C (2026) | HotelsWithPets.com`,
-    pt: `Portugal fresco com o seu cao no verao: 8 destinos a menos de 25C (2026) | HotelsWithPets.com`,
+    en: `Cool Portugal with Your Dog in Summer: 8 Destinations Under 25C (2026)`,
+    fr: `Portugal frais avec son chien en ete : 8 destinations a moins de 25C (2026)`,
+    es: `Portugal fresco con tu perro en verano: 8 destinos a menos de 25C (2026)`,
+    pt: `Portugal fresco com o seu cao no verao: 8 destinos a menos de 25C (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Eight Portuguese destinations where August temperatures stay under 25C: Serra da Estrela, Viana do Castelo, Peniche and others. The Algarve hits 35C but the north and Atlantic coast stay genuinely cool. Verified pet-friendly hotels for each pick.`,

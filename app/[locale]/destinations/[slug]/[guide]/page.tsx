@@ -278,7 +278,7 @@ export async function generateMetadata({
   const metaDesc = tpl ? tpl.desc(localizedCity) : (fallbackIntro ?? guideData.introEn ?? '').slice(0, 160)
 
   return {
-    title: `${metaTitle} | HotelsWithPets.com`,
+    title: `${metaTitle}`,
     description: metaDesc,
     alternates: {
       canonical: `${SITE_URL}/${locale}/destinations/${slug}/${guide}`,

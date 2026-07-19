@@ -33,10 +33,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `5-Day Pet-Friendly Provence Road Trip: Avignon, Arles, Aix-en-Provence & Marseille (2026) | HotelsWithPets.com`,
-    fr: `Road trip en Provence avec son chien en 5 jours : Avignon, Arles, Aix-en-Provence et Marseille (2026) | HotelsWithPets.com`,
-    es: `Road trip pet-friendly por Provenza en 5 días: Aviñón, Arlés, Aix-en-Provence y Marsella (2026) | HotelsWithPets.com`,
-    pt: `Road trip pet-friendly pela Provença em 5 dias: Avinhão, Arles, Aix-en-Provence e Marselha (2026) | HotelsWithPets.com`,
+    en: `5-Day Pet-Friendly Provence Road Trip: Avignon, Arles, Aix-en-Provence & Marseille (2026)`,
+    fr: `Road trip en Provence avec son chien en 5 jours : Avignon, Arles, Aix-en-Provence et Marseille (2026)`,
+    es: `Road trip pet-friendly por Provenza en 5 días: Aviñón, Arlés, Aix-en-Provence y Marsella (2026)`,
+    pt: `Road trip pet-friendly pela Provença em 5 dias: Avinhão, Arles, Aix-en-Provence e Marselha (2026)`,
   }
 
   const descriptions: Record<string, string> = {

@@ -230,10 +230,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   if (!hasLocale(locale)) return {}
   const titles: Record<string, string> = {
-    en: `The 25 Best Dog Beaches in Europe 2026, Year-Round Access, Sand, Forest & Lakes | HotelsWithPets.com`,
-    fr: `Les 25 meilleures plages dog-friendly d'Europe 2026, Accès toute l'année, sable, forêt et lacs | HotelsWithPets.com`,
-    es: `Las 25 mejores playas dog-friendly de Europa 2026, Acceso todo el año, arena, bosque y lagos | HotelsWithPets.com`,
-    pt: `As 25 melhores praias pet-friendly de Europa 2026, Acesso o ano inteiro, areia, floresta e lagos | HotelsWithPets.com`,
+    en: `The 25 Best Dog Beaches in Europe 2026, Year-Round Access, Sand, Forest & Lakes`,
+    fr: `Les 25 meilleures plages dog-friendly d'Europe 2026, Accès toute l'année, sable, forêt et lacs`,
+    es: `Las 25 mejores playas dog-friendly de Europa 2026, Acceso todo el año, arena, bosque y lagos`,
+    pt: `As 25 melhores praias pet-friendly de Europa 2026, Acesso o ano inteiro, areia, floresta e lagos`,
   }
   const descs: Record<string, string> = {
     en: `Curated from our verified data across 105 European cities, the 25 best dog beaches with year-round access, dedicated dog zones, and direct rail or ferry from major cities. Atlantic, Mediterranean, North Sea, Baltic and lakes covered.`,

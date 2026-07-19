@@ -56,10 +56,10 @@ export async function generateMetadata({ params }: PageProps<'/[locale]/destinat
   // EN: "dog friendly hotel X", "pet friendly hotel X", "cat friendly hotel X"
   // PT: "hotéis que aceitam animais X", "hotéis pet-friendly X", "hotel com cães X"
   const titleTemplates: Record<string, string> = {
-    en: `${hotelCount} Pet-Friendly Hotels in ${dest.name} (${year}), Dog & Cat Friendly Stays Verified | HotelsWithPets.com`,
-    fr: `${hotelCount} hôtels acceptant les animaux à ${cityFr} (${year}), Chiens et chats bienvenus | HotelsWithPets.com`,
-    es: `${hotelCount} hoteles que admiten mascotas en ${cityEs} (${year}), Hoteles pet-friendly verificados | HotelsWithPets.com`,
-    pt: `${hotelCount} hotéis que aceitam animais em ${cityPt} (${year}), Cães e gatos bem-vindos | HotelsWithPets.com`,
+    en: `${hotelCount} Pet-Friendly Hotels in ${dest.name} (${year}), Dog & Cat Friendly Stays Verified`,
+    fr: `${hotelCount} hôtels acceptant les animaux à ${cityFr} (${year}), Chiens et chats bienvenus`,
+    es: `${hotelCount} hoteles que admiten mascotas en ${cityEs} (${year}), Hoteles pet-friendly verificados`,
+    pt: `${hotelCount} hotéis que aceitam animais em ${cityPt} (${year}), Cães e gatos bem-vindos`,
   }
   const descTemplates: Record<string, string> = {
     en: `${hotelCount} verified dog- and cat-friendly hotels in ${dest.name}, ${dest.country} from €${minPrice}/night. Pet fees, weight limits and policies clearly listed. Book on Booking.com.`,

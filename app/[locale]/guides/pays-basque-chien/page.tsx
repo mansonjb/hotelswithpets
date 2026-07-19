@@ -33,10 +33,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `5-Day Pet-Friendly Basque Country Road Trip: Bayonne, San Sebastián, Vitoria-Gasteiz & Bilbao (2026) | HotelsWithPets.com`,
-    fr: `Road trip au Pays basque avec son chien en 5 jours : Bayonne, Saint-Sébastien, Vitoria-Gasteiz et Bilbao (2026) | HotelsWithPets.com`,
-    es: `Road trip pet-friendly por el País Vasco en 5 días: Bayona, San Sebastián, Vitoria-Gasteiz y Bilbao (2026) | HotelsWithPets.com`,
-    pt: `Road trip pet-friendly pelo País Basco em 5 dias: Bayonne, San Sebastián, Vitoria-Gasteiz e Bilbao (2026) | HotelsWithPets.com`,
+    en: `5-Day Pet-Friendly Basque Country Road Trip: Bayonne, San Sebastián, Vitoria-Gasteiz & Bilbao (2026)`,
+    fr: `Road trip au Pays basque avec son chien en 5 jours : Bayonne, Saint-Sébastien, Vitoria-Gasteiz et Bilbao (2026)`,
+    es: `Road trip pet-friendly por el País Vasco en 5 días: Bayona, San Sebastián, Vitoria-Gasteiz y Bilbao (2026)`,
+    pt: `Road trip pet-friendly pelo País Basco em 5 dias: Bayonne, San Sebastián, Vitoria-Gasteiz e Bilbao (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `A 5-day cross-border pet-friendly road trip from French Bayonne through San Sebastián and Vitoria-Gasteiz to Bilbao and Getxo. The Vauban ramparts, the Concha bay, the European Green Capital's 5-park Anillo Verde, and the UNESCO Vizcaya Bridge - all with a leashed dog on the leash.`,

@@ -43,10 +43,10 @@ export async function generateMetadata({
   const cityPt = getLocalizedCityName(dest.slug, dest.name, 'pt')
 
   const titles: Record<string, string> = {
-    en: `${hotel.name}: Pet-Friendly Hotel in ${dest.name} | HotelsWithPets.com`,
-    fr: `${hotel.name}, Hôtel pet-friendly à ${cityFr} | HotelsWithPets.com`,
-    es: `${hotel.name}, Hotel pet-friendly en ${cityEs} | HotelsWithPets.com`,
-    pt: `${hotel.name}, Hotel pet-friendly em ${cityPt} | HotelsWithPets.com`,
+    en: `${hotel.name}: Pet-Friendly Hotel in ${dest.name}`,
+    fr: `${hotel.name}, Hôtel pet-friendly à ${cityFr}`,
+    es: `${hotel.name}, Hotel pet-friendly en ${cityEs}`,
+    pt: `${hotel.name}, Hotel pet-friendly em ${cityPt}`,
   }
   const descriptions: Record<string, string> = {
     en: `${hotel.name} in ${dest.name}: pet policy: ${cleanPetPolicy.slice(0, 100)}. From €${hotel.priceFrom}/night. Rating: ${hotel.rating}/10 (${hotel.reviewCount} reviews). Pet fee: ${hotel.petFee === 0 ? 'free' : `€${hotel.petFee}`}.`,

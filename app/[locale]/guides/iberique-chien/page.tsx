@@ -15,10 +15,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   if (!hasLocale(locale)) return {}
   const titles: Record<string, string> = {
-    en: 'Iberian Peninsula With Your Dog: Lisbon → Porto → Madrid → Barcelona (12-Day Itinerary) | HotelsWithPets.com',
-    fr: 'Péninsule ibérique avec son chien : Lisbonne → Porto → Madrid → Barcelone (itinéraire 12 jours) | HotelsWithPets.com',
-    es: 'Península ibérica con tu perro: Lisboa → Oporto → Madrid → Barcelona (itinerario 12 días) | HotelsWithPets.com',
-    pt: 'Península ibérica com tu cão: Lisboa → Porto → Madrid → Barcelona (itinerario 12 dias) | HotelsWithPets.com',
+    en: 'Iberian Peninsula With Your Dog: Lisbon → Porto → Madrid → Barcelona (12-Day Itinerary)',
+    fr: 'Péninsule ibérique avec son chien : Lisbonne → Porto → Madrid → Barcelone (itinéraire 12 jours)',
+    es: 'Península ibérica con tu perro: Lisboa → Oporto → Madrid → Barcelona (itinerario 12 días)',
+    pt: 'Península ibérica com tu cão: Lisboa → Porto → Madrid → Barcelona (itinerario 12 dias)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 12-day Iberian rail itinerary with your dog: Portugal\'s coast then Spain\'s capitals. Pet-friendly hotels, AVE/Alfa Pendular train rules, summer heat tips, live Booking.com maps.',

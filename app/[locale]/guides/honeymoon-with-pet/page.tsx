@@ -34,10 +34,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `Honeymoon with Your Dog: 6 Romantic Pet-Friendly Destinations in Europe (2026) | HotelsWithPets.com`,
-    fr: `Lune de miel avec son chien : 6 destinations romantiques pet-friendly en Europe (2026) | HotelsWithPets.com`,
-    es: `Luna de miel con tu perro: 6 destinos románticos pet-friendly en Europa (2026) | HotelsWithPets.com`,
-    pt: `Lua de mel com o seu cão: 6 destinos românticos pet-friendly na Europa (2026) | HotelsWithPets.com`,
+    en: `Honeymoon with Your Dog: 6 Romantic Pet-Friendly Destinations in Europe (2026)`,
+    fr: `Lune de miel avec son chien : 6 destinations romantiques pet-friendly en Europe (2026)`,
+    es: `Luna de miel con tu perro: 6 destinos románticos pet-friendly en Europa (2026)`,
+    pt: `Lua de mel com o seu cão: 6 destinos românticos pet-friendly na Europa (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Six European destinations that work for a romantic honeymoon with a dog or a cat: lakeside hotels, palace-village pairings and seaside escapes that genuinely welcome pets in the room.`,

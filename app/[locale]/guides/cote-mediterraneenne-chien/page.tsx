@@ -16,10 +16,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: 'Mediterranean Coast With Your Dog: Nice → Genoa → Florence → Rome (10-Day Itinerary) | HotelsWithPets.com',
-    fr: 'Côte méditerranéenne avec son chien : Nice → Gênes → Florence → Rome (itinéraire 10 jours) | HotelsWithPets.com',
-    es: 'Costa mediterránea con tu perro: Niza → Génova → Florencia → Roma (itinerario 10 días) | HotelsWithPets.com',
-    pt: 'Costa mediterrânea com tu cão: Niza → Génova → Florencia → Roma (itinerario 10 dias) | HotelsWithPets.com',
+    en: 'Mediterranean Coast With Your Dog: Nice → Genoa → Florence → Rome (10-Day Itinerary)',
+    fr: 'Côte méditerranéenne avec son chien : Nice → Gênes → Florence → Rome (itinéraire 10 jours)',
+    es: 'Costa mediterránea con tu perro: Niza → Génova → Florencia → Roma (itinerario 10 días)',
+    pt: 'Costa mediterrânea com tu cão: Niza → Génova → Florencia → Roma (itinerario 10 dias)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day Mediterranean train itinerary with your dog along the French and Italian coast. Pet-friendly hotels, live Booking.com maps, summer beach rules and emergency vets in each city.',

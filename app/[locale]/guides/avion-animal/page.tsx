@@ -27,10 +27,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: 'Flying with Your Pet in Europe: Which Airlines Allow Dogs & Cats (2025) | HotelsWithPets.com',
-    fr: 'Prendre l\'avion avec son animal en Europe : quelles compagnies acceptent chiens et chats (2025) | HotelsWithPets.com',
-    es: 'Volar con mascota en Europa: qué aerolíneas aceptan perros y gatos (2025) | HotelsWithPets.com',
-    pt: 'Volar com animal en Europa: qué aerolíneas aceitam cães e gatos (2025) | HotelsWithPets.com',
+    en: 'Flying with Your Pet in Europe: Which Airlines Allow Dogs & Cats (2025)',
+    fr: 'Prendre l\'avion avec son animal en Europe : quelles compagnies acceptent chiens et chats (2025)',
+    es: 'Volar con mascota en Europa: qué aerolíneas aceptan perros y gatos (2025)',
+    pt: 'Volar com animal en Europa: qué aerolíneas aceitam cães e gatos (2025)',
   }
   const descriptions: Record<string, string> = {
     en: 'Complete guide to flying with a pet in Europe. Airline-by-airline comparison: Air France, Lufthansa, KLM, Iberia, Vueling and more. Cabin vs hold, weight limits, carrier requirements, breed restrictions and booking tips.',

@@ -17,10 +17,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: 'European City Trip With Your Dog: Paris → Brussels → Amsterdam → Berlin (10-Day Itinerary) | HotelsWithPets.com',
-    fr: 'City trip en Europe avec son chien : Paris → Bruxelles → Amsterdam → Berlin (itinéraire 10 jours) | HotelsWithPets.com',
-    es: 'City trip por Europa con tu perro: París → Bruselas → Ámsterdam → Berlín (itinerario 10 días) | HotelsWithPets.com',
-    pt: 'City trip por Europa com tu cão: París → Bruxelas → Amesterdão → Berlim (itinerario 10 dias) | HotelsWithPets.com',
+    en: 'European City Trip With Your Dog: Paris → Brussels → Amsterdam → Berlin (10-Day Itinerary)',
+    fr: 'City trip en Europe avec son chien : Paris → Bruxelles → Amsterdam → Berlin (itinéraire 10 jours)',
+    es: 'City trip por Europa con tu perro: París → Bruselas → Ámsterdam → Berlín (itinerario 10 días)',
+    pt: 'City trip por Europa com tu cão: París → Bruxelas → Amesterdão → Berlim (itinerario 10 dias)',
   }
   const descriptions: Record<string, string> = {
     en: 'A 10-day train-friendly city-trip itinerary across four iconic European capitals with your dog. Recommended pet-friendly hotels, live Booking.com maps, transport rules and dog-walking spots in each city.',

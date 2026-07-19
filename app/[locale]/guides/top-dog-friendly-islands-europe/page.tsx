@@ -190,10 +190,10 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const { locale } = await params
   if (!hasLocale(locale)) return {}
   const titles: Record<string, string> = {
-    en: 'Top 25 Dog-Friendly Islands in Europe (2026 Edition) | HotelsWithPets.com',
-    fr: `Top 25 des îles européennes dog-friendly (édition 2026) | HotelsWithPets.com`,
-    es: 'Top 25 islas dog-friendly de Europa (edición 2026) | HotelsWithPets.com',
-    pt: 'Top 25 ilhas pet-friendly da Europa (edição 2026) | HotelsWithPets.com',
+    en: 'Top 25 Dog-Friendly Islands in Europe (2026 Edition)',
+    fr: `Top 25 des îles européennes dog-friendly (édition 2026)`,
+    es: 'Top 25 islas dog-friendly de Europa (edición 2026)',
+    pt: 'Top 25 ilhas pet-friendly da Europa (edição 2026)',
   }
   const descriptions: Record<string, string> = {
     en: 'Our 2026 ranking of the 25 best European islands for travelling with a dog: dog beaches, ferry rules, climate, pet-friendly hotel availability and import paperwork, island by island.',

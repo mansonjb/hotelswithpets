@@ -29,10 +29,10 @@ export async function generateMetadata({
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: `Wine Tourism with Your Dog: 5 European Wine Regions That Welcome Pets (2026) | HotelsWithPets.com`,
-    fr: `Tourisme œnologique avec son chien : 5 régions viticoles européennes qui accueillent les animaux (2026) | HotelsWithPets.com`,
-    es: `Enoturismo con tu perro: 5 regiones vinícolas europeas que admiten mascotas (2026) | HotelsWithPets.com`,
-    pt: `Enoturismo com o seu cão: 5 regiões vinícolas europeias que aceitam animais (2026) | HotelsWithPets.com`,
+    en: `Wine Tourism with Your Dog: 5 European Wine Regions That Welcome Pets (2026)`,
+    fr: `Tourisme œnologique avec son chien : 5 régions viticoles européennes qui accueillent les animaux (2026)`,
+    es: `Enoturismo con tu perro: 5 regiones vinícolas europeas que admiten mascotas (2026)`,
+    pt: `Enoturismo com o seu cão: 5 regiões vinícolas europeias que aceitam animais (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Five European wine regions where you can taste and stay with your dog: Bordeaux Médoc, Tuscany Chianti, Rioja Alta, Douro Valley, Burgundy. Verified pet-friendly châteaux, palaces and quintas.`,

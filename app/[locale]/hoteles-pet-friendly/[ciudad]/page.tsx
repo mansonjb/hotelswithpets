@@ -62,7 +62,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const minPrice = count > 0 ? Math.min(...cityHotels.map((h) => h.priceFrom).filter(Boolean)) : null
   const year = new Date().getFullYear()
 
-  const title = `Hoteles pet-friendly en ${cityEs} (${year}), ${count} hoteles que admiten mascotas | HotelsWithPets.com`
+  const title = `Hoteles pet-friendly en ${cityEs} (${year}), ${count} hoteles que admiten mascotas`
   const description = `Los mejores ${count} hoteles que admiten perros y gatos en ${cityEs}, ${countryEs} desde ${minPrice} €/noche. Suplemento mascotas, peso máximo y políticas detalladas. Reserva en Booking.com.`
 
   return {

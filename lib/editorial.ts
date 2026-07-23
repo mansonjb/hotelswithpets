@@ -241,6 +241,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Le Saline dog beach, Parco Fausto Noce and the Sa Testa sacred well`,
       area: `the historic centre around Corso Umberto, the Pittulongu seafront and the Costa Smeralda coast`,
     },
+    olhao: {
+      personality: `the Algarve's most authentic working fishing port, where a cubist whitewashed old town and the 1916 red-brick waterfront markets open onto the Ria Formosa lagoon and its barrier islands of Armona, Culatra and Farol`,
+      highlight: `the Parque Canino do Levante, the waterfront gardens by the markets, and the off-season island beaches of Armona and Culatra`,
+      area: `the cubist old town, the market waterfront, and the Ria Formosa islands`,
+    },
     budva: {
       personality: `a buzzing Adriatic resort town wrapped around the walled Stari Grad old town, the long Slovenska Plaza beach strip, the clifftop Mogren coastal path and the postcard view of nearby Sveti Stefan`,
       highlight: `the Mogren Coastal Path, the Slovenska Plaza promenade, and the Stari Grad old-town lanes`,
@@ -390,6 +395,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `the Provençal capital and former seat of seven popes, a UNESCO-rated walled centro storico, the towering Palais des Papes (Europe's largest Gothic palace), the legendary Pont Saint-Bénézet on the Rhône, and direct TGV access from Paris in 2h40`,
       highlight: `the Place du Palais des Papes, the Rocher des Doms gardens with the iconic city panorama, and the île de la Barthelasse with 4 km of Rhône-bank dog walking`,
       area: `the intra-muros around the Palais des Papes, the Rue des Teinturiers and Place de l'Horloge bistrot quarter, and the île de la Barthelasse across the river`,
+    },
+    'bad-gastein': {
+      personality: `a Belle Epoque spa town stacked above a 341 m waterfall in the Hohe Tauern, where the Stubnerkogel gondola carries dogs to a 2,246 m suspension bridge for 5 EUR, the flat Kötschachtal trail passes two dog-friendly huts, and pet-specialist hotels offer dog-sitting during thermal treatments`,
+      highlight: `the Gasteiner Wasserfall platforms, the Stubnerkogel suspension bridge, and the Kötschachtal valley trail to the Prossau`,
+      area: `the historic centre around the waterfall, the Kaiser-Wilhelm-Promenade above town, and Böckstein towards Sportgastein`,
     },
     barcelona: {
       personality: 'a Mediterranean city where pet ownership is high and hotels are catching up',
@@ -2109,6 +2119,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la plage à chiens de Le Saline, le Parco Fausto Noce et le puits sacré de Sa Testa`,
       area: `le centre historique autour du Corso Umberto, le front de mer de Pittulongu et la côte de la Costa Smeralda`,
     },
+    olhao: {
+      personality: `le port de pêche le plus authentique de l'Algarve, où une vieille ville cubiste blanchie à la chaux et les marchés de brique rouge de 1916 s'ouvrent sur la lagune de la Ria Formosa et ses îles-barrières d'Armona, Culatra et Farol`,
+      highlight: `le Parque Canino do Levante, les jardins du front de mer près des marchés et les plages insulaires d'Armona et Culatra hors saison`,
+      area: `la vieille ville cubiste, le front de mer des marchés et les îles de la Ria Formosa`,
+    },
     budva: {
       personality: `une station balnéaire animée de l'Adriatique blottie autour de la vieille ville fortifiée de Stari Grad, de la longue plage de Slovenska Plaza, du sentier côtier de falaise de Mogren et de la vue carte postale sur Sveti Stefan voisine`,
       highlight: `le sentier côtier de Mogren, la promenade de Slovenska Plaza et les ruelles de la vieille ville de Stari Grad`,
@@ -2258,6 +2273,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la capitale de la Provence et siège de sept papes, centro storico fortifié classé UNESCO, l'imposant Palais des Papes (le plus grand palais gothique d'Europe), le légendaire Pont Saint-Bénézet sur le Rhône, et un accès TGV direct depuis Paris en 2h40`,
       highlight: `la Place du Palais des Papes, les jardins du Rocher des Doms avec le panorama iconique, et l'île de la Barthelasse avec 4 km de promenade canine au bord du Rhône`,
       area: `l'intra-muros autour du Palais des Papes, le quartier bistrot de la Rue des Teinturiers et de la Place de l'Horloge, et l'île de la Barthelasse de l'autre côté du fleuve`,
+    },
+    'bad-gastein': {
+      personality: `une ville thermale Belle Époque étagée au-dessus d'une cascade de 341 m dans les Hohe Tauern, où la télécabine du Stubnerkogel emmène les chiens vers un pont suspendu à 2 246 m pour 5 EUR, où le sentier plat du Kötschachtal passe devant deux refuges accueillant les chiens, et où des hôtels spécialisés proposent du dog-sitting pendant les soins thermaux`,
+      highlight: `les plateformes du Gasteiner Wasserfall, le pont suspendu du Stubnerkogel et le sentier du Kötschachtal vers la Prossau`,
+      area: `le centre historique autour de la cascade, la Kaiser-Wilhelm-Promenade au-dessus de la ville et Böckstein vers Sportgastein`,
     },
     barcelona: {
       personality: 'une ville méditerranéenne où la possession d\'animaux est élevée et les hôtels s\'y adaptent',
@@ -3976,6 +3996,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la playa canina de Le Saline, el Parco Fausto Noce y el pozo sagrado de Sa Testa`,
       area: `el centro histórico en torno al Corso Umberto, el paseo marítimo de Pittulongu y la costa de la Costa Smeralda`,
     },
+    olhao: {
+      personality: `el puerto pesquero más auténtico del Algarve, donde un casco antiguo cubista encalado y los mercados de ladrillo rojo de 1916 se abren a la laguna de la Ría Formosa y sus islas barrera de Armona, Culatra y Farol`,
+      highlight: `el Parque Canino do Levante, los jardines del paseo marítimo junto a los mercados y las playas insulares de Armona y Culatra fuera de temporada`,
+      area: `el casco antiguo cubista, el paseo marítimo de los mercados y las islas de la Ría Formosa`,
+    },
     budva: {
       personality: `una animada localidad turística del Adriático en torno al casco antiguo amurallado de Stari Grad, la larga playa de Slovenska Plaza, el sendero costero de acantilado de Mogren y la vista de postal de la cercana Sveti Stefan`,
       highlight: `el sendero costero de Mogren, el paseo de Slovenska Plaza y las callejuelas del casco antiguo de Stari Grad`,
@@ -4125,6 +4150,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la capital de Provenza y antigua sede de siete papas, centro storico amurallado clasificado UNESCO, el imponente Palacio de los Papas (el mayor palacio gótico de Europa), el legendario Pont Saint-Bénézet sobre el Ródano, y acceso TGV directo desde París en 2h40`,
       highlight: `la Place du Palais des Papes, los jardines del Rocher des Doms con el panorama icónico, y la île de la Barthelasse con 4 km de paseo canino junto al Ródano`,
       area: `el intra-muros alrededor del Palacio de los Papas, el barrio bistró de la Rue des Teinturiers y la Place de l'Horloge, y la île de la Barthelasse al otro lado del río`,
+    },
+    'bad-gastein': {
+      personality: `una ciudad balneario Belle Époque escalonada sobre una cascada de 341 m en los Hohe Tauern, donde la góndola del Stubnerkogel lleva a los perros a un puente colgante a 2.246 m por 5 EUR, el sendero llano del Kötschachtal pasa por dos cabañas que admiten perros, y hoteles especializados ofrecen cuidado de perros durante los tratamientos termales`,
+      highlight: `las plataformas del Gasteiner Wasserfall, el puente colgante del Stubnerkogel y el sendero del Kötschachtal hasta la Prossau`,
+      area: `el centro histórico en torno a la cascada, la Kaiser-Wilhelm-Promenade sobre el pueblo y Böckstein hacia Sportgastein`,
     },
     barcelona: {
       personality: 'una ciudad mediterránea donde la tenencia de mascotas es alta y los hoteles se están adaptando',
@@ -5992,6 +6022,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a capital de Provenza e antiga sede de siete papas, centro storico amurallado clasificado UNESCO, o imponente Palácio dos Papas (o mayor palácio gótico de Europa), o legendario Pont Saint-Bénézet sobre o Ródano, e acesso TGV directo a partir de París en 2h40`,
       highlight: `a Place du Palais des Papes, os jardins do Rocher des Doms com o panorama icónico, e a île da Barthelasse com 4 km de passeio canino junto al Ródano`,
       area: `o intra-muros alrededor do Palácio dos Papas, o bairro bistró da Rue des Teinturiers e a Place de l'Horloge, e a île da Barthelasse al otro lado do rio`,
+    },
+    'bad-gastein': {
+      personality: `uma cidade termal Belle Époque em socalcos sobre uma cascata de 341 m nos Hohe Tauern, onde a gôndola do Stubnerkogel leva os cães a uma ponte suspensa a 2.246 m por 5 EUR, o trilho plano do Kötschachtal passa por duas cabanas que aceitam cães, e hotéis especializados oferecem dog-sitting durante os tratamentos termais`,
+      highlight: `as plataformas do Gasteiner Wasserfall, a ponte suspensa do Stubnerkogel e o trilho do Kötschachtal até à Prossau`,
+      area: `o centro histórico em redor da cascata, a Kaiser-Wilhelm-Promenade acima da vila e Böckstein em direção a Sportgastein`,
     },
     barcelona: {
       personality: 'uma cidade mediterrânea onde a tenencia de animais é alta e os hotéis se estão adaptando',

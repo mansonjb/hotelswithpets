@@ -2610,6 +2610,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'bad-gastein': {
+    history: {
+      fr: `Bad Gastein doit son existence à ses sources thermales radioactives, connues depuis le Moyen Âge et fréquentées par les Habsbourg, Bismarck et l'impératrice Sissi. Au XIXe siècle, la petite station du Pongau devint le « Monte-Carlo des Alpes » : de monumentaux hôtels Belle Époque furent bâtis en gradins spectaculaires autour de la cascade de la Gasteiner Ache, qui plonge de 341 mètres en plein centre-ville. Perchée vers 1 000 m d'altitude dans le massif des Hohe Tauern, la ville vit aujourd'hui du ski, de la randonnée et de ses thermes. Pour les voyageurs avec un chien, c'est une des stations thermales alpines les plus pratiques : télécabines acceptant les chiens (5 EUR la journée), vallée plate du Kötschachtal avec refuges dog-friendly, promenades forestières impériales et hôtels spécialisés qui gardent le chien pendant les soins. Seule contrainte : le relief vertical et la muselière obligatoire dans les transports.`,
+      en: `Bad Gastein owes its existence to its radon-rich thermal springs, known since the Middle Ages and patronised by the Habsburgs, Bismarck and Empress Sissi. In the 19th century the little Pongau resort became the 'Monte Carlo of the Alps': monumental Belle Époque hotels rose in theatrical tiers around the Gasteiner Ache waterfall, which plunges 341 metres through the town centre. Perched at about 1,000 m in the Hohe Tauern range, the town now lives from skiing, hiking and its thermal baths. For travellers with a dog it is one of the most practical Alpine spa towns: gondolas that carry dogs (5 EUR per day), the flat Kötschachtal valley with dog-friendly huts, imperial-era forest promenades, and pet-specialist hotels that mind the dog during treatments. The only constraints are the vertical terrain and the muzzle rule on public transport.`,
+      es: `Bad Gastein debe su existencia a sus fuentes termales ricas en radón, conocidas desde la Edad Media y frecuentadas por los Habsburgo, Bismarck y la emperatriz Sissi. En el siglo XIX la pequeña estación del Pongau se convirtió en el « Montecarlo de los Alpes »: monumentales hoteles Belle Époque se alzaron en gradas teatrales alrededor de la cascada del Gasteiner Ache, que se precipita 341 metros en pleno centro. Encaramada a unos 1.000 m en el macizo de los Hohe Tauern, la ciudad vive hoy del esquí, el senderismo y sus termas. Para los viajeros con perro es una de las estaciones termales alpinas más prácticas: góndolas que admiten perros (5 EUR al día), el valle llano del Kötschachtal con cabañas que aceptan perros, paseos forestales de la época imperial y hoteles especializados que cuidan del perro durante los tratamientos. Las únicas limitaciones son el terreno vertical y el bozal obligatorio en el transporte público.`,
+      pt: `Bad Gastein deve a sua existência às suas nascentes termais ricas em radão, conhecidas desde a Idade Média e frequentadas pelos Habsburgo, por Bismarck e pela imperatriz Sissi. No século XIX a pequena estância do Pongau tornou-se o « Monte Carlo dos Alpes »: monumentais hotéis Belle Époque ergueram-se em socalcos teatrais em redor da cascata do Gasteiner Ache, que se precipita 341 metros em pleno centro. Empoleirada a cerca de 1.000 m no maciço dos Hohe Tauern, a vila vive hoje do esqui, das caminhadas e das suas termas. Para os viajantes com cão é uma das estâncias termais alpinas mais práticas: gôndolas que aceitam cães (5 EUR por dia), o vale plano do Kötschachtal com cabanas que recebem cães, passeios florestais da época imperial e hotéis especializados que guardam o cão durante os tratamentos. As únicas limitações são o terreno vertical e o açaime obrigatório nos transportes públicos.`,
+    },
+    sights: [
+      { name: 'Gasteiner Wasserfall', emoji: '💧', petFriendly: true, desc: {
+        fr: `Cascade de 341 m en trois paliers au cœur de la ville, l'une des plus hautes d'Europe en milieu urbain. Plateformes et sentier gratuits, chiens en laisse bienvenus ; sentier fermé en hiver.`,
+        en: `A 341 m waterfall dropping in three stages through the town centre, one of Europe's highest urban falls. Free platforms and trail, leashed dogs welcome; the path closes in winter.`,
+        es: `Cascada de 341 m en tres saltos en pleno centro, una de las más altas de Europa en entorno urbano. Plataformas y sendero gratuitos, perros con correa bienvenidos; el sendero cierra en invierno.`,
+        pt: `Cascata de 341 m em três quedas em pleno centro, uma das mais altas da Europa em meio urbano. Plataformas e trilho gratuitos, cães pela trela bem-vindos; o trilho fecha no inverno.`,
+      } },
+      { name: 'Stubnerkogel Hängebrücke', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Pont suspendu de 140 m sous le sommet du Stubnerkogel (2 246 m), accessible en télécabine avec le chien (5 EUR/jour). Un sentier au sol plein contourne le platelage ajouré si le chien renâcle.`,
+        en: `A 140 m suspension bridge just below the Stubnerkogel summit (2,246 m), reached by gondola with the dog (5 EUR/day). A solid-floored bypass path avoids the grated deck if the dog balks.`,
+        es: `Puente colgante de 140 m bajo la cima del Stubnerkogel (2.246 m), accesible en góndola con el perro (5 EUR/día). Un sendero de suelo firme evita la pasarela de rejilla si el perro se resiste.`,
+        pt: `Ponte suspensa de 140 m sob o cume do Stubnerkogel (2.246 m), acessível de gôndola com o cão (5 EUR/dia). Um trilho de piso firme evita o pavimento gradeado se o cão hesitar.`,
+      } },
+      { name: 'Kaiser-Wilhelm-Promenade', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Large promenade panoramique presque plate au-dessus de la ville, tracée pour les curistes impériaux. Ombragée et fraîche, c'est la balade quotidienne idéale avec un chien, en laisse.`,
+        en: `A wide, almost level panoramic promenade above the town, laid out for imperial spa guests. Shaded and cool, it is the ideal daily dog walk, on leash.`,
+        es: `Amplio paseo panorámico casi llano sobre el pueblo, trazado para los agüistas imperiales. Sombreado y fresco, es el paseo diario ideal con perro, con correa.`,
+        pt: `Largo passeio panorâmico quase plano acima da vila, traçado para os termalistas imperiais. Sombreado e fresco, é o passeio diário ideal com cão, pela trela.`,
+      } },
+      { name: 'Kötschachtal', emoji: '🏞️', petFriendly: true, desc: {
+        fr: `Vallée latérale au fond plat longée par un torrent, jusqu'à l'Alpenhaus Prossau (1 278 m). Deux refuges dog-friendly en chemin et de l'eau partout : LA randonnée canine de la vallée.`,
+        en: `A flat-floored side valley following a stream up to the Alpenhaus Prossau (1,278 m). Two dog-friendly huts en route and water everywhere: THE dog hike of the valley.`,
+        es: `Valle lateral de fondo llano junto a un arroyo, hasta el Alpenhaus Prossau (1.278 m). Dos cabañas que admiten perros en el camino y agua por todas partes: LA ruta canina del valle.`,
+        pt: `Vale lateral de fundo plano ao longo de um ribeiro, até ao Alpenhaus Prossau (1.278 m). Duas cabanas que aceitam cães pelo caminho e água por todo o lado: O passeio canino do vale.`,
+      } },
+      { name: 'Sportgastein', emoji: '⛰️', petFriendly: true, desc: {
+        fr: `Haut vallon alpin vers 1 600 m au-delà de Böckstein, atteint par la route alpine de Gastein. Prairies ouvertes et sentiers d'altitude ; chien en laisse près des troupeaux en estive.`,
+        en: `A high alpine valley at about 1,600 m beyond Böckstein, reached via the Gastein alpine road. Open meadows and high trails; keep the dog leashed near summer-grazing herds.`,
+        es: `Alto valle alpino hacia los 1.600 m más allá de Böckstein, alcanzado por la carretera alpina de Gastein. Praderas abiertas y senderos de altura; perro con correa cerca del ganado en verano.`,
+        pt: `Alto vale alpino perto dos 1.600 m para lá de Böckstein, alcançado pela estrada alpina de Gastein. Prados abertos e trilhos de altitude; cão pela trela perto do gado no verão.`,
+      } },
+      { name: 'Gasteiner Museum', emoji: '🏛️', petFriendly: false, desc: {
+        fr: `Musée d'histoire locale au cœur de la ville Belle Époque, consacré aux thermes, à l'or de la vallée et à l'âge d'or hôtelier. Intérieur réservé aux chiens d'assistance.`,
+        en: `Local history museum in the Belle Époque heart of town, covering the spa story, the valley's gold-mining past and the grand hotel era. Interior reserved for assistance dogs.`,
+        es: `Museo de historia local en el corazón Belle Époque del pueblo, dedicado a las termas, el pasado minero del oro y la era de los grandes hoteles. Interior reservado a perros de asistencia.`,
+        pt: `Museu de história local no coração Belle Époque da vila, dedicado às termas, ao passado mineiro do ouro e à era dos grandes hotéis. Interior reservado a cães de assistência.`,
+      } },
+    ],
+    petTips: {
+      fr: [
+        `Ayez toujours une muselière sur vous : elle est obligatoire avec la laisse dans les trains ÖBB et les bus de la vallée, et recommandée dans les télécabines.`,
+        `De juin à septembre, les alpages sont pâturés : tenez le chien en laisse et contournez largement les troupeaux, première cause d'incidents canins en montagne autrichienne.`,
+        `Le sentier de la cascade ferme en hiver et les escaliers de la ville sont saupoudrés de gravillons et de sel : protégez les coussinets de décembre à mars.`,
+        `Les thermes (Felsentherme, Alpentherme, galerie de radon) n'admettent jamais les chiens : réservez le dog-sitting de l'hôtel en même temps que les soins.`,
+        `En altitude, la météo tourne vite même en août : serviette, eau et vérification des prévisions avant une journée au Stubnerkogel ; le torrent du Kötschachtal sert de point d'eau permanent.`,
+      ],
+      en: [
+        `Carry a muzzle at all times: it is compulsory with the leash on ÖBB trains and valley buses, and recommended in the gondolas.`,
+        `From June to September the alpine pastures are grazed: keep the dog leashed and give herds a wide berth, the top cause of dog incidents in the Austrian mountains.`,
+        `The waterfall trail closes in winter and the town's staircases are gritted and salted: protect paws from December to March.`,
+        `The thermal baths (Felsentherme, Alpentherme, radon gallery) never admit dogs: book the hotel's dog-sitting together with your treatments.`,
+        `At altitude the weather turns fast even in August: towel, water and a forecast check before a Stubnerkogel day; the Kötschachtal stream is a permanent water stop.`,
+      ],
+      es: [
+        `Lleva siempre un bozal encima: es obligatorio junto con la correa en los trenes ÖBB y los autobuses del valle, y recomendado en las góndolas.`,
+        `De junio a septiembre los pastos alpinos están ocupados: lleva al perro con correa y rodea ampliamente los rebaños, primera causa de incidentes caninos en la montaña austriaca.`,
+        `El sendero de la cascada cierra en invierno y las escaleras del pueblo se cubren de gravilla y sal: protege las almohadillas de diciembre a marzo.`,
+        `Las termas (Felsentherme, Alpentherme, galería de radón) nunca admiten perros: reserva el cuidado de perros del hotel junto con los tratamientos.`,
+        `En altura el tiempo cambia rápido incluso en agosto: toalla, agua y consulta del pronóstico antes de un día en el Stubnerkogel; el arroyo del Kötschachtal es un punto de agua permanente.`,
+      ],
+      pt: [
+        `Traga sempre um açaime consigo: é obrigatório junto com a trela nos comboios ÖBB e nos autocarros do vale, e recomendado nas gôndolas.`,
+        `De junho a setembro os prados alpinos estão ocupados pelo gado: mantenha o cão pela trela e contorne amplamente as manadas, principal causa de incidentes caninos na montanha austríaca.`,
+        `O trilho da cascata fecha no inverno e as escadarias da vila são cobertas de gravilha e sal: proteja as almofadinhas de dezembro a março.`,
+        `As termas (Felsentherme, Alpentherme, galeria de radão) nunca admitem cães: reserve o dog-sitting do hotel junto com os tratamentos.`,
+        `Em altitude o tempo muda depressa mesmo em agosto: toalha, água e consulta da previsão antes de um dia no Stubnerkogel; o ribeiro do Kötschachtal é um ponto de água permanente.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire de la vallée : Tierarztpraxis Mag. Katrin Laubichler, Achenstraße 17, Bad Hofgastein (7 km), +43 664 3840438, consultations petits animaux lun/mer/ven 11h-13h sur rendez-vous téléphonique.`,
+        `Urgences : téléphonez d'abord au cabinet (répondeur orientant vers la garde tournante du Land de Salzbourg) ; le 112 est réservé aux urgences humaines.`,
+        `Transports : muselière + laisse obligatoires dans les trains ÖBB (forfait 2 EUR jusqu'à 98 km) et les bus SVV (tarif minimum) ; petits chiens en caisse gratuits ; remontées de Gastein 5 EUR/jour par chien.`,
+        `Réglementation locale : les communes du Land de Salzbourg imposent laisse ou muselière dans l'espace public ; en pratique, laisse partout en ville et sur les promenades.`,
+        `Documents : règles UE standard (passeport animal, puce, vaccin antirabique valide) ; aucune quarantaine pour les arrivées depuis l'UE.`,
+      ],
+      en: [
+        `Valley vet: Tierarztpraxis Mag. Katrin Laubichler, Achenstraße 17, Bad Hofgastein (7 km), +43 664 3840438, small-animal surgery Mon/Wed/Fri 11:00-13:00 by phone appointment.`,
+        `Emergencies: phone the practice first (its answering service points to the Salzburg province rotating on-call vet); 112 is for human emergencies only.`,
+        `Transport: muzzle + leash compulsory on ÖBB trains (flat 2 EUR up to 98 km) and SVV buses (minimum fare); small dogs in carriers free; Gastein lifts 5 EUR/day per dog.`,
+        `Local rules: Salzburg-province municipalities require leash or muzzle in public areas; in practice, leash everywhere in town and on the promenades.`,
+        `Documents: standard EU rules (pet passport, microchip, valid rabies vaccination); no quarantine for arrivals from within the EU.`,
+      ],
+      es: [
+        `Veterinaria del valle: Tierarztpraxis Mag. Katrin Laubichler, Achenstraße 17, Bad Hofgastein (7 km), +43 664 3840438, consulta de pequeños animales lun/mié/vie 11:00-13:00 con cita telefónica.`,
+        `Urgencias: llama primero a la consulta (su contestador remite al veterinario de guardia rotatorio del estado de Salzburgo); el 112 es solo para emergencias humanas.`,
+        `Transporte: bozal + correa obligatorios en los trenes ÖBB (2 EUR fijos hasta 98 km) y los autobuses SVV (tarifa mínima); perros pequeños en transportín gratis; remontes de Gastein 5 EUR/día por perro.`,
+        `Normativa local: los municipios del estado de Salzburgo exigen correa o bozal en zonas públicas; en la práctica, correa en todo el pueblo y en los paseos.`,
+        `Documentos: reglas estándar de la UE (pasaporte de mascota, microchip, vacuna antirrábica vigente); sin cuarentena para llegadas desde la UE.`,
+      ],
+      pt: [
+        `Veterinária do vale: Tierarztpraxis Mag. Katrin Laubichler, Achenstraße 17, Bad Hofgastein (7 km), +43 664 3840438, consulta de pequenos animais seg/qua/sex 11:00-13:00 com marcação telefónica.`,
+        `Emergências: telefone primeiro ao consultório (o atendedor remete para o veterinário de serviço rotativo do estado de Salzburgo); o 112 é apenas para emergências humanas.`,
+        `Transportes: açaime + trela obrigatórios nos comboios ÖBB (2 EUR fixos até 98 km) e nos autocarros SVV (tarifa mínima); cães pequenos em transportadora grátis; teleféricos de Gastein 5 EUR/dia por cão.`,
+        `Regras locais: os municípios do estado de Salzburgo exigem trela ou açaime nos espaços públicos; na prática, trela em toda a vila e nos passeios.`,
+        `Documentos: regras padrão da UE (passaporte de animal, microchip, vacina antirrábica válida); sem quarentena para chegadas de dentro da UE.`,
+      ],
+    },
+  },
+
   barcelona: {
     history: {
       fr: `Barcelone, fondée par les Romains sous le nom de Barcino vers 15 av. J.-C., est devenue au Moyen Âge la capitale de la Couronne d'Aragon, l'une des puissances maritimes majeures de la Méditerranée. La ville doit son visage actuel au visionnaire Ildefons Cerdà, dont le plan d'extension de 1860, l'Eixample, a créé ce quadrillage orthogonal caractéristique avec ses blocs arrondis et ses rues larges de 20 mètres. Gaudí a ensuite sculpté l'âme de la ville avec la Sagrada Família, le Parc Güell et la Casa Batlló. Aujourd'hui, Barcelone est l'une des villes d'Europe où le nombre d'animaux de compagnie croît le plus vite, et ses espaces verts et plages s'adaptent progressivement à cette réalité.`,

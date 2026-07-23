@@ -3110,6 +3110,201 @@
     "petPolicyPt": "Best Western Plus Hôtel du Parc, um 3-star hotel near o train station com em-site free parking, welcomes animais em 12 € por noite. One animal per quarto standard, second em prior pedido. Avignon Centre station 5 min em foot, intra-muros 10 min."
   },
   {
+    "id": "bad-gastein-1",
+    "name": "Urban Nature Bad Gastein - Badeschloss",
+    "destinationSlug": "bad-gastein",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1592,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/badeschloss.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Spa & wellness centre",
+      "Parking"
+    ],
+    "slug": "urban-nature-bad-gastein-badeschloss-bad-gastein"
+  },
+  {
+    "id": "bad-gastein-2",
+    "name": "Hotel Salzburger Hof",
+    "destinationSlug": "bad-gastein",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 637,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/salzburger-hof-bad-gastein.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Free parking"
+    ],
+    "slug": "hotel-salzburger-hof-bad-gastein"
+  },
+  {
+    "id": "bad-gastein-3",
+    "name": "MONDI Hotel Bellevue Gastein",
+    "destinationSlug": "bad-gastein",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 2212,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/mondi-holiday-bellevue.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Free parking"
+    ],
+    "slug": "mondi-hotel-bellevue-gastein-bad-gastein"
+  },
+  {
+    "id": "bad-gastein-4",
+    "name": "Residenz Boutique Suites",
+    "destinationSlug": "bad-gastein",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 682,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/die-residenz-bad-gastein.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "residenz-boutique-suites-bad-gastein"
+  },
+  {
+    "id": "bad-gastein-5",
+    "name": "Franzls Panorama Appartements",
+    "destinationSlug": "bad-gastein",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.2,
+    "reviewCount": 107,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/franzls-panorama-appartements-bad-gastein.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "franzls-panorama-appartements-bad-gastein"
+  },
+  {
+    "id": "bad-gastein-6",
+    "name": "Apartment Gschwandtner Haus Stoareich",
+    "destinationSlug": "bad-gastein",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.7,
+    "reviewCount": 32,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/apartment-gschwandtner-haus-stoareich.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Good free WiFi (16 Mbps)",
+      "Family rooms"
+    ],
+    "slug": "apartment-gschwandtner-haus-stoareich-bad-gastein"
+  },
+  {
+    "id": "bad-gastein-7",
+    "name": "Club Alpenresidenz Gastein",
+    "destinationSlug": "bad-gastein",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 533,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/club-alpenresidenz.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Fitness centre"
+    ],
+    "slug": "club-alpenresidenz-gastein-bad-gastein"
+  },
+  {
+    "id": "bad-gastein-8",
+    "name": "AAA FeWo Bad Gastein/Böckstein",
+    "destinationSlug": "bad-gastein",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 56,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/aaa-fewo-bad-gastein-47-bockstein.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "aaa-fewo-bad-gastein-bockstein-bad-gastein"
+  },
+  {
     "id": "barcelona-1",
     "name": "The One Barcelona GL",
     "destinationSlug": "barcelona",

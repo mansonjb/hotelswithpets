@@ -1659,6 +1659,81 @@
     "countryCode": "FR"
   },
   {
+    "slug": "bad-gastein",
+    "name": "Bad Gastein",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/bad-gastein.jpg",
+    "iata": "SZG",
+    "intro": "The Belle Epoque spa town that hangs over a 341-metre waterfall is quietly excellent with a dog: the Stubnerkogel gondola carries dogs up to a 2,246 m suspension bridge for 5 EUR, the flat Kotschachtal valley trail passes two dog-friendly huts, the Kaiser-Wilhelm-Promenade gives an easy shaded daily walk, and pet-specialist hotels even offer dog-sitting while you take the thermal waters.",
+    "lat": 47.1122,
+    "lng": 13.1347,
+    "weather": {
+      "jan": {
+        "temp": -2,
+        "desc": "Snowy ski season",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Late winter sun",
+        "icon": "🌨️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Thawing slopes",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Fresh green meadows",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild alpine summer",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm hiking days",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 17,
+        "desc": "Warm with storms",
+        "icon": "🌦️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Crisp golden autumn",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool & colourful",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "First snowfalls",
+        "icon": "🌨️"
+      },
+      "dec": {
+        "temp": -1,
+        "desc": "Snowy & festive",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "barcelona",
     "name": "Barcelona",
     "country": "Spain",
@@ -17241,6 +17316,81 @@
       }
     },
     "iata": "OLB"
+  },
+  {
+    "slug": "olhao",
+    "name": "Olhão",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "flag": "🇵🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/olhao.jpg",
+    "intro": "Olhão, the Algarve's most authentic working fishing port, pairs a cubist whitewashed old town and the famous 1916 red-brick waterfront markets with direct ferries into the Parque Natural da Ria Formosa and its barrier islands of Armona, Culatra and Farol. Municipal dog parks, flat waterfront gardens and near-empty island beaches from October to May make it a natural base for travelling with a dog, with Faro airport only 15 minutes away.",
+    "lat": 37.0257,
+    "lng": -7.8411,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      }
+    },
+    "iata": "FAO"
   },
   {
     "slug": "olomouc",

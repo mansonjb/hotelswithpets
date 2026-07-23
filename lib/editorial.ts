@@ -5873,6 +5873,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `a praia para cães de Le Saline, o Parco Fausto Noce e o poço sagrado de Sa Testa`,
       area: `o centro histórico em redor do Corso Umberto, a frente de mar de Pittulongu e a costa da Costa Smeralda`,
     },
+    olhao: {
+      personality: `o porto de pesca mais autêntico do Algarve, onde uma baixa cubista caiada e os mercados de tijolo vermelho de 1916 se abrem para a laguna da Ria Formosa e as suas ilhas-barreira de Armona, Culatra e Farol`,
+      highlight: `o Parque Canino do Levante, os jardins ribeirinhos junto aos mercados e as praias das ilhas de Armona e Culatra fora de época`,
+      area: `a baixa cubista, a frente ribeirinha dos mercados e as ilhas da Ria Formosa`,
+    },
     budva: {
       personality: `uma animada estância balnear do Adriático em torno da cidade velha muralhada de Stari Grad, da longa praia de Slovenska Plaza, do trilho costeiro de falésia de Mogren e da vista de postal da vizinha Sveti Stefan`,
       highlight: `o trilho costeiro de Mogren, a marginal de Slovenska Plaza e as ruelas da cidade velha de Stari Grad`,

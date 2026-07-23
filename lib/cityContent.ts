@@ -29470,6 +29470,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  olhao: {
+    history: {
+      fr: `Olhão n'a ni château ni cathédrale : la ville est née de la mer, au XVIIIe siècle, quand des familles de pêcheurs s'installèrent sur ces bancs de sable face à la Ria Formosa. Son âge d'or vint de la conserve de thon et de sardine, dont les usines dessinèrent la ville ouvrière du XIXe siècle. Le commerce direct avec l'Afrique du Nord laissa une empreinte unique en Algarve : le Bairro da Barreta, dédale de maisons cubiques blanchies à toits plats et açoteias, valut à Olhão le surnom de « ville cubiste ». En 1808, un petit bateau, le Bom Sucesso, partit d'ici traverser l'Atlantique jusqu'au Brésil pour annoncer au roi la révolte contre les troupes napoléoniennes, geste qui donna à Olhão son titre de ville. Aujourd'hui, les deux halles de brique rouge de 1916 restent le cœur battant de la cité, et le quai voisin envoie les bateaux vers Armona, Culatra et Farol. Pour un chien, Olhão est une vraie ville de tous les jours, plate et vivante, tournée vers la lagune.`,
+      en: `Olhão has no castle and no cathedral: the town was born from the sea in the 18th century, when fishing families settled on these sandbanks facing the Ria Formosa. Its golden age came from canning tuna and sardines, whose factories shaped the working-class 19th-century town. Direct trade with North Africa left a mark unique in the Algarve: the Bairro da Barreta, a maze of whitewashed flat-roofed cube houses with rooftop terraces (açoteias), earned Olhão the nickname of the "cubist town". In 1808 a small boat, the Bom Sucesso, sailed from here across the Atlantic to Brazil to tell the king of the revolt against Napoleon's troops, a deed that won Olhão its town charter. Today the twin red-brick market halls of 1916 remain the beating heart of the town, and the pier beside them sends boats out to Armona, Culatra and Farol. For a dog, Olhão is a real everyday town, flat and alive, turned towards the lagoon.`,
+      es: `Olhão no tiene castillo ni catedral: la ciudad nació del mar en el siglo XVIII, cuando familias de pescadores se instalaron en estos bancos de arena frente a la Ría Formosa. Su edad de oro llegó con la conserva de atún y sardina, cuyas fábricas moldearon la ciudad obrera del siglo XIX. El comercio directo con el norte de África dejó una huella única en el Algarve: el Bairro da Barreta, laberinto de casas cúbicas encaladas de azoteas planas (açoteias), valió a Olhão el apodo de "ciudad cubista". En 1808 un pequeño barco, el Bom Sucesso, zarpó de aquí cruzando el Atlántico hasta Brasil para anunciar al rey la revuelta contra las tropas de Napoleón, gesto que dio a Olhão su título de ciudad. Hoy los dos mercados de ladrillo rojo de 1916 siguen siendo el corazón de la ciudad, y el muelle contiguo envía los barcos hacia Armona, Culatra y Farol. Para un perro, Olhão es una ciudad de verdad, cotidiana, llana y viva, vuelta hacia la laguna.`,
+      pt: `Olhão não tem castelo nem catedral: a cidade nasceu do mar no século XVIII, quando famílias de pescadores se fixaram nestes bancos de areia frente à Ria Formosa. O seu apogeu veio da conserva de atum e sardinha, cujas fábricas moldaram a cidade operária do século XIX. O comércio direto com o Norte de África deixou uma marca única no Algarve: o Bairro da Barreta, labirinto de casas cúbicas caiadas de telhado plano e açoteias, valeu a Olhão a alcunha de "cidade cubista". Em 1808 um pequeno barco, o Bom Sucesso, partiu daqui atravessando o Atlântico até ao Brasil para anunciar ao rei a revolta contra as tropas de Napoleão, gesto que deu a Olhão o seu foral de cidade. Hoje os dois mercados de tijolo vermelho de 1916 continuam a ser o coração da cidade, e o cais ao lado envia os barcos para a Armona, Culatra e Farol. Para um cão, Olhão é uma cidade a sério, do dia a dia, plana e viva, virada para a laguna.`,
+    },
+    sights: [
+      {
+        name: 'Mercados de Olhão',
+        emoji: '🐟',
+        petFriendly: false,
+        desc: {
+          fr: `Les deux halles jumelles de brique rouge de 1916, poisson d'un côté, fruits et légumes de l'autre, sont l'emblème d'Olhão. Les chiens n'entrent pas dans les halles, mais l'extérieur à arcades et l'esplanade se parcourent en laisse.`,
+          en: `The twin red-brick market halls of 1916, fish on one side, fruit and vegetables on the other, are the emblem of Olhão. Dogs cannot enter the halls, but the arcaded exterior and the esplanade are walkable on the leash.`,
+          es: `Los dos mercados gemelos de ladrillo rojo de 1916, pescado en uno y frutas y verduras en otro, son el emblema de Olhão. Los perros no entran en las naves, pero el exterior porticado y la explanada se recorren con correa.`,
+          pt: `Os dois mercados gémeos de tijolo vermelho de 1916, peixe de um lado, fruta e legumes do outro, são o emblema de Olhão. Os cães não entram nas naves, mas o exterior em arcadas e a esplanada percorrem-se à trela.`,
+        },
+      },
+      {
+        name: 'Bairro da Barreta',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `La vieille ville cubiste : ruelles étroites, maisons blanches à toits plats et terrasses, influence nord-africaine unique en Algarve. Une superbe promenade en laisse, à faire tôt le matin quand la chaux ne renvoie pas encore la chaleur.`,
+          en: `The cubist old town: narrow lanes, white flat-roofed houses and rooftop terraces, a North-African influence unique in the Algarve. A superb leashed walk, best early when the whitewash does not yet bounce the heat.`,
+          es: `El casco antiguo cubista: callejuelas estrechas, casas blancas de azotea plana y terrazas, influencia norteafricana única en el Algarve. Un paseo magnífico con correa, mejor temprano cuando la cal aún no devuelve el calor.`,
+          pt: `A baixa cubista: ruelas estreitas, casas brancas de telhado plano e açoteias, influência norte-africana única no Algarve. Um passeio soberbo à trela, melhor de manhã cedo quando a cal ainda não devolve o calor.`,
+        },
+      },
+      {
+        name: 'Ilha da Armona',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Île-barrière de la Ria Formosa, à 20 min de bateau, avec une immense plage atlantique quasi déserte hors saison. Chien en laisse bienvenu d'octobre à mai ; interdiction sur la zone surveillée du 1er juin au 30 septembre.`,
+          en: `A Ria Formosa barrier island, 20 min by boat, with a vast, near-empty Atlantic beach off season. Leashed dogs welcome October to May; banned from the supervised zone from 1 June to 30 September.`,
+          es: `Isla barrera de la Ría Formosa, a 20 min en barco, con una inmensa playa atlántica casi vacía fuera de temporada. Perro con correa bienvenido de octubre a mayo; prohibido en la zona vigilada del 1 de junio al 30 de septiembre.`,
+          pt: `Ilha-barreira da Ria Formosa, a 20 min de barco, com um imenso areal atlântico quase vazio fora de época. Cão à trela bem-vindo de outubro a maio; proibido na zona vigiada de 1 de junho a 30 de setembro.`,
+        },
+      },
+      {
+        name: 'Ilha da Culatra e Farol',
+        emoji: '🏝️',
+        petFriendly: true,
+        desc: {
+          fr: `Île de pêcheurs habitée, avec le phare de 1851 et de longues plages océaniques reliées par des passerelles sur les dunes. Chien en laisse (parc naturel) ; mêmes restrictions estivales que partout au Portugal.`,
+          en: `A living fishing island with the 1851 lighthouse and long ocean beaches linked by dune boardwalks. Dogs on the leash (natural park); the same summer restrictions as everywhere in Portugal.`,
+          es: `Isla pesquera habitada, con el faro de 1851 y largas playas oceánicas unidas por pasarelas sobre las dunas. Perro con correa (parque natural); las mismas restricciones estivales que en todo Portugal.`,
+          pt: `Ilha piscatória habitada, com o farol de 1851 e longas praias oceânicas ligadas por passadiços sobre as dunas. Cão à trela (parque natural); as mesmas restrições de verão que em todo o Portugal.`,
+        },
+      },
+      {
+        name: 'Jardim Pescador Olhanense',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Le grand jardin du front de mer, entre les marchés et la lagune, avec arbres matures et promenade plate au bord de l'eau. Boucle facile en laisse reliant l'embarcadère des îles ; ombre le matin.`,
+          en: `The main waterfront garden, between the markets and the lagoon, with mature trees and a flat water's-edge promenade. An easy leashed loop linking the island pier; shade in the morning.`,
+          es: `El gran jardín del paseo marítimo, entre los mercados y la laguna, con árboles maduros y paseo llano junto al agua. Recorrido fácil con correa que enlaza el embarcadero de las islas; sombra por la mañana.`,
+          pt: `O grande jardim ribeirinho, entre os mercados e a laguna, com árvores maduras e passeio plano à beira da água. Volta fácil à trela que liga o cais das ilhas; sombra de manhã.`,
+        },
+      },
+      {
+        name: 'Parque Canino do Levante',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Parc canin municipal ouvert en 2023 dans le parc du Levante : plus de 4 000 m2 clôturés avec tunnel, anneau de saut, passerelles et barres d'agility. Zone de liberté sûre, à privilégier tôt ou en fin de journée l'été.`,
+          en: `A municipal dog park opened in 2023 in the Levante park: over 4,000 m2 fenced with a tunnel, jump ring, bridges and agility bars. A safe off-leash run, best early or late in summer.`,
+          es: `Parque canino municipal abierto en 2023 en el parque del Levante: más de 4.000 m2 vallados con túnel, aro de salto, pasarelas y barras de agility. Zona sin correa segura, mejor temprano o al final del día en verano.`,
+          pt: `Parque canino municipal inaugurado em 2023 no parque do Levante: mais de 4.000 m2 vedados com túnel, argola de salto, pontes e barras de agilidade. Espaço sem trela seguro, melhor cedo ou ao fim do dia no verão.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Época balnear du 1er juin au 30 septembre : chiens interdits sur les plages surveillées d'Olhão, avec amendes. Privilégiez octobre-mai pour les îles.`,
+        `Ferries réguliers vers les îles : chiens acceptés uniquement en caisse de transport. Pour un grand chien, réservez un aqua-taxi (chiens admis sur le pont).`,
+        `Vous êtes dans le Parc naturel de la Ria Formosa : laisse obligatoire près des dunes et des vasières, habitat d'oiseaux protégés.`,
+        `Algarve endémique de leishmaniose : collier ou pipette répulsive du printemps à l'automne, surtout au crépuscule.`,
+        `Races catégorisées (pitbull, rottweiler, etc.) : laisse et muselière obligatoires en public et exclusion de la plupart des transports.`,
+      ],
+      en: [
+        `Bathing season 1 June to 30 September: dogs banned from Olhão's supervised beaches, with fines. Favour October-May for the islands.`,
+        `Scheduled island ferries: dogs only in a carrier. For a large dog, book an aqua-taxi (dogs allowed on deck).`,
+        `You are inside the Ria Formosa Natural Park: keep the leash on near dunes and lagoon flats, a protected bird habitat.`,
+        `The Algarve is endemic for leishmaniasis: use a repellent collar or spot-on from spring to autumn, especially at dusk.`,
+        `Categorized breeds (pit bull, rottweiler, etc.): leash and muzzle are mandatory in public and they are barred from most transport.`,
+      ],
+      es: [
+        `Temporada de baño del 1 de junio al 30 de septiembre: perros prohibidos en las playas vigiladas de Olhão, con multas. Prioriza octubre-mayo para las islas.`,
+        `Ferris regulares a las islas: perros solo en transportín. Para un perro grande, reserva un aqua-taxi (perros admitidos en cubierta).`,
+        `Estás dentro del Parque Natural de la Ría Formosa: correa obligatoria cerca de dunas y marismas, hábitat de aves protegidas.`,
+        `Algarve endémico de leishmaniasis: collar o pipeta repelente de primavera a otoño, sobre todo al anochecer.`,
+        `Razas categorizadas (pitbull, rottweiler, etc.): correa y bozal obligatorios en público y exclusión de la mayoría del transporte.`,
+      ],
+      pt: [
+        `Época balnear de 1 de junho a 30 de setembro: cães proibidos nas praias vigiadas de Olhão, com coimas. Prefira outubro-maio para as ilhas.`,
+        `Carreiras regulares para as ilhas: cães só em transportadora. Para um cão grande, reserve um táxi aquático (cães admitidos no convés).`,
+        `Está dentro do Parque Natural da Ria Formosa: trela obrigatória junto às dunas e sapais, habitat de aves protegidas.`,
+        `Algarve endémico de leishmaniose: coleira ou pipeta repelente da primavera ao outono, sobretudo ao anoitecer.`,
+        `Raças categorizadas (pitbull, rottweiler, etc.): trela e açaime obrigatórios em público e exclusão da maioria dos transportes.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences vétérinaires : Centro Veterinário Porto Seguro (+351 289 707 303, urgence +351 967 721 777) et 115 Animal (+351 289 715 115), tous deux 24 h ; hôpital 24/7 à Faro (+351 289 880 100).`,
+        `Il n'existe aucune plage canine officielle dans le concelho d'Olhão : suivez la signalétique sur place, la tolérance n'est pas un droit.`,
+        `Train régional CP : petit chien gratuit en caisse fermée, grand chien muselé en laisse à demi-tarif (billet au guichet, carnet + puce exigés). Faro à 10 min.`,
+        `Portugal dans l'UE : passeport animalier, puce et vaccin antirabique valide suffisent pour entrer depuis un autre pays de l'UE.`,
+        `Deux parcs canins municipaux (Levante et Pinheiros de Marim) ; d'autres prévus dans le concelho. Peu d'ombre l'été, sorties tôt ou tard.`,
+      ],
+      en: [
+        `Vet emergencies: Centro Veterinário Porto Seguro (+351 289 707 303, emergency +351 967 721 777) and 115 Animal (+351 289 715 115), both 24h; 24/7 hospital in Faro (+351 289 880 100).`,
+        `There is no official dog beach in the Olhão concelho: follow the on-site signage, tolerance is not a right.`,
+        `CP regional train: a small dog travels free in a closed carrier, a large dog muzzled and leashed at half fare (ticket at the counter, vaccination book + microchip required). Faro is 10 min away.`,
+        `Portugal is in the EU: an EU pet passport, microchip and valid rabies vaccination are enough to enter from another EU country.`,
+        `Two municipal dog parks (Levante and Pinheiros de Marim), with more planned across the concelho. Little shade in summer, so walk early or late.`,
+      ],
+      es: [
+        `Urgencias veterinarias: Centro Veterinário Porto Seguro (+351 289 707 303, urgencia +351 967 721 777) y 115 Animal (+351 289 715 115), ambos 24 h; hospital 24/7 en Faro (+351 289 880 100).`,
+        `No existe ninguna playa canina oficial en el municipio de Olhão: sigue la señalización local, la tolerancia no es un derecho.`,
+        `Tren regional de CP: perro pequeño gratis en transportín cerrado, perro grande con bozal y correa a mitad de tarifa (billete en taquilla, cartilla + microchip exigidos). Faro a 10 min.`,
+        `Portugal en la UE: pasaporte de mascota, microchip y vacuna antirrábica vigente bastan para entrar desde otro país de la UE.`,
+        `Dos parques caninos municipales (Levante y Pinheiros de Marim), con más previstos en el municipio. Poca sombra en verano, pasea temprano o tarde.`,
+      ],
+      pt: [
+        `Urgências veterinárias: Centro Veterinário Porto Seguro (+351 289 707 303, urgência +351 967 721 777) e 115 Animal (+351 289 715 115), ambos 24h; hospital 24/7 em Faro (+351 289 880 100).`,
+        `Não existe nenhuma praia canina oficial no concelho de Olhão: siga a sinalização no local, a tolerância não é um direito.`,
+        `Comboio regional da CP: cão pequeno grátis em caixa fechada, cão grande com açaime e trela a meio preço (bilhete na bilheteira, boletim + microchip exigidos). Faro a 10 min.`,
+        `Portugal está na UE: passaporte de animal, microchip e vacina antirrábica válida bastam para entrar vindo de outro país da UE.`,
+        `Dois parques caninos municipais (Levante e Pinheiros de Marim), com mais previstos pelo concelho. Pouca sombra no verão, passeie cedo ou ao fim do dia.`,
+      ],
+    },
+  },
+
   olomouc: {
     history: {
       fr: `Olomouc, capitale historique de la Moravie, fut l'une des plus puissantes villes des terres tchèques : siège épiscopal dès 1063, université fondée en 1573, et forteresse impériale qui hébergea la cour des Habsbourg fuyant la révolution de 1848. Sa colonne de la Sainte-Trinité, 35 mètres de sculpture baroque achevés en 1754, est classée UNESCO depuis 2000, et ses six fontaines baroques ponctuent des places où l'horloge astronomique communiste de 1955 répond à l'hôtel de ville gothique. Ville universitaire d'environ 100 000 habitants, Olomouc reste le grand secret anti-surtourisme d'Europe centrale : les monuments de Prague sans les foules. Avec un chien, la configuration est idéale : ceinture de parcs sur les anciens remparts (laisse obligatoire), plaine alluviale de la Morava pour les courses libres, colline forestière de Svatý Kopeček, et rareté absolue, un zoo qui admet les chiens muselés en laisse pour 100 CZK.`,

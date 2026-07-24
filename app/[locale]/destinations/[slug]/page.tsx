@@ -25,8 +25,14 @@ type DestWithWeather = typeof destinations[number] & {
   weather?: Record<string, { temp: number; desc: string; icon: string }>
 }
 
+// On-demand ISR rendering to reduce build output file count (same fix as
+// hotels/[slug] and [destination]/[category]: this is the exact route family
+// the daily hwp-ship-city-16h cron touches, was rebuilding all 377
+// destinations × 4 locales = ~1,508 pages for a single new destination).
+export const dynamicParams = true
+export const revalidate = 86400 // 1 day ISR cache
 export async function generateStaticParams() {
-  return destinations.map((d) => ({ slug: d.slug }))
+  return []
 }
 
 export async function generateMetadata({ params }: PageProps<'/[locale]/destinations/[slug]'>): Promise<Metadata> {

@@ -22126,6 +22126,81 @@
     "iata": "JTR"
   },
   {
+    "slug": "sanxenxo",
+    "name": "Sanxenxo",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/sanxenxo.jpg",
+    "intro": "Sanxenxo is Galicia's premier Rías Baixas beach resort in Pontevedra, known for the 750 m Praia de Silgar, the long Silgar-Baltar seafront promenade and easy day trips to Combarro and the O Grove peninsula. Leashed dogs are welcome on its promenades and off-season beaches, and the nearest year-round dog beaches lie about 20 km away at O Grove.",
+    "lat": 42.4006,
+    "lng": -8.8069,
+    "weather": {
+      "jan": {
+        "temp": 13,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 13,
+        "desc": "Cool & showery",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild & changeable",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Fresh spring",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Mild & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 24,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild autumn",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "VGO"
+  },
+  {
     "slug": "saranda",
     "name": "Saranda",
     "country": "Albania",

@@ -38360,6 +38360,142 @@ const cityContent: Record<string, CityContent> = {
       ],
     },
   },
+  sanxenxo: {
+    history: {
+      fr: `Sanxenxo, station balnéaire d'environ 17 000 habitants sur la ría de Pontevedra, au cœur des Rías Baixas en Galice, est passée de villages de pêcheurs et de conserveries à l'une des destinations estivales les plus prisées du nord-ouest de l'Espagne, portée par sa lumière atlantique, ses fruits de mer et son vin Albariño. Son cœur est la Praia de Silgar, une plage urbaine de 750 m au pavillon bleu, prolongée par la promenade de bord de mer Silgar-Baltar qui relie la marina à Portonovo. Pour les propriétaires de chiens, Sanxenxo est agréable mais demande un peu de planification : les plages interdisent les chiens en pleine saison de baignade (1er juin au 30 septembre), la ville n'a pas de plage canine propre, et les excursions phares vers les îles Cíes et Ons sont interdites aux animaux car ce sont un parc national. Les chiens en laisse profitent en revanche des longues promenades côtières toute l'année, et les plages canines d'O Grove, ouvertes toute l'année, sont à une vingtaine de kilomètres.`,
+      en: `Sanxenxo, a resort town of about 17,000 on the ría of Pontevedra in the heart of Galicia's Rías Baixas, grew from fishing and canning villages into one of northwest Spain's most popular summer destinations, powered by its Atlantic light, seafood and Albariño wine. Its centrepiece is the Praia de Silgar, a 750 m Blue Flag urban beach, extended by the Silgar-Baltar seafront promenade that links the marina to Portonovo. For dog owners Sanxenxo is lovely but needs a little planning: the beaches ban dogs during the peak bathing season (1 June to 30 September), the town has no dog beach of its own, and the headline day trips to the Cíes and Ons islands are off-limits to pets because they are a national park. Leashed dogs do enjoy the long coastal promenades year-round, and the year-round dog beaches at O Grove are about twenty kilometres away.`,
+      es: `Sanxenxo, una localidad turística de unos 17.000 habitantes en la ría de Pontevedra, en el corazón de las Rías Baixas gallegas, pasó de aldeas de pesca y conserveras a uno de los destinos estivales más populares del noroeste de España, impulsada por su luz atlántica, su marisco y su vino Albariño. Su corazón es la Praia de Silgar, una playa urbana de 750 m con bandera azul, prolongada por el paseo marítimo Silgar-Baltar que une el puerto deportivo con Portonovo. Para los dueños de perros Sanxenxo es preciosa pero requiere algo de planificación: las playas prohíben los perros en plena temporada de baño (1 de junio al 30 de septiembre), la villa no tiene playa canina propia, y las excursiones estrella a las islas Cíes y Ons están prohibidas a las mascotas por ser un parque nacional. Los perros con correa sí disfrutan de los largos paseos costeros todo el año, y las playas caninas de O Grove, abiertas todo el año, están a unos veinte kilómetros.`,
+      pt: `Sanxenxo, uma localidade turística de cerca de 17.000 habitantes na ría de Pontevedra, no coração das Rías Baixas galegas, passou de aldeias de pesca e conserveiras a um dos destinos estivais mais populares do noroeste de Espanha, impulsionada pela sua luz atlântica, o seu marisco e o seu vinho Albariño. O seu coração é a Praia de Silgar, uma praia urbana de 750 m com bandeira azul, prolongada pelo passeio marítimo Silgar-Baltar que une a marina a Portonovo. Para os donos de cães Sanxenxo é linda mas exige algum planeamento: as praias proíbem os cães em plena época balnear (1 de junho a 30 de setembro), a vila não tem praia canina própria, e as excursões de destaque às ilhas Cíes e Ons estão proibidas a animais por serem um parque nacional. Os cães com trela desfrutam dos longos passeios costeiros todo o ano, e as praias caninas de O Grove, abertas todo o ano, ficam a cerca de vinte quilómetros.`,
+    },
+    sights: [
+      {
+        name: 'Praia de Silgar',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La plage urbaine emblématique de Sanxenxo, 750 m de sable fin au pavillon bleu en plein centre, bordée par la promenade et la marina. Les chiens en laisse y sont admis hors saison de baignade, mais interdits sur le sable du 1er juin au 30 septembre.`,
+          en: `Sanxenxo's iconic 750 m Blue Flag urban beach of fine sand in the heart of town, backed by the promenade and marina. Leashed dogs are allowed out of the bathing season but banned from the sand from 1 June to 30 September.`,
+          es: `La emblemática playa urbana de Sanxenxo, 750 m de arena fina con bandera azul en pleno centro, junto al paseo y la marina. Los perros con correa se admiten fuera de la temporada de baño, pero están prohibidos en la arena del 1 de junio al 30 de septiembre.`,
+          pt: `A emblemática praia urbana de Sanxenxo, 750 m de areia fina com bandeira azul em pleno centro, junto ao passeio e à marina. Os cães com trela são admitidos fora da época balnear, mas proibidos na areia de 1 de junho a 30 de setembro.`,
+        },
+      },
+      {
+        name: 'Paseo Marítimo Silgar-Baltar',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade phare de Sanxenxo, environ 6 km aller-retour de la marina aux plages de Silgar et Baltar et au parc de Punta Vicaño jusqu'à Portonovo. Une balade côtière plate, en laisse, idéale toute l'année quand les plages ferment aux chiens l'été.`,
+          en: `Sanxenxo's flagship promenade, about 6 km round trip from the marina past the Silgar and Baltar beaches and Punta Vicaño park to Portonovo. A flat, leashed coastal walk, ideal year-round when the beaches close to dogs in summer.`,
+          es: `El paseo insignia de Sanxenxo, unos 6 km ida y vuelta desde la marina por las playas de Silgar y Baltar y el parque de Punta Vicaño hasta Portonovo. Un paseo costero llano, con correa, ideal todo el año cuando las playas cierran a los perros en verano.`,
+          pt: `O passeio emblemático de Sanxenxo, cerca de 6 km ida e volta desde a marina pelas praias de Silgar e Baltar e o parque de Punta Vicaño até Portonovo. Um passeio costeiro plano, com trela, ideal todo o ano quando as praias fecham aos cães no verão.`,
+        },
+      },
+      {
+        name: 'Praia da Lanzada',
+        emoji: '🏝️',
+        petFriendly: true,
+        desc: {
+          fr: `Une vaste plage atlantique sauvage avec dunes et un promontoire coiffé d'une chapelle, sur l'isthme vers O Grove, magnifique pour une balade en laisse hors saison. Les chiens sont interdits sur le sable l'été, et il faut rester sur les sentiers pour protéger les dunes.`,
+          en: `A vast, wild Atlantic beach with dunes and a chapel-topped headland on the isthmus toward O Grove, superb for an off-season leashed walk. Dogs are banned from the sand in summer, and you should keep to the paths to protect the dunes.`,
+          es: `Una vasta playa atlántica salvaje con dunas y un promontorio coronado por una ermita, en el istmo hacia O Grove, magnífica para un paseo con correa fuera de temporada. Los perros están prohibidos en la arena en verano, y hay que seguir los senderos para proteger las dunas.`,
+          pt: `Uma vasta praia atlântica selvagem com dunas e um promontório coroado por uma ermida, no istmo em direção a O Grove, magnífica para um passeio com trela fora de época. Os cães estão proibidos na areia no verão, e deve seguir os trilhos para proteger as dunas.`,
+        },
+      },
+      {
+        name: 'Praias caninas de O Espiño e O Portiño',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Les plages canines officielles les plus proches, deux petites criques à San Vicente do Mar (O Grove), à environ 20 km, à côté de la marina de Pedras Negras. Sable clair et eaux calmes peu profondes, ouvertes aux chiens toute l'année, y compris l'été.`,
+          en: `The nearest official dog beaches, two small coves at San Vicente do Mar (O Grove) about 20 km away, beside the Pedras Negras marina. Pale sand and calm, shallow water, open to dogs year-round, summer included.`,
+          es: `Las playas caninas oficiales más cercanas, dos pequeñas calas en San Vicente do Mar (O Grove) a unos 20 km, junto a la marina de Pedras Negras. Arena clara y aguas calmas y poco profundas, abiertas a los perros todo el año, verano incluido.`,
+          pt: `As praias caninas oficiais mais próximas, duas pequenas enseadas em San Vicente do Mar (O Grove) a cerca de 20 km, junto à marina de Pedras Negras. Areia clara e águas calmas e pouco profundas, abertas aos cães todo o ano, verão incluído.`,
+        },
+      },
+      {
+        name: 'Combarro',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `L'un des plus jolis villages de Galice, à environ 15 km, célèbre pour son alignement d'hórreos (greniers en pierre) au bord de la ría, ses cruceiros et ses ruelles de pêcheurs. Les chiens en laisse peuvent flâner dans les rues et sur le quai.`,
+          en: `One of Galicia's prettiest villages about 15 km away, famous for its waterfront row of hórreos (stone granaries), cruceiros and narrow fishing lanes on the ría. Leashed dogs are welcome to wander the streets and quayside.`,
+          es: `Uno de los pueblos más bonitos de Galicia, a unos 15 km, famoso por su hilera de hórreos junto a la ría, sus cruceiros y sus callejuelas marineras. Los perros con correa pueden pasear por las calles y el muelle.`,
+          pt: `Uma das aldeias mais bonitas da Galiza, a cerca de 15 km, famosa pela sua fila de hórreos junto à ría, os seus cruzeiros e as suas ruelas piscatórias. Os cães com trela podem passear pelas ruas e pelo cais.`,
+        },
+      },
+      {
+        name: 'Illas Cíes e Ons',
+        emoji: '⛴️',
+        petFriendly: false,
+        desc: {
+          fr: `Les îles Cíes et Ons, joyaux du parc national des Îles Atlantiques, sont les excursions en bateau phares de la région, mais tous les animaux y sont interdits pour protéger l'écosystème, sauf les chiens guides. N'embarquez pas avec votre chien, prévoyez un garde ce jour-là.`,
+          en: `The Cíes and Ons islands, jewels of the Atlantic Islands National Park, are the region's headline boat trips, but all pets are banned there to protect the ecosystem, guide dogs excepted. Do not board with your dog; arrange a sitter for that day.`,
+          es: `Las islas Cíes y Ons, joyas del Parque Nacional de las Islas Atlánticas, son las excursiones en barco estrella de la región, pero todas las mascotas están prohibidas allí para proteger el ecosistema, salvo los perros guía. No embarques con tu perro; organiza un cuidador ese día.`,
+          pt: `As ilhas Cíes e Ons, joias do Parque Nacional das Ilhas Atlânticas, são as excursões de barco de destaque da região, mas todos os animais estão proibidos ali para proteger o ecossistema, exceto os cães-guia. Não embarque com o seu cão; organize um cuidador nesse dia.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les plages de Sanxenxo, dont Silgar, interdisent les chiens en saison de baignade (1er juin au 30 septembre) ; hors saison, les chiens en laisse y sont admis.`,
+        `Pour une baignade canine toute l'année, rabattez-vous sur les plages canines d'O Grove (O Espiño et O Portiño à San Vicente do Mar), à environ 20 km.`,
+        `N'embarquez jamais avec votre chien vers les îles Cíes ou Ons : ce sont un parc national où les animaux sont interdits, sauf chiens guides.`,
+        `Sanxenxo n'a pas de gare : arrivez par les aéroports de Vigo (VGO) ou Saint-Jacques (SCQ) et en voiture, ou en bus depuis Pontevedra ; une voiture est de loin le plus pratique.`,
+        `Chiens en laisse obligatoire en public, muselière pour les races PPP ; le climat atlantique est doux mais humide, prévoyez un imperméable et une prévention antiparasitaire (tiques).`,
+      ],
+      en: [
+        `Sanxenxo's beaches, including Silgar, ban dogs in the bathing season (1 June to 30 September); off-season leashed dogs are allowed.`,
+        `For a year-round dog swim, head to the O Grove dog beaches (O Espiño and O Portiño at San Vicente do Mar), about 20 km away.`,
+        `Never board a ferry to the Cíes or Ons islands with your dog: they are a national park where pets are banned, guide dogs excepted.`,
+        `Sanxenxo has no train station: arrive via Vigo (VGO) or Santiago (SCQ) airports and a car, or by bus from Pontevedra; a car is by far the easiest.`,
+        `Dogs must be leashed in public and potentially dangerous (PPP) breeds muzzled; the Atlantic climate is mild but wet, so pack rain gear and tick prevention.`,
+      ],
+      es: [
+        `Las playas de Sanxenxo, incluida Silgar, prohíben los perros en temporada de baño (1 de junio al 30 de septiembre); fuera de temporada se admiten con correa.`,
+        `Para un baño canino todo el año, ve a las playas caninas de O Grove (O Espiño y O Portiño en San Vicente do Mar), a unos 20 km.`,
+        `No embarques nunca con tu perro a las islas Cíes u Ons: son un parque nacional donde las mascotas están prohibidas, salvo perros guía.`,
+        `Sanxenxo no tiene estación de tren: llega por los aeropuertos de Vigo (VGO) o Santiago (SCQ) y en coche, o en autobús desde Pontevedra; el coche es con diferencia lo más práctico.`,
+        `Perros con correa obligatoria en público y bozal para las razas PPP; el clima atlántico es suave pero húmedo, lleva impermeable y prevención antiparasitaria (garrapatas).`,
+      ],
+      pt: [
+        `As praias de Sanxenxo, incluindo Silgar, proíbem os cães na época balnear (1 de junho a 30 de setembro); fora de época são admitidos com trela.`,
+        `Para um banho canino todo o ano, vá às praias caninas de O Grove (O Espiño e O Portiño em San Vicente do Mar), a cerca de 20 km.`,
+        `Nunca embarque com o seu cão para as ilhas Cíes ou Ons: são um parque nacional onde os animais estão proibidos, exceto cães-guia.`,
+        `Sanxenxo não tem estação de comboios: chegue pelos aeroportos de Vigo (VGO) ou Santiago (SCQ) e de carro, ou de autocarro a partir de Pontevedra; um carro é de longe o mais prático.`,
+        `Cães com trela obrigatória em público e açaime para as raças PPP; o clima atlântico é ameno mas húmido, leve impermeável e prevenção antiparasitária (carraças).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Plages : pas de plage canine dans la commune ; interdiction des chiens du 1er juin au 30 septembre, plages canines toute l'année à O Grove (environ 20 km).`,
+        `Vétérinaires : Clínica Veterinaria Portonovo (Ctra. de la Lanzada 28, +34 986 691 551, urgence hors horaires +34 696 599 164) et Centro Veterinario Sanxenxo (+34 986 691 845) ; le 112 concerne les humains.`,
+        `Transport : pas de gare à Sanxenxo, la plus proche est Pontevedra (environ 30 km) ; bus Monbus pour petits chiens en sac, voiture recommandée ; aéroports Vigo (VGO) et Saint-Jacques (SCQ).`,
+        `Îles : le parc national des Îles Atlantiques (Cíes, Ons) interdit tous les animaux sauf les chiens guides ; ne prévoyez pas d'excursion en bateau avec votre chien.`,
+        `Entrée : les visiteurs de l'UE ont besoin d'un passeport animalier européen, d'une puce et d'une vaccination antirabique valide ; hors UE, certificat sanitaire, vérifiez les règles MAPA.`,
+      ],
+      en: [
+        `Beaches: no dog beach in the municipality; dogs banned 1 June to 30 September, year-round dog beaches at O Grove (about 20 km).`,
+        `Vets: Clínica Veterinaria Portonovo (Ctra. de la Lanzada 28, +34 986 691 551, out-of-hours +34 696 599 164) and Centro Veterinario Sanxenxo (+34 986 691 845); the 112 line is human-focused.`,
+        `Transport: no station in Sanxenxo, the nearest is Pontevedra (about 30 km); Monbus buses take small dogs in a carrier, a car is recommended; airports Vigo (VGO) and Santiago (SCQ).`,
+        `Islands: the Atlantic Islands National Park (Cíes, Ons) bans all pets except guide dogs; do not plan a boat trip with your dog.`,
+        `Entry: EU visitors need an EU pet passport, microchip and valid rabies vaccination; non-EU visitors need an animal health certificate, check MAPA rules.`,
+      ],
+      es: [
+        `Playas: no hay playa canina en el municipio; perros prohibidos del 1 de junio al 30 de septiembre, playas caninas todo el año en O Grove (unos 20 km).`,
+        `Veterinarios: Clínica Veterinaria Portonovo (Ctra. de la Lanzada 28, +34 986 691 551, urgencias fuera de horario +34 696 599 164) y Centro Veterinario Sanxenxo (+34 986 691 845); el 112 es para personas.`,
+        `Transporte: no hay estación en Sanxenxo, la más cercana es Pontevedra (unos 30 km); autobuses Monbus para perros pequeños en transportín, se recomienda coche; aeropuertos Vigo (VGO) y Santiago (SCQ).`,
+        `Islas: el Parque Nacional de las Islas Atlánticas (Cíes, Ons) prohíbe todas las mascotas salvo perros guía; no planifiques una excursión en barco con tu perro.`,
+        `Entrada: los visitantes de la UE necesitan pasaporte europeo de mascotas, microchip y vacunación antirrábica válida; fuera de la UE, certificado sanitario, consulta las normas de MAPA.`,
+      ],
+      pt: [
+        `Praias: não há praia canina no concelho; cães proibidos de 1 de junho a 30 de setembro, praias caninas todo o ano em O Grove (cerca de 20 km).`,
+        `Veterinários: Clínica Veterinaria Portonovo (Ctra. de la Lanzada 28, +34 986 691 551, urgência fora de horário +34 696 599 164) e Centro Veterinario Sanxenxo (+34 986 691 845); o 112 é para pessoas.`,
+        `Transporte: não há estação em Sanxenxo, a mais próxima é Pontevedra (cerca de 30 km); autocarros Monbus para cães pequenos em transportadora, recomenda-se carro; aeroportos Vigo (VGO) e Santiago (SCQ).`,
+        `Ilhas: o Parque Nacional das Ilhas Atlânticas (Cíes, Ons) proíbe todos os animais exceto cães-guia; não planeie uma excursão de barco com o seu cão.`,
+        `Entrada: os visitantes da UE precisam de passaporte europeu para animais, microchip e vacinação antirrábica válida; fora da UE, certificado sanitário, consulte as regras da MAPA.`,
+      ],
+    },
+  },
   sete: {
     history: {
       fr: `Née en 1666 d'une décision de Colbert qui cherchait un débouché méditerranéen au canal du Midi, Sète a poussé entre mer et étang de Thau, au pied du mont Saint-Clair. Le port voulu par Louis XIV a attiré pêcheurs italiens de Gaète et de Cetara, dont les descendants peuplent encore le quartier de la Pointe Courte et ont donné à la ville sa tielle, sa macaronade et son accent chantant. Sur le canal Royal, les joutes nautiques, disputées depuis l'inauguration du port, restent la grande liturgie de l'été, apothéose à la Saint-Louis. L'île singulière a aussi donné deux poètes à la France, Paul Valéry, qui repose au cimetière marin qu'il a chanté, et Georges Brassens, enterré non loin de sa plage de la Corniche. Entre canaux, halles, criée et kilomètres de lido sauvage vers Marseillan, Sète se découvre merveilleusement à pied avec un chien.`,

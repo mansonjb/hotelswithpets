@@ -15661,6 +15661,81 @@
     "tiqetsId": "66825"
   },
   {
+    "slug": "maspalomas",
+    "name": "Maspalomas",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/maspalomas.jpg",
+    "intro": "Maspalomas is Gran Canaria's classic winter-sun resort at the island's southern tip, known for its protected dune field, the Faro de Maspalomas lighthouse and the La Charca lagoon. The honest catch for dog owners is that the famous beaches and dunes ban dogs, but the mild year-round climate, long seafront promenades at Meloneras and official dog beaches a short drive away in Mogan make it an easy off-season base with a pet.",
+    "lat": 27.7606,
+    "lng": -15.5866,
+    "weather": {
+      "jan": {
+        "temp": 19,
+        "desc": "Mild winter sun",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 19,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 20,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 20,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Warm summer",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 24,
+        "desc": "Warm autumn",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 22,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 21,
+        "desc": "Mild winter sun",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "LPA"
+  },
+  {
     "slug": "matera",
     "name": "Matera",
     "country": "Italy",

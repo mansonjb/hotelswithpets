@@ -9113,6 +9113,81 @@
     "iata": "NCE"
   },
   {
+    "slug": "fuengirola",
+    "name": "Fuengirola",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/fuengirola.jpg",
+    "intro": "Fuengirola is a lively Costa del Sol resort in Málaga province with a 7 km seafront promenade, the hilltop Sohail Castle and one of Andalusia's few official year-round dog beaches at Castillo Sohail. Leashed dogs are welcome across its parks and promenade, around seven fenced dog parks give off-leash space, and the Cercanías C-1 train carries dogs free straight from Málaga Airport.",
+    "lat": 36.5397,
+    "lng": -4.6244,
+    "weather": {
+      "jan": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 19,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 21,
+        "desc": "Warm spring",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 23,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot summer",
+        "icon": "🔥"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Hot summer",
+        "icon": "🔥"
+      },
+      "sep": {
+        "temp": 28,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 24,
+        "desc": "Mild autumn",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 20,
+        "desc": "Mild & calm",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 17,
+        "desc": "Mild winter",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "AGP"
+  },
+  {
     "slug": "funchal",
     "name": "Funchal",
     "country": "Portugal",

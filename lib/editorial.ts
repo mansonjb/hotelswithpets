@@ -796,6 +796,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Plage d'Argens cani-plage at Saint-Aygulf, the Base Nature François Léotard with its Woof Park, and the Roman Arènes and aqueduct ruins`,
       area: `the medieval Vieille Ville around Place Formigé and the Cathédrale Saint-Léonce, Port Fréjus marina, and the Saint-Aygulf seafront`,
     },
+    fuengirola: {
+      personality: `a lively Costa del Sol resort in Málaga province with a 7 km seafront promenade, the hilltop Sohail Castle and one of Andalusia's few official year-round dog beaches, plus around seven fenced dog parks and a Cercanías train that carries dogs free from Málaga Airport`,
+      highlight: `the Playa Canina del Castillo de Sohail dog beach, the 7 km Paseo Marítimo and the riverside Parque del Río Fuengirola below the castle`,
+      area: `the old town and port, the Los Boliches seafront, and the Castillo Sohail headland at the south end`,
+    },
     funchal: {
       personality: `the capital of Madeira, a year-round mild Atlantic island with esplanada culture, the cliff-side Lido promenade, the levada walks above town, and the only 24/7 veterinary hospital on the archipelago`,
       highlight: `Parque de Santa Catarina above the bay, the Levada dos Tornos walking trail, and the Promenade do Lido cliff path`,
@@ -2689,6 +2694,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la cani-plage de la Plage d'Argens à Saint-Aygulf, la Base Nature François Léotard et son Woof Park, et les Arènes romaines et les ruines de l'aqueduc`,
       area: `la Vieille Ville médiévale autour de la Place Formigé et de la Cathédrale Saint-Léonce, la marina du Port Fréjus, et le front de mer de Saint-Aygulf`,
     },
+    fuengirola: {
+      personality: `une station animée de la Costa del Sol, dans la province de Málaga, avec une promenade de bord de mer de 7 km, le Castillo Sohail perché et l'une des rares plages canines officielles d'Andalousie ouvertes toute l'année, plus environ sept parcs canins clôturés et un train Cercanías qui transporte les chiens gratuitement depuis l'aéroport de Málaga`,
+      highlight: `la plage canine de la Playa Canina del Castillo de Sohail, le Paseo Marítimo de 7 km et le parc fluvial du Río Fuengirola sous le château`,
+      area: `la vieille ville et le port, le front de mer de Los Boliches, et le promontoire du Castillo Sohail à l'extrémité sud`,
+    },
     funchal: {
       personality: `la capitale de Madère, île atlantique au climat doux toute l'année, avec sa culture d'esplanadas, la promenade de bord de falaise du Lido, les balades de levadas au-dessus de la ville et le seul hôpital vétérinaire 24h/24 de l'archipel`,
       highlight: `le Parque de Santa Catarina au-dessus de la baie, la balade de la Levada dos Tornos et la Promenade do Lido en bord de falaise`,
@@ -4581,6 +4591,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la cani-plage de la Plage d'Argens en Saint-Aygulf, la Base Nature François Léotard y su Woof Park, y las Arenas romanas y las ruinas del acueducto`,
       area: `el casco antiguo medieval alrededor de la Place Formigé y la Cathédrale Saint-Léonce, la marina del Port Fréjus, y el frente marítimo de Saint-Aygulf`,
     },
+    fuengirola: {
+      personality: `un animado destino de la Costa del Sol, en la provincia de Málaga, con un paseo marítimo de 7 km, el Castillo Sohail en lo alto y una de las pocas playas caninas oficiales de Andalucía abiertas todo el año, además de unos siete parques caninos vallados y un tren de Cercanías que lleva perros gratis desde el aeropuerto de Málaga`,
+      highlight: `la Playa Canina del Castillo de Sohail, el Paseo Marítimo de 7 km y el parque fluvial del Río Fuengirola bajo el castillo`,
+      area: `el casco antiguo y el puerto, el frente marítimo de Los Boliches, y el promontorio del Castillo Sohail al sur`,
+    },
     funchal: {
       personality: `la capital de Madeira, una isla atlántica de clima suave todo el año, con su cultura de esplanadas, el paseo al borde del acantilado del Lido, las rutas de levadas sobre la ciudad y el único hospital veterinario 24/7 del archipiélago`,
       highlight: `el Parque de Santa Catarina sobre la bahía, la Levada dos Tornos y la Promenade do Lido al borde del acantilado`,
@@ -6472,6 +6487,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `o município balnear mais acolhedor com cães da Riviera francesa com clara diferença, três praias caninas oficiais todo o ano (Argens, Esclamandes, Pacha Plage), uma Base Nature de 100 hectares com um Woof Park totalmente vedado, e cães admitidos com trela no anfiteatro romano do século I`,
       highlight: `a cani-plage da Plage d'Argens em Saint-Aygulf, a Base Nature François Léotard e o seu Woof Park, e as Arenas romanas e as ruínas do aqueduto`,
       area: `o centro histórico medieval em torno da Place Formigé e da Cathédrale Saint-Léonce, a marina do Port Fréjus, e a frente-mar de Saint-Aygulf`,
+    },
+    fuengirola: {
+      personality: `um animado destino da Costa del Sol, na província de Málaga, com um passeio marítimo de 7 km, o Castillo Sohail no alto e uma das poucas praias caninas oficiais da Andaluzia abertas todo o ano, além de cerca de sete parques caninos vedados e um comboio Cercanías que leva cães grátis do aeroporto de Málaga`,
+      highlight: `a Playa Canina del Castillo de Sohail, o Paseo Marítimo de 7 km e o parque fluvial do Río Fuengirola sob o castelo`,
+      area: `o centro histórico e o porto, a frente-mar de Los Boliches, e o promontório do Castillo Sohail no extremo sul`,
     },
     funchal: {
       personality: `a capital da Madeira, ilha atlântica de clima ameno todo o ano, com a sua cultura de esplanadas, a promenade à beira da falésia do Lido, as caminhadas pelas levadas acima da cidade e o único hospital veterinário 24/7 do arquipélago`,

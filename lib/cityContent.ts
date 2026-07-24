@@ -15415,6 +15415,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  fuengirola: {
+    history: {
+      fr: `Fuengirola, station balnéaire d'environ 80 000 habitants sur la Costa del Sol, dans la province de Málaga, est passée d'un village de pêcheurs sous la forteresse maure du Sohail à l'une des destinations les plus internationales et familiales du littoral andalou. Son atout est un front de mer d'environ 7 km, le plus long Paseo Marítimo de la Costa del Sol, bordé de jardins de palmiers, de chiringuitos et de plages. Pour les propriétaires de chiens, Fuengirola se distingue nettement : la ville revendique le label pet-friendly, avec une plage canine officielle ouverte toute l'année sous le Castillo Sohail, environ sept parcs canins clôturés, et un train de banlieue Cercanías qui transporte gratuitement les chiens depuis l'aéroport de Málaga. Les deux points à anticiper restent la chaleur estivale andalouse et l'interdiction saisonnière des chiens sur les plages non canines, du 1er juin au 30 septembre.`,
+      en: `Fuengirola, a resort town of about 80,000 on the Costa del Sol in Málaga province, grew from a fishing village beneath the Moorish Sohail fortress into one of the most international and family-friendly destinations on the Andalusian coast. Its signature is a seafront of around 7 km, the longest Paseo Marítimo on the Costa del Sol, lined with palm gardens, chiringuitos and beaches. For dog owners Fuengirola stands out clearly: the town markets itself as pet-friendly, with an official dog beach open year-round below the Sohail Castle, around seven fenced dog parks, and a Cercanías commuter train that carries dogs free straight from Málaga Airport. The two things to plan around are the Andalusian summer heat and the seasonal ban on dogs at the non-canine beaches, from 1 June to 30 September.`,
+      es: `Fuengirola, una localidad turística de unos 80.000 habitantes en la Costa del Sol, en la provincia de Málaga, pasó de aldea de pescadores bajo la fortaleza morisca de Sohail a uno de los destinos más internacionales y familiares del litoral andaluz. Su seña de identidad es un frente marítimo de unos 7 km, el Paseo Marítimo más largo de la Costa del Sol, jalonado de jardines de palmeras, chiringuitos y playas. Para los dueños de perros Fuengirola destaca con claridad: la ciudad se promociona como pet-friendly, con una playa canina oficial abierta todo el año bajo el Castillo Sohail, unos siete parques caninos vallados y un tren de Cercanías que lleva perros gratis desde el aeropuerto de Málaga. Las dos cosas que conviene planificar son el calor estival andaluz y la prohibición estacional de perros en las playas no caninas, del 1 de junio al 30 de septiembre.`,
+      pt: `Fuengirola, uma localidade turística de cerca de 80.000 habitantes na Costa del Sol, na província de Málaga, passou de aldeia de pescadores sob a fortaleza moura de Sohail a um dos destinos mais internacionais e familiares do litoral andaluz. A sua imagem de marca é uma frente-mar de cerca de 7 km, o Paseo Marítimo mais longo da Costa del Sol, repleto de jardins de palmeiras, chiringuitos e praias. Para os donos de cães Fuengirola destaca-se com clareza: a cidade promove-se como pet-friendly, com uma praia canina oficial aberta todo o ano sob o Castillo Sohail, cerca de sete parques caninos vedados e um comboio de Cercanías que leva cães grátis do aeroporto de Málaga. As duas coisas a planear são o calor estival andaluz e a proibição sazonal de cães nas praias não caninas, de 1 de junho a 30 de setembro.`,
+    },
+    sights: [
+      {
+        name: 'Playa Canina del Castillo de Sohail',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La plage canine officielle de Fuengirola, ouverte depuis 2014 et l'une des premières de la province de Málaga, une zone clôturée de plus de 3 000 m² sous le Castillo Sohail où les chiens nagent et courent toute l'année, été compris. Elle dispose de douches, de rince-pattes et d'une fontaine d'eau douce pour animaux.`,
+          en: `Fuengirola's official dog beach, open since 2014 and one of the first in Málaga province, a fenced area of over 3,000 m² below the Sohail Castle where dogs swim and run year-round, summer included. It has dog showers, paw-wash points and a freshwater fountain for pets.`,
+          es: `La playa canina oficial de Fuengirola, abierta desde 2014 y una de las primeras de la provincia de Málaga, una zona vallada de más de 3.000 m² bajo el Castillo Sohail donde los perros nadan y corren todo el año, verano incluido. Tiene duchas, lavapatas y una fuente de agua dulce para mascotas.`,
+          pt: `A praia canina oficial de Fuengirola, aberta desde 2014 e uma das primeiras da província de Málaga, uma zona vedada de mais de 3.000 m² sob o Castillo Sohail onde os cães nadam e correm todo o ano, verão incluído. Tem chuveiros, lava-patas e um bebedouro de água doce para animais.`,
+        },
+      },
+      {
+        name: 'Castillo Sohail',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Une forteresse restaurée du Xe siècle au sommet d'une colline dominant l'embouchure du fleuve, la plage et la mer. Les chiens en laisse sont admis dans les espaces verts extérieurs et sur la colline autour des murs, avec la plage canine et le parc fluvial juste en contrebas.`,
+          en: `A restored 10th-century hilltop fortress overlooking the river mouth, the beach and the sea. Leashed dogs are welcome on the outdoor grounds and the hill around the walls, with the dog beach and riverside park directly below.`,
+          es: `Una fortaleza restaurada del siglo X en lo alto de una colina, sobre la desembocadura del río, la playa y el mar. Los perros con correa son bienvenidos en las zonas verdes exteriores y en la colina en torno a las murallas, con la playa canina y el parque fluvial justo debajo.`,
+          pt: `Uma fortaleza restaurada do século X no alto de uma colina, sobre a foz do rio, a praia e o mar. Os cães com trela são bem-vindos nas zonas verdes exteriores e na colina em torno das muralhas, com a praia canina e o parque fluvial mesmo por baixo.`,
+        },
+      },
+      {
+        name: 'Paseo Marítimo Rey de España',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `À environ 7 km, la plus longue promenade de bord de mer de la Costa del Sol, longeant tout Fuengirola devant jardins de palmiers, aires de jeux et chiringuitos. Une balade plate et aérée, en laisse, qui relie les plages centrales à la plage canine du Castillo Sohail.`,
+          en: `At around 7 km, the longest seafront promenade on the Costa del Sol, running the full length of Fuengirola past palm gardens, playgrounds and chiringuitos. A flat, breezy, on-leash walk linking the central beaches to the Castillo Sohail dog beach.`,
+          es: `Con unos 7 km, el paseo marítimo más largo de la Costa del Sol, que recorre todo Fuengirola entre jardines de palmeras, parques infantiles y chiringuitos. Un paseo llano y aireado, con correa, que enlaza las playas centrales con la playa canina del Castillo Sohail.`,
+          pt: `Com cerca de 7 km, o passeio marítimo mais longo da Costa del Sol, que percorre toda Fuengirola entre jardins de palmeiras, parques infantis e chiringuitos. Um passeio plano e arejado, com trela, que liga as praias centrais à praia canina do Castillo Sohail.`,
+        },
+      },
+      {
+        name: 'Parque del Río Fuengirola',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Un grand parc fluvial verdoyant à l'embouchure du Río Fuengirola, sous le Castillo Sohail, avec terrains de sport, aires de jeux et une zone canine clôturée. Il rejoint directement la plage canine, pour combiner course dans le parc et baignade sur le sable.`,
+          en: `A large green riverside park at the mouth of the Río Fuengirola below the Sohail Castle, with sports courts, playgrounds and a fenced dog zone. It links straight to the dog beach, so you can combine a run in the park with a swim on the sand.`,
+          es: `Un gran parque fluvial verde en la desembocadura del río Fuengirola, bajo el Castillo Sohail, con canchas deportivas, parques infantiles y una zona canina vallada. Enlaza directamente con la playa canina, para combinar carrera en el parque y baño en la arena.`,
+          pt: `Um grande parque fluvial verde na foz do rio Fuengirola, sob o Castillo Sohail, com campos desportivos, parques infantis e uma zona canina vedada. Liga-se diretamente à praia canina, para combinar corrida no parque e banho na areia.`,
+        },
+      },
+      {
+        name: 'Parques Caninos de Fuengirola',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Fuengirola compte environ sept parcs canins municipaux clôturés répartis dans la ville, dont Los Boliches, seuls endroits où les chiens peuvent légalement courir sans laisse hors de la plage canine. Ils offrent aux chiens un espace sûr, à l'écart de la circulation.`,
+          en: `Fuengirola has around seven fenced municipal dog parks spread across town, including Los Boliches, the only places dogs may legally run off-leash apart from the dog beach. They give dogs a safe space away from traffic.`,
+          es: `Fuengirola cuenta con unos siete parques caninos municipales vallados repartidos por la ciudad, entre ellos Los Boliches, únicos lugares donde los perros pueden correr sin correa legalmente fuera de la playa canina. Ofrecen a los perros un espacio seguro, lejos del tráfico.`,
+          pt: `Fuengirola tem cerca de sete parques caninos municipais vedados espalhados pela cidade, incluindo Los Boliches, os únicos locais onde os cães podem correr sem trela legalmente fora da praia canina. Dão aos cães um espaço seguro, longe do trânsito.`,
+        },
+      },
+      {
+        name: 'Bioparc Fuengirola',
+        emoji: '🦁',
+        petFriendly: false,
+        desc: {
+          fr: `Le zoo immersif réputé de Fuengirola recrée des habitats tropicaux en plein centre-ville et constitue une attraction majeure. Comme presque tous les zoos, il n'admet pas les animaux de compagnie, prévoyez un accompagnant pour rester dehors avec le chien.`,
+          en: `Fuengirola's acclaimed immersive zoo recreates tropical habitats in the middle of town and is a major attraction. Like nearly all zoos it does not admit pets, so plan for a companion to wait outside with your dog.`,
+          es: `El aclamado zoo inmersivo de Fuengirola recrea hábitats tropicales en pleno centro y es una gran atracción. Como casi todos los zoos, no admite mascotas, así que ve con un acompañante que espere fuera con el perro.`,
+          pt: `O aclamado zoo imersivo de Fuengirola recria habitats tropicais em pleno centro e é uma grande atração. Como quase todos os zoos, não aceita animais, por isso vá com um acompanhante que fique fora com o cão.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La Playa Canina del Castillo de Sohail est ouverte toute l'année, été compris ; sur toutes les autres plages de Fuengirola, les chiens sont interdits du 1er juin au 30 septembre (amendes dès 100 euros).`,
+        `Hors saison, d'octobre à Pâques, l'ordonnance municipale autorise les chiens en laisse sur toutes les plages de la ville.`,
+        `Le train Cercanías C-1 transporte gratuitement les chiens de toute taille depuis l'aéroport de Málaga et Málaga-ville, en laisse et muselière (pas de sac obligatoire).`,
+        `Chaleur andalouse : promenez à l'aube ou au crépuscule en été, testez le pavement du dos de la main et emportez de l'eau, plus de 300 jours de soleil par an.`,
+        `La Costa del Sol est une zone à leishmaniose (phlébotome) : parlez à votre vétérinaire d'un collier ou pipette répulsif ; les races PPP doivent porter laisse et muselière en public.`,
+      ],
+      en: [
+        `The Playa Canina del Castillo de Sohail is open year-round, summer included; on all of Fuengirola's other beaches dogs are banned from 1 June to 30 September (fines from 100 euros).`,
+        `Off-season, from October to Easter, the town ordinance allows leashed dogs on all of the city's beaches.`,
+        `The Cercanías C-1 train carries dogs of any size free from Málaga Airport and Málaga city on a leash and muzzle (no carrier required).`,
+        `Andalusian heat: walk at dawn or dusk in summer, test the pavement with the back of your hand and carry water, with over 300 sunny days a year.`,
+        `The Costa del Sol is a leishmaniasis (sandfly) area: ask your vet about a repellent collar or spot-on; potentially dangerous (PPP) breeds must be leashed and muzzled in public.`,
+      ],
+      es: [
+        `La Playa Canina del Castillo de Sohail está abierta todo el año, verano incluido; en el resto de playas de Fuengirola los perros están prohibidos del 1 de junio al 30 de septiembre (multas desde 100 euros).`,
+        `Fuera de temporada, de octubre a Semana Santa, la ordenanza municipal permite perros con correa en todas las playas de la ciudad.`,
+        `El tren de Cercanías C-1 lleva perros de cualquier tamaño gratis desde el aeropuerto de Málaga y la ciudad, con correa y bozal (sin transportín obligatorio).`,
+        `Calor andaluz: pasea al amanecer o al atardecer en verano, prueba el pavimento con el dorso de la mano y lleva agua, con más de 300 días de sol al año.`,
+        `La Costa del Sol es zona de leishmaniosis (flebótomo): consulta a tu veterinario un collar o pipeta repelente; las razas PPP deben ir con correa y bozal en público.`,
+      ],
+      pt: [
+        `A praia canina do Castillo de Sohail está aberta todo o ano, verão incluído; nas restantes praias de Fuengirola os cães estão proibidos de 1 de junho a 30 de setembro (multas a partir de 100 euros).`,
+        `Fora de época, de outubro à Páscoa, a ordenança municipal permite cães com trela em todas as praias da cidade.`,
+        `O comboio de Cercanías C-1 leva cães de qualquer tamanho grátis do aeroporto de Málaga e da cidade, com trela e açaime (sem transportadora obrigatória).`,
+        `Calor andaluz: passeie ao amanhecer ou ao entardecer no verão, teste o pavimento com as costas da mão e leve água, com mais de 300 dias de sol por ano.`,
+        `A Costa del Sol é zona de leishmaniose (flebótomo): fale com o seu veterinário sobre uma coleira ou pipeta repelente; as raças PPP devem andar com trela e açaime em público.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Plages : seule la plage canine du Castillo de Sohail admet les chiens l'été ; interdiction ailleurs du 1er juin au 30 septembre, chiens en laisse admis partout hors saison.`,
+        `Vétérinaire d'urgence : URVET Fuengirola, Calle Molino de Viento 35, ouvert 24h/24 (+34 629 97 86 79) ; le 112 national concerne les humains, appelez directement un vétérinaire.`,
+        `Transport : train Cercanías C-1 depuis l'aéroport de Málaga (AGP), chiens gratuits en laisse et muselière ; bus limités aux petits chiens en sac, taxis à la discrétion du chauffeur.`,
+        `Sans laisse : uniquement dans les parques caninos clôturés (environ sept) et sur la plage canine ; laisse obligatoire dans toutes les rues, promenades et parcs.`,
+        `Entrée : les visiteurs de l'UE ont besoin d'un passeport animalier européen, d'une puce et d'une vaccination antirabique valide ; hors UE, certificat sanitaire, vérifiez les règles MAPA.`,
+      ],
+      en: [
+        `Beaches: only the Castillo de Sohail dog beach admits dogs in summer; banned elsewhere 1 June to 30 September, leashed dogs allowed everywhere off-season.`,
+        `Emergency vet: URVET Fuengirola, Calle Molino de Viento 35, open 24h (+34 629 97 86 79); the national 112 is human-focused, so call a vet directly.`,
+        `Transport: Cercanías C-1 train from Málaga Airport (AGP), dogs free on a leash and muzzle; buses limited to small dogs in a carrier, taxis at the driver's discretion.`,
+        `Off-leash: only inside the fenced parques caninos (around seven) and on the dog beach; leash required on all streets, promenades and parks.`,
+        `Entry: EU visitors need an EU pet passport, microchip and valid rabies vaccination; non-EU visitors need an animal health certificate, check MAPA rules.`,
+      ],
+      es: [
+        `Playas: solo la playa canina del Castillo de Sohail admite perros en verano; prohibido en el resto del 1 de junio al 30 de septiembre, perros con correa admitidos en todas fuera de temporada.`,
+        `Veterinario de urgencias: URVET Fuengirola, Calle Molino de Viento 35, abierto 24h (+34 629 97 86 79); el 112 nacional es para personas, llama directamente a un veterinario.`,
+        `Transporte: tren Cercanías C-1 desde el aeropuerto de Málaga (AGP), perros gratis con correa y bozal; autobuses limitados a perros pequeños en transportín, taxis a criterio del conductor.`,
+        `Sin correa: solo dentro de los parques caninos vallados (unos siete) y en la playa canina; correa obligatoria en todas las calles, paseos y parques.`,
+        `Entrada: los visitantes de la UE necesitan pasaporte europeo de mascotas, microchip y vacunación antirrábica válida; fuera de la UE, certificado sanitario, consulta las normas de MAPA.`,
+      ],
+      pt: [
+        `Praias: só a praia canina do Castillo de Sohail admite cães no verão; proibido no resto de 1 de junho a 30 de setembro, cães com trela admitidos em todas fora de época.`,
+        `Veterinário de urgência: URVET Fuengirola, Calle Molino de Viento 35, aberto 24h (+34 629 97 86 79); o 112 nacional é para pessoas, ligue diretamente a um veterinário.`,
+        `Transporte: comboio Cercanías C-1 do aeroporto de Málaga (AGP), cães grátis com trela e açaime; autocarros limitados a cães pequenos em transportadora, táxis ao critério do motorista.`,
+        `Sem trela: só dentro dos parques caninos vedados (cerca de sete) e na praia canina; trela obrigatória em todas as ruas, passeios e parques.`,
+        `Entrada: os visitantes da UE precisam de passaporte europeu para animais, microchip e vacinação antirrábica válida; fora da UE, certificado sanitário, consulte as regras da MAPA.`,
+      ],
+    },
+  },
+
   funchal: {
     history: {
       fr: `Funchal, fondée en 1424 par João Gonçalves Zarco peu après la découverte portugaise de Madère, est devenue dès le XVIe siècle le port atlantique le plus actif entre Lisbonne et l'Amérique grâce à sa position avancée sur la route des Indes occidentales et à la production de canne à sucre puis de vin de Madère qui a régalé les cours de Londres, Saint-Pétersbourg et Boston. Aujourd'hui capitale de la Région autonome de Madère avec 105 000 habitants, la ville occupe un amphithéâtre volcanique escarpé orienté plein sud entre l'Atlantique et les montagnes intérieures, ce qui lui vaut un microclimat exceptionnellement doux : 16 à 24 °C toute l'année, jamais de gel, jamais de canicule oppressante. Pour les voyageurs avec chien, Funchal est l'une des destinations européennes les plus accueillantes en hiver : esplanadas à profusion sur l'Avenida Arriaga, la marina et la Zona Velha aux portes peintes, promenade du Lido de 3 km en bord de falaise jusqu'à Praia Formosa, et accès à pied ou en bus à la Levada dos Tornos qui se faufile à flanc de montagne sur des dizaines de kilomètres de canal d'irrigation. Seule contrainte de l'île : un unique hôpital vétérinaire 24h/24 (VetMedis, Caminho de Santo António), une politique stricte d'interdiction estivale des chiens sur les plages urbaines (Praia Formosa, Lido) et un téléphérique du Monte qui n'accepte les chiens qu'en cage fermée.`,

@@ -27236,6 +27236,81 @@
     "countryCode": "PL"
   },
   {
+    "slug": "yokohama",
+    "name": "Yokohama",
+    "country": "Japan",
+    "countryCode": "JP",
+    "flag": "🇯🇵",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/yokohama.jpg",
+    "intro": "Yokohama turns Japan's stricter pet-travel culture into an easy win by concentrating its best dog spots along one compact, walkable bayfront. Leashed dogs share the Minato Mirai promenades, historic Yamashita Park and the open-air Marine & Walk and Red Brick Warehouse, while a large natural-grass dog run on Rinko Park gives real off-leash space minutes from the station. Trains and buses take dogs only inside a carrier, and a dedicated night emergency hospital near Yokohama Station backs up the many small-animal clinics, so a prepared owner who plans around the rules finds the port city genuinely dog-friendly.",
+    "lat": 35.4437,
+    "lng": 139.638,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cold & dry",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cold & dry",
+        "icon": "⛅"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm & humid",
+        "icon": "🌧️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Hot & humid",
+        "icon": "⛅"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Warm & humid",
+        "icon": "🌧️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Cool & mild",
+        "icon": "⛅"
+      },
+      "dec": {
+        "temp": 11,
+        "desc": "Cold & dry",
+        "icon": "☀️"
+      }
+    },
+    "iata": "HND"
+  },
+  {
     "slug": "york",
     "name": "York",
     "country": "United Kingdom",

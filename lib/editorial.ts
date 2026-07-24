@@ -1121,6 +1121,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Calanques National Park trails, the Frioul islands accessible by ferry, and the 5-kilometre Corniche Kennedy promenade',
       area: 'the Vieux-Port quays, Le Panier historic quarter, and the Vallon des Auffes fishing port',
     },
+    maspalomas: {
+      personality: 'the classic winter-sun resort in the south of Gran Canaria, mild and dry all year, where the famous beach itself is off-limits to dogs but the promenades and nearby official dog beaches make it an easy off-season base',
+      highlight: 'the Boulevard El Faro boardwalk by the Maspalomas lighthouse, the birdlife of La Charca lagoon, and the long Meloneras seafront promenade',
+      area: 'Meloneras, San Fernando de Maspalomas, and the edge of Playa del Inglés',
+    },
     matera: {
       personality: `a 60 000-resident UNESCO World Heritage city in Basilicata built into the limestone ravine of the Gravina river around the Sassi cave dwellings of Sasso Caveoso and Sasso Barisano, inhabited continuously since the Paleolithic and named European Capital of Culture 2019, with the Cattedrale on the highest tufa spur, the Piano upper town around Piazza Vittorio Veneto with the underground Palombaro Lungo cistern, the rupestrian rock churches of Madonna de Idris, Santa Lucia alle Malve and San Pietro Caveoso, the 8 000 hectare Parco della Murgia Materana with 150+ rupestrian chapels and the Belvedere Murgia Timone film panorama (The Passion of the Christ, No Time to Die), the FAL train from Bari Centrale that accepts dogs free of charge, and the Pugliairbus shuttle from Bari BRI airport`,
       highlight: `the UNESCO Sassi cave dwellings of Sasso Caveoso and Sasso Barisano carved into the tufa cliffs above the Gravina ravine, the Belvedere Murgia Timone film panorama across the ravine used in The Passion of the Christ (2004) and No Time to Die (2021), the 8 000 hectare Parco della Murgia Materana with 150+ Byzantine rupestrian rock churches and off-leash hiking, the Piazza Vittorio Veneto with the underground Palombaro Lungo cistern, and the unfinished 16th-century Tramontano castle on the Piano west`,
@@ -1721,6 +1726,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `one of Poland's most genuinely dog-loving cities, where the colourful Rynek square is ringed by café terraces that welcome dogs without fuss, public transport is free for all pets, and around forty fenced off-leash zones are scattered across the city`,
       highlight: `Park Szczytnicki and the Centennial Hall, the islands of the Odra river, and the lamplit cobbles of Cathedral Island at dusk`,
       area: `the Old Town around the Rynek, the bohemian Nadodrze district, and the Four Denominations Quarter`,
+    },
+    yokohama: {
+      personality: `Japan's great port city on Tokyo Bay, where a compact, walkable bayfront turns stricter Japanese pet rules into an easy win, with leashed dogs welcome across the Minato Mirai promenades and the open-air waterfront complexes`,
+      highlight: `the large natural-grass SHIBA to KAZE dog run at Rinko Park, the seaside lawns of Yamashita Park, and the whale's-back rooftop deck of Osanbashi Pier`,
+      area: `the open-air Marine & Walk and Red Brick Warehouse on the Shinko waterfront, the Minato Mirai promenades around Sakuragicho, and the Kishamichi harbour walk`,
     },
     york: {
       personality: `one of England's most reliably dog-friendly cities, a compact medieval core where 80% of pubs welcome leashed dogs, the 5 km city walls walk is free of charge with pets, and direct LNER trains link day-trip dog beaches at Filey, Sandsend and Bridlington`,
@@ -2999,6 +3009,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'les sentiers du Parc National des Calanques, les îles du Frioul accessibles en ferry et les 5 kilomètres de la Corniche Kennedy',
       area: 'les quais du Vieux-Port, le quartier historique du Panier et le port de pêche du Vallon des Auffes',
     },
+    maspalomas: {
+      personality: 'la station de soleil d\'hiver classique du sud de la Grande Canarie, douce et sèche toute l\'année, où la plage célèbre est interdite aux chiens mais où les promenades et les plages canines officielles voisines en font une base facile hors saison',
+      highlight: 'le Boulevard El Faro au pied du phare de Maspalomas, la faune du lagon de La Charca et la longue promenade de bord de mer de Meloneras',
+      area: 'Meloneras, San Fernando de Maspalomas et les abords de la Playa del Inglés',
+    },
     matera: {
       personality: `une ville de 60 000 habitants classée au patrimoine mondial UNESCO en Basilicate, construite dans le ravin calcaire de la Gravina autour des habitations troglodytes des Sassi, Sasso Caveoso et Sasso Barisano, habitées sans interruption depuis le Paléolithique et désignée Capitale européenne de la culture 2019, avec la Cattedrale sur le plus haut éperon de tuf, la ville haute du Piano autour de la Piazza Vittorio Veneto avec la citerne souterraine Palombaro Lungo, les églises rupestres Madonna de Idris, Santa Lucia alle Malve et San Pietro Caveoso, le Parc Régional de la Murgia Materana de 8 000 hectares avec plus de 150 chapelles rupestres et le panorama cinéma du Belvedere Murgia Timone (La Passion du Christ, No Time to Die), le train FAL depuis Bari Centrale qui accepte les chiens gratuitement, et la navette Pugliairbus depuis l'aéroport Bari BRI`,
       highlight: `les habitations troglodytes UNESCO des Sassi (Sasso Caveoso et Sasso Barisano) creusées dans les falaises de tuf au-dessus du ravin de la Gravina, le panorama cinéma du Belvedere Murgia Timone de l'autre côté du ravin utilisé dans La Passion du Christ (2004) et No Time to Die (2021), le Parc Régional de la Murgia Materana de 8 000 hectares avec plus de 150 églises rupestres byzantines et randonnée sans laisse, la Piazza Vittorio Veneto avec la citerne souterraine Palombaro Lungo, et le château Tramontano inachevé du 16e siècle dans le Piano ouest`,
@@ -3598,6 +3613,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `l'une des villes de Pologne les plus réellement amoureuses des chiens, où les terrasses du Rynek coloré accueillent les chiens sans façon, où les transports publics sont gratuits pour tous les animaux et où une quarantaine de zones clôturées sans laisse sont disséminées dans la ville`,
       highlight: `le Park Szczytnicki et la Halle du Centenaire, les îles de l'Odra et les pavés éclairés à la lampe à gaz de l'île de la Cathédrale au crépuscule`,
       area: `la Vieille Ville autour du Rynek, le quartier bohème de Nadodrze et le Quartier des Quatre Confessions`,
+    },
+    yokohama: {
+      personality: `la grande ville portuaire du Japon sur la baie de Tokyo, où un front de mer compact et piéton transforme les règles animalières japonaises plus strictes en atout, avec les chiens en laisse bienvenus sur les promenades de Minato Mirai et les complexes en plein air du bord de mer`,
+      highlight: `le grand parc canin en herbe naturelle SHIBA to KAZE au parc Rinko, les pelouses balnéaires du parc Yamashita, et la terrasse en dos de baleine du toit du môle Osanbashi`,
+      area: `les espaces en plein air de Marine & Walk et de l'Entrepôt de briques rouges sur le front de mer de Shinko, les promenades de Minato Mirai autour de Sakuragicho, et la balade portuaire de la Kishamichi`,
     },
     york: {
       personality: `l'une des villes anglaises les plus fiablement dog-friendly, un cœur médiéval compact où 80 % des pubs accueillent les chiens en laisse, le circuit de 5 km des remparts est gratuit avec un animal, et les trains LNER directs desservent les plages canines de Filey, Sandsend et Bridlington pour la journée`,
@@ -4876,6 +4896,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'los senderos del Parque Nacional de las Calanques, las islas Frioul accesibles en ferry y los 5 kilómetros de la Corniche Kennedy',
       area: 'los muelles del Vieux-Port, el barrio histórico del Panier y el puerto pesquero del Vallon des Auffes',
     },
+    maspalomas: {
+      personality: 'el clásico destino de sol de invierno del sur de Gran Canaria, suave y seco todo el año, donde la playa famosa está prohibida a los perros pero los paseos marítimos y las playas caninas oficiales cercanas lo convierten en una base fácil fuera de temporada',
+      highlight: 'el Boulevard El Faro junto al faro de Maspalomas, las aves del lago de La Charca y el largo paseo marítimo de Meloneras',
+      area: 'Meloneras, San Fernando de Maspalomas y las inmediaciones de la Playa del Inglés',
+    },
     matera: {
       personality: `una ciudad de 60 000 habitantes declarada Patrimonio de la Humanidad por la UNESCO en Basilicata, construida en el barranco calcáreo del río Gravina en torno a las viviendas trogloditas de los Sassi, Sasso Caveoso y Sasso Barisano, habitadas sin interrupción desde el Paleolítico y nombrada Capital Europea de la Cultura 2019, con la Cattedrale en el más alto espolón de toba, la ciudad alta del Piano en torno a la Piazza Vittorio Veneto con la cisterna subterránea Palombaro Lungo, las iglesias rupestres Madonna de Idris, Santa Lucia alle Malve y San Pietro Caveoso, el Parque Regional de la Murgia Materana de 8 000 hectáreas con más de 150 capillas rupestres y el panorama cinematográfico del Belvedere Murgia Timone (La Pasión de Cristo, No Time to Die), el tren FAL desde Bari Centrale que admite perros gratis, y la lanzadera Pugliairbus desde el aeropuerto Bari BRI`,
       highlight: `las viviendas trogloditas UNESCO de los Sassi (Sasso Caveoso y Sasso Barisano) excavadas en los acantilados de toba sobre el barranco de la Gravina, el panorama cinematográfico del Belvedere Murgia Timone al otro lado del barranco usado en La Pasión de Cristo (2004) y No Time to Die (2021), el Parque Regional de la Murgia Materana de 8 000 hectáreas con más de 150 iglesias rupestres bizantinas y senderismo sin correa, la Piazza Vittorio Veneto con la cisterna subterránea Palombaro Lungo, y el castillo Tramontano inacabado del siglo XVI en el Piano oeste`,
@@ -5475,6 +5500,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `una de las ciudades de Polonia más genuinamente amantes de los perros, donde las terrazas del colorido Rynek acogen a los perros sin problemas, el transporte público es gratis para todas las mascotas y unas cuarenta zonas valladas sin correa están repartidas por la ciudad`,
       highlight: `el Park Szczytnicki y el Pabellón del Centenario, las islas del río Odra y los adoquines iluminados por farolas de gas de la Isla de la Catedral al atardecer`,
       area: `el Casco Antiguo alrededor del Rynek, el bohemio barrio de Nadodrze y el Barrio de las Cuatro Confesiones`,
+    },
+    yokohama: {
+      personality: `la gran ciudad portuaria de Japón en la bahía de Tokio, donde un frente marítimo compacto y peatonal convierte las normas japonesas más estrictas para mascotas en una ventaja, con perros con correa bienvenidos en los paseos de Minato Mirai y en los complejos costeros al aire libre`,
+      highlight: `el gran parque canino de césped natural SHIBA to KAZE en el parque Rinko, los céspedes marítimos del parque Yamashita, y la terraza en lomo de ballena del tejado del muelle Osanbashi`,
+      area: `los espacios al aire libre de Marine & Walk y el Almacén de Ladrillo Rojo en el frente marítimo de Shinko, los paseos de Minato Mirai en torno a Sakuragicho, y el paseo portuario de la Kishamichi`,
     },
     york: {
       personality: `una de las ciudades inglesas más fiablemente dog-friendly, un núcleo medieval compacto donde el 80 % de los pubs admite perros con correa, el circuito de 5 km de las murallas es gratis con mascota, y los trenes directos LNER conectan con las playas caninas de Filey, Sandsend y Bridlington para excursiones de un día`,
@@ -6753,6 +6783,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'os trilhos do Parque Nacional das Calanques, as ilhas Frioul acessíveis en ferry e os 5 kilómetros da Corniche Kennedy',
       area: 'os muelles do Vieux-Port, o bairro histórico do Panier e o porto pesquero do Vallon des Auffes',
     },
+    maspalomas: {
+      personality: 'o clássico destino de sol de inverno do sul da Gran Canaria, ameno e seco todo o ano, onde a praia famosa é interdita a cães mas os passeios marítimos e as praias caninas oficiais próximas fazem dele uma base fácil fora de época',
+      highlight: 'o Boulevard El Faro junto ao farol de Maspalomas, as aves da lagoa de La Charca e o longo passeio marítimo de Meloneras',
+      area: 'Meloneras, San Fernando de Maspalomas e as imediações da Playa del Inglés',
+    },
     matera: {
       personality: `uma cidade de 60 000 habitantes classificada como Património Mundial UNESCO na Basilicata, construída no barranco calcário do rio Gravina em torno das habitações trogloditas dos Sassi, Sasso Caveoso e Sasso Barisano, habitadas sem interrupção desde o Paleolítico e nomeada Capital Europeia da Cultura 2019, com a Cattedrale no mais alto esporão de tufo, a cidade alta do Piano em torno da Piazza Vittorio Veneto com a cisterna subterrânea Palombaro Lungo, as igrejas rupestres Madonna de Idris, Santa Lucia alle Malve e San Pietro Caveoso, o Parque Regional da Murgia Materana de 8 000 hectares com mais de 150 capelas rupestres e o panorama cinematográfico do Belvedere Murgia Timone (A Paixão de Cristo, No Time to Die), o comboio FAL desde Bari Centrale que aceita cães grátis, e a carrinha Pugliairbus desde o aeroporto Bari BRI`,
       highlight: `as habitações trogloditas UNESCO dos Sassi (Sasso Caveoso e Sasso Barisano) escavadas nas falésias de tufo sobre o barranco da Gravina, o panorama cinematográfico do Belvedere Murgia Timone do outro lado do barranco usado em A Paixão de Cristo (2004) e No Time to Die (2021), o Parque Regional da Murgia Materana de 8 000 hectares com mais de 150 igrejas rupestres bizantinas e caminhadas sem trela, a Piazza Vittorio Veneto com a cisterna subterrânea Palombaro Lungo, e o castelo Tramontano inacabado do século XVI no Piano oeste`,
@@ -7352,6 +7387,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma das cidades de Polonia mais genuinamente amantes dos cães, onde as esplanadas do colorido Rynek acogen aos cães sem problemas, o transporte público é grátis para todas as animais e umas cuarenta zonas valladas sem trela estão repartidas pela cidade`,
       highlight: `o Park Szczytnicki e o Pabellón do Centenario, as ilhas do rio Odra e os adoquines iluminados por farolas de gas da Ilha da Catedral al atardecer`,
       area: `o Centro histórico alrededor do Rynek, o bohemio bairro de Nadodrze e o Bairro das Cuatro Confesiones`,
+    },
+    yokohama: {
+      personality: `a grande cidade portuária do Japão na baía de Tóquio, onde uma frente marítima compacta e pedonal transforma as regras japonesas mais rígidas para animais numa vantagem, com cães à trela bem-vindos nos passeios de Minato Mirai e nos complexos costeiros ao ar livre`,
+      highlight: `o grande parque canino de relva natural SHIBA to KAZE no parque Rinko, os relvados marítimos do parque Yamashita, e o terraço em dorso de baleia do telhado do cais Osanbashi`,
+      area: `os espaços ao ar livre do Marine & Walk e do Armazém de Tijolo Vermelho na frente marítima de Shinko, os passeios de Minato Mirai em torno de Sakuragicho, e o passeio portuário da Kishamichi`,
     },
     york: {
       personality: `uma das cidades inglesas mais fiablemente pet-friendly, um núcleo medieval compacto onde o 80 % dos pubs admite cães com trela, o circuito de 5 km das muralhas é grátis com animal, e os comboios directos LNER conectan com as praias caninas de Filey, Sandsend e Bridlington para excursiones de um dia`,

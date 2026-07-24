@@ -26509,6 +26509,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  maspalomas: {
+    history: {
+      fr: `Maspalomas est né du tourisme : jusqu'aux années 1960, la pointe sud de la Grande Canarie n'était qu'un phare isolé, le Faro de Maspalomas, et un vaste champ de dunes. Le concours international d'urbanisme de 1961 a lancé la station qui s'étend aujourd'hui de la Playa del Inglés à Meloneras, autour de la Reserva Natural Especial des Dunes de Maspalomas et du lagon de La Charca. C'est la capitale européenne du soleil d'hiver : un climat subtropical doux toute l'année, sec et ensoleillé. Pour les maîtres, c'est un paradoxe honnête : les plages célèbres et les dunes protégées sont interdites aux chiens, mais les longues promenades de bord de mer se prêtent parfaitement aux balades en laisse, surtout hors saison, et la commune voisine de Mogán a ouvert cinq plages canines officielles en février 2026.`,
+      en: `Maspalomas was born of tourism: until the 1960s, the southern tip of Gran Canaria was just an isolated lighthouse, the Faro de Maspalomas, and a vast field of dunes. An international planning competition in 1961 launched the resort that now runs from Playa del Inglés to Meloneras, wrapped around the Maspalomas Dunes Special Nature Reserve and the La Charca lagoon. It is Europe's capital of winter sun, with a mild subtropical climate all year, dry and bright. For dog owners it is an honest paradox: the famous beaches and protected dunes are off-limits to dogs, but the long seafront promenades are perfect for on-leash walks, especially off-season, and the neighbouring Mogán municipality opened five official dog beaches in February 2026.`,
+      es: `Maspalomas nació del turismo: hasta los años sesenta, el extremo sur de Gran Canaria era solo un faro aislado, el Faro de Maspalomas, y un enorme campo de dunas. Un concurso internacional de urbanismo en 1961 lanzó el complejo que hoy se extiende desde la Playa del Inglés hasta Meloneras, en torno a la Reserva Natural Especial de las Dunas de Maspalomas y la laguna de La Charca. Es la capital europea del sol de invierno, con un clima subtropical suave todo el año, seco y luminoso. Para los dueños de perros es una paradoja honesta: las playas famosas y las dunas protegidas están prohibidas a los perros, pero los largos paseos marítimos son perfectos para caminatas con correa, sobre todo fuera de temporada, y el municipio vecino de Mogán abrió cinco playas caninas oficiales en febrero de 2026.`,
+      pt: `Maspalomas nasceu do turismo: até aos anos sessenta, a ponta sul da Gran Canaria era apenas um farol isolado, o Faro de Maspalomas, e um enorme campo de dunas. Um concurso internacional de urbanismo em 1961 lançou o complexo que hoje se estende da Playa del Inglés a Meloneras, em torno da Reserva Natural Especial das Dunas de Maspalomas e da lagoa de La Charca. É a capital europeia do sol de inverno, com um clima subtropical ameno todo o ano, seco e luminoso. Para os donos de cães é um paradoxo honesto: as praias famosas e as dunas protegidas são interditas a cães, mas os longos passeios marítimos são perfeitos para caminhadas com trela, sobretudo fora de época, e o município vizinho de Mogán abriu cinco praias caninas oficiais em fevereiro de 2026.`,
+    },
+    sights: [
+      {
+        name: 'Faro de Maspalomas',
+        emoji: '🗼',
+        petFriendly: true,
+        desc: {
+          fr: `Le phare du XIXe siècle qui marque la pointe sud de l'île. Le Boulevard El Faro qui l'entoure est une promenade en plein air où les chiens en laisse sont les bienvenus. Gratuit, magnifique au coucher du soleil.`,
+          en: `The 19th-century lighthouse marking the island's southern tip. The surrounding Boulevard El Faro is an open-air promenade where leashed dogs are welcome. Free, and lovely at sunset.`,
+          es: `El faro del siglo XIX que marca el extremo sur de la isla. El Boulevard El Faro que lo rodea es un paseo al aire libre donde los perros con correa son bienvenidos. Gratis y precioso al atardecer.`,
+          pt: `O farol do século XIX que marca a ponta sul da ilha. O Boulevard El Faro em redor é um passeio ao ar livre onde os cães com trela são bem-vindos. Gratuito e lindo ao pôr do sol.`,
+        },
+      },
+      {
+        name: 'Dunas de Maspalomas',
+        emoji: '🏜️',
+        petFriendly: false,
+        desc: {
+          fr: `Le champ de dunes emblématique, une réserve naturelle spéciale protégée. Les chiens y sont interdits, comme sur la plage : admirez-les depuis les points de vue et les chemins balisés en périphérie.`,
+          en: `The iconic dune field, a protected special nature reserve. Dogs are banned here as on the beach: admire it from the viewpoints and marked paths around the edge.`,
+          es: `El emblemático campo de dunas, una reserva natural especial protegida. Los perros están prohibidos aquí, como en la playa: admíralas desde los miradores y los caminos señalizados del perímetro.`,
+          pt: `O emblemático campo de dunas, uma reserva natural especial protegida. Os cães estão proibidos aqui, tal como na praia: admire-as a partir dos miradouros e dos caminhos sinalizados na periferia.`,
+        },
+      },
+      {
+        name: 'La Charca de Maspalomas',
+        emoji: '🦩',
+        petFriendly: true,
+        desc: {
+          fr: `Un lagon d'eau salée et un habitat d'oiseaux au pied du phare. Les chiens en laisse sont admis sur le ponton et les chemins alentour, mais pas dans la réserve elle-même. Apportez des jumelles.`,
+          en: `A saltwater lagoon and bird habitat at the foot of the lighthouse. Leashed dogs are allowed on the boardwalk and surrounding paths, but not in the reserve itself. Bring binoculars.`,
+          es: `Una laguna de agua salada y hábitat de aves al pie del faro. Los perros con correa se admiten en la pasarela y los caminos del entorno, pero no en la reserva. Lleva prismáticos.`,
+          pt: `Uma lagoa de água salgada e habitat de aves ao pé do farol. Os cães com trela são admitidos no passadiço e nos caminhos em redor, mas não na reserva. Leve binóculos.`,
+        },
+      },
+      {
+        name: 'Paseo de Meloneras',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Une large promenade pavée en bord de mer entre le phare et les falaises, bordée de terrasses. L'endroit le plus simple de Maspalomas pour flâner avec un chien en laisse et une vue sur la mer.`,
+          en: `A wide paved seafront promenade between the lighthouse and the cliffs, lined with terraces. The easiest place in Maspalomas to stroll with a leashed dog and a sea view.`,
+          es: `Un amplio paseo marítimo pavimentado entre el faro y los acantilados, con terrazas. El lugar más fácil de Maspalomas para pasear con un perro con correa y vistas al mar.`,
+          pt: `Um amplo passeio marítimo pavimentado entre o farol e as falésias, com esplanadas. O lugar mais fácil de Maspalomas para passear com um cão com trela e vista de mar.`,
+        },
+      },
+      {
+        name: 'Playa de El Perchel (Arguineguín, Mogán)',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `La plage canine officielle la plus proche, à environ 20 minutes à l'ouest, ouverte par Mogán en février 2026. Horaires limités, environ 07h00 à 10h00 et 18h00 à 21h00, dans une zone balisée.`,
+          en: `The nearest official dog beach, about 20 minutes west, opened by Mogán in February 2026. Limited hours, roughly 07:00 to 10:00 and 18:00 to 21:00, within a marked zone.`,
+          es: `La playa canina oficial más cercana, a unos 20 minutos al oeste, abierta por Mogán en febrero de 2026. Horario limitado, aproximadamente de 07:00 a 10:00 y de 18:00 a 21:00, en una zona señalizada.`,
+          pt: `A praia canina oficial mais próxima, a cerca de 20 minutos a oeste, aberta por Mogán em fevereiro de 2026. Horário limitado, cerca das 07:00 às 10:00 e das 18:00 às 21:00, numa zona sinalizada.`,
+        },
+      },
+      {
+        name: 'San Fernando de Maspalomas',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `La ville résidentielle derrière les stations, avec commerces, cliniques vétérinaires et le Parque Tony Gallardo. C'est là que l'on trouve la vie locale et les services pratiques pour un chien.`,
+          en: `The residential town behind the resorts, with shops, veterinary clinics and Parque Tony Gallardo. This is where the local life and practical services for a dog are found.`,
+          es: `La ciudad residencial detrás de los complejos, con comercios, clínicas veterinarias y el Parque Tony Gallardo. Aquí está la vida local y los servicios prácticos para un perro.`,
+          pt: `A cidade residencial atrás dos complexos, com lojas, clínicas veterinárias e o Parque Tony Gallardo. É aqui que estão a vida local e os serviços práticos para um cão.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les plages célèbres (Playa de Maspalomas, Playa del Inglés) et les dunes interdisent les chiens toute l'année, avec des amendes jusqu'à 1 500 euros.`,
+        `Pour une journée de plage, direction les plages canines officielles de Mogán (El Perchel, Los Frailes) ou Los Tres Peos près d'Agüimes.`,
+        `Chaleur estivale : promenez votre chien tôt ou après le coucher du soleil et emportez de l'eau, le sable et le bitume chauffent fort à midi.`,
+        `Sur les bus Global, les animaux de moins de 10 kg voyagent en cabine en sac (max 60x35x35 cm) sur les genoux ; les plus grands en soute.`,
+        `Urgences : la Clínica Veterinaria Maspalomas à San Fernando dispose d'une ligne d'urgence 24h, au +34 928 76 58 96.`,
+      ],
+      en: [
+        `The famous beaches (Playa de Maspalomas, Playa del Inglés) and the dunes ban dogs all year, with fines of up to 1,500 euros.`,
+        `For a beach day, head to Mogán's official dog beaches (El Perchel, Los Frailes) or Los Tres Peos near Agüimes.`,
+        `Summer heat: walk your dog early or after sunset and carry water, as sand and paving get very hot at midday.`,
+        `On Global buses, pets under 10 kg travel in the cabin in a carrier (max 60x35x35 cm) on your lap; larger dogs go in the hold.`,
+        `Emergencies: Clínica Veterinaria Maspalomas in San Fernando runs a 24-hour emergency line, on +34 928 76 58 96.`,
+      ],
+      es: [
+        `Las playas famosas (Playa de Maspalomas, Playa del Inglés) y las dunas prohíben los perros todo el año, con multas de hasta 1.500 euros.`,
+        `Para un día de playa, ve a las playas caninas oficiales de Mogán (El Perchel, Los Frailes) o a Los Tres Peos cerca de Agüimes.`,
+        `Calor del verano: pasea a tu perro temprano o tras la puesta de sol y lleva agua, la arena y el pavimento se calientan mucho al mediodía.`,
+        `En los autobuses Global, las mascotas de menos de 10 kg viajan en cabina en transportín (máx 60x35x35 cm) sobre el regazo; las mayores en bodega.`,
+        `Urgencias: la Clínica Veterinaria Maspalomas en San Fernando tiene una línea de urgencias 24h, en el +34 928 76 58 96.`,
+      ],
+      pt: [
+        `As praias famosas (Playa de Maspalomas, Playa del Inglés) e as dunas proíbem cães todo o ano, com multas até 1.500 euros.`,
+        `Para um dia de praia, vá às praias caninas oficiais de Mogán (El Perchel, Los Frailes) ou a Los Tres Peos perto de Agüimes.`,
+        `Calor do verão: passeie o cão cedo ou depois do pôr do sol e leve água, pois a areia e o pavimento aquecem muito ao meio-dia.`,
+        `Nos autocarros Global, os animais com menos de 10 kg viajam na cabina em transportadora (máx 60x35x35 cm) ao colo; os maiores no porão.`,
+        `Urgências: a Clínica Veterinaria Maspalomas em San Fernando tem uma linha de urgência 24h, no +34 928 76 58 96.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport de Gran Canaria (LPA) à environ 30 à 40 minutes de route ; île sans train, on arrive en avion et on circule en bus, taxi ou voiture.`,
+        `Espagne dans l'UE et Schengen : passeport européen pour animaux avec puce et vaccination antirabique valide exigés.`,
+        `Meilleure saison : d'octobre à avril, maximales autour de 20°C, promenades tranquilles et pas de chaleur de midi.`,
+        `Peu de parcs formels : le principal espace vert est le Parque Tony Gallardo, sinon les promenades de Meloneras et du phare.`,
+        `Garde de chien : plateformes comme Gudog et la Residencia Canina Maspalomas pour les journées ou nuits sans votre chien.`,
+      ],
+      en: [
+        `Gran Canaria Airport (LPA) is about 30 to 40 minutes by road; the island has no train, so you fly in and get around by bus, taxi or car.`,
+        `Spain is in the EU and Schengen: an EU Pet Passport with a microchip and valid rabies vaccination is required.`,
+        `Best season: October to April, daytime highs around 20°C, quiet promenades and no midday heat.`,
+        `Few formal parks: the main green space is Parque Tony Gallardo, otherwise use the Meloneras and lighthouse promenades.`,
+        `Dog care: platforms such as Gudog and the Residencia Canina Maspalomas for days or nights without your dog.`,
+      ],
+      es: [
+        `Aeropuerto de Gran Canaria (LPA) a unos 30 a 40 minutos por carretera; la isla no tiene tren, se llega en avión y se circula en bus, taxi o coche.`,
+        `España está en la UE y Schengen: se exige pasaporte europeo para mascotas con microchip y vacunación antirrábica válida.`,
+        `Mejor temporada: de octubre a abril, máximas en torno a los 20°C, paseos tranquilos y sin calor de mediodía.`,
+        `Pocos parques formales: el principal espacio verde es el Parque Tony Gallardo, si no los paseos de Meloneras y del faro.`,
+        `Cuidado canino: plataformas como Gudog y la Residencia Canina Maspalomas para los días o noches sin tu perro.`,
+      ],
+      pt: [
+        `Aeroporto da Gran Canaria (LPA) a cerca de 30 a 40 minutos de estrada; a ilha não tem comboio, chega-se de avião e circula-se de autocarro, táxi ou carro.`,
+        `A Espanha está na UE e no Espaço Schengen: é exigido passaporte europeu para animais com microchip e vacinação antirrábica válida.`,
+        `Melhor temporada: de outubro a abril, máximas à volta dos 20°C, passeios tranquilos e sem calor de meio-dia.`,
+        `Poucos parques formais: o principal espaço verde é o Parque Tony Gallardo, caso contrário use os passeios de Meloneras e do farol.`,
+        `Cuidado canino: plataformas como a Gudog e a Residencia Canina Maspalomas para os dias ou noites sem o seu cão.`,
+      ],
+    },
+  },
+
   matera: {
     history: {
       fr: `Matera, environ 60 000 habitants en Basilicate, dans le sud de l'Italie, est l'une des villes habitées sans interruption les plus anciennes du monde, occupée depuis le Paléolithique. Classée au patrimoine mondial de l'UNESCO en 1993 et Capitale européenne de la culture en 2019, elle est célèbre pour ses Sassi, deux quartiers d'habitations troglodytiques (Sasso Caveoso et Sasso Barisano) creusés dans la roche calcaire au-dessus du ravin de la Gravina. Longtemps surnommée la honte de l'Italie pour la misère de ses grottes évacuées dans les années 1950, la ville s'est métamorphosée en décor de cinéma (La Passion du Christ, Mourir peut attendre) et en destination de voyage haut de gamme. Côté chiens, la réglementation italienne s'applique : laisse obligatoire dans l'espace public, muselière à porter sur soi (à mettre à la demande du personnel dans les transports), ramassage obligatoire. Les ruelles et escaliers de pierre des Sassi sont praticables avec un chien mais usent vite les coussinets ; le vaste Parco della Murgia Materana, de l'autre côté du ravin, offre en revanche de magnifiques sentiers ouverts aux chiens en laisse.`,
@@ -47087,6 +47224,112 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  yokohama: {
+    history: {
+      fr: `Yokohama passa d'un petit village de pêcheurs au premier grand port ouvert du Japon après 1859, lorsque le pays se rouvrit au commerce étranger : le port se remplit de marchands occidentaux, de consulats et des premiers réverbères, chemins de fer et quotidiens du Japon. Cet élan cosmopolite se lit encore dans les demeures du plateau de Yamate, dans le plus grand quartier chinois du pays et dans les entrepôts de briques de l'ancien port. Reconstruite après le grand séisme du Kanto de 1923 et les dommages de la guerre, la ville a réinventé son front de mer sous le nom de Minato Mirai, une skyline de tours, une grande roue géante et de longues promenades portuaires. Pour un maître de chien, Yokohama est l'une des grandes villes les plus faciles du Japon : ses points forts sont en plein air et proches les uns des autres le long d'un front de mer plat et piéton, avec un grand parc canin en herbe au parc Rinko, même si les mêmes règles japonaises strictes s'appliquent, caisses dans les trains, laisse partout et peu de lieux intérieurs ouverts aux animaux.`,
+      en: `Yokohama grew from a small fishing village into Japan's first major treaty port after 1859, when the country reopened to foreign trade and the harbour filled with Western merchants, consulates and Japan's earliest gas lamps, railways and daily newspaper. That cosmopolitan start still shows in the bluff mansions of Yamate, the largest Chinatown in Japan and the brick customs warehouses of the old port. Rebuilt after the 1923 Great Kanto earthquake and wartime damage, the city reinvented its waterfront as Minato Mirai, a skyline of towers, a giant Ferris wheel and long harbour promenades. For a dog owner Yokohama is one of Japan's easier big cities: its highlights are outdoors and close together along a flat, walkable bayfront, with a large natural-grass dog run at Rinko Park, though the same strict Japanese rules apply, carriers on trains, leashes everywhere and few indoor venues open to pets.`,
+      es: `Yokohama pasó de pequeño pueblo pesquero al primer gran puerto abierto de Japón tras 1859, cuando el país se reabrió al comercio exterior: el puerto se llenó de comerciantes occidentales, consulados y de las primeras farolas de gas, ferrocarriles y periódicos diarios de Japón. Ese arranque cosmopolita aún se aprecia en las mansiones del altozano de Yamate, en el mayor barrio chino del país y en los almacenes de ladrillo del viejo puerto. Reconstruida tras el gran terremoto de Kanto de 1923 y los daños de la guerra, la ciudad reinventó su frente marítimo con el nombre de Minato Mirai, un perfil de torres, una gran noria y largos paseos portuarios. Para un dueño de perro, Yokohama es una de las grandes ciudades más fáciles de Japón: sus atractivos están al aire libre y cerca unos de otros a lo largo de un frente marítimo llano y peatonal, con un gran parque canino de césped en el parque Rinko, aunque rigen las mismas normas japonesas estrictas, transportines en los trenes, correa en todas partes y pocos locales interiores abiertos a mascotas.`,
+      pt: `Yokohama passou de pequena aldeia piscatória ao primeiro grande porto aberto do Japão depois de 1859, quando o país se reabriu ao comércio estrangeiro: o porto encheu-se de mercadores ocidentais, consulados e dos primeiros candeeiros a gás, caminhos de ferro e jornais diários do Japão. Esse arranque cosmopolita ainda se nota nas mansões do planalto de Yamate, no maior bairro chinês do país e nos armazéns de tijolo do antigo porto. Reconstruída após o grande sismo de Kanto de 1923 e os danos da guerra, a cidade reinventou a sua frente marítima com o nome de Minato Mirai, um perfil de torres, uma grande roda gigante e longos passeios portuários. Para um dono de cão, Yokohama é uma das grandes cidades mais fáceis do Japão: os seus pontos fortes são ao ar livre e perto uns dos outros ao longo de uma frente marítima plana e pedonal, com um grande parque canino de relva no parque Rinko, embora vigorem as mesmas regras japonesas rigorosas, caixas nos comboios, trela em todo o lado e poucos espaços interiores abertos a animais.`,
+    },
+    sights: [
+      { name: 'SHIBA to KAZE Dog Park (Rinko Park)', emoji: '🐕', petFriendly: true, desc: {
+        fr: `Grand parc canin d'environ 4 000 m² entièrement en herbe naturelle au bord de la baie, au parc Rinko de Minato Mirai, à cinq minutes de la station Minatomirai. Sans laisse à l'intérieur ; il ouvre à des dates programmées et demande souvent les preuves de vaccination à l'entrée.`,
+        en: `A large roughly 4,000 m² all natural-grass dog run on the bayfront at Rinko Park in Minato Mirai, five minutes from Minatomirai Station. Off-leash inside; it opens on scheduled dates and commonly asks for vaccination proof at entry.`,
+        es: `Amplio parque canino de unos 4.000 m² enteramente de césped natural junto a la bahía, en el parque Rinko de Minato Mirai, a cinco minutos de la estación Minatomirai. Sin correa dentro; abre en fechas programadas y suele pedir los certificados de vacunación a la entrada.`,
+        pt: `Amplo parque canino de cerca de 4.000 m² inteiramente de relva natural junto à baía, no parque Rinko de Minato Mirai, a cinco minutos da estação Minatomirai. Sem trela lá dentro; abre em datas programadas e costuma pedir os comprovativos de vacinação à entrada.`,
+      }},
+      { name: 'Yamashita Park', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Le parc emblématique de Yokohama, ouvert en 1930 au bord de l'eau, un long ruban de pelouses, de rosiers et de monuments face au port et au paquebot Hikawa Maru. Chiens en laisse bienvenus sur la large promenade ; gardez-les en laisse et ramassez leurs déjections.`,
+        en: `Yokohama's landmark 1930 seafront park, a long ribbon of lawns, rose beds and monuments facing the harbour and the Hikawa Maru liner. Leashed dogs are welcome on the wide promenade; keep them leashed and clean up after them.`,
+        es: `El parque emblemático de Yokohama, inaugurado en 1930 junto al mar, una larga cinta de céspedes, rosaledas y monumentos frente al puerto y al trasatlántico Hikawa Maru. Perros con correa bienvenidos en el amplio paseo; mantenlos con correa y recoge sus deposiciones.`,
+        pt: `O parque emblemático de Yokohama, inaugurado em 1930 junto ao mar, uma longa fita de relvados, roseirais e monumentos de frente para o porto e para o paquete Hikawa Maru. Cães à trela bem-vindos no amplo passeio; mantenha-os à trela e recolha os dejetos.`,
+      }},
+      { name: 'Kishamichi Promenade', emoji: '🚂', petFriendly: true, desc: {
+        fr: `Promenade piétonne aménagée sur une ancienne voie ferrée portuaire, franchissant trois ponts de fer conservés entre Sakuragicho et Minato Mirai. Itinéraire plat et pittoresque à faire en laisse, qui relie les principaux sites du front de mer accueillant les chiens.`,
+        en: `A pedestrian promenade laid out on an old harbour railway, crossing three preserved iron bridges between Sakuragicho and Minato Mirai. A flat, scenic on-leash route that links the main dog-friendly seafront sights.`,
+        es: `Paseo peatonal trazado sobre una antigua vía férrea portuaria, que cruza tres puentes de hierro conservados entre Sakuragicho y Minato Mirai. Ruta llana y pintoresca para hacer con correa, que enlaza los principales lugares del frente marítimo que admiten perros.`,
+        pt: `Passeio pedonal traçado sobre uma antiga linha ferroviária portuária, que atravessa três pontes de ferro preservadas entre Sakuragicho e Minato Mirai. Percurso plano e pitoresco para fazer à trela, que liga os principais locais da frente marítima que aceitam cães.`,
+      }},
+      { name: 'Yokohama Red Brick Warehouse', emoji: '🧱', petFriendly: true, desc: {
+        fr: `Deux entrepôts douaniers restaurés du début des années 1900 sur le front de mer de Shinko. Les larges places de briques et les pelouses extérieures se prêtent à une promenade en laisse avec vue sur le port ; les boutiques et halls intérieurs restent en général interdits aux animaux.`,
+        en: `Two restored early-1900s customs warehouses on the Shinko waterfront. The wide brick plazas and outdoor lawns suit a leashed-dog stroll with harbour views; the indoor shops and halls are generally off-limits to pets.`,
+        es: `Dos almacenes aduaneros restaurados de principios del siglo XX en el frente marítimo de Shinko. Las amplias plazas de ladrillo y los céspedes exteriores se prestan a un paseo con correa con vistas al puerto; las tiendas y salas interiores suelen estar vedadas a las mascotas.`,
+        pt: `Dois armazéns alfandegários restaurados do início do século XX na frente marítima de Shinko. As amplas praças de tijolo e os relvados exteriores prestam-se a um passeio à trela com vista para o porto; as lojas e salas interiores costumam estar vedadas aos animais.`,
+      }},
+      { name: 'Osanbashi Pier Rooftop', emoji: '🐋', petFriendly: true, desc: {
+        fr: `Le môle des paquebots internationaux, dont le toit ondulant en bois surnommé le dos de la baleine forme une terrasse en plein air gratuite avec vue sur la skyline de Minato Mirai. Promenade en laisse prisée, surtout au coucher du soleil ; peu d'ombre, prévoyez de l'eau.`,
+        en: `The international passenger pier, whose undulating wooden roof nicknamed the whale's back is a free open-air deck with views of the Minato Mirai skyline. A favourite leashed-dog walk, best at sunset; little shade, so bring water.`,
+        es: `El muelle de pasajeros internacionales, cuyo tejado ondulado de madera apodado el lomo de la ballena es una terraza al aire libre gratuita con vistas al perfil de Minato Mirai. Paseo con correa muy apreciado, sobre todo al atardecer; poca sombra, lleva agua.`,
+        pt: `O cais de passageiros internacionais, cujo telhado ondulante de madeira apelidado de dorso da baleia é um terraço ao ar livre gratuito com vista para o perfil de Minato Mirai. Passeio à trela muito apreciado, sobretudo ao pôr do sol; pouca sombra, leve água.`,
+      }},
+      { name: 'Sankeien Garden', emoji: '🍁', petFriendly: false, desc: {
+        fr: `Superbe jardin japonais traditionnel de Honmoku, avec étangs, une pagode et des maisons historiques déplacées, splendide à l'automne. Comme la plupart des jardins japonais classiques, il n'admet pas les chiens : à noter pour ne pas s'y présenter avec un animal.`,
+        en: `A superb traditional Japanese garden in Honmoku, with ponds, a pagoda and relocated historic houses, glorious in autumn. Like most classic Japanese gardens it does not admit dogs, worth noting so you do not arrive with a pet.`,
+        es: `Magnífico jardín japonés tradicional en Honmoku, con estanques, una pagoda y casas históricas trasladadas, espléndido en otoño. Como la mayoría de los jardines japoneses clásicos, no admite perros: conviene saberlo para no presentarse con una mascota.`,
+        pt: `Magnífico jardim japonês tradicional em Honmoku, com lagos, um pagode e casas históricas transferidas, esplêndido no outono. Como a maioria dos jardins japoneses clássicos, não admite cães: convém saber para não aparecer com um animal.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Enregistrez le numéro du DVMs Animal Medical Center Yokohama (045-320-9099) : il assure l'accueil des urgences de nuit du secteur de 20h00 à 03h00 près de la gare de Yokohama, quand les cliniques de jour sont fermées.`,
+        `Dans les trains et les bus, le chien ne voyage qu'entièrement enfermé dans une caisse au gabarit de l'exploitant ; ni en laisse ni dans les bras, alors emportez une caisse que votre chien supporte.`,
+        `L'été sur la baie est chaud et humide : promenez le front de mer à l'aube ou après la tombée de la nuit, testez le pavage et le platelage de la Kishamichi avec la main, et emportez de l'eau.`,
+        `Les parcs canins déclarés comme SHIBA to KAZE au parc Rinko contrôlent souvent les carnets antirabique et polyvalent à l'entrée : apportez les originaux.`,
+        `Les restaurants admettent rarement les chiens à l'intérieur : visez les terrasses en plein air de Marine & Walk sur le front de mer de Shinko, et demandez à chaque enseigne avant de vous asseoir.`,
+      ],
+      en: [
+        `Save the DVMs Animal Medical Center Yokohama number (045-320-9099): it runs the area's night emergency reception from 20:00 to 03:00 near Yokohama Station, when day clinics are closed.`,
+        `On trains and buses your dog rides only fully inside a closed carrier within the operator's size limit, never leashed or in your arms, so pack a carrier your dog tolerates.`,
+        `Summer on the bay is hot and humid: walk the seafront at dawn or after dark, test the paving and the Kishamichi boardwalk with your hand, and carry water.`,
+        `Registered dog runs like SHIBA to KAZE at Rinko Park commonly check rabies and combination vaccination records at entry, so bring the originals.`,
+        `Indoor dining rarely admits dogs: head for the open-air terraces at Marine & Walk on the Shinko waterfront, and ask each venue before sitting down.`,
+      ],
+      es: [
+        `Guarda el número del DVMs Animal Medical Center Yokohama (045-320-9099): ofrece la recepción de urgencias nocturnas de la zona de 20:00 a 03:00 cerca de la estación de Yokohama, cuando las clínicas de día están cerradas.`,
+        `En trenes y autobuses el perro solo viaja del todo cerrado en un transportín dentro del límite de tamaño del operador, nunca con correa ni en brazos, así que lleva un transportín que tu perro tolere.`,
+        `El verano en la bahía es caluroso y húmedo: pasea el frente marítimo al amanecer o de noche, comprueba el pavimento y la pasarela de la Kishamichi con la mano, y lleva agua.`,
+        `Los parques caninos registrados como SHIBA to KAZE en el parque Rinko suelen revisar las cartillas antirrábica y polivalente a la entrada, así que lleva los originales.`,
+        `Los restaurantes rara vez admiten perros en el interior: apunta a las terrazas al aire libre de Marine & Walk en el frente marítimo de Shinko, y pregunta en cada local antes de sentarte.`,
+      ],
+      pt: [
+        `Guarde o número do DVMs Animal Medical Center Yokohama (045-320-9099): assegura a receção de urgências noturnas da zona das 20:00 às 03:00 perto da estação de Yokohama, quando as clínicas de dia estão fechadas.`,
+        `Em comboios e autocarros o cão só viaja totalmente fechado numa caixa dentro do limite de tamanho do operador, nunca à trela nem ao colo, por isso leve uma caixa que o seu cão tolere.`,
+        `O verão na baía é quente e húmido: passeie a frente marítima ao amanhecer ou depois de anoitecer, teste o pavimento e o passadiço da Kishamichi com a mão, e leve água.`,
+        `Os parques caninos registados como o SHIBA to KAZE no parque Rinko costumam verificar os boletins antirrábico e polivalente à entrada, por isso leve os originais.`,
+        `Os restaurantes raramente admitem cães no interior: aposte nas esplanadas ao ar livre do Marine & Walk na frente marítima de Shinko, e pergunte em cada espaço antes de se sentar.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Le Japon n'est ni dans l'UE ni dans Schengen et est indemne de rage : faire entrer un chien exige une puce ISO, deux vaccins antirabiques, un test de titrage des anticorps puis une attente de 180 jours, plus une notification préalable à la quarantaine ; lancez la démarche près d'un an à l'avance.`,
+        `Aéroports : Haneda (HND) est la porte d'entrée la plus proche, à environ 30 minutes, Narita (NRT) bien plus loin ; vérifiez les règles animalières de votre compagnie avant de réserver.`,
+        `Monnaie : le yen japonais. Yokohama est un peu plus douce pour le budget que le centre de Tokyo mais reste chère ; prévoyez un taxi animalier quand le chien est trop grand pour une caisse.`,
+        `Meilleures saisons : le printemps et l'automne sont doux et agréables pour marcher au bord de l'eau ; évitez l'été chaud et humide, la saison des pluies de juin et les perturbations de typhons autour de septembre.`,
+        `Sur place : logez près du front de mer de Minato Mirai ou de Kannai pour relier les sites accueillant les chiens à pied, et gardez le numéro d'urgence DVMs enregistré avant d'en avoir besoin.`,
+      ],
+      en: [
+        `Japan is neither in the EU nor Schengen and is rabies-free: importing a dog needs an ISO microchip, two rabies vaccinations, a rabies antibody titre test then a 180-day wait, plus advance quarantine notification, so start close to a year ahead.`,
+        `Airports: Haneda (HND) is the nearest gateway about 30 minutes away, Narita (NRT) is far longer; check your airline's pet rules before booking.`,
+        `Currency: the Japanese yen. Yokohama is a little easier on the budget than central Tokyo but still pricey; allow for a pet taxi when the dog is too big for a carrier.`,
+        `Best seasons: spring and autumn are mild and pleasant for waterfront walks; avoid the hot, humid summer, the June rainy season and typhoon disruption around September.`,
+        `Getting around: base yourself near the Minato Mirai or Kannai waterfront so the dog-friendly sights connect on foot, and keep the DVMs emergency number saved before you need it.`,
+      ],
+      es: [
+        `Japón no está en la UE ni en Schengen y está libre de rabia: importar un perro exige microchip ISO, dos vacunas antirrábicas, una prueba de titulación de anticuerpos y luego una espera de 180 días, más notificación previa de cuarentena, así que empieza casi un año antes.`,
+        `Aeropuertos: Haneda (HND) es la puerta de entrada más cercana, a unos 30 minutos, Narita (NRT) queda mucho más lejos; consulta las normas de mascotas de tu aerolínea antes de reservar.`,
+        `Moneda: el yen japonés. Yokohama es algo más llevadera para el bolsillo que el centro de Tokio pero sigue siendo cara; prevé un taxi para mascotas cuando el perro sea demasiado grande para un transportín.`,
+        `Mejores temporadas: primavera y otoño son suaves y agradables para pasear junto al agua; evita el verano caluroso y húmedo, la temporada de lluvias de junio y las alteraciones por tifones en torno a septiembre.`,
+        `Para moverte: alójate cerca del frente marítimo de Minato Mirai o Kannai para enlazar a pie los lugares que admiten perros, y guarda el número de urgencias DVMs antes de necesitarlo.`,
+      ],
+      pt: [
+        `O Japão não está na UE nem em Schengen e está livre de raiva: importar um cão exige microchip ISO, duas vacinas antirrábicas, um teste de titulação de anticorpos e depois uma espera de 180 dias, mais notificação prévia de quarentena, por isso comece quase um ano antes.`,
+        `Aeroportos: Haneda (HND) é a porta de entrada mais próxima, a cerca de 30 minutos, Narita (NRT) fica muito mais longe; verifique as regras de animais da sua companhia aérea antes de reservar.`,
+        `Moeda: o iene japonês. Yokohama é um pouco mais suave para o orçamento do que o centro de Tóquio mas continua cara; conte com um táxi para animais quando o cão for grande de mais para uma caixa.`,
+        `Melhores épocas: primavera e outono são amenas e agradáveis para passear junto à água; evite o verão quente e húmido, a época das chuvas de junho e as perturbações por tufões por volta de setembro.`,
+        `Para se deslocar: fique perto da frente marítima de Minato Mirai ou de Kannai para ligar a pé os locais que aceitam cães, e guarde o número de urgência DVMs antes de precisar dele.`,
+      ],
+    },
+  },
   york: {
     history: {
       fr: `York, fondée par les Romains en 71 ap. J.-C. sous le nom d'Eboracum, fut tour à tour capitale de la Bretagne romaine, ville viking de Jorvik au IXe siècle, siège ecclésiastique normand puis cité médiévale prospère grâce à la laine et au commerce fluvial. Les remparts médiévaux longs de 5 km, les plus complets d'Angleterre, encerclent un cœur compact où coexistent la cathédrale gothique (York Minster, plus grande nef médiévale d'Europe du Nord), les ruelles de bouchers des Shambles, et les colombages héritiers de Jorvik. Pour les voyageurs avec chien, York est l'un des city-breaks britanniques les plus accessibles : centre marchable de bout en bout en 25 min, culture pub où environ 80 % des établissements accueillent le chien en laisse, parcs urbains à moins d'1 km des remparts, et trains LNER directs depuis Londres (1h50) ou Édimbourg (2h30).`,

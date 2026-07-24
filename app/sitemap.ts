@@ -135,6 +135,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'portugal-fraiche-chien',
     'allemagne-fraiche-chien',
     'autriche-fraiche-chien',
+    'autumn-destinations-with-dog-2026',
   ]
   const MONTHS = ['january','february','march','april','may','june','july','august','september','october','november','december']
   const ES_CITY_LANDINGS = [

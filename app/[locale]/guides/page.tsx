@@ -148,6 +148,7 @@ const COPY: Record<string, LocaleCopy> = {
         heading: 'Seasonal & themed',
         intro: 'When to go and what to plan around the calendar: heat waves, beach bans, tick season, indoor cafés.',
         guides: [
+          { slug: 'autumn-destinations-with-dog-2026', emoji: '🍂', title: 'Best autumn destinations to travel with your dog', desc: 'Shoulder-season warmth across Spain, Portugal and Italy, where dog beaches reopen after 30 September and crowds and prices drop.', tag: 'Autumn · new' },
           { slug: 'dog-friendly-europe-by-month', emoji: '📅', title: 'Dog-friendly Europe by month', desc: 'A month-by-month planner: where to go in January vs July, beach-ban windows, ferry seasons, tick alerts.', tag: 'Planner' },
         ],
       },
@@ -222,6 +223,7 @@ const COPY: Record<string, LocaleCopy> = {
         heading: `Saisonnier & thématique`,
         intro: `Quand partir et comment caler le calendrier : canicules, interdictions de plage, saison des tiques, cafés couverts.`,
         guides: [
+          { slug: 'autumn-destinations-with-dog-2026', emoji: '🍂', title: `Meilleures destinations d'automne avec son chien`, desc: `La douceur de l'arrière-saison en Espagne, au Portugal et en Italie, où les plages rouvrent aux chiens après le 30 septembre, foule et prix en baisse.`, tag: 'Automne · nouveau' },
           { slug: 'dog-friendly-europe-by-month', emoji: '📅', title: `Europe dog-friendly mois par mois`, desc: `Un planificateur mois par mois : où aller en janvier vs juillet, fenêtres d'interdiction plage, saisons ferries, alertes tiques.`, tag: 'Planificateur' },
         ],
       },
@@ -296,6 +298,7 @@ const COPY: Record<string, LocaleCopy> = {
         heading: 'Estacional y temático',
         intro: 'Cuándo ir y cómo planificar según el calendario: olas de calor, prohibiciones de playa, temporada de garrapatas, cafés cubiertos.',
         guides: [
+          { slug: 'autumn-destinations-with-dog-2026', emoji: '🍂', title: 'Mejores destinos de otoño con tu perro', desc: 'La suavidad de la temporada media por España, Portugal e Italia, donde las playas reabren a los perros tras el 30 de septiembre, con menos gente y precios más bajos.', tag: 'Otoño · nuevo' },
           { slug: 'dog-friendly-europe-by-month', emoji: '📅', title: 'Europa dog-friendly mes a mes', desc: 'Un planificador mes a mes: dónde ir en enero vs julio, ventanas de prohibición de playa, temporadas de ferry, alertas de garrapatas.', tag: 'Planificador' },
         ],
       },
@@ -370,6 +373,7 @@ const COPY: Record<string, LocaleCopy> = {
         heading: `Sazonal e temático`,
         intro: `Quando ir e como planear consoante o calendário: ondas de calor, interdições de praia, época das carraças, cafés cobertos.`,
         guides: [
+          { slug: 'autumn-destinations-with-dog-2026', emoji: '🍂', title: `Melhores destinos de outono com o seu cão`, desc: `A suavidade da época intermédia por Espanha, Portugal e Itália, onde as praias reabrem aos cães depois de 30 de setembro, com menos gente e preços mais baixos.`, tag: 'Outono · novo' },
           { slug: 'dog-friendly-europe-by-month', emoji: '📅', title: `Europa dog-friendly mês a mês`, desc: `Um planeador mês a mês: onde ir em Janeiro vs Julho, janelas de interdição de praia, épocas de ferry, alertas de carraças.`, tag: 'Planeador' },
         ],
       },

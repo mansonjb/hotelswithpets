@@ -1667,6 +1667,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Upper Barrakka Gardens above the Grand Harbour, the Hastings Gardens bastion walk, and a day trip to Ta\'Qali National Park',
       area: 'the Valletta peninsula itself, Sliema across Marsamxett, and the Three Cities of Senglea, Vittoriosa and Cospicua',
     },
+    vancouver: {
+      personality: `one of North America's most dog-friendly cities, wrapped by ocean, mountains and rainforest, where leashed dogs own the Stanley Park seawall and more than thirty off-leash areas, though TransLink's carrier-only rule keeps larger dogs off the SkyTrain and buses`,
+      highlight: `the roughly 9 km Stanley Park seawall, the off-leash forest trails of Pacific Spirit Regional Park, and the seasonal dog beach at Spanish Banks`,
+      area: `the West End and Stanley Park, False Creek and Granville Island, and the Kitsilano and Mount Pleasant neighbourhoods`,
+    },
     vannes: {
       personality: `the gateway to the Gulf of Morbihan, a Breton medieval city where three-quarters of the 13th-to-16th-century fortified walls survive around a fully pedestrian half-timbered Vieille Ville, with BreizhGo Bateaux Bus du Golfe ferries to the car-free islands of Arz and Aux Moines making it one of Brittany's most rewarding pet-friendly bases`,
       highlight: `the Jardin des Remparts at the foot of the medieval walls, the Parc de la Garenne above the ramparts, and the 17 km coastal loop of the car-free Île d'Arz reached by Bateaux Bus du Golfe`,
@@ -3553,6 +3558,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une compacte ville-forteresse de calcaire classée UNESCO où les chiens parcourent la péninsule d\'1 km en un après-midi, montent gratuitement à bord des ferries de Sliema et des Trois Cités et sont accueillis sur les terrasses et dans les jardins Barrakka et Hastings',
       highlight: 'les jardins Upper Barrakka surplombant le Grand Port, la promenade des bastions Hastings et une excursion à Ta\'Qali National Park',
       area: 'la péninsule de La Valette elle-même, Sliema en face de Marsamxett, et les Trois Cités de Senglea, Vittoriosa et Cospicua',
+    },
+    vancouver: {
+      personality: `l'une des villes les plus accueillantes pour les chiens d'Amérique du Nord, cernée par l'océan, les montagnes et la forêt pluviale, où les chiens en laisse règnent sur la digue de Stanley Park et plus de trente aires sans laisse, même si la règle du sac obligatoire de TransLink tient les grands chiens hors du SkyTrain et des bus`,
+      highlight: `la digue de Stanley Park d'environ 9 km, les sentiers forestiers sans laisse de Pacific Spirit Regional Park, et la plage à chiens saisonnière de Spanish Banks`,
+      area: `le West End et Stanley Park, False Creek et Granville Island, et les quartiers de Kitsilano et Mount Pleasant`,
     },
     vannes: {
       personality: `la porte d'entrée du Golfe du Morbihan, une ville médiévale bretonne où trois quarts des remparts fortifiés des XIIIe-XVIe siècles subsistent autour d'une Vieille Ville à colombages entièrement piétonne, avec les Bateaux Bus du Golfe BreizhGo vers les îles sans voiture d'Arz et aux Moines, ce qui en fait l'une des bases pet-friendly les plus gratifiantes de Bretagne`,
@@ -5441,6 +5451,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'los Upper Barrakka Gardens sobre el Gran Puerto, el paseo de los bastiones Hastings y una excursión al Ta\'Qali National Park',
       area: 'la propia península de La Valeta, Sliema frente a Marsamxett, y las Tres Ciudades de Senglea, Vittoriosa y Cospicua',
     },
+    vancouver: {
+      personality: `una de las ciudades más acogedoras para perros de Norteamérica, rodeada de océano, montañas y selva templada, donde los perros con correa reinan en el malecón de Stanley Park y en más de treinta zonas sin correa, aunque la norma de transportín obligatorio de TransLink mantiene a los perros grandes fuera del SkyTrain y los autobuses`,
+      highlight: `el malecón de Stanley Park de unos 9 km, los senderos forestales sin correa de Pacific Spirit Regional Park, y la playa canina estacional de Spanish Banks`,
+      area: `el West End y Stanley Park, False Creek y Granville Island, y los barrios de Kitsilano y Mount Pleasant`,
+    },
     vannes: {
       personality: `la puerta de entrada al Golfo del Morbihan, una ciudad medieval bretona donde tres cuartos de las murallas fortificadas de los siglos XIII al XVI sobreviven en torno a una Vieille Ville con entramado de madera totalmente peatonal, con los Bateaux Bus du Golfe BreizhGo a las islas sin coche de Arz y aux Moines, lo que la convierte en una de las bases pet-friendly más gratificantes de Bretaña`,
       highlight: `el Jardin des Remparts al pie de las murallas medievales, el Parc de la Garenne sobre las murallas, y el bucle costero de 17 km de la Île d'Arz sin coche accesible por los Bateaux Bus du Golfe`,
@@ -7327,6 +7342,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma compacta cidade-fortaleza de calcário classificada pela UNESCO onde os cães percorrem a península de 1 km numa tarde, viajam gratuitamente nos ferries para Sliema e para as Três Cidades e são bem-vindos em esplanadas e nos jardins históricos Barrakka e Hastings',
       highlight: 'os Upper Barrakka Gardens sobre o Grand Harbour, o passeio dos bastiões Hastings e uma excursão ao Ta\'Qali National Park',
       area: 'a própria península de Valletta, Sliema em frente a Marsamxett, e as Três Cidades de Senglea, Vittoriosa e Cospicua',
+    },
+    vancouver: {
+      personality: `uma das cidades mais acolhedoras para cães da América do Norte, rodeada de oceano, montanhas e floresta pluvial, onde os cães à trela reinam no passeio marítimo de Stanley Park e em mais de trinta áreas sem trela, embora a regra de bolsa obrigatória da TransLink mantenha os cães grandes fora do SkyTrain e dos autocarros`,
+      highlight: `o passeio marítimo de Stanley Park de cerca de 9 km, os trilhos florestais sem trela do Pacific Spirit Regional Park, e a praia canina sazonal de Spanish Banks`,
+      area: `o West End e Stanley Park, False Creek e Granville Island, e os bairros de Kitsilano e Mount Pleasant`,
     },
     vannes: {
       personality: `a porta de entrada do Golfo do Morbihan, uma cidade medieval bretã onde três quartos das muralhas fortificadas dos séculos XIII a XVI sobrevivem em torno de uma Vieille Ville com entramado de madeira totalmente pedonal, com os Bateaux Bus du Golfe BreizhGo para as ilhas sem carro de Arz e aux Moines, o que a torna numa das bases pet-friendly mais gratificantes da Bretanha`,

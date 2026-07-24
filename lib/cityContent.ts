@@ -45670,6 +45670,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  vancouver: {
+    history: {
+      fr: `Vancouver s'élève sur le territoire ancestral des peuples Salish de la côte, les Musqueam, Squamish et Tsleil-Waututh, dont la présence précède de millénaires la ville actuelle. Née du hameau de scieurs de Gastown en 1867, la cité fut constituée en 1886 et baptisée d'après le capitaine George Vancouver, avant de devenir le terminus pacifique du chemin de fer Canadien Pacifique. Stanley Park fut ouvert dès 1888, posant l'ADN de plein air de la ville. Aujourd'hui, cette métropole du Pacifique d'environ 660 000 habitants, cernée par l'océan, les montagnes de la Rive-Nord et la forêt pluviale, affiche un très fort taux de possession canine. Pour un maître de chien, elle est un paradis en extérieur mais encadrée : laisse par défaut, plus de trente aires sans laisse, plages saisonnières, et surtout des transports en commun quasi fermés aux grands chiens.`,
+      en: `Vancouver rises on the ancestral territory of the Coast Salish peoples, the Musqueam, Squamish and Tsleil-Waututh, whose presence predates the modern city by millennia. Growing out of the Gastown sawmill settlement of 1867, the city was incorporated in 1886 and named after Captain George Vancouver, then became the Pacific terminus of the Canadian Pacific Railway. Stanley Park opened as early as 1888, setting the city's outdoor DNA. Today this Pacific metropolis of about 660,000 residents, hemmed by ocean, the North Shore mountains and rainforest, has one of the country's highest dog-ownership rates. For a dog owner it is an outdoor paradise but a rule-bound one: leashed by default, more than thirty off-leash areas, seasonal dog beaches, and above all a transit system that is effectively closed to larger dogs.`,
+      es: `Vancouver se levanta sobre el territorio ancestral de los pueblos salish de la costa, los musqueam, squamish y tsleil-waututh, cuya presencia precede en milenios a la ciudad moderna. Surgida del asentamiento maderero de Gastown en 1867, la ciudad se constituyó en 1886 y tomó el nombre del capitán George Vancouver, para luego convertirse en la terminal del Pacífico del ferrocarril Canadian Pacific. Stanley Park abrió ya en 1888, fijando el ADN al aire libre de la ciudad. Hoy esta metrópoli del Pacífico de unos 660 000 habitantes, ceñida por el océano, las montañas de la North Shore y la selva templada, tiene una de las tasas de perros por habitante más altas del país. Para un dueño de perro es un paraíso al aire libre pero reglado: con correa por defecto, más de treinta zonas sin correa, playas caninas estacionales y, sobre todo, un transporte público prácticamente cerrado a los perros grandes.`,
+      pt: `Vancouver ergue-se no território ancestral dos povos salish da costa, os musqueam, squamish e tsleil-waututh, cuja presença antecede em milénios a cidade moderna. Nascida do povoado madeireiro de Gastown em 1867, a cidade foi constituída em 1886 e recebeu o nome do capitão George Vancouver, tornando-se depois o terminal do Pacífico do caminho de ferro Canadian Pacific. Stanley Park abriu logo em 1888, fixando o ADN ao ar livre da cidade. Hoje esta metrópole do Pacífico de cerca de 660 000 habitantes, cercada pelo oceano, pelas montanhas da North Shore e pela floresta pluvial, tem uma das taxas de cães por habitante mais altas do país. Para um dono de cão é um paraíso ao ar livre mas regrado: à trela por defeito, mais de trinta áreas sem trela, praias caninas sazonais e, sobretudo, um transporte público praticamente vedado aos cães grandes.`,
+    },
+    sights: [
+      { name: 'Stanley Park & Seawall', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Le grand poumon vert de la ville, une presqu'île forestière ceinturée par une digue d'environ 9 km. Les chiens en laisse sont bienvenus partout sur la digue et les sentiers, avec une seule aire sans laisse clôturée près de Ceperley Field ; la plupart des plages du parc leur sont fermées en été.`,
+        en: `The city's great green lung, a forested peninsula ringed by a roughly 9 km seawall. Leashed dogs are welcome all along the seawall and trails, with a single fenced off-leash area near Ceperley Field; most park beaches are closed to dogs in summer.`,
+        es: `El gran pulmón verde de la ciudad, una península boscosa rodeada por un malecón de unos 9 km. Los perros con correa son bienvenidos por todo el malecón y los senderos, con una única zona sin correa vallada cerca de Ceperley Field; la mayoría de las playas del parque les están cerradas en verano.`,
+        pt: `O grande pulmão verde da cidade, uma península arborizada rodeada por um passeio marítimo de cerca de 9 km. Os cães à trela são bem-vindos por todo o passeio marítimo e trilhos, com uma única área sem trela vedada perto de Ceperley Field; a maioria das praias do parque está-lhes fechada no verão.`,
+      }},
+      { name: 'Pacific Spirit Regional Park', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Un immense parc forestier de plus de 750 hectares à côté de l'UBC, avec des kilomètres de sentiers en forêt secondaire. Beaucoup de sentiers autorisent les chiens sans laisse sous contrôle à la voix, ce qui en fait la meilleure course en forêt dans les limites de la ville.`,
+        en: `A huge forest park of over 750 hectares next to UBC, with kilometres of second-growth woodland trails. Many trails allow off-leash dogs under voice control, making it the best proper forest run within the city limits.`,
+        es: `Un enorme parque forestal de más de 750 hectáreas junto a la UBC, con kilómetros de senderos por bosque secundario. Muchos senderos permiten perros sin correa bajo control por voz, lo que lo convierte en la mejor carrera por el bosque dentro de los límites de la ciudad.`,
+        pt: `Um enorme parque florestal de mais de 750 hectares junto à UBC, com quilómetros de trilhos de floresta secundária. Muitos trilhos permitem cães sem trela sob controlo por voz, o que o torna a melhor corrida na floresta dentro dos limites da cidade.`,
+      }},
+      { name: 'Spanish Banks Beach', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `L'extrémité ouest de cette longue plage abrite une grande zone sans laisse désignée sur un rivage rocheux à marée basse, avec de superbes vues sur le coucher du soleil et les montagnes. L'accès des chiens est saisonnier, généralement d'environ septembre à avril.`,
+        en: `The western end of this long beach holds a large designated off-leash zone on a rocky, tide-flat shore with superb sunset and mountain views. Dog access is seasonal, generally allowed from about September to April.`,
+        es: `El extremo oeste de esta larga playa alberga una gran zona sin correa designada en una orilla rocosa de marea baja, con magníficas vistas del atardecer y las montañas. El acceso de perros es estacional, en general de septiembre a abril aproximadamente.`,
+        pt: `O extremo oeste desta longa praia alberga uma grande zona sem trela designada numa orla rochosa de maré baixa, com magníficas vistas do pôr do sol e das montanhas. O acesso de cães é sazonal, em geral de cerca de setembro a abril.`,
+      }},
+      { name: 'Granville Island', emoji: '🎨', petFriendly: true, desc: {
+        fr: `Une ancienne péninsule industrielle devenue quartier d'art et de gastronomie sous le pont Granville, à rejoindre avec un chien sur l'Aquabus qui accepte les chiens en laisse. Les chiens sont admis dans les allées extérieures et sur les terrasses, mais pas à l'intérieur du marché public.`,
+        en: `A former industrial peninsula turned arts and food district under the Granville Bridge, reached with a dog on the leashed-dog-friendly Aquabus. Dogs are welcome in the outdoor lanes and on patios, but not inside the Public Market building.`,
+        es: `Una antigua península industrial convertida en barrio de arte y gastronomía bajo el puente Granville, a la que se llega con perro en el Aquabus, que admite perros con correa. Los perros son bienvenidos en los callejones exteriores y las terrazas, pero no dentro del edificio del mercado público.`,
+        pt: `Uma antiga península industrial tornada bairro de arte e gastronomia sob a ponte Granville, a que se chega com cão no Aquabus, que aceita cães à trela. Os cães são bem-vindos nas ruelas exteriores e nas esplanadas, mas não dentro do edifício do mercado público.`,
+      }},
+      { name: 'John Hendry Park (Trout Lake)', emoji: '🐕', petFriendly: true, desc: {
+        fr: `Ce parc de l'est de Vancouver autour de Trout Lake possède l'une des aires sans laisse clôturées les plus populaires de la ville, plus un coin de baignade réservé aux chiens sur la rive du lac. Un lieu convivial où les chiens du quartier se retrouvent toute l'année.`,
+        en: `This East Vancouver park around Trout Lake has one of the city's most popular fenced off-leash areas plus a designated dog-swim spot on the lake shore. A social hub where local dogs gather all year round.`,
+        es: `Este parque del este de Vancouver en torno a Trout Lake tiene una de las zonas sin correa valladas más populares de la ciudad, además de un punto de baño para perros en la orilla del lago. Un lugar social donde los perros del barrio se reúnen todo el año.`,
+        pt: `Este parque do leste de Vancouver em torno de Trout Lake tem uma das áreas sem trela vedadas mais populares da cidade, além de um ponto de banho para cães na margem do lago. Um lugar social onde os cães do bairro se reúnem todo o ano.`,
+      }},
+      { name: 'Capilano Suspension Bridge', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Un pont suspendu de 140 mètres oscillant au-dessus du canyon de la rivière Capilano, sur la Rive-Nord. Les chiens en laisse peuvent traverser le pont et parcourir le site, mais pas la zone de rapaces Raptors Ridge ni la boutique ; confirmez les règles avant de venir.`,
+        en: `A 140-metre suspension bridge swaying above the Capilano River canyon on the North Shore. Leashed dogs may cross the bridge and walk the grounds, but not the Raptors Ridge birds-of-prey area or the gift shop; confirm the rules before visiting.`,
+        es: `Un puente colgante de 140 metros que se balancea sobre el cañón del río Capilano, en la North Shore. Los perros con correa pueden cruzar el puente y recorrer el recinto, pero no la zona de rapaces Raptors Ridge ni la tienda; confirma las normas antes de ir.`,
+        pt: `Uma ponte suspensa de 140 metros que baloiça sobre o desfiladeiro do rio Capilano, na North Shore. Os cães à trela podem atravessar a ponte e percorrer o recinto, mas não a zona de aves de rapina Raptors Ridge nem a loja; confirme as regras antes de ir.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `La laisse est la règle par défaut partout ; les chiens ne courent librement que dans les aires sans laisse désignées par le Park Board (plus de trente), et la digue de Stanley Park est toujours en laisse.`,
+        `Contrainte majeure : TransLink n'autorise les chiens dans le SkyTrain, les bus et le SeaBus que dans un petit sac fermé porté sur les genoux, si bien qu'un chien moyen ou grand ne peut pas utiliser les transports en commun.`,
+        `Beaucoup d'aires sans laisse non clôturées ont des horaires, souvent avant 10h et après 17h, et l'accès aux plages à chiens est en grande partie saisonnier (souvent de septembre à avril) : lisez le panneau à chaque parc.`,
+        `L'Aquabus et les False Creek Ferries accueillent les chiens en laisse : c'est le moyen le plus simple de circuler avec un grand chien sur le front de mer de False Creek.`,
+        `Urgence vétérinaire 24h/24 : Canada West Veterinary Specialists, 1988 Kootenay Street (604-473-4882) ; appelez avant de vous déplacer et prévoyez des coûts en dollars canadiens.`,
+      ],
+      en: [
+        `Leash is the default everywhere; dogs run free only in the Park Board's designated off-leash areas (more than thirty), and the Stanley Park seawall is always on-leash.`,
+        `Major constraint: TransLink only allows dogs on the SkyTrain, buses and SeaBus inside a small closed carrier on your lap, so a mid-size or large dog cannot use public transit.`,
+        `Many unfenced off-leash areas are time-limited, often before 10am and after 5pm, and dog-beach access is largely seasonal (often September to April), so read the sign at each park.`,
+        `The Aquabus and False Creek Ferries welcome leashed dogs, the easiest way to get around the False Creek waterfront with a bigger dog.`,
+        `24/7 emergency vet: Canada West Veterinary Specialists, 1988 Kootenay Street (604-473-4882); call ahead before travelling in and budget for costs in Canadian dollars.`,
+      ],
+      es: [
+        `La correa es la norma por defecto en todas partes; los perros corren libres solo en las zonas sin correa designadas por el Park Board (más de treinta), y el malecón de Stanley Park es siempre con correa.`,
+        `Gran limitación: TransLink solo permite perros en el SkyTrain, los autobuses y el SeaBus en un pequeño transportín cerrado sobre el regazo, así que un perro mediano o grande no puede usar el transporte público.`,
+        `Muchas zonas sin correa sin vallar tienen horarios, a menudo antes de las 10h y después de las 17h, y el acceso a las playas caninas es en gran parte estacional (a menudo de septiembre a abril): lee el cartel de cada parque.`,
+        `El Aquabus y los False Creek Ferries admiten perros con correa, la forma más fácil de moverse por el paseo marítimo de False Creek con un perro más grande.`,
+        `Veterinario de urgencias 24/7: Canada West Veterinary Specialists, 1988 Kootenay Street (604-473-4882); llama antes de ir y presupuesta los costes en dólares canadienses.`,
+      ],
+      pt: [
+        `A trela é a regra por defeito em todo o lado; os cães correm livres apenas nas áreas sem trela designadas pelo Park Board (mais de trinta), e o passeio marítimo de Stanley Park é sempre à trela.`,
+        `Grande limitação: a TransLink só permite cães no SkyTrain, nos autocarros e no SeaBus numa pequena bolsa fechada ao colo, por isso um cão médio ou grande não pode usar o transporte público.`,
+        `Muitas áreas sem trela não vedadas têm horários, muitas vezes antes das 10h e depois das 17h, e o acesso às praias caninas é em grande parte sazonal (muitas vezes de setembro a abril): leia a placa de cada parque.`,
+        `O Aquabus e os False Creek Ferries aceitam cães à trela, a forma mais fácil de circular pela marginal de False Creek com um cão maior.`,
+        `Veterinário de urgência 24/7: Canada West Veterinary Specialists, 1988 Kootenay Street (604-473-4882); ligue antes de ir e orce os custos em dólares canadianos.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Canada : depuis la plupart des pays, un chien a besoin d'un certificat de vaccination antirabique valide ; il n'y a pas de quarantaine. Vérifiez les règles à jour de l'Agence canadienne d'inspection des aliments avant de partir.`,
+        `Aéroport : Vancouver International (YVR) à Richmond est la porte d'entrée ; vérifiez bien à l'avance les règles de transport animalier de votre compagnie.`,
+        `Monnaie : le dollar canadien. Budget dog-friendly de grande ville, avec une marge à prévoir pour les taxis ou une voiture de location si votre chien est trop grand pour les transports.`,
+        `Meilleures saisons : de la fin du printemps au début de l'automne, doux et sec pour les terrasses et la digue ; de l'automne au printemps s'ouvrent plusieurs plages à chiens fermées en été. Hivers doux mais pluvieux.`,
+        `Climat côtier pluvieux : emportez une serviette et un imperméable pour chien l'hiver ; lors des rares chaleurs d'été, promenez-vous aux heures fraîches et testez le bitume avec la main.`,
+      ],
+      en: [
+        `Entry to Canada: from most countries a dog needs a valid rabies vaccination certificate; there is no quarantine. Check the current Canadian Food Inspection Agency rules before you travel.`,
+        `Airport: Vancouver International (YVR) in Richmond is the gateway; check your airline's pet-transport rules well in advance.`,
+        `Currency: the Canadian dollar. Expect a big-city dog-friendly budget, with a margin for taxis or a rental car if your dog is too large for transit.`,
+        `Best seasons: late spring through early autumn is mild and dry for patios and the seawall; autumn to spring opens up several dog beaches that close in summer. Winters are mild but wet.`,
+        `Rainy coastal climate: pack a towel and a dog raincoat for winter; in the rare summer heat, walk at cooler hours and test the pavement with your hand.`,
+      ],
+      es: [
+        `Entrada a Canadá: desde la mayoría de los países un perro necesita un certificado de vacunación antirrábica válido; no hay cuarentena. Consulta las normas vigentes de la Agencia Canadiense de Inspección de Alimentos antes de viajar.`,
+        `Aeropuerto: Vancouver International (YVR) en Richmond es la puerta de entrada; consulta con antelación las normas de transporte de mascotas de tu aerolínea.`,
+        `Moneda: el dólar canadiense. Cuenta con un presupuesto dog-friendly de gran ciudad, con margen para taxis o un coche de alquiler si tu perro es demasiado grande para el transporte.`,
+        `Mejores temporadas: de finales de primavera a principios de otoño, suave y seco para terrazas y malecón; de otoño a primavera se abren varias playas caninas cerradas en verano. Inviernos suaves pero lluviosos.`,
+        `Clima costero lluvioso: lleva una toalla y un impermeable para perro en invierno; en el raro calor de verano, pasea a las horas frescas y comprueba el pavimento con la mano.`,
+      ],
+      pt: [
+        `Entrada no Canadá: da maioria dos países um cão precisa de um certificado de vacinação antirrábica válido; não há quarentena. Verifique as regras em vigor da Agência Canadiana de Inspeção Alimentar antes de viajar.`,
+        `Aeroporto: o Vancouver International (YVR) em Richmond é a porta de entrada; verifique com antecedência as regras de transporte de animais da sua companhia aérea.`,
+        `Moeda: o dólar canadiano. Conte com um orçamento pet-friendly de grande cidade, com margem para táxis ou um carro de aluguer se o seu cão for grande demais para o transporte.`,
+        `Melhores épocas: do fim da primavera ao início do outono é ameno e seco para esplanadas e passeio marítimo; do outono à primavera abrem várias praias caninas fechadas no verão. Invernos amenos mas chuvosos.`,
+        `Clima costeiro chuvoso: leve uma toalha e um impermeável para cão no inverno; no raro calor de verão, passeie às horas frescas e teste o pavimento com a mão.`,
+      ],
+    },
+  },
+
   vannes: {
     history: {
       fr: `Vannes, fondée par les Gaulois Vénètes et baptisée Darioritum par les Romains au Ier siècle, fut la capitale armoricaine où Jules César défit la flotte vénète en 56 av. J.-C. Devenue capitale du duché de Bretagne au XVe siècle, c'est dans son couvent des Cordeliers qu'en 1532 les États de Bretagne ratifièrent l'union du duché à la France. Les remparts médiévaux des XIIIe-XVIe siècles, construits sur la colline du Mené sur fondation romaine, subsistent à 75% sur environ 900 mètres, faisant de Vannes l'enceinte fortifiée la mieux préservée de Bretagne. Aujourd'hui ville d'environ 53 000 habitants (200 000 dans l'agglomération Golfe du Morbihan-Vannes), Vannes est la porte d'entrée du Golfe du Morbihan et de ses 42 îles habitées, à 2h35 de TGV de Paris-Montparnasse et à 1h20 en voiture des aéroports de Nantes et Rennes.`,

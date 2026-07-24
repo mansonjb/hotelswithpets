@@ -26407,6 +26407,81 @@
     "tiqetsId": "73787"
   },
   {
+    "slug": "vancouver",
+    "name": "Vancouver",
+    "country": "Canada",
+    "countryCode": "CA",
+    "flag": "🇨🇦",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/vancouver.jpg",
+    "intro": "Vancouver is one of North America's most dog-friendly cities, wrapped by ocean, mountains and rainforest, where the outdoors is the whole point. Leashed dogs are welcome along the roughly 9-kilometre Stanley Park seawall and on more than thirty Park Board off-leash areas, from the fenced grounds at Trout Lake to the forest trails of Pacific Spirit, while a short official list of dog beaches (Spanish Banks, Sunset Beach, Hadden Park) opens up mostly in the cooler months. The catch is transit: TransLink only allows dogs on the SkyTrain, buses and SeaBus inside a small carrier on your lap, so a larger dog gets around on foot, by car, by dog-accepting taxi, or on the leashed-dog-friendly Aquabus ferries. Patios rule the food scene, 24/7 emergency vets like Canada West have the city covered, and Capilano Suspension Bridge is a rare marquee attraction that lets leashed dogs cross.",
+    "lat": 49.2827,
+    "lng": -123.1207,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold & rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 7,
+        "desc": "Cool & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 10,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Warm & mild",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "YVR"
+  },
+  {
     "slug": "vannes",
     "name": "Vannes",
     "country": "France",

@@ -50913,6 +50913,222 @@
     "petPolicyPt": "O AX The Palace é um cinco estrelas contemporâneo no centro de Sliema, a 10 minutos de ferry de Valletta com o cão. Aplica-se uma taxa de animal de €20 por noite, cobrada no check-in. Cães e gatos até 15 kg aceites; um animal por quarto. Os animais são bem-vindos nos quartos e esplanadas exteriores mas não no deck da piscina de cobertura nem nos restaurantes. O passeio marítimo de Sliema fica a dois minutos, com sombra e tigelas de água em vários cafés de frente marítima. O ferry gratuito para Valletta sai a cada 30 minutos a partir das 06:00."
   },
   {
+    "id": "vancouver-1",
+    "name": "Pan Pacific Vancouver",
+    "destinationSlug": "vancouver",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 2792,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ca/p-p-vancouver-vancouver-british-columbia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Canadian hotels often apply conditions such as size or weight limits, a cap on the number of pets, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Parking on site",
+      "WiFi"
+    ],
+    "slug": "pan-pacific-vancouver-vancouver",
+    "address": "Suite 300-999 Canada Place, V6C 3B5 Vancouver, Canada",
+    "neighborhood": "Downtown Vancouver"
+  },
+  {
+    "id": "vancouver-2",
+    "name": "Fairmont Hotel Vancouver",
+    "destinationSlug": "vancouver",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 1408,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ca/fairmont-vancouver.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Canadian hotels often apply conditions such as size or weight limits, a cap on the number of pets, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Parking on site",
+      "WiFi available in all areas"
+    ],
+    "slug": "fairmont-hotel-vancouver-vancouver",
+    "address": "Vancouver, BC, Canada",
+    "neighborhood": "Downtown Vancouver"
+  },
+  {
+    "id": "vancouver-3",
+    "name": "AZUR Legacy Collection Hotel",
+    "destinationSlug": "vancouver",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 619,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ca/azur-legacy-collection.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Canadian hotels often apply conditions such as size or weight limits, a cap on the number of pets, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "azur-legacy-collection-hotel-vancouver",
+    "address": "833 West Pender Street, V6C 1K7 Vancouver, Canada",
+    "neighborhood": "Downtown Vancouver"
+  },
+  {
+    "id": "vancouver-4",
+    "name": "The Westin Bayshore, Vancouver",
+    "destinationSlug": "vancouver",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 1071,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ca/the-westin-bayshore-vancouver.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Canadian hotels often apply conditions such as size or weight limits, a cap on the number of pets, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "2 swimming pools",
+      "Parking on site",
+      "Free WiFi"
+    ],
+    "slug": "the-westin-bayshore-vancouver-vancouver",
+    "address": "1601 Bayshore Drive, V6G 2V4 Vancouver, Canada",
+    "neighborhood": "Downtown Vancouver"
+  },
+  {
+    "id": "vancouver-5",
+    "name": "The Sutton Place Hotel Vancouver",
+    "destinationSlug": "vancouver",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 2602,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ca/the-sutton-place-vancouver.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Canadian hotels often apply conditions such as size or weight limits, a cap on the number of pets, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "the-sutton-place-hotel-vancouver-vancouver",
+    "address": "Vancouver, BC, Canada",
+    "neighborhood": "Downtown Vancouver"
+  },
+  {
+    "id": "vancouver-6",
+    "name": "Fairmont Waterfront",
+    "destinationSlug": "vancouver",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 817,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ca/the-fairfront-waterfront.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Canadian hotels often apply conditions such as size or weight limits, a cap on the number of pets, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Parking on site",
+      "WiFi"
+    ],
+    "slug": "fairmont-waterfront-vancouver",
+    "address": "Vancouver, BC, Canada",
+    "neighborhood": "Downtown Vancouver"
+  },
+  {
+    "id": "vancouver-7",
+    "name": "Wedgewood Hotel & Spa - Relais & Chateaux",
+    "destinationSlug": "vancouver",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 844,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ca/wedgewood-spa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Canadian hotels often apply conditions such as size or weight limits, a cap on the number of pets, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "wedgewood-hotel-spa-relais-chateaux-vancouver",
+    "address": "845 Hornby Street, V6Z 1V1 Vancouver, Canada",
+    "neighborhood": "Downtown Vancouver"
+  },
+  {
+    "id": "vancouver-8",
+    "name": "Loden Vancouver",
+    "destinationSlug": "vancouver",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.7,
+    "reviewCount": 287,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/ca/loden-vancouver.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Listed as pet-friendly on Booking.com. Canadian hotels often apply conditions such as size or weight limits, a cap on the number of pets, and an extra cleaning fee, so confirm the exact pet terms and any charge directly with the hotel before booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "loden-vancouver-vancouver",
+    "address": "1177 Melville Street, V6E 0A3 Vancouver, Canada",
+    "neighborhood": "Downtown Vancouver"
+  },
+  {
     "id": "vannes-1",
     "name": "Best Western Plus Le Roof Vannes Bord de Mer",
     "destinationSlug": "vannes",

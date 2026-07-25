@@ -40590,6 +40590,142 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'st-ives': {
+    history: {
+      fr: `St Ives, port de pêche cornouaillais blotti autour d'une baie de sable blanc à l'extrême ouest de l'Angleterre, doit sa célébrité à deux choses : la sardine et la lumière. Après l'effondrement de la pêche à la sardine, la clarté extraordinaire de sa lumière atlantique attira les artistes, et la ville devint dès les années 1920 l'une des plus grandes colonies d'artistes de Grande-Bretagne, aujourd'hui couronnée par la galerie Tate St Ives (1993) et le musée Barbara Hepworth. Le vieux quartier de Downlong, dédale de ruelles de granit et de cottages de pêcheurs, descend vers un port abrité et cinq plages de sable. Pour un chien, St Ives est l'une des villes les plus accueillantes de Cornouailles : chiens gratuits dans le petit train depuis St Erth, gratuits sur les excursions vers les phoques, bienvenus dans les pubs du port et sur le South West Coast Path toute l'année. Le seul point à anticiper : les règles saisonnières des plages canines, fixées par le Cornwall Council. Et pour les visiteurs de l'UE, la Grande-Bretagne exige depuis le Brexit un Animal Health Certificate au lieu du passeport européen.`,
+      en: `St Ives, a Cornish fishing port wrapped around a white-sand bay at the far west of England, owes its fame to two things: pilchards and light. After the pilchard fishery collapsed, the extraordinary clarity of its Atlantic light drew artists, and from the 1920s the town became one of Britain's great art colonies, now crowned by the Tate St Ives gallery (1993) and the Barbara Hepworth Museum. The old Downlong quarter, a maze of granite lanes and fishermen's cottages, tumbles down to a sheltered harbour and five sandy beaches. For a dog, St Ives is one of Cornwall's most welcoming towns: dogs travel free on the little branch-line train from St Erth, free on the seal boat trips, and are welcome in the harbour pubs and on the South West Coast Path year-round. The one thing to plan around is the seasonal beach dog rules set by Cornwall Council. And for EU visitors, since Brexit Great Britain requires a GB Animal Health Certificate instead of the EU pet passport.`,
+      es: `St Ives, puerto pesquero de Cornualles arropado en torno a una bahía de arena blanca en el extremo oeste de Inglaterra, debe su fama a dos cosas: la sardina y la luz. Tras el hundimiento de la pesca de la sardina, la extraordinaria claridad de su luz atlántica atrajo a los artistas, y desde los años veinte la ciudad se convirtió en una de las grandes colonias de artistas de Gran Bretaña, hoy coronada por la galería Tate St Ives (1993) y el Museo Barbara Hepworth. El viejo barrio de Downlong, un laberinto de callejuelas de granito y casitas de pescadores, baja hacia un puerto resguardado y cinco playas de arena. Para un perro, St Ives es uno de los pueblos más acogedores de Cornualles: los perros viajan gratis en el pequeño tren de ramal desde St Erth, gratis en las excursiones a las focas, y son bienvenidos en los pubs del puerto y en el South West Coast Path todo el año. Lo único que hay que planificar son las normas estacionales de las playas caninas fijadas por el Cornwall Council. Y para los visitantes de la UE, desde el Brexit Gran Bretaña exige un Animal Health Certificate británico en lugar del pasaporte europeo.`,
+      pt: `St Ives, porto piscatório da Cornualha aninhado em torno de uma baía de areia branca no extremo oeste de Inglaterra, deve a sua fama a duas coisas: a sardinha e a luz. Após o colapso da pesca da sardinha, a extraordinária clareza da sua luz atlântica atraiu os artistas, e a partir dos anos vinte a vila tornou-se uma das grandes colónias de artistas da Grã-Bretanha, hoje coroada pela galeria Tate St Ives (1993) e pelo Museu Barbara Hepworth. O velho bairro de Downlong, um labirinto de ruelas de granito e casinhas de pescadores, desce para um porto abrigado e cinco praias de areia. Para um cão, St Ives é uma das vilas mais acolhedoras da Cornualha: os cães viajam grátis no pequeno comboio de ramal desde St Erth, grátis nos passeios às focas, e são bem-vindos nos pubs do porto e no South West Coast Path todo o ano. A única coisa a planear são as regras sazonais das praias caninas definidas pelo Cornwall Council. E para os visitantes da UE, desde o Brexit a Grã-Bretanha exige um Animal Health Certificate britânico em vez do passaporte europeu.`,
+    },
+    sights: [
+      {
+        name: 'Bamaluz Beach',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Petite crique de sable abritée sous le musée, entre le port et Porthgwidden, et la seule plage de St Ives ouverte aux chiens toute l'année, sans interdiction saisonnière.`,
+          en: `A small, sheltered sandy cove below the museum, between the harbour and Porthgwidden, and the one St Ives beach open to dogs all year with no seasonal ban.`,
+          es: `Pequeña cala de arena resguardada bajo el museo, entre el puerto y Porthgwidden, y la única playa de St Ives abierta a los perros todo el año, sin veda estacional.`,
+          pt: `Pequena enseada de areia abrigada por baixo do museu, entre o porto e Porthgwidden, e a única praia de St Ives aberta aos cães todo o ano, sem proibição sazonal.`,
+        },
+      },
+      {
+        name: 'Porthmeor Beach',
+        emoji: '🏄',
+        petFriendly: true,
+        desc: {
+          fr: `Grande plage de surf Blue Flag sous la Tate, avec un café acceptant les chiens. Chiens interdits 10h-18h du 15 mai au 30 septembre ; autorisés tôt, tard et hors saison.`,
+          en: `The big Blue Flag surf beach below the Tate, with a dog-friendly cafe. Dogs banned 10am-6pm from 15 May to 30 September; allowed early, late and off-season.`,
+          es: `La gran playa de surf Blue Flag bajo la Tate, con un café que admite perros. Perros vetados 10-18h del 15 de mayo al 30 de septiembre; permitidos temprano, tarde y fuera de temporada.`,
+          pt: `A grande praia de surf Blue Flag por baixo da Tate, com um café que aceita cães. Cães proibidos das 10h-18h de 15 de maio a 30 de setembro; permitidos cedo, tarde e fora de época.`,
+        },
+      },
+      {
+        name: 'St Ives Harbour',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Le port en activité au sable doré, cerné de pubs et de bateaux de pêche, avec Smeaton's Pier. Le côté nord de la jetée est une plage canine ouverte toute l'année.`,
+          en: `The golden-sand working harbour ringed by pubs and fishing boats, with Smeaton's Pier. The north side of the pier is a year-round dog beach.`,
+          es: `El puerto en activo de arena dorada rodeado de pubs y barcas de pesca, con Smeaton's Pier. El lado norte del muelle es una playa canina abierta todo el año.`,
+          pt: `O porto em atividade de areia dourada rodeado de pubs e barcos de pesca, com Smeaton's Pier. O lado norte do cais é uma praia canina aberta todo o ano.`,
+        },
+      },
+      {
+        name: 'South West Coast Path',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Chemin côtier spectaculaire vers l'ouest jusqu'à Zennor, le long de falaises de granit et de criques. Ouvert aux chiens toute l'année ; laisse près des falaises et du bétail.`,
+          en: `A dramatic clifftop path west to Zennor along granite cliffs and coves. Open to dogs year-round; lead up near the cliff edges and livestock.`,
+          es: `Espectacular camino costero hacia el oeste hasta Zennor, por acantilados de granito y calas. Abierto a los perros todo el año; con correa cerca de los acantilados y el ganado.`,
+          pt: `Espetacular caminho costeiro para oeste até Zennor, por falésias de granito e enseadas. Aberto aos cães todo o ano; à trela perto das falésias e do gado.`,
+        },
+      },
+      {
+        name: 'Seal Island Boat Trips',
+        emoji: '🦭',
+        petFriendly: true,
+        desc: {
+          fr: `Petits bateaux d'observation depuis le port vers les colonies de phoques gris de Seal Island et Godrevy. Les chiens sont bienvenus et voyagent gratuitement, en laisse sur le pont.`,
+          en: `Small wildlife boats from the harbour out to the grey seal colonies at Seal Island and Godrevy. Dogs are welcome and travel free, on a lead on deck.`,
+          es: `Pequeños barcos de observación desde el puerto a las colonias de focas grises de Seal Island y Godrevy. Los perros son bienvenidos y viajan gratis, con correa en cubierta.`,
+          pt: `Pequenos barcos de observação desde o porto às colónias de focas cinzentas de Seal Island e Godrevy. Os cães são bem-vindos e viajam grátis, à trela no convés.`,
+        },
+      },
+      {
+        name: 'The Island (St Ives Head)',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          fr: `Butte verte qui sépare la ville, coiffée de la chapelle Saint-Nicolas et ceinturée d'un chemin plat avec la mer sur trois côtés. Chiens bienvenus toute l'année.`,
+          en: `The green headland that splits the town, topped by St Nicholas Chapel and ringed by a level path with sea on three sides. Dogs welcome year-round.`,
+          es: `El promontorio verde que divide el pueblo, coronado por la capilla de San Nicolás y rodeado por un camino llano con el mar en tres lados. Perros bienvenidos todo el año.`,
+          pt: `O promontório verde que divide a vila, coroado pela capela de São Nicolau e rodeado por um caminho plano com o mar de três lados. Cães bem-vindos todo o ano.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les plages sont réglementées par saison : Porthmeor, Porthminster et Carbis Bay interdisent les chiens 10h-18h du 15 mai au 30 septembre ; le port de St Ives et Porthgwidden du 1er juillet au 31 août. Amende de 100 livres.`,
+        `Bamaluz Beach, Lambeth Walk et le côté nord de Smeaton's Pier restent ouverts aux chiens toute l'année ; promenez-vous tôt ou tard sur les plages réglementées.`,
+        `Les chiens voyagent gratuitement dans le train (jusqu'à deux par voyageur, en laisse) et sur les excursions vers les phoques ; le centre-ville est piéton et pentu.`,
+        `Sur le South West Coast Path, gardez le chien en laisse près des bords de falaise non clôturés et du bétail qui pâture.`,
+        `Urgence vétérinaire de nuit : CVets près de Truro (+44 1872 560952) ; en journée Medivet St Ives (+44 1736 798333).`,
+      ],
+      en: [
+        `Beaches are seasonally controlled: Porthmeor, Porthminster and Carbis Bay ban dogs 10am-6pm from 15 May to 30 September; St Ives Harbour and Porthgwidden from 1 July to 31 August. The fine is 100 pounds.`,
+        `Bamaluz Beach, Lambeth Walk and the north side of Smeaton's Pier stay open to dogs year-round; walk the restricted beaches early or late.`,
+        `Dogs travel free on the train (up to two per passenger, on a lead) and on the seal boat trips; the town centre is pedestrian and steep.`,
+        `On the South West Coast Path, keep your dog on a lead near the unfenced cliff edges and grazing livestock.`,
+        `Out-of-hours emergency vet: CVets near Truro (+44 1872 560952); in the daytime Medivet St Ives (+44 1736 798333).`,
+      ],
+      es: [
+        `Las playas están reguladas por temporada: Porthmeor, Porthminster y Carbis Bay vetan los perros 10-18h del 15 de mayo al 30 de septiembre; el puerto de St Ives y Porthgwidden del 1 de julio al 31 de agosto. La multa es de 100 libras.`,
+        `Bamaluz Beach, Lambeth Walk y el lado norte de Smeaton's Pier siguen abiertos a los perros todo el año; pasea las playas restringidas temprano o tarde.`,
+        `Los perros viajan gratis en el tren (hasta dos por pasajero, con correa) y en las excursiones a las focas; el centro es peatonal y empinado.`,
+        `En el South West Coast Path, manten al perro con correa cerca de los bordes del acantilado sin vallar y del ganado que pasta.`,
+        `Veterinario de urgencias fuera de horario: CVets cerca de Truro (+44 1872 560952); de día Medivet St Ives (+44 1736 798333).`,
+      ],
+      pt: [
+        `As praias são reguladas por época: Porthmeor, Porthminster e Carbis Bay proíbem os cães das 10h-18h de 15 de maio a 30 de setembro; o porto de St Ives e Porthgwidden de 1 de julho a 31 de agosto. A multa é de 100 libras.`,
+        `A Bamaluz Beach, Lambeth Walk e o lado norte de Smeaton's Pier continuam abertos aos cães todo o ano; passeie nas praias restringidas cedo ou tarde.`,
+        `Os cães viajam grátis no comboio (até dois por passageiro, à trela) e nos passeios às focas; o centro é pedonal e íngreme.`,
+        `No South West Coast Path, mantenha o cão à trela perto das bordas de falésia sem vedação e do gado que pasta.`,
+        `Veterinário de urgência fora de horas: CVets perto de Truro (+44 1872 560952); de dia Medivet St Ives (+44 1736 798333).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), puce, vaccin antirabique et traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : train jusqu'à St Erth puis la ligne secondaire St Ives Bay (chiens gratuits). Aéroport le plus proche : Newquay (NQY), à environ 1 h de route.`,
+        `Se déplacer : stationnement très limité l'été ; laissez la voiture aux parkings-relais de St Erth ou Lelant Saltings et prenez le train. Centre-ville piéton et pentu.`,
+        `Météo : l'un des climats les plus doux de Grande-Bretagne ; hivers doux (9-10 °C), étés chauds sans excès (18 °C). Printemps et automne idéaux hors interdictions de plage.`,
+        `Numéros utiles : urgence générale 999 ou 112 ; véto de jour Medivet St Ives +44 1736 798333 ; urgence de nuit CVets +44 1872 560952.`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: train to St Erth, then the St Ives Bay branch line (dogs free). Nearest airport is Newquay (NQY), about 1 hour by road.`,
+        `Getting around: town parking is very limited in summer; leave the car at the St Erth or Lelant Saltings park-and-ride and take the train. The centre is pedestrian and steep.`,
+        `Weather: one of the mildest climates in Britain; mild winters (9-10 C), warm but not hot summers (18 C). Spring and autumn are ideal, outside the beach bans.`,
+        `Useful numbers: general emergency 999 or 112; daytime vet Medivet St Ives +44 1736 798333; out-of-hours CVets +44 1872 560952.`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento antitenia entre 24 y 120 horas antes de la llegada.`,
+        `Cómo llegar: tren hasta St Erth y luego el ramal St Ives Bay (perros gratis). El aeropuerto más cercano es Newquay (NQY), a alrededor de 1 hora por carretera.`,
+        `Cómo moverse: el aparcamiento del centro es muy limitado en verano; deja el coche en los aparcamientos disuasorios de St Erth o Lelant Saltings y toma el tren. El centro es peatonal y empinado.`,
+        `Tiempo: uno de los climas más suaves de Gran Bretaña; inviernos suaves (9-10 C), veranos cálidos sin excesos (18 C). Primavera y otoño ideales, fuera de las vedas de playa.`,
+        `Números útiles: emergencia general 999 o 112; veterinario de día Medivet St Ives +44 1736 798333; urgencia de noche CVets +44 1872 560952.`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate britânico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia entre 24 e 120 horas antes da chegada.`,
+        `Como chegar: comboio até St Erth e depois o ramal St Ives Bay (cães grátis). O aeroporto mais próximo é Newquay (NQY), a cerca de 1 hora por estrada.`,
+        `Como circular: o estacionamento no centro é muito limitado no verão; deixe o carro nos parques dissuasores de St Erth ou Lelant Saltings e apanhe o comboio. O centro é pedonal e íngreme.`,
+        `Tempo: um dos climas mais amenos da Grã-Bretanha; invernos amenos (9-10 C), verões quentes sem excessos (18 C). Primavera e outono ideais, fora das proibições de praia.`,
+        `Números úteis: emergência geral 999 ou 112; veterinário de dia Medivet St Ives +44 1736 798333; urgência de noite CVets +44 1872 560952.`,
+      ],
+    },
+  },
   'st-moritz': {
     history: {
       fr: `Saint-Moritz (St. Moritz), station alpine mythique de la haute Engadine dans les Grisons, s'étage à environ 1800 mètres autour de son lac turquoise, dans un décor de sommets et de mélèzes. Berceau du tourisme hivernal alpin depuis 1864 et deux fois hôte des Jeux olympiques d'hiver, la ville doit sa réputation à son soleil abondant, à son eau minérale ferrugineuse connue depuis l'Antiquité et à une clientèle fortunée qui a fait pousser palaces et boutiques de luxe. En hiver, le lac gèle assez pour accueillir courses de chevaux sur glace, polo et cricket ; en été, la vallée devient un vaste terrain de randonnée. Pour un maître de chien, Saint-Moritz offre une nature grandiose et un réseau de funiculaires et téléphériques largement ouverts aux animaux, mais aussi l'altitude, un soleil intense et des hivers rigoureux qui demandent quelques précautions.`,

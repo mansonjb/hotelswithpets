@@ -1532,6 +1532,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Marjan Hill forest park, the Bačvice beach dog zone, and the coastal path to Stobreč',
       area: 'Meje, the Old Town surroundings, and the Manuš neighbourhood',
     },
+    'st-ives': {
+      personality: `a white-sand Cornish harbour town and famous art colony where dogs share the coast path, the harbour pubs and the seal boat trips, with beach access governed by seasonal dog rules that are easy to plan around`,
+      highlight: `year-round dog-friendly Bamaluz Beach, the South West Coast Path towards Zennor, and the dog-friendly Seal Island boat trips`,
+      area: `the harbourfront and Smeaton's Pier, the old Downlong fishing lanes, and Porthmeor Beach below the Tate`,
+    },
     'st-moritz': {
       personality: `the alpine luxury benchmark of Graubünden's Engadin valley at 1856 m, where 322 sun days a year (the highest in Switzerland) light up the frozen Lej da San Murezzan winter lake, the historic Cresta Run skeleton track, the 1907 Muottas Muragl panoramic funicular, the Diavolezza glacier cable car at 2978 m, and the UNESCO Rhaetian Railway Glacier and Bernina Express`,
       highlight: `the 4.5 km Lej da San Murezzan lake loop linking St. Moritz-Dorf and St. Moritz-Bad past the Mauritius Spring chapel, the Muottas Muragl Senda Filosofica panorama over the four Engadin lakes, and the Val Roseg trail from Pontresina with horse-carriage option`,
@@ -3428,6 +3433,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une ville côtière croate décontractée où le front de mer adriatique, l\'ancien Palais de Dioclétien et une culture locale relax en font une destination remarquable pour les propriétaires d\'animaux',
       highlight: 'le parc forestier de la colline Marjan, la zone chiens de la plage de Bačvice et le sentier côtier vers Stobreč',
       area: 'Meje, les environs de la Vieille Ville et le quartier de Manuš',
+    },
+    'st-ives': {
+      personality: `une ville portuaire cornouaillaise au sable blanc et célèbre colonie d'artistes, où les chiens partagent le chemin côtier, les pubs du port et les excursions vers les phoques, l'accès aux plages étant régi par des règles canines saisonnières faciles à anticiper`,
+      highlight: `Bamaluz Beach ouverte aux chiens toute l'année, le South West Coast Path vers Zennor et les excursions en bateau vers Seal Island qui acceptent les chiens`,
+      area: `le front de port et Smeaton's Pier, les vieilles ruelles de pêcheurs de Downlong et Porthmeor Beach sous la Tate`,
     },
     'st-moritz': {
       personality: `la référence du luxe alpin de la vallée de l'Engadine grisonne à 1 856 m, où 322 jours de soleil par an (le record suisse) illuminent le Lej da San Murezzan gelé en hiver, le mythique Cresta Run de skeleton, le funiculaire panoramique de Muottas Muragl de 1907, le téléphérique glaciaire du Diavolezza à 2 978 m et le Chemin de fer rhétique UNESCO du Glacier Express et du Bernina Express`,
@@ -5336,6 +5346,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el parque forestal de la colina Marjan, la zona para perros de la playa de Bačvice y el sendero costero hacia Stobreč',
       area: 'Meje, los alrededores del Casco Antiguo y el barrio de Manuš',
     },
+    'st-ives': {
+      personality: `un pueblo portuario de Cornualles de arena blanca y famosa colonia de artistas, donde los perros comparten el camino costero, los pubs del puerto y las excursiones a las focas, con el acceso a las playas regido por normas caninas estacionales fáciles de planificar`,
+      highlight: `Bamaluz Beach abierta a los perros todo el año, el South West Coast Path hacia Zennor y las excursiones en barco a Seal Island que admiten perros`,
+      area: `el frente del puerto y Smeaton's Pier, las viejas callejuelas de pescadores de Downlong y Porthmeor Beach bajo la Tate`,
+    },
     'st-moritz': {
       personality: `la referencia del lujo alpino del valle suizo de la Engadina en los Grisones a 1.856 m, donde 322 días de sol al año (récord suizo) iluminan el Lej da San Murezzan helado en invierno, el mítico Cresta Run de skeleton, el funicular panorámico de Muottas Muragl de 1907, el teleférico glaciar del Diavolezza a 2.978 m y el Ferrocarril Rético UNESCO del Glacier Express y el Bernina Express`,
       highlight: `el circuito de 4,5 km del Lej da San Murezzan que une St. Moritz-Dorf y St. Moritz-Bad por la capilla de la fuente Mauritius, el panorama de la Senda Filosofica de Muottas Muragl sobre los cuatro lagos engadineses, y el sendero del Val Roseg desde Pontresina con opción carruaje`,
@@ -7242,6 +7257,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma relajada cidade costera croata onde o passeio marítimo adriático, o antigo Palácio de Diocleciano e uma actitud local distendida a convierten num destino destacado para os duenhos de animais',
       highlight: 'o parque forestal da colina Marjan, a zona para cães da praia de Bačvice e o trilho costero hacia Stobreč',
       area: 'Meje, os alrededores do centro histórico e o bairro de Manuš',
+    },
+    'st-ives': {
+      personality: `uma vila portuária da Cornualha de areia branca e famosa colónia de artistas, onde os cães partilham o caminho costeiro, os pubs do porto e os passeios às focas, com o acesso às praias regido por regras caninas sazonais fáceis de planear`,
+      highlight: `a Bamaluz Beach aberta aos cães todo o ano, o South West Coast Path em direção a Zennor e os passeios de barco a Seal Island que aceitam cães`,
+      area: `a frente do porto e Smeaton's Pier, as velhas ruelas de pescadores de Downlong e a Porthmeor Beach por baixo da Tate`,
     },
     'st-moritz': {
       personality: `a referência do luxo alpino do vale suíço da Engadina nos Grisões a 1.856 m, onde 322 dias de sol por ano (recorde suíço) iluminam o Lej da San Murezzan gelado no inverno, o mítico Cresta Run de skeleton, o funicular panorâmico de Muottas Muragl de 1907, o teleférico glaciar do Diavolezza a 2.978 m e o Caminho-de-Ferro Rético UNESCO do Glacier Express e do Bernina Express`,

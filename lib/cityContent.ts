@@ -29215,6 +29215,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  newquay: {
+    history: {
+      fr: `Newquay, principale station balnéaire de la côte nord de la Cornouailles, était un petit port de pêche à la sardine avant que le chemin de fer, arrivé en 1876, n'en fasse une ville de vacances. Aujourd'hui c'est la capitale britannique du surf, célèbre pour Fistral Beach et pour la douzaine de plages de sable qui l'entourent. Pour un chien, c'est l'une des destinations les plus faciles de Cornouailles : la plupart des plages, dont Fistral, Crantock et Watergate Bay, admettent les chiens toute l'année, le South West Coast Path est toujours ouvert, les pubs du port accueillent les chiens et la ville possède même son propre vétérinaire de garde. Les seuls points à anticiper : quelques règles saisonnières de plage (Porth interdite en plein été, Tolcarne en laisse) fixées par le Cornwall Council, et, pour les visiteurs de l'UE, l'Animal Health Certificate britannique exigé depuis le Brexit à la place du passeport européen.`,
+      en: `Newquay, the main resort on the north coast of Cornwall, was a small pilchard-fishing port before the railway arrived in 1876 and turned it into a holiday town. Today it is Britain's surf capital, famous for Fistral Beach and the dozen or so sandy beaches wrapped around it. For a dog, it is one of Cornwall's easiest destinations: most beaches, including Fistral, Crantock and Watergate Bay, allow dogs year-round, the South West Coast Path is always open, the harbour pubs welcome dogs, and the town even has its own out-of-hours vet. The only things to plan around are a handful of seasonal beach rules (Porth banned in peak summer, Tolcarne on a lead) set by Cornwall Council, and, for EU visitors, the GB Animal Health Certificate required since Brexit instead of the EU pet passport.`,
+      es: `Newquay, la principal estación de la costa norte de Cornualles, era un pequeño puerto de pesca de la sardina antes de que el ferrocarril, llegado en 1876, la convirtiera en un pueblo de vacaciones. Hoy es la capital británica del surf, famosa por Fistral Beach y por la docena de playas de arena que la rodean. Para un perro es uno de los destinos más fáciles de Cornualles: la mayoría de las playas, incluidas Fistral, Crantock y Watergate Bay, admiten perros todo el año, el South West Coast Path siempre está abierto, los pubs del puerto admiten perros y el pueblo hasta tiene su propio veterinario de urgencias. Lo único que hay que planificar son un puñado de normas estacionales de playa (Porth vetada en pleno verano, Tolcarne con correa) fijadas por el Cornwall Council y, para los visitantes de la UE, el Animal Health Certificate británico exigido desde el Brexit en lugar del pasaporte europeo.`,
+      pt: `Newquay, a principal estância da costa norte da Cornualha, era um pequeno porto de pesca da sardinha antes de o caminho de ferro, chegado em 1876, a transformar numa vila de férias. Hoje é a capital britânica do surf, famosa pela Fistral Beach e pela dúzia de praias de areia que a rodeiam. Para um cão é um dos destinos mais fáceis da Cornualha: a maioria das praias, incluindo Fistral, Crantock e Watergate Bay, admite cães todo o ano, o South West Coast Path está sempre aberto, os pubs do porto aceitam cães e a vila tem até o seu próprio veterinário de urgência. As únicas coisas a planear são um punhado de regras sazonais de praia (Porth proibida em pleno verão, Tolcarne à trela) definidas pelo Cornwall Council e, para os visitantes da UE, o Animal Health Certificate britânico exigido desde o Brexit em vez do passaporte europeu.`,
+    },
+    sights: [
+      {
+        name: 'Fistral Beach',
+        emoji: '🏄',
+        petFriendly: true,
+        desc: {
+          fr: `La plage de surf la plus célèbre de Grande-Bretagne, une large étendue de sable atlantique doré côté Pentire. Chiens admis toute l'année ; surveillez les vagues puissantes et les courants.`,
+          en: `Britain's most famous surf beach, a wide sweep of golden Atlantic sand on the Pentire side. Dogs allowed year-round; watch the powerful surf and rip currents.`,
+          es: `La playa de surf más famosa de Gran Bretaña, una amplia extensión de arena atlántica dorada del lado de Pentire. Perros admitidos todo el año; vigila el oleaje potente y las corrientes.`,
+          pt: `A praia de surf mais famosa da Grã-Bretanha, uma ampla extensão de areia atlântica dourada do lado de Pentire. Cães admitidos todo o ano; vigie as ondas fortes e as correntes.`,
+        },
+      },
+      {
+        name: 'Crantock Beach',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Superbe plage National Trust de sable pâle, dunes et estuaire turquoise du Gannel, juste à l'ouest. Ouverte aux chiens toute l'année ; attention à la marée rapide du Gannel.`,
+          en: `A glorious National Trust beach of pale sand, dunes and the turquoise Gannel estuary just west of town. Dog-friendly year-round; mind the fast Gannel tide.`,
+          es: `Espléndida playa del National Trust de arena pálida, dunas y el estuario turquesa del Gannel justo al oeste. Apta para perros todo el año; cuidado con la marea rápida del Gannel.`,
+          pt: `Esplêndida praia do National Trust de areia pálida, dunas e o estuário turquesa do Gannel logo a oeste. Aberta aos cães todo o ano; atenção à maré rápida do Gannel.`,
+        },
+      },
+      {
+        name: 'Watergate Bay',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Deux miles de sable atlantique ouvert au nord-est de la ville, entièrement ouverts aux chiens toute l'année. L'immense estran à marée basse laisse les chiens courir des kilomètres.`,
+          en: `Two miles of open Atlantic sand north-east of town, entirely dog-friendly year-round. The vast low-tide expanse gives dogs room to run for miles.`,
+          es: `Dos millas de arena atlántica abierta al noreste del pueblo, totalmente aptas para perros todo el año. La enorme extensión con marea baja deja correr a los perros kilómetros.`,
+          pt: `Três quilómetros de areia atlântica aberta a nordeste da vila, totalmente abertos aos cães todo o ano. A vasta extensão na maré baixa deixa os cães correr quilómetros.`,
+        },
+      },
+      {
+        name: 'Newquay Harbour',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Le port historique en activité sous la ville, cerné de pubs acceptant les chiens. Sa petite plage est ouverte aux chiens toute l'année et c'est le départ des excursions en bateau.`,
+          en: `The historic working harbour below the town, ringed by dog-friendly pubs. Its small beach is dog-friendly year-round and it is the departure point for the boat trips.`,
+          es: `El histórico puerto en activo bajo el pueblo, rodeado de pubs que admiten perros. Su pequeña playa admite perros todo el año y es el punto de partida de las excursiones en barco.`,
+          pt: `O histórico porto em atividade sob a vila, rodeado de pubs que aceitam cães. A sua pequena praia admite cães todo o ano e é o ponto de partida dos passeios de barco.`,
+        },
+      },
+      {
+        name: 'South West Coast Path',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Marche de falaise spectaculaire autour des pointes de Towan et Pentire, avec d'immenses vues atlantiques. Ouverte aux chiens toute l'année ; laisse près des falaises et du bétail.`,
+          en: `Dramatic clifftop walking around Towan and Pentire heads with huge Atlantic views. Open to dogs year-round; lead up near the cliff edges and livestock.`,
+          es: `Espectacular caminata de acantilado alrededor de los promontorios de Towan y Pentire con enormes vistas atlánticas. Abierta a los perros todo el año; con correa cerca de acantilados y ganado.`,
+          pt: `Espetacular caminhada de falésia à volta dos promontórios de Towan e Pentire com enormes vistas atlânticas. Aberta aos cães todo o ano; à trela perto das falésias e do gado.`,
+        },
+      },
+      {
+        name: 'The Gannel Estuary',
+        emoji: '🌾',
+        petFriendly: true,
+        desc: {
+          fr: `Bel estuaire à marée qui sépare Newquay de Crantock, avec berges sableuses et sentiers. Ouvert aux chiens toute l'année ; surveillez la marée montante rapide.`,
+          en: `A beautiful tidal estuary separating Newquay from Crantock, with sandy banks and footpaths. Open to dogs year-round; watch the fast incoming tide.`,
+          es: `Un hermoso estuario mareal que separa Newquay de Crantock, con orillas arenosas y senderos. Abierto a los perros todo el año; vigila la marea entrante rápida.`,
+          pt: `Um belo estuário de maré que separa Newquay de Crantock, com margens de areia e trilhos. Aberto aos cães todo o ano; vigie a maré a entrar depressa.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La plupart des plages admettent les chiens toute l'année : Fistral, Towan, Great Western, Crantock, Watergate Bay, Lusty Glaze et Whipsiderry. Newquay est l'une des stations britanniques les plus faciles.`,
+        `Principale restriction estivale : Porth Beach interdite aux chiens 10h-18h du 1er juillet au 31 août (PSPO du Cornwall Council) ; Tolcarne en laisse de mai à septembre. Amende jusqu'à 100 livres.`,
+        `Les chiens voyagent gratuitement dans le train de l'Atlantic Coast Line depuis Par (jusqu'à deux par voyageur, en laisse) ; les bus First Kernow les acceptent à la discrétion du chauffeur.`,
+        `Sur le South West Coast Path, gardez le chien en laisse près des bords de falaise non clôturés et du bétail ; surveillez la marée rapide dans l'estuaire du Gannel.`,
+        `Fait rare en Cornouailles : urgence vétérinaire en ville à MiNightVet, Henver Road (+44 1637 851122). Urgence générale 999 ou 112.`,
+      ],
+      en: [
+        `Most beaches allow dogs year-round: Fistral, Towan, Great Western, Crantock, Watergate Bay, Lusty Glaze and Whipsiderry. Newquay is one of the easiest UK resorts for dog beach access.`,
+        `The main summer restriction is Porth Beach, dogs banned 10am-6pm from 1 July to 31 August (Cornwall Council PSPO); Tolcarne on a lead May to September. Fines up to 100 pounds.`,
+        `Dogs travel free on the Atlantic Coast Line train from Par (up to two per passenger, on a lead); First Kernow buses accept them at the driver's discretion.`,
+        `On the South West Coast Path, keep your dog on a lead near the unfenced cliff edges and livestock; watch the fast tide in the Gannel estuary.`,
+        `Unusually for Cornwall, there is an in-town emergency vet at MiNightVet, Henver Road (+44 1637 851122). General emergency 999 or 112.`,
+      ],
+      es: [
+        `La mayoría de las playas admiten perros todo el año: Fistral, Towan, Great Western, Crantock, Watergate Bay, Lusty Glaze y Whipsiderry. Newquay es una de las estaciones británicas más fáciles.`,
+        `La principal restricción estival es Porth Beach, perros vetados 10-18h del 1 de julio al 31 de agosto (PSPO del Cornwall Council); Tolcarne con correa de mayo a septiembre. Multas de hasta 100 libras.`,
+        `Los perros viajan gratis en el tren de la Atlantic Coast Line desde Par (hasta dos por pasajero, con correa); los autobuses First Kernow los admiten a criterio del conductor.`,
+        `En el South West Coast Path, manten al perro con correa cerca de los bordes del acantilado sin vallar y del ganado; vigila la marea rápida en el estuario del Gannel.`,
+        `Algo poco habitual en Cornualles: veterinario de urgencias en el propio pueblo en MiNightVet, Henver Road (+44 1637 851122). Emergencia general 999 o 112.`,
+      ],
+      pt: [
+        `A maioria das praias admite cães todo o ano: Fistral, Towan, Great Western, Crantock, Watergate Bay, Lusty Glaze e Whipsiderry. Newquay é uma das estâncias britânicas mais fáceis.`,
+        `A principal restrição de verão é a Porth Beach, cães proibidos das 10h-18h de 1 de julho a 31 de agosto (PSPO do Cornwall Council); Tolcarne à trela de maio a setembro. Multas até 100 libras.`,
+        `Os cães viajam grátis no comboio da Atlantic Coast Line desde Par (até dois por passageiro, à trela); os autocarros First Kernow aceitam-nos ao critério do condutor.`,
+        `No South West Coast Path, mantenha o cão à trela perto das bordas de falésia sem vedação e do gado; vigie a maré rápida no estuário do Gannel.`,
+        `Algo pouco comum na Cornualha: veterinário de urgência na própria vila na MiNightVet, Henver Road (+44 1637 851122). Emergência geral 999 ou 112.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), puce, vaccin antirabique et traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : train de l'Atlantic Coast Line depuis Par (chiens gratuits) ; aéroport de Newquay (NQY) juste à la sortie de la ville, le plus pratique de Cornouailles.`,
+        `Se déplacer : ville compacte mais bâtie sur des falaises, prévoyez des montées ; stationnement très limité l'été, privilégiez le train et la marche.`,
+        `Météo : climat océanique doux, hivers doux (9-10 °C) où le gel est rare, étés chauds sans excès (18 °C), côte souvent venteuse. Printemps et automne idéaux.`,
+        `Numéros utiles : urgence générale 999 ou 112 ; urgence vétérinaire de nuit en ville MiNightVet +44 1637 851122 ; véto de jour Penmellyn +44 1637 871695.`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: Atlantic Coast Line train from Par (dogs free); Newquay Airport (NQY) just outside town is the most convenient airport in Cornwall.`,
+        `Getting around: the town is compact but built on cliffs, so expect hills; parking is very limited in summer, so favour the train and walking.`,
+        `Weather: mild oceanic climate, mild winters (9-10 C) with rare frost, warm but not hot summers (18 C), often breezy coast. Spring and autumn are ideal.`,
+        `Useful numbers: general emergency 999 or 112; in-town out-of-hours vet MiNightVet +44 1637 851122; daytime vet Penmellyn +44 1637 871695.`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento antitenia entre 24 y 120 horas antes de la llegada.`,
+        `Cómo llegar: tren de la Atlantic Coast Line desde Par (perros gratis); el aeropuerto de Newquay (NQY) justo a las afueras es el más cómodo de Cornualles.`,
+        `Cómo moverse: el pueblo es compacto pero está sobre acantilados, así que habrá cuestas; el aparcamiento es muy limitado en verano, prioriza el tren y andar.`,
+        `Tiempo: clima oceánico suave, inviernos suaves (9-10 C) con escarcha rara, veranos cálidos sin excesos (18 C), costa a menudo ventosa. Primavera y otoño ideales.`,
+        `Números útiles: emergencia general 999 o 112; veterinario de urgencias en el pueblo MiNightVet +44 1637 851122; veterinario de día Penmellyn +44 1637 871695.`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate britânico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia entre 24 e 120 horas antes da chegada.`,
+        `Como chegar: comboio da Atlantic Coast Line desde Par (cães grátis); o aeroporto de Newquay (NQY) mesmo à saída da vila é o mais conveniente da Cornualha.`,
+        `Como circular: a vila é compacta mas assenta em falésias, por isso conte com subidas; o estacionamento é muito limitado no verão, prefira o comboio e andar a pé.`,
+        `Tempo: clima oceânico ameno, invernos suaves (9-10 C) com geada rara, verões quentes sem excessos (18 C), costa muitas vezes ventosa. Primavera e outono ideais.`,
+        `Números úteis: emergência geral 999 ou 112; veterinário de urgência na vila MiNightVet +44 1637 851122; veterinário de dia Penmellyn +44 1637 871695.`,
+      ],
+    },
+  },
+
   nice: {
     history: {
       en: 'Nice, the capital of the French Riviera and France\'s fifth-largest city, has been a haven for well-heeled travellers and their pets since the 19th century, when English aristocrats wintering on the Côte d\'Azur made the Promenade des Anglais their daily constitutional. Today the city\'s 342,000 inhabitants share it with a substantial dog population drawn by the Mediterranean climate, the long pebbly beach and the easy access to the hills of the Alpes-Maritimes. Dogs are accepted in the city\'s many outdoor café terraces and restaurants; the old town (Vieux-Nice) is lively and navigable year-round with a well-socialised dog.',

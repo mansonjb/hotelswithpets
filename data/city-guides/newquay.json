@@ -1,0 +1,952 @@
+{
+  "slug": "newquay",
+  "name": "Newquay",
+  "country": "United Kingdom",
+  "flag": "🇬🇧",
+  "lastUpdated": "2026-07-25",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Newquay",
+      "titleFr": "Restaurants qui acceptent les chiens à Newquay",
+      "titleEs": "Restaurantes que admiten perros en Newquay",
+      "titlePt": "Restaurantes que aceitam cães em Newquay",
+      "introEn": "Newquay is a relaxed surf town that takes dogs in its stride, and the cluster of pubs above the harbour is the easiest place to eat out with one. Many bars keep a water bowl by the door and hand out treats, and the beachside cafes towards Fistral welcome dogs on their terraces, so a dog rarely has to wait outside.",
+      "introFr": "Newquay est une ville de surf décontractée qui accueille les chiens sans souci, et la concentration de pubs au-dessus du port est l'endroit le plus simple pour sortir manger avec un chien. Beaucoup de bars gardent une gamelle d'eau près de la porte et distribuent des friandises, et les cafés de plage vers Fistral acceptent les chiens en terrasse : un chien attend donc rarement dehors.",
+      "introEs": "Newquay es un pueblo de surf relajado que acepta perros con naturalidad, y la concentración de pubs sobre el puerto es el sitio más fácil para salir a comer con uno. Muchos bares guardan un cuenco de agua junto a la puerta y reparten premios, y los cafés junto a la playa hacia Fistral admiten perros en sus terrazas, así que un perro rara vez espera fuera.",
+      "introPt": "Newquay é uma vila de surf descontraída que aceita cães com naturalidade, e a concentração de pubs acima do porto é o sítio mais fácil para sair a comer com um. Muitos bares guardam uma taça de água junto à porta e distribuem petiscos, e os cafés junto à praia em direção a Fistral aceitam cães nas suas esplanadas, por isso um cão raramente espera lá fora.",
+      "places": [
+        {
+          "name": "The Fort Inn",
+          "address": "63 Fore Street, Newquay, TR7 1HA",
+          "neighborhood": "Town centre / harbour",
+          "photo": "/images/city-places/newquay-restaurants-fort-inn.jpg",
+          "website": "https://www.fortinnnewquay.co.uk/",
+          "description": "A big, friendly town-centre pub with a sun-trap garden and views down towards the harbour and the Atlantic, known for being genuinely dog-mad. Staff make a fuss of visiting dogs and keep water bowls and treats behind the bar, and there is plenty of room to settle at your feet.",
+          "descriptionFr": "Un grand pub convivial du centre-ville avec un jardin ensoleillé et une vue vers le port et l'Atlantique, réputé pour son amour sincère des chiens. Le personnel s'occupe des chiens de passage et garde gamelles d'eau et friandises derrière le bar, et il y a beaucoup de place pour s'installer à vos pieds.",
+          "descriptionEs": "Un pub grande y acogedor del centro con un jardín soleado y vistas hacia el puerto y el Atlántico, famoso por su sincero cariño a los perros. El personal atiende a los perros de paso y guarda cuencos de agua y premios tras la barra, y hay mucho sitio para acomodarse a tus pies.",
+          "descriptionPt": "Um pub grande e acolhedor no centro com um jardim soalheiro e vistas para o porto e o Atlântico, conhecido pelo seu sincero carinho pelos cães. A equipa dá atenção aos cães de passagem e guarda taças de água e petiscos atrás do balcão, e há muito espaço para se acomodar aos seus pés.",
+          "petPolicy": "Dogs welcome throughout the bar and garden on a lead.",
+          "petPolicyFr": "Chiens bienvenus dans tout le bar et le jardin, tenus en laisse.",
+          "petPolicyEs": "Perros bienvenidos en todo el bar y el jardín con correa.",
+          "petPolicyPt": "Cães bem-vindos em todo o bar e no jardim à trela.",
+          "priceRange": "Pub (mains around £12-£18)",
+          "mustTry": "A Cornish ale on the garden terrace after a beach walk",
+          "mustTryFr": "Une bière de Cornouailles sur la terrasse du jardin après une promenade sur la plage",
+          "mustTryEs": "Una cerveza de Cornualles en la terraza del jardín tras un paseo por la playa",
+          "mustTryPt": "Uma cerveja da Cornualha na esplanada do jardim depois de um passeio na praia",
+          "openingHours": "Daily, lunch and evening",
+          "tip": "The garden fills fast on sunny afternoons; arrive early or eat at the quieter end near the town for space with a dog.",
+          "tipFr": "Le jardin se remplit vite les après-midis ensoleillés ; arrivez tôt ou installez-vous du côté plus calme vers la ville pour avoir de la place avec un chien.",
+          "tipEs": "El jardín se llena rápido las tardes soleadas; llega temprano o siéntate en el extremo más tranquilo hacia el pueblo para tener espacio con un perro.",
+          "tipPt": "O jardim enche depressa nas tardes de sol; chegue cedo ou sente-se na ponta mais tranquila em direção à vila para ter espaço com um cão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Fort+Inn+Newquay"
+        },
+        {
+          "name": "Red Lion Newquay",
+          "address": "North Quay Hill, Newquay, TR7 1HE",
+          "neighborhood": "Harbour",
+          "photo": "/images/city-places/newquay-restaurants-red-lion.jpg",
+          "website": "https://www.heritagepubs.co.uk/red-lion-newquay/",
+          "description": "A traditional pub perched above Newquay Harbour, with a beer garden that looks out over the working quay and the bay. Well-behaved dogs are welcome in the bar and garden, often with a free treat, making it a classic spot to end a harbour or coast-path walk.",
+          "descriptionFr": "Un pub traditionnel perché au-dessus du port de Newquay, avec un jardin qui domine le quai en activité et la baie. Les chiens bien élevés sont les bienvenus dans le bar et le jardin, souvent avec une friandise offerte, ce qui en fait un lieu classique pour terminer une promenade au port ou sur le chemin côtier.",
+          "descriptionEs": "Un pub tradicional encaramado sobre el puerto de Newquay, con un jardín que da al muelle en activo y la bahía. Los perros educados son bienvenidos en el bar y el jardín, a menudo con un premio gratis, lo que lo convierte en un sitio clásico para terminar un paseo por el puerto o el camino costero.",
+          "descriptionPt": "Um pub tradicional empoleirado sobre o porto de Newquay, com um jardim que dá para o cais em atividade e a baía. Os cães bem-comportados são bem-vindos no bar e no jardim, muitas vezes com um petisco grátis, o que faz dele um sítio clássico para terminar um passeio pelo porto ou pelo caminho costeiro.",
+          "petPolicy": "Dogs welcome in the bar and beer garden on a lead.",
+          "petPolicyFr": "Chiens bienvenus dans le bar et le jardin, tenus en laisse.",
+          "petPolicyEs": "Perros bienvenidos en el bar y el jardín cervecero con correa.",
+          "petPolicyPt": "Cães bem-vindos no bar e no jardim à trela.",
+          "priceRange": "Pub (mains around £12-£18)",
+          "mustTry": "A pint in the beer garden with the harbour view",
+          "mustTryFr": "Une pinte dans le jardin avec la vue sur le port",
+          "mustTryEs": "Una pinta en el jardín con vista al puerto",
+          "mustTryPt": "Uma imperial no jardim com a vista para o porto",
+          "openingHours": "Daily, lunch and evening",
+          "tip": "The garden has the best views but limited shade, so bring water on hot days and grab a table early in summer.",
+          "tipFr": "Le jardin offre les meilleures vues mais peu d'ombre : apportez de l'eau les jours de chaleur et prenez une table tôt en été.",
+          "tipEs": "El jardín tiene las mejores vistas pero poca sombra, así que lleva agua en días calurosos y coge mesa temprano en verano.",
+          "tipPt": "O jardim tem as melhores vistas mas pouca sombra, por isso leve água nos dias de calor e arranje mesa cedo no verão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Red+Lion+Newquay+North+Quay+Hill"
+        },
+        {
+          "name": "Sea Spray",
+          "address": "Fistral Beach, Newquay, TR7 1EW",
+          "neighborhood": "Fistral",
+          "photo": "",
+          "website": "https://www.seaspraynewquay.co.uk/",
+          "description": "A laid-back seafront cafe and restaurant a short walk from Fistral Beach, serving brunch, burgers and coffee with a sea view. Dogs are welcome, which makes it an easy stop before or after a Fistral walk, where dogs are allowed year-round.",
+          "descriptionFr": "Un café-restaurant de bord de mer décontracté à quelques pas de Fistral Beach, servant brunch, burgers et café avec vue sur la mer. Les chiens sont les bienvenus, ce qui en fait une halte facile avant ou après une promenade à Fistral, où les chiens sont admis toute l'année.",
+          "descriptionEs": "Un café y restaurante frente al mar y relajado a poca distancia de Fistral Beach, que sirve brunch, hamburguesas y café con vistas al mar. Los perros son bienvenidos, lo que lo convierte en una parada fácil antes o después de un paseo por Fistral, donde se admiten perros todo el año.",
+          "descriptionPt": "Um café e restaurante à beira-mar e descontraído a poucos passos de Fistral Beach, que serve brunch, hambúrgueres e café com vista para o mar. Os cães são bem-vindos, o que faz dele uma paragem fácil antes ou depois de um passeio por Fistral, onde se admitem cães todo o ano.",
+          "petPolicy": "Dogs welcome; ask for the terrace or a table near the door.",
+          "petPolicyFr": "Chiens bienvenus ; demandez la terrasse ou une table près de la porte.",
+          "petPolicyEs": "Perros bienvenidos; pide la terraza o una mesa cerca de la puerta.",
+          "petPolicyPt": "Cães bem-vindos; peça a esplanada ou uma mesa perto da porta.",
+          "priceRange": "Cafe / brunch (mid-range)",
+          "mustTry": "Brunch with a coffee before a Fistral walk",
+          "mustTryFr": "Un brunch avec un café avant une promenade à Fistral",
+          "mustTryEs": "Un brunch con un café antes de un paseo por Fistral",
+          "mustTryPt": "Um brunch com um café antes de um passeio por Fistral",
+          "openingHours": "Daily, breakfast to evening (seasonal)",
+          "tip": "Fistral allows dogs all year, so pair a meal here with a beach walk rather than the seasonally restricted town beaches in peak summer.",
+          "tipFr": "Fistral admet les chiens toute l'année : associez donc un repas ici à une promenade sur la plage plutôt qu'aux plages de ville réglementées en plein été.",
+          "tipEs": "Fistral admite perros todo el año, así que combina una comida aquí con un paseo por la playa en lugar de las playas de pueblo restringidas en pleno verano.",
+          "tipPt": "Fistral admite cães todo o ano, por isso combine uma refeição aqui com um passeio na praia em vez das praias da vila restringidas em pleno verão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sea+Spray+Fistral+Newquay"
+        }
+      ],
+      "tipsEn": [
+        "The pubs above the harbour, led by The Fort Inn and the Red Lion, hold the densest cluster of dog-welcoming bars and gardens in Newquay.",
+        "Towards Fistral and the coast path, beachside cafes like Sea Spray take dogs on their terraces, handy because Fistral allows dogs year-round.",
+        "Bring water and a mat; Newquay is used to dogs, but sun-trap beer gardens get hot and busy on summer afternoons."
+      ],
+      "tipsFr": [
+        "Les pubs au-dessus du port, menés par le Fort Inn et le Red Lion, concentrent le plus de bars et jardins acceptant les chiens à Newquay.",
+        "Vers Fistral et le chemin côtier, les cafés de plage comme Sea Spray acceptent les chiens en terrasse, pratique car Fistral admet les chiens toute l'année.",
+        "Apportez de l'eau et un tapis ; Newquay a l'habitude des chiens, mais les jardins ensoleillés deviennent chauds et bondés les après-midis d'été."
+      ],
+      "tipsEs": [
+        "Los pubs sobre el puerto, encabezados por The Fort Inn y el Red Lion, concentran la mayor cantidad de bares y jardines que admiten perros en Newquay.",
+        "Hacia Fistral y el camino costero, los cafés junto a la playa como Sea Spray admiten perros en sus terrazas, práctico porque Fistral admite perros todo el año.",
+        "Lleva agua y una manta; Newquay está acostumbrado a los perros, pero los jardines soleados se calientan y se llenan las tardes de verano."
+      ],
+      "tipsPt": [
+        "Os pubs acima do porto, liderados pelo The Fort Inn e o Red Lion, concentram o maior número de bares e jardins que aceitam cães em Newquay.",
+        "Em direção a Fistral e ao caminho costeiro, os cafés junto à praia como o Sea Spray aceitam cães nas suas esplanadas, prático porque Fistral admite cães todo o ano.",
+        "Leve água e uma manta; Newquay está habituada aos cães, mas os jardins soalheiros aquecem e enchem nas tardes de verão."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Newquay pubs and restaurants?",
+          "a": "Yes, widely. Newquay is a relaxed surf town and most harbour pubs, such as The Fort Inn and the Red Lion, welcome dogs in the bar and garden, often with a treat. Beachside cafes towards Fistral also take dogs on their terraces."
+        },
+        {
+          "q": "Can I eat by the beach with my dog in Newquay?",
+          "a": "Yes. Cafes near Fistral, which allows dogs year-round, are the easiest choice. On the seasonally restricted town beaches, time a beach-cafe visit around an early-morning or evening walk, or head to a harbour pub where dogs are always welcome."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les pubs et restaurants de Newquay ?",
+          "a": "Oui, largement. Newquay est une ville de surf décontractée et la plupart des pubs du port, comme le Fort Inn et le Red Lion, accueillent les chiens dans le bar et le jardin, souvent avec une friandise. Les cafés de plage vers Fistral acceptent aussi les chiens en terrasse."
+        },
+        {
+          "q": "Puis-je manger au bord de la plage avec mon chien à Newquay ?",
+          "a": "Oui. Les cafés près de Fistral, qui admet les chiens toute l'année, sont l'option la plus simple. Sur les plages de ville réglementées en saison, calez une visite au café de plage sur une promenade du matin ou du soir, ou rejoignez un pub du port où les chiens sont toujours bienvenus."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Se admiten perros en los pubs y restaurantes de Newquay?",
+          "a": "Sí, ampliamente. Newquay es un pueblo de surf relajado y la mayoría de los pubs del puerto, como The Fort Inn y el Red Lion, admiten perros en el bar y el jardín, a menudo con un premio. Los cafés junto a la playa hacia Fistral también aceptan perros en sus terrazas."
+        },
+        {
+          "q": "Puedo comer junto a la playa con mi perro en Newquay?",
+          "a": "Sí. Los cafés cerca de Fistral, que admite perros todo el año, son la opción más fácil. En las playas de pueblo restringidas por temporada, ajusta la visita a un café de playa a un paseo de mañana o tarde, o ve a un pub del puerto donde los perros siempre son bienvenidos."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães são admitidos nos pubs e restaurantes de Newquay?",
+          "a": "Sim, amplamente. Newquay é uma vila de surf descontraída e a maioria dos pubs do porto, como o The Fort Inn e o Red Lion, aceita cães no bar e no jardim, muitas vezes com um petisco. Os cafés junto à praia em direção a Fistral também aceitam cães nas suas esplanadas."
+        },
+        {
+          "q": "Posso comer junto à praia com o meu cão em Newquay?",
+          "a": "Sim. Os cafés perto de Fistral, que admite cães todo o ano, são a opção mais fácil. Nas praias da vila restringidas por época, ajuste a visita a um café de praia a um passeio de manhã ou de tarde, ou vá a um pub do porto onde os cães são sempre bem-vindos."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog-Friendly Walks and Green Spaces in Newquay",
+      "titleFr": "Promenades et espaces verts qui accueillent les chiens à Newquay",
+      "titleEs": "Paseos y espacios verdes que admiten perros en Newquay",
+      "titlePt": "Passeios e espaços verdes que acolhem cães em Newquay",
+      "introEn": "Newquay sits on one of the most dramatic stretches of the South West Coast Path, and that is the dog walker's greatest asset here. The path is open to dogs year-round in both directions, out to Pentire Head and the Gannel one way and towards Watergate Bay the other, so whatever the summer beach signs say there is always a headland, dune or estuary walk to enjoy.",
+      "introFr": "Newquay se trouve sur l'un des tronçons les plus spectaculaires du South West Coast Path, et c'est le plus grand atout du promeneur de chien ici. Le chemin est ouvert aux chiens toute l'année dans les deux sens, vers Pentire Head et le Gannel d'un côté et vers Watergate Bay de l'autre : quoi que disent les panneaux de plage l'été, il y a toujours une promenade sur une pointe, une dune ou un estuaire à faire.",
+      "introEs": "Newquay se asienta en uno de los tramos más espectaculares del South West Coast Path, y ese es el mayor recurso del paseador de perros aquí. El camino está abierto a los perros todo el año en ambos sentidos, hacia Pentire Head y el Gannel por un lado y hacia Watergate Bay por el otro, así que digan lo que digan los carteles de playa en verano, siempre hay un paseo por un promontorio, una duna o un estuario.",
+      "introPt": "Newquay fica num dos troços mais espetaculares do South West Coast Path, e esse é o maior recurso do passeador de cães aqui. O caminho está aberto aos cães todo o ano nos dois sentidos, para Pentire Head e o Gannel de um lado e para Watergate Bay do outro, por isso digam o que disserem as placas de praia no verão, há sempre um passeio por um promontório, uma duna ou um estuário.",
+      "places": [
+        {
+          "name": "Pentire Headland and the coast path",
+          "type": "Clifftop coastal path and headland",
+          "photo": "/images/city-places/newquay-parks-pentire-headland.jpg",
+          "website": "https://www.southwestcoastpath.org.uk/",
+          "description": "The grassy headland across the Gannel from Fistral, laced with the South West Coast Path and giving huge Atlantic views over Crantock and the bay. It is open to dogs year-round and makes a short, dramatic walk straight from the edge of town, with clifftop paths and surfers far below.",
+          "descriptionFr": "La pointe herbeuse de l'autre côté du Gannel face à Fistral, parcourue par le South West Coast Path et offrant d'immenses vues atlantiques sur Crantock et la baie. Elle est ouverte aux chiens toute l'année et constitue une courte promenade spectaculaire depuis la lisière de la ville, avec des chemins de falaise et des surfeurs loin en contrebas.",
+          "descriptionEs": "El promontorio herboso al otro lado del Gannel frente a Fistral, surcado por el South West Coast Path y con enormes vistas atlánticas sobre Crantock y la bahía. Está abierto a los perros todo el año y es un paseo corto y espectacular desde el borde del pueblo, con caminos de acantilado y surfistas allá abajo.",
+          "descriptionPt": "O promontório relvado do outro lado do Gannel em frente a Fistral, percorrido pelo South West Coast Path e com enormes vistas atlânticas sobre Crantock e a baía. Está aberto aos cães todo o ano e é um passeio curto e espetacular a partir da orla da vila, com caminhos de falésia e surfistas lá em baixo.",
+          "offLeash": false,
+          "offLeashArea": "Keep dogs on a lead near the cliff edges, which are sheer and unfenced in places, and around any grazing livestock on the headland.",
+          "offLeashAreaFr": "Gardez les chiens en laisse près des bords de falaise, vertigineux et non clôturés par endroits, et autour de tout bétail qui pâture sur la pointe.",
+          "offLeashAreaEs": "Manten a los perros con correa cerca de los bordes del acantilado, verticales y sin vallar en algunos puntos, y alrededor de cualquier ganado que paste en el promontorio.",
+          "offLeashAreaPt": "Mantenha os cães à trela perto das bordas da falésia, a pique e sem vedação em alguns pontos, e à volta de qualquer gado que pasteje no promontório.",
+          "tip": "Combine it with a Fistral walk, where dogs are allowed year-round, for a loop that no summer beach ban can touch.",
+          "tipFr": "Associez-la à une promenade à Fistral, où les chiens sont admis toute l'année, pour une boucle qu'aucune interdiction estivale de plage n'atteint.",
+          "tipEs": "Combínalo con un paseo por Fistral, donde se admiten perros todo el año, para un circuito que ninguna veda estival de playa puede tocar.",
+          "tipPt": "Combine-o com um passeio por Fistral, onde se admitem cães todo o ano, para um circuito que nenhuma proibição de verão de praia pode tocar.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pentire+Headland+Newquay"
+        },
+        {
+          "name": "The Gannel Estuary",
+          "type": "Tidal estuary walk",
+          "photo": "/images/city-places/newquay-parks-gannel-estuary.jpg",
+          "website": "https://www.cornwall.gov.uk/",
+          "description": "A beautiful tidal estuary separating Newquay from Crantock, with sandy banks, footpaths and low-tide crossings that dogs love. It is open to dogs year-round and gives a calm, sheltered alternative to the open coast, with birdlife on the mudflats and a real sense of wildness minutes from town.",
+          "descriptionFr": "Un bel estuaire à marée qui sépare Newquay de Crantock, avec des berges sableuses, des sentiers et des passages à marée basse que les chiens adorent. Il est ouvert aux chiens toute l'année et offre une alternative calme et abritée à la côte ouverte, avec des oiseaux sur les vasières et un vrai sentiment de nature à quelques minutes de la ville.",
+          "descriptionEs": "Un hermoso estuario mareal que separa Newquay de Crantock, con orillas arenosas, senderos y pasos con marea baja que a los perros les encantan. Está abierto a los perros todo el año y ofrece una alternativa tranquila y resguardada a la costa abierta, con aves en las marismas y una verdadera sensación de naturaleza a minutos del pueblo.",
+          "descriptionPt": "Um belo estuário de maré que separa Newquay de Crantock, com margens de areia, trilhos e travessias na maré baixa que os cães adoram. Está aberto aos cães todo o ano e oferece uma alternativa calma e abrigada à costa aberta, com aves nos sapais e uma verdadeira sensação de natureza a minutos da vila.",
+          "offLeash": true,
+          "offLeashArea": "Dogs can run on the open banks under close control; watch the fast incoming tide and the currents, and lead up near any wildlife and grazing land.",
+          "offLeashAreaFr": "Les chiens peuvent courir sur les berges ouvertes sous contrôle rapproché ; surveillez la marée montante rapide et les courants, et remettez la laisse près de la faune et des pâtures.",
+          "offLeashAreaEs": "Los perros pueden correr por las orillas abiertas bajo control cercano; vigila la marea entrante rápida y las corrientes, y pon la correa cerca de la fauna y los pastos.",
+          "offLeashAreaPt": "Os cães podem correr nas margens abertas sob controlo próximo; vigie a maré a entrar depressa e as correntes, e ponha a trela perto da fauna e das pastagens.",
+          "tip": "Check the tide times before you go; the estuary floods quickly and the low-tide crossings disappear fast.",
+          "tipFr": "Vérifiez les horaires des marées avant de partir ; l'estuaire se remplit vite et les passages à marée basse disparaissent rapidement.",
+          "tipEs": "Consulta las horas de la marea antes de ir; el estuario se inunda rápido y los pasos con marea baja desaparecen enseguida.",
+          "tipPt": "Verifique as horas da maré antes de ir; o estuário enche depressa e as travessias de maré baixa desaparecem rapidamente.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Gannel+Estuary+Newquay"
+        },
+        {
+          "name": "Trenance Gardens",
+          "type": "Town gardens and park",
+          "photo": "/images/city-places/newquay-parks-trenance-gardens.jpg",
+          "website": "https://www.visitnewquay.org/",
+          "description": "Newquay's green heart, a valley of ornamental gardens, lawns and a boating lake below the viaduct, a short walk from the town centre. It is a gentle, level place to walk a dog on a lead away from the cliffs, useful for older dogs or a break from the wind on the exposed coast.",
+          "descriptionFr": "Le cœur vert de Newquay, une vallée de jardins d'agrément, de pelouses et d'un plan d'eau sous le viaduc, à quelques minutes du centre-ville. C'est un endroit doux et plat pour promener un chien en laisse loin des falaises, utile pour les chiens âgés ou pour une pause loin du vent de la côte exposée.",
+          "descriptionEs": "El corazón verde de Newquay, un valle de jardines ornamentales, céspedes y un lago de barcas bajo el viaducto, a poca distancia del centro. Es un lugar suave y llano para pasear un perro con correa lejos de los acantilados, útil para perros mayores o para descansar del viento de la costa expuesta.",
+          "descriptionPt": "O coração verde de Newquay, um vale de jardins ornamentais, relvados e um lago de barcos por baixo do viaduto, a pouca distância do centro. É um lugar suave e plano para passear um cão à trela longe das falésias, útil para cães mais velhos ou para uma pausa do vento da costa exposta.",
+          "offLeash": false,
+          "offLeashArea": "Keep dogs on a lead through the gardens and around the boating lake, and clean up after them; it is a family space shared with young children.",
+          "offLeashAreaFr": "Gardez les chiens en laisse dans les jardins et autour du plan d'eau, et ramassez leurs déjections ; c'est un espace familial partagé avec de jeunes enfants.",
+          "offLeashAreaEs": "Manten a los perros con correa por los jardines y alrededor del lago de barcas, y recoge sus deposiciones; es un espacio familiar compartido con niños pequeños.",
+          "offLeashAreaPt": "Mantenha os cães à trela pelos jardins e à volta do lago de barcos, e recolha os dejetos; é um espaço familiar partilhado com crianças pequenas.",
+          "tip": "A handy wet-weather or hot-day option, with shade under the trees and level paths when the coast is too windy for a small dog.",
+          "tipFr": "Une option pratique par temps humide ou de forte chaleur, avec de l'ombre sous les arbres et des chemins plats quand la côte est trop venteuse pour un petit chien.",
+          "tipEs": "Una opción práctica con lluvia o calor, con sombra bajo los árboles y caminos llanos cuando la costa está demasiado ventosa para un perro pequeño.",
+          "tipPt": "Uma opção prática com chuva ou calor, com sombra sob as árvores e caminhos planos quando a costa está demasiado ventosa para um cão pequeno.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trenance+Gardens+Newquay"
+        }
+      ],
+      "tipsEn": [
+        "The South West Coast Path is the year-round answer to summer beach restrictions; it leaves Newquay in both directions and is always open to dogs.",
+        "Keep dogs on a lead on clifftop paths and near grazing sheep and cattle; the drops are sheer and unfenced in places.",
+        "The Gannel Estuary and Trenance Gardens give sheltered, off-cliff walking when the coast is too windy or the beaches are restricted."
+      ],
+      "tipsFr": [
+        "Le South West Coast Path est la réponse toute l'année aux restrictions estivales des plages ; il quitte Newquay dans les deux sens et reste toujours ouvert aux chiens.",
+        "Gardez les chiens en laisse sur les chemins de falaise et près des moutons et bovins qui pâturent ; les à-pics sont vertigineux et non clôturés par endroits.",
+        "L'estuaire du Gannel et Trenance Gardens offrent une promenade abritée hors falaise quand la côte est trop venteuse ou les plages réglementées."
+      ],
+      "tipsEs": [
+        "El South West Coast Path es la respuesta durante todo el año a las restricciones estivales de las playas; sale de Newquay en ambos sentidos y siempre está abierto a los perros.",
+        "Manten a los perros con correa en los caminos de acantilado y cerca de las ovejas y vacas que pastan; las caídas son verticales y sin vallar en algunos puntos.",
+        "El estuario del Gannel y Trenance Gardens ofrecen paseo resguardado fuera del acantilado cuando la costa está muy ventosa o las playas restringidas."
+      ],
+      "tipsPt": [
+        "O South West Coast Path é a resposta todo o ano às restrições de verão das praias; sai de Newquay nos dois sentidos e está sempre aberto aos cães.",
+        "Mantenha os cães à trela nos caminhos de falésia e perto das ovelhas e vacas que pastam; as quedas são a pique e sem vedação em alguns pontos.",
+        "O estuário do Gannel e os Trenance Gardens oferecem passeio abrigado fora da falésia quando a costa está demasiado ventosa ou as praias restringidas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I walk my dog in Newquay when the beaches are restricted?",
+          "a": "The South West Coast Path is open to dogs year-round and leaves town in both directions, out to Pentire Head and the Gannel one way and Watergate Bay the other. The Gannel Estuary and Trenance Gardens give sheltered, level alternatives away from the cliffs."
+        },
+        {
+          "q": "Do dogs need to be on a lead on the Newquay coast path?",
+          "a": "Keep your dog on a lead near the cliff edges, which are sheer and often unfenced, and around the sheep and cattle grazed along the path. On the open estuary banks a dog can be off-lead under close control, but watch the fast incoming tide."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où promener mon chien à Newquay quand les plages sont réglementées ?",
+          "a": "Le South West Coast Path est ouvert aux chiens toute l'année et quitte la ville dans les deux sens, vers Pentire Head et le Gannel d'un côté et Watergate Bay de l'autre. L'estuaire du Gannel et Trenance Gardens offrent des alternatives abritées et plates loin des falaises."
+        },
+        {
+          "q": "Les chiens doivent-ils être en laisse sur le chemin côtier de Newquay ?",
+          "a": "Gardez votre chien en laisse près des bords de falaise, vertigineux et souvent non clôturés, et autour des moutons et bovins qui pâturent le long du chemin. Sur les berges ouvertes de l'estuaire, un chien peut être sans laisse sous contrôle rapproché, mais surveillez la marée montante rapide."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Dónde puedo pasear a mi perro en Newquay cuando las playas están restringidas?",
+          "a": "El South West Coast Path está abierto a los perros todo el año y sale del pueblo en ambos sentidos, hacia Pentire Head y el Gannel por un lado y Watergate Bay por el otro. El estuario del Gannel y Trenance Gardens ofrecen alternativas resguardadas y llanas lejos de los acantilados."
+        },
+        {
+          "q": "Deben ir los perros con correa en el camino costero de Newquay?",
+          "a": "Manten a tu perro con correa cerca de los bordes del acantilado, verticales y a menudo sin vallar, y alrededor de las ovejas y vacas que pastan a lo largo del camino. En las orillas abiertas del estuario un perro puede ir sin correa bajo control cercano, pero vigila la marea entrante rápida."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Onde posso passear o meu cão em Newquay quando as praias estão restringidas?",
+          "a": "O South West Coast Path está aberto aos cães todo o ano e sai da vila nos dois sentidos, para Pentire Head e o Gannel de um lado e Watergate Bay do outro. O estuário do Gannel e os Trenance Gardens oferecem alternativas abrigadas e planas longe das falésias."
+        },
+        {
+          "q": "Os cães têm de ir à trela no caminho costeiro de Newquay?",
+          "a": "Mantenha o cão à trela perto das bordas da falésia, a pique e muitas vezes sem vedação, e à volta das ovelhas e vacas que pastam ao longo do caminho. Nas margens abertas do estuário um cão pode andar sem trela sob controlo próximo, mas vigie a maré a entrar depressa."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Newquay with a Dog",
+      "titleFr": "Se déplacer à Newquay avec un chien",
+      "titleEs": "Moverse por Newquay con un perro",
+      "titlePt": "Deslocar-se em Newquay com um cão",
+      "introEn": "Newquay is one of the few Cornish resorts with both its own railway station and its own airport, so arriving with a dog is easy. The scenic Atlantic Coast Line branch train from Par takes dogs free, and the compact town is walkable once you arrive. In summer the streets and car parks fill up, so the train and your own two feet are the least stressful way to get about with a dog.",
+      "introFr": "Newquay est l'une des rares stations de Cornouailles à posséder à la fois sa propre gare et son propre aéroport, ce qui facilite l'arrivée avec un chien. Le pittoresque train de la ligne secondaire Atlantic Coast Line depuis Par transporte les chiens gratuitement, et la ville compacte se parcourt à pied une fois sur place. L'été, les rues et les parkings se remplissent : le train et vos deux pieds sont donc le moyen le moins stressant de circuler avec un chien.",
+      "introEs": "Newquay es una de las pocas estaciones de Cornualles con estación de tren y aeropuerto propios, así que llegar con un perro es fácil. El pintoresco tren del ramal Atlantic Coast Line desde Par lleva perros gratis, y el pueblo compacto se recorre a pie una vez llegas. En verano las calles y los aparcamientos se llenan, así que el tren y tus dos pies son la forma menos estresante de moverse con un perro.",
+      "introPt": "Newquay é uma das poucas estâncias da Cornualha com estação de comboio e aeroporto próprios, por isso chegar com um cão é fácil. O pitoresco comboio do ramal Atlantic Coast Line desde Par leva cães grátis, e a vila compacta percorre-se a pé assim que se chega. No verão as ruas e os parques de estacionamento enchem, por isso o comboio e os seus dois pés são a forma menos stressante de circular com um cão.",
+      "rules": [
+        {
+          "mode": "National Rail (Atlantic Coast Line)",
+          "modeFr": "National Rail (Atlantic Coast Line)",
+          "modeEs": "National Rail (Atlantic Coast Line)",
+          "modePt": "National Rail (Atlantic Coast Line)",
+          "policy": "Under the National Rail Conditions of Travel, up to two dogs travel free with each passenger, on a lead or in a carrier, and not on the seats. The Atlantic Coast Line branch runs from the mainline at Par down to Newquay through a beautiful stretch of woodland and coast, an easy dog-friendly way to arrive.",
+          "policyFr": "Selon les Conditions de transport de National Rail, jusqu'à deux chiens voyagent gratuitement avec chaque voyageur, en laisse ou dans une caisse, et non sur les sièges. La ligne secondaire Atlantic Coast Line relie la ligne principale à Par jusqu'à Newquay à travers un beau paysage de bois et de côte, une arrivée facile et adaptée aux chiens.",
+          "policyEs": "Según las Condiciones de viaje de National Rail, hasta dos perros viajan gratis con cada pasajero, con correa o en transportín, y no en los asientos. El ramal Atlantic Coast Line une la línea principal en Par con Newquay a través de un hermoso tramo de bosque y costa, una forma fácil y apta para perros de llegar.",
+          "policyPt": "Segundo as Condições de viagem da National Rail, até dois cães viajam grátis com cada passageiro, à trela ou numa caixa, e não nos bancos. O ramal Atlantic Coast Line liga a linha principal em Par a Newquay por um belo troço de bosque e costa, uma forma fácil e adequada para cães de chegar."
+        },
+        {
+          "mode": "Newquay harbour boat trips",
+          "modeFr": "Excursions en bateau depuis le port de Newquay",
+          "modeEs": "Excursiones en barco desde el puerto de Newquay",
+          "modePt": "Passeios de barco a partir do porto de Newquay",
+          "policy": "Several operators run wildlife, sea-safari and mackerel-fishing boat trips from Newquay Harbour that welcome well-behaved dogs. Keep your dog on a lead on deck and choose a calmer day if it is nervous; it is a memorable outing that no beach restriction touches.",
+          "policyFr": "Plusieurs opérateurs proposent des excursions d'observation de la faune, des sea safaris et des sorties pêche au maquereau depuis le port de Newquay qui acceptent les chiens bien élevés. Gardez votre chien en laisse sur le pont et choisissez une journée plus calme s'il est craintif ; c'est une sortie mémorable qu'aucune restriction de plage n'atteint.",
+          "policyEs": "Varios operadores ofrecen excursiones de observación de fauna, sea safaris y salidas de pesca de caballa desde el puerto de Newquay que admiten perros educados. Manten a tu perro con correa en cubierta y elige un día más tranquilo si está nervioso; es una salida memorable que ninguna restricción de playa toca.",
+          "policyPt": "Vários operadores oferecem passeios de observação de fauna, sea safaris e saídas de pesca de cavala a partir do porto de Newquay que aceitam cães bem-comportados. Mantenha o cão à trela no convés e escolha um dia mais calmo se ele estiver nervoso; é uma saída memorável que nenhuma restrição de praia toca."
+        },
+        {
+          "mode": "Local buses and taxis",
+          "modeFr": "Bus locaux et taxis",
+          "modeEs": "Autobuses locales y taxis",
+          "modePt": "Autocarros locais e táxis",
+          "policy": "First Kernow buses linking Newquay with Crantock, Watergate Bay, Padstow and Truro generally accept dogs at the driver's discretion; keep the dog on a lead and off the seats. Taxis are also at the driver's discretion, so mention the dog when booking.",
+          "policyFr": "Les bus First Kernow reliant Newquay à Crantock, Watergate Bay, Padstow et Truro acceptent en général les chiens à la discrétion du chauffeur ; gardez le chien en laisse et hors des sièges. Les taxis sont aussi à la discrétion du chauffeur : signalez le chien à la réservation.",
+          "policyEs": "Los autobuses First Kernow que unen Newquay con Crantock, Watergate Bay, Padstow y Truro suelen admitir perros a criterio del conductor; manten al perro con correa y fuera de los asientos. Los taxis también quedan a criterio del conductor, así que menciona al perro al reservar.",
+          "policyPt": "Os autocarros First Kernow que ligam Newquay a Crantock, Watergate Bay, Padstow e Truro costumam admitir cães ao critério do condutor; mantenha o cão à trela e fora dos bancos. Os táxis também ficam ao critério do condutor, por isso mencione o cão ao reservar."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Arriving in Newquay",
+          "titleFr": "Arriver à Newquay",
+          "titleEs": "Llegar a Newquay",
+          "titlePt": "Chegar a Newquay",
+          "contentEn": "Newquay is on the north coast of Cornwall. By rail you take the mainline to Par and change onto the Atlantic Coast Line branch into Newquay, all dog-friendly and free for up to two dogs. Newquay Airport (NQY) is just outside town, the most convenient airport in Cornwall. Drivers should note that town-centre and beach car parks fill up fast in summer, so arriving by train avoids the parking scramble with a dog.",
+          "contentFr": "Newquay se trouve sur la côte nord de la Cornouailles. En train, on prend la ligne principale jusqu'à Par et on change pour la ligne secondaire Atlantic Coast Line jusqu'à Newquay, le tout accueillant les chiens et gratuit jusqu'à deux chiens. L'aéroport de Newquay (NQY) est juste à la sortie de la ville, le plus pratique de Cornouailles. En voiture, les parkings du centre et des plages se remplissent vite l'été : venir en train évite la course au stationnement avec un chien.",
+          "contentEs": "Newquay está en la costa norte de Cornualles. En tren se toma la línea principal hasta Par y se cambia al ramal Atlantic Coast Line hasta Newquay, todo apto para perros y gratis hasta dos perros. El aeropuerto de Newquay (NQY) está justo a las afueras, el más cómodo de Cornualles. En coche, los aparcamientos del centro y de las playas se llenan rápido en verano, así que llegar en tren evita la lucha por aparcar con un perro.",
+          "contentPt": "Newquay fica na costa norte da Cornualha. De comboio apanha-se a linha principal até Par e muda-se para o ramal Atlantic Coast Line até Newquay, tudo a aceitar cães e grátis até dois cães. O aeroporto de Newquay (NQY) fica mesmo à saída da vila, o mais conveniente da Cornualha. De carro, os parques do centro e das praias enchem depressa no verão, por isso chegar de comboio evita a disputa por estacionamento com um cão."
+        },
+        {
+          "titleEn": "Around town on foot",
+          "titleFr": "En ville à pied",
+          "titleEs": "Por el pueblo a pie",
+          "titlePt": "Pela vila a pé",
+          "contentEn": "Newquay is compact and mostly walkable: the harbour, the town beaches, Fistral and the coast path are all a manageable walk apart, though the town sits on cliffs so expect some hills. In July and August the centre gets busy, so early mornings and evenings are calmest for a dog and line up neatly with the seasonal beach rules on the town beaches.",
+          "contentFr": "Newquay est compacte et se parcourt en grande partie à pied : le port, les plages de ville, Fistral et le chemin côtier sont tous à une marche raisonnable, même si la ville est bâtie sur des falaises : attendez-vous à quelques montées. En juillet et août, le centre est fréquenté : le début de matinée et la soirée sont les plus calmes pour un chien et coïncident bien avec les règles saisonnières des plages de ville.",
+          "contentEs": "Newquay es compacta y en su mayoría se recorre a pie: el puerto, las playas de pueblo, Fistral y el camino costero están a un paseo asumible, aunque el pueblo se asienta sobre acantilados, así que habrá cuestas. En julio y agosto el centro se llena, así que las primeras horas de la mañana y la tarde son las más tranquilas para un perro y encajan bien con las normas estacionales de las playas de pueblo.",
+          "contentPt": "Newquay é compacta e percorre-se sobretudo a pé: o porto, as praias da vila, Fistral e o caminho costeiro estão a um passeio razoável, embora a vila assente em falésias, por isso conte com algumas subidas. Em julho e agosto o centro fica movimentado, por isso o início da manhã e o fim da tarde são os mais tranquilos para um cão e encaixam bem com as regras sazonais das praias da vila."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the train to Newquay?",
+          "a": "Yes. Up to two dogs travel free with each passenger on National Rail, on a lead or in a carrier. You change at Par onto the scenic Atlantic Coast Line branch into Newquay, a lovely, dog-friendly way to arrive and a good way to skip the summer parking."
+        },
+        {
+          "q": "Is there an airport at Newquay for a dog trip?",
+          "a": "Yes. Newquay Airport (NQY) is just outside town and is the most convenient airport in Cornwall. Check your airline's pet policy in advance, as rules on carrying dogs in the cabin or hold vary by carrier and are not guaranteed."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien dans le train jusqu'à Newquay ?",
+          "a": "Oui. Jusqu'à deux chiens voyagent gratuitement avec chaque voyageur sur National Rail, en laisse ou dans une caisse. On change à Par pour la pittoresque ligne secondaire Atlantic Coast Line jusqu'à Newquay, une belle arrivée acceptant les chiens et un bon moyen d'éviter le stationnement estival."
+        },
+        {
+          "q": "Y a-t-il un aéroport à Newquay pour un voyage avec un chien ?",
+          "a": "Oui. L'aéroport de Newquay (NQY) est juste à la sortie de la ville et le plus pratique de Cornouailles. Vérifiez à l'avance la politique animaux de votre compagnie, car les règles de transport des chiens en cabine ou en soute varient selon le transporteur et ne sont pas garanties."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Puedo llevar a mi perro en el tren a Newquay?",
+          "a": "Sí. Hasta dos perros viajan gratis con cada pasajero en National Rail, con correa o en transportín. Se cambia en Par al pintoresco ramal Atlantic Coast Line hasta Newquay, una forma preciosa y apta para perros de llegar y buena para evitar el aparcamiento estival."
+        },
+        {
+          "q": "Hay un aeropuerto en Newquay para un viaje con perro?",
+          "a": "Sí. El aeropuerto de Newquay (NQY) está justo a las afueras y es el más cómodo de Cornualles. Consulta con antelación la política de mascotas de tu aerolínea, porque las normas para llevar perros en cabina o en bodega varían según la compañía y no están garantizadas."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão no comboio para Newquay?",
+          "a": "Sim. Até dois cães viajam grátis com cada passageiro na National Rail, à trela ou numa caixa. Muda-se em Par para o pitoresco ramal Atlantic Coast Line até Newquay, uma bela forma, que aceita cães, de chegar e boa para evitar o estacionamento de verão."
+        },
+        {
+          "q": "Há um aeroporto em Newquay para uma viagem com cão?",
+          "a": "Sim. O aeroporto de Newquay (NQY) fica mesmo à saída da vila e é o mais conveniente da Cornualha. Verifique com antecedência a política de animais da sua companhia, porque as regras para transportar cães na cabina ou no porão variam consoante a transportadora e não são garantidas."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Newquay",
+      "titleFr": "Plages qui accueillent les chiens à Newquay",
+      "titleEs": "Playas que admiten perros en Newquay",
+      "titlePt": "Praias que aceitam cães em Newquay",
+      "introEn": "Newquay has more beaches than almost anywhere in Britain, and the good news for dog owners is that most of them allow dogs all year round. Fistral, Towan, Great Western, Newquay Harbour, Crantock, Watergate Bay, Lusty Glaze and Whipsiderry are all dog-friendly year-round. The main exception is Porth Beach, where dogs are banned from 1 July to 31 August between 10am and 6pm under Cornwall Council's Public Spaces Protection Order, and Tolcarne, where in the May to September season dogs must be kept on a lead. Cornwall Council can issue fines of up to 100 pounds for breaches. Cornwall's beach PSPO is under review, with any changes due by 1 May 2026, so always check the current signs on arrival.",
+      "introFr": "Newquay compte plus de plages que presque partout ailleurs en Grande-Bretagne, et la bonne nouvelle pour les propriétaires de chiens est que la plupart admettent les chiens toute l'année. Fistral, Towan, Great Western, le port de Newquay, Crantock, Watergate Bay, Lusty Glaze et Whipsiderry sont toutes ouvertes aux chiens toute l'année. La principale exception est Porth Beach, où les chiens sont interdits du 1er juillet au 31 août entre 10h et 18h en vertu du Public Spaces Protection Order du Cornwall Council, et Tolcarne, où en saison de mai à septembre les chiens doivent être tenus en laisse. Le Cornwall Council peut infliger des amendes jusqu'à 100 livres en cas d'infraction. Le PSPO des plages de Cornouailles est en cours de révision, avec d'éventuels changements attendus au 1er mai 2026 : vérifiez donc toujours la signalisation en vigueur à l'arrivée.",
+      "introEs": "Newquay tiene más playas que casi cualquier otro lugar de Gran Bretaña, y la buena noticia para los dueños de perros es que la mayoría admite perros todo el año. Fistral, Towan, Great Western, el puerto de Newquay, Crantock, Watergate Bay, Lusty Glaze y Whipsiderry están abiertas a los perros todo el año. La principal excepción es Porth Beach, donde los perros están vetados del 1 de julio al 31 de agosto entre las 10 y las 18h bajo el Public Spaces Protection Order del Cornwall Council, y Tolcarne, donde en la temporada de mayo a septiembre los perros deben ir con correa. El Cornwall Council puede imponer multas de hasta 100 libras por incumplir. El PSPO de las playas de Cornualles está en revisión, con posibles cambios previstos para el 1 de mayo de 2026, así que comprueba siempre la señalización vigente al llegar.",
+      "introPt": "Newquay tem mais praias do que quase qualquer outro lugar da Grã-Bretanha, e a boa notícia para os donos de cães é que a maioria admite cães todo o ano. Fistral, Towan, Great Western, o porto de Newquay, Crantock, Watergate Bay, Lusty Glaze e Whipsiderry estão abertas aos cães todo o ano. A principal exceção é a Porth Beach, onde os cães estão proibidos de 1 de julho a 31 de agosto entre as 10h e as 18h ao abrigo do Public Spaces Protection Order do Cornwall Council, e Tolcarne, onde na época de maio a setembro os cães têm de andar à trela. O Cornwall Council pode aplicar multas até 100 libras por incumprimento. O PSPO das praias da Cornualha está em revisão, com eventuais alterações previstas para 1 de maio de 2026, por isso verifique sempre a sinalização em vigor à chegada.",
+      "places": [
+        {
+          "name": "Fistral Beach",
+          "distance": "Pentire side of town (10 min walk from the centre)",
+          "description": "Britain's most famous surf beach, a wide sweep of golden Atlantic sand backed by dunes on the Pentire side of Newquay. Dogs are welcome all year round, making it the go-to beach for dog owners in high summer when some town beaches have restrictions, though the surf can be powerful so keep an eye on your dog in the water.",
+          "season": "Dog-friendly all year round, with no seasonal ban",
+          "rules": "Dogs welcome year-round; keep them under control, watch the strong surf and rip currents, and clean up after them.",
+          "facilities": "Dog-friendly beach cafes, toilets, surf schools and hire, lifeguards in season",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fistral+Beach+Newquay",
+          "photo": "/images/city-places/newquay-beaches-fistral.jpg"
+        },
+        {
+          "name": "Crantock Beach",
+          "distance": "Across the Gannel, about 3 miles by road (short walk at low tide)",
+          "description": "A glorious National Trust beach of pale sand, dunes and the turquoise Gannel estuary just west of Newquay, famous for its estuary and dune walks. It is dog-friendly year-round and one of the best all-day dog beaches in the area, with sheltered water on the estuary side and open surf beyond.",
+          "season": "Dog-friendly all year round, with no seasonal ban",
+          "rules": "Dogs welcome year-round; watch the fast Gannel tide and currents, keep dogs under control near livestock in the dunes, and clean up.",
+          "facilities": "National Trust car park, seasonal cafe, toilets, lifeguards in season",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Crantock+Beach+Cornwall",
+          "photo": ""
+        },
+        {
+          "name": "Watergate Bay",
+          "distance": "About 3 miles north-east of Newquay",
+          "description": "Two miles of open Atlantic sand stretching north-east from Newquay, entirely dog-friendly all year round. The vast expanse at low tide gives dogs room to run for miles, backed by cliffs and a cluster of dog-welcoming beach cafes, making it a favourite for a long dog walk in any season.",
+          "season": "Dog-friendly all year round, with no seasonal ban",
+          "rules": "Dogs welcome year-round; keep them under control around horse riders and the strong surf, and clean up after them.",
+          "facilities": "Car park, dog-friendly beach cafes and restaurants, toilets, surf hire, lifeguards in season",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Watergate+Bay+Cornwall",
+          "photo": "/images/city-places/newquay-beaches-watergate-bay.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Which Newquay beaches allow dogs all year round?",
+          "a": "Most of them. Fistral, Towan, Great Western, Newquay Harbour, Crantock, Watergate Bay, Lusty Glaze, Little Fistral and Whipsiderry are all dog-friendly year-round. Newquay is genuinely one of the easiest UK resorts for dog beach access."
+        },
+        {
+          "q": "Are dogs banned from any Newquay beaches in summer?",
+          "a": "Yes, but only a couple. Porth Beach bans dogs from 1 July to 31 August between 10am and 6pm under Cornwall Council's PSPO, and Tolcarne requires dogs to be kept on a lead in the May to September season. Fines of up to 100 pounds apply, so check the signs on arrival."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelles plages de Newquay acceptent les chiens toute l'année ?",
+          "a": "La plupart. Fistral, Towan, Great Western, le port de Newquay, Crantock, Watergate Bay, Lusty Glaze, Little Fistral et Whipsiderry sont toutes ouvertes aux chiens toute l'année. Newquay est vraiment l'une des stations britanniques les plus faciles pour l'accès des chiens aux plages."
+        },
+        {
+          "q": "Les chiens sont-ils interdits sur certaines plages de Newquay l'été ?",
+          "a": "Oui, mais seulement quelques-unes. Porth Beach interdit les chiens du 1er juillet au 31 août entre 10h et 18h en vertu du PSPO du Cornwall Council, et Tolcarne impose la laisse en saison de mai à septembre. Des amendes jusqu'à 100 livres s'appliquent : vérifiez la signalisation à l'arrivée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Qué playas de Newquay admiten perros todo el año?",
+          "a": "La mayoría. Fistral, Towan, Great Western, el puerto de Newquay, Crantock, Watergate Bay, Lusty Glaze, Little Fistral y Whipsiderry están abiertas a los perros todo el año. Newquay es de verdad una de las estaciones británicas más fáciles para el acceso de perros a las playas."
+        },
+        {
+          "q": "Se prohíben los perros en alguna playa de Newquay en verano?",
+          "a": "Sí, pero solo en un par. Porth Beach veta los perros del 1 de julio al 31 de agosto entre las 10 y las 18h bajo el PSPO del Cornwall Council, y Tolcarne exige llevar al perro con correa en la temporada de mayo a septiembre. Se aplican multas de hasta 100 libras, así que comprueba los carteles al llegar."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Que praias de Newquay aceitam cães todo o ano?",
+          "a": "A maioria. Fistral, Towan, Great Western, o porto de Newquay, Crantock, Watergate Bay, Lusty Glaze, Little Fistral e Whipsiderry estão abertas aos cães todo o ano. Newquay é mesmo uma das estâncias britânicas mais fáceis para o acesso de cães às praias."
+        },
+        {
+          "q": "Os cães são proibidos em alguma praia de Newquay no verão?",
+          "a": "Sim, mas só em duas. A Porth Beach proíbe os cães de 1 de julho a 31 de agosto entre as 10h e as 18h ao abrigo do PSPO do Cornwall Council, e Tolcarne exige o cão à trela na época de maio a setembro. Aplicam-se multas até 100 libras, por isso verifique as placas à chegada."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians in Newquay",
+      "titleFr": "Vétérinaires à Newquay",
+      "titleEs": "Veterinarios en Newquay",
+      "titlePt": "Veterinários em Newquay",
+      "introEn": "Newquay is well covered for veterinary care, with several practices in town and, unusually for a resort this size, its own out-of-hours emergency service at MiNightVet on Henver Road, so you are not facing a long night-time drive. English is universal. For visitors from the EU, remember that Great Britain no longer accepts the EU Pet Passport for entry: dogs need a GB Animal Health Certificate, a microchip, a valid rabies vaccination and a tapeworm treatment given 24 to 120 hours before arrival, so travel with all your paperwork.",
+      "introFr": "Newquay est bien pourvue en soins vétérinaires, avec plusieurs cliniques en ville et, fait rare pour une station de cette taille, son propre service d'urgence de nuit à MiNightVet sur Henver Road : pas besoin d'un long trajet nocturne. L'anglais est universel. Pour les visiteurs de l'UE, rappelez-vous que la Grande-Bretagne n'accepte plus le passeport pour animaux de l'UE à l'entrée : les chiens ont besoin d'un Animal Health Certificate britannique, d'une puce, d'une vaccination antirabique valide et d'un traitement contre le ténia administré 24 à 120 heures avant l'arrivée : voyagez donc avec tous vos documents.",
+      "introEs": "Newquay está bien cubierta de atención veterinaria, con varias clínicas en el pueblo y, algo poco común para una estación de este tamaño, su propio servicio de urgencias fuera de horario en MiNightVet en Henver Road, así que no te enfrentas a un largo trayecto nocturno. El inglés es universal. Para los visitantes de la UE, recuerda que Gran Bretaña ya no acepta el Pasaporte Europeo para Mascotas en la entrada: los perros necesitan un Animal Health Certificate británico, un microchip, una vacunación antirrábica válida y un tratamiento contra la tenia administrado entre 24 y 120 horas antes de la llegada, así que viaja con toda la documentación.",
+      "introPt": "Newquay está bem servida de cuidados veterinários, com várias clínicas na vila e, algo pouco comum para uma estância deste tamanho, o seu próprio serviço de urgência fora de horas na MiNightVet na Henver Road, por isso não enfrenta um longo percurso noturno. O inglês é universal. Para os visitantes da UE, lembre-se de que a Grã-Bretanha já não aceita o Passaporte Europeu para Animais na entrada: os cães precisam de um Animal Health Certificate britânico, de um microchip, de uma vacinação antirrábica válida e de um tratamento contra a ténia administrado entre 24 e 120 horas antes da chegada, por isso viaje com toda a documentação.",
+      "entryRequirements": [],
+      "places": [
+        {
+          "name": "Clifton Villa Veterinary Surgery / MiNightVet Newquay",
+          "type": "Small-animal surgery with out-of-hours emergency service",
+          "address": "53 Henver Road, Newquay, TR7 3DQ",
+          "phone": "+44 1637 851122",
+          "hours": "Weekday daytime clinics; out-of-hours emergency cover on-site via MiNightVet",
+          "hoursFr": "Consultations en journée en semaine ; garde d'urgence sur place via MiNightVet",
+          "hoursEs": "Consultas diurnas entre semana; guardia de urgencias en el sitio a través de MiNightVet",
+          "hoursPt": "Consultas diurnas durante a semana; serviço de urgência no local através da MiNightVet",
+          "englishSpeaking": true,
+          "website": "https://minightvet.com/our-practices/newquay/",
+          "description": "A long-established Newquay small-animal surgery on Henver Road that also hosts MiNightVet, one of the few dedicated out-of-hours emergency services in Cornwall, so overnight and weekend emergencies are handled on-site rather than miles away. It treats dogs, cats and small animals.",
+          "descriptionFr": "Une clinique pour petits animaux de longue date à Newquay, sur Henver Road, qui abrite aussi MiNightVet, l'un des rares services d'urgence de nuit dédiés de Cornouailles : les urgences nocturnes et de week-end sont donc gérées sur place plutôt qu'à des kilomètres. Elle soigne chiens, chats et petits animaux.",
+          "descriptionEs": "Una clínica de pequeños animales de larga trayectoria en Newquay, en Henver Road, que además alberga MiNightVet, uno de los pocos servicios de urgencias fuera de horario dedicados de Cornualles, así que las urgencias nocturnas y de fin de semana se atienden en el sitio y no a kilómetros. Atiende perros, gatos y pequeños animales.",
+          "descriptionPt": "Uma clínica de pequenos animais de longa data em Newquay, na Henver Road, que também alberga a MiNightVet, um dos poucos serviços de urgência fora de horas dedicados da Cornualha, por isso as urgências noturnas e de fim de semana são tratadas no local e não a quilómetros. Trata cães, gatos e pequenos animais.",
+          "tip": "Save this number: the on-site MiNightVet service means you can reach emergency care here at night without the long drive towards Truro that many Cornish towns face.",
+          "tipFr": "Enregistrez ce numéro : le service MiNightVet sur place permet d'accéder aux urgences ici la nuit sans le long trajet vers Truro que connaissent beaucoup de villes cornouaillaises.",
+          "tipEs": "Guarda este número: el servicio MiNightVet en el sitio permite acceder a urgencias aquí de noche sin el largo trayecto hacia Truro al que se enfrentan muchos pueblos de Cornualles.",
+          "tipPt": "Guarde este número: o serviço MiNightVet no local permite aceder a urgências aqui à noite sem o longo percurso até Truro que muitas vilas da Cornualha enfrentam.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Clifton+Villa+Veterinary+Surgery+MiNightVet+Newquay+Henver+Road",
+          "photo": ""
+        },
+        {
+          "name": "Penmellyn Veterinary Group (Newquay)",
+          "type": "Small-animal veterinary surgery",
+          "address": "152 Henver Road, Newquay, TR7 3EQ",
+          "phone": "+44 1637 871695",
+          "hours": "Weekday daytime clinics; out-of-hours via local emergency provider",
+          "hoursFr": "Consultations en journée en semaine ; hors horaires via un service d'urgence local",
+          "hoursEs": "Consultas diurnas entre semana; fuera de horario a través de un servicio de urgencias local",
+          "hoursPt": "Consultas diurnas durante a semana; fora de horas através de um serviço de urgência local",
+          "englishSpeaking": true,
+          "website": "https://www.penmellynvets.co.uk/",
+          "description": "An established veterinary group with a Newquay branch on Henver Road, handling routine and urgent small-animal care on weekdays. It is a handy daytime option if you are staying on the eastern, Porth side of town.",
+          "descriptionFr": "Un groupe vétérinaire établi avec une antenne à Newquay sur Henver Road, assurant les soins courants et urgents pour petits animaux en semaine. C'est une option de jour pratique si vous logez du côté est, vers Porth.",
+          "descriptionEs": "Un grupo veterinario consolidado con una sucursal en Newquay en Henver Road, que atiende cuidados rutinarios y urgentes de pequeños animales entre semana. Es una opción diurna práctica si te alojas en el lado este, hacia Porth.",
+          "descriptionPt": "Um grupo veterinário estabelecido com uma sucursal em Newquay na Henver Road, que trata cuidados de rotina e urgentes de pequenos animais durante a semana. É uma opção diurna prática se ficar do lado este, para os lados de Porth.",
+          "tip": "Phone ahead during the day; for anything overnight or at weekends you will be directed to an out-of-hours provider such as MiNightVet nearby.",
+          "tipFr": "Téléphonez à l'avance en journée ; pour toute urgence nocturne ou de week-end, vous serez orienté vers un service d'urgence comme MiNightVet tout proche.",
+          "tipEs": "Telefonea con antelación durante el día; para cualquier urgencia nocturna o de fin de semana te derivarán a un servicio de urgencias como MiNightVet cercano.",
+          "tipPt": "Telefone com antecedência durante o dia; para qualquer urgência noturna ou de fim de semana será encaminhado para um serviço de urgência como a MiNightVet ali perto.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Penmellyn+Veterinary+Group+Newquay+Henver+Road",
+          "photo": ""
+        },
+        {
+          "name": "NewquayVet",
+          "type": "Independent small-animal practice",
+          "address": "21-22 Treloggan Trade Park, Newquay, TR7 2QL",
+          "phone": "+44 1637 871100",
+          "hours": "Weekday daytime clinics; out-of-hours via local emergency provider",
+          "hoursFr": "Consultations en journée en semaine ; hors horaires via un service d'urgence local",
+          "hoursEs": "Consultas diurnas entre semana; fuera de horario a través de un servicio de urgencias local",
+          "hoursPt": "Consultas diurnas durante a semana; fora de horas através de um serviço de urgência local",
+          "englishSpeaking": true,
+          "website": "https://newquayvet.uk/",
+          "description": "An independent small-animal practice on the Treloggan Trade Park on the edge of Newquay, handling routine and urgent daytime care for dogs, cats and small pets. It refers overnight and weekend emergencies to a local out-of-hours provider.",
+          "descriptionFr": "Une clinique indépendante pour petits animaux sur le Treloggan Trade Park, en périphérie de Newquay, assurant les soins courants et urgents de jour pour chiens, chats et petits animaux. Elle oriente les urgences nocturnes et de week-end vers un service d'urgence local.",
+          "descriptionEs": "Una clínica independiente de pequeños animales en el Treloggan Trade Park, a las afueras de Newquay, que atiende cuidados rutinarios y urgentes de día para perros, gatos y pequeñas mascotas. Deriva las urgencias nocturnas y de fin de semana a un servicio de urgencias local.",
+          "descriptionPt": "Uma clínica independente de pequenos animais no Treloggan Trade Park, na periferia de Newquay, que trata cuidados de rotina e urgentes de dia para cães, gatos e pequenos animais. Encaminha as urgências noturnas e de fim de semana para um serviço de urgência local.",
+          "tip": "Convenient if you are arriving by car on the edge of town; call ahead so they can fit you in on a busy summer day.",
+          "tipFr": "Pratique si vous arrivez en voiture en périphérie ; appelez à l'avance pour qu'ils puissent vous recevoir un jour d'été chargé.",
+          "tipEs": "Práctica si llegas en coche a las afueras; llama con antelación para que puedan atenderte en un día de verano concurrido.",
+          "tipPt": "Prática se chegar de carro à periferia; ligue com antecedência para que o possam receber num dia de verão movimentado.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=NewquayVet+Treloggan+Trade+Park",
+          "photo": ""
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there an emergency vet in Newquay at night?",
+          "a": "Yes, and unusually it is in town. MiNightVet on Henver Road provides dedicated out-of-hours emergency cover for Newquay, so overnight and weekend emergencies are handled locally rather than after a long drive. Phone first so they are ready for you."
+        },
+        {
+          "q": "What paperwork does my dog need to enter Great Britain from the EU?",
+          "a": "Great Britain does not accept the EU Pet Passport for entry. Your dog needs a GB Animal Health Certificate, a microchip and a valid rabies vaccination, plus an approved tapeworm treatment given 24 to 120 hours before arrival, so arrange it with a vet before you travel."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire d'urgence à Newquay la nuit ?",
+          "a": "Oui, et fait rare, en ville. MiNightVet sur Henver Road assure une garde d'urgence dédiée pour Newquay : les urgences nocturnes et de week-end sont donc gérées sur place plutôt qu'après un long trajet. Téléphonez d'abord pour qu'ils soient prêts."
+        },
+        {
+          "q": "Quels documents mon chien doit-il avoir pour entrer en Grande-Bretagne depuis l'UE ?",
+          "a": "La Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE à l'entrée. Votre chien a besoin d'un Animal Health Certificate britannique, d'une puce et d'une vaccination antirabique valide, plus d'un traitement anti-ténia approuvé administré 24 à 120 heures avant l'arrivée : organisez cela avec un vétérinaire avant de partir."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Hay un veterinario de urgencias en Newquay por la noche?",
+          "a": "Sí, y algo poco común, en el pueblo. MiNightVet en Henver Road ofrece guardia de urgencias dedicada para Newquay, así que las urgencias nocturnas y de fin de semana se atienden en el sitio y no tras un largo trayecto. Telefonea primero para que estén preparados."
+        },
+        {
+          "q": "Qué documentación necesita mi perro para entrar en Gran Bretaña desde la UE?",
+          "a": "Gran Bretaña no acepta el Pasaporte Europeo para Mascotas en la entrada. Tu perro necesita un Animal Health Certificate británico, un microchip y una vacunación antirrábica válida, más un tratamiento antitenia aprobado administrado entre 24 y 120 horas antes de la llegada, así que organízalo con un veterinario antes de viajar."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Existe um veterinário de urgência em Newquay à noite?",
+          "a": "Sim, e algo pouco comum, na vila. A MiNightVet na Henver Road oferece serviço de urgência dedicado para Newquay, por isso as urgências noturnas e de fim de semana são tratadas no local e não após um longo percurso. Telefone primeiro para que estejam preparados."
+        },
+        {
+          "q": "Que documentação precisa o meu cão para entrar na Grã-Bretanha vindo da UE?",
+          "a": "A Grã-Bretanha não aceita o Passaporte Europeu para Animais na entrada. O seu cão precisa de um Animal Health Certificate britânico, de um microchip e de uma vacinação antirrábica válida, mais um tratamento contra a ténia aprovado administrado entre 24 e 120 horas antes da chegada, por isso trate disso com um veterinário antes de viajar."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Newquay with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Newquay avec un chien",
+      "titleEs": "Consejos prácticos para visitar Newquay con un perro",
+      "titlePt": "Dicas práticas para visitar Newquay com um cão",
+      "introEn": "Newquay is one of the most straightforward dog holidays in Cornwall: most beaches allow dogs all year, the coast path is always open, and the town even has its own out-of-hours vet. The two things to plan are the handful of seasonal beach rules and, for EU visitors, the post-Brexit paperwork for bringing a dog into Great Britain.",
+      "introFr": "Newquay est l'une des destinations canines les plus simples de Cornouailles : la plupart des plages admettent les chiens toute l'année, le chemin côtier est toujours ouvert, et la ville a même son propre vétérinaire de garde. Les deux choses à anticiper sont la poignée de règles saisonnières de plage et, pour les visiteurs de l'UE, les formalités post-Brexit pour amener un chien en Grande-Bretagne.",
+      "introEs": "Newquay es una de las escapadas caninas más sencillas de Cornualles: la mayoría de las playas admiten perros todo el año, el camino costero siempre está abierto, y el pueblo hasta tiene su propio veterinario de urgencias. Las dos cosas que hay que planificar son el puñado de normas estacionales de playa y, para los visitantes de la UE, los trámites posteriores al Brexit para llevar un perro a Gran Bretaña.",
+      "introPt": "Newquay é uma das escapadelas caninas mais simples da Cornualha: a maioria das praias admite cães todo o ano, o caminho costeiro está sempre aberto, e a vila tem até o seu próprio veterinário de urgência. As duas coisas a planear são o punhado de regras sazonais de praia e, para os visitantes da UE, a papelada pós-Brexit para levar um cão para a Grã-Bretanha.",
+      "sections": [
+        {
+          "titleEn": "Bringing your dog into Great Britain (post-Brexit)",
+          "titleFr": "Amener votre chien en Grande-Bretagne (post-Brexit)",
+          "titleEs": "Llevar a tu perro a Gran Bretaña (tras el Brexit)",
+          "titlePt": "Levar o seu cão para a Grã-Bretanha (pós-Brexit)",
+          "contentEn": "Since Brexit, Great Britain no longer accepts the EU Pet Passport for entry. Dogs arriving from the EU need a GB Animal Health Certificate (AHC) issued by an official vet within 10 days of travel, plus a microchip and a valid rabies vaccination, and dogs also need an approved tapeworm (Echinococcus) treatment recorded 24 to 120 hours before arrival. A GB pet passport issued in Great Britain is also valid. Arrange this with your vet before you leave, as it cannot be done on arrival.",
+          "contentFr": "Depuis le Brexit, la Grande-Bretagne n'accepte plus le passeport pour animaux de l'UE à l'entrée. Les chiens venant de l'UE ont besoin d'un Animal Health Certificate (AHC) britannique délivré par un vétérinaire officiel dans les 10 jours précédant le voyage, d'une puce et d'une vaccination antirabique valide, et les chiens doivent aussi recevoir un traitement approuvé contre le ténia (Echinococcus) consigné 24 à 120 heures avant l'arrivée. Un passeport pour animaux émis en Grande-Bretagne est également valable. Organisez cela avec votre vétérinaire avant de partir, car cela ne peut pas se faire à l'arrivée.",
+          "contentEs": "Desde el Brexit, Gran Bretaña ya no acepta el Pasaporte Europeo para Mascotas en la entrada. Los perros que llegan de la UE necesitan un Animal Health Certificate (AHC) británico emitido por un veterinario oficial en los 10 días previos al viaje, más un microchip y una vacunación antirrábica válida, y los perros también necesitan un tratamiento aprobado contra la tenia (Echinococcus) registrado entre 24 y 120 horas antes de la llegada. Un pasaporte para mascotas emitido en Gran Bretaña también es válido. Organiza esto con tu veterinario antes de salir, porque no puede hacerse a la llegada.",
+          "contentPt": "Desde o Brexit, a Grã-Bretanha já não aceita o Passaporte Europeu para Animais na entrada. Os cães que chegam da UE precisam de um Animal Health Certificate (AHC) britânico emitido por um veterinário oficial nos 10 dias anteriores à viagem, mais um microchip e uma vacinação antirrábica válida, e os cães também precisam de um tratamento aprovado contra a ténia (Echinococcus) registado entre 24 e 120 horas antes da chegada. Um passaporte para animais emitido na Grã-Bretanha também é válido. Trate disto com o seu veterinário antes de sair, porque não pode ser feito à chegada."
+        },
+        {
+          "titleEn": "Planning around the beach dog rules",
+          "titleFr": "S'organiser autour des règles des plages canines",
+          "titleEs": "Planificar en torno a las normas de las playas caninas",
+          "titlePt": "Planear em torno das regras das praias caninas",
+          "contentEn": "Newquay is unusually easy here, as most beaches allow dogs all year. The main summer restriction is Porth Beach, where dogs are banned 1 July to 31 August, 10am to 6pm, under Cornwall Council's Public Spaces Protection Order, and Tolcarne, where dogs must be on a lead from May to September. Fistral, Towan, Great Western, Crantock, Watergate Bay, Lusty Glaze and Whipsiderry stay open to dogs year-round. Enforcement officers can issue fines of up to 100 pounds, so always read the signs at each beach, and note the Cornwall PSPO is under review with changes possible from 1 May 2026.",
+          "contentFr": "Newquay est étonnamment simple ici, car la plupart des plages admettent les chiens toute l'année. La principale restriction estivale est Porth Beach, où les chiens sont interdits du 1er juillet au 31 août, de 10h à 18h, en vertu du Public Spaces Protection Order du Cornwall Council, et Tolcarne, où les chiens doivent être en laisse de mai à septembre. Fistral, Towan, Great Western, Crantock, Watergate Bay, Lusty Glaze et Whipsiderry restent ouvertes aux chiens toute l'année. Les agents peuvent verbaliser jusqu'à 100 livres : lisez donc toujours les panneaux à chaque plage, et notez que le PSPO de Cornouailles est en révision, avec d'éventuels changements au 1er mai 2026.",
+          "contentEs": "Newquay es sorprendentemente fácil aquí, ya que la mayoría de las playas admiten perros todo el año. La principal restricción estival es Porth Beach, donde los perros están vetados del 1 de julio al 31 de agosto, de 10 a 18h, bajo el Public Spaces Protection Order del Cornwall Council, y Tolcarne, donde los perros deben ir con correa de mayo a septiembre. Fistral, Towan, Great Western, Crantock, Watergate Bay, Lusty Glaze y Whipsiderry siguen abiertas a los perros todo el año. Los agentes pueden imponer multas de hasta 100 libras, así que lee siempre los carteles de cada playa, y ten en cuenta que el PSPO de Cornualles está en revisión, con posibles cambios desde el 1 de mayo de 2026.",
+          "contentPt": "Newquay é surpreendentemente fácil aqui, já que a maioria das praias admite cães todo o ano. A principal restrição de verão é a Porth Beach, onde os cães estão proibidos de 1 de julho a 31 de agosto, das 10h às 18h, ao abrigo do Public Spaces Protection Order do Cornwall Council, e Tolcarne, onde os cães têm de andar à trela de maio a setembro. Fistral, Towan, Great Western, Crantock, Watergate Bay, Lusty Glaze e Whipsiderry continuam abertas aos cães todo o ano. Os agentes podem aplicar multas até 100 libras, por isso leia sempre as placas de cada praia, e note que o PSPO da Cornualha está em revisão, com eventuais alterações a partir de 1 de maio de 2026."
+        },
+        {
+          "titleEn": "When to visit and the weather",
+          "titleFr": "Quand venir et la météo",
+          "titleEs": "Cuándo visitar y el tiempo",
+          "titlePt": "Quando visitar e o tempo",
+          "contentEn": "Newquay has a mild oceanic climate, with soft, frost-rare winters and warm rather than hot summers, though the Atlantic coast is often breezy. Spring and autumn are lovely for a dog: gentle weather, quieter beaches and no crowds. Because most beaches allow dogs year-round, even a July or August trip works well; simply use Fistral, Crantock or Watergate Bay and keep off Porth in the middle of the day.",
+          "contentFr": "Newquay a un climat océanique doux, avec des hivers cléments où le gel est rare et des étés chauds plutôt que brûlants, même si la côte atlantique est souvent venteuse. Le printemps et l'automne sont agréables avec un chien : temps doux, plages plus calmes et pas de foule. Comme la plupart des plages admettent les chiens toute l'année, même un séjour en juillet ou août fonctionne bien : utilisez simplement Fistral, Crantock ou Watergate Bay et évitez Porth au milieu de la journée.",
+          "contentEs": "Newquay tiene un clima oceánico suave, con inviernos benignos donde la escarcha es rara y veranos cálidos más que calurosos, aunque la costa atlántica suele ser ventosa. La primavera y el otoño son encantadores con un perro: tiempo suave, playas más tranquilas y sin gentío. Como la mayoría de las playas admiten perros todo el año, incluso un viaje en julio o agosto funciona bien: usa Fistral, Crantock o Watergate Bay y evita Porth en el centro del día.",
+          "contentPt": "Newquay tem um clima oceânico ameno, com invernos suaves onde a geada é rara e verões quentes mais do que abrasadores, embora a costa atlântica seja muitas vezes ventosa. A primavera e o outono são encantadores com um cão: tempo ameno, praias mais tranquilas e sem multidões. Como a maioria das praias admite cães todo o ano, até uma viagem em julho ou agosto funciona bem: use Fistral, Crantock ou Watergate Bay e evite Porth no meio do dia."
+        }
+      ],
+      "places": [],
+      "tipsEn": [
+        "Sort your dog's GB Animal Health Certificate with your vet before you leave home; it must be issued within 10 days of travel and cannot be arranged on arrival.",
+        "Most Newquay beaches allow dogs year-round; in peak summer favour Fistral, Crantock and Watergate Bay and avoid Porth Beach 10am to 6pm from 1 July to 31 August.",
+        "Save the MiNightVet number on Henver Road; Newquay is one of the few Cornish towns with in-town out-of-hours emergency cover."
+      ],
+      "tipsFr": [
+        "Réglez l'Animal Health Certificate britannique de votre chien avec votre vétérinaire avant de partir ; il doit être délivré dans les 10 jours précédant le voyage et ne peut pas s'obtenir à l'arrivée.",
+        "La plupart des plages de Newquay admettent les chiens toute l'année ; en plein été, privilégiez Fistral, Crantock et Watergate Bay et évitez Porth Beach de 10h à 18h du 1er juillet au 31 août.",
+        "Enregistrez le numéro de MiNightVet sur Henver Road ; Newquay est l'une des rares villes de Cornouailles avec une garde d'urgence en ville."
+      ],
+      "tipsEs": [
+        "Gestiona el Animal Health Certificate británico de tu perro con tu veterinario antes de salir de casa; debe emitirse en los 10 días previos al viaje y no puede tramitarse a la llegada.",
+        "La mayoría de las playas de Newquay admiten perros todo el año; en pleno verano prioriza Fistral, Crantock y Watergate Bay y evita Porth Beach de 10 a 18h del 1 de julio al 31 de agosto.",
+        "Guarda el número de MiNightVet en Henver Road; Newquay es uno de los pocos pueblos de Cornualles con guardia de urgencias en el propio pueblo."
+      ],
+      "tipsPt": [
+        "Trate do Animal Health Certificate britânico do seu cão com o veterinário antes de sair de casa; tem de ser emitido nos 10 dias anteriores à viagem e não pode ser tratado à chegada.",
+        "A maioria das praias de Newquay admite cães todo o ano; em pleno verão prefira Fistral, Crantock e Watergate Bay e evite a Porth Beach das 10h às 18h de 1 de julho a 31 de agosto.",
+        "Guarde o número da MiNightVet na Henver Road; Newquay é uma das poucas vilas da Cornualha com serviço de urgência na própria vila."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Newquay a good place to visit with a dog?",
+          "a": "Yes, it is one of the easiest dog holidays in Cornwall. Most of its many beaches allow dogs all year, the coast path is always open, harbour pubs welcome dogs, and the town has its own out-of-hours vet. The main thing to plan is the post-Brexit paperwork for EU visitors."
+        },
+        {
+          "q": "Do EU visitors need special paperwork to bring a dog to Newquay?",
+          "a": "Yes. Because Newquay is in Great Britain, EU visitors cannot use the EU Pet Passport. Your dog needs a GB Animal Health Certificate issued within 10 days of travel, a microchip, a valid rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Newquay est-il un bon endroit à visiter avec un chien ?",
+          "a": "Oui, c'est l'une des destinations canines les plus faciles de Cornouailles. La plupart de ses nombreuses plages admettent les chiens toute l'année, le chemin côtier est toujours ouvert, les pubs du port acceptent les chiens et la ville a son propre vétérinaire de garde. La principale chose à anticiper, ce sont les formalités post-Brexit pour les visiteurs de l'UE."
+        },
+        {
+          "q": "Les visiteurs de l'UE ont-ils besoin de formalités particulières pour amener un chien à Newquay ?",
+          "a": "Oui. Comme Newquay est en Grande-Bretagne, les visiteurs de l'UE ne peuvent pas utiliser le passeport pour animaux de l'UE. Votre chien a besoin d'un Animal Health Certificate britannique délivré dans les 10 jours précédant le voyage, d'une puce, d'une vaccination antirabique valide et d'un traitement anti-ténia 24 à 120 heures avant l'arrivée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Es Newquay un buen lugar para visitar con un perro?",
+          "a": "Sí, es una de las escapadas caninas más fáciles de Cornualles. La mayoría de sus muchas playas admiten perros todo el año, el camino costero siempre está abierto, los pubs del puerto admiten perros y el pueblo tiene su propio veterinario de urgencias. Lo principal que hay que planificar son los trámites posteriores al Brexit para los visitantes de la UE."
+        },
+        {
+          "q": "Necesitan los visitantes de la UE documentación especial para llevar un perro a Newquay?",
+          "a": "Sí. Como Newquay está en Gran Bretaña, los visitantes de la UE no pueden usar el Pasaporte Europeo para Mascotas. Tu perro necesita un Animal Health Certificate británico emitido en los 10 días previos al viaje, un microchip, una vacunación antirrábica válida y un tratamiento antitenia entre 24 y 120 horas antes de la llegada."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Newquay é um bom lugar para visitar com um cão?",
+          "a": "Sim, é uma das escapadelas caninas mais fáceis da Cornualha. A maioria das suas muitas praias admite cães todo o ano, o caminho costeiro está sempre aberto, os pubs do porto aceitam cães e a vila tem o seu próprio veterinário de urgência. A principal coisa a planear é a papelada pós-Brexit para os visitantes da UE."
+        },
+        {
+          "q": "Os visitantes da UE precisam de documentação especial para levar um cão a Newquay?",
+          "a": "Sim. Como Newquay fica na Grã-Bretanha, os visitantes da UE não podem usar o Passaporte Europeu para Animais. O seu cão precisa de um Animal Health Certificate britânico emitido nos 10 dias anteriores à viagem, de um microchip, de uma vacinação antirrábica válida e de um tratamento contra a ténia entre 24 e 120 horas antes da chegada."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Newquay",
+      "titleFr": "Attractions qui accueillent les chiens à Newquay",
+      "titleEs": "Atracciones que admiten perros en Newquay",
+      "titlePt": "Atrações que acolhem cães em Newquay",
+      "introEn": "The best of Newquay is outdoors and open to dogs: the working harbour, the long clifftop coast path and, best of all, a wildlife boat trip out into the bay to look for seals, seabirds and dolphins, with well-behaved dogs welcome aboard. The one indoor exception most families visit, the Blue Reef Aquarium, does not allow dogs, but with the beaches, harbour and boats there is rarely a moment a dog has to sit out.",
+      "introFr": "Le meilleur de Newquay est en plein air et ouvert aux chiens : le port en activité, le long chemin côtier de falaise et, surtout, une excursion en bateau dans la baie à la recherche de phoques, d'oiseaux marins et de dauphins, les chiens bien élevés étant les bienvenus à bord. La seule exception intérieure que visitent la plupart des familles, l'aquarium Blue Reef, n'admet pas les chiens, mais avec les plages, le port et les bateaux, un chien reste rarement sur la touche.",
+      "introEs": "Lo mejor de Newquay está al aire libre y abierto a los perros: el puerto en activo, el largo camino costero de acantilado y, sobre todo, una excursión en barco por la bahía en busca de focas, aves marinas y delfines, con perros educados bienvenidos a bordo. La única excepción de interior que visitan la mayoría de las familias, el acuario Blue Reef, no admite perros, pero con las playas, el puerto y los barcos, un perro rara vez tiene que quedarse fuera.",
+      "introPt": "O melhor de Newquay é ao ar livre e aberto aos cães: o porto em atividade, o longo caminho costeiro de falésia e, acima de tudo, um passeio de barco pela baía à procura de focas, aves marinhas e golfinhos, com cães bem-comportados bem-vindos a bordo. A única exceção de interior que a maioria das famílias visita, o aquário Blue Reef, não admite cães, mas com as praias, o porto e os barcos, um cão raramente fica de fora.",
+      "places": [
+        {
+          "name": "Newquay Harbour",
+          "neighborhood": "Harbour",
+          "photo": "/images/city-places/newquay-attractions-harbour.jpg",
+          "website": "https://www.visitnewquay.org/",
+          "description": "The historic working harbour tucked below the town, still home to fishing and pleasure boats and ringed by dog-friendly pubs. The small harbour beach is dog-friendly year-round, and the harbour is the departure point for the wildlife and fishing boat trips, all walkable with a dog on a lead.",
+          "descriptionFr": "Le port historique en activité niché sous la ville, encore occupé par des bateaux de pêche et de plaisance et cerné de pubs acceptant les chiens. La petite plage du port est ouverte aux chiens toute l'année, et le port est le point de départ des excursions d'observation de la faune et de pêche, le tout accessible avec un chien en laisse.",
+          "descriptionEs": "El histórico puerto en activo enclavado bajo el pueblo, todavía con barcos de pesca y de recreo y rodeado de pubs que admiten perros. La pequeña playa del puerto admite perros todo el año, y el puerto es el punto de partida de las excursiones de fauna y de pesca, todo recorrible con un perro con correa.",
+          "descriptionPt": "O histórico porto em atividade aninhado sob a vila, ainda com barcos de pesca e de recreio e rodeado de pubs que aceitam cães. A pequena praia do porto admite cães todo o ano, e o porto é o ponto de partida dos passeios de fauna e de pesca, tudo percorrível com um cão à trela.",
+          "dogPolicy": "Dogs welcome on a lead around the harbour and on the year-round dog-friendly harbour beach.",
+          "dogPolicyFr": "Chiens bienvenus en laisse autour du port et sur la plage du port ouverte aux chiens toute l'année.",
+          "dogPolicyEs": "Perros bienvenidos con correa en torno al puerto y en la playa del puerto abierta a los perros todo el año.",
+          "dogPolicyPt": "Cães bem-vindos à trela à volta do porto e na praia do porto aberta aos cães todo o ano.",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "admissionFeePt": "Grátis",
+          "tip": "The steep slipway down to the harbour is cobbled and can be slippery when wet, so take it slowly with an excitable dog.",
+          "tipFr": "La rampe raide qui descend au port est pavée et peut être glissante par temps humide : descendez doucement avec un chien excité.",
+          "tipEs": "La rampa empinada que baja al puerto es adoquinada y puede resbalar cuando está mojada, así que bájala despacio con un perro excitable.",
+          "tipPt": "A rampa íngreme que desce ao porto é de calçada e pode ser escorregadia quando molhada, por isso desça devagar com um cão irrequieto.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Newquay+Harbour"
+        },
+        {
+          "name": "Newquay Harbour Boat Trips",
+          "neighborhood": "Newquay Harbour",
+          "photo": "/images/city-places/newquay-attractions-boat-trips.jpg",
+          "website": "https://www.visitnewquay.org/things-to-do/activities/fishing",
+          "description": "Several operators run wildlife sea-safari and mackerel-fishing trips from Newquay Harbour out along the coast, looking for grey seals, seabirds and sometimes dolphins. Well-behaved dogs are welcome aboard most trips, making it one of the most memorable dog-friendly outings on the north Cornwall coast.",
+          "descriptionFr": "Plusieurs opérateurs proposent des sea safaris d'observation de la faune et des sorties pêche au maquereau depuis le port de Newquay le long de la côte, à la recherche de phoques gris, d'oiseaux marins et parfois de dauphins. Les chiens bien élevés sont les bienvenus à bord de la plupart des sorties, ce qui en fait l'une des excursions acceptant les chiens les plus mémorables de la côte nord de Cornouailles.",
+          "descriptionEs": "Varios operadores ofrecen sea safaris de fauna y salidas de pesca de caballa desde el puerto de Newquay a lo largo de la costa, en busca de focas grises, aves marinas y a veces delfines. Los perros educados son bienvenidos a bordo de la mayoría de las salidas, lo que lo convierte en una de las excursiones que admiten perros más memorables de la costa norte de Cornualles.",
+          "descriptionPt": "Vários operadores oferecem sea safaris de fauna e saídas de pesca de cavala a partir do porto de Newquay ao longo da costa, à procura de focas cinzentas, aves marinhas e por vezes golfinhos. Os cães bem-comportados são bem-vindos a bordo da maioria das saídas, o que faz dele uma das excursões que aceitam cães mais memoráveis da costa norte da Cornualha.",
+          "dogPolicy": "Well-behaved dogs welcome aboard most trips on a lead; confirm with the operator when booking.",
+          "dogPolicyFr": "Chiens bien élevés bienvenus à bord de la plupart des sorties, en laisse ; confirmez avec l'opérateur à la réservation.",
+          "dogPolicyEs": "Perros educados bienvenidos a bordo de la mayoría de las salidas con correa; confirma con el operador al reservar.",
+          "dogPolicyPt": "Cães bem-comportados bem-vindos a bordo da maioria das saídas à trela; confirme com o operador ao reservar.",
+          "admissionFee": "Varies by operator and trip length; confirm dog policy when booking",
+          "admissionFeeFr": "Variable selon l'opérateur et la durée ; confirmez la politique chiens à la réservation",
+          "admissionFeeEs": "Varía según el operador y la duración; confirma la política de perros al reservar",
+          "admissionFeePt": "Varia consoante o operador e a duração; confirme a política de cães ao reservar",
+          "tip": "Pick a calmer day for a nervous dog and confirm the dog policy when you book, as it varies between operators at the harbour.",
+          "tipFr": "Choisissez une journée plus calme pour un chien craintif et confirmez la politique chiens à la réservation, car elle varie selon les opérateurs du port.",
+          "tipEs": "Elige un día más tranquilo para un perro nervioso y confirma la política de perros al reservar, porque varía entre los operadores del puerto.",
+          "tipPt": "Escolha um dia mais calmo para um cão nervoso e confirme a política de cães ao reservar, porque varia entre os operadores do porto.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Newquay+Harbour+boat+trips"
+        },
+        {
+          "name": "South West Coast Path (Newquay headlands)",
+          "neighborhood": "Pentire and Towan Head",
+          "photo": "",
+          "website": "https://www.southwestcoastpath.org.uk/",
+          "description": "The stretch of the South West Coast Path around Newquay's headlands, from Towan Head above Fistral to Pentire and the Gannel, is dramatic clifftop walking with huge Atlantic views. It is open to dogs year-round and links most of the town's beaches, so it doubles as sightseeing and a proper dog walk.",
+          "descriptionFr": "Le tronçon du South West Coast Path autour des pointes de Newquay, de Towan Head au-dessus de Fistral jusqu'à Pentire et au Gannel, offre une marche de falaise spectaculaire avec d'immenses vues atlantiques. Il est ouvert aux chiens toute l'année et relie la plupart des plages de la ville : il fait donc office de visite et de vraie promenade canine.",
+          "descriptionEs": "El tramo del South West Coast Path alrededor de los promontorios de Newquay, desde Towan Head sobre Fistral hasta Pentire y el Gannel, es una caminata de acantilado espectacular con enormes vistas atlánticas. Está abierto a los perros todo el año y enlaza la mayoría de las playas del pueblo, así que sirve a la vez de visita y de auténtico paseo canino.",
+          "descriptionPt": "O troço do South West Coast Path à volta dos promontórios de Newquay, de Towan Head acima de Fistral até Pentire e o Gannel, é uma caminhada de falésia espetacular com enormes vistas atlânticas. Está aberto aos cães todo o ano e liga a maioria das praias da vila, por isso serve ao mesmo tempo de visita e de verdadeiro passeio canino.",
+          "dogPolicy": "Dogs welcome year-round on a lead near the cliff edges and grazing livestock.",
+          "dogPolicyFr": "Chiens bienvenus toute l'année, en laisse près des bords de falaise et du bétail qui pâture.",
+          "dogPolicyEs": "Perros bienvenidos todo el año con correa cerca de los bordes del acantilado y el ganado que pasta.",
+          "dogPolicyPt": "Cães bem-vindos todo o ano à trela perto das bordas da falésia e do gado que pasta.",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "admissionFeePt": "Grátis",
+          "tip": "Towan Head at sunset is one of the finest short walks in town; carry water, as there is no shade on the exposed headland.",
+          "tipFr": "Towan Head au coucher du soleil est l'une des plus belles courtes promenades de la ville ; emportez de l'eau, car il n'y a pas d'ombre sur la pointe exposée.",
+          "tipEs": "Towan Head al atardecer es uno de los mejores paseos cortos del pueblo; lleva agua, porque no hay sombra en el promontorio expuesto.",
+          "tipPt": "Towan Head ao pôr do sol é um dos melhores passeios curtos da vila; leve água, porque não há sombra no promontório exposto.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Towan+Head+Newquay+coast+path"
+        }
+      ],
+      "tipsEn": [
+        "The harbour wildlife boat trips are the standout dog day out; confirm the dog policy with the operator and pick a calm day.",
+        "The harbour, the harbour beach and the coast path around Towan and Pentire heads are all free, outdoor and dog-friendly.",
+        "The main exception is the Blue Reef Aquarium, which does not admit dogs, so plan a sitter or take turns if you want to visit it."
+      ],
+      "tipsFr": [
+        "Les excursions en bateau d'observation de la faune depuis le port sont la sortie canine phare ; confirmez la politique chiens avec l'opérateur et choisissez une journée calme.",
+        "Le port, la plage du port et le chemin côtier autour des pointes de Towan et Pentire sont tous gratuits, en plein air et ouverts aux chiens.",
+        "La principale exception est l'aquarium Blue Reef, qui n'admet pas les chiens : prévoyez un gardien ou alternez si vous voulez le visiter."
+      ],
+      "tipsEs": [
+        "Las excursiones en barco de fauna desde el puerto son la salida canina estrella; confirma la política de perros con el operador y elige un día tranquilo.",
+        "El puerto, la playa del puerto y el camino costero alrededor de los promontorios de Towan y Pentire son gratis, al aire libre y aptos para perros.",
+        "La principal excepción es el acuario Blue Reef, que no admite perros, así que organiza un cuidador o turnaos si quieres visitarlo."
+      ],
+      "tipsPt": [
+        "Os passeios de barco de fauna a partir do porto são a saída canina de destaque; confirme a política de cães com o operador e escolha um dia calmo.",
+        "O porto, a praia do porto e o caminho costeiro à volta dos promontórios de Towan e Pentire são todos gratuitos, ao ar livre e aceitam cães.",
+        "A principal exceção é o aquário Blue Reef, que não admite cães, por isso organize um cuidador ou revezem-se se quiser visitá-lo."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on a boat trip in Newquay?",
+          "a": "Yes. Several wildlife sea-safari and mackerel-fishing operators at Newquay Harbour welcome well-behaved dogs aboard, on a lead. Confirm the dog policy when you book, as it varies between operators, and choose a calmer day if your dog is nervous at sea."
+        },
+        {
+          "q": "Are dogs allowed at the Blue Reef Aquarium in Newquay?",
+          "a": "No, the Blue Reef Aquarium does not admit dogs other than assistance dogs. The rest of Newquay, including the harbour, the beaches, the coast path and the boat trips, is very dog-friendly, so a sitter or taking turns covers the aquarium visit."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien en excursion en bateau à Newquay ?",
+          "a": "Oui. Plusieurs opérateurs de sea safari et de pêche au maquereau au port de Newquay acceptent les chiens bien élevés à bord, en laisse. Confirmez la politique chiens à la réservation, car elle varie selon les opérateurs, et choisissez une journée plus calme si votre chien est craintif en mer."
+        },
+        {
+          "q": "Les chiens sont-ils admis à l'aquarium Blue Reef de Newquay ?",
+          "a": "Non, l'aquarium Blue Reef n'admet pas les chiens, hormis les chiens d'assistance. Le reste de Newquay, dont le port, les plages, le chemin côtier et les excursions en bateau, est très accueillant pour les chiens : un gardien ou une visite en alternance couvre l'aquarium."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Puedo llevar a mi perro en una excursión en barco en Newquay?",
+          "a": "Sí. Varios operadores de sea safari y de pesca de caballa en el puerto de Newquay admiten perros educados a bordo, con correa. Confirma la política de perros al reservar, porque varía entre operadores, y elige un día más tranquilo si tu perro se pone nervioso en el mar."
+        },
+        {
+          "q": "Se admiten perros en el acuario Blue Reef de Newquay?",
+          "a": "No, el acuario Blue Reef no admite perros salvo perros de asistencia. El resto de Newquay, incluido el puerto, las playas, el camino costero y las excursiones en barco, es muy acogedor para perros, así que un cuidador o turnaros cubre la visita al acuario."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão num passeio de barco em Newquay?",
+          "a": "Sim. Vários operadores de sea safari e de pesca de cavala no porto de Newquay aceitam cães bem-comportados a bordo, à trela. Confirme a política de cães ao reservar, porque varia entre operadores, e escolha um dia mais calmo se o seu cão ficar nervoso no mar."
+        },
+        {
+          "q": "Os cães são admitidos no aquário Blue Reef de Newquay?",
+          "a": "Não, o aquário Blue Reef não admite cães além de cães de assistência. O resto de Newquay, incluindo o porto, as praias, o caminho costeiro e os passeios de barco, é muito acolhedor para cães, por isso um cuidador ou revezarem-se cobre a visita ao aquário."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitting and Walking in Newquay",
+      "titleFr": "Garde et promenade de chiens à Newquay",
+      "titleEs": "Cuidado y paseo de perros en Newquay",
+      "titlePt": "Guarda e passeio de cães em Newquay",
+      "introEn": "For the few places a dog cannot go, such as the aquarium or a long restaurant dinner, national platforms connect you with vetted local sitters and walkers around Newquay and mid Cornwall. Book well ahead for July and August, when this busy resort fills up and local carers get booked out fast.",
+      "introFr": "Pour les rares endroits où un chien ne peut pas aller, comme l'aquarium ou un long dîner au restaurant, des plateformes nationales vous mettent en relation avec des gardiens et promeneurs locaux vérifiés autour de Newquay et du centre de la Cornouailles. Réservez bien à l'avance pour juillet et août, quand cette station animée se remplit et que les intervenants locaux sont vite complets.",
+      "introEs": "Para los pocos lugares a los que un perro no puede ir, como el acuario o una cena larga en un restaurante, las plataformas nacionales te conectan con cuidadores y paseadores locales verificados en torno a Newquay y el centro de Cornualles. Reserva con bastante antelación para julio y agosto, cuando esta estación animada se llena y los cuidadores locales se agotan rápido.",
+      "introPt": "Para os poucos lugares onde um cão não pode ir, como o aquário ou um jantar longo num restaurante, as plataformas nacionais ligam-no a cuidadores e passeadores locais verificados à volta de Newquay e do centro da Cornualha. Reserve com bastante antecedência para julho e agosto, quando esta estância movimentada enche e os cuidadores locais se esgotam depressa.",
+      "places": [
+        {
+          "name": "Rover UK",
+          "website": "https://www.rover.com/uk/",
+          "description": "The largest pet-care platform in the UK, with local dog sitters, boarders and walkers listed across mid Cornwall and the Newquay area. Every sitter has a profile, reviews and photos, and you book and pay through the app with cover included.",
+          "descriptionFr": "La plus grande plateforme de garde d'animaux du Royaume-Uni, avec des gardiens, pensions et promeneurs locaux référencés dans le centre de la Cornouailles et la région de Newquay. Chaque intervenant a un profil, des avis et des photos, et vous réservez et payez via l'application avec une assurance incluse.",
+          "descriptionEs": "La mayor plataforma de cuidado de mascotas del Reino Unido, con cuidadores, alojadores y paseadores locales listados por el centro de Cornualles y la zona de Newquay. Cada cuidador tiene perfil, reseñas y fotos, y reservas y pagas a través de la app con cobertura incluida.",
+          "descriptionPt": "A maior plataforma de cuidado de animais do Reino Unido, com cuidadores, alojadores e passeadores locais listados pelo centro da Cornualha e pela zona de Newquay. Cada cuidador tem perfil, avaliações e fotos, e reserva e paga através da app com cobertura incluída.",
+          "serviceType": "Dog boarding, day care, drop-in visits and walking",
+          "serviceTypeFr": "Pension, garderie, visites à domicile et promenade",
+          "serviceTypeEs": "Alojamiento, guardería, visitas a domicilio y paseo",
+          "serviceTypePt": "Alojamento, creche, visitas ao domicílio e passeio",
+          "pricePerDay": "From around £20-£35 per day",
+          "languages": [
+            "English"
+          ],
+          "tip": "Message two or three sitters early and arrange a short meet-and-greet before your trip so your dog is comfortable before the day you need cover.",
+          "tipFr": "Contactez deux ou trois gardiens tôt et organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avant le jour où vous avez besoin de la garde.",
+          "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo a tu viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
+          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço."
+        },
+        {
+          "name": "Tailster",
+          "website": "https://www.tailster.com/",
+          "description": "A UK-wide network of insured, vetted dog walkers and sitters that matches you with local carers based on your dates and your dog's needs. It is a useful alternative to Rover for covering an aquarium visit or a long dinner in Newquay.",
+          "descriptionFr": "Un réseau britannique de promeneurs et gardiens de chiens assurés et vérifiés, qui vous associe à des intervenants locaux selon vos dates et les besoins de votre chien. C'est une alternative utile à Rover pour couvrir une visite de l'aquarium ou un long dîner à Newquay.",
+          "descriptionEs": "Una red de ámbito británico de paseadores y cuidadores de perros asegurados y verificados que te empareja con cuidadores locales según tus fechas y las necesidades de tu perro. Es una alternativa útil a Rover para cubrir una visita al acuario o una cena larga en Newquay.",
+          "descriptionPt": "Uma rede de âmbito britânico de passeadores e cuidadores de cães segurados e verificados que o combina com cuidadores locais consoante as suas datas e as necessidades do seu cão. É uma alternativa útil ao Rover para cobrir uma visita ao aquário ou um jantar longo em Newquay.",
+          "serviceType": "Dog walking, day care and home boarding",
+          "serviceTypeFr": "Promenade, garderie et pension à domicile",
+          "serviceTypeEs": "Paseo, guardería y alojamiento en casa",
+          "serviceTypePt": "Passeio, creche e alojamento ao domicílio",
+          "pricePerDay": "From around £18-£30 per day",
+          "languages": [
+            "English"
+          ],
+          "tip": "Tell the carer about your dog's recall around livestock, since local walks often use the coast path and fields where sheep and cattle graze.",
+          "tipFr": "Informez l'intervenant du rappel de votre chien près du bétail, car les promenades locales empruntent souvent le chemin côtier et des champs où pâturent moutons et bovins.",
+          "tipEs": "Informa al cuidador sobre la llamada de vuelta de tu perro ante el ganado, ya que los paseos locales suelen usar el camino costero y prados donde pastan ovejas y vacas.",
+          "tipPt": "Informe o cuidador sobre a chamada de retorno do seu cão perto do gado, já que os passeios locais usam muitas vezes o caminho costeiro e campos onde pastam ovelhas e vacas."
+        }
+      ],
+      "tipsEn": [
+        "Book sitters and walkers well ahead for July and August, when Newquay is at its busiest and local carers fill up.",
+        "Arrange a meet-and-greet before you rely on a sitter, and share your dog's vaccination records, vet details and the MiNightVet emergency number.",
+        "A local walker who knows the coast path and the beach dog rules can be a good option while you take turns at the aquarium."
+      ],
+      "tipsFr": [
+        "Réservez gardiens et promeneurs bien à l'avance pour juillet et août, quand Newquay est au plus fréquenté et que les intervenants locaux sont complets.",
+        "Organisez une rencontre avant de compter sur un gardien, et transmettez le carnet de vaccination de votre chien, les coordonnées de votre vétérinaire et le numéro d'urgence MiNightVet.",
+        "Un promeneur local qui connaît le chemin côtier et les règles des plages canines peut être une bonne option pendant que vous alternez à l'aquarium."
+      ],
+      "tipsEs": [
+        "Reserva cuidadores y paseadores con bastante antelación para julio y agosto, cuando Newquay está más concurrido y los cuidadores locales se llenan.",
+        "Organiza un encuentro previo antes de confiar en un cuidador, y comparte la cartilla de vacunación de tu perro, los datos de tu veterinario y el número de urgencias de MiNightVet.",
+        "Un paseador local que conozca el camino costero y las normas de las playas caninas puede ser una buena opción mientras os turnáis en el acuario."
+      ],
+      "tipsPt": [
+        "Reserve cuidadores e passeadores com bastante antecedência para julho e agosto, quando Newquay está mais movimentada e os cuidadores locais se esgotam.",
+        "Combine um encontro prévio antes de confiar num cuidador, e partilhe o boletim de vacinação do seu cão, os dados do seu veterinário e o número de urgência da MiNightVet.",
+        "Um passeador local que conheça o caminho costeiro e as regras das praias caninas pode ser uma boa opção enquanto se revezam no aquário."
+      ],
+      "faqsEn": [
+        {
+          "q": "How do I find a dog sitter in Newquay?",
+          "a": "National platforms such as Rover and Tailster list vetted, insured sitters, boarders and walkers across mid Cornwall and the Newquay area. You browse profiles and reviews, arrange a meet-and-greet, and book through the app; reserve early for July and August."
+        },
+        {
+          "q": "Can I leave my dog while I visit the aquarium?",
+          "a": "Yes. Since the Blue Reef Aquarium only admits assistance dogs, a local sitter or day-care through Rover or Tailster is ideal for that visit. Share your dog's vet details and its recall around livestock with the carer."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Comment trouver un gardien de chien à Newquay ?",
+          "a": "Des plateformes nationales comme Rover et Tailster référencent des gardiens, pensions et promeneurs vérifiés et assurés dans le centre de la Cornouailles et la région de Newquay. Vous consultez les profils et les avis, organisez une rencontre et réservez via l'application ; réservez tôt pour juillet et août."
+        },
+        {
+          "q": "Puis-je laisser mon chien pendant que je visite l'aquarium ?",
+          "a": "Oui. Comme l'aquarium Blue Reef n'admet que les chiens d'assistance, un gardien local ou une garderie via Rover ou Tailster est idéal pour cette visite. Communiquez à l'intervenant les coordonnées de votre vétérinaire et le rappel de votre chien près du bétail."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Cómo encuentro un cuidador de perros en Newquay?",
+          "a": "Plataformas nacionales como Rover y Tailster listan cuidadores, alojadores y paseadores verificados y asegurados por el centro de Cornualles y la zona de Newquay. Consultas perfiles y reseñas, organizas un encuentro y reservas por la app; reserva pronto para julio y agosto."
+        },
+        {
+          "q": "Puedo dejar a mi perro mientras visito el acuario?",
+          "a": "Sí. Como el acuario Blue Reef solo admite perros de asistencia, un cuidador local o una guardería por Rover o Tailster es ideal para esa visita. Comparte con el cuidador los datos de tu veterinario y la llamada de vuelta de tu perro ante el ganado."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Como encontro um cuidador de cães em Newquay?",
+          "a": "Plataformas nacionais como Rover e Tailster listam cuidadores, alojadores e passeadores verificados e segurados pelo centro da Cornualha e pela zona de Newquay. Consulta perfis e avaliações, combina um encontro e reserva pela app; reserve cedo para julho e agosto."
+        },
+        {
+          "q": "Posso deixar o meu cão enquanto visito o aquário?",
+          "a": "Sim. Como o aquário Blue Reef só admite cães de assistência, um cuidador local ou uma creche pelo Rover ou Tailster é ideal para essa visita. Partilhe com o cuidador os dados do seu veterinário e a chamada de retorno do seu cão perto do gado."
+        }
+      ]
+    }
+  }
+}

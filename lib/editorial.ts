@@ -1201,6 +1201,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Vieille Ville and the Basilique Saint-Michel-Archange parvis, the Promenade du Soleil along the seafront, the Jardin Serre de la Madone and Val Rahmeh (both leashed-dog friendly), and the Sentier Le Corbusier coastal walk around Cap Martin`,
       area: `the Vieille Ville climbing to Saint-Michel, the Centre around the Jardins Biovès and Avenue Boyer, Garavan on the Italian-border side, and the seafront along the Promenade du Soleil`,
     },
+    newquay: {
+      personality: `a relaxed north Cornwall surf town wrapped in beaches, where most of the sand stays dog-friendly all year and dogs share the coast path, the harbour boat trips and the harbour pubs`,
+      highlight: `year-round dog-friendly Fistral, Crantock and Watergate Bay, the South West Coast Path around Towan and Pentire heads, and the harbour wildlife boat trips`,
+      area: `the harbour and its year-round dog beach, Fistral and the Pentire headland, and the Gannel estuary towards Crantock`,
+    },
     nice: {
       personality: 'a sun-drenched Mediterranean city where dogs join their owners on terrace restaurants, in the old town market, and along the famous waterfront',
       highlight: 'the Promenade des Anglais, Parc du Mont Boron, and the Colline du Château',
@@ -3114,6 +3119,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la Vieille Ville et le parvis de la Basilique Saint-Michel-Archange, la Promenade du Soleil le long du front de mer, le Jardin Serre de la Madone et Val Rahmeh (chiens en laisse acceptés), et le Sentier Le Corbusier autour du Cap Martin`,
       area: `la Vieille Ville montant vers Saint-Michel, le Centre autour des Jardins Biovès et de l'Avenue Boyer, Garavan côté frontière italienne, et le front de mer le long de la Promenade du Soleil`,
     },
+    newquay: {
+      personality: `une ville de surf décontractée du nord de la Cornouailles entourée de plages, où le sable reste en grande partie ouvert aux chiens toute l'année et où les chiens partagent le chemin côtier, les excursions en bateau depuis le port et les pubs du port`,
+      highlight: `Fistral, Crantock et Watergate Bay ouvertes aux chiens toute l'année, le South West Coast Path autour des pointes de Towan et Pentire, et les excursions en bateau d'observation depuis le port`,
+      area: `le port et sa plage ouverte aux chiens toute l'année, Fistral et la pointe de Pentire, et l'estuaire du Gannel vers Crantock`,
+    },
     nice: {
       personality: 'une ville méditerranéenne ensoleillée où les chiens rejoignent leurs propriétaires dans les restaurants en terrasse, au marché du vieux-Nice et le long du célèbre front de mer',
       highlight: 'la Promenade des Anglais, le Parc du Mont Boron et la Colline du Château',
@@ -5026,6 +5036,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Casco Antiguo y el parvis de la Basílica Saint-Michel-Archange, la Promenade du Soleil a lo largo del frente marítimo, el Jardin Serre de la Madone y Val Rahmeh (admiten perros con correa), y el Sendero Le Corbusier alrededor del Cap Martin`,
       area: `el Casco Antiguo subiendo hacia Saint-Michel, el Centro en torno a los Jardines Biovès y la Avenue Boyer, Garavan junto a la frontera italiana, y el frente marítimo a lo largo de la Promenade du Soleil`,
     },
+    newquay: {
+      personality: `un relajado pueblo de surf del norte de Cornualles envuelto en playas, donde la mayor parte de la arena sigue siendo apta para perros todo el año y los perros comparten el camino costero, las excursiones en barco desde el puerto y los pubs del puerto`,
+      highlight: `Fistral, Crantock y Watergate Bay abiertas a los perros todo el año, el South West Coast Path alrededor de los promontorios de Towan y Pentire, y las excursiones en barco de fauna desde el puerto`,
+      area: `el puerto y su playa abierta a los perros todo el año, Fistral y el promontorio de Pentire, y el estuario del Gannel hacia Crantock`,
+    },
     nice: {
       personality: 'una ciudad mediterránea bañada por el sol donde los perros acompañan a sus dueños en restaurantes de terraza, en el mercado del casco antiguo y a lo largo del famoso paseo marítimo',
       highlight: 'el Paseo de los Ingleses, el Parque del Mont Boron y la Colina del Castillo',
@@ -6937,6 +6952,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a cidade mais oriental da Côte d'Azur a dez minutos da fronteira italiana, com o microclima mais quente da França continental, um centro histórico barroco a subir para a Basílica Saint-Michel-Archange, jardins históricos (Jardin Serre de la Madone e Val Rahmeh) que admitem cães com trela, o Sentier Le Corbusier em torno do Cap Martin, e uma cultura do Limão de Menton IGP durante todo o ano que culmina na Festa do Limão em fevereiro`,
       highlight: `o Centro Histórico e o parvis da Basílica Saint-Michel-Archange, a Promenade du Soleil ao longo do passeio marítimo, o Jardin Serre de la Madone e Val Rahmeh (admitem cães com trela), e o Sentier Le Corbusier em torno do Cap Martin`,
       area: `o Centro Histórico a subir para Saint-Michel, o Centro em torno dos Jardins Biovès e da Avenue Boyer, Garavan junto à fronteira italiana, e o passeio marítimo ao longo da Promenade du Soleil`,
+    },
+    newquay: {
+      personality: `uma vila de surf descontraída do norte da Cornualha rodeada de praias, onde a maior parte da areia continua a aceitar cães todo o ano e os cães partilham o caminho costeiro, os passeios de barco a partir do porto e os pubs do porto`,
+      highlight: `Fistral, Crantock e Watergate Bay abertas aos cães todo o ano, o South West Coast Path à volta dos promontórios de Towan e Pentire, e os passeios de barco de fauna a partir do porto`,
+      area: `o porto e a sua praia aberta aos cães todo o ano, Fistral e o promontório de Pentire, e o estuário do Gannel em direção a Crantock`,
     },
     nice: {
       personality: 'uma cidade mediterrânea banhada pelo sol onde os cães acompanhan aos seus duenhos en restaurantes de esplanada, no mercado do centro histórico e a lo largo do famoso passeio marítimo',

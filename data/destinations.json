@@ -17167,6 +17167,81 @@
     "tiqetsId": "260932"
   },
   {
+    "slug": "newquay",
+    "name": "Newquay",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/newquay.jpg",
+    "intro": "A north Cornwall surf town wrapped in beaches, where most of the sand stays dog-friendly all year and dogs share the coast path, the harbour boat trips and the harbour pubs. The one summer restriction to know is Porth Beach, which bans dogs 10am-6pm from 1 July to 31 August, while Fistral, Crantock and Watergate Bay welcome dogs year-round.",
+    "lat": 50.4155,
+    "lng": -5.0737,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Mild, wet, breezy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Mild, damp",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Cool, brightening",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild, showery",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild, breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Warm, pleasant",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm, busy beaches",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm, surf season",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild, golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Mild, showery",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Mild, wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild, wet, windy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "NQY"
+  },
+  {
     "slug": "nice",
     "name": "Nice",
     "country": "France",

@@ -32583,6 +32583,228 @@
     "slug": "pod-51-hotel"
   },
   {
+    "id": "newquay-1",
+    "name": "The Headland Hotel and Spa",
+    "destinationSlug": "newquay",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 806,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-headland.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "7 swimming pools",
+      "Free parking",
+      "Spa & wellness centre"
+    ],
+    "slug": "the-headland-hotel-and-spa-newquay",
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar."
+  },
+  {
+    "id": "newquay-2",
+    "name": "7 Cribbar",
+    "destinationSlug": "newquay",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 12,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/7-cribbar-newquay.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "7-cribbar-newquay",
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar."
+  },
+  {
+    "id": "newquay-3",
+    "name": "The White House Hotel",
+    "destinationSlug": "newquay",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 21,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-white-house-cornwall.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "the-white-house-hotel-newquay",
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar."
+  },
+  {
+    "id": "newquay-4",
+    "name": "Chi An Mor",
+    "destinationSlug": "newquay",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/chi-an-mor-newquay.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "chi-an-mor-newquay",
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar."
+  },
+  {
+    "id": "newquay-5",
+    "name": "The Harbour",
+    "destinationSlug": "newquay",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 183,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/harbour-newquay.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "the-harbour-newquay",
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar."
+  },
+  {
+    "id": "newquay-6",
+    "name": "Apartment no 21",
+    "destinationSlug": "newquay",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/apartment-no-21.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "apartment-no-21-newquay",
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar."
+  },
+  {
+    "id": "newquay-7",
+    "name": "SeaQuest 8",
+    "destinationSlug": "newquay",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 72,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/seaquest-8.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "seaquest-8-newquay",
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar."
+  },
+  {
+    "id": "newquay-8",
+    "name": "THE NICI Newquay",
+    "destinationSlug": "newquay",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 7.5,
+    "reviewCount": 20,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-nici-newquay.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "2 swimming pools",
+      "Private parking",
+      "Spa & wellness centre"
+    ],
+    "slug": "the-nici-newquay-newquay",
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar."
+  },
+  {
     "id": "nice-1",
     "name": "Hotel Le Negresco",
     "destinationSlug": "nice",

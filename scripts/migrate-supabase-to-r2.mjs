@@ -15,7 +15,7 @@ import { readFileSync, existsSync } from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
 import mime from 'mime-types'
-import { S3Client, PutObjectCommand, HeadObjectCommand, ListObjectsV2Command } from '@aws-sdk/client-s3'
+import { S3Client, PutObjectCommand, ListObjectsV2Command } from '@aws-sdk/client-s3'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.join(__dirname, '..')
@@ -29,7 +29,10 @@ function env(k) {
   return m[1].trim()
 }
 
-const CDN = env('NEXT_PUBLIC_IMAGE_CDN').replace(/\/$/, '') // .../public/images
+// SOURCE is always Supabase Storage, never NEXT_PUBLIC_IMAGE_CDN (that now points
+// at R2 after the cutover, which would make the migration read from its own empty
+// destination for any not-yet-copied image).
+const CDN = env('SUPABASE_URL').replace(/\/$/, '') + '/storage/v1/object/public/images'
 const BUCKET = env('R2_BUCKET')
 const s3 = new S3Client({
   region: 'auto',
@@ -61,14 +64,24 @@ if (VERIFY) {
   process.exit(0)
 }
 
-async function existsInR2(key) {
-  try { await s3.send(new HeadObjectCommand({ Bucket: BUCKET, Key: key })); return true }
-  catch { return false }
+// List every key in R2 once (a few paginated calls) instead of one HeadObject
+// per manifest entry. Lets this run cheaply after every images:sync as an R2
+// mirror step (skip = already there, so only new images are copied).
+async function listR2Keys() {
+  const keys = new Set()
+  let token
+  do {
+    const r = await s3.send(new ListObjectsV2Command({ Bucket: BUCKET, ContinuationToken: token }))
+    for (const o of r.Contents || []) keys.add(o.Key)
+    token = r.IsTruncated ? r.NextContinuationToken : undefined
+  } while (token)
+  return keys
 }
+const R2_KEYS = ALL ? new Set() : await listR2Keys()
 
 async function copyOne(p) {
   const key = keyFor(p)
-  if (!ALL && (await existsInR2(key))) return 'skip'
+  if (!ALL && R2_KEYS.has(key)) return 'skip'
   const res = await fetch(srcFor(p))
   if (!res.ok) throw new Error(`GET ${res.status} ${p}`)
   const body = Buffer.from(await res.arrayBuffer())

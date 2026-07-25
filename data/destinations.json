@@ -27461,6 +27461,81 @@
     "countryCode": "PL"
   },
   {
+    "slug": "windermere",
+    "name": "Windermere",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/windermere.jpg",
+    "intro": "England's largest lake in the heart of the Lake District, where dogs are welcome on almost every fell and footpath, from the short Orrest Head climb to the National Trust lakeshore at Fell Foot. Trains, local buses and the lake cruises all take dogs free, and British pub culture makes Bowness genuinely easy with a dog.",
+    "lat": 54.3807,
+    "lng": -2.9057,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold, wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold, damp",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool, showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Spring showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Mild, greening",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Warm, changeable",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Warm, frequent rain",
+        "icon": "🌦️"
+      },
+      "aug": {
+        "temp": 17,
+        "desc": "Warm, wet spells",
+        "icon": "🌦️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Cool, golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Wet, leafy",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cold, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cold, wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "MAN"
+  },
+  {
     "slug": "wroclaw",
     "name": "Wroclaw",
     "country": "Poland",

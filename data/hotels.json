@@ -53262,6 +53262,221 @@
     "petPolicyPt": "animais de all sizes bem-vindos; sem additional taxa."
   },
   {
+    "id": "windermere-1",
+    "name": "Wheatlands Lodge-Windermere - Award Winning - Adult Only - Free Car Park",
+    "destinationSlug": "windermere",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 271,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/wheatlands-lodge.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "wheatlands-lodge-windermere-award-winning-adult-only-free-car-park-windermere",
+    "address": "Old College Lane, Windermere, LA23 1BY, United Kingdom",
+    "neighborhood": "Windermere"
+  },
+  {
+    "id": "windermere-2",
+    "name": "Langdale Chase Hotel",
+    "destinationSlug": "windermere",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 522,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/langdale-chase.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Restaurant"
+    ],
+    "slug": "langdale-chase-hotel-windermere",
+    "address": "Windermere, Windermere, LA23 1LW, United Kingdom",
+    "neighborhood": "Windermere"
+  },
+  {
+    "id": "windermere-3",
+    "name": "Broadoaks Boutique Country House",
+    "destinationSlug": "windermere",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 635,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/broadoaks-country-house.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Family rooms",
+      "Free WiFi"
+    ],
+    "slug": "broadoaks-boutique-country-house-windermere",
+    "address": "Bridge Lane, Windermere, LA23 1LA, United Kingdom",
+    "neighborhood": "Windermere"
+  },
+  {
+    "id": "windermere-4",
+    "name": "Beaumont Windermere - Adults-Only Boutique Guest House- Free Parking & Wellness Access",
+    "destinationSlug": "windermere",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 682,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/beaumonthouse.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Free parking",
+      "Spa & wellness centre"
+    ],
+    "slug": "beaumont-windermere-adults-only-boutique-guest-house-free-parking-wellness-access-windermere",
+    "address": "Holly Road, Windermere, LA23 2AF, United Kingdom",
+    "neighborhood": "Windermere"
+  },
+  {
+    "id": "windermere-5",
+    "name": "Applegarth Villa Hotel & Restaurant (Adult Only)",
+    "destinationSlug": "windermere",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 484,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/applegarth-jr-s-restaurant.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Restaurant"
+    ],
+    "slug": "applegarth-villa-hotel-restaurant-adult-only-windermere",
+    "address": "Applegarth Villa, College Road, Windermere, LA23 1BU, United Kingdom",
+    "neighborhood": "Windermere"
+  },
+  {
+    "id": "windermere-6",
+    "name": "Orrest Howe",
+    "destinationSlug": "windermere",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/orrest-howe.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "orrest-howe-windermere",
+    "address": "Windermere, LA23 1AW, United Kingdom",
+    "neighborhood": "Windermere"
+  },
+  {
+    "id": "windermere-7",
+    "name": "Hawksmoor Guest House",
+    "destinationSlug": "windermere",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 665,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hawksmoor-guest-house.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Family rooms",
+      "Free WiFi"
+    ],
+    "slug": "hawksmoor-guest-house-windermere",
+    "address": "Lake Rd, Windermere, LA23 2EQ, United Kingdom",
+    "neighborhood": "Windermere"
+  },
+  {
+    "id": "windermere-8",
+    "name": "Hill Of Oaks",
+    "destinationSlug": "windermere",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 537,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hill-of-oaks.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Family rooms",
+      "Free WiFi"
+    ],
+    "slug": "hill-of-oaks-windermere",
+    "address": "Hill Of Oaks Tower Wood, Windermere, LA12 8NR, United Kingdom",
+    "neighborhood": "Windermere"
+  },
+  {
     "id": "wroclaw-1",
     "name": "PURO Wrocław Stare Miasto",
     "destinationSlug": "wroclaw",

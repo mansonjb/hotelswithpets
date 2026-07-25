@@ -1737,6 +1737,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Łazienki Park, the Vistula riverside boulevards, and the Kampinos forest on the city\'s edge',
       area: 'Śródmieście, Praga, and the Powiśle riverside district',
     },
+    windermere: {
+      personality: `England's largest lake in the heart of the Lake District, where dogs are welcome on nearly every fell and footpath, travel free on the trains and lake cruises, and are the norm in the pubs of Bowness`,
+      highlight: `the Orrest Head viewpoint climb, the National Trust lakeshore at Fell Foot, and the dog-friendly Windermere Lake Cruises`,
+      area: `Windermere village, the Bowness-on-Windermere lakefront, and the quieter southern shore around Fell Foot`,
+    },
     wroclaw: {
       personality: `one of Poland's most genuinely dog-loving cities, where the colourful Rynek square is ringed by café terraces that welcome dogs without fuss, public transport is free for all pets, and around forty fenced off-leash zones are scattered across the city`,
       highlight: `Park Szczytnicki and the Centennial Hall, the islands of the Odra river, and the lamplit cobbles of Cathedral Island at dusk`,
@@ -3638,6 +3643,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une capitale européenne en pleine modernisation où les hôtels pet-friendly sont de plus en plus la norme et les parcs riverains offrent d\'excellentes promenades',
       highlight: 'le Parc Łazienki, les boulevards riverains de la Vistule et la forêt de Kampinos en périphérie',
       area: 'Śródmieście, Praga et le quartier riverain de Powiśle',
+    },
+    windermere: {
+      personality: `le plus grand lac d'Angleterre au cœur du Lake District, où les chiens sont les bienvenus sur presque tous les fells et sentiers, voyagent gratuitement dans les trains et sur les croisières du lac, et sont la norme dans les pubs de Bowness`,
+      highlight: `la montée au belvédère d'Orrest Head, la rive du National Trust à Fell Foot et les croisières Windermere Lake Cruises qui acceptent les chiens`,
+      area: `le village de Windermere, le front de lac de Bowness-on-Windermere et la rive sud plus calme autour de Fell Foot`,
     },
     wroclaw: {
       personality: `l'une des villes de Pologne les plus réellement amoureuses des chiens, où les terrasses du Rynek coloré accueillent les chiens sans façon, où les transports publics sont gratuits pour tous les animaux et où une quarantaine de zones clôturées sans laisse sont disséminées dans la ville`,
@@ -5541,6 +5551,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque Łazienki, los bulevares ribereños del Vístula y el bosque de Kampinos en las afueras',
       area: 'Śródmieście, Praga y el barrio ribereño de Powiśle',
     },
+    windermere: {
+      personality: `el mayor lago de Inglaterra en el corazón del Lake District, donde los perros son bienvenidos en casi todos los fells y senderos, viajan gratis en los trenes y los cruceros del lago, y son la norma en los pubs de Bowness`,
+      highlight: `la subida al mirador de Orrest Head, la orilla del National Trust en Fell Foot y los cruceros Windermere Lake Cruises que admiten perros`,
+      area: `el pueblo de Windermere, el paseo lacustre de Bowness-on-Windermere y la orilla sur más tranquila en torno a Fell Foot`,
+    },
     wroclaw: {
       personality: `una de las ciudades de Polonia más genuinamente amantes de los perros, donde las terrazas del colorido Rynek acogen a los perros sin problemas, el transporte público es gratis para todas las mascotas y unas cuarenta zonas valladas sin correa están repartidas por la ciudad`,
       highlight: `el Park Szczytnicki y el Pabellón del Centenario, las islas del río Odra y los adoquines iluminados por farolas de gas de la Isla de la Catedral al atardecer`,
@@ -7442,6 +7457,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma capital europeia en rápida modernización onde os hotéis pet-friendly são cada vez mais a norma e os parques riberenhos ofrecen excelentes passeios',
       highlight: 'o Parque Łazienki, os bulevares riberenhos do Vístula e o floresta de Kampinos nas afueras',
       area: 'Śródmieście, Praga e o bairro riberenho de Powiśle',
+    },
+    windermere: {
+      personality: `o maior lago de Inglaterra no coração do Lake District, onde os cães são bem-vindos em quase todos os fells e caminhos, viajam grátis nos comboios e nos cruzeiros do lago, e são a norma nos pubs de Bowness`,
+      highlight: `a subida ao miradouro de Orrest Head, a margem do National Trust em Fell Foot e os cruzeiros Windermere Lake Cruises que aceitam cães`,
+      area: `a aldeia de Windermere, a frente lacustre de Bowness-on-Windermere e a margem sul mais tranquila à volta de Fell Foot`,
     },
     wroclaw: {
       personality: `uma das cidades de Polonia mais genuinamente amantes dos cães, onde as esplanadas do colorido Rynek acogen aos cães sem problemas, o transporte público é grátis para todas as animais e umas cuarenta zonas valladas sem trela estão repartidas pela cidade`,

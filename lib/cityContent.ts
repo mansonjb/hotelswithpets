@@ -47497,6 +47497,142 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  windermere: {
+    history: {
+      fr: `Windermere, le plus grand lac naturel d'Angleterre (17 km de long), donne son nom au village voisin et à la station lacustre de Bowness-on-Windermere, au cœur du Lake District classé au patrimoine mondial de l'UNESCO. Le tourisme y est né avec l'arrivée du chemin de fer en 1847, qui relia le lac à Oxenholme et déversa les premiers visiteurs victoriens venus admirer les fells et l'eau. Aujourd'hui, la région vit du tourisme de plein air et d'une culture canine britannique profonde : les chiens sont admis sur presque tous les fells et sentiers, voyagent gratuitement dans les trains et sur les célèbres croisières du lac, et sont accueillis par défaut dans les pubs. La marche est la raison de venir, de la courte montée d'Orrest Head, première randonnée du guide Alfred Wainwright, aux rives du National Trust à Fell Foot. Une note pratique de taille : le Royaume-Uni ayant quitté le système de passeport européen post-Brexit, un Animal Health Certificate britannique est exigé pour les chiens venant de l'UE.`,
+      en: `Windermere, England's largest natural lake at 17 km long, lends its name to the neighbouring village and the lakeside resort of Bowness-on-Windermere, in the heart of the UNESCO-listed Lake District. Tourism here was born with the railway in 1847, which linked the lake to Oxenholme and brought the first Victorian visitors to admire the fells and the water. Today the area lives on outdoor tourism and a deep British dog-walking culture: dogs are welcome on nearly every fell and footpath, travel free on the trains and the famous lake cruises, and are welcomed by default in the pubs. Walking is the reason to come, from the short Orrest Head climb, the first walk in Alfred Wainwright's guides, to the National Trust lakeshore at Fell Foot. One big practical note: because the UK left the EU pet-passport scheme after Brexit, a GB Animal Health Certificate is required for dogs arriving from the EU.`,
+      es: `Windermere, el mayor lago natural de Inglaterra con 17 km de largo, da nombre al pueblo vecino y al centro lacustre de Bowness-on-Windermere, en el corazón del Lake District declarado Patrimonio de la UNESCO. El turismo nació aquí con el ferrocarril en 1847, que unió el lago con Oxenholme y trajo a los primeros visitantes victorianos a admirar los fells y el agua. Hoy la zona vive del turismo al aire libre y de una honda cultura británica de paseo canino: los perros son bienvenidos en casi todos los fells y senderos, viajan gratis en los trenes y en los famosos cruceros del lago, y se les recibe por defecto en los pubs. Caminar es la razón de venir, desde la corta subida de Orrest Head, el primer paseo de las guías de Alfred Wainwright, hasta la orilla del National Trust en Fell Foot. Una nota práctica importante: como el Reino Unido abandonó el sistema de pasaporte europeo tras el Brexit, se exige un Animal Health Certificate británico para los perros que llegan de la UE.`,
+      pt: `Windermere, o maior lago natural de Inglaterra com 17 km de comprimento, dá o nome à aldeia vizinha e ao centro lacustre de Bowness-on-Windermere, no coração do Lake District classificado como Património da UNESCO. O turismo nasceu aqui com o caminho de ferro em 1847, que ligou o lago a Oxenholme e trouxe os primeiros visitantes vitorianos para admirar os fells e a água. Hoje a região vive do turismo ao ar livre e de uma profunda cultura britânica de passeio canino: os cães são bem-vindos em quase todos os fells e caminhos, viajam grátis nos comboios e nos famosos cruzeiros do lago, e são recebidos por defeito nos pubs. Caminhar é a razão para vir, da curta subida de Orrest Head, o primeiro passeio dos guias de Alfred Wainwright, até à margem do National Trust em Fell Foot. Uma nota prática importante: como o Reino Unido abandonou o sistema de passaporte europeu após o Brexit, exige-se um Animal Health Certificate britânico para os cães que chegam da UE.`,
+    },
+    sights: [
+      {
+        name: 'Orrest Head',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `La montée courte et classique du Lakeland, un aller-retour d'environ 2,4 km depuis le village jusqu'à un panorama à 360 degrés sur tout le lac. Chiens sans laisse sous contrôle, en laisse près des moutons.`,
+          en: `The classic short Lakeland climb, a roughly 2.4 km there-and-back from the village to a 360-degree panorama over the whole lake. Dogs off-lead under control, on the lead near sheep.`,
+          es: `La subida corta y clásica del Lakeland, un ida y vuelta de unos 2,4 km desde el pueblo hasta un panorama de 360 grados sobre todo el lago. Perros sin correa bajo control, con correa cerca de las ovejas.`,
+          pt: `A subida curta e clássica do Lakeland, um ida e volta de cerca de 2,4 km desde a aldeia até um panorama de 360 graus sobre todo o lago. Cães sem trela sob controlo, à trela perto das ovelhas.`,
+        },
+      },
+      {
+        name: 'Fell Foot',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Parc du National Trust au sud tranquille du lac, avec une longue rive herbeuse. Les chiens peuvent nager dans l'eau et courir dans la prairie sud, en laisse dans le parc et au café.`,
+          en: `National Trust park at the quiet south end of the lake, with a long grassy shore. Dogs can swim in the water and run in the south meadow, on the lead in the parkland and café.`,
+          es: `Parque del National Trust en el extremo sur tranquilo del lago, con una larga orilla herbosa. Los perros pueden nadar en el agua y correr en la pradera sur, con correa en el parque y la cafetería.`,
+          pt: `Parque do National Trust no extremo sul tranquilo do lago, com uma longa margem relvada. Os cães podem nadar na água e correr no prado sul, à trela no parque e no café.`,
+        },
+      },
+      {
+        name: 'Windermere Lake Cruises',
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `Vapeurs et vedettes classiques entre Bowness, Ambleside, Brockhole et Lakeside. Les chiens voyagent gratuitement, tenus en laisse, avec des gamelles d'eau à bord.`,
+          en: `Classic steamers and launches between Bowness, Ambleside, Brockhole and Lakeside. Dogs travel free, kept on a lead, with water bowls on board.`,
+          es: `Vapores y lanchas clásicas entre Bowness, Ambleside, Brockhole y Lakeside. Los perros viajan gratis, con correa, con cuencos de agua a bordo.`,
+          pt: `Vapores e lanchas clássicas entre Bowness, Ambleside, Brockhole e Lakeside. Os cães viajam grátis, à trela, com taças de água a bordo.`,
+        },
+      },
+      {
+        name: 'Bowness-on-Windermere',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `La station lacustre animée au bord de l'eau, avec l'embarcadère, les marinas et une concentration de pubs qui accueillent les chiens dans le bar avec gamelle et friandise.`,
+          en: `The lively lakeside resort on the waterfront, with the pier, marinas and a cluster of pubs that welcome dogs in the bar with a bowl and a treat.`,
+          es: `El animado centro lacustre junto al agua, con el embarcadero, las marinas y una concentración de pubs que admiten perros en el bar con cuenco y golosina.`,
+          pt: `O animado centro lacustre junto à água, com o cais, as marinas e uma concentração de pubs que aceitam cães no bar com taça e petisco.`,
+        },
+      },
+      {
+        name: 'Brockhole on Windermere',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Anciens jardins en terrasses classés de Thomas Mawson qui descendent vers la rive entre Windermere et Ambleside. Chiens en laisse partout dans le parc, sauf dans l'aire de jeux.`,
+          en: `Former listed terraced gardens by Thomas Mawson sweeping down to the lakeshore between Windermere and Ambleside. Dogs on a lead throughout the grounds, but not in the playground.`,
+          es: `Antiguos jardines aterrazados catalogados de Thomas Mawson que descienden hacia la orilla entre Windermere y Ambleside. Perros con correa por todo el recinto, salvo en el parque infantil.`,
+          pt: `Antigos jardins em socalcos classificados de Thomas Mawson que descem para a margem entre Windermere e Ambleside. Cães à trela em todo o recinto, exceto no parque infantil.`,
+        },
+      },
+      {
+        name: 'Wray Castle',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Château néogothique dans un vaste parc sur la rive ouest, où la jeune Beatrix Potter passait ses vacances. Chiens en laisse dans le parc et au café.`,
+          en: `Neo-Gothic castle in extensive grounds on the west shore, where the young Beatrix Potter holidayed. Dogs on a lead in the grounds and café.`,
+          es: `Castillo neogótico en amplios jardines de la orilla oeste, donde la joven Beatrix Potter pasaba sus vacaciones. Perros con correa en los jardines y la cafetería.`,
+          pt: `Castelo neogótico em amplos jardins da margem oeste, onde a jovem Beatrix Potter passava férias. Cães à trela nos jardins e no café.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Tenez votre chien en laisse près des moutons et du bétail sur les fells et pendant la saison de nidification au sol au printemps ; un rappel fiable est indispensable sur le fell ouvert.`,
+        `En été, surveillez les algues bleu-vert dans le lac, potentiellement mortelles pour les chiens, et vérifiez l'eau avant toute baignade à Fell Foot ou Millerground.`,
+        `Les chiens voyagent gratuitement dans les trains (jusqu'à deux par voyageur, en laisse) et sur les croisières Windermere Lake Cruises, avec gamelles d'eau à bord.`,
+        `La plupart des pubs de Bowness et Windermere accueillent les chiens dans le bar ; demandez quel espace accepte les chiens plutôt que les salles de restaurant réservées.`,
+        `Numéro d'urgence vétérinaire : ligne 24h/24 d'Oakhill à Windermere (+44 15394 88555) et clinique de garde Vets Now à Kendal (+44 1539 232221).`,
+      ],
+      en: [
+        `Keep your dog on a lead near sheep and cattle on the fells and during the spring ground-nesting bird season; a reliable recall is essential on open fell.`,
+        `In summer, watch for blue-green algae in the lake, which is potentially fatal to dogs, and check the water before any swim at Fell Foot or Millerground.`,
+        `Dogs travel free on the trains (up to two per passenger, on a lead) and on the Windermere Lake Cruises, with water bowls on board.`,
+        `Most Bowness and Windermere pubs welcome dogs in the bar; ask which area is dog-friendly rather than the booked restaurant rooms.`,
+        `Emergency vet numbers: Oakhill's 24-hour line in Windermere (+44 15394 88555) and the Vets Now out-of-hours clinic in Kendal (+44 1539 232221).`,
+      ],
+      es: [
+        `Manten al perro con correa cerca de ovejas y vacas en los fells y durante la temporada de aves que anidan en el suelo en primavera; una llamada de vuelta fiable es imprescindible en el fell abierto.`,
+        `En verano, vigila las algas verdiazules del lago, potencialmente mortales para los perros, y comprueba el agua antes de cualquier baño en Fell Foot o Millerground.`,
+        `Los perros viajan gratis en los trenes (hasta dos por pasajero, con correa) y en los cruceros Windermere Lake Cruises, con cuencos de agua a bordo.`,
+        `La mayoría de los pubs de Bowness y Windermere admiten perros en el bar; pregunta qué zona admite perros y no las salas de restaurante reservadas.`,
+        `Números de urgencias veterinarias: línea 24h de Oakhill en Windermere (+44 15394 88555) y clínica de guardia Vets Now en Kendal (+44 1539 232221).`,
+      ],
+      pt: [
+        `Mantenha o cão à trela perto de ovelhas e vacas nos fells e durante a época de nidificação no solo na primavera; uma chamada de retorno fiável é indispensável no fell aberto.`,
+        `No verão, vigie as algas azul-esverdeadas do lago, potencialmente fatais para os cães, e verifique a água antes de qualquer banho em Fell Foot ou Millerground.`,
+        `Os cães viajam grátis nos comboios (até dois por passageiro, à trela) e nos cruzeiros Windermere Lake Cruises, com taças de água a bordo.`,
+        `A maioria dos pubs de Bowness e Windermere aceita cães no bar; pergunte que zona aceita cães e não as salas de restaurante reservadas.`,
+        `Números de urgência veterinária: linha 24h da Oakhill em Windermere (+44 15394 88555) e clínica de serviço Vets Now em Kendal (+44 1539 232221).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), puce, vaccin antirabique et traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : pas d'aéroport local ; train via Oxenholme sur la West Coast Main Line puis la ligne secondaire de Windermere. Aéroport le plus proche : Manchester (MAN), à environ 90 min de route.`,
+        `Se déplacer : village de Windermere, Bowness et rive reliés à pied ; bus 599 et croisières du lac acceptant les chiens pour aller à Ambleside, Brockhole et Lakeside.`,
+        `Météo : l'un des coins les plus pluvieux d'Angleterre ; prévoyez imperméables et serviette pour chien toute l'année, étés doux (17-18 °C), hivers froids et humides (4-5 °C).`,
+        `Numéros utiles : urgence générale 999 ou 112 ; vétérinaire 24h Oakhill Windermere +44 15394 88555 ; garde Vets Now Kendal +44 1539 232221.`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: no local airport; train via Oxenholme on the West Coast Main Line, then the Windermere branch line. Nearest airport is Manchester (MAN), about 90 minutes by road.`,
+        `Getting around: Windermere village, Bowness and the shore link on foot; the 599 bus and the dog-friendly lake cruises reach Ambleside, Brockhole and Lakeside.`,
+        `Weather: one of the wettest corners of England; pack waterproofs and a dog towel year-round, with mild summers (17-18 C) and cold, wet winters (4-5 C).`,
+        `Useful numbers: general emergency 999 or 112; 24-hour vet Oakhill Windermere +44 15394 88555; out-of-hours Vets Now Kendal +44 1539 232221.`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento antitenia entre 24 y 120 horas antes de la llegada.`,
+        `Cómo llegar: sin aeropuerto local; tren via Oxenholme en la West Coast Main Line y luego el ramal de Windermere. El aeropuerto más cercano es Mánchester (MAN), a unos 90 minutos por carretera.`,
+        `Cómo moverse: el pueblo de Windermere, Bowness y la orilla se enlazan a pie; el autobús 599 y los cruceros del lago que admiten perros llegan a Ambleside, Brockhole y Lakeside.`,
+        `Tiempo: uno de los rincones más lluviosos de Inglaterra; lleva ropa impermeable y toalla para el perro todo el año, con veranos suaves (17-18 C) e inviernos fríos y húmedos (4-5 C).`,
+        `Números útiles: emergencia general 999 o 112; veterinario 24h Oakhill Windermere +44 15394 88555; guardia Vets Now Kendal +44 1539 232221.`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate britânico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia entre 24 e 120 horas antes da chegada.`,
+        `Como chegar: sem aeroporto local; comboio via Oxenholme na West Coast Main Line e depois o ramal de Windermere. O aeroporto mais próximo é Manchester (MAN), a cerca de 90 minutos por estrada.`,
+        `Como circular: a aldeia de Windermere, Bowness e a margem ligam-se a pé; o autocarro 599 e os cruzeiros do lago que aceitam cães chegam a Ambleside, Brockhole e Lakeside.`,
+        `Tempo: um dos cantos mais chuvosos de Inglaterra; leve roupa impermeável e toalha para o cão todo o ano, com verões amenos (17-18 C) e invernos frios e húmidos (4-5 C).`,
+        `Números úteis: emergência geral 999 ou 112; veterinário 24h Oakhill Windermere +44 15394 88555; serviço Vets Now Kendal +44 1539 232221.`,
+      ],
+    },
+  },
   wroclaw: {
     history: {
       fr: `Wrocław, fondée vers l'an 1000 par la dynastie Piast et longtemps capitale de la Silésie, a traversé une histoire vertigineuse : tour à tour bohémienne, hongroise, autrichienne, prussienne, allemande sous le nom de Breslau, puis polonaise depuis 1945 après le déplacement frontalier d'après-guerre. Cette stratification se lit partout dans le tissu urbain : la place du marché médiévale (Rynek), l'une des plus vastes d'Europe, est encadrée d'hôtels particuliers gothiques, baroques et Art nouveau. La ville compte plus de 100 ponts qui enjambent l'Oder et ses affluents, d'où le surnom de « Venise polonaise ». Pour les propriétaires de chiens, Wrocław est une découverte : 12 km de berges piétonnes le long de l'Odra, le grand parc Szczytnicki (100 ha), un réseau dense de tramways acceptant les chiens gratuitement, et une culture café qui inclut l'animal sans hésiter. Les célèbres nains de bronze (krasnale) parsèment la vieille ville et sont devenus une chasse au trésor familiale, chiens compris.`,

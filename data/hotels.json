@@ -30221,6 +30221,210 @@
     "slug": "aquatio-cave-luxury-hotel-spa"
   },
   {
+    "id": "melbourne-1",
+    "name": "Grand Hyatt Melbourne",
+    "destinationSlug": "melbourne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 4147,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/grand-hyatt-melbourne.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking on site",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "grand-hyatt-melbourne-melbourne"
+  },
+  {
+    "id": "melbourne-2",
+    "name": "1 Hotel Melbourne",
+    "destinationSlug": "melbourne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 1178,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/1-melbourne.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "1-hotel-melbourne-melbourne",
+    "address": "9 Maritime Place, Docklands, 3008 Melbourne, Australia"
+  },
+  {
+    "id": "melbourne-3",
+    "name": "Zagame's House",
+    "destinationSlug": "melbourne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 1998,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/zagame-39-s-house.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "24-hour front desk"
+    ],
+    "slug": "zagame-s-house-melbourne",
+    "address": "66 Lygon Street, Carlton, 3053 Melbourne, Australia"
+  },
+  {
+    "id": "melbourne-4",
+    "name": "The Langham Melbourne",
+    "destinationSlug": "melbourne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 4032,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/the-langham-melbourne.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Parking on site",
+      "Free WiFi"
+    ],
+    "slug": "the-langham-melbourne-melbourne"
+  },
+  {
+    "id": "melbourne-5",
+    "name": "Lancemore Crossley St. Melbourne",
+    "destinationSlug": "melbourne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 2497,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/lancemore-crossley-st.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "lancemore-crossley-st-melbourne-melbourne",
+    "address": "51 Little Bourke Street, 3000 Melbourne, Australia"
+  },
+  {
+    "id": "melbourne-6",
+    "name": "Oakwood Premier Melbourne",
+    "destinationSlug": "melbourne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 5303,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/oakwood-premier-melbourne.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "oakwood-premier-melbourne-melbourne"
+  },
+  {
+    "id": "melbourne-7",
+    "name": "Hilton Melbourne Little Queen Street",
+    "destinationSlug": "melbourne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1266,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/hilton-melbourne-vic.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking",
+      "WiFi available in all areas",
+      "Family rooms"
+    ],
+    "slug": "hilton-melbourne-little-queen-street-melbourne"
+  },
+  {
+    "id": "melbourne-8",
+    "name": "The StandardX, Melbourne",
+    "destinationSlug": "melbourne",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1899,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/the-standard-melbourne.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "24-hour front desk"
+    ],
+    "slug": "the-standardx-melbourne-melbourne",
+    "address": "62 Rose Street, Fitzroy, 3065 Melbourne, Australia"
+  },
+  {
     "id": "menton-1",
     "name": "Hotel Napoleon",
     "destinationSlug": "menton",

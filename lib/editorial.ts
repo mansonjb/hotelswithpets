@@ -1196,6 +1196,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Central Park off-leash hours, Prospect Park Dog Beach, and the Hudson River Park dog runs',
       area: 'the West Village, the East Village, and Park Slope in Brooklyn',
     },
+    melbourne: {
+      personality: `the most dog-liveable of Australia's capitals, where large dogs legally ride the metropolitan trains with a muzzle and lead, Port Phillip Bay delivers calm dog beaches (Sandown Street in Brighton is fenced and off-leash all year), the Victorian-era inner parks carry designated off-leash areas, and a terrace-based food culture means dogs are welcome almost everywhere people actually eat`,
+      highlight: `Royal Park and Princes Park, the bushland trails of Yarra Bend Park, the Royal Botanic Gardens (leashed dogs admitted free), and the Brighton and St Kilda West dog beaches`,
+      area: `Fitzroy North and Abbotsford in the inner north, St Kilda and Port Melbourne on the bay, and Brighton down the Sandringham train line`,
+    },
     menton: {
       personality: `the easternmost town on the French Côte d'Azur ten minutes from the Italian border, with the warmest microclimate on mainland France, a Baroque old town climbing to the Basilique Saint-Michel-Archange, historic gardens (Jardin Serre de la Madone and Val Rahmeh) that admit leashed dogs, the Sentier Le Corbusier coastal path around Cap Martin, and a year-round IGP Citron de Menton culture culminating in the February Fête du Citron`,
       highlight: `the Vieille Ville and the Basilique Saint-Michel-Archange parvis, the Promenade du Soleil along the seafront, the Jardin Serre de la Madone and Val Rahmeh (both leashed-dog friendly), and the Sentier Le Corbusier coastal walk around Cap Martin`,
@@ -3114,6 +3119,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `les heures sans laisse de Central Park, la Dog Beach de Prospect Park et les enclos du Hudson River Park`,
       area: 'le West Village, l\'East Village et Park Slope à Brooklyn',
     },
+    melbourne: {
+      personality: `la plus vivable des capitales australiennes pour un chien, où les grands chiens prennent légalement les trains métropolitains avec muselière et laisse, où la baie de Port Phillip offre des plages canines aux eaux calmes (Sandown Street à Brighton est clôturée et sans laisse toute l'année), où les parcs victoriens du centre comportent des zones sans laisse désignées, et où la culture des terrasses fait que les chiens sont admis presque partout où l'on mange vraiment`,
+      highlight: `Royal Park et Princes Park, les sentiers de bush de Yarra Bend Park, le Jardin botanique royal (chiens en laisse admis gratuitement), et les plages pour chiens de Brighton et de St Kilda West`,
+      area: `Fitzroy North et Abbotsford dans le nord de la ville, St Kilda et Port Melbourne au bord de la baie, et Brighton sur la ligne de train de Sandringham`,
+    },
     menton: {
       personality: `la ville la plus orientale de la Côte d'Azur à dix minutes de la frontière italienne, avec le microclimat le plus chaud de France métropolitaine, une vieille ville baroque grimpant vers la Basilique Saint-Michel-Archange, des jardins historiques (Jardin Serre de la Madone et Val Rahmeh) qui admettent les chiens en laisse, le Sentier Le Corbusier autour du Cap Martin, et une culture du Citron de Menton IGP toute l'année culminant lors de la Fête du Citron en février`,
       highlight: `la Vieille Ville et le parvis de la Basilique Saint-Michel-Archange, la Promenade du Soleil le long du front de mer, le Jardin Serre de la Madone et Val Rahmeh (chiens en laisse acceptés), et le Sentier Le Corbusier autour du Cap Martin`,
@@ -5031,6 +5041,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `las horas sin correa de Central Park, la Dog Beach de Prospect Park y los dog runs del Hudson River Park`,
       area: 'el West Village, el East Village y Park Slope en Brooklyn',
     },
+    melbourne: {
+      personality: `la más vivible de las capitales australianas para un perro, donde los perros grandes viajan legalmente en los trenes metropolitanos con bozal y correa, la bahía de Port Phillip ofrece playas caninas de aguas tranquilas (Sandown Street, en Brighton, está vallada y es sin correa todo el año), los parques victorianos del centro incluyen zonas sin correa designadas, y la cultura de terraza hace que los perros sean bienvenidos casi en todos los sitios donde de verdad se come`,
+      highlight: `Royal Park y Princes Park, los senderos de bosque de Yarra Bend Park, el Jardín Botánico Real (admite perros con correa gratis), y las playas para perros de Brighton y St Kilda West`,
+      area: `Fitzroy North y Abbotsford en el norte interior, St Kilda y Port Melbourne junto a la bahía, y Brighton en la línea de tren de Sandringham`,
+    },
     menton: {
       personality: `la ciudad más oriental de la Côte d'Azur a diez minutos de la frontera italiana, con el microclima más cálido de la Francia continental, un casco antiguo barroco que trepa hacia la Basílica Saint-Michel-Archange, jardines históricos (Jardin Serre de la Madone y Val Rahmeh) que admiten perros con correa, el Sendero Le Corbusier alrededor del Cap Martin, y una cultura del Limón de Menton IGP durante todo el año que culmina en la Fiesta del Limón en febrero`,
       highlight: `el Casco Antiguo y el parvis de la Basílica Saint-Michel-Archange, la Promenade du Soleil a lo largo del frente marítimo, el Jardin Serre de la Madone y Val Rahmeh (admiten perros con correa), y el Sendero Le Corbusier alrededor del Cap Martin`,
@@ -6947,6 +6962,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a grande cidade mais pet-aware dos EUA, com mais de 70 dog runs, os horários sem trela urbanos mais generosos do país (5:00–9:00 e 21:00–1:00 em Central Park e Prospect Park), e uma rede de urgências veterinárias 24/7 liderada pelo Animal Medical Center`,
       highlight: `as horas sem trela de Central Park, a Dog Beach de Prospect Park e os dog runs do Hudson River Park`,
       area: 'o West Village, o East Village e Park Slope em Brooklyn',
+    },
+    melbourne: {
+      personality: `a mais habitável das capitais australianas para um cão, onde os cães grandes viajam legalmente nos comboios metropolitanos com focinheira e trela, a baía de Port Phillip oferece praias caninas de águas calmas (a Sandown Street, em Brighton, é vedada e sem trela todo o ano), os parques vitorianos do centro incluem zonas sem trela designadas, e a cultura de esplanada faz com que os cães sejam bem-vindos em quase todos os sítios onde realmente se come`,
+      highlight: `o Royal Park e o Princes Park, os trilhos de mata do Yarra Bend Park, o Jardim Botânico Real (aceita cães com trela gratuitamente), e as praias para cães de Brighton e de St Kilda West`,
+      area: `Fitzroy North e Abbotsford na zona norte interior, St Kilda e Port Melbourne junto à baía, e Brighton na linha de comboio de Sandringham`,
     },
     menton: {
       personality: `a cidade mais oriental da Côte d'Azur a dez minutos da fronteira italiana, com o microclima mais quente da França continental, um centro histórico barroco a subir para a Basílica Saint-Michel-Archange, jardins históricos (Jardin Serre de la Madone e Val Rahmeh) que admitem cães com trela, o Sentier Le Corbusier em torno do Cap Martin, e uma cultura do Limão de Menton IGP durante todo o ano que culmina na Festa do Limão em fevereiro`,

@@ -26920,6 +26920,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  melbourne: {
+    history: {
+      fr: `Capitale du Victoria et deuxième ville d'Australie avec environ 5,2 millions d'habitants, Melbourne est née d'un campement sur la Yarra en 1835, sur les terres des peuples Wurundjeri et Boonwurrung de la nation Kulin. La ruée vers l'or des années 1850 la transforma en quelques décennies en l'une des villes les plus riches du monde, d'où ses avenues monumentales, ses arcades victoriennes et sa ceinture de grands parcs publics. Le XXe siècle y a superposé une immigration grecque, italienne et vietnamienne qui a fait sa culture du café et de la ruelle. Pour un chien, c'est probablement la grande ville australienne la plus praticable : les trains métropolitains acceptent les chiens de toute taille avec muselière et laisse, la baie de Port Phillip aligne des plages canines aux eaux calmes, et les parcs du centre comportent des zones sans laisse balisées. Le revers : le Victoria impose la laisse par défaut partout ailleurs, et l'entrée en Australie passe obligatoirement par la quarantaine de Mickleham, au nord de la ville.`,
+      en: `Capital of Victoria and Australia's second city with around 5.2 million people, Melbourne grew from a camp on the Yarra in 1835, on the country of the Wurundjeri and Boonwurrung peoples of the Kulin nation. The gold rush of the 1850s turned it within decades into one of the richest cities on earth, which is why it has monumental boulevards, Victorian arcades and a ring of great public parks. The twentieth century layered on Greek, Italian and Vietnamese migration, which built its coffee and laneway culture. For a dog it is arguably the most workable big city in Australia: metropolitan trains accept dogs of any size with a muzzle and lead, Port Phillip Bay lines up calm-water dog beaches, and the inner parks carry signposted off-leash areas. The trade-off: Victoria requires a leash by default everywhere else, and entry to Australia runs compulsorily through the Mickleham quarantine facility north of the city.`,
+      es: `Capital de Victoria y segunda ciudad de Australia con unos 5,2 millones de habitantes, Melbourne nació de un campamento junto al Yarra en 1835, en el territorio de los pueblos Wurundjeri y Boonwurrung de la nación Kulin. La fiebre del oro de la década de 1850 la convirtió en pocas décadas en una de las ciudades más ricas del mundo, de ahí sus bulevares monumentales, sus galerías victorianas y su anillo de grandes parques públicos. El siglo XX superpuso una inmigración griega, italiana y vietnamita que construyó su cultura del café y de los callejones. Para un perro es probablemente la gran ciudad australiana más practicable: los trenes metropolitanos admiten perros de cualquier tamaño con bozal y correa, la bahía de Port Phillip alinea playas caninas de aguas tranquilas y los parques del centro tienen zonas sin correa señalizadas. La contrapartida: Victoria impone la correa por defecto en todo lo demás, y la entrada en Australia pasa obligatoriamente por la cuarentena de Mickleham, al norte de la ciudad.`,
+      pt: `Capital de Vitória e segunda cidade da Austrália com cerca de 5,2 milhões de habitantes, Melbourne nasceu de um acampamento junto ao Yarra em 1835, no território dos povos Wurundjeri e Boonwurrung da nação Kulin. A corrida ao ouro da década de 1850 transformou-a em poucas décadas numa das cidades mais ricas do mundo, daí as suas avenidas monumentais, as galerias vitorianas e o anel de grandes parques públicos. O século XX sobrepôs-lhe uma imigração grega, italiana e vietnamita que construiu a sua cultura do café e das ruelas. Para um cão é provavelmente a grande cidade australiana mais praticável: os comboios metropolitanos aceitam cães de qualquer porte com focinheira e trela, a baía de Port Phillip alinha praias caninas de águas calmas e os parques do centro têm zonas sem trela sinalizadas. A contrapartida: Vitória impõe a trela por defeito em todo o resto, e a entrada na Austrália passa obrigatoriamente pela quarentena de Mickleham, a norte da cidade.`,
+    },
+    sights: [
+      {
+        name: 'Royal Botanic Gardens Melbourne',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Trente-huit hectares de jardin paysager sur la rive sud de la Yarra, autour d'un lac d'ornement. Les chiens en laisse courte sont admis gratuitement pendant les heures d'ouverture, sans limite de taille, et Punting on the Lake accepte même les chiens bien élevés à bord des barques.`,
+          en: `Thirty eight hectares of landscaped garden on the south bank of the Yarra, arranged around an ornamental lake. Dogs on a short lead are admitted free during opening hours with no size limit, and Punting on the Lake will even take a well-behaved dog aboard.`,
+          es: `Treinta y ocho hectáreas de jardín paisajístico en la orilla sur del Yarra, en torno a un lago ornamental. Los perros con correa corta entran gratis en horario de apertura, sin límite de tamaño, y Punting on the Lake incluso admite a bordo perros bien educados.`,
+          pt: `Trinta e oito hectares de jardim paisagístico na margem sul do Yarra, à volta de um lago ornamental. Os cães com trela curta entram gratuitamente no horário de abertura, sem limite de porte, e o Punting on the Lake aceita mesmo cães bem comportados a bordo.`,
+        },
+      },
+      {
+        name: 'St Kilda Pier and Esplanade',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `La sortie balnéaire classique de Melbourne : une longue jetée dans la baie, une promenade bordée de palmiers et, le dimanche, le marché d'art et d'artisanat de l'Esplanade. Chiens admis en laisse sur la jetée et au marché ; la colonie de manchots pygmées du brise-lames est protégée, gardez le chien sur le tablier.`,
+          en: `Melbourne's classic seaside outing: a long pier into the bay, a palm-lined promenade and, on Sundays, the Esplanade art and craft market. Dogs welcome on a lead on the pier and through the market; the little penguin colony in the breakwater is protected, so keep the dog on the decking.`,
+          es: `La salida marítima clásica de Melbourne: un muelle largo hacia la bahía, un paseo bordeado de palmeras y, los domingos, el mercado de arte y artesanía de la Esplanade. Perros admitidos con correa en el muelle y en el mercado; la colonia de pingüinos pequeños del rompeolas está protegida, así que mantén al perro en la pasarela.`,
+          pt: `O passeio à beira-mar clássico de Melbourne: um molhe comprido para dentro da baía, uma marginal ladeada de palmeiras e, aos domingos, o mercado de arte e artesanato da Esplanade. Cães aceites com trela no molhe e no mercado; a colónia de pinguins-azuis do quebra-mar está protegida, por isso mantenha o cão no tabuleiro.`,
+        },
+      },
+      {
+        name: 'Yarra Bend Park and Dights Falls',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `260 hectares de bush naturel à 4 km du centre, avec des zones sans laisse balisées et un sentier de rive facile menant aux chutes de Dights, où un enrochement donne accès à l'eau. Restez sur les sentiers de septembre à avril : des serpents tigres vivent le long du corridor fluvial.`,
+          en: `260 hectares of natural bushland 4 km from the CBD, with signposted off-leash areas and an easy riverside trail to Dights Falls, where a rock embankment gives access to the water. Stay on the tracks from September to April: tiger snakes live along the river corridor.`,
+          es: `260 hectáreas de bosque autóctono a 4 km del centro, con zonas sin correa señalizadas y un sendero ribereño fácil hasta Dights Falls, donde un escollerado da acceso al agua. No te salgas de los senderos de septiembre a abril: hay serpientes tigre en el corredor fluvial.`,
+          pt: `260 hectares de mata nativa a 4 km do centro, com zonas sem trela sinalizadas e um trilho ribeirinho fácil até Dights Falls, onde um enrocamento dá acesso à água. Mantenha-se nos trilhos de setembro a abril: há cobras-tigre no corredor fluvial.`,
+        },
+      },
+      {
+        name: 'Brighton Dog Beach (Sandown Street)',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La seule plage de Melbourne entièrement clôturée avec portillon à fermeture automatique, où les chiens courent sans laisse 24h/24 toute l'année, sans restriction saisonnière. L'eau de la baie est peu profonde et sans vagues ; le stationnement gratuit est très limité, prévoyez l'horodateur près des Middle Brighton Baths.`,
+          en: `The one Melbourne beach that is fully fenced with a self-closing gate, where dogs run off-leash 24 hours a day all year with no seasonal restriction. The bay water is shallow and wave-free; free parking is very limited, so plan for the ticketed area near Middle Brighton Baths.`,
+          es: `La única playa de Melbourne totalmente vallada y con puerta de cierre automático, donde los perros corren sin correa las 24 horas todo el año, sin restricción estacional. El agua de la bahía es somera y sin olas; el aparcamiento gratuito es muy escaso, cuenta con la zona de pago junto a Middle Brighton Baths.`,
+          pt: `A única praia de Melbourne totalmente vedada e com portão de fecho automático, onde os cães correm sem trela 24 horas por dia todo o ano, sem restrição sazonal. A água da baía é rasa e sem ondas; o estacionamento gratuito é muito escasso, conte com a zona paga junto aos Middle Brighton Baths.`,
+        },
+      },
+      {
+        name: 'Hosier Lane and the CBD laneways',
+        emoji: '🎨',
+        petFriendly: true,
+        desc: {
+          fr: `Le street art de Melbourne se visite dehors, gratuitement, et un chien en laisse y est parfaitement à sa place : Hosier Lane, AC/DC Lane et Degraves Street forment une boucle d'une heure depuis Flinders Street. Les cafés de ces ruelles servent en terrasse, donc la pause est possible avec le chien.`,
+          en: `Melbourne's street art is an outdoor, free experience and a leashed dog fits right in: Hosier Lane, AC/DC Lane and Degraves Street make an hour-long loop from Flinders Street. The laneway cafes serve outside, so the coffee stop works with the dog too.`,
+          es: `El arte urbano de Melbourne se ve fuera y gratis, y un perro con correa encaja perfectamente: Hosier Lane, AC/DC Lane y Degraves Street forman un bucle de una hora desde Flinders Street. Los cafés de estos callejones sirven en terraza, así que la parada también funciona con perro.`,
+          pt: `A arte urbana de Melbourne vê-se na rua e de graça, e um cão com trela encaixa na perfeição: Hosier Lane, AC/DC Lane e Degraves Street formam um circuito de uma hora a partir de Flinders Street. Os cafés destas ruelas servem na esplanada, por isso a pausa também funciona com o cão.`,
+        },
+      },
+      {
+        name: 'Melbourne Zoo',
+        emoji: '🦁',
+        petFriendly: false,
+        desc: {
+          fr: `Le zoo occupe une enclave au cœur de Royal Park et n'admet aucun animal de compagnie, animaux d'assistance accrédités exceptés. Le parc qui l'entoure reste en revanche ouvert et comporte trois zones sans laisse : laissez le chien avec un gardien ou séparez le groupe pour la visite.`,
+          en: `The zoo occupies an enclave in the middle of Royal Park and admits no pets, accredited assistance animals excepted. The surrounding park stays open and carries three off-leash areas, so leave the dog with a sitter or split the group for the visit.`,
+          es: `El zoo ocupa un enclave en pleno Royal Park y no admite mascotas, salvo animales de asistencia acreditados. El parque circundante sí sigue abierto y tiene tres zonas sin correa: deja al perro con un cuidador o divide al grupo para la visita.`,
+          pt: `O jardim zoológico ocupa um enclave no meio do Royal Park e não admite animais de estimação, exceto animais de assistência acreditados. O parque envolvente mantém-se aberto e tem três zonas sem trela: deixe o cão com um cuidador ou divida o grupo para a visita.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Transport : les trains métropolitains acceptent les chiens de toute taille gratuitement, un grand chien devant porter muselière ET laisse ; trams et bus n'admettent que les petits animaux en caisse de transport. Avec un grand chien, construisez la journée autour du train et de la marche.`,
+        `Plages : du 1er avril au 31 octobre les plages de la commune de Port Phillip sont ouvertes aux chiens ; du 1er novembre au 31 mars l'accès se limite à des portions désignées ou au créneau 19h30-10h. Sandown Street (Brighton) et St Kilda West restent ouvertes toute l'année.`,
+        `Laisse : le Victoria impose la laisse par défaut dans tout espace public. Le sans-laisse ne vaut qu'à l'intérieur d'une zone balisée, et vous devez avoir une laisse sur vous même quand le chien court librement.`,
+        `Chaleur : Melbourne peut dépasser 35 °C en janvier-février et perdre 15 degrés en une heure au passage d'un vent du sud. Testez l'asphalte avec la main, promenez avant 9h ou après 18h, et ne laissez jamais un chien dans une voiture.`,
+        `Serpents : la saison court d'environ septembre à avril dans le bush urbain (Yarra Bend, Westerfolds, corridors de ruisseaux). Restez sur les sentiers aménagés et repérez l'hôpital vétérinaire 24h/24 le plus proche avant de partir : la morsure est une urgence vitale.`,
+      ],
+      en: [
+        `Transport: metropolitan trains take dogs of any size free of charge, a large dog needing both a muzzle AND a lead; trams and buses accept only small animals in a carrier. With a big dog, build the day around trains and walking.`,
+        `Beaches: from 1 April to 31 October City of Port Phillip beaches are open to dogs; from 1 November to 31 March access narrows to designated stretches or the 7.30pm to 10am window. Sandown Street (Brighton) and St Kilda West stay open all year.`,
+        `Leash: Victoria requires a lead by default in every public place. Off-leash applies only inside a marked area, and you must carry a lead even while the dog runs free.`,
+        `Heat: Melbourne can pass 35 C in January and February and drop 15 degrees in an hour on a southerly change. Test the asphalt with your hand, walk before 9am or after 6pm, and never leave a dog in a car.`,
+        `Snakes: the season runs roughly September to April in urban bushland (Yarra Bend, Westerfolds, creek corridors). Stay on formed tracks and know your nearest 24-hour veterinary hospital before you set out, because a bite is a life-threatening emergency.`,
+      ],
+      es: [
+        `Transporte: los trenes metropolitanos admiten perros de cualquier tamaño gratis, y el perro grande debe llevar bozal Y correa; tranvías y autobuses solo aceptan animales pequeños en transportín. Con un perro grande, organiza el día en torno al tren y al paseo.`,
+        `Playas: del 1 de abril al 31 de octubre las playas del municipio de Port Phillip están abiertas a los perros; del 1 de noviembre al 31 de marzo el acceso se reduce a tramos designados o a la franja de 19.30 a 10.00. Sandown Street (Brighton) y St Kilda West siguen abiertas todo el año.`,
+        `Correa: Victoria exige correa por defecto en todo espacio público. Lo de sin correa solo vale dentro de un área señalizada, y debes llevar correa encima aunque el perro corra suelto.`,
+        `Calor: Melbourne puede pasar de 35 °C en enero y febrero y bajar 15 grados en una hora con un cambio de viento del sur. Prueba el asfalto con la mano, pasea antes de las 9.00 o después de las 18.00 y nunca dejes al perro en el coche.`,
+        `Serpientes: la temporada va aproximadamente de septiembre a abril en el bosque urbano (Yarra Bend, Westerfolds, corredores de arroyos). Quédate en los senderos marcados y localiza el hospital veterinario 24 horas más cercano antes de salir, porque la mordedura es una urgencia vital.`,
+      ],
+      pt: [
+        `Transporte: os comboios metropolitanos aceitam cães de qualquer porte gratuitamente, tendo o cão grande de usar focinheira E trela; elétricos e autocarros só aceitam animais pequenos em transportadora. Com um cão grande, construa o dia à volta do comboio e da caminhada.`,
+        `Praias: de 1 de abril a 31 de outubro as praias do município de Port Phillip estão abertas a cães; de 1 de novembro a 31 de março o acesso reduz-se a troços designados ou à janela das 19h30 às 10h. Sandown Street (Brighton) e St Kilda West mantêm-se abertas todo o ano.`,
+        `Trela: Vitória exige trela por defeito em qualquer espaço público. O sem trela só vale dentro de uma área sinalizada, e tem de levar trela consigo mesmo com o cão à solta.`,
+        `Calor: Melbourne pode passar os 35 °C em janeiro e fevereiro e cair 15 graus numa hora com uma mudança de vento de sul. Teste o asfalto com a mão, passeie antes das 9h ou depois das 18h, e nunca deixe o cão no carro.`,
+        `Cobras: a época vai sensivelmente de setembro a abril na mata urbana (Yarra Bend, Westerfolds, corredores de ribeiras). Mantenha-se nos trilhos marcados e localize o hospital veterinário 24 horas mais próximo antes de sair, porque a mordedura é uma urgência vital.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Y aller : aéroport de Melbourne (MEL, Tullamarine), à 23 km au nord-ouest du centre. C'est le SEUL point d'entrée d'Australie pour les chiens et les chats, tous transitant par le centre de quarantaine de Mickleham (135 Donnybrook Road), à environ 30 km de l'aéroport.`,
+        `Formalités : l'importation exige une puce ISO, la vaccination antirabique, un titrage des anticorps avec contrôle d'identité strict, une période d'attente, un permis d'importation, puis un minimum de 10 jours à Mickleham. Comptez près d'un an de démarches et vérifiez les étapes en vigueur auprès du Department of Agriculture, Fisheries and Forestry.`,
+        `Transports locaux : trains métropolitains gratuits pour les animaux de toute taille (muselière + laisse pour les grands chiens) ; trams et bus réservés aux petits animaux en caisse ; V/Line régional en caisse uniquement, et animaux interdits dans les autocars V/Line. Taxis et VTC à la discrétion du chauffeur.`,
+        `Garde : crèches canines en ville (Dogs HQ, 86-88 Hoddle Street à Abbotsford ; Diggiddy Doggy Daycare, 41 Brady Street à South Melbourne) et gardiens à domicile via Mad Paws. Vaccins à jour (dont toux de chenil) et journée d'essai généralement exigés.`,
+        `Urgences vétérinaires : Advanced Vetcare, 26 Robertson Street, Kensington, +61 3 9092 0400, ouvert 24h/24 ; Greencross Vet Hospital, Gate 2, 250 Princes Highway, Werribee, +61 3 8721 1414, ouvert 24h/24 ; Advanced Vetcare Kew, 2-6 Chandler Highway, +61 3 9020 3555, urgences 16h-minuit en semaine et 7h-minuit les week-ends et jours fériés. Le 000 est réservé aux humains.`,
+      ],
+      en: [
+        `Getting there: Melbourne Airport (MEL, Tullamarine), 23 km north-west of the CBD. It is the ONLY entry point into Australia for dogs and cats, all of which pass through the Mickleham quarantine facility (135 Donnybrook Road), about 30 km from the airport.`,
+        `Paperwork: import requires an ISO microchip, rabies vaccination, an antibody titre test with a strict identity check, a waiting period, an import permit, then a minimum of 10 days at Mickleham. Allow close to a year and confirm the current steps with the Department of Agriculture, Fisheries and Forestry.`,
+        `Local transport: metropolitan trains free for pets of any size (muzzle plus lead for large dogs); trams and buses for small animals in a carrier only; V/Line regional trains carrier-only, and no animals on V/Line coaches. Taxis and rideshare at the driver's discretion.`,
+        `Sitting: city daycares (Dogs HQ, 86-88 Hoddle Street in Abbotsford; Diggiddy Doggy Daycare, 41 Brady Street in South Melbourne) and in-home sitters via Mad Paws. Current vaccinations including kennel cough, plus a trial day, are generally required.`,
+        `Vet emergencies: Advanced Vetcare, 26 Robertson Street, Kensington, +61 3 9092 0400, open 24/7; Greencross Vet Hospital, Gate 2, 250 Princes Highway, Werribee, +61 3 8721 1414, open 24/7; Advanced Vetcare Kew, 2-6 Chandler Highway, +61 3 9020 3555, emergency consults 4pm to midnight weekdays and 7am to midnight weekends and public holidays. 000 is for humans only.`,
+      ],
+      es: [
+        `Cómo llegar: aeropuerto de Melbourne (MEL, Tullamarine), a 23 km al noroeste del centro. Es el ÚNICO punto de entrada a Australia para perros y gatos, que pasan todos por el centro de cuarentena de Mickleham (135 Donnybrook Road), a unos 30 km del aeropuerto.`,
+        `Trámites: la importación exige microchip ISO, vacuna antirrábica, prueba de anticuerpos con control de identidad estricto, periodo de espera, permiso de importación y luego un mínimo de 10 días en Mickleham. Cuenta con casi un año y confirma los pasos vigentes con el Department of Agriculture, Fisheries and Forestry.`,
+        `Transporte local: trenes metropolitanos gratis para mascotas de cualquier tamaño (bozal y correa para perros grandes); tranvías y autobuses solo para animales pequeños en transportín; trenes regionales V/Line solo en transportín, y animales prohibidos en los autocares V/Line. Taxis y VTC a criterio del conductor.`,
+        `Cuidado: guarderías urbanas (Dogs HQ, 86-88 Hoddle Street en Abbotsford; Diggiddy Doggy Daycare, 41 Brady Street en South Melbourne) y cuidadores a domicilio vía Mad Paws. Suelen exigir vacunas al día, incluida la tos de las perreras, y un día de prueba.`,
+        `Urgencias veterinarias: Advanced Vetcare, 26 Robertson Street, Kensington, +61 3 9092 0400, abierto 24/7; Greencross Vet Hospital, Gate 2, 250 Princes Highway, Werribee, +61 3 8721 1414, abierto 24/7; Advanced Vetcare Kew, 2-6 Chandler Highway, +61 3 9020 3555, urgencias de 16.00 a medianoche entre semana y de 7.00 a medianoche fines de semana y festivos. El 000 es solo para personas.`,
+      ],
+      pt: [
+        `Como chegar: aeroporto de Melbourne (MEL, Tullamarine), a 23 km a noroeste do centro. É o ÚNICO ponto de entrada na Austrália para cães e gatos, que passam todos pelo centro de quarentena de Mickleham (135 Donnybrook Road), a cerca de 30 km do aeroporto.`,
+        `Documentos: a importação exige microchip ISO, vacina antirrábica, teste de anticorpos com verificação de identidade rigorosa, período de espera, licença de importação e depois um mínimo de 10 dias em Mickleham. Conte com quase um ano e confirme os passos em vigor junto do Department of Agriculture, Fisheries and Forestry.`,
+        `Transporte local: comboios metropolitanos gratuitos para animais de qualquer porte (focinheira e trela para cães grandes); elétricos e autocarros só para animais pequenos em transportadora; comboios regionais V/Line só em transportadora, e animais proibidos nos autocarros V/Line. Táxis e TVDE ao critério do motorista.`,
+        `Guarda: creches na cidade (Dogs HQ, 86-88 Hoddle Street em Abbotsford; Diggiddy Doggy Daycare, 41 Brady Street em South Melbourne) e cuidadores ao domicílio via Mad Paws. Costumam exigir vacinas em dia, incluindo a tosse do canil, e um dia de ensaio.`,
+        `Urgências veterinárias: Advanced Vetcare, 26 Robertson Street, Kensington, +61 3 9092 0400, aberto 24/7; Greencross Vet Hospital, Gate 2, 250 Princes Highway, Werribee, +61 3 8721 1414, aberto 24/7; Advanced Vetcare Kew, 2-6 Chandler Highway, +61 3 9020 3555, urgências das 16h à meia-noite nos dias úteis e das 7h à meia-noite aos fins de semana e feriados. O 000 é apenas para pessoas.`,
+      ],
+    },
+  },
+
   menton: {
     history: {
       fr: `Dernière ville française avant l'Italie, Menton fut pendant des siècles une possession des Grimaldi de Monaco avant de choisir la France en 1861. Son microclimat, le plus doux de l'Hexagone, en fit la station d'hiver favorite des aristocrates anglais et russes de la Belle Époque, qui y plantèrent des jardins d'acclimatation devenus légendaires : Serre de la Madone, Val Rahmeh, la Citronneraie. Le citron y est roi, célébré chaque février par la Fête du Citron et ses chars d'agrumes. La vieille ville, cascade de façades ocre et de ruelles en escaliers coiffée par la basilique Saint-Michel-Archange, plonge vers la promenade du Soleil et les plages. Entre front de mer, sentiers du cap Martin et villages perchés de l'arrière-pays, Menton se prête merveilleusement au voyage avec un chien, dans une douceur de vivre presque italienne.`,

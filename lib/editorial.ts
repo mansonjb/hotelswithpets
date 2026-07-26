@@ -36,6 +36,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the year-round dog beaches at the Noorderstrand and the Kijkduin end of the Zuiderstrand, the Westduinpark dunes, and the Pier reaching out over the sea`,
       area: `the Strandweg boulevard, the working fishing harbour, and the Westduinpark dunes towards Kijkduin`,
     },
+    zandvoort: {
+      personality: `Amsterdam's North Sea beach town, an easygoing seaside resort a short direct train from the city where a wide sandy strand, a long boulevard and rolling dune reserves meet seasonal, zoned dog-beach rules`,
+      highlight: `the winter off-lead beach (1 October to 15 April), the year-round Parnassia dog beach just north at Bloemendaal aan Zee, and the Noordduinen dog dunes`,
+      area: `the seafront boulevard, the Noordduinen and Kennemerland dunes, and the old village around the Grote Krocht`,
+    },
     gijon: {
       personality: `a relaxed Cantabrian-coast cider city where dogs trot beside their owners along the seafront and doze under the tables of bustling sidrerías.`,
       highlight: `El Rinconín, Gijón's year-round dog beach, complete with its own fenced off-leash dog park right beside the sand.`,
@@ -1974,6 +1979,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `les plages canines ouvertes toute l'année au Noorderstrand et à l'extrémité de Kijkduin du Zuiderstrand, les dunes du Westduinpark et la jetée qui s'avance sur la mer`,
       area: `le boulevard Strandweg, le port de pêche en activité et les dunes du Westduinpark vers Kijkduin`,
     },
+    zandvoort: {
+      personality: `la ville balnéaire d'Amsterdam sur la mer du Nord, une station de bord de mer décontractée à un court trajet de train direct de la ville, où un large strand de sable, un long boulevard et des réserves de dunes vallonnées côtoient des règles de plage canine saisonnières et zonées`,
+      highlight: `la plage sans laisse en hiver (1er octobre au 15 avril), la plage canine de Parnassia ouverte toute l'année juste au nord à Bloemendaal aan Zee, et les dunes canines de Noordduinen`,
+      area: `le boulevard du front de mer, les dunes de Noordduinen et de Kennemerland, et le vieux village autour du Grote Krocht`,
+    },
     gijon: {
       personality: `une ville cidricole décontractée de la côte cantabrique où les chiens trottent aux côtés de leurs maîtres le long du front de mer et somnolent sous les tables des sidrerías animées.`,
       highlight: `El Rinconín, la plage canine de Gijón ouverte toute l'année, avec son propre parc clôturé pour chiens en liberté juste à côté du sable.`,
@@ -3911,6 +3921,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `las playas caninas de todo el año en el Noorderstrand y en el extremo de Kijkduin del Zuiderstrand, las dunas del Westduinpark y el muelle que se adentra en el mar`,
       area: `el bulevar Strandweg, el puerto pesquero en activo y las dunas del Westduinpark hacia Kijkduin`,
     },
+    zandvoort: {
+      personality: `la ciudad playera de Ámsterdam en el mar del Norte, un relajado destino costero a un corto tren directo de la ciudad, donde un amplio strand de arena, un largo bulevar y onduladas reservas de dunas conviven con normas de playa canina estacionales y por zonas`,
+      highlight: `la playa sin correa en invierno (1 de octubre al 15 de abril), la playa canina de Parnassia abierta todo el año justo al norte en Bloemendaal aan Zee, y las dunas caninas de Noordduinen`,
+      area: `el bulevar del paseo marítimo, las dunas de Noordduinen y de Kennemerland, y el casco antiguo en torno a la Grote Krocht`,
+    },
     gijon: {
       personality: `una relajada ciudad sidrera de la costa cantábrica donde los perros caminan junto a sus dueños por el paseo marítimo y dormitan bajo las mesas de las animadas sidrerías.`,
       highlight: `El Rinconín, la playa canina de Gijón abierta todo el año, con su propio parque vallado para perros sueltos justo al lado de la arena.`,
@@ -5847,6 +5862,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a estância balnear de Haia no mar do Norte, um animado bairro marítimo urbano onde um longo passeio, um cais emblemático e dunas protegidas convivem com praias caninas abertas todo o ano em ambas as pontas da costa`,
       highlight: `as praias caninas de todo o ano no Noorderstrand e na ponta de Kijkduin do Zuiderstrand, as dunas do Westduinpark e o cais que avança sobre o mar`,
       area: `o passeio Strandweg, o porto de pesca em atividade e as dunas do Westduinpark em direção a Kijkduin`,
+    },
+    zandvoort: {
+      personality: `a vila de praia de Amesterdão no mar do Norte, uma estância costeira descontraída a um curto comboio direto da cidade, onde um largo strand de areia, um longo passeio e reservas de dunas onduladas convivem com regras de praia canina sazonais e por zonas`,
+      highlight: `a praia sem trela no inverno (1 de outubro a 15 de abril), a praia canina de Parnassia aberta todo o ano mesmo a norte em Bloemendaal aan Zee, e as dunas caninas de Noordduinen`,
+      area: `o passeio da marginal, as dunas de Noordduinen e de Kennemerland, e a antiga vila em torno do Grote Krocht`,
     },
     gijon: {
       personality: `uma descontraída cidade da sidra da costa cantábrica onde os cães caminham ao lado dos donos pela frente de mar e dormitam debaixo das mesas das animadas sidrerías.`,

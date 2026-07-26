@@ -1,0 +1,943 @@
+{
+  "slug": "whitby",
+  "name": "Whitby",
+  "country": "United Kingdom",
+  "flag": "🇬🇧",
+  "lastUpdated": "2026-07-26",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants and Pubs in Whitby",
+      "titleFr": "Restaurants et pubs acceptant les animaux à Whitby",
+      "titleEs": "Restaurantes y pubs que admiten mascotas en Whitby",
+      "titlePt": "Restaurantes e pubs que aceitam animais em Whitby",
+      "introEn": "Whitby is one of the easiest places in England to eat out with a dog. The narrow old-town lanes around Church Street and the harbour are lined with traditional pubs where a well-behaved dog is simply part of the furniture, and many places keep a water bowl and a jar of treats by the bar. After a walk up the 199 Steps or a windy morning on the beach, you will rarely struggle to find a warm corner that welcomes your dog. The three places below are all reliably dog-friendly, but as always in Britain it is worth a quick word with staff when you arrive, especially if you want to sit in a dining area rather than the bar.",
+      "introFr": "Whitby est l'un des endroits les plus faciles d'Angleterre pour manger avec un chien. Les ruelles étroites de la vieille ville autour de Church Street et du port sont bordées de pubs traditionnels où un chien bien élevé fait simplement partie du décor, et beaucoup d'établissements gardent une gamelle d'eau et un pot de friandises près du bar. Après avoir grimpé les 199 marches ou passé une matinée venteuse sur la plage, vous trouverez presque toujours un coin chaleureux qui accueille votre chien. Les trois adresses ci-dessous sont toutes fiables côté chiens, mais comme partout en Grande-Bretagne, mieux vaut échanger un mot avec le personnel à l'arrivée, surtout si vous souhaitez vous installer en salle plutôt qu'au bar.",
+      "introEs": "Whitby es uno de los lugares más fáciles de Inglaterra para comer fuera con un perro. Las estrechas callejuelas del casco antiguo alrededor de Church Street y el puerto están llenas de pubs tradicionales donde un perro bien educado es simplemente parte del ambiente, y muchos sitios tienen un cuenco de agua y un bote de premios junto a la barra. Tras subir los 199 escalones o pasar una mañana ventosa en la playa, rara vez te costará encontrar un rincón cálido que dé la bienvenida a tu perro. Los tres lugares de abajo son fiablemente pet-friendly, pero como siempre en Gran Bretaña conviene hablar un momento con el personal al llegar, sobre todo si quieres sentarte en el comedor y no en la barra.",
+      "introPt": "Whitby é um dos sítios mais fáceis de Inglaterra para comer fora com um cão. As ruelas estreitas da cidade velha à volta de Church Street e do porto estão repletas de pubs tradicionais onde um cão bem-comportado faz simplesmente parte do ambiente, e muitos locais têm uma taça de água e um frasco de guloseimas junto ao balcão. Depois de subir os 199 Degraus ou de passar uma manhã ventosa na praia, raramente terá dificuldade em encontrar um canto acolhedor que receba o seu cão. Os três locais abaixo são fiavelmente dog-friendly, mas, como sempre na Grã-Bretanha, vale a pena trocar uma palavra com o pessoal à chegada, sobretudo se quiser sentar-se na zona de refeições e não no bar.",
+      "places": [
+        {
+          "name": "The Black Horse Inn",
+          "address": "91 Church Street, Whitby YO22 4BH",
+          "neighborhood": "Old Town / Church Street",
+          "photo": "/images/city-places/whitby-restaurants-black-horse-inn.jpg",
+          "website": "https://www.the-black-horse.com/",
+          "description": "A tiny, historic ale house on Church Street in the shadow of the abbey headland, dating back centuries and known as The White Horse until 1828. Well-behaved dogs are genuinely welcome in both little bar rooms and are usually offered a bowl of water. It is famous for its Yorkshire tapas, real ales and a cosy, cluttered interior that feels like stepping back in time.",
+          "descriptionFr": "Une minuscule et historique taverne de Church Street, au pied de la falaise de l'abbaye, vieille de plusieurs siècles et connue sous le nom de White Horse jusqu'en 1828. Les chiens bien élevés y sont vraiment les bienvenus dans les deux petites salles de bar et se voient généralement offrir une gamelle d'eau. Elle est réputée pour ses Yorkshire tapas, ses vraies bières et son intérieur douillet et chargé qui donne l'impression de remonter le temps.",
+          "descriptionEs": "Una diminuta e histórica taberna en Church Street, a los pies del promontorio de la abadía, con siglos de antigüedad y conocida como The White Horse hasta 1828. Los perros bien educados son realmente bienvenidos en las dos salitas del bar y suelen recibir un cuenco de agua. Es famosa por sus Yorkshire tapas, sus cervezas artesanas y un interior acogedor y abigarrado que parece detener el tiempo.",
+          "descriptionPt": "Uma minúscula e histórica taberna na Church Street, à sombra do promontório da abadia, com séculos de história e conhecida como The White Horse até 1828. Os cães bem-comportados são genuinamente bem-vindos nas duas pequenas salas do bar e costumam receber uma taça de água. É famosa pelas suas Yorkshire tapas, cervejas artesanais e um interior acolhedor e recheado que parece recuar no tempo.",
+          "petPolicy": "Dogs welcome in both bar rooms",
+          "petPolicyFr": "Chiens acceptés dans les deux salles de bar",
+          "petPolicyEs": "Perros admitidos en ambas salas del bar",
+          "petPolicyPt": "Cães bem-vindos nas duas salas do bar",
+          "priceRange": "££",
+          "mustTry": "Yorkshire tapas, local cask ales",
+          "mustTryFr": "Yorkshire tapas, bières pression locales",
+          "mustTryEs": "Yorkshire tapas, cervezas locales de barril",
+          "mustTryPt": "Yorkshire tapas, cervejas locais de pressão",
+          "openingHours": "Check current hours; open daily, afternoons and evenings",
+          "tip": "It is genuinely small, so on a busy weekend arrive early to get one of the fireside tables with your dog.",
+          "tipFr": "L'endroit est vraiment petit : un week-end chargé, arrivez tôt pour décrocher une table près de la cheminée avec votre chien.",
+          "tipEs": "Es realmente pequeño, así que un fin de semana concurrido llega pronto para conseguir una mesa junto a la chimenea con tu perro.",
+          "tipPt": "É genuinamente pequeno, por isso num fim de semana movimentado chegue cedo para conseguir uma das mesas junto à lareira com o seu cão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Black+Horse+Inn+Church+Street+Whitby"
+        },
+        {
+          "name": "The Dolphin Hotel",
+          "address": "Bridge Street, Whitby YO22 4BG",
+          "neighborhood": "Harbourside, by the swing bridge",
+          "photo": "/images/city-places/whitby-restaurants-dolphin-hotel.jpg",
+          "website": "https://www.dolphinhotelwhitby.co.uk/",
+          "description": "A traditional harbourside pub and hotel right by the swing bridge, with a cosy bar and picturesque views over the River Esk and the fishing boats. Dogs are welcome in the bar area, making it an easy spot to warm up after a walk along the quay. Expect proper pub food, local seafood and a friendly, unfussy Whitby welcome.",
+          "descriptionFr": "Un pub-hôtel traditionnel au bord du port, juste à côté du pont tournant, avec un bar cosy et une vue pittoresque sur la rivière Esk et les bateaux de pêche. Les chiens sont acceptés dans la partie bar, ce qui en fait un endroit facile pour se réchauffer après une promenade le long du quai. Vous y trouverez une vraie cuisine de pub, des fruits de mer locaux et un accueil chaleureux et sans chichis.",
+          "descriptionEs": "Un pub-hotel tradicional junto al puerto, al lado mismo del puente giratorio, con un bar acogedor y vistas pintorescas al río Esk y a los barcos de pesca. Los perros son bienvenidos en la zona de bar, lo que lo convierte en un sitio fácil para entrar en calor tras un paseo por el muelle. Espera auténtica comida de pub, marisco local y una acogida amable y sin pretensiones.",
+          "descriptionPt": "Um pub-hotel tradicional à beira do porto, mesmo junto à ponte giratória, com um bar acolhedor e vistas pitorescas sobre o rio Esk e os barcos de pesca. Os cães são bem-vindos na zona do bar, o que faz dele um sítio fácil para aquecer depois de um passeio pelo cais. Espere comida de pub genuína, marisco local e um acolhimento simpático e sem formalidades.",
+          "petPolicy": "Dogs welcome in the bar area",
+          "petPolicyFr": "Chiens acceptés dans la partie bar",
+          "petPolicyEs": "Perros admitidos en la zona de bar",
+          "petPolicyPt": "Cães bem-vindos na zona do bar",
+          "priceRange": "££",
+          "mustTry": "Whitby scampi, fish and chips, local ale",
+          "mustTryFr": "Scampi de Whitby, fish and chips, bière locale",
+          "mustTryEs": "Scampi de Whitby, fish and chips, cerveza local",
+          "mustTryPt": "Scampi de Whitby, fish and chips, cerveja local",
+          "openingHours": "Open daily; food served lunch and evening",
+          "tip": "Grab a window seat in the bar to watch the swing bridge open for boats, a small ritual that entertains dogs and owners alike.",
+          "tipFr": "Installez-vous près d'une fenêtre du bar pour voir le pont tournant s'ouvrir aux bateaux, un petit rituel qui amuse chiens et maîtres.",
+          "tipEs": "Coge un sitio junto a la ventana del bar para ver cómo se abre el puente giratorio para los barcos, un pequeño ritual que entretiene a perros y dueños.",
+          "tipPt": "Escolha um lugar à janela do bar para ver a ponte giratória abrir para os barcos, um pequeno ritual que diverte cães e donos.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dolphin+Hotel+Bridge+Street+Whitby"
+        },
+        {
+          "name": "Humble Pie 'n' Mash",
+          "address": "163 Church Street, Whitby YO22 4AS",
+          "neighborhood": "Old Town / Church Street",
+          "photo": "/images/city-places/whitby-restaurants-humble-pie-n-mash.jpg",
+          "website": "https://www.humble-pie.co.uk/",
+          "description": "A characterful little pie shop and restaurant set in a low-beamed 16th-century cottage on Church Street, serving generous handmade pies with mash and mushy peas. It offers a homely welcome to dogs, so you can settle in out of the wind with your dog at your feet. The tight, timber-framed rooms are cosy and quintessentially Whitby.",
+          "descriptionFr": "Une petite tourterie et restaurant pleine de caractère, installée dans un cottage du XVIe siècle aux poutres basses sur Church Street, servant de généreuses tourtes maison avec purée et petits pois écrasés. On y accueille les chiens avec chaleur, vous pouvez donc vous installer à l'abri du vent avec votre chien à vos pieds. Les petites salles à colombages sont douillettes et typiquement Whitby.",
+          "descriptionEs": "Una pequeña tienda-restaurante de pasteles salados llena de carácter, en una casita del siglo XVI de vigas bajas en Church Street, que sirve generosos pasteles caseros con puré y guisantes chafados. Ofrece una acogida hogareña a los perros, así que puedes instalarte a resguardo del viento con tu perro a los pies. Las salitas con entramado de madera son acogedoras y de esencia puramente Whitby.",
+          "descriptionPt": "Uma pequena loja-restaurante de empadas cheia de carácter, instalada numa casinha do século XVI de traves baixas na Church Street, que serve empadas caseiras generosas com puré e ervilhas esmagadas. Oferece um acolhimento familiar aos cães, por isso pode instalar-se ao abrigo do vento com o seu cão aos pés. As salinhas de tabique de madeira são acolhedoras e tipicamente Whitby.",
+          "petPolicy": "Dogs welcome inside",
+          "petPolicyFr": "Chiens acceptés en salle",
+          "petPolicyEs": "Perros admitidos en el interior",
+          "petPolicyPt": "Cães bem-vindos no interior",
+          "priceRange": "££",
+          "mustTry": "Steak and ale pie, mash and mushy peas",
+          "mustTryFr": "Tourte bœuf-bière, purée et petits pois écrasés",
+          "mustTryEs": "Pastel de ternera y cerveza, puré y guisantes chafados",
+          "mustTryPt": "Empada de vaca e cerveja, puré e ervilhas esmagadas",
+          "openingHours": "Open daily for lunch and dinner; check seasonal hours",
+          "tip": "Tables are few and the cottage is popular, so book ahead or come slightly off-peak with your dog.",
+          "tipFr": "Les tables sont peu nombreuses et le cottage est prisé : réservez ou venez un peu en dehors des heures de pointe avec votre chien.",
+          "tipEs": "Hay pocas mesas y la casita es popular, así que reserva o ven algo fuera de las horas punta con tu perro.",
+          "tipPt": "As mesas são poucas e a casinha é popular, por isso reserve ou venha um pouco fora das horas de ponta com o seu cão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Humble+Pie+n+Mash+Church+Street+Whitby"
+        }
+      ],
+      "tipsEn": [
+        "Old-town pubs on Church Street are the safest bet for dogs; the bar area is almost always dog-friendly even where the restaurant is not.",
+        "Carry a towel in wet or windy weather, as most places are happy with a damp dog but appreciate the effort.",
+        "Whitby gets very busy on summer weekends and during the Goth Weekends, so eat early or late to find a calm corner with your dog."
+      ],
+      "tipsFr": [
+        "Les pubs de la vieille ville sur Church Street sont la valeur sûre pour les chiens : la partie bar est presque toujours dog-friendly, même quand la salle de restaurant ne l'est pas.",
+        "Emportez une serviette par temps humide ou venteux : la plupart des lieux acceptent un chien mouillé mais apprécient le geste.",
+        "Whitby est bondée les week-ends d'été et pendant les Goth Weekends : mangez tôt ou tard pour trouver un coin tranquille avec votre chien."
+      ],
+      "tipsEs": [
+        "Los pubs del casco antiguo en Church Street son la apuesta más segura para perros: la zona de bar casi siempre admite perros aunque el comedor no lo haga.",
+        "Lleva una toalla con tiempo húmedo o ventoso: la mayoría de los sitios aceptan un perro mojado pero agradecen el detalle.",
+        "Whitby se llena mucho los fines de semana de verano y durante los Goth Weekends, así que come pronto o tarde para encontrar un rincón tranquilo con tu perro."
+      ],
+      "tipsPt": [
+        "Os pubs da cidade velha na Church Street são a aposta mais segura para cães: a zona do bar aceita quase sempre cães, mesmo onde a sala de refeições não aceita.",
+        "Leve uma toalha com tempo húmido ou ventoso: a maioria dos locais aceita um cão molhado mas agradece o gesto.",
+        "Whitby enche muito nos fins de semana de verão e durante os Goth Weekends, por isso coma cedo ou tarde para encontrar um canto tranquilo com o seu cão."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside Whitby pubs or only in beer gardens?",
+          "a": "Many Whitby pubs welcome dogs inside, particularly the traditional old-town pubs along Church Street such as the Black Horse Inn. The bar area is usually the dog-friendly zone; if you want a table in a separate dining room, ask staff first."
+        },
+        {
+          "q": "Is it easy to eat out with a dog in Whitby?",
+          "a": "Yes. Whitby is a very dog-friendly seaside town and you will find plenty of pubs, cafes and pie shops that welcome dogs, especially in the harbour and old-town area. A quick check with staff on arrival is all it takes."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis à l'intérieur des pubs de Whitby ou seulement en terrasse ?",
+          "a": "De nombreux pubs de Whitby acceptent les chiens à l'intérieur, en particulier les pubs traditionnels de la vieille ville le long de Church Street comme le Black Horse Inn. La partie bar est généralement la zone dog-friendly ; pour une table dans une salle à manger séparée, demandez d'abord au personnel."
+        },
+        {
+          "q": "Est-il facile de manger avec un chien à Whitby ?",
+          "a": "Oui. Whitby est une station balnéaire très accueillante pour les chiens et vous trouverez de nombreux pubs, cafés et tourteries qui les acceptent, surtout autour du port et de la vieille ville. Un simple mot au personnel à l'arrivée suffit."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros dentro de los pubs de Whitby o solo en las terrazas?",
+          "a": "Muchos pubs de Whitby admiten perros dentro, en especial los pubs tradicionales del casco antiguo en Church Street como el Black Horse Inn. La zona de bar suele ser la parte pet-friendly; si quieres mesa en un comedor separado, pregunta antes al personal."
+        },
+        {
+          "q": "¿Es fácil comer fuera con un perro en Whitby?",
+          "a": "Sí. Whitby es un pueblo costero muy pet-friendly y encontrarás muchos pubs, cafeterías y tiendas de pasteles que admiten perros, sobre todo en la zona del puerto y el casco antiguo. Basta con preguntar al personal al llegar."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães são admitidos dentro dos pubs de Whitby ou só nas esplanadas?",
+          "a": "Muitos pubs de Whitby aceitam cães no interior, sobretudo os pubs tradicionais da cidade velha ao longo da Church Street, como o Black Horse Inn. A zona do bar costuma ser a parte dog-friendly; se quiser mesa numa sala de refeições separada, pergunte primeiro ao pessoal."
+        },
+        {
+          "q": "É fácil comer fora com um cão em Whitby?",
+          "a": "Sim. Whitby é uma vila costeira muito dog-friendly e vai encontrar muitos pubs, cafés e lojas de empadas que aceitam cães, sobretudo na zona do porto e da cidade velha. Basta uma palavra com o pessoal à chegada."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Parks and Green Walks in Whitby with a Dog",
+      "titleFr": "Parcs et promenades vertes à Whitby avec un chien",
+      "titleEs": "Parques y paseos verdes en Whitby con un perro",
+      "titlePt": "Parques e passeios verdes em Whitby com um cão",
+      "introEn": "Whitby is a small town wrapped in big countryside, so most dog walks here lead quickly out onto cliff tops, woodland or old railway paths rather than manicured parks. In the town itself Pannett Park gives you a gentle, landscaped stroll, while just outside, the Cinder Track and Mulgrave Woods offer longer, greener adventures. Dogs must be kept on a lead in Pannett Park and near livestock, and on cliff paths a lead is strongly advised for safety. The three green spaces below cover everything from a quick town wander to a proper half-day walk.",
+      "introFr": "Whitby est une petite ville enveloppée d'une vaste campagne : la plupart des promenades canines mènent vite aux falaises, aux bois ou aux anciennes voies ferrées plutôt qu'à des parcs soignés. En ville, Pannett Park offre une flânerie douce et paysagée, tandis qu'aux alentours, le Cinder Track et les bois de Mulgrave proposent des aventures plus longues et plus vertes. Les chiens doivent être tenus en laisse à Pannett Park et près du bétail, et sur les sentiers de falaise la laisse est vivement conseillée pour la sécurité. Les trois espaces verts ci-dessous couvrent tout, de la petite balade en ville à la vraie demi-journée de marche.",
+      "introEs": "Whitby es un pueblo pequeño envuelto en un gran campo, así que la mayoría de los paseos con perro llevan enseguida a acantilados, bosques o antiguas vías de tren más que a parques cuidados. En el propio pueblo, Pannett Park ofrece un paseo suave y ajardinado, mientras que justo afuera el Cinder Track y los bosques de Mulgrave brindan aventuras más largas y verdes. Los perros deben ir con correa en Pannett Park y cerca del ganado, y en los senderos de acantilado se recomienda encarecidamente la correa por seguridad. Los tres espacios verdes de abajo abarcan desde un breve paseo por el pueblo hasta una caminata de media jornada.",
+      "introPt": "Whitby é uma vila pequena envolta em muito campo, por isso a maioria dos passeios com cão leva depressa a falésias, bosques ou antigas linhas de comboio, mais do que a parques cuidados. Na própria vila, o Pannett Park oferece um passeio suave e ajardinado, enquanto mesmo à saída o Cinder Track e os bosques de Mulgrave proporcionam aventuras mais longas e verdes. Os cães têm de andar à trela no Pannett Park e junto ao gado, e nos trilhos de falésia a trela é fortemente aconselhada por segurança. Os três espaços verdes abaixo cobrem tudo, do breve passeio pela vila a uma verdadeira caminhada de meio dia.",
+      "places": [
+        {
+          "name": "Pannett Park",
+          "type": "Landscaped town park and gardens",
+          "photo": "/images/city-places/whitby-parks-pannett-park.jpg",
+          "website": "https://whitbyparks.co.uk/",
+          "description": "Whitby's main town park, a beautifully landscaped Victorian-era green space in the heart of town with winding paths, a lily pool, a rock garden and lawns, all a short walk from the station. It is a calm, pretty spot for a gentle leg-stretch with a dog between rain showers or after a busy day on the beach.",
+          "descriptionFr": "Le principal parc urbain de Whitby, un espace vert d'époque victorienne magnifiquement paysagé au cœur de la ville, avec des allées sinuenses, un bassin de nénuphars, un jardin de rocaille et des pelouses, à quelques minutes de la gare. C'est un endroit calme et joli pour une petite balade avec un chien entre deux averses ou après une journée chargée sur la plage.",
+          "descriptionEs": "El principal parque urbano de Whitby, un espacio verde de época victoriana bellamente ajardinado en el corazón del pueblo, con senderos serpenteantes, un estanque de nenúfares, un jardín de rocalla y céspedes, a pocos minutos de la estación. Es un lugar tranquilo y bonito para un paseo suave con un perro entre chubascos o tras un día ajetreado en la playa.",
+          "descriptionPt": "O principal parque urbano de Whitby, um espaço verde de época vitoriana lindamente ajardinado no coração da vila, com caminhos sinuosos, um lago de nenúfares, um jardim de rochas e relvados, a poucos minutos da estação. É um sítio calmo e bonito para esticar as pernas com um cão entre aguaceiros ou depois de um dia agitado na praia.",
+          "offLeash": false,
+          "offLeashArea": "Dogs must be kept on a lead throughout the park",
+          "offLeashAreaFr": "Les chiens doivent être tenus en laisse dans tout le parc",
+          "offLeashAreaEs": "Los perros deben ir con correa en todo el parque",
+          "offLeashAreaPt": "Os cães têm de andar à trela em todo o parque",
+          "tip": "Combine it with the walk up to the Whitby Museum, which sits within the park grounds, then head down into the old town.",
+          "tipFr": "Associez-la à la montée vers le Whitby Museum, situé dans l'enceinte du parc, puis descendez vers la vieille ville.",
+          "tipEs": "Combínalo con la subida al Whitby Museum, que está dentro del recinto del parque, y luego baja al casco antiguo.",
+          "tipPt": "Combine-o com a subida ao Whitby Museum, que fica dentro do recinto do parque, e depois desça para a cidade velha.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pannett+Park+Whitby"
+        },
+        {
+          "name": "The Cinder Track (Whitby to Robin Hood's Bay)",
+          "type": "Traffic-free former railway trail",
+          "photo": "/images/city-places/whitby-parks-cinder-track.jpg",
+          "website": "https://www.cindertrack.co.uk/",
+          "description": "A traffic-free walking and cycling path along the old Whitby to Scarborough railway line, running south from Whitby through open countryside towards Robin Hood's Bay and beyond. It is a superb, safe dog walk with big sea views and no cars, ideal when the beaches are under summer restrictions. You can do as much or as little of it as you like and turn back at any point.",
+          "descriptionFr": "Une voie piétonne et cyclable sans voitures le long de l'ancienne ligne Whitby-Scarborough, filant vers le sud depuis Whitby à travers la campagne vers Robin Hood's Bay et au-delà. C'est une superbe promenade canine sûre, avec de grandes vues sur la mer et aucune voiture, idéale quand les plages sont sous restrictions estivales. Vous en faites autant ou aussi peu que vous voulez et rebroussez chemin quand bon vous semble.",
+          "descriptionEs": "Un camino peatonal y ciclista sin coches por la antigua línea de tren Whitby-Scarborough, que va hacia el sur desde Whitby por campo abierto hacia Robin Hood's Bay y más allá. Es un paseo con perro estupendo y seguro, con grandes vistas al mar y sin coches, ideal cuando las playas están bajo restricciones estivales. Haces tanto o tan poco como quieras y das la vuelta en cualquier punto.",
+          "descriptionPt": "Um caminho pedonal e ciclável sem carros ao longo da antiga linha de comboio Whitby-Scarborough, seguindo para sul desde Whitby por campo aberto rumo a Robin Hood's Bay e mais além. É um excelente passeio com cão, seguro, com grandes vistas de mar e sem carros, ideal quando as praias estão sob restrições de verão. Faz tanto ou tão pouco quanto quiser e volta para trás em qualquer ponto.",
+          "offLeash": false,
+          "offLeashArea": "Under control on the trail; lead up near the road crossings and where it passes farmland",
+          "offLeashAreaFr": "Sous contrôle sur la voie ; en laisse près des traversées de route et là où elle longe des terres agricoles",
+          "offLeashAreaEs": "Bajo control en la vía; con correa cerca de los cruces de carretera y donde bordea terrenos de cultivo",
+          "offLeashAreaPt": "Sob controlo no trilho; à trela junto às travessias de estrada e onde passa por terrenos agrícolas",
+          "tip": "Start at the southern edge of Whitby and walk out towards Hawsker for the best sea views without committing to the full route.",
+          "tipFr": "Partez de la lisière sud de Whitby et marchez vers Hawsker pour les plus belles vues sur la mer sans vous engager sur tout l'itinéraire.",
+          "tipEs": "Empieza en el borde sur de Whitby y camina hacia Hawsker para las mejores vistas al mar sin comprometerte con la ruta completa.",
+          "tipPt": "Comece na extremidade sul de Whitby e caminhe rumo a Hawsker para as melhores vistas de mar sem se comprometer com o percurso completo.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cinder+Track+Whitby"
+        },
+        {
+          "name": "Mulgrave Woods",
+          "type": "Private estate woodland (limited open days)",
+          "photo": "/images/city-places/whitby-parks-mulgrave-woods.jpg",
+          "website": "https://www.mulgraveestate.com/",
+          "description": "A beautiful stretch of estate woodland near Sandsend, a few miles north-west of Whitby, with paths leading to the ruins of the old Mulgrave Castle. The woods are privately owned by the Mulgrave Estate and open to the public on set days only, usually Wednesdays, weekends and school holidays but closed in May, so always check before you go. Dogs are welcome on a lead.",
+          "descriptionFr": "Un bel espace boisé domanial près de Sandsend, à quelques kilomètres au nord-ouest de Whitby, avec des sentiers menant aux ruines de l'ancien château de Mulgrave. Les bois appartiennent au domaine de Mulgrave et n'ouvrent au public que certains jours, généralement le mercredi, le week-end et pendant les vacances scolaires, mais ferment en mai : vérifiez donc toujours avant de partir. Les chiens sont acceptés en laisse.",
+          "descriptionEs": "Un hermoso bosque señorial cerca de Sandsend, a pocos kilómetros al noroeste de Whitby, con senderos que llevan a las ruinas del antiguo castillo de Mulgrave. El bosque es propiedad privada de la Mulgrave Estate y abre al público solo días concretos, normalmente miércoles, fines de semana y vacaciones escolares, pero cierra en mayo, así que comprueba siempre antes de ir. Los perros son bienvenidos con correa.",
+          "descriptionPt": "Um belo bosque senhorial perto de Sandsend, a poucos quilómetros a noroeste de Whitby, com trilhos que levam às ruínas do antigo castelo de Mulgrave. O bosque é propriedade privada da Mulgrave Estate e abre ao público apenas em dias específicos, normalmente às quartas-feiras, fins de semana e férias escolares, mas fecha em maio, por isso confirme sempre antes de ir. Os cães são bem-vindos à trela.",
+          "offLeash": false,
+          "offLeashArea": "On a lead only, out of respect for the working estate and its wildlife",
+          "offLeashAreaFr": "En laisse uniquement, par respect pour le domaine en activité et sa faune",
+          "offLeashAreaEs": "Solo con correa, por respeto a la finca en activo y su fauna",
+          "offLeashAreaPt": "Apenas à trela, por respeito à propriedade em atividade e à sua fauna",
+          "tip": "Check the Mulgrave Estate opening days before setting out; the woods are closed for the whole of May and on many weekdays.",
+          "tipFr": "Vérifiez les jours d'ouverture du domaine de Mulgrave avant de partir ; les bois sont fermés tout le mois de mai et de nombreux jours de semaine.",
+          "tipEs": "Consulta los días de apertura de la Mulgrave Estate antes de salir; el bosque cierra todo el mes de mayo y muchos días entre semana.",
+          "tipPt": "Verifique os dias de abertura da Mulgrave Estate antes de sair; o bosque fecha todo o mês de maio e em muitos dias de semana.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mulgrave+Woods+Sandsend"
+        }
+      ],
+      "tipsEn": [
+        "For a car-free green walk in summer, the Cinder Track is your best bet when the town beaches are under the seasonal dog ban.",
+        "Keep dogs on a lead near the cliff edges on any of the coastal paths; the drops are sheer and often unfenced.",
+        "In spring and lambing season keep well away from sheep on the estate and farmland paths, and lead up whenever livestock is near."
+      ],
+      "tipsFr": [
+        "Pour une promenade verte sans voiture en été, le Cinder Track est votre meilleure option quand les plages de ville sont sous interdiction saisonnière.",
+        "Tenez les chiens en laisse près des bords de falaise sur tous les sentiers côtiers : les à-pics sont abrupts et souvent sans barrière.",
+        "Au printemps et en période d'agnelage, restez bien à l'écart des moutons sur les sentiers du domaine et des fermes, et remettez la laisse dès qu'il y a du bétail."
+      ],
+      "tipsEs": [
+        "Para un paseo verde sin coche en verano, el Cinder Track es tu mejor opción cuando las playas del pueblo están bajo la prohibición estacional.",
+        "Manten a los perros con correa cerca de los bordes de acantilado en cualquier sendero costero: las caídas son verticales y a menudo sin vallar.",
+        "En primavera y época de parición manten bien lejos de las ovejas en los senderos de la finca y del campo, y pon la correa siempre que haya ganado cerca."
+      ],
+      "tipsPt": [
+        "Para um passeio verde sem carro no verão, o Cinder Track é a melhor opção quando as praias da vila estão sob a proibição sazonal.",
+        "Mantenha os cães à trela junto às bordas das falésias em qualquer trilho costeiro: as quedas são a pique e muitas vezes sem vedação.",
+        "Na primavera e na época de parição das ovelhas mantenha-se bem longe do gado nos trilhos da propriedade e do campo, e ponha a trela sempre que houver animais perto."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I walk my dog in Whitby when the beaches are restricted?",
+          "a": "The Cinder Track, the Cleveland Way cliff paths and Pannett Park are all good year-round options. Nearby, the beaches at Tate Hill, Sandsend's outer stretches and Runswick Bay also stay open to dogs during the summer season."
+        },
+        {
+          "q": "Is Pannett Park good for dogs?",
+          "a": "Yes, for a gentle on-lead stroll. Pannett Park is a landscaped town park with paths, gardens and a lily pool. Dogs must be kept on a lead throughout, so it suits a calm walk rather than a run-around."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où promener mon chien à Whitby quand les plages sont réglementées ?",
+          "a": "Le Cinder Track, les sentiers de falaise du Cleveland Way et Pannett Park sont de bonnes options toute l'année. À proximité, les plages de Tate Hill, les portions extérieures de Sandsend et Runswick Bay restent aussi ouvertes aux chiens en saison estivale."
+        },
+        {
+          "q": "Pannett Park est-il adapté aux chiens ?",
+          "a": "Oui, pour une balade tranquille en laisse. Pannett Park est un parc urbain paysagé avec des allées, des jardins et un bassin de nénuphars. Les chiens doivent y rester en laisse, il convient donc à une promenade calme plutôt qu'à une course."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo pasear a mi perro en Whitby cuando las playas están restringidas?",
+          "a": "El Cinder Track, los senderos de acantilado del Cleveland Way y Pannett Park son buenas opciones todo el año. Cerca, las playas de Tate Hill, los tramos exteriores de Sandsend y Runswick Bay también siguen abiertas a los perros en temporada estival."
+        },
+        {
+          "q": "¿Es bueno Pannett Park para perros?",
+          "a": "Sí, para un paseo tranquilo con correa. Pannett Park es un parque urbano ajardinado con senderos, jardines y un estanque de nenúfares. Los perros deben ir con correa en todo el parque, así que es más para un paseo sosegado que para correr."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Onde posso passear o meu cão em Whitby quando as praias estão restringidas?",
+          "a": "O Cinder Track, os trilhos de falésia do Cleveland Way e o Pannett Park são boas opções todo o ano. Perto, as praias de Tate Hill, os trechos exteriores de Sandsend e Runswick Bay também continuam abertas aos cães na época de verão."
+        },
+        {
+          "q": "O Pannett Park é bom para cães?",
+          "a": "Sim, para um passeio tranquilo à trela. O Pannett Park é um parque urbano ajardinado com caminhos, jardins e um lago de nenúfares. Os cães têm de andar à trela em todo o parque, por isso é mais para um passeio calmo do que para correr."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Whitby with a Dog",
+      "titleFr": "Se déplacer à Whitby avec un chien",
+      "titleEs": "Moverse por Whitby con un perro",
+      "titlePt": "Deslocar-se em Whitby com um cão",
+      "introEn": "Whitby is compact and steeply built around its harbour, so almost everything is done on foot, and the town is easy and rewarding to explore with a dog. There is no airport nearby, but the scenic Esk Valley Line train links Whitby with Middlesbrough, and dogs travel free on National Rail. Once you arrive, the swing bridge, the two cliffs and the 199 Steps are all walkable, though the hills are real, so a fit dog and comfortable shoes help.",
+      "introFr": "Whitby est compacte et bâtie à flanc de coteau autour de son port : presque tout se fait à pied, et la ville est facile et agréable à explorer avec un chien. Il n'y a pas d'aéroport à proximité, mais la pittoresque ligne Esk Valley relie Whitby à Middlesbrough, et les chiens voyagent gratuitement sur National Rail. Une fois sur place, le pont tournant, les deux falaises et les 199 marches se parcourent à pied, même si les montées sont bien réelles : un chien en forme et de bonnes chaussures aident.",
+      "introEs": "Whitby es compacta y está construida en pendiente alrededor de su puerto, así que casi todo se hace a pie y el pueblo es fácil y gratificante de explorar con un perro. No hay aeropuerto cerca, pero el pintoresco tren de la Esk Valley Line une Whitby con Middlesbrough, y los perros viajan gratis en National Rail. Una vez llegas, el puente giratorio, los dos acantilados y los 199 escalones se recorren a pie, aunque las cuestas son de verdad, así que ayuda llevar un perro en forma y calzado cómodo.",
+      "introPt": "Whitby é compacta e construída em encosta à volta do seu porto, por isso quase tudo se faz a pé, e a vila é fácil e gratificante de explorar com um cão. Não há aeroporto por perto, mas o pitoresco comboio da Esk Valley Line liga Whitby a Middlesbrough, e os cães viajam grátis na National Rail. Depois de chegar, a ponte giratória, as duas falésias e os 199 Degraus percorrem-se a pé, embora as subidas sejam bem reais, por isso ajuda ter um cão em forma e calçado confortável.",
+      "rules": [
+        {
+          "mode": "National Rail (Esk Valley Line)",
+          "modeFr": "National Rail (ligne Esk Valley)",
+          "modeEs": "National Rail (Esk Valley Line)",
+          "modePt": "National Rail (Esk Valley Line)",
+          "policy": "Under the National Rail Conditions of Travel, up to two dogs travel free with each passenger, on a lead or in a carrier, and not on the seats. The Esk Valley Line runs the scenic 35-mile route from Middlesbrough to Whitby terminus through the North York Moors, a relaxed and dog-friendly way to arrive without driving.",
+          "policyFr": "Selon les Conditions de transport de National Rail, jusqu'à deux chiens voyagent gratuitement avec chaque voyageur, en laisse ou dans une caisse, et non sur les sièges. La ligne Esk Valley suit un pittoresque parcours de 56 km de Middlesbrough au terminus de Whitby à travers les North York Moors, une arrivée détendue et accueillante pour les chiens, sans voiture.",
+          "policyEs": "Según las Condiciones de viaje de National Rail, hasta dos perros viajan gratis con cada pasajero, con correa o en transportín, y no en los asientos. La Esk Valley Line recorre los 56 km panorámicos de Middlesbrough a la terminal de Whitby a través de los North York Moors, una forma relajada y apta para perros de llegar sin conducir.",
+          "policyPt": "Segundo as Condições de viagem da National Rail, até dois cães viajam grátis com cada passageiro, à trela ou numa caixa, e não nos bancos. A Esk Valley Line faz o percurso panorâmico de 56 km de Middlesbrough até ao terminal de Whitby através dos North York Moors, uma forma descontraída e adequada para cães de chegar sem conduzir."
+        },
+        {
+          "mode": "Whitby harbour boat trips",
+          "modeFr": "Excursions en bateau depuis le port de Whitby",
+          "modeEs": "Excursiones en barco desde el puerto de Whitby",
+          "modePt": "Passeios de barco a partir do porto de Whitby",
+          "policy": "Several operators run short pleasure cruises and coastal sightseeing trips from Whitby harbour, and many welcome well-behaved dogs on deck. Keep your dog on a lead aboard and pick a calm day if it is nervous of the water; it is a fun outing that no beach restriction affects.",
+          "policyFr": "Plusieurs opérateurs proposent de courtes croisières d'agrément et des sorties le long de la côte depuis le port de Whitby, et beaucoup acceptent les chiens bien élevés sur le pont. Gardez votre chien en laisse à bord et choisissez une journée calme s'il craint l'eau ; c'est une sortie amusante qu'aucune restriction de plage n'atteint.",
+          "policyEs": "Varios operadores ofrecen cortos cruceros de recreo y salidas de observación costera desde el puerto de Whitby, y muchos admiten perros educados en cubierta. Manten a tu perro con correa a bordo y elige un día tranquilo si teme el agua; es una salida divertida que ninguna restricción de playa afecta.",
+          "policyPt": "Vários operadores oferecem curtos cruzeiros de recreio e saídas de observação costeira a partir do porto de Whitby, e muitos aceitam cães bem-comportados no convés. Mantenha o cão à trela a bordo e escolha um dia calmo se ele tiver medo da água; é uma saída divertida que nenhuma restrição de praia afeta."
+        },
+        {
+          "mode": "Local buses and taxis",
+          "modeFr": "Bus locaux et taxis",
+          "modeEs": "Autobuses locales y taxis",
+          "modePt": "Autocarros locais e táxis",
+          "policy": "Arriva and Coastliner buses linking Whitby with Sandsend, Robin Hood's Bay, Scarborough and beyond generally accept dogs at the driver's discretion; keep the dog on a lead and off the seats. Taxis are also at the driver's discretion, so mention the dog when you book.",
+          "policyFr": "Les bus Arriva et Coastliner reliant Whitby à Sandsend, Robin Hood's Bay, Scarborough et au-delà acceptent en général les chiens à la discrétion du chauffeur ; gardez le chien en laisse et hors des sièges. Les taxis sont aussi à la discrétion du chauffeur : signalez le chien à la réservation.",
+          "policyEs": "Los autobuses Arriva y Coastliner que unen Whitby con Sandsend, Robin Hood's Bay, Scarborough y más allá suelen admitir perros a criterio del conductor; manten al perro con correa y fuera de los asientos. Los taxis también quedan a criterio del conductor, así que menciona al perro al reservar.",
+          "policyPt": "Os autocarros Arriva e Coastliner que ligam Whitby a Sandsend, Robin Hood's Bay, Scarborough e mais além costumam admitir cães ao critério do condutor; mantenha o cão à trela e fora dos bancos. Os táxis também ficam ao critério do condutor, por isso mencione o cão ao reservar."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Arriving in Whitby",
+          "titleFr": "Arriver à Whitby",
+          "titleEs": "Llegar a Whitby",
+          "titlePt": "Chegar a Whitby",
+          "contentEn": "Whitby sits on the North Yorkshire coast with no airport of its own; the nearest is Teesside International (MME), around an hour away by road, while most visitors arrive by car or by train. By rail you take the Esk Valley Line from Middlesbrough to Whitby, which is dog-friendly and free for up to two dogs. Drivers should note the town's car parks fill quickly in summer and the old-town streets are narrow, so arriving early or using a park-and-walk approach is easiest with a dog.",
+          "contentFr": "Whitby se trouve sur la côte du North Yorkshire, sans aéroport propre ; le plus proche est Teesside International (MME), à environ une heure de route, tandis que la plupart des visiteurs arrivent en voiture ou en train. En train, on prend la ligne Esk Valley de Middlesbrough à Whitby, qui accueille les chiens et est gratuite jusqu'à deux chiens. En voiture, les parkings se remplissent vite l'été et les rues de la vieille ville sont étroites : arriver tôt ou se garer un peu à l'écart puis marcher est plus simple avec un chien.",
+          "contentEs": "Whitby está en la costa de North Yorkshire sin aeropuerto propio; el más cercano es Teesside International (MME), a alrededor de una hora por carretera, mientras que la mayoría de los visitantes llegan en coche o en tren. En tren se toma la Esk Valley Line de Middlesbrough a Whitby, apta para perros y gratis hasta dos perros. En coche, los aparcamientos se llenan rápido en verano y las calles del casco antiguo son estrechas, así que llegar pronto o aparcar algo apartado y caminar es lo más fácil con un perro.",
+          "contentPt": "Whitby fica na costa de North Yorkshire sem aeroporto próprio; o mais próximo é o Teesside International (MME), a cerca de uma hora de estrada, enquanto a maioria dos visitantes chega de carro ou de comboio. De comboio apanha-se a Esk Valley Line de Middlesbrough até Whitby, que aceita cães e é grátis até dois cães. De carro, os parques de estacionamento enchem depressa no verão e as ruas da cidade velha são estreitas, por isso chegar cedo ou estacionar um pouco afastado e caminhar é o mais fácil com um cão."
+        },
+        {
+          "titleEn": "Around town on foot and the 199 Steps",
+          "titleFr": "En ville à pied et les 199 marches",
+          "titleEs": "Por el pueblo a pie y los 199 escalones",
+          "titlePt": "Pela vila a pé e os 199 Degraus",
+          "contentEn": "The town splits across the River Esk into the West Cliff and the old-town East Cliff, joined by the swing bridge over the harbour. From the old town, the famous 199 Steps climb to St Mary's Church and the abbey headland, a rewarding but steep walk that most dogs love. The cobbled lanes and quaysides get very crowded in high summer and on Goth Weekends, so early mornings and evenings are calmest for a dog.",
+          "contentFr": "La ville se partage de part et d'autre de la rivière Esk entre le West Cliff et la vieille ville du East Cliff, reliés par le pont tournant au-dessus du port. Depuis la vieille ville, les célèbres 199 marches grimpent vers l'église St Mary et la falaise de l'abbaye, une montée exigeante mais gratifiante que la plupart des chiens adorent. Les ruelles pavées et les quais sont très fréquentés en plein été et pendant les Goth Weekends : le début de matinée et la soirée sont les plus calmes pour un chien.",
+          "contentEs": "El pueblo se divide a ambos lados del río Esk entre el West Cliff y el casco antiguo del East Cliff, unidos por el puente giratorio sobre el puerto. Desde el casco antiguo, los famosos 199 escalones suben a la iglesia de St Mary y al promontorio de la abadía, una subida exigente pero gratificante que a la mayoría de los perros les encanta. Las callejuelas empedradas y los muelles se llenan mucho en pleno verano y en los Goth Weekends, así que las primeras horas de la mañana y la tarde son las más tranquilas para un perro.",
+          "contentPt": "A vila divide-se de ambos os lados do rio Esk entre o West Cliff e a cidade velha do East Cliff, unidos pela ponte giratória sobre o porto. Da cidade velha, os famosos 199 Degraus sobem até à igreja de St Mary e ao promontório da abadia, uma subida exigente mas gratificante que a maioria dos cães adora. As ruelas de calçada e os cais ficam muito cheios em pleno verão e nos Goth Weekends, por isso o início da manhã e o fim da tarde são os mais calmos para um cão."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the train to Whitby?",
+          "a": "Yes. Up to two dogs travel free with each passenger on National Rail, on a lead or in a carrier. Whitby is the terminus of the scenic Esk Valley Line from Middlesbrough, a lovely, dog-friendly way to arrive through the North York Moors."
+        },
+        {
+          "q": "Is there an airport near Whitby?",
+          "a": "Not in the town itself. The nearest is Teesside International (MME), roughly an hour away by road, and many visitors simply come by car or by train instead. Always check your airline's pet policy in advance if you do fly."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien dans le train jusqu'à Whitby ?",
+          "a": "Oui. Jusqu'à deux chiens voyagent gratuitement avec chaque voyageur sur National Rail, en laisse ou dans une caisse. Whitby est le terminus de la pittoresque ligne Esk Valley depuis Middlesbrough, une belle arrivée accueillante pour les chiens à travers les North York Moors."
+        },
+        {
+          "q": "Y a-t-il un aéroport près de Whitby ?",
+          "a": "Pas dans la ville même. Le plus proche est Teesside International (MME), à environ une heure de route, et beaucoup de visiteurs viennent simplement en voiture ou en train. Vérifiez toujours à l'avance la politique animaux de votre compagnie si vous prenez l'avion."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el tren a Whitby?",
+          "a": "Sí. Hasta dos perros viajan gratis con cada pasajero en National Rail, con correa o en transportín. Whitby es la terminal de la pintoresca Esk Valley Line desde Middlesbrough, una bonita forma de llegar apta para perros a través de los North York Moors."
+        },
+        {
+          "q": "¿Hay aeropuerto cerca de Whitby?",
+          "a": "No en el propio pueblo. El más cercano es Teesside International (MME), a alrededor de una hora por carretera, y muchos visitantes simplemente vienen en coche o en tren. Comprueba siempre por adelantado la política de mascotas de tu aerolínea si vuelas."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão no comboio até Whitby?",
+          "a": "Sim. Até dois cães viajam grátis com cada passageiro na National Rail, à trela ou numa caixa. Whitby é o terminal da pitoresca Esk Valley Line desde Middlesbrough, uma bela forma de chegar adequada para cães através dos North York Moors."
+        },
+        {
+          "q": "Há aeroporto perto de Whitby?",
+          "a": "Não na própria vila. O mais próximo é o Teesside International (MME), a cerca de uma hora de estrada, e muitos visitantes vêm simplesmente de carro ou de comboio. Confirme sempre com antecedência a política de animais da sua companhia aérea se viajar de avião."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in and around Whitby",
+      "titleFr": "Plages qui accueillent les chiens à Whitby et alentour",
+      "titleEs": "Playas que admiten perros en Whitby y alrededores",
+      "titlePt": "Praias que aceitam cães em Whitby e arredores",
+      "introEn": "Whitby sits on a spectacular stretch of the North Yorkshire coast, but its beaches carry a real seasonal dog ban that you must plan around. Under North Yorkshire Council's Dog Control Public Spaces Protection Order, dogs are excluded from the signposted main section of Whitby's West Cliff beach (Whitby Sands) from 1 May to 30 September, and the same applies to the main section of Sandsend beach near the village. Breaching the order can bring a fixed penalty of £100. The good news is that the sheltered Tate Hill Sands below the abbey headland stays open to dogs all year (on a lead in the summer season), the outer stretches of Sandsend are dog-friendly year-round, and nearby Runswick Bay welcomes dogs all year with no seasonal restriction. Always read the signs on arrival, as the exact boundaries are marked on the beach.",
+      "introFr": "Whitby borde une portion spectaculaire de la côte du North Yorkshire, mais ses plages sont soumises à une véritable interdiction saisonnière des chiens qu'il faut anticiper. En vertu du Dog Control Public Spaces Protection Order du North Yorkshire Council, les chiens sont exclus de la section principale signalée de la plage du West Cliff de Whitby (Whitby Sands) du 1er mai au 30 septembre, et il en va de même pour la section principale de la plage de Sandsend près du village. Enfreindre l'arrêté peut coûter une amende forfaitaire de 100 livres. La bonne nouvelle : la plage abritée de Tate Hill Sands, sous la falaise de l'abbaye, reste ouverte aux chiens toute l'année (en laisse en saison estivale), les portions extérieures de Sandsend sont accessibles aux chiens toute l'année, et Runswick Bay, tout près, accueille les chiens toute l'année sans restriction saisonnière. Lisez toujours les panneaux à l'arrivée, car les limites exactes sont indiquées sur la plage.",
+      "introEs": "Whitby se asoma a un tramo espectacular de la costa de North Yorkshire, pero sus playas tienen una verdadera prohibición estacional de perros que hay que planificar. Bajo el Dog Control Public Spaces Protection Order del North Yorkshire Council, los perros quedan excluidos de la sección principal señalizada de la playa del West Cliff de Whitby (Whitby Sands) del 1 de mayo al 30 de septiembre, y lo mismo se aplica a la sección principal de la playa de Sandsend junto al pueblo. Incumplir la orden puede acarrear una multa fija de 100 libras. La buena noticia es que la resguardada Tate Hill Sands, bajo el promontorio de la abadía, sigue abierta a los perros todo el año (con correa en la temporada estival), los tramos exteriores de Sandsend admiten perros todo el año, y la cercana Runswick Bay recibe perros todo el año sin restricción estacional. Lee siempre los carteles al llegar, ya que los límites exactos están marcados en la playa.",
+      "introPt": "Whitby debruça-se sobre um troço espetacular da costa de North Yorkshire, mas as suas praias têm uma verdadeira proibição sazonal de cães que é preciso planear. Ao abrigo do Dog Control Public Spaces Protection Order do North Yorkshire Council, os cães ficam excluídos da secção principal sinalizada da praia do West Cliff de Whitby (Whitby Sands) de 1 de maio a 30 de setembro, e o mesmo se aplica à secção principal da praia de Sandsend junto à aldeia. Infringir a ordem pode acarretar uma multa fixa de 100 libras. A boa notícia é que a abrigada Tate Hill Sands, sob o promontório da abadia, continua aberta aos cães todo o ano (à trela na época de verão), os trechos exteriores de Sandsend aceitam cães todo o ano, e a vizinha Runswick Bay recebe cães todo o ano sem restrição sazonal. Leia sempre as placas à chegada, pois os limites exatos estão marcados na praia.",
+      "places": [
+        {
+          "name": "Tate Hill Sands (Whitby East Cliff)",
+          "distance": "Below the 199 Steps and abbey headland, in the harbour mouth",
+          "description": "A small, sheltered sandy cove tucked below the East Cliff and the abbey headland, right by the old town and the harbour mouth. It is the town beach that stays open to dogs all year, with calm shallow water good for a paddle and boats to watch, though it is on a lead in the busy summer season under the council's order.",
+          "descriptionFr": "Une petite crique de sable abritée, nichée sous le East Cliff et la falaise de l'abbaye, tout près de la vieille ville et de l'entrée du port. C'est la plage de ville qui reste ouverte aux chiens toute l'année, avec une eau calme et peu profonde parfaite pour barboter et des bateaux à observer, même si elle est en laisse en pleine saison estivale selon l'arrêté municipal.",
+          "descriptionEs": "Una pequeña cala de arena resguardada, encajada bajo el East Cliff y el promontorio de la abadía, junto al casco antiguo y la bocana del puerto. Es la playa de pueblo que sigue abierta a los perros todo el año, con agua tranquila y poco profunda ideal para chapotear y barcos que observar, aunque con correa en la concurrida temporada estival según la orden municipal.",
+          "descriptionPt": "Uma pequena enseada de areia abrigada, encaixada sob o East Cliff e o promontório da abadia, mesmo junto à cidade velha e à foz do porto. É a praia da vila que continua aberta aos cães todo o ano, com água calma e pouco funda ideal para chapinhar e barcos para observar, embora à trela na movimentada época de verão segundo a ordem municipal.",
+          "season": "Open to dogs all year; on a lead during the 1 May to 30 September season",
+          "rules": "Dogs allowed year-round, kept on a lead in summer under the council's PSPO. Watch the tide, keep clear of working fishing boats and clean up after your dog.",
+          "facilities": "Old-town pubs, cafes and shops a few steps away; no dedicated beach facilities",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tate+Hill+Sands+Whitby",
+          "photo": "/images/city-places/whitby-beaches-tate-hill-sands.jpg"
+        },
+        {
+          "name": "Sandsend Beach",
+          "distance": "About 3 miles north-west of Whitby",
+          "description": "A long, broad sweep of sand backed by dramatic jurassic cliffs, three miles north-west of Whitby and linked to it by the coastal path. The outer stretches are dog-friendly year-round, giving miles of running room at low tide, but the main section near the village amenities is closed to dogs from 1 May to 30 September, so head away from the centre in summer.",
+          "descriptionFr": "Une longue et large étendue de sable adossée à de spectaculaires falaises jurassiques, à cinq kilomètres au nord-ouest de Whitby et reliée à elle par le sentier côtier. Les portions extérieures sont accessibles aux chiens toute l'année, offrant des kilomètres de course à marée basse, mais la section principale près des commerces du village est interdite aux chiens du 1er mai au 30 septembre : éloignez-vous du centre en été.",
+          "descriptionEs": "Una larga y amplia extensión de arena respaldada por espectaculares acantilados jurásicos, a cinco kilómetros al noroeste de Whitby y unida a ella por el sendero costero. Los tramos exteriores admiten perros todo el año, con kilómetros para correr en marea baja, pero la sección principal junto a los servicios del pueblo está cerrada a los perros del 1 de mayo al 30 de septiembre, así que aléjate del centro en verano.",
+          "descriptionPt": "Uma longa e larga extensão de areia ladeada por espetaculares falésias jurássicas, a cinco quilómetros a noroeste de Whitby e ligada a ela pelo caminho costeiro. Os trechos exteriores aceitam cães todo o ano, com quilómetros para correr na maré baixa, mas a secção principal junto aos serviços da aldeia está fechada aos cães de 1 de maio a 30 de setembro, por isso afaste-se do centro no verão.",
+          "season": "Outer stretches year-round; main section near the village banned 1 May to 30 September",
+          "rules": "Dogs allowed year-round on the outer sands; the signposted main section by the village is a dog exclusion zone from 1 May to 30 September, £100 fine for breaches. Check the tide as the beach narrows against the cliffs.",
+          "facilities": "Village cafes, car park and toilets at the Sandsend end; seasonal beach amenities",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sandsend+Beach+Whitby",
+          "photo": "/images/city-places/whitby-beaches-sandsend.jpg"
+        },
+        {
+          "name": "Runswick Bay",
+          "distance": "About 8 miles north-west of Whitby",
+          "description": "A postcard-perfect crescent of sheltered golden sand beneath a cluster of red-roofed cottages, one of the prettiest bays on the Yorkshire coast. It is dog-friendly all year round with no seasonal ban, making it the go-to summer beach when Whitby and Sandsend's main sands are closed to dogs. The bay is great for rock-pooling and gentle paddling.",
+          "descriptionFr": "Un croissant de sable doré abrité, digne d'une carte postale, sous un ensemble de cottages aux toits rouges, l'une des plus jolies baies de la côte du Yorkshire. Elle accueille les chiens toute l'année sans interdiction saisonnière, ce qui en fait la plage estivale de référence quand les sables principaux de Whitby et Sandsend sont fermés aux chiens. La baie est parfaite pour explorer les flaques rocheuses et barboter tranquillement.",
+          "descriptionEs": "Un creciente de arena dorada resguardada de postal, bajo un conjunto de casitas de tejados rojos, una de las bahías más bonitas de la costa de Yorkshire. Admite perros todo el año sin prohibición estacional, lo que la convierte en la playa estival de referencia cuando las arenas principales de Whitby y Sandsend están cerradas a los perros. La bahía es ideal para explorar charcas entre rocas y chapotear con calma.",
+          "descriptionPt": "Um crescente de areia dourada abrigada digno de postal, sob um conjunto de casinhas de telhados vermelhos, uma das baías mais bonitas da costa de Yorkshire. Aceita cães todo o ano sem proibição sazonal, o que a torna a praia de verão de referência quando os areais principais de Whitby e Sandsend estão fechados aos cães. A baía é ótima para explorar poças entre rochas e chapinhar com calma.",
+          "season": "Dog-friendly all year round, with no seasonal ban",
+          "rules": "Dogs welcome year-round; keep them under control near the cliffs and rock pools, watch the fast incoming tide, and clean up after them.",
+          "facilities": "Clifftop and lower car parks, a beach cafe and a dog-friendly pub in the village, seasonal toilets",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Runswick+Bay+beach",
+          "photo": "/images/city-places/whitby-beaches-runswick-bay.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs banned from Whitby beach in summer?",
+          "a": "Yes, partly. Under North Yorkshire Council's PSPO, dogs are excluded from the main West Cliff beach (Whitby Sands) from 1 May to 30 September, with a £100 fine for breaches. However Tate Hill Sands below the abbey stays open to dogs all year, on a lead in the summer season."
+        },
+        {
+          "q": "Which beaches near Whitby allow dogs all year round?",
+          "a": "Tate Hill Sands in Whitby, the outer stretches of Sandsend and, best of all, Runswick Bay are all open to dogs year-round. Runswick Bay has no seasonal ban at all, so it is the easiest choice for a summer beach day with a dog."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils interdits sur la plage de Whitby l'été ?",
+          "a": "Oui, en partie. En vertu du PSPO du North Yorkshire Council, les chiens sont exclus de la plage principale du West Cliff (Whitby Sands) du 1er mai au 30 septembre, avec une amende de 100 livres en cas d'infraction. En revanche, Tate Hill Sands, sous l'abbaye, reste ouverte aux chiens toute l'année, en laisse en saison estivale."
+        },
+        {
+          "q": "Quelles plages près de Whitby acceptent les chiens toute l'année ?",
+          "a": "Tate Hill Sands à Whitby, les portions extérieures de Sandsend et surtout Runswick Bay sont ouvertes aux chiens toute l'année. Runswick Bay n'a aucune interdiction saisonnière : c'est le choix le plus simple pour une journée de plage estivale avec un chien."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Están prohibidos los perros en la playa de Whitby en verano?",
+          "a": "Sí, en parte. Bajo el PSPO del North Yorkshire Council, los perros quedan excluidos de la playa principal del West Cliff (Whitby Sands) del 1 de mayo al 30 de septiembre, con multa de 100 libras por incumplir. En cambio, Tate Hill Sands, bajo la abadía, sigue abierta a los perros todo el año, con correa en la temporada estival."
+        },
+        {
+          "q": "¿Qué playas cerca de Whitby admiten perros todo el año?",
+          "a": "Tate Hill Sands en Whitby, los tramos exteriores de Sandsend y, sobre todo, Runswick Bay están abiertas a los perros todo el año. Runswick Bay no tiene ninguna prohibición estacional, así que es la opción más fácil para un día de playa en verano con un perro."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães estão proibidos na praia de Whitby no verão?",
+          "a": "Sim, em parte. Ao abrigo do PSPO do North Yorkshire Council, os cães ficam excluídos da praia principal do West Cliff (Whitby Sands) de 1 de maio a 30 de setembro, com multa de 100 libras por infração. Em contrapartida, a Tate Hill Sands, sob a abadia, continua aberta aos cães todo o ano, à trela na época de verão."
+        },
+        {
+          "q": "Que praias perto de Whitby aceitam cães todo o ano?",
+          "a": "A Tate Hill Sands em Whitby, os trechos exteriores de Sandsend e, sobretudo, Runswick Bay estão abertas aos cães todo o ano. Runswick Bay não tem qualquer proibição sazonal, por isso é a escolha mais fácil para um dia de praia no verão com um cão."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets and Emergency Care in Whitby",
+      "titleFr": "Vétérinaires et urgences à Whitby",
+      "titleEs": "Veterinarios y urgencias en Whitby",
+      "titlePt": "Veterinários e urgências em Whitby",
+      "introEn": "Whitby is a small town but it is well served for veterinary care, with two established practices covering the area and out-of-hours emergency cover locally, which matters on a remote stretch of coast. Save a number in your phone before you arrive, especially if you are visiting from abroad, and note that under British rules there is no EU Pet Passport entry into Great Britain. The two practices below both offer 24-hour emergency arrangements for pets.",
+      "introFr": "Whitby est une petite ville mais bien pourvue en soins vétérinaires, avec deux cabinets établis couvrant le secteur et une garde d'urgence locale, ce qui compte sur une côte isolée. Enregistrez un numéro dans votre téléphone avant d'arriver, surtout si vous venez de l'étranger, et notez qu'en vertu des règles britanniques le passeport pour animaux de l'UE ne permet pas l'entrée en Grande-Bretagne. Les deux cabinets ci-dessous proposent tous deux une organisation d'urgence 24h/24 pour les animaux.",
+      "introEs": "Whitby es un pueblo pequeño pero está bien atendido en cuanto a cuidado veterinario, con dos clínicas consolidadas que cubren la zona y guardia de urgencias local, algo importante en un tramo de costa remoto. Guarda un número en tu teléfono antes de llegar, sobre todo si vienes del extranjero, y ten en cuenta que según las normas británicas el Pasaporte Europeo para Mascotas no sirve para entrar en Gran Bretaña. Las dos clínicas de abajo ofrecen ambas atención de urgencia 24 horas para mascotas.",
+      "introPt": "Whitby é uma vila pequena mas bem servida em cuidados veterinários, com duas clínicas consolidadas a cobrir a zona e serviço de urgência local, o que importa num troço de costa remoto. Guarde um número no telemóvel antes de chegar, sobretudo se vier do estrangeiro, e note que, segundo as regras britânicas, o Passaporte Europeu para Animais não permite a entrada na Grã-Bretanha. As duas clínicas abaixo oferecem ambas atendimento de urgência 24 horas para animais.",
+      "entryRequirements": [],
+      "places": [
+        {
+          "name": "The Beck Veterinary Practice",
+          "type": "Small-animal veterinary practice with 24-hour emergency cover",
+          "address": "The Animal Health Centre, High Stakesby, Whitby YO21 1HL",
+          "phone": "+44 1947 820333",
+          "hours": "Mon–Thu 08:30–18:00, Fri 08:30–17:00, Sat 09:00–12:00; 24-hour emergency line",
+          "hoursFr": "Lun–Jeu 08:30–18:00, Ven 08:30–17:00, Sam 09:00–12:00 ; ligne d'urgence 24h/24",
+          "hoursEs": "Lun–Jue 08:30–18:00, Vie 08:30–17:00, Sáb 09:00–12:00; línea de urgencias 24 horas",
+          "hoursPt": "Seg–Qui 08:30–18:00, Sex 08:30–17:00, Sáb 09:00–12:00; linha de urgência 24 horas",
+          "englishSpeaking": true,
+          "website": "https://www.whitbyvet.co.uk/",
+          "description": "A long-established Whitby small-animal practice that has served the town since 1948, based at the Animal Health Centre in High Stakesby. It provides 24-hour emergency cover for domestic pets, so overnight and weekend emergencies are handled locally rather than a long drive away.",
+          "descriptionFr": "Un cabinet pour petits animaux de longue date à Whitby, au service de la ville depuis 1948, installé à l'Animal Health Centre de High Stakesby. Il assure une garde d'urgence 24h/24 pour les animaux de compagnie : les urgences de nuit et de week-end sont gérées localement plutôt qu'à des kilomètres.",
+          "descriptionEs": "Una clínica de pequeños animales de larga trayectoria en Whitby, al servicio del pueblo desde 1948, en el Animal Health Centre de High Stakesby. Ofrece guardia de urgencias 24 horas para mascotas, así que las urgencias nocturnas y de fin de semana se atienden localmente y no a kilómetros.",
+          "descriptionPt": "Uma clínica de pequenos animais de longa data em Whitby, ao serviço da vila desde 1948, no Animal Health Centre de High Stakesby. Oferece serviço de urgência 24 horas para animais de companhia, por isso as urgências noturnas e de fim de semana são tratadas localmente e não a quilómetros.",
+          "tip": "Save this number on arrival; on this stretch of coast the nearest alternative emergency vet can be a long drive inland.",
+          "tipFr": "Enregistrez ce numéro dès l'arrivée : sur cette portion de côte, le vétérinaire d'urgence le plus proche peut être loin dans les terres.",
+          "tipEs": "Guarda este número al llegar; en este tramo de costa el veterinario de urgencias más cercano puede quedar lejos hacia el interior.",
+          "tipPt": "Guarde este número à chegada; neste troço de costa o veterinário de urgência mais próximo pode ficar longe, para o interior.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Beck+Veterinary+Practice+High+Stakesby+Whitby",
+          "photo": ""
+        },
+        {
+          "name": "Clevedale Veterinary Practice (Whitby Veterinary Surgery)",
+          "type": "Small-animal veterinary surgery with emergency service",
+          "address": "10 The Parade, Whitby YO21 3JP",
+          "phone": "+44 1947 825042",
+          "hours": "Mon–Fri 08:30–18:00, Sat 09:00–12:00; 24-hour emergency service",
+          "hoursFr": "Lun–Ven 08:30–18:00, Sam 09:00–12:00 ; service d'urgence 24h/24",
+          "hoursEs": "Lun–Vie 08:30–18:00, Sáb 09:00–12:00; servicio de urgencias 24 horas",
+          "hoursPt": "Seg–Sex 08:30–18:00, Sáb 09:00–12:00; serviço de urgência 24 horas",
+          "englishSpeaking": true,
+          "website": "https://www.clevedalevets.co.uk/contact-us/whitby-branch",
+          "description": "The Whitby branch surgery of Clevedale Veterinary Practice, on The Parade near the West Cliff, part of a group covering the wider North Yorkshire coast. It treats dogs, cats and small animals and provides a 24-hour emergency service, a useful second option if your own vet is fully booked.",
+          "descriptionFr": "La succursale de Whitby du cabinet Clevedale Veterinary Practice, sur The Parade près du West Cliff, membre d'un groupe couvrant l'ensemble de la côte du North Yorkshire. Il soigne chiens, chats et petits animaux et assure un service d'urgence 24h/24, une deuxième option utile si votre vétérinaire est complet.",
+          "descriptionEs": "La sucursal de Whitby de Clevedale Veterinary Practice, en The Parade cerca del West Cliff, parte de un grupo que cubre toda la costa de North Yorkshire. Atiende perros, gatos y pequeños animales y ofrece un servicio de urgencias 24 horas, una segunda opción útil si tu veterinario está completo.",
+          "descriptionPt": "A sucursal de Whitby da Clevedale Veterinary Practice, em The Parade perto do West Cliff, parte de um grupo que cobre toda a costa de North Yorkshire. Trata cães, gatos e pequenos animais e oferece um serviço de urgência 24 horas, uma segunda opção útil se o seu veterinário estiver esgotado.",
+          "tip": "Handy for the West Cliff side of town; phone ahead as a walk-in, especially out of hours, may not always be possible.",
+          "tipFr": "Pratique pour le côté West Cliff de la ville ; téléphonez d'abord, une visite sans rendez-vous, surtout hors horaires, n'est pas toujours possible.",
+          "tipEs": "Cómoda para el lado del West Cliff; llama antes, ya que una visita sin cita, sobre todo fuera de horario, no siempre es posible.",
+          "tipPt": "Prática para o lado do West Cliff; ligue primeiro, pois uma visita sem marcação, sobretudo fora de horas, nem sempre é possível.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Clevedale+Veterinary+Practice+The+Parade+Whitby",
+          "photo": ""
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there an emergency vet in Whitby?",
+          "a": "Yes. The Beck Veterinary Practice at High Stakesby provides 24-hour emergency cover for pets, and Clevedale Veterinary Practice on The Parade also offers a 24-hour emergency service. Save both numbers, as this remote coast is a long way from larger towns."
+        },
+        {
+          "q": "Do I need documents to bring my dog to Whitby from abroad?",
+          "a": "Yes. Great Britain does not accept the EU Pet Passport. Dogs arriving from the EU need a GB Animal Health Certificate, a microchip, a valid rabies vaccination and a tapeworm treatment given 24 to 120 hours before arrival. Arrange this with your vet before you travel."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire d'urgence à Whitby ?",
+          "a": "Oui. The Beck Veterinary Practice à High Stakesby assure une garde d'urgence 24h/24 pour les animaux, et Clevedale Veterinary Practice sur The Parade propose aussi un service d'urgence 24h/24. Enregistrez les deux numéros, car cette côte isolée est loin des grandes villes."
+        },
+        {
+          "q": "Ai-je besoin de documents pour emmener mon chien à Whitby depuis l'étranger ?",
+          "a": "Oui. La Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE. Les chiens venant de l'UE ont besoin d'un Animal Health Certificate britannique, d'une puce, d'une vaccination antirabique valide et d'un traitement contre le ténia administré 24 à 120 heures avant l'arrivée. Organisez cela avec votre vétérinaire avant de partir."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario de urgencias en Whitby?",
+          "a": "Sí. The Beck Veterinary Practice en High Stakesby ofrece guardia de urgencias 24 horas para mascotas, y Clevedale Veterinary Practice en The Parade también dispone de servicio de urgencias 24 horas. Guarda ambos números, ya que esta costa remota está lejos de poblaciones mayores."
+        },
+        {
+          "q": "¿Necesito documentos para traer a mi perro a Whitby desde el extranjero?",
+          "a": "Sí. Gran Bretaña no acepta el Pasaporte Europeo para Mascotas. Los perros que llegan de la UE necesitan un Animal Health Certificate británico, un microchip, una vacunación antirrábica válida y un tratamiento contra la tenia administrado entre 24 y 120 horas antes de la llegada. Organízalo con tu veterinario antes de viajar."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há veterinário de urgência em Whitby?",
+          "a": "Sim. The Beck Veterinary Practice em High Stakesby oferece serviço de urgência 24 horas para animais, e a Clevedale Veterinary Practice em The Parade também dispõe de serviço de urgência 24 horas. Guarde ambos os números, pois esta costa remota fica longe de povoações maiores."
+        },
+        {
+          "q": "Preciso de documentos para levar o meu cão para Whitby vindo do estrangeiro?",
+          "a": "Sim. A Grã-Bretanha não aceita o Passaporte Europeu para Animais. Os cães que chegam da UE precisam de um Animal Health Certificate britânico, um microchip, uma vacinação antirrábica válida e um tratamento contra a ténia administrado entre 24 e 120 horas antes da chegada. Trate disto com o seu veterinário antes de viajar."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Essential Tips for Visiting Whitby with a Dog",
+      "titleFr": "Conseils essentiels pour visiter Whitby avec un chien",
+      "titleEs": "Consejos esenciales para visitar Whitby con un perro",
+      "titlePt": "Dicas essenciais para visitar Whitby com um cão",
+      "introEn": "Whitby is a genuinely dog-loving town, but a few local realities are worth planning around: the seasonal beach ban, the steep cobbled hills, the busy Goth Weekends and the post-Brexit rules for bringing a dog into Great Britain. Get these right and Whitby is one of the most rewarding dog trips on the English coast.",
+      "introFr": "Whitby est une ville qui aime vraiment les chiens, mais quelques réalités locales méritent d'être anticipées : l'interdiction saisonnière des plages, les côtes pavées escarpées, les Goth Weekends très fréquentés et les règles post-Brexit pour amener un chien en Grande-Bretagne. Bien gérés, ces points font de Whitby l'un des séjours canins les plus gratifiants de la côte anglaise.",
+      "introEs": "Whitby es un pueblo que ama de verdad a los perros, pero conviene planificar algunas realidades locales: la prohibición estacional de la playa, las empinadas cuestas empedradas, los concurridos Goth Weekends y las normas post-Brexit para llevar un perro a Gran Bretaña. Con eso resuelto, Whitby es uno de los viajes con perro más gratificantes de la costa inglesa.",
+      "introPt": "Whitby é uma vila que ama verdadeiramente os cães, mas vale a pena planear algumas realidades locais: a proibição sazonal da praia, as íngremes subidas de calçada, os movimentados Goth Weekends e as regras pós-Brexit para levar um cão para a Grã-Bretanha. Resolvido isso, Whitby é uma das viagens com cão mais gratificantes da costa inglesa.",
+      "sections": [
+        {
+          "titleEn": "Bringing your dog into Great Britain (post-Brexit)",
+          "titleFr": "Amener votre chien en Grande-Bretagne (post-Brexit)",
+          "titleEs": "Llevar a tu perro a Gran Bretaña (tras el Brexit)",
+          "titlePt": "Levar o seu cão para a Grã-Bretanha (pós-Brexit)",
+          "contentEn": "Since Brexit, Great Britain no longer accepts the EU Pet Passport for entry. Dogs arriving from the EU need a GB Animal Health Certificate (AHC) issued by an official vet within 10 days of travel, plus a microchip and a valid rabies vaccination, and dogs also need an approved tapeworm (Echinococcus) treatment recorded 24 to 120 hours before arrival. A GB pet passport issued in Great Britain is also valid. Arrange this with your vet before you leave, as it cannot be done on arrival.",
+          "contentFr": "Depuis le Brexit, la Grande-Bretagne n'accepte plus le passeport pour animaux de l'UE à l'entrée. Les chiens venant de l'UE ont besoin d'un Animal Health Certificate (AHC) britannique délivré par un vétérinaire officiel dans les 10 jours précédant le voyage, d'une puce et d'une vaccination antirabique valide, et les chiens doivent aussi recevoir un traitement approuvé contre le ténia (Echinococcus) consigné 24 à 120 heures avant l'arrivée. Un passeport pour animaux émis en Grande-Bretagne est également valable. Organisez cela avec votre vétérinaire avant de partir, car cela ne peut pas se faire à l'arrivée.",
+          "contentEs": "Desde el Brexit, Gran Bretaña ya no acepta el Pasaporte Europeo para Mascotas en la entrada. Los perros que llegan de la UE necesitan un Animal Health Certificate (AHC) británico emitido por un veterinario oficial en los 10 días previos al viaje, más un microchip y una vacunación antirrábica válida, y los perros también necesitan un tratamiento aprobado contra la tenia (Echinococcus) registrado entre 24 y 120 horas antes de la llegada. Un pasaporte para mascotas emitido en Gran Bretaña también es válido. Organiza esto con tu veterinario antes de salir, porque no puede hacerse a la llegada.",
+          "contentPt": "Desde o Brexit, a Grã-Bretanha já não aceita o Passaporte Europeu para Animais na entrada. Os cães que chegam da UE precisam de um Animal Health Certificate (AHC) britânico emitido por um veterinário oficial nos 10 dias anteriores à viagem, mais um microchip e uma vacinação antirrábica válida, e os cães também precisam de um tratamento aprovado contra a ténia (Echinococcus) registado entre 24 e 120 horas antes da chegada. Um passaporte para animais emitido na Grã-Bretanha também é válido. Trate disto com o seu veterinário antes de sair, porque não pode ser feito à chegada."
+        },
+        {
+          "titleEn": "Planning around the beach dog rules",
+          "titleFr": "S'organiser autour des règles des plages canines",
+          "titleEs": "Planificar en torno a las normas de las playas caninas",
+          "titlePt": "Planear em torno das regras das praias caninas",
+          "contentEn": "Whitby's main West Cliff beach (Whitby Sands) and the main section of Sandsend are dog exclusion zones from 1 May to 30 September under North Yorkshire Council's PSPO, with a £100 fine for breaches. Plan around it: Tate Hill Sands stays open all year (on a lead in summer), the outer stretches of Sandsend are year-round, and Runswick Bay has no ban at all. Off-season, from October to April, the main beaches reopen to dogs. Always read the signs on arrival, as the exclusion boundaries are marked on the beach.",
+          "contentFr": "La plage principale du West Cliff de Whitby (Whitby Sands) et la section principale de Sandsend sont des zones d'exclusion des chiens du 1er mai au 30 septembre en vertu du PSPO du North Yorkshire Council, avec une amende de 100 livres en cas d'infraction. Anticipez : Tate Hill Sands reste ouverte toute l'année (en laisse l'été), les portions extérieures de Sandsend le sont toute l'année, et Runswick Bay n'a aucune interdiction. Hors saison, d'octobre à avril, les plages principales rouvrent aux chiens. Lisez toujours les panneaux à l'arrivée, car les limites d'exclusion sont indiquées sur la plage.",
+          "contentEs": "La playa principal del West Cliff de Whitby (Whitby Sands) y la sección principal de Sandsend son zonas de exclusión de perros del 1 de mayo al 30 de septiembre bajo el PSPO del North Yorkshire Council, con multa de 100 libras por incumplir. Planifícalo: Tate Hill Sands sigue abierta todo el año (con correa en verano), los tramos exteriores de Sandsend lo están todo el año, y Runswick Bay no tiene ninguna prohibición. Fuera de temporada, de octubre a abril, las playas principales reabren a los perros. Lee siempre los carteles al llegar, ya que los límites de exclusión están marcados en la playa.",
+          "contentPt": "A praia principal do West Cliff de Whitby (Whitby Sands) e a secção principal de Sandsend são zonas de exclusão de cães de 1 de maio a 30 de setembro ao abrigo do PSPO do North Yorkshire Council, com multa de 100 libras por infração. Planeie em torno disso: a Tate Hill Sands continua aberta todo o ano (à trela no verão), os trechos exteriores de Sandsend estão-no todo o ano, e Runswick Bay não tem qualquer proibição. Fora de época, de outubro a abril, as praias principais reabrem aos cães. Leia sempre as placas à chegada, pois os limites de exclusão estão marcados na praia."
+        },
+        {
+          "titleEn": "When to visit and the weather",
+          "titleFr": "Quand venir et la météo",
+          "titleEs": "Cuándo visitar y el tiempo",
+          "titlePt": "Quando visitar e o tempo",
+          "contentEn": "Whitby has a cool oceanic climate tempered by the North Sea: mild but breezy, with winters usually around 5 to 7°C and summers around 17 to 18°C at their warmest, and a stiff coastal wind common year-round. Spring and autumn are lovely for a dog, with quieter streets and the main beaches open to dogs outside the summer ban. If you come in July or August, use Runswick Bay or Tate Hill and avoid the busiest crush of the Goth Weekends if you have a nervous dog.",
+          "contentFr": "Whitby a un climat océanique frais tempéré par la mer du Nord : doux mais venteux, avec des hivers généralement autour de 5 à 7°C et des étés autour de 17 à 18°C au plus chaud, et un vent côtier soutenu fréquent toute l'année. Le printemps et l'automne sont agréables avec un chien, avec des rues plus calmes et les plages principales ouvertes aux chiens hors interdiction estivale. Si vous venez en juillet ou août, privilégiez Runswick Bay ou Tate Hill et évitez la plus grosse affluence des Goth Weekends si votre chien est craintif.",
+          "contentEs": "Whitby tiene un clima oceánico fresco templado por el mar del Norte: suave pero ventoso, con inviernos normalmente en torno a 5 a 7°C y veranos alrededor de 17 a 18°C en lo más cálido, y un viento costero fuerte frecuente todo el año. La primavera y el otoño son encantadores con un perro, con calles más tranquilas y las playas principales abiertas a los perros fuera de la prohibición estival. Si vienes en julio o agosto, usa Runswick Bay o Tate Hill y evita la mayor aglomeración de los Goth Weekends si tu perro es nervioso.",
+          "contentPt": "Whitby tem um clima oceânico fresco temperado pelo mar do Norte: ameno mas ventoso, com invernos normalmente entre 5 e 7°C e verões à volta de 17 a 18°C no máximo, e um vento costeiro forte frequente todo o ano. A primavera e o outono são encantadores com um cão, com ruas mais tranquilas e as praias principais abertas aos cães fora da proibição de verão. Se vier em julho ou agosto, use Runswick Bay ou Tate Hill e evite a maior enchente dos Goth Weekends se tiver um cão nervoso."
+        }
+      ],
+      "places": [],
+      "tipsEn": [
+        "Save a local emergency vet number before you arrive; this stretch of coast is a long way from big towns.",
+        "In summer, plan beach days around Runswick Bay and Tate Hill, as Whitby Sands and central Sandsend ban dogs from 1 May to 30 September.",
+        "The old-town hills and the 199 Steps are steep and cobbled, so bring water and go gently with older or small dogs.",
+        "Whitby's twice-yearly Goth Weekends bring big, costumed crowds and fireworks; check the dates and avoid them if your dog is anxious.",
+        "Keep dogs on a lead on the Cleveland Way cliff paths, where the unfenced drops to the sea are sheer."
+      ],
+      "tipsFr": [
+        "Enregistrez un numéro de vétérinaire d'urgence local avant d'arriver : cette côte est loin des grandes villes.",
+        "L'été, organisez vos journées de plage autour de Runswick Bay et Tate Hill, car Whitby Sands et le centre de Sandsend interdisent les chiens du 1er mai au 30 septembre.",
+        "Les côtes de la vieille ville et les 199 marches sont raides et pavées : emportez de l'eau et ménagez les chiens âgés ou petits.",
+        "Les Goth Weekends semestriels de Whitby amènent une grande foule costumée et des feux d'artifice ; vérifiez les dates et évitez-les si votre chien est anxieux.",
+        "Tenez les chiens en laisse sur les sentiers de falaise du Cleveland Way, où les à-pics sans barrière vers la mer sont abrupts."
+      ],
+      "tipsEs": [
+        "Guarda un número de veterinario de urgencias local antes de llegar; esta costa está lejos de las grandes poblaciones.",
+        "En verano, organiza los días de playa en torno a Runswick Bay y Tate Hill, ya que Whitby Sands y el centro de Sandsend prohíben los perros del 1 de mayo al 30 de septiembre.",
+        "Las cuestas del casco antiguo y los 199 escalones son empinados y empedrados, así que lleva agua y ve con calma con perros mayores o pequeños.",
+        "Los Goth Weekends semestrales de Whitby traen grandes multitudes disfrazadas y fuegos artificiales; comprueba las fechas y evítalos si tu perro es ansioso.",
+        "Manten a los perros con correa en los senderos de acantilado del Cleveland Way, donde las caídas sin vallar al mar son verticales."
+      ],
+      "tipsPt": [
+        "Guarde um número de veterinário de urgência local antes de chegar; esta costa fica longe das grandes povoações.",
+        "No verão, organize os dias de praia em torno de Runswick Bay e Tate Hill, pois Whitby Sands e o centro de Sandsend proíbem cães de 1 de maio a 30 de setembro.",
+        "As subidas da cidade velha e os 199 Degraus são íngremes e de calçada, por isso leve água e vá com calma com cães idosos ou pequenos.",
+        "Os Goth Weekends semestrais de Whitby trazem grandes multidões mascaradas e fogo de artifício; verifique as datas e evite-os se o seu cão for ansioso.",
+        "Mantenha os cães à trela nos trilhos de falésia do Cleveland Way, onde as quedas sem vedação para o mar são a pique."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Whitby a good place for a dog holiday?",
+          "a": "Very much so. Whitby is a compact, dog-loving seaside town with dog-friendly pubs, cliff walks, boat trips and several dog-friendly beaches. The main thing to plan around is the 1 May to 30 September beach ban on the central sands, which is easily worked around."
+        },
+        {
+          "q": "When is the best time to visit Whitby with a dog?",
+          "a": "Spring and autumn are ideal: mild, quieter and with the main beaches open to dogs outside the summer ban. Summer still works well if you use Runswick Bay and Tate Hill, but expect crowds, especially on the Goth Weekends."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Whitby est-elle un bon endroit pour des vacances avec un chien ?",
+          "a": "Tout à fait. Whitby est une station balnéaire compacte qui aime les chiens, avec des pubs dog-friendly, des promenades sur les falaises, des sorties en bateau et plusieurs plages accueillant les chiens. Le principal point à anticiper est l'interdiction du 1er mai au 30 septembre sur les sables centraux, facile à contourner."
+        },
+        {
+          "q": "Quelle est la meilleure période pour visiter Whitby avec un chien ?",
+          "a": "Le printemps et l'automne sont idéaux : doux, plus calmes et avec les plages principales ouvertes aux chiens hors interdiction estivale. L'été fonctionne bien aussi en utilisant Runswick Bay et Tate Hill, mais attendez-vous à la foule, surtout pendant les Goth Weekends."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Whitby un buen lugar para unas vacaciones con perro?",
+          "a": "Mucho. Whitby es un pueblo costero compacto que ama a los perros, con pubs pet-friendly, paseos por los acantilados, excursiones en barco y varias playas que admiten perros. Lo principal a planificar es la prohibición del 1 de mayo al 30 de septiembre en las arenas centrales, fácil de sortear."
+        },
+        {
+          "q": "¿Cuándo es la mejor época para visitar Whitby con un perro?",
+          "a": "La primavera y el otoño son ideales: suaves, más tranquilos y con las playas principales abiertas a los perros fuera de la prohibición estival. El verano también funciona bien usando Runswick Bay y Tate Hill, pero espera aglomeraciones, sobre todo en los Goth Weekends."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Whitby é um bom sítio para umas férias com cão?",
+          "a": "Muito. Whitby é uma vila costeira compacta que adora cães, com pubs dog-friendly, passeios pelas falésias, saídas de barco e várias praias que aceitam cães. O principal a planear é a proibição de 1 de maio a 30 de setembro nos areais centrais, fácil de contornar."
+        },
+        {
+          "q": "Qual é a melhor altura para visitar Whitby com um cão?",
+          "a": "A primavera e o outono são ideais: amenos, mais tranquilos e com as praias principais abertas aos cães fora da proibição de verão. O verão também funciona bem usando Runswick Bay e Tate Hill, mas conte com multidões, sobretudo nos Goth Weekends."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Whitby",
+      "titleFr": "Attractions accueillant les chiens à Whitby",
+      "titleEs": "Atracciones que admiten perros en Whitby",
+      "titlePt": "Atrações que aceitam cães em Whitby",
+      "introEn": "Whitby wears its history on the outside, so much of what makes it special can be enjoyed with a dog at your side: the abbey ruins on the headland, the climb up the 199 Steps, the harbour and its boats, and the Gothic atmosphere that inspired Bram Stoker's Dracula. Most of the town's highlights are open-air and dog-friendly, and even Whitby Abbey welcomes dogs on a short lead in its grounds. The three below are the essentials for a first visit with a dog.",
+      "introFr": "Whitby porte son histoire à ciel ouvert : l'essentiel de ce qui fait son charme se savoure avec un chien à ses côtés : les ruines de l'abbaye sur la falaise, la montée des 199 marches, le port et ses bateaux, et l'atmosphère gothique qui inspira le Dracula de Bram Stoker. La plupart des points forts de la ville sont en plein air et acceptent les chiens, et même l'abbaye de Whitby accueille les chiens tenus en laisse courte dans son enceinte. Les trois adresses ci-dessous sont incontournables pour une première visite avec un chien.",
+      "introEs": "Whitby lleva su historia por fuera, así que gran parte de lo que la hace especial se disfruta con un perro al lado: las ruinas de la abadía en el promontorio, la subida por los 199 escalones, el puerto y sus barcos, y el ambiente gótico que inspiró el Drácula de Bram Stoker. La mayoría de los atractivos del pueblo son al aire libre y admiten perros, e incluso la Abadía de Whitby recibe perros con correa corta en su recinto. Los tres de abajo son lo esencial para una primera visita con un perro.",
+      "introPt": "Whitby traz a sua história à vista, por isso muito do que a torna especial desfruta-se com um cão ao lado: as ruínas da abadia no promontório, a subida pelos 199 Degraus, o porto e os seus barcos, e o ambiente gótico que inspirou o Drácula de Bram Stoker. A maioria dos pontos altos da vila é ao ar livre e aceita cães, e até a Abadia de Whitby recebe cães à trela curta no seu recinto. Os três abaixo são o essencial para uma primeira visita com um cão.",
+      "places": [
+        {
+          "name": "Whitby Abbey (English Heritage)",
+          "neighborhood": "East Cliff headland, above the 199 Steps",
+          "photo": "/images/city-places/whitby-attractions-whitby-abbey.jpg",
+          "website": "https://www.english-heritage.org.uk/visit/places/whitby-abbey/",
+          "description": "The dramatic ruins of Whitby Abbey crown the East Cliff headland above the town, a haunting Gothic silhouette that helped inspire Bram Stoker's Dracula. Well-behaved dogs on short leads are welcome across the abbey grounds, as are assistance dogs, so you and your dog can wander the ruins and take in the sweeping views over the harbour together.",
+          "descriptionFr": "Les ruines spectaculaires de l'abbaye de Whitby couronnent la falaise du East Cliff au-dessus de la ville, une silhouette gothique envoûtante qui inspira en partie le Dracula de Bram Stoker. Les chiens bien élevés tenus en laisse courte sont les bienvenus dans l'enceinte de l'abbaye, tout comme les chiens d'assistance : vous pouvez donc arpenter les ruines et profiter ensemble des vastes vues sur le port.",
+          "descriptionEs": "Las espectaculares ruinas de la Abadía de Whitby coronan el promontorio del East Cliff sobre el pueblo, una inquietante silueta gótica que ayudó a inspirar el Drácula de Bram Stoker. Los perros bien educados con correa corta son bienvenidos por todo el recinto de la abadía, al igual que los perros de asistencia, así que tú y tu perro podéis recorrer las ruinas y disfrutar juntos de las amplias vistas al puerto.",
+          "descriptionPt": "As espetaculares ruínas da Abadia de Whitby coroam o promontório do East Cliff sobre a vila, uma silhueta gótica assombrosa que ajudou a inspirar o Drácula de Bram Stoker. Os cães bem-comportados à trela curta são bem-vindos em todo o recinto da abadia, tal como os cães de assistência, por isso você e o seu cão podem percorrer as ruínas e apreciar juntos as amplas vistas sobre o porto.",
+          "dogPolicy": "Dogs on short leads welcome in the grounds",
+          "dogPolicyFr": "Chiens en laisse courte acceptés dans l'enceinte",
+          "dogPolicyEs": "Perros con correa corta admitidos en el recinto",
+          "dogPolicyPt": "Cães à trela curta bem-vindos no recinto",
+          "admissionFee": "English Heritage admission applies; free for members",
+          "admissionFeeFr": "Entrée English Heritage payante ; gratuite pour les membres",
+          "admissionFeeEs": "Entrada de English Heritage de pago; gratis para socios",
+          "admissionFeePt": "Entrada English Heritage paga; grátis para membros",
+          "tip": "Dogs are welcome in the grounds but not usually inside the visitor centre or museum, so plan for one person to step in if you want to visit those.",
+          "tipFr": "Les chiens sont admis dans l'enceinte mais généralement pas dans le centre d'accueil ou le musée : prévoyez qu'une personne y entre à tour de rôle si vous voulez les visiter.",
+          "tipEs": "Los perros son bienvenidos en el recinto pero normalmente no dentro del centro de visitantes o el museo, así que prevé que una persona entre por turnos si queréis visitarlos.",
+          "tipPt": "Os cães são bem-vindos no recinto mas normalmente não dentro do centro de visitantes ou do museu, por isso prevejam que uma pessoa entre à vez se quiserem visitá-los.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Whitby+Abbey"
+        },
+        {
+          "name": "The 199 Steps and St Mary's Church",
+          "neighborhood": "East Cliff, between the old town and the abbey",
+          "photo": "/images/city-places/whitby-attractions-199-steps.jpg",
+          "website": "https://whitby.co.uk/whitby-199-steps/",
+          "description": "The famous 199 Steps climb from the old town up to St Mary's Church and the abbey headland, a Whitby ritual that most dogs happily bound up. The steps and the atmospheric churchyard, with its weathered gravestones and sweeping views, are all outdoors and dog-friendly, and the climb is rewarded with one of the best panoramas on the Yorkshire coast.",
+          "descriptionFr": "Les célèbres 199 marches grimpent de la vieille ville jusqu'à l'église St Mary et la falaise de l'abbaye, un rituel de Whitby que la plupart des chiens gravissent avec joie. Les marches et le cimetière atmosphérique, avec ses pierres tombales patinées et ses vues panoramiques, sont en plein air et acceptent les chiens, et l'effort est récompensé par l'un des plus beaux panoramas de la côte du Yorkshire.",
+          "descriptionEs": "Los famosos 199 escalones suben desde el casco antiguo hasta la iglesia de St Mary y el promontorio de la abadía, un ritual de Whitby que la mayoría de los perros suben encantados. Los escalones y el atmosférico cementerio, con sus lápidas desgastadas y sus amplias vistas, son al aire libre y admiten perros, y el esfuerzo se premia con uno de los mejores panoramas de la costa de Yorkshire.",
+          "descriptionPt": "Os famosos 199 Degraus sobem da cidade velha até à igreja de St Mary e ao promontório da abadia, um ritual de Whitby que a maioria dos cães sobe com alegria. Os degraus e o atmosférico adro, com as suas lápides gastas e vistas amplas, são ao ar livre e aceitam cães, e o esforço é recompensado com um dos melhores panoramas da costa de Yorkshire.",
+          "dogPolicy": "Open-air steps and churchyard, dogs on a lead welcome",
+          "dogPolicyFr": "Marches et cimetière en plein air, chiens en laisse acceptés",
+          "dogPolicyEs": "Escalones y cementerio al aire libre, perros con correa admitidos",
+          "dogPolicyPt": "Degraus e adro ao ar livre, cães à trela bem-vindos",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "admissionFeePt": "Grátis",
+          "tip": "There are benches (the old coffin rests) along the way, handy for a breather with an older dog on the climb up.",
+          "tipFr": "Des bancs (les anciens reposoirs à cercueils) jalonnent la montée, pratiques pour souffler avec un chien âgé.",
+          "tipEs": "Hay bancos (los antiguos descansos de ataúdes) a lo largo de la subida, útiles para tomar aire con un perro mayor.",
+          "tipPt": "Há bancos (os antigos descansos de caixões) ao longo da subida, úteis para uma pausa com um cão idoso.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=199+Steps+Whitby"
+        },
+        {
+          "name": "Whitby Harbour and boat trips",
+          "neighborhood": "Harbourside, either side of the swing bridge",
+          "photo": "/images/city-places/whitby-attractions-whitby-harbour.jpg",
+          "website": "https://www.visitwhitby.com/",
+          "description": "The working harbour is the heart of Whitby, with fishing boats, the swing bridge, the whalebone arch and the Captain Cook statue up on the West Cliff. Several operators run short pleasure cruises and coastal sightseeing trips from the quay that welcome well-behaved dogs on deck, a memorable outing that no beach restriction touches.",
+          "descriptionFr": "Le port en activité est le cœur de Whitby, avec ses bateaux de pêche, le pont tournant, l'arche en os de baleine et la statue du capitaine Cook sur le West Cliff. Plusieurs opérateurs proposent depuis le quai de courtes croisières d'agrément et des sorties côtières qui acceptent les chiens bien élevés sur le pont, une sortie mémorable qu'aucune restriction de plage n'atteint.",
+          "descriptionEs": "El puerto en activo es el corazón de Whitby, con sus barcos de pesca, el puente giratorio, el arco de hueso de ballena y la estatua del capitán Cook en el West Cliff. Varios operadores ofrecen desde el muelle cortos cruceros de recreo y salidas costeras que admiten perros educados en cubierta, una salida memorable que ninguna restricción de playa toca.",
+          "descriptionPt": "O porto em atividade é o coração de Whitby, com os seus barcos de pesca, a ponte giratória, o arco de osso de baleia e a estátua do capitão Cook no West Cliff. Vários operadores oferecem a partir do cais curtos cruzeiros de recreio e saídas costeiras que aceitam cães bem-comportados no convés, uma saída memorável que nenhuma restrição de praia afeta.",
+          "dogPolicy": "Harbour is open-air; many boat trips welcome dogs on a lead on deck",
+          "dogPolicyFr": "Le port est en plein air ; beaucoup d'excursions en bateau acceptent les chiens en laisse sur le pont",
+          "dogPolicyEs": "El puerto es al aire libre; muchas excursiones en barco admiten perros con correa en cubierta",
+          "dogPolicyPt": "O porto é ao ar livre; muitos passeios de barco aceitam cães à trela no convés",
+          "admissionFee": "Harbour free; boat trips charged per trip",
+          "admissionFeeFr": "Port gratuit ; excursions en bateau payantes",
+          "admissionFeeEs": "Puerto gratis; excursiones en barco de pago",
+          "admissionFeePt": "Porto grátis; passeios de barco pagos",
+          "tip": "Confirm the dog policy with the individual boat operator before boarding, and pick a calm day if your dog is wary of the water.",
+          "tipFr": "Confirmez la politique animaux auprès de l'opérateur du bateau avant d'embarquer, et choisissez une journée calme si votre chien se méfie de l'eau.",
+          "tipEs": "Confirma la política de perros con el operador del barco antes de embarcar, y elige un día tranquilo si tu perro desconfía del agua.",
+          "tipPt": "Confirme a política de cães com o operador do barco antes de embarcar, e escolha um dia calmo se o seu cão desconfiar da água.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Whitby+Harbour"
+        }
+      ],
+      "tipsEn": [
+        "Almost everything worth seeing in Whitby is outdoors and dog-friendly, so a dog rarely holds you back here.",
+        "For indoor stops like the abbey museum or a fish restaurant, plan to take turns so one person waits outside with the dog.",
+        "The harbourside and 199 Steps get very busy at peak times, so early or late in the day is calmer for a nervous dog."
+      ],
+      "tipsFr": [
+        "Presque tout ce qui vaut le détour à Whitby est en plein air et accepte les chiens : un chien vous freine rarement ici.",
+        "Pour les visites en intérieur comme le musée de l'abbaye ou un restaurant de poisson, prévoyez de vous relayer pour qu'une personne attende dehors avec le chien.",
+        "Le port et les 199 marches sont très fréquentés aux heures de pointe : tôt ou tard dans la journée, c'est plus calme pour un chien craintif."
+      ],
+      "tipsEs": [
+        "Casi todo lo que merece la pena ver en Whitby es al aire libre y admite perros, así que un perro rara vez te frena aquí.",
+        "Para paradas de interior como el museo de la abadía o un restaurante de pescado, prevé turnaros para que una persona espere fuera con el perro.",
+        "El puerto y los 199 escalones se llenan mucho en horas punta, así que temprano o al final del día es más tranquilo para un perro nervioso."
+      ],
+      "tipsPt": [
+        "Quase tudo o que vale a pena ver em Whitby é ao ar livre e aceita cães, por isso um cão raramente o atrasa aqui.",
+        "Para paragens interiores como o museu da abadia ou um restaurante de peixe, prevejam revezar-se para que uma pessoa espere fora com o cão.",
+        "O porto e os 199 Degraus ficam muito cheios nas horas de ponta, por isso cedo ou ao fim do dia é mais tranquilo para um cão nervoso."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed at Whitby Abbey?",
+          "a": "Yes. Well-behaved dogs on short leads are welcome in the abbey grounds, as are assistance dogs. Dogs are not usually allowed inside the indoor visitor centre or museum, so plan to take turns if you want to go in."
+        },
+        {
+          "q": "Can I take my dog up the 199 Steps and around the harbour?",
+          "a": "Absolutely. The 199 Steps, St Mary's churchyard and the whole harbour area are open-air and dog-friendly on a lead. Many harbour boat trips also welcome dogs on deck, though it is worth confirming with the operator first."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis à l'abbaye de Whitby ?",
+          "a": "Oui. Les chiens bien élevés tenus en laisse courte sont les bienvenus dans l'enceinte de l'abbaye, ainsi que les chiens d'assistance. Les chiens ne sont généralement pas admis dans le centre d'accueil ou le musée : prévoyez de vous relayer si vous voulez entrer."
+        },
+        {
+          "q": "Puis-je monter les 199 marches et faire le tour du port avec mon chien ?",
+          "a": "Absolument. Les 199 marches, le cimetière de St Mary et toute la zone du port sont en plein air et acceptent les chiens en laisse. Beaucoup d'excursions en bateau acceptent aussi les chiens sur le pont, mais mieux vaut le confirmer d'abord avec l'opérateur."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros en la Abadía de Whitby?",
+          "a": "Sí. Los perros bien educados con correa corta son bienvenidos en el recinto de la abadía, al igual que los perros de asistencia. Los perros no suelen admitirse dentro del centro de visitantes o el museo, así que prevé turnaros si quieres entrar."
+        },
+        {
+          "q": "¿Puedo subir los 199 escalones y recorrer el puerto con mi perro?",
+          "a": "Por supuesto. Los 199 escalones, el cementerio de St Mary y toda la zona del puerto son al aire libre y admiten perros con correa. Muchas excursiones en barco también admiten perros en cubierta, aunque conviene confirmarlo antes con el operador."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães são admitidos na Abadia de Whitby?",
+          "a": "Sim. Os cães bem-comportados à trela curta são bem-vindos no recinto da abadia, tal como os cães de assistência. Os cães normalmente não são admitidos dentro do centro de visitantes ou do museu, por isso prevejam revezar-se se quiserem entrar."
+        },
+        {
+          "q": "Posso subir os 199 Degraus e percorrer o porto com o meu cão?",
+          "a": "Sem dúvida. Os 199 Degraus, o adro de St Mary e toda a zona do porto são ao ar livre e aceitam cães à trela. Muitos passeios de barco no porto também aceitam cães no convés, embora valha a pena confirmar primeiro com o operador."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitting and Boarding in Whitby",
+      "titleFr": "Garde et pension pour chiens à Whitby",
+      "titleEs": "Cuidado y alojamiento de perros en Whitby",
+      "titlePt": "Guarda e alojamento de cães em Whitby",
+      "introEn": "Whitby is such a dog-friendly town that you rarely need to leave your dog behind, but for the occasional indoor attraction, a long boat trip or a meal somewhere dogs are not allowed, there are local sitters, walkers and licensed home boarders around the town and nearby villages. Book ahead in the busy summer season and around the Goth Weekends, and always confirm licensing and insurance. The options below are established local services.",
+      "introFr": "Whitby est une ville si accueillante pour les chiens que vous avez rarement besoin de laisser le vôtre, mais pour une attraction en intérieur, une longue sortie en bateau ou un repas dans un lieu qui n'accepte pas les chiens, il existe des gardiens, promeneurs et pensions familiales agréées en ville et dans les villages voisins. Réservez à l'avance en pleine saison estivale et autour des Goth Weekends, et vérifiez toujours l'agrément et l'assurance. Les options ci-dessous sont des services locaux établis.",
+      "introEs": "Whitby es un pueblo tan pet-friendly que rara vez necesitas dejar a tu perro, pero para alguna atracción de interior, una salida larga en barco o una comida donde no se admiten perros, hay cuidadores, paseadores y alojamientos caninos familiares con licencia en el pueblo y los pueblos cercanos. Reserva con antelación en la concurrida temporada estival y en torno a los Goth Weekends, y confirma siempre licencia y seguro. Las opciones de abajo son servicios locales consolidados.",
+      "introPt": "Whitby é uma vila tão dog-friendly que raramente precisa de deixar o seu cão, mas para uma atração interior, uma longa saída de barco ou uma refeição onde não se aceitam cães, há cuidadores, passeadores e alojamentos caninos familiares licenciados na vila e nas aldeias vizinhas. Reserve com antecedência na movimentada época de verão e em torno dos Goth Weekends, e confirme sempre o licenciamento e o seguro. As opções abaixo são serviços locais estabelecidos.",
+      "places": [
+        {
+          "name": "Paws 2 Claws Whitby",
+          "website": "https://paws2claws.yolasite.com/",
+          "description": "A family-run, fully insured pet services business based in Whitby offering dog walking, pet sitting, pet taxi and related services, with up-to-date DBS registration. A handy option for daytime cover while you visit an indoor attraction or take a dog-free outing.",
+          "descriptionFr": "Une entreprise de services pour animaux familiale et entièrement assurée basée à Whitby, proposant promenade de chiens, garde, taxi animalier et services associés, avec une déclaration DBS à jour. Une option pratique pour une garde en journée pendant que vous visitez une attraction en intérieur ou faites une sortie sans chien.",
+          "descriptionEs": "Un negocio familiar de servicios para mascotas totalmente asegurado con base en Whitby que ofrece paseo de perros, cuidado, taxi de mascotas y servicios relacionados, con registro DBS al día. Una opción práctica para cobertura diurna mientras visitas una atracción de interior o haces una salida sin perro.",
+          "descriptionPt": "Um negócio familiar de serviços para animais totalmente segurado com sede em Whitby que oferece passeio de cães, guarda, táxi de animais e serviços relacionados, com registo DBS atualizado. Uma opção prática para cobertura diurna enquanto visita uma atração interior ou faz uma saída sem cão.",
+          "serviceType": "Dog walking, pet sitting and pet taxi",
+          "serviceTypeFr": "Promenade de chiens, garde et taxi animalier",
+          "serviceTypeEs": "Paseo de perros, cuidado y taxi de mascotas",
+          "serviceTypePt": "Passeio de cães, guarda e táxi de animais",
+          "pricePerDay": "On request",
+          "languages": "English",
+          "tip": "Good for daytime dog walks or a pet taxi; contact ahead, especially in the busy summer months.",
+          "tipFr": "Idéal pour des promenades en journée ou un taxi animalier ; contactez à l'avance, surtout pendant les mois d'été chargés.",
+          "tipEs": "Bueno para paseos diurnos o un taxi de mascotas; contacta con antelación, sobre todo en los meses de verano concurridos.",
+          "tipPt": "Bom para passeios diurnos ou um táxi de animais; contacte com antecedência, sobretudo nos movimentados meses de verão."
+        },
+        {
+          "name": "Wagging Tails of Ellerby",
+          "website": "https://www.findpetboarding.com/homeboarding/profile/9758",
+          "description": "A licensed home boarding service near Whitby, in the village of Ellerby, offering holiday boarding and daycare in a home environment rather than kennels. Licensed by North Yorkshire Council, fully insured and vet registered, it is a reassuring option if you need overnight cover during a longer trip.",
+          "descriptionFr": "Un service de pension à domicile agréé près de Whitby, dans le village d'Ellerby, proposant pension de vacances et garderie dans un cadre familial plutôt qu'en chenil. Agréé par le North Yorkshire Council, entièrement assuré et enregistré auprès d'un vétérinaire, c'est une option rassurante si vous avez besoin d'une garde de nuit lors d'un séjour plus long.",
+          "descriptionEs": "Un servicio de alojamiento en casa con licencia cerca de Whitby, en el pueblo de Ellerby, que ofrece alojamiento vacacional y guardería en un entorno doméstico en lugar de residencia canina. Con licencia del North Yorkshire Council, totalmente asegurado y registrado con veterinario, es una opción tranquilizadora si necesitas cobertura nocturna en un viaje más largo.",
+          "descriptionPt": "Um serviço de alojamento familiar licenciado perto de Whitby, na aldeia de Ellerby, que oferece alojamento de férias e creche num ambiente doméstico em vez de canil. Licenciado pelo North Yorkshire Council, totalmente segurado e registado com veterinário, é uma opção tranquilizadora se precisar de cobertura noturna numa viagem mais longa.",
+          "serviceType": "Licensed home boarding and daycare",
+          "serviceTypeFr": "Pension à domicile agréée et garderie",
+          "serviceTypeEs": "Alojamiento en casa con licencia y guardería",
+          "serviceTypePt": "Alojamento familiar licenciado e creche",
+          "pricePerDay": "On request",
+          "languages": "English",
+          "tip": "Home boarding books up fast in summer; enquire well ahead if you need overnight cover during your stay.",
+          "tipFr": "La pension à domicile se remplit vite l'été ; renseignez-vous bien à l'avance si vous avez besoin d'une garde de nuit pendant votre séjour.",
+          "tipEs": "El alojamiento en casa se llena rápido en verano; consulta con bastante antelación si necesitas cobertura nocturna durante tu estancia.",
+          "tipPt": "O alojamento familiar enche depressa no verão; informe-se com bastante antecedência se precisar de cobertura noturna durante a estadia."
+        }
+      ],
+      "tipsEn": [
+        "Book sitters and home boarders well ahead for summer weekends and the Goth Weekends, when demand peaks.",
+        "Always confirm the service is licensed by North Yorkshire Council and insured before you leave your dog.",
+        "For most of Whitby you will not need a sitter at all, as dogs are welcome almost everywhere outdoors and in many pubs."
+      ],
+      "tipsFr": [
+        "Réservez gardiens et pensions à domicile bien à l'avance pour les week-ends d'été et les Goth Weekends, quand la demande culmine.",
+        "Vérifiez toujours que le service est agréé par le North Yorkshire Council et assuré avant de laisser votre chien.",
+        "Pour l'essentiel de Whitby, vous n'aurez pas besoin de gardien, les chiens étant admis presque partout en extérieur et dans de nombreux pubs."
+      ],
+      "tipsEs": [
+        "Reserva cuidadores y alojamientos en casa con bastante antelación para los fines de semana de verano y los Goth Weekends, cuando la demanda es máxima.",
+        "Confirma siempre que el servicio tiene licencia del North Yorkshire Council y seguro antes de dejar a tu perro.",
+        "Para la mayor parte de Whitby no necesitarás cuidador, ya que los perros son bienvenidos casi en todas partes al aire libre y en muchos pubs."
+      ],
+      "tipsPt": [
+        "Reserve cuidadores e alojamentos familiares com bastante antecedência para os fins de semana de verão e os Goth Weekends, quando a procura é máxima.",
+        "Confirme sempre que o serviço é licenciado pelo North Yorkshire Council e segurado antes de deixar o seu cão.",
+        "Para a maior parte de Whitby não precisará de cuidador, pois os cães são bem-vindos quase por todo o lado ao ar livre e em muitos pubs."
+      ],
+      "faqsEn": [
+        {
+          "q": "Do I need a dog sitter in Whitby?",
+          "a": "Usually not. Whitby is exceptionally dog-friendly, with dogs welcome on most walks, at the abbey grounds and in many pubs. A sitter or home boarder is mainly useful for the occasional indoor attraction or a longer dog-free outing."
+        },
+        {
+          "q": "Are there licensed dog boarders near Whitby?",
+          "a": "Yes. There are North Yorkshire Council licensed home boarders in Whitby and the surrounding villages, such as Wagging Tails of Ellerby, offering care in a home rather than kennels. Book ahead in summer and confirm licensing and insurance."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Ai-je besoin d'un gardien pour chien à Whitby ?",
+          "a": "En général non. Whitby est exceptionnellement accueillante pour les chiens, admis sur la plupart des promenades, dans l'enceinte de l'abbaye et dans de nombreux pubs. Un gardien ou une pension à domicile sert surtout pour une attraction en intérieur occasionnelle ou une sortie plus longue sans chien."
+        },
+        {
+          "q": "Y a-t-il des pensions pour chiens agréées près de Whitby ?",
+          "a": "Oui. Il existe des pensions à domicile agréées par le North Yorkshire Council à Whitby et dans les villages alentour, comme Wagging Tails of Ellerby, offrant une garde en cadre familial plutôt qu'en chenil. Réservez à l'avance l'été et vérifiez l'agrément et l'assurance."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Necesito un cuidador de perros en Whitby?",
+          "a": "Normalmente no. Whitby es excepcionalmente pet-friendly, con perros admitidos en la mayoría de los paseos, en el recinto de la abadía y en muchos pubs. Un cuidador o alojamiento en casa sirve sobre todo para alguna atracción de interior o una salida más larga sin perro."
+        },
+        {
+          "q": "¿Hay alojamientos caninos con licencia cerca de Whitby?",
+          "a": "Sí. Hay alojamientos en casa con licencia del North Yorkshire Council en Whitby y los pueblos de alrededor, como Wagging Tails of Ellerby, que ofrecen cuidado en un hogar en vez de residencia. Reserva con antelación en verano y confirma licencia y seguro."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Preciso de um cuidador de cães em Whitby?",
+          "a": "Normalmente não. Whitby é excecionalmente dog-friendly, com cães admitidos na maioria dos passeios, no recinto da abadia e em muitos pubs. Um cuidador ou alojamento familiar serve sobretudo para uma atração interior ocasional ou uma saída mais longa sem cão."
+        },
+        {
+          "q": "Há alojamentos caninos licenciados perto de Whitby?",
+          "a": "Sim. Há alojamentos familiares licenciados pelo North Yorkshire Council em Whitby e nas aldeias em redor, como o Wagging Tails of Ellerby, que oferecem cuidado num lar em vez de canil. Reserve com antecedência no verão e confirme o licenciamento e o seguro."
+        }
+      ]
+    }
+  }
+}

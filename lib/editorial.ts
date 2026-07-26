@@ -1762,6 +1762,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Łazienki Park, the Vistula riverside boulevards, and the Kampinos forest on the city\'s edge',
       area: 'Śródmieście, Praga, and the Powiśle riverside district',
     },
+    whitby: {
+      personality: `one of England's most dog-loving seaside towns, a historic North Yorkshire fishing port where dogs are welcome across the abbey headland, along the cliff paths and in most old-town pubs, and travel free on the Esk Valley Line train`,
+      highlight: `the ruined Whitby Abbey on the East Cliff, the climb up the 199 Steps, and the year-round dog beaches at Tate Hill, Sandsend and Runswick Bay`,
+      area: `the old town around Church Street and the harbour, the West Cliff, and the abbey headland above the 199 Steps`,
+    },
     windermere: {
       personality: `England's largest lake in the heart of the Lake District, where dogs are welcome on nearly every fell and footpath, travel free on the trains and lake cruises, and are the norm in the pubs of Bowness`,
       highlight: `the Orrest Head viewpoint climb, the National Trust lakeshore at Fell Foot, and the dog-friendly Windermere Lake Cruises`,
@@ -3693,6 +3698,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'une capitale européenne en pleine modernisation où les hôtels pet-friendly sont de plus en plus la norme et les parcs riverains offrent d\'excellentes promenades',
       highlight: 'le Parc Łazienki, les boulevards riverains de la Vistule et la forêt de Kampinos en périphérie',
       area: 'Śródmieście, Praga et le quartier riverain de Powiśle',
+    },
+    whitby: {
+      personality: `l'une des stations balnéaires d'Angleterre les plus accueillantes pour les chiens, un port de pêche historique du North Yorkshire où les chiens sont les bienvenus sur la falaise de l'abbaye, le long des sentiers côtiers et dans la plupart des pubs de la vieille ville, et voyagent gratuitement sur la ligne Esk Valley`,
+      highlight: `les ruines de l'abbaye de Whitby sur le East Cliff, la montée des 199 marches et les plages ouvertes aux chiens toute l'année à Tate Hill, Sandsend et Runswick Bay`,
+      area: `la vieille ville autour de Church Street et du port, le West Cliff et la falaise de l'abbaye au-dessus des 199 marches`,
     },
     windermere: {
       personality: `le plus grand lac d'Angleterre au cœur du Lake District, où les chiens sont les bienvenus sur presque tous les fells et sentiers, voyagent gratuitement dans les trains et sur les croisières du lac, et sont la norme dans les pubs de Bowness`,
@@ -5626,6 +5636,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque Łazienki, los bulevares ribereños del Vístula y el bosque de Kampinos en las afueras',
       area: 'Śródmieście, Praga y el barrio ribereño de Powiśle',
     },
+    whitby: {
+      personality: `uno de los pueblos costeros de Inglaterra más amantes de los perros, un histórico puerto pesquero de North Yorkshire donde los perros son bienvenidos por el promontorio de la abadía, a lo largo de los senderos de acantilado y en la mayoría de los pubs del casco antiguo, y viajan gratis en el tren de la Esk Valley Line`,
+      highlight: `las ruinas de la Abadía de Whitby en el East Cliff, la subida por los 199 escalones y las playas abiertas a los perros todo el año en Tate Hill, Sandsend y Runswick Bay`,
+      area: `el casco antiguo en torno a Church Street y el puerto, el West Cliff y el promontorio de la abadía sobre los 199 escalones`,
+    },
     windermere: {
       personality: `el mayor lago de Inglaterra en el corazón del Lake District, donde los perros son bienvenidos en casi todos los fells y senderos, viajan gratis en los trenes y los cruceros del lago, y son la norma en los pubs de Bowness`,
       highlight: `la subida al mirador de Orrest Head, la orilla del National Trust en Fell Foot y los cruceros Windermere Lake Cruises que admiten perros`,
@@ -7557,6 +7572,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma capital europeia en rápida modernización onde os hotéis pet-friendly são cada vez mais a norma e os parques riberenhos ofrecen excelentes passeios',
       highlight: 'o Parque Łazienki, os bulevares riberenhos do Vístula e o floresta de Kampinos nas afueras',
       area: 'Śródmieście, Praga e o bairro riberenho de Powiśle',
+    },
+    whitby: {
+      personality: `uma das vilas costeiras de Inglaterra mais amantes dos cães, um histórico porto de pesca de North Yorkshire onde os cães são bem-vindos pelo promontório da abadia, ao longo dos trilhos de falésia e na maioria dos pubs da cidade velha, e viajam grátis no comboio da Esk Valley Line`,
+      highlight: `as ruínas da Abadia de Whitby no East Cliff, a subida pelos 199 Degraus e as praias abertas aos cães todo o ano em Tate Hill, Sandsend e Runswick Bay`,
+      area: `a cidade velha à volta da Church Street e do porto, o West Cliff e o promontório da abadia sobre os 199 Degraus`,
     },
     windermere: {
       personality: `o maior lago de Inglaterra no coração do Lake District, onde os cães são bem-vindos em quase todos os fells e caminhos, viajam grátis nos comboios e nos cruzeiros do lago, e são a norma nos pubs de Bowness`,

@@ -27836,6 +27836,33 @@
     "countryCode": "PL"
   },
   {
+    "slug": "whitby",
+    "name": "Whitby",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/whitby.jpg",
+    "intro": "A historic North Yorkshire fishing port where the ruined abbey crowns the East Cliff, the swing bridge splits the old town, and dogs are welcome almost everywhere outdoors. Trains on the Esk Valley Line take dogs free, the cliff paths and 199 Steps are made for walking, and nearby Runswick Bay and Sandsend give year-round dog beaches around the seasonal town ban.",
+    "lat": 54.4863,
+    "lng": -0.6133,
+    "weather": {
+      "jan": {"temp": 5, "desc": "Cold, breezy", "icon": "🌧️"},
+      "feb": {"temp": 5, "desc": "Cold, windy", "icon": "🌧️"},
+      "mar": {"temp": 6, "desc": "Chilly, showery", "icon": "🌦️"},
+      "apr": {"temp": 8, "desc": "Cool, breezy", "icon": "🌤️"},
+      "may": {"temp": 11, "desc": "Mild, fresh", "icon": "🌤️"},
+      "jun": {"temp": 14, "desc": "Mild, breezy", "icon": "⛅"},
+      "jul": {"temp": 16, "desc": "Warm, sea breeze", "icon": "🌤️"},
+      "aug": {"temp": 16, "desc": "Warm, changeable", "icon": "🌤️"},
+      "sep": {"temp": 14, "desc": "Cool, golden", "icon": "🌤️"},
+      "oct": {"temp": 11, "desc": "Cool, windy", "icon": "🍂"},
+      "nov": {"temp": 8, "desc": "Cold, wet", "icon": "🌧️"},
+      "dec": {"temp": 6, "desc": "Cold, breezy", "icon": "🌧️"}
+    },
+    "iata": "MME"
+  },
+  {
     "slug": "windermere",
     "name": "Windermere",
     "country": "United Kingdom",

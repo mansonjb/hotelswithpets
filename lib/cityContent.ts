@@ -48151,6 +48151,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  whitby: {
+    history: {
+      fr: `Whitby, port de pêche du North Yorkshire niché à l'embouchure de l'Esk, doit sa renommée à son abbaye en ruine perchée sur le East Cliff, fondée en 657 par sainte Hilda et théâtre du synode de Whitby en 664. Ville baleinière et port de construction navale au XVIIIe siècle, elle vit le capitaine James Cook y apprendre son métier de marin, et ses navires, dont l'Endeavour, y furent bâtis. Au XIXe siècle, le jais de Whitby devint un bijou de deuil prisé jusqu'à la cour de la reine Victoria, et la silhouette gothique de l'abbaye inspira à Bram Stoker le décor de Dracula. Pour les voyageurs avec chien, Whitby est l'un des séjours côtiers les plus accueillants d'Angleterre : vieille ville compacte de part et d'autre du pont tournant, culture pub où le chien est chez lui, falaises et sentiers du Cleveland Way à portée de patte, et train Esk Valley depuis Middlesbrough acceptant gratuitement les chiens.`,
+      en: `Whitby, a North Yorkshire fishing port set at the mouth of the River Esk, owes its fame to the ruined abbey perched on the East Cliff, founded in 657 by St Hilda and site of the Synod of Whitby in 664. A whaling town and shipbuilding port in the 18th century, it was where Captain James Cook learned his trade as a sailor, and his ships, including the Endeavour, were built here. In the 19th century Whitby jet became fashionable mourning jewellery, worn as far as Queen Victoria's court, and the abbey's Gothic silhouette gave Bram Stoker the setting for Dracula. For travellers with a dog, Whitby is one of England's most welcoming coastal breaks: a compact old town on either side of the swing bridge, a pub culture where dogs are at home, the cliffs and Cleveland Way paths within easy reach, and the Esk Valley train from Middlesbrough carrying dogs free.`,
+      es: `Whitby, puerto pesquero de North Yorkshire situado en la desembocadura del río Esk, debe su fama a la abadía en ruinas encaramada en el East Cliff, fundada en 657 por santa Hilda y escenario del Sínodo de Whitby en 664. Ciudad ballenera y puerto de construcción naval en el siglo XVIII, fue donde el capitán James Cook aprendió su oficio de marino, y sus barcos, entre ellos el Endeavour, se construyeron aquí. En el siglo XIX el azabache de Whitby se puso de moda como joya de luto, llevada hasta en la corte de la reina Victoria, y la silueta gótica de la abadía dio a Bram Stoker el escenario de Drácula. Para los viajeros con perro, Whitby es una de las escapadas costeras más acogedoras de Inglaterra: casco antiguo compacto a ambos lados del puente giratorio, cultura del pub donde el perro está en casa, los acantilados y senderos del Cleveland Way al alcance, y el tren de la Esk Valley desde Middlesbrough que lleva perros gratis.`,
+      pt: `Whitby, porto de pesca de North Yorkshire situado na foz do rio Esk, deve a sua fama à abadia em ruínas empoleirada no East Cliff, fundada em 657 por santa Hilda e palco do Sínodo de Whitby em 664. Cidade baleeira e porto de construção naval no século XVIII, foi onde o capitão James Cook aprendeu o seu ofício de marinheiro, e os seus navios, incluindo o Endeavour, foram aqui construídos. No século XIX o azeviche de Whitby tornou-se joia de luto na moda, usada até na corte da rainha Vitória, e a silhueta gótica da abadia deu a Bram Stoker o cenário de Drácula. Para os viajantes com cão, Whitby é uma das escapadelas costeiras mais acolhedoras de Inglaterra: cidade velha compacta de ambos os lados da ponte giratória, cultura de pub onde o cão está em casa, as falésias e trilhos do Cleveland Way ao alcance, e o comboio Esk Valley desde Middlesbrough a levar cães grátis.`,
+    },
+    sights: [
+      { name: 'Whitby Abbey', emoji: '⛪', petFriendly: true, desc: {
+        fr: `Les ruines gothiques de l'abbaye couronnent le East Cliff. Chiens bien élevés en laisse courte acceptés dans l'enceinte (English Heritage), pas à l'intérieur du centre d'accueil.`,
+        en: `The Gothic abbey ruins crown the East Cliff. Well-behaved dogs on short leads welcome in the grounds (English Heritage), not inside the visitor centre.`,
+        es: `Las ruinas góticas de la abadía coronan el East Cliff. Perros bien educados con correa corta admitidos en el recinto (English Heritage), no dentro del centro de visitantes.`,
+        pt: `As ruínas góticas da abadia coroam o East Cliff. Cães bem-comportados à trela curta bem-vindos no recinto (English Heritage), não dentro do centro de visitantes.`,
+      }},
+      { name: 'The 199 Steps', emoji: '🪜', petFriendly: true, desc: {
+        fr: `L'escalier emblématique qui monte de la vieille ville à l'église St Mary et à l'abbaye. En plein air, chiens en laisse, bancs pour souffler en chemin.`,
+        en: `The iconic stairway climbing from the old town to St Mary's Church and the abbey. Open air, dogs on a lead, benches for a breather along the way.`,
+        es: `La escalera emblemática que sube del casco antiguo a la iglesia de St Mary y la abadía. Al aire libre, perros con correa, bancos para descansar en el camino.`,
+        pt: `A escadaria emblemática que sobe da cidade velha até à igreja de St Mary e à abadia. Ao ar livre, cães com trela, bancos para descansar pelo caminho.`,
+      }},
+      { name: 'Whitby Harbour & Swing Bridge', emoji: '⚓', petFriendly: true, desc: {
+        fr: `Le port en activité, cœur de la ville, avec ses bateaux de pêche et le pont tournant. En plein air et dog-friendly ; beaucoup d'excursions en bateau acceptent le chien sur le pont.`,
+        en: `The working harbour at the heart of town, with fishing boats and the swing bridge. Open air and dog-friendly; many boat trips take dogs on deck.`,
+        es: `El puerto en activo, corazón de la ciudad, con sus barcos de pesca y el puente giratorio. Al aire libre y dog-friendly; muchas excursiones en barco admiten perro en cubierta.`,
+        pt: `O porto em atividade, coração da cidade, com os seus barcos de pesca e a ponte giratória. Ao ar livre e pet-friendly; muitos passeios de barco aceitam cão no convés.`,
+      }},
+      { name: 'Tate Hill Sands', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Petite crique de sable abritée sous le East Cliff, la plage de ville ouverte aux chiens toute l'année (en laisse du 1er mai au 30 septembre).`,
+        en: `A small sheltered sandy cove below the East Cliff, the town beach that stays open to dogs all year (on a lead from 1 May to 30 September).`,
+        es: `Pequeña cala de arena resguardada bajo el East Cliff, la playa de pueblo abierta a los perros todo el año (con correa del 1 de mayo al 30 de septiembre).`,
+        pt: `Pequena enseada de areia abrigada sob o East Cliff, a praia da vila aberta aos cães todo o ano (à trela de 1 de maio a 30 de setembro).`,
+      }},
+      { name: 'Pannett Park', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Parc urbain paysagé au cœur de la ville, allées, bassin de nénuphars et jardin de rocaille. Chiens en laisse dans tout le parc.`,
+        en: `A landscaped town park in the heart of Whitby, with paths, a lily pool and a rock garden. Dogs on a lead throughout the park.`,
+        es: `Parque urbano ajardinado en el corazón de Whitby, con senderos, un estanque de nenúfares y un jardín de rocalla. Perros con correa en todo el parque.`,
+        pt: `Parque urbano ajardinado no coração de Whitby, com caminhos, um lago de nenúfares e um jardim de rochas. Cães à trela em todo o parque.`,
+      }},
+      { name: 'Cleveland Way (Whitby to Sandsend)', emoji: '🥾', petFriendly: true, desc: {
+        fr: `Le sentier côtier national longeant les falaises entre Whitby et Sandsend, vues spectaculaires sur la mer. En laisse près des bords de falaise non protégés.`,
+        en: `The national coast path along the cliffs between Whitby and Sandsend, with spectacular sea views. On a lead near the unfenced cliff edges.`,
+        es: `El sendero costero nacional por los acantilados entre Whitby y Sandsend, con vistas espectaculares al mar. Con correa cerca de los bordes de acantilado sin vallar.`,
+        pt: `O trilho costeiro nacional pelas falésias entre Whitby e Sandsend, com vistas espetaculares de mar. À trela junto às bordas de falésia sem vedação.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Les pubs traditionnels de la vieille ville sur Church Street sont la valeur sûre : le Black Horse Inn accueille les chiens dans ses deux salles de bar.`,
+        `Interdiction saisonnière des plages : Whitby Sands (West Cliff) et le centre de Sandsend sont interdits aux chiens du 1er mai au 30 septembre, amende de 100 livres. Repli sur Tate Hill, Sandsend extérieur et Runswick Bay, ouverts toute l'année.`,
+        `National Rail accepte gratuitement jusqu'à 2 chiens par passager en laisse : la ligne Esk Valley relie Middlesbrough à Whitby à travers les North York Moors.`,
+        `Vétérinaire d'urgence 24h/24 : The Beck Veterinary Practice, High Stakesby (+44 1947 820333) ; enregistrez le numéro, la côte est isolée.`,
+        `Les Goth Weekends (deux fois par an, avril et fin octobre) attirent une foule costumée et des feux d'artifice, à éviter avec un chien anxieux.`,
+      ],
+      en: [
+        `The traditional old-town pubs on Church Street are the safe bet: the Black Horse Inn welcomes dogs in both its bar rooms.`,
+        `Seasonal beach ban: Whitby Sands (West Cliff) and central Sandsend exclude dogs from 1 May to 30 September, £100 fine. Fall back on Tate Hill, outer Sandsend and Runswick Bay, all open year-round.`,
+        `National Rail carries up to 2 dogs free per passenger on a lead: the Esk Valley Line links Middlesbrough to Whitby through the North York Moors.`,
+        `24/7 emergency vet: The Beck Veterinary Practice, High Stakesby (+44 1947 820333); save the number, as this coast is remote.`,
+        `The Goth Weekends (twice a year, April and late October) draw big costumed crowds and fireworks, best avoided with an anxious dog.`,
+      ],
+      es: [
+        `Los pubs tradicionales del casco antiguo en Church Street son la apuesta segura: el Black Horse Inn admite perros en sus dos salas de bar.`,
+        `Prohibición estacional de playa: Whitby Sands (West Cliff) y el centro de Sandsend excluyen perros del 1 de mayo al 30 de septiembre, multa de 100 libras. Recurre a Tate Hill, Sandsend exterior y Runswick Bay, abiertas todo el año.`,
+        `National Rail lleva hasta 2 perros gratis por pasajero con correa: la Esk Valley Line une Middlesbrough con Whitby a través de los North York Moors.`,
+        `Veterinario de urgencias 24/7: The Beck Veterinary Practice, High Stakesby (+44 1947 820333); guarda el número, esta costa es remota.`,
+        `Los Goth Weekends (dos veces al año, abril y finales de octubre) atraen grandes multitudes disfrazadas y fuegos artificiales, mejor evitarlos con un perro ansioso.`,
+      ],
+      pt: [
+        `Os pubs tradicionais da cidade velha na Church Street são a aposta segura: o Black Horse Inn aceita cães nas suas duas salas de bar.`,
+        `Proibição sazonal de praia: Whitby Sands (West Cliff) e o centro de Sandsend excluem cães de 1 de maio a 30 de setembro, multa de 100 libras. Recorra a Tate Hill, Sandsend exterior e Runswick Bay, abertas todo o ano.`,
+        `A National Rail leva até 2 cães grátis por passageiro à trela: a Esk Valley Line liga Middlesbrough a Whitby através dos North York Moors.`,
+        `Veterinário de urgência 24/7: The Beck Veterinary Practice, High Stakesby (+44 1947 820333); guarde o número, pois esta costa é remota.`,
+        `Os Goth Weekends (duas vezes por ano, abril e fim de outubro) atraem grandes multidões mascaradas e fogo de artifício, melhor evitá-los com um cão ansioso.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Depuis l'UE : puce ISO + vaccin antirabique en cours + GB Animal Health Certificate (AHC) délivré par un vétérinaire officiel dans les 10 jours précédant l'arrivée. La Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE.`,
+        `Pour le retour vers l'UE : traitement contre le ténia (echinococcose) administré par un vétérinaire 24h-120h avant l'arrivée, obligatoire pour l'Irlande, la Finlande, Malte et la Norvège.`,
+        `Train : la ligne Esk Valley relie Middlesbrough à Whitby (35 miles, environ 1h30), chiens gratuits jusqu'à 2 par passager en laisse.`,
+        `Pas d'aéroport à Whitby ; le plus proche est Teesside International (MME) à environ 1h de route, sinon la plupart des visiteurs viennent en voiture ou en train.`,
+        `Plages : arrêté PSPO du North Yorkshire Council, chiens exclus des sables principaux de Whitby et Sandsend du 1er mai au 30 septembre, amende de 100 livres ; Tate Hill, Sandsend extérieur et Runswick Bay restent ouverts toute l'année.`,
+      ],
+      en: [
+        `From the EU: ISO microchip + valid rabies vaccination + GB Animal Health Certificate (AHC) issued by an official vet within 10 days of arrival. Great Britain does not accept the EU pet passport.`,
+        `For return to the EU: tapeworm treatment (echinococcosis) administered by a vet 24h-120h before arrival, mandatory for Ireland, Finland, Malta and Norway.`,
+        `Train: the Esk Valley Line links Middlesbrough to Whitby (35 miles, about 1h30), dogs free up to 2 per passenger on a lead.`,
+        `No airport at Whitby; the nearest is Teesside International (MME) about 1h by road, otherwise most visitors arrive by car or by train.`,
+        `Beaches: North Yorkshire Council PSPO excludes dogs from the main sands at Whitby and Sandsend from 1 May to 30 September, £100 fine; Tate Hill, outer Sandsend and Runswick Bay stay open year-round.`,
+      ],
+      es: [
+        `Desde la UE: microchip ISO + vacunación antirrábica vigente + GB Animal Health Certificate (AHC) emitido por un veterinario oficial en los 10 días previos a la llegada. Gran Bretaña no acepta el pasaporte para mascotas de la UE.`,
+        `Para volver a la UE: tratamiento de tenia (equinococosis) administrado por un veterinario 24h-120h antes de la llegada, obligatorio para Irlanda, Finlandia, Malta y Noruega.`,
+        `Tren: la Esk Valley Line une Middlesbrough con Whitby (35 millas, unos 1h30), perros gratis hasta 2 por pasajero con correa.`,
+        `Sin aeropuerto en Whitby; el más cercano es Teesside International (MME) a alrededor de 1h por carretera, si no la mayoría de los visitantes llega en coche o en tren.`,
+        `Playas: el PSPO del North Yorkshire Council excluye perros de las arenas principales de Whitby y Sandsend del 1 de mayo al 30 de septiembre, multa de 100 libras; Tate Hill, Sandsend exterior y Runswick Bay siguen abiertas todo el año.`,
+      ],
+      pt: [
+        `A partir da UE: microchip ISO + vacinação antirrábica válida + GB Animal Health Certificate (AHC) emitido por um veterinário oficial nos 10 dias anteriores à chegada. A Grã-Bretanha não aceita o passaporte para animais da UE.`,
+        `Para regressar à UE: tratamento contra a ténia (equinococose) administrado por um veterinário 24h-120h antes da chegada, obrigatório para Irlanda, Finlândia, Malta e Noruega.`,
+        `Comboio: a Esk Valley Line liga Middlesbrough a Whitby (35 milhas, cerca de 1h30), cães grátis até 2 por passageiro à trela.`,
+        `Sem aeroporto em Whitby; o mais próximo é o Teesside International (MME) a cerca de 1h de estrada, caso contrário a maioria dos visitantes chega de carro ou de comboio.`,
+        `Praias: o PSPO do North Yorkshire Council exclui cães dos areais principais de Whitby e Sandsend de 1 de maio a 30 de setembro, multa de 100 libras; Tate Hill, Sandsend exterior e Runswick Bay continuam abertas todo o ano.`,
+      ],
+    },
+  },
+
   windermere: {
     history: {
       fr: `Windermere, le plus grand lac naturel d'Angleterre (17 km de long), donne son nom au village voisin et à la station lacustre de Bowness-on-Windermere, au cœur du Lake District classé au patrimoine mondial de l'UNESCO. Le tourisme y est né avec l'arrivée du chemin de fer en 1847, qui relia le lac à Oxenholme et déversa les premiers visiteurs victoriens venus admirer les fells et l'eau. Aujourd'hui, la région vit du tourisme de plein air et d'une culture canine britannique profonde : les chiens sont admis sur presque tous les fells et sentiers, voyagent gratuitement dans les trains et sur les célèbres croisières du lac, et sont accueillis par défaut dans les pubs. La marche est la raison de venir, de la courte montée d'Orrest Head, première randonnée du guide Alfred Wainwright, aux rives du National Trust à Fell Foot. Une note pratique de taille : le Royaume-Uni ayant quitté le système de passeport européen post-Brexit, un Animal Health Certificate britannique est exigé pour les chiens venant de l'UE.`,

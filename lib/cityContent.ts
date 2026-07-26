@@ -27952,6 +27952,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  montreal: {
+    history: {
+      fr: `Fondée en 1642 sous le nom de Ville-Marie sur une île du Saint-Laurent longtemps fréquentée par les peuples iroquoiens, Montréal devint le grand comptoir de la traite des fourrures puis, avec le creusement du canal de Lachine en 1825, le cœur industriel du Canada. La ville dépassa Québec, attira des vagues d'immigration irlandaise, juive, italienne et haïtienne, et resta la plus grande métropole francophone d'Amérique. Le parc du Mont-Royal, dessiné par Frederick Law Olmsted en 1876, lui donna son poumon vert, et l'Expo 67 son visage moderne. Aujourd'hui, Montréal est l'une des rares grandes villes nord-américaines vraiment praticables avec un chien : plus de 65 aires canines clôturées, 14,5 km de piste sans voiture le long du canal, une culture des terrasses de mai à octobre, et surtout un métro qui accepte les chiens muselés depuis que la STM a rendu son projet pilote permanent.`,
+      en: `Founded in 1642 as Ville-Marie on an island in the St Lawrence long frequented by Iroquoian peoples, Montréal became the great fur-trade post and then, with the digging of the Lachine Canal in 1825, the industrial heart of Canada. The city overtook Québec City, drew successive waves of Irish, Jewish, Italian and Haitian immigration, and remained the largest French-speaking metropolis in the Americas. Parc du Mont-Royal, laid out by Frederick Law Olmsted in 1876, gave it a green lung, and Expo 67 gave it a modern face. Today Montréal is one of the few genuinely dog-workable big cities in North America: more than 65 fenced dog runs, 14.5 km of car-free canal path, a terrasse culture running from May to October, and above all a métro that carries muzzled dogs now that the STM has made its pilot permanent.`,
+      es: `Fundada en 1642 con el nombre de Ville-Marie en una isla del San Lorenzo frecuentada durante siglos por pueblos iroqueses, Montreal se convirtió en el gran puesto del comercio de pieles y, con la apertura del canal de Lachine en 1825, en el corazón industrial de Canadá. La ciudad superó a la ciudad de Quebec, atrajo oleadas sucesivas de inmigración irlandesa, judía, italiana y haitiana, y siguió siendo la mayor metrópoli francófona de América. El parque del Mont-Royal, diseñado por Frederick Law Olmsted en 1876, le dio su pulmón verde, y la Expo 67 su rostro moderno. Hoy Montreal es una de las pocas grandes ciudades norteamericanas realmente practicables con perro: más de 65 áreas caninas valladas, 14,5 km de camino sin coches junto al canal, una cultura de terrazas de mayo a octubre y, sobre todo, un metro que admite perros con bozal desde que la STM hizo permanente su proyecto piloto.`,
+      pt: `Fundada em 1642 com o nome de Ville-Marie numa ilha do São Lourenço durante séculos frequentada por povos iroqueses, Montreal tornou-se o grande posto do comércio de peles e, com a abertura do canal de Lachine em 1825, o coração industrial do Canadá. A cidade ultrapassou a cidade de Quebeque, atraiu vagas sucessivas de imigração irlandesa, judaica, italiana e haitiana, e manteve-se a maior metrópole francófona das Américas. O parque do Mont-Royal, desenhado por Frederick Law Olmsted em 1876, deu-lhe o pulmão verde, e a Expo 67 o rosto moderno. Hoje Montreal é uma das poucas grandes cidades norte-americanas verdadeiramente praticáveis com um cão: mais de 65 recintos caninos vedados, 14,5 km de percurso sem carros junto ao canal, uma cultura de esplanadas de maio a outubro e, sobretudo, um metro que aceita cães com açaime desde que a STM tornou permanente o seu projeto-piloto.`,
+    },
+    sights: [
+      {
+        name: 'Parc du Mont-Royal',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `La colline boisée au centre de l'île, aménagée par Frederick Law Olmsted, avec le chemin Olmsted qui monte en pente douce jusqu'au belvédère Kondiaronk et sa vue sur toute la ville. Chiens admis partout en laisse, sortie de sentier interdite.`,
+          en: `The wooded hill at the centre of the island, laid out by Frederick Law Olmsted, with the chemin Olmsted climbing gently to the Kondiaronk lookout and its view over the whole city. Dogs are welcome throughout on a leash, and walking off-trail is prohibited.`,
+          es: `La colina boscosa en el centro de la isla, diseñada por Frederick Law Olmsted, con el chemin Olmsted que sube en suave pendiente hasta el mirador Kondiaronk y su vista sobre toda la ciudad. Perros admitidos por todas partes con correa, prohibido salirse del sendero.`,
+          pt: `A colina arborizada no centro da ilha, desenhada por Frederick Law Olmsted, com o chemin Olmsted a subir em rampa suave até ao miradouro Kondiaronk e a sua vista sobre toda a cidade. Cães bem-vindos em todo o lado à trela, sendo proibido sair do trilho.`,
+        },
+      },
+      {
+        name: 'Canal de Lachine',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Un lieu historique national de Parcs Canada : 14,5 km de piste plate et sans voiture du Vieux-Port jusqu'à Lachine, entre écluses, silos à grain et anciennes usines. Animaux en laisse en tout temps sur les terrains du canal.`,
+          en: `A Parks Canada national historic site: 14.5 km of flat, car-free path from the Old Port out to Lachine, past locks, grain silos and converted factories. Pets must be leashed at all times on canal grounds.`,
+          es: `Un lugar histórico nacional de Parks Canada: 14,5 km de camino llano y sin coches del Vieux-Port hasta Lachine, entre esclusas, silos de grano y antiguas fábricas. Animales con correa en todo momento en los terrenos del canal.`,
+          pt: `Um sítio histórico nacional da Parks Canada: 14,5 km de percurso plano e sem carros do Vieux-Port até Lachine, entre eclusas, silos de cereais e antigas fábricas. Animais à trela em permanência nos terrenos do canal.`,
+        },
+      },
+      {
+        name: 'Vieux-Port de Montréal',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Deux kilomètres de promenade des Quais entre la tour de l'Horloge et le bassin Bonsecours, bordés de bateaux amarrés et des pavés du Vieux-Montréal. Animaux en laisse autorisés sur la promenade, interdits dans les bâtiments et à la plage de l'Horloge.`,
+          en: `Two kilometres of the promenade des Quais between the Clock Tower and the Bonsecours basin, lined with moored boats and the cobbles of Old Montréal. Leashed pets are allowed on the promenade but barred from the buildings and the Plage de l'Horloge.`,
+          es: `Dos kilómetros de promenade des Quais entre la torre del Reloj y la dársena Bonsecours, con barcos amarrados y los adoquines del Vieux-Montréal. Mascotas con correa permitidas en el paseo, prohibidas en los edificios y en la plage de l'Horloge.`,
+          pt: `Dois quilómetros de promenade des Quais entre a torre do Relógio e a doca Bonsecours, ladeados de barcos atracados e da calçada do Vieux-Montréal. Animais à trela permitidos no passeio, proibidos nos edifícios e na plage de l'Horloge.`,
+        },
+      },
+      {
+        name: 'Parc à chiens du parc Jarry',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `La grande aire canine clôturée du parc Jarry, près de la piscine côté rue Gary-Carter, ouverte tous les jours de 7 h à 23 h. Deux chiens maximum par personne, et la Ville précise que le chien doit porter sa médaille montréalaise.`,
+          en: `The large fenced dog run in Parc Jarry, near the pool on the rue Gary-Carter side, open daily from 7:00 to 23:00. A maximum of two dogs per person, and the City states the dog must wear its Montréal tag.`,
+          es: `La gran área canina vallada del parque Jarry, junto a la piscina del lado de la rue Gary-Carter, abierta a diario de 7:00 a 23:00. Dos perros como máximo por persona, y la Ciudad indica que el perro debe llevar su medalla de Montreal.`,
+          pt: `O grande recinto canino vedado do Parc Jarry, junto à piscina do lado da rue Gary-Carter, aberto todos os dias das 7:00 às 23:00. Dois cães no máximo por pessoa, e a Cidade indica que o cão tem de usar a sua medalha de Montreal.`,
+        },
+      },
+      {
+        name: 'Parc Jean-Drapeau',
+        emoji: '🏝️',
+        petFriendly: true,
+        desc: {
+          fr: `Les deux îles du Saint-Laurent face au centre-ville, avec la Biosphère, le circuit Gilles-Villeneuve et de longs sentiers riverains. Chiens en laisse admis dans les espaces verts et sur les sentiers, exclus des installations du parc et de la plage Jean-Doré.`,
+          en: `The two islands in the St Lawrence facing downtown, with the Biosphère dome, the Gilles-Villeneuve circuit and long riverside trails. Leashed dogs are admitted in the green spaces and on the trails but excluded from the park facilities and the Jean-Doré beach.`,
+          es: `Las dos islas del San Lorenzo frente al centro, con la Biosphère, el circuito Gilles-Villeneuve y largos senderos ribereños. Perros con correa admitidos en las zonas verdes y en los senderos, excluidos de las instalaciones del parque y de la playa Jean-Doré.`,
+          pt: `As duas ilhas do São Lourenço em frente ao centro, com a Biosphère, o circuito Gilles-Villeneuve e longos trilhos ribeirinhos. Cães à trela admitidos nos espaços verdes e nos trilhos, excluídos das instalações do parque e da praia Jean-Doré.`,
+        },
+      },
+      {
+        name: 'Basilique Notre-Dame de Montréal',
+        emoji: '⛪',
+        petFriendly: false,
+        desc: {
+          fr: `Le chef-d'œuvre néogothique de la place d'Armes, avec sa voûte bleu nuit étoilée, reste le monument le plus visité de la ville. Comme tous les sites intérieurs de Montréal, il est fermé aux animaux hormis les chiens d'assistance : prévoyez un gardien pour cette visite.`,
+          en: `The neo-Gothic masterpiece on Place d'Armes, with its deep-blue starred vault, is still the most visited monument in the city. Like every indoor site in Montréal it is closed to pets apart from service dogs, so plan a sitter for this visit.`,
+          es: `La obra maestra neogótica de la place d'Armes, con su bóveda azul noche estrellada, sigue siendo el monumento más visitado de la ciudad. Como todos los lugares de interior de Montreal, está cerrado a las mascotas salvo los perros de asistencia: prevé un cuidador para esta visita.`,
+          pt: `A obra-prima neogótica da place d'Armes, com a sua abóbada azul-noite estrelada, continua a ser o monumento mais visitado da cidade. Como todos os locais interiores de Montreal, está fechado a animais salvo cães de assistência: preveja um cuidador para esta visita.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les chiens sont admis dans le métro de la STM avec muselière obligatoire de l'entrée en station jusqu'à la sortie, laisse tenue avec au maximum 1,25 m de mou, un seul chien par personne et jamais sur les sièges.`,
+        `Dans les autobus de la STM, y compris la navette 747 vers l'aéroport, l'animal doit rester dans une cage fermée pendant tout le trajet, ce qui exclut en pratique les chiens moyens et grands.`,
+        `Le règlement montréalais impose une laisse d'au plus 1,85 m dans tout lieu public, plus un harnais ou un licou pour les chiens de 20 kg et plus ; le hors-laisse n'est légal que dans les aires canines clôturées.`,
+        `De décembre à mars, le sel de déglaçage répandu sur les trottoirs brûle les coussinets et devient toxique s'il est léché : bottines ou baume avant la sortie, rinçage et séchage au retour.`,
+        `Il n'existe aucune plage canine à Montréal : toutes les plages surveillées excluent les chiens du sable, et la police verbalise les chiens dans l'eau du canal de Lachine l'été.`,
+      ],
+      en: [
+        `Dogs are allowed on the STM métro with a muzzle worn from entering the station until leaving it, the leash held with no more than 1.25 m of slack, one dog per person and never on the seats.`,
+        `On STM buses, including the 747 airport shuttle, the animal must stay inside a closed carrier for the whole journey, which in practice rules out medium and large dogs.`,
+        `The Montréal by-law sets a leash of no more than 1.85 m in every public space, plus a harness or halter for dogs of 20 kg and over; off leash is legal only inside a fenced dog run.`,
+        `From December to March the de-icing salt spread on pavements burns paw pads and turns toxic if licked off: boots or balm before going out, rinse and dry on returning.`,
+        `There is no dog beach in Montréal: every supervised beach keeps dogs off the sand, and police ticket dogs in the water of the Lachine Canal in summer.`,
+      ],
+      es: [
+        `Los perros se admiten en el metro de la STM con bozal obligatorio desde que se entra en la estación hasta que se sale, correa sujeta con 1,25 m de holgura como máximo, un solo perro por persona y nunca en los asientos.`,
+        `En los autobuses de la STM, incluida la lanzadera 747 al aeropuerto, el animal debe permanecer en un transportín cerrado durante todo el trayecto, lo que en la práctica descarta a los perros medianos y grandes.`,
+        `La ordenanza montrealesa impone una correa de 1,85 m como máximo en cualquier espacio público, más arnés o collar de cabeza para los perros de 20 kg o más; ir suelto solo es legal dentro de un área canina vallada.`,
+        `De diciembre a marzo, la sal de deshielo esparcida en las aceras quema las almohadillas y se vuelve tóxica si el perro se la lame: botitas o bálsamo antes de salir, enjuague y secado al volver.`,
+        `No existe ninguna playa canina en Montreal: todas las playas vigiladas excluyen a los perros de la arena, y la policía multa a los perros dentro del agua del canal de Lachine en verano.`,
+      ],
+      pt: [
+        `Os cães são admitidos no metro da STM com açaime obrigatório desde a entrada na estação até à saída, trela segurada com no máximo 1,25 m de folga, um cão por pessoa e nunca nos bancos.`,
+        `Nos autocarros da STM, incluindo a lançadeira 747 para o aeroporto, o animal tem de ficar dentro de uma caixa fechada durante toda a viagem, o que na prática exclui os cães médios e grandes.`,
+        `O regulamento de Montreal impõe uma trela de no máximo 1,85 m em qualquer espaço público, mais peitoral ou cabresto para os cães de 20 kg ou mais; andar sem trela só é legal dentro de um recinto canino vedado.`,
+        `De dezembro a março, o sal de degelo espalhado nos passeios queima as almofadinhas e torna-se tóxico se for lambido: botas ou bálsamo antes de sair, lavagem e secagem ao regressar.`,
+        `Não existe qualquer praia canina em Montreal: todas as praias vigiadas excluem os cães da areia, e a polícia multa cães dentro de água no canal de Lachine no verão.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport : Montréal-Trudeau (YUL) est à environ 20 km à l'ouest du centre-ville. Comme les autobus de la STM exigent une cage fermée, prévoyez un taxi ou une course avec option Animal plutôt que la navette 747 si votre chien est de taille moyenne ou grande.`,
+        `Vétérinaire d'urgence : Centre DMV, 2300 54e Avenue, Lachine, tél. +1 514 633-8888, sans rendez-vous 24 h sur 24, 365 jours par an ; Centre Vétérinaire Montréal, 1901 boulevard de Maisonneuve Est, tél. +1 438 387-2746, ouvert en continu. Le 911 est réservé aux urgences humaines.`,
+        `Entrée au Canada : l'ACIA exige pour tout chien et chat de plus de trois mois un certificat de vaccination antirabique valide, en français ou en anglais, signé par un vétérinaire et indiquant le numéro de puce, la date de vaccination, la date d'expiration et la marque du vaccin.`,
+        `Transport : métro de la STM ouvert aux chiens muselés selon des conditions strictes, autobus et navette 747 uniquement en cage fermée, REM réservé aux animaux en cage hors chiens d'assistance, taxis et Uber Pet acceptent généralement les chiens.`,
+        `Visites intérieures : musées, basilique Notre-Dame, Biodôme, Jardin botanique et les marchés Atwater et Jean-Talon excluent les animaux. Une promenade ou une visite de gardien coûte environ 25 à 28 dollars canadiens, l'hébergement privé à partir de 75 dollars.`,
+      ],
+      en: [
+        `Airport: Montréal-Trudeau (YUL) is about 20 km west of downtown. Because STM buses require a closed carrier, budget for a taxi or a Pet-enabled ride-hail rather than the 747 shuttle if your dog is medium or large.`,
+        `Emergency vet: Centre DMV, 2300 54e Avenue, Lachine, tel. +1 514 633-8888, walk-in 24 hours a day, 365 days a year; Centre Vétérinaire Montréal, 1901 boulevard de Maisonneuve Est, tel. +1 438 387-2746, open round the clock. 911 is for human emergencies only.`,
+        `Entering Canada: the CFIA requires every dog and cat over three months old to carry a valid rabies vaccination certificate in English or French, signed by a veterinarian and showing the microchip number, the vaccination date, the expiry date and the vaccine brand.`,
+        `Transport: the STM métro is open to muzzled dogs under strict conditions, buses and the 747 shuttle take pets only in a closed carrier, the REM is carrier-only apart from service dogs, and taxis and Uber Pet generally accept dogs.`,
+        `Indoor sightseeing: museums, Notre-Dame Basilica, the Biodôme, the Botanical Garden and both the Atwater and Jean-Talon markets exclude pets. A walk or sitting visit costs roughly 25 to 28 Canadian dollars, private home boarding from about 75 dollars.`,
+      ],
+      es: [
+        `Aeropuerto: Montreal-Trudeau (YUL) está a unos 20 km al oeste del centro. Como los autobuses de la STM exigen transportín cerrado, presupuesta un taxi o un viaje con opción Mascotas en vez de la lanzadera 747 si tu perro es mediano o grande.`,
+        `Veterinario de urgencias: Centre DMV, 2300 54e Avenue, Lachine, tel. +1 514 633-8888, sin cita 24 horas al día, 365 días al año; Centre Vétérinaire Montréal, 1901 boulevard de Maisonneuve Est, tel. +1 438 387-2746, abierto de forma continua. El 911 es solo para urgencias humanas.`,
+        `Entrada en Canadá: la CFIA exige para todo perro y gato de más de tres meses un certificado de vacunación antirrábica válido, en inglés o francés, firmado por un veterinario y con el número de microchip, la fecha de vacunación, la fecha de caducidad y la marca de la vacuna.`,
+        `Transporte: el metro de la STM admite perros con bozal bajo condiciones estrictas, los autobuses y la lanzadera 747 solo aceptan mascotas en transportín cerrado, el REM es solo para animales en transportín salvo perros de asistencia, y los taxis y Uber Pet suelen aceptar perros.`,
+        `Visitas de interior: museos, basílica de Notre-Dame, Biodôme, Jardín Botánico y los mercados Atwater y Jean-Talon excluyen a las mascotas. Un paseo o una visita de cuidador cuesta unos 25 a 28 dólares canadienses, el alojamiento privado desde unos 75 dólares.`,
+      ],
+      pt: [
+        `Aeroporto: o Montreal-Trudeau (YUL) fica a cerca de 20 km a oeste do centro. Como os autocarros da STM exigem caixa fechada, conte com um táxi ou uma viagem com opção Animais em vez da lançadeira 747 se o seu cão for médio ou grande.`,
+        `Veterinário de urgência: Centre DMV, 2300 54e Avenue, Lachine, tel. +1 514 633-8888, sem marcação 24 horas por dia, 365 dias por ano; Centre Vétérinaire Montréal, 1901 boulevard de Maisonneuve Est, tel. +1 438 387-2746, aberto em contínuo. O 911 destina-se apenas a urgências humanas.`,
+        `Entrada no Canadá: a CFIA exige para qualquer cão e gato com mais de três meses um certificado de vacinação antirrábica válido, em inglês ou francês, assinado por um veterinário e com o número do microchip, a data da vacinação, a data de validade e a marca da vacina.`,
+        `Transporte: o metro da STM aceita cães com açaime sob condições estritas, os autocarros e a lançadeira 747 só aceitam animais em caixa fechada, o REM é só para animais em caixa salvo cães de assistência, e os táxis e a Uber Pet costumam aceitar cães.`,
+        `Visitas de interior: museus, basílica de Notre-Dame, Biodôme, Jardim Botânico e os mercados Atwater e Jean-Talon excluem animais. Um passeio ou visita de cuidador custa cerca de 25 a 28 dólares canadianos, o alojamento privado a partir de cerca de 75 dólares.`,
+      ],
+    },
+  },
+
   montreux: {
     history: {
       fr: `Montreux doit tout à son microclimat : protégée par les Alpes et adoucie par le Léman, la « Riviera vaudoise » vit pousser palmiers et vignes bien avant l'arrivée des touristes. Au XIXe siècle, l'aristocratie européenne en fit sa villégiature d'hiver ; Sissi, Stravinsky puis Nabokov y séjournèrent longuement. Le château de Chillon, immortalisé par Byron, attirait déjà les voyageurs romantiques. Depuis 1967, le Montreux Jazz Festival a fait entrer la ville dans la légende musicale, de Deep Purple (Smoke on the Water y raconte l'incendie du casino) à Freddie Mercury, dont la statue veille sur le lac. Avec un chien, Montreux est un bonheur suisse : quais fleuris sur des kilomètres, vignobles de Lavaux en terrasses, trains de montagne qui acceptent les chiens et une eau du lac limpide pour les baignades canines hors des plages aménagées.`,

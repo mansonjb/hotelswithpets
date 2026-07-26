@@ -16489,6 +16489,81 @@
     "tiqetsId": "66788"
   },
   {
+    "slug": "montreal",
+    "name": "Montréal",
+    "country": "Canada",
+    "countryCode": "CA",
+    "flag": "🇨🇦",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/montreal.jpg",
+    "intro": "Montréal is one of the very few North American cities where a full-size dog can legally ride the subway, and it pairs that with 65 fenced dog runs, 14 km of car-free canal path and a terrasse culture that runs from May to October.",
+    "lat": 45.5019,
+    "lng": -73.5674,
+    "weather": {
+      "jan": {
+        "temp": -5,
+        "desc": "Freezing & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": -3,
+        "desc": "Very cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 3,
+        "desc": "Cold with a thaw",
+        "icon": "🌨️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Cool & showery",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Mild & green",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm & lively",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 26,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Hot & humid",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & colourful",
+        "icon": "🍁"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cold & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": -2,
+        "desc": "Freezing & festive",
+        "icon": "❄️"
+      }
+    },
+    "iata": "YUL"
+  },
+  {
     "slug": "montreux",
     "name": "Montreux",
     "country": "Switzerland",

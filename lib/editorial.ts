@@ -1166,6 +1166,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Parc Méric off-leash enclosure, the Berges du Lez riverside trail, and the Grand Travers dog-friendly beach just 20 km away',
       area: 'the Écusson medieval centre, the Place de la Comédie esplanade, and the Antigone neo-classical district',
     },
+    montreal: {
+      personality: `one of the very few North American cities where a full-size dog can legally ride the métro, backed by more than 65 fenced dog runs and a 14.5 km car-free canal path`,
+      highlight: `the Parc Jarry and Parc Sir-Wilfrid-Laurier dog runs, the Lachine Canal towpath from the Old Port out to Lachine, and the leashed climb up chemin Olmsted to the Kondiaronk lookout`,
+      area: `Le Plateau-Mont-Royal, Griffintown and the Vieux-Port quays, and Villeray around Parc Jarry`,
+    },
     montreux: {
       personality: 'the Swiss Riviera on Lake Geneva, a palm-fringed Belle Époque town where dogs are welcomed on terrace cafés, ride the SBB and the panoramic GoldenPass Line, and walk leashed through the Lavaux UNESCO vineyards above the lake',
       highlight: 'the 7 km Quais Fleuris promenade past the Freddie Mercury statue, the 13th-century Château de Chillon courtyards, and the Lavaux Sentier Viticole through the UNESCO vineyard terraces',
@@ -3109,6 +3114,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'l\'enclos hors laisse du Parc Méric, la promenade des Berges du Lez et la plage dog-friendly du Grand Travers à 20 km',
       area: 'l\'Écusson médiéval, l\'esplanade de la Place de la Comédie et le quartier néo-classique de l\'Antigone',
     },
+    montreal: {
+      personality: `l'une des très rares villes nord-américaines où un chien de grande taille peut légalement prendre le métro, avec plus de 65 aires canines clôturées et 14,5 km de piste sans voiture le long du canal`,
+      highlight: `les aires canines du parc Jarry et du parc Sir-Wilfrid-Laurier, la piste du canal de Lachine du Vieux-Port jusqu'à Lachine, et la montée en laisse du chemin Olmsted vers le belvédère Kondiaronk`,
+      area: `le Plateau-Mont-Royal, Griffintown et les quais du Vieux-Port, et Villeray autour du parc Jarry`,
+    },
     montreux: {
       personality: 'la Riviera suisse sur le lac Léman, ville Belle Époque aux palmiers en bord d\'eau où les chiens sont accueillis en terrasse, voyagent dans les CFF et le panoramique GoldenPass et arpentent en laisse les vignobles UNESCO du Lavaux au-dessus du lac',
       highlight: 'les 7 km des Quais Fleuris devant la statue de Freddie Mercury, les cours du Château de Chillon du XIIIᵉ siècle et le Sentier Viticole du Lavaux à travers les terrasses UNESCO',
@@ -5051,6 +5061,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el recinto sin correa del Parc Méric, el sendero de las Berges du Lez y la playa dog-friendly del Grand Travers a 20 km',
       area: 'el casco medieval de l\'Écusson, la explanada de la Place de la Comédie y el barrio neoclásico de l\'Antigone',
     },
+    montreal: {
+      personality: `una de las poquísimas ciudades norteamericanas donde un perro grande puede viajar legalmente en metro, con más de 65 áreas caninas valladas y 14,5 km de camino sin coches junto al canal`,
+      highlight: `las áreas caninas del parque Jarry y del parque Sir-Wilfrid-Laurier, el camino del canal de Lachine desde el Vieux-Port hasta Lachine, y la subida con correa por el chemin Olmsted al mirador Kondiaronk`,
+      area: `el Plateau-Mont-Royal, Griffintown y los muelles del Vieux-Port, y Villeray en torno al parque Jarry`,
+    },
     montreux: {
       personality: 'la Riviera suiza en el lago Lemán, una ciudad Belle Époque con palmeras a orillas del agua donde los perros son bienvenidos en terraza, viajan en la SBB y el panorámico GoldenPass y recorren con correa los viñedos UNESCO del Lavaux sobre el lago',
       highlight: 'los 7 km del paseo de los Quais Fleuris ante la estatua de Freddie Mercury, los patios del Château de Chillon del siglo XIII y el Sentier Viticole del Lavaux a través de las terrazas UNESCO',
@@ -6992,6 +7007,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma soleada cidade universitaria do sul de Francia onde os cães acompanhan aos seus duenhos en esplanadas de cafés, no elétrico e pelos passeios a margens do Lez',
       highlight: 'o recinto sem trela do Parc Méric, o trilho das Berges du Lez e a praia pet-friendly do Grand Travers a 20 km',
       area: 'o casco medieval de l\'Écusson, a explanada da Place da Comédie e o bairro neoclásico de l\'Antigone',
+    },
+    montreal: {
+      personality: `uma das pouquíssimas cidades norte-americanas onde um cão de grande porte pode viajar legalmente de metro, com mais de 65 recintos caninos vedados e 14,5 km de percurso sem carros junto ao canal`,
+      highlight: `os recintos caninos do Parc Jarry e do Parc Sir-Wilfrid-Laurier, o percurso do canal de Lachine do Vieux-Port até Lachine, e a subida à trela pelo chemin Olmsted até ao miradouro Kondiaronk`,
+      area: `o Plateau-Mont-Royal, Griffintown e os cais do Vieux-Port, e Villeray à volta do Parc Jarry`,
     },
     montreux: {
       personality: 'a Riviera suíça no lago Lemán, uma cidade Belle Époque com palmeiras à beira da água onde os cães são bem-vindos em esplanada, viajan na SBB e no panorâmico GoldenPass e percorrem com trela os vinhedos UNESCO do Lavaux acima do lago',

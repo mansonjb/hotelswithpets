@@ -1410,6 +1410,202 @@
     ]
   },
   {
+    "id": "amalfi-1",
+    "name": "Hotel Miramalfi",
+    "destinationSlug": "amalfi",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.8,
+    "reviewCount": 397,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/miramalfiamalfi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Miramalfi is a pet-friendly property on the Amalfi Coast that welcomes dogs. Confirm size limits, any pet fee and available rooms with the hotel when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "hotel-miramalfi-amalfi"
+  },
+  {
+    "id": "amalfi-2",
+    "name": "Anantara Convento di Amalfi Grand Hotel",
+    "destinationSlug": "amalfi",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 329,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/anantara-convento-di-amalfi-grand-hotel.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Anantara Convento di Amalfi Grand Hotel is a pet-friendly property on the Amalfi Coast that welcomes dogs. Confirm size limits, any pet fee and available rooms with the hotel when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "anantara-convento-di-amalfi-grand-hotel-amalfi"
+  },
+  {
+    "id": "amalfi-3",
+    "name": "Hotel Santa Caterina",
+    "destinationSlug": "amalfi",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.7,
+    "reviewCount": 214,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/santa-caterina-amalfi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Santa Caterina is a pet-friendly property on the Amalfi Coast that welcomes dogs. Confirm size limits, any pet fee and available rooms with the hotel when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "hotel-santa-caterina-amalfi"
+  },
+  {
+    "id": "amalfi-4",
+    "name": "Borgo Santandrea",
+    "destinationSlug": "amalfi",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.9,
+    "reviewCount": 84,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/borgo-santandrea.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Borgo Santandrea is a pet-friendly property on the Amalfi Coast that welcomes dogs. Confirm size limits, any pet fee and available rooms with the hotel when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "borgo-santandrea-amalfi"
+  },
+  {
+    "id": "amalfi-5",
+    "name": "Residenza Pansa B&B",
+    "destinationSlug": "amalfi",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 362,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/residenza-pansa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Residenza Pansa B&B is a pet-friendly property on the Amalfi Coast that welcomes dogs. Confirm size limits, any pet fee and available rooms with the hotel when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Airport shuttle"
+    ],
+    "slug": "residenza-pansa-b-b-amalfi"
+  },
+  {
+    "id": "amalfi-6",
+    "name": "Holidays Baia D'Amalfi",
+    "destinationSlug": "amalfi",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 1495,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/holidaysamalfiview.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Holidays Baia D'Amalfi is a pet-friendly property on the Amalfi Coast that welcomes dogs. Confirm size limits, any pet fee and available rooms with the hotel when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Airport shuttle"
+    ],
+    "slug": "holidays-baia-damalfi-amalfi"
+  },
+  {
+    "id": "amalfi-7",
+    "name": "Vista d'Amalfi",
+    "destinationSlug": "amalfi",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 1211,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/vista-d-39-amalfi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Vista d'Amalfi is a pet-friendly property on the Amalfi Coast that welcomes dogs. Confirm size limits, any pet fee and available rooms with the hotel when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "vista-damalfi-amalfi"
+  },
+  {
+    "id": "amalfi-8",
+    "name": "La Bambagina",
+    "destinationSlug": "amalfi",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 384,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/la-bambagina.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "La Bambagina is a pet-friendly property on the Amalfi Coast that welcomes dogs. Confirm size limits, any pet fee and available rooms with the hotel when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Airport shuttle"
+    ],
+    "slug": "la-bambagina-amalfi"
+  },
+  {
     "id": "amsterdam-1",
     "name": "Anantara Grand Hotel Krasnapolsky Amsterdam",
     "destinationSlug": "amsterdam",

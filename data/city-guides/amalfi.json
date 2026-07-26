@@ -1,0 +1,1142 @@
+{
+  "slug": "amalfi",
+  "name": "Amalfi",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "lastUpdated": "2026-07-26",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Amalfi",
+      "titleFr": "Restaurants acceptant les animaux à Amalfi",
+      "titleEs": "Restaurantes que admiten mascotas en Amalfi",
+      "introEn": "Amalfi keeps to the relaxed Italian norm: leashed, well-behaved dogs are welcome at the outdoor terrace tables of most restaurants and beach clubs, from the harbour and Piazza Duomo up the narrow lanes, even if the small indoor rooms are usually not suitable. Staff will bring a water bowl on request, which matters on this hot, stepped coast. Aim for a shaded lunch or an early dinner and, given the steep lanes behind the centre, pick a spot near the seafront or the main square so your dog is not climbing dozens of steps for a meal.",
+      "introFr": "Amalfi suit la norme italienne décontractée : les chiens tenus en laisse et bien élevés sont les bienvenus aux tables en terrasse de la plupart des restaurants et clubs de plage, du port et de la Piazza Duomo jusqu'aux ruelles étroites, même si les petites salles intérieures ne conviennent généralement pas. Le personnel apporte une gamelle d'eau sur demande, ce qui compte sur cette côte chaude et en escaliers. Privilégiez un déjeuner à l'ombre ou un dîner tôt et, vu les ruelles pentues derrière le centre, choisissez un endroit près du front de mer ou de la place principale pour éviter à votre chien de grimper des marches pour un repas.",
+      "introEs": "Amalfi mantiene la norma italiana relajada: los perros con correa y bien educados son bienvenidos en las mesas de las terrazas de la mayoría de los restaurantes y clubes de playa, desde el puerto y la Piazza Duomo hasta las callejuelas estrechas, aunque las pequeñas salas interiores no suelen ser adecuadas. El personal trae un cuenco de agua si se lo pides, algo que importa en esta costa calurosa y con escalones. Opta por un almuerzo a la sombra o una cena temprana y, dadas las callejuelas empinadas detrás del centro, elige un sitio cerca del paseo marítimo o de la plaza principal para que tu perro no suba escalones para comer.",
+      "places": [
+        {
+          "name": "Antica Trattoria Barracca",
+          "address": "Piazza dei Dogi 12, Amalfi",
+          "neighborhood": "Piazza dei Dogi (behind the Duomo)",
+          "photo": "/images/city-places/amalfi-restaurants-antica-trattoria-barracca.jpg",
+          "website": "https://www.anticatrattoriabarracca.it",
+          "description": "A long-running family trattoria on the quiet Piazza dei Dogi just behind the cathedral, serving Amalfi Coast classics and fresh seafood from a shaded square. Its flat, traffic-free terrace on the little piazza is an easy, calm spot to eat with a dog.",
+          "descriptionFr": "Une trattoria familiale de longue date sur la calme Piazza dei Dogi juste derrière la cathédrale, servant des classiques de la Côte amalfitaine et des fruits de mer frais depuis une place ombragée. Sa terrasse plate et sans voitures sur la petite place est un endroit facile et paisible pour manger avec un chien.",
+          "descriptionEs": "Una trattoria familiar veterana en la tranquila Piazza dei Dogi, justo detrás de la catedral, que sirve clásicos de la Costa Amalfitana y marisco fresco desde una plaza sombreada. Su terraza llana y sin coches en la pequeña plaza es un lugar fácil y tranquilo para comer con un perro.",
+          "petPolicy": "Leashed dogs welcome at the terrace tables on the square",
+          "petPolicyFr": "Chiens en laisse acceptés aux tables de la terrasse sur la place",
+          "petPolicyEs": "Perros con correa admitidos en las mesas de la terraza en la plaza",
+          "priceRange": "€€",
+          "mustTry": "Scialatielli ai frutti di mare, grilled local fish",
+          "mustTryFr": "Scialatielli ai frutti di mare, poisson local grillé",
+          "mustTryEs": "Scialatielli ai frutti di mare, pescado local a la parrilla",
+          "openingHours": "Lunch and dinner in season",
+          "tip": "The Piazza dei Dogi is flat and shaded, so your dog avoids the steps up the lanes",
+          "tipFr": "La Piazza dei Dogi est plate et ombragée, votre chien évite donc les marches des ruelles",
+          "tipEs": "La Piazza dei Dogi es llana y sombreada, así que tu perro evita los escalones de las callejuelas",
+          "googleMapsUrl": "https://maps.google.com/?q=Antica+Trattoria+Barracca+Amalfi",
+          "descriptionPt": "Uma trattoria familiar de longa data na tranquila Piazza dei Dogi, mesmo atrás da catedral, que serve clássicos da Costa Amalfitana e marisco fresco a partir de uma praça sombreada. A sua esplanada plana e sem carros na pequena praça é um sítio fácil e calmo para comer com um cão.",
+          "petPolicyPt": "Cães com trela bem-vindos nas mesas da esplanada na praça",
+          "mustTryPt": "Scialatielli ai frutti di mare, peixe local grelhado",
+          "tipPt": "A Piazza dei Dogi é plana e sombreada, por isso o seu cão evita os degraus das ruelas"
+        },
+        {
+          "name": "Taverna degli Apostoli",
+          "address": "Piazza Duomo area, Amalfi",
+          "neighborhood": "Beside the cathedral steps",
+          "photo": "/images/city-places/amalfi-restaurants-taverna-degli-apostoli.jpg",
+          "website": "",
+          "description": "A small family-run seafood taverna right by the cathedral steps on the main square, with outdoor tables in the heart of Amalfi. The central, near-level location makes it simple to reach with a leashed dog straight off the seafront.",
+          "descriptionFr": "Une petite taverne de fruits de mer familiale juste à côté des marches de la cathédrale sur la place principale, avec des tables extérieures au cœur d'Amalfi. Son emplacement central et presque plat la rend facile d'accès avec un chien en laisse depuis le front de mer.",
+          "descriptionEs": "Una pequeña taberna de marisco familiar junto a las escaleras de la catedral en la plaza principal, con mesas exteriores en el corazón de Amalfi. Su ubicación central y casi llana hace sencillo llegar con un perro con correa directamente desde el paseo marítimo.",
+          "petPolicy": "Leashed dogs welcome at the outdoor tables",
+          "petPolicyFr": "Chiens en laisse acceptés aux tables extérieures",
+          "petPolicyEs": "Perros con correa admitidos en las mesas exteriores",
+          "priceRange": "€€",
+          "mustTry": "Seafood pasta, fried anchovies",
+          "mustTryFr": "Pâtes aux fruits de mer, anchois frits",
+          "mustTryEs": "Pasta de marisco, boquerones fritos",
+          "openingHours": "Lunch and dinner in season",
+          "tip": "Sit at the outdoor tables; the small indoor room is tight for a dog",
+          "tipFr": "Installez-vous aux tables extérieures ; la petite salle intérieure est étroite pour un chien",
+          "tipEs": "Siéntate en las mesas exteriores; la pequeña sala interior es estrecha para un perro",
+          "googleMapsUrl": "https://maps.google.com/?q=Taverna+degli+Apostoli+Amalfi",
+          "descriptionPt": "Uma pequena taberna de marisco familiar mesmo junto às escadas da catedral na praça principal, com mesas ao ar livre no coração de Amalfi. A localização central e quase plana torna simples chegar com um cão à trela vindo diretamente da marginal.",
+          "petPolicyPt": "Cães com trela bem-vindos nas mesas ao ar livre",
+          "mustTryPt": "Massa de marisco, anchovas fritas",
+          "tipPt": "Sente-se nas mesas ao ar livre; a pequena sala interior é apertada para um cão"
+        },
+        {
+          "name": "Marina Grande",
+          "address": "Amalfi seafront (Marina Grande beach)",
+          "neighborhood": "Amalfi beachfront",
+          "photo": "/images/city-places/amalfi-restaurants-marina-grande.jpg",
+          "website": "",
+          "description": "A seafood restaurant set directly on Amalfi's Marina Grande beach, with a terrace at the water's edge and views back to the town. Being at sea level, it is the easiest dog-friendly table in Amalfi, with no stairs between the promenade and your seat.",
+          "descriptionFr": "Un restaurant de fruits de mer installé directement sur la plage Marina Grande d'Amalfi, avec une terrasse au bord de l'eau et vue sur la ville. Au niveau de la mer, c'est la table dog-friendly la plus facile d'Amalfi, sans escaliers entre la promenade et votre place.",
+          "descriptionEs": "Un restaurante de marisco situado directamente en la playa Marina Grande de Amalfi, con una terraza al borde del agua y vistas al pueblo. Al estar a nivel del mar, es la mesa pet-friendly más fácil de Amalfi, sin escaleras entre el paseo y tu asiento.",
+          "petPolicy": "Leashed dogs welcome at the seafront terrace tables",
+          "petPolicyFr": "Chiens en laisse acceptés aux tables de la terrasse sur le front de mer",
+          "petPolicyEs": "Perros con correa admitidos en las mesas de la terraza junto al mar",
+          "priceRange": "€€€",
+          "mustTry": "Fresh fish, spaghetti alle vongole",
+          "mustTryFr": "Poisson frais, spaghetti alle vongole",
+          "mustTryEs": "Pescado fresco, spaghetti alle vongole",
+          "openingHours": "Lunch and dinner in season",
+          "tip": "It is at beach level, so no stair climb for your dog to reach the table",
+          "tipFr": "Il est au niveau de la plage, donc pas de montée d'escaliers pour votre chien",
+          "tipEs": "Está a nivel de playa, así que tu perro no sube escaleras para llegar",
+          "googleMapsUrl": "https://maps.google.com/?q=Ristorante+Marina+Grande+Amalfi",
+          "descriptionPt": "Um restaurante de marisco situado diretamente na praia Marina Grande de Amalfi, com uma esplanada à beira da água e vistas para a vila. Por estar ao nível do mar, é a mesa pet-friendly mais fácil de Amalfi, sem escadas entre a marginal e o seu lugar.",
+          "petPolicyPt": "Cães com trela bem-vindos nas mesas da esplanada junto ao mar",
+          "mustTryPt": "Peixe fresco, spaghetti alle vongole",
+          "tipPt": "Fica ao nível da praia, por isso o seu cão não sobe escadas para chegar à mesa"
+        }
+      ],
+      "tipsEn": [
+        "Most terraces welcome leashed dogs; the small indoor rooms usually do not, so plan for outdoor seating.",
+        "Pick tables at seafront or Piazza Duomo level to spare your dog the steps up Amalfi's lanes.",
+        "Ask for a water bowl and eat in the shade or early, as summer terraces get very hot."
+      ],
+      "tipsFr": [
+        "La plupart des terrasses acceptent les chiens en laisse ; les petites salles intérieures rarement, prévoyez donc de manger dehors.",
+        "Choisissez des tables au niveau du front de mer ou de la Piazza Duomo pour épargner à votre chien les marches des ruelles d'Amalfi.",
+        "Demandez une gamelle d'eau et mangez à l'ombre ou tôt, car les terrasses estivales sont brûlantes."
+      ],
+      "tipsEs": [
+        "La mayoría de las terrazas admiten perros con correa; las pequeñas salas interiores rara vez, así que planea comer fuera.",
+        "Elige mesas a nivel del paseo marítimo o de la Piazza Duomo para ahorrar a tu perro los escalones de las callejuelas de Amalfi.",
+        "Pide un cuenco de agua y come a la sombra o temprano, porque las terrazas de verano se calientan mucho."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog to restaurants in Amalfi?",
+          "a": "Yes, at outdoor terrace tables. Leashed, calm dogs are welcome on most terraces and beach clubs, following the usual Italian custom. Small indoor rooms are often unsuitable, so ask before going inside."
+        },
+        {
+          "q": "Where is easiest to eat with a dog in Amalfi?",
+          "a": "Choose seafront tables on Marina Grande beach or the flat Piazza dei Dogi and Piazza Duomo, so your dog avoids the steps up the narrow lanes behind the centre."
+        },
+        {
+          "q": "Will restaurants give my dog water?",
+          "a": "Yes, on request. This matters in Amalfi's summer heat, so ask for a bowl and keep your dog in the shade between courses."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien au restaurant à Amalfi ?",
+          "a": "Oui, aux tables en terrasse. Les chiens calmes tenus en laisse sont acceptés sur la plupart des terrasses et clubs de plage, selon la coutume italienne. Les petites salles intérieures sont souvent inadaptées, demandez avant d'entrer."
+        },
+        {
+          "q": "Où est-il le plus facile de manger avec un chien à Amalfi ?",
+          "a": "Choisissez les tables sur le front de mer de la plage Marina Grande ou la Piazza dei Dogi et la Piazza Duomo, plates, pour éviter à votre chien les marches des ruelles derrière le centre."
+        },
+        {
+          "q": "Les restaurants donnent-ils de l'eau à mon chien ?",
+          "a": "Oui, sur demande. Cela compte dans la chaleur estivale d'Amalfi, demandez donc une gamelle et gardez votre chien à l'ombre entre les plats."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a los restaurantes de Amalfi?",
+          "a": "Sí, en las mesas de la terraza. Los perros tranquilos con correa son bienvenidos en la mayoría de las terrazas y clubes de playa, según la costumbre italiana. Las pequeñas salas interiores suelen ser poco adecuadas, así que pregunta antes de entrar."
+        },
+        {
+          "q": "¿Dónde es más fácil comer con un perro en Amalfi?",
+          "a": "Elige mesas junto al mar en la playa Marina Grande o las llanas Piazza dei Dogi y Piazza Duomo, para que tu perro evite los escalones de las callejuelas detrás del centro."
+        },
+        {
+          "q": "¿Los restaurantes dan agua a mi perro?",
+          "a": "Sí, si lo pides. Esto importa con el calor del verano de Amalfi, así que pide un cuenco y mantén a tu perro a la sombra entre platos."
+        }
+      ],
+      "titlePt": "Restaurantes que aceitam animais em Amalfi",
+      "introPt": "Amalfi mantém a norma italiana descontraída: os cães com trela e bem-comportados são bem-vindos nas mesas das esplanadas da maioria dos restaurantes e clubes de praia, do porto e da Piazza Duomo até às ruelas estreitas, mesmo que as pequenas salas interiores normalmente não sejam adequadas. O pessoal traz uma taça de água a pedido, o que conta nesta costa quente e cheia de degraus. Prefira um almoço à sombra ou um jantar cedo e, dadas as ruelas íngremes atrás do centro, escolha um sítio perto da marginal ou da praça principal para o seu cão não subir degraus para uma refeição.",
+      "tipsPt": [
+        "A maioria das esplanadas aceita cães com trela; as pequenas salas interiores raramente, por isso conte comer ao ar livre.",
+        "Escolha mesas ao nível da marginal ou da Piazza Duomo para poupar ao seu cão os degraus das ruelas de Amalfi.",
+        "Peça uma taça de água e coma à sombra ou cedo, pois as esplanadas de verão ficam muito quentes."
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão aos restaurantes de Amalfi?",
+          "a": "Sim, nas mesas das esplanadas. Os cães calmos com trela são bem-vindos na maioria das esplanadas e clubes de praia, segundo o costume italiano. As pequenas salas interiores costumam ser pouco adequadas, por isso pergunte antes de entrar."
+        },
+        {
+          "q": "Onde é mais fácil comer com um cão em Amalfi?",
+          "a": "Escolha mesas junto ao mar na praia Marina Grande ou as planas Piazza dei Dogi e Piazza Duomo, para o seu cão evitar os degraus das ruelas atrás do centro."
+        },
+        {
+          "q": "Os restaurantes dão água ao meu cão?",
+          "a": "Sim, a pedido. Isto importa no calor do verão de Amalfi, por isso peça uma taça e mantenha o seu cão à sombra entre pratos."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Parks & Green Spaces around Amalfi",
+      "titleFr": "Parcs et espaces verts autour d'Amalfi",
+      "titleEs": "Parques y zonas verdes alrededor de Amalfi",
+      "introEn": "Amalfi has no city park or lawn: it is a compact seafront town backed by a near-vertical valley, so green space means the footpaths and the hills above. The best walking with a dog is up the Valle delle Ferriere, a cool, shaded ravine of streams and old ironworks, and along the ridge trail to the Torre dello Ziro above Atrani. For green air without a long climb, the hillside hamlet of Pogerola is a short local-bus ride up.",
+      "introFr": "Amalfi n'a ni parc urbain ni pelouse : c'est une ville côtière compacte adossée à une vallée quasi verticale, si bien que les espaces verts se résument aux sentiers et aux collines au-dessus. La meilleure promenade avec un chien monte dans la Valle delle Ferriere, un ravin frais et ombragé de ruisseaux et d'anciennes forges, et suit le sentier de crête jusqu'à la Torre dello Ziro au-dessus d'Atrani. Pour de l'air vert sans longue montée, le hameau de Pogerola est à un court trajet de bus local.",
+      "introEs": "Amalfi no tiene parque urbano ni césped: es una compacta ciudad costera respaldada por un valle casi vertical, así que las zonas verdes se reducen a los senderos y las colinas de arriba. El mejor paseo con un perro sube por la Valle delle Ferriere, un barranco fresco y sombreado de arroyos y antiguas ferrerías, y sigue el sendero de cresta hasta la Torre dello Ziro sobre Atrani. Para aire verde sin una larga subida, la aldea de Pogerola está a un corto trayecto de autobús local.",
+      "places": [
+        {
+          "name": "Valle delle Ferriere",
+          "address": "Trailhead above Amalfi / Pontone",
+          "neighborhood": "Valley above Amalfi",
+          "photo": "/images/city-places/amalfi-parks-valle-delle-ferriere.jpg",
+          "website": "",
+          "description": "A cool, green nature reserve of waterfalls, streams and ruined ironworks in the ravine above Amalfi, far shadier than the sun-baked town. Leashed dogs are welcome on the trail, which climbs from the top of Amalfi; a ticket for the upper reserve is bought at the Pontone information point.",
+          "descriptionFr": "Une réserve naturelle fraîche et verdoyante de cascades, de ruisseaux et de forges en ruine dans le ravin au-dessus d'Amalfi, bien plus ombragée que la ville brûlée par le soleil. Les chiens en laisse sont acceptés sur le sentier, qui grimpe depuis le haut d'Amalfi ; le billet pour la réserve haute s'achète au point d'information de Pontone.",
+          "descriptionEs": "Una reserva natural fresca y verde de cascadas, arroyos y ferrerías en ruinas en el barranco sobre Amalfi, mucho más sombreada que la ciudad abrasada por el sol. Los perros con correa son bienvenidos en el sendero, que sube desde lo alto de Amalfi; la entrada a la reserva alta se compra en el punto de información de Pontone.",
+          "petPolicy": "Leashed dogs welcome on the trail; check off-leash rules",
+          "petPolicyFr": "Chiens en laisse acceptés sur le sentier ; vérifiez les règles hors laisse",
+          "petPolicyEs": "Perros con correa admitidos en el sendero; consulta las normas de suelta",
+          "size": "Valley nature reserve",
+          "facilities": "Shaded trail, streams, waterfalls, cooler air",
+          "facilitiesFr": "Sentier ombragé, ruisseaux, cascades, air plus frais",
+          "facilitiesEs": "Sendero sombreado, arroyos, cascadas, aire más fresco",
+          "openingHours": "Daylight; upper reserve may close in bad weather",
+          "tip": "It is markedly cooler and shadier than the coast, ideal on a hot summer day",
+          "tipFr": "Elle est nettement plus fraîche et ombragée que la côte, idéale par une chaude journée d'été",
+          "tipEs": "Es bastante más fresca y sombreada que la costa, ideal en un día caluroso de verano",
+          "googleMapsUrl": "https://maps.google.com/?q=Valle+delle+Ferriere+Amalfi",
+          "descriptionPt": "Uma reserva natural fresca e verde de cascatas, ribeiros e antigas ferrarias no vale acima de Amalfi, bem mais sombreada do que a vila abrasada pelo sol. Os cães com trela são bem-vindos no trilho, que sobe desde o topo de Amalfi; o bilhete para a reserva alta compra-se no ponto de informação de Pontone.",
+          "petPolicyPt": "Cães com trela bem-vindos no trilho; confirme as regras sem trela",
+          "facilitiesPt": "Trilho sombreado, ribeiros, cascatas, ar mais fresco",
+          "tipPt": "É bastante mais fresca e sombreada do que a costa, ideal num dia quente de verão"
+        },
+        {
+          "name": "Torre dello Ziro trail",
+          "address": "Ridge above Amalfi and Atrani",
+          "neighborhood": "Pontone to the tower",
+          "photo": "/images/city-places/amalfi-parks-torre-dello-ziro.jpg",
+          "website": "",
+          "description": "A short but steep ridge path from Pontone to a ruined watchtower on the spur between Amalfi and Atrani, with huge sea views over both bays. Leashed dogs love the pine-shaded trail, though the tower area is unfenced, so keep them close on the drops.",
+          "descriptionFr": "Un sentier de crête court mais raide de Pontone à une tour de guet en ruine sur l'éperon entre Amalfi et Atrani, avec de vastes vues sur les deux baies. Les chiens en laisse adorent le sentier ombragé de pins, mais les abords de la tour ne sont pas protégés, gardez-les donc près de vous près du vide.",
+          "descriptionEs": "Un sendero de cresta corto pero empinado de Pontone a una torre de vigía en ruinas en el espolón entre Amalfi y Atrani, con enormes vistas al mar sobre ambas bahías. Los perros con correa adoran el sendero sombreado de pinos, aunque la zona de la torre no está vallada, así que mantenlos cerca en los cortados.",
+          "petPolicy": "Leashed dogs welcome; keep close near the unfenced tower",
+          "petPolicyFr": "Chiens en laisse acceptés ; gardez-les près de vous près de la tour non protégée",
+          "petPolicyEs": "Perros con correa admitidos; mantenlos cerca junto a la torre sin vallar",
+          "size": "Ridge trail",
+          "facilities": "Pine-shaded path, watchtower ruin, sea views",
+          "facilitiesFr": "Sentier ombragé de pins, ruine de tour de guet, vues sur la mer",
+          "facilitiesEs": "Sendero sombreado de pinos, ruina de torre de vigía, vistas al mar",
+          "openingHours": "Open access",
+          "tip": "Start from Pontone rather than climbing all the steps from Amalfi or Atrani",
+          "tipFr": "Partez de Pontone plutôt que de gravir toutes les marches depuis Amalfi ou Atrani",
+          "tipEs": "Empieza desde Pontone en vez de subir todos los escalones desde Amalfi o Atrani",
+          "googleMapsUrl": "https://maps.google.com/?q=Torre+dello+Ziro+Amalfi",
+          "descriptionPt": "Um trilho de crista curto mas íngreme de Pontone até uma torre de vigia em ruínas no esporão entre Amalfi e Atrani, com enormes vistas de mar sobre as duas baías. Os cães com trela adoram o trilho sombreado de pinheiros, mas a zona da torre não tem vedação, por isso mantenha-os junto de si junto aos precipícios.",
+          "petPolicyPt": "Cães com trela bem-vindos; mantenha-os junto de si perto da torre sem vedação",
+          "facilitiesPt": "Trilho sombreado de pinheiros, ruína de torre de vigia, vistas de mar",
+          "tipPt": "Comece em Pontone em vez de subir todos os degraus desde Amalfi ou Atrani"
+        },
+        {
+          "name": "Pogerola",
+          "address": "Pogerola, above Amalfi",
+          "neighborhood": "Hillside hamlet",
+          "photo": "/images/city-places/amalfi-parks-pogerola.jpg",
+          "website": "",
+          "description": "A quiet terraced hamlet on the slopes above Amalfi, greener, cooler and far calmer than the seafront, with a small panoramic square and lemon terraces. Leashed dogs enjoy the shaded lanes, reachable by the local orange bus to spare the long stair climb.",
+          "descriptionFr": "Un hameau en terrasses tranquille sur les pentes au-dessus d'Amalfi, plus vert, plus frais et bien plus calme que le front de mer, avec une petite place panoramique et des terrasses de citronniers. Les chiens en laisse apprécient les ruelles ombragées, accessibles par le bus orange local pour éviter la longue montée d'escaliers.",
+          "descriptionEs": "Una tranquila aldea en terrazas en las laderas sobre Amalfi, más verde, fresca y mucho más calmada que el paseo marítimo, con una pequeña plaza panorámica y terrazas de limoneros. Los perros con correa disfrutan de las callejuelas sombreadas, accesibles en el autobús naranja local para ahorrarse la larga subida de escaleras.",
+          "petPolicy": "Leashed dogs welcome in the lanes and square",
+          "petPolicyFr": "Chiens en laisse acceptés dans les ruelles et sur la place",
+          "petPolicyEs": "Perros con correa admitidos en las callejuelas y la plaza",
+          "size": "Hillside hamlet",
+          "facilities": "Shaded lanes, panoramic square, cooler air, bus stop",
+          "facilitiesFr": "Ruelles ombragées, place panoramique, air plus frais, arrêt de bus",
+          "facilitiesEs": "Callejuelas sombreadas, plaza panorámica, aire más fresco, parada de bus",
+          "openingHours": "Open access",
+          "tip": "Take the local orange bus up from Amalfi rather than climbing the hundreds of steps",
+          "tipFr": "Montez en bus orange local depuis Amalfi plutôt que de gravir les centaines de marches",
+          "tipEs": "Sube en el autobús naranja local desde Amalfi en vez de subir los cientos de escalones",
+          "googleMapsUrl": "https://maps.google.com/?q=Pogerola+Amalfi",
+          "descriptionPt": "Uma aldeia tranquila em socalcos nas encostas acima de Amalfi, mais verde, mais fresca e bem mais calma do que a marginal, com uma pequena praça panorâmica e socalcos de limoeiros. Os cães com trela apreciam as ruelas sombreadas, alcançáveis no autocarro laranja local para poupar a longa subida de escadas.",
+          "petPolicyPt": "Cães com trela bem-vindos nas ruelas e na praça",
+          "facilitiesPt": "Ruelas sombreadas, praça panorâmica, ar mais fresco, paragem de autocarro",
+          "tipPt": "Apanhe o autocarro laranja local desde Amalfi em vez de subir as centenas de degraus"
+        }
+      ],
+      "tipsEn": [
+        "There is no dog park or lawn in Amalfi; green space means the trails and hamlets above the town.",
+        "The Valle delle Ferriere is the coolest, shadiest walk, a relief on hot summer days.",
+        "Use the local orange bus up to Pogerola or Pontone rather than climbing the steps in the heat."
+      ],
+      "tipsFr": [
+        "Il n'y a ni parc canin ni pelouse à Amalfi ; les espaces verts, ce sont les sentiers et les hameaux au-dessus de la ville.",
+        "La Valle delle Ferriere est la promenade la plus fraîche et ombragée, un soulagement les jours de chaleur.",
+        "Prenez le bus orange local jusqu'à Pogerola ou Pontone plutôt que de monter les marches sous la chaleur."
+      ],
+      "tipsEs": [
+        "No hay parque canino ni césped en Amalfi; las zonas verdes son los senderos y las aldeas sobre la ciudad.",
+        "La Valle delle Ferriere es el paseo más fresco y sombreado, un alivio en los días calurosos.",
+        "Usa el autobús naranja local hasta Pogerola o Pontone en vez de subir los escalones con calor."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a park where my dog can walk in Amalfi?",
+          "a": "There is no city park or lawn. The best green walks are up the shaded Valle delle Ferriere and the ridge trail to the Torre dello Ziro, or the hillside hamlet of Pogerola, all above the town."
+        },
+        {
+          "q": "Where is coolest for a dog in summer?",
+          "a": "The Valle delle Ferriere, a stream-fed ravine above Amalfi, is markedly cooler and shadier than the seafront, and leashed dogs are welcome on the trail."
+        },
+        {
+          "q": "How do I avoid the steps with my dog?",
+          "a": "Use the local orange buses up to Pogerola, Pontone and Ravello, and walk downhill where you can. Be ready to carry a small dog on the steepest stairways."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un parc où mon chien peut marcher à Amalfi ?",
+          "a": "Il n'y a ni parc urbain ni pelouse. Les meilleures promenades vertes montent dans la Valle delle Ferriere ombragée et sur le sentier de crête vers la Torre dello Ziro, ou au hameau de Pogerola, tous au-dessus de la ville."
+        },
+        {
+          "q": "Où fait-il le plus frais pour un chien en été ?",
+          "a": "La Valle delle Ferriere, un ravin alimenté par des ruisseaux au-dessus d'Amalfi, est nettement plus fraîche et ombragée que le front de mer, et les chiens en laisse y sont acceptés."
+        },
+        {
+          "q": "Comment éviter les escaliers avec mon chien ?",
+          "a": "Utilisez les bus orange locaux vers Pogerola, Pontone et Ravello, et descendez à pied quand c'est possible. Soyez prêt à porter un petit chien dans les escaliers les plus raides."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un parque donde mi perro pueda caminar en Amalfi?",
+          "a": "No hay parque urbano ni césped. Los mejores paseos verdes suben por la sombreada Valle delle Ferriere y el sendero de cresta hacia la Torre dello Ziro, o a la aldea de Pogerola, todos sobre la ciudad."
+        },
+        {
+          "q": "¿Dónde hace más fresco para un perro en verano?",
+          "a": "La Valle delle Ferriere, un barranco con arroyos sobre Amalfi, es bastante más fresca y sombreada que el paseo marítimo, y los perros con correa son bienvenidos en el sendero."
+        },
+        {
+          "q": "¿Cómo evito las escaleras con mi perro?",
+          "a": "Usa los autobuses naranjas locales hasta Pogerola, Pontone y Ravello, y baja a pie cuando puedas. Prepárate para llevar en brazos a un perro pequeño en las escaleras más empinadas."
+        }
+      ],
+      "titlePt": "Parques e espaços verdes à volta de Amalfi",
+      "introPt": "Amalfi não tem parque urbano nem relvado: é uma vila costeira compacta encostada a um vale quase vertical, por isso espaço verde significa os trilhos e as colinas por cima. A melhor caminhada com um cão sobe pela Valle delle Ferriere, uma ravina fresca e sombreada de ribeiros e antigas ferrarias, e segue o trilho de crista até à Torre dello Ziro acima de Atrani. Para ar verde sem uma longa subida, a aldeia de Pogerola fica a um curto trajeto de autocarro local.",
+      "tipsPt": [
+        "Não há parque canino nem relvado em Amalfi; espaço verde significa os trilhos e as aldeias acima da vila.",
+        "A Valle delle Ferriere é o passeio mais fresco e sombreado, um alívio nos dias quentes de verão.",
+        "Use o autocarro laranja local até Pogerola ou Pontone em vez de subir os degraus no calor."
+      ],
+      "faqsPt": [
+        {
+          "q": "Há um parque onde o meu cão possa caminhar em Amalfi?",
+          "a": "Não há parque urbano nem relvado. Os melhores passeios verdes sobem pela sombreada Valle delle Ferriere e pelo trilho de crista até à Torre dello Ziro, ou à aldeia de Pogerola, todos acima da vila."
+        },
+        {
+          "q": "Onde é mais fresco para um cão no verão?",
+          "a": "A Valle delle Ferriere, uma ravina alimentada por ribeiros acima de Amalfi, é bastante mais fresca e sombreada do que a marginal, e os cães com trela são bem-vindos no trilho."
+        },
+        {
+          "q": "Como evito os degraus com o meu cão?",
+          "a": "Use os autocarros laranja locais até Pogerola, Pontone e Ravello, e desça a pé quando puder. Esteja pronto para levar ao colo um cão pequeno nas escadarias mais íngremes."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Amalfi with a Dog",
+      "titleFr": "Se déplacer à Amalfi avec un chien",
+      "titleEs": "Moverse por Amalfi con un perro",
+      "introEn": "Amalfi's centre is small and fairly flat along the seafront, but the coast road and the villages above mean you will lean on buses and boats. The SITA SUD coast buses and the local orange lines take leashed, muzzled dogs, and the seasonal ferries from the pier are a cooler, calmer way to reach Positano, Salerno or Capri than the winding switchback road. Whichever you take, avoid the 7 to 9 am rush and the peak midday heat, and always carry your dog's muzzle.",
+      "introFr": "Le centre d'Amalfi est petit et assez plat le long du front de mer, mais la route côtière et les villages au-dessus vous feront compter sur les bus et les bateaux. Les bus côtiers SITA SUD et les lignes orange locales acceptent les chiens en laisse et muselés, et les ferries saisonniers depuis le quai offrent une arrivée plus fraîche et plus calme vers Positano, Salerne ou Capri que la route en lacets. Quel que soit votre choix, évitez l'affluence de 7h à 9h et la chaleur de midi, et emportez toujours la muselière de votre chien.",
+      "introEs": "El centro de Amalfi es pequeño y bastante llano junto al paseo marítimo, pero la carretera costera y los pueblos de arriba hacen que dependas de autobuses y barcos. Los autobuses costeros SITA SUD y las líneas naranjas locales admiten perros con correa y bozal, y los ferries de temporada desde el muelle son una forma más fresca y tranquila de llegar a Positano, Salerno o Capri que la carretera de curvas. Sea cual sea tu elección, evita la hora punta de 7 a 9 y el calor del mediodía, y lleva siempre el bozal de tu perro.",
+      "places": [
+        {
+          "name": "SITA SUD Amalfi Coast buses",
+          "address": "Amalfi Coast road (SS163)",
+          "neighborhood": "Amalfi, Positano, Sorrento, Salerno",
+          "photo": "/images/city-places/amalfi-transport-sita-sud-bus.jpg",
+          "website": "https://www.sitasudtrasporti.it",
+          "description": "The blue SITA SUD buses run the coast road linking Amalfi with Positano, Sorrento, Ravello and Salerno. Small pets are allowed on a leash or in a carrier and must wear a muzzle where required; buses get very crowded in summer, so travel early.",
+          "descriptionFr": "Les bus bleus SITA SUD parcourent la route côtière reliant Amalfi à Positano, Sorrente, Ravello et Salerne. Les petits animaux sont admis en laisse ou en sac de transport et doivent porter une muselière si nécessaire ; les bus sont très bondés en été, voyagez donc tôt.",
+          "descriptionEs": "Los autobuses azules de SITA SUD recorren la carretera costera que une Amalfi con Positano, Sorrento, Ravello y Salerno. Las mascotas pequeñas se admiten con correa o en transportín y deben llevar bozal cuando se exija; los autobuses van muy llenos en verano, así que viaja temprano.",
+          "petPolicy": "Small dogs on leash or in a carrier, muzzle where required",
+          "petPolicyFr": "Petits chiens en laisse ou en sac, muselière si nécessaire",
+          "petPolicyEs": "Perros pequeños con correa o en transportín, bozal cuando se exija",
+          "googleMapsUrl": "https://maps.google.com/?q=SITA+bus+Amalfi",
+          "descriptionPt": "Os autocarros azuis da SITA SUD percorrem a estrada costeira que liga Amalfi a Positano, Sorrento, Ravello e Salerno. Os animais pequenos são admitidos com trela ou em transportadora e têm de usar açaime quando exigido; os autocarros ficam muito cheios no verão, por isso viaje cedo.",
+          "petPolicyPt": "Cães pequenos com trela ou em transportadora, açaime quando exigido"
+        },
+        {
+          "name": "Amalfi ferries (Travelmar, Alilauro)",
+          "address": "Amalfi pier (Molo)",
+          "neighborhood": "Positano, Salerno, Capri",
+          "photo": "/images/city-places/amalfi-transport-ferries.jpg",
+          "website": "https://www.travelmar.it",
+          "description": "Seasonal ferries link Amalfi with Positano, Salerno, Minori, Maiori and Capri, a scenic and far less nauseating option than the winding road. Dogs travel with a leash and muzzle for a small fare, and small pets may go in a carrier; pets stay out of the enclosed passenger lounges.",
+          "descriptionFr": "Des ferries saisonniers relient Amalfi à Positano, Salerne, Minori, Maiori et Capri, une option panoramique et bien moins nauséeuse que la route sinueuse. Les chiens voyagent en laisse et muselière moyennant un petit tarif, et les petits animaux peuvent rester en sac ; les animaux restent hors des salles passagers fermées.",
+          "descriptionEs": "Ferries de temporada unen Amalfi con Positano, Salerno, Minori, Maiori y Capri, una opción panorámica y mucho menos mareante que la carretera de curvas. Los perros viajan con correa y bozal por una pequeña tarifa, y las mascotas pequeñas pueden ir en transportín; las mascotas se quedan fuera de las salas de pasajeros cerradas.",
+          "petPolicy": "Dogs with leash and muzzle, small fare; small pets in a carrier",
+          "petPolicyFr": "Chiens en laisse et muselière, petit tarif ; petits animaux en sac",
+          "petPolicyEs": "Perros con correa y bozal, pequeña tarifa; mascotas pequeñas en transportín",
+          "googleMapsUrl": "https://maps.google.com/?q=Amalfi+ferry+terminal",
+          "descriptionPt": "Ferries sazonais ligam Amalfi a Positano, Salerno, Minori, Maiori e Capri, uma opção panorâmica e bem menos enjoativa do que a estrada sinuosa. Os cães viajam com trela e açaime mediante uma pequena tarifa, e os animais pequenos podem ir em transportadora; os animais ficam fora das salas de passageiros fechadas.",
+          "petPolicyPt": "Cães com trela e açaime, pequena tarifa; animais pequenos em transportadora"
+        },
+        {
+          "name": "Local orange buses to Ravello, Pogerola and Pontone",
+          "address": "Piazza Flavio Gioia, Amalfi",
+          "neighborhood": "Amalfi hillside villages",
+          "photo": "/images/city-places/amalfi-transport-local-orange-bus.jpg",
+          "website": "",
+          "description": "The little orange Mobility Amalfi Coast buses climb from Amalfi's seafront square to the hill villages of Ravello, Pogerola, Pontone and Scala, saving the brutal stair climbs. Leashed, muzzled dogs can ride them, a lifesaver for older or small dogs in the heat.",
+          "descriptionFr": "Les petits bus orange Mobility Amalfi Coast montent de la place du front de mer d'Amalfi vers les villages de collines de Ravello, Pogerola, Pontone et Scala, évitant les montées d'escaliers brutales. Les chiens en laisse et muselés peuvent les emprunter, ce qui sauve la mise pour les chiens âgés ou petits par forte chaleur.",
+          "descriptionEs": "Los pequeños autobuses naranjas Mobility Amalfi Coast suben desde la plaza del paseo marítimo de Amalfi a los pueblos de montaña de Ravello, Pogerola, Pontone y Scala, evitando las brutales subidas de escaleras. Los perros con correa y bozal pueden subir, un alivio para perros mayores o pequeños con calor.",
+          "petPolicy": "Leashed, muzzled dogs accepted; carry small dogs when full",
+          "petPolicyFr": "Chiens en laisse et muselés acceptés ; portez les petits chiens quand c'est bondé",
+          "petPolicyEs": "Perros con correa y bozal admitidos; lleva en brazos a los pequeños si va lleno",
+          "googleMapsUrl": "https://maps.google.com/?q=Amalfi+Piazza+Flavio+Gioia+bus",
+          "descriptionPt": "Os pequenos autocarros laranja Mobility Amalfi Coast sobem desde a praça da marginal de Amalfi para as aldeias de montanha de Ravello, Pogerola, Pontone e Scala, poupando as brutais subidas de escadas. Os cães com trela e açaime podem viajar neles, uma salvação para cães mais velhos ou pequenos no calor.",
+          "petPolicyPt": "Cães com trela e açaime aceites; leve ao colo os pequenos quando estiver cheio"
+        }
+      ],
+      "tipsEn": [
+        "Dogs need a muzzle on the SITA buses, the local orange buses and the ferries, so pack a soft basket muzzle.",
+        "Arriving by ferry is calmer than the winding coast road, which can make dogs carsick.",
+        "Avoid the 7 to 9 am commuter window and the busiest midday buses, which are packed and hot."
+      ],
+      "tipsFr": [
+        "Les chiens ont besoin d'une muselière dans les bus SITA, les bus orange locaux et les ferries, prévoyez donc une muselière souple.",
+        "Arriver en ferry est plus calme que la route côtière sinueuse, qui peut rendre les chiens malades.",
+        "Évitez le créneau des navetteurs de 7h à 9h et les bus de midi les plus fréquentés, bondés et chauds."
+      ],
+      "tipsEs": [
+        "Los perros necesitan bozal en los autobuses SITA, los autobuses naranjas locales y los ferries, así que lleva un bozal de cesta blando.",
+        "Llegar en ferry es más tranquilo que la carretera costera de curvas, que puede marear a los perros.",
+        "Evita la franja de 7 a 9 de los que van al trabajo y los autobuses del mediodía más llenos, abarrotados y calurosos."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the Amalfi Coast bus?",
+          "a": "Yes. SITA SUD buses accept small dogs on a leash or in a carrier, with a muzzle where required. They get extremely crowded in summer, so travel early and keep your dog close."
+        },
+        {
+          "q": "Are dogs allowed on the Amalfi ferries?",
+          "a": "Yes, with a leash and muzzle for a small fare, and small pets can go in a carrier. Pets stay out of the enclosed passenger lounges. Ferries are a calmer way to travel than the winding road."
+        },
+        {
+          "q": "How do I reach the hill villages without the steps?",
+          "a": "Take the local orange Mobility Amalfi Coast buses from Piazza Flavio Gioia up to Ravello, Pogerola, Pontone and Scala, which spare your dog the long stair climbs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je prendre le bus de la Côte amalfitaine avec mon chien ?",
+          "a": "Oui. Les bus SITA SUD acceptent les petits chiens en laisse ou en sac, avec muselière si nécessaire. Ils sont extrêmement bondés en été, voyagez donc tôt et gardez votre chien près de vous."
+        },
+        {
+          "q": "Les chiens sont-ils admis sur les ferries d'Amalfi ?",
+          "a": "Oui, en laisse et muselière moyennant un petit tarif, et les petits animaux peuvent rester en sac. Les animaux restent hors des salles passagers fermées. Le ferry est une arrivée plus calme que la route sinueuse."
+        },
+        {
+          "q": "Comment rejoindre les villages de collines sans les escaliers ?",
+          "a": "Prenez les bus orange locaux Mobility Amalfi Coast depuis la Piazza Flavio Gioia vers Ravello, Pogerola, Pontone et Scala, qui épargnent à votre chien les longues montées d'escaliers."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro en el autobús de la Costa Amalfitana?",
+          "a": "Sí. Los autobuses SITA SUD admiten perros pequeños con correa o en transportín, con bozal cuando se exija. Van muy llenos en verano, así que viaja temprano y mantén a tu perro cerca."
+        },
+        {
+          "q": "¿Se admiten perros en los ferries de Amalfi?",
+          "a": "Sí, con correa y bozal por una pequeña tarifa, y las mascotas pequeñas pueden ir en transportín. Las mascotas se quedan fuera de las salas de pasajeros cerradas. El ferry es una forma más tranquila de viajar que la carretera de curvas."
+        },
+        {
+          "q": "¿Cómo llego a los pueblos de montaña sin las escaleras?",
+          "a": "Toma los autobuses naranjas locales Mobility Amalfi Coast desde la Piazza Flavio Gioia hasta Ravello, Pogerola, Pontone y Scala, que ahorran a tu perro las largas subidas de escaleras."
+        }
+      ],
+      "titlePt": "Como circular em Amalfi com um cão",
+      "introPt": "O centro de Amalfi é pequeno e bastante plano ao longo da marginal, mas a estrada costeira e as aldeias por cima fazem com que dependa de autocarros e barcos. Os autocarros costeiros SITA SUD e as linhas laranja locais aceitam cães com trela e açaime, e os ferries sazonais a partir do cais são uma forma mais fresca e calma de chegar a Positano, Salerno ou Capri do que a estrada de curvas. Seja o que for que apanhe, evite a hora de ponta das 7h às 9h e o calor de meio-dia, e leve sempre o açaime do seu cão.",
+      "tipsPt": [
+        "Os cães precisam de açaime nos autocarros SITA, nos autocarros laranja locais e nos ferries, por isso leve um açaime de cesto macio.",
+        "Chegar de ferry é mais calmo do que a estrada costeira de curvas, que pode enjoar os cães.",
+        "Evite a janela dos que vão trabalhar das 7h às 9h e os autocarros de meio-dia mais cheios, apinhados e quentes."
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão no autocarro da Costa Amalfitana?",
+          "a": "Sim. Os autocarros SITA SUD aceitam cães pequenos com trela ou em transportadora, com açaime quando exigido. Ficam extremamente cheios no verão, por isso viaje cedo e mantenha o seu cão junto de si."
+        },
+        {
+          "q": "Os cães são permitidos nos ferries de Amalfi?",
+          "a": "Sim, com trela e açaime mediante uma pequena tarifa, e os animais pequenos podem ir em transportadora. Os animais ficam fora das salas de passageiros fechadas. O ferry é uma forma mais calma de viajar do que a estrada sinuosa."
+        },
+        {
+          "q": "Como chego às aldeias de montanha sem os degraus?",
+          "a": "Apanhe os autocarros laranja locais Mobility Amalfi Coast na Piazza Flavio Gioia até Ravello, Pogerola, Pontone e Scala, que poupam ao seu cão as longas subidas de escadas."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Amalfi",
+      "titleFr": "Plages acceptant les chiens près d'Amalfi",
+      "titleEs": "Playas que admiten perros cerca de Amalfi",
+      "introEn": "Be honest with yourself before you come: Amalfi is not a beach destination for dogs. Its beaches are small pebble and rock coves, and under the usual Italian coastal rules dogs are kept off most public beaches from roughly June to September, with the busy private lidos on Marina Grande setting their own, usually no-dog, policies. The quieter coves at Duoglio and Santa Croce, reached by steps or boat, are a little more relaxed off-season. For a genuine swim with your dog you will need a dedicated dog beach further along the coast toward Salerno. Watch the hot rock and pebbles too, which can burn paws on a summer afternoon.",
+      "introFr": "Soyez honnête avec vous-même avant de venir : Amalfi n'est pas une destination balnéaire pour chiens. Ses plages sont de petites criques de galets et de rochers, et selon les règles côtières italiennes habituelles, les chiens sont écartés de la plupart des plages publiques d'environ juin à septembre, les lidos privés bondés de la Marina Grande fixant leurs propres règles, généralement sans chien. Les criques plus calmes de Duoglio et Santa Croce, accessibles par des marches ou en bateau, sont un peu plus souples hors saison. Pour une vraie baignade avec votre chien, il faudra une plage canine dédiée plus loin sur la côte vers Salerne. Attention aussi aux rochers et galets brûlants, qui peuvent brûler les coussinets par un après-midi d'été.",
+      "introEs": "Sé sincero contigo mismo antes de venir: Amalfi no es un destino de playa para perros. Sus playas son pequeñas calas de guijarros y roca, y según las normas costeras italianas habituales los perros se mantienen fuera de la mayoría de las playas públicas de junio a septiembre aproximadamente, y los concurridos lidos privados de Marina Grande fijan sus propias normas, por lo general sin perros. Las calas más tranquilas de Duoglio y Santa Croce, a las que se llega por escalones o en barco, son algo más flexibles fuera de temporada. Para un baño de verdad con tu perro necesitarás una playa canina específica más adelante en la costa hacia Salerno. Cuidado también con la roca y los guijarros calientes, que pueden quemar las almohadillas en una tarde de verano.",
+      "places": [
+        {
+          "name": "Marina Grande (Amalfi main beach)",
+          "distance": "In central Amalfi",
+          "description": "Amalfi's main pebble beach below the town, mostly divided into private beach clubs with a small free (libera) section. Dogs are generally not welcome on the lidos and are restricted through summer, so treat it as a place to pass through rather than to swim.",
+          "season": "Dogs restricted, especially June to September",
+          "rules": "No dogs on the private lidos; leash in the free section",
+          "facilities": "Loungers, restaurants, ferry pier (dog access limited)",
+          "googleMapsUrl": "https://maps.google.com/?q=Marina+Grande+beach+Amalfi",
+          "photo": "/images/city-places/amalfi-beaches-marina-grande.jpg"
+        },
+        {
+          "name": "Duoglio & Santa Croce coves",
+          "distance": "West of Amalfi, by 400 steps or boat from the pier",
+          "description": "Two quieter pebble-and-rock coves west of Amalfi with clearer water than the town beach, reached by a long stair descent or a short water taxi from the Amalfi pier. They feel more relaxed than Marina Grande, especially off-season, but have few facilities, so bring water and always check current signs and the lido's dog policy.",
+          "season": "More relaxed off-season; restricted in high summer",
+          "rules": "Confirm each lido's dog policy; keep leashed and bring water",
+          "facilities": "Small lidos, clear water, limited shade; reached by steps or boat",
+          "googleMapsUrl": "https://maps.google.com/?q=Duoglio+beach+Amalfi",
+          "photo": "/images/city-places/amalfi-beaches-duoglio-santa-croce.jpg"
+        },
+        {
+          "name": "Bau Bau Beach Village (Marina di Eboli)",
+          "distance": "Along the coast east toward Salerno, at Marina di Eboli",
+          "description": "For a real beach day, this is Campania's first dedicated dog beach, a fenced, equipped resort at Marina di Eboli where dogs genuinely swim and play through summer, unlike the Amalfi lidos. It has a dog beach, dog wash, shaded areas and off-leash space, open daily June to September.",
+          "season": "Dog beach open daily, roughly June to September",
+          "rules": "Follow the village's posted dog rules; leash outside the play areas",
+          "facilities": "Fenced dog beach, dog wash, shade, off-leash area, pet shop",
+          "googleMapsUrl": "https://maps.google.com/?q=Bau+Bau+Beach+Village+Eboli",
+          "photo": "/images/city-places/amalfi-beaches-bau-bau-beach-village.jpg"
+        }
+      ],
+      "tipsEn": [
+        "Dogs are kept off most public beaches from June to September, and Amalfi's private lidos rarely allow them.",
+        "The Duoglio and Santa Croce coves are more dog-tolerant off-season, but always check the lido's current policy.",
+        "For a proper swim with your dog, head to a dedicated dog beach further east toward Salerno, such as Bau Bau Beach Village."
+      ],
+      "tipsFr": [
+        "Les chiens sont écartés de la plupart des plages publiques de juin à septembre, et les lidos privés d'Amalfi les acceptent rarement.",
+        "Les criques de Duoglio et Santa Croce sont plus tolérantes hors saison, mais vérifiez toujours la règle en vigueur du lido.",
+        "Pour une vraie baignade avec votre chien, rejoignez une plage canine dédiée plus à l'est vers Salerne, comme le Bau Bau Beach Village."
+      ],
+      "tipsEs": [
+        "Los perros se mantienen fuera de la mayoría de las playas públicas de junio a septiembre, y los lidos privados de Amalfi rara vez los admiten.",
+        "Las calas de Duoglio y Santa Croce son más tolerantes fuera de temporada, pero comprueba siempre la norma vigente del lido.",
+        "Para un baño de verdad con tu perro, ve a una playa canina específica más al este hacia Salerno, como el Bau Bau Beach Village."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can my dog go on the beach in Amalfi?",
+          "a": "Rarely in summer. Italian rules keep dogs off most public beaches June to September, and Amalfi's private lidos usually do not allow them. The quieter Duoglio and Santa Croce coves are a little more relaxed off-season, but Amalfi is not a beach destination for dogs."
+        },
+        {
+          "q": "Which Amalfi beach is best with a dog?",
+          "a": "The quieter coves at Duoglio and Santa Croce, west of town and reached by steps or boat, are more dog-tolerant than the busy Marina Grande. Always confirm the specific lido's policy and current summer signage first."
+        },
+        {
+          "q": "Where can I actually swim with my dog?",
+          "a": "At a dedicated dog beach further east toward Salerno, such as Bau Bau Beach Village at Marina di Eboli, Campania's first dog beach. These equipped beaches welcome dogs through summer, unlike the Amalfi lidos."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Mon chien peut-il aller sur la plage à Amalfi ?",
+          "a": "Rarement en été. Les règles italiennes écartent les chiens de la plupart des plages publiques de juin à septembre, et les lidos privés d'Amalfi ne les acceptent généralement pas. Les criques plus calmes de Duoglio et Santa Croce sont un peu plus souples hors saison, mais Amalfi n'est pas une destination balnéaire pour chiens."
+        },
+        {
+          "q": "Quelle plage d'Amalfi est la meilleure avec un chien ?",
+          "a": "Les criques plus calmes de Duoglio et Santa Croce, à l'ouest de la ville et accessibles par des marches ou en bateau, sont plus tolérantes que la Marina Grande animée. Vérifiez toujours d'abord la règle du lido concerné et la signalisation estivale."
+        },
+        {
+          "q": "Où puis-je vraiment nager avec mon chien ?",
+          "a": "Sur une plage canine dédiée plus à l'est vers Salerne, comme le Bau Bau Beach Village à Marina di Eboli, première plage canine de Campanie. Ces plages équipées accueillent les chiens tout l'été, contrairement aux lidos d'Amalfi."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puede ir mi perro a la playa en Amalfi?",
+          "a": "Rara vez en verano. Las normas italianas mantienen a los perros fuera de la mayoría de las playas públicas de junio a septiembre, y los lidos privados de Amalfi no suelen admitirlos. Las calas más tranquilas de Duoglio y Santa Croce son algo más flexibles fuera de temporada, pero Amalfi no es un destino de playa para perros."
+        },
+        {
+          "q": "¿Qué playa de Amalfi es mejor con un perro?",
+          "a": "Las calas más tranquilas de Duoglio y Santa Croce, al oeste del pueblo y a las que se llega por escalones o en barco, son más tolerantes que la concurrida Marina Grande. Confirma siempre primero la norma del lido concreto y la señalización estival."
+        },
+        {
+          "q": "¿Dónde puedo bañarme de verdad con mi perro?",
+          "a": "En una playa canina específica más al este hacia Salerno, como el Bau Bau Beach Village en Marina di Eboli, la primera playa canina de Campania. Estas playas equipadas admiten perros durante el verano, a diferencia de los lidos de Amalfi."
+        }
+      ],
+      "titlePt": "Praias que aceitam cães perto de Amalfi",
+      "introPt": "Seja honesto consigo mesmo antes de vir: Amalfi não é um destino de praia para cães. As suas praias são pequenas enseadas de seixos e rocha, e segundo as regras costeiras italianas habituais os cães são mantidos fora da maioria das praias públicas de sensivelmente junho a setembro, com os movimentados lidos privados da Marina Grande a definirem as suas próprias regras, normalmente sem cães. As enseadas mais calmas de Duoglio e Santa Croce, alcançadas por degraus ou de barco, são um pouco mais flexíveis fora de época. Para um banho a sério com o seu cão terá de procurar uma praia canina dedicada mais adiante na costa em direção a Salerno. Atenção também à rocha e aos seixos quentes, que podem queimar as patas numa tarde de verão.",
+      "tipsPt": [
+        "Os cães são mantidos fora da maioria das praias públicas de junho a setembro, e os lidos privados de Amalfi raramente os admitem.",
+        "As enseadas de Duoglio e Santa Croce são mais tolerantes fora de época, mas verifique sempre a regra em vigor do lido.",
+        "Para um banho a sério com o seu cão, vá a uma praia canina dedicada mais a leste em direção a Salerno, como o Bau Bau Beach Village."
+      ],
+      "faqsPt": [
+        {
+          "q": "O meu cão pode ir à praia em Amalfi?",
+          "a": "Raramente no verão. As regras italianas mantêm os cães fora da maioria das praias públicas de junho a setembro, e os lidos privados de Amalfi normalmente não os admitem. As enseadas mais calmas de Duoglio e Santa Croce são um pouco mais flexíveis fora de época, mas Amalfi não é um destino de praia para cães."
+        },
+        {
+          "q": "Qual é a melhor praia de Amalfi com um cão?",
+          "a": "As enseadas mais calmas de Duoglio e Santa Croce, a oeste da vila e alcançadas por degraus ou de barco, são mais tolerantes do que a movimentada Marina Grande. Confirme sempre primeiro a regra do lido concreto e a sinalização de verão."
+        },
+        {
+          "q": "Onde posso realmente nadar com o meu cão?",
+          "a": "Numa praia canina dedicada mais a leste em direção a Salerno, como o Bau Bau Beach Village em Marina di Eboli, a primeira praia canina da Campânia. Estas praias equipadas aceitam cães durante o verão, ao contrário dos lidos de Amalfi."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians near Amalfi",
+      "titleFr": "Vétérinaires près d'Amalfi",
+      "titleEs": "Veterinarios cerca de Amalfi",
+      "introEn": "Amalfi itself is a small coastal town with no full veterinary clinic, so the realistic options are along the coast toward Salerno or over toward Sorrento. Neither is far by road, but the winding coast route is slow in summer traffic, so allow extra time and phone ahead. Save these numbers offline before you set out on the Valle delle Ferriere or the Torre dello Ziro trail, where signal is unreliable.",
+      "introFr": "Amalfi même est une petite ville côtière sans clinique vétérinaire complète ; les options réalistes se trouvent donc le long de la côte vers Salerne ou du côté de Sorrente. Aucune n'est loin par la route, mais l'itinéraire côtier sinueux est lent avec le trafic estival, prévoyez donc du temps et téléphonez à l'avance. Enregistrez ces numéros hors ligne avant de partir dans la Valle delle Ferriere ou sur le sentier de la Torre dello Ziro, où le réseau est peu fiable.",
+      "introEs": "La propia Amalfi es una pequeña ciudad costera sin clínica veterinaria completa, así que las opciones realistas están a lo largo de la costa hacia Salerno o hacia Sorrento. Ninguna está lejos por carretera, pero la sinuosa ruta costera es lenta con el tráfico de verano, así que reserva tiempo extra y llama con antelación. Guarda estos números sin conexión antes de salir a la Valle delle Ferriere o al sendero de la Torre dello Ziro, donde la cobertura es poco fiable.",
+      "places": [
+        {
+          "name": "Centro Medico Veterinario Costa d'Amalfi",
+          "type": "Veterinary clinic",
+          "address": "Via De Marinis 29, 84019 Vietri sul Mare (SA)",
+          "neighborhood": "Vietri sul Mare (Salerno end)",
+          "phone": "+39 349 336 5930",
+          "hours": "Call ahead for opening hours",
+          "hoursFr": "Appelez pour connaître les horaires",
+          "hoursEs": "Llama para conocer el horario",
+          "englishSpeaking": "Call ahead to confirm",
+          "website": "",
+          "photo": "/images/city-places/amalfi-vets-costa-d-amalfi.jpg",
+          "description": "Directed by Dr Francesco Ferrara, this clinic in Vietri sul Mare covers the eastern, Salerno end of the Amalfi Coast and partners with the local ENPA animal charity. It is the nearest proper vet to Amalfi along the coast toward Salerno.",
+          "descriptionFr": "Dirigée par le Dr Francesco Ferrara, cette clinique de Vietri sul Mare couvre l'extrémité est, côté Salerne, de la Côte amalfitaine et collabore avec l'association animale locale ENPA. C'est le vétérinaire complet le plus proche d'Amalfi le long de la côte vers Salerne.",
+          "descriptionEs": "Dirigida por el Dr. Francesco Ferrara, esta clínica de Vietri sul Mare cubre el extremo este, lado Salerno, de la Costa Amalfitana y colabora con la protectora local ENPA. Es el veterinario completo más cercano a Amalfi a lo largo de la costa hacia Salerno.",
+          "petPolicy": "Dogs and cats seen by appointment",
+          "petPolicyFr": "Chiens et chats reçus sur rendez-vous",
+          "petPolicyEs": "Perros y gatos atendidos con cita previa",
+          "services": "General care, vaccinations, minor urgencies",
+          "servicesFr": "Soins généraux, vaccinations, petites urgences",
+          "servicesEs": "Cuidados generales, vacunaciones, pequeñas urgencias",
+          "languages": [
+            "Italian"
+          ],
+          "openingHours": "Call ahead",
+          "tip": "Nearest proper vet if you are based in Amalfi, Minori or Maiori; call before the drive",
+          "tipFr": "Le vétérinaire complet le plus proche si vous logez à Amalfi, Minori ou Maiori ; appelez avant de faire la route",
+          "tipEs": "El veterinario completo más cercano si te alojas en Amalfi, Minori o Maiori; llama antes de conducir",
+          "googleMapsUrl": "https://maps.google.com/?q=Centro+Medico+Veterinario+Costa+d'Amalfi+Vietri+sul+Mare",
+          "hoursPt": "Ligue para saber o horário",
+          "descriptionPt": "Dirigida pelo Dr. Francesco Ferrara, esta clínica em Vietri sul Mare cobre o extremo leste, do lado de Salerno, da Costa Amalfitana e colabora com a associação animal local ENPA. É o veterinário completo mais próximo de Amalfi ao longo da costa em direção a Salerno.",
+          "petPolicyPt": "Cães e gatos atendidos com marcação",
+          "servicesPt": "Cuidados gerais, vacinação, pequenas urgências",
+          "tipPt": "O veterinário completo mais próximo se estiver alojado em Amalfi, Minori ou Maiori; ligue antes de conduzir"
+        },
+        {
+          "name": "Ambulatorio Veterinario Gli Amici del Cuore",
+          "type": "Veterinary clinic",
+          "address": "Via degli Aranci 31, 80067 Sorrento (NA)",
+          "neighborhood": "Sorrento (western end)",
+          "phone": "+39 081 362 2147",
+          "hours": "Call ahead for opening hours",
+          "hoursFr": "Appelez pour connaître les horaires",
+          "hoursEs": "Llama para conocer el horario",
+          "englishSpeaking": "Limited, call ahead",
+          "website": "",
+          "photo": "/images/city-places/amalfi-vets-gli-amici-del-cuore.jpg",
+          "description": "A well-established Sorrento clinic on Via degli Aranci, the nearest proper vet if you are travelling from or via the Sorrento side of the peninsula. It handles routine and urgent small-animal care.",
+          "descriptionFr": "Une clinique reconnue de Sorrente sur la Via degli Aranci, le vétérinaire complet le plus proche si vous voyagez de Sorrente ou par le côté sorrentin de la péninsule. Elle assure les soins courants et urgents pour les animaux de compagnie.",
+          "descriptionEs": "Una clínica consolidada de Sorrento en la Via degli Aranci, el veterinario completo más cercano si viajas desde o vía el lado sorrentino de la península. Atiende cuidados rutinarios y urgentes de animales de compañía.",
+          "petPolicy": "Dogs and cats seen by appointment",
+          "petPolicyFr": "Chiens et chats reçus sur rendez-vous",
+          "petPolicyEs": "Perros y gatos atendidos con cita previa",
+          "services": "General small-animal care, vaccinations, urgencies",
+          "servicesFr": "Soins généraux, vaccinations, urgences",
+          "servicesEs": "Cuidados generales, vacunaciones, urgencias",
+          "languages": [
+            "Italian"
+          ],
+          "openingHours": "Call ahead",
+          "tip": "Handiest if you are arriving from or via Sorrento; call before making the drive",
+          "tipFr": "Le plus pratique si vous arrivez de Sorrente ou par Sorrente ; appelez avant de faire la route",
+          "tipEs": "El más práctico si llegas desde o vía Sorrento; llama antes de conducir",
+          "googleMapsUrl": "https://maps.google.com/?q=Ambulatorio+Veterinario+Gli+Amici+del+Cuore+Sorrento",
+          "hoursPt": "Ligue para saber o horário",
+          "descriptionPt": "Uma clínica reconhecida de Sorrento na Via degli Aranci, o veterinário completo mais próximo se viajar de Sorrento ou pelo lado sorrentino da península. Trata cuidados de rotina e urgentes de animais de companhia.",
+          "petPolicyPt": "Cães e gatos atendidos com marcação",
+          "servicesPt": "Cuidados gerais, vacinação, urgências",
+          "tipPt": "O mais prático se chegar de Sorrento ou por Sorrento; ligue antes de conduzir"
+        }
+      ],
+      "tipsEn": [
+        "There is no full vet in Amalfi; the nearest are toward Salerno at Vietri sul Mare and over toward Sorrento.",
+        "Summer coast traffic is slow, so phone ahead and allow extra time to reach a clinic.",
+        "Carry your dog's EU pet passport and health booklet, needed for the buses and ferries too."
+      ],
+      "tipsFr": [
+        "Il n'y a pas de vétérinaire complet à Amalfi ; les plus proches sont vers Salerne à Vietri sul Mare et du côté de Sorrente.",
+        "Le trafic côtier estival est lent, téléphonez donc à l'avance et prévoyez du temps pour atteindre une clinique.",
+        "Emportez le passeport européen et le carnet de santé de votre chien, requis aussi pour les bus et les ferries."
+      ],
+      "tipsEs": [
+        "No hay veterinario completo en Amalfi; los más cercanos están hacia Salerno en Vietri sul Mare y hacia Sorrento.",
+        "El tráfico costero de verano es lento, así que llama con antelación y reserva tiempo para llegar a una clínica.",
+        "Lleva el pasaporte europeo y la cartilla sanitaria de tu perro, necesarios también para los autobuses y ferries."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a vet in Amalfi?",
+          "a": "No full clinic. The nearest proper vets are Centro Medico Veterinario Costa d'Amalfi at Vietri sul Mare toward Salerno, and Gli Amici del Cuore in Sorrento at the western end of the peninsula."
+        },
+        {
+          "q": "What should I do in an emergency?",
+          "a": "Phone ahead to the nearest clinic and factor in slow coast traffic. For out-of-hours emergencies, ask the clinic or your accommodation about the on-call (reperibilità) service or the nearest hospital toward Salerno."
+        },
+        {
+          "q": "Do I need documents for my dog?",
+          "a": "Yes. Carry the EU pet passport with a valid rabies vaccination and the health booklet. You will also need these to travel on the SITA buses and the ferries."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire à Amalfi ?",
+          "a": "Pas de clinique complète. Les vétérinaires complets les plus proches sont le Centro Medico Veterinario Costa d'Amalfi à Vietri sul Mare vers Salerne, et Gli Amici del Cuore à Sorrente à l'extrémité ouest de la péninsule."
+        },
+        {
+          "q": "Que faire en cas d'urgence ?",
+          "a": "Téléphonez à l'avance à la clinique la plus proche et tenez compte du trafic côtier lent. Pour les urgences hors horaires, demandez à la clinique ou à votre hébergement le service de garde (reperibilità) ou l'hôpital le plus proche vers Salerne."
+        },
+        {
+          "q": "Ai-je besoin de documents pour mon chien ?",
+          "a": "Oui. Emportez le passeport européen avec une vaccination antirabique valide et le carnet de santé. Ils sont aussi requis pour voyager dans les bus SITA et les ferries."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario en Amalfi?",
+          "a": "No hay clínica completa. Los veterinarios completos más cercanos son el Centro Medico Veterinario Costa d'Amalfi en Vietri sul Mare hacia Salerno, y Gli Amici del Cuore en Sorrento en el extremo oeste de la península."
+        },
+        {
+          "q": "¿Qué hago en una urgencia?",
+          "a": "Llama con antelación a la clínica más cercana y cuenta con el lento tráfico costero. Para urgencias fuera de horario, pregunta a la clínica o a tu alojamiento por el servicio de guardia (reperibilità) o el hospital más cercano hacia Salerno."
+        },
+        {
+          "q": "¿Necesito documentos para mi perro?",
+          "a": "Sí. Lleva el pasaporte europeo con la vacuna antirrábica válida y la cartilla sanitaria. También los necesitarás para viajar en los autobuses SITA y los ferries."
+        }
+      ],
+      "titlePt": "Veterinários perto de Amalfi",
+      "introPt": "A própria Amalfi é uma pequena vila costeira sem clínica veterinária completa, por isso as opções realistas ficam ao longo da costa em direção a Salerno ou para o lado de Sorrento. Nenhuma fica longe por estrada, mas a sinuosa rota costeira é lenta no trânsito de verão, por isso reserve tempo extra e telefone com antecedência. Guarde estes números sem ligação antes de partir para a Valle delle Ferriere ou para o trilho da Torre dello Ziro, onde a rede é pouco fiável.",
+      "tipsPt": [
+        "Não há veterinário completo em Amalfi; os mais próximos ficam em direção a Salerno, em Vietri sul Mare, e para o lado de Sorrento.",
+        "O trânsito costeiro de verão é lento, por isso telefone com antecedência e reserve tempo para chegar a uma clínica.",
+        "Leve o passaporte europeu e o boletim de saúde do seu cão, também necessários para os autocarros e ferries."
+      ],
+      "faqsPt": [
+        {
+          "q": "Há veterinário em Amalfi?",
+          "a": "Não há clínica completa. Os veterinários completos mais próximos são o Centro Medico Veterinario Costa d'Amalfi em Vietri sul Mare em direção a Salerno, e o Gli Amici del Cuore em Sorrento no extremo oeste da península."
+        },
+        {
+          "q": "O que devo fazer numa urgência?",
+          "a": "Telefone com antecedência à clínica mais próxima e conte com o trânsito costeiro lento. Para urgências fora de horário, pergunte à clínica ou ao seu alojamento pelo serviço de reperibilità ou pelo hospital mais próximo em direção a Salerno."
+        },
+        {
+          "q": "Preciso de documentos para o meu cão?",
+          "a": "Sim. Leve o passaporte europeu com vacina antirrábica válida e o boletim de saúde. Também vai precisar deles para viajar nos autocarros SITA e nos ferries."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Amalfi with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Amalfi avec un chien",
+      "titleEs": "Consejos prácticos para visitar Amalfi con un perro",
+      "introEn": "Amalfi is one of the most beautiful places in Italy, and though its seafront centre is flatter than Positano, the coast is still steep, hot and stepped once you leave the piazza. Beaches mostly keep dogs off in summer, and cathedral and museum interiors are off limits. The honest highlight for dog owners is the walking above the town, the cool Valle delle Ferriere and the ridge to the Torre dello Ziro. Come in the cooler months, lean on the buses and ferries, and carry water and paw protection everywhere.",
+      "introFr": "Amalfi est l'un des plus beaux endroits d'Italie et, même si son centre en bord de mer est plus plat que Positano, la côte reste raide, chaude et en escaliers dès que l'on quitte la place. Les plages écartent le plus souvent les chiens en été, et les intérieurs de la cathédrale et des musées sont interdits. Pour les maîtres, le vrai point fort, c'est la marche au-dessus de la ville, la fraîche Valle delle Ferriere et la crête vers la Torre dello Ziro. Venez aux mois plus frais, appuyez-vous sur les bus et les ferries, et emportez de l'eau et une protection pour les coussinets partout.",
+      "introEs": "Amalfi es uno de los lugares más bonitos de Italia y, aunque su centro junto al mar es más llano que Positano, la costa sigue siendo empinada, calurosa y con escalones en cuanto sales de la plaza. Las playas en su mayoría dejan fuera a los perros en verano, y los interiores de la catedral y los museos están vetados. Para los dueños, el verdadero atractivo es caminar sobre la ciudad, la fresca Valle delle Ferriere y la cresta hacia la Torre dello Ziro. Ven en los meses más frescos, apóyate en los autobuses y ferries, y lleva agua y protección para las almohadillas a todas partes.",
+      "places": [],
+      "tipsEn": [
+        "Amalfi's seafront is flat, but the lanes and villages above are hot stone steps; lean on the buses and ferries.",
+        "The real dog highlight is the walking above the coast, above all the shaded Valle delle Ferriere.",
+        "Visit in spring or autumn and carry water, a bowl and paw protection, as shade and fountains are scarce."
+      ],
+      "tipsFr": [
+        "Le front de mer d'Amalfi est plat, mais les ruelles et villages au-dessus sont des marches de pierre chaude ; appuyez-vous sur les bus et les ferries.",
+        "Le vrai point fort pour les chiens est la marche au-dessus de la côte, surtout la fraîche Valle delle Ferriere.",
+        "Visitez au printemps ou en automne et emportez de l'eau, une gamelle et une protection pour les coussinets, car l'ombre et les fontaines sont rares."
+      ],
+      "tipsEs": [
+        "El paseo marítimo de Amalfi es llano, pero las callejuelas y pueblos de arriba son escalones de piedra caliente; apóyate en los autobuses y ferries.",
+        "El verdadero atractivo para perros es caminar sobre la costa, sobre todo la fresca Valle delle Ferriere.",
+        "Visita en primavera u otoño y lleva agua, un cuenco y protección para las almohadillas, porque la sombra y las fuentes escasean."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Amalfi a good destination for dogs?",
+          "a": "It is stunning but demanding. The seafront is flat, but the lanes and villages above are steep and hot, and most beaches keep dogs off in summer. The genuine highlight for dog owners is the walking above the coast, so come for the trails rather than the beach."
+        },
+        {
+          "q": "How hard is Amalfi for a dog?",
+          "a": "Easier than Positano at the centre, but still steep beyond the seafront. Use the SITA and local orange buses and the ferries to cut out steps, and be ready to carry a small dog on the steepest stairways in the heat."
+        },
+        {
+          "q": "When should I visit Amalfi with a dog?",
+          "a": "Spring (April to June) and autumn (September to October). Summer brings fierce heat on the stone, packed buses and the strictest beach bans, all hard on dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Amalfi est-elle une bonne destination pour les chiens ?",
+          "a": "Superbe mais exigeante. Le front de mer est plat, mais les ruelles et villages au-dessus sont raides et chauds, et la plupart des plages écartent les chiens en été. Le vrai point fort pour les maîtres est la marche au-dessus de la côte, venez donc pour les sentiers plutôt que pour la plage."
+        },
+        {
+          "q": "Amalfi est-elle difficile pour un chien ?",
+          "a": "Plus facile que Positano au centre, mais toujours raide au-delà du front de mer. Utilisez les bus SITA et orange locaux et les ferries pour éviter les marches, et soyez prêt à porter un petit chien dans les escaliers les plus raides par forte chaleur."
+        },
+        {
+          "q": "Quand visiter Amalfi avec un chien ?",
+          "a": "Au printemps (avril à juin) et en automne (septembre à octobre). L'été apporte une chaleur intense sur la pierre, des bus bondés et les interdictions de plage les plus strictes, tout cela éprouvant pour les chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Amalfi un buen destino para perros?",
+          "a": "Es impresionante pero exigente. El paseo marítimo es llano, pero las callejuelas y pueblos de arriba son empinados y calurosos, y la mayoría de las playas dejan fuera a los perros en verano. El verdadero atractivo para los dueños es caminar sobre la costa, así que ven por los senderos más que por la playa."
+        },
+        {
+          "q": "¿Cómo de duro es Amalfi para un perro?",
+          "a": "Más fácil que Positano en el centro, pero aún empinado más allá del paseo marítimo. Usa los autobuses SITA y naranjas locales y los ferries para evitar escalones, y prepárate para llevar en brazos a un perro pequeño en las escaleras más empinadas con calor."
+        },
+        {
+          "q": "¿Cuándo debo visitar Amalfi con un perro?",
+          "a": "En primavera (de abril a junio) y otoño (de septiembre a octubre). El verano trae calor intenso sobre la piedra, autobuses abarrotados y las prohibiciones de playa más estrictas, todo duro para los perros."
+        }
+      ],
+      "titlePt": "Conselhos práticos para visitar Amalfi com um cão",
+      "introPt": "Amalfi é um dos sítios mais bonitos de Itália e, embora o seu centro junto ao mar seja mais plano do que Positano, a costa continua íngreme, quente e cheia de degraus assim que se sai da praça. As praias na sua maioria mantêm os cães fora no verão, e os interiores da catedral e dos museus são vedados. O verdadeiro destaque para os donos é caminhar acima da vila, a fresca Valle delle Ferriere e a crista até à Torre dello Ziro. Venha nos meses mais frescos, apoie-se nos autocarros e ferries, e leve água e proteção para as patas para todo o lado.",
+      "tipsPt": [
+        "A marginal de Amalfi é plana, mas as ruelas e aldeias por cima são degraus de pedra quente; apoie-se nos autocarros e ferries.",
+        "O verdadeiro destaque para cães é caminhar acima da costa, sobretudo a fresca Valle delle Ferriere.",
+        "Visite na primavera ou no outono e leve água, uma taça e proteção para as patas, pois a sombra e as fontes escasseiam."
+      ],
+      "faqsPt": [
+        {
+          "q": "Amalfi é um bom destino para cães?",
+          "a": "É deslumbrante mas exigente. A marginal é plana, mas as ruelas e aldeias por cima são íngremes e quentes, e a maioria das praias mantém os cães fora no verão. O verdadeiro destaque para os donos é caminhar acima da costa, por isso venha pelos trilhos em vez da praia."
+        },
+        {
+          "q": "Quão difícil é Amalfi para um cão?",
+          "a": "Mais fácil do que Positano no centro, mas ainda íngreme para lá da marginal. Use os autocarros SITA e laranja locais e os ferries para cortar degraus, e esteja pronto para levar ao colo um cão pequeno nas escadarias mais íngremes no calor."
+        },
+        {
+          "q": "Quando devo visitar Amalfi com um cão?",
+          "a": "Na primavera (de abril a junho) e no outono (de setembro a outubro). O verão traz calor intenso sobre a pedra, autocarros apinhados e as proibições de praia mais rígidas, tudo duro para os cães."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Amalfi",
+      "titleFr": "Attractions dog-friendly à Amalfi",
+      "titleEs": "Atracciones que admiten perros en Amalfi",
+      "introEn": "The dog-friendly side of Amalfi is outdoors: the piazza around the great striped cathedral, the tiny neighbouring village of Atrani, and the garden town of Ravello up the hill. Cathedral, cloister and museum interiors do not admit dogs, so plan around the squares, lanes and coast paths. The clear highlight for a dog is the walking, from the piazza to the cool valleys and ridge trails above the town.",
+      "introFr": "Le versant dog-friendly d'Amalfi est en plein air : la place autour de la grande cathédrale rayée, le minuscule village voisin d'Atrani et la ville-jardin de Ravello sur la colline. Les intérieurs de la cathédrale, du cloître et des musées n'admettent pas les chiens, organisez-vous donc autour des places, des ruelles et des sentiers côtiers. Pour un chien, le point fort évident, c'est la marche, de la place aux vallées fraîches et aux sentiers de crête au-dessus de la ville.",
+      "introEs": "El lado pet-friendly de Amalfi está al aire libre: la plaza en torno a la gran catedral a rayas, el diminuto pueblo vecino de Atrani y la ciudad-jardín de Ravello en lo alto. Los interiores de la catedral, el claustro y los museos no admiten perros, así que planea en torno a las plazas, las callejuelas y los senderos costeros. Para un perro, el atractivo claro es caminar, de la plaza a los valles frescos y los senderos de cresta sobre la ciudad.",
+      "places": [
+        {
+          "name": "Duomo di Sant'Andrea & Piazza Duomo",
+          "neighborhood": "Central Amalfi",
+          "photo": "/images/city-places/amalfi-attractions-duomo-sant-andrea.jpg",
+          "website": "",
+          "description": "The dramatic striped cathedral of Sant'Andrea, reached by a grand flight of steps, and its lively piazza are the postcard heart of Amalfi. Leashed dogs can enjoy the square and the surrounding lanes, though the cathedral interior and the Cloister of Paradise are off limits to pets.",
+          "descriptionFr": "La spectaculaire cathédrale rayée de Sant'Andrea, en haut d'un grand escalier, et sa place animée forment le cœur carte-postale d'Amalfi. Les chiens en laisse peuvent profiter de la place et des ruelles alentour, mais l'intérieur de la cathédrale et le Cloître du Paradis sont interdits aux animaux.",
+          "descriptionEs": "La espectacular catedral a rayas de Sant'Andrea, a la que se sube por una gran escalinata, y su animada plaza son el corazón de postal de Amalfi. Los perros con correa pueden disfrutar de la plaza y las callejuelas cercanas, aunque el interior de la catedral y el Claustro del Paraíso están vetados a las mascotas.",
+          "dogPolicy": "Leashed dogs in the square and lanes; not inside the cathedral or cloister",
+          "dogPolicyFr": "Chiens en laisse sur la place et dans les ruelles ; pas à l'intérieur de la cathédrale ni du cloître",
+          "dogPolicyEs": "Perros con correa en la plaza y callejuelas; no dentro de la catedral ni el claustro",
+          "admissionFee": "Free (square); cathedral complex ticketed, no pets inside",
+          "admissionFeeFr": "Gratuit (place) ; complexe de la cathédrale payant, sans animaux à l'intérieur",
+          "admissionFeeEs": "Gratis (plaza); complejo de la catedral con entrada, sin mascotas dentro",
+          "tip": "Enjoy the piazza and the steps from outside; take turns if one of you wants to see the cloister",
+          "tipFr": "Profitez de la place et de l'escalier depuis l'extérieur ; relayez-vous si l'un de vous veut voir le cloître",
+          "tipEs": "Disfruta de la plaza y la escalinata desde fuera; turnaos si uno quiere ver el claustro",
+          "googleMapsUrl": "https://maps.google.com/?q=Duomo+di+Amalfi+Sant'Andrea",
+          "descriptionPt": "A dramática catedral às riscas de Sant'Andrea, alcançada por uma grande escadaria, e a sua animada praça são o coração de postal de Amalfi. Os cães com trela podem desfrutar da praça e das ruelas em redor, embora o interior da catedral e o Claustro do Paraíso sejam vedados aos animais.",
+          "dogPolicyPt": "Cães com trela na praça e nas ruelas; não dentro da catedral nem do claustro",
+          "admissionFeePt": "Gratuito (praça); complexo da catedral com bilhete, sem animais no interior",
+          "tipPt": "Aproveite a praça e a escadaria a partir do exterior; revezem-se se um quiser ver o claustro"
+        },
+        {
+          "name": "Atrani",
+          "neighborhood": "Next bay east of Amalfi",
+          "photo": "/images/city-places/amalfi-attractions-atrani.jpg",
+          "website": "",
+          "description": "One of Italy's smallest villages, tucked in the next tiny bay a short flat walk east of Amalfi, with a sheltered piazza, a small beach and a maze of quiet lanes. Its low-key, unspoilt feel makes it one of the most pleasant spots on the coast for a leashed dog and a relaxed evening.",
+          "descriptionFr": "L'un des plus petits villages d'Italie, blotti dans la petite baie voisine à une courte marche plate à l'est d'Amalfi, avec une place abritée, une petite plage et un dédale de ruelles calmes. Son ambiance discrète et préservée en fait l'un des endroits les plus agréables de la côte pour un chien en laisse et une soirée détendue.",
+          "descriptionEs": "Uno de los pueblos más pequeños de Italia, encajado en la pequeña bahía vecina a un corto paseo llano al este de Amalfi, con una plaza resguardada, una pequeña playa y un laberinto de callejuelas tranquilas. Su ambiente discreto e intacto lo convierte en uno de los lugares más agradables de la costa para un perro con correa y una tarde relajada.",
+          "dogPolicy": "Leashed dogs welcome in the piazza and lanes",
+          "dogPolicyFr": "Chiens en laisse acceptés sur la place et dans les ruelles",
+          "dogPolicyEs": "Perros con correa admitidos en la plaza y callejuelas",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "tip": "Reach it on the flat coastal path from Amalfi rather than the main road tunnel",
+          "tipFr": "Rejoignez-le par le sentier côtier plat depuis Amalfi plutôt que par le tunnel de la route principale",
+          "tipEs": "Llega por el sendero costero llano desde Amalfi en vez de por el túnel de la carretera principal",
+          "googleMapsUrl": "https://maps.google.com/?q=Atrani",
+          "descriptionPt": "Uma das mais pequenas aldeias de Itália, encaixada na pequena baía vizinha a um curto passeio plano a leste de Amalfi, com uma praça abrigada, uma pequena praia e um labirinto de ruelas calmas. O seu ambiente discreto e intacto faz dela um dos sítios mais agradáveis da costa para um cão à trela e um fim de tarde tranquilo.",
+          "dogPolicyPt": "Cães com trela bem-vindos na praça e nas ruelas",
+          "admissionFeePt": "Gratuito",
+          "tipPt": "Chegue pelo trilho costeiro plano desde Amalfi em vez do túnel da estrada principal"
+        },
+        {
+          "name": "Ravello (town & garden villas)",
+          "neighborhood": "In the hills above Amalfi",
+          "photo": "/images/city-places/amalfi-attractions-ravello.jpg",
+          "website": "",
+          "description": "The refined garden town high above Amalfi, famous for the cliff-edge gardens of Villa Rufolo and Villa Cimbrone and their sweeping coast views. Leashed dogs are welcome to stroll the town and its piazza, and the garden villas generally admit dogs on a leash; confirm at the entrance before you go in.",
+          "descriptionFr": "La raffinée ville-jardin en hauteur au-dessus d'Amalfi, célèbre pour les jardins en bord de falaise de la Villa Rufolo et de la Villa Cimbrone et leurs vastes vues sur la côte. Les chiens en laisse sont les bienvenus pour flâner dans la ville et sa place, et les villas-jardins admettent en général les chiens en laisse ; vérifiez à l'entrée avant d'entrer.",
+          "descriptionEs": "La refinada ciudad-jardín en lo alto sobre Amalfi, famosa por los jardines al borde del acantilado de Villa Rufolo y Villa Cimbrone y sus amplias vistas a la costa. Los perros con correa son bienvenidos a pasear por la ciudad y su plaza, y las villas-jardín suelen admitir perros con correa; confirma en la entrada antes de entrar.",
+          "dogPolicy": "Leashed dogs in the town; garden villas usually allow leashed dogs, confirm at the gate",
+          "dogPolicyFr": "Chiens en laisse en ville ; les villas-jardins acceptent généralement les chiens en laisse, vérifiez à l'entrée",
+          "dogPolicyEs": "Perros con correa en la ciudad; las villas-jardín suelen admitir perros con correa, confirma en la entrada",
+          "admissionFee": "Free (town); villa gardens ticketed",
+          "admissionFeeFr": "Gratuit (ville) ; jardins des villas payants",
+          "admissionFeeEs": "Gratis (ciudad); jardines de las villas con entrada",
+          "tip": "Take the local orange bus up from Amalfi rather than the long stair climb through Pontone",
+          "tipFr": "Montez en bus orange local depuis Amalfi plutôt que la longue montée d'escaliers par Pontone",
+          "tipEs": "Sube en el autobús naranja local desde Amalfi en vez de la larga subida de escaleras por Pontone",
+          "googleMapsUrl": "https://maps.google.com/?q=Ravello+Villa+Rufolo",
+          "descriptionPt": "A refinada vila-jardim no alto sobre Amalfi, famosa pelos jardins à beira da falésia da Villa Rufolo e da Villa Cimbrone e pelas amplas vistas de costa. Os cães com trela são bem-vindos a passear pela vila e pela sua praça, e as villas-jardim geralmente admitem cães à trela; confirme à entrada antes de entrar.",
+          "dogPolicyPt": "Cães com trela na vila; as villas-jardim costumam admitir cães à trela, confirme à entrada",
+          "admissionFeePt": "Gratuito (vila); jardins das villas com bilhete",
+          "tipPt": "Apanhe o autocarro laranja local desde Amalfi em vez da longa subida de escadas por Pontone"
+        }
+      ],
+      "tipsEn": [
+        "The dog-friendly sights are outdoors: the Piazza Duomo, Atrani and the town of Ravello.",
+        "Cathedral, cloister and museum interiors do not admit dogs, so plan around squares and coast paths.",
+        "Reach Ravello and the hill villages by the local orange bus rather than the long stair climbs."
+      ],
+      "tipsFr": [
+        "Les sites dog-friendly sont en plein air : la Piazza Duomo, Atrani et la ville de Ravello.",
+        "Les intérieurs de la cathédrale, du cloître et des musées n'admettent pas les chiens, organisez-vous autour des places et des sentiers côtiers.",
+        "Rejoignez Ravello et les villages de collines par le bus orange local plutôt que par les longues montées d'escaliers."
+      ],
+      "tipsEs": [
+        "Los lugares que admiten perros están al aire libre: la Piazza Duomo, Atrani y la ciudad de Ravello.",
+        "Los interiores de la catedral, el claustro y los museos no admiten perros, así que planea en torno a plazas y senderos costeros.",
+        "Llega a Ravello y los pueblos de montaña en el autobús naranja local en vez de las largas subidas de escaleras."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I visit the Amalfi cathedral with my dog?",
+          "a": "You can enjoy the Piazza Duomo and the grand steps with a leashed dog, but the cathedral interior and the Cloister of Paradise do not admit pets. Take turns if one of you wants to go inside."
+        },
+        {
+          "q": "Are there dog-friendly sights near Amalfi?",
+          "a": "Yes, outdoors: the piazza and lanes of Amalfi, the tiny village of Atrani in the next bay, and the garden town of Ravello, whose villa gardens usually allow leashed dogs. Confirm the villa policy at the gate."
+        },
+        {
+          "q": "What is the best dog experience in Amalfi?",
+          "a": "The walking above the town, above all the cool, shaded Valle delle Ferriere and the ridge trail to the Torre dello Ziro, both welcoming leashed dogs with big coast views."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je visiter la cathédrale d'Amalfi avec mon chien ?",
+          "a": "Vous pouvez profiter de la Piazza Duomo et du grand escalier avec un chien en laisse, mais l'intérieur de la cathédrale et le Cloître du Paradis n'admettent pas les animaux. Relayez-vous si l'un de vous veut entrer."
+        },
+        {
+          "q": "Y a-t-il des sites dog-friendly près d'Amalfi ?",
+          "a": "Oui, en plein air : la place et les ruelles d'Amalfi, le minuscule village d'Atrani dans la baie voisine, et la ville-jardin de Ravello, dont les jardins des villas acceptent généralement les chiens en laisse. Vérifiez la règle des villas à l'entrée."
+        },
+        {
+          "q": "Quelle est la meilleure expérience canine à Amalfi ?",
+          "a": "La marche au-dessus de la ville, surtout la fraîche et ombragée Valle delle Ferriere et le sentier de crête vers la Torre dello Ziro, tous deux accueillant les chiens en laisse avec de vastes vues sur la côte."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo visitar la catedral de Amalfi con mi perro?",
+          "a": "Puedes disfrutar de la Piazza Duomo y la gran escalinata con un perro con correa, pero el interior de la catedral y el Claustro del Paraíso no admiten mascotas. Turnaos si uno quiere entrar."
+        },
+        {
+          "q": "¿Hay lugares que admitan perros cerca de Amalfi?",
+          "a": "Sí, al aire libre: la plaza y callejuelas de Amalfi, el diminuto pueblo de Atrani en la bahía vecina, y la ciudad-jardín de Ravello, cuyos jardines de villas suelen admitir perros con correa. Confirma la norma de las villas en la entrada."
+        },
+        {
+          "q": "¿Cuál es la mejor experiencia canina en Amalfi?",
+          "a": "Caminar sobre la ciudad, sobre todo la fresca y sombreada Valle delle Ferriere y el sendero de cresta hacia la Torre dello Ziro, ambos con perros con correa y grandes vistas a la costa."
+        }
+      ],
+      "titlePt": "Atrações que aceitam cães em Amalfi",
+      "introPt": "O lado pet-friendly de Amalfi é ao ar livre: a praça em torno da grande catedral às riscas, a minúscula aldeia vizinha de Atrani e a vila-jardim de Ravello na colina. Os interiores da catedral, do claustro e dos museus não admitem cães, por isso planeie em torno das praças, das ruelas e dos trilhos costeiros. Para um cão, o destaque claro é caminhar, da praça aos vales frescos e trilhos de crista acima da vila.",
+      "tipsPt": [
+        "Os locais que aceitam cães são ao ar livre: a Piazza Duomo, Atrani e a vila de Ravello.",
+        "Os interiores da catedral, do claustro e dos museus não admitem cães, por isso planeie em torno de praças e trilhos costeiros.",
+        "Chegue a Ravello e às aldeias de montanha pelo autocarro laranja local em vez das longas subidas de escadas."
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso visitar a catedral de Amalfi com o meu cão?",
+          "a": "Pode desfrutar da Piazza Duomo e da grande escadaria com um cão à trela, mas o interior da catedral e o Claustro do Paraíso não admitem animais. Revezem-se se um quiser entrar."
+        },
+        {
+          "q": "Há locais que aceitem cães perto de Amalfi?",
+          "a": "Sim, ao ar livre: a praça e ruelas de Amalfi, a minúscula aldeia de Atrani na baía vizinha, e a vila-jardim de Ravello, cujos jardins das villas costumam admitir cães à trela. Confirme a regra das villas à entrada."
+        },
+        {
+          "q": "Qual é a melhor experiência canina em Amalfi?",
+          "a": "Caminhar acima da vila, sobretudo a fresca e sombreada Valle delle Ferriere e o trilho de crista até à Torre dello Ziro, ambos a aceitar cães à trela com grandes vistas de costa."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitting & Pet Care in Amalfi",
+      "titleFr": "Garde de chiens et services animaliers à Amalfi",
+      "titleEs": "Cuidado de perros y servicios para mascotas en Amalfi",
+      "introEn": "Amalfi is a small resort town with no dedicated dog-boarding businesses, so visitors who need a sitter rely on the national booking platforms, which list vetted carers around the Amalfi Coast and Salerno. Given how popular the coast is, book well ahead for summer. Your hotel or villa host is often the best first contact, as many can point you to a trusted local sitter.",
+      "introFr": "Amalfi est une petite ville balnéaire sans pension canine dédiée ; les visiteurs qui ont besoin d'un pet-sitter passent donc par les plateformes de réservation nationales, qui recensent des gardes vérifiés autour de la Côte amalfitaine et de Salerne. Vu la popularité de la côte, réservez bien à l'avance pour l'été. Votre hôtel ou l'hôte de votre villa est souvent le meilleur premier contact, beaucoup pouvant vous orienter vers un sitter local de confiance.",
+      "introEs": "Amalfi es una pequeña localidad turística sin residencias caninas propias, así que los visitantes que necesitan un cuidador recurren a las plataformas de reserva nacionales, que listan cuidadores verificados por la Costa Amalfitana y Salerno. Dada la popularidad de la costa, reserva con mucha antelación para el verano. Tu hotel o el anfitrión de tu villa suele ser el mejor primer contacto, ya que muchos pueden orientarte hacia un cuidador local de confianza.",
+      "places": [
+        {
+          "name": "Pawshake Italia",
+          "address": "Online platform (Amalfi Coast / Salerno area)",
+          "neighborhood": "Regional sitters",
+          "website": "https://www.pawshake.it",
+          "description": "A widely used platform connecting owners with vetted local dog sitters and walkers, including carers around the Amalfi Coast and Salerno. You browse profiles, reviews and rates and book directly.",
+          "descriptionFr": "Une plateforme très utilisée qui met en relation les propriétaires avec des pet-sitters et promeneurs locaux vérifiés, y compris des gardes autour de la Côte amalfitaine et de Salerne. Vous consultez profils, avis et tarifs et réservez directement.",
+          "descriptionEs": "Una plataforma muy utilizada que conecta a los dueños con cuidadores y paseadores locales verificados, incluidos cuidadores en la zona de la Costa Amalfitana y Salerno. Consultas perfiles, reseñas y tarifas y reservas directamente.",
+          "petPolicy": "Dog boarding, day care and walking via local sitters",
+          "petPolicyFr": "Garde, garderie de jour et promenade via des sitters locaux",
+          "petPolicyEs": "Alojamiento, guardería de día y paseos con cuidadores locales",
+          "services": "Boarding, day care, dog walking, drop-in visits",
+          "servicesFr": "Hébergement, garderie, promenade, visites à domicile",
+          "servicesEs": "Alojamiento, guardería, paseos, visitas a domicilio",
+          "openingHours": "Bookable online year-round",
+          "descriptionPt": "Uma plataforma muito usada que liga donos a dog sitters e passeadores locais verificados, incluindo cuidadores em redor da Costa Amalfitana e de Salerno. Consulta perfis, avaliações e tarifas e reserva diretamente.",
+          "petPolicyPt": "Alojamento, creche de dia e passeios através de sitters locais",
+          "servicesPt": "Alojamento, creche, passeios, visitas ao domicílio"
+        },
+        {
+          "name": "Holidog",
+          "address": "Online platform (national, covers Campania)",
+          "neighborhood": "Regional sitters",
+          "website": "https://www.holidog.com/it",
+          "description": "A pan-European pet-care service listing sitters and dog boarders across Italy, including the Amalfi Coast and Salerno area. Useful for finding a carer when Amalfi itself has none.",
+          "descriptionFr": "Un service de garde d'animaux paneuropéen recensant des sitters et pensions dans toute l'Italie, y compris la Côte amalfitaine et la région de Salerne. Utile pour trouver un garde quand Amalfi n'en a pas.",
+          "descriptionEs": "Un servicio paneuropeo de cuidado de mascotas que lista cuidadores y residencias en toda Italia, incluida la Costa Amalfitana y la zona de Salerno. Útil para encontrar cuidador cuando Amalfi no tiene ninguno.",
+          "petPolicy": "Boarding and sitting via vetted members",
+          "petPolicyFr": "Hébergement et garde via des membres vérifiés",
+          "petPolicyEs": "Alojamiento y cuidado con miembros verificados",
+          "services": "Boarding, home visits, dog walking",
+          "servicesFr": "Hébergement, visites à domicile, promenade",
+          "servicesEs": "Alojamiento, visitas a domicilio, paseos",
+          "openingHours": "Bookable online year-round",
+          "descriptionPt": "Um serviço pan-europeu de cuidado de animais que lista sitters e alojamentos para cães por toda a Itália, incluindo a Costa Amalfitana e a zona de Salerno. Útil para encontrar cuidador quando Amalfi não tem nenhum.",
+          "petPolicyPt": "Alojamento e guarda através de membros verificados",
+          "servicesPt": "Alojamento, visitas ao domicílio, passeios"
+        },
+        {
+          "name": "Your hotel or villa host",
+          "address": "Across Amalfi",
+          "neighborhood": "Local recommendation",
+          "website": "",
+          "description": "In a small, well-connected town like Amalfi, the host of your hotel or villa is often the quickest route to a reliable local dog sitter. Many already work with a trusted neighbour or nearby carer along the coast.",
+          "descriptionFr": "Dans une petite ville bien connectée comme Amalfi, l'hôte de votre hôtel ou villa est souvent le moyen le plus rapide de trouver un pet-sitter local fiable. Beaucoup travaillent déjà avec un voisin ou un garde de confiance le long de la côte.",
+          "descriptionEs": "En una pequeña localidad bien conectada como Amalfi, el anfitrión de tu hotel o villa suele ser la vía más rápida hacia un cuidador local fiable. Muchos ya trabajan con un vecino o cuidador de confianza a lo largo de la costa.",
+          "petPolicy": "Ask on arrival for a local sitter recommendation",
+          "petPolicyFr": "Demandez à l'arrivée une recommandation de sitter local",
+          "petPolicyEs": "Pregunta al llegar por una recomendación de cuidador local",
+          "services": "Local referrals to trusted sitters",
+          "servicesFr": "Mises en relation avec des sitters de confiance",
+          "servicesEs": "Recomendaciones de cuidadores de confianza",
+          "openingHours": "On request",
+          "descriptionPt": "Numa vila pequena e bem ligada como Amalfi, o anfitrião do seu hotel ou villa é muitas vezes a via mais rápida para um dog sitter local de confiança. Muitos já trabalham com um vizinho ou cuidador próximo de confiança ao longo da costa.",
+          "petPolicyPt": "Peça à chegada uma recomendação de sitter local",
+          "servicesPt": "Encaminhamento para sitters de confiança"
+        }
+      ],
+      "tipsEn": [
+        "There are no boarding kennels in Amalfi, so book a sitter through a national platform well before you travel.",
+        "Ask your hotel or villa host first; local recommendations are often the most reliable on the coast.",
+        "Summer demand on the Amalfi Coast is high, so arrange care as soon as your dates are fixed."
+      ],
+      "tipsFr": [
+        "Il n'y a pas de pension canine à Amalfi, réservez donc un sitter via une plateforme nationale bien avant de partir.",
+        "Demandez d'abord à votre hôtel ou hôte de villa ; les recommandations locales sont souvent les plus fiables sur la côte.",
+        "La demande estivale sur la Côte amalfitaine est forte, organisez la garde dès que vos dates sont fixées."
+      ],
+      "tipsEs": [
+        "No hay residencias caninas en Amalfi, así que reserva un cuidador a través de una plataforma nacional mucho antes de viajar.",
+        "Pregunta primero a tu hotel o anfitrión de la villa; las recomendaciones locales suelen ser las más fiables en la costa.",
+        "La demanda estival en la Costa Amalfitana es alta, así que organiza el cuidado en cuanto tengas las fechas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a dog boarding kennel in Amalfi?",
+          "a": "No dedicated kennels operate in Amalfi. Use a national platform such as Pawshake or Holidog to find vetted sitters around the Amalfi Coast and Salerno, and book early for summer."
+        },
+        {
+          "q": "How do I find a trustworthy local sitter?",
+          "a": "Start with your hotel or villa host, who often knows a reliable local carer, then cross-check platform profiles and reviews. On a busy coast, a personal recommendation is worth a lot."
+        },
+        {
+          "q": "Should I book pet care in advance?",
+          "a": "Yes, especially in summer. The Amalfi Coast is extremely popular, so arrange care as soon as your travel dates are confirmed."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il une pension canine à Amalfi ?",
+          "a": "Aucune pension dédiée n'opère à Amalfi. Utilisez une plateforme nationale comme Pawshake ou Holidog pour trouver des sitters vérifiés autour de la Côte amalfitaine et de Salerne, et réservez tôt pour l'été."
+        },
+        {
+          "q": "Comment trouver un sitter local fiable ?",
+          "a": "Commencez par votre hôtel ou hôte de villa, qui connaît souvent un garde local fiable, puis recoupez les profils et avis des plateformes. Sur une côte très fréquentée, une recommandation personnelle vaut beaucoup."
+        },
+        {
+          "q": "Dois-je réserver la garde à l'avance ?",
+          "a": "Oui, surtout en été. La Côte amalfitaine est extrêmement prisée, organisez donc la garde dès que vos dates de voyage sont confirmées."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay residencia canina en Amalfi?",
+          "a": "No hay residencias propias en Amalfi. Usa una plataforma nacional como Pawshake o Holidog para encontrar cuidadores verificados en la zona de la Costa Amalfitana y Salerno, y reserva pronto para el verano."
+        },
+        {
+          "q": "¿Cómo encuentro un cuidador local de confianza?",
+          "a": "Empieza por tu hotel o anfitrión de la villa, que suele conocer a un cuidador local fiable, y luego contrasta perfiles y reseñas de las plataformas. En una costa concurrida, una recomendación personal vale mucho."
+        },
+        {
+          "q": "¿Debo reservar el cuidado con antelación?",
+          "a": "Sí, sobre todo en verano. La Costa Amalfitana es muy popular, así que organiza el cuidado en cuanto confirmes tus fechas de viaje."
+        }
+      ],
+      "titlePt": "Dog sitting e cuidado de animais em Amalfi",
+      "introPt": "Amalfi é uma pequena vila turística sem hotéis para cães dedicados, por isso os visitantes que precisam de um sitter recorrem às plataformas de reserva nacionais, que listam cuidadores verificados em redor da Costa Amalfitana e de Salerno. Dada a popularidade da costa, reserve com boa antecedência para o verão. O seu hotel ou o anfitrião da villa é muitas vezes o melhor primeiro contacto, pois muitos podem indicar-lhe um sitter local de confiança.",
+      "tipsPt": [
+        "Não há canis de acolhimento em Amalfi, por isso reserve um sitter através de uma plataforma nacional muito antes de viajar.",
+        "Pergunte primeiro ao seu hotel ou anfitrião da villa; as recomendações locais são muitas vezes as mais fiáveis na costa.",
+        "A procura de verão na Costa Amalfitana é alta, por isso organize o cuidado assim que tiver as datas."
+      ],
+      "faqsPt": [
+        {
+          "q": "Há um canil de acolhimento em Amalfi?",
+          "a": "Não há canis dedicados a operar em Amalfi. Use uma plataforma nacional como a Pawshake ou a Holidog para encontrar sitters verificados em redor da Costa Amalfitana e de Salerno, e reserve cedo para o verão."
+        },
+        {
+          "q": "Como encontro um sitter local de confiança?",
+          "a": "Comece pelo seu hotel ou anfitrião da villa, que costuma conhecer um cuidador local fiável, e depois cruze perfis e avaliações das plataformas. Numa costa movimentada, uma recomendação pessoal vale muito."
+        },
+        {
+          "q": "Devo reservar o cuidado com antecedência?",
+          "a": "Sim, sobretudo no verão. A Costa Amalfitana é muito popular, por isso organize o cuidado assim que confirmar as datas de viagem."
+        }
+      ]
+    }
+  }
+}

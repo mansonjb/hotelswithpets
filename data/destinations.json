@@ -828,6 +828,81 @@
     "iata": "LEI"
   },
   {
+    "slug": "amalfi",
+    "name": "Amalfi",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/amalfi.jpg",
+    "intro": "The jewel of the Amalfi Coast rises from a small pebble beach below the striped cathedral of Sant'Andrea, with leashed dogs welcome on the terrace tables of the Piazza Duomo and the seafront, the cool shaded Valle delle Ferriere nature reserve and the ridge trail to the Torre dello Ziro above Atrani, SITA and local orange buses plus Travelmar and Alilauro ferries that carry muzzled dogs, and a genuine dog beach further east toward Salerno, an honest, walkable base for exploring one of Italy's most beautiful coasts with a dog.",
+    "lat": 40.634,
+    "lng": 14.6027,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 14,
+        "desc": "Mild & changeable",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Pleasant & bright",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 28,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "NAP"
+  },
+  {
     "slug": "amsterdam",
     "name": "Amsterdam",
     "country": "Netherlands",

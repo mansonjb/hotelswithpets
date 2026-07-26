@@ -21901,6 +21901,81 @@
     "iata": "VIE"
   },
   {
+    "slug": "sanremo",
+    "name": "Sanremo",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/sanremo.jpg",
+    "intro": "Sanremo is an easygoing Italian Riviera base with a dog, thanks to its flat seafront, one of Italy's mildest climates, and the long, level Pista Ciclabile coastal path on the former Genoa-Ventimiglia railway. Add the palm-lined Corso Imperatrice, the medieval La Pigna old town, a designated dog-friendly beach, and a 24-hour emergency vet.",
+    "lat": 43.8159,
+    "lng": 7.7761,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Very mild & sunny",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 11,
+        "desc": "Mild & bright",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Warm & breezy",
+        "icon": "⛅"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 19,
+        "desc": "Mild & mild rain",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 15,
+        "desc": "Mild & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Very mild & cloudy",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "NCE",
+    "countryCode": "IT"
+  },
+  {
     "slug": "sant-antoni",
     "name": "Sant Antoni de Portmany",
     "country": "Spain",

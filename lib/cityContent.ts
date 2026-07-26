@@ -37783,6 +37783,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  sanremo: {
+    history: {
+      fr: `Sanremo, capitale de la Riviera dei Fiori dans la province ligure d'Imperia, s'étire au bord de la mer entre montagnes et côte, à quelques kilomètres de la frontière française. Ville des fleurs et du célèbre Festival de la chanson, elle doit sa renommée à un climat parmi les plus doux d'Italie, qui attira dès le XIXᵉ siècle une clientèle hivernale russe et anglaise, d'où le Corso Imperatrice bordé de palmiers et les grands hôtels Belle Époque. Au-dessus de la ville moderne, la vieille ville médiévale de La Pigna enroule ses ruelles concentriques sur la colline. Sur le front de mer, le Casino de style Liberty (1905), le Porto Vecchio et la marina Portosole animent la côte, tandis que la longue Pista Ciclabile, aménagée sur l'ancienne voie ferrée, longe la mer. Italie, zone euro, membre de l'UE et de Schengen. Urgence : 112.`,
+      en: `Sanremo, capital of the Riviera dei Fiori in Liguria's province of Imperia, stretches along the sea between mountains and coast, a few kilometres from the French border. City of flowers and of the famous Italian Song Festival, it owes its fame to one of the mildest climates in Italy, which drew a Russian and English winter set from the 19th century onward, hence the palm-lined Corso Imperatrice and the grand Belle Époque hotels. Above the modern town, the medieval old quarter of La Pigna coils its concentric lanes up the hill. On the seafront, the Liberty-style Casino (1905), the Porto Vecchio and the Portosole marina animate the coast, while the long Pista Ciclabile, built on the former railway, runs beside the sea. Italy, eurozone, EU and Schengen member. Emergency: 112.`,
+      es: `Sanremo, capital de la Riviera dei Fiori en la provincia ligur de Imperia, se extiende junto al mar entre montañas y costa, a pocos kilómetros de la frontera francesa. Ciudad de las flores y del célebre Festival de la Canción, debe su fama a uno de los climas más suaves de Italia, que atrajo desde el siglo XIX a una clientela invernal rusa e inglesa, de ahí el Corso Imperatrice bordeado de palmeras y los grandes hoteles de la Belle Époque. Sobre la ciudad moderna, el casco antiguo medieval de La Pigna enrolla sus callejuelas concéntricas por la colina. En el frente marítimo, el Casino de estilo Liberty (1905), el Porto Vecchio y la marina Portosole animan la costa, mientras que la larga Pista Ciclabile, construida sobre la antigua vía férrea, discurre junto al mar. Italia, zona euro, miembro de la UE y de Schengen. Emergencias: 112.`,
+      pt: `Sanremo, capital da Riviera dei Fiori na província ligure de Imperia, estende-se junto ao mar entre montanhas e costa, a poucos quilómetros da fronteira francesa. Cidade das flores e do célebre Festival da Canção, deve a sua fama a um dos climas mais amenos de Itália, que atraiu desde o século XIX uma clientela de inverno russa e inglesa, daí o Corso Imperatrice ladeado de palmeiras e os grandes hotéis da Belle Époque. Acima da cidade moderna, o bairro medieval de La Pigna enrola as suas ruelas concêntricas pela colina. Na frente de mar, o Casino de estilo Liberty (1905), o Porto Vecchio e a marina Portosole animam a costa, enquanto a longa Pista Ciclabile, construída sobre a antiga linha ferroviária, corre junto ao mar. Itália, zona euro, membro da UE e de Schengen. Emergência: 112.`,
+    },
+    sights: [
+      {
+        name: 'Pista Ciclabile del Parco Costiero',
+        emoji: '🚴',
+        petFriendly: true,
+        desc: {
+          fr: `La grande piste plate et goudronnée aménagée sur l'ancienne voie ferrée côtière Gênes-Vintimille, longue d'environ 24 km entre Ospedaletti et San Lorenzo al Mare. Les chiens en laisse y sont les bienvenus pour de longues promenades au bord de l'eau ; l'ombre est rare, emportez de l'eau et partez tôt l'été.`,
+          en: `The great flat, paved path laid on the former Genoa-Ventimiglia coastal railway, about 24 km long between Ospedaletti and San Lorenzo al Mare. Leashed dogs are welcome for long walks beside the water; shade is patchy, so carry water and set out early in summer.`,
+          es: `El gran camino llano y asfaltado construido sobre la antigua vía férrea costera Génova-Ventimiglia, de unos 24 km entre Ospedaletti y San Lorenzo al Mare. Los perros con correa son bienvenidos para largos paseos junto al agua; la sombra es escasa, lleva agua y sal temprano en verano.`,
+          pt: `O grande caminho plano e pavimentado construído sobre a antiga linha ferroviária costeira Génova-Ventimiglia, com cerca de 24 km entre Ospedaletti e San Lorenzo al Mare. Os cães com trela são bem-vindos para longos passeios junto à água; a sombra é escassa, leve água e parta cedo no verão.`,
+        },
+      },
+      {
+        name: 'Corso Imperatrice',
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: `La promenade du bord de mer bordée de palmiers, la plus ancienne de Sanremo, baptisée en l'honneur d'une impératrice russe qui y passait l'hiver. Plate et de plain-pied, elle se parcourt en laisse et rejoint facilement la piste cyclable pour une boucle plus longue avec vue sur la mer.`,
+          en: `The palm-lined seafront promenade, the oldest in Sanremo, named for a Russian empress who wintered here. Flat and level, it is walked on lead and links easily to the cycle path for a longer loop with sea views.`,
+          es: `El paseo marítimo bordeado de palmeras, el más antiguo de Sanremo, llamado así por una emperatriz rusa que pasaba aquí el invierno. Llano y a nivel, se recorre con correa y enlaza fácilmente con la vía ciclista para un circuito más largo con vistas al mar.`,
+          pt: `A avenida à beira-mar ladeada de palmeiras, a mais antiga de Sanremo, com o nome de uma imperatriz russa que aqui passava o inverno. Plana e ao nível, percorre-se com trela e liga facilmente à ciclovia para um circuito mais longo com vista para o mar.`,
+        },
+      },
+      {
+        name: 'La Pigna (vieille ville)',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Le cœur médiéval de Sanremo, un dédale de ruelles concentriques, d'arches et d'escaliers grimpant la colline, surnommé La Pigna (la pomme de pin) pour sa forme. Balade entièrement en plein air où les chiens en laisse sont bienvenus ; les ruelles sont raides et pavées, allez doucement.`,
+          en: `Sanremo's medieval heart, a maze of concentric lanes, arches and steps climbing the hill, nicknamed La Pigna (the pine cone) for its shape. A wholly outdoor wander where leashed dogs are welcome; the lanes are steep and cobbled, so take it slowly.`,
+          es: `El corazón medieval de Sanremo, un laberinto de callejuelas concéntricas, arcos y escalones que trepa la colina, apodado La Pigna (la piña) por su forma. Paseo totalmente al aire libre donde los perros con correa son bienvenidos; las callejuelas son empinadas y adoquinadas, ve despacio.`,
+          pt: `O coração medieval de Sanremo, um labirinto de ruelas concêntricas, arcos e degraus que sobe a colina, apelidado La Pigna (a pinha) pela sua forma. Passeio totalmente ao ar livre onde os cães com trela são bem-vindos; as ruelas são íngremes e empedradas, vá devagar.`,
+        },
+      },
+      {
+        name: 'Giardini di Villa Ormond',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Un parc public gratuit aménagé en musée botanique à ciel ouvert, avec palmeraies, cèdres et un jardin japonais né du jumelage de Sanremo avec Atami. Les chiens en laisse y sont les bienvenus ; restez sur les allées, c'est une collection botanique soignée.`,
+          en: `A free public park laid out as an open-air botanical museum, with palm groves, cedars and a Japanese garden born of Sanremo's twinning with Atami. Leashed dogs are welcome; keep to the paths, as it is a well-tended botanical collection.`,
+          es: `Un parque público gratuito dispuesto como museo botánico al aire libre, con palmerales, cedros y un jardín japonés surgido del hermanamiento de Sanremo con Atami. Los perros con correa son bienvenidos; mantente en los senderos, es una colección botánica cuidada.`,
+          pt: `Um parque público gratuito disposto como museu botânico ao ar livre, com palmares, cedros e um jardim japonês nascido da geminação de Sanremo com Atami. Os cães com trela são bem-vindos; mantenha-se nos trilhos, é uma coleção botânica cuidada.`,
+        },
+      },
+      {
+        name: 'Casino di Sanremo',
+        emoji: '🎰',
+        petFriendly: false,
+        desc: {
+          fr: `Le Casino emblématique de style Liberty, bâti en 1905, domine les terrasses au-dessus du front de mer. Les animaux ne sont pas admis dans les salles de jeu ; profitez de la façade et des terrasses bordées de palmiers depuis l'extérieur, ou entrez à tour de rôle pendant qu'une personne attend avec le chien.`,
+          en: `The landmark Liberty-style Casino, built in 1905, crowns the terraces above the seafront. Pets are not allowed in the gaming rooms; enjoy the facade and palm-lined terraces from outside, or take turns inside while one person waits with the dog.`,
+          es: `El emblemático Casino de estilo Liberty, construido en 1905, corona las terrazas sobre el frente marítimo. Los animales no se admiten en las salas de juego; disfruta de la fachada y las terrazas bordeadas de palmeras desde fuera, o entrad por turnos mientras uno espera con el perro.`,
+          pt: `O emblemático Casino de estilo Liberty, construído em 1905, coroa as esplanadas acima da frente de mar. Os animais não são admitidos nas salas de jogo; aprecie a fachada e as esplanadas ladeadas de palmeiras de fora, ou entrem à vez enquanto uma pessoa espera com o cão.`,
+        },
+      },
+      {
+        name: 'Porto Vecchio e Portosole',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: `Le vieux port de pêche, qui approvisionne chaque matin les cuisines de la Piazza Bresca, jouxte la grande marina de plaisance de Portosole. Les quais plats et les terrasses de café se parcourent en laisse pour une balade détendue au bord de l'eau, juste à côté des restaurants de poisson.`,
+          en: `The old fishing harbour, which supplies the Piazza Bresca kitchens each morning, sits beside the large Portosole yacht marina. The flat quays and cafe terraces are walked on lead for a relaxed waterside stroll, right beside the fish restaurants.`,
+          es: `El viejo puerto pesquero, que abastece cada mañana las cocinas de la Piazza Bresca, se sitúa junto a la gran marina de yates de Portosole. Los muelles llanos y las terrazas de café se recorren con correa para un paseo relajado junto al agua, justo al lado de los restaurantes de pescado.`,
+          pt: `O velho porto de pesca, que abastece todas as manhãs as cozinhas da Piazza Bresca, fica junto à grande marina de iates de Portosole. Os cais planos e as esplanadas de café percorrem-se com trela para um passeio descontraído junto à água, mesmo ao lado dos restaurantes de peixe.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Ne comptez pas sur les grandes plages payantes (stabilimenti) l'été : la plupart restreignent ou interdisent les chiens de juin à septembre. Préférez la plage libre de Pian di Poma ou le Baubeach d'Arma di Taggia, à environ 10 km.`,
+        `La Pista Ciclabile est la meilleure balade canine du coin, mais l'ombre y est rare : marchez à l'aube ou au crépuscule, testez le revêtement avec la main et emportez de l'eau.`,
+        `Gardez le chien en laisse en ville et ayez une muselière à portée : la loi italienne peut l'exiger dans les transports et les lieux bondés.`,
+        `Sur les trains Trenitalia, les petits chiens voyagent gratuitement en sac ; un grand chien a besoin d'une laisse, d'une muselière à porter et d'un billet régional à demi-tarif.`,
+        `L'intérieur du Casino et des églises exclut les animaux : prévoyez ces visites quand votre chien peut se reposer, ou réservez un dog sitter local via Rover, Pawshake ou Holidog.`,
+      ],
+      en: [
+        `Do not rely on the big paid beaches (stabilimenti) in summer: most restrict or ban dogs from June to September. Use the free Pian di Poma beach or the Baubeach at Arma di Taggia, about 10 km away, instead.`,
+        `The Pista Ciclabile is the area's best dog walk, but shade is scarce: walk at dawn or dusk, test the surface with your hand and carry water.`,
+        `Keep your dog on a leash in town and have a muzzle to hand: Italian law can require it on transport and in crowded places.`,
+        `On Trenitalia trains, small dogs travel free in a carrier; a larger dog needs a leash, a muzzle to carry and a half-price regional ticket.`,
+        `The interiors of the Casino and churches exclude pets: plan those visits for when your dog can rest, or book a local dog sitter through Rover, Pawshake or Holidog.`,
+      ],
+      es: [
+        `No cuentes con las grandes playas de pago (stabilimenti) en verano: la mayoría restringen o prohíben los perros de junio a septiembre. Usa mejor la playa libre de Pian di Poma o el Baubeach de Arma di Taggia, a unos 10 km.`,
+        `La Pista Ciclabile es el mejor paseo canino de la zona, pero la sombra es escasa: camina al amanecer o al atardecer, comprueba el suelo con la mano y lleva agua.`,
+        `Lleva al perro con correa en la ciudad y ten un bozal a mano: la ley italiana puede exigirlo en el transporte y en lugares concurridos.`,
+        `En los trenes de Trenitalia, los perros pequeños viajan gratis en transportín; uno más grande necesita correa, un bozal a mano y billete regional a mitad de precio.`,
+        `El interior del Casino y de las iglesias excluye a los animales: planifica esas visitas para cuando tu perro pueda descansar, o reserva un cuidador local con Rover, Pawshake o Holidog.`,
+      ],
+      pt: [
+        `Não conte com as grandes praias pagas (stabilimenti) no verão: a maioria restringe ou proíbe cães de junho a setembro. Use antes a praia livre de Pian di Poma ou o Baubeach de Arma di Taggia, a cerca de 10 km.`,
+        `A Pista Ciclabile é o melhor passeio canino da zona, mas a sombra é escassa: passeie ao amanhecer ou ao entardecer, teste o piso com a mão e leve água.`,
+        `Mantenha o cão com trela na cidade e tenha um açaime à mão: a lei italiana pode exigi-lo nos transportes e em locais concorridos.`,
+        `Nos comboios da Trenitalia, os cães pequenos viajam grátis em transportadora; um maior precisa de trela, um açaime à mão e bilhete regional a metade do preço.`,
+        `O interior do Casino e das igrejas exclui animais: planeie essas visitas para quando o cão puder descansar, ou reserve um dog sitter local através da Rover, Pawshake ou Holidog.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrer en Italie depuis un pays de l'UE se fait avec le passeport européen pour animaux : puce électronique et vaccination antirabique à jour. Italie, zone euro et espace Schengen.`,
+        `Numéro d'urgence unique européen : 112. Pour une urgence vétérinaire, l'Ospedale Veterinario San Remo (Via Barabino 15) assure un service 24h/24 au +39 0184 666921.`,
+        `Se déplacer : le centre de Sanremo est plat et se parcourt à pied ; la gare, en grande partie souterraine, est sur la ligne côtière Gênes-Vintimille, et Riviera Trasporti dessert la côte en bus.`,
+        `Plages : la plupart des établissements payants restreignent les chiens l'été ; la plage libre de Pian di Poma les admet et le Baubeach d'Arma di Taggia est une vraie plage pour chiens. Vérifiez l'arrêté municipal en cours.`,
+        `Sanremo est une base idéale de la Riviera dei Fiori : à courte distance d'Ospedaletti, Bordighera, Vintimille et de la frontière française, le long de la piste cyclable côtière.`,
+      ],
+      en: [
+        `Entering Italy from an EU country uses the European pet passport: microchip and up-to-date rabies vaccination. Italy, eurozone and Schengen area.`,
+        `Single European emergency number: 112. For a veterinary emergency, the Ospedale Veterinario San Remo (Via Barabino 15) runs a 24-hour service on +39 0184 666921.`,
+        `Getting around: central Sanremo is flat and walkable; the mostly underground station is on the coastal Genoa-Ventimiglia line, and Riviera Trasporti serves the coast by bus.`,
+        `Beaches: most paid lidos restrict dogs in summer; the free Pian di Poma beach allows them and the Baubeach at Arma di Taggia is a proper dog beach. Check the current municipal notice.`,
+        `Sanremo is an ideal Riviera dei Fiori base: a short way from Ospedaletti, Bordighera, Ventimiglia and the French border, along the coastal cycle path.`,
+      ],
+      es: [
+        `Entrar en Italia desde un país de la UE se hace con el pasaporte europeo para mascotas: microchip y vacunación antirrábica al día. Italia, zona euro y espacio Schengen.`,
+        `Número único europeo de emergencias: 112. Para una urgencia veterinaria, el Ospedale Veterinario San Remo (Via Barabino 15) ofrece un servicio 24 horas en el +39 0184 666921.`,
+        `Moverse: el centro de Sanremo es llano y se recorre a pie; la estación, en gran parte subterránea, está en la línea costera Génova-Ventimiglia, y Riviera Trasporti cubre la costa en autobús.`,
+        `Playas: la mayoría de los balnearios de pago restringen los perros en verano; la playa libre de Pian di Poma los admite y el Baubeach de Arma di Taggia es una verdadera playa canina. Consulta el bando municipal vigente.`,
+        `Sanremo es una base ideal de la Riviera dei Fiori: a poca distancia de Ospedaletti, Bordighera, Ventimiglia y la frontera francesa, a lo largo de la vía ciclista costera.`,
+      ],
+      pt: [
+        `Entrar em Itália a partir de um país da UE faz-se com o passaporte europeu para animais: microchip e vacinação antirrábica em dia. Itália, zona euro e espaço Schengen.`,
+        `Número único europeu de emergência: 112. Para uma urgência veterinária, o Ospedale Veterinario San Remo (Via Barabino 15) oferece um serviço 24 horas através do +39 0184 666921.`,
+        `Deslocações: o centro de Sanremo é plano e percorre-se a pé; a estação, em grande parte subterrânea, está na linha costeira Génova-Ventimiglia, e a Riviera Trasporti serve a costa de autocarro.`,
+        `Praias: a maioria das praias pagas restringe os cães no verão; a praia livre de Pian di Poma aceita-os e o Baubeach de Arma di Taggia é uma verdadeira praia canina. Consulte o edital municipal em vigor.`,
+        `Sanremo é uma base ideal da Riviera dei Fiori: a curta distância de Ospedaletti, Bordighera, Ventimiglia e da fronteira francesa, ao longo da ciclovia costeira.`,
+      ],
+    },
+  },
+
   'sant-antoni': {
     history: {
       fr: `Sant Antoni de Portmany, sur la côte ouest d'Ibiza aux Baléares, est la grande station balnéaire tournée vers le couchant. Née d'un modeste village de pêcheurs autour de l'église fortifiée du XIVe siècle, la ville a grandi avec le tourisme jusqu'à devenir un haut lieu de la vie nocturne et de la musique électronique. Sa baie profonde, la plus vaste de l'île, se termine par le célèbre Sunset Strip où bars et terrasses regardent le soleil plonger dans la mer chaque soir. Au-delà du tumulte estival, Sant Antoni offre un autre visage : le long Passeig de ses Fonts et ses fontaines dansantes, les criques translucides de Cala Bassa et Cala Conta à l'ouest, et l'arrière-pays paisible de Santa Agnès, célèbre pour la floraison des amandiers en hiver. On s'y promène en laisse le long du front de mer, entre marina, promenade et sentiers côtiers.`,

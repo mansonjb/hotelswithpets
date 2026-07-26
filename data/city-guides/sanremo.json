@@ -1,0 +1,869 @@
+{
+  "slug": "sanremo",
+  "name": "Sanremo",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "lastUpdated": "2026-07-26",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Sanremo",
+      "titleFr": "Restaurants acceptant les animaux à Sanremo",
+      "titleEs": "Restaurantes que admiten mascotas en Sanremo",
+      "titlePt": "Restaurantes que aceitam animais em Sanremo",
+      "introEn": "Sanremo's dining heart is Piazza Bresca, a tight little square of fish restaurants and pizzerias just behind the Porto Vecchio, and this is where eating out with a dog is easiest. As across Liguria, the workable rule is the outdoor terrace: leashed, calm dogs are generally welcome at the pavement and square tables even where small indoor rooms are not suited to them, so it is always worth confirming when you book. The Old Port supplies the fishmongers and kitchens here every morning, so the seafood is genuinely local, and the flat, sea-level square means your dog reaches a table without stairs.",
+      "introFr": "Le cœur gastronomique de Sanremo, c'est la Piazza Bresca, une petite place resserrée de restaurants de poisson et de pizzerias juste derrière le Porto Vecchio, et c'est là qu'il est le plus simple de dîner avec un chien. Comme partout en Ligurie, la règle qui fonctionne est celle de la terrasse : les chiens calmes et en laisse sont en général les bienvenus aux tables en terrasse et sur la place, même là où les petites salles intérieures ne s'y prêtent pas, il vaut donc toujours mieux confirmer à la réservation. Le Vieux Port approvisionne les poissonniers et les cuisines chaque matin, le poisson est donc vraiment local, et la place plate et au niveau de la mer permet à votre chien de rejoindre une table sans marches.",
+      "introEs": "El corazón gastronómico de Sanremo es la Piazza Bresca, una placita apretada de restaurantes de pescado y pizzerías justo detrás del Porto Vecchio, y es donde resulta más fácil comer fuera con un perro. Como en toda Liguria, la regla que funciona es la de la terraza: los perros tranquilos y con correa suelen ser bienvenidos en las mesas de la acera y de la plaza, incluso donde las pequeñas salas interiores no son adecuadas, así que siempre conviene confirmarlo al reservar. El Puerto Viejo abastece cada mañana a las pescaderías y cocinas, por lo que el pescado es realmente local, y la plaza llana y a nivel del mar permite que tu perro llegue a una mesa sin escaleras.",
+      "introPt": "O coração gastronómico de Sanremo é a Piazza Bresca, uma pequena praça apertada de restaurantes de peixe e pizzarias mesmo por trás do Porto Vecchio, e é onde é mais fácil comer fora com um cão. Como em toda a Ligúria, a regra que funciona é a da esplanada: os cães calmos e com trela são em geral bem-vindos nas mesas do passeio e da praça, mesmo onde as pequenas salas interiores não são adequadas, por isso vale sempre a pena confirmar ao reservar. O Porto Velho abastece as peixarias e cozinhas todas as manhãs, pelo que o peixe é mesmo local, e a praça plana e ao nível do mar permite que o seu cão chegue a uma mesa sem escadas.",
+      "places": [
+        {
+          "name": "Chicco e Rosa",
+          "address": "Near Piazza Bresca, Sanremo",
+          "neighborhood": "Porto Vecchio / Piazza Bresca",
+          "photo": "/images/city-places/sanremo-restaurants-chicco-e-rosa.jpg",
+          "website": "",
+          "description": "A small, well-regarded fish restaurant a step from Piazza Bresca where dogs are explicitly made welcome. The kitchen leans on the daily catch landed at the Old Port just below, so the menu is short and seasonal.",
+          "descriptionFr": "Un petit restaurant de poisson réputé, à deux pas de la Piazza Bresca, où les chiens sont explicitement les bienvenus. La cuisine s'appuie sur la pêche du jour débarquée au Vieux Port juste en contrebas, la carte est donc courte et de saison.",
+          "descriptionEs": "Un pequeño y apreciado restaurante de pescado a un paso de la Piazza Bresca donde los perros son explícitamente bienvenidos. La cocina se apoya en la pesca del día desembarcada en el Puerto Viejo justo debajo, por lo que la carta es corta y de temporada.",
+          "descriptionPt": "Um pequeno e conceituado restaurante de peixe a um passo da Piazza Bresca, onde os cães são explicitamente bem-vindos. A cozinha assenta na pesca do dia desembarcada no Porto Velho mesmo abaixo, pelo que a ementa é curta e de época.",
+          "petPolicy": "Dogs welcome",
+          "petPolicyFr": "Chiens bienvenus",
+          "petPolicyEs": "Perros bienvenidos",
+          "petPolicyPt": "Cães bem-vindos",
+          "priceRange": "€€",
+          "mustTry": "Whatever came in on the day's catch, Ligurian white wine",
+          "mustTryFr": "Le poisson du jour, un vin blanc ligure",
+          "mustTryEs": "El pescado del día, un vino blanco ligur",
+          "mustTryPt": "O peixe do dia, um vinho branco ligure",
+          "openingHours": "Check current hours; dinner service, closed one day midweek",
+          "tip": "It is small, so book ahead in season and mention you are bringing a dog",
+          "tipFr": "L'endroit est petit : réservez en saison et signalez que vous venez avec un chien",
+          "tipEs": "Es pequeño: reserva en temporada y avisa de que vienes con un perro",
+          "tipPt": "É pequeno: reserve na época e avise que leva um cão",
+          "googleMapsUrl": "https://maps.google.com/?q=Chicco+e+Rosa+Sanremo"
+        },
+        {
+          "name": "Piazza Bresca terraces",
+          "address": "Piazza Bresca, Sanremo",
+          "neighborhood": "Porto Vecchio",
+          "photo": "/images/city-places/sanremo-restaurants-piazza-bresca.jpg",
+          "website": "",
+          "description": "The lantern-lit square behind the Old Port is ringed by trattorias and pizzerias whose tables spill across the flat pavement, and this open-air setting is the reliable option for eating out with a dog. Following the standard Ligurian norm, leashed calm dogs are generally welcome at the outdoor tables, so pick a terrace and confirm at the door.",
+          "descriptionFr": "La place éclairée de lanternes derrière le Vieux Port est bordée de trattorias et de pizzerias dont les tables débordent sur le pavé plat, et ce cadre en plein air est l'option fiable pour dîner avec un chien. Selon la norme ligure habituelle, les chiens calmes et en laisse sont en général bienvenus aux tables extérieures : choisissez une terrasse et confirmez à l'entrée.",
+          "descriptionEs": "La plaza iluminada con farolillos detrás del Puerto Viejo está rodeada de trattorias y pizzerías cuyas mesas se extienden por el pavimento llano, y este entorno al aire libre es la opción fiable para comer con un perro. Según la norma ligur habitual, los perros tranquilos y con correa suelen ser bienvenidos en las mesas exteriores: elige una terraza y confirma en la puerta.",
+          "descriptionPt": "A praça iluminada por lanternas atrás do Porto Velho é rodeada de trattorias e pizzarias cujas mesas se estendem pelo passeio plano, e este ambiente ao ar livre é a opção fiável para comer com um cão. Segundo a norma ligure habitual, os cães calmos e com trela são em geral bem-vindos nas mesas exteriores: escolha uma esplanada e confirme à porta.",
+          "petPolicy": "Leashed dogs generally welcome at outdoor tables (Ligurian norm); confirm per venue",
+          "petPolicyFr": "Chiens en laisse en général bienvenus en terrasse (norme ligure) ; à confirmer selon l'établissement",
+          "petPolicyEs": "Perros con correa en general bienvenidos en las mesas exteriores (norma ligur); confirmar según el local",
+          "petPolicyPt": "Cães com trela em geral bem-vindos nas mesas exteriores (norma ligure); confirmar consoante o local",
+          "priceRange": "€€",
+          "mustTry": "Fritto misto, trofie al pesto, Ligurian sciacchetra dessert wine",
+          "mustTryFr": "Fritto misto, trofie al pesto, sciacchetra ligure en dessert",
+          "mustTryEs": "Fritto misto, trofie al pesto, sciacchetra ligur de postre",
+          "mustTryPt": "Fritto misto, trofie al pesto, sciacchetra ligure de sobremesa",
+          "openingHours": "Most venues lunch and dinner; busiest in the evening",
+          "tip": "Ask for a table on the square side; it is flat and level, so no steps for your dog",
+          "tipFr": "Demandez une table côté place : c'est plat et de plain-pied, aucune marche pour votre chien",
+          "tipEs": "Pide una mesa del lado de la plaza: es llana y a nivel, sin escalones para tu perro",
+          "tipPt": "Peça uma mesa do lado da praça: é plana e ao nível, sem degraus para o seu cão",
+          "googleMapsUrl": "https://maps.google.com/?q=Piazza+Bresca+Sanremo"
+        },
+        {
+          "name": "Ristorante Da Nicò. Trattoria del Porto",
+          "address": "Piazza Bresca, Sanremo",
+          "neighborhood": "Porto Vecchio / Piazza Bresca",
+          "photo": "/images/city-places/sanremo-restaurants-ristorante-da-nico.jpg",
+          "website": "https://www.ristorantedanicosanremo.it/",
+          "description": "A Piazza Bresca fixture since 1935, this family trattoria works Ligurian and southern Italian seafood a few metres from the fishing boats. As with the rest of the square, the outdoor tables are the dog-friendly option under the usual Ligurian terrace rule.",
+          "descriptionFr": "Institution de la Piazza Bresca depuis 1935, cette trattoria familiale travaille le poisson ligure et du sud de l'Italie à quelques mètres des barques de pêche. Comme sur le reste de la place, les tables extérieures sont l'option dog-friendly selon la règle habituelle de la terrasse ligure.",
+          "descriptionEs": "Un clásico de la Piazza Bresca desde 1935, esta trattoria familiar trabaja el pescado ligur y del sur de Italia a pocos metros de las barcas de pesca. Como en el resto de la plaza, las mesas exteriores son la opción dog-friendly según la regla habitual de la terraza ligur.",
+          "descriptionPt": "Um clássico da Piazza Bresca desde 1935, esta trattoria familiar trabalha o peixe ligure e do sul de Itália a poucos metros dos barcos de pesca. Como no resto da praça, as mesas exteriores são a opção dog-friendly segundo a regra habitual da esplanada ligure.",
+          "petPolicy": "Leashed dogs generally welcome at outdoor tables; confirm when booking",
+          "petPolicyFr": "Chiens en laisse en général bienvenus en terrasse ; à confirmer à la réservation",
+          "petPolicyEs": "Perros con correa en general bienvenidos en las mesas exteriores; confirmar al reservar",
+          "petPolicyPt": "Cães com trela em geral bem-vindos nas mesas exteriores; confirmar ao reservar",
+          "priceRange": "€€",
+          "mustTry": "Fish antipasti, spaghetti allo scoglio",
+          "mustTryFr": "Antipasti de poisson, spaghetti allo scoglio",
+          "mustTryEs": "Antipasti de pescado, spaghetti allo scoglio",
+          "mustTryPt": "Antipasti de peixe, spaghetti allo scoglio",
+          "openingHours": "Lunch and dinner; check current days",
+          "tip": "Evenings on the square are lively; a quieter lunch suits a nervous dog better",
+          "tipFr": "Les soirées sur la place sont animées ; un déjeuner plus calme convient mieux à un chien craintif",
+          "tipEs": "Las noches en la plaza son animadas; un almuerzo más tranquilo va mejor con un perro nervioso",
+          "tipPt": "As noites na praça são animadas; um almoço mais calmo é melhor para um cão nervoso",
+          "googleMapsUrl": "https://maps.google.com/?q=Ristorante+Da+Nico+Piazza+Bresca+Sanremo"
+        }
+      ],
+      "tipsEn": [
+        "Piazza Bresca behind the Old Port is the easiest dining spot with a dog: flat, level and full of terraces.",
+        "The Ligurian rule is the outdoor table; leashed calm dogs are usually fine there even where indoor rooms are tight.",
+        "Book in season and say you are bringing a dog; the good fish terraces fill quickly in summer."
+      ],
+      "tipsFr": [
+        "La Piazza Bresca derrière le Vieux Port est l'endroit le plus simple pour dîner avec un chien : plat, de plain-pied et plein de terrasses.",
+        "La règle ligure, c'est la table en terrasse ; les chiens calmes en laisse y sont en général acceptés même quand les salles intérieures sont étroites.",
+        "Réservez en saison et signalez votre chien ; les bonnes terrasses de poisson se remplissent vite l'été."
+      ],
+      "tipsEs": [
+        "La Piazza Bresca detrás del Puerto Viejo es el sitio más fácil para comer con un perro: llana, a nivel y llena de terrazas.",
+        "La regla ligur es la mesa exterior; los perros tranquilos con correa suelen admitirse ahí aunque las salas interiores sean estrechas.",
+        "Reserva en temporada y avisa de tu perro; las buenas terrazas de pescado se llenan rápido en verano."
+      ],
+      "tipsPt": [
+        "A Piazza Bresca atrás do Porto Velho é o sítio mais fácil para comer com um cão: plana, ao nível e cheia de esplanadas.",
+        "A regra ligure é a mesa exterior; os cães calmos com trela costumam ser aceites aí mesmo quando as salas interiores são apertadas.",
+        "Reserve na época e avise do seu cão; as boas esplanadas de peixe enchem depressa no verão."
+      ],
+      "faqsEn": [
+        {"q": "Where is it easiest to eat out with a dog in Sanremo?", "a": "Piazza Bresca, the little restaurant square just behind the Porto Vecchio. It is flat and at sea level, ringed with fish trattorias and pizzerias whose terraces spill onto the square, and leashed calm dogs are generally welcome at the outdoor tables."},
+        {"q": "Can my dog come inside the restaurant?", "a": "It varies. Many Sanremo kitchens have small indoor rooms not suited to dogs, so the reliable option is the outdoor terrace, which follows the standard Ligurian norm of welcoming leashed calm dogs. Always confirm when you book."},
+        {"q": "Is the seafood really local?", "a": "Yes. The Old Port fishing boats land the catch each morning and supply the Piazza Bresca fishmongers and kitchens directly, so the daily fish menu is genuinely from the water just below the square."}
+      ],
+      "faqsFr": [
+        {"q": "Où est-il le plus simple de dîner avec un chien à Sanremo ?", "a": "La Piazza Bresca, la petite place de restaurants juste derrière le Porto Vecchio. Elle est plate et au niveau de la mer, bordée de trattorias de poisson et de pizzerias dont les terrasses débordent sur la place, et les chiens calmes en laisse y sont en général bienvenus aux tables extérieures."},
+        {"q": "Mon chien peut-il entrer dans le restaurant ?", "a": "Cela dépend. Beaucoup de cuisines de Sanremo ont de petites salles intérieures peu adaptées aux chiens : l'option fiable est la terrasse, qui suit la norme ligure d'accueil des chiens calmes en laisse. Confirmez toujours à la réservation."},
+        {"q": "Le poisson est-il vraiment local ?", "a": "Oui. Les barques du Vieux Port débarquent la pêche chaque matin et approvisionnent directement les poissonniers et les cuisines de la Piazza Bresca, la carte du jour vient donc vraiment de l'eau juste en contrebas de la place."}
+      ],
+      "faqsEs": [
+        {"q": "¿Dónde es más fácil comer fuera con un perro en Sanremo?", "a": "La Piazza Bresca, la placita de restaurantes justo detrás del Porto Vecchio. Es llana y está a nivel del mar, rodeada de trattorias de pescado y pizzerías cuyas terrazas se extienden por la plaza, y los perros tranquilos con correa suelen ser bienvenidos en las mesas exteriores."},
+        {"q": "¿Puede entrar mi perro en el restaurante?", "a": "Varía. Muchas cocinas de Sanremo tienen pequeñas salas interiores poco adecuadas para perros, así que la opción fiable es la terraza, que sigue la norma ligur de admitir perros tranquilos con correa. Confirma siempre al reservar."},
+        {"q": "¿El pescado es realmente local?", "a": "Sí. Las barcas del Puerto Viejo desembarcan la pesca cada mañana y abastecen directamente a las pescaderías y cocinas de la Piazza Bresca, así que la carta del día viene realmente del agua justo debajo de la plaza."}
+      ],
+      "faqsPt": [
+        {"q": "Onde é mais fácil comer fora com um cão em Sanremo?", "a": "A Piazza Bresca, a pequena praça de restaurantes mesmo por trás do Porto Vecchio. É plana e ao nível do mar, rodeada de trattorias de peixe e pizzarias cujas esplanadas se estendem pela praça, e os cães calmos com trela são em geral bem-vindos nas mesas exteriores."},
+        {"q": "O meu cão pode entrar no restaurante?", "a": "Varia. Muitas cozinhas de Sanremo têm pequenas salas interiores pouco adequadas a cães, por isso a opção fiável é a esplanada, que segue a norma ligure de aceitar cães calmos com trela. Confirme sempre ao reservar."},
+        {"q": "O peixe é mesmo local?", "a": "Sim. Os barcos do Porto Velho desembarcam a pesca todas as manhãs e abastecem diretamente as peixarias e cozinhas da Piazza Bresca, por isso a ementa do dia vem mesmo da água logo abaixo da praça."}
+      ]
+    },
+    "parks": {
+      "titleEn": "Parks & Walks in Sanremo",
+      "titleFr": "Parcs et promenades à Sanremo",
+      "titleEs": "Parques y paseos en Sanremo",
+      "titlePt": "Parques e passeios em Sanremo",
+      "introEn": "Sanremo's standout dog walk is the Pista Ciclabile del Parco Costiero Riviera dei Fiori, a flat, paved seafront path built on the former Genoa-Ventimiglia coastal railway (decommissioned in 2001) that runs roughly 24 km from Ospedaletti to San Lorenzo al Mare, open to walkers and cyclists alike. Right in town, the exotic gardens of Villa Ormond and the palm-lined Corso Imperatrice promenade give easy, shaded strolls at sea level. Dogs must be leashed in public gardens and on the path as a matter of Italian norm, so bring a lead and water, especially on hot afternoons when there is little shade on open stretches.",
+      "introFr": "La grande promenade canine de Sanremo, c'est la Pista Ciclabile del Parco Costiero Riviera dei Fiori, un chemin plat et goudronné en bord de mer aménagé sur l'ancienne voie ferrée côtière Gênes-Vintimille (désaffectée en 2001), qui court sur environ 24 km d'Ospedaletti à San Lorenzo al Mare, ouvert aux piétons comme aux cyclistes. En ville, les jardins exotiques de la Villa Ormond et la promenade du Corso Imperatrice bordée de palmiers offrent des balades faciles et ombragées au niveau de la mer. Les chiens doivent être tenus en laisse dans les jardins publics et sur la piste, selon la norme italienne : prévoyez une laisse et de l'eau, surtout l'après-midi quand l'ombre manque sur les portions dégagées.",
+      "introEs": "El paseo canino estrella de Sanremo es la Pista Ciclabile del Parco Costiero Riviera dei Fiori, un camino llano y asfaltado junto al mar construido sobre la antigua vía férrea costera Génova-Ventimiglia (clausurada en 2001), que recorre unos 24 km de Ospedaletti a San Lorenzo al Mare, abierto tanto a peatones como a ciclistas. En la ciudad, los jardines exóticos de Villa Ormond y el paseo del Corso Imperatrice bordeado de palmeras ofrecen paseos fáciles y sombreados a nivel del mar. Los perros deben ir con correa en los jardines públicos y en el camino, como norma en Italia: lleva correa y agua, sobre todo por la tarde cuando falta sombra en los tramos abiertos.",
+      "introPt": "O passeio canino de destaque de Sanremo é a Pista Ciclabile del Parco Costiero Riviera dei Fiori, um caminho plano e pavimentado à beira-mar construído sobre a antiga linha ferroviária costeira Génova-Ventimiglia (desativada em 2001), que percorre cerca de 24 km de Ospedaletti a San Lorenzo al Mare, aberto tanto a peões como a ciclistas. Na cidade, os jardins exóticos da Villa Ormond e a avenida Corso Imperatrice ladeada de palmeiras oferecem passeios fáceis e sombreados ao nível do mar. Os cães têm de estar com trela nos jardins públicos e no caminho, como norma em Itália: leve trela e água, sobretudo à tarde quando falta sombra nos troços abertos.",
+      "places": [
+        {
+          "name": "Pista Ciclabile del Parco Costiero Riviera dei Fiori",
+          "type": "Coastal path (former railway)",
+          "offLeash": false,
+          "offLeashArea": "No; dogs on a leash, as on Italian public paths",
+          "offLeashAreaFr": "Non ; chiens en laisse, comme sur les chemins publics italiens",
+          "offLeashAreaEs": "No; perros con correa, como en los caminos públicos italianos",
+          "offLeashAreaPt": "Não; cães com trela, como nos caminhos públicos italianos",
+          "description": "The star of the coast: a flat, paved seafront path on the old Genoa-Ventimiglia railway line, running about 24 km through Sanremo between Ospedaletti and San Lorenzo al Mare. It is level, largely traffic-free and shared by walkers and cyclists, so it is the single best long walk in the area for a dog, best done early before the midday sun.",
+          "descriptionFr": "La vedette de la côte : un chemin plat et goudronné en bord de mer sur l'ancienne ligne Gênes-Vintimille, qui court sur environ 24 km à travers Sanremo entre Ospedaletti et San Lorenzo al Mare. De plain-pied, largement à l'écart de la circulation et partagé par piétons et cyclistes, c'est la meilleure grande balade de la région pour un chien, à faire tôt avant le soleil de midi.",
+          "descriptionEs": "La estrella de la costa: un camino llano y asfaltado junto al mar sobre la antigua línea Génova-Ventimiglia, que recorre unos 24 km a través de Sanremo entre Ospedaletti y San Lorenzo al Mare. Es a nivel, en gran parte sin tráfico y compartido por peatones y ciclistas, así que es el mejor paseo largo de la zona para un perro, mejor temprano antes del sol del mediodía.",
+          "descriptionPt": "A estrela da costa: um caminho plano e pavimentado à beira-mar sobre a antiga linha Génova-Ventimiglia, que percorre cerca de 24 km através de Sanremo entre Ospedaletti e San Lorenzo al Mare. É ao nível, em grande parte sem trânsito e partilhado por peões e ciclistas, por isso é o melhor passeio longo da zona para um cão, melhor cedo antes do sol do meio-dia.",
+          "tip": "Rent a bike with a dog trailer at one of the path's hire points if your dog tires; shade is patchy, so carry water",
+          "tipFr": "Louez un vélo avec remorque pour chien dans l'un des points de location de la piste si votre chien fatigue ; l'ombre est rare, emportez de l'eau",
+          "tipEs": "Alquila una bici con remolque para perros en uno de los puntos de la ruta si tu perro se cansa; la sombra es escasa, lleva agua",
+          "tipPt": "Alugue uma bicicleta com atrelado para cães num dos pontos de aluguer do caminho se o seu cão se cansar; a sombra é escassa, leve água",
+          "website": "https://www.pistaciclabilerivieradeifiori.it/",
+          "googleMapsUrl": "https://maps.google.com/?q=Pista+Ciclabile+Parco+Costiero+Sanremo",
+          "photo": "/images/city-places/sanremo-parks-pista-ciclabile-parco-costiero.jpg"
+        },
+        {
+          "name": "Giardini di Villa Ormond",
+          "type": "Public botanical garden",
+          "offLeash": false,
+          "offLeashArea": "No; dogs on a leash in the gardens",
+          "offLeashAreaFr": "Non ; chiens en laisse dans les jardins",
+          "offLeashAreaEs": "No; perros con correa en los jardines",
+          "offLeashAreaPt": "Não; cães com trela nos jardins",
+          "description": "A free public park off Corso Cavallotti laid out as an open-air botanical museum, with palm groves, cedars and a Japanese garden created through Sanremo's twinning with Atami. The shaded paths and lawns make a calm, cool loop in the middle of town.",
+          "descriptionFr": "Un parc public gratuit donnant sur le Corso Cavallotti, aménagé en musée botanique à ciel ouvert, avec palmeraies, cèdres et un jardin japonais né du jumelage de Sanremo avec Atami. Les allées ombragées et les pelouses offrent une boucle calme et fraîche en plein centre-ville.",
+          "descriptionEs": "Un parque público gratuito junto al Corso Cavallotti, dispuesto como museo botánico al aire libre, con palmerales, cedros y un jardín japonés surgido del hermanamiento de Sanremo con Atami. Los senderos sombreados y el césped forman un recorrido tranquilo y fresco en pleno centro.",
+          "descriptionPt": "Um parque público gratuito junto ao Corso Cavallotti, disposto como museu botânico ao ar livre, com palmares, cedros e um jardim japonês nascido da geminação de Sanremo com Atami. Os trilhos sombreados e os relvados formam um circuito calmo e fresco em pleno centro.",
+          "tip": "The garden is open daily and free; keep to the paths and clean up, as it is a formal botanical collection",
+          "tipFr": "Le jardin est ouvert tous les jours et gratuit ; restez sur les allées et ramassez, c'est une collection botanique soignée",
+          "tipEs": "El jardín abre a diario y es gratuito; mantente en los senderos y recoge, es una colección botánica cuidada",
+          "tipPt": "O jardim abre diariamente e é gratuito; mantenha-se nos trilhos e recolha, é uma coleção botânica cuidada",
+          "website": "",
+          "googleMapsUrl": "https://maps.google.com/?q=Giardini+di+Villa+Ormond+Sanremo",
+          "photo": "/images/city-places/sanremo-parks-giardini-villa-ormond.jpg"
+        },
+        {
+          "name": "Corso Imperatrice promenade",
+          "type": "Seafront promenade",
+          "offLeash": false,
+          "offLeashArea": "No; dogs on a leash along the promenade",
+          "offLeashAreaFr": "Non ; chiens en laisse le long de la promenade",
+          "offLeashAreaEs": "No; perros con correa a lo largo del paseo",
+          "offLeashAreaPt": "Não; cães com trela ao longo da avenida",
+          "description": "The grand palm-lined avenue along the western seafront, the oldest public promenade in Sanremo and named for a Russian empress who wintered here. It is flat and level, links neatly to the cycle path, and is an easy on-leash stroll with sea views.",
+          "descriptionFr": "La grande avenue bordée de palmiers le long du front de mer ouest, la plus ancienne promenade publique de Sanremo, baptisée en l'honneur d'une impératrice russe qui y passait l'hiver. Plate et de plain-pied, elle rejoint facilement la piste cyclable et se prête à une balade tranquille en laisse avec vue sur la mer.",
+          "descriptionEs": "La gran avenida bordeada de palmeras a lo largo del frente marítimo oeste, el paseo público más antiguo de Sanremo, llamado así por una emperatriz rusa que pasaba aquí el invierno. Es llana y a nivel, enlaza bien con la vía ciclista y es un paseo fácil con correa y vistas al mar.",
+          "descriptionPt": "A grande avenida ladeada de palmeiras ao longo da frente de mar oeste, o passeio público mais antigo de Sanremo, com o nome de uma imperatriz russa que aqui passava o inverno. É plana e ao nível, liga bem à ciclovia e é um passeio fácil com trela e vista para o mar.",
+          "tip": "Combine it with the cycle path for a longer flat loop; benches and shade under the palms make good rest stops",
+          "tipFr": "Combinez-la avec la piste cyclable pour une boucle plate plus longue ; les bancs et l'ombre des palmiers font de bonnes pauses",
+          "tipEs": "Combínalo con la vía ciclista para un circuito llano más largo; los bancos y la sombra de las palmeras son buenas paradas",
+          "tipPt": "Combine-a com a ciclovia para um circuito plano mais longo; os bancos e a sombra das palmeiras são boas paragens",
+          "website": "",
+          "googleMapsUrl": "https://maps.google.com/?q=Corso+Imperatrice+Sanremo",
+          "photo": "/images/city-places/sanremo-parks-corso-imperatrice.jpg"
+        }
+      ],
+      "tipsEn": [
+        "The Pista Ciclabile is the area's best dog walk: flat, paved and about 24 km, but shade is patchy, so go early and carry water.",
+        "Dogs stay on a leash in Villa Ormond gardens and along Corso Imperatrice, in line with Italian public-park rules.",
+        "In summer the paving and open promenade get hot; walk at dawn or dusk and check the surface for your dog's paws."
+      ],
+      "tipsFr": [
+        "La Pista Ciclabile est la meilleure balade canine du coin : plate, goudronnée et longue d'environ 24 km, mais l'ombre est rare, partez tôt et emportez de l'eau.",
+        "Les chiens restent en laisse dans les jardins de la Villa Ormond et sur le Corso Imperatrice, selon les règles des parcs publics italiens.",
+        "L'été, le revêtement et la promenade dégagée chauffent ; marchez à l'aube ou au crépuscule et vérifiez le sol pour les coussinets."
+      ],
+      "tipsEs": [
+        "La Pista Ciclabile es el mejor paseo canino de la zona: llana, asfaltada y de unos 24 km, pero la sombra es escasa, ve temprano y lleva agua.",
+        "Los perros van con correa en los jardines de Villa Ormond y en el Corso Imperatrice, según las normas de los parques públicos italianos.",
+        "En verano el pavimento y el paseo despejado se calientan; camina al amanecer o al atardecer y comprueba el suelo para las almohadillas."
+      ],
+      "tipsPt": [
+        "A Pista Ciclabile é o melhor passeio canino da zona: plana, pavimentada e com cerca de 24 km, mas a sombra é escassa, vá cedo e leve água.",
+        "Os cães ficam com trela nos jardins da Villa Ormond e no Corso Imperatrice, segundo as regras dos parques públicos italianos.",
+        "No verão o pavimento e a avenida aberta aquecem; passeie ao amanhecer ou ao entardecer e verifique o piso para as almofadinhas."
+      ],
+      "faqsEn": [
+        {"q": "What is the best dog walk in Sanremo?", "a": "The Pista Ciclabile del Parco Costiero Riviera dei Fiori, a flat, paved seafront path on the former Genoa-Ventimiglia railway. It runs about 24 km between Ospedaletti and San Lorenzo al Mare through Sanremo, is level and largely traffic-free, and is shared by walkers and cyclists, making it the area's best long walk with a dog."},
+        {"q": "Can my dog be off the leash on the path or in the parks?", "a": "No. As on Italian public paths and in public gardens, dogs should be kept on a leash on the cycle path, along Corso Imperatrice and in the Villa Ormond gardens. Carry the leash and clean up after your dog."},
+        {"q": "Is there shade on the walks?", "a": "Only patchy shade on the open cycle path, more under the palms of Corso Imperatrice and the trees of Villa Ormond. In summer, walk early or late, carry water, and check the paving temperature for your dog's paws."}
+      ],
+      "faqsFr": [
+        {"q": "Quelle est la meilleure balade canine à Sanremo ?", "a": "La Pista Ciclabile del Parco Costiero Riviera dei Fiori, un chemin plat et goudronné en bord de mer sur l'ancienne voie ferrée Gênes-Vintimille. Elle court sur environ 24 km entre Ospedaletti et San Lorenzo al Mare à travers Sanremo, de plain-pied et largement à l'écart de la circulation, partagée par piétons et cyclistes : la meilleure grande balade de la région avec un chien."},
+        {"q": "Mon chien peut-il être détaché sur la piste ou dans les parcs ?", "a": "Non. Comme sur les chemins publics italiens et dans les jardins publics, le chien doit rester en laisse sur la piste cyclable, sur le Corso Imperatrice et dans les jardins de la Villa Ormond. Gardez la laisse et ramassez derrière votre chien."},
+        {"q": "Y a-t-il de l'ombre sur les promenades ?", "a": "Peu d'ombre sur la piste cyclable dégagée, davantage sous les palmiers du Corso Imperatrice et les arbres de la Villa Ormond. L'été, marchez tôt ou tard, emportez de l'eau et vérifiez la température du revêtement pour les coussinets."}
+      ],
+      "faqsEs": [
+        {"q": "¿Cuál es el mejor paseo canino en Sanremo?", "a": "La Pista Ciclabile del Parco Costiero Riviera dei Fiori, un camino llano y asfaltado junto al mar sobre la antigua vía férrea Génova-Ventimiglia. Recorre unos 24 km entre Ospedaletti y San Lorenzo al Mare a través de Sanremo, es a nivel y en gran parte sin tráfico, y lo comparten peatones y ciclistas: el mejor paseo largo de la zona con un perro."},
+        {"q": "¿Puede ir mi perro suelto en el camino o en los parques?", "a": "No. Como en los caminos públicos italianos y en los jardines públicos, el perro debe ir con correa en la vía ciclista, en el Corso Imperatrice y en los jardines de Villa Ormond. Lleva la correa y recoge los excrementos."},
+        {"q": "¿Hay sombra en los paseos?", "a": "Poca sombra en la vía ciclista despejada, más bajo las palmeras del Corso Imperatrice y los árboles de Villa Ormond. En verano, camina temprano o tarde, lleva agua y comprueba la temperatura del pavimento para las almohadillas."}
+      ],
+      "faqsPt": [
+        {"q": "Qual é o melhor passeio canino em Sanremo?", "a": "A Pista Ciclabile del Parco Costiero Riviera dei Fiori, um caminho plano e pavimentado à beira-mar sobre a antiga linha ferroviária Génova-Ventimiglia. Percorre cerca de 24 km entre Ospedaletti e San Lorenzo al Mare através de Sanremo, é ao nível e em grande parte sem trânsito, e é partilhado por peões e ciclistas: o melhor passeio longo da zona com um cão."},
+        {"q": "O meu cão pode andar sem trela no caminho ou nos parques?", "a": "Não. Como nos caminhos públicos italianos e nos jardins públicos, o cão deve estar com trela na ciclovia, no Corso Imperatrice e nos jardins da Villa Ormond. Leve a trela e recolha os dejetos do seu cão."},
+        {"q": "Há sombra nos passeios?", "a": "Pouca sombra na ciclovia aberta, mais sob as palmeiras do Corso Imperatrice e as árvores da Villa Ormond. No verão, passeie cedo ou tarde, leve água e verifique a temperatura do pavimento para as almofadinhas."}
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Sanremo with a Dog",
+      "titleFr": "Se déplacer à Sanremo avec un chien",
+      "titleEs": "Moverse por Sanremo con un perro",
+      "titlePt": "Deslocar-se em Sanremo com um cão",
+      "introEn": "Sanremo sits on the Genoa-Ventimiglia railway, and its station is largely underground in the centre, so you arrive close to the seafront. On Trenitalia trains small dogs travel free in a carrier (up to 70x30x50 cm, one per passenger), while larger dogs travel on a leash with a muzzle carried, on a regional ticket at half the second-class fare. Around town, Riviera Trasporti runs the local buses along the coast, and the flat seafront and cycle path mean much of Sanremo is comfortably walkable on foot. Carry your dog's microchip and health papers, as they can be requested on trains.",
+      "introFr": "Sanremo est sur la ligne Gênes-Vintimille, et sa gare est en grande partie souterraine au centre : on arrive donc tout près du front de mer. Sur les trains Trenitalia, les petits chiens voyagent gratuitement en sac (jusqu'à 70x30x50 cm, un par voyageur), tandis que les plus grands voyagent en laisse avec muselière à portée, sur un billet régional à moitié du tarif de seconde classe. En ville, Riviera Trasporti assure les bus locaux le long de la côte, et le front de mer plat et la piste cyclable rendent une grande partie de Sanremo agréable à pied. Ayez sur vous la puce et les papiers sanitaires du chien, ils peuvent être demandés dans les trains.",
+      "introEs": "Sanremo está en la línea Génova-Ventimiglia, y su estación es en gran parte subterránea en el centro, así que se llega muy cerca del frente marítimo. En los trenes de Trenitalia los perros pequeños viajan gratis en transportín (hasta 70x30x50 cm, uno por viajero), mientras que los más grandes viajan con correa y bozal a mano, con billete regional a mitad de la tarifa de segunda clase. Por la ciudad, Riviera Trasporti opera los autobuses locales a lo largo de la costa, y el frente marítimo llano y la vía ciclista hacen que gran parte de Sanremo sea cómoda a pie. Lleva el microchip y los papeles sanitarios del perro, pueden pedirse en los trenes.",
+      "introPt": "Sanremo fica na linha Génova-Ventimiglia, e a sua estação é em grande parte subterrânea no centro, por isso chega-se muito perto da frente de mar. Nos comboios da Trenitalia os cães pequenos viajam grátis em transportadora (até 70x30x50 cm, um por passageiro), enquanto os maiores viajam com trela e açaime à mão, com bilhete regional a metade da tarifa de segunda classe. Pela cidade, a Riviera Trasporti opera os autocarros locais ao longo da costa, e a frente de mar plana e a ciclovia tornam grande parte de Sanremo confortável a pé. Leve o microchip e os documentos sanitários do cão, podem ser pedidos nos comboios.",
+      "places": [
+        {
+          "name": "Trenitalia. Sanremo station",
+          "address": "Sanremo railway station (underground), central Sanremo",
+          "neighborhood": "City centre",
+          "photo": "/images/city-places/sanremo-transport-trenitalia-sanremo-station.jpg",
+          "website": "https://www.trenitalia.com/en/services/travelling_withpets.html",
+          "description": "Sanremo's mostly underground station is on the coastal Genoa-Ventimiglia line and puts you a short walk from the seafront and Old Town. Small dogs ride free in a carrier; larger dogs travel leashed with a muzzle carried, on a half-price regional ticket.",
+          "descriptionFr": "La gare de Sanremo, en grande partie souterraine, est sur la ligne côtière Gênes-Vintimille et vous laisse à quelques minutes à pied du front de mer et de la vieille ville. Les petits chiens voyagent gratuitement en sac ; les plus grands en laisse avec muselière à portée, sur un billet régional à demi-tarif.",
+          "descriptionEs": "La estación de Sanremo, en gran parte subterránea, está en la línea costera Génova-Ventimiglia y te deja a un corto paseo del frente marítimo y el casco antiguo. Los perros pequeños viajan gratis en transportín; los más grandes con correa y bozal a mano, con billete regional a mitad de precio.",
+          "descriptionPt": "A estação de Sanremo, em grande parte subterrânea, está na linha costeira Génova-Ventimiglia e deixa-o a um curto passeio da frente de mar e da cidade velha. Os cães pequenos viajam grátis em transportadora; os maiores com trela e açaime à mão, com bilhete regional a metade do preço.",
+          "petPolicy": "Small dogs free in a carrier; larger dogs leashed with muzzle carried, half-price regional ticket",
+          "petPolicyFr": "Petits chiens gratuits en sac ; grands chiens en laisse avec muselière à portée, billet régional à demi-tarif",
+          "petPolicyEs": "Perros pequeños gratis en transportín; los grandes con correa y bozal a mano, billete regional a mitad de precio",
+          "petPolicyPt": "Cães pequenos grátis em transportadora; os maiores com trela e açaime à mão, bilhete regional a metade do preço",
+          "googleMapsUrl": "https://maps.google.com/?q=Stazione+Sanremo"
+        },
+        {
+          "name": "Riviera Trasporti coastal buses",
+          "address": "Local bus network, Sanremo and the coast",
+          "neighborhood": "Sanremo and Riviera dei Fiori",
+          "photo": "/images/city-places/sanremo-transport-riviera-trasporti-bus.jpg",
+          "website": "https://rivieratrasporti.it",
+          "description": "Riviera Trasporti has run Sanremo's public transport since 1983, with buses along the coast to Ventimiglia, Bordighera, Ospedaletti and Taggia. As on Italian buses generally, small dogs travel on a leash or in a carrier and larger dogs on a leash with a muzzle carried.",
+          "descriptionFr": "Riviera Trasporti gère les transports publics de Sanremo depuis 1983, avec des bus le long de la côte vers Vintimille, Bordighera, Ospedaletti et Taggia. Comme dans les bus italiens en général, les petits chiens voyagent en laisse ou en sac et les plus grands en laisse avec muselière à portée.",
+          "descriptionEs": "Riviera Trasporti gestiona el transporte público de Sanremo desde 1983, con autobuses por la costa hacia Ventimiglia, Bordighera, Ospedaletti y Taggia. Como en los autobuses italianos en general, los perros pequeños viajan con correa o en transportín y los más grandes con correa y bozal a mano.",
+          "descriptionPt": "A Riviera Trasporti gere os transportes públicos de Sanremo desde 1983, com autocarros ao longo da costa para Ventimiglia, Bordighera, Ospedaletti e Taggia. Como nos autocarros italianos em geral, os cães pequenos viajam com trela ou em transportadora e os maiores com trela e açaime à mão.",
+          "petPolicy": "Small dogs on a leash or in a carrier; larger dogs on a leash with muzzle carried",
+          "petPolicyFr": "Petits chiens en laisse ou en sac ; grands chiens en laisse avec muselière à portée",
+          "petPolicyEs": "Perros pequeños con correa o en transportín; los grandes con correa y bozal a mano",
+          "petPolicyPt": "Cães pequenos com trela ou em transportadora; os maiores com trela e açaime à mão",
+          "googleMapsUrl": "https://maps.google.com/?q=Riviera+Trasporti+Sanremo"
+        },
+        {
+          "name": "Walking and the cycle path",
+          "address": "Seafront and Pista Ciclabile, Sanremo",
+          "neighborhood": "Along the coast",
+          "photo": "/images/city-places/sanremo-transport-walking-cycle-path.jpg",
+          "website": "",
+          "description": "The flat seafront, the Corso Imperatrice and the Pista Ciclabile mean most of central Sanremo is easy to cover on foot with a dog, avoiding transport altogether. The main climb is up into the old town of La Pigna, where the lanes are steep and cobbled.",
+          "descriptionFr": "Le front de mer plat, le Corso Imperatrice et la Pista Ciclabile font que l'essentiel du centre de Sanremo se parcourt à pied avec un chien, sans transport. La seule vraie montée mène à la vieille ville de La Pigna, aux ruelles raides et pavées.",
+          "descriptionEs": "El frente marítimo llano, el Corso Imperatrice y la Pista Ciclabile hacen que la mayor parte del centro de Sanremo se recorra a pie con un perro, evitando el transporte. La única subida real lleva al casco antiguo de La Pigna, de callejuelas empinadas y adoquinadas.",
+          "descriptionPt": "A frente de mar plana, o Corso Imperatrice e a Pista Ciclabile fazem com que a maior parte do centro de Sanremo se percorra a pé com um cão, sem transporte. A única subida real leva à cidade velha de La Pigna, de ruelas íngremes e empedradas.",
+          "petPolicy": "Dogs on a leash on streets and the seafront",
+          "petPolicyFr": "Chiens en laisse dans les rues et sur le front de mer",
+          "petPolicyEs": "Perros con correa en las calles y el frente marítimo",
+          "petPolicyPt": "Cães com trela nas ruas e na frente de mar",
+          "googleMapsUrl": "https://maps.google.com/?q=Sanremo+seafront"
+        }
+      ],
+      "tipsEn": [
+        "On Trenitalia, small dogs ride free in a carrier; a larger dog needs a leash, a muzzle to carry and a half-price regional ticket.",
+        "Carry your dog's microchip and health record; staff can ask for them on trains and buses.",
+        "Central Sanremo is flat and walkable, so you can often skip transport entirely along the seafront."
+      ],
+      "tipsFr": [
+        "Sur Trenitalia, les petits chiens voyagent gratuitement en sac ; un grand chien a besoin d'une laisse, d'une muselière à porter et d'un billet régional à demi-tarif.",
+        "Ayez la puce et le carnet de santé du chien ; le personnel peut les demander dans les trains et les bus.",
+        "Le centre de Sanremo est plat et se parcourt à pied : on peut souvent se passer de transport le long du front de mer."
+      ],
+      "tipsEs": [
+        "En Trenitalia, los perros pequeños viajan gratis en transportín; uno más grande necesita correa, un bozal a mano y billete regional a mitad de precio.",
+        "Lleva el microchip y la cartilla sanitaria del perro; el personal puede pedirlos en trenes y autobuses.",
+        "El centro de Sanremo es llano y caminable, así que a menudo puedes prescindir del transporte por el frente marítimo."
+      ],
+      "tipsPt": [
+        "Na Trenitalia, os cães pequenos viajam grátis em transportadora; um maior precisa de trela, um açaime à mão e bilhete regional a metade do preço.",
+        "Leve o microchip e o boletim sanitário do cão; o pessoal pode pedi-los nos comboios e autocarros.",
+        "O centro de Sanremo é plano e caminhável, por isso muitas vezes pode dispensar o transporte pela frente de mar."
+      ],
+      "faqsEn": [
+        {"q": "Can I take my dog on the train to Sanremo?", "a": "Yes. On Trenitalia a small dog travels free in a carrier up to 70x30x50 cm, one per passenger, and a larger dog travels on a leash with a muzzle carried on a regional ticket at half the second-class fare. Sanremo's station is central and mostly underground, close to the seafront."},
+        {"q": "Are dogs allowed on Sanremo's buses?", "a": "Yes. Riviera Trasporti, the local operator since 1983, follows the standard Italian rule: small dogs on a leash or in a carrier, larger dogs on a leash with a muzzle carried. Keep the muzzle to hand in case it is requested."},
+        {"q": "Do I need to use transport at all?", "a": "Often not. The central seafront, Corso Imperatrice and the flat cycle path make most of Sanremo walkable with a dog. The main exception is the climb into La Pigna, the old town, whose lanes are steep and cobbled."}
+      ],
+      "faqsFr": [
+        {"q": "Puis-je prendre le train avec mon chien pour Sanremo ?", "a": "Oui. Sur Trenitalia, un petit chien voyage gratuitement en sac jusqu'à 70x30x50 cm, un par voyageur, et un grand chien en laisse avec muselière à portée sur un billet régional à moitié du tarif de seconde classe. La gare de Sanremo est centrale et en grande partie souterraine, près du front de mer."},
+        {"q": "Les chiens sont-ils admis dans les bus de Sanremo ?", "a": "Oui. Riviera Trasporti, l'opérateur local depuis 1983, suit la règle italienne habituelle : petits chiens en laisse ou en sac, grands chiens en laisse avec muselière à portée. Gardez la muselière à portée au cas où."},
+        {"q": "Ai-je vraiment besoin des transports ?", "a": "Souvent non. Le front de mer central, le Corso Imperatrice et la piste cyclable plate rendent l'essentiel de Sanremo accessible à pied avec un chien. La principale exception est la montée vers La Pigna, la vieille ville, aux ruelles raides et pavées."}
+      ],
+      "faqsEs": [
+        {"q": "¿Puedo llevar a mi perro en tren a Sanremo?", "a": "Sí. En Trenitalia un perro pequeño viaja gratis en transportín de hasta 70x30x50 cm, uno por viajero, y uno más grande con correa y bozal a mano en billete regional a mitad de la tarifa de segunda clase. La estación de Sanremo es céntrica y en gran parte subterránea, cerca del frente marítimo."},
+        {"q": "¿Se admiten perros en los autobuses de Sanremo?", "a": "Sí. Riviera Trasporti, el operador local desde 1983, sigue la norma italiana habitual: perros pequeños con correa o en transportín, los grandes con correa y bozal a mano. Ten el bozal a mano por si lo piden."},
+        {"q": "¿Necesito usar el transporte?", "a": "A menudo no. El frente marítimo central, el Corso Imperatrice y la vía ciclista llana hacen que la mayor parte de Sanremo sea caminable con un perro. La excepción principal es la subida a La Pigna, el casco antiguo, de callejuelas empinadas y adoquinadas."}
+      ],
+      "faqsPt": [
+        {"q": "Posso levar o meu cão de comboio para Sanremo?", "a": "Sim. Na Trenitalia um cão pequeno viaja grátis em transportadora até 70x30x50 cm, um por passageiro, e um maior com trela e açaime à mão em bilhete regional a metade da tarifa de segunda classe. A estação de Sanremo é central e em grande parte subterrânea, perto da frente de mar."},
+        {"q": "Os cães são aceites nos autocarros de Sanremo?", "a": "Sim. A Riviera Trasporti, o operador local desde 1983, segue a norma italiana habitual: cães pequenos com trela ou em transportadora, os maiores com trela e açaime à mão. Tenha o açaime à mão caso seja pedido."},
+        {"q": "Preciso mesmo de usar o transporte?", "a": "Muitas vezes não. A frente de mar central, o Corso Imperatrice e a ciclovia plana tornam grande parte de Sanremo caminhável com um cão. A principal exceção é a subida a La Pigna, a cidade velha, de ruelas íngremes e empedradas."}
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in and near Sanremo",
+      "titleFr": "Plages accessibles aux chiens à Sanremo et alentours",
+      "titleEs": "Playas para perros en Sanremo y alrededores",
+      "titlePt": "Praias dog-friendly em Sanremo e arredores",
+      "introEn": "Be realistic about Sanremo's beaches: most of the seafront is paid stabilimenti (private lidos) that restrict or ban dogs in the summer season, so you cannot assume a dog is welcome on the main sand. The workable options are the free beach at Pian di Poma, which allows dogs and has showers and shaded areas, and a small number of equipped spots such as Bagni Terrazza on Lungomare Italo Calvino, where dogs are welcomed and can reach the water. A dedicated dog beach (Baubeach) at Arma di Taggia, about 10 km east, adds a fenced, fully equipped option. Rules change year to year, so check the current municipal notice and the individual lido before you go, and expect a leash and up-to-date health papers to be required.",
+      "introFr": "Soyez réaliste sur les plages de Sanremo : l'essentiel du front de mer est constitué de stabilimenti payants (établissements privés) qui restreignent ou interdisent les chiens en été, on ne peut donc pas supposer qu'un chien est le bienvenu sur le sable principal. Les options qui fonctionnent sont la plage libre de Pian di Poma, qui admet les chiens et dispose de douches et de zones ombragées, et quelques rares lieux équipés comme les Bagni Terrazza sur le Lungomare Italo Calvino, où les chiens sont accueillis et peuvent rejoindre l'eau. Une plage réservée aux chiens (Baubeach) à Arma di Taggia, à environ 10 km à l'est, ajoute une option clôturée et bien équipée. Les règles changent d'une année à l'autre : vérifiez l'arrêté municipal en cours et l'établissement lui-même avant de venir, et attendez-vous à devoir présenter une laisse et des papiers sanitaires à jour.",
+      "introEs": "Sé realista con las playas de Sanremo: la mayor parte del frente marítimo son stabilimenti de pago (balnearios privados) que restringen o prohíben los perros en verano, así que no puedes dar por hecho que un perro sea bienvenido en la arena principal. Las opciones que funcionan son la playa libre de Pian di Poma, que admite perros y tiene duchas y zonas de sombra, y unos pocos sitios equipados como los Bagni Terrazza en el Lungomare Italo Calvino, donde se acoge a los perros y pueden llegar al agua. Una playa reservada a perros (Baubeach) en Arma di Taggia, a unos 10 km al este, añade una opción vallada y bien equipada. Las normas cambian de un año a otro: consulta el bando municipal vigente y el propio balneario antes de ir, y cuenta con que se exija correa y papeles sanitarios al día.",
+      "introPt": "Seja realista quanto às praias de Sanremo: a maior parte da frente de mar são stabilimenti pagos (praias privadas) que restringem ou proíbem cães no verão, por isso não se pode assumir que um cão é bem-vindo na areia principal. As opções que funcionam são a praia livre de Pian di Poma, que aceita cães e tem duches e zonas de sombra, e alguns poucos locais equipados como os Bagni Terrazza no Lungomare Italo Calvino, onde os cães são acolhidos e podem chegar à água. Uma praia reservada a cães (Baubeach) em Arma di Taggia, a cerca de 10 km a leste, acrescenta uma opção vedada e bem equipada. As regras mudam de ano para ano: consulte o edital municipal em vigor e a própria praia antes de ir, e conte com a exigência de trela e documentos sanitários atualizados.",
+      "places": [
+        {
+          "name": "Spiaggia libera Pian di Poma",
+          "distance": "West end of Sanremo seafront",
+          "description": "A free public beach at the western edge of town where dogs of all sizes are allowed, with showers and shaded areas and access to the water. As a free beach it can get busy in high summer, so arrive early with your own shade and water.",
+          "season": "Open year-round; busiest June to September",
+          "rules": "Dogs allowed; leash and up-to-date health certificate required. Check the current municipal notice.",
+          "facilities": "Showers, some shaded areas, free access",
+          "googleMapsUrl": "https://maps.google.com/?q=Spiaggia+Pian+di+Poma+Sanremo",
+          "photo": "/images/city-places/sanremo-beaches-pian-di-poma.jpg"
+        },
+        {
+          "name": "Bagni Terrazza",
+          "distance": "Lungomare Italo Calvino, Sanremo",
+          "description": "An equipped beach with a bar and restaurant on the Lungomare Italo Calvino where dogs are welcomed and can reach the sea from the adjacent free stretch at the mouth of the San Francesco stream. The bottom is rocky, so a swim harness and care on the stones help.",
+          "season": "Main season spring to autumn",
+          "rules": "Dogs welcome; leash and health papers advised. Confirm current dog policy with the lido.",
+          "facilities": "Bar, restaurant, sunbeds, sea access nearby",
+          "googleMapsUrl": "https://maps.google.com/?q=Bagni+Terrazza+Sanremo",
+          "photo": "/images/city-places/sanremo-beaches-bagni-terrazza.jpg"
+        },
+        {
+          "name": "Baubeach Arma di Taggia",
+          "distance": "About 10 km east of Sanremo, Arma di Taggia",
+          "description": "A dedicated dog beach on the Lungomare di Levante at Arma di Taggia, a short drive or train ride from Sanremo, with a fenced area, showers, shade and dog-waste bins. It is the most reliable option in the area when you want a beach where dogs are the point rather than the exception.",
+          "season": "Mainly summer season; check opening",
+          "rules": "Dogs allowed; leash off only within the fenced area as posted. Bring proof of vaccination.",
+          "facilities": "Fenced area, showers, shaded areas, waste bins",
+          "googleMapsUrl": "https://maps.google.com/?q=Baubeach+Arma+di+Taggia",
+          "photo": "/images/city-places/sanremo-beaches-baubeach-arma-di-taggia.jpg"
+        }
+      ],
+      "tipsEn": [
+        "Do not assume the main lidos accept dogs in summer; most paid stabilimenti restrict or ban them from June to September.",
+        "Pian di Poma free beach and Bagni Terrazza are the workable in-town spots; Baubeach at Arma di Taggia is a proper dog beach 10 km east.",
+        "Carry a leash and up-to-date health papers, and check the current municipal beach notice, as rules change each year."
+      ],
+      "tipsFr": [
+        "Ne supposez pas que les grands établissements acceptent les chiens l'été ; la plupart des stabilimenti payants les restreignent ou les interdisent de juin à septembre.",
+        "La plage libre de Pian di Poma et les Bagni Terrazza sont les options praticables en ville ; le Baubeach d'Arma di Taggia est une vraie plage pour chiens à 10 km à l'est.",
+        "Emportez une laisse et des papiers sanitaires à jour, et vérifiez l'arrêté municipal en cours, car les règles changent chaque année."
+      ],
+      "tipsEs": [
+        "No des por hecho que los grandes balnearios admiten perros en verano; la mayoría de los stabilimenti de pago los restringen o prohíben de junio a septiembre.",
+        "La playa libre de Pian di Poma y los Bagni Terrazza son las opciones viables en la ciudad; el Baubeach de Arma di Taggia es una verdadera playa para perros a 10 km al este.",
+        "Lleva correa y papeles sanitarios al día, y consulta el bando municipal vigente, porque las normas cambian cada año."
+      ],
+      "tipsPt": [
+        "Não assuma que as grandes praias privadas aceitam cães no verão; a maioria dos stabilimenti pagos restringem-nos ou proíbem-nos de junho a setembro.",
+        "A praia livre de Pian di Poma e os Bagni Terrazza são as opções viáveis na cidade; o Baubeach de Arma di Taggia é uma verdadeira praia para cães a 10 km a leste.",
+        "Leve trela e documentos sanitários atualizados, e consulte o edital municipal em vigor, porque as regras mudam todos os anos."
+      ],
+      "faqsEn": [
+        {"q": "Can I take my dog to the beach in Sanremo?", "a": "Yes, but to specific places. Most of the seafront is paid stabilimenti that restrict or ban dogs in summer. The reliable options are the free Pian di Poma beach and equipped spots like Bagni Terrazza, plus the dedicated Baubeach dog beach at Arma di Taggia about 10 km east."},
+        {"q": "Is there a proper dog beach near Sanremo?", "a": "Yes. Baubeach at Arma di Taggia, roughly 10 km east on the Lungomare di Levante, is a dedicated dog beach with a fenced area, showers, shade and waste bins. It is the most dog-focused option in the Riviera dei Fiori around Sanremo."},
+        {"q": "What do I need to bring for the beach?", "a": "A leash and your dog's up-to-date health certificate or vaccination record, which can be required at free and equipped beaches alike. Bring your own water and shade too, as free beaches offer little, and always check the current municipal notice because rules change yearly."}
+      ],
+      "faqsFr": [
+        {"q": "Puis-je emmener mon chien à la plage à Sanremo ?", "a": "Oui, mais à des endroits précis. L'essentiel du front de mer est constitué de stabilimenti payants qui restreignent ou interdisent les chiens l'été. Les options fiables sont la plage libre de Pian di Poma et des lieux équipés comme les Bagni Terrazza, plus la plage pour chiens Baubeach à Arma di Taggia, à environ 10 km à l'est."},
+        {"q": "Y a-t-il une vraie plage pour chiens près de Sanremo ?", "a": "Oui. Le Baubeach d'Arma di Taggia, à environ 10 km à l'est sur le Lungomare di Levante, est une plage réservée aux chiens avec zone clôturée, douches, ombre et poubelles. C'est l'option la plus adaptée aux chiens de la Riviera dei Fiori autour de Sanremo."},
+        {"q": "Que faut-il emporter pour la plage ?", "a": "Une laisse et le certificat sanitaire ou carnet de vaccination à jour du chien, qui peuvent être exigés aussi bien sur les plages libres qu'équipées. Emportez aussi de l'eau et de l'ombre, les plages libres en offrant peu, et vérifiez toujours l'arrêté municipal en cours car les règles changent chaque année."}
+      ],
+      "faqsEs": [
+        {"q": "¿Puedo llevar a mi perro a la playa en Sanremo?", "a": "Sí, pero a sitios concretos. La mayor parte del frente marítimo son stabilimenti de pago que restringen o prohíben los perros en verano. Las opciones fiables son la playa libre de Pian di Poma y sitios equipados como los Bagni Terrazza, además de la playa canina Baubeach en Arma di Taggia, a unos 10 km al este."},
+        {"q": "¿Hay una verdadera playa para perros cerca de Sanremo?", "a": "Sí. El Baubeach de Arma di Taggia, a unos 10 km al este en el Lungomare di Levante, es una playa reservada a perros con zona vallada, duchas, sombra y papeleras. Es la opción más orientada a perros de la Riviera dei Fiori en torno a Sanremo."},
+        {"q": "¿Qué necesito llevar a la playa?", "a": "Una correa y el certificado sanitario o cartilla de vacunación al día del perro, que pueden pedirse tanto en playas libres como equipadas. Lleva también tu propia agua y sombra, ya que las playas libres ofrecen poca, y consulta siempre el bando municipal vigente porque las normas cambian cada año."}
+      ],
+      "faqsPt": [
+        {"q": "Posso levar o meu cão à praia em Sanremo?", "a": "Sim, mas a locais específicos. A maior parte da frente de mar são stabilimenti pagos que restringem ou proíbem cães no verão. As opções fiáveis são a praia livre de Pian di Poma e locais equipados como os Bagni Terrazza, além da praia canina Baubeach em Arma di Taggia, a cerca de 10 km a leste."},
+        {"q": "Há uma verdadeira praia para cães perto de Sanremo?", "a": "Sim. O Baubeach de Arma di Taggia, a cerca de 10 km a leste no Lungomare di Levante, é uma praia reservada a cães com zona vedada, duches, sombra e caixotes para dejetos. É a opção mais orientada a cães da Riviera dei Fiori em redor de Sanremo."},
+        {"q": "O que preciso de levar para a praia?", "a": "Uma trela e o certificado sanitário ou boletim de vacinação atualizado do cão, que podem ser exigidos tanto em praias livres como equipadas. Leve também a sua própria água e sombra, pois as praias livres oferecem pouca, e consulte sempre o edital municipal em vigor porque as regras mudam todos os anos."}
+      ]
+    },
+    "vets": {
+      "titleEn": "Emergency Vets in Sanremo, Veterinary Clinics & Pet Care",
+      "titleFr": "Vétérinaires d'urgence à Sanremo, cliniques et soins animaliers",
+      "titleEs": "Veterinarios de urgencia en Sanremo, clínicas y cuidado de mascotas",
+      "titlePt": "Veterinários de urgência em Sanremo, clínicas e cuidados para animais",
+      "introEn": "Sanremo has several veterinary clinics, including a veterinary hospital with a 24-hour emergency service, so cover is good for a town of its size. Italy is in the EU and Schengen area, so EU-registered pets enter with a valid EU Pet Passport, a microchip and an up-to-date rabies vaccination. Keep your dog's papers with you, save a clinic number before you travel, and phone ahead in an emergency so the team can prepare.",
+      "introFr": "Sanremo compte plusieurs cliniques vétérinaires, dont un hôpital vétérinaire avec un service d'urgence 24h/24 : la couverture est donc bonne pour une ville de cette taille. L'Italie fait partie de l'UE et de l'espace Schengen : les animaux enregistrés dans l'UE entrent avec un passeport européen valide, une puce électronique et une vaccination antirabique à jour. Gardez les papiers du chien sur vous, enregistrez le numéro d'une clinique avant de partir et téléphonez à l'avance en cas d'urgence pour que l'équipe se prépare.",
+      "introEs": "Sanremo cuenta con varias clínicas veterinarias, entre ellas un hospital veterinario con servicio de urgencias 24 horas, por lo que la cobertura es buena para una ciudad de su tamaño. Italia está en la UE y en el espacio Schengen, así que las mascotas registradas en la UE entran con un pasaporte europeo válido, un microchip y la vacunación antirrábica al día. Lleva los papeles del perro contigo, guarda el número de una clínica antes de viajar y llama con antelación en una urgencia para que el equipo se prepare.",
+      "introPt": "Sanremo tem várias clínicas veterinárias, incluindo um hospital veterinário com serviço de urgência 24 horas, por isso a cobertura é boa para uma cidade da sua dimensão. A Itália está na UE e no espaço Schengen, por isso os animais registados na UE entram com um passaporte europeu válido, um microchip e a vacinação antirrábica em dia. Leve os documentos do cão consigo, guarde o número de uma clínica antes de viajar e ligue com antecedência numa urgência para que a equipa se prepare.",
+      "entryRequirements": {
+        "euPets": "Valid EU Pet Passport + microchip + rabies vaccination up to date. No additional tests for entry to Italy from another EU country.",
+        "nonEuPets": "EU health certificate, microchip, rabies vaccination and, depending on the country of origin, a rabies antibody titre test. Check current Italian Ministry of Health rules before travel.",
+        "emergencyContacts": [
+          "General emergency number (Italy/EU): 112",
+          "Ospedale Veterinario San Remo (24h): +39 0184 666921"
+        ],
+        "euPetsFr": "Passeport européen pour animaux valide + puce électronique + vaccination antirabique à jour. Aucun test supplémentaire pour entrer en Italie depuis un autre pays de l'UE.",
+        "euPetsEs": "Pasaporte europeo de mascotas válido + microchip + vacunación antirrábica al día. Sin pruebas adicionales para entrar en Italia desde otro país de la UE.",
+        "euPetsPt": "Passaporte europeu para animais válido + microchip + vacinação antirrábica em dia. Sem testes adicionais para entrar em Itália a partir de outro país da UE.",
+        "nonEuPetsFr": "Certificat sanitaire européen, puce électronique, vaccination antirabique et, selon le pays d'origine, un test de titrage des anticorps antirabiques. Vérifiez les règles en vigueur du ministère italien de la Santé avant le départ.",
+        "nonEuPetsEs": "Certificado sanitario europeo, microchip, vacunación antirrábica y, según el país de origen, una prueba de titulación de anticuerpos antirrábicos. Consulta las normas vigentes del Ministerio de Sanidad italiano antes de viajar.",
+        "nonEuPetsPt": "Certificado sanitário europeu, microchip, vacinação antirrábica e, consoante o país de origem, um teste de titulação de anticorpos antirrábicos. Consulte as regras em vigor do Ministério da Saúde italiano antes de viajar."
+      },
+      "places": [
+        {
+          "name": "Ospedale Veterinario San Remo",
+          "type": "Veterinary hospital + 24h emergency",
+          "address": "Via Barabino 15, 18038 Sanremo (IM)",
+          "phone": "+39 0184 666921",
+          "hours": "24h emergency service; lab, general and specialist surgery",
+          "hoursFr": "Service d'urgence 24h/24 ; laboratoire, chirurgie générale et spécialisée",
+          "hoursEs": "Servicio de urgencias 24h; laboratorio, cirugía general y especializada",
+          "hoursPt": "Serviço de urgência 24h; laboratório, cirurgia geral e especializada",
+          "englishSpeaking": true,
+          "website": "",
+          "description": "Sanremo's veterinary hospital, offering a round-the-clock emergency service alongside laboratory analysis and general and specialist surgery. This is the first number to save for a serious problem while you are in town.",
+          "descriptionFr": "L'hôpital vétérinaire de Sanremo, qui propose un service d'urgence 24h/24 ainsi que des analyses de laboratoire et de la chirurgie générale et spécialisée. C'est le premier numéro à enregistrer en cas de problème grave pendant votre séjour.",
+          "descriptionEs": "El hospital veterinario de Sanremo, que ofrece un servicio de urgencias las 24 horas junto con análisis de laboratorio y cirugía general y especializada. Es el primer número a guardar ante un problema grave durante tu estancia.",
+          "descriptionPt": "O hospital veterinário de Sanremo, que oferece um serviço de urgência 24 horas juntamente com análises laboratoriais e cirurgia geral e especializada. É o primeiro número a guardar perante um problema grave durante a sua estadia.",
+          "tip": "Save +39 0184 666921 before your trip and phone ahead so they can prepare for your arrival",
+          "tipFr": "Enregistrez le +39 0184 666921 avant votre voyage et appelez avant de venir pour qu'ils préparent votre arrivée",
+          "tipEs": "Guarda el +39 0184 666921 antes del viaje y llama antes de ir para que preparen tu llegada",
+          "tipPt": "Guarde o +39 0184 666921 antes da viagem e ligue antes de ir para que preparem a sua chegada",
+          "googleMapsUrl": "https://maps.google.com/?q=Ospedale+Veterinario+San+Remo+Via+Barabino",
+          "photo": "/images/city-places/sanremo-vets-ospedale-veterinario-san-remo.jpg"
+        },
+        {
+          "name": "Studio Veterinario Dr.ssa Alexandra Cafasso",
+          "type": "Veterinary clinic (by appointment)",
+          "address": "Strada San Martino 110, Sanremo (IM)",
+          "phone": "+39 0184 524289",
+          "hours": "Mon-Fri 09:30-18:00, Sat 10:30-12:30",
+          "hoursFr": "Lun-ven 09:30-18:00, sam 10:30-12:30",
+          "hoursEs": "Lun-vie 09:30-18:00, sáb 10:30-12:30",
+          "hoursPt": "Seg-sex 09:30-18:00, sáb 10:30-12:30",
+          "englishSpeaking": false,
+          "website": "",
+          "description": "A neighbourhood veterinary practice on Strada San Martino for routine consultations, vaccinations and minor issues during the week. Handy for non-urgent care while staying in Sanremo, though you should call to book.",
+          "descriptionFr": "Un cabinet vétérinaire de quartier sur la Strada San Martino pour les consultations de routine, les vaccinations et les petits soucis en semaine. Pratique pour les soins non urgents pendant un séjour à Sanremo, mais appelez pour prendre rendez-vous.",
+          "descriptionEs": "Una consulta veterinaria de barrio en la Strada San Martino para consultas rutinarias, vacunaciones y problemas menores entre semana. Práctica para la atención no urgente durante una estancia en Sanremo, aunque conviene llamar para pedir cita.",
+          "descriptionPt": "Um consultório veterinário de bairro na Strada San Martino para consultas de rotina, vacinações e problemas menores durante a semana. Prático para cuidados não urgentes durante uma estadia em Sanremo, embora deva ligar para marcar.",
+          "tip": "Phone ahead to book; hours are shorter on Saturday and it is closed on Sunday",
+          "tipFr": "Appelez pour prendre rendez-vous ; les horaires sont réduits le samedi et c'est fermé le dimanche",
+          "tipEs": "Llama para pedir cita; el horario es más corto el sábado y cierra el domingo",
+          "tipPt": "Ligue para marcar; o horário é mais curto ao sábado e fecha ao domingo",
+          "googleMapsUrl": "https://maps.google.com/?q=Studio+Veterinario+Cafasso+Sanremo",
+          "photo": "/images/city-places/sanremo-vets-studio-veterinario-cafasso.jpg"
+        },
+        {
+          "name": "Ambulatorio Veterinario Dott. Maurilio Calleri",
+          "type": "Veterinary clinic",
+          "address": "Via Generale Alfonso Lamarmora 162, 18038 Sanremo (IM)",
+          "phone": "+39 339 6399399",
+          "hours": "By appointment; call for current hours",
+          "hoursFr": "Sur rendez-vous ; appelez pour les horaires en cours",
+          "hoursEs": "Con cita previa; llama para el horario vigente",
+          "hoursPt": "Com marcação; ligue para o horário em vigor",
+          "englishSpeaking": false,
+          "website": "",
+          "description": "A general veterinary practice on Via Lamarmora in central Sanremo for consultations and routine care. A useful second option if your usual clinic is fully booked.",
+          "descriptionFr": "Un cabinet vétérinaire généraliste sur la Via Lamarmora, dans le centre de Sanremo, pour les consultations et les soins courants. Une deuxième option utile si votre clinique habituelle est complète.",
+          "descriptionEs": "Una consulta veterinaria general en la Via Lamarmora, en el centro de Sanremo, para consultas y cuidados rutinarios. Una segunda opción útil si tu clínica habitual está completa.",
+          "descriptionPt": "Um consultório veterinário geral na Via Lamarmora, no centro de Sanremo, para consultas e cuidados de rotina. Uma segunda opção útil se a sua clínica habitual estiver cheia.",
+          "tip": "Call first, as this is an appointment-based practice rather than a walk-in emergency service",
+          "tipFr": "Appelez d'abord : c'est un cabinet sur rendez-vous, pas un service d'urgence sans rendez-vous",
+          "tipEs": "Llama primero: es una consulta con cita, no un servicio de urgencias sin cita",
+          "tipPt": "Ligue primeiro: é um consultório com marcação, não um serviço de urgência sem marcação",
+          "googleMapsUrl": "https://maps.google.com/?q=Ambulatorio+Veterinario+Calleri+Sanremo",
+          "photo": "/images/city-places/sanremo-vets-ambulatorio-calleri.jpg"
+        }
+      ],
+      "tipsEn": [
+        "For a real emergency call the Ospedale Veterinario San Remo on +39 0184 666921; it runs a 24-hour service.",
+        "Italy uses 112 as the general emergency number; keep it and a vet number saved on your phone.",
+        "Carry your EU Pet Passport with the rabies vaccination up to date; clinics and border checks can ask for it."
+      ],
+      "tipsFr": [
+        "En cas de vraie urgence, appelez l'Ospedale Veterinario San Remo au +39 0184 666921 ; il assure un service 24h/24.",
+        "L'Italie utilise le 112 comme numéro d'urgence général ; gardez-le, ainsi qu'un numéro de vétérinaire, dans votre téléphone.",
+        "Ayez sur vous le passeport européen pour animaux avec la vaccination antirabique à jour ; cliniques et contrôles peuvent le demander."
+      ],
+      "tipsEs": [
+        "Ante una urgencia real llama al Ospedale Veterinario San Remo al +39 0184 666921; tiene servicio 24 horas.",
+        "Italia usa el 112 como número de emergencias general; guárdalo junto con un número de veterinario en el móvil.",
+        "Lleva contigo el pasaporte europeo de mascotas con la vacunación antirrábica al día; clínicas y controles pueden pedirlo."
+      ],
+      "tipsPt": [
+        "Perante uma urgência real ligue para o Ospedale Veterinario San Remo através do +39 0184 666921; tem serviço 24 horas.",
+        "A Itália usa o 112 como número de emergência geral; guarde-o juntamente com um número de veterinário no telemóvel.",
+        "Leve consigo o passaporte europeu para animais com a vacinação antirrábica em dia; clínicas e controlos podem pedi-lo."
+      ],
+      "faqsEn": [
+        {"q": "Is there a 24-hour emergency vet in Sanremo?", "a": "Yes. The Ospedale Veterinario San Remo on Via Barabino runs a round-the-clock emergency service with laboratory and surgery, on +39 0184 666921. Save the number before you travel and phone ahead so they can prepare."},
+        {"q": "What do I need to bring my dog into Italy?", "a": "Italy is in the EU and Schengen area, so an EU-registered dog needs a valid EU Pet Passport, a microchip and an up-to-date rabies vaccination. Non-EU pets need an EU health certificate and, depending on origin, may need a rabies antibody titre test."},
+        {"q": "What is the emergency number in Italy?", "a": "112 is the general emergency number across Italy and the EU. For a veterinary emergency specifically, call a clinic directly, such as the 24-hour Ospedale Veterinario San Remo on +39 0184 666921."}
+      ],
+      "faqsFr": [
+        {"q": "Y a-t-il un vétérinaire d'urgence 24h/24 à Sanremo ?", "a": "Oui. L'Ospedale Veterinario San Remo, sur la Via Barabino, assure un service d'urgence 24h/24 avec laboratoire et chirurgie, au +39 0184 666921. Enregistrez le numéro avant de partir et appelez à l'avance pour qu'ils se préparent."},
+        {"q": "Que faut-il pour faire entrer mon chien en Italie ?", "a": "L'Italie fait partie de l'UE et de l'espace Schengen : un chien enregistré dans l'UE a besoin d'un passeport européen valide, d'une puce électronique et d'une vaccination antirabique à jour. Les animaux hors UE ont besoin d'un certificat sanitaire européen et, selon l'origine, éventuellement d'un test de titrage antirabique."},
+        {"q": "Quel est le numéro d'urgence en Italie ?", "a": "Le 112 est le numéro d'urgence général en Italie et dans l'UE. Pour une urgence vétérinaire précise, appelez directement une clinique, comme l'Ospedale Veterinario San Remo, ouvert 24h/24, au +39 0184 666921."}
+      ],
+      "faqsEs": [
+        {"q": "¿Hay un veterinario de urgencias 24 horas en Sanremo?", "a": "Sí. El Ospedale Veterinario San Remo, en la Via Barabino, ofrece un servicio de urgencias las 24 horas con laboratorio y cirugía, en el +39 0184 666921. Guarda el número antes de viajar y llama con antelación para que se preparen."},
+        {"q": "¿Qué necesito para entrar en Italia con mi perro?", "a": "Italia está en la UE y en Schengen, así que un perro registrado en la UE necesita un pasaporte europeo válido, un microchip y la vacunación antirrábica al día. Las mascotas de fuera de la UE necesitan un certificado sanitario europeo y, según el origen, quizá una prueba de titulación antirrábica."},
+        {"q": "¿Cuál es el número de emergencias en Italia?", "a": "El 112 es el número de emergencias general en Italia y en la UE. Para una urgencia veterinaria concreta, llama directamente a una clínica, como el Ospedale Veterinario San Remo, abierto 24 horas, en el +39 0184 666921."}
+      ],
+      "faqsPt": [
+        {"q": "Há um veterinário de urgência 24 horas em Sanremo?", "a": "Sim. O Ospedale Veterinario San Remo, na Via Barabino, oferece um serviço de urgência 24 horas com laboratório e cirurgia, através do +39 0184 666921. Guarde o número antes de viajar e ligue com antecedência para que se preparem."},
+        {"q": "O que preciso para entrar em Itália com o meu cão?", "a": "A Itália está na UE e em Schengen, por isso um cão registado na UE precisa de um passaporte europeu válido, um microchip e a vacinação antirrábica em dia. Os animais de fora da UE precisam de um certificado sanitário europeu e, consoante a origem, talvez de um teste de titulação antirrábica."},
+        {"q": "Qual é o número de emergência em Itália?", "a": "O 112 é o número de emergência geral em Itália e na UE. Para uma urgência veterinária específica, ligue diretamente para uma clínica, como o Ospedale Veterinario San Remo, aberto 24 horas, através do +39 0184 666921."}
+      ]
+    },
+    "tips": {
+      "titleEn": "Dog-Friendly Tips for Sanremo",
+      "titleFr": "Conseils pour visiter Sanremo avec son chien",
+      "titleEs": "Consejos para visitar Sanremo con tu perro",
+      "titlePt": "Dicas dog-friendly para Sanremo",
+      "introEn": "Sanremo is an easy Italian Riviera base with a dog, thanks to its flat seafront, the long coastal cycle path and one of the mildest climates in Italy. The catch is the summer beach rules and the interiors of the Casino and churches. A few local habits to know before you go.",
+      "introFr": "Sanremo est une base facile de la Riviera italienne avec un chien, grâce à son front de mer plat, à la longue piste cyclable côtière et à l'un des climats les plus doux d'Italie. Les points de vigilance sont les règles des plages en été et les intérieurs du Casino et des églises. Voici quelques habitudes locales à connaître.",
+      "introEs": "Sanremo es una base fácil de la Riviera italiana con un perro, gracias a su frente marítimo llano, la larga vía ciclista costera y uno de los climas más suaves de Italia. El inconveniente son las normas de playa en verano y los interiores del Casino y las iglesias. Algunas costumbres locales que conviene conocer.",
+      "introPt": "Sanremo é uma base fácil da Riviera italiana com um cão, graças à sua frente de mar plana, à longa ciclovia costeira e a um dos climas mais amenos de Itália. O senão são as regras de praia no verão e os interiores do Casino e das igrejas. Eis alguns hábitos locais a conhecer antes de ir.",
+      "sections": [
+        {
+          "titleEn": "Dog Rules & Law",
+          "titleFr": "Règles et lois",
+          "titleEs": "Normas y leyes",
+          "contentEn": "Keep dogs on a leash in public and carry a muzzle to hand, as Italian law can require it on transport and in crowded places. Clean up after your dog; fines apply. On beaches, most paid stabilimenti restrict or ban dogs in summer, so use the designated dog-friendly beaches instead.",
+          "contentFr": "Gardez le chien en laisse en public et ayez une muselière à portée, la loi italienne pouvant l'exiger dans les transports et les lieux bondés. Ramassez les déjections ; des amendes s'appliquent. Sur les plages, la plupart des stabilimenti payants restreignent ou interdisent les chiens l'été : préférez les plages dog-friendly désignées.",
+          "contentEs": "Lleva al perro con correa en público y ten un bozal a mano, ya que la ley italiana puede exigirlo en el transporte y en lugares concurridos. Recoge los excrementos; hay multas. En las playas, la mayoría de los stabilimenti de pago restringen o prohíben los perros en verano: usa mejor las playas dog-friendly designadas.",
+          "titlePt": "Regras e lei sobre cães",
+          "contentPt": "Mantenha o cão com trela em público e tenha um açaime à mão, pois a lei italiana pode exigi-lo nos transportes e em locais concorridos. Recolha os dejetos; há coimas. Nas praias, a maioria dos stabilimenti pagos restringem ou proíbem cães no verão: use antes as praias dog-friendly designadas."
+        },
+        {
+          "titleEn": "Heat & Paw Safety",
+          "titleFr": "Chaleur et coussinets",
+          "titleEs": "Calor y almohadillas",
+          "contentEn": "Sanremo has very mild winters and warm summers of around 26-28°C. In July and August the seafront paving and the open cycle path get hot, so walk at dawn or dusk, test the surface with your hand, and carry water, as shade on the path is patchy.",
+          "contentFr": "Sanremo a des hivers très doux et des étés chauds autour de 26-28°C. En juillet et août, le revêtement du front de mer et la piste cyclable dégagée chauffent : marchez à l'aube ou au crépuscule, testez le sol avec la main et emportez de l'eau, l'ombre étant rare sur la piste.",
+          "contentEs": "Sanremo tiene inviernos muy suaves y veranos cálidos de unos 26-28°C. En julio y agosto el pavimento del frente marítimo y la vía ciclista despejada se calientan: camina al amanecer o al atardecer, comprueba el suelo con la mano y lleva agua, pues la sombra en el camino es escasa.",
+          "titlePt": "Calor e almofadinhas",
+          "contentPt": "Sanremo tem invernos muito amenos e verões quentes de cerca de 26-28°C. Em julho e agosto o pavimento da frente de mar e a ciclovia aberta aquecem: passeie ao amanhecer ou ao entardecer, teste o piso com a mão e leve água, pois a sombra no caminho é escassa."
+        },
+        {
+          "titleEn": "Best Seasons",
+          "titleFr": "Meilleures saisons",
+          "titleEs": "Mejores temporadas",
+          "contentEn": "Spring and autumn are ideal: warm enough for the coast, quiet enough to enjoy the cycle path, and free of the summer beach restrictions. Thanks to Sanremo's famously mild climate, winter is gentle and good for long seafront walks, while July and August are hot and crowded.",
+          "contentFr": "Le printemps et l'automne sont idéaux : assez doux pour la côte, assez calmes pour profiter de la piste cyclable, et sans les restrictions de plage de l'été. Grâce au climat réputé doux de Sanremo, l'hiver est clément et parfait pour de longues balades en bord de mer, tandis que juillet et août sont chauds et fréquentés.",
+          "contentEs": "La primavera y el otoño son ideales: bastante templados para la costa, bastante tranquilos para disfrutar de la vía ciclista y sin las restricciones de playa del verano. Gracias al clima famosamente suave de Sanremo, el invierno es benigno y bueno para largos paseos junto al mar, mientras que julio y agosto son calurosos y concurridos.",
+          "titlePt": "Melhores épocas",
+          "contentPt": "A primavera e o outono são ideais: suficientemente amenos para a costa, suficientemente calmos para desfrutar da ciclovia e sem as restrições de praia do verão. Graças ao clima famosamente ameno de Sanremo, o inverno é suave e bom para longos passeios à beira-mar, enquanto julho e agosto são quentes e concorridos."
+        },
+        {
+          "titleEn": "Must-Do Day Out",
+          "titleFr": "La sortie incontournable",
+          "titleEs": "La salida imprescindible",
+          "contentEn": "Walk or cycle a stretch of the Pista Ciclabile between Sanremo and Ospedaletti or eastward toward Arma di Taggia, stopping at the free Pian di Poma beach or the Baubeach dog beach on the way. It is flat, on the sea, and the most rewarding dog day out in the Riviera dei Fiori.",
+          "contentFr": "Parcourez à pied ou à vélo une portion de la Pista Ciclabile entre Sanremo et Ospedaletti, ou vers l'est en direction d'Arma di Taggia, en vous arrêtant à la plage libre de Pian di Poma ou au Baubeach au passage. Plate et au bord de l'eau, c'est la plus belle sortie canine de la Riviera dei Fiori.",
+          "contentEs": "Recorre a pie o en bici un tramo de la Pista Ciclabile entre Sanremo y Ospedaletti, o hacia el este rumbo a Arma di Taggia, parando en la playa libre de Pian di Poma o en el Baubeach por el camino. Es llana, junto al mar, y la salida canina más gratificante de la Riviera dei Fiori.",
+          "titlePt": "O passeio imperdível",
+          "contentPt": "Percorra a pé ou de bicicleta um troço da Pista Ciclabile entre Sanremo e Ospedaletti, ou para leste rumo a Arma di Taggia, parando na praia livre de Pian di Poma ou no Baubeach pelo caminho. É plana, junto ao mar, e o passeio canino mais gratificante da Riviera dei Fiori."
+        }
+      ],
+      "places": [],
+      "tipsEn": [],
+      "tipsFr": [],
+      "tipsEs": [],
+      "tipsPt": [],
+      "faqsEn": [
+        {"q": "Is Sanremo good for dogs?", "a": "Yes, on the whole. The flat seafront, the long coastal cycle path and one of Italy's mildest climates make it easy going with a dog for most of the year. The main limitations are summer beach restrictions at the paid lidos and the interiors of the Casino and churches, which exclude pets."},
+        {"q": "What should I pack for Sanremo with my dog?", "a": "Bring your EU Pet Passport, a leash and a muzzle to carry for transport, poop bags, and plenty of water for the open cycle path. In summer add sun cover for rest stops, and keep proof of vaccination handy for the dog-friendly beaches."},
+        {"q": "Can my dog go inside the Casino or the churches?", "a": "No. The Casino interior and church and museum interiors in Sanremo generally exclude pets, as across Italy. Enjoy their exteriors on your walk and plan indoor visits for when your dog can rest safely at the hotel."}
+      ],
+      "faqsFr": [
+        {"q": "Sanremo est-elle une bonne destination avec un chien ?", "a": "Oui, dans l'ensemble. Le front de mer plat, la longue piste cyclable côtière et l'un des climats les plus doux d'Italie la rendent facile avec un chien la majeure partie de l'année. Les principales limites sont les restrictions de plage l'été dans les établissements payants et les intérieurs du Casino et des églises, qui excluent les animaux."},
+        {"q": "Que faut-il emporter à Sanremo avec son chien ?", "a": "Emportez le passeport européen pour animaux, une laisse et une muselière à porter pour les transports, des sacs à déjections et beaucoup d'eau pour la piste cyclable dégagée. L'été, ajoutez de quoi vous abriter du soleil aux pauses, et gardez le carnet de vaccination à portée pour les plages dog-friendly."},
+        {"q": "Mon chien peut-il entrer dans le Casino ou les églises ?", "a": "Non. L'intérieur du Casino et les intérieurs des églises et musées de Sanremo excluent en général les animaux, comme partout en Italie. Profitez de leurs extérieurs pendant la balade et prévoyez les visites en intérieur quand votre chien peut se reposer à l'hôtel."}
+      ],
+      "faqsEs": [
+        {"q": "¿Es Sanremo buena para perros?", "a": "Sí, en general. El frente marítimo llano, la larga vía ciclista costera y uno de los climas más suaves de Italia la hacen cómoda con un perro la mayor parte del año. Las principales limitaciones son las restricciones de playa en verano en los balnearios de pago y los interiores del Casino y las iglesias, que excluyen a los animales."},
+        {"q": "¿Qué llevar a Sanremo con mi perro?", "a": "Lleva el pasaporte europeo de mascotas, una correa y un bozal a mano para el transporte, bolsas para excrementos y mucha agua para la vía ciclista despejada. En verano añade protección solar para las paradas y ten a mano la cartilla de vacunación para las playas dog-friendly."},
+        {"q": "¿Puede entrar mi perro en el Casino o en las iglesias?", "a": "No. El interior del Casino y los interiores de iglesias y museos de Sanremo suelen excluir a los animales, como en toda Italia. Disfruta de sus exteriores durante el paseo y planifica las visitas de interior para cuando tu perro pueda descansar en el hotel."}
+      ],
+      "faqsPt": [
+        {"q": "Sanremo é boa para cães?", "a": "Sim, no geral. A frente de mar plana, a longa ciclovia costeira e um dos climas mais amenos de Itália tornam-na fácil com um cão durante grande parte do ano. As principais limitações são as restrições de praia no verão nas praias privadas pagas e os interiores do Casino e das igrejas, que excluem animais."},
+        {"q": "O que levar para Sanremo com o meu cão?", "a": "Leve o passaporte europeu para animais, uma trela e um açaime à mão para o transporte, sacos para dejetos e muita água para a ciclovia aberta. No verão acrescente proteção solar para as paragens e tenha o boletim de vacinação à mão para as praias dog-friendly."},
+        {"q": "O meu cão pode entrar no Casino ou nas igrejas?", "a": "Não. O interior do Casino e os interiores de igrejas e museus de Sanremo geralmente excluem animais, como em toda a Itália. Aproveite os seus exteriores durante o passeio e planeie as visitas interiores para quando o cão puder descansar no hotel."}
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Sanremo",
+      "titleFr": "Sites à visiter avec son chien à Sanremo",
+      "titleEs": "Atracciones para perros en Sanremo",
+      "titlePt": "Atrações dog-friendly em Sanremo",
+      "introEn": "Sanremo's best sights for a dog are the outdoor ones: the medieval La Pigna old town climbing the hill in concentric lanes, the grand Liberty-style Casino to admire from outside, and the lively Porto Vecchio and Portosole marina. Interiors such as the Casino gaming rooms and the churches exclude pets, so plan those for when your dog can rest. Everything below is enjoyable on foot with a leashed dog.",
+      "introFr": "Les plus beaux sites de Sanremo avec un chien sont ceux de plein air : la vieille ville médiévale de La Pigna qui grimpe la colline en ruelles concentriques, le Casino de style Liberty à admirer de l'extérieur, et l'animé Porto Vecchio ainsi que la marina Portosole. Les intérieurs comme les salles de jeu du Casino et les églises excluent les animaux : prévoyez-les quand votre chien peut se reposer. Tout ce qui suit se profite à pied avec un chien en laisse.",
+      "introEs": "Los mejores lugares de Sanremo con un perro son los de exterior: el casco antiguo medieval de La Pigna que trepa la colina en callejuelas concéntricas, el Casino de estilo Liberty para admirar desde fuera y el animado Porto Vecchio y la marina Portosole. Los interiores como las salas de juego del Casino y las iglesias excluyen a los animales: planifícalos para cuando tu perro pueda descansar. Todo lo siguiente se disfruta a pie con un perro con correa.",
+      "introPt": "Os melhores locais de Sanremo com um cão são os ao ar livre: a cidade velha medieval de La Pigna que sobe a colina em ruelas concêntricas, o Casino de estilo Liberty para admirar de fora e o animado Porto Vecchio e a marina Portosole. Os interiores como as salas de jogo do Casino e as igrejas excluem animais: planeie-os para quando o cão puder descansar. Tudo o que se segue aprecia-se a pé com um cão com trela.",
+      "places": [
+        {
+          "name": "La Pigna old town",
+          "neighborhood": "Sanremo Vecchia (historic centre)",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "admissionFeePt": "Gratuito",
+          "dogPolicy": "Leashed dogs welcome in the lanes (outdoor public streets)",
+          "dogPolicyFr": "Chiens en laisse bienvenus dans les ruelles (rues publiques en plein air)",
+          "dogPolicyEs": "Perros con correa bienvenidos en las callejuelas (calles públicas al aire libre)",
+          "dogPolicyPt": "Cães com trela bem-vindos nas ruelas (ruas públicas ao ar livre)",
+          "description": "The medieval heart of Sanremo, a maze of concentric alleys, arches and steps climbing the hillside above the modern town, named La Pigna (the pine cone) for its shape. It is a purely outdoor wander and one of the most atmospheric walks in the area with a dog.",
+          "descriptionFr": "Le cœur médiéval de Sanremo, un dédale de ruelles concentriques, d'arches et d'escaliers qui grimpe la colline au-dessus de la ville moderne, surnommé La Pigna (la pomme de pin) pour sa forme. C'est une flânerie entièrement en plein air et l'une des plus belles balades du coin avec un chien.",
+          "descriptionEs": "El corazón medieval de Sanremo, un laberinto de callejuelas concéntricas, arcos y escalones que trepa la ladera sobre la ciudad moderna, llamado La Pigna (la piña) por su forma. Es un paseo totalmente al aire libre y uno de los más evocadores de la zona con un perro.",
+          "descriptionPt": "O coração medieval de Sanremo, um labirinto de ruelas concêntricas, arcos e degraus que sobe a encosta acima da cidade moderna, chamado La Pigna (a pinha) pela sua forma. É um passeio totalmente ao ar livre e um dos mais atmosféricos da zona com um cão.",
+          "tip": "The lanes are steep and cobbled; go slowly, and a small or older dog may prefer a carrier for the climb",
+          "tipFr": "Les ruelles sont raides et pavées ; allez doucement, un petit chien ou un chien âgé préférera peut-être un sac pour la montée",
+          "tipEs": "Las callejuelas son empinadas y adoquinadas; ve despacio, y un perro pequeño o mayor quizá prefiera un transportín para la subida",
+          "tipPt": "As ruelas são íngremes e empedradas; vá devagar, e um cão pequeno ou idoso talvez prefira uma transportadora para a subida",
+          "website": "",
+          "googleMapsUrl": "https://maps.google.com/?q=La+Pigna+Sanremo",
+          "photo": "/images/city-places/sanremo-attractions-la-pigna.jpg"
+        },
+        {
+          "name": "Casino di Sanremo (exterior)",
+          "neighborhood": "Corso degli Inglesi / city centre",
+          "admissionFee": "Free to view from outside; interior excludes pets",
+          "admissionFeeFr": "Gratuit vu de l'extérieur ; intérieur interdit aux animaux",
+          "admissionFeeEs": "Gratis desde fuera; el interior excluye a los animales",
+          "admissionFeePt": "Gratuito visto de fora; o interior exclui animais",
+          "dogPolicy": "Exterior and surrounding streets only; no pets inside the gaming rooms",
+          "dogPolicyFr": "Extérieur et rues alentour seulement ; pas d'animaux dans les salles de jeu",
+          "dogPolicyEs": "Solo exterior y calles cercanas; sin animales en las salas de juego",
+          "dogPolicyPt": "Apenas exterior e ruas em redor; sem animais nas salas de jogo",
+          "description": "Sanremo's landmark Casino, built in 1905 in an ornate Liberty (Art Nouveau) style, dominates the terraces above the seafront. You cannot take a dog into the gaming rooms, but the grand facade and the palm-lined terraces around it are a fine outdoor stop on a walk.",
+          "descriptionFr": "Le Casino emblématique de Sanremo, bâti en 1905 dans un style Liberty (Art nouveau) très ornementé, domine les terrasses au-dessus du front de mer. On ne peut pas entrer avec un chien dans les salles de jeu, mais la façade majestueuse et les terrasses bordées de palmiers en font une belle halte en plein air.",
+          "descriptionEs": "El emblemático Casino de Sanremo, construido en 1905 en un ornamentado estilo Liberty (Art Nouveau), domina las terrazas sobre el frente marítimo. No se puede entrar con un perro en las salas de juego, pero la majestuosa fachada y las terrazas bordeadas de palmeras son una bonita parada al aire libre.",
+          "descriptionPt": "O emblemático Casino de Sanremo, construído em 1905 num ornamentado estilo Liberty (Arte Nova), domina as esplanadas acima da frente de mar. Não se pode entrar com um cão nas salas de jogo, mas a majestosa fachada e as esplanadas ladeadas de palmeiras são uma bela paragem ao ar livre.",
+          "tip": "Admire it from the terraces and Corso degli Inglesi; take turns going inside while one person waits with the dog",
+          "tipFr": "Admirez-le depuis les terrasses et le Corso degli Inglesi ; entrez à tour de rôle pendant qu'une personne attend avec le chien",
+          "tipEs": "Admíralo desde las terrazas y el Corso degli Inglesi; entrad por turnos mientras uno espera con el perro",
+          "tipPt": "Admire-o das esplanadas e do Corso degli Inglesi; entrem à vez enquanto uma pessoa espera com o cão",
+          "website": "https://www.casinosanremo.it/",
+          "googleMapsUrl": "https://maps.google.com/?q=Casino+di+Sanremo",
+          "photo": "/images/city-places/sanremo-attractions-casino-di-sanremo.jpg"
+        },
+        {
+          "name": "Porto Vecchio & Portosole marina",
+          "neighborhood": "Waterfront",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "admissionFeePt": "Gratuito",
+          "dogPolicy": "Leashed dogs welcome on the quays and around the port",
+          "dogPolicyFr": "Chiens en laisse bienvenus sur les quais et autour du port",
+          "dogPolicyEs": "Perros con correa bienvenidos en los muelles y alrededor del puerto",
+          "dogPolicyPt": "Cães com trela bem-vindos nos cais e em redor do porto",
+          "description": "The old fishing harbour, where the boats land the catch that feeds the Piazza Bresca kitchens each morning, sits beside the larger Portosole yacht marina. The flat quays and café terraces make a relaxed, level waterside stroll with a dog.",
+          "descriptionFr": "Le vieux port de pêche, où les barques débarquent chaque matin la pêche qui alimente les cuisines de la Piazza Bresca, jouxte la plus grande marina de plaisance de Portosole. Les quais plats et les terrasses de café offrent une balade au bord de l'eau détendue et de plain-pied avec un chien.",
+          "descriptionEs": "El viejo puerto pesquero, donde las barcas desembarcan cada mañana la pesca que abastece las cocinas de la Piazza Bresca, se sitúa junto a la mayor marina de yates de Portosole. Los muelles llanos y las terrazas de café ofrecen un paseo relajado y a nivel junto al agua con un perro.",
+          "descriptionPt": "O velho porto de pesca, onde os barcos desembarcam todas as manhãs a pesca que abastece as cozinhas da Piazza Bresca, fica junto à maior marina de iates de Portosole. Os cais planos e as esplanadas de café oferecem um passeio descontraído e ao nível junto à água com um cão.",
+          "tip": "Combine it with a meal in Piazza Bresca just behind; the whole area is flat and easy with a dog",
+          "tipFr": "Combinez-le avec un repas à la Piazza Bresca juste derrière ; tout le secteur est plat et facile avec un chien",
+          "tipEs": "Combínalo con una comida en la Piazza Bresca justo detrás; toda la zona es llana y fácil con un perro",
+          "tipPt": "Combine-o com uma refeição na Piazza Bresca mesmo atrás; toda a zona é plana e fácil com um cão",
+          "website": "",
+          "googleMapsUrl": "https://maps.google.com/?q=Porto+Vecchio+Sanremo",
+          "photo": "/images/city-places/sanremo-attractions-porto-vecchio-portosole.jpg"
+        }
+      ],
+      "tipsEn": [
+        "La Pigna is a purely outdoor walk and dog-friendly, but the lanes are steep and cobbled, so take it slowly.",
+        "The Casino interior excludes pets; enjoy the 1905 Liberty facade and terraces from outside instead.",
+        "The Porto Vecchio and Portosole quays are flat and leashed-dog friendly, and sit right by the Piazza Bresca restaurants."
+      ],
+      "tipsFr": [
+        "La Pigna est une balade entièrement en plein air et dog-friendly, mais les ruelles sont raides et pavées : allez doucement.",
+        "L'intérieur du Casino exclut les animaux ; profitez de la façade Liberty de 1905 et des terrasses depuis l'extérieur.",
+        "Les quais du Porto Vecchio et de Portosole sont plats et adaptés aux chiens en laisse, juste à côté des restaurants de la Piazza Bresca."
+      ],
+      "tipsEs": [
+        "La Pigna es un paseo totalmente al aire libre y dog-friendly, pero las callejuelas son empinadas y adoquinadas: ve despacio.",
+        "El interior del Casino excluye a los animales; disfruta de la fachada Liberty de 1905 y las terrazas desde fuera.",
+        "Los muelles del Porto Vecchio y Portosole son llanos y aptos para perros con correa, junto a los restaurantes de la Piazza Bresca."
+      ],
+      "tipsPt": [
+        "La Pigna é um passeio totalmente ao ar livre e dog-friendly, mas as ruelas são íngremes e empedradas: vá devagar.",
+        "O interior do Casino exclui animais; aprecie a fachada Liberty de 1905 e as esplanadas de fora.",
+        "Os cais do Porto Vecchio e Portosole são planos e adequados a cães com trela, mesmo ao lado dos restaurantes da Piazza Bresca."
+      ],
+      "faqsEn": [
+        {"q": "Can I visit Sanremo's old town with my dog?", "a": "Yes. La Pigna, the medieval old town, is a network of outdoor public lanes where leashed dogs are welcome. The alleys are steep and cobbled, so go slowly, and consider a carrier for a small or older dog on the climb."},
+        {"q": "Can my dog go into the Casino?", "a": "No. The Casino gaming rooms exclude pets. You can still admire the ornate 1905 Liberty-style building from the surrounding terraces and Corso degli Inglesi, and take turns inside while one person waits outside with the dog."},
+        {"q": "Is the port area dog-friendly?", "a": "Yes. The Porto Vecchio and the Portosole marina have flat, open quays where leashed dogs are welcome, right beside the Piazza Bresca restaurant square. It is one of the easiest and most pleasant flat walks in town with a dog."}
+      ],
+      "faqsFr": [
+        {"q": "Puis-je visiter la vieille ville de Sanremo avec mon chien ?", "a": "Oui. La Pigna, la vieille ville médiévale, est un réseau de ruelles publiques en plein air où les chiens en laisse sont bienvenus. Les ruelles sont raides et pavées : allez doucement, et pensez à un sac pour un petit chien ou un chien âgé pour la montée."},
+        {"q": "Mon chien peut-il entrer dans le Casino ?", "a": "Non. Les salles de jeu du Casino excluent les animaux. Vous pouvez tout de même admirer le bâtiment Liberty de 1905 depuis les terrasses alentour et le Corso degli Inglesi, et entrer à tour de rôle pendant qu'une personne attend dehors avec le chien."},
+        {"q": "Le secteur du port est-il accueillant pour les chiens ?", "a": "Oui. Le Porto Vecchio et la marina Portosole ont des quais plats et ouverts où les chiens en laisse sont bienvenus, juste à côté de la place-restaurant Piazza Bresca. C'est l'une des balades plates les plus faciles et agréables de la ville avec un chien."}
+      ],
+      "faqsEs": [
+        {"q": "¿Puedo visitar el casco antiguo de Sanremo con mi perro?", "a": "Sí. La Pigna, el casco antiguo medieval, es una red de callejuelas públicas al aire libre donde los perros con correa son bienvenidos. Las callejuelas son empinadas y adoquinadas: ve despacio y considera un transportín para un perro pequeño o mayor en la subida."},
+        {"q": "¿Puede entrar mi perro en el Casino?", "a": "No. Las salas de juego del Casino excluyen a los animales. Aun así puedes admirar el edificio Liberty de 1905 desde las terrazas cercanas y el Corso degli Inglesi, y entrar por turnos mientras uno espera fuera con el perro."},
+        {"q": "¿Es la zona del puerto apta para perros?", "a": "Sí. El Porto Vecchio y la marina Portosole tienen muelles llanos y abiertos donde los perros con correa son bienvenidos, justo al lado de la plaza-restaurante Piazza Bresca. Es uno de los paseos llanos más fáciles y agradables de la ciudad con un perro."}
+      ],
+      "faqsPt": [
+        {"q": "Posso visitar a cidade velha de Sanremo com o meu cão?", "a": "Sim. La Pigna, a cidade velha medieval, é uma rede de ruelas públicas ao ar livre onde os cães com trela são bem-vindos. As ruelas são íngremes e empedradas: vá devagar e considere uma transportadora para um cão pequeno ou idoso na subida."},
+        {"q": "O meu cão pode entrar no Casino?", "a": "Não. As salas de jogo do Casino excluem animais. Ainda assim pode admirar o edifício Liberty de 1905 das esplanadas em redor e do Corso degli Inglesi, e entrar à vez enquanto uma pessoa espera fora com o cão."},
+        {"q": "A zona do porto é dog-friendly?", "a": "Sim. O Porto Vecchio e a marina Portosole têm cais planos e abertos onde os cães com trela são bem-vindos, mesmo ao lado da praça-restaurante Piazza Bresca. É um dos passeios planos mais fáceis e agradáveis da cidade com um cão."}
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitters & Pet Care in Sanremo",
+      "titleFr": "Dog sitters et garde d'animaux à Sanremo",
+      "titleEs": "Cuidadores de perros y servicios para mascotas en Sanremo",
+      "titlePt": "Dog sitters e cuidados para animais em Sanremo",
+      "introEn": "When you need to visit the Casino, a church or somewhere else that excludes pets, Sanremo is well covered by the main national dog-sitting platforms, which list vetted local sitters offering home boarding and day care. Book through a platform for reviews and insurance rather than an informal arrangement, and meet the sitter first so your dog is comfortable. Prices vary by sitter and season, so confirm when you book.",
+      "introFr": "Quand vous devez visiter le Casino, une église ou un autre lieu interdit aux animaux, Sanremo est bien couverte par les principales plateformes nationales de dog sitting, qui référencent des sitters locaux vérifiés proposant garde à domicile et garderie de jour. Réservez via une plateforme pour les avis et l'assurance plutôt qu'un arrangement informel, et rencontrez le sitter au préalable pour que votre chien soit à l'aise. Les tarifs varient selon le sitter et la saison : confirmez à la réservation.",
+      "introEs": "Cuando necesites visitar el Casino, una iglesia u otro lugar que excluya a los animales, Sanremo está bien cubierta por las principales plataformas nacionales de cuidado de perros, que listan cuidadores locales verificados que ofrecen alojamiento en casa y guardería de día. Reserva a través de una plataforma por las reseñas y el seguro en lugar de un acuerdo informal, y conoce al cuidador antes para que tu perro esté cómodo. Los precios varían según el cuidador y la temporada: confírmalos al reservar.",
+      "introPt": "Quando precisar de visitar o Casino, uma igreja ou outro local que exclua animais, Sanremo está bem coberta pelas principais plataformas nacionais de dog sitting, que listam cuidadores locais verificados que oferecem alojamento em casa e creche de dia. Reserve através de uma plataforma pelas avaliações e pelo seguro em vez de um arranjo informal, e conheça o cuidador antes para que o seu cão fique confortável. Os preços variam consoante o cuidador e a época: confirme ao reservar.",
+      "places": [
+        {
+          "name": "Rover (Sanremo sitters)",
+          "serviceType": "Home boarding, day care, dog walking",
+          "serviceTypeFr": "Garde à domicile, garderie, promenade",
+          "serviceTypeEs": "Alojamiento en casa, guardería, paseos",
+          "serviceTypePt": "Alojamento em casa, creche, passeios",
+          "languages": "Italian, some English",
+          "pricePerDay": "Varies by sitter",
+          "description": "The largest pet-care platform, with a number of vetted dog sitters in Sanremo offering boarding in their own homes, day care and walks. Profiles carry reviews, photos and verification so you can pick a sitter that suits your dog.",
+          "descriptionFr": "La plus grande plateforme de garde d'animaux, avec plusieurs dog sitters vérifiés à Sanremo proposant la garde à leur domicile, la garderie de jour et des promenades. Les profils affichent avis, photos et vérifications pour choisir un sitter adapté à votre chien.",
+          "descriptionEs": "La mayor plataforma de cuidado de mascotas, con varios cuidadores verificados en Sanremo que ofrecen alojamiento en su casa, guardería de día y paseos. Los perfiles incluyen reseñas, fotos y verificaciones para elegir un cuidador adecuado para tu perro.",
+          "descriptionPt": "A maior plataforma de cuidados para animais, com vários dog sitters verificados em Sanremo que oferecem alojamento na sua casa, creche de dia e passeios. Os perfis incluem avaliações, fotos e verificações para escolher um cuidador adequado ao seu cão.",
+          "tip": "Book early in summer, when local sitters fill up fast with holiday demand",
+          "tipFr": "Réservez tôt l'été, quand les sitters locaux sont vite complets avec la demande des vacances",
+          "tipEs": "Reserva pronto en verano, cuando los cuidadores locales se llenan rápido por la demanda vacacional",
+          "tipPt": "Reserve cedo no verão, quando os cuidadores locais enchem depressa com a procura das férias",
+          "website": "https://www.rover.com/it/sanremo--liguria--dog-sitter/"
+        },
+        {
+          "name": "Pawshake Sanremo",
+          "serviceType": "Home boarding, day care, dog walking",
+          "serviceTypeFr": "Garde à domicile, garderie, promenade",
+          "serviceTypeEs": "Alojamiento en casa, guardería, paseos",
+          "serviceTypePt": "Alojamento em casa, creche, passeios",
+          "languages": "Italian, some English",
+          "pricePerDay": "Varies by sitter",
+          "description": "An international sitter platform with local profiles in Sanremo, where sitters pass identity and trust checks and carry reviews from other owners. A good option for occasional day care while you visit indoor sights.",
+          "descriptionFr": "Une plateforme internationale de sitters avec des profils locaux à Sanremo, où les sitters passent des contrôles d'identité et de confiance et affichent des avis d'autres propriétaires. Une bonne option pour une garde ponctuelle pendant vos visites en intérieur.",
+          "descriptionEs": "Una plataforma internacional de cuidadores con perfiles locales en Sanremo, donde los cuidadores pasan controles de identidad y confianza e incluyen reseñas de otros dueños. Una buena opción para una guardería puntual mientras visitas lugares de interior.",
+          "descriptionPt": "Uma plataforma internacional de cuidadores com perfis locais em Sanremo, onde os cuidadores passam controlos de identidade e confiança e incluem avaliações de outros donos. Uma boa opção para uma creche pontual enquanto visita locais interiores.",
+          "tip": "Arrange a short meet-and-greet before your visit so your dog settles with the sitter",
+          "tipFr": "Organisez une courte rencontre avant votre visite pour que votre chien s'habitue au sitter",
+          "tipEs": "Organiza un breve encuentro antes de tu visita para que tu perro se adapte al cuidador",
+          "tipPt": "Combine um breve encontro antes da sua visita para que o cão se habitue ao cuidador",
+          "website": "https://www.pawshake.it/pensione-per-cani/sanremo-liguria"
+        },
+        {
+          "name": "Holidog Sanremo",
+          "serviceType": "Home boarding and day care",
+          "serviceTypeFr": "Garde à domicile et garderie",
+          "serviceTypeEs": "Alojamiento en casa y guardería",
+          "serviceTypePt": "Alojamento em casa e creche",
+          "languages": "Italian, some English",
+          "pricePerDay": "Varies by sitter",
+          "description": "A pet-care platform offering an alternative to traditional kennels, matching you with host-family dog sitters in and around Sanremo. Useful if you prefer your dog stays in a home rather than a boarding facility.",
+          "descriptionFr": "Une plateforme de garde proposant une alternative aux pensions classiques, en vous mettant en relation avec des familles d'accueil dog sitters à Sanremo et alentour. Utile si vous préférez que votre chien reste dans un foyer plutôt qu'en pension.",
+          "descriptionEs": "Una plataforma de cuidado que ofrece una alternativa a las residencias tradicionales, poniéndote en contacto con familias de acogida cuidadoras en Sanremo y alrededores. Útil si prefieres que tu perro se quede en un hogar en lugar de una residencia.",
+          "descriptionPt": "Uma plataforma de cuidados que oferece uma alternativa aos canis tradicionais, ligando-o a famílias de acolhimento dog sitters em Sanremo e arredores. Útil se prefere que o seu cão fique num lar em vez de um canil.",
+          "tip": "Compare a few host profiles and read the reviews before choosing, especially for a longer stay",
+          "tipFr": "Comparez quelques profils d'accueil et lisez les avis avant de choisir, surtout pour un séjour plus long",
+          "tipEs": "Compara varios perfiles de acogida y lee las reseñas antes de elegir, sobre todo para una estancia larga",
+          "tipPt": "Compare alguns perfis de acolhimento e leia as avaliações antes de escolher, sobretudo para uma estadia mais longa",
+          "website": "https://it.holidog.com/dog-sitter--sanremo--im"
+        }
+      ],
+      "tipsEn": [
+        "Use a national platform such as Rover, Pawshake or Holidog for vetted local sitters with reviews and insurance.",
+        "Book early in July and August, when Sanremo's holiday demand fills local sitters quickly.",
+        "Meet the sitter and hand over your dog's papers, food and vet number before you leave."
+      ],
+      "tipsFr": [
+        "Passez par une plateforme nationale comme Rover, Pawshake ou Holidog pour des sitters locaux vérifiés, avec avis et assurance.",
+        "Réservez tôt en juillet et août, quand la demande estivale de Sanremo remplit vite les sitters locaux.",
+        "Rencontrez le sitter et remettez-lui les papiers, la nourriture et le numéro du vétérinaire de votre chien avant de partir."
+      ],
+      "tipsEs": [
+        "Usa una plataforma nacional como Rover, Pawshake o Holidog para cuidadores locales verificados, con reseñas y seguro.",
+        "Reserva pronto en julio y agosto, cuando la demanda vacacional de Sanremo llena rápido a los cuidadores locales.",
+        "Conoce al cuidador y entrégale los papeles, la comida y el número del veterinario de tu perro antes de irte."
+      ],
+      "tipsPt": [
+        "Use uma plataforma nacional como Rover, Pawshake ou Holidog para cuidadores locais verificados, com avaliações e seguro.",
+        "Reserve cedo em julho e agosto, quando a procura de férias de Sanremo enche depressa os cuidadores locais.",
+        "Conheça o cuidador e entregue-lhe os documentos, a comida e o número do veterinário do seu cão antes de sair."
+      ],
+      "faqsEn": [
+        {"q": "How do I find a dog sitter in Sanremo?", "a": "Use a national platform such as Rover, Pawshake or Holidog, which list vetted local sitters in Sanremo offering home boarding, day care and walks, with reviews and verification. Book through the platform rather than an informal arrangement for insurance and accountability."},
+        {"q": "How much does dog sitting cost in Sanremo?", "a": "Prices vary by sitter, service and season and are set on each sitter's profile, so confirm the rate when you book. Expect higher demand and prices in July and August, so reserve early for the summer."},
+        {"q": "Can I leave my dog while I visit the Casino or a museum?", "a": "Yes. Since the Casino interior and museums exclude pets, a day-care sitter booked through one of the platforms is the simplest solution. Arrange a short meet-and-greet first and hand over your dog's food, papers and a vet number."}
+      ],
+      "faqsFr": [
+        {"q": "Comment trouver un dog sitter à Sanremo ?", "a": "Passez par une plateforme nationale comme Rover, Pawshake ou Holidog, qui référencent des sitters locaux vérifiés à Sanremo proposant garde à domicile, garderie et promenades, avec avis et vérification. Réservez via la plateforme plutôt qu'un arrangement informel, pour l'assurance et la fiabilité."},
+        {"q": "Combien coûte un dog sitter à Sanremo ?", "a": "Les tarifs varient selon le sitter, le service et la saison et sont indiqués sur chaque profil : confirmez le prix à la réservation. Attendez-vous à une demande et à des prix plus élevés en juillet et août, réservez donc tôt pour l'été."},
+        {"q": "Puis-je laisser mon chien pour visiter le Casino ou un musée ?", "a": "Oui. Comme l'intérieur du Casino et les musées excluent les animaux, une garderie de jour réservée via l'une des plateformes est la solution la plus simple. Organisez d'abord une courte rencontre et remettez la nourriture, les papiers et un numéro de vétérinaire de votre chien."}
+      ],
+      "faqsEs": [
+        {"q": "¿Cómo encuentro un cuidador de perros en Sanremo?", "a": "Usa una plataforma nacional como Rover, Pawshake o Holidog, que listan cuidadores locales verificados en Sanremo que ofrecen alojamiento en casa, guardería y paseos, con reseñas y verificación. Reserva a través de la plataforma en lugar de un acuerdo informal, por el seguro y la fiabilidad."},
+        {"q": "¿Cuánto cuesta el cuidado de perros en Sanremo?", "a": "Los precios varían según el cuidador, el servicio y la temporada y se indican en cada perfil, así que confirma la tarifa al reservar. Espera más demanda y precios en julio y agosto, así que reserva pronto para el verano."},
+        {"q": "¿Puedo dejar a mi perro mientras visito el Casino o un museo?", "a": "Sí. Como el interior del Casino y los museos excluyen a los animales, una guardería de día reservada a través de una de las plataformas es la solución más sencilla. Organiza primero un breve encuentro y entrega la comida, los papeles y un número de veterinario de tu perro."}
+      ],
+      "faqsPt": [
+        {"q": "Como encontro um dog sitter em Sanremo?", "a": "Use uma plataforma nacional como Rover, Pawshake ou Holidog, que listam cuidadores locais verificados em Sanremo que oferecem alojamento em casa, creche e passeios, com avaliações e verificação. Reserve através da plataforma em vez de um arranjo informal, pelo seguro e pela fiabilidade."},
+        {"q": "Quanto custa o dog sitting em Sanremo?", "a": "Os preços variam consoante o cuidador, o serviço e a época e estão indicados em cada perfil, por isso confirme a tarifa ao reservar. Conte com mais procura e preços em julho e agosto, por isso reserve cedo para o verão."},
+        {"q": "Posso deixar o meu cão enquanto visito o Casino ou um museu?", "a": "Sim. Como o interior do Casino e os museus excluem animais, uma creche de dia reservada através de uma das plataformas é a solução mais simples. Combine primeiro um breve encontro e entregue a comida, os documentos e um número de veterinário do seu cão."}
+      ]
+    }
+  }
+}

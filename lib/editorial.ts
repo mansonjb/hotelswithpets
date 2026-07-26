@@ -41,6 +41,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `El Rinconín, Gijón's year-round dog beach, complete with its own fenced off-leash dog park right beside the sand.`,
       area: `Cimavilla, the brightly painted old fishing quarter, climbs to the clifftop lawns of Cerro de Santa Catalina, perfect for leashed sunset walks beneath Chillida's sculpture.`,
     },
+    amalfi: {
+      personality: `One of the most beautiful towns on the Amalfi Coast, steep and sun-baked yet walkable at its seafront, rewarding dog owners who lean on the buses and ferries and plan around the summer heat.`,
+      highlight: `Walking the cool, shaded Valle delle Ferriere nature reserve, then the ridge trail to the Torre dello Ziro above Atrani, both welcoming leashed dogs.`,
+      area: `Base yourself in the flat seafront centre near Piazza Duomo, or in quiet Atrani and the garden village of Ravello for cooler air.`,
+    },
     almeria: {
       personality: `Sun-drenched, easygoing and refreshingly uncrowded, Almería rewards dog owners who plan around the heat with empty beaches and wide desert horizons.`,
       highlight: `Cooling off with your dog at the official El Bobar dog beach, then watching the sun set over the Alcazaba's floodlit walls.`,
@@ -1964,6 +1969,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `El Rinconín, la plage canine de Gijón ouverte toute l'année, avec son propre parc clôturé pour chiens en liberté juste à côté du sable.`,
       area: `Cimavilla, le vieux quartier de pêcheurs aux maisons colorées, grimpe vers les pelouses du Cerro de Santa Catalina, parfaites pour des promenades en laisse au coucher du soleil sous la sculpture de Chillida.`,
     },
+    amalfi: {
+      personality: `L'une des plus belles villes de la Côte amalfitaine, raide et brûlée de soleil mais accessible sur son front de mer, récompensant les maîtres qui comptent sur les bus et les ferries et s'organisent autour de la chaleur estivale.`,
+      highlight: `Parcourir la fraîche et ombragée réserve de la Valle delle Ferriere, puis le sentier de crête vers la Torre dello Ziro au-dessus d'Atrani, tous deux accueillant les chiens en laisse.`,
+      area: `Installez-vous dans le centre plat du front de mer près de la Piazza Duomo, ou dans le calme Atrani et le village-jardin de Ravello pour un air plus frais.`,
+    },
     almeria: {
       personality: `Baignée de soleil, décontractée et délicieusement peu fréquentée, Almería récompense les maîtres qui s'organisent autour de la chaleur par des plages désertes et de larges horizons de désert.`,
       highlight: `Rafraîchir son chien à la plage canine officielle d'El Bobar, puis regarder le soleil se coucher sur les remparts illuminés de l'Alcazaba.`,
@@ -3886,6 +3896,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `El Rinconín, la playa canina de Gijón abierta todo el año, con su propio parque vallado para perros sueltos justo al lado de la arena.`,
       area: `Cimavilla, el colorido barrio pesquero antiguo, sube hasta las praderas del Cerro de Santa Catalina, ideales para paseos con correa al atardecer bajo la escultura de Chillida.`,
     },
+    amalfi: {
+      personality: `Una de las ciudades más bonitas de la Costa Amalfitana, empinada y abrasada por el sol pero transitable en su paseo marítimo, recompensa a los dueños que se apoyan en los autobuses y ferries y se organizan en torno al calor del verano.`,
+      highlight: `Recorrer la fresca y sombreada reserva de la Valle delle Ferriere, y luego el sendero de cresta hacia la Torre dello Ziro sobre Atrani, ambos con perros con correa.`,
+      area: `Alójate en el llano centro junto al mar cerca de la Piazza Duomo, o en el tranquilo Atrani y el pueblo-jardín de Ravello para aire más fresco.`,
+    },
     almeria: {
       personality: `Bañada de sol, tranquila y deliciosamente poco masificada, Almería recompensa a los dueños que se organizan en torno al calor con playas vacías y amplios horizontes de desierto.`,
       highlight: `Refrescar a tu perro en la playa canina oficial de El Bobar y luego ver ponerse el sol sobre las murallas iluminadas de la Alcazaba.`,
@@ -5807,6 +5822,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma descontraída cidade da sidra da costa cantábrica onde os cães caminham ao lado dos donos pela frente de mar e dormitam debaixo das mesas das animadas sidrerías.`,
       highlight: `El Rinconín, a praia canina de Gijón aberta todo o ano, com o seu próprio parque vedado para cães à solta mesmo ao lado da areia.`,
       area: `Cimavilla, o colorido bairro piscatório antigo, sobe até aos relvados do Cerro de Santa Catalina, ideais para passeios com trela ao pôr do sol sob a escultura de Chillida.`,
+    },
+    amalfi: {
+      personality: `Uma das vilas mais bonitas da Costa Amalfitana, íngreme e abrasada pelo sol mas percorrível na sua marginal, recompensa os donos que se apoiam nos autocarros e ferries e se organizam em torno do calor do verão.`,
+      highlight: `Percorrer a fresca e sombreada reserva da Valle delle Ferriere, e depois o trilho de crista até à Torre dello Ziro acima de Atrani, ambos a aceitar cães à trela.`,
+      area: `Fique-se pelo centro plano junto ao mar perto da Piazza Duomo, ou na tranquila Atrani e na vila-jardim de Ravello para ar mais fresco.`,
     },
     almeria: {
       personality: `Banhada de sol, descontraída e deliciosamente pouco massificada, Almería recompensa os donos que se organizam em torno do calor com praias vazias e amplos horizontes de deserto.`,

@@ -1227,6 +1227,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  amalfi: {
+    history: {
+      fr: `Blottie au pied d'un ravin abrupt sur la côte sud de la péninsule sorrentine, Amalfi fut au Moyen Âge une puissante république maritime, rivale de Venise, de Gênes et de Pise, dont les navires commerçaient jusqu'à Byzance et l'Égypte. De cet âge d'or subsistent l'imposante cathédrale rayée de Sant'Andrea, en haut de son grand escalier, le Cloître du Paradis et une tradition de fabrication du papier encore vivante dans la vallée. Un raz-de-marée en 1343 engloutit une partie de la ville basse, mais Amalfi resta un centre marchand. Aujourd'hui, elle est le cœur d'une côte classée au patrimoine mondial de l'UNESCO, faite d'escaliers, de citronniers en terrasses et de villages perchés. Pour le voyageur avec chien, c'est une base plus plate et plus vivable que Positano, à condition de composer avec la chaleur estivale et les plages réglementées.`,
+      en: `Tucked at the foot of a steep ravine on the southern side of the Sorrentine peninsula, Amalfi was in the Middle Ages a powerful maritime republic, rival to Venice, Genoa and Pisa, whose ships traded as far as Byzantium and Egypt. From that golden age survive the imposing striped cathedral of Sant'Andrea atop its grand staircase, the Cloister of Paradise, and a papermaking tradition still alive in the valley above. A tidal wave in 1343 swallowed part of the lower town, but Amalfi remained a trading centre. Today it is the heart of a UNESCO World Heritage coast of staircases, terraced lemon groves and perched villages. For the traveller with a dog, it is a flatter, more liveable base than Positano, provided you plan around the summer heat and the regulated beaches.`,
+      es: `Encajada al pie de un abrupto barranco en la vertiente sur de la península sorrentina, Amalfi fue en la Edad Media una poderosa república marítima, rival de Venecia, Génova y Pisa, cuyos barcos comerciaban hasta Bizancio y Egipto. De aquella edad de oro sobreviven la imponente catedral a rayas de Sant'Andrea en lo alto de su gran escalinata, el Claustro del Paraíso y una tradición papelera aún viva en el valle de arriba. Un maremoto en 1343 se tragó parte de la ciudad baja, pero Amalfi siguió siendo un centro comercial. Hoy es el corazón de una costa Patrimonio de la Humanidad de la UNESCO hecha de escaleras, terrazas de limoneros y pueblos colgados. Para el viajero con perro, es una base más llana y habitable que Positano, siempre que te organices en torno al calor del verano y las playas reguladas.`,
+      pt: `Encaixada ao pé de uma ravina íngreme na vertente sul da península sorrentina, Amalfi foi na Idade Média uma poderosa república marítima, rival de Veneza, Génova e Pisa, cujos navios comerciavam até Bizâncio e ao Egito. Dessa idade de ouro sobrevivem a imponente catedral às riscas de Sant'Andrea no alto da sua grande escadaria, o Claustro do Paraíso e uma tradição de fabrico de papel ainda viva no vale acima. Um maremoto em 1343 engoliu parte da cidade baixa, mas Amalfi manteve-se um centro mercantil. Hoje é o coração de uma costa Património Mundial da UNESCO feita de escadarias, socalcos de limoeiros e aldeias empoleiradas. Para o viajante com cão, é uma base mais plana e habitável do que Positano, desde que se organize em torno do calor do verão e das praias regulamentadas.`,
+    },
+    sights: [
+      { name: 'Duomo di Sant\'Andrea', emoji: '⛪', petFriendly: false, desc: {
+        fr: `Cathédrale spectaculaire à la façade rayée, en haut d'un grand escalier dominant la place principale. Les chiens en laisse profitent de la place et de l'escalier, mais l'intérieur de la cathédrale et le Cloître du Paradis n'admettent pas les animaux ; relayez-vous pour la visite.`,
+        en: `A spectacular cathedral with a striped facade atop a grand staircase overlooking the main square. Leashed dogs can enjoy the piazza and steps, but the cathedral interior and the Cloister of Paradise do not admit pets; take turns for the visit.`,
+        es: `Catedral espectacular de fachada a rayas en lo alto de una gran escalinata sobre la plaza principal. Los perros con correa disfrutan de la plaza y la escalinata, pero el interior de la catedral y el Claustro del Paraíso no admiten mascotas; turnaos para la visita.`,
+        pt: `Catedral espetacular de fachada às riscas no alto de uma grande escadaria sobre a praça principal. Os cães com trela desfrutam da praça e da escadaria, mas o interior da catedral e o Claustro do Paraíso não admitem animais; revezem-se para a visita.`,
+      }},
+      { name: 'Valle delle Ferriere', emoji: '🌿', petFriendly: true, desc: {
+        fr: `Réserve naturelle fraîche et ombragée de cascades, ruisseaux et anciennes forges dans le ravin au-dessus d'Amalfi. Chiens en laisse acceptés sur le sentier, bien plus frais que la ville en été ; billet pour la partie haute au point d'information de Pontone.`,
+        en: `A cool, shaded nature reserve of waterfalls, streams and old ironworks in the ravine above Amalfi. Leashed dogs are welcome on the trail, far cooler than the town in summer; a ticket for the upper reserve is bought at the Pontone information point.`,
+        es: `Reserva natural fresca y sombreada de cascadas, arroyos y antiguas ferrerías en el barranco sobre Amalfi. Perros con correa admitidos en el sendero, mucho más fresco que la ciudad en verano; entrada a la parte alta en el punto de información de Pontone.`,
+        pt: `Reserva natural fresca e sombreada de cascatas, ribeiros e antigas ferrarias no vale acima de Amalfi. Cães com trela bem-vindos no trilho, bem mais fresco do que a vila no verão; bilhete para a parte alta no ponto de informação de Pontone.`,
+      }},
+      { name: 'Torre dello Ziro', emoji: '🗼', petFriendly: true, desc: {
+        fr: `Tour de guet en ruine sur l'éperon entre Amalfi et Atrani, accessible par un court sentier raide depuis Pontone, avec de vastes vues sur les deux baies. Chiens en laisse bienvenus ; les abords de la tour ne sont pas protégés, gardez-les près de vous.`,
+        en: `A ruined watchtower on the spur between Amalfi and Atrani, reached by a short steep path from Pontone, with sweeping views over both bays. Leashed dogs welcome; the tower area is unfenced, so keep them close.`,
+        es: `Torre de vigía en ruinas en el espolón entre Amalfi y Atrani, a la que se llega por un corto sendero empinado desde Pontone, con amplias vistas sobre ambas bahías. Perros con correa bienvenidos; la zona de la torre no está vallada, mantenlos cerca.`,
+        pt: `Torre de vigia em ruínas no esporão entre Amalfi e Atrani, alcançada por um curto trilho íngreme desde Pontone, com amplas vistas sobre as duas baías. Cães com trela bem-vindos; a zona da torre não tem vedação, mantenha-os junto de si.`,
+      }},
+      { name: 'Marina Grande (spiaggia)', emoji: '🏖️', petFriendly: false, desc: {
+        fr: `Plage principale de galets d'Amalfi, sous la ville, en grande partie divisée en lidos privés avec une petite zone libre. Chiens généralement non admis sur les lidos et écartés en été ; les criques plus calmes de Duoglio et Santa Croce sont plus tolérantes hors saison.`,
+        en: `Amalfi's main pebble beach below the town, mostly divided into private lidos with a small free section. Dogs are generally not allowed on the lidos and are kept off in summer; the quieter Duoglio and Santa Croce coves are more tolerant off-season.`,
+        es: `Playa principal de guijarros de Amalfi, bajo la ciudad, en gran parte dividida en lidos privados con una pequeña zona libre. Perros generalmente no admitidos en los lidos y apartados en verano; las calas más tranquilas de Duoglio y Santa Croce son más tolerantes fuera de temporada.`,
+        pt: `Praia principal de seixos de Amalfi, abaixo da vila, muito dividida em lidos privados com uma pequena zona livre. Cães geralmente não admitidos nos lidos e mantidos fora no verão; as enseadas mais calmas de Duoglio e Santa Croce são mais tolerantes fora de época.`,
+      }},
+      { name: 'Atrani', emoji: '🏘️', petFriendly: true, desc: {
+        fr: `L'un des plus petits villages d'Italie, dans la baie voisine à une courte marche plate d'Amalfi, avec une place abritée et un dédale de ruelles calmes. Ambiance préservée idéale pour flâner en laisse et dîner tranquillement le soir.`,
+        en: `One of Italy's smallest villages, in the next bay a short flat walk from Amalfi, with a sheltered piazza and a maze of quiet lanes. An unspoilt spot, ideal for an on-leash stroll and a relaxed evening meal.`,
+        es: `Uno de los pueblos más pequeños de Italia, en la bahía vecina a un corto paseo llano desde Amalfi, con una plaza resguardada y un laberinto de callejuelas tranquilas. Ambiente intacto ideal para pasear con correa y cenar con calma por la noche.`,
+        pt: `Uma das mais pequenas aldeias de Itália, na baía vizinha a um curto passeio plano desde Amalfi, com uma praça abrigada e um labirinto de ruelas calmas. Ambiente intacto ideal para passear à trela e jantar com calma ao fim do dia.`,
+      }},
+      { name: 'Ravello', emoji: '🌺', petFriendly: true, desc: {
+        fr: `Ville-jardin raffinée en hauteur au-dessus d'Amalfi, célèbre pour les jardins en bord de falaise de la Villa Rufolo et de la Villa Cimbrone. Chiens en laisse bienvenus en ville ; les villas-jardins acceptent en général les chiens en laisse, à confirmer à l'entrée. Montez en bus orange local.`,
+        en: `A refined garden town high above Amalfi, famous for the cliff-edge gardens of Villa Rufolo and Villa Cimbrone. Leashed dogs welcome in the town; the garden villas generally admit leashed dogs, confirm at the gate. Ride up on the local orange bus.`,
+        es: `Refinada ciudad-jardín en lo alto sobre Amalfi, famosa por los jardines al borde del acantilado de Villa Rufolo y Villa Cimbrone. Perros con correa bienvenidos en la ciudad; las villas-jardín suelen admitir perros con correa, confírmalo en la entrada. Sube en el autobús naranja local.`,
+        pt: `Refinada vila-jardim no alto sobre Amalfi, famosa pelos jardins à beira da falésia da Villa Rufolo e da Villa Cimbrone. Cães com trela bem-vindos na vila; as villas-jardim geralmente admitem cães à trela, confirme à entrada. Suba no autocarro laranja local.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Chaleur estivale et roche brûlante : de juin à août, sortez à l'aube et en soirée, et testez galets et rochers avec la main, ils peuvent brûler les coussinets l'après-midi.`,
+        `Plages réglementées : les chiens sont écartés de la plupart des plages publiques de juin à septembre ; pour une vraie baignade, visez une plage canine dédiée plus à l'est vers Salerne.`,
+        `Muselière obligatoire dans les transports : bus SITA, bus orange locaux et ferries Travelmar/Alilauro acceptent les chiens en laisse et muselés, moyennant un petit tarif.`,
+        `Côte en escaliers : au-delà du front de mer plat, appuyez-vous sur les bus locaux vers Pogerola, Pontone et Ravello plutôt que de gravir des centaines de marches sous la chaleur.`,
+        `Intérieurs interdits : la cathédrale de Sant'Andrea et son cloître, comme les musées, n'admettent pas les chiens ; prévoyez de vous relayer pour ces visites.`,
+      ],
+      en: [
+        `Summer heat and hot rock: from June to August, walk at dawn and in the evening, and test the pebbles and rock with your hand, as they can burn paws in the afternoon.`,
+        `Regulated beaches: dogs are kept off most public beaches from June to September; for a genuine swim, head to a dedicated dog beach further east toward Salerno.`,
+        `Muzzle required on transport: SITA buses, local orange buses and the Travelmar/Alilauro ferries accept leashed, muzzled dogs for a small fare.`,
+        `Stepped coast: beyond the flat seafront, lean on the local buses to Pogerola, Pontone and Ravello rather than climbing hundreds of steps in the heat.`,
+        `Off-limits interiors: the cathedral of Sant'Andrea and its cloister, like the museums, do not admit dogs; plan to take turns for those visits.`,
+      ],
+      es: [
+        `Calor estival y roca caliente: de junio a agosto, pasea al amanecer y por la tarde-noche, y comprueba los guijarros y la roca con la mano, pueden quemar las almohadillas por la tarde.`,
+        `Playas reguladas: los perros se mantienen fuera de la mayoría de las playas públicas de junio a septiembre; para un baño de verdad, ve a una playa canina específica más al este hacia Salerno.`,
+        `Bozal obligatorio en el transporte: los autobuses SITA, los autobuses naranjas locales y los ferries Travelmar/Alilauro admiten perros con correa y bozal por una pequeña tarifa.`,
+        `Costa con escalones: más allá del paseo marítimo llano, apóyate en los autobuses locales a Pogerola, Pontone y Ravello en vez de subir cientos de escalones con calor.`,
+        `Interiores vetados: la catedral de Sant'Andrea y su claustro, como los museos, no admiten perros; planea turnaros para esas visitas.`,
+      ],
+      pt: [
+        `Calor de verão e rocha quente: de junho a agosto, passeie ao amanhecer e ao fim do dia, e teste os seixos e a rocha com a mão, podem queimar as patas à tarde.`,
+        `Praias regulamentadas: os cães são mantidos fora da maioria das praias públicas de junho a setembro; para um banho a sério, vá a uma praia canina dedicada mais a leste em direção a Salerno.`,
+        `Açaime obrigatório nos transportes: os autocarros SITA, os autocarros laranja locais e os ferries Travelmar/Alilauro aceitam cães com trela e açaime mediante uma pequena tarifa.`,
+        `Costa cheia de degraus: para lá da marginal plana, apoie-se nos autocarros locais para Pogerola, Pontone e Ravello em vez de subir centenas de degraus no calor.`,
+        `Interiores vedados: a catedral de Sant'Andrea e o seu claustro, tal como os museus, não admitem cães; planeie revezar-se para essas visitas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport le plus proche : Naples (NAP), à environ 60 km ; on rejoint Amalfi par la route côtière ou, en saison, par ferry depuis Salerne ou la baie de Naples.`,
+        `Pas de clinique vétérinaire complète à Amalfi même : les plus proches sont à Vietri sul Mare vers Salerne et à Sorrente ; repérez le numéro avant les randonnées où le réseau manque.`,
+        `Numéro d'urgence unique en Italie : 112, valable pour toute urgence humaine ; pour votre chien, gardez hors ligne les coordonnées d'un vétérinaire de la côte.`,
+        `Réglementation italienne (UE) : passeport européen, puce et vaccination antirabique obligatoires ; muselière et laisse exigées dans la plupart des transports.`,
+        `Haute saison de juin à septembre, bondée et chaude : réservez tôt un hébergement pet-friendly et privilégiez le printemps ou l'automne pour voyager avec un chien.`,
+      ],
+      en: [
+        `Nearest airport: Naples (NAP), about 60 km away; reach Amalfi by the coast road or, in season, by ferry from Salerno or the Bay of Naples.`,
+        `No full veterinary clinic in Amalfi itself: the nearest are at Vietri sul Mare toward Salerno and in Sorrento; save the number before hikes where signal drops.`,
+        `Italy's single emergency number is 112, valid for any human emergency; for your dog, keep a coast vet's details saved offline.`,
+        `Italian (EU) rules: EU pet passport, microchip and rabies vaccination are mandatory; a muzzle and leash are required on most transport.`,
+        `High season runs June to September, crowded and hot: book pet-friendly accommodation early, and favour spring or autumn for travelling with a dog.`,
+      ],
+      es: [
+        `Aeropuerto más cercano: Nápoles (NAP), a unos 60 km; se llega a Amalfi por la carretera costera o, en temporada, en ferry desde Salerno o la bahía de Nápoles.`,
+        `No hay clínica veterinaria completa en la propia Amalfi: las más cercanas están en Vietri sul Mare hacia Salerno y en Sorrento; guarda el número antes de las rutas donde falta cobertura.`,
+        `El número único de emergencias en Italia es el 112, válido para cualquier urgencia humana; para tu perro, guarda sin conexión los datos de un veterinario de la costa.`,
+        `Normativa italiana (UE): pasaporte europeo, microchip y vacuna antirrábica obligatorios; bozal y correa exigidos en la mayoría del transporte.`,
+        `Temporada alta de junio a septiembre, concurrida y calurosa: reserva pronto un alojamiento pet-friendly y prioriza la primavera o el otoño para viajar con un perro.`,
+      ],
+      pt: [
+        `Aeroporto mais próximo: Nápoles (NAP), a cerca de 60 km; chega-se a Amalfi pela estrada costeira ou, em época, de ferry desde Salerno ou a baía de Nápoles.`,
+        `Não há clínica veterinária completa na própria Amalfi: as mais próximas ficam em Vietri sul Mare em direção a Salerno e em Sorrento; guarde o número antes das caminhadas onde falta rede.`,
+        `O número único de emergência em Itália é o 112, válido para qualquer urgência humana; para o seu cão, guarde sem ligação os contactos de um veterinário da costa.`,
+        `Regras italianas (UE): passaporte europeu, microchip e vacina antirrábica obrigatórios; açaime e trela exigidos na maioria dos transportes.`,
+        `Época alta de junho a setembro, cheia e quente: reserve cedo um alojamento pet-friendly e prefira a primavera ou o outono para viajar com um cão.`,
+      ],
+    },
+  },
+
   amsterdam: {
     history: {
       fr: `Fondée au XIIIe siècle autour d'un barrage sur la rivière Amstel, d'où son nom, Amsterdam est devenue au XVIIe siècle la capitale commerciale du monde. La Compagnie néerlandaise des Indes orientales (VOC), première multinationale de l'histoire, y avait son siège. Cette prospérité a financé les 165 canaux, les 1 500 ponts et les étroites maisons à pignons qui composent aujourd'hui le cœur historique, classé au patrimoine mondial de l'UNESCO depuis 2010. La ville a toujours cultivé une culture de tolérance et d'ouverture, et cela vaut aussi pour les chiens, bienvenus dans les cafés, sur les terrasses et même dans les transports en commun.`,

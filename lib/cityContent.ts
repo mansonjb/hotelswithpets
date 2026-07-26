@@ -49262,6 +49262,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  zandvoort: {
+    history: {
+      fr: `Zandvoort, ancien village de pêcheurs de la mer du Nord, est devenue au XIXe siècle la station balnéaire d'Amsterdam quand la ligne de chemin de fer relia la côte à la capitale en 1881. Aujourd'hui, cette petite ville de la province de Hollande-Septentrionale vit de son large strand de sable, de son boulevard face au large et de son célèbre circuit automobile niché dans les dunes, qui accueille de nouveau le Grand Prix des Pays-Bas depuis 2021. Elle est ceinturée de dunes protégées : le Nationaal Park Zuid-Kennemerland au nord et les Amsterdamse Waterleidingduinen au sud. Pour les voyageurs avec chien, Zandvoort est l'une des escapades côtières les plus faciles depuis Amsterdam, à une trentaine de minutes en train direct, mais l'accès à la plage est saisonnier et zoné : loisir sans laisse en hiver, restrictions en journée l'été, avec la plage canine de Parnassia toute proche comme solution estivale.`,
+      en: `Zandvoort, an old North Sea fishing village, grew into Amsterdam's seaside resort in the 19th century when the railway linked the coast to the capital in 1881. Today this small town in the province of North Holland lives off its wide sandy strand, its boulevard facing the open sea and its famous motor-racing circuit set among the dunes, which has hosted the Dutch Grand Prix again since 2021. It is wrapped in protected dunes: the Nationaal Park Zuid-Kennemerland to the north and the Amsterdamse Waterleidingduinen to the south. For travellers with a dog, Zandvoort is one of the easiest coastal breaks from Amsterdam, about thirty minutes away by direct train, but beach access is seasonal and zoned: off-lead freedom in winter, daytime restrictions in summer, with the nearby Parnassia dog beach as the summer answer.`,
+      es: `Zandvoort, un antiguo pueblo pesquero del mar del Norte, se convirtió en la estación balnearia de Ámsterdam en el siglo XIX, cuando el ferrocarril unió la costa con la capital en 1881. Hoy esta pequeña ciudad de la provincia de Holanda Septentrional vive de su amplio strand de arena, de su bulevar frente al mar abierto y de su famoso circuito automovilístico enclavado entre las dunas, que vuelve a acoger el Gran Premio de los Países Bajos desde 2021. Está rodeada de dunas protegidas: el Nationaal Park Zuid-Kennemerland al norte y los Amsterdamse Waterleidingduinen al sur. Para los viajeros con perro, Zandvoort es una de las escapadas costeras más fáciles desde Ámsterdam, a unos treinta minutos en tren directo, pero el acceso a la playa es estacional y por zonas: libertad sin correa en invierno, restricciones de día en verano, con la cercana playa canina de Parnassia como respuesta estival.`,
+      pt: `Zandvoort, uma antiga aldeia piscatória do mar do Norte, tornou-se a estância balnear de Amesterdão no século XIX, quando o caminho de ferro ligou a costa à capital em 1881. Hoje esta pequena vila da província da Holanda do Norte vive do seu largo strand de areia, do seu boulevard virado para o mar aberto e do seu famoso circuito automóvel encaixado entre as dunas, que volta a acolher o Grande Prémio dos Países Baixos desde 2021. Está rodeada de dunas protegidas: o Nationaal Park Zuid-Kennemerland a norte e os Amsterdamse Waterleidingduinen a sul. Para os viajantes com cão, Zandvoort é uma das escapadelas costeiras mais fáceis a partir de Amesterdão, a cerca de trinta minutos de comboio direto, mas o acesso à praia é sazonal e por zonas: liberdade sem trela no inverno, restrições de dia no verão, com a próxima praia canina de Parnassia como resposta estival.`,
+    },
+    sights: [
+      { name: 'Zandvoort beach', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Le large strand de la mer du Nord, sous le boulevard. Chiens sans laisse toute la journée du 1er octobre au 15 avril ; du 15 avril au 1er octobre interdits de 09h00 à 19h00, admis seulement le soir et tôt le matin.`,
+        en: `The wide North Sea strand below the boulevard. Dogs off-lead all day from 1 October to 15 April; from 15 April to 1 October banned 09:00 to 19:00 and allowed only evening and early morning.`,
+        es: `El amplio strand del mar del Norte bajo el bulevar. Perros sin correa todo el día del 1 de octubre al 15 de abril; del 15 de abril al 1 de octubre prohibidos de 09:00 a 19:00 y admitidos solo por la tarde-noche y a primera hora.`,
+        pt: `O largo strand do mar do Norte sob o boulevard. Cães sem trela todo o dia de 1 de outubro a 15 de abril; de 15 de abril a 1 de outubro proibidos das 09:00 às 19:00 e admitidos só ao fim da tarde e de manhã cedo.`,
+      }},
+      { name: 'Parnassia dog beach', emoji: '🐕', petFriendly: true, desc: {
+        fr: `Juste au nord à Bloemendaal aan Zee, la seule plage proche où les chiens courent sans laisse en journée toute l'année, y compris l'été. La solution quand la plage de Zandvoort leur est fermée le jour.`,
+        en: `Just north at Bloemendaal aan Zee, the only nearby beach where dogs run off-lead in the daytime all year, including summer. The answer when Zandvoort's beach is closed to them by day.`,
+        es: `Justo al norte, en Bloemendaal aan Zee, la única playa cercana donde los perros corren sin correa de día todo el año, incluido el verano. La solución cuando la playa de Zandvoort les está cerrada de día.`,
+        pt: `Mesmo a norte, em Bloemendaal aan Zee, a única praia próxima onde os cães correm sem trela de dia todo o ano, incluindo o verão. A solução quando a praia de Zandvoort lhes está fechada de dia.`,
+      }},
+      { name: 'Noordduinen dog dunes', emoji: '🌾', petFriendly: true, desc: {
+        fr: `La réserve de Noordduinen et Wurmenveld, derrière la plage nord, où les chiens courent librement toute l'année. Sentiers sableux, vues sur la mer, accès facile à la plage. Attention à la faune nichant au sol.`,
+        en: `The Noordduinen and Wurmenveld reserve behind the north beach, where dogs run free all year. Sandy paths, sea views, easy beach access. Watch for ground-nesting wildlife.`,
+        es: `La reserva de Noordduinen y Wurmenveld, detrás de la playa norte, donde los perros corren libres todo el año. Senderos de arena, vistas al mar, acceso fácil a la playa. Cuidado con la fauna que anida en el suelo.`,
+        pt: `A reserva de Noordduinen e Wurmenveld, atrás da praia norte, onde os cães correm livres todo o ano. Trilhos de areia, vistas para o mar, acesso fácil à praia. Atenção à fauna que nidifica no solo.`,
+      }},
+      { name: 'Nationaal Park Zuid-Kennemerland', emoji: '🌲', petFriendly: true, desc: {
+        fr: `Parc national de 38 km² de dunes et de bois au nord. Chiens en laisse dans la majeure partie ; Duinlust et Middenduin fermés aux chiens ; règles renforcées en nidification (1er mars au 15 juillet).`,
+        en: `A 38 km² national park of dunes and woodland to the north. Dogs on the lead in most of it; Duinlust and Middenduin closed to dogs; stricter rules in breeding season (1 March to 15 July).`,
+        es: `Parque nacional de 38 km² de dunas y bosque al norte. Perros con correa en la mayor parte; Duinlust y Middenduin cerrados a los perros; normas más estrictas en cría (1 de marzo al 15 de julio).`,
+        pt: `Parque nacional de 38 km² de dunas e bosque a norte. Cães com trela na maior parte; Duinlust e Middenduin fechados a cães; regras mais rígidas na nidificação (1 de março a 15 de julho).`,
+      }},
+      { name: 'Zandvoort boulevard', emoji: '🌊', petFriendly: true, desc: {
+        fr: `L'une des rares promenades des Pays-Bas avec vue ininterrompue sur la mer, longue de plusieurs kilomètres. Balade plane et facile avec chien en laisse, bordée de cafés et de paillotes.`,
+        en: `One of the few Dutch promenades with an uninterrupted sea view, running several kilometres above the beach. A level, easy walk with a leashed dog, lined with cafés and pavilions.`,
+        es: `Uno de los pocos paseos neerlandeses con vista ininterrumpida al mar, de varios kilómetros sobre la playa. Paseo llano y fácil con perro con correa, flanqueado por cafés y chiringuitos.`,
+        pt: `Uma das poucas marginais neerlandesas com vista ininterrupta para o mar, de vários quilómetros sobre a praia. Passeio plano e fácil com cão com trela, ladeado de cafés e pavilhões.`,
+      }},
+      { name: 'Circuit Zandvoort', emoji: '🏁', petFriendly: false, desc: {
+        fr: `Le circuit du Grand Prix des Pays-Bas, niché dans les dunes. Chiens interdits à l'intérieur les jours d'événement (bruit intense), mais les sentiers des dunes du pourtour offrent une balade en laisse hors course.`,
+        en: `The Dutch Grand Prix circuit, set among the dunes. No dogs inside on event days (intense noise), but the dune paths around the perimeter make a leashed walk on non-race days.`,
+        es: `El circuito del Gran Premio de los Países Bajos, enclavado en las dunas. Sin perros dentro en días de evento (ruido intenso), pero los senderos de las dunas del perímetro permiten un paseo con correa fuera de carrera.`,
+        pt: `O circuito do Grande Prémio dos Países Baixos, encaixado nas dunas. Sem cães no interior em dias de evento (barulho intenso), mas os trilhos das dunas do perímetro permitem um passeio com trela fora de corrida.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Retenez les deux saisons de plage : sans laisse toute la journée du 1er octobre au 15 avril ; interdits de 09h00 à 19h00 du 15 avril au 1er octobre, admis seulement le soir et tôt le matin.`,
+        `Pour courir en journée l'été, allez à la plage canine de Parnassia à Bloemendaal aan Zee, ouverte aux chiens sans laisse toute l'année.`,
+        `Ne prévoyez pas de balade dans les Amsterdamse Waterleidingduinen : les chiens y sont totalement interdits (hors chiens d'assistance). Utilisez le Zuid-Kennemerland au nord, en laisse.`,
+        `En train NS depuis Amsterdam ou Haarlem : petits chiens en sac gratuits, grands chiens Dagkaart Hond à 3,70 euros valable toute la journée. Chien en laisse à bord.`,
+        `Vétérinaire à Zandvoort : Dierenkliniek Zandvoort, Gasthuisplein 9a (+31 23 571 58 47), en semaine ; urgences nocturnes orientées vers un hôpital 24h de la région d'Amsterdam.`,
+      ],
+      en: [
+        `Memorise the two beach seasons: off-lead all day from 1 October to 15 April; banned 09:00 to 19:00 from 15 April to 1 October, allowed only evening and early morning.`,
+        `For daytime running in summer, head to the Parnassia dog beach at Bloemendaal aan Zee, open to off-lead dogs all year.`,
+        `Do not plan a walk in the Amsterdamse Waterleidingduinen: dogs are banned there entirely (service dogs excepted). Use Zuid-Kennemerland to the north, on the lead.`,
+        `By NS train from Amsterdam or Haarlem: small dogs in a bag free, larger dogs a 3.70 euro Dagkaart Hond valid all day. Keep the dog leashed on board.`,
+        `Vet in Zandvoort: Dierenkliniek Zandvoort, Gasthuisplein 9a (+31 23 571 58 47), weekdays; night emergencies referred to a 24-hour hospital in the Amsterdam area.`,
+      ],
+      es: [
+        `Memoriza las dos temporadas de playa: sin correa todo el día del 1 de octubre al 15 de abril; prohibidos de 09:00 a 19:00 del 15 de abril al 1 de octubre, admitidos solo por la tarde-noche y a primera hora.`,
+        `Para correr de día en verano, ve a la playa canina de Parnassia en Bloemendaal aan Zee, abierta a perros sin correa todo el año.`,
+        `No planees un paseo por los Amsterdamse Waterleidingduinen: los perros están totalmente prohibidos allí (salvo de asistencia). Usa el Zuid-Kennemerland al norte, con correa.`,
+        `En tren NS desde Ámsterdam o Haarlem: perros pequeños en bolso gratis, perros grandes Dagkaart Hond de 3,70 euros válida todo el día. Perro con correa a bordo.`,
+        `Veterinario en Zandvoort: Dierenkliniek Zandvoort, Gasthuisplein 9a (+31 23 571 58 47), entre semana; urgencias nocturnas derivadas a un hospital 24 horas de la zona de Ámsterdam.`,
+      ],
+      pt: [
+        `Memorize as duas estações de praia: sem trela todo o dia de 1 de outubro a 15 de abril; proibidos das 09:00 às 19:00 de 15 de abril a 1 de outubro, admitidos só ao fim da tarde e de manhã cedo.`,
+        `Para correr de dia no verão, vá à praia canina de Parnassia em Bloemendaal aan Zee, aberta a cães sem trela todo o ano.`,
+        `Não planeie um passeio nos Amsterdamse Waterleidingduinen: os cães estão totalmente proibidos ali (exceto de assistência). Use o Zuid-Kennemerland a norte, com trela.`,
+        `De comboio NS a partir de Amesterdão ou Haarlem: cães pequenos em saco grátis, cães maiores Dagkaart Hond de 3,70 euros válida todo o dia. Cão com trela a bordo.`,
+        `Veterinário em Zandvoort: Dierenkliniek Zandvoort, Gasthuisplein 9a (+31 23 571 58 47), dias de semana; urgências noturnas encaminhadas para um hospital 24 horas da zona de Amesterdão.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Depuis l'UE : puce ISO + passeport européen pour animaux + vaccin antirabique en cours. Les Pays-Bas sont dans l'espace Schengen, pas de contrôle aux frontières intérieures.`,
+        `Trains NS directs : Haarlem environ 10 min, Amsterdam Centraal environ 30 min avec un changement à Haarlem. Petits chiens en sac gratuits, grands chiens Dagkaart Hond 3,70 euros.`,
+        `Dans les rues de Zandvoort aan Zee, les chiens doivent être en laisse toute l'année, et une obligation de ramassage (opruimplicht) s'applique partout : ayez des sacs sur vous.`,
+        `L'aéroport de Schiphol (AMS) est à environ 30 min, avec un Sprinter direct jusqu'à Zandvoort en été. Certaines compagnies acceptent les chiens en cabine ou en soute.`,
+        `Les dunes et la plage n'offrent presque pas d'ombre et le vent de la mer du Nord peut être fort même en été : emportez de l'eau, surveillez les coups de chaud et rincez le sel après la plage.`,
+      ],
+      en: [
+        `From the EU: ISO microchip + EU pet passport + valid rabies vaccination. The Netherlands is in the Schengen area, so no internal border checks.`,
+        `Direct NS trains: Haarlem about 10 min, Amsterdam Centraal about 30 min with one change at Haarlem. Small dogs in a bag free, larger dogs a 3.70 euro Dagkaart Hond.`,
+        `In the streets of Zandvoort aan Zee, dogs must be on the lead all year, and a clean-up obligation (opruimplicht) applies everywhere: carry bags with you.`,
+        `Schiphol Airport (AMS) is about 30 min away, with a direct Sprinter to Zandvoort in summer. Some airlines accept dogs in cabin or hold.`,
+        `The dunes and beach offer almost no shade and the North Sea wind can be strong even in summer: carry water, watch for overheating and rinse off salt after the beach.`,
+      ],
+      es: [
+        `Desde la UE: microchip ISO + pasaporte europeo para animales + vacunación antirrábica vigente. Los Países Bajos están en el espacio Schengen, así que no hay controles fronterizos internos.`,
+        `Trenes NS directos: Haarlem unos 10 min, Ámsterdam Centraal unos 30 min con un transbordo en Haarlem. Perros pequeños en bolso gratis, perros grandes Dagkaart Hond de 3,70 euros.`,
+        `En las calles de Zandvoort aan Zee los perros deben ir con correa todo el año, y en todas partes rige la obligación de recoger (opruimplicht): lleva bolsas contigo.`,
+        `El aeropuerto de Schiphol (AMS) está a unos 30 min, con un Sprinter directo a Zandvoort en verano. Algunas aerolíneas admiten perros en cabina o bodega.`,
+        `Las dunas y la playa casi no tienen sombra y el viento del mar del Norte puede ser fuerte incluso en verano: lleva agua, vigila los golpes de calor y enjuaga la sal tras la playa.`,
+      ],
+      pt: [
+        `A partir da UE: microchip ISO + passaporte europeu para animais + vacinação antirrábica válida. Os Países Baixos estão no espaço Schengen, por isso não há controlos nas fronteiras internas.`,
+        `Comboios NS diretos: Haarlem cerca de 10 min, Amesterdão Centraal cerca de 30 min com um transbordo em Haarlem. Cães pequenos em saco grátis, cães maiores Dagkaart Hond de 3,70 euros.`,
+        `Nas ruas de Zandvoort aan Zee os cães têm de andar com trela todo o ano, e em todo o lado vigora a obrigação de recolher (opruimplicht): leve sacos consigo.`,
+        `O aeroporto de Schiphol (AMS) fica a cerca de 30 min, com um Sprinter direto para Zandvoort no verão. Algumas companhias aceitam cães em cabina ou porão.`,
+        `As dunas e a praia quase não têm sombra e o vento do mar do Norte pode ser forte mesmo no verão: leve água, vigie os golpes de calor e enxágue o sal depois da praia.`,
+      ],
+    },
+  },
+
   zaragoza: {
     history: {
       fr: `Zaragoza, fondée par les Romains en 14 av. J.-C. sous le nom de Caesaraugusta (d'où le nom moderne « Zaragoza »), traversa successivement les dominations wisigothique, omeyyade (Saraqusta) et chrétienne (reconquête en 1118 par Alphonse Ier d'Aragon). Capitale du royaume d'Aragon pendant cinq siècles, elle est aujourd'hui la cinquième ville d'Espagne (700 000 habitants) et un carrefour ferroviaire majeur entre Madrid et Barcelone. La Basílica del Pilar, double cathédrale baroque sur l'Èbre dédiée à la Vierge du Pilier, attire 5 millions de pèlerins par an et domine le Casco Histórico médiéval. Pour les voyageurs avec un chien, Zaragoza est l'une des destinations espagnoles les plus dog-friendly : 126 zones sans laisse municipales (l'une des densités les plus élevées d'Espagne), Parque Grande Labordeta de 27 hectares, longue promenade sans laisse le long des Riberas del Ebro, et l'hôpital vétérinaire de référence AniCura Emvet 24h/24.`,

@@ -42476,6 +42476,203 @@
     "petPolicyPt": "Caes bem-vindos por 10 EUR por noite. Gasthof austriaco tradicional com restaurante. Tigelas para animais disponiveis mediante pedido."
   },
   {
+    "id": "sanremo-1",
+    "name": "Royal Hotel Sanremo",
+    "destinationSlug": "sanremo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1377,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/royal-sanremo.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Spa & wellness centre"
+    ],
+    "slug": "royal-hotel-sanremo-sanremo"
+  },
+  {
+    "id": "sanremo-2",
+    "name": "Europa Palace",
+    "destinationSlug": "sanremo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 715,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/europa-sanremo.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Spa & wellness centre",
+      "Free WiFi"
+    ],
+    "slug": "europa-palace-sanremo"
+  },
+  {
+    "id": "sanremo-3",
+    "name": "Miramare The Palace Resort",
+    "destinationSlug": "sanremo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 1052,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/miramare-continental-palace.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "miramare-the-palace-resort-sanremo"
+  },
+  {
+    "id": "sanremo-4",
+    "name": "HomeHolidaySanremo - 2,0",
+    "destinationSlug": "sanremo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 41,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/homeholidaysanremo-2-0-city-centre-apartment.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking",
+      "Fast free WiFi (159 Mbps)",
+      "Family rooms"
+    ],
+    "slug": "homeholidaysanremo-2-0-sanremo"
+  },
+  {
+    "id": "sanremo-5",
+    "name": "Grand Hotel & des Anglais Spa",
+    "destinationSlug": "sanremo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 7.9,
+    "reviewCount": 2183,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/grand-des-anglais.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Spa & wellness centre",
+      "Free WiFi"
+    ],
+    "slug": "grand-hotel-des-anglais-spa-sanremo"
+  },
+  {
+    "id": "sanremo-6",
+    "name": "Grand Hotel De Londres",
+    "destinationSlug": "sanremo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.1,
+    "reviewCount": 4333,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/grand-de-londres.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "grand-hotel-de-londres-sanremo"
+  },
+  {
+    "id": "sanremo-7",
+    "name": "HomeholidaySanremo & Spa",
+    "destinationSlug": "sanremo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 33,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/homeholiday-classic-my-place-sanremo.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Fast free WiFi (129 Mbps)",
+      "Non-smoking rooms"
+    ],
+    "slug": "homeholidaysanremo-spa-sanremo"
+  },
+  {
+    "id": "sanremo-8",
+    "name": "InLuce Terrazza",
+    "destinationSlug": "sanremo",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.8,
+    "reviewCount": 58,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/it/lighty-flat-con-box-auto-privato.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "inluce-terrazza-sanremo"
+  },
+  {
     "id": "sant-antoni-1",
     "name": "TRS Ibiza Hotel - Adults Only",
     "destinationSlug": "sant-antoni",

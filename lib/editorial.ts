@@ -1437,6 +1437,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `year-round dog-friendly North Sands and Mill Bay, the dog-friendly ferries across the estuary, and the coast path to Bolt Head and Snapes Point`,
       area: `Fore Street and the Whitestrand waterfront, North Sands and South Sands, and the estuary crossing to East Portlemouth and Mill Bay`,
     },
+    woolacombe: {
+      personality: `a North Devon surf village on a magnificent three-mile Blue Flag beach, where dogs share the seafront, the National Trust headlands and a year-round dog stretch of sand, with beach access zoned and seasonal but easy to plan around`,
+      highlight: `the year-round dog-friendly sand south of Mill Rock and at Putsborough, the seafront esplanade and Mortehoe village, and the coast paths to Morte Point and Baggy Point`,
+      area: `the Woolacombe seafront and esplanade, the south end of the beach beyond Mill Rock down to Putsborough, and the hilltop village of Mortehoe`,
+    },
     salzburg: {
       personality: 'a compact Alpine city where Mozart-era architecture, rolling meadows, and the surrounding Salzkammergut mountains create a magical backdrop for pet travel',
       highlight: 'the Hellbrunn park, the Salzach riverside path, and the Kapuzinerberg hill trails',
@@ -3413,6 +3418,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `une ville de voile abritée du sud du Devon, à l'embouchure de l'estuaire de Kingsbridge, où les chiens partagent les pubs du bord de l'eau, les petits ferries et les chemins côtiers du National Trust, l'accès aux plages étant régi par des règles canines saisonnières faciles à anticiper`,
       highlight: `North Sands et Mill Bay ouvertes aux chiens toute l'année, les ferries acceptant les chiens qui traversent l'estuaire, et le chemin côtier vers Bolt Head et Snapes Point`,
       area: `Fore Street et le front de mer de Whitestrand, North Sands et South Sands, et la traversée de l'estuaire vers East Portlemouth et Mill Bay`,
+    },
+    woolacombe: {
+      personality: `un village de surf du North Devon sur une magnifique plage Blue Flag de trois miles, où les chiens partagent le front de mer, les caps du National Trust et une portion de sable ouverte aux chiens toute l'année, l'accès à la plage étant zoné et saisonnier mais facile à anticiper`,
+      highlight: `le sable ouvert aux chiens toute l'année au sud de Mill Rock et à Putsborough, l'esplanade du front de mer et le village de Mortehoe, et les chemins côtiers vers Morte Point et Baggy Point`,
+      area: `le front de mer et l'esplanade de Woolacombe, l'extrémité sud de la plage au-delà de Mill Rock jusqu'à Putsborough, et le village perché de Mortehoe`,
     },
     salzburg: {
       personality: 'une ville alpine compacte où l\'architecture de l\'époque Mozart, les prairies vallonnées et les montagnes du Salzkammergut environnantes créent un cadre magique pour les voyages avec animaux',
@@ -5391,6 +5401,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `North Sands y Mill Bay abiertas a los perros todo el año, los ferries que admiten perros al cruzar el estuario, y el camino costero hacia Bolt Head y Snapes Point`,
       area: `Fore Street y el paseo de Whitestrand, North Sands y South Sands, y el cruce del estuario hacia East Portlemouth y Mill Bay`,
     },
+    woolacombe: {
+      personality: `un pueblo surfero del norte de Devon en una magnífica playa Blue Flag de tres millas, donde los perros comparten el paseo marítimo, los cabos del National Trust y una franja de arena abierta a los perros todo el año, con un acceso a la playa por zonas y estacional pero fácil de planificar`,
+      highlight: `la arena abierta a los perros todo el año al sur de Mill Rock y en Putsborough, el paseo marítimo y el pueblo de Mortehoe, y los caminos costeros hacia Morte Point y Baggy Point`,
+      area: `el paseo marítimo y la explanada de Woolacombe, el extremo sur de la playa más allá de Mill Rock hasta Putsborough, y el pueblo en alto de Mortehoe`,
+    },
     salzburg: {
       personality: 'una compacta ciudad alpina donde la arquitectura de la época de Mozart, los prados ondulados y las montañas del Salzkammergut circundante crean un escenario mágico para viajar con mascotas',
       highlight: 'el parque de Hellbrunn, el sendero ribereño del Salzach y los senderos de la colina del Kapuzinerberg',
@@ -7367,6 +7382,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma vila de vela abrigada do sul do Devon, na foz do estuário de Kingsbridge, onde os cães partilham os pubs junto à água, os pequenos ferries e os caminhos costeiros do National Trust, com o acesso às praias regido por regras caninas sazonais fáceis de planear`,
       highlight: `North Sands e Mill Bay abertas aos cães todo o ano, os ferries que aceitam cães ao atravessar o estuário, e o caminho costeiro até Bolt Head e Snapes Point`,
       area: `a Fore Street e a marginal de Whitestrand, North Sands e South Sands, e a travessia do estuário até East Portlemouth e Mill Bay`,
+    },
+    woolacombe: {
+      personality: `uma vila de surf do norte do Devon numa magnífica praia Blue Flag de três milhas, onde os cães partilham a marginal, os promontórios do National Trust e uma faixa de areia aberta aos cães todo o ano, com o acesso à praia por zonas e sazonal mas fácil de planear`,
+      highlight: `a areia aberta aos cães todo o ano a sul de Mill Rock e em Putsborough, a marginal e a aldeia de Mortehoe, e os caminhos costeiros até Morte Point e Baggy Point`,
+      area: `a marginal e a esplanada de Woolacombe, o extremo sul da praia para lá de Mill Rock até Putsborough, e a aldeia no alto de Mortehoe`,
     },
     salzburg: {
       personality: 'uma compacta cidade alpina onde a arquitetura da época de Mozart, os prados ondulados e as montanhas do Salzkammergut circundante crean um escenario mágico para viajar com animais',

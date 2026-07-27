@@ -49323,6 +49323,143 @@ const cityContent: Record<string, CityContent> = {
       ],
     },
   },
+  woolacombe: {
+    history: {
+      fr: `Woolacombe, village de surf niché sur la côte nord-ouest du Devon face à l'Atlantique, doit sa renommée à une magnifique plage Blue Flag de trois miles adossée aux dunes, longtemps l'une des meilleures plages de surf d'Angleterre. Modeste hameau agricole devenu station balnéaire à l'époque victorienne, il reste aujourd'hui un lieu décontracté de surfeurs, de familles et de promeneurs. Pour un chien, Woolacombe est un bonheur atlantique : cafés de surf en bord de mer, longues étendues de sable et kilomètres de chemin côtier du National Trust vers Morte Point et Baggy Point. Le point à anticiper : les règles saisonnières des plages, zonées et fixées par le North Devon Council. L'extrémité nord de Woolacombe Sands est fermée aux chiens du Vendredi saint ou du 1er avril au 30 septembre, mais tout ce qui est au sud de Mill Rock, jusqu'à Putsborough, reste ouvert aux chiens toute l'année. Et depuis le Brexit, la Grande-Bretagne exige un Animal Health Certificate au lieu du passeport européen.`,
+      en: `Woolacombe, a surf village tucked on the north-west Devon coast facing the Atlantic, owes its fame to a magnificent three-mile Blue Flag beach backed by dunes, long rated among the best surf beaches in England. A modest farming hamlet that grew into a resort in Victorian times, it remains a laid-back place of surfers, families and walkers. For a dog, Woolacombe is an Atlantic delight: seafront surf cafes, long sweeps of sand, and miles of National Trust coast path out to Morte Point and Baggy Point. The thing to plan around is the zoned, seasonal beach dog rules set by North Devon Council. The north end of Woolacombe Sands is closed to dogs from Good Friday or 1 April to 30 September, but everything south of Mill Rock, down to Putsborough, stays open to dogs all year. And since Brexit, Great Britain requires a GB Animal Health Certificate instead of the EU pet passport.`,
+      es: `Woolacombe, un pueblo surfero encajado en la costa noroeste de Devon frente al Atlántico, debe su fama a una magnífica playa Blue Flag de tres millas respaldada por dunas, considerada durante mucho tiempo una de las mejores playas de surf de Inglaterra. De modesta aldea agrícola convertida en balneario en época victoriana, sigue siendo un lugar relajado de surfistas, familias y paseantes. Para un perro, Woolacombe es un placer atlántico: cafés de surf junto al mar, largas extensiones de arena y kilómetros de camino costero del National Trust hacia Morte Point y Baggy Point. Lo que hay que planificar son las normas estacionales de las playas, por zonas y fijadas por el North Devon Council. El extremo norte de Woolacombe Sands está cerrado a los perros desde el Viernes Santo o el 1 de abril hasta el 30 de septiembre, pero todo lo que queda al sur de Mill Rock, hasta Putsborough, sigue abierto a los perros todo el año. Y desde el Brexit, Gran Bretaña exige un Animal Health Certificate británico en lugar del pasaporte europeo.`,
+      pt: `Woolacombe, uma vila de surf encaixada na costa noroeste de Devon virada para o Atlântico, deve a sua fama a uma magnífica praia Blue Flag de três milhas apoiada por dunas, durante muito tempo considerada uma das melhores praias de surf de Inglaterra. De modesta aldeia agrícola tornada estância na época vitoriana, continua a ser um lugar descontraído de surfistas, famílias e caminhantes. Para um cão, Woolacombe é um prazer atlântico: cafés de surf junto ao mar, longas extensões de areia e quilómetros de caminho costeiro do National Trust até Morte Point e Baggy Point. O que há a planear são as regras sazonais das praias, por zonas e definidas pelo North Devon Council. O extremo norte de Woolacombe Sands está fechado aos cães desde a Sexta-feira Santa ou 1 de abril até 30 de setembro, mas tudo o que fica a sul de Mill Rock, até Putsborough, continua aberto aos cães todo o ano. E desde o Brexit, a Grã-Bretanha exige um Animal Health Certificate britânico em vez do passaporte europeu.`,
+    },
+    sights: [
+      {
+        name: 'Woolacombe Sands',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Magnifique plage Blue Flag de trois miles adossée aux dunes. Zonée : extrémité nord fermée aux chiens du 1er avril au 30 septembre, mais tout le sud de Mill Rock reste ouvert aux chiens toute l'année.`,
+          en: `A magnificent three-mile Blue Flag beach backed by dunes. Zoned: the north end is closed to dogs 1 April to 30 September, but everything south of Mill Rock stays open to dogs all year.`,
+          es: `Magnífica playa Blue Flag de tres millas respaldada por dunas. Por zonas: el extremo norte está cerrado a los perros del 1 de abril al 30 de septiembre, pero todo el sur de Mill Rock sigue abierto a los perros todo el año.`,
+          pt: `Magnífica praia Blue Flag de três milhas apoiada por dunas. Por zonas: o extremo norte está fechado aos cães de 1 de abril a 30 de setembro, mas todo o sul de Mill Rock continua aberto aos cães todo o ano.`,
+        },
+      },
+      {
+        name: 'Putsborough Sands',
+        emoji: '🐾',
+        petFriendly: true,
+        desc: {
+          fr: `Extrémité sud abritée de la même plage, sous Baggy Point. Sa zone principale reste ouverte aux chiens toute l'année : le choix estival sûr quand l'extrémité nord de Woolacombe est fermée.`,
+          en: `The sheltered southern end of the same beach, under Baggy Point. Its main zone stays open to dogs all year, the reliable summer choice when Woolacombe's north end is closed.`,
+          es: `El extremo sur resguardado de la misma playa, bajo Baggy Point. Su zona principal sigue abierta a los perros todo el año, la opción segura de verano cuando el extremo norte de Woolacombe está cerrado.`,
+          pt: `O extremo sul abrigado da mesma praia, sob Baggy Point. A sua zona principal continua aberta aos cães todo o ano, a escolha segura de verão quando o extremo norte de Woolacombe está fechado.`,
+        },
+      },
+      {
+        name: 'Barricane Beach',
+        emoji: '🐚',
+        petFriendly: true,
+        desc: {
+          fr: `Petite crique de coquillages entre les rochers, célèbre pour son kiosque à curry au coucher du soleil l'été. Chiens admis, en laisse quand le café saisonnier est là (env. mars-septembre).`,
+          en: `A tiny shell cove between the rocks, famous for its summer sunset curry kiosk. Dogs allowed, on a lead while the seasonal cafe is in place (roughly March to September).`,
+          es: `Una pequeña cala de conchas entre las rocas, famosa por su quiosco de curry al atardecer en verano. Perros admitidos, con correa cuando está el café de temporada (aprox. marzo-septiembre).`,
+          pt: `Uma pequena enseada de conchas entre as rochas, famosa pelo seu quiosque de caril ao pôr do sol no verão. Cães admitidos, à trela quando o café sazonal está presente (cerca de março a setembro).`,
+        },
+      },
+      {
+        name: 'Morte Point',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Cap escarpé du National Trust au-delà de Mortehoe, boucle d'environ quatre miles avec phoques gris et vues sur Lundy. Chiens en laisse près des falaises et du bétail.`,
+          en: `A rugged National Trust headland beyond Mortehoe, a roughly four-mile loop with grey seals and Lundy Island views. Keep dogs on a lead near cliffs and livestock.`,
+          es: `Escarpado cabo del National Trust más allá de Mortehoe, un bucle de unas cuatro millas con focas grises y vistas a la isla de Lundy. Perros con correa cerca de los acantilados y el ganado.`,
+          pt: `Escarpado promontório do National Trust para lá de Mortehoe, um circuito de cerca de quatro milhas com focas cinzentas e vistas para a ilha de Lundy. Cães à trela perto das falésias e do gado.`,
+        },
+      },
+      {
+        name: 'Baggy Point',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Cap herbeux du National Trust à l'extrémité sud de la baie, au-dessus de Croyde, avec un sentier aller-retour facile et de vastes vues. Plus doux que Morte Point ; chiens en laisse près des falaises.`,
+          en: `A grassy National Trust headland at the south end of the bay above Croyde, with an easy out-and-back path and huge views. Gentler than Morte Point; keep dogs on a lead near the cliffs.`,
+          es: `Cabo herboso del National Trust en el extremo sur de la bahía, sobre Croyde, con un sendero de ida y vuelta fácil y amplias vistas. Más suave que Morte Point; perros con correa cerca de los acantilados.`,
+          pt: `Promontório relvado do National Trust no extremo sul da baía, sobre Croyde, com um trilho de ida e volta fácil e vistas enormes. Mais suave que Morte Point; cães à trela perto das falésias.`,
+        },
+      },
+      {
+        name: 'Mortehoe Village',
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          fr: `Joli village côtier perché au-dessus de Woolacombe, avec église médiévale, deux pubs canins et le parking du National Trust, porte d'entrée des promenades de Morte Point.`,
+          en: `A pretty hilltop coastal village above Woolacombe, with a medieval church, two dog-friendly pubs and the National Trust car park, the gateway to the Morte Point walks.`,
+          es: `Un bonito pueblo costero en alto sobre Woolacombe, con iglesia medieval, dos pubs caninos y el aparcamiento del National Trust, puerta de acceso a los paseos de Morte Point.`,
+          pt: `Uma bonita aldeia costeira no alto sobre Woolacombe, com igreja medieval, dois pubs caninos e o parque do National Trust, porta de entrada dos passeios de Morte Point.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les plages sont zonées et saisonnières : l'extrémité nord de Woolacombe Sands interdit les chiens du Vendredi saint ou du 1er avril au 30 septembre, avec des amendes jusqu'à 100 livres (North Devon Council).`,
+        `Le sud de Woolacombe Sands au-delà de Mill Rock et la zone principale de Putsborough restent ouverts aux chiens toute l'année ; en été, misez sur eux plutôt que sur l'extrémité nord.`,
+        `Attention aux plages voisines : Combesgate interdit les chiens du 30 avril au 30 septembre et Croyde du 1er mai au 30 septembre.`,
+        `Sur les chemins du National Trust vers Morte Point et Baggy Point, gardez le chien en laisse près des falaises non clôturées et du bétail (moutons, vaches, poneys d'Exmoor).`,
+        `Pas de vétérinaire à Woolacombe : le plus proche est l'Argyll Veterinary Clinic à Ilfracombe (+44 1271 867711) ; urgence 24h/24 au Charter Veterinary Hospital de Barnstaple (+44 1271 371115).`,
+      ],
+      en: [
+        `Beaches are zoned and seasonal: the north end of Woolacombe Sands bans dogs from Good Friday or 1 April to 30 September, with fines of up to 100 pounds (North Devon Council).`,
+        `The south of Woolacombe Sands beyond Mill Rock and the main zone at Putsborough stay open to dogs all year; in summer, lean on these rather than the north end.`,
+        `Watch the neighbouring beaches: Combesgate bans dogs from 30 April to 30 September and Croyde from 1 May to 30 September.`,
+        `On the National Trust paths to Morte Point and Baggy Point, keep your dog on a lead near the unfenced cliffs and grazing livestock (sheep, cattle, Exmoor ponies).`,
+        `There is no vet in Woolacombe: the nearest is the Argyll Veterinary Clinic in Ilfracombe (+44 1271 867711); 24-hour emergency at the Charter Veterinary Hospital in Barnstaple (+44 1271 371115).`,
+      ],
+      es: [
+        `Las playas están por zonas y son estacionales: el extremo norte de Woolacombe Sands veta los perros desde el Viernes Santo o el 1 de abril hasta el 30 de septiembre, con multas de hasta 100 libras (North Devon Council).`,
+        `El sur de Woolacombe Sands más allá de Mill Rock y la zona principal de Putsborough siguen abiertos a los perros todo el año; en verano, apóyate en ellos y no en el extremo norte.`,
+        `Ojo con las playas vecinas: Combesgate veta los perros del 30 de abril al 30 de septiembre y Croyde del 1 de mayo al 30 de septiembre.`,
+        `En los caminos del National Trust hacia Morte Point y Baggy Point, manten al perro con correa cerca de los acantilados sin vallar y del ganado (ovejas, vacas, ponis de Exmoor).`,
+        `No hay veterinario en Woolacombe: el más cercano es la Argyll Veterinary Clinic en Ilfracombe (+44 1271 867711); urgencias 24 horas en el Charter Veterinary Hospital de Barnstaple (+44 1271 371115).`,
+      ],
+      pt: [
+        `As praias são por zonas e sazonais: o extremo norte de Woolacombe Sands proíbe os cães desde a Sexta-feira Santa ou 1 de abril até 30 de setembro, com multas de até 100 libras (North Devon Council).`,
+        `O sul de Woolacombe Sands para lá de Mill Rock e a zona principal de Putsborough continuam abertos aos cães todo o ano; no verão, aposte neles e não no extremo norte.`,
+        `Atenção às praias vizinhas: Combesgate proíbe os cães de 30 de abril a 30 de setembro e Croyde de 1 de maio a 30 de setembro.`,
+        `Nos caminhos do National Trust até Morte Point e Baggy Point, mantenha o cão à trela perto das falésias sem vedação e do gado (ovelhas, vacas, póneis de Exmoor).`,
+        `Não há veterinário em Woolacombe: o mais próximo é a Argyll Veterinary Clinic em Ilfracombe (+44 1271 867711); urgência 24 horas no Charter Veterinary Hospital em Barnstaple (+44 1271 371115).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), puce, vaccin antirabique et traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : pas de gare à Woolacombe ; Tarka Line jusqu'à Barnstaple puis bus Stagecoach 303 (chiens gratuits dans le train). Aéroport le plus proche : Exeter (EXT), environ 1h15 de route.`,
+        `Se déplacer : stationnement en bord de plage très limité l'été ; arrivez tôt ou utilisez les grands parkings au-dessus du village. Le bus Stagecoach 31 relie Woolacombe à Mortehoe et Ilfracombe.`,
+        `Météo : climat atlantique doux mais venteux ; hivers doux (8-9 °C), étés chauds sans excès (18 °C), houle et vent toute l'année. Fin de printemps et début d'automne idéaux ; dès octobre, toute la plage rouvre aux chiens.`,
+        `Numéros utiles : urgence générale 999 ou 112 ; véto le plus proche Argyll Veterinary Clinic, Ilfracombe +44 1271 867711 ; urgence 24h/24 Charter Veterinary Hospital, Barnstaple +44 1271 371115.`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: no station in Woolacombe; the Tarka Line to Barnstaple, then the Stagecoach 303 bus (dogs free on the train). Nearest airport is Exeter (EXT), about 1.25 hours by road.`,
+        `Getting around: beachfront parking is very limited in summer; arrive early or use the larger car parks above the village. The Stagecoach 31 bus links Woolacombe with Mortehoe and Ilfracombe.`,
+        `Weather: mild but breezy Atlantic climate; mild winters (8-9 C), warm but not hot summers (18 C), surf and wind all year. Late spring and early autumn are ideal; from October the whole beach reopens to dogs.`,
+        `Useful numbers: general emergency 999 or 112; nearest vet Argyll Veterinary Clinic, Ilfracombe +44 1271 867711; 24-hour emergency Charter Veterinary Hospital, Barnstaple +44 1271 371115.`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento contra la tenia 24 a 120 h antes de la llegada.`,
+        `Cómo llegar: no hay estación en Woolacombe; la Tarka Line hasta Barnstaple y luego el autobús Stagecoach 303 (perros gratis en el tren). Aeropuerto más cercano: Exeter (EXT), a 1,25 horas por carretera.`,
+        `Moverse: el aparcamiento frente a la playa es muy limitado en verano; llega temprano o usa los grandes aparcamientos sobre el pueblo. El autobús Stagecoach 31 une Woolacombe con Mortehoe e Ilfracombe.`,
+        `Tiempo: clima atlántico suave pero ventoso; inviernos suaves (8-9 C), veranos cálidos sin excesos (18 C), olas y viento todo el año. El final de la primavera y el principio del otoño son ideales; desde octubre toda la playa vuelve a abrir a los perros.`,
+        `Números útiles: emergencia general 999 o 112; veterinario más cercano Argyll Veterinary Clinic, Ilfracombe +44 1271 867711; urgencia 24 horas Charter Veterinary Hospital, Barnstaple +44 1271 371115.`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate britânico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia 24 a 120 h antes da chegada.`,
+        `Como chegar: não há estação em Woolacombe; a Tarka Line até Barnstaple e depois o autocarro Stagecoach 303 (cães grátis no comboio). Aeroporto mais próximo: Exeter (EXT), a cerca de 1,25 horas por estrada.`,
+        `Deslocar-se: o estacionamento junto à praia é muito limitado no verão; chegue cedo ou use os parques grandes acima da aldeia. O autocarro Stagecoach 31 liga Woolacombe a Mortehoe e Ilfracombe.`,
+        `Tempo: clima atlântico ameno mas ventoso; invernos suaves (8-9 C), verões quentes sem excessos (18 C), ondulação e vento todo o ano. O fim da primavera e o início do outono são ideais; a partir de outubro toda a praia reabre aos cães.`,
+        `Números úteis: emergência geral 999 ou 112; veterinário mais próximo Argyll Veterinary Clinic, Ilfracombe +44 1271 867711; urgência 24 horas Charter Veterinary Hospital, Barnstaple +44 1271 371115.`,
+      ],
+    },
+  },
+
   wroclaw: {
     history: {
       fr: `Wrocław, fondée vers l'an 1000 par la dynastie Piast et longtemps capitale de la Silésie, a traversé une histoire vertigineuse : tour à tour bohémienne, hongroise, autrichienne, prussienne, allemande sous le nom de Breslau, puis polonaise depuis 1945 après le déplacement frontalier d'après-guerre. Cette stratification se lit partout dans le tissu urbain : la place du marché médiévale (Rynek), l'une des plus vastes d'Europe, est encadrée d'hôtels particuliers gothiques, baroques et Art nouveau. La ville compte plus de 100 ponts qui enjambent l'Oder et ses affluents, d'où le surnom de « Venise polonaise ». Pour les propriétaires de chiens, Wrocław est une découverte : 12 km de berges piétonnes le long de l'Odra, le grand parc Szczytnicki (100 ha), un réseau dense de tramways acceptant les chiens gratuitement, et une culture café qui inclut l'animal sans hésiter. Les célèbres nains de bronze (krasnale) parsèment la vieille ville et sont devenus une chasse au trésor familiale, chiens compris.`,

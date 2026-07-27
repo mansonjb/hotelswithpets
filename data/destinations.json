@@ -28511,6 +28511,81 @@
     "iata": "MAN"
   },
   {
+    "slug": "woolacombe",
+    "name": "Woolacombe",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/woolacombe.jpg",
+    "intro": "A North Devon surf village on a magnificent three-mile Blue Flag beach, where dogs share the seafront, the National Trust headlands and the year-round dog stretch of sand. The beach dog rules are zoned and seasonal: the busy north end of Woolacombe Sands is closed to dogs from Good Friday or 1 April to 30 September, while everything south of Mill Rock, down to Putsborough, stays dog-friendly off-lead all year (North Devon Council PSPO, fines up to 100 pounds). There is no railway station, so most visitors arrive via Barnstaple and the Stagecoach 303 bus.",
+    "lat": 51.1729,
+    "lng": -4.2069,
+    "weather": {
+      "jan": {
+        "temp": 8,
+        "desc": "Mild, wet, windy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 8,
+        "desc": "Mild, breezy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool, brightening",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Mild, showery",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild, breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Warm, surf swell",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm, busy beach",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm, breezy",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild, golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Mild, showery",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 10,
+        "desc": "Mild, wet, windy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 9,
+        "desc": "Mild, wet, windy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "EXT"
+  },
+  {
     "slug": "wroclaw",
     "name": "Wroclaw",
     "country": "Poland",

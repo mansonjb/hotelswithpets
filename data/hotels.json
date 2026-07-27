@@ -58857,5 +58857,201 @@
       "Spa & wellness centre",
       "Beachfront"
     ]
+  },
+  {
+    "id": "woolacombe-1",
+    "name": "5, Sandleigh Apartment",
+    "destinationSlug": "woolacombe",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 21,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/5-sandleigh-apartment.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Beachfront",
+      "Free WiFi"
+    ],
+    "slug": "5-sandleigh-apartment-woolacombe"
+  },
+  {
+    "id": "woolacombe-2",
+    "name": "Sunset Beach",
+    "destinationSlug": "woolacombe",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.2,
+    "reviewCount": 14,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/sunset-beach-uk42994.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "sunset-beach-woolacombe"
+  },
+  {
+    "id": "woolacombe-3",
+    "name": "Southover Beach",
+    "destinationSlug": "woolacombe",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 65,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/southover-beach.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Beachfront",
+      "Free WiFi"
+    ],
+    "slug": "southover-beach-woolacombe"
+  },
+  {
+    "id": "woolacombe-4",
+    "name": "Soft Sands - Cottage",
+    "destinationSlug": "woolacombe",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/soft-sands-cottage.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "soft-sands-cottage-woolacombe"
+  },
+  {
+    "id": "woolacombe-5",
+    "name": "1 Little Beach",
+    "destinationSlug": "woolacombe",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/1-little-beach.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "1-little-beach-woolacombe"
+  },
+  {
+    "id": "woolacombe-6",
+    "name": "Azure Bay",
+    "destinationSlug": "woolacombe",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/azure-bay-woolacombe.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "azure-bay-woolacombe"
+  },
+  {
+    "id": "woolacombe-7",
+    "name": "Beachbreak",
+    "destinationSlug": "woolacombe",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/beachbreak-uk42996.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "beachbreak-woolacombe"
+  },
+  {
+    "id": "woolacombe-8",
+    "name": "The Penthouse",
+    "destinationSlug": "woolacombe",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-penthouse-woolacombe.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "the-penthouse-woolacombe"
   }
 ]

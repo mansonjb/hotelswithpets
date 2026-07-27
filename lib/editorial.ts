@@ -301,6 +301,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Bastioni sea-wall promenade, the Pineta di Maria Pia and the Maria Pia dog beach`,
       area: `Centro Storico, Lido di San Giovanni and the Maria Pia pine forest`,
     },
+    tenby: {
+      personality: `a medieval walled harbour town on the south Pembrokeshire coast where dogs share the coast path, the harbour pubs and the free Caldey Island boat trips, with three beaches governed by seasonal dog rules that are easy to plan around`,
+      highlight: `the year-round dog-friendly Penally end of South Beach, the Pembrokeshire Coast Path towards Penally, and the free Caldey Island boat trips`,
+      area: `the medieval town walls and harbour, Castle Hill above the beaches, and the Penally end of South Beach with its dunes`,
+    },
     tenerife: {
       personality: `a subtropical year-round island where dogs walk the palm-lined Costa Adeje and Los Cristianos seafront promenades in winter sun, splash at the Playa del Cabezo dog beach in El Médano, and cool off on the shaded laurel-forest trails of the Anaga rural park below volcanic Teide`,
       highlight: `Top dog spots are the designated Playa del Cabezo dog beach in El Médano, the long Costa Adeje coastal promenade, and the cool, shaded marked trails of the Parque Rural de Anaga`,
@@ -2284,6 +2289,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la promenade des Bastioni, la Pineta di Maria Pia et la dog beach de Maria Pia`,
       area: `le Centro Storico, le Lido di San Giovanni et la pinède de Maria Pia`,
     },
+    tenby: {
+      personality: `une ville portuaire médiévale fortifiée de la côte sud du Pembrokeshire où les chiens partagent le chemin côtier, les pubs du port et les excursions gratuites vers l'île de Caldey, avec trois plages régies par des règles canines saisonnières faciles à anticiper`,
+      highlight: `l'extrémité de South Beach côté Penally, ouverte aux chiens toute l'année, le Pembrokeshire Coast Path vers Penally, et les excursions en bateau vers l'île de Caldey acceptant les chiens`,
+      area: `les remparts médiévaux et le port, Castle Hill au-dessus des plages, et l'extrémité de South Beach côté Penally avec ses dunes`,
+    },
     tenerife: {
       personality: `une île subtropicale où l'on profite de l'extérieur toute l'année, où les chiens arpentent les promenades bordées de palmiers de Costa Adeje et Los Cristianos sous le soleil d'hiver, barbotent à la plage canine de Playa del Cabezo à El Médano, et se rafraîchissent sur les sentiers ombragés de la forêt de lauriers du parc rural d'Anaga, au pied du Teide volcanique`,
       highlight: `Les meilleurs coins pour chiens sont la plage canine désignée de Playa del Cabezo à El Médano, la longue promenade côtière de Costa Adeje et les sentiers balisés frais et ombragés du Parque Rural de Anaga`,
@@ -4266,6 +4276,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el paseo de las murallas (Bastioni), la Pineta di Maria Pia y la dog beach de Maria Pia`,
       area: `el Centro Storico, el Lido di San Giovanni y el pinar de Maria Pia`,
     },
+    tenby: {
+      personality: `una ciudad portuaria medieval amurallada en la costa sur de Pembrokeshire donde los perros comparten el camino costero, los pubs del puerto y las excursiones gratuitas en barco a la isla de Caldey, con tres playas regidas por normas caninas estacionales fáciles de planificar`,
+      highlight: `el extremo de South Beach hacia Penally, abierto a los perros todo el año, el Pembrokeshire Coast Path hacia Penally, y las excursiones en barco a la isla de Caldey que admiten perros`,
+      area: `las murallas medievales y el puerto, Castle Hill sobre las playas, y el extremo de South Beach hacia Penally con sus dunas`,
+    },
     tenerife: {
       personality: `una isla subtropical de vida al aire libre todo el año, donde los perros pasean por los paseos marítimos con palmeras de Costa Adeje y Los Cristianos al sol de invierno, chapotean en la playa canina de Playa del Cabezo en El Médano y se refrescan en los senderos sombreados de la laurisilva del parque rural de Anaga, bajo el volcánico Teide`,
       highlight: `Los mejores rincones perrunos son la playa canina señalizada de Playa del Cabezo en El Médano, el largo paseo costero de Costa Adeje y los senderos balizados, frescos y sombreados del Parque Rural de Anaga`,
@@ -6247,6 +6262,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma cidade amuralhada de ar catalão onde se passeia pelas muralhas pedonais (Bastioni), pela frente-mar do Lido di San Giovanni e até às dog beaches oficiais de Maria Pia e La Stalla`,
       highlight: `o passeio das muralhas (Bastioni), a Pineta di Maria Pia e a dog beach de Maria Pia`,
       area: `o Centro Storico, o Lido di San Giovanni e o pinhal de Maria Pia`,
+    },
+    tenby: {
+      personality: `uma cidade portuária medieval muralhada na costa sul de Pembrokeshire onde os cães partilham o caminho costeiro, os pubs do porto e os passeios gratuitos de barco à ilha de Caldey, com três praias regidas por regras caninas sazonais fáceis de planear`,
+      highlight: `a extremidade da South Beach do lado de Penally, aberta aos cães todo o ano, o Pembrokeshire Coast Path em direção a Penally, e os passeios de barco à ilha de Caldey que aceitam cães`,
+      area: `as muralhas medievais e o porto, o Castle Hill por cima das praias, e a extremidade da South Beach do lado de Penally com as suas dunas`,
     },
     tenerife: {
       personality: `uma ilha subtropical de vida ao ar livre o ano inteiro, onde os cães passeiam nos passeios marítimos com palmeiras de Costa Adeje e Los Cristianos ao sol de inverno, chapinham na praia canina da Playa del Cabezo em El Médano e refrescam-se nos trilhos sombreados da laurissilva do parque rural de Anaga, sob o vulcânico Teide`,

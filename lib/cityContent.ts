@@ -44007,6 +44007,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  tenby: {
+    history: {
+      fr: `Tenby, ou Dinbych-y-pysgod (« la petite forteresse des poissons ») en gallois, est une ville portuaire médiévale fortifiée sur la côte sud du Pembrokeshire. Ses remparts du XIIIe siècle, la porte des Five Arches et son port pastel de maisons géorgiennes en font l'une des villes fortifiées les mieux préservées du pays de Galles, prospère jadis grâce à la pêche puis, à l'époque victorienne, comme station balnéaire desservie par le chemin de fer. La ville s'enroule autour de trois plages, North Beach, Castle Beach et la longue South Beach, face à l'île monastique de Caldey. Pour un chien, Tenby est une base facile : chiens gratuits dans le train sur la West Wales Line, gratuits sur les bateaux vers Caldey, bienvenus dans les pubs du port et sur le Pembrokeshire Coast Path toute l'année. Le seul point à anticiper : les règles saisonnières des plages canines, fixées par le Pembrokeshire County Council du 1er mai au 30 septembre. Et depuis le Brexit, la Grande-Bretagne exige un Animal Health Certificate au lieu du passeport européen.`,
+      en: `Tenby, or Dinbych-y-pysgod ("the little fort of the fish") in Welsh, is a medieval walled harbour town on the south Pembrokeshire coast. Its 13th-century walls, the Five Arches gateway and a pastel harbour of Georgian houses make it one of the best-preserved walled towns in Wales, once prosperous through fishing and then, in Victorian times, as a seaside resort reached by the railway. The town wraps around three beaches, North Beach, Castle Beach and the long South Beach, looking out to the monastic Caldey Island. For a dog, Tenby is an easy base: dogs travel free on the train on the West Wales Line, free on the Caldey Island boats, and are welcome in the harbour pubs and on the Pembrokeshire Coast Path year-round. The one thing to plan around is the seasonal beach dog rules set by Pembrokeshire County Council from 1 May to 30 September. And since Brexit, Great Britain requires a GB Animal Health Certificate instead of the EU pet passport.`,
+      es: `Tenby, o Dinbych-y-pysgod ("la pequeña fortaleza de los peces") en galés, es una ciudad portuaria medieval amurallada en la costa sur de Pembrokeshire. Sus murallas del siglo XIII, la puerta de Five Arches y un puerto en tonos pastel de casas georgianas la convierten en una de las ciudades amuralladas mejor conservadas de Gales, próspera antaño por la pesca y luego, en época victoriana, como estación balnearia servida por el ferrocarril. La ciudad se enrosca en torno a tres playas, North Beach, Castle Beach y la larga South Beach, frente a la isla monástica de Caldey. Para un perro, Tenby es una base fácil: los perros viajan gratis en el tren por la West Wales Line, gratis en los barcos a Caldey, y son bienvenidos en los pubs del puerto y en el Pembrokeshire Coast Path todo el año. Lo único que hay que planificar son las normas estacionales de las playas caninas fijadas por el Pembrokeshire County Council del 1 de mayo al 30 de septiembre. Y desde el Brexit, Gran Bretaña exige un Animal Health Certificate británico en lugar del pasaporte europeo.`,
+      pt: `Tenby, ou Dinbych-y-pysgod ("a pequena fortaleza dos peixes") em galês, é uma cidade portuária medieval muralhada na costa sul de Pembrokeshire. As suas muralhas do século XIII, o portão de Five Arches e um porto em tons pastel de casas georgianas fazem dela uma das cidades muralhadas mais bem preservadas do País de Gales, outrora próspera pela pesca e depois, na época vitoriana, como estância balnear servida pelo caminho de ferro. A cidade enrola-se à volta de três praias, North Beach, Castle Beach e a longa South Beach, de frente para a ilha monástica de Caldey. Para um cão, Tenby é uma base fácil: os cães viajam grátis no comboio pela West Wales Line, grátis nos barcos para Caldey, e são bem-vindos nos pubs do porto e no Pembrokeshire Coast Path todo o ano. A única coisa a planear são as regras sazonais das praias caninas definidas pelo Pembrokeshire County Council de 1 de maio a 30 de setembro. E desde o Brexit, a Grã-Bretanha exige um Animal Health Certificate britânico em vez do passaporte europeu.`,
+    },
+    sights: [
+      {
+        name: 'South Beach (Penally end)',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La longue plage de sable pâle qui s'étire vers Penally, face à l'île de Caldey. L'extrémité côté Penally n'a aucune interdiction saisonnière et reste ouverte aux chiens toute l'année.`,
+          en: `The long pale-sand beach stretching towards Penally, facing Caldey Island. The Penally end has no seasonal ban and stays open to dogs all year.`,
+          es: `La larga playa de arena pálida que se extiende hacia Penally, frente a la isla de Caldey. El extremo hacia Penally no tiene veda estacional y sigue abierto a los perros todo el año.`,
+          pt: `A longa praia de areia pálida que se estende para Penally, de frente para a ilha de Caldey. A extremidade do lado de Penally não tem proibição sazonal e continua aberta aos cães todo o ano.`,
+        },
+      },
+      {
+        name: 'Castle Beach',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Crique abritée sous Castle Hill, face à St Catherine's Island, élue meilleure plage de Grande-Bretagne. Interdiction partielle 1er mai-30 septembre ; ouverte aux chiens hors saison et zones autorisées.`,
+          en: `A sheltered cove below Castle Hill facing St Catherine's Island, once voted Britain's best beach. Partial ban 1 May to 30 September; open to dogs off-season and in permitted areas.`,
+          es: `Cala resguardada bajo Castle Hill frente a St Catherine's Island, elegida mejor playa de Gran Bretaña. Veda parcial del 1 de mayo al 30 de septiembre; abierta a los perros fuera de temporada y en zonas permitidas.`,
+          pt: `Enseada abrigada por baixo de Castle Hill de frente para St Catherine's Island, eleita a melhor praia da Grã-Bretanha. Proibição parcial de 1 de maio a 30 de setembro; aberta aos cães fora de época e nas zonas permitidas.`,
+        },
+      },
+      {
+        name: 'North Beach',
+        emoji: '⚓',
+        petFriendly: false,
+        desc: {
+          fr: `La plage carte postale sous les maisons colorées du port, avec Goscar Rock. Interdiction totale aux chiens du 1er mai au 30 septembre ; ouverte du 1er octobre au 30 avril.`,
+          en: `The picture-postcard beach beneath the colourful harbour houses, with Goscar Rock. Total dog ban 1 May to 30 September; open to dogs 1 October to 30 April.`,
+          es: `La playa de postal bajo las casas coloridas del puerto, con Goscar Rock. Veda total de perros del 1 de mayo al 30 de septiembre; abierta del 1 de octubre al 30 de abril.`,
+          pt: `A praia de postal por baixo das casas coloridas do porto, com Goscar Rock. Proibição total de cães de 1 de maio a 30 de setembro; aberta de 1 de outubro a 30 de abril.`,
+        },
+      },
+      {
+        name: 'Pembrokeshire Coast Path',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Le chemin côtier quitte Tenby dans les deux sens, vers Penally et Saundersfoot, le long de falaises et de plages. Ouvert aux chiens toute l'année ; laisse près des falaises et du bétail.`,
+          en: `The coast path leaves Tenby in both directions, towards Penally and Saundersfoot, along cliffs and beaches. Open to dogs year-round; lead up near cliff edges and livestock.`,
+          es: `El camino costero sale de Tenby en ambos sentidos, hacia Penally y Saundersfoot, por acantilados y playas. Abierto a los perros todo el año; con correa cerca de los acantilados y el ganado.`,
+          pt: `O caminho costeiro sai de Tenby nos dois sentidos, para Penally e Saundersfoot, ao longo de falésias e praias. Aberto aos cães todo o ano; à trela perto das falésias e do gado.`,
+        },
+      },
+      {
+        name: 'Caldey Island Boat Trips',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          fr: `Petits bateaux depuis le port vers l'île monastique de Caldey, avec abbaye, plages et phare. Chiens bienvenus et gratuits, tenus en laisse à tout moment sur le bateau et l'île.`,
+          en: `Small boats from the harbour to the monastic Caldey Island, with an abbey, beaches and a lighthouse. Dogs welcome and free, kept on a lead at all times on the boat and island.`,
+          es: `Pequeños barcos desde el puerto a la isla monástica de Caldey, con abadía, playas y faro. Perros bienvenidos y gratis, con correa en todo momento en el barco y la isla.`,
+          pt: `Pequenos barcos desde o porto à ilha monástica de Caldey, com abadia, praias e farol. Cães bem-vindos e grátis, à trela a todo o momento no barco e na ilha.`,
+        },
+      },
+      {
+        name: 'Tenby Town Walls',
+        emoji: '🏯',
+        petFriendly: true,
+        desc: {
+          fr: `Les remparts médiévaux du XIIIe siècle, la porte des Five Arches et le dédale de ruelles de la vieille ville. Tout se visite en plein air avec un chien en laisse, toute l'année.`,
+          en: `The 13th-century medieval walls, the Five Arches gateway and the maze of old-town lanes. All outdoor, dog-friendly wandering on a lead, year-round.`,
+          es: `Las murallas medievales del siglo XIII, la puerta de Five Arches y el laberinto de callejuelas del casco antiguo. Todo paseo al aire libre apto para perros con correa, todo el año.`,
+          pt: `As muralhas medievais do século XIII, o portão de Five Arches e o labirinto de ruelas da cidade velha. Tudo passeio ao ar livre que aceita cães à trela, todo o ano.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les plages sont réglementées par saison du 1er mai au 30 septembre : North Beach est totalement interdite, Castle Beach et l'extrémité de South Beach côté ville partiellement. L'extrémité de South Beach côté Penally reste ouverte toute l'année.`,
+        `Les infractions peuvent entraîner une amende forfaitaire (rapportée à 75 livres) et jusqu'à 500 livres pour les infractions aux arrêtés ; le conseil a d'abord expérimenté des avertissements. Lisez toujours les panneaux à l'arrivée.`,
+        `Les chiens voyagent gratuitement dans le train (jusqu'à deux par voyageur, en laisse) et sur les bateaux vers l'île de Caldey ; la vieille ville fortifiée est piétonne et pentue.`,
+        `Sur le Pembrokeshire Coast Path, gardez le chien en laisse près des bords de falaise non clôturés et du bétail qui pâture.`,
+        `Véto de jour : Tenby Vets, Lower Park Road (+44 1834 842278) ; couverture plus large et garde via Fenton Vets à Pembroke Dock (+44 1437 762806).`,
+      ],
+      en: [
+        `Beaches are seasonally controlled from 1 May to 30 September: North Beach has a total ban, Castle Beach and the town end of South Beach a partial ban. The Penally end of South Beach stays open all year.`,
+        `Breaches can bring a fixed penalty notice (reported at 75 pounds) and up to 500 pounds for byelaw offences; the council has trialled warnings first. Always read the signs on arrival.`,
+        `Dogs travel free on the train (up to two per passenger, on a lead) and on the Caldey Island boats; the walled old town is pedestrian and steep.`,
+        `On the Pembrokeshire Coast Path, keep your dog on a lead near the unfenced cliff edges and grazing livestock.`,
+        `Daytime vet: Tenby Vets, Lower Park Road (+44 1834 842278); wider cover and out-of-hours via Fenton Vets at Pembroke Dock (+44 1437 762806).`,
+      ],
+      es: [
+        `Las playas están reguladas por temporada del 1 de mayo al 30 de septiembre: North Beach tiene veda total, Castle Beach y el extremo de South Beach hacia la ciudad veda parcial. El extremo de South Beach hacia Penally sigue abierto todo el año.`,
+        `Las infracciones pueden acarrear una multa fija (reportada en 75 libras) y hasta 500 libras por infracciones de ordenanza; el ayuntamiento ha ensayado avisos primero. Lee siempre los carteles al llegar.`,
+        `Los perros viajan gratis en el tren (hasta dos por pasajero, con correa) y en los barcos a la isla de Caldey; el casco antiguo amurallado es peatonal y empinado.`,
+        `En el Pembrokeshire Coast Path, manten al perro con correa cerca de los bordes del acantilado sin vallar y del ganado que pasta.`,
+        `Veterinario de día: Tenby Vets, Lower Park Road (+44 1834 842278); cobertura más amplia y guardia vía Fenton Vets en Pembroke Dock (+44 1437 762806).`,
+      ],
+      pt: [
+        `As praias são reguladas por época de 1 de maio a 30 de setembro: a North Beach tem proibição total, a Castle Beach e a extremidade da South Beach do lado da cidade proibição parcial. A extremidade da South Beach do lado de Penally continua aberta todo o ano.`,
+        `As infrações podem trazer uma multa fixa (reportada em 75 libras) e até 500 libras por infrações de postura; o município ensaiou avisos primeiro. Leia sempre as placas à chegada.`,
+        `Os cães viajam grátis no comboio (até dois por passageiro, à trela) e nos barcos para a ilha de Caldey; a cidade velha muralhada é pedonal e íngreme.`,
+        `No Pembrokeshire Coast Path, mantenha o cão à trela perto das bordas de falésia sem vedação e do gado que pasta.`,
+        `Veterinário de dia: Tenby Vets, Lower Park Road (+44 1834 842278); cobertura mais alargada e urgência via Fenton Vets em Pembroke Dock (+44 1437 762806).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), puce, vaccin antirabique et traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : train sur la West Wales Line via Whitland et Carmarthen jusqu'à la gare de Tenby (chiens gratuits). Aéroport le plus proche : Cardiff (CWL), à environ 2 h de route.`,
+        `Se déplacer : la vieille ville fortifiée est en grande partie piétonne ; laissez la voiture aux parkings en périphérie et marchez. Très fréquenté en juillet-août.`,
+        `Météo : climat océanique doux, plus humide et frais que la côte sud anglaise ; hivers doux (8 °C), étés chauds sans excès (18 °C). Printemps et automne idéaux hors interdictions de plage.`,
+        `Numéros utiles : urgence générale 999 ou 112 ; véto de jour Tenby Vets +44 1834 842278 ; Fenton Vets Pembroke Dock +44 1437 762806.`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: train on the West Wales Line via Whitland and Carmarthen to Tenby station (dogs free). Nearest airport is Cardiff (CWL), about 2 hours by road.`,
+        `Getting around: the walled old town is largely pedestrian; leave the car at the edge-of-town car parks and walk in. Very busy in July and August.`,
+        `Weather: mild oceanic climate, wetter and cooler than the English south coast; mild winters (8 C), warm but not hot summers (18 C). Spring and autumn are ideal, outside the beach bans.`,
+        `Useful numbers: general emergency 999 or 112; daytime vet Tenby Vets +44 1834 842278; Fenton Vets Pembroke Dock +44 1437 762806.`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento antitenia entre 24 y 120 horas antes de la llegada.`,
+        `Cómo llegar: tren por la West Wales Line vía Whitland y Carmarthen hasta la estación de Tenby (perros gratis). El aeropuerto más cercano es Cardiff (CWL), a unas 2 horas por carretera.`,
+        `Cómo moverse: el casco antiguo amurallado es en gran parte peatonal; deja el coche en los aparcamientos de las afueras y entra a pie. Muy concurrido en julio y agosto.`,
+        `Tiempo: clima oceánico suave, más húmedo y fresco que la costa sur inglesa; inviernos suaves (8 C), veranos cálidos sin excesos (18 C). Primavera y otoño ideales, fuera de las vedas de playa.`,
+        `Números útiles: emergencia general 999 o 112; veterinario de día Tenby Vets +44 1834 842278; Fenton Vets Pembroke Dock +44 1437 762806.`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate britânico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia entre 24 e 120 horas antes da chegada.`,
+        `Como chegar: comboio pela West Wales Line via Whitland e Carmarthen até à estação de Tenby (cães grátis). O aeroporto mais próximo é Cardiff (CWL), a cerca de 2 horas por estrada.`,
+        `Como se deslocar: a cidade velha muralhada é em grande parte pedonal; deixe o carro nos parques da periferia e entre a pé. Muito movimentada em julho e agosto.`,
+        `Tempo: clima oceânico ameno, mais húmido e fresco do que a costa sul inglesa; invernos amenos (8 C), verões quentes sem excessos (18 C). Primavera e outono ideais, fora das proibições de praia.`,
+        `Números úteis: emergência geral 999 ou 112; veterinário de dia Tenby Vets +44 1834 842278; Fenton Vets Pembroke Dock +44 1437 762806.`,
+      ],
+    },
+  },
+
   tenerife: {
     history: {
       fr: `Tenerife, la plus grande des îles Canaries, est un archipel espagnol au large du Maroc dont le climat subtropical en fait l'une des destinations soleil d'hiver phares d'Europe : 22 à 26 °C dans le sud même en janvier. L'île est dominée par le Teide (3 715 m), point culminant d'Espagne et volcan au cœur d'un parc national classé à l'UNESCO. Au nord, l'ancienne capitale La Laguna est également classée, tandis que le parc rural d'Anaga protège une forêt de lauriers reliques. Côté chiens, les Canaries faisant partie de l'Espagne et de l'UE, il n'y a aucune quarantaine : passeport européen, puce ISO et vaccin antirabique à jour suffisent. Le sud touristique, de Costa Adeje à Los Cristianos en passant par Playa de las Américas, concentre hôtels dog-friendly, promenades en bord de mer et cliniques anglophones, et la ville de kitesurf d'El Médano possède la plage canine de Playa del Cabezo. Un véritable hôpital vétérinaire 24h/24 à Santa Cruz complète le dispositif.`,

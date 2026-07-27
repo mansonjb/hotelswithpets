@@ -4094,6 +4094,33 @@
     "tiqetsId": "67582"
   },
   {
+    "slug": "bourton-on-the-water",
+    "name": "Bourton-on-the-Water",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bourton-on-the-water.jpg",
+    "intro": "Bourton-on-the-Water is the Venice of the Cotswolds, a honey-stone village where the shallow River Windrush runs straight down the main street under low footbridges and along a broad grassy green. It is one of the most dog-loving villages in the region, with pubs that keep a dog menu, near-level stile-free walks to the storybook villages of the Slaughters, the long-distance Warden's Way and the Greystones Farm nature reserve on its edge. On the footpaths keep dogs on a lead near livestock and ground-nesting birds.",
+    "lat": 51.8867,
+    "lng": -1.7583,
+    "weather": {
+      "jan": {"temp": 7, "desc": "Cold & damp", "icon": "🌧️"},
+      "feb": {"temp": 7, "desc": "Cold & frosty", "icon": "🌧️"},
+      "mar": {"temp": 10, "desc": "Cool & overcast", "icon": "🌦️"},
+      "apr": {"temp": 12, "desc": "Cool with showers", "icon": "🌦️"},
+      "may": {"temp": 15, "desc": "Mild & fresh", "icon": "⛅"},
+      "jun": {"temp": 18, "desc": "Mild & green", "icon": "🌤️"},
+      "jul": {"temp": 20, "desc": "Warm & pleasant", "icon": "🌤️"},
+      "aug": {"temp": 20, "desc": "Warm & pleasant", "icon": "🌤️"},
+      "sep": {"temp": 17, "desc": "Mild & fresh", "icon": "⛅"},
+      "oct": {"temp": 13, "desc": "Cool & damp", "icon": "🌦️"},
+      "nov": {"temp": 9, "desc": "Cold & wet", "icon": "🌧️"},
+      "dec": {"temp": 7, "desc": "Cold & damp", "icon": "🌧️"}
+    },
+    "iata": "BHX"
+  },
+  {
     "slug": "braga",
     "name": "Braga",
     "country": "Portugal",

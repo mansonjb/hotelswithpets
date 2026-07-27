@@ -1817,6 +1817,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Stock Ghyll Force waterfall walk, the rambling Loughrigg Fell, and the dog-friendly Windermere Lake Cruises from Waterhead`,
       area: `the Market Cross and its lanes, the Waterhead lakeshore, and the Rydal Water shore towards Grasmere`,
     },
+    'bourton-on-the-water': {
+      personality: `the "Venice of the Cotswolds", a honey-stone village where the shallow River Windrush runs down the main street under low bridges, dogs are welcome in most of the pubs and cafes, and near-level footpaths lead out to the storybook villages of the Slaughters`,
+      highlight: `the low stone bridges over the Windrush, the stile-free walk to Lower and Upper Slaughter, and the Greystones Farm nature reserve`,
+      area: `the riverside green and High Street, the Warden's Way towards the Slaughters, and the meadows of Greystones Farm`,
+    },
     bakewell: {
       personality: `a handsome limestone market town at the heart of the Peak District, where dogs are welcome across the dales and trails, in most of the town's pubs, and on a lead through Chatsworth's garden and vast parkland`,
       highlight: `the flat, traffic-free Monsal Trail and its famous viaduct, the riverside walk along the Wye, and the leashed dog walking across Chatsworth Park`,
@@ -3813,6 +3818,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `une belle ville de marche à la tête du lac Windermere dans le Lake District, où les chiens sont les bienvenus sur presque tous les fells et sentiers, voyagent gratuitement sur les Windermere Lake Cruises, et sont accueillis dans la plupart des pubs`,
       highlight: `la promenade de la cascade de Stock Ghyll Force, le fell vallonné de Loughrigg et les Windermere Lake Cruises depuis Waterhead qui acceptent les chiens`,
       area: `la Market Cross et ses ruelles, la rive de Waterhead et la rive de Rydal Water vers Grasmere`,
+    },
+    'bourton-on-the-water': {
+      personality: `la "Venise des Cotswolds", un village de pierre dorée où la Windrush peu profonde descend la rue principale sous de bas ponts, où les chiens sont les bienvenus dans la plupart des pubs et cafés, et d'où des sentiers presque plats mènent aux villages de conte des Slaughters`,
+      highlight: `les bas ponts de pierre sur la Windrush, la balade sans barrière vers Lower et Upper Slaughter, et la réserve naturelle de Greystones Farm`,
+      area: `la pelouse au bord de l'eau et la High Street, le Warden's Way vers les Slaughters, et les prairies de Greystones Farm`,
     },
     bakewell: {
       personality: `une jolie ville-marché de calcaire au cœur du Peak District, où les chiens sont les bienvenus dans les vallées et sur les sentiers, dans la plupart des pubs de la ville, et en laisse dans le jardin et le vaste parc de Chatsworth`,
@@ -5811,6 +5821,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el paseo de la cascada de Stock Ghyll Force, el ondulado Loughrigg Fell y los Windermere Lake Cruises desde Waterhead que admiten perros`,
       area: `la Market Cross y sus callejuelas, la orilla de Waterhead y la orilla de Rydal Water hacia Grasmere`,
     },
+    'bourton-on-the-water': {
+      personality: `la "Venecia de los Cotswolds", un pueblo de piedra dorada donde el poco profundo Windrush baja por la calle principal bajo bajos puentes, los perros son bienvenidos en la mayoría de los pubs y cafés, y de donde parten senderos casi llanos hacia los pueblos de cuento de los Slaughters`,
+      highlight: `los bajos puentes de piedra sobre el Windrush, el paseo sin portillas hacia Lower y Upper Slaughter, y la reserva natural de Greystones Farm`,
+      area: `la pradera junto al río y la High Street, el Warden's Way hacia los Slaughters, y los prados de Greystones Farm`,
+    },
     bakewell: {
       personality: `un bonito pueblo con mercado de piedra caliza en el corazón del Peak District, donde los perros son bienvenidos por los valles y senderos, en la mayoría de los pubs del pueblo, y con correa por el jardín y el vasto parque de Chatsworth`,
       highlight: `el llano y sin tráfico Monsal Trail y su famoso viaducto, el paseo junto al río Wye, y los paseos con correa por el parque de Chatsworth`,
@@ -7807,6 +7822,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma bela vila de caminhadas na cabeceira do lago Windermere no Lake District, onde os cães são bem-vindos em quase todos os fells e caminhos, viajam grátis nos Windermere Lake Cruises, e são acolhidos na maioria dos pubs`,
       highlight: `o passeio da cascata de Stock Ghyll Force, o ondulado Loughrigg Fell e os Windermere Lake Cruises a partir de Waterhead que aceitam cães`,
       area: `a Market Cross e as suas ruelas, a margem de Waterhead e a margem de Rydal Water em direção a Grasmere`,
+    },
+    'bourton-on-the-water': {
+      personality: `a "Veneza dos Cotswolds", uma aldeia de pedra dourada onde o pouco profundo Windrush desce pela rua principal sob baixas pontes, os cães são bem-vindos na maioria dos pubs e cafés, e de onde partem trilhos quase planos para as aldeias de conto dos Slaughters`,
+      highlight: `as baixas pontes de pedra sobre o Windrush, o passeio sem cancelas até Lower e Upper Slaughter, e a reserva natural de Greystones Farm`,
+      area: `o relvado junto ao rio e a High Street, o Warden's Way em direção aos Slaughters, e os prados de Greystones Farm`,
     },
     bakewell: {
       personality: `uma bonita vila de mercado de calcário no coração do Peak District, onde os cães são bem-vindos pelos vales e trilhos, na maioria dos pubs da vila, e à trela pelo jardim e vasto parque de Chatsworth`,

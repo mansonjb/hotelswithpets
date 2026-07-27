@@ -6821,6 +6821,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'bourton-on-the-water': {
+    history: {
+      fr: `Bourton-on-the-Water, surnommée la "Venise des Cotswolds", s'est développée le long de la rivière Windrush qui traverse le centre du village, enjambée par cinq bas ponts de pierre du XVIIIe siècle et bordée d'une large pelouse. Village de laine médiéval devenu haut lieu du tourisme des Cotswolds, il est bâti dans la pierre dorée typique de la région et reste l'un des villages les plus visités d'Angleterre. Une profonde culture canine britannique s'y ajoute : les chiens sont bienvenus dans la plupart des pubs et cafés, plusieurs proposant un menu pour chien, et des sentiers presque plats et sans barrière mènent aux villages de conte de Lower et Upper Slaughter. Le sentier de grande randonnée Warden's Way traverse le village, et la réserve de Greystones Farm borde sa lisière est. C'est une terre de travail : bétail en pâture, oiseaux nichant au sol au printemps. Note pratique : depuis le Brexit, un Animal Health Certificate britannique est exigé pour les chiens venant de l'UE.`,
+      en: `Bourton-on-the-Water, nicknamed the "Venice of the Cotswolds", grew up along the River Windrush that runs through the middle of the village, crossed by five low 18th-century stone bridges and lined with a broad grassy green. A medieval wool village turned Cotswold tourism landmark, it is built in the region's typical honey-coloured stone and remains one of the most visited villages in England. A deep British dog-walking culture sits on top: dogs are welcome in most of the pubs and cafes, several with a dog menu, and near-level, stile-free footpaths lead to the storybook villages of Lower and Upper Slaughter. The long-distance Warden's Way runs through the village, and the Greystones Farm nature reserve borders its eastern edge. This is a working landscape, with grazing cattle and ground-nesting birds in spring. One practical note: since Brexit, a GB Animal Health Certificate is required for dogs arriving from the EU.`,
+      es: `Bourton-on-the-Water, apodada la "Venecia de los Cotswolds", creció a lo largo del río Windrush que atraviesa el centro del pueblo, cruzado por cinco bajos puentes de piedra del siglo XVIII y flanqueado por una amplia pradera. Un pueblo lanero medieval convertido en referente turístico de los Cotswolds, está construido en la típica piedra dorada de la región y sigue siendo uno de los pueblos más visitados de Inglaterra. Encima se asienta una honda cultura británica de paseo canino: los perros son bienvenidos en la mayoría de los pubs y cafés, varios con menú canino, y senderos casi llanos y sin portillas llevan a los pueblos de cuento de Lower y Upper Slaughter. El sendero de gran recorrido Warden's Way atraviesa el pueblo, y la reserva de Greystones Farm limita con su borde este. Es un paisaje de trabajo, con ganado pastando y aves que anidan en el suelo en primavera. Una nota práctica: desde el Brexit, se exige un Animal Health Certificate británico para los perros que llegan de la UE.`,
+      pt: `Bourton-on-the-Water, apelidada a "Veneza dos Cotswolds", cresceu ao longo do rio Windrush que atravessa o centro da aldeia, cruzado por cinco baixas pontes de pedra do século XVIII e ladeado por um amplo relvado. Uma aldeia lanígera medieval tornada referência turística dos Cotswolds, é construída na típica pedra dourada da região e continua a ser uma das aldeias mais visitadas de Inglaterra. Por cima assenta uma profunda cultura britânica de passeio canino: os cães são bem-vindos na maioria dos pubs e cafés, vários com menu para cães, e trilhos quase planos e sem cancelas levam às aldeias de conto de Lower e Upper Slaughter. O trilho de grande rota Warden's Way atravessa a aldeia, e a reserva de Greystones Farm faz fronteira com a sua berma este. É uma paisagem de trabalho, com gado a pastar e aves que nidificam no solo na primavera. Uma nota prática: desde o Brexit, exige-se um Animal Health Certificate britânico para os cães que chegam da UE.`,
+    },
+    sights: [
+      {
+        name: 'The Low Bridges and Village Green',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Le cœur du village : la Windrush peu profonde sous cinq bas ponts de pierre, bordée d'une pelouse. Chiens en laisse ; venez tôt, très fréquenté en journée.`,
+          en: `The heart of the village: the shallow Windrush under five low stone bridges, lined by a green. Dogs on a lead; come early, very busy by day.`,
+          es: `El corazón del pueblo: el poco profundo Windrush bajo cinco bajos puentes de piedra, junto a una pradera. Perros con correa; ven temprano, muy concurrido de día.`,
+          pt: `O coração da aldeia: o pouco profundo Windrush sob cinco baixas pontes de pedra, ladeado por um relvado. Cães à trela; venha cedo, muito movimentado de dia.`,
+        },
+      },
+      {
+        name: 'The Slaughters Walk',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Circuit facile et sans barrière d'environ 8 à 10 km le long de la Windrush vers Lower et Upper Slaughter. Chiens en laisse près du bétail.`,
+          en: `An easy, stile-free circular of about 5 to 6 miles along the Windrush to Lower and Upper Slaughter. Dogs on a lead near livestock.`,
+          es: `Circuito fácil y sin portillas de unos 8 a 10 km a lo largo del Windrush hacia Lower y Upper Slaughter. Perros con correa cerca del ganado.`,
+          pt: `Circuito fácil e sem cancelas de cerca de 8 a 10 km ao longo do Windrush até Lower e Upper Slaughter. Cães à trela perto do gado.`,
+        },
+      },
+      {
+        name: 'Greystones Farm Nature Reserve',
+        emoji: '🦋',
+        petFriendly: true,
+        desc: {
+          fr: `Réserve gratuite du Wildlife Trust en bordure du village, ferme laitière et rivière Eye. Chiens en laisse courte de deux mètres du 1er mars au 31 juillet.`,
+          en: `A free Wildlife Trust reserve on the village edge, a dairy farm and the River Eye. Dogs on a short two-metre lead from 1 March to 31 July.`,
+          es: `Reserva gratuita del Wildlife Trust al borde del pueblo, granja lechera y río Eye. Perros con correa corta de dos metros del 1 mar al 31 jul.`,
+          pt: `Reserva gratuita do Wildlife Trust na berma da aldeia, quinta leiteira e rio Eye. Cães com trela curta de dois metros de 1 mar a 31 jul.`,
+        },
+      },
+      {
+        name: 'Cotswold Motoring Museum',
+        emoji: '🚗',
+        petFriendly: true,
+        desc: {
+          fr: `Musée de voitures anciennes et du personnage Brum, dans un vieux moulin. Rare attraction couverte où les chiens en laisse peuvent se promener avec leur maître.`,
+          en: `A vintage-car museum and home of the Brum character, in an old mill. A rare indoor attraction where dogs on a lead may walk round with owners.`,
+          es: `Museo de coches antiguos y del personaje Brum, en un viejo molino. Rara atracción cubierta donde los perros con correa pueden pasear con sus dueños.`,
+          pt: `Museu de carros antigos e do personagem Brum, num velho moinho. Rara atração coberta onde os cães à trela podem passear com os donos.`,
+        },
+      },
+      {
+        name: "Warden's Way",
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Sentier de grande randonnée d'environ 22 km reliant Bourton à Winchcombe par les Slaughters et Naunton. Chiens en laisse près du bétail et des nicheurs.`,
+          en: `A long-distance path of about 14 miles linking Bourton to Winchcombe via the Slaughters and Naunton. Dogs on a lead near livestock and nesting birds.`,
+          es: `Sendero de gran recorrido de unos 22 km que une Bourton con Winchcombe por los Slaughters y Naunton. Perros con correa cerca del ganado y las aves.`,
+          pt: `Trilho de grande rota de cerca de 22 km que liga Bourton a Winchcombe pelos Slaughters e Naunton. Cães à trela perto do gado e das aves.`,
+        },
+      },
+      {
+        name: 'The Model Village',
+        emoji: '🏘️',
+        petFriendly: false,
+        desc: {
+          fr: `Réplique à l'échelle 1:9 du village des années 1930, dans le jardin de l'Old New Inn. Seuls les chiens d'assistance sont admis ; les autres chiens ne peuvent entrer.`,
+          en: `A 1:9 scale replica of the 1930s village, in the garden of the Old New Inn. Only assistance dogs are allowed; other dogs cannot go in.`,
+          es: `Réplica a escala 1:9 del pueblo de los años treinta, en el jardín del Old New Inn. Solo se admiten perros de asistencia; los demás perros no pueden entrar.`,
+          pt: `Réplica à escala 1:9 da aldeia dos anos 1930, no jardim do Old New Inn. Só cães de assistência são admitidos; os restantes cães não podem entrar.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Bourton est l'un des villages les plus visités des Cotswolds : arrivez tôt ou hors saison, la pelouse au bord de l'eau se remplit vite et un chien craintif y sera plus tranquille.`,
+        `Certaines attractions acceptent les chiens et d'autres non : le Cotswold Motoring Museum les laisse entrer en laisse, mais le Model Village n'admet que les chiens d'assistance.`,
+        `Sur les sentiers, tenez le chien en laisse près des moutons et du bétail et, par la loi, en laisse courte de deux mètres du 1er mars au 31 juillet sur les terrains d'accès public.`,
+        `Les chiens voyagent gratuitement dans les trains National Rail (jusqu'à deux par voyageur, en laisse) ; les gares les plus proches sont Moreton-in-Marsh et Kingham sur la Cotswold Line.`,
+        `Pas de vétérinaire dans le village : les plus proches sont à Moreton-in-Marsh (Stow Veterinary Surgeons, +44 1451 830620) ; enregistrez le numéro, le signal mobile est capricieux dans la vallée.`,
+      ],
+      en: [
+        `Bourton is one of the most visited villages in the Cotswolds: arrive early or out of season, as the riverside green fills up fast and a nervous dog is happier then.`,
+        `Some attractions welcome dogs and some do not: the Cotswold Motoring Museum lets them in on a lead, but the Model Village allows only assistance dogs.`,
+        `On the footpaths keep the dog on a lead near sheep and cattle and, by law, on a short two-metre lead from 1 March to 31 July on open access land.`,
+        `Dogs travel free on National Rail trains (up to two per passenger, on a lead); the nearest stations are Moreton-in-Marsh and Kingham on the Cotswold Line.`,
+        `No vet in the village: the nearest are in Moreton-in-Marsh (Stow Veterinary Surgeons, +44 1451 830620); save the number, as mobile signal is patchy in the valley.`,
+      ],
+      es: [
+        `Bourton es uno de los pueblos más visitados de los Cotswolds: llega temprano o fuera de temporada, ya que la pradera junto al río se llena rápido y un perro nervioso estará más a gusto.`,
+        `Algunas atracciones admiten perros y otras no: el Cotswold Motoring Museum los deja entrar con correa, pero el Model Village solo admite perros de asistencia.`,
+        `En los senderos lleva al perro con correa cerca de ovejas y vacas y, por ley, con correa corta de dos metros del 1 de marzo al 31 de julio en terreno de acceso público.`,
+        `Los perros viajan gratis en los trenes de National Rail (hasta dos por pasajero, con correa); las estaciones más cercanas son Moreton-in-Marsh y Kingham en la Cotswold Line.`,
+        `Sin veterinario en el pueblo: los más cercanos están en Moreton-in-Marsh (Stow Veterinary Surgeons, +44 1451 830620); guarda el número, la cobertura es irregular en el valle.`,
+      ],
+      pt: [
+        `Bourton é uma das aldeias mais visitadas dos Cotswolds: chegue cedo ou fora de época, pois o relvado junto ao rio enche depressa e um cão nervoso fica mais à vontade.`,
+        `Algumas atrações aceitam cães e outras não: o Cotswold Motoring Museum deixa-os entrar à trela, mas a Model Village só admite cães de assistência.`,
+        `Nos trilhos mantenha o cão à trela perto de ovelhas e vacas e, por lei, com trela curta de dois metros de 1 de março a 31 de julho em terreno de acesso público.`,
+        `Os cães viajam grátis nos comboios da National Rail (até dois por passageiro, à trela); as estações mais próximas são Moreton-in-Marsh e Kingham na Cotswold Line.`,
+        `Sem veterinário na aldeia: os mais próximos ficam em Moreton-in-Marsh (Stow Veterinary Surgeons, +44 1451 830620); guarde o número, pois o sinal é irregular no vale.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), puce, vaccin antirabique et traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : ni aéroport ni gare à Bourton ; l'aéroport le plus proche est Birmingham (BHX), à environ une heure de route. Trains jusqu'à Moreton-in-Marsh ou Kingham puis bus ou taxi.`,
+        `Se déplacer : village compact à parcourir à pied ; bus locaux vers Moreton-in-Marsh, Stow-on-the-Wold et Cheltenham, acceptant un chien bien élevé à la discrétion du chauffeur.`,
+        `Météo : climat tempéré doux de l'intérieur ; étés doux et agréables (18-20 °C), hivers froids et humides (7 °C). Prévoyez imperméable et serviette pour chien toute l'année.`,
+        `Numéros utiles : urgence générale 999 ou 112 ; Stow Veterinary Surgeons, Moreton-in-Marsh, +44 1451 830620.`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: no airport or station in Bourton; the nearest airport is Birmingham (BHX), about an hour by road. Trains to Moreton-in-Marsh or Kingham, then a bus or taxi.`,
+        `Getting around: a compact village to walk on foot; local buses run to Moreton-in-Marsh, Stow-on-the-Wold and Cheltenham, taking a well-behaved dog at the driver's discretion.`,
+        `Weather: a mild temperate inland climate; mild, pleasant summers (18-20 C) and cold, wet winters (7 C). Pack a waterproof and a dog towel year-round.`,
+        `Useful numbers: general emergency 999 or 112; Stow Veterinary Surgeons, Moreton-in-Marsh, +44 1451 830620.`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento antitenia entre 24 y 120 horas antes de la llegada.`,
+        `Cómo llegar: sin aeropuerto ni estación en Bourton; el aeropuerto más cercano es Birmingham (BHX), a alrededor de una hora por carretera. Trenes hasta Moreton-in-Marsh o Kingham y luego bus o taxi.`,
+        `Cómo moverse: un pueblo compacto para recorrer a pie; los autobuses locales van a Moreton-in-Marsh, Stow-on-the-Wold y Cheltenham, admitiendo un perro bien educado a criterio del conductor.`,
+        `Tiempo: un clima templado suave de interior; veranos suaves y agradables (18-20 C) e inviernos fríos y húmedos (7 C). Lleva impermeable y toalla para el perro todo el año.`,
+        `Números útiles: emergencia general 999 o 112; Stow Veterinary Surgeons, Moreton-in-Marsh, +44 1451 830620.`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate britânico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia entre 24 e 120 horas antes da chegada.`,
+        `Como chegar: sem aeroporto nem estação em Bourton; o aeroporto mais próximo é Birmingham (BHX), a cerca de uma hora por estrada. Comboios até Moreton-in-Marsh ou Kingham e depois autocarro ou táxi.`,
+        `Como circular: uma aldeia compacta para percorrer a pé; os autocarros locais vão a Moreton-in-Marsh, Stow-on-the-Wold e Cheltenham, aceitando um cão bem-comportado ao critério do motorista.`,
+        `Tempo: um clima temperado ameno do interior; verões amenos e agradáveis (18-20 C) e invernos frios e húmidos (7 C). Leve impermeável e toalha para o cão todo o ano.`,
+        `Números úteis: emergência geral 999 ou 112; Stow Veterinary Surgeons, Moreton-in-Marsh, +44 1451 830620.`,
+      ],
+    },
+  },
+
   braga: {
     history: {
       en: `Braga is the oldest city in Portugal, founded as Bracara Augusta by the Romans in 16 BC and the seat of an archbishopric since the 4th century. For centuries known as the "Portuguese Rome" for its dense ecclesiastical heritage, today's Braga is also the country's youngest city by population: the Universidade do Minho campus brings 20,000+ students and a markedly progressive café and terrace culture. The historic core of granite squares, baroque churches and the UNESCO-listed Bom Jesus do Monte sanctuary sits within walking distance of the Cávado and Este rivers and the forested Serra do Carvalho. For pet visitors, the city is unusually relaxed: terraces routinely welcome dogs, two 24/7 veterinary hospitals serve the metro area, and the Peneda-Gerês National Park (Portugal's only national park) is 40 minutes east for off-leash hiking.`,

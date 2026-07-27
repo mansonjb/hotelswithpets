@@ -2961,6 +2961,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  bakewell: {
+    history: {
+      fr: `Bakewell, seule vraie ville-marché à l'intérieur du parc national du Peak District, s'est développée autour de son gué sur la rivière Wye, de son pont médiéval à cinq arches et de son marché hebdomadaire, obtenu par charte au XIIIe siècle. Réputée dans tout le pays pour le Bakewell pudding et la Bakewell tart, elle est aujourd'hui la base de marche du White Peak, ce pays de vallées calcaires et d'anciennes voies ferrées. Une profonde culture canine britannique s'y ajoute : les chiens sont admis dans la plupart des pubs, sur le plat Monsal Trail et son célèbre viaduc, et en laisse à travers le jardin et le vaste parc de Chatsworth, l'un des plus grands domaines seigneuriaux d'Angleterre. C'est une terre de travail : moutons et bétail partout, oiseaux nichant au sol au printemps. Note pratique : depuis le Brexit, un Animal Health Certificate britannique est exigé pour les chiens venant de l'UE.`,
+      en: `Bakewell, the only true market town inside the Peak District National Park, grew up around its ford on the River Wye, its five-arched medieval bridge and the weekly market it was granted by charter in the 13th century. Famous across the country for the Bakewell pudding and the Bakewell tart, it is today the walking base of the White Peak, that country of limestone dales and old railway trails. A deep British dog-walking culture sits on top: dogs are welcome in most of the pubs, on the flat Monsal Trail with its famous viaduct, and on a lead across the garden and vast parkland of Chatsworth, one of England's greatest stately-home estates. This is a working landscape, with sheep and cattle everywhere and ground-nesting birds in spring. One practical note: since Brexit, a GB Animal Health Certificate is required for dogs arriving from the EU.`,
+      es: `Bakewell, el único verdadero pueblo con mercado dentro del Parque Nacional del Peak District, creció en torno a su vado sobre el río Wye, su puente medieval de cinco arcos y el mercado semanal que le concedió una carta en el siglo XIII. Famoso en todo el país por el Bakewell pudding y la Bakewell tart, es hoy la base de senderismo del White Peak, ese país de valles calizos y antiguas vías de tren. Encima se asienta una honda cultura británica de paseo canino: los perros son bienvenidos en la mayoría de los pubs, en el llano Monsal Trail con su famoso viaducto, y con correa por el jardín y el vasto parque de Chatsworth, una de las mayores fincas señoriales de Inglaterra. Es un paisaje de trabajo, con ovejas y vacas por todas partes y aves que anidan en el suelo en primavera. Una nota práctica: desde el Brexit, se exige un Animal Health Certificate británico para los perros que llegan de la UE.`,
+      pt: `Bakewell, a única verdadeira vila de mercado dentro do Parque Nacional do Peak District, cresceu à volta do seu vau sobre o rio Wye, da sua ponte medieval de cinco arcos e do mercado semanal que lhe foi concedido por carta no século XIII. Famosa por todo o país pelo Bakewell pudding e pela Bakewell tart, é hoje a base de caminhadas do White Peak, esse país de vales calcários e antigas linhas de comboio. Por cima assenta uma profunda cultura britânica de passeio canino: os cães são bem-vindos na maioria dos pubs, no plano Monsal Trail com o seu famoso viaduto, e à trela pelo jardim e vasto parque de Chatsworth, uma das maiores propriedades senhoriais de Inglaterra. É uma paisagem de trabalho, com ovelhas e gado por todo o lado e aves que nidificam no solo na primavera. Uma nota prática: desde o Brexit, exige-se um Animal Health Certificate britânico para os cães que chegam da UE.`,
+    },
+    sights: [
+      {
+        name: 'Monsal Trail',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Sentier plat de 13,7 km sans circulation sur une ancienne voie ferrée, avec tunnels éclairés et le viaduc de Headstone. Chiens en laisse (cyclistes, tunnels).`,
+          en: `A flat, traffic-free 8.5-mile trail on a former railway line, with floodlit tunnels and the Headstone Viaduct. Dogs on a lead (cyclists, tunnels).`,
+          es: `Sendero llano de 13,7 km sin tráfico sobre una antigua vía de tren, con túneles iluminados y el viaducto de Headstone. Perros con correa (ciclistas, túneles).`,
+          pt: `Trilho plano de 13,7 km sem trânsito sobre uma antiga linha de comboio, com túneis iluminados e o viaduto de Headstone. Cães à trela (ciclistas, túneis).`,
+        },
+      },
+      {
+        name: 'Chatsworth Garden and Park',
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `Grand domaine à 5 km : chiens en laisse dans le jardin de 42 ha et le vaste parc. Chiens d'assistance seulement dans la maison, la ferme et l'aire de jeux.`,
+          en: `A great estate 3 miles away: dogs on a lead in the 105-acre garden and the vast park. Assistance dogs only in the house, farmyard and playground.`,
+          es: `Gran finca a 5 km: perros con correa en el jardín de 42 ha y el vasto parque. Solo perros de asistencia en la casa, la granja y el parque infantil.`,
+          pt: `Grande propriedade a 5 km: cães à trela no jardim de 42 ha e no vasto parque. Só cães de assistência na casa, na quinta e no parque infantil.`,
+        },
+      },
+      {
+        name: 'River Wye Riverside and Recreation Ground',
+        emoji: '🦆',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade plate au bord de la Wye devant le pont médiéval, à deux pas du centre. Chiens en laisse : lieu familial près de l'eau et des canards.`,
+          en: `A flat riverside walk along the Wye past the medieval bridge, steps from the centre. Dogs on a lead: family spot near the water and the ducks.`,
+          es: `Paseo llano junto a la Wye ante el puente medieval, a un paso del centro. Perros con correa: zona familiar cerca del agua y los patos.`,
+          pt: `Passeio plano junto ao Wye diante da ponte medieval, a passos do centro. Cães à trela: zona familiar perto da água e dos patos.`,
+        },
+      },
+      {
+        name: 'Monsal Head Viewpoint',
+        emoji: '🏞️',
+        petFriendly: true,
+        desc: {
+          fr: `Belvédère herbeux célèbre dominant la vallée de la Wye et les arches du viaduc. Chiens en laisse au point de vue et sur les sentiers vers la rivière.`,
+          en: `A famous grassy overlook above the Wye valley and the arches of the viaduct. Dogs on a lead at the viewpoint and on the paths down to the river.`,
+          es: `Famoso mirador herboso sobre el valle del Wye y los arcos del viaducto. Perros con correa en el mirador y en los senderos hacia el río.`,
+          pt: `Famoso miradouro relvado sobre o vale do Wye e os arcos do viaduto. Cães à trela no miradouro e nos trilhos que descem ao rio.`,
+        },
+      },
+      {
+        name: 'Ashford-in-the-Water and Sheepwash Bridge',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Village de calcaire à 3 km, connu pour le bas pont médiéval Sheepwash sur la Wye. Balade douce en laisse, combinable avec un retour au bord de l'eau.`,
+          en: `A limestone village 2 miles away, known for the low medieval Sheepwash Bridge over the Wye. A gentle walk on the lead, combined with a riverside return.`,
+          es: `Pueblo de piedra caliza a 3 km, conocido por el bajo puente medieval Sheepwash sobre el Wye. Paseo suave con correa, combinable con una vuelta junto al río.`,
+          pt: `Aldeia de calcário a 3 km, conhecida pela baixa ponte medieval Sheepwash sobre o Wye. Passeio suave à trela, combinável com um regresso junto ao rio.`,
+        },
+      },
+      {
+        name: 'Haddon Hall',
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `Manoir médiéval magnifiquement préservé au sud de Bakewell. Les chiens ne sont pas admis dans l'enceinte ; admirez-le depuis le sentier public le long de la Wye.`,
+          en: `A beautifully preserved medieval manor house south of Bakewell. Dogs are not allowed in the grounds; admire it from the public footpath along the Wye.`,
+          es: `Casa señorial medieval bellamente conservada al sur de Bakewell. No se admiten perros en el recinto; admírala desde el sendero público junto al Wye.`,
+          pt: `Casa senhorial medieval lindamente preservada a sul de Bakewell. Não são admitidos cães no recinto; admire-a a partir do trilho público junto ao Wye.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Tenez votre chien en laisse près des moutons, du bétail et des animaux en liberté du parc de Chatsworth, et près des oiseaux nichant au sol sur la lande au printemps et au début de l'été.`,
+        `Sur le Monsal Trail, gardez le chien en laisse : le sentier est partagé avec de nombreux cyclistes et traverse des tunnels sombres où le calme est plus sûr.`,
+        `Chatsworth accueille les chiens en laisse dans son jardin et son parc, mais Haddon Hall n'admet aucun chien ; planifiez en conséquence pour ne pas être bloqué à l'entrée.`,
+        `Les chiens voyagent gratuitement dans les trains National Rail (jusqu'à deux par voyageur, en laisse) ; les gares les plus proches sont Matlock, Grindleford et Hathersage, reliées par bus ou taxi.`,
+        `Vétérinaire : Bakewell Veterinary Clinic, Mill Street, assure un service d'urgence 24h/24 (+44 1629 812744) ; le signal mobile est capricieux dans les vallées, notez le numéro à l'avance.`,
+      ],
+      en: [
+        `Keep your dog on a lead near sheep, cattle and the free-roaming stock in Chatsworth Park, and near ground-nesting birds on the open moor in spring and early summer.`,
+        `On the Monsal Trail, keep the dog on a lead: the path is shared with many cyclists and runs through dark tunnels where calm is safer.`,
+        `Chatsworth welcomes leashed dogs across its garden and park, but Haddon Hall allows no dogs at all; plan around it so you are not turned away at the gate.`,
+        `Dogs travel free on National Rail trains (up to two per passenger, on a lead); the nearest stations are Matlock, Grindleford and Hathersage, reached by bus or taxi.`,
+        `Vet: Bakewell Veterinary Clinic on Mill Street runs a 24-hour emergency service (+44 1629 812744); mobile signal is patchy in the valleys, so save the number in advance.`,
+      ],
+      es: [
+        `Manten al perro con correa cerca de ovejas, vacas y el ganado en libertad del parque de Chatsworth, y cerca de las aves que anidan en el suelo del páramo en primavera y principios de verano.`,
+        `En el Monsal Trail, lleva al perro con correa: el sendero se comparte con muchos ciclistas y atraviesa túneles oscuros donde la calma es más segura.`,
+        `Chatsworth admite perros con correa por su jardín y parque, pero Haddon Hall no permite perros; planifícalo para que no te den la vuelta en la entrada.`,
+        `Los perros viajan gratis en los trenes de National Rail (hasta dos por pasajero, con correa); las estaciones más cercanas son Matlock, Grindleford y Hathersage, a las que se llega en autobús o taxi.`,
+        `Veterinario: Bakewell Veterinary Clinic, en Mill Street, ofrece urgencias 24 horas (+44 1629 812744); la cobertura es irregular en los valles, así que guarda el número con antelación.`,
+      ],
+      pt: [
+        `Mantenha o cão à trela perto de ovelhas, vacas e do gado em liberdade do parque de Chatsworth, e perto das aves que nidificam no solo da charneca na primavera e início do verão.`,
+        `No Monsal Trail, mantenha o cão à trela: o trilho é partilhado com muitos ciclistas e atravessa túneis escuros onde a calma é mais segura.`,
+        `Chatsworth aceita cães à trela pelo seu jardim e parque, mas Haddon Hall não permite cães; planeie em conformidade para não ser barrado à entrada.`,
+        `Os cães viajam grátis nos comboios da National Rail (até dois por passageiro, à trela); as estações mais próximas são Matlock, Grindleford e Hathersage, alcançadas de autocarro ou táxi.`,
+        `Veterinário: Bakewell Veterinary Clinic, na Mill Street, assegura urgência 24 horas (+44 1629 812744); o sinal é irregular nos vales, por isso guarde o número com antecedência.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), puce, vaccin antirabique et traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : ni aéroport ni gare à Bakewell ; l'aéroport le plus proche est Manchester (MAN), à environ une heure de route. Trains jusqu'à Matlock, Grindleford ou Hathersage puis bus ou taxi.`,
+        `Se déplacer : ville compacte à parcourir à pied ; bus locaux du Peak District vers Buxton, Matlock et Sheffield, acceptant un chien bien élevé à la discrétion du chauffeur.`,
+        `Météo : climat tempéré frais de l'intérieur ; étés doux et changeants (17-19 °C), hivers froids et humides (6 °C). Prévoyez imperméable et serviette pour chien toute l'année.`,
+        `Numéros utiles : urgence générale 999 ou 112 ; Bakewell Veterinary Clinic, service d'urgence 24h/24, +44 1629 812744.`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: no airport or station in Bakewell; the nearest airport is Manchester (MAN), about an hour by road. Trains to Matlock, Grindleford or Hathersage, then a bus or taxi.`,
+        `Getting around: a compact town to walk on foot; local Peak District buses run to Buxton, Matlock and Sheffield, taking a well-behaved dog at the driver's discretion.`,
+        `Weather: a cool temperate inland climate; mild, changeable summers (17-19 C) and cold, wet winters (6 C). Pack a waterproof and a dog towel year-round.`,
+        `Useful numbers: general emergency 999 or 112; Bakewell Veterinary Clinic 24-hour emergency service +44 1629 812744.`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento antitenia entre 24 y 120 horas antes de la llegada.`,
+        `Cómo llegar: sin aeropuerto ni estación en Bakewell; el aeropuerto más cercano es Mánchester (MAN), a alrededor de una hora por carretera. Trenes hasta Matlock, Grindleford o Hathersage y luego bus o taxi.`,
+        `Cómo moverse: un pueblo compacto para recorrer a pie; los autobuses locales del Peak District van a Buxton, Matlock y Sheffield, admitiendo un perro bien educado a criterio del conductor.`,
+        `Tiempo: un clima templado fresco de interior; veranos suaves y cambiantes (17-19 C) e inviernos fríos y húmedos (6 C). Lleva impermeable y toalla para el perro todo el año.`,
+        `Números útiles: emergencia general 999 o 112; Bakewell Veterinary Clinic, urgencias 24 horas, +44 1629 812744.`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate britânico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia entre 24 e 120 horas antes da chegada.`,
+        `Como chegar: sem aeroporto nem estação em Bakewell; o aeroporto mais próximo é Manchester (MAN), a cerca de uma hora por estrada. Comboios até Matlock, Grindleford ou Hathersage e depois autocarro ou táxi.`,
+        `Como circular: uma vila compacta para percorrer a pé; os autocarros locais do Peak District vão a Buxton, Matlock e Sheffield, aceitando um cão bem-comportado ao critério do motorista.`,
+        `Tempo: um clima temperado fresco do interior; verões amenos e variáveis (17-19 C) e invernos frios e húmidos (6 C). Leve impermeável e toalha para o cão todo o ano.`,
+        `Números úteis: emergência geral 999 ou 112; Bakewell Veterinary Clinic, urgência 24 horas, +44 1629 812744.`,
+      ],
+    },
+  },
+
   barcelona: {
     history: {
       fr: `Barcelone, fondée par les Romains sous le nom de Barcino vers 15 av. J.-C., est devenue au Moyen Âge la capitale de la Couronne d'Aragon, l'une des puissances maritimes majeures de la Méditerranée. La ville doit son visage actuel au visionnaire Ildefons Cerdà, dont le plan d'extension de 1860, l'Eixample, a créé ce quadrillage orthogonal caractéristique avec ses blocs arrondis et ses rues larges de 20 mètres. Gaudí a ensuite sculpté l'âme de la ville avec la Sagrada Família, le Parc Güell et la Casa Batlló. Aujourd'hui, Barcelone est l'une des villes d'Europe où le nombre d'animaux de compagnie croît le plus vite, et ses espaces verts et plages s'adaptent progressivement à cette réalité.`,

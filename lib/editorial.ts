@@ -1817,6 +1817,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Stock Ghyll Force waterfall walk, the rambling Loughrigg Fell, and the dog-friendly Windermere Lake Cruises from Waterhead`,
       area: `the Market Cross and its lanes, the Waterhead lakeshore, and the Rydal Water shore towards Grasmere`,
     },
+    bakewell: {
+      personality: `a handsome limestone market town at the heart of the Peak District, where dogs are welcome across the dales and trails, in most of the town's pubs, and on a lead through Chatsworth's garden and vast parkland`,
+      highlight: `the flat, traffic-free Monsal Trail and its famous viaduct, the riverside walk along the Wye, and the leashed dog walking across Chatsworth Park`,
+      area: `Rutland Square and the medieval bridge, the Monsal Trail towards Monsal Head, and the villages of Ashford-in-the-Water and Over Haddon`,
+    },
     keswick: {
       personality: `Britain's most dog-friendly town at the head of Derwentwater in the northern Lake District, where dogs are welcome on nearly every fell and footpath, travel free on the Keswick Launch boats, and are the norm in the pubs around the Market Square`,
       highlight: `the Friar's Crag lakeshore, the classic Catbells ridge, and the dog-friendly Keswick Launch on Derwentwater`,
@@ -3808,6 +3813,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `une belle ville de marche à la tête du lac Windermere dans le Lake District, où les chiens sont les bienvenus sur presque tous les fells et sentiers, voyagent gratuitement sur les Windermere Lake Cruises, et sont accueillis dans la plupart des pubs`,
       highlight: `la promenade de la cascade de Stock Ghyll Force, le fell vallonné de Loughrigg et les Windermere Lake Cruises depuis Waterhead qui acceptent les chiens`,
       area: `la Market Cross et ses ruelles, la rive de Waterhead et la rive de Rydal Water vers Grasmere`,
+    },
+    bakewell: {
+      personality: `une jolie ville-marché de calcaire au cœur du Peak District, où les chiens sont les bienvenus dans les vallées et sur les sentiers, dans la plupart des pubs de la ville, et en laisse dans le jardin et le vaste parc de Chatsworth`,
+      highlight: `le Monsal Trail plat et sans circulation et son célèbre viaduc, la promenade au bord de la Wye, et les balades en laisse à travers le parc de Chatsworth`,
+      area: `Rutland Square et le pont médiéval, le Monsal Trail vers Monsal Head, et les villages d'Ashford-in-the-Water et d'Over Haddon`,
     },
     keswick: {
       personality: `la ville la plus accueillante pour les chiens de Grande-Bretagne, au bord de Derwentwater dans le nord du Lake District, où les chiens sont les bienvenus sur presque tous les fells et sentiers, voyagent gratuitement sur les bateaux du Keswick Launch, et sont la norme dans les pubs autour de la place du marché`,
@@ -5801,6 +5811,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el paseo de la cascada de Stock Ghyll Force, el ondulado Loughrigg Fell y los Windermere Lake Cruises desde Waterhead que admiten perros`,
       area: `la Market Cross y sus callejuelas, la orilla de Waterhead y la orilla de Rydal Water hacia Grasmere`,
     },
+    bakewell: {
+      personality: `un bonito pueblo con mercado de piedra caliza en el corazón del Peak District, donde los perros son bienvenidos por los valles y senderos, en la mayoría de los pubs del pueblo, y con correa por el jardín y el vasto parque de Chatsworth`,
+      highlight: `el llano y sin tráfico Monsal Trail y su famoso viaducto, el paseo junto al río Wye, y los paseos con correa por el parque de Chatsworth`,
+      area: `Rutland Square y el puente medieval, el Monsal Trail hacia Monsal Head, y los pueblos de Ashford-in-the-Water y Over Haddon`,
+    },
     keswick: {
       personality: `la ciudad más acogedora para perros de Gran Bretaña, a orillas de Derwentwater en el norte del Lake District, donde los perros son bienvenidos en casi todos los fells y senderos, viajan gratis en los barcos del Keswick Launch, y son la norma en los pubs de la plaza del mercado`,
       highlight: `la orilla de Friar's Crag, la clásica cresta de Catbells y el Keswick Launch en Derwentwater que admite perros`,
@@ -7792,6 +7807,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma bela vila de caminhadas na cabeceira do lago Windermere no Lake District, onde os cães são bem-vindos em quase todos os fells e caminhos, viajam grátis nos Windermere Lake Cruises, e são acolhidos na maioria dos pubs`,
       highlight: `o passeio da cascata de Stock Ghyll Force, o ondulado Loughrigg Fell e os Windermere Lake Cruises a partir de Waterhead que aceitam cães`,
       area: `a Market Cross e as suas ruelas, a margem de Waterhead e a margem de Rydal Water em direção a Grasmere`,
+    },
+    bakewell: {
+      personality: `uma bonita vila de mercado de calcário no coração do Peak District, onde os cães são bem-vindos pelos vales e trilhos, na maioria dos pubs da vila, e à trela pelo jardim e vasto parque de Chatsworth`,
+      highlight: `o plano e sem trânsito Monsal Trail e o seu famoso viaduto, o passeio junto ao rio Wye, e os passeios à trela pelo parque de Chatsworth`,
+      area: `a Rutland Square e a ponte medieval, o Monsal Trail em direção a Monsal Head, e as aldeias de Ashford-in-the-Water e Over Haddon`,
     },
     keswick: {
       personality: `a cidade mais acolhedora para cães da Grã-Bretanha, à beira de Derwentwater no norte do Lake District, onde os cães são bem-vindos em quase todos os fells e caminhos, viajam grátis nos barcos do Keswick Launch, e são a norma nos pubs à volta da praça do mercado`,

@@ -1884,6 +1884,33 @@
     }
   },
   {
+    "slug": "bakewell",
+    "name": "Bakewell",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/bakewell.jpg",
+    "intro": "Bakewell is the little limestone capital of the Peak District, a walkers' market town where dogs come as standard. The flat, traffic-free Monsal Trail runs into town past its famous viaduct, the River Wye threads through the middle, and the great estates of Chatsworth and Haddon lie just down the valley, with leashed dogs welcome across Chatsworth's garden and parkland. This is working farmland, so keep dogs on a lead near livestock and ground-nesting birds.",
+    "lat": 53.213,
+    "lng": -1.6752,
+    "weather": {
+      "jan": {"temp": 6, "desc": "Cold & damp", "icon": "🌧️"},
+      "feb": {"temp": 6, "desc": "Cold & frosty", "icon": "🌧️"},
+      "mar": {"temp": 9, "desc": "Cool & overcast", "icon": "🌦️"},
+      "apr": {"temp": 11, "desc": "Cool with showers", "icon": "🌦️"},
+      "may": {"temp": 15, "desc": "Mild & fresh", "icon": "⛅"},
+      "jun": {"temp": 17, "desc": "Mild & green", "icon": "🌤️"},
+      "jul": {"temp": 19, "desc": "Warm & changeable", "icon": "🌤️"},
+      "aug": {"temp": 19, "desc": "Warm & changeable", "icon": "🌤️"},
+      "sep": {"temp": 16, "desc": "Mild & fresh", "icon": "⛅"},
+      "oct": {"temp": 12, "desc": "Cool & damp", "icon": "🌦️"},
+      "nov": {"temp": 8, "desc": "Cold & wet", "icon": "🌧️"},
+      "dec": {"temp": 6, "desc": "Cold & damp", "icon": "🌧️"}
+    },
+    "iata": "MAN"
+  },
+  {
     "slug": "barcelona",
     "name": "Barcelona",
     "country": "Spain",

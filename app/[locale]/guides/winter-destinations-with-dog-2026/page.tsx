@@ -1,9 +1,13 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import Image from 'next/image'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
 import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import { GuideFooter } from '../_components/GuideFooter'
+import hotels from '@/data/hotels.json'
+import { valueSort } from '@/lib/hotelSort'
+import { getLocalizedCityName } from '@/lib/cityNames'
 
 const SLUG = 'winter-destinations-with-dog-2026'
 const CAMPAIGN = 'winter-dog'
@@ -216,7 +220,7 @@ const THEMES: Theme[] = [
         tag: { en: 'Alhambra city · Sierra Nevada above', fr: 'Ville de l\'Alhambra · Sierra Nevada au-dessus', es: 'Ciudad de la Alhambra · Sierra Nevada arriba', pt: 'Cidade da Alhambra · Serra Nevada por cima' },
         why: {
           en: 'Granada offers the rare winter combination of a warm city and real snow within sight: crisp 7°C days in the Albaicín and free tapas on the terraces, with the Sierra Nevada ski resort forty minutes up the road. Dogs walk the Río Darro path and the Alhambra woods below the palace.',
-          fr: `Granada offre la rare combinaison hivernale d'une ville douce et de vraie neige en vue : des journées vives à 7°C dans l'Albaicín et des tapas offertes en terrasse, avec la station de ski de la Sierra Nevada à quarante minutes de route. Les chiens parcourent le chemin du Río Darro et les bois de l'Alhambra sous le palais.`,
+          fr: `Grenade offre la rare combinaison hivernale d'une ville douce et de vraie neige en vue : des journées vives à 7°C dans l'Albaicín et des tapas offertes en terrasse, avec la station de ski de la Sierra Nevada à quarante minutes de route. Les chiens parcourent le chemin du Río Darro et les bois de l'Alhambra sous le palais.`,
           es: 'Granada ofrece la rara combinación invernal de una ciudad templada y nieve de verdad a la vista: días frescos de 7°C en el Albaicín y tapas gratis en las terrazas, con la estación de esquí de Sierra Nevada a cuarenta minutos. Los perros recorren el paseo del Río Darro y los bosques de la Alhambra bajo el palacio.',
           pt: 'Granada oferece a rara combinação de inverno de uma cidade amena e neve a sério à vista: dias frescos de 7°C no Albaicín e tapas gratuitas nas esplanadas, com a estância de esqui da Serra Nevada a quarenta minutos. Os cães percorrem o caminho do Río Darro e os bosques da Alhambra por baixo do palácio.',
         },
@@ -230,6 +234,12 @@ const SIBLING_GUIDES = [
   { slug: 'christmas-markets-with-dog', emoji: '🎄', label: { en: 'Dog-friendly Christmas markets', fr: 'Marchés de Noël dog-friendly', es: 'Mercados navideños dog-friendly', pt: 'Mercados de Natal dog-friendly' } },
   { slug: 'escape-heat-dog-europe-2026', emoji: '🌡️', label: { en: 'Escape the summer heat with your dog', fr: 'Fuir la chaleur estivale avec son chien', es: 'Escapar del calor veraniego con tu perro', pt: 'Fugir do calor de verão com o seu cão' } },
 ]
+
+// Top 3 value-sorted pet-friendly hotels per featured destination, shown inline.
+const HOTELS_BY_DEST: Record<string, typeof hotels> = {}
+for (const slug of THEMES.flatMap((t) => t.destinations.map((d) => d.slug))) {
+  HOTELS_BY_DEST[slug] = valueSort(hotels.filter((h) => h.destinationSlug === slug)).slice(0, 3)
+}
 
 const T = {
   title: {
@@ -259,6 +269,9 @@ const T = {
   janTemp: { en: 'Jan avg high', fr: 'Max moy. janv.', es: 'Máx. prom. ene.', pt: 'Máx. méd. jan.' },
   seeHotels: { en: 'See pet-friendly hotels', fr: 'Voir les hôtels pet-friendly', es: 'Ver hoteles pet-friendly', pt: 'Ver hotéis pet-friendly' },
   seeGuide: { en: 'Destination guide', fr: 'Guide destination', es: 'Guía del destino', pt: 'Guia do destino' },
+  fromWord: { en: 'from', fr: 'dès', es: 'desde', pt: 'desde' },
+  noFee: { en: 'no pet fee', fr: 'sans supplément', es: 'sin cargo mascota', pt: 'sem suplemento' },
+  ourPicks: { en: '3 pet-friendly picks', fr: '3 adresses pet-friendly', es: '3 opciones pet-friendly', pt: '3 opções pet-friendly' },
   breadHome: { en: 'Home', fr: 'Accueil', es: 'Inicio', pt: 'Início' },
   breadGuides: { en: 'Guides', fr: 'Guides', es: 'Guías', pt: 'Guias' },
   kicker: { en: 'Winter & dogs', fr: 'Hiver & chien', es: 'Invierno & perro', pt: 'Inverno & cão' },
@@ -375,7 +388,7 @@ export default async function WinterDestinationsPage({
       '@type': 'ListItem',
       position: i + 1,
       url: `${SITE_URL}/${locale}/destinations/${d.slug}`,
-      name: d.name,
+      name: getLocalizedCityName(d.slug, d.name, locale),
     })),
   }
 
@@ -451,22 +464,62 @@ export default async function WinterDestinationsPage({
               {theme.destinations.map((dest) => (
                 <div
                   key={dest.slug}
-                  className="bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow"
+                  className="bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow overflow-hidden"
                 >
-                  <div className="p-5 sm:p-6">
-                    <div className="flex items-start justify-between gap-4 mb-3">
-                      <div>
-                        <h3 className="text-xl font-extrabold text-gray-900">{dest.name}</h3>
-                        <div className="inline-flex items-center gap-1 bg-cyan-50 text-cyan-700 text-xs font-semibold px-2.5 py-1 rounded-full mt-1">
-                          {p(dest.tag, locale)}
-                        </div>
-                      </div>
-                      <div className="flex-shrink-0 text-right">
-                        <div className="text-2xl font-black text-cyan-600">{dest.janTemp}°C</div>
-                        <div className="text-xs text-gray-500">{p(T.janTemp, locale)}</div>
+                  <div className="relative h-40 sm:h-52">
+                    <Image
+                      src={`/images/destinations/${dest.slug}.jpg`}
+                      alt={getLocalizedCityName(dest.slug, dest.name, locale)}
+                      fill
+                      sizes="(max-width: 768px) 100vw, 720px"
+                      className="object-cover"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/65 via-black/10 to-transparent" />
+                    <div className="absolute bottom-0 inset-x-0 p-4 sm:p-5 flex items-end justify-between gap-3">
+                      <h3 className="text-white text-xl sm:text-2xl font-extrabold drop-shadow-sm">{getLocalizedCityName(dest.slug, dest.name, locale)}</h3>
+                      <div className="flex-shrink-0 text-right text-white">
+                        <div className="text-2xl font-black leading-none drop-shadow-sm">{dest.janTemp}°C</div>
+                        <div className="text-[11px] text-white/85">{p(T.janTemp, locale)}</div>
                       </div>
                     </div>
+                  </div>
+                  <div className="p-5 sm:p-6">
+                    <div className="inline-flex items-center gap-1 bg-cyan-50 text-cyan-700 text-xs font-semibold px-2.5 py-1 rounded-full mb-3">
+                      {p(dest.tag, locale)}
+                    </div>
                     <p className="text-gray-700 text-sm leading-relaxed mb-4">{p(dest.why, locale)}</p>
+                    {(HOTELS_BY_DEST[dest.slug] ?? []).length > 0 && (
+                      <div className="mb-4">
+                        <div className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">{p(T.ourPicks, locale)}</div>
+                        <div className="rounded-xl border border-gray-100 overflow-hidden divide-y divide-gray-100">
+                          {(HOTELS_BY_DEST[dest.slug] ?? []).map((h) => (
+                            <Link
+                              key={h.slug}
+                              href={`/${locale}/hotels/${h.slug}`}
+                              className="flex items-center gap-3 px-3 py-2.5 hover:bg-cyan-50/60 transition-colors"
+                            >
+                              <Image
+                                src={`/images/hotels/${h.id}.jpg`}
+                                alt={h.name}
+                                width={64}
+                                height={48}
+                                className="w-16 h-12 rounded-lg object-cover flex-shrink-0 bg-gray-100"
+                              />
+                              <span className="min-w-0 flex-1">
+                                <span className="block text-sm font-semibold text-gray-900 truncate">{h.name}</span>
+                                <span className="block text-xs text-gray-500">
+                                  {'★'.repeat(h.stars || 0)} · {h.rating.toFixed(1)}/10{h.petFee === 0 ? ` · ${p(T.noFee, locale)}` : ''}
+                                </span>
+                              </span>
+                              <span className="flex-shrink-0 text-right">
+                                <span className="block text-[11px] text-gray-400">{p(T.fromWord, locale)}</span>
+                                <span className="block text-sm font-bold text-gray-900">{h.currency === 'GBP' ? '£' : '€'}{h.priceFrom}</span>
+                              </span>
+                            </Link>
+                          ))}
+                        </div>
+                      </div>
+                    )}
                     <div className="flex flex-wrap gap-3">
                       <a
                         href={buildAllezDestLink(dest.name, dest.country, `${CAMPAIGN}-${dest.slug}`, 3)}

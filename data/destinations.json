@@ -12568,6 +12568,81 @@
     "iata": "EFL"
   },
   {
+    "slug": "keswick",
+    "name": "Keswick",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/keswick.jpg",
+    "intro": "Britain's most dog-friendly town by the Kennel Club's own award, at the northern head of the Lake District on the shore of Derwentwater. Dogs are welcome on almost every fell and footpath, from the easy Friar's Crag lakeshore and the airy Catbells ridge to the panoramic little summit of Latrigg, and they travel free on the Keswick Launch boats around the lake. Most of the pubs around the Market Square welcome dogs in the bar with a water bowl and a jar of treats, and the National Trust shore at Calfclose Bay is a favourite for a summer paddle.",
+    "lat": 54.6013,
+    "lng": -3.1347,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold, wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold, damp",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool, showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Spring showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Mild, greening",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Warm, changeable",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Warm, frequent rain",
+        "icon": "🌦️"
+      },
+      "aug": {
+        "temp": 17,
+        "desc": "Warm, wet spells",
+        "icon": "🌦️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Cool, golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Wet, leafy",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cold, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cold, wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "MAN"
+  },
+  {
     "slug": "kitzbuehel",
     "name": "Kitzbühel",
     "country": "Austria",

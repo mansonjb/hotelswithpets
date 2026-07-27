@@ -21350,6 +21350,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  keswick: {
+    history: {
+      fr: `Keswick, petite ville de marché au nord du Lake District, s'est développée autour de l'exploitation du graphite dès le XVIe siècle, à l'origine de son industrie du crayon toujours célébrée au Derwent Pencil Museum. Blottie entre le massif du Skiddaw et la rive de Derwentwater, elle est devenue au XIXe siècle un haut lieu du tourisme romantique, célébrée par les poètes lakistes comme Coleridge et Southey. Aujourd'hui, Keswick vit du plein air et d'une culture canine profonde : le Kennel Club l'a désignée ville la plus accueillante pour les chiens de Grande-Bretagne. Les chiens sont admis sur presque tous les fells et sentiers, voyagent gratuitement sur les bateaux du Keswick Launch et sont accueillis par défaut dans les pubs autour de la place du marché. La marche est la raison de venir, de la douce rive de Friar's Crag à la crête aérienne de Catbells. Note pratique : depuis le Brexit, un Animal Health Certificate britannique est exigé pour les chiens venant de l'UE.`,
+      en: `Keswick, a small market town at the northern end of the Lake District, grew up around graphite mining from the 16th century, the root of the pencil industry still celebrated at the Derwent Pencil Museum. Cradled between the Skiddaw massif and the shore of Derwentwater, it became a magnet for Romantic tourism in the 19th century, praised by Lake Poets such as Coleridge and Southey. Today Keswick lives on the outdoors and a deep dog-walking culture: the Kennel Club named it Britain's most dog-friendly town. Dogs are welcome on nearly every fell and footpath, travel free on the Keswick Launch boats, and are welcomed by default in the pubs around the Market Square. Walking is the reason to come, from the gentle Friar's Crag lakeshore to the airy Catbells ridge. One practical note: since Brexit, a GB Animal Health Certificate is required for dogs arriving from the EU.`,
+      es: `Keswick, una pequeña ciudad de mercado en el extremo norte del Lake District, creció en torno a la minería de grafito desde el siglo XVI, origen de la industria del lápiz que aún celebra el Derwent Pencil Museum. Acunada entre el macizo del Skiddaw y la orilla de Derwentwater, se convirtió en un imán del turismo romántico en el siglo XIX, alabada por los poetas lakistas como Coleridge y Southey. Hoy Keswick vive del aire libre y de una honda cultura de paseo canino: el Kennel Club la nombró la ciudad más acogedora para perros de Gran Bretaña. Los perros son bienvenidos en casi todos los fells y senderos, viajan gratis en los barcos del Keswick Launch y se les recibe por defecto en los pubs de la plaza del mercado. Caminar es la razón de venir, desde la suave orilla de Friar's Crag hasta la aérea cresta de Catbells. Una nota práctica: desde el Brexit, se exige un Animal Health Certificate británico para los perros que llegan de la UE.`,
+      pt: `Keswick, uma pequena vila de mercado no extremo norte do Lake District, cresceu à volta da mineração de grafite desde o século XVI, origem da indústria do lápis ainda celebrada no Derwent Pencil Museum. Aninhada entre o maciço do Skiddaw e a margem de Derwentwater, tornou-se um íman do turismo romântico no século XIX, elogiada pelos poetas lakistas como Coleridge e Southey. Hoje Keswick vive do ar livre e de uma profunda cultura de passeio canino: o Kennel Club nomeou-a a cidade mais acolhedora para cães da Grã-Bretanha. Os cães são bem-vindos em quase todos os fells e caminhos, viajam grátis nos barcos do Keswick Launch e são recebidos por defeito nos pubs à volta da praça do mercado. Caminhar é a razão para vir, da suave margem de Friar's Crag à arejada crista de Catbells. Uma nota prática: desde o Brexit, exige-se um Animal Health Certificate britânico para os cães que chegam da UE.`,
+    },
+    sights: [
+      {
+        name: `Friar's Crag`,
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade plate et facile de quinze minutes depuis la place du marché jusqu'à l'une des vues les plus peintes d'Angleterre sur Derwentwater. Chiens en laisse (canards et route à proximité).`,
+          en: `A flat, easy fifteen-minute stroll from the Market Square to one of the most-painted views in England over Derwentwater. Dogs on a lead (waterfowl and road nearby).`,
+          es: `Un paseo llano y fácil de quince minutos desde la plaza del mercado hasta una de las vistas más pintadas de Inglaterra sobre Derwentwater. Perros con correa (aves acuáticas y carretera cerca).`,
+          pt: `Um passeio plano e fácil de quinze minutos desde a praça do mercado até uma das vistas mais pintadas de Inglaterra sobre Derwentwater. Cães à trela (aves aquáticas e estrada por perto).`,
+        },
+      },
+      {
+        name: 'Catbells',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Le petit fell le plus aimé du Lake District, une boucle d'environ 5,6 km avec quelques passages rocheux faciles et d'immenses vues sur Derwentwater. Chiens sans laisse sous contrôle, en laisse près des moutons.`,
+          en: `The best-loved small fell in the Lakes, a roughly 5.6 km round with a few easy rocky scrambles and huge views over Derwentwater. Dogs off-lead under control, on the lead near sheep.`,
+          es: `El pequeño fell más querido del Lake District, un circuito de unos 5,6 km con algunas trepadas rocosas fáciles y enormes vistas sobre Derwentwater. Perros sin correa bajo control, con correa cerca de las ovejas.`,
+          pt: `O pequeno fell mais amado do Lake District, um circuito de cerca de 5,6 km com algumas escaladas rochosas fáceis e vistas enormes sobre Derwentwater. Cães sem trela sob controlo, à trela perto das ovelhas.`,
+        },
+      },
+      {
+        name: 'Latrigg',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Le doux fell herbeux juste au-dessus de Keswick, la plus belle vue du nord des Lakes pour le moindre effort. Départ possible du parking de Gale Road pour un court aller-retour.`,
+          en: `The gentle grassy fell right above Keswick, the biggest view in the northern Lakes for the least effort. Start from the Gale Road car park for a short there-and-back.`,
+          es: `El suave fell herboso justo por encima de Keswick, la mejor vista del norte de los Lakes con el mínimo esfuerzo. Salida posible del aparcamiento de Gale Road para un corto ida y vuelta.`,
+          pt: `O suave fell relvado mesmo acima de Keswick, a melhor vista do norte dos Lakes com o mínimo esforço. Partida possível do parque de Gale Road para um curto ida e volta.`,
+        },
+      },
+      {
+        name: 'Keswick Launch (Derwentwater)',
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `Vedettes qui font le tour de Derwentwater et desservent sept embarcadères, dont Hawes End pour Catbells. Les chiens voyagent gratuitement, tenus en laisse.`,
+          en: `Launches that circle Derwentwater and call at seven jetties, including Hawes End for Catbells. Dogs travel free, kept on a lead.`,
+          es: `Lanchas que rodean Derwentwater y paran en siete embarcaderos, incluido Hawes End para Catbells. Los perros viajan gratis, con correa.`,
+          pt: `Lanchas que dão a volta a Derwentwater e param em sete cais, incluindo Hawes End para Catbells. Os cães viajam grátis, à trela.`,
+        },
+      },
+      {
+        name: 'Castlerigg Stone Circle',
+        emoji: '🗿',
+        petFriendly: true,
+        desc: {
+          fr: `Cercle de pierres préhistorique dans un champ ouvert cerné par les fells, juste à l'est de Keswick. Site English Heritage gratuit, chiens en laisse (champ pâturé par des moutons).`,
+          en: `Prehistoric stone circle in an open field ringed by the fells, just east of Keswick. Free English Heritage site, dogs on a lead (field grazed by sheep).`,
+          es: `Círculo de piedras prehistórico en un campo abierto rodeado por los fells, justo al este de Keswick. Sitio gratuito de English Heritage, perros con correa (campo con ovejas).`,
+          pt: `Círculo de pedras pré-histórico num campo aberto rodeado pelos fells, mesmo a leste de Keswick. Sítio gratuito da English Heritage, cães à trela (campo pastado por ovelhas).`,
+        },
+      },
+      {
+        name: 'Whinlatter Forest',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          fr: `La seule vraie forêt de montagne d'Angleterre, à l'ouest de Keswick, avec sentiers balisés et café au centre d'accueil. Chiens en laisse sur les sentiers, bonne option par mauvais temps.`,
+          en: `England's only true mountain forest, west of Keswick, with waymarked trails and a visitor-centre café. Dogs on a lead on the trails, a good wet-weather option.`,
+          es: `El único verdadero bosque de montaña de Inglaterra, al oeste de Keswick, con senderos señalizados y cafetería en el centro de visitantes. Perros con correa en los senderos, buena opción con mal tiempo.`,
+          pt: `A única verdadeira floresta de montanha de Inglaterra, a oeste de Keswick, com trilhos sinalizados e café no centro de visitantes. Cães à trela nos trilhos, boa opção com mau tempo.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Tenez votre chien en laisse près des moutons et du bétail sur les fells et pendant la saison de nidification au sol au printemps ; un rappel fiable est indispensable sur le fell ouvert.`,
+        `En été, surveillez les algues bleu-vert dans Derwentwater, potentiellement mortelles pour les chiens, et vérifiez l'eau avant toute baignade à Calfclose Bay ou Crow Park.`,
+        `Les chiens voyagent gratuitement sur les bateaux du Keswick Launch (tenus en laisse) et, dans les trains National Rail jusqu'à Penrith ou Windermere, jusqu'à deux par voyageur.`,
+        `La plupart des pubs autour de la place du marché accueillent les chiens dans le bar, souvent avec gamelle d'eau et bocal de friandises ; demandez quel espace accepte les chiens.`,
+        `Numéros vétérinaires : antenne Millcroft à Keswick (+44 17687 72590) et hôpital 24h/24 Millcroft à Cockermouth (+44 1900 826666).`,
+      ],
+      en: [
+        `Keep your dog on a lead near sheep and cattle on the fells and during the spring ground-nesting bird season; a reliable recall is essential on open fell.`,
+        `In summer, watch for blue-green algae in Derwentwater, which is potentially fatal to dogs, and check the water before any swim at Calfclose Bay or Crow Park.`,
+        `Dogs travel free on the Keswick Launch boats (on a lead) and, on National Rail trains to Penrith or Windermere, up to two per passenger.`,
+        `Most pubs around the Market Square welcome dogs in the bar, often with a water bowl and a jar of treats; ask which area is dog-friendly.`,
+        `Vet numbers: Millcroft's Keswick branch (+44 17687 72590) and the Millcroft 24-hour hospital in Cockermouth (+44 1900 826666).`,
+      ],
+      es: [
+        `Manten al perro con correa cerca de ovejas y vacas en los fells y durante la temporada de aves que anidan en el suelo en primavera; una llamada de vuelta fiable es imprescindible en el fell abierto.`,
+        `En verano, vigila las algas verdiazules de Derwentwater, potencialmente mortales para los perros, y comprueba el agua antes de cualquier baño en Calfclose Bay o Crow Park.`,
+        `Los perros viajan gratis en los barcos del Keswick Launch (con correa) y, en los trenes de National Rail hasta Penrith o Windermere, hasta dos por pasajero.`,
+        `La mayoría de los pubs de la plaza del mercado admiten perros en el bar, a menudo con un cuenco de agua y un bote de golosinas; pregunta qué zona admite perros.`,
+        `Números veterinarios: sucursal de Millcroft en Keswick (+44 17687 72590) y hospital 24h de Millcroft en Cockermouth (+44 1900 826666).`,
+      ],
+      pt: [
+        `Mantenha o cão à trela perto de ovelhas e vacas nos fells e durante a época de nidificação no solo na primavera; uma chamada de retorno fiável é indispensável no fell aberto.`,
+        `No verão, vigie as algas azul-esverdeadas de Derwentwater, potencialmente fatais para os cães, e verifique a água antes de qualquer banho em Calfclose Bay ou Crow Park.`,
+        `Os cães viajam grátis nos barcos do Keswick Launch (à trela) e, nos comboios da National Rail até Penrith ou Windermere, até dois por passageiro.`,
+        `A maioria dos pubs à volta da praça do mercado aceita cães no bar, muitas vezes com uma taça de água e um frasco de petiscos; pergunte que zona aceita cães.`,
+        `Números veterinários: sucursal da Millcroft em Keswick (+44 17687 72590) e hospital 24h da Millcroft em Cockermouth (+44 1900 826666).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), puce, vaccin antirabique et traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : ni aéroport ni gare à Keswick ; train jusqu'à Penrith ou Windermere puis bus Stagecoach acceptant les chiens. Aéroport le plus proche : Manchester (MAN), à environ deux heures de route.`,
+        `Se déplacer : ville compacte à parcourir à pied ; bus de Borrowdale et bateaux du Keswick Launch acceptant les chiens pour relier marches et retours au bord du lac.`,
+        `Météo : l'un des coins les plus pluvieux d'Angleterre ; prévoyez imperméables et serviette pour chien toute l'année, étés doux (17-18 °C), hivers froids et humides (4-5 °C).`,
+        `Numéros utiles : urgence générale 999 ou 112 ; antenne Millcroft Keswick +44 17687 72590 ; hôpital 24h Millcroft Cockermouth +44 1900 826666.`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: no airport or station in Keswick; train to Penrith or Windermere, then the dog-friendly Stagecoach bus. Nearest airport is Manchester (MAN), about two hours by road.`,
+        `Getting around: a compact town to walk on foot; the Borrowdale bus and the dog-friendly Keswick Launch link walks and lakeshore returns.`,
+        `Weather: one of the wettest corners of England; pack waterproofs and a dog towel year-round, with mild summers (17-18 C) and cold, wet winters (4-5 C).`,
+        `Useful numbers: general emergency 999 or 112; Millcroft Keswick branch +44 17687 72590; 24-hour Millcroft hospital Cockermouth +44 1900 826666.`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento antitenia entre 24 y 120 horas antes de la llegada.`,
+        `Cómo llegar: sin aeropuerto ni estación en Keswick; tren hasta Penrith o Windermere y luego el autobús Stagecoach apto para perros. El aeropuerto más cercano es Mánchester (MAN), a unas dos horas por carretera.`,
+        `Cómo moverse: un pueblo compacto para recorrer a pie; el autobús de Borrowdale y el Keswick Launch apto para perros enlazan paseos y vueltas por la orilla.`,
+        `Tiempo: uno de los rincones más lluviosos de Inglaterra; lleva ropa impermeable y toalla para el perro todo el año, con veranos suaves (17-18 C) e inviernos fríos y húmedos (4-5 C).`,
+        `Números útiles: emergencia general 999 o 112; sucursal Millcroft Keswick +44 17687 72590; hospital 24h Millcroft Cockermouth +44 1900 826666.`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate britânico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia entre 24 e 120 horas antes da chegada.`,
+        `Como chegar: sem aeroporto nem estação em Keswick; comboio até Penrith ou Windermere e depois o autocarro Stagecoach que aceita cães. O aeroporto mais próximo é Manchester (MAN), a cerca de duas horas por estrada.`,
+        `Como circular: uma vila compacta para percorrer a pé; o autocarro de Borrowdale e o Keswick Launch que aceita cães ligam passeios e voltas pela margem.`,
+        `Tempo: um dos cantos mais chuvosos de Inglaterra; leve roupa impermeável e toalha para o cão todo o ano, com verões amenos (17-18 C) e invernos frios e húmidos (4-5 C).`,
+        `Números úteis: emergência geral 999 ou 112; sucursal Millcroft Keswick +44 17687 72590; hospital 24h Millcroft Cockermouth +44 1900 826666.`,
+      ],
+    },
+  },
+
   kitzbuehel: {
     history: {
       fr: `Ville minière fortifiée dès 1271 par les ducs de Bavière, Kitzbühel s'est enrichie de l'argent et du cuivre avant de passer au Tyrol des Habsbourg en 1504. Ses maisons de marchands aux façades pastel, serrées entre la Vorderstadt et la Hinterstadt, datent de cet âge d'or. Le destin de la ville bascule en 1893, quand Franz Reisch chausse les premiers skis rapportés de Norvège et dévale le Kitzbüheler Horn : le ski alpin autrichien est né ici. Depuis 1931, la descente du Hahnenkamm sur la piste de la Streif, la plus redoutée du circuit, fait de ce bourg de 8 500 habitants la capitale mondiale du ski de janvier. Le reste de l'année, Kitzbühel redevient une petite ville tyrolienne étonnamment paisible, entourée de prairies, de lacs de tourbière et de sommets doux, un terrain de jeu idéal pour un chien, gondoles gratuites comprises.`,

@@ -23944,6 +23944,215 @@
     ]
   },
   {
+    "id": "keswick-1",
+    "name": "Hazel Bank Country House Borrowdale Valley",
+    "destinationSlug": "keswick",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.7,
+    "reviewCount": 60,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hazel-bank-country-house.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "hazel-bank-country-house-borrowdale-valley-keswick",
+    "address": "Rosthwaite, Borrowdale, Keswick, CA12 5XB, United Kingdom",
+    "neighborhood": "Keswick"
+  },
+  {
+    "id": "keswick-2",
+    "name": "Lords Seat",
+    "destinationSlug": "keswick",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 16,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/lords-seat-keswick.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "lords-seat-keswick",
+    "address": "10 Swan House Thornthwaite, Keswick, CA12 5SQ, United Kingdom",
+    "neighborhood": "Keswick"
+  },
+  {
+    "id": "keswick-3",
+    "name": "Chaucers Nook",
+    "destinationSlug": "keswick",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.8,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/chaucers-nook.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "chaucers-nook-keswick",
+    "address": "Keswick, CA12 4DR, United Kingdom",
+    "neighborhood": "Keswick"
+  },
+  {
+    "id": "keswick-4",
+    "name": "Forge Cottage",
+    "destinationSlug": "keswick",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 10,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/forge-cottage-keswick.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "forge-cottage-keswick",
+    "address": "Keswick, CA12 4NX, United Kingdom",
+    "neighborhood": "Keswick"
+  },
+  {
+    "id": "keswick-5",
+    "name": "Wood Close",
+    "destinationSlug": "keswick",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/wood-close.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "wood-close-keswick",
+    "address": "Keswick, CA12 4AQ, United Kingdom",
+    "neighborhood": "Keswick"
+  },
+  {
+    "id": "keswick-6",
+    "name": "Mary's Cottage",
+    "destinationSlug": "keswick",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/marys-cottage-keswick.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "marys-cottage-keswick",
+    "address": "Keswick, Cumbria, United Kingdom",
+    "neighborhood": "Keswick"
+  },
+  {
+    "id": "keswick-7",
+    "name": "Fairview",
+    "destinationSlug": "keswick",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/fairview-keswick.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "fairview-keswick",
+    "address": "Keswick, CA12 4AZ, United Kingdom",
+    "neighborhood": "Keswick"
+  },
+  {
+    "id": "keswick-8",
+    "name": "The Hayloft",
+    "destinationSlug": "keswick",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-hayloft-keswick.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "the-hayloft-keswick",
+    "address": "Keswick, Cumbria, United Kingdom",
+    "neighborhood": "Keswick"
+  },
+  {
     "id": "kitzbuehel-1",
     "name": "Schlosshotel Kitzbühel",
     "destinationSlug": "kitzbuehel",

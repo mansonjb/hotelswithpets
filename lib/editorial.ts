@@ -1432,6 +1432,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Plaza Mayor and Rúa Mayor, the Tormes riverside (Salas Bajas), and the Parque de los Jesuitas with its fenced off-leash area',
       area: `the old town around the Plaza Mayor, the riverside south of the Roman Bridge, and the leafy area near the Universidad de Salamanca`,
     },
+    salcombe: {
+      personality: `a sheltered South Devon sailing town at the mouth of the Kingsbridge estuary, where dogs share the waterside pubs, the little ferries and the National Trust coast paths, with beach access governed by seasonal dog rules that are easy to plan around`,
+      highlight: `year-round dog-friendly North Sands and Mill Bay, the dog-friendly ferries across the estuary, and the coast path to Bolt Head and Snapes Point`,
+      area: `Fore Street and the Whitestrand waterfront, North Sands and South Sands, and the estuary crossing to East Portlemouth and Mill Bay`,
+    },
     salzburg: {
       personality: 'a compact Alpine city where Mozart-era architecture, rolling meadows, and the surrounding Salzkammergut mountains create a magical backdrop for pet travel',
       highlight: 'the Hellbrunn park, the Salzach riverside path, and the Kapuzinerberg hill trails',
@@ -1656,6 +1661,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `Japan's electric capital where neon Shibuya crossings, centuries-old temples and quiet residential backstreets sit side by side, with stricter pet rules than Europe but excellent registered dog runs, Tokyo Bay seaside parks and 24-hour English-speaking vets`,
       highlight: `the Yoyogi Park dog run near Harajuku, the Komazawa Olympic Park dog run in Setagaya, and the Tokyo Bay seaside dog run and beach at Jonanjima`,
       area: `the international dog-friendly enclaves of Hiroo and Azabu-Juban, the stylish cafes of Daikanyama and Jiyugaoka, and the waterfront parks of Odaiba and Kasai Rinkai`,
+    },
+    toronto: {
+      personality: `one of the very few North American cities where a dog of any size rides the subway, streetcar and bus free of charge outside weekday rush hours, backed by more than eighty designated off-leash areas and an Ontario law that seats dogs on restaurant patios`,
+      highlight: `the year-round off-leash dog beach at Cherry Beach on the Outer Harbour, the 8.5-acre Dog Hill off-leash area in High Park, and the leashed ferry crossing to car-free Toronto Island Park`,
+      area: `the pedestrian Victorian lanes of the Distillery District, the patios and parks of Leslieville and The Beaches, and the ravine trails around Evergreen Brick Works in the Don Valley`,
     },
     'tossa-de-mar': {
       personality: `a 5,700-resident Costa Brava sud beach town wrapped around the 12th-century Vila Vella, the only fortified medieval centre that survives on the entire Catalan coast, with four watchtowers, full battlemented ramparts and the Gothic ruins of the Sant Vicenç castle church inside, plus the bronze Ava Gardner statue commemorating the 1951 filming of Pandora and the Flying Dutchman on the rocks above Platja Gran`,
@@ -3399,6 +3409,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la Plaza Mayor et la Rúa Mayor, la berge du Tormes (Salas Bajas) et le Parque de los Jesuitas avec sa zone clôturée sans laisse`,
       area: `le centre historique autour de la Plaza Mayor, le bord du fleuve au sud du Pont Romain et le quartier verdoyant près de l'Université de Salamanque`,
     },
+    salcombe: {
+      personality: `une ville de voile abritée du sud du Devon, à l'embouchure de l'estuaire de Kingsbridge, où les chiens partagent les pubs du bord de l'eau, les petits ferries et les chemins côtiers du National Trust, l'accès aux plages étant régi par des règles canines saisonnières faciles à anticiper`,
+      highlight: `North Sands et Mill Bay ouvertes aux chiens toute l'année, les ferries acceptant les chiens qui traversent l'estuaire, et le chemin côtier vers Bolt Head et Snapes Point`,
+      area: `Fore Street et le front de mer de Whitestrand, North Sands et South Sands, et la traversée de l'estuaire vers East Portlemouth et Mill Bay`,
+    },
     salzburg: {
       personality: 'une ville alpine compacte où l\'architecture de l\'époque Mozart, les prairies vallonnées et les montagnes du Salzkammergut environnantes créent un cadre magique pour les voyages avec animaux',
       highlight: 'le parc de Hellbrunn, le chemin riverain de la Salzach et les sentiers de la colline du Kapuzinerberg',
@@ -3623,6 +3638,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la capitale électrique du Japon où les carrefours néon de Shibuya, les temples séculaires et les ruelles résidentielles tranquilles cohabitent, avec des règles plus strictes qu'en Europe mais d'excellents espaces canins inscrits, des parcs balnéaires de la baie de Tokyo et des vétérinaires anglophones 24h/24`,
       highlight: `l'espace canin du parc Yoyogi près de Harajuku, celui du parc olympique de Komazawa à Setagaya, et l'espace canin et la plage de la baie de Tokyo à Jonanjima`,
       area: `les quartiers internationaux dog-friendly de Hiroo et Azabu-Juban, les cafés élégants de Daikanyama et Jiyugaoka, et les parcs en bord de mer d'Odaiba et Kasai Rinkai`,
+    },
+    toronto: {
+      personality: `l'une des très rares villes nord-américaines où un chien de n'importe quelle taille prend gratuitement le métro, le tramway et le bus hors des heures de pointe en semaine, avec plus de quatre-vingts aires canines désignées et une loi ontarienne qui installe les chiens en terrasse`,
+      highlight: `la plage canine sans laisse de Cherry Beach, ouverte toute l'année sur l'Outer Harbour, les 3,4 hectares de Dog Hill à High Park, et la traversée en traversier vers Toronto Island Park, sans voitures`,
+      area: `les ruelles victoriennes piétonnes du Distillery District, les terrasses et parcs de Leslieville et des Beaches, et les sentiers de ravin autour d'Evergreen Brick Works dans la vallée de la Don`,
     },
     'tossa-de-mar': {
       personality: `une station balnéaire de 5 700 habitants au sud de la Costa Brava enroulée autour de la Vila Vella du XIIᵉ siècle, le seul centre médiéval fortifié qui subsiste sur toute la côte catalane, avec quatre tours de guet, des remparts crénelés complets et les ruines gothiques de l'église-château de Sant Vicenç à l'intérieur, plus la statue de bronze d'Ava Gardner en mémoire du tournage de Pandora en 1951 sur les rochers au-dessus de la Platja Gran`,
@@ -5366,6 +5386,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la Plaza Mayor y la Rúa Mayor, la orilla del Tormes (Salas Bajas) y el Parque de los Jesuitas con su zona vallada sin correa',
       area: 'el casco antiguo en torno a la Plaza Mayor, la ribera al sur del Puente Romano y el barrio frondoso junto a la Universidad de Salamanca',
     },
+    salcombe: {
+      personality: `un pueblo velero resguardado del sur de Devon, en la desembocadura del estuario de Kingsbridge, donde los perros comparten los pubs junto al agua, los pequeños ferries y los caminos costeros del National Trust, con el acceso a las playas regido por normas caninas estacionales fáciles de planificar`,
+      highlight: `North Sands y Mill Bay abiertas a los perros todo el año, los ferries que admiten perros al cruzar el estuario, y el camino costero hacia Bolt Head y Snapes Point`,
+      area: `Fore Street y el paseo de Whitestrand, North Sands y South Sands, y el cruce del estuario hacia East Portlemouth y Mill Bay`,
+    },
     salzburg: {
       personality: 'una compacta ciudad alpina donde la arquitectura de la época de Mozart, los prados ondulados y las montañas del Salzkammergut circundante crean un escenario mágico para viajar con mascotas',
       highlight: 'el parque de Hellbrunn, el sendero ribereño del Salzach y los senderos de la colina del Kapuzinerberg',
@@ -5590,6 +5615,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la eléctrica capital de Japón donde los cruces de neón de Shibuya, los templos centenarios y las tranquilas callejuelas residenciales conviven, con normas más estrictas que en Europa pero excelentes áreas caninas registradas, parques marítimos de la bahía de Tokio y veterinarios 24 horas que hablan inglés`,
       highlight: `el área canina del parque Yoyogi cerca de Harajuku, la del parque olímpico de Komazawa en Setagaya, y el área canina y la playa de la bahía de Tokio en Jonanjima`,
       area: `los barrios internacionales dog-friendly de Hiroo y Azabu-Juban, los cafés elegantes de Daikanyama y Jiyugaoka, y los parques costeros de Odaiba y Kasai Rinkai`,
+    },
+    toronto: {
+      personality: `una de las poquísimas ciudades norteamericanas donde un perro de cualquier tamaño viaja gratis en metro, tranvía y autobús fuera de las horas punta entre semana, con más de ochenta áreas caninas designadas y una ley ontariana que sienta a los perros en las terrazas`,
+      highlight: `la playa canina sin correa de Cherry Beach, abierta todo el año en el Outer Harbour, las 3,4 hectáreas de Dog Hill en High Park, y la travesía en ferry hasta Toronto Island Park, sin coches`,
+      area: `los callejones victorianos peatonales del Distillery District, las terrazas y parques de Leslieville y the Beaches, y los senderos de barranco en torno a Evergreen Brick Works en el valle del Don`,
     },
     'tossa-de-mar': {
       personality: `una localidad costera de 5.700 habitantes al sur de la Costa Brava envuelta alrededor de la Vila Vella del siglo XII, el único centro medieval amurallado que sobrevive en toda la costa catalana, con cuatro torres de vigilancia, murallas almenadas completas y las ruinas góticas de la iglesia-castillo de Sant Vicenç dentro, más la estatua de bronce de Ava Gardner en memoria del rodaje de Pandora en 1951 sobre las rocas encima de la Platja Gran`,
@@ -7333,6 +7363,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'a Praça Mayor e a Rúa Mayor, a margem do Tormes (Salas Bajas) e o Parque dos Jesuitas com o seu zona vallada sem trela',
       area: 'o centro histórico en torno a a Praça Mayor, a ribera a sul do Ponte Romano e o bairro frondoso junto a a Universidade de Salamanca',
     },
+    salcombe: {
+      personality: `uma vila de vela abrigada do sul do Devon, na foz do estuário de Kingsbridge, onde os cães partilham os pubs junto à água, os pequenos ferries e os caminhos costeiros do National Trust, com o acesso às praias regido por regras caninas sazonais fáceis de planear`,
+      highlight: `North Sands e Mill Bay abertas aos cães todo o ano, os ferries que aceitam cães ao atravessar o estuário, e o caminho costeiro até Bolt Head e Snapes Point`,
+      area: `a Fore Street e a marginal de Whitestrand, North Sands e South Sands, e a travessia do estuário até East Portlemouth e Mill Bay`,
+    },
     salzburg: {
       personality: 'uma compacta cidade alpina onde a arquitetura da época de Mozart, os prados ondulados e as montanhas do Salzkammergut circundante crean um escenario mágico para viajar com animais',
       highlight: 'o parque de Hellbrunn, o trilho riberenho do Salzach e os trilhos da colina do Kapuzinerberg',
@@ -7557,6 +7592,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a elétrica capital do Japão onde os cruzamentos de néon de Shibuya, os templos centenários e as tranquilas ruelas residenciais convivem, com regras mais rígidas do que na Europa mas excelentes áreas caninas registadas, parques à beira-mar da baía de Tóquio e veterinários 24 horas que falam inglês`,
       highlight: `a área canina do parque Yoyogi perto de Harajuku, a do parque olímpico de Komazawa em Setagaya, e a área canina e a praia da baía de Tóquio em Jonanjima`,
       area: `os bairros internacionais dog-friendly de Hiroo e Azabu-Juban, os cafés elegantes de Daikanyama e Jiyugaoka, e os parques à beira-mar de Odaiba e Kasai Rinkai`,
+    },
+    toronto: {
+      personality: `uma das pouquíssimas cidades norte-americanas onde um cão de qualquer tamanho viaja gratuitamente no metro, no elétrico e no autocarro fora das horas de ponta dos dias úteis, com mais de oitenta áreas caninas designadas e uma lei do Ontário que senta os cães nas esplanadas`,
+      highlight: `a praia canina sem trela da Cherry Beach, aberta todo o ano no Outer Harbour, os 3,4 hectares da Dog Hill no High Park, e a travessia de ferry até ao Toronto Island Park, sem carros`,
+      area: `as ruelas vitorianas pedonais do Distillery District, as esplanadas e parques de Leslieville e das Beaches, e os trilhos de ravina em torno do Evergreen Brick Works no vale do Don`,
     },
     'tossa-de-mar': {
       personality: `uma vila balnear de 5.700 habitantes no sul da Costa Brava envolta na Vila Vella do século XII, o único centro medieval amuralhado que sobrevive em toda a costa catalã, com quatro torres de vigia, muralhas ameadas completas e as ruínas góticas da igreja-castelo de Sant Vicenç dentro, mais a estátua de bronze de Ava Gardner em memória da rodagem de Pandora em 1951 sobre as rochas em cima da Platja Gran`,

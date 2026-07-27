@@ -37950,6 +37950,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  salcombe: {
+    history: {
+      fr: `Salcombe, station de voile lovée à l'embouchure de l'estuaire de Kingsbridge, à l'extrême sud du Devon, fut d'abord un port de pêche et de construction navale, célèbre au XIXe siècle pour ses fins clippers à fruits qui rapportaient oranges et ananas des Açores. Aujourd'hui, c'est l'un des lieux de villégiature côtiers les plus prisés d'Angleterre, avec ses maisons pastel dévalant vers un estuaire scintillant de voiliers. Pour un chien, Salcombe est un bonheur estuarien : pubs du bord de l'eau, petits ferries qui traversent vers East Portlemouth, et kilomètres de chemin côtier du National Trust vers Bolt Head et Snapes Point. Le point à anticiper : les règles saisonnières des plages, fixées par le South Hams District Council. South Sands interdit totalement les chiens du 1er mai au 30 septembre, tandis que North Sands et Mill Bay restent ouvertes toute l'année. Et depuis le Brexit, la Grande-Bretagne exige un Animal Health Certificate au lieu du passeport européen.`,
+      en: `Salcombe, a sailing resort cradled at the mouth of the Kingsbridge estuary in the far south of Devon, began as a fishing and shipbuilding port, famous in the 19th century for the sleek fruit clippers that ran oranges and pineapples back from the Azores. Today it is one of England's most sought-after coastal boltholes, its pastel houses tumbling down to an estuary glittering with yachts. For a dog, Salcombe is an estuary delight: waterside pubs, little ferries that cross to East Portlemouth, and miles of National Trust coast path out to Bolt Head and Snapes Point. The thing to plan around is the seasonal beach dog rules set by South Hams District Council. South Sands bans dogs completely from 1 May to 30 September, while North Sands and Mill Bay stay open all year. And since Brexit, Great Britain requires a GB Animal Health Certificate instead of the EU pet passport.`,
+      es: `Salcombe, estación de vela acunada en la desembocadura del estuario de Kingsbridge, en el extremo sur de Devon, empezó como puerto pesquero y de construcción naval, famoso en el siglo XIX por los esbeltos clíperes fruteros que traían naranjas y piñas desde las Azores. Hoy es uno de los refugios costeros más codiciados de Inglaterra, con sus casas pastel cayendo hacia un estuario que reluce de veleros. Para un perro, Salcombe es un placer estuarino: pubs junto al agua, pequeños ferries que cruzan a East Portlemouth y kilómetros de camino costero del National Trust hacia Bolt Head y Snapes Point. Lo que hay que planificar son las normas estacionales de las playas, fijadas por el South Hams District Council. South Sands veta por completo los perros del 1 de mayo al 30 de septiembre, mientras que North Sands y Mill Bay siguen abiertas todo el año. Y desde el Brexit, Gran Bretaña exige un Animal Health Certificate británico en lugar del pasaporte europeo.`,
+      pt: `Salcombe, estância de vela aninhada na foz do estuário de Kingsbridge, no extremo sul de Devon, começou como porto piscatório e de construção naval, famoso no século XIX pelos esguios clíperes fruteiros que traziam laranjas e ananases dos Açores. Hoje é um dos refúgios costeiros mais cobiçados de Inglaterra, com as suas casas em tons pastel a descer para um estuário que reluz de veleiros. Para um cão, Salcombe é um prazer estuarino: pubs junto à água, pequenos ferries que atravessam para East Portlemouth e quilómetros de caminho costeiro do National Trust até Bolt Head e Snapes Point. O que há a planear são as regras sazonais das praias, definidas pelo South Hams District Council. South Sands proíbe por completo os cães de 1 de maio a 30 de setembro, enquanto North Sands e Mill Bay continuam abertas todo o ano. E desde o Brexit, a Grã-Bretanha exige um Animal Health Certificate britânico em vez do passaporte europeu.`,
+    },
+    sights: [
+      {
+        name: 'North Sands',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Crique de sable abritée sur l'estuaire, adossée au café canin The Winking Prawn, et la seule plage de Salcombe ouverte aux chiens toute l'année, sans interdiction saisonnière.`,
+          en: `A sheltered sandy cove on the estuary, backed by the dog-friendly Winking Prawn cafe, and the one Salcombe beach open to dogs all year with no seasonal ban.`,
+          es: `Cala de arena resguardada en el estuario, respaldada por el café canino The Winking Prawn, y la única playa de Salcombe abierta a los perros todo el año, sin veda estacional.`,
+          pt: `Enseada de areia abrigada no estuário, apoiada pelo café canino The Winking Prawn, e a única praia de Salcombe aberta aos cães todo o ano, sem proibição sazonal.`,
+        },
+      },
+      {
+        name: 'South Sands',
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          fr: `Jolie plage au sud sous le South Sands Hotel, reliée à la ville par le ferry et un tracteur de mer. Chiens totalement interdits du 1er mai au 30 septembre ; ouverte aux chiens d'octobre à avril.`,
+          en: `A pretty south-facing beach below the South Sands Hotel, linked to town by ferry and sea tractor. Dogs banned completely 1 May to 30 September; open to dogs October to April.`,
+          es: `Bonita playa orientada al sur bajo el South Sands Hotel, unida al pueblo por ferry y tractor de mar. Perros vetados por completo del 1 de mayo al 30 de septiembre; abierta a los perros de octubre a abril.`,
+          pt: `Bonita praia virada a sul sob o South Sands Hotel, ligada à vila por ferry e trator do mar. Cães totalmente proibidos de 1 de maio a 30 de setembro; aberta aos cães de outubro a abril.`,
+        },
+      },
+      {
+        name: 'Mill Bay',
+        emoji: '🐾',
+        petFriendly: true,
+        desc: {
+          fr: `Criques de sable abritées côté East Portlemouth, atteintes par le court ferry canin depuis Salcombe, avec des bois du National Trust derrière. Ouverte aux chiens toute l'année, en laisse.`,
+          en: `Sheltered sandy coves on the East Portlemouth side, reached by the short dog-friendly ferry from Salcombe, with National Trust woodland behind. Dog-friendly all year on a lead.`,
+          es: `Calas de arena resguardadas del lado de East Portlemouth, a las que se llega con el corto ferry canino desde Salcombe, con bosque del National Trust detrás. Apta para perros todo el año con correa.`,
+          pt: `Enseadas de areia abrigadas do lado de East Portlemouth, alcançadas pelo curto ferry canino desde Salcombe, com bosque do National Trust atrás. Apta para cães todo o ano à trela.`,
+        },
+      },
+      {
+        name: 'Salcombe Estuary Ferries',
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `Petits ferries passagers qui traversent l'estuaire vers East Portlemouth et South Sands. Les chiens bien élevés voyagent en laisse et ouvrent l'accès aux plages et chemins de la rive est.`,
+          en: `Small passenger ferries crossing the estuary to East Portlemouth and South Sands. Well-behaved dogs travel on a lead, and they unlock the eastern beaches and coast paths.`,
+          es: `Pequeños ferries de pasajeros que cruzan el estuario a East Portlemouth y South Sands. Los perros educados viajan con correa y dan acceso a las playas y caminos de la orilla este.`,
+          pt: `Pequenos ferries de passageiros que atravessam o estuário para East Portlemouth e South Sands. Os cães bem-comportados viajam à trela e dão acesso às praias e caminhos da margem leste.`,
+        },
+      },
+      {
+        name: `Overbeck's Garden`,
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: `Jardin subtropical du National Trust perché sur la falaise de Sharpitor, avec des vues splendides sur l'estuaire. Chiens bienvenus en laisse courte, hors du Banana Garden et des pelouses.`,
+          en: `A National Trust subtropical garden perched on the Sharpitor cliff, with glorious estuary views. Dogs welcome on a short lead, away from the Banana Garden and grassed areas.`,
+          es: `Jardín subtropical del National Trust encaramado en el acantilado de Sharpitor, con espléndidas vistas al estuario. Perros bienvenidos con correa corta, fuera del Banana Garden y del césped.`,
+          pt: `Jardim subtropical do National Trust empoleirado na falésia de Sharpitor, com vistas esplêndidas sobre o estuário. Cães bem-vindos à trela curta, fora do Banana Garden e das relvas.`,
+        },
+      },
+      {
+        name: 'Bolt Head and Snapes Point',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Chemins côtiers du National Trust au-dessus de l'estuaire : Snapes Point pour des vues douces sur le port, Bolt Head pour des falaises spectaculaires. Chiens en laisse près du bétail et des falaises.`,
+          en: `National Trust coast paths above the estuary: Snapes Point for gentle harbour views, Bolt Head for dramatic cliffs. Keep dogs on a lead near livestock and cliff edges.`,
+          es: `Caminos costeros del National Trust sobre el estuario: Snapes Point para suaves vistas del puerto, Bolt Head para acantilados espectaculares. Perros con correa cerca del ganado y los acantilados.`,
+          pt: `Caminhos costeiros do National Trust sobre o estuário: Snapes Point para suaves vistas do porto, Bolt Head para falésias espetaculares. Cães à trela perto do gado e das falésias.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les plages sont réglementées par saison : South Sands interdit totalement les chiens du 1er mai au 30 septembre, avec des amendes pouvant atteindre 100 livres (South Hams District Council).`,
+        `North Sands et Mill Bay (côté East Portlemouth) restent ouvertes aux chiens toute l'année ; en été, misez sur elles plutôt que sur South Sands.`,
+        `Les petits ferries de l'estuaire acceptent les chiens en laisse ; le ferry Salcombe-East Portlemouth mène à Mill Bay et au chemin côtier est.`,
+        `Sur les chemins du National Trust vers Bolt Head et Snapes Point, gardez le chien en laisse près des bords de falaise non clôturés et du bétail qui pâture.`,
+        `Pas de vétérinaire à Salcombe même : le plus proche est à Kingsbridge, Selworthy Vets (+44 1548 853322), avec une garde d'urgence 24h/24.`,
+      ],
+      en: [
+        `Beaches are seasonally controlled: South Sands bans dogs completely from 1 May to 30 September, with fines of up to 100 pounds (South Hams District Council).`,
+        `North Sands and Mill Bay (on the East Portlemouth side) stay open to dogs all year; in summer, lean on these rather than South Sands.`,
+        `The little estuary ferries take dogs on a lead; the Salcombe to East Portlemouth ferry leads to Mill Bay and the eastern coast path.`,
+        `On the National Trust paths to Bolt Head and Snapes Point, keep your dog on a lead near the unfenced cliff edges and grazing livestock.`,
+        `There is no vet in Salcombe itself: the nearest is in Kingsbridge, Selworthy Vets (+44 1548 853322), with 24-hour emergency cover.`,
+      ],
+      es: [
+        `Las playas están reguladas por temporada: South Sands veta por completo los perros del 1 de mayo al 30 de septiembre, con multas de hasta 100 libras (South Hams District Council).`,
+        `North Sands y Mill Bay (del lado de East Portlemouth) siguen abiertas a los perros todo el año; en verano, apóyate en ellas y no en South Sands.`,
+        `Los pequeños ferries del estuario admiten perros con correa; el ferry Salcombe-East Portlemouth lleva a Mill Bay y al camino costero del este.`,
+        `En los caminos del National Trust hacia Bolt Head y Snapes Point, manten al perro con correa cerca de los bordes del acantilado sin vallar y del ganado.`,
+        `No hay veterinario en la propia Salcombe: el más cercano está en Kingsbridge, Selworthy Vets (+44 1548 853322), con urgencias 24 horas.`,
+      ],
+      pt: [
+        `As praias são reguladas por época: South Sands proíbe por completo os cães de 1 de maio a 30 de setembro, com multas de até 100 libras (South Hams District Council).`,
+        `North Sands e Mill Bay (do lado de East Portlemouth) continuam abertas aos cães todo o ano; no verão, aposte nelas e não em South Sands.`,
+        `Os pequenos ferries do estuário admitem cães à trela; o ferry Salcombe-East Portlemouth leva a Mill Bay e ao caminho costeiro do leste.`,
+        `Nos caminhos do National Trust até Bolt Head e Snapes Point, mantenha o cão à trela perto das bordas de falésia sem vedação e do gado.`,
+        `Não há veterinário na própria Salcombe: o mais próximo fica em Kingsbridge, Selworthy Vets (+44 1548 853322), com urgência 24 horas.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), puce, vaccin antirabique et traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : pas de gare à Salcombe ; train jusqu'à Totnes puis bus Tally Ho 164 via Kingsbridge (chiens gratuits dans le train). Aéroport le plus proche : Exeter (EXT), environ 1h30 de route.`,
+        `Se déplacer : centre-ville pentu et stationnement très limité l'été ; utilisez le parking-relais et les ferries de l'estuaire acceptant les chiens.`,
+        `Météo : climat doux du sud du Devon ; hivers doux (9-10 °C), étés chauds sans excès (18 °C). Fin de printemps et début d'automne idéaux ; d'octobre à avril, toutes les plages rouvrent aux chiens.`,
+        `Numéros utiles : urgence générale 999 ou 112 ; véto le plus proche Selworthy Vets, Kingsbridge +44 1548 853322 (urgence 24h/24).`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: no station in Salcombe; train to Totnes, then the Tally Ho 164 bus via Kingsbridge (dogs free on the train). Nearest airport is Exeter (EXT), about 1.5 hours by road.`,
+        `Getting around: the town centre is steep and parking very limited in summer; use the park-and-ride and the dog-friendly estuary ferries.`,
+        `Weather: mild south Devon climate; mild winters (9-10 C), warm but not hot summers (18 C). Late spring and early autumn are ideal; from October to April every beach reopens to dogs.`,
+        `Useful numbers: general emergency 999 or 112; nearest vet Selworthy Vets, Kingsbridge +44 1548 853322 (24-hour emergency).`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento antitenia entre 24 y 120 horas antes de la llegada.`,
+        `Cómo llegar: no hay estación en Salcombe; tren hasta Totnes y luego el autobús Tally Ho 164 vía Kingsbridge (perros gratis en el tren). El aeropuerto más cercano es Exeter (EXT), a alrededor de 1,5 horas por carretera.`,
+        `Cómo moverse: el centro es empinado y el aparcamiento muy limitado en verano; usa el aparcamiento disuasorio y los ferries del estuario aptos para perros.`,
+        `Tiempo: clima suave del sur de Devon; inviernos suaves (9-10 C), veranos cálidos sin excesos (18 C). Final de primavera y principio de otoño ideales; de octubre a abril todas las playas reabren a los perros.`,
+        `Números útiles: emergencia general 999 o 112; veterinario más cercano Selworthy Vets, Kingsbridge +44 1548 853322 (urgencias 24 horas).`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate britânico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia entre 24 e 120 horas antes da chegada.`,
+        `Como chegar: não há estação em Salcombe; comboio até Totnes e depois o autocarro Tally Ho 164 via Kingsbridge (cães grátis no comboio). O aeroporto mais próximo é Exeter (EXT), a cerca de 1,5 horas por estrada.`,
+        `Como circular: o centro é íngreme e o estacionamento muito limitado no verão; use o parque dissuasor e os ferries do estuário aptos para cães.`,
+        `Tempo: clima ameno do sul de Devon; invernos amenos (9-10 C), verões quentes sem excessos (18 C). Fim da primavera e início do outono ideais; de outubro a abril todas as praias reabrem aos cães.`,
+        `Números úteis: emergência geral 999 ou 112; veterinário mais próximo Selworthy Vets, Kingsbridge +44 1548 853322 (urgência 24 horas).`,
+      ],
+    },
+  },
+
   salzburg: {
     history: {
       fr: `Salzbourg, la « Rome du Nord » classée UNESCO, doit sa richesse à l'or blanc, le sel, extrait du Dürrnberg depuis les Celtes. Les princes-archevêques la gouvernèrent en État indépendant jusqu'en 1803, laissant la forteresse du Hohensalzburg, la vieille ville baroque et une tradition musicale couronnée par Mozart, l'enfant du pays. L'Autriche fixe les règles canines au niveau fédéral : puce, passeport européen et assurance responsabilité civile sont obligatoires, et la ville de Salzbourg perçoit une Hundeabgabe de 72 euros par an. Le Land exige un Hundeführerschein pour tout maître n'en ayant jamais détenu, à obtenir dans les quatre mois suivant l'enregistrement. La proximité des Alpes apporte hivers froids et étés de Föhn ; la ville compense par les berges vertes de la Salzach, les sentiers ombragés du Kapuzinerberg et une densité rare de Konditoreien dog-friendly.`,
@@ -44765,6 +44902,113 @@ const cityContent: Record<string, CityContent> = {
         `Aeroporto de Madrid Barajas (MAD) a 1h10 em Cercanías + Avant, o hub internacional pet-friendly mais próximo para Toledo.`,
         `Moeda: euro. Orçamento diário pet-friendly: 50-75 €/dia sem alojamento, dos mais baixos de Espanha depois de Córdoba e Granada.`,
         `Festivais a evitar com cão ansioso: Corpus Christi (junho), Procissões da Semana Santa (março-abril), Festival de Música El Greco (julho).`,
+      ],
+    },
+  },
+
+  toronto: {
+    history: {
+      fr: `Toronto, née du poste de traite français de Fort Rouillé puis de la ville coloniale d'York fondée en 1793, est devenue la plus grande ville du Canada et l'une des métropoles les plus multiculturelles au monde, avec plus de la moitié de ses habitants nés à l'étranger. Bâtie sur la rive nord du lac Ontario et entaillée par un réseau de ravins boisés qui descendent vers le lac, elle mêle gratte-ciel du quartier financier, quartiers victoriens de briques rouges et parcs immenses. Pour un maître, Toronto se distingue nettement du reste de l'Amérique du Nord : un chien de n'importe quelle taille voyage gratuitement en métro, en tramway et en autobus hors des heures de pointe, la ville compte plus de quatre-vingts aires canines désignées, et la loi ontarienne autorise les chiens sur les terrasses de restaurant. Les contreparties sont réelles : les plages de baignade leur sont fermées du 1er avril au 31 octobre, et l'Ontario applique toujours une interdiction de race qu'aucun autre grand pays occidental n'impose.`,
+      en: `Toronto, which grew from the French trading post of Fort Rouillé and then the colonial town of York founded in 1793, is now Canada's largest city and one of the most multicultural metropolises in the world, with more than half its residents born abroad. Built along the north shore of Lake Ontario and cut through by a network of wooded ravines running down to the water, it mixes financial-district towers, red-brick Victorian neighbourhoods and very large parks. For an owner, Toronto stands apart from the rest of North America: a dog of any size travels free on the subway, streetcar and bus outside peak hours, the city has more than eighty designated off-leash areas, and Ontario law allows dogs on restaurant patios. The trade-offs are real: the swimming beaches are closed to dogs from 1 April to 31 October, and Ontario still enforces a breed ban that no other major Western jurisdiction applies.`,
+      es: `Toronto, surgida del puesto comercial francés de Fort Rouillé y después de la ciudad colonial de York fundada en 1793, es hoy la mayor ciudad de Canadá y una de las metrópolis más multiculturales del mundo, con más de la mitad de sus habitantes nacidos en el extranjero. Levantada en la orilla norte del lago Ontario y surcada por una red de barrancos boscosos que bajan hasta el agua, mezcla torres del distrito financiero, barrios victorianos de ladrillo rojo y parques enormes. Para un dueño, Toronto se distingue del resto de Norteamérica: un perro de cualquier tamaño viaja gratis en metro, tranvía y autobús fuera de las horas punta, la ciudad tiene más de ochenta áreas caninas designadas y la ley de Ontario permite perros en las terrazas de los restaurantes. Las contrapartidas son reales: las playas de baño están cerradas a los perros del 1 de abril al 31 de octubre, y Ontario sigue aplicando una prohibición por raza que ninguna otra gran jurisdicción occidental impone.`,
+      pt: `Toronto, nascida do posto de comércio francês de Fort Rouillé e depois da cidade colonial de York fundada em 1793, é hoje a maior cidade do Canadá e uma das metrópoles mais multiculturais do mundo, com mais de metade dos seus habitantes nascidos no estrangeiro. Erguida na margem norte do lago Ontário e cortada por uma rede de ravinas arborizadas que descem até à água, mistura torres do distrito financeiro, bairros vitorianos de tijolo vermelho e parques enormes. Para um dono, Toronto distingue-se do resto da América do Norte: um cão de qualquer tamanho viaja gratuitamente no metro, no elétrico e no autocarro fora das horas de ponta, a cidade tem mais de oitenta áreas caninas designadas e a lei do Ontário permite cães nas esplanadas dos restaurantes. As contrapartidas são reais: as praias de banhos estão fechadas aos cães de 1 de abril a 31 de outubro, e o Ontário continua a aplicar uma proibição por raça que nenhuma outra grande jurisdição ocidental impõe.`,
+    },
+    sights: [
+      { name: 'Cherry Beach Dogs Off-Leash Area', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Seule vraie plage canine de la ville, ouverte toute l'année sur l'Outer Harbour. Clôturée côté terre, ouverte sur l'eau, avec section pour petits chiens et double portillon.`,
+        en: `The city's only true dog beach, open all year on the Outer Harbour. Fenced on the land side and open to the water, with a small-dog section and a double-gated entrance.`,
+        es: `La única playa canina real de la ciudad, abierta todo el año en el Outer Harbour. Vallada por tierra y abierta al agua, con sección para perros pequeños y doble puerta.`,
+        pt: `A única praia canina a sério da cidade, aberta todo o ano no Outer Harbour. Vedada do lado de terra e aberta à água, com secção para cães pequenos e portão duplo.`,
+      }},
+      { name: 'High Park Dog Hill', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Aire sans laisse de 3,4 hectares plus des sentiers désignés, entre le restaurant Grenadier et le zoo. Non clôturée : à réserver aux chiens au rappel fiable.`,
+        en: `An 8.5-acre off-leash area plus designated trails, between the Grenadier Restaurant and the zoo. Unfenced, so keep it for dogs with a reliable recall.`,
+        es: `Área sin correa de 3,4 hectáreas más senderos designados, entre el restaurante Grenadier y el zoo. Sin vallar: resérvala para perros con llamada fiable.`,
+        pt: `Área sem trela de 3,4 hectares mais trilhos designados, entre o restaurante Grenadier e o zoo. Sem vedação: reserve-a para cães com chamamento fiável.`,
+      }},
+      { name: 'The Distillery Historic District', emoji: '🧱', petFriendly: true, desc: {
+        fr: `Quarante bâtiments industriels victoriens autour de ruelles pavées, entièrement piétonnes. Chiens bienvenus dehors en laisse, interdits dans les lieux de restauration.`,
+        en: `Forty Victorian industrial buildings around cobbled, entirely pedestrian lanes. Dogs welcome outdoors on a leash, not allowed inside food and drink venues.`,
+        es: `Cuarenta edificios industriales victorianos en torno a callejones adoquinados, íntegramente peatonales. Perros bienvenidos fuera con correa, vetados en los locales de comida.`,
+        pt: `Quarenta edifícios industriais vitorianos em torno de ruelas de calçada, inteiramente pedonais. Cães bem-vindos no exterior à trela, vedados nos locais de comida e bebida.`,
+      }},
+      { name: 'Toronto Island Park', emoji: '⛴️', petFriendly: true, desc: {
+        fr: `Îles sans voitures à quinze minutes de traversée depuis le Jack Layton Ferry Terminal. Animaux admis en laisse à bord et sur les îles, plages des îles interdites.`,
+        en: `Car-free islands fifteen minutes across the harbour from the Jack Layton Ferry Terminal. Pets allowed on a leash on board and on the islands, island beaches closed to dogs.`,
+        es: `Islas sin coches a quince minutos de travesía desde el Jack Layton Ferry Terminal. Mascotas admitidas con correa a bordo y en las islas, playas de las islas vetadas.`,
+        pt: `Ilhas sem carros a quinze minutos de travessia desde o Jack Layton Ferry Terminal. Animais admitidos à trela a bordo e nas ilhas, praias das ilhas vedadas a cães.`,
+      }},
+      { name: 'Evergreen Brick Works', emoji: '🏭', petFriendly: true, desc: {
+        fr: `Ancienne briqueterie de la vallée de la Don reconvertie en centre environnemental, avec marché fermier et étangs. Chiens en laisse dehors, sauf au Children's Garden.`,
+        en: `A former Don Valley brickworks turned environmental centre, with a farmers market and quarry ponds. Leashed dogs outdoors, except in the Children's Garden.`,
+        es: `Antigua ladrillera del valle del Don reconvertida en centro ambiental, con mercado agrícola y estanques. Perros con correa fuera, salvo en el Children's Garden.`,
+        pt: `Antiga fábrica de tijolos do vale do Don reconvertida em centro ambiental, com mercado agrícola e lagoas. Cães à trela no exterior, exceto no Children's Garden.`,
+      }},
+      { name: 'Trinity Bellwoods Park', emoji: '🥏', petFriendly: true, desc: {
+        fr: `Le « dog bowl » du centre-ouest, cuvette d'un ancien réservoir au sud de Dundas Street West. Sans laisse et sans clôture, très fréquenté en soirée l'été.`,
+        en: `The west-side dog bowl, the hollow of a filled-in reservoir south of Dundas Street West. Off-leash and unfenced, very busy on a summer evening.`,
+        es: `El dog bowl del oeste del centro, hondonada de un antiguo depósito al sur de Dundas Street West. Sin correa y sin vallar, muy concurrido las tardes de verano.`,
+        pt: `O dog bowl do lado oeste do centro, a cova de um antigo reservatório a sul da Dundas Street West. Sem trela e sem vedação, muito concorrido nas tardes de verão.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Interdiction TTC aux heures de pointe : aucun animal dans le métro, le tramway ou le bus en semaine de 6 h 30 à 10 h et de 15 h 30 à 19 h. Le reste du temps, c'est gratuit et sans limite de taille.`,
+        `Hors aire canine désignée, la laisse ne doit pas dépasser deux mètres ; un chien détaché ailleurs expose à une amende pouvant atteindre 615 dollars.`,
+        `Plages de baignade fermées aux chiens du 1er avril au 31 octobre. Seule exception estivale : l'aire sans laisse de Cherry Beach, ouverte toute l'année.`,
+        `Du 1er novembre au 31 mars, les chiens peuvent courir détachés sous la ligne de la barrière à neige à Kew-Balmy et à Woodbine, entre la barrière et l'eau.`,
+        `Sel de déneigement de décembre à mars : bottines ou baume, puis rinçage et séchage des coussinets après chaque sortie.`,
+      ],
+      en: [
+        `The TTC peak ban: no pet may board a subway, streetcar or bus on weekdays from 6:30 to 10:00 and from 15:30 to 19:00. Outside those windows travel is free with no size limit.`,
+        `Outside a designated off-leash area the leash must be no longer than two metres, and a loose dog elsewhere risks a fine of up to 615 dollars.`,
+        `Swimming beaches are closed to dogs from 1 April to 31 October. The one summer exception is the Cherry Beach off-leash area, which is open all year.`,
+        `From 1 November to 31 March dogs may run off-leash below the snow fence line at Kew-Balmy and Woodbine, on the sand between the fence and the water.`,
+        `Road salt from December to March: use boots or a paw balm, then rinse and dry the pads after every walk.`,
+      ],
+      es: [
+        `Veto de la TTC en hora punta: ninguna mascota puede subir al metro, tranvía o autobús entre semana de 6:30 a 10:00 y de 15:30 a 19:00. Fuera de esas franjas el viaje es gratis y sin límite de tamaño.`,
+        `Fuera de un área canina designada la correa no puede superar los dos metros, y un perro suelto en otro sitio se arriesga a una multa de hasta 615 dólares.`,
+        `Playas de baño cerradas a los perros del 1 de abril al 31 de octubre. La única excepción veraniega es el área sin correa de Cherry Beach, abierta todo el año.`,
+        `Del 1 de noviembre al 31 de marzo los perros pueden correr sueltos por debajo de la línea de la valla de nieve en Kew-Balmy y Woodbine, sobre la arena entre la valla y el agua.`,
+        `Sal de carretera de diciembre a marzo: botas o bálsamo, y luego enjuagar y secar las almohadillas después de cada paseo.`,
+      ],
+      pt: [
+        `Proibição da TTC nas horas de ponta: nenhum animal pode entrar no metro, elétrico ou autocarro nos dias úteis das 6:30 às 10:00 e das 15:30 às 19:00. Fora desses horários a viagem é gratuita e sem limite de porte.`,
+        `Fora de uma área canina designada a trela não pode exceder dois metros, e um cão solto noutro sítio arrisca uma multa até 615 dólares.`,
+        `Praias de banhos fechadas aos cães de 1 de abril a 31 de outubro. A única exceção de verão é a área sem trela da Cherry Beach, aberta todo o ano.`,
+        `De 1 de novembro a 31 de março os cães podem correr soltos abaixo da linha da vedação de neve em Kew-Balmy e Woodbine, na areia entre a vedação e a água.`,
+        `Sal das estradas de dezembro a março: botas ou bálsamo, e depois lavar e secar as almofadinhas após cada passeio.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Canada : certificat de vaccination antirabique valide en français ou en anglais, signé par un vétérinaire habilité, mentionnant numéro de puce, date de vaccination, date d'expiration et marque du vaccin (ACIA).`,
+        `Loi ontarienne sur les races : posséder, céder ou importer un pit-bull est interdit dans la province, définition large incluant les chiens d'apparence substantiellement semblable. Prenez un avis juridique avant de réserver.`,
+        `Depuis l'aéroport Pearson (YYZ), le train UP Express rejoint Union Station en 25 minutes et accepte jusqu'à deux chiens en laisse gratuitement hors heures de pointe.`,
+        `Urgences vétérinaires 24 h/24 : Veterinary Emergency Clinic, 920 Yonge Street, +1 416 920-2002 ; Central Toronto Veterinary Referral Clinic, 1051 Eglinton Avenue West, +1 416 784-4444. Le 911 est réservé aux humains.`,
+        `Monnaie : dollar canadien. Les soins vétérinaires sont entièrement privés, avec acompte demandé avant traitement : vérifiez la couverture de votre assurance voyage.`,
+      ],
+      en: [
+        `Entering Canada: a valid rabies vaccination certificate in English or French, signed by a licensed veterinarian, stating microchip number, vaccination date, expiry date and vaccine brand (CFIA).`,
+        `Ontario breed law: owning, transferring or importing a pit bull is prohibited in the province, with a broad definition covering dogs substantially similar in appearance. Take legal advice before booking.`,
+        `From Pearson airport (YYZ) the UP Express train reaches Union Station in 25 minutes and carries up to two leashed dogs free of charge outside peak hours.`,
+        `24-hour veterinary emergencies: Veterinary Emergency Clinic, 920 Yonge Street, +1 416 920-2002; Central Toronto Veterinary Referral Clinic, 1051 Eglinton Avenue West, +1 416 784-4444. 911 is for humans only.`,
+        `Currency: Canadian dollar. Veterinary care is entirely private and a deposit is normally requested before treatment, so check what your travel insurance covers.`,
+      ],
+      es: [
+        `Entrada en Canadá: certificado de vacunación antirrábica válido en inglés o francés, firmado por un veterinario colegiado, con número de microchip, fecha de vacunación, fecha de caducidad y marca de la vacuna (CFIA).`,
+        `Ley ontariana sobre razas: poseer, ceder o importar un pit bull está prohibido en la provincia, con una definición amplia que cubre perros de apariencia sustancialmente similar. Consulta a un abogado antes de reservar.`,
+        `Desde el aeropuerto de Pearson (YYZ), el tren UP Express llega a Union Station en 25 minutos y admite hasta dos perros con correa gratis fuera de las horas punta.`,
+        `Urgencias veterinarias 24 horas: Veterinary Emergency Clinic, 920 Yonge Street, +1 416 920-2002; Central Toronto Veterinary Referral Clinic, 1051 Eglinton Avenue West, +1 416 784-4444. El 911 es solo para humanos.`,
+        `Moneda: dólar canadiense. La atención veterinaria es totalmente privada y suele pedirse un depósito antes del tratamiento: comprueba la cobertura de tu seguro de viaje.`,
+      ],
+      pt: [
+        `Entrada no Canadá: certificado de vacinação antirrábica válido em inglês ou francês, assinado por um médico veterinário licenciado, com número de microchip, data de vacinação, data de validade e marca da vacina (CFIA).`,
+        `Lei do Ontário sobre raças: possuir, ceder ou importar um pit bull é proibido na província, com uma definição ampla que abrange cães de aparência substancialmente semelhante. Procure aconselhamento jurídico antes de reservar.`,
+        `A partir do aeroporto de Pearson (YYZ), o comboio UP Express chega à Union Station em 25 minutos e aceita até dois cães à trela gratuitamente fora das horas de ponta.`,
+        `Urgências veterinárias 24 horas: Veterinary Emergency Clinic, 920 Yonge Street, +1 416 920-2002; Central Toronto Veterinary Referral Clinic, 1051 Eglinton Avenue West, +1 416 784-4444. O 911 é apenas para humanos.`,
+        `Moeda: dólar canadiano. Os cuidados veterinários são totalmente privados e é normalmente pedido um depósito antes do tratamento: confirme a cobertura do seu seguro de viagem.`,
       ],
     },
   },

@@ -1,0 +1,916 @@
+{
+  "slug": "conwy",
+  "name": "Conwy",
+  "country": "United Kingdom",
+  "flag": "🇬🇧",
+  "lastUpdated": "2026-07-27",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Conwy",
+      "titleFr": "Restaurants qui acceptent les chiens à Conwy",
+      "titleEs": "Restaurantes que admiten perros en Conwy",
+      "titlePt": "Restaurantes que aceitam cães em Conwy",
+      "introEn": "Conwy is an exceptionally dog-friendly little town, with dog-welcoming pubs and cafes strung along Castle Street, the High Street and Conwy Quay beneath the castle. The waterfront and the walled centre are the easiest places to find a table with a dog, and several places lay on water bowls, treats and even dog beds.",
+      "introFr": "Conwy est une petite ville exceptionnellement accueillante pour les chiens, avec des pubs et cafés qui les acceptent tout au long de Castle Street, de la High Street et de Conwy Quay au pied du château. Le front de mer et le centre fortifié sont les endroits les plus faciles pour trouver une table avec un chien, et plusieurs adresses proposent gamelles d'eau, friandises et même des paniers pour chien.",
+      "introEs": "Conwy es una pequeña ciudad excepcionalmente acogedora para perros, con pubs y cafés que los admiten a lo largo de Castle Street, la High Street y Conwy Quay al pie del castillo. El paseo marítimo y el centro amurallado son los lugares más fáciles para encontrar mesa con un perro, y varios locales ofrecen cuencos de agua, golosinas e incluso camas para perros.",
+      "introPt": "Conwy é uma pequena cidade excecionalmente acolhedora para cães, com pubs e cafés que os aceitam ao longo de Castle Street, da High Street e de Conwy Quay ao pé do castelo. A frente ribeirinha e o centro muralhado são os lugares mais fáceis para arranjar mesa com um cão, e vários locais oferecem taças de água, guloseimas e até camas para cães.",
+      "places": [
+        {
+          "name": "The Mulberry",
+          "address": "Ellis Way, Conwy Marina, Conwy, LL32 8GU",
+          "neighborhood": "Conwy Marina",
+          "photo": "/images/city-places/conwy-restaurants-the-mulberry.jpg",
+          "website": "https://www.mulberryconwy.com/",
+          "description": "A renovated waterfront pub on Conwy Marina with wide views across the estuary and the castle, serving a menu of comforting pub dishes. It has a well-signed dog-friendly section with indoor and outdoor seating, a relaxed spot after a walk along Conwy Morfa.",
+          "descriptionFr": "Un pub rénové au bord de l'eau sur Conwy Marina, avec de larges vues sur l'estuaire et le château, servant une carte de plats de pub réconfortants. Il dispose d'un espace bien signalé acceptant les chiens, en intérieur et en terrasse, une adresse détendue après une promenade le long de Conwy Morfa.",
+          "descriptionEs": "Un pub renovado junto al agua en Conwy Marina, con amplias vistas sobre el estuario y el castillo, que sirve una carta de platos de pub reconfortantes. Tiene una zona bien señalizada que admite perros, en interior y en terraza, un sitio relajado tras un paseo por Conwy Morfa.",
+          "descriptionPt": "Um pub renovado à beira de água em Conwy Marina, com amplas vistas sobre o estuário e o castelo, que serve uma ementa de pratos de pub reconfortantes. Tem uma zona bem sinalizada que aceita cães, em interior e em esplanada, um sítio descontraído depois de um passeio ao longo de Conwy Morfa.",
+          "petPolicy": "Dogs welcome in the signed dog-friendly section, on a lead.",
+          "petPolicyFr": "Chiens bienvenus dans l'espace signalé accueillant les chiens, tenus en laisse.",
+          "petPolicyEs": "Perros bienvenidos en la zona señalizada que admite perros, con correa.",
+          "petPolicyPt": "Cães bem-vindos na zona sinalizada que aceita cães, à trela.",
+          "priceRange": "Pub (mains around £13-£20)",
+          "mustTry": "A Sunday roast with the marina view",
+          "mustTryFr": "Un rôti du dimanche avec la vue sur la marina",
+          "mustTryEs": "Un asado de domingo con las vistas a la marina",
+          "mustTryPt": "Um assado de domingo com a vista sobre a marina",
+          "openingHours": "Daily, lunch and dinner",
+          "tip": "It sits right by Conwy Marina and Conwy Morfa, so pair it with an estuary or beach walk before you eat.",
+          "tipFr": "Il se trouve juste à côté de Conwy Marina et Conwy Morfa : associez-le à une promenade sur l'estuaire ou la plage avant de manger.",
+          "tipEs": "Está justo al lado de Conwy Marina y Conwy Morfa, así que combínalo con un paseo por el estuario o la playa antes de comer.",
+          "tipPt": "Fica mesmo ao lado de Conwy Marina e Conwy Morfa, por isso combine-o com um passeio pelo estuário ou pela praia antes de comer.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Mulberry+Conwy+Marina"
+        },
+        {
+          "name": "Cantîn",
+          "address": "Conwy, LL32",
+          "neighborhood": "Conwy town centre",
+          "photo": "/images/city-places/conwy-restaurants-cantin.jpg",
+          "website": "https://www.cantincafeconwy.co.uk/",
+          "description": "A friendly independent cafe in the walled town that goes out of its way for dogs, with outdoor seating and a Mut Hut offering dog beds, treats and water. It is a favourite refuelling stop for walkers heading up Conwy Mountain or along the quay.",
+          "descriptionFr": "Un café indépendant et chaleureux dans la ville fortifiée qui se met en quatre pour les chiens, avec une terrasse et une Mut Hut proposant paniers, friandises et eau pour chiens. C'est une halte prisée des marcheurs qui montent Conwy Mountain ou longent le quai.",
+          "descriptionEs": "Un café independiente y acogedor en la ciudad amurallada que se desvive por los perros, con terraza y una Mut Hut que ofrece camas, golosinas y agua para perros. Es una parada favorita de los caminantes que suben Conwy Mountain o recorren el muelle.",
+          "descriptionPt": "Um café independente e acolhedor na cidade muralhada que se desdobra pelos cães, com esplanada e uma Mut Hut que oferece camas, guloseimas e água para cães. É uma paragem favorita dos caminhantes que sobem Conwy Mountain ou percorrem o cais.",
+          "petPolicy": "Dogs warmly welcome, with dog beds, treats and water outside on a lead.",
+          "petPolicyFr": "Chiens chaleureusement accueillis, avec paniers, friandises et eau à l'extérieur, tenus en laisse.",
+          "petPolicyEs": "Perros cálidamente bienvenidos, con camas, golosinas y agua fuera, con correa.",
+          "petPolicyPt": "Cães calorosamente bem-vindos, com camas, guloseimas e água no exterior, à trela.",
+          "priceRange": "Cafe (light meals, mid-range)",
+          "mustTry": "A coffee and cake with a doggy treat from the Mut Hut",
+          "mustTryFr": "Un café et une pâtisserie avec une friandise pour chien de la Mut Hut",
+          "mustTryEs": "Un café y un pastel con una golosina para perro de la Mut Hut",
+          "mustTryPt": "Um café e um bolo com uma guloseima para cão da Mut Hut",
+          "openingHours": "Daytime, most days (seasonal)",
+          "tip": "Ideal before or after a Conwy Mountain walk; the dog beds and treats make it an easy pit stop with a tired dog.",
+          "tipFr": "Idéal avant ou après une promenade sur Conwy Mountain ; les paniers et friandises en font une halte facile avec un chien fatigué.",
+          "tipEs": "Ideal antes o después de un paseo por Conwy Mountain; las camas y golosinas lo hacen una parada fácil con un perro cansado.",
+          "tipPt": "Ideal antes ou depois de um passeio por Conwy Mountain; as camas e guloseimas fazem dele uma paragem fácil com um cão cansado.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cantin+cafe+Conwy"
+        },
+        {
+          "name": "Liverpool Arms",
+          "address": "Conwy Quay, Conwy, LL32",
+          "neighborhood": "Conwy Quay",
+          "photo": "/images/city-places/conwy-restaurants-liverpool-arms.jpg",
+          "website": "https://www.jwlees.co.uk/pubs/the-liverpool-arms-conwy/",
+          "description": "A traditional quayside pub right on Conwy Quay beneath the town walls, with tables looking out over the estuary and the fishing boats. Dogs are welcome in the bar on a lead, a classic stop after a stroll along the harbour and past the Smallest House.",
+          "descriptionFr": "Un pub traditionnel sur Conwy Quay, au pied des remparts, avec des tables donnant sur l'estuaire et les bateaux de pêche. Les chiens sont les bienvenus dans le bar, tenus en laisse, une halte classique après une promenade le long du port et devant la plus petite maison.",
+          "descriptionEs": "Un pub tradicional junto al muelle, en Conwy Quay al pie de las murallas, con mesas que dan al estuario y a las barcas de pesca. Los perros son bienvenidos en el bar con correa, una parada clásica tras un paseo por el puerto y frente a la Casa más Pequeña.",
+          "descriptionPt": "Um pub tradicional junto ao cais, em Conwy Quay ao pé das muralhas, com mesas voltadas para o estuário e os barcos de pesca. Os cães são bem-vindos no bar à trela, uma paragem clássica depois de um passeio pelo porto e frente à Casa Mais Pequena.",
+          "petPolicy": "Dogs welcome in the bar on a lead.",
+          "petPolicyFr": "Chiens bienvenus dans le bar, tenus en laisse.",
+          "petPolicyEs": "Perros bienvenidos en el bar con correa.",
+          "petPolicyPt": "Cães bem-vindos no bar à trela.",
+          "priceRange": "Pub (mains around £12-£18)",
+          "mustTry": "A pint by the quay with the estuary view",
+          "mustTryFr": "Une pinte sur le quai avec la vue sur l'estuaire",
+          "mustTryEs": "Una pinta junto al muelle con las vistas al estuario",
+          "mustTryPt": "Uma imperial junto ao cais com a vista sobre o estuário",
+          "openingHours": "Daily, lunch and dinner",
+          "tip": "The quay gets busy on sunny days; the bar is just as dog-welcoming when the North Wales weather turns.",
+          "tipFr": "Le quai est fréquenté les jours ensoleillés ; le bar est tout aussi accueillant pour les chiens quand le temps du nord du pays de Galles se gâte.",
+          "tipEs": "El muelle se llena en días soleados; el bar es igual de acogedor para perros cuando el tiempo del norte de Gales empeora.",
+          "tipPt": "O cais enche nos dias de sol; o bar é igualmente acolhedor para cães quando o tempo do norte do País de Gales piora.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Liverpool+Arms+Conwy+Quay"
+        }
+      ],
+      "tipsEn": [
+        "Castle Street, the High Street and Conwy Quay hold the densest cluster of dog-welcoming pubs and cafes in the walled town.",
+        "Several places, such as Cantîn, lay on dog beds, treats and water, so a dog is genuinely part of the day out here.",
+        "Bring a mat so your dog can settle at your feet; Conwy is used to dogs, but busy quayside bars appreciate a dog kept out of the walkway."
+      ],
+      "tipsFr": [
+        "Castle Street, la High Street et Conwy Quay concentrent le plus de pubs et cafés acceptant les chiens dans la ville fortifiée.",
+        "Plusieurs adresses, comme Cantîn, proposent paniers, friandises et eau pour chiens : un chien fait vraiment partie de la journée ici.",
+        "Apportez un tapis pour que votre chien s'installe à vos pieds ; Conwy a l'habitude des chiens, mais les bars du quai bondés apprécient un chien gardé hors du passage."
+      ],
+      "tipsEs": [
+        "Castle Street, la High Street y Conwy Quay concentran la mayor cantidad de pubs y cafés que admiten perros en la ciudad amurallada.",
+        "Varios locales, como Cantîn, ofrecen camas, golosinas y agua para perros, así que un perro es de verdad parte del día aquí.",
+        "Lleva una manta para que tu perro se acomode a tus pies; Conwy está acostumbrado a los perros, pero los bares del muelle concurridos agradecen un perro fuera del paso."
+      ],
+      "tipsPt": [
+        "Castle Street, a High Street e Conwy Quay concentram o maior número de pubs e cafés que aceitam cães na cidade muralhada.",
+        "Vários locais, como o Cantîn, oferecem camas, guloseimas e água para cães, por isso um cão faz mesmo parte do dia aqui.",
+        "Leve uma manta para o cão se acomodar aos seus pés; Conwy está habituada aos cães, mas os bares do cais movimentados agradecem um cão fora da passagem."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed in Conwy restaurants and pubs?",
+          "a": "Yes, widely. Conwy is exceptionally dog-friendly, and most pubs and cafes along Castle Street, the High Street and Conwy Quay welcome dogs on a lead. Some, like Cantîn, go further with dog beds, treats and water. Ask which area is dog-friendly, as some indoor dining rooms differ."
+        },
+        {
+          "q": "Can I eat by the water with my dog in Conwy?",
+          "a": "Yes. The Liverpool Arms on Conwy Quay and The Mulberry at Conwy Marina both have dog-friendly seating with estuary views. They pair well with a walk along the quay or Conwy Morfa, so a dog can be part of the whole outing."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les restaurants et pubs de Conwy ?",
+          "a": "Oui, largement. Conwy est exceptionnellement accueillant pour les chiens, et la plupart des pubs et cafés de Castle Street, de la High Street et de Conwy Quay les admettent en laisse. Certains, comme Cantîn, vont plus loin avec paniers, friandises et eau. Demandez quel espace accepte les chiens, car certaines salles diffèrent."
+        },
+        {
+          "q": "Puis-je manger au bord de l'eau avec mon chien à Conwy ?",
+          "a": "Oui. Le Liverpool Arms sur Conwy Quay et The Mulberry à Conwy Marina disposent tous deux d'un espace acceptant les chiens avec vue sur l'estuaire. Ils se marient bien avec une promenade le long du quai ou de Conwy Morfa : un chien peut faire partie de toute la sortie."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Se admiten perros en los restaurantes y pubs de Conwy?",
+          "a": "Sí, ampliamente. Conwy es excepcionalmente acogedor para perros, y la mayoría de los pubs y cafés de Castle Street, la High Street y Conwy Quay los admiten con correa. Algunos, como Cantîn, van más allá con camas, golosinas y agua. Pregunta qué zona admite perros, porque algunas salas difieren."
+        },
+        {
+          "q": "Puedo comer junto al agua con mi perro en Conwy?",
+          "a": "Sí. El Liverpool Arms en Conwy Quay y The Mulberry en Conwy Marina tienen zona apta para perros con vistas al estuario. Combinan bien con un paseo por el muelle o Conwy Morfa, así que un perro puede ser parte de toda la salida."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães são admitidos nos restaurantes e pubs de Conwy?",
+          "a": "Sim, amplamente. Conwy é excecionalmente acolhedora para cães, e a maioria dos pubs e cafés de Castle Street, da High Street e de Conwy Quay os aceita à trela. Alguns, como o Cantîn, vão mais longe com camas, guloseimas e água. Pergunte que zona aceita cães, porque algumas salas diferem."
+        },
+        {
+          "q": "Posso comer junto à água com o meu cão em Conwy?",
+          "a": "Sim. O Liverpool Arms em Conwy Quay e o The Mulberry em Conwy Marina têm zona que aceita cães com vistas para o estuário. Combinam bem com um passeio pelo cais ou por Conwy Morfa, por isso um cão pode fazer parte de toda a saída."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog-Friendly Walks and Hikes around Conwy",
+      "titleFr": "Promenades et randonnées qui accueillent les chiens autour de Conwy",
+      "titleEs": "Paseos y rutas que admiten perros en torno a Conwy",
+      "titlePt": "Passeios e caminhadas que acolhem cães à volta de Conwy",
+      "introEn": "Conwy is a walker's gateway to Eryri (Snowdonia), and the walks are where a dog really comes into its own. Conwy Mountain rises straight above the town with grassy paths and huge coastal views, the Sychnant Pass and Bodlondeb Woods give gentler options close in, and Bodnant Garden and the Aber Falls in Eryri are dog-friendly on a lead. Keep dogs on a lead near the sheep grazed on the open hills.",
+      "introFr": "Conwy est une porte d'entrée pour les marcheurs vers Eryri (Snowdonia), et c'est dans les promenades qu'un chien s'épanouit vraiment. Conwy Mountain s'élève juste au-dessus de la ville avec des chemins herbeux et d'immenses vues côtières, le Sychnant Pass et Bodlondeb Woods offrent des options plus douces tout près, et Bodnant Garden et les chutes d'Aber, dans l'Eryri, acceptent les chiens en laisse. Gardez les chiens en laisse près des moutons qui pâturent sur les collines ouvertes.",
+      "introEs": "Conwy es una puerta de entrada para caminantes hacia Eryri (Snowdonia), y es en los paseos donde un perro realmente disfruta. Conwy Mountain se alza justo sobre la ciudad con caminos herbosos y enormes vistas costeras, el Sychnant Pass y Bodlondeb Woods ofrecen opciones más suaves muy cerca, y Bodnant Garden y las cataratas de Aber, en Eryri, admiten perros con correa. Manten a los perros con correa cerca de las ovejas que pastan en las colinas abiertas.",
+      "introPt": "Conwy é uma porta de entrada para caminhantes rumo a Eryri (Snowdonia), e é nos passeios que um cão realmente se realiza. A Conwy Mountain ergue-se logo acima da cidade com caminhos relvados e enormes vistas costeiras, o Sychnant Pass e os Bodlondeb Woods oferecem opções mais suaves ali perto, e o Bodnant Garden e as quedas de Aber, em Eryri, aceitam cães à trela. Mantenha os cães à trela perto das ovelhas que pastam nas colinas abertas.",
+      "places": [
+        {
+          "name": "Conwy Mountain (Mynydd y Dref)",
+          "type": "Open-access hill with coastal views",
+          "photo": "/images/city-places/conwy-parks-conwy-mountain.jpg",
+          "website": "https://www.conwy.gov.uk/",
+          "description": "The whaleback hill rising straight above the town, crossed by grassy paths and topped by the remains of an Iron Age hillfort, with sweeping views over the estuary, the coast and Eryri. A recommended circuit of about 3.5 miles makes it the classic Conwy dog walk, open access and free.",
+          "descriptionFr": "La colline en dos de baleine qui s'élève juste au-dessus de la ville, parcourue de chemins herbeux et coiffée des vestiges d'un fort de l'âge du fer, avec de larges vues sur l'estuaire, la côte et l'Eryri. Un circuit recommandé d'environ 5,5 km en fait la promenade canine classique de Conwy, en accès libre et gratuite.",
+          "descriptionEs": "La colina en lomo de ballena que se alza justo sobre la ciudad, cruzada por caminos herbosos y coronada por los restos de un castro de la Edad del Hierro, con amplias vistas del estuario, la costa y Eryri. Un circuito recomendado de unos 5,5 km lo convierte en el paseo canino clásico de Conwy, de acceso libre y gratuito.",
+          "descriptionPt": "A colina em dorso de baleia que se ergue logo acima da cidade, cruzada por caminhos relvados e coroada pelos restos de um castro da Idade do Ferro, com amplas vistas do estuário, da costa e de Eryri. Um circuito recomendado de cerca de 5,5 km faz dele o passeio canino clássico de Conwy, de acesso livre e gratuito.",
+          "offLeash": false,
+          "offLeashArea": "Sheep and ponies graze the open hill, so keep your dog on a lead; the paths are grassy but exposed and can be windy.",
+          "offLeashAreaFr": "Des moutons et des poneys pâturent sur la colline ouverte : gardez votre chien en laisse ; les chemins sont herbeux mais exposés et peuvent être venteux.",
+          "offLeashAreaEs": "Ovejas y ponis pastan en la colina abierta, así que manten a tu perro con correa; los caminos son herbosos pero expuestos y pueden ser ventosos.",
+          "offLeashAreaPt": "Ovelhas e póneis pastam na colina aberta, por isso mantenha o cão à trela; os caminhos são relvados mas expostos e podem ser ventosos.",
+          "tip": "Start from the western edge of town near Sychnant; carry water, as there is none on the hill, and watch for grazing livestock throughout.",
+          "tipFr": "Partez de la lisière ouest de la ville près de Sychnant ; emportez de l'eau, il n'y en a pas sur la colline, et surveillez le bétail qui pâture tout du long.",
+          "tipEs": "Empieza desde el borde oeste de la ciudad cerca de Sychnant; lleva agua, no hay en la colina, y vigila el ganado que pasta en todo el recorrido.",
+          "tipPt": "Comece da orla oeste da cidade perto de Sychnant; leve água, não há na colina, e vigie o gado que pasta ao longo do percurso.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Conwy+Mountain+Mynydd+y+Dref"
+        },
+        {
+          "name": "Bodnant Garden (National Trust)",
+          "type": "Historic garden with dog days",
+          "photo": "/images/city-places/conwy-parks-bodnant-garden.jpg",
+          "website": "https://www.nationaltrust.org.uk/visit/wales/bodnant-garden",
+          "description": "A world-famous National Trust garden in the Conwy Valley at Tal-y-cafn, with terraces, a laburnum arch, waterfalls and woodland walks framed by the mountains of Eryri. Dogs are welcome on a short, non-extendable lead on set days, so it is a rare chance to share a great garden with your dog.",
+          "descriptionFr": "Un jardin du National Trust de renommée mondiale dans la vallée de Conwy, à Tal-y-cafn, avec des terrasses, une arche de cytise, des cascades et des promenades boisées encadrées par les montagnes de l'Eryri. Les chiens sont admis en laisse courte non extensible certains jours : une rare occasion de partager un grand jardin avec son chien.",
+          "descriptionEs": "Un jardín del National Trust de fama mundial en el valle de Conwy, en Tal-y-cafn, con terrazas, un arco de cítiso, cascadas y paseos boscosos enmarcados por las montañas de Eryri. Los perros son bienvenidos con correa corta no extensible en días determinados: una rara ocasión de compartir un gran jardín con tu perro.",
+          "descriptionPt": "Um jardim do National Trust de fama mundial no vale de Conwy, em Tal-y-cafn, com terraços, um arco de laburno, cascatas e passeios arborizados emoldurados pelas montanhas de Eryri. Os cães são bem-vindos com trela curta não extensível em dias determinados: uma rara ocasião de partilhar um grande jardim com o seu cão.",
+          "offLeash": false,
+          "offLeashArea": "Dogs must be on a short, non-extendable lead; leads are available at Visitor Reception if needed.",
+          "offLeashAreaFr": "Les chiens doivent être en laisse courte non extensible ; des laisses sont disponibles à l'accueil si besoin.",
+          "offLeashAreaEs": "Los perros deben ir con correa corta no extensible; hay correas en Recepción si se necesitan.",
+          "offLeashAreaPt": "Os cães têm de ir com trela curta não extensível; há trelas na Receção se necessário.",
+          "tip": "Dogs are welcome Thursday to Sunday from 1 April to 30 September, and every day from 1 October to 31 March; check the current times before you go.",
+          "tipFr": "Les chiens sont admis du jeudi au dimanche du 1er avril au 30 septembre, et tous les jours du 1er octobre au 31 mars ; vérifiez les horaires en vigueur avant de partir.",
+          "tipEs": "Los perros son bienvenidos de jueves a domingo del 1 de abril al 30 de septiembre, y todos los días del 1 de octubre al 31 de marzo; consulta los horarios vigentes antes de ir.",
+          "tipPt": "Os cães são bem-vindos de quinta a domingo de 1 de abril a 30 de setembro, e todos os dias de 1 de outubro a 31 de março; verifique os horários em vigor antes de ir.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bodnant+Garden+National+Trust"
+        },
+        {
+          "name": "Aber Falls (Rhaeadr Fawr, Eryri)",
+          "type": "Waterfall trail in Snowdonia",
+          "photo": "/images/city-places/conwy-parks-aber-falls.jpg",
+          "website": "https://www.eryri.llyw.cymru/",
+          "description": "A family-friendly waterfall walk at Abergwyngregyn, a short drive west of Conwy in Eryri (Snowdonia), following a wooded valley to the dramatic 37-metre Rhaeadr Fawr. It is a straightforward there-and-back trail that welcomes dogs on a lead, with sheep grazing the surrounding hills.",
+          "descriptionFr": "Une promenade familiale vers une cascade à Abergwyngregyn, à quelques minutes en voiture à l'ouest de Conwy dans l'Eryri (Snowdonia), suivant une vallée boisée jusqu'à la spectaculaire Rhaeadr Fawr de 37 mètres. C'est un aller-retour simple qui accepte les chiens en laisse, avec des moutons qui pâturent les collines alentour.",
+          "descriptionEs": "Un paseo familiar hacia una cascada en Abergwyngregyn, a poca distancia en coche al oeste de Conwy en Eryri (Snowdonia), siguiendo un valle boscoso hasta la espectacular Rhaeadr Fawr de 37 metros. Es un sencillo camino de ida y vuelta que admite perros con correa, con ovejas que pastan en las colinas de alrededor.",
+          "descriptionPt": "Um passeio familiar rumo a uma cascata em Abergwyngregyn, a pouca distância de carro a oeste de Conwy em Eryri (Snowdonia), seguindo um vale arborizado até à espetacular Rhaeadr Fawr de 37 metros. É um percurso simples de ida e volta que aceita cães à trela, com ovelhas a pastar nas colinas em redor.",
+          "offLeash": false,
+          "offLeashArea": "Keep dogs on a lead throughout; the hills around the falls are grazed by sheep and the rocks near the waterfall are slippery.",
+          "offLeashAreaFr": "Gardez les chiens en laisse tout du long ; les collines autour des chutes sont pâturées par des moutons et les rochers près de la cascade sont glissants.",
+          "offLeashAreaEs": "Manten a los perros con correa en todo el recorrido; las colinas alrededor de las cataratas tienen ovejas pastando y las rocas junto a la cascada son resbaladizas.",
+          "offLeashAreaPt": "Mantenha os cães à trela ao longo do percurso; as colinas à volta das quedas têm ovelhas a pastar e as rochas junto à cascata são escorregadias.",
+          "tip": "It is an easy walk suitable for most dogs; wear grippy shoes near the falls and avoid the rocks after heavy rain.",
+          "tipFr": "C'est une promenade facile qui convient à la plupart des chiens ; portez des chaussures adhérentes près des chutes et évitez les rochers après de fortes pluies.",
+          "tipEs": "Es un paseo fácil apto para la mayoría de los perros; usa calzado con buen agarre cerca de las cataratas y evita las rocas tras lluvias fuertes.",
+          "tipPt": "É um passeio fácil adequado à maioria dos cães; use calçado aderente perto das quedas e evite as rochas depois de chuva forte.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Aber+Falls+Rhaeadr+Fawr+Abergwyngregyn"
+        }
+      ],
+      "tipsEn": [
+        "Conwy Mountain is the classic town dog walk, with a recommended 3.5-mile circuit and huge coastal views; keep dogs on a lead near grazing sheep and ponies.",
+        "Bodnant Garden welcomes dogs on a short, non-extendable lead Thursday to Sunday from April to September, and every day from October to March.",
+        "For an Eryri day out, the Aber Falls trail is an easy dog-friendly waterfall walk a short drive west, with sheep grazing the surrounding hills."
+      ],
+      "tipsFr": [
+        "Conwy Mountain est la promenade canine classique de la ville, avec un circuit recommandé de 5,5 km et d'immenses vues côtières ; gardez les chiens en laisse près des moutons et poneys qui pâturent.",
+        "Bodnant Garden accueille les chiens en laisse courte non extensible du jeudi au dimanche d'avril à septembre, et tous les jours d'octobre à mars.",
+        "Pour une journée dans l'Eryri, le sentier des chutes d'Aber est une promenade facile vers une cascade qui accepte les chiens, à quelques minutes en voiture à l'ouest, avec des moutons sur les collines alentour."
+      ],
+      "tipsEs": [
+        "Conwy Mountain es el paseo canino clásico de la ciudad, con un circuito recomendado de 5,5 km y enormes vistas costeras; manten a los perros con correa cerca de las ovejas y ponis que pastan.",
+        "Bodnant Garden admite perros con correa corta no extensible de jueves a domingo de abril a septiembre, y todos los días de octubre a marzo.",
+        "Para un día en Eryri, el camino de las cataratas de Aber es un paseo fácil hacia una cascada que admite perros, a poca distancia en coche al oeste, con ovejas en las colinas de alrededor."
+      ],
+      "tipsPt": [
+        "A Conwy Mountain é o passeio canino clássico da cidade, com um circuito recomendado de 5,5 km e enormes vistas costeiras; mantenha os cães à trela perto das ovelhas e póneis que pastam.",
+        "O Bodnant Garden aceita cães com trela curta não extensível de quinta a domingo de abril a setembro, e todos os dias de outubro a março.",
+        "Para um dia em Eryri, o trilho das quedas de Aber é um passeio fácil rumo a uma cascata que aceita cães, a pouca distância de carro a oeste, com ovelhas nas colinas em redor."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I hike with my dog around Conwy?",
+          "a": "Conwy Mountain rises straight above the town with a recommended 3.5-mile circuit and big coastal views, and the Sychnant Pass and Bodlondeb Woods give gentler options close in. Further out, the Aber Falls trail in Eryri is an easy dog-friendly waterfall walk. Keep dogs on a lead near grazing livestock."
+        },
+        {
+          "q": "Can I take my dog to Bodnant Garden?",
+          "a": "Yes, on set days. Dogs are welcome on a short, non-extendable lead Thursday to Sunday from 1 April to 30 September, and every day from 1 October to 31 March. Short leads are available at Visitor Reception, and it is a rare chance to enjoy a great garden with a dog."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où randonner avec mon chien autour de Conwy ?",
+          "a": "Conwy Mountain s'élève juste au-dessus de la ville avec un circuit recommandé de 5,5 km et de larges vues côtières, et le Sychnant Pass et Bodlondeb Woods offrent des options plus douces tout près. Plus loin, le sentier des chutes d'Aber dans l'Eryri est une promenade facile vers une cascade qui accepte les chiens. Gardez les chiens en laisse près du bétail qui pâture."
+        },
+        {
+          "q": "Puis-je emmener mon chien à Bodnant Garden ?",
+          "a": "Oui, certains jours. Les chiens sont admis en laisse courte non extensible du jeudi au dimanche du 1er avril au 30 septembre, et tous les jours du 1er octobre au 31 mars. Des laisses courtes sont disponibles à l'accueil : c'est une rare occasion de profiter d'un grand jardin avec un chien."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Dónde puedo hacer senderismo con mi perro en torno a Conwy?",
+          "a": "Conwy Mountain se alza justo sobre la ciudad con un circuito recomendado de 5,5 km y amplias vistas costeras, y el Sychnant Pass y Bodlondeb Woods ofrecen opciones más suaves muy cerca. Más lejos, el camino de las cataratas de Aber en Eryri es un paseo fácil hacia una cascada que admite perros. Manten a los perros con correa cerca del ganado que pasta."
+        },
+        {
+          "q": "Puedo llevar a mi perro a Bodnant Garden?",
+          "a": "Sí, en días determinados. Los perros son bienvenidos con correa corta no extensible de jueves a domingo del 1 de abril al 30 de septiembre, y todos los días del 1 de octubre al 31 de marzo. Hay correas cortas en Recepción, y es una rara ocasión de disfrutar de un gran jardín con un perro."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Onde posso caminhar com o meu cão à volta de Conwy?",
+          "a": "A Conwy Mountain ergue-se logo acima da cidade com um circuito recomendado de 5,5 km e amplas vistas costeiras, e o Sychnant Pass e os Bodlondeb Woods oferecem opções mais suaves ali perto. Mais longe, o trilho das quedas de Aber em Eryri é um passeio fácil rumo a uma cascata que aceita cães. Mantenha os cães à trela perto do gado que pasta."
+        },
+        {
+          "q": "Posso levar o meu cão ao Bodnant Garden?",
+          "a": "Sim, em dias determinados. Os cães são bem-vindos com trela curta não extensível de quinta a domingo de 1 de abril a 30 de setembro, e todos os dias de 1 de outubro a 31 de março. Há trelas curtas na Receção, e é uma rara ocasião de desfrutar de um grande jardim com um cão."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Conwy with a Dog",
+      "titleFr": "Se déplacer à Conwy avec un chien",
+      "titleEs": "Moverse por Conwy con un perro",
+      "titlePt": "Deslocar-se em Conwy com um cão",
+      "introEn": "Conwy is a compact walled town that is easy to explore on foot, and the nicest way to arrive with a dog is by train on the North Wales Coast Line, where dogs travel free. The main interchange is Llandudno Junction, one stop across the estuary, and the town centre inside the walls is largely walkable, so leaving the car and using the dog-friendly train is the simple, low-stress choice.",
+      "introFr": "Conwy est une petite ville fortifiée facile à parcourir à pied, et la plus agréable façon d'arriver avec un chien est le train sur la North Wales Coast Line, où les chiens voyagent gratuitement. Le principal nœud est Llandudno Junction, à un arrêt de l'autre côté de l'estuaire, et le centre à l'intérieur des remparts se parcourt en grande partie à pied : laisser la voiture et prendre le train acceptant les chiens est le choix simple et sans stress.",
+      "introEs": "Conwy es una pequeña ciudad amurallada fácil de recorrer a pie, y la forma más agradable de llegar con un perro es en tren por la North Wales Coast Line, donde los perros viajan gratis. El principal intercambiador es Llandudno Junction, a una parada al otro lado del estuario, y el centro dentro de las murallas es en gran parte caminable, así que dejar el coche y usar el tren apto para perros es la opción simple y sin estrés.",
+      "introPt": "Conwy é uma pequena cidade muralhada fácil de percorrer a pé, e a forma mais agradável de chegar com um cão é de comboio pela North Wales Coast Line, onde os cães viajam grátis. O principal interface é Llandudno Junction, a uma paragem do outro lado do estuário, e o centro dentro das muralhas é em grande parte caminhável, por isso deixar o carro e usar o comboio que aceita cães é a opção simples e sem stress.",
+      "rules": [
+        {
+          "mode": "National Rail (North Wales Coast Line)",
+          "modeFr": "National Rail (North Wales Coast Line)",
+          "modeEs": "National Rail (North Wales Coast Line)",
+          "modePt": "National Rail (North Wales Coast Line)",
+          "policy": "Under the National Rail Conditions of Travel, up to two dogs travel free with each passenger, on a lead or in a carrier, and not on the seats. Conwy is a request stop on the North Wales Coast Line run by Transport for Wales; the main interchange, Llandudno Junction, is one stop away and has frequent services along the coast to Chester and Holyhead and up the scenic Conwy Valley Line.",
+          "policyFr": "Selon les Conditions de transport de National Rail, jusqu'à deux chiens voyagent gratuitement avec chaque voyageur, en laisse ou dans une caisse, et non sur les sièges. Conwy est un arrêt sur demande de la North Wales Coast Line exploitée par Transport for Wales ; le principal nœud, Llandudno Junction, est à un arrêt et propose des liaisons fréquentes le long de la côte vers Chester et Holyhead et sur la pittoresque Conwy Valley Line.",
+          "policyEs": "Según las Condiciones de viaje de National Rail, hasta dos perros viajan gratis con cada pasajero, con correa o en transportín, y no en los asientos. Conwy es una parada a petición de la North Wales Coast Line operada por Transport for Wales; el principal intercambiador, Llandudno Junction, está a una parada y tiene servicios frecuentes por la costa hacia Chester y Holyhead y por la pintoresca Conwy Valley Line.",
+          "policyPt": "Segundo as Condições de viagem da National Rail, até dois cães viajam grátis com cada passageiro, à trela ou numa caixa, e não nos bancos. Conwy é uma paragem a pedido da North Wales Coast Line explorada pela Transport for Wales; o principal interface, Llandudno Junction, fica a uma paragem e tem serviços frequentes pela costa para Chester e Holyhead e pela pitoresca Conwy Valley Line."
+        },
+        {
+          "mode": "Conwy Valley Line",
+          "modeFr": "Conwy Valley Line",
+          "modeEs": "Conwy Valley Line",
+          "modePt": "Conwy Valley Line",
+          "policy": "The scenic Conwy Valley Line runs from Llandudno Junction up the valley through Betws-y-Coed into the heart of Eryri (Snowdonia) at Blaenau Ffestiniog. Dogs travel free as on all National Rail services, making it a lovely dog-friendly way to reach the mountains and forest walks without a car.",
+          "policyFr": "La pittoresque Conwy Valley Line part de Llandudno Junction et remonte la vallée par Betws-y-Coed jusqu'au cœur de l'Eryri (Snowdonia) à Blaenau Ffestiniog. Les chiens voyagent gratuitement comme sur tous les services National Rail, offrant une belle façon d'atteindre les montagnes et les promenades en forêt sans voiture.",
+          "policyEs": "La pintoresca Conwy Valley Line sale de Llandudno Junction y sube por el valle a través de Betws-y-Coed hasta el corazón de Eryri (Snowdonia) en Blaenau Ffestiniog. Los perros viajan gratis como en todos los servicios de National Rail, una preciosa forma apta para perros de llegar a las montañas y a los paseos por el bosque sin coche.",
+          "policyPt": "A pitoresca Conwy Valley Line sai de Llandudno Junction e sobe o vale por Betws-y-Coed até ao coração de Eryri (Snowdonia) em Blaenau Ffestiniog. Os cães viajam grátis como em todos os serviços da National Rail, uma bela forma que aceita cães de chegar às montanhas e aos passeios pela floresta sem carro."
+        },
+        {
+          "mode": "Local buses and taxis",
+          "modeFr": "Bus locaux et taxis",
+          "modeEs": "Autobuses locales y taxis",
+          "modePt": "Autocarros locais e táxis",
+          "policy": "The coastal bus services linking Conwy, Llandudno, Llandudno Junction and the valley generally accept dogs at the driver's discretion; keep the dog on a lead and off the seats. Taxis are also at the driver's discretion, so mention the dog when you book.",
+          "policyFr": "Les bus côtiers reliant Conwy, Llandudno, Llandudno Junction et la vallée acceptent en général les chiens à la discrétion du chauffeur ; gardez le chien en laisse et hors des sièges. Les taxis sont aussi à la discrétion du chauffeur : signalez le chien à la réservation.",
+          "policyEs": "Los autobuses costeros que unen Conwy, Llandudno, Llandudno Junction y el valle suelen admitir perros a criterio del conductor; manten al perro con correa y fuera de los asientos. Los taxis también quedan a criterio del conductor, así que menciona al perro al reservar.",
+          "policyPt": "Os autocarros costeiros que ligam Conwy, Llandudno, Llandudno Junction e o vale costumam admitir cães ao critério do condutor; mantenha o cão à trela e fora dos bancos. Os táxis também ficam ao critério do condutor, por isso mencione o cão ao reservar."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Arriving in Conwy",
+          "titleFr": "Arriver à Conwy",
+          "titleEs": "Llegar a Conwy",
+          "titlePt": "Chegar a Conwy",
+          "contentEn": "Conwy is on the North Wales coast at the mouth of the Conwy estuary. By rail the easiest approach is to Llandudno Junction, one stop across the estuary and a short walk or bus over the bridge into Conwy, all dog-friendly and free for up to two dogs. The nearest airports are Manchester (MAN) and Liverpool (LPL), each about an hour and a half away by road; drivers will find the walled town centre compact, so the car parks by the quay and station are the easy option with a dog.",
+          "contentFr": "Conwy se trouve sur la côte du nord du pays de Galles, à l'embouchure de l'estuaire de la Conwy. En train, l'accès le plus simple est Llandudno Junction, à un arrêt de l'autre côté de l'estuaire, puis une courte marche ou un bus par le pont jusqu'à Conwy, le tout acceptant les chiens et gratuit jusqu'à deux chiens. Les aéroports les plus proches sont Manchester (MAN) et Liverpool (LPL), chacun à environ une heure et demie de route ; en voiture, le centre fortifié est compact, les parkings près du quai et de la gare sont donc l'option facile avec un chien.",
+          "contentEs": "Conwy está en la costa del norte de Gales, en la desembocadura del estuario del Conwy. En tren, el acceso más fácil es Llandudno Junction, a una parada al otro lado del estuario, y luego un paseo corto o un autobús por el puente hasta Conwy, todo apto para perros y gratis hasta dos perros. Los aeropuertos más cercanos son Manchester (MAN) y Liverpool (LPL), cada uno a alrededor de una hora y media por carretera; en coche, el centro amurallado es compacto, así que los aparcamientos junto al muelle y la estación son la opción fácil con un perro.",
+          "contentPt": "Conwy fica na costa do norte do País de Gales, na foz do estuário do Conwy. De comboio, o acesso mais fácil é Llandudno Junction, a uma paragem do outro lado do estuário, e depois um passeio curto ou um autocarro pela ponte até Conwy, tudo a aceitar cães e grátis até dois cães. Os aeroportos mais próximos são Manchester (MAN) e Liverpool (LPL), cada um a cerca de hora e meia por estrada; de carro, o centro muralhado é compacto, por isso os parques junto ao cais e à estação são a opção fácil com um cão."
+        },
+        {
+          "titleEn": "Around town on foot",
+          "titleFr": "En ville à pied",
+          "titleEs": "Por la ciudad a pie",
+          "titlePt": "Pela cidade a pé",
+          "contentEn": "Once you are in, Conwy is best explored on foot: the castle, the quay, the Smallest House and the walled streets are all a short walk apart, and the estuary path leads straight out towards the marina and Conwy Morfa. The town is busy on summer weekends, so early mornings and evenings are the calmest times to walk a dog, and the surrounding hills are only minutes away.",
+          "contentFr": "Une fois sur place, Conwy se découvre à pied : le château, le quai, la plus petite maison et les rues fortifiées sont tous à une courte marche, et le chemin de l'estuaire mène directement vers la marina et Conwy Morfa. La ville est fréquentée les week-ends d'été : le début de matinée et la soirée sont les moments les plus calmes pour promener un chien, et les collines environnantes sont à quelques minutes.",
+          "contentEs": "Una vez dentro, Conwy se descubre mejor a pie: el castillo, el muelle, la Casa más Pequeña y las calles amuralladas están a un paseo corto, y el camino del estuario lleva directamente hacia la marina y Conwy Morfa. La ciudad se llena los fines de semana de verano, así que las primeras horas de la mañana y la tarde son los momentos más tranquilos para pasear un perro, y las colinas de alrededor están a pocos minutos.",
+          "contentPt": "Uma vez lá, Conwy descobre-se melhor a pé: o castelo, o cais, a Casa Mais Pequena e as ruas muralhadas estão a um passeio curto, e o caminho do estuário leva diretamente para a marina e Conwy Morfa. A cidade fica movimentada nos fins de semana de verão, por isso o início da manhã e o fim da tarde são os momentos mais tranquilos para passear um cão, e as colinas em redor estão a poucos minutos."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the train to Conwy?",
+          "a": "Yes. Up to two dogs travel free with each passenger on National Rail, on a lead or in a carrier. Conwy is a request stop on the North Wales Coast Line, and the main interchange at Llandudno Junction is one stop away, with frequent coast services and the scenic Conwy Valley Line into Eryri."
+        },
+        {
+          "q": "How do I reach Snowdonia from Conwy with a dog?",
+          "a": "Take the dog-friendly Conwy Valley Line from Llandudno Junction up the valley through Betws-y-Coed to Blaenau Ffestiniog, in the heart of Eryri (Snowdonia). Dogs travel free, so you can reach mountain and forest walks without a car."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien dans le train jusqu'à Conwy ?",
+          "a": "Oui. Jusqu'à deux chiens voyagent gratuitement avec chaque voyageur sur National Rail, en laisse ou dans une caisse. Conwy est un arrêt sur demande de la North Wales Coast Line, et le principal nœud de Llandudno Junction est à un arrêt, avec des liaisons côtières fréquentes et la pittoresque Conwy Valley Line vers l'Eryri."
+        },
+        {
+          "q": "Comment rejoindre le Snowdonia depuis Conwy avec un chien ?",
+          "a": "Prenez la Conwy Valley Line, qui accepte les chiens, depuis Llandudno Junction et remontez la vallée par Betws-y-Coed jusqu'à Blaenau Ffestiniog, au cœur de l'Eryri (Snowdonia). Les chiens voyagent gratuitement : vous pouvez atteindre les promenades en montagne et en forêt sans voiture."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Puedo llevar a mi perro en el tren a Conwy?",
+          "a": "Sí. Hasta dos perros viajan gratis con cada pasajero en National Rail, con correa o en transportín. Conwy es una parada a petición de la North Wales Coast Line, y el principal intercambiador de Llandudno Junction está a una parada, con servicios costeros frecuentes y la pintoresca Conwy Valley Line hacia Eryri."
+        },
+        {
+          "q": "Cómo llego a Snowdonia desde Conwy con un perro?",
+          "a": "Toma la Conwy Valley Line, apta para perros, desde Llandudno Junction y sube por el valle a través de Betws-y-Coed hasta Blaenau Ffestiniog, en el corazón de Eryri (Snowdonia). Los perros viajan gratis, así que puedes llegar a los paseos de montaña y bosque sin coche."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão no comboio para Conwy?",
+          "a": "Sim. Até dois cães viajam grátis com cada passageiro na National Rail, à trela ou numa caixa. Conwy é uma paragem a pedido da North Wales Coast Line, e o principal interface de Llandudno Junction fica a uma paragem, com serviços costeiros frequentes e a pitoresca Conwy Valley Line para Eryri."
+        },
+        {
+          "q": "Como chego a Snowdonia a partir de Conwy com um cão?",
+          "a": "Apanhe a Conwy Valley Line, que aceita cães, a partir de Llandudno Junction e suba o vale por Betws-y-Coed até Blaenau Ffestiniog, no coração de Eryri (Snowdonia). Os cães viajam grátis, por isso pode chegar aos passeios de montanha e floresta sem carro."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches near Conwy",
+      "titleFr": "Plages qui accueillent les chiens près de Conwy",
+      "titleEs": "Playas que admiten perros cerca de Conwy",
+      "titlePt": "Praias que aceitam cães perto de Conwy",
+      "introEn": "Conwy sits at the mouth of its estuary, and the nearest sands are the wide Conwy Morfa by the marina and West Shore at neighbouring Llandudno. Dog rules here are seasonal and beach-by-beach, set by Conwy County Borough Council under a Public Space Protection Order and in force from 1 May to 30 September, with a 100-pound fixed penalty for breaches. Conwy Morfa is a dog-friendly stretch of dune-backed sand, while West Shore has a seasonal restricted zone between its two stone groynes. Assistance dogs are exempt. Always read the signs and maps at each beach on arrival, as the order can change.",
+      "introFr": "Conwy se trouve à l'embouchure de son estuaire, et le sable le plus proche est le vaste Conwy Morfa près de la marina et West Shore à Llandudno voisine. Les règles pour chiens y sont saisonnières et plage par plage, fixées par le Conwy County Borough Council dans le cadre d'un Public Space Protection Order et en vigueur du 1er mai au 30 septembre, avec une amende forfaitaire de 100 livres en cas d'infraction. Conwy Morfa est une étendue de sable adossée à des dunes qui accepte les chiens, tandis que West Shore a une zone réglementée en saison entre ses deux épis de pierre. Les chiens d'assistance sont exemptés. Lisez toujours les panneaux et les cartes à chaque plage à l'arrivée, car l'arrêté peut changer.",
+      "introEs": "Conwy está en la desembocadura de su estuario, y la arena más cercana es el amplio Conwy Morfa junto a la marina y West Shore en la vecina Llandudno. Las normas para perros son estacionales y playa por playa, fijadas por el Conwy County Borough Council bajo un Public Space Protection Order y en vigor del 1 de mayo al 30 de septiembre, con una multa fija de 100 libras por infringir. Conwy Morfa es un tramo de arena respaldado por dunas que admite perros, mientras que West Shore tiene una zona restringida en temporada entre sus dos espigones de piedra. Los perros de asistencia están exentos. Lee siempre los carteles y mapas de cada playa al llegar, porque la orden puede cambiar.",
+      "introPt": "Conwy fica na foz do seu estuário, e a areia mais próxima é o amplo Conwy Morfa junto à marina e West Shore na vizinha Llandudno. As regras para cães são sazonais e praia a praia, definidas pelo Conwy County Borough Council ao abrigo de um Public Space Protection Order e em vigor de 1 de maio a 30 de setembro, com uma multa fixa de 100 libras por infração. Conwy Morfa é um troço de areia apoiado por dunas que aceita cães, enquanto West Shore tem uma zona restringida na época entre os seus dois esporões de pedra. Os cães de assistência estão isentos. Leia sempre as placas e mapas de cada praia à chegada, porque a ordem pode mudar.",
+      "places": [
+        {
+          "name": "Conwy Morfa",
+          "distance": "By Conwy Marina, west of the town (10-15 min from the quay)",
+          "description": "A wide, dune-backed stretch of sand and shingle running west from Conwy Marina towards Penmaenmawr, with big views across the bay and up to the mountains of Eryri. It is one of the area's dog-friendly beaches, an open, breezy walk that pairs well with the marina pubs.",
+          "season": "Dog-friendly; check the current signs, as some sections of the wider bay carry seasonal controls",
+          "rules": "Dogs welcome; keep them under control and on a lead near the marina, the road and any wildlife in the dunes, and clean up after them.",
+          "facilities": "Parking near the marina; pubs and cafes at Conwy Marina a short walk away",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Conwy+Morfa+beach",
+          "photo": "/images/city-places/conwy-beaches-conwy-morfa.jpg"
+        },
+        {
+          "name": "West Shore, Llandudno",
+          "distance": "Neighbouring Llandudno, about 10-15 min by road",
+          "description": "The quieter, sunset-facing side of Llandudno, a long shingle-and-sand beach looking across the Conwy estuary to Anglesey and the mountains, with links to Lewis Carroll and the White Rabbit. Dogs are welcome outside a seasonal restricted zone between the two stone groynes.",
+          "season": "Seasonal dog restriction between the two stone groynes 1 May to 30 September; dogs welcome outside that zone and off-season",
+          "rules": "No dogs in the signed zone between the two groynes from 1 May to 30 September (100-pound fixed penalty). Elsewhere and off-season dogs are welcome on a lead; clean up after them.",
+          "facilities": "Parking, toilets and cafes along the promenade; the tram and Great Orme are nearby",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=West+Shore+beach+Llandudno",
+          "photo": "/images/city-places/conwy-beaches-west-shore-llandudno.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Which beach near Conwy is dog-friendly?",
+          "a": "Conwy Morfa, the wide dune-backed beach by Conwy Marina, is one of the area's dog-friendly stretches, with big views to Eryri. Keep dogs on a lead near the marina and road. At neighbouring West Shore, dogs are welcome outside the seasonal restricted zone between the two stone groynes."
+        },
+        {
+          "q": "When are dogs banned from beaches around Conwy?",
+          "a": "Conwy County Borough Council operates seasonal beach dog restrictions from 1 May to 30 September under a Public Space Protection Order, with a 100-pound fixed penalty for breaches. Restrictions are marked with signs and maps at each beach, such as the zone between the groynes at West Shore, so always check on arrival."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelle plage près de Conwy accepte les chiens ?",
+          "a": "Conwy Morfa, la vaste plage adossée aux dunes près de Conwy Marina, est l'une des étendues de la région qui acceptent les chiens, avec de larges vues sur l'Eryri. Gardez les chiens en laisse près de la marina et de la route. À West Shore voisine, les chiens sont admis en dehors de la zone réglementée saisonnière entre les deux épis de pierre."
+        },
+        {
+          "q": "Quand les chiens sont-ils interdits sur les plages autour de Conwy ?",
+          "a": "Le Conwy County Borough Council applique des restrictions saisonnières pour chiens du 1er mai au 30 septembre dans le cadre d'un Public Space Protection Order, avec une amende forfaitaire de 100 livres en cas d'infraction. Les restrictions sont signalées par des panneaux et des cartes à chaque plage, comme la zone entre les épis à West Shore : vérifiez donc toujours à l'arrivée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Qué playa cerca de Conwy admite perros?",
+          "a": "Conwy Morfa, la amplia playa respaldada por dunas junto a Conwy Marina, es uno de los tramos de la zona que admiten perros, con amplias vistas a Eryri. Manten a los perros con correa cerca de la marina y la carretera. En la vecina West Shore, los perros son bienvenidos fuera de la zona restringida estacional entre los dos espigones de piedra."
+        },
+        {
+          "q": "Cuándo se prohíben los perros en las playas alrededor de Conwy?",
+          "a": "El Conwy County Borough Council aplica restricciones estacionales para perros del 1 de mayo al 30 de septiembre bajo un Public Space Protection Order, con una multa fija de 100 libras por infringir. Las restricciones se señalizan con carteles y mapas en cada playa, como la zona entre los espigones en West Shore, así que comprueba siempre al llegar."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Que praia perto de Conwy aceita cães?",
+          "a": "Conwy Morfa, a ampla praia apoiada por dunas junto a Conwy Marina, é um dos troços da zona que aceitam cães, com amplas vistas para Eryri. Mantenha os cães à trela perto da marina e da estrada. Na vizinha West Shore, os cães são bem-vindos fora da zona restringida sazonal entre os dois esporões de pedra."
+        },
+        {
+          "q": "Quando é que os cães são proibidos nas praias à volta de Conwy?",
+          "a": "O Conwy County Borough Council aplica restrições sazonais para cães de 1 de maio a 30 de setembro ao abrigo de um Public Space Protection Order, com uma multa fixa de 100 libras por infração. As restrições são sinalizadas com placas e mapas em cada praia, como a zona entre os esporões em West Shore, por isso verifique sempre à chegada."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians near Conwy",
+      "titleFr": "Vétérinaires près de Conwy",
+      "titleEs": "Veterinarios cerca de Conwy",
+      "titlePt": "Veterinários perto de Conwy",
+      "introEn": "The nearest veterinary practices are just across the estuary at Llandudno Junction and in Llandudno, a few minutes from Conwy, with out-of-hours emergency cover arranged through these practices. English is universal. For visitors from the EU, remember that Great Britain no longer accepts the EU Pet Passport for entry: dogs need a GB Animal Health Certificate, a microchip, a valid rabies vaccination and a tapeworm treatment given 24 to 120 hours before arrival, so travel with all your paperwork.",
+      "introFr": "Les cliniques vétérinaires les plus proches se trouvent juste de l'autre côté de l'estuaire, à Llandudno Junction et à Llandudno, à quelques minutes de Conwy, avec une garde d'urgence de nuit assurée via ces cliniques. L'anglais est universel. Pour les visiteurs de l'UE, rappelez-vous que la Grande-Bretagne n'accepte plus le passeport pour animaux de l'UE à l'entrée : les chiens ont besoin d'un Animal Health Certificate britannique, d'une puce, d'une vaccination antirabique valide et d'un traitement contre le ténia administré 24 à 120 heures avant l'arrivée : voyagez donc avec tous vos documents.",
+      "introEs": "Las clínicas veterinarias más cercanas están justo al otro lado del estuario, en Llandudno Junction y en Llandudno, a pocos minutos de Conwy, con guardia de urgencias fuera de horario a través de estas clínicas. El inglés es universal. Para los visitantes de la UE, recuerda que Gran Bretaña ya no acepta el Pasaporte Europeo para Mascotas en la entrada: los perros necesitan un Animal Health Certificate británico, un microchip, una vacunación antirrábica válida y un tratamiento contra la tenia administrado entre 24 y 120 horas antes de la llegada, así que viaja con toda la documentación.",
+      "introPt": "As clínicas veterinárias mais próximas ficam mesmo do outro lado do estuário, em Llandudno Junction e em Llandudno, a poucos minutos de Conwy, com serviço de urgência fora de horas prestado através destas clínicas. O inglês é universal. Para os visitantes da UE, lembre-se de que a Grã-Bretanha já não aceita o Passaporte Europeu para Animais na entrada: os cães precisam de um Animal Health Certificate britânico, de um microchip, de uma vacinação antirrábica válida e de um tratamento contra a ténia administrado entre 24 e 120 horas antes da chegada, por isso viaje com toda a documentação.",
+      "entryRequirements": [],
+      "places": [
+        {
+          "name": "Cater Veterinary Practice (Llandudno Junction)",
+          "type": "Small-animal veterinary practice",
+          "address": "194 Conwy Road, Llandudno Junction, LL31 9BA",
+          "phone": "+44 1492 581920",
+          "hours": "Weekday daytime clinics; emergency cover outside normal hours",
+          "hoursFr": "Consultations en journée en semaine ; garde d'urgence hors horaires",
+          "hoursEs": "Consultas diurnas entre semana; guardia de urgencias fuera de horario",
+          "hoursPt": "Consultas diurnas durante a semana; serviço de urgência fora de horas",
+          "englishSpeaking": true,
+          "website": "https://www.caterveterinarypractice.co.uk/",
+          "description": "A small-animal practice on Conwy Road at Llandudno Junction, just across the estuary from Conwy and the closest surgery to the town. It handles routine and urgent care on weekdays and arranges emergency cover outside normal hours.",
+          "descriptionFr": "Une clinique pour petits animaux sur Conwy Road, à Llandudno Junction, juste de l'autre côté de l'estuaire par rapport à Conwy et la clinique la plus proche de la ville. Elle assure les soins courants et urgents en semaine et organise une garde d'urgence hors horaires.",
+          "descriptionEs": "Una clínica de pequeños animales en Conwy Road, en Llandudno Junction, justo al otro lado del estuario desde Conwy y la consulta más cercana a la ciudad. Atiende cuidados rutinarios y urgentes entre semana y organiza guardia de urgencias fuera de horario.",
+          "descriptionPt": "Uma clínica de pequenos animais na Conwy Road, em Llandudno Junction, mesmo do outro lado do estuário face a Conwy e o consultório mais próximo da cidade. Trata cuidados de rotina e urgentes durante a semana e organiza serviço de urgência fora de horas.",
+          "tip": "It is the handiest vet to Conwy itself; phone ahead during the day and ask how they route overnight and weekend emergencies.",
+          "tipFr": "C'est le vétérinaire le plus pratique pour Conwy même ; téléphonez à l'avance en journée et demandez comment ils orientent les urgences de nuit et de week-end.",
+          "tipEs": "Es el veterinario más práctico para la propia Conwy; telefonea con antelación durante el día y pregunta cómo derivan las urgencias nocturnas y de fin de semana.",
+          "tipPt": "É o veterinário mais prático para a própria Conwy; telefone com antecedência durante o dia e pergunte como encaminham as urgências noturnas e de fim de semana.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cater+Veterinary+Practice+Llandudno+Junction",
+          "photo": ""
+        },
+        {
+          "name": "Murphy & Co Vets (Llandudno)",
+          "type": "Small-animal veterinary practice",
+          "address": "Builder Street West, Llandudno, LL30 1HH",
+          "phone": "+44 1492 878581",
+          "hours": "Weekday daytime clinics; out-of-hours emergency service",
+          "hoursFr": "Consultations en journée en semaine ; service d'urgence hors horaires",
+          "hoursEs": "Consultas diurnas entre semana; servicio de urgencias fuera de horario",
+          "hoursPt": "Consultas diurnas durante a semana; serviço de urgência fora de horas",
+          "englishSpeaking": true,
+          "website": "https://murphyandcovets.co.uk/",
+          "description": "An independent small-animal practice on Builder Street West in Llandudno, a short drive from Conwy, offering routine and urgent care with an out-of-hours emergency service. It is a reliable second option if you are staying towards Llandudno or the Great Orme.",
+          "descriptionFr": "Une clinique indépendante pour petits animaux sur Builder Street West à Llandudno, à quelques minutes en voiture de Conwy, offrant soins courants et urgents avec un service d'urgence hors horaires. C'est une bonne seconde option si vous logez vers Llandudno ou la Great Orme.",
+          "descriptionEs": "Una clínica independiente de pequeños animales en Builder Street West, en Llandudno, a poca distancia en coche de Conwy, que ofrece cuidados rutinarios y urgentes con un servicio de urgencias fuera de horario. Es una segunda opción fiable si te alojas hacia Llandudno o la Great Orme.",
+          "descriptionPt": "Uma clínica independente de pequenos animais na Builder Street West, em Llandudno, a pouca distância de carro de Conwy, que oferece cuidados de rotina e urgentes com um serviço de urgência fora de horas. É uma segunda opção fiável se ficar para os lados de Llandudno ou da Great Orme.",
+          "tip": "Handy if you are staying in Llandudno; call ahead and confirm the current out-of-hours arrangements before you need them.",
+          "tipFr": "Pratique si vous logez à Llandudno ; appelez à l'avance et confirmez les modalités de garde en vigueur avant d'en avoir besoin.",
+          "tipEs": "Práctica si te alojas en Llandudno; llama con antelación y confirma las condiciones de guardia vigentes antes de necesitarlas.",
+          "tipPt": "Prática se ficar em Llandudno; telefone com antecedência e confirme as condições de urgência em vigor antes de precisar delas.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Murphy+and+Co+Vets+Llandudno",
+          "photo": ""
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a vet near Conwy?",
+          "a": "Yes. The closest is Cater Veterinary Practice on Conwy Road at Llandudno Junction, just across the estuary, and Murphy & Co Vets on Builder Street West in Llandudno provides another option with an out-of-hours emergency service. Phone first, and ask how they route night and weekend emergencies."
+        },
+        {
+          "q": "What paperwork does my dog need to enter Great Britain from the EU?",
+          "a": "Great Britain does not accept the EU Pet Passport for entry. Your dog needs a GB Animal Health Certificate, a microchip and a valid rabies vaccination, plus an approved tapeworm treatment given 24 to 120 hours before arrival, so arrange it with a vet before you travel."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire près de Conwy ?",
+          "a": "Oui. Le plus proche est Cater Veterinary Practice sur Conwy Road à Llandudno Junction, juste de l'autre côté de l'estuaire, et Murphy & Co Vets sur Builder Street West à Llandudno offre une autre option avec un service d'urgence hors horaires. Téléphonez d'abord et demandez comment ils orientent les urgences de nuit et de week-end."
+        },
+        {
+          "q": "Quels documents mon chien doit-il avoir pour entrer en Grande-Bretagne depuis l'UE ?",
+          "a": "La Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE à l'entrée. Votre chien a besoin d'un Animal Health Certificate britannique, d'une puce et d'une vaccination antirabique valide, plus d'un traitement anti-ténia approuvé administré 24 à 120 heures avant l'arrivée : organisez cela avec un vétérinaire avant de partir."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Hay un veterinario cerca de Conwy?",
+          "a": "Sí. El más cercano es Cater Veterinary Practice en Conwy Road, en Llandudno Junction, justo al otro lado del estuario, y Murphy & Co Vets en Builder Street West, en Llandudno, ofrece otra opción con servicio de urgencias fuera de horario. Telefonea primero y pregunta cómo derivan las urgencias de noche y fin de semana."
+        },
+        {
+          "q": "Qué documentación necesita mi perro para entrar en Gran Bretaña desde la UE?",
+          "a": "Gran Bretaña no acepta el Pasaporte Europeo para Mascotas en la entrada. Tu perro necesita un Animal Health Certificate británico, un microchip y una vacunación antirrábica válida, más un tratamiento antitenia aprobado administrado entre 24 y 120 horas antes de la llegada, así que organízalo con un veterinario antes de viajar."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Existe um veterinário perto de Conwy?",
+          "a": "Sim. O mais próximo é a Cater Veterinary Practice na Conwy Road, em Llandudno Junction, mesmo do outro lado do estuário, e a Murphy & Co Vets na Builder Street West, em Llandudno, oferece outra opção com serviço de urgência fora de horas. Telefone primeiro e pergunte como encaminham as urgências de noite e de fim de semana."
+        },
+        {
+          "q": "Que documentação precisa o meu cão para entrar na Grã-Bretanha vindo da UE?",
+          "a": "A Grã-Bretanha não aceita o Passaporte Europeu para Animais na entrada. O seu cão precisa de um Animal Health Certificate britânico, de um microchip e de uma vacinação antirrábica válida, mais um tratamento contra a ténia aprovado administrado entre 24 e 120 horas antes da chegada, por isso trate disso com um veterinário antes de viajar."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Conwy with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Conwy avec un chien",
+      "titleEs": "Consejos prácticos para visitar Conwy con un perro",
+      "titlePt": "Dicas práticas para visitar Conwy com um cão",
+      "introEn": "Conwy is a genuinely dog-friendly base for exploring North Wales and Eryri, but two things need planning: the seasonal beach dog rules and, for EU visitors, the post-Brexit paperwork for bringing a dog into Great Britain. Note too that pet dogs cannot go inside Conwy Castle or onto the wall walks, so plan those visits around a sitter or take turns.",
+      "introFr": "Conwy est une base réellement accueillante pour les chiens pour explorer le nord du pays de Galles et l'Eryri, mais deux choses demandent de l'anticipation : les règles saisonnières des plages canines et, pour les visiteurs de l'UE, les formalités post-Brexit pour amener un chien en Grande-Bretagne. Notez aussi que les chiens de compagnie ne peuvent pas entrer dans le château de Conwy ni sur les chemins de ronde : prévoyez donc ces visites avec un gardien ou alternez.",
+      "introEs": "Conwy es una base realmente acogedora para perros para explorar el norte de Gales y Eryri, pero dos cosas requieren planificación: las normas estacionales de las playas caninas y, para los visitantes de la UE, los trámites posteriores al Brexit para llevar un perro a Gran Bretaña. Ten en cuenta también que los perros de compañía no pueden entrar en el castillo de Conwy ni en los adarves de las murallas, así que planifica esas visitas con un cuidador o turnaos.",
+      "introPt": "Conwy é uma base verdadeiramente acolhedora para cães para explorar o norte do País de Gales e Eryri, mas duas coisas requerem planeamento: as regras sazonais das praias caninas e, para os visitantes da UE, a papelada pós-Brexit para levar um cão para a Grã-Bretanha. Note também que os cães de companhia não podem entrar no castelo de Conwy nem nos adarves das muralhas, por isso planeie essas visitas com um cuidador ou revezem-se.",
+      "sections": [
+        {
+          "titleEn": "Bringing your dog into Great Britain (post-Brexit)",
+          "titleFr": "Amener votre chien en Grande-Bretagne (post-Brexit)",
+          "titleEs": "Llevar a tu perro a Gran Bretaña (tras el Brexit)",
+          "titlePt": "Levar o seu cão para a Grã-Bretanha (pós-Brexit)",
+          "contentEn": "Since Brexit, Great Britain no longer accepts the EU Pet Passport for entry. Dogs arriving from the EU need a GB Animal Health Certificate (AHC) issued by an official vet within 10 days of travel, plus a microchip and a valid rabies vaccination, and dogs also need an approved tapeworm (Echinococcus) treatment recorded 24 to 120 hours before arrival. A GB pet passport issued in Great Britain is also valid. Arrange this with your vet before you leave, as it cannot be done on arrival.",
+          "contentFr": "Depuis le Brexit, la Grande-Bretagne n'accepte plus le passeport pour animaux de l'UE à l'entrée. Les chiens venant de l'UE ont besoin d'un Animal Health Certificate (AHC) britannique délivré par un vétérinaire officiel dans les 10 jours précédant le voyage, d'une puce et d'une vaccination antirabique valide, et les chiens doivent aussi recevoir un traitement approuvé contre le ténia (Echinococcus) consigné 24 à 120 heures avant l'arrivée. Un passeport pour animaux émis en Grande-Bretagne est également valable. Organisez cela avec votre vétérinaire avant de partir, car cela ne peut pas se faire à l'arrivée.",
+          "contentEs": "Desde el Brexit, Gran Bretaña ya no acepta el Pasaporte Europeo para Mascotas en la entrada. Los perros que llegan de la UE necesitan un Animal Health Certificate (AHC) británico emitido por un veterinario oficial en los 10 días previos al viaje, más un microchip y una vacunación antirrábica válida, y los perros también necesitan un tratamiento aprobado contra la tenia (Echinococcus) registrado entre 24 y 120 horas antes de la llegada. Un pasaporte para mascotas emitido en Gran Bretaña también es válido. Organiza esto con tu veterinario antes de salir, porque no puede hacerse a la llegada.",
+          "contentPt": "Desde o Brexit, a Grã-Bretanha já não aceita o Passaporte Europeu para Animais na entrada. Os cães que chegam da UE precisam de um Animal Health Certificate (AHC) británico emitido por um veterinário oficial nos 10 dias anteriores à viagem, mais um microchip e uma vacinação antirrábica válida, e os cães também precisam de um tratamento aprovado contra a ténia (Echinococcus) registado entre 24 e 120 horas antes da chegada. Um passaporte para animais emitido na Grã-Bretanha também é válido. Trate disto com o seu veterinário antes de sair, porque não pode ser feito à chegada."
+        },
+        {
+          "titleEn": "Castle, walls and beach rules",
+          "titleFr": "Château, remparts et règles des plages",
+          "titleEs": "Castillo, murallas y normas de las playas",
+          "titlePt": "Castelo, muralhas e regras das praias",
+          "contentEn": "Pet dogs cannot go inside Conwy Castle or onto the town wall walks, which are narrow with high visitor numbers, so only assistance dogs are admitted; plan a sitter or take turns for those. Almost everything else in Conwy is open to dogs, though. On the beaches, Conwy County Borough Council operates seasonal dog restrictions from 1 May to 30 September under a Public Space Protection Order, with a 100-pound fixed penalty, so read the signs at each beach and use the year-round dog-friendly stretches such as Conwy Morfa.",
+          "contentFr": "Les chiens de compagnie ne peuvent pas entrer dans le château de Conwy ni sur les chemins de ronde des remparts, étroits et très fréquentés : seuls les chiens d'assistance y sont admis ; prévoyez un gardien ou alternez pour ces visites. Presque tout le reste de Conwy est ouvert aux chiens. Sur les plages, le Conwy County Borough Council applique des restrictions saisonnières du 1er mai au 30 septembre dans le cadre d'un Public Space Protection Order, avec une amende forfaitaire de 100 livres : lisez les panneaux à chaque plage et privilégiez les étendues ouvertes aux chiens toute l'année comme Conwy Morfa.",
+          "contentEs": "Los perros de compañía no pueden entrar en el castillo de Conwy ni en los adarves de las murallas, estrechos y muy concurridos: solo se admiten perros de asistencia; planifica un cuidador o turnaos para esas visitas. Casi todo lo demás en Conwy está abierto a los perros. En las playas, el Conwy County Borough Council aplica restricciones estacionales del 1 de mayo al 30 de septiembre bajo un Public Space Protection Order, con una multa fija de 100 libras: lee los carteles de cada playa y usa los tramos abiertos a los perros todo el año como Conwy Morfa.",
+          "contentPt": "Os cães de companhia não podem entrar no castelo de Conwy nem nos adarves das muralhas, estreitos e muito movimentados: só os cães de assistência são admitidos; planeie um cuidador ou revezem-se para essas visitas. Quase tudo o resto em Conwy está aberto aos cães. Nas praias, o Conwy County Borough Council aplica restrições sazonais de 1 de maio a 30 de setembro ao abrigo de um Public Space Protection Order, com uma multa fixa de 100 libras: leia as placas de cada praia e use os troços abertos aos cães todo o ano como Conwy Morfa."
+        },
+        {
+          "titleEn": "When to visit and the weather",
+          "titleFr": "Quand venir et la météo",
+          "titleEs": "Cuándo visitar y el tiempo",
+          "titlePt": "Quando visitar e o tempo",
+          "contentEn": "Conwy has a mild, oceanic climate, wetter and cooler than southern Britain, with soft winters and warm rather than hot summers, and the mountains of Eryri behind can hold cloud and rain. Spring and autumn are ideal for a dog: the hills are quieter, the weather is often kind, and the beach dog restrictions are either not yet in force or already lifted. Whenever you come, carry a coat and water for both of you on the exposed hill walks.",
+          "contentFr": "Conwy jouit d'un climat océanique doux, plus humide et frais que le sud de la Grande-Bretagne, avec des hivers cléments et des étés chauds plutôt que brûlants, et les montagnes de l'Eryri derrière peuvent retenir nuages et pluie. Le printemps et l'automne sont idéaux avec un chien : les collines sont plus calmes, le temps est souvent clément, et les restrictions des plages canines ne sont pas encore en vigueur ou déjà levées. Quand que vous veniez, emportez une veste et de l'eau pour vous deux sur les promenades exposées en hauteur.",
+          "contentEs": "Conwy tiene un clima oceánico suave, más húmedo y fresco que el sur de Gran Bretaña, con inviernos benignos y veranos cálidos más que calurosos, y las montañas de Eryri detrás pueden retener nubes y lluvia. La primavera y el otoño son ideales con un perro: las colinas están más tranquilas, el tiempo suele ser amable y las restricciones de las playas caninas aún no rigen o ya se han levantado. Vengas cuando vengas, lleva una chaqueta y agua para ambos en los paseos expuestos por las colinas.",
+          "contentPt": "Conwy tem um clima oceânico ameno, mais húmido e fresco do que o sul da Grã-Bretanha, com invernos suaves e verões quentes mais do que abrasadores, e as montanhas de Eryri atrás podem reter nuvens e chuva. A primavera e o outono são ideais com um cão: as colinas estão mais tranquilas, o tempo costuma ser ameno e as restrições das praias caninas ainda não vigoram ou já foram levantadas. Venha quando vier, leve um casaco e água para os dois nos passeios expostos pelas colinas."
+        }
+      ],
+      "places": [],
+      "tipsEn": [
+        "Sort your dog's GB Animal Health Certificate with your vet before you leave home; it must be issued within 10 days of travel and cannot be arranged on arrival.",
+        "Pet dogs cannot go inside Conwy Castle or onto the town wall walks, only assistance dogs, so plan a sitter or take turns for those visits.",
+        "On the hills of Eryri and Conwy Mountain keep your dog on a lead near the grazing sheep and ponies, and carry water as there is none on the tops."
+      ],
+      "tipsFr": [
+        "Réglez l'Animal Health Certificate britannique de votre chien avec votre vétérinaire avant de partir ; il doit être délivré dans les 10 jours précédant le voyage et ne peut pas s'obtenir à l'arrivée.",
+        "Les chiens de compagnie ne peuvent pas entrer dans le château de Conwy ni sur les chemins de ronde, seuls les chiens d'assistance : prévoyez un gardien ou alternez pour ces visites.",
+        "Sur les collines de l'Eryri et Conwy Mountain, gardez votre chien en laisse près des moutons et poneys qui pâturent, et emportez de l'eau car il n'y en a pas sur les hauteurs."
+      ],
+      "tipsEs": [
+        "Gestiona el Animal Health Certificate británico de tu perro con tu veterinario antes de salir de casa; debe emitirse en los 10 días previos al viaje y no puede tramitarse a la llegada.",
+        "Los perros de compañía no pueden entrar en el castillo de Conwy ni en los adarves de las murallas, solo perros de asistencia: planifica un cuidador o turnaos para esas visitas.",
+        "En las colinas de Eryri y Conwy Mountain manten a tu perro con correa cerca de las ovejas y ponis que pastan, y lleva agua porque no la hay en las cumbres."
+      ],
+      "tipsPt": [
+        "Trate do Animal Health Certificate británico do seu cão com o veterinário antes de sair de casa; tem de ser emitido nos 10 dias anteriores à viagem e não pode ser tratado à chegada.",
+        "Os cães de companhia não podem entrar no castelo de Conwy nem nos adarves das muralhas, só cães de assistência: planeie um cuidador ou revezem-se para essas visitas.",
+        "Nas colinas de Eryri e na Conwy Mountain mantenha o cão à trela perto das ovelhas e póneis que pastam, e leve água porque não há nos cumes."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Conwy a good place to visit with a dog?",
+          "a": "Yes, it is one of North Wales' most dog-friendly towns, with dog-welcoming pubs and cafes, dogs free on the train, and superb hill and estuary walks including Conwy Mountain and the Eryri trails. The main exceptions are the inside of Conwy Castle and the wall walks, which admit assistance dogs only."
+        },
+        {
+          "q": "Do EU visitors need special paperwork to bring a dog to Conwy?",
+          "a": "Yes. Because Conwy is in Great Britain, EU visitors cannot use the EU Pet Passport. Your dog needs a GB Animal Health Certificate issued within 10 days of travel, a microchip, a valid rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Conwy est-il un bon endroit à visiter avec un chien ?",
+          "a": "Oui, c'est l'une des villes les plus accueillantes pour les chiens du nord du pays de Galles, avec des pubs et cafés qui les acceptent, des chiens gratuits dans le train, et de superbes promenades en collines et sur l'estuaire, dont Conwy Mountain et les sentiers de l'Eryri. Les principales exceptions sont l'intérieur du château de Conwy et les chemins de ronde, réservés aux chiens d'assistance."
+        },
+        {
+          "q": "Les visiteurs de l'UE ont-ils besoin de formalités particulières pour amener un chien à Conwy ?",
+          "a": "Oui. Comme Conwy est en Grande-Bretagne, les visiteurs de l'UE ne peuvent pas utiliser le passeport pour animaux de l'UE. Votre chien a besoin d'un Animal Health Certificate britannique délivré dans les 10 jours précédant le voyage, d'une puce, d'une vaccination antirabique valide et d'un traitement anti-ténia 24 à 120 heures avant l'arrivée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Es Conwy un buen lugar para visitar con un perro?",
+          "a": "Sí, es uno de los pueblos más acogedores para perros del norte de Gales, con pubs y cafés que los admiten, perros gratis en el tren, y estupendos paseos por colinas y el estuario, incluidos Conwy Mountain y los senderos de Eryri. Las principales excepciones son el interior del castillo de Conwy y los adarves, que solo admiten perros de asistencia."
+        },
+        {
+          "q": "Necesitan los visitantes de la UE documentación especial para llevar un perro a Conwy?",
+          "a": "Sí. Como Conwy está en Gran Bretaña, los visitantes de la UE no pueden usar el Pasaporte Europeo para Mascotas. Tu perro necesita un Animal Health Certificate británico emitido en los 10 días previos al viaje, un microchip, una vacunación antirrábica válida y un tratamiento antitenia entre 24 y 120 horas antes de la llegada."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Conwy é um bom lugar para visitar com um cão?",
+          "a": "Sim, é uma das cidades mais acolhedoras para cães do norte do País de Gales, com pubs e cafés que os aceitam, cães grátis no comboio, e ótimos passeios por colinas e pelo estuário, incluindo a Conwy Mountain e os trilhos de Eryri. As principais exceções são o interior do castelo de Conwy e os adarves, que só admitem cães de assistência."
+        },
+        {
+          "q": "Os visitantes da UE precisam de documentação especial para levar um cão a Conwy?",
+          "a": "Sim. Como Conwy fica na Grã-Bretanha, os visitantes da UE não podem usar o Passaporte Europeu para Animais. O seu cão precisa de um Animal Health Certificate britânico emitido nos 10 dias anteriores à viagem, de um microchip, de uma vacinação antirrábica válida e de um tratamento contra a ténia entre 24 e 120 horas antes da chegada."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Conwy",
+      "titleFr": "Attractions qui accueillent les chiens à Conwy",
+      "titleEs": "Atracciones que admiten perros en Conwy",
+      "titlePt": "Atrações que acolhem cães em Conwy",
+      "introEn": "Conwy's great medieval set piece, the castle, is dramatic from the outside but admits assistance dogs only inside, and dogs are not allowed on the narrow wall walks. Everything else, though, is a dog's town: the quay beneath the walls, the tiny Smallest House in Great Britain, the estuary and the harbour are all outdoor, dog-friendly wandering. Take in the castle from the quay or the estuary, and a dog can share almost the whole town with you.",
+      "introFr": "Le grand ensemble médiéval de Conwy, le château, est spectaculaire de l'extérieur mais n'admet que les chiens d'assistance à l'intérieur, et les chiens ne sont pas autorisés sur les chemins de ronde étroits. Tout le reste, en revanche, est une ville pour chiens : le quai au pied des remparts, la minuscule plus petite maison de Grande-Bretagne, l'estuaire et le port se parcourent en plein air avec un chien. Admirez le château depuis le quai ou l'estuaire, et un chien peut partager presque toute la ville avec vous.",
+      "introEs": "El gran conjunto medieval de Conwy, el castillo, es espectacular desde fuera pero solo admite perros de asistencia en su interior, y los perros no pueden ir por los estrechos adarves. Todo lo demás, en cambio, es una ciudad para perros: el muelle al pie de las murallas, la diminuta Casa más Pequeña de Gran Bretaña, el estuario y el puerto se recorren al aire libre con un perro. Contempla el castillo desde el muelle o el estuario, y un perro puede compartir casi toda la ciudad contigo.",
+      "introPt": "O grande conjunto medieval de Conwy, o castelo, é espetacular por fora mas só admite cães de assistência no interior, e os cães não podem ir pelos estreitos adarves. Tudo o resto, porém, é uma cidade para cães: o cais ao pé das muralhas, a minúscula Casa Mais Pequena da Grã-Bretanha, o estuário e o porto percorrem-se ao ar livre com um cão. Aprecie o castelo a partir do cais ou do estuário, e um cão pode partilhar quase toda a cidade consigo.",
+      "places": [
+        {
+          "name": "Conwy Castle (from the quay)",
+          "neighborhood": "Conwy town",
+          "photo": "",
+          "website": "https://cadw.gov.wales/visit/places-to-visit/conwy-castle",
+          "description": "One of Europe's finest surviving medieval fortresses, built by Edward I in the 1280s and a UNESCO World Heritage Site with eight great towers above the estuary. Pet dogs are not admitted inside the castle, only assistance dogs, but it is magnificent from the quay, the estuary bank and the town below, all of which are dog-friendly.",
+          "descriptionFr": "L'une des plus belles forteresses médiévales d'Europe encore debout, construite par Édouard Ier dans les années 1280 et classée au patrimoine mondial de l'UNESCO, avec huit grandes tours au-dessus de l'estuaire. Les chiens de compagnie ne sont pas admis à l'intérieur du château, seuls les chiens d'assistance, mais il est magnifique depuis le quai, la rive de l'estuaire et la ville en contrebas, tous ouverts aux chiens.",
+          "descriptionEs": "Una de las mejores fortalezas medievales de Europa que se conservan, construida por Eduardo I en la década de 1280 y Patrimonio de la Humanidad de la UNESCO, con ocho grandes torres sobre el estuario. Los perros de compañía no se admiten dentro del castillo, solo perros de asistencia, pero es magnífico desde el muelle, la orilla del estuario y la ciudad de abajo, todos aptos para perros.",
+          "descriptionPt": "Uma das mais belas fortalezas medievais da Europa que se conservam, construída por Eduardo I na década de 1280 e Património Mundial da UNESCO, com oito grandes torres sobre o estuário. Os cães de companhia não são admitidos dentro do castelo, só cães de assistência, mas é magnífico a partir do cais, da margem do estuário e da cidade em baixo, todos a aceitar cães.",
+          "dogPolicy": "Assistance dogs only inside the castle; pet dogs welcome on a lead around the quay, town and estuary to admire it from outside.",
+          "dogPolicyFr": "Chiens d'assistance uniquement à l'intérieur du château ; chiens de compagnie bienvenus en laisse autour du quai, de la ville et de l'estuaire pour l'admirer de l'extérieur.",
+          "dogPolicyEs": "Solo perros de asistencia dentro del castillo; perros de compañía bienvenidos con correa por el muelle, la ciudad y el estuario para admirarlo desde fuera.",
+          "dogPolicyPt": "Só cães de assistência dentro do castelo; cães de companhia bem-vindos à trela pelo cais, cidade e estuário para o admirar de fora.",
+          "admissionFee": "Castle interior ticketed (Cadw); viewing from the quay and estuary is free",
+          "admissionFeeFr": "Intérieur du château payant (Cadw) ; la vue depuis le quai et l'estuaire est gratuite",
+          "admissionFeeEs": "Interior del castillo con entrada (Cadw); la vista desde el muelle y el estuario es gratis",
+          "admissionFeePt": "Interior do castelo com bilhete (Cadw); a vista a partir do cais e do estuário é grátis",
+          "tip": "For the best dog-friendly view, walk the estuary bank or across the historic Telford Suspension Bridge area; if you want to go inside, plan a sitter or take turns.",
+          "tipFr": "Pour la meilleure vue avec un chien, longez la rive de l'estuaire ou passez par le secteur du pont suspendu historique de Telford ; pour entrer, prévoyez un gardien ou alternez.",
+          "tipEs": "Para la mejor vista apta para perros, recorre la orilla del estuario o la zona del histórico puente colgante de Telford; si quieres entrar, planifica un cuidador o turnaos.",
+          "tipPt": "Para a melhor vista que aceita cães, percorra a margem do estuário ou a zona da histórica ponte suspensa de Telford; se quiser entrar, planeie um cuidador ou revezem-se.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Conwy+Castle"
+        },
+        {
+          "name": "The Smallest House in Great Britain",
+          "neighborhood": "Conwy Quay",
+          "photo": "/images/city-places/conwy-attractions-smallest-house.jpg",
+          "website": "https://thesmallesthouse.co.uk/",
+          "description": "The famous bright-red Quay House on Conwy Quay, just 72 inches wide and the official record holder for the smallest house in Great Britain. The house itself is tiny, but it stands on the dog-friendly quayside, so it makes a fun photo stop on a harbour stroll beneath the castle walls.",
+          "descriptionFr": "La célèbre Quay House rouge vif sur Conwy Quay, large de seulement 72 pouces et détentrice officielle du record de la plus petite maison de Grande-Bretagne. La maison elle-même est minuscule, mais elle se dresse sur le quai ouvert aux chiens : c'est donc une amusante halte photo lors d'une promenade sur le port, au pied des remparts.",
+          "descriptionEs": "La famosa Quay House de color rojo vivo en Conwy Quay, de solo 72 pulgadas de ancho y poseedora oficial del récord de la casa más pequeña de Gran Bretaña. La casa en sí es diminuta, pero se alza en el muelle apto para perros, así que es una divertida parada fotográfica en un paseo por el puerto, al pie de las murallas.",
+          "descriptionPt": "A famosa Quay House vermelho vivo em Conwy Quay, com apenas 72 polegadas de largura e detentora oficial do recorde da casa mais pequena da Grã-Bretanha. A casa em si é minúscula, mas ergue-se no cais que aceita cães, por isso é uma divertida paragem para foto num passeio pelo porto, ao pé das muralhas.",
+          "dogPolicy": "The quayside is dog-friendly on a lead; the tiny interior is not suited to dogs, but the photo stop outside is free to enjoy.",
+          "dogPolicyFr": "Le quai accepte les chiens en laisse ; le minuscule intérieur ne convient pas aux chiens, mais la halte photo à l'extérieur est libre.",
+          "dogPolicyEs": "El muelle admite perros con correa; el diminuto interior no es apto para perros, pero la parada fotográfica de fuera es libre.",
+          "dogPolicyPt": "O cais aceita cães à trela; o minúsculo interior não é adequado para cães, mas a paragem para foto lá fora é livre.",
+          "admissionFee": "Small charge to look inside; the quayside view is free",
+          "admissionFeeFr": "Petit tarif pour voir l'intérieur ; la vue depuis le quai est gratuite",
+          "admissionFeeEs": "Pequeña tarifa para ver el interior; la vista desde el muelle es gratis",
+          "admissionFeePt": "Pequena taxa para ver o interior; a vista a partir do cais é grátis",
+          "tip": "It is right on the quay next to the fishing boats and the town walls, an easy add-on to a harbour and estuary walk with the dog.",
+          "tipFr": "Elle se trouve juste sur le quai, à côté des bateaux de pêche et des remparts, un ajout facile à une promenade sur le port et l'estuaire avec le chien.",
+          "tipEs": "Está justo en el muelle junto a las barcas de pesca y las murallas, un añadido fácil a un paseo por el puerto y el estuario con el perro.",
+          "tipPt": "Fica mesmo no cais junto aos barcos de pesca e às muralhas, um acréscimo fácil a um passeio pelo porto e estuário com o cão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Smallest+House+in+Great+Britain+Conwy+Quay"
+        },
+        {
+          "name": "Conwy Town Walls and Quay",
+          "neighborhood": "Conwy town",
+          "photo": "/images/city-places/conwy-attractions-town-walls-quay.jpg",
+          "website": "https://cadw.gov.wales/visit/places-to-visit/conwy-town-walls",
+          "description": "Conwy's near-complete ring of 13th-century town walls, with 21 towers and three gateways, is one of the finest in Europe and encloses a lively harbour and quay. Dogs are not allowed up on the narrow wall walks for safety, but the whole walled town, the quayside and the harbour below are wonderful, dog-friendly outdoor wandering.",
+          "descriptionFr": "L'anneau presque complet de remparts du XIIIe siècle de Conwy, avec 21 tours et trois portes, est l'un des plus beaux d'Europe et enserre un port et un quai animés. Les chiens ne sont pas autorisés sur les chemins de ronde étroits pour des raisons de sécurité, mais toute la ville fortifiée, le quai et le port en contrebas offrent une merveilleuse promenade en plein air acceptant les chiens.",
+          "descriptionEs": "El anillo casi completo de murallas del siglo XIII de Conwy, con 21 torres y tres puertas, es uno de los mejores de Europa y encierra un puerto y un muelle animados. Los perros no pueden subir a los estrechos adarves por seguridad, pero toda la ciudad amurallada, el muelle y el puerto de abajo ofrecen un maravilloso paseo al aire libre apto para perros.",
+          "descriptionPt": "O anel quase completo de muralhas do século XIII de Conwy, com 21 torres e três portões, é um dos mais belos da Europa e encerra um porto e um cais animados. Os cães não podem subir aos estreitos adarves por segurança, mas toda a cidade muralhada, o cais e o porto em baixo oferecem um maravilhoso passeio ao ar livre que aceita cães.",
+          "dogPolicy": "Dogs not allowed on the wall walks; welcome on a lead throughout the walled town, quay and harbour below.",
+          "dogPolicyFr": "Chiens non autorisés sur les chemins de ronde ; bienvenus en laisse dans toute la ville fortifiée, sur le quai et le port en contrebas.",
+          "dogPolicyEs": "Perros no permitidos en los adarves; bienvenidos con correa por toda la ciudad amurallada, el muelle y el puerto de abajo.",
+          "dogPolicyPt": "Cães não permitidos nos adarves; bem-vindos à trela por toda a cidade muralhada, o cais e o porto em baixo.",
+          "admissionFee": "Free to walk the town and quay; the wall walk is a separate Cadw route (no dogs)",
+          "admissionFeeFr": "Gratuit pour parcourir la ville et le quai ; le chemin de ronde est un itinéraire Cadw distinct (sans chiens)",
+          "admissionFeeEs": "Gratis recorrer la ciudad y el muelle; el adarve es una ruta aparte de Cadw (sin perros)",
+          "admissionFeePt": "Grátis percorrer a cidade e o cais; o adarve é um percurso à parte da Cadw (sem cães)",
+          "tip": "Follow the base of the walls and the quay for the best dog-friendly views; the streets are narrow and busy in summer, so a short lead helps.",
+          "tipFr": "Suivez le pied des remparts et le quai pour les plus belles vues avec un chien ; les rues sont étroites et fréquentées l'été, une laisse courte aide.",
+          "tipEs": "Sigue la base de las murallas y el muelle para las mejores vistas aptas para perros; las calles son estrechas y concurridas en verano, así que una correa corta ayuda.",
+          "tipPt": "Siga a base das muralhas e o cais para as melhores vistas que aceitam cães; as ruas são estreitas e movimentadas no verão, por isso uma trela curta ajuda.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Conwy+Town+Walls+Quay"
+        }
+      ],
+      "tipsEn": [
+        "Conwy Castle and the wall walks admit assistance dogs only; take in the castle from the dog-friendly quay, estuary bank and town instead.",
+        "The Smallest House in Great Britain sits on the dog-friendly quay, a fun photo stop on a harbour stroll beneath the walls.",
+        "The whole walled town and quayside are free, outdoor and dog-friendly, so a dog can share almost everything except the castle interior and the wall walks."
+      ],
+      "tipsFr": [
+        "Le château de Conwy et les chemins de ronde n'admettent que les chiens d'assistance ; admirez le château depuis le quai, la rive de l'estuaire et la ville, ouverts aux chiens.",
+        "La plus petite maison de Grande-Bretagne se trouve sur le quai ouvert aux chiens, une amusante halte photo lors d'une promenade sur le port au pied des remparts.",
+        "Toute la ville fortifiée et le quai sont gratuits, en plein air et ouverts aux chiens : un chien peut presque tout partager, sauf l'intérieur du château et les chemins de ronde."
+      ],
+      "tipsEs": [
+        "El castillo de Conwy y los adarves solo admiten perros de asistencia; contempla el castillo desde el muelle, la orilla del estuario y la ciudad, aptos para perros.",
+        "La Casa más Pequeña de Gran Bretaña está en el muelle apto para perros, una divertida parada fotográfica en un paseo por el puerto al pie de las murallas.",
+        "Toda la ciudad amurallada y el muelle son gratis, al aire libre y aptos para perros, así que un perro puede compartir casi todo, salvo el interior del castillo y los adarves."
+      ],
+      "tipsPt": [
+        "O castelo de Conwy e os adarves só admitem cães de assistência; aprecie o castelo a partir do cais, da margem do estuário e da cidade, que aceitam cães.",
+        "A Casa Mais Pequena da Grã-Bretanha fica no cais que aceita cães, uma divertida paragem para foto num passeio pelo porto ao pé das muralhas.",
+        "Toda a cidade muralhada e o cais são gratuitos, ao ar livre e aceitam cães, por isso um cão pode partilhar quase tudo, exceto o interior do castelo e os adarves."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog into Conwy Castle?",
+          "a": "No, only assistance dogs are admitted inside Conwy Castle and onto the town wall walks, due to the narrow spaces and high visitor numbers. Pet dogs are welcome on a lead everywhere else, and the castle is magnificent from the dog-friendly quay, estuary bank and town below."
+        },
+        {
+          "q": "Is Conwy's old town dog-friendly?",
+          "a": "Very. The walled streets, the quay, the harbour and the Smallest House on the quayside are all outdoor, free and open to dogs on a lead. The only exceptions are the inside of the castle and the wall walks, which admit assistance dogs only."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien dans le château de Conwy ?",
+          "a": "Non, seuls les chiens d'assistance sont admis à l'intérieur du château de Conwy et sur les chemins de ronde, en raison des espaces étroits et de la forte affluence. Les chiens de compagnie sont bienvenus en laisse partout ailleurs, et le château est magnifique depuis le quai, la rive de l'estuaire et la ville en contrebas, ouverts aux chiens."
+        },
+        {
+          "q": "La vieille ville de Conwy accepte-t-elle les chiens ?",
+          "a": "Tout à fait. Les rues fortifiées, le quai, le port et la plus petite maison sur le quai sont tous en plein air, gratuits et ouverts aux chiens en laisse. Les seules exceptions sont l'intérieur du château et les chemins de ronde, réservés aux chiens d'assistance."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Puedo llevar a mi perro al castillo de Conwy?",
+          "a": "No, solo se admiten perros de asistencia dentro del castillo de Conwy y en los adarves, por los espacios estrechos y la gran afluencia. Los perros de compañía son bienvenidos con correa en todo lo demás, y el castillo es magnífico desde el muelle, la orilla del estuario y la ciudad de abajo, aptos para perros."
+        },
+        {
+          "q": "Es apto para perros el casco antiguo de Conwy?",
+          "a": "Mucho. Las calles amuralladas, el muelle, el puerto y la Casa más Pequeña en el muelle son al aire libre, gratis y abiertos a los perros con correa. Las únicas excepciones son el interior del castillo y los adarves, que solo admiten perros de asistencia."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão ao castelo de Conwy?",
+          "a": "Não, só os cães de assistência são admitidos dentro do castelo de Conwy e nos adarves, devido aos espaços estreitos e à grande afluência. Os cães de companhia são bem-vindos à trela em tudo o resto, e o castelo é magnífico a partir do cais, da margem do estuário e da cidade em baixo, que aceitam cães."
+        },
+        {
+          "q": "A cidade velha de Conwy aceita cães?",
+          "a": "Muito. As ruas muralhadas, o cais, o porto e a Casa Mais Pequena no cais são ao ar livre, gratuitos e abertos aos cães à trela. As únicas exceções são o interior do castelo e os adarves, que só admitem cães de assistência."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitting and Walking in Conwy",
+      "titleFr": "Garde et promenade de chiens à Conwy",
+      "titleEs": "Cuidado y paseo de perros en Conwy",
+      "titlePt": "Guarda e passeio de cães em Conwy",
+      "introEn": "For the few places a dog cannot go, above all the inside of Conwy Castle and the wall walks, national platforms connect you with vetted local sitters and walkers around Conwy, Llandudno and the Conwy Valley. Book ahead for summer weekends and school holidays, when this popular corner of North Wales fills up and local carers get booked out fast.",
+      "introFr": "Pour les rares endroits où un chien ne peut pas aller, surtout l'intérieur du château de Conwy et les chemins de ronde, des plateformes nationales vous mettent en relation avec des gardiens et promeneurs locaux vérifiés autour de Conwy, Llandudno et la vallée de Conwy. Réservez à l'avance pour les week-ends d'été et les vacances scolaires, quand ce coin prisé du nord du pays de Galles se remplit et que les intervenants locaux sont vite complets.",
+      "introEs": "Para los pocos lugares a los que un perro no puede ir, sobre todo el interior del castillo de Conwy y los adarves, las plataformas nacionales te conectan con cuidadores y paseadores locales verificados en torno a Conwy, Llandudno y el valle de Conwy. Reserva con antelación para los fines de semana de verano y las vacaciones escolares, cuando este popular rincón del norte de Gales se llena y los cuidadores locales se agotan rápido.",
+      "introPt": "Para os poucos lugares onde um cão não pode ir, sobretudo o interior do castelo de Conwy e os adarves, as plataformas nacionais ligam-no a cuidadores e passeadores locais verificados à volta de Conwy, Llandudno e do vale de Conwy. Reserve com antecedência para os fins de semana de verão e as férias escolares, quando este popular canto do norte do País de Gales enche e os cuidadores locais se esgotam depressa.",
+      "places": [
+        {
+          "name": "Rover UK",
+          "website": "https://www.rover.com/uk/",
+          "description": "The largest pet-care platform in the UK, with local dog sitters, boarders and walkers listed across Conwy, Llandudno and the Conwy Valley. Every sitter has a profile, reviews and photos, and you book and pay through the app with cover included.",
+          "descriptionFr": "La plus grande plateforme de garde d'animaux du Royaume-Uni, avec des gardiens, pensions et promeneurs locaux référencés à Conwy, Llandudno et dans la vallée de Conwy. Chaque intervenant a un profil, des avis et des photos, et vous réservez et payez via l'application avec une assurance incluse.",
+          "descriptionEs": "La mayor plataforma de cuidado de mascotas del Reino Unido, con cuidadores, alojadores y paseadores locales listados por Conwy, Llandudno y el valle de Conwy. Cada cuidador tiene perfil, reseñas y fotos, y reservas y pagas a través de la app con cobertura incluida.",
+          "descriptionPt": "A maior plataforma de cuidado de animais do Reino Unido, com cuidadores, alojadores e passeadores locais listados por Conwy, Llandudno e o vale de Conwy. Cada cuidador tem perfil, avaliações e fotos, e reserva e paga através da app com cobertura incluída.",
+          "serviceType": "Dog boarding, day care, drop-in visits and walking",
+          "serviceTypeFr": "Pension, garderie, visites à domicile et promenade",
+          "serviceTypeEs": "Alojamiento, guardería, visitas a domicilio y paseo",
+          "serviceTypePt": "Alojamento, creche, visitas ao domicílio e passeio",
+          "pricePerDay": "From around £20-£35 per day",
+          "languages": ["English"],
+          "tip": "Message two or three sitters early and arrange a short meet-and-greet before your trip so your dog is comfortable before the day you need cover.",
+          "tipFr": "Contactez deux ou trois gardiens tôt et organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avant le jour où vous avez besoin de la garde.",
+          "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo a tu viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
+          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço."
+        },
+        {
+          "name": "Tailster",
+          "website": "https://www.tailster.com/",
+          "description": "A UK-wide network of insured, vetted dog walkers and sitters that matches you with local carers based on your dates and your dog's needs. It is a useful alternative to Rover for covering a castle visit or a long dinner in Conwy.",
+          "descriptionFr": "Un réseau britannique de promeneurs et gardiens de chiens assurés et vérifiés, qui vous associe à des intervenants locaux selon vos dates et les besoins de votre chien. C'est une alternative utile à Rover pour couvrir une visite du château ou un long dîner à Conwy.",
+          "descriptionEs": "Una red de ámbito británico de paseadores y cuidadores de perros asegurados y verificados que te empareja con cuidadores locales según tus fechas y las necesidades de tu perro. Es una alternativa útil a Rover para cubrir una visita al castillo o una cena larga en Conwy.",
+          "descriptionPt": "Uma rede de âmbito británico de passeadores e cuidadores de cães segurados e verificados que o combina com cuidadores locais consoante as suas datas e as necessidades do seu cão. É uma alternativa útil ao Rover para cobrir uma visita ao castelo ou um jantar longo em Conwy.",
+          "serviceType": "Dog walking, day care and home boarding",
+          "serviceTypeFr": "Promenade, garderie et pension à domicile",
+          "serviceTypeEs": "Paseo, guardería y alojamiento en casa",
+          "serviceTypePt": "Passeio, creche e alojamento ao domicílio",
+          "pricePerDay": "From around £18-£30 per day",
+          "languages": ["English"],
+          "tip": "Tell the carer about your dog's recall around livestock, since local walks often use Conwy Mountain and the hills where sheep and ponies graze.",
+          "tipFr": "Informez l'intervenant du rappel de votre chien près du bétail, car les promenades locales empruntent souvent Conwy Mountain et les collines où pâturent moutons et poneys.",
+          "tipEs": "Informa al cuidador sobre la llamada de vuelta de tu perro ante el ganado, ya que los paseos locales suelen usar Conwy Mountain y las colinas donde pastan ovejas y ponis.",
+          "tipPt": "Informe o cuidador sobre a chamada de retorno do seu cão perto do gado, já que os passeios locais usam muitas vezes a Conwy Mountain e as colinas onde pastam ovelhas e póneis."
+        }
+      ],
+      "tipsEn": [
+        "Book sitters and walkers ahead for summer weekends and school holidays, when Conwy and Llandudno are at their busiest and local carers fill up.",
+        "Arrange a meet-and-greet before you rely on a sitter, and share your dog's vaccination records and your holiday vet's details.",
+        "A local walker who knows Conwy Mountain and the beach dog rules is a good option while you visit the castle interior, where only assistance dogs are allowed."
+      ],
+      "tipsFr": [
+        "Réservez gardiens et promeneurs à l'avance pour les week-ends d'été et les vacances scolaires, quand Conwy et Llandudno sont au plus fréquenté et que les intervenants locaux sont complets.",
+        "Organisez une rencontre avant de compter sur un gardien, et transmettez le carnet de vaccination de votre chien et les coordonnées de votre vétérinaire de vacances.",
+        "Un promeneur local qui connaît Conwy Mountain et les règles des plages canines est une bonne option pendant que vous visitez l'intérieur du château, réservé aux chiens d'assistance."
+      ],
+      "tipsEs": [
+        "Reserva cuidadores y paseadores con antelación para los fines de semana de verano y las vacaciones escolares, cuando Conwy y Llandudno están más concurridos y los cuidadores locales se llenan.",
+        "Organiza un encuentro previo antes de confiar en un cuidador, y comparte la cartilla de vacunación de tu perro y los datos de tu veterinario de vacaciones.",
+        "Un paseador local que conozca Conwy Mountain y las normas de las playas caninas es una buena opción mientras visitas el interior del castillo, donde solo se admiten perros de asistencia."
+      ],
+      "tipsPt": [
+        "Reserve cuidadores e passeadores com antecedência para os fins de semana de verão e as férias escolares, quando Conwy e Llandudno estão mais movimentadas e os cuidadores locais se esgotam.",
+        "Combine um encontro prévio antes de confiar num cuidador, e partilhe o boletim de vacinação do seu cão e os dados do seu veterinário de férias.",
+        "Um passeador local que conheça a Conwy Mountain e as regras das praias caninas é uma boa opção enquanto visita o interior do castelo, onde só são admitidos cães de assistência."
+      ],
+      "faqsEn": [
+        {
+          "q": "How do I find a dog sitter in Conwy?",
+          "a": "National platforms such as Rover and Tailster list vetted, insured sitters, boarders and walkers across Conwy, Llandudno and the Conwy Valley. You browse profiles and reviews, arrange a meet-and-greet, and book through the app; reserve early for summer weekends and school holidays."
+        },
+        {
+          "q": "Can I leave my dog while I visit Conwy Castle?",
+          "a": "Yes. Since only assistance dogs are allowed inside Conwy Castle and on the wall walks, a local sitter or day-care through Rover or Tailster is ideal for a castle visit. Share your dog's vet details and its recall around livestock with the carer, and arrange a meet-and-greet first."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Comment trouver un gardien de chien à Conwy ?",
+          "a": "Des plateformes nationales comme Rover et Tailster référencent des gardiens, pensions et promeneurs vérifiés et assurés à Conwy, Llandudno et dans la vallée de Conwy. Vous consultez les profils et les avis, organisez une rencontre et réservez via l'application ; réservez tôt pour les week-ends d'été et les vacances scolaires."
+        },
+        {
+          "q": "Puis-je laisser mon chien pendant que je visite le château de Conwy ?",
+          "a": "Oui. Comme seuls les chiens d'assistance sont admis à l'intérieur du château de Conwy et sur les chemins de ronde, un gardien local ou une garderie via Rover ou Tailster est idéal pour une visite du château. Communiquez à l'intervenant les coordonnées de votre vétérinaire et le rappel de votre chien près du bétail, et organisez d'abord une rencontre."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Cómo encuentro un cuidador de perros en Conwy?",
+          "a": "Plataformas nacionales como Rover y Tailster listan cuidadores, alojadores y paseadores verificados y asegurados por Conwy, Llandudno y el valle de Conwy. Consultas perfiles y reseñas, organizas un encuentro y reservas por la app; reserva pronto para los fines de semana de verano y las vacaciones escolares."
+        },
+        {
+          "q": "Puedo dejar a mi perro mientras visito el castillo de Conwy?",
+          "a": "Sí. Como solo se admiten perros de asistencia dentro del castillo de Conwy y en los adarves, un cuidador local o una guardería por Rover o Tailster es ideal para una visita al castillo. Comparte con el cuidador los datos de tu veterinario y la llamada de vuelta de tu perro ante el ganado, y organiza antes un encuentro."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Como encontro um cuidador de cães em Conwy?",
+          "a": "Plataformas nacionais como Rover e Tailster listam cuidadores, alojadores e passeadores verificados e segurados por Conwy, Llandudno e o vale de Conwy. Consulta perfis e avaliações, combina um encontro e reserva pela app; reserve cedo para os fins de semana de verão e as férias escolares."
+        },
+        {
+          "q": "Posso deixar o meu cão enquanto visito o castelo de Conwy?",
+          "a": "Sim. Como só os cães de assistência são admitidos dentro do castelo de Conwy e nos adarves, um cuidador local ou uma creche pelo Rover ou Tailster é ideal para uma visita ao castelo. Partilhe com o cuidador os dados do seu veterinário e a chamada de retorno do seu cão perto do gado, e combine primeiro um encontro."
+        }
+      ]
+    }
+  }
+}

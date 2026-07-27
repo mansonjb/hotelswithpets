@@ -706,6 +706,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Mata Nacional do Choupal riverside forest, the Parque Verde do Mondego with its Pedro & Inês pedestrian bridge, and the outdoor courtyards of Europe's oldest university`,
       area: 'the Baixa (lower town) along the Mondego, the Alta (upper town) around the university, and the south bank near the Pedro & Inês bridge',
     },
+    conwy: {
+      personality: `a medieval walled castle town on the North Wales coast and a gateway to Eryri (Snowdonia), where dogs share the quay, the estuary and the dog-welcoming pubs, plus superb hill and mountain walks, though the castle interior and wall walks admit assistance dogs only`,
+      highlight: `the Conwy Mountain circuit above the town, the dog-friendly Aber Falls trail in Eryri, and Bodnant Garden on its dog days`,
+      area: `the walled town and Conwy Quay, the marina and Conwy Morfa, and the estuary path towards the mountains`,
+    },
     copenhagen: {
       personality: 'a city that leads Europe on pet welfare. Dogs travel free on public transport, enter most shops, and are welcomed with water bowls on nearly every terrace',
       highlight: 'the Frederiksberg Gardens, Fælledparken, and the harbour waterfront',
@@ -2694,6 +2699,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la forêt riveraine de la Mata Nacional do Choupal, le Parque Verde do Mondego et sa passerelle piétonne Pedro & Inês, ainsi que les cours extérieures de la plus ancienne université d'Europe`,
       area: 'la Baixa (basse ville) le long du Mondego, l\'Alta (haute ville) autour de l\'université et la rive sud près de la passerelle Pedro & Inês',
     },
+    conwy: {
+      personality: `une ville-château médiévale fortifiée de la côte du nord du pays de Galles et une porte d'entrée vers l'Eryri (Snowdonia), où les chiens partagent le quai, l'estuaire et les pubs qui les acceptent, ainsi que de superbes promenades en collines et en montagne, même si l'intérieur du château et les chemins de ronde n'admettent que les chiens d'assistance`,
+      highlight: `le circuit de Conwy Mountain au-dessus de la ville, le sentier des chutes d'Aber acceptant les chiens dans l'Eryri, et Bodnant Garden lors de ses jours ouverts aux chiens`,
+      area: `la ville fortifiée et Conwy Quay, la marina et Conwy Morfa, et le chemin de l'estuaire vers les montagnes`,
+    },
     copenhagen: {
       personality: 'une ville en tête de l\'Europe pour le bien-être animal. Les chiens voyagent gratuitement dans les transports en commun, entrent dans la plupart des commerces et sont accueillis avec des bols d\'eau sur presque toutes les terrasses',
       highlight: 'les jardins de Frederiksberg, Fælledparken et le front de mer du port',
@@ -4681,6 +4691,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el bosque ribereño de la Mata Nacional do Choupal, el Parque Verde do Mondego con su pasarela peatonal Pedro & Inês, y los patios exteriores de la universidad más antigua de Europa',
       area: 'la Baixa (ciudad baja) junto al Mondego, la Alta (ciudad alta) en torno a la universidad y la orilla sur cerca de la pasarela Pedro & Inês',
     },
+    conwy: {
+      personality: `una ciudad-castillo medieval amurallada en la costa del norte de Gales y una puerta de entrada a Eryri (Snowdonia), donde los perros comparten el muelle, el estuario y los pubs que los admiten, además de estupendos paseos por colinas y montañas, aunque el interior del castillo y los adarves solo admiten perros de asistencia`,
+      highlight: `el circuito de Conwy Mountain sobre la ciudad, el camino de las cataratas de Aber apto para perros en Eryri, y Bodnant Garden en sus días para perros`,
+      area: `la ciudad amurallada y Conwy Quay, la marina y Conwy Morfa, y el camino del estuario hacia las montañas`,
+    },
     copenhagen: {
       personality: 'una ciudad líder en Europa en bienestar animal. Los perros viajan gratis en transporte público, entran en la mayoría de los comercios y son bienvenidos con cuencos de agua en casi todas las terrazas',
       highlight: 'los Jardines de Frederiksberg, Fælledparken y el paseo marítimo del puerto',
@@ -6667,6 +6682,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade universitaria UNESCO que desciende a partir do seu colina até o Mondego, onde os cães com trela se deslizan pelas callejuelas medievais e o floresta ripario do Choupal é o imán diario dos passeios',
       highlight: 'o floresta riberenho da Mata Nacional do Choupal, o Parque Verde do Mondego com o seu pasarela peatonal Pedro & Inês, e os patios exteriores da universidade mais antiga de Europa',
       area: 'a Baixa (cidade baja) junto al Mondego, a Alta (cidade alta) en torno a a universidade e a margem sur perto da pasarela Pedro & Inês',
+    },
+    conwy: {
+      personality: `uma cidade-castelo medieval muralhada na costa do norte do País de Gales e uma porta de entrada para Eryri (Snowdonia), onde os cães partilham o cais, o estuário e os pubs que os aceitam, além de ótimos passeios por colinas e montanhas, embora o interior do castelo e os adarves só admitam cães de assistência`,
+      highlight: `o circuito da Conwy Mountain acima da cidade, o trilho das quedas de Aber que aceita cães em Eryri, e o Bodnant Garden nos seus dias para cães`,
+      area: `a cidade muralhada e Conwy Quay, a marina e Conwy Morfa, e o caminho do estuário rumo às montanhas`,
     },
     copenhagen: {
       personality: 'uma cidade líder en Europa en bienestar animal. Os cães viajan grátis en transporte público, entran en a maioria dos comercios e são bem-vindos com cuencos de água en casi todas as esplanadas',

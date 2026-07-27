@@ -59253,5 +59253,204 @@
       "Non-smoking rooms"
     ],
     "slug": "the-chapel-tenby"
+  },
+  {
+    "id": "conwy-1",
+    "name": "Glan Heulog Guest House",
+    "destinationSlug": "conwy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 245,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/glan-heulog.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "glan-heulog-guest-house-conwy"
+  },
+  {
+    "id": "conwy-2",
+    "name": "The Manor Boutique Hotel Restaurant and Bar",
+    "destinationSlug": "conwy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 485,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-manor-boutique-restaurant-and-bar-conwy.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "4 restaurants"
+    ],
+    "slug": "the-manor-boutique-hotel-restaurant-and-bar-conwy"
+  },
+  {
+    "id": "conwy-3",
+    "name": "Coed Mawr Hall Bed & Breakfast",
+    "destinationSlug": "conwy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.8,
+    "reviewCount": 241,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/bed-amp-breakfast-coed-mawr.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "coed-mawr-hall-bed-breakfast-conwy"
+  },
+  {
+    "id": "conwy-4",
+    "name": "Conwy Valley Cottages",
+    "destinationSlug": "conwy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 40,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/conwy-valley-cottages.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "conwy-valley-cottages-conwy"
+  },
+  {
+    "id": "conwy-5",
+    "name": "Tir y Coed Country House",
+    "destinationSlug": "conwy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.6,
+    "reviewCount": 68,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/tir-y-coed-country-house.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "tir-y-coed-country-house-conwy"
+  },
+  {
+    "id": "conwy-6",
+    "name": "Ty Llewelyn",
+    "destinationSlug": "conwy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/ty-llewelyn-conwy.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs stay free; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Pet-friendly",
+      "Central location"
+    ],
+    "slug": "ty-llewelyn-conwy"
+  },
+  {
+    "id": "conwy-7",
+    "name": "Bwthyn Y Celyn",
+    "destinationSlug": "conwy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.7,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/bwthyn-y-celyn.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "bwthyn-y-celyn-conwy"
+  },
+  {
+    "id": "conwy-8",
+    "name": "Low Quay Cottage",
+    "destinationSlug": "conwy",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.6,
+    "reviewCount": 12,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/low-quay-cottage.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs stay free; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Pet-friendly",
+      "Central location"
+    ],
+    "slug": "low-quay-cottage-conwy"
   }
 ]

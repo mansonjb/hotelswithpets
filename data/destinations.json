@@ -7381,6 +7381,81 @@
     "iata": "XRY"
   },
   {
+    "slug": "conwy",
+    "name": "Conwy",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/conwy.jpg",
+    "intro": "A medieval walled castle town on the North Wales coast and a gateway to Eryri (Snowdonia), wrapped around a UNESCO World Heritage castle and a lively quay on the Conwy estuary. Dogs travel free on the train on the North Wales Coast Line and the scenic Conwy Valley Line into the mountains, and the town itself is exceptionally dog-friendly, with dog-welcoming pubs and cafes and superb walks up Conwy Mountain and along the estuary. Pet dogs cannot go inside the castle or on the wall walks, but almost everything else is open to them, and Bodnant Garden and the Aber Falls in Eryri welcome dogs on a lead.",
+    "lat": 53.2800,
+    "lng": -3.8300,
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cold, wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cold, damp",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool, showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Spring showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild, greening",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild, changeable",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm, frequent rain",
+        "icon": "🌦️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm, wet spells",
+        "icon": "🌦️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Cool, golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Wet, leafy",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cold, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cold, wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "MAN"
+  },
+  {
     "slug": "copenhagen",
     "name": "Copenhagen",
     "country": "Denmark",

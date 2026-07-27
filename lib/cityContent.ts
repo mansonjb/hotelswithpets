@@ -12596,6 +12596,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  conwy: {
+    history: {
+      fr: `Conwy est une ville-château médiévale fortifiée à l'embouchure de l'estuaire de la Conwy, sur la côte du nord du pays de Galles. Son château, bâti par Édouard Ier dans les années 1280 avec huit grandes tours, et son anneau presque complet de remparts à 21 tours forment l'un des ensembles médiévaux les mieux préservés d'Europe, classé au patrimoine mondial de l'UNESCO. Ancien port de pêche, la ville garde un quai animé où se dresse la plus petite maison de Grande-Bretagne. Conwy est aussi une porte d'entrée pour l'Eryri (Snowdonia). Pour un chien, c'est une base exceptionnellement accueillante : chiens gratuits dans le train sur la North Wales Coast Line et la pittoresque Conwy Valley Line vers les montagnes, bienvenus dans les pubs et cafés de Castle Street et du quai, et sur de superbes promenades comme Conwy Mountain. Seules exceptions : l'intérieur du château et les chemins de ronde, réservés aux chiens d'assistance. Et depuis le Brexit, la Grande-Bretagne exige un Animal Health Certificate au lieu du passeport européen.`,
+      en: `Conwy is a medieval walled castle town at the mouth of the Conwy estuary on the North Wales coast. Its castle, built by Edward I in the 1280s with eight great towers, and its near-complete ring of town walls with 21 towers form one of the best-preserved medieval ensembles in Europe, a UNESCO World Heritage Site. A former fishing port, the town keeps a lively quay where the Smallest House in Great Britain stands. Conwy is also a gateway to Eryri (Snowdonia). For a dog, it is an exceptionally welcoming base: dogs travel free on the train on the North Wales Coast Line and the scenic Conwy Valley Line into the mountains, and are welcome in the pubs and cafes of Castle Street and the quay, and on superb walks such as Conwy Mountain. The only exceptions are the castle interior and the wall walks, which admit assistance dogs only. And since Brexit, Great Britain requires a GB Animal Health Certificate instead of the EU pet passport.`,
+      es: `Conwy es una ciudad-castillo medieval amurallada en la desembocadura del estuario del Conwy, en la costa del norte de Gales. Su castillo, construido por Eduardo I en la década de 1280 con ocho grandes torres, y su anillo casi completo de murallas con 21 torres forman uno de los conjuntos medievales mejor conservados de Europa, Patrimonio de la Humanidad de la UNESCO. Antiguo puerto pesquero, la ciudad conserva un muelle animado donde se alza la Casa más Pequeña de Gran Bretaña. Conwy es también una puerta de entrada a Eryri (Snowdonia). Para un perro es una base excepcionalmente acogedora: los perros viajan gratis en el tren por la North Wales Coast Line y la pintoresca Conwy Valley Line hacia las montañas, y son bienvenidos en los pubs y cafés de Castle Street y el muelle, y en estupendos paseos como Conwy Mountain. Las únicas excepciones son el interior del castillo y los adarves, que solo admiten perros de asistencia. Y desde el Brexit, Gran Bretaña exige un Animal Health Certificate británico en lugar del pasaporte europeo.`,
+      pt: `Conwy é uma cidade-castelo medieval muralhada na foz do estuário do Conwy, na costa do norte do País de Gales. O seu castelo, construído por Eduardo I na década de 1280 com oito grandes torres, e o seu anel quase completo de muralhas com 21 torres formam um dos conjuntos medievais mais bem preservados da Europa, Património Mundial da UNESCO. Antigo porto piscatório, a cidade conserva um cais animado onde se ergue a Casa Mais Pequena da Grã-Bretanha. Conwy é também uma porta de entrada para Eryri (Snowdonia). Para um cão é uma base excecionalmente acolhedora: os cães viajam grátis no comboio pela North Wales Coast Line e pela pitoresca Conwy Valley Line rumo às montanhas, e são bem-vindos nos pubs e cafés de Castle Street e do cais, e em ótimos passeios como a Conwy Mountain. As únicas exceções são o interior do castelo e os adarves, que só admitem cães de assistência. E desde o Brexit, a Grã-Bretanha exige um Animal Health Certificate británico em vez do passaporte europeu.`,
+    },
+    sights: [
+      {
+        name: 'Conwy Castle',
+        emoji: '🏰',
+        petFriendly: false,
+        desc: {
+          fr: `Forteresse UNESCO d'Édouard Ier (années 1280) aux huit grandes tours au-dessus de l'estuaire. Seuls les chiens d'assistance entrent ; magnifique depuis le quai et l'estuaire, ouverts aux chiens.`,
+          en: `Edward I's UNESCO fortress (1280s) with eight great towers above the estuary. Only assistance dogs go inside; magnificent from the dog-friendly quay and estuary.`,
+          es: `Fortaleza UNESCO de Eduardo I (década de 1280) con ocho grandes torres sobre el estuario. Solo entran perros de asistencia; magnífica desde el muelle y el estuario, aptos para perros.`,
+          pt: `Fortaleza UNESCO de Eduardo I (década de 1280) com oito grandes torres sobre o estuário. Só entram cães de assistência; magnífica a partir do cais e do estuário, que aceitam cães.`,
+        },
+      },
+      {
+        name: 'Conwy Town Walls and Quay',
+        emoji: '🏯',
+        petFriendly: true,
+        desc: {
+          fr: `Anneau presque complet de remparts du XIIIe siècle à 21 tours autour d'un quai animé. Chiens interdits sur les chemins de ronde étroits, mais bienvenus en laisse dans toute la ville et sur le quai.`,
+          en: `A near-complete ring of 13th-century walls with 21 towers around a lively quay. No dogs on the narrow wall walks, but welcome on a lead throughout the town and quay.`,
+          es: `Anillo casi completo de murallas del siglo XIII con 21 torres en torno a un muelle animado. Perros no permitidos en los estrechos adarves, pero bienvenidos con correa por toda la ciudad y el muelle.`,
+          pt: `Anel quase completo de muralhas do século XIII com 21 torres à volta de um cais animado. Cães não permitidos nos estreitos adarves, mas bem-vindos à trela por toda a cidade e o cais.`,
+        },
+      },
+      {
+        name: 'The Smallest House in Great Britain',
+        emoji: '🏠',
+        petFriendly: true,
+        desc: {
+          fr: `La célèbre Quay House rouge vif, large de 72 pouces, record de la plus petite maison de Grande-Bretagne. Le quai est ouvert aux chiens : amusante halte photo au pied des remparts.`,
+          en: `The famous bright-red Quay House, 72 inches wide, the record smallest house in Great Britain. The quayside is dog-friendly, a fun photo stop beneath the walls.`,
+          es: `La famosa Quay House rojo vivo, de 72 pulgadas de ancho, récord de la casa más pequeña de Gran Bretaña. El muelle admite perros: divertida parada fotográfica al pie de las murallas.`,
+          pt: `A famosa Quay House vermelho vivo, com 72 polegadas de largura, recorde da casa mais pequena da Grã-Bretanha. O cais aceita cães: divertida paragem para foto ao pé das muralhas.`,
+        },
+      },
+      {
+        name: 'Conwy Mountain (Mynydd y Dref)',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Colline en dos de baleine au-dessus de la ville, chemins herbeux et fort de l'âge du fer, circuit recommandé de 5,5 km. Chiens en laisse près des moutons et poneys qui pâturent.`,
+          en: `The whaleback hill above the town, with grassy paths and an Iron Age hillfort and a recommended 3.5-mile circuit. Dogs on a lead near grazing sheep and ponies.`,
+          es: `Colina en lomo de ballena sobre la ciudad, con caminos herbosos y un castro de la Edad del Hierro y un circuito recomendado de 5,5 km. Perros con correa cerca de las ovejas y ponis que pastan.`,
+          pt: `Colina em dorso de baleia sobre a cidade, com caminhos relvados e um castro da Idade do Ferro e um circuito recomendado de 5,5 km. Cães à trela perto das ovelhas e póneis que pastam.`,
+        },
+      },
+      {
+        name: 'Bodnant Garden (National Trust)',
+        emoji: '🌸',
+        petFriendly: true,
+        desc: {
+          fr: `Jardin du National Trust de renommée mondiale dans la vallée de Conwy. Chiens en laisse courte non extensible du jeu au dim d'avril à septembre, et tous les jours d'octobre à mars.`,
+          en: `A world-famous National Trust garden in the Conwy Valley. Dogs on a short, non-extendable lead Thursday to Sunday April to September, and every day October to March.`,
+          es: `Jardín del National Trust de fama mundial en el valle de Conwy. Perros con correa corta no extensible de jue a dom de abril a septiembre, y todos los días de octubre a marzo.`,
+          pt: `Jardim do National Trust de fama mundial no vale de Conwy. Cães com trela curta não extensível de qui a dom de abril a setembro, e todos os dias de outubro a março.`,
+        },
+      },
+      {
+        name: 'Aber Falls (Rhaeadr Fawr, Eryri)',
+        emoji: '💧',
+        petFriendly: true,
+        desc: {
+          fr: `Promenade familiale vers une cascade de 37 m à Abergwyngregyn, dans l'Eryri à l'ouest de Conwy. Aller-retour facile qui accepte les chiens en laisse ; moutons sur les collines.`,
+          en: `A family-friendly walk to a 37-metre waterfall at Abergwyngregyn, in Eryri west of Conwy. An easy there-and-back trail that welcomes dogs on a lead; sheep on the hills.`,
+          es: `Paseo familiar hacia una cascada de 37 m en Abergwyngregyn, en Eryri al oeste de Conwy. Ida y vuelta fácil que admite perros con correa; ovejas en las colinas.`,
+          pt: `Passeio familiar rumo a uma cascata de 37 m em Abergwyngregyn, em Eryri a oeste de Conwy. Ida e volta fácil que aceita cães à trela; ovelhas nas colinas.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les chiens de compagnie ne peuvent pas entrer dans le château de Conwy ni sur les chemins de ronde étroits (seuls les chiens d'assistance) ; admirez le château depuis le quai et l'estuaire, ouverts aux chiens.`,
+        `Presque tout le reste de Conwy accepte les chiens : les pubs et cafés de Castle Street et du quai, comme Cantîn qui propose paniers, friandises et eau pour chiens.`,
+        `Sur les plages, le Conwy County Borough Council applique des restrictions saisonnières du 1er mai au 30 septembre (amende forfaitaire de 100 livres) ; Conwy Morfa accepte les chiens, West Shore a une zone réglementée entre ses épis.`,
+        `Sur Conwy Mountain et dans l'Eryri, gardez le chien en laisse près des moutons et poneys qui pâturent, et emportez de l'eau.`,
+        `Véto le plus proche : Cater Veterinary Practice, Llandudno Junction (+44 1492 581920) ; Murphy & Co Vets, Llandudno (+44 1492 878581), avec garde d'urgence.`,
+      ],
+      en: [
+        `Pet dogs cannot go inside Conwy Castle or onto the narrow wall walks (assistance dogs only); admire the castle from the dog-friendly quay and estuary instead.`,
+        `Almost everything else in Conwy is dog-friendly: the pubs and cafes of Castle Street and the quay, such as Cantîn, which lays on dog beds, treats and water.`,
+        `On the beaches, Conwy County Borough Council runs seasonal restrictions from 1 May to 30 September (100-pound fixed penalty); Conwy Morfa is dog-friendly, and West Shore has a restricted zone between its groynes.`,
+        `On Conwy Mountain and in Eryri, keep your dog on a lead near grazing sheep and ponies, and carry water.`,
+        `Nearest vet: Cater Veterinary Practice, Llandudno Junction (+44 1492 581920); Murphy & Co Vets, Llandudno (+44 1492 878581), with out-of-hours cover.`,
+      ],
+      es: [
+        `Los perros de compañía no pueden entrar en el castillo de Conwy ni en los estrechos adarves (solo perros de asistencia); contempla el castillo desde el muelle y el estuario, aptos para perros.`,
+        `Casi todo lo demás en Conwy admite perros: los pubs y cafés de Castle Street y el muelle, como Cantîn, que ofrece camas, golosinas y agua para perros.`,
+        `En las playas, el Conwy County Borough Council aplica restricciones estacionales del 1 de mayo al 30 de septiembre (multa fija de 100 libras); Conwy Morfa admite perros, y West Shore tiene una zona restringida entre sus espigones.`,
+        `En Conwy Mountain y en Eryri, manten al perro con correa cerca de las ovejas y ponis que pastan, y lleva agua.`,
+        `Veterinario más cercano: Cater Veterinary Practice, Llandudno Junction (+44 1492 581920); Murphy & Co Vets, Llandudno (+44 1492 878581), con guardia de urgencias.`,
+      ],
+      pt: [
+        `Os cães de companhia não podem entrar no castelo de Conwy nem nos estreitos adarves (só cães de assistência); aprecie o castelo a partir do cais e do estuário, que aceitam cães.`,
+        `Quase tudo o resto em Conwy aceita cães: os pubs e cafés de Castle Street e do cais, como o Cantîn, que oferece camas, guloseimas e água para cães.`,
+        `Nas praias, o Conwy County Borough Council aplica restrições sazonais de 1 de maio a 30 de setembro (multa fixa de 100 libras); Conwy Morfa aceita cães, e West Shore tem uma zona restringida entre os seus esporões.`,
+        `Na Conwy Mountain e em Eryri, mantenha o cão à trela perto das ovelhas e póneis que pastam, e leve água.`,
+        `Veterinário mais próximo: Cater Veterinary Practice, Llandudno Junction (+44 1492 581920); Murphy & Co Vets, Llandudno (+44 1492 878581), com serviço de urgência.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), puce, vaccin antirabique et traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : train sur la North Wales Coast Line ; principal nœud à Llandudno Junction, à un arrêt (chiens gratuits). La Conwy Valley Line dessert l'Eryri. Aéroports : Manchester (MAN) et Liverpool (LPL), à environ 1h30.`,
+        `Se déplacer : la ville fortifiée est compacte et se parcourt à pied ; laissez la voiture aux parkings du quai et de la gare. Très fréquenté les week-ends d'été.`,
+        `Météo : climat océanique doux, plus humide et frais que le sud de la Grande-Bretagne ; hivers doux (7 °C), étés chauds sans excès (18 °C), montagnes souvent nuageuses. Printemps et automne idéaux.`,
+        `Numéros utiles : urgence générale 999 ou 112 ; véto Cater Veterinary Practice +44 1492 581920 ; Murphy & Co Vets +44 1492 878581.`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: train on the North Wales Coast Line; the main interchange at Llandudno Junction is one stop away (dogs free). The Conwy Valley Line runs into Eryri. Airports: Manchester (MAN) and Liverpool (LPL), about 1.5 hours away.`,
+        `Getting around: the walled town is compact and best on foot; leave the car at the quay and station car parks. Very busy on summer weekends.`,
+        `Weather: mild oceanic climate, wetter and cooler than southern Britain; mild winters (7 C), warm but not hot summers (18 C), mountains often cloudy. Spring and autumn are ideal.`,
+        `Useful numbers: general emergency 999 or 112; vet Cater Veterinary Practice +44 1492 581920; Murphy & Co Vets +44 1492 878581.`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento antitenia entre 24 y 120 horas antes de la llegada.`,
+        `Cómo llegar: tren por la North Wales Coast Line; el principal intercambiador de Llandudno Junction está a una parada (perros gratis). La Conwy Valley Line llega a Eryri. Aeropuertos: Manchester (MAN) y Liverpool (LPL), a unas 1,5 horas.`,
+        `Cómo moverse: la ciudad amurallada es compacta y se recorre a pie; deja el coche en los aparcamientos del muelle y la estación. Muy concurrida los fines de semana de verano.`,
+        `Tiempo: clima oceánico suave, más húmedo y fresco que el sur de Gran Bretaña; inviernos suaves (7 C), veranos cálidos sin excesos (18 C), montañas a menudo nubladas. Primavera y otoño ideales.`,
+        `Números útiles: emergencia general 999 o 112; veterinario Cater Veterinary Practice +44 1492 581920; Murphy & Co Vets +44 1492 878581.`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate británico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia entre 24 e 120 horas antes da chegada.`,
+        `Como chegar: comboio pela North Wales Coast Line; o principal interface de Llandudno Junction fica a uma paragem (cães grátis). A Conwy Valley Line chega a Eryri. Aeroportos: Manchester (MAN) e Liverpool (LPL), a cerca de 1,5 horas.`,
+        `Como se deslocar: a cidade muralhada é compacta e percorre-se a pé; deixe o carro nos parques do cais e da estação. Muito movimentada nos fins de semana de verão.`,
+        `Tempo: clima oceânico ameno, mais húmido e fresco do que o sul da Grã-Bretanha; invernos amenos (7 C), verões quentes sem excessos (18 C), montanhas muitas vezes nubladas. Primavera e outono ideais.`,
+        `Números úteis: emergência geral 999 ou 112; veterinário Cater Veterinary Practice +44 1492 581920; Murphy & Co Vets +44 1492 878581.`,
+      ],
+    },
+  },
+
   copenhagen: {
     history: {
       en: 'Copenhagen, consistently ranked among the world\'s most liveable cities, is also one of Europe\'s most dog-friendly capitals. Danes have a deep and unsentimental relationship with their dogs: Copenhageners cycle with dogs in cargo bikes, take them to work, and bring them to the city\'s many dog-friendly cafés and restaurants as a matter of course. The city\'s commitment to cycling infrastructure, its network of harbour baths, parks and beaches within cycling distance, and its high social trust create an environment where dogs are genuinely welcomed rather than merely tolerated. An estimated 70,000 dogs live in the Copenhagen metropolitan area.',

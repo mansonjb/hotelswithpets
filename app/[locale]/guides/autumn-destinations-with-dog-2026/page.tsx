@@ -4,6 +4,8 @@ import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
 import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import { GuideFooter } from '../_components/GuideFooter'
+import hotels from '@/data/hotels.json'
+import { valueSort } from '@/lib/hotelSort'
 
 const SLUG = 'autumn-destinations-with-dog-2026'
 const CAMPAIGN = 'autumn-dog'
@@ -231,6 +233,14 @@ const SIBLING_GUIDES = [
   { slug: 'best-dog-beaches-europe-2026', emoji: '🏖️', label: { en: 'The best dog beaches in Europe', fr: 'Les meilleures plages canines d\'Europe', es: 'Las mejores playas caninas de Europa', pt: 'As melhores praias caninas da Europa' } },
 ]
 
+// Top 3 value-sorted, real pet-friendly hotels per featured destination, shown
+// inline on each card so the guide is a money page in itself (3 internal links
+// to hotel pages per destination), not just a list.
+const HOTELS_BY_DEST: Record<string, typeof hotels> = {}
+for (const slug of THEMES.flatMap((t) => t.destinations.map((d) => d.slug))) {
+  HOTELS_BY_DEST[slug] = valueSort(hotels.filter((h) => h.destinationSlug === slug)).slice(0, 3)
+}
+
 const T = {
   title: {
     en: 'Best Autumn 2026 Destinations to Travel With Your Dog',
@@ -259,6 +269,9 @@ const T = {
   octTemp: { en: 'Oct avg high', fr: 'Max moy. oct.', es: 'Máx. prom. oct.', pt: 'Máx. méd. out.' },
   seeHotels: { en: 'See pet-friendly hotels', fr: 'Voir les hôtels pet-friendly', es: 'Ver hoteles pet-friendly', pt: 'Ver hotéis pet-friendly' },
   seeGuide: { en: 'Destination guide', fr: 'Guide destination', es: 'Guía del destino', pt: 'Guia do destino' },
+  fromWord: { en: 'from', fr: 'dès', es: 'desde', pt: 'desde' },
+  noFee: { en: 'no pet fee', fr: 'sans supplément', es: 'sin cargo mascota', pt: 'sem suplemento' },
+  ourPicks: { en: '3 pet-friendly picks', fr: '3 adresses pet-friendly', es: '3 opciones pet-friendly', pt: '3 opções pet-friendly' },
   breadHome: { en: 'Home', fr: 'Accueil', es: 'Inicio', pt: 'Início' },
   breadGuides: { en: 'Guides', fr: 'Guides', es: 'Guías', pt: 'Guias' },
   kicker: { en: 'Autumn & dogs', fr: 'Automne & chien', es: 'Otoño & perro', pt: 'Outono & cão' },
@@ -467,6 +480,31 @@ export default async function AutumnDestinationsPage({
                       </div>
                     </div>
                     <p className="text-gray-700 text-sm leading-relaxed mb-4">{p(dest.why, locale)}</p>
+                    {(HOTELS_BY_DEST[dest.slug] ?? []).length > 0 && (
+                      <div className="mb-4">
+                        <div className="text-xs font-semibold text-gray-500 uppercase tracking-wide mb-2">{p(T.ourPicks, locale)}</div>
+                        <div className="rounded-xl border border-gray-100 overflow-hidden divide-y divide-gray-100">
+                          {(HOTELS_BY_DEST[dest.slug] ?? []).map((h) => (
+                            <Link
+                              key={h.slug}
+                              href={`/${locale}/hotels/${h.slug}`}
+                              className="flex items-center justify-between gap-3 px-4 py-2.5 hover:bg-amber-50/60 transition-colors"
+                            >
+                              <span className="min-w-0">
+                                <span className="block text-sm font-semibold text-gray-900 truncate">{h.name}</span>
+                                <span className="block text-xs text-gray-500">
+                                  {'★'.repeat(h.stars || 0)} · {h.rating.toFixed(1)}/10{h.petFee === 0 ? ` · ${p(T.noFee, locale)}` : ''}
+                                </span>
+                              </span>
+                              <span className="flex-shrink-0 text-right">
+                                <span className="block text-[11px] text-gray-400">{p(T.fromWord, locale)}</span>
+                                <span className="block text-sm font-bold text-gray-900">{h.currency === 'GBP' ? '£' : '€'}{h.priceFrom}</span>
+                              </span>
+                            </Link>
+                          ))}
+                        </div>
+                      </div>
+                    )}
                     <div className="flex flex-wrap gap-3">
                       <a
                         href={buildAllezDestLink(dest.name, dest.country, `${CAMPAIGN}-${dest.slug}`, 3)}

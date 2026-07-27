@@ -5,6 +5,8 @@ import Link from 'next/link'
 import { usePathname } from 'next/navigation'
 import type { Locale } from '@/app/[locale]/dictionaries'
 import destinationsData from '@/data/destinations.json'
+import { getLocalizedCountryName } from '@/lib/countries'
+import { getLocalizedCityName } from '@/lib/cityNames'
 
 interface Destination {
   slug: string
@@ -47,6 +49,12 @@ export default function Header({ locale, dict }: HeaderProps) {
   const [mobileDestOpen, setMobileDestOpen] = useState(false)
   const pathname = usePathname()
   const dropdownTimeout = useRef<ReturnType<typeof setTimeout> | null>(null)
+
+  // Localized country labels, re-sorted alphabetically in the active language
+  // (the URL slug stays the English-derived one).
+  const localizedCountries = countries
+    .map((c) => ({ ...c, label: getLocalizedCountryName(c.country, locale) }))
+    .sort((a, b) => a.label.localeCompare(b.label, locale))
 
   const getLocaleHref = (newLocale: Locale) => {
     const segments = pathname.split('/')
@@ -119,7 +127,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                             onClick={() => setDropdownOpen(false)}
                           >
                             <span className="text-base">{dest.flag}</span>
-                            <span className="text-sm font-medium leading-none">{dest.name}</span>
+                            <span className="text-sm font-medium leading-none">{getLocalizedCityName(dest.slug, dest.name, locale)}</span>
                           </Link>
                         ))}
                       </div>
@@ -162,7 +170,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                         {locale === 'fr' ? 'Par pays' : locale === 'es' ? 'Por país' : locale === 'pt' ? 'Por país' : 'By country'}
                       </p>
                       <ul className="space-y-0.5">
-                        {countries.map(({ country, flag, slug }) => (
+                        {localizedCountries.map(({ country, flag, slug, label }) => (
                           <li key={country}>
                             <Link
                               href={`/${locale}/countries/${slug}`}
@@ -170,7 +178,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                               onClick={() => setDropdownOpen(false)}
                             >
                               <span className="text-sm">{flag}</span>
-                              <span>{country}</span>
+                              <span>{label}</span>
                             </Link>
                           </li>
                         ))}
@@ -264,7 +272,7 @@ export default function Header({ locale, dict }: HeaderProps) {
                         onClick={() => setMenuOpen(false)}
                       >
                         <span>{dest.flag}</span>
-                        <span>{dest.name}</span>
+                        <span>{getLocalizedCityName(dest.slug, dest.name, locale)}</span>
                       </Link>
                     ))}
                   </div>

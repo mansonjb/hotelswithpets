@@ -1,5 +1,7 @@
 import Link from 'next/link'
 import type { Locale } from '@/app/[locale]/dictionaries'
+import { getLocalizedCountryName } from '@/lib/countries'
+import { getLocalizedCityName } from '@/lib/cityNames'
 
 interface FooterProps {
   locale: Locale
@@ -62,7 +64,7 @@ export default function Footer({ locale, dict }: FooterProps) {
               ].map((city) => (
                 <li key={city.slug}>
                   <Link href={`/${locale}/destinations/${city.slug}`} className="hover:text-white transition-colors">
-                    {city.name}
+                    {getLocalizedCityName(city.slug, city.name, locale)}
                   </Link>
                 </li>
               ))}
@@ -110,7 +112,7 @@ export default function Footer({ locale, dict }: FooterProps) {
                 className="text-sm text-gray-500 hover:text-gray-300 transition-colors flex items-center gap-1"
               >
                 <span>{c.flag}</span>
-                <span>{c.name}</span>
+                <span>{getLocalizedCountryName(c.name, locale)}</span>
               </Link>
             ))}
           </div>

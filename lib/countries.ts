@@ -93,6 +93,9 @@ const COUNTRIES_FR: Record<string, string> = {
   Turkey: 'Turquie',
   Georgia: 'Géorgie',
   Morocco: 'Maroc',
+  Australia: 'Australie',
+  Canada: 'Canada',
+  Japan: 'Japon',
 }
 
 const COUNTRIES_ES: Record<string, string> = {
@@ -135,6 +138,9 @@ const COUNTRIES_ES: Record<string, string> = {
   Turkey: 'Turquía',
   Georgia: 'Georgia',
   Morocco: 'Marruecos',
+  Australia: 'Australia',
+  Canada: 'Canadá',
+  Japan: 'Japón',
 }
 
 const COUNTRIES_PT: Record<string, string> = {
@@ -177,6 +183,9 @@ const COUNTRIES_PT: Record<string, string> = {
   Turkey: 'Turquia',
   Georgia: 'Geórgia',
   Morocco: 'Marrocos',
+  Australia: 'Austrália',
+  Canada: 'Canadá',
+  Japan: 'Japão',
 }
 
 /**

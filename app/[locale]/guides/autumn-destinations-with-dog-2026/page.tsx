@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import Image from 'next/image'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
 import { SITE_URL, buildAllezDestLink } from '@/lib/site'
@@ -464,20 +465,28 @@ export default async function AutumnDestinationsPage({
               {theme.destinations.map((dest) => (
                 <div
                   key={dest.slug}
-                  className="bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow"
+                  className="bg-white rounded-2xl border border-gray-100 shadow-sm hover:shadow-md transition-shadow overflow-hidden"
                 >
+                  <div className="relative h-40 sm:h-52">
+                    <Image
+                      src={`/images/destinations/${dest.slug}.jpg`}
+                      alt={dest.name}
+                      fill
+                      sizes="(max-width: 768px) 100vw, 720px"
+                      className="object-cover"
+                    />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/65 via-black/10 to-transparent" />
+                    <div className="absolute bottom-0 inset-x-0 p-4 sm:p-5 flex items-end justify-between gap-3">
+                      <h3 className="text-white text-xl sm:text-2xl font-extrabold drop-shadow-sm">{dest.name}</h3>
+                      <div className="flex-shrink-0 text-right text-white">
+                        <div className="text-2xl font-black leading-none drop-shadow-sm">{dest.octTemp}°C</div>
+                        <div className="text-[11px] text-white/85">{p(T.octTemp, locale)}</div>
+                      </div>
+                    </div>
+                  </div>
                   <div className="p-5 sm:p-6">
-                    <div className="flex items-start justify-between gap-4 mb-3">
-                      <div>
-                        <h3 className="text-xl font-extrabold text-gray-900">{dest.name}</h3>
-                        <div className="inline-flex items-center gap-1 bg-amber-50 text-amber-800 text-xs font-semibold px-2.5 py-1 rounded-full mt-1">
-                          {p(dest.tag, locale)}
-                        </div>
-                      </div>
-                      <div className="flex-shrink-0 text-right">
-                        <div className="text-2xl font-black text-orange-600">{dest.octTemp}°C</div>
-                        <div className="text-xs text-gray-500">{p(T.octTemp, locale)}</div>
-                      </div>
+                    <div className="inline-flex items-center gap-1 bg-amber-50 text-amber-800 text-xs font-semibold px-2.5 py-1 rounded-full mb-3">
+                      {p(dest.tag, locale)}
                     </div>
                     <p className="text-gray-700 text-sm leading-relaxed mb-4">{p(dest.why, locale)}</p>
                     {(HOTELS_BY_DEST[dest.slug] ?? []).length > 0 && (
@@ -488,9 +497,16 @@ export default async function AutumnDestinationsPage({
                             <Link
                               key={h.slug}
                               href={`/${locale}/hotels/${h.slug}`}
-                              className="flex items-center justify-between gap-3 px-4 py-2.5 hover:bg-amber-50/60 transition-colors"
+                              className="flex items-center gap-3 px-3 py-2.5 hover:bg-amber-50/60 transition-colors"
                             >
-                              <span className="min-w-0">
+                              <Image
+                                src={`/images/hotels/${h.id}.jpg`}
+                                alt={h.name}
+                                width={64}
+                                height={48}
+                                className="w-16 h-12 rounded-lg object-cover flex-shrink-0 bg-gray-100"
+                              />
+                              <span className="min-w-0 flex-1">
                                 <span className="block text-sm font-semibold text-gray-900 truncate">{h.name}</span>
                                 <span className="block text-xs text-gray-500">
                                   {'★'.repeat(h.stars || 0)} · {h.rating.toFixed(1)}/10{h.petFee === 0 ? ` · ${p(T.noFee, locale)}` : ''}

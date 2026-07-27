@@ -1,0 +1,686 @@
+{
+  "slug": "salcombe",
+  "name": "Salcombe",
+  "country": "United Kingdom",
+  "flag": "🇬🇧",
+  "lastUpdated": "2026-07-27",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Salcombe",
+      "titleFr": "Restaurants qui acceptent les chiens à Salcombe",
+      "titleEs": "Restaurantes que admiten perros en Salcombe",
+      "titlePt": "Restaurantes que aceitam cães em Salcombe",
+      "introEn": "Salcombe is an easy town to eat out in with a dog, from waterside pubs on Fore Street to the beach cafe behind North Sands. Most places welcome dogs on their terraces and in the bar, and many keep a water bowl and a few treats by the door, so a dog is rarely turned away from a table with an estuary view.",
+      "introFr": "Salcombe est une ville facile où sortir manger avec un chien, des pubs du bord de l'eau sur Fore Street au café de plage derrière North Sands. La plupart des établissements accueillent les chiens en terrasse et dans le bar, et beaucoup gardent une gamelle d'eau et quelques friandises près de la porte, si bien qu'un chien est rarement refusé à une table avec vue sur l'estuaire.",
+      "introEs": "Salcombe es un pueblo fácil para salir a comer con un perro, desde los pubs junto al agua de Fore Street hasta el café de playa detrás de North Sands. La mayoría de los locales admiten perros en sus terrazas y en el bar, y muchos guardan un cuenco de agua y algunas golosinas junto a la puerta, así que rara vez se rechaza a un perro en una mesa con vistas al estuario.",
+      "introPt": "Salcombe é uma vila fácil para sair a comer com um cão, desde os pubs junto à água na Fore Street ao café de praia atrás de North Sands. A maioria dos locais aceita cães nas suas esplanadas e no bar, e muitos guardam uma taça de água e algumas guloseimas junto à porta, por isso raramente um cão é recusado numa mesa com vista para o estuário.",
+      "places": [
+        {
+          "name": "The Victoria Inn",
+          "address": "Fore Street, Salcombe, TQ8 8BU",
+          "neighborhood": "Fore Street",
+          "photo": "/images/city-places/salcombe-restaurants-the-victoria-inn.jpg",
+          "website": "https://www.victoriainnsalcombe.co.uk/",
+          "description": "An award-winning St Austell Brewery pub in the heart of Salcombe, a few minutes from the estuary, with real log fires, cosy nooks and a large tiered garden. Dogs are made a real fuss of here, with blankets, water and a dedicated dog menu.",
+          "descriptionFr": "Un pub primé de la St Austell Brewery au coeur de Salcombe, à quelques minutes de l'estuaire, avec feux de bois, recoins douillets et un grand jardin en terrasses. Les chiens y sont vraiment choyés, avec couvertures, eau et un menu spécial chiens.",
+          "descriptionEs": "Un galardonado pub de la St Austell Brewery en el corazón de Salcombe, a pocos minutos del estuario, con chimeneas de leña, rincones acogedores y un gran jardín escalonado. Aquí los perros reciben muchos mimos, con mantas, agua y un menú específico para perros.",
+          "descriptionPt": "Um premiado pub da St Austell Brewery no coração de Salcombe, a poucos minutos do estuário, com lareiras a lenha, recantos acolhedores e um grande jardim em socalcos. Aqui os cães são muito mimados, com mantas, água e um menu próprio para cães.",
+          "petPolicy": "Dogs very welcome throughout the bar and garden on a lead; dog menu and dog beers available.",
+          "petPolicyFr": "Chiens très bienvenus dans tout le bar et le jardin, tenus en laisse ; menu et bières pour chiens disponibles.",
+          "petPolicyEs": "Perros muy bienvenidos en todo el bar y el jardín con correa; menú y cervezas para perros disponibles.",
+          "petPolicyPt": "Cães muito bem-vindos em todo o bar e jardim à trela; menu e cervejas para cães disponíveis.",
+          "priceRange": "Pub (mains around £15-£22)",
+          "mustTry": "West Country steak or the catch of the day in the garden",
+          "mustTryFr": "Le steak du West Country ou la pêche du jour dans le jardin",
+          "mustTryEs": "El filete del West Country o la pesca del día en el jardín",
+          "mustTryPt": "O bife do West Country ou o peixe do dia no jardim",
+          "openingHours": "Daily, lunch and dinner",
+          "tip": "The tiered garden has a children's play area and plenty of room for dogs; ask for the 'a la bark' dog menu at the bar.",
+          "tipFr": "Le jardin en terrasses a une aire de jeux pour enfants et beaucoup de place pour les chiens ; demandez le menu chiens au bar.",
+          "tipEs": "El jardín escalonado tiene una zona de juegos infantil y mucho espacio para perros; pide el menú para perros en la barra.",
+          "tipPt": "O jardim em socalcos tem uma zona de jogos infantil e muito espaço para cães; peça o menu para cães no bar.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Victoria+Inn+Salcombe"
+        },
+        {
+          "name": "The Winking Prawn",
+          "address": "North Sands, Salcombe, TQ8 8LD",
+          "neighborhood": "North Sands",
+          "photo": "/images/city-places/salcombe-restaurants-the-winking-prawn.jpg",
+          "website": "https://www.winkingprawn.co.uk/",
+          "description": "A cheerful family-run beach cafe and seafood grill that has sat behind North Sands for around twenty-five years, famous for its summer barbecues and Salcombe crab. It opens straight onto the town's one year-round dog beach, so a sandy dog is right at home on the terrace.",
+          "descriptionFr": "Un joyeux café de plage et grill de fruits de mer familial installé derrière North Sands depuis environ vingt-cinq ans, réputé pour ses barbecues d'été et son crabe de Salcombe. Il donne directement sur la seule plage canine de la ville ouverte toute l'année : un chien couvert de sable est donc parfaitement à sa place en terrasse.",
+          "descriptionEs": "Un alegre café de playa y parrilla de marisco familiar instalado detrás de North Sands desde hace unos veinticinco años, famoso por sus barbacoas de verano y su cangrejo de Salcombe. Da directamente a la única playa canina del pueblo abierta todo el año, así que un perro lleno de arena está en su salsa en la terraza.",
+          "descriptionPt": "Um alegre café de praia e grelhador de marisco familiar instalado atrás de North Sands há cerca de vinte e cinco anos, famoso pelos seus grelhados de verão e pelo caranguejo de Salcombe. Abre diretamente para a única praia canina da vila aberta todo o ano, por isso um cão cheio de areia está à vontade na esplanada.",
+          "petPolicy": "Dogs welcome on the outdoor terrace on a lead, right by the year-round dog beach.",
+          "petPolicyFr": "Chiens bienvenus sur la terrasse extérieure, tenus en laisse, juste à côté de la plage canine ouverte toute l'année.",
+          "petPolicyEs": "Perros bienvenidos en la terraza exterior con correa, junto a la playa canina abierta todo el año.",
+          "petPolicyPt": "Cães bem-vindos na esplanada exterior à trela, junto à praia canina aberta todo o ano.",
+          "priceRange": "Mid-range (beach cafe)",
+          "mustTry": "The summer barbecue or a dressed Salcombe crab",
+          "mustTryFr": "Le barbecue d'été ou un crabe de Salcombe préparé",
+          "mustTryEs": "La barbacoa de verano o un cangrejo de Salcombe aliñado",
+          "mustTryPt": "O grelhado de verão ou um caranguejo de Salcombe preparado",
+          "openingHours": "Daily in season, shorter hours in winter",
+          "tip": "Come after a walk on North Sands, where dogs are allowed all year; the terrace tables go quickly on sunny afternoons.",
+          "tipFr": "Venez après une promenade sur North Sands, où les chiens sont admis toute l'année ; les tables de la terrasse partent vite les après-midis ensoleillés.",
+          "tipEs": "Ven tras un paseo por North Sands, donde se admiten perros todo el año; las mesas de la terraza se ocupan rápido las tardes soleadas.",
+          "tipPt": "Venha depois de um passeio por North Sands, onde os cães são admitidos todo o ano; as mesas da esplanada esgotam depressa nas tardes de sol.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Winking+Prawn+North+Sands+Salcombe"
+        },
+        {
+          "name": "The Ferry Inn",
+          "address": "Fore Street, Salcombe, TQ8 8JE",
+          "neighborhood": "Fore Street",
+          "photo": "/images/city-places/salcombe-restaurants-the-ferry-inn.jpg",
+          "website": "https://www.theferryinnsalcombe.com/",
+          "description": "A traditional pub tucked below Fore Street with tiered decks and terraces dropping right down to the water beside the East Portlemouth ferry steps. The dog-friendly outside terraces have some of the best estuary views in Salcombe, pint in hand.",
+          "descriptionFr": "Un pub traditionnel niché sous Fore Street, avec des terrasses étagées qui descendent jusqu'à l'eau près de l'embarcadère du ferry d'East Portlemouth. Les terrasses extérieures acceptant les chiens offrent l'une des plus belles vues sur l'estuaire de Salcombe, une pinte à la main.",
+          "descriptionEs": "Un pub tradicional escondido bajo Fore Street, con cubiertas y terrazas escalonadas que bajan hasta el agua junto al embarcadero del ferry de East Portlemouth. Las terrazas exteriores que admiten perros tienen algunas de las mejores vistas al estuario de Salcombe, con una pinta en la mano.",
+          "descriptionPt": "Um pub tradicional escondido por baixo da Fore Street, com decks e esplanadas em socalcos que descem até à água junto ao cais do ferry de East Portlemouth. As esplanadas exteriores que aceitam cães têm algumas das melhores vistas sobre o estuário de Salcombe, com uma cerveja na mão.",
+          "petPolicy": "Dogs welcome on the outdoor waterside terraces on a lead.",
+          "petPolicyFr": "Chiens bienvenus sur les terrasses extérieures du bord de l'eau, tenus en laisse.",
+          "petPolicyEs": "Perros bienvenidos en las terrazas exteriores junto al agua con correa.",
+          "petPolicyPt": "Cães bem-vindos nas esplanadas exteriores junto à água à trela.",
+          "priceRange": "Pub (mains around £13-£20)",
+          "mustTry": "Fish and chips on the deck over the water",
+          "mustTryFr": "Le fish and chips sur la terrasse au-dessus de l'eau",
+          "mustTryEs": "El fish and chips en la cubierta sobre el agua",
+          "mustTryPt": "O fish and chips no deck sobre a água",
+          "openingHours": "Daily, lunch and dinner",
+          "tip": "The lower waterside decks are the prize on a sunny day; they sit right by the East Portlemouth ferry, itself dog-friendly.",
+          "tipFr": "Les terrasses basses du bord de l'eau sont le graal par beau temps ; elles jouxtent le ferry d'East Portlemouth, lui aussi ouvert aux chiens.",
+          "tipEs": "Las cubiertas bajas junto al agua son el premio en un día soleado; están justo al lado del ferry de East Portlemouth, también apto para perros.",
+          "tipPt": "Os decks baixos junto à água são o prémio num dia de sol; ficam mesmo ao lado do ferry de East Portlemouth, também ele apto para cães.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Ferry+Inn+Salcombe"
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Walks and Green Space around Salcombe",
+      "titleFr": "Promenades pour chiens et espaces verts autour de Salcombe",
+      "titleEs": "Paseos caninos y espacios verdes alrededor de Salcombe",
+      "titlePt": "Passeios para cães e espaços verdes à volta de Salcombe",
+      "introEn": "Salcombe itself is a small, steep town, so the best dog walking is on the National Trust headlands and estuary paths that ring it. Snapes Point looks back over the whole harbour, while Bolt Head and the coast path above South Sands give you dramatic clifftop miles, all open to dogs year-round with the usual lead-up near livestock.",
+      "introFr": "Salcombe est une petite ville pentue, si bien que les meilleures promenades canines se font sur les caps et les sentiers d'estuaire du National Trust qui l'entourent. Snapes Point domine tout le port, tandis que Bolt Head et le chemin côtier au-dessus de South Sands offrent des kilomètres de falaises spectaculaires, ouverts aux chiens toute l'année, avec la laisse habituelle près du bétail.",
+      "introEs": "Salcombe es un pueblo pequeño y empinado, así que los mejores paseos caninos están en los cabos y senderos del estuario del National Trust que lo rodean. Snapes Point domina todo el puerto, mientras que Bolt Head y el camino costero sobre South Sands ofrecen kilómetros de acantilados espectaculares, abiertos a los perros todo el año, con la correa habitual cerca del ganado.",
+      "introPt": "Salcombe é uma vila pequena e íngreme, por isso os melhores passeios caninos estão nos promontórios e caminhos do estuário do National Trust que a rodeiam. Snapes Point domina todo o porto, enquanto Bolt Head e o caminho costeiro sobre South Sands oferecem quilómetros de falésias espetaculares, abertos aos cães todo o ano, com a trela habitual perto do gado.",
+      "places": [
+        {
+          "name": "Snapes Point",
+          "type": "National Trust headland walk",
+          "photo": "/images/city-places/salcombe-parks-snapes-point.jpg",
+          "website": "https://www.nationaltrust.org.uk/visit/devon/salcombe-countryside",
+          "description": "An easy circular National Trust walk just north of Salcombe that climbs through fields and woodland to a grassy point with panoramic views over the harbour and the Kingsbridge estuary. It is one of the gentlest, most rewarding dog walks in the area.",
+          "descriptionFr": "Une promenade circulaire facile du National Trust juste au nord de Salcombe, qui grimpe à travers champs et bois jusqu'à une pointe herbeuse offrant une vue panoramique sur le port et l'estuaire de Kingsbridge. C'est l'une des promenades canines les plus douces et gratifiantes du secteur.",
+          "descriptionEs": "Un paseo circular fácil del National Trust justo al norte de Salcombe, que sube entre campos y bosque hasta una punta herbosa con vistas panorámicas del puerto y del estuario de Kingsbridge. Es uno de los paseos caninos más suaves y gratificantes de la zona.",
+          "descriptionPt": "Um passeio circular fácil do National Trust logo a norte de Salcombe, que sobe por campos e bosque até uma ponta relvada com vistas panorâmicas sobre o porto e o estuário de Kingsbridge. É um dos passeios caninos mais suaves e gratificantes da zona.",
+          "offLeash": false,
+          "offLeashArea": "Keep dogs on a lead through the grazing fields; you may meet sheep and cattle on this route.",
+          "offLeashAreaFr": "Gardez les chiens en laisse dans les champs de pâture ; vous pouvez croiser moutons et vaches sur ce parcours.",
+          "offLeashAreaEs": "Manten a los perros con correa por los campos de pasto; puedes encontrar ovejas y vacas en esta ruta.",
+          "offLeashAreaPt": "Mantenha os cães à trela pelos campos de pasto; pode encontrar ovelhas e vacas neste percurso.",
+          "tip": "Start from the top of town near Batson; the loop is a comfortable hour and takes any pressure off in high summer when the beaches are busy.",
+          "tipFr": "Partez du haut de la ville près de Batson ; la boucle se fait tranquillement en une heure et soulage la pression en plein été, quand les plages sont bondées.",
+          "tipEs": "Empieza desde la parte alta del pueblo cerca de Batson; el bucle se hace cómodamente en una hora y descarga la presión en pleno verano, cuando las playas están llenas.",
+          "tipPt": "Comece do alto da vila perto de Batson; o circuito faz-se comodamente numa hora e alivia a pressão em pleno verão, quando as praias estão cheias.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Snapes+Point+Salcombe"
+        },
+        {
+          "name": "Bolt Head and the Sharpitor coast path",
+          "type": "National Trust coast path",
+          "photo": "/images/city-places/salcombe-parks-bolt-head.jpg",
+          "website": "https://www.nationaltrust.org.uk/visit/devon/salcombe-countryside",
+          "description": "The South West Coast Path climbs from South Sands past Overbeck's and Sharpitor out to the rugged headland of Bolt Head, with Starehole Bay below and huge Channel views. It is a spectacular, airy walk on National Trust land that dogs can enjoy all year.",
+          "descriptionFr": "Le South West Coast Path grimpe depuis South Sands, passe Overbeck's et Sharpitor et gagne le cap escarpé de Bolt Head, avec Starehole Bay en contrebas et de vastes vues sur la Manche. C'est une promenade spectaculaire et aérée sur des terres du National Trust, que les chiens apprécient toute l'année.",
+          "descriptionEs": "El South West Coast Path sube desde South Sands, pasa Overbeck's y Sharpitor y llega al escarpado cabo de Bolt Head, con Starehole Bay abajo y amplias vistas del Canal. Es un paseo espectacular y despejado en terrenos del National Trust, que los perros disfrutan todo el año.",
+          "descriptionPt": "O South West Coast Path sobe desde South Sands, passa Overbeck's e Sharpitor e alcança o escarpado promontório de Bolt Head, com Starehole Bay em baixo e vastas vistas do Canal. É um passeio espetacular e arejado em terrenos do National Trust, que os cães apreciam todo o ano.",
+          "offLeash": false,
+          "offLeashArea": "Keep dogs on a lead near the unfenced cliff edges and any grazing livestock along the path.",
+          "offLeashAreaFr": "Gardez les chiens en laisse près des bords de falaise non clôturés et du bétail qui pâture le long du chemin.",
+          "offLeashAreaEs": "Manten a los perros con correa cerca de los bordes del acantilado sin vallar y del ganado que pasta a lo largo del camino.",
+          "offLeashAreaPt": "Mantenha os cães à trela perto das bordas de falésia sem vedação e do gado que pasta ao longo do caminho.",
+          "tip": "Park at the National Trust Overbeck's car park or walk up from South Sands; the ground is steep and rocky, so bring water for the dog.",
+          "tipFr": "Stationnez au parking National Trust d'Overbeck's ou montez depuis South Sands ; le terrain est raide et rocheux, prévoyez de l'eau pour le chien.",
+          "tipEs": "Aparca en el aparcamiento National Trust de Overbeck's o sube desde South Sands; el terreno es empinado y rocoso, lleva agua para el perro.",
+          "tipPt": "Estacione no parque National Trust de Overbeck's ou suba desde South Sands; o terreno é íngreme e rochoso, leve água para o cão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bolt+Head+Salcombe"
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Salcombe with a Dog",
+      "titleFr": "Se déplacer à Salcombe avec un chien",
+      "titleEs": "Moverse por Salcombe con un perro",
+      "titlePt": "Deslocar-se em Salcombe com um cão",
+      "introEn": "Salcombe has no railway station, so most dog owners arrive by car or by bus from the nearest mainline at Totnes, then leave the car behind. Once you are there the town is compact and walkable, and the little dog-friendly ferries across the estuary are the nicest way to reach the beaches and coast path on the far side.",
+      "introFr": "Salcombe n'a pas de gare, si bien que la plupart des propriétaires de chiens arrivent en voiture ou en bus depuis la ligne principale la plus proche, à Totnes, puis laissent la voiture. Une fois sur place, la ville est compacte et se parcourt à pied, et les petits ferries acceptant les chiens qui traversent l'estuaire sont la plus jolie façon de rejoindre les plages et le chemin côtier de l'autre rive.",
+      "introEs": "Salcombe no tiene estación de tren, así que la mayoría de los dueños de perros llegan en coche o en autobús desde la línea principal más cercana, en Totnes, y luego dejan el coche. Una vez allí, el pueblo es compacto y se recorre a pie, y los pequeños ferries que admiten perros y cruzan el estuario son la forma más bonita de llegar a las playas y al camino costero de la otra orilla.",
+      "introPt": "Salcombe não tem estação de comboio, por isso a maioria dos donos de cães chega de carro ou de autocarro a partir da linha principal mais próxima, em Totnes, e depois deixa o carro. Uma vez lá, a vila é compacta e percorre-se a pé, e os pequenos ferries que aceitam cães e atravessam o estuário são a forma mais bonita de chegar às praias e ao caminho costeiro da outra margem.",
+      "rules": [
+        {
+          "mode": "National Rail (nearest station Totnes)",
+          "modeFr": "National Rail (gare la plus proche : Totnes)",
+          "modeEs": "National Rail (estación más cercana: Totnes)",
+          "modePt": "National Rail (estação mais próxima: Totnes)",
+          "policy": "There is no station in Salcombe itself. Under the National Rail Conditions of Travel, up to two dogs travel free with each passenger, on a lead or in a carrier, and not on the seats. Take the mainline to Totnes, from where a bus runs down to Salcombe.",
+          "policyFr": "Il n'y a pas de gare à Salcombe même. Selon les Conditions de transport de National Rail, jusqu'à deux chiens voyagent gratuitement avec chaque voyageur, en laisse ou dans une caisse, et non sur les sièges. Prenez la ligne principale jusqu'à Totnes, d'où un bus descend jusqu'à Salcombe.",
+          "policyEs": "No hay estación en la propia Salcombe. Según las Condiciones de viaje de National Rail, hasta dos perros viajan gratis con cada pasajero, con correa o en transportín, y no en los asientos. Toma la línea principal hasta Totnes, desde donde un autobús baja hasta Salcombe.",
+          "policyPt": "Não há estação na própria Salcombe. Segundo as Condições de viagem da National Rail, até dois cães viajam grátis com cada passageiro, à trela ou numa caixa, e não nos bancos. Apanhe a linha principal até Totnes, de onde um autocarro desce até Salcombe."
+        },
+        {
+          "mode": "Salcombe and South Sands ferries",
+          "modeFr": "Ferries de Salcombe et de South Sands",
+          "modeEs": "Ferries de Salcombe y South Sands",
+          "modePt": "Ferries de Salcombe e South Sands",
+          "policy": "The Salcombe to East Portlemouth passenger ferry is a five-minute hop across the estuary to Mill Bay and the eastern coast path, and well-behaved dogs on a lead are welcome. The seasonal South Sands ferry links the town with South Sands beach, and dogs on a lead may cross the sand to board it even during the summer beach ban.",
+          "policyFr": "Le ferry passagers de Salcombe à East Portlemouth traverse l'estuaire en cinq minutes vers Mill Bay et le chemin côtier est, et les chiens bien élevés tenus en laisse sont les bienvenus. Le ferry saisonnier de South Sands relie la ville à la plage de South Sands, et les chiens en laisse peuvent traverser le sable pour l'embarquer même pendant l'interdiction estivale de la plage.",
+          "policyEs": "El ferry de pasajeros de Salcombe a East Portlemouth cruza el estuario en cinco minutos hasta Mill Bay y el camino costero del este, y los perros educados con correa son bienvenidos. El ferry estacional de South Sands une el pueblo con la playa de South Sands, y los perros con correa pueden cruzar la arena para embarcar incluso durante el veto estival de la playa.",
+          "policyPt": "O ferry de passageiros de Salcombe a East Portlemouth atravessa o estuário em cinco minutos até Mill Bay e o caminho costeiro do leste, e os cães bem-comportados à trela são bem-vindos. O ferry sazonal de South Sands liga a vila à praia de South Sands, e os cães à trela podem atravessar a areia para embarcar mesmo durante a proibição estival da praia."
+        },
+        {
+          "mode": "Local buses and taxis",
+          "modeFr": "Bus locaux et taxis",
+          "modeEs": "Autobuses locales y taxis",
+          "modePt": "Autocarros locais e táxis",
+          "policy": "The Tally Ho 164 bus links Totnes station with Kingsbridge and Salcombe, and other buses connect Kingsbridge and Plymouth. Dogs are generally accepted at the driver's discretion, so keep the dog on a lead and off the seats. Taxis are also at the driver's discretion, so mention the dog when you book.",
+          "policyFr": "Le bus Tally Ho 164 relie la gare de Totnes à Kingsbridge et Salcombe, et d'autres bus desservent Kingsbridge et Plymouth. Les chiens sont en général acceptés à la discrétion du chauffeur : gardez le chien en laisse et hors des sièges. Les taxis sont aussi à la discrétion du chauffeur : signalez le chien à la réservation.",
+          "policyEs": "El autobús Tally Ho 164 une la estación de Totnes con Kingsbridge y Salcombe, y otros autobuses conectan Kingsbridge y Plymouth. Los perros suelen admitirse a criterio del conductor, así que manten al perro con correa y fuera de los asientos. Los taxis también quedan a criterio del conductor, así que menciona al perro al reservar.",
+          "policyPt": "O autocarro Tally Ho 164 liga a estação de Totnes a Kingsbridge e Salcombe, e outros autocarros ligam Kingsbridge e Plymouth. Os cães costumam ser aceites ao critério do condutor, por isso mantenha o cão à trela e fora dos bancos. Os táxis também ficam ao critério do condutor, por isso mencione o cão ao reservar."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Arriving in Salcombe",
+          "titleFr": "Arriver à Salcombe",
+          "titleEs": "Llegar a Salcombe",
+          "titlePt": "Chegar a Salcombe",
+          "contentEn": "Salcombe sits at the mouth of the Kingsbridge estuary in the far south of Devon and has no railway station of its own. By rail you take the mainline to Totnes, then the Tally Ho 164 bus down through Kingsbridge to Salcombe, with dogs free on the train and at the driver's discretion on the bus. The nearest airport is Exeter (EXT), about an hour and a half away by road; drivers should note that town-centre parking is very limited in summer, so the park-and-ride above the town is the calmer option with a dog.",
+          "contentFr": "Salcombe se trouve à l'embouchure de l'estuaire de Kingsbridge, à l'extrême sud du Devon, et n'a pas de gare. En train, on prend la ligne principale jusqu'à Totnes, puis le bus Tally Ho 164 qui descend par Kingsbridge jusqu'à Salcombe, les chiens voyageant gratuitement dans le train et à la discrétion du chauffeur dans le bus. L'aéroport le plus proche est Exeter (EXT), à environ une heure et demie de route ; en voiture, le stationnement au centre est très limité l'été, le parking-relais au-dessus de la ville est donc l'option plus sereine avec un chien.",
+          "contentEs": "Salcombe está en la desembocadura del estuario de Kingsbridge, en el extremo sur de Devon, y no tiene estación de tren propia. En tren se toma la línea principal hasta Totnes y luego el autobús Tally Ho 164 que baja por Kingsbridge hasta Salcombe, con los perros gratis en el tren y a criterio del conductor en el autobús. El aeropuerto más cercano es Exeter (EXT), a hora y media por carretera; en coche, el aparcamiento del centro es muy limitado en verano, así que el aparcamiento disuasorio sobre el pueblo es la opción más tranquila con un perro.",
+          "contentPt": "Salcombe fica na foz do estuário de Kingsbridge, no extremo sul de Devon, e não tem estação de comboio própria. De comboio apanha-se a linha principal até Totnes e depois o autocarro Tally Ho 164 que desce por Kingsbridge até Salcombe, com os cães grátis no comboio e ao critério do condutor no autocarro. O aeroporto mais próximo é Exeter (EXT), a cerca de hora e meia por estrada; de carro, o estacionamento no centro é muito limitado no verão, por isso o parque dissuasor acima da vila é a opção mais tranquila com um cão."
+        },
+        {
+          "titleEn": "Around town and across the estuary",
+          "titleFr": "En ville et de l'autre côté de l'estuaire",
+          "titleEs": "Por el pueblo y al otro lado del estuario",
+          "titlePt": "Pela vila e do outro lado do estuário",
+          "contentEn": "Once you are in, Salcombe is best explored on foot: Fore Street, the harbour and Whitestrand waterfront are all a short, if hilly, stroll apart. To reach the eastern beaches and coast path, hop on the dog-friendly Salcombe to East Portlemouth ferry, and use the South Sands ferry or sea tractor to reach South Sands. In July and August the narrow streets get very crowded, so early mornings and evenings are the calmest times to walk a dog.",
+          "contentFr": "Une fois sur place, Salcombe se découvre à pied : Fore Street, le port et le front de mer de Whitestrand sont à une courte marche, quoique vallonnée. Pour rejoindre les plages est et le chemin côtier, prenez le ferry Salcombe-East Portlemouth qui accepte les chiens, et utilisez le ferry ou le tracteur de mer de South Sands pour atteindre South Sands. En juillet et août, les rues étroites sont très fréquentées : le début de matinée et la soirée sont les moments les plus calmes pour promener un chien.",
+          "contentEs": "Una vez dentro, Salcombe se descubre mejor a pie: Fore Street, el puerto y el paseo de Whitestrand están a un paseo corto, aunque con cuestas. Para llegar a las playas del este y al camino costero, toma el ferry Salcombe-East Portlemouth apto para perros, y usa el ferry o el tractor de mar de South Sands para llegar a South Sands. En julio y agosto las calles estrechas se llenan mucho, así que las primeras horas de la mañana y la tarde son los momentos más tranquilos para pasear un perro.",
+          "contentPt": "Uma vez lá, Salcombe descobre-se melhor a pé: a Fore Street, o porto e a marginal de Whitestrand estão a um passeio curto, ainda que com subidas. Para chegar às praias do leste e ao caminho costeiro, apanhe o ferry Salcombe-East Portlemouth apto para cães, e use o ferry ou o trator do mar de South Sands para chegar a South Sands. Em julho e agosto as ruas estreitas enchem muito, por isso o início da manhã e o fim da tarde são os momentos mais tranquilos para passear um cão."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I get to Salcombe by train with a dog?",
+          "a": "Not directly, as Salcombe has no station. Take the train to Totnes, where up to two dogs travel free with each passenger, then the Tally Ho 164 bus down through Kingsbridge to Salcombe. Dogs are usually accepted on the bus at the driver's discretion, on a lead."
+        },
+        {
+          "q": "Are the Salcombe ferries dog-friendly?",
+          "a": "Yes. Well-behaved dogs on a lead are welcome on the Salcombe to East Portlemouth passenger ferry, a five-minute crossing to Mill Bay and the eastern coast path, and on the seasonal South Sands ferry. Dogs on a lead may even cross the South Sands sand to board during the summer beach ban."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je rejoindre Salcombe en train avec un chien ?",
+          "a": "Pas directement, car Salcombe n'a pas de gare. Prenez le train jusqu'à Totnes, où jusqu'à deux chiens voyagent gratuitement par voyageur, puis le bus Tally Ho 164 qui descend par Kingsbridge jusqu'à Salcombe. Les chiens sont en général acceptés dans le bus à la discrétion du chauffeur, tenus en laisse."
+        },
+        {
+          "q": "Les ferries de Salcombe acceptent-ils les chiens ?",
+          "a": "Oui. Les chiens bien élevés tenus en laisse sont les bienvenus sur le ferry passagers Salcombe-East Portlemouth, une traversée de cinq minutes vers Mill Bay et le chemin côtier est, ainsi que sur le ferry saisonnier de South Sands. Les chiens en laisse peuvent même traverser le sable de South Sands pour embarquer pendant l'interdiction estivale de la plage."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Puedo llegar a Salcombe en tren con un perro?",
+          "a": "No directamente, porque Salcombe no tiene estación. Toma el tren hasta Totnes, donde hasta dos perros viajan gratis con cada pasajero, y luego el autobús Tally Ho 164 que baja por Kingsbridge hasta Salcombe. Los perros suelen admitirse en el autobús a criterio del conductor, con correa."
+        },
+        {
+          "q": "Los ferries de Salcombe admiten perros?",
+          "a": "Sí. Los perros educados con correa son bienvenidos en el ferry de pasajeros Salcombe-East Portlemouth, un cruce de cinco minutos hasta Mill Bay y el camino costero del este, y en el ferry estacional de South Sands. Los perros con correa pueden incluso cruzar la arena de South Sands para embarcar durante el veto estival de la playa."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso chegar a Salcombe de comboio com um cão?",
+          "a": "Não diretamente, porque Salcombe não tem estação. Apanhe o comboio até Totnes, onde até dois cães viajam grátis com cada passageiro, e depois o autocarro Tally Ho 164 que desce por Kingsbridge até Salcombe. Os cães costumam ser aceites no autocarro ao critério do condutor, à trela."
+        },
+        {
+          "q": "Os ferries de Salcombe aceitam cães?",
+          "a": "Sim. Os cães bem-comportados à trela são bem-vindos no ferry de passageiros Salcombe-East Portlemouth, uma travessia de cinco minutos até Mill Bay e ao caminho costeiro do leste, e no ferry sazonal de South Sands. Os cães à trela podem até atravessar a areia de South Sands para embarcar durante a proibição estival da praia."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Salcombe",
+      "titleFr": "Plages qui accueillent les chiens à Salcombe",
+      "titleEs": "Playas que admiten perros en Salcombe",
+      "titlePt": "Praias que aceitam cães em Salcombe",
+      "introEn": "Salcombe's sheltered estuary beaches are its finest asset for a dog, but the rules are seasonal and beach-by-beach, set by South Hams District Council's Public Spaces Protection Order and enforced with fines of up to 100 pounds. The key one to know: South Sands bans dogs completely from 1 May to 30 September, around the clock. North Sands, by contrast, stays dog-friendly all year, and Mill Bay across the water welcomes dogs year-round on a lead, so a dog is never stuck. Always check the current signs on arrival, as the order can change.",
+      "introFr": "Les plages abritées de l'estuaire de Salcombe sont son plus bel atout pour un chien, mais les règles sont saisonnières et plage par plage, fixées par le Public Spaces Protection Order du South Hams District Council et sanctionnées par des amendes pouvant atteindre 100 livres. La principale à connaître : South Sands interdit totalement les chiens du 1er mai au 30 septembre, 24 heures sur 24. North Sands, en revanche, reste ouverte aux chiens toute l'année, et Mill Bay, de l'autre côté de l'eau, les accueille toute l'année en laisse : un chien n'est donc jamais bloqué. Vérifiez toujours la signalisation en vigueur à l'arrivée, car l'arrêté peut changer.",
+      "introEs": "Las playas resguardadas del estuario de Salcombe son su mejor baza para un perro, pero las normas son estacionales y playa por playa, fijadas por el Public Spaces Protection Order del South Hams District Council y sancionadas con multas de hasta 100 libras. La principal que hay que saber: South Sands veta por completo los perros del 1 de mayo al 30 de septiembre, las 24 horas. North Sands, en cambio, sigue abierta a los perros todo el año, y Mill Bay, al otro lado del agua, los admite todo el año con correa, así que un perro nunca se queda sin sitio. Comprueba siempre la señalización vigente al llegar, porque la orden puede cambiar.",
+      "introPt": "As praias abrigadas do estuário de Salcombe são o seu melhor trunfo para um cão, mas as regras são sazonais e praia a praia, definidas pelo Public Spaces Protection Order do South Hams District Council e sancionadas com multas de até 100 libras. A principal a conhecer: South Sands proíbe por completo os cães de 1 de maio a 30 de setembro, 24 horas por dia. North Sands, pelo contrário, continua aberta aos cães todo o ano, e Mill Bay, do outro lado da água, admite-os todo o ano à trela, por isso um cão nunca fica sem sítio. Verifique sempre a sinalização em vigor à chegada, porque a ordem pode mudar.",
+      "places": [
+        {
+          "name": "North Sands",
+          "distance": "About 15 minutes walk south of the town centre",
+          "description": "A sheltered, gently shelving sandy cove on the estuary, backed by the dog-friendly Winking Prawn cafe and safe for a paddle. It is Salcombe's one truly year-round dog beach, where local owners head in high summer when South Sands is off-limits.",
+          "season": "Dog-friendly all year round, with no seasonal ban",
+          "rules": "Dogs welcome year-round; keep them under control and clean up after them. It is small and popular, so a lead is sensible at busy times.",
+          "facilities": "Dog-friendly beach cafe (The Winking Prawn), toilets, car park nearby; rock pools at low tide",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=North+Sands+Beach+Salcombe",
+          "photo": "/images/city-places/salcombe-beaches-north-sands.jpg"
+        },
+        {
+          "name": "South Sands",
+          "distance": "About 25 minutes walk south of town, or the South Sands ferry",
+          "description": "A pretty south-facing sandy beach below the South Sands Hotel, with calm, sheltered water and the seasonal ferry and sea tractor linking it to town. It has one of South Devon's stricter dog rules: a full round-the-clock ban through the summer, but it is a lovely quiet dog beach out of season.",
+          "season": "Dogs banned completely 1 May to 30 September, 24 hours a day; open to dogs the rest of the year",
+          "rules": "No dogs at any time from 1 May to 30 September (fines up to 100 pounds), except dogs on a lead crossing the sand to board or leave the South Sands ferry. From 1 October to 30 April dogs are welcome under control.",
+          "facilities": "Cafe and restaurant at the South Sands Hotel, toilets, seasonal ferry and sea tractor to town, small car park",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+Sands+Beach+Salcombe",
+          "photo": "/images/city-places/salcombe-beaches-south-sands.jpg"
+        },
+        {
+          "name": "Mill Bay",
+          "distance": "Across the estuary at East Portlemouth, via the Salcombe passenger ferry",
+          "description": "A run of sheltered sandy coves on the East Portlemouth side of the estuary, reached by the short dog-friendly ferry from Salcombe, with National Trust woodland walks right behind. It is dog-friendly all year, which makes it the go-to summer beach when South Sands is closed to dogs.",
+          "season": "Dog-friendly all year round on a lead, with no seasonal ban",
+          "rules": "Dogs welcome year-round but must be kept on a lead (National Trust land); clean up after them and follow local signage.",
+          "facilities": "National Trust car park and toilet block, sheltered sand at most tides; the dog-friendly Salcombe to East Portlemouth ferry lands nearby",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mill+Bay+East+Portlemouth+Salcombe",
+          "photo": "/images/city-places/salcombe-beaches-mill-bay.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Which Salcombe beaches allow dogs all year round?",
+          "a": "North Sands, on the town side, is dog-friendly all year with no seasonal ban, and Mill Bay across the estuary at East Portlemouth welcomes dogs year-round on a lead. Between them a dog always has a beach in Salcombe, even at the height of summer."
+        },
+        {
+          "q": "When are dogs banned from South Sands beach?",
+          "a": "South Sands has a complete round-the-clock dog ban from 1 May to 30 September, with fines of up to 100 pounds, the only exception being dogs on a lead crossing the sand to board or leave the South Sands ferry. Outside those dates, from October to April, the beach is fully open to dogs."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelles plages de Salcombe acceptent les chiens toute l'année ?",
+          "a": "North Sands, côté ville, accueille les chiens toute l'année sans interdiction saisonnière, et Mill Bay, de l'autre côté de l'estuaire à East Portlemouth, les accueille toute l'année en laisse. À elles deux, un chien a toujours une plage à Salcombe, même en plein été."
+        },
+        {
+          "q": "Quand les chiens sont-ils interdits sur la plage de South Sands ?",
+          "a": "South Sands applique une interdiction totale des chiens 24 h/24 du 1er mai au 30 septembre, avec des amendes pouvant atteindre 100 livres, la seule exception étant les chiens en laisse traversant le sable pour embarquer ou quitter le ferry de South Sands. Hors de ces dates, d'octobre à avril, la plage est entièrement ouverte aux chiens."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Qué playas de Salcombe admiten perros todo el año?",
+          "a": "North Sands, del lado del pueblo, admite perros todo el año sin veda estacional, y Mill Bay, al otro lado del estuario en East Portlemouth, los admite todo el año con correa. Entre las dos, un perro siempre tiene playa en Salcombe, incluso en pleno verano."
+        },
+        {
+          "q": "Cuándo se prohíben los perros en la playa de South Sands?",
+          "a": "South Sands aplica un veto total a los perros las 24 horas del 1 de mayo al 30 de septiembre, con multas de hasta 100 libras, con la única excepción de los perros con correa que cruzan la arena para embarcar o dejar el ferry de South Sands. Fuera de esas fechas, de octubre a abril, la playa está totalmente abierta a los perros."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Que praias de Salcombe aceitam cães todo o ano?",
+          "a": "North Sands, do lado da vila, aceita cães todo o ano sem proibição sazonal, e Mill Bay, do outro lado do estuário em East Portlemouth, aceita-os todo o ano à trela. Entre as duas, um cão tem sempre praia em Salcombe, mesmo em pleno verão."
+        },
+        {
+          "q": "Quando é que os cães são proibidos na praia de South Sands?",
+          "a": "South Sands aplica uma proibição total de cães 24 horas por dia de 1 de maio a 30 de setembro, com multas de até 100 libras, sendo a única exceção os cães à trela que atravessam a areia para embarcar ou sair do ferry de South Sands. Fora dessas datas, de outubro a abril, a praia está totalmente aberta aos cães."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Vets near Salcombe",
+      "titleFr": "Vétérinaires près de Salcombe",
+      "titleEs": "Veterinarios cerca de Salcombe",
+      "titlePt": "Veterinários perto de Salcombe",
+      "introEn": "Salcombe has no vet of its own, so the nearest surgeries are in Kingsbridge, about six miles up the estuary and an easy drive away. Between them they cover routine care and emergencies, so it is worth saving a number before you travel.",
+      "introFr": "Salcombe n'a pas de vétérinaire, les cliniques les plus proches se trouvent donc à Kingsbridge, à environ six miles en remontant l'estuaire, à quelques minutes en voiture. À elles deux, elles assurent les soins courants et les urgences : notez un numéro avant de partir.",
+      "introEs": "Salcombe no tiene veterinario propio, así que las clínicas más cercanas están en Kingsbridge, a unas seis millas estuario arriba y a un corto trayecto en coche. Entre las dos cubren los cuidados rutinarios y las urgencias, así que conviene guardar un número antes de viajar.",
+      "introPt": "Salcombe não tem veterinário próprio, por isso as clínicas mais próximas ficam em Kingsbridge, a cerca de seis milhas estuário acima e a uma curta viagem de carro. Entre as duas cobrem os cuidados de rotina e as urgências, por isso vale a pena guardar um número antes de viajar.",
+      "entryRequirements": [],
+      "places": [
+        {
+          "name": "Selworthy Vets",
+          "type": "Small-animal and mixed veterinary practice",
+          "address": "Stumpy Post Surgery, Kingsbridge, TQ7 4BL",
+          "phone": "+44 1548 853322",
+          "hours": "Mon-Fri daytime surgery; 24-hour emergency care available",
+          "hoursFr": "Consultations en journée du lun au ven ; soins d'urgence disponibles 24h/24",
+          "hoursEs": "Consulta diurna de lun a vie; atención de urgencias disponible 24 horas",
+          "hoursPt": "Consultas diurnas de seg a sex; atendimento de urgência disponível 24 horas",
+          "englishSpeaking": true,
+          "website": "https://www.selworthyvets.co.uk/",
+          "description": "An independent, family-run mixed practice near Kingsbridge, the closest vet to Salcombe, handling small animals alongside farm and equine work. It runs its own 24-hour emergency care with its own vets and nurses.",
+          "descriptionFr": "Une clinique mixte indépendante et familiale près de Kingsbridge, le vétérinaire le plus proche de Salcombe, qui soigne les petits animaux ainsi que les animaux de ferme et les chevaux. Elle assure son propre service d'urgence 24h/24 avec ses vétérinaires et infirmières.",
+          "descriptionEs": "Una clínica mixta independiente y familiar cerca de Kingsbridge, el veterinario más cercano a Salcombe, que atiende pequeños animales junto con trabajo de granja y equino. Gestiona su propio servicio de urgencias 24 horas con sus propios veterinarios y enfermeros.",
+          "descriptionPt": "Uma clínica mista independente e familiar perto de Kingsbridge, o veterinário mais próximo de Salcombe, que trata pequenos animais a par de trabalho de quinta e equino. Gere o seu próprio serviço de urgência 24 horas com os seus veterinários e enfermeiros.",
+          "tip": "Phone ahead, and save the number for out-of-hours, as they provide their own 24-hour emergency cover.",
+          "tipFr": "Téléphonez à l'avance et enregistrez le numéro pour les urgences, car ils assurent leur propre garde 24h/24.",
+          "tipEs": "Telefonea con antelación y guarda el número para fuera de horario, ya que ofrecen su propia cobertura de urgencias 24 horas.",
+          "tipPt": "Telefone com antecedência e guarde o número para fora de horas, pois oferecem a sua própria cobertura de urgência 24 horas.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Selworthy+Vets+Kingsbridge",
+          "photo": ""
+        },
+        {
+          "name": "South Moor Vets",
+          "type": "Small-animal veterinary surgery",
+          "address": "Derby Road, Kingsbridge, TQ7 1JL",
+          "phone": "+44 1548 852766",
+          "hours": "Mon-Fri daytime surgery; out-of-hours emergency service",
+          "hoursFr": "Consultations en journée du lun au ven ; service d'urgence hors horaires",
+          "hoursEs": "Consulta diurna de lun a vie; servicio de urgencias fuera de horario",
+          "hoursPt": "Consultas diurnas de seg a sex; serviço de urgência fora de horas",
+          "englishSpeaking": true,
+          "website": "https://www.southmoorvets.co.uk/",
+          "description": "A well-established small-animal practice on Derby Road in Kingsbridge, a short drive from Salcombe, offering routine and urgent care. A useful second option if Selworthy is fully booked.",
+          "descriptionFr": "Une clinique pour petits animaux bien établie sur Derby Road à Kingsbridge, à quelques minutes de Salcombe, proposant soins courants et urgents. Une bonne seconde option si Selworthy est complet.",
+          "descriptionEs": "Una clínica de pequeños animales bien establecida en Derby Road, en Kingsbridge, a un corto trayecto de Salcombe, que ofrece cuidados rutinarios y urgentes. Una buena segunda opción si Selworthy está completo.",
+          "descriptionPt": "Uma clínica de pequenos animais bem estabelecida na Derby Road, em Kingsbridge, a uma curta viagem de Salcombe, que oferece cuidados de rotina e urgentes. Uma boa segunda opção se a Selworthy estiver cheia.",
+          "tip": "Call first for opening times and to confirm the current out-of-hours arrangement.",
+          "tipFr": "Appelez d'abord pour les horaires et pour confirmer le dispositif d'urgence en vigueur.",
+          "tipEs": "Llama primero para conocer el horario y confirmar el dispositivo de urgencias vigente.",
+          "tipPt": "Ligue primeiro para saber os horários e confirmar o dispositivo de urgência em vigor.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+Moor+Vets+Kingsbridge",
+          "photo": ""
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Where is the nearest vet to Salcombe?",
+          "a": "Salcombe has no vet of its own; the nearest are in Kingsbridge, about six miles away. Selworthy Vets (+44 1548 853322) provides its own 24-hour emergency care, and South Moor Vets (+44 1548 852766) is a second option for daytime care."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où se trouve le vétérinaire le plus proche de Salcombe ?",
+          "a": "Salcombe n'a pas de vétérinaire ; les plus proches sont à Kingsbridge, à environ six miles. Selworthy Vets (+44 1548 853322) assure son propre service d'urgence 24h/24, et South Moor Vets (+44 1548 852766) est une seconde option pour les soins de jour."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Dónde está el veterinario más cercano a Salcombe?",
+          "a": "Salcombe no tiene veterinario propio; los más cercanos están en Kingsbridge, a unas seis millas. Selworthy Vets (+44 1548 853322) ofrece su propio servicio de urgencias 24 horas, y South Moor Vets (+44 1548 852766) es una segunda opción para atención diurna."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Onde fica o veterinário mais próximo de Salcombe?",
+          "a": "Salcombe não tem veterinário próprio; os mais próximos ficam em Kingsbridge, a cerca de seis milhas. A Selworthy Vets (+44 1548 853322) oferece o seu próprio serviço de urgência 24 horas, e a South Moor Vets (+44 1548 852766) é uma segunda opção para atendimento diurno."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Salcombe with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Salcombe avec un chien",
+      "titleEs": "Consejos prácticos para visitar Salcombe con un perro",
+      "titlePt": "Dicas práticas para visitar Salcombe com um cão",
+      "introEn": "Salcombe is a genuinely easy dog holiday, but two things reward a little planning: the seasonal beach dog rules, which are strict at South Sands and enforced with fines, and the post-Brexit paperwork for bringing a dog into Great Britain. Get both right and the estuary is yours.",
+      "introFr": "Salcombe est vraiment des vacances canines faciles, mais deux choses méritent un peu d'anticipation : les règles saisonnières des plages, strictes à South Sands et sanctionnées par des amendes, et les formalités post-Brexit pour amener un chien en Grande-Bretagne. Réglez ces deux points et l'estuaire est à vous.",
+      "introEs": "Salcombe son unas vacaciones caninas realmente fáciles, pero dos cosas recompensan algo de planificación: las normas estacionales de las playas, estrictas en South Sands y sancionadas con multas, y los trámites posteriores al Brexit para llevar un perro a Gran Bretaña. Acierta en ambas y el estuario es tuyo.",
+      "introPt": "Salcombe são umas férias caninas realmente fáceis, mas duas coisas compensam algum planeamento: as regras sazonais das praias, rígidas em South Sands e sancionadas com multas, e a papelada pós-Brexit para levar um cão para a Grã-Bretanha. Acerte nas duas e o estuário é seu.",
+      "sections": [
+        {
+          "titleEn": "Bringing your dog into Great Britain (post-Brexit)",
+          "titleFr": "Amener votre chien en Grande-Bretagne (post-Brexit)",
+          "titleEs": "Llevar a tu perro a Gran Bretaña (tras el Brexit)",
+          "titlePt": "Levar o seu cão para a Grã-Bretanha (pós-Brexit)",
+          "contentEn": "Since Brexit, Great Britain no longer accepts the EU Pet Passport for entry. Dogs arriving from the EU need a GB Animal Health Certificate (AHC) issued by an official vet within 10 days of travel, plus a microchip and a valid rabies vaccination, and dogs also need an approved tapeworm (Echinococcus) treatment recorded 24 to 120 hours before arrival. A GB pet passport issued in Great Britain is also valid. Arrange this with your vet before you leave, as it cannot be done on arrival.",
+          "contentFr": "Depuis le Brexit, la Grande-Bretagne n'accepte plus le passeport pour animaux de l'UE à l'entrée. Les chiens venant de l'UE ont besoin d'un Animal Health Certificate (AHC) britannique délivré par un vétérinaire officiel dans les 10 jours précédant le voyage, d'une puce et d'une vaccination antirabique valide, et les chiens doivent aussi recevoir un traitement approuvé contre le ténia (Echinococcus) consigné 24 à 120 heures avant l'arrivée. Un passeport pour animaux émis en Grande-Bretagne est également valable. Organisez cela avec votre vétérinaire avant de partir, car cela ne peut pas se faire à l'arrivée.",
+          "contentEs": "Desde el Brexit, Gran Bretaña ya no acepta el Pasaporte Europeo para Mascotas en la entrada. Los perros que llegan de la UE necesitan un Animal Health Certificate (AHC) británico emitido por un veterinario oficial en los 10 días previos al viaje, más un microchip y una vacunación antirrábica válida, y los perros también necesitan un tratamiento aprobado contra la tenia (Echinococcus) registrado entre 24 y 120 horas antes de la llegada. Un pasaporte para mascotas emitido en Gran Bretaña también es válido. Organiza esto con tu veterinario antes de salir, porque no puede hacerse a la llegada.",
+          "contentPt": "Desde o Brexit, a Grã-Bretanha já não aceita o Passaporte Europeu para Animais na entrada. Os cães que chegam da UE precisam de um Animal Health Certificate (AHC) britânico emitido por um veterinário oficial nos 10 dias anteriores à viagem, mais um microchip e uma vacinação antirrábica válida, e os cães também precisam de um tratamento aprovado contra a ténia (Echinococcus) registado entre 24 e 120 horas antes da chegada. Um passaporte para animais emitido na Grã-Bretanha também é válido. Trate disto com o seu veterinário antes de sair, porque não pode ser feito à chegada."
+        },
+        {
+          "titleEn": "Planning around the beach dog rules",
+          "titleFr": "Anticiper les règles des plages canines",
+          "titleEs": "Planificar en torno a las normas de las playas caninas",
+          "titlePt": "Planear em torno das regras das praias caninas",
+          "contentEn": "The one strict rule is South Sands, which bans dogs completely from 1 May to 30 September, day and night. In those months head instead to North Sands, dog-friendly all year, or take the little ferry across to Mill Bay at East Portlemouth, where dogs are welcome year-round on a lead. Fines for breaches run up to 100 pounds, so read the signs at each beach, which the South Hams order can update.",
+          "contentFr": "La seule règle stricte est South Sands, qui interdit totalement les chiens du 1er mai au 30 septembre, jour et nuit. Ces mois-là, allez plutôt à North Sands, ouverte aux chiens toute l'année, ou prenez le petit ferry vers Mill Bay à East Portlemouth, où les chiens sont bienvenus toute l'année en laisse. Les amendes atteignent 100 livres : lisez la signalisation de chaque plage, que l'arrêté du South Hams peut modifier.",
+          "contentEs": "La única norma estricta es South Sands, que veta por completo los perros del 1 de mayo al 30 de septiembre, día y noche. En esos meses ve mejor a North Sands, apta para perros todo el año, o toma el pequeño ferry hasta Mill Bay en East Portlemouth, donde los perros son bienvenidos todo el año con correa. Las multas llegan a 100 libras, así que lee la señalización de cada playa, que la orden del South Hams puede actualizar.",
+          "contentPt": "A única regra rígida é South Sands, que proíbe por completo os cães de 1 de maio a 30 de setembro, dia e noite. Nesses meses vá antes a North Sands, apta para cães todo o ano, ou apanhe o pequeno ferry até Mill Bay em East Portlemouth, onde os cães são bem-vindos todo o ano à trela. As multas chegam a 100 libras, por isso leia a sinalização de cada praia, que a ordem do South Hams pode atualizar."
+        },
+        {
+          "titleEn": "When to visit and the weather",
+          "titleFr": "Quand venir et la météo",
+          "titleEs": "Cuándo visitar y el tiempo",
+          "titlePt": "Quando visitar e o tempo",
+          "contentEn": "Salcombe has a mild south Devon climate: gentle winters around 9 to 10 C and warm, rarely scorching summers around 18 C. Late spring and early autumn are the sweet spot for a dog, with quieter streets, and from October to April every beach, including South Sands, is open to dogs again. High summer is glorious but busy, so lean on North Sands and Mill Bay.",
+          "contentFr": "Salcombe jouit d'un climat doux du sud du Devon : hivers cléments autour de 9 à 10 °C et étés chauds, rarement caniculaires, autour de 18 °C. La fin du printemps et le début de l'automne sont idéaux avec un chien, rues plus calmes, et d'octobre à avril toutes les plages, y compris South Sands, rouvrent aux chiens. Le plein été est splendide mais fréquenté : misez sur North Sands et Mill Bay.",
+          "contentEs": "Salcombe tiene un clima suave del sur de Devon: inviernos apacibles en torno a 9-10 C y veranos cálidos, rara vez sofocantes, en torno a 18 C. El final de la primavera y el principio del otoño son el momento ideal con un perro, con calles más tranquilas, y de octubre a abril todas las playas, incluida South Sands, vuelven a abrir a los perros. Pleno verano es glorioso pero concurrido: apóyate en North Sands y Mill Bay.",
+          "contentPt": "Salcombe tem um clima ameno do sul de Devon: invernos suaves em torno de 9-10 C e verões quentes, raramente abrasadores, em torno de 18 C. O fim da primavera e o início do outono são o momento ideal com um cão, com ruas mais tranquilas, e de outubro a abril todas as praias, incluindo South Sands, voltam a abrir aos cães. O pleno verão é glorioso mas concorrido: aposte em North Sands e Mill Bay."
+        }
+      ],
+      "places": [],
+      "tipsEn": [
+        "Sort your dog's GB Animal Health Certificate with your vet before you leave home; it must be issued within 10 days of travel and cannot be arranged on arrival.",
+        "In summer avoid South Sands entirely (dogs banned 1 May to 30 September, fines up to 100 pounds) and use North Sands and Mill Bay, both dog-friendly all year.",
+        "Use the dog-friendly Salcombe to East Portlemouth ferry to reach Mill Bay and the eastern coast path, and keep the dog on a lead near clifftops and grazing livestock."
+      ],
+      "tipsFr": [
+        "Réglez l'Animal Health Certificate britannique de votre chien avec votre vétérinaire avant de partir ; il doit être émis dans les 10 jours du voyage et ne peut pas être obtenu à l'arrivée.",
+        "En été, évitez complètement South Sands (chiens interdits du 1er mai au 30 septembre, amendes jusqu'à 100 livres) et privilégiez North Sands et Mill Bay, ouvertes aux chiens toute l'année.",
+        "Prenez le ferry Salcombe-East Portlemouth acceptant les chiens pour rejoindre Mill Bay et le chemin côtier est, et gardez le chien en laisse près des falaises et du bétail."
+      ],
+      "tipsEs": [
+        "Gestiona el Animal Health Certificate británico de tu perro con tu veterinario antes de salir; debe emitirse en los 10 días previos al viaje y no puede tramitarse a la llegada.",
+        "En verano evita del todo South Sands (perros vetados del 1 de mayo al 30 de septiembre, multas de hasta 100 libras) y usa North Sands y Mill Bay, ambas aptas para perros todo el año.",
+        "Usa el ferry Salcombe-East Portlemouth apto para perros para llegar a Mill Bay y al camino costero del este, y manten al perro con correa cerca de los acantilados y del ganado."
+      ],
+      "tipsPt": [
+        "Trate do Animal Health Certificate britânico do seu cão com o seu veterinário antes de sair; tem de ser emitido nos 10 dias anteriores à viagem e não pode ser tratado à chegada.",
+        "No verão evite por completo South Sands (cães proibidos de 1 de maio a 30 de setembro, multas até 100 libras) e use North Sands e Mill Bay, ambas aptas para cães todo o ano.",
+        "Use o ferry Salcombe-East Portlemouth apto para cães para chegar a Mill Bay e ao caminho costeiro do leste, e mantenha o cão à trela perto das falésias e do gado."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Salcombe a good place for a dog-friendly holiday?",
+          "a": "Yes, very much so, with dog-welcoming pubs, year-round dog beaches at North Sands and Mill Bay, and superb National Trust coast walks. The main things to plan are the strict summer dog ban at South Sands and, for EU visitors, the post-Brexit GB Animal Health Certificate."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Salcombe est-elle un bon lieu pour des vacances avec un chien ?",
+          "a": "Oui, tout à fait, avec des pubs accueillants pour les chiens, des plages canines ouvertes toute l'année à North Sands et Mill Bay, et de superbes promenades côtières du National Trust. Les points à anticiper sont l'interdiction estivale stricte des chiens à South Sands et, pour les visiteurs de l'UE, l'Animal Health Certificate britannique post-Brexit."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Es Salcombe un buen lugar para unas vacaciones con perro?",
+          "a": "Sí, mucho, con pubs que admiten perros, playas caninas abiertas todo el año en North Sands y Mill Bay, y magníficos paseos costeros del National Trust. Lo principal a planificar es el estricto veto estival a los perros en South Sands y, para los visitantes de la UE, el Animal Health Certificate británico posterior al Brexit."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Salcombe é um bom lugar para umas férias com cão?",
+          "a": "Sim, muito, com pubs que aceitam cães, praias caninas abertas todo o ano em North Sands e Mill Bay, e magníficos passeios costeiros do National Trust. O principal a planear é a rígida proibição estival de cães em South Sands e, para os visitantes da UE, o Animal Health Certificate britânico pós-Brexit."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Things to Do in Salcombe",
+      "titleFr": "Activités qui acceptent les chiens à Salcombe",
+      "titleEs": "Cosas que hacer con perro en Salcombe",
+      "titlePt": "Coisas para fazer com cão em Salcombe",
+      "introEn": "The estuary is Salcombe's great attraction, and dogs get to share most of it: the clifftop garden at Overbeck's, the little ferries across the water, and the harbour and Whitestrand waterfront where the town's life plays out. None of it needs the beaches, so there is plenty to do with a dog even in the height of the summer bans.",
+      "introFr": "L'estuaire est la grande attraction de Salcombe, et les chiens en partagent l'essentiel : le jardin de falaise d'Overbeck's, les petits ferries qui traversent l'eau, et le port et le front de mer de Whitestrand où se joue la vie de la ville. Rien de tout cela ne dépend des plages : il y a donc de quoi faire avec un chien même en pleine saison d'interdiction.",
+      "introEs": "El estuario es el gran atractivo de Salcombe, y los perros comparten buena parte de él: el jardín sobre el acantilado de Overbeck's, los pequeños ferries que cruzan el agua, y el puerto y el paseo de Whitestrand donde transcurre la vida del pueblo. Nada de esto necesita las playas, así que hay mucho que hacer con un perro incluso en plena temporada de vetos.",
+      "introPt": "O estuário é o grande atrativo de Salcombe, e os cães partilham boa parte dele: o jardim sobre a falésia de Overbeck's, os pequenos ferries que atravessam a água, e o porto e a marginal de Whitestrand onde decorre a vida da vila. Nada disto depende das praias, por isso há muito para fazer com um cão mesmo em plena época de proibições.",
+      "places": [
+        {
+          "name": "Overbeck's Garden (National Trust)",
+          "neighborhood": "Sharpitor",
+          "photo": "",
+          "website": "https://www.nationaltrust.org.uk/visit/devon/overbecks-garden",
+          "description": "A subtropical National Trust garden perched on the cliff at Sharpitor with breathtaking views over the estuary mouth, planted with palms, exotics and rare shrubs that thrive in the mild air. It is a magical, sheltered place to wander with a well-behaved dog.",
+          "descriptionFr": "Un jardin subtropical du National Trust perché sur la falaise à Sharpitor, avec des vues à couper le souffle sur l'embouchure de l'estuaire, planté de palmiers, de plantes exotiques et d'arbustes rares qui prospèrent dans l'air doux. Un lieu magique et abrité où flâner avec un chien bien élevé.",
+          "descriptionEs": "Un jardín subtropical del National Trust encaramado en el acantilado de Sharpitor, con vistas impresionantes de la bocana del estuario, plantado de palmeras, exóticas y arbustos raros que prosperan en el aire suave. Un lugar mágico y resguardado para pasear con un perro educado.",
+          "descriptionPt": "Um jardim subtropical do National Trust empoleirado na falésia de Sharpitor, com vistas deslumbrantes sobre a foz do estuário, plantado de palmeiras, exóticas e arbustos raros que prosperam no ar ameno. Um lugar mágico e abrigado para passear com um cão bem-comportado.",
+          "dogPolicy": "Dogs on a short (non-flexi) lead are welcome in the garden; a lead-swap is offered at the entrance. Dogs are not allowed in the Banana Garden or on grassed areas except the Olive Garden mown paths, and are welcome at the outdoor cafe kiosk.",
+          "dogPolicyFr": "Les chiens tenus en laisse courte (non rétractable) sont bienvenus dans le jardin ; un échange de laisse est proposé à l'entrée. Les chiens ne sont pas admis dans le Banana Garden ni sur les pelouses, sauf les allées tondues de l'Olive Garden, et sont bienvenus au kiosque-café extérieur.",
+          "dogPolicyEs": "Los perros con correa corta (no extensible) son bienvenidos en el jardín; en la entrada ofrecen un cambio de correa. Los perros no pueden entrar en el Banana Garden ni en las zonas de césped, salvo los senderos segados del Olive Garden, y son bienvenidos en el quiosco-café exterior.",
+          "dogPolicyPt": "Os cães com trela curta (não extensível) são bem-vindos no jardim; à entrada é oferecida uma troca de trela. Os cães não são permitidos no Banana Garden nem nas zonas de relva, exceto os caminhos ceifados do Olive Garden, e são bem-vindos no quiosque-café exterior.",
+          "admissionFee": "Adult around £9.50; free to National Trust members",
+          "admissionFeeFr": "Adulte environ 9,50 £ ; gratuit pour les membres du National Trust",
+          "admissionFeeEs": "Adulto unas 9,50 £; gratis para los socios del National Trust",
+          "admissionFeePt": "Adulto cerca de 9,50 £; grátis para os membros do National Trust",
+          "tip": "The garden is steep and terraced with lots of steps; wear good shoes and bring water, then reward the dog at the cafe kiosk.",
+          "tipFr": "Le jardin est raide et en terrasses avec beaucoup de marches ; chaussez-vous bien et prenez de l'eau, puis récompensez le chien au kiosque-café.",
+          "tipEs": "El jardín es empinado y aterrazado con muchas escaleras; lleva buen calzado y agua, y luego premia al perro en el quiosco-café.",
+          "tipPt": "O jardim é íngreme e em socalcos com muitas escadas; use bom calçado e leve água, e depois recompense o cão no quiosque-café.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Overbeck%27s+Garden+Salcombe"
+        },
+        {
+          "name": "Salcombe to East Portlemouth Ferry",
+          "neighborhood": "Whitestrand / Fore Street",
+          "photo": "",
+          "website": "https://www.southdevonaonb.org.uk/",
+          "description": "A tiny open passenger ferry that has crossed the estuary between Salcombe and East Portlemouth for generations, taking about five minutes each way. It is a joyful mini-adventure in itself and unlocks the quiet eastern beaches and coast path.",
+          "descriptionFr": "Un petit ferry passagers ouvert qui traverse l'estuaire entre Salcombe et East Portlemouth depuis des générations, en cinq minutes environ. C'est une joyeuse mini-aventure en soi qui ouvre l'accès aux plages est plus tranquilles et au chemin côtier.",
+          "descriptionEs": "Un pequeño ferry de pasajeros abierto que cruza el estuario entre Salcombe y East Portlemouth desde hace generaciones, en unos cinco minutos. Es una alegre miniaventura en sí misma que da acceso a las tranquilas playas del este y al camino costero.",
+          "descriptionPt": "Um pequeno ferry de passageiros aberto que atravessa o estuário entre Salcombe e East Portlemouth há gerações, em cerca de cinco minutos. É uma alegre miniaventura em si mesma que dá acesso às tranquilas praias do leste e ao caminho costeiro.",
+          "dogPolicy": "Well-behaved dogs on a lead are welcome; dogs travel with their owner across the estuary.",
+          "dogPolicyFr": "Les chiens bien élevés tenus en laisse sont bienvenus ; les chiens traversent l'estuaire avec leur maître.",
+          "dogPolicyEs": "Los perros educados con correa son bienvenidos; los perros cruzan el estuario con su dueño.",
+          "dogPolicyPt": "Os cães bem-comportados à trela são bem-vindos; os cães atravessam o estuário com o seu dono.",
+          "admissionFee": "Small single fare per passenger; dogs generally free",
+          "admissionFeeFr": "Petit tarif à l'unité par passager ; chiens en général gratuits",
+          "admissionFeeEs": "Pequeña tarifa por trayecto y pasajero; perros en general gratis",
+          "admissionFeePt": "Pequena tarifa por trajeto e passageiro; cães em geral grátis",
+          "tip": "Combine the crossing with a walk to Mill Bay, dog-friendly year-round, and a drink back on the Ferry Inn deck.",
+          "tipFr": "Combinez la traversée avec une promenade jusqu'à Mill Bay, ouverte aux chiens toute l'année, et un verre au retour sur la terrasse du Ferry Inn.",
+          "tipEs": "Combina el cruce con un paseo hasta Mill Bay, apta para perros todo el año, y una copa a la vuelta en la terraza del Ferry Inn.",
+          "tipPt": "Combine a travessia com um passeio até Mill Bay, apta para cães todo o ano, e uma bebida no regresso na esplanada do Ferry Inn.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Salcombe+East+Portlemouth+Ferry"
+        },
+        {
+          "name": "Salcombe Harbour and Whitestrand",
+          "neighborhood": "Town centre",
+          "photo": "/images/city-places/salcombe-attractions-salcombe-harbour.jpg",
+          "website": "https://www.salcombeinformation.co.uk/",
+          "description": "The working heart of Salcombe, where fishing and sailing boats crowd the estuary and the Whitestrand waterfront buzzes with life. Strolling the harbour front and browsing the Fore Street shops is a easy, free way to spend an afternoon with a dog on a lead.",
+          "descriptionFr": "Le coeur vivant de Salcombe, où bateaux de pêche et voiliers encombrent l'estuaire et où le front de mer de Whitestrand fourmille de vie. Flâner sur le port et parcourir les boutiques de Fore Street est une façon simple et gratuite de passer un après-midi avec un chien en laisse.",
+          "descriptionEs": "El corazón vivo de Salcombe, donde barcas de pesca y veleros abarrotan el estuario y el paseo de Whitestrand bulle de vida. Pasear por el frente del puerto y curiosear las tiendas de Fore Street es una forma fácil y gratuita de pasar una tarde con un perro con correa.",
+          "descriptionPt": "O coração vivo de Salcombe, onde barcos de pesca e veleiros enchem o estuário e a marginal de Whitestrand fervilha de vida. Passear pela frente do porto e espreitar as lojas da Fore Street é uma forma fácil e gratuita de passar uma tarde com um cão à trela.",
+          "dogPolicy": "Dogs on a lead are welcome along the harbour front and streets; many shops keep a water bowl outside.",
+          "dogPolicyFr": "Les chiens en laisse sont bienvenus le long du port et dans les rues ; beaucoup de boutiques gardent une gamelle d'eau dehors.",
+          "dogPolicyEs": "Los perros con correa son bienvenidos por el frente del puerto y las calles; muchas tiendas dejan un cuenco de agua fuera.",
+          "dogPolicyPt": "Os cães à trela são bem-vindos ao longo da frente do porto e das ruas; muitas lojas deixam uma taça de água à porta.",
+          "admissionFee": "Free",
+          "admissionFeeFr": "Gratuit",
+          "admissionFeeEs": "Gratis",
+          "admissionFeePt": "Grátis",
+          "tip": "Early morning is the calmest time to walk the waterfront in summer, before the streets fill up.",
+          "tipFr": "Le début de matinée est le moment le plus calme pour arpenter le front de mer l'été, avant que les rues ne se remplissent.",
+          "tipEs": "La primera hora de la mañana es el momento más tranquilo para pasear el frente del puerto en verano, antes de que se llenen las calles.",
+          "tipPt": "O início da manhã é o momento mais tranquilo para passear na marginal no verão, antes de as ruas encherem.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Salcombe+Harbour+Whitestrand"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "What can I do in Salcombe with a dog if the beaches are restricted?",
+          "a": "Plenty. Overbeck's Garden welcomes dogs on a short lead, the Salcombe to East Portlemouth ferry and the harbour front are dog-friendly, and North Sands and Mill Bay stay open to dogs all year. The National Trust coast paths to Snapes Point and Bolt Head are superb dog walks too."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Que faire à Salcombe avec un chien si les plages sont réglementées ?",
+          "a": "Beaucoup de choses. Le jardin d'Overbeck's accueille les chiens en laisse courte, le ferry Salcombe-East Portlemouth et le front de port acceptent les chiens, et North Sands et Mill Bay restent ouvertes aux chiens toute l'année. Les chemins côtiers du National Trust vers Snapes Point et Bolt Head sont aussi de superbes promenades."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Qué puedo hacer en Salcombe con un perro si las playas están restringidas?",
+          "a": "Mucho. El jardín de Overbeck's admite perros con correa corta, el ferry Salcombe-East Portlemouth y el frente del puerto son aptos para perros, y North Sands y Mill Bay siguen abiertas a los perros todo el año. Los caminos costeros del National Trust hacia Snapes Point y Bolt Head también son magníficos paseos."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "O que posso fazer em Salcombe com um cão se as praias estiverem restringidas?",
+          "a": "Muito. O jardim de Overbeck's aceita cães com trela curta, o ferry Salcombe-East Portlemouth e a frente do porto são aptos para cães, e North Sands e Mill Bay continuam abertas aos cães todo o ano. Os caminhos costeiros do National Trust até Snapes Point e Bolt Head são também magníficos passeios."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitting and Walking in Salcombe",
+      "titleFr": "Garde et promenade de chiens à Salcombe",
+      "titleEs": "Cuidado y paseo de perros en Salcombe",
+      "titlePt": "Guarda e passeio de cães em Salcombe",
+      "introEn": "If you want an evening out without the dog or cover for a day trip, the easiest route in a small town like Salcombe is a national booking platform, which lists vetted local sitters and walkers across the South Hams. Book early in summer, when demand peaks.",
+      "introFr": "Si vous voulez sortir un soir sans le chien ou une garde pour une excursion, le plus simple dans une petite ville comme Salcombe est une plateforme de réservation nationale, qui référence des gardiens et promeneurs locaux vérifiés dans tout le South Hams. Réservez tôt l'été, quand la demande culmine.",
+      "introEs": "Si quieres salir una noche sin el perro o cobertura para una excursión, lo más fácil en un pueblo pequeño como Salcombe es una plataforma de reservas nacional, que lista cuidadores y paseadores locales verificados por todo el South Hams. Reserva pronto en verano, cuando la demanda es máxima.",
+      "introPt": "Se quer sair uma noite sem o cão ou cobertura para um passeio, o mais fácil numa vila pequena como Salcombe é uma plataforma de reservas nacional, que lista cuidadores e passeadores locais verificados por todo o South Hams. Reserve cedo no verão, quando a procura é máxima.",
+      "places": [
+        {
+          "name": "Rover UK",
+          "website": "https://www.rover.com/uk/",
+          "description": "The largest pet-care platform in the UK, listing local dog sitters, boarders and walkers across the South Hams and the Salcombe and Kingsbridge area. Every sitter has a profile, reviews and photos, and you book and pay through the app with cover included.",
+          "descriptionFr": "La plus grande plateforme de garde d'animaux du Royaume-Uni, référençant gardiens, pensions et promeneurs locaux dans tout le South Hams et la région de Salcombe et Kingsbridge. Chaque gardien a un profil, des avis et des photos, et vous réservez et payez via l'application avec une assurance incluse.",
+          "descriptionEs": "La mayor plataforma de cuidado de mascotas del Reino Unido, con cuidadores, alojadores y paseadores locales por todo el South Hams y la zona de Salcombe y Kingsbridge. Cada cuidador tiene perfil, reseñas y fotos, y reservas y pagas a través de la app con cobertura incluida.",
+          "descriptionPt": "A maior plataforma de cuidado de animais do Reino Unido, com cuidadores, alojadores e passeadores locais por todo o South Hams e pela zona de Salcombe e Kingsbridge. Cada cuidador tem perfil, avaliações e fotos, e reserva e paga através da app com cobertura incluída.",
+          "serviceType": "Dog boarding, day care, drop-in visits and walking",
+          "serviceTypeFr": "Pension, garderie, visites à domicile et promenade",
+          "serviceTypeEs": "Alojamiento, guardería, visitas a domicilio y paseo",
+          "serviceTypePt": "Alojamento, creche, visitas ao domicílio e passeio",
+          "pricePerDay": "From around £20-£35 per day",
+          "languages": [
+            "English"
+          ],
+          "tip": "Message two or three sitters early and arrange a short meet-and-greet before your trip so your dog is comfortable before the day you need cover.",
+          "tipFr": "Contactez deux ou trois gardiens tôt et organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avant le jour où vous avez besoin de la garde.",
+          "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo a tu viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
+          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço."
+        },
+        {
+          "name": "Tailster",
+          "website": "https://www.tailster.com/",
+          "description": "A UK-wide pet-care marketplace connecting owners with local, checked dog walkers, sitters and boarders, including carers covering the South Hams and Salcombe area. Bookings are managed and insured through the platform.",
+          "descriptionFr": "Une place de marché britannique de garde d'animaux qui met en relation les maîtres avec des promeneurs, gardiens et pensions locaux vérifiés, dont des intervenants couvrant le South Hams et la région de Salcombe. Les réservations sont gérées et assurées via la plateforme.",
+          "descriptionEs": "Un mercado británico de cuidado de mascotas que conecta a los dueños con paseadores, cuidadores y alojadores locales verificados, incluidos los que cubren el South Hams y la zona de Salcombe. Las reservas se gestionan y aseguran a través de la plataforma.",
+          "descriptionPt": "Um mercado britânico de cuidado de animais que liga os donos a passeadores, cuidadores e alojadores locais verificados, incluindo os que cobrem o South Hams e a zona de Salcombe. As reservas são geridas e seguradas através da plataforma.",
+          "serviceType": "Dog walking, day care, home boarding and sitting",
+          "serviceTypeFr": "Promenade, garderie, pension à domicile et garde",
+          "serviceTypeEs": "Paseo, guardería, alojamiento en casa y cuidado",
+          "serviceTypePt": "Passeio, creche, alojamento ao domicílio e guarda",
+          "pricePerDay": "From around £15-£30 per day",
+          "languages": [
+            "English"
+          ],
+          "tip": "Filter for carers with recent reviews near Kingsbridge and Salcombe, and confirm availability well ahead for July and August.",
+          "tipFr": "Filtrez les intervenants avec des avis récents près de Kingsbridge et Salcombe, et confirmez la disponibilité bien à l'avance pour juillet et août.",
+          "tipEs": "Filtra por cuidadores con reseñas recientes cerca de Kingsbridge y Salcombe, y confirma la disponibilidad con mucha antelación para julio y agosto.",
+          "tipPt": "Filtre por cuidadores com avaliações recentes perto de Kingsbridge e Salcombe, e confirme a disponibilidade com muita antecedência para julho e agosto."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "How do I find a dog sitter or walker in Salcombe?",
+          "a": "In a small town like Salcombe the simplest route is a national platform such as Rover or Tailster, which list vetted local sitters and walkers across the South Hams. Book early for July and August, and arrange a meet-and-greet first so your dog is settled."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Comment trouver un gardien ou un promeneur de chien à Salcombe ?",
+          "a": "Dans une petite ville comme Salcombe, le plus simple est une plateforme nationale comme Rover ou Tailster, qui référencent des gardiens et promeneurs locaux vérifiés dans tout le South Hams. Réservez tôt pour juillet et août, et organisez d'abord une rencontre pour que votre chien soit rassuré."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Cómo encuentro un cuidador o paseador de perros en Salcombe?",
+          "a": "En un pueblo pequeño como Salcombe lo más sencillo es una plataforma nacional como Rover o Tailster, que listan cuidadores y paseadores locales verificados por todo el South Hams. Reserva pronto para julio y agosto, y organiza antes un encuentro para que tu perro esté tranquilo."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Como encontro um cuidador ou passeador de cães em Salcombe?",
+          "a": "Numa vila pequena como Salcombe o mais simples é uma plataforma nacional como a Rover ou a Tailster, que listam cuidadores e passeadores locais verificados por todo o South Hams. Reserve cedo para julho e agosto, e combine antes um encontro para que o seu cão fique tranquilo."
+        }
+      ]
+    }
+  }
+}

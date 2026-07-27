@@ -903,6 +903,81 @@
     "iata": "NAP"
   },
   {
+    "slug": "ambleside",
+    "name": "Ambleside",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/ambleside.jpg",
+    "intro": "A handsome stone town at the head of Lake Windermere, one of the great walking bases of the Lake District and genuinely easy with a dog. Dogs are welcome on almost every fell and footpath, from the waterfall walk up Stock Ghyll a few minutes from the Market Cross to the rambling ridge of Loughrigg Fell and the quiet shore of Rydal Water, and they travel free on the Windermere Lake Cruises from the Waterhead pier. Most of the pubs welcome dogs in the bar, one even with its own dog menu, and the iconic little Bridge House sits right on the walk into town.",
+    "lat": 54.4286,
+    "lng": -2.9631,
+    "weather": {
+      "jan": {
+        "temp": 4,
+        "desc": "Cold, wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 4,
+        "desc": "Cold, damp",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 6,
+        "desc": "Cool, showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Spring showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Mild, greening",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 15,
+        "desc": "Warm, changeable",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 17,
+        "desc": "Warm, frequent rain",
+        "icon": "🌦️"
+      },
+      "aug": {
+        "temp": 17,
+        "desc": "Warm, wet spells",
+        "icon": "🌦️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Cool, golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Wet, leafy",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 7,
+        "desc": "Cold, rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cold, wet",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "MAN"
+  },
+  {
     "slug": "amsterdam",
     "name": "Amsterdam",
     "country": "Netherlands",

@@ -1,0 +1,938 @@
+{
+  "slug": "ambleside",
+  "name": "Ambleside",
+  "country": "United Kingdom",
+  "flag": "🇬🇧",
+  "lastUpdated": "2026-07-27",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Ambleside",
+      "titleFr": "Restaurants qui acceptent les chiens à Ambleside",
+      "titleEs": "Restaurantes que admiten perros en Ambleside",
+      "titlePt": "Restaurantes que aceitam cães em Ambleside",
+      "introEn": "British pub culture makes Ambleside genuinely easy for dog owners: most pubs welcome dogs by default in the bar, often with a water bowl waiting and sometimes a doggy menu. The tightest cluster is around the Market Cross and the little lanes off it, where wet-boot, muddy-paw walkers coming off Loughrigg and Stock Ghyll are the norm rather than the exception.",
+      "introFr": "La culture du pub britannique rend Ambleside vraiment simple pour les propriétaires de chiens : la plupart des pubs accueillent les chiens par défaut au bar, souvent avec une gamelle d'eau qui attend et parfois un menu pour chien. La concentration la plus dense se trouve autour de la Market Cross et des petites ruelles alentour, où les marcheurs aux bottes trempées et aux pattes boueuses qui redescendent de Loughrigg et de Stock Ghyll sont la norme plutôt que l'exception.",
+      "introEs": "La cultura del pub británico hace que Ambleside sea de verdad fácil para los dueños de perros: la mayoría de los pubs admiten perros por defecto en el bar, a menudo con un cuenco de agua esperando y a veces un menú para perros. La concentración más densa está en torno a la Market Cross y las callejuelas de alrededor, donde los caminantes de botas mojadas y patas embarradas que bajan de Loughrigg y Stock Ghyll son la norma y no la excepción.",
+      "introPt": "A cultura do pub britânico torna Ambleside mesmo fácil para os donos de cães: a maioria dos pubs recebe cães por defeito no bar, muitas vezes com uma taça de água à espera e por vezes um menu para cães. A concentração mais densa fica à volta da Market Cross e das ruelas em redor, onde os caminhantes de botas molhadas e patas enlameadas que descem de Loughrigg e Stock Ghyll são a norma e não a exceção.",
+      "places": [
+        {
+          "name": "The Golden Rule",
+          "address": "Smithy Brow, Ambleside, LA22 9AS",
+          "neighborhood": "Smithy Brow",
+          "photo": "/images/city-places/ambleside-restaurants-the-golden-rule.jpg",
+          "website": "https://www.robinsonsbrewery.com/pubs/golden-rule-ambleside/",
+          "description": "A Grade II-listed traditional Robinsons pub dating to 1683, tucked off the main road with a real fire, bench seating and a well-kept range of cask ales. Dogs are welcome throughout, with water bowls always on hand, though there is no food menu, so it is a drinks-and-a-rest stop rather than a meal.",
+          "descriptionFr": "Un pub Robinsons traditionnel classé Grade II datant de 1683, à l'écart de la route principale, avec un vrai feu, des banquettes et une belle sélection de bières de fût. Les chiens sont les bienvenus partout, avec des gamelles d'eau toujours disponibles, mais il n'y a pas de carte : c'est plutôt une halte pour boire et se reposer qu'un repas.",
+          "descriptionEs": "Un pub Robinsons tradicional catalogado Grado II que data de 1683, apartado de la calle principal, con chimenea de verdad, bancos y una buena selección de cervezas de barril. Los perros son bienvenidos por todas partes, con cuencos de agua siempre a mano, aunque no hay carta de comida: es más una parada para beber y descansar que para comer.",
+          "descriptionPt": "Um pub Robinsons tradicional classificado Grau II que data de 1683, recolhido da rua principal, com lareira a sério, bancos corridos e uma boa seleção de cervejas de barril. Os cães são bem-vindos em toda a parte, com taças de água sempre à mão, mas não há ementa de comida: é mais uma paragem para beber e descansar do que para uma refeição.",
+          "petPolicy": "Dogs welcome throughout the pub on a lead; water bowls provided.",
+          "petPolicyFr": "Chiens bienvenus dans tout le pub tenus en laisse ; gamelles d'eau fournies.",
+          "petPolicyEs": "Perros bienvenidos en todo el pub con correa; cuencos de agua incluidos.",
+          "petPolicyPt": "Cães bem-vindos em todo o pub à trela; taças de água disponibilizadas.",
+          "priceRange": "Pub (drinks only, no food)",
+          "mustTry": "A well-kept Robinsons cask ale by the fire",
+          "mustTryFr": "Une bière de fût Robinsons près du feu",
+          "mustTryEs": "Una cerveza de barril Robinsons junto al fuego",
+          "mustTryPt": "Uma cerveja de barril Robinsons junto à lareira",
+          "openingHours": "Daily, afternoon and evening",
+          "tip": "There is no kitchen, so eat elsewhere and come here for the ale and the atmosphere; the multiple small rooms mean there is usually a quiet corner for a tired dog.",
+          "tipFr": "Il n'y a pas de cuisine : mangez ailleurs et venez ici pour la bière et l'ambiance ; les nombreuses petites salles offrent en général un coin tranquille pour un chien fatigué.",
+          "tipEs": "No hay cocina, así que come en otro sitio y ven aquí por la cerveza y el ambiente; las varias salas pequeñas suelen dejar un rincón tranquilo para un perro cansado.",
+          "tipPt": "Não há cozinha, por isso coma noutro sítio e venha cá pela cerveja e pelo ambiente; as várias salas pequenas costumam deixar um canto tranquilo para um cão cansado.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden+Rule+Smithy+Brow+Ambleside"
+        },
+        {
+          "name": "The Royal Oak",
+          "address": "Main Street, Ambleside, LA22 9BU",
+          "neighborhood": "Market Cross",
+          "photo": "/images/city-places/ambleside-restaurants-royal-oak.jpg",
+          "website": "https://www.greeneking.co.uk/pubs/cumbria/royal-oak",
+          "description": "A lively Greene King pub in the heart of Ambleside serving hearty pub classics, with real ales, live music and quiz nights. It is genuinely dog-led, welcoming dogs throughout and even offering a dog menu, so your dog eats while you do.",
+          "descriptionFr": "Un pub Greene King animé au cœur d'Ambleside, servant de généreux classiques de pub, avec des vraies bières, de la musique live et des soirées quiz. Il est vraiment tourné vers les chiens, qu'il accueille partout et pour lesquels il propose même un menu, pour que votre chien mange en même temps que vous.",
+          "descriptionEs": "Un animado pub Greene King en pleno Ambleside que sirve contundentes clásicos de pub, con cervezas artesanas, música en directo y noches de quiz. Está de verdad pensado para los perros, a los que admite por todas partes e incluso ofrece un menú canino, para que tu perro coma mientras tú comes.",
+          "descriptionPt": "Um pub Greene King animado no coração de Ambleside que serve generosos clássicos de pub, com cervejas artesanais, música ao vivo e noites de quiz. É mesmo virado para os cães, que acolhe em toda a parte e para os quais tem até um menu canino, para que o seu cão coma enquanto o senhor come.",
+          "petPolicy": "Dogs welcome throughout on a lead; a dog menu is available.",
+          "petPolicyFr": "Chiens bienvenus partout tenus en laisse ; un menu pour chien est disponible.",
+          "petPolicyEs": "Perros bienvenidos por todas partes con correa; hay un menú para perros.",
+          "petPolicyPt": "Cães bem-vindos em toda a parte à trela; há um menu para cães.",
+          "priceRange": "Pub (mains around £13-£19)",
+          "mustTry": "A hearty pub classic after a fell walk",
+          "mustTryFr": "Un généreux classique de pub après une marche sur les fells",
+          "mustTryEs": "Un contundente clásico de pub tras una caminata por los fells",
+          "mustTryPt": "Um generoso clássico de pub depois de uma caminhada pelos fells",
+          "openingHours": "Daily, lunch and dinner",
+          "tip": "It gets busy and loud on live-music nights, so if your dog is noise-shy come earlier for a quiet meal in the bar.",
+          "tipFr": "C'est bruyant et bondé les soirs de musique live : si votre chien est sensible au bruit, venez plus tôt pour un repas tranquille au bar.",
+          "tipEs": "Se llena y hay ruido las noches de música en directo, así que si tu perro es sensible al ruido ven antes para una comida tranquila en el bar.",
+          "tipPt": "Fica cheio e barulhento nas noites de música ao vivo, por isso se o seu cão é sensível ao barulho venha mais cedo para uma refeição tranquila no bar.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal+Oak+Main+Street+Ambleside"
+        },
+        {
+          "name": "The Unicorn",
+          "address": "North Road, Ambleside, LA22 9DT",
+          "neighborhood": "North Road",
+          "photo": "/images/city-places/ambleside-restaurants-the-unicorn.jpg",
+          "website": "https://www.thelakedistrict.org/food-drink/pubs/the-unicorn-ambleside/",
+          "description": "A cosy former coaching inn over three hundred years old, down a side street and reckoned the oldest pub in town, with at least four ales on tap. It serves home-cooked pub classics including a Sunday roast, and dogs are welcome in the traditional, low-beamed bar.",
+          "descriptionFr": "Une ancienne auberge de relais chaleureuse de plus de trois cents ans, dans une rue latérale et réputée le plus vieux pub de la ville, avec au moins quatre bières à la pression. Elle sert des classiques de pub faits maison, dont le rôti du dimanche, et les chiens sont les bienvenus dans le bar traditionnel aux poutres basses.",
+          "descriptionEs": "Una acogedora antigua posada de postas de más de trescientos años, en una calle lateral y considerada el pub más antiguo del pueblo, con al menos cuatro cervezas de barril. Sirve clásicos de pub caseros, incluido el asado del domingo, y los perros son bienvenidos en el bar tradicional de vigas bajas.",
+          "descriptionPt": "Uma acolhedora antiga estalagem de posta com mais de trezentos anos, numa rua lateral e tida como o pub mais antigo da vila, com pelo menos quatro cervejas a copo. Serve clássicos de pub caseiros, incluindo o assado de domingo, e os cães são bem-vindos no bar tradicional de vigas baixas.",
+          "petPolicy": "Dogs welcome in the bar on a lead.",
+          "petPolicyFr": "Chiens bienvenus au bar tenus en laisse.",
+          "petPolicyEs": "Perros bienvenidos en el bar con correa.",
+          "petPolicyPt": "Cães bem-vindos no bar à trela.",
+          "priceRange": "Pub (mains around £12-£17)",
+          "mustTry": "The Sunday roast and a local cask ale",
+          "mustTryFr": "Le rôti du dimanche et une bière de fût locale",
+          "mustTryEs": "El asado del domingo y una cerveza local de barril",
+          "mustTryPt": "O assado de domingo e uma cerveja local de barril",
+          "openingHours": "Daily, lunch and dinner (check winter hours)",
+          "tip": "The low-beamed bar is snug and quiet, a good bolt-hole with a dog on a wet afternoon when the bigger pubs fill up.",
+          "tipFr": "Le bar aux poutres basses est douillet et calme, un bon refuge avec un chien un après-midi pluvieux quand les grands pubs se remplissent.",
+          "tipEs": "El bar de vigas bajas es acogedor y tranquilo, un buen refugio con perro una tarde lluviosa cuando los pubs más grandes se llenan.",
+          "tipPt": "O bar de vigas baixas é aconchegante e tranquilo, um bom refúgio com um cão numa tarde de chuva quando os pubs maiores enchem.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Unicorn+North+Road+Ambleside"
+        }
+      ],
+      "tipsEn": [
+        "Most Ambleside pubs welcome dogs in the bar; the pricier table-service restaurant rooms are more often dog-free, so ask which area you can sit in.",
+        "After a wet fell walk everyone comes off the hills at once, so weekend pubs are busiest around 4-6pm; arrive earlier for a quiet corner with your dog.",
+        "Carry a towel for muddy paws and a mat so your dog can settle under the table; Ambleside pubs expect walkers but appreciate the courtesy."
+      ],
+      "tipsFr": [
+        "La plupart des pubs d'Ambleside accueillent les chiens au bar ; les salles de restaurant plus chères avec service à table sont plus souvent sans chiens, alors demandez dans quel espace vous asseoir.",
+        "Après une marche pluvieuse sur les fells, tout le monde redescend en même temps : les pubs sont donc les plus bondés entre 16h et 18h le week-end ; arrivez plus tôt pour un coin tranquille avec votre chien.",
+        "Emportez une serviette pour les pattes boueuses et un tapis pour que votre chien s'installe sous la table ; les pubs d'Ambleside s'attendent aux marcheurs mais apprécient l'attention."
+      ],
+      "tipsEs": [
+        "La mayoría de los pubs de Ambleside admiten perros en el bar; las salas de restaurante más caras con servicio de mesa suelen ser sin perros, así que pregunta en qué zona puedes sentarte.",
+        "Tras una caminata lluviosa por los fells todo el mundo baja a la vez, así que los pubs están más llenos entre las 16 y las 18h los fines de semana; llega antes para un rincón tranquilo con tu perro.",
+        "Lleva una toalla para las patas embarradas y una manta para que tu perro se acomode bajo la mesa; los pubs de Ambleside esperan caminantes pero agradecen el detalle."
+      ],
+      "tipsPt": [
+        "A maioria dos pubs de Ambleside aceita cães no bar; as salas de restaurante mais caras com serviço de mesa são mais vezes sem cães, por isso pergunte em que zona se pode sentar.",
+        "Depois de uma caminhada de chuva pelos fells toda a gente desce ao mesmo tempo, por isso os pubs estão mais cheios entre as 16 e as 18h ao fim de semana; chegue mais cedo para um canto tranquilo com o seu cão.",
+        "Leve uma toalha para as patas enlameadas e uma manta para o cão se acomodar debaixo da mesa; os pubs de Ambleside contam com caminhantes mas agradecem a cortesia."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside pubs and restaurants in Ambleside?",
+          "a": "Yes, in most cases. British pubs traditionally welcome dogs, and around Ambleside the great majority allow a leashed dog in the bar, often with a water bowl and sometimes a dog menu. Formal table-service restaurant rooms are the exception, so ask which area is dog-friendly when you arrive."
+        },
+        {
+          "q": "Do I need to book a dog-friendly table in Ambleside?",
+          "a": "Not usually for the bar areas, which is where dogs sit. On busy wet-weather weekends the popular pubs fill up in the late afternoon, so arriving early or booking ahead helps you get a table with your dog."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis dans les pubs et restaurants d'Ambleside ?",
+          "a": "Oui, dans la plupart des cas. Les pubs britanniques accueillent traditionnellement les chiens, et autour d'Ambleside la grande majorité admet un chien en laisse au bar, souvent avec une gamelle d'eau et parfois un menu pour chien. Les salles de restaurant formelles avec service à table font exception, alors demandez quel espace accepte les chiens à votre arrivée."
+        },
+        {
+          "q": "Faut-il réserver une table qui accepte les chiens à Ambleside ?",
+          "a": "En général non pour les espaces bar, où s'installent les chiens. Les week-ends pluvieux et chargés, les pubs populaires se remplissent en fin d'après-midi : arriver tôt ou réserver aide à obtenir une table avec votre chien."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Se admiten perros dentro de los pubs y restaurantes de Ambleside?",
+          "a": "Sí, en la mayoría de los casos. Los pubs británicos acogen tradicionalmente a los perros, y en torno a Ambleside la gran mayoría admite un perro con correa en el bar, a menudo con un cuenco de agua y a veces un menú canino. Las salas de restaurante formales con servicio de mesa son la excepción, así que pregunta qué zona admite perros al llegar."
+        },
+        {
+          "q": "Hay que reservar una mesa que admita perros en Ambleside?",
+          "a": "Normalmente no para las zonas de bar, que es donde se sientan los perros. Los fines de semana lluviosos y concurridos los pubs populares se llenan a última hora de la tarde, así que llegar pronto o reservar ayuda a conseguir una mesa con tu perro."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães são admitidos dentro dos pubs e restaurantes de Ambleside?",
+          "a": "Sim, na maioria dos casos. Os pubs britânicos acolhem tradicionalmente os cães, e à volta de Ambleside a grande maioria admite um cão à trela no bar, muitas vezes com uma taça de água e por vezes um menu para cães. As salas de restaurante formais com serviço de mesa são a exceção, por isso pergunte que zona aceita cães à chegada."
+        },
+        {
+          "q": "É preciso reservar uma mesa que aceite cães em Ambleside?",
+          "a": "Normalmente não para as zonas de bar, que é onde os cães se sentam. Nos fins de semana de chuva e muito movimento os pubs populares enchem ao fim da tarde, por isso chegar cedo ou reservar ajuda a conseguir uma mesa com o seu cão."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog-Friendly Walks and Fells around Ambleside",
+      "titleFr": "Promenades et fells qui accueillent les chiens autour d'Ambleside",
+      "titleEs": "Paseos y fells que admiten perros alrededor de Ambleside",
+      "titlePt": "Passeios e fells que acolhem cães à volta de Ambleside",
+      "introEn": "This is the reason to bring a dog to Ambleside. Dogs are welcome on almost every Lake District fell and public footpath, from the waterfall walk up Stock Ghyll a few minutes from the Market Cross to the open ridge of Loughrigg Fell and the quiet shore of Rydal Water. The golden rule is simple: keep your dog on a lead near grazing sheep and other livestock, and during the spring ground-nesting bird season, and let them walk under close control everywhere else.",
+      "introFr": "C'est la raison d'emmener un chien à Ambleside. Les chiens sont les bienvenus sur presque tous les fells et sentiers publics du Lake District, de la promenade de la cascade de Stock Ghyll, à quelques minutes de la Market Cross, à la crête dégagée de Loughrigg Fell et à la rive tranquille de Rydal Water. La règle d'or est simple : tenez votre chien en laisse près des moutons et autre bétail qui pâturent, et pendant la saison de nidification au sol au printemps, et laissez-le marcher sous contrôle rapproché partout ailleurs.",
+      "introEs": "Esta es la razón para traer un perro a Ambleside. Los perros son bienvenidos en casi todos los fells y senderos públicos del Lake District, desde el paseo de la cascada de Stock Ghyll, a pocos minutos de la Market Cross, hasta la cresta abierta de Loughrigg Fell y la tranquila orilla de Rydal Water. La regla de oro es sencilla: mantén al perro con correa cerca de las ovejas y otro ganado que pasta, y durante la temporada de aves que anidan en el suelo en primavera, y déjalo caminar bajo control cercano en todo lo demás.",
+      "introPt": "Esta é a razão para trazer um cão a Ambleside. Os cães são bem-vindos em quase todos os fells e caminhos públicos do Lake District, do passeio da cascata de Stock Ghyll, a poucos minutos da Market Cross, à crista aberta de Loughrigg Fell e à margem tranquila de Rydal Water. A regra de ouro é simples: mantenha o cão à trela perto das ovelhas e outro gado que pasta, e durante a época de nidificação no solo na primavera, e deixe-o caminhar sob controlo próximo em todo o resto.",
+      "places": [
+        {
+          "name": "Stock Ghyll Force",
+          "type": "Waterfall woodland walk",
+          "photo": "/images/city-places/ambleside-parks-stock-ghyll-force.jpg",
+          "website": "https://www.lakedistrict.gov.uk/visiting/plan-your-visit/placestogo/stockghyll",
+          "description": "A short, easy walk of around 1.5 to 2.5 miles that climbs through woodland from the edge of Ambleside to a dramatic 21-metre waterfall, one of the most accessible falls in the Lakes. It starts just a few minutes from the Market Cross and makes a perfect quick outing when the high fells are under cloud.",
+          "descriptionFr": "Une promenade courte et facile d'environ 2,5 à 4 km qui grimpe à travers bois depuis le bord d'Ambleside jusqu'à une spectaculaire cascade de 21 mètres, l'une des plus accessibles du Lake District. Elle part à quelques minutes de la Market Cross et fait une sortie rapide parfaite quand les hauts fells sont dans les nuages.",
+          "descriptionEs": "Un paseo corto y fácil de unos 2,5 a 4 km que sube por el bosque desde el borde de Ambleside hasta una espectacular cascada de 21 metros, una de las más accesibles del Lake District. Sale a pocos minutos de la Market Cross y es una escapada rápida perfecta cuando los altos fells están bajo las nubes.",
+          "descriptionPt": "Um passeio curto e fácil de cerca de 2,5 a 4 km que sobe pelo bosque desde a orla de Ambleside até uma espetacular cascata de 21 metros, uma das mais acessíveis do Lake District. Começa a poucos minutos da Market Cross e é uma saída rápida perfeita quando os altos fells estão sob as nuvens.",
+          "offLeash": true,
+          "offLeashArea": "Dogs can walk off-lead under close control on the wooded paths where clear of others; keep them on a lead near the water's edge, the road and any grazing above the woods.",
+          "offLeashAreaFr": "Les chiens peuvent marcher sans laisse sous contrôle rapproché sur les chemins boisés quand il n'y a personne ; tenez-les en laisse près de l'eau, de la route et de tout pâturage au-dessus des bois.",
+          "offLeashAreaEs": "Los perros pueden caminar sin correa bajo control cercano en los senderos arbolados cuando no hay nadie; mantenlos con correa cerca del agua, la carretera y cualquier pastoreo por encima del bosque.",
+          "offLeashAreaPt": "Os cães podem caminhar sem trela sob controlo próximo nos trilhos arborizados quando não há ninguém; mantenha-os à trela perto da água, da estrada e de qualquer pastoreio acima do bosque.",
+          "tip": "The path can be slippery near the falls, so keep dogs close on the wet rock; go early to have the viewpoints to yourselves.",
+          "tipFr": "Le chemin peut être glissant près de la cascade : gardez les chiens près de vous sur la roche mouillée ; partez tôt pour avoir les points de vue à vous seuls.",
+          "tipEs": "El sendero puede resbalar cerca de la cascada, así que mantén a los perros cerca sobre la roca mojada; ve temprano para tener los miradores para ti solo.",
+          "tipPt": "O trilho pode escorregar perto da cascata, por isso mantenha os cães perto na rocha molhada; vá cedo para ter os miradouros só para si.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stock+Ghyll+Force+Ambleside"
+        },
+        {
+          "name": "Loughrigg Fell",
+          "type": "Ridge fell walk",
+          "photo": "/images/city-places/ambleside-parks-loughrigg-fell.jpg",
+          "website": "https://www.lakedistrict.gov.uk/visiting/plan-your-visit/placestogo/loughrigg",
+          "description": "A low, rambling fell between Ambleside, Rydal and Grasmere with a maze of paths, huge views over Windermere and Rydal Water, and the atmospheric Rydal Cave to explore. Longer rounds link Loughrigg Terrace and the cave in around 6.5 miles, but shorter loops from Rydal are just as rewarding.",
+          "descriptionFr": "Un fell bas et vallonné entre Ambleside, Rydal et Grasmere, avec un dédale de sentiers, d'immenses vues sur Windermere et Rydal Water, et la grotte atmosphérique de Rydal Cave à explorer. Les boucles plus longues relient Loughrigg Terrace et la grotte sur environ 10,5 km, mais les circuits plus courts depuis Rydal sont tout aussi gratifiants.",
+          "descriptionEs": "Un fell bajo y ondulado entre Ambleside, Rydal y Grasmere, con un laberinto de senderos, enormes vistas sobre Windermere y Rydal Water, y la atmosférica Rydal Cave para explorar. Los circuitos más largos enlazan Loughrigg Terrace y la cueva en unos 10,5 km, pero las vueltas más cortas desde Rydal son igual de gratificantes.",
+          "descriptionPt": "Um fell baixo e ondulado entre Ambleside, Rydal e Grasmere, com um labirinto de trilhos, vistas enormes sobre Windermere e Rydal Water, e a atmosférica Rydal Cave para explorar. Os circuitos mais longos ligam Loughrigg Terrace e a gruta em cerca de 10,5 km, mas as voltas mais curtas a partir de Rydal são igualmente gratificantes.",
+          "offLeash": true,
+          "offLeashArea": "Dogs can walk off-lead under close control on the open fell where no livestock is present, but sheep graze widely here, so lead up whenever they are in sight and near Rydal Hall.",
+          "offLeashAreaFr": "Les chiens peuvent marcher sans laisse sous contrôle rapproché sur le fell ouvert où il n'y a pas de bétail, mais les moutons y pâturent largement : remettez la laisse dès qu'ils sont en vue et près de Rydal Hall.",
+          "offLeashAreaEs": "Los perros pueden caminar sin correa bajo control cercano en el fell abierto donde no hay ganado, pero las ovejas pastan mucho aquí: pon la correa en cuanto estén a la vista y cerca de Rydal Hall.",
+          "offLeashAreaPt": "Os cães podem caminhar sem trela sob controlo próximo no fell aberto onde não há gado, mas as ovelhas pastam muito aqui: ponha a trela assim que estiverem à vista e perto de Rydal Hall.",
+          "tip": "The paths braid and it is easy to lose the route in mist, so carry a map; Rydal Cave is a fun, sheltered turnaround point with a dog.",
+          "tipFr": "Les sentiers s'entremêlent et il est facile de perdre son chemin dans la brume : emportez une carte ; Rydal Cave est un point de demi-tour amusant et abrité avec un chien.",
+          "tipEs": "Los senderos se entrelazan y es fácil perder la ruta en la niebla, así que lleva un mapa; Rydal Cave es un punto de retorno divertido y resguardado con perro.",
+          "tipPt": "Os trilhos entrelaçam-se e é fácil perder o percurso na névoa, por isso leve um mapa; Rydal Cave é um ponto de retorno divertido e abrigado com um cão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Loughrigg+Fell+Ambleside"
+        },
+        {
+          "name": "Rydal Water and White Moss",
+          "type": "Lakeshore and woodland walk",
+          "photo": "/images/city-places/ambleside-parks-rydal-water.jpg",
+          "website": "https://www.nationaltrust.org.uk/visit/lake-district/stagshaw-garden-and-ambleside",
+          "description": "A gentle, mostly flat circuit around one of the smallest and prettiest lakes in the district, linking the shore path, the White Moss woods and the reedy margins that Wordsworth loved. It is an easy, low-level walk that suits older dogs and can be extended onto Loughrigg for more.",
+          "descriptionFr": "Un circuit doux et presque plat autour de l'un des plus petits et plus jolis lacs de la région, reliant le chemin du rivage, les bois de White Moss et les rives couvertes de roseaux que Wordsworth aimait. C'est une marche facile de faible altitude qui convient aux chiens âgés et peut être prolongée sur Loughrigg.",
+          "descriptionEs": "Un circuito suave y casi llano en torno a uno de los lagos más pequeños y bonitos de la región, que enlaza el camino de la orilla, los bosques de White Moss y las márgenes de juncos que amaba Wordsworth. Es un paseo fácil de baja altitud apto para perros mayores y ampliable hacia Loughrigg.",
+          "descriptionPt": "Um circuito suave e quase plano à volta de um dos lagos mais pequenos e bonitos da região, ligando o caminho da margem, os bosques de White Moss e as margens de caniços que Wordsworth adorava. É um passeio fácil de baixa altitude adequado a cães idosos e que pode ser prolongado até Loughrigg.",
+          "offLeash": true,
+          "offLeashArea": "Off-lead under close control on the open woodland and shore where clear of livestock; on a lead near the road, car parks and the fields, which are often grazed.",
+          "offLeashAreaFr": "Sans laisse sous contrôle rapproché dans les bois ouverts et au bord de l'eau quand il n'y a pas de bétail ; en laisse près de la route, des parkings et des champs, souvent pâturés.",
+          "offLeashAreaEs": "Sin correa bajo control cercano en el bosque abierto y la orilla cuando no hay ganado; con correa cerca de la carretera, los aparcamientos y los prados, a menudo con ganado.",
+          "offLeashAreaPt": "Sem trela sob controlo próximo no bosque aberto e na margem quando livre de gado; à trela perto da estrada, dos parques de estacionamento e dos campos, muitas vezes pastados.",
+          "tip": "Rydal Water is a favourite dog swimming lake, but check for blue-green algae in warm weather before letting a dog in; start from the White Moss car parks for the easiest access.",
+          "tipFr": "Rydal Water est un lac de baignade favori des chiens, mais vérifiez les algues bleu-vert par temps chaud avant de laisser entrer un chien ; partez des parkings de White Moss pour l'accès le plus facile.",
+          "tipEs": "Rydal Water es un lago favorito para el baño de perros, pero comprueba las algas verdiazules con calor antes de dejar entrar a un perro; sal de los aparcamientos de White Moss para el acceso más fácil.",
+          "tipPt": "Rydal Water é um lago favorito para o banho de cães, mas verifique as algas azul-esverdeadas com calor antes de deixar um cão entrar; parta dos parques de White Moss para o acesso mais fácil.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rydal+Water+White+Moss"
+        }
+      ],
+      "tipsEn": [
+        "Dogs are welcome on nearly all Lake District fells and footpaths, but the National Trust and farmers ask for leads near sheep, cattle and ground-nesting birds; a recall you trust is essential on open fell.",
+        "In summer, check for blue-green algae warnings before letting your dog swim or drink from Windermere or Rydal Water, as blooms can be fatal; when in doubt, keep the dog out of the water.",
+        "Fell weather turns fast and paths get rocky; carry water, a spare lead and a towel, and keep to marked routes so you do not disturb livestock."
+      ],
+      "tipsFr": [
+        "Les chiens sont les bienvenus sur presque tous les fells et sentiers du Lake District, mais le National Trust et les agriculteurs demandent la laisse près des moutons, des bovins et des oiseaux nichant au sol ; un rappel fiable est indispensable sur le fell ouvert.",
+        "En été, vérifiez les avertissements d'algues bleu-vert avant de laisser votre chien nager ou boire dans Windermere ou Rydal Water, car les proliférations peuvent être mortelles ; dans le doute, gardez le chien hors de l'eau.",
+        "La météo des fells change vite et les sentiers deviennent rocailleux ; emportez de l'eau, une laisse de rechange et une serviette, et restez sur les itinéraires balisés pour ne pas déranger le bétail."
+      ],
+      "tipsEs": [
+        "Los perros son bienvenidos en casi todos los fells y senderos del Lake District, pero el National Trust y los agricultores piden correa cerca de ovejas, vacas y aves que anidan en el suelo; una llamada de vuelta fiable es imprescindible en el fell abierto.",
+        "En verano, comprueba los avisos de algas verdiazules antes de dejar que tu perro nade o beba de Windermere o Rydal Water, ya que los brotes pueden ser mortales; en caso de duda, mantén al perro fuera del agua.",
+        "El tiempo en los fells cambia rápido y los senderos se vuelven pedregosos; lleva agua, una correa de repuesto y una toalla, y cíñete a las rutas marcadas para no molestar al ganado."
+      ],
+      "tipsPt": [
+        "Os cães são bem-vindos em quase todos os fells e caminhos do Lake District, mas o National Trust e os agricultores pedem trela perto de ovelhas, vacas e aves que nidificam no solo; uma chamada de retorno fiável é indispensável no fell aberto.",
+        "No verão, verifique os avisos de algas azul-esverdeadas antes de deixar o cão nadar ou beber de Windermere ou Rydal Water, pois as florações podem ser fatais; na dúvida, mantenha o cão fora da água.",
+        "O tempo nos fells muda depressa e os trilhos ficam rochosos; leve água, uma trela suplente e uma toalha, e mantenha-se nos percursos marcados para não incomodar o gado."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can dogs go off-lead on the fells around Ambleside?",
+          "a": "Yes, under close control on the open fell where no livestock is present, such as parts of Loughrigg, but you must put your dog on a lead near sheep and cattle and during the spring ground-nesting bird season. Loughrigg and the Rydal fields are widely grazed, so keep the lead handy."
+        },
+        {
+          "q": "Is it safe for my dog to swim near Ambleside?",
+          "a": "Dogs can swim at the Windermere lake head at Waterhead and in Rydal Water, but blue-green algae can bloom in warm weather and is potentially fatal to dogs. Check for algae warnings and signage before letting a dog in, avoid scummy water, and rinse it off afterwards."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils être sans laisse sur les fells autour d'Ambleside ?",
+          "a": "Oui, sous contrôle rapproché sur le fell ouvert où il n'y a pas de bétail, comme certaines parties de Loughrigg, mais vous devez tenir votre chien en laisse près des moutons et des bovins et pendant la saison de nidification au sol au printemps. Loughrigg et les champs de Rydal sont largement pâturés, gardez donc la laisse à portée."
+        },
+        {
+          "q": "Est-il sûr de laisser mon chien nager près d'Ambleside ?",
+          "a": "Les chiens peuvent nager à la tête du lac Windermere à Waterhead et dans Rydal Water, mais des algues bleu-vert peuvent proliférer par temps chaud et être mortelles pour les chiens. Vérifiez les avertissements et la signalisation avant de laisser entrer un chien, évitez l'eau trouble et rincez-le ensuite."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Pueden los perros ir sin correa en los fells alrededor de Ambleside?",
+          "a": "Sí, bajo control cercano en el fell abierto donde no hay ganado, como partes de Loughrigg, pero debes poner al perro con correa cerca de ovejas y vacas y durante la temporada de aves que anidan en el suelo en primavera. Loughrigg y los prados de Rydal están muy pastados, así que ten la correa a mano."
+        },
+        {
+          "q": "Es seguro que mi perro nade cerca de Ambleside?",
+          "a": "Los perros pueden nadar en la cabecera del lago Windermere en Waterhead y en Rydal Water, pero pueden proliferar algas verdiazules con calor y son potencialmente mortales para los perros. Comprueba los avisos y la señalización antes de dejar entrar a un perro, evita el agua turbia y acláralo después."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães podem andar sem trela nos fells à volta de Ambleside?",
+          "a": "Sim, sob controlo próximo no fell aberto onde não há gado, como partes de Loughrigg, mas tem de pôr o cão à trela perto de ovelhas e vacas e durante a época de nidificação no solo na primavera. Loughrigg e os campos de Rydal são muito pastados, por isso tenha a trela à mão."
+        },
+        {
+          "q": "É seguro o meu cão nadar perto de Ambleside?",
+          "a": "Os cães podem nadar na cabeceira do lago Windermere em Waterhead e em Rydal Water, mas podem surgir florações de algas azul-esverdeadas com calor que são potencialmente fatais para os cães. Verifique os avisos e a sinalização antes de deixar um cão entrar, evite a água turva e enxágue-o depois."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Ambleside with a Dog",
+      "titleFr": "Se déplacer à Ambleside avec un chien",
+      "titleEs": "Moverse por Ambleside con un perro",
+      "titlePt": "Deslocar-se em Ambleside com um cão",
+      "introEn": "Ambleside has no railway station of its own, so most visitors arrive by car or by rail to Windermere and finish the short journey by bus, all of which take dogs. Once you are here the town is compact and walkable, the Stagecoach buses take dogs at the driver's discretion, and the Windermere Lake Cruises from Waterhead pier carry dogs free, making car-free days with a dog genuinely easy.",
+      "introFr": "Ambleside n'a pas de gare, la plupart des visiteurs arrivent donc en voiture ou en train jusqu'à Windermere puis terminent le court trajet en bus, qui acceptent tous les chiens. Une fois sur place, la ville est compacte et se parcourt à pied, les bus Stagecoach acceptent les chiens à la discrétion du chauffeur, et les Windermere Lake Cruises depuis l'embarcadère de Waterhead transportent les chiens gratuitement, ce qui rend les journées sans voiture avec un chien vraiment faciles.",
+      "introEs": "Ambleside no tiene estación de tren propia, así que la mayoría de los visitantes llegan en coche o en tren hasta Windermere y terminan el corto trayecto en autobús, todos los cuales admiten perros. Una vez aquí el pueblo es compacto y se recorre a pie, los autobuses Stagecoach admiten perros a criterio del conductor, y los Windermere Lake Cruises desde el embarcadero de Waterhead llevan perros gratis, lo que hace que los días sin coche con perro sean de verdad fáciles.",
+      "introPt": "Ambleside não tem estação de comboio própria, por isso a maioria dos visitantes chega de carro ou de comboio até Windermere e termina o curto trajeto de autocarro, todos eles a aceitar cães. Uma vez aqui a vila é compacta e percorre-se a pé, os autocarros Stagecoach aceitam cães ao critério do condutor, e os Windermere Lake Cruises a partir do cais de Waterhead transportam cães gratuitamente, o que torna os dias sem carro com um cão mesmo fáceis.",
+      "rules": [
+        {
+          "mode": "National Rail trains",
+          "modeFr": "Trains National Rail",
+          "modeEs": "Trenes National Rail",
+          "modePt": "Comboios National Rail",
+          "policy": "Under the National Rail Conditions of Travel, every passenger may bring up to two dogs free of charge on any train in Great Britain. Dogs must be on a lead or in an enclosed carrier, are not allowed on seats or in restaurant cars, and a third dog would be charged half the adult fare. Ambleside has no station, so you travel to Windermere and continue by bus.",
+          "policyFr": "Selon les Conditions de transport de National Rail, chaque voyageur peut emmener jusqu'à deux chiens gratuitement dans tout train de Grande-Bretagne. Les chiens doivent être en laisse ou dans une caisse fermée, ne sont pas admis sur les sièges ni dans les voitures-restaurants, et un troisième chien serait facturé la moitié du tarif adulte. Ambleside n'a pas de gare, vous voyagez donc jusqu'à Windermere puis continuez en bus.",
+          "policyEs": "Según las Condiciones de viaje de National Rail, cada pasajero puede llevar hasta dos perros gratis en cualquier tren de Gran Bretaña. Los perros deben ir con correa o en un transportín cerrado, no se admiten en los asientos ni en los vagones restaurante, y un tercer perro pagaría la mitad de la tarifa de adulto. Ambleside no tiene estación, así que viajas hasta Windermere y continúas en autobús.",
+          "policyPt": "Segundo as Condições de viagem da National Rail, cada passageiro pode levar até dois cães gratuitamente em qualquer comboio da Grã-Bretanha. Os cães têm de ir à trela ou numa caixa fechada, não são admitidos nos bancos nem nas carruagens-restaurante, e um terceiro cão pagaria metade da tarifa de adulto. Ambleside não tem estação, por isso viaja até Windermere e continua de autocarro."
+        },
+        {
+          "mode": "Windermere Lake Cruises (Waterhead)",
+          "modeFr": "Windermere Lake Cruises (Waterhead)",
+          "modeEs": "Windermere Lake Cruises (Waterhead)",
+          "modePt": "Windermere Lake Cruises (Waterhead)",
+          "policy": "All dogs travel free on the scheduled lake cruises from the Waterhead pier at the head of Windermere, and do not need to be added to a booking. Dogs must be kept on a lead at all times and off the seats; the boats double as dog-friendly transport, running to Bowness, Brockhole and Lakeside.",
+          "policyFr": "Tous les chiens voyagent gratuitement sur les croisières régulières depuis l'embarcadère de Waterhead, à la tête de Windermere, et n'ont pas à être ajoutés à une réservation. Les chiens doivent être tenus en laisse en permanence et rester hors des sièges ; les bateaux servent aussi de transport acceptant les chiens, vers Bowness, Brockhole et Lakeside.",
+          "policyEs": "Todos los perros viajan gratis en los cruceros regulares desde el embarcadero de Waterhead, en la cabecera de Windermere, y no hay que añadirlos a la reserva. Los perros deben ir con correa en todo momento y fuera de los asientos; las barcas sirven también de transporte que admite perros, hacia Bowness, Brockhole y Lakeside.",
+          "policyPt": "Todos os cães viajam grátis nos cruzeiros regulares a partir do cais de Waterhead, na cabeceira de Windermere, e não precisam de ser adicionados a uma reserva. Os cães têm de ir à trela a todo o momento e fora dos bancos; os barcos servem também de transporte que aceita cães, para Bowness, Brockhole e Lakeside."
+        },
+        {
+          "mode": "Local buses and taxis",
+          "modeFr": "Bus locaux et taxis",
+          "modeEs": "Autobuses locales y taxis",
+          "modePt": "Autocarros locais e táxis",
+          "policy": "Stagecoach buses, including the 555 to Windermere and Keswick and the 599 open-top to Bowness, generally allow well-behaved dogs at the driver's discretion; keep the dog on a lead and off the seats. Taxis are also at the driver's discretion, so mention the dog when booking to avoid a refusal.",
+          "policyFr": "Les bus Stagecoach, dont le 555 vers Windermere et Keswick et le 599 à toit ouvert vers Bowness, acceptent en général les chiens bien élevés à la discrétion du chauffeur ; gardez le chien en laisse et hors des sièges. Les taxis sont aussi à la discrétion du chauffeur : signalez le chien à la réservation pour éviter un refus.",
+          "policyEs": "Los autobuses Stagecoach, incluido el 555 a Windermere y Keswick y el 599 descapotable a Bowness, suelen admitir perros educados a criterio del conductor; mantén al perro con correa y fuera de los asientos. Los taxis también quedan a criterio del conductor, así que menciona al perro al reservar para evitar un rechazo.",
+          "policyPt": "Os autocarros Stagecoach, incluindo o 555 para Windermere e Keswick e o 599 descapotável para Bowness, costumam admitir cães bem-comportados ao critério do condutor; mantenha o cão à trela e fora dos bancos. Os táxis também ficam ao critério do condutor, por isso mencione o cão ao reservar para evitar uma recusa."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Arriving in Ambleside",
+          "titleFr": "Arriver à Ambleside",
+          "titleEs": "Llegar a Ambleside",
+          "titlePt": "Chegar a Ambleside",
+          "contentEn": "Ambleside has no airport and no railway station of its own. Drivers come off the M6 at Kendal and follow the A591 up past Windermere, while by rail you reach Windermere station on the branch line from Oxenholme on the West Coast Main Line, then finish on the dog-friendly 555 or 599 bus. The nearest airport is Manchester (MAN), roughly 90 minutes to two hours away by road, with Glasgow and Newcastle also within reach for a hire car.",
+          "contentFr": "Ambleside n'a ni aéroport ni gare. En voiture, on quitte la M6 à Kendal et on suit l'A591 en passant par Windermere, tandis qu'en train on rejoint la gare de Windermere par la ligne secondaire depuis Oxenholme sur la West Coast Main Line, puis on termine par le bus 555 ou 599 acceptant les chiens. L'aéroport le plus proche est Manchester (MAN), à environ 90 minutes à deux heures de route, Glasgow et Newcastle restant aussi accessibles avec une voiture de location.",
+          "contentEs": "Ambleside no tiene aeropuerto ni estación de tren propia. En coche se sale de la M6 en Kendal y se sigue la A591 pasando por Windermere, mientras que en tren se llega a la estación de Windermere por el ramal desde Oxenholme en la West Coast Main Line, y se termina en el autobús 555 o 599 apto para perros. El aeropuerto más cercano es Mánchester (MAN), a unos 90 minutos a dos horas por carretera, con Glasgow y Newcastle también al alcance con un coche de alquiler.",
+          "contentPt": "Ambleside não tem aeroporto nem estação de comboio própria. De carro sai-se da M6 em Kendal e segue-se a A591 passando por Windermere, enquanto de comboio se chega à estação de Windermere pelo ramal a partir de Oxenholme na West Coast Main Line, e termina-se no autocarro 555 ou 599 que aceita cães. O aeroporto mais próximo é Manchester (MAN), a cerca de 90 minutos a duas horas por estrada, com Glasgow e Newcastle também ao alcance com um carro alugado."
+        },
+        {
+          "titleEn": "Around the town and lake",
+          "titleFr": "Autour de la ville et du lac",
+          "titleEs": "Alrededor del pueblo y el lago",
+          "titlePt": "À volta da vila e do lago",
+          "contentEn": "Ambleside is compact, and the Market Cross, the pubs and the Waterhead lakeshore are all an easy walk apart, with the mile down to Waterhead a pleasant stroll. Once at the pier, the Windermere Lake Cruises double as dog-friendly transport, running down to Bowness, Brockhole and Lakeside, and the 555 and 599 buses link Ambleside with Grasmere, Windermere and beyond if the weather turns.",
+          "contentFr": "Ambleside est compacte, et la Market Cross, les pubs et la rive de Waterhead sont tous à courte distance à pied, le kilomètre et demi jusqu'à Waterhead étant une agréable promenade. Une fois à l'embarcadère, les Windermere Lake Cruises servent aussi de transport acceptant les chiens, jusqu'à Bowness, Brockhole et Lakeside, et les bus 555 et 599 relient Ambleside à Grasmere, Windermere et au-delà si le temps se gâte.",
+          "contentEs": "Ambleside es compacta, y la Market Cross, los pubs y la orilla de Waterhead están todos a poca distancia a pie, con el kilómetro y medio hasta Waterhead como un agradable paseo. Una vez en el embarcadero, los Windermere Lake Cruises sirven también de transporte apto para perros, hacia Bowness, Brockhole y Lakeside, y los autobuses 555 y 599 enlazan Ambleside con Grasmere, Windermere y más allá si el tiempo empeora.",
+          "contentPt": "Ambleside é compacta, e a Market Cross, os pubs e a margem de Waterhead estão todos a curta distância a pé, com o quilómetro e meio até Waterhead como um agradável passeio. Uma vez no cais, os Windermere Lake Cruises servem também de transporte que aceita cães, até Bowness, Brockhole e Lakeside, e os autocarros 555 e 599 ligam Ambleside a Grasmere, Windermere e mais além se o tempo piorar."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the train towards Ambleside?",
+          "a": "Yes, though Ambleside itself has no station. On National Rail, up to two dogs travel free with each passenger; they must be on a lead or in a carrier and are not allowed on seats. You travel to Windermere on the scenic branch line and finish on the dog-friendly 555 or 599 bus."
+        },
+        {
+          "q": "Do dogs go on the Windermere lake boats from Ambleside?",
+          "a": "Yes, and for free. Windermere Lake Cruises welcome all dogs on a lead at no charge from the Waterhead pier, with no need to book, and provide water bowls on board. On very busy sailings you may be asked to move so nervous passengers have space."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien dans le train vers Ambleside ?",
+          "a": "Oui, même si Ambleside n'a pas de gare. Sur National Rail, jusqu'à deux chiens voyagent gratuitement avec chaque voyageur ; ils doivent être en laisse ou dans une caisse et ne sont pas admis sur les sièges. On voyage jusqu'à Windermere par la pittoresque ligne secondaire puis on termine par le bus 555 ou 599 acceptant les chiens."
+        },
+        {
+          "q": "Les chiens montent-ils sur les bateaux du lac depuis Ambleside ?",
+          "a": "Oui, et gratuitement. Windermere Lake Cruises accueille tous les chiens en laisse sans frais depuis l'embarcadère de Waterhead, sans réservation, et fournit des gamelles d'eau à bord. Lors des traversées très fréquentées, on peut vous demander de vous déplacer pour laisser de la place aux passagers craintifs."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Puedo llevar a mi perro en el tren hacia Ambleside?",
+          "a": "Sí, aunque la propia Ambleside no tiene estación. En National Rail, hasta dos perros viajan gratis con cada pasajero; deben ir con correa o en transportín y no se admiten en los asientos. Se viaja hasta Windermere por el pintoresco ramal y se termina en el autobús 555 o 599 apto para perros."
+        },
+        {
+          "q": "Suben los perros a los barcos del lago desde Ambleside?",
+          "a": "Sí, y gratis. Windermere Lake Cruises admite todos los perros con correa sin coste desde el embarcadero de Waterhead, sin necesidad de reservar, y ofrece cuencos de agua a bordo. En las travesías muy concurridas pueden pedirte que te muevas para dejar espacio a pasajeros nerviosos."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão no comboio em direção a Ambleside?",
+          "a": "Sim, embora a própria Ambleside não tenha estação. Na National Rail, até dois cães viajam grátis com cada passageiro; têm de ir à trela ou numa caixa e não são admitidos nos bancos. Viaja-se até Windermere pelo pitoresco ramal e termina-se no autocarro 555 ou 599 que aceita cães."
+        },
+        {
+          "q": "Os cães vão nos barcos do lago a partir de Ambleside?",
+          "a": "Sim, e grátis. A Windermere Lake Cruises aceita todos os cães à trela sem custo a partir do cais de Waterhead, sem necessidade de reservar, e disponibiliza taças de água a bordo. Nas travessias muito movimentadas podem pedir-lhe que se mova para dar espaço a passageiros nervosos."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Lakeshore Swimming near Ambleside",
+      "titleFr": "Baignade au bord du lac avec un chien près d'Ambleside",
+      "titleEs": "Baño en la orilla del lago con perro cerca de Ambleside",
+      "titlePt": "Banhos na margem do lago com cão perto de Ambleside",
+      "introEn": "Ambleside sits at the head of Lake Windermere in the heart of the Lake District, so there is no coast and no sea beach here; what the area offers instead is freshwater lakeshore where dogs can wade and swim. There is no seasonal dog ban on the lakeshore as there is on many English seaside beaches, but the real safety issue is blue-green algae, which blooms in the lakes in warm weather and can be fatal to dogs, so always check for warnings and signage before your dog goes in.",
+      "introFr": "Ambleside se trouve à la tête du lac Windermere, au cœur du Lake District : il n'y a donc ni côte ni plage marine ici ; ce que la région offre à la place, c'est une rive d'eau douce où les chiens peuvent barboter et nager. Il n'y a pas d'interdiction saisonnière des chiens sur la rive comme sur beaucoup de plages maritimes anglaises, mais le vrai enjeu de sécurité, ce sont les algues bleu-vert, qui prolifèrent dans les lacs par temps chaud et peuvent être mortelles pour les chiens : vérifiez donc toujours les avertissements et la signalisation avant que votre chien n'entre.",
+      "introEs": "Ambleside está en la cabecera del lago Windermere, en pleno Lake District: aquí no hay costa ni playa marina; lo que ofrece la zona es una orilla de agua dulce donde los perros pueden vadear y nadar. No hay veda estacional de perros en la orilla como en muchas playas de mar inglesas, pero el verdadero problema de seguridad son las algas verdiazules, que proliferan en los lagos con calor y pueden ser mortales para los perros, así que comprueba siempre los avisos y la señalización antes de que tu perro entre.",
+      "introPt": "Ambleside fica na cabeceira do lago Windermere, no pleno Lake District: aqui não há costa nem praia marítima; o que a região oferece é uma margem de água doce onde os cães podem chapinhar e nadar. Não há proibição sazonal de cães na margem como em muitas praias de mar inglesas, mas o verdadeiro problema de segurança são as algas azul-esverdeadas, que proliferam nos lagos com calor e podem ser fatais para os cães, por isso verifique sempre os avisos e a sinalização antes de o seu cão entrar.",
+      "places": [
+        {
+          "name": "Waterhead and Borrans Park",
+          "distance": "Head of Lake Windermere, about 15 min walk from Ambleside Market Cross",
+          "description": "A grassy park and gentle foreshore at the very head of Windermere, beside the Waterhead pier and the Roman fort site at Galava, with easy, shallow access to the water. It is the most convenient spot for a paddle near Ambleside, with lawns for a picnic and the lake cruises coming and going.",
+          "season": "Open year-round; no seasonal dog ban, but water quality and algae vary with the weather",
+          "rules": "Keep dogs on a lead near the busy pier, the road and other visitors; clean up after your dog. Check the water for blue-green algae before letting a dog swim.",
+          "facilities": "Waterhead car park, toilets, cafés and the lake cruise pier close by; lawns and lakeshore paths at Borrans Park",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Waterhead+Borrans+Park+Ambleside",
+          "photo": "/images/city-places/ambleside-beaches-waterhead.jpg"
+        },
+        {
+          "name": "Rydal Water (White Moss)",
+          "distance": "About 10 min drive or a 45 min walk north-west of Ambleside towards Grasmere",
+          "description": "A small, shallow and famously pretty lake with quiet shingly bays reached from the White Moss woods, long a favourite spot for a dog swim away from the crowds. The gentle shore and low-level paths make it an easy outing that can be combined with the Loughrigg and Rydal Water circuit.",
+          "season": "Open year-round; no seasonal dog ban, but water quality and algae vary with the weather",
+          "rules": "Keep dogs under close control and on a lead near the road, car parks and any grazing; clean up after your dog. Check for blue-green algae before swimming.",
+          "facilities": "White Moss car parks, woodland and lakeshore paths; cafés and toilets back in Ambleside or Grasmere",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rydal+Water+White+Moss",
+          "photo": "/images/city-places/ambleside-beaches-rydal-water.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Are there dog beaches in Ambleside?",
+          "a": "Not sea beaches, because Ambleside sits at the head of Lake Windermere with no coast. Instead there is dog-friendly freshwater lakeshore at spots like Waterhead and Rydal Water where dogs can swim year-round, with no seasonal ban, provided you watch for blue-green algae."
+        },
+        {
+          "q": "Is it safe to let my dog swim near Ambleside?",
+          "a": "Usually yes, but the key risk is blue-green algae, which can appear in warm weather and is potentially fatal to dogs. Check for algae warnings and signage, avoid scummy or discoloured water, and rinse your dog off after a swim in Windermere or Rydal Water."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il des plages pour chiens à Ambleside ?",
+          "a": "Pas de plages maritimes, car Ambleside se trouve à la tête du lac Windermere, sans côte. Il y a en revanche une rive d'eau douce accueillant les chiens à des endroits comme Waterhead et Rydal Water, où les chiens peuvent nager toute l'année, sans interdiction saisonnière, à condition de surveiller les algues bleu-vert."
+        },
+        {
+          "q": "Est-il sûr de laisser mon chien nager près d'Ambleside ?",
+          "a": "En général oui, mais le principal risque, ce sont les algues bleu-vert, qui peuvent apparaître par temps chaud et être mortelles pour les chiens. Vérifiez les avertissements et la signalisation, évitez l'eau trouble ou décolorée, et rincez votre chien après la baignade dans Windermere ou Rydal Water."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Hay playas para perros en Ambleside?",
+          "a": "Playas de mar no, porque Ambleside está en la cabecera del lago Windermere sin costa. En cambio hay orilla de agua dulce que admite perros en sitios como Waterhead y Rydal Water, donde los perros pueden nadar todo el año, sin veda estacional, siempre que vigiles las algas verdiazules."
+        },
+        {
+          "q": "Es seguro dejar que mi perro nade cerca de Ambleside?",
+          "a": "Por lo general sí, pero el riesgo principal son las algas verdiazules, que pueden aparecer con calor y son potencialmente mortales para los perros. Comprueba los avisos y la señalización, evita el agua turbia o descolorida y aclara a tu perro tras el baño en Windermere o Rydal Water."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Existem praias para cães em Ambleside?",
+          "a": "Praias de mar não, porque Ambleside fica na cabeceira do lago Windermere sem costa. Em vez disso há margem de água doce que aceita cães em locais como Waterhead e Rydal Water, onde os cães podem nadar todo o ano, sem proibição sazonal, desde que vigie as algas azul-esverdeadas."
+        },
+        {
+          "q": "É seguro deixar o meu cão nadar perto de Ambleside?",
+          "a": "Em geral sim, mas o risco principal são as algas azul-esverdeadas, que podem surgir com calor e são potencialmente fatais para os cães. Verifique os avisos e a sinalização, evite a água turva ou descolorada e enxágue o cão depois do banho em Windermere ou Rydal Water."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians in Ambleside",
+      "titleFr": "Vétérinaires à Ambleside",
+      "titleEs": "Veterinarios en Ambleside",
+      "titlePt": "Veterinários em Ambleside",
+      "introEn": "Ambleside has its own branch of the Oakhill Veterinary Group in the village, with the main practice a short drive away in Windermere running a 24-hour emergency line, and a dedicated out-of-hours clinic in Kendal. English is universal here. For visitors from the EU, remember that Great Britain no longer accepts the EU Pet Passport for entry: dogs need a GB Animal Health Certificate, a microchip, a valid rabies vaccination and a tapeworm treatment given 24 to 120 hours before arrival, so travel with all your paperwork.",
+      "introFr": "Ambleside possède sa propre antenne de l'Oakhill Veterinary Group au village, la clinique principale étant à quelques minutes en voiture à Windermere avec une ligne d'urgence 24h/24, et une clinique de garde dédiée à Kendal. L'anglais est universel ici. Pour les visiteurs de l'UE, rappelez-vous que la Grande-Bretagne n'accepte plus le passeport pour animaux de l'UE à l'entrée : les chiens ont besoin d'un Animal Health Certificate britannique, d'une puce, d'une vaccination antirabique valide et d'un traitement contre le ténia administré 24 à 120 heures avant l'arrivée : voyagez donc avec tous vos documents.",
+      "introEs": "Ambleside tiene su propia sucursal del Oakhill Veterinary Group en el pueblo, con la clínica principal a pocos minutos en coche en Windermere que gestiona una línea de urgencias 24h, y una clínica de guardia dedicada en Kendal. Aquí el inglés es universal. Para los visitantes de la UE, recuerda que Gran Bretaña ya no acepta el Pasaporte Europeo para Mascotas en la entrada: los perros necesitan un Animal Health Certificate británico, un microchip, una vacunación antirrábica válida y un tratamiento contra la tenia administrado entre 24 y 120 horas antes de la llegada, así que viaja con toda la documentación.",
+      "introPt": "Ambleside tem a sua própria sucursal do Oakhill Veterinary Group na vila, com a clínica principal a poucos minutos de carro em Windermere a gerir uma linha de urgência 24h, e uma clínica de serviço dedicada em Kendal. Aqui o inglês é universal. Para os visitantes da UE, lembre-se de que a Grã-Bretanha já não aceita o Passaporte Europeu para Animais na entrada: os cães precisam de um Animal Health Certificate britânico, de um microchip, de uma vacinação antirrábica válida e de um tratamento contra a ténia administrado entre 24 e 120 horas antes da chegada, por isso viaje com toda a documentação.",
+      "entryRequirements": [],
+      "places": [
+        {
+          "name": "Oakhill Veterinary Group (Ambleside)",
+          "type": "Branch small-animal practice",
+          "address": "1 Church Street, Ambleside, LA22 0BU",
+          "phone": "+44 15394 32631",
+          "hours": "Mon-Fri 09:00-17:00; out-of-hours via the Windermere 24h line",
+          "hoursFr": "Lun-ven 09h00-17h00 ; hors horaires via la ligne 24h de Windermere",
+          "hoursEs": "Lun-vie 09:00-17:00; fuera de horario a través de la línea 24h de Windermere",
+          "hoursPt": "Seg-sex 09:00-17:00; fora de horas através da linha 24h de Windermere",
+          "englishSpeaking": true,
+          "website": "https://www.oakhillvetgroup.co.uk/",
+          "description": "The Ambleside branch of the Oakhill Veterinary Group on Church Street in the village centre, handy if you are staying towards Ambleside, Grasmere or the higher fells. It runs daytime small-animal clinics and shares the 24-hour emergency arrangements of the Windermere practice.",
+          "descriptionFr": "L'antenne d'Ambleside de l'Oakhill Veterinary Group, sur Church Street au centre du village, pratique si vous logez vers Ambleside, Grasmere ou les fells plus élevés. Elle assure des consultations de jour pour petits animaux et partage les dispositifs d'urgence 24h/24 de la clinique de Windermere.",
+          "descriptionEs": "La sucursal de Ambleside del Oakhill Veterinary Group, en Church Street en el centro del pueblo, práctica si te alojas hacia Ambleside, Grasmere o los fells más altos. Ofrece consultas diurnas de pequeños animales y comparte el servicio de urgencias 24h de la clínica de Windermere.",
+          "descriptionPt": "A sucursal de Ambleside do Oakhill Veterinary Group, na Church Street no centro da vila, prática se ficar para os lados de Ambleside, Grasmere ou os fells mais altos. Faz consultas diurnas de pequenos animais e partilha o serviço de urgência 24h da clínica de Windermere.",
+          "tip": "For anything overnight or at the weekend, ring the Windermere 24h line, which will direct you to the on-call vet or the Kendal emergency clinic.",
+          "tipFr": "Pour toute urgence nocturne ou le week-end, appelez la ligne 24h de Windermere, qui vous orientera vers le vétérinaire de garde ou la clinique d'urgence de Kendal.",
+          "tipEs": "Para cualquier urgencia nocturna o de fin de semana, llama a la línea 24h de Windermere, que te derivará al veterinario de guardia o a la clínica de urgencias de Kendal.",
+          "tipPt": "Para qualquer urgência noturna ou de fim de semana, ligue à linha 24h de Windermere, que o encaminhará para o veterinário de serviço ou para a clínica de urgência de Kendal.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oakhill+Veterinary+Group+Church+Street+Ambleside",
+          "photo": "/images/city-places/ambleside-vets-oakhill-ambleside.jpg"
+        },
+        {
+          "name": "Oakhill Veterinary Group (Windermere)",
+          "type": "Small-animal practice with 24h emergency phone line",
+          "address": "Lake Road, Windermere, LA23 2EQ",
+          "phone": "+44 15394 88555",
+          "hours": "Mon-Fri 08:00-18:30, Sat 09:00-14:00; 24h emergency line every day",
+          "hoursFr": "Lun-ven 08h00-18h30, sam 09h00-14h00 ; ligne d'urgence 24h/24 tous les jours",
+          "hoursEs": "Lun-vie 08:00-18:30, sáb 09:00-14:00; línea de urgencias 24h todos los días",
+          "hoursPt": "Seg-sex 08:00-18:30, sáb 09:00-14:00; linha de urgência 24h todos os dias",
+          "englishSpeaking": true,
+          "website": "https://www.oakhillvetgroup.co.uk/",
+          "description": "The group's main practice in nearby Windermere, about ten minutes from Ambleside, offering routine and urgent small-animal care. The Windermere number is staffed as a 24-hour emergency line, so it is the first call to make out of hours.",
+          "descriptionFr": "La clinique principale du groupe à Windermere toute proche, à environ dix minutes d'Ambleside, proposant des soins courants et urgents pour petits animaux. Le numéro de Windermere fait office de ligne d'urgence 24h/24, c'est donc le premier à appeler en dehors des heures ouvrables.",
+          "descriptionEs": "La clínica principal del grupo en la cercana Windermere, a unos diez minutos de Ambleside, con atención rutinaria y urgente de pequeños animales. El número de Windermere funciona como línea de urgencias 24h, así que es la primera llamada fuera del horario habitual.",
+          "descriptionPt": "A clínica principal do grupo na vizinha Windermere, a cerca de dez minutos de Ambleside, com cuidados de rotina e urgentes de pequenos animais. O número de Windermere funciona como linha de urgência 24h, por isso é a primeira chamada a fazer fora do horário.",
+          "tip": "Call the Windermere number first in any out-of-hours emergency; they will direct you to the on-call vet or the Kendal emergency clinic as needed.",
+          "tipFr": "Appelez d'abord le numéro de Windermere en cas d'urgence hors horaires ; ils vous orienteront vers le vétérinaire de garde ou la clinique d'urgence de Kendal selon les besoins.",
+          "tipEs": "Llama primero al número de Windermere en cualquier urgencia fuera de horario; te derivarán al veterinario de guardia o a la clínica de urgencias de Kendal según haga falta.",
+          "tipPt": "Ligue primeiro para o número de Windermere em qualquer urgência fora de horas; encaminham-no para o veterinário de serviço ou para a clínica de urgência de Kendal conforme necessário.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oakhill+Veterinary+Group+Lake+Road+Windermere",
+          "photo": "/images/city-places/ambleside-vets-oakhill-windermere.jpg"
+        },
+        {
+          "name": "Vets Now Kendal (emergency)",
+          "type": "Dedicated out-of-hours emergency clinic",
+          "address": "c/o Westmorland Vets, Riverside Business Park, Natland Road, Kendal, LA9 7SX",
+          "phone": "+44 1539 232221",
+          "hours": "Nights, weekends and bank holidays (out-of-hours emergency only)",
+          "hoursFr": "Nuits, week-ends et jours fériés (urgences hors horaires uniquement)",
+          "hoursEs": "Noches, fines de semana y festivos (solo urgencias fuera de horario)",
+          "hoursPt": "Noites, fins de semana e feriados (apenas urgências fora de horas)",
+          "englishSpeaking": true,
+          "website": "https://www.vets-now.com/find-an-emergency-vet/kendal/",
+          "description": "A dedicated Vets Now emergency clinic based within Westmorland Vets in Kendal, about 30 minutes from Ambleside, treating dogs, cats and small animals through the night, at weekends and on bank holidays. It is the regional out-of-hours centre when local practices are closed.",
+          "descriptionFr": "Une clinique d'urgence Vets Now dédiée, installée au sein de Westmorland Vets à Kendal, à environ 30 minutes d'Ambleside, qui soigne chiens, chats et petits animaux la nuit, le week-end et les jours fériés. C'est le centre régional de garde quand les cliniques locales sont fermées.",
+          "descriptionEs": "Una clínica de urgencias Vets Now dedicada, dentro de Westmorland Vets en Kendal, a unos 30 minutos de Ambleside, que atiende perros, gatos y pequeños animales de noche, los fines de semana y en festivos. Es el centro regional de guardia cuando las clínicas locales están cerradas.",
+          "descriptionPt": "Uma clínica de urgência Vets Now dedicada, dentro da Westmorland Vets em Kendal, a cerca de 30 minutos de Ambleside, que trata cães, gatos e pequenos animais de noite, aos fins de semana e em feriados. É o centro regional de serviço quando as clínicas locais estão fechadas.",
+          "tip": "Phone before you set off so they can prepare and confirm the fastest route; keep this number saved alongside the Oakhill Windermere line.",
+          "tipFr": "Téléphonez avant de partir pour qu'ils se préparent et confirment l'itinéraire le plus rapide ; gardez ce numéro enregistré à côté de la ligne Oakhill de Windermere.",
+          "tipEs": "Telefonea antes de salir para que se preparen y confirmen la ruta más rápida; guarda este número junto a la línea Oakhill de Windermere.",
+          "tipPt": "Telefone antes de sair para que se preparem e confirmem o percurso mais rápido; guarde este número ao lado da linha Oakhill de Windermere.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vets+Now+Kendal+Natland+Road",
+          "photo": "/images/city-places/ambleside-vets-vets-now-kendal.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there an emergency vet near Ambleside at night?",
+          "a": "Yes. The Oakhill Ambleside branch handles daytime care, its 24-hour emergency line runs from the Windermere practice about ten minutes away, and the regional out-of-hours clinic is Vets Now in Kendal, open nights, weekends and bank holidays. Phone ahead so they are ready for you."
+        },
+        {
+          "q": "What paperwork does my dog need to enter Great Britain from the EU?",
+          "a": "Great Britain does not accept the EU Pet Passport for entry. Your dog needs a GB Animal Health Certificate, a microchip and a valid rabies vaccination, plus an approved tapeworm treatment given 24 to 120 hours before arrival, so arrange it with a vet before you travel."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire d'urgence près d'Ambleside la nuit ?",
+          "a": "Oui. L'antenne Oakhill d'Ambleside assure les soins de jour, sa ligne d'urgence 24h/24 est gérée depuis la clinique de Windermere à environ dix minutes, et la clinique de garde régionale est Vets Now à Kendal, ouverte les nuits, week-ends et jours fériés. Téléphonez avant de venir pour qu'ils soient prêts."
+        },
+        {
+          "q": "Quels documents mon chien doit-il avoir pour entrer en Grande-Bretagne depuis l'UE ?",
+          "a": "La Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE à l'entrée. Votre chien a besoin d'un Animal Health Certificate britannique, d'une puce et d'une vaccination antirabique valide, plus d'un traitement anti-ténia approuvé administré 24 à 120 heures avant l'arrivée : organisez cela avec un vétérinaire avant de partir."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Hay un veterinario de urgencias cerca de Ambleside por la noche?",
+          "a": "Sí. La sucursal de Oakhill en Ambleside atiende durante el día, su línea de urgencias 24h se gestiona desde la clínica de Windermere a unos diez minutos, y la clínica de guardia regional es Vets Now en Kendal, abierta noches, fines de semana y festivos. Telefonea antes de ir para que estén preparados."
+        },
+        {
+          "q": "Qué documentación necesita mi perro para entrar en Gran Bretaña desde la UE?",
+          "a": "Gran Bretaña no acepta el Pasaporte Europeo para Mascotas en la entrada. Tu perro necesita un Animal Health Certificate británico, un microchip y una vacunación antirrábica válida, más un tratamiento antitenia aprobado administrado entre 24 y 120 horas antes de la llegada, así que organízalo con un veterinario antes de viajar."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Existe um veterinário de urgência perto de Ambleside à noite?",
+          "a": "Sim. A sucursal da Oakhill em Ambleside trata durante o dia, a sua linha de urgência 24h é assegurada a partir da clínica de Windermere a cerca de dez minutos, e a clínica de serviço regional é a Vets Now em Kendal, aberta noites, fins de semana e feriados. Telefone antes de ir para que estejam preparados."
+        },
+        {
+          "q": "Que documentação precisa o meu cão para entrar na Grã-Bretanha vindo da UE?",
+          "a": "A Grã-Bretanha não aceita o Passaporte Europeu para Animais na entrada. O seu cão precisa de um Animal Health Certificate britânico, de um microchip e de uma vacinação antirrábica válida, mais um tratamento contra a ténia aprovado administrado entre 24 e 120 horas antes da chegada, por isso trate disso com um veterinário antes de viajar."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Ambleside with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Ambleside avec un chien",
+      "titleEs": "Consejos prácticos para visitar Ambleside con un perro",
+      "titlePt": "Dicas práticas para visitar Ambleside com um cão",
+      "introEn": "Ambleside is one of the most dog-welcoming towns in England, but two things catch visitors out: the post-Brexit paperwork for bringing a dog into Great Britain, and the countryside rules that protect the sheep and wildlife on the fells. Get both right and the rest is easy.",
+      "introFr": "Ambleside est l'une des villes les plus accueillantes pour les chiens en Angleterre, mais deux choses surprennent les visiteurs : les formalités post-Brexit pour amener un chien en Grande-Bretagne, et les règles de la campagne qui protègent les moutons et la faune sur les fells. Réglez ces deux points et le reste est simple.",
+      "introEs": "Ambleside es uno de los destinos más acogedores para perros de Inglaterra, pero dos cosas pillan por sorpresa a los visitantes: los trámites posteriores al Brexit para llevar un perro a Gran Bretaña y las normas del campo que protegen a las ovejas y la fauna en los fells. Acierta en ambas y lo demás es fácil.",
+      "introPt": "Ambleside é uma das vilas mais acolhedoras para cães de Inglaterra, mas duas coisas apanham os visitantes de surpresa: a papelada pós-Brexit para levar um cão para a Grã-Bretanha e as regras do campo que protegem as ovelhas e a fauna nos fells. Acerte nas duas e o resto é fácil.",
+      "sections": [
+        {
+          "titleEn": "Bringing your dog into Great Britain (post-Brexit)",
+          "titleFr": "Amener votre chien en Grande-Bretagne (post-Brexit)",
+          "titleEs": "Llevar a tu perro a Gran Bretaña (tras el Brexit)",
+          "titlePt": "Levar o seu cão para a Grã-Bretanha (pós-Brexit)",
+          "contentEn": "Since Brexit, Great Britain no longer accepts the EU Pet Passport for entry. Dogs arriving from the EU need a GB Animal Health Certificate (AHC) issued by an official vet within 10 days of travel, plus a microchip and a valid rabies vaccination, and dogs also need an approved tapeworm (Echinococcus) treatment recorded 24 to 120 hours before arrival. A GB pet passport issued in Great Britain is also valid. Sort this with your vet before you leave, as it cannot be done on arrival.",
+          "contentFr": "Depuis le Brexit, la Grande-Bretagne n'accepte plus le passeport pour animaux de l'UE à l'entrée. Les chiens venant de l'UE ont besoin d'un Animal Health Certificate (AHC) britannique délivré par un vétérinaire officiel dans les 10 jours précédant le voyage, d'une puce et d'une vaccination antirabique valide, et les chiens doivent aussi recevoir un traitement approuvé contre le ténia (Echinococcus) consigné 24 à 120 heures avant l'arrivée. Un passeport pour animaux émis en Grande-Bretagne est également valable. Réglez cela avec votre vétérinaire avant de partir, car cela ne peut pas se faire à l'arrivée.",
+          "contentEs": "Desde el Brexit, Gran Bretaña ya no acepta el Pasaporte Europeo para Mascotas en la entrada. Los perros que llegan de la UE necesitan un Animal Health Certificate (AHC) británico emitido por un veterinario oficial en los 10 días previos al viaje, más un microchip y una vacunación antirrábica válida, y los perros también necesitan un tratamiento aprobado contra la tenia (Echinococcus) registrado entre 24 y 120 horas antes de la llegada. Un pasaporte para mascotas emitido en Gran Bretaña también es válido. Resuelve esto con tu veterinario antes de salir, porque no puede hacerse a la llegada.",
+          "contentPt": "Desde o Brexit, a Grã-Bretanha já não aceita o Passaporte Europeu para Animais na entrada. Os cães que chegam da UE precisam de um Animal Health Certificate (AHC) britânico emitido por um veterinário oficial nos 10 dias anteriores à viagem, mais um microchip e uma vacinação antirrábica válida, e os cães também precisam de um tratamento aprovado contra a ténia (Echinococcus) registado entre 24 e 120 horas antes da chegada. Um passaporte para animais emitido na Grã-Bretanha também é válido. Trate disto com o seu veterinário antes de sair, porque não pode ser feito à chegada."
+        },
+        {
+          "titleEn": "Fell safety and the Countryside Code",
+          "titleFr": "Sécurité sur les fells et le Countryside Code",
+          "titleEs": "Seguridad en los fells y el Countryside Code",
+          "titlePt": "Segurança nos fells e o Countryside Code",
+          "contentEn": "Dogs are welcome on the fells, but the land is farmed: keep your dog on a lead near sheep and cattle, and during the spring ground-nesting bird season, and never let it chase livestock. In summer, watch for blue-green algae in Windermere and Rydal Water, which can be fatal, and check the water before a swim. Fell weather changes fast, so carry water, a towel and a spare lead, and always clean up after your dog.",
+          "contentFr": "Les chiens sont les bienvenus sur les fells, mais la terre est exploitée : tenez votre chien en laisse près des moutons et des bovins, et pendant la saison de nidification au sol au printemps, et ne le laissez jamais poursuivre le bétail. En été, surveillez les algues bleu-vert dans Windermere et Rydal Water, qui peuvent être mortelles, et vérifiez l'eau avant une baignade. La météo des fells change vite : emportez de l'eau, une serviette et une laisse de rechange, et ramassez toujours les déjections de votre chien.",
+          "contentEs": "Los perros son bienvenidos en los fells, pero la tierra se explota: mantén al perro con correa cerca de ovejas y vacas, y durante la temporada de aves que anidan en el suelo en primavera, y no dejes nunca que persiga al ganado. En verano, vigila las algas verdiazules de Windermere y Rydal Water, que pueden ser mortales, y comprueba el agua antes de un baño. El tiempo en los fells cambia rápido: lleva agua, una toalla y una correa de repuesto, y recoge siempre lo de tu perro.",
+          "contentPt": "Os cães são bem-vindos nos fells, mas a terra é explorada: mantenha o cão à trela perto de ovelhas e vacas, e durante a época de nidificação no solo na primavera, e nunca o deixe perseguir o gado. No verão, vigie as algas azul-esverdeadas de Windermere e Rydal Water, que podem ser fatais, e verifique a água antes de um banho. O tempo nos fells muda depressa: leve água, uma toalha e uma trela suplente, e recolha sempre os dejetos do seu cão."
+        },
+        {
+          "titleEn": "When to visit and the weather",
+          "titleFr": "Quand venir et la météo",
+          "titleEs": "Cuándo visitar y el tiempo",
+          "titlePt": "Quando visitar e o tempo",
+          "contentEn": "The Lake District is one of the wettest corners of England, so pack waterproofs and a dog towel whatever the month. Late spring and early autumn give the best mix of long walks and thinner crowds; midsummer is warmest and best for lake swimming but busiest, and winter is quiet, cold and often the most dramatic on the fells. Whatever the season, the walking is the point, and dogs love it year-round.",
+          "contentFr": "Le Lake District est l'un des coins les plus pluvieux d'Angleterre : emportez des vêtements imperméables et une serviette pour chien quel que soit le mois. La fin du printemps et le début de l'automne offrent le meilleur équilibre entre longues marches et affluence réduite ; le cœur de l'été est le plus chaud et le meilleur pour la baignade mais aussi le plus fréquenté, et l'hiver est calme, froid et souvent le plus spectaculaire sur les fells. Quelle que soit la saison, tout tourne autour de la marche, et les chiens adorent ça toute l'année.",
+          "contentEs": "El Lake District es uno de los rincones más lluviosos de Inglaterra: lleva ropa impermeable y una toalla para el perro sea cual sea el mes. El final de la primavera y el principio del otoño ofrecen la mejor combinación de largas caminatas y menos gente; pleno verano es lo más cálido y lo mejor para el baño en el lago pero también lo más concurrido, y el invierno es tranquilo, frío y a menudo lo más espectacular en los fells. Sea cual sea la estación, todo gira en torno a caminar, y a los perros les encanta todo el año.",
+          "contentPt": "O Lake District é um dos cantos mais chuvosos de Inglaterra: leve roupa impermeável e uma toalha para o cão seja qual for o mês. O fim da primavera e o início do outono oferecem a melhor combinação de longas caminhadas e menos gente; pleno verão é o mais quente e o melhor para o banho no lago mas também o mais movimentado, e o inverno é tranquilo, frio e muitas vezes o mais espetacular nos fells. Seja qual for a estação, tudo gira à volta de caminhar, e os cães adoram isso todo o ano."
+        }
+      ],
+      "places": [],
+      "tipsEn": [
+        "Sort your dog's GB Animal Health Certificate with your vet before you leave home; it must be issued within 10 days of travel and cannot be arranged on arrival.",
+        "Carry the lead everywhere on the fells and clip up the moment you see sheep or cattle; a single chased ewe can be a serious offence as well as a welfare issue.",
+        "Pack for rain and check for blue-green algae before any lake swim; a towel and fresh water for your dog earn their place in the pack every day here."
+      ],
+      "tipsFr": [
+        "Réglez l'Animal Health Certificate britannique de votre chien avec votre vétérinaire avant de partir ; il doit être délivré dans les 10 jours précédant le voyage et ne peut pas s'obtenir à l'arrivée.",
+        "Gardez la laisse partout sur les fells et attachez le chien dès que vous voyez des moutons ou des bovins ; poursuivre une seule brebis peut constituer une infraction grave en plus d'un problème de bien-être animal.",
+        "Prévoyez la pluie et vérifiez les algues bleu-vert avant toute baignade ; une serviette et de l'eau fraîche pour votre chien méritent leur place dans le sac chaque jour ici."
+      ],
+      "tipsEs": [
+        "Gestiona el Animal Health Certificate británico de tu perro con tu veterinario antes de salir de casa; debe emitirse en los 10 días previos al viaje y no puede tramitarse a la llegada.",
+        "Lleva la correa a todas partes en los fells y sujeta al perro en cuanto veas ovejas o vacas; perseguir a una sola oveja puede ser un delito grave además de un problema de bienestar animal.",
+        "Prepárate para la lluvia y comprueba las algas verdiazules antes de cualquier baño en el lago; una toalla y agua fresca para tu perro se ganan su sitio en la mochila cada día aquí."
+      ],
+      "tipsPt": [
+        "Trate do Animal Health Certificate britânico do seu cão com o veterinário antes de sair de casa; tem de ser emitido nos 10 dias anteriores à viagem e não pode ser tratado à chegada.",
+        "Leve a trela para toda a parte nos fells e prenda o cão assim que vir ovelhas ou vacas; perseguir uma única ovelha pode ser uma infração grave além de um problema de bem-estar animal.",
+        "Prepare-se para a chuva e verifique as algas azul-esverdeadas antes de qualquer banho no lago; uma toalha e água fresca para o cão merecem o seu lugar na mochila todos os dias aqui."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is Ambleside a good place to visit with a dog?",
+          "a": "Yes, it is one of the best in England. Dogs are welcome in most pubs, travel free on the Windermere Lake Cruises from Waterhead, and can walk almost every fell and footpath around the lake head, provided you keep them on a lead near livestock and watch for blue-green algae in summer."
+        },
+        {
+          "q": "Do EU visitors need special paperwork to bring a dog to Ambleside?",
+          "a": "Yes. Because Ambleside is in Great Britain, EU visitors cannot use the EU Pet Passport. Your dog needs a GB Animal Health Certificate issued within 10 days of travel, a microchip, a valid rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Ambleside est-il un bon endroit à visiter avec un chien ?",
+          "a": "Oui, c'est l'un des meilleurs d'Angleterre. Les chiens sont bienvenus dans la plupart des pubs, voyagent gratuitement sur les Windermere Lake Cruises depuis Waterhead et peuvent parcourir presque tous les fells et sentiers autour de la tête du lac, à condition de les tenir en laisse près du bétail et de surveiller les algues bleu-vert en été."
+        },
+        {
+          "q": "Les visiteurs de l'UE ont-ils besoin de formalités particulières pour amener un chien à Ambleside ?",
+          "a": "Oui. Comme Ambleside est en Grande-Bretagne, les visiteurs de l'UE ne peuvent pas utiliser le passeport pour animaux de l'UE. Votre chien a besoin d'un Animal Health Certificate britannique délivré dans les 10 jours précédant le voyage, d'une puce, d'une vaccination antirabique valide et d'un traitement anti-ténia 24 à 120 heures avant l'arrivée."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Es Ambleside un buen lugar para visitar con un perro?",
+          "a": "Sí, es uno de los mejores de Inglaterra. Los perros son bienvenidos en la mayoría de los pubs, viajan gratis en los Windermere Lake Cruises desde Waterhead y pueden recorrer casi todos los fells y senderos en torno a la cabecera del lago, siempre que los mantengas con correa cerca del ganado y vigiles las algas verdiazules en verano."
+        },
+        {
+          "q": "Necesitan los visitantes de la UE documentación especial para llevar un perro a Ambleside?",
+          "a": "Sí. Como Ambleside está en Gran Bretaña, los visitantes de la UE no pueden usar el Pasaporte Europeo para Mascotas. Tu perro necesita un Animal Health Certificate británico emitido en los 10 días previos al viaje, un microchip, una vacunación antirrábica válida y un tratamiento antitenia entre 24 y 120 horas antes de la llegada."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Ambleside é um bom lugar para visitar com um cão?",
+          "a": "Sim, é um dos melhores de Inglaterra. Os cães são bem-vindos na maioria dos pubs, viajam grátis nos Windermere Lake Cruises a partir de Waterhead e podem percorrer quase todos os fells e caminhos à volta da cabeceira do lago, desde que os mantenha à trela perto do gado e vigie as algas azul-esverdeadas no verão."
+        },
+        {
+          "q": "Os visitantes da UE precisam de documentação especial para levar um cão a Ambleside?",
+          "a": "Sim. Como Ambleside fica na Grã-Bretanha, os visitantes da UE não podem usar o Passaporte Europeu para Animais. O seu cão precisa de um Animal Health Certificate britânico emitido nos 10 dias anteriores à viagem, de um microchip, de uma vacinação antirrábica válida e de um tratamento contra a ténia entre 24 e 120 horas antes da chegada."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Ambleside",
+      "titleFr": "Attractions qui accueillent les chiens à Ambleside",
+      "titleEs": "Atracciones que admiten perros en Ambleside",
+      "titlePt": "Atrações que acolhem cães em Ambleside",
+      "introEn": "The headline dog day out in Ambleside is Lake Windermere itself, and a cruise from the Waterhead pier welcomes dogs free of charge. Around the town, several sights let dogs in too, from the tiny Bridge House that is the town's emblem to a hillside National Trust garden, so you rarely have to leave your dog behind.",
+      "introFr": "La grande sortie canine à Ambleside, c'est le lac Windermere lui-même, et une croisière depuis l'embarcadère de Waterhead accueille les chiens gratuitement. Autour de la ville, plusieurs sites admettent aussi les chiens, de la minuscule Bridge House, emblème de la ville, à un jardin du National Trust à flanc de colline : vous n'avez donc que rarement à laisser votre chien de côté.",
+      "introEs": "La gran salida canina en Ambleside es el propio lago Windermere, y un crucero desde el embarcadero de Waterhead admite perros gratis. Alrededor del pueblo, varios lugares también dejan entrar a los perros, desde la diminuta Bridge House, emblema del pueblo, hasta un jardín del National Trust en la ladera, así que rara vez tienes que dejar a tu perro atrás.",
+      "introPt": "A grande saída canina em Ambleside é o próprio lago Windermere, e um cruzeiro a partir do cais de Waterhead aceita cães gratuitamente. À volta da vila, vários locais também deixam entrar os cães, da minúscula Bridge House, emblema da vila, a um jardim do National Trust na encosta, por isso raramente tem de deixar o seu cão para trás.",
+      "places": [
+        {
+          "name": "Windermere Lake Cruises (Waterhead)",
+          "neighborhood": "Waterhead pier, Ambleside",
+          "photo": "/images/city-places/ambleside-attractions-lake-cruises.jpg",
+          "website": "https://www.windermere-lakecruises.co.uk/about-us/dog-friendly-attraction",
+          "description": "The best way to see England's largest lake, on classic steamers and launches that run from the Waterhead pier at the head of Windermere down to Bowness, Brockhole and Lakeside. Dogs travel free on every scheduled sailing, with water bowls provided on board.",
+          "descriptionFr": "La meilleure façon de découvrir le plus grand lac d'Angleterre, à bord de vapeurs classiques et de vedettes qui partent de l'embarcadère de Waterhead, à la tête de Windermere, jusqu'à Bowness, Brockhole et Lakeside. Les chiens voyagent gratuitement sur chaque traversée régulière, avec des gamelles d'eau fournies à bord.",
+          "descriptionEs": "La mejor manera de ver el mayor lago de Inglaterra, en vapores clásicos y lanchas que salen del embarcadero de Waterhead, en la cabecera de Windermere, hacia Bowness, Brockhole y Lakeside. Los perros viajan gratis en cada travesía regular, con cuencos de agua incluidos a bordo.",
+          "descriptionPt": "A melhor forma de ver o maior lago de Inglaterra, em vapores clássicos e lanchas que partem do cais de Waterhead, na cabeceira de Windermere, até Bowness, Brockhole e Lakeside. Os cães viajam grátis em cada travessia regular, com taças de água disponibilizadas a bordo.",
+          "dogPolicy": "All dogs welcome free of charge, on a lead and off the seats; no booking needed.",
+          "dogPolicyFr": "Tous les chiens bienvenus gratuitement, tenus en laisse et hors des sièges ; sans réservation.",
+          "dogPolicyEs": "Todos los perros bienvenidos gratis, con correa y fuera de los asientos; sin reserva.",
+          "dogPolicyPt": "Todos os cães bem-vindos gratuitamente, à trela e fora dos bancos; sem reserva.",
+          "admissionFee": "Dogs free; adult fares vary by route",
+          "admissionFeeFr": "Chiens gratuits ; tarifs adultes selon l'itinéraire",
+          "admissionFeeEs": "Perros gratis; tarifas de adulto según la ruta",
+          "admissionFeePt": "Cães grátis; tarifas de adulto conforme a rota",
+          "tip": "Take the cruise down to Brockhole or Bowness and combine it with a lakeshore walk; the open top decks are the nicest place for a dog on a clear day.",
+          "tipFr": "Prenez la croisière jusqu'à Brockhole ou Bowness et combinez-la avec une promenade au bord du lac ; les ponts supérieurs ouverts sont le meilleur endroit pour un chien par temps clair.",
+          "tipEs": "Toma el crucero hasta Brockhole o Bowness y combínalo con un paseo por la orilla; las cubiertas superiores abiertas son el mejor sitio para un perro en un día despejado.",
+          "tipPt": "Apanhe o cruzeiro até Brockhole ou Bowness e combine-o com um passeio pela margem; os conveses superiores abertos são o melhor sítio para um cão num dia limpo.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Windermere+Lake+Cruises+Waterhead+Ambleside"
+        },
+        {
+          "name": "Bridge House (National Trust)",
+          "neighborhood": "Rydal Road, Ambleside",
+          "photo": "/images/city-places/ambleside-attractions-bridge-house.jpg",
+          "website": "https://www.nationaltrust.org.uk/visit/lake-district/stagshaw-garden-and-ambleside",
+          "description": "The tiny 17th-century house perched on a single arch over Stock Beck, one of the most photographed buildings in the Lake District and the emblem of Ambleside. The exterior, its steps and the little garden beside it are open around the clock, so it makes a charming free stop on any town stroll with a dog.",
+          "descriptionFr": "La minuscule maison du XVIIe siècle perchée sur une seule arche au-dessus de Stock Beck, l'un des bâtiments les plus photographiés du Lake District et l'emblème d'Ambleside. L'extérieur, ses marches et le petit jardin à côté sont accessibles à toute heure : c'est donc une halte gratuite et charmante lors d'une promenade en ville avec un chien.",
+          "descriptionEs": "La diminuta casa del siglo XVII encaramada sobre un solo arco sobre Stock Beck, uno de los edificios más fotografiados del Lake District y el emblema de Ambleside. El exterior, sus escalones y el pequeño jardín de al lado están abiertos a todas horas, así que es una parada gratuita y encantadora en cualquier paseo por el pueblo con perro.",
+          "descriptionPt": "A minúscula casa do século XVII empoleirada sobre um único arco por cima de Stock Beck, um dos edifícios mais fotografados do Lake District e o emblema de Ambleside. O exterior, os seus degraus e o pequeno jardim ao lado estão abertos a qualquer hora, por isso é uma paragem gratuita e encantadora em qualquer passeio pela vila com um cão.",
+          "dogPolicy": "Outside, the steps and the garden are open 24 hours; only assistance dogs are allowed inside the tiny house.",
+          "dogPolicyFr": "L'extérieur, les marches et le jardin sont ouverts 24h/24 ; seuls les chiens d'assistance sont admis à l'intérieur de la petite maison.",
+          "dogPolicyEs": "El exterior, los escalones y el jardín están abiertos 24 horas; solo los perros de asistencia pueden entrar en la casita.",
+          "dogPolicyPt": "O exterior, os degraus e o jardim estão abertos 24 horas; só os cães de assistência podem entrar na casinha.",
+          "admissionFee": "Free to view from outside",
+          "admissionFeeFr": "Gratuit à voir de l'extérieur",
+          "admissionFeeEs": "Gratis para ver desde fuera",
+          "admissionFeePt": "Grátis para ver do exterior",
+          "tip": "It sits right on the walk into town from the Rydal Road car park, so it is an easy photo stop; the interior is too small for dogs, but the outside is the point.",
+          "tipFr": "Elle se trouve sur le chemin vers le centre depuis le parking de Rydal Road : une halte photo facile ; l'intérieur est trop petit pour les chiens, mais c'est l'extérieur qui compte.",
+          "tipEs": "Está justo en el camino al centro desde el aparcamiento de Rydal Road, así que es una parada fácil para fotos; el interior es demasiado pequeño para perros, pero lo que importa es el exterior.",
+          "tipPt": "Fica mesmo no caminho para o centro a partir do parque de Rydal Road, por isso é uma paragem fácil para fotos; o interior é pequeno demais para cães, mas o que conta é o exterior.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bridge+House+Ambleside"
+        },
+        {
+          "name": "Stagshaw Garden (National Trust)",
+          "neighborhood": "Above Waterhead, south of Ambleside",
+          "photo": "/images/city-places/ambleside-attractions-stagshaw-garden.jpg",
+          "website": "https://www.nationaltrust.org.uk/visit/lake-district/stagshaw-garden-and-ambleside/visiting-stagshaw-garden-and-ambleside-with-your-dog",
+          "description": "A tranquil woodland garden on the hillside above Waterhead, famous in spring for its rhododendrons, azaleas and camellias, with paths leading up into Skelghyll Woods and to the Jenkin Crag viewpoint over the lake. Dogs on leads are welcome in the garden and the surrounding woods.",
+          "descriptionFr": "Un paisible jardin boisé à flanc de colline au-dessus de Waterhead, réputé au printemps pour ses rhododendrons, azalées et camélias, avec des sentiers qui montent dans les bois de Skelghyll et jusqu'au belvédère de Jenkin Crag sur le lac. Les chiens en laisse sont les bienvenus dans le jardin et les bois alentour.",
+          "descriptionEs": "Un tranquilo jardín boscoso en la ladera por encima de Waterhead, famoso en primavera por sus rododendros, azaleas y camelias, con senderos que suben a los bosques de Skelghyll y al mirador de Jenkin Crag sobre el lago. Los perros con correa son bienvenidos en el jardín y los bosques de alrededor.",
+          "descriptionPt": "Um tranquilo jardim arborizado na encosta acima de Waterhead, famoso na primavera pelos seus rododendros, azáleas e camélias, com trilhos que sobem para os bosques de Skelghyll e até ao miradouro de Jenkin Crag sobre o lago. Os cães à trela são bem-vindos no jardim e nos bosques em redor.",
+          "dogPolicy": "Dogs on leads welcome; animals graze here, so keep your dog leashed and take any mess home.",
+          "dogPolicyFr": "Chiens en laisse bienvenus ; des animaux pâturent ici, gardez donc votre chien en laisse et remportez les déjections.",
+          "dogPolicyEs": "Perros con correa bienvenidos; aquí pasta ganado, así que mantén al perro con correa y llévate lo que haga.",
+          "dogPolicyPt": "Cães à trela bem-vindos; há gado a pastar aqui, por isso mantenha o cão à trela e leve os dejetos consigo.",
+          "admissionFee": "Free; parking at Waterhead nearby",
+          "admissionFeeFr": "Gratuit ; stationnement à Waterhead à proximité",
+          "admissionFeeEs": "Gratis; aparcamiento en Waterhead cerca",
+          "admissionFeePt": "Grátis; estacionamento em Waterhead por perto",
+          "tip": "Combine the garden with the woodland walk up to Jenkin Crag for one of the best easy lake views near Ambleside; spring is the garden's peak.",
+          "tipFr": "Associez le jardin à la promenade boisée jusqu'à Jenkin Crag pour l'une des plus belles vues faciles sur le lac près d'Ambleside ; le printemps est l'apogée du jardin.",
+          "tipEs": "Combina el jardín con el paseo por el bosque hasta Jenkin Crag para una de las mejores vistas fáciles del lago cerca de Ambleside; la primavera es el momento cumbre del jardín.",
+          "tipPt": "Combine o jardim com o passeio pelo bosque até Jenkin Crag para uma das melhores vistas fáceis do lago perto de Ambleside; a primavera é o auge do jardim.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Stagshaw+Garden+Ambleside"
+        }
+      ],
+      "tipsEn": [
+        "Windermere Lake Cruises double as sightseeing and dog-friendly transport; a Waterhead to Bowness sailing plus a lakeshore walk makes an easy day.",
+        "National Trust sites around Ambleside welcome leashed dogs in gardens and woods but often not inside historic interiors, so check the signs at each one.",
+        "Bridge House is best enjoyed from the outside with a dog, as only assistance dogs go inside; it is right on the town walk from the Rydal Road car park."
+      ],
+      "tipsFr": [
+        "Windermere Lake Cruises sert à la fois d'excursion et de transport acceptant les chiens ; une traversée de Waterhead à Bowness plus une promenade au bord du lac font une journée facile.",
+        "Les sites du National Trust autour d'Ambleside accueillent les chiens en laisse dans les jardins et les bois, mais souvent pas dans les intérieurs historiques : vérifiez les panneaux à chaque site.",
+        "Bridge House se profite mieux de l'extérieur avec un chien, car seuls les chiens d'assistance entrent ; elle est sur le chemin vers le centre depuis le parking de Rydal Road."
+      ],
+      "tipsEs": [
+        "Windermere Lake Cruises sirve a la vez de excursión y de transporte que admite perros; una travesía de Waterhead a Bowness más un paseo por la orilla forman un día fácil.",
+        "Los sitios del National Trust en torno a Ambleside admiten perros con correa en jardines y bosques, pero a menudo no en los interiores históricos, así que comprueba los carteles en cada uno.",
+        "Bridge House se disfruta mejor desde fuera con un perro, ya que solo los perros de asistencia entran; está justo en el camino al centro desde el aparcamiento de Rydal Road."
+      ],
+      "tipsPt": [
+        "Windermere Lake Cruises serve ao mesmo tempo de passeio e de transporte que aceita cães; uma travessia de Waterhead a Bowness mais um passeio pela margem fazem um dia fácil.",
+        "Os sítios do National Trust à volta de Ambleside acolhem cães à trela em jardins e bosques, mas muitas vezes não nos interiores históricos, por isso verifique as placas em cada um.",
+        "A Bridge House aproveita-se melhor do exterior com um cão, já que só os cães de assistência entram; fica mesmo no caminho para o centro a partir do parque de Rydal Road."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on a Windermere lake cruise from Ambleside?",
+          "a": "Yes. Windermere Lake Cruises welcome all dogs free of charge on a lead from the Waterhead pier, with water bowls on board and no need to book. Keep your dog off the seats, and on busy sailings staff may ask you to move to give other passengers space."
+        },
+        {
+          "q": "Which Ambleside attractions allow dogs?",
+          "a": "The lake cruises from Waterhead, the outside of Bridge House and Stagshaw Garden with its surrounding woods all welcome leashed dogs. Only assistance dogs go inside Bridge House, and historic interiors elsewhere often exclude dogs, so the lake, gardens and fells are the focus."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien sur une croisière du lac Windermere depuis Ambleside ?",
+          "a": "Oui. Windermere Lake Cruises accueille tous les chiens gratuitement en laisse depuis l'embarcadère de Waterhead, avec des gamelles d'eau à bord et sans réservation. Gardez votre chien hors des sièges ; lors des traversées chargées, le personnel peut vous demander de vous déplacer pour laisser de la place aux autres passagers."
+        },
+        {
+          "q": "Quelles attractions d'Ambleside admettent les chiens ?",
+          "a": "Les croisières du lac depuis Waterhead, l'extérieur de Bridge House et Stagshaw Garden avec ses bois alentour accueillent tous les chiens en laisse. Seuls les chiens d'assistance entrent dans Bridge House, et les intérieurs historiques ailleurs excluent souvent les chiens : le lac, les jardins et les fells sont donc le cœur."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Puedo llevar a mi perro en un crucero por el lago Windermere desde Ambleside?",
+          "a": "Sí. Windermere Lake Cruises admite todos los perros gratis con correa desde el embarcadero de Waterhead, con cuencos de agua a bordo y sin necesidad de reservar. Mantén al perro fuera de los asientos; en travesías concurridas el personal puede pedirte que te muevas para dejar espacio a otros pasajeros."
+        },
+        {
+          "q": "Qué atracciones de Ambleside admiten perros?",
+          "a": "Los cruceros del lago desde Waterhead, el exterior de Bridge House y Stagshaw Garden con sus bosques admiten perros con correa. Solo los perros de asistencia entran en Bridge House, y los interiores históricos suelen excluir perros, así que el lago, los jardines y los fells son el foco."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão num cruzeiro pelo lago Windermere a partir de Ambleside?",
+          "a": "Sim. A Windermere Lake Cruises aceita todos os cães grátis à trela a partir do cais de Waterhead, com taças de água a bordo e sem necessidade de reservar. Mantenha o cão fora dos bancos; nas travessias movimentadas o pessoal pode pedir-lhe que se mova para dar espaço a outros passageiros."
+        },
+        {
+          "q": "Que atrações de Ambleside aceitam cães?",
+          "a": "Os cruzeiros do lago a partir de Waterhead, o exterior da Bridge House e o Stagshaw Garden com os seus bosques aceitam cães à trela. Só os cães de assistência entram na Bridge House, e os interiores históricos costumam excluir cães, por isso o lago, os jardins e os fells são o foco."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitting and Walking in Ambleside",
+      "titleFr": "Garde et promenade de chiens à Ambleside",
+      "titleEs": "Cuidado y paseo de perros en Ambleside",
+      "titlePt": "Guarda e passeio de cães em Ambleside",
+      "introEn": "If you want to climb a high fell like Fairfield or take a trip that is not ideal for your dog, national platforms can connect you with vetted local sitters and walkers around Ambleside and the wider Lake District. Book well ahead in peak summer and school holidays, when demand in this small resort town is high.",
+      "introFr": "Si vous voulez gravir un haut fell comme Fairfield ou faire une sortie peu adaptée à votre chien, des plateformes nationales vous mettent en relation avec des gardiens et promeneurs locaux vérifiés autour d'Ambleside et dans tout le Lake District. Réservez bien à l'avance en plein été et pendant les vacances scolaires, quand la demande dans cette petite ville touristique est forte.",
+      "introEs": "Si quieres subir un fell alto como Fairfield o hacer una salida poco adecuada para tu perro, las plataformas nacionales te conectan con cuidadores y paseadores locales verificados en torno a Ambleside y en todo el Lake District. Reserva con bastante antelación en pleno verano y en vacaciones escolares, cuando la demanda en esta pequeña ciudad turística es alta.",
+      "introPt": "Se quiser subir um fell alto como o Fairfield ou fazer uma saída pouco adequada ao seu cão, as plataformas nacionais ligam-no a cuidadores e passeadores locais verificados à volta de Ambleside e em todo o Lake District. Reserve com bastante antecedência em pleno verão e nas férias escolares, quando a procura nesta pequena cidade turística é alta.",
+      "places": [
+        {
+          "name": "Rover UK",
+          "website": "https://www.rover.com/uk/",
+          "description": "The largest pet-care platform in the UK, with local dog sitters, boarders and walkers listed across Cumbria and the Lake District. Every sitter has a profile, reviews and photos, and you book and pay through the app with cover included.",
+          "descriptionFr": "La plus grande plateforme de garde d'animaux du Royaume-Uni, avec des gardiens, pensions et promeneurs locaux référencés dans toute la Cumbria et le Lake District. Chaque intervenant a un profil, des avis et des photos, et vous réservez et payez via l'application avec une assurance incluse.",
+          "descriptionEs": "La mayor plataforma de cuidado de mascotas del Reino Unido, con cuidadores, alojadores y paseadores locales listados por toda Cumbria y el Lake District. Cada cuidador tiene perfil, reseñas y fotos, y reservas y pagas a través de la app con cobertura incluida.",
+          "descriptionPt": "A maior plataforma de cuidado de animais do Reino Unido, com cuidadores, alojadores e passeadores locais listados por toda a Cumbria e o Lake District. Cada cuidador tem perfil, avaliações e fotos, e reserva e paga através da app com cobertura incluída.",
+          "serviceType": "Dog boarding, day care, drop-in visits and walking",
+          "serviceTypeFr": "Pension, garderie, visites à domicile et promenade",
+          "serviceTypeEs": "Alojamiento, guardería, visitas a domicilio y paseo",
+          "serviceTypePt": "Alojamento, creche, visitas ao domicílio e passeio",
+          "pricePerDay": "From around £20-£35 per day",
+          "languages": ["English"],
+          "tip": "Message two or three sitters early and arrange a short meet-and-greet before your trip so your dog is comfortable before the day you need cover.",
+          "tipFr": "Contactez deux ou trois gardiens tôt et organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avant le jour où vous avez besoin de la garde.",
+          "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo a tu viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
+          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço."
+        },
+        {
+          "name": "Tailster",
+          "website": "https://www.tailster.com/",
+          "description": "A UK-wide network of insured, vetted dog walkers and sitters that matches you with local carers based on your dates and your dog's needs. It is a useful alternative to Rover for finding cover for a half-day walk or a full day out on the fells.",
+          "descriptionFr": "Un réseau britannique de promeneurs et gardiens de chiens assurés et vérifiés, qui vous associe à des intervenants locaux selon vos dates et les besoins de votre chien. C'est une alternative utile à Rover pour trouver une garde le temps d'une demi-journée de marche ou d'une journée entière sur les fells.",
+          "descriptionEs": "Una red de ámbito británico de paseadores y cuidadores de perros asegurados y verificados que te empareja con cuidadores locales según tus fechas y las necesidades de tu perro. Es una alternativa útil a Rover para encontrar cobertura para un paseo de medio día o una jornada completa por los fells.",
+          "descriptionPt": "Uma rede de âmbito britânico de passeadores e cuidadores de cães segurados e verificados que o combina com cuidadores locais consoante as suas datas e as necessidades do seu cão. É uma alternativa útil ao Rover para encontrar cobertura para um passeio de meio dia ou um dia inteiro pelos fells.",
+          "serviceType": "Dog walking, day care and home boarding",
+          "serviceTypeFr": "Promenade, garderie et pension à domicile",
+          "serviceTypeEs": "Paseo, guardería y alojamiento en casa",
+          "serviceTypePt": "Passeio, creche e alojamento ao domicílio",
+          "pricePerDay": "From around £18-£30 per day",
+          "languages": ["English"],
+          "tip": "Give clear notes on your dog's recall and reaction to sheep, since Lakeland carers often walk in fields and open fell where livestock is present.",
+          "tipFr": "Donnez des indications claires sur le rappel de votre chien et sa réaction aux moutons, car les intervenants du Lakeland promènent souvent dans des champs et sur le fell ouvert où il y a du bétail.",
+          "tipEs": "Da indicaciones claras sobre la llamada de vuelta de tu perro y su reacción ante las ovejas, ya que los cuidadores del Lakeland suelen pasear por prados y fell abierto donde hay ganado.",
+          "tipPt": "Dê indicações claras sobre a chamada de retorno do seu cão e a sua reação às ovelhas, já que os cuidadores do Lakeland passeiam muitas vezes por campos e fell aberto onde há gado."
+        }
+      ],
+      "tipsEn": [
+        "Book sitters and walkers well ahead for peak summer and school holidays, when Ambleside is at its busiest and local carers fill up.",
+        "Arrange a meet-and-greet before you rely on a sitter, and share your dog's vaccination records, vet details and the Oakhill Windermere emergency number.",
+        "For high-fell days, a local walker who knows the sheep-grazed routes can be a safer choice than leaving a bored dog behind."
+      ],
+      "tipsFr": [
+        "Réservez gardiens et promeneurs bien à l'avance pour le cœur de l'été et les vacances scolaires, quand Ambleside est au plus fréquenté et que les intervenants locaux sont complets.",
+        "Organisez une rencontre avant de compter sur un gardien, et transmettez le carnet de vaccination de votre chien, les coordonnées de votre vétérinaire et le numéro d'urgence Oakhill de Windermere.",
+        "Pour les journées sur les hauts fells, un promeneur local qui connaît les itinéraires pâturés par les moutons peut être un choix plus sûr que de laisser un chien s'ennuyer."
+      ],
+      "tipsEs": [
+        "Reserva cuidadores y paseadores con bastante antelación para pleno verano y vacaciones escolares, cuando Ambleside está más concurrida y los cuidadores locales se llenan.",
+        "Organiza un encuentro previo antes de confiar en un cuidador, y comparte la cartilla de vacunación de tu perro, los datos de tu veterinario y el número de urgencias de Oakhill Windermere.",
+        "Para los días de fell alto, un paseador local que conozca las rutas de pastoreo de ovejas puede ser una opción más segura que dejar a un perro aburrido en casa."
+      ],
+      "tipsPt": [
+        "Reserve cuidadores e passeadores com bastante antecedência para pleno verão e férias escolares, quando Ambleside está mais movimentada e os cuidadores locais se esgotam.",
+        "Combine um encontro prévio antes de confiar num cuidador, e partilhe o boletim de vacinação do seu cão, os dados do seu veterinário e o número de urgência da Oakhill Windermere.",
+        "Para os dias de fell alto, um passeador local que conheça os percursos com pastoreio de ovelhas pode ser uma opção mais segura do que deixar um cão aborrecido em casa."
+      ],
+      "faqsEn": [
+        {
+          "q": "How do I find a dog sitter in Ambleside?",
+          "a": "National platforms such as Rover and Tailster list vetted, insured sitters, boarders and walkers across Cumbria and the Lake District. You browse profiles and reviews, arrange a meet-and-greet, and book through the app; reserve early for peak summer and holidays."
+        },
+        {
+          "q": "Can I leave my dog while I climb a high fell?",
+          "a": "Yes. A local sitter or day-care through Rover or Tailster is ideal for a big fell day like Fairfield or the Fairfield Horseshoe, though many lower walks and the lake cruises are dog-friendly anyway. Share your dog's recall around sheep and its vet details with the carer."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Comment trouver un gardien de chien à Ambleside ?",
+          "a": "Des plateformes nationales comme Rover et Tailster référencent des gardiens, pensions et promeneurs vérifiés et assurés dans toute la Cumbria et le Lake District. Vous consultez les profils et les avis, organisez une rencontre et réservez via l'application ; réservez tôt pour le cœur de l'été et les vacances."
+        },
+        {
+          "q": "Puis-je laisser mon chien pendant que je gravis un haut fell ?",
+          "a": "Oui. Un gardien local ou une garderie via Rover ou Tailster est idéal pour une grosse journée sur un fell comme Fairfield ou le Fairfield Horseshoe, même si beaucoup de promenades basses et les croisières du lac acceptent de toute façon les chiens. Communiquez le rappel de votre chien près des moutons et les coordonnées de votre vétérinaire à l'intervenant."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "Cómo encuentro un cuidador de perros en Ambleside?",
+          "a": "Plataformas nacionales como Rover y Tailster listan cuidadores, alojadores y paseadores verificados y asegurados por toda Cumbria y el Lake District. Consultas perfiles y reseñas, organizas un encuentro y reservas por la app; reserva pronto para pleno verano y vacaciones."
+        },
+        {
+          "q": "Puedo dejar a mi perro mientras subo un fell alto?",
+          "a": "Sí. Un cuidador local o una guardería por Rover o Tailster es ideal para un gran día de fell como Fairfield o el Fairfield Horseshoe, aunque muchos paseos bajos y los cruceros del lago admiten perros de todos modos. Comparte con el cuidador la llamada de vuelta de tu perro ante las ovejas y los datos de tu veterinario."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Como encontro um cuidador de cães em Ambleside?",
+          "a": "Plataformas nacionais como Rover e Tailster listam cuidadores, alojadores e passeadores verificados e segurados por toda a Cumbria e o Lake District. Consulta perfis e avaliações, combina um encontro e reserva pela app; reserve cedo para pleno verão e férias."
+        },
+        {
+          "q": "Posso deixar o meu cão enquanto subo um fell alto?",
+          "a": "Sim. Um cuidador local ou uma creche pelo Rover ou Tailster é ideal para um grande dia de fell como o Fairfield ou o Fairfield Horseshoe, embora muitos passeios baixos e os cruzeiros do lago aceitem cães de qualquer forma. Partilhe com o cuidador a chamada de retorno do seu cão perto das ovelhas e os dados do seu veterinário."
+        }
+      ]
+    }
+  }
+}

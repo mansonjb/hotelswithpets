@@ -1606,6 +1606,214 @@
     "slug": "la-bambagina-amalfi"
   },
   {
+    "id": "ambleside-1",
+    "name": "Diamond Lodge Boutique Adults Only Guest House",
+    "destinationSlug": "ambleside",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 818,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/diamond-lodge-boutique-adults-only-guest-house.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "diamond-lodge-boutique-adults-only-guest-house-ambleside",
+    "address": "Lake Road, Ambleside, LA22 0DN, United Kingdom",
+    "neighborhood": "Ambleside"
+  },
+  {
+    "id": "ambleside-2",
+    "name": "Macan",
+    "destinationSlug": "ambleside",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 15,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/macan-ambleside.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "macan-ambleside",
+    "address": "Ambleside, LA22 0LP, United Kingdom",
+    "neighborhood": "Ambleside"
+  },
+  {
+    "id": "ambleside-3",
+    "name": "Ambleside Apartment - Central - Dog Friendly",
+    "destinationSlug": "ambleside",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.4,
+    "reviewCount": 23,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/best-location-dog-friendly-modern-amazing-views.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
+    ],
+    "slug": "ambleside-apartment-central-dog-friendly-ambleside",
+    "address": "Ambleside, Cumbria, United Kingdom",
+    "neighborhood": "Ambleside"
+  },
+  {
+    "id": "ambleside-4",
+    "name": "Frost",
+    "destinationSlug": "ambleside",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 20,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/frost-ambleside.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "frost-ambleside",
+    "address": "Ambleside, LA22 0LP, United Kingdom",
+    "neighborhood": "Ambleside"
+  },
+  {
+    "id": "ambleside-5",
+    "name": "Prospect Cottage Studio",
+    "destinationSlug": "ambleside",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.6,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/prospect-cottage-studio.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "prospect-cottage-studio-ambleside",
+    "address": "Ambleside, LA22 9EB, United Kingdom",
+    "neighborhood": "Ambleside"
+  },
+  {
+    "id": "ambleside-6",
+    "name": "The Old Laundry",
+    "destinationSlug": "ambleside",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-old-laundry-ambleside.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "the-old-laundry-ambleside",
+    "address": "Ambleside, LA22 9LE, United Kingdom",
+    "neighborhood": "Ambleside"
+  },
+  {
+    "id": "ambleside-7",
+    "name": "Prospect Cottage Loft",
+    "destinationSlug": "ambleside",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/prospect-cottage-loft.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "prospect-cottage-loft-ambleside",
+    "address": "Ambleside, LA22 9EB, United Kingdom",
+    "neighborhood": "Ambleside"
+  },
+  {
+    "id": "ambleside-8",
+    "name": "Angle Tarn Cottage",
+    "destinationSlug": "ambleside",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/angle-tarn-cottage.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits and any conditions with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi"
+    ],
+    "slug": "angle-tarn-cottage-ambleside",
+    "address": "Ambleside, Cumbria, United Kingdom",
+    "neighborhood": "Ambleside"
+  },
+  {
     "id": "amsterdam-1",
     "name": "Anantara Grand Hotel Krasnapolsky Amsterdam",
     "destinationSlug": "amsterdam",

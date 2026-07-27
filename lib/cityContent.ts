@@ -1334,6 +1334,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  ambleside: {
+    history: {
+      fr: `Ambleside, jolie ville de pierre à la tête du lac Windermere, s'est développée autour du marché, des moulins à eau sur Stock Ghyll et, dès le XIXe siècle, du tourisme romantique attiré par les fells et les lacs. Toute proche, Rydal Mount fut la maison du poète William Wordsworth, et la région reste imprégnée de la culture des poètes lakistes. Aujourd'hui, Ambleside est l'une des grandes bases de marche du Lake District classé à l'UNESCO, et une culture canine britannique profonde s'y ajoute : les chiens sont admis sur presque tous les fells et sentiers, voyagent gratuitement sur les Windermere Lake Cruises depuis Waterhead, et sont accueillis dans la plupart des pubs. La marche est la raison de venir, de la cascade de Stock Ghyll Force, à quelques minutes du centre, au fell vallonné de Loughrigg. La minuscule Bridge House, perchée sur une arche au-dessus du ruisseau, est l'emblème de la ville. Note pratique : depuis le Brexit, un Animal Health Certificate britannique est exigé pour les chiens venant de l'UE.`,
+      en: `Ambleside, a handsome stone town at the head of Lake Windermere, grew up around its market, the watermills on Stock Ghyll and, from the 19th century, the Romantic tourism drawn by the fells and lakes. Nearby Rydal Mount was the home of the poet William Wordsworth, and the area is steeped in Lake Poets culture. Today Ambleside is one of the great walking bases of the UNESCO-listed Lake District, with a deep British dog-walking culture on top: dogs are welcome on nearly every fell and footpath, travel free on the Windermere Lake Cruises from Waterhead, and are welcomed in most of the pubs. Walking is the reason to come, from the Stock Ghyll Force waterfall a few minutes from the centre to the rambling Loughrigg Fell. The tiny Bridge House, perched on an arch over the beck, is the town's emblem. One practical note: since Brexit, a GB Animal Health Certificate is required for dogs arriving from the EU.`,
+      es: `Ambleside, una bonita ciudad de piedra en la cabecera del lago Windermere, creció en torno a su mercado, los molinos de agua de Stock Ghyll y, desde el siglo XIX, el turismo romántico atraído por los fells y los lagos. La cercana Rydal Mount fue la casa del poeta William Wordsworth, y la zona está impregnada de la cultura de los poetas lakistas. Hoy Ambleside es una de las grandes bases de senderismo del Lake District declarado Patrimonio de la UNESCO, con una honda cultura británica de paseo canino encima: los perros son bienvenidos en casi todos los fells y senderos, viajan gratis en los Windermere Lake Cruises desde Waterhead, y se les recibe en la mayoría de los pubs. Caminar es la razón de venir, desde la cascada de Stock Ghyll Force a pocos minutos del centro hasta el ondulado Loughrigg Fell. La diminuta Bridge House, encaramada sobre un arco sobre el arroyo, es el emblema del pueblo. Una nota práctica: desde el Brexit, se exige un Animal Health Certificate británico para los perros que llegan de la UE.`,
+      pt: `Ambleside, uma bela vila de pedra na cabeceira do lago Windermere, cresceu à volta do seu mercado, dos moinhos de água em Stock Ghyll e, a partir do século XIX, do turismo romântico atraído pelos fells e lagos. A vizinha Rydal Mount foi a casa do poeta William Wordsworth, e a região está impregnada da cultura dos poetas lakistas. Hoje Ambleside é uma das grandes bases de caminhadas do Lake District classificado pela UNESCO, com uma profunda cultura britânica de passeio canino por cima: os cães são bem-vindos em quase todos os fells e caminhos, viajam grátis nos Windermere Lake Cruises a partir de Waterhead, e são acolhidos na maioria dos pubs. Caminhar é a razão para vir, da cascata de Stock Ghyll Force a poucos minutos do centro ao ondulado Loughrigg Fell. A minúscula Bridge House, empoleirada sobre um arco por cima do riacho, é o emblema da vila. Uma nota prática: desde o Brexit, exige-se um Animal Health Certificate britânico para os cães que chegam da UE.`,
+    },
+    sights: [
+      {
+        name: 'Stock Ghyll Force',
+        emoji: '💦',
+        petFriendly: true,
+        desc: {
+          fr: `Cascade de 21 mètres au bout d'une promenade boisée facile de quelques minutes depuis la Market Cross. Chiens sans laisse sous contrôle dans les bois, en laisse près de l'eau et de la route.`,
+          en: `A 21-metre waterfall at the end of an easy wooded walk a few minutes from the Market Cross. Dogs off-lead under control in the woods, on the lead near the water and road.`,
+          es: `Cascada de 21 metros al final de un paseo boscoso fácil a pocos minutos de la Market Cross. Perros sin correa bajo control en el bosque, con correa cerca del agua y la carretera.`,
+          pt: `Cascata de 21 metros no fim de um passeio arborizado fácil a poucos minutos da Market Cross. Cães sem trela sob controlo no bosque, à trela perto da água e da estrada.`,
+        },
+      },
+      {
+        name: 'Loughrigg Fell',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          fr: `Fell bas et vallonné entre Ambleside, Rydal et Grasmere, avec de vastes vues et la grotte de Rydal Cave. Chiens sans laisse sous contrôle, en laisse près des moutons.`,
+          en: `A low, rambling fell between Ambleside, Rydal and Grasmere with huge views and the Rydal Cave. Dogs off-lead under control, on the lead near sheep.`,
+          es: `Fell bajo y ondulado entre Ambleside, Rydal y Grasmere con vistas enormes y la Rydal Cave. Perros sin correa bajo control, con correa cerca de las ovejas.`,
+          pt: `Fell baixo e ondulado entre Ambleside, Rydal e Grasmere com vistas enormes e a Rydal Cave. Cães sem trela sob controlo, à trela perto das ovelhas.`,
+        },
+      },
+      {
+        name: 'Rydal Water',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Petit lac peu profond aux baies tranquilles, favori pour la baignade des chiens, atteint depuis les bois de White Moss. Vérifiez les algues bleu-vert avant la baignade.`,
+          en: `A small, shallow lake with quiet bays, a favourite for dog swimming, reached from the White Moss woods. Check for blue-green algae before a swim.`,
+          es: `Lago pequeño y poco profundo con bahías tranquilas, favorito para el baño de perros, al que se llega desde los bosques de White Moss. Comprueba las algas verdiazules antes del baño.`,
+          pt: `Lago pequeno e pouco profundo com baías tranquilas, favorito para o banho de cães, alcançado a partir dos bosques de White Moss. Verifique as algas azul-esverdeadas antes do banho.`,
+        },
+      },
+      {
+        name: 'Windermere Lake Cruises (Waterhead)',
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `Vapeurs et vedettes classiques depuis l'embarcadère de Waterhead vers Bowness, Brockhole et Lakeside. Les chiens voyagent gratuitement, tenus en laisse, avec gamelles d'eau à bord.`,
+          en: `Classic steamers and launches from the Waterhead pier to Bowness, Brockhole and Lakeside. Dogs travel free, kept on a lead, with water bowls on board.`,
+          es: `Vapores y lanchas clásicas desde el embarcadero de Waterhead hacia Bowness, Brockhole y Lakeside. Los perros viajan gratis, con correa, con cuencos de agua a bordo.`,
+          pt: `Vapores e lanchas clássicas a partir do cais de Waterhead para Bowness, Brockhole e Lakeside. Os cães viajam grátis, à trela, com taças de água a bordo.`,
+        },
+      },
+      {
+        name: 'Bridge House',
+        emoji: '🏠',
+        petFriendly: true,
+        desc: {
+          fr: `Minuscule maison du XVIIe siècle sur une arche au-dessus de Stock Beck, l'emblème d'Ambleside. Extérieur, marches et jardin ouverts 24h/24 ; seuls les chiens d'assistance à l'intérieur.`,
+          en: `The tiny 17th-century house on an arch over Stock Beck, Ambleside's emblem. Outside, steps and garden open 24 hours; only assistance dogs inside.`,
+          es: `Diminuta casa del siglo XVII sobre un arco sobre Stock Beck, el emblema de Ambleside. Exterior, escalones y jardín abiertos 24 horas; solo perros de asistencia dentro.`,
+          pt: `Minúscula casa do século XVII sobre um arco por cima de Stock Beck, o emblema de Ambleside. Exterior, degraus e jardim abertos 24 horas; só cães de assistência no interior.`,
+        },
+      },
+      {
+        name: 'Stagshaw Garden',
+        emoji: '🌸',
+        petFriendly: true,
+        desc: {
+          fr: `Jardin boisé du National Trust au-dessus de Waterhead, réputé au printemps pour ses rhododendrons, avec des sentiers vers Jenkin Crag. Chiens en laisse (pâturage).`,
+          en: `A National Trust woodland garden above Waterhead, famed in spring for its rhododendrons, with paths up to Jenkin Crag. Dogs on a lead (grazing).`,
+          es: `Jardín boscoso del National Trust por encima de Waterhead, famoso en primavera por sus rododendros, con senderos hasta Jenkin Crag. Perros con correa (pastoreo).`,
+          pt: `Jardim arborizado do National Trust acima de Waterhead, famoso na primavera pelos seus rododendros, com trilhos até Jenkin Crag. Cães à trela (pastoreio).`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Tenez votre chien en laisse près des moutons et du bétail sur les fells et pendant la saison de nidification au sol au printemps ; un rappel fiable est indispensable sur le fell ouvert.`,
+        `En été, surveillez les algues bleu-vert dans Windermere et Rydal Water, potentiellement mortelles pour les chiens, et vérifiez l'eau avant toute baignade à Waterhead ou White Moss.`,
+        `Les chiens voyagent gratuitement sur les Windermere Lake Cruises depuis Waterhead (tenus en laisse) et, dans les trains National Rail jusqu'à Windermere, jusqu'à deux par voyageur.`,
+        `La plupart des pubs accueillent les chiens dans le bar, et le Royal Oak propose même un menu pour chien ; demandez quel espace accepte les chiens.`,
+        `Numéros vétérinaires : antenne Oakhill à Ambleside (+44 15394 32631), ligne 24h d'Oakhill à Windermere (+44 15394 88555) et garde Vets Now à Kendal (+44 1539 232221).`,
+      ],
+      en: [
+        `Keep your dog on a lead near sheep and cattle on the fells and during the spring ground-nesting bird season; a reliable recall is essential on open fell.`,
+        `In summer, watch for blue-green algae in Windermere and Rydal Water, which is potentially fatal to dogs, and check the water before any swim at Waterhead or White Moss.`,
+        `Dogs travel free on the Windermere Lake Cruises from Waterhead (on a lead) and, on National Rail trains to Windermere, up to two per passenger.`,
+        `Most pubs welcome dogs in the bar, and the Royal Oak even offers a dog menu; ask which area is dog-friendly.`,
+        `Vet numbers: Oakhill's Ambleside branch (+44 15394 32631), Oakhill's 24-hour line in Windermere (+44 15394 88555) and the Vets Now clinic in Kendal (+44 1539 232221).`,
+      ],
+      es: [
+        `Manten al perro con correa cerca de ovejas y vacas en los fells y durante la temporada de aves que anidan en el suelo en primavera; una llamada de vuelta fiable es imprescindible en el fell abierto.`,
+        `En verano, vigila las algas verdiazules de Windermere y Rydal Water, potencialmente mortales para los perros, y comprueba el agua antes de cualquier baño en Waterhead o White Moss.`,
+        `Los perros viajan gratis en los Windermere Lake Cruises desde Waterhead (con correa) y, en los trenes de National Rail hasta Windermere, hasta dos por pasajero.`,
+        `La mayoría de los pubs admiten perros en el bar, y el Royal Oak ofrece incluso un menú canino; pregunta qué zona admite perros.`,
+        `Números veterinarios: sucursal de Oakhill en Ambleside (+44 15394 32631), línea 24h de Oakhill en Windermere (+44 15394 88555) y clínica Vets Now en Kendal (+44 1539 232221).`,
+      ],
+      pt: [
+        `Mantenha o cão à trela perto de ovelhas e vacas nos fells e durante a época de nidificação no solo na primavera; uma chamada de retorno fiável é indispensável no fell aberto.`,
+        `No verão, vigie as algas azul-esverdeadas de Windermere e Rydal Water, potencialmente fatais para os cães, e verifique a água antes de qualquer banho em Waterhead ou White Moss.`,
+        `Os cães viajam grátis nos Windermere Lake Cruises a partir de Waterhead (à trela) e, nos comboios da National Rail até Windermere, até dois por passageiro.`,
+        `A maioria dos pubs aceita cães no bar, e o Royal Oak tem até um menu para cães; pergunte que zona aceita cães.`,
+        `Números veterinários: sucursal da Oakhill em Ambleside (+44 15394 32631), linha 24h da Oakhill em Windermere (+44 15394 88555) e clínica Vets Now em Kendal (+44 1539 232221).`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), puce, vaccin antirabique et traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : ni aéroport ni gare à Ambleside ; train jusqu'à Windermere puis bus 555 ou 599 acceptant les chiens. Aéroport le plus proche : Manchester (MAN), à environ 90 min à deux heures de route.`,
+        `Se déplacer : ville compacte à parcourir à pied ; bus Stagecoach et Windermere Lake Cruises depuis Waterhead acceptant les chiens pour relier Bowness, Grasmere et Windermere.`,
+        `Météo : l'un des coins les plus pluvieux d'Angleterre ; prévoyez imperméables et serviette pour chien toute l'année, étés doux (17-18 °C), hivers froids et humides (4-5 °C).`,
+        `Numéros utiles : urgence générale 999 ou 112 ; Oakhill Ambleside +44 15394 32631 ; ligne 24h Oakhill Windermere +44 15394 88555 ; garde Vets Now Kendal +44 1539 232221.`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: no airport or station in Ambleside; train to Windermere, then the dog-friendly 555 or 599 bus. Nearest airport is Manchester (MAN), about 90 minutes to two hours by road.`,
+        `Getting around: a compact town to walk on foot; Stagecoach buses and the Windermere Lake Cruises from Waterhead link Bowness, Grasmere and Windermere.`,
+        `Weather: one of the wettest corners of England; pack waterproofs and a dog towel year-round, with mild summers (17-18 C) and cold, wet winters (4-5 C).`,
+        `Useful numbers: general emergency 999 or 112; Oakhill Ambleside +44 15394 32631; 24-hour Oakhill Windermere +44 15394 88555; out-of-hours Vets Now Kendal +44 1539 232221.`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento antitenia entre 24 y 120 horas antes de la llegada.`,
+        `Cómo llegar: sin aeropuerto ni estación en Ambleside; tren hasta Windermere y luego el autobús 555 o 599 apto para perros. El aeropuerto más cercano es Mánchester (MAN), a unos 90 minutos a dos horas por carretera.`,
+        `Cómo moverse: un pueblo compacto para recorrer a pie; los autobuses Stagecoach y los Windermere Lake Cruises desde Waterhead enlazan Bowness, Grasmere y Windermere.`,
+        `Tiempo: uno de los rincones más lluviosos de Inglaterra; lleva ropa impermeable y toalla para el perro todo el año, con veranos suaves (17-18 C) e inviernos fríos y húmedos (4-5 C).`,
+        `Números útiles: emergencia general 999 o 112; Oakhill Ambleside +44 15394 32631; línea 24h Oakhill Windermere +44 15394 88555; guardia Vets Now Kendal +44 1539 232221.`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate britânico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia entre 24 e 120 horas antes da chegada.`,
+        `Como chegar: sem aeroporto nem estação em Ambleside; comboio até Windermere e depois o autocarro 555 ou 599 que aceita cães. O aeroporto mais próximo é Manchester (MAN), a cerca de 90 minutos a duas horas por estrada.`,
+        `Como circular: uma vila compacta para percorrer a pé; os autocarros Stagecoach e os Windermere Lake Cruises a partir de Waterhead ligam Bowness, Grasmere e Windermere.`,
+        `Tempo: um dos cantos mais chuvosos de Inglaterra; leve roupa impermeável e toalha para o cão todo o ano, com verões amenos (17-18 C) e invernos frios e húmidos (4-5 C).`,
+        `Números úteis: emergência geral 999 ou 112; Oakhill Ambleside +44 15394 32631; linha 24h Oakhill Windermere +44 15394 88555; serviço Vets Now Kendal +44 1539 232221.`,
+      ],
+    },
+  },
+
   amsterdam: {
     history: {
       fr: `Fondée au XIIIe siècle autour d'un barrage sur la rivière Amstel, d'où son nom, Amsterdam est devenue au XVIIe siècle la capitale commerciale du monde. La Compagnie néerlandaise des Indes orientales (VOC), première multinationale de l'histoire, y avait son siège. Cette prospérité a financé les 165 canaux, les 1 500 ponts et les étroites maisons à pignons qui composent aujourd'hui le cœur historique, classé au patrimoine mondial de l'UNESCO depuis 2010. La ville a toujours cultivé une culture de tolérance et d'ouverture, et cela vaut aussi pour les chiens, bienvenus dans les cafés, sur les terrasses et même dans les transports en commun.`,

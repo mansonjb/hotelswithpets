@@ -1777,6 +1777,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the ruined Whitby Abbey on the East Cliff, the climb up the 199 Steps, and the year-round dog beaches at Tate Hill, Sandsend and Runswick Bay`,
       area: `the old town around Church Street and the harbour, the West Cliff, and the abbey headland above the 199 Steps`,
     },
+    ambleside: {
+      personality: `a handsome walking town at the head of Lake Windermere in the Lake District, where dogs are welcome on nearly every fell and footpath, travel free on the Windermere Lake Cruises, and are welcomed in most of the pubs`,
+      highlight: `the Stock Ghyll Force waterfall walk, the rambling Loughrigg Fell, and the dog-friendly Windermere Lake Cruises from Waterhead`,
+      area: `the Market Cross and its lanes, the Waterhead lakeshore, and the Rydal Water shore towards Grasmere`,
+    },
     keswick: {
       personality: `Britain's most dog-friendly town at the head of Derwentwater in the northern Lake District, where dogs are welcome on nearly every fell and footpath, travel free on the Keswick Launch boats, and are the norm in the pubs around the Market Square`,
       highlight: `the Friar's Crag lakeshore, the classic Catbells ridge, and the dog-friendly Keswick Launch on Derwentwater`,
@@ -3728,6 +3733,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `l'une des stations balnéaires d'Angleterre les plus accueillantes pour les chiens, un port de pêche historique du North Yorkshire où les chiens sont les bienvenus sur la falaise de l'abbaye, le long des sentiers côtiers et dans la plupart des pubs de la vieille ville, et voyagent gratuitement sur la ligne Esk Valley`,
       highlight: `les ruines de l'abbaye de Whitby sur le East Cliff, la montée des 199 marches et les plages ouvertes aux chiens toute l'année à Tate Hill, Sandsend et Runswick Bay`,
       area: `la vieille ville autour de Church Street et du port, le West Cliff et la falaise de l'abbaye au-dessus des 199 marches`,
+    },
+    ambleside: {
+      personality: `une belle ville de marche à la tête du lac Windermere dans le Lake District, où les chiens sont les bienvenus sur presque tous les fells et sentiers, voyagent gratuitement sur les Windermere Lake Cruises, et sont accueillis dans la plupart des pubs`,
+      highlight: `la promenade de la cascade de Stock Ghyll Force, le fell vallonné de Loughrigg et les Windermere Lake Cruises depuis Waterhead qui acceptent les chiens`,
+      area: `la Market Cross et ses ruelles, la rive de Waterhead et la rive de Rydal Water vers Grasmere`,
     },
     keswick: {
       personality: `la ville la plus accueillante pour les chiens de Grande-Bretagne, au bord de Derwentwater dans le nord du Lake District, où les chiens sont les bienvenus sur presque tous les fells et sentiers, voyagent gratuitement sur les bateaux du Keswick Launch, et sont la norme dans les pubs autour de la place du marché`,
@@ -5681,6 +5691,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `las ruinas de la Abadía de Whitby en el East Cliff, la subida por los 199 escalones y las playas abiertas a los perros todo el año en Tate Hill, Sandsend y Runswick Bay`,
       area: `el casco antiguo en torno a Church Street y el puerto, el West Cliff y el promontorio de la abadía sobre los 199 escalones`,
     },
+    ambleside: {
+      personality: `una bonita ciudad de senderismo en la cabecera del lago Windermere en el Lake District, donde los perros son bienvenidos en casi todos los fells y senderos, viajan gratis en los Windermere Lake Cruises, y se les recibe en la mayoría de los pubs`,
+      highlight: `el paseo de la cascada de Stock Ghyll Force, el ondulado Loughrigg Fell y los Windermere Lake Cruises desde Waterhead que admiten perros`,
+      area: `la Market Cross y sus callejuelas, la orilla de Waterhead y la orilla de Rydal Water hacia Grasmere`,
+    },
     keswick: {
       personality: `la ciudad más acogedora para perros de Gran Bretaña, a orillas de Derwentwater en el norte del Lake District, donde los perros son bienvenidos en casi todos los fells y senderos, viajan gratis en los barcos del Keswick Launch, y son la norma en los pubs de la plaza del mercado`,
       highlight: `la orilla de Friar's Crag, la clásica cresta de Catbells y el Keswick Launch en Derwentwater que admite perros`,
@@ -7632,6 +7647,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma das vilas costeiras de Inglaterra mais amantes dos cães, um histórico porto de pesca de North Yorkshire onde os cães são bem-vindos pelo promontório da abadia, ao longo dos trilhos de falésia e na maioria dos pubs da cidade velha, e viajam grátis no comboio da Esk Valley Line`,
       highlight: `as ruínas da Abadia de Whitby no East Cliff, a subida pelos 199 Degraus e as praias abertas aos cães todo o ano em Tate Hill, Sandsend e Runswick Bay`,
       area: `a cidade velha à volta da Church Street e do porto, o West Cliff e o promontório da abadia sobre os 199 Degraus`,
+    },
+    ambleside: {
+      personality: `uma bela vila de caminhadas na cabeceira do lago Windermere no Lake District, onde os cães são bem-vindos em quase todos os fells e caminhos, viajam grátis nos Windermere Lake Cruises, e são acolhidos na maioria dos pubs`,
+      highlight: `o passeio da cascata de Stock Ghyll Force, o ondulado Loughrigg Fell e os Windermere Lake Cruises a partir de Waterhead que aceitam cães`,
+      area: `a Market Cross e as suas ruelas, a margem de Waterhead e a margem de Rydal Water em direção a Grasmere`,
     },
     keswick: {
       personality: `a cidade mais acolhedora para cães da Grã-Bretanha, à beira de Derwentwater no norte do Lake District, onde os cães são bem-vindos em quase todos os fells e caminhos, viajam grátis nos barcos do Keswick Launch, e são a norma nos pubs à volta da praça do mercado`,

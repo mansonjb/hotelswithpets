@@ -2,9 +2,18 @@ import Link from 'next/link'
 import type { Metadata } from 'next'
 import { hasLocale, locales } from '@/app/[locale]/dictionaries'
 import { notFound } from 'next/navigation'
+import Image from 'next/image'
 import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import StickyHotelCTA from '@/components/StickyHotelCTA'
 import { GuideFooter } from '../_components/GuideFooter'
+import hotels from '@/data/hotels.json'
+import { valueSort } from '@/lib/hotelSort'
+import { getLocalizedCityName } from '@/lib/cityNames'
+
+// Top 3 value-sorted pet-friendly hotels per pick, keyed by destination slug.
+const HOTELS_BY_DEST: Record<string, typeof hotels> = {}
+const hotelFrom = (l: string) => (l === 'fr' ? 'dès' : l === 'es' || l === 'pt' ? 'desde' : 'from')
+const hotelNoFee = (l: string) => (l === 'fr' ? 'sans supplément' : l === 'es' ? 'sin cargo mascota' : l === 'pt' ? 'sem suplemento' : 'no pet fee')
 
 const SLUG = 'cool-august-dog-europe'
 const CAMPAIGN_BASE = 'cool-august'
@@ -211,6 +220,10 @@ const PICKS: Pick[] = [
   },
 ]
 
+for (const slug of PICKS.map((pk) => pk.slug)) {
+  HOTELS_BY_DEST[slug] = valueSort(hotels.filter((h) => h.destinationSlug === slug)).slice(0, 3)
+}
+
 const COPY = {
   en: {
     eyebrow: 'PET-FRIENDLY AUGUST · ANTI-HEAT EUROPE',
@@ -393,10 +406,19 @@ export default async function Page({
         <div className="space-y-5">
           {PICKS.map((p, i) => (
             <article key={p.slug} className="bg-white rounded-2xl border border-stone-200 overflow-hidden">
+              <div className="relative h-40 sm:h-52">
+                <Image
+                  src={`/images/destinations/${p.slug}.jpg`}
+                  alt={getLocalizedCityName(p.slug, p.name, locale)}
+                  fill
+                  sizes="(max-width: 768px) 100vw, 720px"
+                  className="object-cover"
+                />
+              </div>
               <header className="px-5 sm:px-7 py-4 bg-gradient-to-r from-sky-50 to-emerald-50 border-b border-stone-200 flex flex-wrap items-baseline gap-x-4 gap-y-1">
                 <span className="text-2xl font-black text-sky-700">#{i + 1}</span>
                 <h3 className="text-xl sm:text-2xl font-bold text-stone-900">
-                  <Link href={`/${locale}${p.destPath}`} className="hover:text-sky-700">{p.name}</Link>
+                  <Link href={`/${locale}${p.destPath}`} className="hover:text-sky-700">{getLocalizedCityName(p.slug, p.name, locale)}</Link>
                 </h3>
                 <span className="text-sm text-stone-600">{p.country}</span>
                 <span className="ml-auto bg-sky-100 text-sky-900 text-xs font-bold px-3 py-1 rounded-full">
@@ -411,6 +433,35 @@ export default async function Page({
                 <div>
                   <div className="text-xs font-semibold uppercase tracking-wider text-stone-500 mb-1">{t.hotelLabel}</div>
                   <p className="text-stone-700 text-sm leading-relaxed">{pickHotel(p)}</p>
+                  {(HOTELS_BY_DEST[p.slug] ?? []).length > 0 && (
+                    <div className="mt-3 rounded-xl border border-stone-200 overflow-hidden divide-y divide-stone-100">
+                      {(HOTELS_BY_DEST[p.slug] ?? []).map((h) => (
+                        <Link
+                          key={h.slug}
+                          href={`/${locale}/hotels/${h.slug}`}
+                          className="flex items-center gap-3 px-3 py-2.5 hover:bg-sky-50/60 transition-colors"
+                        >
+                          <Image
+                            src={`/images/hotels/${h.id}.jpg`}
+                            alt={h.name}
+                            width={64}
+                            height={48}
+                            className="w-16 h-12 rounded-lg object-cover flex-shrink-0 bg-stone-100"
+                          />
+                          <span className="min-w-0 flex-1">
+                            <span className="block text-sm font-semibold text-stone-900 truncate">{h.name}</span>
+                            <span className="block text-xs text-stone-500">
+                              {'★'.repeat(h.stars || 0)} · {h.rating.toFixed(1)}/10{h.petFee === 0 ? ` · ${hotelNoFee(locale)}` : ''}
+                            </span>
+                          </span>
+                          <span className="flex-shrink-0 text-right">
+                            <span className="block text-[11px] text-stone-400">{hotelFrom(locale)}</span>
+                            <span className="block text-sm font-bold text-stone-900">{h.currency === 'GBP' ? '£' : '€'}{h.priceFrom}</span>
+                          </span>
+                        </Link>
+                      ))}
+                    </div>
+                  )}
                 </div>
                 <div className="flex flex-wrap gap-3 pt-1">
                   <Link href={`/${locale}${p.destPath}`} className="text-sm font-semibold text-sky-700 hover:text-sky-900 hover:underline">

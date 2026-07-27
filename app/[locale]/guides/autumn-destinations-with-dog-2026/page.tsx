@@ -7,6 +7,7 @@ import { SITE_URL, buildAllezDestLink } from '@/lib/site'
 import { GuideFooter } from '../_components/GuideFooter'
 import hotels from '@/data/hotels.json'
 import { valueSort } from '@/lib/hotelSort'
+import { getLocalizedCityName } from '@/lib/cityNames'
 
 const SLUG = 'autumn-destinations-with-dog-2026'
 const CAMPAIGN = 'autumn-dog'
@@ -206,7 +207,7 @@ const THEMES: Theme[] = [
         tag: { en: 'Alhambra city · Sierra Nevada air', fr: 'Ville de l\'Alhambra · air de la Sierra Nevada', es: 'Ciudad de la Alhambra · aire de Sierra Nevada', pt: 'Cidade da Alhambra · ar da Serra Nevada' },
         why: {
           en: 'Granada is punishing in August but a joy at 17°C in October. The Albaicín lanes and the Río Darro path are made for slow dog walks, the Sierra Nevada foothills start at the edge of town, and free tapas with every drink keep the terraces lively.',
-          fr: `Granada est éprouvante en août mais un bonheur à 17°C en octobre. Les ruelles de l'Albaicín et le chemin du Río Darro sont faits pour les promenades tranquilles avec un chien, les contreforts de la Sierra Nevada commencent à la sortie de la ville, et les tapas offertes à chaque verre animent les terrasses.`,
+          fr: `Grenade est éprouvante en août mais un bonheur à 17°C en octobre. Les ruelles de l'Albaicín et le chemin du Río Darro sont faits pour les promenades tranquilles avec un chien, les contreforts de la Sierra Nevada commencent à la sortie de la ville, et les tapas offertes à chaque verre animent les terrasses.`,
           es: 'Granada es dura en agosto pero un placer a 17°C en octubre. Las callejuelas del Albaicín y el paseo del Río Darro están hechos para paseos tranquilos con perro, las estribaciones de Sierra Nevada empiezan a las afueras, y las tapas gratis con cada bebida animan las terrazas.',
           pt: 'Granada é dura em agosto mas uma alegria a 17°C em outubro. As vielas do Albaicín e o caminho do Río Darro são feitos para passeios tranquilos com cão, os sopés da Serra Nevada começam à saída da cidade, e as tapas gratuitas com cada bebida animam as esplanadas.',
         },
@@ -298,7 +299,7 @@ const T = {
     },
     a2: {
       en: 'Yes, arguably the best. Temperatures stay warm enough for the beach on the southern coast but drop out of the danger zone for heatstroke, which matters most for brachycephalic breeds, senior dogs and overweight dogs. Beach bans lift, hotels lower their rates, and popular spots like Lake Como or Granada are far quieter than in summer. Ticks are still active in autumn, so keep up preventive treatment.',
-      fr: `Oui, sans doute la meilleure. Les températures restent assez douces pour la plage sur la côte sud mais sortent de la zone de danger pour le coup de chaleur, ce qui compte surtout pour les races brachycéphales, les chiens âgés et en surpoids. Les interdictions de plage sont levées, les hôtels baissent leurs tarifs, et des lieux prisés comme le lac de Côme ou Granada sont bien plus calmes qu'en été. Les tiques restent actives en automne, maintenez donc le traitement préventif.`,
+      fr: `Oui, sans doute la meilleure. Les températures restent assez douces pour la plage sur la côte sud mais sortent de la zone de danger pour le coup de chaleur, ce qui compte surtout pour les races brachycéphales, les chiens âgés et en surpoids. Les interdictions de plage sont levées, les hôtels baissent leurs tarifs, et des lieux prisés comme le lac de Côme ou Grenade sont bien plus calmes qu'en été. Les tiques restent actives en automne, maintenez donc le traitement préventif.`,
       es: 'Sí, seguramente la mejor. Las temperaturas siguen siendo bastante templadas para la playa en la costa sur pero salen de la zona de peligro de golpe de calor, lo que importa sobre todo para las razas braquicéfalas, los perros mayores y con sobrepeso. Se levantan las prohibiciones de playa, los hoteles bajan sus tarifas, y lugares populares como el lago de Como o Granada están mucho más tranquilos que en verano. Las garrapatas siguen activas en otoño, así que mantén el tratamiento preventivo.',
       pt: 'Sim, provavelmente a melhor. As temperaturas mantêm-se amenas que chegue para a praia na costa sul mas saem da zona de perigo de insolação, o que importa sobretudo para as raças braquicefálicas, os cães idosos e com excesso de peso. Levantam-se as proibições de praia, os hotéis baixam as tarifas, e lugares populares como o Lago de Como ou Granada estão muito mais calmos do que no verão. As carraças continuam ativas no outono, por isso mantenha o tratamento preventivo.',
     },
@@ -389,7 +390,7 @@ export default async function AutumnDestinationsPage({
       '@type': 'ListItem',
       position: i + 1,
       url: `${SITE_URL}/${locale}/destinations/${d.slug}`,
-      name: d.name,
+      name: getLocalizedCityName(d.slug, d.name, locale),
     })),
   }
 
@@ -470,14 +471,14 @@ export default async function AutumnDestinationsPage({
                   <div className="relative h-40 sm:h-52">
                     <Image
                       src={`/images/destinations/${dest.slug}.jpg`}
-                      alt={dest.name}
+                      alt={getLocalizedCityName(dest.slug, dest.name, locale)}
                       fill
                       sizes="(max-width: 768px) 100vw, 720px"
                       className="object-cover"
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/65 via-black/10 to-transparent" />
                     <div className="absolute bottom-0 inset-x-0 p-4 sm:p-5 flex items-end justify-between gap-3">
-                      <h3 className="text-white text-xl sm:text-2xl font-extrabold drop-shadow-sm">{dest.name}</h3>
+                      <h3 className="text-white text-xl sm:text-2xl font-extrabold drop-shadow-sm">{getLocalizedCityName(dest.slug, dest.name, locale)}</h3>
                       <div className="flex-shrink-0 text-right text-white">
                         <div className="text-2xl font-black leading-none drop-shadow-sm">{dest.octTemp}°C</div>
                         <div className="text-[11px] text-white/85">{p(T.octTemp, locale)}</div>

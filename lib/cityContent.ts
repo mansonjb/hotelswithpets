@@ -31709,6 +31709,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  padstow: {
+    history: {
+      fr: `Padstow s'est développée comme port de pêche et de commerce sur l'estuaire abrité du Camel, l'un des rares havres sûrs de la côte nord accidentée de la Cornouailles, et sa vieille ville aux ruelles étroites entoure encore le quai en activité. Le chemin de fer y est arrivé en 1899 et a fermé dans les années 1960 ; son ancienne emprise est aujourd'hui le Camel Trail, un chemin plat de marche et de vélo le long de l'estuaire. Aujourd'hui, Padstow est surtout connue pour ses fruits de mer et comme base de vacances canines détendue. Pour un chien, c'est l'une des villes les plus faciles de Cornouailles : le port, les pubs, le Camel Trail et le sentier côtier acceptent tous les chiens, et Harbour Cove, Hawker's Cove et Daymer Bay restent ouvertes aux chiens toute l'année. À anticiper : les interdictions estivales de plage à Trevone et St George's Cove, les marées rapides de l'estuaire et, pour les visiteurs de l'UE, l'Animal Health Certificate britannique exigé depuis le Brexit.`,
+      en: `Padstow grew up as a fishing and trading port on the sheltered Camel estuary, one of the few safe harbours on Cornwall's rugged north coast, and its old town of narrow lanes still wraps around the working quay. The railway reached it in 1899 and closed in the 1960s, and that trackbed is now the Camel Trail, a flat walking and cycling route along the estuary. Today Padstow is best known for its seafood and as a relaxed dog holiday base. For a dog it is one of Cornwall's easiest towns: the harbour, pubs, Camel Trail and coast path are all dog-friendly, and Harbour Cove, Hawker's Cove and Daymer Bay stay open to dogs all year. The things to plan around are the summer beach bans on Trevone and St George's Cove, the fast estuary tides, and, for EU visitors, the GB Animal Health Certificate required since Brexit.`,
+      es: `Padstow creció como puerto de pesca y comercio en el resguardado estuario del Camel, uno de los pocos refugios seguros de la escarpada costa norte de Cornualles, y su casco antiguo de callejuelas estrechas aún rodea el muelle en activo. El ferrocarril llegó en 1899 y cerró en los años 60; ese antiguo trazado es hoy el Camel Trail, un camino llano para caminar y pedalear junto al estuario. Hoy Padstow es conocida sobre todo por su marisco y como base relajada de vacaciones caninas. Para un perro es uno de los pueblos más fáciles de Cornualles: el puerto, los pubs, el Camel Trail y el sendero costero admiten perros, y Harbour Cove, Hawker's Cove y Daymer Bay siguen abiertas a los perros todo el año. Hay que planificar los vetos estivales de playa en Trevone y St George's Cove, las mareas rápidas del estuario y, para los visitantes de la UE, el Animal Health Certificate británico exigido desde el Brexit.`,
+      pt: `Padstow cresceu como porto de pesca e comércio no abrigado estuário do Camel, um dos poucos refúgios seguros da acidentada costa norte da Cornualha, e a sua vila antiga de ruelas estreitas ainda rodeia o cais em atividade. O caminho de ferro chegou em 1899 e fechou nos anos 60; esse antigo traçado é hoje o Camel Trail, um caminho plano para caminhar e pedalar junto ao estuário. Hoje Padstow é conhecida sobretudo pelo seu marisco e como base descontraída de férias caninas. Para um cão é uma das vilas mais fáceis da Cornualha: o porto, os pubs, o Camel Trail e o trilho costeiro aceitam cães, e Harbour Cove, Hawker's Cove e Daymer Bay mantêm-se abertas a cães todo o ano. Há que planear as proibições de verão nas praias de Trevone e St George's Cove, as marés rápidas do estuário e, para os visitantes da UE, o Animal Health Certificate britânico exigido desde o Brexit.`,
+    },
+    sights: [
+      {
+        name: 'Padstow Harbour',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Le port de pêche en activité au cœur de la ville, cerné de pubs et de cafés acceptant les chiens. En plein air et ouvert aux chiens toute l'année, c'est le point de départ du Camel Trail et du sentier côtier.`,
+          en: `The working fishing harbour at the heart of the town, ringed by dog-friendly pubs and cafes. Open-air and dog-friendly year-round, it is the starting point for the Camel Trail and the coast path.`,
+          es: `El puerto pesquero en activo en el corazón del pueblo, rodeado de pubs y cafeterías que admiten perros. Al aire libre y apto para perros todo el año, es el punto de partida del Camel Trail y del sendero costero.`,
+          pt: `O porto de pesca em atividade no coração da vila, rodeado de pubs e cafés que aceitam cães. Ao ar livre e aberto a cães todo o ano, é o ponto de partida do Camel Trail e do trilho costeiro.`,
+        },
+      },
+      {
+        name: 'Harbour Cove (Tregirls Beach)',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Large plage de sable doré abritée sur l'estuaire du Camel, juste au nord de la ville. Principale plage canine ouverte toute l'année ; surveillez la marée montante rapide qui recouvre vite le sable.`,
+          en: `A wide, sheltered sweep of golden sand on the Camel estuary just north of town. The main year-round dog beach; watch the fast incoming tide that quickly covers the sand.`,
+          es: `Amplia playa de arena dorada resguardada en el estuario del Camel, justo al norte del pueblo. La principal playa canina abierta todo el año; vigila la marea entrante rápida que cubre pronto la arena.`,
+          pt: `Amplo areal dourado abrigado no estuário do Camel, mesmo a norte da vila. A principal praia canina aberta todo o ano; vigie a maré rápida que cobre depressa a areia.`,
+        },
+      },
+      {
+        name: 'The Camel Trail',
+        emoji: '🚴',
+        petFriendly: true,
+        desc: {
+          fr: `Ancienne voie ferrée devenue chemin plat et sans circulation le long de l'estuaire, de Padstow à Wadebridge et au-delà. L'une des promenades canines les plus faciles de Cornouailles ; chiens en laisse parmi les cyclistes.`,
+          en: `A disused railway turned flat, traffic-free path along the estuary from Padstow to Wadebridge and beyond. One of Cornwall's easiest dog walks; keep dogs on a lead among the cyclists.`,
+          es: `Antigua vía de tren convertida en camino llano y sin tráfico a lo largo del estuario, de Padstow a Wadebridge y más allá. Uno de los paseos caninos más fáciles de Cornualles; perros con correa entre los ciclistas.`,
+          pt: `Antiga linha de comboio transformada em caminho plano e sem trânsito ao longo do estuário, de Padstow a Wadebridge e mais além. Um dos passeios caninos mais fáceis da Cornualha; cães à trela entre os ciclistas.`,
+        },
+      },
+      {
+        name: 'Black Tor Ferry to Rock',
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `Petit ferry passager traversant l'estuaire du Camel vers Rock, courte traversée panoramique. Chiens bienvenus à bord moyennant un petit supplément ; il dépose près des plages canines de Rock et Daymer Bay.`,
+          en: `The little passenger ferry across the Camel estuary to Rock, a short and scenic ride. Dogs welcome aboard for a small extra charge; it drops you near the dog beaches at Rock and Daymer Bay.`,
+          es: `El pequeño ferry de pasajeros que cruza el estuario del Camel hacia Rock, un trayecto corto y pintoresco. Perros bienvenidos a bordo por un pequeño suplemento; te deja cerca de las playas caninas de Rock y Daymer Bay.`,
+          pt: `O pequeno ferry de passageiros que atravessa o estuário do Camel para Rock, uma travessia curta e pitoresca. Cães bem-vindos a bordo por um pequeno suplemento; deixa-o perto das praias caninas de Rock e Daymer Bay.`,
+        },
+      },
+      {
+        name: 'South West Coast Path to Stepper Point',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Marche de falaise depuis le port, longeant l'estuaire au-delà de Harbour Cove jusqu'à la tour-amer de Stepper Point. Ouverte aux chiens toute l'année ; laisse près des bords de falaise et du bétail.`,
+          en: `Clifftop walking from the harbour, following the estuary past Harbour Cove to the daymark tower at Stepper Point. Open to dogs year-round; lead up near the cliff edges and livestock.`,
+          es: `Caminata de acantilado desde el puerto, bordeando el estuario más allá de Harbour Cove hasta la torre-baliza de Stepper Point. Abierta a los perros todo el año; con correa cerca de acantilados y ganado.`,
+          pt: `Caminhada de falésia a partir do porto, ladeando o estuário para lá de Harbour Cove até à torre-baliza de Stepper Point. Aberta aos cães todo o ano; à trela perto das falésias e do gado.`,
+        },
+      },
+      {
+        name: 'Daymer Bay',
+        emoji: '🌊',
+        petFriendly: true,
+        desc: {
+          fr: `Grande plage de sable calme adossée aux dunes de St Enodoc, côté Rock de l'estuaire. Ouverte aux chiens toute l'année, alors que la plage voisine de Rock ne l'est pas ; accès rapide via le ferry.`,
+          en: `A big, calm expanse of sand backed by the St Enodoc dunes on the Rock side of the estuary. Dog-friendly year-round, unlike neighbouring Rock Beach; reached quickly via the ferry.`,
+          es: `Amplia y tranquila extensión de arena respaldada por las dunas de St Enodoc, en el lado de Rock del estuario. Abierta a los perros todo el año, a diferencia de la vecina Rock Beach; se llega rápido en ferry.`,
+          pt: `Ampla e tranquila extensão de areia protegida pelas dunas de St Enodoc, no lado de Rock do estuário. Aberta a cães todo o ano, ao contrário da vizinha Rock Beach; chega-se depressa de ferry.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Harbour Cove (Tregirls), Hawker's Cove et Daymer Bay restent ouvertes aux chiens toute l'année : un chien a toujours une plage, même en plein été.`,
+        `Interdictions estivales : Trevone interdit les chiens du 15 mai au 30 septembre, 10h-18h ; St George's Cove du 1er juillet au 31 août, 10h-18h ; amendes du Cornwall Council de 100 livres. Rock Beach et Polzeath voisines appliquent leurs propres interdictions plus strictes.`,
+        `Padstow n'a pas de gare : les chiens voyagent gratuitement sur National Rail (jusqu'à deux par voyageur, en laisse) jusqu'à Bodmin Parkway, puis le bus Go Cornwall 57 vers Padstow via Wadebridge.`,
+        `Gardez les chiens en laisse sur le Camel Trail, piste cyclable partagée, et surveillez la marée rapide de l'estuaire du Camel, qui recouvre vite de larges bancs de sable.`,
+        `Vétérinaires les plus proches : Penmellyn à St Merryn (+44 1841 520647) et Nute Veterinary Centre à Wadebridge (+44 1208 813258) ; urgences hors horaires à MiNightVet à Newquay. Urgence générale 999 ou 112.`,
+      ],
+      en: [
+        `Harbour Cove (Tregirls), Hawker's Cove and Daymer Bay stay dog-friendly all year, so a dog always has a beach even in peak summer.`,
+        `Summer beach bans: Trevone bans dogs 15 May to 30 September, 10am to 6pm; St George's Cove 1 July to 31 August, 10am to 6pm; Cornwall Council fines are 100 pounds. Neighbouring Rock Beach and Polzeath run their own stricter bans.`,
+        `Padstow has no railway station: dogs travel free on National Rail (up to two per passenger, on a lead) to Bodmin Parkway, then the Go Cornwall Bus 57 to Padstow via Wadebridge.`,
+        `Keep dogs on a lead on the Camel Trail as it is a shared cycle path, and watch the fast Camel estuary tide, which covers wide stretches of sand quickly.`,
+        `Nearest vets are Penmellyn at St Merryn (+44 1841 520647) and Nute Veterinary Centre in Wadebridge (+44 1208 813258); out-of-hours emergencies go to MiNightVet in Newquay. General emergency 999 or 112.`,
+      ],
+      es: [
+        `Harbour Cove (Tregirls), Hawker's Cove y Daymer Bay siguen abiertas a los perros todo el año, así que un perro siempre tiene playa incluso en pleno verano.`,
+        `Vetos estivales: Trevone veta los perros del 15 de mayo al 30 de septiembre, 10-18h; St George's Cove del 1 de julio al 31 de agosto, 10-18h; las multas del Cornwall Council son de 100 libras. Las vecinas Rock Beach y Polzeath aplican sus propios vetos más estrictos.`,
+        `Padstow no tiene estación de tren: los perros viajan gratis en National Rail (hasta dos por pasajero, con correa) hasta Bodmin Parkway, y luego el autobús Go Cornwall 57 a Padstow vía Wadebridge.`,
+        `Manten a los perros con correa en el Camel Trail, una vía ciclista compartida, y vigila la marea rápida del estuario del Camel, que cubre pronto amplias franjas de arena.`,
+        `Los veterinarios más cercanos son Penmellyn en St Merryn (+44 1841 520647) y Nute Veterinary Centre en Wadebridge (+44 1208 813258); las urgencias fuera de horario van a MiNightVet en Newquay. Emergencia general 999 o 112.`,
+      ],
+      pt: [
+        `Harbour Cove (Tregirls), Hawker's Cove e Daymer Bay mantêm-se abertas a cães todo o ano, por isso um cão tem sempre praia mesmo em pleno verão.`,
+        `Proibições de verão: Trevone proíbe cães de 15 de maio a 30 de setembro, 10h-18h; St George's Cove de 1 de julho a 31 de agosto, 10h-18h; as multas do Cornwall Council são de 100 libras. As vizinhas Rock Beach e Polzeath aplicam as suas próprias proibições mais rígidas.`,
+        `Padstow não tem estação de comboio: os cães viajam grátis na National Rail (até dois por passageiro, à trela) até Bodmin Parkway, e depois o autocarro Go Cornwall 57 para Padstow via Wadebridge.`,
+        `Mantenha os cães à trela no Camel Trail, uma ciclovia partilhada, e vigie a maré rápida do estuário do Camel, que cobre depressa amplas faixas de areia.`,
+        `Os veterinários mais próximos são a Penmellyn em St Merryn (+44 1841 520647) e o Nute Veterinary Centre em Wadebridge (+44 1208 813258); as urgências fora de horas vão para a MiNightVet em Newquay. Emergência geral 999 ou 112.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), d'une puce, d'un vaccin antirabique et d'un traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : Padstow n'a pas de gare, prenez un train jusqu'à Bodmin Parkway puis le bus Go Cornwall 57 via Wadebridge ; l'aéroport de Newquay (NQY) est le plus proche, à environ 19 km.`,
+        `Se déplacer : la ville est minuscule et se parcourt à pied ; le Black Tor Ferry, qui accepte les chiens, traverse vers Rock pour les plages de l'estuaire, et le stationnement se remplit tôt l'été.`,
+        `Météo : climat océanique doux, hivers doux (9-10 °C) où le gel est rare, étés chauds sans excès (18 °C), côte souvent venteuse. Printemps et automne idéaux.`,
+        `Numéros utiles : urgence générale 999 ou 112 ; véto de jour Penmellyn St Merryn +44 1841 520647 ; Nute Veterinary Centre Wadebridge +44 1208 813258.`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: Padstow has no station, so take a train to Bodmin Parkway then the Go Cornwall Bus 57 via Wadebridge; Newquay Airport (NQY) is the nearest airport, about 12 miles away.`,
+        `Getting around: the town is tiny and walkable; the dog-friendly Black Tor Ferry crosses to Rock for the estuary beaches, and parking fills early in summer.`,
+        `Weather: mild oceanic climate, mild winters (9-10 C) with rare frost, warm but not hot summers (18 C), and an often breezy coast. Spring and autumn are ideal.`,
+        `Useful numbers: general emergency 999 or 112; daytime vet Penmellyn St Merryn +44 1841 520647; Nute Veterinary Centre Wadebridge +44 1208 813258.`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento antitenia entre 24 y 120 horas antes de la llegada.`,
+        `Cómo llegar: Padstow no tiene estación, toma un tren hasta Bodmin Parkway y luego el autobús Go Cornwall 57 vía Wadebridge; el aeropuerto de Newquay (NQY) es el más cercano, a unos 19 km.`,
+        `Cómo moverse: el pueblo es diminuto y se recorre a pie; el Black Tor Ferry, que admite perros, cruza a Rock para las playas del estuario, y el aparcamiento se llena pronto en verano.`,
+        `Tiempo: clima oceánico suave, inviernos suaves (9-10 C) con escarcha rara, veranos cálidos sin excesos (18 C), costa a menudo ventosa. Primavera y otoño ideales.`,
+        `Números útiles: emergencia general 999 o 112; veterinario de día Penmellyn St Merryn +44 1841 520647; Nute Veterinary Centre Wadebridge +44 1208 813258.`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate britânico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia entre 24 e 120 horas antes da chegada.`,
+        `Como chegar: Padstow não tem estação, apanhe um comboio até Bodmin Parkway e depois o autocarro Go Cornwall 57 via Wadebridge; o aeroporto de Newquay (NQY) é o mais próximo, a cerca de 19 km.`,
+        `Como circular: a vila é minúscula e percorre-se a pé; o Black Tor Ferry, que aceita cães, atravessa para Rock para as praias do estuário, e o estacionamento enche cedo no verão.`,
+        `Tempo: clima oceânico ameno, invernos suaves (9-10 C) com geada rara, verões quentes sem excessos (18 C), costa muitas vezes ventosa. Primavera e outono ideais.`,
+        `Números úteis: emergência geral 999 ou 112; veterinário de dia Penmellyn St Merryn +44 1841 520647; Nute Veterinary Centre Wadebridge +44 1208 813258.`,
+      ],
+    },
+  },
+
   padua: {
     history: {
       fr: `Padoue, l'une des plus anciennes villes universitaires d'Europe (Université fondée en 1222), entretient depuis des siècles une relation étroite avec les animaux : c'est ici que Sant'Antonio prêcha aux animaux selon la légende franciscaine, et que Galilée enseigna pendant 18 ans avant de partir pour Florence. Le centre historique vénète, inscrit au patrimoine mondial de l'UNESCO en 2021 pour ses fresques du XIVe siècle (Giotto à la Chapelle des Scrovegni notamment), s'organise autour de trois places contiguës - Erbe, Frutta et Signori - et du célèbre Prato della Valle, l'une des plus grandes places d'Europe avec ses 88 620 m². Aujourd'hui, Padoue est l'une des escales pet-friendly les plus calmes du nord-est de l'Italie : moins fréquentée que Venise ou Vérone, dotée de plus de 25 km d'arcades à portiques abritant chiens et maîtres de la pluie d'hiver comme du soleil estival, et reliée en 25 minutes à Venise par train régional (5 € forfaitaire pour les chiens en laisse et muselés). Les aree cani officielles dans presque tous les quartiers, l'hôpital vétérinaire universitaire OVUD à Legnaro, et la culture aperitivo en terrasse complètent le tableau d'une ville pensée pour les visiteurs canins.`,

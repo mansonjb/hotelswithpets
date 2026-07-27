@@ -1226,6 +1226,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `year-round dog-friendly Fistral, Crantock and Watergate Bay, the South West Coast Path around Towan and Pentire heads, and the harbour wildlife boat trips`,
       area: `the harbour and its year-round dog beach, Fistral and the Pentire headland, and the Gannel estuary towards Crantock`,
     },
+    padstow: {
+      personality: `a pretty north Cornwall fishing harbour on the Camel estuary, one of the county's easiest dog holidays, where dogs share the quayside pubs, the flat Camel Trail and the estuary beaches`,
+      highlight: `year-round dog-friendly Harbour Cove and Daymer Bay, the flat traffic-free Camel Trail, and the Black Tor Ferry across the estuary to Rock`,
+      area: `the harbour and old town, Harbour Cove and Stepper Point along the coast path, and Rock and Daymer Bay across the estuary`,
+    },
     nice: {
       personality: 'a sun-drenched Mediterranean city where dogs join their owners on terrace restaurants, in the old town market, and along the famous waterfront',
       highlight: 'the Promenade des Anglais, Parc du Mont Boron, and the Colline du Château',
@@ -3184,6 +3189,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Fistral, Crantock et Watergate Bay ouvertes aux chiens toute l'année, le South West Coast Path autour des pointes de Towan et Pentire, et les excursions en bateau d'observation depuis le port`,
       area: `le port et sa plage ouverte aux chiens toute l'année, Fistral et la pointe de Pentire, et l'estuaire du Gannel vers Crantock`,
     },
+    padstow: {
+      personality: `un joli port de pêche du nord de la Cornouailles sur l'estuaire du Camel, l'une des destinations canines les plus faciles du comté, où les chiens partagent les pubs du quai, le plat Camel Trail et les plages de l'estuaire`,
+      highlight: `Harbour Cove et Daymer Bay ouvertes aux chiens toute l'année, le plat Camel Trail sans circulation, et le Black Tor Ferry traversant l'estuaire vers Rock`,
+      area: `le port et la vieille ville, Harbour Cove et Stepper Point le long du sentier côtier, et Rock et Daymer Bay de l'autre côté de l'estuaire`,
+    },
     nice: {
       personality: 'une ville méditerranéenne ensoleillée où les chiens rejoignent leurs propriétaires dans les restaurants en terrasse, au marché du vieux-Nice et le long du célèbre front de mer',
       highlight: 'la Promenade des Anglais, le Parc du Mont Boron et la Colline du Château',
@@ -5141,6 +5151,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Fistral, Crantock y Watergate Bay abiertas a los perros todo el año, el South West Coast Path alrededor de los promontorios de Towan y Pentire, y las excursiones en barco de fauna desde el puerto`,
       area: `el puerto y su playa abierta a los perros todo el año, Fistral y el promontorio de Pentire, y el estuario del Gannel hacia Crantock`,
     },
+    padstow: {
+      personality: `un bonito puerto pesquero del norte de Cornualles en el estuario del Camel, una de las escapadas caninas más fáciles del condado, donde los perros comparten los pubs del muelle, el llano Camel Trail y las playas del estuario`,
+      highlight: `Harbour Cove y Daymer Bay abiertas a los perros todo el año, el llano Camel Trail sin tráfico, y el Black Tor Ferry que cruza el estuario hacia Rock`,
+      area: `el puerto y el casco antiguo, Harbour Cove y Stepper Point por el sendero costero, y Rock y Daymer Bay al otro lado del estuario`,
+    },
     nice: {
       personality: 'una ciudad mediterránea bañada por el sol donde los perros acompañan a sus dueños en restaurantes de terraza, en el mercado del casco antiguo y a lo largo del famoso paseo marítimo',
       highlight: 'el Paseo de los Ingleses, el Parque del Mont Boron y la Colina del Castillo',
@@ -7097,6 +7112,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma vila de surf descontraída do norte da Cornualha rodeada de praias, onde a maior parte da areia continua a aceitar cães todo o ano e os cães partilham o caminho costeiro, os passeios de barco a partir do porto e os pubs do porto`,
       highlight: `Fistral, Crantock e Watergate Bay abertas aos cães todo o ano, o South West Coast Path à volta dos promontórios de Towan e Pentire, e os passeios de barco de fauna a partir do porto`,
       area: `o porto e a sua praia aberta aos cães todo o ano, Fistral e o promontório de Pentire, e o estuário do Gannel em direção a Crantock`,
+    },
+    padstow: {
+      personality: `um bonito porto de pesca do norte da Cornualha no estuário do Camel, uma das férias caninas mais fáceis do condado, onde os cães partilham os pubs do cais, o plano Camel Trail e as praias do estuário`,
+      highlight: `Harbour Cove e Daymer Bay abertas aos cães todo o ano, o plano Camel Trail sem trânsito, e o Black Tor Ferry que atravessa o estuário para Rock`,
+      area: `o porto e a vila antiga, Harbour Cove e Stepper Point pelo trilho costeiro, e Rock e Daymer Bay do outro lado do estuário`,
     },
     nice: {
       personality: 'uma cidade mediterrânea banhada pelo sol onde os cães acompanhan aos seus duenhos en restaurantes de esplanada, no mercado do centro histórico e a lo largo do famoso passeio marítimo',

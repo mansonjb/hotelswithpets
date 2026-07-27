@@ -1,0 +1,856 @@
+{
+  "slug": "falmouth",
+  "name": "Falmouth",
+  "country": "United Kingdom",
+  "flag": "🇬🇧",
+  "lastUpdated": "2026-07-27",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants and Pubs in Falmouth",
+      "titleFr": "Restaurants et pubs qui accueillent les chiens à Falmouth",
+      "titleEs": "Restaurantes y pubs que admiten perros en Falmouth",
+      "titlePt": "Restaurantes e pubs que aceitam cães em Falmouth",
+      "introEn": "Falmouth is a lively harbour and university town with one of the deepest natural harbours in the world, and it is thoroughly used to dogs. The old high street and Custom House Quay are lined with dog-welcoming pubs and cafes, most taking well-behaved dogs on a lead in the bar and at harbourside tables, often with a water bowl waiting.",
+      "introFr": "Falmouth est une ville portuaire et universitaire animée, dotée de l'un des ports naturels les plus profonds du monde, et parfaitement habituée aux chiens. La vieille rue principale et Custom House Quay sont bordées de pubs et cafés accueillant les chiens, la plupart acceptant les chiens sages tenus en laisse au bar et aux tables du port, souvent avec une gamelle d'eau prête.",
+      "introEs": "Falmouth es una animada ciudad portuaria y universitaria con uno de los puertos naturales más profundos del mundo, y está muy acostumbrada a los perros. La antigua calle principal y Custom House Quay están llenas de pubs y cafeterías que admiten perros, la mayoría acepta perros tranquilos con correa en el bar y en las mesas junto al puerto, a menudo con un cuenco de agua listo.",
+      "introPt": "Falmouth é uma animada cidade portuária e universitária com um dos portos naturais mais profundos do mundo, e está muito habituada a cães. A antiga rua principal e o Custom House Quay estão cheios de pubs e cafés que aceitam cães, a maioria aceita cães bem-comportados à trela no bar e nas mesas junto ao porto, muitas vezes com uma tigela de água pronta.",
+      "places": [
+        {
+          "name": "The Chain Locker",
+          "address": "Custom House Quay, Falmouth, TR11 3HH",
+          "neighborhood": "Custom House Quay (harbourfront)",
+          "photo": "/images/city-places/falmouth-restaurants-chain-locker.jpg",
+          "website": "https://chainlockerfalmouth.co.uk/",
+          "petPolicy": "Dogs welcome on a lead throughout the pub and at the quayside tables.",
+          "petPolicyFr": "Chiens bienvenus en laisse dans tout le pub et aux tables du quai.",
+          "petPolicyEs": "Perros bienvenidos con correa por todo el pub y en las mesas del muelle.",
+          "petPolicyPt": "Cães bem-vindos à trela por todo o pub e nas mesas do cais.",
+          "priceRange": "Pub (mains around £14-£20)",
+          "mustTry": "Fresh local fish or a Cornish ale over the harbour",
+          "mustTryFr": "Le poisson local frais ou une ale de Cornouailles face au port",
+          "mustTryEs": "El pescado local fresco o una ale de Cornualles frente al puerto",
+          "mustTryPt": "O peixe local fresco ou uma ale da Cornualha de frente para o porto",
+          "openingHours": "Daily, food lunch and dinner",
+          "tip": "It is one of Falmouth's most reliably dog-friendly pubs; the quayside tables are prime spots on a fine day, and the historic bar is just as welcoming in the rain.",
+          "tipFr": "C'est l'un des pubs les plus fiablement accueillants pour chiens de Falmouth ; les tables du quai sont idéales par beau temps, et le bar historique est tout aussi accueillant sous la pluie.",
+          "tipEs": "Es uno de los pubs más fiablemente acogedores para perros de Falmouth; las mesas del muelle son ideales con buen tiempo, y el bar histórico es igual de acogedor bajo la lluvia.",
+          "tipPt": "É um dos pubs mais fiavelmente acolhedores para cães de Falmouth; as mesas do cais são ideais em dia bom, e o bar histórico é igualmente acolhedor à chuva.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Chain+Locker+Falmouth",
+          "description": "A 16th-century pub right on Custom House Quay with views over the historic harbour, restored by St Austell Brewery and known as one of the town's friendliest dog stops. Well-behaved dogs are welcome throughout, whether for a drink with a view or a meal after a coast walk.",
+          "descriptionFr": "Un pub du XVIe siècle sur Custom House Quay avec vue sur le port historique, restauré par la St Austell Brewery et réputé comme l'une des haltes canines les plus accueillantes de la ville. Les chiens sages sont les bienvenus partout, pour un verre avec vue ou un repas après une marche côtière.",
+          "descriptionEs": "Un pub del siglo XVI en Custom House Quay con vistas al puerto histórico, restaurado por la St Austell Brewery y conocido como una de las paradas caninas más acogedoras de la ciudad. Los perros tranquilos son bienvenidos por todas partes, para una copa con vistas o una comida tras un paseo costero.",
+          "descriptionPt": "Um pub do século XVI no Custom House Quay com vista sobre o porto histórico, restaurado pela St Austell Brewery e conhecido como uma das paragens caninas mais acolhedoras da cidade. Os cães bem-comportados são bem-vindos por todo o lado, para uma bebida com vista ou uma refeição após uma caminhada costeira."
+        },
+        {
+          "name": "The Boathouse",
+          "address": "Trevethan Hill, Falmouth, TR11 2AG",
+          "neighborhood": "Above the harbour, near the town centre",
+          "photo": "/images/city-places/falmouth-restaurants-boathouse.jpg",
+          "website": "https://www.boathousefalmouth.co.uk/",
+          "petPolicy": "Dogs welcome on a lead in the bar and on the terrace.",
+          "petPolicyFr": "Chiens bienvenus en laisse au bar et sur la terrasse.",
+          "petPolicyEs": "Perros bienvenidos con correa en el bar y en la terraza.",
+          "petPolicyPt": "Cães bem-vindos à trela no bar e na esplanada.",
+          "priceRange": "Pub (mains around £13-£19)",
+          "mustTry": "Sunday roast or fish and chips with harbour views",
+          "mustTryFr": "Le rôti du dimanche ou le fish and chips avec vue sur le port",
+          "mustTryEs": "El asado del domingo o el fish and chips con vistas al puerto",
+          "mustTryPt": "O assado de domingo ou o fish and chips com vista para o porto",
+          "openingHours": "Daily, lunch and dinner",
+          "tip": "The upper terrace has some of the best harbour views in town; arrive early on a sunny day to grab a table with the dog.",
+          "tipFr": "La terrasse supérieure offre parmi les plus belles vues du port ; venez tôt par beau temps pour une table avec le chien.",
+          "tipEs": "La terraza superior tiene de las mejores vistas al puerto; ven temprano con buen tiempo para una mesa con el perro.",
+          "tipPt": "A esplanada superior tem das melhores vistas do porto; venha cedo em dia de sol para uma mesa com o cão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Boathouse+Falmouth",
+          "description": "A popular pub above the harbour with a sun terrace looking out over the water, long a favourite of local dog walkers. Dogs on leads are welcome in the bar and on the terrace, an easy stop between the town centre and the seafront.",
+          "descriptionFr": "Un pub apprécié au-dessus du port avec une terrasse ensoleillée donnant sur l'eau, depuis longtemps le favori des promeneurs de chiens du coin. Les chiens en laisse sont les bienvenus au bar et sur la terrasse, une halte facile entre le centre-ville et le front de mer.",
+          "descriptionEs": "Un pub popular sobre el puerto con una terraza soleada asomada al agua, desde hace tiempo favorito de los paseadores de perros locales. Los perros con correa son bienvenidos en el bar y en la terraza, una parada fácil entre el centro y el paseo marítimo.",
+          "descriptionPt": "Um pub popular sobre o porto com uma esplanada soalheira debruçada sobre a água, há muito favorito dos passeadores de cães locais. Os cães à trela são bem-vindos no bar e na esplanada, uma paragem fácil entre o centro e a marginal."
+        },
+        {
+          "name": "IndiDog",
+          "address": "Arwenack Street, Falmouth",
+          "neighborhood": "Arwenack Street (harbour end of the high street)",
+          "photo": "/images/city-places/falmouth-restaurants-indidog.jpg",
+          "website": "https://www.indidog.co.uk/",
+          "petPolicy": "Dogs warmly welcome throughout; treats and water provided.",
+          "petPolicyFr": "Chiens chaleureusement bienvenus partout ; friandises et eau fournies.",
+          "petPolicyEs": "Perros calurosamente bienvenidos por todas partes; premios y agua incluidos.",
+          "petPolicyPt": "Cães calorosamente bem-vindos por todo o lado; guloseimas e água disponibilizados.",
+          "priceRange": "Bar and small plates (dishes around £8-£16)",
+          "mustTry": "Small plates and local drinks with the dog at your feet",
+          "mustTryFr": "Petites assiettes et boissons locales, chien à vos pieds",
+          "mustTryEs": "Platillos y bebidas locales con el perro a tus pies",
+          "mustTryPt": "Pratos pequenos e bebidas locais com o cão aos seus pés",
+          "openingHours": "Most days, afternoon and evening (seasonal)",
+          "tip": "As the name suggests it is built around dogs, so it is one of the most relaxed spots in town for a nervous or bouncy dog.",
+          "tipFr": "Comme son nom l'indique, tout y est pensé pour les chiens : c'est l'un des endroits les plus détendus de la ville pour un chien craintif ou remuant.",
+          "tipEs": "Como sugiere el nombre, está pensado para perros: es uno de los sitios más relajados de la ciudad para un perro nervioso o inquieto.",
+          "tipPt": "Como o nome sugere, é pensado para cães: é um dos sítios mais descontraídos da cidade para um cão nervoso ou irrequieto.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=IndiDog+Falmouth",
+          "description": "A relaxed, dog-centred bar and eatery near the harbour end of the high street, whose very name and ethos are built around welcoming dogs. Dogs are welcome throughout with treats and water on hand, a genuinely dog-first spot for a drink or small plates.",
+          "descriptionFr": "Un bar-restaurant décontracté et pensé pour les chiens, près du bout de la rue principale côté port, dont le nom et l'esprit tournent autour de l'accueil des chiens. Les chiens sont les bienvenus partout, avec friandises et eau, un lieu vraiment axé sur les chiens pour un verre ou de petites assiettes.",
+          "descriptionEs": "Un bar-restaurante desenfadado y pensado para perros, cerca del extremo de la calle principal junto al puerto, cuyo nombre y filosofía giran en torno a acoger perros. Los perros son bienvenidos por todas partes, con premios y agua, un sitio realmente centrado en el perro para una copa o platillos.",
+          "descriptionPt": "Um bar-restaurante descontraído e pensado para cães, perto da ponta da rua principal junto ao porto, cujo nome e espírito giram em torno de acolher cães. Os cães são bem-vindos por todo o lado, com guloseimas e água, um sítio verdadeiramente centrado no cão para uma bebida ou pratos pequenos."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside Falmouth pubs and restaurants?",
+          "a": "Most Falmouth pubs and harbourside cafes welcome well-behaved dogs on a lead in the bar and at outdoor tables, and many keep water bowls to hand. A few smarter dining rooms limit dogs to the bar or terrace, so it is worth mentioning the dog when you book."
+        },
+        {
+          "q": "Is Falmouth good for eating out with a dog?",
+          "a": "Very. It is a compact harbour town where the high street, Custom House Quay and Discovery Quay are full of dog-friendly pubs and cafes within a short walk of the water. Summer evenings are busy, so book ahead or aim for quieter times with a nervous dog."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis à l'intérieur des pubs et restaurants de Falmouth ?",
+          "a": "La plupart des pubs et cafés du port de Falmouth accueillent les chiens sages tenus en laisse au bar et aux tables extérieures, et beaucoup gardent des gamelles d'eau. Quelques salles plus chic limitent les chiens au bar ou à la terrasse, mieux vaut donc signaler le chien en réservant."
+        },
+        {
+          "q": "Falmouth est-elle agréable pour manger dehors avec un chien ?",
+          "a": "Beaucoup. C'est une petite ville portuaire où la rue principale, Custom House Quay et Discovery Quay regorgent de pubs et cafés acceptant les chiens à quelques pas de l'eau. Les soirées d'été sont chargées : réservez ou privilégiez les heures calmes avec un chien craintif."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se admiten perros dentro de los pubs y restaurantes de Falmouth?",
+          "a": "La mayoría de los pubs y cafés del puerto de Falmouth admiten perros tranquilos con correa en el bar y en las mesas exteriores, y muchos tienen cuencos de agua. Algunos comedores más elegantes limitan los perros al bar o la terraza, así que conviene mencionar al perro al reservar."
+        },
+        {
+          "q": "¿Es Falmouth buena para comer fuera con perro?",
+          "a": "Mucho. Es una compacta ciudad portuaria donde la calle principal, Custom House Quay y Discovery Quay están llenos de pubs y cafés que admiten perros a pocos pasos del agua. Las tardes de verano son concurridas, así que reserva o busca horas tranquilas con un perro nervioso."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães são admitidos dentro dos pubs e restaurantes de Falmouth?",
+          "a": "A maioria dos pubs e cafés do porto de Falmouth aceita cães bem-comportados à trela no bar e nas mesas exteriores, e muitos têm tigelas de água. Algumas salas mais requintadas limitam os cães ao bar ou à esplanada, por isso vale a pena mencionar o cão ao reservar."
+        },
+        {
+          "q": "Falmouth é boa para comer fora com cão?",
+          "a": "Muito. É uma cidade portuária compacta onde a rua principal, o Custom House Quay e o Discovery Quay estão cheios de pubs e cafés que aceitam cães a poucos passos da água. As noites de verão são movimentadas, por isso reserve ou procure horários calmos com um cão nervoso."
+        }
+      ],
+      "tipsEn": [
+        "The high street, Custom House Quay and Discovery Quay hold the densest cluster of dog-welcoming pubs and cafes in Falmouth.",
+        "In summer, plan meals around the beach dog rules: eat at a harbour pub after your early-morning or evening walk on Gyllyngvase.",
+        "Bring a mat so your dog can settle at your feet; the harbourside bars are busy and appreciate a dog kept out of the walkway."
+      ],
+      "tipsFr": [
+        "La rue principale, Custom House Quay et Discovery Quay concentrent le plus grand nombre de pubs et cafés accueillant les chiens à Falmouth.",
+        "En été, organisez les repas autour des règles canines des plages : mangez dans un pub du port après votre promenade du matin ou du soir à Gyllyngvase.",
+        "Apportez un tapis pour que votre chien s'installe à vos pieds ; les bars du port sont fréquentés et apprécient un chien à l'écart du passage."
+      ],
+      "tipsEs": [
+        "La calle principal, Custom House Quay y Discovery Quay reúnen el mayor número de pubs y cafés que admiten perros en Falmouth.",
+        "En verano, organiza las comidas según las normas caninas de las playas: come en un pub del puerto tras tu paseo de la mañana o la tarde en Gyllyngvase.",
+        "Lleva una manta para que tu perro se acomode a tus pies; los bares del puerto están concurridos y agradecen un perro fuera del paso."
+      ],
+      "tipsPt": [
+        "A rua principal, o Custom House Quay e o Discovery Quay concentram o maior número de pubs e cafés que aceitam cães em Falmouth.",
+        "No verão, organize as refeições segundo as regras caninas das praias: coma num pub do porto após o passeio da manhã ou da tarde em Gyllyngvase.",
+        "Leve uma manta para o seu cão se instalar aos seus pés; os bares do porto são movimentados e agradecem um cão fora da passagem."
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog Walks and Green Spaces in Falmouth",
+      "titleFr": "Promenades pour chiens et espaces verts à Falmouth",
+      "titleEs": "Paseos para perros y espacios verdes en Falmouth",
+      "titlePt": "Passeios para cães e espaços verdes em Falmouth",
+      "introEn": "Falmouth pairs proper town parks with a spectacular coast, so dogs are well served all year even when the summer beach rules bite. Kimberley Park and the free subtropical Fox Rosehill Gardens give in-town green space, while the South West Coast Path around Pendennis Point is open to dogs year-round.",
+      "introFr": "Falmouth associe de vrais parcs urbains à une côte spectaculaire : les chiens sont donc bien servis toute l'année, même quand les règles estivales des plages s'appliquent. Kimberley Park et les jardins subtropicaux gratuits de Fox Rosehill offrent des espaces verts en ville, tandis que le South West Coast Path autour de Pendennis Point est ouvert aux chiens toute l'année.",
+      "introEs": "Falmouth combina auténticos parques urbanos con una costa espectacular, así que los perros están bien atendidos todo el año incluso cuando aprietan las normas estivales de las playas. Kimberley Park y los gratuitos jardines subtropicales de Fox Rosehill ofrecen espacio verde en la ciudad, mientras que el South West Coast Path alrededor de Pendennis Point está abierto a perros todo el año.",
+      "introPt": "Falmouth combina verdadeiros parques urbanos com uma costa espetacular, por isso os cães estão bem servidos todo o ano mesmo quando apertam as regras de verão das praias. O Kimberley Park e os gratuitos jardins subtropicais de Fox Rosehill oferecem espaço verde na cidade, enquanto o South West Coast Path à volta de Pendennis Point está aberto a cães todo o ano.",
+      "places": [
+        {
+          "name": "Kimberley Park",
+          "type": "Victorian town park",
+          "photo": "/images/city-places/falmouth-parks-kimberley-park.jpg",
+          "website": "https://www.falmouthtowncouncil.co.uk/town-services/parks-gardens",
+          "description": "Falmouth's Victorian town park, a leafy green space of lawns, mature trees and flower beds a few minutes from the high street. It is a popular, easy dog walk in the middle of town, especially useful when the summer beach rules are in force.",
+          "offLeash": false,
+          "offLeashArea": "Keep dogs on a lead on the busy paths and clean up after them; the park is enjoyed by families and other walkers.",
+          "tip": "It is a handy in-town walk within minutes of the shops and the train at Falmouth Town, ideal for a quick leg-stretch on a rainy day.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kimberley+Park+Falmouth",
+          "descriptionFr": "Le parc urbain victorien de Falmouth, un espace vert de pelouses, d'arbres anciens et de massifs, à quelques minutes de la rue principale. C'est une promenade canine facile et prisée en plein centre, surtout utile quand les règles estivales des plages s'appliquent.",
+          "descriptionEs": "El parque urbano victoriano de Falmouth, un espacio verde de céspedes, árboles maduros y parterres, a pocos minutos de la calle principal. Es un paseo canino fácil y popular en pleno centro, especialmente útil cuando rigen las normas estivales de las playas.",
+          "descriptionPt": "O parque urbano vitoriano de Falmouth, um espaço verde de relvados, árvores maduras e canteiros, a poucos minutos da rua principal. É um passeio canino fácil e popular em pleno centro, especialmente útil quando vigoram as regras de verão das praias.",
+          "offLeashAreaFr": "Gardez les chiens en laisse sur les allées fréquentées et ramassez leurs déjections ; le parc est apprécié des familles et d'autres promeneurs.",
+          "offLeashAreaEs": "Manten a los perros con correa en los caminos concurridos y recoge sus deposiciones; el parque lo disfrutan familias y otros paseantes.",
+          "offLeashAreaPt": "Mantenha os cães à trela nos caminhos movimentados e recolha os dejetos; o parque é apreciado por famílias e outros caminhantes.",
+          "tipFr": "C'est une promenade en ville pratique, à quelques minutes des boutiques et du train à Falmouth Town, idéale pour se dégourdir les jambes un jour de pluie.",
+          "tipEs": "Es un paseo urbano práctico a pocos minutos de las tiendas y del tren en Falmouth Town, ideal para estirar las piernas un día de lluvia.",
+          "tipPt": "É um passeio urbano prático a poucos minutos das lojas e do comboio em Falmouth Town, ideal para esticar as pernas num dia de chuva."
+        },
+        {
+          "name": "Fox Rosehill Gardens",
+          "type": "Free subtropical garden",
+          "photo": "/images/city-places/falmouth-parks-fox-rosehill.jpg",
+          "website": "https://www.falmouth.co.uk/see-and-do/parks/fox-rosehill-gardens/",
+          "description": "A small but exotic free garden packed with subtropical and rare plants that thrive in Falmouth's mild climate, open all year. Dogs on a lead are welcome to wander the winding paths, a quiet green oasis between the town and the seafront.",
+          "offLeash": false,
+          "offLeashArea": "Dogs must be kept on a lead among the planting; it is a garden rather than an open run.",
+          "tip": "Entry is free and it is only a short walk from Gyllyngvase Beach, a good shady detour on a hot day with a dog.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fox+Rosehill+Gardens+Falmouth",
+          "descriptionFr": "Un petit jardin exotique et gratuit, rempli de plantes subtropicales et rares qui prospèrent dans le climat doux de Falmouth, ouvert toute l'année. Les chiens en laisse peuvent y flâner sur les allées sinueuses, une oasis verte et calme entre la ville et le front de mer.",
+          "descriptionEs": "Un pequeño pero exótico jardín gratuito lleno de plantas subtropicales y raras que prosperan en el clima suave de Falmouth, abierto todo el año. Los perros con correa pueden pasear por los senderos sinuosos, un oasis verde y tranquilo entre la ciudad y el paseo marítimo.",
+          "descriptionPt": "Um pequeno mas exótico jardim gratuito repleto de plantas subtropicais e raras que prosperam no clima ameno de Falmouth, aberto todo o ano. Os cães à trela podem passear pelos caminhos sinuosos, um oásis verde e tranquilo entre a cidade e a marginal.",
+          "offLeashAreaFr": "Les chiens doivent rester en laisse parmi les plantations ; c'est un jardin, pas un espace de course libre.",
+          "offLeashAreaEs": "Los perros deben ir con correa entre las plantaciones; es un jardín, no un espacio para correr libremente.",
+          "offLeashAreaPt": "Os cães devem ir à trela entre as plantações; é um jardim, não um espaço de corrida livre.",
+          "tipFr": "L'entrée est gratuite et c'est à quelques minutes de la plage de Gyllyngvase, un bon détour ombragé par temps chaud avec un chien.",
+          "tipEs": "La entrada es gratis y está a pocos minutos de la playa de Gyllyngvase, un buen desvío con sombra en un día caluroso con perro.",
+          "tipPt": "A entrada é gratuita e fica a poucos minutos da praia de Gyllyngvase, um bom desvio à sombra num dia quente com cão."
+        },
+        {
+          "name": "Pendennis Point Coast Path",
+          "type": "Coastal headland walk",
+          "photo": "/images/city-places/falmouth-parks-pendennis-point.jpg",
+          "website": "https://www.southwestcoastpath.org.uk/",
+          "description": "The South West Coast Path loops around Pendennis Point below the castle, giving open clifftop walking with views over the harbour mouth, Falmouth Bay and the Roseland. It is open to dogs year-round and links the seafront beaches with the docks.",
+          "offLeash": true,
+          "offLeashArea": "Dogs can be off-lead under close control on the open headland, but keep them on a lead near the cliff edges and the road around the point.",
+          "tip": "Combine it with a visit to dog-friendly Pendennis Castle and a walk down to Castle Beach for a half-day loop from the seafront.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pendennis+Point+Falmouth",
+          "descriptionFr": "Le South West Coast Path fait le tour de Pendennis Point sous le château, offrant une marche de falaise ouverte avec vue sur l'entrée du port, la baie de Falmouth et la Roseland. Ouvert aux chiens toute l'année, il relie les plages du front de mer aux docks.",
+          "descriptionEs": "El South West Coast Path rodea Pendennis Point bajo el castillo, con una caminata abierta de acantilado y vistas de la bocana del puerto, la bahía de Falmouth y la Roseland. Abierto a perros todo el año, une las playas del paseo marítimo con los muelles.",
+          "descriptionPt": "O South West Coast Path contorna Pendennis Point sob o castelo, com uma caminhada aberta de falésia e vistas da foz do porto, da baía de Falmouth e da Roseland. Aberto a cães todo o ano, liga as praias da marginal às docas.",
+          "offLeashAreaFr": "Les chiens peuvent être sans laisse sous contrôle rapproché sur la pointe ouverte, mais tenez-les en laisse près des bords de falaise et de la route qui contourne la pointe.",
+          "offLeashAreaEs": "Los perros pueden ir sin correa bajo control cercano en el promontorio abierto, pero manten la correa cerca de los bordes del acantilado y de la carretera que rodea la punta.",
+          "offLeashAreaPt": "Os cães podem andar sem trela sob controlo próximo no promontório aberto, mas mantenha a trela perto das bordas da falésia e da estrada que contorna a ponta.",
+          "tipFr": "Combinez-la avec une visite du château de Pendennis, ouvert aux chiens, et une descente vers Castle Beach pour une boucle d'une demi-journée depuis le front de mer.",
+          "tipEs": "Combinalo con una visita al castillo de Pendennis, que admite perros, y una bajada a Castle Beach para un circuito de media jornada desde el paseo marítimo.",
+          "tipPt": "Combine-o com uma visita ao castelo de Pendennis, que aceita cães, e uma descida até Castle Beach para um circuito de meio dia a partir da marginal."
+        }
+      ],
+      "tipsEn": [
+        "Kimberley Park, Fox Rosehill Gardens and the coast path around Pendennis Point are the year-round answer to summer beach bans.",
+        "Keep dogs on a lead in the town gardens and near the cliff edges and road on the coast path; parts are unfenced.",
+        "The gardens and coast path are all within walking distance of the seafront, so it is easy to swap a restricted beach for a green walk mid-day."
+      ],
+      "tipsFr": [
+        "Kimberley Park, les jardins de Fox Rosehill et le sentier côtier autour de Pendennis Point sont la réponse toute l'année aux interdictions estivales des plages.",
+        "Gardez les chiens en laisse dans les jardins de la ville et près des bords de falaise et de la route sur le sentier côtier ; certaines parties ne sont pas clôturées.",
+        "Les jardins et le sentier côtier sont tous à distance de marche du front de mer : il est facile de troquer une plage réglementée contre une promenade verte en milieu de journée."
+      ],
+      "tipsEs": [
+        "Kimberley Park, los jardines de Fox Rosehill y el sendero costero alrededor de Pendennis Point son la respuesta de todo el año a los vetos estivales de las playas.",
+        "Manten a los perros con correa en los jardines urbanos y cerca de los bordes del acantilado y la carretera en el sendero costero; hay tramos sin vallar.",
+        "Los jardines y el sendero costero están a poca distancia a pie del paseo marítimo, así que es fácil cambiar una playa restringida por un paseo verde a mediodía."
+      ],
+      "tipsPt": [
+        "O Kimberley Park, os jardins de Fox Rosehill e o trilho costeiro à volta de Pendennis Point são a resposta de todo o ano às proibições de verão das praias.",
+        "Mantenha os cães à trela nos jardins urbanos e perto das bordas de falésia e da estrada no trilho costeiro; há troços sem vedação.",
+        "Os jardins e o trilho costeiro estão a curta distância a pé da marginal, por isso é fácil trocar uma praia restrita por um passeio verde a meio do dia."
+      ],
+      "faqsEn": [
+        {
+          "q": "Where can I walk my dog in Falmouth when the beaches are restricted?",
+          "a": "Kimberley Park and the free Fox Rosehill Gardens give in-town green space, and the South West Coast Path around Pendennis Point is open to dogs year-round. All are within walking distance of the seafront."
+        },
+        {
+          "q": "Are Falmouth's parks and gardens dog-friendly?",
+          "a": "Yes, on a lead. Kimberley Park and Fox Rosehill Gardens both welcome dogs on a lead, and Fox Rosehill is free and open all year. Keep dogs on a lead among the planting and on the busy paths."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Où promener mon chien à Falmouth quand les plages sont réglementées ?",
+          "a": "Kimberley Park et les jardins gratuits de Fox Rosehill offrent des espaces verts en ville, et le South West Coast Path autour de Pendennis Point est ouvert aux chiens toute l'année. Tout est à distance de marche du front de mer."
+        },
+        {
+          "q": "Les parcs et jardins de Falmouth acceptent-ils les chiens ?",
+          "a": "Oui, en laisse. Kimberley Park et les jardins de Fox Rosehill accueillent les chiens en laisse, et Fox Rosehill est gratuit et ouvert toute l'année. Gardez les chiens en laisse parmi les plantations et sur les allées fréquentées."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Dónde puedo pasear a mi perro en Falmouth cuando las playas están restringidas?",
+          "a": "Kimberley Park y los gratuitos jardines de Fox Rosehill ofrecen espacio verde en la ciudad, y el South West Coast Path alrededor de Pendennis Point está abierto a perros todo el año. Todo está a poca distancia a pie del paseo marítimo."
+        },
+        {
+          "q": "¿Admiten perros los parques y jardines de Falmouth?",
+          "a": "Sí, con correa. Kimberley Park y los jardines de Fox Rosehill admiten perros con correa, y Fox Rosehill es gratis y abre todo el año. Manten a los perros con correa entre las plantaciones y en los caminos concurridos."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Onde posso passear o meu cão em Falmouth quando as praias estão restritas?",
+          "a": "O Kimberley Park e os gratuitos jardins de Fox Rosehill oferecem espaço verde na cidade, e o South West Coast Path à volta de Pendennis Point está aberto a cães todo o ano. Tudo está a curta distância a pé da marginal."
+        },
+        {
+          "q": "Os parques e jardins de Falmouth aceitam cães?",
+          "a": "Sim, à trela. O Kimberley Park e os jardins de Fox Rosehill aceitam cães à trela, e o Fox Rosehill é gratuito e abre todo o ano. Mantenha os cães à trela entre as plantações e nos caminhos movimentados."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting to Falmouth With a Dog",
+      "titleFr": "Se rendre à Falmouth avec un chien",
+      "titleEs": "Cómo llegar a Falmouth con un perro",
+      "titlePt": "Como chegar a Falmouth com um cão",
+      "introEn": "Falmouth is one of the easier Cornish towns to reach by train: the scenic Maritime Line branch runs from the mainline at Truro right into the town, and dogs travel free. Once there it is walkable and served by the dog-friendly Fal River ferries across to St Mawes and up the river.",
+      "introFr": "Falmouth est l'une des villes de Cornouailles les plus faciles à rejoindre en train : la pittoresque ligne secondaire Maritime part de la ligne principale à Truro jusque dans la ville, et les chiens voyagent gratuitement. Sur place, tout se fait à pied, avec les ferries Fal River acceptant les chiens vers St Mawes et en amont de la rivière.",
+      "introEs": "Falmouth es una de las ciudades de Cornualles más fáciles de alcanzar en tren: la pintoresca línea secundaria Maritime va desde la línea principal en Truro hasta la ciudad, y los perros viajan gratis. Ya allí, se recorre a pie y cuenta con los ferries Fal River, que admiten perros, hacia St Mawes y río arriba.",
+      "introPt": "Falmouth é uma das cidades da Cornualha mais fáceis de alcançar de comboio: a pitoresca linha secundária Maritime parte da linha principal em Truro até à cidade, e os cães viajam grátis. Já lá, percorre-se a pé e conta com os ferries Fal River, que aceitam cães, para St Mawes e rio acima.",
+      "rules": [
+        {
+          "mode": "National Rail (Maritime Line via Truro)",
+          "modeFr": "National Rail (Maritime Line via Truro)",
+          "modeEs": "National Rail (Maritime Line vía Truro)",
+          "modePt": "National Rail (Maritime Line via Truro)",
+          "policy": "Under the National Rail Conditions of Travel, up to two dogs travel free with each passenger, on a lead or in a carrier, and not on the seats. The Maritime Line branch runs from the mainline at Truro to Falmouth (Penmere, Falmouth Town and Falmouth Docks) in about 25 minutes, one of Cornwall's prettiest short rides.",
+          "policyFr": "Selon les Conditions de transport de National Rail, jusqu'à deux chiens voyagent gratuitement par passager, en laisse ou en panier, et pas sur les sièges. La ligne Maritime relie la gare principale de Truro à Falmouth (Penmere, Falmouth Town et Falmouth Docks) en environ 25 minutes, l'un des plus jolis courts trajets de Cornouailles.",
+          "policyEs": "Según las Condiciones de Viaje de National Rail, hasta dos perros viajan gratis por pasajero, con correa o en transportín, y no en los asientos. La línea Maritime une la estación principal de Truro con Falmouth (Penmere, Falmouth Town y Falmouth Docks) en unos 25 minutos, uno de los trayectos cortos más bonitos de Cornualles.",
+          "policyPt": "Segundo as Condições de Viagem da National Rail, até dois cães viajam grátis por passageiro, à trela ou em transportadora, e não nos bancos. A linha Maritime liga a estação principal de Truro a Falmouth (Penmere, Falmouth Town e Falmouth Docks) em cerca de 25 minutos, um dos trajetos curtos mais bonitos da Cornualha."
+        },
+        {
+          "mode": "Fal River ferries (St Mawes ferry)",
+          "modeFr": "Ferries Fal River (ferry de St Mawes)",
+          "modeEs": "Ferries Fal River (ferry de St Mawes)",
+          "modePt": "Ferries Fal River (ferry de St Mawes)",
+          "policy": "The Fal River passenger ferries welcome dogs, and on the St Mawes ferry dogs travel free of charge. From the Prince of Wales Pier you can cross to St Mawes on the Roseland or take the Enterprise Boats up the river to Truro, all dog-friendly on a lead.",
+          "policyFr": "Les ferries passagers Fal River acceptent les chiens, et sur le ferry de St Mawes les chiens voyagent gratuitement. Depuis le Prince of Wales Pier, on traverse vers St Mawes sur la Roseland ou on prend les Enterprise Boats en amont vers Truro, le tout accueillant les chiens en laisse.",
+          "policyEs": "Los ferries de pasajeros Fal River admiten perros, y en el ferry de St Mawes los perros viajan gratis. Desde el Prince of Wales Pier puedes cruzar a St Mawes en la Roseland o tomar los Enterprise Boats río arriba hacia Truro, todo apto para perros con correa.",
+          "policyPt": "Os ferries de passageiros Fal River aceitam cães, e no ferry de St Mawes os cães viajam grátis. Do Prince of Wales Pier pode atravessar para St Mawes na Roseland ou apanhar os Enterprise Boats rio acima até Truro, tudo aberto a cães à trela."
+        }
+      ],
+      "sections": [
+        {
+          "titleEn": "Arriving in Falmouth",
+          "titleFr": "Arriver à Falmouth",
+          "titleEs": "Llegar a Falmouth",
+          "titlePt": "Chegar a Falmouth",
+          "contentEn": "Falmouth sits at the mouth of the Fal on Cornwall's south coast. By train, take the mainline to Truro then change onto the Maritime Line branch, which runs into the town with dogs free of charge. The nearest airport is Newquay (NQY), about an hour away by road; drivers should note town-centre parking is limited in summer, so the park-and-ride and the train are the easier options with a dog.",
+          "contentFr": "Falmouth se trouve à l'embouchure de la Fal, sur la côte sud de la Cornouailles. En train, prenez la ligne principale jusqu'à Truro puis changez pour la ligne Maritime, qui pénètre dans la ville avec les chiens gratuits. L'aéroport le plus proche est Newquay (NQY), à environ une heure de route ; en voiture, le stationnement en centre-ville est limité l'été, le park-and-ride et le train sont donc plus simples avec un chien.",
+          "contentEs": "Falmouth está en la desembocadura del Fal, en la costa sur de Cornualles. En tren, toma la línea principal hasta Truro y cambia a la línea Maritime, que entra en la ciudad con los perros gratis. El aeropuerto más cercano es Newquay (NQY), a una hora en coche; el aparcamiento en el centro es limitado en verano, así que el park-and-ride y el tren son más fáciles con un perro.",
+          "contentPt": "Falmouth fica na foz do Fal, na costa sul da Cornualha. De comboio, apanhe a linha principal até Truro e mude para a linha Maritime, que entra na cidade com os cães grátis. O aeroporto mais próximo é Newquay (NQY), a cerca de uma hora de carro; o estacionamento no centro é limitado no verão, por isso o park-and-ride e o comboio são mais fáceis com um cão."
+        },
+        {
+          "titleEn": "Getting around with a dog",
+          "titleFr": "Se déplacer avec un chien",
+          "titleEs": "Moverse con un perro",
+          "titlePt": "Deslocar-se com um cão",
+          "contentEn": "Central Falmouth is flat and walkable, and the high street, harbour, Discovery Quay and the seafront beaches are all within an easy stroll. To explore across the water, the dog-friendly St Mawes ferry and the Enterprise Boats up the Fal make a great dog day out; dogs ride free on the St Mawes ferry, on a lead.",
+          "contentFr": "Le centre de Falmouth est plat et se parcourt à pied : la rue principale, le port, Discovery Quay et les plages du front de mer sont tous à quelques minutes. Pour explorer de l'autre côté de l'eau, le ferry de St Mawes et les Enterprise Boats sur la Fal, qui acceptent les chiens, font une belle sortie canine ; les chiens voyagent gratuitement sur le ferry de St Mawes, en laisse.",
+          "contentEs": "El centro de Falmouth es llano y se recorre a pie: la calle principal, el puerto, Discovery Quay y las playas del paseo marítimo están a un corto paseo. Para explorar al otro lado del agua, el ferry de St Mawes y los Enterprise Boats por el Fal, que admiten perros, hacen una gran salida canina; los perros van gratis en el ferry de St Mawes, con correa.",
+          "contentPt": "O centro de Falmouth é plano e percorre-se a pé: a rua principal, o porto, o Discovery Quay e as praias da marginal estão a um curto passeio. Para explorar do outro lado da água, o ferry de St Mawes e os Enterprise Boats pelo Fal, que aceitam cães, fazem uma ótima saída canina; os cães vão grátis no ferry de St Mawes, à trela."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I get to Falmouth by train with a dog?",
+          "a": "Yes, easily. Take the mainline to Truro, then the Maritime Line branch into Falmouth, which has three stations (Penmere, Falmouth Town and Falmouth Docks). Dogs travel free on National Rail, up to two per passenger on a lead."
+        },
+        {
+          "q": "Are dogs allowed on the Falmouth ferries?",
+          "a": "Yes. Dogs are welcome on the Fal River ferries on a lead, and on the St Mawes ferry from the Prince of Wales Pier they travel free of charge. It is a lovely dog-friendly way to reach St Mawes and the Roseland."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je aller à Falmouth en train avec un chien ?",
+          "a": "Oui, facilement. Prenez la ligne principale jusqu'à Truro, puis la ligne Maritime jusqu'à Falmouth, qui compte trois gares (Penmere, Falmouth Town et Falmouth Docks). Les chiens voyagent gratuitement sur National Rail, jusqu'à deux par passager en laisse."
+        },
+        {
+          "q": "Les chiens sont-ils admis sur les ferries de Falmouth ?",
+          "a": "Oui. Les chiens sont les bienvenus en laisse sur les ferries Fal River, et sur le ferry de St Mawes depuis le Prince of Wales Pier ils voyagent gratuitement. C'est une belle façon d'atteindre St Mawes et la Roseland avec un chien."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llegar a Falmouth en tren con un perro?",
+          "a": "Sí, fácilmente. Toma la línea principal hasta Truro y luego la línea Maritime hasta Falmouth, que tiene tres estaciones (Penmere, Falmouth Town y Falmouth Docks). Los perros viajan gratis en National Rail, hasta dos por pasajero con correa."
+        },
+        {
+          "q": "¿Se admiten perros en los ferries de Falmouth?",
+          "a": "Sí. Los perros son bienvenidos con correa en los ferries Fal River, y en el ferry de St Mawes desde el Prince of Wales Pier viajan gratis. Es una bonita forma de llegar a St Mawes y la Roseland con perro."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso chegar a Falmouth de comboio com um cão?",
+          "a": "Sim, facilmente. Apanhe a linha principal até Truro e depois a linha Maritime até Falmouth, que tem três estações (Penmere, Falmouth Town e Falmouth Docks). Os cães viajam grátis na National Rail, até dois por passageiro à trela."
+        },
+        {
+          "q": "Os cães são admitidos nos ferries de Falmouth?",
+          "a": "Sim. Os cães são bem-vindos à trela nos ferries Fal River, e no ferry de St Mawes do Prince of Wales Pier viajam grátis. É uma bela forma de chegar a St Mawes e à Roseland com cão."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Beaches in Falmouth",
+      "titleFr": "Plages qui accueillent les chiens à Falmouth",
+      "titleEs": "Playas que admiten perros en Falmouth",
+      "titlePt": "Praias que aceitam cães em Falmouth",
+      "introEn": "Falmouth has a rare thing in Cornwall: sandy beaches within walking distance of the town centre, strung along the seafront below the town. The dog rules are seasonal and set beach-by-beach by Cornwall Council's Public Spaces Protection Order, enforced with 100-pound fines. Gyllyngvase, the main beach, bans dogs from 15 May to 30 September between 10am and 6pm, while Swanpool, Castle Beach and Maenporth ban them from 1 July to 31 August, 10am to 6pm. Crucially, all of these bans only apply between 10am and 6pm, so dogs are welcome before 10am and after 6pm even in peak August, and all day outside the season. The one beach open to dogs around the clock all year is Sunny Cove (also called Arthur's Beach), a small cove between Swanpool and Maenporth, so a dog is never stuck. Always check the signs on arrival, as the order can change.",
+      "introFr": "Falmouth possède une rareté en Cornouailles : des plages de sable à distance de marche du centre-ville, alignées le long du front de mer sous la ville. Les règles pour chiens sont saisonnières et fixées plage par plage par le Public Spaces Protection Order du Cornwall Council, sanctionnées par des amendes de 100 livres. Gyllyngvase, la plage principale, interdit les chiens du 15 mai au 30 septembre entre 10h et 18h, tandis que Swanpool, Castle Beach et Maenporth les interdisent du 1er juillet au 31 août, de 10h à 18h. Point essentiel : ces interdictions ne s'appliquent qu'entre 10h et 18h, donc les chiens sont les bienvenus avant 10h et après 18h même en plein août, et toute la journée hors saison. La seule plage ouverte aux chiens en continu toute l'année est Sunny Cove (aussi appelée Arthur's Beach), une petite crique entre Swanpool et Maenporth : un chien n'est donc jamais bloqué. Vérifiez toujours la signalisation à l'arrivée, car l'arrêté peut changer.",
+      "introEs": "Falmouth tiene algo raro en Cornualles: playas de arena a poca distancia a pie del centro, alineadas por el paseo marítimo bajo la ciudad. Las normas para perros son estacionales y se fijan playa por playa mediante el Public Spaces Protection Order del Cornwall Council, con multas de 100 libras. Gyllyngvase, la playa principal, veta los perros del 15 de mayo al 30 de septiembre entre las 10 y las 18h, mientras que Swanpool, Castle Beach y Maenporth los vetan del 1 de julio al 31 de agosto, de 10 a 18h. Lo esencial: estos vetos solo rigen entre las 10 y las 18h, así que los perros son bienvenidos antes de las 10 y después de las 18h incluso en pleno agosto, y todo el día fuera de temporada. La única playa abierta a perros las 24 horas todo el año es Sunny Cove (también llamada Arthur's Beach), una pequeña cala entre Swanpool y Maenporth, así que un perro nunca se queda sin sitio. Comprueba siempre la señalización al llegar, porque la orden puede cambiar.",
+      "introPt": "Falmouth tem uma raridade na Cornualha: praias de areia a curta distância a pé do centro, alinhadas pela marginal sob a cidade. As regras para cães são sazonais e definidas praia a praia pelo Public Spaces Protection Order do Cornwall Council, com multas de 100 libras. Gyllyngvase, a praia principal, proíbe cães de 15 de maio a 30 de setembro entre as 10h e as 18h, enquanto Swanpool, Castle Beach e Maenporth os proíbem de 1 de julho a 31 de agosto, das 10h às 18h. O essencial: estas proibições só vigoram entre as 10h e as 18h, por isso os cães são bem-vindos antes das 10h e depois das 18h mesmo em pleno agosto, e todo o dia fora de época. A única praia aberta a cães 24 horas todo o ano é Sunny Cove (também chamada Arthur's Beach), uma pequena enseada entre Swanpool e Maenporth, por isso um cão nunca fica sem sítio. Verifique sempre a sinalização à chegada, pois a ordem pode mudar.",
+      "places": [
+        {
+          "name": "Gyllyngvase Beach",
+          "distance": "About 10-15 min walk south of the town centre",
+          "description": "Falmouth's main beach, a wide crescent of golden sand right on the seafront below the town, backed by a promenade and a cafe. It is the busiest and most accessible beach, with the longest seasonal dog ban, so in high summer it is an early-morning and evening dog beach.",
+          "season": "Summer daytime dog ban: no dogs 15 May to 30 September, 10am to 6pm. Dogs welcome before 10am, after 6pm and the rest of the year.",
+          "rules": "Outside the ban dogs are welcome on a lead; a 100-pound fine applies for breaking the seasonal restriction, so walk it early or late in summer.",
+          "facilities": "Promenade, cafe, toilets and lifeguards in season; level access from the seafront",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gyllyngvase+Beach+Falmouth",
+          "photo": "/images/city-places/falmouth-beaches-gyllyngvase.jpg"
+        },
+        {
+          "name": "Sunny Cove (Arthur's Beach)",
+          "distance": "On the coast path between Swanpool and Maenporth, south of town",
+          "description": "A small, sheltered sand-and-shingle cove tucked along the coast path between Swanpool and Maenporth, and the one local beach open to dogs around the clock all year. It is where Falmouth dog owners head in high summer when the main beaches are off-limits by day.",
+          "season": "Dog-friendly all year round, 24 hours, with no seasonal ban",
+          "rules": "Dogs welcome year-round; it is small and reached on foot along the coast path, so keep dogs under close control and watch the tide.",
+          "facilities": "No facilities on the cove; nearest cafes and toilets are at Swanpool or Maenporth",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunny+Cove+Falmouth",
+          "photo": "/images/city-places/falmouth-beaches-sunny-cove.jpg"
+        },
+        {
+          "name": "Castle Beach",
+          "distance": "Below Pendennis Castle, about 15 min walk from town",
+          "description": "A sand-and-rock beach below Pendennis Castle, famous for its rock pools at low tide and quieter than neighbouring Gyllyngvase. Its shorter summer ban means dogs have more of the year here than on the main beach.",
+          "season": "Summer daytime dog ban: no dogs 1 July to 31 August, 10am to 6pm. Dogs welcome outside those hours and the rest of the year.",
+          "rules": "Outside the ban dogs are welcome; a 100-pound fine applies within the restricted period, so aim for spring, autumn, early mornings or evenings.",
+          "facilities": "Seasonal cafe nearby; rock pools at low tide, so watch footing with a dog",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Castle+Beach+Falmouth",
+          "photo": "/images/city-places/falmouth-beaches-castle-beach.jpg"
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Which Falmouth beach allows dogs all year round?",
+          "a": "Sunny Cove, also known as Arthur's Beach, between Swanpool and Maenporth, is open to dogs 24 hours a day all year with no seasonal ban. It is small and reached on foot, but it means there is always a dog beach even in peak summer."
+        },
+        {
+          "q": "When are dogs banned from Falmouth's beaches?",
+          "a": "Gyllyngvase bans dogs 15 May to 30 September, 10am to 6pm, and Swanpool, Castle Beach and Maenporth ban them 1 July to 31 August, 10am to 6pm, all with 100-pound fines. Because the bans only run 10am to 6pm, dogs are welcome before 10am and after 6pm even in August."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quelle plage de Falmouth accepte les chiens toute l'année ?",
+          "a": "Sunny Cove, aussi appelée Arthur's Beach, entre Swanpool et Maenporth, est ouverte aux chiens 24h/24 toute l'année sans interdiction saisonnière. Elle est petite et s'atteint à pied, mais il y a ainsi toujours une plage canine, même en plein été."
+        },
+        {
+          "q": "Quand les chiens sont-ils interdits sur les plages de Falmouth ?",
+          "a": "Gyllyngvase interdit les chiens du 15 mai au 30 septembre, 10h-18h, et Swanpool, Castle Beach et Maenporth du 1er juillet au 31 août, 10h-18h, avec des amendes de 100 livres. Comme les interdictions ne courent que de 10h à 18h, les chiens sont les bienvenus avant 10h et après 18h même en août."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Qué playa de Falmouth admite perros todo el año?",
+          "a": "Sunny Cove, también llamada Arthur's Beach, entre Swanpool y Maenporth, está abierta a los perros las 24 horas todo el año sin veto estacional. Es pequeña y se llega a pie, pero así siempre hay una playa canina, incluso en pleno verano."
+        },
+        {
+          "q": "¿Cuándo se prohíben los perros en las playas de Falmouth?",
+          "a": "Gyllyngvase veta los perros del 15 de mayo al 30 de septiembre, 10-18h, y Swanpool, Castle Beach y Maenporth del 1 de julio al 31 de agosto, 10-18h, todo con multas de 100 libras. Como los vetos solo rigen de 10 a 18h, los perros son bienvenidos antes de las 10 y después de las 18h incluso en agosto."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Que praia de Falmouth aceita cães todo o ano?",
+          "a": "Sunny Cove, também chamada Arthur's Beach, entre Swanpool e Maenporth, está aberta a cães 24 horas todo o ano sem proibição sazonal. É pequena e chega-se a pé, mas assim há sempre uma praia canina, mesmo em pleno verão."
+        },
+        {
+          "q": "Quando é que os cães são proibidos nas praias de Falmouth?",
+          "a": "Gyllyngvase proíbe cães de 15 de maio a 30 de setembro, 10h-18h, e Swanpool, Castle Beach e Maenporth de 1 de julho a 31 de agosto, 10h-18h, tudo com multas de 100 libras. Como as proibições só vigoram das 10h às 18h, os cães são bem-vindos antes das 10h e depois das 18h mesmo em agosto."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinary Care in Falmouth",
+      "titleFr": "Soins vétérinaires à Falmouth",
+      "titleEs": "Atención veterinaria en Falmouth",
+      "titlePt": "Cuidados veterinários em Falmouth",
+      "introEn": "Falmouth is unusually well served for a Cornish town: Rosemullion Veterinary Hospital in the town is a full hospital with 24-hour emergency cover, so day-to-day and out-of-hours care are both handled locally. Save the number before you travel just in case.",
+      "introFr": "Falmouth est particulièrement bien pourvue pour une ville de Cornouailles : Rosemullion Veterinary Hospital, en ville, est un hôpital complet avec une garde d'urgence 24h/24, si bien que les soins courants comme les urgences sont assurés sur place. Notez le numéro avant de partir, au cas où.",
+      "introEs": "Falmouth está inusualmente bien atendida para una ciudad de Cornualles: Rosemullion Veterinary Hospital, en la ciudad, es un hospital completo con urgencias 24 horas, así que tanto los cuidados diarios como las urgencias se atienden localmente. Guarda el número antes de viajar, por si acaso.",
+      "introPt": "Falmouth está invulgarmente bem servida para uma cidade da Cornualha: o Rosemullion Veterinary Hospital, na cidade, é um hospital completo com urgências 24 horas, por isso tanto os cuidados diários como as urgências são tratados localmente. Guarde o número antes de viajar, por precaução.",
+      "entryRequirements": [],
+      "places": [
+        {
+          "name": "Rosemullion Veterinary Hospital (MiNightVet Falmouth)",
+          "type": "Small-animal veterinary hospital with 24-hour emergency cover",
+          "address": "Tregoniggie Industrial Estate, Bickland Water Road, Falmouth, TR11 4SN",
+          "phone": "+44 1326 313991",
+          "hours": "Daytime surgery plus 24-hour emergency cover on site",
+          "hoursFr": "Cabinet en journée plus garde d'urgence 24h/24 sur place",
+          "hoursEs": "Consulta diurna más urgencias 24 horas en el propio centro",
+          "hoursPt": "Consulta diurna mais urgências 24 horas no próprio centro",
+          "englishSpeaking": true,
+          "website": "https://www.rosemullionvets.com/",
+          "description": "Falmouth's main veterinary hospital, a fully equipped small-animal hospital on the edge of town that also runs the MiNightVet 24-hour emergency service. It handles routine care by day and is one of the few Cornish towns with an in-town overnight emergency vet.",
+          "tip": "Phone ahead for daytime appointments; for overnight or weekend emergencies the same site runs MiNightVet, so you have 24-hour cover in town.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosemullion+Veterinary+Hospital+Falmouth",
+          "photo": "",
+          "descriptionFr": "Le principal hôpital vétérinaire de Falmouth, un hôpital pour petits animaux entièrement équipé en périphérie, qui gère aussi le service d'urgence 24h/24 MiNightVet. Il assure les soins courants en journée et fait de Falmouth l'une des rares villes de Cornouailles avec un vétérinaire d'urgence de nuit sur place.",
+          "descriptionEs": "El principal hospital veterinario de Falmouth, un hospital de pequeños animales totalmente equipado a las afueras que también gestiona el servicio de urgencias 24 horas MiNightVet. Atiende cuidados rutinarios de día y hace de Falmouth uno de los pocos pueblos de Cornualles con veterinario de urgencias nocturnas en la propia ciudad.",
+          "descriptionPt": "O principal hospital veterinário de Falmouth, um hospital de pequenos animais totalmente equipado à saída da cidade que também gere o serviço de urgências 24 horas MiNightVet. Trata cuidados de rotina de dia e faz de Falmouth uma das poucas cidades da Cornualha com veterinário de urgência noturna na própria cidade.",
+          "tipFr": "Téléphonez à l'avance pour les rendez-vous de journée ; pour les urgences nocturnes ou de week-end, le même site gère MiNightVet, vous avez donc une couverture 24h/24 en ville.",
+          "tipEs": "Telefonea con antelación para las citas de día; para urgencias nocturnas o de fin de semana el mismo centro gestiona MiNightVet, así que tienes cobertura 24 horas en la ciudad.",
+          "tipPt": "Telefone com antecedência para as consultas de dia; para urgências noturnas ou de fim de semana o mesmo centro gere a MiNightVet, por isso tem cobertura 24 horas na cidade."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there an emergency vet in Falmouth?",
+          "a": "Yes, and it is one of the few Cornish towns with one. Rosemullion Veterinary Hospital on Bickland Water Road runs the MiNightVet 24-hour emergency service on site, alongside routine daytime care. General emergency services are 999 or 112."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire d'urgence à Falmouth ?",
+          "a": "Oui, et c'est l'une des rares villes de Cornouailles à en avoir un. Rosemullion Veterinary Hospital, sur Bickland Water Road, gère sur place le service d'urgence 24h/24 MiNightVet, en plus des soins courants de journée. Les urgences générales sont le 999 ou le 112."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay veterinario de urgencias en Falmouth?",
+          "a": "Sí, y es uno de los pocos pueblos de Cornualles que lo tiene. Rosemullion Veterinary Hospital, en Bickland Water Road, gestiona in situ el servicio de urgencias 24 horas MiNightVet, junto a los cuidados rutinarios de día. Las urgencias generales son el 999 o el 112."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há veterinário de urgência em Falmouth?",
+          "a": "Sim, e é uma das poucas cidades da Cornualha que o tem. O Rosemullion Veterinary Hospital, na Bickland Water Road, gere no local o serviço de urgências 24 horas MiNightVet, além dos cuidados de rotina de dia. As urgências gerais são o 999 ou o 112."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Falmouth With a Dog",
+      "titleFr": "Conseils pratiques pour visiter Falmouth avec un chien",
+      "titleEs": "Consejos prácticos para visitar Falmouth con un perro",
+      "titlePt": "Dicas práticas para visitar Falmouth com um cão",
+      "introEn": "Falmouth is one of Cornwall's most dog-easy towns, with a train into the centre, an in-town emergency vet, and a beach open to dogs all year. The two things to plan are the seasonal beach rules, which are enforced with fines, and the post-Brexit paperwork for bringing a dog into Great Britain.",
+      "introFr": "Falmouth est l'une des villes les plus faciles de Cornouailles avec un chien : train jusqu'au centre, vétérinaire d'urgence en ville et une plage ouverte aux chiens toute l'année. Deux choses à anticiper : les règles saisonnières des plages, sanctionnées par des amendes, et les formalités post-Brexit pour amener un chien en Grande-Bretagne.",
+      "introEs": "Falmouth es uno de los pueblos más fáciles de Cornualles con perro: tren hasta el centro, veterinario de urgencias en la ciudad y una playa abierta a perros todo el año. Dos cosas a planificar: las normas estacionales de las playas, sancionadas con multas, y el papeleo post-Brexit para llevar un perro a Gran Bretaña.",
+      "introPt": "Falmouth é uma das cidades mais fáceis da Cornualha com cão: comboio até ao centro, veterinário de urgência na cidade e uma praia aberta a cães todo o ano. Duas coisas a planear: as regras sazonais das praias, punidas com multas, e a papelada pós-Brexit para levar um cão para a Grã-Bretanha.",
+      "sections": [
+        {
+          "titleEn": "Bringing your dog into Great Britain (post-Brexit)",
+          "titleFr": "Amener votre chien en Grande-Bretagne (post-Brexit)",
+          "titleEs": "Llevar a tu perro a Gran Bretaña (tras el Brexit)",
+          "titlePt": "Levar o seu cão para a Grã-Bretanha (pós-Brexit)",
+          "contentEn": "Since Brexit, Great Britain no longer accepts the EU Pet Passport for entry. Dogs arriving from the EU need a GB Animal Health Certificate (AHC) issued by an official vet within 10 days of travel, plus a microchip and a valid rabies vaccination. Tapeworm treatment must be given by a vet 1 to 5 days before you arrive and recorded on the certificate. Arrange all of this with your vet before you leave home; it cannot be sorted on arrival.",
+          "contentFr": "Depuis le Brexit, la Grande-Bretagne n'accepte plus le passeport européen pour animaux à l'entrée. Les chiens venant de l'UE ont besoin d'un certificat sanitaire GB (AHC) délivré par un vétérinaire officiel dans les 10 jours du voyage, plus une puce et une vaccination antirabique valide. Le traitement contre le ténia doit être administré par un vétérinaire 1 à 5 jours avant l'arrivée et inscrit sur le certificat. Organisez tout cela avec votre vétérinaire avant de partir ; cela ne peut pas se régler à l'arrivée.",
+          "contentEs": "Desde el Brexit, Gran Bretaña ya no acepta el Pasaporte Europeo para Mascotas en la entrada. Los perros procedentes de la UE necesitan un Certificado Sanitario GB (AHC) emitido por un veterinario oficial en los 10 días previos al viaje, más un microchip y una vacuna antirrábica válida. El tratamiento contra la tenia debe administrarlo un veterinario entre 1 y 5 días antes de llegar y constar en el certificado. Organiza todo esto con tu veterinario antes de salir; no puede resolverse a la llegada.",
+          "contentPt": "Desde o Brexit, a Grã-Bretanha já não aceita o Passaporte Europeu para Animais na entrada. Os cães vindos da UE precisam de um Certificado Sanitário GB (AHC) emitido por um veterinário oficial nos 10 dias anteriores à viagem, mais um microchip e uma vacina antirrábica válida. O tratamento contra a ténia tem de ser administrado por um veterinário 1 a 5 dias antes da chegada e registado no certificado. Trate de tudo isto com o seu veterinário antes de partir; não pode ser resolvido à chegada."
+        },
+        {
+          "titleEn": "Timing the beaches",
+          "titleFr": "Anticiper les plages",
+          "titleEs": "Calcular las playas",
+          "titlePt": "Calcular as praias",
+          "contentEn": "The good news at Falmouth is that all the summer beach bans only apply between 10am and 6pm, so an early-morning or evening walk gets your dog onto Gyllyngvase, Swanpool or Castle Beach even in August. In the middle of the day head to Sunny Cove, which is open to dogs around the clock all year, or up to the coast path and gardens.",
+          "contentFr": "La bonne nouvelle à Falmouth : toutes les interdictions estivales ne s'appliquent qu'entre 10h et 18h, donc une promenade tôt le matin ou en soirée permet d'accéder à Gyllyngvase, Swanpool ou Castle Beach même en août. En milieu de journée, allez à Sunny Cove, ouverte aux chiens en continu toute l'année, ou montez vers le sentier côtier et les jardins.",
+          "contentEs": "La buena noticia en Falmouth: todos los vetos estivales solo rigen entre las 10 y las 18h, así que un paseo temprano o al atardecer lleva a tu perro a Gyllyngvase, Swanpool o Castle Beach incluso en agosto. A mediodía ve a Sunny Cove, abierta a perros las 24 horas todo el año, o sube al sendero costero y los jardines.",
+          "contentPt": "A boa notícia em Falmouth: todas as proibições de verão só vigoram entre as 10h e as 18h, por isso um passeio de manhã cedo ou ao fim da tarde leva o seu cão a Gyllyngvase, Swanpool ou Castle Beach mesmo em agosto. A meio do dia vá a Sunny Cove, aberta a cães 24 horas todo o ano, ou suba ao trilho costeiro e aos jardins."
+        }
+      ],
+      "places": [],
+      "tipsEn": [
+        "Sort your dog's GB Animal Health Certificate with your vet before you leave home; it must be issued within 10 days of travel and cannot be arranged on arrival.",
+        "All Falmouth beach bans only run 10am to 6pm, so walk the town beaches early or late in summer and use year-round Sunny Cove in between; fines are 100 pounds.",
+        "Take the dog-friendly Maritime Line train into town and the St Mawes ferry across the water; both carry dogs, the ferry free of charge."
+      ],
+      "tipsFr": [
+        "Réglez le certificat sanitaire GB de votre chien avec votre vétérinaire avant de partir ; il doit être délivré dans les 10 jours du voyage et ne peut être obtenu à l'arrivée.",
+        "Toutes les interdictions de plage à Falmouth ne courent que de 10h à 18h : promenez les plages de ville tôt ou tard en été et utilisez Sunny Cove, ouverte toute l'année, entre les deux ; les amendes sont de 100 livres.",
+        "Prenez le train de la Maritime Line jusqu'au centre et le ferry de St Mawes pour traverser ; les deux acceptent les chiens, le ferry gratuitement."
+      ],
+      "tipsEs": [
+        "Gestiona el Certificado Sanitario GB de tu perro con tu veterinario antes de salir; debe emitirse en los 10 días previos al viaje y no puede tramitarse a la llegada.",
+        "Todos los vetos de playa en Falmouth solo rigen de 10 a 18h: pasea las playas urbanas temprano o tarde en verano y usa Sunny Cove, abierta todo el año, entretanto; las multas son de 100 libras.",
+        "Toma el tren de la Maritime Line hasta el centro y el ferry de St Mawes para cruzar; ambos admiten perros, el ferry gratis."
+      ],
+      "tipsPt": [
+        "Trate do Certificado Sanitário GB do seu cão com o seu veterinário antes de partir; tem de ser emitido nos 10 dias anteriores à viagem e não pode ser tratado à chegada.",
+        "Todas as proibições de praia em Falmouth só vigoram das 10h às 18h: passeie as praias urbanas cedo ou tarde no verão e use Sunny Cove, aberta todo o ano, entretanto; as multas são de 100 libras.",
+        "Apanhe o comboio da Maritime Line até ao centro e o ferry de St Mawes para atravessar; ambos aceitam cães, o ferry grátis."
+      ],
+      "faqsEn": [
+        {
+          "q": "What paperwork does my dog need to enter Great Britain from the EU?",
+          "a": "A microchip, a valid rabies vaccination and a GB Animal Health Certificate issued by an official vet within 10 days of travel, plus vet-administered tapeworm treatment 1 to 5 days before arrival. The EU Pet Passport is no longer accepted for entry into Great Britain."
+        },
+        {
+          "q": "Is Falmouth easy to visit with a dog?",
+          "a": "Yes, one of the easiest in Cornwall. There is a train into the centre, an in-town 24-hour emergency vet, dog-friendly ferries and pubs, and Sunny Cove is open to dogs all year, so even the summer beach bans are easy to work around."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Quels documents mon chien doit-il avoir pour entrer en Grande-Bretagne depuis l'UE ?",
+          "a": "Une puce, une vaccination antirabique valide et un certificat sanitaire GB délivré par un vétérinaire officiel dans les 10 jours du voyage, plus un traitement contre le ténia administré par un vétérinaire 1 à 5 jours avant l'arrivée. Le passeport européen pour animaux n'est plus accepté à l'entrée en Grande-Bretagne."
+        },
+        {
+          "q": "Falmouth est-elle facile à visiter avec un chien ?",
+          "a": "Oui, l'une des plus faciles de Cornouailles. Il y a un train jusqu'au centre, un vétérinaire d'urgence 24h/24 en ville, des ferries et des pubs acceptant les chiens, et Sunny Cove est ouverte aux chiens toute l'année : même les interdictions estivales des plages se contournent facilement."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Qué documentación necesita mi perro para entrar en Gran Bretaña desde la UE?",
+          "a": "Un microchip, una vacuna antirrábica válida y un Certificado Sanitario GB emitido por un veterinario oficial en los 10 días previos al viaje, más tratamiento contra la tenia administrado por un veterinario entre 1 y 5 días antes de llegar. El Pasaporte Europeo para Mascotas ya no se acepta para entrar en Gran Bretaña."
+        },
+        {
+          "q": "¿Es fácil visitar Falmouth con un perro?",
+          "a": "Sí, uno de los más fáciles de Cornualles. Hay tren hasta el centro, veterinario de urgencias 24 horas en la ciudad, ferries y pubs que admiten perros, y Sunny Cove está abierta a perros todo el año, así que hasta los vetos estivales de playa son fáciles de sortear."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Que documentação precisa o meu cão para entrar na Grã-Bretanha vindo da UE?",
+          "a": "Um microchip, uma vacina antirrábica válida e um Certificado Sanitário GB emitido por um veterinário oficial nos 10 dias anteriores à viagem, mais tratamento contra a ténia administrado por um veterinário 1 a 5 dias antes da chegada. O Passaporte Europeu para Animais já não é aceite para entrar na Grã-Bretanha."
+        },
+        {
+          "q": "É fácil visitar Falmouth com um cão?",
+          "a": "Sim, uma das mais fáceis da Cornualha. Há comboio até ao centro, veterinário de urgência 24 horas na cidade, ferries e pubs que aceitam cães, e Sunny Cove está aberta a cães todo o ano, por isso até as proibições de verão das praias se contornam facilmente."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Things to Do in Falmouth",
+      "titleFr": "Activités qui acceptent les chiens à Falmouth",
+      "titleEs": "Cosas que hacer con perro en Falmouth",
+      "titlePt": "Coisas para fazer com cão em Falmouth",
+      "introEn": "Falmouth mixes a lively harbour with genuinely dog-friendly sights, headed by Pendennis Castle, which welcomes dogs on leads inside the buildings and grounds. Add the dog-friendly ferries and the seafront and you can fill a day easily with a dog at your side.",
+      "introFr": "Falmouth mêle un port animé à des sites vraiment accueillants pour les chiens, en tête desquels le château de Pendennis, qui accueille les chiens en laisse à l'intérieur des bâtiments et dans le parc. Ajoutez les ferries acceptant les chiens et le front de mer, et vous remplissez facilement une journée avec un chien.",
+      "introEs": "Falmouth combina un puerto animado con lugares realmente aptos para perros, encabezados por el castillo de Pendennis, que admite perros con correa dentro de los edificios y en los jardines. Suma los ferries que admiten perros y el paseo marítimo, y llenas un día con facilidad con un perro al lado.",
+      "introPt": "Falmouth combina um porto animado com locais verdadeiramente acolhedores para cães, à frente dos quais o castelo de Pendennis, que aceita cães à trela dentro dos edifícios e nos jardins. Junte os ferries que aceitam cães e a marginal, e preenche um dia com facilidade com um cão ao lado.",
+      "places": [
+        {
+          "name": "Pendennis Castle",
+          "neighborhood": "Pendennis Point",
+          "photo": "/images/city-places/falmouth-attractions-pendennis-castle.jpg",
+          "website": "https://www.english-heritage.org.uk/visit/places/pendennis-castle/",
+          "description": "Henry VIII's Tudor coastal fortress on the headland above Falmouth, guarding the harbour mouth with sweeping views over the bay and the Roseland. Unusually for a historic site, dogs on leads are welcome throughout, including inside the buildings and around the grounds.",
+          "dogPolicy": "Dogs on leads welcome throughout, including inside the buildings and grounds.",
+          "admissionFee": "Around £11 adult (free for English Heritage members)",
+          "tip": "Combine the castle with the coast path loop around Pendennis Point and a walk down to Castle Beach for a great half-day out.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pendennis+Castle+Falmouth",
+          "descriptionFr": "La forteresse côtière Tudor d'Henri VIII sur la pointe au-dessus de Falmouth, gardant l'entrée du port avec de larges vues sur la baie et la Roseland. Fait rare pour un site historique, les chiens en laisse sont les bienvenus partout, y compris à l'intérieur des bâtiments et dans le parc.",
+          "descriptionEs": "La fortaleza costera Tudor de Enrique VIII en el promontorio sobre Falmouth, que guarda la bocana del puerto con amplias vistas de la bahía y la Roseland. Algo poco habitual en un sitio histórico: los perros con correa son bienvenidos por todas partes, incluso dentro de los edificios y por los jardines.",
+          "descriptionPt": "A fortaleza costeira Tudor de Henrique VIII no promontório sobre Falmouth, que guarda a foz do porto com amplas vistas da baía e da Roseland. Algo pouco comum num local histórico: os cães à trela são bem-vindos por todo o lado, incluindo dentro dos edifícios e pelos jardins.",
+          "dogPolicyFr": "Chiens en laisse bienvenus partout, y compris à l'intérieur des bâtiments et dans le parc.",
+          "dogPolicyEs": "Perros con correa bienvenidos por todas partes, incluso dentro de los edificios y jardines.",
+          "dogPolicyPt": "Cães à trela bem-vindos por todo o lado, incluindo dentro dos edifícios e jardins.",
+          "admissionFeeFr": "Environ 11 £ adulte (gratuit pour les membres English Heritage)",
+          "admissionFeeEs": "Unos 11 £ adulto (gratis para socios de English Heritage)",
+          "admissionFeePt": "Cerca de 11 £ adulto (grátis para membros do English Heritage)",
+          "tipFr": "Associez le château à la boucle du sentier côtier autour de Pendennis Point et une descente vers Castle Beach pour une belle demi-journée.",
+          "tipEs": "Combina el castillo con el circuito del sendero costero alrededor de Pendennis Point y una bajada a Castle Beach para una buena media jornada.",
+          "tipPt": "Combine o castelo com o circuito do trilho costeiro à volta de Pendennis Point e uma descida até Castle Beach para um bom meio dia."
+        },
+        {
+          "name": "St Mawes Ferry",
+          "neighborhood": "Prince of Wales Pier",
+          "photo": "/images/city-places/falmouth-attractions-st-mawes-ferry.jpg",
+          "website": "https://www.falriver.co.uk/ferries/st-mawes-ferry/",
+          "description": "The passenger ferry from Falmouth's Prince of Wales Pier across the Carrick Roads to the pretty village of St Mawes on the Roseland peninsula. Dogs are welcome and travel free, making a scenic dog-friendly day trip with a castle and coast walks at the other end.",
+          "dogPolicy": "Dogs welcome and travel free; keep them on a lead on deck.",
+          "admissionFee": "Around £8-£12 return adult; dogs free",
+          "tip": "Check the timetable and tides; the ferry runs most frequently in the main season, and St Mawes has its own dog-friendly castle and coast path.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St+Mawes+Ferry+Falmouth+Prince+of+Wales+Pier",
+          "descriptionFr": "Le ferry passager depuis le Prince of Wales Pier de Falmouth, traversant la Carrick Roads vers le joli village de St Mawes sur la péninsule de Roseland. Les chiens sont les bienvenus et voyagent gratuitement, pour une excursion panoramique avec un château et des marches côtières de l'autre côté.",
+          "descriptionEs": "El ferry de pasajeros desde el Prince of Wales Pier de Falmouth, que cruza la Carrick Roads hasta el bonito pueblo de St Mawes en la península de Roseland. Los perros son bienvenidos y viajan gratis, para una pintoresca excursión con castillo y paseos costeros al otro lado.",
+          "descriptionPt": "O ferry de passageiros do Prince of Wales Pier de Falmouth, que atravessa a Carrick Roads até à bonita aldeia de St Mawes na península de Roseland. Os cães são bem-vindos e viajam grátis, para uma pitoresca excursão com castelo e passeios costeiros do outro lado.",
+          "dogPolicyFr": "Chiens bienvenus et voyageant gratuitement ; gardez-les en laisse sur le pont.",
+          "dogPolicyEs": "Perros bienvenidos y viajan gratis; mantenlos con correa en cubierta.",
+          "dogPolicyPt": "Cães bem-vindos e viajam grátis; mantenha-os à trela no convés.",
+          "admissionFeeFr": "Environ 8-12 £ aller-retour adulte ; chiens gratuits",
+          "admissionFeeEs": "Unos 8-12 £ ida y vuelta adulto; perros gratis",
+          "admissionFeePt": "Cerca de 8-12 £ ida e volta adulto; cães grátis",
+          "tipFr": "Vérifiez horaires et marées ; le ferry est le plus fréquent en pleine saison, et St Mawes a son propre château et sentier côtier acceptant les chiens.",
+          "tipEs": "Consulta horario y mareas; el ferry es más frecuente en plena temporada, y St Mawes tiene su propio castillo y sendero costero que admiten perros.",
+          "tipPt": "Verifique horário e marés; o ferry é mais frequente em plena época, e St Mawes tem o seu próprio castelo e trilho costeiro que aceitam cães."
+        },
+        {
+          "name": "National Maritime Museum Cornwall",
+          "neighborhood": "Discovery Quay",
+          "photo": "/images/city-places/falmouth-attractions-maritime-museum.jpg",
+          "website": "https://nmmc.co.uk/",
+          "description": "Cornwall's flagship maritime museum on Discovery Quay, with boats, interactive galleries and a tower with underwater and rooftop views over the harbour. Assistance dogs only are allowed inside, but there is a sheltered dog bed, tie-up and water bowl by the entrance for other dogs.",
+          "dogPolicy": "Assistance dogs only inside; sheltered dog bed, tie-up and water bowl provided at the entrance.",
+          "admissionFee": "Around £17.50 adult (ticket valid a year)",
+          "tip": "Since only assistance dogs go in, plan a swap: one visits while the other waits with the dog on the dog-friendly quay outside.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=National+Maritime+Museum+Cornwall+Falmouth",
+          "descriptionFr": "Le musée maritime phare de la Cornouailles, sur Discovery Quay, avec bateaux, galeries interactives et une tour offrant des vues sous-marines et panoramiques sur le port. Seuls les chiens d'assistance sont admis à l'intérieur, mais un couchage abrité, un point d'attache et une gamelle d'eau sont prévus à l'entrée pour les autres chiens.",
+          "descriptionEs": "El museo marítimo insignia de Cornualles, en Discovery Quay, con barcos, galerías interactivas y una torre con vistas submarinas y panorámicas del puerto. Solo se admiten perros de asistencia dentro, pero hay una cama para perros resguardada, un punto de atado y un cuenco de agua junto a la entrada para los demás perros.",
+          "descriptionPt": "O museu marítimo de referência da Cornualha, no Discovery Quay, com barcos, galerias interativas e uma torre com vistas submarinas e panorâmicas do porto. Só cães de assistência são admitidos no interior, mas há uma cama para cães abrigada, um ponto de amarração e uma tigela de água junto à entrada para os outros cães.",
+          "dogPolicyFr": "Chiens d'assistance uniquement à l'intérieur ; couchage abrité, point d'attache et gamelle d'eau à l'entrée.",
+          "dogPolicyEs": "Solo perros de asistencia dentro; cama resguardada, punto de atado y cuenco de agua en la entrada.",
+          "dogPolicyPt": "Apenas cães de assistência no interior; cama abrigada, ponto de amarração e tigela de água à entrada.",
+          "admissionFeeFr": "Environ 17,50 £ adulte (billet valable un an)",
+          "admissionFeeEs": "Unos 17,50 £ adulto (entrada válida un año)",
+          "admissionFeePt": "Cerca de 17,50 £ adulto (bilhete válido um ano)",
+          "tipFr": "Comme seuls les chiens d'assistance entrent, prévoyez un roulement : l'un visite pendant que l'autre attend avec le chien sur le quai, ouvert aux chiens.",
+          "tipEs": "Como solo entran perros de asistencia, organiza un relevo: uno visita mientras el otro espera con el perro en el muelle, que admite perros.",
+          "tipPt": "Como só entram cães de assistência, planeie um revezamento: um visita enquanto o outro espera com o cão no cais, que aceita cães."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "What can I do in Falmouth with a dog?",
+          "a": "Visit dog-friendly Pendennis Castle (dogs allowed inside on a lead), walk the coast path around Pendennis Point, take the St Mawes ferry across the water, and stroll the harbour and seafront. Most of the town's appeal is outdoors and dog-welcoming."
+        },
+        {
+          "q": "Can dogs go inside Falmouth's attractions?",
+          "a": "Pendennis Castle is unusually welcoming and allows dogs on leads inside the buildings and grounds. The National Maritime Museum admits assistance dogs only, but provides a dog bed and water at the entrance, so plan a swap for indoor sights."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Que faire à Falmouth avec un chien ?",
+          "a": "Visitez le château de Pendennis, ouvert aux chiens (admis à l'intérieur en laisse), parcourez le sentier côtier autour de Pendennis Point, prenez le ferry de St Mawes et flânez sur le port et le front de mer. L'essentiel du charme de la ville est en plein air et accepte les chiens."
+        },
+        {
+          "q": "Les chiens peuvent-ils entrer dans les attractions de Falmouth ?",
+          "a": "Le château de Pendennis est particulièrement accueillant et admet les chiens en laisse à l'intérieur des bâtiments et dans le parc. Le National Maritime Museum n'admet que les chiens d'assistance, mais propose un couchage et de l'eau à l'entrée : prévoyez un roulement pour les sites couverts."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Qué puedo hacer en Falmouth con un perro?",
+          "a": "Visita el castillo de Pendennis, que admite perros (con correa dentro), recorre el sendero costero alrededor de Pendennis Point, toma el ferry de St Mawes y pasea por el puerto y el paseo marítimo. Gran parte del atractivo de la ciudad es al aire libre y admite perros."
+        },
+        {
+          "q": "¿Pueden entrar los perros en las atracciones de Falmouth?",
+          "a": "El castillo de Pendennis es especialmente acogedor y admite perros con correa dentro de los edificios y jardines. El National Maritime Museum solo admite perros de asistencia, pero ofrece cama y agua en la entrada, así que organiza un relevo para los sitios cubiertos."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "O que posso fazer em Falmouth com um cão?",
+          "a": "Visite o castelo de Pendennis, que aceita cães (à trela no interior), percorra o trilho costeiro à volta de Pendennis Point, apanhe o ferry de St Mawes e passeie pelo porto e pela marginal. Grande parte do encanto da cidade é ao ar livre e aceita cães."
+        },
+        {
+          "q": "Os cães podem entrar nas atrações de Falmouth?",
+          "a": "O castelo de Pendennis é especialmente acolhedor e aceita cães à trela dentro dos edifícios e jardins. O National Maritime Museum só aceita cães de assistência, mas oferece cama e água à entrada, por isso planeie um revezamento para os locais cobertos."
+        }
+      ],
+      "tipsEn": [
+        "Pendennis Castle is the standout dog-friendly sight, with dogs allowed inside on a lead; build the day around it and the coast path.",
+        "Take the dog-friendly St Mawes ferry for a scenic day trip across the water; dogs travel free.",
+        "For indoor spots like the Maritime Museum, plan a swap so one of you waits with the dog at the entrance."
+      ],
+      "tipsFr": [
+        "Le château de Pendennis est le site canin phare, chiens admis à l'intérieur en laisse ; organisez la journée autour de lui et du sentier côtier.",
+        "Prenez le ferry de St Mawes, qui accepte les chiens, pour une belle sortie de l'autre côté de l'eau ; les chiens voyagent gratuitement.",
+        "Pour les sites couverts comme le Maritime Museum, prévoyez un roulement pour que l'un attende avec le chien à l'entrée."
+      ],
+      "tipsEs": [
+        "El castillo de Pendennis es el sitio canino destacado, con perros admitidos dentro con correa; organiza el día en torno a él y al sendero costero.",
+        "Toma el ferry de St Mawes, que admite perros, para una pintoresca excursión al otro lado del agua; los perros viajan gratis.",
+        "Para sitios cubiertos como el Maritime Museum, organiza un relevo para que uno espere con el perro en la entrada."
+      ],
+      "tipsPt": [
+        "O castelo de Pendennis é o local canino de destaque, com cães admitidos no interior à trela; organize o dia em torno dele e do trilho costeiro.",
+        "Apanhe o ferry de St Mawes, que aceita cães, para uma pitoresca saída do outro lado da água; os cães viajam grátis.",
+        "Para locais cobertos como o Maritime Museum, planeie um revezamento para que um espere com o cão à entrada."
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Dog Sitting and Walking in Falmouth",
+      "titleFr": "Garde et promenade de chiens à Falmouth",
+      "titleEs": "Cuidado y paseo de perros en Falmouth",
+      "titlePt": "Cuidado e passeio de cães em Falmouth",
+      "introEn": "For the afternoon when a dog cannot come along, Falmouth is well covered by the big UK booking platforms and by local walkers and sitters. Book early in the summer holidays, when demand from visitors and students' families is high.",
+      "introFr": "Pour l'après-midi où le chien ne peut pas suivre, Falmouth est bien couverte par les grandes plateformes britanniques et par des promeneurs et gardiens locaux. Réservez tôt pendant les vacances d'été, quand la demande des visiteurs et des familles d'étudiants est forte.",
+      "introEs": "Para esa tarde en que el perro no puede ir, Falmouth está bien cubierta por las grandes plataformas británicas y por paseadores y cuidadores locales. Reserva pronto en las vacaciones de verano, cuando la demanda de visitantes y familias de estudiantes es alta.",
+      "introPt": "Para a tarde em que o cão não pode ir, Falmouth está bem coberta pelas grandes plataformas britânicas e por passeadores e cuidadores locais. Reserve cedo nas férias de verão, quando a procura de visitantes e famílias de estudantes é elevada.",
+      "places": [
+        {
+          "name": "Rover UK",
+          "website": "https://www.rover.com/uk/",
+          "description": "The largest pet-care platform in the UK, with local dog sitters, boarders and walkers listed across Falmouth, Penryn and the wider Fal area. Every sitter has a profile, reviews and photos, and you book and pay through the app with cover included.",
+          "serviceType": "Dog boarding, day care, drop-in visits and walking",
+          "pricePerDay": "From around £20-£35 per day",
+          "languages": [
+            "English"
+          ],
+          "tip": "Message two or three sitters early and arrange a short meet-and-greet before your trip so your dog is comfortable before the day you need cover.",
+          "descriptionFr": "La plus grande plateforme de garde d'animaux du Royaume-Uni, avec gardiens, pensions et promeneurs locaux référencés sur Falmouth, Penryn et l'ensemble de la Fal. Chaque intervenant a un profil, des avis et des photos, et vous réservez et payez via l'application, assurance incluse.",
+          "descriptionEs": "La mayor plataforma de cuidado de mascotas del Reino Unido, con cuidadores, alojadores y paseadores locales listados por Falmouth, Penryn y toda la zona del Fal. Cada cuidador tiene perfil, reseñas y fotos, y reservas y pagas por la app con cobertura incluida.",
+          "descriptionPt": "A maior plataforma de cuidado de animais do Reino Unido, com cuidadores, alojadores e passeadores locais listados por Falmouth, Penryn e toda a zona do Fal. Cada cuidador tem perfil, avaliações e fotos, e reserva e paga pela app com cobertura incluída.",
+          "serviceTypeFr": "Pension, garderie, visites à domicile et promenade",
+          "serviceTypeEs": "Alojamiento, guardería, visitas a domicilio y paseo",
+          "serviceTypePt": "Alojamento, creche, visitas ao domicílio e passeio",
+          "tipFr": "Contactez deux ou trois gardiens tôt et organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avant le jour où vous avez besoin de la garde.",
+          "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo al viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
+          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da viagem, para que o seu cão esteja à vontade antes do dia em que precisa de apoio."
+        },
+        {
+          "name": "Trots and Treats",
+          "website": "https://www.trotsandtreats.com/",
+          "description": "A local dog-walking and pet-care service based in Falmouth, offering walks and day care around the town and nearby villages. Being local, they know the beaches, coast paths and seasonal dog rules of the Falmouth area.",
+          "serviceType": "Dog walking and daytime care",
+          "pricePerDay": "Contact for rates",
+          "languages": [
+            "English"
+          ],
+          "tip": "Arrange a short meet-and-greet before your trip so your dog is comfortable with the walker before the day you need cover.",
+          "descriptionFr": "Un service local de promenade et de garde de chiens basé à Falmouth, proposant promenades et garderie dans la ville et les villages voisins. Étant du coin, ils connaissent les plages, sentiers côtiers et règles canines saisonnières de la région de Falmouth.",
+          "descriptionEs": "Un servicio local de paseo y cuidado de perros con base en Falmouth, con paseos y guardería por la ciudad y los pueblos cercanos. Al ser locales, conocen las playas, senderos costeros y normas caninas estacionales de la zona de Falmouth.",
+          "descriptionPt": "Um serviço local de passeio e cuidado de cães sediado em Falmouth, com passeios e creche pela cidade e aldeias vizinhas. Sendo locais, conhecem as praias, trilhos costeiros e regras caninas sazonais da zona de Falmouth.",
+          "serviceTypeFr": "Promenade et garde en journée",
+          "serviceTypeEs": "Paseo y cuidado de día",
+          "serviceTypePt": "Passeio e cuidado de dia",
+          "tipFr": "Organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avec le promeneur avant le jour où vous avez besoin de la garde.",
+          "tipEs": "Organiza un breve encuentro previo al viaje, para que tu perro esté cómodo con el paseador antes del día en que necesites el servicio.",
+          "tipPt": "Combine um breve encontro antes da viagem, para que o seu cão esteja à vontade com o passeador antes do dia em que precisa de apoio."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I find a dog sitter in Falmouth?",
+          "a": "Yes. UK platforms like Rover list sitters, boarders and walkers across Falmouth, Penryn and the Fal area, alongside local services such as Trots and Treats. Book early for the summer holidays, when demand is highest."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je trouver une garde pour chien à Falmouth ?",
+          "a": "Oui. Des plateformes britanniques comme Rover référencent gardiens, pensions et promeneurs sur Falmouth, Penryn et la Fal, aux côtés de services locaux comme Trots and Treats. Réservez tôt pour les vacances d'été, quand la demande est la plus forte."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo encontrar cuidador de perros en Falmouth?",
+          "a": "Sí. Plataformas británicas como Rover listan cuidadores, alojadores y paseadores por Falmouth, Penryn y la zona del Fal, junto a servicios locales como Trots and Treats. Reserva pronto para las vacaciones de verano, cuando la demanda es más alta."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso encontrar um cuidador de cães em Falmouth?",
+          "a": "Sim. Plataformas britânicas como a Rover listam cuidadores, alojadores e passeadores por Falmouth, Penryn e a zona do Fal, a par de serviços locais como a Trots and Treats. Reserve cedo para as férias de verão, quando a procura é maior."
+        }
+      ],
+      "tipsEn": [
+        "Book sitters and day care well ahead in the summer holidays, when demand across Falmouth and Penryn is highest.",
+        "Arrange a short meet-and-greet before your trip so your dog is comfortable before the day you need cover.",
+        "Give sitters your vet details, including the 24-hour Rosemullion hospital number, in case of any emergency."
+      ],
+      "tipsFr": [
+        "Réservez tôt gardiens et garderies pendant les vacances d'été, quand la demande sur Falmouth et Penryn est la plus forte.",
+        "Organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avant le jour où vous avez besoin de la garde.",
+        "Donnez aux gardiens les coordonnées de votre vétérinaire, dont le numéro de l'hôpital Rosemullion 24h/24, en cas d'urgence."
+      ],
+      "tipsEs": [
+        "Reserva pronto cuidadores y guarderías en las vacaciones de verano, cuando la demanda en Falmouth y Penryn es más alta.",
+        "Organiza un breve encuentro previo al viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
+        "Da a los cuidadores los datos de tu veterinario, incluido el número del hospital Rosemullion 24 horas, por si surge una emergencia."
+      ],
+      "tipsPt": [
+        "Reserve cedo cuidadores e creches nas férias de verão, quando a procura em Falmouth e Penryn é mais elevada.",
+        "Combine um breve encontro antes da viagem, para que o seu cão esteja à vontade antes do dia em que precisa de apoio.",
+        "Dê aos cuidadores os dados do seu veterinário, incluindo o número do hospital Rosemullion 24 horas, caso surja uma emergência."
+      ]
+    }
+  }
+}

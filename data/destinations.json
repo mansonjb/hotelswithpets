@@ -8738,6 +8738,81 @@
     "countryCode": "PT"
   },
   {
+    "slug": "falmouth",
+    "name": "Falmouth",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/falmouth.jpg",
+    "intro": "A lively harbour and university town on Cornwall's mild south coast, with sandy beaches a short walk from the centre and one of the world's deepest natural harbours. Dogs ride the Maritime Line train into town and the St Mawes ferry for free, Pendennis Castle welcomes them inside on a lead, and Sunny Cove stays dog-friendly all year; the summer beach bans to know are Gyllyngvase (no dogs 15 May to 30 September, 10am to 6pm) and Swanpool, Castle Beach and Maenporth (1 July to 31 August).",
+    "lat": 50.1553,
+    "lng": -5.0656,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Mild, wet, breezy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Mild, damp",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Cool, brightening",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild, showery",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild, breezy",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Warm, pleasant",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm, busy seafront",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm, peak season",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild, golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 14,
+        "desc": "Mild, showery",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 12,
+        "desc": "Mild, wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 10,
+        "desc": "Mild, wet, windy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "NQY"
+  },
+  {
     "slug": "faro",
     "name": "Faro",
     "country": "Portugal",

@@ -14912,6 +14912,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  falmouth: {
+    history: {
+      fr: `Falmouth s'est développée autour de l'un des ports naturels les plus profonds du monde, sur la Carrick Roads abritée où la rivière Fal rejoint la mer. Elle prit son essor au XVIIe siècle comme port des Royal Mail Packets, expédiant les navires postaux à travers l'Atlantique, et Henri VIII avait déjà gardé l'entrée du port avec le château de Pendennis. Aujourd'hui c'est une ville portuaire et universitaire animée, célèbre pour la voile, le National Maritime Museum et un chapelet de plages de sable juste sous la ville. Pour un chien, c'est l'une des bases les plus faciles de Cornouailles : le train de la Maritime Line pénètre dans le centre avec les chiens gratuits, le château de Pendennis accueille les chiens en laisse à l'intérieur, le ferry de St Mawes les transporte gratuitement, et il y a même un vétérinaire d'urgence 24h/24 en ville. À anticiper : les interdictions estivales de plage à Gyllyngvase, Swanpool, Castle Beach et Maenporth et, pour les visiteurs de l'UE, l'Animal Health Certificate britannique exigé depuis le Brexit.`,
+      en: `Falmouth grew around one of the deepest natural harbours in the world, on the sheltered Carrick Roads where the River Fal meets the sea. It rose to prominence in the 17th century as a Royal Mail Packet port, sending mail ships across the Atlantic, and Henry VIII had already guarded the harbour mouth with Pendennis Castle. Today it is a lively harbour and university town, famous for sailing, the National Maritime Museum and a string of sandy beaches right below the town. For a dog it is one of Cornwall's easiest bases: the Maritime Line train runs into the centre with dogs free, Pendennis Castle welcomes dogs inside on a lead, the St Mawes ferry carries them free, and there is even a 24-hour emergency vet in town. The main things to plan around are the summer beach dog bans on Gyllyngvase, Swanpool, Castle Beach and Maenporth, and, for EU visitors, the GB Animal Health Certificate required since Brexit.`,
+      es: `Falmouth creció en torno a uno de los puertos naturales más profundos del mundo, en la resguardada Carrick Roads donde el río Fal se une al mar. Adquirió importancia en el siglo XVII como puerto de los Royal Mail Packets, enviando barcos correo a través del Atlántico, y Enrique VIII ya había protegido la bocana del puerto con el castillo de Pendennis. Hoy es una animada ciudad portuaria y universitaria, famosa por la vela, el National Maritime Museum y una sucesión de playas de arena justo bajo la ciudad. Para un perro es una de las bases más fáciles de Cornualles: el tren de la Maritime Line entra en el centro con los perros gratis, el castillo de Pendennis admite perros con correa dentro, el ferry de St Mawes los lleva gratis, y hasta hay un veterinario de urgencias 24 horas en la ciudad. Lo principal que planificar son los vetos estivales de playa en Gyllyngvase, Swanpool, Castle Beach y Maenporth y, para los visitantes de la UE, el Animal Health Certificate británico exigido desde el Brexit.`,
+      pt: `Falmouth cresceu em torno de um dos portos naturais mais profundos do mundo, na abrigada Carrick Roads onde o rio Fal encontra o mar. Ganhou importância no século XVII como porto dos Royal Mail Packets, enviando navios de correio pelo Atlântico, e Henrique VIII já guardara a foz do porto com o castelo de Pendennis. Hoje é uma animada cidade portuária e universitária, famosa pela vela, pelo National Maritime Museum e por uma sucessão de praias de areia mesmo sob a cidade. Para um cão é uma das bases mais fáceis da Cornualha: o comboio da Maritime Line entra no centro com os cães grátis, o castelo de Pendennis aceita cães à trela no interior, o ferry de St Mawes leva-os grátis, e há até um veterinário de urgência 24 horas na cidade. O principal a planear são as proibições de verão nas praias de Gyllyngvase, Swanpool, Castle Beach e Maenporth e, para os visitantes da UE, o Animal Health Certificate britânico exigido desde o Brexit.`,
+    },
+    sights: [
+      {
+        name: 'Gyllyngvase Beach',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `La principale plage de Falmouth, un large croissant de sable doré sur le front de mer, sous la ville. Interdite aux chiens du 15 mai au 30 septembre, 10h-18h ; avant 10h et après 18h, ils sont les bienvenus.`,
+          en: `Falmouth's main beach, a wide crescent of golden sand on the seafront below the town. Dogs banned 15 May to 30 September, 10am to 6pm; before 10am and after 6pm they are welcome.`,
+          es: `La principal playa de Falmouth, un amplio arco de arena dorada en el paseo marítimo, bajo la ciudad. Perros vetados del 15 de mayo al 30 de septiembre, 10-18h; antes de las 10 y después de las 18h son bienvenidos.`,
+          pt: `A principal praia de Falmouth, um amplo arco de areia dourada na marginal, sob a cidade. Cães proibidos de 15 de maio a 30 de setembro, 10h-18h; antes das 10h e depois das 18h são bem-vindos.`,
+        },
+      },
+      {
+        name: `Sunny Cove (Arthur's Beach)`,
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Petite crique abritée de sable et galets, sur le sentier côtier entre Swanpool et Maenporth. La seule plage locale ouverte aux chiens 24h/24 toute l'année ; on s'y rend à pied.`,
+          en: `A small, sheltered sand-and-shingle cove on the coast path between Swanpool and Maenporth. The one local beach open to dogs 24 hours all year; reached on foot.`,
+          es: `Pequeña cala resguardada de arena y grava, en el sendero costero entre Swanpool y Maenporth. La única playa local abierta a perros las 24 horas todo el año; se llega a pie.`,
+          pt: `Pequena enseada abrigada de areia e seixos, no trilho costeiro entre Swanpool e Maenporth. A única praia local aberta a cães 24 horas todo o ano; chega-se a pé.`,
+        },
+      },
+      {
+        name: 'Pendennis Castle',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `La forteresse côtière Tudor d'Henri VIII sur la pointe au-dessus du port. Fait rare, les chiens en laisse sont admis partout, y compris à l'intérieur des bâtiments et dans le parc.`,
+          en: `Henry VIII's Tudor coastal fortress on the headland above the harbour. Unusually, dogs on leads are welcome throughout, including inside the buildings and grounds.`,
+          es: `La fortaleza costera Tudor de Enrique VIII en el promontorio sobre el puerto. Algo raro: los perros con correa son bienvenidos por todas partes, incluso dentro de los edificios y jardines.`,
+          pt: `A fortaleza costeira Tudor de Henrique VIII no promontório sobre o porto. Algo raro: os cães à trela são bem-vindos por todo o lado, incluindo dentro dos edifícios e jardins.`,
+        },
+      },
+      {
+        name: 'Falmouth Harbour',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `L'un des ports naturels les plus profonds du monde, bordé de pubs et de cafés acceptant les chiens. En plein air et ouvert aux chiens toute l'année, c'est le cœur animé de la ville.`,
+          en: `One of the world's deepest natural harbours, lined with dog-friendly pubs and cafes. Open-air and dog-friendly year-round, it is the lively heart of the town.`,
+          es: `Uno de los puertos naturales más profundos del mundo, rodeado de pubs y cafeterías que admiten perros. Al aire libre y apto para perros todo el año, es el animado corazón de la ciudad.`,
+          pt: `Um dos portos naturais mais profundos do mundo, rodeado de pubs e cafés que aceitam cães. Ao ar livre e aberto a cães todo o ano, é o coração animado da cidade.`,
+        },
+      },
+      {
+        name: 'St Mawes Ferry',
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `Ferry passager depuis le Prince of Wales Pier vers le joli village de St Mawes, sur la Roseland. Les chiens sont les bienvenus et voyagent gratuitement, en laisse sur le pont.`,
+          en: `A passenger ferry from the Prince of Wales Pier to the pretty village of St Mawes on the Roseland. Dogs are welcome and travel free, on a lead on deck.`,
+          es: `Ferry de pasajeros desde el Prince of Wales Pier hacia el bonito pueblo de St Mawes, en la Roseland. Los perros son bienvenidos y viajan gratis, con correa en cubierta.`,
+          pt: `Ferry de passageiros do Prince of Wales Pier para a bonita aldeia de St Mawes, na Roseland. Os cães são bem-vindos e viajam grátis, à trela no convés.`,
+        },
+      },
+      {
+        name: 'Fox Rosehill Gardens',
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: `Petit jardin exotique et gratuit rempli de plantes subtropicales, ouvert toute l'année, entre la ville et le front de mer. Chiens en laisse bienvenus sur les allées sinueuses.`,
+          en: `A small, free exotic garden packed with subtropical plants, open all year, between the town and the seafront. Dogs on a lead are welcome on the winding paths.`,
+          es: `Pequeño jardín exótico y gratuito lleno de plantas subtropicales, abierto todo el año, entre la ciudad y el paseo marítimo. Perros con correa bienvenidos por los senderos sinuosos.`,
+          pt: `Pequeno jardim exótico e gratuito repleto de plantas subtropicais, aberto todo o ano, entre a cidade e a marginal. Cães à trela bem-vindos pelos caminhos sinuosos.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Sunny Cove (Arthur's Beach), entre Swanpool et Maenporth, est ouverte aux chiens 24h/24 toute l'année : un chien a toujours une plage, même en plein été.`,
+        `Les interdictions estivales des plages ne courent que de 10h à 18h : Gyllyngvase du 15 mai au 30 septembre, et Swanpool, Castle Beach et Maenporth du 1er juillet au 31 août ; amendes du Cornwall Council de 100 livres. Promenez les plages de ville avant 10h ou après 18h.`,
+        `Le train de la Maritime Line relie Truro à Falmouth avec les chiens gratuits (jusqu'à deux par passager, en laisse), et le ferry de St Mawes transporte les chiens gratuitement.`,
+        `Le château de Pendennis est particulièrement accueillant : chiens admis en laisse à l'intérieur des bâtiments et dans le parc, une rare option pour un jour de pluie avec un chien.`,
+        `Falmouth possède un vétérinaire d'urgence 24h/24 en ville, Rosemullion Veterinary Hospital / MiNightVet sur Bickland Water Road (+44 1326 313991). Urgence générale 999 ou 112.`,
+      ],
+      en: [
+        `Sunny Cove (Arthur's Beach), between Swanpool and Maenporth, is open to dogs 24 hours all year, so a dog always has a beach even in peak summer.`,
+        `Summer beach bans only run 10am to 6pm: Gyllyngvase 15 May to 30 September, and Swanpool, Castle Beach and Maenporth 1 July to 31 August; Cornwall Council fines are 100 pounds. Walk the town beaches before 10am or after 6pm.`,
+        `The Maritime Line train runs from Truro into Falmouth with dogs free (up to two per passenger, on a lead), and the St Mawes ferry carries dogs free of charge.`,
+        `Pendennis Castle is unusually dog-friendly, welcoming dogs on a lead inside the buildings and around the grounds, so it is a rare rainy-day option with a dog.`,
+        `Falmouth has an in-town 24-hour emergency vet, Rosemullion Veterinary Hospital / MiNightVet on Bickland Water Road (+44 1326 313991). General emergency 999 or 112.`,
+      ],
+      es: [
+        `Sunny Cove (Arthur's Beach), entre Swanpool y Maenporth, está abierta a los perros las 24 horas todo el año, así que un perro siempre tiene playa incluso en pleno verano.`,
+        `Los vetos estivales de playa solo rigen de 10 a 18h: Gyllyngvase del 15 de mayo al 30 de septiembre, y Swanpool, Castle Beach y Maenporth del 1 de julio al 31 de agosto; las multas del Cornwall Council son de 100 libras. Pasea las playas urbanas antes de las 10 o después de las 18h.`,
+        `El tren de la Maritime Line va de Truro a Falmouth con los perros gratis (hasta dos por pasajero, con correa), y el ferry de St Mawes lleva a los perros gratis.`,
+        `El castillo de Pendennis es especialmente acogedor: admite perros con correa dentro de los edificios y por los jardines, una rara opción para un día de lluvia con perro.`,
+        `Falmouth tiene un veterinario de urgencias 24 horas en la ciudad, Rosemullion Veterinary Hospital / MiNightVet en Bickland Water Road (+44 1326 313991). Emergencia general 999 o 112.`,
+      ],
+      pt: [
+        `Sunny Cove (Arthur's Beach), entre Swanpool e Maenporth, está aberta a cães 24 horas todo o ano, por isso um cão tem sempre praia mesmo em pleno verão.`,
+        `As proibições de verão nas praias só vigoram das 10h às 18h: Gyllyngvase de 15 de maio a 30 de setembro, e Swanpool, Castle Beach e Maenporth de 1 de julho a 31 de agosto; as multas do Cornwall Council são de 100 libras. Passeie as praias urbanas antes das 10h ou depois das 18h.`,
+        `O comboio da Maritime Line vai de Truro a Falmouth com os cães grátis (até dois por passageiro, à trela), e o ferry de St Mawes leva os cães grátis.`,
+        `O castelo de Pendennis é especialmente acolhedor: aceita cães à trela dentro dos edifícios e pelos jardins, uma rara opção para um dia de chuva com cão.`,
+        `Falmouth tem um veterinário de urgência 24 horas na cidade, Rosemullion Veterinary Hospital / MiNightVet na Bickland Water Road (+44 1326 313991). Emergência geral 999 ou 112.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), d'une puce, d'un vaccin antirabique et d'un traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : le train de la Maritime Line relie la gare principale de Truro à Falmouth avec les chiens gratuits ; l'aéroport de Newquay (NQY) est le plus proche, à environ une heure de route.`,
+        `Se déplacer : le centre de Falmouth est plat et se parcourt à pied, et le ferry de St Mawes et les Enterprise Boats, qui acceptent les chiens, explorent la Fal ; le stationnement est limité l'été.`,
+        `Météo : climat océanique doux avec certains des hivers les plus doux du Royaume-Uni (9-10 °C), étés chauds sans excès (18-19 °C), côte souvent venteuse. Printemps et automne idéaux.`,
+        `Numéros utiles : urgence générale 999 ou 112 ; vétérinaire 24h/24 en ville Rosemullion Veterinary Hospital / MiNightVet Falmouth +44 1326 313991.`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: the Maritime Line train runs from the mainline at Truro into Falmouth with dogs free; Newquay Airport (NQY) is the nearest airport, about an hour away by road.`,
+        `Getting around: central Falmouth is flat and walkable, and the dog-friendly St Mawes ferry and Enterprise Boats explore the Fal; parking is limited in summer.`,
+        `Weather: mild oceanic climate with some of the mildest winters in the UK (9-10 C), warm but not hot summers (18-19 C), and an often breezy coast. Spring and autumn are ideal.`,
+        `Useful numbers: general emergency 999 or 112; in-town 24-hour vet Rosemullion Veterinary Hospital / MiNightVet Falmouth +44 1326 313991.`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento antitenia entre 24 y 120 horas antes de la llegada.`,
+        `Cómo llegar: el tren de la Maritime Line va desde la línea principal en Truro hasta Falmouth con los perros gratis; el aeropuerto de Newquay (NQY) es el más cercano, a una hora en coche.`,
+        `Cómo moverse: el centro de Falmouth es llano y se recorre a pie, y el ferry de St Mawes y los Enterprise Boats, que admiten perros, exploran el Fal; el aparcamiento es limitado en verano.`,
+        `Tiempo: clima oceánico suave con algunos de los inviernos más suaves del Reino Unido (9-10 C), veranos cálidos sin excesos (18-19 C), costa a menudo ventosa. Primavera y otoño ideales.`,
+        `Números útiles: emergencia general 999 o 112; veterinario 24 horas en la ciudad Rosemullion Veterinary Hospital / MiNightVet Falmouth +44 1326 313991.`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate britânico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia entre 24 e 120 horas antes da chegada.`,
+        `Como chegar: o comboio da Maritime Line vai desde a linha principal em Truro até Falmouth com os cães grátis; o aeroporto de Newquay (NQY) é o mais próximo, a cerca de uma hora de carro.`,
+        `Como circular: o centro de Falmouth é plano e percorre-se a pé, e o ferry de St Mawes e os Enterprise Boats, que aceitam cães, exploram o Fal; o estacionamento é limitado no verão.`,
+        `Tempo: clima oceânico ameno com alguns dos invernos mais suaves do Reino Unido (9-10 C), verões quentes sem excessos (18-19 C), costa muitas vezes ventosa. Primavera e outono ideais.`,
+        `Números úteis: emergência geral 999 ou 112; veterinário 24 horas na cidade Rosemullion Veterinary Hospital / MiNightVet Falmouth +44 1326 313991.`,
+      ],
+    },
+  },
+
   faro: {
     history: {
       fr: `Faro, fondée à l'époque romaine sous le nom d'Ossonoba, fut occupée par les Wisigoths puis par les Maures (qui lui donnèrent son nom moderne, dérivé du fondateur Harun ibn Habib) jusqu'à la reconquête chrétienne d'Alphonse III du Portugal en 1249. Le tremblement de terre de Lisbonne de 1755 dévasta la ville, qui fut reconstruite dans son style néoclassique actuel autour de la Cidade Velha médiévale toujours debout. Aujourd'hui capitale administrative et universitaire de l'Algarve (66 000 habitants), Faro est aussi la porte d'entrée touristique du sud du Portugal grâce à son aéroport international (FAO) avec vols directs depuis 30+ villes européennes. Pour les voyageurs avec un chien, Faro est l'une des destinations atlantiques dog-friendly les plus complètes : Cidade Velha piétonne en 15 min, parc naturel de la Ria Formosa de 18 000 hectares à l'orée de la ville, plages canines toute l'année sur les îles barrières via ferries, hôpital vétérinaire 24h/24 dans le centre, et suppléments animaux 8-12 €/nuit, parmi les plus bas du sud de l'Europe.`,

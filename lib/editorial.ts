@@ -776,6 +776,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Roman Temple of Évora, the Cromeleque dos Almendres megalithic site (7,000 years older than Stonehenge), and the Lago Alqueva dog beaches at Monsaraz`,
       area: `the Centro Histórico around Praça do Giraldo, the Roman Temple area on Largo do Conde de Vila Flor, and the Alentejo wine route just outside the walls`,
     },
+    falmouth: {
+      personality: `a lively harbour and university town on Cornwall's mild south coast, with sandy beaches a short walk from the centre and one of the world's deepest natural harbours`,
+      highlight: `dog-friendly Pendennis Castle, the free St Mawes ferry across the Carrick Roads, year-round Sunny Cove and the coast path around Pendennis Point`,
+      area: `the harbour high street and Custom House Quay, the Gyllyngvase seafront and Pendennis headland, and Discovery Quay by the Maritime Museum`,
+    },
     faro: {
       personality: `the Algarve capital and gateway to Portugal's southern coast, a UNESCO-rated Cidade Velha, the 18,000-hectare Ria Formosa Natural Park with year-round flamingo boardwalks, dog-friendly Atlantic barrier-island beaches via ferry, and the lowest pet supplements in southern Europe`,
       highlight: `the Cidade Velha and Arco da Vila stork gate, the Ria Formosa boardwalk to the salt pans, and the Ilha Deserta wild Atlantic dog beach by ferry`,
@@ -2739,6 +2744,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Temple romain d'Évora, le site mégalithique du Cromeleque dos Almendres (7 000 ans plus ancien que Stonehenge), et les plages canines du lac Alqueva à Monsaraz`,
       area: `le Centro Histórico autour de la Praça do Giraldo, le quartier du Temple romain sur le Largo do Conde de Vila Flor, et la route des vins de l'Alentejo juste en dehors des murs`,
     },
+    falmouth: {
+      personality: `une ville portuaire et universitaire animée sur la côte sud douce de la Cornouailles, avec des plages de sable à deux pas du centre et l'un des ports naturels les plus profonds du monde`,
+      highlight: `le château de Pendennis ouvert aux chiens, le ferry gratuit de St Mawes à travers la Carrick Roads, Sunny Cove ouverte toute l'année et le sentier côtier autour de Pendennis Point`,
+      area: `la rue principale du port et Custom House Quay, le front de mer de Gyllyngvase et la pointe de Pendennis, et Discovery Quay près du Maritime Museum`,
+    },
     faro: {
       personality: `la capitale de l'Algarve et la porte d'entrée de la côte sud du Portugal, Cidade Velha classée UNESCO, parc naturel de la Ria Formosa de 18 000 ha avec ses boardwalks aux flamants toute l'année, plages canines atlantiques sur îles barrières en ferry, et les suppléments animaux les plus bas du sud de l'Europe`,
       highlight: `la Cidade Velha et l'Arco da Vila avec ses cigognes, le boardwalk de la Ria Formosa vers les marais salants, et la plage canine sauvage atlantique de l'Ilha Deserta en ferry`,
@@ -4701,6 +4711,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Templo romano de Évora, el sitio megalítico del Cromeleque dos Almendres (7 000 años más antiguo que Stonehenge), y las playas caninas del lago Alqueva en Monsaraz`,
       area: `el Centro Histórico alrededor de la Praça do Giraldo, la zona del Templo romano en el Largo do Conde de Vila Flor, y la ruta del vino del Alentejo justo fuera de las murallas`,
     },
+    falmouth: {
+      personality: `una animada ciudad portuaria y universitaria en la suave costa sur de Cornualles, con playas de arena a pocos pasos del centro y uno de los puertos naturales más profundos del mundo`,
+      highlight: `el castillo de Pendennis que admite perros, el ferry gratuito de St Mawes por la Carrick Roads, Sunny Cove abierta todo el año y el sendero costero alrededor de Pendennis Point`,
+      area: `la calle principal del puerto y Custom House Quay, el paseo marítimo de Gyllyngvase y el promontorio de Pendennis, y Discovery Quay junto al Maritime Museum`,
+    },
     faro: {
       personality: `la capital del Algarve y la puerta de entrada a la costa sur de Portugal, Cidade Velha clasificada UNESCO, parque natural de la Ria Formosa de 18 000 ha con sus boardwalks de flamencos todo el año, playas caninas atlánticas en islas barrera en ferry, y los suplementos para mascotas más bajos del sur de Europa`,
       highlight: `la Cidade Velha y el Arco da Vila con sus cigüeñas, el boardwalk de la Ria Formosa hacia las salinas, y la playa canina salvaje atlántica de la Ilha Deserta en ferry`,
@@ -6662,6 +6677,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a capital UNESCO alentejana e antiga cidade romana, visigoda e morisca, Templo romano de 2 000 anos, a inquietante Capela dos Ossos, uno dos mayores circuitos de muralhas medievais de Iberia, e acesso directo CP a partir de Lisboa en 1h30`,
       highlight: `o Templo romano de Évora, o sitio megalítico do Cromeleque dos Almendres (7 000 anos mais antigo que Stonehenge), e as praias caninas do lago Alqueva en Monsaraz`,
       area: `o Centro Histórico alrededor da Praça do Giraldo, a zona do Templo romano no Largo do Conde de Vila Flor, e a ruta do vino do Alentejo justo fora das muralhas`,
+    },
+    falmouth: {
+      personality: `uma animada cidade portuária e universitária na amena costa sul da Cornualha, com praias de areia a poucos passos do centro e um dos portos naturais mais profundos do mundo`,
+      highlight: `o castelo de Pendennis que aceita cães, o ferry gratuito de St Mawes pela Carrick Roads, Sunny Cove aberta todo o ano e o trilho costeiro à volta de Pendennis Point`,
+      area: `a rua principal do porto e o Custom House Quay, a marginal de Gyllyngvase e o promontório de Pendennis, e o Discovery Quay junto ao Maritime Museum`,
     },
     faro: {
       personality: `a capital do Algarve e a puerta de entrada a a costa sur de Portugal, Cidade Velha clasificada UNESCO, parque natural da Ria Formosa de 18 000 ha com os seus boardwalks de flamencos o ano inteiro, praias caninas atlánticas en ilhas barrera en ferry, e os suplementos para animais mais bajos do sul de Europa`,

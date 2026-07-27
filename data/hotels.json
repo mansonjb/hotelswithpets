@@ -16675,6 +16675,228 @@
     "petPolicyPt": "Casa do Foral, um 3-star family-run guesthouse em um 16th-century townhouse, welcomes cães em 8 € por noite. One animal per quarto standard, second em prior pedido. Praça do Giraldo 2 min em foot."
   },
   {
+    "id": "falmouth-1",
+    "name": "Anacapri",
+    "destinationSlug": "falmouth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 1880,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hotelanacapri.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Beachfront"
+    ],
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar.",
+    "slug": "anacapri-falmouth"
+  },
+  {
+    "id": "falmouth-2",
+    "name": "Bosanneth",
+    "destinationSlug": "falmouth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 384,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/bosanneth-falmouth.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar.",
+    "slug": "bosanneth-falmouth"
+  },
+  {
+    "id": "falmouth-3",
+    "name": "Chelsea House Apartments",
+    "destinationSlug": "falmouth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.8,
+    "reviewCount": 139,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/chelseahouse.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
+    ],
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar.",
+    "slug": "chelsea-house-apartments-falmouth"
+  },
+  {
+    "id": "falmouth-4",
+    "name": "Peaceful Scandi Garden room",
+    "destinationSlug": "falmouth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.4,
+    "reviewCount": 60,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/falmouth-scandi-garden-room.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Fast free WiFi (71 Mbps)",
+      "Non-smoking rooms"
+    ],
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar.",
+    "slug": "peaceful-scandi-garden-room-falmouth"
+  },
+  {
+    "id": "falmouth-5",
+    "name": "Endcliffe",
+    "destinationSlug": "falmouth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.7,
+    "reviewCount": 31,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/endcliffe.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar.",
+    "slug": "endcliffe-falmouth"
+  },
+  {
+    "id": "falmouth-6",
+    "name": "The Retreat",
+    "destinationSlug": "falmouth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-retreat-falmouth1.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi"
+    ],
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar.",
+    "slug": "the-retreat-falmouth"
+  },
+  {
+    "id": "falmouth-7",
+    "name": "The Stable, Boskensoe Barns",
+    "destinationSlug": "falmouth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-stable-boskensoe-barns-falmouth.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi"
+    ],
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar.",
+    "slug": "the-stable-boskensoe-barns-falmouth"
+  },
+  {
+    "id": "falmouth-8",
+    "name": "1 Florence Place",
+    "destinationSlug": "falmouth",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/1-florence-place-cornwall.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Pet-friendly",
+      "Central location"
+    ],
+    "petPolicyFr": "Chiens bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el alojamiento al reservar.",
+    "petPolicyPt": "Cães bem-vindos; confirme o tamanho, o número e qualquer taxa de animal com o alojamento ao reservar.",
+    "slug": "1-florence-place-falmouth"
+  },
+  {
     "id": "faro-1",
     "name": "Eva Senses Hotel",
     "destinationSlug": "faro",

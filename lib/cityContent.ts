@@ -13677,6 +13677,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  cromer: {
+    history: {
+      fr: `Cromer, station balnéaire du North Norfolk, s'est développée à partir d'un village de pêcheurs réputé pour son crabe, avant de devenir une élégante station victorienne desservie par le chemin de fer. Sa jetée classée, inaugurée en 1902, abrite le dernier théâtre de bout de jetée du pays et une station de sauvetage RNLI. Perchée sur les plus hautes falaises du Norfolk, la ville reste célèbre pour le crabe de Cromer et pour une culture canine britannique bien ancrée. Point essentiel pour les visiteurs avec un chien : le North Norfolk District Council interdit les chiens sur la plage principale, de part et d'autre de la jetée, du 1er mai au 30 septembre, avec une amende de 100 £. La promenade reste accueillante toute l'année, la plage voisine d'East Runton accepte les chiens tout l'été, et le Norfolk Coast Path longe les falaises. Note pratique : depuis le Brexit, un Animal Health Certificate britannique est exigé pour les chiens venant de l'UE.`,
+      en: `Cromer, a North Norfolk seaside town, grew from a fishing village famous for its crab into an elegant Victorian resort reached by the railway. Its listed pier, opened in 1902, is home to the country's last end-of-pier theatre and an RNLI lifeboat station. Set on the highest cliffs in Norfolk, the town is still famous for Cromer crab and for a well-established British dog culture. The key point for visitors with a dog: North Norfolk District Council bans dogs from the main beach, either side of the pier, from 1 May to 30 September, with a £100 fine. The promenade stays dog-friendly all year, neighbouring East Runton beach welcomes dogs right through the summer, and the Norfolk Coast Path runs along the cliffs. One practical note: since Brexit, a GB Animal Health Certificate is required for dogs arriving from the EU.`,
+      es: `Cromer, un pueblo costero del norte de Norfolk, pasó de ser una aldea pesquera famosa por su cangrejo a un elegante balneario victoriano al que llegaba el ferrocarril. Su muelle catalogado, inaugurado en 1902, alberga el último teatro al final de un muelle del país y una estación de salvamento RNLI. Situada en los acantilados más altos de Norfolk, la ciudad sigue siendo famosa por el cangrejo de Cromer y por una arraigada cultura canina británica. El punto clave para los visitantes con perro: el North Norfolk District Council prohíbe los perros en la playa principal, a ambos lados del muelle, del 1 de mayo al 30 de septiembre, con una multa de 100 £. El paseo sigue admitiendo perros todo el año, la vecina playa de East Runton los recibe durante todo el verano, y el Norfolk Coast Path recorre los acantilados. Una nota práctica: desde el Brexit, se exige un Animal Health Certificate británico para los perros que llegan de la UE.`,
+      pt: `Cromer, uma vila costeira do norte de Norfolk, passou de aldeia piscatória famosa pelo seu caranguejo a um elegante balneário vitoriano onde chegava o comboio. O seu cais classificado, inaugurado em 1902, alberga o último teatro no fim de um cais do país e uma estação de salvamento RNLI. Situada nas falésias mais altas de Norfolk, a vila continua famosa pelo caranguejo de Cromer e por uma enraizada cultura canina britânica. O ponto-chave para os visitantes com cão: o North Norfolk District Council proíbe os cães na praia principal, de ambos os lados do cais, de 1 de maio a 30 de setembro, com uma coima de 100 £. A marginal continua a aceitar cães todo o ano, a vizinha praia de East Runton recebe-os durante todo o verão, e o Norfolk Coast Path percorre as falésias. Uma nota prática: desde o Brexit, exige-se um Animal Health Certificate britânico para os cães que chegam da UE.`,
+    },
+    sights: [
+      {
+        name: 'Cromer Beach and Promenade',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          fr: `Plage de sable et galets sous les falaises et la jetée. Chiens interdits sur la plage du 1er mai au 30 sept (amende 100 £) ; promenade et plage hors saison OK, en laisse.`,
+          en: `A sand-and-shingle beach below the cliffs and pier. Dogs banned from the beach 1 May to 30 Sep (£100 fine); promenade and off-season beach fine, on a lead.`,
+          es: `Playa de arena y grava bajo los acantilados y el muelle. Perros prohibidos en la playa del 1 may al 30 sep (multa 100 £); paseo y playa fuera de temporada OK, con correa.`,
+          pt: `Praia de areia e cascalho sob as falésias e o cais. Cães proibidos na praia de 1 mai a 30 set (coima 100 £); marginal e praia fora de época OK, à trela.`,
+        },
+      },
+      {
+        name: 'East Runton Beach',
+        emoji: '🐾',
+        petFriendly: true,
+        desc: {
+          fr: `La plage canine à l'année la plus proche, à 2,5 km à l'ouest. Vaste sable à marée basse, sans restriction saisonnière. Chiens en laisse près des autres usagers.`,
+          en: `The nearest year-round dog beach, 1.5 miles west. Wide sand at low tide, no seasonal restriction. Dogs on a lead near other beach users.`,
+          es: `La playa canina de todo el año más cercana, a 2,5 km al oeste. Amplia arena con marea baja, sin restricción estacional. Perros con correa cerca de otros usuarios.`,
+          pt: `A praia canina de todo o ano mais próxima, a 2,5 km a oeste. Ampla areia na maré baixa, sem restrição sazonal. Cães à trela perto de outros utentes.`,
+        },
+      },
+      {
+        name: 'Cromer Pier',
+        emoji: '🎡',
+        petFriendly: true,
+        desc: {
+          fr: `Jetée victorienne classée de 1902, avec théâtre de bout de jetée et station RNLI. Chiens en laisse sur la promenade toute l'année ; l'emblème de la ville.`,
+          en: `A listed 1902 Victorian pier with an end-of-pier theatre and RNLI station. Dogs on a lead on the promenade all year; the town's emblem.`,
+          es: `Muelle victoriano catalogado de 1902, con teatro al final del muelle y estación RNLI. Perros con correa en el paseo todo el año; el emblema del pueblo.`,
+          pt: `Cais vitoriano classificado de 1902, com teatro no fim do cais e estação RNLI. Cães à trela na marginal todo o ano; o emblema da vila.`,
+        },
+      },
+      {
+        name: 'Norfolk Coast Path',
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          fr: `Sentier des falaises d'environ 6 km de Cromer à Sheringham par Beeston Bump. Chiens en laisse ; restez à l'écart du bord qui s'érode. Retour en train Bittern Line.`,
+          en: `A clifftop path of about 4 miles from Cromer to Sheringham over Beeston Bump. Dogs on a lead; keep back from the eroding edge. Return on the Bittern Line.`,
+          es: `Sendero de acantilados de unos 6 km de Cromer a Sheringham por Beeston Bump. Perros con correa; aléjate del borde que se erosiona. Vuelta en el tren Bittern Line.`,
+          pt: `Trilho das falésias de cerca de 6 km de Cromer a Sheringham pelo Beeston Bump. Cães à trela; afaste-se da berma que se erode. Regresso no comboio Bittern Line.`,
+        },
+      },
+      {
+        name: 'Felbrigg Hall Estate',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          fr: `Domaine du National Trust à 5 km, 210 ha de bois, parc et lac. Chiens en laisse dans tout le domaine du 1er mars au 31 juillet ; pas dans la maison ni le jardin clos.`,
+          en: `A National Trust estate 3 miles away, 520 acres of woods, park and a lake. Dogs on a lead across the estate 1 March to 31 July; not in the house or walled garden.`,
+          es: `Finca del National Trust a 5 km, 210 ha de bosques, parque y un lago. Perros con correa por toda la finca del 1 mar al 31 jul; no en la casa ni el jardín amurallado.`,
+          pt: `Propriedade do National Trust a 5 km, 210 ha de bosques, parque e um lago. Cães à trela por toda a propriedade de 1 mar a 31 jul; não na casa nem no jardim murado.`,
+        },
+      },
+      {
+        name: 'West Runton Beach',
+        emoji: '🦴',
+        petFriendly: true,
+        desc: {
+          fr: `Plage de sable et de craie à 5 km, célèbre pour le mammouth de West Runton. Petite restriction près de la cale du 1er mai au 31 sept ; ailleurs, chiens toute l'année.`,
+          en: `A sand-and-chalk beach 3 miles west, famous for the West Runton Mammoth. Small restriction near the slipway 1 May to 30 Sep; elsewhere dogs all year.`,
+          es: `Playa de arena y creta a 5 km, famosa por el mamut de West Runton. Pequeña restricción cerca de la rampa del 1 may al 30 sep; en el resto, perros todo el año.`,
+          pt: `Praia de areia e giz a 5 km, famosa pelo mamute de West Runton. Pequena restrição perto da rampa de 1 mai a 30 set; no resto, cães todo o ano.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Règle clé : du 1er mai au 30 septembre les chiens sont interdits sur la plage principale de Cromer de part et d'autre de la jetée (amende 100 £) ; utilisez la promenade ou allez à East Runton, accueillante toute l'année.`,
+        `D'octobre à avril, la plage de Cromer s'ouvre entièrement aux chiens et devient un superbe espace venteux pour courir au pied des falaises.`,
+        `Sur les falaises, tenez le chien en laisse et bien à l'écart du bord qui s'érode et n'est pas clôturé par endroits ; en laisse aussi près du bétail et des nicheurs au sol à l'intérieur des terres.`,
+        `La Bittern Line accepte les chiens gratuitement (jusqu'à deux par voyageur, en laisse) : marchez la côte de Cromer à Sheringham et revenez en train.`,
+        `Vétérinaire : Cromer Vets, 48 Overstrand Road, propose un soutien 24h/24 pour ses clients (+44 1263 808999) ; enregistrez le numéro avant une longue balade.`,
+      ],
+      en: [
+        `Key rule: from 1 May to 30 September dogs are banned from the main Cromer beach either side of the pier (£100 fine); use the promenade or head to East Runton, which is dog-friendly all year.`,
+        `From October to April, Cromer beach opens fully to dogs and becomes a superb, breezy space for a run below the cliffs.`,
+        `On the cliffs, keep the dog on a lead and well back from the eroding, unfenced edge; on a lead too near livestock and ground-nesting birds inland.`,
+        `The Bittern Line takes dogs free (up to two per passenger, on a lead): walk the coast from Cromer to Sheringham and ride the train back.`,
+        `Vet: Cromer Vets, 48 Overstrand Road, offers 24-hour support for its clients (+44 1263 808999); save the number before a long walk.`,
+      ],
+      es: [
+        `Regla clave: del 1 de mayo al 30 de septiembre los perros están prohibidos en la playa principal de Cromer a ambos lados del muelle (multa 100 £); usa el paseo o ve a East Runton, apta para perros todo el año.`,
+        `De octubre a abril, la playa de Cromer se abre por completo a los perros y se convierte en un magnífico espacio ventoso para correr al pie de los acantilados.`,
+        `En los acantilados, lleva al perro con correa y bien lejos del borde que se erosiona y sin valla en algunos puntos; con correa también cerca del ganado y las aves que anidan en el suelo tierra adentro.`,
+        `La Bittern Line lleva perros gratis (hasta dos por pasajero, con correa): camina la costa de Cromer a Sheringham y vuelve en tren.`,
+        `Veterinario: Cromer Vets, 48 Overstrand Road, ofrece apoyo 24 horas para sus clientes (+44 1263 808999); guarda el número antes de un paseo largo.`,
+      ],
+      pt: [
+        `Regra-chave: de 1 de maio a 30 de setembro os cães são proibidos na praia principal de Cromer de ambos os lados do cais (coima 100 £); use a marginal ou vá a East Runton, que aceita cães todo o ano.`,
+        `De outubro a abril, a praia de Cromer abre por completo aos cães e torna-se um magnífico espaço ventoso para correr ao pé das falésias.`,
+        `Nas falésias, mantenha o cão à trela e bem longe da berma que se erode e sem vedação em alguns pontos; à trela também perto do gado e das aves que nidificam no solo no interior.`,
+        `A Bittern Line leva cães grátis (até dois por passageiro, à trela): caminhe a costa de Cromer a Sheringham e volte de comboio.`,
+        `Veterinário: Cromer Vets, 48 Overstrand Road, oferece apoio 24 horas aos seus clientes (+44 1263 808999); guarde o número antes de um passeio longo.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée au Royaume-Uni post-Brexit : la Grande-Bretagne n'accepte pas le passeport pour animaux de l'UE ; les chiens ont besoin d'un Animal Health Certificate britannique (émis sous 10 jours), puce, vaccin antirabique et traitement anti-ténia 24 à 120 h avant l'arrivée.`,
+        `Accès : gare de Cromer sur la pittoresque Bittern Line vers Sheringham et Norwich ; aéroport le plus proche Norwich (NWI), à environ 45 min de route.`,
+        `Se déplacer : ville compacte à parcourir à pied ; la Bittern Line et les bus locaux longent la côte vers Sheringham et les Runtons, acceptant les chiens.`,
+        `Météo : climat frais de la côte de la mer du Nord, venteux ; étés doux (18-19 °C), hivers froids et humides (7 °C). Prévoyez coupe-vent et serviette pour chien.`,
+        `Numéros utiles : urgence générale 999 ou 112 ; Cromer Vets, soutien 24h/24 pour les clients, +44 1263 808999.`,
+      ],
+      en: [
+        `Post-Brexit UK entry: Great Britain does not accept the EU Pet Passport; dogs need a GB Animal Health Certificate (issued within 10 days), a microchip, a rabies vaccination and a tapeworm treatment 24 to 120 hours before arrival.`,
+        `Getting there: Cromer has a station on the scenic Bittern Line to Sheringham and Norwich; the nearest airport is Norwich (NWI), about 45 minutes by road.`,
+        `Getting around: a compact town to walk on foot; the Bittern Line and local buses run along the coast to Sheringham and the Runtons, taking dogs.`,
+        `Weather: a cool North Sea coastal climate, breezy; mild summers (18-19 C) and cold, wet winters (7 C). Pack a windproof and a dog towel.`,
+        `Useful numbers: general emergency 999 or 112; Cromer Vets, 24-hour support for clients, +44 1263 808999.`,
+      ],
+      es: [
+        `Entrada al Reino Unido tras el Brexit: Gran Bretaña no acepta el Pasaporte Europeo para Mascotas; los perros necesitan un Animal Health Certificate británico (emitido en 10 días), microchip, vacuna antirrábica y tratamiento antitenia entre 24 y 120 horas antes de la llegada.`,
+        `Cómo llegar: Cromer tiene estación en la pintoresca Bittern Line hacia Sheringham y Norwich; el aeropuerto más cercano es Norwich (NWI), a unos 45 minutos por carretera.`,
+        `Cómo moverse: un pueblo compacto para recorrer a pie; la Bittern Line y los autobuses locales recorren la costa hacia Sheringham y los Runtons, admitiendo perros.`,
+        `Tiempo: un clima fresco de la costa del Mar del Norte, ventoso; veranos suaves (18-19 C) e inviernos fríos y húmedos (7 C). Lleva cortavientos y toalla para el perro.`,
+        `Números útiles: emergencia general 999 o 112; Cromer Vets, apoyo 24 horas para clientes, +44 1263 808999.`,
+      ],
+      pt: [
+        `Entrada no Reino Unido pós-Brexit: a Grã-Bretanha não aceita o Passaporte Europeu para Animais; os cães precisam de um Animal Health Certificate britânico (emitido em 10 dias), microchip, vacina antirrábica e tratamento contra a ténia entre 24 e 120 horas antes da chegada.`,
+        `Como chegar: Cromer tem estação na pitoresca Bittern Line para Sheringham e Norwich; o aeroporto mais próximo é Norwich (NWI), a cerca de 45 minutos por estrada.`,
+        `Como circular: uma vila compacta para percorrer a pé; a Bittern Line e os autocarros locais percorrem a costa até Sheringham e os Runtons, aceitando cães.`,
+        `Tempo: um clima fresco da costa do Mar do Norte, ventoso; verões amenos (18-19 C) e invernos frios e húmidos (7 C). Leve corta-vento e toalha para o cão.`,
+        `Números úteis: emergência geral 999 ou 112; Cromer Vets, apoio 24 horas para clientes, +44 1263 808999.`,
+      ],
+    },
+  },
+
   delft: {
     history: {
       fr: `Delft est une ville de canaux du sud de la Hollande, à mi-chemin entre La Haye et Rotterdam, célèbre pour deux gloires nées entre ses murs: le peintre Johannes Vermeer et la faïence bleue de Delft. Autour de la grande place du Markt se font face la Nieuwe Kerk, dont la crypte abrite les tombeaux de la famille royale d'Orange-Nassau, et l'hôtel de ville Renaissance. Un peu plus loin, l'Oude Kerk penche visiblement au-dessus des canaux, tandis que le Prinsenhof, ancien couvent où Guillaume d'Orange fut assassiné en 1584, garde la mémoire de l'indépendance néerlandaise. La manufacture Royal Delft perpétue depuis 1653 l'art du carreau peint à la main. Ville plate, compacte et sillonnée de vélos, Delft se parcourt idéalement à pied le long de ses grachten et de ses hofjes, ces cours intérieures paisibles, sous un climat maritime doux mais souvent venteux et pluvieux.`,

@@ -7888,6 +7888,33 @@
     "iata": "LIS"
   },
   {
+    "slug": "cromer",
+    "name": "Cromer",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🇬🇧",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/cromer.jpg",
+    "intro": "Cromer is an old-fashioned North Norfolk seaside town of pier, cliffs and famous crab, and a fine dog base once you know the beach rules. From 1 May to 30 September dogs are banned from the main town beach either side of the pier (£100 fine), but the promenade is dog-friendly year-round, nearby East Runton stays open to dogs all summer, and the Norfolk Coast Path runs along the clifftops. The great National Trust estate at Felbrigg lies just inland. Keep dogs on a lead near the crumbling cliff edges and near livestock.",
+    "lat": 52.9315,
+    "lng": 1.3027,
+    "weather": {
+      "jan": {"temp": 7, "desc": "Cold & breezy", "icon": "🌧️"},
+      "feb": {"temp": 7, "desc": "Cold North Sea wind", "icon": "🌧️"},
+      "mar": {"temp": 9, "desc": "Cool & breezy", "icon": "🌦️"},
+      "apr": {"temp": 11, "desc": "Cool coastal air", "icon": "🌦️"},
+      "may": {"temp": 14, "desc": "Mild & fresh", "icon": "⛅"},
+      "jun": {"temp": 17, "desc": "Mild & breezy", "icon": "🌤️"},
+      "jul": {"temp": 19, "desc": "Warm & breezy", "icon": "🌤️"},
+      "aug": {"temp": 19, "desc": "Warm sea breezes", "icon": "🌤️"},
+      "sep": {"temp": 17, "desc": "Mild & pleasant", "icon": "⛅"},
+      "oct": {"temp": 13, "desc": "Cool & breezy", "icon": "🌦️"},
+      "nov": {"temp": 10, "desc": "Cold & windy", "icon": "🌧️"},
+      "dec": {"temp": 8, "desc": "Cold & damp", "icon": "🌧️"}
+    },
+    "iata": "NWI"
+  },
+  {
     "slug": "delft",
     "name": "Delft",
     "country": "Netherlands",

@@ -1817,6 +1817,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Stock Ghyll Force waterfall walk, the rambling Loughrigg Fell, and the dog-friendly Windermere Lake Cruises from Waterhead`,
       area: `the Market Cross and its lanes, the Waterhead lakeshore, and the Rydal Water shore towards Grasmere`,
     },
+    cromer: {
+      personality: `an old-fashioned North Norfolk seaside town of pier, cliffs and famous crab, where dogs walk the promenade year-round, the summer beach ban sends you to nearby dog-friendly East Runton, and the Norfolk Coast Path runs along the clifftops`,
+      highlight: `the Grade II-listed Victorian pier and promenade, the year-round dog beach at East Runton, and the clifftop Norfolk Coast Path to Sheringham`,
+      area: `the seafront and pier, the East and West Runton beaches to the west, and the Felbrigg Hall estate inland`,
+    },
     'bourton-on-the-water': {
       personality: `the "Venice of the Cotswolds", a honey-stone village where the shallow River Windrush runs down the main street under low bridges, dogs are welcome in most of the pubs and cafes, and near-level footpaths lead out to the storybook villages of the Slaughters`,
       highlight: `the low stone bridges over the Windrush, the stile-free walk to Lower and Upper Slaughter, and the Greystones Farm nature reserve`,
@@ -3818,6 +3823,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `une belle ville de marche à la tête du lac Windermere dans le Lake District, où les chiens sont les bienvenus sur presque tous les fells et sentiers, voyagent gratuitement sur les Windermere Lake Cruises, et sont accueillis dans la plupart des pubs`,
       highlight: `la promenade de la cascade de Stock Ghyll Force, le fell vallonné de Loughrigg et les Windermere Lake Cruises depuis Waterhead qui acceptent les chiens`,
       area: `la Market Cross et ses ruelles, la rive de Waterhead et la rive de Rydal Water vers Grasmere`,
+    },
+    cromer: {
+      personality: `une station balnéaire du North Norfolk à l'ancienne, faite de jetée, de falaises et du célèbre crabe, où les chiens parcourent la promenade toute l'année, où l'interdiction estivale des plages vous envoie vers East Runton toute proche et accueillante, et où le Norfolk Coast Path longe les falaises`,
+      highlight: `la jetée victorienne classée et sa promenade, la plage canine à l'année d'East Runton, et le Norfolk Coast Path sur les falaises vers Sheringham`,
+      area: `le front de mer et la jetée, les plages d'East et West Runton à l'ouest, et le domaine de Felbrigg Hall à l'intérieur des terres`,
     },
     'bourton-on-the-water': {
       personality: `la "Venise des Cotswolds", un village de pierre dorée où la Windrush peu profonde descend la rue principale sous de bas ponts, où les chiens sont les bienvenus dans la plupart des pubs et cafés, et d'où des sentiers presque plats mènent aux villages de conte des Slaughters`,
@@ -5821,6 +5831,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el paseo de la cascada de Stock Ghyll Force, el ondulado Loughrigg Fell y los Windermere Lake Cruises desde Waterhead que admiten perros`,
       area: `la Market Cross y sus callejuelas, la orilla de Waterhead y la orilla de Rydal Water hacia Grasmere`,
     },
+    cromer: {
+      personality: `un pueblo costero del norte de Norfolk a la antigua, de muelle, acantilados y famoso cangrejo, donde los perros pasean por el paseo todo el año, la prohibición veraniega de la playa te envía a la cercana y acogedora East Runton, y el Norfolk Coast Path recorre lo alto de los acantilados`,
+      highlight: `el muelle victoriano catalogado y su paseo, la playa canina de todo el año en East Runton, y el Norfolk Coast Path por los acantilados hacia Sheringham`,
+      area: `el frente marítimo y el muelle, las playas de East y West Runton al oeste, y la finca de Felbrigg Hall tierra adentro`,
+    },
     'bourton-on-the-water': {
       personality: `la "Venecia de los Cotswolds", un pueblo de piedra dorada donde el poco profundo Windrush baja por la calle principal bajo bajos puentes, los perros son bienvenidos en la mayoría de los pubs y cafés, y de donde parten senderos casi llanos hacia los pueblos de cuento de los Slaughters`,
       highlight: `los bajos puentes de piedra sobre el Windrush, el paseo sin portillas hacia Lower y Upper Slaughter, y la reserva natural de Greystones Farm`,
@@ -7822,6 +7837,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma bela vila de caminhadas na cabeceira do lago Windermere no Lake District, onde os cães são bem-vindos em quase todos os fells e caminhos, viajam grátis nos Windermere Lake Cruises, e são acolhidos na maioria dos pubs`,
       highlight: `o passeio da cascata de Stock Ghyll Force, o ondulado Loughrigg Fell e os Windermere Lake Cruises a partir de Waterhead que aceitam cães`,
       area: `a Market Cross e as suas ruelas, a margem de Waterhead e a margem de Rydal Water em direção a Grasmere`,
+    },
+    cromer: {
+      personality: `uma vila costeira do norte de Norfolk à antiga, de cais, falésias e do famoso caranguejo, onde os cães passeiam pela marginal todo o ano, a proibição de verão da praia o envia para a vizinha e acolhedora East Runton, e o Norfolk Coast Path percorre o alto das falésias`,
+      highlight: `o cais vitoriano classificado e a sua marginal, a praia canina de todo o ano em East Runton, e o Norfolk Coast Path pelas falésias até Sheringham`,
+      area: `a marginal e o cais, as praias de East e West Runton a oeste, e a propriedade de Felbrigg Hall no interior`,
     },
     'bourton-on-the-water': {
       personality: `a "Veneza dos Cotswolds", uma aldeia de pedra dourada onde o pouco profundo Windrush desce pela rua principal sob baixas pontes, os cães são bem-vindos na maioria dos pubs e cafés, e de onde partem trilhos quase planos para as aldeias de conto dos Slaughters`,

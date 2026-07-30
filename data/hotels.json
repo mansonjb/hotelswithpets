@@ -31841,124 +31841,316 @@
   },
   {
     "id": "manchester-1",
-    "name": "The Lowry Hotel",
+    "name": "Dakota Manchester",
+    "destinationSlug": "manchester",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 3924,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/dakota-manchester.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dakota Manchester, a sleek deluxe hotel near Piccadilly, welcomes dogs. Please confirm size limits and any pet charge with the property when you book.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "dakota-manchester-manchester",
+    "petPolicyFr": "Dakota Manchester, a sleek deluxe hotel near Piccadilly, accueille les chiens. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "Dakota Manchester, a sleek deluxe hotel near Piccadilly, admite perros. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "Dakota Manchester, a sleek deluxe hotel near Piccadilly, acolhe caes. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "manchester-10",
+    "name": "HighRise Heaven City Centre Apartment",
+    "destinationSlug": "manchester",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 18,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/stylish-city-centre-by-smithstone-properties.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a two-bedroom apartment in Manchester city centre, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Terrace"
+    ],
+    "slug": "highrise-heaven-city-centre-apartment-manchester",
+    "petPolicyFr": "Ce logement en gestion libre, a two-bedroom apartment in Manchester city centre, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a two-bedroom apartment in Manchester city centre, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a two-bedroom apartment in Manchester city centre, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "manchester-11",
+    "name": "Skyline City Centre Apartment",
+    "destinationSlug": "manchester",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 12,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/pet-friendly-2br-near-piccadilly.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a two-bedroom apartment in Manchester city centre, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Terrace"
+    ],
+    "slug": "skyline-city-centre-apartment-manchester",
+    "petPolicyFr": "Ce logement en gestion libre, a two-bedroom apartment in Manchester city centre, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a two-bedroom apartment in Manchester city centre, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a two-bedroom apartment in Manchester city centre, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "manchester-12",
+    "name": "Kimpton Clocktower",
+    "destinationSlug": "manchester",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 4157,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/hotel-ihg-principal-manchester.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton Clocktower, a landmark Victorian hotel on Oxford Street, welcomes dogs. Dogs of any size stay at no extra charge, with beds and bowls provided. Please confirm size limits and any pet charge with the property when you book.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "kimpton-clocktower-manchester",
+    "petPolicyFr": "Kimpton Clocktower, a landmark Victorian hotel on Oxford Street, accueille les chiens. Les chiens de toute taille sejournent sans supplement, avec panier et gamelles fournis. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "Kimpton Clocktower, a landmark Victorian hotel on Oxford Street, admite perros. Los perros de cualquier tamano se alojan sin coste adicional, con cama y cuencos incluidos. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "Kimpton Clocktower, a landmark Victorian hotel on Oxford Street, acolhe caes. Caes de qualquer tamanho ficam sem custo adicional, com cama e tacas incluidos. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "manchester-2",
+    "name": "The Edwardian Manchester, A Radisson Collection Hotel",
     "destinationSlug": "manchester",
     "categories": [
       "dog-friendly",
       "luxury"
     ],
     "stars": 5,
-    "rating": 9,
-    "reviewCount": 4032,
-    "priceFrom": 195,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/the-lowry.en-gb.html",
-    "petFee": 30,
-    "petPolicy": "The Lowry Hotel welcomes up to 2 dogs of any size for £30 per pet per stay. A dedicated pet walking area sits on the property. Dogs are not permitted on sofas; cats are not accepted. Pets may be left unattended in rooms with a Do Not Disturb sign.",
+    "rating": 8.8,
+    "reviewCount": 9112,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/radissonmanchester.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Edwardian Manchester, A Radisson Collection Hotel, a grand hotel on Peter Street, welcomes dogs. Please confirm size limits and any pet charge with the property when you book.",
     "highlights": [
-      "Riverside Salford Quays location",
-      "Dedicated pet walking area",
-      "5-star spa & restaurant"
+      "Indoor swimming pool",
+      "Parking",
+      "Spa & wellness centre"
     ],
-    "slug": "the-lowry-hotel-manchester",
-    "petPolicyPt": "O Lowry Hotel welcomes up para 2 cães de any size para £30 por animal por estadia. Um dedicated animal walking area sits no estabelecimento. cães são não permitted em sofas; gatos são não aceites. animais may be left sem supervisão nos quartos com um Do Não Disturb sign."
-  },
-  {
-    "id": "manchester-2",
-    "name": "Malmaison Manchester",
-    "destinationSlug": "manchester",
-    "categories": [
-      "dog-friendly",
-      "boutique-pet-friendly"
-    ],
-    "stars": 4,
-    "rating": 8.5,
-    "reviewCount": 3700,
-    "priceFrom": 140,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/malmaison-manchester.en-gb.html",
-    "petFee": 20,
-    "petPolicy": "Malmaison Manchester accepts dogs of any size for £20 per pet per night. Call ahead to verify availability of pet-friendly rooms. Dogs may be left unattended with DND on the door if reception is notified. Cats are not accepted.",
-    "highlights": [
-      "Piccadilly Gardens location",
-      "Dog welcome kit on arrival",
-      "Boutique-design pet rooms"
-    ],
-    "slug": "malmaison-manchester-manchester",
-    "petPolicyPt": "Malmaison Manchester accepts cães de any size para £20 por animal por noite. Call ahead para verify availability de animal-friendly quartos. cães may be left sem supervisão com DND no porta if reception é notified. gatos são não aceites."
+    "slug": "the-edwardian-manchester-a-radisson-collection-hotel-manchester",
+    "petPolicyFr": "The Edwardian Manchester, A Radisson Collection Hotel, a grand hotel on Peter Street, accueille les chiens. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "The Edwardian Manchester, A Radisson Collection Hotel, a grand hotel on Peter Street, admite perros. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "The Edwardian Manchester, A Radisson Collection Hotel, a grand hotel on Peter Street, acolhe caes. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
   },
   {
     "id": "manchester-3",
-    "name": "Hotel Indigo Manchester - Victoria Station",
+    "name": "The Lowry Hotel",
     "destinationSlug": "manchester",
     "categories": [
       "dog-friendly",
-      "boutique-pet-friendly"
+      "near-parks",
+      "luxury"
     ],
-    "stars": 4,
-    "rating": 8.6,
-    "reviewCount": 2900,
-    "priceFrom": 125,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/hotel-indigo-manchester-victoria-station.en-gb.html",
-    "petFee": 35,
-    "petPolicy": "Hotel Indigo Manchester accepts up to two dogs up to 36 kg per room for £35 per pet per stay. Pets are restricted to designated rooms (book in advance) and not allowed in restaurants. Cats are not accepted.",
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 2968,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-lowry.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Lowry Hotel, a riverside five-star hotel on the banks of the Irwell, welcomes dogs. Please confirm size limits and any pet charge with the property when you book.",
     "highlights": [
-      "Steps from Victoria Station",
-      "Walk to the Northern Quarter",
-      "Boutique IHG design hotel"
+      "Private parking",
+      "Spa & wellness centre",
+      "Free WiFi"
     ],
-    "slug": "hotel-indigo-manchester-victoria-station-manchester",
-    "petPolicyPt": "Hotel Indigo Manchester accepts up para two cães até 36 kg per quarto para £35 por animal por estadia. animais são restricted para designated quartos (book com antecedência) e não permitidos em restaurants. gatos são não aceites."
+    "slug": "the-lowry-hotel-manchester",
+    "petPolicyFr": "The Lowry Hotel, a riverside five-star hotel on the banks of the Irwell, accueille les chiens. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "The Lowry Hotel, a riverside five-star hotel on the banks of the Irwell, admite perros. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "The Lowry Hotel, a riverside five-star hotel on the banks of the Irwell, acolhe caes. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
   },
   {
     "id": "manchester-4",
-    "name": "Holiday Inn Express Manchester Airport by IHG",
+    "name": "The Rex Manchester",
+    "destinationSlug": "manchester",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 404,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-rex-formelry-hotel-gotham.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Rex Manchester, formerly Hotel Gotham, a dramatic art-deco hotel on King Street, welcomes dogs. Please confirm size limits and any pet charge with the property when you book.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "the-rex-manchester-manchester",
+    "petPolicyFr": "The Rex Manchester, formerly Hotel Gotham, a dramatic art-deco hotel on King Street, accueille les chiens. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "The Rex Manchester, formerly Hotel Gotham, a dramatic art-deco hotel on King Street, admite perros. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "The Rex Manchester, formerly Hotel Gotham, a dramatic art-deco hotel on King Street, acolhe caes. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "manchester-5",
+    "name": "Stock Exchange Hotel, Autograph Collection",
+    "destinationSlug": "manchester",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1140,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/stock-exchange.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Stock Exchange Hotel, Autograph Collection, a landmark building turned boutique hotel, welcomes dogs. Please confirm size limits and any pet charge with the property when you book.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "stock-exchange-hotel-autograph-collection-manchester",
+    "petPolicyFr": "Stock Exchange Hotel, Autograph Collection, a landmark building turned boutique hotel, accueille les chiens. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "Stock Exchange Hotel, Autograph Collection, a landmark building turned boutique hotel, admite perros. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "Stock Exchange Hotel, Autograph Collection, a landmark building turned boutique hotel, acolhe caes. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "manchester-6",
+    "name": "CitySuites Aparthotel",
     "destinationSlug": "manchester",
     "categories": [
       "dog-friendly",
       "cat-friendly",
-      "budget-pet-friendly"
+      "near-parks"
     ],
-    "stars": 3,
+    "stars": 4,
     "rating": 8.4,
-    "reviewCount": 5800,
-    "priceFrom": 95,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/holiday-inn-express-manchester-airport.en-gb.html",
-    "petFee": 50,
-    "petPolicy": "Holiday Inn Express Manchester Airport accepts up to two pets up to 34 kg for £50 per pet per night. Both dogs and cats are welcome. Pets may be left in rooms unattended with reception notified.",
+    "reviewCount": 5070,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/citysuites.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a riverside aparthotel on Chapel Street in Salford, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
     "highlights": [
-      "At Manchester Airport",
-      "Free 24-hour shuttle",
-      "Best-value pet stays near city"
+      "Indoor swimming pool",
+      "Parking",
+      "Free WiFi"
     ],
-    "slug": "holiday-inn-express-manchester-airport-manchester",
-    "petPolicyPt": "Holiday Inn Express Manchester Airport accepts up para two animais até 34 kg para £50 por animal por noite. Both cães e gatos são bem-vindos. animais may be left nos quartos sem supervisão com reception notified."
+    "slug": "citysuites-aparthotel-manchester",
+    "petPolicyFr": "Ce logement en gestion libre, a riverside aparthotel on Chapel Street in Salford, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a riverside aparthotel on Chapel Street in Salford, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a riverside aparthotel on Chapel Street in Salford, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
   },
   {
-    "id": "manchester-5",
-    "name": "Native Manchester",
+    "id": "manchester-7",
+    "name": "CitySuites 2 Aparthotel",
     "destinationSlug": "manchester",
     "categories": [
       "dog-friendly",
-      "boutique-pet-friendly"
+      "cat-friendly",
+      "near-parks"
     ],
     "stars": 4,
-    "rating": 9,
-    "reviewCount": 1700,
-    "priceFrom": 130,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/native-manchester.en-gb.html",
-    "petFee": 25,
-    "petPolicy": "Native Manchester aparthotel accepts dogs up to 18 kg for £25 per pet per night. Cats are not accepted. The fully equipped apartments include a kitchenette, ideal for longer stays with a dog.",
+    "rating": 8.7,
+    "reviewCount": 4891,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/citysuites-2.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a riverside aparthotel near Manchester city centre, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
     "highlights": [
-      "Aparthotel kitchenette suites",
-      "Northern Quarter location",
-      "Industrial-chic design"
+      "Indoor swimming pool",
+      "Parking",
+      "Free WiFi"
     ],
-    "slug": "native-manchester-manchester",
-    "petPolicyPt": "Native Manchester aparthotel accepts cães até 18 kg para £25 por animal por noite. gatos são não aceites. O fully equipped apartments include um kitchenette, ideal para longer estadias com um cão."
+    "slug": "citysuites-2-aparthotel-manchester",
+    "petPolicyFr": "Ce logement en gestion libre, a riverside aparthotel near Manchester city centre, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a riverside aparthotel near Manchester city centre, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a riverside aparthotel near Manchester city centre, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "manchester-8",
+    "name": "Old Trafford Guest Rooms",
+    "destinationSlug": "manchester",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 9.2,
+    "reviewCount": 120,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/cottage-stretford.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This guesthouse, near Old Trafford in Manchester, welcomes dogs and calm cats in its rooms. Please confirm the number of pets and any charge with the host before arrival.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "old-trafford-guest-rooms-manchester",
+    "petPolicyFr": "Cette maison d'hotes, near Old Trafford in Manchester, accueille les chiens et les chats calmes dans ses chambres. Confirmez le nombre d'animaux et les frais eventuels avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Esta casa de huespedes, near Old Trafford in Manchester, admite perros y gatos tranquilos en sus habitaciones. Confirma el numero de mascotas y cualquier cargo con el anfitrion antes de llegar.",
+    "petPolicyPt": "Esta casa de hospedes, near Old Trafford in Manchester, acolhe caes e gatos calmos nos seus quartos. Confirme o numero de animais e eventuais taxas com o anfitriao antes da chegada."
+  },
+  {
+    "id": "manchester-9",
+    "name": "Guest Rooms near Etihad Stadium",
+    "destinationSlug": "manchester",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 598,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/double-bed-room-with-on-suite-near-etihad-manchester-city.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This guesthouse, close to the Etihad Stadium and Piccadilly Station, welcomes dogs and calm cats in its rooms. Please confirm the number of pets and any charge with the host before arrival.",
+    "highlights": [
+      "Free parking",
+      "Fast free WiFi (59 Mbps)",
+      "Family rooms"
+    ],
+    "slug": "guest-rooms-near-etihad-stadium-manchester",
+    "petPolicyFr": "Cette maison d'hotes, close to the Etihad Stadium and Piccadilly Station, accueille les chiens et les chats calmes dans ses chambres. Confirmez le nombre d'animaux et les frais eventuels avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Esta casa de huespedes, close to the Etihad Stadium and Piccadilly Station, admite perros y gatos tranquilos en sus habitaciones. Confirma el numero de mascotas y cualquier cargo con el anfitrion antes de llegar.",
+    "petPolicyPt": "Esta casa de hospedes, close to the Etihad Stadium and Piccadilly Station, acolhe caes e gatos calmos nos seus quartos. Confirme o numero de animais e eventuais taxas com o anfitriao antes da chegada."
   },
   {
     "id": "marbella-1",

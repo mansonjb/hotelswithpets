@@ -29281,129 +29281,311 @@
   },
   {
     "id": "liverpool-1",
-    "name": "Titanic Hotel Liverpool",
+    "name": "The Municipal Hotel Liverpool, MGallery Collection",
     "destinationSlug": "liverpool",
     "categories": [
       "dog-friendly",
-      "cat-friendly",
-      "luxury",
-      "boutique-pet-friendly"
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 5857,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-municipal-liverpool-mgallery.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Municipal Hotel Liverpool, MGallery Collection, a grand landmark hotel in the city centre, welcomes dogs. Please confirm size limits and any pet charge with the property when you book.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Free WiFi"
+    ],
+    "slug": "the-municipal-hotel-liverpool-mgallery-collection-liverpool",
+    "petPolicyFr": "The Municipal Hotel Liverpool, MGallery Collection, a grand landmark hotel in the city centre, accueille les chiens. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "The Municipal Hotel Liverpool, MGallery Collection, a grand landmark hotel in the city centre, admite perros. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "The Municipal Hotel Liverpool, MGallery Collection, a grand landmark hotel in the city centre, acolhe caes. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "liverpool-10",
+    "name": "Titanic Boat",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly"
     ],
     "stars": 4,
-    "rating": 9,
-    "reviewCount": 5800,
-    "priceFrom": 175,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/titanic-hotel-liverpool.en-gb.html",
-    "petFee": 25,
-    "petPolicy": "Titanic Hotel Liverpool welcomes pets in selected rooms within its historic Stanley Dock setting for £25 per pet per stay (subject to availability). Dogs and cats are accepted. The 'Bones & Biscuits' welcome pack includes treats and a bowl on arrival; service dogs stay free.",
+    "rating": 8.5,
+    "reviewCount": 58,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/titanic-apt-boat.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Titanic Boat is a floating stay moored in Liverpool that welcomes dogs aboard. Please confirm the number and size of your pets with the host before arrival.",
     "highlights": [
-      "Historic Stanley Dock conversion",
-      "Maya Blue Wellness spa",
-      "Welcome pet pack on arrival"
+      "Parking on site",
+      "Free WiFi",
+      "Family rooms"
     ],
-    "slug": "titanic-hotel-liverpool",
-    "petPolicyPt": "Titanic Hotel Liverpool welcomes animais em selected quartos within its historic Stanley Dock setting para £25 por animal por estadia (subject para availability). Cães e gatos são accepted. O 'Bones & Biscuits' bem-vindos pack includes treats e um bowl em chegada; service cães estadia free."
+    "slug": "titanic-boat-liverpool",
+    "petPolicyFr": "Titanic Boat est un hebergement flottant amarre a Liverpool qui accueille les chiens a bord. Confirmez le nombre et la taille de vos animaux avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Titanic Boat es un alojamiento flotante amarrado en Liverpool que admite perros a bordo. Confirma el numero y el tamano de tus mascotas con el anfitrion antes de llegar.",
+    "petPolicyPt": "Titanic Boat e um alojamento flutuante ancorado em Liverpool que acolhe caes a bordo. Confirme o numero e o tamanho dos seus animais com o anfitriao antes da chegada."
+  },
+  {
+    "id": "liverpool-11",
+    "name": "Room near Anfield Stadium",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 54,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/simply-good-night-l-anfield-lfc-walton-breck-road.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This guesthouse, within easy reach of Anfield Stadium, welcomes dogs and calm cats in its rooms. Please confirm the number of pets and any charge with the host before arrival.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "room-near-anfield-stadium-liverpool",
+    "petPolicyFr": "Cette maison d'hotes, within easy reach of Anfield Stadium, accueille les chiens et les chats calmes dans ses chambres. Confirmez le nombre d'animaux et les frais eventuels avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Esta casa de huespedes, within easy reach of Anfield Stadium, admite perros y gatos tranquilos en sus habitaciones. Confirma el numero de mascotas y cualquier cargo con el anfitrion antes de llegar.",
+    "petPolicyPt": "Esta casa de hospedes, within easy reach of Anfield Stadium, acolhe caes e gatos calmos nos seus quartos. Confirme o numero de animais e eventuais taxas com o anfitriao antes da chegada."
+  },
+  {
+    "id": "liverpool-12",
+    "name": "Fenwick Street Hotel by EPIC",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 4,
+    "rating": 7.8,
+    "reviewCount": 650,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/fenwick-street-by-epic-merseyside.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Fenwick Street Hotel by EPIC, central rooms near the waterfront and Liverpool ONE, welcomes dogs. Please confirm size limits and any pet charge with the property when you book.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Facilities for disabled guests"
+    ],
+    "slug": "fenwick-street-hotel-by-epic-liverpool",
+    "petPolicyFr": "Fenwick Street Hotel by EPIC, central rooms near the waterfront and Liverpool ONE, accueille les chiens. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "Fenwick Street Hotel by EPIC, central rooms near the waterfront and Liverpool ONE, admite perros. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "Fenwick Street Hotel by EPIC, central rooms near the waterfront and Liverpool ONE, acolhe caes. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
   },
   {
     "id": "liverpool-2",
-    "name": "Hope Street Hotel",
-    "destinationSlug": "liverpool",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "luxury",
-      "boutique-pet-friendly",
-      "near-parks"
-    ],
-    "stars": 4,
-    "rating": 8.6,
-    "reviewCount": 2400,
-    "priceFrom": 160,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/hope-street.en-gb.html",
-    "petFee": 30,
-    "petPolicy": "Hope Street Hotel accepts up to 2 pets per room for £30 per pet per stay in its Georgian Quarter boutique setting. Both dogs and cats are welcome on request. Pets are not permitted in the restaurant; service dogs stay free.",
-    "highlights": [
-      "Georgian Quarter location",
-      "Walk to St James's Cemetery park",
-      "London Carriage Works restaurant on site"
-    ],
-    "slug": "hope-street-hotel-liverpool",
-    "petPolicyPt": "Hope Street Hotel accepts até 2 animais per quarto para £30 por animal por estadia em its Georgian Quarter boutique setting. Both cães e gatos são bem-vindos mediante pedido. animais são não permitted no restaurant; service cães estadia free."
-  },
-  {
-    "id": "liverpool-3",
-    "name": "Hotel Indigo Liverpool",
-    "destinationSlug": "liverpool",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "boutique-pet-friendly"
-    ],
-    "stars": 4,
-    "rating": 8.3,
-    "reviewCount": 3100,
-    "priceFrom": 110,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/indigoliverpool.en-gb.html",
-    "petFee": 30,
-    "petPolicy": "Hotel Indigo Liverpool welcomes pets in selected rooms across its IHG chain pet programme for £30 per pet per stay (max 2 pets per room). Dogs and cats are accepted; pets must be supervised in public areas. Service animals stay free.",
-    "highlights": [
-      "Central Chapel Street location",
-      "Walk to Pier Head and Albert Dock",
-      "IHG chain pet programme"
-    ],
-    "slug": "hotel-indigo-liverpool",
-    "petPolicyPt": "Hotel Indigo Liverpool welcomes animais em selected quartos across its IHG chain animal programme para £30 por animal por estadia (máx. 2 animais per quarto). Cães e gatos são accepted; animais must be supervised em áreas comuns. Service animals estadia free."
-  },
-  {
-    "id": "liverpool-4",
-    "name": "Crowne Plaza Liverpool City Centre",
+    "name": "Trueman Court Luxury Serviced Apartments",
     "destinationSlug": "liverpool",
     "categories": [
       "dog-friendly",
       "cat-friendly"
     ],
     "stars": 4,
-    "rating": 8.4,
-    "reviewCount": 4600,
-    "priceFrom": 105,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/crowne-plaza-liverpool-city-centre.en-gb.html",
-    "petFee": 35,
-    "petPolicy": "Crowne Plaza Liverpool City Centre accepts up to 2 pets per room for £35 per pet per stay under the IHG pet programme. Dogs and cats are welcome on request and must be on a leash in public areas. Service animals stay free.",
+    "rating": 8.8,
+    "reviewCount": 623,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/trueman-court.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, serviced apartments in central Liverpool, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
     "highlights": [
-      "Pier Head waterfront location",
-      "Indoor pool and gym",
-      "Walk to Mersey Ferries terminal"
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
     ],
-    "slug": "crowne-plaza-liverpool-city-centre",
-    "petPolicyPt": "Crowne Plaza Liverpool City Centre accepts até 2 animais per quarto para £35 por animal por estadia under o IHG animal programme. Cães e gatos são bem-vindos mediante pedido e must be com trela em áreas comuns. Service animals estadia free."
+    "slug": "trueman-court-luxury-serviced-apartments-liverpool",
+    "petPolicyFr": "Ce logement en gestion libre, serviced apartments in central Liverpool, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, serviced apartments in central Liverpool, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, serviced apartments in central Liverpool, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
   },
   {
-    "id": "liverpool-5",
-    "name": "Travelodge Liverpool Central The Strand",
+    "id": "liverpool-3",
+    "name": "Liverpool City Stays Bold Street",
     "destinationSlug": "liverpool",
     "categories": [
       "dog-friendly",
-      "budget-pet-friendly"
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 7.7,
+    "reviewCount": 14,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/liverpool-city-stays-bold-street.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, an apartment on Bold Street in the city centre, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "liverpool-city-stays-bold-street-liverpool",
+    "petPolicyFr": "Ce logement en gestion libre, an apartment on Bold Street in the city centre, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, an apartment on Bold Street in the city centre, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, an apartment on Bold Street in the city centre, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "liverpool-4",
+    "name": "The Royal Crest Hotel",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly"
     ],
     "stars": 3,
-    "rating": 7.9,
-    "reviewCount": 4900,
-    "priceFrom": 55,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/travelodge-liverpool-central-the-strand.en-gb.html",
-    "petFee": 25,
-    "petPolicy": "Travelodge Liverpool Central The Strand accepts up to 2 dogs per room for £25 per pet per night under the chain-wide Travelodge pet policy. Cats are not accepted. Pets are not permitted in the restaurant or breakfast area; service dogs stay free.",
+    "rating": 7.3,
+    "reviewCount": 441,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-royal-crest-merseyside.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Royal Crest Hotel, a straightforward budget hotel with a bar, welcomes dogs. Please confirm size limits and any pet charge with the property when you book.",
     "highlights": [
-      "Steps from Liverpool ONE and Albert Dock",
-      "Chain-wide pet policy",
-      "Best budget pet-friendly option in the centre"
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
     ],
-    "slug": "travelodge-liverpool-central-the-strand",
-    "petPolicyPt": "Travelodge Liverpool Central O Strand accepts up para 2 cães per quarto para £25 por animal por noite under o chain-wide Travelodge política animal. gatos são não aceites. animais são não permitted no restaurant ou breakfast area; service cães estadia free."
+    "slug": "the-royal-crest-hotel-liverpool",
+    "petPolicyFr": "The Royal Crest Hotel, a straightforward budget hotel with a bar, accueille les chiens. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "The Royal Crest Hotel, a straightforward budget hotel with a bar, admite perros. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "The Royal Crest Hotel, a straightforward budget hotel with a bar, acolhe caes. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "liverpool-5",
+    "name": "The Anfield Apartment",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.6,
+    "reviewCount": 43,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-anfield-apartment.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, an apartment in the Anfield area, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "the-anfield-apartment-liverpool",
+    "petPolicyFr": "Ce logement en gestion libre, an apartment in the Anfield area, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, an apartment in the Anfield area, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, an apartment in the Anfield area, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "liverpool-6",
+    "name": "Private Room in Allerton",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 69,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/modern-guest-room-penny-lane-area.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This guesthouse, in the leafy suburb of Allerton close to green space, welcomes dogs and calm cats in its rooms. Please confirm the number of pets and any charge with the host before arrival.",
+    "highlights": [
+      "Free parking",
+      "Fast free WiFi (243 Mbps)",
+      "Terrace"
+    ],
+    "slug": "private-room-in-allerton-liverpool",
+    "petPolicyFr": "Cette maison d'hotes, in the leafy suburb of Allerton close to green space, accueille les chiens et les chats calmes dans ses chambres. Confirmez le nombre d'animaux et les frais eventuels avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Esta casa de huespedes, in the leafy suburb of Allerton close to green space, admite perros y gatos tranquilos en sus habitaciones. Confirma el numero de mascotas y cualquier cargo con el anfitrion antes de llegar.",
+    "petPolicyPt": "Esta casa de hospedes, in the leafy suburb of Allerton close to green space, acolhe caes e gatos calmos nos seus quartos. Confirme o numero de animais e eventuais taxas com o anfitriao antes da chegada."
+  },
+  {
+    "id": "liverpool-7",
+    "name": "Liverpool City Stays Economy Room",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.1,
+    "reviewCount": 55,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/liverpool-city-stays-salisbury-road-house-gg1.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This guesthouse, close to Liverpool city centre, welcomes dogs and calm cats in its rooms. Please confirm the number of pets and any charge with the host before arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "liverpool-city-stays-economy-room-liverpool",
+    "petPolicyFr": "Cette maison d'hotes, close to Liverpool city centre, accueille les chiens et les chats calmes dans ses chambres. Confirmez le nombre d'animaux et les frais eventuels avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Esta casa de huespedes, close to Liverpool city centre, admite perros y gatos tranquilos en sus habitaciones. Confirma el numero de mascotas y cualquier cargo con el anfitrion antes de llegar.",
+    "petPolicyPt": "Esta casa de hospedes, close to Liverpool city centre, acolhe caes e gatos calmos nos seus quartos. Confirme o numero de animais e eventuais taxas com o anfitriao antes da chegada."
+  },
+  {
+    "id": "liverpool-8",
+    "name": "Camden Apartments",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 7.8,
+    "reviewCount": 56,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/camden-apartments-1.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, an apartment near Liverpool city centre, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "camden-apartments-liverpool",
+    "petPolicyFr": "Ce logement en gestion libre, an apartment near Liverpool city centre, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, an apartment near Liverpool city centre, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, an apartment near Liverpool city centre, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "liverpool-9",
+    "name": "Room near Anfield",
+    "destinationSlug": "liverpool",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 60,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/simply-good-night-l-anfield-lfc.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This guesthouse, a short walk from Anfield, welcomes dogs and calm cats in its rooms. Please confirm the number of pets and any charge with the host before arrival.",
+    "highlights": [
+      "Free parking",
+      "Fast free WiFi (248 Mbps)",
+      "Terrace"
+    ],
+    "slug": "room-near-anfield-liverpool",
+    "petPolicyFr": "Cette maison d'hotes, a short walk from Anfield, accueille les chiens et les chats calmes dans ses chambres. Confirmez le nombre d'animaux et les frais eventuels avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Esta casa de huespedes, a short walk from Anfield, admite perros y gatos tranquilos en sus habitaciones. Confirma el numero de mascotas y cualquier cargo con el anfitrion antes de llegar.",
+    "petPolicyPt": "Esta casa de hospedes, a short walk from Anfield, acolhe caes e gatos calmos nos seus quartos. Confirme o numero de animais e eventuais taxas com o anfitriao antes da chegada."
   },
   {
     "id": "ljubljana-1",

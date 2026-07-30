@@ -20853,125 +20853,316 @@
     "name": "Kimpton Blythswood Square Hotel & Spa",
     "destinationSlug": "glasgow",
     "categories": [
-      "cat-friendly",
       "dog-friendly",
-      "dogs-stay-free",
       "luxury"
     ],
     "stars": 5,
-    "rating": 8.9,
-    "reviewCount": 1573,
-    "priceFrom": 215,
-    "currency": "GBP",
+    "rating": 8.8,
+    "reviewCount": 1443,
+    "priceFrom": 120,
+    "currency": "EUR",
     "bookingUrl": "https://www.booking.com/hotel/gb/blythswood-square.en-gb.html",
     "petFee": 0,
-    "petPolicy": "Kimpton Blythswood Square welcomes dogs up to 35 kg at no extra charge. Dog beds and water bowls provided on arrival. Pets are accommodated in Deluxe rooms with advance arrangement; cats are not accepted.",
+    "petPolicy": "Kimpton Blythswood Square welcomes dogs of any size at no extra charge, with beds and water bowls provided on arrival. Cats are not accepted; please arrange your dog with the property in advance.",
     "highlights": [
-      "Free pet stays",
-      "Boutique 5-star with full spa",
-      "Walk to Sauchiehall Street"
+      "Indoor swimming pool",
+      "Private parking",
+      "Free WiFi"
     ],
-    "slug": "kimpton-blythswood-square-glasgow",
-    "petPolicyPt": "Kimpton Blythswood Square welcomes cães até 35 kg em sem taxa extra. cão beds e water tigela fornecida em chegada. animais são accommodated em Deluxe quartos com advance arrangement; gatos são não aceites."
+    "slug": "kimpton-blythswood-square-hotel-and-spa-glasgow",
+    "petPolicyFr": "Le Kimpton Blythswood Square accueille les chiens de toute taille sans supplement, avec panier et gamelle d'eau a l'arrivee. Les chats ne sont pas acceptes ; prevenez l'hotel de votre chien a l'avance.",
+    "petPolicyEs": "El Kimpton Blythswood Square admite perros de cualquier tamano sin coste adicional, con cama y cuenco de agua a la llegada. No se aceptan gatos; organiza tu perro con el alojamiento con antelacion.",
+    "petPolicyPt": "O Kimpton Blythswood Square acolhe caes de qualquer tamanho sem custo adicional, com cama e taca de agua a chegada. Nao aceita gatos; combine o seu cao com o alojamento com antecedencia."
   },
   {
-    "id": "glasgow-2",
-    "name": "Malmaison Glasgow",
-    "destinationSlug": "glasgow",
-    "categories": [
-      "cat-friendly",
-      "dog-friendly",
-      "boutique-pet-friendly"
-    ],
-    "stars": 4,
-    "rating": 8,
-    "reviewCount": 2404,
-    "priceFrom": 110,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/malmaison-glasgow.en-gb.html",
-    "petFee": 25,
-    "petPolicy": "Malmaison Glasgow welcomes up to 2 medium-sized dogs per room: £25 service fee for 1 dog, £40 for 2. Dog bed, mat, bowls, and treat bag provided. Dogs welcome in the bar and communal areas; cats are not accepted.",
-    "highlights": [
-      "Walk to Buchanan Street",
-      "Dog-welcome kit included",
-      "Bar and lounge admit dogs"
-    ],
-    "slug": "malmaison-glasgow-glasgow",
-    "petPolicyPt": "Malmaison Glasgow welcomes up para 2 médio-sized cães per quarto: £25 service taxa para 1 cão, £40 para 2. cão bed, mat, bowls, e treat bag fornecido. cães bem-vindos no bar e communal areas; gatos são não aceites."
-  },
-  {
-    "id": "glasgow-3",
-    "name": "voco Grand Central Glasgow by IHG",
-    "destinationSlug": "glasgow",
-    "categories": [
-      "cat-friendly",
-      "dog-friendly",
-      "boutique-pet-friendly"
-    ],
-    "stars": 4,
-    "rating": 8.4,
-    "reviewCount": 6200,
-    "priceFrom": 130,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/voco-grand-central-glasgow.en-gb.html",
-    "petFee": 30,
-    "petPolicy": "voco Grand Central Glasgow welcomes pets of any size in designated rooms for £30 per pet per night. Dogs are not allowed in the restaurant but are welcome in the Champagne Central bar area. Pet package includes treats, bed, and bowl.",
-    "highlights": [
-      "Connected to Glasgow Central station",
-      "Champagne Central bar admits dogs",
-      "1883 heritage building"
-    ],
-    "slug": "voco-grand-central-glasgow",
-    "petPolicyPt": "voco Grand Central Glasgow welcomes animais de any size em designated quartos para £30 por animal por noite. cães são não permitidos no restaurant mas são bem-vindos no Champagne Central bar area. animal package includes treats, bed, e bowl."
-  },
-  {
-    "id": "glasgow-4",
-    "name": "Native Glasgow",
+    "id": "glasgow-10",
+    "name": "The West Highland Way Lodges and Cabins",
     "destinationSlug": "glasgow",
     "categories": [
       "dog-friendly",
-      "cat-friendly",
-      "boutique-pet-friendly"
+      "near-parks"
     ],
     "stars": 4,
-    "rating": 8.7,
-    "reviewCount": 1900,
-    "priceFrom": 115,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/native-glasgow.en-gb.html",
-    "petFee": 15,
-    "petPolicy": "Native Glasgow aparthotel accepts pets of any size for £15 per pet per night. Both dogs and cats are welcome. The fully equipped studios include a kitchenette, ideal for longer stays with a dog.",
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-west-highland-way-lodges-and-cabins.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The West Highland Way Lodges and Cabins, set in open countryside, welcome dogs with direct access to trails and green space. Please confirm the number of pets and any charge with the property before arrival.",
     "highlights": [
-      "Aparthotel kitchenette suites",
-      "Steps from Buchanan Street",
-      "Best-value pet stays in centre"
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
     ],
-    "slug": "native-glasgow-glasgow",
-    "petPolicyPt": "Native Glasgow aparthotel accepts animais de any size para £15 por animal por noite. Both cães e gatos são bem-vindos. O fully equipped studios include um kitchenette, ideal para longer estadias com um cão."
+    "slug": "the-west-highland-way-lodges-and-cabins-glasgow",
+    "petPolicyFr": "The West Highland Way Lodges and Cabins, en pleine campagne, accueillent les chiens avec un acces direct aux sentiers et aux espaces verts. Confirmez le nombre d'animaux et les frais eventuels avec l'etablissement avant l'arrivee.",
+    "petPolicyEs": "The West Highland Way Lodges and Cabins, en pleno campo, admiten perros con acceso directo a rutas y zonas verdes. Confirma el numero de mascotas y cualquier cargo con el alojamiento antes de llegar.",
+    "petPolicyPt": "The West Highland Way Lodges and Cabins, em pleno campo, acolhem caes com acesso direto a trilhos e zonas verdes. Confirme o numero de animais e eventuais taxas com o alojamento antes da chegada."
   },
   {
-    "id": "glasgow-5",
-    "name": "Hilton Glasgow",
+    "id": "glasgow-11",
+    "name": "Blythswood Square Apartments",
     "destinationSlug": "glasgow",
     "categories": [
       "dog-friendly",
       "cat-friendly"
     ],
     "stars": 4,
-    "rating": 8.3,
-    "reviewCount": 4800,
-    "priceFrom": 125,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/hilton-glasgow.en-gb.html",
-    "petFee": 50,
-    "petPolicy": "Hilton Glasgow welcomes up to two pets up to 34 kg per stay for a £50 fee. Both dogs and cats are accepted. Pets are not allowed in food and beverage areas; service dogs stay free.",
+    "rating": 9.4,
+    "reviewCount": 102,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/blythswood-square-apartments.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, central apartments on Blythswood Square, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
     "highlights": [
-      "Five-minute walk to Charing Cross station",
-      "Indoor pool and gym",
-      "Walk to Vets Now Glasgow"
+      "Free WiFi",
+      "Lift",
+      "Heating"
     ],
-    "slug": "hilton-glasgow-glasgow",
-    "petPolicyPt": "Hilton Glasgow welcomes up para two animais até 34 kg por estadia para um £50 taxa. Both cães e gatos são accepted. animais são não permitidos em food e beverage areas; service cães estadia free."
+    "slug": "blythswood-square-apartments-glasgow",
+    "petPolicyFr": "Ce logement en gestion libre, central apartments on Blythswood Square, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, central apartments on Blythswood Square, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, central apartments on Blythswood Square, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "glasgow-12",
+    "name": "Stylish Merchant City Flat",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 22,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/stylish-merchant-city-flat.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a stylish flat in the Merchant City quarter, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Lift",
+      "Heating"
+    ],
+    "slug": "stylish-merchant-city-flat-glasgow",
+    "petPolicyFr": "Ce logement en gestion libre, a stylish flat in the Merchant City quarter, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a stylish flat in the Merchant City quarter, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a stylish flat in the Merchant City quarter, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "glasgow-2",
+    "name": "Glasgow Central Station Skyline Apartment",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 7.1,
+    "reviewCount": 80,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/glasgow-central-station-skyline-apartment-with-parking-2-bedrooms-2-bathrooms-1-.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a modern apartment beside Glasgow Central Station, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "glasgow-central-station-skyline-apartment-glasgow",
+    "petPolicyFr": "Ce logement en gestion libre, a modern apartment beside Glasgow Central Station, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a modern apartment beside Glasgow Central Station, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a modern apartment beside Glasgow Central Station, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "glasgow-3",
+    "name": "Dakota Glasgow",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 2235,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/dakota-glasgow.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dakota Glasgow, a stylish hotel in the West End, welcomes dogs. Please confirm size limits and any pet charge with the property when you book.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms",
+      "Facilities for disabled guests"
+    ],
+    "slug": "dakota-glasgow-glasgow",
+    "petPolicyFr": "Le Dakota Glasgow, hotel elegant du West End, accueille les chiens. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "El Dakota Glasgow, un hotel con estilo en el West End, admite perros. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "O Dakota Glasgow, um hotel elegante no West End, acolhe caes. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "glasgow-4",
+    "name": "One Devonshire Gardens by Hotel Du Vin",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1299,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/du-vin-at-one-devonshire-gardens.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "One Devonshire Gardens by Hotel Du Vin, a townhouse hotel in the leafy West End near the Botanic Gardens, welcomes dogs. Please share your pet details with the property before arrival.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "one-devonshire-gardens-by-hotel-du-vin-glasgow",
+    "petPolicyFr": "One Devonshire Gardens by Hotel Du Vin, hotel de charme dans le West End verdoyant pres des Botanic Gardens, accueille les chiens. Communiquez les details de votre animal a l'hotel avant l'arrivee.",
+    "petPolicyEs": "One Devonshire Gardens by Hotel Du Vin, un hotel tipo townhouse en el frondoso West End junto a los Botanic Gardens, admite perros. Comparte los datos de tu mascota con el alojamiento antes de llegar.",
+    "petPolicyPt": "One Devonshire Gardens by Hotel Du Vin, um hotel townhouse no arborizado West End junto aos Botanic Gardens, acolhe caes. Partilhe os dados do seu animal com o alojamento antes da chegada."
+  },
+  {
+    "id": "glasgow-5",
+    "name": "The West Highland Way Hotel and Campground",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.9,
+    "reviewCount": 42,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/west-highland-way-lodges-glasgow.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The West Highland Way Hotel and Campground, on the edge of the countryside near Drymen, welcomes dogs and calm cats with easy access to walking trails. Please confirm pet numbers and any fee with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "the-west-highland-way-hotel-and-campground-glasgow",
+    "petPolicyFr": "The West Highland Way Hotel and Campground, en lisiere de campagne pres de Drymen, accueille les chiens et les chats calmes, avec un acces facile aux sentiers. Confirmez le nombre d'animaux et les frais avec l'etablissement a la reservation.",
+    "petPolicyEs": "The West Highland Way Hotel and Campground, al borde del campo cerca de Drymen, admite perros y gatos tranquilos, con facil acceso a rutas de senderismo. Confirma el numero de mascotas y cualquier tarifa con el alojamiento al reservar.",
+    "petPolicyPt": "The West Highland Way Hotel and Campground, na orla do campo perto de Drymen, acolhe caes e gatos calmos, com facil acesso a trilhos. Confirme o numero de animais e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "glasgow-6",
+    "name": "Lancefield Quay Penthouse",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 7.2,
+    "reviewCount": 14,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/glasgow-city-centre-the-penthouse-with-riverviews-duplex-3-bedrooms-3-bathrooms.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a spacious penthouse on Lancefield Quay by the River Clyde, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "lancefield-quay-penthouse-glasgow",
+    "petPolicyFr": "Ce logement en gestion libre, a spacious penthouse on Lancefield Quay by the River Clyde, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a spacious penthouse on Lancefield Quay by the River Clyde, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a spacious penthouse on Lancefield Quay by the River Clyde, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "glasgow-7",
+    "name": "Riverside West End Apartment",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.6,
+    "reviewCount": 56,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/riverside-west-end-apartment.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a riverside apartment in the West End near green walking paths, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "riverside-west-end-apartment-glasgow",
+    "petPolicyFr": "Ce logement en gestion libre, a riverside apartment in the West End near green walking paths, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a riverside apartment in the West End near green walking paths, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a riverside apartment in the West End near green walking paths, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "glasgow-8",
+    "name": "Glasgow City Centre Flat with Parking",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 7.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/merchant-city-flat-with-parking.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a city-centre flat with parking near Merchant City, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "glasgow-city-centre-flat-with-parking-glasgow",
+    "petPolicyFr": "Ce logement en gestion libre, a city-centre flat with parking near Merchant City, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a city-centre flat with parking near Merchant City, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a city-centre flat with parking near Merchant City, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "glasgow-9",
+    "name": "Glasgow City Centre Flat with River Views",
+    "destinationSlug": "glasgow",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.1,
+    "reviewCount": 33,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/glasgow-city-centre-flat-with-river-views-and-parking.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a city-centre flat with river views near the Clyde walkway, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "glasgow-city-centre-flat-with-river-views-glasgow",
+    "petPolicyFr": "Ce logement en gestion libre, a city-centre flat with river views near the Clyde walkway, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a city-centre flat with river views near the Clyde walkway, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a city-centre flat with river views near the Clyde walkway, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
   },
   {
     "id": "goreme-1",

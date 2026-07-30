@@ -22500,6 +22500,81 @@
     "countryCode": "AT"
   },
   {
+    "slug": "san-diego",
+    "name": "San Diego",
+    "country": "United States",
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/san-diego.jpg",
+    "intro": "San Diego is the strongest dog-beach city in the United States and one of the few where outdoor life works all twelve months, with average temperatures that never exceed 23 °C even in August. Dog Beach at the foot of Voltaire Street in Ocean Beach has been legally off-leash since 1972, one of the first official off-leash beaches in the country, and the city lists it as open 24 hours; Coronado Dog Beach at 200 Ocean Boulevard is off-leash at all hours inside its marked run; and Fiesta Island in Mission Bay Park is designated leash-optional across its entire shoreline and interior, offering the only sheltered, calm-water swim in the metro plus a 5.2-mile loop path. The City of San Diego publishes around twenty approved leash-free locations in total, three of them inside Balboa Park (Nate's Point and Morley Field open 24 hours, Grape Street Park on posted hours). Sunset Cliffs Natural Park gives 68 acres of blufftop walking above the Pacific, and Cabrillo National Monument opens its Coastal Trail to leashed dogs. Three 24-hour emergency vets cover the metro (VCA and Veterinary Emergency Group in Mission Valley, Veterinary Specialty Hospital in Sorrento Valley). Two honest constraints: MTS bus and Trolley require any pet to be fully inside a hand-held carrier, which excludes every medium and large dog, and the Coronado ferry carries service animals only, so a car or Uber Pet is close to essential. On other city beaches dogs are leashed-only before 09:00 and after 18:00 from April to October, and before 09:00 and after 16:00 from November to March.",
+    "lat": 32.7157,
+    "lng": -117.1611,
+    "weather": {
+      "jan": {
+        "temp": 15,
+        "desc": "Mild & mostly dry",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 15,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 17,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Mild & overcast mornings",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Warm & grey mornings",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 20,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 17,
+        "desc": "Mild & dry",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 14,
+        "desc": "Cool & showery",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "SAN"
+  },
+  {
     "slug": "san-francisco",
     "name": "San Francisco",
     "country": "United States",

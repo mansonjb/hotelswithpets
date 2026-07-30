@@ -1467,6 +1467,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Vieux Port quay and La Ponche old fishermen's district, the Citadelle esplanade with its panoramic view over the gulf, the Place des Lices market and pétanque pitch, and the Sentier du Littoral from Plage des Salins around the Cap de Saint-Tropez`,
       area: `the Vieux Port and La Ponche, the centre around Place des Lices, the Route des Plages corridor towards Pampelonne, and the Salins / Cap de Saint-Tropez eastern peninsula`,
     },
+    'san-diego': {
+      personality: `the strongest dog-beach city in the United States, where the climate supports outdoor life all twelve months and the city publishes around twenty approved leash-free locations, headed by Dog Beach in Ocean Beach (legally off-leash since 1972 and listed open 24 hours), Coronado Dog Beach and the leash-optional shoreline of Fiesta Island`,
+      highlight: `Dog Beach at the foot of Voltaire Street, Coronado Dog Beach at the north end of North Beach, Fiesta Island's 5.2-mile loop and sheltered bay swimming, and the blufftop paths of Sunset Cliffs Natural Park`,
+      area: 'Ocean Beach and Point Loma for walking straight onto Dog Beach, Liberty Station and Bay Park for brewery patios that welcome dogs, Little Italy and Mission Valley for downtown access and the 24-hour emergency vets',
+    },
     'san-francisco': {
       personality: `the cool, foggy Pacific gateway to the Bay Area, with one of the densest off-leash networks in the US combining around 30 fenced Rec & Park Dog Play Areas and the federal GGNRA voice-control sections (Crissy Field East Beach with the Golden Gate Bridge view, Fort Funston bluffs and beach, Ocean Beach north of Stairwell 21)`,
       highlight: `Crissy Field East Beach facing the Golden Gate Bridge, Fort Funston's Sunset Trail and beach, Golden Gate Park's Hellman Hollow and Speedway Meadow DPAs, and the Lands End coastal trail to the Sutro Baths ruins`,
@@ -3483,6 +3488,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `une ville portuaire provençale de 4 000 habitants sur la Côte d'Azur ouest, définie par son Vieux Port en activité bordé de cafés aux stores rouges, la Citadelle du XVIᵉ siècle et l'esplanade de son musée maritime, le marché provençal de la Place des Lices ombragée de platanes le mardi et le samedi, l'étendue de 5 km de Pampelonne juste derrière la colline à Ramatuelle, et le Sentier du Littoral de 35 km tout autour de la presqu'île`,
       highlight: `le quai du Vieux Port et le quartier des pêcheurs de La Ponche, l'esplanade de la Citadelle avec sa vue panoramique sur le golfe, le marché et le terrain de pétanque de la Place des Lices, et le Sentier du Littoral depuis la Plage des Salins en contournant le Cap de Saint-Tropez`,
       area: `le Vieux Port et La Ponche, le centre autour de la Place des Lices, le corridor de la Route des Plages vers Pampelonne, et la presqu'île orientale autour des Salins et du Cap de Saint-Tropez`,
+    },
+    'san-diego': {
+      personality: `la ville aux meilleures plages canines des États-Unis, où le climat permet la vie dehors douze mois sur douze et où la municipalité publie une vingtaine de zones sans laisse approuvées, menées par Dog Beach à Ocean Beach (légalement sans laisse depuis 1972 et indiquée ouverte 24h/24), Coronado Dog Beach et le rivage à laisse optionnelle de Fiesta Island`,
+      highlight: `Dog Beach au pied de Voltaire Street, Coronado Dog Beach à l'extrémité nord de North Beach, la boucle de 8,4 km de Fiesta Island et sa baignade abritée, et les sentiers de falaise de Sunset Cliffs Natural Park`,
+      area: `Ocean Beach et Point Loma pour accéder à pied à Dog Beach, Liberty Station et Bay Park pour les terrasses de brasseries qui accueillent les chiens, Little Italy et Mission Valley pour la proximité du centre et des urgences vétérinaires 24h/24`,
     },
     'san-francisco': {
       personality: `la porte d'entrée fraîche et brumeuse du Pacifique sur la Bay Area, avec l'un des réseaux off-leash les plus denses des États-Unis combinant une trentaine de Dog Play Areas clôturées de Rec & Park et les sections sous contrôle vocal du GGNRA fédéral (East Beach de Crissy Field face au Golden Gate Bridge, falaises et plage de Fort Funston, Ocean Beach au nord de Stairwell 21)`,
@@ -5501,6 +5511,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el muelle del Puerto Viejo y el barrio de pescadores de La Ponche, la esplanada de la Ciudadela con su vista panorámica sobre el golfo, el mercado y el terreno de petanca de la Place des Lices, y el Sentier du Littoral desde la Plage des Salins rodeando el Cap de Saint-Tropez`,
       area: `el Puerto Viejo y La Ponche, el centro alrededor de la Place des Lices, el corredor de la Route des Plages hacia Pampelonne, y la península oriental alrededor de los Salins y el Cap de Saint-Tropez`,
     },
+    'san-diego': {
+      personality: `la ciudad con las mejores playas caninas de Estados Unidos, donde el clima permite la vida al aire libre los doce meses y el ayuntamiento publica una veintena de zonas sin correa aprobadas, encabezadas por Dog Beach en Ocean Beach (legalmente sin correa desde 1972 e indicada abierta 24 horas), Coronado Dog Beach y la orilla de correa opcional de Fiesta Island`,
+      highlight: `Dog Beach al final de Voltaire Street, Coronado Dog Beach en el extremo norte de North Beach, el circuito de 8,4 km de Fiesta Island y su baño protegido, y los senderos de acantilado de Sunset Cliffs Natural Park`,
+      area: 'Ocean Beach y Point Loma para llegar caminando a Dog Beach, Liberty Station y Bay Park por las terrazas de cervecerías que acogen perros, Little Italy y Mission Valley por la cercanía al centro y a las urgencias veterinarias 24/7',
+    },
     'san-francisco': {
       personality: `la fresca y brumosa puerta del Pacífico a la Bay Area, con una de las redes off-leash más densas de EE. UU. que combina una treintena de Dog Play Areas valladas de Rec & Park y las secciones bajo control por voz del GGNRA federal (East Beach de Crissy Field frente al Golden Gate Bridge, acantilados y playa de Fort Funston, Ocean Beach al norte del Stairwell 21)`,
       highlight: `el East Beach de Crissy Field frente al Golden Gate Bridge, el Sunset Trail y la playa de Fort Funston, las DPA Hellman Hollow y Speedway Meadow de Golden Gate Park, y el sendero costero de Lands End hasta las ruinas de los Sutro Baths`,
@@ -7517,6 +7532,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma cidade portuária provençal de 4 000 habitantes na Côte d'Azur ocidental, definida pelo seu Porto Velho em atividade orlado por cafés com toldos vermelhos, a Cidadela do século XVI e a esplanada do seu museu marítimo, o mercado provençal da Place des Lices sombreada por plátanos às terças e sábados, a extensão de 5 km de Pampelonne mesmo atrás da colina em Ramatuelle, e o Sentier du Littoral de 35 km à volta de toda a península`,
       highlight: `o cais do Porto Velho e o bairro dos pescadores de La Ponche, a esplanada da Cidadela com a sua vista panorâmica sobre o golfo, o mercado e o terreno de pétanque da Place des Lices, e o Sentier du Littoral desde a Plage des Salins contornando o Cap de Saint-Tropez`,
       area: `o Porto Velho e La Ponche, o centro à volta da Place des Lices, o corredor da Route des Plages em direção a Pampelonne, e a península oriental em torno dos Salins e do Cap de Saint-Tropez`,
+    },
+    'san-diego': {
+      personality: `a cidade com as melhores praias caninas dos Estados Unidos, onde o clima permite a vida ao ar livre os doze meses e o município publica cerca de vinte zonas sem trela aprovadas, encabeçadas pela Dog Beach em Ocean Beach (legalmente sem trela desde 1972 e indicada aberta 24 horas), a Coronado Dog Beach e a margem de trela opcional de Fiesta Island`,
+      highlight: `a Dog Beach ao fundo da Voltaire Street, a Coronado Dog Beach no extremo norte da North Beach, o circuito de 8,4 km de Fiesta Island e o seu banho abrigado, e os trilhos de falésia do Sunset Cliffs Natural Park`,
+      area: 'Ocean Beach e Point Loma para chegar a pé à Dog Beach, Liberty Station e Bay Park pelas esplanadas de cervejeiras que acolhem cães, Little Italy e Mission Valley pela proximidade da baixa e das urgências veterinárias 24/7',
     },
     'san-francisco': {
       personality: `a fresca e nevoenta porta do Pacífico para a Bay Area, com uma das redes off-leash mais densas dos EUA que combina cerca de trinta Dog Play Areas vedadas da Rec & Park e as secções sob controlo por voz do GGNRA federal (East Beach de Crissy Field em frente ao Golden Gate Bridge, falésias e praia de Fort Funston, Ocean Beach a norte do Stairwell 21)`,

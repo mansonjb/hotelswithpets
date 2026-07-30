@@ -38908,6 +38908,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'san-diego': {
+    history: {
+      fr: `San Diego occupe l'extrême sud-ouest de la Californie, adossée à une baie naturelle profonde et séparée du Mexique par une simple frontière urbaine. Le navigateur Juan Rodriguez Cabrillo y aborda en 1542, mais la ville naît vraiment en 1769 avec la fondation de la mission San Diego de Alcala, la première de la chaîne des missions californiennes. Longtemps bourgade poussiéreuse, elle bascule au XXe siècle avec l'arrivée massive de la marine américaine, qui installe à Point Loma et North Island des bases toujours structurantes aujourd'hui. L'exposition Panama-California de 1915 lui laisse Balboa Park et son extraordinaire architecture néocoloniale espagnole. La San Diego contemporaine vit du tourisme, de la biotechnologie et de la mer, et elle est devenue l'une des villes les plus accueillantes des États-Unis pour les chiens : Dog Beach à Ocean Beach est sans laisse légalement depuis 1972, l'une des toutes premières plages officielles de ce type dans le pays.`,
+      en: `San Diego occupies the far south-western corner of California, wrapped around a deep natural bay and separated from Mexico by nothing more than an urban border. The navigator Juan Rodriguez Cabrillo landed here in 1542, but the city truly began in 1769 with the founding of Mission San Diego de Alcala, the first in the chain of California missions. A dusty town for a long while, it was transformed in the twentieth century by the arrival of the US Navy, whose bases at Point Loma and North Island still shape the place today. The 1915 Panama-California Exposition left it Balboa Park and its extraordinary Spanish Colonial Revival architecture. Modern San Diego lives on tourism, biotechnology and the sea, and it has become one of the most dog-welcoming cities in the United States: Dog Beach in Ocean Beach has been legally off-leash since 1972, among the very first official beaches of its kind in the country.`,
+      es: `San Diego ocupa el extremo suroeste de California, abrazada a una bahía natural profunda y separada de México por una simple frontera urbana. El navegante Juan Rodríguez Cabrillo desembarcó aquí en 1542, pero la ciudad nace de verdad en 1769 con la fundación de la misión San Diego de Alcalá, la primera de la cadena de misiones californianas. Durante mucho tiempo un pueblo polvoriento, se transformó en el siglo XX con la llegada masiva de la Armada estadounidense, cuyas bases de Point Loma y North Island siguen marcando la ciudad hoy. La Exposición Panamá-California de 1915 le dejó Balboa Park y su extraordinaria arquitectura del renacimiento colonial español. La San Diego contemporánea vive del turismo, la biotecnología y el mar, y se ha convertido en una de las ciudades más acogedoras con perros de Estados Unidos: Dog Beach, en Ocean Beach, es legalmente sin correa desde 1972, una de las primerísimas playas oficiales de este tipo del país.`,
+      pt: `San Diego ocupa o extremo sudoeste da Califórnia, abraçada a uma baía natural profunda e separada do México por uma simples fronteira urbana. O navegador Juan Rodriguez Cabrillo desembarcou aqui em 1542, mas a cidade nasce verdadeiramente em 1769 com a fundação da missão San Diego de Alcala, a primeira da cadeia de missões californianas. Durante muito tempo uma povoação poeirenta, transformou-se no século XX com a chegada maciça da Marinha norte-americana, cujas bases em Point Loma e North Island ainda hoje marcam a cidade. A Exposição Panamá-Califórnia de 1915 deixou-lhe o Balboa Park e a sua extraordinária arquitetura do renascimento colonial espanhol. A San Diego contemporânea vive do turismo, da biotecnologia e do mar, e tornou-se uma das cidades mais acolhedoras para cães dos Estados Unidos: a Dog Beach, em Ocean Beach, é legalmente sem trela desde 1972, uma das primeiríssimas praias oficiais deste tipo do país.`,
+    },
+    sights: [
+      { name: 'Dog Beach, Ocean Beach', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `La plage canine historique de la ville, au pied de Voltaire Street, sans laisse et légale depuis 1972. La municipalité l'indique ouverte 24h/24 toute l'année, avec parking gratuit, douches et toilettes publiques.`,
+        en: `The city's historic dog beach, at the foot of Voltaire Street, off-leash and legal since 1972. The city lists it as open 24 hours all year, with free parking, showers and public restrooms.`,
+        es: `La playa canina histórica de la ciudad, al final de Voltaire Street, sin correa y legal desde 1972. El ayuntamiento la indica abierta 24 horas todo el año, con aparcamiento gratuito, duchas y baños públicos.`,
+        pt: `A praia canina histórica da cidade, ao fundo da Voltaire Street, sem trela e legal desde 1972. O município indica-a aberta 24 horas todo o ano, com estacionamento gratuito, duches e sanitários públicos.`,
+      }},
+      { name: 'Fiesta Island', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Une île entière de Mission Bay Park désignée zone à laisse optionnelle sur tout son rivage et son intérieur, avec une boucle de 8,4 km. L'eau de baie y est calme et peu profonde, la seule baignade vraiment sûre pour un chien à San Diego.`,
+        en: `An entire island in Mission Bay Park designated leash-optional across all its shoreline and interior, with a 5.2-mile loop. The bay water is calm and shallow, the only genuinely safe swim for a dog in San Diego.`,
+        es: `Una isla entera de Mission Bay Park designada zona de correa opcional en toda su orilla e interior, con un circuito de 8,4 km. El agua de la bahía es tranquila y poco profunda, el único baño realmente seguro para un perro en San Diego.`,
+        pt: `Uma ilha inteira do Mission Bay Park designada zona de trela opcional em toda a sua margem e interior, com um circuito de 8,4 km. A água da baía é calma e pouco profunda, o único banho verdadeiramente seguro para um cão em San Diego.`,
+      }},
+      { name: 'Balboa Park', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Le grand parc culturel de 485 hectares légué par l'exposition de 1915, ouvert aux chiens en laisse sur tous ses espaces extérieurs. Il abrite trois parcs canins sans laisse : Nate's Point, Morley Field et Grape Street. Les musées et le zoo n'admettent que les chiens d'assistance.`,
+        en: `The great 1,200-acre cultural park left by the 1915 exposition, open to leashed dogs across all its outdoor grounds. It holds three off-leash dog parks: Nate's Point, Morley Field and Grape Street. The museums and the zoo admit service animals only.`,
+        es: `El gran parque cultural de 485 hectáreas legado por la exposición de 1915, abierto a perros con correa en todos sus espacios exteriores. Alberga tres parques caninos sin correa: Nate's Point, Morley Field y Grape Street. Los museos y el zoo solo admiten perros de servicio.`,
+        pt: `O grande parque cultural de 485 hectares legado pela exposição de 1915, aberto a cães com trela em todos os seus espaços exteriores. Alberga três parques caninos sem trela: Nate's Point, Morley Field e Grape Street. Os museus e o jardim zoológico só aceitam cães de assistência.`,
+      }},
+      { name: 'Sunset Cliffs Natural Park', emoji: '🌅', petFriendly: true, desc: {
+        fr: `Vingt-sept hectares de falaises sculptées sur la façade pacifique de Point Loma, créés en 1983, avec arches et grottes marines en contrebas. Chiens en laisse admis sur les sentiers de plateau ; les bords ne sont pas protégés et s'effritent, gardez la laisse courte.`,
+        en: `Sixty-eight acres of carved cliffs on the Pacific edge of Point Loma, created in 1983, with arches and sea caves below. Leashed dogs are allowed on the blufftop paths; the edges are unfenced and crumbling, so keep the lead short.`,
+        es: `Veintisiete hectáreas de acantilados esculpidos en la fachada pacífica de Point Loma, creados en 1983, con arcos y cuevas marinas abajo. Perros con correa admitidos en los senderos altos; los bordes no están vallados y se desmoronan, mantén la correa corta.`,
+        pt: `Vinte e sete hectares de falésias esculpidas na fachada pacífica de Point Loma, criados em 1983, com arcos e grutas marinhas em baixo. Cães com trela admitidos nos trilhos do topo; as bordas não estão vedadas e desmoronam-se, mantenha a trela curta.`,
+      }},
+      { name: 'Coronado Dog Beach', emoji: '🐕', petFriendly: true, desc: {
+        fr: `L'enclos sans laisse à l'extrémité nord de North Beach, au 200 Ocean Boulevard, avec le sable pâle célèbre de Coronado et l'Hotel del Coronado en toile de fond. Attention : le ferry n'accepte pas les animaux, il faut y venir en voiture ou en bus MTS 901.`,
+        en: `The off-leash run at the north end of North Beach, at 200 Ocean Boulevard, with Coronado's famous pale sand and the Hotel del Coronado behind. Note that the ferry does not carry pets, so you must arrive by car or on MTS bus 901.`,
+        es: `El recinto sin correa en el extremo norte de North Beach, en el 200 de Ocean Boulevard, con la famosa arena clara de Coronado y el Hotel del Coronado al fondo. Ojo: el ferry no admite mascotas, hay que llegar en coche o en el autobús MTS 901.`,
+        pt: `O recinto sem trela no extremo norte da North Beach, no 200 da Ocean Boulevard, com a famosa areia clara de Coronado e o Hotel del Coronado ao fundo. Atenção: o ferry não aceita animais, é preciso chegar de carro ou no autocarro MTS 901.`,
+      }},
+      { name: 'Cabrillo National Monument', emoji: '🗿', petFriendly: true, desc: {
+        fr: `Le monument fédéral à la pointe de Point Loma, avec vue panoramique sur la baie et la ville. Un seul sentier est ouvert aux chiens, le Coastal Trail, en laisse de 1,80 m maximum ; phare, cuvettes de marée et Bayside Trail leur sont interdits.`,
+        en: `The federal monument at the tip of Point Loma, with a panoramic view over the bay and the city. Only one trail is open to dogs, the Coastal Trail, on a leash of no more than 6 feet; the lighthouse, the tidepools and the Bayside Trail are closed to them.`,
+        es: `El monumento federal en la punta de Point Loma, con vista panorámica sobre la bahía y la ciudad. Solo un sendero está abierto a los perros, el Coastal Trail, con correa de 1,80 m como máximo; el faro, las pozas de marea y el Bayside Trail les están prohibidos.`,
+        pt: `O monumento federal na ponta de Point Loma, com vista panorâmica sobre a baía e a cidade. Só um trilho está aberto a cães, o Coastal Trail, com trela de 1,80 m no máximo; o farol, as poças de maré e o Bayside Trail estão-lhes vedados.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Sur les plages municipales autres que celles sans laisse, les chiens ne sont admis, en laisse, qu'avant 9h et après 18h d'avril à octobre, et avant 9h et après 16h de novembre à mars. C'est la règle que la plupart des visiteurs enfreignent sans le savoir.`,
+        `La laisse maximale est de 2,40 m dans les parcs et plages de la ville, mais le code du comté impose 1,80 m tenue à la main hors domicile : une laisse de 1,80 m vous met en règle partout. Première infraction : environ 195 dollars avec les majorations.`,
+        `Les transports publics MTS (bus et Trolley) exigent que tout animal non d'assistance soit entièrement dans un sac fermé tenu sur les genoux : aucun chien moyen ou grand ne peut voyager, à aucune heure. Prévoyez une voiture ou Uber Pet.`,
+        `Le ferry de Coronado n'accepte que les chiens d'assistance. Pour rejoindre Coronado Dog Beach, passez par le pont San Diego-Coronado en voiture ou prenez le bus MTS 901.`,
+        `L'air ne dépasse jamais 23 degrés de moyenne, mais le soleil est fort de mai à octobre et le sable sombre chauffe : promenez tôt ou après 17h, testez le sol du dos de la main, et emportez de l'eau car Fiesta Island n'a ni toilettes ni ombre.`,
+      ],
+      en: [
+        `On city beaches other than the leash-free ones, dogs are permitted, leashed, only before 09:00 and after 18:00 from April to October, and before 09:00 and after 16:00 from November to March. This is the rule most visitors break without knowing it.`,
+        `The maximum leash is 8 feet in city parks and beaches, but county code requires a 6-foot hand-held lead away from home, so a 6-foot leash keeps you legal everywhere. A first violation costs roughly 195 dollars once penalty assessments are added.`,
+        `MTS public transport (bus and Trolley) requires any non-service animal to be fully inside an enclosed carrier held on your lap, so no medium or large dog can travel at any hour. Plan on a car or Uber Pet.`,
+        `The Coronado ferry carries service animals only. To reach Coronado Dog Beach, drive over the San Diego-Coronado Bridge or take MTS bus 901.`,
+        `Air temperature never averages above 23 degrees, but the sun is strong from May to October and dark sand heats up: walk early or after 17:00, test the ground with the back of your hand, and carry water because Fiesta Island has neither restrooms nor shade.`,
+      ],
+      es: [
+        `En las playas municipales distintas de las libres de correa, los perros solo se admiten, con correa, antes de las 09:00 y después de las 18:00 de abril a octubre, y antes de las 09:00 y después de las 16:00 de noviembre a marzo. Es la norma que la mayoría de visitantes incumple sin saberlo.`,
+        `La correa máxima es de 2,40 m en los parques y playas de la ciudad, pero el código del condado exige 1,80 m sujeta con la mano fuera del domicilio, así que una correa de 1,80 m te deja en regla en todas partes. Una primera infracción cuesta unos 195 dólares con los recargos.`,
+        `El transporte público MTS (autobús y Trolley) exige que cualquier animal que no sea de servicio vaya completamente dentro de un transportín cerrado sostenido en el regazo, así que ningún perro mediano o grande puede viajar a ninguna hora. Cuenta con coche o Uber Pet.`,
+        `El ferry de Coronado solo admite perros de servicio. Para llegar a Coronado Dog Beach, cruza en coche el puente San Diego-Coronado o toma el autobús MTS 901.`,
+        `La temperatura del aire nunca supera los 23 grados de media, pero el sol es fuerte de mayo a octubre y la arena oscura se calienta: pasea temprano o después de las 17:00, comprueba el suelo con el dorso de la mano y lleva agua, porque Fiesta Island no tiene baños ni sombra.`,
+      ],
+      pt: [
+        `Nas praias municipais que não sejam as livres de trela, os cães só são admitidos, com trela, antes das 09:00 e depois das 18:00 de abril a outubro, e antes das 09:00 e depois das 16:00 de novembro a março. É a regra que a maioria dos visitantes infringe sem saber.`,
+        `A trela máxima é de 2,40 m nos parques e praias da cidade, mas o código do condado exige 1,80 m segura à mão fora de casa, pelo que uma trela de 1,80 m o deixa em conformidade em todo o lado. Uma primeira infração custa cerca de 195 dólares com os agravamentos.`,
+        `O transporte público MTS (autocarro e Trolley) exige que qualquer animal que não seja de serviço vá totalmente dentro de uma transportadora fechada segura ao colo, pelo que nenhum cão médio ou grande pode viajar a qualquer hora. Conte com carro ou Uber Pet.`,
+        `O ferry de Coronado só aceita cães de assistência. Para chegar à Coronado Dog Beach, atravesse de carro a ponte San Diego-Coronado ou apanhe o autocarro MTS 901.`,
+        `A temperatura do ar nunca excede 23 graus de média, mas o sol é forte de maio a outubro e a areia escura aquece: passeie cedo ou depois das 17:00, teste o piso com as costas da mão e leve água, porque Fiesta Island não tem sanitários nem sombra.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Les États-Unis sont hors UE : pas de passeport européen valable. Depuis août 2024, tout chien entrant doit avoir au moins 6 mois, être pucé et présenter un formulaire CDC Dog Import rempli avant le départ ; vérifiez votre pays sur le site du CDC.`,
+        `Aéroport international de San Diego (SAN) à 5 km du centre, avec zones de soulagement extérieures sur les Ground Transportation Plazas des terminaux 1 et 2, et une zone intérieure après contrôle au terminal 2 entre les portes 46 et 47.`,
+        `L'Amtrak Pacific Surfliner accepte chiens et chats jusqu'à 9 kg sac compris, pour 29 dollars, en voiture Coach uniquement et cinq places par train : réservez tôt pour une excursion vers Los Angeles.`,
+        `Urgences vétérinaires 24h/24 : VCA Emergency Animal Hospital, 7675 Mission Valley Road (+1 619 299 2400) et Veterinary Emergency Group, 980 Camino De La Reina (+1 619 346 4249), tous deux à Mission Valley ; Veterinary Specialty Hospital, 10435 Sorrento Valley Road (+1 858 875 7500) pour le nord.`,
+        `Monnaie : dollar américain ; le pourboire de 15 à 20 % est d'usage. Meilleure période avec un chien : septembre et octobre, mer chaude et foule partie ; l'hiver reste doux à 14-15 degrés avec des créneaux de plage plus larges.`,
+      ],
+      en: [
+        `The United States is outside the EU: an EU pet passport is not valid there. Since August 2024, any dog entering must be at least 6 months old, microchipped, and carry a CDC Dog Import Form completed before departure; check your country of origin on the CDC website.`,
+        `San Diego International Airport (SAN) sits 5 km from downtown, with outdoor relief areas on the Ground Transportation Plazas at Terminals 1 and 2, and an indoor post-security area in Terminal 2 between gates 46 and 47.`,
+        `The Amtrak Pacific Surfliner accepts dogs and cats up to 20 pounds including the carrier, for 29 dollars, in Coach cars only and with five places per train: book early for a day trip up to Los Angeles.`,
+        `24-hour emergency vets: VCA Emergency Animal Hospital, 7675 Mission Valley Road (+1 619 299 2400) and Veterinary Emergency Group, 980 Camino De La Reina (+1 619 346 4249), both in Mission Valley; Veterinary Specialty Hospital, 10435 Sorrento Valley Road (+1 858 875 7500) for the north.`,
+        `Currency: US dollar; a tip of 15 to 20 percent is customary. Best time with a dog: September and October, warm sea and the crowds gone; winter stays mild at 14 to 15 degrees with wider beach time windows.`,
+      ],
+      es: [
+        `Estados Unidos está fuera de la UE: el pasaporte europeo para animales no es válido allí. Desde agosto de 2024, todo perro que entre debe tener al menos 6 meses, microchip y un formulario CDC Dog Import cumplimentado antes de salir; consulta tu país de origen en la web del CDC.`,
+        `El aeropuerto internacional de San Diego (SAN) está a 5 km del centro, con zonas de alivio exteriores en las Ground Transportation Plazas de las terminales 1 y 2, y una zona interior tras el control en la terminal 2 entre las puertas 46 y 47.`,
+        `El Amtrak Pacific Surfliner admite perros y gatos de hasta 9 kg con el transportín incluido, por 29 dólares, solo en vagones Coach y con cinco plazas por tren: reserva pronto para una excursión a Los Ángeles.`,
+        `Urgencias veterinarias 24 horas: VCA Emergency Animal Hospital, 7675 Mission Valley Road (+1 619 299 2400) y Veterinary Emergency Group, 980 Camino De La Reina (+1 619 346 4249), ambos en Mission Valley; Veterinary Specialty Hospital, 10435 Sorrento Valley Road (+1 858 875 7500) para el norte.`,
+        `Moneda: dólar estadounidense; la propina del 15 al 20 % es habitual. Mejor época con perro: septiembre y octubre, mar cálido y sin multitudes; el invierno sigue suave, de 14 a 15 grados, con franjas horarias de playa más amplias.`,
+      ],
+      pt: [
+        `Os Estados Unidos estão fora da UE: o passaporte europeu para animais não é válido ali. Desde agosto de 2024, todo o cão que entre deve ter pelo menos 6 meses, microchip e um formulário CDC Dog Import preenchido antes da partida; consulte o seu país de origem no site do CDC.`,
+        `O aeroporto internacional de San Diego (SAN) fica a 5 km do centro, com zonas de alívio exteriores nas Ground Transportation Plazas dos terminais 1 e 2, e uma zona interior depois do controlo no terminal 2 entre as portas 46 e 47.`,
+        `O Amtrak Pacific Surfliner aceita cães e gatos até 9 kg com a transportadora incluída, por 29 dólares, só em carruagens Coach e com cinco lugares por comboio: reserve cedo para uma excursão até Los Angeles.`,
+        `Urgências veterinárias 24 horas: VCA Emergency Animal Hospital, 7675 Mission Valley Road (+1 619 299 2400) e Veterinary Emergency Group, 980 Camino De La Reina (+1 619 346 4249), ambos em Mission Valley; Veterinary Specialty Hospital, 10435 Sorrento Valley Road (+1 858 875 7500) para o norte.`,
+        `Moeda: dólar norte-americano; a gorjeta de 15 a 20 % é habitual. Melhor época com cão: setembro e outubro, mar quente e sem multidões; o inverno mantém-se suave, entre 14 e 15 graus, com janelas horárias de praia mais largas.`,
+      ],
+    },
+  },
+
   'san-francisco': {
     history: {
       fr: `San Francisco occupe l'extrémité d'une péninsule vallonnée entre l'océan Pacifique et sa grande baie, en Californie du Nord. Simple mission espagnole puis presidio, la ville explosa avec la ruée vers l'or de 1849, qui fit affluer les chercheurs de fortune du monde entier. Reconstruite après le séisme et l'incendie de 1906, elle est devenue une métropole cosmopolite célèbre pour ses collines abruptes parcourues de cable cars, ses maisons victoriennes colorées, le quartier de Chinatown et l'emblématique Golden Gate Bridge inauguré en 1937. Cœur historique de la contre-culture et aujourd'hui capitale de la tech, San Francisco compte parmi les villes les plus accueillantes pour les chiens des États-Unis : parcs immenses, nombreuses aires sans laisse, plages canines et terrasses tolérantes. Son microclimat brumeux et frais, personnifié par le fameux « Karl the Fog », rend la marche agréable presque toute l'année sur un relief toutefois très pentu.`,

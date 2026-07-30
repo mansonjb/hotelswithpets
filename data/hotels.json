@@ -9288,128 +9288,313 @@
   },
   {
     "id": "bristol-1",
-    "name": "Hotel du Vin Bristol",
-    "destinationSlug": "bristol",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "boutique-pet-friendly",
-      "luxury"
-    ],
-    "stars": 4,
-    "rating": 8.7,
-    "reviewCount": 2100,
-    "priceFrom": 135,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/duvinbristol.html",
-    "petFee": 15,
-    "petPolicy": "Pets welcome for GBP 15 per night. Hotel du Vin chain-wide pet-friendly. Bowls and beds provided.",
-    "highlights": [
-      "Restored sugar refinery",
-      "Bowls and beds provided",
-      "City centre + harbour views"
-    ],
-    "slug": "hotel-du-vin-bristol",
-    "petPolicyPt": "Animais bem-vindos para GBP 15 por noite. Hotel du Vin chain-wide animal-friendly. Tigelas e camas fornecidas."
-  },
-  {
-    "id": "bristol-2",
-    "name": "The Bristol Hotel",
-    "destinationSlug": "bristol",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "luxury"
-    ],
-    "stars": 4,
-    "rating": 8.8,
-    "reviewCount": 3200,
-    "priceFrom": 120,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/bristol.html",
-    "petFee": 20,
-    "petPolicy": "Pets allowed for GBP 20 per stay. Harbourside location.",
-    "highlights": [
-      "Harbourside location",
-      "Marriott Doyle pet-friendly",
-      "Walking to Clifton"
-    ],
-    "slug": "the-bristol-hotel",
-    "petPolicyPt": "Animais permitidos para GBP 20 por estadia. Harbourside location."
-  },
-  {
-    "id": "bristol-3",
-    "name": "Mercure Bristol Grand Hotel",
+    "name": "Central One-Bedroom Apartment",
     "destinationSlug": "bristol",
     "categories": [
       "dog-friendly",
       "cat-friendly"
     ],
     "stars": 4,
-    "rating": 8.4,
-    "reviewCount": 4500,
-    "priceFrom": 99,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/mercure-bristol-grand.html",
-    "petFee": 15,
-    "petPolicy": "Pets allowed for GBP 15 per night. Mercure-Accor chain pet-friendly. All sizes welcome.",
+    "rating": 8.9,
+    "reviewCount": 93,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/spacious-apt-with-central-location-amp-queen-beds.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a one-bedroom apartment in central Bristol, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
     "highlights": [
-      "Victorian Grade II listed",
-      "Spa and indoor pool",
-      "Central Broadmead"
+      "Free WiFi",
+      "Non-smoking rooms"
     ],
-    "slug": "mercure-bristol-grand-hotel",
-    "petPolicyPt": "Animais permitidos para GBP 15 por noite. Mercure-Accor chain animal-friendly. All sizes bem-vindos."
+    "slug": "central-one-bedroom-apartment-bristol",
+    "petPolicyFr": "Ce logement en gestion libre, a one-bedroom apartment in central Bristol, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a one-bedroom apartment in central Bristol, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a one-bedroom apartment in central Bristol, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
   },
   {
-    "id": "bristol-4",
-    "name": "Number Thirty Eight Clifton",
+    "id": "bristol-10",
+    "name": "Moxy Bristol",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 3,
+    "rating": 8.7,
+    "reviewCount": 5076,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/moxy-bristol.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Moxy Bristol, a relaxed design hotel near the city centre, welcomes dogs. Please confirm size limits and any pet charge with the property when you book.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "moxy-bristol-bristol",
+    "petPolicyFr": "Moxy Bristol, a relaxed design hotel near the city centre, accueille les chiens. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "Moxy Bristol, a relaxed design hotel near the city centre, admite perros. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "Moxy Bristol, a relaxed design hotel near the city centre, acolhe caes. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "bristol-11",
+    "name": "Clayton Hotel Bristol City",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 12290,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/clayton-bristol-city.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Clayton Hotel Bristol City, a contemporary hotel in the heart of Bristol, welcomes dogs. Please confirm size limits and any pet charge with the property when you book.",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Fitness centre"
+    ],
+    "slug": "clayton-hotel-bristol-city-bristol",
+    "petPolicyFr": "Clayton Hotel Bristol City, a contemporary hotel in the heart of Bristol, accueille les chiens. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "Clayton Hotel Bristol City, a contemporary hotel in the heart of Bristol, admite perros. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "Clayton Hotel Bristol City, a contemporary hotel in the heart of Bristol, acolhe caes. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "bristol-12",
+    "name": "Delta Hotels by Marriott Bristol City Centre",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.4,
+    "reviewCount": 4770,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/bristol-marriott-city-centre.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Delta Hotels by Marriott Bristol City Centre, a full-service hotel in Old Market, welcomes dogs. Please confirm size limits and any pet charge with the property when you book.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "delta-hotels-by-marriott-bristol-city-centre-bristol",
+    "petPolicyFr": "Delta Hotels by Marriott Bristol City Centre, a full-service hotel in Old Market, accueille les chiens. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "Delta Hotels by Marriott Bristol City Centre, a full-service hotel in Old Market, admite perros. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "Delta Hotels by Marriott Bristol City Centre, a full-service hotel in Old Market, acolhe caes. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "bristol-2",
+    "name": "The Old Farmhouse",
     "destinationSlug": "bristol",
     "categories": [
       "dog-friendly",
       "cat-friendly",
-      "boutique-pet-friendly"
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 505,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-old-farm-house-bristol.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Old Farmhouse, in the countryside at Winford near Bristol, welcomes dogs and calm cats with open fields and walking trails close by. Please confirm the number of pets and any charge with the property before arrival.",
+    "highlights": [
+      "Free parking",
+      "Fast free WiFi (69 Mbps)",
+      "Non-smoking rooms"
+    ],
+    "slug": "the-old-farmhouse-bristol",
+    "petPolicyFr": "The Old Farmhouse, a la campagne at Winford pres de Bristol, accueille les chiens et les chats calmes, avec champs et sentiers a proximite. Confirmez le nombre d'animaux et les frais eventuels avec l'etablissement avant l'arrivee.",
+    "petPolicyEs": "The Old Farmhouse, en el campo at Winford cerca de Bristol, admite perros y gatos tranquilos, con campos y rutas a mano. Confirma el numero de mascotas y cualquier cargo con el alojamiento antes de llegar.",
+    "petPolicyPt": "The Old Farmhouse, no campo at Winford perto de Bristol, acolhe caes e gatos calmos, com campos e trilhos por perto. Confirme o numero de animais e eventuais taxas com o alojamento antes da chegada."
+  },
+  {
+    "id": "bristol-3",
+    "name": "Woodcock Farm",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
     ],
     "stars": 4,
     "rating": 9.1,
-    "reviewCount": 600,
-    "priceFrom": 175,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/number-thirty-eight-clifton.html",
-    "petFee": 25,
-    "petPolicy": "Pets welcome for GBP 25 per stay. Boutique B&B in Clifton.",
+    "reviewCount": 74,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/woodcock-farm.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Woodcock Farm, in the countryside at Old Sodbury near Bristol, welcomes dogs and calm cats with open fields and walking trails close by. Please confirm the number of pets and any charge with the property before arrival.",
     "highlights": [
-      "Award-winning boutique",
-      "Clifton location",
-      "Direct walk to Downs and Bridge"
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
     ],
-    "slug": "number-thirty-eight-clifton",
-    "petPolicyPt": "Animais bem-vindos para GBP 25 por estadia. Boutique B&B em Clifton."
+    "slug": "woodcock-farm-bristol",
+    "petPolicyFr": "Woodcock Farm, a la campagne at Old Sodbury pres de Bristol, accueille les chiens et les chats calmes, avec champs et sentiers a proximite. Confirmez le nombre d'animaux et les frais eventuels avec l'etablissement avant l'arrivee.",
+    "petPolicyEs": "Woodcock Farm, en el campo at Old Sodbury cerca de Bristol, admite perros y gatos tranquilos, con campos y rutas a mano. Confirma el numero de mascotas y cualquier cargo con el alojamiento antes de llegar.",
+    "petPolicyPt": "Woodcock Farm, no campo at Old Sodbury perto de Bristol, acolhe caes e gatos calmos, com campos e trilhos por perto. Confirme o numero de animais e eventuais taxas com o alojamento antes da chegada."
+  },
+  {
+    "id": "bristol-4",
+    "name": "The Bear & Swan",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.6,
+    "reviewCount": 657,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-bear-amp-swan.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Bear & Swan, a village inn with rooms, in the countryside at Chew Magna near Bristol, welcomes dogs with open fields and walking trails close by. Please confirm the number of pets and any charge with the property before arrival.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "the-bear-and-swan-bristol",
+    "petPolicyFr": "The Bear & Swan, a village inn with rooms, a la campagne at Chew Magna pres de Bristol, accueille les chiens, avec champs et sentiers a proximite. Confirmez le nombre d'animaux et les frais eventuels avec l'etablissement avant l'arrivee.",
+    "petPolicyEs": "The Bear & Swan, a village inn with rooms, en el campo at Chew Magna cerca de Bristol, admite perros, con campos y rutas a mano. Confirma el numero de mascotas y cualquier cargo con el alojamiento antes de llegar.",
+    "petPolicyPt": "The Bear & Swan, a village inn with rooms, no campo at Chew Magna perto de Bristol, acolhe caes, com campos e trilhos por perto. Confirme o numero de animais e eventuais taxas com o alojamento antes da chegada."
   },
   {
     "id": "bristol-5",
-    "name": "Premier Inn Bristol City Centre (Haymarket)",
+    "name": "Refurbished House near Bristol Harbour",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 51,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/large-newly-refurbished-house-close-to-harbour-bristol-city.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a newly refurbished house close to Bristol Harbour, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Parking on site",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "refurbished-house-near-bristol-harbour-bristol",
+    "petPolicyFr": "Ce logement en gestion libre, a newly refurbished house close to Bristol Harbour, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a newly refurbished house close to Bristol Harbour, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a newly refurbished house close to Bristol Harbour, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "bristol-6",
+    "name": "Coombe Lodge Farm House",
     "destinationSlug": "bristol",
     "categories": [
       "dog-friendly",
       "cat-friendly",
-      "budget-pet-friendly"
+      "near-parks"
     ],
-    "stars": 3,
-    "rating": 8.5,
-    "reviewCount": 3800,
-    "priceFrom": 75,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/premier-inn-bristol-city-centre-haymarket.html",
-    "petFee": 25,
-    "petPolicy": "Pets allowed for GBP 25 per stay. Premier Inn chain-wide pet-friendly since 2024.",
+    "stars": 4,
+    "rating": 9.6,
+    "reviewCount": 426,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/coombe-lodge-farm-house.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Coombe Lodge Farm House, in the countryside at Blagdon near Bristol, welcomes dogs and calm cats with open fields and walking trails close by. Please confirm the number of pets and any charge with the property before arrival.",
     "highlights": [
-      "Premier Inn pet-friendly",
-      "Central Haymarket",
-      "24h reception"
+      "Free parking",
+      "Good free WiFi (45 Mbps)",
+      "Non-smoking rooms"
     ],
-    "slug": "premier-inn-bristol-city-centre-haymarket",
-    "petPolicyPt": "Animais permitidos para GBP 25 por estadia. Premier Inn chain-wide animal-friendly since 2024."
+    "slug": "coombe-lodge-farm-house-bristol",
+    "petPolicyFr": "Coombe Lodge Farm House, a la campagne at Blagdon pres de Bristol, accueille les chiens et les chats calmes, avec champs et sentiers a proximite. Confirmez le nombre d'animaux et les frais eventuels avec l'etablissement avant l'arrivee.",
+    "petPolicyEs": "Coombe Lodge Farm House, en el campo at Blagdon cerca de Bristol, admite perros y gatos tranquilos, con campos y rutas a mano. Confirma el numero de mascotas y cualquier cargo con el alojamiento antes de llegar.",
+    "petPolicyPt": "Coombe Lodge Farm House, no campo at Blagdon perto de Bristol, acolhe caes e gatos calmos, com campos e trilhos por perto. Confirme o numero de animais e eventuais taxas com o alojamento antes da chegada."
+  },
+  {
+    "id": "bristol-7",
+    "name": "Mystique Barn",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.9,
+    "reviewCount": 398,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/mystique-barn.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Mystique Barn, a converted barn, in the countryside at Winford near Bristol, welcomes dogs with open fields and walking trails close by. Please confirm the number of pets and any charge with the property before arrival.",
+    "highlights": [
+      "Free parking",
+      "Good free WiFi (20 Mbps)",
+      "Family rooms"
+    ],
+    "slug": "mystique-barn-bristol",
+    "petPolicyFr": "Mystique Barn, a converted barn, a la campagne at Winford pres de Bristol, accueille les chiens, avec champs et sentiers a proximite. Confirmez le nombre d'animaux et les frais eventuels avec l'etablissement avant l'arrivee.",
+    "petPolicyEs": "Mystique Barn, a converted barn, en el campo at Winford cerca de Bristol, admite perros, con campos y rutas a mano. Confirma el numero de mascotas y cualquier cargo con el alojamiento antes de llegar.",
+    "petPolicyPt": "Mystique Barn, a converted barn, no campo at Winford perto de Bristol, acolhe caes, com campos e trilhos por perto. Confirme o numero de animais e eventuais taxas com o alojamento antes da chegada."
+  },
+  {
+    "id": "bristol-8",
+    "name": "Stylish Victoria Park Apartment",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 107,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/91sqm-victorian-style-flat-apartment.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a stylish two-bedroom apartment beside Victoria Park, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi"
+    ],
+    "slug": "stylish-victoria-park-apartment-bristol",
+    "petPolicyFr": "Ce logement en gestion libre, a stylish two-bedroom apartment beside Victoria Park, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a stylish two-bedroom apartment beside Victoria Park, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a stylish two-bedroom apartment beside Victoria Park, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
+  },
+  {
+    "id": "bristol-9",
+    "name": "Orchard Apartment Bristol",
+    "destinationSlug": "bristol",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 65,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/orchard-by-utdm.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "This self-catering property, a modern apartment in southern Bristol, welcomes dogs and calm cats. Please confirm the number and size of your pets and any cleaning fee with the host before arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "orchard-apartment-bristol-bristol",
+    "petPolicyFr": "Ce logement en gestion libre, a modern apartment in southern Bristol, accepte les chiens et les chats calmes. Confirmez le nombre et la taille de vos animaux ainsi que les frais de menage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Este alojamiento con cocina, a modern apartment in southern Bristol, admite perros y gatos tranquilos. Confirma el numero y el tamano de tus mascotas y cualquier tarifa de limpieza con el anfitrion antes de llegar.",
+    "petPolicyPt": "Este alojamento com cozinha, a modern apartment in southern Bristol, aceita caes e gatos calmos. Confirme o numero e o tamanho dos seus animais e eventuais taxas de limpeza com o anfitriao antes da chegada."
   },
   {
     "id": "brno-1",

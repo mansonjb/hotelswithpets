@@ -2640,6 +2640,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  austin: {
+    history: {
+      en: `Austin grew from a small trading post called Waterloo into the Republic of Texas capital in 1839, chosen partly for its Hill Country beauty and its position on the Colorado River. The University of Texas arrived in 1883, and by the mid-20th century Austin had layered a state government town on top of a college town, a combination that seeded its famous live-music scene along Sixth Street and, later, its tech industry boom. Lady Bird Johnson's beautification campaigns in the 1970s reshaped the riverfront that now bears her name, damming the Colorado into Lady Bird Lake and lining it with the hike-and-bike trail that anchors the city's outdoor culture today. For a dog, Austin's defining trait is its open-air life: unfenced off-leash parks, patio-only dining under Texas health code, and a Hill Country climate that swings from mild winters to genuinely dangerous summer heat.`,
+      fr: `Austin est née d'un petit poste de traite appelé Waterloo avant de devenir la capitale de la République du Texas en 1839, choisie en partie pour la beauté de son Hill Country et sa position sur le fleuve Colorado. L'Université du Texas s'y installe en 1883, et au milieu du XXe siècle, Austin superpose une ville de gouvernement d'État à une ville universitaire, un mélange qui donnera naissance à sa célèbre scène de musique live sur Sixth Street, puis à son essor technologique. Les campagnes d'embellissement de Lady Bird Johnson dans les années 1970 remodèlent le front d'eau qui porte aujourd'hui son nom, transformant le Colorado en lac Lady Bird bordé du sentier hike-and-bike qui structure encore la culture de plein air de la ville. Pour un chien, ce qui définit Austin, c'est sa vie en extérieur : des parcs sans laisse non clôturés, une restauration exclusivement en terrasse imposée par le code sanitaire texan, et un climat de Hill Country qui bascule d'hivers doux à une chaleur estivale réellement dangereuse.`,
+      es: `Austin creció a partir de un pequeño puesto comercial llamado Waterloo hasta convertirse en la capital de la República de Texas en 1839, elegida en parte por la belleza de su Hill Country y su posición sobre el río Colorado. La Universidad de Texas llegó en 1883, y a mediados del siglo XX Austin había superpuesto una ciudad de gobierno estatal sobre una ciudad universitaria, una combinación que sembró su famosa escena de música en vivo en Sixth Street y, más tarde, su auge tecnológico. Las campañas de embellecimiento de Lady Bird Johnson en los años setenta remodelaron el frente fluvial que hoy lleva su nombre, represando el Colorado en el lago Lady Bird y bordeándolo con el sendero hike-and-bike que hoy sostiene la cultura al aire libre de la ciudad. Para un perro, lo que define a Austin es su vida al aire libre: parques sin correa sin vallar, restauración exclusivamente en terraza impuesta por el código sanitario de Texas, y un clima de Hill Country que oscila entre inviernos suaves y un calor estival genuinamente peligroso.`,
+      pt: `Austin nasceu de um pequeno posto de comércio chamado Waterloo antes de se tornar a capital da República do Texas em 1839, escolhida em parte pela beleza do seu Hill Country e pela sua posição sobre o rio Colorado. A Universidade do Texas chegou em 1883, e em meados do século XX Austin tinha sobreposto uma cidade de governo estadual a uma cidade universitária, uma combinação que semeou a sua famosa cena de música ao vivo na Sixth Street e, mais tarde, o seu crescimento tecnológico. As campanhas de embelezamento de Lady Bird Johnson nos anos 1970 remodelaram a marginal que hoje tem o seu nome, represando o Colorado no lago Lady Bird e ladeando-o com o trilho hike-and-bike que ainda hoje sustenta a cultura ao ar livre da cidade. Para um cão, o que define Austin é a sua vida ao ar livre: parques sem trela não vedados, restauração exclusivamente em esplanada imposta pelo código sanitário do Texas, e um clima de Hill Country que oscila entre invernos amenos e um calor de verão genuinamente perigoso.`,
+    },
+    sights: [
+      {
+        name: 'Zilker Metropolitan Park',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: `The Great Lawn inside this 351-acre flagship park is an unfenced off-leash area from 5am to 10pm daily, though dogs stay barred from the playground, pool, and sports fields. Combine it with the Lady Bird Lake trail along the park's edge.`,
+          fr: `La Great Lawn de ce parc phare de 142 hectares est une zone sans laisse non clôturée de 5h à 22h tous les jours, même si les chiens restent interdits à l'aire de jeux, à la piscine et aux terrains de sport. À combiner avec le sentier du lac Lady Bird qui longe le parc.`,
+          es: `El Gran Prado de este parque insignia de 142 hectáreas es una zona sin correa sin vallar de 5h a 22h todos los días, aunque a los perros se les sigue prohibiendo el parque infantil, la piscina y los campos deportivos. Combínalo con el sendero del lago Lady Bird que bordea el parque.`,
+          pt: `O Great Lawn deste parque emblemático de 142 hectares é uma zona sem trela não vedada das 5h às 22h todos os dias, embora os cães continuem proibidos no parque infantil, na piscina e nos campos desportivos. Combine com o trilho do lago Lady Bird que percorre a margem do parque.`,
+        },
+      },
+      {
+        name: 'Red Bud Isle',
+        emoji: '🏝️',
+        petFriendly: true,
+        desc: {
+          en: `A 13-acre off-leash island on Lake Austin just below the Tom Miller Dam, with a shaded loop trail and several gravel entry points where dogs swim freely. Unfenced and unsupervised, watch for algae advisories in late summer.`,
+          fr: `Une île de 5 hectares sans laisse sur le lac Austin, juste en aval du barrage Tom Miller, avec un sentier en boucle ombragé et plusieurs accès en gravier où les chiens nagent librement. Non clôturée et non surveillée, surveillez les avis d'algues en fin d'été.`,
+          es: `Una isla sin correa de 5 hectáreas en el lago Austin, justo debajo de la presa Tom Miller, con un sendero circular sombreado y varios accesos de grava donde los perros nadan libremente. Sin vallar y sin supervisión, vigila los avisos de algas a finales de verano.`,
+          pt: `Uma ilha sem trela de 5 hectares no lago Austin, mesmo abaixo da barragem Tom Miller, com um trilho circular à sombra e vários acessos de gravilha onde os cães nadam livremente. Sem vedação e sem vigilância, fique atento aos avisos de algas no final do verão.`,
+        },
+      },
+      {
+        name: 'Congress Avenue Bridge Bats',
+        emoji: '🦇',
+        petFriendly: true,
+        desc: {
+          en: `Up to 1.5 million Mexican free-tailed bats emerge from under this downtown bridge at dusk from roughly March through October. Watch from the outdoor hike-and-bike trail below with a leashed dog, one of the city's free, dog-friendly evening rituals.`,
+          fr: `Jusqu'à 1,5 million de tadarides du Brésil s'envolent de dessous ce pont du centre-ville au crépuscule, environ de mars à octobre. Observez depuis le sentier hike-and-bike extérieur en contrebas avec votre chien en laisse, l'un des rituels du soir gratuits et dog-friendly de la ville.`,
+          es: `Hasta 1,5 millones de murciélagos rabudos mexicanos salen de debajo de este puente del centro al atardecer, aproximadamente de marzo a octubre. Obsérvalos desde el sendero hike-and-bike exterior de abajo con tu perro con correa, uno de los rituales nocturnos gratuitos y pet-friendly de la ciudad.`,
+          pt: `Até 1,5 milhões de morcegos-de-cauda-livre-mexicanos saem debaixo desta ponte do centro ao anoitecer, aproximadamente de março a outubro. Observe a partir do trilho hike-and-bike exterior em baixo com o seu cão com trela, um dos rituais noturnos gratuitos e pet-friendly da cidade.`,
+        },
+      },
+      {
+        name: 'Auditorium Shores',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          en: `A designated off-leash zone on Lady Bird Lake with a gravel dog launch for swimming, downtown skyline views included. The rest of the park is on-leash only, with fines up to USD 500 for dogs loose outside the marked area.`,
+          fr: `Une zone sans laisse désignée sur le lac Lady Bird, avec une mise à l'eau en gravier pour la nage et une vue sur les gratte-ciel du centre-ville en prime. Le reste du parc est en laisse obligatoire, avec des amendes pouvant atteindre 500 USD pour un chien en liberté hors de la zone balisée.`,
+          es: `Una zona sin correa designada en el lago Lady Bird, con un acceso de grava para nadar y vistas del horizonte del centro incluidas. El resto del parque exige correa obligatoria, con multas de hasta 500 USD para perros sueltos fuera de la zona señalizada.`,
+          pt: `Uma zona sem trela designada no lago Lady Bird, com um acesso de gravilha para nadar e vista do horizonte do centro incluída. O resto do parque exige trela obrigatória, com multas até 500 USD para cães soltos fora da zona assinalada.`,
+        },
+      },
+      {
+        name: 'Mount Bonnell',
+        emoji: '⛰️',
+        petFriendly: true,
+        desc: {
+          en: `Austin's highest public overlook, reached by 102 steep limestone steps, with leashed dogs welcome and sweeping Hill Country views over Lake Austin. The stone gets hot fast in summer sun, an early or evening visit is far kinder to paws.`,
+          fr: `Le plus haut belvédère public d'Austin, accessible par 102 marches raides en calcaire, où les chiens en laisse sont acceptés, avec une vue panoramique sur le Hill Country et le lac Austin. La pierre chauffe vite au soleil d'été, une visite tôt le matin ou en soirée est bien plus douce pour les coussinets.`,
+          es: `El mirador público más alto de Austin, al que se llega por 102 empinados escalones de piedra caliza, donde los perros con correa son bienvenidos, con vistas panorámicas del Hill Country sobre el lago Austin. La piedra se calienta rápido con el sol de verano, una visita a primera hora o al atardecer es mucho más suave para las almohadillas.`,
+          pt: `O miradouro público mais alto de Austin, alcançado por 102 íngremes degraus de calcário, onde os cães com trela são bem-vindos, com vistas panorâmicas do Hill Country sobre o lago Austin. A pedra aquece depressa ao sol de verão, uma visita de manhã cedo ou ao entardecer é muito mais suave para as almofadinhas.`,
+        },
+      },
+      {
+        name: 'Zilker Botanical Garden',
+        emoji: '🌺',
+        petFriendly: true,
+        desc: {
+          en: `A 28-acre garden with themed sections including a Japanese garden and a cactus collection. The garden's own published policy welcomes leashed dogs year-round, with exceptions only for a handful of ticketed evening events.`,
+          fr: `Un jardin de 11 hectares aux sections thématiques, dont un jardin japonais et une collection de cactus. La politique officielle du jardin accueille les chiens en laisse toute l'année, à l'exception de quelques événements ponctuels en soirée sur billet.`,
+          es: `Un jardín de 11 hectáreas con secciones temáticas, entre ellas un jardín japonés y una colección de cactus. La política oficial del jardín admite perros con correa todo el año, salvo excepciones en algunos eventos nocturnos puntuales con entrada.`,
+          pt: `Um jardim de 11 hectares com secções temáticas, incluindo um jardim japonês e uma coleção de cactos. A política oficial do jardim acolhe cães com trela o ano inteiro, com exceções apenas para alguns eventos noturnos pontuais com bilhete.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Test any pavement, gravel, or boardwalk with your palm for 10 seconds before walking your dog on it, June through September routinely produces surface temperatures that burn paws within minutes.`,
+        `Capital Metro (buses, MetroRail, MetroRapid) carries only service animals, ordinary pet dogs are not permitted on any Austin public transit, plan around a rental car or rideshare instead.`,
+        `Austin's off-leash areas at Zilker, Red Bud Isle, and Auditorium Shores are unfenced, unlike most US dog parks, reliable voice-controlled recall matters more here than almost anywhere else.`,
+        `Texas health code keeps dogs out of every indoor restaurant dining room statewide, dog-friendly always means the patio, confirm before assuming an indoor exception.`,
+        `Never leave a dog in a parked car in Austin between April and October, interior temperatures reach dangerous levels within minutes even in shade with windows cracked.`,
+      ],
+      fr: [
+        `Testez tout revêtement, gravier ou promenade en bois avec votre paume pendant 10 secondes avant d'y promener votre chien, de juin à septembre les températures de surface brûlent régulièrement les coussinets en quelques minutes.`,
+        `Capital Metro (bus, MetroRail, MetroRapid) ne transporte que les chiens d'assistance, les chiens de compagnie ordinaires ne sont autorisés dans aucun transport public d'Austin, prévoyez plutôt une voiture de location ou un VTC.`,
+        `Les zones sans laisse d'Austin à Zilker, Red Bud Isle et Auditorium Shores ne sont pas clôturées, contrairement à la plupart des parcs à chiens américains, un rappel vocal fiable compte ici plus que presque partout ailleurs.`,
+        `Le code sanitaire du Texas interdit les chiens en salle dans tous les restaurants de l'État, dog-friendly signifie toujours la terrasse, vérifiez avant de supposer une exception en intérieur.`,
+        `Ne laissez jamais un chien dans une voiture garée à Austin entre avril et octobre, la température intérieure atteint des niveaux dangereux en quelques minutes, même à l'ombre et vitres entrouvertes.`,
+      ],
+      es: [
+        `Comprueba cualquier pavimento, grava o paseo de madera con la palma durante 10 segundos antes de pasear a tu perro por él, de junio a septiembre las temperaturas de superficie suelen quemar las almohadillas en minutos.`,
+        `Capital Metro (autobuses, MetroRail, MetroRapid) solo transporta animales de servicio, los perros de compañía normales no están permitidos en ningún transporte público de Austin, planifica en torno a un coche de alquiler o un VTC.`,
+        `Las zonas sin correa de Austin en Zilker, Red Bud Isle y Auditorium Shores no están valladas, a diferencia de la mayoría de los parques para perros estadounidenses, un buen adiestramiento de llamada importa aquí más que casi en cualquier otro lugar.`,
+        `El código sanitario de Texas prohíbe los perros en el comedor interior en todos los restaurantes del estado, pet-friendly siempre significa la terraza, confirma antes de suponer una excepción en interior.`,
+        `No dejes nunca a un perro en un coche aparcado en Austin entre abril y octubre, la temperatura interior alcanza niveles peligrosos en minutos, incluso a la sombra y con las ventanillas entreabiertas.`,
+      ],
+      pt: [
+        `Teste qualquer pavimento, gravilha ou passadiço com a palma da mão durante 10 segundos antes de passear o seu cão nele, de junho a setembro as temperaturas de superfície costumam queimar as almofadinhas em minutos.`,
+        `A Capital Metro (autocarros, MetroRail, MetroRapid) só transporta animais de assistência, os cães de estimação comuns não são permitidos em nenhum transporte público de Austin, planeie antes à volta de um carro alugado ou de um transporte por aplicação.`,
+        `As zonas sem trela de Austin em Zilker, Red Bud Isle e Auditorium Shores não são vedadas, ao contrário da maioria dos parques para cães norte-americanos, uma chamada de voz fiável conta aqui mais do que em quase qualquer outro lugar.`,
+        `O código sanitário do Texas proíbe cães nas salas interiores em todos os restaurantes do estado, pet-friendly significa sempre a esplanada, confirme antes de presumir uma exceção no interior.`,
+        `Nunca deixe um cão num carro estacionado em Austin entre abril e outubro, a temperatura interior atinge níveis perigosos em minutos, mesmo à sombra e com os vidros entreabertos.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Airport: Austin-Bergstrom International (AUS) has indoor and outdoor pet relief areas; airlines set their own in-cabin and cargo pet policies, confirm directly before booking.`,
+        `Vets: two 24/7 emergency hospitals anchor the city, Austin Veterinary Emergency & Specialty (AVES) in the northwest and MedVet Austin near I-35, plus VEG South Lamar for walk-in urgent care.`,
+        `Transit: Capital Metro buses, MetroRail, and MetroRapid carry only service animals, a rental car or rideshare is the realistic way to get around with a pet dog.`,
+        `Beaches: Austin is landlocked, no ocean beach exists; freshwater swimming is best at Red Bud Isle on Lake Austin and the Auditorium Shores dog launch on Lady Bird Lake.`,
+        `Entry: domestic US travel requires no pet paperwork; international arrivals bringing a dog into the US for the first time must follow the CDC Dog Import Form process in force since August 2024.`,
+      ],
+      fr: [
+        `Aéroport : Austin-Bergstrom International (AUS) dispose de zones de détente canine en intérieur et en extérieur ; chaque compagnie aérienne fixe ses propres règles pour les animaux en cabine et en soute, à confirmer directement avant de réserver.`,
+        `Vétérinaires : deux hôpitaux d'urgence 24h/24 et 7j/7 structurent la ville, Austin Veterinary Emergency & Specialty (AVES) au nord-ouest et MedVet Austin près de l'I-35, ainsi que VEG South Lamar pour les urgences sans rendez-vous.`,
+        `Transports : les bus Capital Metro, le MetroRail et le MetroRapid ne transportent que les chiens d'assistance, une voiture de location ou un VTC est la solution réaliste pour se déplacer avec un chien.`,
+        `Plages : Austin est enclavée, aucune plage océanique n'existe ; la meilleure baignade en eau douce se trouve à Red Bud Isle sur le lac Austin et à la mise à l'eau d'Auditorium Shores sur le lac Lady Bird.`,
+        `Entrée : un voyage intérieur aux États-Unis ne demande aucune formalité pour l'animal ; les arrivées internationales faisant entrer un chien aux États-Unis pour la première fois doivent suivre la procédure du CDC Dog Import Form en vigueur depuis août 2024.`,
+      ],
+      es: [
+        `Aeropuerto: Austin-Bergstrom International (AUS) tiene zonas de esparcimiento canino interiores y exteriores; cada aerolínea fija sus propias normas para mascotas en cabina y en bodega, confírmalo directamente antes de reservar.`,
+        `Veterinarios: dos hospitales de urgencias 24 horas sostienen la ciudad, Austin Veterinary Emergency & Specialty (AVES) al noroeste y MedVet Austin cerca de la I-35, además de VEG South Lamar para urgencias sin cita.`,
+        `Transporte: los autobuses de Capital Metro, el MetroRail y el MetroRapid solo transportan animales de servicio, un coche de alquiler o un VTC es la solución realista para moverse con un perro.`,
+        `Playas: Austin está en el interior, no existe playa oceánica; el mejor baño en agua dulce está en Red Bud Isle en el lago Austin y en el acceso de Auditorium Shores en el lago Lady Bird.`,
+        `Entrada: un viaje doméstico dentro de Estados Unidos no exige ningún trámite para la mascota; las llegadas internacionales que introduzcan un perro en Estados Unidos por primera vez deben seguir el proceso del CDC Dog Import Form vigente desde agosto de 2024.`,
+      ],
+      pt: [
+        `Aeroporto: o Austin-Bergstrom International (AUS) tem zonas de lazer canino interiores e exteriores; cada companhia aérea define as suas próprias regras para animais em cabine e em porão, confirme diretamente antes de reservar.`,
+        `Veterinários: dois hospitais de urgência 24 horas sustentam a cidade, o Austin Veterinary Emergency & Specialty (AVES) a noroeste e o MedVet Austin perto da I-35, além do VEG South Lamar para urgências sem marcação.`,
+        `Transportes: os autocarros da Capital Metro, o MetroRail e o MetroRapid só transportam animais de assistência, um carro alugado ou um transporte por aplicação é a solução realista para se deslocar com um cão.`,
+        `Praias: Austin fica no interior, não existe praia oceânica; o melhor banho em água doce está em Red Bud Isle no lago Austin e no acesso de Auditorium Shores no lago Lady Bird.`,
+        `Entrada: uma viagem doméstica dentro dos Estados Unidos não exige nenhum trâmite para o animal; as chegadas internacionais que levem um cão para os Estados Unidos pela primeira vez devem seguir o processo do CDC Dog Import Form em vigor desde agosto de 2024.`,
+      ],
+    },
+  },
+
   aveiro: {
     history: {
       fr: `Aveiro, surnommée la « Venise du Portugal », doit son existence à la Ria de Aveiro, une lagune côtière qui façonne la ville depuis le Moyen Âge. Prospère grâce au sel, à la pêche de la morue et à la récolte du moliço (algues) transporté par les barques moliceiro, la ville connut un déclin lorsque la lagune s'envasa au XVIe siècle, avant de renaître au XIXe siècle avec l'ouverture d'un nouveau canal vers la mer et l'essor de l'architecture Art Nouveau. Aujourd'hui ses canaux, ses façades décorées et ses moliceiro aux couleurs vives en font l'une des escales les plus pittoresques du centre du Portugal. Pour le voyageur avec un chien, Aveiro est exceptionnellement accommodante : plate et compacte, dotée de trois parcs canins clôturés, d'une culture d'esplanada tolérante, de moliceiro acceptant les chiens en laisse, et à courte distance des plages atlantiques et des palheiros rayés de Costa Nova.`,

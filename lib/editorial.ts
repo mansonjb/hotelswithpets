@@ -401,6 +401,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the National Garden, Filopappou Hill, and the coastal promenade at Faliro',
       area: 'Koukaki, Monastiraki, and Pangrati',
     },
+    austin: {
+      personality: `a landlocked Texas Hill Country capital built around Lady Bird Lake, with unfenced off-leash areas that demand real recall training, a patio-only restaurant culture shaped by state health code, and a public transit system that carries no pet dogs at all`,
+      highlight: `Zilker Metropolitan Park's Great Lawn, the off-leash swimming island at Red Bud Isle, and the Auditorium Shores dog launch on Lady Bird Lake`,
+      area: `South Lamar and South Congress for the patio scene, downtown along the lake trail, and the Zilker area near the park itself`,
+    },
     aveiro: {
       personality: `the 'Venice of Portugal', a compact, flat canal city with three fenced municipal dog parks, pet-tolerant esplanada culture, moliceiro boats that admit leashed dogs, and Atlantic dog beaches a short drive away`,
       highlight: `the Central Canal and moliceiro boats, the three dog parks (Forca-Vouga, Fonte do Meio and Canal de São Roque), and the striped palheiros of Costa Nova`,
@@ -2424,6 +2429,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Jardin National, la colline de Filopappou et la promenade côtière de Faliro',
       area: 'Koukaki, Monastiraki et Pangrati',
     },
+    austin: {
+      personality: `une capitale enclavée du Texas Hill Country bâtie autour du lac Lady Bird, avec des zones sans laisse non clôturées qui exigent un vrai rappel, une culture de restauration exclusivement en terrasse imposée par le code sanitaire de l'État, et un réseau de transports en commun qui n'accepte aucun chien de compagnie`,
+      highlight: `la Great Lawn du Zilker Metropolitan Park, l'île sans laisse pour la baignade de Red Bud Isle, et la mise à l'eau pour chiens d'Auditorium Shores sur le lac Lady Bird`,
+      area: `South Lamar et South Congress pour la scène des terrasses, le centre-ville le long du sentier du lac, et le quartier de Zilker près du parc lui-même`,
+    },
     aveiro: {
       personality: `la « Venise du Portugal », une ville de canaux compacte et plate, avec trois parcs canins municipaux clôturés, une culture d'esplanada tolérante envers les chiens, des barques moliceiro qui acceptent les chiens en laisse et des plages canines atlantiques à quelques minutes en voiture`,
       highlight: `le Canal Central et les barques moliceiro, les trois parcs canins (Forca-Vouga, Fonte do Meio et Canal de São Roque) et les palheiros rayés de Costa Nova`,
@@ -4446,6 +4456,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Jardín Nacional, la colina de Filopappou y el paseo costero de Faliro',
       area: 'Koukaki, Monastiraki y Pangrati',
     },
+    austin: {
+      personality: `una capital sin salida al mar del Hill Country de Texas construida en torno al lago Lady Bird, con zonas sin correa sin vallar que exigen un llamado fiable, una cultura gastronómica exclusivamente en terraza impuesta por el código sanitario del estado, y una red de transporte público que no admite perros de compañía`,
+      highlight: `el Gran Prado del Zilker Metropolitan Park, la isla sin correa para nadar de Red Bud Isle, y el acceso para perros de Auditorium Shores en el lago Lady Bird`,
+      area: `South Lamar y South Congress por la escena de terrazas, el centro junto al sendero del lago, y la zona de Zilker cerca del propio parque`,
+    },
     aveiro: {
       personality: `la « Venecia de Portugal », una ciudad de canales compacta y llana, con tres parques caninos municipales vallados, una cultura de esplanada tolerante con los perros, barcos moliceiro que admiten perros con correa y playas caninas atlánticas a pocos minutos en coche`,
       highlight: `el Canal Central y los barcos moliceiro, los tres parques caninos (Forca-Vouga, Fonte do Meio y Canal de São Roque) y los palheiros a rayas de Costa Nova`,
@@ -6467,6 +6482,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma capital mediterrânea banhada pelo sol que sorprende aos viajeros com animais com os seus bairros transitables e uma creciente escena de hotéis boutique que acogen cães o ano inteiro',
       highlight: 'o Jardim Nacional, a colina de Filopappou e o passeio costero de Faliro',
       area: 'Koukaki, Monastiraki e Pangrati',
+    },
+    austin: {
+      personality: `uma capital sem saída para o mar do Hill Country do Texas construída à volta do lago Lady Bird, com zonas sem trela não vedadas que exigem uma chamada fiável, uma cultura gastronómica exclusivamente em esplanada imposta pelo código sanitário do estado, e uma rede de transportes públicos que não admite cães de estimação`,
+      highlight: `o Great Lawn do Zilker Metropolitan Park, a ilha sem trela para nadar de Red Bud Isle, e o acesso para cães de Auditorium Shores no lago Lady Bird`,
+      area: `South Lamar e South Congress pela cena das esplanadas, o centro junto ao trilho do lago, e a zona de Zilker perto do próprio parque`,
     },
     aveiro: {
       personality: `a « Veneza de Portugal », uma cidade de canais compacta e plana, com três parques caninos municipais vedados, uma cultura de esplanada tolerante com os cães, barcos moliceiro que aceitam cães com trela e praias caninas atlânticas a poucos minutos de carro`,

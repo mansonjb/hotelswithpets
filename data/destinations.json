@@ -1658,6 +1658,81 @@
     "countryCode": "GR"
   },
   {
+    "slug": "austin",
+    "name": "Austin",
+    "country": "United States",
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/austin.jpg",
+    "intro": "Austin is landlocked Texas Hill Country hospitality built around Lady Bird Lake, with unfenced off-leash areas at Zilker Metropolitan Park, Red Bud Isle, and Auditorium Shores that ask more of a dog's recall than any fenced US dog park, plus a patio-first restaurant culture (Texas law keeps pets out of every indoor dining room, so it lives entirely on covered, misted terraces at breweries like The ABGB and Loro). The catch: Capital Metro carries only service animals, no pet dogs on any bus, MetroRail, or MetroRapid line, which pushes most visitors toward a rental car or rideshare. Summer heat is brutal, June through September routinely tops 38 C with pavement far hotter, so walks belong before 9am or after 7pm and paws need a palm-test on any surface. There's no ocean beach (Austin sits hundreds of miles inland), but freshwater swimming is excellent at Red Bud Isle on Lake Austin and the Auditorium Shores dog launch on Lady Bird Lake. Two 24/7 emergency hospitals anchor the city (AVES northwest, MedVet near I-35).",
+    "lat": 30.2672,
+    "lng": -97.7431,
+    "weather": {
+      "jan": {
+        "temp": 12,
+        "desc": "Cool & mild",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 14,
+        "desc": "Cool & breezy",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 22,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 26,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 30,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 33,
+        "desc": "Very hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 34,
+        "desc": "Very hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 30,
+        "desc": "Hot & humid",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 24,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "nov": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 13,
+        "desc": "Cool & mild",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "AUS"
+  },
+  {
     "slug": "aveiro",
     "name": "Aveiro",
     "country": "Portugal",

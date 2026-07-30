@@ -12043,6 +12043,80 @@
     "iata": "HER"
   },
   {
+    "slug": "heviz",
+    "name": "Hévíz",
+    "country": "Hungary",
+    "countryCode": "HU",
+    "flag": "🇭🇺",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/heviz.jpg",
+    "lat": 46.7917,
+    "lng": 17.1875,
+    "intro": "A small spa town by the world's largest naturally warm thermal lake, near the western tip of Lake Balaton. Dogs cannot enter the protected thermal lake itself, but the shaded Véderdő forest that rings it makes a fine leashed loop, Keszthely's dedicated dog beach and off-leash dog run are 8 km away on Balaton, and the Egregy district's Árpád-era church and Roman ruin garden add a quiet outdoor sight. Compact, walkable, and easy without a car once you arrive.",
+    "weather": {
+      "jan": {
+        "temp": 3,
+        "desc": "Cold, damp & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 5,
+        "desc": "Cold & overcast",
+        "icon": "☁️"
+      },
+      "mar": {
+        "temp": 11,
+        "desc": "Cool, brightening",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild spring showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm, sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 27,
+        "desc": "Hot, sunny peak",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Hot, sunny peak",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 21,
+        "desc": "Mild & settled",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 15,
+        "desc": "Cooling autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cold & cloudy",
+        "icon": "☁️"
+      },
+      "dec": {
+        "temp": 4,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "hvar",
     "name": "Hvar",
     "country": "Croatia",

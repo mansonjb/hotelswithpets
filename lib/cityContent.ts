@@ -20601,6 +20601,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  heviz: {
+    history: {
+      en: `Hévíz grew around the world's largest naturally warm, biologically active thermal lake, formed by a karst spring roughly 38,000 years ago and used therapeutically since the 18th century, when Count György Festetics had the first wooden bathhouse built over the water in 1795. The lake's warm, sulphurous water, which never drops below 23°C even in winter, turned a small farming village into one of Central Europe's leading spa destinations, with grand 19th-century bath pavilions and, later, hotels built specifically for medical tourism. Hévíz today has around 4,500 permanent residents but welcomes far more visitors, most staying for the thermal cure. Dogs cannot enter the protected Lake Bath itself, but the Véderdő forest that rings it, the Egregy district's Árpád-era church, and easy road access to Lake Balaton, 8 km away, give the town a genuinely walkable, pet-friendly side beyond the spa.`,
+      fr: `Hévíz s'est développée autour du plus grand lac thermal naturellement chaud et biologiquement actif au monde, formé par une source karstique il y a environ 38 000 ans et exploité à des fins thérapeutiques depuis le XVIIIe siècle, lorsque le comte György Festetics fit construire le premier bâtiment de bains en bois au-dessus de l'eau en 1795. L'eau chaude et sulfureuse du lac, qui ne descend jamais sous 23°C même en hiver, a transformé un petit village agricole en l'une des grandes destinations thermales d'Europe centrale, avec de vastes pavillons de bains du XIXe siècle puis des hôtels construits spécifiquement pour le tourisme médical. Hévíz compte aujourd'hui environ 4 500 habitants permanents mais accueille bien plus de visiteurs, la plupart venus pour la cure thermale. Les chiens ne peuvent pas entrer dans le Lake Bath protégé lui-même, mais la forêt du Véderdő qui l'entoure, l'église árpádienne du quartier d'Egregy, et l'accès facile par la route au lac Balaton, à 8 km, donnent à la ville un vrai visage praticable à pied et accueillant pour les chiens, au-delà du thermalisme.`,
+      es: `Hévíz creció alrededor del mayor lago termal natural y biológicamente activo del mundo, formado por un manantial kárstico hace unos 38.000 años y explotado con fines terapéuticos desde el siglo XVIII, cuando el conde György Festetics mandó construir el primer balneario de madera sobre el agua en 1795. El agua cálida y sulfurosa del lago, que nunca baja de 23°C ni en invierno, convirtió un pequeño pueblo agrícola en uno de los grandes destinos termales de Europa central, con amplios pabellones de baños del siglo XIX y, más tarde, hoteles construidos específicamente para el turismo médico. Hévíz cuenta hoy con unos 4.500 residentes permanentes, pero recibe muchos más visitantes, la mayoría en busca de la cura termal. Los perros no pueden entrar en el Lake Bath protegido, pero el bosque del Véderdő que lo rodea, la iglesia de época árpádiana del barrio de Egregy y el fácil acceso por carretera al lago Balaton, a 8 km, dan a la ciudad un lado realmente caminable y amigable con los perros más allá del balneario.`,
+      pt: `Hévíz cresceu à volta do maior lago termal natural e biologicamente ativo do mundo, formado por uma nascente cársica há cerca de 38.000 anos e usado com fins terapêuticos desde o século XVIII, quando o conde György Festetics mandou construir o primeiro balneário de madeira sobre a água em 1795. A água quente e sulfurosa do lago, que nunca desce abaixo dos 23°C mesmo no inverno, transformou uma pequena aldeia agrícola num dos grandes destinos termais da Europa central, com amplos pavilhões de banhos do século XIX e, mais tarde, hotéis construídos especificamente para o turismo médico. Hévíz tem hoje cerca de 4.500 residentes permanentes, mas recebe muitos mais visitantes, a maioria em busca da cura termal. Os cães não podem entrar no Lake Bath protegido, mas a floresta do Véderdő que o rodeia, a igreja da época árpádiana do bairro de Egregy, e o fácil acesso por estrada ao lago Balaton, a 8 km, dão à cidade um lado genuinamente percorrível a pé e amigo de cães, para além do termalismo.`,
+    },
+    sights: [
+      {
+        name: 'Lake Hévíz (Gyógy-tó) & Lake Bath',
+        emoji: '🌊',
+        petFriendly: false,
+        desc: {
+          en: `The world's largest naturally warm biologically active thermal lake, fed by a karst spring and covered in water lilies, sits at the heart of the town inside the Lake Bath spa complex. Only registered guide dogs may enter the grounds, so most visiting dogs wait this one out at the hotel or a nearby terrace.`,
+          fr: `Le plus grand lac thermal naturellement chaud et biologiquement actif au monde, alimenté par une source karstique et couvert de nénuphars, se trouve au cœur de la ville, dans l'enceinte du complexe thermal Lake Bath. Seuls les chiens guides enregistrés peuvent y entrer, la plupart des chiens en visite patientent donc à l'hôtel ou sur une terrasse voisine.`,
+          es: `El mayor lago termal natural y biológicamente activo del mundo, alimentado por un manantial kárstico y cubierto de nenúfares, se encuentra en el corazón de la ciudad, dentro del complejo balneario Lake Bath. Solo los perros guía registrados pueden entrar, así que la mayoría de los perros visitantes esperan en el hotel o en una terraza cercana.`,
+          pt: `O maior lago termal natural e biologicamente ativo do mundo, alimentado por uma nascente cársica e coberto de nenúfares, fica no coração da cidade, dentro do complexo balnear Lake Bath. Só os cães-guia registados podem entrar, por isso a maioria dos cães visitantes espera no hotel ou numa esplanada próxima.`,
+        },
+      },
+      {
+        name: 'Véderdő Forest Park',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          en: `The protected forest belt that rings the thermal lake gives shaded, flat gravel paths for a proper leashed walk right in the town center. It stays cool even on hot summer afternoons thanks to mature tree cover.`,
+          fr: `La ceinture forestière protégée qui entoure le lac thermal offre des chemins de gravier plats et ombragés pour une vraie promenade en laisse en plein centre-ville. Elle reste fraîche même les après-midi d'été grâce à ses grands arbres.`,
+          es: `El cinturón forestal protegido que rodea el lago termal ofrece senderos de grava llanos y con sombra para un paseo de verdad con correa en pleno centro. Se mantiene fresco incluso en las tardes calurosas de verano gracias a sus árboles maduros.`,
+          pt: `O cinturão florestal protegido que rodeia o lago termal oferece trilhos de gravilha planos e sombreados para um passeio a sério com trela mesmo no centro da cidade. Mantém-se fresco mesmo nas tardes quentes de verão graças às suas árvores antigas.`,
+        },
+      },
+      {
+        name: 'Egregy Church & Roman Ruin Garden',
+        emoji: '⛪',
+        petFriendly: true,
+        desc: {
+          en: `A 13th-century Árpád-era village church with an octagonal tower stands in the historic Egregy district, next to a small Roman ruin garden with a villa rustica and herb garden. The outdoor grounds are easy to see on a leashed walk, ringed by a centuries-old cemetery.`,
+          fr: `Une église villageoise árpádienne du XIIIe siècle, à la tour octogonale, se dresse dans le quartier historique d'Egregy, à côté d'un petit jardin de ruines romaines avec une villa rustica et un jardin d'herbes. Le site extérieur, entouré d'un cimetière séculaire, se visite facilement en laisse.`,
+          es: `Una iglesia de aldea de época árpádiana del siglo XIII, con torre octogonal, se alza en el histórico barrio de Egregy, junto a un pequeño jardín de ruinas romanas con una villa rustica y un jardín de hierbas. El recinto exterior, rodeado de un cementerio centenario, se recorre fácilmente con el perro con correa.`,
+          pt: `Uma igreja de aldeia da época árpádiana do século XIII, com torre octogonal, ergue-se no histórico bairro de Egregy, junto a um pequeno jardim de ruínas romanas com uma villa rustica e um jardim de ervas. O espaço exterior, rodeado por um cemitério secular, visita-se facilmente com o cão pela trela.`,
+        },
+      },
+      {
+        name: 'Festetics Palace Park (Keszthely)',
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          en: `Hungary's grandest surviving aristocratic palace, in Keszthely about 20 minutes away, sits inside a landscaped park with roughly 70,000 flowers planted yearly. Leashed dogs are welcome in the park grounds, though only service dogs may enter the exhibition rooms.`,
+          fr: `Le plus grand château aristocratique conservé de Hongrie, à Keszthely, à environ 20 minutes, se dresse au milieu d'un parc paysager où quelque 70 000 fleurs sont plantées chaque année. Les chiens en laisse sont bienvenus dans le parc, mais seuls les chiens d'assistance peuvent entrer dans les salles d'exposition.`,
+          es: `El mayor palacio aristocrático conservado de Hungría, en Keszthely, a unos 20 minutos, se levanta en medio de un parque ajardinado donde se plantan unas 70.000 flores cada año. Los perros con correa son bienvenidos en el parque, aunque solo los perros de asistencia pueden entrar en las salas de exposición.`,
+          pt: `O maior palácio aristocrático preservado da Hungria, em Keszthely, a cerca de 20 minutos, ergue-se num parque ajardinado onde se plantam cerca de 70.000 flores todos os anos. Os cães com trela são bem-vindos no parque, embora só os cães de assistência possam entrar nas salas de exposição.`,
+        },
+      },
+      {
+        name: 'Keszthely Dog Beach (Lake Balaton)',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          en: `Lake Balaton's dedicated Keszthely dog beach, about 8 km from Hévíz, gives dogs a fenced, off-leash lakefront with shade, a dog playground and a small entry fee. It's the closest genuine swimming spot for a dog visiting Hévíz, since the thermal lake itself is off-limits.`,
+          fr: `La plage pour chiens dédiée de Keszthely sur le lac Balaton, à environ 8 km de Hévíz, offre un espace clôturé sans laisse au bord de l'eau, avec ombre, aire de jeu canine et entrée modique. C'est le vrai spot de baignade le plus proche pour un chien en visite à Hévíz, le lac thermal lui-même étant interdit.`,
+          es: `La playa para perros dedicada de Keszthely en el lago Balaton, a unos 8 km de Hévíz, ofrece un espacio vallado sin correa junto al agua, con sombra, parque canino y una entrada de coste reducido. Es el lugar de baño real más cercano para un perro que visite Hévíz, ya que el lago termal en sí está prohibido.`,
+          pt: `A praia para cães dedicada de Keszthely, no lago Balaton, a cerca de 8 km de Hévíz, oferece um espaço vedado sem trela à beira-água, com sombra, parque canino e uma entrada com taxa reduzida. É o verdadeiro local de banho mais próximo para um cão que visite Hévíz, já que o próprio lago termal está interdito.`,
+        },
+      },
+      {
+        name: 'Hévíz Lake Promenade',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          en: `The paved, tree-lined promenade circling the thermal lake links the spa buildings to the town center and makes Hévíz's default evening walk. Cafés and shops line the route, but the path itself stays calm and level underfoot the whole way round.`,
+          fr: `La promenade pavée et arborée qui fait le tour du lac thermal relie les bâtiments thermaux au centre-ville et constitue la balade du soir par excellence à Hévíz. Cafés et boutiques bordent le parcours, mais le chemin lui-même reste calme et plat sur tout le tour.`,
+          es: `El paseo pavimentado y arbolado que rodea el lago termal conecta los edificios balnearios con el centro y es el paseo vespertino por excelencia en Hévíz. Cafés y tiendas bordean el recorrido, pero el camino en sí se mantiene tranquilo y llano en todo su trazado.`,
+          pt: `O passeio pavimentado e arborizado que contorna o lago termal liga os edifícios do balneário ao centro da cidade e é o passeio de fim de tarde por excelência em Hévíz. Cafés e lojas ladeiam o percurso, mas o caminho em si mantém-se calmo e plano em toda a volta.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Lake Hévíz's Lake Bath grounds admit only registered guide dogs, plan a separate arrangement for your dog during your own spa hours.`,
+        `The local bus to Keszthely runs only every two hours and costs around 400 HUF; small dogs travel free in a carrier, and Hévíz itself has no train station.`,
+        `The town's own vet, Hévízi Állatorvosi Rendelő at Tavirózsa u. 1, is a short walk from the center (+36 83 340 854); call ahead outside opening hours.`,
+        `Keszthely's fenced dog beach on Lake Balaton charges a small entry fee (about 700 HUF per adult, 500 HUF per dog) but lets dogs off-leash in the water.`,
+        `July and August afternoons get hot with little shade on the open lakefront paths, use the Véderdő forest loop for a cooler midday walk instead.`,
+      ],
+      fr: [
+        `Le Lake Bath du lac Hévíz n'admet que les chiens guides enregistrés, prévoyez une solution séparée pour votre chien pendant vos heures de spa.`,
+        `Le bus local vers Keszthely ne circule que toutes les deux heures et coûte environ 400 HUF ; les petits chiens en caisse voyagent gratuitement, et Hévíz elle-même n'a pas de gare.`,
+        `Le vétérinaire de la ville, Hévízi Állatorvosi Rendelő au Tavirózsa u. 1, est à quelques pas du centre (+36 83 340 854) ; appelez avant de vous déplacer en dehors des heures d'ouverture.`,
+        `La plage pour chiens clôturée de Keszthely sur le lac Balaton demande une entrée modique (environ 700 HUF par adulte, 500 HUF par chien) mais laisse les chiens sans laisse dans l'eau.`,
+        `Les après-midis de juillet et août sont chauds avec peu d'ombre sur les chemins ouverts du bord du lac, préférez la boucle forestière du Véderdő pour une promenade de midi plus fraîche.`,
+      ],
+      es: [
+        `El recinto del Lake Bath del lago Hévíz solo admite perros guía registrados, prevé una solución aparte para tu perro durante tus horas de spa.`,
+        `El autobús local a Keszthely circula solo cada dos horas y cuesta unos 400 HUF; los perros pequeños en transportín viajan gratis, y Hévíz en sí no tiene estación de tren.`,
+        `El veterinario propio de la ciudad, Hévízi Állatorvosi Rendelő en Tavirózsa u. 1, está a pocos pasos del centro (+36 83 340 854); llama antes de acudir fuera del horario de apertura.`,
+        `La playa para perros vallada de Keszthely, en el lago Balaton, cobra una entrada de coste reducido (unos 700 HUF por adulto, 500 HUF por perro) pero deja a los perros sin correa en el agua.`,
+        `Las tardes de julio y agosto se ponen calurosas con poca sombra en los caminos abiertos junto al lago, usa el circuito forestal del Véderdő para un paseo de mediodía más fresco.`,
+      ],
+      pt: [
+        `O recinto do Lake Bath do lago Hévíz só admite cães-guia registados, preveja uma solução à parte para o seu cão durante as suas horas de spa.`,
+        `O autocarro local para Keszthely circula apenas de duas em duas horas e custa cerca de 400 HUF; os cães pequenos em transportadora viajam grátis, e a própria Hévíz não tem estação de comboio.`,
+        `O veterinário próprio da cidade, Hévízi Állatorvosi Rendelő na Tavirózsa u. 1, fica a poucos passos do centro (+36 83 340 854); ligue antes de se deslocar fora do horário de funcionamento.`,
+        `A praia para cães vedada de Keszthely, no lago Balaton, cobra uma entrada com taxa reduzida (cerca de 700 HUF por adulto, 500 HUF por cão) mas deixa os cães sem trela na água.`,
+        `As tardes de julho e agosto ficam quentes com pouca sombra nos caminhos abertos à beira do lago, use o circuito florestal do Véderdő para um passeio de meio-dia mais fresco.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `The nearest airport is Sármellék (Hévíz-Balaton Airport, SOB), about 15 km away with seasonal European flights; Budapest's Liszt Ferenc Airport is roughly 2.5 hours by car or train via Keszthely.`,
+        `Best seasons: May-September for the Keszthely dog beach and warm-weather walking; the thermal lake and spa operate year-round but never admit pets.`,
+        `For care beyond routine hours, Nemes kisállatrendelő+ in nearby Keszthely (Rákóczi u. 63, +36 20 418 3405) explicitly covers the Hévíz area.`,
+        `Hévíz has no train station of its own; the Hévíz-Keszthely local bus runs every two hours (about 10 minutes, 400 HUF) to the nearest MÁV station.`,
+        `Hungarian law requires dogs on a lead in built-up public areas unless the owner has full voice control; rules are enforced loosely in Hévíz but strictly around the protected Lake Bath perimeter.`,
+      ],
+      fr: [
+        `L'aéroport le plus proche est celui de Sármellék (Hévíz-Balaton Airport, SOB), à environ 15 km, avec des vols saisonniers vers l'Europe ; l'aéroport Liszt Ferenc de Budapest est à environ 2h30 en voiture ou en train via Keszthely.`,
+        `Meilleures saisons : mai-septembre pour la plage pour chiens de Keszthely et les balades au beau temps ; le lac thermal et le spa fonctionnent toute l'année mais n'admettent jamais les animaux.`,
+        `Pour des soins en dehors des heures habituelles, Nemes kisállatrendelő+ à Keszthely, tout proche (Rákóczi u. 63, +36 20 418 3405), couvre explicitement la région de Hévíz.`,
+        `Hévíz n'a pas de gare ; le bus local Hévíz-Keszthely circule toutes les deux heures (environ 10 minutes, 400 HUF) jusqu'à la gare MÁV la plus proche.`,
+        `La loi hongroise impose la laisse dans les zones publiques urbanisées, sauf si le maître garde un contrôle vocal total ; l'application est souple à Hévíz mais stricte autour du périmètre protégé du Lake Bath.`,
+      ],
+      es: [
+        `El aeropuerto más cercano es el de Sármellék (Hévíz-Balaton Airport, SOB), a unos 15 km, con vuelos estacionales a Europa; el aeropuerto Liszt Ferenc de Budapest está a unas 2h30 en coche o en tren vía Keszthely.`,
+        `Mejores temporadas: mayo-septiembre para la playa para perros de Keszthely y los paseos con buen tiempo; el lago termal y el balneario funcionan todo el año pero nunca admiten mascotas.`,
+        `Para atención fuera del horario habitual, Nemes kisállatrendelő+ en la cercana Keszthely (Rákóczi u. 63, +36 20 418 3405) cubre explícitamente la zona de Hévíz.`,
+        `Hévíz no tiene estación de tren propia; el autobús local Hévíz-Keszthely circula cada dos horas (unos 10 minutos, 400 HUF) hasta la estación MÁV más cercana.`,
+        `La ley húngara exige llevar al perro con correa en zonas públicas urbanizadas, salvo que el dueño mantenga un control vocal total; la aplicación es laxa en Hévíz pero estricta alrededor del perímetro protegido del Lake Bath.`,
+      ],
+      pt: [
+        `O aeroporto mais próximo é o de Sármellék (Hévíz-Balaton Airport, SOB), a cerca de 15 km, com voos sazonais para a Europa; o aeroporto Liszt Ferenc de Budapeste fica a cerca de 2h30 de carro ou de comboio via Keszthely.`,
+        `Melhores estações: maio-setembro para a praia para cães de Keszthely e passeios com bom tempo; o lago termal e o balneário funcionam o ano todo mas nunca admitem animais.`,
+        `Para cuidados fora do horário habitual, a Nemes kisállatrendelő+ na vizinha Keszthely (Rákóczi u. 63, +36 20 418 3405) cobre explicitamente a área de Hévíz.`,
+        `Hévíz não tem estação de comboio própria; o autocarro local Hévíz-Keszthely circula de duas em duas horas (cerca de 10 minutos, 400 HUF) até à estação MÁV mais próxima.`,
+        `A lei húngara exige trela para os cães em zonas públicas urbanizadas, salvo se o dono mantiver controlo vocal total; a aplicação é branda em Hévíz mas rigorosa à volta do perímetro protegido do Lake Bath.`,
+      ],
+    },
+  },
+
   hvar: {
     history: {
       fr: `Fondée par les Grecs de Paros en 384 avant J.-C. sous le nom de Pharos, l'île de Hvar est l'un des plus anciens foyers urbains de Croatie : la plaine agricole de Stari Grad, cadastrée par les colons grecs et toujours cultivée selon le même parcellaire, est inscrite à l'UNESCO. Venise fit ensuite de la ville de Hvar l'un de ses grands ports de l'Adriatique, lui laissant un arsenal, l'un des plus anciens théâtres publics d'Europe et une place monumentale dominée par la forteresse espagnole. L'île revendique aussi le plus fort ensoleillement de Croatie, des champs de lavande à flanc de colline et des villages de pierre comme Velo Grablje ou Vrboska. Entre la promenade de la riva, les sentiers de garrigue et les navettes vers les îles Pakleni, Hvar se découvre très bien avec un chien, surtout hors du cœur de l'été.`,

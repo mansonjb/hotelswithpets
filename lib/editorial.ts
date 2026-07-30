@@ -951,6 +951,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Central Park (Keskuspuisto), the Seurasaari island nature reserve, and the sea fortress island of Suomenlinna',
       area: 'Kallio, Töölö, and the Design District',
     },
+    heviz: {
+      personality: 'a small Hungarian spa town built around the world\'s largest naturally warm thermal lake, near the western tip of Lake Balaton, where a shaded forest park rings the water and Balaton dog beaches are a short drive away',
+      highlight: 'the Véderdő forest park circling Lake Hévíz, the Egregy Árpád-era church and Roman ruin garden, and the dog beach and dog run on Lake Balaton in nearby Keszthely',
+      area: 'the lakefront spa quarter around Kossuth Lajos utca, the historic Egregy district, and the nearby town of Keszthely on Lake Balaton',
+    },
     hvar: {
       personality: `Dalmatia's sun island (2,718 sun hours a year, the most in Croatia), 11,000 residents island-wide and just 3,700 in tiny Hvar Town - clustered around Saint Stephen Square (the largest piazza in Dalmatia), the 16th-century cathedral, the 1612 Arsenal theatre, the Franciscan Monastery on the harbour cliff and the Fortica Španjola fortress on the hill behind, with the Pakleni Islands archipelago a 15-min water-taxi off the western tip, Stari Grad 20 km east (the oldest town in Croatia, Greek Pharos 384 BC) and the UNESCO Stari Grad Plain, lavender ridges around Velo Grablje and Plavac Mali vineyards at Sveta Nedjelja - reached only by Jadrolinija catamaran or car ferry from Split (SPU)`,
       highlight: `Saint Stephen Square and the 1612 Arsenal theatre, the Fortica Španjola panorama over the Pakleni Islands, the Franciscan Monastery harbour cliffside walk, the dog-friendly Palmižana and Mlini bays on Sveti Klement, and Stari Grad UNESCO agricultural plain with 16 km of dry-stone-walled vineyard lanes`,
@@ -2979,6 +2984,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Parc Central (Keskuspuisto), la réserve naturelle insulaire de Seurasaari et la forteresse maritime de Suomenlinna',
       area: 'Kallio, Töölö et le Quartier du Design',
     },
+    heviz: {
+      personality: `une petite ville thermale hongroise bâtie autour du plus grand lac thermal naturellement chaud au monde, près de la pointe ouest du lac Balaton, où un parc forestier ombragé ceinture l'eau et les plages pour chiens du Balaton sont à quelques minutes en voiture`,
+      highlight: `le parc forestier du Véderdő qui entoure le lac Hévíz, l'église árpádienne d'Egregy et son jardin de ruines romaines, et la plage et le parc canin sur le lac Balaton à Keszthely`,
+      area: `le quartier thermal au bord du lac autour de Kossuth Lajos utca, le quartier historique d'Egregy, et la ville voisine de Keszthely sur le lac Balaton`,
+    },
     hvar: {
       personality: `l'île du soleil de Dalmatie (2 718 heures de soleil par an, le maximum croate), 11 000 habitants à l'échelle de l'île et seulement 3 700 dans la minuscule Hvar Town - serrée autour de la place Saint-Étienne (la plus grande piazza de Dalmatie), de la cathédrale du XVIᵉ siècle, du théâtre de l'Arsenal de 1612, du monastère franciscain sur la falaise du port et du fort Fortica Španjola sur la colline derrière, avec l'archipel des îles Pakleni à 15 min de bateau-taxi au large de la pointe ouest, Stari Grad à 20 km à l'est (la plus ancienne ville de Croatie, Pharos grecque 384 av. J.-C.) et sa plaine UNESCO, les crêtes de lavande de Velo Grablje et les vignobles de Plavac Mali à Sveta Nedjelja - accessible uniquement par catamaran ou car-ferry Jadrolinija depuis Split (SPU)`,
       highlight: `la place Saint-Étienne et le théâtre de l'Arsenal de 1612, le panorama de Fortica Španjola sur les îles Pakleni, la promenade du monastère franciscain le long de la falaise du port, les baies dog-friendly de Palmižana et Mlini sur Sveti Klement, et la plaine agricole UNESCO de Stari Grad avec 16 km de chemins de vignes aux murs en pierre sèche`,
@@ -5006,6 +5016,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Parque Central (Keskuspuisto), la reserva natural insular de Seurasaari y la fortaleza marítima de Suomenlinna',
       area: 'Kallio, Töölö y el Barrio del Diseño',
     },
+    heviz: {
+      personality: `una pequeña ciudad termal húngara construida alrededor del lago termal natural más grande del mundo, cerca de la punta occidental del lago Balaton, donde un parque forestal con sombra rodea el agua y las playas para perros del Balaton están a pocos minutos en coche`,
+      highlight: `el parque forestal del Véderdő que rodea el lago Hévíz, la iglesia de época árpádiana de Egregy con su jardín de ruinas romanas, y la playa y el parque canino en el lago Balaton en la cercana Keszthely`,
+      area: `el barrio termal junto al lago en torno a Kossuth Lajos utca, el histórico barrio de Egregy, y la vecina ciudad de Keszthely a orillas del lago Balaton`,
+    },
     hvar: {
       personality: `la isla del sol de Dalmacia (2 718 horas de sol al año, el máximo croata), 11 000 habitantes a escala de la isla y solo 3 700 en la minúscula Hvar Town: agrupada en torno a la plaza de San Esteban (la mayor piazza de Dalmacia), la catedral del siglo XVI, el teatro del Arsenal de 1612, el monasterio franciscano en el acantilado del puerto y el fuerte Fortica Španjola en el cerro detrás, con el archipiélago de las islas Pakleni a 15 min en barco-taxi frente a la punta oeste, Stari Grad a 20 km al este (la ciudad más antigua de Croacia, Pharos griega 384 a.C.) y su llanura UNESCO, las crestas de lavanda de Velo Grablje y los viñedos de Plavac Mali en Sveta Nedjelja: accesible solo por catamarán o ferri de coches Jadrolinija desde Split (SPU)`,
       highlight: `la plaza de San Esteban y el teatro del Arsenal de 1612, el panorama de Fortica Španjola sobre las islas Pakleni, el paseo del monasterio franciscano por el acantilado del puerto, las bahías dog-friendly de Palmižana y Mlini en Sveti Klement, y la llanura agrícola UNESCO de Stari Grad con 16 km de caminos de viña con muros de piedra seca`,
@@ -7032,6 +7047,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma capital nórdica onde o archipiélago islenho, os florestas de pinos e uma cultura profundamente orientada al aire libre a hacen excepcionalmente acogedora para os cães e os seus duenhos',
       highlight: 'o Parque Central (Keskuspuisto), a reserva natural insular de Seurasaari e a fortaleza marítima de Suomenlinna',
       area: 'Kallio, Töölö e o Bairro do Disenho',
+    },
+    heviz: {
+      personality: `uma pequena cidade termal húngara construída à volta do maior lago termal naturalmente quente do mundo, perto da ponta ocidental do lago Balaton, onde um parque florestal sombreado rodeia as águas e as praias para cães do Balaton ficam a poucos minutos de carro`,
+      highlight: `o parque florestal do Véderdő que rodeia o lago Hévíz, a igreja da época árpádiana de Egregy com o seu jardim de ruínas romanas, e a praia e o parque canino no lago Balaton na vizinha Keszthely`,
+      area: `o bairro termal à beira do lago em torno da Kossuth Lajos utca, o histórico bairro de Egregy, e a vizinha cidade de Keszthely, à beira do lago Balaton`,
     },
     hvar: {
       personality: `a ilha do sol da Dalmácia (2 718 horas de sol por ano, o máximo croata), 11 000 habitantes à escala da ilha e apenas 3 700 na minúscula Hvar Town: agrupada em torno da praça de Santo Estêvão (a maior piazza da Dalmácia), da catedral do século XVI, do teatro do Arsenal de 1612, do mosteiro franciscano na falésia do porto e do forte Fortica Španjola no cerro detrás, com o arquipélago das ilhas Pakleni a 15 min de barco-táxi em frente da ponta oeste, Stari Grad a 20 km a este (a cidade mais antiga de Croácia, Pharos grega 384 a.C.) e a sua planície UNESCO, as cristas de alfazema de Velo Grablje e os vinhedos de Plavac Mali em Sveta Nedjelja: accessível só por catamarán ou car-ferry Jadrolinija a partir de Split (SPU)`,

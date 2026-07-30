@@ -1,5 +1,5 @@
 export type CrossSiteLink = {
-  site: 'RaceWeekStays' | 'ScreenToTrip' | 'BestSnowHotels' | 'MyHoneymoonHotel' | 'ExploreIleDeRe'
+  site: 'RaceWeekStays' | 'ScreenToTrip' | 'BestSnowHotels' | 'MyHoneymoonHotel' | 'ExploreIleDeRe' | 'PerfectCityBreak'
   url: string
   anchor: { en: string; fr: string; es: string }
   description: { en: string; fr: string; es: string }
@@ -1826,4 +1826,52 @@ export const CROSS_SITE_LINKS: Record<string, CrossSiteLink[]> = {
       },
     },
   ],
+}
+
+/**
+ * PerfectCityBreak (perfectcitybreak.com): sister site with 3-day city-break itineraries.
+ * Complementary intent: HotelsWithPets covers where to sleep with a pet, PerfectCityBreak covers
+ * what to see and do. Only the cities below exist on both sites, so every link resolves (no 404).
+ * City display names are localized per locale. Links are appended to CROSS_SITE_LINKS so cities
+ * that already have a sister-site entry keep it and gain the PerfectCityBreak card too.
+ */
+const PERFECT_CITY_BREAK_CITIES: Record<string, { en: string; fr: string; es: string }> = {
+  paris: { en: 'Paris', fr: 'Paris', es: 'Paris' },
+  rome: { en: 'Rome', fr: 'Rome', es: 'Roma' },
+  barcelona: { en: 'Barcelona', fr: 'Barcelone', es: 'Barcelona' },
+  madrid: { en: 'Madrid', fr: 'Madrid', es: 'Madrid' },
+  amsterdam: { en: 'Amsterdam', fr: 'Amsterdam', es: 'Amsterdam' },
+  lisbon: { en: 'Lisbon', fr: 'Lisbonne', es: 'Lisboa' },
+  prague: { en: 'Prague', fr: 'Prague', es: 'Praga' },
+  vienna: { en: 'Vienna', fr: 'Vienne', es: 'Viena' },
+  budapest: { en: 'Budapest', fr: 'Budapest', es: 'Budapest' },
+  florence: { en: 'Florence', fr: 'Florence', es: 'Florencia' },
+  venice: { en: 'Venice', fr: 'Venise', es: 'Venecia' },
+  porto: { en: 'Porto', fr: 'Porto', es: 'Oporto' },
+  berlin: { en: 'Berlin', fr: 'Berlin', es: 'Berlin' },
+  seville: { en: 'Seville', fr: 'Seville', es: 'Sevilla' },
+  edinburgh: { en: 'Edinburgh', fr: 'Edimbourg', es: 'Edimburgo' },
+  munich: { en: 'Munich', fr: 'Munich', es: 'Munich' },
+  dublin: { en: 'Dublin', fr: 'Dublin', es: 'Dublin' },
+  brussels: { en: 'Brussels', fr: 'Bruxelles', es: 'Bruselas' },
+  milan: { en: 'Milan', fr: 'Milan', es: 'Milan' },
+  naples: { en: 'Naples', fr: 'Naples', es: 'Napoles' },
+}
+
+for (const [slug, name] of Object.entries(PERFECT_CITY_BREAK_CITIES)) {
+  const entry: CrossSiteLink = {
+    site: 'PerfectCityBreak',
+    url: `https://perfectcitybreak.com/${slug}`,
+    anchor: {
+      en: `${name.en} city break guide`,
+      fr: `Guide city break a ${name.fr}`,
+      es: `Guia de city break en ${name.es}`,
+    },
+    description: {
+      en: `Planning more than the hotel? Perfect City Break has the ${name.en} itinerary: top sights, walking routes and where to eat.`,
+      fr: `Vous planifiez plus que l'hotel ? Perfect City Break propose l'itineraire a ${name.fr} : sites incontournables, balades et bonnes adresses.`,
+      es: `¿Planeas mas que el hotel? Perfect City Break tiene el itinerario de ${name.es}: imprescindibles, rutas a pie y donde comer.`,
+    },
+  }
+  ;(CROSS_SITE_LINKS[slug] ??= []).push(entry)
 }

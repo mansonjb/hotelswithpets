@@ -43,6 +43,13 @@ const SITE_CONFIG = {
     borderColor: 'border-teal-200',
     dotColor: 'bg-teal-500',
   },
+  PerfectCityBreak: {
+    label: 'Perfect City Break',
+    badgeBg: 'bg-indigo-100',
+    badgeText: 'text-indigo-700',
+    borderColor: 'border-indigo-200',
+    dotColor: 'bg-indigo-500',
+  },
 } as const
 
 const SECTION_TITLE: Record<string, string> = {

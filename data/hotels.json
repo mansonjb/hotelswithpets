@@ -29368,128 +29368,325 @@
   },
   {
     "id": "london-1",
-    "name": "The Langham London",
-    "destinationSlug": "london",
-    "categories": [
-      "dog-friendly",
-      "luxury",
-      "cat-friendly"
-    ],
-    "stars": 5,
-    "rating": 9.3,
-    "reviewCount": 5200,
-    "priceFrom": 520,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/langhamhilton.html",
-    "petFee": 70,
-    "petPolicy": "The Langham London allows pets of any size with a £70 refundable deposit per night. One of London's original grand hotels, offering a full VIP Pet programme with bowls, beds, and treats.",
-    "highlights": [
-      "Iconic Regent Street",
-      "VIP pet programme",
-      "Afternoon tea"
-    ],
-    "slug": "the-langham-london",
-    "petPolicyPt": "O Langham London allows animais de any size com um £70 refundable depósito por noite. One de London's original grand hotels, offering um full VIP animal programme com bowls, beds, e treats."
-  },
-  {
-    "id": "london-2",
-    "name": "The Hoxton Shoreditch",
-    "destinationSlug": "london",
-    "categories": [
-      "dog-friendly",
-      "dogs-stay-free",
-      "cat-friendly"
-    ],
-    "stars": 4,
-    "rating": 8.9,
-    "reviewCount": 4800,
-    "priceFrom": 195,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/thehoxton-shoreditch.html",
-    "petFee": 0,
-    "petPolicy": "The Hoxton Shoreditch welcomes one dog per room up to 40lb (18 kg) at no extra fee. Stylish urban hotel in East London's creative quarter.",
-    "highlights": [
-      "Free pets",
-      "Shoreditch scene",
-      "Design"
-    ],
-    "slug": "the-hoxton-shoreditch-london",
-    "petPolicyPt": "O Hoxton Shoreditch welcomes one cão per quarto up para 40lb (18 kg) em sem taxa extra. Stylish urban hotel em East London's creative quarter."
-  },
-  {
-    "id": "london-3",
-    "name": "Sea Containers London",
-    "destinationSlug": "london",
-    "categories": [
-      "dog-friendly",
-      "luxury",
-      "cat-friendly"
-    ],
-    "stars": 5,
-    "rating": 9.1,
-    "reviewCount": 3900,
-    "priceFrom": 340,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/sea-containers.html",
-    "petFee": 35,
-    "petPolicy": "Sea Containers London charges £35 per stay for pets (not per night). South Bank boutique hotel with Thames views; dogs receive a welcome amenity.",
-    "highlights": [
-      "Thames view",
-      "South Bank",
-      "Rooftop bar"
-    ],
-    "slug": "sea-containers-london",
-    "petPolicyPt": "Sea Containers London charges £35 por estadia para animais (não por noite). South Bank boutique hotel com Thames views; cães receive um bem-vindos amenity."
-  },
-  {
-    "id": "london-4",
-    "name": "Virgin Hotels London-Shoreditch",
+    "name": "Montcalm Brewery, London City",
     "destinationSlug": "london",
     "categories": [
       "dog-friendly",
       "cat-friendly",
-      "dogs-stay-free"
+      "luxury"
     ],
-    "stars": 4,
-    "rating": 8.8,
-    "reviewCount": 1800,
-    "priceFrom": 220,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/virgin-hotels-london-shoreditch.html",
+    "stars": 5,
+    "rating": 7.8,
+    "reviewCount": 5734,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/montcalm-brewery.en-gb.html",
     "petFee": 0,
-    "petPolicy": "Virgin Hotels London-Shoreditch welcomes dogs of any size at no additional fee. Pet-forward property with treats, beds, and bowls provided on request.",
+    "petPolicy": "Dogs are welcome at Montcalm Brewery in the City of London. Well-behaved cats are accepted too; please confirm the number of pets and any cleaning fee with the property when you book.",
     "highlights": [
-      "Free pets",
-      "Shoreditch",
-      "Pet amenities"
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
     ],
-    "slug": "virgin-hotels-london-shoreditch",
-    "petPolicyPt": "Virgin Hotels London-Shoreditch welcomes cães de any size em sem additional taxa. animal-forward estabelecimento com treats, beds, e tigela fornecida mediante pedido."
+    "slug": "montcalm-brewery-london-city-london",
+    "petPolicyFr": "Les chiens sont les bienvenus au Montcalm Brewery, dans la City de Londres. Les chats calmes sont aussi acceptes ; confirmez le nombre d'animaux et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "Se admiten perros en el Montcalm Brewery, en la City de Londres. Los gatos tranquilos tambien son bienvenidos; confirma el numero de mascotas y cualquier tarifa con el alojamiento al reservar.",
+    "petPolicyPt": "Caes sao bem-vindos no Montcalm Brewery, na City de Londres. Gatos calmos tambem sao aceites; confirme o numero de animais e eventuais taxas com o alojamento ao reservar."
   },
   {
-    "id": "london-5",
-    "name": "The Columbia Hotel",
+    "id": "london-10",
+    "name": "Middle Eight Covent Garden",
     "destinationSlug": "london",
     "categories": [
       "dog-friendly",
-      "dogs-stay-free",
-      "cat-friendly"
+      "cat-friendly",
+      "luxury"
     ],
-    "stars": 3,
-    "rating": 8.1,
-    "reviewCount": 6200,
-    "priceFrom": 135,
-    "currency": "GBP",
-    "bookingUrl": "https://www.booking.com/hotel/gb/columbia.html",
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 3718,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/middle-eight.en-gb.html",
     "petFee": 0,
-    "petPolicy": "The Columbia allows pets of any size at no additional fee. Victorian hotel overlooking Hyde Park, one of Europe's finest off-leash dog walks.",
+    "petPolicy": "Middle Eight in Covent Garden welcomes dogs, with cats accepted by arrangement. Please share your pet details with the property when booking so they can get the room ready.",
     "highlights": [
-      "Opposite Hyde Park",
-      "Free pets",
-      "Victorian building"
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
     ],
-    "slug": "the-columbia-hotel-london",
-    "petPolicyPt": "O Columbia allows animais de any size em sem additional taxa. Victorian hotel overlooking Hyde Parque, one de Europe's finest off-trela cão walks."
+    "slug": "middle-eight-covent-garden-london",
+    "petPolicyFr": "Middle Eight, a Covent Garden, accueille les chiens et accepte les chats sur arrangement. Communiquez les details de votre animal a l'hotel a la reservation pour preparer la chambre.",
+    "petPolicyEs": "Middle Eight, en Covent Garden, admite perros y acepta gatos con acuerdo previo. Comparte los datos de tu mascota con el alojamiento al reservar para dejar lista la habitacion.",
+    "petPolicyPt": "Middle Eight, em Covent Garden, acolhe caes e aceita gatos mediante combinacao. Partilhe os dados do seu animal com o alojamento ao reservar para prepararem o quarto."
+  },
+  {
+    "id": "london-11",
+    "name": "City Stay Aparts Bayswater",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 243,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/city-stay-aparts-modern-apartment-in-bayswater.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "These self-catering apartments in Bayswater, central London, welcome dogs. Please confirm the number and size of pets and any cleaning fee with the property before arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Airport shuttle",
+      "Laundry"
+    ],
+    "slug": "city-stay-aparts-bayswater-london",
+    "petPolicyFr": "Ces appartements en gestion libre a Bayswater, dans le centre de Londres, acceptent les chiens. Confirmez le nombre et la taille des animaux ainsi que les frais de nettoyage avec le proprietaire avant l'arrivee.",
+    "petPolicyEs": "Estos apartamentos con cocina en Bayswater, en el centro de Londres, admiten perros. Confirma el numero y el tamano de las mascotas y cualquier tarifa de limpieza con el alojamiento antes de llegar.",
+    "petPolicyPt": "Estes apartamentos com cozinha em Bayswater, no centro de Londres, aceitam caes. Confirme o numero e o tamanho dos animais e eventuais taxas de limpeza com o alojamento antes da chegada."
+  },
+  {
+    "id": "london-12",
+    "name": "Montcalm Chilworth Townhouse",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.1,
+    "reviewCount": 7404,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/montcalm-chilworth-townhouse.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Montcalm Chilworth Townhouse in Paddington welcomes dogs and calm cats, and sits close to the green space of Hyde Park. Please confirm pet numbers and any fee with the property when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Private parking",
+      "Family rooms"
+    ],
+    "slug": "montcalm-chilworth-townhouse-london",
+    "petPolicyFr": "Le Montcalm Chilworth Townhouse, a Paddington, accueille les chiens et les chats calmes, a proximite des espaces verts de Hyde Park. Confirmez le nombre d'animaux et les frais avec l'hotel a la reservation.",
+    "petPolicyEs": "El Montcalm Chilworth Townhouse, en Paddington, admite perros y gatos tranquilos y esta cerca de las zonas verdes de Hyde Park. Confirma el numero de mascotas y cualquier tarifa con el alojamiento al reservar.",
+    "petPolicyPt": "O Montcalm Chilworth Townhouse, em Paddington, acolhe caes e gatos calmos e fica perto das zonas verdes do Hyde Park. Confirme o numero de animais e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "london-2",
+    "name": "The Mayfair Townhouse",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 2398,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-mayfair-townhouse-by-iconic-luxury-hotels.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Mayfair Townhouse welcomes dogs in this elegant Georgian townhouse near Green Park. Cats can also be arranged; please let the property know your pet details before arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms",
+      "Fitness centre"
+    ],
+    "slug": "the-mayfair-townhouse-london",
+    "petPolicyFr": "The Mayfair Townhouse accueille les chiens dans cette elegante maison georgienne pres de Green Park. Les chats sont possibles sur demande ; prevenez l'hotel des details de votre animal avant l'arrivee.",
+    "petPolicyEs": "The Mayfair Townhouse admite perros en esta elegante casa georgiana junto a Green Park. Los gatos tambien pueden organizarse; informa al alojamiento de los datos de tu mascota antes de llegar.",
+    "petPolicyPt": "The Mayfair Townhouse acolhe caes nesta elegante casa georgiana junto ao Green Park. Gatos tambem podem ser combinados; informe o alojamento sobre o seu animal antes da chegada."
+  },
+  {
+    "id": "london-3",
+    "name": "art'otel London Hoxton",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 5862,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/art-otel-london-hoxton.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs are welcome at art'otel London Hoxton, a design-led hotel with an indoor pool in Shoreditch. Please confirm size limits and any pet charge with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "art-otel-london-hoxton-london",
+    "petPolicyFr": "Les chiens sont les bienvenus a l'art'otel London Hoxton, hotel design avec piscine interieure a Shoreditch. Confirmez les limites de taille et les frais eventuels avec l'hotel a la reservation.",
+    "petPolicyEs": "Se admiten perros en el art'otel London Hoxton, un hotel de diseno con piscina cubierta en Shoreditch. Confirma los limites de tamano y cualquier cargo con el alojamiento al reservar.",
+    "petPolicyPt": "Caes sao bem-vindos no art'otel London Hoxton, um hotel de design com piscina interior em Shoreditch. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "london-4",
+    "name": "The Dilly",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.1,
+    "reviewCount": 16092,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-dilly.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Dilly on Piccadilly welcomes dogs at this grand hotel with an indoor pool. Please share your pet details with the property in advance so they can prepare the room.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "slug": "the-dilly-london",
+    "petPolicyFr": "The Dilly, sur Piccadilly, accueille les chiens dans ce grand hotel avec piscine interieure. Communiquez les details de votre animal a l'hotel a l'avance pour preparer la chambre.",
+    "petPolicyEs": "The Dilly, en Piccadilly, admite perros en este gran hotel con piscina cubierta. Comparte los datos de tu mascota con el alojamiento con antelacion para preparar la habitacion.",
+    "petPolicyPt": "The Dilly, em Piccadilly, acolhe caes neste grande hotel com piscina interior. Partilhe os dados do seu animal com o alojamento com antecedencia para prepararem o quarto."
+  },
+  {
+    "id": "london-5",
+    "name": "Montcalm Brewery Townhouse",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.1,
+    "reviewCount": 2426,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/montcalm-brewery-townhouse.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and well-behaved cats are welcome at Montcalm Brewery Townhouse, close to green spaces near the Barbican. Please confirm pet numbers and any fee with the property when you book.",
+    "highlights": [
+      "Free WiFi",
+      "Parking",
+      "Family rooms"
+    ],
+    "slug": "montcalm-brewery-townhouse-london",
+    "petPolicyFr": "Les chiens et les chats calmes sont les bienvenus au Montcalm Brewery Townhouse, pres des espaces verts du Barbican. Confirmez le nombre d'animaux et les frais avec l'hotel a la reservation.",
+    "petPolicyEs": "Se admiten perros y gatos tranquilos en el Montcalm Brewery Townhouse, cerca de zonas verdes junto al Barbican. Confirma el numero de mascotas y cualquier tarifa con el alojamiento al reservar.",
+    "petPolicyPt": "Caes e gatos calmos sao bem-vindos no Montcalm Brewery Townhouse, perto de zonas verdes junto ao Barbican. Confirme o numero de animais e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "london-6",
+    "name": "The LaLiT London",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 2495,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-lalit-london.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The LaLiT London, a converted Victorian school near Tower Bridge, welcomes dogs and sits close to riverside walks. Please confirm size limits and any pet charge with the property before arrival.",
+    "highlights": [
+      "Free WiFi",
+      "Private parking",
+      "Spa & wellness centre"
+    ],
+    "slug": "the-lalit-london-london",
+    "petPolicyFr": "The LaLiT London, ancienne ecole victorienne pres de Tower Bridge, accueille les chiens et se trouve pres des promenades le long du fleuve. Confirmez les limites de taille et les frais avec l'hotel avant l'arrivee.",
+    "petPolicyEs": "The LaLiT London, una antigua escuela victoriana junto a Tower Bridge, admite perros y esta cerca de paseos junto al rio. Confirma los limites de tamano y cualquier cargo con el alojamiento antes de llegar.",
+    "petPolicyPt": "The LaLiT London, uma antiga escola vitoriana junto a Tower Bridge, acolhe caes e fica perto de passeios ribeirinhos. Confirme os limites de tamanho e eventuais taxas com o alojamento antes da chegada."
+  },
+  {
+    "id": "london-7",
+    "name": "The Guardsman Hotel",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 1783,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-guardsman.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Guardsman Hotel in Westminster welcomes dogs, with cats accepted on request. Please let the property know your pet details when booking so they can prepare a suitable room.",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
+    ],
+    "slug": "the-guardsman-hotel-london",
+    "petPolicyFr": "The Guardsman Hotel, a Westminster, accueille les chiens et accepte les chats sur demande. Indiquez les details de votre animal a la reservation pour preparer une chambre adaptee.",
+    "petPolicyEs": "The Guardsman Hotel, en Westminster, admite perros y acepta gatos bajo peticion. Informa al alojamiento de los datos de tu mascota al reservar para preparar una habitacion adecuada.",
+    "petPolicyPt": "The Guardsman Hotel, em Westminster, acolhe caes e aceita gatos mediante pedido. Informe o alojamento sobre o seu animal ao reservar para prepararem um quarto adequado."
+  },
+  {
+    "id": "london-8",
+    "name": "Rubens at the Palace",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 2112,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/rubensredcarnationhotels.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Rubens at the Palace, overlooking the Royal Mews near Buckingham Palace, welcomes dogs and is steps from St James Park. Please confirm size limits and any pet fee with the property when booking.",
+    "highlights": [
+      "Free WiFi",
+      "Parking",
+      "Family rooms"
+    ],
+    "slug": "rubens-at-the-palace-london",
+    "petPolicyFr": "Rubens at the Palace, face aux Royal Mews pres de Buckingham Palace, accueille les chiens et se trouve a deux pas de St James Park. Confirmez les limites de taille et les frais avec l'hotel a la reservation.",
+    "petPolicyEs": "Rubens at the Palace, frente a los Royal Mews junto al Palacio de Buckingham, admite perros y esta a pasos de St James Park. Confirma los limites de tamano y cualquier tarifa con el alojamiento al reservar.",
+    "petPolicyPt": "Rubens at the Palace, em frente aos Royal Mews junto ao Palacio de Buckingham, acolhe caes e fica a poucos passos do St James Park. Confirme os limites de tamanho e eventuais taxas com o alojamento ao reservar."
+  },
+  {
+    "id": "london-9",
+    "name": "The Prince Akatoki London",
+    "destinationSlug": "london",
+    "categories": [
+      "dog-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 1064,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/gb/the-prince-akatoki.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Prince Akatoki London, a serene hotel near Marble Arch, welcomes dogs. Please confirm the number of pets and any cleaning charge with the property before your stay.",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
+    ],
+    "slug": "the-prince-akatoki-london-london",
+    "petPolicyFr": "The Prince Akatoki London, hotel paisible pres de Marble Arch, accueille les chiens. Confirmez le nombre d'animaux et les frais de nettoyage eventuels avec l'hotel avant votre sejour.",
+    "petPolicyEs": "The Prince Akatoki London, un hotel sereno cerca de Marble Arch, admite perros. Confirma el numero de mascotas y cualquier cargo de limpieza con el alojamiento antes de tu estancia.",
+    "petPolicyPt": "The Prince Akatoki London, um hotel tranquilo perto de Marble Arch, acolhe caes. Confirme o numero de animais e eventuais taxas de limpeza com o alojamento antes da sua estadia."
   },
   {
     "id": "los-angeles-1",

@@ -376,6 +376,80 @@
     "iata": "MRS"
   },
   {
+    "slug": "aix-les-bains",
+    "name": "Aix-les-Bains",
+    "country": "France",
+    "countryCode": "FR",
+    "flag": "🇫🇷",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/aix-les-bains.jpg",
+    "lat": 45.6883,
+    "lng": 5.9153,
+    "intro": "A thermal spa town on the shore of Lac du Bourget, France's largest natural lake, in the Savoie Alps. The 18-hectare Bois Vidal forest and the historic Parc Thermal give dogs two easy walks in town, a green lakeside path near Cap des Séselets stays open to dogs year-round even though the supervised beaches ban them in summer, and a lake cruise crosses to the Abbaye de Hautecombe with the dog leashed on board. Compact, walkable, and an easy day trip from Chambéry or Annecy.",
+    "weather": {
+      "jan": {
+        "temp": 7,
+        "desc": "Cold, damp & grey",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 9,
+        "desc": "Cold & overcast",
+        "icon": "☁️"
+      },
+      "mar": {
+        "temp": 13,
+        "desc": "Cool, brightening",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 16,
+        "desc": "Mild spring showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 20,
+        "desc": "Warm & wet",
+        "icon": "🌦️"
+      },
+      "jun": {
+        "temp": 24,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 28,
+        "desc": "Warm, sunny peak",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 27,
+        "desc": "Warm, sunny peak",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 23,
+        "desc": "Mild & settled",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 17,
+        "desc": "Cooling autumn",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cold & cloudy",
+        "icon": "☁️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      }
+    }
+  },
+  {
     "slug": "ajaccio",
     "name": "Ajaccio",
     "country": "France",

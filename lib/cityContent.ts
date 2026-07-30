@@ -585,6 +585,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'aix-les-bains': {
+    history: {
+      en: `Aix-les-Bains grew around thermal springs known since Roman times (the Arch of Campanus and remains of Roman baths still stand near the town center), but its modern identity as one of Europe's grand spa towns dates to the 19th century, when Queen Victoria and European aristocracy took the cure beside Lac du Bourget, France's largest natural lake. The Thermes Nationaux, rebuilt in 2000 within the historic Chevalley villa park, still draw visitors for rheumatology and respiratory treatments today. Around 30,000 residents live in a town built for far more visitors, with grand belle-époque hotels, a casino, and lake cruises that cross to the Cistercian Abbaye de Hautecombe, burial place of the House of Savoy. Dogs cannot enter the spa itself or the supervised summer beaches, but the 18-hectare Bois Vidal forest above town, the historic Parc Thermal gardens, and a green lakeside path near Cap des Séselets give the town a genuinely walkable, dog-friendly side beyond the cure.`,
+      fr: `Aix-les-Bains s'est développée autour de sources thermales connues depuis l'époque romaine (l'Arc de Campanus et des vestiges de thermes romains se dressent encore près du centre-ville), mais son identité moderne de grande ville thermale européenne remonte au XIXe siècle, lorsque la reine Victoria et l'aristocratie européenne venaient prendre les eaux au bord du lac du Bourget, le plus grand lac naturel de France. Les Thermes Nationaux, reconstruits en 2000 dans le parc historique de la villa Chevalley, accueillent encore aujourd'hui des curistes en rhumatologie et en voies respiratoires. Environ 30 000 habitants vivent dans une ville construite pour accueillir bien plus de visiteurs, avec de grands hôtels Belle Époque, un casino, et des croisières lacustres qui traversent jusqu'à l'abbaye cistercienne de Hautecombe, nécropole de la Maison de Savoie. Les chiens ne peuvent entrer ni dans les thermes eux-mêmes ni sur les plages surveillées en été, mais la forêt du Bois Vidal (18 hectares) au-dessus de la ville, les jardins historiques du Parc Thermal, et un chemin vert au bord du lac près du Cap des Séselets donnent à la ville un vrai visage praticable à pied et accueillant pour les chiens, au-delà de la cure.`,
+      es: `Aix-les-Bains creció alrededor de manantiales termales conocidos desde época romana (el Arco de Campanus y restos de termas romanas siguen en pie cerca del centro), pero su identidad moderna como una de las grandes ciudades termales de Europa se remonta al siglo XIX, cuando la reina Victoria y la aristocracia europea acudían a tomar las aguas junto al lago du Bourget, el mayor lago natural de Francia. Los Thermes Nationaux, reconstruidos en 2000 dentro del histórico parque de la villa Chevalley, siguen recibiendo hoy a pacientes de reumatología y vías respiratorias. Unos 30.000 residentes viven en una ciudad construida para recibir a muchos más visitantes, con grandes hoteles belle époque, un casino, y cruceros lacustres que cruzan hasta la abadía cisterciense de Hautecombe, necrópolis de la Casa de Saboya. Los perros no pueden entrar ni en el propio balneario ni en las playas vigiladas en verano, pero el bosque de Bois Vidal (18 hectáreas) sobre la ciudad, los jardines históricos del Parc Thermal, y un camino verde junto al lago cerca de Cap des Séselets dan a la ciudad un lado realmente caminable y amigable con los perros más allá de la cura.`,
+      pt: `Aix-les-Bains cresceu à volta de nascentes termais conhecidas desde a época romana (o Arco de Campanus e vestígios de termas romanas ainda se erguem perto do centro), mas a sua identidade moderna como uma das grandes cidades termais da Europa remonta ao século XIX, quando a rainha Vitória e a aristocracia europeia vinham tomar as águas à beira do lago du Bourget, o maior lago natural de França. Os Thermes Nationaux, reconstruídos em 2000 dentro do histórico parque da villa Chevalley, continuam hoje a receber pacientes de reumatologia e vias respiratórias. Cerca de 30.000 residentes vivem numa cidade construída para receber muitos mais visitantes, com grandes hotéis belle époque, um casino, e cruzeiros lacustres que atravessam até à abadia cisterciense de Hautecombe, necrópole da Casa de Saboia. Os cães não podem entrar nem no próprio balneário nem nas praias vigiadas no verão, mas a floresta do Bois Vidal (18 hectares) acima da cidade, os jardins históricos do Parc Thermal, e um caminho verde à beira do lago perto de Cap des Séselets dão à cidade um lado genuinamente percorrível a pé e amigo de cães, para além da cura.`,
+    },
+    sights: [
+      {
+        name: 'Bois Vidal',
+        emoji: '🌲',
+        petFriendly: true,
+        desc: {
+          en: `An 18-hectare municipal woodland of forest and meadow just above the thermal quarter, free and open daily from 8:00 to 17:00. Dogs of all sizes are welcome on its wide pedestrian paths and sports trails.`,
+          fr: `Un bois municipal de 18 hectares mêlant forêt et prairies juste au-dessus du quartier thermal, en accès libre et gratuit tous les jours de 8h à 17h. Les chiens de tous gabarits sont acceptés sur ses larges chemins piétons et parcours sportifs.`,
+          es: `Un bosque municipal de 18 hectáreas de bosque y prado justo por encima del barrio termal, de acceso libre y gratuito todos los días de 8:00 a 17:00. Se admiten perros de todos los tamaños en sus amplios senderos peatonales y rutas deportivas.`,
+          pt: `Um bosque municipal de 18 hectares de floresta e prado mesmo por cima do bairro termal, de acesso livre e gratuito todos os dias das 8h às 17h. Os cães de todos os tamanhos são aceites nos seus amplos caminhos pedonais e percursos desportivos.`,
+        },
+      },
+      {
+        name: 'Parc Thermal',
+        emoji: '🌳',
+        petFriendly: true,
+        desc: {
+          en: `A listed historic garden around the Thermes Nationaux, with five kiosks, wide gravel paths and the shaded Rotonde bar terrace. Leashed dogs are welcome throughout this 19th-century landscaped garden in the town center.`,
+          fr: `Un jardin historique classé autour des Thermes Nationaux, avec cinq kiosques, de larges allées de gravier et la terrasse ombragée du bar la Rotonde. Les chiens en laisse sont acceptés dans tout ce jardin paysager du XIXe siècle en plein centre-ville.`,
+          es: `Un jardín histórico catalogado en torno a los Thermes Nationaux, con cinco quioscos, amplios paseos de grava y la sombreada terraza del bar la Rotonde. Se admiten perros con correa en todo este jardín paisajístico del siglo XIX en pleno centro.`,
+          pt: `Um jardim histórico classificado à volta dos Thermes Nationaux, com cinco quiosques, amplos passeios de gravilha e a esplanada sombreada do bar la Rotonde. Os cães com trela são aceites em todo este jardim paisagístico do século XIX no centro da cidade.`,
+        },
+      },
+      {
+        name: 'Esplanade du Lac & Petit Port',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          en: `The lakefront esplanade running to the Petit Port is Aix-les-Bains' default dog walk, a level path with lake views, beach bars and restaurant terraces the whole way along. It links directly to the boat departure point for Hautecombe Abbey.`,
+          fr: `L'esplanade du bord de lac, qui mène au Petit Port, est la promenade par défaut d'Aix-les-Bains, un chemin plat avec vue sur le lac, bars de plage et terrasses de restaurants tout au long du parcours. Elle relie directement au point de départ des bateaux pour l'abbaye d'Hautecombe.`,
+          es: `El paseo junto al lago que llega hasta el Petit Port es el paseo por defecto de Aix-les-Bains, un camino llano con vistas al lago, chiringuitos y terrazas de restaurantes durante todo el recorrido. Conecta directamente con el punto de salida de los barcos hacia la abadía de Hautecombe.`,
+          pt: `O passeio à beira do lago que chega até ao Petit Port é o passeio por defeito de Aix-les-Bains, um caminho plano com vista para o lago, bares de praia e esplanadas de restaurantes durante todo o percurso. Liga diretamente ao ponto de partida dos barcos para a abadia de Hautecombe.`,
+        },
+      },
+      {
+        name: 'Voie Verte & Cap des Séselets',
+        emoji: '🏖️',
+        petFriendly: true,
+        desc: {
+          en: `A green cycling and walking path runs along the shore between Plage du Rowing and Plage des Mottets, past Cap des Séselets, where dogs can wade and swim freely from the bank year-round. It is the reliable alternative to the town's supervised beaches, which ban dogs outright each summer.`,
+          fr: `Une voie verte cyclable et piétonne longe la rive entre la plage du Rowing et la plage des Mottets, en passant par le Cap des Séselets, où les chiens peuvent patauger et nager librement depuis la berge toute l'année. C'est l'alternative fiable aux plages surveillées de la ville, qui interdisent purement les chiens chaque été.`,
+          es: `Un carril verde para bicicletas y peatones recorre la orilla entre la Plage du Rowing y la Plage des Mottets, pasando por Cap des Séselets, donde los perros pueden chapotear y nadar libremente desde la orilla todo el año. Es la alternativa fiable a las playas vigiladas de la ciudad, que prohíben los perros por completo cada verano.`,
+          pt: `Uma via verde para bicicletas e peões percorre a margem entre a Plage du Rowing e a Plage des Mottets, passando por Cap des Séselets, onde os cães podem chapinhar e nadar livremente a partir da margem durante todo o ano. É a alternativa fiável às praias vigiadas da cidade, que proíbem os cães por completo todos os verões.`,
+        },
+      },
+      {
+        name: 'Abbaye de Hautecombe (lake cruise)',
+        emoji: '⛵',
+        petFriendly: true,
+        desc: {
+          en: `A cruise across Lac du Bourget from the Grand Port reaches the Cistercian Abbaye de Hautecombe, burial site of the House of Savoy on the lake's far shore. Dogs are accepted on board leashed for a small supplement, though they must wait outside during the church visit.`,
+          fr: `Une croisière sur le lac du Bourget au départ du Grand Port rejoint l'abbaye cistercienne de Hautecombe, nécropole de la Maison de Savoie sur l'autre rive du lac. Les chiens sont acceptés à bord en laisse moyennant un petit supplément, mais doivent attendre à l'extérieur pendant la visite de l'église.`,
+          es: `Un crucero por el lago du Bourget desde el Grand Port llega hasta la abadía cisterciense de Hautecombe, necrópolis de la Casa de Saboya en la otra orilla del lago. Se admiten perros a bordo con correa por un pequeño suplemento, aunque deben esperar fuera durante la visita a la iglesia.`,
+          pt: `Um cruzeiro pelo lago du Bourget a partir do Grand Port chega até à abadia cisterciense de Hautecombe, necrópole da Casa de Saboia na margem oposta do lago. Os cães são aceites a bordo com trela mediante um pequeno suplemento, embora tenham de esperar do lado de fora durante a visita à igreja.`,
+        },
+      },
+      {
+        name: 'Thermes Nationaux',
+        emoji: '♨️',
+        petFriendly: false,
+        desc: {
+          en: `The town's modern thermal spa, rebuilt in 2000 within the historic Chevalley villa park, is the reason Aix-les-Bains exists but is strictly off-limits to pets, like every French thermal establishment. Plan a Bois Vidal walk or a sitter for the hours you spend inside.`,
+          fr: `Le complexe thermal moderne de la ville, reconstruit en 2000 dans le parc historique de la villa Chevalley, est la raison d'être d'Aix-les-Bains mais reste strictement interdit aux animaux, comme tous les établissements thermaux français. Prévoyez une balade au Bois Vidal ou un sitter pour les heures passées à l'intérieur.`,
+          es: `El moderno balneario de la ciudad, reconstruido en 2000 dentro del histórico parque de la villa Chevalley, es la razón de ser de Aix-les-Bains pero está estrictamente prohibido para mascotas, como todos los establecimientos termales franceses. Prevé un paseo por el Bois Vidal o un cuidador para las horas que pases dentro.`,
+          pt: `O moderno balneário da cidade, reconstruído em 2000 dentro do histórico parque da villa Chevalley, é a razão de ser de Aix-les-Bains, mas está estritamente interdito a animais, como todos os estabelecimentos termais franceses. Preveja um passeio pelo Bois Vidal ou um cuidador para as horas que passar lá dentro.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Lac du Bourget's supervised beaches ban dogs, even leashed, from roughly June to September; use the green path near Cap des Séselets instead, it stays open year-round.`,
+        `The thermal baths themselves never admit pets, plan a Bois Vidal walk or a Rover.fr sitter for your spa hours.`,
+        `Clinique Vétérinaire du Grand Port (171 avenue du Grand Port, +33 4 79 63 43 99) and Clinique Vétérinaire de la Dent du Chat (11 boulevard Jean Charcot, +33 4 79 53 20 10) are both established local practices.`,
+        `Dogs are accepted leashed on the Hautecombe Abbey cruise boats for a small supplement, but must wait outside during the church visit.`,
+        `On regional trains and the Ondéa town buses, dogs under 6 kg travel free in a closed carrier; larger dogs must be leashed and muzzled with a reduced-fare ticket.`,
+      ],
+      fr: [
+        `Les plages surveillées du lac du Bourget interdisent les chiens, même en laisse, de juin à septembre environ ; utilisez plutôt la voie verte près du Cap des Séselets, elle reste ouverte toute l'année.`,
+        `Les thermes eux-mêmes n'admettent jamais les animaux, prévoyez une balade au Bois Vidal ou un sitter Rover.fr pour vos heures de soins.`,
+        `La Clinique Vétérinaire du Grand Port (171 avenue du Grand Port, +33 4 79 63 43 99) et la Clinique Vétérinaire de la Dent du Chat (11 boulevard Jean Charcot, +33 4 79 53 20 10) sont deux cabinets locaux établis.`,
+        `Les chiens sont acceptés en laisse sur les bateaux de croisière vers l'abbaye d'Hautecombe moyennant un léger supplément, mais doivent attendre à l'extérieur pendant la visite de l'église.`,
+        `Sur les trains régionaux et les bus Ondéa en ville, les chiens de moins de 6 kg voyagent gratuitement en caisse fermée ; les chiens plus grands doivent être en laisse et muselés avec un billet à tarif réduit.`,
+      ],
+      es: [
+        `Las playas vigiladas del lago du Bourget prohíben los perros, incluso con correa, de junio a septiembre aproximadamente; usa en su lugar el camino verde cerca de Cap des Séselets, permanece abierto todo el año.`,
+        `El propio balneario nunca admite mascotas, prevé un paseo por el Bois Vidal o un cuidador de Rover.fr para tus horas de spa.`,
+        `La Clinique Vétérinaire du Grand Port (171 avenue du Grand Port, +33 4 79 63 43 99) y la Clinique Vétérinaire de la Dent du Chat (11 boulevard Jean Charcot, +33 4 79 53 20 10) son dos consultas locales establecidas.`,
+        `Se admiten perros con correa en los barcos de crucero hacia la abadía de Hautecombe por un pequeño suplemento, pero deben esperar fuera durante la visita a la iglesia.`,
+        `En los trenes regionales y los autobuses Ondéa de la ciudad, los perros de menos de 6 kg viajan gratis en transportín cerrado; los perros más grandes deben ir con correa y bozal con billete de tarifa reducida.`,
+      ],
+      pt: [
+        `As praias vigiadas do lago du Bourget proíbem os cães, mesmo com trela, de junho a setembro aproximadamente; use antes o caminho verde perto de Cap des Séselets, mantém-se aberto durante todo o ano.`,
+        `O próprio balneário nunca admite animais, preveja um passeio pelo Bois Vidal ou um cuidador da Rover.fr para as suas horas de spa.`,
+        `A Clinique Vétérinaire du Grand Port (171 avenue du Grand Port, +33 4 79 63 43 99) e a Clinique Vétérinaire de la Dent du Chat (11 boulevard Jean Charcot, +33 4 79 53 20 10) são duas clínicas locais estabelecidas.`,
+        `Os cães são aceites com trela nos barcos de cruzeiro para a abadia de Hautecombe mediante um pequeno suplemento, mas têm de esperar do lado de fora durante a visita à igreja.`,
+        `Nos comboios regionais e nos autocarros Ondéa da cidade, os cães com menos de 6 kg viajam grátis em transportadora fechada; os cães maiores devem ir com trela e açaime com bilhete de tarifa reduzida.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `The nearest airport is Chambéry-Savoie (CMF), about 20 km away; Geneva Airport (GVA) is roughly 1 hour by car or train.`,
+        `Best seasons: May-September for the Bois Vidal and lakeside walks; the supervised beaches exclude dogs during this same window, so use the Cap des Séselets green path instead.`,
+        `24h emergency care runs through the on-call rota of the local clinics; Clinique Vétérinaire du Grand Port (+33 4 79 63 43 99) is a practical first call.`,
+        `Aix-les-Bains' own SNCF station has direct TGV and TER links to Paris, Lyon, Chambéry and Annecy, no need to route via another town.`,
+        `French law requires dogs on a lead in built-up public areas unless the owner has full voice control; the rule is enforced strictly on the supervised summer beaches around Lac du Bourget.`,
+      ],
+      fr: [
+        `L'aéroport le plus proche est Chambéry-Savoie (CMF), à environ 20 km ; l'aéroport de Genève (GVA) est à environ 1h en voiture ou en train.`,
+        `Meilleures saisons : mai-septembre pour le Bois Vidal et les balades au bord du lac ; les plages surveillées excluent les chiens durant cette même période, utilisez donc la voie verte du Cap des Séselets à la place.`,
+        `Les soins d'urgence 24h/24 passent par le roulement de garde des cliniques locales ; la Clinique Vétérinaire du Grand Port (+33 4 79 63 43 99) est un premier appel pratique.`,
+        `La gare SNCF propre d'Aix-les-Bains offre des liaisons TGV et TER directes vers Paris, Lyon, Chambéry et Annecy, sans passer par une autre ville.`,
+        `La loi française impose la laisse dans les zones publiques urbanisées, sauf si le maître garde un contrôle vocal total ; la règle est appliquée strictement sur les plages surveillées estivales du lac du Bourget.`,
+      ],
+      es: [
+        `El aeropuerto más cercano es Chambéry-Savoie (CMF), a unos 20 km; el aeropuerto de Ginebra (GVA) está a aproximadamente 1 hora en coche o en tren.`,
+        `Mejores temporadas: mayo-septiembre para el Bois Vidal y los paseos junto al lago; las playas vigiladas excluyen a los perros durante ese mismo periodo, así que usa el camino verde de Cap des Séselets en su lugar.`,
+        `La atención de urgencias 24 h pasa por el turno de guardia de las clínicas locales; la Clinique Vétérinaire du Grand Port (+33 4 79 63 43 99) es una primera llamada práctica.`,
+        `La estación SNCF propia de Aix-les-Bains tiene enlaces directos de TGV y TER a París, Lyon, Chambéry y Annecy, sin necesidad de pasar por otra ciudad.`,
+        `La ley francesa exige llevar al perro con correa en zonas públicas urbanizadas, salvo que el dueño mantenga un control vocal total; la norma se aplica estrictamente en las playas vigiladas de verano del lago du Bourget.`,
+      ],
+      pt: [
+        `O aeroporto mais próximo é Chambéry-Savoie (CMF), a cerca de 20 km; o aeroporto de Genebra (GVA) fica a cerca de 1 hora de carro ou de comboio.`,
+        `Melhores estações: maio-setembro para o Bois Vidal e os passeios à beira do lago; as praias vigiadas excluem os cães durante esse mesmo período, por isso use antes o caminho verde de Cap des Séselets.`,
+        `Os cuidados de urgência 24 h passam pela escala de plantão das clínicas locais; a Clinique Vétérinaire du Grand Port (+33 4 79 63 43 99) é uma primeira chamada prática.`,
+        `A estação SNCF própria de Aix-les-Bains tem ligações diretas de TGV e TER a Paris, Lyon, Chambéry e Annecy, sem necessidade de passar por outra cidade.`,
+        `A lei francesa exige trela para os cães em zonas públicas urbanizadas, salvo se o dono mantiver controlo vocal total; a regra é aplicada rigorosamente nas praias vigiadas de verão do lago du Bourget.`,
+      ],
+    },
+  },
+
   ajaccio: {
     history: {
       fr: `Ajaccio, capitale de la Corse-du-Sud et lieu de naissance de Napoléon Bonaparte (1769), est une ville méditerranéenne ensoleillée de 72 000 habitants au fond d'un golfe abrité face aux îles Sanguinaires. Fondée en 1492 par la République de Gênes sur un promontoire défensif, la ville garde sa Citadelle Miollis génoise du XVIe siècle, ses ruelles pavées de granit dans la Vieille Ville autour de la Maison Bonaparte, et le Palais Fesch - l'une des plus belles collections de peinture italienne de France hors Paris, fruit du legs du cardinal Fesch, oncle de Napoléon. Pour les propriétaires de chiens, Ajaccio est la base la plus pet-friendly de Corse : climat méditerranéen avec hivers très doux (11–12°C en janvier), Sentier des Crêtes de 7 km sur les hauteurs avec panoramas mer à 360°, Pointe de la Parata et îles Sanguinaires à l'ouest accessibles en bateau (chiens en laisse sur ponts ouverts), plage canine sauvage à Capo di Feno toute l'année, et culture corse profondément accueillante aux animaux dans les trattorie de la Vieille Ville et les paillotes du front de mer. La logistique ferry (Marseille/Nice/Toulon/Livourne/Savone/Piombino) et vol (Air Corsica/Air France) est bien rodée mais demande une réservation animal anticipée 6–8 semaines à l'avance pour juillet-août.`,

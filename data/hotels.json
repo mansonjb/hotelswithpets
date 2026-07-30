@@ -649,6 +649,204 @@
     "petPolicyPt": "Cães e gatos de any size bem-vindos em sem taxa extra. Each guestroom can host one animal. Avise em reserva e trazer um vacinação record."
   },
   {
+    "id": "aix-les-bains-1",
+    "name": "Le Riviera - Hôtel Restaurant & Spa - Ex Golden Tulip Aix les bains",
+    "destinationSlug": "aix-les-bains",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 2152,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/park-hotel-du-casino.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "2 rue Jean Louis Victor Bias, 73100 Aix-les-Bains, FranceExcellent location , rated 9/10!(score from 2115 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "3 swimming pools",
+      "Spa & wellness centre",
+      "Parking on site"
+    ],
+    "slug": "le-riviera-hotel-restaurant-spa-ex-golden-tulip-aix-les-bains"
+  },
+  {
+    "id": "aix-les-bains-2",
+    "name": "Grand Hôtel Du Parc - Teritoria",
+    "destinationSlug": "aix-les-bains",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 553,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/logis-de-france-grand-du-parc.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "1 rue Sommeiller, 73100 Aix-les-Bains, FranceExcellent location , rated 9.3/10!(score from 546 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "grand-hotel-du-parc-teritoria"
+  },
+  {
+    "id": "aix-les-bains-3",
+    "name": "Logis Hôtel & Spa Marina d'Adelphia",
+    "destinationSlug": "aix-les-bains",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.2,
+    "reviewCount": 1572,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/marina-d-adelphia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Free parking"
+    ],
+    "slug": "logis-hotel-spa-marina-d-adelphia"
+  },
+  {
+    "id": "aix-les-bains-4",
+    "name": "Urban Hotel & Spa Aix-les-Bains - BW Signature Collection",
+    "destinationSlug": "aix-les-bains",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.4,
+    "reviewCount": 2713,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/agora-hotels.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sustainability certification",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "slug": "urban-hotel-spa-aix-les-bains-bw-signature-collection"
+  },
+  {
+    "id": "aix-les-bains-5",
+    "name": "Belle Epoque",
+    "destinationSlug": "aix-les-bains",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 569,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/belle-epoque-1.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "7 RUE DAVAT, 73100 Aix-les-Bains, FranceExcellent location , rated 9.4/10!(score from 562 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "belle-epoque"
+  },
+  {
+    "id": "aix-les-bains-6",
+    "name": "Les Suites du Lac",
+    "destinationSlug": "aix-les-bains",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 597,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/les-suites-du-lac.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Great location - show map",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Family rooms"
+    ],
+    "slug": "les-suites-du-lac"
+  },
+  {
+    "id": "aix-les-bains-7",
+    "name": "La loge des jardins du petit port",
+    "destinationSlug": "aix-les-bains",
+    "categories": [
+      "dog-friendly",
+      "near-parks",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.6,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/la-loge-des-jardins-du-petit-port.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "La loge des jardins du petit port (Apartment) (France) deals",
+    "highlights": [
+      "Free parking",
+      "Fast free WiFi (271 Mbps)",
+      "Non-smoking rooms"
+    ],
+    "slug": "la-loge-des-jardins-du-petit-port"
+  },
+  {
+    "id": "aix-les-bains-8",
+    "name": "Palace Le Bernascon, appartement \"Le soleil du Revard\"",
+    "destinationSlug": "aix-les-bains",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.4,
+    "reviewCount": 98,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/fr/appartement-complet-proche-centre-et-thermes-aix-les-bains.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "6 Boulevard de la Roche du Roi, 73100 Aix-les-Bains, FranceExcellent location , rated 9.7/10!(score from 95 reviews)Real guests • Real stays • Real opinions",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "slug": "palace-le-bernascon-appartement-le-soleil-du-revard"
+  },
+  {
     "id": "ajaccio-1",
     "name": "Sofitel Golfe d'Ajaccio Thalassa Sea & Spa",
     "destinationSlug": "ajaccio",

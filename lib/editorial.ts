@@ -341,6 +341,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Cours Mirabeau plane-tree canopy, Parc Jourdan, and the Bibémus and Bimont trails on the Sainte-Victoire',
       area: 'the historic centre, the Quartier Mazarin, and the Lauves hill around Cézanne\'s atelier',
     },
+    'aix-les-bains': {
+      personality: 'a compact Savoie spa town on the shore of Lac du Bourget, France\'s largest natural lake, where the Bois Vidal forest and a lakeside green path stand in for the thermal baths and supervised beaches that stay off-limits to dogs',
+      highlight: 'the 18-hectare Bois Vidal forest, the historic Parc Thermal gardens, and the lakeside green path near Cap des Séselets',
+      area: 'the lakefront Esplanade and Petit Port, the thermal quarter around the Thermes Nationaux, and the Bois Vidal hillside above town',
+    },
     ajaccio: {
       personality: `Corsica's sunlit capital and Napoléon's birthplace, a Genoese citadel on a sheltered Mediterranean gulf where year-round mild winters, ridge-top maquis trails, the Sanguinaires boat tours and wild Capo di Feno dog beach make it the island's most pet-friendly base`,
       highlight: `the Sentier des Crêtes ridge walk, the Pointe de la Parata and Sanguinaires islands, and the year-round dog beach of Capo di Feno`,
@@ -2374,6 +2379,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la canopée de platanes du Cours Mirabeau, le Parc Jourdan, et les sentiers de Bibémus et Bimont sur la Sainte-Victoire',
       area: 'le centre historique, le Quartier Mazarin et la colline des Lauves autour de l\'atelier de Cézanne',
     },
+    'aix-les-bains': {
+      personality: `une petite ville thermale de Savoie au bord du lac du Bourget, le plus grand lac naturel de France, où la forêt du Bois Vidal et un chemin vert au bord de l'eau remplacent les thermes et les plages surveillées qui restent interdits aux chiens`,
+      highlight: `la forêt du Bois Vidal (18 hectares), les jardins historiques du Parc Thermal, et le chemin vert au bord du lac près du Cap des Séselets`,
+      area: `l'Esplanade du lac et le Petit Port, le quartier thermal autour des Thermes Nationaux, et la colline du Bois Vidal au-dessus de la ville`,
+    },
     ajaccio: {
       personality: `la capitale ensoleillée de la Corse et lieu de naissance de Napoléon, citadelle génoise sur un golfe méditerranéen abrité où hivers doux à l'année, sentiers de crête dans le maquis, excursions bateau aux Sanguinaires et plage canine sauvage de Capo di Feno en font la base la plus pet-friendly de l'île`,
       highlight: `le Sentier des Crêtes, la Pointe de la Parata et les îles Sanguinaires, et la plage canine toute l'année de Capo di Feno`,
@@ -4406,6 +4416,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la bóveda de plátanos del Cours Mirabeau, el Parc Jourdan, y los senderos de Bibémus y Bimont en la Sainte-Victoire',
       area: 'el centro histórico, el Quartier Mazarin y la colina de Lauves alrededor del atelier de Cézanne',
     },
+    'aix-les-bains': {
+      personality: `una pequeña ciudad termal de Saboya a orillas del lago du Bourget, el mayor lago natural de Francia, donde el bosque de Bois Vidal y un camino verde junto al agua sustituyen al balneario y a las playas vigiladas, que siguen prohibidas para los perros`,
+      highlight: `el bosque de Bois Vidal (18 hectáreas), los jardines históricos del Parc Thermal, y el camino verde junto al lago cerca de Cap des Séselets`,
+      area: `el paseo del lago y el Petit Port, el barrio termal en torno a los Thermes Nationaux, y la colina de Bois Vidal sobre la ciudad`,
+    },
     ajaccio: {
       personality: `la capital soleada de Córcega y lugar de nacimiento de Napoleón, ciudadela genovesa sobre un golfo mediterráneo resguardado donde los inviernos suaves todo el año, los senderos de cresta por el maquis, las excursiones en barco a las Sanguinaires y la playa canina salvaje de Capo di Feno la convierten en la base más pet-friendly de la isla`,
       highlight: `el Sentier des Crêtes, la Pointe de la Parata y las islas Sanguinaires, y la playa canina todo el año de Capo di Feno`,
@@ -6437,6 +6452,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a cidade universitaria provenzal do século XVII onde as esplanadas sombreadas, as praças com fuentes e o macizo da Sainte-Victoire a convierten numa das cidades mais auténticamente tolerantes com os cães do sul de Francia',
       highlight: 'a bóveda de plátanos do Cours Mirabeau, o Parc Jourdan, e os trilhos de Bibémus e Bimont na Sainte-Victoire',
       area: 'o centro histórico, o Quartier Mazarin e a colina de Lauves alrededor do atelier de Cézanne',
+    },
+    'aix-les-bains': {
+      personality: `uma pequena cidade termal da Saboia à beira do lago du Bourget, o maior lago natural de França, onde a floresta do Bois Vidal e um caminho verde à beira-água substituem o balneário e as praias vigiadas, que continuam interditas aos cães`,
+      highlight: `a floresta do Bois Vidal (18 hectares), os jardins históricos do Parc Thermal, e o caminho verde à beira do lago perto de Cap des Séselets`,
+      area: `o passeio à beira do lago e o Petit Port, o bairro termal em torno dos Thermes Nationaux, e a colina do Bois Vidal acima da cidade`,
     },
     ajaccio: {
       personality: `a capital ensolarada da Córsega e lugar de nascimento de Napoleão, cidadela genovesa sobre um golfo mediterrâneo resguardado onde os invernos suaves o ano inteiro, os trilhos de cresta pelo maquis, as excursões de barco às Sanguinaires e a praia canina selvagem de Capo di Feno fazem dela a base mais pet-friendly da ilha`,

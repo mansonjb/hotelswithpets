@@ -1,0 +1,387 @@
+{
+  "slug": "aix-les-bains",
+  "name": "Aix-les-Bains",
+  "country": "France",
+  "flag": "🇫🇷",
+  "lastUpdated": "2026-07-31",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Pet-Friendly Restaurants in Aix-les-Bains",
+      "titleFr": "Restaurants acceptant les animaux à Aix-les-Bains",
+      "titleEs": "Restaurantes con mascotas en Aix-les-Bains",
+      "titlePt": "Restaurantes que aceitam animais em Aix-les-Bains",
+      "introEn": "Aix-les-Bains' best tables sit right on Lac du Bourget, and lakefront terraces here are used to dogs settling under the table while their owners watch the boats. The two addresses below both confirm dogs on the terrace.",
+      "introFr": "Les meilleures tables d'Aix-les-Bains sont installées au bord du lac du Bourget, et les terrasses lacustres ont l'habitude de voir un chien s'installer sous la table pendant que son maître regarde les bateaux. Les deux adresses ci-dessous confirment toutes deux l'accueil des chiens en terrasse.",
+      "introEs": "Las mejores mesas de Aix-les-Bains están junto al lago du Bourget, y las terrazas frente al lago están acostumbradas a que un perro se acomode bajo la mesa mientras su dueño mira los barcos. Las dos direcciones siguientes confirman ambas la admisión de perros en terraza.",
+      "introPt": "As melhores mesas de Aix-les-Bains ficam à beira do lago du Bourget, e as esplanadas à beira-lago estão habituadas a ver um cão instalar-se debaixo da mesa enquanto o dono observa os barcos. Os dois endereços abaixo confirmam ambos a admissão de cães na esplanada.",
+      "places": [
+        {
+          "name": "Brasserie de l'Aquarium",
+          "address": "1250 boulevard Robert Barrier, 73100 Aix-les-Bains",
+          "photo": "/images/city-places/aix-les-bains-restaurants-brasserie-de-l-aquarium.jpg",
+          "website": "https://www.brasserielaquarium.com/",
+          "description": "A large brasserie right on the small harbour of Lac du Bourget, with a 750 m² lake-facing terrace over two levels. Dogs are welcome on the terrace, where the view stretches across the water to the Dent du Chat ridge.",
+          "descriptionFr": "Une grande brasserie installée directement sur le petit port du lac du Bourget, avec une terrasse de 750 m² face au lac sur deux niveaux. Les chiens sont acceptés en terrasse, avec vue sur l'eau jusqu'à la crête de la Dent du Chat.",
+          "descriptionEs": "Una gran brasserie situada justo en el pequeño puerto del lago du Bourget, con una terraza de 750 m² frente al lago repartida en dos niveles. Se admiten perros en la terraza, con vistas sobre el agua hasta la cresta de la Dent du Chat.",
+          "descriptionPt": "Uma grande brasserie instalada mesmo no pequeno porto do lago du Bourget, com uma esplanada de 750 m² virada para o lago em dois níveis. Os cães são aceites na esplanada, com vista sobre a água até à crista da Dent du Chat.",
+          "petPolicy": "Dogs welcome on the terrace",
+          "petPolicyFr": "Chiens acceptés en terrasse",
+          "petPolicyEs": "Perros admitidos en terraza",
+          "petPolicyPt": "Cães aceites na esplanada",
+          "priceRange": "€€",
+          "mustTry": "Lake fish (féra, perch fillets), Savoyard specialties",
+          "mustTryFr": "Poisson du lac (féra, filets de perche), spécialités savoyardes",
+          "mustTryEs": "Pescado del lago (féra, filetes de perca), especialidades saboyanas",
+          "mustTryPt": "Peixe do lago (féra, filetes de perca), especialidades saboianas",
+          "openingHours": "Daily, lunch and dinner service",
+          "tip": "Book a terrace table facing the water for the boat traffic and sunset over the Dent du Chat",
+          "tipFr": "Réservez une table côté eau pour le passage des bateaux et le coucher de soleil sur la Dent du Chat",
+          "tipEs": "Reserva una mesa junto al agua para ver pasar los barcos y la puesta de sol sobre la Dent du Chat",
+          "tipPt": "Reserve uma mesa junto à água para ver os barcos passar e o pôr do sol sobre a Dent du Chat",
+          "googleMapsUrl": "https://maps.google.com/?q=Brasserie+de+l%27Aquarium+Aix-les-Bains"
+        },
+        {
+          "name": "Le For You",
+          "address": "13 boulevard Jean Charcot, 73100 Aix-les-Bains",
+          "phone": "+33 4 79 88 38 12",
+          "photo": "/images/city-places/aix-les-bains-restaurants-le-for-you.jpg",
+          "description": "A relaxed pizzeria a short walk from the lakefront, serving Savoyard specialties, pizzas and salads. Dogs are welcome, and the casual, unhurried pace suits an evening with a dog at your feet.",
+          "descriptionFr": "Une pizzeria décontractée à deux pas du bord du lac, qui sert spécialités savoyardes, pizzas et salades. Les chiens sont acceptés, et l'ambiance décontractée et sans hâte convient à une soirée avec le chien aux pieds.",
+          "descriptionEs": "Una pizzería relajada a pocos pasos de la orilla del lago, que sirve especialidades saboyanas, pizzas y ensaladas. Se admiten perros, y el ambiente tranquilo y sin prisas es ideal para una velada con el perro a los pies.",
+          "descriptionPt": "Uma pizzaria descontraída a poucos passos da margem do lago, que serve especialidades saboianas, pizzas e saladas. Os cães são aceites, e o ambiente descontraído e sem pressa é ideal para uma noite com o cão aos pés.",
+          "petPolicy": "Dogs welcome",
+          "petPolicyFr": "Chiens acceptés",
+          "petPolicyEs": "Perros admitidos",
+          "petPolicyPt": "Cães aceites",
+          "priceRange": "€€",
+          "mustTry": "Savoyard pizza, tartiflette",
+          "mustTryFr": "Pizza savoyarde, tartiflette",
+          "mustTryEs": "Pizza saboyana, tartiflette",
+          "mustTryPt": "Pizza saboiana, tartiflette",
+          "openingHours": "Daily, lunch and dinner service",
+          "tip": "Call ahead in high season, the terrace fills up fast on summer evenings",
+          "tipFr": "Appelez à l'avance en haute saison, la terrasse se remplit vite les soirs d'été",
+          "tipEs": "Llama con antelación en temporada alta, la terraza se llena rápido las noches de verano",
+          "tipPt": "Ligue com antecedência na alta temporada, a esplanada enche depressa nas noites de verão",
+          "googleMapsUrl": "https://maps.google.com/?q=Le+For+You+Aix-les-Bains"
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Dog-Friendly Parks & Walks in Aix-les-Bains",
+      "titleFr": "Parcs et promenades pour chiens à Aix-les-Bains",
+      "titleEs": "Parques y paseos para perros en Aix-les-Bains",
+      "titlePt": "Parques e passeios para cães em Aix-les-Bains",
+      "introEn": "Aix-les-Bains pairs a genuine forest, the Bois Vidal above the thermal quarter, with the historic Parc Thermal in the town center, giving dogs both a long off-terrace walk and a shaded stroll between spa visits.",
+      "introFr": "Aix-les-Bains associe une vraie forêt, le Bois Vidal au-dessus du quartier thermal, au Parc Thermal historique en centre-ville, offrant aux chiens à la fois une longue balade hors terrasse et une promenade ombragée entre deux visites thermales.",
+      "introEs": "Aix-les-Bains combina un bosque de verdad, el Bois Vidal por encima del barrio termal, con el histórico Parc Thermal en el centro, ofreciendo a los perros tanto un largo paseo fuera de la terraza como un recorrido con sombra entre visitas al balneario.",
+      "introPt": "Aix-les-Bains combina uma verdadeira floresta, o Bois Vidal por cima do bairro termal, com o histórico Parc Thermal no centro da cidade, dando aos cães tanto um longo passeio fora da esplanada como um percurso sombreado entre visitas ao balneário.",
+      "places": [
+        {
+          "name": "Bois Vidal",
+          "address": "Boulevard de la Roche du Roi, 73100 Aix-les-Bains",
+          "photo": "/images/city-places/aix-les-bains-parks-bois-vidal.jpg",
+          "description": "An 18-hectare municipal woodland of forest and meadow just above the thermal quarter, with wide pedestrian paths and sports trails, free and open daily from 8:00 to 17:00. Dogs of all sizes are welcome, and the mix of open meadow and shaded wood makes it the town's default long walk.",
+          "descriptionFr": "Un bois municipal de 18 hectares mêlant forêt et prairies juste au-dessus du quartier thermal, avec de larges chemins piétons et des parcours sportifs, en accès libre et gratuit tous les jours de 8h à 17h. Les chiens de tous gabarits sont acceptés, et l'alternance de prairie ouverte et de bois ombragé en fait la grande balade par défaut de la ville.",
+          "descriptionEs": "Un bosque municipal de 18 hectáreas de bosque y prado justo por encima del barrio termal, con amplios senderos peatonales y rutas deportivas, de acceso libre y gratuito todos los días de 8:00 a 17:00. Se admiten perros de todos los tamaños, y la combinación de prado abierto y bosque con sombra lo convierte en el gran paseo por defecto de la ciudad.",
+          "descriptionPt": "Um bosque municipal de 18 hectares de floresta e prado mesmo por cima do bairro termal, com amplos caminhos pedonais e percursos desportivos, de acesso livre e gratuito todos os dias das 8h às 17h. Os cães de todos os tamanhos são aceites, e a mistura de prado aberto e bosque sombreado torna-o o grande passeio por defeito da cidade.",
+          "petPolicy": "Dogs of all sizes welcome, leash recommended on the sports trails",
+          "petPolicyFr": "Chiens de tous gabarits acceptés, laisse conseillée sur les parcours sportifs",
+          "petPolicyEs": "Perros de todos los tamaños admitidos, correa recomendada en las rutas deportivas",
+          "petPolicyPt": "Cães de todos os tamanhos aceites, trela recomendada nos percursos desportivos",
+          "facilities": "18 ha of forest and meadow, sports trails, free parking nearby",
+          "facilitiesFr": "18 ha de bois et prairies, parcours sportifs, parking gratuit à proximité",
+          "facilitiesEs": "18 ha de bosque y prado, rutas deportivas, aparcamiento gratuito cerca",
+          "facilitiesPt": "18 ha de floresta e prado, percursos desportivos, estacionamento gratuito nas proximidades",
+          "tip": "Enter from Boulevard de la Roche du Roi above the Parc de Verdure for the shadiest approach on a hot day",
+          "tipFr": "Entrez par le Boulevard de la Roche du Roi au-dessus du Parc de Verdure, l'accès le plus ombragé par temps chaud",
+          "tipEs": "Entra por el Boulevard de la Roche du Roi, sobre el Parc de Verdure, el acceso más sombreado en un día caluroso",
+          "tipPt": "Entre pelo Boulevard de la Roche du Roi, acima do Parc de Verdure, o acesso mais sombreado num dia quente",
+          "googleMapsUrl": "https://maps.google.com/?q=Bois+Vidal+Aix-les-Bains"
+        },
+        {
+          "name": "Parc Thermal",
+          "address": "90 square de l'Hôtel de Ville, 73100 Aix-les-Bains",
+          "photo": "/images/city-places/aix-les-bains-parks-parc-thermal.jpg",
+          "description": "A listed historic garden in the town center, laid out around the Thermes Nationaux with five kiosks, wide gravel paths and the shaded Rotonde bar terrace. It's a leashed-dog walk through formal 19th-century landscaping rather than open nature, ideal for a calm stroll between spa or town errands.",
+          "descriptionFr": "Un jardin historique classé en plein centre-ville, aménagé autour des Thermes Nationaux avec cinq kiosques, de larges allées de gravier et la terrasse ombragée du bar la Rotonde. C'est une promenade en laisse dans un paysage du XIXe siècle plutôt qu'en pleine nature, idéale pour une balade calme entre deux courses en ville ou une séance thermale.",
+          "descriptionEs": "Un jardín histórico catalogado en pleno centro de la ciudad, trazado alrededor de los Thermes Nationaux con cinco quioscos, amplios paseos de grava y la sombreada terraza del bar la Rotonde. Es un paseo con correa por un paisajismo formal del siglo XIX más que por la naturaleza abierta, ideal para un paseo tranquilo entre recados en la ciudad o una sesión termal.",
+          "descriptionPt": "Um jardim histórico classificado no centro da cidade, desenhado à volta dos Thermes Nationaux com cinco quiosques, amplos passeios de gravilha e a esplanada sombreada do bar la Rotonde. É um passeio com trela por um paisagismo formal do século XIX mais do que pela natureza aberta, ideal para um passeio calmo entre recados na cidade ou uma sessão termal.",
+          "petPolicy": "Leashed dogs welcome throughout the gardens",
+          "petPolicyFr": "Chiens en laisse acceptés dans tout le jardin",
+          "petPolicyEs": "Perros con correa admitidos en todo el jardín",
+          "petPolicyPt": "Cães com trela aceites em todo o jardim",
+          "facilities": "Listed historic garden, wide gravel paths, shaded benches, kiosks",
+          "facilitiesFr": "Jardin historique classé, larges allées de gravier, bancs ombragés, kiosques",
+          "facilitiesEs": "Jardín histórico catalogado, amplios paseos de grava, bancos con sombra, quioscos",
+          "facilitiesPt": "Jardim histórico classificado, amplos passeios de gravilha, bancos sombreados, quiosques",
+          "tip": "Come mid-morning on a weekday for the quietest walk among the kiosks",
+          "tipFr": "Venez en milieu de matinée en semaine pour la promenade la plus tranquille parmi les kiosques",
+          "tipEs": "Ven a media mañana entre semana para el paseo más tranquilo entre los quioscos",
+          "tipPt": "Venha a meio da manhã num dia de semana para o passeio mais tranquilo entre os quiosques",
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+Thermal+Aix-les-Bains"
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Aix-les-Bains with a Dog",
+      "titleFr": "Se déplacer à Aix-les-Bains avec un chien",
+      "titleEs": "Moverse por Aix-les-Bains con un perro",
+      "titlePt": "Deslocar-se em Aix-les-Bains com um cão",
+      "introEn": "Aix-les-Bains has its own SNCF station with direct links to Paris, Lyon and Chambéry, a compact bus network for getting around town, and lake cruise boats that reach Hautecombe Abbey across Lac du Bourget.",
+      "introFr": "Aix-les-Bains dispose de sa propre gare SNCF, avec des liaisons directes vers Paris, Lyon et Chambéry, d'un réseau de bus compact pour se déplacer en ville, et de bateaux de croisière qui rejoignent l'abbaye d'Hautecombe de l'autre côté du lac du Bourget.",
+      "introEs": "Aix-les-Bains cuenta con su propia estación SNCF, con enlaces directos a París, Lyon y Chambéry, una red de autobuses compacta para moverse por la ciudad, y barcos de crucero que llegan hasta la abadía de Hautecombe al otro lado del lago du Bourget.",
+      "introPt": "Aix-les-Bains tem a sua própria estação SNCF, com ligações diretas a Paris, Lyon e Chambéry, uma rede de autocarros compacta para se deslocar pela cidade, e barcos de cruzeiro que chegam à abadia de Hautecombe do outro lado do lago du Bourget.",
+      "places": [
+        {
+          "name": "Gare d'Aix-les-Bains - Le Revard (SNCF)",
+          "description": "The town's own railway station has direct TGV and TER links to Paris, Lyon, Chambéry and Annecy. As on all French trains, dogs under 6 kg travel free in a closed carrier; larger dogs must be leashed and muzzled and pay a reduced-fare ticket.",
+          "descriptionFr": "La gare de la ville offre des liaisons TGV et TER directes vers Paris, Lyon, Chambéry et Annecy. Comme sur tous les trains français, les chiens de moins de 6 kg voyagent gratuitement dans une caisse de transport fermée ; les chiens plus grands doivent être en laisse et muselés, avec un billet à tarif réduit.",
+          "descriptionEs": "La estación propia de la ciudad ofrece enlaces directos de TGV y TER a París, Lyon, Chambéry y Annecy. Como en todos los trenes franceses, los perros de menos de 6 kg viajan gratis en un transportín cerrado; los perros más grandes deben ir con correa y bozal, con un billete de tarifa reducida.",
+          "descriptionPt": "A estação própria da cidade tem ligações diretas de TGV e TER a Paris, Lyon, Chambéry e Annecy. Como em todos os comboios franceses, os cães com menos de 6 kg viajam grátis numa transportadora fechada; os cães maiores devem ir com trela e açaime, com bilhete de tarifa reduzida.",
+          "petPolicy": "Under 6 kg free in carrier; larger dogs leashed and muzzled, reduced fare",
+          "petPolicyFr": "Moins de 6 kg gratuit en caisse ; chiens plus grands en laisse et muselés, tarif réduit",
+          "petPolicyEs": "Menos de 6 kg gratis en transportín; perros más grandes con correa y bozal, tarifa reducida",
+          "petPolicyPt": "Menos de 6 kg grátis em transportadora; cães maiores com trela e açaime, tarifa reduzida"
+        },
+        {
+          "name": "Ondéa bus network",
+          "description": "The Grand Lac agglomeration's Ondéa network runs three regular lines around town, including circular Line 3 linking the SNCF station to the Thermes Chevalley, roughly every 20-35 minutes. Small dogs in a carrier and leashed larger dogs are generally accepted, as on most French regional bus networks.",
+          "descriptionFr": "Le réseau Ondéa de l'agglomération du Grand Lac fait circuler trois lignes régulières en ville, dont la ligne 3 circulaire qui relie la gare SNCF aux Thermes Chevalley, environ toutes les 20 à 35 minutes. Les petits chiens en caisse et les grands chiens en laisse sont généralement acceptés, comme sur la plupart des réseaux de bus régionaux français.",
+          "descriptionEs": "La red Ondéa de la aglomeración de Grand Lac hace circular tres líneas regulares por la ciudad, incluida la línea 3 circular que conecta la estación SNCF con los Thermes Chevalley, aproximadamente cada 20-35 minutos. Los perros pequeños en transportín y los grandes con correa suelen ser aceptados, como en la mayoría de las redes de autobuses regionales francesas.",
+          "descriptionPt": "A rede Ondéa da aglomeração do Grand Lac faz circular três linhas regulares pela cidade, incluindo a linha 3 circular que liga a estação SNCF aos Thermes Chevalley, cerca de a cada 20-35 minutos. Os cães pequenos em transportadora e os cães maiores com trela costumam ser aceites, como na maioria das redes de autocarros regionais francesas.",
+          "petPolicy": "Small dogs in carrier and leashed larger dogs generally accepted",
+          "petPolicyFr": "Petits chiens en caisse et grands chiens en laisse généralement acceptés",
+          "petPolicyEs": "Perros pequeños en transportín y perros grandes con correa generalmente aceptados",
+          "petPolicyPt": "Cães pequenos em transportadora e cães maiores com trela geralmente aceites"
+        },
+        {
+          "name": "Compagnie des Bateaux du Lac (lake cruises)",
+          "description": "Cruise boats from Aix-les-Bains' Grand Port cross Lac du Bourget to Hautecombe Abbey and other lakeside stops. Dogs are accepted on board, leashed, for a €5 supplement, though they cannot enter the abbey church itself.",
+          "descriptionFr": "Les bateaux de croisière au départ du Grand Port d'Aix-les-Bains traversent le lac du Bourget jusqu'à l'abbaye d'Hautecombe et d'autres escales lacustres. Les chiens sont acceptés à bord, en laisse, moyennant un supplément de 5 €, mais ne peuvent pas entrer dans l'église de l'abbaye.",
+          "descriptionEs": "Los barcos de crucero que salen del Grand Port de Aix-les-Bains cruzan el lago du Bourget hasta la abadía de Hautecombe y otras paradas lacustres. Se admiten perros a bordo, con correa, por un suplemento de 5 €, aunque no pueden entrar en la iglesia de la abadía.",
+          "descriptionPt": "Os barcos de cruzeiro que partem do Grand Port de Aix-les-Bains atravessam o lago du Bourget até à abadia de Hautecombe e outras paragens lacustres. Os cães são aceites a bordo, com trela, mediante um suplemento de 5 €, embora não possam entrar na igreja da abadia.",
+          "petPolicy": "Leashed dogs accepted on board for a €5 supplement",
+          "petPolicyFr": "Chiens en laisse acceptés à bord moyennant 5 € de supplément",
+          "petPolicyEs": "Perros con correa aceptados a bordo por 5 € de suplemento",
+          "petPolicyPt": "Cães com trela aceites a bordo mediante suplemento de 5 €"
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Dog-Friendly Lake Spots near Aix-les-Bains",
+      "titleFr": "Coins de baignade pour chiens près d'Aix-les-Bains",
+      "titleEs": "Zonas de baño para perros cerca de Aix-les-Bains",
+      "titlePt": "Zonas de banho para cães perto de Aix-les-Bains",
+      "introEn": "Lac du Bourget, France's largest natural lake, is Aix-les-Bains' whole reason for being, but the town's supervised swimming beaches (including the municipal beach and Plage du Rowing) ban dogs, even on a lead, during the summer bathing season. The green corridor between two of those beaches stays open to dogs year-round and is the spot locals actually use.",
+      "introFr": "Le lac du Bourget, le plus grand lac naturel de France, est la raison d'être d'Aix-les-Bains, mais les plages surveillées de la ville (dont la plage municipale et la plage du Rowing) interdisent les chiens, même en laisse, pendant la saison de baignade estivale. Le corridor vert entre deux de ces plages reste ouvert aux chiens toute l'année et c'est l'endroit que les habitants utilisent réellement.",
+      "introEs": "El lago du Bourget, el mayor lago natural de Francia, es la razón de ser de Aix-les-Bains, pero las playas vigiladas de la ciudad (incluida la playa municipal y la Plage du Rowing) prohíben los perros, incluso con correa, durante la temporada de baño de verano. El corredor verde entre dos de esas playas permanece abierto a los perros todo el año y es el lugar que realmente usan los vecinos.",
+      "introPt": "O lago du Bourget, o maior lago natural de França, é a razão de ser de Aix-les-Bains, mas as praias vigiadas da cidade (incluindo a praia municipal e a Plage du Rowing) proíbem os cães, mesmo com trela, durante a época balnear de verão. O corredor verde entre duas dessas praias mantém-se aberto aos cães durante todo o ano e é o local que os habitantes realmente usam.",
+      "places": [
+        {
+          "name": "Voie verte du lac (Rowing – Mottets – Cap des Séselets)",
+          "address": "Lakeside path between Plage du Rowing and Cap des Séselets, 73100 Aix-les-Bains",
+          "photo": "/images/city-places/aix-les-bains-beaches-voie-verte-lac.jpg",
+          "description": "A green cycling and walking path runs along the shore between Plage du Rowing and Plage des Mottets, past Cap des Séselets, and dogs can wade and swim freely from the bank along this stretch year-round. It is the reliable alternative to the town's supervised beaches, which ban dogs outright from roughly June to September.",
+          "descriptionFr": "Une voie verte cyclable et piétonne longe la rive entre la plage du Rowing et la plage des Mottets, en passant par le Cap des Séselets, et les chiens peuvent y patauger et nager librement depuis la berge tout au long de l'année. C'est l'alternative fiable aux plages surveillées de la ville, qui interdisent purement et simplement les chiens de juin à septembre environ.",
+          "descriptionEs": "Un carril verde para bicicletas y peatones recorre la orilla entre la Plage du Rowing y la Plage des Mottets, pasando por Cap des Séselets, y los perros pueden chapotear y nadar libremente desde la orilla en este tramo todo el año. Es la alternativa fiable a las playas vigiladas de la ciudad, que prohíben los perros sin excepción de junio a septiembre aproximadamente.",
+          "descriptionPt": "Uma via verde para bicicletas e peões percorre a margem entre a Plage du Rowing e a Plage des Mottets, passando por Cap des Séselets, e os cães podem chapinhar e nadar livremente a partir da margem neste troço durante todo o ano. É a alternativa fiável às praias vigiadas da cidade, que proíbem os cães sem exceção de junho a setembro aproximadamente.",
+          "dogPolicy": "Dogs welcome year-round along this stretch, leash recommended near cyclists",
+          "dogPolicyFr": "Chiens acceptés toute l'année sur ce tronçon, laisse conseillée près des cyclistes",
+          "dogPolicyEs": "Perros admitidos todo el año en este tramo, correa recomendada cerca de los ciclistas",
+          "dogPolicyPt": "Cães aceites durante todo o ano neste troço, trela recomendada perto dos ciclistas",
+          "season": "Open year-round, unlike the supervised beaches which ban dogs June-September",
+          "rules": "Not a supervised bathing zone, dogs enter from the bank at their own risk",
+          "rulesFr": "Ce n'est pas une zone de baignade surveillée, les chiens entrent depuis la berge à leurs risques",
+          "rulesEs": "No es una zona de baño vigilada, los perros entran desde la orilla bajo su propia responsabilidad",
+          "rulesPt": "Não é uma zona balnear vigiada, os cães entram a partir da margem por sua conta e risco",
+          "googleMapsUrl": "https://maps.google.com/?q=Cap+des+Seselets+Aix-les-Bains"
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians in Aix-les-Bains",
+      "titleFr": "Vétérinaires à Aix-les-Bains",
+      "titleEs": "Veterinarios en Aix-les-Bains",
+      "titlePt": "Veterinários em Aix-les-Bains",
+      "introEn": "Aix-les-Bains has several established veterinary clinics of its own, so a routine or urgent visit rarely means leaving town. Two of the main practices are listed below.",
+      "introFr": "Aix-les-Bains compte plusieurs cliniques vétérinaires bien établies, une visite de routine ou une urgence oblige donc rarement à quitter la ville. Deux des principaux cabinets sont listés ci-dessous.",
+      "introEs": "Aix-les-Bains cuenta con varias clínicas veterinarias bien establecidas propias, así que una visita rutinaria o urgente rara vez obliga a salir de la ciudad. A continuación se indican dos de las principales consultas.",
+      "introPt": "Aix-les-Bains tem várias clínicas veterinárias próprias bem estabelecidas, por isso uma visita de rotina ou urgente raramente obriga a sair da cidade. Duas das principais clínicas estão listadas abaixo.",
+      "places": [
+        {
+          "name": "Clinique Vétérinaire du Grand Port",
+          "address": "171 avenue du Grand Port, 73100 Aix-les-Bains",
+          "phone": "+33 4 79 63 43 99",
+          "description": "An established small-animal clinic near the Grand Port, on the lakefront side of town. It handles routine consultations, vaccinations and surgery for dogs and cats.",
+          "descriptionFr": "Un cabinet vétérinaire établi pour animaux de compagnie, près du Grand Port, côté lac de la ville. Il assure consultations de routine, vaccinations et chirurgie pour chiens et chats.",
+          "descriptionEs": "Una clínica veterinaria establecida para pequeños animales cerca del Grand Port, en el lado del lago de la ciudad. Atiende consultas rutinarias, vacunaciones y cirugía para perros y gatos.",
+          "descriptionPt": "Uma clínica veterinária estabelecida para pequenos animais perto do Grand Port, do lado do lago da cidade. Trata de consultas de rotina, vacinação e cirurgia para cães e gatos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+du+Grand+Port+Aix-les-Bains"
+        },
+        {
+          "name": "Clinique Vétérinaire de la Dent du Chat",
+          "address": "11 boulevard Jean Charcot, 73100 Aix-les-Bains",
+          "phone": "+33 4 79 53 20 10",
+          "website": "https://www.veterinairedentduchat.com/",
+          "description": "A small-animal veterinary practice on Boulevard Jean Charcot, close to the lakefront restaurants and the Petit Port. It offers routine and preventive care alongside surgery for dogs and cats.",
+          "descriptionFr": "Un cabinet vétérinaire pour animaux de compagnie sur le boulevard Jean Charcot, à proximité des restaurants du bord du lac et du Petit Port. Il propose des soins de routine et préventifs ainsi que de la chirurgie pour chiens et chats.",
+          "descriptionEs": "Una consulta veterinaria para pequeños animales en el boulevard Jean Charcot, cerca de los restaurantes de la orilla del lago y del Petit Port. Ofrece cuidados rutinarios y preventivos junto con cirugía para perros y gatos.",
+          "descriptionPt": "Uma clínica veterinária para pequenos animais no boulevard Jean Charcot, perto dos restaurantes à beira do lago e do Petit Port. Oferece cuidados de rotina e preventivos, além de cirurgia para cães e gatos.",
+          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+de+la+Dent+du+Chat+Aix-les-Bains"
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Aix-les-Bains",
+      "titleFr": "Sites à visiter avec un chien à Aix-les-Bains",
+      "titleEs": "Atracciones que admiten perros en Aix-les-Bains",
+      "titlePt": "Atrações que aceitam cães em Aix-les-Bains",
+      "introEn": "Aix-les-Bains' two essential outings both center on Lac du Bourget: the lakefront promenade at the Petit Port, and a boat trip across the water to the Abbaye de Hautecombe, one of Savoie's grandest religious sites.",
+      "introFr": "Les deux sorties essentielles d'Aix-les-Bains tournent toutes deux autour du lac du Bourget : la promenade du bord de lac au Petit Port, et une traversée en bateau jusqu'à l'abbaye de Hautecombe, l'un des plus grands sites religieux de Savoie.",
+      "introEs": "Las dos salidas imprescindibles de Aix-les-Bains giran ambas en torno al lago du Bourget: el paseo junto al lago en el Petit Port, y una travesía en barco hasta la abadía de Hautecombe, uno de los mayores sitios religiosos de Saboya.",
+      "introPt": "As duas saídas essenciais de Aix-les-Bains giram ambas em torno do lago du Bourget: o passeio à beira do lago no Petit Port, e uma travessia de barco até à abadia de Hautecombe, um dos maiores locais religiosos da Saboia.",
+      "places": [
+        {
+          "name": "Esplanade du Lac & Petit Port",
+          "address": "Esplanade du Lac du Bourget, 73100 Aix-les-Bains",
+          "photo": "/images/city-places/aix-les-bains-attractions-esplanade-du-lac.jpg",
+          "description": "The lakefront esplanade running to the Petit Port at its southern end is Aix-les-Bains' default dog walk, a level path with lake views, beach bars and restaurant terraces the whole way along. It links directly to the Grand Port and the boat departure point for Hautecombe Abbey.",
+          "descriptionFr": "L'esplanade du bord de lac, qui mène au Petit Port à son extrémité sud, est la promenade par défaut d'Aix-les-Bains, un chemin plat avec vue sur le lac, bars de plage et terrasses de restaurants tout au long du parcours. Elle relie directement au Grand Port et au point de départ des bateaux pour l'abbaye d'Hautecombe.",
+          "descriptionEs": "El paseo junto al lago que llega hasta el Petit Port en su extremo sur es el paseo por defecto de Aix-les-Bains, un camino llano con vistas al lago, chiringuitos y terrazas de restaurantes durante todo el recorrido. Conecta directamente con el Grand Port y el punto de salida de los barcos hacia la abadía de Hautecombe.",
+          "descriptionPt": "O passeio à beira do lago que chega até ao Petit Port na sua extremidade sul é o passeio por defeito de Aix-les-Bains, um caminho plano com vista para o lago, bares de praia e esplanadas de restaurantes durante todo o percurso. Liga diretamente ao Grand Port e ao ponto de partida dos barcos para a abadia de Hautecombe.",
+          "dogPolicy": "Leashed dogs welcome along the full esplanade",
+          "dogPolicyFr": "Chiens en laisse acceptés sur toute l'esplanade",
+          "dogPolicyEs": "Perros con correa admitidos en todo el paseo",
+          "dogPolicyPt": "Cães com trela aceites em todo o passeio",
+          "googleMapsUrl": "https://maps.google.com/?q=Petit+Port+Aix-les-Bains"
+        },
+        {
+          "name": "Abbaye de Hautecombe (lake cruise)",
+          "address": "Departs from Grand Port, 73100 Aix-les-Bains",
+          "photo": "/images/city-places/aix-les-bains-attractions-abbaye-hautecombe.jpg",
+          "website": "https://www.bateaux-aixlesbains.com/nos-croisieres-promenade/abbaye-dhautecombe/",
+          "description": "A cruise across Lac du Bourget from the Grand Port reaches the Abbaye de Hautecombe, a Cistercian abbey and burial site of the House of Savoy on the lake's far shore. Dogs are accepted on board leashed for a small supplement, though they must wait outside while you visit the church itself.",
+          "descriptionFr": "Une croisière sur le lac du Bourget au départ du Grand Port rejoint l'abbaye de Hautecombe, abbaye cistercienne et nécropole de la Maison de Savoie sur l'autre rive du lac. Les chiens sont acceptés à bord en laisse moyennant un petit supplément, mais doivent attendre à l'extérieur pendant la visite de l'église elle-même.",
+          "descriptionEs": "Un crucero por el lago du Bourget desde el Grand Port llega hasta la abadía de Hautecombe, abadía cisterciense y necrópolis de la Casa de Saboya en la otra orilla del lago. Se admiten perros a bordo con correa por un pequeño suplemento, aunque deben esperar fuera mientras se visita la iglesia.",
+          "descriptionPt": "Um cruzeiro pelo lago du Bourget a partir do Grand Port chega até à abadia de Hautecombe, abadia cisterciense e necrópole da Casa de Saboia na margem oposta do lago. Os cães são aceites a bordo com trela mediante um pequeno suplemento, embora tenham de esperar do lado de fora enquanto se visita a igreja.",
+          "dogPolicy": "Leashed dogs accepted on the boat (small supplement); not inside the abbey church",
+          "dogPolicyFr": "Chiens en laisse acceptés sur le bateau (léger supplément) ; pas dans l'église de l'abbaye",
+          "dogPolicyEs": "Perros con correa aceptados en el barco (pequeño suplemento); no dentro de la iglesia de la abadía",
+          "dogPolicyPt": "Cães com trela aceites no barco (pequeno suplemento); não no interior da igreja da abadia",
+          "googleMapsUrl": "https://maps.google.com/?q=Abbaye+de+Hautecombe"
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Boarding in Aix-les-Bains",
+      "titleFr": "Garde d'animaux et pension canine à Aix-les-Bains",
+      "titleEs": "Cuidado de mascotas y pensión canina en Aix-les-Bains",
+      "titlePt": "Cuidado de animais e pensão canina em Aix-les-Bains",
+      "introEn": "For a spa day at the Thermes Nationaux or a visit that doesn't suit a dog, Aix-les-Bains has an active peer-to-peer pet-sitting market rather than a single big kennel.",
+      "introFr": "Pour une journée thermale aux Thermes Nationaux ou une sortie qui ne convient pas à un chien, Aix-les-Bains dispose d'un marché de garde entre particuliers actif plutôt que d'une grande pension unique.",
+      "introEs": "Para un día de spa en los Thermes Nationaux o una visita poco adecuada para un perro, Aix-les-Bains cuenta con un activo mercado de cuidado entre particulares en lugar de una gran residencia única.",
+      "introPt": "Para um dia de spa nos Thermes Nationaux ou uma visita pouco indicada para um cão, Aix-les-Bains tem um mercado ativo de cuidado entre particulares em vez de uma grande pensão única.",
+      "places": [
+        {
+          "name": "Rover.fr (Aix-les-Bains & Grand Lac)",
+          "website": "https://www.rover.com/fr/aix-les-bains--auvergne-rhone-alpes--garde-de-chien/",
+          "description": "Rover.fr is France's leading peer-to-peer pet-sitting and dog-walking platform, with several sitters active around Aix-les-Bains and the wider Grand Lac area. Services range from home boarding to walks and drop-in visits, with prices starting around €12-32 per night and all bookings covered by Rover's insurance.",
+          "descriptionFr": "Rover.fr est la principale plateforme de garde et de promenade de chiens entre particuliers en France, avec plusieurs sitters actifs autour d'Aix-les-Bains et de l'agglomération du Grand Lac. Les services vont de la pension à domicile à la promenade et aux visites à domicile, avec des tarifs à partir d'environ 12 à 32 € par nuit et toutes les réservations couvertes par l'assurance Rover.",
+          "descriptionEs": "Rover.fr es la principal plataforma de cuidado y paseo de perros entre particulares en Francia, con varios cuidadores activos en torno a Aix-les-Bains y la aglomeración de Grand Lac. Los servicios van desde el alojamiento en casa hasta paseos y visitas a domicilio, con precios desde unos 12-32 € por noche y todas las reservas cubiertas por el seguro de Rover.",
+          "descriptionPt": "A Rover.fr é a principal plataforma de guarda e passeio de cães entre particulares em França, com vários cuidadores ativos em torno de Aix-les-Bains e da aglomeração de Grand Lac. Os serviços vão do alojamento em casa a passeios e visitas ao domicílio, com preços a partir de cerca de 12-32 € por noite e todas as reservas cobertas pelo seguro da Rover.",
+          "priceRange": "€12-32/night depending on service",
+          "priceRangeFr": "12-32 €/nuit selon le service",
+          "priceRangeEs": "12-32 €/noche según el servicio",
+          "priceRangePt": "12-32 €/noite consoante o serviço"
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Aix-les-Bains with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Aix-les-Bains avec un chien",
+      "titleEs": "Consejos prácticos para visitar Aix-les-Bains con un perro",
+      "titlePt": "Dicas práticas para visitar Aix-les-Bains com um cão",
+      "introEn": "Aix-les-Bains is an easy, walkable spa town, but Lac du Bourget's supervised beaches close to dogs in summer and the thermal baths themselves are strictly for people. A little planning around both makes a stay with a dog straightforward.",
+      "introFr": "Aix-les-Bains est une ville thermale facile et praticable à pied, mais les plages surveillées du lac du Bourget ferment aux chiens l'été et les thermes eux-mêmes sont strictement réservés aux humains. Un peu d'anticipation sur ces deux points rend un séjour avec un chien très simple.",
+      "introEs": "Aix-les-Bains es una ciudad termal fácil y cómoda de recorrer a pie, pero las playas vigiladas del lago du Bourget cierran a los perros en verano y el propio balneario es estrictamente para personas. Un poco de planificación en torno a ambos aspectos hace que una estancia con perro sea sencilla.",
+      "introPt": "Aix-les-Bains é uma cidade termal fácil e agradável de percorrer a pé, mas as praias vigiadas do lago du Bourget fecham aos cães no verão e o próprio balneário é estritamente para pessoas. Um pouco de planeamento em torno destes dois pontos torna uma estadia com cão simples.",
+      "tipsEn": [
+        "Lac du Bourget's supervised beaches ban dogs, even leashed, from roughly June to September. Use the green path between Plage du Rowing and Cap des Séselets instead, it stays open to dogs year-round.",
+        "The thermal baths themselves never admit pets. Plan a walk in the Bois Vidal or Parc Thermal, or a Rover.fr sitter, for the hours you spend at the Thermes Nationaux.",
+        "Bring cash or a card for the Hautecombe Abbey boat if you want the dog along, there's a small per-dog supplement and dogs must stay outside the church."
+      ],
+      "tipsFr": [
+        "Les plages surveillées du lac du Bourget interdisent les chiens, même en laisse, de juin à septembre environ. Utilisez plutôt la voie verte entre la plage du Rowing et le Cap des Séselets, elle reste ouverte aux chiens toute l'année.",
+        "Les thermes eux-mêmes n'admettent jamais les animaux. Prévoyez une balade au Bois Vidal ou au Parc Thermal, ou un sitter Rover.fr, pour les heures passées aux Thermes Nationaux.",
+        "Prévoyez de l'argent liquide ou une carte pour le bateau de l'abbaye d'Hautecombe si vous voulez emmener le chien, il y a un léger supplément par chien et les chiens doivent rester à l'extérieur de l'église."
+      ],
+      "tipsEs": [
+        "Las playas vigiladas del lago du Bourget prohíben los perros, incluso con correa, de junio a septiembre aproximadamente. Usa en su lugar el camino verde entre la Plage du Rowing y Cap des Séselets, permanece abierto a los perros todo el año.",
+        "El propio balneario nunca admite mascotas. Prevé un paseo por el Bois Vidal o el Parc Thermal, o un cuidador de Rover.fr, para las horas que pases en los Thermes Nationaux.",
+        "Lleva efectivo o tarjeta para el barco de la abadía de Hautecombe si quieres llevar al perro, hay un pequeño suplemento por perro y los perros deben quedarse fuera de la iglesia."
+      ],
+      "tipsPt": [
+        "As praias vigiadas do lago du Bourget proíbem os cães, mesmo com trela, de junho a setembro aproximadamente. Use antes o caminho verde entre a Plage du Rowing e Cap des Séselets, mantém-se aberto aos cães durante todo o ano.",
+        "O próprio balneário nunca admite animais. Preveja um passeio pelo Bois Vidal ou pelo Parc Thermal, ou um cuidador da Rover.fr, para as horas que passar nos Thermes Nationaux.",
+        "Leve dinheiro ou cartão para o barco da abadia de Hautecombe se quiser levar o cão, há um pequeno suplemento por cão e os cães têm de ficar fora da igreja."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can dogs swim in Lac du Bourget at Aix-les-Bains?",
+          "a": "Not on the supervised beaches, which ban dogs even on a lead from roughly June to September. The green path between Plage du Rowing and Cap des Séselets stays open to dogs year-round and is the spot locals use for a swim."
+        },
+        {
+          "q": "Are dogs allowed at the Aix-les-Bains thermal baths?",
+          "a": "No. The Thermes Nationaux, like all French spa facilities, are strictly for people. Plan a walk in the Bois Vidal or Parc Thermal, or arrange a sitter through Rover.fr, for your spa hours."
+        },
+        {
+          "q": "Can I bring my dog on the boat to Hautecombe Abbey?",
+          "a": "Yes. Leashed dogs are accepted on board the lake cruise boats from the Grand Port for a small supplement (around €5), though they must wait outside while you visit the abbey church itself."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens peuvent-ils se baigner dans le lac du Bourget à Aix-les-Bains ?",
+          "a": "Pas sur les plages surveillées, qui interdisent les chiens même en laisse de juin à septembre environ. La voie verte entre la plage du Rowing et le Cap des Séselets reste ouverte aux chiens toute l'année et c'est l'endroit que les habitants utilisent pour se baigner."
+        },
+        {
+          "q": "Les chiens sont-ils admis aux thermes d'Aix-les-Bains ?",
+          "a": "Non. Les Thermes Nationaux, comme tous les établissements thermaux français, sont strictement réservés aux humains. Prévoyez une balade au Bois Vidal ou au Parc Thermal, ou un sitter via Rover.fr, pour vos heures de soins."
+        },
+        {
+          "q": "Puis-je emmener mon chien sur le bateau pour l'abbaye d'Hautecombe ?",
+          "a": "Oui. Les chiens en laisse sont acceptés à bord des bateaux de croisière au départ du Grand Port moyennant un léger supplément (environ 5 €), mais ils doivent attendre à l'extérieur pendant la visite de l'église de l'abbaye."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Pueden los perros nadar en el lago du Bourget en Aix-les-Bains?",
+          "a": "No en las playas vigiladas, que prohíben los perros incluso con correa de junio a septiembre aproximadamente. El camino verde entre la Plage du Rowing y Cap des Séselets permanece abierto a los perros todo el año y es el lugar que usan los vecinos para bañarse."
+        },
+        {
+          "q": "¿Se admiten perros en el balneario de Aix-les-Bains?",
+          "a": "No. Los Thermes Nationaux, como todos los establecimientos termales franceses, son estrictamente para personas. Prevé un paseo por el Bois Vidal o el Parc Thermal, o un cuidador a través de Rover.fr, para tus horas de balneario."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro en el barco hasta la abadía de Hautecombe?",
+          "a": "Sí. Se admiten perros con correa a bordo de los barcos de crucero que salen del Grand Port por un pequeño suplemento (unos 5 €), aunque deben esperar fuera mientras se visita la iglesia de la abadía."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães podem nadar no lago du Bourget em Aix-les-Bains?",
+          "a": "Não nas praias vigiadas, que proíbem os cães mesmo com trela de junho a setembro aproximadamente. O caminho verde entre a Plage du Rowing e Cap des Séselets mantém-se aberto aos cães durante todo o ano e é o local que os habitantes usam para nadar."
+        },
+        {
+          "q": "Os cães são admitidos no balneário de Aix-les-Bains?",
+          "a": "Não. Os Thermes Nationaux, como todos os estabelecimentos termais franceses, são estritamente para pessoas. Preveja um passeio pelo Bois Vidal ou pelo Parc Thermal, ou um cuidador através da Rover.fr, para as suas horas de balneário."
+        },
+        {
+          "q": "Posso levar o meu cão no barco até à abadia de Hautecombe?",
+          "a": "Sim. Os cães com trela são aceites a bordo dos barcos de cruzeiro que partem do Grand Port mediante um pequeno suplemento (cerca de 5 €), embora tenham de esperar do lado de fora enquanto se visita a igreja da abadia."
+        }
+      ]
+    }
+  }
+}

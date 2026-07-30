@@ -1895,18 +1895,66 @@
     "lat": 53.213,
     "lng": -1.6752,
     "weather": {
-      "jan": {"temp": 6, "desc": "Cold & damp", "icon": "🌧️"},
-      "feb": {"temp": 6, "desc": "Cold & frosty", "icon": "🌧️"},
-      "mar": {"temp": 9, "desc": "Cool & overcast", "icon": "🌦️"},
-      "apr": {"temp": 11, "desc": "Cool with showers", "icon": "🌦️"},
-      "may": {"temp": 15, "desc": "Mild & fresh", "icon": "⛅"},
-      "jun": {"temp": 17, "desc": "Mild & green", "icon": "🌤️"},
-      "jul": {"temp": 19, "desc": "Warm & changeable", "icon": "🌤️"},
-      "aug": {"temp": 19, "desc": "Warm & changeable", "icon": "🌤️"},
-      "sep": {"temp": 16, "desc": "Mild & fresh", "icon": "⛅"},
-      "oct": {"temp": 12, "desc": "Cool & damp", "icon": "🌦️"},
-      "nov": {"temp": 8, "desc": "Cold & wet", "icon": "🌧️"},
-      "dec": {"temp": 6, "desc": "Cold & damp", "icon": "🌧️"}
+      "jan": {
+        "temp": 6,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cold & frosty",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Cool with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & fresh",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild & green",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm & changeable",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & changeable",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 16,
+        "desc": "Mild & fresh",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 12,
+        "desc": "Cool & damp",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      }
     },
     "iata": "MAN"
   },
@@ -4105,18 +4153,66 @@
     "lat": 51.8867,
     "lng": -1.7583,
     "weather": {
-      "jan": {"temp": 7, "desc": "Cold & damp", "icon": "🌧️"},
-      "feb": {"temp": 7, "desc": "Cold & frosty", "icon": "🌧️"},
-      "mar": {"temp": 10, "desc": "Cool & overcast", "icon": "🌦️"},
-      "apr": {"temp": 12, "desc": "Cool with showers", "icon": "🌦️"},
-      "may": {"temp": 15, "desc": "Mild & fresh", "icon": "⛅"},
-      "jun": {"temp": 18, "desc": "Mild & green", "icon": "🌤️"},
-      "jul": {"temp": 20, "desc": "Warm & pleasant", "icon": "🌤️"},
-      "aug": {"temp": 20, "desc": "Warm & pleasant", "icon": "🌤️"},
-      "sep": {"temp": 17, "desc": "Mild & fresh", "icon": "⛅"},
-      "oct": {"temp": 13, "desc": "Cool & damp", "icon": "🌦️"},
-      "nov": {"temp": 9, "desc": "Cold & wet", "icon": "🌧️"},
-      "dec": {"temp": 7, "desc": "Cold & damp", "icon": "🌧️"}
+      "jan": {
+        "temp": 7,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cold & frosty",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 10,
+        "desc": "Cool & overcast",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Cool with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & fresh",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Mild & green",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 20,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 20,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & fresh",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & damp",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 9,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 7,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      }
     },
     "iata": "BHX"
   },
@@ -7443,8 +7539,8 @@
     "categoryCount": 5,
     "heroImage": "/images/destinations/conwy.jpg",
     "intro": "A medieval walled castle town on the North Wales coast and a gateway to Eryri (Snowdonia), wrapped around a UNESCO World Heritage castle and a lively quay on the Conwy estuary. Dogs travel free on the train on the North Wales Coast Line and the scenic Conwy Valley Line into the mountains, and the town itself is exceptionally dog-friendly, with dog-welcoming pubs and cafes and superb walks up Conwy Mountain and along the estuary. Pet dogs cannot go inside the castle or on the wall walks, but almost everything else is open to them, and Bodnant Garden and the Aber Falls in Eryri welcome dogs on a lead.",
-    "lat": 53.2800,
-    "lng": -3.8300,
+    "lat": 53.28,
+    "lng": -3.83,
     "weather": {
       "jan": {
         "temp": 7,
@@ -7899,18 +7995,66 @@
     "lat": 52.9315,
     "lng": 1.3027,
     "weather": {
-      "jan": {"temp": 7, "desc": "Cold & breezy", "icon": "🌧️"},
-      "feb": {"temp": 7, "desc": "Cold North Sea wind", "icon": "🌧️"},
-      "mar": {"temp": 9, "desc": "Cool & breezy", "icon": "🌦️"},
-      "apr": {"temp": 11, "desc": "Cool coastal air", "icon": "🌦️"},
-      "may": {"temp": 14, "desc": "Mild & fresh", "icon": "⛅"},
-      "jun": {"temp": 17, "desc": "Mild & breezy", "icon": "🌤️"},
-      "jul": {"temp": 19, "desc": "Warm & breezy", "icon": "🌤️"},
-      "aug": {"temp": 19, "desc": "Warm sea breezes", "icon": "🌤️"},
-      "sep": {"temp": 17, "desc": "Mild & pleasant", "icon": "⛅"},
-      "oct": {"temp": 13, "desc": "Cool & breezy", "icon": "🌦️"},
-      "nov": {"temp": 10, "desc": "Cold & windy", "icon": "🌧️"},
-      "dec": {"temp": 8, "desc": "Cold & damp", "icon": "🌧️"}
+      "jan": {
+        "temp": 7,
+        "desc": "Cold & breezy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Cold North Sea wind",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Cool & breezy",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Cool coastal air",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & fresh",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm & breezy",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm sea breezes",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & breezy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 10,
+        "desc": "Cold & windy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      }
     },
     "iata": "NWI"
   },
@@ -12273,6 +12417,81 @@
       }
     },
     "iata": "BRN"
+  },
+  {
+    "slug": "inverness",
+    "name": "Inverness",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/inverness.jpg",
+    "intro": "The capital of the Scottish Highlands and the gateway to Loch Ness, Inverness is a compact, genuinely dog-welcoming city where the walks are the whole point. The Ness Islands, a chain of wooded islets linked by Victorian footbridges in the middle of the River Ness, are a free signature walk, the Caledonian Canal towpath and Craig Phadrig forest sit minutes from the centre, and Loch Ness, the dolphin beaches of the Black Isle and the Culloden moor are all within a short drive, most of them dog-friendly on a lead. Direct dog-friendly trains on the Highland Main Line make it an easy Scottish base with your dog.",
+    "lat": 57.4778,
+    "lng": -4.2247,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 6,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 8,
+        "desc": "Cool & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 11,
+        "desc": "Cool with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & changeable",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Cold & wet",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 6,
+        "desc": "Cold, short days",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "INV"
   },
   {
     "slug": "ischia",
@@ -23257,6 +23476,81 @@
     "iata": "AMS"
   },
   {
+    "slug": "seattle",
+    "name": "Seattle",
+    "country": "United States",
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/seattle.jpg",
+    "intro": "Seattle is the Pacific Northwest's dog capital with a sharp catch: more than a dozen designated off-leash areas, a craft-beer culture built on covered heated beer gardens that welcome dogs all year, and King County Metro buses that carry a leashed dog of ANY size for a second fare, but city park rules bar dogs from every beach, swimming area, sports field and playground even on a lead, with fines quoted up to USD 500 at the water's edge. The only legal in-city swim is the Magnuson Park off-leash area on Lake Washington (8.5 acres, the sole off-leash site with water access); saltwater means Marina Beach Park in Edmonds or Double Bluff on Whidbey Island. Marymoor Park's 40-acre county off-leash area is now walkable from Marymoor Village Station on Link Line 2. Since 1 July 2026 Washington State Ferries lets a harnessed dog sit in marked areas inside the cabin, making the 35-minute Bainbridge Island crossing a genuine day out. Sound Transit's board voted in 2025 to admit leashed dogs free on Link, Sounder and ST Express, but its published rules still say small carriers only, so verify before you travel. Two 24/7 emergency vets in town (VEG Interbay, Emerald City in Wallingford). Cool wet drizzle from October to March, and July-August heat spikes past 30 C now arrive with wildfire smoke.",
+    "lat": 47.6062,
+    "lng": -122.3321,
+    "weather": {
+      "jan": {
+        "temp": 9,
+        "desc": "Cold & very rainy",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 10,
+        "desc": "Cool & rainy",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 12,
+        "desc": "Cool & showery",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 15,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 19,
+        "desc": "Mild & brighter",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 22,
+        "desc": "Warm & mostly dry",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 25,
+        "desc": "Warm & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 22,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 16,
+        "desc": "Cool & rainy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 11,
+        "desc": "Cold & very rainy",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 8,
+        "desc": "Cold & very rainy",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "SEA"
+  },
+  {
     "slug": "sete",
     "name": "Sète",
     "country": "France",
@@ -25595,7 +25889,7 @@
     "heroImage": "/images/destinations/tenby.jpg",
     "intro": "A medieval walled harbour town on the south Pembrokeshire coast, wrapped around three beaches and looking out to the monastic Caldey Island. Dogs travel free on the West Wales Line train into town and free on the Caldey boats, and the Pembrokeshire Coast Path leaves Tenby in both directions open to dogs year-round. Seasonal beach dog rules apply from 1 May to 30 September, with North Beach closed to dogs and the quiet Penally end of South Beach staying dog-friendly all year, so there is always sand and clifftop to walk.",
     "lat": 51.6725,
-    "lng": -4.7050,
+    "lng": -4.705,
     "weather": {
       "jan": {
         "temp": 8,

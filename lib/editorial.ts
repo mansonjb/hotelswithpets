@@ -976,6 +976,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Harder Kulm at sunset with the Two Lakes Bridge cantilever, the Aare riverside walk between Interlaken West and Ost, and a BLS boat day on Lake Brienz to Iseltwald and the Giessbach falls`,
       area: `the Bödeli centre around the Höheweg, Unterseen on the Aare, and the Matten / Wilderswil south edge near the Jungfraubahn`,
     },
+    inverness: {
+      personality: `the capital of the Scottish Highlands and gateway to Loch Ness, a compact, genuinely dog-welcoming riverside city where the walks are the whole point, the Ness Islands (wooded islets linked by Victorian footbridges), the Caledonian Canal towpath and Craig Phadrig forest are all free and minutes from the centre, dogs ride ScotRail free on a lead, and Inshes Veterinary Centre runs the local out-of-hours emergency line`,
+      highlight: `the Ness Islands loop under the Victorian footbridges, Dores beach looking straight down Loch Ness beside its dog-friendly inn, and a dog-friendly Jacobite boat cruise on Loch Ness`,
+      area: `the compact centre around Church Street and Castle Street, the Ness Islands and Bught riverside, and the Black Isle beaches at Rosemarkie and Chanonry Point`,
+    },
     jurmala: {
       personality: `Latvia's most famous beach resort, 33 km of white-sand Baltic coast 30 minutes by train from Riga, the summer playground of Riga's elite since the 19th century, with wooden Art Nouveau dachas of Dzintari and Majori, the Dubulti viewpoint, and a leashed-dog winter beach that opens only from November 1 to March 31`,
       highlight: `Dzintari Forest Park's 200-year-old pine grove, the 33 km off-season dog beach from Lielupe to Kemeri, and the Z. Meierovica prospekts wooden dacha walk`,
@@ -1516,6 +1521,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `Galicia's premier Rías Baixas beach resort in Pontevedra, with the 750 m Blue Flag Praia de Silgar, the 6 km Silgar-Baltar seafront promenade, the granary village of Combarro nearby and the wild A Lanzada dunes, though its beaches ban dogs in summer and the Cíes and Ons island trips are off-limits to pets`,
       highlight: `the Silgar-Baltar promenade, the wild A Lanzada beach and headland, and the year-round O Grove dog beaches about 20 km away`,
       area: `the Silgar seafront and marina in the centre, the Portonovo fishing quarter, and the A Lanzada isthmus toward O Grove`,
+    },
+    seattle: {
+      personality: `the Pacific Northwest's dog capital, with more than a dozen designated off-leash areas and a covered, heated beer-garden culture that welcomes dogs all year, offset by park rules that bar dogs from every beach and swimming area in the city`,
+      highlight: `the Magnuson Park off-leash area on Lake Washington (the only in-city off-leash site with water access), Marymoor Park's 40-acre county off-leash area now walkable from Marymoor Village Station, the fully fenced Westcrest Park area in West Seattle, and the Elliott Bay and Burke-Gilman trails`,
+      area: `Fremont and Wallingford for taprooms and trail access, Ballard for beer gardens that take dogs indoors, Queen Anne and Belltown for waterfront walks from the Olympic Sculpture Park`,
     },
     sete: {
       personality: `a 44 000-resident Hérault port city built on the slopes of Mont Saint-Clair between the Mediterranean and the Étang de Thau oyster lagoon, nicknamed the Venice of Languedoc for its working canal grid, with a 175 m panoramic forest summit, Paul Valéry's Cimetière Marin, a 12 km Plage de la Corniche with the year-round off-leash Lazaret plage canine, and a dog-friendly passenger ferry across the lagoon to the Bouzigues oyster villages`,
@@ -2984,6 +2994,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Harder Kulm au coucher du soleil avec la plateforme Two Lakes Bridge, la promenade au bord de l'Aar entre Interlaken West et Ost, et une journée bateau BLS sur le lac de Brienz vers Iseltwald et les chutes du Giessbach`,
       area: `le centre du Bödeli autour du Höheweg, Unterseen au bord de l'Aar, et la bordure sud Matten / Wilderswil près du Jungfraubahn`,
     },
+    inverness: {
+      personality: `la capitale des Highlands écossaises et la porte du Loch Ness, une ville compacte et vraiment dog-friendly au bord de la rivière où les promenades sont l'essentiel, les Ness Islands (îlots boisés reliés par des passerelles victoriennes), le chemin de halage du canal Calédonien et la forêt de Craig Phadrig sont tous gratuits et à quelques minutes du centre, les chiens voyagent gratuitement sur ScotRail en laisse, et l'Inshes Veterinary Centre gère la ligne d'urgence locale en dehors des heures d'ouverture`,
+      highlight: `la boucle des Ness Islands sous les passerelles victoriennes, la plage de Dores donnant droit sur le Loch Ness à côté de son auberge dog-friendly, et une croisière Jacobite dog-friendly sur le Loch Ness`,
+      area: `le centre compact autour de Church Street et Castle Street, les Ness Islands et les berges de Bught, et les plages de la Black Isle à Rosemarkie et Chanonry Point`,
+    },
     jurmala: {
       personality: `la station balnéaire la plus célèbre de Lettonie, 33 km de côte balte au sable blanc à 30 minutes en train de Riga, terrain de jeu estival de l'élite rigoise depuis le XIXe siècle, avec ses datchas en bois Art Nouveau de Dzintari et Majori, le belvédère de Dubulti et une plage canine hivernale en laisse qui n'ouvre que du 1er novembre au 31 mars`,
       highlight: `la pinède bicentenaire du parc forestier de Dzintari, les 33 km de plage canine hors saison de Lielupe à Kemeri, et la promenade des datchas en bois sur Z. Meierovica prospekts`,
@@ -3523,6 +3538,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la grande station balnéaire des Rías Baixas en Pontevedra, avec la Praia de Silgar de 750 m (Pavillon Bleu), la promenade Silgar-Baltar de 6 km, le village aux greniers de Combarro tout proche et les dunes sauvages de A Lanzada, même si ses plages interdisent les chiens l'été et que les excursions aux îles Cíes et Ons sont interdites aux animaux`,
       highlight: `la promenade Silgar-Baltar, la plage et le promontoire sauvages de A Lanzada, et les plages canines d'O Grove ouvertes toute l'année à environ 20 km`,
       area: `le front de mer de Silgar et la marina au centre, le quartier de pêcheurs de Portonovo, et l'isthme de A Lanzada vers O Grove`,
+    },
+    seattle: {
+      personality: `la capitale canine du Nord-Ouest Pacifique, avec plus d'une douzaine d'aires sans laisse officielles et une culture du beer garden couvert et chauffé qui accueille les chiens toute l'année, contrebalancée par un règlement des parcs qui interdit les chiens sur toutes les plages et zones de baignade de la ville`,
+      highlight: `l'aire sans laisse de Magnuson Park sur le lac Washington (le seul site sans laisse de la ville avec accès à l'eau), les seize hectares sans laisse de Marymoor Park désormais accessibles à pied depuis la station Marymoor Village, l'aire entièrement clôturée de Westcrest Park à West Seattle, et les promenades Elliott Bay et Burke-Gilman`,
+      area: `Fremont et Wallingford pour les taprooms et l'accès aux pistes, Ballard pour les beer gardens qui acceptent les chiens à l'intérieur, Queen Anne et Belltown pour les promenades en bord de mer depuis l'Olympic Sculpture Park`,
     },
     sete: {
       personality: `ville portuaire de l'Hérault de 44 000 habitants bâtie sur les pentes du Mont Saint-Clair entre la Méditerranée et l'étang de Thau, surnommée la Venise du Languedoc pour son maillage de canaux en activité, avec un sommet forestier panoramique à 175 m, le Cimetière Marin de Paul Valéry, une Plage de la Corniche de 12 km avec la plage canine sans laisse du Lazaret toute l'année, et un ferry voyageurs dog-friendly à travers le lagon jusqu'aux villages ostréicoles de Bouzigues`,
@@ -4991,6 +5011,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el Harder Kulm al atardecer con la plataforma Two Lakes Bridge, el paseo a orillas del Aare entre Interlaken West y Ost, y un día de barco BLS por el lago Brienz hasta Iseltwald y las cascadas del Giessbach`,
       area: `el centro del Bödeli en torno al Höheweg, Unterseen junto al Aare, y el borde sur Matten / Wilderswil cerca del Jungfraubahn`,
     },
+    inverness: {
+      personality: `la capital de las Highlands escocesas y la puerta al Lago Ness, una ciudad compacta y genuinamente dog-friendly junto al río donde los paseos son lo esencial, las Ness Islands (islotes boscosos unidos por pasarelas victorianas), el camino de sirga del Canal de Caledonia y el bosque de Craig Phadrig son todos gratuitos y están a minutos del centro, los perros viajan gratis en ScotRail con correa, y el Inshes Veterinary Centre gestiona la línea de urgencias local fuera de horario`,
+      highlight: `el circuito de las Ness Islands bajo las pasarelas victorianas, la playa de Dores mirando directa al Lago Ness junto a su posada dog-friendly, y un crucero Jacobite dog-friendly por el Lago Ness`,
+      area: `el centro compacto en torno a Church Street y Castle Street, las Ness Islands y las orillas de Bught, y las playas de la Black Isle en Rosemarkie y Chanonry Point`,
+    },
     jurmala: {
       personality: `el balneario más famoso de Letonia, 33 km de costa báltica de arena blanca a 30 minutos en tren de Riga, parque infantil estival de la élite rigueña desde el siglo XIX, con dachas de madera Art Nouveau de Dzintari y Majori, el mirador de Dubulti y una playa canina invernal con correa que solo abre del 1 de noviembre al 31 de marzo`,
       highlight: `el pinar bicentenario del Parque Forestal de Dzintari, los 33 km de playa canina fuera de temporada de Lielupe a Kemeri, y el paseo de las dachas de madera en Z. Meierovica prospekts`,
@@ -5530,6 +5555,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `la gran estación costera de las Rías Baixas en Pontevedra, con la Praia de Silgar de 750 m (Bandera Azul), el paseo Silgar-Baltar de 6 km, el pueblo de los hórreos de Combarro cerca y las dunas salvajes de A Lanzada, aunque sus playas prohíben perros en verano y las excursiones a las islas Cíes y Ons están prohibidas a las mascotas`,
       highlight: `el paseo Silgar-Baltar, la playa y el promontorio salvajes de A Lanzada, y las playas caninas de O Grove abiertas todo el año a unos 20 km`,
       area: `el frente marítimo de Silgar y el puerto deportivo en el centro, el barrio pesquero de Portonovo, y el istmo de A Lanzada hacia O Grove`,
+    },
+    seattle: {
+      personality: `la capital perruna del Noroeste del Pacífico, con más de una docena de áreas sin correa oficiales y una cultura del beer garden cubierto y con calefacción que acoge perros todo el año, compensada por un reglamento de parques que prohíbe los perros en todas las playas y zonas de baño de la ciudad`,
+      highlight: `el área sin correa de Magnuson Park en el lago Washington (el único recinto sin correa de la ciudad con acceso al agua), las dieciséis hectáreas sin correa de Marymoor Park ahora accesibles a pie desde la estación Marymoor Village, el área totalmente vallada de Westcrest Park en West Seattle, y los paseos Elliott Bay y Burke-Gilman`,
+      area: `Fremont y Wallingford para taprooms y acceso a los senderos, Ballard para beer gardens que admiten perros dentro, Queen Anne y Belltown para paseos junto al agua desde el Olympic Sculpture Park`,
     },
     sete: {
       personality: `ciudad portuaria del Hérault de 44 000 habitantes construida en las laderas del Mont Saint-Clair entre el Mediterráneo y el Étang de Thau, apodada la Venecia del Languedoc por su retícula de canales en activo, con una cima forestal panorámica a 175 m, el Cimetière Marin de Paul Valéry, una Plage de la Corniche de 12 km con la playa canina sin correa del Lazaret todo el año, y un ferry de pasajeros pet-friendly a través de la laguna hasta los pueblos ostrícolas de Bouzigues`,
@@ -6998,6 +7028,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `o Harder Kulm ao pôr do sol com a plataforma Two Lakes Bridge, o passeio à beira do Aare entre Interlaken West e Ost, e um dia de barco BLS pelo lago Brienz até Iseltwald e às cascatas do Giessbach`,
       area: `o centro do Bödeli em redor do Höheweg, Unterseen junto ao Aare, e a orla sul Matten / Wilderswil junto ao Jungfraubahn`,
     },
+    inverness: {
+      personality: `a capital das Terras Altas escocesas e a porta de entrada para o Lago Ness, uma cidade compacta e genuinamente pet-friendly junto ao rio onde os passeios são o essencial, as Ness Islands (ilhéus arborizados ligados por pontes vitorianas), o caminho de sirga do Canal Caledónio e a floresta de Craig Phadrig são todos gratuitos e ficam a minutos do centro, os cães viajam gratuitamente na ScotRail à trela, e o Inshes Veterinary Centre gere a linha de urgência local fora de horário`,
+      highlight: `o circuito das Ness Islands sob as pontes vitorianas, a praia de Dores a olhar diretamente para o Lago Ness junto à sua estalagem pet-friendly, e um cruzeiro Jacobite pet-friendly no Lago Ness`,
+      area: `o centro compacto em redor da Church Street e da Castle Street, as Ness Islands e as margens de Bught, e as praias da Black Isle em Rosemarkie e Chanonry Point`,
+    },
     jurmala: {
       personality: `o balneário mais famoso da Letónia, 33 km de costa báltica de areia branca a 30 minutos de comboio de Riga, parque infantil estival da elite riguense desde o século XIX, com dachas de madeira Art Nouveau de Dzintari e Majori, o miradouro de Dubulti e uma praia canina invernal com trela que só abre de 1 de novembro a 31 de março`,
       highlight: `o pinhal bicentenário do Parque Florestal de Dzintari, os 33 km de praia canina fora de época de Lielupe a Kemeri, e o passeio das dachas de madeira em Z. Meierovica prospekts`,
@@ -7537,6 +7572,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a grande estância costeira das Rías Baixas em Pontevedra, com a Praia de Silgar de 750 m (Bandeira Azul), o passeio Silgar-Baltar de 6 km, a aldeia dos hórreos de Combarro perto e as dunas selvagens de A Lanzada, embora as suas praias proíbam cães no verão e as excursões às ilhas Cíes e Ons estejam proibidas a animais`,
       highlight: `o passeio Silgar-Baltar, a praia e o promontório selvagens de A Lanzada, e as praias caninas de O Grove abertas todo o ano a cerca de 20 km`,
       area: `a frente-mar de Silgar e a marina no centro, o bairro piscatório de Portonovo, e o istmo de A Lanzada em direção a O Grove`,
+    },
+    seattle: {
+      personality: `a capital canina do Noroeste do Pacífico, com mais de uma dúzia de áreas sem trela oficiais e uma cultura do beer garden coberto e aquecido que acolhe cães todo o ano, compensada por um regulamento de parques que proíbe os cães em todas as praias e zonas de banho da cidade`,
+      highlight: `a área sem trela do Magnuson Park no lago Washington (o único recinto sem trela da cidade com acesso à água), os dezasseis hectares sem trela do Marymoor Park agora acessíveis a pé desde a estação Marymoor Village, a área totalmente vedada do Westcrest Park em West Seattle, e os passeios Elliott Bay e Burke-Gilman`,
+      area: `Fremont e Wallingford para taprooms e acesso aos trilhos, Ballard para beer gardens que aceitam cães lá dentro, Queen Anne e Belltown para passeios junto à água desde o Olympic Sculpture Park`,
     },
     sete: {
       personality: `cidade portuária do Hérault com 44 000 habitantes construída nas encostas do Mont Saint-Clair entre o Mediterrâneo e o Étang de Thau, apelidada a Veneza do Languedoc pela sua malha de canais em actividade, com um cume florestal panorâmico a 175 m, o Cimetière Marin de Paul Valéry, uma Plage de la Corniche de 12 km com a praia canina sem trela do Lazaret o ano inteiro, e um ferry de passageiros pet-friendly através da lagoa até às aldeias ostreícolas de Bouzigues`,

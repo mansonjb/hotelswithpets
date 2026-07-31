@@ -24,15 +24,15 @@ export async function generateMetadata({ params }: PageProps<'/[locale]'>): Prom
 
   const titles: Record<string, string> = {
     en: 'Dog-Friendly Hotels in Europe: 2,400+ Verified, Real Pet Policies | HotelsWithPets',
-    fr: 'Hôtels acceptant les chiens en Europe : 2 400+ vérifiés, vraies politiques animaux | HotelsWithPets',
+    fr: 'Hôtels pour chiens en Europe : 2 400+ vérifiés, conditions animaux réelles | HotelsWithPets',
     es: 'Hoteles que admiten perros en Europa: 2.400+ verificados, políticas reales | HotelsWithPets',
     pt: 'Hotéis que aceitam cães na Europa: 2.400+ verificados, políticas reais | HotelsWithPets',
   }
   const descriptions: Record<string, string> = {
     en: 'Find dog-friendly hotels across 400+ European destinations: 2,400+ hotels with verified pet policies (not just "pets allowed"), real guest ratings, city guides, emergency vets and transport rules. Free trip planning for travelling with your dog or cat.',
-    fr: 'Trouvez des hôtels acceptant les chiens dans plus de 400 destinations européennes : 2 400+ hôtels aux politiques animaux vérifiées (pas juste « animaux acceptés »), avis réels, guides ville, vétos d\'urgence, règles de transport. Planification gratuite pour voyager avec votre chien ou chat.',
-    es: 'Encuentra hoteles que admiten perros en más de 400 destinos europeos: 2.400+ hoteles con políticas verificadas (no solo "mascotas admitidas"), opiniones reales, guías de ciudad, veterinarios de urgencia y normas de transporte. Planificación gratis para viajar con tu perro o gato.',
-    pt: 'Encontre hotéis que aceitam cães em mais de 400 destinos europeus: 2.400+ hotéis com políticas verificadas (não só "animais aceites"), avaliações reais, guias de cidade, veterinários de urgência e regras de transporte. Planeamento gratuito para viajar com o seu cão ou gato.',
+    fr: 'Trouvez des hôtels pour chiens dans plus de 400 destinations en Europe : 2 400+ adresses aux politiques animaux vérifiées (pas juste « animaux acceptés »), avis vérifiés, guides de ville, vétérinaires d\'urgence et règles de transport. Planifiez votre voyage gratuitement, avec votre chien ou votre chat.',
+    es: 'Encuentra hoteles que admiten perros en más de 400 destinos europeos: 2.400+ hoteles con políticas verificadas (no solo "mascotas admitidas"), opiniones reales, guías de ciudad, veterinarios de urgencia y normas de transporte. Planifica tu viaje gratis, con tu perro o tu gato.',
+    pt: 'Encontre hotéis que aceitam cães em mais de 400 destinos europeus: 2.400+ hotéis com políticas verificadas (não só "animais aceites"), avaliações reais, guias de cidade, veterinários de urgência e regras de transporte. Planeie a sua viagem gratuitamente, com o seu cão ou gato.',
   }
 
   const title = titles[locale] ?? titles.en

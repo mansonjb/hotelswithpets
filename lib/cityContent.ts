@@ -8161,6 +8161,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  brisbane: {
+    history: {
+      fr: `Brisbane est née en 1824 comme colonie pénitentiaire à Redcliffe, déplacée l'année suivante dans la boucle du fleuve où se dresse aujourd'hui le centre, et n'a été ouverte à la colonisation libre qu'en 1842. Capitale du Queensland depuis 1859, elle a longtemps traîné une réputation de grosse bourgade provinciale, que l'Exposition universelle de 1988 a effacée en transformant la rive sud en parc public : South Bank. La ville compte aujourd'hui environ 2,7 millions d'habitants dans son aire métropolitaine, et vit dehors toute l'année grâce à un climat subtropical humide. Pour un chien, c'est l'une des villes les plus généreuses d'Australie : plus de 160 zones sans laisse gérées par la mairie, trois fronts de mer officiels sur la Moreton Bay, une culture de terrasses omniprésente et, fait rare dans le pays, des ferries qui acceptent les chiens en laisse et muselés hors des heures de pointe. La contrepartie est nette : bus, trains et trams leur restent totalement fermés.`,
+      en: `Brisbane began in 1824 as a penal settlement at Redcliffe, moved the following year to the river bend where the city centre now stands, and was only opened to free settlement in 1842. Capital of Queensland since 1859, it carried a reputation as an overgrown country town for decades, which World Expo 88 erased by turning the south bank of the river into a public park: South Bank. The metropolitan area now counts about 2.7 million people, and lives outdoors all year thanks to a humid subtropical climate. For a dog it is one of the most generous cities in Australia: more than 160 council off-leash areas, three official foreshore sites on Moreton Bay, an outdoor eating culture on every corner and, rare in this country, ferries that accept leashed and muzzled dogs outside the commuter peaks. The trade-off is sharp: buses, trains and trams remain entirely closed to them.`,
+      es: `Brisbane nació en 1824 como colonia penal en Redcliffe, se trasladó al año siguiente al meandro del río donde hoy se levanta el centro y no se abrió a la colonización libre hasta 1842. Capital de Queensland desde 1859, arrastró durante décadas fama de pueblo grande de provincias, algo que la Expo del 88 borró al convertir la orilla sur en un parque público: South Bank. El área metropolitana suma hoy unos 2,7 millones de habitantes y vive al aire libre todo el año gracias a un clima subtropical húmedo. Para un perro es una de las ciudades más generosas de Australia: más de 160 zonas sin correa municipales, tres orillas oficiales en Moreton Bay, cultura de terraza en cada esquina y, algo raro en el país, ferris que admiten perros con correa y bozal fuera de las horas punta. La contrapartida es tajante: autobuses, trenes y tranvías les están completamente vetados.`,
+      pt: `Brisbane nasceu em 1824 como colónia penal em Redcliffe, mudou-se no ano seguinte para a curva do rio onde hoje se ergue o centro e só foi aberta à colonização livre em 1842. Capital do Queensland desde 1859, arrastou durante décadas a fama de aldeia grande de província, que a Expo de 88 apagou ao transformar a margem sul num parque público: o South Bank. A área metropolitana conta hoje cerca de 2,7 milhões de pessoas e vive na rua todo o ano graças a um clima subtropical húmido. Para um cão é uma das cidades mais generosas da Austrália: mais de 160 zonas sem trela geridas pela câmara, três frentes de mar oficiais na Moreton Bay, uma cultura de esplanada em cada esquina e, coisa rara no país, ferries que aceitam cães à trela e com açaime fora das horas de ponta. A contrapartida é dura: autocarros, comboios e elétricos continuam-lhes totalmente fechados.`,
+    },
+    sights: [
+      {
+        name: 'Powerhouse Park, New Farm',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Environ un hectare de pelouse clôturée au bord du fleuve, à côté de la Brisbane Powerhouse, avec un enclos séparé pour les petits chiens et les craintifs, des fontaines et un abri couvert. L'enclos sans laisse le plus proche du centre, ouvert en continu.`,
+          en: `About a hectare of fenced riverside lawn beside the Brisbane Powerhouse, with a separate pen for small and timid dogs, water fountains and a covered shelter. The closest off-leash enclosure to the city centre, open around the clock.`,
+          es: `Casi una hectárea de césped vallado junto al río, al lado de la Brisbane Powerhouse, con un recinto aparte para perros pequeños y tímidos, fuentes y un refugio cubierto. El recinto sin correa más cercano al centro, abierto las 24 horas.`,
+          pt: `Cerca de um hectare de relvado vedado à beira-rio, ao lado da Brisbane Powerhouse, com um recinto separado para cães pequenos e tímidos, bebedouros e um abrigo coberto. O recinto sem trela mais próximo do centro, aberto 24 horas.`,
+        },
+      },
+      {
+        name: 'South Bank Parklands',
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          fr: `Dix-sept hectares de parc riverain face aux tours du centre, hérités de l'Exposition universelle de 1988. Chiens admis en laisse sur la Clem Jones Promenade, l'Arbour et les pelouses, mais exclus du lagon de baignade, du ruisseau, de la plage artificielle et des zones de restauration.`,
+          en: `Seventeen hectares of riverfront park facing the city towers, inherited from World Expo 88. Dogs are welcome on a lead along the Clem Jones Promenade, the Arbour and the lawns, but are barred from the swimming lagoon, the stream, the artificial beach and the eating areas.`,
+          es: `Diecisiete hectáreas de parque ribereño frente a las torres del centro, herencia de la Expo del 88. Los perros son bienvenidos con correa en la Clem Jones Promenade, el Arbour y los céspedes, pero quedan excluidos de la laguna de baño, el arroyo, la playa artificial y las zonas de comida.`,
+          pt: `Dezassete hectares de parque ribeirinho virados para as torres do centro, herdados da Expo de 88. Os cães são bem-vindos à trela na Clem Jones Promenade, no Arbour e nos relvados, mas estão excluídos da lagoa de banhos, do riacho, da praia artificial e das zonas de comida.`,
+        },
+      },
+      {
+        name: 'Kangaroo Point Cliffs',
+        emoji: '🧗',
+        petFriendly: true,
+        desc: {
+          fr: `Falaises volcaniques face au centre, reliées au fleuve par les escaliers de Kangaroo Point et éclairées la nuit pour les grimpeurs. Le chemin du sommet offre la vue emblématique sur Brisbane et accepte les chiens en laisse ; le bord n'est pas clôturé partout, laisse courte obligatoire.`,
+          en: `Volcanic cliffs facing the city centre, linked to the river by the Kangaroo Point Stairs and floodlit at night for climbers. The clifftop path gives the defining view of Brisbane and takes leashed dogs; the edge is unfenced in places, so keep the lead short.`,
+          es: `Acantilados volcánicos frente al centro, unidos al río por las escaleras de Kangaroo Point e iluminados de noche para los escaladores. El camino superior ofrece la vista emblemática de Brisbane y admite perros con correa; el borde no está vallado en todos los tramos, así que correa corta.`,
+          pt: `Falésias vulcânicas viradas para o centro, ligadas ao rio pelas escadas de Kangaroo Point e iluminadas à noite para os escaladores. O caminho do topo dá a vista emblemática de Brisbane e aceita cães à trela; a beira não está vedada em todo o lado, por isso trela curta.`,
+        },
+      },
+      {
+        name: 'Brisbane Riverwalk',
+        emoji: '🚶',
+        petFriendly: true,
+        desc: {
+          fr: `Environ 6 km de cheminement plat et pavé le long du fleuve, du centre à New Farm en passant par Howard Smith Wharves et Teneriffe, avec une section flottante ancrée sur l'eau. Chiens en laisse sur tout le parcours, qui se termine à l'enclos sans laisse de la Powerhouse.`,
+          en: `About 6 km of flat, paved path along the river from the city through Howard Smith Wharves and Teneriffe to New Farm, including a floating section moored on the water. Leashed dogs the whole way, ending at the Powerhouse off-leash enclosure.`,
+          es: `Unos 6 km de camino llano y pavimentado junto al río, del centro a New Farm pasando por Howard Smith Wharves y Teneriffe, con un tramo flotante amarrado sobre el agua. Perros con correa en todo el recorrido, que termina en el recinto sin correa de la Powerhouse.`,
+          pt: `Cerca de 6 km de caminho plano e pavimentado ao longo do rio, do centro até New Farm passando pelo Howard Smith Wharves e por Teneriffe, com um troço flutuante ancorado sobre a água. Cães à trela em todo o percurso, que termina no recinto sem trela da Powerhouse.`,
+        },
+      },
+      {
+        name: 'City Botanic Gardens',
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Dix-huit hectares de jardins historiques dans la boucle du fleuve, en bas d'Alice Street, avec 1,2 km de front fluvial et l'allée de figuiers pleureurs plantée dans les années 1870. Chiens admis en laisse dans tout le jardin, ouvert en permanence.`,
+          en: `Eighteen hectares of historic gardens in the river bend at the foot of Alice Street, with 1.2 km of river frontage and the weeping fig avenue planted in the 1870s. Leashed dogs are welcome throughout, and the gardens never close.`,
+          es: `Dieciocho hectáreas de jardines históricos en el meandro del río, al final de Alice Street, con 1,2 km de fachada fluvial y la avenida de higueras llorosas plantada en la década de 1870. Perros con correa en todo el recinto, abierto de forma permanente.`,
+          pt: `Dezoito hectares de jardins históricos na curva do rio, ao fundo da Alice Street, com 1,2 km de frente ribeirinha e a avenida de figueiras-chorão plantada na década de 1870. Cães à trela em toda a área, e os jardins nunca fecham.`,
+        },
+      },
+      {
+        name: 'Story Bridge',
+        emoji: '🌉',
+        petFriendly: true,
+        desc: {
+          fr: `Le pont cantilever en acier de 1940 qui relie Fortitude Valley à Kangaroo Point et sert de repère à toute la ville. Ses trottoirs se traversent à pied avec un chien en laisse ; l'escalade guidée du tablier, elle, est réservée aux humains.`,
+          en: `The 1940 steel cantilever bridge linking Fortitude Valley to Kangaroo Point and serving as the city's landmark. Its footways can be crossed on foot with a leashed dog; the guided climb over the span is for humans only.`,
+          es: `El puente de acero en voladizo de 1940 que une Fortitude Valley con Kangaroo Point y sirve de referencia a toda la ciudad. Sus aceras se cruzan a pie con un perro con correa; la escalada guiada por el tablero es solo para humanos.`,
+          pt: `A ponte de aço em consola de 1940 que liga Fortitude Valley a Kangaroo Point e serve de marco a toda a cidade. Os seus passeios atravessam-se a pé com um cão à trela; a escalada guiada pelo tabuleiro é só para humanos.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Ferries seulement : les chiens voyagent sur les CityCat et les traversiers de 8h30 à 15h30 et de 19h à 6h en semaine, toute la journée le week-end, en laisse et muselés ou en caisse fermée, deux chiens maximum par accompagnateur.`,
+        `Bus, trains et trams Translink sont totalement interdits aux animaux de compagnie, sans dérogation pour les petits chiens en caisse : logez près d'un ponton ou prévoyez une voiture.`,
+        `Tique paralysante toute l'année dans le sud-est du Queensland : préventif conseillé par un vétérinaire avant le départ et fouille manuelle du chien chaque soir, tête, cou, oreilles et entre les doigts.`,
+        `Crapaud buffle présent dans toute la ville, actif les nuits chaudes et humides : un chien qui en mordille un est une urgence vétérinaire immédiate.`,
+        `La laisse est la règle partout sauf sous un panneau jaune municipal ; testez le bitume du dos de la main de novembre à mars et promenez avant 8h ou après 17h.`,
+      ],
+      en: [
+        `Ferries only: dogs travel on the CityCats and cross-river ferries from 8:30 to 15:30 and from 19:00 to 06:00 on weekdays, all day at weekends, on a lead and muzzled or in a closed carrier, two dogs maximum per handler.`,
+        `Translink buses, trains and trams are entirely closed to pets, with no exemption for small dogs in carriers: stay near a ferry terminal or plan on a car.`,
+        `Paralysis ticks are a year-round risk in south-east Queensland: start a vet-recommended preventative before you travel and hand-search the dog every evening, head, neck, ears and between the toes.`,
+        `Cane toads live throughout the city and come out on warm wet nights: a dog that mouths one is an immediate veterinary emergency.`,
+        `The lead is the rule everywhere except under a yellow council sign; test the pavement with the back of your hand from November to March and walk before 8:00 or after 17:00.`,
+      ],
+      es: [
+        `Solo ferris: los perros viajan en los CityCat y en los ferris de travesía de 8:30 a 15:30 y de 19:00 a 6:00 los laborables, todo el día los fines de semana, con correa y bozal o en transportín cerrado, dos perros como máximo por acompañante.`,
+        `Los autobuses, trenes y tranvías de Translink están completamente cerrados a las mascotas, sin excepción para perros pequeños en transportín: alójate cerca de un embarcadero o cuenta con coche.`,
+        `La garrapata paralizante es un riesgo de todo el año en el sureste de Queensland: empieza un preventivo recomendado por un veterinario antes del viaje y revisa al perro a mano cada noche, cabeza, cuello, orejas y entre los dedos.`,
+        `El sapo de caña vive en toda la ciudad y sale en las noches cálidas y húmedas: un perro que lo muerde es una urgencia veterinaria inmediata.`,
+        `La correa es la norma en todas partes salvo bajo un cartel amarillo municipal; comprueba el asfalto con el dorso de la mano de noviembre a marzo y pasea antes de las 8:00 o después de las 17:00.`,
+      ],
+      pt: [
+        `Só ferries: os cães viajam nos CityCat e nos ferries de travessia das 8:30 às 15:30 e das 19:00 às 6:00 nos dias úteis, todo o dia ao fim de semana, à trela e com açaime ou em caixa fechada, dois cães no máximo por acompanhante.`,
+        `Os autocarros, comboios e elétricos da Translink estão completamente fechados aos animais, sem exceção para cães pequenos em caixa: fique perto de um pontão ou conte com carro.`,
+        `A carraça paralisante é um risco durante todo o ano no sudeste do Queensland: comece um preventivo recomendado por um veterinário antes de viajar e revista o cão à mão todas as noites, cabeça, pescoço, orelhas e entre os dedos.`,
+        `O sapo-cururu vive em toda a cidade e sai nas noites quentes e húmidas: um cão que o leve à boca é uma emergência veterinária imediata.`,
+        `A trela é a regra em todo o lado exceto sob uma placa amarela municipal; teste o alcatrão com as costas da mão de novembro a março e passeie antes das 8:00 ou depois das 17:00.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport de Brisbane (BNE), 15 km au nord-est : seuls les chiens d'assistance accrédités entrent dans les terminaux, un chien de compagnie voyage en fret et se récupère à l'installation de fret de la compagnie.`,
+        `Importation : l'Australie n'a pas de passeport animalier ; permis d'importation, puce, vaccin antirabique, titrage des anticorps et au moins 10 jours de quarantaine à Mickleham près de Melbourne, seule structure du pays.`,
+        `Urgences vétérinaires 24h/24 : Animal Referral Hospital, 532 Seventeen Mile Rocks Road, Sinnamon Park, +61 7 3172 0593 ; Animal Emergency Centre, 14 Cleveland Street, Stones Corner, +61 7 3456 0500. Le 000 est réservé aux humains.`,
+        `Climat subtropical humide : maximales autour de 30 °C et orages d'après-midi de décembre à février, hiver sec et ensoleillé autour de 21 °C de juin à août, la meilleure saison avec un chien.`,
+        `Garde : Mad Paws et Pawshake couvrent Brisbane, comptez environ 40 à 80 dollars australiens la nuit en hébergement chez le gardien, carnet de vaccination exigé.`,
+      ],
+      en: [
+        `Brisbane Airport (BNE), 15 km north-east: only accredited assistance dogs may enter the terminals, and a pet dog travels as freight and is collected from the airline's freight facility.`,
+        `Importing: Australia has no pet passport; you need an import permit, microchip, rabies vaccination, antibody titre test and at least 10 days of quarantine at Mickleham near Melbourne, the country's only such facility.`,
+        `24 hour emergency vets: Animal Referral Hospital, 532 Seventeen Mile Rocks Road, Sinnamon Park, +61 7 3172 0593; Animal Emergency Centre, 14 Cleveland Street, Stones Corner, +61 7 3456 0500. The 000 number is for humans only.`,
+        `Humid subtropical climate: maximums around 30 °C with afternoon storms from December to February, dry sunny winters around 21 °C from June to August, which is the best season with a dog.`,
+        `Sitting: Mad Paws and Pawshake both cover Brisbane, budget roughly 40 to 80 Australian dollars a night for in-home boarding, vaccination record required.`,
+      ],
+      es: [
+        `Aeropuerto de Brisbane (BNE), 15 km al noreste: solo los perros de asistencia acreditados entran en las terminales, y un perro de compañía viaja como carga y se recoge en la instalación de carga de la aerolínea.`,
+        `Importación: Australia no tiene pasaporte para mascotas; hacen falta permiso de importación, microchip, vacuna antirrábica, prueba de titulación de anticuerpos y al menos 10 días de cuarentena en Mickleham, cerca de Melbourne, la única instalación del país.`,
+        `Urgencias veterinarias 24 horas: Animal Referral Hospital, 532 Seventeen Mile Rocks Road, Sinnamon Park, +61 7 3172 0593; Animal Emergency Centre, 14 Cleveland Street, Stones Corner, +61 7 3456 0500. El 000 es solo para personas.`,
+        `Clima subtropical húmedo: máximas en torno a 30 °C con tormentas de tarde de diciembre a febrero, inviernos secos y soleados en torno a 21 °C de junio a agosto, la mejor temporada con perro.`,
+        `Cuidado: Mad Paws y Pawshake cubren Brisbane, calcula entre 40 y 80 dólares australianos por noche en casa del cuidador, con cartilla de vacunación obligatoria.`,
+      ],
+      pt: [
+        `Aeroporto de Brisbane (BNE), 15 km a nordeste: só os cães de assistência acreditados entram nos terminais, e um cão de companhia viaja como carga e é levantado nas instalações de carga da companhia aérea.`,
+        `Importação: a Austrália não tem passaporte para animais; é preciso licença de importação, microchip, vacina antirrábica, teste de titulação de anticorpos e pelo menos 10 dias de quarentena em Mickleham, perto de Melbourne, a única instalação do país.`,
+        `Urgências veterinárias 24 horas: Animal Referral Hospital, 532 Seventeen Mile Rocks Road, Sinnamon Park, +61 7 3172 0593; Animal Emergency Centre, 14 Cleveland Street, Stones Corner, +61 7 3456 0500. O 000 é apenas para pessoas.`,
+        `Clima subtropical húmido: máximas à volta dos 30 °C com trovoadas ao fim da tarde de dezembro a fevereiro, invernos secos e solarengos à volta dos 21 °C de junho a agosto, a melhor época com um cão.`,
+        `Guarda: a Mad Paws e a Pawshake cobrem Brisbane, conte cerca de 40 a 80 dólares australianos por noite em casa do cuidador, com boletim de vacinas obrigatório.`,
+      ],
+    },
+  },
+
   bristol: {
     history: {
       fr: `Bristol, fondée à la fin du IXe siècle au confluent de l'Avon et de la Frome, fut pendant cinq siècles le deuxième port d'Angleterre après Londres, capitale du commerce vers les Amériques, du café et (jusqu'à son abolition) de la traite atlantique, dont la ville porte aujourd'hui la mémoire critique. L'âge d'or industriel du XIXe siècle a légué deux chefs-d'œuvre : le SS Great Britain de Brunel (premier navire à coque de fer au monde, 1843) et le Clifton Suspension Bridge, l'image emblématique de la ville. Aujourd'hui Bristol compte 470 000 habitants, une scène culturelle bouillonnante (Banksy y est né), et la culture pet-friendly la plus aboutie du sud-ouest anglais. Plus de 70 % des pubs accueillent les chiens à l'intérieur, les transports publics sont gratuits pour les animaux, et la ville est encerclée de 450 parcs et communaux où les chiens courent sans laisse, d'Ashton Court Estate (162 ha) aux Downs au sommet de l'Avon Gorge.`,

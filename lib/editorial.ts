@@ -581,6 +581,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Hove Lawns, Preston Park, and Stanmer Park on the South Downs',
       area: 'The Lanes, Kemptown, and the Hove seafront',
     },
+    brisbane: {
+      personality: `the most dog-welcoming river city in Australia, where CityCat ferries carry leashed and muzzled dogs outside the commuter peaks while every bus and train stays closed to them, backed by more than 160 council off-leash areas`,
+      highlight: `the Powerhouse Park off-leash enclosure at New Farm, the Kangaroo Point clifftop path, and the Sandgate to Shorncliffe foreshore`,
+      area: `New Farm and Teneriffe, Kangaroo Point, and West End`,
+    },
     bristol: {
       personality: 'one of England\'s greenest cities, 70% of pubs welcome dogs, free public transport for pets, the iconic Clifton Suspension Bridge and 162-hectare Ashton Court Estate at the gates',
       highlight: 'Ashton Court Estate, the Downs at the top of the Avon Gorge, and the floating Bristol Ferry to the Wapping Wharf',
@@ -2619,6 +2624,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Hove Lawns, Preston Park et Stanmer Park aux portes des South Downs',
       area: 'The Lanes, Kemptown et le front de mer de Hove',
     },
+    brisbane: {
+      personality: `la ville fluviale la plus accueillante d'Australie pour les chiens, où les ferries CityCat acceptent les chiens en laisse et muselés hors des heures de pointe alors que bus et trains leur restent fermés, avec plus de 160 zones sans laisse municipales`,
+      highlight: `l'enclos sans laisse de Powerhouse Park à New Farm, le chemin de falaise de Kangaroo Point et le front de mer de Sandgate à Shorncliffe`,
+      area: `New Farm et Teneriffe, Kangaroo Point et West End`,
+    },
     bristol: {
       personality: 'l\'une des villes les plus vertes d\'Angleterre, 70 % des pubs accueillent les chiens, transports publics gratuits pour animaux, l\'iconique Clifton Suspension Bridge et les 162 hectares d\'Ashton Court Estate aux portes',
       highlight: 'Ashton Court Estate, les Downs au sommet de l\'Avon Gorge et le ferry flottant Bristol Ferry vers Wapping Wharf',
@@ -4656,6 +4666,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'Hove Lawns, Preston Park y Stanmer Park a las puertas de los South Downs',
       area: 'The Lanes, Kemptown y el paseo marítimo de Hove',
     },
+    brisbane: {
+      personality: `la ciudad fluvial más acogedora de Australia para los perros, donde los ferris CityCat admiten perros con correa y bozal fuera de las horas punta mientras autobuses y trenes siguen cerrados para ellos, con más de 160 zonas sin correa municipales`,
+      highlight: `el recinto sin correa de Powerhouse Park en New Farm, el camino del acantilado de Kangaroo Point y la orilla de Sandgate a Shorncliffe`,
+      area: `New Farm y Teneriffe, Kangaroo Point y West End`,
+    },
     bristol: {
       personality: 'una de las ciudades más verdes de Inglaterra, el 70 % de los pubs admite perros, transporte público gratis para mascotas, el icónico Clifton Suspension Bridge y las 162 hectáreas del Ashton Court Estate a las puertas',
       highlight: 'Ashton Court Estate, los Downs en lo alto de la Garganta del Avon y el ferri flotante Bristol Ferry hasta Wapping Wharf',
@@ -6692,6 +6707,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'a cidade costera mais pet-friendly do Reino Unido, onde os autocarros são grátis para animais e a praia de Hove Lawns abre o ano inteiro',
       highlight: 'Hove Lawns, Preston Park e Stanmer Park a as puertas dos South Downs',
       area: 'The Lanes, Kemptown e o passeio marítimo de Hove',
+    },
+    brisbane: {
+      personality: `a cidade ribeirinha mais acolhedora da Austrália para os cães, onde os ferries CityCat aceitam cães à trela e com açaime fora das horas de ponta enquanto autocarros e comboios lhes continuam fechados, com mais de 160 zonas sem trela municipais`,
+      highlight: `o recinto sem trela do Powerhouse Park em New Farm, o caminho da falésia de Kangaroo Point e a frente de mar de Sandgate a Shorncliffe`,
+      area: `New Farm e Teneriffe, Kangaroo Point e West End`,
     },
     bristol: {
       personality: 'uma das cidades mais verdes de Inglaterra, o 70 % dos pubs admite cães, transporte público grátis para animais, o icónico Clifton Suspension Bridge e as 162 hectáreas do Ashton Court Estate a as puertas',

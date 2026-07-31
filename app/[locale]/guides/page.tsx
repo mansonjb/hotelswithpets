@@ -103,6 +103,7 @@ const COPY: Record<string, LocaleCopy> = {
           { slug: 'best-dog-beaches-europe-2026', emoji: '🌊', title: 'Best dog beaches in Europe 2026', desc: 'Our curated shortlist of European dog beaches, with water quality, leash rules and nearby pet-friendly stays.', tag: 'Destinations' },
           { slug: 'fenced-dog-parks-europe', emoji: '🌳', title: 'Fenced dog parks in Europe', desc: 'Where to find safe off-leash enclosures in 30+ European cities, mapped and audited.', tag: 'Destinations' },
           { slug: 'high-energy-dog-destinations-europe', emoji: '🥾', title: 'Best destinations for a high-energy dog', desc: 'Alpine and lake destinations built for a working dog: real trails, distances and lift policies, verified. Chamonix, Windermere, Interlaken, Zell am See, Annecy, Innsbruck.', tag: 'By dog · new' },
+          { slug: 'water-loving-dog-destinations-europe', emoji: '💧', title: 'Best destinations for a water-loving dog', desc: 'Lake and sea destinations with real, verified dog swimming spots: seasonal rules and leash zones. Aix-les-Bains, Annecy, Biarritz, Salcombe, Split, Cadiz.', tag: 'By dog · new' },
         ],
       },
       itineraries: {
@@ -180,6 +181,7 @@ const COPY: Record<string, LocaleCopy> = {
           { slug: 'best-dog-beaches-europe-2026', emoji: '🌊', title: `Meilleures plages canines d'Europe 2026`, desc: `Notre sélection éditoriale de plages canines européennes, qualité de l'eau, règles de laisse et hôtels pet-friendly proches.`, tag: 'Destinations' },
           { slug: 'fenced-dog-parks-europe', emoji: '🌳', title: `Parcs canins clôturés en Europe`, desc: `Où trouver des enclos sans laisse sécurisés dans 30+ villes européennes, cartographiés et audités.`, tag: 'Destinations' },
           { slug: 'high-energy-dog-destinations-europe', emoji: '🥾', title: `Meilleures destinations pour un chien très actif`, desc: `Destinations alpines et lacustres pensées pour un chien de travail : vrais sentiers, distances et règles de remontées, vérifiés. Chamonix, Windermere, Interlaken, Zell am See, Annecy, Innsbruck.`, tag: 'Par chien · nouveau' },
+          { slug: 'water-loving-dog-destinations-europe', emoji: '💧', title: `Meilleures destinations pour un chien qui adore l'eau`, desc: `Destinations lacustres et maritimes avec de vrais points de baignade pour chiens, vérifiés : règles saisonnières et zones de laisse. Aix-les-Bains, Annecy, Biarritz, Salcombe, Split, Cadix.`, tag: 'Par chien · nouveau' },
         ],
       },
       itineraries: {
@@ -257,6 +259,7 @@ const COPY: Record<string, LocaleCopy> = {
           { slug: 'best-dog-beaches-europe-2026', emoji: '🌊', title: 'Mejores playas caninas de Europa 2026', desc: 'Nuestra selección editorial de playas caninas europeas, calidad del agua, normas de correa y hoteles pet-friendly cercanos.', tag: 'Destinos' },
           { slug: 'fenced-dog-parks-europe', emoji: '🌳', title: 'Parques caninos vallados en Europa', desc: 'Dónde encontrar recintos sin correa seguros en 30+ ciudades europeas, mapeados y auditados.', tag: 'Destinos' },
           { slug: 'high-energy-dog-destinations-europe', emoji: '🥾', title: 'Mejores destinos para un perro muy activo', desc: 'Destinos alpinos y de lago pensados para un perro de trabajo: senderos reales, distancias y normas de remontes, verificados. Chamonix, Windermere, Interlaken, Zell am See, Annecy, Innsbruck.', tag: 'Por perro · nuevo' },
+          { slug: 'water-loving-dog-destinations-europe', emoji: '💧', title: 'Mejores destinos para un perro que ama el agua', desc: 'Destinos de lago y mar con puntos de baño reales y verificados para perros: normas de temporada y zonas de correa. Aix-les-Bains, Annecy, Biarritz, Salcombe, Split, Cádiz.', tag: 'Por perro · nuevo' },
         ],
       },
       itineraries: {
@@ -334,6 +337,7 @@ const COPY: Record<string, LocaleCopy> = {
           { slug: 'best-dog-beaches-europe-2026', emoji: '🌊', title: `Melhores praias caninas da Europa 2026`, desc: `A nossa selecção editorial de praias caninas europeias, qualidade da água, regras de trela e hotéis pet-friendly próximos.`, tag: 'Destinos' },
           { slug: 'fenced-dog-parks-europe', emoji: '🌳', title: `Parques caninos vedados na Europa`, desc: `Onde encontrar recintos sem trela seguros em 30+ cidades europeias, mapeados e auditados.`, tag: 'Destinos' },
           { slug: 'high-energy-dog-destinations-europe', emoji: '🥾', title: `Melhores destinos para um cão muito ativo`, desc: `Destinos alpinos e de lago pensados para um cão de trabalho: trilhos reais, distâncias e regras de teleféricos, verificados. Chamonix, Windermere, Interlaken, Zell am See, Annecy, Innsbruck.`, tag: 'Por cão · novo' },
+          { slug: 'water-loving-dog-destinations-europe', emoji: '💧', title: `Melhores destinos para um cão que adora água`, desc: `Destinos de lago e mar com pontos de banho reais e verificados para cães: regras sazonais e zonas de trela. Aix-les-Bains, Annecy, Biarritz, Salcombe, Split, Cádis.`, tag: 'Por cão · novo' },
         ],
       },
       itineraries: {

@@ -36,6 +36,25 @@ const MIN_HOTELS_THRESHOLD = 3
 
 const sleep = (min, max) => new Promise(r => setTimeout(r, min + Math.random() * (max - min)))
 
+// kebab-case a hotel name: lowercase, strip accents, non-alphanumeric runs → "-", trim "-"
+const slugify = (name) =>
+  name
+    .normalize('NFD')
+    .replace(/[̀-ͯ]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+
+// generate a slug unique against `used` (a Set); append -2, -3… on collision
+function uniqueSlug(name, used) {
+  const base = slugify(name) || 'hotel'
+  let slug = base
+  let n = 2
+  while (used.has(slug)) slug = `${base}-${n++}`
+  used.add(slug)
+  return slug
+}
+
 // ─── Stealth browser ─────────────────────────────────────────────────────────
 
 async function createBrowser() {
@@ -317,7 +336,7 @@ function inferCategories(petPolicy, highlights, stars, price) {
 
 // ─── Scrape one destination ───────────────────────────────────────────────────
 
-async function scrapeDestination(context, dest) {
+async function scrapeDestination(context, dest, usedSlugs) {
   console.log(`\n  📍 ${dest.name}`)
   const page = await context.newPage()
   const hotels = []
@@ -372,12 +391,16 @@ async function scrapeDestination(context, dest) {
         }
       }
 
+      // House rule: never use em-dashes in content
+      petPolicy = petPolicy.replace(/—/g, ',')
+
       const priceFrom = card.price > 0 ? card.price : 120
       const feeMatch = petPolicy.match(/€\s*(\d+)|(\d+)\s*€/)
       const petFee = feeMatch ? parseInt(feeMatch[1] || feeMatch[2]) : 0
 
       hotels.push({
         id,
+        slug: uniqueSlug(card.name, usedSlugs),
         name: card.name,
         destinationSlug: dest.slug,
         categories: inferCategories(petPolicy, highlights, stars, priceFrom),
@@ -459,7 +482,11 @@ async function main() {
   try {
     for (let i = 0; i < targets.length; i++) {
       const dest = targets[i]
-      const scraped = await scrapeDestination(context, dest)
+      // Slugs already in use, excluding this dest's hotels (they get replaced below)
+      const usedSlugs = new Set(
+        allHotels.filter(h => h.destinationSlug !== dest.slug && h.slug).map(h => h.slug)
+      )
+      const scraped = await scrapeDestination(context, dest, usedSlugs)
 
       if (scraped.length > 0) {
         allHotels = [

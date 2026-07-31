@@ -9709,6 +9709,235 @@
     "petPolicyPt": "Holiday Inn Brighton Seafront welcomes cães para £15 por noite plus um £40 refundable depósito por estadia. cães apenas, gatos são não aceites. animais são restricted para designated cão-friendly quartos."
   },
   {
+    "id": "brisbane-1",
+    "slug": "point-hotel-brisbane",
+    "name": "Point Hotel",
+    "destinationSlug": "brisbane",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.4,
+    "reviewCount": 2653,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/the-point-brisbane.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "24-hour front desk"
+    ],
+    "petPolicyFr": "Chiens et chats bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros y gatos bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos bem-vindos; confirme o tamanho, o número e qualquer suplemento por animal junto do alojamento na reserva."
+  },
+  {
+    "id": "brisbane-2",
+    "slug": "hyatt-regency-brisbane-brisbane",
+    "name": "Hyatt Regency Brisbane",
+    "destinationSlug": "brisbane",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 2356,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/next-brisbane.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "petPolicyFr": "Chiens et chats bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros y gatos bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos bem-vindos; confirme o tamanho, o número e qualquer suplemento por animal junto do alojamento na reserva."
+  },
+  {
+    "id": "brisbane-3",
+    "slug": "stamford-plaza-brisbane-brisbane",
+    "name": "Stamford Plaza Brisbane",
+    "destinationSlug": "brisbane",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 6485,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/stamford-plaza-brisbane.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Parking",
+      "Free WiFi"
+    ],
+    "address": "Corner of Edward Street & Margaret Street, Brisbane CBD, 4000 Brisbane, Australia",
+    "petPolicyFr": "Chiens et chats bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros y gatos bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos bem-vindos; confirme o tamanho, o número e qualquer suplemento por animal junto do alojamento na reserva."
+  },
+  {
+    "id": "brisbane-4",
+    "slug": "the-star-grand-brisbane-brisbane",
+    "name": "The Star Grand Brisbane",
+    "destinationSlug": "brisbane",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1745,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/the-star-grand-brisbane.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Parking on site",
+      "Free WiFi"
+    ],
+    "address": "33 William Street, Brisbane CBD, 4000 Brisbane, Australia",
+    "petPolicyFr": "Chiens et chats bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros y gatos bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos bem-vindos; confirme o tamanho, o número e qualquer suplemento por animal junto do alojamento na reserva."
+  },
+  {
+    "id": "brisbane-5",
+    "slug": "emporium-hotel-south-bank-brisbane",
+    "name": "Emporium Hotel South Bank",
+    "destinationSlug": "brisbane",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 2372,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/emporium-south-bank.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "address": "267 Grey Street, South Brisbane, 4101 Brisbane, Australia",
+    "petPolicyFr": "Chiens et chats bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros y gatos bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos bem-vindos; confirme o tamanho, o número e qualquer suplemento por animal junto do alojamento na reserva."
+  },
+  {
+    "id": "brisbane-6",
+    "slug": "amora-hotel-brisbane-brisbane",
+    "name": "Amora Hotel Brisbane",
+    "destinationSlug": "brisbane",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 4629,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/brisbane.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Parking on site",
+      "Free WiFi"
+    ],
+    "petPolicyFr": "Chiens et chats bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros y gatos bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos bem-vindos; confirme o tamanho, o número e qualquer suplemento por animal junto do alojamento na reserva."
+  },
+  {
+    "id": "brisbane-7",
+    "slug": "meriton-suites-herschel-street-brisbane-brisbane",
+    "name": "Meriton Suites Herschel Street, Brisbane",
+    "destinationSlug": "brisbane",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 6858,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/meriton-serviced-apartments-brisbane-herschel-street.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "address": "43 Herschel Street, Brisbane CBD, 4000 Brisbane, Australia",
+    "petPolicyFr": "Chiens et chats bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros y gatos bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos bem-vindos; confirme o tamanho, o número e qualquer suplemento por animal junto do alojamento na reserva."
+  },
+  {
+    "id": "brisbane-8",
+    "slug": "treasury-brisbane-brisbane",
+    "name": "Treasury Brisbane",
+    "destinationSlug": "brisbane",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 2203,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/au/treasury-casino-brisbane.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm size limits, numbers and any pet fee with the property when booking.",
+    "highlights": [
+      "Parking on site",
+      "Free WiFi",
+      "24-hour front desk"
+    ],
+    "address": "130 William St, Brisbane CBD, 4001 Brisbane, Australia",
+    "petPolicyFr": "Chiens et chats bienvenus ; confirmez la taille, le nombre et tout supplément animal avec l'établissement à la réservation.",
+    "petPolicyEs": "Perros y gatos bienvenidos; confirma el tamaño, el número y cualquier suplemento por mascota con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos bem-vindos; confirme o tamanho, o número e qualquer suplemento por animal junto do alojamento na reserva."
+  },
+  {
     "id": "bristol-1",
     "name": "Central One-Bedroom Apartment",
     "destinationSlug": "bristol",

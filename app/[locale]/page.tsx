@@ -11,6 +11,7 @@ import FeaturedCombos from '@/components/home/FeaturedCombos'
 import PopularSearches from '@/components/home/PopularSearches'
 import PetTravelTips from '@/components/home/PetTravelTips'
 import TopHotels from '@/components/home/TopHotels'
+import HomeFaq from '@/components/home/HomeFaq'
 import { SITE_URL } from '@/lib/site'
 
 export async function generateStaticParams() {
@@ -22,16 +23,16 @@ export async function generateMetadata({ params }: PageProps<'/[locale]'>): Prom
   if (!hasLocale(locale)) return {}
 
   const titles: Record<string, string> = {
-    en: 'Pet-friendly hotels in Europe: 800+ verified, with real pet policies | HotelsWithPets',
-    fr: 'Hôtels acceptant les animaux en Europe : 800+ vérifiés, vraies politiques animaux | HotelsWithPets',
-    es: 'Hoteles que admiten mascotas en Europa: 800+ verificados, con políticas reales | HotelsWithPets',
-    pt: 'Hotéis que aceitam animais na Europa: 800+ verificados, políticas reais | HotelsWithPets',
+    en: 'Dog-Friendly Hotels in Europe: 2,400+ Verified, Real Pet Policies | HotelsWithPets',
+    fr: 'Hôtels acceptant les chiens en Europe : 2 400+ vérifiés, vraies politiques animaux | HotelsWithPets',
+    es: 'Hoteles que admiten perros en Europa: 2.400+ verificados, políticas reales | HotelsWithPets',
+    pt: 'Hotéis que aceitam cães na Europa: 2.400+ verificados, políticas reais | HotelsWithPets',
   }
   const descriptions: Record<string, string> = {
-    en: 'Trip planning for owners travelling with dogs or cats: 800+ pet-friendly hotels across 137 European cities, with verified policies (not just "pets allowed"), city guides, emergency vets, transport rules. Free to use.',
-    fr: 'Planifier un voyage avec son chien ou son chat : 800+ hôtels pet-friendly dans 137 villes européennes, politiques animaux vérifiées (pas juste « animaux acceptés »), guides ville, vétos d\'urgence, règles transport. Gratuit.',
-    es: 'Planificar un viaje con tu perro o gato: 800+ hoteles pet-friendly en 137 ciudades europeas, políticas verificadas (no solo "mascotas admitidas"), guías de ciudad, vetes de urgencia, normas de transporte. Gratis.',
-    pt: 'Planeamento de viagem com o seu cão ou gato: 800+ hotéis pet-friendly em 137 cidades europeias, políticas verificadas (não só "animais aceites"), guias de cidade, vetes de urgência, regras de transporte. Grátis.',
+    en: 'Find dog-friendly hotels across 400+ European destinations: 2,400+ hotels with verified pet policies (not just "pets allowed"), real guest ratings, city guides, emergency vets and transport rules. Free trip planning for travelling with your dog or cat.',
+    fr: 'Trouvez des hôtels acceptant les chiens dans plus de 400 destinations européennes : 2 400+ hôtels aux politiques animaux vérifiées (pas juste « animaux acceptés »), avis réels, guides ville, vétos d\'urgence, règles de transport. Planification gratuite pour voyager avec votre chien ou chat.',
+    es: 'Encuentra hoteles que admiten perros en más de 400 destinos europeos: 2.400+ hoteles con políticas verificadas (no solo "mascotas admitidas"), opiniones reales, guías de ciudad, veterinarios de urgencia y normas de transporte. Planificación gratis para viajar con tu perro o gato.',
+    pt: 'Encontre hotéis que aceitam cães em mais de 400 destinos europeus: 2.400+ hotéis com políticas verificadas (não só "animais aceites"), avaliações reais, guias de cidade, veterinários de urgência e regras de transporte. Planeamento gratuito para viajar com o seu cão ou gato.',
   }
 
   const title = titles[locale] ?? titles.en
@@ -71,7 +72,7 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
     name: 'HotelsWithPets',
     alternateName: 'HotelsWithPets.com',
     url: SITE_URL,
-    description: '800+ pet-friendly hotels across 137 European cities. Handpicked, verified pet policies, real guest ratings, and city guides for travelling with your dog or cat.',
+    description: '2,400+ dog-friendly and pet-friendly hotels across 400+ European destinations. Handpicked, verified pet policies, real guest ratings, and city guides for travelling with your dog or cat.',
     inLanguage: ['en', 'fr', 'es', 'pt'],
     publisher: {
       '@type': 'Organization',
@@ -90,7 +91,7 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
       '@type': 'ImageObject',
       url: `${SITE_URL}/favicon.ico`,
     },
-    description: 'A trip-planning platform for travellers with pets: 800+ verified pet-friendly hotels across 137 destinations, city guides, emergency-vet directories, and transport rules.',
+    description: 'A trip-planning platform for travellers with pets: 2,400+ verified dog-friendly and pet-friendly hotels across 400+ destinations, city guides, emergency-vet directories, and transport rules.',
     foundingDate: '2026',
     areaServed: ['Europe', 'United States'],
     knowsLanguage: ['en', 'fr', 'es', 'pt'],
@@ -143,6 +144,7 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
       <DestinationsGrid locale={locale as Locale} dict={dict} />
       <FeaturedCombos locale={locale as Locale} dict={dict} />
       <PetTravelTips locale={locale as Locale} />
+      <HomeFaq locale={locale as Locale} />
       <PopularSearches locale={locale as Locale} />
     </>
   )

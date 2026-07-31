@@ -4893,6 +4893,81 @@
     "tiqetsId": "67570"
   },
   {
+    "slug": "brisbane",
+    "name": "Brisbane",
+    "country": "Australia",
+    "countryCode": "AU",
+    "flag": "🇦🇺",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/brisbane.jpg",
+    "intro": "Brisbane pairs a subtropical outdoor lifestyle with Australia's most dog-friendly river: CityCat ferries take leashed, muzzled dogs off-peak, and more than 160 council off-leash areas ring the city.",
+    "lat": -27.4698,
+    "lng": 153.0251,
+    "weather": {
+      "jan": {
+        "temp": 30,
+        "desc": "Hot & stormy",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 30,
+        "desc": "Hot & humid",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 29,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 27,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 24,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 21,
+        "desc": "Mild & dry",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Mild & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 23,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 25,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 27,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 28,
+        "desc": "Warm & humid",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 29,
+        "desc": "Hot & stormy",
+        "icon": "🌦️"
+      }
+    },
+    "iata": "BNE"
+  },
+  {
     "slug": "bristol",
     "name": "Bristol",
     "country": "United Kingdom",

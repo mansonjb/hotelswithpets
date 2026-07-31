@@ -11,23 +11,26 @@ interface TopHotelsProps {
 }
 
 export default function TopHotels({ locale }: TopHotelsProps) {
-  // Get top 6 hotels by rating (with reviewCount > 200 for reliability)
-  const topHotels = [...hotels]
-    .filter(h => h.reviewCount > 200)
-    .sort((a, b) => b.rating - a.rating || b.reviewCount - a.reviewCount)
-    .slice(0, 6)
+  // Hand-picked showcase of iconic five-star pet-friendly stays, each verified
+  // for a genuinely beautiful hero image (a Marrakech palace, a Capri cliff
+  // villa, a Budapest grand hotel...). Curated by id rather than sorted by
+  // rating, because a raw rating sort surfaces tiny guesthouses with placeholder
+  // prices and weak photos. Real hotels.json data is pulled by id below.
+  const CURATED_IDS = ['marrakech-1', 'capri-2', 'budapest-3', 'porto-3', 'kazbegi-1', 'venice-3']
+  const byId = new Map(hotels.map((h) => [h.id, h]))
+  const topHotels = CURATED_IDS.map((id) => byId.get(id)).filter((h): h is (typeof hotels)[number] => Boolean(h))
 
   const headings: Record<string, string> = {
-    en: 'Top-Rated Pet-Friendly Hotels',
-    fr: 'Hôtels Pet-Friendly les Mieux Notés',
-    es: 'Hoteles Pet-Friendly Mejor Valorados',
-    pt: 'Hotéis Pet-Friendly Mais Bem Avaliados',
+    en: 'The world\'s most beautiful pet-friendly hotels',
+    fr: 'Les plus beaux hôtels du monde qui acceptent les animaux',
+    es: 'Los hoteles más bonitos del mundo que admiten mascotas',
+    pt: 'Os hotéis mais bonitos do mundo que aceitam animais',
   }
   const subheadings: Record<string, string> = {
-    en: 'Highest guest scores among our verified pet-friendly properties',
-    fr: 'Meilleurs scores clients parmi nos hôtels pet-friendly vérifiés',
-    es: 'Las mejores puntuaciones entre nuestros hoteles pet-friendly verificados',
-    pt: 'As melhores avaliações entre os nossos hotéis pet-friendly verificados',
+    en: 'A handpicked selection of five-star stays, from a Marrakech palace to a Capri cliffside villa, where your dog is welcome too.',
+    fr: 'Une sélection de cinq-étoiles triés sur le volet, d\'un palace de Marrakech à une villa perchée sur les falaises de Capri, où votre chien est lui aussi le bienvenu.',
+    es: 'Una selección de cinco estrellas elegidos con esmero, de un palacio en Marrakech a una villa sobre los acantilados de Capri, donde tu perro también es bienvenido.',
+    pt: 'Uma seleção de cinco estrelas escolhidos a dedo, de um palácio em Marraquexe a uma villa sobre as falésias de Capri, onde o seu cão também é bem-vindo.',
   }
   const bookLabel: Record<string, string> = {
     en: 'Book',

@@ -11,6 +11,7 @@ import FeaturedCombos from '@/components/home/FeaturedCombos'
 import PopularSearches from '@/components/home/PopularSearches'
 import PetTravelTips from '@/components/home/PetTravelTips'
 import TopHotels from '@/components/home/TopHotels'
+import HomeSeoContent from '@/components/home/HomeSeoContent'
 import HomeFaq from '@/components/home/HomeFaq'
 import { SITE_URL } from '@/lib/site'
 
@@ -144,6 +145,7 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
       <DestinationsGrid locale={locale as Locale} dict={dict} />
       <FeaturedCombos locale={locale as Locale} dict={dict} />
       <PetTravelTips locale={locale as Locale} />
+      <HomeSeoContent locale={locale as Locale} />
       <HomeFaq locale={locale as Locale} />
       <PopularSearches locale={locale as Locale} />
     </>

@@ -44,14 +44,14 @@ const COPY: Record<Locale, Copy> = {
   fr: {
     heading: 'Hôtels acceptant les chiens en Europe : ce qu\'il faut savoir avant de réserver',
     intro:
-      'Un hôtel qui accepte vraiment les chiens ne se contente pas de tolérer votre animal, il l\'accueille pour de vrai. Nous référençons plus de 2 400 hôtels pour chiens et animaux dans plus de 400 destinations européennes, chacun avec une politique vérifiée : la vraie limite de poids, le montant exact du supplément, si le chien peut rester seul en chambre, et où se trouve le parc ou la plage canine la plus proche. Chaque fiche renvoie directement vers Booking.com, au même tarif, avec votre chien inscrit sur la réservation.',
+      'Un hôtel qui accepte vraiment les chiens ne se contente pas de tolérer votre animal, il l\'accueille pour de vrai. Nous référençons plus de 2 400 hôtels acceptant chiens et animaux dans plus de 400 destinations européennes, chacun avec une politique vérifiée : la vraie limite de poids, le montant exact du supplément, si le chien peut rester seul en chambre, et où se trouve le parc ou la plage canine la plus proche. Chaque fiche renvoie directement vers Booking.com, au même tarif, avec votre chien inscrit sur la réservation.',
     faqs: [
       {
         q: 'Qu\'est-ce qui rend un hôtel vraiment adapté aux chiens ?',
         a: 'Un hôtel vraiment adapté aux chiens affiche clairement sa politique : nombre de chiens admis, limites de poids ou de race éventuelles, montant du supplément par nuit ou par séjour, et zones accessibles aux chiens. Nous vérifions chaque point plutôt que de nous fier à une simple mention « animaux acceptés ».',
       },
       {
-        q: 'Les hôtels pour chiens font-ils payer un supplément ?',
+        q: 'Les hôtels qui acceptent les chiens font-ils payer un supplément ?',
         a: 'Beaucoup appliquent un supplément, d\'un petit forfait ménage par nuit à un montant par séjour, mais de plus en plus laissent le chien séjourner gratuitement. Chaque fiche indique le supplément exact que nous avons vérifié, et vous pouvez filtrer les hôtels où le chien séjourne gratuitement.',
       },
       {
@@ -63,7 +63,7 @@ const COPY: Record<Locale, Copy> = {
         a: 'Cela dépend de l\'hôtel : certains limitent à 10 kg, d\'autres accueillent les grandes races et plusieurs chiens. Chaque fiche indique la limite de poids et le nombre de chiens admis, pour que vous puissiez filtrer selon votre chien.',
       },
       {
-        q: 'Quelles villes européennes ont le plus d\'hôtels pour chiens ?',
+        q: 'Quelles villes européennes ont le plus d\'hôtels acceptant les chiens ?',
         a: 'Les grandes villes pet-friendly arrivent en tête, avec un large choix à Paris, Barcelone, Amsterdam, Rome et Berlin, sans oublier les spots au bord des lacs et de la mer où le chien peut se baigner. Parcourez toutes les destinations pour comparer la densité d\'hôtels, les parcs et les plages canines.',
       },
     ],

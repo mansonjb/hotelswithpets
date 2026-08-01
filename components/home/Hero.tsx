@@ -54,10 +54,10 @@ const POPULAR_CITIES = [
 const QUICK_CATS = ['dog-friendly', 'cat-friendly', 'luxury', 'beach-access', 'dogs-stay-free', 'near-parks']
 
 const HEADLINES: Record<string, { line1: string; line2: string }> = {
-  fr: { line1: 'Hôtels pour chiens', line2: 'à la hauteur de votre meilleur ami.' },
+  fr: { line1: 'Partez en vacances avec votre animal,', line2: 'dans les meilleurs hôtels.' },
   en: { line1: 'Dog-friendly hotels', line2: 'your best friend deserves.' },
-  es: { line1: 'Hoteles para perros', line2: 'a la altura de tu mejor amigo.' },
-  pt: { line1: 'Hotéis para cães', line2: 'à altura do seu melhor amigo.' },
+  es: { line1: 'De vacaciones con tu mascota,', line2: 'en los mejores hoteles.' },
+  pt: { line1: 'De férias com o seu animal,', line2: 'nos melhores hotéis.' },
 }
 
 const REVIEW: Record<string, { text: string; author: string }> = {

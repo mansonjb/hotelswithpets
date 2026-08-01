@@ -431,6 +431,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Gasteiner Wasserfall platforms, the Stubnerkogel suspension bridge, and the Kötschachtal valley trail to the Prossau`,
       area: `the historic centre around the waterfall, the Kaiser-Wilhelm-Promenade above town, and Böckstein towards Sportgastein`,
     },
+    'bad-ischl': {
+      personality: `the imperial spa town where Emperor Franz Joseph spent 82 summers, with the Kaiservilla's leashed-dog-friendly Kaiserpark, a Katrin cable car that carries dogs free with muzzle and leash to 1,400 m, and a flat riverside Esplanade for an easy daily walk`,
+      highlight: `the Kaiserpark grounds around the Kaiservilla, the Katrin cable car and its alpine trails, and the Trinkhalle promenade along the Traun`,
+      area: `the old town around the Trinkhalle and Esplanade, the Kaiserpark district, and the station quarter towards Götzstraße`,
+    },
     barcelona: {
       personality: 'a Mediterranean city where pet ownership is high and hotels are catching up',
       highlight: 'Parc de la Ciutadella, Poblenou beach, and the Collserola hills',
@@ -2479,6 +2484,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `les plateformes du Gasteiner Wasserfall, le pont suspendu du Stubnerkogel et le sentier du Kötschachtal vers la Prossau`,
       area: `le centre historique autour de la cascade, la Kaiser-Wilhelm-Promenade au-dessus de la ville et Böckstein vers Sportgastein`,
     },
+    'bad-ischl': {
+      personality: `la ville thermale impériale où l'empereur François-Joseph passa 82 étés, avec le Kaiserpark de la Kaiservilla accueillant les chiens en laisse, une télécabine du Katrin qui transporte gratuitement les chiens muselés et en laisse jusqu'à 1 400 m, et une Esplanade plate au bord de la rivière pour une promenade quotidienne facile`,
+      highlight: `le domaine du Kaiserpark autour de la Kaiservilla, la télécabine du Katrin et ses sentiers alpins, et la promenade de la Trinkhalle le long de la Traun`,
+      area: `la vieille ville autour de la Trinkhalle et de l'Esplanade, le quartier du Kaiserpark, et le quartier de la gare vers la Götzstraße`,
+    },
     barcelona: {
       personality: 'une ville méditerranéenne où la possession d\'animaux est élevée et les hôtels s\'y adaptent',
       highlight: 'le Parc de la Ciutadella, la plage de Poblenou et les collines du Collserola',
@@ -4526,6 +4536,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `las plataformas del Gasteiner Wasserfall, el puente colgante del Stubnerkogel y el sendero del Kötschachtal hasta la Prossau`,
       area: `el centro histórico en torno a la cascada, la Kaiser-Wilhelm-Promenade sobre el pueblo y Böckstein hacia Sportgastein`,
     },
+    'bad-ischl': {
+      personality: `la ciudad balneario imperial donde el emperador Francisco José pasó 82 veranos, con el Kaiserpark de la Kaiservilla que admite perros con correa, un teleférico del Katrin que transporta gratis a los perros con bozal y correa hasta los 1.400 m, y una Esplanade llana junto al río para un paseo diario fácil`,
+      highlight: `el recinto del Kaiserpark en torno a la Kaiservilla, el teleférico del Katrin y sus senderos alpinos, y el paseo de la Trinkhalle junto al Traun`,
+      area: `el casco antiguo en torno a la Trinkhalle y la Esplanade, el barrio del Kaiserpark, y el barrio de la estación hacia la Götzstraße`,
+    },
     barcelona: {
       personality: 'una ciudad mediterránea donde la tenencia de mascotas es alta y los hoteles se están adaptando',
       highlight: 'el Parque de la Ciutadella, la playa de Poblenou y las colinas del Collserola',
@@ -6572,6 +6587,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma cidade termal Belle Époque em socalcos sobre uma cascata de 341 m nos Hohe Tauern, onde a gôndola do Stubnerkogel leva os cães a uma ponte suspensa a 2.246 m por 5 EUR, o trilho plano do Kötschachtal passa por duas cabanas que aceitam cães, e hotéis especializados oferecem dog-sitting durante os tratamentos termais`,
       highlight: `as plataformas do Gasteiner Wasserfall, a ponte suspensa do Stubnerkogel e o trilho do Kötschachtal até à Prossau`,
       area: `o centro histórico em redor da cascata, a Kaiser-Wilhelm-Promenade acima da vila e Böckstein em direção a Sportgastein`,
+    },
+    'bad-ischl': {
+      personality: `a cidade termal imperial onde o imperador Francisco José passou 82 verões, com o Kaiserpark da Kaiservilla a receber cães presos pela trela, um teleférico do Katrin que transporta gratuitamente os cães com açaime e trela até aos 1.400 m, e uma Esplanade plana junto ao rio para um passeio diário fácil`,
+      highlight: `o recinto do Kaiserpark em torno da Kaiservilla, o teleférico do Katrin e os seus trilhos alpinos, e o passeio da Trinkhalle ao longo do Traun`,
+      area: `a cidade velha em torno da Trinkhalle e da Esplanade, o bairro do Kaiserpark, e o bairro da estação em direção à Götzstraße`,
     },
     barcelona: {
       personality: 'uma cidade mediterrânea onde a tenencia de animais é alta e os hotéis se estão adaptando',

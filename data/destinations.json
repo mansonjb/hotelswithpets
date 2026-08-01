@@ -2033,6 +2033,81 @@
     }
   },
   {
+    "slug": "bad-ischl",
+    "name": "Bad Ischl",
+    "country": "Austria",
+    "countryCode": "AT",
+    "flag": "🇦🇹",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/bad-ischl.jpg",
+    "iata": "SZG",
+    "intro": "The imperial spa town where Emperor Franz Joseph spent 82 summers is an easy, walkable base for a dog: the Kaiserpark grounds around the Kaiservilla welcome leashed dogs (though not the villa's furnished rooms), the Katrin cable car carries them free with muzzle and leash to alpine trails at 1,400 m, and the flat Esplanade along the Traun river gives a shaded daily stroll. There is no lake in town itself, but a verified dog bathing spot on the Hallstättersee is about 30 minutes away.",
+    "lat": 47.7111,
+    "lng": 13.6189,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 0,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Mild & changeable",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Mild & green",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 17,
+        "desc": "Warm & lush",
+        "icon": "⛅"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 9,
+        "desc": "Cool & misty",
+        "icon": "🌫️"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 0,
+        "desc": "Cold & snowy",
+        "icon": "❄️"
+      }
+    }
+  },
+  {
     "slug": "bakewell",
     "name": "Bakewell",
     "country": "United Kingdom",

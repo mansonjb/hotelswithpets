@@ -1,0 +1,1035 @@
+{
+  "slug": "bad-ischl",
+  "name": "Bad Ischl",
+  "country": "Austria",
+  "flag": "🇦🇹",
+  "lastUpdated": "2026-08-01",
+  "guides": {
+    "restaurants": {
+      "titleEn": "Dog-Friendly Restaurants in Bad Ischl",
+      "titleFr": "Restaurants acceptant les chiens à Bad Ischl",
+      "titleEs": "Restaurantes que admiten perros en Bad Ischl",
+      "titlePt": "Restaurantes que aceitam cães em Bad Ischl",
+      "introEn": "Bad Ischl's imperial-era cafes and traditional Gasthäuser are used to well-behaved dogs at outdoor tables, and several keep a shaded courtyard or beer garden open all season.",
+      "introFr": "Les cafés d'époque impériale et les auberges traditionnelles de Bad Ischl ont l'habitude des chiens bien éduqués en terrasse, et plusieurs disposent d'une cour ombragée ou d'un jardin de bière ouvert toute la saison.",
+      "introEs": "Los cafés de época imperial y las tabernas tradicionales de Bad Ischl están acostumbrados a los perros bien educados en las mesas de la terraza, y varios mantienen un patio con sombra o un jardín de cerveza abierto toda la temporada.",
+      "introPt": "Os cafés de época imperial e as tabernas tradicionais de Bad Ischl estão habituados a cães bem-educados nas mesas da esplanada, e vários mantêm um pátio com sombra ou um jardim de cerveja aberto durante toda a época.",
+      "places": [
+        {
+          "name": "Café-Konditorei Zauner",
+          "address": "Pfarrgasse 7, 4820 Bad Ischl",
+          "neighborhood": "Old Town",
+          "photo": "/images/city-places/bad-ischl-restaurants-zauner.jpg",
+          "website": "https://zauner.at",
+          "description": "Austria's most famous imperial pastry house since 1832, with a sunny outdoor terrace where dogs are warmly welcomed alongside the Sacher torte and Ischler Krapferl.",
+          "descriptionFr": "La plus célèbre pâtisserie impériale d'Autriche depuis 1832, avec une terrasse ensoleillée où les chiens sont chaleureusement accueillis à côté de la Sachertorte et des Ischler Krapferl.",
+          "descriptionEs": "La pastelería imperial más famosa de Austria desde 1832, con una terraza soleada donde los perros son bienvenidos junto a la tarta Sacher y los Ischler Krapferl.",
+          "descriptionPt": "A mais famosa pastelaria imperial da Áustria desde 1832, com uma esplanada soalheira onde os cães são calorosamente bem-vindos ao lado da tarte Sacher e dos Ischler Krapferl.",
+          "petPolicy": "Dogs welcome on the outdoor terrace; please keep them leashed and off the chairs.",
+          "petPolicyFr": "Chiens acceptés en terrasse ; gardez-les en laisse et hors des chaises.",
+          "petPolicyEs": "Perros admitidos en la terraza; manténgalos con correa y fuera de las sillas.",
+          "petPolicyPt": "Cães aceites na esplanada; mantenha-os presos pela trela e fora das cadeiras.",
+          "priceRange": "€€",
+          "mustTry": "Zaunerstollen and the original Ischler Krapferl (hazelnut biscuits with apricot jam)",
+          "mustTryFr": "Le Zaunerstollen et l'Ischler Krapferl original (biscuits noisette à la confiture d'abricot)",
+          "mustTryEs": "El Zaunerstollen y el Ischler Krapferl original (galletas de avellana con mermelada de albaricoque)",
+          "mustTryPt": "O Zaunerstollen e o Ischler Krapferl original (biscoitos de avelã com compota de damasco)",
+          "openingHours": "Daily 8:30-18:00",
+          "tip": "Arrive before 10am in summer to get a terrace table without a wait.",
+          "tipFr": "Arrivez avant 10h en été pour avoir une table en terrasse sans attente.",
+          "tipEs": "Llegue antes de las 10h en verano para conseguir mesa en la terraza sin espera.",
+          "tipPt": "Chegue antes das 10h no verão para conseguir uma mesa na esplanada sem espera.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Zauner+Pfarrgasse+7+Bad+Ischl"
+        },
+        {
+          "name": "k.u.k. Hofwirt zu Ischl",
+          "address": "Wirer Straße 2, 4820 Bad Ischl",
+          "neighborhood": "Town centre",
+          "photo": "/images/city-places/bad-ischl-restaurants-hofwirt.jpg",
+          "website": "",
+          "description": "A cosy tavern with Bavarian woodcraft furnishings and a beer garden, serving hearty Austrian home cooking and steaks; pets are explicitly welcomed by the owners.",
+          "descriptionFr": "Une auberge chaleureuse aux boiseries bavaroises et jardin de bière, servant une cuisine autrichienne généreuse et des steaks ; les animaux sont explicitement les bienvenus.",
+          "descriptionEs": "Una taberna acogedora con maderas bávaras y jardín de cerveza, que sirve una generosa cocina casera austriaca y filetes; las mascotas son explícitamente bienvenidas.",
+          "descriptionPt": "Uma taberna acolhedora com madeiras bávaras e jardim de cerveja, servindo generosa cozinha caseira austríaca e bifes; os animais são explicitamente bem-vindos.",
+          "petPolicy": "Pets are warmly welcomed (\"Haustiere sind herzlich willkommen\") in the beer garden and dining room.",
+          "petPolicyFr": "Les animaux sont chaleureusement accueillis (« Haustiere sind herzlich willkommen ») au jardin de bière et en salle.",
+          "petPolicyEs": "Las mascotas son calurosamente bienvenidas (« Haustiere sind herzlich willkommen ») en el jardín de cerveza y el comedor.",
+          "petPolicyPt": "Os animais são calorosamente bem-vindos (« Haustiere sind herzlich willkommen ») no jardim de cerveja e na sala.",
+          "priceRange": "€€",
+          "mustTry": "Wiener Schnitzel and the seasonal Schweinsbraten",
+          "mustTryFr": "La Wiener Schnitzel et le Schweinsbraten de saison",
+          "mustTryEs": "El Wiener Schnitzel y el Schweinsbraten de temporada",
+          "mustTryPt": "O Wiener Schnitzel e o Schweinsbraten sazonal",
+          "openingHours": "Daily from 11:00, closed Tuesdays",
+          "tip": "The beer garden has a water bowl out for dogs on hot days.",
+          "tipFr": "Le jardin de bière met une gamelle d'eau à disposition des chiens par temps chaud.",
+          "tipEs": "El jardín de cerveza pone un cuenco de agua para los perros en días calurosos.",
+          "tipPt": "O jardim de cerveja disponibiliza uma taça de água para os cães em dias quentes.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=k.u.k.+Hofwirt+zu+Ischl+Wirer+Strasse+2+Bad+Ischl"
+        },
+        {
+          "name": "Hubertushof Bad Ischl",
+          "address": "Götzstraße 1, 4820 Bad Ischl",
+          "neighborhood": "Near the station",
+          "photo": "/images/city-places/bad-ischl-restaurants-hubertushof.jpg",
+          "website": "",
+          "description": "A dog-friendly Gasthof, cafe and bar combined, built around a quiet courtyard beer garden, serving traditional Austrian dishes made from regional produce.",
+          "descriptionFr": "Un Gasthof, café et bar réunis, reconnu comme accueillant pour les chiens, organisé autour d'une cour-jardin de bière tranquille, servant des plats autrichiens traditionnels à base de produits régionaux.",
+          "descriptionEs": "Un Gasthof, café y bar combinados, reconocido como apto para perros, organizado en torno a un tranquilo patio-jardín de cerveza, con platos tradicionales austriacos elaborados con productos de la región.",
+          "descriptionPt": "Um Gasthof, café e bar combinados, reconhecido como aceitando cães, organizado em torno de um tranquilo pátio-jardim de cerveja, com pratos tradicionais austríacos feitos com produtos regionais.",
+          "petPolicy": "Described by local guides as \"hundefreundlich\" (dog-friendly); leashed dogs welcome in the courtyard garden.",
+          "petPolicyFr": "Décrit par les guides locaux comme « hundefreundlich » (accueillant pour les chiens) ; chiens en laisse bienvenus dans la cour-jardin.",
+          "petPolicyEs": "Descrito por las guías locales como « hundefreundlich » (apto para perros); perros con correa bienvenidos en el patio-jardín.",
+          "petPolicyPt": "Descrito pelos guias locais como « hundefreundlich » (aceita cães); cães presos pela trela bem-vindos no pátio-jardim.",
+          "priceRange": "€€",
+          "mustTry": "Kalbsbeuscherl (calf's brain ragout) and the weekend Schweinsbraten",
+          "mustTryFr": "Le Kalbsbeuscherl (ragoût de cervelle de veau) et le Schweinsbraten du week-end",
+          "mustTryEs": "El Kalbsbeuscherl (ragú de sesos de ternera) y el Schweinsbraten de fin de semana",
+          "mustTryPt": "O Kalbsbeuscherl (ragu de miolos de vitela) e o Schweinsbraten de fim de semana",
+          "openingHours": "Daily from 11:30",
+          "tip": "Ask for a courtyard table; it is quieter and shadier than the street-front seats.",
+          "tipFr": "Demandez une table dans la cour, plus calme et plus ombragée que les places côté rue.",
+          "tipEs": "Pida una mesa en el patio, más tranquila y con más sombra que las de la calle.",
+          "tipPt": "Peça uma mesa no pátio, mais tranquila e com mais sombra do que as da rua.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hubertushof+Goetzstrasse+1+Bad+Ischl"
+        }
+      ],
+      "tipsEn": [
+        "Most Bad Ischl Gasthäuser are used to dogs but table service is on the terrace only, not indoors, during busy summer weekends.",
+        "Carry a foldable bowl; Austrian cafes rarely bring water unasked, though most will do so if you ask.",
+        "Sunday lunch (12:00-14:00) is the busiest slot in the old town; arrive earlier for a shaded outdoor table."
+      ],
+      "tipsFr": [
+        "La plupart des Gasthäuser de Bad Ischl sont habitués aux chiens, mais le service se fait uniquement en terrasse, pas en salle, les week-ends d'été très fréquentés.",
+        "Emportez une gamelle pliable ; les cafés autrichiens apportent rarement de l'eau sans qu'on la demande, mais la plupart le font volontiers si on la demande.",
+        "Le déjeuner du dimanche (12h-14h) est le créneau le plus chargé dans la vieille ville ; arrivez plus tôt pour une table ombragée en terrasse."
+      ],
+      "tipsEs": [
+        "La mayoría de los Gasthäuser de Bad Ischl están acostumbrados a los perros, pero el servicio es solo en la terraza, no en el interior, los fines de semana de verano más concurridos.",
+        "Lleve un cuenco plegable; los cafés austriacos rara vez traen agua sin que se la pidan, aunque la mayoría lo hace con gusto si se solicita.",
+        "El almuerzo del domingo (12:00-14:00) es el momento más concurrido en el casco antiguo; llegue antes para conseguir una mesa con sombra en la terraza."
+      ],
+      "tipsPt": [
+        "A maioria dos Gasthäuser de Bad Ischl está habituada a cães, mas o serviço é feito apenas na esplanada, não no interior, nos fins de semana de verão mais concorridos.",
+        "Leve uma taça dobrável; os cafés austríacos raramente trazem água sem que se peça, embora a maioria o faça de bom grado se solicitado.",
+        "O almoço de domingo (12h00-14h00) é o horário mais concorrido na cidade velha; chegue mais cedo para conseguir uma mesa com sombra na esplanada."
+      ],
+      "faqsEn": [
+        {
+          "q": "Are dogs allowed inside restaurants in Bad Ischl?",
+          "a": "It varies by venue: most welcome dogs on the outdoor terrace or in the beer garden year-round, while indoor dining rooms are at the owner's discretion. All three restaurants above confirm dogs are welcome outdoors."
+        },
+        {
+          "q": "Do I need to muzzle my dog in a restaurant?",
+          "a": "No, Austria's public-transport muzzle rule does not apply to restaurant terraces. A calm, leashed dog under the table is standard practice."
+        },
+        {
+          "q": "Is there a dog menu or dog treats offered?",
+          "a": "Not formally, but several Gasthäuser set out a water bowl for dogs in summer; ask staff if none is visible."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens sont-ils admis à l'intérieur des restaurants à Bad Ischl ?",
+          "a": "Cela dépend de l'établissement : la plupart accueillent les chiens en terrasse ou au jardin de bière toute l'année, tandis que la salle intérieure reste à la discrétion du propriétaire. Les trois restaurants ci-dessus confirment accueillir les chiens en extérieur."
+        },
+        {
+          "q": "Dois-je museler mon chien dans un restaurant ?",
+          "a": "Non, l'obligation de muselière dans les transports publics autrichiens ne s'applique pas aux terrasses de restaurant. Un chien calme et tenu en laisse sous la table est l'usage courant."
+        },
+        {
+          "q": "Y a-t-il un menu ou des friandises pour chiens ?",
+          "a": "Pas de manière formelle, mais plusieurs Gasthäuser mettent une gamelle d'eau à disposition en été ; demandez au personnel si vous n'en voyez pas."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Se permite la entrada de perros en los restaurantes de Bad Ischl?",
+          "a": "Depende del local: la mayoría acepta perros en la terraza o en el jardín de cerveza durante todo el año, mientras que el comedor interior queda a discreción del propietario. Los tres restaurantes anteriores confirman que aceptan perros en el exterior."
+        },
+        {
+          "q": "¿Debo poner bozal a mi perro en un restaurante?",
+          "a": "No, la obligación de bozal del transporte público austriaco no se aplica a las terrazas de restaurantes. Lo habitual es un perro tranquilo y con correa bajo la mesa."
+        },
+        {
+          "q": "¿Hay menú o premios para perros?",
+          "a": "No de forma oficial, pero varios Gasthäuser ponen un cuenco de agua en verano; pregunte al personal si no ve ninguno."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães são permitidos dentro dos restaurantes em Bad Ischl?",
+          "a": "Depende do estabelecimento: a maioria aceita cães na esplanada ou no jardim de cerveja durante todo o ano, enquanto a sala interior fica ao critério do proprietário. Os três restaurantes acima confirmam que aceitam cães no exterior."
+        },
+        {
+          "q": "Preciso pôr açaime no meu cão num restaurante?",
+          "a": "Não, a obrigação de açaime dos transportes públicos austríacos não se aplica às esplanadas dos restaurantes. O habitual é um cão calmo e preso pela trela debaixo da mesa."
+        },
+        {
+          "q": "Há menu ou petiscos para cães?",
+          "a": "Não de forma oficial, mas vários Gasthäuser disponibilizam uma taça de água no verão; pergunte ao pessoal se não vir nenhuma."
+        }
+      ]
+    },
+    "parks": {
+      "titleEn": "Parks & Walks in Bad Ischl",
+      "titleFr": "Parcs et promenades à Bad Ischl",
+      "titleEs": "Parques y paseos en Bad Ischl",
+      "titlePt": "Parques e passeios em Bad Ischl",
+      "introEn": "Bad Ischl is compact and green: the Kaiserpark gives shaded imperial-era paths right in town, the Esplanade follows the Traun river for an easy daily loop, and the Siriuskogel hill offers a short forest climb with a viewing tower above the rooftops.",
+      "introFr": "Bad Ischl est compacte et verdoyante : le Kaiserpark offre des allées ombragées d'époque impériale en plein centre, l'Esplanade longe la rivière Traun pour une boucle quotidienne facile, et la colline du Siriuskogel propose une courte montée en forêt avec une tour panoramique au-dessus des toits.",
+      "introEs": "Bad Ischl es compacta y verde: el Kaiserpark ofrece senderos sombreados de época imperial en pleno centro, la Esplanade sigue el río Traun para un circuito diario fácil, y la colina del Siriuskogel propone una breve subida por el bosque con una torre mirador sobre los tejados.",
+      "introPt": "Bad Ischl é compacta e verde: o Kaiserpark oferece caminhos sombreados de época imperial mesmo no centro, a Esplanade acompanha o rio Traun para um circuito diário fácil, e a colina do Siriuskogel propõe uma curta subida pela floresta com uma torre miradouro sobre os telhados.",
+      "places": [
+        {
+          "name": "Kaiserpark",
+          "type": "Historic imperial park",
+          "photo": "/images/city-places/bad-ischl-parks-kaiserpark.jpg",
+          "website": "https://www.kaiservilla.at",
+          "description": "The 20-hectare English-style landscape park around the Kaiservilla, laid out for Emperor Franz Joseph, with mature lime and oak avenues, the Marmorschlössl and gravel paths along the Ischl river.",
+          "descriptionFr": "Le parc paysager de style anglais de 20 hectares autour de la Kaiservilla, aménagé pour l'empereur François-Joseph, avec des allées de tilleuls et de chênes centenaires, le Marmorschlössl et des chemins de gravier le long de la rivière Ischl.",
+          "descriptionEs": "El parque paisajístico de estilo inglés de 20 hectáreas alrededor de la Kaiservilla, diseñado para el emperador Francisco José, con avenidas centenarias de tilos y robles, el Marmorschlössl y senderos de grava junto al río Ischl.",
+          "descriptionPt": "O parque paisagístico de estilo inglês de 20 hectares em torno da Kaiservilla, criado para o imperador Francisco José, com avenidas centenárias de tílias e carvalhos, o Marmorschlössl e caminhos de gravilha junto ao rio Ischl.",
+          "offLeash": false,
+          "offLeashArea": "None; dogs must stay leashed throughout the park grounds. Dogs are welcome on the paths but not inside the Kaiservilla's furnished rooms or the small pavilions.",
+          "offLeashAreaFr": "Aucune ; les chiens doivent rester en laisse dans tout le parc. Ils sont bienvenus sur les allées mais pas à l'intérieur des pièces meublées de la Kaiservilla ni dans les petits pavillons.",
+          "offLeashAreaEs": "Ninguna; los perros deben permanecer con correa en todo el recinto del parque. Son bienvenidos en los senderos pero no dentro de las salas amuebladas de la Kaiservilla ni en los pequeños pabellones.",
+          "offLeashAreaPt": "Nenhuma; os cães devem permanecer presos pela trela em todo o recinto do parque. São bem-vindos nos caminhos mas não dentro das salas mobiladas da Kaiservilla nem nos pequenos pavilhões.",
+          "tip": "The park-only ticket (no villa tour) is the cheapest way in and lets you walk the full grounds with your dog.",
+          "tipFr": "Le billet « parc seul » (sans visite de la villa) est l'entrée la moins chère et permet de parcourir tout le domaine avec son chien.",
+          "tipEs": "La entrada solo al parque (sin visita a la villa) es la opción más económica y permite recorrer toda la finca con el perro.",
+          "tipPt": "O bilhete apenas para o parque (sem visita à vila) é a entrada mais barata e permite percorrer toda a propriedade com o cão.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaiserpark+Bad+Ischl"
+        },
+        {
+          "name": "Esplanade am Traunfluss",
+          "type": "Riverside promenade",
+          "photo": "/images/city-places/bad-ischl-parks-esplanade.jpg",
+          "website": "",
+          "description": "A flat, tree-lined promenade following the Traun river through the town centre, connecting the Kurpark, the Trinkhalle and several cafes; the town's default daily dog walk.",
+          "descriptionFr": "Une promenade plate et arborée qui longe la rivière Traun à travers le centre-ville, reliant le Kurpark, la Trinkhalle et plusieurs cafés ; la promenade quotidienne par défaut pour les chiens.",
+          "descriptionEs": "Un paseo llano y arbolado que sigue el río Traun a través del centro de la ciudad, conectando el Kurpark, la Trinkhalle y varios cafés; el paseo diario habitual con el perro.",
+          "descriptionPt": "Um passeio plano e arborizado que acompanha o rio Traun pelo centro da cidade, ligando o Kurpark, a Trinkhalle e vários cafés; o passeio diário habitual com o cão.",
+          "offLeash": false,
+          "offLeashArea": "None; leash required along the full promenade, which is shared with cyclists and pedestrians.",
+          "offLeashAreaFr": "Aucune ; laisse obligatoire sur toute la promenade, partagée avec cyclistes et piétons.",
+          "offLeashAreaEs": "Ninguna; correa obligatoria en todo el paseo, compartido con ciclistas y peatones.",
+          "offLeashAreaPt": "Nenhuma; trela obrigatória em todo o passeio, partilhado com ciclistas e peões.",
+          "tip": "Early morning (before 9am) is quietest, before the cafe terraces and cycle traffic pick up.",
+          "tipFr": "Tôt le matin (avant 9h), c'est le moment le plus calme, avant l'affluence des terrasses de café et des cyclistes.",
+          "tipEs": "Temprano por la mañana (antes de las 9h) es el momento más tranquilo, antes de que se llenen las terrazas y aumente el tráfico de bicicletas.",
+          "tipPt": "De manhã cedo (antes das 9h) é o momento mais calmo, antes de as esplanadas dos cafés e o trânsito de bicicletas aumentarem.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Esplanade+Bad+Ischl"
+        },
+        {
+          "name": "Siriuskogel",
+          "type": "Forest hill & viewpoint",
+          "photo": "/images/city-places/bad-ischl-parks-siriuskogel.jpg",
+          "website": "",
+          "description": "A 130-metre wooded hill right at the edge of town, topped by the 1885 Kaiser-Franz-Josef-Warte tower; the 4.1 km circuit trail around it takes about 1.5 hours and stays shaded most of the way.",
+          "descriptionFr": "Une colline boisée de 130 mètres en bordure de la ville, surmontée de la tour Kaiser-Franz-Josef-Warte de 1885 ; le sentier circulaire de 4,1 km fait environ 1h30 et reste ombragé sur la majeure partie du parcours.",
+          "descriptionEs": "Una colina boscosa de 130 metros justo en el borde de la ciudad, coronada por la torre Kaiser-Franz-Josef-Warte de 1885; la ruta circular de 4,1 km dura unos 90 minutos y permanece a la sombra la mayor parte del recorrido.",
+          "descriptionPt": "Uma colina arborizada de 130 metros mesmo na periferia da cidade, coroada pela torre Kaiser-Franz-Josef-Warte de 1885; o percurso circular de 4,1 km demora cerca de 90 minutos e mantém-se à sombra na maior parte do trajeto.",
+          "offLeash": false,
+          "offLeashArea": "None official; leash recommended throughout as the trail is narrow and shared with other walkers.",
+          "offLeashAreaFr": "Aucune zone officielle ; laisse recommandée sur tout le parcours, le sentier étant étroit et partagé avec d'autres promeneurs.",
+          "offLeashAreaEs": "Ninguna oficial; se recomienda correa en todo el recorrido, ya que el sendero es estrecho y compartido con otros caminantes.",
+          "offLeashAreaPt": "Nenhuma oficial; recomenda-se trela em todo o percurso, pois o trilho é estreito e partilhado com outros caminhantes.",
+          "tip": "Bring water for the dog; the climb is short but has no fountains along the way.",
+          "tipFr": "Prévoyez de l'eau pour le chien ; la montée est courte mais sans fontaine sur le trajet.",
+          "tipEs": "Lleve agua para el perro; la subida es corta pero no hay fuentes en el camino.",
+          "tipPt": "Leve água para o cão; a subida é curta mas não há fontes ao longo do caminho.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Siriuskogel+Bad+Ischl"
+        }
+      ],
+      "tipsEn": [
+        "Austria's general park etiquette applies: pick up after your dog and keep it leashed near play areas and cafe terraces.",
+        "The Kaiserpark and Esplanade both flood occasionally after heavy rain in the Traun catchment; check conditions in spring.",
+        "For a longer off-leash-style run, drive about 15 minutes to the Nussensee or Langbathsee lakes near Ebensee, both popular informal dog-walking loops."
+      ],
+      "tipsFr": [
+        "Les règles générales des parcs autrichiens s'appliquent : ramassez les déjections et gardez le chien en laisse près des aires de jeux et des terrasses de café.",
+        "Le Kaiserpark et l'Esplanade sont parfois inondés après de fortes pluies dans le bassin de la Traun ; vérifiez les conditions au printemps.",
+        "Pour une sortie plus longue, roulez environ 15 minutes jusqu'aux lacs Nussensee ou Langbathsee près d'Ebensee, deux boucles informelles très prisées pour promener les chiens."
+      ],
+      "tipsEs": [
+        "Se aplican las normas generales de los parques austriacos: recoja los excrementos y mantenga al perro con correa cerca de las zonas de juego y las terrazas de los cafés.",
+        "El Kaiserpark y la Esplanade se inundan ocasionalmente tras lluvias intensas en la cuenca del Traun; consulte las condiciones en primavera.",
+        "Para un paseo más largo, conduzca unos 15 minutos hasta los lagos Nussensee o Langbathsee cerca de Ebensee, dos circuitos informales muy populares para pasear perros."
+      ],
+      "tipsPt": [
+        "Aplicam-se as regras gerais dos parques austríacos: recolha os dejetos e mantenha o cão preso pela trela perto das zonas de jogos e das esplanadas dos cafés.",
+        "O Kaiserpark e a Esplanade inundam ocasionalmente após chuvas fortes na bacia do Traun; verifique as condições na primavera.",
+        "Para um passeio mais longo, conduza cerca de 15 minutos até aos lagos Nussensee ou Langbathsee perto de Ebensee, dois circuitos informais muito populares para passear cães."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I bring my dog inside the Kaiservilla?",
+          "a": "No. Dogs are welcome throughout the Kaiserpark grounds on a leash, but not inside the villa's furnished rooms or the small garden pavilions."
+        },
+        {
+          "q": "Are there off-leash dog parks in Bad Ischl?",
+          "a": "Not within the town itself; leash rules apply in the Kaiserpark, on the Esplanade and on the Siriuskogel trail. Informal off-leash-style walking is more common at the Nussensee and Langbathsee lakes about 15 minutes away by car."
+        },
+        {
+          "q": "Is the Siriuskogel walk suitable for older or smaller dogs?",
+          "a": "Yes, the 4.1 km loop has a gentle, well-maintained gradient and plenty of shade, though there is some unavoidable stair climbing near the tower."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à l'intérieur de la Kaiservilla ?",
+          "a": "Non. Les chiens sont bienvenus en laisse dans tout le Kaiserpark, mais pas à l'intérieur des pièces meublées de la villa ni dans les petits pavillons du jardin."
+        },
+        {
+          "q": "Y a-t-il des zones sans laisse pour chiens à Bad Ischl ?",
+          "a": "Pas dans la ville même ; la laisse est obligatoire au Kaiserpark, sur l'Esplanade et sur le sentier du Siriuskogel. La marche libre informelle est plus courante aux lacs Nussensee et Langbathsee, à environ 15 minutes en voiture."
+        },
+        {
+          "q": "La promenade du Siriuskogel convient-elle aux chiens âgés ou de petite taille ?",
+          "a": "Oui, la boucle de 4,1 km a une pente douce et bien entretenue avec beaucoup d'ombre, même s'il reste quelques marches inévitables près de la tour."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro dentro de la Kaiservilla?",
+          "a": "No. Los perros son bienvenidos con correa en todo el recinto del Kaiserpark, pero no dentro de las salas amuebladas de la villa ni en los pequeños pabellones del jardín."
+        },
+        {
+          "q": "¿Hay zonas sin correa para perros en Bad Ischl?",
+          "a": "No dentro de la propia ciudad; la correa es obligatoria en el Kaiserpark, en la Esplanade y en el sendero del Siriuskogel. El paseo informal sin correa es más habitual en los lagos Nussensee y Langbathsee, a unos 15 minutos en coche."
+        },
+        {
+          "q": "¿Es adecuado el paseo del Siriuskogel para perros mayores o pequeños?",
+          "a": "Sí, el circuito de 4,1 km tiene una pendiente suave y bien mantenida con mucha sombra, aunque hay algunos escalones inevitables cerca de la torre."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão para dentro da Kaiservilla?",
+          "a": "Não. Os cães são bem-vindos presos pela trela em todo o recinto do Kaiserpark, mas não dentro das salas mobiladas da vila nem nos pequenos pavilhões do jardim."
+        },
+        {
+          "q": "Há zonas sem trela para cães em Bad Ischl?",
+          "a": "Não dentro da própria cidade; a trela é obrigatória no Kaiserpark, na Esplanade e no trilho do Siriuskogel. O passeio informal sem trela é mais comum nos lagos Nussensee e Langbathsee, a cerca de 15 minutos de carro."
+        },
+        {
+          "q": "O passeio do Siriuskogel é adequado para cães mais velhos ou pequenos?",
+          "a": "Sim, o circuito de 4,1 km tem uma inclinação suave e bem cuidada com bastante sombra, embora haja alguns degraus inevitáveis perto da torre."
+        }
+      ]
+    },
+    "transport": {
+      "titleEn": "Getting Around Bad Ischl with a Dog",
+      "titleFr": "Se déplacer à Bad Ischl avec un chien",
+      "titleEs": "Moverse por Bad Ischl con perro",
+      "titlePt": "Deslocar-se em Bad Ischl com cão",
+      "introEn": "Bad Ischl sits on the Salzkammergutbahn railway line, so you can arrive by direct train from Attnang-Puchheim and then get around on foot or by Postbus. Austrian rules are strict but predictable: a muzzle and leash are required on trains and buses, and the Katrin cable car carries dogs free with the same muzzle-and-leash rule.",
+      "introFr": "Bad Ischl se trouve sur la ligne ferroviaire du Salzkammergutbahn : on peut y arriver en train direct depuis Attnang-Puchheim puis se déplacer à pied ou en Postbus. Les règles autrichiennes sont strictes mais prévisibles : muselière et laisse obligatoires dans les trains et les bus, et la télécabine du Katrin transporte les chiens gratuitement avec la même règle muselière-laisse.",
+      "introEs": "Bad Ischl se encuentra en la línea ferroviaria del Salzkammergutbahn: se puede llegar en tren directo desde Attnang-Puchheim y luego moverse a pie o en Postbus. Las normas austriacas son estrictas pero predecibles: bozal y correa obligatorios en trenes y autobuses, y el teleférico del Katrin transporta perros gratis con la misma norma de bozal y correa.",
+      "introPt": "Bad Ischl fica na linha ferroviária do Salzkammergutbahn: pode chegar de comboio direto a partir de Attnang-Puchheim e depois deslocar-se a pé ou de Postbus. As regras austríacas são rigorosas mas previsíveis: açaime e trela obrigatórios nos comboios e autocarros, e o teleférico do Katrin transporta cães grátis com a mesma regra de açaime e trela.",
+      "rules": [
+        {
+          "mode": "ÖBB trains (Salzkammergutbahn)",
+          "modeFr": "Trains ÖBB (Salzkammergutbahn)",
+          "modeEs": "Trenes ÖBB (Salzkammergutbahn)",
+          "modePt": "Comboios ÖBB (Salzkammergutbahn)",
+          "policy": "Dogs must wear a muzzle and leash on board. Small dogs in a carrier travel free; larger dogs pay a reduced fare (a flat 2 EUR up to 98 km, then 10 percent of the full fare). Assistance dogs travel free without a muzzle.",
+          "policyFr": "Les chiens doivent porter muselière et laisse à bord. Les petits chiens en caisse voyagent gratuitement ; les grands paient un tarif réduit (forfait de 2 EUR jusqu'à 98 km, puis 10 % du plein tarif). Les chiens d'assistance voyagent gratuitement sans muselière.",
+          "policyEs": "Los perros deben llevar bozal y correa a bordo. Los perros pequeños en transportín viajan gratis; los grandes pagan una tarifa reducida (2 EUR fijos hasta 98 km, luego el 10 % de la tarifa completa). Los perros de asistencia viajan gratis y sin bozal.",
+          "policyPt": "Os cães devem usar açaime e trela a bordo. Os cães pequenos em transportadora viajam grátis; os maiores pagam uma tarifa reduzida (2 EUR fixos até 98 km, depois 10% da tarifa inteira). Os cães de assistência viajam grátis e sem açaime.",
+          "tip": "The Bad Ischl station has direct connections towards Attnang-Puchheim and Stainach-Irdning; the Salzkammergutbahn line is scenic and dog-friendly for onward trips to Hallstatt or Salzburg.",
+          "tipFr": "La gare de Bad Ischl a des liaisons directes vers Attnang-Puchheim et Stainach-Irdning ; la ligne du Salzkammergutbahn est panoramique et adaptée aux chiens pour poursuivre vers Hallstatt ou Salzbourg.",
+          "tipEs": "La estación de Bad Ischl tiene conexiones directas hacia Attnang-Puchheim y Stainach-Irdning; la línea del Salzkammergutbahn es panorámica y apta para perros para continuar hacia Hallstatt o Salzburgo.",
+          "tipPt": "A estação de Bad Ischl tem ligações diretas para Attnang-Puchheim e Stainach-Irdning; a linha do Salzkammergutbahn é panorâmica e adequada para cães para continuar até Hallstatt ou Salzburgo."
+        },
+        {
+          "mode": "Postbus (regional buses)",
+          "modeFr": "Postbus (bus régionaux)",
+          "modeEs": "Postbus (autobuses regionales)",
+          "modePt": "Postbus (autocarros regionais)",
+          "policy": "Dogs must travel muzzled (except assistance dogs) and on a short leash, as on the trains. Small dogs in an enclosed carrier can travel without a muzzle.",
+          "policyFr": "Les chiens doivent voyager muselés (sauf chiens d'assistance) et en laisse courte, comme dans les trains. Les petits chiens dans une caisse fermée peuvent voyager sans muselière.",
+          "policyEs": "Los perros deben viajar con bozal (salvo los de asistencia) y con correa corta, como en los trenes. Los perros pequeños en un transportín cerrado pueden viajar sin bozal.",
+          "policyPt": "Os cães devem viajar com açaime (exceto cães de assistência) e com trela curta, tal como nos comboios. Os cães pequenos numa transportadora fechada podem viajar sem açaime.",
+          "tip": "Postbus routes connect Bad Ischl to Bad Goisern, Hallstatt and St. Wolfgang; useful for the lake day trips.",
+          "tipFr": "Les lignes Postbus relient Bad Ischl à Bad Goisern, Hallstatt et St. Wolfgang ; utiles pour les excursions d'une journée au lac.",
+          "tipEs": "Las líneas de Postbus conectan Bad Ischl con Bad Goisern, Hallstatt y St. Wolfgang; útiles para las excursiones de un día al lago.",
+          "tipPt": "As linhas de Postbus ligam Bad Ischl a Bad Goisern, Hallstatt e St. Wolfgang; úteis para as excursões de um dia ao lago."
+        },
+        {
+          "mode": "Katrin cable car",
+          "modeFr": "Télécabine du Katrin",
+          "modeEs": "Teleférico del Katrin",
+          "modePt": "Teleférico do Katrin",
+          "policy": "Dogs ride free of charge; muzzle and leash are compulsory, per the operator's official tariff. The cabin ride takes about 15 minutes to the mountain station at 1,400 m, where marked trails continue.",
+          "policyFr": "Les chiens voyagent gratuitement ; muselière et laisse sont obligatoires, selon le tarif officiel de l'exploitant. La cabine met environ 15 minutes pour atteindre la station d'altitude à 1 400 m, d'où partent des sentiers balisés.",
+          "policyEs": "Los perros viajan gratis; el bozal y la correa son obligatorios, según la tarifa oficial del operador. La cabina tarda unos 15 minutos en llegar a la estación de montaña a 1.400 m, desde donde continúan senderos señalizados.",
+          "policyPt": "Os cães viajam grátis; o açaime e a trela são obrigatórios, segundo a tarifa oficial do operador. A cabine demora cerca de 15 minutos até à estação de montanha a 1.400 m, de onde seguem trilhos sinalizados.",
+          "tip": "Bring a soft muzzle if your dog is not used to one; staff do check before boarding.",
+          "tipFr": "Prévoyez une muselière souple si votre chien n'y est pas habitué ; le personnel vérifie avant l'embarquement.",
+          "tipEs": "Lleve un bozal blando si su perro no está acostumbrado; el personal lo comprueba antes de embarcar.",
+          "tipPt": "Leve um açaime macio se o seu cão não estiver habituado; o pessoal verifica antes do embarque."
+        }
+      ],
+      "sections": [
+        {
+          "heading": "Arriving in Bad Ischl",
+          "headingFr": "Arriver à Bad Ischl",
+          "headingEs": "Llegar a Bad Ischl",
+          "headingPt": "Chegar a Bad Ischl",
+          "content": "The nearest airport is Salzburg (SZG), about 55 km away, followed by regional train (change at Attnang-Puchheim) or a taxi/rental car, both straightforward with a dog in a crate or on a leash. There is no direct rail link from Salzburg city; most visitors drive the roughly 1-hour route via the A1 and B158.",
+          "contentFr": "L'aéroport le plus proche est Salzbourg (SZG), à environ 55 km, suivi d'un train régional (changement à Attnang-Puchheim) ou d'un taxi/voiture de location, faciles avec un chien en caisse ou en laisse. Il n'y a pas de liaison ferroviaire directe depuis la ville de Salzbourg ; la plupart des visiteurs font le trajet d'environ 1 heure par l'A1 et la B158.",
+          "contentEs": "El aeropuerto más cercano es Salzburgo (SZG), a unos 55 km, seguido de un tren regional (con trasbordo en Attnang-Puchheim) o un taxi/coche de alquiler, ambos sencillos con un perro en transportín o con correa. No hay enlace ferroviario directo desde la ciudad de Salzburgo; la mayoría de los visitantes hacen el trayecto de aproximadamente 1 hora por la A1 y la B158.",
+          "contentPt": "O aeroporto mais próximo é Salzburgo (SZG), a cerca de 55 km, seguido de comboio regional (com mudança em Attnang-Puchheim) ou táxi/carro alugado, ambos simples com um cão em transportadora ou preso pela trela. Não há ligação ferroviária direta a partir da cidade de Salzburgo; a maioria dos visitantes faz o trajeto de cerca de 1 hora pela A1 e B158."
+        },
+        {
+          "heading": "Getting around on foot",
+          "headingFr": "Se déplacer à pied",
+          "headingEs": "Moverse a pie",
+          "headingPt": "Deslocar-se a pé",
+          "content": "The old town, Kaiserpark and train station are all within a 20-minute walk of each other, so many visitors leave the car parked for their whole stay and explore on foot with the dog.",
+          "contentFr": "La vieille ville, le Kaiserpark et la gare sont tous à 20 minutes de marche les uns des autres, si bien que de nombreux visiteurs laissent la voiture garée pendant tout leur séjour et explorent à pied avec le chien.",
+          "contentEs": "El casco antiguo, el Kaiserpark y la estación de tren están todos a 20 minutos a pie unos de otros, por lo que muchos visitantes dejan el coche aparcado durante toda la estancia y exploran a pie con el perro.",
+          "contentPt": "A cidade velha, o Kaiserpark e a estação ferroviária ficam todos a 20 minutos a pé uns dos outros, por isso muitos visitantes deixam o carro estacionado durante toda a estadia e exploram a pé com o cão."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Do dogs need a muzzle on trains and buses in Bad Ischl?",
+          "a": "Yes. Austrian federal rules require a muzzle and leash on ÖBB trains and Postbus services nationwide, including the Salzkammergutbahn line through Bad Ischl."
+        },
+        {
+          "q": "Can I take my dog on the Katrin cable car?",
+          "a": "Yes, dogs ride free with a muzzle and leash, per the operator's published tariff."
+        },
+        {
+          "q": "Is Bad Ischl walkable without a car?",
+          "a": "Yes, the town centre, Kaiserpark and station are all within easy walking distance, though a car (or the Postbus) is useful for day trips to the surrounding lakes."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Les chiens doivent-ils porter une muselière dans les trains et les bus à Bad Ischl ?",
+          "a": "Oui. La réglementation fédérale autrichienne impose muselière et laisse dans les trains ÖBB et les Postbus dans tout le pays, y compris sur la ligne du Salzkammergutbahn qui traverse Bad Ischl."
+        },
+        {
+          "q": "Puis-je emmener mon chien dans la télécabine du Katrin ?",
+          "a": "Oui, les chiens voyagent gratuitement avec muselière et laisse, selon le tarif officiel de l'exploitant."
+        },
+        {
+          "q": "Bad Ischl est-elle praticable à pied sans voiture ?",
+          "a": "Oui, le centre-ville, le Kaiserpark et la gare sont tous à distance de marche facile, mais une voiture (ou le Postbus) est utile pour les excursions d'une journée vers les lacs environnants."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Los perros necesitan bozal en trenes y autobuses en Bad Ischl?",
+          "a": "Sí. La normativa federal austriaca exige bozal y correa en los trenes ÖBB y los Postbus en todo el país, incluida la línea del Salzkammergutbahn que pasa por Bad Ischl."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro en el teleférico del Katrin?",
+          "a": "Sí, los perros viajan gratis con bozal y correa, según la tarifa oficial del operador."
+        },
+        {
+          "q": "¿Se puede recorrer Bad Ischl a pie sin coche?",
+          "a": "Sí, el centro urbano, el Kaiserpark y la estación están todos a poca distancia a pie, aunque un coche (o el Postbus) resulta útil para las excursiones de un día a los lagos cercanos."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Os cães precisam de açaime nos comboios e autocarros em Bad Ischl?",
+          "a": "Sim. As regras federais austríacas exigem açaime e trela nos comboios ÖBB e nos Postbus em todo o país, incluindo a linha do Salzkammergutbahn que atravessa Bad Ischl."
+        },
+        {
+          "q": "Posso levar o meu cão no teleférico do Katrin?",
+          "a": "Sim, os cães viajam grátis com açaime e trela, segundo a tarifa oficial do operador."
+        },
+        {
+          "q": "Dá para percorrer Bad Ischl a pé sem carro?",
+          "a": "Sim, o centro da cidade, o Kaiserpark e a estação ficam todos a uma distância fácil a pé, embora um carro (ou o Postbus) seja útil para excursões de um dia aos lagos vizinhos."
+        }
+      ]
+    },
+    "beaches": {
+      "titleEn": "Swim Spots near Bad Ischl",
+      "titleFr": "Points de baignade près de Bad Ischl",
+      "titleEs": "Zonas de baño cerca de Bad Ischl",
+      "titlePt": "Locais de banho perto de Bad Ischl",
+      "introEn": "Content coming soon. Bad Ischl itself is landlocked with no lake, but it sits at the heart of the Salzkammergut lake district. The closest verified dog bathing spot is the signed Hundebadeplatz on the Hallstättersee at Obertraun (Winkl/Landbettler area), about 30 km and 35 minutes by car; a second informal option is the sailing-club stretch of the Traunsee esplanade at Altmünster, about 25 km away.",
+      "introFr": "Contenu à venir. Bad Ischl elle-même est enclavée et ne possède pas de lac, mais elle se trouve au cœur de la région lacustre du Salzkammergut. Le point de baignade canine vérifié le plus proche est le Hundebadeplatz signalisé sur le Hallstättersee à Obertraun (secteur Winkl/Landbettler), à environ 30 km et 35 minutes en voiture ; une seconde option informelle est le tronçon du club de voile sur l'esplanade du Traunsee à Altmünster, à environ 25 km.",
+      "introEs": "Contenido próximamente. La propia Bad Ischl no tiene litoral ni lago, pero se encuentra en el corazón de la región de los lagos del Salzkammergut. El punto de baño canino verificado más cercano es el Hundebadeplatz señalizado en el Hallstättersee, en Obertraun (zona de Winkl/Landbettler), a unos 30 km y 35 minutos en coche; una segunda opción informal es el tramo del club náutico en la explanada del Traunsee en Altmünster, a unos 25 km.",
+      "introPt": "Conteúdo em breve. A própria Bad Ischl não tem mar nem lago, mas fica no coração da região lacustre do Salzkammergut. O local de banho canino verificado mais próximo é o Hundebadeplatz sinalizado no Hallstättersee, em Obertraun (zona de Winkl/Landbettler), a cerca de 30 km e 35 minutos de carro; uma segunda opção informal é o troço do clube de vela na esplanada do Traunsee em Altmünster, a cerca de 25 km.",
+      "places": [],
+      "faqsEn": [
+        {
+          "q": "Is there a dog beach in Bad Ischl itself?",
+          "a": "No. Bad Ischl has no lake or river bathing area in town; dogs can wade in the shallow Ischl and Traun rivers, but the nearest designated dog swimming spot is on the Hallstättersee near Obertraun, about 30 km away."
+        },
+        {
+          "q": "Where is the closest verified Hundebadeplatz?",
+          "a": "The signed dog bathing area on the Hallstättersee at Obertraun (Winkl/Landbettler), which has a dog-waste bin and public toilet nearby, confirmed by both the regional tourism board and the local Obertraun visitor site."
+        },
+        {
+          "q": "Can dogs swim in the Traunsee near Bad Ischl?",
+          "a": "There is an informal dog access point on the sailing-club stretch of the esplanade at Altmünster on the Traunsee, though it is not as clearly signed as the Hallstättersee spot."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il une plage pour chiens à Bad Ischl même ?",
+          "a": "Non. Bad Ischl n'a ni lac ni zone de baignade en rivière en ville ; les chiens peuvent patauger dans les eaux peu profondes de l'Ischl et de la Traun, mais le point de baignade canine désigné le plus proche se trouve sur le Hallstättersee près d'Obertraun, à environ 30 km."
+        },
+        {
+          "q": "Où se trouve le Hundebadeplatz vérifié le plus proche ?",
+          "a": "La zone de baignade canine signalisée sur le Hallstättersee à Obertraun (Winkl/Landbettler), qui dispose d'une poubelle à déjections et de toilettes publiques à proximité, confirmée à la fois par l'office de tourisme régional et le site d'accueil local d'Obertraun."
+        },
+        {
+          "q": "Les chiens peuvent-ils se baigner dans le Traunsee près de Bad Ischl ?",
+          "a": "Il existe un accès informel pour chiens sur le tronçon du club de voile de l'esplanade à Altmünster sur le Traunsee, bien qu'il soit moins clairement signalisé que le point du Hallstättersee."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay una playa para perros en la propia Bad Ischl?",
+          "a": "No. Bad Ischl no tiene lago ni zona de baño fluvial en la ciudad; los perros pueden chapotear en las aguas poco profundas del Ischl y el Traun, pero el punto de baño canino designado más cercano está en el Hallstättersee cerca de Obertraun, a unos 30 km."
+        },
+        {
+          "q": "¿Dónde está el Hundebadeplatz verificado más cercano?",
+          "a": "La zona de baño canino señalizada en el Hallstättersee en Obertraun (Winkl/Landbettler), que dispone de un contenedor para excrementos y aseos públicos cerca, confirmada tanto por la oficina de turismo regional como por el sitio de visitantes local de Obertraun."
+        },
+        {
+          "q": "¿Pueden los perros bañarse en el Traunsee cerca de Bad Ischl?",
+          "a": "Existe un acceso informal para perros en el tramo del club náutico de la explanada en Altmünster, en el Traunsee, aunque está menos claramente señalizado que el punto del Hallstättersee."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há uma praia para cães na própria Bad Ischl?",
+          "a": "Não. Bad Ischl não tem lago nem zona de banho fluvial na cidade; os cães podem chapinhar nas águas pouco profundas do Ischl e do Traun, mas o local de banho canino designado mais próximo fica no Hallstättersee, perto de Obertraun, a cerca de 30 km."
+        },
+        {
+          "q": "Onde fica o Hundebadeplatz verificado mais próximo?",
+          "a": "A zona de banho canino sinalizada no Hallstättersee em Obertraun (Winkl/Landbettler), que tem um contentor para dejetos e casas de banho públicas por perto, confirmada tanto pelo organismo de turismo regional como pelo site de visitantes local de Obertraun."
+        },
+        {
+          "q": "Os cães podem nadar no Traunsee perto de Bad Ischl?",
+          "a": "Existe um acesso informal para cães no troço do clube de vela na esplanada em Altmünster, no Traunsee, embora seja menos sinalizado do que o local do Hallstättersee."
+        }
+      ]
+    },
+    "vets": {
+      "titleEn": "Veterinarians in Bad Ischl",
+      "titleFr": "Vétérinaires à Bad Ischl",
+      "titleEs": "Veterinarios en Bad Ischl",
+      "titlePt": "Veterinários em Bad Ischl",
+      "introEn": "Bad Ischl has two established small-animal practices in town, including a dedicated clinic with round-the-clock emergency cover. Austria's national emergency number 112 is for human medical and fire/police only, it does not dispatch a vet.",
+      "introFr": "Bad Ischl compte deux cabinets vétérinaires pour petits animaux bien établis en ville, dont une clinique dédiée avec une couverture d'urgence 24h/24. Le numéro d'urgence national autrichien 112 concerne uniquement les secours humains (pompiers/police), il ne dépêche pas de vétérinaire.",
+      "introEs": "Bad Ischl cuenta con dos consultas veterinarias de pequeños animales bien establecidas en la ciudad, incluida una clínica dedicada con cobertura de urgencias las 24 horas. El número de emergencias nacional austriaco 112 es solo para asistencia médica humana y bomberos/policía, no despacha un veterinario.",
+      "introPt": "Bad Ischl tem duas clínicas veterinárias de pequenos animais bem estabelecidas na cidade, incluindo uma clínica dedicada com cobertura de urgência 24 horas. O número de emergência nacional austríaco 112 é apenas para assistência médica humana e bombeiros/polícia, não despacha um veterinário.",
+      "entryRequirements": "EU pet passport with valid rabies vaccination (at least 21 days before travel) and ISO microchip are required to bring a dog or cat into Austria from another EU country; non-EU arrivals need an animal health certificate. No tapeworm treatment is required to enter Austria itself.",
+      "places": [
+        {
+          "name": "Tierklinik Bad Ischl Dr. Adelsmayr/Mag. Grabner OG",
+          "type": "Small-animal clinic, 24h emergency",
+          "address": "Kaltenbachstraße 26b, 4820 Bad Ischl",
+          "phone": "+43 6132 25849",
+          "hours": "Mon-Fri 9:00-13:00 & 18:00-20:00, Sat 9:00-11:00, or by phone appointment; emergencies 24/7 including Sundays and public holidays (higher fees apply outside normal hours).",
+          "hoursFr": "Lun-ven 9h-13h et 18h-20h, sam 9h-11h, ou sur rendez-vous téléphonique ; urgences 24h/24 y compris dimanches et jours fériés (tarifs majorés en dehors des heures normales).",
+          "hoursEs": "Lun-vie 9:00-13:00 y 18:00-20:00, sáb 9:00-11:00, o con cita telefónica; urgencias 24 horas incluidos domingos y festivos (tarifas más altas fuera del horario habitual).",
+          "englishSpeaking": true,
+          "website": "https://www.badischl.vet",
+          "description": "Founded in 1993, this dedicated small-animal clinic on 280 sqm offers full diagnostics and 24-hour emergency cover, run by Dr. Stephan Adelsmayr and Mag. Christina Grabner.",
+          "descriptionFr": "Fondée en 1993, cette clinique dédiée aux petits animaux sur 280 m² propose un plateau diagnostique complet et une couverture d'urgence 24h/24, dirigée par le Dr Stephan Adelsmayr et Mag. Christina Grabner.",
+          "descriptionEs": "Fundada en 1993, esta clínica dedicada a pequeños animales de 280 m² ofrece diagnóstico completo y cobertura de urgencias las 24 horas, dirigida por el Dr. Stephan Adelsmayr y Mag. Christina Grabner.",
+          "descriptionPt": "Fundada em 1993, esta clínica dedicada a pequenos animais com 280 m² oferece diagnóstico completo e cobertura de urgência 24 horas, dirigida pelo Dr. Stephan Adelsmayr e Mag. Christina Grabner.",
+          "tip": "Reachable from the town centre via the Esplanade towards the Katrin cable car; it occupies the former Konsum building.",
+          "tipFr": "Accessible depuis le centre-ville via l'Esplanade en direction de la télécabine du Katrin ; elle occupe l'ancien bâtiment Konsum.",
+          "tipEs": "Se puede llegar desde el centro de la ciudad por la Esplanade en dirección al teleférico del Katrin; ocupa el antiguo edificio Konsum.",
+          "tipPt": "Acessível a partir do centro da cidade pela Esplanade em direção ao teleférico do Katrin; ocupa o antigo edifício Konsum.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tierklinik+Bad+Ischl+Kaltenbachstrasse+26b",
+          "photo": "",
+          "hoursPt": "Seg-Sex 9:00-13:00 e 18:00-20:00, Sáb 9:00-11:00, ou por marcação telefónica; emergências 24 horas por dia, incluindo domingos e feriados (aplicam-se tarifas mais elevadas fora do horário normal)."
+        },
+        {
+          "name": "Tierambulanz Salzkammergut (Dr. Peter Prinz)",
+          "type": "Small-animal practice",
+          "address": "Salinenplatz 2b, 4820 Bad Ischl",
+          "phone": "+43 6132 23724",
+          "hours": "Mon, Tue, Thu, Fri 10:00-12:00 & 16:00-18:30; Wed 10:00-12:00 & 18:00-20:30; Sat 9:00-11:00. Outside these hours and in emergencies, by phone arrangement.",
+          "hoursFr": "Lun, mar, jeu, ven 10h-12h et 16h-18h30 ; mer 10h-12h et 18h-20h30 ; sam 9h-11h. En dehors de ces horaires et en cas d'urgence, sur accord téléphonique.",
+          "hoursEs": "Lun, mar, jue, vie 10:00-12:00 y 16:00-18:30; mié 10:00-12:00 y 18:00-20:30; sáb 9:00-11:00. Fuera de este horario y en urgencias, previo acuerdo telefónico.",
+          "englishSpeaking": false,
+          "website": "https://www.tierambulanzsalzkammergut.at",
+          "description": "A long-standing small-animal practice in the town centre run by Dr. Peter Prinz, offering routine consultations and vaccinations for cats and dogs.",
+          "descriptionFr": "Un cabinet vétérinaire pour petits animaux bien établi en centre-ville, dirigé par le Dr Peter Prinz, proposant consultations de routine et vaccinations pour chats et chiens.",
+          "descriptionEs": "Una consulta veterinaria de pequeños animales bien establecida en el centro de la ciudad, dirigida por el Dr. Peter Prinz, que ofrece consultas rutinarias y vacunaciones para gatos y perros.",
+          "descriptionPt": "Uma clínica veterinária de pequenos animais bem estabelecida no centro da cidade, dirigida pelo Dr. Peter Prinz, com consultas de rotina e vacinações para gatos e cães.",
+          "tip": "Call ahead; outside consultation hours the practice arranges emergency visits by phone rather than a walk-in service.",
+          "tipFr": "Appelez à l'avance ; en dehors des heures de consultation, le cabinet organise les visites d'urgence par téléphone plutôt qu'en accès direct.",
+          "tipEs": "Llame con antelación; fuera del horario de consulta, la clínica organiza las visitas de urgencia por teléfono en lugar de atención sin cita.",
+          "tipPt": "Ligue com antecedência; fora do horário de consulta, a clínica organiza as visitas de urgência por telefone em vez de atendimento sem marcação.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tierambulanz+Salzkammergut+Salinenplatz+2b+Bad+Ischl",
+          "photo": "",
+          "hoursPt": "Seg, Ter, Qui, Sex 10:00-12:00 e 16:00-18:30; Qua 10:00-12:00 e 18:00-20:30; Sáb 9:00-11:00. Fora destes horários e em emergências, mediante combinação telefónica."
+        }
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a 24-hour emergency vet in Bad Ischl?",
+          "a": "Yes. Tierklinik Bad Ischl Dr. Adelsmayr/Mag. Grabner OG runs a round-the-clock emergency service every day, including nights, weekends and public holidays (surcharges apply outside normal hours)."
+        },
+        {
+          "q": "Does 112 connect to a vet in an emergency?",
+          "a": "No, 112 is Austria's general emergency number for police, fire and human ambulance services only. Call the veterinary clinic's own number directly for an animal emergency."
+        },
+        {
+          "q": "Do I need a pet passport to bring my dog into Austria?",
+          "a": "Yes, an EU pet passport with a valid rabies vaccination (at least 21 days before travel) and an ISO microchip are required for entry from another EU country."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il un vétérinaire d'urgence 24h/24 à Bad Ischl ?",
+          "a": "Oui. La Tierklinik Bad Ischl Dr. Adelsmayr/Mag. Grabner OG assure un service d'urgence 24h/24 tous les jours, y compris la nuit, le week-end et les jours fériés (des suppléments s'appliquent en dehors des heures normales)."
+        },
+        {
+          "q": "Le 112 met-il en relation avec un vétérinaire en cas d'urgence ?",
+          "a": "Non, le 112 est le numéro d'urgence général autrichien réservé à la police, aux pompiers et aux secours humains. Appelez directement le numéro de la clinique vétérinaire en cas d'urgence animale."
+        },
+        {
+          "q": "Ai-je besoin d'un passeport pour animaux pour entrer en Autriche avec mon chien ?",
+          "a": "Oui, un passeport européen pour animaux avec une vaccination antirabique valide (au moins 21 jours avant le voyage) et une puce électronique ISO sont exigés pour entrer depuis un autre pays de l'UE."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay un veterinario de urgencias 24 horas en Bad Ischl?",
+          "a": "Sí. La Tierklinik Bad Ischl Dr. Adelsmayr/Mag. Grabner OG ofrece un servicio de urgencias las 24 horas todos los días, incluidas noches, fines de semana y festivos (se aplican recargos fuera del horario habitual)."
+        },
+        {
+          "q": "¿El 112 conecta con un veterinario en caso de emergencia?",
+          "a": "No, el 112 es el número de emergencias general austriaco, exclusivo para policía, bomberos y asistencia médica humana. Llame directamente al número de la clínica veterinaria en caso de urgencia animal."
+        },
+        {
+          "q": "¿Necesito un pasaporte para mascotas para entrar en Austria con mi perro?",
+          "a": "Sí, se requiere un pasaporte europeo para mascotas con vacunación antirrábica vigente (al menos 21 días antes del viaje) y un microchip ISO para entrar desde otro país de la UE."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há um veterinário de urgência 24 horas em Bad Ischl?",
+          "a": "Sim. A Tierklinik Bad Ischl Dr. Adelsmayr/Mag. Grabner OG presta um serviço de urgência 24 horas todos os dias, incluindo noites, fins de semana e feriados (aplicam-se sobretaxas fora do horário normal)."
+        },
+        {
+          "q": "O 112 liga a um veterinário numa emergência?",
+          "a": "Não, o 112 é o número de emergência geral austríaco, exclusivo para polícia, bombeiros e assistência médica humana. Ligue diretamente para o número da clínica veterinária em caso de emergência animal."
+        },
+        {
+          "q": "Preciso de um passaporte para animais para entrar na Áustria com o meu cão?",
+          "a": "Sim, é necessário um passaporte europeu para animais com vacinação antirrábica válida (pelo menos 21 dias antes da viagem) e um microchip ISO para entrar vindo de outro país da UE."
+        }
+      ]
+    },
+    "attractions": {
+      "titleEn": "Dog-Friendly Attractions in Bad Ischl",
+      "titleFr": "Attractions acceptant les chiens à Bad Ischl",
+      "titleEs": "Atracciones que admiten perros en Bad Ischl",
+      "titlePt": "Atrações que aceitam cães em Bad Ischl",
+      "introEn": "Bad Ischl's imperial history is easy to explore with a dog: the Kaiservilla grounds, the Katrin cable car and the Trinkhalle promenade are all outdoor-first sights that welcome a leashed dog, even though the indoor museum rooms and villa interiors are not.",
+      "introFr": "L'histoire impériale de Bad Ischl se découvre facilement avec un chien : le domaine de la Kaiservilla, la télécabine du Katrin et la promenade de la Trinkhalle sont tous des sites principalement extérieurs qui accueillent un chien en laisse, même si les salles de musée et les intérieurs de la villa ne le sont pas.",
+      "introEs": "La historia imperial de Bad Ischl se explora fácilmente con un perro: la finca de la Kaiservilla, el teleférico del Katrin y el paseo de la Trinkhalle son atracciones principalmente al aire libre que admiten perros con correa, aunque las salas del museo y los interiores de la villa no lo permiten.",
+      "introPt": "A história imperial de Bad Ischl explora-se facilmente com um cão: a propriedade da Kaiservilla, o teleférico do Katrin e o passeio da Trinkhalle são atrações sobretudo ao ar livre que aceitam cães presos pela trela, embora as salas do museu e os interiores da vila não o permitam.",
+      "places": [
+        {
+          "name": "Kaiservilla & Kaiserpark",
+          "neighborhood": "Kaiserpark",
+          "photo": "/images/city-places/bad-ischl-attractions-kaiservilla.jpg",
+          "website": "https://www.kaiservilla.at",
+          "description": "Emperor Franz Joseph's summer residence for 82 years, where he signed the 1914 declaration of war; the guided villa tour is dog-free, but the surrounding 20-hectare Kaiserpark welcomes leashed dogs on its gravel paths.",
+          "descriptionFr": "La résidence d'été de l'empereur François-Joseph pendant 82 ans, où il signa la déclaration de guerre de 1914 ; la visite guidée de la villa se fait sans chien, mais le Kaiserpark de 20 hectares qui l'entoure accueille les chiens en laisse sur ses allées de gravier.",
+          "descriptionEs": "La residencia de verano del emperador Francisco José durante 82 años, donde firmó la declaración de guerra de 1914; la visita guiada a la villa no admite perros, pero el Kaiserpark de 20 hectáreas que la rodea acepta perros con correa en sus senderos de grava.",
+          "descriptionPt": "A residência de verão do imperador Francisco José durante 82 anos, onde assinou a declaração de guerra de 1914; a visita guiada à vila não admite cães, mas o Kaiserpark de 20 hectares em redor aceita cães presos pela trela nos seus caminhos de gravilha.",
+          "dogPolicy": "Leashed dogs welcome throughout the park grounds; not permitted inside the villa's furnished rooms or the small garden pavilions.",
+          "dogPolicyFr": "Chiens en laisse bienvenus dans tout le parc ; non admis à l'intérieur des pièces meublées de la villa ni dans les petits pavillons du jardin.",
+          "dogPolicyEs": "Perros con correa bienvenidos en todo el recinto del parque; no admitidos dentro de las salas amuebladas de la villa ni en los pequeños pabellones del jardín.",
+          "dogPolicyPt": "Cães presos pela trela bem-vindos em todo o recinto do parque; não permitidos dentro das salas mobiladas da vila nem nos pequenos pavilhões do jardim.",
+          "admissionFee": "Park only: 6.70 EUR adults; Park + villa tour: 24 EUR adults (2026 season)",
+          "admissionFeeFr": "Parc seul : 6,70 EUR adultes ; Parc + visite de la villa : 24 EUR adultes (saison 2026)",
+          "admissionFeeEs": "Solo parque: 6,70 EUR adultos; Parque + visita a la villa: 24 EUR adultos (temporada 2026)",
+          "admissionFeePt": "Apenas parque: 6,70 EUR adultos; Parque + visita à vila: 24 EUR adultos (época 2026)",
+          "tip": "Buy the park-only ticket if your priority is the walk; it skips the dog-free guided tour entirely.",
+          "tipFr": "Achetez le billet « parc seul » si votre priorité est la promenade ; il évite entièrement la visite guidée sans chien.",
+          "tipEs": "Compre la entrada solo al parque si su prioridad es el paseo; evita por completo la visita guiada sin perros.",
+          "tipPt": "Compre o bilhete apenas para o parque se a sua prioridade for o passeio; evita totalmente a visita guiada sem cães.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaiservilla+Bad+Ischl"
+        },
+        {
+          "name": "Katrin Seilbahn",
+          "neighborhood": "Katrinbergstraße",
+          "photo": "/images/city-places/bad-ischl-attractions-katrin-seilbahn.jpg",
+          "website": "https://en.katrinseilbahn.com",
+          "description": "A cable car since 1959 lifting visitors in 15 minutes to the 1,400 m Katrin mountain station, with marked alpine trails, a panoramic restaurant and views over the Salzkammergut lakes.",
+          "descriptionFr": "Une télécabine en service depuis 1959 qui hisse les visiteurs en 15 minutes jusqu'à la station de montagne du Katrin à 1 400 m, avec des sentiers alpins balisés, un restaurant panoramique et une vue sur les lacs du Salzkammergut.",
+          "descriptionEs": "Un teleférico en servicio desde 1959 que sube a los visitantes en 15 minutos hasta la estación de montaña del Katrin a 1.400 m, con senderos alpinos señalizados, un restaurante panorámico y vistas sobre los lagos del Salzkammergut.",
+          "descriptionPt": "Um teleférico em funcionamento desde 1959 que leva os visitantes em 15 minutos até à estação de montanha do Katrin a 1.400 m, com trilhos alpinos sinalizados, um restaurante panorâmico e vista sobre os lagos do Salzkammergut.",
+          "dogPolicy": "Dogs travel free of charge in the cabin; muzzle and leash are compulsory, per the operator's official tariff.",
+          "dogPolicyFr": "Les chiens voyagent gratuitement en cabine ; muselière et laisse sont obligatoires, selon le tarif officiel de l'exploitant.",
+          "dogPolicyEs": "Los perros viajan gratis en la cabina; el bozal y la correa son obligatorios, según la tarifa oficial del operador.",
+          "dogPolicyPt": "Os cães viajam grátis na cabine; o açaime e a trela são obrigatórios, segundo a tarifa oficial do operador.",
+          "admissionFee": "Adult round trip from about 28 EUR in summer 2026 (check current tariff); dogs free",
+          "admissionFeeFr": "Aller-retour adulte à partir d'environ 28 EUR en été 2026 (vérifier le tarif en vigueur) ; chiens gratuits",
+          "admissionFeeEs": "Ida y vuelta adulto desde unos 28 EUR en verano de 2026 (consultar tarifa vigente); perros gratis",
+          "admissionFeePt": "Ida e volta adulto a partir de cerca de 28 EUR no verão de 2026 (consultar tarifa atual); cães grátis",
+          "tip": "Operates daily 9:00-17:00 from April to November; check seasonal closures before a winter visit.",
+          "tipFr": "Fonctionne tous les jours de 9h à 17h d'avril à novembre ; vérifiez les fermetures saisonnières avant une visite hivernale.",
+          "tipEs": "Funciona todos los días de 9:00 a 17:00 de abril a noviembre; compruebe los cierres estacionales antes de una visita invernal.",
+          "tipPt": "Funciona todos os dias das 9h00 às 17h00 de abril a novembro; verifique os encerramentos sazonais antes de uma visita de inverno.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Katrin+Seilbahn+Bad+Ischl"
+        },
+        {
+          "name": "Trinkhalle & Kurpark",
+          "neighborhood": "Auböckplatz",
+          "photo": "/images/city-places/bad-ischl-attractions-trinkhalle.jpg",
+          "website": "",
+          "description": "The 1829 Trinkhalle (originally the Soolenbadhaus) is now the town's cultural meeting point and tourist office, fronted by the open Kurpark gardens and the riverside Esplanade, both easy on-leash walking ground.",
+          "descriptionFr": "La Trinkhalle de 1829 (à l'origine le Soolenbadhaus) est aujourd'hui le lieu de rencontre culturel de la ville et l'office de tourisme, précédée par les jardins ouverts du Kurpark et l'Esplanade au bord de la rivière, un terrain de promenade en laisse facile.",
+          "descriptionEs": "La Trinkhalle de 1829 (originalmente el Soolenbadhaus) es hoy el punto de encuentro cultural de la ciudad y la oficina de turismo, precedida por los jardines abiertos del Kurpark y la Esplanade junto al río, un terreno de paseo con correa fácil.",
+          "descriptionPt": "A Trinkhalle de 1829 (originalmente o Soolenbadhaus) é hoje o ponto de encontro cultural da cidade e o posto de turismo, precedida pelos jardins abertos do Kurpark e pela Esplanade junto ao rio, um terreno de passeio com trela fácil.",
+          "dogPolicy": "Leashed dogs welcome throughout the outdoor Kurpark gardens and Esplanade; the building's exhibition rooms follow standard indoor-venue discretion.",
+          "dogPolicyFr": "Chiens en laisse bienvenus dans les jardins extérieurs du Kurpark et sur l'Esplanade ; les salles d'exposition du bâtiment suivent la discrétion habituelle des lieux intérieurs.",
+          "dogPolicyEs": "Perros con correa bienvenidos en los jardines exteriores del Kurpark y en la Esplanade; las salas de exposición del edificio siguen la discreción habitual de los espacios interiores.",
+          "dogPolicyPt": "Cães presos pela trela bem-vindos nos jardins exteriores do Kurpark e na Esplanade; as salas de exposição do edifício seguem a discrição habitual dos espaços interiores.",
+          "admissionFee": "Free to enter the Kurpark and Esplanade grounds",
+          "admissionFeeFr": "Entrée gratuite au Kurpark et à l'Esplanade",
+          "admissionFeeEs": "Entrada gratuita al Kurpark y a la Esplanade",
+          "admissionFeePt": "Entrada gratuita ao Kurpark e à Esplanade",
+          "tip": "Pick up a free hiking map at the Tourismusverband desk inside the Trinkhalle before heading up the Siriuskogel or Katrin.",
+          "tipFr": "Prenez une carte de randonnée gratuite au comptoir du Tourismusverband dans la Trinkhalle avant de partir vers le Siriuskogel ou le Katrin.",
+          "tipEs": "Recoja un mapa de senderismo gratuito en el mostrador del Tourismusverband dentro de la Trinkhalle antes de subir al Siriuskogel o al Katrin.",
+          "tipPt": "Recolha um mapa de caminhadas gratuito no balcão do Tourismusverband dentro da Trinkhalle antes de subir ao Siriuskogel ou ao Katrin.",
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trinkhalle+Bad+Ischl"
+        }
+      ],
+      "tipsEn": [
+        "Combine the Kaiserpark and Trinkhalle into one loop; both are within a 10-minute walk of each other.",
+        "Hallstatt, one of Austria's most photographed villages, is a 25-minute drive or a Postbus/train combination away for a dog-friendly day trip.",
+        "Book Kaiservilla villa tour tickets online in July and August; the guided tour itself has limited group sizes and no dogs, so plan a park walk to fill the time."
+      ],
+      "tipsFr": [
+        "Combinez le Kaiserpark et la Trinkhalle en une seule boucle ; les deux sont à 10 minutes de marche l'un de l'autre.",
+        "Hallstatt, l'un des villages les plus photographiés d'Autriche, se trouve à 25 minutes en voiture ou en combinant Postbus/train, pour une excursion d'une journée compatible avec les chiens.",
+        "Réservez en ligne les billets de la visite guidée de la Kaiservilla en juillet et août ; la visite elle-même a une taille de groupe limitée et n'admet pas les chiens, prévoyez donc une promenade au parc pour occuper ce temps."
+      ],
+      "tipsEs": [
+        "Combine el Kaiserpark y la Trinkhalle en una sola vuelta; ambos están a 10 minutos a pie uno del otro.",
+        "Hallstatt, uno de los pueblos más fotografiados de Austria, está a 25 minutos en coche o combinando Postbus/tren, ideal para una excursión de un día apta para perros.",
+        "Reserve las entradas para la visita guiada de la Kaiservilla en línea en julio y agosto; la visita en sí tiene grupos reducidos y no admite perros, así que planifique un paseo por el parque para llenar ese tiempo."
+      ],
+      "tipsPt": [
+        "Combine o Kaiserpark e a Trinkhalle num só circuito; ambos ficam a 10 minutos a pé um do outro.",
+        "Hallstatt, uma das aldeias mais fotografadas da Áustria, fica a 25 minutos de carro ou combinando Postbus/comboio, ideal para uma excursão de um dia compatível com cães.",
+        "Reserve os bilhetes da visita guiada à Kaiservilla online em julho e agosto; a visita em si tem grupos reduzidos e não admite cães, por isso planeie um passeio pelo parque para ocupar esse tempo."
+      ],
+      "faqsEn": [
+        {
+          "q": "Can I take my dog on the Kaiservilla guided tour?",
+          "a": "No, the guided interior tour does not admit dogs, but the surrounding Kaiserpark grounds welcome leashed dogs on a separate, cheaper park-only ticket."
+        },
+        {
+          "q": "Does the Katrin cable car allow dogs?",
+          "a": "Yes, dogs travel free with a compulsory muzzle and leash, confirmed on the operator's official tariff page."
+        },
+        {
+          "q": "Is Hallstatt doable as a dog-friendly day trip from Bad Ischl?",
+          "a": "Yes, it is about 25 minutes by car or a short Postbus/train combination, and the village's lakeside paths are walkable with a leashed dog."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Puis-je emmener mon chien à la visite guidée de la Kaiservilla ?",
+          "a": "Non, la visite guidée de l'intérieur n'admet pas les chiens, mais le Kaiserpark environnant accueille les chiens en laisse avec un billet séparé « parc seul » moins cher."
+        },
+        {
+          "q": "La télécabine du Katrin accepte-t-elle les chiens ?",
+          "a": "Oui, les chiens voyagent gratuitement avec muselière et laisse obligatoires, confirmé sur la page tarifaire officielle de l'exploitant."
+        },
+        {
+          "q": "Hallstatt est-elle faisable en excursion d'une journée avec un chien depuis Bad Ischl ?",
+          "a": "Oui, c'est à environ 25 minutes en voiture ou via une courte combinaison Postbus/train, et les chemins au bord du lac du village sont praticables avec un chien en laisse."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Puedo llevar a mi perro a la visita guiada de la Kaiservilla?",
+          "a": "No, la visita guiada al interior no admite perros, pero el Kaiserpark circundante acepta perros con correa mediante una entrada separada y más barata solo para el parque."
+        },
+        {
+          "q": "¿El teleférico del Katrin admite perros?",
+          "a": "Sí, los perros viajan gratis con bozal y correa obligatorios, confirmado en la página de tarifas oficial del operador."
+        },
+        {
+          "q": "¿Es viable Hallstatt como excursión de un día apta para perros desde Bad Ischl?",
+          "a": "Sí, está a unos 25 minutos en coche o mediante una breve combinación de Postbus/tren, y los caminos junto al lago del pueblo son transitables con un perro con correa."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Posso levar o meu cão à visita guiada da Kaiservilla?",
+          "a": "Não, a visita guiada ao interior não admite cães, mas o Kaiserpark envolvente aceita cães presos pela trela com um bilhete separado e mais barato apenas para o parque."
+        },
+        {
+          "q": "O teleférico do Katrin permite cães?",
+          "a": "Sim, os cães viajam grátis com açaime e trela obrigatórios, confirmado na página de tarifas oficial do operador."
+        },
+        {
+          "q": "Hallstatt é viável como excursão de um dia compatível com cães a partir de Bad Ischl?",
+          "a": "Sim, fica a cerca de 25 minutos de carro ou através de uma breve combinação de Postbus/comboio, e os caminhos junto ao lago da aldeia são percorríveis com um cão preso pela trela."
+        }
+      ]
+    },
+    "petsitting": {
+      "titleEn": "Pet Sitting & Dog Walking in Bad Ischl",
+      "titleFr": "Garde d'animaux et promenade de chiens à Bad Ischl",
+      "titleEs": "Cuidado de mascotas y paseo de perros en Bad Ischl",
+      "titlePt": "Cuidado de animais e passeio de cães em Bad Ischl",
+      "introEn": "If you need a few hours of care while visiting the thermal baths or the Kaiservilla's dog-free interior tour, two national platforms with active local sitters cover Bad Ischl and the surrounding Salzkammergut.",
+      "introFr": "Si vous avez besoin de quelques heures de garde pendant une visite aux thermes ou à l'intérieur de la Kaiservilla sans chien, deux plateformes nationales avec des gardiens locaux actifs couvrent Bad Ischl et le Salzkammergut environnant.",
+      "introEs": "Si necesita unas horas de cuidado mientras visita los baños termales o el interior de la Kaiservilla sin perros, dos plataformas nacionales con cuidadores locales activos cubren Bad Ischl y el Salzkammergut circundante.",
+      "introPt": "Se precisar de algumas horas de cuidado enquanto visita os banhos termais ou o interior da Kaiservilla sem cães, duas plataformas nacionais com cuidadores locais ativos cobrem Bad Ischl e o Salzkammergut envolvente.",
+      "places": [
+        {
+          "name": "Holidog",
+          "website": "https://at.holidog.com/hundesitter--bad-ischl--4820",
+          "description": "A national pet-sitting marketplace listing dozens of vetted sitters and dog day-care providers in and around Bad Ischl, bookable by day or by the hour.",
+          "descriptionFr": "Une plateforme nationale de garde d'animaux répertoriant des dizaines de gardiens vérifiés et de services de garderie canine à Bad Ischl et alentours, réservables à la journée ou à l'heure.",
+          "descriptionEs": "Una plataforma nacional de cuidado de mascotas que enumera decenas de cuidadores verificados y servicios de guardería canina en Bad Ischl y sus alrededores, reservables por día o por hora.",
+          "descriptionPt": "Uma plataforma nacional de cuidado de animais que lista dezenas de cuidadores verificados e serviços de creche canina em Bad Ischl e arredores, reserváveis por dia ou por hora.",
+          "serviceType": "Dog walking, day care, boarding",
+          "serviceTypeFr": "Promenade, garderie de jour, pension",
+          "serviceTypeEs": "Paseo, guardería diurna, alojamiento",
+          "serviceTypePt": "Passeio, creche diurna, alojamento",
+          "pricePerDay": "From about 10 EUR per hour walk; day care and boarding priced per sitter",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "tip": "Filter by \"Bad Ischl\" and read the sitter's individual profile reviews before booking, prices and availability vary widely.",
+          "tipFr": "Filtrez par « Bad Ischl » et lisez les avis du profil individuel du gardien avant de réserver, les prix et disponibilités varient beaucoup.",
+          "tipEs": "Filtre por « Bad Ischl » y lea las reseñas del perfil individual del cuidador antes de reservar, los precios y la disponibilidad varían mucho.",
+          "tipPt": "Filtre por « Bad Ischl » e leia as avaliações do perfil individual do cuidador antes de reservar, os preços e a disponibilidade variam muito."
+        },
+        {
+          "name": "Tiersitter24",
+          "website": "https://tiersitter24.at/de/hundesitter/ooe/bad-ischl",
+          "description": "A subscription-free Austrian platform matching pet owners directly with local dog sitters and holiday care providers in the Bad Ischl area, from about 10 EUR per hour.",
+          "descriptionFr": "Une plateforme autrichienne sans abonnement mettant en relation directe les propriétaires d'animaux avec des gardiens de chiens locaux et des services de garde pendant les vacances dans la région de Bad Ischl, à partir d'environ 10 EUR de l'heure.",
+          "descriptionEs": "Una plataforma austriaca sin suscripción que conecta directamente a los dueños de mascotas con cuidadores de perros locales y servicios de cuidado vacacional en la zona de Bad Ischl, desde unos 10 EUR por hora.",
+          "descriptionPt": "Uma plataforma austríaca sem subscrição que liga diretamente os donos de animais a cuidadores de cães locais e serviços de cuidado de férias na área de Bad Ischl, a partir de cerca de 10 EUR por hora.",
+          "serviceType": "Dog sitting, holiday pet care",
+          "serviceTypeFr": "Garde de chiens, garde d'animaux pendant les vacances",
+          "serviceTypeEs": "Cuidado de perros, cuidado de mascotas en vacaciones",
+          "serviceTypePt": "Cuidado de cães, cuidado de animais em férias",
+          "pricePerDay": "From about 10 EUR per hour, no subscription fee",
+          "languages": [
+            "German",
+            "English"
+          ],
+          "tip": "Message sitters directly through the platform a few days ahead in July and August, the busiest local season.",
+          "tipFr": "Contactez directement les gardiens via la plateforme quelques jours à l'avance en juillet et août, la saison locale la plus chargée.",
+          "tipEs": "Contacte directamente con los cuidadores a través de la plataforma con unos días de antelación en julio y agosto, la temporada local más concurrida.",
+          "tipPt": "Contacte diretamente os cuidadores através da plataforma com alguns dias de antecedência em julho e agosto, a época local mais concorrida."
+        }
+      ],
+      "tipsEn": [
+        "Book sitters at least a week ahead in high summer, the Salzkammergut is a popular domestic holiday region and local sitters fill up.",
+        "Most listed sitters are based across the wider Salzkammergut (Bad Goisern, Ebensee) rather than Bad Ischl exclusively, confirm travel distance before booking.",
+        "For a single afternoon while touring the Kaiservilla interior, ask your accommodation first, many small Bad Ischl guesthouses will informally mind a calm dog for an hour or two."
+      ],
+      "tipsFr": [
+        "Réservez un gardien au moins une semaine à l'avance en plein été, le Salzkammergut est une région de vacances nationale très prisée et les gardiens locaux sont vite complets.",
+        "La plupart des gardiens répertoriés sont basés dans l'ensemble du Salzkammergut (Bad Goisern, Ebensee) plutôt qu'exclusivement à Bad Ischl, vérifiez la distance avant de réserver.",
+        "Pour un simple après-midi pendant la visite intérieure de la Kaiservilla, demandez d'abord à votre hébergement, de nombreuses petites pensions de Bad Ischl garderont volontiers un chien calme une heure ou deux."
+      ],
+      "tipsEs": [
+        "Reserve un cuidador con al menos una semana de antelación en pleno verano, el Salzkammergut es una región de vacaciones nacional muy popular y los cuidadores locales se agotan.",
+        "La mayoría de los cuidadores listados están ubicados en todo el Salzkammergut (Bad Goisern, Ebensee) y no exclusivamente en Bad Ischl, confirme la distancia antes de reservar.",
+        "Para una sola tarde mientras visita el interior de la Kaiservilla, pregunte primero en su alojamiento, muchas pequeñas pensiones de Bad Ischl cuidarán informalmente de un perro tranquilo durante una hora o dos."
+      ],
+      "tipsPt": [
+        "Reserve um cuidador com pelo menos uma semana de antecedência no pico do verão, o Salzkammergut é uma região de férias nacional muito popular e os cuidadores locais esgotam-se.",
+        "A maioria dos cuidadores listados está sediada em todo o Salzkammergut (Bad Goisern, Ebensee) e não exclusivamente em Bad Ischl, confirme a distância antes de reservar.",
+        "Para uma única tarde enquanto visita o interior da Kaiservilla, pergunte primeiro no seu alojamento, muitas pequenas pensões de Bad Ischl cuidarão informalmente de um cão calmo por uma ou duas horas."
+      ],
+      "faqsEn": [
+        {
+          "q": "Is there a local dog day-care centre in Bad Ischl itself?",
+          "a": "Coverage is mainly through platform-listed individual sitters (Holidog, Tiersitter24) rather than a fixed day-care facility in town; check each sitter's exact location before booking."
+        },
+        {
+          "q": "How much does a dog sitter cost in Bad Ischl?",
+          "a": "Both listed platforms show rates from around 10 EUR per hour for walking, with day care and overnight boarding priced individually by the sitter."
+        },
+        {
+          "q": "Do sitters speak English?",
+          "a": "Many do, since the Salzkammergut is a major German and international tourist region, but confirm language with the individual sitter before booking."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Y a-t-il une garderie canine locale à Bad Ischl même ?",
+          "a": "La couverture passe surtout par des gardiens individuels répertoriés sur des plateformes (Holidog, Tiersitter24) plutôt que par une garderie fixe en ville ; vérifiez la localisation exacte de chaque gardien avant de réserver."
+        },
+        {
+          "q": "Combien coûte un gardien de chien à Bad Ischl ?",
+          "a": "Les deux plateformes répertoriées affichent des tarifs à partir d'environ 10 EUR de l'heure pour la promenade, la garde de jour et la pension de nuit étant tarifées individuellement par le gardien."
+        },
+        {
+          "q": "Les gardiens parlent-ils anglais ?",
+          "a": "Beaucoup le font, le Salzkammergut étant une grande région touristique allemande et internationale, mais confirmez la langue avec le gardien individuel avant de réserver."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Hay una guardería canina local en la propia Bad Ischl?",
+          "a": "La cobertura se da sobre todo mediante cuidadores individuales listados en plataformas (Holidog, Tiersitter24) en lugar de una guardería fija en la ciudad; confirme la ubicación exacta de cada cuidador antes de reservar."
+        },
+        {
+          "q": "¿Cuánto cuesta un cuidador de perros en Bad Ischl?",
+          "a": "Ambas plataformas listadas muestran tarifas desde unos 10 EUR por hora de paseo, con guardería diurna y alojamiento nocturno tarificados individualmente por el cuidador."
+        },
+        {
+          "q": "¿Los cuidadores hablan inglés?",
+          "a": "Muchos sí, ya que el Salzkammergut es una gran región turística alemana e internacional, pero confirme el idioma con el cuidador individual antes de reservar."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Há uma creche canina local na própria Bad Ischl?",
+          "a": "A cobertura é sobretudo através de cuidadores individuais listados em plataformas (Holidog, Tiersitter24) em vez de uma creche fixa na cidade; confirme a localização exata de cada cuidador antes de reservar."
+        },
+        {
+          "q": "Quanto custa um cuidador de cães em Bad Ischl?",
+          "a": "Ambas as plataformas listadas mostram tarifas a partir de cerca de 10 EUR por hora de passeio, com creche diurna e alojamento noturno cobrados individualmente pelo cuidador."
+        },
+        {
+          "q": "Os cuidadores falam inglês?",
+          "a": "Muitos falam, já que o Salzkammergut é uma grande região turística alemã e internacional, mas confirme o idioma com o cuidador individual antes de reservar."
+        }
+      ]
+    },
+    "tips": {
+      "titleEn": "Practical Tips for Visiting Bad Ischl with a Dog",
+      "titleFr": "Conseils pratiques pour visiter Bad Ischl avec un chien",
+      "titleEs": "Consejos prácticos para visitar Bad Ischl con perro",
+      "titlePt": "Dicas práticas para visitar Bad Ischl com cão",
+      "introEn": "Bad Ischl is one of the gentlest imperial spa towns to visit with a dog: it is compact, mostly flat in the centre, and its biggest sight (the Kaiservilla) has a dog-friendly park wrapped around a dog-free villa. Three local realities shape the trip: the town has no lake of its own, Austrian muzzle-and-leash rules apply on all public transport, and summer brings both tourist crowds and warm afternoons on the shadeless Esplanade.",
+      "introFr": "Bad Ischl est l'une des villes thermales impériales les plus douces à visiter avec un chien : elle est compacte, majoritairement plate en centre-ville, et son plus grand site (la Kaiservilla) possède un parc accueillant les chiens autour d'une villa qui, elle, ne les admet pas. Trois réalités locales structurent le séjour : la ville n'a pas de lac propre, les règles autrichiennes muselière-laisse s'appliquent dans tous les transports publics, et l'été apporte à la fois l'affluence touristique et des après-midis chauds sur l'Esplanade sans ombre.",
+      "introEs": "Bad Ischl es una de las ciudades termales imperiales más apacibles para visitar con perro: es compacta, mayormente llana en el centro, y su mayor atractivo (la Kaiservilla) tiene un parque apto para perros que rodea una villa que no los admite. Tres realidades locales condicionan el viaje: la ciudad no tiene lago propio, las normas austriacas de bozal y correa se aplican en todo el transporte público, y el verano trae tanto afluencia turística como tardes calurosas en la Esplanade sin sombra.",
+      "introPt": "Bad Ischl é uma das cidades termais imperiais mais suaves para visitar com cão: é compacta, maioritariamente plana no centro, e a sua maior atração (a Kaiservilla) tem um parque que aceita cães em torno de uma vila que não os admite. Três realidades locais condicionam a viagem: a cidade não tem lago próprio, as regras austríacas de açaime e trela aplicam-se em todos os transportes públicos, e o verão traz tanto afluência turística como tardes quentes na Esplanade sem sombra.",
+      "sections": [
+        {
+          "titleEn": "The villa problem, solved",
+          "titleFr": "Le problème de la villa, résolu",
+          "titleEs": "El problema de la villa, resuelto",
+          "titlePt": "O problema da vila, resolvido",
+          "contentEn": "The Kaiservilla's guided interior tour does not admit dogs, but a cheaper park-only ticket lets you walk the full 20-hectare Kaiserpark grounds while a companion or the whole party takes turns doing the tour, or simply enjoy the park and skip the villa entirely.",
+          "contentFr": "La visite guidée de l'intérieur de la Kaiservilla n'admet pas les chiens, mais un billet « parc seul » moins cher permet de parcourir l'intégralité des 20 hectares du Kaiserpark pendant qu'un compagnon ou le groupe fait la visite à tour de rôle, ou simplement de profiter du parc en se passant de la villa.",
+          "contentEs": "La visita guiada al interior de la Kaiservilla no admite perros, pero una entrada más económica solo para el parque permite recorrer los 20 hectáreas completas del Kaiserpark mientras un acompañante o el grupo se turna para hacer la visita, o simplemente disfrutar del parque prescindiendo de la villa.",
+          "contentPt": "A visita guiada ao interior da Kaiservilla não admite cães, mas um bilhete mais barato apenas para o parque permite percorrer os 20 hectares completos do Kaiserpark enquanto um acompanhante ou o grupo se reveza na visita, ou simplesmente aproveitar o parque prescindindo da vila."
+        },
+        {
+          "titleEn": "No lake in town, but plenty nearby",
+          "titleFr": "Pas de lac en ville, mais beaucoup à proximité",
+          "titleEs": "Sin lago en la ciudad, pero muchos cerca",
+          "titlePt": "Sem lago na cidade, mas muitos por perto",
+          "contentEn": "Bad Ischl sits at the confluence of the Ischl and Traun rivers but has no lake, so plan a half-day trip to the verified Hundebadeplatz on the Hallstättersee near Obertraun (about 30 km) or the informal dog access at Altmünster on the Traunsee (about 25 km) if your dog needs a real swim.",
+          "contentFr": "Bad Ischl se trouve au confluent des rivières Ischl et Traun mais n'a pas de lac, prévoyez donc une demi-journée d'excursion vers le Hundebadeplatz vérifié sur le Hallstättersee près d'Obertraun (environ 30 km) ou vers l'accès informel pour chiens à Altmünster sur le Traunsee (environ 25 km) si votre chien a besoin d'une vraie baignade.",
+          "contentEs": "Bad Ischl se encuentra en la confluencia de los ríos Ischl y Traun pero no tiene lago, así que planifique una excursión de medio día al Hundebadeplatz verificado en el Hallstättersee cerca de Obertraun (unos 30 km) o al acceso informal para perros en Altmünster en el Traunsee (unos 25 km) si su perro necesita un baño de verdad.",
+          "contentPt": "Bad Ischl fica na confluência dos rios Ischl e Traun mas não tem lago, por isso planeie uma excursão de meio dia ao Hundebadeplatz verificado no Hallstättersee perto de Obertraun (cerca de 30 km) ou ao acesso informal para cães em Altmünster no Traunsee (cerca de 25 km) se o seu cão precisar de um verdadeiro banho."
+        },
+        {
+          "titleEn": "Muzzle and leash on every form of transport",
+          "titleFr": "Muselière et laisse sur tous les moyens de transport",
+          "titleEs": "Bozal y correa en todos los medios de transporte",
+          "titlePt": "Açaime e trela em todos os meios de transporte",
+          "contentEn": "Austria applies a nationwide muzzle-and-leash rule for dogs on ÖBB trains, Postbus services and the Katrin cable car (which carries dogs free). Pack a well-fitted muzzle even if your dog rarely needs one, staff do check before boarding.",
+          "contentFr": "L'Autriche applique une règle nationale muselière-laisse pour les chiens dans les trains ÖBB, les Postbus et la télécabine du Katrin (qui transporte les chiens gratuitement). Emportez une muselière bien ajustée même si votre chien en a rarement besoin, le personnel vérifie avant l'embarquement.",
+          "contentEs": "Austria aplica una norma nacional de bozal y correa para los perros en los trenes ÖBB, los Postbus y el teleférico del Katrin (que transporta perros gratis). Lleve un bozal bien ajustado aunque su perro rara vez lo necesite, el personal lo comprueba antes de embarcar.",
+          "contentPt": "A Áustria aplica uma regra nacional de açaime e trela para cães nos comboios ÖBB, nos Postbus e no teleférico do Katrin (que transporta cães grátis). Leve um açaime bem ajustado mesmo que o seu cão raramente precise dele, o pessoal verifica antes do embarque."
+        },
+        {
+          "titleEn": "Best season and midday heat",
+          "titleFr": "Meilleure saison et chaleur de milieu de journée",
+          "titleEs": "Mejor temporada y calor del mediodía",
+          "titlePt": "Melhor época e calor do meio-dia",
+          "contentEn": "May, June and September offer the mildest walking weather and thinner crowds; July and August are the warmest and busiest, with the treeless Esplanade and Trinkhalle square getting hot at midday, so plan the Siriuskogel or Kaiserpark walk for morning or early evening in high summer.",
+          "contentFr": "Mai, juin et septembre offrent les conditions de marche les plus douces et une affluence plus faible ; juillet et août sont les mois les plus chauds et les plus fréquentés, l'Esplanade sans arbres et la place de la Trinkhalle devenant chaudes en milieu de journée, prévoyez donc la promenade au Siriuskogel ou au Kaiserpark le matin ou en fin d'après-midi en plein été.",
+          "contentEs": "Mayo, junio y septiembre ofrecen las condiciones de paseo más suaves y menos afluencia; julio y agosto son los meses más calurosos y concurridos, con la Esplanade sin árboles y la plaza de la Trinkhalle calentándose al mediodía, así que planifique el paseo por el Siriuskogel o el Kaiserpark por la mañana o al final de la tarde en pleno verano.",
+          "contentPt": "Maio, junho e setembro oferecem as condições de passeio mais amenas e menos afluência; julho e agosto são os meses mais quentes e concorridos, com a Esplanade sem árvores e a praça da Trinkhalle a aquecerem ao meio-dia, por isso planeie o passeio pelo Siriuskogel ou pelo Kaiserpark de manhã ou ao final da tarde no pico do verão."
+        }
+      ],
+      "places": [],
+      "tipsEn": [],
+      "tipsFr": [],
+      "tipsEs": [],
+      "tipsPt": [],
+      "faqsEn": [
+        {
+          "q": "Is Bad Ischl a good base for dog owners visiting the Salzkammergut?",
+          "a": "Yes, it is centrally located with rail and Postbus links to Hallstatt, Bad Goisern, St. Wolfgang and the lake district, plus its own imperial-era sights that welcome leashed dogs outdoors."
+        },
+        {
+          "q": "What is the single most important pet rule to know before visiting?",
+          "a": "The nationwide muzzle-and-leash requirement on ÖBB trains, Postbus services and the Katrin cable car; pack a muzzle even for a calm dog."
+        },
+        {
+          "q": "Is Bad Ischl walkable with an older or less mobile dog?",
+          "a": "Yes, the old town, Kaiserpark and Esplanade are flat and paved, though the Siriuskogel and Katrin excursions involve genuine elevation gain."
+        }
+      ],
+      "faqsFr": [
+        {
+          "q": "Bad Ischl est-elle une bonne base pour les propriétaires de chiens visitant le Salzkammergut ?",
+          "a": "Oui, elle est centralement située avec des liaisons ferroviaires et Postbus vers Hallstatt, Bad Goisern, St. Wolfgang et la région des lacs, en plus de ses propres sites d'époque impériale qui accueillent les chiens en laisse en extérieur."
+        },
+        {
+          "q": "Quelle est la règle la plus importante à connaître avant la visite ?",
+          "a": "L'obligation nationale de muselière et de laisse dans les trains ÖBB, les Postbus et la télécabine du Katrin ; emportez une muselière même pour un chien calme."
+        },
+        {
+          "q": "Bad Ischl est-elle praticable avec un chien âgé ou peu mobile ?",
+          "a": "Oui, la vieille ville, le Kaiserpark et l'Esplanade sont plats et pavés, bien que les excursions au Siriuskogel et au Katrin impliquent un vrai dénivelé."
+        }
+      ],
+      "faqsEs": [
+        {
+          "q": "¿Es Bad Ischl una buena base para dueños de perros que visitan el Salzkammergut?",
+          "a": "Sí, está céntricamente ubicada con enlaces ferroviarios y de Postbus a Hallstatt, Bad Goisern, St. Wolfgang y la región de los lagos, además de sus propios atractivos de época imperial que admiten perros con correa al aire libre."
+        },
+        {
+          "q": "¿Cuál es la norma más importante que hay que conocer antes de visitar?",
+          "a": "La obligación nacional de bozal y correa en los trenes ÖBB, los Postbus y el teleférico del Katrin; lleve un bozal incluso para un perro tranquilo."
+        },
+        {
+          "q": "¿Es Bad Ischl transitable con un perro mayor o de movilidad reducida?",
+          "a": "Sí, el casco antiguo, el Kaiserpark y la Esplanade son llanos y pavimentados, aunque las excursiones al Siriuskogel y al Katrin implican un desnivel real."
+        }
+      ],
+      "faqsPt": [
+        {
+          "q": "Bad Ischl é uma boa base para donos de cães que visitam o Salzkammergut?",
+          "a": "Sim, está centralmente localizada com ligações ferroviárias e de Postbus a Hallstatt, Bad Goisern, St. Wolfgang e a região dos lagos, além das suas próprias atrações de época imperial que aceitam cães presos pela trela ao ar livre."
+        },
+        {
+          "q": "Qual é a regra mais importante a conhecer antes de visitar?",
+          "a": "A obrigação nacional de açaime e trela nos comboios ÖBB, nos Postbus e no teleférico do Katrin; leve um açaime mesmo para um cão calmo."
+        },
+        {
+          "q": "Bad Ischl é percorrível com um cão mais velho ou de mobilidade reduzida?",
+          "a": "Sim, a cidade velha, o Kaiserpark e a Esplanade são planos e pavimentados, embora as excursões ao Siriuskogel e ao Katrin envolvam um desnível real."
+        }
+      ]
+    }
+  }
+}

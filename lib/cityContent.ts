@@ -3235,6 +3235,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'bad-ischl': {
+    history: {
+      fr: `Bad Ischl doit sa fortune à ses sources salines et à un mariage : la naissance ici en 1830 de l'archiduc Franz Joseph, futur empereur, après une cure de fertilité de sa mère, transforma la petite ville de saliniers du Salzkammergut en résidence d'été impériale. Franz Joseph y passa 82 étés consécutifs dans la Kaiservilla, jaune impérial nichée dans un parc de 20 hectares, et y signa en 1914 la déclaration de guerre qui ouvrit la Première Guerre mondiale. La Trinkhalle de 1829, l'Esplanade au bord de la Traun et les pâtisseries centenaires comme Zauner témoignent encore de cette Belle Époque thermale. Aujourd'hui capitale culturelle du Salzkammergut et point de départ vers les lacs voisins (Hallstättersee, Wolfgangsee, Traunsee) et vers Hallstatt, la ville reste une base compacte et plate, facile à explorer à pied avec un chien, même si son plus grand monument, la Kaiservilla, ne se visite pas en sa compagnie.`,
+      en: `Bad Ischl owes its fortune to salt springs and a marriage: the birth here in 1830 of Archduke Franz Joseph, the future emperor, after his mother's fertility cure, turned the small Salzkammergut salt-mining town into an imperial summer residence. Franz Joseph spent 82 consecutive summers at the mustard-yellow Kaiservilla, set in a 20-hectare park, and signed the 1914 declaration of war there that opened the First World War. The 1829 Trinkhalle, the riverside Esplanade and century-old pastry houses like Zauner still carry that spa-town Belle Époque. Today the cultural capital of the Salzkammergut and a gateway to the neighbouring lakes (Hallstättersee, Wolfgangsee, Traunsee) and to Hallstatt, the town remains a compact, flat base that is easy to explore on foot with a dog, even though its biggest landmark, the Kaiservilla, cannot be toured with one.`,
+      es: `Bad Ischl debe su fortuna a las fuentes de sal y a un matrimonio: el nacimiento aquí en 1830 del archiduque Francisco José, futuro emperador, tras una cura de fertilidad de su madre, convirtió la pequeña ciudad salinera del Salzkammergut en residencia de verano imperial. Francisco José pasó 82 veranos consecutivos en la Kaiservilla, de color amarillo imperial y rodeada de un parque de 20 hectáreas, y allí firmó en 1914 la declaración de guerra que abrió la Primera Guerra Mundial. La Trinkhalle de 1829, la Esplanade junto al río y pastelerías centenarias como Zauner siguen mostrando esa Belle Époque termal. Hoy capital cultural del Salzkammergut y puerta de entrada a los lagos vecinos (Hallstättersee, Wolfgangsee, Traunsee) y a Hallstatt, la ciudad sigue siendo una base compacta y llana, fácil de recorrer a pie con un perro, aunque su monumento más importante, la Kaiservilla, no se puede visitar con él.`,
+      pt: `Bad Ischl deve a sua fortuna às nascentes de sal e a um casamento: o nascimento aqui em 1830 do arquiduque Francisco José, futuro imperador, depois de uma cura de fertilidade da sua mãe, transformou a pequena cidade salineira do Salzkammergut numa residência de verão imperial. Francisco José passou 82 verões consecutivos na Kaiservilla, de amarelo imperial e rodeada por um parque de 20 hectares, e ali assinou em 1914 a declaração de guerra que abriu a Primeira Guerra Mundial. A Trinkhalle de 1829, a Esplanade junto ao rio e pastelarias centenárias como a Zauner ainda mostram essa Belle Époque termal. Hoje capital cultural do Salzkammergut e porta de entrada para os lagos vizinhos (Hallstättersee, Wolfgangsee, Traunsee) e para Hallstatt, a cidade continua a ser uma base compacta e plana, fácil de percorrer a pé com um cão, embora o seu maior monumento, a Kaiservilla, não possa ser visitado com ele.`,
+    },
+    sights: [
+      { name: 'Kaiservilla', emoji: '🏛️', petFriendly: false, desc: {
+        fr: `Résidence d'été de l'empereur François-Joseph pendant 82 ans, où fut signée la déclaration de guerre de 1914. La visite guidée de l'intérieur n'admet pas les chiens.`,
+        en: `Emperor Franz Joseph's summer residence for 82 years, where the 1914 declaration of war was signed. The guided interior tour does not admit dogs.`,
+        es: `Residencia de verano del emperador Francisco José durante 82 años, donde se firmó la declaración de guerra de 1914. La visita guiada al interior no admite perros.`,
+        pt: `Residência de verão do imperador Francisco José durante 82 anos, onde foi assinada a declaração de guerra de 1914. A visita guiada ao interior não admite cães.`,
+      } },
+      { name: 'Kaiserpark', emoji: '🌳', petFriendly: true, desc: {
+        fr: `Parc paysager de 20 hectares autour de la Kaiservilla, avec allées de gravier ombragées et le Marmorschlössl. Chiens en laisse bienvenus sur les chemins, pas dans les pavillons.`,
+        en: `A 20-hectare landscape park around the Kaiservilla, with shaded gravel avenues and the Marmorschlössl. Leashed dogs welcome on the paths, not inside the pavilions.`,
+        es: `Parque paisajístico de 20 hectáreas alrededor de la Kaiservilla, con avenidas de grava sombreadas y el Marmorschlössl. Perros con correa bienvenidos en los senderos, no en los pabellones.`,
+        pt: `Parque paisagístico de 20 hectares em torno da Kaiservilla, com avenidas de gravilha sombreadas e o Marmorschlössl. Cães pela trela bem-vindos nos caminhos, não nos pavilhões.`,
+      } },
+      { name: 'Katrin Seilbahn', emoji: '🚡', petFriendly: true, desc: {
+        fr: `Télécabine depuis 1959 jusqu'à la station du Katrin (1 400 m), avec sentiers alpins et vue sur les lacs du Salzkammergut. Chiens gratuits, muselière et laisse obligatoires.`,
+        en: `A cable car since 1959 up to the Katrin mountain station (1,400 m), with alpine trails and views over the Salzkammergut lakes. Dogs travel free, muzzle and leash compulsory.`,
+        es: `Teleférico desde 1959 hasta la estación del Katrin (1.400 m), con senderos alpinos y vistas sobre los lagos del Salzkammergut. Perros gratis, bozal y correa obligatorios.`,
+        pt: `Teleférico desde 1959 até à estação do Katrin (1.400 m), com trilhos alpinos e vista sobre os lagos do Salzkammergut. Cães grátis, açaime e trela obrigatórios.`,
+      } },
+      { name: 'Trinkhalle', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Bâtiment de cure de 1829, aujourd'hui office de tourisme et lieu de rencontre culturel, précédé par le Kurpark ouvert. Chiens en laisse bienvenus dans les jardins extérieurs.`,
+        en: `The 1829 spa building, now the tourist office and cultural meeting point, fronted by the open Kurpark. Leashed dogs welcome in the outdoor gardens.`,
+        es: `Edificio termal de 1829, hoy oficina de turismo y punto de encuentro cultural, precedido por el Kurpark abierto. Perros con correa bienvenidos en los jardines exteriores.`,
+        pt: `Edifício termal de 1829, hoje posto de turismo e ponto de encontro cultural, precedido pelo Kurpark aberto. Cães pela trela bem-vindos nos jardins exteriores.`,
+      } },
+      { name: 'Siriuskogel', emoji: '⛰️', petFriendly: true, desc: {
+        fr: `Colline boisée de 130 m en bordure de ville, surmontée de la tour Kaiser-Franz-Josef-Warte (1885). Circuit de 4,1 km ombragé, en laisse recommandée.`,
+        en: `A 130 m wooded hill at the edge of town, topped by the 1885 Kaiser-Franz-Josef-Warte tower. A shaded 4.1 km circuit trail, leash recommended.`,
+        es: `Colina boscosa de 130 m en el borde de la ciudad, coronada por la torre Kaiser-Franz-Josef-Warte (1885). Circuito sombreado de 4,1 km, correa recomendada.`,
+        pt: `Colina arborizada de 130 m na periferia da cidade, coroada pela torre Kaiser-Franz-Josef-Warte (1885). Circuito sombreado de 4,1 km, trela recomendada.`,
+      } },
+      { name: 'Esplanade', emoji: '🌊', petFriendly: true, desc: {
+        fr: `Promenade plate et arborée le long de la Traun, reliant le Kurpark, la Trinkhalle et les cafés du centre. La balade quotidienne par défaut, en laisse.`,
+        en: `A flat, tree-lined promenade along the Traun river, linking the Kurpark, the Trinkhalle and the town's cafes. The default daily walk, on leash.`,
+        es: `Paseo llano y arbolado junto al río Traun, que conecta el Kurpark, la Trinkhalle y los cafés del centro. El paseo diario habitual, con correa.`,
+        pt: `Passeio plano e arborizado junto ao rio Traun, que liga o Kurpark, a Trinkhalle e os cafés do centro. O passeio diário habitual, pela trela.`,
+      } },
+    ],
+    petTips: {
+      fr: [
+        `Ayez toujours une muselière sur vous : obligatoire avec la laisse dans les trains ÖBB, les Postbus et la télécabine du Katrin (qui transporte les chiens gratuitement).`,
+        `La Kaiservilla ne se visite pas avec un chien : achetez le billet « parc seul » pour profiter du Kaiserpark pendant qu'un compagnon fait la visite guidée.`,
+        `Bad Ischl n'a pas de lac : pour une vraie baignade, comptez 30 minutes de route jusqu'au Hundebadeplatz signalisé du Hallstättersee à Obertraun.`,
+        `L'Esplanade et la place de la Trinkhalle sont sans ombre : évitez le plein midi en juillet-août et privilégiez le matin ou la fin de journée.`,
+        `Hallstatt, à 25 minutes en voiture ou en combinant Postbus et train, fait une excursion d'une journée facile et compatible avec les chiens.`,
+      ],
+      en: [
+        `Carry a muzzle at all times: compulsory with the leash on ÖBB trains, Postbus services and the Katrin cable car (which carries dogs free).`,
+        `The Kaiservilla cannot be toured with a dog: buy the park-only ticket to enjoy the Kaiserpark while a companion does the guided tour.`,
+        `Bad Ischl has no lake of its own: for a real swim, allow 30 minutes' drive to the signed Hundebadeplatz on the Hallstättersee at Obertraun.`,
+        `The Esplanade and the Trinkhalle square have no shade: avoid full midday in July and August and favour morning or early evening.`,
+        `Hallstatt, 25 minutes by car or a Postbus/train combination, makes an easy dog-friendly day trip.`,
+      ],
+      es: [
+        `Lleva siempre un bozal encima: obligatorio junto con la correa en los trenes ÖBB, los Postbus y el teleférico del Katrin (que transporta perros gratis).`,
+        `La Kaiservilla no se puede visitar con perro: compra la entrada solo al parque para disfrutar del Kaiserpark mientras un acompañante hace la visita guiada.`,
+        `Bad Ischl no tiene lago propio: para un baño de verdad, cuenta 30 minutos en coche hasta el Hundebadeplatz señalizado del Hallstättersee en Obertraun.`,
+        `La Esplanade y la plaza de la Trinkhalle no tienen sombra: evita el mediodía pleno en julio y agosto y prefiere la mañana o el final de la tarde.`,
+        `Hallstatt, a 25 minutos en coche o combinando Postbus y tren, es una excursión de un día fácil y apta para perros.`,
+      ],
+      pt: [
+        `Traga sempre um açaime consigo: obrigatório junto com a trela nos comboios ÖBB, nos Postbus e no teleférico do Katrin (que transporta cães grátis).`,
+        `A Kaiservilla não pode ser visitada com um cão: compre o bilhete apenas para o parque para aproveitar o Kaiserpark enquanto um acompanhante faz a visita guiada.`,
+        `Bad Ischl não tem lago próprio: para um banho a sério, conte 30 minutos de carro até ao Hundebadeplatz sinalizado no Hallstättersee em Obertraun.`,
+        `A Esplanade e a praça da Trinkhalle não têm sombra: evite o meio-dia pleno em julho e agosto e prefira a manhã ou o final da tarde.`,
+        `Hallstatt, a 25 minutos de carro ou combinando Postbus e comboio, é uma excursão de um dia fácil e compatível com cães.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Vétérinaire 24h/24 : Tierklinik Bad Ischl Dr. Adelsmayr/Mag. Grabner OG, Kaltenbachstraße 26b, +43 6132 25849, urgences tous les jours y compris dimanches et jours fériés.`,
+        `Second cabinet : Tierambulanz Salzkammergut (Dr. Peter Prinz), Salinenplatz 2b, +43 6132 23724, consultations de routine sur rendez-vous.`,
+        `Transports : muselière + laisse obligatoires dans les trains ÖBB (forfait 2 EUR jusqu'à 98 km) et les Postbus ; télécabine du Katrin gratuite pour les chiens.`,
+        `Baignade : aucun lac en ville ; Hundebadeplatz vérifié sur le Hallstättersee à Obertraun (env. 30 km) ou accès informel sur le Traunsee à Altmünster (env. 25 km).`,
+        `Documents : règles UE standard (passeport animal, puce ISO, vaccin antirabique valide au moins 21 jours avant le voyage) ; le 112 est réservé aux urgences humaines.`,
+      ],
+      en: [
+        `24-hour vet: Tierklinik Bad Ischl Dr. Adelsmayr/Mag. Grabner OG, Kaltenbachstraße 26b, +43 6132 25849, emergencies every day including Sundays and public holidays.`,
+        `Second practice: Tierambulanz Salzkammergut (Dr. Peter Prinz), Salinenplatz 2b, +43 6132 23724, routine consultations by appointment.`,
+        `Transport: muzzle + leash compulsory on ÖBB trains (flat 2 EUR up to 98 km) and Postbus services; the Katrin cable car is free for dogs.`,
+        `Swimming: no lake in town; a verified Hundebadeplatz on the Hallstättersee at Obertraun (about 30 km) or an informal access point on the Traunsee at Altmünster (about 25 km).`,
+        `Documents: standard EU rules (pet passport, ISO microchip, rabies vaccination valid at least 21 days before travel); 112 is for human emergencies only.`,
+      ],
+      es: [
+        `Veterinario 24 horas: Tierklinik Bad Ischl Dr. Adelsmayr/Mag. Grabner OG, Kaltenbachstraße 26b, +43 6132 25849, urgencias todos los días incluidos domingos y festivos.`,
+        `Segunda consulta: Tierambulanz Salzkammergut (Dr. Peter Prinz), Salinenplatz 2b, +43 6132 23724, consultas rutinarias con cita previa.`,
+        `Transporte: bozal + correa obligatorios en los trenes ÖBB (2 EUR fijos hasta 98 km) y los Postbus; el teleférico del Katrin es gratis para los perros.`,
+        `Baño: sin lago en la ciudad; Hundebadeplatz verificado en el Hallstättersee en Obertraun (unos 30 km) o acceso informal en el Traunsee en Altmünster (unos 25 km).`,
+        `Documentos: reglas estándar de la UE (pasaporte de mascota, microchip ISO, vacuna antirrábica válida al menos 21 días antes del viaje); el 112 es solo para emergencias humanas.`,
+      ],
+      pt: [
+        `Veterinário 24 horas: Tierklinik Bad Ischl Dr. Adelsmayr/Mag. Grabner OG, Kaltenbachstraße 26b, +43 6132 25849, emergências todos os dias incluindo domingos e feriados.`,
+        `Segunda clínica: Tierambulanz Salzkammergut (Dr. Peter Prinz), Salinenplatz 2b, +43 6132 23724, consultas de rotina com marcação.`,
+        `Transportes: açaime + trela obrigatórios nos comboios ÖBB (2 EUR fixos até 98 km) e nos Postbus; o teleférico do Katrin é grátis para os cães.`,
+        `Banho: sem lago na cidade; Hundebadeplatz verificado no Hallstättersee em Obertraun (cerca de 30 km) ou acesso informal no Traunsee em Altmünster (cerca de 25 km).`,
+        `Documentos: regras padrão da UE (passaporte de animal, microchip ISO, vacina antirrábica válida pelo menos 21 dias antes da viagem); o 112 é apenas para emergências humanas.`,
+      ],
+    },
+  },
+
   bakewell: {
     history: {
       fr: `Bakewell, seule vraie ville-marché à l'intérieur du parc national du Peak District, s'est développée autour de son gué sur la rivière Wye, de son pont médiéval à cinq arches et de son marché hebdomadaire, obtenu par charte au XIIIe siècle. Réputée dans tout le pays pour le Bakewell pudding et la Bakewell tart, elle est aujourd'hui la base de marche du White Peak, ce pays de vallées calcaires et d'anciennes voies ferrées. Une profonde culture canine britannique s'y ajoute : les chiens sont admis dans la plupart des pubs, sur le plat Monsal Trail et son célèbre viaduc, et en laisse à travers le jardin et le vaste parc de Chatsworth, l'un des plus grands domaines seigneuriaux d'Angleterre. C'est une terre de travail : moutons et bétail partout, oiseaux nichant au sol au printemps. Note pratique : depuis le Brexit, un Animal Health Certificate britannique est exigé pour les chiens venant de l'UE.`,

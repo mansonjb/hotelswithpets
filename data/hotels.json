@@ -4131,6 +4131,234 @@
     "slug": "aaa-fewo-bad-gastein-bockstein-bad-gastein"
   },
   {
+    "id": "bad-ischl-1",
+    "slug": "landhaus-fay-b-b",
+    "name": "Landhaus Fay B&B",
+    "destinationSlug": "bad-ischl",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 289,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/landhaus-fay.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ],
+    "petPolicyFr": "Chiens et chats acceptés ; merci de confirmer les conditions avec l'établissement lors de la réservation.",
+    "petPolicyEs": "Se admiten perros y gatos; confirme las condiciones con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos são aceites; confirme as condições com o estabelecimento ao reservar."
+  },
+  {
+    "id": "bad-ischl-2",
+    "slug": "heritage-boutique-apartments-bad-ischl",
+    "name": "Heritage Boutique Apartments Bad Ischl",
+    "destinationSlug": "bad-ischl",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 213,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/heritage-boutique-apartments-bad-ischl.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "petPolicyFr": "Chiens et chats acceptés ; merci de confirmer les conditions avec l'établissement lors de la réservation.",
+    "petPolicyEs": "Se admiten perros y gatos; confirme las condiciones con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos são aceites; confirme as condições com o estabelecimento ao reservar."
+  },
+  {
+    "id": "bad-ischl-3",
+    "slug": "grand-elisabeth-4-sterne-superior",
+    "name": "Grand Elisabeth - 4 Sterne superior",
+    "destinationSlug": "bad-ischl",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 1013,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/grand-elisabeth.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Parking on site"
+    ],
+    "address": "Tänzelgasse 6, 4820 Bad Ischl, Austria",
+    "petPolicyFr": "Chiens et chats acceptés ; merci de confirmer les conditions avec l'établissement lors de la réservation.",
+    "petPolicyEs": "Se admiten perros y gatos; confirme las condiciones con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos são aceites; confirme as condições com o estabelecimento ao reservar."
+  },
+  {
+    "id": "bad-ischl-4",
+    "slug": "boutiquehotel-hubertushof",
+    "name": "Boutiquehotel Hubertushof",
+    "destinationSlug": "bad-ischl",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 711,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/boutiquehotel-hubertushof.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "address": "Götzstraße 1, 4820 Bad Ischl, Austria",
+    "petPolicyFr": "Chiens et chats acceptés ; merci de confirmer les conditions avec l'établissement lors de la réservation.",
+    "petPolicyEs": "Se admiten perros y gatos; confirme las condiciones con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos são aceites; confirme as condições com o estabelecimento ao reservar."
+  },
+  {
+    "id": "bad-ischl-5",
+    "slug": "hotel-goldener-ochs",
+    "name": "Hotel Goldener Ochs",
+    "destinationSlug": "bad-ischl",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 494,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/goldener-ochs.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ],
+    "address": "Griesgasse 1, 4820 Bad Ischl, Austria",
+    "petPolicyFr": "Chiens et chats acceptés ; merci de confirmer les conditions avec l'établissement lors de la réservation.",
+    "petPolicyEs": "Se admiten perros y gatos; confirme las condiciones con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos são aceites; confirme as condições com o estabelecimento ao reservar."
+  },
+  {
+    "id": "bad-ischl-6",
+    "slug": "villa-lilly-luxus-appartements-im-villenviertel",
+    "name": "Villa Lilly - Luxus Appartements im Villenviertel",
+    "destinationSlug": "bad-ischl",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.5,
+    "reviewCount": 396,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/villa-lilly.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ],
+    "address": "34 Brennerstraße, 4820 Bad Ischl, Austria",
+    "petPolicyFr": "Chiens et chats acceptés ; merci de confirmer les conditions avec l'établissement lors de la réservation.",
+    "petPolicyEs": "Se admiten perros y gatos; confirme las condiciones con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos são aceites; confirme as condições com o estabelecimento ao reservar."
+  },
+  {
+    "id": "bad-ischl-7",
+    "slug": "the-view-modern-panorama-residence",
+    "name": "THE VIEW - Modern Panorama Residence",
+    "destinationSlug": "bad-ischl",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 454,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/the-view-modern-panorama-residence.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi"
+    ],
+    "address": "17 Eglmoosgasse, 4820 Bad Ischl, Austria",
+    "petPolicyFr": "Chiens et chats acceptés ; merci de confirmer les conditions avec l'établissement lors de la réservation.",
+    "petPolicyEs": "Se admiten perros y gatos; confirme las condiciones con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos são aceites; confirme as condições com o estabelecimento ao reservar."
+  },
+  {
+    "id": "bad-ischl-8",
+    "slug": "villa-seilern-vital-resort",
+    "name": "Villa Seilern Vital Resort",
+    "destinationSlug": "bad-ischl",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 982,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/at/villa-seilern-vital-resort-bad-ischl.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome; please confirm conditions with the property when booking.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Spa & wellness centre",
+      "Private parking"
+    ],
+    "address": "Tänzlgasse 11, 4820 Bad Ischl, Austria",
+    "petPolicyFr": "Chiens et chats acceptés ; merci de confirmer les conditions avec l'établissement lors de la réservation.",
+    "petPolicyEs": "Se admiten perros y gatos; confirme las condiciones con el establecimiento al reservar.",
+    "petPolicyPt": "Cães e gatos são aceites; confirme as condições com o estabelecimento ao reservar."
+  },
+  {
     "id": "bakewell-1",
     "name": "Rafters at Riverside House Hotel",
     "destinationSlug": "bakewell",

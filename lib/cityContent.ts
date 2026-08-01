@@ -34727,6 +34727,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  perth: {
+    history: {
+      fr: `Perth s'étend sur les terres des Whadjuk Noongar, occupées depuis des dizaines de milliers d'années, avant la fondation en 1829 de la Swan River Colony, l'une des rares colonies britanniques d'Australie créées sans convicts, avant que la main-d'oeuvre pénitentiaire ne soit finalement appelée en 1850. La ruée vers l'or des années 1890 fit tripler la population et légua les façades de Fremantle et de St Georges Terrace, et les booms miniers du XXe siècle firent le reste. Aujourd'hui l'agglomération approche les 2,3 millions d'habitants, à quelque 2 100 km de la ville importante la plus proche : c'est la grande ville la plus isolée du monde. Le climat est méditerranéen, étés secs et brûlants, hivers doux et pluvieux, tempérés l'après-midi par le Fremantle Doctor, la brise de mer la plus fiable du pays. Pour un chien, Perth offre le plus long littoral sans laisse d'Australie urbaine, mais un interdit total dans les transports publics.`,
+      en: `Perth sits on Whadjuk Noongar country, occupied for tens of thousands of years before the Swan River Colony was founded in 1829 as one of the few British settlements in Australia established without convicts, before convict labour was finally requested in 1850. The gold rushes of the 1890s tripled the population and left the facades of Fremantle and St Georges Terrace behind them, and the mining booms of the twentieth century did the rest. The metropolitan area now approaches 2.3 million people, around 2,100 km from the nearest sizeable city, which makes it the most isolated big city on earth. The climate is Mediterranean, with dry burning summers and mild wet winters, cooled each afternoon by the Fremantle Doctor, the most dependable sea breeze in the country. For a dog, Perth offers the longest off-leash coastline in urban Australia, set against a total ban on pets in public transport.`,
+      es: `Perth se asienta en tierras whadjuk noongar, ocupadas durante decenas de miles de años antes de que en 1829 se fundara la Swan River Colony, una de las pocas colonias británicas de Australia creadas sin presidiarios, hasta que en 1850 se acabó pidiendo mano de obra penal. Las fiebres del oro de la década de 1890 triplicaron la población y dejaron tras de sí las fachadas de Fremantle y de St Georges Terrace, y los auges mineros del siglo XX hicieron el resto. El área metropolitana ronda hoy los 2,3 millones de habitantes, a unos 2.100 km de la siguiente ciudad de tamaño, lo que la convierte en la gran ciudad más aislada del planeta. El clima es mediterráneo, con veranos secos y abrasadores e inviernos suaves y lluviosos, refrescados cada tarde por el Fremantle Doctor, la brisa marina más fiable del país. Para un perro, Perth ofrece el litoral sin correa más largo de la Australia urbana, frente a una prohibición total en el transporte público.`,
+      pt: `Perth assenta em terras whadjuk noongar, ocupadas durante dezenas de milhares de anos antes de a Swan River Colony ser fundada em 1829 como uma das poucas colónias britânicas da Austrália criadas sem condenados, até que em 1850 se acabou por pedir mão de obra penal. As corridas ao ouro da década de 1890 triplicaram a população e deixaram atrás de si as fachadas de Fremantle e da St Georges Terrace, e os ciclos mineiros do século XX fizeram o resto. A área metropolitana ronda hoje os 2,3 milhões de pessoas, a cerca de 2100 km da cidade de dimensão mais próxima, o que faz dela a grande cidade mais isolada do planeta. O clima é mediterrânico, com verões secos e escaldantes e invernos amenos e chuvosos, arrefecidos todas as tardes pelo Fremantle Doctor, a brisa marítima mais fiável do país. Para um cão, Perth oferece o litoral sem trela mais longo da Austrália urbana, contra uma proibição total nos transportes públicos.`,
+    },
+    sights: [
+      { name: 'Kings Park and Botanic Garden', emoji: '🌳', petFriendly: true, desc: {
+        fr: `400 hectares de brousse, de pelouses et de jardin botanique au-dessus de la Swan River, plus vaste que Central Park. Chiens admis en laisse de 2 m maximum, hors passerelle surélevée, Naturescape, aires de jeux et cafés ; aucun sac fourni.`,
+        en: `400 hectares of bushland, lawns and botanic garden above the Swan River, larger than Central Park. Dogs welcome on a lead of 2 m or less, excluded from the raised walkway, Naturescape, playgrounds and cafes; no waste bags provided.`,
+        es: `400 hectáreas de monte, praderas y jardín botánico sobre el río Swan, más grandes que Central Park. Perros admitidos con correa de 2 m como máximo, excluidos de la pasarela elevada, Naturescape, áreas de juegos y cafeterías; no facilitan bolsas.`,
+        pt: `400 hectares de mato, relvados e jardim botânico acima do rio Swan, maiores do que o Central Park. Cães aceites com trela de 2 m no máximo, excluídos do passadiço elevado, do Naturescape, dos parques infantis e dos cafés; não fornecem sacos.`,
+      }},
+      { name: 'Mosman and Leighton dog beach', emoji: '🏖️', petFriendly: true, desc: {
+        fr: `Plus de 2 km de sable sans laisse, du perré de Beach Street à South Cottesloe jusqu'au pont ferroviaire de North Fremantle. Ouvert 24 h/24 toute l'année, sans restriction horaire, laisse obligatoire sur les parkings et les cheminements.`,
+        en: `Over 2 km of off-leash sand, from the Beach Street groyne at South Cottesloe to the railway bridge at North Fremantle. Open 24 hours all year with no time restriction, leads required in the car parks and on the access paths.`,
+        es: `Más de 2 km de arena sin correa, desde el espigón de Beach Street en South Cottesloe hasta el puente del ferrocarril de North Fremantle. Abierta 24 horas todo el año y sin restricción horaria, con correa obligatoria en aparcamientos y accesos.`,
+        pt: `Mais de 2 km de areia sem trela, do molhe da Beach Street em South Cottesloe até à ponte ferroviária de North Fremantle. Aberta 24 horas todo o ano e sem restrição horária, com trela obrigatória nos parques de estacionamento e nos acessos.`,
+      }},
+      { name: 'Fremantle West End', emoji: '⚓', petFriendly: true, desc: {
+        fr: `Trame portuaire victorienne quasi intacte entre le port de pêche et Victoria Quay, avec brasseries et terrasses. Chiens en laisse dans les rues, sur l'Esplanade Reserve et sur le quai ; les Fremantle Markets couverts n'admettent que les chiens d'assistance.`,
+        en: `An almost intact Victorian port grid between the fishing harbour and Victoria Quay, thick with breweries and terraces. Leashed dogs are fine in the streets, on the Esplanade Reserve and on the quay; the covered Fremantle Markets admit assistance dogs only.`,
+        es: `Trama portuaria victoriana casi intacta entre el puerto pesquero y Victoria Quay, llena de cervecerías y terrazas. Perros con correa en las calles, en la Esplanade Reserve y en el muelle; los Fremantle Markets cubiertos solo admiten perros de asistencia.`,
+        pt: `Malha portuária vitoriana quase intacta entre o porto de pesca e Victoria Quay, cheia de cervejeiras e esplanadas. Cães com trela nas ruas, na Esplanade Reserve e no cais; os Fremantle Markets cobertos só admitem cães de assistência.`,
+      }},
+      { name: 'Ozone Reserve Dog Agility Park', emoji: '🐕', petFriendly: true, desc: {
+        fr: `Le seul parc d'agility canin du centre de Perth, sur Plain Street à East Perth, entièrement clôturé et sans laisse. Barres de saut, slalom, rampe pyramide, passerelle, bancs, fontaine et distributeur de sacs.`,
+        en: `The only dog agility park in central Perth, on Plain Street in East Perth, fully fenced and off leash. Jump bars, weave poles, a pyramid ramp, a dog walk, benches, a water fountain and a bag dispenser.`,
+        es: `El único parque de agility canino del centro de Perth, en Plain Street, East Perth, totalmente vallado y sin correa. Saltos, eslalon de postes, rampa piramidal, pasarela, bancos, fuente y dispensador de bolsas.`,
+        pt: `O único parque de agility canino do centro de Perth, na Plain Street, em East Perth, totalmente vedado e sem trela. Barras de salto, slalom, rampa em pirâmide, passadiço, bancos, bebedouro e dispensador de sacos.`,
+      }},
+      { name: 'Elizabeth Quay and the Swan foreshore', emoji: '🌆', petFriendly: true, desc: {
+        fr: `L'anse qui a reconnecté le centre au fleuve, prolongée par un chemin riverain continu vers Point Fraser et Claisebrook Cove. Chiens bienvenus en laisse en permanence, ramassage obligatoire ; aucune ombre, à éviter à midi en été.`,
+        en: `The inlet that reconnected the city centre to the river, extended by a continuous foreshore path towards Point Fraser and Claisebrook Cove. Dogs welcome on a lead at all times and owners must clean up; no shade at all, so avoid it at midday in summer.`,
+        es: `La ensenada que volvió a conectar el centro con el río, prolongada por un camino ribereño continuo hacia Point Fraser y Claisebrook Cove. Perros bienvenidos siempre con correa y recogida obligatoria; sin sombra alguna, evitable al mediodía en verano.`,
+        pt: `A enseada que voltou a ligar o centro ao rio, prolongada por um caminho ribeirinho contínuo até Point Fraser e Claisebrook Cove. Cães bem-vindos sempre com trela e recolha obrigatória; sem qualquer sombra, a evitar ao meio-dia no verão.`,
+      }},
+      { name: 'Rottnest Island (Wadjemup)', emoji: '🚫', petFriendly: false, desc: {
+        fr: `L'île aux quokkas, à 19 km au large de Fremantle, est une réserve de catégorie A : les animaux domestiques y sont interdits, sur terre comme dans ses eaux, sous peine d'amende et de retrait immédiat aux frais du propriétaire. Prévoyez un gardien pour cette journée.`,
+        en: `The quokka island, 19 km off Fremantle, is a Class A Reserve: domestic pets are banned from the island and its waters alike, with penalties and immediate removal at the owner's expense. Book a sitter for that day.`,
+        es: `La isla de los quokkas, a 19 km de Fremantle, es reserva de clase A: los animales domésticos están prohibidos tanto en la isla como en sus aguas, con sanciones y retirada inmediata a cargo del propietario. Reserva un cuidador para ese día.`,
+        pt: `A ilha dos quokkas, a 19 km de Fremantle, é reserva de classe A: os animais domésticos estão proibidos na ilha e nas suas águas, com coimas e remoção imediata a expensas do dono. Reserve um cuidador para esse dia.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Transports publics : Transperth n'admet aucun animal, ni en caisse ni à aucune heure, sur ses trains, bus et ferries ; seuls les chiens d'assistance agréés voyagent. Prévoyez une voiture, Uber Pet ou un taxi animalier.`,
+        `Laisse : la Dog Act d'Australie-Occidentale impose la laisse dans tout lieu public sauf à l'intérieur d'une zone d'exercice signalisée, et le chien doit y rester sous contrôle effectif. Amendes sur place fréquentes autour des plages.`,
+        `Chaleur : de novembre à mars, promenez avant 9 h et après la brise de mer de l'après-midi ; testez le sol du dos de la main et ne laissez jamais un chien dans une voiture garée.`,
+        `Brousse : serpents dugites et tigres actifs de septembre à avril, et appâts empoisonnés au 1080 hors des parcs métropolitains, sans antidote. Laisse et sentier balisé dans toute brousse inconnue.`,
+        `Rottnest Island est totalement interdite aux animaux domestiques : organisez cette excursion avec un gardien ou une garderie.`,
+      ],
+      en: [
+        `Public transport: Transperth allows no animals at all, in a carrier or otherwise, on its trains, buses and ferries; only approved assistance dogs travel. Plan on a car, Uber Pet or a pet taxi.`,
+        `Leads: the Western Australian Dog Act requires a lead in every public place except inside a signposted dog exercise area, where the dog must still be under effective control. On the spot fines are common around beaches.`,
+        `Heat: from November to March walk before 9am and after the afternoon sea breeze; test the ground with the back of your hand and never leave a dog in a parked car.`,
+        `Bushland: dugites and tiger snakes are active from September to April, and 1080 poison baits are laid outside the metropolitan parks with no antidote available. Lead and marked path in any unfamiliar bush.`,
+        `Rottnest Island bans domestic pets outright, so build that excursion around a sitter or a daycare booking.`,
+      ],
+      es: [
+        `Transporte público: Transperth no admite ningún animal, ni en transportín ni de ninguna forma, en sus trenes, autobuses y ferris; solo viajan los perros de asistencia aprobados. Cuenta con coche, Uber Pet o taxi para animales.`,
+        `Correa: la Dog Act de Australia Occidental exige correa en todo lugar público salvo dentro de una zona de ejercicio señalizada, donde el perro debe seguir bajo control efectivo. Las multas in situ son frecuentes en las playas.`,
+        `Calor: de noviembre a marzo pasea antes de las 9 y después de la brisa marina de la tarde; prueba el suelo con el dorso de la mano y nunca dejes al perro en un coche aparcado.`,
+        `Monte: dugites y serpientes tigre activas de septiembre a abril, y cebos envenenados con 1080 fuera de los parques metropolitanos, sin antídoto. Correa y sendero marcado en cualquier monte desconocido.`,
+        `Rottnest Island prohíbe por completo los animales domésticos: organiza esa excursión con un cuidador o una guardería.`,
+      ],
+      pt: [
+        `Transportes públicos: a Transperth não admite qualquer animal, em transportadora ou não, nos seus comboios, autocarros e ferries; só viajam os cães de assistência aprovados. Conte com carro, Uber Pet ou táxi para animais.`,
+        `Trela: a Dog Act da Austrália Ocidental exige trela em todo o lugar público exceto dentro de uma zona de exercício sinalizada, onde o cão tem de continuar sob controlo efetivo. As coimas no local são frequentes nas praias.`,
+        `Calor: de novembro a março passeie antes das 9h e depois da brisa marítima da tarde; teste o chão com as costas da mão e nunca deixe o cão num carro estacionado.`,
+        `Mato: dugites e cobras-tigre ativas de setembro a abril, e iscos envenenados com 1080 fora dos parques metropolitanos, sem antídoto. Trela e trilho marcado em qualquer mato desconhecido.`,
+        `Rottnest Island proíbe totalmente os animais domésticos: organize essa excursão com um cuidador ou uma creche.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport de Perth (PER), 12 km à l'est : seuls les chiens d'assistance accrédités entrent dans les terminaux ; un chien de compagnie voyage en fret et se récupère au terminal fret, environ une heure après l'atterrissage et dans les trois heures.`,
+        `Importation : l'Australie n'a pas de passeport pour animaux ; il faut un permis d'importation, une puce, un vaccin antirabique, un titrage d'anticorps et au moins 10 jours de quarantaine à Mickleham près de Melbourne, seule installation du pays. Arrivée directe à Perth impossible.`,
+        `Urgences vétérinaires 24h/24 : WAVES, 640 Beeliar Drive, Success, +61 8 9412 5700 ; The Animal Hospital, Murdoch University, 1300 652 494 ; Perth Vet Emergency, 1490 Albany Highway, Cannington, +61 8 9207 5207. Le 000 est réservé aux humains.`,
+        `Climat méditerranéen : maximales autour de 31 °C en janvier et février, hiver doux et pluvieux autour de 18 à 19 °C de juin à août ; d'avril à novembre reste la meilleure période avec un chien.`,
+        `Garde : Mad Paws et Pawshake couvrent l'agglomération de Perth, tarifs fixés par chaque gardien et affichés sur son profil, carnet de vaccination exigé.`,
+      ],
+      en: [
+        `Perth Airport (PER), 12 km east: only accredited assistance dogs enter the terminals; a pet dog travels as freight and is collected at the freight terminal, usually about an hour after landing and within three hours.`,
+        `Importing: Australia has no pet passport; you need an import permit, microchip, rabies vaccination, antibody titre test and at least 10 days of quarantine at Mickleham near Melbourne, the country's only such facility. Flying straight into Perth is not possible.`,
+        `24 hour emergency vets: WAVES, 640 Beeliar Drive, Success, +61 8 9412 5700; The Animal Hospital, Murdoch University, 1300 652 494; Perth Vet Emergency, 1490 Albany Highway, Cannington, +61 8 9207 5207. The 000 number is for humans only.`,
+        `Mediterranean climate: maximums around 31 °C in January and February, mild wet winters around 18 to 19 °C from June to August; April to November remains the best window with a dog.`,
+        `Sitting: Mad Paws and Pawshake both cover metropolitan Perth, rates are set by each sitter and shown on their profile, vaccination record required.`,
+      ],
+      es: [
+        `Aeropuerto de Perth (PER), 12 km al este: solo los perros de asistencia acreditados entran en las terminales; un perro de compañía viaja como carga y se recoge en la terminal de carga, normalmente una hora después del aterrizaje y dentro de un plazo de tres horas.`,
+        `Importación: Australia no tiene pasaporte para mascotas; hacen falta permiso de importación, microchip, vacuna antirrábica, prueba de titulación de anticuerpos y al menos 10 días de cuarentena en Mickleham, cerca de Melbourne, la única instalación del país. Volar directamente a Perth no es posible.`,
+        `Urgencias veterinarias 24 horas: WAVES, 640 Beeliar Drive, Success, +61 8 9412 5700; The Animal Hospital, Murdoch University, 1300 652 494; Perth Vet Emergency, 1490 Albany Highway, Cannington, +61 8 9207 5207. El 000 es solo para personas.`,
+        `Clima mediterráneo: máximas en torno a 31 °C en enero y febrero, inviernos suaves y lluviosos en torno a 18 o 19 °C de junio a agosto; de abril a noviembre sigue siendo la mejor franja con perro.`,
+        `Cuidado: Mad Paws y Pawshake cubren el área metropolitana de Perth, las tarifas las fija cada cuidador y aparecen en su perfil, con cartilla de vacunación obligatoria.`,
+      ],
+      pt: [
+        `Aeroporto de Perth (PER), 12 km a leste: só os cães de assistência acreditados entram nos terminais; um cão de companhia viaja como carga e é levantado no terminal de carga, normalmente cerca de uma hora depois da aterragem e no prazo de três horas.`,
+        `Importação: a Austrália não tem passaporte para animais; é preciso licença de importação, microchip, vacina antirrábica, teste de titulação de anticorpos e pelo menos 10 dias de quarentena em Mickleham, perto de Melbourne, a única instalação do país. Voar diretamente para Perth não é possível.`,
+        `Urgências veterinárias 24 horas: WAVES, 640 Beeliar Drive, Success, +61 8 9412 5700; The Animal Hospital, Murdoch University, 1300 652 494; Perth Vet Emergency, 1490 Albany Highway, Cannington, +61 8 9207 5207. O 000 é apenas para pessoas.`,
+        `Clima mediterrânico: máximas à volta dos 31 °C em janeiro e fevereiro, invernos amenos e chuvosos à volta dos 18 a 19 °C de junho a agosto; de abril a novembro continua a ser a melhor janela com um cão.`,
+        `Guarda: a Mad Paws e a Pawshake cobrem a área metropolitana de Perth, as tarifas são definidas por cada cuidador e aparecem no seu perfil, com boletim de vacinas obrigatório.`,
+      ],
+    },
+  },
+
   perugia: {
     history: {
       fr: `Pérouse, fondée par les Étrusques qui lui laissèrent ses murailles cyclopéennes et l'Arco Etrusco du IIIe siècle avant notre ère, fut l'une des douze cités de la dodécapole étrusque avant de devenir romaine, puis commune médiévale batailleuse et siège d'une des plus anciennes universités d'Europe (1308). Sa Fontana Maggiore sculptée par les Pisano, son Palazzo dei Priori et la Rocca Paolina, forteresse papale de 1540 aujourd'hui traversée d'escalators, racontent deux mille cinq cents ans d'histoire continue. Capitale de l'Ombrie d'environ 165 000 habitants, elle vit au rythme de ses étudiants, du chocolat Perugina et d'Umbria Jazz chaque juillet. Avec un chien, la ville perchée est plus simple qu'il n'y paraît : acqueduc médiéval devenu promenade suspendue, jardins panoramiques, aires canines clôturées en contrebas et hôpital vétérinaire universitaire ouvert 24h/24. Le lac Trasimène et ses plages canines sont à trente minutes de train.`,

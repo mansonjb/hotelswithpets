@@ -1386,6 +1386,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Le Castillet and the old town, the Palais des Rois de Majorque ramparts, and the year-round dog section of Canet-en-Roussillon's Lido beach`,
       area: `the historic centre around Le Castillet and Place de Verdun, the Têt riverbanks, and the Roussillon coast at Canet and Torreilles`,
     },
+    perth: {
+      personality: `the Australian capital with the longest off-leash coastline, where more than two kilometres of dog beach at Mosman and Leighton stay open around the clock, while Transperth keeps pets off every train, bus and ferry`,
+      highlight: `the Mosman and Leighton dog beach, the fenced agility park at Ozone Reserve, and the bushland tracks of Kings Park`,
+      area: `Fremantle, Cottesloe and North Fremantle, and East Perth`,
+    },
     perugia: {
       personality: 'one of the most dog-welcoming hilltop cities in central Italy',
       highlight: 'the Pian di Massiano dog park, the medieval aqueduct walk, and the Monte Tezio trails',
@@ -3439,6 +3444,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le Castillet et la vieille ville, les remparts du Palais des Rois de Majorque et la section canine à l'année du Lido de Canet-en-Roussillon`,
       area: `le centre historique autour du Castillet et de la Place de Verdun, les berges de la Têt et la côte du Roussillon à Canet et Torreilles`,
     },
+    perth: {
+      personality: `la capitale australienne au plus long littoral sans laisse, où plus de deux kilomètres de plage à chiens à Mosman et Leighton restent ouverts 24 heures sur 24, alors que Transperth interdit les animaux dans tous ses trains, bus et ferries`,
+      highlight: `la plage à chiens de Mosman et Leighton, le parc d'agility clôturé d'Ozone Reserve et les sentiers de brousse de Kings Park`,
+      area: `Fremantle, Cottesloe et North Fremantle, et East Perth`,
+    },
     perugia: {
       personality: 'l\'une des villes perchées les plus accueillantes pour les chiens du centre de l\'Italie',
       highlight: 'le parc canin de Pian di Massiano, la promenade de l\'aqueduc médiéval et les sentiers du Monte Tezio',
@@ -5491,6 +5501,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `Le Castillet y el casco antiguo, las murallas del Palais des Rois de Majorque y la sección canina todo el año del Lido de Canet-en-Roussillon`,
       area: `el centro histórico en torno a Le Castillet y la Place de Verdun, las orillas del Têt y la costa del Rosellón en Canet y Torreilles`,
     },
+    perth: {
+      personality: `la capital australiana con el litoral sin correa más largo, donde más de dos kilómetros de playa canina en Mosman y Leighton abren las 24 horas, mientras Transperth prohíbe las mascotas en todos sus trenes, autobuses y ferris`,
+      highlight: `la playa canina de Mosman y Leighton, el parque de agility vallado de Ozone Reserve y los senderos de monte de Kings Park`,
+      area: `Fremantle, Cottesloe y North Fremantle, y East Perth`,
+    },
     perugia: {
       personality: 'una de las ciudades altas más acogedoras con los perros del centro de Italia',
       highlight: 'la zona canina de Pian di Massiano, el paseo del acueducto medieval y los senderos del Monte Tezio',
@@ -7542,6 +7557,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `a soalheira capital catalã do sul de França, uma cidade compacta e pet-friendly com cerca de 37 áreas caninas sinalizadas, uma cultura de esplanada tolerante e fácil acesso às praias pet-friendly do Rossilhão`,
       highlight: `Le Castillet e o centro histórico, as muralhas do Palais des Rois de Majorque e a secção canina o ano inteiro do Lido de Canet-en-Roussillon`,
       area: `o centro histórico em torno de Le Castillet e da Place de Verdun, as margens do Têt e a costa do Rossilhão em Canet e Torreilles`,
+    },
+    perth: {
+      personality: `a capital australiana com o litoral sem trela mais longo, onde mais de dois quilómetros de praia canina em Mosman e Leighton abrem 24 horas por dia, enquanto a Transperth proíbe animais em todos os seus comboios, autocarros e ferries`,
+      highlight: `a praia canina de Mosman e Leighton, o parque de agility vedado do Ozone Reserve e os trilhos de mato do Kings Park`,
+      area: `Fremantle, Cottesloe e North Fremantle, e East Perth`,
     },
     perugia: {
       personality: 'uma das cidades altas mais acolhedoras para cães do centro de Itália',

@@ -20318,6 +20318,81 @@
     "iata": "PGF"
   },
   {
+    "slug": "perth",
+    "name": "Perth",
+    "country": "Australia",
+    "countryCode": "AU",
+    "flag": "🇦🇺",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/perth.jpg",
+    "intro": "Perth backs the longest stretch of off-leash urban coastline in Australia, over 2 km of 24-hour dog beach at Mosman and Leighton alone, but Transperth bans pets from every train, bus and ferry, so a car is essential.",
+    "lat": -31.9523,
+    "lng": 115.8613,
+    "weather": {
+      "jan": {
+        "temp": 31,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 31,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "mar": {
+        "temp": 29,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 26,
+        "desc": "Warm & pleasant",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "jun": {
+        "temp": 19,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Cool & showery",
+        "icon": "🌦️"
+      },
+      "sep": {
+        "temp": 20,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 26,
+        "desc": "Warm & dry",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 29,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      }
+    },
+    "iata": "PER"
+  },
+  {
     "slug": "perugia",
     "name": "Perugia",
     "country": "Italy",

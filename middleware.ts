@@ -38,14 +38,9 @@ export function middleware(request: NextRequest) {
   // Edge bot filter runs first, for every matched request (all locales), before
   // any locale redirect or rendering happens.
   if (isBlockedBot(request)) {
-    // TEMP diagnostic: sample the blocked bots (UA + IP) into Vercel logs so we
-    // can resolve their ASN and see what they are. Remove after inspection.
-    if (Math.random() < 0.2) {
-      const ua = request.headers.get('user-agent') ?? ''
-      const ip = request.headers.get('x-forwarded-for') ?? request.headers.get('x-real-ip') ?? ''
-      const city = request.headers.get('x-vercel-ip-city') ?? ''
-      console.log(`[bot-block] ip=${ip} city=${city} path=${request.nextUrl.pathname} ua=${ua}`)
-    }
+    // Confirmed source: a scraper fleet on Tencent Cloud Singapore (AS132203),
+    // rotating spoofed user-agents, walking destination pages. Country SG catches
+    // it. 403 before any render.
     return new NextResponse('Access denied', {
       status: 403,
       headers: { 'x-blocked-reason': 'geo-bot-filter', 'cache-control': 'no-store' },

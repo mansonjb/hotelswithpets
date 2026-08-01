@@ -23481,6 +23481,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  kolobrzeg: {
+    history: {
+      en: `Kolobrzeg has been a salt-trading and health-resort town on the Baltic coast since medieval times, its name tied to the brine springs that still feed the town's spa treatments today. Nearly levelled in the brutal 1945 battle at the end of the Second World War, it was rebuilt as a Polish seaside resort, with the reconstructed brick lighthouse standing as the closest thing to a surviving landmark from the old town. Every summer, thousands of Polish and German visitors come for the mineral baths, the long sandy beach and the flat promenade that links the pier, the lighthouse and the spa park. In March 2025 the city council removed its blanket ban on dogs from the beach regulations after a ruling that a total ban was unlawful, opening the whole coastline to leashed dogs for the first time. For a visitor with a dog, Kolobrzeg now combines a genuinely dog-friendly beach, flat and free sightseeing, and a slower, health-resort pace that suits long walks over hurried itineraries.`,
+      fr: `Kolobrzeg est depuis le Moyen Âge une ville de commerce du sel et de cure thermale sur la côte baltique, son nom reste lié aux sources salées qui alimentent encore aujourd'hui les soins de la station. Presque entièrement rasée lors de la bataille brutale de 1945 à la fin de la Seconde Guerre mondiale, elle a été reconstruite comme station balnéaire polonaise, le phare en brique reconstruit étant ce qui se rapproche le plus d'un vestige de la vieille ville. Chaque été, des milliers de visiteurs polonais et allemands viennent pour les bains minéraux, la longue plage de sable et la promenade plate qui relie le môle, le phare et le parc thermal. En mars 2025, le conseil municipal a supprimé l'interdiction générale des chiens du règlement des plages après une décision jugeant illégale une interdiction totale, ouvrant tout le littoral aux chiens en laisse pour la première fois. Pour un visiteur avec un chien, Kolobrzeg combine désormais une plage véritablement accueillante, des visites plates et gratuites, et le rythme plus lent d'une station thermale qui convient aux longues balades plutôt qu'aux visites express.`,
+      es: `Kolobrzeg es desde la Edad Media una ciudad de comercio de sal y cura termal en la costa báltica, su nombre sigue ligado a los manantiales salinos que todavía alimentan los tratamientos termales de la localidad. Casi arrasada durante la brutal batalla de 1945 al final de la Segunda Guerra Mundial, fue reconstruida como balneario polaco, y el faro de ladrillo reconstruido es lo más parecido a un vestigio superviviente del casco antiguo. Cada verano, miles de visitantes polacos y alemanes acuden por los baños minerales, la larga playa de arena y el paseo llano que enlaza el muelle, el faro y el parque termal. En marzo de 2025 el ayuntamiento eliminó la prohibición total de perros del reglamento de playas tras una resolución que consideraba ilegal una prohibición absoluta, abriendo todo el litoral a los perros con correa por primera vez. Para un visitante con perro, Kolobrzeg combina ahora una playa realmente amigable, un turismo llano y gratuito, y el ritmo más pausado de un balneario que favorece los paseos largos frente a las visitas apresuradas.`,
+      pt: `Kolobrzeg é, desde a Idade Média, uma cidade de comércio de sal e cura termal na costa báltica, o seu nome continua ligado às nascentes salinas que ainda hoje alimentam os tratamentos termais da localidade. Quase arrasada durante a brutal batalha de 1945 no final da Segunda Guerra Mundial, foi reconstruída como estância balnear polaca, sendo o farol de tijolo reconstruído o que mais se aproxima de um vestígio sobrevivente da cidade velha. Todos os verões, milhares de visitantes polacos e alemães chegam pelos banhos minerais, pela longa praia de areia e pelo passeio plano que liga o molhe, o farol e o parque termal. Em março de 2025, a câmara municipal removeu a proibição total de cães do regulamento das praias após uma decisão que considerou ilegal uma proibição absoluta, abrindo toda a costa a cães presos à trela pela primeira vez. Para um visitante com cão, Kolobrzeg combina agora uma praia genuinamente acolhedora, um turismo plano e gratuito, e o ritmo mais pausado de uma estância termal que favorece passeios longos em vez de visitas apressadas.`,
+    },
+    sights: [
+      {
+        name: `Latarnia Morska`,
+        emoji: `🗼`,
+        petFriendly: true,
+        desc: {
+          en: `The 26-metre brick lighthouse at the harbour mouth, rebuilt after the war and open for a 109-step climb. The grounds and courtyard welcome leashed dogs, though the tight spiral stairs to the top gallery are best left to one person at a time.`,
+          fr: `Le phare en brique de 26 mètres à l'entrée du port, reconstruit après la guerre et ouvert pour une ascension de 109 marches. Les abords et la cour accueillent les chiens en laisse, mais l'étroit escalier en colimaçon vers la galerie supérieure est réservé à une personne à la fois.`,
+          es: `El faro de ladrillo de 26 metros en la bocana del puerto, reconstruido tras la guerra y abierto para una subida de 109 escalones. El recinto y el patio acogen a los perros con correa, aunque la estrecha escalera de caracol hasta la galería superior es mejor subirla de uno en uno.`,
+          pt: `O farol de tijolo de 26 metros na entrada do porto, reconstruído após a guerra e aberto para uma subida de 109 degraus. O recinto e o pátio acolhem cães à trela, embora a estreita escada em caracol até à galeria superior seja melhor subir uma pessoa de cada vez.`,
+        },
+      },
+      {
+        name: `Molo Kolobrzeskie`,
+        emoji: `🌊`,
+        petFriendly: true,
+        desc: {
+          en: `Poland's longest concrete pier, running over 220 metres out into the Baltic with open sea views on both sides. Wide, flat and free, it's an easy walk with a leashed dog at any time of day.`,
+          fr: `Le plus long môle en béton de Pologne, s'avançant sur plus de 220 mètres dans la Baltique avec une vue dégagée sur la mer des deux côtés. Large, plat et gratuit, c'est une balade facile avec un chien en laisse à toute heure.`,
+          es: `El muelle de hormigón más largo de Polonia, que se adentra más de 220 metros en el Báltico con vistas abiertas al mar a ambos lados. Ancho, llano y gratuito, es un paseo fácil con un perro con correa a cualquier hora del día.`,
+          pt: `O molhe de betão mais longo da Polónia, avançando mais de 220 metros pelo Báltico com vistas abertas ao mar de ambos os lados. Largo, plano e gratuito, é um passeio fácil com um cão à trela a qualquer hora do dia.`,
+        },
+      },
+      {
+        name: `Nadmorski Park Zdrojowy`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          en: `The seaside spa park linking the pier to the town centre through rose gardens and shaded avenues, passing the monument to Poland's 1945 symbolic wedding ring to the Baltic. Flat and free, with leashed dogs welcome throughout.`,
+          fr: `Le parc thermal en bord de mer relie le môle au centre-ville à travers roseraies et allées ombragées, passant devant le monument de l'alliance symboliquement jetée dans la Baltique par la Pologne en 1945. Plat et gratuit, les chiens en laisse y sont partout les bienvenus.`,
+          es: `El parque termal junto al mar conecta el muelle con el centro a través de rosaledas y avenidas sombreadas, pasando junto al monumento del anillo simbólico lanzado al Báltico por Polonia en 1945. Llano y gratuito, los perros con correa son bienvenidos en todo el recorrido.`,
+          pt: `O parque termal junto ao mar liga o molhe ao centro da cidade através de roseirais e avenidas sombreadas, passando pelo monumento ao anel simbólico lançado ao Báltico pela Polónia em 1945. Plano e gratuito, os cães à trela são bem-vindos em todo o percurso.`,
+        },
+      },
+      {
+        name: `Ekopark Wschodni`,
+        emoji: `🌲`,
+        petFriendly: true,
+        desc: {
+          en: `A 381-hectare stretch of coastal forest and salt marsh on the eastern edge of town, with flat gravel paths good for long, quiet walks. Keep dogs leashed near the wetland sections, which host nesting birds.`,
+          fr: `Une étendue de 381 hectares de forêt côtière et de marais salant à l'est de la ville, avec des chemins de gravier plats propices aux longues balades tranquilles. Gardez votre chien en laisse près des zones humides, qui accueillent des oiseaux nicheurs.`,
+          es: `Una extensión de 381 hectáreas de bosque costero y marisma salada en el extremo este de la ciudad, con caminos de grava llanos ideales para paseos largos y tranquilos. Mantenga al perro con correa cerca de las zonas húmedas, que albergan aves anidando.`,
+          pt: `Uma extensão de 381 hectares de floresta costeira e sapal salgado no extremo leste da cidade, com caminhos de gravilha planos ideais para passeios longos e tranquilos. Mantenha o cão à trela perto das zonas húmidas, que acolhem aves a nidificar.`,
+        },
+      },
+      {
+        name: `Plaża dla Psów (Podczele i Radzikowo)`,
+        emoji: `🏖️`,
+        petFriendly: true,
+        desc: {
+          en: `The two long-standing dog-beach sections at the eastern (Podczele) and western (Radzikowo) ends of town remain the most spacious, least crowded stretches of sand, even now that dogs are allowed on every Kolobrzeg beach.`,
+          fr: `Les deux secteurs de plage historiquement réservés aux chiens, à l'est (Podczele) et à l'ouest (Radzikowo) de la ville, restent les étendues de sable les plus spacieuses et les moins fréquentées, même maintenant que les chiens sont admis sur toutes les plages de Kolobrzeg.`,
+          es: `Las dos secciones de playa históricamente reservadas a perros, en el este (Podczele) y el oeste (Radzikowo) de la ciudad, siguen siendo los tramos de arena más amplios y menos concurridos, incluso ahora que los perros están permitidos en todas las playas de Kolobrzeg.`,
+          pt: `As duas secções de praia historicamente reservadas a cães, a leste (Podczele) e a oeste (Radzikowo) da cidade, continuam a ser os trechos de areia mais espaçosos e menos concorridos, mesmo agora que os cães são permitidos em todas as praias de Kolobrzeg.`,
+        },
+      },
+      {
+        name: `Bulwar Parsęty`,
+        emoji: `⛵`,
+        petFriendly: true,
+        desc: {
+          en: `A flat, paved embankment along the Parseta river through the harbour, past fishing boats and the marina, a calmer alternative to the beach with shade from the harbour buildings in parts.`,
+          fr: `Une digue plate et pavée le long de la rivière Parseta, à travers le port, entre bateaux de pêche et marina, une alternative plus calme à la plage, en partie ombragée par les bâtiments du port.`,
+          es: `Un malecón llano y pavimentado a lo largo del río Parseta, a través del puerto, entre barcos de pesca y el puerto deportivo, una alternativa más tranquila a la playa, con sombra de los edificios del puerto en algunos tramos.`,
+          pt: `Um dique plano e pavimentado ao longo do rio Parseta, atravessando o porto, entre barcos de pesca e a marina, uma alternativa mais calma à praia, com sombra dos edifícios do porto em alguns trechos.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Since March 2025, leashed dogs are allowed on every beach in Kolobrzeg, not only the two historic dog sections at Podczele (east) and Radzikowo (west); a muzzle is required only for breeds classified as aggressive under Polish law.`,
+        `There is no 24-hour vet in town; the nearest round-the-clock animal hospital is Klinika Vet24h in Szczecin, about 95 km away, so save the number before you need it.`,
+        `Sanitary rules keep dogs out of enclosed restaurant dining rooms almost everywhere; plan on outdoor terraces around Towarowa, Narutowicza and Kamienna streets instead.`,
+        `There is no dedicated off-leash dog park, so bring a long line if your dog needs off-lead exercise; the Ekopark Wschodni's gravel paths are the best space for a long walk.`,
+        `EU pet passport, microchip and up-to-date rabies vaccination are required to enter Poland; carry the documents, spot checks do happen at the German-Polish border for those driving in.`,
+      ],
+      fr: [
+        `Depuis mars 2025, les chiens en laisse sont autorisés sur toutes les plages de Kolobrzeg, pas seulement les deux secteurs historiques de Podczele (est) et Radzikowo (ouest) ; la muselière n'est obligatoire que pour les races classées agressives par la loi polonaise.`,
+        `Il n'y a pas de vétérinaire ouvert 24h/24 en ville ; l'hôpital animalier permanent le plus proche est la Klinika Vet24h à Szczecin, à environ 95 km, notez le numéro avant d'en avoir besoin.`,
+        `Les règles sanitaires excluent les chiens des salles de restaurant fermées presque partout ; prévoyez plutôt les terrasses extérieures autour des rues Towarowa, Narutowicza et Kamienna.`,
+        `Il n'existe pas de parc canin dédié à la liberté, prévoyez une longe si votre chien a besoin de se dépenser sans laisse ; les chemins de gravier de l'Ekopark Wschodni sont le meilleur espace pour une longue balade.`,
+        `Un passeport animal européen, une puce électronique et une vaccination antirabique à jour sont exigés pour entrer en Pologne ; gardez les documents sur vous, des contrôles ont lieu à la frontière germano-polonaise pour ceux qui arrivent en voiture.`,
+      ],
+      es: [
+        `Desde marzo de 2025, los perros con correa están permitidos en todas las playas de Kolobrzeg, no solo en las dos secciones históricas de Podczele (este) y Radzikowo (oeste); el bozal solo es obligatorio para razas clasificadas como agresivas por la ley polaca.`,
+        `No hay veterinario 24 horas en la ciudad; el hospital veterinario permanente más cercano es la Klinika Vet24h en Szczecin, a unos 95 km, guarda el número antes de necesitarlo.`,
+        `Las normas sanitarias excluyen a los perros de los comedores cerrados de los restaurantes en casi todas partes; cuenta con las terrazas exteriores de las calles Towarowa, Narutowicza y Kamienna.`,
+        `No existe un parque canino dedicado sin correa, lleva una correa larga si tu perro necesita ejercicio suelto; los caminos de grava del Ekopark Wschodni son el mejor espacio para un paseo largo.`,
+        `Se exige pasaporte europeo para mascotas, microchip y vacunación antirrábica al día para entrar en Polonia; lleva los documentos encima, se realizan controles ocasionales en la frontera germano-polaca para quienes llegan en coche.`,
+      ],
+      pt: [
+        `Desde março de 2025, os cães à trela são permitidos em todas as praias de Kolobrzeg, não apenas nas duas secções históricas de Podczele (leste) e Radzikowo (oeste); o açaime só é obrigatório para raças classificadas como agressivas pela lei polaca.`,
+        `Não há veterinário 24 horas na cidade; o hospital veterinário permanente mais próximo é a Klinika Vet24h em Szczecin, a cerca de 95 km, guarde o número antes de precisar dele.`,
+        `As regras sanitárias excluem os cães das salas fechadas dos restaurantes em quase todo o lado; conte com as esplanadas exteriores das ruas Towarowa, Narutowicza e Kamienna.`,
+        `Não existe um parque canino dedicado sem trela, leve uma trela longa se o seu cão precisar de exercício solto; os caminhos de gravilha do Ekopark Wschodni são o melhor espaço para um passeio longo.`,
+        `É exigido passaporte europeu para animais, microchip e vacinação antirrábica em dia para entrar na Polónia; leve os documentos consigo, há controlos pontuais na fronteira germano-polaca para quem chega de carro.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Nearest airport: Szczecin-Goleniow (SZZ), about 80 km / 1h15 by car to the south-west. Kolobrzeg also has its own train station with direct connections to Poznan, Warsaw and Szczecin.`,
+        `Kolobrzeg is flat and walkable; the town centre, harbour, lighthouse, pier and spa park all connect on foot in well under an hour end to end.`,
+        `Poland uses the zloty (PLN), not the euro, though many tourist businesses near the beach display both. Card payments are widely accepted.`,
+        `Daytime vet clinics: Przychodnia dla Zwierząt Kolman (ul. Słoneczna 8, Radzikowo, +48 94 35 10 500) and Gabinet Weterynaryjny Gołembiewski (ul. Kamienna 3, +48 604 397 972). Nearest 24-hour hospital: Klinika Vet24h, Szczecin, +48 91 500 11 10.`,
+        `Peak season is July-August; late May, June and September offer milder weather, a quieter beach and open restaurant terraces without the summer crowds.`,
+      ],
+      fr: [
+        `Aéroport le plus proche : Szczecin-Goleniów (SZZ), à environ 80 km / 1h15 en voiture au sud-ouest. Kolobrzeg dispose aussi de sa propre gare avec des liaisons directes vers Poznań, Varsovie et Szczecin.`,
+        `Kolobrzeg est plate et facile à parcourir à pied ; le centre-ville, le port, le phare, le môle et le parc thermal se relient tous à pied en bien moins d'une heure d'un bout à l'autre.`,
+        `La Pologne utilise le zloty (PLN), pas l'euro, même si de nombreux commerces touristiques près de la plage affichent les deux devises. Les paiements par carte sont largement acceptés.`,
+        `Cliniques vétérinaires de jour : Przychodnia dla Zwierząt Kolman (ul. Słoneczna 8, Radzikowo, +48 94 35 10 500) et Gabinet Weterynaryjny Gołembiewski (ul. Kamienna 3, +48 604 397 972). Hôpital permanent le plus proche : Klinika Vet24h, Szczecin, +48 91 500 11 10.`,
+        `La haute saison va de juillet à août ; fin mai, juin et septembre offrent une météo plus douce, une plage plus calme et des terrasses de restaurants ouvertes sans l'affluence estivale.`,
+      ],
+      es: [
+        `Aeropuerto más cercano: Szczecin-Goleniów (SZZ), a unos 80 km / 1h15 en coche al suroeste. Kolobrzeg también tiene su propia estación de tren con conexiones directas a Poznan, Varsovia y Szczecin.`,
+        `Kolobrzeg es llana y fácil de recorrer a pie; el centro, el puerto, el faro, el muelle y el parque termal se conectan todos a pie en bastante menos de una hora de punta a punta.`,
+        `Polonia usa el zloty (PLN), no el euro, aunque muchos negocios turísticos cerca de la playa muestran ambas divisas. Los pagos con tarjeta se aceptan ampliamente.`,
+        `Clínicas veterinarias diurnas: Przychodnia dla Zwierząt Kolman (ul. Słoneczna 8, Radzikowo, +48 94 35 10 500) y Gabinet Weterynaryjny Gołembiewski (ul. Kamienna 3, +48 604 397 972). Hospital permanente más cercano: Klinika Vet24h, Szczecin, +48 91 500 11 10.`,
+        `La temporada alta es julio-agosto; finales de mayo, junio y septiembre ofrecen un clima más suave, una playa más tranquila y terrazas de restaurantes abiertas sin las aglomeraciones del verano.`,
+      ],
+      pt: [
+        `Aeroporto mais próximo: Szczecin-Goleniów (SZZ), a cerca de 80 km / 1h15 de carro a sudoeste. Kolobrzeg também tem a sua própria estação ferroviária com ligações diretas a Poznan, Varsóvia e Szczecin.`,
+        `Kolobrzeg é plana e fácil de percorrer a pé; o centro, o porto, o farol, o molhe e o parque termal ligam-se todos a pé em bem menos de uma hora de ponta a ponta.`,
+        `A Polónia usa o zloty (PLN), não o euro, embora muitos negócios turísticos perto da praia mostrem ambas as moedas. Os pagamentos por cartão são amplamente aceites.`,
+        `Clínicas veterinárias diurnas: Przychodnia dla Zwierząt Kolman (ul. Słoneczna 8, Radzikowo, +48 94 35 10 500) e Gabinet Weterynaryjny Gołembiewski (ul. Kamienna 3, +48 604 397 972). Hospital permanente mais próximo: Klinika Vet24h, Szczecin, +48 91 500 11 10.`,
+        `A época alta é julho-agosto; final de maio, junho e setembro oferecem um clima mais ameno, uma praia mais tranquila e esplanadas de restaurantes abertas sem a azáfama do verão.`,
+      ],
+    },
+  },
+
   kotor: {
     history: {
       fr: `Au fond du plus profond fjord de la Méditerranée, qui est en réalité une ria noyée, Kotor a été convoitée par tous les empires : Illyriens, Romains, Byzantins, puis quatre siècles de République de Venise qui lui ont laissé ses remparts spectaculaires, grimpant à 260 mètres jusqu'au fort Saint-Jean. La vieille ville, inscrite à l'UNESCO avec toute la bouche de Kotor, est un labyrinthe de placettes, de palais et d'églises romanes dont la cathédrale Saint-Tryphon, consacrée en 1166. Les chats y sont rois : descendants des matous embarqués sur les navires marchands, ils sont devenus le symbole officieux de la ville, choyés par les habitants. Entre la promenade littorale de Dobrota, les villages de la baie comme Perast et les lacets vertigineux du Lovćen, Kotor offre au voyageur avec chien un concentré d'Adriatique, à condition d'éviter les heures de pointe des croisiéristes.`,

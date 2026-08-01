@@ -13765,6 +13765,33 @@
     "iata": "PLQ"
   },
   {
+    "slug": "kolobrzeg",
+    "name": "Kolobrzeg",
+    "country": "Poland",
+    "countryCode": "PL",
+    "flag": "🇵🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/kolobrzeg.jpg",
+    "intro": "Kolobrzeg is a flat, walkable Baltic spa town that opened all of its beaches to leashed dogs in 2025, with a free seafront promenade, lighthouse and pier covering the sightseeing in a single easy loop.",
+    "lat": 54.1759,
+    "lng": 15.5833,
+    "weather": {
+      "jan": { "temp": 1, "desc": "Cold & damp", "icon": "🌧️" },
+      "feb": { "temp": 1, "desc": "Cold & damp", "icon": "🌧️" },
+      "mar": { "temp": 4, "desc": "Cool & breezy", "icon": "🌦️" },
+      "apr": { "temp": 8, "desc": "Mild & breezy", "icon": "🌤️" },
+      "may": { "temp": 12, "desc": "Mild & pleasant", "icon": "⛅" },
+      "jun": { "temp": 16, "desc": "Mild & sunny", "icon": "🌤️" },
+      "jul": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
+      "aug": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
+      "sep": { "temp": 14, "desc": "Mild & breezy", "icon": "⛅" },
+      "oct": { "temp": 10, "desc": "Cool & breezy", "icon": "🌦️" },
+      "nov": { "temp": 5, "desc": "Cold & damp", "icon": "🌧️" },
+      "dec": { "temp": 2, "desc": "Cold & damp", "icon": "🌧️" }
+    },
+    "iata": "SZZ"
+  },
+  {
     "slug": "kotor",
     "name": "Kotor",
     "country": "Montenegro",

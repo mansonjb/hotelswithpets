@@ -281,6 +281,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the open-air Cerro del Molinete archaeological park, the marble-paved Calle Mayor, and the palm-lined Paseo Alfonso XII harbour promenade`,
       area: `the casco antiguo around the Roman Theatre, the harbour-front Puerto, and the Parque de la Rosa with its fenced dog park`,
     },
+    kolobrzeg: {
+      personality: `a flat, easy-walking Baltic spa resort that opened all of its beaches to leashed dogs in 2025, built around a historic lighthouse, a 220-metre concrete pier, and the shaded Nadmorski Park Zdrojowy`,
+      highlight: `the Latarnia Morska lighthouse grounds, Molo Kolobrzeskie pier, and the seafront promenade through the spa park`,
+      area: `the port waterfront around Towarowa street, the Old Town near Narutowicza, and the spa quarter by the pier`,
+    },
     kotor: {
       personality: `one of the most scenic walled coastal towns in Montenegro`,
       highlight: `the walled Old Town, the Dobrota waterfront promenade, and the Bay of Kotor fjord`,
@@ -2339,6 +2344,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le parc archéologique en plein air du Cerro del Molinete, la Calle Mayor pavée de marbre et la promenade du port Paseo Alfonso XII bordée de palmiers`,
       area: `le casco antiguo autour du théâtre romain, le front de mer du Puerto et le Parque de la Rosa avec son parc canin clôturé`,
     },
+    kolobrzeg: {
+      personality: `une station thermale balte plate et facile à parcourir, qui a ouvert toutes ses plages aux chiens en laisse en 2025, organisée autour d'un phare historique, d'un môle en béton de 220 mètres et du Nadmorski Park Zdrojowy ombragé`,
+      highlight: `les abords du phare Latarnia Morska, le môle Molo Kolobrzeskie et la promenade en bord de mer à travers le parc thermal`,
+      area: `le front de mer du port autour de la rue Towarowa, la vieille ville près de Narutowicza et le quartier thermal près du môle`,
+    },
     kotor: {
       personality: `l'une des plus belles villes côtières fortifiées du Monténégro`,
       highlight: `la vieille ville fortifiée, la promenade du front de mer de Dobrota et le fjord de la baie de Kotor`,
@@ -4396,6 +4406,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el parque arqueológico al aire libre del Cerro del Molinete, la Calle Mayor de mármol y el Paseo Alfonso XII del puerto bordeado de palmeras`,
       area: `el casco antiguo en torno al Teatro Romano, el frente marítimo del Puerto y el Parque de la Rosa con su parque canino vallado`,
     },
+    kolobrzeg: {
+      personality: `una localidad termal báltica llana y fácil de recorrer, que abrió todas sus playas a los perros con correa en 2025, construida en torno a un faro histórico, un muelle de hormigón de 220 metros y el sombreado Nadmorski Park Zdrojowy`,
+      highlight: `el recinto del faro Latarnia Morska, el muelle Molo Kolobrzeskie y el paseo marítimo a través del parque termal`,
+      area: `el frente portuario junto a la calle Towarowa, el casco antiguo cerca de Narutowicza y el barrio termal junto al muelle`,
+    },
     kotor: {
       personality: `una de las ciudades costeras amuralladas más bonitas de Montenegro`,
       highlight: `el casco antiguo amurallado, el paseo marítimo de Dobrota y el fiordo de la bahía de Kotor`,
@@ -6452,6 +6467,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma das cidades portuárias mais ricas em história e mais percorríveis com cão de Espanha`,
       highlight: `o parque arqueológico ao ar livre do Cerro del Molinete, a Calle Mayor pavimentada a mármore e o Paseo Alfonso XII do porto ladeado de palmeiras`,
       area: `o casco antiguo em redor do Teatro Romano, a frente ribeirinha do Puerto e o Parque de la Rosa com o seu parque canino vedado`,
+    },
+    kolobrzeg: {
+      personality: `uma localidade termal báltica plana e fácil de percorrer, que abriu todas as suas praias a cães à trela em 2025, organizada em torno de um farol histórico, um molhe de betão de 220 metros e o sombreado Nadmorski Park Zdrojowy`,
+      highlight: `o recinto do farol Latarnia Morska, o molhe Molo Kolobrzeskie e o passeio marítimo através do parque termal`,
+      area: `a frente portuária junto à rua Towarowa, a cidade velha perto de Narutowicza e o bairro termal junto ao molhe`,
     },
     kotor: {
       personality: `uma das mais belas cidades costeiras amuralhadas do Montenegro`,

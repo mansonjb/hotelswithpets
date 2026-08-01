@@ -275,7 +275,7 @@ export async function generateMetadata({
   const fallbackIntro = locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' && guideData.introPt ? guideData.introPt : guideData.introEn
 
   const metaTitle = tpl ? tpl.title(localizedCity) : (fallbackTitle ?? guideData.titleEn)
-  const metaDesc = tpl ? tpl.desc(localizedCity) : (fallbackIntro ?? guideData.introEn ?? '').slice(0, 160)
+  const metaDesc = tpl ? tpl.desc(localizedCity) : String(fallbackIntro ?? guideData.introEn ?? '').slice(0, 160)
 
   return {
     title: `${metaTitle}`,
@@ -495,8 +495,13 @@ export default async function GuideDetailPage({
 
   const title = (locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : locale === 'pt' ? guideData.titlePt : null) ?? guideData.titleEn
   const intro = (locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' ? guideData.introPt : null) ?? guideData.introEn
-  const tips = (locale === 'fr' ? guideData.tipsFr : locale === 'es' ? guideData.tipsEs : locale === 'pt' ? guideData.tipsPt : null) ?? guideData.tipsEn ?? []
-  const faqs = (locale === 'fr' ? guideData.faqsFr : locale === 'es' ? guideData.faqsEs : locale === 'pt' ? guideData.faqsPt : null) ?? guideData.faqsEn ?? []
+  const tipsPick = (locale === 'fr' ? guideData.tipsFr : locale === 'es' ? guideData.tipsEs : locale === 'pt' ? guideData.tipsPt : null) ?? guideData.tipsEn
+  const faqsPick = (locale === 'fr' ? guideData.faqsFr : locale === 'es' ? guideData.faqsEs : locale === 'pt' ? guideData.faqsPt : null) ?? guideData.faqsEn
+  // Never trust the shape from a JSON authored by the daily pipeline: a section
+  // whose tips/faqs came through as an object instead of an array would crash
+  // the whole route on .map(). Coerce to an array defensively.
+  const tips = Array.isArray(tipsPick) ? tipsPick : []
+  const faqs = Array.isArray(faqsPick) ? faqsPick : []
 
   // Sibling guides for this city
   const siblingGuides = GUIDE_SLUGS.filter(g => g !== guide && cityGuide.guides[g])
@@ -723,7 +728,7 @@ export default async function GuideDetailPage({
         </div>
 
         {/* ── Places list ── */}
-        {guideData.places && guideData.places.length > 0 && (
+        {Array.isArray(guideData.places) && guideData.places.length > 0 && (
           <section className="mb-12">
             <div className="space-y-6">
               {guideData.places.map((place, i) => {
@@ -968,7 +973,7 @@ export default async function GuideDetailPage({
         )}
 
         {/* ── Transport rules table ── */}
-        {guideData.rules && guideData.rules.length > 0 && (
+        {Array.isArray(guideData.rules) && guideData.rules.length > 0 && (
           <section className="mb-12">
             <div className="overflow-x-auto rounded-2xl border border-gray-200">
               <table className="w-full text-sm min-w-[600px]">
@@ -1011,7 +1016,7 @@ export default async function GuideDetailPage({
                 <strong>{ui.nonEuPets}</strong>{' '}
                 {loc(guideData.entryRequirements.nonEuPets, guideData.entryRequirements.nonEuPetsFr, guideData.entryRequirements.nonEuPetsEs, locale)}
               </div>
-              {guideData.entryRequirements.emergencyContacts && (
+              {Array.isArray(guideData.entryRequirements.emergencyContacts) && (
                 <div>
                   <strong>{ui.emergencyContacts}</strong>
                   <ul className="mt-1 list-disc list-inside">
@@ -1026,7 +1031,7 @@ export default async function GuideDetailPage({
         )}
 
         {/* ── Tips sections ── */}
-        {guideData.sections && guideData.sections.length > 0 && (
+        {Array.isArray(guideData.sections) && guideData.sections.length > 0 && (
           <section className="mb-12 space-y-6">
             {guideData.sections.map((section, i) => {
               const secTitle = (locale === 'fr' ? section.titleFr : locale === 'es' ? section.titleEs : locale === 'pt' ? section.titlePt : null) ?? section.titleEn

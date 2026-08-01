@@ -23774,6 +23774,80 @@
     "iata": "TIA"
   },
   {
+    "slug": "saturnia",
+    "name": "Saturnia",
+    "country": "Italy",
+    "countryCode": "IT",
+    "flag": "🇮🇹",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/saturnia.jpg",
+    "intro": "A tiny thermal-springs village deep in the Tuscan Maremma, built around the free, open-air hot pools of the Cascate del Mulino, which flow warm and sulphurous 24 hours a day on travertine terraces where leashed dogs are welcome outside the main pools. The walled medieval borgo keeps its Roman-era Porta Romana gate and the 12th-century Rocca Aldobrandesca fortress, and the paid Terme di Saturnia Natural Spa & Golf Resort runs a dedicated VIPets program with a pet-friendly bar, trattoria and golf-course walking paths. The tufo-carved streets of Pitigliano and the Etruscan Vie Cave sunken roads to Sovana are both a short drive away. No sea, no crowds: Tuscany's quietest, most rural pet-travel base, best reached by car.",
+    "lat": 42.6664,
+    "lng": 11.5042,
+    "weather": {
+      "jan": {
+        "temp": 11,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "feb": {
+        "temp": 12,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      },
+      "mar": {
+        "temp": 15,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 18,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 27,
+        "desc": "Hot & sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 30,
+        "desc": "Very hot & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 30,
+        "desc": "Very hot & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 21,
+        "desc": "Mild & sunny",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 16,
+        "desc": "Mild with rain",
+        "icon": "🌦️"
+      },
+      "dec": {
+        "temp": 12,
+        "desc": "Mild & rainy",
+        "icon": "🌦️"
+      }
+    }
+  },
+  {
     "slug": "scheveningen",
     "name": "Scheveningen",
     "country": "Netherlands",

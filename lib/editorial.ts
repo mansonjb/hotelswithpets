@@ -106,6 +106,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Saranda seafront promenade, the Lekursi Castle viewpoint, and the Butrint UNESCO ruins`,
       area: `the seafront promenade, the Blue Eye spring, and the hills with views across to Corfu`,
     },
+    saturnia: {
+      personality: `a tiny thermal-springs village deep in the Tuscan Maremma, built around the free, open-air hot pools of the Cascate del Mulino and a genuinely rural, low-key pet-travel base rather than a city break`,
+      highlight: `the free Cascate del Mulino hot springs, the Terme di Saturnia resort's VIPets program, and the Roman-era Porta Romana gate`,
+      area: `the walled medieval borgo, the Terme di Saturnia resort just outside it, and the wider Maremma countryside toward Pitigliano and Sovana`,
+    },
     sirmione: {
       personality: `a romantic Lake Garda peninsula town wrapped around the moated Scaliger Castle at the old-town entrance, the Grotte di Catullo Roman ruins at the peninsula tip, the white-rock Jamaica Beach lake flats, the Aquaria thermal spa and shaded lakeside promenades`,
       highlight: `Jamaica Beach, Lido delle Bionde, and the Grotte di Catullo lakeside walk`,
@@ -2149,6 +2154,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `la promenade du front de mer de Saranda, le belvédère du château de Lekursi et les ruines UNESCO de Butrint`,
       area: `le front de mer, la source du Blue Eye et les collines avec vue sur Corfou`,
     },
+    saturnia: {
+      personality: `un minuscule village thermal enfoui dans la Maremme toscane, bâti autour des bassins chauds en plein air et gratuits des Cascate del Mulino, une base pet-travel vraiment rurale et tranquille plutôt qu'un city break`,
+      highlight: `les sources chaudes gratuites des Cascate del Mulino, le programme VIPets du complexe Terme di Saturnia et la porte romaine Porta Romana`,
+      area: `le bourg médiéval fortifié, le complexe Terme di Saturnia juste à l'extérieur, et la campagne maremmane environnante vers Pitigliano et Sovana`,
+    },
     sirmione: {
       personality: `une ville romantique sur une péninsule du lac de Garde, blottie autour du château Scaliger entouré de douves à l'entrée de la vieille ville, des ruines romaines des Grotte di Catullo à la pointe, des dalles blanches de Jamaica Beach, des thermes Aquaria et des promenades ombragées au bord du lac`,
       highlight: `Jamaica Beach, le Lido delle Bionde et la balade au bord du lac des Grotte di Catullo`,
@@ -4191,6 +4201,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el paseo marítimo de Saranda, el mirador del castillo de Lekursi y las ruinas UNESCO de Butrint`,
       area: `el paseo marítimo, el manantial del Blue Eye y las colinas con vistas a Corfú`,
     },
+    saturnia: {
+      personality: `un diminuto pueblo termal escondido en la Maremma toscana, construido alrededor de las piscinas termales al aire libre y gratuitas de las Cascate del Mulino, una base para viajar con mascota genuinamente rural y tranquila en lugar de una escapada urbana`,
+      highlight: `las termas gratuitas de las Cascate del Mulino, el programa VIPets del complejo Terme di Saturnia y la puerta romana Porta Romana`,
+      area: `el burgo medieval amurallado, el complejo Terme di Saturnia justo a las afueras, y el campo maremmano circundante hacia Pitigliano y Sovana`,
+    },
     sirmione: {
       personality: `una romántica localidad en una península del lago de Garda, envuelta en torno al castillo Scaligero rodeado de foso a la entrada del casco antiguo, las ruinas romanas de las Grotte di Catullo en la punta, las losas blancas de Jamaica Beach, el balneario termal Aquaria y los paseos sombreados junto al lago`,
       highlight: `Jamaica Beach, el Lido delle Bionde y el paseo junto al lago de las Grotte di Catullo`,
@@ -6232,6 +6247,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma das escapadelas costeiras dog-friendly mais promissoras da Albânia`,
       highlight: `a marginal de Saranda, o miradouro do Castelo de Lekursi e as ruínas UNESCO de Butrint`,
       area: `a marginal, a nascente do Blue Eye e as colinas com vista para Corfu`,
+    },
+    saturnia: {
+      personality: `uma pequena aldeia termal escondida na Maremma toscana, construída à volta das piscinas termais ao ar livre e gratuitas das Cascate del Mulino, uma base para viajar com animal genuinamente rural e tranquila em vez de uma escapadela urbana`,
+      highlight: `as termas gratuitas das Cascate del Mulino, o programa VIPets do complexo Terme di Saturnia e a porta romana Porta Romana`,
+      area: `o burgo medieval fortificado, o complexo Terme di Saturnia mesmo à saída, e o campo maremmano envolvente em direção a Pitigliano e Sovana`,
     },
     sirmione: {
       personality: `uma romântica vila numa península do Lago de Garda, envolta em torno do Castelo Scaligero rodeado por um fosso à entrada da cidade velha, das ruínas romanas das Grotte di Catullo na ponta, das lajes brancas da Jamaica Beach, das termas Aquaria e dos passeios sombreados à beira-lago`,

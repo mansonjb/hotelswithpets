@@ -41585,6 +41585,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  saturnia: {
+    history: {
+      fr: `Saturnia, minuscule bourg de la Maremme toscane, doit son nom au dieu Saturne selon la légende étrusque et romaine locale, qui en fit l'une des plus anciennes cités d'Italie. Ce qui attire aujourd'hui les visiteurs n'est pas tant son passé antique que ses eaux : les Cascate del Mulino, une série de bassins naturels en calcaire sculptés par une eau sulfureuse jaillissant à 37,5°C, en accès libre et gratuit 24h/24 depuis toujours. Le bourg fortifié garde la Porta Romana, seule des quatre portes antiques encore debout, et la Rocca Aldobrandesca, forteresse du XIIe siècle restaurée par Sienne. Juste à l'extérieur, le complexe thermal payant Terme di Saturnia Natural Spa & Golf Resort gère un programme VIPets qui accueille explicitement les chiens à son bar, sa trattoria et sur les allées de son golf. Sans mer, sans foule, Saturnia est la base la plus rurale et la plus tranquille de Toscane pour voyager avec un chien, à condition d'avoir une voiture.`,
+      en: `Saturnia, a tiny hamlet in the Tuscan Maremma, takes its name from the god Saturn according to local Etruscan and Roman legend, which made it one of the oldest towns in Italy. What draws visitors today is not so much its ancient past as its water: the Cascate del Mulino, a series of natural limestone pools carved by sulphur-rich water gushing at 37.5C, free and open 24 hours a day, all year round. The walled hamlet keeps the Porta Romana, the only one of its four ancient gates still standing, and the Rocca Aldobrandesca, a 12th-century fortress restored by Siena. Just outside, the paid Terme di Saturnia Natural Spa & Golf Resort runs a VIPets program that explicitly welcomes dogs at its bar, its trattoria and along its golf-course paths. No sea, no crowds, Saturnia is Tuscany's most rural and quietest base for travelling with a dog, provided you have a car.`,
+      es: `Saturnia, una diminuta aldea de la Maremma toscana, debe su nombre al dios Saturno según la leyenda etrusca y romana local, que la convirtió en una de las ciudades más antiguas de Italia. Lo que atrae hoy a los visitantes no es tanto su pasado antiguo como su agua: las Cascate del Mulino, una serie de piscinas naturales de piedra caliza esculpidas por agua sulfurosa que brota a 37,5°C, de acceso libre y gratuito las 24 horas del día, todo el año. La aldea amurallada conserva la Porta Romana, la única de sus cuatro puertas antiguas que sigue en pie, y la Rocca Aldobrandesca, una fortaleza del siglo XII restaurada por Siena. Justo a las afueras, el complejo termal de pago Terme di Saturnia Natural Spa & Golf Resort gestiona un programa VIPets que admite explícitamente perros en su bar, su trattoria y en los senderos de su campo de golf. Sin mar, sin multitudes, Saturnia es la base más rural y tranquila de Toscana para viajar con un perro, siempre que se disponga de coche.`,
+      pt: `Saturnia, uma pequena aldeia da Maremma toscana, deve o seu nome ao deus Saturno segundo a lenda etrusca e romana local, que a tornou numa das cidades mais antigas de Itália. O que atrai hoje os visitantes não é tanto o seu passado antigo mas a sua água: as Cascate del Mulino, uma série de piscinas naturais de calcário esculpidas por água sulfurosa que jorra a 37,5°C, de acesso livre e gratuito 24 horas por dia, todo o ano. A aldeia fortificada guarda a Porta Romana, a única das suas quatro portas antigas ainda de pé, e a Rocca Aldobrandesca, uma fortaleza do século XII restaurada por Siena. Mesmo à saída, o complexo termal pago Terme di Saturnia Natural Spa & Golf Resort gere um programa VIPets que acolhe explicitamente cães no seu bar, na sua trattoria e nos caminhos do seu campo de golfe. Sem mar, sem multidões, Saturnia é a base mais rural e tranquila da Toscana para viajar com um cão, desde que se tenha carro.`,
+    },
+    sights: [
+      {
+        name: `Cascate del Mulino`,
+        emoji: '💦',
+        petFriendly: true,
+        desc: {
+          fr: `Les célèbres bassins thermaux gratuits et ouverts 24h/24, sculptés dans le calcaire par une eau sulfureuse à 37,5°C. Les chiens en laisse sont acceptés sur le site naturel, mais pas dans les bassins de baignade eux-mêmes pour des raisons d'hygiène.`,
+          en: `The famous free, 24-hour hot springs, carved into limestone by sulphur-rich water at 37.5C. Leashed dogs are welcome on the natural site, but not inside the bathing pools themselves for hygiene reasons.`,
+          es: `Las famosas termas gratuitas y abiertas 24 horas, esculpidas en piedra caliza por agua sulfurosa a 37,5°C. Los perros con correa son bienvenidos en el entorno natural, pero no dentro de las propias piscinas de baño por higiene.`,
+          pt: `As famosas termas gratuitas e abertas 24 horas, esculpidas em calcário por água sulfurosa a 37,5°C. Os cães com trela são bem-vindos no espaço natural, mas não dentro das próprias piscinas de banho por razões de higiene.`,
+        },
+      },
+      {
+        name: `Porta Romana`,
+        emoji: '🏛️',
+        petFriendly: true,
+        desc: {
+          fr: `L'unique porte romaine encore debout parmi les quatre que comptait Saturnia, ouvrant sur le tracé de l'antique Via Clodia. Se visite en laisse en quelques minutes depuis les rues publiques.`,
+          en: `The only one of Saturnia's four Roman gates still standing, opening onto the line of the ancient Via Clodia. Easily seen on lead in a few minutes from the public streets.`,
+          es: `La única de las cuatro puertas romanas de Saturnia que sigue en pie, abriéndose sobre el trazado de la antigua Via Clodia. Se visita con correa en pocos minutos desde las calles públicas.`,
+          pt: `A única das quatro portas romanas de Saturnia ainda de pé, abrindo-se sobre o traçado da antiga Via Clodia. Visita-se com trela em poucos minutos a partir das ruas públicas.`,
+        },
+      },
+      {
+        name: `Rocca Aldobrandesca`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          fr: `Forteresse du XIIe siècle bâtie par les Aldobrandeschi et restaurée par Sienne au XVe, juste à côté de la Porta Romana. Se voit de l'extérieur en laisse ; l'intérieur ne se visite pas.`,
+          en: `A 12th-century fortress built by the Aldobrandeschi and restored by Siena in the 15th century, right beside the Porta Romana. Seen from the outside on lead; the interior is not open to visitors.`,
+          es: `Una fortaleza del siglo XII construida por los Aldobrandeschi y restaurada por Siena en el XV, justo al lado de la Porta Romana. Se ve desde fuera con correa; el interior no está abierto a los visitantes.`,
+          pt: `Uma fortaleza do século XII construída pelos Aldobrandeschi e restaurada por Siena no século XV, mesmo ao lado da Porta Romana. Vê-se pelo exterior com trela; o interior não está aberto a visitantes.`,
+        },
+      },
+      {
+        name: `Terme di Saturnia Natural Spa & Golf Resort`,
+        emoji: '♨️',
+        petFriendly: true,
+        desc: {
+          fr: `Le complexe thermal payant voisin du village gère un programme VIPets qui accueille explicitement les chiens à son bar, sa trattoria et sur les allées piétonnes de son golf, avec panier et gamelle fournis en chambre. Les chiens ne sont pas admis dans le bassin thermal lui-même.`,
+          en: `The paid spa resort next to the village runs a VIPets program that explicitly welcomes dogs at its bar, its trattoria and along its golf-course paths, with a basket and bowl provided in the room. Dogs are not admitted in the thermal pool itself.`,
+          es: `El complejo termal de pago junto al pueblo gestiona un programa VIPets que admite explícitamente perros en su bar, su trattoria y en los senderos de su campo de golf, con cesta y cuenco en la habitación. Los perros no están permitidos en la propia piscina termal.`,
+          pt: `O complexo termal pago junto à aldeia gere um programa VIPets que acolhe explicitamente cães no seu bar, na sua trattoria e nos caminhos do seu campo de golfe, com cesto e taça fornecidos no quarto. Os cães não são admitidos na própria piscina termal.`,
+        },
+      },
+      {
+        name: `Pitigliano`,
+        emoji: '🌆',
+        petFriendly: true,
+        desc: {
+          fr: `Surnommée la « petite Jérusalem », cette ville toute en tuf perchée sur une falaise se voit de loin depuis la route d'accès, à 25 km de Saturnia. Ses ruelles pavées se parcourent en laisse.`,
+          en: `Nicknamed 'Little Jerusalem', this town built entirely of tufo rock and perched on a cliff is visible from far off on the approach road, 25 km from Saturnia. Its cobbled lanes are walkable on lead.`,
+          es: `Apodada la «pequeña Jerusalén», esta localidad construida enteramente en toba y encaramada en un acantilado se ve desde lejos en la carretera de acceso, a 25 km de Saturnia. Sus calles empedradas se recorren con correa.`,
+          pt: `Apelidada de «pequena Jerusalém», esta vila construída inteiramente em toba e empoleirada num penhasco vê-se de longe na estrada de acesso, a 25 km de Saturnia. As suas ruelas de calçada percorrem-se com trela.`,
+        },
+      },
+      {
+        name: `Vie Cave`,
+        emoji: '🌿',
+        petFriendly: true,
+        desc: {
+          fr: `Voies étrusques creusées dans le tuf reliant Pitigliano à Sovana, fraîches et ombragées même en été. Les chiens en laisse sont acceptés sur ce sentier d'environ 7 km, mais le terrain est accidenté par endroits.`,
+          en: `Etruscan-era sunken roads cut into the tufo rock linking Pitigliano to Sovana, cool and shaded even in summer. Leashed dogs are welcome on this roughly 7 km trail, but the terrain is uneven in places.`,
+          es: `Vías de época etrusca excavadas en la toba que unen Pitigliano con Sovana, frescas y sombreadas incluso en verano. Los perros con correa son bienvenidos en este sendero de unos 7 km, aunque el terreno es irregular en algunos tramos.`,
+          pt: `Vias de época etrusca escavadas na toba que ligam Pitigliano a Sovana, frescas e sombreadas mesmo no verão. Os cães com trela são bem-vindos neste trilho de cerca de 7 km, embora o terreno seja irregular em alguns troços.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Les chiens sont acceptés autour des Cascate del Mulino mais pas dans les bassins de baignade eux-mêmes, pour des raisons d'hygiène.`,
+        `Le complexe Terme di Saturnia accueille les chiens via son programme VIPets (bar, trattoria, allées du golf, pelouse dédiée) mais pas dans son propre bassin thermal.`,
+        `Une voiture est quasi indispensable : pas de gare ni d'aéroport à Saturnia, bus limité vers Manciano.`,
+        `En été, les températures diurnes dépassent souvent 30°C : parcourez les Vie Cave et le village tôt le matin ou en soirée.`,
+        `Du bétail pâture la campagne maremmane environnante : gardez votre chien en laisse sur les chemins ruraux.`,
+      ],
+      en: [
+        `Dogs are welcome around the Cascate del Mulino but not inside the bathing pools themselves, for hygiene reasons.`,
+        `The Terme di Saturnia resort welcomes dogs via its VIPets program (bar, trattoria, golf paths, dedicated lawn) but not in its own thermal pool.`,
+        `A car is close to essential: no train station or airport in Saturnia, and only a thin bus service to Manciano.`,
+        `In summer, daytime temperatures often exceed 30C: walk the Vie Cave and the village early morning or evening.`,
+        `Cattle graze the surrounding Maremma countryside: keep your dog leashed on rural paths.`,
+      ],
+      es: [
+        `Los perros son bienvenidos alrededor de las Cascate del Mulino, pero no dentro de las propias piscinas de baño, por higiene.`,
+        `El complejo Terme di Saturnia admite perros a través de su programa VIPets (bar, trattoria, senderos de golf, césped dedicado), pero no en su propia piscina termal.`,
+        `Un coche es casi imprescindible: Saturnia no tiene estación de tren ni aeropuerto, y el autobús hacia Manciano es escaso.`,
+        `En verano, las temperaturas diurnas suelen superar los 30°C: recorre las Vie Cave y el pueblo a primera hora de la mañana o al atardecer.`,
+        `El ganado pasta en el campo maremmano circundante: mantén a tu perro con correa en los caminos rurales.`,
+      ],
+      pt: [
+        `Os cães são bem-vindos à volta das Cascate del Mulino, mas não dentro das próprias piscinas de banho, por higiene.`,
+        `O complexo Terme di Saturnia acolhe cães através do seu programa VIPets (bar, trattoria, caminhos de golfe, relvado dedicado), mas não na sua própria piscina termal.`,
+        `Um carro é quase indispensável: Saturnia não tem estação de comboios nem aeroporto, e o autocarro para Manciano é escasso.`,
+        `No verão, as temperaturas diurnas costumam ultrapassar os 30°C: percorra as Vie Cave e a aldeia de manhã cedo ou ao entardecer.`,
+        `O gado pasta no campo maremmano envolvente: mantenha o seu cão com trela nos caminhos rurais.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aucune gare ni aéroport à Saturnia ; les plus proches sont Grosseto et Albinia (40-50 min en voiture), et les aéroports de Rome (2h15) ou Pise (2h30).`,
+        `Vétérinaire local : Ambulatorio Veterinario Peverini, Via Martiri della Libertà, Manciano (8 km), +39 0564 629150, sur rendez-vous, assistance d'urgence incluse.`,
+        `Urgence vétérinaire 24h/24 : Clinica Veterinaria Costa d'Argento, Strada dell'Airone 4, Albinia (Orbetello), +39 0564 865534, à environ 40 km au sud.`,
+        `Le parking principal des Cascate del Mulino est payant (environ 2,50€/heure ou 10€/jour) ; du stationnement gratuit existe près du village.`,
+        `L'Italie n'impose pas de quarantaine, mais un passeport européen pour animaux avec puce et vaccination antirabique à jour est nécessaire pour les voyageurs de l'UE.`,
+      ],
+      en: [
+        `No train station or airport in Saturnia; the nearest are Grosseto and Albinia (40-50 min by car), and Rome (2h15) or Pisa (2h30) airports.`,
+        `Local vet: Ambulatorio Veterinario Peverini, Via Martiri della Libertà, Manciano (8 km), +39 0564 629150, by appointment, emergency assistance included.`,
+        `24-hour vet emergency: Clinica Veterinaria Costa d'Argento, Strada dell'Airone 4, Albinia (Orbetello), +39 0564 865534, about 40 km south.`,
+        `The main Cascate del Mulino car park is paid (roughly EUR 2.50/hour or EUR 10/day); free roadside parking exists near the village.`,
+        `Italy has no quarantine, but EU travellers need an EU Pet Passport with a valid rabies vaccination and microchip.`,
+      ],
+      es: [
+        `Sin estación de tren ni aeropuerto en Saturnia; las más cercanas son Grosseto y Albinia (40-50 min en coche), y los aeropuertos de Roma (2h15) o Pisa (2h30).`,
+        `Veterinario local: Ambulatorio Veterinario Peverini, Via Martiri della Libertà, Manciano (8 km), +39 0564 629150, con cita previa, incluye asistencia de urgencia.`,
+        `Urgencia veterinaria 24 horas: Clinica Veterinaria Costa d'Argento, Strada dell'Airone 4, Albinia (Orbetello), +39 0564 865534, a unos 40 km al sur.`,
+        `El aparcamiento principal de las Cascate del Mulino es de pago (unos 2,50€/hora o 10€/día); hay aparcamiento gratuito en la calle cerca del pueblo.`,
+        `Italia no exige cuarentena, pero los viajeros de la UE necesitan un pasaporte europeo para mascotas con vacuna antirrábica vigente y microchip.`,
+      ],
+      pt: [
+        `Sem estação de comboios nem aeroporto em Saturnia; os mais próximos são Grosseto e Albinia (40-50 min de carro), e os aeroportos de Roma (2h15) ou Pisa (2h30).`,
+        `Veterinário local: Ambulatorio Veterinario Peverini, Via Martiri della Libertà, Manciano (8 km), +39 0564 629150, com marcação, inclui assistência de urgência.`,
+        `Urgência veterinária 24 horas: Clinica Veterinaria Costa d'Argento, Strada dell'Airone 4, Albinia (Orbetello), +39 0564 865534, a cerca de 40 km a sul.`,
+        `O parque de estacionamento principal das Cascate del Mulino é pago (cerca de 2,50€/hora ou 10€/dia); existe estacionamento gratuito na rua perto da aldeia.`,
+        `A Itália não exige quarentena, mas os viajantes da UE precisam de um passaporte europeu para animais com vacina antirrábica válida e microchip.`,
+      ],
+    },
+  },
+
   setubal: {
     history: {
       fr: `Setúbal s'étend au sud de Lisbonne, sur la rive nord de l'estuaire du Sado, dans une région où la montagne calcaire de l'Arrábida plonge dans l'Atlantique. Port de pêche toujours en activité, la ville vit au rythme des bateaux qui ramènent la sardine et la seiche, spécialité locale servie en choco frito. Son histoire remonte aux Romains, qui y salaient le poisson et fabriquaient le garum ; le château de São Filipe, bâti au XVIe siècle, veille encore sur la baie. Setúbal est surtout la porte de deux merveilles naturelles : la réserve de l'estuaire du Sado, où vit une population résidente de grands dauphins, et le parc naturel de l'Arrábida, avec ses plages de sable blanc et ses eaux turquoise. Pour le voyageur avec un chien, elle combine marché aux azulejos, sentiers de montagne, front de mer et ferry vers les plages sauvages de Tróia.`,

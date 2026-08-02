@@ -2777,6 +2777,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  auckland: {
+    history: {
+      fr: `Auckland, Tāmaki Makaurau en maori, occupe un isthme étroit entre deux ports, la Waitematā au nord et la Manukau au sud, sur un champ volcanique d'une cinquantaine de cônes dont beaucoup portent encore les terrasses des pā māori. La région fut l'une des plus densément peuplées de Nouvelle-Zélande avant l'arrivée européenne, précisément parce que ses sols volcaniques et ses deux accès à la mer en faisaient une place stratégique. Choisie comme capitale coloniale en 1840, la ville perdit ce statut en 1865 au profit de Wellington, mais jamais son avance démographique : elle rassemble aujourd'hui environ 1,7 million d'habitants, un tiers du pays, et reste la plus grande ville polynésienne du monde. Pour un chien, c'est l'une des villes les plus praticables de l'hémisphère sud : bus, trains et ferries l'acceptent, plus de deux mille parcs et plages lui sont ouverts, et la mer n'est jamais à plus de quelques minutes. La contrepartie tient en un mot : conservation.`,
+      en: `Auckland, Tāmaki Makaurau in Māori, sits on a narrow isthmus between two harbours, the Waitematā to the north and the Manukau to the south, on a volcanic field of some fifty cones, many still terraced with the earthworks of Māori pā. The region was among the most densely settled in New Zealand before European arrival, precisely because volcanic soils and two sea accesses made it a strategic place. Chosen as the colonial capital in 1840, the city lost that status to Wellington in 1865 but never its demographic lead: about 1.7 million people live here today, a third of the country, and it remains the largest Polynesian city in the world. For a dog it is one of the most workable cities in the southern hemisphere: buses, trains and ferries all take one, more than two thousand parks and beaches are open to them, and the sea is never more than a few minutes away. The trade-off comes down to one word: conservation.`,
+      es: `Auckland, Tāmaki Makaurau en maorí, ocupa un istmo estrecho entre dos puertos, el Waitematā al norte y el Manukau al sur, sobre un campo volcánico de unos cincuenta conos, muchos con las terrazas de los pā maoríes todavía visibles. La región fue de las más pobladas de Nueva Zelanda antes de la llegada europea, precisamente porque sus suelos volcánicos y sus dos salidas al mar la hacían estratégica. Elegida capital colonial en 1840, perdió ese rango en 1865 en favor de Wellington, pero nunca su ventaja demográfica: hoy reúne a unos 1,7 millones de habitantes, un tercio del país, y sigue siendo la mayor ciudad polinesia del mundo. Para un perro es una de las ciudades más practicables del hemisferio sur: autobuses, trenes y ferris lo admiten, más de dos mil parques y playas le están abiertos y el mar nunca queda a más de unos minutos. La contrapartida cabe en una palabra: conservación.`,
+      pt: `Auckland, Tāmaki Makaurau em maori, ocupa um istmo estreito entre dois portos, o Waitematā a norte e o Manukau a sul, sobre um campo vulcânico de cerca de cinquenta cones, muitos ainda com os socalcos dos pā maoris. A região foi das mais povoadas da Nova Zelândia antes da chegada europeia, precisamente porque os solos vulcânicos e as duas saídas para o mar a tornavam estratégica. Escolhida como capital colonial em 1840, perdeu esse estatuto em 1865 para Wellington, mas nunca a sua vantagem demográfica: reúne hoje cerca de 1,7 milhões de habitantes, um terço do país, e continua a ser a maior cidade polinésia do mundo. Para um cão é uma das cidades mais praticáveis do hemisfério sul: autocarros, comboios e ferries aceitam-no, mais de dois mil parques e praias estão-lhe abertos e o mar nunca fica a mais do que alguns minutos. A contrapartida cabe numa palavra: conservação.`,
+    },
+    sights: [
+      {
+        name: 'Meola Reef Reserve (Te Tokaroa)',
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          fr: `Ancienne décharge reconvertie sur une langue de lave à Westmere, devenue le seul parc canin entièrement clôturé du centre d'Auckland, avec un enclos séparé pour les petits chiens et un accès au rivage pour ceux qui aiment l'eau.`,
+          en: `A reclaimed landfill on a lava spit at Westmere, now the only fully fenced off-leash dog park in central Auckland, with a separate pen for small dogs and a shoreline spot for those that love water.`,
+          es: `Un antiguo vertedero recuperado sobre una lengua de lava en Westmere, hoy el único parque canino totalmente vallado del centro de Auckland, con un recinto aparte para perros pequeños y un acceso a la orilla para los que adoran el agua.`,
+          pt: `Um antigo aterro recuperado sobre uma língua de lava em Westmere, hoje o único parque canino totalmente vedado do centro de Auckland, com um recinto separado para cães pequenos e um acesso à margem para os que adoram água.`,
+        },
+      },
+      {
+        name: 'Maungawhau Mount Eden',
+        emoji: '🌋',
+        petFriendly: true,
+        desc: {
+          fr: `Le plus haut cône volcanique naturel de la ville, avec son cratère de 50 m et une vue à 360 degrés sur les deux ports. Chiens en laisse sur le maunga, mais un enclos sans laisse existe entre les entrées de Clive Road et de Summit Road.`,
+          en: `The highest natural volcanic cone in the city, with its 50 m crater and a 360 degree view over both harbours. Dogs are on the lead on the maunga itself, but there is a fenced off-leash paddock between the Clive Road and Summit Road entrances.`,
+          es: `El cono volcánico natural más alto de la ciudad, con su cráter de 50 m y vistas de 360 grados sobre los dos puertos. Los perros van con correa en el maunga, pero hay un recinto sin correa entre las entradas de Clive Road y Summit Road.`,
+          pt: `O cone vulcânico natural mais alto da cidade, com a sua cratera de 50 m e uma vista de 360 graus sobre os dois portos. Os cães andam à trela no maunga, mas existe um recinto sem trela entre as entradas da Clive Road e da Summit Road.`,
+        },
+      },
+      {
+        name: 'Cornwall Park, Maungakiekie',
+        emoji: '🐑',
+        petFriendly: true,
+        desc: {
+          fr: `Une ferme en activité au cœur de la ville, offerte au pays en 1901, enroulée autour du cône de One Tree Hill. Laisse obligatoire partout, zones fermées aux chiens pendant l'agnelage et le vêlage du 17 juillet au 10 septembre.`,
+          en: `A working farm in the middle of the city, gifted to the nation in 1901 and wrapped around the One Tree Hill cone. Leads are required throughout, and restricted zones close to dogs during lambing and calving from 17 July to 10 September.`,
+          es: `Una granja en activo en pleno centro de la ciudad, donada al país en 1901 y enroscada alrededor del cono de One Tree Hill. Correa obligatoria en todo el recinto y zonas cerradas a los perros durante el parto de ovejas y vacas, del 17 de julio al 10 de septiembre.`,
+          pt: `Uma quinta em atividade no meio da cidade, doada ao país em 1901 e enrolada à volta do cone de One Tree Hill. Trela obrigatória em toda a área e zonas fechadas aos cães durante a parição de ovelhas e vacas, de 17 de julho a 10 de setembro.`,
+        },
+      },
+      {
+        name: 'Devonport, Maungauika North Head',
+        emoji: '⚓',
+        petFriendly: true,
+        desc: {
+          fr: `Douze minutes de ferry depuis le centre, chien gratuit, pour un village victorien, la montée de Takarunga et les tunnels de North Head face à Rangitoto. Tout se fait à pied en laisse depuis le ponton.`,
+          en: `Twelve minutes by ferry from downtown, dog free of charge, for a Victorian village, the climb up Takarunga and the North Head tunnels facing Rangitoto. The whole day works on foot and on the lead from the wharf.`,
+          es: `Doce minutos de ferri desde el centro, perro gratis, para un pueblo victoriano, la subida a Takarunga y los túneles de North Head frente a Rangitoto. Todo se hace a pie y con correa desde el embarcadero.`,
+          pt: `Doze minutos de ferry a partir do centro, cão de graça, para uma vila vitoriana, a subida a Takarunga e os túneis de North Head virados para Rangitoto. Tudo se faz a pé e à trela a partir do cais.`,
+        },
+      },
+      {
+        name: 'Waiheke Island',
+        emoji: '⛴️',
+        petFriendly: true,
+        desc: {
+          fr: `La seule île du golfe d'Hauraki qui accueille les chiens, à 40 minutes de ferry. Huit de ses plages les plus fréquentées leur sont fermées de 10 h à 18 h du 1er décembre au 1er mars ; Hooks Lane et Owhanake restent libres toute l'année.`,
+          en: `The one Hauraki Gulf island that welcomes dogs, 40 minutes away by ferry. Eight of its busiest beaches close to dogs between 10:00 and 18:00 from 1 December to 1 March, while Hooks Lane and Owhanake stay open all year.`,
+          es: `La única isla del golfo de Hauraki que acoge perros, a 40 minutos en ferri. Ocho de sus playas más concurridas les cierran de 10:00 a 18:00 del 1 de diciembre al 1 de marzo, mientras que Hooks Lane y Owhanake siguen libres todo el año.`,
+          pt: `A única ilha do golfo de Hauraki que recebe cães, a 40 minutos de ferry. Oito das suas praias mais concorridas fecham-lhes das 10:00 às 18:00 de 1 de dezembro a 1 de março, enquanto Hooks Lane e Owhanake ficam livres todo o ano.`,
+        },
+      },
+      {
+        name: 'Waitākere Ranges Regional Park',
+        emoji: '🌲',
+        petFriendly: false,
+        desc: {
+          fr: `La forêt humide des collines de l'ouest, qui abrite Piha et Karekare, est fermée aux chiens de compagnie : seuls les chiens d'assistance enregistrés y entrent, pour freiner le dépérissement du kauri et protéger les oiseaux nichant au sol.`,
+          en: `The rainforest of the western hills, which holds Piha and Karekare, is closed to pet dogs: only registered assistance dogs may enter, to slow kauri dieback and protect ground-nesting birds.`,
+          es: `El bosque húmedo de las colinas del oeste, que alberga Piha y Karekare, está cerrado a los perros de compañía: solo entran perros de asistencia registrados, para frenar el decaimiento del kauri y proteger a las aves que anidan en el suelo.`,
+          pt: `A floresta húmida das colinas do oeste, onde ficam Piha e Karekare, está fechada aos cães de companhia: só entram cães de assistência registados, para travar o declínio do kauri e proteger as aves que nidificam no solo.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `Bus et trains d'Auckland Transport : chien gratuit quelle que soit sa taille, en semaine de 9 h à 15 h et après 18 h 30, toute la journée le week-end et les jours fériés, avec muselière panier et laisse ou en caisse, un animal par passager.`,
+        `Ferries du port : chien gratuit avec un passager payant sur les lignes Fullers360, places réservées sur les ponts extérieurs et aucune muselière exigée, à toute heure du jour.`,
+        `Plages : la plupart des plages d'Auckland restreignent les chiens entre 10 h et 17 h du 1er décembre au 1er mars ; Saint Leonards Beach, sur la North Shore, reste sans laisse en continu toute l'année.`,
+        `Le Waitākere Ranges Regional Park et les îles sans prédateurs du golfe, dont Rangitoto et Tiritiri Matangi, sont fermés aux chiens de compagnie : ne construisez pas votre journée autour d'eux.`,
+        `Limaces de mer toxiques : des chiens sont morts à Narrow Neck et Cheltenham en 2009 après avoir avalé des Pleurobranchaea maculata porteuses de tétrodotoxine ; tenez en laisse un chien qui ramasse tout sur la laisse de mer.`,
+      ],
+      en: [
+        `Auckland Transport buses and trains: a dog of any size travels free on weekdays between 09:00 and 15:00 and after 18:30, and all day at weekends and on public holidays, with a cage-type muzzle and lead or in a carrier, one pet per passenger.`,
+        `Harbour ferries: a dog travels free with a fare-paying passenger on the Fullers360 routes, with allocated seating on the outside decks and no muzzle required, at any hour of the day.`,
+        `Beaches: most Auckland beaches restrict dogs between 10:00 and 17:00 from 1 December to 1 March; Saint Leonards Beach on the North Shore stays off-leash around the clock all year.`,
+        `Waitākere Ranges Regional Park and the pest-free gulf islands, including Rangitoto and Tiritiri Matangi, are closed to pet dogs, so do not build a day around them.`,
+        `Toxic sea slugs: dogs died at Narrow Neck and Cheltenham in 2009 after eating Pleurobranchaea maculata carrying tetrodotoxin, so keep a scavenging dog on the lead along the tide line.`,
+      ],
+      es: [
+        `Autobuses y trenes de Auckland Transport: el perro viaja gratis sea cual sea su tamaño, entre semana de 9:00 a 15:00 y después de las 18:30, y todo el día los fines de semana y festivos, con bozal de cesta y correa o en transportín, un animal por pasajero.`,
+        `Ferris del puerto: el perro viaja gratis acompañando a un pasajero de pago en las líneas de Fullers360, con asientos asignados en las cubiertas exteriores y sin bozal, a cualquier hora del día.`,
+        `Playas: la mayoría de las playas de Auckland restringen los perros entre las 10:00 y las 17:00 del 1 de diciembre al 1 de marzo; Saint Leonards Beach, en la North Shore, sigue sin correa a todas horas y todo el año.`,
+        `El Waitākere Ranges Regional Park y las islas del golfo libres de plagas, entre ellas Rangitoto y Tiritiri Matangi, están cerrados a los perros de compañía: no montes el día en torno a ellos.`,
+        `Babosas de mar tóxicas: en 2009 murieron perros en Narrow Neck y Cheltenham tras comer ejemplares de Pleurobranchaea maculata con tetrodotoxina; lleva atado al perro que hociquea en la línea de marea.`,
+      ],
+      pt: [
+        `Autocarros e comboios da Auckland Transport: o cão viaja de graça seja qual for o tamanho, nos dias úteis das 09:00 às 15:00 e depois das 18:30, e todo o dia aos fins de semana e feriados, com açaime tipo cesto e trela ou dentro de uma caixa, um animal por passageiro.`,
+        `Ferries do porto: o cão viaja de graça com um passageiro pagante nas linhas da Fullers360, com lugares atribuídos nos conveses exteriores e sem açaime, a qualquer hora do dia.`,
+        `Praias: a maioria das praias de Auckland restringe os cães entre as 10:00 e as 17:00 de 1 de dezembro a 1 de março; a Saint Leonards Beach, na North Shore, mantém-se sem trela a toda a hora e todo o ano.`,
+        `O Waitākere Ranges Regional Park e as ilhas do golfo livres de pragas, entre elas Rangitoto e Tiritiri Matangi, estão fechados aos cães de companhia: não construa o dia à volta deles.`,
+        `Lesmas do mar tóxicas: em 2009 morreram cães em Narrow Neck e Cheltenham depois de comerem exemplares de Pleurobranchaea maculata com tetrodotoxina; mantenha à trela um cão que come o que encontra na linha de maré.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Aéroport d'Auckland (AKL), à environ 21 km au sud du centre : un animal importé voyage en soute et passe par les formalités de biosécurité, pas par la salle des bagages.`,
+        `Importation : la Nouvelle-Zélande n'a pas de passeport pour animaux ; il faut un permis d'importation, une puce ISO, la vaccination antirabique, un titrage des anticorps et au moins dix jours de quarantaine dans une installation agréée par le MPI, sauf en provenance d'Australie.`,
+        `Urgences vétérinaires 24 h sur 24 : Animal Emergency at VSA Sylvia Park, 1 Te Apunga Place, Mount Wellington, +64 9 849 2121. Garde de nuit sur la North Shore : 96B Ellice Road, Glenfield, +64 9 443 5640. Le 111 est réservé aux humains.`,
+        `Climat océanique tempéré : 23 à 24 °C de décembre à février, environ 15 °C et pluvieux de juin à août, et un printemps de septembre à novembre qui est la meilleure saison avec un chien.`,
+        `Garde : Pawshake et PetBacker couvrent toute l'agglomération, comptez environ 40 à 75 dollars néo-zélandais la nuit en hébergement chez le gardien, carnet de vaccination exigé.`,
+      ],
+      en: [
+        `Auckland Airport (AKL), about 21 km south of the city centre: an imported animal travels in the hold and clears biosecurity rather than coming out at the baggage hall.`,
+        `Importing: New Zealand has no pet passport; you need an import permit, an ISO microchip, rabies vaccination, an antibody titre test and at least ten days of quarantine at an MPI-approved facility, except when arriving from Australia.`,
+        `24 hour emergency vet: Animal Emergency at VSA Sylvia Park, 1 Te Apunga Place, Mount Wellington, +64 9 849 2121. North Shore after-hours cover: 96B Ellice Road, Glenfield, +64 9 443 5640. The 111 number is for humans only.`,
+        `Temperate oceanic climate: 23 to 24 °C from December to February, around 15 °C and wet from June to August, and a spring from September to November that is the best season with a dog.`,
+        `Sitting: Pawshake and PetBacker both cover the metro, budget roughly 40 to 75 New Zealand dollars a night for in-home boarding, vaccination record required.`,
+      ],
+      es: [
+        `Aeropuerto de Auckland (AKL), a unos 21 km al sur del centro: un animal importado viaja en bodega y pasa por bioseguridad, no por la sala de equipajes.`,
+        `Importación: Nueva Zelanda no tiene pasaporte para mascotas; hacen falta permiso de importación, microchip ISO, vacuna antirrábica, prueba de titulación de anticuerpos y al menos diez días de cuarentena en una instalación aprobada por el MPI, salvo si se llega desde Australia.`,
+        `Urgencias veterinarias 24 horas: Animal Emergency at VSA Sylvia Park, 1 Te Apunga Place, Mount Wellington, +64 9 849 2121. Guardia nocturna en la North Shore: 96B Ellice Road, Glenfield, +64 9 443 5640. El 111 es solo para personas.`,
+        `Clima oceánico templado: de 23 a 24 °C de diciembre a febrero, unos 15 °C y lluvioso de junio a agosto, y una primavera de septiembre a noviembre que es la mejor temporada con perro.`,
+        `Cuidado: Pawshake y PetBacker cubren toda el área, calcula entre 40 y 75 dólares neozelandeses por noche en casa del cuidador, con cartilla de vacunación obligatoria.`,
+      ],
+      pt: [
+        `Aeroporto de Auckland (AKL), a cerca de 21 km a sul do centro: um animal importado viaja no porão e passa pela biossegurança, e não pela sala de bagagens.`,
+        `Importação: a Nova Zelândia não tem passaporte para animais; é preciso licença de importação, microchip ISO, vacina antirrábica, teste de titulação de anticorpos e pelo menos dez dias de quarentena numa instalação aprovada pelo MPI, exceto quando se chega da Austrália.`,
+        `Urgências veterinárias 24 horas: Animal Emergency at VSA Sylvia Park, 1 Te Apunga Place, Mount Wellington, +64 9 849 2121. Urgência noturna na North Shore: 96B Ellice Road, Glenfield, +64 9 443 5640. O 111 é apenas para pessoas.`,
+        `Clima oceânico temperado: 23 a 24 °C de dezembro a fevereiro, cerca de 15 °C e chuvoso de junho a agosto, e uma primavera de setembro a novembro que é a melhor época com um cão.`,
+        `Guarda: a Pawshake e a PetBacker cobrem toda a área metropolitana, conte cerca de 40 a 75 dólares neozelandeses por noite em casa do cuidador, com boletim de vacinas obrigatório.`,
+      ],
+    },
+  },
+
   austin: {
     history: {
       en: `Austin grew from a small trading post called Waterloo into the Republic of Texas capital in 1839, chosen partly for its Hill Country beauty and its position on the Colorado River. The University of Texas arrived in 1883, and by the mid-20th century Austin had layered a state government town on top of a college town, a combination that seeded its famous live-music scene along Sixth Street and, later, its tech industry boom. Lady Bird Johnson's beautification campaigns in the 1970s reshaped the riverfront that now bears her name, damming the Colorado into Lady Bird Lake and lining it with the hike-and-bike trail that anchors the city's outdoor culture today. For a dog, Austin's defining trait is its open-air life: unfenced off-leash parks, patio-only dining under Texas health code, and a Hill Country climate that swings from mild winters to genuinely dangerous summer heat.`,

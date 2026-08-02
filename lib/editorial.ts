@@ -426,6 +426,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the National Garden, Filopappou Hill, and the coastal promenade at Faliro',
       area: 'Koukaki, Monastiraki, and Pangrati',
     },
+    auckland: {
+      personality: `the rare big city where a dog of any size rides public transport, free on every bus and train outside the weekday peaks with a basket muzzle, and free on the harbour ferries at any hour`,
+      highlight: `Meola Reef Reserve, the only fully fenced off-leash park in the central city, the Waiatarua Reserve wetland loop, and Saint Leonards Beach, off the lead around the clock`,
+      area: `the Devonport peninsula, Wynyard Quarter on the waterfront, and Grey Lynn along Great North Road`,
+    },
     austin: {
       personality: `a landlocked Texas Hill Country capital built around Lady Bird Lake, with unfenced off-leash areas that demand real recall training, a patio-only restaurant culture shaped by state health code, and a public transit system that carries no pet dogs at all`,
       highlight: `Zilker Metropolitan Park's Great Lawn, the off-leash swimming island at Red Bud Isle, and the Auditorium Shores dog launch on Lady Bird Lake`,
@@ -2504,6 +2509,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'le Jardin National, la colline de Filopappou et la promenade côtière de Faliro',
       area: 'Koukaki, Monastiraki et Pangrati',
     },
+    auckland: {
+      personality: `la rare grande ville où un chien de toute taille prend les transports publics, gratuitement dans les bus et les trains hors heures de pointe avec une muselière panier, et gratuitement sur les ferries du port à toute heure`,
+      highlight: `Meola Reef Reserve, le seul parc sans laisse entièrement clôturé du centre, la boucle de la zone humide de Waiatarua Reserve et Saint Leonards Beach, sans laisse en continu`,
+      area: `la presqu'île de Devonport, Wynyard Quarter au bord de l'eau et Grey Lynn le long de Great North Road`,
+    },
     austin: {
       personality: `une capitale enclavée du Texas Hill Country bâtie autour du lac Lady Bird, avec des zones sans laisse non clôturées qui exigent un vrai rappel, une culture de restauration exclusivement en terrasse imposée par le code sanitaire de l'État, et un réseau de transports en commun qui n'accepte aucun chien de compagnie`,
       highlight: `la Great Lawn du Zilker Metropolitan Park, l'île sans laisse pour la baignade de Red Bud Isle, et la mise à l'eau pour chiens d'Auditorium Shores sur le lac Lady Bird`,
@@ -4581,6 +4591,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el Jardín Nacional, la colina de Filopappou y el paseo costero de Faliro',
       area: 'Koukaki, Monastiraki y Pangrati',
     },
+    auckland: {
+      personality: `a rara ciudad grande donde un perro de cualquier tamaño usa el transporte público, gratis en autobuses y trenes fuera de las horas punta con bozal de cesta, y gratis en los ferris del puerto a cualquier hora`,
+      highlight: `Meola Reef Reserve, el único parque sin correa totalmente vallado del centro, el circuito del humedal de Waiatarua Reserve y Saint Leonards Beach, sin correa a todas horas`,
+      area: `la península de Devonport, Wynyard Quarter junto al puerto y Grey Lynn a lo largo de Great North Road`,
+    },
     austin: {
       personality: `una capital sin salida al mar del Hill Country de Texas construida en torno al lago Lady Bird, con zonas sin correa sin vallar que exigen un llamado fiable, una cultura gastronómica exclusivamente en terraza impuesta por el código sanitario del estado, y una red de transporte público que no admite perros de compañía`,
       highlight: `el Gran Prado del Zilker Metropolitan Park, la isla sin correa para nadar de Red Bud Isle, y el acceso para perros de Auditorium Shores en el lago Lady Bird`,
@@ -6657,6 +6672,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma capital mediterrânea banhada pelo sol que sorprende aos viajeros com animais com os seus bairros transitables e uma creciente escena de hotéis boutique que acogen cães o ano inteiro',
       highlight: 'o Jardim Nacional, a colina de Filopappou e o passeio costero de Faliro',
       area: 'Koukaki, Monastiraki e Pangrati',
+    },
+    auckland: {
+      personality: `a rara cidade grande onde um cão de qualquer tamanho anda nos transportes públicos, de graça em autocarros e comboios fora das horas de ponta com açaime tipo cesto, e de graça nos ferries do porto a qualquer hora`,
+      highlight: `o Meola Reef Reserve, o único parque sem trela totalmente vedado do centro, o circuito da zona húmida do Waiatarua Reserve e a Saint Leonards Beach, sem trela a toda a hora`,
+      area: `a península de Devonport, o Wynyard Quarter na frente ribeirinha e Grey Lynn ao longo da Great North Road`,
     },
     austin: {
       personality: `uma capital sem saída para o mar do Hill Country do Texas construída à volta do lago Lady Bird, com zonas sem trela não vedadas que exigem uma chamada fiável, uma cultura gastronómica exclusivamente em esplanada imposta pelo código sanitário do estado, e uma rede de transportes públicos que não admite cães de estimação`,

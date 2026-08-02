@@ -47,6 +47,10 @@ const COUNTRY_FLAGS: Record<string, string> = {
   Turkey: '🇹🇷',
   Georgia: '🇬🇪',
   Morocco: '🇲🇦',
+  Australia: '🇦🇺',
+  Canada: '🇨🇦',
+  Japan: '🇯🇵',
+  'New Zealand': '🇳🇿',
 }
 
 /**
@@ -96,6 +100,7 @@ const COUNTRIES_FR: Record<string, string> = {
   Australia: 'Australie',
   Canada: 'Canada',
   Japan: 'Japon',
+  'New Zealand': 'Nouvelle-Zélande',
 }
 
 const COUNTRIES_ES: Record<string, string> = {
@@ -141,6 +146,7 @@ const COUNTRIES_ES: Record<string, string> = {
   Australia: 'Australia',
   Canada: 'Canadá',
   Japan: 'Japón',
+  'New Zealand': 'Nueva Zelanda',
 }
 
 const COUNTRIES_PT: Record<string, string> = {
@@ -186,6 +192,7 @@ const COUNTRIES_PT: Record<string, string> = {
   Australia: 'Austrália',
   Canada: 'Canadá',
   Japan: 'Japão',
+  'New Zealand': 'Nova Zelândia',
 }
 
 /**
@@ -255,6 +262,7 @@ const COUNTRY_PT_PHRASE: Record<string, string> = {
   Turkey: 'na Turquia',
   Georgia: 'na Geórgia',
   Morocco: 'em Marrocos',
+  'New Zealand': 'na Nova Zelândia',
 }
 
 export function ptCountryPhrase(englishName: string): string {

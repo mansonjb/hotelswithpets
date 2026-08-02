@@ -1732,6 +1732,81 @@
     "countryCode": "GR"
   },
   {
+    "slug": "auckland",
+    "name": "Auckland",
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "flag": "🇳🇿",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/auckland.jpg",
+    "intro": "Auckland is one of the easiest big cities in the world to visit with a large dog, because the public transport is genuinely open to one. Auckland Transport carries a pet dog of any size free on every bus and train, with a cage type muzzle and a lead or inside a carrier, on weekdays between 09:00 and 15:00 and after 18:30, and all day at weekends and on public holidays. The harbour ferries go further: dogs travel free with a fare paying passenger on the Fullers360 routes to Devonport, Waiheke, Bayswater, Birkenhead, Half Moon Bay and Gulf Harbour, with allocated seating on the outside decks and no muzzle required, so a car free trip with a big dog actually works. Meola Reef Reserve (Te Tokaroa) in Westmere is the only fully fenced off leash dog park in central Auckland, Waiatarua Reserve in Remuera has an off leash wetland loop with a dog swimming hole, and Ōwairaka Domain in Mount Albert keeps a quieter fenced run. The honest constraints are real: on most Auckland beaches dogs are restricted between 10:00 and 17:00 from 1 December to 1 March, and eight of Waiheke's best beaches are closed to dogs 10:00 to 18:00 over the same window, while Saint Leonards Beach on the North Shore stays off leash at all hours. Waitākere Ranges Regional Park is closed to dogs entirely, to protect kauri from dieback and to protect ground nesting birds, and Rangitoto and the other pest free gulf islands take assistance dogs only. Cornwall Park and One Tree Hill take dogs on a lead year round, with restricted zones during lambing and calving from 17 July to 10 September. The 24 hour emergency hospital is Animal Emergency at VSA Sylvia Park in Mount Wellington.",
+    "lat": -36.8485,
+    "lng": 174.7633,
+    "weather": {
+      "jan": {
+        "temp": 23,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "feb": {
+        "temp": 24,
+        "desc": "Warmest & dry",
+        "icon": "☀️"
+      },
+      "mar": {
+        "temp": 22,
+        "desc": "Warm & settled",
+        "icon": "🌤️"
+      },
+      "apr": {
+        "temp": 20,
+        "desc": "Mild & golden",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 18,
+        "desc": "Mild & showery",
+        "icon": "🌦️"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Cool & wet",
+        "icon": "🌧️"
+      },
+      "jul": {
+        "temp": 15,
+        "desc": "Coolest & wet",
+        "icon": "🌧️"
+      },
+      "aug": {
+        "temp": 15,
+        "desc": "Cool & windy",
+        "icon": "🌧️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Mild & changeable",
+        "icon": "🌦️"
+      },
+      "oct": {
+        "temp": 18,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "nov": {
+        "temp": 20,
+        "desc": "Warm & bright",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 22,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      }
+    },
+    "iata": "AKL"
+  },
+  {
     "slug": "austin",
     "name": "Austin",
     "country": "United States",

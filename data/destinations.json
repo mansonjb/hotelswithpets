@@ -13776,18 +13776,66 @@
     "lat": 54.1759,
     "lng": 15.5833,
     "weather": {
-      "jan": { "temp": 1, "desc": "Cold & damp", "icon": "🌧️" },
-      "feb": { "temp": 1, "desc": "Cold & damp", "icon": "🌧️" },
-      "mar": { "temp": 4, "desc": "Cool & breezy", "icon": "🌦️" },
-      "apr": { "temp": 8, "desc": "Mild & breezy", "icon": "🌤️" },
-      "may": { "temp": 12, "desc": "Mild & pleasant", "icon": "⛅" },
-      "jun": { "temp": 16, "desc": "Mild & sunny", "icon": "🌤️" },
-      "jul": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
-      "aug": { "temp": 18, "desc": "Warm & sunny", "icon": "☀️" },
-      "sep": { "temp": 14, "desc": "Mild & breezy", "icon": "⛅" },
-      "oct": { "temp": 10, "desc": "Cool & breezy", "icon": "🌦️" },
-      "nov": { "temp": 5, "desc": "Cold & damp", "icon": "🌧️" },
-      "dec": { "temp": 2, "desc": "Cold & damp", "icon": "🌧️" }
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Cool & breezy",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 12,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 18,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 14,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Cool & breezy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 5,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 2,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      }
     },
     "iata": "SZZ"
   },
@@ -25749,6 +25797,81 @@
       }
     },
     "iata": "STR"
+  },
+  {
+    "slug": "swinoujscie",
+    "name": "Swinoujscie",
+    "country": "Poland",
+    "countryCode": "PL",
+    "flag": "🇵🇱",
+    "categoryCount": 5,
+    "heroImage": "/images/destinations/swinoujscie.jpg",
+    "intro": "Swinoujscie (Świnoujście in Polish) is Poland's westernmost coastal town, a flat Baltic island spa resort with one of the country's widest beaches, a dedicated dog beach since 2006, a fenced off-leash run in its spa park, and a 12km seafront promenade that keeps going all the way into Germany.",
+    "lat": 53.9105,
+    "lng": 14.2471,
+    "weather": {
+      "jan": {
+        "temp": 1,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Cool & breezy",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 8,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 13,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "jun": {
+        "temp": 16,
+        "desc": "Mild & sunny",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 19,
+        "desc": "Warm & sunny",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 15,
+        "desc": "Mild & breezy",
+        "icon": "⛅"
+      },
+      "oct": {
+        "temp": 11,
+        "desc": "Cool & breezy",
+        "icon": "🌦️"
+      },
+      "nov": {
+        "temp": 6,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 3,
+        "desc": "Cold & damp",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "SZZ"
   },
   {
     "slug": "sydney",

@@ -286,6 +286,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Latarnia Morska lighthouse grounds, Molo Kolobrzeskie pier, and the seafront promenade through the spa park`,
       area: `the port waterfront around Towarowa street, the Old Town near Narutowicza, and the spa quarter by the pier`,
     },
+    swinoujscie: {
+      personality: `Poland's westernmost seaside spa resort, spread across three Baltic islands right on the German border, home to the country's first dedicated dog beach and one of its widest stretches of sand`,
+      highlight: `the tallest lighthouse on the Polish Baltic coast, the windmill-shaped Stawa Mlyny navigation marker, and the fenced off-leash dog run inside Park Zdrojowy`,
+      area: `the spa quarter around Uzdrowiskowa street, the harbour-mouth promenade by Stawa Mlyny, and the seafront boardwalk stretching toward Ahlbeck on Usedom`,
+    },
     kotor: {
       personality: `one of the most scenic walled coastal towns in Montenegro`,
       highlight: `the walled Old Town, the Dobrota waterfront promenade, and the Bay of Kotor fjord`,
@@ -2349,6 +2354,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `les abords du phare Latarnia Morska, le môle Molo Kolobrzeskie et la promenade en bord de mer à travers le parc thermal`,
       area: `le front de mer du port autour de la rue Towarowa, la vieille ville près de Narutowicza et le quartier thermal près du môle`,
     },
+    swinoujscie: {
+      personality: `la station thermale balnéaire la plus à l'ouest de Pologne, répartie sur trois îles baltes juste à la frontière allemande, qui abrite la première plage pour chiens du pays et l'une de ses plus larges étendues de sable`,
+      highlight: `le plus haut phare de la côte baltique polonaise, le repère de navigation en forme de moulin Stawa Mlyny, et l'espace clôturé en liberté à l'intérieur de Park Zdrojowy`,
+      area: `le quartier thermal autour de la rue Uzdrowiskowa, la promenade à l'entrée du port près de Stawa Mlyny, et le front de mer qui s'étend vers Ahlbeck sur l'île d'Usedom`,
+    },
     kotor: {
       personality: `l'une des plus belles villes côtières fortifiées du Monténégro`,
       highlight: `la vieille ville fortifiée, la promenade du front de mer de Dobrota et le fjord de la baie de Kotor`,
@@ -4411,6 +4421,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el recinto del faro Latarnia Morska, el muelle Molo Kolobrzeskie y el paseo marítimo a través del parque termal`,
       area: `el frente portuario junto a la calle Towarowa, el casco antiguo cerca de Narutowicza y el barrio termal junto al muelle`,
     },
+    swinoujscie: {
+      personality: `la localidad termal costera más occidental de Polonia, repartida en tres islas bálticas justo en la frontera alemana, sede de la primera playa para perros del país y de una de sus playas más anchas`,
+      highlight: `el faro más alto de la costa báltica polaca, el hito de navegación con forma de molino Stawa Mlyny, y el recinto vallado sin correa dentro de Park Zdrojowy`,
+      area: `el barrio termal en torno a la calle Uzdrowiskowa, el paseo junto a la bocana del puerto cerca de Stawa Mlyny, y el frente marítimo que se extiende hacia Ahlbeck en la isla de Usedom`,
+    },
     kotor: {
       personality: `una de las ciudades costeras amuralladas más bonitas de Montenegro`,
       highlight: `el casco antiguo amurallado, el paseo marítimo de Dobrota y el fiordo de la bahía de Kotor`,
@@ -6472,6 +6487,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma localidade termal báltica plana e fácil de percorrer, que abriu todas as suas praias a cães à trela em 2025, organizada em torno de um farol histórico, um molhe de betão de 220 metros e o sombreado Nadmorski Park Zdrojowy`,
       highlight: `o recinto do farol Latarnia Morska, o molhe Molo Kolobrzeskie e o passeio marítimo através do parque termal`,
       area: `a frente portuária junto à rua Towarowa, a cidade velha perto de Narutowicza e o bairro termal junto ao molhe`,
+    },
+    swinoujscie: {
+      personality: `a localidade termal costeira mais ocidental da Polónia, repartida por três ilhas bálticas mesmo na fronteira alemã, com a primeira praia para cães do país e uma das suas praias mais largas`,
+      highlight: `o farol mais alto da costa báltica polaca, o marco de navegação em forma de moinho Stawa Mlyny, e o recinto vedado sem trela dentro do Park Zdrojowy`,
+      area: `o bairro termal em redor da rua Uzdrowiskowa, o passeio junto à entrada do porto perto do Stawa Mlyny, e a marginal que se estende até Ahlbeck na ilha de Usedom`,
     },
     kotor: {
       personality: `uma das mais belas cidades costeiras amuralhadas do Montenegro`,

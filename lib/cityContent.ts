@@ -44669,6 +44669,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  swinoujscie: {
+    history: {
+      en: `Swinoujscie has been a port and health-resort town since the early 19th century, when Prussian doctors first prescribed its sea air and brine baths, and it grew into Poland's westernmost city, spread across three Baltic islands right on the German border. Heavily damaged in 1945 and rebuilt as a Polish naval and ferry port, it still carries the marks of that history in its yellow-brick lighthouse, the tallest on the Polish coast, and in the windmill-shaped Stawa Mlyny navigation marker at the harbour mouth. Today the town's defining feature is its width: one of the broadest sandy beaches in Poland runs the length of Uznam island, backed by the 58-hectare Park Zdrojowy spa park and a 12-kilometre seafront promenade that keeps going, uninterrupted, all the way into the German resorts of Ahlbeck, Heringsdorf and Bansin. For a visitor with a dog, Swinoujscie offers something rare on the Baltic coast: the country's first dedicated dog beach, open since 2006, a fenced off-leash run inside the spa park since 2022, and an entire cross-border walk that a leashed dog can do start to finish.`,
+      fr: `Swinoujscie est une ville portuaire et thermale depuis le début du XIXe siècle, quand les médecins prussiens ont commencé à prescrire son air marin et ses bains de saumure, et elle est devenue la ville la plus à l'ouest de Pologne, répartie sur trois îles baltes juste à la frontière allemande. Lourdement endommagée en 1945 et reconstruite comme port naval et port de ferries polonais, elle garde les traces de cette histoire dans son phare en brique jaune, le plus haut de la côte polonaise, et dans le repère de navigation en forme de moulin, Stawa Mlyny, à l'entrée du port. Aujourd'hui, la particularité de la ville est sa largeur : l'une des plages de sable les plus larges de Pologne s'étend sur toute la longueur de l'île d'Uznam, adossée au parc thermal de 58 hectares de Park Zdrojowy et à une promenade en bord de mer de 12 kilomètres qui se poursuit sans interruption jusqu'aux stations allemandes d'Ahlbeck, Heringsdorf et Bansin. Pour un visiteur avec un chien, Swinoujscie offre quelque chose de rare sur la côte baltique : la première plage pour chiens du pays, ouverte depuis 2006, un espace clôturé en liberté dans le parc thermal depuis 2022, et une promenade transfrontalière qu'un chien en laisse peut parcourir d'un bout à l'autre.`,
+      es: `Swinoujscie es una ciudad portuaria y termal desde principios del siglo XIX, cuando los médicos prusianos empezaron a recetar su aire marino y sus baños de salmuera, y se convirtió en la ciudad más occidental de Polonia, repartida en tres islas bálticas justo en la frontera alemana. Muy dañada en 1945 y reconstruida como puerto naval y de ferris polaco, todavía conserva las huellas de esa historia en su faro de ladrillo amarillo, el más alto de la costa polaca, y en el hito de navegación con forma de molino, Stawa Mlyny, en la bocana del puerto. Hoy en día, el rasgo distintivo de la ciudad es su anchura: una de las playas de arena más anchas de Polonia recorre toda la isla de Uznam, respaldada por el parque termal de 58 hectáreas de Park Zdrojowy y un paseo marítimo de 12 kilómetros que continúa sin interrupción hasta las localidades alemanas de Ahlbeck, Heringsdorf y Bansin. Para un visitante con perro, Swinoujscie ofrece algo poco habitual en la costa báltica: la primera playa para perros del país, abierta desde 2006, un recinto vallado sin correa dentro del parque termal desde 2022, y un paseo transfronterizo que un perro con correa puede recorrer de principio a fin.`,
+      pt: `Swinoujscie é uma cidade portuária e termal desde o início do século XIX, quando os médicos prussianos começaram a receitar o seu ar marinho e os seus banhos de salmoura, e tornou-se a cidade mais ocidental da Polónia, repartida por três ilhas bálticas mesmo na fronteira alemã. Muito danificada em 1945 e reconstruída como porto naval e de ferries polaco, ainda guarda as marcas dessa história no seu farol de tijolo amarelo, o mais alto da costa polaca, e no marco de navegação em forma de moinho, Stawa Mlyny, na entrada do porto. Hoje, a característica marcante da cidade é a sua largura: uma das praias de areia mais largas da Polónia percorre toda a ilha de Uznam, apoiada pelo parque termal de 58 hectares do Park Zdrojowy e por uma marginal de 12 quilómetros que continua sem interrupção até às localidades alemãs de Ahlbeck, Heringsdorf e Bansin. Para um visitante com cão, Swinoujscie oferece algo raro na costa báltica: a primeira praia para cães do país, aberta desde 2006, um recinto vedado sem trela dentro do parque termal desde 2022, e um passeio transfronteiriço que um cão à trela pode percorrer do início ao fim.`,
+    },
+    sights: [
+      {
+        name: `Latarnia Morska`,
+        emoji: `🗼`,
+        petFriendly: true,
+        desc: {
+          en: `Standing almost 65 metres tall, this yellow-brick lighthouse from the mid-19th century is the tallest on the Polish Baltic coast. The grounds welcome leashed dogs, though the narrow interior spiral stairs are best tackled one owner at a time while the other waits below.`,
+          fr: `Culminant à près de 65 mètres, ce phare en brique jaune du milieu du XIXe siècle est le plus haut de la côte baltique polonaise. Les abords accueillent les chiens en laisse, mais l'étroit escalier en colimaçon intérieur se monte mieux à tour de rôle, l'un attendant en bas.`,
+          es: `Con casi 65 metros de altura, este faro de ladrillo amarillo de mediados del siglo XIX es el más alto de la costa báltica polaca. El recinto acoge a los perros con correa, aunque la estrecha escalera de caracol interior se sube mejor por turnos, mientras uno espera abajo.`,
+          pt: `Com quase 65 metros de altura, este farol de tijolo amarelo de meados do século XIX é o mais alto da costa báltica polaca. O recinto acolhe cães à trela, embora a estreita escada em caracol interior seja melhor subir à vez, com um a esperar em baixo.`,
+        },
+      },
+      {
+        name: `Stawa Mlyny`,
+        emoji: `🌊`,
+        petFriendly: true,
+        desc: {
+          en: `A white, windmill-shaped navigation marker built in 1873-1874 to guide ships into the harbour, and one of the town's most recognisable symbols. It sits right at the end of the promenade next to the dog beach, an easy leashed walk and photo stop.`,
+          fr: `Un repère de navigation blanc en forme de moulin, construit en 1873-1874 pour guider les navires vers le port, et l'un des symboles les plus reconnaissables de la ville. Il se trouve juste au bout de la promenade, à côté de la plage pour chiens, une balade facile en laisse et un arrêt photo.`,
+          es: `Un hito de navegación blanco con forma de molino, construido en 1873-1874 para guiar a los barcos hacia el puerto, y uno de los símbolos más reconocibles de la ciudad. Se encuentra justo al final del paseo, junto a la playa para perros, un paseo fácil con correa y una parada fotográfica.`,
+          pt: `Um marco de navegação branco em forma de moinho, construído em 1873-1874 para guiar os navios até ao porto, e um dos símbolos mais reconhecíveis da cidade. Fica mesmo no final do passeio, junto à praia para cães, um passeio fácil à trela e uma paragem fotográfica.`,
+        },
+      },
+      {
+        name: `Park Zdrojowy`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          en: `A 58-hectare spa park laid out by 19th-century landscape architect Peter Joseph Lenné, with mature trees, ponds and shaded paths linking the pier to the town centre. Leashed dogs are welcome throughout, and a fenced off-leash run sits inside the park itself.`,
+          fr: `Un parc thermal de 58 hectares dessiné par l'architecte paysagiste Peter Joseph Lenné au XIXe siècle, avec des arbres centenaires, des étangs et des allées ombragées reliant le môle au centre-ville. Les chiens en laisse y sont partout les bienvenus, et un espace clôturé en liberté se trouve à l'intérieur même du parc.`,
+          es: `Un parque termal de 58 hectáreas diseñado por el arquitecto paisajista del siglo XIX Peter Joseph Lenné, con árboles centenarios, estanques y senderos sombreados que conectan el muelle con el centro. Los perros con correa son bienvenidos en todo el recorrido, y dentro del propio parque hay un recinto vallado sin correa.`,
+          pt: `Um parque termal de 58 hectares desenhado pelo arquiteto paisagista do século XIX Peter Joseph Lenné, com árvores centenárias, lagos e caminhos sombreados que ligam o molhe ao centro. Os cães à trela são bem-vindos em todo o percurso, e dentro do próprio parque há um recinto vedado sem trela.`,
+        },
+      },
+      {
+        name: `Plaza dla Psow`,
+        emoji: `🏖️`,
+        petFriendly: true,
+        desc: {
+          en: `Poland's first-ever designated dog beach, over 1,000 square metres of sand next to the Stawa Mlyny landmark, marked with bilingual signage and equipped with waste-bag dispensers. Open year-round, unlike the seasonal restriction on the main beach.`,
+          fr: `La toute première plage pour chiens de Pologne, plus de 1 000 m² de sable à côté du repère Stawa Mlyny, balisée en deux langues et équipée de distributeurs de sacs. Ouverte toute l'année, contrairement à la restriction saisonnière de la plage principale.`,
+          es: `La primerísima playa para perros de Polonia, más de 1.000 m² de arena junto al hito de Stawa Mlyny, señalizada en dos idiomas y equipada con dispensadores de bolsas. Abierta todo el año, a diferencia de la restricción estacional de la playa principal.`,
+          pt: `A primeiríssima praia para cães da Polónia, com mais de 1.000 m² de areia junto ao marco Stawa Mlyny, sinalizada em duas línguas e equipada com dispensadores de sacos. Aberta todo o ano, ao contrário da restrição sazonal da praia principal.`,
+        },
+      },
+      {
+        name: `Prom Bielik`,
+        emoji: `⛴️`,
+        petFriendly: true,
+        desc: {
+          en: `A free municipal ferry crossing the Swina river channel to Wolin island roughly every 20 minutes, taking pedestrians, cyclists and cars alike. Dogs travel free on a leash, and the short crossing is an attraction in its own right.`,
+          fr: `Un ferry municipal gratuit traversant le chenal de la Swina vers l'île de Wolin environ toutes les 20 minutes, accueillant piétons, cyclistes et voitures. Les chiens voyagent gratuitement en laisse, et cette courte traversée est une attraction en soi.`,
+          es: `Un ferry municipal gratuito que cruza el canal del río Swina hacia la isla de Wolin aproximadamente cada 20 minutos, con peatones, ciclistas y coches. Los perros viajan gratis con correa, y esta breve travesía es una atracción en sí misma.`,
+          pt: `Um ferry municipal gratuito que atravessa o canal do rio Swina até à ilha de Wolin aproximadamente a cada 20 minutos, levando peões, ciclistas e carros. Os cães viajam grátis à trela, e esta curta travessia é uma atração por si só.`,
+        },
+      },
+      {
+        name: `Promenada do Ahlbeck`,
+        emoji: `🚶`,
+        petFriendly: true,
+        desc: {
+          en: `A flat, paved seafront boardwalk running from central Swinoujscie into the German resorts of Ahlbeck, Heringsdorf and Bansin on Usedom island, about 12 km one way. Leashed dogs can walk the whole route; carry ID or a passport since temporary border checks have been reinstated since 2023.`,
+          fr: `Une promenade plate et pavée en bord de mer allant du centre de Swinoujscie jusqu'aux stations allemandes d'Ahlbeck, Heringsdorf et Bansin sur l'île d'Usedom, environ 12 km aller. Les chiens en laisse peuvent parcourir tout le trajet ; munissez-vous d'une pièce d'identité ou d'un passeport, des contrôles frontaliers temporaires ayant été réintroduits depuis 2023.`,
+          es: `Un paseo marítimo llano y pavimentado que va desde el centro de Swinoujscie hasta las localidades alemanas de Ahlbeck, Heringsdorf y Bansin en la isla de Usedom, unos 12 km de ida. Los perros con correa pueden recorrer toda la ruta; lleva DNI o pasaporte, ya que se han reinstaurado controles fronterizos temporales desde 2023.`,
+          pt: `Uma marginal plana e pavimentada que vai do centro de Swinoujscie até às localidades alemãs de Ahlbeck, Heringsdorf e Bansin na ilha de Usedom, cerca de 12 km de ida. Os cães à trela podem percorrer todo o trajeto; leve identificação ou passaporte, já que foram reinstaurados controlos fronteiriços temporários desde 2023.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `The only true off-leash space in town is the fenced, roughly 4,000-square-metre dog run built in 2022 inside Park Zdrojowy, entered from Cisowa alley; a leash is required everywhere else, including the beach.`,
+        `Dogs are limited on the main public beach during the busiest daytime hours of July and August; the dedicated dog beach near Stawa Mlyny is open year-round instead.`,
+        `A muzzle is required only for breeds classified as aggressive under Polish law; most dogs just need a leash on public streets, in parks and on the beach.`,
+        `There is no 24-hour vet in Swinoujscie; the nearest round-the-clock animal hospital is in Szczecin, about 105 km away, so save the number before you need it.`,
+        `If you plan to walk the promenade into Germany, carry your dog's EU pet passport plus your own ID or passport; both countries have reinstated temporary spot checks at this border since 2023.`,
+      ],
+      fr: [
+        `Le seul véritable espace en liberté de la ville est l'enclos clôturé d'environ 4 000 m², construit en 2022 dans Park Zdrojowy et accessible depuis l'allée Cisowa ; la laisse est obligatoire partout ailleurs, y compris sur la plage.`,
+        `Les chiens sont limités sur la plage publique principale aux heures diurnes les plus fréquentées de juillet et août ; la plage pour chiens dédiée près de Stawa Mlyny reste ouverte toute l'année.`,
+        `La muselière n'est obligatoire que pour les races classées agressives par la loi polonaise ; la plupart des chiens n'ont besoin que d'une laisse dans les rues, les parcs et sur la plage.`,
+        `Il n'y a pas de vétérinaire ouvert 24h/24 à Swinoujscie ; l'hôpital animalier permanent le plus proche se trouve à Szczecin, à environ 105 km, notez le numéro avant d'en avoir besoin.`,
+        `Si vous prévoyez de marcher sur la promenade jusqu'en Allemagne, munissez-vous du passeport européen de votre chien ainsi que de votre propre pièce d'identité ou passeport ; les deux pays ont réintroduit des contrôles ponctuels temporaires à cette frontière depuis 2023.`,
+      ],
+      es: [
+        `El único espacio realmente sin correa de la ciudad es el recinto vallado de unos 4.000 m², construido en 2022 dentro de Park Zdrojowy y accesible desde la avenida Cisowa; la correa es obligatoria en cualquier otro lugar, incluida la playa.`,
+        `Los perros tienen limitaciones en la playa pública principal durante las horas diurnas de mayor afluencia de julio y agosto; la playa para perros dedicada cerca de Stawa Mlyny permanece abierta todo el año.`,
+        `El bozal solo es obligatorio para razas clasificadas como agresivas por la ley polaca; la mayoría de los perros solo necesitan correa en calles, parques y playa.`,
+        `No hay veterinario 24 horas en Swinoujscie; el hospital veterinario permanente más cercano está en Szczecin, a unos 105 km, guarda el número antes de necesitarlo.`,
+        `Si piensas caminar por el paseo hasta Alemania, lleva el pasaporte europeo de tu perro además de tu propio DNI o pasaporte; ambos países han reinstaurado controles puntuales temporales en esta frontera desde 2023.`,
+      ],
+      pt: [
+        `O único verdadeiro espaço sem trela da cidade é o recinto vedado com cerca de 4.000 m², construído em 2022 dentro do Park Zdrojowy e com entrada pela alameda Cisowa; a trela é obrigatória em qualquer outro lugar, incluindo a praia.`,
+        `Os cães têm limitações na praia pública principal durante as horas diurnas de maior afluência de julho e agosto; a praia para cães dedicada perto do Stawa Mlyny permanece aberta todo o ano.`,
+        `O açaime só é obrigatório para raças classificadas como agressivas pela lei polaca; a maioria dos cães só precisa de trela em ruas, parques e praia.`,
+        `Não há veterinário 24 horas em Swinoujscie; o hospital veterinário permanente mais próximo fica em Szczecin, a cerca de 105 km, guarde o número antes de precisar dele.`,
+        `Se planeia caminhar pela marginal até à Alemanha, leve o passaporte europeu do seu cão além da sua própria identificação ou passaporte; ambos os países reinstauraram controlos pontuais temporários nesta fronteira desde 2023.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Nearest airport: Szczecin-Goleniow (SZZ), about 100 km / 1h30 by car to the south. A direct regional train connects Szczecin to Swinoujscie Centrum station in about 1h45.`,
+        `Swinoujscie is flat and compact; the lighthouse, Stawa Mlyny, the dog beach and Park Zdrojowy all connect within a 15-minute walk of each other.`,
+        `Poland uses the zloty (PLN), not the euro, though many tourist businesses near the seafront display both currencies given the German day-trippers. Card payments are widely accepted.`,
+        `Daytime vet clinics: Gabinet Weterynaryjny Vet Medica (ul. Wojska Polskiego 4A-B/5C, +48 887 849 585) and Przychodnia Weterynaryjna Brosvet (ul. Warszawska 29, +48 91 321 70 60). Nearest 24-hour hospital: Szczecin, about 105 km away.`,
+        `Peak season is July-August, when the population multiplies and the beach-hours restriction applies; late spring and September offer a quieter, still-mild visit with fewer beach restrictions.`,
+      ],
+      fr: [
+        `Aéroport le plus proche : Szczecin-Goleniów (SZZ), à environ 100 km / 1h30 en voiture au sud. Un train régional direct relie Szczecin à la gare de Swinoujscie Centrum en environ 1h45.`,
+        `Swinoujscie est plate et compacte ; le phare, Stawa Mlyny, la plage pour chiens et Park Zdrojowy se relient tous en 15 minutes de marche.`,
+        `La Pologne utilise le zloty (PLN), pas l'euro, même si de nombreux commerces touristiques près du front de mer affichent les deux devises à cause des visiteurs allemands venus pour la journée. Les paiements par carte sont largement acceptés.`,
+        `Cliniques vétérinaires de jour : Gabinet Weterynaryjny Vet Medica (ul. Wojska Polskiego 4A-B/5C, +48 887 849 585) et Przychodnia Weterynaryjna Brosvet (ul. Warszawska 29, +48 91 321 70 60). Hôpital permanent le plus proche : Szczecin, à environ 105 km.`,
+        `La haute saison va de juillet à août, période où la population se multiplie et où la restriction horaire de plage s'applique ; la fin du printemps et septembre offrent une visite plus calme, encore douce, avec moins de restrictions de plage.`,
+      ],
+      es: [
+        `Aeropuerto más cercano: Szczecin-Goleniow (SZZ), a unos 100 km / 1h30 en coche al sur. Un tren regional directo conecta Szczecin con la estación de Swinoujscie Centrum en unas 1h45.`,
+        `Swinoujscie es llana y compacta; el faro, Stawa Mlyny, la playa para perros y Park Zdrojowy se conectan todos en 15 minutos a pie.`,
+        `Polonia usa el zloty (PLN), no el euro, aunque muchos negocios turísticos cerca del paseo marítimo muestran ambas divisas debido a los visitantes alemanes que llegan por el día. Los pagos con tarjeta se aceptan ampliamente.`,
+        `Clínicas veterinarias diurnas: Gabinet Weterynaryjny Vet Medica (ul. Wojska Polskiego 4A-B/5C, +48 887 849 585) y Przychodnia Weterynaryjna Brosvet (ul. Warszawska 29, +48 91 321 70 60). Hospital permanente más cercano: Szczecin, a unos 105 km.`,
+        `La temporada alta es julio-agosto, cuando la población se multiplica y se aplica la restricción horaria de playa; el final de la primavera y septiembre ofrecen una visita más tranquila y aún templada, con menos restricciones de playa.`,
+      ],
+      pt: [
+        `Aeroporto mais próximo: Szczecin-Goleniow (SZZ), a cerca de 100 km / 1h30 de carro a sul. Um comboio regional direto liga Szczecin à estação de Swinoujscie Centrum em cerca de 1h45.`,
+        `Swinoujscie é plana e compacta; o farol, o Stawa Mlyny, a praia para cães e o Park Zdrojowy ligam-se todos num passeio de 15 minutos.`,
+        `A Polónia usa o zloty (PLN), não o euro, embora muitos negócios turísticos perto da marginal mostrem ambas as moedas devido aos visitantes alemães que chegam por um dia. Os pagamentos por cartão são amplamente aceites.`,
+        `Clínicas veterinárias diurnas: Gabinet Weterynaryjny Vet Medica (ul. Wojska Polskiego 4A-B/5C, +48 887 849 585) e Przychodnia Weterynaryjna Brosvet (ul. Warszawska 29, +48 91 321 70 60). Hospital permanente mais próximo: Szczecin, a cerca de 105 km.`,
+        `A época alta é julho-agosto, período em que a população se multiplica e se aplica a restrição horária de praia; o final da primavera e setembro oferecem uma visita mais calma e ainda amena, com menos restrições de praia.`,
+      ],
+    },
+  },
+
   sydney: {
     history: {
       fr: `Sydney est née de la colonie pénitentiaire fondée en 1788 à Sydney Cove pour devenir la plus grande ville d'Australie, environ 5,3 millions d'habitants blottis autour de l'un des plus beaux ports naturels du monde. Ses caps de grès, ses plages océaniques et ses réserves de bush façonnent un art de vivre résolument tourné vers l'extérieur, et les chiens y ont toute leur place : plages canines au bord du port, immenses réserves municipales et une culture de terrasses et de beer gardens ouverte toute l'année. Deux réalités encadrent une visite avec un chien. D'abord, l'accès est strictement zoné : les célèbres plages de surf (Bondi, Manly, Coogee) interdisent les chiens, les zones sans laisse sont balisées par secteur et par horaire, et les terrains des parcs nationaux excluent les animaux. Ensuite, les transports publics aussi, dans une large mesure, si bien que la plupart des maîtres circulent en voiture ou en VTC acceptant les animaux. La récompense, quand on compose avec ces règles, est l'une des grandes villes les plus réellement dog-friendly qui soient, avec d'excellents vétérinaires d'urgence 24h/24.`,

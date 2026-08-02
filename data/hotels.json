@@ -6126,6 +6126,202 @@
     ]
   },
   {
+    "id": "benidorm-1",
+    "slug": "the-level-at-melia-villaitana",
+    "name": "The Level at Meliá Villaitana",
+    "destinationSlug": "benidorm",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 514,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/the-level-melia-villaitana.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome (confirmed via Booking.com pet-friendly filter); please confirm conditions, sizes and any fees with the property when booking.",
+    "highlights": [
+      "2 swimming pools",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "benidorm-2",
+    "slug": "hotel-boutique-villa-venecia",
+    "name": "Hotel Boutique Villa Venecia",
+    "destinationSlug": "benidorm",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 238,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/boutique-villa-venecia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome (confirmed via Booking.com pet-friendly filter); please confirm conditions, sizes and any fees with the property when booking.",
+    "highlights": [
+      "Private parking",
+      "Free WiFi",
+      "Spa & wellness centre"
+    ]
+  },
+  {
+    "id": "benidorm-3",
+    "slug": "benidorm-luxury-residential",
+    "name": "Benidorm Luxury Residential",
+    "destinationSlug": "benidorm",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 9.7,
+    "reviewCount": 35,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/benidorm-luxury-residential.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome (confirmed via Booking.com pet-friendly filter); please confirm conditions, sizes and any fees with the property when booking.",
+    "highlights": [
+      "3 swimming pools",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "benidorm-4",
+    "slug": "lovely-apartment-in-benidorm-with-sauna",
+    "name": "Lovely Apartment In Benidorm With Sauna",
+    "destinationSlug": "benidorm",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 3,
+    "rating": 8.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/beautiful-apartment-in-benidorm-with-outdoor-swimming-pool-wifi-and-swimming-poo.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome (confirmed via Booking.com pet-friendly filter); please confirm conditions, sizes and any fees with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "benidorm-5",
+    "slug": "port-benidorm-hotel-spa-4-sup",
+    "name": "Port Benidorm Hotel & Spa 4* Sup",
+    "destinationSlug": "benidorm",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 234,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/los-dalmatas.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome (confirmed via Booking.com pet-friendly filter); please confirm conditions, sizes and any fees with the property when booking.",
+    "highlights": [
+      "3 swimming pools",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "benidorm-6",
+    "slug": "hotel-bcl-levante-club-spa-4-sup-only-adults-recomended",
+    "name": "Hotel BCL Levante Club & Spa 4 Sup - Only Adults Recomended",
+    "destinationSlug": "benidorm",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 6170,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/levante-club-spa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome (confirmed via Booking.com pet-friendly filter); please confirm conditions, sizes and any fees with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "benidorm-7",
+    "slug": "hotel-brisa-2",
+    "name": "Hotel Brisa",
+    "destinationSlug": "benidorm",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 2525,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/brisa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome (confirmed via Booking.com pet-friendly filter); please confirm conditions, sizes and any fees with the property when booking.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "benidorm-8",
+    "slug": "hotel-madeira-centro",
+    "name": "Hotel Madeira Centro",
+    "destinationSlug": "benidorm",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.8,
+    "reviewCount": 2733,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/es/madeira-centro.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Dogs and cats welcome (confirmed via Booking.com pet-friendly filter); please confirm conditions, sizes and any fees with the property when booking.",
+    "highlights": [
+      "2 swimming pools",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
     "id": "berat-1",
     "name": "Hotel Colombo",
     "destinationSlug": "berat",

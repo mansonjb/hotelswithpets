@@ -2087,6 +2087,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Valbona to Theth pass trail, the white-stone bed of the Valbona river, and the meadows of Rragam`,
       area: `Valbona village, Rragam, and the upper valley towards the pass`,
     },
+    benidorm: {
+      personality: `Europe's biggest high-rise beach resort on the Costa Blanca, a huge UK-favourite where five free fenced dog parks and a walkable, flat layout offset a total, year-round ban on dogs from the sand`,
+      highlight: `the clifftop Balcón del Mediterráneo, the whitewashed Old Town lanes, and the palm-lined Parque Canino L'Aigüera`,
+      area: `Rincón de Loix near the dog parks and Serra Gelada trailhead, and the Casco Antiguo old fishing quarter`,
+    },
     spa: {
       personality: `the small Ardennes spa town that gave the English language the word "spa", a UNESCO Great Spas of Europe member ringed by forest trails`,
       highlight: `the Lac de Warfaaz lakeside loop, the covered galleries of the Parc de Sept Heures, and the vast Hautes Fagnes moorland trails`,
@@ -4158,6 +4163,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `un village de vallée isolé au cœur des Alpes albanaises, point de départ de certaines des plus belles randonnées des Balkans`,
       highlight: `le sentier du col de Valbona à Theth, le lit de galets blancs de la rivière Valbona et les prairies de Rragam`,
       area: `le village de Valbona, Rragam et le haut de la vallée vers le col`,
+    },
+    benidorm: {
+      personality: `la plus grande station balnéaire à tours d'Europe sur la Costa Blanca, très prisée des Britanniques, où cinq parcs canins clôturés et gratuits et un tracé plat et praticable à pied compensent une interdiction totale et annuelle des chiens sur le sable`,
+      highlight: `le belvédère du Balcón del Mediterráneo en front de falaise, les ruelles blanchies à la chaux de la vieille ville, et le Parc Canino L'Aigüera bordé de palmiers`,
+      area: `Rincón de Loix près des parcs canins et du départ de sentier de la Serra Gelada, et le Casco Antiguo, l'ancien quartier de pêcheurs`,
     },
     spa: {
       personality: `la petite ville thermale des Ardennes qui a donné au monde le mot « spa », membre du patrimoine UNESCO Great Spas of Europe, cernée de sentiers forestiers`,
@@ -6231,6 +6241,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el sendero del paso de Valbona a Theth, el lecho de piedras blancas del río Valbona y los prados de Rragam`,
       area: `el pueblo de Valbona, Rragam y la parte alta del valle hacia el paso`,
     },
+    benidorm: {
+      personality: `la mayor estación turística de rascacielos de Europa en la Costa Blanca, muy popular entre los británicos, donde cinco parques caninos vallados y gratuitos y un trazado llano y transitable a pie compensan una prohibición total y anual de perros en la arena`,
+      highlight: `el mirador del Balcón del Mediterráneo sobre el acantilado, las callejuelas encaladas del casco antiguo, y el Parque Canino L'Aigüera bordeado de palmeras`,
+      area: `Rincón de Loix, cerca de los parques caninos y del inicio del sendero de la Serra Gelada, y el Casco Antiguo, el antiguo barrio de pescadores`,
+    },
     spa: {
       personality: `la pequeña ciudad termal de las Ardenas que dio al mundo la palabra «spa», miembro del patrimonio UNESCO Great Spas of Europe, rodeada de senderos forestales`,
       highlight: `el circuito junto al Lac de Warfaaz, las galerías cubiertas del Parc de Sept Heures y las vastas turberas de las Hautes Fagnes`,
@@ -8302,6 +8317,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma remota aldeia de vale no coração dos Alpes albaneses, ponto de partida de algumas das melhores caminhadas de montanha dos Balcãs`,
       highlight: `o trilho do passo de Valbona a Theth, o leito de pedras brancas do rio Valbona e os prados de Rragam`,
       area: `a aldeia de Valbona, Rragam e o alto do vale em direção ao passo`,
+    },
+    benidorm: {
+      personality: `a maior estância turística de arranha-céus da Europa na Costa Blanca, muito popular entre os britânicos, onde cinco parques caninos vedados e gratuitos e um traçado plano e caminhável compensam uma proibição total e anual de cães na areia`,
+      highlight: `o miradouro do Balcón del Mediterráneo sobre a falésia, as ruelas caiadas de branco do centro histórico, e o Parque Canino L'Aigüera ladeado de palmeiras`,
+      area: `Rincón de Loix, perto dos parques caninos e do início do trilho de Serra Gelada, e o Casco Antiguo, o antigo bairro piscatório`,
     },
     spa: {
       personality: `a pequena vila termal das Ardenas que deu ao mundo a palavra «spa», membro do património UNESCO Great Spas of Europe, rodeada de trilhos florestais`,

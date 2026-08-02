@@ -5102,6 +5102,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  benidorm: {
+    history: {
+      en: `Benidorm was a quiet fishing village of a few hundred people until the 1950s, when mayor Pedro Zaragoza Orts pushed through a radical urban plan that let the town build upward instead of outward, packing tourist capacity onto a small stretch of coastline while keeping the beaches wide and open. The gamble worked spectacularly: within two decades cheap flights and package holidays from Britain and northern Europe turned Benidorm into Spain's densest skyline outside Madrid, with over 300 high-rises including some of Europe's tallest residential towers. The two arcing beaches, Levante and Poniente, anchor a town built almost entirely around tourism, wrapped by the whitewashed Canfali headland that survives from the original fishing village and the dramatic cliffs of the Serra Gelada to the north. Benidorm's reputation swings between package-holiday punchline and genuinely well-run resort city, but for a visitor with a dog the honest picture is mixed: the town invested early in fenced dog parks and kept its old quarter walkable, yet applies one of the strictest, least seasonal beach bans on the Spanish coast.`,
+      fr: `Benidorm n'était qu'un modeste village de pêcheurs de quelques centaines d'habitants jusque dans les années 1950, quand le maire Pedro Zaragoza Orts a fait adopter un plan d'urbanisme radical autorisant la ville à construire en hauteur plutôt qu'en largeur, concentrant la capacité touristique sur une étroite bande de littoral tout en gardant des plages larges et dégagées. Le pari a été spectaculairement gagnant : en deux décennies, les vols low-cost et les séjours forfaitaires venus de Grande-Bretagne et du nord de l'Europe ont fait de Benidorm la skyline la plus dense d'Espagne après Madrid, avec plus de 300 tours dont certaines des plus hautes résidences d'Europe. Les deux plages en arc de cercle, Levante et Poniente, structurent une ville presque entièrement bâtie autour du tourisme, encadrée par le promontoire blanchi à la chaux de Canfali qui subsiste de l'ancien village de pêcheurs et par les falaises spectaculaires de la Serra Gelada au nord. La réputation de Benidorm oscille entre caricature du tourisme de masse et ville-station remarquablement bien gérée, mais pour un visiteur avec un chien, le tableau est contrasté : la ville a investi tôt dans des parcs canins clôturés et gardé sa vieille ville praticable à pied, tout en appliquant l'une des interdictions de plage les plus strictes et les moins saisonnières du littoral espagnol.`,
+      es: `Benidorm era un tranquilo pueblo de pescadores de apenas unos cientos de habitantes hasta la década de 1950, cuando el alcalde Pedro Zaragoza Orts impulsó un plan urbanístico radical que permitió a la ciudad crecer en altura en lugar de en extensión, concentrando la capacidad turística en un tramo pequeño de costa mientras mantenía las playas anchas y abiertas. La apuesta funcionó de forma espectacular: en dos décadas, los vuelos baratos y los paquetes vacacionales procedentes de Gran Bretaña y del norte de Europa convirtieron a Benidorm en el perfil urbano más denso de España después de Madrid, con más de 300 torres, algunas de las residenciales más altas de Europa. Las dos playas en forma de arco, Levante y Poniente, vertebran una ciudad construida casi por completo en torno al turismo, enmarcada por el promontorio encalado de Canfali que sobrevive del antiguo pueblo pesquero y por los espectaculares acantilados de la Serra Gelada al norte. La reputación de Benidorm oscila entre el tópico del turismo de masas y la de una ciudad turística notablemente bien gestionada, pero para quien viaja con un perro, el panorama es desigual: la ciudad invirtió pronto en parques caninos vallados y mantuvo su casco antiguo transitable a pie, aunque aplica una de las prohibiciones de playa más estrictas y menos estacionales de la costa española.`,
+      pt: `Benidorm era uma tranquila vila piscatória de poucas centenas de habitantes até à década de 1950, quando o presidente da câmara Pedro Zaragoza Orts fez aprovar um plano urbanístico radical que permitiu à vila crescer em altura em vez de em extensão, concentrando a capacidade turística numa faixa curta de litoral e mantendo, ao mesmo tempo, praias largas e abertas. A aposta resultou de forma espetacular: em duas décadas, os voos baratos e os pacotes de férias vindos da Grã-Bretanha e do norte da Europa transformaram Benidorm no perfil urbano mais denso de Espanha depois de Madrid, com mais de 300 torres, incluindo algumas das residências mais altas da Europa. As duas praias em forma de arco, Levante e Poniente, estruturam uma cidade construída quase inteiramente em torno do turismo, emoldurada pelo promontório caiado de branco de Canfali, que sobrevive da antiga vila piscatória, e pelas falésias dramáticas de Serra Gelada a norte. A reputação de Benidorm oscila entre o chavão do turismo de massas e a de uma cidade turística notavelmente bem gerida, mas para quem viaja com um cão, o retrato é desigual: a cidade investiu cedo em parques caninos vedados e manteve o seu centro histórico caminhável, mas aplica uma das proibições de praia mais rígidas e menos sazonais da costa espanhola.`,
+    },
+    sights: [
+      {
+        name: `Balcón del Mediterráneo`,
+        emoji: '🌅',
+        petFriendly: true,
+        desc: {
+          en: `Benidorm's most photographed viewpoint, a white balustraded balcony on the Canfali headland between the two main beaches, free to visit with sweeping sea views. Leashed dogs are welcome throughout, with no restrictions.`,
+          fr: `Le belvédère le plus photographié de Benidorm, un balcon blanc à balustrade sur le promontoire de Canfali entre les deux plages principales, gratuit et offrant une vue panoramique sur la mer. Les chiens en laisse y sont bienvenus, sans restriction.`,
+          es: `El mirador más fotografiado de Benidorm, un balcón blanco con balaustrada sobre el promontorio de Canfali entre las dos playas principales, de entrada gratuita y con vistas panorámicas al mar. Los perros atados son bienvenidos en todo el recinto, sin restricciones.`,
+          pt: `O miradouro mais fotografado de Benidorm, uma varanda branca com balaustrada sobre o promontório de Canfali entre as duas praias principais, de entrada gratuita e com vistas panorâmicas sobre o mar. Os cães à trela são bem-vindos em todo o espaço, sem restrições.`,
+        },
+      },
+      {
+        name: `Casco Antiguo`,
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          en: `The whitewashed old fishing quarter, a maze of narrow lanes and tiled plazas around the Church of San Jaime y Santa Ana, and the most walkable, atmospheric part of Benidorm for a dog, far removed from the high-rise strip.`,
+          fr: `L'ancien quartier de pêcheurs aux façades blanchies à la chaux, un dédale de ruelles et de places carrelées autour de l'église San Jaime y Santa Ana, la partie la plus agréable à parcourir à pied avec un chien à Benidorm, loin des tours du front de mer.`,
+          es: `El antiguo barrio de pescadores encalado, un laberinto de callejuelas y plazas embaldosadas alrededor de la iglesia de San Jaime y Santa Ana, la parte más agradable para pasear con un perro en Benidorm, alejada de los rascacielos de la franja turística.`,
+          pt: `O antigo bairro piscatório caiado de branco, um labirinto de ruelas e praças ladrilhadas em torno da igreja de San Jaime y Santa Ana, a parte mais agradável para passear com um cão em Benidorm, longe dos arranha-céus da faixa turística.`,
+        },
+      },
+      {
+        name: `Parque Natural de Serra Gelada`,
+        emoji: '🥾',
+        petFriendly: true,
+        desc: {
+          en: `A dramatic clifftop nature park with Europe's highest sea cliffs, stretching from Benidorm towards Albir. Leashed dogs can walk the flat, paved 5 km round-trip path to the Albir lighthouse, though there is almost no shade.`,
+          fr: `Un parc naturel spectaculaire en front de falaise, doté des plus hautes falaises maritimes d'Europe, qui s'étend de Benidorm vers Albir. Les chiens en laisse peuvent emprunter le chemin plat et goudronné de 5 km aller-retour jusqu'au phare d'Albir, même s'il n'y a presque pas d'ombre.`,
+          es: `Un espectacular parque natural sobre el acantilado, con los acantilados marinos más altos de Europa, que se extiende desde Benidorm hacia Albir. Los perros atados pueden recorrer el sendero llano y pavimentado de 5 km ida y vuelta hasta el Faro del Albir, aunque apenas hay sombra.`,
+          pt: `Um espetacular parque natural sobre a falésia, com as falésias marítimas mais altas da Europa, que se estende desde Benidorm até Albir. Os cães à trela podem percorrer o caminho plano e pavimentado de 5 km ida e volta até ao Farol de Albir, ainda que quase não haja sombra.`,
+        },
+      },
+      {
+        name: `Parque Canino L'Aigüera`,
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          en: `The largest of Benidorm's five official fenced dog parks, tucked behind Avenida Inglaterra along the palm-lined Parc de l'Aigüera gardens, right in the city centre. Free and open 09:00-23:00.`,
+          fr: `Le plus grand des cinq parcs canins clôturés officiels de Benidorm, niché derrière l'Avenida Inglaterra le long des jardins du Parc de l'Aigüera bordés de palmiers, en plein centre-ville. Gratuit, ouvert de 09h00 à 23h00.`,
+          es: `El mayor de los cinco parques caninos vallados oficiales de Benidorm, situado detrás de la Avenida Inglaterra junto a los jardines del Parc de l'Aigüera bordeados de palmeras, en pleno centro. Gratuito, abierto de 09:00 a 23:00.`,
+          pt: `O maior dos cinco parques caninos vedados oficiais de Benidorm, situado atrás da Avenida Inglaterra junto aos jardins do Parc de l'Aigüera ladeados de palmeiras, mesmo no centro da cidade. Gratuito, aberto das 09:00 às 23:00.`,
+        },
+      },
+      {
+        name: `Playa de Levante`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          en: `Benidorm's famous 2 km golden-sand beach lined with high-rise hotels. Dogs are banned from the sand year-round under the municipal ordinance, with fines from around 120 euros; walk past on the paved promenade instead.`,
+          fr: `La célèbre plage de sable doré de 2 km de Benidorm, bordée de tours hôtelières. Les chiens sont interdits sur le sable toute l'année selon l'ordonnance municipale, avec des amendes à partir d'environ 120 euros ; longez-la plutôt sur la promenade pavée.`,
+          es: `La famosa playa de arena dorada de 2 km de Benidorm, bordeada de torres hoteleras. Los perros están prohibidos en la arena todo el año según la ordenanza municipal, con multas desde unos 120 euros; recórrela mejor por el paseo marítimo pavimentado.`,
+          pt: `A famosa praia de areia dourada de 2 km de Benidorm, ladeada de torres hoteleiras. Os cães são proibidos na areia durante todo o ano segundo a ordenança municipal, com multas a partir de cerca de 120 euros; percorra-a antes pelo passeio marítimo pavimentado.`,
+        },
+      },
+      {
+        name: `Terra Mítica`,
+        emoji: '🎢',
+        petFriendly: false,
+        desc: {
+          en: `The Costa Blanca's major theme park, spread across five themed zones. Dogs are not admitted anywhere inside, including queues, so book a day-care sitter through Rover or Gudog if a visit is on the itinerary.`,
+          fr: `Le grand parc à thème de la Costa Blanca, réparti sur cinq zones thématiques. Les chiens ne sont admis nulle part à l'intérieur, y compris dans les files d'attente ; réservez une garde à la journée via Rover ou Gudog si une visite est au programme.`,
+          es: `El gran parque temático de la Costa Blanca, repartido en cinco zonas temáticas. Los perros no se admiten en ningún punto del interior, incluidas las colas; reserva una guardería por el día a través de Rover o Gudog si una visita está en el itinerario.`,
+          pt: `O grande parque temático da Costa Blanca, distribuído por cinco zonas temáticas. Os cães não são admitidos em nenhum ponto do interior, incluindo as filas; reserve uma creche por dia através da Rover ou da Gudog se uma visita estiver no itinerário.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `There is no official dog beach in Benidorm itself, despite what some older blogs claim about Punta Llisera (a protected natural headland, not a dog beach); the closest real one is Cala del Xarco in Villajoyosa, about 20 km away.`,
+        `Benidorm's beach ban is total and year-round, unlike many Spanish coastal towns that lift restrictions outside the June-September bathing season.`,
+        `Use one of the five free fenced pipicanes (Foietes, L'Aigüera, Rincón de Loix, La Cala, Adolfo Suárez) for off-leash time, all open 09:00-23:00.`,
+        `Pavements and promenades get scorching hot from June to September, with highs around 29-30C in August; walk early morning or after sunset.`,
+        `The regional TRAM tram-train only accepts small pets in an approved closed carrier, so a car or taxi is essential for a medium or large dog beyond walking distance.`,
+      ],
+      fr: [
+        `Il n'existe aucune plage pour chiens officielle à Benidorm même, malgré ce qu'affirment certains anciens blogs à propos de Punta Llisera (un promontoire naturel protégé, pas une plage pour chiens) ; la plus proche vraie option est la Cala del Xarco à Villajoyosa, à environ 20 km.`,
+        `L'interdiction de plage à Benidorm est totale et annuelle, contrairement à de nombreuses villes côtières espagnoles qui lèvent les restrictions hors de la saison de baignade de juin à septembre.`,
+        `Profitez de l'un des cinq pipicanes clôturés et gratuits (Foietes, L'Aigüera, Rincón de Loix, La Cala, Adolfo Suárez) pour du temps sans laisse, tous ouverts de 09h00 à 23h00.`,
+        `Les trottoirs et promenades deviennent brûlants de juin à septembre, avec des maximales autour de 29-30C en août ; sortez tôt le matin ou après le coucher du soleil.`,
+        `Le TRAM régional n'accepte que les petits animaux dans une cage de transport fermée homologuée, une voiture ou un taxi est donc indispensable pour un chien moyen ou grand au-delà de la marche.`,
+      ],
+      es: [
+        `No existe ninguna playa canina oficial en la propia Benidorm, pese a lo que afirman algunos blogs antiguos sobre Punta Llisera (un promontorio natural protegido, no una playa para perros); la opción real más cercana es la Cala del Xarco en Villajoyosa, a unos 20 km.`,
+        `La prohibición de playa en Benidorm es total y anual, a diferencia de muchas localidades costeras españolas que levantan las restricciones fuera de la temporada de baño de junio a septiembre.`,
+        `Aprovecha uno de los cinco pipicanes vallados y gratuitos (Foietes, L'Aigüera, Rincón de Loix, La Cala, Adolfo Suárez) para tiempo sin correa, todos abiertos de 09:00 a 23:00.`,
+        `Las aceras y paseos marítimos se calientan mucho de junio a septiembre, con máximas de unos 29-30C en agosto; sal a primera hora de la mañana o tras la puesta de sol.`,
+        `El TRAM regional solo admite mascotas pequeñas en transportín cerrado homologado, así que un coche o un taxi es imprescindible para un perro mediano o grande más allá de lo que se pueda caminar.`,
+      ],
+      pt: [
+        `Não existe nenhuma praia canina oficial na própria Benidorm, apesar do que alguns blogues antigos afirmam sobre a Punta Llisera (um promontório natural protegido, não uma praia para cães); a opção real mais próxima é a Cala del Xarco em Villajoyosa, a cerca de 20 km.`,
+        `A proibição de praia em Benidorm é total e anual, ao contrário de muitas localidades costeiras espanholas que levantam as restrições fora da época balnear de junho a setembro.`,
+        `Aproveite um dos cinco pipicanes vedados e gratuitos (Foietes, L'Aigüera, Rincón de Loix, La Cala, Adolfo Suárez) para tempo sem trela, todos abertos das 09:00 às 23:00.`,
+        `Os passeios e marginais ficam muito quentes de junho a setembro, com máximas de cerca de 29-30C em agosto; saia de manhã cedo ou após o pôr do sol.`,
+        `O TRAM regional só admite animais pequenos em transportadora fechada homologada, por isso um carro ou táxi é indispensável para um cão médio ou grande além do que se possa percorrer a pé.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Spain general emergency number: 112`,
+        `24h emergency vet: AniCura Marina Baixa, Passeig Mitja Llegua 17, Alfaz del Pi (about 9 km away), +34 966 860 669`,
+        `Airport: Alicante-Elche Airport (ALC), about 50 km / 45-50 minutes by car or transfer`,
+        `EU pets: valid EU pet passport, ISO microchip and up-to-date rabies vaccination, no quarantine`,
+        `Non-EU pets: official health certificate (or UK Animal Health Certificate post-Brexit), microchip and rabies vaccination, possibly an antibody titre test, check current Spanish rules before travel`,
+      ],
+      fr: [
+        `Numéro d'urgence général en Espagne : 112`,
+        `Vétérinaire d'urgence 24h/24 : AniCura Marina Baixa, Passeig Mitja Llegua 17, Alfaz del Pi (à environ 9 km), +34 966 860 669`,
+        `Aéroport : aéroport d'Alicante-Elche (ALC), à environ 50 km / 45-50 minutes en voiture ou en navette`,
+        `Animaux UE : passeport européen valide, puce ISO et vaccination antirabique à jour, aucune quarantaine`,
+        `Animaux hors UE : certificat sanitaire officiel (ou Animal Health Certificate britannique post-Brexit), puce et vaccination antirabique, éventuellement un test de titrage d'anticorps, vérifiez les règles espagnoles actuelles avant de partir`,
+      ],
+      es: [
+        `Número de emergencia general en España: 112`,
+        `Veterinario de urgencias 24h: AniCura Marina Baixa, Passeig Mitja Llegua 17, Alfaz del Pi (a unos 9 km), +34 966 860 669`,
+        `Aeropuerto: Aeropuerto de Alicante-Elche (ALC), a unos 50 km / 45-50 minutos en coche o traslado`,
+        `Mascotas UE: pasaporte europeo válido, microchip ISO y vacunación antirrábica al día, sin cuarentena`,
+        `Mascotas fuera de la UE: certificado sanitario oficial (o Animal Health Certificate británico tras el Brexit), microchip y vacunación antirrábica, posiblemente prueba de titulación de anticuerpos, consulta las normas españolas vigentes antes de viajar`,
+      ],
+      pt: [
+        `Número de emergência geral em Espanha: 112`,
+        `Veterinário de urgências 24 horas: AniCura Marina Baixa, Passeig Mitja Llegua 17, Alfaz del Pi (a cerca de 9 km), +34 966 860 669`,
+        `Aeroporto: Aeroporto de Alicante-Elche (ALC), a cerca de 50 km / 45-50 minutos de carro ou transfer`,
+        `Animais UE: passaporte europeu válido, microchip ISO e vacinação antirrábica em dia, sem quarentena`,
+        `Animais fora da UE: certificado sanitário oficial (ou Animal Health Certificate britânico pós-Brexit), microchip e vacinação antirrábica, possivelmente teste de titulação de anticorpos, consulte as regras espanholas em vigor antes de viajar`,
+      ],
+    },
+  },
+
   berat: {
     history: {
       fr: `Classée au patrimoine mondial de l'UNESCO, Berat est surnommée « la ville aux mille fenêtres » pour ses maisons ottomanes blanches empilées à flanc de colline, leurs larges baies vitrées se chevauchant comme des gradins au-dessus de la rivière Osum. La ville se partage entre deux quartiers historiques qui se font face : Mangalem sur la rive droite, au pied de la citadelle, et Gorica sur la rive gauche, reliés par un vieux pont de pierre piéton. Au sommet, le château de Berat (Kalaja) est une forteresse toujours habitée, où des familles vivent parmi les ruelles pavées, les églises byzantines et les remparts qui dominent la vallée. Fondée il y a plus de deux mille ans par les Illyriens, Berat a été byzantine, ottomane puis albanaise, gardant un rare mélange de mosquées et d'églises. En toile de fond se dresse le mont Tomorr, montagne sacrée culminant à plus de 2 400 mètres. Pour un voyageur avec un chien, Berat séduit par ses ruelles à ciel ouvert et les berges ombragées de l'Osum, mais impose de composer avec des pavés brûlants l'été et de fortes montées vers la citadelle.`,

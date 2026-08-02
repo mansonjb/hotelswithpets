@@ -3011,6 +3011,81 @@
     "iata": "MXP"
   },
   {
+    "slug": "benidorm",
+    "name": "Benidorm",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/benidorm.jpg",
+    "intro": "Benidorm is one of Europe's biggest high-rise beach resorts, a Costa Blanca icon with huge UK tourism, five free fenced dog parks, and a genuinely walkable, flat layout. The honest catch: the municipal ordinance bans dogs from the sand on Levante and Poniente, and every other beach in the municipality, year-round with no seasonal exception, so a real dog beach means a 20-30 minute drive to Villajoyosa or Altea.",
+    "lat": 38.5382,
+    "lng": -0.131,
+    "weather": {
+      "jan": {
+        "temp": 16,
+        "desc": "Mild winter sun",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 16,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 18,
+        "desc": "Mild & pleasant",
+        "icon": "⛅"
+      },
+      "apr": {
+        "temp": 19,
+        "desc": "Warm & clear",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Sunny and dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 26,
+        "desc": "Warm early summer",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 29,
+        "desc": "Hot and dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 29,
+        "desc": "Peak summer heat",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 27,
+        "desc": "Warm and calm",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 23,
+        "desc": "Mild and pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 19,
+        "desc": "Warm autumn sun",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 16,
+        "desc": "Mild winter sun",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "ALC"
+  },
+  {
     "slug": "berat",
     "name": "Berat",
     "country": "Albania",

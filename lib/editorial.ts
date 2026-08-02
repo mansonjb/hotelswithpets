@@ -211,6 +211,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Larnaca Salt Lake nature trail, the Finikoudes seafront and the fenced Larnaca Dog Park`,
       area: `Finikoudes seafront, the old town around Saint Lazarus, and Mackenzie Beach`,
     },
+    'las-palmas': {
+      personality: `the Canary Islands' capital on Gran Canaria, a compact winter-sun city where the colonial balconies of Vegueta's old town, the palm-lined Parque Santa Catalina and the long curve of the Las Canteras seafront all sit within an easy walk of each other under an almost seasonless subtropical climate`,
+      highlight: `the fenced pipican dog parks scattered across the city, the Bocabarranco dog beach at the southern edge of town, and the cool highland trails around Roque Nublo for a day trip`,
+      area: `Vegueta's old town, Santa Catalina near the marina, and the Las Canteras seafront`,
+    },
     kefalonia: {
       personality: `the largest and most dramatic of the Ionian islands, wrapped around the Argostoli waterfront and its De Bosset stone bridge, with the Myrtos Beach viewpoint, the cliffside village of Assos, the Melissani cave and the pastel harbour of Fiskardo`,
       highlight: `the Koutavos Lagoon trail, the Katavothres lighthouse loop, and the fir forests of Mount Ainos National Park`,
@@ -2279,6 +2284,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `le sentier nature du lac salé de Larnaca, le front de mer Finikoudes et le parc canin clôturé de Larnaca`,
       area: `le front de mer Finikoudes, la vieille ville autour de Saint-Lazare et Mackenzie Beach`,
     },
+    'las-palmas': {
+      personality: `la capitale des îles Canaries sur Gran Canaria, une ville compacte de soleil hivernal où les balcons coloniaux de la vieille ville de Vegueta, le Parque Santa Catalina bordé de palmiers et la longue courbe du front de mer de Las Canteras se trouvent tous à distance de marche les uns des autres, sous un climat subtropical presque sans saison`,
+      highlight: `les zones canines clôturées disséminées dans toute la ville, la plage pour chiens de Bocabarranco à la limite sud de la ville, et les sentiers frais des hauteurs autour du Roque Nublo pour une excursion à la journée`,
+      area: `la vieille ville de Vegueta, Santa Catalina près de la marina, et le front de mer de Las Canteras`,
+    },
     kefalonia: {
       personality: `la plus grande et la plus spectaculaire des îles Ioniennes, lovée autour du front de mer d'Argostoli et de son pont de pierre De Bosset, avec le point de vue de la plage de Myrtos, le village perché d'Assos, la grotte de Melissani et le port pastel de Fiskardo`,
       highlight: `le sentier de la lagune de Koutavos, la boucle du phare de Katavothres et les forêts de sapins du parc national du mont Ainos`,
@@ -4346,6 +4356,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `el sendero natural del lago salado de Lárnaca, el paseo marítimo Finikoudes y el parque canino vallado de Lárnaca`,
       area: `el paseo marítimo Finikoudes, el casco antiguo en torno a San Lázaro y Mackenzie Beach`,
     },
+    'las-palmas': {
+      personality: `la capital de las islas Canarias en Gran Canaria, una ciudad compacta de sol invernal donde los balcones coloniales del casco antiguo de Vegueta, el Parque Santa Catalina bordeado de palmeras y la larga curva del paseo de Las Canteras quedan todos a poca distancia a pie entre sí, bajo un clima subtropical casi sin estaciones`,
+      highlight: `las zonas caninas valladas repartidas por toda la ciudad, la playa para perros de Bocabarranco en el extremo sur de la ciudad, y los senderos frescos de las cumbres en torno al Roque Nublo para una excursión de un día`,
+      area: `el casco antiguo de Vegueta, Santa Catalina cerca de la marina, y el paseo de Las Canteras`,
+    },
     kefalonia: {
       personality: `la mayor y más espectacular de las islas Jónicas, envuelta en torno al paseo marítimo de Argostoli y su puente de piedra De Bosset, con el mirador de la playa de Myrtos, el pueblo encaramado de Assos, la cueva de Melissani y el puerto pastel de Fiskardo`,
       highlight: `el sendero de la laguna de Koutavos, el circuito del faro de Katavothres y los bosques de abetos del Parque Nacional del Monte Ainos`,
@@ -6412,6 +6427,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `uma das cidades à beira-mar mais descontraídas de Chipre, onde a avenida Finikoudes ladeada de palmeiras, a Igreja de São Lázaro, o lago salgado de Lárnaca repleto de flamingos junto à mesquita Hala Sultan Tekke e a marina ficam a um passeio fácil com o seu cão`,
       highlight: `o trilho natural do lago salgado de Lárnaca, a marginal Finikoudes e o parque canino vedado de Lárnaca`,
       area: `a marginal Finikoudes, a cidade velha em torno de São Lázaro e a Mackenzie Beach`,
+    },
+    'las-palmas': {
+      personality: `a capital das ilhas Canárias em Gran Canaria, uma cidade compacta de sol de inverno onde as varandas coloniais da cidade velha de Vegueta, o Parque Santa Catalina ladeado de palmeiras e a longa curva da marginal de Las Canteras ficam todos a uma curta distância a pé uns dos outros, sob um clima subtropical quase sem estações`,
+      highlight: `as zonas caninas vedadas espalhadas pela cidade, a praia para cães de Bocabarranco no extremo sul da cidade, e os trilhos frescos das terras altas em torno do Roque Nublo para uma excursão de um dia`,
+      area: `a cidade velha de Vegueta, Santa Catalina perto da marina, e a marginal de Las Canteras`,
     },
     kefalonia: {
       personality: `a maior e mais espetacular das ilhas Jónicas, envolta na marginal de Argostoli e na sua ponte de pedra De Bosset, com o miradouro da praia de Myrtos, a aldeia empoleirada de Assos, a gruta de Melissani e o porto em tons pastel de Fiskardo`,

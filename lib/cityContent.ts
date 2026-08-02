@@ -24787,6 +24787,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  'las-palmas': {
+    history: {
+      en: `Las Palmas de Gran Canaria has been the Canary Islands' largest city since Spanish ships first anchored in its natural bay in 1478, using it as a staging post for the Atlantic crossing to the Americas. Christopher Columbus himself stopped here to resupply before his first voyage, and the colonial quarter of Vegueta, with its cathedral and wooden balconies, still traces the original 15th-century street grid. The city grew north along a narrow spit of land toward the port of La Luz, absorbing the fishing and trading district of Triana and eventually the long golden curve of Las Canteras beach. Today it is a working port city as much as a resort, with a stable subtropical climate that barely shifts across the seasons. For a dog owner, that means terrace culture year-round and a compact, walkable layout, offset by the fact that the city's most famous beach is entirely off-limits to pets.`,
+      fr: `Las Palmas de Gran Canaria est la plus grande ville des Canaries depuis que les navires espagnols ont jeté l'ancre dans sa baie naturelle en 1478, en faisant une escale pour la traversée atlantique vers les Amériques. Christophe Colomb lui-même s'y est arrêté pour se ravitailler avant son premier voyage, et le quartier colonial de Vegueta, avec sa cathédrale et ses balcons de bois, conserve encore le tracé des rues du XVe siècle. La ville s'est étendue vers le nord le long d'une étroite bande de terre jusqu'au port de La Luz, absorbant le quartier de pêcheurs et de commerçants de Triana puis la longue courbe dorée de la plage de Las Canteras. Aujourd'hui, c'est autant une ville portuaire active qu'une destination balnéaire, avec un climat subtropical stable qui varie à peine selon les saisons. Pour un propriétaire de chien, cela signifie une culture de terrasse toute l'année et un tracé compact et facile à parcourir à pied, avec pour seul bémol l'interdiction totale des chiens sur la plage la plus célèbre de la ville.`,
+      es: `Las Palmas de Gran Canaria es la mayor ciudad de Canarias desde que los barcos españoles fondearon en su bahía natural en 1478, usándola como escala para la travesía atlántica hacia América. El propio Cristóbal Colón se detuvo aquí para abastecerse antes de su primer viaje, y el barrio colonial de Vegueta, con su catedral y sus balcones de madera, conserva todavía el trazado de calles del siglo XV. La ciudad creció hacia el norte a lo largo de una estrecha lengua de tierra hasta el puerto de La Luz, absorbiendo el barrio pesquero y comercial de Triana y, finalmente, la larga curva dorada de la playa de Las Canteras. Hoy es tanto una ciudad portuaria activa como un destino de sol, con un clima subtropical estable que apenas cambia entre estaciones. Para quien viaja con perro, eso significa cultura de terraza todo el año y un trazado compacto y fácil de recorrer a pie, con el único inconveniente de que la playa más famosa de la ciudad está totalmente prohibida para mascotas.`,
+      pt: `Las Palmas de Gran Canaria é a maior cidade das Canárias desde que os navios espanhóis fundearam na sua baía natural em 1478, usando-a como escala para a travessia atlântica até às Américas. O próprio Cristóvão Colombo aqui parou para se abastecer antes da sua primeira viagem, e o bairro colonial de Vegueta, com a sua catedral e as suas varandas de madeira, conserva ainda a malha de ruas do século XV. A cidade cresceu para norte ao longo de uma estreita faixa de terra até ao porto de La Luz, absorvendo o bairro piscatório e comercial de Triana e, por fim, a longa curva dourada da praia de Las Canteras. Hoje é tanto uma cidade portuária ativa como um destino de sol, com um clima subtropical estável que quase não varia entre estações. Para quem viaja com cão, isso significa cultura de esplanada durante todo o ano e uma malha compacta e fácil de percorrer a pé, com o único senão de a praia mais famosa da cidade estar totalmente proibida para animais.`,
+    },
+    sights: [
+      {
+        name: `Playa de Las Canteras`,
+        emoji: '🏖️',
+        petFriendly: false,
+        desc: {
+          en: `The city's famous 3 km golden-sand beach and its seafront promenade are completely off-limits to dogs year-round under the 2020 municipal ordinance, with fines from 120 to 1500 euros. It is still worth admiring from the inland streets, just not with a dog on the sand.`,
+          fr: `La célèbre plage de sable doré de 3 km de la ville et sa promenade sont totalement interdites aux chiens toute l'année selon l'ordonnance municipale de 2020, avec des amendes de 120 à 1500 euros. Elle mérite tout de même le coup d'œil depuis les rues intérieures, sans le chien sur le sable.`,
+          es: `La famosa playa de arena dorada de 3 km de la ciudad y su paseo marítimo están totalmente prohibidos para perros todo el año según la ordenanza municipal de 2020, con multas de 120 a 1500 euros. Merece la pena admirarla desde las calles interiores, pero sin el perro en la arena.`,
+          pt: `A famosa praia de areia dourada de 3 km da cidade e o seu passeio marítimo estão totalmente proibidos para cães durante todo o ano segundo o regulamento municipal de 2020, com coimas de 120 a 1500 euros. Ainda vale a pena admirá-la a partir das ruas interiores, mas sem o cão na areia.`,
+        },
+      },
+      {
+        name: `Bocabarranco`,
+        emoji: '🐾',
+        petFriendly: true,
+        desc: {
+          en: `The pioneering official dog beach of the whole Canary Islands, at the mouth of the Barranco de Jinámar on the city's southern edge. Dogs can be off-leash in the marked zone, with a car park and beachfront restaurant nearby.`,
+          fr: `La plage pour chiens officielle pionnière de tout l'archipel des Canaries, à l'embouchure du Barranco de Jinámar, en bordure sud de la ville. Les chiens peuvent être sans laisse dans la zone balisée, avec un parking et un restaurant en bord de plage à proximité.`,
+          es: `La playa para perros oficial pionera de todo el archipiélago canario, en la desembocadura del Barranco de Jinámar, en el extremo sur de la ciudad. Los perros pueden ir sueltos en la zona señalizada, con aparcamiento y un restaurante junto a la playa cerca.`,
+          pt: `A praia para cães oficial pioneira de todo o arquipélago das Canárias, na foz do Barranco de Jinámar, no extremo sul da cidade. Os cães podem andar soltos na zona sinalizada, com estacionamento e um restaurante junto à praia por perto.`,
+        },
+      },
+      {
+        name: `Plaza de Santa Ana`,
+        emoji: '🐕',
+        petFriendly: true,
+        desc: {
+          en: `Vegueta's historic main square, guarded by eight bronze dog statues installed in 1895 and named after Canarian historical figures, a nod to one of the leading theories on the origin of the name Canarias. An open pedestrian square, easy with a leashed dog.`,
+          fr: `La place historique principale de Vegueta, gardée par huit statues de chiens en bronze installées en 1895 et baptisées d'après des figures de l'histoire canarienne, un clin d'œil à l'une des principales théories sur l'origine du nom Canarias. Une place piétonne ouverte, facile avec un chien en laisse.`,
+          es: `La plaza histórica principal de Vegueta, custodiada por ocho estatuas de perros de bronce instaladas en 1895 y bautizadas con nombres de figuras históricas canarias, un guiño a una de las principales teorías sobre el origen del nombre Canarias. Una plaza peatonal abierta, fácil con un perro atado.`,
+          pt: `A praça histórica principal de Vegueta, guardada por oito estátuas de cães em bronze instaladas em 1895 e batizadas com nomes de figuras históricas canárias, uma referência a uma das principais teorias sobre a origem do nome Canárias. Uma praça pedonal aberta, fácil com um cão preso à trela.`,
+        },
+      },
+      {
+        name: `Castillo de la Luz`,
+        emoji: '🏰',
+        petFriendly: true,
+        desc: {
+          en: `A 15th-century fort in a rose garden near the port, popular with local dog walkers for its open lawns and Atlantic views. The exterior grounds are dog-friendly on leash, the interior art foundation exhibition unconfirmed for pets.`,
+          fr: `Un fort du XVe siècle dans un jardin de roses près du port, prisé des promeneurs de chiens locaux pour ses pelouses ouvertes et sa vue sur l'Atlantique. Les abords extérieurs sont ouverts aux chiens en laisse, l'accès des animaux à l'exposition intérieure de la fondation d'art n'est pas confirmé.`,
+          es: `Un fuerte del siglo XV en un jardín de rosas cerca del puerto, popular entre los paseadores de perros locales por sus céspedes abiertos y vistas al Atlántico. El entorno exterior admite perros atados, el acceso de mascotas a la exposición interior de la fundación de arte no está confirmado.`,
+          pt: `Um forte do século XV num jardim de rosas perto do porto, popular entre quem passeia cães na zona pelos relvados abertos e vistas para o Atlântico. O exterior admite cães presos à trela, o acesso de animais à exposição interior da fundação de arte não está confirmado.`,
+        },
+      },
+      {
+        name: `Vegueta`,
+        emoji: '🏘️',
+        petFriendly: true,
+        desc: {
+          en: `The 15th-century founding quarter of the city, a compact grid of cobbled pedestrian streets and colonial balconies around the cathedral. Walking it on a leash costs nothing and covers most of the city's historic architecture in under an hour.`,
+          fr: `Le quartier fondateur de la ville datant du XVe siècle, une grille compacte de rues piétonnes pavées et de balcons coloniaux autour de la cathédrale. Le parcourir en laisse ne coûte rien et couvre l'essentiel de l'architecture historique de la ville en moins d'une heure.`,
+          es: `El barrio fundacional de la ciudad del siglo XV, una cuadrícula compacta de calles peatonales empedradas y balcones coloniales alrededor de la catedral. Recorrerlo con correa no cuesta nada y cubre la mayor parte de la arquitectura histórica de la ciudad en menos de una hora.`,
+          pt: `O bairro fundador da cidade do século XV, uma malha compacta de ruas pedonais de calçada e varandas coloniais em torno da catedral. Percorrê-lo com trela não custa nada e cobre a maior parte da arquitetura histórica da cidade em menos de uma hora.`,
+        },
+      },
+      {
+        name: `Parque Santa Catalina`,
+        emoji: '🌴',
+        petFriendly: true,
+        desc: {
+          en: `A palm-lined central park surrounded by terraces and hotels, home to a fenced pipican dog area with benches, a water fountain and simple play equipment. A relaxed, central base for a morning or evening walk.`,
+          fr: `Un parc central bordé de palmiers, entouré de terrasses et d'hôtels, avec une zone canine clôturée équipée de bancs, d'une fontaine à eau et de petits équipements de jeu. Une base centrale et détendue pour une balade matinale ou en soirée.`,
+          es: `Un parque central bordeado de palmeras, rodeado de terrazas y hoteles, con una zona canina vallada equipada con bancos, fuente de agua y equipamiento sencillo de juego. Una base céntrica y relajada para un paseo matutino o vespertino.`,
+          pt: `Um parque central ladeado de palmeiras, rodeado de esplanadas e hotéis, com uma zona canina vedada equipada com bancos, fonte de água e equipamento simples de jogo. Uma base central e descontraída para um passeio matinal ou noturno.`,
+        },
+      },
+    ],
+    petTips: {
+      en: [
+        `Carry a bottle of plain water on walks, a municipal ordinance requires it to dilute your dog's urine on public pavements.`,
+        `Skip Las Canteras and El Confital entirely with your dog, both ban pets year-round; head to Bocabarranco instead for a real beach day.`,
+        `Midday pavement and sand can burn paws between July and September despite the mild climate, test the ground with your hand first.`,
+        `Only small pets in a rigid carrier under 8 kg travel on city buses (Guaguas Municipales), a medium or large dog will need a taxi or to walk.`,
+        `Save a 24h emergency vet number before you arrive, such as Clínica Can on +34 928 240 773, in operation since 1958.`,
+      ],
+      fr: [
+        `Emportez une bouteille d'eau claire en promenade, une ordonnance municipale l'exige pour diluer l'urine de votre chien sur les trottoirs publics.`,
+        `Évitez complètement Las Canteras et El Confital avec votre chien, toutes deux interdisent les animaux toute l'année ; allez plutôt à Bocabarranco pour une vraie journée plage.`,
+        `Le trottoir et le sable de midi peuvent brûler les coussinets entre juillet et septembre malgré le climat doux, testez le sol avec la main d'abord.`,
+        `Seuls les petits animaux dans une caisse rigide de moins de 8 kg voyagent dans les bus urbains (Guaguas Municipales), un chien moyen ou grand devra prendre un taxi ou marcher.`,
+        `Enregistrez un numéro de vétérinaire d'urgence 24h/24 avant d'arriver, comme la Clínica Can au +34 928 240 773, en activité depuis 1958.`,
+      ],
+      es: [
+        `Lleva una botella de agua en los paseos, una ordenanza municipal lo exige para diluir la orina de tu perro en las aceras públicas.`,
+        `Evita por completo Las Canteras y El Confital con tu perro, ambas prohíben los animales todo el año; ve mejor a Bocabarranco para un día de playa de verdad.`,
+        `El pavimento y la arena a mediodía pueden quemar las almohadillas entre julio y septiembre pese al clima suave, prueba el suelo con la mano antes.`,
+        `Solo las mascotas pequeñas en transportín rígido de menos de 8 kg viajan en los autobuses urbanos (Guaguas Municipales), un perro mediano o grande necesitará taxi o caminar.`,
+        `Guarda un número de veterinario de urgencias 24h antes de llegar, como Clínica Can al +34 928 240 773, en funcionamiento desde 1958.`,
+      ],
+      pt: [
+        `Leve uma garrafa de água nos passeios, um regulamento municipal exige-o para diluir a urina do seu cão nos passeios públicos.`,
+        `Evite por completo Las Canteras e El Confital com o seu cão, ambas proíbem animais durante todo o ano; vá antes até Bocabarranco para um verdadeiro dia de praia.`,
+        `O pavimento e a areia ao meio-dia podem queimar as almofadinhas entre julho e setembro apesar do clima ameno, teste o chão com a mão primeiro.`,
+        `Só os animais pequenos em transportadora rígida com menos de 8 kg viajam nos autocarros urbanos (Guaguas Municipales), um cão médio ou grande vai precisar de táxi ou de caminhar.`,
+        `Guarde um número de veterinário de urgências 24 horas antes de chegar, como a Clínica Can no +34 928 240 773, em funcionamento desde 1958.`,
+      ],
+    },
+    practicalInfo: {
+      en: [
+        `Spain general emergency number: 112`,
+        `24h emergency vet: Clínica Can, Calle Barcelona 10, +34 928 240 773`,
+        `Airport: Gran Canaria Airport (LPA), about 20 km south of the city centre`,
+        `EU pets: valid EU pet passport, ISO microchip and up-to-date rabies vaccination, no quarantine`,
+        `Non-EU pets: official health certificate, microchip and rabies vaccination, possibly an antibody titre test, check current Spanish rules before travel`,
+      ],
+      fr: [
+        `Numéro d'urgence général en Espagne : 112`,
+        `Vétérinaire d'urgence 24h/24 : Clínica Can, Calle Barcelona 10, +34 928 240 773`,
+        `Aéroport : aéroport de Gran Canaria (LPA), à environ 20 km au sud du centre-ville`,
+        `Animaux UE : passeport européen valide, puce ISO et vaccination antirabique à jour, aucune quarantaine`,
+        `Animaux hors UE : certificat sanitaire officiel, puce et vaccination antirabique, éventuellement un test de titrage d'anticorps, vérifiez les règles espagnoles actuelles avant de partir`,
+      ],
+      es: [
+        `Número de emergencia general en España: 112`,
+        `Veterinario de urgencias 24h: Clínica Can, Calle Barcelona 10, +34 928 240 773`,
+        `Aeropuerto: Aeropuerto de Gran Canaria (LPA), a unos 20 km al sur del centro`,
+        `Mascotas UE: pasaporte europeo válido, microchip ISO y vacunación antirrábica al día, sin cuarentena`,
+        `Mascotas fuera de la UE: certificado sanitario oficial, microchip y vacunación antirrábica, posiblemente prueba de titulación de anticuerpos, consulta las normas españolas vigentes antes de viajar`,
+      ],
+      pt: [
+        `Número de emergência geral em Espanha: 112`,
+        `Veterinário de urgências 24 horas: Clínica Can, Calle Barcelona 10, +34 928 240 773`,
+        `Aeroporto: Aeroporto de Gran Canaria (LPA), a cerca de 20 km a sul do centro`,
+        `Animais UE: passaporte europeu válido, microchip ISO e vacinação antirrábica em dia, sem quarentena`,
+        `Animais fora da UE: certificado sanitário oficial, microchip e vacinação antirrábica, possivelmente teste de titulação de anticorpos, consulte as regras espanholas em vigor antes de viajar`,
+      ],
+    },
+  },
+
   lausanne: {
     history: {
       fr: `Lausanne est la capitale olympique mondiale, le Comité International Olympique y siège depuis 1915, et le Musée Olympique sur les rives du lac Léman en est le cœur symbolique. Fondée à l'époque romaine sous le nom de Lousonna, la ville médiévale s'est développée autour de sa cathédrale gothique, l'une des plus belles de Suisse. Aujourd'hui, Lausanne est une ville suisse d'exception pour les voyageurs avec animaux : la loi helvétique protège le bien-être animal, les chiens circulent gratuitement dans le métro M1/M2 et les tramways TL, et la forêt de Sauvabelin, 200 hectares en pleine ville, offre des promenades sans laisse. Les restaurants à terrasse accueillent quasi-systématiquement les chiens, et le bord du lac d'Ouchy constitue une promenade quotidienne idéale.`,

@@ -14516,6 +14516,81 @@
     "iata": "LCA"
   },
   {
+    "slug": "las-palmas",
+    "name": "Las Palmas",
+    "country": "Spain",
+    "countryCode": "ES",
+    "flag": "🇪🇸",
+    "categoryCount": 6,
+    "heroImage": "/images/destinations/las-palmas.jpg",
+    "intro": "Las Palmas de Gran Canaria is the Canary Islands' capital, a compact, walkable city with a stable, almost seasonless subtropical climate that makes it a genuine winter-sun escape. The honest catch for dog owners is that the famous 3 km Playa de Las Canteras bans dogs year-round, but the terrace culture, roughly 17 fenced dog parks, and a real dedicated dog beach at Bocabarranco make daily life easy anyway.",
+    "lat": 28.1235,
+    "lng": -15.4363,
+    "weather": {
+      "jan": {
+        "temp": 20,
+        "desc": "Mild winter sun",
+        "icon": "🌤️"
+      },
+      "feb": {
+        "temp": 20,
+        "desc": "Mild & breezy",
+        "icon": "🌤️"
+      },
+      "mar": {
+        "temp": 21,
+        "desc": "Warm & pleasant",
+        "icon": "☀️"
+      },
+      "apr": {
+        "temp": 21,
+        "desc": "Warm & clear",
+        "icon": "☀️"
+      },
+      "may": {
+        "temp": 22,
+        "desc": "Sunny and dry",
+        "icon": "☀️"
+      },
+      "jun": {
+        "temp": 23,
+        "desc": "Warm early summer",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 25,
+        "desc": "Hot and breezy",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 26,
+        "desc": "Peak summer warmth",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 26,
+        "desc": "Warm and calm",
+        "icon": "☀️"
+      },
+      "oct": {
+        "temp": 25,
+        "desc": "Mild and pleasant",
+        "icon": "🌤️"
+      },
+      "nov": {
+        "temp": 23,
+        "desc": "Warm autumn sun",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": 21,
+        "desc": "Mild winter sun",
+        "icon": "🌤️"
+      }
+    },
+    "iata": "LPA"
+  },
+  {
     "slug": "lausanne",
     "name": "Lausanne",
     "country": "Switzerland",

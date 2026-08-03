@@ -62,7 +62,7 @@ const currencySymbol = (c: string) => (c === 'EUR' ? '€' : c)
 
 export default function HotelRankedCard({ hotel, rank, destName, catName, dict, locale, destCountry }: HotelRankedCardProps) {
   const ctaHref = destCountry
-    ? buildAllezLink(hotel.name, destName, destCountry)
+    ? buildAllezLink(hotel.name, destName, destCountry, 'hotelswithpets', 3)
     : hotel.bookingUrl
 
   return (

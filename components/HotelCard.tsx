@@ -57,7 +57,7 @@ const formatReviews = (n: number) =>
 
 export default function HotelCard({ hotel, dict, locale, destName, destCountry }: HotelCardProps) {
   const ctaHref = destName && destCountry
-    ? buildAllezLink(hotel.name, destName, destCountry)
+    ? buildAllezLink(hotel.name, destName, destCountry, 'hotelswithpets', 3)
     : hotel.bookingUrl
 
   const isFree = hotel.petFee === 0

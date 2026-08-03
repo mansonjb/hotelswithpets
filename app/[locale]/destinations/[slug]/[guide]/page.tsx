@@ -510,6 +510,14 @@ export default async function GuideDetailPage({
   // price-shock on premium destinations) rather than leading with luxury.
   const cityHotels = hotels.filter(h => h.destinationSlug === slug)
   const destHotels = valueSort(cityHotels).slice(0, 3)
+  // Premium upsell: the best-rated 5-star not already in the value picks. Shown
+  // as a separate opt-in card so high-basket travellers self-select (raises
+  // average commission) without price-shocking the value-led list above.
+  const premiumHotel = cityHotels
+    .filter(h => h.stars === 5 && !destHotels.some(d => d.id === h.id))
+    .sort((a, b) => b.rating - a.rating || b.priceFrom - a.priceFrom)[0] ?? null
+  const bookLabelUi = locale === 'fr' ? 'Réserver' : (locale === 'es' || locale === 'pt') ? 'Reservar' : 'Book'
+  const perNightUi = locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : '/night'
 
   // Internal-link money bridge: this guide page ranks well (position 3-6), the
   // city's pet-friendly hotels money page ranks much deeper. A prominent link
@@ -589,7 +597,7 @@ export default async function GuideDetailPage({
     })),
   } : null
 
-  const allezHref = buildAllezDestLink(dest.name, dest.country, `guide-${guide}`)
+  const allezHref = buildAllezDestLink(dest.name, dest.country, `guide-${guide}`, 3)
 
   // Format date locale-aware
   const formattedDate = new Date(cityGuide.lastUpdated).toLocaleDateString(
@@ -688,7 +696,7 @@ export default async function GuideDetailPage({
                 return (
                   <a
                     key={h.id}
-                    href={buildAllezLink(h.name, dest.name, dest.country, `hotelswithpets-${locale}-guidebook`)}
+                    href={buildAllezLink(h.name, dest.name, dest.country, `hotelswithpets-${locale}-guidebook`, 3)}
                     target="_blank"
                     rel="noopener noreferrer sponsored"
                     className="group flex flex-col overflow-hidden rounded-xl border border-gray-100 bg-white hover:shadow-md hover:-translate-y-0.5 transition-all"
@@ -708,6 +716,31 @@ export default async function GuideDetailPage({
                 )
               })}
             </div>
+            {premiumHotel && (
+              <a
+                href={buildAllezLink(premiumHotel.name, dest.name, dest.country, `hotelswithpets-${locale}-guidebook-premium`, 3)}
+                target="_blank"
+                rel="noopener noreferrer sponsored"
+                className="mt-4 flex items-center gap-3 rounded-xl border border-amber-200 bg-gradient-to-r from-amber-50 to-yellow-50 px-4 py-3 hover:border-amber-300 hover:shadow-sm transition-all"
+              >
+                <span className="text-xl flex-shrink-0" aria-hidden="true">✨</span>
+                <span className="flex-1 min-w-0">
+                  <span className="block text-[13px] font-bold text-gray-900 leading-snug line-clamp-1">
+                    {locale === 'fr' ? `Envie de gâter votre chien ? ${premiumHotel.name}`
+                      : locale === 'es' ? `¿Quieres consentir a tu perro? ${premiumHotel.name}`
+                      : locale === 'pt' ? `Quer mimar o seu cão? ${premiumHotel.name}`
+                      : `Fancy spoiling your dog? ${premiumHotel.name}`}
+                  </span>
+                  <span className="block text-[11px] text-gray-500">
+                    {locale === 'fr' ? `Le meilleur cinq-étoiles de ${localizedCity}, dès ${premiumHotel.priceFrom} €${perNightUi}.`
+                      : locale === 'es' ? `El mejor cinco estrellas de ${localizedCity}, desde ${premiumHotel.priceFrom} €${perNightUi}.`
+                      : locale === 'pt' ? `O melhor cinco estrelas de ${localizedCity}, desde ${premiumHotel.priceFrom} €${perNightUi}.`
+                      : `The finest five-star in ${localizedCity}, from €${premiumHotel.priceFrom}${perNightUi}.`}
+                  </span>
+                </span>
+                <span className="flex-shrink-0 bg-amber-500 hover:bg-amber-600 text-white text-xs font-bold px-3 py-1.5 rounded-lg transition-colors">{bookLabelUi} →</span>
+              </a>
+            )}
             <p className="text-[11px] text-gray-400 mt-3">
               {locale === 'fr' ? `Politiques animaux vérifiées, prix Booking.com en direct dès ${cityMinPrice} €/nuit.`
                 : locale === 'es' ? `Políticas de mascotas verificadas, precios Booking.com en directo desde ${cityMinPrice} €/noche.`

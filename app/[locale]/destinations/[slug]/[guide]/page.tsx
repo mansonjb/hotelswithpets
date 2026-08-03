@@ -5,7 +5,7 @@ import Image from 'next/image'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
-import { SITE_URL, buildAllezDestLink } from '@/lib/site'
+import { SITE_URL, buildAllezDestLink, buildAllezLink } from '@/lib/site'
 import { valueSort } from '@/lib/hotelSort'
 import { bestSnowHotelsUrl } from '@/lib/skiStations'
 import { imageUrl } from '@/lib/imageUrl'
@@ -662,31 +662,59 @@ export default async function GuideDetailPage({
           <p className="text-gray-700 text-lg leading-relaxed">{intro}</p>
         </div>
 
-        {/* ── Pet-friendly hotels money bridge (internal link to the city hotels page) ── */}
-        {cityHotels.length > 0 && (
-          <Link
-            href={hotelsHref}
-            className="flex items-center justify-between gap-3 mb-12 rounded-2xl border border-blue-200 bg-gradient-to-r from-blue-50 to-indigo-50 px-5 py-4 hover:border-blue-300 hover:shadow-sm transition-all focus-visible:ring-2 focus-visible:ring-blue-400"
-          >
-            <span className="flex items-center gap-3">
-              <span className="text-2xl flex-shrink-0">🏨</span>
-              <span>
-                <span className="block font-bold text-gray-900 text-sm">
-                  {locale === 'fr' ? `${cityHotels.length} hôtels acceptant les animaux à ${localizedCity}`
-                    : locale === 'es' ? `${cityHotels.length} hoteles que admiten mascotas en ${localizedCity}`
-                    : locale === 'pt' ? `${cityHotels.length} hotéis que aceitam animais em ${localizedCity}`
-                    : `${cityHotels.length} pet-friendly hotels in ${localizedCity}`}
-                </span>
-                <span className="block text-gray-500 text-xs mt-0.5">
-                  {locale === 'fr' ? `Politiques animaux vérifiées et prix Booking.com en direct dès ${cityMinPrice} €/nuit.`
-                    : locale === 'es' ? `Políticas de mascotas verificadas y precios Booking.com en directo desde ${cityMinPrice} €/noche.`
-                    : locale === 'pt' ? `Políticas de animais verificadas e preços Booking.com em direto desde ${cityMinPrice} €/noite.`
-                    : `Verified pet policies and live Booking.com prices from €${cityMinPrice}/night.`}
-                </span>
-              </span>
-            </span>
-            <span className="text-blue-500 flex-shrink-0 text-lg" aria-hidden="true">→</span>
-          </Link>
+        {/* ── Booking block: bookable top hotels. Most guide-page traffic is
+             informational (parks/beaches/transport), so this gives every reader a
+             direct, bookable path to a dog-friendly hotel instead of a single link. ── */}
+        {destHotels.length > 0 && (
+          <section className="mb-12 rounded-2xl border border-blue-100 bg-gradient-to-b from-blue-50/70 to-white p-5">
+            <div className="flex items-baseline justify-between gap-3 flex-wrap mb-4">
+              <h2 className="text-lg lg:text-xl font-extrabold text-gray-900">
+                {locale === 'fr' ? `Réserver un hôtel acceptant les chiens à ${localizedCity}`
+                  : locale === 'es' ? `Reserva un hotel que admite perros en ${localizedCity}`
+                  : locale === 'pt' ? `Reserve um hotel que aceita cães em ${localizedCity}`
+                  : `Book a dog-friendly hotel in ${localizedCity}`}
+              </h2>
+              <Link href={hotelsHref} className="text-sm font-semibold text-blue-600 hover:text-blue-700 whitespace-nowrap">
+                {locale === 'fr' ? `Voir les ${cityHotels.length} hôtels →`
+                  : locale === 'es' ? `Ver los ${cityHotels.length} hoteles →`
+                  : locale === 'pt' ? `Ver os ${cityHotels.length} hotéis →`
+                  : `See all ${cityHotels.length} hotels →`}
+              </Link>
+            </div>
+            <div className="grid gap-4 sm:grid-cols-3">
+              {destHotels.map(h => {
+                const perNight = locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : '/night'
+                const bookLabel = locale === 'fr' ? 'Réserver' : (locale === 'es' || locale === 'pt') ? 'Reservar' : 'Book'
+                return (
+                  <a
+                    key={h.id}
+                    href={buildAllezLink(h.name, dest.name, dest.country, `hotelswithpets-${locale}-guidebook`)}
+                    target="_blank"
+                    rel="noopener noreferrer sponsored"
+                    className="group flex flex-col overflow-hidden rounded-xl border border-gray-100 bg-white hover:shadow-md hover:-translate-y-0.5 transition-all"
+                  >
+                    <div className="relative h-28 flex-shrink-0">
+                      <Image src={`/images/hotels/${h.id}.jpg`} alt={h.name} fill sizes="(max-width: 640px) 100vw, 33vw" className="object-cover" />
+                    </div>
+                    <div className="flex flex-1 flex-col p-3">
+                      <p className="font-bold text-gray-900 text-sm leading-snug line-clamp-2 group-hover:text-blue-700 transition-colors">{h.name}</p>
+                      <p className="text-[11px] text-amber-500 mt-0.5">{'★'.repeat(h.stars)} <span className="text-gray-400">{h.rating}</span></p>
+                      <div className="mt-auto pt-2 flex items-center justify-between">
+                        <span className="text-sm font-black text-gray-900">€{h.priceFrom}<span className="text-[11px] font-normal text-gray-400">{perNight}</span></span>
+                        <span className="bg-blue-600 group-hover:bg-blue-700 text-white text-xs font-bold px-3 py-1.5 rounded-lg transition-colors">{bookLabel} →</span>
+                      </div>
+                    </div>
+                  </a>
+                )
+              })}
+            </div>
+            <p className="text-[11px] text-gray-400 mt-3">
+              {locale === 'fr' ? `Politiques animaux vérifiées, prix Booking.com en direct dès ${cityMinPrice} €/nuit.`
+                : locale === 'es' ? `Políticas de mascotas verificadas, precios Booking.com en directo desde ${cityMinPrice} €/noche.`
+                : locale === 'pt' ? `Políticas de animais verificadas, preços Booking.com em direto desde ${cityMinPrice} €/noite.`
+                : `Verified pet policies, live Booking.com prices from €${cityMinPrice}/night.`}
+            </p>
+          </section>
         )}
 
         {/* ── Ski-resort snow report cross-link (bestsnowhotels.com, sister site) ── */}

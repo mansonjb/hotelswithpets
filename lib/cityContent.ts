@@ -36037,6 +36037,113 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  portland: {
+    history: {
+      fr: `Portland est née en 1845 d'un tirage à pile ou face entre deux fondateurs, l'un de Boston et l'autre de Portland dans le Maine : le Maine l'emporta. Installée au confluent de la Willamette et de la Columbia, à 130 kilomètres de l'océan et sous le regard du mont Hood, elle a bâti sa fortune sur le bois et le commerce fluvial avant de devenir, dans les années 1970, un laboratoire d'urbanisme américain en démolissant une autoroute riveraine pour la remplacer par un parc et en traçant une limite de croissance urbaine autour de la ville. C'est cette décision, plus que toute autre, qui explique ce que les maîtres viennent chercher ici : une ville compacte et marchable, adossée à Forest Park, l'une des plus grandes forêts urbaines des États-Unis, avec plus de trente aires canines sans laisse et une culture de la terrasse couverte qui rend la pluie négociable.`,
+      en: `Portland was named in 1845 by a coin toss between two founders, one from Boston and one from Portland in Maine, and Maine won. Set where the Willamette meets the Columbia, 130 kilometres from the ocean and under the eye of Mount Hood, it made its money on timber and river trade before becoming, in the 1970s, an American planning laboratory: it tore out a riverside motorway and replaced it with a park, and drew an urban growth boundary around the city. That decision, more than any other, explains what owners come here for: a compact, walkable city backed onto Forest Park, one of the largest urban forests in the United States, with more than thirty designated dog off-leash areas and a covered-patio culture that makes the rain negotiable.`,
+      es: `Portland recibió su nombre en 1845 tras un lanzamiento de moneda entre dos fundadores, uno de Boston y otro de Portland en Maine, y ganó Maine. Situada donde el Willamette se une al Columbia, a 130 kilómetros del océano y bajo la mirada del monte Hood, hizo su fortuna con la madera y el comercio fluvial antes de convertirse, en los años setenta, en un laboratorio urbanístico estadounidense: derribó una autopista ribereña para sustituirla por un parque y trazó un límite de crecimiento urbano alrededor de la ciudad. Esa decisión, más que ninguna otra, explica lo que los dueños buscan aquí: una ciudad compacta y caminable, apoyada en Forest Park, uno de los mayores bosques urbanos de Estados Unidos, con más de treinta áreas caninas sin correa y una cultura de terraza cubierta que hace negociable la lluvia.`,
+      pt: `Portland recebeu o seu nome em 1845 depois de um lançamento de moeda entre dois fundadores, um de Boston e outro de Portland no Maine, e o Maine ganhou. Instalada onde o Willamette encontra o Columbia, a 130 quilómetros do oceano e sob o olhar do monte Hood, fez fortuna com a madeira e o comércio fluvial antes de se tornar, nos anos setenta, um laboratório de urbanismo norte-americano: demoliu uma autoestrada ribeirinha para a substituir por um parque e traçou um limite de crescimento urbano à volta da cidade. Essa decisão, mais do que qualquer outra, explica o que os donos vêm aqui procurar: uma cidade compacta e caminhável, encostada ao Forest Park, uma das maiores florestas urbanas dos Estados Unidos, com mais de trinta áreas caninas sem trela e uma cultura de esplanada coberta que torna a chuva negociável.`,
+    },
+    sights: [
+      { name: 'Forest Park et le Wildwood Trail', emoji: '🌲', petFriendly: true, desc: {
+        fr: `2 100 hectares de forêt urbaine et plus de 130 kilomètres de sentiers au bord du centre-ville, dont les 48 kilomètres du Wildwood Trail. Laisse obligatoire partout : les chiens détachés figurent parmi les activités interdites du parc.`,
+        en: `5,200 acres of urban forest and more than 80 miles of trail on the edge of downtown, including the 30-mile Wildwood Trail. Leash required throughout: off-leash dogs are listed among the park's prohibited activities.`,
+        es: `2.100 hectáreas de bosque urbano y más de 130 kilómetros de senderos al borde del centro, incluidos los 48 kilómetros del Wildwood Trail. Correa obligatoria en todo el parque: los perros sueltos figuran entre las actividades prohibidas.`,
+        pt: `2.100 hectares de floresta urbana e mais de 130 quilómetros de trilhos à beira do centro, incluindo os 48 quilómetros do Wildwood Trail. Trela obrigatória em todo o parque: os cães soltos constam das atividades proibidas.`,
+      }},
+      { name: 'The Fields Park', emoji: '🦴', petFriendly: true, desc: {
+        fr: `Aire canine entièrement clôturée d'environ 740 mètres carrés dans le Pearl District, avec des sections séparées pour grands chiens et pour petits ou craintifs. La plus utile de la ville si vous logez au centre.`,
+        en: `A fully fenced off-leash area of about 8,000 square feet in the Pearl District, with separate sections for large dogs and for small or shy ones. The most useful in the city if you are staying downtown.`,
+        es: `Área canina totalmente vallada de unos 740 metros cuadrados en el Pearl District, con secciones separadas para perros grandes y para pequeños o miedosos. La más útil de la ciudad si te alojas en el centro.`,
+        pt: `Área canina totalmente vedada de cerca de 740 metros quadrados no Pearl District, com secções separadas para cães grandes e para pequenos ou medrosos. A mais útil da cidade se ficar no centro.`,
+      }},
+      { name: 'Governor Tom McCall Waterfront Park', emoji: '🌉', petFriendly: true, desc: {
+        fr: `Le ruban vert de la rive ouest de la Willamette, né de la démolition d'une autoroute dans les années 1970. Chiens bienvenus en laisse, mais interdits dans la fontaine Salmon Street Springs.`,
+        en: `The green ribbon along the west bank of the Willamette, created by tearing out a motorway in the 1970s. Dogs welcome on a leash, but not allowed in the Salmon Street Springs fountain.`,
+        es: `La cinta verde de la orilla oeste del Willamette, nacida del derribo de una autopista en los años setenta. Perros bienvenidos con correa, pero vetados en la fuente Salmon Street Springs.`,
+        pt: `A fita verde da margem oeste do Willamette, nascida da demolição de uma autoestrada nos anos setenta. Cães bem-vindos à trela, mas vedados na fonte Salmon Street Springs.`,
+      }},
+      { name: 'Pittock Mansion (parc et point de vue)', emoji: '🏛️', petFriendly: true, desc: {
+        fr: `Demeure de 1914 dans 19 hectares de terrain, avec la vue de carte postale sur la ville et le mont Hood. Animaux admis en laisse dans le parc, interdits à l'intérieur de la maison, du Gate Lodge et du garage.`,
+        en: `A 1914 house set in 46 acres of grounds, with the postcard view over the city to Mount Hood. Pets allowed on a leash on the grounds, not permitted inside the Mansion, the Gate Lodge or the Garage.`,
+        es: `Mansión de 1914 sobre 19 hectáreas de terreno, con la vista de postal sobre la ciudad y el monte Hood. Mascotas admitidas con correa en los jardines, vetadas dentro de la casa, el Gate Lodge y el garaje.`,
+        pt: `Mansão de 1914 sobre 19 hectares de terreno, com a vista de postal sobre a cidade e o monte Hood. Animais admitidos à trela nos jardins, vedados dentro da casa, do Gate Lodge e da garagem.`,
+      }},
+      { name: 'Sandy River Delta (Thousand Acres)', emoji: '🐕', petFriendly: true, desc: {
+        fr: `Immense zone sans laisse à une demi-heure à l'est, au confluent de la Sandy et de la Columbia, où les chiens nagent. Laisse obligatoire sur le parking, à moins de 30 mètres du Confluence Trail et près du Bird Blind.`,
+        en: `A huge off-leash area half an hour east, at the confluence of the Sandy and the Columbia, where dogs swim. Leash required in the parking lot, within 100 feet of the Confluence Trail and near the Bird Blind.`,
+        es: `Enorme zona sin correa a media hora al este, en la confluencia del Sandy y el Columbia, donde los perros nadan. Correa obligatoria en el aparcamiento, a menos de 30 metros del Confluence Trail y junto al Bird Blind.`,
+        pt: `Enorme zona sem trela a meia hora para leste, na confluência do Sandy com o Columbia, onde os cães nadam. Trela obrigatória no parque de estacionamento, a menos de 30 metros do Confluence Trail e junto ao Bird Blind.`,
+      }},
+      { name: 'Portland Japanese Garden', emoji: '🍁', petFriendly: false, desc: {
+        fr: `Le jardin japonais le plus réputé hors du Japon, dans Washington Park. Seuls les chiens d'assistance formés y sont admis : prévoyez une garderie ou une visite à tour de rôle.`,
+        en: `The most acclaimed Japanese garden outside Japan, in Washington Park. Only trained service animals are admitted, so plan daycare or take turns visiting.`,
+        es: `El jardín japonés más reputado fuera de Japón, en Washington Park. Solo se admiten perros de asistencia adiestrados: prevé guardería o visitad por turnos.`,
+        pt: `O jardim japonês mais aclamado fora do Japão, no Washington Park. Só são admitidos cães de assistência treinados: preveja creche ou visitem à vez.`,
+      }},
+    ],
+    petTips: {
+      fr: [
+        `Transports publics fermés aux grands chiens : TriMet n'accepte les animaux dans les bus, le MAX et le train WES que dans une caisse fermée, sans dérogation pour un chien en laisse ni aux heures creuses.`,
+        `Laisse de 2,40 mètres au maximum dans tout lieu public, trottoirs et parkings de commerces compris, et pas seulement dans les parcs. Un chien détaché hors d'une aire désignée risque jusqu'à 150 dollars d'amende.`,
+        `Les aires sans laisse limitent à trois chiens par personne, interdisent la nourriture dans l'enclos et imposent de garder une laisse sur soi à l'intérieur.`,
+        `Baignade fluviale : vérifiez les avis de l'Oregon Health Authority sur les cyanobactéries avant de laisser un chien nager dans la Willamette en juillet, août ou septembre.`,
+        `Fin d'été, surveillez l'indice de qualité de l'air autant que la météo : les fumées d'incendies régionaux peuvent rendre l'air malsain plusieurs jours d'affilée.`,
+      ],
+      en: [
+        `Public transport is closed to large dogs: TriMet only accepts pets on buses, MAX and the WES train inside an enclosed carrier, with no exemption for a leashed dog and none off-peak.`,
+        `A leash of eight feet or shorter is required in every public place, including sidewalks and business parking lots, not just parks. A loose dog outside a designated area risks a fine of up to 150 dollars.`,
+        `Off-leash areas cap you at three dogs per person, ban food inside the enclosure and require you to carry a leash while you are in there.`,
+        `River swimming: check Oregon Health Authority cyanobacteria advisories before letting a dog swim in the Willamette in July, August or September.`,
+        `In late summer, watch the air quality index as closely as the forecast: regional wildfire smoke can make the air unhealthy for days at a time.`,
+      ],
+      es: [
+        `El transporte público está cerrado a los perros grandes: TriMet solo admite animales en autobuses, MAX y el tren WES dentro de un transportín cerrado, sin excepción para perros con correa ni en horas valle.`,
+        `Correa de 2,40 metros como máximo en todo lugar público, aceras y aparcamientos de comercios incluidos, no solo en los parques. Un perro suelto fuera de un área designada se arriesga a una multa de hasta 150 dólares.`,
+        `Las áreas sin correa limitan a tres perros por persona, prohíben la comida dentro del recinto y obligan a llevar la correa encima mientras estás dentro.`,
+        `Baño fluvial: consulta los avisos de la Oregon Health Authority sobre cianobacterias antes de dejar que un perro nade en el Willamette en julio, agosto o septiembre.`,
+        `A finales de verano, vigila el índice de calidad del aire tanto como la previsión: el humo de los incendios regionales puede volver el aire insalubre durante días seguidos.`,
+      ],
+      pt: [
+        `Os transportes públicos estão fechados aos cães grandes: a TriMet só aceita animais nos autocarros, no MAX e no comboio WES dentro de uma caixa fechada, sem exceção para cães à trela nem fora das horas de ponta.`,
+        `Trela de 2,40 metros no máximo em qualquer local público, passeios e estacionamentos de comércios incluídos, e não apenas nos parques. Um cão solto fora de uma área designada arrisca uma multa até 150 dólares.`,
+        `As áreas sem trela limitam a três cães por pessoa, proíbem comida dentro do recinto e obrigam a levar a trela consigo enquanto lá está.`,
+        `Banho no rio: consulte os avisos da Oregon Health Authority sobre cianobactérias antes de deixar um cão nadar no Willamette em julho, agosto ou setembro.`,
+        `No fim do verão, vigie o índice de qualidade do ar tanto como a previsão: o fumo dos incêndios regionais pode tornar o ar nocivo durante dias seguidos.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Entrée aux États-Unis : tout chien doit avoir au moins six mois, paraître en bonne santé, porter une puce ISO à 15 chiffres et arriver avec le récépissé du CDC Dog Import Form. La vaccination antirabique doit être postérieure à la pose de la puce.`,
+        `Races : l'Oregon n'applique aucune législation spécifique aux races à l'échelle de l'État, son cadre juridique reposant sur le comportement du chien et non sur son apparence.`,
+        `Depuis l'aéroport PDX, la ligne MAX Red rejoint le centre en 40 minutes environ, mais la règle de la caisse s'applique : un chien de taille moyenne ou grande impose un taxi ou une voiture de location.`,
+        `Urgences vétérinaires 24 h/24 : DoveLewis, 1945 NW Pettygrove Street, +1 503 228-7281, sans rendez-vous à toute heure ; VCA Northwest Veterinary Specialists, 16756 SE 82nd Drive, Clackamas, +1 503 656-3999. Le 911 est réservé aux humains.`,
+        `Monnaie : dollar américain. Les soins vétérinaires sont entièrement privés et se règlent sur place, souvent avec un acompte à l'admission : vérifiez la couverture animale de votre assurance voyage.`,
+      ],
+      en: [
+        `Entering the United States: every dog must be at least six months old, appear healthy, carry an ISO 15-digit microchip and arrive with the CDC Dog Import Form receipt. The rabies vaccination must post-date the microchip.`,
+        `Breeds: Oregon applies no breed-specific legislation at state level, its legal framework resting on an individual dog's behaviour rather than its appearance.`,
+        `From PDX airport the MAX Red Line reaches downtown in around 40 minutes, but the carrier rule applies: a medium or large dog means a taxi or a hire car.`,
+        `24-hour veterinary emergencies: DoveLewis, 1945 NW Pettygrove Street, +1 503 228-7281, walk-ins at any hour; VCA Northwest Veterinary Specialists, 16756 SE 82nd Drive, Clackamas, +1 503 656-3999. 911 is for humans only.`,
+        `Currency: US dollar. Veterinary care is entirely private and paid at the point of service, often with a deposit on admission, so check what your travel insurance covers for a pet.`,
+      ],
+      es: [
+        `Entrada en Estados Unidos: todo perro debe tener al menos seis meses, parecer sano, llevar un microchip ISO de 15 dígitos y llegar con el resguardo del CDC Dog Import Form. La vacuna antirrábica debe ser posterior al microchip.`,
+        `Razas: Oregón no aplica ninguna legislación específica por razas a nivel estatal, y su marco legal se basa en el comportamiento del perro y no en su apariencia.`,
+        `Desde el aeropuerto PDX, la línea MAX Red llega al centro en unos 40 minutos, pero rige la norma del transportín: un perro mediano o grande obliga a taxi o coche de alquiler.`,
+        `Urgencias veterinarias 24 horas: DoveLewis, 1945 NW Pettygrove Street, +1 503 228-7281, sin cita a cualquier hora; VCA Northwest Veterinary Specialists, 16756 SE 82nd Drive, Clackamas, +1 503 656-3999. El 911 es solo para humanos.`,
+        `Moneda: dólar estadounidense. La atención veterinaria es totalmente privada y se paga en el momento, a menudo con un depósito al ingresar: comprueba la cobertura para mascotas de tu seguro de viaje.`,
+      ],
+      pt: [
+        `Entrada nos Estados Unidos: todo o cão tem de ter pelo menos seis meses, parecer saudável, ter um microchip ISO de 15 dígitos e chegar com o comprovativo do CDC Dog Import Form. A vacina antirrábica tem de ser posterior ao microchip.`,
+        `Raças: o Oregon não aplica qualquer legislação específica por raças a nível estadual, assentando o seu quadro legal no comportamento do cão e não na sua aparência.`,
+        `A partir do aeroporto PDX, a linha MAX Red chega ao centro em cerca de 40 minutos, mas vigora a regra da caixa: um cão médio ou grande obriga a táxi ou carro alugado.`,
+        `Urgências veterinárias 24 horas: DoveLewis, 1945 NW Pettygrove Street, +1 503 228-7281, sem marcação a qualquer hora; VCA Northwest Veterinary Specialists, 16756 SE 82nd Drive, Clackamas, +1 503 656-3999. O 911 é apenas para humanos.`,
+        `Moeda: dólar norte-americano. Os cuidados veterinários são totalmente privados e pagam-se no momento, muitas vezes com um depósito na admissão: confirme a cobertura para animais do seu seguro de viagem.`,
+      ],
+    },
+  },
+
   porto: {
     history: {
       en: 'Porto, Portugal\'s second city and the origin of port wine, sits on the dramatic granite gorge of the Douro river. With around 240,000 inhabitants, it has the warmth of a neighbourhood city and a dog culture that mirrors Lisbon\'s openness. Portuenses (Porto residents) are matter-of-fact about dogs in public spaces: café terraces, riverside promenades and tram cars all see dogs as a normal part of daily life. The Atlantic coast is minutes away, and the Douro Valley wine country, an extraordinary day trip, is one of the most scenic walking environments in Europe.',

@@ -1426,6 +1426,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'the Field of Miracles lawn, San Rossore pine forest, and the Marina di Pisa dog beach',
       area: 'Sant\'Antonio, the Lungarni, and Borgo Stretto',
     },
+    portland: {
+      personality: 'one of the most genuinely dog-shaped cities in North America, where covered brewpub patios, more than thirty off-leash areas and a 5,200-acre urban forest matter more than the weather',
+      highlight: 'Forest Park and the Wildwood Trail, The Fields off-leash area in the Pearl District, and the riverbank at Sellwood Riverfront Park',
+      area: 'the Pearl District, north-west Portland and Slabtown, and Alberta Arts',
+    },
     porto: {
       personality: 'a hilly, atmospheric city where dogs are part of the daily rhythm. On trams, in wine-bar gardens, and along the Douro river esplanade',
       highlight: 'the Jardins do Palácio de Cristal, the Douro riverside (Ribeira), and the Serralves park',
@@ -3509,6 +3514,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'la pelouse du Champ des Miracles, la pinède de San Rossore et la plage canine de Marina di Pisa',
       area: 'Sant\'Antonio, les Lungarni et le Borgo Stretto',
     },
+    portland: {
+      personality: `l'une des villes les plus réellement pensées pour les chiens d'Amérique du Nord, où les terrasses couvertes des brasseries, plus de trente aires sans laisse et une forêt urbaine de 2 100 hectares comptent davantage que la météo`,
+      highlight: `Forest Park et le Wildwood Trail, l'aire sans laisse de The Fields dans le Pearl District, et la berge de Sellwood Riverfront Park`,
+      area: 'le Pearl District, le nord-ouest de Portland et Slabtown, et Alberta Arts',
+    },
     porto: {
       personality: 'une ville vallonnée et atmosphérique où les chiens font partie du rythme quotidien. Dans les tramways, dans les jardins des bars à vins et le long de l\'esplanade du fleuve Douro',
       highlight: 'les Jardins du Palácio de Cristal, les berges du Douro (Ribeira) et le parc de Serralves',
@@ -5591,6 +5601,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: 'el césped del Campo de los Milagros, el pinar de San Rossore y la playa canina de Marina di Pisa',
       area: 'Sant\'Antonio, los Lungarni y Borgo Stretto',
     },
+    portland: {
+      personality: 'una de las ciudades más realmente pensadas para perros de Norteamérica, donde las terrazas cubiertas de las cervecerías, más de treinta áreas sin correa y un bosque urbano de 2.100 hectáreas pesan más que el tiempo',
+      highlight: 'Forest Park y el Wildwood Trail, el área sin correa de The Fields en el Pearl District, y la orilla de Sellwood Riverfront Park',
+      area: 'el Pearl District, el noroeste de Portland y Slabtown, y Alberta Arts',
+    },
     porto: {
       personality: 'una ciudad montañosa y atmosférica donde los perros forman parte del ritmo diario. En tranvías, en jardines de bares de vino y a lo largo del paseo fluvial del Duero',
       highlight: 'los Jardines del Palácio de Cristal, la orilla del Duero (Ribeira) y el parque de Serralves',
@@ -7672,6 +7687,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: 'uma cidade UNESCO toscana compacta unida a as 23.000 hectáreas do parque de San Rossore e a uma praia canina abierta o ano inteiro en Marina di Pisa, todo a veinte minutos do centro',
       highlight: 'o relva do Campo dos Milagros, o pinar de San Rossore e a praia canina de Marina di Pisa',
       area: 'Sant\'Antonio, os Lungarni e Borgo Stretto',
+    },
+    portland: {
+      personality: 'uma das cidades mais verdadeiramente pensadas para cães da América do Norte, onde as esplanadas cobertas das cervejeiras, mais de trinta áreas sem trela e uma floresta urbana de 2.100 hectares contam mais do que o tempo',
+      highlight: 'o Forest Park e o Wildwood Trail, a área sem trela do The Fields no Pearl District, e a margem do Sellwood Riverfront Park',
+      area: 'o Pearl District, o noroeste de Portland e Slabtown, e Alberta Arts',
     },
     porto: {
       personality: 'uma cidade montanhosa e atmosférica onde os cães forman parte do ritmo diario. En elétricos, en jardins de bares de vino e a lo largo do passeio fluvial do Duero',

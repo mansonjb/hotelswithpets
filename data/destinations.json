@@ -21068,6 +21068,81 @@
     "iata": "FAO"
   },
   {
+    "slug": "portland",
+    "name": "Portland",
+    "country": "United States",
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/portland.jpg",
+    "intro": "Portland has one of the strongest everyday dog cultures in North America and one of the weakest public transport policies for it, and the trip works or fails on that contradiction. Portland Parks and Recreation runs more than thirty designated off-leash areas, Forest Park puts 5,200 acres of urban forest and 80 miles of trail at the edge of downtown, the brewpub patios are covered and heated so they stay usable through the rain, and Oregon has no breed-specific legislation at state level. But TriMet accepts pets on the bus, the MAX and the WES train only inside an enclosed carrier, with no off-leash or off-peak exemption, so any dog you cannot carry means walking, a taxi or a hire car. Base yourself in the Pearl District or north-west Portland and the problem largely disappears: The Fields off-leash area, the Forest Park trailheads, the Slabtown patios and the 24-hour DoveLewis emergency hospital are all within walking distance. Dogs swim in the Willamette at Sellwood Riverfront and Cathedral Park, and the Sandy River Delta east of the city gives 1,400 acres of off-leash river meadow. Late May to June and September to early October are the sweet spots, between the winter rain and the July heat and wildfire smoke.",
+    "lat": 45.5152,
+    "lng": -122.6784,
+    "weather": {
+      "jan": {
+        "temp": 6,
+        "desc": "Cold, grey & wet",
+        "icon": "🌧️"
+      },
+      "feb": {
+        "temp": 7,
+        "desc": "Wet & mild",
+        "icon": "🌧️"
+      },
+      "mar": {
+        "temp": 9,
+        "desc": "Showery & greening",
+        "icon": "🌦️"
+      },
+      "apr": {
+        "temp": 12,
+        "desc": "Mild with showers",
+        "icon": "🌦️"
+      },
+      "may": {
+        "temp": 15,
+        "desc": "Mild & drying out",
+        "icon": "🌤️"
+      },
+      "jun": {
+        "temp": 18,
+        "desc": "Warm & mostly dry",
+        "icon": "🌤️"
+      },
+      "jul": {
+        "temp": 21,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 21,
+        "desc": "Hot, dry & sometimes smoky",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 19,
+        "desc": "Warm & golden",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 13,
+        "desc": "Cool & rainy",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 8,
+        "desc": "Wet & grey",
+        "icon": "🌧️"
+      },
+      "dec": {
+        "temp": 5,
+        "desc": "Cold & wettest",
+        "icon": "🌧️"
+      }
+    },
+    "iata": "PDX"
+  },
+  {
     "slug": "porto",
     "name": "Porto",
     "country": "Portugal",

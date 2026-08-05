@@ -5,7 +5,7 @@ import Image from 'next/image'
 import { getDictionary, hasLocale, locales, type Locale } from '@/app/[locale]/dictionaries'
 import destinations from '@/data/destinations.json'
 import hotels from '@/data/hotels.json'
-import { SITE_URL, buildAllezDestLink, buildAllezLink } from '@/lib/site'
+import { SITE_URL, buildAllezDestLink, buildAllezLink, buildStay22MapSrc } from '@/lib/site'
 import { valueSort } from '@/lib/hotelSort'
 import { bestSnowHotelsUrl } from '@/lib/skiStations'
 import { imageUrl } from '@/lib/imageUrl'
@@ -747,6 +747,35 @@ export default async function GuideDetailPage({
                 : locale === 'pt' ? `Políticas de animais verificadas, preços Booking.com em direto desde ${cityMinPrice} €/noite.`
                 : `Verified pet policies, live Booking.com prices from €${cityMinPrice}/night.`}
             </p>
+          </section>
+        )}
+
+        {/* ── Live hotel map: the proven booking surface, now on guide pages so the
+             87% of traffic that lands here (parks/beaches/transport) can browse and
+             book without leaving. Lazy-loaded so it never blocks first paint. ── */}
+        {dest.lat && dest.lng && (
+          <section className="mb-12">
+            <h2 className="text-lg lg:text-xl font-extrabold text-gray-900 mb-1">
+              {locale === 'fr' ? `Tous les hôtels acceptant les chiens à ${localizedCity}, sur la carte`
+                : locale === 'es' ? `Todos los hoteles que admiten perros en ${localizedCity}, en el mapa`
+                : locale === 'pt' ? `Todos os hotéis que aceitam cães em ${localizedCity}, no mapa`
+                : `Every dog-friendly hotel in ${localizedCity}, on the map`}
+            </h2>
+            <p className="text-gray-500 text-sm mb-4">
+              {locale === 'fr' ? 'Prix Booking.com en direct, cliquez un point pour voir les tarifs et réserver.'
+                : locale === 'es' ? 'Precios Booking.com en directo, haz clic en un punto para ver tarifas y reservar.'
+                : locale === 'pt' ? 'Preços Booking.com em direto, clique num ponto para ver tarifas e reservar.'
+                : 'Live Booking.com prices, click any pin to see rates and book.'}
+            </p>
+            <div className="overflow-hidden rounded-2xl border border-gray-100 shadow-sm">
+              <iframe
+                src={buildStay22MapSrc(dest.lat, dest.lng, `hotelswithpets-${locale}-guidemap`)}
+                loading="lazy"
+                title={locale === 'fr' ? `Carte des hôtels acceptant les chiens à ${localizedCity}` : `Dog-friendly hotels map for ${localizedCity}`}
+                className="w-full"
+                style={{ height: '460px', border: 0 }}
+              />
+            </div>
           </section>
         )}
 

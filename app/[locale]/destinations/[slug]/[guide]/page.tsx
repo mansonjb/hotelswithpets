@@ -509,7 +509,22 @@ export default async function GuideDetailPage({
   // Nearby hotels — value-aware order so an affordable option leads (avoids
   // price-shock on premium destinations) rather than leading with luxury.
   const cityHotels = hotels.filter(h => h.destinationSlug === slug)
-  const destHotels = valueSort(cityHotels).slice(0, 3)
+  const topicalCat: Partial<Record<GuideSlug, string>> = { parks: 'near-parks', beaches: 'beach-access' }
+  const catForGuide = topicalCat[guide as GuideSlug]
+  // On a topical guide (beaches/parks), lead with hotels matching that theme so a
+  // beach-guide reader sees seaside hotels, not generic picks. The single money-
+  // page category (catForGuide) is too narrow for the hotel filter (many beach
+  // towns have 0 'beach-access' tags), so match a broader themed set. Fall back
+  // to the value-sorted city list when matched inventory is thin.
+  const CONTEXT_CATS: Partial<Record<GuideSlug, string[]>> = {
+    beaches: ['beach-access', 'beachfront', 'beachfront-pet-friendly', 'near-beach', 'seaside', 'seafront', 'sea-view', 'waterfront', 'beach', 'beachy'],
+    parks: ['near-parks', 'park-view', 'garden'],
+  }
+  const contextCats = CONTEXT_CATS[guide as GuideSlug]
+  const matchedHotels = contextCats
+    ? valueSort(cityHotels.filter(h => Array.isArray(h.categories) && h.categories.some(c => contextCats.includes(c))))
+    : []
+  const destHotels = (matchedHotels.length >= 3 ? matchedHotels : valueSort(cityHotels)).slice(0, 3)
   // Premium upsell: the best-rated 5-star not already in the value picks. Shown
   // as a separate opt-in card so high-basket travellers self-select (raises
   // average commission) without price-shocking the value-led list above.
@@ -526,8 +541,6 @@ export default async function GuideDetailPage({
   // when that combo has inventory, otherwise the city hub.
   const localizedCity = getLocalizedCityName(dest.slug, dest.name, locale)
   const cityMinPrice = cityHotels.length ? Math.min(...cityHotels.map(h => h.priceFrom)) : 0
-  const topicalCat: Partial<Record<GuideSlug, string>> = { parks: 'near-parks', beaches: 'beach-access' }
-  const catForGuide = topicalCat[guide as GuideSlug]
   const hotelsHref = catForGuide && cityHotels.some(h => h.categories.includes(catForGuide))
     ? `/${locale}/${slug}/${catForGuide}`
     : `/${locale}/destinations/${slug}`

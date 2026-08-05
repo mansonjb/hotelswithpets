@@ -38,6 +38,8 @@ ls data/city-guides/ | grep -v _evidence | sort | head -20   # what exists
 
 ### Step 2 — Pick cities
 
+**EUROPE ONLY (owner decision, 2026-08-05).** The non-European clusters are closed: no more US, Canadian, Asian, Australian or New Zealand cities. Every new destination from now on is European (city, resort or coastal area). Coastal holiday destinations beat premium lake/business cities for revenue (see the 2026-06-18 lesson).
+
 **PRIORITY QUEUE (work through this list FIRST, in order, before free choice).** These cities are linked from live editorial guides in `app/[locale]/guides/` and their destination links currently return 404 (Search Console has started flagging them). Check each against `data/destinations.json` and take the first 2 still missing:
 
 chamonix, zell-am-see, trento, kitzbuehel, vichy, spa, bad-gastein, heviz, aix-les-bains, saturnia, bad-ischl, kolobrzeg, swinoujscie, usedom, warnemunde, palanga, viana-do-castelo, ponte-de-lima, sesimbra, serra-da-estrela, sifnos, sibiu, orvieto, provins, orange, spoleto

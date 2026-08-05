@@ -8658,6 +8658,81 @@
     "iata": "ALC"
   },
   {
+    "slug": "denver",
+    "name": "Denver",
+    "country": "United States",
+    "countryCode": "US",
+    "flag": "🇺🇸",
+    "categoryCount": 8,
+    "heroImage": "/images/destinations/denver.jpg",
+    "intro": "Denver is a mile above the sea and built for a dog that likes to walk. Seventeen fenced city dog parks, hundreds of kilometres of creek-side trail, an enormous patio and beer-garden culture and roughly 300 days of sun a year make the everyday rhythm easy, and the Cherry Creek and South Platte greenways link Union Station, LoDo, RiNo, Washington Park and Cherry Creek on foot without touching traffic. Two limits shape the trip. RTD, which runs every bus, light rail line and the airport train, allows only small pets inside a locked carrier, with no off-peak window and no leashed-dog allowance, so a dog you cannot lift travels by car or on its own four legs. And off-leash is legal only inside the fenced dog parks: Washington Park, City Park and Cheesman are lead-only, and dogs may not enter the city park lakes. For real open running and a swim, drive half an hour south to the 69 fenced acres and two ponds of the Chatfield State Park off-leash area. Red Rocks takes leashed dogs on its trails outside show hours, the indoor icons do not take them at all, and the sweet spots in the calendar are late April to mid June and September to mid October, either side of the July heat and the salted winter pavements.",
+    "lat": 39.7392,
+    "lng": -104.9903,
+    "weather": {
+      "jan": {
+        "temp": -1,
+        "desc": "Cold, dry & bright",
+        "icon": "❄️"
+      },
+      "feb": {
+        "temp": 1,
+        "desc": "Cold with snow spells",
+        "icon": "❄️"
+      },
+      "mar": {
+        "temp": 4,
+        "desc": "Snowiest month, sunny between",
+        "icon": "🌨️"
+      },
+      "apr": {
+        "temp": 9,
+        "desc": "Mild & changeable",
+        "icon": "🌤️"
+      },
+      "may": {
+        "temp": 14,
+        "desc": "Warm with afternoon storms",
+        "icon": "⛈️"
+      },
+      "jun": {
+        "temp": 20,
+        "desc": "Hot, dry & very sunny",
+        "icon": "☀️"
+      },
+      "jul": {
+        "temp": 23,
+        "desc": "Hottest, storms late in the day",
+        "icon": "☀️"
+      },
+      "aug": {
+        "temp": 22,
+        "desc": "Hot & dry",
+        "icon": "☀️"
+      },
+      "sep": {
+        "temp": 17,
+        "desc": "Warm days, cool nights",
+        "icon": "🌤️"
+      },
+      "oct": {
+        "temp": 10,
+        "desc": "Crisp & golden",
+        "icon": "🍂"
+      },
+      "nov": {
+        "temp": 3,
+        "desc": "Cold & sunny",
+        "icon": "🌤️"
+      },
+      "dec": {
+        "temp": -1,
+        "desc": "Cold, dry & clear",
+        "icon": "❄️"
+      }
+    },
+    "iata": "DEN"
+  },
+  {
     "slug": "dresden",
     "name": "Dresden",
     "country": "Germany",

@@ -14880,6 +14880,143 @@ const cityContent: Record<string, CityContent> = {
     },
   },
 
+  denver: {
+    history: {
+      fr: `Denver est née en 1858 d'un campement de chercheurs d'or planté au confluent de Cherry Creek et de la South Platte, là où se trouve aujourd'hui Confluence Park. Le filon s'est vite épuisé, mais la ville s'est imposée comme place de commerce et carrefour ferroviaire du Front Range, adossée à la muraille des Rocheuses. Elle porte le surnom de Mile High City parce qu'une marche du Capitole de l'État se situe exactement à un mille au-dessus du niveau de la mer, soit 1 609 mètres. Le XXᵉ siècle lui a légué Union Station, les quartiers de brique de LoDo et un réseau de grands parcs urbains hérité du plan City Beautiful, complété plus tard par les Denver Mountain Parks, dont Red Rocks. Aujourd'hui, la ville additionne les brasseries, les fresques de RiNo et un accès direct à la montagne, avec une culture canine visible partout, à condition d'accepter une laisse courte et des transports publics fermés aux chiens.`,
+      en: `Denver began in 1858 as a gold camp pitched where Cherry Creek meets the South Platte, the spot that is now Confluence Park. The strike faded quickly, but the settlement held on as the trading and railway hub of the Front Range, propped against the wall of the Rockies. It is called the Mile High City because one step of the State Capitol sits exactly a mile above sea level, 1,609 metres. The twentieth century left it Union Station, the brick warehouse blocks of LoDo and a network of large city parks inherited from the City Beautiful plan, later extended by the Denver Mountain Parks that include Red Rocks. Today the city stacks up breweries, the RiNo murals and direct access to the mountains, with a dog culture visible on every patio, provided you accept a short lead and a transit system closed to pets.`,
+      es: `Denver nació en 1858 como campamento de buscadores de oro plantado donde Cherry Creek se une al South Platte, el punto que hoy es Confluence Park. El filón se agotó pronto, pero el asentamiento se mantuvo como centro comercial y nudo ferroviario del Front Range, apoyado contra la muralla de las Rocosas. La llaman la Mile High City porque un escalón del Capitolio del estado está exactamente a una milla sobre el nivel del mar, 1.609 metros. El siglo XX le dejó Union Station, las manzanas de almacenes de ladrillo de LoDo y una red de grandes parques urbanos heredada del plan City Beautiful, ampliada después con los Denver Mountain Parks, entre ellos Red Rocks. Hoy la ciudad suma cervecerías, los murales de RiNo y acceso directo a la montaña, con una cultura canina visible en cada terraza, siempre que aceptes correa corta y un transporte público cerrado a los perros.`,
+      pt: `Denver nasceu em 1858 como acampamento de garimpeiros instalado onde o Cherry Creek encontra o South Platte, o ponto que hoje é o Confluence Park. O filão esgotou-se depressa, mas o povoado aguentou-se como centro comercial e nó ferroviário do Front Range, encostado à muralha das Montanhas Rochosas. Chamam-lhe a Mile High City porque um degrau do Capitólio do estado está exatamente a uma milha acima do nível do mar, 1609 metros. O século XX deixou-lhe a Union Station, os quarteirões de armazéns de tijolo de LoDo e uma rede de grandes parques urbanos herdada do plano City Beautiful, mais tarde alargada com os Denver Mountain Parks, entre eles Red Rocks. Hoje a cidade junta cervejeiras, os murais de RiNo e acesso direto à montanha, com uma cultura canina visível em cada esplanada, desde que aceite trela curta e transportes públicos fechados aos cães.`,
+    },
+    sights: [
+      {
+        name: `Washington Park`,
+        emoji: `🌳`,
+        petFriendly: true,
+        desc: {
+          fr: `Soixante-sept hectares de pelouses, de grands arbres et de jardins fleuris, avec une boucle de 4 km qui est la promenade par défaut de la ville. Chiens bienvenus en laisse de 1,80 m maximum, mais interdits dans les lacs Smith et Grasmere ainsi que sur les aires de jeux et terrains de sport.`,
+          en: `Sixty-seven hectares of lawn, mature trees and flower gardens, with a 4 km loop that is the city's default walk. Dogs are welcome on a lead of no more than 1.8 m, but may not enter Smith Lake or Grasmere Lake, nor the playgrounds and sports fields.`,
+          es: `Sesenta y siete hectáreas de césped, arbolado maduro y jardines de flores, con un circuito de 4 km que es el paseo por defecto de la ciudad. Perros bienvenidos con correa de 1,80 m como máximo, pero prohibidos en los lagos Smith y Grasmere y en las zonas de juegos y campos deportivos.`,
+          pt: `Sessenta e sete hectares de relvado, arvoredo antigo e jardins floridos, com um circuito de 4 km que é o passeio por omissão da cidade. Cães bem-vindos com trela de 1,80 m no máximo, mas proibidos nos lagos Smith e Grasmere e nos parques infantis e campos desportivos.`,
+        },
+      },
+      {
+        name: `Red Rocks Park`,
+        emoji: `🎸`,
+        petFriendly: true,
+        desc: {
+          fr: `Le parc de grès rouge des Denver Mountain Parks, à 25 km à l'ouest, célèbre pour son amphithéâtre naturel. Les chiens en laisse sont admis sur les sentiers du parc hors heures de spectacle, mais jamais dans l'amphithéâtre, au centre des visiteurs ni lors d'un concert payant.`,
+          en: `The red sandstone park of the Denver Mountain Parks, 25 km west, famous for its natural amphitheatre. Leashed dogs are allowed on the park trails outside event hours, but never inside the amphitheatre, the visitor centre or at a ticketed show.`,
+          es: `El parque de arenisca roja de los Denver Mountain Parks, a 25 km al oeste, famoso por su anfiteatro natural. Se admiten perros con correa en los senderos del parque fuera del horario de conciertos, pero nunca en el anfiteatro, el centro de visitantes o un espectáculo con entrada.`,
+          pt: `O parque de arenito vermelho dos Denver Mountain Parks, a 25 km a oeste, famoso pelo seu anfiteatro natural. Admitem-se cães à trela nos trilhos do parque fora do horário dos espetáculos, mas nunca no anfiteatro, no centro de visitantes ou num espetáculo com bilhete.`,
+        },
+      },
+      {
+        name: `Confluence Park`,
+        emoji: `🌊`,
+        petFriendly: true,
+        desc: {
+          fr: `Le confluent de Cherry Creek et de la South Platte, berceau de la ville en 1858 et croisement des deux grandes voies vertes urbaines. Des gradins de pierre descendent vers l'eau, les kayakistes passent la chute, et le chien s'y promène en laisse à dix minutes d'Union Station.`,
+          en: `The meeting of Cherry Creek and the South Platte, the city's 1858 birthplace and the crossing point of its two big greenways. Stone steps drop to the water, kayakers run the chute, and a dog walks it on the lead ten minutes from Union Station.`,
+          es: `La confluencia de Cherry Creek y el South Platte, cuna de la ciudad en 1858 y cruce de sus dos grandes vías verdes. Unas gradas de piedra bajan al agua, los kayakistas cruzan el rápido y el perro pasea con correa a diez minutos de Union Station.`,
+          pt: `A confluência do Cherry Creek com o South Platte, berço da cidade em 1858 e cruzamento dos seus dois grandes percursos verdes. Degraus de pedra descem até à água, os praticantes de caiaque passam o rápido e o cão passeia à trela a dez minutos da Union Station.`,
+        },
+      },
+      {
+        name: `Cherry Creek Trail`,
+        emoji: `🚶`,
+        petFriendly: true,
+        desc: {
+          fr: `La voie verte qui suit le lit de Cherry Creek depuis Confluence Park jusqu'à Cherry Creek North et au-delà, en contrebas des rues sur une bonne partie du trajet. C'est le meilleur itinéraire à pied de la ville avec un chien, sans circulation et jalonné de poubelles.`,
+          en: `The greenway that follows the bed of Cherry Creek from Confluence Park out to Cherry Creek North and beyond, running below street level for much of the way. It is the best walking route in the city with a dog, traffic-free and lined with waste bins.`,
+          es: `La vía verde que sigue el cauce de Cherry Creek desde Confluence Park hasta Cherry Creek North y más allá, por debajo del nivel de la calle en buena parte del recorrido. Es la mejor ruta a pie de la ciudad con perro, sin tráfico y jalonada de papeleras.`,
+          pt: `O percurso verde que segue o leito do Cherry Creek desde o Confluence Park até Cherry Creek North e mais além, abaixo do nível da rua em boa parte do trajeto. É o melhor itinerário a pé da cidade com cão, sem trânsito e pontuado de caixotes.`,
+        },
+      },
+      {
+        name: `Union Station`,
+        emoji: `🚂`,
+        petFriendly: true,
+        desc: {
+          fr: `La gare Beaux-Arts de 1914, rénovée en 2014, cœur du quartier LoDo avec ses terrasses, sa place et ses hôtels. Les chiens en laisse circulent sans problème sur la place extérieure et le long de Wynkoop Street, mais les commerces et le hall restent à l'appréciation de chacun.`,
+          en: `The 1914 Beaux-Arts station, restored in 2014, the heart of LoDo with its patios, plaza and hotels. Leashed dogs move easily around the outdoor plaza and along Wynkoop Street, though the shops and the great hall are each at the operator's discretion.`,
+          es: `La estación Beaux-Arts de 1914, restaurada en 2014, corazón de LoDo con sus terrazas, su plaza y sus hoteles. Los perros con correa se mueven sin problema por la plaza exterior y por Wynkoop Street, aunque las tiendas y el vestíbulo quedan a criterio de cada negocio.`,
+          pt: `A estação Beaux-Arts de 1914, restaurada em 2014, coração de LoDo com as suas esplanadas, praça e hotéis. Os cães à trela circulam sem problema pela praça exterior e ao longo da Wynkoop Street, embora as lojas e o átrio fiquem ao critério de cada negócio.`,
+        },
+      },
+      {
+        name: `Chatfield State Park`,
+        emoji: `🐕`,
+        petFriendly: true,
+        desc: {
+          fr: `Le parc d'État de Littleton, à une demi-heure au sud, dont la zone sans laisse offre 28 hectares clôturés, deux étangs où les chiens nagent et des kilomètres de sentiers. Il faut le pass véhicule du parc plus un pass spécifique pour la zone canine, 3 dollars la journée ou 25 dollars l'année.`,
+          en: `The state park at Littleton, half an hour south, whose off-leash area gives 28 fenced hectares, two ponds dogs may swim in and miles of trail. You need the park vehicle pass plus a separate dog off-leash area pass, 3 dollars for the day or 25 dollars for the year.`,
+          es: `El parque estatal de Littleton, a media hora al sur, cuya zona sin correa ofrece 28 hectáreas valladas, dos estanques donde los perros nadan y kilómetros de senderos. Hacen falta el pase de vehículo del parque y un pase específico de la zona canina, 3 dólares el día o 25 dólares el año.`,
+          pt: `O parque estadual de Littleton, a meia hora para sul, cuja zona sem trela oferece 28 hectares vedados, dois lagos onde os cães nadam e quilómetros de trilhos. São precisos o passe de veículo do parque e um passe específico da zona canina, 3 dólares por dia ou 25 dólares por ano.`,
+        },
+      },
+    ],
+    petTips: {
+      fr: [
+        `La laisse est limitée à 1,80 m dans tout espace public de Denver et la liberté n'est légale qu'à l'intérieur des dix-sept parcs canins clôturés de la ville. Le code municipal prévoit des amendes pouvant atteindre 999 dollars.`,
+        `RTD, l'opérateur des bus, du tramway léger et du train A Line vers l'aéroport, n'accepte que les petits animaux en caisse de transport verrouillée. Aucun chien en laisse, quelle que soit sa taille, et aucune plage horaire de tolérance.`,
+        `Les chiens n'ont pas le droit d'entrer dans les lacs des parcs municipaux, Smith et Grasmere compris, notamment à cause des cyanobactéries de fin d'été. La baignade légale la plus proche se trouve dans les étangs de la zone sans laisse de Chatfield.`,
+        `Le cannabis est légal au Colorado et les produits comestibles jetés au sol provoquent régulièrement des intoxications canines. Un chien qui titube, bave abondamment ou paraît désorienté doit être conduit immédiatement aux urgences vétérinaires.`,
+        `Testez le bitume du dos de la main avant une sortie de juillet et rincez les pattes après une marche hivernale : la ville sale et déverglace beaucoup, et ce mélange fissure les coussinets et se révèle toxique s'il est léché.`,
+      ],
+      en: [
+        `The lead limit is six feet (1.8 m) in every public place in Denver and off-leash is legal only inside the seventeen fenced city dog parks. The municipal code allows fines of up to 999 dollars.`,
+        `RTD, which runs the buses, the light rail and the A Line airport train, accepts only small pets inside a locked carrier. No leashed dog of any size, and no off-peak exemption.`,
+        `Dogs may not enter the lakes in city parks, Smith and Grasmere included, partly because of late-summer blue-green algae. The nearest legal swim is in the ponds of the Chatfield off-leash area.`,
+        `Cannabis is legal in Colorado and discarded edibles cause a steady stream of canine poisonings. A dog that becomes wobbly, dribbles heavily or seems disoriented should go straight to an emergency vet.`,
+        `Test the asphalt with the back of your hand before a July walk, and rinse the paws after a winter one: the city salts and de-ices heavily, and that mix cracks pads and is toxic if licked off.`,
+      ],
+      es: [
+        `La correa está limitada a 1,80 m en cualquier espacio público de Denver y la libertad solo es legal dentro de los diecisiete parques caninos vallados de la ciudad. El código municipal contempla multas de hasta 999 dólares.`,
+        `RTD, que opera los autobuses, el tren ligero y el A Line al aeropuerto, solo admite mascotas pequeñas en transportín cerrado. Ningún perro con correa, sea cual sea su tamaño, y ninguna franja horaria de tolerancia.`,
+        `Los perros no pueden entrar en los lagos de los parques municipales, Smith y Grasmere incluidos, en parte por las cianobacterias de finales de verano. El baño legal más cercano está en los estanques de la zona sin correa de Chatfield.`,
+        `El cannabis es legal en Colorado y los comestibles tirados al suelo provocan intoxicaciones caninas constantes. Un perro que se tambalea, babea mucho o parece desorientado debe ir de inmediato a urgencias veterinarias.`,
+        `Prueba el asfalto con el dorso de la mano antes de salir en julio y enjuaga las patas tras un paseo invernal: la ciudad echa mucha sal y fundentes, y esa mezcla agrieta las almohadillas y es tóxica si se lame.`,
+      ],
+      pt: [
+        `A trela está limitada a 1,80 m em qualquer espaço público de Denver e a liberdade só é legal dentro dos dezassete parques caninos vedados da cidade. O código municipal prevê multas até 999 dólares.`,
+        `A RTD, que opera os autocarros, o metro ligeiro e o A Line para o aeroporto, só aceita animais pequenos em caixa fechada. Nenhum cão à trela, seja qual for o tamanho, e nenhuma janela horária de tolerância.`,
+        `Os cães não podem entrar nos lagos dos parques municipais, incluindo o Smith e o Grasmere, em parte por causa das cianobactérias do fim do verão. O banho legal mais próximo é nos lagos da zona sem trela de Chatfield.`,
+        `A canábis é legal no Colorado e os comestíveis atirados ao chão provocam intoxicações caninas com regularidade. Um cão que cambaleie, se babe muito ou pareça desorientado deve ir de imediato à urgência veterinária.`,
+        `Teste o alcatrão com as costas da mão antes de um passeio de julho e lave as patas depois de uma caminhada de inverno: a cidade lança muito sal e produtos de degelo, e essa mistura greta as almofadinhas e é tóxica se lambida.`,
+      ],
+    },
+    practicalInfo: {
+      fr: [
+        `Urgences vétérinaires 24 h/24 : VEG Denver, 3845 E Colfax Ave, +1 720 574 9834, sans rendez-vous ; Wheat Ridge Animal Hospital, 10140 W 44th Ave, +1 303 424 3325 ; VRCC, 3550 S Jason St à Englewood, +1 303 874 7387. Le 911 est réservé aux humains.`,
+        `Entrée aux États-Unis : règles du CDC depuis août 2024, chien de six mois révolus, en bonne santé à l'arrivée, puce compatible ISO posée avant toute vaccination antirabique et récépissé du CDC Dog Import Form obtenu en ligne avant le départ.`,
+        `Denver est à 1 609 m : un chien venu du niveau de la mer boit et se fatigue davantage. Le vrai mal d'altitude commence au-dessus de 2 400 m, altitude des départs de sentiers à l'ouest de la ville.`,
+        `Les grands sites couverts refusent les animaux : Denver Botanic Gardens, zoo, aquarium, Denver Art Museum, Museum of Nature & Science. Les chiens ne sont pas non plus admis dans les salles de restaurant, uniquement en terrasse à accès extérieur.`,
+        `Meilleures périodes : de fin avril à mi-juin et de septembre à mi-octobre. Juillet et août dépassent régulièrement 30 °C avec orages d'après-midi, et mars est le mois le plus neigeux.`,
+      ],
+      en: [
+        `24-hour emergency vets: VEG Denver, 3845 E Colfax Ave, +1 720 574 9834, walk-in; Wheat Ridge Animal Hospital, 10140 W 44th Ave, +1 303 424 3325; VRCC, 3550 S Jason St in Englewood, +1 303 874 7387. 911 is for humans only.`,
+        `Entering the United States: CDC rules since August 2024 require a dog at least six months old, healthy on arrival, an ISO-compatible microchip implanted before any rabies vaccination, and a CDC Dog Import Form receipt obtained online before travel.`,
+        `Denver sits at 1,609 m, so a dog arriving from sea level drinks more and tires sooner. True altitude sickness starts above 2,400 m, which is where the trailheads west of the city begin.`,
+        `The big indoor attractions exclude pets: Denver Botanic Gardens, the zoo, the aquarium, the Denver Art Museum and the Museum of Nature & Science. Dogs are also barred from restaurant dining rooms and limited to patios with an exterior entrance.`,
+        `Best windows: late April to mid June and September to mid October. July and August regularly pass 30 C with afternoon storms, and March is the snowiest month.`,
+      ],
+      es: [
+        `Urgencias veterinarias 24 horas: VEG Denver, 3845 E Colfax Ave, +1 720 574 9834, sin cita; Wheat Ridge Animal Hospital, 10140 W 44th Ave, +1 303 424 3325; VRCC, 3550 S Jason St en Englewood, +1 303 874 7387. El 911 es solo para personas.`,
+        `Entrada a Estados Unidos: las normas de los CDC desde agosto de 2024 exigen un perro de seis meses cumplidos, sano a la llegada, microchip compatible con ISO implantado antes de cualquier vacuna antirrábica y el resguardo del CDC Dog Import Form obtenido en línea antes de viajar.`,
+        `Denver está a 1.609 m, así que un perro llegado del nivel del mar bebe más y se cansa antes. El verdadero mal de altura empieza por encima de 2.400 m, justo donde arrancan los senderos al oeste de la ciudad.`,
+        `Las grandes atracciones cubiertas no admiten mascotas: Denver Botanic Gardens, el zoo, el acuario, el Denver Art Museum y el Museum of Nature & Science. Los perros tampoco entran en las salas de restaurante y se limitan a terrazas con entrada exterior.`,
+        `Mejores épocas: de finales de abril a mediados de junio y de septiembre a mediados de octubre. Julio y agosto superan con frecuencia los 30 °C con tormentas de tarde, y marzo es el mes más nevado.`,
+      ],
+      pt: [
+        `Urgências veterinárias 24 horas: VEG Denver, 3845 E Colfax Ave, +1 720 574 9834, sem marcação; Wheat Ridge Animal Hospital, 10140 W 44th Ave, +1 303 424 3325; VRCC, 3550 S Jason St em Englewood, +1 303 874 7387. O 911 é só para pessoas.`,
+        `Entrada nos Estados Unidos: as regras do CDC desde agosto de 2024 exigem um cão com pelo menos seis meses, saudável à chegada, microchip compatível com ISO implantado antes de qualquer vacina antirrábica e o comprovativo do CDC Dog Import Form obtido em linha antes da viagem.`,
+        `Denver está a 1609 m, por isso um cão vindo do nível do mar bebe mais e cansa-se mais depressa. O verdadeiro mal de altitude começa acima dos 2400 m, que é onde arrancam os trilhos a oeste da cidade.`,
+        `As grandes atrações cobertas não aceitam animais: Denver Botanic Gardens, jardim zoológico, aquário, Denver Art Museum e Museum of Nature & Science. Os cães também não entram nas salas de restaurante e ficam limitados a esplanadas com entrada exterior.`,
+        `Melhores épocas: de finais de abril a meados de junho e de setembro a meados de outubro. Julho e agosto passam com frequência dos 30 °C com trovoadas ao fim da tarde, e março é o mês com mais neve.`,
+      ],
+    },
+  },
+
   dresden: {
     history: {
       fr: `Fondée vers 1206 sur les rives de l'Elbe, Dresde devint au XVIIIᵉ siècle la "Florence du Nord" sous l'électeur Auguste le Fort, qui fit du Zwinger, du Schloss et de la Frauenkirche les emblèmes d'une cour baroque parmi les plus brillantes d'Europe. Le bombardement allié de février 1945 anéantit le centre ; la reconstruction patiente de la Frauenkirche, achevée en 2005, symbolise la résurrection de la ville. Capitale de la Saxe et bordée par les Elbwiesen, prairies fluviales où les chiens courent sans laisse par usage, Dresde combine patrimoine baroque, forêt urbaine de 5 800 hectares et une flotte historique de bateaux à aubes qui accueille les chiens sans supplément.`,

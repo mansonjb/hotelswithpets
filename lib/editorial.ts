@@ -786,6 +786,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `the Castillo de Dénia outdoor ramparts, the Cap de Sant Antoni cliff trail above the Reserva Marina, and the Platja Canina de Les Deveses (year-round dog beach)`,
       area: `the casco antiguo of Les Roques under the castle, the Baix la Mar fishermen quarter by the port, and the Les Marines seafront paseo north of town`,
     },
+    denver: {
+      personality: `the Mile High City, a mile above the sea with roughly 300 days of sun, seventeen fenced dog parks and an enormous patio culture, but a transit network that carries only crated pets`,
+      highlight: `the Cherry Creek and South Platte greenways meeting at Confluence Park, the leashed trails of Red Rocks Park, and the 69 fenced acres and two swimming ponds of the Chatfield State Park off-leash area`,
+      area: `Union Station and LoDo, the mural streets of RiNo, and the lawns and tree-lined blocks around Washington Park and Cherry Creek North`,
+    },
     dresden: {
       personality: 'a compact baroque capital on the Elbe with kilometres of off-leash river meadows, a 5,800-hectare municipal forest on the northern edge, and a historic paddle-steamer fleet that welcomes dogs at no extra charge',
       highlight: 'the Elbwiesen river meadows through the centre, the Dresdner Heide forest, and the Schlosspark Pillnitz palace gardens',
@@ -2874,6 +2879,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `les remparts extérieurs du Castillo de Dénia, le sentier de falaise du Cap de Sant Antoni au-dessus de la Réserve Marine, et la Platja Canina de Les Deveses (plage canine à l'année)`,
       area: `le casco antiguo de Les Roques sous le château, le quartier des pêcheurs de Baix la Mar côté port, et la promenade de Les Marines au nord de la ville`,
     },
+    denver: {
+      personality: `la Mile High City, à 1 609 m d'altitude avec environ 300 jours de soleil par an, dix-sept parcs canins clôturés et une immense culture de la terrasse, mais un réseau de transport qui n'accepte que les animaux en caisse`,
+      highlight: `les voies vertes de Cherry Creek et de la South Platte qui se rejoignent à Confluence Park, les sentiers en laisse de Red Rocks Park, et les 28 hectares clôturés et deux étangs de baignade de la zone sans laisse de Chatfield State Park`,
+      area: `Union Station et LoDo, les rues à fresques de RiNo, et les pelouses et rues arborées autour de Washington Park et de Cherry Creek North`,
+    },
     dresden: {
       personality: 'capitale baroque compacte sur l\'Elbe, avec des kilomètres de prairies fluviales sans laisse, une forêt urbaine de 5 800 hectares à la lisière nord et une flotte historique de bateaux à aubes qui accueille les chiens sans supplément',
       highlight: 'les Elbwiesen qui traversent le centre, la forêt de la Dresdner Heide et les jardins du château de Pillnitz',
@@ -4961,6 +4971,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       highlight: `las murallas exteriores del Castillo de Dénia, el sendero del acantilado del Cap de Sant Antoni sobre la Reserva Marina, y la Platja Canina de Les Deveses (playa canina todo el año)`,
       area: `el casco antiguo de Les Roques al pie del castillo, el barrio marinero de Baix la Mar junto al puerto, y el paseo de Les Marines al norte del pueblo`,
     },
+    denver: {
+      personality: `la Mile High City, a 1.609 m de altitud con unos 300 días de sol al año, diecisiete parques caninos vallados y una enorme cultura de terraza, pero una red de transporte que solo admite mascotas en transportín`,
+      highlight: `las vías verdes de Cherry Creek y del South Platte encontrándose en Confluence Park, los senderos con correa de Red Rocks Park, y las 28 hectáreas valladas y dos estanques de baño de la zona sin correa de Chatfield State Park`,
+      area: `Union Station y LoDo, las calles de murales de RiNo, y los céspedes y manzanas arboladas alrededor de Washington Park y Cherry Creek North`,
+    },
     dresden: {
       personality: 'capital barroca compacta sobre el Elba, con kilómetros de praderas fluviales sin correa, un bosque urbano de 5.800 hectáreas en el borde norte y una flota histórica de vapores de paletas que admite perros sin coste extra',
       highlight: 'las Elbwiesen que atraviesan el centro, el bosque de la Dresdner Heide y los jardines del palacio de Pillnitz',
@@ -7047,6 +7062,11 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       personality: `porto do norte da Costa Blanca e Cidade Criativa UNESCO da Gastronomia, com o Castelo mouro do século XI sobre o casco antiguo caiado, o Parque Natural do Montgó de 753 m que se eleva mesmo atrás da cidade, ferries Baleària diários para Ibiza e a rara Platja Canina de Les Deveses aberta a cães o ano inteiro`,
       highlight: `as muralhas exteriores do Castelo de Dénia, o trilho da falésia do Cap de Sant Antoni acima da Reserva Marinha, e a Platja Canina de Les Deveses (praia canina o ano inteiro)`,
       area: `o casco antiguo de Les Roques ao pé do castelo, o bairro piscatório de Baix la Mar junto ao porto, e o passeio de Les Marines a norte da cidade`,
+    },
+    denver: {
+      personality: `a Mile High City, a 1609 m de altitude com cerca de 300 dias de sol por ano, dezassete parques caninos vedados e uma enorme cultura de esplanada, mas uma rede de transportes que só aceita animais em caixa`,
+      highlight: `os percursos verdes do Cherry Creek e do South Platte a encontrarem-se no Confluence Park, os trilhos à trela do Red Rocks Park, e os 28 hectares vedados e dois lagos de banho da zona sem trela do Chatfield State Park`,
+      area: `a Union Station e LoDo, as ruas de murais de RiNo, e os relvados e quarteirões arborizados em torno do Washington Park e de Cherry Creek North`,
     },
     dresden: {
       personality: 'capital barroca compacta sobre o Elba, com kilómetros de pradarias fluviales sem trela, um floresta urbano de 5.800 hectáreas no borde norte e uma flota histórica de vapores de paletas que admite cães sem coste extra',

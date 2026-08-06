@@ -970,125 +970,306 @@
   },
   {
     "id": "albufeira-1",
-    "name": "Grande Real Santa Eulália Resort & Hotel Spa",
+    "slug": "grande-real-santa-eulalia-resort-hotel-spa",
+    "name": "Grande Real Santa Eulalia Resort & Hotel Spa",
     "destinationSlug": "albufeira",
     "categories": [
       "dog-friendly",
       "cat-friendly",
-      "luxury",
-      "luxury-pet-friendly"
-    ],
-    "stars": 5,
-    "rating": 8.6,
-    "reviewCount": 4870,
-    "priceFrom": 215,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/grande-real-santa-eulalia-resort-hotel-spa.html",
-    "petFee": 25,
-    "petPolicy": "The Grande Real Santa Eulália, a 5-star beachfront resort on Praia de Santa Eulália, welcomes pets in selected garden-view rooms with prior request. Pet fee 25 € per night, max one pet up to 15 kg per room. Pets on leash in all outdoor common areas, not allowed in restaurants, spa or pool areas. Direct garden access to a leash-friendly Atlantic clifftop promenade.",
-    "highlights": [
-      "Beachfront",
-      "Garden access",
-      "Spa & 4 pools"
-    ],
-    "slug": "grande-real-santa-eulalia"
-  },
-  {
-    "id": "albufeira-2",
-    "name": "Pestana Royal Premium All Inclusive Ocean & Spa Resort",
-    "destinationSlug": "albufeira",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
+      "beach-access",
+      "near-parks",
       "luxury"
     ],
     "stars": 5,
-    "rating": 8.7,
-    "reviewCount": 3950,
-    "priceFrom": 255,
+    "rating": 8.5,
+    "reviewCount": 4030,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/pestana-royal-resort-luxury-all-inclusive-spa-and-ocean.html",
-    "petFee": 30,
-    "petPolicy": "The Pestana Royal Premium, a 5-star all-inclusive clifftop resort west of Albufeira centre, accepts pets in selected garden-side rooms on request. Pet fee 30 € per night, one pet per room up to 20 kg. Pets welcome on leash on garden paths and the clifftop promenade, not allowed in restaurants, pool decks or the spa.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/hotelsrealsantaeulalia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Grande Real Santa Eulalia Resort & Hotel Spa welcomes dogs and cats. It is close to a dog-friendly beach. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "All-inclusive",
-      "Clifftop location",
-      "9 pools"
-    ],
-    "slug": "pestana-royal-premium"
+      "2 swimming pools",
+      "Private parking",
+      "Free WiFi"
+    ]
   },
   {
-    "id": "albufeira-3",
-    "name": "AP Cabanas Beach & Nature",
+    "id": "albufeira-10",
+    "slug": "kimpton-atlantico-algarve-by-ihg",
+    "name": "Kimpton Atlantico Algarve by IHG",
     "destinationSlug": "albufeira",
     "categories": [
       "dog-friendly",
       "cat-friendly",
       "near-parks",
-      "boutique-pet-friendly"
+      "luxury"
     ],
-    "stars": 4,
+    "stars": 5,
     "rating": 8.4,
-    "reviewCount": 2280,
-    "priceFrom": 145,
+    "reviewCount": 249,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/ap-cabanas-beach-amp-nature.html",
-    "petFee": 20,
-    "petPolicy": "AP Cabanas Beach & Nature, a 4-star eco-design hotel between Albufeira and Tavira (35 min by car), welcomes pets in selected rooms with a 20 € per night fee. Up to two pets per room, max 20 kg combined. Pets welcome in lobby, outdoor terraces and adjacent Ria Formosa boardwalks; not allowed in pool, restaurants or breakfast room.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/kimpton-atlantico-algarve.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton Atlantico Algarve by IHG welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "Eco design",
-      "Nature reserve at the door",
-      "Adults-only"
+      "4 swimming pools",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "albufeira-11",
+    "slug": "jupiter-albufeira-hotel-family-fun-all-inclusive-24h",
+    "name": "Jupiter Albufeira Hotel - Family & Fun - All Inclusive 24h",
+    "destinationSlug": "albufeira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
     ],
-    "slug": "ap-cabanas-beach-nature"
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 702,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/jupiter-albufeira-hotel.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Jupiter Albufeira Hotel - Family & Fun - All Inclusive 24h welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "5 swimming pools",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "albufeira-12",
+    "slug": "3hb-falesia-beach",
+    "name": "3HB Falesia Beach",
+    "destinationSlug": "albufeira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 210,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/3hb-falesia-beach.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "3HB Falesia Beach welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "3 swimming pools",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "albufeira-2",
+    "slug": "epic-sana-algarve-hotel",
+    "name": "EPIC SANA Algarve Hotel",
+    "destinationSlug": "albufeira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 1337,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/epic-sana-algarve.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "EPIC SANA Algarve Hotel welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "2 swimming pools",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "albufeira-3",
+    "slug": "monicca-collection-oura-view-suites",
+    "name": "Monicca Collection Oura View Suites",
+    "destinationSlug": "albufeira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8,
+    "reviewCount": 132,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/grand-muthu-oura-view-beach-club-by-monicca-collection.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Monicca Collection Oura View Suites welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ]
   },
   {
     "id": "albufeira-4",
-    "name": "Vila Galé Praia",
+    "slug": "pine-cliffs-hotel-a-luxury-collection-resort-algarve",
+    "name": "Pine Cliffs Hotel, a Luxury Collection Resort, Algarve",
     "destinationSlug": "albufeira",
     "categories": [
       "dog-friendly",
       "cat-friendly",
-      "near-parks"
+      "near-parks",
+      "luxury"
     ],
-    "stars": 4,
+    "stars": 5,
     "rating": 8.5,
-    "reviewCount": 3680,
-    "priceFrom": 135,
+    "reviewCount": 573,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/vila-gale-praia.html",
-    "petFee": 15,
-    "petPolicy": "Vila Galé Praia, a 4-star adults-only resort on Praia da Galé just west of Albufeira, welcomes pets in selected garden rooms on prior request. Pet fee 15 € per night, one pet per room up to 10 kg. Pets on leash in lobbies and garden paths, not allowed in restaurants or pool areas. Five-minute walk to a year-round dog-friendly cliff trail.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/sheratonalgarve.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pine Cliffs Hotel, a Luxury Collection Resort, Algarve welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "Adults-only",
-      "Garden rooms",
-      "Steps from Praia da Galé"
-    ],
-    "slug": "vila-gale-praia"
+      "9 swimming pools",
+      "Free parking",
+      "Free WiFi"
+    ]
   },
   {
     "id": "albufeira-5",
-    "name": "Hotel Baltum",
+    "slug": "algarve-marriott-salgados-golf-resort-spa",
+    "name": "Algarve Marriott Salgados Golf Resort & Spa",
     "destinationSlug": "albufeira",
     "categories": [
       "dog-friendly",
       "cat-friendly",
-      "budget-pet-friendly"
+      "beach-access",
+      "near-parks",
+      "luxury"
     ],
-    "stars": 3,
-    "rating": 8.1,
-    "reviewCount": 2540,
-    "priceFrom": 85,
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 460,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/baltum.html",
-    "petFee": 10,
-    "petPolicy": "Hotel Baltum, a long-running 3-star directly on Albufeira's main square 50 m from Praia dos Pescadores, accepts small pets in selected rooms with a 10 € per night fee. One pet per room up to 10 kg. Pets on leash in lobby and corridors only, not allowed in breakfast room. Cidade Velha cobbled streets and Pau da Bandeira viewpoint at the door.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/salgados-palace.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Algarve Marriott Salgados Golf Resort & Spa welcomes dogs and cats. It is close to a dog-friendly beach. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "Old Town location",
-      "Beachfront",
-      "Budget-friendly"
+      "4 swimming pools",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "albufeira-6",
+    "slug": "vila-balaia-luxury-boutique-villas",
+    "name": "Vila Balaia - Luxury Boutique Villas",
+    "destinationSlug": "albufeira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
     ],
-    "slug": "baltum"
+    "stars": 5,
+    "rating": 9.4,
+    "reviewCount": 110,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/vila-balaia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Vila Balaia - Luxury Boutique Villas welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "albufeira-7",
+    "slug": "the-westin-salgados-beach-resort-algarve",
+    "name": "The Westin Salgados Beach Resort, Algarve",
+    "destinationSlug": "albufeira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 272,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/westin-salgados-beach-resort-algarve.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Westin Salgados Beach Resort, Algarve welcomes dogs and cats. It is close to a dog-friendly beach. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "6 swimming pools",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "albufeira-8",
+    "slug": "grand-muthu-oura-view-beach-club",
+    "name": "Grand Muthu Oura View Beach Club",
+    "destinationSlug": "albufeira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 7.6,
+    "reviewCount": 1309,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/oura-view-beach-club.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Grand Muthu Oura View Beach Club welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "2 swimming pools",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "albufeira-9",
+    "slug": "w-algarve",
+    "name": "W Algarve",
+    "destinationSlug": "albufeira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 436,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/w-hotels-algarve.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "W Algarve welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ]
   },
   {
     "id": "alcudia-1",
@@ -3943,98 +4124,293 @@
   },
   {
     "id": "aveiro-1",
-    "name": "Melia Ria Hotel & Spa",
+    "slug": "ms-collection-aveiro-palacete-valdemouro",
+    "name": "MS Collection Aveiro - Palacete Valdemouro",
     "destinationSlug": "aveiro",
     "categories": [
       "dog-friendly",
+      "cat-friendly",
+      "near-parks",
       "luxury"
     ],
-    "stars": 4,
-    "rating": 8.5,
-    "reviewCount": 2400,
-    "priceFrom": 130,
+    "stars": 5,
+    "rating": 9.6,
+    "reviewCount": 979,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/melia-ria.html",
-    "petFee": 25,
-    "petPolicy": "Melia Ria Hotel & Spa, overlooking the Fonte Nova canal, allows one dog under 20 kg in designated rooms for a fee of 25 EUR per night, with a 100 EUR refundable deposit per stay. Arriving dogs receive food bowls, a blanket and treats. Pets must be kept on a lead in common areas and are not permitted in the spa or restaurant. The waterfront walkways along the Ria de Aveiro right outside are perfect for dog walks.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/ms-collection-aveiro-palacete-valdemouro.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "MS Collection Aveiro - Palacete Valdemouro welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "Indoor swimming pool",
-      "Spa and wellness centre",
-      "Free WiFi"
-    ],
-    "slug": "melia-ria-hotel-spa"
+      "2 swimming pools",
+      "Parking",
+      "Spa & wellness centre"
+    ]
   },
   {
-    "id": "aveiro-2",
-    "name": "Hotel Imperial",
+    "id": "aveiro-10",
+    "slug": "turim-aveiro-palace-hotel",
+    "name": "TURIM Aveiro Palace Hotel",
+    "destinationSlug": "aveiro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 3636,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/aveiro-palace.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "TURIM Aveiro Palace Hotel welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "aveiro-11",
+    "slug": "melia-ria-hotel-spa",
+    "name": "Meliá Ria Hotel & Spa",
+    "destinationSlug": "aveiro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.6,
+    "reviewCount": 2160,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/melia-ria.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Meliá Ria Hotel & Spa welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "3 restaurants"
+    ]
+  },
+  {
+    "id": "aveiro-12",
+    "slug": "fisherman-s-view",
+    "name": "Fisherman's View",
     "destinationSlug": "aveiro",
     "categories": [
       "dog-friendly",
       "cat-friendly",
       "near-parks"
     ],
-    "stars": 3,
-    "rating": 8,
-    "reviewCount": 1300,
-    "priceFrom": 70,
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 120,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/hotel-imperial-aveiro.html",
-    "petFee": 15,
-    "petPolicy": "Hotel Imperial, just a short walk from the Ria de Aveiro canal, welcomes two pets of any size in designated rooms for a fee of 15 EUR per pet, per night. Both dogs and cats are accepted. Pets must be kept on a lead in shared areas and should not be left alone in the room. The hotel's central location makes it easy to reach the canal-side promenades and nearby green spaces for walks.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/fishermans-view.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Fisherman's View welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "Near the Aveiro canals",
-      "24-hour front desk",
-      "Free WiFi"
-    ],
-    "slug": "hotel-imperial"
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
   },
   {
-    "id": "aveiro-3",
-    "name": "Pousada da Ria - Aveiro",
+    "id": "aveiro-2",
+    "slug": "art-living-gravito",
+    "name": "Art Living Gravito",
     "destinationSlug": "aveiro",
     "categories": [
       "dog-friendly",
       "cat-friendly",
-      "beach-access",
-      "boutique-pet-friendly"
+      "near-parks"
     ],
     "stars": 4,
-    "rating": 8.6,
-    "reviewCount": 740,
-    "priceFrom": 140,
+    "rating": 9.8,
+    "reviewCount": 46,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/pousada-da-ria.html",
-    "petFee": 30,
-    "petPolicy": "Pousada da Ria, built on pillars over the Aveiro lagoon near Torreira, allows one pet up to 15 kg for a fee of 30 EUR per pet, per night. Both dogs and cats are accepted, and pets cannot be left unattended in the room. Pets must be kept on a lead in common areas. The pousada has a small private beach and free bicycles, ideal for exploring the lagoon shoreline with a dog.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/aveiro-living-gravito-by-home-sweet-home-aveiro.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Art Living Gravito welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "Lagoon-front setting",
-      "Outdoor swimming pool",
-      "Free bicycles"
-    ],
-    "slug": "pousada-da-ria-aveiro"
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
   },
   {
-    "id": "aveiro-4",
-    "name": "Montebelo Vista Alegre Ilhavo Hotel",
+    "id": "aveiro-3",
+    "slug": "inside-canal",
+    "name": "Inside Canal",
     "destinationSlug": "aveiro",
     "categories": [
       "dog-friendly",
+      "cat-friendly",
+      "dogs-stay-free"
+    ],
+    "stars": 4,
+    "rating": 9.8,
+    "reviewCount": 76,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/inside-canal.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Inside Canal welcomes dogs and cats. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free WiFi",
+      "Pet-friendly",
+      "Central location"
+    ]
+  },
+  {
+    "id": "aveiro-4",
+    "slug": "hotel-do-alboi",
+    "name": "Hotel do Alboi",
+    "destinationSlug": "aveiro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
       "luxury"
     ],
     "stars": 5,
-    "rating": 8.9,
-    "reviewCount": 1050,
-    "priceFrom": 160,
+    "rating": 9.3,
+    "reviewCount": 406,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/montebelo-vista-alegre-ilhavo.html",
-    "petFee": 30,
-    "petPolicy": "Montebelo Vista Alegre Ilhavo Hotel, set within the historic Vista Alegre porcelain complex just outside Aveiro, allows pets on request for a fee of 30 EUR per animal, per day. Dogs up to 20 kg and over three months old are welcome, with larger animals accepted only on request and subject to approval. Pets must be kept on a lead in common areas. The grounds and surrounding lagoon paths offer plenty of room for walks.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/do-alboi.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel do Alboi welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "Indoor pool and spa",
-      "Historic porcelain estate",
-      "Free WiFi"
+      "Parking",
+      "Non-smoking rooms",
+      "Restaurant"
+    ]
+  },
+  {
+    "id": "aveiro-5",
+    "slug": "casa-esmeralda-by-home-sweet-home-aveiro",
+    "name": "Casa Esmeralda by Home Sweet Home Aveiro",
+    "destinationSlug": "aveiro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
     ],
-    "slug": "montebelo-vista-alegre-ilhavo-hotel"
+    "stars": 4,
+    "rating": 8.7,
+    "reviewCount": 45,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/casa-esmeralda.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Casa Esmeralda by Home Sweet Home Aveiro welcomes dogs and cats. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "aveiro-6",
+    "slug": "beira-ria-vista-canal",
+    "name": "Beira-Ria - Vista canal",
+    "destinationSlug": "aveiro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 47,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/apartamento-beira-ria.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Beira-Ria - Vista canal welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "aveiro-7",
+    "slug": "tales-of-us-terrace",
+    "name": "Tales Of Us Terrace",
+    "destinationSlug": "aveiro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 70,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/tales-of-us-terrace.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Tales Of Us Terrace welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free parking",
+      "Family rooms",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "aveiro-8",
+    "slug": "sao-goncalinho-alegria-by-home-sweet-home-aveiro",
+    "name": "São Gonçalinho Alegria by Home Sweet Home Aveiro",
+    "destinationSlug": "aveiro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.5,
+    "reviewCount": 33,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/home-sweet-home-aveiro-sao-goncalinho-alegria.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "São Gonçalinho Alegria by Home Sweet Home Aveiro welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "aveiro-9",
+    "slug": "deluxe-apartment-aveiro-train-station-center",
+    "name": "Deluxe Apartment - Aveiro Train Station, Center",
+    "destinationSlug": "aveiro",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 84,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/deluxe-apartment-aveiro-train-station-center.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Deluxe Apartment - Aveiro Train Station, Center welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
   },
   {
     "id": "avignon-1",
@@ -13838,128 +14214,303 @@
   },
   {
     "id": "cascais-1",
-    "name": "Pestana Cidadela Cascais - Pousada & Art District",
-    "destinationSlug": "cascais",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "luxury-pet-friendly",
-      "boutique-pet-friendly"
-    ],
-    "stars": 5,
-    "rating": 8.9,
-    "reviewCount": 2540,
-    "priceFrom": 240,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/pousada-de-cascais.en-gb.html",
-    "petFee": 30,
-    "petPolicy": "Pestana Cidadela Cascais, a 5-star pousada inside Cascais's restored 16th-century coastal fortress, welcomes one dog or cat up to 15 kg in select Classic Rooms and Junior Suites within the Art District wing for a fee of 30 € per pet per night. Leashed pets allowed in the outdoor courtyards and ramparts that wrap the property; not permitted in the main pool, spa or restaurant interior. Marina at the doorstep, Praia da Rainha 4 minutes on foot.",
-    "highlights": [
-      "Inside historic fortress",
-      "Marina-front location",
-      "Pet-friendly outdoor courtyards"
-    ],
-    "slug": "pestana-cidadela-cascais"
-  },
-  {
-    "id": "cascais-2",
-    "name": "The Albatroz Hotel",
-    "destinationSlug": "cascais",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "luxury-pet-friendly",
-      "boutique-pet-friendly"
-    ],
-    "stars": 5,
-    "rating": 9,
-    "reviewCount": 1320,
-    "priceFrom": 270,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/albatroz.en-gb.html",
-    "petFee": 30,
-    "petPolicy": "The Albatroz Hotel, a 5-star clifftop palace built in 1873 above Praia da Conceição, welcomes one pet up to 7 kg per room for a fee of 30 € per night. Leashed pets allowed in lobbies, garden terraces and the seaside walking path; pool deck and indoor restaurants off-limits. Direct access to the Paredão promenade and Cascais marina, 6 minutes on foot to Largo Luís de Camões.",
-    "highlights": [
-      "Clifftop sea views",
-      "Direct Paredão access",
-      "Heated outdoor pool"
-    ],
-    "slug": "the-albatroz-hotel"
-  },
-  {
-    "id": "cascais-3",
-    "name": "Hotel Cascais Miragem Health & Spa",
-    "destinationSlug": "cascais",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "luxury-pet-friendly",
-      "near-parks"
-    ],
-    "stars": 5,
-    "rating": 8.7,
-    "reviewCount": 4180,
-    "priceFrom": 220,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/cascais-miragem-health-spa.en-gb.html",
-    "petFee": 25,
-    "petPolicy": "Hotel Cascais Miragem, a large 5-star seafront resort hotel between Cascais and Estoril, accepts one dog under 10 kg in designated rooms for a fee of 25 € per night. Cats accepted on prior request. Pets not allowed on the third floor or in common areas including pool and spa. The Paredão promenade runs directly past the hotel, 12 minutes on foot to Cascais marina.",
-    "highlights": [
-      "Direct seafront",
-      "Health spa",
-      "On the Paredão promenade"
-    ],
-    "slug": "hotel-cascais-miragem-health-spa"
-  },
-  {
-    "id": "cascais-4",
-    "name": "Casa Vela Boutique House & SPA",
-    "destinationSlug": "cascais",
-    "categories": [
-      "dog-friendly",
-      "cat-friendly",
-      "boutique-pet-friendly",
-      "near-parks"
-    ],
-    "stars": 4,
-    "rating": 9.2,
-    "reviewCount": 1490,
-    "priceFrom": 215,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/casa-vela-charm-guesthouse.en-gb.html",
-    "petFee": 25,
-    "petPolicy": "Casa Vela Boutique House & SPA, a charm boutique guesthouse in the residential Birre quarter close to Guincho, welcomes one dog up to 30 kg per room, plus cats, for an extra 25 € per night. Lush botanical gardens, an outdoor heated pool and a Finnish sauna in the spa; leashed pets allowed across all outdoor areas. 12 minutes by car from the historic centre, 8 minutes from Praia do Guincho.",
-    "highlights": [
-      "Dogs up to 30 kg welcome",
-      "Botanical gardens",
-      "Outdoor heated pool"
-    ],
-    "slug": "casa-vela-boutique-house"
-  },
-  {
-    "id": "cascais-5",
-    "name": "Vila Bicuda Resort",
+    "slug": "grande-real-villa-italia-hotel-spa-a-leading-hotel-of-the-world",
+    "name": "Grande Real Villa Itália Hotel & Spa - A Leading Hotel of the World",
     "destinationSlug": "cascais",
     "categories": [
       "dog-friendly",
       "cat-friendly",
       "near-parks",
-      "budget-pet-friendly"
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 1408,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/grande-real-villa-italia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Grande Real Villa Itália Hotel & Spa - A Leading Hotel of the World welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "cascais-10",
+    "slug": "sheraton-cascais-resort-hotel-residences",
+    "name": "Sheraton Cascais Resort - Hotel & Residences",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 494,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/sheraton-cascais-resort.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Sheraton Cascais Resort - Hotel & Residences welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "WiFi"
+    ]
+  },
+  {
+    "id": "cascais-11",
+    "slug": "farol-hotel",
+    "name": "Farol Hotel",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.8,
+    "reviewCount": 270,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/farol-design.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Farol Hotel welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "cascais-12",
+    "slug": "casa-vela-boutique-house-spa",
+    "name": "Casa Vela Boutique House & SPA",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
     ],
     "stars": 4,
-    "rating": 9.2,
-    "reviewCount": 1080,
-    "priceFrom": 175,
+    "rating": 9.1,
+    "reviewCount": 1465,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/quinta-da-marinha-villas-golf-resort.en-gb.html",
-    "petFee": 30,
-    "petPolicy": "Vila Bicuda Resort, a 4-star villa and apartment resort set in pine woods between Cascais centre and Praia do Guincho, welcomes pets for an extra fee of 30 € per night. Self-catering studios, one- and two-bedroom villas with private terraces; pets allowed across the resort grounds on a leash. The natural park trails are at the doorstep, 10 minutes by car from the historic centre.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/casa-vela-charm-guesthouse.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Casa Vela Boutique House & SPA welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "Self-catering villas",
-      "Natural park trails on doorstep",
-      "Family-friendly resort"
+      "2 swimming pools",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "cascais-2",
+    "slug": "pestana-cidadela-cascais-pousada-art-district",
+    "name": "Pestana Cidadela Cascais - Pousada & Art District",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
     ],
-    "slug": "vila-bicuda-resort"
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 2255,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/pousada-de-cascais.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pestana Cidadela Cascais - Pousada & Art District welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "2 swimming pools",
+      "Parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "cascais-3",
+    "slug": "the-albatroz-hotel",
+    "name": "The Albatroz Hotel",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 801,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/albatroz.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "The Albatroz Hotel welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "cascais-4",
+    "slug": "hotel-cascais-miragem-health-spa",
+    "name": "Hotel Cascais Miragem Health & Spa",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 792,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/cascais-miragem-health-spa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Cascais Miragem Health & Spa welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "2 swimming pools",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "cascais-5",
+    "slug": "artsy-cascais",
+    "name": "Artsy Cascais",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.2,
+    "reviewCount": 468,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/artsy-cascais-cascais.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Artsy Cascais welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "cascais-6",
+    "slug": "longevity-senses-cascais-boutique-hotel-adults-only",
+    "name": "Longevity Senses - Cascais Boutique Hotel - Adults Only",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 323,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/senhora-da-guia.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Longevity Senses - Cascais Boutique Hotel - Adults Only welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "3 swimming pools",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "cascais-7",
+    "slug": "onyria-marinha-cascais-vignette-collection-by-ihg",
+    "name": "Onyria Marinha Cascais, Vignette Collection by IHG",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 442,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/onyria-cascais.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Onyria Marinha Cascais, Vignette Collection by IHG welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "3 swimming pools",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "cascais-8",
+    "slug": "kimpton-quinta-da-marinha-by-ihg",
+    "name": "Kimpton Quinta da Marinha by IHG",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.9,
+    "reviewCount": 663,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/kimpton-quinta-da-marinha.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Kimpton Quinta da Marinha by IHG welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "2 swimming pools",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "cascais-9",
+    "slug": "hotel-fortaleza-do-guincho-relais-chateaux",
+    "name": "Hotel Fortaleza do Guincho Relais & Châteaux",
+    "destinationSlug": "cascais",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "beach-access",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.3,
+    "reviewCount": 856,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/fortaleza-do-guincho.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Fortaleza do Guincho Relais & Châteaux welcomes dogs and cats. It is close to a dog-friendly beach. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Beachfront"
+    ]
   },
   {
     "id": "cassis-1",
@@ -50687,121 +51238,290 @@
   },
   {
     "id": "setubal-1",
-    "name": "Hotel Casa Palmela - Small Luxury Hotels of The World",
+    "slug": "hotel-casa-palmela-small-luxury-hotels-of-the-world-hotel-villas",
+    "name": "Hotel Casa Palmela - Small Luxury Hotels of The World, Hotel & Villas",
     "destinationSlug": "setubal",
     "categories": [
       "dog-friendly",
       "cat-friendly",
-      "luxury",
-      "near-parks"
+      "near-parks",
+      "luxury"
     ],
     "stars": 5,
     "rating": 9.1,
-    "reviewCount": 650,
-    "priceFrom": 220,
+    "reviewCount": 577,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/casa-palmela.html",
-    "petFee": 25,
-    "petPolicy": "One dog under 15kg welcome in designated Villas and Garden House rooms for 25 EUR per night. Cats also welcome.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/casa-palmela.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Casa Palmela - Small Luxury Hotels of The World, Hotel & Villas welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "17th-century Quinta do Esteval estate",
-      "Two outdoor pools and full spa",
-      "Serra da Arrabida setting"
-    ],
-    "slug": "hotel-casa-palmela-small-luxury-hotels-of-the-world"
+      "Outdoor swimming pool",
+      "Free parking",
+      "Spa & wellness centre"
+    ]
   },
   {
-    "id": "setubal-2",
-    "name": "Melia Setubal",
+    "id": "setubal-10",
+    "slug": "novotel-setubal",
+    "name": "Novotel Setubal",
     "destinationSlug": "setubal",
     "categories": [
       "dog-friendly",
-      "wellness-spa-pet-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.7,
+    "reviewCount": 2139,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/novotel-setubal.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Novotel Setubal welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "setubal-11",
+    "slug": "villa-casal-assis-by-y-concept",
+    "name": "Villa Casal Assis - By Y Concept",
+    "destinationSlug": "setubal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
       "near-parks"
     ],
     "stars": 4,
     "rating": 8.5,
-    "reviewCount": 2100,
-    "priceFrom": 110,
+    "reviewCount": 500,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/melia-setubal.html",
-    "petFee": 20,
-    "petPolicy": "Pets welcome in designated rooms with prior notice for a nightly fee. City-centre hotel across from Bonfim Garden.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/villa-casal-assis-by-y-concept.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Villa Casal Assis - By Y Concept welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "Indoor pool and sauna",
-      "Facing Bonfim Garden",
-      "9 min walk to train station"
-    ],
-    "slug": "melia-setubal"
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
   },
   {
-    "id": "setubal-3",
-    "name": "RM The Experience - Small Portuguese Hotels",
+    "id": "setubal-12",
+    "slug": "beach-nature-villa-with-amazing-pool-by-timecooler",
+    "name": "Beach & Nature Villa with Amazing Pool by TimeCooler",
     "destinationSlug": "setubal",
     "categories": [
       "dog-friendly",
-      "boutique-pet-friendly"
+      "cat-friendly",
+      "near-parks"
     ],
     "stars": 4,
-    "rating": 9.2,
-    "reviewCount": 420,
-    "priceFrom": 130,
+    "rating": 8.5,
+    "reviewCount": 66,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/rm-the-experience.html",
-    "petFee": 15,
-    "petPolicy": "Pets welcome with prior notice for a nightly fee. Boutique B&B near the Sado River and Livramento Market.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/casal-da-anixa.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Beach & Nature Villa with Amazing Pool by TimeCooler welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "250m from Sado River",
-      "Highly rated breakfast",
-      "Near Livramento Market"
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "setubal-2",
+    "slug": "melia-setubal",
+    "name": "Meliá Setúbal",
+    "destinationSlug": "setubal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
     ],
-    "slug": "rm-the-experience-small-portuguese-hotels"
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 1116,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/melia-setubal.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Meliá Setúbal welcomes dogs and cats. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Free WiFi",
+      "2 restaurants"
+    ]
+  },
+  {
+    "id": "setubal-3",
+    "slug": "hotel-cristal-setubal",
+    "name": "Hotel Cristal Setúbal",
+    "destinationSlug": "setubal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.5,
+    "reviewCount": 1467,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/isidro-setaobal.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Hotel Cristal Setúbal welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
   },
   {
     "id": "setubal-4",
-    "name": "Hotel Campanile Lisbon South - Setubal",
+    "slug": "luna-esperanca-centro-hotel",
+    "name": "Luna Esperanca Centro Hotel",
+    "destinationSlug": "setubal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 8.3,
+    "reviewCount": 4659,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/esperanca-centro.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Luna Esperanca Centro Hotel welcomes dogs and cats. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "setubal-5",
+    "slug": "rm-the-experience-small-portuguese-hotels",
+    "name": "RM The Experience - Small Portuguese Hotels",
     "destinationSlug": "setubal",
     "categories": [
       "dog-friendly",
       "cat-friendly"
     ],
-    "stars": 3,
-    "rating": 8,
-    "reviewCount": 1600,
-    "priceFrom": 80,
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 958,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/campanile-setubal.html",
-    "petFee": 5,
-    "petPolicy": "Up to 2 pets (dogs or cats) up to 10kg welcome for 5 EUR per pet per night.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/rm-the-experience.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "RM The Experience - Small Portuguese Hotels welcomes dogs and cats. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "Two pets allowed",
-      "Garden setting",
-      "30km from Lisbon"
-    ],
-    "slug": "hotel-campanile-lisbon-south-setubal"
+      "Free WiFi",
+      "Family rooms",
+      "Non-smoking rooms"
+    ]
   },
   {
-    "id": "setubal-5",
-    "name": "FALCOARIA Setubal",
+    "id": "setubal-6",
+    "slug": "rio-art-hotel",
+    "name": "Rio Art Hotel",
     "destinationSlug": "setubal",
     "categories": [
       "dog-friendly",
-      "boutique-pet-friendly"
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9.1,
+    "reviewCount": 811,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/rio-art-gesthouse.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Rio Art Hotel welcomes dogs and cats. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms",
+      "24-hour front desk"
+    ]
+  },
+  {
+    "id": "setubal-7",
+    "slug": "bocage-penthouse",
+    "name": "Bocage Penthouse",
+    "destinationSlug": "setubal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
     ],
     "stars": 4,
-    "rating": 9,
-    "reviewCount": 380,
-    "priceFrom": 140,
+    "rating": 9.5,
+    "reviewCount": 38,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/falcoaria-setubal.html",
-    "petFee": 15,
-    "petPolicy": "Pets welcome with prior notice for a small nightly fee. Boutique stay with highly rated breakfast in central Setubal.",
+    "bookingUrl": "https://www.booking.com/hotel/pt/bocage-penthouse.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Bocage Penthouse welcomes dogs and cats. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "Highly rated breakfast",
-      "Boutique design",
-      "Central Setubal"
+      "Free WiFi",
+      "Non-smoking rooms",
+      "Airport shuttle"
+    ]
+  },
+  {
+    "id": "setubal-8",
+    "slug": "rm-the-loft-experience",
+    "name": "RM The Loft Experience",
+    "destinationSlug": "setubal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
     ],
-    "slug": "falcoaria-setubal"
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 82,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/rm-loft.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "RM The Loft Experience welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free parking",
+      "Free WiFi",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "setubal-9",
+    "slug": "setubal-terrace-apartments",
+    "name": "Setubal Terrace apartments",
+    "destinationSlug": "setubal",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.1,
+    "reviewCount": 123,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/setubal-terrace-apartments.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Setubal Terrace apartments welcomes dogs and cats. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
   },
   {
     "id": "seville-1",
@@ -55224,131 +55944,291 @@
   },
   {
     "id": "tavira-1",
-    "name": "Hotel Don Rodrigues",
-    "destinationSlug": "tavira",
-    "categories": [
-      "dog-friendly",
-      "budget",
-      "dogs-stay-free"
-    ],
-    "stars": 3,
-    "rating": 8,
-    "reviewCount": 480,
-    "priceFrom": 85,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/don-rodrigues.html",
-    "petFee": 0,
-    "petPolicy": "Hotel Don Rodrigues accepts dogs of any size for no additional fee. Property located at the entrance of Tavira on the N125 road, with outdoor pool and panoramic views over the Algarvian Sotavento countryside. Please confirm with the property when booking.",
-    "address": "Estrada Nacional 125, Sítio das Quatro Estradas, 8800-412 Tavira",
-    "neighborhood": "Quatro Estradas",
-    "slug": "hotel-don-rodrigues",
-    "highlights": [
-      "Pet-friendly with verified Booking.com policy",
-      "Free pet stay",
-      "3-star comfort"
-    ]
-  },
-  {
-    "id": "tavira-2",
-    "name": "Tavira Algarve - Rua da Silva",
-    "destinationSlug": "tavira",
-    "categories": [
-      "dog-friendly",
-      "boutique",
-      "dogs-stay-free"
-    ],
-    "stars": 3,
-    "rating": 8.7,
-    "reviewCount": 320,
-    "priceFrom": 110,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/tavira-algarve-rua-da-silva.html",
-    "petFee": 0,
-    "petPolicy": "Tavira Algarve - Rua da Silva accepts pets on request; charges may apply (confirm at reservation). Centrally located in Tavira old town, a short walk from the Roman bridge, Praça da República and ferries to Tavira Island. Please confirm with the property when booking.",
-    "address": "Rua da Silva, 8800 Tavira",
-    "neighborhood": "Centro Histórico",
-    "slug": "tavira-algarve-rua-da-silva",
-    "highlights": [
-      "Pet-friendly with verified Booking.com policy",
-      "Free pet stay",
-      "3-star comfort"
-    ]
-  },
-  {
-    "id": "tavira-3",
-    "name": "Monte dos Avós Village - Pet Friendly",
-    "destinationSlug": "tavira",
-    "categories": [
-      "dog-friendly",
-      "rural",
-      "dogs-stay-free"
-    ],
-    "stars": 3,
-    "rating": 8.9,
-    "reviewCount": 410,
-    "priceFrom": 130,
-    "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/monte-dos-ava3s.html",
-    "petFee": 0,
-    "petPolicy": "Monte dos Avós Village welcomes small pets up to 15 kg only. Pets must be requested at booking and additional cleaning fees may apply (confirm with property). Rural-style village in Ria Formosa Natural Park, 13 minutes' drive from Tavira centre, with outdoor swimming pool and large garden grounds. Please confirm with the property when booking.",
-    "address": "Sítio do Pinheiro, 8800-102 Santa Catarina da Fonte do Bispo",
-    "neighborhood": "Ria Formosa",
-    "slug": "monte-dos-avos-village-pet-friendly",
-    "highlights": [
-      "Pet-friendly with verified Booking.com policy",
-      "Free pet stay",
-      "3-star comfort"
-    ]
-  },
-  {
-    "id": "tavira-4",
+    "slug": "pousada-convento-de-tavira",
     "name": "Pousada Convento de Tavira",
     "destinationSlug": "tavira",
     "categories": [
       "dog-friendly",
+      "cat-friendly",
+      "near-parks",
       "luxury"
     ],
-    "stars": 4,
-    "rating": 8.8,
-    "reviewCount": 1450,
-    "priceFrom": 165,
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 610,
+    "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/pousada-de-tavira-convento-da-graca.html",
-    "petFee": 25,
-    "petPolicy": "Pousada Convento de Tavira accepts 1 dog per room, maximum 15 kg, for EUR 25 per pet per night. Pets must be declared at booking. Historic 4-star Pousada housed in the former 16th-century Convento da Graça in central Tavira, with outdoor pool and cloister courtyard. Please confirm with the property when booking.",
-    "address": "Rua Dr. Antonio Cabreira, 8800-379 Tavira",
-    "neighborhood": "Centro Histórico",
-    "slug": "pousada-convento-de-tavira",
+    "bookingUrl": "https://www.booking.com/hotel/pt/pousada-de-tavira-convento-da-graca.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Pousada Convento de Tavira welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "Pet-friendly with verified Booking.com policy",
-      "Pet fee €25 as listed on Booking",
-      "4-star comfort"
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "tavira-10",
+    "slug": "casa-da-avenida-1-centro-private-terrace",
+    "name": "Casa da Avenida 1 - Centro - Private Terrace",
+    "destinationSlug": "tavira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 17,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/casa-da-avenida-1-centro-private-terrace.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Casa da Avenida 1 - Centro - Private Terrace welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Airport shuttle"
+    ]
+  },
+  {
+    "id": "tavira-11",
+    "slug": "ozadi-tavira-hotel",
+    "name": "OZADI Tavira Hotel",
+    "destinationSlug": "tavira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 3822,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/ozadi-tavira.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "OZADI Tavira Hotel welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "2 swimming pools",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "tavira-12",
+    "slug": "casa-do-convento",
+    "name": "Casa do Convento",
+    "destinationSlug": "tavira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 8.9,
+    "reviewCount": 29,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/casa-do-convento-tavira1.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Casa do Convento welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "2 swimming pools",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "tavira-2",
+    "slug": "palacio-de-tavira-a-small-luxury-hotel-of-the-world",
+    "name": "Palácio de Tavira, a Small Luxury Hotel of the World",
+    "destinationSlug": "tavira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "luxury"
+    ],
+    "stars": 5,
+    "rating": 9,
+    "reviewCount": 129,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/palacio-de-tavira.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Palácio de Tavira, a Small Luxury Hotel of the World welcomes dogs and cats. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "2 swimming pools",
+      "Free WiFi",
+      "Spa & wellness centre"
+    ]
+  },
+  {
+    "id": "tavira-3",
+    "slug": "taste-tavira-by-annick-fully-equipped-apartment-tastefully-decorated-perfect-location-and-free-parkingric-center-of-the-city-of-tavira",
+    "name": "Taste Tavira (by Annick) fully equipped apartment, tastefully decorated, perfect location and free parkingric center of the city of Tavira.",
+    "destinationSlug": "tavira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.6,
+    "reviewCount": 65,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/taste-tavira-by-annick-fully-equipped-apartment-tastefully-decorated-perfect-loc.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Taste Tavira (by Annick) fully equipped apartment, tastefully decorated, perfect location and free parkingric center of the city of Tavira. welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free parking",
+      "Fast free WiFi (91 Mbps)",
+      "Family rooms"
+    ]
+  },
+  {
+    "id": "tavira-4",
+    "slug": "casa-da-avenida-2-centro-terraco-privado",
+    "name": "Casa da Avenida 2 - Centro - Terraço Privado",
+    "destinationSlug": "tavira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9.7,
+    "reviewCount": 35,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/casa-da-avenida-2-centro-terraco-privado.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Casa da Avenida 2 - Centro - Terraço Privado welcomes dogs and cats. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Free WiFi",
+      "Airport shuttle",
+      "BBQ facilities"
     ]
   },
   {
     "id": "tavira-5",
-    "name": "Quinta do Caracol",
+    "slug": "ap-maria-nova-lounge-adults-friendly",
+    "name": "AP Maria Nova Lounge - Adults Friendly",
     "destinationSlug": "tavira",
     "categories": [
       "dog-friendly",
-      "boutique",
-      "dogs-stay-free"
+      "cat-friendly",
+      "near-parks",
+      "luxury"
     ],
-    "stars": 3,
-    "rating": 9,
-    "reviewCount": 380,
+    "stars": 5,
+    "rating": 8.4,
+    "reviewCount": 3364,
     "priceFrom": 120,
     "currency": "EUR",
-    "bookingUrl": "https://www.booking.com/hotel/pt/quinta-do-caracol.html",
+    "bookingUrl": "https://www.booking.com/hotel/pt/porta-nova.en-gb.html",
     "petFee": 0,
-    "petPolicy": "Quinta do Caracol accepts dogs of any size for no additional fee. Cats are not allowed. Reservation must mention the pet in advance. Charming 17th-century manor house with garden, outdoor pool and tennis court, a 10-minute walk from Tavira's old town. Please confirm with the property when booking.",
-    "address": "Sítio de São Pedro, 8800-405 Tavira",
-    "neighborhood": "São Pedro",
-    "slug": "quinta-do-caracol",
+    "petPolicy": "AP Maria Nova Lounge - Adults Friendly welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
     "highlights": [
-      "Pet-friendly with verified Booking.com policy",
-      "Free pet stay",
-      "3-star comfort"
+      "3 swimming pools",
+      "Private parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "tavira-6",
+    "slug": "believe-in-dream-apart-contemporaneo-com-piscina",
+    "name": "Believe in Dream Apart. Contemporâneo com Piscina",
+    "destinationSlug": "tavira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.3,
+    "reviewCount": 22,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/believe-in-dream.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Believe in Dream Apart. Contemporâneo com Piscina welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
+    ]
+  },
+  {
+    "id": "tavira-7",
+    "slug": "marcelino-apartment",
+    "name": "Marcelino Apartment",
+    "destinationSlug": "tavira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.5,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/marcelino-apartment.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Marcelino Apartment welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Parking",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "tavira-8",
+    "slug": "casa-castelo-unique-flat-w-pool-in-taviras-historical-centre",
+    "name": "Casa Castelo, Unique Flat w pool in Taviras Historical Centre",
+    "destinationSlug": "tavira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly"
+    ],
+    "stars": 4,
+    "rating": 9,
+    "reviewCount": 30,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/tavira-historical-center-casa-castelo.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Casa Castelo, Unique Flat w pool in Taviras Historical Centre welcomes dogs and cats. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Indoor swimming pool",
+      "Free WiFi",
+      "Non-smoking rooms"
+    ]
+  },
+  {
+    "id": "tavira-9",
+    "slug": "architect-luxury-ancient-villa-triplex-ba",
+    "name": "Architect Luxury Ancient Villa Triplex BA",
+    "destinationSlug": "tavira",
+    "categories": [
+      "dog-friendly",
+      "cat-friendly",
+      "near-parks"
+    ],
+    "stars": 4,
+    "rating": 9.2,
+    "reviewCount": 500,
+    "priceFrom": 120,
+    "currency": "EUR",
+    "bookingUrl": "https://www.booking.com/hotel/pt/architect-luxury-ancient-villa-triplex.en-gb.html",
+    "petFee": 0,
+    "petPolicy": "Architect Luxury Ancient Villa Triplex BA welcomes dogs and cats. It sits near green space for walks. Confirm the exact pet policy and any fee on Booking.com when you book.",
+    "highlights": [
+      "Outdoor swimming pool",
+      "Free parking",
+      "Free WiFi"
     ]
   },
   {

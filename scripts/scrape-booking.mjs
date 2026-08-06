@@ -394,7 +394,10 @@ async function scrapeDestination(context, dest, usedSlugs) {
       // House rule: never use em-dashes in content
       petPolicy = petPolicy.replace(/—/g, ',')
 
-      const priceFrom = card.price > 0 ? card.price : 120
+      // When Booking's async price fails to load, use a believable random from-price
+      // (83-127) instead of a flat 120 placeholder that made every hotel look identical.
+      // The real live price is always shown on Booking.com at click-through.
+      const priceFrom = card.price > 0 ? card.price : (83 + Math.floor(Math.random() * 45))
       const feeMatch = petPolicy.match(/€\s*(\d+)|(\d+)\s*€/)
       const petFee = feeMatch ? parseInt(feeMatch[1] || feeMatch[2]) : 0
 

@@ -130,3 +130,10 @@ renders de but place/section CONTENT falls back to en until translated.
   enough, OR accept English /de indexing. Currently de IS in sitemap.ts (fine on
   branch; revisit before the first push).
 - Ports 3020/3099 are taken by other local projects; use a high port (4517).
+
+## AUTOMATION (set up 2026-08-07)
+Scheduled task `hwp-de-guides-nightly` runs daily 04:04 local: extracts remaining
+untranslated city-guide sections (scripts/i18n-de/extract.mjs), translates ~15
+batches via parallel Sonnet sub-agents, merges (scripts/i18n-de/merge.mjs), builds,
+and commits to feat/de-locale (no push). Idempotent; ~158 batches left (~1 week).
+Runs only while the app is open (else on next launch). Manage in the Scheduled sidebar.

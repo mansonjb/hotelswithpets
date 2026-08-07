@@ -227,7 +227,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Uetliberg+Z%C3%BCrich",
           "descriptionPt": "O Uetliberg é a montanha-mãe de Zurique: uma colina arborizada de 871 metros mesmo à beira da cidade, alcançada pelo comboio S10 a partir da Hauptbahnhof em 20 minutos. Para os cães, é o melhor passeio da cidade: quilómetros de trilhos florestais por bosques de faia e abeto, uma plataforma panorâmica no cume com vistas sobre toda a cordilheira dos Alpes e o trilho Planetenweg (Caminho dos Planetas) que desce pela floresta até Felsenegg. Os cães podem andar sem trela na maioria dos trilhos florestais.",
           "offLeashAreaPt": "A maioria dos trilhos florestais. Os cães têm de andar com trela na plataforma panorâmica do cume e junto às zonas residenciais",
-          "tipPt": "Apanhe o S10 até à estação de Uetliberg (no topo). Depois percorra o Planetenweg até Felsenegg e regresse no teleférico, um circuito perfeito"
+          "tipPt": "Apanhe o S10 até à estação de Uetliberg (no topo). Depois percorra o Planetenweg até Felsenegg e regresse no teleférico, um circuito perfeito",
+          "descriptionDe": "Der Uetliberg ist Zürichs Hausberg: ein 871 Meter hoher, bewaldeter Hügel direkt am Stadtrand, mit dem S10-Zug in 20 Minuten vom Hauptbahnhof erreichbar. Für Hunde ist er der schönste Ausflug der Stadt: kilometerlange Waldwege durch Buchen- und Fichtenwald, eine Panoramaplattform auf dem Gipfel mit Blick über das gesamte Alpenpanorama und der Planetenweg, der durch den Wald hinab nach Felsenegg führt. Auf den meisten Waldwegen können Hunde frei laufen.",
+          "offLeashAreaDe": "Die meisten Waldwege. Auf der Gipfelaussichtsplattform und in der Nähe von Wohngebieten müssen Hunde an der Leine geführt werden",
+          "tipDe": "Nehmen Sie die S10 bis zur Station Uetliberg (Gipfel). Gehen Sie dann den Planetenweg hinunter nach Felsenegg und fahren Sie mit der Seilbahn zurück, eine perfekte Rundtour"
         },
         {
           "name": "Zürichsee Promenade & Parks",
@@ -247,7 +250,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Z%C3%BCrichsee+Promenade",
           "descriptionPt": "A promenade do Zürichsee (lago de Zurique) estende-se por quilómetros ao longo de ambas as margens, com vários grandes parques à beira do lago (Parque Zürichhorn, Arboreto, Mythenquai) que são excelentes para passear cães. Os cães têm de andar com trela no caminho principal da promenade, mas podem andar sem trela em zonas designadas dentro dos parques. A água do lago é excecionalmente limpa e há pontos de banho acessíveis a cães afastados das principais praias balneares.",
           "offLeashAreaPt": "Zonas designadas dentro do Parque Zürichhorn e do Arboreto. Com trela no caminho principal da promenade",
-          "tipPt": "O Parque Zürichhorn, na margem leste, tem as melhores zonas para cães e é mais sossegado do que a promenade ocidental"
+          "tipPt": "O Parque Zürichhorn, na margem leste, tem as melhores zonas para cães e é mais sossegado do que a promenade ocidental",
+          "descriptionDe": "Die Uferpromenade des Zürichsees erstreckt sich kilometerweit an beiden Ufern, mit mehreren großen Seeparks (Zürichhorn Park, Arboretum, Mythenquai), die sich hervorragend zum Gassigehen mit Hund eignen. Auf der Hauptpromenade müssen Hunde an der Leine geführt werden, können jedoch in ausgewiesenen Bereichen innerhalb der Parks frei laufen. Das Seewasser ist außerordentlich sauber, und abseits der Hauptbadestrände gibt es für Hunde zugängliche Schwimmstellen.",
+          "offLeashAreaDe": "Ausgewiesene Bereiche im Zürichhorn Park und im Arboretum. Auf der Hauptpromenade Leinenpflicht",
+          "tipDe": "Der Zürichhorn Park am Ostufer verfügt über die besten Hundebereiche und ist ruhiger als die Westpromenade"
         },
         {
           "name": "Sihlwald & Sihltal",
@@ -267,7 +273,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Sihlwald+Z%C3%BCrich",
           "descriptionPt": "O Sihlwald é uma floresta primitiva protegida no vale do rio Sihl, a cerca de 30 minutos do centro de Zurique de S-Bahn (S4). É um dos melhores exemplos de floresta de planície protegida da Suíça e um passeio espetacular para cães. As margens do rio Sihl são acessíveis por todo o vale, e os cães podem correr livremente na maioria dos trilhos florestais. O centro de visitantes do Wildnispark Zürich dá boa informação sobre as regras de acesso de cães na reserva.",
           "offLeashAreaPt": "A maioria dos trilhos florestais do Sihlwald. Os cães têm de andar com trela nas zonas designadas de proteção da natureza, verifique a sinalização",
-          "tipPt": "Apanhe o S4 até à estação de Sihlwald. A floresta começa mesmo à saída da estação, sem necessidade de carro"
+          "tipPt": "Apanhe o S4 até à estação de Sihlwald. A floresta começa mesmo à saída da estação, sem necessidade de carro",
+          "descriptionDe": "Der Sihlwald ist ein geschützter Urwald im Sihltal, etwa 30 Minuten vom Zentrum Zürichs mit der S-Bahn (S4) entfernt. Er ist eines der schönsten Beispiele geschützten Tieflandwalds in der Schweiz und ein herausragender Ausflug mit Hund. Die Ufer der Sihl sind im gesamten Tal zugänglich, und Hunde können auf den meisten Waldwegen frei laufen. Das Besucherzentrum Wildnispark Zürich liefert gute Informationen zu den Hunderichtlinien im Schutzgebiet.",
+          "offLeashAreaDe": "Die meisten Waldwege im Sihlwald. In ausgewiesenen Naturschutzzonen müssen Hunde an der Leine geführt werden, Beschilderung beachten",
+          "tipDe": "Nehmen Sie die S4 bis zur Station Sihlwald. Der Wald beginnt direkt an der Station, kein Auto nötig"
         }
       ],
       "tipsEn": [
@@ -350,6 +359,22 @@
         {
           "q": "Como vou ao Uetliberg com o meu cão?",
           "a": "Apanhe o comboio S10 da Hauptbahnhof de Zurique até à estação de Uetliberg (cerca de 20 minutos). O S10 segue as regras da ZVV, os cães numa caixa de transporte viajam grátis; os cães maiores precisam de um bilhete de meia tarifa e têm de usar açaime. Fonte: zvv.ch"
+        }
+      ],
+      "titleDe": "Hundeparks & Spaziergänge in Zürich",
+      "introDe": "Zürich verfügt über ein gutes Angebot an Parks und Grünflächen für Hunde. Die Uferpromenade des Zürichsees, das Sihltal, der Uetliberg und mehrere große Stadtparks bieten allesamt ausgezeichnete Spaziergangsmöglichkeiten. In den meisten großen Parks gibt es Freilaufbereiche, doch die Schweizer Vorschriften zur Hundekontrolle im öffentlichen Raum werden durchgesetzt, prüfen Sie stets die Beschilderung.",
+      "faqsDe": [
+        {
+          "q": "Wo dürfen Hunde in Zürich ohne Leine laufen?",
+          "a": "Ausgewiesene Freilaufbereiche gibt es in mehreren Zürcher Parks sowie in den Wäldern Uetliberg und Sihlwald. Die Stadtverwaltung für Grünflächen (Grün Stadt Zürich) veröffentlicht eine Online-Karte der ausgewiesenen Hundebereiche. Auf der Hauptseepromenade und den meisten öffentlichen Straßen gilt Leinenpflicht."
+        },
+        {
+          "q": "Ist der Zürichsee für Hunde zum Schwimmen zugänglich?",
+          "a": "Ja, abseits der Hauptbadestrände. An den Haupt-Seebädern sind Hunde während der Sommersaison nicht zugelassen. An ruhigeren Uferabschnitten beider Seiten gibt es für Hunde zugängliche Wasserstellen. Prüfen Sie stets die aktuelle Beschilderung."
+        },
+        {
+          "q": "Wie komme ich mit meinem Hund zum Uetliberg?",
+          "a": "Nehmen Sie den S10-Zug vom Zürcher Hauptbahnhof bis zur Station Uetliberg (etwa 20 Minuten). Für die S10 gelten die ZVV-Regeln: Hunde in einer Transportbox fahren kostenlos; größere Hunde benötigen ein Halbtaxticket und müssen einen Maulkorb tragen. Quelle: zvv.ch"
         }
       ]
     },
@@ -608,6 +633,22 @@
         {
           "q": "Posso apanhar um barco do lago com o meu cão no Zürichsee?",
           "a": "Sim. Os barcos do lago da ZVV no Zürichsee aceitam cães segundo as regras normais da ZVV: numa caixa de transporte, grátis; cães maiores, bilhete de meia tarifa + açaime. Um circuito completo do lago ou uma viagem até Rapperswil é uma das melhores atividades dog-friendly a partir de Zurique."
+        }
+      ],
+      "titleDe": "Hundefreundliche Seen & Badestellen bei Zürich",
+      "introDe": "Zürichs größter natürlicher Schatz ist der Zürichsee sowie die umliegenden Alpenseen, die innerhalb von 1–2 Stunden mit Auto oder Zug erreichbar sind. Das Seewasser ist außerordentlich sauber, und die Bademöglichkeiten sind ausgezeichnet. Allerdings sind Hunde von Mai bis September an den meisten Hauptbadestränden (Badis) verboten, die Schweizer setzen diese Regel konsequent durch. Hundefreundliche Badestellen gibt es an ruhigeren Uferabschnitten. Im Winter haben Hunde oft deutlich mehr Zugang.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde im Zürichsee schwimmen?",
+          "a": "Ja, aber nicht an den Hauptbadestränden. Von Mai bis September sind Hunde in den Badis (offiziellen Badeanstalten) verboten. An ruhigeren Abschnitten beider Ufer, insbesondere der östlichen Seepromenade, gibt es für Hunde zugängliche Wasserstellen. Im Winter verbessert sich der Zugang deutlich."
+        },
+        {
+          "q": "Welcher See bei Zürich ist am hundefreundlichsten?",
+          "a": "Der Türlersee südlich von Zürich ist der durchgehend hundefreundlichste See der Region. Auch der Greifensee ist gut geeignet. Beide sind mit öffentlichen Verkehrsmitteln oder dem Auto innerhalb von 30 Minuten erreichbar."
+        },
+        {
+          "q": "Kann ich mit meinem Hund ein Kursschiff auf dem Zürichsee nehmen?",
+          "a": "Ja. Auf den ZVV-Kursschiffen des Zürichsees sind Hunde gemäß den ZVV-Standardregeln zugelassen: in einer Transportbox kostenlos; größere Hunde benötigen ein Halbtaxticket und einen Maulkorb. Eine vollständige Seerundfahrt oder ein Ausflug nach Rapperswil gehört zu den besten hundefreundlichen Aktivitäten ab Zürich."
         }
       ]
     },

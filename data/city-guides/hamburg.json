@@ -203,7 +203,11 @@
           "descriptionPt": "O parque popular central de Hamburgo, com 148 hectares, concebido na década de 1910. Tem duas Hundeauslaufzonen, uma grande junto ao Planetário e outra mais pequena vedada a sul, além de largos relvados onde os cães com trela são bem-vindos. Concertos ao ar livre no verão na Freilichtbühne; os cães são admitidos com trela fora do horário dos concertos.",
           "petPolicyPt": "Trela obrigatória; duas zonas vedadas sem trela",
           "facilitiesPt": "Duas Hundeauslaufzonen, dispensadores de sacos, cafés, casas de banho públicas",
-          "tipPt": "A Hundeauslaufzone norte, junto ao Planetário, tem mais sombra e é mais tranquila do que a do sul, preferida pelos locais com cães ansiosos."
+          "tipPt": "A Hundeauslaufzone norte, junto ao Planetário, tem mais sombra e é mais tranquila do que a do sul, preferida pelos locais com cães ansiosos.",
+          "descriptionDe": "Hamburgs zentraler, 148 Hektar großer Volkspark wurde in den 1910er-Jahren angelegt. Er verfügt über zwei Hundeauslaufzonen, eine große in der Nähe des Planetariums und eine kleinere eingezäunte im Süden, sowie weite Wiesen, auf denen angeleinte Hunde willkommen sind. Im Sommer finden an der Freilichtbühne Open-Air-Konzerte statt; außerhalb der Konzertzeiten sind Hunde an der Leine zugelassen.",
+          "petPolicyDe": "Leinenpflicht; zwei eingezäunte Freilaufzonen",
+          "facilitiesDe": "Zwei Hundeauslaufzonen, Kotbeutelspender, Cafés, öffentliche Toiletten",
+          "tipDe": "Die nördliche Hundeauslaufzone in der Nähe des Planetariums liegt im Schatten und ist ruhiger als die südliche, bevorzugt von Einheimischen mit ängstlichen Hunden."
         },
         {
           "name": "Außenalster",
@@ -229,7 +233,11 @@
           "descriptionPt": "O lago emblemático do centro de Hamburgo, uma extensão de 164 hectares rodeada por um trilho de 7 km com trela, o passeio indiscutível do fim de semana da cidade. Várias secções de relvado Hund-erlaubt designadas (Schwanenwik, Fährdamm) e uma pequena Hundeauslaufzone na margem nordeste, perto de Winterhude.",
           "petPolicyPt": "Com trela em todos os 7 km; secções de relvado específicas e uma zona vedada",
           "facilitiesPt": "Bancos, cafés, clubes de remo, pontos de água no verão",
-          "tipPt": "Comece no Kennedybrücke e caminhe no sentido dos ponteiros do relógio; os primeiros 3 km, por Schwanenwik, têm as melhores opções de paragem em relvado e vários cafés pet-friendly."
+          "tipPt": "Comece no Kennedybrücke e caminhe no sentido dos ponteiros do relógio; os primeiros 3 km, por Schwanenwik, têm as melhores opções de paragem em relvado e vários cafés pet-friendly.",
+          "descriptionDe": "Hamburgs berühmter innerstädtischer See ist eine 164 Hektar große Wasserfläche, umgeben von einem 7 km langen Weg mit Leinenpflicht, der als unbestrittene Wochenendpromenade der Stadt gilt. Mehrere ausgewiesene Wiesenabschnitte, in denen Hunde erlaubt sind (Schwanenwik, Fährdamm), sowie eine kleine Hundeauslaufzone am nordöstlichen Ufer bei Winterhude.",
+          "petPolicyDe": "Leinenpflicht auf den vollen 7 km; bestimmte Wiesenabschnitte und eine eingezäunte Zone",
+          "facilitiesDe": "Bänke, Cafés, Ruderclubs, Wasserzapfstellen im Sommer",
+          "tipDe": "Starten Sie an der Kennedybrücke und gehen Sie im Uhrzeigersinn: Die ersten 3 km über Schwanenwik bieten die besten Wiesenstopps und mehrere hundefreundliche Cafés."
         },
         {
           "name": "Altonaer Volkspark",
@@ -255,7 +263,11 @@
           "descriptionPt": "Com 205 hectares, é o maior parque público de Hamburgo: floresta, prados, uma roseira e três grandes Hundeauslaufzonen vedadas fazem dele o principal destino da cidade para correrias sem trela. Extensos trilhos arborizados; muitas vezes mais tranquilo do que o Stadtpark central.",
           "petPolicyPt": "Trela obrigatória; três zonas vedadas sem trela",
           "facilitiesPt": "Três Hundeauslaufzonen, roseira, café, prados para piquenique",
-          "tipPt": "Estacione perto da entrada do Waldfriedhof para o acesso mais rápido à maior Hundeauslaufzone; aos sábados de manhã há encontros organizados de socialização canina."
+          "tipPt": "Estacione perto da entrada do Waldfriedhof para o acesso mais rápido à maior Hundeauslaufzone; aos sábados de manhã há encontros organizados de socialização canina.",
+          "descriptionDe": "Mit 205 Hektar ist er Hamburgs größter öffentlicher Park: Wälder, Wiesen, ein Rosengarten und drei große eingezäunte Hundeauslaufzonen machen ihn zum besten Ziel der Stadt für freien Auslauf. Ausgedehnte Waldwege; oft ruhiger als der zentrale Stadtpark.",
+          "petPolicyDe": "Leinenpflicht; drei eingezäunte Freilaufzonen",
+          "facilitiesDe": "Drei Hundeauslaufzonen, Rosengarten, Café, Picknickwiesen",
+          "tipDe": "Parken Sie in der Nähe des Eingangs Waldfriedhof für den schnellsten Zugang zur größten Hundeauslaufzone; samstagvormittags finden organisierte Treffen zur Hundesozialisierung statt."
         }
       ],
       "tipsEn": [
@@ -334,6 +346,22 @@
         {
           "q": "Posso nadar com o meu cão no Alster?",
           "a": "O banho é proibido tanto a pessoas como a cães no Binnenalster e no Außenalster. O Öjendorfer See, em Billstedt, tem uma Hundestrand (praia canina) dentro da cidade."
+        }
+      ],
+      "titleDe": "Hundeparks & Grünflächen in Hamburg",
+      "introDe": "Hamburg ist Deutschlands grünste Großstadt: Über 14 % der Fläche bestehen aus Parks und öffentlichen Gärten, mit der Außenalster als Herzstück und 56 ausgewiesenen Hundeauslaufzonen (eingezäunte Freilaufflächen), verteilt über die 104 Stadtteile. Der Stadtpark und der Altonaer Volkspark sind die beiden größten Ziele, und die meisten Wege entlang der Alster haben Abschnitte, in denen Hunde erlaubt sind.",
+      "faqsDe": [
+        {
+          "q": "Wo dürfen Hunde in Hamburg ohne Leine laufen?",
+          "a": "In den 56 offiziellen Hundeauslaufzonen, gelistet auf hamburg.de. Die größten liegen im Altonaer Volkspark, im Stadtpark, im Niendorfer Gehege und im Öjendorfer Park."
+        },
+        {
+          "q": "Sind Hunde in Planten un Blomen erlaubt?",
+          "a": "Ja, angeleinte Hunde sind im Park willkommen, jedoch nicht im Japanischen Garten, im tropischen Gewächshaus oder in den Spielplatzbereichen."
+        },
+        {
+          "q": "Darf mein Hund in der Alster schwimmen?",
+          "a": "Baden ist sowohl für Menschen als auch für Hunde in der Binnenalster und der Außenalster verboten. Der Öjendorfer See in Billstedt verfügt über einen ausgewiesenen Hundestrand innerhalb der Stadt."
         }
       ]
     },
@@ -468,7 +496,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Elbstrand+Oevelgoenne+Hamburg",
           "descriptionPt": "A icónica praia urbana de areia de Hamburgo, que se estende por 3 km ao longo do Elba, com vistas plenas do porto de contentores. Os cães são permitidos sem trela na secção oeste (depois do café Strandperle) de 1 de outubro a 30 de abril, e com trela o ano inteiro, uma das praias para cães mais fotografadas da Alemanha.",
           "petPolicyPt": "Sem trela na secção oeste de out a abr; com trela o ano inteiro",
-          "tipPt": "A partir do café Strandperle, caminhe cerca de 800 m para oeste para chegar à zona sem trela designada; a secção leste junto a Teufelsbrück é só com trela e mais concorrida."
+          "tipPt": "A partir do café Strandperle, caminhe cerca de 800 m para oeste para chegar à zona sem trela designada; a secção leste junto a Teufelsbrück é só com trela e mais concorrida.",
+          "descriptionDe": "Hamburgs berühmter Sandstrand mitten in der Stadt erstreckt sich 3 km entlang der Elbe mit freiem Blick auf den Containerhafen. Vom 1. Oktober bis 30. April sind Hunde im westlichen Abschnitt (hinter dem Café Strandperle) ohne Leine erlaubt, ganzjährig an der Leine, einer der meistfotografierten Hundestrände Deutschlands.",
+          "petPolicyDe": "Ohne Leine im Westabschnitt Okt.–Apr.; ganzjährig Leinenpflicht",
+          "tipDe": "Gehen Sie vom Café Strandperle etwa 800 m Richtung Westen, um die ausgewiesene Freilauffläche zu erreichen; der östliche Abschnitt bei Teufelsbrück gilt nur mit Leine und ist belebter."
         },
         {
           "name": "Hundestrand Öjendorfer See",
@@ -489,7 +520,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hundestrand+Oejendorfer+See+Hamburg",
           "descriptionPt": "A única Hundestrand (praia canina) dentro da cidade de Hamburgo, no lado leste do lago Öjendorfer See. Os cães podem nadar sem trela o ano inteiro na zona designada; a margem do lago, com 160 hectares em redor, tem caminhos adicionais Hund-erlaubt.",
           "petPolicyPt": "Zona de banho sem trela o ano inteiro",
-          "tipPt": "Nos fins de semana de verão podem juntar-se mais de 50 cães na pequena praia; chegue antes das 10:00 ou depois das 18:00 para um banho mais tranquilo."
+          "tipPt": "Nos fins de semana de verão podem juntar-se mais de 50 cães na pequena praia; chegue antes das 10:00 ou depois das 18:00 para um banho mais tranquilo.",
+          "descriptionDe": "Hamburgs einziger innerstädtischer Hundestrand am östlich gelegenen Öjendorfer See. Hunde können in der ausgewiesenen Zone ganzjährig ohne Leine schwimmen; das umliegende, 160 Hektar große Seeufer bietet zusätzliche Wege, auf denen Hunde erlaubt sind.",
+          "petPolicyDe": "Ganzjährig Freilauf-Schwimmzone",
+          "tipDe": "An Sommerwochenenden tummeln sich schon mal über 50 Hunde am kleinen Strand; kommen Sie vor 10:00 oder nach 18:00 Uhr für ruhigeres Schwimmen."
         },
         {
           "name": "Falkensteiner Ufer",
@@ -510,7 +544,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Falkensteiner+Ufer+Hamburg",
           "descriptionPt": "Uma praia mais selvagem do Elba na extremidade mais a oeste de Hamburgo, ao pé das encostas arborizadas do Falkensteiner Wald. Mais tranquila do que Övelgönne, com cães com trela permitidos o ano inteiro e uma zona sem trela designada de 1 de outubro a 30 de abril; aqui os grandes navios passam perto da margem.",
           "petPolicyPt": "Com trela o ano inteiro; zona sem trela de out a abr",
-          "tipPt": "Estacione no parque de estacionamento do Falkensteiner Ufer e desça 5 min a pé; o caminho é arenoso, mas transitável. Combine com um circuito pela floresta do Falkensteiner Wald para uma excursão de 2 horas."
+          "tipPt": "Estacione no parque de estacionamento do Falkensteiner Ufer e desça 5 min a pé; o caminho é arenoso, mas transitável. Combine com um circuito pela floresta do Falkensteiner Wald para uma excursão de 2 horas.",
+          "descriptionDe": "Ein wilderer Elbstrand am westlichsten Rand Hamburgs, unterhalb der bewaldeten Hänge des Falkensteiner Waldes. Ruhiger als Övelgönne, ganzjährig mit Leinenpflicht und einer ausgewiesenen Freilaufzone vom 1. Oktober bis 30. April; große Schiffe passieren hier nah am Ufer.",
+          "petPolicyDe": "Ganzjährig Leinenpflicht; Freilaufzone Okt.–Apr.",
+          "tipDe": "Parken Sie am Parkplatz Falkensteiner Ufer und gehen Sie 5 Minuten hinunter; der Weg ist sandig, aber gut begehbar. Kombinieren Sie den Besuch mit einer Runde durch den Falkensteiner Wald für einen zweistündigen Ausflug."
         }
       ],
       "tipsEn": [
@@ -589,6 +626,22 @@
         {
           "q": "A que distância fica a praia de mar real mais próxima?",
           "a": "St. Peter-Ording, no mar do Norte, fica a 170 km (1h45 de carro); a sua Hundestrand em Böhl é a maior praia para cães da Alemanha. Timmendorfer Strand, no Báltico, fica a 80 km (1 h de carro)."
+        }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Hamburg",
+      "introDe": "Hamburg liegt 100 km von der Nordsee entfernt, verfügt aber über mehrere ausgezeichnete hundefreundliche Sandstrände entlang der Elbe sowie über ausgewiesene Hundestrand-Zonen an Seen innerhalb der Stadt. Der Elbstrand bei Övelgönne und Blankenese ist der bekannteste Stadtstrand Deutschlands; Hunde sind außerhalb der markierten Badesaison ohne Leine willkommen.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund an den Hamburger Stadtstränden in der Elbe schwimmen?",
+          "a": "Die Elbströmung ist stark, und Schwimmen wird offiziell nicht empfohlen. Die meisten Hunde plantschen nur am Rand; der ruhigere Öjendorfer See ist innerhalb der Stadt die sicherere Option."
+        },
+        {
+          "q": "Ist der Elbstrand ganzjährig ohne Leine nutzbar?",
+          "a": "Nein, im gesamten Elbstrand-Bereich gilt vom 1. Mai bis 30. September Leinenpflicht. Vom 1. Oktober bis 30. April dürfen Hunde im ausgewiesenen westlichen Abschnitt ohne Leine laufen."
+        },
+        {
+          "q": "Wie weit ist der nächste echte Meeresstrand entfernt?",
+          "a": "St. Peter-Ording an der Nordsee liegt 170 km entfernt (1 Std. 45 Min. mit dem Auto); der dortige Hundestrand am Böhl ist der größte Deutschlands. Der Timmendorfer Strand an der Ostsee liegt 80 km entfernt (1 Std. Fahrt)."
         }
       ]
     },

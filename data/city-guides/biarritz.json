@@ -197,7 +197,10 @@
             "Bancos",
             "Localização central"
           ],
-          "bestTimeToVisitPt": "Início da manhã (07:00–09:00) para a experiência mais tranquila"
+          "bestTimeToVisitPt": "Início da manhã (07:00–09:00) para a experiência mais tranquila",
+          "descriptionDe": "Der zentrale Park von Biarritz ist eine wirklich angenehme Grünfläche mit schattigen Wegen, einem Entenweiher und genug Abwechslung im Gelände, um einen Hund für einen ordentlichen Spaziergang bei Laune zu halten. Hunde müssen überall an der Leine geführt werden, aber die Wege sind breit, und der Park wirkt außerhalb des Sommers selten überlaufen. Er dient den Einwohnern von Biarritz mit Hund als Ziel für den morgendlichen Spaziergang im Viertel, was ihm eine gesellige, entspannte Atmosphäre verleiht. Die hohen Platanen spenden im Sommer Schatten, der in dieser sonnenexponierten Stadt selten ist. Eine gute Ausgangsbasis für eine Runde: hier starten, zum Plateau de l'Atalaye laufen und durch den Park zurückkehren.",
+          "leashRulesDe": "Überall Leinenpflicht",
+          "bestTimeToVisitDe": "Früher Morgen (07:00–09:00 Uhr) für das ruhigste Erlebnis"
         },
         {
           "name": "Plateau de l'Atalaye",
@@ -241,7 +244,10 @@
             "Liga ao Rocher de la Vierge",
             "Salpicos do mar"
           ],
-          "bestTimeToVisitPt": "Ao fim da tarde pela luz; nos dias de tempestade pelo dramatismo"
+          "bestTimeToVisitPt": "Ao fim da tarde pela luz; nos dias de tempestade pelo dramatismo",
+          "descriptionDe": "Das Plateau de l'Atalaye ist ein Spaziergang über eine Klippenlandzunge, der Port-Vieux mit dem Aussichtspunkt Rocher de la Vierge verbindet. Es ist wohl der schönste kurze Spaziergang in Biarritz, nie mehr als zwanzig Minuten von Anfang bis Ende, aber vollgepackt mit Atlantikblicken, Meeresgischt und der Art von wilder Küstenlandschaft, die Hunde stark an der Leine ziehen lässt. Der Weg verläuft am Klippenrand entlang mit Blick hinunter auf die felsige Küste und hinaus aufs Meer. An klaren Tagen sieht man die spanische Küste und im Winter die verschneiten Pyrenäen. Wegen der Klippenränder müssen Hunde an der Leine geführt werden, aber der breite, gut gepflegte Weg macht den Spaziergang für Hunde jeder Größe angenehm.",
+          "leashRulesDe": "Leinenpflicht, durchgehend Klippenränder",
+          "bestTimeToVisitDe": "Später Nachmittag für das Licht; stürmische Tage für die Dramatik"
         },
         {
           "name": "Parc du Moulin de Bassilour (Bidart)",
@@ -285,7 +291,10 @@
             "Zonas relvadas abertas",
             "Moinho de referência"
           ],
-          "bestTimeToVisitPt": "De manhã ou ao serão, o caminho costeiro aquece com o sol do meio-dia"
+          "bestTimeToVisitPt": "De manhã ou ao serão, o caminho costeiro aquece com o sol do meio-dia",
+          "descriptionDe": "Fünf Minuten südlich von Biarritz auf der D911 hat das Dorf Bidart einen sanfteren, grüneren Charakter als sein berühmter Nachbar. Die Spazierwege rund um die Mühle von Bassilour und die Landzunge oberhalb des Plage d'Erretegia bieten die beste Kombination aus Meerblick, offener Wiesenfläche und Schatten an der südlichen Küste von Biarritz. Hierher kommen Einheimische mit Hund, wenn sie einen längeren Spaziergang als in den Stadtparks möchten. Der GR-Küstenwanderweg führt hier entlang, sodass Sie den Spaziergang nach Norden Richtung Biarritz oder nach Süden Richtung Guéthary verlängern können. In Wohngebieten gilt Leinenpflicht, es gibt aber offene Abschnitte, in denen Hunde frei laufen können.",
+          "leashRulesDe": "Leinenpflicht in Wohngebieten; offene Abschnitte erlauben mehr Freiheit",
+          "bestTimeToVisitDe": "Morgens oder abends, der Küstenweg wird in der Mittagssonne warm"
         },
         {
           "name": "Promenade du Bord de Mer",
@@ -329,11 +338,17 @@
             "Acesso a várias praias",
             "Percurso linear de 3 km"
           ],
-          "bestTimeToVisitPt": "Ao nascer do sol ou à hora dourada para a melhor luz e menos gente"
+          "bestTimeToVisitPt": "Ao nascer do sol ou à hora dourada para a melhor luz e menos gente",
+          "descriptionDe": "Die Uferpromenade, die von der Grande Plage nach Süden bis zum Strand Côte des Basques verläuft, ist das Rückgrat des täglichen Lebens in Biarritz. Hundehalter, Jogger und Radfahrer teilen sich den breiten Weg, der sich am Klippenrand entlangzieht und den Blick auf den Atlantik freigibt. Der Weg führt vorbei am Casino, den Hotels, den Gezeitentümpeln und den Treppen hinunter zu den Stränden. Es gilt durchgehend Leinenpflicht, aber die Breite des Weges und die stete Meeresbrise machen ihn zu einem der angenehmsten städtischen Hundespaziergänge in Frankreich. Eine vollständige Runde vom Hôtel du Palais zum Aussichtspunkt Côte des Basques und zurück beträgt etwa 3 km.",
+          "leashRulesDe": "Auf der gesamten Promenade Leinenpflicht",
+          "bestTimeToVisitDe": "Sonnenaufgang oder goldene Stunde für das beste Licht und die wenigsten Menschen"
         }
       ],
       "titlePt": "Parques e passeios para cães em Biarritz",
-      "introPt": "Biarritz é compacta mas extraordinariamente bem talhada para cães. Os caminhos da falésia, os promontórios, as promenades voltadas para o Atlântico e os espaços verdes pelo meio oferecem uma variedade de experiências de passeio que poucas vilas costeiras francesas conseguem igualar. O interior basco começa logo para terra dentro, conduza dez minutos e dá por si em trilhos florestais e caminhos de montanha. Mas dentro da própria vila há mais do que suficiente para um cão que precisa de exercício e estímulo diários. Dois espaços verdes destacam-se: o Parc Mazon, o parque central, é perfeito para brincadeira sem trela de manhã (nas zonas designadas) e descanso à sombra; o Plateau de l'Atalaye, um passeio no alto da falésia com vistas para sul até aos Pirenéus espanhóis nos dias limpos, é um dos melhores passeios curtos do País Basco. Ambos são com trela na maioria das zonas, mas ambos são genuinamente acolhedores para cães."
+      "introPt": "Biarritz é compacta mas extraordinariamente bem talhada para cães. Os caminhos da falésia, os promontórios, as promenades voltadas para o Atlântico e os espaços verdes pelo meio oferecem uma variedade de experiências de passeio que poucas vilas costeiras francesas conseguem igualar. O interior basco começa logo para terra dentro, conduza dez minutos e dá por si em trilhos florestais e caminhos de montanha. Mas dentro da própria vila há mais do que suficiente para um cão que precisa de exercício e estímulo diários. Dois espaços verdes destacam-se: o Parc Mazon, o parque central, é perfeito para brincadeira sem trela de manhã (nas zonas designadas) e descanso à sombra; o Plateau de l'Atalaye, um passeio no alto da falésia com vistas para sul até aos Pirenéus espanhóis nos dias limpos, é um dos melhores passeios curtos do País Basco. Ambos são com trela na maioria das zonas, mas ambos são genuinamente acolhedores para cães.",
+      "titleDe": "Hundefreundliche Parks & Spaziergänge in Biarritz",
+      "introDe": "Biarritz ist kompakt, aber außerordentlich gut für Hunde geeignet. Die Klippenwege, die Landzungen, die zum Atlantik hin ausgerichteten Promenaden und die dazwischenliegenden Grünflächen bieten eine Vielfalt an Spaziergangsmöglichkeiten, mit der nur wenige französische Küstenstädte mithalten können. Das baskische Hinterland beginnt unmittelbar im Landesinneren, zehn Minuten Fahrt und Sie sind auf Waldwegen und Bergpfaden. Aber auch innerhalb der Stadt selbst gibt es mehr als genug für einen Hund, der täglich Bewegung und Abwechslung braucht. Zwei Grünflächen stechen hervor: Der Parc Mazon, der zentrale Park, eignet sich perfekt für morgendliches Freilaufspiel (in ausgewiesenen Bereichen) und schattige Ruhepausen; das Plateau de l'Atalaye, ein Klippenspaziergang mit Blick nach Süden zu den spanischen Pyrenäen an klaren Tagen, ist einer der schönsten kurzen Spaziergänge im Baskenland. Beide erfordern in den meisten Bereichen Leinenpflicht, sind aber beide wirklich hundefreundlich.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Biarritz with a Dog",

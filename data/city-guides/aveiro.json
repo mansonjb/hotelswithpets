@@ -207,7 +207,9 @@
             "Bancos para os donos",
             "Iluminação"
           ],
-          "tipPt": "Fica mesmo junto à linha do comboio; apresente os cães nervosos com calma, pois os comboios em passagem podem ser barulhentos."
+          "tipPt": "Fica mesmo junto à linha do comboio; apresente os cães nervosos com calma, pois os comboios em passagem podem ser barulhentos.",
+          "descriptionDe": "Aveiros erster Hundepark, eröffnet 2019 im Osten der Stadt neben der Sporthalle Galitos. Vollständig eingezäunt mit Sanitärbox, einem Bereich für Halter, öffentlicher Beleuchtung und Agility-Geräten: Treppen, Sprunghindernisse, ein Brett und ein Tunnel. Der ursprüngliche Freilaufplatz der Stadt.",
+          "tipDe": "Er liegt direkt an der Bahnlinie; gewöhnen Sie ängstliche Hunde behutsam daran, da vorbeifahrende Züge laut sein können."
         },
         {
           "name": "Parque Canino do Canal de São Roque (Poente)",
@@ -253,7 +255,9 @@
             "Bancos para os donos",
             "Iluminação"
           ],
-          "tipPt": "Combine-o com um passeio junto ao canal de São Roque, um dos mais bonitos e sossegados da cidade."
+          "tipPt": "Combine-o com um passeio junto ao canal de São Roque, um dos mais bonitos e sossegados da cidade.",
+          "descriptionDe": "Der neueste der drei städtischen Hundeparks von Aveiro, im Westen an der Brücke des Canal de São Roque gelegen, gegenüber dem Gemeindezentrum Vera Cruz. Eine jüngere städtische Investition mit Sicherheitszaun, Sanitärbox, Sitzgelegenheiten für Halter, Beleuchtung und einem vollständigen Satz an Agility-Elementen: Treppen, Sprunghindernisse, Brett und Tunnel.",
+          "tipDe": "Kombinieren Sie den Besuch mit einem Spaziergang entlang des São-Roque-Kanals, einem der schönsten und ruhigsten der Stadt."
         },
         {
           "name": "Parque Infante D. Pedro (Parque da Cidade)",
@@ -299,7 +303,9 @@
             "Zonas de piquenique",
             "Casas de banho"
           ],
-          "tipPt": "Trela obrigatória em todo o parque; para exercício sem trela use antes um dos três parques caninos vedados."
+          "tipPt": "Trela obrigatória em todo o parque; para exercício sem trela use antes um dos três parques caninos vedados.",
+          "descriptionDe": "Aveiros zentraler Stadtpark, angelegt ab 1862 auf dem Gelände eines ehemaligen Klosters und mit rund 20 Hektar die größte zusammenhängende Grünfläche im Zentrum. Baumgesäumte Alleen, ein spätjugendstilzeitlicher gusseiserner Musikpavillon, Seen, ein Teehaus und Picknickbereiche. Hunde an der Leine willkommen für einen schattigen Stadtspaziergang.",
+          "tipDe": "Leinenpflicht besteht durchgehend; für Freilaufbewegung nutzen Sie stattdessen einen der drei eingezäunten Hundeparks."
         }
       ],
       "tipsEn": [
@@ -362,6 +368,18 @@
         {
           "q": "Os cães são permitidos no Parque Infante D. Pedro?",
           "a": "Sim, com trela. É o maior espaço verde central, ideal para um passeio sombreado na cidade; para tempo sem trela use um dos parques caninos."
+        }
+      ],
+      "titleDe": "Die besten Parks & Hundebereiche in Aveiro",
+      "introDe": "Aveiro ist für eine Kleinstadt ungewöhnlich gut ausgestattet: Die Gemeinde betreibt drei eingezäunte Hundeparks (parques caninos), einen im Osten bei Forca-Vouga, einen im Norden im Parque Aventura da Fonte do Meio und einen im Westen am Canal de São Roque, jeweils mit sicherer Umzäunung, Agility-Geräten, Wasser und Sitzgelegenheiten. Für einen allgemeinen Spaziergang im Grünen ist der 20 Hektar große Parque Infante D. Pedro (Parque da Cidade) die größte Grünfläche im Zentrum, mit schattigen Alleen und einem historischen Musikpavillon. Außerhalb der eingezäunten Hundeparks gilt Leinenpflicht, und räumen Sie stets hinter Ihrem Hund auf.",
+      "faqsDe": [
+        {
+          "q": "Wo kann mein Hund in Aveiro ohne Leine laufen?",
+          "a": "Aveiro verfügt über drei eingezäunte städtische Hundeparks: Forca-Vouga (Osten), Parque Aventura da Fonte do Meio (Norden) und Canal de São Roque (Westen), jeweils mit sicherer Umzäunung und Agility-Geräten."
+        },
+        {
+          "q": "Sind Hunde im Parque Infante D. Pedro erlaubt?",
+          "a": "Ja, an der Leine. Es ist die größte zentrale Grünfläche, ideal für einen schattigen Stadtspaziergang; für Freilaufzeit nutzen Sie einen der Hundeparks."
         }
       ]
     },
@@ -541,7 +559,10 @@
             "Areal aberto",
             "Comodidades limitadas"
           ],
-          "tipPt": "O surf pode ser forte aqui; mantenha os cães fora de água com ondulação grande e leia sempre a sinalização à entrada antes de deixar um cão no areal."
+          "tipPt": "O surf pode ser forte aqui; mantenha os cães fora de água com ondulação grande e leia sempre a sinalização à entrada antes de deixar um cão no areal.",
+          "descriptionDe": "Ein nicht-konzessionierter Atlantikstrand nördlich von Aveiro, umgeben von Dünen und Kiefernwald, mit kräftiger Brandung und einer Fischereitradition. Als nicht-konzessionierter Strand sind Hunde hier in der Regel ganzjährig erlaubt, auch während der Badesaison, sofern die Beschilderung nichts anderes vorschreibt. Die beste Wahl in der Nähe von Aveiro für einen Hundestrand-Tag im Sommer.",
+          "seasonalRestrictionsDe": "Nicht-konzessionierter Strand: Hunde in der Regel ganzjährig erlaubt, sofern die Beschilderung vor Ort nichts anderes vorschreibt",
+          "tipDe": "Die Brandung kann hier stark sein; halten Sie Hunde bei starkem Wellengang aus dem Wasser fern und lesen Sie stets die Beschilderung am Eingang, bevor Sie einen Hund auf den Sand lassen."
         },
         {
           "name": "Costa Nova & Praia da Barra (off-season)",
@@ -585,7 +606,10 @@
             "Cafés e restaurantes",
             "Vistas para a ria"
           ],
-          "tipPt": "Visite com um cão na primavera ou no outono; em julho e agosto aplica-se a proibição da época balnear, por isso use antes Cortegaça ou os parques caninos."
+          "tipPt": "Visite com um cão na primavera ou no outono; em julho e agosto aplica-se a proibição da época balnear, por isso use antes Cortegaça ou os parques caninos.",
+          "descriptionDe": "Aveiros bekannteste Strände, geprägt von den zuckerstangenartig gestreiften palheiros von Costa Nova. Als konzessionierte Blue-Flag-Strände sind Hunde während der sommerlichen Badesaison in der Regel nicht erlaubt, außerhalb der Saison jedoch willkommen, und Ílhavo überwacht diese Strände an Wochenenden im Frühling und Herbst. Ein wunderschöner Hundespaziergang außerhalb der Saison entlang der bemalten Häuser und der Lagune.",
+          "seasonalRestrictionsDe": "Konzessionierte Blue-Flag-Strände: Hunde während der sommerlichen Badesaison in der Regel verboten, außerhalb der Saison erlaubt",
+          "tipDe": "Besuchen Sie diese Strände mit Hund im Frühling oder Herbst; im Juli und August gilt das Badesaisonverbot, nutzen Sie dann stattdessen Cortegaça oder die Hundeparks."
         },
         {
           "name": "Praia das Dunas de São Jacinto",
@@ -629,7 +653,10 @@
             "Apoio de praia",
             "Acesso de ferry"
           ],
-          "tipPt": "Mantenha o seu cão com trela a toda a hora e fique-se pela zona de recreio; a reserva integral é interdita e os cães à solta podem desencadear encerramentos."
+          "tipPt": "Mantenha o seu cão com trela a toda a hora e fique-se pela zona de recreio; a reserva integral é interdita e os cães à solta podem desencadear encerramentos.",
+          "descriptionDe": "Ein wilder, ausgedehnter Atlantikstrand am Rand des Naturreservats der São-Jacinto-Dünen, erreichbar per Fähre über die Lagune. Die Erholungszone verfügt über Strandinfrastruktur und Einrichtungen, doch das Reservat ist streng geschützt, mit einer großen Kernzone, die für die Öffentlichkeit gesperrt ist. Hunde müssen angeleint bleiben; freilaufende Hunde sind ein genannter Grund, aus dem das Reservat geschlossen werden kann.",
+          "seasonalRestrictionsDe": "Geschütztes Naturreservat: Hunde nur an der Leine, Sperrzonen geschlossen; aktuellen Reservatsstatus prüfen",
+          "tipDe": "Halten Sie Ihren Hund jederzeit angeleint und bleiben Sie in der Erholungszone; die Kernzone des Reservats ist gesperrt, und freilaufende Hunde können Schließungen auslösen."
         }
       ],
       "tipsEn": [
@@ -692,6 +719,18 @@
         {
           "q": "Os cães são permitidos na Costa Nova?",
           "a": "Fora de época, sim. Na época balnear de verão os cães são em geral proibidos, pois a Costa Nova é uma praia concessionada com Bandeira Azul. A primavera e o outono são as alturas para visitar com um cão."
+        }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Aveiro",
+      "introDe": "Aveiro liegt an der Lagune Ria de Aveiro, mit Atlantikstränden in kurzer Fahrentfernung. Die berühmten Strände mit den gestreiften Häusern von Costa Nova und Praia da Barra (in der Nachbargemeinde Ílhavo) sind konzessionierte Blue-Flag-Strände, an denen Hunde während der sommerlichen Badesaison in der Regel verboten sind, außerhalb der Saison und an den überwachten Wochenenden im Frühling und Herbst jedoch willkommen sind. Für ganzjährigen Hundezugang fahren Sie zu nicht-konzessionierten Stränden wie der Praia de Cortegaça im Norden, wo Hunde erlaubt sind, sofern keine Beschilderung etwas anderes angibt. Die Dünen von São Jacinto sind ein geschütztes Naturreservat, dort müssen Hunde daher angeleint bleiben und dürfen die Sperrzonen nicht betreten. Prüfen Sie stets die Beschilderung am jeweiligen Strandeingang.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund im Sommer an den Strand bei Aveiro mitnehmen?",
+          "a": "Ja, wählen Sie aber einen nicht-konzessionierten Strand wie die Praia de Cortegaça, an dem Hunde in der Regel ganzjährig erlaubt sind. Konzessionierte Blue-Flag-Strände wie Costa Nova und Barra verbieten Hunde während der sommerlichen Badesaison."
+        },
+        {
+          "q": "Sind Hunde in Costa Nova erlaubt?",
+          "a": "Außerhalb der Saison ja. Während der sommerlichen Badesaison sind Hunde in der Regel verboten, da Costa Nova ein konzessionierter Blue-Flag-Strand ist. Frühling und Herbst sind die richtigen Zeiten für einen Besuch mit Hund."
         }
       ]
     },

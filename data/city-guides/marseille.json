@@ -203,7 +203,11 @@
           "descriptionPt": "O parque canino mais acessível para os visitantes do centro da cidade: uma zona canina dedicada de 6.000 m² acessível apenas pela entrada do Métro 5 Avenues. Bem mantido, com bancos para os donos.",
           "petPolicyPt": "Zona canina dedicada de 6.000 m² sem trela, entrada só pela porta do Métro 5 Avenues",
           "mustTryPt": "Sessão matinal antes das 9h, a zona canina mantém-se calma e sombreada",
-          "tipPt": "Só a entrada do Métro 5 Avenues dá acesso à zona canina, as restantes entradas do parque não aceitam cães."
+          "tipPt": "Só a entrada do Métro 5 Avenues dá acesso à zona canina, as restantes entradas do parque não aceitam cães.",
+          "descriptionDe": "Der am besten erreichbare Hundepark für Besucher im Stadtzentrum: eine eigene 6.000 m² große Hundezone, die nur vom Eingang Métro 5 Avenues aus zugänglich ist. Gut gepflegt, mit Bänken für Besitzer.",
+          "petPolicyDe": "Eigener 6.000 m² großer Freilaufbereich für Hunde, Zugang nur über den Eingang Métro 5 Avenues",
+          "mustTryDe": "Morgendlicher Besuch vor 9 Uhr, der Hundebereich ist ruhig und schattig",
+          "tipDe": "Nur der Eingang Métro 5 Avenues führt zur Hundezone, andere Parkeingänge erlauben keine Hunde."
         },
         {
           "name": "Parc Pastré, Upper Section",
@@ -255,7 +259,11 @@
           "descriptionPt": "Uma combinação rara em Marselha: um canisite vedado de 15 m² (para brincar sem trela) junto a uma área aberta de passeio de cães de 3.000 m². Menos conhecido e, por isso, menos concorrido do que o Longchamp.",
           "petPolicyPt": "Canisite vedado + área canina aberta de 3.000 m²",
           "mustTryPt": "Socialização ao início da manhã no canisite vedado",
-          "tipPt": "Situado no 12.º arrondissement, fácil de combinar com o início de um trilho das Calanques a partir de Luminy (autocarro 21 a partir de Castellane)."
+          "tipPt": "Situado no 12.º arrondissement, fácil de combinar com o início de um trilho das Calanques a partir de Luminy (autocarro 21 a partir de Castellane).",
+          "descriptionDe": "Eine seltene Kombination in Marseille: eine 15 m² große eingezäunte Canisite (für Freilauf) direkt neben einem 3.000 m² großen offenen Hundeauslaufbereich. Weniger bekannt und daher weniger überlaufen als Longchamp.",
+          "petPolicyDe": "Eingezäunte Canisite + 3.000 m² offener Hundebereich",
+          "mustTryDe": "Frühmorgendliche Sozialisierung in der eingezäunten Canisite",
+          "tipDe": "Liegt im 12. Arrondissement, lässt sich gut mit einer Wanderung zu einem Calanques-Ausgangspunkt ab Luminy kombinieren (Bus 21 ab Castellane)."
         }
       ],
       "tipsEn": [
@@ -334,6 +342,22 @@
         {
           "q": "Os cães podem entrar no Parc Borely, em Marselha?",
           "a": "O Parc Borely tem acesso restrito a cães, os cães com trela são permitidos em algumas áreas, mas os jardins principais e o roseiral são zonas sem animais. Verifique a sinalização atual à chegada."
+        }
+      ],
+      "titleDe": "Hundefreundliche Parks in Marseille",
+      "introDe": "Die meisten Parks in Marseille verbieten Hunde oder beschränken den Zugang auf ausgewiesene Bereiche mit Leinenpflicht. Die Ausnahme bildet der Parc Longchamp mit einem großen eigenen Hundebereich, sowie der Parc Pastré, der im oberen Bereich jenseits des Kanals Freilauf erlaubt. Prüfen Sie bei Ankunft immer die Beschilderung.",
+      "faqsDe": [
+        {
+          "q": "Wo darf mein Hund in Marseille ohne Leine laufen?",
+          "a": "Der Parc Longchamp (6.000 m² große Hundezone, Eingang Métro 5 Avenues), der obere Bereich des Parc Pastré (jenseits des Kanals) und die Colline Saint-Joseph bieten alle legale Freilaufbereiche."
+        },
+        {
+          "q": "Sind Hunde in allen Parks von Marseille erlaubt?",
+          "a": "Nein, die meisten Parks in Marseille verbieten Hunde vollständig oder beschränken sie auf Leinenpflicht in bestimmten Zonen. Achten Sie an den Eingängen immer auf das Schild „Espace Canin“, bevor Sie hineingehen."
+        },
+        {
+          "q": "Dürfen Hunde in den Parc Borely in Marseille?",
+          "a": "Der Parc Borely hat einen eingeschränkten Hundezugang, Hunde an der Leine sind in manchen Bereichen erlaubt, aber die Hauptgärten und der Rosengarten sind hundefrei. Prüfen Sie bei Ankunft die aktuelle Beschilderung."
         }
       ]
     },
@@ -588,6 +612,22 @@
         {
           "q": "Como chego às ilhas Frioul com o meu cão?",
           "a": "Apanhe o ferry RTMN a partir do Vieux-Port (10 € ida e volta por pessoa, cães gratuitos). Partidas mais ou menos de hora a hora a partir das 09:00. Os cães têm de andar com trela no convés."
+        }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Marseille",
+      "introDe": "Die Stadtstrände von Marseille verbieten Hunde von Juni bis September. Die beste Alternative sind die Îles du Frioul, 10 Strände, die mit Hund an der Leine per Boot vom Vieux-Port aus erreichbar sind. Der Nationalpark Calanques erlaubt ebenfalls Hunde an der Leine auf Wanderwegen zu mehreren Buchten.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund im Sommer in Marseille an den Strand?",
+          "a": "Die Stadtstrände verbieten Hunde von Juni bis September. Die Îles du Frioul (10 Minuten mit dem Boot vom Vieux-Port) erlauben Hunde an der Leine ganzjährig an allen Stränden und sind die beste Sommeroption."
+        },
+        {
+          "q": "Sind Hunde in den Calanques erlaubt?",
+          "a": "Ja, jederzeit an der Leine. Hunde dürfen auch in den Calanques schwimmen, wenn sie an einer langen Leine geführt werden. Prüfen Sie vor einer Wanderung im Sommer die Website des Parks auf saisonale Sperrungen."
+        },
+        {
+          "q": "Wie komme ich mit meinem Hund zu den Frioul-Inseln?",
+          "a": "Nehmen Sie die RTMN-Fähre vom Vieux-Port (10 € Hin- und Rückfahrt pro Person, Hunde kostenlos). Abfahrten etwa stündlich ab 9:00 Uhr. Hunde müssen an Deck an der Leine sein."
         }
       ]
     },

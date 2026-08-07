@@ -227,7 +227,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parco+Sempione+Milano",
           "descriptionPt": "O parque mais central e famoso de Milão, em redor do Castelo Sforzesco, cobre 47 hectares de relvados, trilhos e um lago central. Os cães são bem-vindos com trela em todo o parque e existem aree cani designadas onde a brincadeira sem trela é permitida. O parque é um preferido dos donos de cães milaneses e, em qualquer manhã, vai ver dezenas de cães. Vários quiosques de café dentro do parque recebem cães nas suas esplanadas exteriores.",
           "offLeashAreaPt": "Várias aree cani designadas. Procure as zonas vedadas e sinalizadas dentro do parque.",
-          "tipPt": "Vá cedo nas manhãs de dias úteis, antes das 8h é mágico. O parque enche depressa a partir das 9h aos fins de semana."
+          "tipPt": "Vá cedo nas manhãs de dias úteis, antes das 8h é mágico. O parque enche depressa a partir das 9h aos fins de semana.",
+          "descriptionDe": "Mailands zentralster und berühmtester Park rund um das Castello Sforzesco, auf 47 Hektar mit Rasenflächen, Wegen und einem zentralen See. Hunde sind überall an der Leine willkommen, und es gibt ausgewiesene Aree Cani, in denen Freilauf erlaubt ist. Der Park ist bei Mailänder Hundebesitzern sehr beliebt, an jedem Morgen sieht man Dutzende Hunde. Mehrere Café-Kioske im Park heißen Hunde auf ihren Außenterrassen willkommen.",
+          "offLeashAreaDe": "Mehrere ausgewiesene Aree Cani. Achten Sie auf beschilderte, eingezäunte Bereiche im Park.",
+          "tipDe": "Gehen Sie werktags früh morgens hin, vor 8 Uhr ist es magisch. Der Park füllt sich an Wochenenden ab 9 Uhr schnell."
         },
         {
           "name": "Parco Nord Milano",
@@ -247,7 +250,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parco+Nord+Milano",
           "descriptionPt": "Com 600 hectares, o Parco Nord é um dos maiores parques urbanos de Itália e a melhor opção na área de Milão para cães que precisam de espaço a sério. O parque tem várias aree cani, quilómetros de trilhos, prados abertos e zonas arborizadas. É o preferido da comunidade de donos de cães de Milão para as saídas de fim de semana. Vários cafés e quiosques pet-friendly situam-se dentro do parque.",
           "offLeashAreaPt": "Várias aree cani designadas por todo o parque. Extensa rede de trilhos para passear com trela.",
-          "tipPt": "Apanhe o metro (M3 ou M5) até à orla norte da cidade e depois caminhe ou apanhe um curto trajeto de autocarro até à entrada do parque."
+          "tipPt": "Apanhe o metro (M3 ou M5) até à orla norte da cidade e depois caminhe ou apanhe um curto trajeto de autocarro até à entrada do parque.",
+          "descriptionDe": "Mit 600 Hektar ist der Parco Nord einer der größten Stadtparks Italiens und die beste Option im Raum Mailand für Hunde, die wirklich viel Platz brauchen. Der Park verfügt über mehrere Aree Cani, kilometerlange Wege, offene Wiesen und Waldgebiete. Er ist bei Mailands hundebesitzender Community für Wochenendausflüge sehr beliebt. Mehrere hundefreundliche Cafés und Kioske befinden sich im Park.",
+          "offLeashAreaDe": "Mehrere ausgewiesene Aree Cani im gesamten Park. Ausgedehntes Wegenetz für Spaziergänge an der Leine.",
+          "tipDe": "Nehmen Sie die Metro (M3 oder M5) bis an den nördlichen Stadtrand und gehen Sie dann zu Fuß oder mit einer kurzen Busfahrt zum Parkeingang."
         },
         {
           "name": "Giardini Pubblici Indro Montanelli",
@@ -267,7 +273,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Giardini+Pubblici+Indro+Montanelli+Milano",
           "descriptionPt": "Os Giardini Pubblici, o jardim público mais antigo de Milão (1784), situam-se no centro, entre Porta Venezia e Palestro, e são um espaço de passeio com trela genuinamente agradável. Há uma pequena zona canina designada, e os trilhos ladeados de árvores e o lago fazem dele uma pausa relaxante no meio da cidade. Situado mesmo ao lado da Villa Reale e do Museu de História Natural, ambos excelentes para passeios à volta dos seus perímetros.",
           "offLeashAreaPt": "Pequena area cani designada perto da entrada de Palestro.",
-          "tipPt": "Combine com uma visita aos bairros de Brera e Porta Venezia para comer ao ar livre. Os jardins ficam a uma curta caminhada de ambos."
+          "tipPt": "Combine com uma visita aos bairros de Brera e Porta Venezia para comer ao ar livre. Os jardins ficam a uma curta caminhada de ambos.",
+          "descriptionDe": "Die Giardini Pubblici, Mailands ältester öffentlicher Garten (1784), liegen zentral zwischen Porta Venezia und Palestro und sind ein wirklich angenehmer Ort für Spaziergänge an der Leine. Es gibt einen kleinen ausgewiesenen Hundebereich, und die baumgesäumten Wege sowie der Teich sorgen für eine entspannte Pause mitten in der Stadt. Direkt neben der Villa Reale und dem Naturkundemuseum gelegen, beide hervorragend für Hundespaziergänge rund um ihre Außenbereiche.",
+          "offLeashAreaDe": "Kleine ausgewiesene Area Cani in der Nähe des Eingangs Palestro.",
+          "tipDe": "Kombinieren Sie den Besuch mit den Vierteln Brera und Porta Venezia für Essen im Freien. Die Gärten sind von beiden nur einen kurzen Spaziergang entfernt."
         },
         {
           "name": "Navigli Canal Towpaths",
@@ -369,6 +378,22 @@
         {
           "q": "Posso passear o meu cão ao longo dos canais Navigli?",
           "a": "Sim. Os caminhos de sirga do Naviglio Grande e do Naviglio Pavese são excelentes para passeios com cão com trela de vários quilómetros. Melhor de manhã, antes de chegarem as multidões do aperitivo. Os cães são totalmente normais ao longo dos Navigli."
+        }
+      ],
+      "titleDe": "Hundeparks und Spaziergänge in Mailand",
+      "introDe": "Mailand verfügt über deutlich mehr öffentliche Parks, als sein Ruf vermuten lässt. Der Sempione, der Parco Nord und der Parco delle Cave sind allesamt hervorragend für Hunde geeignet, und die Stadt zählt Dutzende ausgewiesene Aree Cani (Freilaufzonen), die über ihre Parks verteilt sind. Auch die Treidelpfade entlang der Navigli-Kanäle bieten ausgezeichnete lineare Spazierrouten. Mailands Parks sind gepflegt, und Hundebesitzer sind zahlreich, Sie werden sich wie zu Hause fühlen.",
+      "faqsDe": [
+        {
+          "q": "Welcher Park ist am besten für Hunde in Mailand?",
+          "a": "Der Parco Nord ist der beste Park für Hunde, die wirklich viel Platz brauchen, 600 Hektar mit mehreren Aree Cani und ausgedehnten Wegen. Für etwas Zentraleres ist der Parco Sempione hervorragend gelegen, direkt beim Castello Sforzesco."
+        },
+        {
+          "q": "Gibt es Freilaufzonen für Hunde in Mailand?",
+          "a": "Ja. Mailand hat zahlreiche ausgewiesene Aree Cani (eingezäunte Freilaufzonen) in seinen Parks. Der Parco Sempione, der Parco Nord und die Giardini Pubblici verfügen alle über ausgewiesene Bereiche. Achten Sie auf beschilderte, eingezäunte Zonen innerhalb der Parks."
+        },
+        {
+          "q": "Darf ich meinen Hund entlang der Navigli-Kanäle ausführen?",
+          "a": "Ja. Die Treidelpfade des Naviglio Grande und des Naviglio Pavese eignen sich hervorragend für mehrere Kilometer lange Spaziergänge an der Leine. Am besten morgens, bevor die Aperitivo-Menge eintrifft. Hunde sind entlang der Navigli völlig normal."
         }
       ]
     },
@@ -589,6 +614,22 @@
         {
           "q": "O Lago de Como é pet-friendly?",
           "a": "Sim. As marginais de Bellagio, da cidade de Como e de Varenna são todas acessíveis com cães com trela. Algumas zonas da margem do lago deixam os cães aceder à água. O lago fica a 1 hora de comboio de Milano Centrale."
+        }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Mailand",
+      "introDe": "Mailand liegt im Landesinneren, etwa 100 km von der nächsten Meeresküste entfernt. Die ligurische Riviera (Genua, Rapallo, Sestri Levante) ist die nächstgelegene Küstenoption, mit dem Regionalzug in 1,5–2 Stunden erreichbar. Der Lago Maggiore und der Comer See, näher an Mailand gelegen, bieten hervorragende Süßwasser-Badeoptionen und hundezugängliche Seeufer als Alternative ohne Meer. Die Regeln für Hundestrände an der ligurischen Küste folgen dem gleichen italienischen Muster: ausgewiesene Abschnitte im Sommer, breiterer Zugang außerhalb von Juni bis September.",
+      "faqsDe": [
+        {
+          "q": "Gibt es hundefreundliche Strände in der Nähe von Mailand?",
+          "a": "Die nächstgelegenen Meeresstrände liegen an der ligurischen Küste (Rapallo, Sestri Levante, 1,5–2 Stunden mit dem Regionalzug). Beide verfügen über ausgewiesene Hundestrandabschnitte. Der Lago Maggiore (1 Stunde mit dem Zug) ist eine hervorragende Süßwasseralternative mit hundezugänglichen Seeufern."
+        },
+        {
+          "q": "Kann ich mit meinem Hund einen Tagesausflug zum Strand von Mailand aus machen?",
+          "a": "Ja. Rapallo oder Sestri Levante mit dem Regionalzug (jeweils 1,5–2 Stunden) eignen sich gut für einen Tagesausflug. Große Hunde reisen auf regionalen Trenitalia-Zügen mit einem zum halben Preis erworbenen Ticket, Maulkorb und Leine."
+        },
+        {
+          "q": "Ist der Comer See hundefreundlich?",
+          "a": "Ja. Die Uferpromenaden von Bellagio, der Stadt Como und Varenna sind alle mit Hund an der Leine zugänglich. An manchen Uferbereichen dürfen Hunde ins Wasser. Der See ist 1 Stunde mit dem Zug von Milano Centrale entfernt."
         }
       ]
     },

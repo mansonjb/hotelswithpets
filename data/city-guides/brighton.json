@@ -220,7 +220,9 @@
             "Vistas para o mar",
             "Casas de banho públicas"
           ],
-          "tipPt": "A relva em frente ao Hove Lawns Café é o ponto de encontro social: os habitantes locais juntam-se aí com os seus cães todas as tardes, entre as 17h00 e as 19h00."
+          "tipPt": "A relva em frente ao Hove Lawns Café é o ponto de encontro social: os habitantes locais juntam-se aí com os seus cães todas as tardes, entre as 17h00 e as 19h00.",
+          "descriptionDe": "Ein 1,2 km langer Streifen Rasen am Meer, der von der Statue Angel of Peace bis zur Fourth Avenue verläuft, der beliebteste Freilaufbereich der Stadt. Hunde laufen auf den Rasenflächen selbst frei, eine Leine ist nur auf der angrenzenden gepflasterten Promenade erforderlich. Der Strand direkt südlich des Cafés ist ebenfalls ganzjährig hundefreundlich, was dies zum verlässlichsten kombinierten Spaziergang in Brighton macht.",
+          "tipDe": "Der Rasen gegenüber dem Hove Lawns Café ist der soziale Treffpunkt, Einheimische treffen sich dort jeden Abend zwischen 17:00 und 19:00 Uhr mit ihren Hunden."
         },
         {
           "name": "Preston Park",
@@ -263,7 +265,9 @@
             "Estação de comboio ao lado",
             "Jardim de rocha murado"
           ],
-          "tipPt": "Apanha o comboio até à estação de Preston Park: fica na entrada leste, por isso poupas a subida desde o centro da cidade."
+          "tipPt": "Apanha o comboio até à estação de Preston Park: fica na entrada leste, por isso poupas a subida desde o centro da cidade.",
+          "descriptionDe": "Mit 26 Hektar der größte Stadtpark Brightons, mit weiten Rasenflächen, alten Bäumen und dem historischen Rockery-Garten auf der anderen Seite der London Road. Hunde dürfen auf den meisten offenen Rasenflächen ohne Leine laufen, mit einigen Einschränkungen rund um die Bowlingrasen, Tennisplätze und den Spielbereich. Das Rotunda Café bietet Wassernäpfe und Außentische für Hunde.",
+          "tipDe": "Nehmen Sie den Zug zum Bahnhof Preston Park, er liegt am östlichen Eingang, sodass Sie sich den Anstieg vom Stadtzentrum sparen."
         },
         {
           "name": "Stanmer Park",
@@ -306,7 +310,9 @@
             "Quinta em atividade (zonas com trela)",
             "Estacionamento gratuito"
           ],
-          "tipPt": "O autocarro 25 a partir de Old Steine vai diretamente à entrada do parque a cada 10 minutos: mais fácil do que ir de carro ao fim de semana, quando o estacionamento enche."
+          "tipPt": "O autocarro 25 a partir de Old Steine vai diretamente à entrada do parque a cada 10 minutos: mais fácil do que ir de carro ao fim de semana, quando o estacionamento enche.",
+          "descriptionDe": "Ein 200 Hektar großes Landgut am Rand des South Downs National Park, mit Wald, offenen Feldern und dem Dorf Stanmer. Hunde sind überall willkommen, auf den meisten Flächen des Parks ohne Leine, aber rund um den aktiven Bauernhof und die Weidezonen ist eine Leine erforderlich, die deutlich ausgeschildert sind. Der ambitionierteste Spaziergang in Brightons Hundepark-Netzwerk.",
+          "tipDe": "Der Bus 25 ab Old Steine fährt alle 10 Minuten direkt zum Parkeingang, einfacher als an Wochenenden mit dem Auto zu fahren, wenn die Parkplätze voll sind."
         }
       ],
       "tipsEn": [
@@ -385,6 +391,22 @@
         {
           "q": "Pode mi cão caminhar pelos trilhos dois South Downs a partir de Brighton?",
           "a": "Sí: Stanmer Park conecta directamente com o trilho de larga distancia South Downs Way. Mantén al cão com trela perto do ganado; sem trela va bien nas llanuras abiertas."
+        }
+      ],
+      "titleDe": "Die besten Hundeparks in Brighton",
+      "introDe": "Brighton & Hove verfügt über neun große Parks, die Hunde zulassen, sowie mehrere große offene Grünflächen, vom gepflegten Preston Park bis zu den bewaldeten Hängen von Stanmer. Die Freilaufregelung ist in den Grünflächen im Allgemeinen großzügig (sofern die Hunde unter Kontrolle bleiben), mit Einschränkungen nur rund um Kinderspielplätze, Sportplätze und Weidezonen für Weidetiere. Führen Sie immer Kotbeutel mit sich: Die Stadtverwaltung verhängt Bußgelder für Verunreinigungen.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich meinen Hund im Zentrum von Brighton ohne Leine laufen lassen?",
+          "a": "Hove Lawns ist die wichtigste zentrale Option (ganzjährig ohne Leine), Queen's Park verfügt über eigene Freilaufbereiche, und auf den Hauptrasenflächen des Preston Park sind Hunde ohne Leine erlaubt."
+        },
+        {
+          "q": "Gibt es umzäunte Hundeparks in Brighton?",
+          "a": "Brighton hat keine vollständig umzäunten städtischen Hundeparks. Freilauf ist standardmäßig in offenen Grünflächen erlaubt, unter der Bedingung, dass die Besitzer die Kontrolle behalten."
+        },
+        {
+          "q": "Kann mein Hund von Brighton aus auf den South-Downs-Wegen laufen?",
+          "a": "Ja, der Stanmer Park schließt direkt an den Fernwanderweg South Downs Way an. Halten Sie Ihren Hund in der Nähe von Weidetieren an der Leine; auf den offenen Downs ist Freilauf in Ordnung."
         }
       ]
     },
@@ -562,7 +584,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hove+Lawns+Cafe+beach",
           "descriptionPt": "A praia para cães mais fiável da cidade, em frente e logo a leste do Hove Lawns Café. Os cães são aceites durante todo o ano, mesmo durante a proibição estival que se aplica à maior parte do passeio marítimo central. Tem calhau em vez de areia, com um declive suave para o mar, e há taças de água disponíveis no exterior do café.",
           "petPolicyPt": "Sem trela todo o ano, incluindo de 1 de maio a 30 de setembro",
-          "tipPt": "Caminha para oeste em direção à lagoa: menos gente e o calhau fica mais pequeno, mais suave para as patas."
+          "tipPt": "Caminha para oeste em direção à lagoa: menos gente e o calhau fica mais pequeno, mais suave para as patas.",
+          "descriptionDe": "Der verlässlichste Hundestrand der Stadt, vor und direkt östlich des Hove Lawns Café. Hunde sind ganzjährig erlaubt, auch während des Sommerverbots, das für den größten Teil der zentralen Strandpromenade gilt. Kiesel statt Sand unter den Pfoten, mit einem sanften Gefälle ins Meer, Wassernäpfe sind am Café draußen verfügbar.",
+          "petPolicyDe": "Ganzjährig ohne Leine, auch vom 1. Mai bis 30. September",
+          "tipDe": "Gehen Sie Richtung Westen zur Lagune, dort sind weniger Leute unterwegs und die Kiesel werden kleiner und schonender für die Pfoten."
         },
         {
           "name": "Saltdean Beach",
@@ -583,7 +608,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Saltdean+Beach",
           "descriptionPt": "Uma ampla enseada de calhau no limite leste do concelho de Brighton & Hove, emoldurada por arribas de giz. Os cães são aceites durante todo o ano, com acesso sem trela tolerado quando a praia se encontra sossegada. Sujeita a marés: na maré baixa surge uma longa faixa plana de areia. O Undercliff Walk conduz de volta em direção à Brighton Marina, totalmente pet-friendly com trela.",
           "petPolicyPt": "Cães bem-vindos todo o ano; sem trela tolerado quando há pouca gente",
-          "tipPt": "Consulta a tabela das marés: na maré baixa podes regressar a pé até à Marina pelo Undercliff Walk em hora e meia."
+          "tipPt": "Consulta a tabela das marés: na maré baixa podes regressar a pé até à Marina pelo Undercliff Walk em hora e meia.",
+          "descriptionDe": "Eine breite Kieselbucht am östlichen Rand von Brighton & Hove, umrahmt von Kreidefelsen. Hunde sind ganzjährig willkommen, wobei Freilauf geduldet wird, wenn der Strand ruhig ist. Gezeitenabhängig: bei Ebbe entsteht ein langer, flacher Sandstreifen. Der Undercliff Walk führt zurück in Richtung Brighton Marina, durchgehend an der Leine hundefreundlich.",
+          "petPolicyDe": "Hunde ganzjährig willkommen; Freilauf geduldet, wenn ruhig",
+          "tipDe": "Prüfen Sie die Gezeitentabelle, bei Ebbe können Sie in 90 Minuten den ganzen Weg zurück zur Marina entlang des Undercliff Walk gehen."
         },
         {
           "name": "Brighton Central Beach (winter only)",
@@ -604,7 +632,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Brighton+seafront+beach",
           "descriptionPt": "De 1 de outubro a 30 de abril, toda a praia central de Brighton, calhau, casotas de praia e arcadas, abre aos cães sem trela. De 1 de maio a 30 de setembro, os cães não são admitidos neste troço a nenhuma hora. O passeio de inverno entre os dois molhes é uma das grandes experiências costeiras do Reino Unido com cão, com ondas a rebentar e quase ninguém em redor.",
           "petPolicyPt": "Sem trela de 1 out a 30 abr; proibido de 1 mai a 30 set",
-          "tipPt": "Outubro e abril são os melhores meses: acesso à praia sem a multidão do verão e sem proibição."
+          "tipPt": "Outubro e abril são os melhores meses: acesso à praia sem a multidão do verão e sem proibição.",
+          "descriptionDe": "Vom 1. Oktober bis 30. April öffnet sich der gesamte zentrale Strand Brightons, Kiesel, Strandhütten und Bögen, für Hunde ohne Leine. Vom 1. Mai bis 30. September sind Hunde auf diesem Abschnitt zu keiner Zeit erlaubt. Der Winterspaziergang zwischen den beiden Piers ist eines der großen britischen Strandvergnügen für Hunde, mit rollenden Wellen und kaum Andrang.",
+          "petPolicyDe": "Ohne Leine vom 1. Okt.–30. Apr.; verboten vom 1. Mai–30. Sep.",
+          "tipDe": "Oktober und April sind die idealen Monate, Strandzugang ohne Sommerandrang, kein Verbot."
         }
       ],
       "tipsEn": [
@@ -683,6 +714,22 @@
         {
           "q": "É a praia de Brighton pet-friendly en inverno?",
           "a": "Sí: todas as praias de Brighton & Hove admitem cães do 1 de outubro al 30 de abril, incluido o passeio marítimo central. O inverno é a melhor temporada para umas vacaciones costeras com cão en Brighton."
+        }
+      ],
+      "titleDe": "Hundefreundliche Strände in Brighton",
+      "introDe": "Brighton & Hove hat einen strengen Strandkalender: Hunde sind an jedem Strand vom 1. Oktober bis 30. April willkommen, und den Rest des Jahres an einer Liste ausgewiesener Strände. Führen Sie immer Kotbeutel mit sich und behalten Sie Ihren Hund unter enger Kontrolle, es gibt zu keiner Zeit ein Freilaufverbot, aber im Sommer patrouillieren Ordnungskräfte. Auf der gepflasterten Promenade selbst sind Hunde an der Leine zu führen.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich meinen Hund im Sommer an den Strand von Brighton mitnehmen?",
+          "a": "Hove Lawns Beach (vor und östlich des Cafés), Saltdean Beach, Rottingdean Beach und der eigene hundefreundliche Bereich beim Carats Café. Der zentrale Strand zwischen den beiden Piers ist vom 1. Mai bis 30. September für Hunde gesperrt."
+        },
+        {
+          "q": "Dürfen Hunde an den Stränden von Brighton ohne Leine laufen?",
+          "a": "Es gibt kein Freilaufverbot, Hunde können an hundefreundlichen Stränden das ganze Jahr über frei laufen. Die Leinenpflicht gilt nur auf der gepflasterten Promenade selbst."
+        },
+        {
+          "q": "Ist der Strand von Brighton im Winter hundefreundlich?",
+          "a": "Ja, jeder Strand von Brighton & Hove heißt Hunde vom 1. Oktober bis 30. April willkommen, einschließlich der zentralen Strandpromenade. Der Winter ist die beste Jahreszeit für einen Strandurlaub mit Hund in Brighton."
         }
       ]
     },

@@ -118,7 +118,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parc+de+sa+Riera+Palma",
           "descriptionPt": "O Parc de sa Riera é um longo corredor verde linear que atravessa o coração de Palma ao longo do leito canalizado do ribeiro de Sa Riera. É um dos percursos de passeio de cães mais utilizados da cidade, com caminhos à sombra, bancos e uma área designada de pipican sem trela na extremidade norte. Os habitantes locais trazem aqui os seus cães de manhã e ao fim do dia, todos os dias do ano.",
           "petPolicyPt": "Cães com trela; zona sem trela na extremidade norte",
-          "tipPt": "Use a área de pipican na extremidade norte para brincadeiras sem trela. Mantenha o seu cão com trela em todos os outros caminhos ou arrisca uma coima"
+          "tipPt": "Use a área de pipican na extremidade norte para brincadeiras sem trela. Mantenha o seu cão com trela em todos os outros caminhos ou arrisca uma coima",
+          "descriptionDe": "Der Parc de sa Riera ist ein langer, linearer Grünkorridor, der durch das Herz Palmas entlang des kanalisierten Flussbetts des Baches Sa Riera verläuft. Er ist eine der meistgenutzten Routen für Hundespaziergänge der Stadt, mit schattigen Wegen, Bänken und einem ausgewiesenen Pipican-Freilaufbereich am nördlichen Ende. Einheimische bringen ihre Hunde hierher, morgens und abends, das ganze Jahr über.",
+          "petPolicyDe": "Hunde an der Leine; Freilaufzone am nördlichen Ende",
+          "tipDe": "Nutzen Sie den Pipican-Bereich am nördlichen Ende für Freilauf. Halten Sie Ihren Hund auf allen anderen Wegen an der Leine, sonst riskieren Sie ein Bußgeld"
         },
         {
           "name": "Parc de Krekovic",
@@ -138,7 +141,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parc+de+Krekovic+Palma",
           "descriptionPt": "O Parc de Krekovic é um parque residencial tranquilo no bairro de Son Armadans, a uma curta caminhada do Castell de Bellver. Dispõe de um recinto canino vedado dedicado (pipican) que é genuinamente sem trela, o que faz dele um dos melhores parques urbanos de Palma para os cães socializarem à vontade. As ruas do bairro circundante são sossegadas e boas para passeios mais longos.",
           "petPolicyPt": "Trela obrigatória no parque; pipican vedado sem trela disponível",
-          "tipPt": "Combine com uma subida até ao Castell de Bellver, o recinto do castelo aceita cães e a vista sobre a baía é excecional"
+          "tipPt": "Combine com uma subida até ao Castell de Bellver, o recinto do castelo aceita cães e a vista sobre a baía é excecional",
+          "descriptionDe": "Der Parc de Krekovic ist ein ruhiger Wohnviertelpark im Stadtteil Son Armadans, nur einen kurzen Spaziergang vom Castell de Bellver entfernt. Er verfügt über einen eigenen umzäunten Hundeauslauf (Pipican), der wirklich freilauffähig ist, was ihn zu einem der besseren Stadtparks Palmas macht, in denen Hunde sich frei sozialisieren können. Die umliegenden Wohnstraßen sind ruhig und eignen sich gut für längere Spaziergänge.",
+          "petPolicyDe": "Leinenpflicht im Park; umzäunter Pipican-Freilaufbereich vorhanden",
+          "tipDe": "Kombinieren Sie den Besuch mit einem Spaziergang hinauf zum Castell de Bellver, das Burggelände ist hundefreundlich und der Blick auf die Bucht ist außergewöhnlich"
         },
         {
           "name": "Es Carnatge",
@@ -158,11 +164,17 @@
           "googleMapsUrl": "https://maps.google.com/?q=Es+Carnatge+Palma+de+Mallorca",
           "descriptionPt": "Es Carnatge é uma faixa costeira rochosa e selvagem a leste do aeroporto, oficialmente designada como praia para cães durante todo o ano e zona sem trela. É o local mais próximo do centro de Palma onde os cães podem correr livremente junto à água. O terreno é acidentado, com afloramentos rochosos, pinhal rasteiro e água turquesa cristalina, e a atmosfera é local e sem pretensões. No verão é a única praia perto de Palma onde os cães são legalmente permitidos.",
           "petPolicyPt": "Sem trela permitido, praia para cães designada durante todo o ano",
-          "tipPt": "Leve água para o seu cão, não há infraestruturas. O início da manhã é a melhor altura para evitar o calor do meio-dia no verão"
+          "tipPt": "Leve água para o seu cão, não há infraestruturas. O início da manhã é a melhor altura para evitar o calor do meio-dia no verão",
+          "descriptionDe": "Es Carnatge ist ein wilder, felsiger Küstenstreifen östlich des Flughafens, offiziell als ganzjähriger Hundestrand und Freilaufzone ausgewiesen. Es ist der nächstgelegene Ort zum Zentrum Palmas, an dem Hunde frei am Wasser entlanglaufen können. Das Gelände ist rau, mit felsigen Ausläufern, Pinienbewuchs und klarem türkisfarbenem Wasser, und die Atmosphäre ist lokal und unprätentiös. Im Sommer ist es der einzige Strand in der Nähe Palmas, an dem Hunde legal erlaubt sind.",
+          "petPolicyDe": "Freilauf erlaubt, ganzjährig ausgewiesener Hundestrand",
+          "tipDe": "Bringen Sie Wasser für Ihren Hund mit, es gibt keine Einrichtungen. Früh am Morgen ist im Sommer die beste Zeit, um der Mittagshitze zu entgehen"
         }
       ],
       "titlePt": "Parques Pet-Friendly em Palma de Maiorca",
-      "introPt": "Palma tem vários espaços verdes bem cuidados que são populares entre os donos de cães. A cidade aplica uma lei rigorosa de trela em todos os seus parques e ruas, só as áreas designadas de pipican (sem trela) estão isentas, e as coimas por infrações podem ser elevadas. A boa notícia é que o clima ameno faz com que estes parques sejam agradáveis durante todo o ano: um passeio matinal em janeiro em Palma raramente é suficientemente frio para exigir mais do que um casaco leve. A maioria dos parques é plana e fácil de percorrer com um cão. O caminho costeiro a sul da cidade, em Es Carnatge, é um favorito para corridas mais longas sem trela, esbatendo a fronteira entre parque e praia."
+      "introPt": "Palma tem vários espaços verdes bem cuidados que são populares entre os donos de cães. A cidade aplica uma lei rigorosa de trela em todos os seus parques e ruas, só as áreas designadas de pipican (sem trela) estão isentas, e as coimas por infrações podem ser elevadas. A boa notícia é que o clima ameno faz com que estes parques sejam agradáveis durante todo o ano: um passeio matinal em janeiro em Palma raramente é suficientemente frio para exigir mais do que um casaco leve. A maioria dos parques é plana e fácil de percorrer com um cão. O caminho costeiro a sul da cidade, em Es Carnatge, é um favorito para corridas mais longas sem trela, esbatendo a fronteira entre parque e praia.",
+      "titleDe": "Hundefreundliche Parks in Palma de Mallorca",
+      "introDe": "Palma verfügt über mehrere gepflegte Grünflächen, die bei Hundebesitzern beliebt sind. Die Stadt setzt in ihren Parks und Straßen eine strenge Leinenpflicht durch, nur ausgewiesene Pipican-Bereiche (Freilaufzonen) sind davon ausgenommen, und Bußgelder für Verstöße können hoch ausfallen. Die gute Nachricht ist, dass das milde Klima diese Parks das ganze Jahr über angenehm macht: Ein morgendlicher Spaziergang im Januar in Palma erfordert selten mehr als eine leichte Jacke. Die meisten Parks sind flach und mit einem Hund leicht zu begehen. Der Küstenweg südlich der Stadt bei Es Carnatge ist bei längeren Freilaufrunden beliebt und verwischt die Grenze zwischen Park und Strand.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Palma with Your Pet",
@@ -258,7 +270,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Es+Carnatge+Palma+de+Mallorca",
           "descriptionPt": "Es Carnatge é a principal praia para cães de Palma durante todo o ano, uma enseada rochosa e selvagem entre a cidade e o aeroporto, oficialmente designada para cães e seus donos em qualquer época do ano. Não se aplica aqui qualquer proibição de verão. O terreno é natural e intocado: afloramentos rochosos, pinhal rasteiro e água turquesa surpreendentemente cristalina. Os cães podem nadar à vontade e correr sem trela ao longo de toda a extensão da praia.",
           "petPolicyPt": "Cães permitidos durante todo o ano, sem trela. Sacos para dejetos obrigatórios",
-          "tipPt": "A água é pouco profunda e cristalina, ótima para cães que adoram nadar. Venha de manhã cedo, antes de o sol aquecer as rochas no verão"
+          "tipPt": "A água é pouco profunda e cristalina, ótima para cães que adoram nadar. Venha de manhã cedo, antes de o sol aquecer as rochas no verão",
+          "descriptionDe": "Es Carnatge ist Palmas wichtigster ganzjähriger Hundestrand, eine wilde felsige Bucht zwischen der Stadt und dem Flughafen, die offiziell zu jeder Jahreszeit für Hunde und ihre Besitzer ausgewiesen ist. Hier gilt kein Sommerverbot. Das Gelände ist natürlich und unberührt: felsige Ausläufer, Pinienbewuchs und auffallend klares türkisfarbenes Wasser. Hunde können frei schwimmen und ohne Leine die gesamte Länge des Strands entlanglaufen.",
+          "petPolicyDe": "Hunde ganzjährig erlaubt, ohne Leine. Kotbeutel erforderlich",
+          "tipDe": "Das Wasser ist flach und klar, ideal für Hunde, die gerne schwimmen. Kommen Sie im Sommer früh am Morgen, bevor die Sonne die Felsen aufheizt"
         },
         {
           "name": "Cala Gamba",
@@ -277,7 +292,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cala+Gamba+Mallorca",
           "descriptionPt": "Cala Gamba é uma pequena baía rochosa a leste do aeroporto de Palma, onde os cães são permitidos durante todo o ano. É um local frequentado por residentes, calmo e sem pretensões, com um pequeno cais, um punhado de restaurantes de marisco tradicionais por perto e estacionamento fácil. Menos espetacular do que Es Carnatge, mas agradável para um banho tranquilo de manhã com o seu cão quando as principais praias turísticas estão vedadas.",
           "petPolicyPt": "Cães permitidos durante todo o ano",
-          "tipPt": "O restaurante de marisco no cais aceita cães na sua esplanada, uma combinação natural depois de um banho de manhã"
+          "tipPt": "O restaurante de marisco no cais aceita cães na sua esplanada, uma combinação natural depois de um banho de manhã",
+          "descriptionDe": "Cala Gamba ist eine kleine felsige Bucht östlich des Flughafens Palma, an der Hunde ganzjährig erlaubt sind. Es ist ein lokaler Ort, ruhig und unprätentiös, mit einem kleinen Kai, einigen traditionellen Fischrestaurants in der Nähe und einfachem Parken. Weniger dramatisch als Es Carnatge, aber angenehm für ein ruhiges morgendliches Bad mit dem Hund, wenn die touristischen Hauptstrände tabu sind.",
+          "petPolicyDe": "Hunde ganzjährig erlaubt",
+          "tipDe": "Das Fischrestaurant am Kai ist auf seiner Terrasse hundefreundlich, eine naheliegende Kombination nach einem morgendlichen Bad"
         },
         {
           "name": "Playa de Palma (off-season only)",
@@ -296,11 +314,17 @@
           "googleMapsUrl": "https://maps.google.com/?q=Playa+de+Palma+Mallorca",
           "descriptionPt": "A Playa de Palma é a praia urbana mais comprida de Maiorca, com 4,5 km a leste do aeroporto. Os cães estão estritamente proibidos de 1 de abril a 31 de outubro. De novembro a março, a praia reabre aos cães e torna-se um favorito para longos passeios de inverno ao longo da costa deserta. A luz mediterrânica em janeiro é extraordinária e a praia parece completamente diferente sem as multidões de verão.",
           "petPolicyPt": "Cães proibidos de 1 de abril a 31 de outubro. Acesso fora de época de novembro a março",
-          "tipPt": "Os passeios de inverno numa praia deserta de 4,5 km são um dos segredos mais bem guardados de Maiorca. Vá numa manhã de janeiro e poderá ter a praia toda só para si"
+          "tipPt": "Os passeios de inverno numa praia deserta de 4,5 km são um dos segredos mais bem guardados de Maiorca. Vá numa manhã de janeiro e poderá ter a praia toda só para si",
+          "descriptionDe": "Die Playa de Palma ist Mallorcas längster Stadtstrand und erstreckt sich über 4,5 km östlich des Flughafens. Hunde sind vom 1. April bis 31. Oktober strikt verboten. Von November bis März öffnet der Strand wieder für Hunde und wird zu einem beliebten Ziel für lange Winterspaziergänge entlang des menschenleeren Ufers. Das Mittelmeerlicht im Januar ist außergewöhnlich, und der Strand wirkt ohne das Sommergedränge völlig anders.",
+          "petPolicyDe": "Hunde verboten vom 1. April bis 31. Oktober. Zugang außerhalb der Saison von November bis März",
+          "tipDe": "Winterspaziergänge auf einem 4,5 km langen, menschenleeren Strand gehören zu Mallorcas bestgehüteten Geheimnissen. Gehen Sie an einem Januarmorgen hin und Sie haben den ganzen Strand vielleicht für sich allein"
         }
       ],
       "titlePt": "Praias Pet-Friendly perto de Palma de Maiorca",
-      "introPt": "Maiorca aplica uma proibição sazonal rigorosa: os cães estão proibidos na maioria das praias públicas de 1 de abril a 31 de outubro, durante a época balnear oficial. Fora dessas datas, muitas praias voltam a aceitar cães. No entanto, existem perto de Palma algumas praias designadas para cães durante todo o ano, onde pode levar o seu cão de forma legal em qualquer altura do ano. As coimas por levar cães a praias com restrições durante o período de proibição são aplicadas pela polícia local e podem ser avultadas. Verifique sempre o estado sazonal atual antes de visitar qualquer praia que não conste da lista oficial de praias para cães durante todo o ano."
+      "introPt": "Maiorca aplica uma proibição sazonal rigorosa: os cães estão proibidos na maioria das praias públicas de 1 de abril a 31 de outubro, durante a época balnear oficial. Fora dessas datas, muitas praias voltam a aceitar cães. No entanto, existem perto de Palma algumas praias designadas para cães durante todo o ano, onde pode levar o seu cão de forma legal em qualquer altura do ano. As coimas por levar cães a praias com restrições durante o período de proibição são aplicadas pela polícia local e podem ser avultadas. Verifique sempre o estado sazonal atual antes de visitar qualquer praia que não conste da lista oficial de praias para cães durante todo o ano.",
+      "titleDe": "Hundefreundliche Strände bei Palma de Mallorca",
+      "introDe": "Mallorca setzt ein strenges saisonales Verbot durch: Hunde sind an den meisten öffentlichen Stränden vom 1. April bis 31. Oktober, während der offiziellen Badesaison, untersagt. Außerhalb dieses Zeitraums werden viele Strände wieder hundefreundlich. Es gibt jedoch eine Handvoll ganzjährig ausgewiesener Hundestrände in der Nähe Palmas, an denen Sie Ihren Hund zu jeder Jahreszeit legal mitnehmen können. Bußgelder für das Mitbringen von Hunden auf gesperrte Strände während der Verbotszeit werden von der örtlichen Polizei durchgesetzt und können erheblich ausfallen. Prüfen Sie vor jedem Besuch eines Strands, der nicht auf der offiziellen ganzjährigen Hundeliste steht, immer den aktuellen saisonalen Status.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Palma de Mallorca, Veterinary Clinics & Pet Care",

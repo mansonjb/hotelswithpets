@@ -183,7 +183,10 @@
           "tipFr": "Démarrez côté Olhos de Água (parking gratuit en rue) avant 10h en été, le sentier en falaise cuit fort et l'ombre des pins ne couvre que la moitié.",
           "tipEs": "Empieza por el lado de Olhos de Água (aparcamiento gratuito en calle) antes de las 10:00 en verano, el sendero en acantilado arde y la sombra de los pinos cubre solo la mitad.",
           "tipPt": "Comece pelo lado de Olhos de Água (estacionamento gratuito na rua) antes das 10h no verão, o trilho da falésia aquece muito e a sombra dos pinheiros cobre apenas metade.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pine+Cliffs+Trail+Falesia+Olhos+de+Agua"
+          "googleMapsUrl": "https://maps.google.com/?q=Pine+Cliffs+Trail+Falesia+Olhos+de+Agua",
+          "descriptionDe": "Ein 4 km langer Klippenweg durch Schirmpinienwald, der die Praia da Falésia mit Olhos de Água verbindet, mit leuchtend roten Sandsteinklippen und Aussichtspunkten über den Atlantik. Hunde an der Leine ganzjährig willkommen, festgetretener Weg mit leichtem Schatten, Trinkbrunnen an beiden Enden.",
+          "petPolicyDe": "Hunde an der Leine ganzjährig",
+          "tipDe": "Starten Sie im Sommer vor 10:00 Uhr auf der Seite von Olhos de Água (kostenlose Straßenparkplätze), der Klippenweg heizt sich stark auf, und der Pinienschatten deckt nur die Hälfte der Strecke ab."
         },
         {
           "name": "Parque da Alfarrobeira",
@@ -203,7 +206,10 @@
           "tipFr": "Le parc tient son nom du caroubier (alfarrobeira), ses gousses tombent en septembre-octobre et sont légèrement toxiques pour les chiens si mâchées, surveillez sous les vieux arbres.",
           "tipEs": "El parque debe su nombre al algarrobo (alfarrobeira), sus vainas caen en septiembre-octubre y son ligeramente tóxicas para los perros si las mastican, vigila bajo los árboles más viejos.",
           "tipPt": "O parque deve o nome à alfarrobeira, as alfarrobas caem em setembro-outubro e são ligeiramente tóxicas para os cães se mastigadas, vigie sob as árvores mais velhas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+da+Alfarrobeira+Albufeira"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+da+Alfarrobeira+Albufeira",
+          "descriptionDe": "Ein kleiner gestalteter Stadtpark direkt nördlich der Altstadt, mit Kinderspielplatz, Café-Kiosk, alten Johannisbrot- und Orangenbäumen sowie schattigen Bänken. Hunde an der Leine auf allen Wegen ganzjährig willkommen, der einzige formelle Stadtpark in Gehdistanz zum Zentrum.",
+          "petPolicyDe": "Hunde an der Leine, Aufsammelpflicht",
+          "tipDe": "Der Park ist nach dem Johannisbrotbaum (alfarrobeira) benannt, Schoten fallen im September/Oktober und sind für Hunde beim Kauen leicht giftig, achten Sie unter den älteren Bäumen auf Ihren Hund."
         },
         {
           "name": "Praia dos Salgados Nature Reserve",
@@ -223,7 +229,10 @@
           "tipFr": "Garez-vous au parking gratuit de la plage de Salgados toute l'année, marchez 50 m jusqu'à l'entrée du boardwalk, et dirigez-vous vers l'intérieur des terres pour voir la lagune aux flamants, le pic est octobre-mars.",
           "tipEs": "Aparca en el aparcamiento gratuito de la playa de Salgados todo el año, camina 50 m hasta la entrada del boardwalk, y dirígete tierra adentro lejos de la playa para ver la laguna de los flamencos, el pico es de octubre a marzo.",
           "tipPt": "Estacione no parque gratuito da praia dos Salgados todo o ano, ande 50 m até à entrada do passadiço e siga para o interior longe da praia para ver a lagoa dos flamingos, o pico é de outubro a março.",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+dos+Salgados+Reserve+Albufeira"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+dos+Salgados+Reserve+Albufeira",
+          "descriptionDe": "Ein Küstenlagunen- und Feuchtgebietsreservat 8 km westlich des Zentrums von Albufeira mit einem 3 km langen Holzbohlensteg über die Salzmarschen, ganzjährig mit Flamingos und Reihern. Hunde an der Leine auf dem Bohlensteg willkommen, der Strand ist vom 1. Mai bis 30. September für Hunde gesperrt, doch der Weg durch das Feuchtgebiet bleibt geöffnet.",
+          "petPolicyDe": "Hunde an der Leine auf dem Bohlensteg ganzjährig",
+          "tipDe": "Parken Sie auf dem Parkplatz von Salgados (ganzjährig kostenlos), gehen Sie 50 m zum Eingang des Bohlenstegs und wenden Sie sich landeinwärts weg vom Strand, um die Flamingolagune zu sehen, der Höhepunkt liegt zwischen Oktober und März."
         }
       ],
       "tipsEn": [
@@ -284,6 +293,18 @@
         {
           "q": "Posso passear o meu cão no trilho dos Pine Cliffs todo o ano?",
           "a": "Sim, o trilho no topo da falésia entre a Praia da Falésia e Olhos de Água admite cães com trela 365 dias por ano, a interdição sazonal da praia em baixo não se aplica ao trilho em cima."
+        }
+      ],
+      "titleDe": "Hundeparks & Grünflächen in Albufeira",
+      "introDe": "Albufeiras Grünflächen bestehen größtenteils aus Küstenwegen auf Klippen und Pinienhainen und nicht aus formellen Stadtparks, herausragend ist der Pine-Cliffs-Weg zwischen Praia da Falésia und Olhos d'Água, der ganzjährig durch hundefreundlichen Schirmpinienwald führt.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Freilauf-Hundeparks in Albufeira?",
+          "a": "Innerhalb der Gemeinde Albufeira existiert kein formeller Freilauf-Hundepark. Der nächstgelegene ist der Parque da Cidade in Lagoa, 15 km westlich, mit einem eingezäunten Hundebereich, der tagsüber geöffnet ist."
+        },
+        {
+          "q": "Kann ich meinen Hund ganzjährig auf dem Pine-Cliffs-Weg ausführen?",
+          "a": "Ja, der Klippenweg zwischen Praia da Falésia und Olhos de Água erlaubt angeleinten Hunden den Zugang an 365 Tagen im Jahr, das saisonale Strandverbot unten gilt nicht für den Weg oberhalb."
         }
       ]
     },
@@ -450,7 +471,10 @@
           "tipFr": "Garez-vous au parking principal de la Praia da Falésia, marchez 800 m à l'est sur le sentier en falaise jusqu'à l'escalier, bien plus calme que le parking officiel qui se remplit tôt en été.",
           "tipEs": "Aparca en el aparcamiento principal de Praia da Falésia, camina 800 m al este por el sendero del acantilado hasta la escalera, mucho más tranquilo que el aparcamiento oficial que se llena pronto en verano.",
           "tipPt": "Estacione no parque principal da Praia da Falésia, ande 800 m para leste no trilho da falésia até à escadaria, muito mais sossegado do que o parque oficial que enche cedo no verão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+do+Barranco+das+Belharucas"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+do+Barranco+das+Belharucas",
+          "descriptionDe": "Eine wilde Bucht, umgeben von roten Sandsteinklippen östlich von Olhos de Água, mit ganzjährigem Hundezugang (keine formelle Ausweisung, aber auch kein durchgesetztes saisonales Verbot). Zugänglich über eine 200-stufige Holztreppe, keine Einrichtungen, angeleinte Hunde willkommen, ruhiges, flaches Wasser und natürlicher Schatten an den Klippen am späten Nachmittag.",
+          "petPolicyDe": "Angeleinte Hunde ganzjährig (de facto)",
+          "tipDe": "Parken Sie auf dem Hauptparkplatz der Praia da Falésia, gehen Sie 800 m östlich auf dem Klippenweg zur Treppe, deutlich ruhiger als der offizielle Parkplatz, der im Sommer früh voll ist."
         },
         {
           "name": "Praia da Cova Redonda",
@@ -470,7 +494,10 @@
           "tipFr": "Le parking gratuit en haut de falaise est limité à 30 places, en été arrivez avant 9h30 ou venez après 17h quand les baigneurs repartent.",
           "tipEs": "El aparcamiento gratuito en lo alto del acantilado está limitado a 30 plazas, en verano llega antes de las 09:30 o ven después de las 17:00 cuando los bañistas se marchan.",
           "tipPt": "O estacionamento gratuito no topo da falésia está limitado a 30 lugares, no verão chegue antes das 9h30 ou venha depois das 17h quando os banhistas saem.",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Cova+Redonda+Porches"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Cova+Redonda+Porches",
+          "descriptionDe": "Eine kleine hufeisenförmige Bucht westlich von Albufeira zwischen Praia Nova und Senhora da Rocha, offiziell von der Gemeinde Lagoa als einer der ganzjährigen Hundestrände der Algarve ausgewiesen. Abstieg über einen Holzbohlensteg, angeleinte Hunde das ganze Jahr über erlaubt, ein Strandcafé von Ostern bis Oktober geöffnet.",
+          "petPolicyDe": "Angeleinte Hunde ganzjährig (offizielle Ausweisung)",
+          "tipDe": "Die kostenlosen Parkplätze auf der Klippe darüber sind auf 30 Plätze begrenzt, kommen Sie im Sommer vor 09:30 Uhr oder nach 17:00 Uhr, sobald die Sonnenbadenden gegangen sind."
         },
         {
           "name": "Praia dos Salgados (winter)",
@@ -490,7 +517,10 @@
           "tipFr": "Combinez la balade hivernale sur la plage avec le boardwalk aux flamants à l'intérieur des terres depuis le parking, une boucle combinée de 90 min qui fonctionne par tout temps au-dessus de 12 °C.",
           "tipEs": "Combina el paseo de playa invernal con el boardwalk de los flamencos tierra adentro desde el aparcamiento, un bucle combinado de 90 min que funciona en cualquier clima por encima de 12 °C.",
           "tipPt": "Combine o passeio na praia de inverno com o passadiço dos flamingos no interior a partir do estacionamento, um circuito combinado de 90 min que funciona com qualquer tempo acima de 12 °C.",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+dos+Salgados+Albufeira"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+dos+Salgados+Albufeira",
+          "descriptionDe": "Ein 2 km breiter, flacher Sandstrand neben der Salgados-Lagune, im Sommer belebt und vom 1. Mai bis 30. September für Hunde gesperrt. Vom 1. Oktober bis 30. April gehört er zu den besten Hundestränden der zentralen Algarve, angeleinte Hunde willkommen, kostenlose Parkplätze, keine Menschenmassen.",
+          "petPolicyDe": "Hunde verboten 1. Mai-30. Sep, angeleint willkommen 1. Okt-30. Apr",
+          "tipDe": "Kombinieren Sie den Winterstrandspaziergang mit dem ganzjährigen Flamingo-Bohlensteg landeinwärts vom Parkplatz aus, eine 90-minütige Rundtour, die bei jedem Wetter über 12 °C funktioniert."
         }
       ],
       "tipsEn": [
@@ -551,6 +581,18 @@
         {
           "q": "Qual é a coima por levar um cão a uma praia interdita em Albufeira?",
           "a": "As patrulhas marítimas da GNR aplicam coimas no local entre 60 e 120 € por levar um cão a uma praia interdita de 1 de maio a 30 de setembro. Reincidentes podem ser multados até 250 €."
+        }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Albufeira",
+      "introDe": "Die meisten Algarve-Strände verbieten Hunde vom 1. Mai bis 30. September (Geldstrafen bis zu 120 € werden von der GNR-Meerespolizei durchgesetzt), doch eine Handvoll ausgewiesener ganzjähriger Hundestrände liegen 15 bis 25 Minuten von Albufeira entfernt, zudem öffnen alle Strände vom 1. Oktober bis 30. April wieder für Hunde.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund im Sommer an den Strand in Albufeira mitnehmen?",
+          "a": "Nicht an den Hauptstränden der Stadt (Praia dos Pescadores, Praia da Oura, Praia de Santa Eulália, Praia da Galé), die Hunde vom 1. Mai bis 30. September verbieten. Nutzen Sie die Praia do Barranco das Belharucas oder die Praia da Cova Redonda (15 km westlich) für ganzjährigen Hundezugang."
+        },
+        {
+          "q": "Wie hoch ist die Strafe, wenn ich einen Hund an einen gesperrten Strand in Albufeira mitnehme?",
+          "a": "Die GNR-Meerespolizei verhängt vor Ort Geldstrafen von 60 € bis 120 € für Hunde an einem gesperrten Strand während des Zeitraums 1. Mai bis 30. September. Bei wiederholten Verstößen können Strafen bis zu 250 € verhängt werden."
         }
       ]
     },

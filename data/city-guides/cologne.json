@@ -113,7 +113,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Stadtwald+Köln+Lindenthal",
           "descriptionPt": "A maior floresta urbana de Colónia, que abrange várias centenas de hectares no bairro de Lindenthal. O lado norte do Stadtwald tem uma grande zona sem trela designada (Hundeauslauf) onde os cães podem correr livremente. Os trilhos arborizados e os prados abertos tornam-no o melhor destino para passear cães em qualquer altura do ano na cidade. A floresta é suficientemente densa para ser fresca no verão. Acessível de elétrico (linha 1 até Dürener Straße/Gürtel).",
           "offLeashAreaPt": "Zona sem trela designada no lado norte da floresta",
-          "tipPt": "Leve proteção contra carraças na primavera e no verão: a densa vegetação rasteira do Stadtwald é território de alto risco de carraças em Colónia."
+          "tipPt": "Leve proteção contra carraças na primavera e no verão: a densa vegetação rasteira do Stadtwald é território de alto risco de carraças em Colónia.",
+          "descriptionDe": "Kölns größter Stadtwald erstreckt sich über mehrere hundert Hektar im Stadtteil Lindenthal. Auf der Nordseite des Stadtwalds befindet sich eine große ausgewiesene Freilauffläche (Hundeauslauf), auf der Hunde frei laufen können. Waldwege und offene Wiesen machen ihn zum besten Ziel für Hundespaziergänge bei jedem Wetter in der Stadt. Der Wald ist dicht genug, um im Sommer angenehm kühl zu sein. Erreichbar mit der Straßenbahn (Linie 1 bis Dürener Straße/Gürtel).",
+          "offLeashAreaDe": "Ausgewiesene Freilaufzone auf der Nordseite des Waldes",
+          "tipDe": "Bringen Sie im Frühjahr und Sommer Zeckenschutz mit, das dichte Unterholz des Stadtwalds ist ein Gebiet mit hohem Zeckenrisiko in Köln."
         },
         {
           "name": "Rheinpark",
@@ -133,7 +136,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rheinpark+Köln+Deutz",
           "descriptionPt": "Um parque ribeirinho pitoresco na margem leste do Reno, em Deutz, com vistas panorâmicas sobre a silhueta da Catedral de Colónia. Os prados abertos junto à margem deixam os cães correr à vontade, e o parque liga-se a um trilho mais longo de ciclismo e caminhada ao longo do Reno. O parque tem zonas de piquenique e um pequeno café com lugares ao ar livre. Acessível pela ponte Hohenzollernbrücke a partir do Altstadt ou de elétrico até Köln Messe/Deutz.",
           "offLeashAreaPt": "Prados abertos junto à margem do rio; a circulação sem trela é habitual nas zonas abertas",
-          "tipPt": "O Rheinpark é o melhor sítio em Colónia para combinar um passeio com o cão com a fotografia clássica da catedral e do Reno: atravesse a Hohenzollernbrücke (coberta de cadeados de amor) para a aproximação."
+          "tipPt": "O Rheinpark é o melhor sítio em Colónia para combinar um passeio com o cão com a fotografia clássica da catedral e do Reno: atravesse a Hohenzollernbrücke (coberta de cadeados de amor) para a aproximação.",
+          "descriptionDe": "Ein malerischer Park am Rheinufer auf der Deutzer Seite mit Panoramablick auf die Silhouette des Kölner Doms. Offene Wiesen entlang des Flussufers lassen Hunde frei laufen, und der Park schließt an einen längeren Rad- und Fußweg entlang des Rheins an. Der Park verfügt über Picknickflächen und ein kleines Café mit Außenbereich. Erreichbar über die Hohenzollernbrücke von der Altstadt aus oder mit der Straßenbahn bis Köln Messe/Deutz.",
+          "offLeashAreaDe": "Offene Wiesen entlang des Flussufers; Freilauf ist in offenen Bereichen üblich",
+          "tipDe": "Der Rheinpark ist der beste Ort in Köln, um einen Hundespaziergang mit dem klassischen Foto von Dom und Rheinsilhouette zu verbinden; überqueren Sie für die Anfahrt die Hohenzollernbrücke (bedeckt mit Liebesschlössern)."
         },
         {
           "name": "Nippeser Tälchen",
@@ -153,7 +159,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Nippeser+Tälchen+Köln",
           "descriptionPt": "Um adorado parque de bairro em Nippes, com reputação de ser um dos melhores locais de socialização canina de Colónia. O parque tem um terreno em forma de vale, com caminhos naturais, um pequeno ribeiro e encontros regulares de donos de cães locais, sobretudo nas manhãs de fim de semana. Acesso sem trela na zona designada. Acessível de U-Bahn ou elétrico até Neusser Straße.",
           "offLeashAreaPt": "Zona sem trela designada na secção do vale",
-          "tipPt": "As manhãs de fim de semana, das 8 às 10h, atraem um grupo habitual de donos de cães locais: uma excelente forma de conhecer a comunidade canina de Colónia."
+          "tipPt": "As manhãs de fim de semana, das 8 às 10h, atraem um grupo habitual de donos de cães locais: uma excelente forma de conhecer a comunidade canina de Colónia.",
+          "descriptionDe": "Ein beliebter Stadtteilpark in Nippes mit dem Ruf, einer der besten Treffpunkte Kölns für Hundesozialisierung zu sein. Der Park hat ein talähnliches Gelände mit naturnahen Wegen, einem kleinen Bach und regelmäßigen Treffen lokaler Hundehalter, besonders an Wochenendvormittagen. Freilauf in der ausgewiesenen Zone. Erreichbar mit U-Bahn oder Straßenbahn bis Neusser Straße.",
+          "offLeashAreaDe": "Ausgewiesene Freilaufzone im Talabschnitt",
+          "tipDe": "Wochenendvormittage von 8 bis 10 Uhr locken zuverlässig eine Gruppe lokaler Hundehalter an, eine gute Gelegenheit, Kölns Hundegemeinschaft kennenzulernen."
         }
       ],
       "tipsEn": [
@@ -200,6 +209,14 @@
         {
           "q": "Preciso de manter o meu cão com trela nos parques de Colónia?",
           "a": "Nas zonas sem trela designadas (Hundeauslaufgebiete), os cães podem andar sem trela. Fora destas zonas, a trela é obrigatória segundo as regras municipais de Colónia. Aplicam-se coimas por infrações. As placas nas entradas dos parques indicam os requisitos de trela para cada zona."
+        }
+      ],
+      "titleDe": "Hundefreundliche Parks in Köln",
+      "introDe": "Köln verfügt über mehr als 111 Parks, in denen Hunde Grünflächen genießen können, und die Stadt unterhält ein Netz ausgewiesener Freilaufzonen (Hundeauslaufgebiete) in allen Stadtteilen. Die besten Bereiche sind der Stadtwald (ein großer Waldpark mit Freilaufflächen), der Rheinpark (am Flussufer, malerisch) sowie das Nippeser Tälchen im Stadtteil Nippes. Kölns Hundehalterkultur ist stark ausgeprägt, Freilaufflächen sind in der Regel gut gepflegt, und Halter sind sehr gewissenhaft beim Entsorgen von Hundekot. Nach den Kölner Stadtregeln gilt außerhalb ausgewiesener Freilaufzonen überall Leinenpflicht.",
+      "faqsDe": [
+        {
+          "q": "Muss ich meinen Hund in Kölner Parks an der Leine führen?",
+          "a": "In ausgewiesenen Freilaufzonen (Hundeauslaufgebiete) dürfen Hunde ohne Leine laufen. Außerhalb dieser Zonen gilt nach den Kölner Stadtregeln Leinenpflicht. Bei Verstößen drohen Bußgelder. Schilder an den Parkeingängen weisen auf die Leinenpflicht für den jeweiligen Bereich hin."
         }
       ]
     },

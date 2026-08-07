@@ -203,7 +203,11 @@
           "descriptionPt": "Um parque em socalcos no alto da arriba de Posillipo, que oferece algumas das vistas mais espetaculares de Nápoles, o Vesúvio, o Golfo e as ilhas de Procida, Ischia e Capri. Amplos circuitos pavimentados, bancos, avenidas sombreadas de pinheiros e uma Area Cani vedada, junto ao socalco superior.",
           "petPolicyPt": "Trela obrigatória; Area Cani vedada sem trela",
           "facilitiesPt": "Area Cani, fontes de água, bancos, miradouros panorâmicos",
-          "tipPt": "Chegue ao nascer do sol para a silhueta mais nítida do Vesúvio e o pavimento mais fresco para as patas, Posillipo aquece depressa a partir das 10:00 no verão."
+          "tipPt": "Chegue ao nascer do sol para a silhueta mais nítida do Vesúvio e o pavimento mais fresco para as patas, Posillipo aquece depressa a partir das 10:00 no verão.",
+          "descriptionDe": "Ein terrassierter Klippenpark auf Posillipo mit einigen der spektakulärsten Ausblicke Neapels, auf den Vesuv, den Golf und die Inseln Procida, Ischia und Capri. Breite gepflasterte Rundwege, Bänke, schattige Pinienalleen und eine eingezäunte Area Cani nahe der oberen Terrasse.",
+          "petPolicyDe": "Leinenpflicht; eingezäunte Freilauf-Area-Cani",
+          "facilitiesDe": "Area Cani, Trinkbrunnen, Bänke, Panoramaaussichtspunkte",
+          "tipDe": "Kommen Sie bei Sonnenaufgang für die klarste Vesuv-Silhouette und den kühlsten Belag für die Pfoten, Posillipo heizt sich im Sommer ab 10:00 Uhr schnell auf."
         },
         {
           "name": "Bosco di Capodimonte",
@@ -229,7 +233,11 @@
           "descriptionPt": "Um bosque real de 134 hectares nas traseiras do Palácio de Capodimonte, o maior espaço verde de Nápoles. Carvalhais e castanheiros, 5 km de trilhos e uma regra de trela rigorosamente aplicada, não há zonas sem trela, mas a sombra é generosa e o ar sensivelmente mais fresco do que na cidade lá em baixo.",
           "petPolicyPt": "Trela obrigatória; sem zonas sem trela",
           "facilitiesPt": "Trilhos, dispensadores de sacos para dejetos, café junto ao palácio, relvados de piquenique",
-          "tipPt": "Entre pelo portão Porta Piccola, na Via Miano, a Porta Grande (entrada do museu) tem filas de bilheteira que atrasam quem passeia cães."
+          "tipPt": "Entre pelo portão Porta Piccola, na Via Miano, a Porta Grande (entrada do museu) tem filas de bilheteira que atrasam quem passeia cães.",
+          "descriptionDe": "Ein 134 Hektar großes königliches Waldgebiet hinter dem Palast von Capodimonte, die größte Grünfläche Neapels. Eichen- und Kastanienhaine, 5 km Wanderwege und eine streng durchgesetzte Leinenpflicht, es gibt keine Freilaufzonen, aber der Schatten ist großzügig und die Luft merklich kühler als in der Stadt darunter.",
+          "petPolicyDe": "Leinenpflicht; keine Freilaufzonen",
+          "facilitiesDe": "Wanderwege, Kotbeutelspender, Café nahe dem Palast, Picknickwiesen",
+          "tipDe": "Betreten Sie den Park über das Tor Porta Piccola an der Via Miano, an der Porta Grande (Museumseingang) gibt es Ticketschlangen, die Hundehalter aufhalten."
         },
         {
           "name": "Villa Comunale",
@@ -255,7 +263,11 @@
           "descriptionPt": "O jardim público à beira-mar de Nápoles, do século XVIII, que se estende por 1,3 km entre a Piazza Vittoria e a Piazza della Repubblica. Fontes, cafés, o aquário histórico e bancos largos sob magnólias, a escolha clássica para um curto passeio com trela em Chiaia.",
           "petPolicyPt": "Trela obrigatória",
           "facilitiesPt": "Fontes, cafés, bancos, acesso à marginal junto ao mar",
-          "tipPt": "A Villa liga-se diretamente à marginal pedonal do Lungomare, combine-as para um circuito de 3 km com trela, com vista para o mar de um lado e jardins do outro."
+          "tipPt": "A Villa liga-se diretamente à marginal pedonal do Lungomare, combine-as para um circuito de 3 km com trela, com vista para o mar de um lado e jardins do outro.",
+          "descriptionDe": "Neapels öffentlicher Garten aus dem 18. Jahrhundert an der Uferpromenade erstreckt sich über 1,3 km zwischen Piazza Vittoria und Piazza della Repubblica. Brunnen, Cafés, das historische Aquarium und breite Bänke unter Magnolien, die klassische Wahl für einen kurzen Spaziergang an der Leine in Chiaia.",
+          "petPolicyDe": "Leinenpflicht",
+          "facilitiesDe": "Brunnen, Cafés, Bänke, Zugang zur Uferpromenade",
+          "tipDe": "Die Villa geht direkt in die Fußgängerpromenade Lungomare über, kombinieren Sie beide zu einer 3 km langen Rundstrecke an der Leine, auf der einen Seite Meerblick, auf der anderen Gärten."
         }
       ],
       "tipsEn": [
@@ -334,6 +346,22 @@
         {
           "q": "O Parque Nacional do Vesúvio aceita cães?",
           "a": "Sim, o trilho oficial Sentiero 5 (Gran Cono) até à cratera aceita cães com trela, mas os últimos 900 m de caminho de cinzas são duros para as patas. Leve água e botinhas para as cinzas quentes no verão."
+        }
+      ],
+      "titleDe": "Hundeparks und Grünflächen in Neapel",
+      "introDe": "Neapels zentrale Straßen sind berühmt-berüchtigt für ihr Chaos, doch die Stadt verfügt über mehrere große grüne Lungen, die sich perfekt für Hundespaziergänge eignen: den aussichtsreichen Parco Virgiliano auf Posillipo, den 134 Hektar großen Bosco di Capodimonte rund um den Königspalast und die Villa Comunale an der Uferpromenade. Die Leinenpflicht gilt laut Gemeindeverordnung überall im öffentlichen Raum, und die wenigen ausgewiesenen Aree Cani konzentrieren sich auf Vomero und Posillipo.",
+      "faqsDe": [
+        {
+          "q": "Wo dürfen Hunde in Neapel ohne Leine laufen?",
+          "a": "Nur in ausgewiesenen Aree Cani, die wichtigsten befinden sich im Parco Virgiliano (Posillipo), in der Villa Floridiana (Vomero) und in einem kleinen Bereich der Mostra d'Oltremare. Überall sonst gilt Leinenpflicht."
+        },
+        {
+          "q": "Sind Hunde im Archäologischen Museum von Neapel oder in Capodimonte erlaubt?",
+          "a": "Nein, beide Museen verbieten Haustiere. Das Waldgebiet Bosco di Capodimonte rund um den Palast ist jedoch an der Leine hundefreundlich."
+        },
+        {
+          "q": "Ist der Nationalpark Vesuv hundefreundlich?",
+          "a": "Ja, der offizielle Wanderweg Sentiero 5 (Gran Cono) zum Krater erlaubt Hunde an der Leine, aber die letzten 900 m Aschepfad sind hart für die Pfoten. Nehmen Sie im Sommer Wasser und Schuhe für heiße Asche mit."
         }
       ]
     },
@@ -500,7 +528,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Lido+La+Duchessa+Dog+Beach+Pompei",
           "descriptionPt": "Uma das Spiagge Cani oficiais mais próximas de Nápoles (~30 km), registada na rede BauWatch Italia. Os cães podem nadar sem trela numa zona dedicada, com chuveiros de água doce, chapéus de sol e um pequeno bar. Entrada cerca de 10 €/dia.",
           "petPolicyPt": "Sem trela na zona designada; chuveiros de água doce",
-          "tipPt": "Reserve por telefone com antecedência em julho e agosto, a zona canina tem lotação de ~30 cães e enche por volta das 10:00 aos fins de semana."
+          "tipPt": "Reserve por telefone com antecedência em julho e agosto, a zona canina tem lotação de ~30 cães e enche por volta das 10:00 aos fins de semana.",
+          "descriptionDe": "Einer der nächstgelegenen offiziellen Spiagge Cani bei Neapel (ca. 30 km), im BauWatch-Italia-Netzwerk registriert. Hunde können in einer eigenen Zone ohne Leine schwimmen, mit Süßwasserduschen, schattigen Sonnenschirmen und einer kleinen Bar. Eintritt etwa 10 €/Tag.",
+          "petPolicyDe": "Freilauf in ausgewiesener Zone; Süßwasserduschen",
+          "tipDe": "Reservieren Sie im Juli und August im Voraus telefonisch, die Hundezone ist auf etwa 30 Hunde begrenzt und ist an Wochenenden bis 10:00 Uhr voll."
         },
         {
           "name": "Spiaggia di Marechiaro",
@@ -521,7 +552,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Spiaggia+di+Marechiaro+Napoli",
           "descriptionPt": "Uma conhecida enseada rochosa na costa de Posillipo, com acesso livre, onde os cães com trela são tolerados durante todo o ano sobre as rochas (não há praia de areia onde aplicar proibições). Vistas do Golfo e do Vesúvio; os cães não podem legalmente nadar na zona balnear de verão, mas as rochas logo a leste da enseada estão acessíveis.",
           "petPolicyPt": "Trela obrigatória; sem banho na zona balnear no verão",
-          "tipPt": "Estacione no topo da Discesa Marechiaro e desça a pé, a estrada estreita-se para uma única faixa, o que é complicado com um cão nervoso no trânsito."
+          "tipPt": "Estacione no topo da Discesa Marechiaro e desça a pé, a estrada estreita-se para uma única faixa, o que é complicado com um cão nervoso no trânsito.",
+          "descriptionDe": "Eine berühmte felsige Bucht an der Küste von Posillipo, frei zugänglich, wo Hunde an der Leine das ganze Jahr über auf den Felsen geduldet werden (kein Sandstrand, an dem Verbote durchgesetzt werden könnten). Blick auf den Golf und den Vesuv; Hunde dürfen im Sommer nicht in der ausgewiesenen Badezone schwimmen, aber die Felsen direkt östlich der Bucht sind offen.",
+          "petPolicyDe": "Leinenpflicht; kein Schwimmen in der Badezone im Sommer",
+          "tipDe": "Parken Sie oben an der Discesa Marechiaro und gehen Sie hinunter, die Straße verengt sich auf eine einzige Spur, was mit einem nervösen Hund im Autoverkehr schwierig sein kann."
         },
         {
           "name": "Baia di Trentaremi",
@@ -542,7 +576,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Baia+di+Trentaremi+Napoli",
           "descriptionPt": "Uma enseada selvagem dentro da área marinha protegida da Gaiola, acessível por um trilho íngreme. Os cães com trela são permitidos nas rochas durante todo o ano; o banho é proibido dentro da zona protegida, mas a pequena praia do lado norte é utilizável fora da época turística de maio a setembro.",
           "petPolicyPt": "Trela obrigatória; zonas de banho limitadas",
-          "tipPt": "O trilho de acesso tem ~150 degraus de pedra irregular, leve uma taça de água dobrável e vá antes das 10:00 em julho e agosto para evitar o risco de stress térmico."
+          "tipPt": "O trilho de acesso tem ~150 degraus de pedra irregular, leve uma taça de água dobrável e vá antes das 10:00 em julho e agosto para evitar o risco de stress térmico.",
+          "descriptionDe": "Eine wilde Bucht innerhalb des Meeresschutzgebiets Gaiola, erreichbar über einen steilen Pfad. Hunde an der Leine sind das ganze Jahr über auf den Felsen erlaubt, Schwimmen ist innerhalb der Schutzzone verboten, aber der kleine Strand auf der Nordseite ist außerhalb der Touristensaison von Mai bis September nutzbar.",
+          "petPolicyDe": "Leinenpflicht; eingeschränkte Schwimmzonen",
+          "tipDe": "Der Zugangsweg hat etwa 150 unebene Steinstufen, nehmen Sie einen faltbaren Wassernapf mit und gehen Sie im Juli und August vor 10:00 Uhr, um Hitzestress zu vermeiden."
         }
       ],
       "tipsEn": [
@@ -621,6 +658,22 @@
         {
           "q": "O que é o selo BauWatch Italia?",
           "a": "Um diretório do setor privado que verifica praias e alojamentos que aceitam cães em Itália. As fichas incluem políticas para animais, comodidades e disponibilidade em tempo real, e são atualizadas por inspetores no terreno."
+        }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Neapel",
+      "introDe": "Am Golf von Neapel gelten strenge Strandregeln: Die meisten freien Strände verbieten Hunde im Sommer (15. Mai bis 30. September), und nur die ausgewiesenen Spiagge Cani (Hundestrände) entlang der Küste bei Domitio und im Cilento heißen sie ganzjährig willkommen. Innerhalb der Stadt sind die felsigen Buchten von Posillipo toleranter als die Sandstrände im Touristengürtel.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund im Sommer an Neapels Stränden schwimmen?",
+          "a": "Nur an registrierten Spiagge Cani. Die meisten freien und kommerziellen Strände verbieten Hunde vom 15. Mai bis 30. September, die Kontrollen sind an den Stränden von Chiaia und der Lungomare streng."
+        },
+        {
+          "q": "Sind Hunde an der Amalfiküste oder in Sorrent erlaubt?",
+          "a": "Ja, mit saisonalen Einschränkungen. Die meisten Orte an der Amalfiküste verlangen im öffentlichen Raum Leinenpflicht und verbieten im Sommer den Strandzugang, aber es gibt mehrere Hundestrände in der Nähe von Positano und Sorrent."
+        },
+        {
+          "q": "Was ist das BauWatch-Italia-Siegel?",
+          "a": "Ein privates Verzeichnis, das hundefreundliche Strände und Unterkünfte in Italien überprüft. Die Einträge enthalten Haustierrichtlinien, Ausstattung und Echtzeit-Verfügbarkeit und werden von Vor-Ort-Inspektoren aktualisiert."
         }
       ]
     },

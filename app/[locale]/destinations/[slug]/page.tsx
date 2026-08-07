@@ -254,7 +254,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                   href={`/${locale}/countries/${dest.country.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`}
                   className="hover:text-white transition-colors underline decoration-blue-500/30 hover:decoration-white/50"
                 >
-                  {dest.country}
+                  {localizedCountry}
                 </Link>
               </p>
               <p className="text-blue-200 text-base mt-2 max-w-2xl leading-relaxed">{localeIntro}</p>
@@ -265,7 +265,7 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                     🏨 {destHotels.length} {locale === 'fr' ? 'hôtels' : locale === 'es' ? 'hoteles' : locale === 'pt' ? 'hotéis' : locale === 'de' ? 'Hotels' : 'hotels'}
                   </span>
                   <span className="inline-flex items-center gap-1.5 bg-white/10 rounded-full px-4 py-1.5 text-sm text-white/90">
-                    💶 {locale === 'fr' ? 'Dès' : locale === 'es' ? 'Desde' : locale === 'pt' ? 'Desde' : locale === 'de' ? 'Ab' : 'From'} €{Math.min(...destHotels.map(h => h.priceFrom).filter(Boolean))}/night
+                    💶 {locale === 'fr' ? 'Dès' : locale === 'es' ? 'Desde' : locale === 'pt' ? 'Desde' : locale === 'de' ? 'Ab' : 'From'} €{Math.min(...destHotels.map(h => h.priceFrom).filter(Boolean))}{locale === 'de' ? '/Nacht' : locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : '/night'}
                   </span>
                 </div>
               )}
@@ -460,6 +460,8 @@ export default async function DestinationPage({ params }: PageProps<'/[locale]/d
                 ? `Tous les hôtels acceptant les animaux à ${localizedName}, directement depuis Booking.com, cliquez sur un marqueur pour voir le prix et réserver.`
                 : locale === 'es'
                 ? `Todos los hoteles que admiten mascotas en ${localizedName}, directamente desde Booking.com, haz clic en un marcador para ver el precio y reservar.`
+                : locale === 'de'
+                ? `Alle haustierfreundlichen Hotels in ${localizedName}, live von Booking.com, klicken Sie auf einen Marker, um Preise zu sehen und zu buchen.`
                 : `All pet-friendly hotels in ${localizedName}, live from Booking.com, click any marker to see prices and book.`}
             </p>
             <PetMap

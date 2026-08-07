@@ -39,7 +39,11 @@
           "tipFr": "Réservez en ligne la veille pour une table en terrasse ; les huit places extérieures sont pleines dès 20h d`avril à octobre.",
           "tipEs": "Reserva online el día anterior para una mesa en terraza; las ocho plazas exteriores se llenan a las 20:00 de abril a octubre.",
           "tipPt": "Reserve online na véspera para uma mesa de esplanada; os oito lugares exteriores enchem-se às 20:00 de abril a outubro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Aquasul+Tavira"
+          "googleMapsUrl": "https://maps.google.com/?q=Aquasul+Tavira",
+          "descriptionDe": "Eine familiengeführte mediterran-portugiesische Küche in einer Seitengasse zwei Blocks von der Praça da República entfernt, mit einer kleinen Gehwegterrasse unter Bougainvillea. Steinofenpizzen stehen neben gegrilltem atum de Tavira und frischer Pasta, und das Personal bringt Hunden ungefragt Wassernäpfe.",
+          "petPolicyDe": "Angeleinte Hunde willkommen auf der Terrasse; Wassernapf wird bereitgestellt",
+          "mustTryDe": "Atum-de-Tavira-Steak und die Steinofen-Gemüsepizza",
+          "tipDe": "Buchen Sie online einen Tag im Voraus für einen Terrassentisch, die acht Außenplätze sind von April bis Oktober ab 20:00 Uhr belegt."
         },
         {
           "name": "Pausa Petisqueira",
@@ -65,7 +69,11 @@
           "tipFr": "Commandez quatre petiscos à partager à deux ; la cuisine les envoie au fil de la préparation et les rythmer évite l`encombrement de la table.",
           "tipEs": "Pide cuatro petiscos para compartir entre dos; la cocina los envía según están listos y dosificarlos evita que se amontone la mesa.",
           "tipPt": "Peça quatro petiscos para partilhar entre dois; a cozinha envia-os à medida que ficam prontos e ritmá-los evita que a mesa se acumule.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pausa+Petisqueira+Tavira"
+          "googleMapsUrl": "https://maps.google.com/?q=Pausa+Petisqueira+Tavira",
+          "descriptionDe": "Eine winzige Petisqueira einen Block von der Ponte Romana entfernt, geführt von einem jungen Paar aus Tavira. Die Karte wechselt mit dem Fang des Mercado Municipal: Oktopussalat, ameijoas à Bulhão Pato, conquilhas de Cacela und Thunfisch-Sashimi aus Tavira, alles serviert an drei Gehwegtischen, die angeleinte Hunde willkommen heißen.",
+          "petPolicyDe": "Angeleinte Hunde nur auf der Terrasse willkommen",
+          "mustTryDe": "Conquilhas de Cacela à Bulhão Pato und Atum-de-Tavira-Tataki",
+          "tipDe": "Bestellen Sie vier Petiscos zum Teilen für zwei Personen, die Küche schickt sie heraus, sobald sie fertig sind, und das Abstimmen des Tempos verhindert, dass sich der Tisch auf einmal füllt."
         },
         {
           "name": "Restaurante Avenida",
@@ -91,7 +99,11 @@
           "tipFr": "Calez le dîner sur 20h pour voir la lumière du coucher de soleil sur le pont romain depuis la terrasse en bord de rivière ; les tables face ouest partent en premier.",
           "tipEs": "Programa la cena a las 20:00 para ver la luz del atardecer sobre el puente romano desde la terraza junto al río; las mesas con vista al oeste se van primero.",
           "tipPt": "Planeie o jantar para as 20:00 para ver a luz do pôr-do-sol no Ponte Romana a partir da esplanada à beira-rio; as mesas viradas a oeste vão primeiro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+Avenida+Tavira"
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+Avenida+Tavira",
+          "descriptionDe": "Eine altbewährte Tasca am Fluss auf dem östlichen Ufer des Rio Gilão, mit einer überdachten Gehwegterrasse gegenüber der Ponte Romana. Die Küche bleibt bei Algarve-Klassikern: arroz de polvo, cataplana, gegrillte Sardinen und dem Tagesfang der Boote aus Tavira.",
+          "petPolicyDe": "Angeleinte Hunde willkommen auf der Terrasse; Wassernapf auf Anfrage",
+          "mustTryDe": "Arroz de polvo und cataplana de marisco für zwei Personen",
+          "tipDe": "Planen Sie das Abendessen für 20:00 Uhr, um das Sonnenuntergangslicht auf die Ponte Romana von der Flussterrasse aus zu sehen, die westseitigen Tische sind zuerst vergeben."
         }
       ],
       "tipsEn": [
@@ -168,6 +180,22 @@
         {
           "q": "Posso levar o meu cão às esplanadas do Rio Gilão?",
           "a": "Sim, toda a Rua do Cais e a Rua José Pires Padinha à beira-rio são pedonais e pet-friendly, com cães com trela bem-vindos em quase todas as esplanadas o ano inteiro."
+        }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Tavira",
+      "introDe": "Tavira erstreckt sich über beide Ufer des Rio Gilão im ruhigeren östlichen Algarve, mit weißgetünchten Gassen, die von der Praça da República zur siebenbogigen Ponte Romana und den Esplanadas am Fluss führen. Fast jede Terrasse heißt angeleinte Hunde ganzjährig willkommen, das milde Algarve-Klima hält das Essen im Freien den ganzen Winter über offen, und der Rhythmus ist spürbar ruhiger als in Albufeira oder Lagos.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Tavira auch drinnen erlaubt?",
+          "a": "Angeleinte Hunde sind auf praktisch jeder Gehweg- und Flussterrasse willkommen. In klimatisierten Innenräumen im Juli/August werden Hunde oft lieber draußen gesehen, fragen Sie einfach an der Tür."
+        },
+        {
+          "q": "Stellen Restaurants Wassernäpfe bereit?",
+          "a": "Die meisten Terrassen bringen ungefragt einen Napf, andernfalls funktioniert die Bitte um água para o cão immer."
+        },
+        {
+          "q": "Darf ich meinen Hund zu den Esplanadas am Rio Gilão mitnehmen?",
+          "a": "Ja, die gesamte Uferpromenade Rua do Cais und Rua José Pires Padinha ist eine Fußgängerzone und hundefreundlich, angeleinte Hunde sind auf fast jeder Esplanada ganzjährig willkommen."
         }
       ]
     },
@@ -389,7 +417,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens en laisse muselés + demi-tarif, heures creuses uniquement",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes con correa con bozal + mitad de tarifa, solo horas valle",
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes com trela com açaime + meia tarifa, apenas horas de menor afluência",
-          "googleMapsUrl": "https://maps.google.com/?q=Estacao+CP+Tavira"
+          "googleMapsUrl": "https://maps.google.com/?q=Estacao+CP+Tavira",
+          "descriptionDe": "Die CP-Regionallinie fährt von Tavira nach Faro in 40 Minuten (rund 4,30 € pro Strecke) und ostwärts nach Vila Real de Santo António in 30 Minuten, mit Anschluss in Faro an Fernzüge nach Lissabon. Kleine Hunde in Transportboxen fahren kostenlos, größere angeleinte Hunde benötigen einen Maulkorb und ein Ticket zum halben Fahrpreis, nur außerhalb der Stoßzeiten.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere angeleinte Hunde mit Maulkorb + halber Fahrpreis, nur außerhalb der Stoßzeiten"
         },
         {
           "name": "Vamus EVA Algarve coastal bus",
@@ -405,7 +435,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens à la discrétion du chauffeur quand le bus n`est pas plein",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes a discreción del conductor cuando el bus no está lleno",
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes à discrição do motorista quando o autocarro não está cheio",
-          "googleMapsUrl": "https://maps.google.com/?q=Terminal+Rodoviario+Tavira"
+          "googleMapsUrl": "https://maps.google.com/?q=Terminal+Rodoviario+Tavira",
+          "descriptionDe": "Vamus EVA betreibt Algarve-Küstenlinien von Tavira westwärts nach Faro und Albufeira sowie ostwärts nach Vila Real de Santo António, plus eine kurze Verbindung nach Cabanas de Tavira und Cacela Velha. Einzelfahrten kosten rund 3–6 €, kleine Hunde in Transportboxen fahren kostenlos, größere angeleinte Hunde nach Ermessen des Fahrers.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; große Hunde nach Ermessen des Fahrers, wenn der Bus nicht voll ist"
         },
         {
           "name": "Ferry Quatro Águas to Ilha de Tavira",
@@ -421,7 +453,9 @@
           "petPolicyFr": "Chiens en laisse bienvenus sans supplément",
           "petPolicyEs": "Perros con correa bienvenidos sin coste extra",
           "petPolicyPt": "Cães com trela bem-vindos sem custo extra",
-          "googleMapsUrl": "https://maps.google.com/?q=Cais+Quatro+Aguas+Tavira"
+          "googleMapsUrl": "https://maps.google.com/?q=Cais+Quatro+Aguas+Tavira",
+          "descriptionDe": "Eine kleine Personenfähre überquert den Kanal der Ria Formosa vom Anleger Quatro Águas, 2 km östlich von Tavira, zum Dünenende der Ilha de Tavira, ganzjährig alle 15–20 Minuten. Die 5-minütige Überfahrt kostet rund 2 € pro Strecke und heißt angeleinte Hunde kostenlos an Bord willkommen.",
+          "petPolicyDe": "Angeleinte Hunde ohne Aufpreis willkommen"
         }
       ],
       "faqsEn": [
@@ -478,6 +512,22 @@
         {
           "q": "Posso atravessar para Espanha em Vila Real de Santo António com o meu cão?",
           "a": "Sim, o ferry sobre o Rio Guadiana de Vila Real de Santo António para Ayamonte aceita peões e carros com cães com trela; passaporte UE e vacina antirrábica são verificados ao acaso."
+        }
+      ],
+      "titleDe": "Öffentliche Verkehrsmittel in Tavira mit Hund",
+      "introDe": "Tavira liegt an der regionalen Bahnlinie CP Linha do Algarve zwischen Faro und Vila Real de Santo António, mit einem kleinen Vamus-EVA-Busterminal gegenüber dem Bahnhof und einem Fähranleger in Quatro Águas zur Ilha de Tavira. Von Vila Real de Santo António aus, 25 Minuten östlich, überquert eine Fähre über den Rio Guadiana nach Ayamonte in Spanien. Portugiesische Vorschriften erlauben kleinen Hunden in Transportboxen die kostenlose Mitfahrt und akzeptieren große angeleinte Hunde mit Maulkorb außerhalb der Stoßzeiten.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich einen Maulkorb für meinen Hund im Zug ab Tavira?",
+          "a": "Ja, größere Hunde ohne Transportbox müssen in den CP-Regionalzügen einen Maulkorb tragen. Kleine Hunde in geschlossenen Transportboxen sind davon befreit und fahren kostenlos."
+        },
+        {
+          "q": "Darf ich meinen Hund mit der Fähre zur Ilha de Tavira mitnehmen?",
+          "a": "Ja, angeleinte Hunde fahren ganzjährig kostenlos mit der Fähre Quatro Águas. Auf der Inselseite wird der hundefreundliche Zugang zum Strand durch die saisonalen Gemeindevorschriften geregelt."
+        },
+        {
+          "q": "Kann ich mit meinem Hund in Vila Real de Santo António nach Spanien übersetzen?",
+          "a": "Ja, die Fähre über den Rio Guadiana von Vila Real de Santo António nach Ayamonte nimmt Fußgänger und Autos mit angeleinten Hunden mit; EU-Heimtierausweis und Tollwutnachweis werden stichprobenartig kontrolliert."
         }
       ]
     },
@@ -640,7 +690,12 @@
           "tipFr": "Enregistrez la ligne mobile d`urgence (+351 912 390 164) en secours ; la couverture mobile chute sur l`A22 entre Olhão et Tavira et il faudra peut-être appeler avant.",
           "tipEs": "Guarda la línea móvil de urgencias (+351 912 390 164) como respaldo; la cobertura móvil cae en la A22 entre Olhão y Tavira y puede que tengas que llamar antes.",
           "tipPt": "Guarde a linha móvel de urgência (+351 912 390 164) como reforço; a cobertura móvel cai na A22 entre Olhão e Tavira e pode ter de ligar antes.",
-          "googleMapsUrl": "https://maps.google.com/?q=AniCura+Algarve+Hospital+Veterinario+Faro"
+          "googleMapsUrl": "https://maps.google.com/?q=AniCura+Algarve+Hospital+Veterinario+Faro",
+          "hoursDe": "24-Stunden-Notfallleitung; Klinik Mo–Sa 9:00–20:00 Uhr",
+          "descriptionDe": "Das wichtigste rund um die Uhr geöffnete Tierkrankenhaus für den östlichen Algarve, 2016 eröffnet und 2024 erweitert, um das umfassendste Tierkrankenhaus Südportugals zu werden. In der Nähe des Flughafens Faro gelegen, mit Bildgebung, Chirurgie, Innerer Medizin, Onkologie und Notfallversorgung außerhalb der Öffnungszeiten; 35 Minuten von Tavira über die Autobahn A22.",
+          "petPolicyDe": "Notfälle ohne Termin werden immer angenommen; bei schweren Verletzungen vorab anrufen",
+          "servicesDe": "Notfall, Chirurgie, Bildgebung, Innere Medizin, Onkologie, Zahnmedizin",
+          "tipDe": "Speichern Sie die mobile Notfallnummer (+351 912 390 164) als Backup, der Mobilfunkempfang bricht auf der Autobahn A22 zwischen Olhão und Tavira ab, sodass Sie eventuell vorab anrufen müssen."
         },
         {
           "name": "Tavivet Clínica Veterinária",
@@ -676,7 +731,12 @@
           "tipFr": "Réservez le premier créneau du matin pour une validation passeport européen le jour même ; les après-midis se remplissent de consultations locales.",
           "tipEs": "Reserva el primer hueco de la mañana para validación de pasaporte UE el mismo día; las tardes se llenan de consultas locales.",
           "tipPt": "Reserve o primeiro slot da manhã para validação de passaporte UE no mesmo dia; as tardes enchem-se com consultas locais.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tavivet+Tavira"
+          "googleMapsUrl": "https://maps.google.com/?q=Tavivet+Tavira",
+          "hoursDe": "Mo–Fr 9:30–13:00 und 15:00–19:30 Uhr; Sa 9:30–13:00 Uhr; So geschlossen",
+          "descriptionDe": "Eine zentrale Allgemeinpraxis in der Rua Almirante Cândido dos Reis, 5 Minuten von der Praça da República entfernt, ideal für Impfauffrischungen, EU-Ausweis-Stempel und kleinere nicht dringende Konsultationen. Verweist bei Fällen außerhalb der Öffnungszeiten und komplexen Fällen an das AniCura Algarve.",
+          "petPolicyDe": "Termine bevorzugt; Laufkundschaft wird zwischen gebuchten Terminen gesehen",
+          "servicesDe": "Impfungen, EU-Ausweis, Allgemeinmedizin, kleinere Operationen",
+          "tipDe": "Buchen Sie den ersten Morgentermin für eine EU-Ausweis-Freigabe am selben Tag, die Nachmittage sind mit lokalen Konsultationen ausgebucht."
         },
         {
           "name": "Clínica Veterinária de Tavira",
@@ -712,7 +772,12 @@
           "tipFr": "L`heure de fermeture plus tardive (20h) est utile si votre chien tombe malade après une journée sur l`Ilha de Tavira ; un créneau tardif le jour même évite les 35 km de route vers Faro.",
           "tipEs": "El cierre más tardío (20:00) es útil si tu perro enferma tras un día en la Ilha de Tavira; un hueco tardío el mismo día evita los 35 km de carretera hasta Faro.",
           "tipPt": "O fecho mais tarde (20:00) é útil se o seu cão adoecer após um dia na Ilha de Tavira; um slot tardio no mesmo dia evita os 35 km de estrada até Faro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+de+Tavira"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+de+Tavira",
+          "hoursDe": "Mo–Fr 9:30–12:30 und 15:00–20:00 Uhr; Sa 9:30–13:00 Uhr; So geschlossen",
+          "descriptionDe": "Eine zweite Allgemeinpraxis in der Rua Chefe António Afonso, wenige Blocks vom Mercado Municipal entfernt, mit Nachmittagsterminen bis 20:00 Uhr (später als bei den meisten Algarve-Praxen). Nützliche Alternative, wenn die zentrale Tavivet ausgebucht ist.",
+          "petPolicyDe": "Termine bevorzugt; Laufkundschaft wird zwischen gebuchten Terminen gesehen",
+          "servicesDe": "Impfungen, EU-Ausweis, Allgemeinmedizin, kleinere Operationen",
+          "tipDe": "Die spätere Schließzeit (20:00 Uhr) ist hilfreich, wenn Ihr Hund nach einem Tag auf der Ilha de Tavira erkrankt, ein später Termin am selben Tag erspart die 35 km lange Fahrt nach Faro."
         }
       ],
       "faqsEn": [
@@ -769,6 +834,22 @@
         {
           "q": "Posso carimbar um passaporte UE antes de voar de Faro?",
           "a": "Sim, as duas clínicas de Tavira listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Tavira",
+      "introDe": "Tavira hat drei allgemeinmedizinische Tagespraxen im Zentrum, und das rund um die Uhr geöffnete AniCura Algarve Hospital Veterinário in Faro (35 km westlich) deckt nächtliche Notfälle für den östlichen Algarve ab. Das Überweisungskrankenhaus Hospital Veterinário do Algarve in Faro ist das regionale Fachzentrum für Kardiologie, Onkologie und komplexe Chirurgie.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächstgelegene 24-Stunden-Tierarzt zu Tavira?",
+          "a": "Das AniCura Algarve Hospital Veterinário in Faro (+351 289 806 047) betreibt die 24-Stunden-Notfallleitung für den östlichen Algarve, 35 Autominuten westlich von Tavira über die A22."
+        },
+        {
+          "q": "Sprechen die Tierärzte in Tavira Englisch?",
+          "a": "Ja, im AniCura Algarve und in beiden zentralen Praxen in Tavira, leitende Tierärzte sind dank der großen britischen und niederländischen Expat-Kundschaft durchweg fließend."
+        },
+        {
+          "q": "Kann ich vor dem Abflug ab Faro einen EU-Heimtierausweis-Stempel bekommen?",
+          "a": "Ja, beide gelisteten Kliniken in Tavira stellen EU-Heimtierausweise aus und aktualisieren sie. Termine am selben Tag sind für gesunde Hunde in der Regel verfügbar."
         }
       ]
     },
@@ -865,6 +946,22 @@
           "q": "Qual é o melhor mês para Tavira com cão?",
           "a": "Abril-maio e setembro-outubro: temperaturas suaves, menor humidade, menos gente e acesso livre a todas as praias fora da época balnear."
         }
+      ],
+      "titleDe": "Haustierfreundliche Tipps für einen Besuch in Tavira",
+      "introDe": "Tavira belohnt Reisende mit Haustier mit einem ruhigeren Algarve-Rhythmus als Lagos oder Albufeira, milden Meerestemperaturen von Oktober bis Mai, einem zu Fuß erkundbaren Zentrum, geteilt durch den Rio Gilão und die siebenbogige Ponte Romana, nur per Fähre erreichbaren Barriereinseln, die die Menschenmassen filtern, sowie der Fähre über den Rio Guadiana nach Spanien. Planen Sie Strandbesuche für die Nebensaison, um die sommerlichen Badesaison-Beschränkungen zu umgehen, und wohnen Sie im centro histórico für die einfachste autofreie Logistik mit Hund.",
+      "faqsDe": [
+        {
+          "q": "Ist Tavira eine gute Basis für einen haustierfreundlichen Algarve-Urlaub?",
+          "a": "Ja, die Kombination aus mildem Meeresklima, begehbarem Zentrum, der von der Fähre gefilterten Ilha de Tavira und den Barriereinseln von Cabanas sowie den Deichwegen der Salinen macht sie zur stärksten Haustierbasis im östlichen Algarve, spürbar ruhiger als Albufeira oder Lagos."
+        },
+        {
+          "q": "Brauche ich in der Öffentlichkeit in Tavira einen Maulkorb?",
+          "a": "Nur für Rassen auf der portugiesischen Liste der eingeschränkten Rassen, Standardrassen benötigen nur eine Leine. Der Vamus-EVA-Bus und der CP-Zug akzeptieren große Hunde mit Maulkorb und kleine Hunde in Transportboxen kostenlos."
+        },
+        {
+          "q": "Was ist der beste Monat für Tavira mit Hund?",
+          "a": "April–Mai und September–Oktober: milde Temperaturen, geringere Luftfeuchtigkeit, weniger Andrang und uneingeschränkter Zugang zu allen Stränden außerhalb der Badesaison."
+        }
       ]
     },
     "attractions": {
@@ -898,7 +995,11 @@
           "tipFr": "Traversez à la tombée du jour ; les lampes du pont éclairent les sept arches reflétées dans le Rio Gilão pour la meilleure pose longue, avec peu de piétons.",
           "tipEs": "Cruza al anochecer; las farolas del puente iluminan los siete arcos reflejados en el Rio Gilão para la mejor exposición larga, con poco tráfico peatonal.",
           "tipPt": "Atravesse ao anoitecer; as luminárias da ponte iluminam os sete arcos reflectidos no Rio Gilão para a melhor longa exposição, com pouco trânsito pedonal.",
-          "googleMapsUrl": "https://maps.google.com/?q=Ponte+Romana+Tavira"
+          "googleMapsUrl": "https://maps.google.com/?q=Ponte+Romana+Tavira",
+          "descriptionDe": "Die siebenbogige Steinbrücke über den Rio Gilão ist das Wahrzeichen von Tavira, traditionell den Römern zugeschrieben, aber größtenteils in mittelalterlicher und moderner Zeit wiederaufgebaut. Die Brücke ist seit 2016 reine Fußgängerzone und lässt Tag und Nacht angeleinte Hunde zu, der beste Fotowinkel bietet sich von der Esplanade der Praça da República.",
+          "dogPolicyDe": "Angeleinte Hunde Tag und Nacht auf der Brücke willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Überqueren Sie die Brücke in der Dämmerung, die Brückenlaternen beleuchten die sieben Bögen, gespiegelt im Rio Gilão, für die beste Langzeitbelichtung bei geringem Fußgängerverkehr."
         },
         {
           "name": "Castelo de Tavira and Igreja de Santa Maria do Castelo",
@@ -921,7 +1022,11 @@
           "tipFr": "Montez l`escalier du donjon à l`heure dorée pour l`angle carte postale sur la Ponte Romana avec les salinas captant les dernières lueurs.",
           "tipEs": "Sube las escaleras del torreón en la hora dorada para el ángulo de postal sobre la Ponte Romana con las salinas captando las últimas luces.",
           "tipPt": "Suba as escadas da torre de menagem à hora dourada para o ângulo de postal sobre a Ponte Romana com as salinas a captar as últimas luzes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Castelo+de+Tavira"
+          "googleMapsUrl": "https://maps.google.com/?q=Castelo+de+Tavira",
+          "descriptionDe": "Das Castelo de Tavira auf dem Hügel bewahrt Mauern aus der maurischen Zeit und einen kleinen gestalteten Garten im Bergfried, mit Panoramablick über die siebenbogige Brücke, die Salinen und die dahinterliegende Ilha de Tavira. Die angrenzende Igreja de Santa Maria do Castelo aus dem 13. Jahrhundert beherbergt das Grab des Reconquista-Ritters Dom Paio Peres Correia; das Burginnere und die Gärten sind ganzjährig hundefreundlich und kostenlos.",
+          "dogPolicyDe": "Angeleinte Hunde willkommen in den Burggärten; Kircheninnenraum nur Assistenzhunde",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Steigen Sie zur goldenen Stunde die Treppen des Bergfrieds hinauf für den Postkartenblick über die Ponte Romana, während die Salinen das letzte Licht einfangen."
         },
         {
           "name": "Praça da República and Núcleo Islâmico",
@@ -944,7 +1049,11 @@
           "tipFr": "Le samedi matin amène le marché artisanal local sous l`arcade de la Câmara ; les jours de semaine sont plus calmes pour laisser votre chien explorer la place sans foule.",
           "tipEs": "El sábado por la mañana trae el mercado artesanal local bajo la arcada de la Câmara; los días laborables son más tranquilos para dejar a tu perro explorar la plaza sin gentío.",
           "tipPt": "O sábado de manhã traz o mercado artesanal local sob a arcada da Câmara; os dias úteis são mais calmos para deixar o seu cão explorar a praça sem multidão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Praca+da+Republica+Tavira"
+          "googleMapsUrl": "https://maps.google.com/?q=Praca+da+Republica+Tavira",
+          "descriptionDe": "Die Praça da República ist der Platz am Flussufer, gerahmt von der Arkade der Câmara Municipal aus dem 18. Jahrhundert und mit Blick auf die Ponte Romana, mit dem kleinen Museum Núcleo Islâmico (Artefakte aus der maurischen Zeit, 1995 unter dem Platz ausgegraben) in der Ecke. Der Platz und die Arkade sind ganzjährig vollständig hundefreundlicher öffentlicher Außenraum.",
+          "dogPolicyDe": "Angeleinte Hunde willkommen auf dem gesamten Platz; Museumsinnenraum nur Assistenzhunde",
+          "admissionFeeDe": "Platz kostenlos; Museum 2 €",
+          "tipDe": "Samstagvormittags findet der lokale Kunsthandwerksmarkt unter der Arkade der Câmara statt, an Wochentagen ist es ruhiger, damit Ihr Hund den Platz ohne Menschenmassen erkunden kann."
         }
       ],
       "tipsEn": [
@@ -1022,6 +1131,22 @@
           "q": "A cidade velha de Tavira é acessível a pé com um cão?",
           "a": "Sim, o centro histórico é inteiramente pedonal entre a Praça da República e o Castelo, e um cão com trela faz o circuito completo incluindo as duas margens em cerca de 30 minutos."
         }
+      ],
+      "titleDe": "Top hundefreundliche Sehenswürdigkeiten in Tavira",
+      "introDe": "Tavira vereint eine seltene Dichte an hundewillkommenem Kulturerbe im Freien in einem kompakten weißgetünchten Zentrum: die siebenbogige Ponte Romana über dem Rio Gilão, die Ruinen des Castelo de Tavira auf dem Hügel mit Gartenblick, die Igreja de Santa Maria do Castelo und den Platz Praça da República. Alle bedeutenden Freiluftstätten lassen angeleinte Hunde zu, nur die kleinen Museumsinnenräume sind Assistenzhunden vorbehalten.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in den Museen von Tavira erlaubt?",
+          "a": "Nur Assistenzhunde dürfen die kleinen Innenräume des Núcleo Islâmico, des Palácio da Galeria und der Casa das Portas do Mar betreten, angeleinte Haustiere sind auf allen Plätzen, am Flussufer und an den Freiluft-Kulturerbestätten willkommen."
+        },
+        {
+          "q": "Darf ich meinen Hund mit ins Castelo de Tavira nehmen?",
+          "a": "Ja, die Burggärten und die Treppen des Bergfrieds sind ganzjährig hundefreundlich und kostenlos, nur der Innenraum der angrenzenden Igreja de Santa Maria do Castelo beschränkt Haustiere auf Assistenzhunde."
+        },
+        {
+          "q": "Ist die Altstadt von Tavira mit Hund zu Fuß erkundbar?",
+          "a": "Ja, der centro histórico ist zwischen der Praça da República und dem Castelo vollständig autofrei, und ein angeleinter Hund bewältigt die komplette Runde einschließlich beider Flussufer in etwa 30 Minuten."
+        }
       ]
     },
     "petsitting": {
@@ -1051,7 +1176,10 @@
           "servicesFr": "Visites, garde de jour, pension de nuit",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno",
           "servicesPt": "Visitas, creche diurna, alojamento nocturno",
-          "openingHours": "App available 24/7; sitters set own hours"
+          "openingHours": "App available 24/7; sitters set own hours",
+          "descriptionDe": "Die führende Peer-to-Peer-Plattform für Haustierbetreuung in Portugal, mit verifizierten Betreuern in Tavira, die Kurzbesuche, Tagesbetreuung und Übernachtungspension anbieten. Die meisten Betreuer haben Erdgeschosswohnungen im centro histórico oder kleine Algarve-Gärten am Rand von Santa Luzia und Cabanas mit schnellem Zugang ins Freie.",
+          "petPolicyDe": "Individuelle Bedingungen je Betreuer; versicherte und bewertete Buchungen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungspension"
         },
         {
           "name": "DogHero Tavira",
@@ -1070,7 +1198,10 @@
           "servicesFr": "Visites, garde de jour, pension de nuit, balades",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno, paseos",
           "servicesPt": "Visitas, creche diurna, alojamento nocturno, passeios",
-          "openingHours": "App available 24/7; sitters set own hours"
+          "openingHours": "App available 24/7; sitters set own hours",
+          "descriptionDe": "Das aus Brasilien stammende DogHero ist die zweitgrößte Peer-to-Peer-Plattform für Haustierbetreuung in Portugal, mit einem Angebot im östlichen Algarve, das Betreuer im Zentrum von Tavira, in Santa Luzia, Cabanas und Vila Real de Santo António umfasst. Verifizierte Profile, versicherte Aufenthalte und In-App-Nachrichten auf Portugiesisch und Englisch.",
+          "petPolicyDe": "Individuelle Bedingungen je Betreuer; versicherte und bewertete Buchungen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungspension, Gassi-Service"
         }
       ],
       "tipsEn": [
@@ -1147,6 +1278,22 @@
         {
           "q": "Tenho de levar a comida do cão ao cuidador?",
           "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundepension in Tavira",
+      "introDe": "Tavira verfügt dank seiner großen britischen, niederländischen und deutschen Expat-Gemeinde sowie des ganzjährigen Touristenstroms über ein wachsendes Netzwerk an Haustierbetreuern. Die meisten Dienste laufen über Pawshake und DogHero sowie mehrere ländliche Pensionen im Hinterland von Santa Catarina da Fonte do Bispo und Santo Estêvão. Englisch wird durchweg gesprochen.",
+      "faqsDe": [
+        {
+          "q": "Was kostet Haustierbetreuung in Tavira?",
+          "a": "Rechnen Sie mit 18–28 € pro Nacht für die Pension und 10–15 € pro 30-minütigem Spaziergang über Pawshake oder DogHero, ländliche Pensionen in Santa Catarina und Santo Estêvão berechnen ab 22 € pro Tag."
+        },
+        {
+          "q": "Können Hotels einen Betreuer für einen Abend empfehlen?",
+          "a": "Ja, größere Hotels in Tavira führen eine kurze Liste von Pawshake-Betreuern, die abendliche Kurzbesuche übernehmen, nützlich für ein langes Abendessen in Cacela Velha oder einen Restaurantabend in Faro."
+        },
+        {
+          "q": "Muss ich das Futter meines Hundes zu einem Betreuer mitbringen?",
+          "a": "Die meisten Betreuer bevorzugen Kontinuität, bringen Sie Futter für 2–3 Tage vom gewohnten Trockenfutter sowie den gewohnten Napf mit, um Magenverstimmungen zu vermeiden."
         }
       ]
     }

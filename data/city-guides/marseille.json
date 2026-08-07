@@ -37,7 +37,11 @@
           "descriptionPt": "Emblemático bar-restaurante no cais do Vieux-Port, célebre pela sua esplanada com vistas diretas para o porto e pelo seu constante acolhimento de cães. Ementa provençal com excelentes travessas de marisco e rosé a copo.",
           "petPolicyPt": "Cães bem-vindos na esplanada",
           "mustTryPt": "Bouillabaisse ou travessa de marisco na esplanada virada para o porto",
-          "tipPt": "Reserve a mesa de canto exterior mais próxima da água, dá ao seu cão mais espaço para se acomodar confortavelmente."
+          "tipPt": "Reserve a mesa de canto exterior mais próxima da água, dá ao seu cão mais espaço para se acomodar confortavelmente.",
+          "descriptionDe": "Ikonisches Bar-Restaurant am Kai des Vieux-Port, bekannt für seine Terrasse mit direktem Blick auf den Hafen und einem verlässlich hundefreundlichen Empfang. Provenzalische Speisekarte mit ausgezeichneten Meeresfrüchteplatten und Rosé aus der Karaffe.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Bouillabaisse oder Meeresfrüchteplatte auf der Terrasse am Hafen",
+          "tipDe": "Reservieren Sie den Außentisch in der Ecke am nächsten zum Wasser, dort hat Ihr Hund am meisten Platz, um sich bequem niederzulassen."
         },
         {
           "name": "Chez Fonfon",
@@ -63,7 +67,11 @@
           "descriptionPt": "Lendário restaurante de marisco de Marselha no pitoresco porto de pesca do Vallon des Auffes, que aceita cães na sua esplanada com vista para o pequeno porto. Um dos melhores endereços de bouillabaisse de França.",
           "petPolicyPt": "Cães bem-vindos na esplanada com vista para o porto",
           "mustTryPt": "Bouillabaisse tradicional, encomendar para toda a mesa, com um mínimo de 24h de antecedência",
-          "tipPt": "O Vallon des Auffes só é acessível a pé, estacione na Corniche Kennedy e desça os degraus íngremes (geríveis com a maioria dos cães)."
+          "tipPt": "O Vallon des Auffes só é acessível a pé, estacione na Corniche Kennedy e desça os degraus íngremes (geríveis com a maioria dos cães).",
+          "descriptionDe": "Legendäres Fischrestaurant in Marseille am malerischen Fischerhafen Vallon des Auffes, das Hunde auf seiner Terrasse mit Blick auf den winzigen Hafen willkommen heißt. Eine der besten Adressen für Bouillabaisse in Frankreich.",
+          "petPolicyDe": "Hunde auf der Terrasse mit Hafenblick willkommen",
+          "mustTryDe": "Traditionelle Bouillabaisse, für den ganzen Tisch bestellen, mindestens 24 Stunden im Voraus ankündigen",
+          "tipDe": "Der Vallon des Auffes ist nur zu Fuß erreichbar, parken Sie an der Corniche Kennedy und gehen Sie die steilen Stufen hinunter (für die meisten Hunde machbar)."
         },
         {
           "name": "The Roof Kitchen",
@@ -89,7 +97,11 @@
           "descriptionPt": "Restaurante que aceita cães no bairro de Château Gombert, com ar de aldeia, acolhendo explicitamente animais para refeições em família. Boa fuga ao movimentado centro da cidade, com um ambiente provençal descontraído.",
           "petPolicyPt": "Cães explicitamente bem-vindos para refeições em família",
           "mustTryPt": "Prato do dia provençal, muda diariamente com produtos do mercado local",
-          "tipPt": "Château Gombert fica a 20 minutos do centro de carro mas parece outra cidade, combine com um passeio pelo Parc du Château Gombert com o seu cão."
+          "tipPt": "Château Gombert fica a 20 minutos do centro de carro mas parece outra cidade, combine com um passeio pelo Parc du Château Gombert com o seu cão.",
+          "descriptionDe": "Hundefreundliches Restaurant im dorfähnlichen Viertel Château Gombert, das Haustiere bei Familienessen ausdrücklich willkommen heißt. Gute Abwechslung zum geschäftigen Stadtzentrum mit entspannter provenzalischer Atmosphäre.",
+          "petPolicyDe": "Hunde bei Familienessen ausdrücklich willkommen",
+          "mustTryDe": "Provenzalisches Tagesgericht, wechselt täglich mit Produkten vom lokalen Markt",
+          "tipDe": "Château Gombert ist 20 Minuten mit dem Auto vom Zentrum entfernt, fühlt sich aber wie eine andere Stadt an, kombinieren Sie den Besuch mit einem Spaziergang im Parc du Château Gombert für Ihren Hund."
         }
       ],
       "tipsEn": [
@@ -168,6 +180,22 @@
         {
           "q": "O Chez Fonfon aceita cães?",
           "a": "Sim, os cães são bem-vindos na esplanada do Chez Fonfon, com vista para o porto de pesca do Vallon des Auffes. Recomenda-se reserva, pois as mesas são limitadas."
+        }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Marseille",
+      "introDe": "Marseilles Terrassenkultur macht die Stadt hundefreundlicher als die meisten französischen Städte, die Kais des Vieux-Port, das Viertel Panier und die Uferpromenade Corniche haben alle Lokale, die Haustiere draußen willkommen heißen. Zugang in Innenräumen ist selten, wie im übrigen Frankreich, aber Terrassen gibt es reichlich.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Marseille im Innenbereich erlaubt?",
+          "a": "Selten, französische Hygienevorschriften schränken Hunde in Lebensmittelzubereitungsbereichen und den meisten Restaurant-Innenräumen ein. Das Essen auf der Terrasse ist in der ganzen Stadt die übliche Option."
+        },
+        {
+          "q": "Welches Viertel in Marseille hat die meisten hundefreundlichen Terrassen?",
+          "a": "Die Kais des Vieux-Port, der Cours Estienne d'Orves und das Viertel Panier haben die höchste Dichte an hundetoleranten Terrassen."
+        },
+        {
+          "q": "Akzeptiert Chez Fonfon Hunde?",
+          "a": "Ja, Hunde sind auf der Terrasse von Chez Fonfon mit Blick auf den Fischerhafen Vallon des Auffes willkommen. Reservierung empfohlen, da die Tische begrenzt sind."
         }
       ]
     },
@@ -473,6 +501,22 @@
           "q": "Como me desloco em Marselha com um cão grande?",
           "a": "Use a Uber, a Bolt ou um táxi local que aceite animais. A zona da Corniche também é percorrível a pé a partir do Vieux-Port (30 minutos a pé)."
         }
+      ],
+      "titleDe": "Mit dem Hund in Marseilles öffentlichen Verkehrsmitteln unterwegs",
+      "introDe": "Marseilles RTM-Netz hat strenge Regeln für Hunde: Kleine Hunde in einer geschlossenen Transportbox sind mit einer Fahrkarte für 1,70 € erlaubt; große und mittelgroße Hunde sind vollständig verboten. Dies ist deutlich restriktiver als in Paris, Lyon oder niederländischen Städten. Auto oder Taxi sind die praktische Option für größere Hunde.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit in die U-Bahn von Marseille nehmen?",
+          "a": "Nur kleine Hunde in einer vollständig geschlossenen Transportbox (Tasche/Korb) für 1,70 €. Hunde, die nicht in eine Transportbox passen, sind von allen RTM-U-Bahn- und Busdiensten ausgeschlossen."
+        },
+        {
+          "q": "Sind große Hunde in den öffentlichen Verkehrsmitteln von Marseille verboten?",
+          "a": "Ja, die RTM-Regeln verbieten große und mittelgroße Hunde ausdrücklich in allen Netzdiensten. Blinden- und Assistenzhunde sind die einzige Ausnahme."
+        },
+        {
+          "q": "Wie komme ich mit einem großen Hund in Marseille voran?",
+          "a": "Nutzen Sie Uber, Bolt oder ein örtliches hundefreundliches Taxi. Die Gegend der Corniche ist vom Vieux-Port aus auch zu Fuß erreichbar (30 Minuten)."
+        }
       ]
     },
     "beaches": {
@@ -663,7 +707,11 @@
           "descriptionPt": "O principal centro veterinário de urgência de Marselha, que funciona a partir das 19:00 nos dias úteis, de sábado ao meio-dia até segunda-feira às 8h, e 24/7 nos feriados. Ligue para o 04 91 13 44 44 antes de se deslocar.",
           "petPolicyPt": "Serviço de urgência sem marcação prévia",
           "mustTryPt": "Guarde o 04 91 13 44 44 no seu telemóvel antes de chegar a Marselha",
-          "tipPt": "Situado em La Valentine, a cerca de 15 minutos a este do centro da cidade de carro; use o GPS, pois o acesso pela D559 pode ser confuso."
+          "tipPt": "Situado em La Valentine, a cerca de 15 minutos a este do centro da cidade de carro; use o GPS, pois o acesso pela D559 pode ser confuso.",
+          "descriptionDe": "Marseilles wichtigstes tierärztliches Notfallzentrum, geöffnet werktags ab 19:00 Uhr, von Samstagmittag bis Montag 8 Uhr sowie rund um die Uhr an Feiertagen. Rufen Sie vor der Anfahrt 04 91 13 44 44 an.",
+          "petPolicyDe": "Notfalldienst ohne Termin",
+          "mustTryDe": "Speichern Sie 04 91 13 44 44 in Ihrem Handy, bevor Sie in Marseille ankommen",
+          "tipDe": "Befindet sich in La Valentine, etwa 15 Minuten östlich des Stadtzentrums mit dem Auto; nutzen Sie das GPS, da die Zufahrt über die D559 verwirrend sein kann."
         },
         {
           "name": "Clinique K d'Urgence",
@@ -689,7 +737,11 @@
           "descriptionPt": "Clínica de urgência secundária 24/7, gerida por veterinários experientes, que atua em toda a Marselha. Serviço de 24 horas confirmado, ligue antes de ir para confirmar a disponibilidade e obter a morada atual.",
           "petPolicyPt": "Serviço de urgência 24/7",
           "mustTryPt": "Use o 04 91 43 20 00 para contactar a K d'Urgence",
-          "tipPt": "Se ambas as clínicas estiverem cheias, marque 3115 (gratuito de qualquer telefone francês), liga-o ao veterinário de serviço disponível mais próximo em Bouches-du-Rhône."
+          "tipPt": "Se ambas as clínicas estiverem cheias, marque 3115 (gratuito de qualquer telefone francês), liga-o ao veterinário de serviço disponível mais próximo em Bouches-du-Rhône.",
+          "descriptionDe": "Zweite rund um die Uhr geöffnete Notfallklinik unter erfahrenen Tierärzten, tätig in ganz Marseille. Bestätigter 24-Stunden-Dienst, rufen Sie vor dem Besuch an, um die Verfügbarkeit zu bestätigen und die aktuelle Adresse zu erhalten.",
+          "petPolicyDe": "Notfalldienst rund um die Uhr",
+          "mustTryDe": "Nutzen Sie 04 91 43 20 00, um K d'Urgence zu erreichen",
+          "tipDe": "Sind beide Kliniken ausgelastet, wählen Sie 3115 (kostenlos von jedem französischen Telefon), Sie werden mit dem nächsten verfügbaren diensthabenden Tierarzt in den Bouches-du-Rhône verbunden."
         }
       ],
       "tipsEn": [
@@ -768,6 +820,22 @@
         {
           "q": "Os veterinários de Marselha falam inglês?",
           "a": "Um inglês básico é possível, mas não garantido, o francês é a língua de trabalho. Prepare os termos médicos essenciais em francês ou use uma aplicação de tradução na consulta."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Marseille, Tierkliniken & Tierpflege",
+      "introDe": "Marseille verfügt über eine solide Notfallversorgung für Haustiere mit zwei speziellen 24-Stunden-Kliniken. Vétérinaires 2 Toute Urgence (La Valentine) ist die Hauptanlaufstelle abends und am Wochenende. Die nationale Notrufnummer 3115 verbindet Sie von jedem französischen Mobil- oder Festnetzanschluss aus kostenlos mit dem nächsten diensthabenden Tierarzt.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Marseille einen Tierarzt mit 24-Stunden-Betrieb?",
+          "a": "Ja, sowohl Vétérinaires 2 Toute Urgence (04 91 13 44 44) als auch Clinique K d'Urgence bieten eine 24-Stunden-Abdeckung. Vétérinaires 2 Toute Urgence ist werktags ab 19:00 Uhr sowie am gesamten Wochenende geöffnet."
+        },
+        {
+          "q": "Wie lautet die Notfallnummer für Tierärzte in Marseille?",
+          "a": "04 91 13 44 44 (Vétérinaires 2 Toute Urgence, La Valentine) ist die wichtigste Notrufnummer. Alternativ wählen Sie 3115 (kostenlos) für die nationale diensthabende Tierarztlinie."
+        },
+        {
+          "q": "Sprechen Tierärzte in Marseille Englisch?",
+          "a": "Grundlegendes Englisch ist möglich, aber nicht garantiert, Französisch ist die Arbeitssprache. Bereiten Sie wichtige medizinische Begriffe auf Französisch vor oder nutzen Sie bei der Konsultation eine Übersetzungs-App."
         }
       ]
     },
@@ -856,6 +924,22 @@
           "q": "Posso levar o meu cão à zona do Vieux-Port?",
           "a": "Sim, todo o cais do Vieux-Port é um espaço exterior que aceita cães. Os cães são bem-vindos nos cais, nos restaurantes com esplanada e no ferry para Frioul."
         }
+      ],
+      "titleDe": "Reisetipps mit Haustier für Marseille",
+      "introDe": "Marseille ist sonniger und heißer als die meisten europäischen Reiseziele für Haustierbesitzer, das Hitzemanagement ist von Mai bis September das wichtigste Thema. Die Stadt ist im Innenbereich zudem weniger hundefreundlich als nordeuropäische Städte, aber ihr Reichtum im Freien (Calanques, Frioul, Corniche) gleicht das mehr als aus.",
+      "faqsDe": [
+        {
+          "q": "Ist Marseille insgesamt hundefreundlich?",
+          "a": "Mäßig, das Marseille im Freien (Calanques, Corniche, Terrassen am Vieux-Port) ist hervorragend für Hunde, aber der Zugang in Innenräumen (Restaurants, Verkehrsmittel, Geschäfte) ist eingeschränkter als in nordeuropäischen Städten."
+        },
+        {
+          "q": "Ist es sicher, Hunde im Sommer in Marseille auszuführen?",
+          "a": "Nur vor 9 Uhr und nach 18:00 Uhr. Mittags können Gehwegtemperaturen auf heißem Asphalt in unter zwei Minuten Pfotenverbrennungen verursachen, die Handflächenprobe gilt: Wenn Sie Ihre Handfläche nicht 5 Sekunden lang auf den Boden halten können, ist es für Ihren Hund zu heiß."
+        },
+        {
+          "q": "Kann ich meinen Hund mit in die Gegend des Vieux-Port nehmen?",
+          "a": "Ja, der gesamte Kai des Vieux-Port ist ein hundefreundlicher Außenbereich. Hunde sind auf den Kais, in Terrassenrestaurants und auf der Fähre nach Frioul willkommen."
+        }
       ]
     },
     "attractions": {
@@ -916,7 +1000,11 @@
           "descriptionPt": "Uma estrada à beira-mar sobre arribas, com 5 quilómetros e um caminho pedonal dedicado, o melhor passeio longo de Marselha para cães. Passa pelo Vallon des Auffes (onde fica o Chez Fonfon) e oferece vistas constantes para o mar.",
           "petPolicyPt": "Cães totalmente bem-vindos no caminho pedonal",
           "mustTryPt": "Passeio completo de 5 km da extremidade da praia dels Catalans à extremidade do Vallon des Auffes ao pôr do sol",
-          "tipPt": "A Corniche não tem fontes de água, leve pelo menos 500 ml de água por cão para o passeio completo de 5 km em tempo quente."
+          "tipPt": "A Corniche não tem fontes de água, leve pelo menos 500 ml de água por cão para o passeio completo de 5 km em tempo quente.",
+          "descriptionDe": "Eine 5 Kilometer lange Klippenstraße am Meer mit einem eigenen Fußweg, der beste lange Spaziergang für Hunde in Marseille. Führt am Vallon des Auffes vorbei (Standort von Chez Fonfon) und bietet durchgehend Meerblick.",
+          "petPolicyDe": "Hunde auf dem Fußweg uneingeschränkt willkommen",
+          "mustTryDe": "Vollständiger 5-km-Spaziergang vom Ende des Strands Catalans bis zum Ende des Vallon des Auffes bei Sonnenuntergang",
+          "tipDe": "Die Corniche hat keine Trinkbrunnen, bringen Sie bei warmem Wetter mindestens 500 ml Wasser pro Hund für den vollständigen 5-km-Spaziergang mit."
         },
         {
           "name": "Le Panier, Historic Quarter Walk",
@@ -1022,6 +1110,22 @@
           "q": "Posso levar o meu cão a ver as Calanques?",
           "a": "Sim, com trela. As calanques mais acessíveis para cães são Sugiton (a partir de Luminy de autocarro) e as das ilhas Frioul (de ferry a partir do Vieux-Port)."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Marseille",
+      "introDe": "Marseilles beste Sehenswürdigkeiten für Hundebesitzer liegen im Freien: die Promenade am Vieux-Port, die Corniche Kennedy, das Viertel Panier und Bootsausflüge zu den Frioul-Inseln. Das Museum MuCEM erlaubt Hunde nur in den Außenbereichen. Die meisten Innenmuseen lassen keine Haustiere zu.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund das MuCEM besuchen?",
+          "a": "Hunde sind in den Außenbereichen des MuCEM (Esplanade und Außenwege) erlaubt, aber nicht in den Ausstellungshallen zugelassen."
+        },
+        {
+          "q": "Ist der Vieux-Port hundefreundlich?",
+          "a": "Vollständig, die Kais rund um den alten Hafen sind uneingeschränkt für Hunde zugänglich und viele Terrassenrestaurants heißen Haustiere willkommen."
+        },
+        {
+          "q": "Kann ich meinen Hund mit zu den Calanques nehmen?",
+          "a": "Ja, an der Leine. Die am besten zugänglichen Calanques für Hunde sind Sugiton (von Luminy mit dem Bus) und die auf den Frioul-Inseln (mit der Fähre vom Vieux-Port)."
+        }
       ]
     },
     "petsitting": {
@@ -1055,7 +1159,11 @@
           "descriptionPt": "A plataforma de cuidado de animais mais avaliada de Marselha, com uma média de 4,99/5. Todas as reservas incluem cobertura veterinária e apoio 24/7, a opção mais segura para estadias turísticas.",
           "petPolicyPt": "Alojamento em casa, creche diurna, visitas pontuais, tudo coberto",
           "mustTryPt": "Reserve com pelo menos 3 dias de antecedência, a disponibilidade de verão enche depressa em Marselha",
-          "tipPt": "Use o filtro de bairro para encontrar um cuidador perto do seu hotel, isto reduz o tempo de deslocação na entrega e na recolha."
+          "tipPt": "Use o filtro de bairro para encontrar um cuidador perto do seu hotel, isto reduz o tempo de deslocação na entrega e na recolha.",
+          "descriptionDe": "Marseilles meistbewertete Plattform für Haustierbetreuung mit einer Durchschnittsbewertung von 4,99/5. Alle Buchungen beinhalten tierärztlichen Versicherungsschutz und Support rund um die Uhr, die sicherste Option für Touristenaufenthalte.",
+          "petPolicyDe": "Unterbringung zu Hause, Tagesbetreuung und Kurzbesuche sind alle abgedeckt",
+          "mustTryDe": "Buchen Sie mindestens 3 Tage im Voraus, die Sommerverfügbarkeit in Marseille ist schnell ausgebucht",
+          "tipDe": "Nutzen Sie den Viertelfilter, um einen Sitter in der Nähe Ihres Hotels zu finden, das verkürzt die Fahrzeit beim Bringen und Abholen."
         }
       ],
       "tipsEn": [
@@ -1134,6 +1242,22 @@
         {
           "q": "Quanto custa o cuidado de cães em Marselha?",
           "a": "As tarifas do Pawshake variam entre 16 e 30 €/noite para alojamento em casa. O Gudog começa a partir de 6 €/dia. As tarifas variam consoante a experiência do cuidador e o bairro."
+        }
+      ],
+      "titleDe": "Hundesitter und Tierpension in Marseille",
+      "introDe": "Marseille hat eine gute Pawshake- und Gudog-Community für Tierpension und Hundebetreuung. Die Preise beginnen bei Gudog ab 6 €/Tag; Pawshake-Sitter kosten im Schnitt 16–30 €/Nacht, wobei jede Buchung eine Versicherung enthält.",
+      "faqsDe": [
+        {
+          "q": "Wo finde ich einen Hundesitter in Marseille für einen Tag?",
+          "a": "Pawshake (pawshake.fr) ist am zuverlässigsten, buchen Sie Kurzbesuche oder ganztägige Betreuung. Gudog (gudog.fr) ist eine Alternative mit niedrigeren Einstiegspreisen."
+        },
+        {
+          "q": "Gibt es eine Hundepension in der Nähe des Stadtzentrums von Marseille?",
+          "a": "Hundepensionen gibt es in den Vororten von Marseille, suchen Sie nach \"pension canine Marseille\" nach Optionen in Ihrer Nähe. Die Unterbringung zu Hause über Pawshake ist für Hunde in der Regel angenehmer und zentraler gelegen."
+        },
+        {
+          "q": "Wie viel kostet Hundebetreuung in Marseille?",
+          "a": "Pawshake-Preise liegen bei 16–30 €/Nacht für die Unterbringung zu Hause. Gudog beginnt bei 6 €/Tag. Die Preise variieren je nach Erfahrung des Sitters und Viertel."
         }
       ]
     }

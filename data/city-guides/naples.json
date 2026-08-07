@@ -37,7 +37,11 @@
           "descriptionPt": "O templo da pizza napolitana fundado em 1870, apenas duas pizzas (Margherita, Marinara), uma fila ao longo da rua e uma regra simples: os cães com trela são bem-vindos nas mesas exteriores. O interior é demasiado pequeno para cães, mas a viela pedonal em frente é a experiência marcante.",
           "petPolicyPt": "Cães bem-vindos apenas nas mesas exteriores",
           "mustTryPt": "Margherita, Marinara",
-          "tipPt": "Levante uma senha numerada à porta e passeie o seu cão pelo quarteirão enquanto espera, a fila costuma durar 45 a 90 minutos nas horas de ponta."
+          "tipPt": "Levante uma senha numerada à porta e passeie o seu cão pelo quarteirão enquanto espera, a fila costuma durar 45 a 90 minutos nas horas de ponta.",
+          "descriptionDe": "Der 1870 gegründete Tempel der neapolitanischen Pizza, bietet nur zwei Pizzen (Margherita, Marinara), eine Schlange bis auf die Straße und eine einfache Regel: Angeleinte Hunde sind an den Außentischen willkommen. Der Innenraum ist zu klein für Hunde, aber die Fußgängergasse davor ist das Markenzeichen des Erlebnisses.",
+          "petPolicyDe": "Hunde nur an Außentischen willkommen",
+          "mustTryDe": "Margherita, Marinara",
+          "tipDe": "Nehmen Sie an der Tür eine Nummer und gehen Sie mit Ihrem Hund während der Wartezeit um den Block, die Schlange dauert zu Stoßzeiten meist 45–90 Minuten."
         },
         {
           "name": "Trattoria da Nennella",
@@ -63,7 +67,11 @@
           "descriptionPt": "Uma instituição dos Quartieri Spagnoli onde os empregados cantam, os pratos voam e os cães bem-comportados partilham os lugares na viela exterior colorida com os clientes habituais. Doses generosas de cozinha caseira napolitana tradicional a preços honestos, chegue com fome.",
           "petPolicyPt": "Cães bem-vindos nas mesas exteriores",
           "mustTryPt": "Genovese napoletana, parmigiana de beringela",
-          "tipPt": "Não aceita reservas, chegue antes das 12:30 ou depois das 14:30 para evitar o pico de afluência; a viela fica muito estreita e ruidosa quando enche."
+          "tipPt": "Não aceita reservas, chegue antes das 12:30 ou depois das 14:30 para evitar o pico de afluência; a viela fica muito estreita e ruidosa quando enche.",
+          "descriptionDe": "Eine Institution in den Quartieri Spagnoli, wo Kellner singen, Teller fliegen und wohlerzogene Hunde sich mit Stammgästen die bunten Außensitzplätze in der Gasse teilen. Großzügige Portionen traditioneller neapolitanischer Hausmannskost zu ehrlichen Preisen, kommen Sie hungrig.",
+          "petPolicyDe": "Hunde an Außentischen willkommen",
+          "mustTryDe": "Genovese napoletana, Parmigiana di melanzane",
+          "tipDe": "Keine Reservierungen, kommen Sie vor 12:30 Uhr oder nach 14:30 Uhr, um den größten Andrang zu vermeiden; die Gasse wird bei voller Auslastung sehr eng und laut."
         },
         {
           "name": "Sorbillo Lievito Madre al Mare",
@@ -89,7 +97,11 @@
           "descriptionPt": "A pizzaria à beira-mar de Gino Sorbillo, com uma ampla esplanada virada para o Castel dell'Ovo, um dos melhores sítios pet-friendly para jantar em Nápoles. A brisa marítima mantém os cães frescos no verão e a equipa traz habitualmente uma taça de água sem ser pedido.",
           "petPolicyPt": "Cães bem-vindos na esplanada virada para o mar",
           "mustTryPt": "Pizza Gino Sorbillo, fritto all'italiana",
-          "tipPt": "Reserve a esplanada para o pôr do sol (a partir das 19:00) para a melhor vista do Vesúvio, leve uma manta nas noites de abril a outubro, pois a brisa pode ser forte para cães de pelo curto."
+          "tipPt": "Reserve a esplanada para o pôr do sol (a partir das 19:00) para a melhor vista do Vesúvio, leve uma manta nas noites de abril a outubro, pois a brisa pode ser forte para cães de pelo curto.",
+          "descriptionDe": "Gino Sorbillos Pizzeria am Meer mit einer weiten Terrasse gegenüber dem Castel dell'Ovo, einer der besten hundefreundlichen Orte für ein Abendessen in Neapel. Die Meeresbrise hält Hunde im Sommer kühl, und das Personal bringt routinemäßig eine Wasserschale, ohne dass man fragen muss.",
+          "petPolicyDe": "Hunde auf der Terrasse am Meer willkommen",
+          "mustTryDe": "Pizza Gino Sorbillo, Fritto all'italiana",
+          "tipDe": "Reservieren Sie die Terrasse zum Sonnenuntergang (ab 19:00 Uhr) für den besten Blick auf den Vesuv, bringen Sie an Abenden von April bis Oktober eine Decke mit, da die Brise für kurzhaarige Hunde stark sein kann."
         }
       ],
       "tipsEn": [
@@ -168,6 +180,22 @@
         {
           "q": "Os restaurantes napolitanos têm ementas para cães?",
           "a": "Muito poucos têm oficialmente, mas a equipa traz habitualmente água e pão sem sal ou frango simples a pedido, basta perguntar ao empregado."
+        }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Neapel",
+      "introDe": "In Italien sind Hunde in Restaurants gesetzlich erlaubt, sofern der Inhaber kein Schild mit gegenteiliger Regel aufstellt, und Neapel mit seinem dichten Netz an Viertel-Trattorien und familiengeführten Pizzerien lebt diese Regel weitgehend vor. Die Altstadt (Spaccanapoli, Quartieri Spagnoli) und die Uferpromenade Lungomare sind die beiden Gegenden mit der höchsten Dichte an hundefreundlichen Terrassen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Neapel erlaubt?",
+          "a": "Ja. Das italienische Gesetz erlaubt Hunde in Gastronomiebetrieben standardmäßig, sofern der Inhaber kein Schild mit \"keine Hunde\" aufstellt. Die meisten neapolitanischen Trattorien und Pizzerien heißen angeleinte Hunde willkommen, besonders an Außentischen."
+        },
+        {
+          "q": "Kann ich meinen großen Hund in eine Pizzeria in Neapel mitnehmen?",
+          "a": "Große Hunde sind an den meisten Außenterrassen erlaubt, aber die engen historischen Gassen und überfüllten Innenräume sind schwierig. Pizzerien an der Uferpromenade (Lungomare, Mergellina) sind die einfachere Wahl."
+        },
+        {
+          "q": "Haben neapolitanische Restaurants eine Hundespeisekarte?",
+          "a": "Nur wenige haben eine offizielle, aber das Personal bringt auf Anfrage regelmäßig Wasser und ungesalzenes Brot oder pures Hühnchen, einfach den Kellner fragen."
         }
       ]
     },
@@ -403,7 +431,9 @@
           "petPolicyEs": "Correa + bozal; medio billete para perros >6 kg",
           "googleMapsUrl": "https://maps.google.com/?q=Napoli+Garibaldi+Circumvesuviana",
           "descriptionPt": "O comboio regional Circumvesuviana liga Nápoles a Pompeia, Herculano, Sorrento e à porta de entrada da Costa Amalfitana. Os cães são admitidos com trela e açaime; é exigido um bilhete suplementar a meio preço para qualquer cão com mais de 6 kg. Os comboios estão muitas vezes cheios, evite as horas de ponta turísticas (10:00 às 12:00).",
-          "petPolicyPt": "Trela + açaime; meio bilhete para cães com mais de 6 kg"
+          "petPolicyPt": "Trela + açaime; meio bilhete para cães com mais de 6 kg",
+          "descriptionDe": "Der regionale Zug Circumvesuviana verbindet Neapel mit Pompeji, Herculaneum, Sorrent und dem Tor zur Amalfiküste. Hunde sind mit Leine und Maulkorb zugelassen; für jeden Hund über 6 kg ist eine halbpreisige Zusatzfahrkarte erforderlich. Die Züge sind oft überfüllt, meiden Sie die touristischen Stoßzeiten (10:00–12:00 Uhr).",
+          "petPolicyDe": "Leine + Maulkorb; halbpreisige Fahrkarte für Hunde über 6 kg"
         },
         {
           "name": "Molo Beverello Ferries",
@@ -498,6 +528,22 @@
         {
           "q": "Os cães podem viajar nos ferries para Capri ou Ischia?",
           "a": "Todos os grandes operadores (Alilauro, Caremar, SNAV, NLG) admitem cães com trela e açaime nos conveses exteriores. Tem de comprar um bilhete de cão à parte (cerca de 5 €) no terminal."
+        }
+      ],
+      "titleDe": "Mit Hunden unterwegs in Neapel",
+      "introDe": "Neapels öffentliche Verkehrsmittel (ANM für Busse, U-Bahn und Standseilbahnen; EAV für die Circumvesuviana nach Pompeji/Sorrent) akzeptieren Hunde unter strengen Regeln: Kleine Hunde in einer Transportbox fahren kostenlos, größere Hunde benötigen eine Leine und einen Maulkorb sowie bei Regionalzügen eine halbpreisige Fahrkarte. Rechnen Sie mit strenger Durchsetzung der Maulkorbpflicht in der U-Bahn, besonders zur Stoßzeit.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit in die U-Bahn von Neapel nehmen?",
+          "a": "Ja, kleine Hunde in einer Transportbox fahren kostenlos. Größere Hunde benötigen eine vollwertige Fahrkarte, eine kurze Leine und einen Maulkorb. Die Regel wird konsequent durchgesetzt."
+        },
+        {
+          "q": "Sind Hunde in der Circumvesuviana nach Pompeji erlaubt?",
+          "a": "Ja, mit Leine und Maulkorb. Hunde über 6 kg benötigen eine halbpreisige Zusatzfahrkarte. Vermeiden Sie 10:00–12:00 Uhr, wenn der Touristenandrang am größten ist."
+        },
+        {
+          "q": "Können Hunde mit den Fähren nach Capri oder Ischia reisen?",
+          "a": "Alle großen Betreiber (Alilauro, Caremar, SNAV, NLG) lassen angeleinte Hunde mit Maulkorb auf den Außendecks zu. Ein separates Hundeticket (etwa 5 €) muss am Terminal gekauft werden."
         }
       ]
     },
@@ -709,7 +755,11 @@
           "descriptionPt": "Clínica de serviço completo, com longa tradição, em Vomero, com receção de urgências 24 horas, cirurgia, imagiologia (TAC, ecografia, raio-X) e uma pequena unidade de internamento durante a noite. Trata cães e gatos; fala-se inglês.",
           "petPolicyPt": "Urgências 24/7 com atendimento sem marcação",
           "servicesPt": "Urgências, cirurgia, imagiologia, dermatologia",
-          "tipPt": "Ligue com antecedência se possível, a triagem telefónica indica-lhe se deve ir ao Partenope (cirúrgico) ou a um serviço público ASL (rotina). O trânsito ao fim do dia em Vomero pode ser brutal."
+          "tipPt": "Ligue com antecedência se possível, a triagem telefónica indica-lhe se deve ir ao Partenope (cirúrgico) ou a um serviço público ASL (rotina). O trânsito ao fim do dia em Vomero pode ser brutal.",
+          "descriptionDe": "Etablierte Vollklinik in Vomero mit 24-Stunden-Notaufnahme, Chirurgie, Bildgebung (CT, Ultraschall, Röntgen) und einer kleinen Station für die Übernachtungsversorgung. Behandelt sowohl Hunde als auch Katzen; Englisch wird gesprochen.",
+          "petPolicyDe": "Rund um die Uhr Notfälle ohne Termin",
+          "servicesDe": "Notfall, Chirurgie, Bildgebung, Dermatologie",
+          "tipDe": "Rufen Sie wenn möglich vorher an, die telefonische Ersteinschätzung sagt Ihnen, ob Sie zu Partenope (chirurgisch) oder zu einem öffentlichen ASL-Dienst (Routine) gehen sollten. Der Abendverkehr in Vomero kann brutal sein."
         },
         {
           "name": "Clinica Veterinaria Pegaso",
@@ -735,7 +785,11 @@
           "descriptionPt": "Clínica de encaminhamento a leste do centro histórico, com cuidados de urgência 24/7, medicina interna especializada, cirurgia ortopédica, endoscopia e cuidados intensivos. Bem considerada pelos veterinários de Nápoles para casos complexos e um importante polo de encaminhamento para toda a região da Campânia.",
           "petPolicyPt": "Urgências 24/7 com atendimento sem marcação",
           "servicesPt": "Urgências, medicina interna, ortopedia, endoscopia, UCI",
-          "tipPt": "Estacionamento gratuito no local, pouco habitual em Nápoles, um pormenor importante às 3 da madrugada. Use a entrada das traseiras para urgências depois das 22:00."
+          "tipPt": "Estacionamento gratuito no local, pouco habitual em Nápoles, um pormenor importante às 3 da madrugada. Use a entrada das traseiras para urgências depois das 22:00.",
+          "descriptionDe": "Überweisungsklinik östlich der Altstadt mit 24-Stunden-Notversorgung, spezialisierter Inneren Medizin, orthopädischer Chirurgie, Endoskopie und Intensivpflege. Von Tierärzten in Neapel für komplexe Fälle geschätzt und ein wichtiges Überweisungszentrum für die gesamte Region Kampanien.",
+          "petPolicyDe": "Rund um die Uhr Notfälle ohne Termin",
+          "servicesDe": "Notfall, Innere Medizin, Orthopädie, Endoskopie, Intensivstation",
+          "tipDe": "Kostenlose Parkplätze vor Ort, ungewöhnlich für Neapel und ein wichtiges Detail um 3 Uhr nachts. Nutzen Sie nach 22:00 Uhr den hinteren Eingang für Notfälle."
         },
         {
           "name": "ASL Napoli 1 Centro, Servizio Veterinario",
@@ -761,7 +815,11 @@
           "descriptionPt": "O serviço veterinário público da cidade, que trata do registo da raiva, da colocação de microchip, dos passaportes europeus para animais e de casos não urgentes para residentes e visitantes de Nápoles. Gratuito ou de custo muito baixo, mas com horário limitado; não adequado para urgências.",
           "petPolicyPt": "Apenas casos não urgentes; com marcação",
           "servicesPt": "Colocação de microchip, registo da raiva, passaporte europeu, exames de rotina",
-          "tipPt": "Leve o passaporte europeu anterior do seu cão e um documento de identidade com foto, o serviço é gratuito para residentes mas exige documentação completa que pode acrescentar 30 a 60 minutos à sua visita."
+          "tipPt": "Leve o passaporte europeu anterior do seu cão e um documento de identidade com foto, o serviço é gratuito para residentes mas exige documentação completa que pode acrescentar 30 a 60 minutos à sua visita.",
+          "descriptionDe": "Der städtische tierärztliche Dienst kümmert sich um Tollwutregistrierung, Mikrochipping, EU-Heimtierausweise und nicht-dringende Fälle für Einwohner und Besucher Neapels. Kostenlos oder sehr günstig, aber mit begrenzten Öffnungszeiten; nicht für Notfälle geeignet.",
+          "petPolicyDe": "Nur nicht-dringende Fälle; nach Termin",
+          "servicesDe": "Mikrochipping, Tollwutregistrierung, EU-Heimtierausweis, Routineuntersuchungen",
+          "tipDe": "Bringen Sie den bisherigen EU-Heimtierausweis Ihres Hundes und einen Lichtbildausweis mit, der Dienst ist für Einwohner kostenlos, erfordert aber vollständige Unterlagen, was den Besuch um 30–60 Minuten verlängern kann."
         }
       ],
       "tipsEn": [
@@ -840,6 +898,22 @@
         {
           "q": "Um veterinário de Nápoles aceita atendimentos sem marcação?",
           "a": "Sim, tanto o Partenope como o Pegaso aceitam urgências sem marcação 24/7. Para consultas de rotina, a maioria das clínicas exige marcação, ligue primeiro."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Neapel, Tierkliniken & Tierpflege",
+      "introDe": "Neapel verfügt über mehrere private Tierkliniken mit 24-Stunden-Betrieb sowie den öffentlichen tierärztlichen Dienst der ASL Napoli 1. Die privaten Kliniken übernehmen den Großteil der Notfälle außerhalb der regulären Zeiten und werden von Expats und Besuchern wegen des englischsprachigen Personals bevorzugt. Eine Konsultation außerhalb der Öffnungszeiten kostet im Schnitt 60–110 € vor Diagnostik.",
+      "faqsDe": [
+        {
+          "q": "Welche Tierklinik in Neapel hat rund um die Uhr geöffnet?",
+          "a": "Partenope (Via Cilea 120, Vomero, 081 5566144) und Pegaso (Viale della Resistenza 162, Ponticelli, 081 5838183) bieten innerhalb der Stadt einen vollständigen 24-Stunden-Notdienst."
+        },
+        {
+          "q": "Wie viel kostet ein Notfall-Tierarztbesuch in Neapel?",
+          "a": "Die Grundkonsultation außerhalb der Öffnungszeiten liegt typischerweise bei 60–110 €, zuzüglich Diagnostik. Das italienische Recht (Tariffa ANMVI) veröffentlicht Mindestgebühren, die endgültigen Kosten hängen jedoch von Untersuchungen und Krankenhausaufenthalt ab."
+        },
+        {
+          "q": "Nimmt ein Tierarzt in Neapel auch ohne Termin an?",
+          "a": "Ja, sowohl Partenope als auch Pegaso nehmen rund um die Uhr Notfälle ohne Termin an. Für Routinebesuche benötigen die meisten Kliniken einen Termin, rufen Sie vorher an."
         }
       ]
     },
@@ -936,6 +1010,22 @@
           "q": "Posso levar o meu cão a Pompeia?",
           "a": "Sim. Os cães com trela são permitidos nos parques arqueológicos de Pompeia e Herculano sem bilhete adicional. Há água nas fontes; evite as visitas a meio do dia em julho e agosto devido ao calor extremo."
         }
+      ],
+      "titleDe": "Wichtige Reisetipps mit Haustier für Neapel",
+      "introDe": "Neapel ist ein lohnendes, aber anspruchsvolles Reiseziel für Hundebesitzer: chaotischer Verkehr, Sommerhitze über 35 °C, strenge Leinen- und Maulkorbpflicht und ein Flickenteppich an Strandverboten. Diese Tipps fassen das Wichtigste zusammen, von der Maulkorbpflicht in öffentlichen Verkehrsmitteln bis zu den besten Vierteln für einen Aufenthalt mit Hund.",
+      "faqsDe": [
+        {
+          "q": "Ist Neapel eine gute Stadt für einen Besuch mit Hund?",
+          "a": "Ja, mit realistischen Erwartungen: Die Stadt ist in Restaurants, auf Fähren und bei den meisten Sehenswürdigkeiten hundefreundlich, aber Verkehr, Menschenmassen und Sommerhitze machen die Altstadt anspruchsvoll. Wählen Sie Chiaia, Posillipo oder Vomero als Basis für einen ruhigeren Aufenthalt."
+        },
+        {
+          "q": "Brauche ich Unterlagen, um meinen Hund nach Neapel mitzubringen?",
+          "a": "EU-Bürger benötigen den EU-Heimtierausweis mit gültiger Tollwutimpfung. Besucher von außerhalb der EU benötigen eine EU-Tiergesundheitsbescheinigung, die innerhalb von 10 Tagen vor Einreise ausgestellt wurde, sowie für bestimmte Länder einen Tollwut-Titertest."
+        },
+        {
+          "q": "Kann ich meinen Hund mit nach Pompeji nehmen?",
+          "a": "Ja. Angeleinte Hunde sind in den archäologischen Parks von Pompeji und Herculaneum ohne zusätzliches Ticket erlaubt. Wasser gibt es an Brunnen; vermeiden Sie Besuche mittags im Juli und August wegen der extremen Hitze."
+        }
       ]
     },
     "attractions": {
@@ -1007,7 +1097,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Lungomare+Caracciolo+Napoli",
           "descriptionPt": "A marginal pedonal de Nápoles, que se estende por 2,5 km entre o Castel dell'Ovo e Mergellina. Ampla, plana, sem trânsito desde 2012, com bancos a cada 50 m, troços sombreados de palmeiras e quiosques de gelados. O melhor passeio de cães da cidade.",
           "petPolicyPt": "Trela obrigatória; muito pet-friendly",
-          "tipPt": "Comece em Mergellina para a vista do pôr do sol sobre o Vesúvio, o passeio de 2,5 km termina perto da Villa Comunale, para um circuito de jardim adicional de 1,3 km se o cão ainda quiser mais."
+          "tipPt": "Comece em Mergellina para a vista do pôr do sol sobre o Vesúvio, o passeio de 2,5 km termina perto da Villa Comunale, para um circuito de jardim adicional de 1,3 km se o cão ainda quiser mais.",
+          "descriptionDe": "Neapels autofreie Uferpromenade, die sich über 2,5 km zwischen dem Castel dell'Ovo und Mergellina erstreckt. Breit, flach, seit 2012 verkehrsfrei, mit Bänken alle 50 m, schattigen Palmenabschnitten und Eisständen. Der beste Hundespaziergang der Stadt.",
+          "petPolicyDe": "Leinenpflicht; sehr hundefreundlich",
+          "tipDe": "Starten Sie in Mergellina für den Sonnenuntergangsblick auf den Vesuv, der 2,5 km lange Spaziergang endet nahe der Villa Comunale für eine zusätzliche 1,3 km lange Gartenrunde, falls der Hund noch mehr möchte."
         }
       ],
       "tipsEn": [
@@ -1086,6 +1179,22 @@
         {
           "q": "Posso levar o meu cão num passeio de um dia a Capri ou Ischia?",
           "a": "Sim, os ferries para ambas as ilhas aceitam cães com trela e açaime (bilhete de cão de 5 €). Capri proíbe cães nos passeios de barco à Gruta Azul; Ischia acolhe mais cães no geral."
+        }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Neapel",
+      "introDe": "Neapels Freiluft-Sehenswürdigkeiten, von der Uferpromenade Lungomare bis zu den archäologischen Stätten von Pompeji und Herculaneum, sind an der Leine weitgehend hundefreundlich. Die großen Indoor-Museen (MANN, Capodimonte, Palazzo Reale) verbieten Haustiere, aber die meisten Burgen, Plätze und Panoramapunkte sind zugänglich.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund nach Pompeji oder Herculaneum mitnehmen?",
+          "a": "Ja, beide archäologischen Parks lassen angeleinte Hunde kostenlos zu. Herculaneum ist kleiner, schattiger und für ängstliche Hunde oft einfacher als Pompeji."
+        },
+        {
+          "q": "Sind Hunde auf dem Vesuv erlaubt?",
+          "a": "Ja, angeleinte Hunde können den Wanderweg Sentiero 5 (Gran Cono) bis zum Krater erklimmen, aber die letzten 900 m aus Asche sind hart für die Pfoten. Im Sommer übersteigen die Oberflächentemperaturen der Asche 50 °C, gehen Sie im Frühling oder frühen Herbst."
+        },
+        {
+          "q": "Kann ich meinen Hund auf einen Tagesausflug nach Capri oder Ischia mitnehmen?",
+          "a": "Ja, die Fähren zu beiden Inseln akzeptieren angeleinte Hunde mit Maulkorb (Hundeticket 5 €). Capri verbietet Hunde bei den Bootstouren zur Blauen Grotte; Ischia ist insgesamt hundefreundlicher."
         }
       ]
     },
@@ -1198,6 +1307,22 @@
         {
           "q": "Consigo encontrar um cuidador que fale inglês em Nápoles?",
           "a": "Sim, o Pawshake e o Rover permitem-lhe filtrar por idioma. Chiaia e Posillipo têm a maior densidade de cuidadores que falam inglês devido à população expatriada."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Neapel",
+      "introDe": "Neapel verfügt über einen stetig wachsenden professionellen Markt für Tierbetreuung, angeführt von Pawshake und Rover mit einer Handvoll verifizierter lokaler Hundetagesstätten in Chiaia, Vomero und Posillipo. Die Preise liegen leicht unter denen von Mailand oder Rom. Buchen Sie frühzeitig in der Hochsaison (Mai–Oktober) und während des Pizza Village und des San-Gennaro-Fests.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Haustierbetreuung in Neapel?",
+          "a": "Typische Preise: 18–30 €/Nacht für Unterbringung zu Hause, 25–40 €/Tag Tagesbetreuung, 10–15 € für einen einstündigen Spaziergang. Die Preise steigen in den Hauptreisemonaten (Juni–September) um 20–30 %."
+        },
+        {
+          "q": "Sind die Haustiersitter in Neapel versichert?",
+          "a": "Pawshake und Rover schließen bei jeder Buchung eine Haftpflicht- und tierärztliche Notfallversicherung ein. Bestätigen Sie dies bei unabhängigen Sittern immer vor einer Direktbuchung."
+        },
+        {
+          "q": "Kann ich einen englischsprachigen Sitter in Neapel finden?",
+          "a": "Ja, bei Pawshake und Rover können Sie nach Sprache filtern. Chiaia und Posillipo haben aufgrund der Expat-Bevölkerung die höchste Dichte an englischsprachigen Sittern."
         }
       ]
     }

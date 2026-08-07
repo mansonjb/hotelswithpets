@@ -37,7 +37,11 @@
           "descriptionPt": "Uma grande brasserie parisiense em Islington Green que trata os cães como convidados bem-vindos, e não como uma reflexão tardia. Os cães são permitidos em todo o restaurante, no interior e na esplanada sobre o Green. A cozinha envia biscoitos caseiros para cães da marca Bellanger a cada mesa com um convidado de quatro patas. A ementa vai da clássica sopa de cebola e do steak tartare ao croque monsieur. Estação de metro mais próxima: Angel (10 min a pé).",
           "petPolicyPt": "Cães bem-vindos em todo o restaurante, no interior e na esplanada",
           "mustTryPt": "Steak tartare com batatas fritas cortadas à mão",
-          "tipPt": "Chegue cedo ao brunch de domingo, a esplanada enche depressa e os cães adoram a quietude matinal de Islington Green."
+          "tipPt": "Chegue cedo ao brunch de domingo, a esplanada enche depressa e os cães adoram a quietude matinal de Islington Green.",
+          "descriptionDe": "Eine großzügige Pariser Brasserie am Islington Green, die Hunde als willkommene Gäste behandelt und nicht als Nebensache. Hunde sind im gesamten Restaurant erlaubt, im Innenbereich und auf der Terrasse mit Blick auf den Green. Die Küche schickt jedem Tisch mit vierbeinigem Gast hausgemachte Bellanger-eigene Hundekekse. Die Speisekarte reicht von klassischer Zwiebelsuppe und Steak Tartare bis zum Croque Monsieur. Nächste U-Bahn-Station: Angel (10 Min. zu Fuß).",
+          "petPolicyDe": "Hunde im gesamten Restaurant willkommen, im Innenbereich und auf der Terrasse",
+          "mustTryDe": "Steak Tartare mit handgeschnittenen Pommes frites",
+          "tipDe": "Kommen Sie früh zum Sonntagsbrunch, die Terrasse füllt sich schnell, und Hunde lieben die morgendliche Ruhe des Islington Green."
         },
         {
           "name": "Los Mochis Notting Hill",
@@ -63,7 +67,11 @@
           "descriptionPt": "O restaurante tem literalmente o nome de Mochi, a Yorkshire Terrier da fundadora, cujo retrato pende na sala de jantar. Os cães são bem-vindos no balcão e no exterior, na esplanada, e recebem uma taça de água fresca à chegada. A ementa funde sabores mexicanos e japoneses de formas que resultam mesmo: ceviche temperado com yuzu, tacos de porco com glace de miso e uma lista excecional de mezcal e sake. Estação de metro mais próxima: Notting Hill Gate (3 min a pé).",
           "petPolicyPt": "Cães bem-vindos no balcão e na esplanada exterior; disponibilizam taça de água",
           "mustTryPt": "Tacos da Mochi, porco com glace de miso, daikon em conserva",
-          "tipPt": "Os lugares ao balcão são o sítio mais acolhedor para cães, ao nível da rua, mais fácil para um cão inquieto se acalmar."
+          "tipPt": "Os lugares ao balcão são o sítio mais acolhedor para cães, ao nível da rua, mais fácil para um cão inquieto se acalmar.",
+          "descriptionDe": "Das Restaurant ist buchstäblich nach Mochi benannt, dem Yorkshire Terrier der Gründerin, ein Porträt von ihm hängt im Gastraum. Hunde sind an der Bar und draußen auf der Terrasse willkommen und bekommen bei Ankunft einen frischen Wassernapf. Die Speisekarte verschmilzt mexikanische und japanische Aromen auf eine Weise, die wirklich funktioniert: Ceviche mit Yuzu-Dressing, Schweinefleisch-Tacos mit Miso-Glasur und eine ausgezeichnete Auswahl an Mezcal und Sake. Nächste U-Bahn-Station: Notting Hill Gate (3 Min. zu Fuß).",
+          "petPolicyDe": "Hunde an der Bar und auf der Außenterrasse willkommen; Wassernapf wird bereitgestellt",
+          "mustTryDe": "Mochi's Tacos, Schweinefleisch mit Miso-Glasur, eingelegter Daikon",
+          "tipDe": "Die Barplätze sind der hundefreundlichste Bereich, ebenerdig, leichter für einen unruhigen Hund, sich zu beruhigen."
         }
       ],
       "tipsEn": [
@@ -126,6 +134,18 @@
         {
           "q": "Os cães são permitidos dentro dos restaurantes em Londres ou só nas esplanadas?",
           "a": "Ambos, consoante o espaço. O Bellanger e os espaços do José Pizarro em Bermondsey acolhem cães totalmente no interior. Muitos outros restringem os cães às esplanadas e às zonas exteriores cobertas."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in London",
+      "introDe": "London zählt zu den hundefreundlichsten Städten der Welt, fast die Hälfte aller Haushalte besitzt einen Hund. Die Pubkultur der Stadt setzt sich naturgemäß in den Restaurants fort, Hunderte Lokale heißen Hunde aktiv willkommen und dulden sie nicht nur. Terrassenregelungen sind im Sommer die Norm, doch eine starke Anzahl Londoner Restaurants lässt wohlerzogene Hunde das ganze Jahr über auch im Innenbereich zu. Die beste Wahl sind Islington, Notting Hill und Bermondsey, wo hundefreundliche Gastronomie am dichtesten ist. Ein ehrlicher Hinweis: Während der Stoßzeiten zu Mittag- und Abendessen begrenzen manche Restaurants die Zahl der Hunde im Lokal, rufen Sie an belebten Wochenendtagen vorher an.",
+      "faqsDe": [
+        {
+          "q": "Berechnen Londoner Restaurants einen Aufpreis für mitgebrachte Hunde?",
+          "a": "Nein, es gibt keinen standardmäßigen Aufpreis für Hunde in Londoner Restaurants. Manche Lokale bieten kostenloses Hundewasser oder Kekse als Aufmerksamkeit an."
+        },
+        {
+          "q": "Sind Hunde in Londoner Restaurants im Innenbereich erlaubt oder nur auf der Terrasse?",
+          "a": "Beides, je nach Lokal. Bellanger und die Bermondsey-Lokale von José Pizarro heißen Hunde uneingeschränkt im Innenbereich willkommen. Viele andere beschränken Hunde auf Terrassen und überdachte Außenbereiche."
         }
       ]
     },
@@ -374,6 +394,18 @@
           "q": "O meu cão é grande demais para levar ao colo nas escadas rolantes, como me oriento no metro?",
           "a": "Use o planeador de viagens da TfL com o filtro 'step-free access' para traçar o trajeto por estações com elevadores. Estações sem degraus essenciais incluem King's Cross St. Pancras, Paddington, Stratford e Canary Wharf."
         }
+      ],
+      "titleDe": "Mit Ihrem Hund in London unterwegs",
+      "introDe": "Transport for London (TfL) betreibt eines der hundefreundlichsten städtischen Verkehrsnetze Europas. Hunde reisen auf allen TfL-Diensten gratis, U-Bahn, Bus, DLR, London Overground und Straßenbahn, ohne Größenbeschränkung für den Hund, nur Verhaltensanforderungen gelten. Die größte praktische Herausforderung sind die tief liegenden U-Bahn-Rolltreppen: Sie müssen Ihren Hund tragen (außer er ist ans Gehen auf Rolltreppen gewöhnt oder es gibt einen Aufzug). Stationen mit Aufzügen sind stufenfrei und machen das Reisen mit Hund deutlich praktischer.",
+      "faqsDe": [
+        {
+          "q": "Muss ich für meinen Hund ein Ticket für die Londoner U-Bahn kaufen?",
+          "a": "Nein, Hunde reisen auf allen TfL-Diensten gratis, einschließlich U-Bahn, Bus, DLR und Overground. Es ist weder ein Ticket noch eine Oyster-Card erforderlich."
+        },
+        {
+          "q": "Mein Hund ist zu groß, um ihn auf Rolltreppen zu tragen, wie navigiere ich durch die U-Bahn?",
+          "a": "Nutzen Sie den Routenplaner von TfL mit dem Filter 'stufenfreier Zugang', um über Stationen mit Aufzügen zu fahren. Wichtige stufenfreie Stationen sind King's Cross St. Pancras, Paddington, Stratford und Canary Wharf."
+        }
       ]
     },
     "beaches": {
@@ -503,7 +535,10 @@
           "photo": "/images/city-places/london-vets-goddard-wanstead-veterinary-hospital.jpg",
           "hoursPt": "Aberto 24 horas, 365 dias por ano",
           "descriptionPt": "Hospital de urgência e encaminhamento 24/7 acreditado pelo RCVS, no este de Londres. Veterinários no local a toda a hora, apoiados por enfermeiros qualificados. Capacidades completas de TAC, ecografia e cirurgia. Tem também acreditação Cat Friendly Clinic. Acessível pela Central Line até Snaresbrook, depois 10 min a pé.",
-          "tipPt": "Ligue com antecedência mesmo em emergências, a equipa usa as chamadas de chegada para fazer a triagem e preparar o equipamento, reduzindo significativamente o tempo de espera."
+          "tipPt": "Ligue com antecedência mesmo em emergências, a equipa usa as chamadas de chegada para fazer a triagem e preparar o equipamento, reduzindo significativamente o tempo de espera.",
+          "hoursDe": "24 Stunden geöffnet, 365 Tage im Jahr",
+          "descriptionDe": "RCVS-akkreditiertes, rund um die Uhr geöffnetes Notfall- und Überweisungskrankenhaus in Ost-London. Ständig Tierärzte vor Ort, unterstützt von qualifiziertem Pflegepersonal. Vollständige CT-, Ultraschall- und Operationskapazitäten. Auch als Cat Friendly Clinic akkreditiert. Erreichbar mit der Central Line bis Snaresbrook, dann 10 Minuten zu Fuß.",
+          "tipDe": "Rufen Sie auch bei Notfällen vorher an, das Team nutzt den Anruf, um die Triage vorzubereiten und Geräte bereitzustellen, was die Wartezeit deutlich verkürzt."
         },
         {
           "name": "Goddard Mandeville Veterinary Hospital",
@@ -525,7 +560,10 @@
           "photo": "/images/city-places/london-vets-goddard-mandeville-veterinary-hospital.jpg",
           "hoursPt": "Aberto 24 horas, 365 dias por ano",
           "descriptionPt": "Hospital de urgência 24/7 acreditado pelo RCVS, no oeste de Londres (Northolt). Um dos três hospitais de urgência de referência do grupo Goddard. Instalações completas de cirurgia e cuidados intensivos. Acessível pela A40 ou de metro até Northolt, na Central Line.",
-          "tipPt": "Situado junto à A40 Western Avenue, mais acessível de carro a partir do oeste ou do centro de Londres."
+          "tipPt": "Situado junto à A40 Western Avenue, mais acessível de carro a partir do oeste ou do centro de Londres.",
+          "hoursDe": "24 Stunden geöffnet, 365 Tage im Jahr",
+          "descriptionDe": "RCVS-akkreditiertes, rund um die Uhr geöffnetes Notfallkrankenhaus in West-London (Northolt). Eines von drei Goddard-Flaggschiff-Notfallkrankenhäusern. Vollständige chirurgische und intensivmedizinische Einrichtungen. Erreichbar über die A40 oder mit der U-Bahn (Central Line) bis Northolt.",
+          "tipDe": "Liegt nahe der A40 Western Avenue, am besten mit dem Auto aus West- oder Zentral-London erreichbar."
         }
       ],
       "faqsEn": [
@@ -568,6 +606,18 @@
         {
           "q": "O que devo fazer numa emergência com o meu animal em Londres?",
           "a": "Ligue de imediato para o Goddard Wanstead (020 8989 7744) ou para o Goddard Mandeville (020 8845 5677), ambos abertos 24/7. Tenha à mão o número de microchip do seu animal, o registo de vacinação e qualquer histórico de medicação quando ligar."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in London, Tierkliniken & Haustierpflege",
+      "introDe": "London verfügt über eine ausgezeichnete tierärztliche Notfallversorgung, die Goddard Veterinary Group betreibt drei rund um die Uhr geöffnete Kliniken in der Stadt, Wanstead (Ost-London), Stone Lion (Wimbledon) und Mandeville (Northolt). Alle sind RCVS-akkreditiert und verfügen über vollständige chirurgische und intensivmedizinische Einrichtungen. Rufen Sie bei jedem lebensbedrohlichen Notfall vorher an, damit sich das Team vorbereiten kann. Die Wartezeiten können in Stoßzeiten bei nicht-kritischen Fällen 1–3 Stunden betragen. Halten Sie Impfnachweise und Mikrochip-Nummer Ihres Haustiers auf Reisen immer griffbereit.",
+      "faqsDe": [
+        {
+          "q": "Muss ich den EU-Heimtierausweis meines Hundes bei einem Besuch in London mitbringen?",
+          "a": "Ein EU-Heimtierausweis wird im Vereinigten Königreich nicht mehr akzeptiert. Sie benötigen ein in Großbritannien gültiges Tiergesundheitszeugnis (Animal Health Certificate, AHC), ausgestellt von einem akkreditierten Tierarzt in Ihrem Heimatland innerhalb von 10 Tagen vor der Reise. Hunde benötigen außerdem eine Bandwurmbehandlung 1–5 Tage vor der Ankunft."
+        },
+        {
+          "q": "Was tue ich bei einem Haustiernotfall in London?",
+          "a": "Rufen Sie sofort Goddard Wanstead (020 8989 7744) oder Goddard Mandeville (020 8845 5677) an, beide sind rund um die Uhr geöffnet. Halten Sie Mikrochip-Nummer, Impfnachweise und eventuelle Medikamentengeschichte Ihres Haustiers bereit, wenn Sie anrufen."
         }
       ]
     },
@@ -630,6 +680,14 @@
           "q": "Londres aceita bem cães no verão?",
           "a": "Sim, com ressalvas. Os Royal Parks são excelentes no verão e praias como Whitstable são facilmente alcançáveis de comboio. As carruagens do metro das linhas profundas ficam muito quentes no verão, as linhas Circle, District e Central ultrapassam regularmente os 30°C em dias quentes, o que é desconfortável e potencialmente perigoso para raças braquicefálicas. Use antes autocarros durante uma onda de calor."
         }
+      ],
+      "titleDe": "Reisetipps mit Hund für London",
+      "introDe": "London eignet sich ungewöhnlich gut zum Reisen mit Hund, die Pubkultur der Stadt, die Grünfläche pro Kopf und die liberalen Verkehrsregeln machen es einfacher als in vielen europäischen Hauptstädten. Die größten Reibungspunkte sind die Einreisebestimmungen nach dem Brexit (kein EU-Heimtierausweis akzeptiert), Rolltreppen in tief liegenden U-Bahn-Stationen und die Sommerhitze in geschlossenen U-Bahn-Waggons. Planen Sie Ihre Reise rund um stufenfreie Stationen, und Sie werden nur sehr wenige Probleme haben.",
+      "faqsDe": [
+        {
+          "q": "Ist London im Sommer hundefreundlich?",
+          "a": "Ja, mit Einschränkungen. Die Royal Parks sind im Sommer hervorragend, und Strände wie Whitstable sind leicht mit dem Zug erreichbar. Tief liegende U-Bahn-Waggons werden im Sommer sehr heiß, die Circle-, District- und Central Line überschreiten an heißen Tagen regelmäßig 30 °C, was unangenehm und für kurzköpfige Rassen potenziell gefährlich ist. Nutzen Sie bei einer Hitzewelle stattdessen Busse."
+        }
       ]
     },
     "attractions": {
@@ -661,7 +719,11 @@
           "descriptionPt": "A ponte mais icónica de Londres é também a sua atração paga mais acolhedora para cães, recebendo centenas de cães todos os anos. Os cães com trela são admitidos em todo o espaço, incluindo os passadiços de vidro em altura e as Salas de Máquinas Vitorianas. A ponte realiza eventos VIPooch Morning, horários de abertura antecipada com prioridade para cães, que podem ser reservados através do seu site. A ponte também se descreve como 'a única grande atração de Londres que aceita cães', uma afirmação sustentada pela sua página dedicada a cães.",
           "dogPolicyPt": "Cães com trela bem-vindos em todo o espaço, incluindo os passadiços de vidro e as salas de máquinas",
           "admissionFeePt": "Adultos 12,30 £, crianças 5,60 £ (preços de 2026); cães gratuitos",
-          "tipPt": "Reserve um horário VIPooch Morning (indicado na sua página de eventos) para uma experiência mais sossegada com o seu cão nos passadiços de vidro."
+          "tipPt": "Reserve um horário VIPooch Morning (indicado na sua página de eventos) para uma experiência mais sossegada com o seu cão nos passadiços de vidro.",
+          "descriptionDe": "Londons ikonischste Brücke ist zugleich seine hundefreundlichste kostenpflichtige Attraktion, jedes Jahr werden hier hunderte Hunde willkommen geheißen. Hunde an der Leine sind überall zugelassen, einschließlich der hoch gelegenen Glaslaufstege und der viktorianischen Maschinenräume. Die Brücke veranstaltet VIPooch-Morning-Events, frühe Zeitfenster mit Hundevorrang, die über die Website gebucht werden können. Die Brücke bezeichnet sich außerdem selbst als 'Londons einzige große hundefreundliche Attraktion', ein Anspruch, der durch ihre eigene Hundeseite untermauert wird.",
+          "dogPolicyDe": "Hunde an der Leine überall willkommen, einschließlich Glaslaufstege und Maschinenräume",
+          "admissionFeeDe": "Erwachsene 12,30 £, Kinder 5,60 £ (Preise 2026); Hunde kostenlos",
+          "tipDe": "Buchen Sie ein VIPooch-Morning-Zeitfenster (auf der Veranstaltungsseite aufgeführt) für ein ruhigeres Erlebnis mit Ihrem Hund auf den Glaslaufstegen."
         },
         {
           "name": "Brunel Museum",
@@ -684,7 +746,11 @@
           "descriptionPt": "Um museu pequeno mas fascinante em Rotherhithe que conta a história de Isambard Kingdom Brunel e do Túnel do Tamisa, o primeiro túnel subaquático do mundo. Os cães são bem-vindos dentro do espaço de exposição, o que o torna um dos únicos museus de Londres onde se pode explorar com o cão ao lado. O jardim à beira-rio também aceita cães.",
           "dogPolicyPt": "Cães bem-vindos dentro do museu e no jardim à beira-rio",
           "admissionFeePt": "Adultos 8 £, crianças gratuito; cães gratuitos",
-          "tipPt": "Fácil de combinar com um passeio pelo caminho ribeirinho de Rotherhithe, um dos percursos de passeio de cães mais subvalorizados de Londres."
+          "tipPt": "Fácil de combinar com um passeio pelo caminho ribeirinho de Rotherhithe, um dos percursos de passeio de cães mais subvalorizados de Londres.",
+          "descriptionDe": "Ein kleines, aber faszinierendes Museum in Rotherhithe, das die Geschichte von Isambard Kingdom Brunel und dem Thames Tunnel erzählt, dem weltweit ersten Unterwassertunnel. Hunde sind im Ausstellungsraum willkommen, wodurch es zu einem der wenigen Museen Londons wird, das Sie gemeinsam mit Ihrem Hund erkunden können. Auch der Garten am Flussufer heißt Hunde willkommen.",
+          "dogPolicyDe": "Hunde im Museum und im Garten am Flussufer willkommen",
+          "admissionFeeDe": "Erwachsene 8 £, Kinder kostenlos; Hunde kostenlos",
+          "tipDe": "Lässt sich leicht mit einem Spaziergang entlang des Rotherhithe-Flussuferwegs kombinieren, einer der unterschätztesten Hundespazierwege Londons."
         }
       ],
       "tipsEn": [
@@ -732,6 +798,14 @@
           "q": "Posso levar o meu cão ao Borough Market?",
           "a": "Sim, os cães com trela são bem-vindos no Borough Market nos seus dias de funcionamento (de quinta-feira a sábado). O mercado é ao ar livre e os vendedores das bancas são em geral muito acolhedores para com os cães."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in London",
+      "introDe": "Die meisten großen Indoor-Attraktionen Londons, das British Museum, die Tate Modern, das V&A, lassen keine Hunde zu. Die Ausnahmen sind bemerkenswert: Tower Bridge ist Londons einzige große kostenpflichtige Sehenswürdigkeit, die Hunde offiziell willkommen heißt, und das Brunel Museum in Rotherhithe ist das einzige Museum, das Hunde in den Ausstellungsraum lässt. Kulturelle Erlebnisse im Freien sind weitaus zugänglicher, ein Bummel entlang der South Bank, dem Southwark-Flussufer oder den Marktständen des Borough Market ist mit Hund problemlos möglich.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund zum Borough Market mitnehmen?",
+          "a": "Ja, Hunde an der Leine sind auf dem Borough Market an dessen Markttagen (Donnerstag bis Samstag) willkommen. Der Markt ist im Freien, und die Standbetreiber sind im Allgemeinen sehr hundefreundlich."
+        }
       ]
     },
     "petsitting": {
@@ -760,7 +834,10 @@
           "tipEs": "Filtra por 'experiencia con perros grandes' y 'tiene perro propio' en la búsqueda de Rover para encontrar cuidadores que realmente ejerciten a tu perro y no solo hagan una visita al jardín.",
           "descriptionPt": "A maior rede de passeadores de cães e cuidadores de animais de Londres, com mais de 20.000 cuidadores locais. Todos os cuidadores passam por uma verificação de antecedentes. Os serviços incluem visitas pontuais, passeios de cães (30 e 60 min), alojamento noturno e creche diurna. Custo médio: 14 £/passeio de 30 min, 30 a 45 £/noite de alojamento. Reserva e pagamento através da aplicação Rover, com passeios localizados por GPS e atualizações com fotografias.",
           "serviceTypePt": "Passeio de cães, cuidado de animais, alojamento noturno, creche diurna",
-          "tipPt": "Filtre por 'com experiência com cães grandes' e 'tem cão próprio' na pesquisa do Rover para encontrar cuidadores que realmente exercitem o seu cão em vez de apenas uma visita ao jardim."
+          "tipPt": "Filtre por 'com experiência com cães grandes' e 'tem cão próprio' na pesquisa do Rover para encontrar cuidadores que realmente exercitem o seu cão em vez de apenas uma visita ao jardim.",
+          "descriptionDe": "Das größte Netzwerk an Gassi-Diensten und Haustierbetreuung in London, mit über 20.000 lokalen Betreuerinnen und Betreuern. Alle durchlaufen eine Hintergrundprüfung. Zu den Leistungen zählen Kurzbesuche, Gassi-Service (30 und 60 Minuten), Übernachtungsbetreuung und Hundetagesbetreuung. Durchschnittskosten: 14 £/30-Min.-Spaziergang, 30–45 £/Nacht Übernachtung. Buchung und Bezahlung über die Rover-App, mit GPS-verfolgten Spaziergängen und Foto-Updates.",
+          "serviceTypeDe": "Gassi-Service, Haustierbetreuung, Übernachtungsbetreuung, Hundetagesbetreuung",
+          "tipDe": "Filtern Sie in der Rover-Suche nach 'erfahren mit großen Hunden' und 'hat selbst einen Hund', um Betreuerinnen und Betreuer zu finden, die Ihren Hund wirklich bewegen und nicht nur kurz im Garten vorbeischauen."
         },
         {
           "name": "Pawshake London",
@@ -780,7 +857,10 @@
           "tipEs": "Reserva el alojamiento con 2–3 semanas de antelación para los fines de semana de verano y festivos: los cuidadores londinenses se llenan rápido.",
           "descriptionPt": "O Pawshake liga os donos de cães de Londres a cuidadores e passeadores locais, todos cobertos pela Garantia Pawshake. A plataforma cobra uma comissão de serviço de 19% aos cuidadores. Particularmente forte para alojamento de cães e estadias de cuidado mais longas. Pesquise por bairro para encontrar cuidadores na zona do seu hotel.",
           "serviceTypePt": "Passeio de cães, cuidado de animais, alojamento, cuidado de casa",
-          "tipPt": "Reserve o alojamento com 2 a 3 semanas de antecedência para os fins de semana de verão e feriados, os cuidadores de Londres enchem depressa."
+          "tipPt": "Reserve o alojamento com 2 a 3 semanas de antecedência para os fins de semana de verão e feriados, os cuidadores de Londres enchem depressa.",
+          "descriptionDe": "Pawshake verbindet Londoner Hundebesitzer mit lokalen Betreuerinnen, Betreuern und Gassi-Diensten, alle abgedeckt durch die Pawshake-Garantie. Die Plattform verlangt von den Betreuern eine Servicegebühr von 19 %. Besonders stark bei Hundepensionen und längeren Betreuungsaufenthalten. Suchen Sie nach Viertel, um Betreuerinnen und Betreuer in der Nähe Ihres Hotels zu finden.",
+          "serviceTypeDe": "Gassi-Service, Haustierbetreuung, Pension, Haussitting",
+          "tipDe": "Buchen Sie eine Pension 2–3 Wochen im Voraus für Sommer- und Feiertagswochenenden, Londoner Betreuerinnen und Betreuer sind schnell ausgebucht."
         }
       ],
       "tipsEn": [
@@ -827,6 +907,14 @@
         {
           "q": "Quanto custa um passeador de cães em Londres?",
           "a": "Conte pagar 14 a 18 £ por um passeio de grupo de 30 minutos e 18 a 25 £ por um passeio individual de 60 minutos (médias do Rover em abril de 2026). O alojamento noturno custa tipicamente 30 a 45 £ por noite, consoante o bairro e a experiência do cuidador."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in London",
+      "introDe": "London verfügt über einen der größten Haustierbetreuungsmärkte Europas, mit über 20.000 registrierten Gassi-Diensten allein auf Rover, Stand April 2026. Sowohl Rover als auch Pawshake sind in der Stadt gut etabliert, mit überprüften Betreuerinnen und Betreuern und transparentem Bewertungssystem. Die durchschnittlichen Kosten liegen bei etwa 14–18 £ pro 30-minütigem Spaziergang. Für Übernachtungsbetreuung sind lizenzierte Privatpensionen in Wohnvierteln die praktischste Option für einen Städtetrip, Stadthotels haben selten Außenbereiche, in denen Hunde laufen können.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet ein Gassi-Service in London?",
+          "a": "Rechnen Sie mit 14–18 £ für einen 30-minütigen Gruppenspaziergang und 18–25 £ für einen 60-minütigen Einzelspaziergang (Rover-Durchschnittswerte April 2026). Übernachtungsbetreuung kostet je nach Viertel und Erfahrung der Betreuerin oder des Betreuers meist 30–45 £ pro Nacht."
         }
       ]
     }

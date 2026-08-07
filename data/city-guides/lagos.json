@@ -39,7 +39,11 @@
           "tipFr": "Arrivez à l'ouverture (12h ou 18h30) ; les trois tables en terrasse se remplissent en 15 minutes et il n'y a pas de système de réservation.",
           "tipEs": "Llega a la apertura (12:00 o 18:30); las tres mesas de terraza se llenan en 15 minutos y no hay sistema de reservas.",
           "tipPt": "Chegue à abertura (12:00 ou 18:30); as três mesas de esplanada enchem-se em 15 minutos e não há sistema de reservas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Casinha+do+Petisco+Lagos"
+          "googleMapsUrl": "https://maps.google.com/?q=Casinha+do+Petisco+Lagos",
+          "descriptionDe": "Eine winzige familiengeführte Petisqueira, versteckt in einer Seitengasse zwei Blocks von der Praça Gil Eanes entfernt, mit drei Pflastertischen unter einer Rebe. Die Küche setzt auf klassische Algarve-Meeresgerichte: Cataplana, Arroz de Polvo, gegrillte Sardinen, und das Personal bringt Hunden ungefragt einen Wassernapf.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen; Wassernapf wird gestellt",
+          "mustTryDe": "Cataplana de marisco und gegrillte Sardinen mit batata cozida",
+          "tipDe": "Kommen Sie zur Öffnung (12:00 oder 18:30 Uhr); die drei Terrassentische sind innerhalb von 15 Minuten belegt, und es gibt kein Reservierungssystem."
         },
         {
           "name": "Mar d'Estórias",
@@ -65,7 +69,11 @@
           "tipFr": "Réservez en ligne le créneau coucher de soleil 19h30 ; le rooftop a 30 places et les tables face ouest partent en premier.",
           "tipEs": "Reserva online la franja atardecer 19:30; la azotea tiene 30 plazas y las mesas con vista oeste se van primero.",
           "tipPt": "Reserve online o slot pôr-do-sol 19:30; o rooftop tem 30 lugares e as mesas viradas a oeste vão primeiro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Mar+d+Estorias+Lagos"
+          "googleMapsUrl": "https://maps.google.com/?q=Mar+d+Estorias+Lagos",
+          "descriptionDe": "Ein Concept Store und Dachterrassen-Restaurant in der Altstadt mit einer Panoramaterrasse mit Blick auf den Atlantik und das Fort Ponta da Bandeira. Die Karte bietet zeitgenössische portugiesische Küche mit regionalen Zutaten, und die Dachterrasse heißt angeleinte Hunde das ganze Jahr über willkommen.",
+          "petPolicyDe": "Angeleinte Hunde auf der Dachterrasse willkommen",
+          "mustTryDe": "Atum scabeche und die Algarve-Käseplatte bei Sonnenuntergang",
+          "tipDe": "Buchen Sie den 19:30-Uhr-Sonnenuntergangsslot online; die Dachterrasse bietet 30 Plätze, und die nach Westen ausgerichteten Tische sind zuerst vergeben."
         },
         {
           "name": "A Forja",
@@ -91,7 +99,11 @@
           "tipFr": "Espèces uniquement, pas de carte ; arrivez avant 13h pour le déjeuner ou avant 19h30 pour le dîner pour éviter la file.",
           "tipEs": "Solo efectivo, sin tarjeta; llega antes de las 13:00 para comer o antes de las 19:30 para cenar y evitar cola.",
           "tipPt": "Só dinheiro, sem cartão; chegue antes das 13:00 ao almoço ou antes das 19:30 ao jantar para evitar a fila.",
-          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+A+Forja+Lagos"
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+A+Forja+Lagos",
+          "descriptionDe": "Eine schnörkellose Arbeiter-Tasca, legendär für ihren Tagesfang, mit einer kleinen Pflasterterrasse in einer ruhigen Seitenstraße. Der Fisch kommt direkt vom Morgenmarkt auf den Grill, und das Personal ist an Hunde an den Außentischen gewöhnt.",
+          "petPolicyDe": "Angeleinte Hunde nur auf der Terrasse willkommen",
+          "mustTryDe": "Ganzer gegrillter Robalo (Wolfsbarsch) und Arroz de Tamboril",
+          "tipDe": "Nur Barzahlung, keine Karte; kommen Sie vor 13:00 Uhr zum Mittagessen oder vor 19:30 Uhr zum Abendessen, um der Schlange zu entgehen."
         }
       ],
       "tipsEn": [
@@ -168,6 +180,22 @@
         {
           "q": "Posso levar o meu cão aos restaurantes da marina?",
           "a": "Sim, todo o passeio da frente da Marina de Lagos é pet-friendly e quase todas as esplanadas de restaurante aceitam cães com trela o ano inteiro."
+        }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Lagos",
+      "introDe": "Lagos in der westlichen Algarve vereint eine alte ummauerte Altstadt mit engen Gassen mit einer Marina-Promenade und einer langen Reihe von Pflasterterrassen entlang der Rua Cândido dos Reis und der Uferpromenade Avenida dos Descobrimentos. Fast jede Terrasse heißt einen angeleinten Hund das ganze Jahr über willkommen, und das milde Meeresklima hält den Außenbereich auch im Winter geöffnet.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Lagos drinnen erlaubt?",
+          "a": "Angeleinte Hunde sind auf praktisch jeder Pflasterterrasse der Altstadt willkommen. Klimatisierte Innenräume im Juli und August bevorzugen Hunde oft draußen, fragen Sie einfach an der Tür."
+        },
+        {
+          "q": "Stellen Restaurants Wassernäpfe bereit?",
+          "a": "Die meisten Terrassen bringen ungefragt einen Napf; falls nicht, funktioniert die Bitte um água para o cão immer."
+        },
+        {
+          "q": "Darf ich meinen Hund zu den Restaurants an der Marina mitbringen?",
+          "a": "Ja, die gesamte Uferpromenade der Marina de Lagos ist hundefreundlich, und fast jede Restaurantterrasse heißt angeleinte Hunde das ganze Jahr über willkommen."
         }
       ]
     },
@@ -479,6 +507,22 @@
           "q": "O aeroporto de Faro FAO é pet-friendly?",
           "a": "Sim, o FAO aceita cães com trela nas zonas públicas do terminal e a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia."
         }
+      ],
+      "titleDe": "Öffentliche Verkehrsmittel in Lagos mit Hund",
+      "introDe": "Lagos ist die westliche Endstation der CP Linha do Algarve, der Regionalbahn nach Faro und Vila Real de Santo António. Innerhalb der Gemeinde verbindet der städtische Bus Onda die Altstadt mit Meia Praia, Porto de Mós und Luz, und eine kleine Fähre überquert den Fluss Bensafrim nach Meia Praia. Die portugiesischen Vorschriften erlauben kleinen Hunden in Transportboxen die kostenlose Mitfahrt und akzeptieren große angeleinte Hunde mit Maulkorb außerhalb der Stoßzeiten.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich einen Maulkorb für meinen Hund im Zug nach Faro?",
+          "a": "Ja, größere Hunde ohne Transportbox müssen in den CP-Regionalzügen einen Maulkorb tragen. Kleine Hunde in geschlossenen Transportboxen sind davon befreit und fahren kostenlos."
+        },
+        {
+          "q": "Darf ich meinen Hund im Onda-Bus nach Meia Praia mitnehmen?",
+          "a": "Ja, kleine Hunde in Transportboxen fahren kostenlos; große Hunde werden nach Ermessen des Fahrers akzeptiert, wenn der Bus nicht voll ist. Die Fähre nach Meia Praia von der Marina aus ist im Sommer die einfachere Option."
+        },
+        {
+          "q": "Ist der Flughafen Faro (FAO) haustierfreundlich?",
+          "a": "Ja, FAO akzeptiert angeleinte Hunde in den öffentlichen Terminalbereichen, und TAP Portugal akzeptiert Kabinenhaustiere unter 8 kg mit Vorabbuchung."
+        }
       ]
     },
     "beaches": {
@@ -640,7 +684,12 @@
           "tipFr": "Enregistrez le numéro d'urgence avant de quitter Lagos ; la couverture mobile chute sur l'autoroute A22 et il faudra peut-être appeler avant d'arriver à Estômbar.",
           "tipEs": "Guarda el número de urgencias antes de salir de Lagos; la cobertura móvil cae en la autopista A22 y puede que tengas que llamar antes de llegar a Estômbar.",
           "tipPt": "Guarde o número de urgência antes de sair de Lagos; a cobertura móvel cai na auto-estrada A22 e pode ter de ligar antes de chegar a Estômbar.",
-          "googleMapsUrl": "https://maps.google.com/?q=HVME+Estombar"
+          "googleMapsUrl": "https://maps.google.com/?q=HVME+Estombar",
+          "hoursDe": "Notfall-Hotline rund um die Uhr; Klinik Mo-Sa 9:00-20:00",
+          "descriptionDe": "Das wichtigste rund um die Uhr geöffnete Tierkrankenhaus der zentralen Algarve, mit Bildgebung, Chirurgie, Innerer Medizin und Notfallversorgung außerhalb der Öffnungszeiten. Gelegen an der EN125 in Estômbar, 25 Autominuten östlich von Lagos über die Autobahn A22.",
+          "petPolicyDe": "Notfälle ohne Termin jederzeit angenommen; bei schweren Traumata vorab anrufen",
+          "servicesDe": "Notfall, Chirurgie, Bildgebung, Innere Medizin, Zahnmedizin",
+          "tipDe": "Speichern Sie die Notfallnummer, bevor Sie Lagos verlassen; der Mobilfunkempfang bricht auf der Autobahn A22 ab, und Sie müssen möglicherweise vor Erreichen von Estômbar anrufen."
         },
         {
           "name": "Clínica Veterinária de Lagos",
@@ -676,7 +725,12 @@
           "tipFr": "Réservez le premier créneau du matin pour une validation passeport européen le jour même ; les après-midis se remplissent de consultations locales.",
           "tipEs": "Reserva el primer hueco de la mañana para validación de pasaporte UE el mismo día; las tardes se llenan de consultas locales.",
           "tipPt": "Reserve o primeiro slot da manhã para validação de passaporte UE no mesmo dia; as tardes enchem-se com consultas locais.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Lagos"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Lagos",
+          "hoursDe": "Mo-Fr 9:00-13:00 und 15:00-19:00; Sa 9:00-13:00; So geschlossen",
+          "descriptionDe": "Eine zentrale Allgemeinpraxis an der marinaseitigen Avenida dos Descobrimentos, 5 Minuten von der Altstadt entfernt, ideal für Auffrischungsimpfungen, EU-Heimtierausweis-Stempel und kleinere nicht dringende Konsultationen. Verweist bei Fällen außerhalb der Öffnungszeiten und komplexen Fällen an das HVME.",
+          "petPolicyDe": "Termine bevorzugt; Laufkundschaft wird zwischen gebuchten Terminen behandelt",
+          "servicesDe": "Impfungen, EU-Heimtierausweis, Allgemeinmedizin, kleinere Eingriffe",
+          "tipDe": "Buchen Sie den ersten Morgentermin für die EU-Heimtierausweis-Freigabe am selben Tag; die Nachmittage sind mit lokalen Konsultationen ausgebucht."
         },
         {
           "name": "Hospital Veterinário do Algarve",
@@ -712,7 +766,12 @@
           "tipFr": "Conduisez-vous plutôt que d'appeler un taxi si votre chien saigne ou convulse ; le transfert A22 est plus rapide que d'attendre un pet-taxi la nuit.",
           "tipEs": "Conduce tú mismo en vez de llamar a un taxi si tu perro sangra o convulsiona; el traslado A22 es más rápido que esperar un pet-taxi por la noche.",
           "tipPt": "Conduza você mesmo em vez de chamar táxi se o seu cão sangrar ou convulsionar; a transferência A22 é mais rápida do que esperar por um pet-taxi à noite.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Algarve+Faro"
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Algarve+Faro",
+          "hoursDe": "24 Stunden Notfall und Fachbehandlung",
+          "descriptionDe": "Das rund um die Uhr geöffnete Fach-Überweisungskrankenhaus für die gesamte Algarve, nahe dem Flughafen Faro. Deckt Kardiologie, Onkologie, Neurologie und komplexe Chirurgie ab, an die das HVME für weiterführende Untersuchungen überweisen kann; 50 Minuten von Lagos über die A22.",
+          "petPolicyDe": "Überweisungsbasiert; Notfälle ohne Termin werden angenommen",
+          "servicesDe": "Kardiologie, Onkologie, Neurologie, komplexe Chirurgie, 24h-Intensivstation",
+          "tipDe": "Fahren Sie selbst statt ein Taxi zu rufen, wenn Ihr Hund blutet oder einen Anfall hat; die Fahrt über die A22 ist schneller, als nachts auf ein Haustier-Taxi zu warten."
         }
       ],
       "faqsEn": [
@@ -769,6 +828,22 @@
         {
           "q": "Posso carimbar um passaporte UE antes de voar de Faro?",
           "a": "Sim, as duas clínicas de Lagos listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Lagos",
+      "introDe": "Lagos verfügt über mehrere tagsüber geöffnete allgemeine Tierarztpraxen im Zentrum und am Stadtrand von Chinicato, und das rund um die Uhr geöffnete Überweisungskrankenhaus HVME (Hospital Veterinário Mãe d'Água) in Estômbar (25 km östlich) deckt nächtliche Notfälle für die zentrale Algarve ab. Für Fachbehandlungen liegt das Hospital Veterinário do Algarve in Faro 80 km östlich.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächste 24-Stunden-Tierarzt zu Lagos?",
+          "a": "Das HVME in Estômbar (+351 282 419 080) betreibt die Notfall-Hotline rund um die Uhr für die zentrale Algarve, 25 Autominuten östlich von Lagos über die A22."
+        },
+        {
+          "q": "Sprechen die Tierärzte in Lagos Englisch?",
+          "a": "Ja, im HVME und in der zentralen Clínica Veterinária; erfahrene Tierärzte sind dank der großen Zahl an Expats und Touristen durchweg fließend."
+        },
+        {
+          "q": "Kann ich vor dem Abflug ab Faro einen EU-Heimtierausweis-Stempel bekommen?",
+          "a": "Ja, beide genannten Kliniken in Lagos stellen EU-Heimtierausweise aus und aktualisieren sie. Termine am selben Tag sind für gesunde Hunde meist verfügbar."
         }
       ]
     },
@@ -865,6 +940,22 @@
           "q": "Qual é o melhor mês para Lagos com cão?",
           "a": "Abril-maio e setembro-outubro: temperaturas suaves, menor humidade, menos gente e acesso livre a todas as praias fora da época balnear."
         }
+      ],
+      "titleDe": "Haustierfreundliche Tipps für einen Besuch in Lagos",
+      "introDe": "Lagos belohnt reisende Haustierbesitzer mit milden Meerestemperaturen von Oktober bis Mai, einer begehbaren ummauerten Altstadt, hundetoleranten Klippenwegen und einer Fähren-Abkürzung von der Marina nach Meia Praia. Planen Sie Strandbesuche für die Nebensaison, um den sommerlichen Bade-Einschränkungen zu entgehen, und buchen Sie Unterkünfte innerhalb der alten Stadtmauern für die einfachste autofreie Hundelogistik.",
+      "faqsDe": [
+        {
+          "q": "Ist Lagos ein guter Ausgangspunkt für einen haustierfreundlichen Algarve-Urlaub?",
+          "a": "Ja, die Kombination aus mildem Meeresklima, begehbarer ummauerter Altstadt, hundetolerantem Boardwalk Ponta da Piedade und der ganzjährigen Hundezone am Praia de Porto de Mós macht ihn zum stärksten Haustier-Standort der westlichen Algarve."
+        },
+        {
+          "q": "Brauche ich in der Öffentlichkeit in Lagos einen Maulkorb?",
+          "a": "Nur für Rassen auf der portugiesischen Liste gefährlicher Rassen; Standardrassen benötigen nur eine Leine. Der Onda-Bus und der CP-Zug akzeptieren angeleinte große Hunde mit Maulkorb und kleine Hunde in Transportboxen kostenlos."
+        },
+        {
+          "q": "Welcher Monat ist der beste für Lagos mit Hund?",
+          "a": "April-Mai und September-Oktober: milde Temperaturen, geringere Luftfeuchtigkeit, weniger Andrang und uneingeschränkter Zugang zu allen Stränden außerhalb der Badesaison."
+        }
       ]
     },
     "attractions": {
@@ -898,7 +989,11 @@
           "tipFr": "Marchez au lever du soleil ; le soleil naissant éclaire les falaises ocre à leur teinte la plus chaude et vous évitez à la fois la chaleur du calcaire et la foule des tours en bateau.",
           "tipEs": "Camina al amanecer; el sol naciente ilumina los acantilados ocres en su tono más cálido y evitas tanto el calor de la caliza como el gentío de las excursiones en barco.",
           "tipPt": "Caminhe ao nascer do sol; o sol nascente ilumina as falésias ocres no seu tom mais quente e evita tanto o calor do calcário como a multidão dos passeios de barco.",
-          "googleMapsUrl": "https://maps.google.com/?q=Ponta+da+Piedade+Lagos"
+          "googleMapsUrl": "https://maps.google.com/?q=Ponta+da+Piedade+Lagos",
+          "descriptionDe": "Die Wahrzeichen-Attraktion der westlichen Algarve: eine Halbinsel aus ockerfarbenen Kalksteinklippen, Meereshöhlen, Felsbögen und türkisfarbenen Buchten, gekrönt von einem Leuchtturm aus dem 19. Jahrhundert. Der 4 km lange hölzerne Klippen-Boardwalk lässt angeleinte Hunde das ganze Jahr über zu und bietet das spektakulärste Meerespanorama Portugals.",
+          "dogPolicyDe": "Angeleinte Hunde auf dem gesamten Klippen-Boardwalk das ganze Jahr über willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Gehen Sie bei Sonnenaufgang; die aufgehende Sonne taucht die ockerfarbenen Klippen in ihren wärmsten Farbton, und Sie entgehen sowohl der Kalkstein-Hitze als auch dem Andrang der Bootstouren."
         },
         {
           "name": "Old Town walls & Forte da Ponta da Bandeira",
@@ -1022,6 +1117,22 @@
           "q": "A cidade velha de Lagos é acessível a pé com um cão?",
           "a": "Sim, todo o recinto amuralhado é pedonal e um cão com trela faz o circuito completo incluindo a extensão da marina em cerca de 45 minutos."
         }
+      ],
+      "titleDe": "Top hundefreundliche Sehenswürdigkeiten in Lagos",
+      "introDe": "Lagos vereint eine ungewöhnlich hohe Dichte an hundefreundlichen Attraktionen im Freien: die ummauerte Altstadt mit ihren Festungsmauern aus dem 16. Jahrhundert, den Klippen-Boardwalk Ponta da Piedade, die Seefestung Ponta da Bandeira und die historische Stätte des Mercado de Escravos, des ehemaligen Sklavenmarkts. Alle wichtigen Freiluft-Sehenswürdigkeiten lassen angeleinte Hunde zu; nur die kleinen Museumsinnenräume sind Assistenzhunden vorbehalten.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in den Museen von Lagos erlaubt?",
+          "a": "Nur Assistenzhunde dürfen die kleinen Innenräume des Forte da Ponta da Bandeira und des Mercado-de-Escravos-Denkmals betreten; angeleinte Haustiere sind auf allen Plätzen, Mauern und Freiluft-Kulturstätten willkommen."
+        },
+        {
+          "q": "Darf ich meinen Hund auf eine Bootstour zur Ponta da Piedade mitnehmen?",
+          "a": "Die meisten kommerziellen Seehöhlen-Touren lehnen Hunde aus Sicherheitsgründen in den engen Grotten ab; der Klippen-Boardwalk darüber bietet einen ebenso beeindruckenden Blick vom festen Boden aus."
+        },
+        {
+          "q": "Ist die Altstadt von Lagos mit Hund begehbar?",
+          "a": "Ja, der gesamte Mauerrundgang ist Fußgängerzone, und ein angeleinter Hund bewältigt die gesamte Runde einschließlich der Marina-Erweiterung in etwa 45 Minuten."
+        }
       ]
     },
     "petsitting": {
@@ -1051,7 +1162,10 @@
           "servicesFr": "Visites, garde de jour, pension de nuit",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno",
           "servicesPt": "Visitas, creche diurna, alojamento nocturno",
-          "openingHours": "App available 24/7; sitters set own hours"
+          "openingHours": "App available 24/7; sitters set own hours",
+          "descriptionDe": "Die führende Peer-to-Peer-Haustierbetreuungsplattform in Portugal, mit verifizierten Gastgebern in Lagos, die Kurzbesuche, Tagesbetreuung und Übernachtungen anbieten. Die meisten Gastgeber haben Erdgeschosswohnungen oder kleine Algarve-Gärten mit schnellem Zugang nach draußen.",
+          "petPolicyDe": "Richtlinien je Gastgeber; versicherte und bewertete Buchungen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungen"
         },
         {
           "name": "DogHero Lagos",
@@ -1070,7 +1184,10 @@
           "servicesFr": "Visites, garde de jour, pension de nuit, balades",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno, paseos",
           "servicesPt": "Visitas, creche diurna, alojamento nocturno, passeios",
-          "openingHours": "App available 24/7; sitters set own hours"
+          "openingHours": "App available 24/7; sitters set own hours",
+          "descriptionDe": "Das aus Brasilien stammende DogHero ist die zweitgrößte Peer-to-Peer-Haustierbetreuungsplattform in Portugal mit einem umfangreichen Angebot in der westlichen Algarve, einschließlich Gastgebern im Zentrum von Lagos, in Luz, Meia Praia und Chinicato. Verifizierte Profile, versicherte Aufenthalte und In-App-Nachrichten auf Portugiesisch und Englisch.",
+          "petPolicyDe": "Richtlinien je Gastgeber; versicherte und bewertete Buchungen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungen, Gassi-Service"
         }
       ],
       "tipsEn": [
@@ -1147,6 +1264,22 @@
         {
           "q": "Tenho de levar a comida do cão ao cuidador?",
           "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundepension in Lagos",
+      "introDe": "Lagos verfügt dank seiner großen britischen, irischen und deutschen Expat-Gemeinschaft und des ganzjährigen Touristenstroms über ein florierendes Haustierbetreuungsnetzwerk. Die meisten Angebote laufen über Pawshake und DogHero sowie mehrere lokale Pensionen in den ländlichen Randgebieten von Chinicato und Bensafrim. Englisch wird durchweg gesprochen.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Haustierbetreuung in Lagos?",
+          "a": "Rechnen Sie mit 20-30 EUR pro Nacht für die Unterbringung und 12-18 EUR pro 30-minütigem Spaziergang über Pawshake oder DogHero; lokale Pensionen in Chinicato berechnen ab 25 EUR pro Tag."
+        },
+        {
+          "q": "Können Hotels für einen Abend einen Betreuer empfehlen?",
+          "a": "Ja, größere Hotels in Lagos führen eine kurze Liste von Pawshake-Gastgebern, die abends vorbeischauen, nützlich für einen Restaurantabend in Faro oder einen Sonnenuntergang an der Surfküste von Sagres."
+        },
+        {
+          "q": "Muss ich das Futter meines Hundes zu einem Betreuer mitbringen?",
+          "a": "Die meisten Gastgeber bevorzugen Kontinuität; bringen Sie Futter für 2-3 Tage sowie den gewohnten Napf Ihres Hundes mit, um Magenverstimmungen zu vermeiden."
         }
       ]
     }

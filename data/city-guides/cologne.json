@@ -37,7 +37,11 @@
           "descriptionPt": "Uma das Brauhäuser mais antigas de Colónia, com raízes que remontam a 1318 na mesma rua. A Brauhaus Sion serve a tradicional Kölsch nos copos compridos característicos (Stangen), trazidos pelos empregados ambulantes chamados Köbes. Os cães são bem-vindos nas mesas da esplanada exterior empedrada. A comida são os pratos típicos da Renânia: Himmel un Ääd (morcela com puré de batata e compota de maçã), Reibekuchen (panquecas de batata) e halve Hahn (pão de centeio com queijo). Localização central, a 5 min a pé da Catedral de Colónia.",
           "petPolicyPt": "Cães bem-vindos nas mesas da esplanada exterior",
           "mustTryPt": "Himmel un Ääd com um copo de Kölsch",
-          "tipPt": "Os empregados Köbes trazem automaticamente uma nova Kölsch quando a sua acaba: coloque uma base de copo por cima para indicar que terminou."
+          "tipPt": "Os empregados Köbes trazem automaticamente uma nova Kölsch quando a sua acaba: coloque uma base de copo por cima para indicar que terminou.",
+          "descriptionDe": "Eines der ältesten Brauhäuser Kölns, dessen Wurzeln bis 1318 in derselben Straße zurückreichen. Das Brauhaus Sion serviert traditionelles Kölsch in den klassischen Stangen, gebracht von umherziehenden Köbes-Kellnern. Hunde sind an den Außentischen auf der Kopfsteinpflasterterrasse willkommen. Auf der Speisekarte stehen rheinische Klassiker: Himmel un Ääd (Blutwurst mit Kartoffelpüree und Apfelmus), Reibekuchen und halver Hahn (Roggenbrot mit Käse). Zentral gelegen, 5 Minuten zu Fuß vom Kölner Dom.",
+          "petPolicyDe": "Hunde an den Außentischen der Terrasse willkommen",
+          "mustTryDe": "Himmel un Ääd mit einem Glas Kölsch",
+          "tipDe": "Köbes-Kellner bringen automatisch ein neues Kölsch, sobald das eigene leer ist, einen Bierdeckel auf das Glas legen, um zu signalisieren, dass man fertig ist."
         }
       ],
       "tipsEn": [
@@ -84,6 +88,14 @@
         {
           "q": "Os cães são permitidos no interior dos restaurantes de Colónia?",
           "a": "Geralmente sim nas Brauhäuser tradicionais e nos restaurantes informais. A lei alemã deixa a decisão aos proprietários, e a cultura canina de Colónia faz com que a maioria dos espaços interiores aceite cães bem comportados com trela. Os restaurantes de gama alta podem pedir que os cães permaneçam no exterior."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Köln",
+      "introDe": "Köln ist eine der hundefreundlichsten Städte Deutschlands, und die deutsche Restaurantkultur ist gegenüber wohlerzogenen Hunden generell aufgeschlossen. Die Brauhäuser, Kölns traditionelle Brauereigaststätten, die Kölsch und deftige Hausmannskost servieren, haben fast alle Außenterrassen, auf denen Hunde willkommen sind. Viele erweitern dies auch auf den Innenbereich, besonders in den kühleren Monaten. Die Altstadt und die Terrassen am Rheinufer sind die besten Bereiche für hundefreundliches Essen. Ein praktischer Hinweis: Deutsche Restaurants machen selten formelle „hundefreundlich\"-Angaben, wie es britische tun, einfach „Ist mein Hund willkommen?\" fragen, und die meisten werden zustimmen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Kölner Restaurants im Innenbereich erlaubt?",
+          "a": "In traditionellen Brauhäusern und legeren Restaurants im Allgemeinen ja. Das deutsche Recht gibt Restaurantbesitzern Ermessensspielraum, und Kölns hundefreundliche Kultur bedeutet, dass die meisten Innenräume wohlerzogene angeleinte Hunde willkommen heißen. Gehobene Restaurants bitten Hunde möglicherweise, draußen zu bleiben."
         }
       ]
     },
@@ -286,6 +298,14 @@
           "q": "O meu cão é permitido nos elétricos e comboios da KVB em Colónia?",
           "a": "Sim. Os cães pequenos em transportadoras fechadas viajam grátis. Os cães maiores precisam de um bilhete de criança. Os cães têm de andar com trela e não podem ocupar lugares sentados. Isto aplica-se a todos os elétricos, linhas de U-Bahn e autocarros urbanos da KVB."
         }
+      ],
+      "titleDe": "Mit Hund in Köln unterwegs",
+      "introDe": "Die Kölner Verkehrs-Betriebe (KVB) betreiben Kölns Straßenbahnen, U-Bahn (Stadtbahn) und das städtische Busnetz. Hunde sind bei allen KVB-Verkehrsmitteln gemäß der offiziellen Hausordnung erlaubt, müssen aber jederzeit angeleint sein und dürfen nicht auf Sitzen Platz nehmen. Kleine Hunde in Transportboxen fahren kostenlos. Größere Hunde benötigen ein Einzelticket für Kinder. Die Deutsche Bahn verbindet Köln über Fernzüge mit anderen deutschen und europäischen Städten und hat eine einheitliche Hunderichtlinie.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund in Kölner Straßenbahnen und Bahnen der KVB mitfahren?",
+          "a": "Ja. Kleine Hunde in geschlossenen Transportboxen fahren kostenlos. Größere Hunde benötigen ein Kinderticket. Hunde müssen angeleint sein und dürfen keine Sitzplätze belegen. Dies gilt für alle KVB-Straßenbahnen, U-Bahn-Linien und städtischen Busse."
+        }
       ]
     },
     "beaches": {
@@ -346,7 +366,10 @@
           "photo": "/images/city-places/cologne-vets-tierklinik-koln-sud-dr-kellerwessel.jpg",
           "hoursPt": "24 horas, 7 dias por semana",
           "descriptionPt": "Clínica veterinária moderna em Colónia-Sul, com serviço de urgências 24/7. Unidade completa de medicina de urgência com ressonância magnética, TAC e departamentos especializados. A clínica do Dr. Kellerwessel opera em Colónia há décadas e é bem considerada pela comunidade veterinária local. Situada em Rodenkirchen, no sul da cidade, acessível de carro a partir do nó da autoestrada A4/A555.",
-          "tipPt": "Para a linha de urgências, marque +49 221 47 45 43 911 (o número principal da clínica é 0221 474543-0 para marcações normais)."
+          "tipPt": "Para a linha de urgências, marque +49 221 47 45 43 911 (o número principal da clínica é 0221 474543-0 para marcações normais).",
+          "hoursDe": "24 Stunden, 7 Tage die Woche",
+          "descriptionDe": "Moderne Tierklinik in Köln-Süd mit 24-Stunden-Notdienst. Vollständige Notfallmedizin-Einheit mit MRT, CT und Fachabteilungen. Die Klinik von Dr. Kellerwessel ist seit Jahrzehnten in Köln tätig und bei der lokalen Tierärzteschaft angesehen. Gelegen in Rodenkirchen im Süden der Stadt, mit dem Auto erreichbar über die Anschlussstelle A4/A555.",
+          "tipDe": "Für die Notfalllinie +49 221 47 45 43 911 wählen (die Hauptnummer der Klinik für reguläre Termine lautet 0221 474543-0)."
         },
         {
           "name": "Vet Zentrum Köln",
@@ -368,7 +391,10 @@
           "photo": "/images/city-places/cologne-vets-vet-zentrum-koln.jpg",
           "hoursPt": "24 horas, 365 dias por ano",
           "descriptionPt": "Clínica veterinária de animais de companhia em Braunsfeld (oeste de Colónia), com serviço de urgências 24/7 durante todo o ano. Oito veterinários no turno de urgências. Oferece consultas específicas para gatos, além de cuidados para cães e pequenos animais. Situada perto da circular interior da cidade, acessível de U-Bahn até Braunsfeld.",
-          "tipPt": "Situada mais perto do centro da cidade do que a Tierklinik Köln-Süd: mais rápida de alcançar a partir do Altstadt ou dos hotéis do centro."
+          "tipPt": "Situada mais perto do centro da cidade do que a Tierklinik Köln-Süd: mais rápida de alcançar a partir do Altstadt ou dos hotéis do centro.",
+          "hoursDe": "24 Stunden, 365 Tage im Jahr",
+          "descriptionDe": "Kleintierklinik in Braunsfeld (im Westen Kölns) mit ganzjährigem 24-Stunden-Notdienst. Acht Tierärzte im Notdienstrotationssystem. Bietet neben Hunde- und Kleintierpflege auch spezielle Katzensprechstunden an. Nahe dem inneren Stadtring gelegen, mit der U-Bahn bis Braunsfeld erreichbar.",
+          "tipDe": "Liegt näher an der Innenstadt als die Tierklinik Köln-Süd, von der Altstadt oder zentralen Hotels aus schneller erreichbar."
         }
       ],
       "faqsEn": [
@@ -395,6 +421,14 @@
         {
           "q": "Qual é o número do veterinário de urgências em Colónia?",
           "a": "Para urgências 24/7: Tierklinik Köln-Süd em +49 221 47 45 43 911, ou Vet Zentrum Köln em +49 221 545764. Ambos funcionam 24 horas por dia, durante todo o ano."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Köln, Tierkliniken & Haustierpflege",
+      "introDe": "Köln verfügt über eine zuverlässige tierärztliche Notfallversorgung rund um die Uhr. Die beiden Hauptanlaufstellen sind die Tierklinik Köln-Süd (Dr. Kellerwessel) und das Vet Zentrum Köln, die beide das ganze Jahr über durchgehend Notdienste anbieten. Das deutsche Tiermedizinsystem ist von hoher Qualität, und die Kosten sind vergleichbar mit oder etwas niedriger als in anderen großen westeuropäischen Städten. Alle Tierärzte in Köln sind gesetzlich verpflichtet, eine Notdienstregelung zu haben. Vor der Ankunft immer anrufen, beide Kliniken nutzen eine telefonische Ersteinschätzung, um sich auf die Ankunft vorzubereiten.",
+      "faqsDe": [
+        {
+          "q": "Wie lautet die Notfall-Tierarztnummer in Köln?",
+          "a": "Für Notfälle rund um die Uhr: Tierklinik Köln-Süd unter +49 221 47 45 43 911 oder Vet Zentrum Köln unter +49 221 545764. Beide sind ganzjährig rund um die Uhr geöffnet."
         }
       ]
     },
@@ -447,6 +481,14 @@
           "q": "O Altstadt de Colónia é percorrível a pé com um cão?",
           "a": "Sim, as ruas empedradas e pedonais do Altstadt são excelentes para passear com um cão. A principal rua comercial Hohe Straße é exclusivamente pedonal. O passeio ribeirinho do Reno ao longo do Altstadt é um dos percursos a pé mais aptos para cães da cidade."
         }
+      ],
+      "titleDe": "Kölner Reisetipps mit Hund",
+      "introDe": "Köln ist ein hervorragendes Reiseziel für Hundebesitzer, die Kultur der Stadt geht entspannt mit Hunden in der Öffentlichkeit um, die Parks sind gepflegt, und die Altstadt lässt sich auf gepflasterten Fußgängerstraßen bestens erkunden. Die wichtigsten praktischen Herausforderungen sind die warmen Sommer (der Rhein bietet Abkühlungsmöglichkeiten) und die Karnevalssaison (Ende Februar/Anfang März), wenn die Altstadt extrem überfüllt und für lärmempfindliche Hunde belastend wird.",
+      "faqsDe": [
+        {
+          "q": "Ist Kölns Altstadt mit Hund gut zu Fuß erkundbar?",
+          "a": "Ja, die verkehrsberuhigten Kopfsteinpflasterstraßen der Altstadt eignen sich hervorragend für einen Spaziergang mit Hund. Die Hauptshoppingstraße Hohe Straße ist reine Fußgängerzone. Die Rheinpromenade entlang der Altstadt ist einer der hundefreundlichsten Spazierwege der Stadt."
+        }
       ]
     },
     "attractions": {
@@ -478,7 +520,11 @@
           "descriptionPt": "A catedral, Património Mundial da UNESCO, domina a silhueta da cidade. Os cães não são admitidos no interior, mas o grande adro (Domplatte) e a zona pedonal circundante aceitam cães. A vista da catedral a partir da Hohenzollernbrücke (a ponte dos cadeados de amor) é um dos locais mais fotogénicos da Alemanha, e os cães são bem-vindos na ponte. O passeio do Reno mesmo abaixo da zona da catedral é excelente para um passeio matinal.",
           "dogPolicyPt": "Cães não admitidos no interior; exterior, adro e envolvente totalmente aptos para cães",
           "admissionFeePt": "Exterior da catedral: grátis. Subida à torre: 6 € adultos; cães não admitidos na torre.",
-          "tipPt": "Atravessar a Hohenzollernbrücke é gratuito e oferece a melhor oportunidade para a fotografia do cão com a catedral. Atravesse para o lado de Deutz para a fotografia simétrica perfeita."
+          "tipPt": "Atravessar a Hohenzollernbrücke é gratuito e oferece a melhor oportunidade para a fotografia do cão com a catedral. Atravesse para o lado de Deutz para a fotografia simétrica perfeita.",
+          "descriptionDe": "Der zum UNESCO-Weltkulturerbe gehörende Dom prägt die Skyline der Stadt. Hunde sind im Innenbereich nicht zugelassen, aber die große Domplatte und die umliegende Fußgängerzone sind hundefreundlich. Der Blick auf den Dom von der Hohenzollernbrücke (der Liebesschloss-Brücke) aus ist einer der fotogensten Orte Deutschlands, und Hunde sind auf der Brücke willkommen. Die Rheinpromenade direkt unterhalb des Domareals ist hervorragend für einen Morgenspaziergang.",
+          "dogPolicyDe": "Im Innenbereich nicht zugelassen; Außenbereich, Domplatte und Umgebung sind vollständig hundefreundlich",
+          "admissionFeeDe": "Domaußenbereich: kostenlos. Turmbesteigung: 6 € für Erwachsene; Hunde im Turm nicht zugelassen.",
+          "tipDe": "Die Hohenzollernbrücke ist kostenlos begehbar und bietet die beste Foto-Gelegenheit mit Hund und Dom. Für die perfekte symmetrische Aufnahme auf die Deutzer Seite wechseln."
         }
       ],
       "tipsEn": [
@@ -522,6 +568,14 @@
           "q": "Posso visitar a Catedral de Colónia com o meu cão?",
           "a": "No interior não. Os cães não são permitidos dentro da catedral. No entanto, o grande adro Domplatte, a Hohenzollernbrücke e o passeio do Reno mesmo abaixo da catedral aceitam plenamente cães e formam um circuito de passeio natural."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Köln",
+      "introDe": "Kölns wichtigste Innensehenswürdigkeiten, der Kölner Dom, das Römisch-Germanische Museum, das Schokoladenmuseum, lassen keine Hunde zu. Das Äußere des Kölner Doms ist frei zugänglich und hundefreundlich, und die Rheinpromenade bietet Kölns bestes urbanes Erlebnis mit Hund. Bootstouren auf dem Rhein mit der KD Köln-Düsseldorfer starten in der Nähe des Doms, die aktuelle Haustierrichtlinie direkt bei der KD vor der Buchung prüfen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich den Kölner Dom mit meinem Hund besuchen?",
+          "a": "Nicht im Innenbereich. Innerhalb des Doms sind Hunde nicht erlaubt. Die große Domplatte, die Hohenzollernbrücke und die Rheinpromenade direkt unterhalb des Doms sind jedoch voll hundefreundlich und bilden einen natürlichen Rundweg."
+        }
       ]
     },
     "petsitting": {
@@ -551,7 +605,10 @@
           "tipEs": "Filtra por 'cuidadores anglófonos' en la búsqueda de Rover si el idioma es una preocupación: Colonia tiene una gran comunidad de expatriados con cuidadores bilingües.",
           "descriptionPt": "A plataforma alemã da Rover, com 453 passeadores de cães em Colónia (março de 2026). Todos os cuidadores passam por verificações de antecedentes. Os serviços incluem passeio de cães, alojamento em casa, visitas pontuais e creche diurna. Custo médio: cerca de 14 € por passeio de 30 minutos. Plataforma em alemão; muitos cuidadores falam inglês em Colónia, dada a comunidade internacional da cidade.",
           "serviceTypePt": "Passeio de cães, alojamento, visitas pontuais, creche diurna",
-          "tipPt": "Filtre por 'cuidadores que falam inglês' na pesquisa da Rover se o idioma for uma preocupação: Colónia tem uma grande comunidade de expatriados com cuidadores bilingues."
+          "tipPt": "Filtre por 'cuidadores que falam inglês' na pesquisa da Rover se o idioma for uma preocupação: Colónia tem uma grande comunidade de expatriados com cuidadores bilingues.",
+          "descriptionDe": "Die deutsche Plattform von Rover mit 453 Gassi-Service-Anbietern in Köln (Stand März 2026). Alle Betreuer durchlaufen eine Hintergrundprüfung. Zu den Diensten zählen Gassigehen, Betreuung zu Hause, Kurzbesuche und Tagesbetreuung. Durchschnittliche Kosten: ca. 14 € pro 30-minütigem Spaziergang. Deutschsprachige Plattform; viele Betreuer sprechen in Köln aufgrund der internationalen Community Englisch.",
+          "serviceTypeDe": "Gassigehen, Betreuung, Kurzbesuche, Tagesbetreuung",
+          "tipDe": "In der Rover-Suche nach „englischsprachige Betreuer\" filtern, falls die Sprache ein Anliegen ist, Köln hat eine große Expat-Community mit zweisprachigen Betreuern."
         }
       ],
       "tipsEn": [
@@ -594,6 +651,14 @@
         {
           "q": "Há passeadores de cães que falam inglês em Colónia?",
           "a": "Sim: Colónia tem uma grande comunidade internacional e de expatriados, e muitos cuidadores de animais na Rover.de e na Pawshake.de indicam o inglês como idioma. Filtre por preferência de idioma ao pesquisar."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Köln",
+      "introDe": "Köln verfügt über einen gut etablierten Markt für Haustierbetreuung über Rover.de und Pawshake.de, mit 453 registrierten Gassi-Service-Anbietern auf Rover (Stand März 2026). Die durchschnittlichen Kosten für einen 30-minütigen Spaziergang liegen bei etwa 14 €. In Deutschland müssen Gassi-Service-Anbieter ausreichende Kenntnisse im Umgang mit Hunden nachweisen, und die meisten professionellen Anbieter auf diesen Plattformen arbeiten allein oder in kleinen Gruppen. Für den Sommer im Voraus buchen, da die Nachfrage hoch ist.",
+      "faqsDe": [
+        {
+          "q": "Gibt es englischsprachige Gassi-Service-Anbieter in Köln?",
+          "a": "Ja, Köln hat eine große internationale und Expat-Community, und viele Haustierbetreuer auf Rover.de und Pawshake.de geben Englisch als Sprache an. Bei der Suche nach Sprachpräferenz filtern."
         }
       ]
     }

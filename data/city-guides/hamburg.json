@@ -37,7 +37,11 @@
           "descriptionPt": "Uma instituição fundada em 1981 na margem do Elba, célebre pelo seu peixe fresco do mar do Norte e pelas vistas panorâmicas dos porta-contentores que entram no porto. Os cães com trela são bem-vindos na esplanada e no interior a pedido; o proprietário é um conhecido amante dos cães.",
           "petPolicyPt": "Cães bem-vindos na esplanada e na sala",
           "mustTryPt": "Labskaus, Matjes do mar do Norte, solha à moda de Finkenwerder",
-          "tipPt": "Reserve uma mesa à janela para o almoço, para aproveitar a luz do porto; a vista sobre o Elba é melhor das mesas do primeiro andar."
+          "tipPt": "Reserve uma mesa à janela para o almoço, para aproveitar a luz do porto; a vista sobre o Elba é melhor das mesas do primeiro andar.",
+          "descriptionDe": "Eine 1981 gegründete Institution am Elbufer, berühmt für ihre frischen Nordseefrüchte und den Panoramablick auf einlaufende Containerschiffe. Angeleinte Hunde sind auf der Außenterrasse und auf Anfrage auch drinnen willkommen; der Inhaber ist ein bekannter Hundefreund.",
+          "petPolicyDe": "Hunde auf der Terrasse und drinnen willkommen",
+          "mustTryDe": "Labskaus, Nordsee Matjes, Scholle Finkenwerder Art",
+          "tipDe": "Reservieren Sie zum Mittagessen einen Fensterplatz, um das Hafenlicht einzufangen, der Blick auf die Elbe ist von den Tischen im ersten Stock am besten."
         },
         {
           "name": "Bullerei",
@@ -63,7 +67,11 @@
           "descriptionPt": "O restaurante em estilo loft do chef estrela Tim Mälzer, num antigo matadouro de gado no descontraído Schanzenviertel. Os cães são bem-vindos na zona de bar-bistró e na esplanada soalheira da frente, que se enche de habituais e dos seus cães no brunch de fim de semana.",
           "petPolicyPt": "Cães bem-vindos no bar-bistró e na esplanada",
           "mustTryPt": "Brunch de fim de semana, hambúrguer Bullerei, bife maturado de Mälzer",
-          "tipPt": "O brunch não aceita reservas, chegue às 10:00 em ponto para uma mesa de esplanada ou vá às 13:30 para o segundo turno, mais calmo."
+          "tipPt": "O brunch não aceita reservas, chegue às 10:00 em ponto para uma mesa de esplanada ou vá às 13:30 para o segundo turno, mais calmo.",
+          "descriptionDe": "Sternekoch Tim Mälzers Loft-Restaurant in einem ehemaligen Rinderschlachthaus im hippen Schanzenviertel. Hunde sind im Bar-Bistro-Bereich und auf der sonnigen Vorderterrasse willkommen, die sich beim Wochenendbrunch mit Stammgästen und ihren Haustieren füllt.",
+          "petPolicyDe": "Hunde im Bar-Bistro und auf der Terrasse willkommen",
+          "mustTryDe": "Wochenendbrunch, Bullerei-Burger, Mälzers Dry-Aged-Steak",
+          "tipDe": "Für den Brunch gibt es keine Reservierung, kommen Sie pünktlich um 10:00 Uhr für einen Terrassenplatz oder gegen 13:30 Uhr für die ruhigere zweite Runde."
         },
         {
           "name": "Bodo's Bootssteg",
@@ -89,7 +97,11 @@
           "descriptionPt": "Um café-restaurante flutuante num cais histórico, na orla do Außenalster, uma das esplanadas de verão favoritas da cidade. Os cães com trela são bem-vindos no convés de madeira e no relvado adjacente; tigelas de água à entrada o ano inteiro.",
           "petPolicyPt": "Cães bem-vindos no convés e no relvado",
           "mustTryPt": "Fischbrötchen, Franzbrötchen, cerveja local Ratsherrn",
-          "tipPt": "Desça a partir do Kennedybrücke para a abordagem clássica ao Alster; o relvado enche a partir das 14:00 nos fins de semana de sol."
+          "tipPt": "Desça a partir do Kennedybrücke para a abordagem clássica ao Alster; o relvado enche a partir das 14:00 nos fins de semana de sol.",
+          "descriptionDe": "Ein schwimmendes Café-Restaurant an einem historischen Bootssteg am Rande der Außenalster, eine der beliebtesten Sommerterrassen der Stadt. Angeleinte Hunde sind auf dem Holzdeck und der umliegenden Wiese willkommen; das ganze Jahr über stehen Wassernäpfe am Eingang bereit.",
+          "petPolicyDe": "Hunde auf dem Deck und der Wiese willkommen",
+          "mustTryDe": "Fischbrötchen, Franzbrötchen, lokales Ratsherrn-Bier",
+          "tipDe": "Gehen Sie von der Kennedybrücke hinunter für die klassische Annäherung an die Alster, die Wiese füllt sich an sonnigen Wochenenden ab 14:00 Uhr."
         }
       ],
       "tipsEn": [
@@ -168,6 +180,22 @@
         {
           "q": "Quais são os bairros mais pet-friendly de Hamburgo?",
           "a": "As margens do Außenalster (Bodo's, Canapé), o Schanzenviertel (Bullerei, Jim Block) e a frente ribeirinha do Elba em Övelgönne concentram a maior densidade de locais acolhedores."
+        }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Hamburg",
+      "introDe": "Hamburg zählt zu den hundefreundlichsten Großstädten Deutschlands, eine Hafenkultur kombiniert mit einer starken Tradition ungezwungener Außengastronomie (besonders rund um die Alster und im Schanzenviertel) sorgt dafür, dass Wassernäpfe an Restauranttüren fast überall zu finden sind. Das deutsche Recht erlaubt Hunde in Gastronomiebetrieben standardmäßig, sofern kein Schild mit \"kein Hund\" aufgestellt ist, und Hamburger Restaurants leben das weitgehend vor.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Hamburger Restaurants im Innenbereich erlaubt?",
+          "a": "Ja, das deutsche Recht erlaubt Hunde in Gastronomiebetrieben standardmäßig, sofern der Inhaber kein Schild mit \"kein Hund\" aufstellt. Die meisten Hamburger Restaurants heißen sie aktiv willkommen, besonders im Schanzenviertel und rund um die Alster."
+        },
+        {
+          "q": "Bieten Hamburger Cafés Wassernäpfe an?",
+          "a": "Die meisten traditionellen Cafés und Restaurants im Hafenbereich tun das. Falls nicht, fragen Sie nach \"einen Wassernapf\", das Personal bringt innerhalb weniger Minuten eine frische Schale."
+        },
+        {
+          "q": "Wo befinden sich die hundefreundlichsten Restaurantgegenden in Hamburg?",
+          "a": "Das Ufer der Außenalster (Bodo's, Canapé), das Schanzenviertel (Bullerei, Jim Block) und die Elbuferpromenade Övelgönne konzentrieren die höchste Dichte an haustierfreundlichen Lokalen."
         }
       ]
     },
@@ -467,6 +495,22 @@
           "q": "O açaime é obrigatório nos transportes públicos de Hamburgo?",
           "a": "Não automaticamente, mas os condutores e fiscais podem pedir-lhe que coloque o açaime ao cão se o veículo estiver cheio ou se o cão parecer stressado. Leve um açaime macio."
         }
+      ],
+      "titleDe": "Mit Hunden unterwegs in Hamburg",
+      "introDe": "Hamburgs HVV-Netz (S-Bahn, U-Bahn, Bus, Fähre) hat eine der hundefreundlichsten Regelungen Deutschlands: Kleine Hunde in einer Transportbox fahren kostenlos, größere Hunde benötigen eine Kinderkarte, eine kurze Leine und, falls nicht offensichtlich ruhig, einen Maulkorb. Auch die HVV-Fähren über Elbe und Alster akzeptieren Hunde unter denselben Regeln, was das Hafenhüpfen mit Haustier erleichtert.",
+      "faqsDe": [
+        {
+          "q": "Muss ich für meinen Hund in Hamburgs öffentlichen Verkehrsmitteln bezahlen?",
+          "a": "Nur für Hunde, die zu groß für eine geschlossene Transportbox sind. Größere Hunde benötigen eine Kinderkarte zum Kindertarif. Kleine Hunde in Transportboxen fahren kostenlos."
+        },
+        {
+          "q": "Kann ich meinen Hund mit auf die Alsterfähren nehmen?",
+          "a": "Ja, kleine Hunde reisen kostenlos auf Ihrem Schoß; größere Hunde benötigen eine Kinderkarte und müssen auf dem Außendeck angeleint sein."
+        },
+        {
+          "q": "Ist ein Maulkorb in Hamburgs öffentlichen Verkehrsmitteln vorgeschrieben?",
+          "a": "Nicht automatisch, aber Fahrer und Kontrolleure können Sie bitten, Ihren Hund anzuleinen, wenn das Fahrzeug voll ist oder der Hund gestresst wirkt. Führen Sie einen weichen Maulkorb mit."
+        }
       ]
     },
     "beaches": {
@@ -677,7 +721,11 @@
           "descriptionPt": "Uma grande clínica de serviço completo no oeste de Hamburgo, com atendimento de urgência 24 horas, cirurgia, imagiologia (TAC, ecografia, raios X), oncologia e cuidados intensivos. Bem conhecida pelo pessoal que fala inglês e por uma grande equipa noturna.",
           "petPolicyPt": "Urgências 24 horas, sem marcação",
           "servicesPt": "Urgência, cirurgia, imagiologia, oncologia, cuidados intensivos",
-          "tipPt": "O estacionamento é amplo, um detalhe importante às 3 da manhã. Leve o passaporte europeu e o boletim de vacinação do seu cão para acelerar a triagem na primeira visita."
+          "tipPt": "O estacionamento é amplo, um detalhe importante às 3 da manhã. Leve o passaporte europeu e o boletim de vacinação do seu cão para acelerar a triagem na primeira visita.",
+          "descriptionDe": "Große Vollklinik im Westen Hamburgs mit 24-Stunden-Notaufnahme, Chirurgie, Bildgebung (CT, Ultraschall, Röntgen), Onkologie und Intensivpflege. Bekannt für englischsprachiges Personal und ein großes Nachtteam.",
+          "petPolicyDe": "Rund um die Uhr Notfälle ohne Termin",
+          "servicesDe": "Notfall, Chirurgie, Bildgebung, Onkologie, Intensivstation",
+          "tipDe": "Es gibt reichlich Parkplätze, ein wichtiges Detail um 3 Uhr nachts. Bringen Sie beim ersten Besuch den EU-Heimtierausweis und den Impfausweis Ihres Hundes mit, um die Ersteinschätzung zu beschleunigen."
         },
         {
           "name": "Tierärztliche Klinik Dr. Staudacher",
@@ -703,7 +751,11 @@
           "descriptionPt": "Uma segunda grande clínica de urgência 24 horas no lado leste de Hamburgo, que serve Hamm, Wandsbek e a zona de Bergedorf. Cirurgia ortopédica, medicina interna, imagiologia de urgência e cuidados intensivos. Preferida pelos veterinários do leste de Hamburgo para casos complexos.",
           "petPolicyPt": "Urgências 24 horas, sem marcação",
           "servicesPt": "Urgência, ortopedia, medicina interna, imagiologia, cuidados intensivos",
-          "tipPt": "Telefone antes nos casos graves; o enfermeiro de triagem indica-lhe se deve ir diretamente ou seguir para Bahrenfeld (cuidados intensivos maiores). Estacionamento de urgência em frente à entrada principal."
+          "tipPt": "Telefone antes nos casos graves; o enfermeiro de triagem indica-lhe se deve ir diretamente ou seguir para Bahrenfeld (cuidados intensivos maiores). Estacionamento de urgência em frente à entrada principal.",
+          "descriptionDe": "Eine zweite große rund um die Uhr geöffnete Notfallklinik im Osten Hamburgs, die Hamm, Wandsbek und die Gegend um Bergedorf versorgt. Orthopädische Chirurgie, Innere Medizin, Notfallbildgebung und Intensivpflege. Von Tierärzten im Osten Hamburgs für komplexe Fälle bevorzugt.",
+          "petPolicyDe": "Rund um die Uhr Notfälle ohne Termin",
+          "servicesDe": "Notfall, Orthopädie, Innere Medizin, Bildgebung, Intensivstation",
+          "tipDe": "Rufen Sie bei ernsten Fällen vorher an, die Triage-Pflegekraft sagt Ihnen, ob Sie direkt kommen oder nach Bahrenfeld (größere Intensivstation) weitergeleitet werden sollten. Notfallparkplätze vor dem Haupteingang."
         }
       ],
       "tipsEn": [
@@ -782,6 +834,22 @@
         {
           "q": "Um veterinário de Hamburgo aceita atendimentos sem marcação?",
           "a": "Sim, ambas as clínicas 24 horas atendem urgências sem marcação. Durante o horário de funcionamento, a maioria das clínicas correntes exige marcação."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Hamburg, Tierkliniken & Tierpflege",
+      "introDe": "Hamburg verfügt über zwei rund um die Uhr geöffnete Tierkliniken des Netzwerks Tierärztliche Klinik sowie die Wochenendrotation des Tierärztlichen Notdienstes Hamburg. Die Tierklinik Lüneburger Heide und das Tierärztliche Zentrum Bahrenfeld sind die beiden bevorzugten privaten Kliniken für Notfälle außerhalb der Öffnungszeiten.",
+      "faqsDe": [
+        {
+          "q": "Welche Tierklinik in Hamburg hat rund um die Uhr geöffnet?",
+          "a": "Zwei Kliniken bieten innerhalb der Stadt einen vollständigen 24-Stunden-Notdienst: Tierärztliches Zentrum Bahrenfeld (Bahrenfelder Chaussee 43, 040 8907670) im Westen und Tierärztliche Klinik Dr. Staudacher (Sievekingsallee 22, 040 6514140) im Osten."
+        },
+        {
+          "q": "Wie viel kostet ein Notfall-Tierarztbesuch in Hamburg?",
+          "a": "Die Grundkonsultation außerhalb der Öffnungszeiten liegt typischerweise bei 80–140 €, zuzüglich Diagnostik. Es gilt die deutsche GOT-Gebührenordnung; Kliniken müssen sie auf Anfrage vorlegen."
+        },
+        {
+          "q": "Nimmt ein Tierarzt in Hamburg auch ohne Termin an?",
+          "a": "Ja, beide 24-Stunden-Kliniken nehmen Notfälle ohne Termin an. Während der regulären Öffnungszeiten benötigen die meisten regulären Praxen einen Termin."
         }
       ]
     },
@@ -878,6 +946,22 @@
           "q": "Há restrições de raça em Hamburgo?",
           "a": "Sim. Hamburgo classifica o Pit Bull Terrier, o American Staffordshire Terrier, o Bull Terrier e o Rottweiler como Listenhunde; os donos precisam de uma autorização especial, açaime obrigatório em público e regras de trela rigorosas."
         }
+      ],
+      "titleDe": "Wichtige Reisetipps mit Haustier für Hamburg",
+      "introDe": "Hamburg ist eine der hundefreundlichsten Städte Deutschlands, aber ein paar örtliche Regeln bringen Besucher ins Straucheln: die Pflicht zur Hundesteuermarke am Halsband für Einwohner, das Hamburger Hundegesetz mit Leinenpflicht und strenge Strandregeln von Mai bis September. Diese Tipps decken alles ab, was Sie vor und während Ihres Aufenthalts wissen müssen.",
+      "faqsDe": [
+        {
+          "q": "Ist Hamburg eine gute Stadt für einen Besuch mit Hund?",
+          "a": "Ja, sie zählt zu den hundefreundlichsten deutschen Großstädten, mit 56 offiziellen Freilaufzonen, einer hundefreundlichen Alsterpromenade, drei großen Stadtstränden und zwei rund um die Uhr geöffneten Notfall-Tierkliniken."
+        },
+        {
+          "q": "Brauche ich spezielle Unterlagen, um meinen Hund nach Hamburg mitzubringen?",
+          "a": "Für EU-Bürger: den EU-Heimtierausweis mit gültiger Tollwutimpfung. Für Besucher von außerhalb der EU: eine EU-Tiergesundheitsbescheinigung, ausgestellt innerhalb von 10 Tagen vor Einreise, sowie für bestimmte Länder einen Tollwut-Titertest."
+        },
+        {
+          "q": "Gibt es in Hamburg Rasseverbote?",
+          "a": "Ja. Hamburg stuft Pit Bull Terrier, American Staffordshire Terrier, Bullterrier und Rottweiler als Listenhunde ein, Besitzer benötigen eine besondere Erlaubnis, in der Öffentlichkeit gilt Maulkorbpflicht und strenge Leinenregeln."
+        }
       ]
     },
     "attractions": {
@@ -928,7 +1012,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Landungsbruecken+Hamburg",
           "descriptionPt": "O icónico cais flutuante de 688 metros no coração do porto de Hamburgo, com vistas dos terminais de contentores, da entrada do túnel do Elba e dos barcos de cruzeiro pelo porto. Os cães com trela são bem-vindos no cais e na maioria das companhias de cruzeiros pelo porto de Hamburgo (Rainer Abicht, Barkassen-Centrale).",
           "petPolicyPt": "Cães com trela bem-vindos no cais e na maioria dos cruzeiros",
-          "tipPt": "Apanhe daqui o ferry HVV 62 para Finkenwerder, os cães viajam com o seu bilhete HVV, e a viagem de 25 minutos é o passeio de porto mais barato da cidade."
+          "tipPt": "Apanhe daqui o ferry HVV 62 para Finkenwerder, os cães viajam com o seu bilhete HVV, e a viagem de 25 minutos é o passeio de porto mais barato da cidade.",
+          "descriptionDe": "Der ikonische 688 Meter lange schwimmende Ponton im Herzen des Hamburger Hafens, mit Blick auf die Containerterminals, den Eingang zum Elbtunnel und Hafenrundfahrtboote. Angeleinte Hunde sind auf dem Ponton und den meisten Hamburg-Hafenrundfahrten (Rainer Abicht, Barkassen-Centrale) willkommen.",
+          "petPolicyDe": "Angeleinte Hunde auf dem Ponton und den meisten Hafenrundfahrten willkommen",
+          "tipDe": "Nehmen Sie von hier die HVV-Fähre 62 nach Finkenwerder, Hunde reisen mit Ihrem HVV-Ticket, und die 25-minütige Fahrt ist die günstigste Hafentour der Stadt."
         },
         {
           "name": "Planten un Blomen",
@@ -949,7 +1036,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Planten+un+Blomen+Hamburg",
           "descriptionPt": "O parque central de Hamburgo (47 hectares), com jardins botânicos, concertos de água e luz no verão, parques infantis e estufas tropicais. Os cães com trela são bem-vindos nas zonas principais do parque, mas NÃO no Jardim Japonês, nas Tropenhäuser nem nos parques infantis.",
           "petPolicyPt": "Com trela; NÃO no Jardim Japonês, estufas, parques infantis",
-          "tipPt": "O Wasserlichtkonzert (concerto de água e luz) às 22:00 nas noites de verão é ruidoso e concorrido, evite-o com cães ansiosos; vá antes às 19:00 para o pôr do sol mais tranquilo."
+          "tipPt": "O Wasserlichtkonzert (concerto de água e luz) às 22:00 nas noites de verão é ruidoso e concorrido, evite-o com cães ansiosos; vá antes às 19:00 para o pôr do sol mais tranquilo.",
+          "descriptionDe": "Hamburgs zentraler Stadtpark (47 Hektar) mit botanischen Gärten, Wasserlichtkonzerten im Sommer, Spielplätzen und tropischen Gewächshäusern. Angeleinte Hunde sind in den Hauptbereichen des Parks willkommen, aber NICHT im Japanischen Garten, den Tropenhäusern oder auf den Spielplätzen.",
+          "petPolicyDe": "Leinenpflicht; NICHT im Japanischen Garten, den Gewächshäusern und auf Spielplätzen",
+          "tipDe": "Das Wasserlichtkonzert um 22:00 Uhr an Sommerabenden ist laut und überfüllt, meiden Sie es mit ängstlichen Hunden; kommen Sie stattdessen um 19:00 Uhr für den ruhigeren Sonnenuntergang."
         }
       ],
       "tipsEn": [
@@ -1029,6 +1119,22 @@
           "q": "Posso levar o meu cão ao Miniatur Wunderland ou ao Maritimes Museum?",
           "a": "Não, ambos proíbem totalmente os animais. As atrações interiores de Hamburgo vedadas a cães cobrem-se, em geral, com um cuidador local; reserve com 24 horas de antecedência através da Pawshake."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Hamburg",
+      "introDe": "Hamburgs Wahrzeichen, die HafenCity-Uferpromenade, die Außenplaza der Elbphilharmonie, das Lagerhausviertel Speicherstadt und die Hafenpromenade Landungsbrücken, sind alle an der Leine vollständig begehbar. Die meisten Innenmuseen verbieten Haustiere, aber geführte Hafentouren und Fährfahrten im Freien bieten reichhaltige Sightseeing-Möglichkeiten, ohne Ihren Hund zurücklassen zu müssen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit auf eine Hafenrundfahrt in Hamburg nehmen?",
+          "a": "Ja, die großen Anbieter (Rainer Abicht, Barkassen-Centrale, HADAG) lassen angeleinte Hunde auf den Außendecks zu. Die HVV-Fähre 62 nach Finkenwerder ist die günstige Alternative."
+        },
+        {
+          "q": "Sind Hunde in der Elbphilharmonie erlaubt?",
+          "a": "Die Konzertsäle und Innenetagen sind tabu, aber die Außenplaza (37 m über dem Wasser) ist kostenlos zugänglich und vollständig hundefreundlich."
+        },
+        {
+          "q": "Kann ich meinen Hund mit ins Miniatur Wunderland oder ins Internationale Maritime Museum nehmen?",
+          "a": "Nein, beide verbieten Haustiere vollständig. Für Hamburgs haustierfreie Indoor-Attraktionen wird üblicherweise ein lokaler Haustiersitter genutzt; buchen Sie 24 Stunden im Voraus über Pawshake."
+        }
       ]
     },
     "petsitting": {
@@ -1060,7 +1166,11 @@
           "descriptionPt": "Plataforma europeia de pet sitting com cuidadores verificados em Hamburgo para passeio de cães, creche e alojamento ao domicílio. Todas as reservas têm seguro e incluem atualizações diárias por fotografia. Tarifas típicas: 22 a 35 €/dia em alojamento ao domicílio e 12 a 18 € por um passeio de uma hora.",
           "petPolicyPt": "Cuidadores verificados, seguro incluído",
           "servicesPt": "Passeio de cães, creche, alojamento ao domicílio",
-          "tipPt": "Filtre os cuidadores de Hamburgo por experiência com raças Listenhunde se viajar com um Staffordshire, Bull Terrier ou Rottweiler; a cidade aplica regras rigorosas e os cuidadores experientes valem o custo acrescido."
+          "tipPt": "Filtre os cuidadores de Hamburgo por experiência com raças Listenhunde se viajar com um Staffordshire, Bull Terrier ou Rottweiler; a cidade aplica regras rigorosas e os cuidadores experientes valem o custo acrescido.",
+          "descriptionDe": "Europäischer Marktplatz für Haustierbetreuung mit verifizierten Sittern in Hamburg für Gassi-Service, Tagesbetreuung und Unterbringung zu Hause. Alle Buchungen sind versichert und beinhalten tägliche Fotoupdates. Typische Preise: 22–35 €/Tag für Unterbringung zu Hause und 12–18 € für einen einstündigen Spaziergang.",
+          "petPolicyDe": "Verifizierte Sitter, Versicherung inbegriffen",
+          "servicesDe": "Gassi-Service, Tagesbetreuung, Unterbringung zu Hause",
+          "tipDe": "Filtern Sie Hamburger Sitter nach Erfahrung mit Listenhunde-Rassen, wenn Sie mit einem Staffordshire, Bullterrier oder Rottweiler reisen, die Stadt hat strenge Regeln, und erfahrene Sitter sind den Aufpreis wert."
         }
       ],
       "tipsEn": [
@@ -1139,6 +1249,22 @@
         {
           "q": "É seguro deixar um cão num quarto de hotel em Hamburgo?",
           "a": "Muitos hotéis de Hamburgo aceitam cães, mas poucos deixam que fiquem sozinhos a não ser em caixa de transporte. Para os dias de museu, recorra a um cuidador local da Pawshake para visitas de dia."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Hamburg",
+      "introDe": "Hamburg hat einen ausgeprägten professionellen Markt für Tierbetreuung, angeführt von Pawshake, Rover und Holidog sowie einem soliden Netz von Hundetagesstätten in Eimsbüttel, Altona und Winterhude. Die Preise liegen leicht unter München, aber auf Höhe von Berlin. Buchen Sie frühzeitig während Kreuzfahrtschiff-Ankünften und dem Hafengeburtstag (Anfang Mai), wenn die Stadt von Besuchern überflutet wird.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Haustierbetreuung in Hamburg?",
+          "a": "Typische Preise bei Pawshake/Holidog: 22–35 €/Nacht für Unterbringung zu Hause, 25–45 €/Tag Tagesbetreuung, 12–18 € für einen einstündigen Spaziergang. Etwas höher während der Kreuzfahrt-Hochsaison im Sommer."
+        },
+        {
+          "q": "Sind Haustiersitter in Hamburg versichert?",
+          "a": "Pawshake und Holidog schließen bei jeder Buchung eine Haftpflicht- und tierärztliche Notfallversicherung ein. Bestätigen Sie dies bei unabhängigen Sittern immer vor einer Direktbuchung."
+        },
+        {
+          "q": "Ist es sicher, einen Hund in einem Hamburger Hotelzimmer allein zu lassen?",
+          "a": "Viele Hamburger Hotels akzeptieren Hunde, aber nur wenige erlauben es, sie unbeaufsichtigt zu lassen, sofern sie nicht in einer Box sind. Nutzen Sie für Museumstage einen lokalen Pawshake-Sitter für Tagesbesuche."
         }
       ]
     }

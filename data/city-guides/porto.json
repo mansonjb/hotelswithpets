@@ -37,7 +37,11 @@
           "descriptionPt": "Um restaurante português sem rodeios, ancorado na frente ribeirinha da Ribeira desde os anos 70. As mesas exteriores ficam viradas para o rio Douro, com vista direta para as caves de vinho do Porto de Vila Nova de Gaia, um dos melhores lugares da cidade. A ementa mantém-se fiel ao marisco tradicional português: gambas à alhinho, arroz de polvo, bacalhau confecionado de várias formas. Os cães são bem-vindos nas mesas exteriores, confirmado. A equipa é experiente e o peixe chega fresco do mercado nessa mesma manhã.",
           "petPolicyPt": "Cães bem-vindos nas mesas exteriores",
           "mustTryPt": "Gambas à alhinho, arroz de polvo",
-          "tipPt": "As mesas viradas para o rio enchem depressa depois das 12:30, chegue à hora de abertura se as vistas do Douro forem importantes para si"
+          "tipPt": "As mesas viradas para o rio enchem depressa depois das 12:30, chegue à hora de abertura se as vistas do Douro forem importantes para si",
+          "descriptionDe": "Ein bodenständiges portugiesisches Restaurant, das seit den 1970er-Jahren am Ribeira-Ufer verankert ist. Die Außentische blicken auf den Douro mit direktem Ausblick auf die Portweinkeller von Vila Nova de Gaia, einer der schönsten Plätze der Stadt. Die Karte bleibt bei traditionellen portugiesischen Meeresfrüchten: Gambas à alhinho, Arroz de polvo, Bacalhau in mehreren Zubereitungen. Hunde sind an den Außentischen nachweislich willkommen. Das Personal ist erfahren, und der Fisch stammt zuverlässig frisch vom Morgenmarkt.",
+          "petPolicyDe": "Hunde an den Außentischen willkommen",
+          "mustTryDe": "Gambas à alhinho (Knoblauchgarnelen), Arroz de polvo",
+          "tipDe": "Die Tische mit Flussblick sind ab 12:30 Uhr schnell besetzt, kommen Sie zur Öffnung, wenn Ihnen der Douro-Blick wichtig ist"
         },
         {
           "name": "Baobab Craft Beer Pub",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um pequeno bar de cerveja artesanal, descontraído, com seis torneiras rotativas de cerveja sobretudo portuguesa e um frigorífico recheado de latas de toda a Europa. Considerado o bar mais dog-friendly do Porto pela comunidade local de expatriados, a própria biografia de Instagram descreve-o como «SUPER pet friendly». Os cães são bem-vindos tanto no interior como nas mesas de rua. A ementa resume-se a petiscos simples: queijo marinado, sardinhas de lata, enchidos. Um bar de bairro genuíno, onde o que conta é a cerveja e a companhia.",
           "petPolicyPt": "Cães bem-vindos no interior e nas mesas de rua",
           "mustTryPt": "Cervejas portuguesas rotativas de pressão, sardinhas de lata com pão",
-          "tipPt": "O bar fica numa ruela ao lado da Rua do Almada, procure o letreiro de néon, passa despercebido com facilidade"
+          "tipPt": "O bar fica numa ruela ao lado da Rua do Almada, procure o letreiro de néon, passa despercebido com facilidade",
+          "descriptionDe": "Eine kleine, entspannte Craft-Beer-Bar mit sechs wechselnden Zapfhähnen, überwiegend portugiesisches Bier, und einem Kühlschrank voller Dosenbiere aus ganz Europa. Von der lokalen Expat-Community als hundefreundlichste Bar Portos ausgezeichnet, die eigene Instagram-Bio beschreibt sie als „SUPER pet friendly“. Hunde sind sowohl drinnen als auch an den Straßentischen willkommen. Die Karte umfasst einfache Snacks: marinierten Käse, Sardinen aus der Dose, Wurstwaren. Eine ehrliche Nachbarschaftsbar, bei der Bier und Gesellschaft im Mittelpunkt stehen.",
+          "petPolicyDe": "Hunde drinnen und an den Straßentischen willkommen",
+          "mustTryDe": "Wechselnde portugiesische Fassbiere, Sardinen aus der Dose mit Brot",
+          "tipDe": "Die Bar liegt in einer kleinen Seitenstraße abseits der Rua do Almada, achten Sie auf das Neonschild, man übersieht sie leicht"
         },
         {
           "name": "Dois Poodles",
@@ -89,7 +97,11 @@
           "descriptionPt": "Um café cuja identidade gira inteiramente à volta dos cães: o nome, a decoração, os poodles residentes. Confirmado como dog-friendly pela comunidade Porto Expats e pelos registos do TheFork. Os donos criaram um espaço onde trazer o cão é o esperado por defeito, não uma exceção que toleram. O café e as refeições leves são o foco. Particularmente bom nas manhãs mais calmas de dias úteis, quando a menor afluência é ideal para cães ansiosos.",
           "petPolicyPt": "Cães explicitamente bem-vindos, todo o conceito gira à volta deles",
           "mustTryPt": "Café de especialidade, pastelaria da casa",
-          "tipPt": "As manhãs de dias úteis são as mais sossegadas, ideais para cães que acham as multidões stressantes"
+          "tipPt": "As manhãs de dias úteis são as mais sossegadas, ideais para cães que acham as multidões stressantes",
+          "descriptionDe": "Ein Café, dessen gesamte Identität um Hunde herum aufgebaut ist, der Name, die Einrichtung, die hauseigenen Pudel. Von der Porto-Expats-Community und TheFork-Einträgen als hundefreundlich bestätigt. Die Betreiber haben einen Ort geschaffen, an dem das Mitbringen des Hundes die Regel ist, nicht die geduldete Ausnahme. Kaffee und leichte Gerichte stehen im Vordergrund. Besonders gut geeignet für ruhigere Wochentagsmorgen, wenn das kleinere Publikum ängstlichen Hunden entgegenkommt.",
+          "petPolicyDe": "Hunde ausdrücklich willkommen, das ganze Konzept dreht sich um sie",
+          "mustTryDe": "Spezialitätenkaffee, hausgemachtes Gebäck",
+          "tipDe": "Wochentagsmorgen sind am ruhigsten, ideal für Hunde, die Trubel stressig finden"
         }
       ],
       "tipsEn": [
@@ -152,6 +164,18 @@
         {
           "q": "Há restrições de raça nos restaurantes do Porto?",
           "a": "A lei portuguesa classifica certas raças como «potencialmente perigosas» (PPP), incluindo Pit Bull Terrier, Rottweiler, Dogo Argentino e Fila Brasileiro. Estes cães têm de andar sempre com açaime e trela de 1 metro na via pública, o que pode afetar o à-vontade de alguns restaurantes quanto ao acesso ao interior."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Porto",
+      "introDe": "Porto ist eine wirklich hundefreundliche Stadt, und die Restaurantkultur spiegelt das wider: Von April bis Oktober gehört Terrassendinieren entlang des Douro-Ufers zum Alltag, und die meisten Lokale in den Vierteln Ribeira und Bonfim heißen wohlerzogene Hunde ganz selbstverständlich willkommen. Der Zugang im Innenbereich ist weniger einheitlich geregelt: Fragen Sie in traditionellen Tascas an der Tür nach, dort entscheidet der Inhaber letztlich selbst. Der ehrliche Wermutstropfen ist der Winter: Portos atlantisches Klima bringt von November bis Februar echten Regen mit sich, und reine Terrassenlokale bieten nur begrenzten Schutz. Die drei unten genannten Adressen pflegen das ganze Jahr über eine wirklich hundefreundliche Haltung, bestätigt durch mehrere unabhängige Quellen.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde in Porto in Restaurants hinein?",
+          "a": "Das hängt vom jeweiligen Lokal ab. Baobab Craft Beer Pub und Dois Poodles heißen Hunde ausdrücklich auch im Innenbereich willkommen. In traditionellen Tascas und den meisten Restaurants gilt: nur auf der Terrasse, fragen Sie immer vorher nach. In den kühleren Monaten, wenn die Terrassen ruhiger sind, verbessert sich der Zugang zum Innenbereich deutlich."
+        },
+        {
+          "q": "Gibt es in Porto Rasseeinschränkungen in Restaurants?",
+          "a": "Das portugiesische Recht stuft bestimmte Rassen als „potencialmente perigosos“ (PDD, potenziell gefährlich) ein, darunter Pit Bull Terrier, Rottweiler, Dogo Argentino und Fila Brasileiro. Diese Hunde müssen in der Öffentlichkeit stets einen Maulkorb tragen und an einer 1-Meter-Leine geführt werden, was sich auf die Bereitschaft mancher Restaurants zum Zugang im Innenbereich auswirken kann."
         }
       ]
     },
@@ -385,6 +409,14 @@
           "q": "Posso levar o meu cão grande nos transportes públicos do Porto?",
           "a": "Sim, mas só nos comboios da CP. Nas linhas urbanas do Porto (grátis para cães), os cães grandes viajam com trela curta e documentação de vacinação. O metro e os autocarros da STCP só admitem cães pequenos em transportadoras. Não há exceção para cães grandes no metro ou no autocarro, independentemente de açaime ou trela."
         }
+      ],
+      "titleDe": "Mit dem Hund in Porto unterwegs",
+      "introDe": "Portos öffentlicher Nahverkehr weist für Hundehalter eine wichtige Trennlinie auf: Die CP-Stadtzüge (die die Innenstadt mit Küsten- und Vorortzielen verbinden) sind die hundefreundlichste Option, Hunde fahren kostenlos und die Regeln sind unkompliziert. Metro und STCP-Busse sind restriktiver: Nur kleine Hunde in Transportboxen sind erlaubt, und PDD-Rassen sind in allen öffentlichen Verkehrsmitteln generell verboten. Für einen Städtetrip ohne Auto decken die CP-Züge die nützlichsten Strecken ab, einschließlich Strandzugang und der Überfahrt nach Gaia.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen großen Hund in Portos öffentlichen Verkehrsmitteln mitnehmen?",
+          "a": "Ja, aber nur in CP-Zügen. Auf den Porto-Stadtlinien (kostenlos für Hunde) reisen große Hunde an kurzer Leine mit Impfdokumentation. Metro und STCP-Busse lassen nur kleine Hunde in Transportboxen zu. Für große Hunde gibt es weder in der Metro noch im Bus eine Ausnahme, auch nicht mit Maulkorb oder Leine."
+        }
       ]
     },
     "beaches": {
@@ -543,7 +575,11 @@
           "descriptionPt": "Um hospital veterinário de urgências dedicado, aberto 24/7/365, em Matosinhos. Telefone de urgência: (+351) 229 547 122 (principal) ou (+351) 964 355 346 (telemóvel). O próprio site da clínica confirma: «O serviço de emergências funciona 24 horas, 365 dias ao ano.» Há sempre um veterinário e um enfermeiro veterinário de serviço. Trata cães, gatos, coelhos e animais exóticos. Cirurgia completa, cuidados intensivos e imagiologia de diagnóstico no local.",
           "petPolicyPt": "Urgências 24/7 sem marcação; não é precisa marcação para emergências",
           "mustTryPt": "Telefone a indicar o caminho com antecedência, São Mamede de Infesta é um subúrbio nem sempre bem sinalizado a partir das vias principais",
-          "tipPt": "Guarde os dois números antes de chegar: (+351) 229 547 122 e (+351) 964 355 346"
+          "tipPt": "Guarde os dois números antes de chegar: (+351) 229 547 122 e (+351) 964 355 346",
+          "descriptionDe": "Ein dediziertes Notfall-Tierkrankenhaus in Matosinhos, rund um die Uhr, 365 Tage im Jahr geöffnet. Notfalltelefon: (+351) 229 547 122 (Haupt-nummer) oder (+351) 964 355 346 (Mobil). Die klinikeigene Webseite bestätigt: „O serviço de emergências está aberto 24 horas 365 dias ao ano.“ Ein Tierarzt und eine Tierarzthelferin sind ständig im Dienst. Behandelt Hunde, Katzen, Kaninchen und Exoten. Vollständige Chirurgie, Intensivstation und bildgebende Diagnostik vor Ort.",
+          "petPolicyDe": "24/7-Notfallaufnahme ohne Anmeldung; kein Termin für Notfälle erforderlich",
+          "mustTryDe": "Rufen Sie vorab an, um den Weg zu erfragen, São Mamede de Infesta ist ein Vorort, der von den Hauptstraßen aus nicht immer gut ausgeschildert ist",
+          "tipDe": "Speichern Sie beide Nummern vor der Anreise: (+351) 229 547 122 und (+351) 964 355 346"
         },
         {
           "name": "AniCura CHV Porto Hospital Veterinário",
@@ -569,7 +605,11 @@
           "descriptionPt": "Um grande hospital veterinário multidisciplinar no bairro de Ramalde, no Porto, parte da rede europeia AniCura. Telefone de urgência: +351 22 6 155 158. O próprio site da clínica confirma: «Estamos disponíveis 24h dia, 7 dias por semana, 365 dias por ano.» Há um serviço permanente de triagem telefónica antes da chegada, para avaliar a urgência e dar orientações. Cirurgia completa, cuidados intensivos, oncologia, neurologia e imagiologia de diagnóstico no local. Horário regular da clínica: 09:00 às 20:00 de segunda a sexta; 09:00 às 17:00 ao sábado.",
           "petPolicyPt": "Serviço de urgências 24/7; telefone à chegada para orientação de triagem",
           "mustTryPt": "Ligue para +351 22 6 155 158 antes de seguir de carro, a triagem telefónica ajuda a dar prioridade à sua chegada",
-          "tipPt": "Fica em Ramalde, a cerca de 15 minutos de táxi da Ribeira; confirme a morada com o motorista, pois a cobertura de GPS varia"
+          "tipPt": "Fica em Ramalde, a cerca de 15 minutos de táxi da Ribeira; confirme a morada com o motorista, pois a cobertura de GPS varia",
+          "descriptionDe": "Ein großes multidisziplinäres Tierkrankenhaus im Porto-Viertel Ramalde, Teil des europäischen AniCura-Netzwerks. Notfalltelefon: +351 22 6 155 158. Die klinikeigene Webseite bestätigt: „Estamos disponíveis 24h dia, 7 dias por semana, 365 dias por ano.“ Vor der Anreise steht ein ständiger telefonischer Triage-Dienst zur Verfügung, um die Dringlichkeit einzuschätzen und Anweisungen zu geben. Vollständige Chirurgie, Intensivstation, Onkologie, Neurologie und bildgebende Diagnostik vor Ort. Reguläre Öffnungszeiten: 09:00–20:00 Uhr Mo–Fr; 09:00–17:00 Uhr Sa.",
+          "petPolicyDe": "24/7-Notdienst; bei Ankunft vorab anrufen für Triage-Beratung",
+          "mustTryDe": "Rufen Sie vor der Fahrt +351 22 6 155 158 an, die telefonische Triage hilft, Ihre Ankunft zu priorisieren",
+          "tipDe": "Liegt in Ramalde, etwa 15 Minuten mit dem Taxi von Ribeira entfernt; bestätigen Sie die Adresse beim Fahrer, da die GPS-Abdeckung schwankt"
         }
       ],
       "tipsEn": [
@@ -616,6 +656,14 @@
         {
           "q": "O meu cão precisa de documentação especial para entrar em Portugal?",
           "a": "Para residentes da UE: são obrigatórios um passaporte europeu para animais válido, microchip e vacina antirrábica (com pelo menos 21 dias). Não é preciso teste de titulação dentro da UE. Para residentes do Reino Unido após o Brexit: é exigido um Certificado de Saúde Animal (AHC) em vez do passaporte, e a vacina antirrábica tem de ter pelo menos 21 dias antes da viagem. Consulte as orientações oficiais da DEFRA para os requisitos atuais específicos do Reino Unido."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Porto, Tierkliniken & Tierbetreuung",
+      "introDe": "Porto verfügt über zwei große Tierkrankenhäuser mit durchgehendem 24-Stunden-Notdienst, nicht nur eine Telefonnummer außerhalb der Öffnungszeiten. Sowohl ANIMALcare (Matosinhos) als auch AniCura CHV Porto sind voll ausgestattete multidisziplinäre Tierkliniken mit Intensivstation. Die untenstehenden Telefonnummern stammen direkt von den jeweiligen Klinik-Webseiten und wurden abgeglichen. Bestätigen Sie diese vor der Reise telefonisch, da sich die Öffnungszeiten an Feiertagen ändern können.",
+      "faqsDe": [
+        {
+          "q": "Braucht mein Hund besondere Dokumente für die Einreise nach Portugal?",
+          "a": "Für EU-Bürger: Ein gültiger EU-Heimtierausweis, Mikrochip und Tollwutimpfung (mindestens 21 Tage alt) sind erforderlich. Innerhalb der EU ist kein Titertest nötig. Für britische Staatsbürger nach dem Brexit: Statt eines Heimtierausweises ist eine Tiergesundheitsbescheinigung (Animal Health Certificate, AHC) erforderlich, und die Tollwutimpfung muss mindestens 21 Tage vor der Reise erfolgt sein. Prüfen Sie die aktuellen britischen Vorgaben in den offiziellen DEFRA-Richtlinien."
         }
       ]
     },
@@ -696,6 +744,18 @@
           "q": "O Porto é mais dog-friendly do que Lisboa?",
           "a": "O Porto e Lisboa são comparáveis quanto à recetividade a cães, mas o centro mais compacto do Porto e a maior proximidade de praias sem concessão tornam-no ligeiramente mais prático para umas férias na cidade focadas no cão. Lisboa tem um terreno mais acidentado, com restrições nos elétricos que afetam os cães maiores de forma semelhante."
         }
+      ],
+      "titleDe": "Reisetipps für Haustiere in Porto",
+      "introDe": "Porto zählt zu den praktischeren Städten Südeuropas für Reisen mit Hund, kompakt genug für Erkundungen zu Fuß, mit echter Straßencafé-Kultur, guten Grünflächen und zugänglichen Stränden. Das Kopfsteinpflaster der historischen Altstadt (Ribeira, São Nicolau, Miragaia) ist auf langen Strecken hart für die Pfoten älterer Hunde; planen Sie für Senioren- oder kleine Hunde nicht mehr als 4–5 km Kopfsteinpflaster pro Tag. Das atlantische Wetter ist der ehrliche Wermutstropfen: Frühling und Herbst sind ideal, der Sommer ist gut zu bewältigen, und November bis Februar bringt anhaltenden Atlantikregen, der das Erlebnis deutlich verändert.",
+      "faqsDe": [
+        {
+          "q": "Was ist die beste Reisezeit für Porto mit Hund?",
+          "a": "September und Oktober sind die besten Monate: Die Sommermenschenmassen sind verschwunden, die Atlantikstrände sind leer mit uneingeschränktem Hundezugang, die Temperaturen liegen bei 18–22 °C, und die Regenzeit hat noch nicht richtig eingesetzt. April und Mai sind ebenfalls hervorragend, die Terrassensaison hat begonnen und die Stadt ist am grünsten."
+        },
+        {
+          "q": "Ist Porto hundefreundlicher als Lissabon?",
+          "a": "Porto und Lissabon sind in Sachen Hundefreundlichkeit vergleichbar, aber Portos kompaktere Innenstadt und die größere Nähe zu nicht konzessionierten Stränden machen die Stadt für einen hundeorientierten Städtetrip etwas praktischer. Lissabon hat ein hügeligeres Gelände mit Straßenbahn-Einschränkungen, die sich ähnlich auf größere Hunde auswirken."
+        }
       ]
     },
     "attractions": {
@@ -730,7 +790,11 @@
           "descriptionPt": "Os terrenos da Fundação Serralves cobrem 18 hectares de jardins meticulosamente cuidados, bosque e paisagismo formal. Os cães são admitidos no parque com trela. O parque inclui uma quinta, uma roseira e uma alameda ladeada de árvores. A entrada no parque tem bilhete separado do museu. Uma alternativa calma e fora do circuito turístico à movimentada zona da Ribeira, e um dos lugares mais bonitos do Porto para passar uma manhã com um cão.",
           "petPolicyPt": "Cães bem-vindos no parque com trela; não admitidos no interior do museu",
           "mustTryPt": "A roseira em maio e o trilho do bosque no outono",
-          "tipPt": "Chegue cedo nos dias úteis, o parque fica sossegado antes das 11:00 e o bosque completamente vazio"
+          "tipPt": "Chegue cedo nos dias úteis, o parque fica sossegado antes das 11:00 e o bosque completamente vazio",
+          "descriptionDe": "Das Gelände der Serralves-Stiftung umfasst 18 Hektar sorgfältig gepflegter Gärten, Wald und Zierlandschaft. Hunde sind auf dem Parkgelände an der Leine erlaubt. Der Park umfasst einen Bauernhofbereich, einen Rosengarten und eine baumgesäumte Promenade. Der Parkeintritt ist ein separates Ticket vom Museum. Eine ruhige Alternative abseits der touristischen Pfade zum belebten Ribeira-Viertel und einer der schönsten Orte in Porto, um einen Vormittag mit Hund zu verbringen.",
+          "petPolicyDe": "Hunde auf dem Parkgelände an der Leine willkommen; im Museumsgebäude nicht erlaubt",
+          "mustTryDe": "Der Rosengarten im Mai und der Waldweg im Herbst",
+          "tipDe": "Kommen Sie wochentags früh, der Park ist vor 11:00 Uhr ruhig und der Wald völlig menschenleer"
         },
         {
           "name": "Ribeira Waterfront & Dom Luís I Bridge",
@@ -804,6 +868,14 @@
           "q": "Há museus dog-friendly no Porto?",
           "a": "Nenhum museu do Porto admite atualmente cães no interior. A solução prática é o Parque de Serralves, onde os cães são admitidos nos 18 hectares do parque enquanto um acompanhante visita o Museu de Serralves. O centro histórico da Ribeira (zonas exteriores) é totalmente acessível a cães e classificado pela UNESCO."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Porto",
+      "introDe": "Portos Außensehenswürdigkeiten sind deutlich zugänglicher für Hunde als die Innenräume. Die meisten Museen und historischen Innenraum-Stätten lassen keine Hunde zu. Der praktische Ansatz ist, sich auf die Freiluft-Highlights der Stadt zu konzentrieren: das Ribeira-Ufer, das Douro-Ufer auf beiden Seiten sowie Parks und Gärten, die Hunde an der Leine zulassen. Der Parque de Serralves, der eines der besten Museen für zeitgenössische Kunst Portugals umgibt, ist ein echtes Highlight, Hunde sind auf dem 18 Hektar großen Parkgelände erlaubt, auch wenn nicht im Museumsgebäude.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Porto hundefreundliche Museen?",
+          "a": "Derzeit lässt kein Museum in Porto Hunde ins Innere. Der praktische Ausweg ist der Parque de Serralves, wo Hunde auf dem 18 Hektar großen Parkgelände erlaubt sind, während eine Begleitperson das Serralves-Museum besucht. Das historische Viertel Ribeira (Außenbereiche) ist vollständig hundegerecht und UNESCO-gelistet."
+        }
       ]
     },
     "petsitting": {
@@ -837,7 +909,11 @@
           "descriptionPt": "O Rover liga donos de cães a cuidadores locais no Porto que passaram por verificação de antecedentes. Os serviços incluem alojamento (pernoita em casa do cuidador), passeios, visitas pontuais e creche de dia. Pesquise pelo código postal do seu alojamento para encontrar cuidadores verificados a uma curta distância a pé. Reserve com pelo menos 48 a 72 horas de antecedência no pico das viagens de verão.",
           "petPolicyPt": "Vacinação atualizada obrigatória; os cuidadores definem a sua própria aceitação de porte/raça",
           "mustTryPt": "Opção de creche de dia para dias inteiros de museus; visitas pontuais para ausências mais curtas",
-          "tipPt": "Combine um encontro de apresentação de 30 minutos antes da primeira reserva, a maioria dos cuidadores do Porto faz isto de bom grado"
+          "tipPt": "Combine um encontro de apresentação de 30 minutos antes da primeira reserva, a maioria dos cuidadores do Porto faz isto de bom grado",
+          "descriptionDe": "Rover verbindet Hundehalter mit lokalen Betreuern in Porto, die eine Hintergrundprüfung durchlaufen haben. Zu den Leistungen gehören Hundebetreuung (Übernachtung beim Betreuer zu Hause), Gassi-Service, Kurzbesuche und Tagesbetreuung. Suchen Sie nach der Postleitzahl Ihrer Unterkunft, um verifizierte Betreuer in Gehweite zu finden. Buchen Sie während der Hochsaison im Sommer mindestens 48–72 Stunden im Voraus.",
+          "petPolicyDe": "Aktueller Impfstatus erforderlich; Betreuer legen ihre eigenen Größen-/Rassenakzeptanzkriterien fest",
+          "mustTryDe": "Tagesbetreuungsoption für ganze Museumstage; Kurzbesuche für kürzere Abwesenheiten",
+          "tipDe": "Vereinbaren Sie vor der ersten Buchung ein 30-minütiges Kennenlerntreffen, die meisten Betreuer in Porto machen das gerne"
         },
         {
           "name": "Pawshake Porto",
@@ -862,7 +938,11 @@
           "descriptionPt": "A Pawshake aplica um processo de verificação de confiança e segurança a todos os cuidadores e encontra-se bem implantada no mercado português. A plataforma inclui aconselhamento veterinário durante as reservas e cobertura de seguro. Os cuidadores do Porto concentram-se no Bonfim, em Cedofeita e em Paranhos, cobrindo as principais zonas turísticas. Os preços estão claramente indicados por serviço, sem custos ocultos.",
           "petPolicyPt": "Linha de aconselhamento veterinário incluída; cobertura de seguro durante as reservas",
           "mustTryPt": "Alojamento estilo hotel de vários dias para viagens mais longas",
-          "tipPt": "Os cuidadores da Pawshake indicam os seus próprios animais nos perfis, verifique a compatibilidade antes de reservar se o seu cão for reativo"
+          "tipPt": "Os cuidadores da Pawshake indicam os seus próprios animais nos perfis, verifique a compatibilidade antes de reservar se o seu cão for reativo",
+          "descriptionDe": "Pawshake wendet für alle Betreuer ein Vertrauens- und Sicherheitsprüfverfahren an und ist auf dem portugiesischen Markt gut etabliert. Die Plattform umfasst tierärztliche Beratung während der Buchungen und Versicherungsschutz. Die Betreuer in Porto konzentrieren sich auf Bonfim, Cedofeita und Paranhos und decken damit die wichtigsten Touristengebiete ab. Die Preise sind pro Leistung klar aufgeführt, ohne versteckte Gebühren.",
+          "petPolicyDe": "Tierärztliche Beratungshotline inklusive; Versicherungsschutz während der Buchungen",
+          "mustTryDe": "Mehrtägige Betreuung im Pensionsstil für längere Reisen",
+          "tipDe": "Pawshake-Betreuer listen ihre eigenen Haustiere in ihren Profilen auf, prüfen Sie die Verträglichkeit vor der Buchung, wenn Ihr Hund reaktiv ist"
         }
       ],
       "tipsEn": [
@@ -909,6 +989,14 @@
         {
           "q": "Posso encontrar um cuidador de animais que fale inglês no Porto?",
           "a": "Sim, a maioria dos cuidadores do Rover e da Pawshake no Porto indica o nível de inglês no perfil. O Porto tem uma grande comunidade internacional e o inglês é muito falado entre os prestadores de serviços locais. Use o filtro de idioma do Rover para encontrar cuidadores que falem inglês confirmados na sua zona."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundebetreuung in Porto",
+      "introDe": "Porto verfügt über ein gesundes Netzwerk geprüfter Haustierbetreuer, die über die großen internationalen Plattformen buchbar sind. TrustedHouseSitters hat über 100 verifizierte Betreuer in der Nähe von Porto; Rover und Pawshake verfügen beide über aktive lokale Betreuer-Pools. Für ganztägige Museumsbesuche oder Abendveranstaltungen, bei denen Hunde nicht dabei sein können, ist eine vorab gebuchte Tagesbetreuung die zuverlässigste Option. Portugiesische Haustierbetreuer auf diesen Plattformen sprechen in der Regel Englisch und sind mit internationalen Hundedokumentationsanforderungen vertraut.",
+      "faqsDe": [
+        {
+          "q": "Finde ich in Porto einen englischsprachigen Haustierbetreuer?",
+          "a": "Ja, die meisten Haustierbetreuer auf Rover und Pawshake in Porto geben Englischkenntnisse in ihrem Profil an. Porto hat eine große internationale Community, und Englisch wird bei lokalen Dienstleistern weithin gesprochen. Nutzen Sie den Sprachfilter auf Rover, um bestätigte englischsprachige Betreuer in Ihrer Umgebung zu finden."
         }
       ]
     }

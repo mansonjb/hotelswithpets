@@ -39,7 +39,11 @@
           "tipFr": "Demandez les tables de la terrasse côté mer à droite en arrivant, ce sont les plus ombragées l'après-midi et les plus proches de la plage.",
           "tipEs": "Pide las mesas de la terraza orientadas al mar a la derecha al llegar, son las más sombreadas por la tarde y las más cercanas a la playa.",
           "tipPt": "Peça as mesas da esplanada virada para o mar à direita ao chegar, são as mais sombreadas à tarde e as mais próximas da praia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+A+Ruina+Albufeira"
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+A+Ruina+Albufeira",
+          "descriptionDe": "Eine mehrstöckige Fischinstitution am Fischerstrand mit einer steinernen Erdgeschossterrasse zum Atlantik. Angeleinte Hunde sind ganzjährig auf der Freiluftterrasse willkommen, die Küche serviert frischen Fang auf Bestellung gegrillt.",
+          "petPolicyDe": "Hunde ganzjährig auf der Außenterrasse willkommen",
+          "mustTryDe": "Cataplana de marisco, gegrillter Wolfsbarsch, Arroz de polvo",
+          "tipDe": "Bei der Ankunft nach den Terrassentischen mit Meerblick auf der rechten Seite fragen, sie sind nachmittags am schattigsten und liegen am nächsten zum Strand."
         },
         {
           "name": "Três Palmeiras",
@@ -65,7 +69,11 @@
           "tipFr": "Réservez à l'avance en juillet-août, le patio se remplit d'habitués dès 19h30 et la cuisine est en rupture de cataplana la plupart des soirs vers 21h.",
           "tipEs": "Reserva con antelación en julio-agosto, el patio se llena de habituales hacia las 19:30 y la cocina suele quedarse sin cataplana hacia las 21:00.",
           "tipPt": "Reserve com antecedência em julho-agosto, o pátio enche de habituais por volta das 19h30 e a cozinha esgota a cataplana na maioria das noites pelas 21h.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tres+Palmeiras+Albufeira"
+          "googleMapsUrl": "https://maps.google.com/?q=Tres+Palmeiras+Albufeira",
+          "descriptionDe": "Ein familiengeführtes Algarve-Restaurant an der Küstenstraße zwischen Praia da Oura und Areias de São João, mit einer begrünten Vorterrasse, beschattet von den drei namensgebenden Palmen. Angeleinte Hunde sind an allen Außentischen willkommen, die Küche ist auf Cataplana und frischen Fisch spezialisiert.",
+          "petPolicyDe": "Angeleinte Hunde auf der Außenterrasse willkommen",
+          "mustTryDe": "Cataplana de tamboril, Açorda de marisco, Pastéis de nata",
+          "tipDe": "Im Juli und August im Voraus buchen, die Terrasse füllt sich bis 19:30 Uhr mit Stammgästen, und die Küche geht an den meisten Abenden gegen 21:00 Uhr die Cataplana aus."
         },
         {
           "name": "Vila Joya Beach Club",
@@ -91,7 +99,11 @@
           "tipFr": "Les réservations coucher de soleil 19h30-20h sont le meilleur rapport qualité-prix, vous obtenez l'ambiance beach-club complète sans le supplément DJ tardif.",
           "tipEs": "Las reservas de puesta de sol 19:30-20:00 son la mejor relación calidad-precio, consigues todo el ambiente beach-club sin el suplemento del DJ nocturno.",
           "tipPt": "As reservas de pôr-do-sol 19h30-20h são a melhor relação qualidade-preço, ganha o ambiente completo do beach-club sem o suplemento de DJ noturno.",
-          "googleMapsUrl": "https://maps.google.com/?q=Vila+Joya+Beach+Club+Albufeira"
+          "googleMapsUrl": "https://maps.google.com/?q=Vila+Joya+Beach+Club+Albufeira",
+          "descriptionDe": "Der lässige Beachclub-Ableger des mit zwei Michelin-Sternen ausgezeichneten Hotels Vila Joya, an der Praia da Galé, kurz westlich von Albufeira. Hunde sind ganzjährig auf der strandseitigen Terrasse willkommen, die Karte mischt mediterrane und Algarve-Gerichte mit Sonnenuntergang über dem Meer.",
+          "petPolicyDe": "Hunde ganzjährig auf der Terrasse willkommen",
+          "mustTryDe": "Thunfisch-Tataki, gegrillter Oktopus, Mandeldessert aus der Algarve",
+          "tipDe": "Reservierungen zum Sonnenuntergang zwischen 19:30 und 20:00 Uhr bieten das beste Preis-Leistungs-Verhältnis, man bekommt die volle Beachclub-Stimmung ohne den Preisaufschlag für den DJ am späten Abend."
         }
       ],
       "tipsEn": [
@@ -152,6 +164,18 @@
         {
           "q": "A Strip de Albufeira é pet-friendly?",
           "a": "Os bares da Strip (Avenida Sá Carneiro) aceitam cães tecnicamente, mas o nível de ruído depois das 22h de junho a setembro é demasiado intenso para a maioria dos cães. Fique pela Cidade Velha ou pela marina para jantar."
+        }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Albufeira",
+      "introDe": "Die Esplanada-Kultur der Algarve ist standardmäßig offen für angeleinte Hunde, Wassernäpfe erscheinen ungefragt auf den meisten Terrassen, und die gepflasterte Cidade Velha (Altstadt) sowie die Promenaden am Yachthafen konzentrieren die besten unabhängigen Küchen, die Hunde selbst zur Hauptsaison willkommen heißen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Albufeira im Innenbereich erlaubt?",
+          "a": "Außenterrassen sagen fast immer ja, Innenräume hängen vom Lokal und der Tageszeit ab. Die Adressen in der Cidade Velha und am Cais Herculano (Fischerstrand) sind ganzjährig am verlässlichsten hundefreundlich."
+        },
+        {
+          "q": "Ist der Albufeira Strip hundefreundlich?",
+          "a": "Die Bars am Strip (Avenida Sá Carneiro) akzeptieren Hunde technisch gesehen, aber der Lärmpegel nach 22:00 Uhr von Juni bis September ist für die meisten Hunde zu intensiv. Für Abendessen die Cidade Velha oder den Yachthafen bevorzugen."
         }
       ]
     },
@@ -337,7 +361,10 @@
           "tipFr": "Évitez la tranche 9h-10h des navetteurs et 18h-19h du retour de plage avec un grand chien, les chauffeurs sont plus stricts sur la muselière quand les bus sont bondés.",
           "tipEs": "Evita la franja 09:00-10:00 de los desplazamientos al trabajo y 18:00-19:00 de regreso de la playa con un perro grande, los conductores son más estrictos con el bozal cuando los autobuses van llenos.",
           "tipPt": "Evite a faixa das 9h-10h dos pendulares e das 18h-19h do regresso da praia com um cão grande, os motoristas são mais rígidos com o açaime quando os autocarros vão cheios.",
-          "googleMapsUrl": "https://maps.google.com/?q=Terminal+Rodoviario+Albufeira"
+          "googleMapsUrl": "https://maps.google.com/?q=Terminal+Rodoviario+Albufeira",
+          "descriptionDe": "Das städtische Netz Próximo betreibt 9 Linien, die Cidade Velha, Areias de São João, Olhos de Água, Guia und den Bahnhof verbinden. Kleine Hunde in Transporttaschen fahren kostenlos, große angeleinte Hunde mit Maulkorb sind außerhalb der Stoßzeiten nach Ermessen des Fahrers erlaubt.",
+          "petPolicyDe": "Hunde in Transporttaschen kostenlos; große Hunde mit Leine+Maulkorb nach Ermessen des Fahrers",
+          "tipDe": "Mit einem großen Hund die Zeitfenster 09:00-10:00 Uhr (Berufsverkehr) und 18:00-19:00 Uhr (Rückkehr vom Strand) meiden, Fahrer achten strenger auf die Maulkorbpflicht, wenn die Busse voll sind."
         },
         {
           "name": "CP train (Faro-Albufeira-Lagos line)",
@@ -358,7 +385,10 @@
           "tipFr": "La gare Albufeira-Ferreiras est à 6 km dans les terres de la Cidade Velha, avec un bus Próximo de correspondance qui n'accepte PAS toujours les grands chiens ; prévoyez 10 € de taxi si vous arrivez avec un gros chien.",
           "tipEs": "La estación de Albufeira-Ferreiras está a 6 km tierra adentro de la Cidade Velha, con un autobús Próximo de conexión que NO siempre admite perros grandes; presupuesta 10 € de taxi si llegas con un perro grande.",
           "tipPt": "A estação de Albufeira-Ferreiras fica a 6 km no interior da Cidade Velha, com um autocarro Próximo de ligação que NEM SEMPRE aceita cães grandes; conte com 10 € de táxi se chegar com um cão grande.",
-          "googleMapsUrl": "https://maps.google.com/?q=Estacao+de+Albufeira+Ferreiras"
+          "googleMapsUrl": "https://maps.google.com/?q=Estacao+de+Albufeira+Ferreiras",
+          "descriptionDe": "Die regionale CP-Algarve-Strecke verkehrt etwa stündlich Faro-Albufeira-Lagos. Kleine Hunde in Transporttaschen unter 10 kg fahren kostenlos; große angeleinte Hunde mit Maulkorb zahlen ein pauschales Tierticket von 5 € pro Fahrt, erhältlich am Schalter und im Zug.",
+          "petPolicyDe": "Transporttasche <10 kg kostenlos; große Hunde mit Leine+Maulkorb 5 € Pauschalticket",
+          "tipDe": "Der Bahnhof Albufeira-Ferreiras liegt 6 km landeinwärts von der Cidade Velha, mit einem Anschlussbus von Próximo, der große Hunde NICHT immer zulässt; bei Ankunft mit großem Hund ein Budget von 10 € für ein Taxi einplanen."
         },
         {
           "name": "Faro Airport (FAO) ground transfer",
@@ -379,7 +409,10 @@
           "tipFr": "Pré-réservez un transfert privé pet-friendly (ex. Yellowfish, AlgarveBus) pour les arrivées après 22h, les taxis de la station à FAO refusent souvent les grands chiens sans préavis.",
           "tipEs": "Reserva con antelación un traslado privado pet-friendly (ej. Yellowfish, AlgarveBus) para llegadas después de las 22:00, los taxis de la parada en FAO suelen rechazar perros grandes sin aviso previo.",
           "tipPt": "Reserve antecipadamente um transfer privado pet-friendly (ex. Yellowfish, AlgarveBus) para chegadas depois das 22h, os táxis na praça do FAO recusam frequentemente cães grandes sem aviso.",
-          "googleMapsUrl": "https://maps.google.com/?q=Faro+Airport+FAO"
+          "googleMapsUrl": "https://maps.google.com/?q=Faro+Airport+FAO",
+          "descriptionDe": "FAO liegt 40 km östlich an der Autobahn A22, etwa 35 Minuten mit dem Auto. Der Aerobus von EVA Transportes fährt stündlich zum Terminal Albufeira (nur Hunde in Transporttaschen), private haustierfreundliche Transferunternehmen decken alle Hundegrößen ab für 50-70 € einfache Fahrt.",
+          "petPolicyDe": "Aerobus: nur Transporttasche. Privater Transfer: alle Größen",
+          "tipDe": "Für Ankünfte nach 22:00 Uhr einen privaten haustierfreundlichen Transfer im Voraus buchen (z. B. Yellowfish, AlgarveBus), Taxis am Standplatz bei FAO lehnen große Hunde häufig ohne Vorwarnung ab."
         }
       ],
       "tipsEn": [
@@ -440,6 +473,18 @@
         {
           "q": "Qual é a forma mais fácil de ir do Aeroporto de Faro para Albufeira com um cão?",
           "a": "Reserve antecipadamente um transfer privado pet-friendly (50-70 € sentido único), o Aerobus só aceita cães em transportadora e os táxis do aeroporto recusam regularmente cães grandes."
+        }
+      ],
+      "titleDe": "Haustierfreundlicher Transport in Albufeira",
+      "introDe": "Albufeira liegt 40 km vom Flughafen Faro entfernt und wird von CP-Zügen (Strecke Lissabon-Faro mit einem Bahnhof 6 km landeinwärts vom Zentrum), dem städtischen Busnetz Próximo Albufeira und den regionalen Küstenbussen von EVA Transportes bedient, alle mit Tierrichtlinien, die im südeuropäischen Vergleich großzügig ausfallen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund im Próximo-Bus in Albufeira mitnehmen?",
+          "a": "Ja, kleine Hunde in Transporttaschen fahren kostenlos; große Hunde benötigen Leine und Maulkorb, und der Fahrer kann bei vollem Bus die Mitnahme ablehnen. Berufsverkehr und Rückkehrzeiten vom Strand meiden."
+        },
+        {
+          "q": "Was ist der einfachste Weg vom Flughafen Faro nach Albufeira mit Hund?",
+          "a": "Einen privaten haustierfreundlichen Transfer vorab buchen (50-70 € einfache Fahrt), der Aerobus akzeptiert nur Hunde in Transporttaschen, und Flughafentaxis lehnen große Hunde regelmäßig ab."
         }
       ]
     },
@@ -627,7 +672,9 @@
           "tipFr": "Appelez avant de partir d'Albufeira (20-25 min sur l'A22), ils trient au téléphone et peuvent préparer la salle d'opération si vous décrivez les symptômes avec précision.",
           "tipEs": "Llama antes de salir de Albufeira (20-25 min por la A22), hacen triaje por teléfono y pueden preparar el quirófano si describes los síntomas con precisión.",
           "tipPt": "Ligue antes de sair de Albufeira (20-25 min pela A22), fazem triagem por telefone e podem preparar a sala de cirurgia se descrever os sintomas com precisão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+do+Algarve+Loule"
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+do+Algarve+Loule",
+          "descriptionDe": "Das 24/7-Notfall-Tierkrankenhaus für die zentrale Algarve, vollständige chirurgische und diagnostische Kapazität, englischsprachiges Personal. Die Gemeinde Albufeira leitet Notrufe außerhalb der Öffnungszeiten an dieses Krankenhaus weiter.",
+          "tipDe": "Vor der Fahrt von Albufeira aus anrufen (20-25 Min. auf der A22), man triagiert telefonisch und kann den OP-Saal vorbereiten, wenn die Symptome genau beschrieben werden."
         },
         {
           "name": "Clínica Veterinária de Albufeira",
@@ -650,7 +697,9 @@
           "tipFr": "Meilleure clinique pour les démarches Animal Health Certificate avant de rentrer au Royaume-Uni ou en Irlande, réservez 72h à l'avance, certificat 80-120 €.",
           "tipEs": "Mejor clínica para los trámites Animal Health Certificate antes de volver al Reino Unido o Irlanda, reserva con 72h de antelación, certificado 80-120 €.",
           "tipPt": "Melhor clínica para os trâmites de Animal Health Certificate antes de voltar ao Reino Unido ou Irlanda, reserve com 72h de antecedência, certificado 80-120 €.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+de+Albufeira"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+de+Albufeira",
+          "descriptionDe": "Seit langem bestehende Tagesklinik im Zentrum von Albufeira, Allgemeinpraxis, Impfungen, Mikrochip-Lesegeräte für EU-Heimtierausweiskontrollen. Englisch und Deutsch werden gesprochen, Spontanbesuche vor 12:00 Uhr willkommen.",
+          "tipDe": "Beste Klinik für die Papiere des Gesundheitszeugnisses vor dem Rückflug nach Großbritannien oder Irland, 72 Stunden vorher buchen, Zeugnis 80-120 €."
         },
         {
           "name": "VetSet Albufeira",
@@ -672,7 +721,9 @@
           "tipFr": "Sans rendez-vous bienvenus jusqu'à 18h en semaine, utile pour le retrait de tiques (saison de la tique paralysante mars-octobre) et les traitements antiparasitaires d'urgence sans appointment.",
           "tipEs": "Walk-in bienvenidos hasta las 18:00 entre semana, útil para retirar garrapatas (temporada de la garrapata paralizante marzo-octubre) y tratamientos antiparasitarios urgentes sin cita previa.",
           "tipPt": "Walk-in bem-vindos até às 18h em dias úteis, útil para remoção de carraças (época da carraça paralisante março-outubro) e tratamentos antiparasitários urgentes sem marcação.",
-          "googleMapsUrl": "https://maps.google.com/?q=VetSet+Albufeira"
+          "googleMapsUrl": "https://maps.google.com/?q=VetSet+Albufeira",
+          "descriptionDe": "Moderne Klinik am Resortstreifen nahe der Praia da Oura, vollständiges Labor und Röntgen, Fokus auf Touristen mit englischsprachigen Tierärzten. Die hauseigene Tierapotheke führt die üblichen Bandwurmbehandlungen für die Rückreise nach Großbritannien/Irland.",
+          "tipDe": "An Wochentagen bis 18:00 Uhr für Spontanbesuche geeignet, nützlich für Zeckenentfernung (Saison der Paralysezecke März bis Oktober) und Notfall-Parasitenbehandlungen ohne Termin."
         }
       ],
       "tipsEn": [
@@ -734,6 +785,18 @@
           "q": "Um veterinário em Albufeira pode emitir o meu Animal Health Certificate para regresso ao Reino Unido?",
           "a": "Sim, a Clínica Veterinária de Albufeira e a VetSet Albufeira podem emitir o GB Animal Health Certificate nos 10 dias prévios ao regresso, reserve com 72h de antecedência, conte com 80-120 €."
         }
+      ],
+      "titleDe": "24-Stunden-Notfall-Tierärzte in Albufeira, Tierkliniken & Tierpflege",
+      "introDe": "Albufeira selbst verfügt über mehrere Tagesklinken, das nächstgelegene 24-Stunden-Notfall-Tierkrankenhaus liegt in Loulé, 20 km östlich, das die zentrale Algarve außerhalb der Öffnungszeiten versorgt. Die Nummer von Loulé vor der Anreise speichern, im Sommer steigen die Wartezeiten zusammen mit den Hitzschlagfällen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Notfalltierarzt in Albufeira?",
+          "a": "Nicht innerhalb von Albufeira selbst. Das nächstgelegene 24/7-Notfall-Tierkrankenhaus ist das Hospital Veterinário do Algarve in Loulé, 20-25 Minuten östlich an der Autobahn A22, Telefon +351 289 410 020."
+        },
+        {
+          "q": "Kann ein Tierarzt in Albufeira mein Gesundheitszeugnis für die Rückkehr ins Vereinigte Königreich ausstellen?",
+          "a": "Ja, die Clínica Veterinária de Albufeira und VetSet Albufeira können das GB Animal Health Certificate innerhalb von 10 Tagen vor der Rückreise ausstellen, 72 Stunden vorher buchen, mit 80-120 € rechnen."
+        }
       ]
     },
     "tips": {
@@ -752,7 +815,8 @@
           "description": "April-May and October-early November are ideal, average highs 19-24 °C, all beaches reopen to leashed dogs in October, low season prices and no crowds. Avoid mid-June to mid-September: 32-38 °C heat, sand 50 °C+, all central beaches closed to dogs, Strip noise relentless.",
           "descriptionFr": "Avril-mai et octobre-début novembre sont idéaux, maxima moyens 19-24 °C, toutes les plages rouvrent aux chiens en laisse en octobre, prix basse saison et sans foule. Évitez mi-juin à mi-septembre : chaleur 32-38 °C, sable 50 °C+, toutes les plages centrales fermées aux chiens, bruit de la Strip incessant.",
           "descriptionEs": "Abril-mayo y octubre-principios de noviembre son ideales, máximas medias 19-24 °C, todas las playas reabren a perros con correa en octubre, precios de temporada baja y sin gentío. Evita mediados de junio a mediados de septiembre: calor 32-38 °C, arena 50 °C+, todas las playas centrales cerradas a perros, ruido del Strip incesante.",
-          "descriptionPt": "Abril-maio e outubro-início de novembro são ideais, máximas médias 19-24 °C, todas as praias reabrem aos cães com trela em outubro, preços de época baixa e sem multidões. Evite meados de junho a meados de setembro: calor 32-38 °C, areia 50 °C+, todas as praias centrais interditas a cães, ruído da Strip incessante."
+          "descriptionPt": "Abril-maio e outubro-início de novembro são ideais, máximas médias 19-24 °C, todas as praias reabrem aos cães com trela em outubro, preços de época baixa e sem multidões. Evite meados de junho a meados de setembro: calor 32-38 °C, areia 50 °C+, todas as praias centrais interditas a cães, ruído da Strip incessante.",
+          "descriptionDe": "April-Mai und Oktober-Anfang November sind ideal, durchschnittliche Höchstwerte von 19-24 °C, alle Strände öffnen im Oktober wieder für angeleinte Hunde, Nebensaisonpreise und keine Menschenmassen. Mitte Juni bis Mitte September meiden: 32-38 °C Hitze, Sand über 50 °C, alle zentralen Strände für Hunde gesperrt, unaufhörlicher Lärm vom Strip."
         },
         {
           "name": "Choose your neighbourhood carefully",
@@ -760,14 +824,16 @@
           "description": "For a dog-friendly stay choose Cidade Velha (medieval, walkable, calm at night), Olhos de Água (small fishing village, near Pine Cliffs trail), or Praia da Galé (resort hotels with garden). Avoid Areias de São João near the Strip, party noise from 22:00 to 04:00 most summer nights stresses dogs.",
           "descriptionFr": "Pour un séjour dog-friendly choisissez la Cidade Velha (médiévale, à pied, calme la nuit), Olhos de Água (petit village de pêcheurs, près des Pine Cliffs), ou la Praia da Galé (hôtels de villégiature avec jardin). Évitez Areias de São João près de la Strip, bruit de fête de 22h à 4h la plupart des nuits d'été, stressant pour les chiens.",
           "descriptionEs": "Para una estancia dog-friendly elige Cidade Velha (medieval, caminable, tranquila por la noche), Olhos de Água (pequeña aldea de pescadores, cerca del sendero Pine Cliffs), o Praia da Galé (hoteles de complejo con jardín). Evita Areias de São João cerca del Strip, ruido de fiesta de 22:00 a 04:00 casi todas las noches de verano, estresante para los perros.",
-          "descriptionPt": "Para uma estadia pet-friendly escolha a Cidade Velha (medieval, andável, calma à noite), Olhos de Água (pequena aldeia piscatória, junto ao trilho Pine Cliffs), ou a Praia da Galé (resorts com jardim). Evite Areias de São João junto à Strip, ruído de festa das 22h às 4h na maioria das noites de verão, stressante para os cães."
+          "descriptionPt": "Para uma estadia pet-friendly escolha a Cidade Velha (medieval, andável, calma à noite), Olhos de Água (pequena aldeia piscatória, junto ao trilho Pine Cliffs), ou a Praia da Galé (resorts com jardim). Evite Areias de São João junto à Strip, ruído de festa das 22h às 4h na maioria das noites de verão, stressante para os cães.",
+          "descriptionDe": "Für einen hundefreundlichen Aufenthalt Cidade Velha wählen (mittelalterlich, begehbar, abends ruhig), Olhos de Água (kleines Fischerdorf, nahe dem Pine-Cliffs-Wanderweg) oder Praia da Galé (Resorthotels mit Garten). Areias de São João nahe dem Strip meiden, der Partylärm von 22:00 bis 04:00 Uhr an den meisten Sommernächten stresst Hunde."
         },
         {
           "name": "Post-Brexit UK travel paperwork",
           "description": "UK travellers to Albufeira (via Faro Airport) need a GB Animal Health Certificate (AHC) issued by an EU OV within 10 days of travel. Microchip + valid rabies vaccination at least 21 days before travel are mandatory. Tapeworm treatment only required on return travel if your home vet advises it for the destination route.",
           "descriptionFr": "Les voyageurs britanniques pour Albufeira (via l'aéroport de Faro) ont besoin d'un GB Animal Health Certificate (AHC) délivré par un vétérinaire OV de l'UE dans les 10 jours précédant le voyage. Puce électronique + vaccin antirabique valide depuis au moins 21 jours obligatoires. Traitement antiparasitaire uniquement requis au retour si votre vétérinaire le recommande pour la route.",
           "descriptionEs": "Los viajeros británicos a Albufeira (vía aeropuerto de Faro) necesitan un GB Animal Health Certificate (AHC) emitido por un veterinario OV de la UE en los 10 días previos al viaje. Microchip + vacuna antirrábica vigente desde al menos 21 días son obligatorios. Tratamiento antiparasitario solo se exige a la vuelta si tu veterinario lo recomienda para la ruta.",
-          "descriptionPt": "Os viajantes britânicos a Albufeira (via Aeroporto de Faro) precisam de um GB Animal Health Certificate (AHC) emitido por um veterinário OV da UE nos 10 dias prévios à viagem. Microchip + vacina antirrábica válida há pelo menos 21 dias são obrigatórios. Tratamento antiparasitário só se exige no regresso se o seu veterinário em casa o recomendar para a rota."
+          "descriptionPt": "Os viajantes britânicos a Albufeira (via Aeroporto de Faro) precisam de um GB Animal Health Certificate (AHC) emitido por um veterinário OV da UE nos 10 dias prévios à viagem. Microchip + vacina antirrábica válida há pelo menos 21 dias são obrigatórios. Tratamento antiparasitário só se exige no regresso se o seu veterinário em casa o recomendar para a rota.",
+          "descriptionDe": "Britische Reisende nach Albufeira (über den Flughafen Faro) benötigen ein von einem EU-Amtstierarzt ausgestelltes GB Animal Health Certificate (AHC) innerhalb von 10 Tagen vor der Reise. Mikrochip und gültige Tollwutimpfung mindestens 21 Tage vor der Reise sind vorgeschrieben. Eine Bandwurmbehandlung ist bei der Rückreise nur erforderlich, wenn der Haustierarzt zu Hause dies für die Zielstrecke empfiehlt."
         }
       ],
       "tipsEn": [
@@ -829,6 +895,18 @@
           "q": "Qual é o melhor mês para visitar Albufeira com um cão?",
           "a": "Outubro é o ponto ideal, máximas médias 23 °C, todas as praias acabaram de reabrir aos cães com trela após a interdição sazonal, tarifas de hotel de regresso ao nível pré-verão, e ainda tem 8 horas de sol."
         }
+      ],
+      "titleDe": "Mit Hund nach Albufeira reisen: Praktische Tipps",
+      "introDe": "Albufeira ist der größte Strandort der Algarve (etwa 5 Millionen Besucher pro Jahr), eine Stadt mit zwei Gesichtern, die gepflasterte mittelalterliche Cidade Velha und der hochhausbebaute Resortstreifen von Areias de São João. Die Hotelzone sorgfältig wählen, die Saison entscheidet über das Hundeerlebnis.",
+      "faqsDe": [
+        {
+          "q": "Ist Albufeira gut für einen hundefreundlichen Urlaub?",
+          "a": "Ja, in der Nebensaison (April-Mai, Oktober-November) ist Albufeira hervorragend, alle Strände öffnen wieder für Hunde, die Preise fallen um 40-60 %, und der Pine-Cliffs-Wanderweg sowie die Cidade Velha sind ganzjährig begehbar. Im Juli und August ist es eine der schlechtesten Wahlen an der Algarve, Sommerhitze plus Strandverbote plus Lärm vom Strip."
+        },
+        {
+          "q": "Was ist der beste Monat für einen Besuch in Albufeira mit Hund?",
+          "a": "Oktober ist der ideale Zeitpunkt, durchschnittliches Höchstmaß 23 °C, alle Strände sind nach dem saisonalen Verbot gerade wieder für angeleinte Hunde geöffnet, die Hotelpreise sind auf Vorsommerniveau zurückgekehrt, und es gibt noch 8 Stunden Sonnenschein."
+        }
       ]
     },
     "attractions": {
@@ -859,7 +937,10 @@
           "tipFr": "Rejoignez le Miradouro do Pau da Bandeira au coucher du soleil, le point de vue orienté sud-ouest sur la Praia dos Pescadores est le meilleur spot photo gratuit de la ville, gamelle d'eau disponible au café Pau da Bandeira.",
           "tipEs": "Llega al Miradouro do Pau da Bandeira al atardecer, el mirador orientado al suroeste sobre la Praia dos Pescadores es el mejor sitio gratuito para fotos de la ciudad, bol de agua disponible en el café Pau da Bandeira.",
           "tipPt": "Chegue ao Miradouro do Pau da Bandeira ao pôr-do-sol, o miradouro virado a sudoeste sobre a Praia dos Pescadores é o melhor sítio gratuito para fotos da cidade, taça de água disponível no café Pau da Bandeira.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cidade+Velha+Albufeira"
+          "googleMapsUrl": "https://maps.google.com/?q=Cidade+Velha+Albufeira",
+          "descriptionDe": "Das mittelalterliche Herz von Albufeira, ein Labyrinth aus gepflasterten Straßen und weiß getünchten Häusern, das hinunter zum Fischerstrand führt, mit der Igreja de São Sebastião und dem Aussichtspunkt Miradouro do Pau da Bandeira ganz oben. Angeleinte Hunde sind ganzjährig überall auf den öffentlichen Straßen und Plätzen willkommen.",
+          "petPolicyDe": "Hunde ganzjährig an der Leine auf allen öffentlichen Straßen",
+          "tipDe": "Zum Sonnenuntergang den Miradouro do Pau da Bandeira aufsuchen, der nach Südwesten ausgerichtete Aussichtspunkt über die Praia dos Pescadores ist der beste kostenlose Fotospot der Stadt, Wassernapf im Café Pau da Bandeira erhältlich."
         },
         {
           "name": "Marina de Albufeira",
@@ -879,7 +960,10 @@
           "tipFr": "Quelques opérateurs d'observation des dauphins (Dream Wave, Algarve Sailing Adventures) acceptent les petits chiens en laisse lors des sorties matinales par mer calme, demandez 24h à l'avance, dépend de la météo.",
           "tipEs": "Un par de operadores de avistamiento de delfines (Dream Wave, Algarve Sailing Adventures) admiten perros pequeños con correa en salidas matinales con mar en calma, pregunta con 24h de antelación, depende del tiempo.",
           "tipPt": "Alguns operadores de observação de golfinhos (Dream Wave, Algarve Sailing Adventures) aceitam cães pequenos com trela em saídas matinais com mar calmo, pergunte com 24h de antecedência, depende do tempo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Marina+de+Albufeira"
+          "googleMapsUrl": "https://maps.google.com/?q=Marina+de+Albufeira",
+          "descriptionDe": "Ein Yachthafen mit 475 Liegeplätzen und einer bunten, vom Architekten Vasco Vieira gestalteten Promenade, Restaurants und Boutiquen mit hundetoleranten Terrassen sowie dem Abfahrtsdock für Delfinbeobachtungsboote. Angeleinte Hunde sind ganzjährig auf der gesamten Promenade willkommen.",
+          "petPolicyDe": "Hunde ganzjährig an der Leine auf der Promenade; bei Bootsfahrten beim Anbieter nachfragen",
+          "tipDe": "Ein paar Anbieter für Delfinbeobachtung (Dream Wave, Algarve Sailing Adventures) akzeptieren kleine angeleinte Hunde bei ruhiger See auf Morgenausflügen, 24 Stunden im Voraus nachfragen, wetterabhängig."
         },
         {
           "name": "Castelo de Silves (day trip)",
@@ -899,7 +983,10 @@
           "tipFr": "Combinez avec la vieille ville pavée de Silves et la plus grande cathédrale gothique de l'Algarve (chiens bienvenus dans le jardin de la cathédrale, pas dans la nef), le circuit complet dure 2-3h et est ombragé en été.",
           "tipEs": "Combina con el casco antiguo empedrado de Silves y la mayor catedral gótica del Algarve (perros bienvenidos en el jardín de la catedral, no dentro de la nave), el circuito completo dura 2-3h y está a la sombra en verano.",
           "tipPt": "Combine com o centro histórico de calçada de Silves e a maior catedral gótica do Algarve (cães bem-vindos no jardim da catedral, não dentro da nave), o circuito completo demora 2-3h e tem sombra no verão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Castelo+de+Silves"
+          "googleMapsUrl": "https://maps.google.com/?q=Castelo+de+Silves",
+          "descriptionDe": "Die rotsandsteinerne maurische Burg, die die frühere Hauptstadt der Algarve krönt, 25 km nordwestlich von Albufeira an der N125. Angeleinte Hunde sind ganzjährig auf dem Außengelände der Burg und den umliegenden Wehrgängen erlaubt (Eintritt 2,80 €), aber nicht in den Innenräumen des Museums.",
+          "petPolicyDe": "Hunde an der Leine auf den Wehrgängen; nicht in den Museumsräumen",
+          "tipDe": "Mit der gepflasterten Altstadt von Silves und der größten gotischen Kathedrale der Algarve kombinieren (Hunde im Kathedralengarten willkommen, nicht im Kirchenschiff), der gesamte Rundgang dauert 2-3 Stunden und ist im Sommer schattig."
         }
       ],
       "tipsEn": [
@@ -961,6 +1048,18 @@
           "q": "O meu cão pode ir num barco de observação de golfinhos a partir da marina de Albufeira?",
           "a": "Alguns operadores (Dream Wave, Algarve Sailing Adventures) aceitam cães pequenos com trela em saídas matinais com mar calmo com 24h de antecedência. A maioria dos grandes passeios em catamarã não permite cães por motivos de segurança."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Albufeira",
+      "introDe": "Die hundefreundlichen Sehenswürdigkeiten Albufeiras liegen größtenteils im Freien, die gepflasterte Cidade Velha mit ihren Aussichtspunkten, die Yachthafenpromenade und 15-30-minütige Fahrten zu Klippenburgen, Salzmarsch-Stegen und dem Tagesausflug zum Yachthafen von Vilamoura. Die meisten Innenmuseen lassen keine Hunde zu.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in den Straßen und Aussichtspunkten der Altstadt von Albufeira erlaubt?",
+          "a": "Ja, angeleinte Hunde sind ganzjährig auf allen öffentlichen Straßen, Plätzen und Aussichtspunkten der Cidade Velha willkommen. Innenmuseen und Kirchen lassen keine Hunde zu."
+        },
+        {
+          "q": "Kann mein Hund auf ein Delfinbeobachtungsboot vom Yachthafen Albufeira mitkommen?",
+          "a": "Eine Handvoll Anbieter (Dream Wave, Algarve Sailing Adventures) akzeptiert kleine angeleinte Hunde bei ruhiger See auf Morgenausflügen mit 24 Stunden Vorlauf. Die meisten großen Katamaran-Touren erlauben aus Sicherheitsgründen keine Hunde."
+        }
       ]
     },
     "petsitting": {
@@ -988,7 +1087,9 @@
           "tip": "Filter for English-speaking sitters in the platform settings, around 80% of Albufeira sitters speak fluent English thanks to the very large UK expat community.",
           "tipFr": "Filtrez pour les sitters anglophones dans les réglages, environ 80 % des sitters d'Albufeira parlent anglais couramment grâce à la très grande communauté expatriée britannique.",
           "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes, alrededor del 80 % de los cuidadores de Albufeira habla inglés con fluidez gracias a la enorme comunidad expatriada británica.",
-          "tipPt": "Filtre por cuidadores que falem inglês nas definições, cerca de 80% dos cuidadores de Albufeira falam inglês com fluência graças à enorme comunidade expatriada britânica."
+          "tipPt": "Filtre por cuidadores que falem inglês nas definições, cerca de 80% dos cuidadores de Albufeira falam inglês com fluência graças à enorme comunidade expatriada britânica.",
+          "descriptionDe": "Internationale Haustierbetreuungs-Plattform mit rund 45 geprüften Betreuern in der Region Albufeira, Kurzbesuchen, Tagesbetreuung und Übernachtungspension. Alle Betreuer sind geprüft, und bei jeder Buchung ist eine Versicherung inbegriffen.",
+          "tipDe": "In den Plattformeinstellungen nach englischsprachigen Betreuern filtern, etwa 80 % der Betreuer in Albufeira sprechen fließend Englisch dank der sehr großen britischen Expat-Gemeinde."
         },
         {
           "name": "DogHero Albufeira",
@@ -1004,7 +1105,9 @@
           "tip": "Book at least 5 days ahead in July-August, the most popular sitters have a 4-6 week waiting list during the Algarve summer peak.",
           "tipFr": "Réservez au moins 5 jours à l'avance en juillet-août, les sitters les plus populaires ont 4-6 semaines de liste d'attente pendant le pic estival algarvien.",
           "tipEs": "Reserva al menos 5 días antes en julio-agosto, los cuidadores más populares tienen 4-6 semanas de lista de espera durante el pico estival algarvense.",
-          "tipPt": "Reserve com pelo menos 5 dias de antecedência em julho-agosto, os cuidadores mais populares têm 4-6 semanas de lista de espera durante o pico de verão algarvio."
+          "tipPt": "Reserve com pelo menos 5 dias de antecedência em julho-agosto, os cuidadores mais populares têm 4-6 semanas de lista de espera durante o pico de verão algarvio.",
+          "descriptionDe": "Auf Portugal fokussierte Haustierbetreuungs-Plattform mit rund 30 geprüften Betreuern in Albufeira und einer bei jeder Buchung inbegriffenen 24/7-Tierarzt-Telefonlinie. Durchschnittlicher Preis 20-28 €/Tag für Pension, 10-15 € für einen 30-minütigen Kurzbesuch mit Spaziergang.",
+          "tipDe": "Im Juli und August mindestens 5 Tage im Voraus buchen, die beliebtesten Betreuer haben in der Sommerhauptsaison der Algarve eine Warteliste von 4-6 Wochen."
         }
       ],
       "tipsEn": [
@@ -1065,6 +1168,18 @@
         {
           "q": "Posso encontrar um cuidador que fale inglês em Albufeira?",
           "a": "Sim, cerca de 80% dos cuidadores de Albufeira na Pawshake falam inglês com fluência graças à enorme comunidade expatriada britânica do Algarve central. Filtre por idioma."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Albufeira",
+      "introDe": "Für Tage, an denen der Hund nicht mitkommen kann (Bootsausflüge, Innenmuseen, gehobene Abendessen), bietet Albufeira dank der britischen und irischen Expat-Gemeinde eine reichhaltige, geprüfte Haustierbetreuung über internationale und portugiesische Plattformen.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Hundetagesbetreuung in Albufeira?",
+          "a": "20-28 € pro Tag je nach Plattform und Hundegröße, über Pawshake oder DogHero. Kurzbesuche kosten 10-15 € für 30 Minuten. Zur Sommerhauptsaison (August) steigen die Preise auf 30-40 €/Tag."
+        },
+        {
+          "q": "Finde ich einen englischsprachigen Betreuer in Albufeira?",
+          "a": "Ja, etwa 80 % der Betreuer in Albufeira auf Pawshake sprechen fließend Englisch dank der sehr großen britischen Expat-Gemeinde in der zentralen Algarve. Die Plattform nach Sprache filtern."
         }
       ]
     }

@@ -71,7 +71,18 @@ Last commit: 82a94002. Verify build: `npm run build` (exit 0), then
   all 418 slugs, re-run extract -> launch gd agents (4 cities/batch) -> merge-guides.mjs
   -> build -> commit. 9 places didn't name-match on this run (kept en); acceptable.
 
-## STILL remaining: rest of city-guides/*.json CONTENT
+## DONE wave 6+7: full 8-section German guide content for 80 cities
+- [x] 40 top cities (all 8 sections) + 40 next notable cities (all 8 sections).
+      Tooling: extract-guides.mjs (edit DONE/NEXT/SECTIONS) + merge-guides.mjs.
+      ~298 cities remain (deep long tail).
+- To finish the long tail: in extract-guides.mjs set NEXT = readdirSync minus the
+  ~80 done, keep SECTIONS = all 8. It produced ~176 batches for 378 cities, so the
+  remaining ~298 is ~135 batches (~2 cities each). Best run as a SCHEDULED nightly
+  task in tranches of ~15-20 batches to avoid session limits, or a few more live
+  waves. ~104/1974 places did not name-match on tranche B (kept en) -- refine the
+  place name-matching in merge-guides.mjs (normalize/trim) if you want those too.
+
+## STILL remaining: long-tail city-guides/*.json CONTENT (~298 cities)
 Each file has 8 sections (restaurants/parks/transport/beaches/vets/tips/attractions/
 petsitting); each section has titleEn/Fr/Es/Pt, introEn/Fr/Es/Pt, faqsEn/Fr/Es/Pt and
 places[] (each place name + localized desc). NONE have *De yet. The guide TEMPLATE now

@@ -95,6 +95,28 @@ const tips: Record<string, Tip[]> = {
       text: `Cada hotel da HotelsWithPets.com tem uma nota mínima de 8,0 no Booking.com. Aceitar animais não deve significar abrir mão da qualidade.`,
     },
   ],
+  de: [
+    {
+      icon: '📋',
+      title: 'Vor der Buchung prüfen',
+      text: 'Bestätigen Sie die Haustierrichtlinie stets direkt beim Hotel. Gebühren und Einschränkungen können sich ändern. Unsere Daten werden regelmäßig aktualisiert, aber ein kurzer Anruf erspart Ihnen unangenehme Überraschungen.',
+    },
+    {
+      icon: '🛂',
+      title: 'EU-Heimtierausweis',
+      text: 'Reisen Sie zwischen EU-Ländern? Ihr Haustier benötigt einen gültigen EU-Heimtierausweis mit aktueller Tollwutimpfung. Beantragen Sie ihn bei Ihrem Tierarzt mindestens 21 Tage vor der Reise.',
+    },
+    {
+      icon: '🐕',
+      title: 'Das richtige Zimmer buchen',
+      text: 'Nicht alle Zimmer eines haustierfreundlichen Hotels erlauben Haustiere. Fordern Sie bei der Buchung ein für Haustiere vorgesehenes Zimmer an und bestätigen Sie eine passende Etage. Idealerweise mit einfachem Zugang nach draußen.',
+    },
+    {
+      icon: '⭐',
+      title: 'Alle Hotels mit 8,0+ bewertet',
+      text: 'Jedes Hotel auf HotelsWithPets.com hat eine Booking.com-Gästebewertung von mindestens 8,0. Haustierfreundlich soll keinen Kompromiss bei der Qualität bedeuten.',
+    },
+  ],
 }
 
 const headings: Record<string, string> = {
@@ -102,6 +124,7 @@ const headings: Record<string, string> = {
   fr: 'Conseils pour voyager avec votre animal',
   es: 'Consejos para viajar con mascotas',
   pt: 'Dicas para viajar com animais',
+  de: 'Tipps für das Reisen mit Haustieren',
 }
 
 export default function PetTravelTips({ locale }: PetTravelTipsProps) {

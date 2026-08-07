@@ -125,6 +125,34 @@ const COPY: Record<string, Copy> = {
     ],
     citiesLabel: 'Destinos populares para cães:',
   },
+  de: {
+    heading: 'Hundefreundliche Hotels in Europa: das sollten Sie vor der Buchung wissen',
+    intro:
+      'Ein hundefreundliches Hotel heißt Ihren Hund wirklich willkommen, statt ihn nur zu dulden. Wir listen über 2.400 hunde- und haustierfreundliche Hotels in mehr als 400 europäischen Reisezielen, jedes mit einer geprüften Haustierrichtlinie: das echte Gewichtslimit, die genaue Gebühr, ob der Hund allein im Zimmer bleiben darf und wo der nächste Park oder Hundestrand liegt. Jeder Eintrag führt direkt zu Booking.com, sodass Sie zum selben Preis buchen, mit Ihrem Hund auf der Reservierung.',
+    faqs: [
+      {
+        q: 'Was macht ein Hotel hundefreundlich?',
+        a: 'Ein wirklich hundefreundliches Hotel nennt seine Haustierrichtlinie von vornherein: wie viele Hunde erlaubt sind, etwaige Gewichts- oder Rassebeschränkungen, die Gebühr pro Nacht oder pro Aufenthalt und welche Bereiche des Hotels Hunde betreten dürfen. Wir prüfen jeden dieser Punkte, statt uns auf ein vages „Haustiere erlaubt" zu verlassen, damit Sie es schon vor der Buchung wissen.',
+      },
+      {
+        q: 'Verlangen hundefreundliche Hotels eine Haustiergebühr?',
+        a: 'Viele tun das, von einer kleinen Reinigungsgebühr pro Nacht bis zu einem Betrag pro Aufenthalt, doch immer mehr lassen Hunde kostenlos übernachten. Jede Hotelseite zeigt die genaue, von uns geprüfte Gebühr, und Sie können gezielt nach Hotels filtern, in denen Hunde gratis übernachten.',
+      },
+      {
+        q: 'Wie prüfen Sie die Haustierrichtlinien?',
+        a: 'Wir gleichen die vom Hotel angegebene Richtlinie mit seinem aktuellen Booking.com-Eintrag und den jüngsten Gästebewertungen ab und prüfen erneut, sobald sich Richtlinien ändern. Lässt sich ein Detail nicht bestätigen, sagen wir das, statt zu raten.',
+      },
+      {
+        q: 'Darf ich einen großen Hund oder mehrere Hunde mitbringen?',
+        a: 'Das hängt vom Hotel ab: manche begrenzen das Gewicht auf 10 kg, andere heißen große Rassen und mehrere Hunde willkommen. Jeder Eintrag zeigt das Gewichtslimit und wie viele Hunde akzeptiert werden, sodass Sie nach den passenden Hotels filtern können.',
+      },
+      {
+        q: 'Welche europäischen Städte haben die meisten hundefreundlichen Hotels?',
+        a: 'Große, tierliebe Städte gehen voran, mit großer Auswahl in Paris, Barcelona, Amsterdam, Rom und Berlin, dazu Orte an Seen und Küsten, wo Hunde schwimmen dürfen. Stöbern Sie durch alle Reiseziele, um Hoteldichte, Parks und Hundestrände zu vergleichen.',
+      },
+    ],
+    citiesLabel: 'Beliebte hundefreundliche Reiseziele:',
+  },
 }
 
 const CITY_LINKS = [
@@ -182,7 +210,7 @@ export default function HomeFaq({ locale }: { locale: Locale }) {
             href={`/${locale}/destinations`}
             className="inline-block rounded-full bg-gray-100 px-3 py-1 font-medium text-gray-700 hover:bg-gray-200 transition-colors"
           >
-            {locale === 'fr' ? 'Toutes les destinations' : locale === 'es' ? 'Todos los destinos' : locale === 'pt' ? 'Todos os destinos' : 'All destinations'}
+            {locale === 'fr' ? 'Toutes les destinations' : locale === 'es' ? 'Todos los destinos' : locale === 'pt' ? 'Todos os destinos' : locale === 'de' ? 'Alle Reiseziele' : 'All destinations'}
           </Link>
         </div>
       </div>

@@ -25,24 +25,28 @@ export default function TopHotels({ locale }: TopHotelsProps) {
     fr: 'Les plus beaux hôtels du monde qui acceptent les animaux',
     es: 'Los hoteles más bonitos del mundo que admiten mascotas',
     pt: 'Os hotéis mais bonitos do mundo que aceitam animais',
+    de: 'Die schönsten haustierfreundlichen Hotels der Welt',
   }
   const subheadings: Record<string, string> = {
     en: 'A handpicked selection of five-star stays, from a Marrakech palace to a Capri cliffside villa, where your dog is welcome too.',
     fr: 'Une sélection de cinq-étoiles triés sur le volet, d\'un palace de Marrakech à une villa perchée sur les falaises de Capri, où votre chien est lui aussi le bienvenu.',
     es: 'Una selección de cinco estrellas elegidos con esmero, de un palacio en Marrakech a una villa sobre los acantilados de Capri, donde tu perro también es bienvenido.',
     pt: 'Uma seleção de cinco estrelas escolhidos a dedo, de um palácio em Marraquexe a uma villa sobre as falésias de Capri, onde o seu cão também é bem-vindo.',
+    de: 'Eine handverlesene Auswahl an Fünf-Sterne-Aufenthalten, von einem Palast in Marrakesch bis zu einer Villa an den Klippen von Capri, wo auch Ihr Hund willkommen ist.',
   }
   const bookLabel: Record<string, string> = {
     en: 'Book',
     fr: 'Réserver',
     es: 'Reservar',
     pt: 'Reservar',
+    de: 'Buchen',
   }
   const editorChoice: Record<string, string> = {
     en: "⭐ Editor's Choice",
     fr: '⭐ Coup de cœur de la rédaction',
     es: '⭐ Selección de la redacción',
     pt: '⭐ Escolha da redação',
+    de: '⭐ Redaktionsempfehlung',
   }
 
   return (
@@ -67,8 +71,8 @@ export default function TopHotels({ locale }: TopHotelsProps) {
               ? buildAllezLink(hotel.name, dest.name, dest.country)
               : hotel.bookingUrl
             const isFree = hotel.petFee === 0
-            const perNight = locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : '/night'
-            const fromLabel = locale === 'fr' ? 'Dès' : locale === 'es' ? 'Desde' : locale === 'pt' ? 'Desde' : 'From'
+            const perNight = locale === 'fr' ? '/nuit' : locale === 'es' ? '/noche' : locale === 'pt' ? '/noite' : locale === 'de' ? '/Nacht' : '/night'
+            const fromLabel = locale === 'fr' ? 'Dès' : locale === 'es' ? 'Desde' : locale === 'pt' ? 'Desde' : locale === 'de' ? 'Ab' : 'From'
             return (
               <article key={hotel.id} className="group bg-white rounded-3xl shadow-sm hover:shadow-xl hover:-translate-y-1 transition-all duration-300 overflow-hidden border border-gray-100 flex flex-col">
                 {/* Image */}
@@ -90,7 +94,7 @@ export default function TopHotels({ locale }: TopHotelsProps) {
                   <div className="absolute top-3 right-3">
                     {isFree ? (
                       <span className="flex items-center gap-1 bg-emerald-500 text-white text-xs font-bold px-2.5 py-1.5 rounded-xl shadow-sm">
-                        🐾 {locale === 'fr' ? 'Gratuit' : locale === 'es' ? 'Gratis' : locale === 'pt' ? 'Grátis' : 'Free'}
+                        🐾 {locale === 'fr' ? 'Gratuit' : locale === 'es' ? 'Gratis' : locale === 'pt' ? 'Grátis' : locale === 'de' ? 'Kostenlos' : 'Free'}
                       </span>
                     ) : (
                       <span className="bg-amber-400 text-gray-900 text-xs font-bold px-2.5 py-1.5 rounded-xl shadow-sm">

@@ -39,7 +39,11 @@
           "tipFr": "La première rangée fait face à la place et capte la meilleure lumière à partir de 17h ; elle se remplit en premier quand les groupes de croisière arrivent à 11h30.",
           "tipEs": "La primera fila mira a la plaza y capta la mejor luz a partir de las 17:00; se llena primero cuando llegan los grupos de cruceros a las 11:30.",
           "tipPt": "A primeira fila vira-se para a praça e apanha a melhor luz a partir das 17h; enche primeiro quando chegam os grupos de cruzeiros às 11h30.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Van+Gogh+Place+du+Forum+Arles"
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Van+Gogh+Place+du+Forum+Arles",
+          "descriptionDe": "Das ockergelbe Café am Place du Forum, verewigt in Van Goghs Terrasse du café le soir, mit seiner großen Markise, die sich über den ganzen Platz erstreckt. Angeleinte Hunde gehören zum täglichen Terrassenbild; die Kellner bringen den vorderen Tischreihen Wassernäpfe. Die Karte bietet provenzalische Brasserie-Küche, Salate, Daube, abends Pizza und Pichets mit Côtes du Rhône.",
+          "petPolicyDe": "Hunde an der Leine auf der Außenterrasse willkommen",
+          "mustTryDe": "Daube provençale, Salade niçoise, abends Pizza",
+          "tipDe": "Die erste Tischreihe blickt auf den Platz und bekommt ab 17:00 Uhr das beste Licht; diese Seite füllt sich zuerst, wenn um 11:30 Uhr die Reisegruppen ankommen."
         },
         {
           "name": "L'Atelier des Filles",
@@ -65,7 +69,11 @@
           "tipFr": "Fermé dimanche et lundi ; le samedi, le marché du Boulevard des Lices sature les rues, garez-vous plus loin et marchez.",
           "tipEs": "Cerrado domingo y lunes; los sábados coincide con el mercado del Boulevard des Lices, aparca más lejos y camina.",
           "tipPt": "Fechado domingo e segunda; aos sábados coincide com o mercado do Boulevard des Lices, estacione mais longe e ande a pé.",
-          "googleMapsUrl": "https://maps.google.com/?q=Place+du+Forum+Arles"
+          "googleMapsUrl": "https://maps.google.com/?q=Place+du+Forum+Arles",
+          "descriptionDe": "Ein entspanntes provenzalisches Bistro im historischen Zentrum mit einer kleinen Terrasse unter den Platanen. Kurze, marktfrische Karte mit täglichem Plat du jour, Tielle, Brandade, gegrilltem regionalem Fisch und saisonalem Gemüse. Angeleinte Hunde gehören zur Stammkundschaft; die kleine Terrasse füllt sich schnell, zum Mittagessen also vor 12:30 Uhr kommen.",
+          "petPolicyDe": "Hunde an der Leine an den Außentischen willkommen",
+          "mustTryDe": "Täglicher Plat du jour, Tielle, Brandade",
+          "tipDe": "Sonntag und Montag geschlossen; am Samstag überschneidet es sich mit dem Markt am Boulevard des Lices, also weiter draußen parken und zu Fuß gehen."
         },
         {
           "name": "Superfood Arles",
@@ -91,7 +99,11 @@
           "tipFr": "Bonne adresse de déjeuner en semaine après les Arènes ; leur limonade glacée à l'hibiscus en été est la meilleure pause maître-chien du centre.",
           "tipEs": "Buena dirección para comer entre semana tras las Arenas; su limonada helada de hibisco en verano es la mejor pausa amo-perro del centro.",
           "tipPt": "Boa morada para almoçar à semana após as Arenas; a sua limonada gelada de hibisco no verão é a melhor pausa dono-cão do centro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Superfood+Arles"
+          "googleMapsUrl": "https://maps.google.com/?q=Superfood+Arles",
+          "descriptionDe": "Ein zu 100 Prozent vegetarisches Café im historischen Zentrum mit veganen und glutenfreien Optionen, einem kleinen Innenraum und einer schattigen Terrasse entlang der Gasse. Hunde an der Leine sind ausdrücklich willkommen, und das Personal bringt auf Anfrage einen Wassernapf. Tagesbowl, Suppen, Limonaden und hausgemachte Kuchen; schneller Service, ideal für einen Stopp zwischen der Arena und dem Théâtre Antique.",
+          "petPolicyDe": "Hunde an der Leine drinnen und auf der Terrasse willkommen; Wassernapf auf Anfrage",
+          "mustTryDe": "Tagesbowl, hausgemachte Limonade, Rohkost-Kuchen",
+          "tipDe": "Praktischer Mittagsstopp unter der Woche nach der Arena; ihre eisgekühlte Hibiskus-Limonade im Sommer ist die beste Erfrischung für Hund und Halter im Zentrum."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Os restaurantes de Arles cobram suplemento por animal?",
           "a": "Não, não há suplemento. Uma taça de água a pedido é prática habitual no centro histórico."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Arles",
+      "introDe": "Arles ist eine kompakte UNESCO-Stadt, in der sich Café-Terrassen um die römische Arena, den Boulevard des Lices und den gepflasterten Place du Forum ziehen. Die meisten Tische im Freien nehmen aus provenzalischer Gewohnheit selbstverständlich Hunde an der Leine mit, und einige Lokale bringen sogar ungefragt einen Wassernapf. An Markt-Samstagen und während der Sommerfestivals ist eine Reservierung ratsam.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund mit in die Restaurants in Arles?",
+          "a": "Viele Innenräume akzeptieren kleine Hunde auf dem Arm; mittelgroße und große Hunde werden meist auf die Terrasse verwiesen. Fragen Sie bei der Ankunft immer den Gastgeber."
+        },
+        {
+          "q": "Sind Hunde beim Samstagsmarkt am Boulevard des Lices willkommen?",
+          "a": "Ja, der Freiluftmarkt heißt Hunde an der Leine ausdrücklich willkommen, und die Restaurant-Terrassen entlang des Boulevards füllen sich an Markttagen mit Hundebesitzern."
+        },
+        {
+          "q": "Verlangen Restaurants in Arles eine Gebühr für Haustiere?",
+          "a": "Nein, es gibt keine Haustiergebühr in Restaurants. Ein Wassernapf auf Anfrage ist im historischen Zentrum gängige Praxis."
+        }
       ]
     },
     "parks": {
@@ -205,7 +233,11 @@
           "tipFr": "La rive du Rhône au bord du jardin est l'endroit le plus frais en été ; combinez avec la visite du musée (chiens interdits sauf chiens-guides) en laissant le chien avec un compagnon sur la pelouse.",
           "tipEs": "La orilla del Ródano del jardín es el sitio más fresco en verano; combina con la visita al museo (prohíbe perros salvo guía) dejando al perro con un acompañante en el césped.",
           "tipPt": "A margem do Ródano do jardim é o sítio mais fresco no verão; combine com a visita ao museu (proíbe cães salvo de assistência) deixando o cão com um companheiro no relvado.",
-          "googleMapsUrl": "https://maps.google.com/?q=Jardin+Hortus+Arles"
+          "googleMapsUrl": "https://maps.google.com/?q=Jardin+Hortus+Arles",
+          "descriptionDe": "Ein von der Antike inspirierter Garten in Form einer antiken Rennbahn neben dem Musée Départemental Arles Antique. Begehbare Rasenflächen, picknickfreundliche Hänge und schattige Wege am Rhône-Ufer. Angeleinte Hunde sind auf den Rasenflächen und Wegen willkommen; die eingezäunte Kinderspielzone im Garten lässt keine Hunde zu, auch nicht an der Leine.",
+          "petPolicyDe": "Hunde an der Leine auf Rasenflächen und Wegen; nicht im eingezäunten Kinderspielbereich",
+          "featuresDe": "Antikes Rennbahn-Layout, Weg am Rhône-Ufer, Picknickwiesen, eingezäunter Kinderspielplatz (keine Hunde)",
+          "tipDe": "Der Rand des Gartens am Rhône-Ufer ist im Sommer der kühlste Platz; kombinieren Sie den Museumsbesuch (Museum verbietet Hunde außer Blindenhunde), indem Sie den Hund bei einem Partner auf der Wiese lassen."
         },
         {
           "name": "Jardin d'Été",
@@ -231,7 +263,11 @@
           "tipFr": "À combiner avec le marché du samedi du Boulevard des Lices : attachez le chien à un banc à l'ombre, faites un tour rapide du marché, puis revenez pour une balade sur la pelouse.",
           "tipEs": "Combina con el mercado del sábado del Boulevard des Lices: ata al perro a un banco a la sombra, da una vuelta rápida al mercado y vuelve para pasear por el césped.",
           "tipPt": "Combine com o mercado de sábado do Boulevard des Lices: prenda o cão a um banco à sombra, dê uma volta rápida ao mercado e regresse para passear no relvado.",
-          "googleMapsUrl": "https://maps.google.com/?q=Jardin+d%27Ete+Arles"
+          "googleMapsUrl": "https://maps.google.com/?q=Jardin+d%27Ete+Arles",
+          "descriptionDe": "Ein kleiner, schattiger öffentlicher Garten zwischen dem Boulevard des Lices und dem Théâtre Antique, angelegt als englischer Garten des 19. Jahrhunderts mit altem Baumbestand und Kiespfaden. Angeleinte Hunde sind auf den Wegen und Rasenflächen zugelassen; der eingezäunte Kinderspielbereich in der Mitte ist für Hunde gesperrt, auch an der Leine. Ein praktischer zehnminütiger Ruhepunkt zwischen dem historischen Zentrum und der Arena.",
+          "petPolicyDe": "Hunde an der Leine auf Wegen und Rasenflächen; nicht im eingezäunten Kinderspielbereich",
+          "featuresDe": "Schatten der Platanen, Kiespfade, Bänke, eingezäunter Spielplatz (keine Hunde)",
+          "tipDe": "Kombinieren Sie den Besuch mit dem Samstagsmarkt am Boulevard des Lices: Hund im Schatten an eine Bank binden, schnelle Runde über den Markt, dann zurück für einen Spaziergang auf der Wiese."
         },
         {
           "name": "Allée des Alyscamps",
@@ -256,7 +292,11 @@
           "tipFr": "Empruntez l'allée avant 10h en été ; l'ombre des peupliers en fait la balade canine la plus fraîche du centre, et aucun groupe avant 11h30.",
           "tipEs": "Recorre la alameda antes de las 10:00 en verano; la sombra de los álamos hace que sea el paseo canino más fresco del centro, y no hay grupos antes de las 11:30.",
           "tipPt": "Percorra a alameda antes das 10h no verão; a sombra dos choupos torna-a o passeio canino mais fresco do centro, e não há grupos antes das 11h30.",
-          "googleMapsUrl": "https://maps.google.com/?q=Alyscamps+Arles"
+          "googleMapsUrl": "https://maps.google.com/?q=Alyscamps+Arles",
+          "descriptionDe": "Die begehbare Freiluft-Nekropole südlich des Zentrums, gesäumt von römischen Sarkophagen und beschattet von Pappeln. Die berühmte gerade Allee von der Porte Saint-Honoré bis zur Kirche Saint-Honorat wurde von Van Gogh und Gauguin während ihres Aufenthalts gemalt. Die städtische Allee und ihre äußeren Wege sind jederzeit frei für angeleinte Hunde zugänglich; die kostenpflichtige innere Zone von Kreuzgang und Kapelle lässt keine Hunde zu.",
+          "petPolicyDe": "Hunde an der Leine auf der öffentlichen Allee; nicht im kostenpflichtigen Denkmalbereich",
+          "featuresDe": "Pappeldach, römische Sarkophage, Van-Gogh-Blickachsen, fotogenes Morgenlicht",
+          "tipDe": "Gehen Sie die Allee im Sommer vor 10:00 Uhr; der Pappelschatten macht sie zum kühlsten Hundespaziergang im Zentrum, und vor 11:30 Uhr sind noch keine Reisegruppen unterwegs."
         }
       ],
       "tipsEn": [
@@ -334,6 +374,22 @@
           "q": "A Allée des Alyscamps é gratuita com cão?",
           "a": "Sim, a alameda pública é gratuita e aberta 24/7. Só a zona paga do monumento (claustro e capela Saint-Honorat) proíbe cães."
         }
+      ],
+      "titleDe": "Parks & Grünflächen in Arles",
+      "introDe": "Arles ist eine kleine UNESCO-Stadt, eng eingefasst von römischen und mittelalterlichen Mauern, mit wenigen ausgewiesenen Hundeparks, aber mehreren Grünflächen, die angeleinte Hunde erlauben, sowie einem großen Camargue-Feuchtgebiet eine kurze Fahrt südlich. Das städtische Tourismusbüro bestätigt, dass alle Hunde in Straßen und Parks angeleint sein müssen und dass rund 30 Kotbeutelspender im Zentrum aufgestellt sind.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Arles Hundeparks ohne Leinenzwang?",
+          "a": "Nein, innerhalb der Stadt gibt es keine eingezäunte Freilaufzone. Für freien Auslauf fahren Sie zur Camargue-Digue à la Mer, 30 Minuten südlich, wo das offizielle Tourismusbüro bestätigt, dass Hunde am Hauptstrand frei laufen dürfen."
+        },
+        {
+          "q": "Dürfen Hunde auf den Spielplatz im Jardin Hortus?",
+          "a": "Nein, der eingezäunte Spielplatz im Garten verbietet Hunde selbst an der Leine. Die übrigen Rasenflächen und der Weg am Rhône-Ufer sind für Hunde zugänglich."
+        },
+        {
+          "q": "Ist die Allée des Alyscamps mit Hund kostenlos zugänglich?",
+          "a": "Ja, die öffentliche Allee ist kostenlos und rund um die Uhr geöffnet. Nur der kostenpflichtige innere Denkmalbereich (Kreuzgang und Saint-Honorat-Kapelle) verbietet Hunde."
+        }
       ]
     },
     "transport": {
@@ -364,7 +420,10 @@
           "tipFr": "Achetez le billet animal 0 EUR sur SNCF Connect avant de monter ; les contrôleurs le demandent et un imprimé évite l'amende.",
           "tipEs": "Compra el billete animal de 0 EUR en SNCF Connect antes de subir; los revisores lo piden y un impreso evita la multa.",
           "tipPt": "Compre o bilhete animal de 0 EUR no SNCF Connect antes de embarcar; os revisores pedem-no e um impresso evita a multa.",
-          "googleMapsUrl": "https://maps.google.com/?q=Gare+SNCF+Arles"
+          "googleMapsUrl": "https://maps.google.com/?q=Gare+SNCF+Arles",
+          "descriptionDe": "Der Bahnhof Arles liegt an der Strecke Tarascon–Marseille, 10 Gehminuten von der Arena entfernt. TER-Züge verkehren etwa alle 30 Minuten nach Avignon (20 Min.), Nîmes (30 Min.) und Marseille Saint-Charles (1 Std.); saisonale TGV-Anschlüsse führen in 4 Stunden nach Paris. Es gelten die nationalen SNCF-Tierregeln: Hunde unter 6 kg in einer Transportbox reisen mit einem 0-EUR-Tierticket, größere Hunde an Leine und mit Maulkorb zahlen 50 Prozent des Erwachsenenfahrpreises, gedeckelt bei 7 EUR. Blinden- und Assistenzhunde reisen kostenlos.",
+          "petPolicyDe": "Hunde <6 kg in Transportbox: 0-EUR-Ticket. Größere Hunde angeleint + Maulkorb: 50% Erwachsenenfahrpreis, max. 7 EUR. Blindenhunde kostenlos.",
+          "tipDe": "Kaufen Sie das 0-EUR-Tierticket vor dem Einsteigen bei SNCF Connect; die Kontrolleure verlangen es, und ein Papierausdruck vermeidet ein Bußgeld."
         },
         {
           "name": "Envia urban bus network",
@@ -383,7 +442,10 @@
           "tipFr": "Avec un chien moyen ou grand, prévoyez de marcher ou prendre un taxi dans Arles ; le centre fait 1,2 km de large, la plupart des distances se font à pied.",
           "tipEs": "Con perro mediano o grande, planea caminar o tomar taxi en Arles; el centro mide 1,2 km, la mayoría de distancias son a pie.",
           "tipPt": "Com cão médio ou grande, planeie andar a pé ou de táxi em Arles; o centro mede 1,2 km, a maioria das distâncias é a pé.",
-          "googleMapsUrl": "https://maps.google.com/?q=Arles+centre"
+          "googleMapsUrl": "https://maps.google.com/?q=Arles+centre",
+          "descriptionDe": "Envia ist das Stadtbusnetz der Agglomeration Arles Crau Camargue Montagnette mit Linien, die das Zentrum, Trinquetaille, Pont-de-Crau und die umliegenden Dörfer verbinden. Wie bei den meisten französischen Stadtbusnetzen sind nur kleine Haustiere in einem geschlossenen Korb sowie Blinden- oder Assistenzhunde zugelassen. Mittelgroße und große Hunde werden nicht mitgenommen. Für Wanderungen in der Camargue oder außerhalb der Stadt nehmen Sie den SNCF-Zug oder fahren Sie mit dem Auto.",
+          "petPolicyDe": "Nur kleine Haustiere in geschlossenem Korb; Blinden- und Assistenzhunde an der Leine zugelassen. Mittelgroße/große Hunde abgelehnt.",
+          "tipDe": "Wenn Sie mit einem mittelgroßen oder großen Hund reisen, planen Sie innerhalb von Arles zu Fuß oder mit dem Taxi; das Zentrum ist nur 1,2 km groß, sodass die meisten Strecken zu Fuß machbar sind."
         },
         {
           "name": "Marseille Provence Airport (MRS)",
@@ -403,7 +465,10 @@
           "tipFr": "Évitez la soute entre le 15 juin et le 15 septembre sur les vols de Marseille ; les températures au sol dépassent souvent les seuils de sécurité et les refus de dernière minute sont fréquents.",
           "tipEs": "Evita la bodega entre el 15 de junio y el 15 de septiembre en vuelos de Marsella; las temperaturas en pista superan a menudo los umbrales de seguridad y los rechazos de última hora son frecuentes.",
           "tipPt": "Evite o porão entre 15 de junho e 15 de setembro nos voos de Marselha; as temperaturas no solo ultrapassam frequentemente os limiares de segurança e as recusas de última hora são frequentes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Marseille+Provence+Airport"
+          "googleMapsUrl": "https://maps.google.com/?q=Marseille+Provence+Airport",
+          "descriptionDe": "Marseille Provence ist der nächstgelegene internationale Flughafen zu Arles, 50 Minuten mit dem Auto oder per Shuttlebus nach Avignon TGV plus einem TER-Anschluss. Es gelten die üblichen französischen Fluglinien-Tierregeln: Kabinenmitnahme für Haustiere bis 8 kg inklusive Transportbox bei den meisten Fluggesellschaften, Frachtraum für größere Tiere (mit sommerlichen Hitzebeschränkungen im Juli und August). Air France und Volotea sind die Hauptanbieter mit eigenen Tierrichtlinien auf Provence-Strecken.",
+          "petPolicyDe": "Kabine <8 kg inkl. Transportbox; Frachtraum für größere Tiere (Sommerbeschränkungen gelten)",
+          "tipDe": "Vermeiden Sie den Frachtraumtransport zwischen dem 15. Juni und 15. September auf Marseille-Flügen; die Bodentemperaturen überschreiten regelmäßig die Sicherheitsgrenzwerte der Fluggesellschaften, und kurzfristige Ablehnungen sind häufig."
         }
       ],
       "tipsEn": [
@@ -481,6 +546,22 @@
           "q": "Qual é o aeroporto mais próximo de Arles para viajar com animal?",
           "a": "Marseille Provence (MRS) a 50 min de carro. Para cães grandes evite o porão entre 15 de junho e 15 de setembro devido às recusas por calor."
         }
+      ],
+      "titleDe": "Haustierfreundliche Fortbewegung in Arles",
+      "introDe": "Arles ist der südliche Endpunkt des Provence-Dreiecks und eine der bestangebundenen mittelgroßen Städte Frankreichs. Der SNCF-Bahnhof liegt 10 Gehminuten vom historischen Zentrum entfernt, mit Direktzügen nach Avignon (20 Min.), Nîmes (30 Min.), Marseille (1 Std.) und einer TGV-Verbindung nach Paris in 4 Stunden. Das lokale Envia-Stadtnetz bedient die Stadt und umliegende Dörfer mit einer für französische Stadtbusse typischen Kleintierregel. Der Flughafen Marseille Provence (MRS) ist 50 Minuten mit dem Auto entfernt.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund mit dem TER von Arles nach Avignon fahren?",
+          "a": "Ja. Hunde unter 6 kg in einer Transportbox reisen mit einem 0-EUR-Tierticket; größere Hunde an Leine und mit Maulkorb zahlen 50 Prozent des Erwachsenenfahrpreises, gedeckelt bei 7 EUR. Kaufen Sie das Ticket vor dem Einsteigen bei SNCF Connect."
+        },
+        {
+          "q": "Sind Hunde in Envia-Bussen erlaubt?",
+          "a": "Nur kleine Haustiere in einem geschlossenen Korb sowie Blinden-/Assistenzhunde sind zugelassen. Mittelgroße und große Hunde werden abgewiesen; nutzen Sie SNCF, Taxi oder gehen Sie zu Fuß."
+        },
+        {
+          "q": "Welcher Flughafen liegt am nächsten an Arles für Reisen mit Haustier?",
+          "a": "Marseille Provence (MRS) liegt 50 Minuten mit dem Auto entfernt. Für größere Hunde sollte der Frachtraumtransport zwischen dem 15. Juni und 15. September wegen hitzebedingter Ablehnungen durch Fluggesellschaften vermieden werden."
+        }
       ]
     },
     "beaches": {
@@ -519,7 +600,12 @@
           "tipFr": "Les dunes sont une réserve naturelle protégée et l'accès est strictement interdit même à pied ; restez sur la digue et la ligne de plage.",
           "tipEs": "Las dunas son una reserva natural protegida y la entrada está estrictamente prohibida incluso a pie; quédate en el dique y la línea de playa.",
           "tipPt": "As dunas são uma reserva natural protegida e a entrada é estritamente proibida mesmo a pé; permaneça no dique e na linha de praia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Beauduc"
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Beauduc",
+          "descriptionDe": "Ein 25 km langer Wildstrand mit Dünen am südlichen Ende der Camargue, mit den Salinen von Salin-de-Giraud im Hintergrund. Die offizielle Hundeseite des Tourismusbüros Arles bestätigt, dass Hunde an der Leine am Parkplatz von Beauduc, am hinteren Strand und am Meeresdeich toleriert werden und am Strand selbst frei laufen dürfen. Keine Einrichtungen, keine Geschäfte, kein Rettungsdienst: Wasser, Sonnenschutz und Kotbeutel mitbringen.",
+          "petPolicyDe": "An der Leine am Parkplatz, hinterem Strand und Deich; frei am Hauptstrand (keine Badezone)",
+          "seasonDe": "Ganzjährig; am ruhigsten Oktober–Mai",
+          "amenitiesDe": "Wildstrand, keine Einrichtungen, Parkplatz am Ende des Deichs",
+          "tipDe": "Die Dünen sind ein geschütztes Naturreservat, und das Betreten ist selbst zu Fuß strikt verboten; bleiben Sie jederzeit auf dem Deich und der Strandlinie."
         },
         {
           "name": "Plage de Piémanson",
@@ -547,7 +633,12 @@
           "tipFr": "Marchez vers l'est depuis le parking pour quitter la zone famille en 10 minutes ; hors saison (octobre-mai), les 25 km sont ouverts aux chiens.",
           "tipEs": "Camina al este desde el aparcamiento para dejar atrás la zona familiar en 10 minutos; fuera de temporada (octubre-mayo), los 25 km están abiertos a perros.",
           "tipPt": "Ande para leste a partir do parque para deixar a zona familiar em 10 minutos; fora de época (outubro-maio), os 25 km estão abertos a cães.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Piemanson"
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Piemanson",
+          "descriptionDe": "Der längste der hundezugänglichen Camargue-Strände, ein 25 km langer flacher Sandstrand, der östlich der Mündung der Grande Rhône verläuft. Das Tourismusbüro Arles bestätigt, dass Hunde an der Leine am Strand toleriert werden, jedoch in der von Rettungsschwimmern überwachten Sommer-Badezone verboten sind, die mit Bojen markiert ist (Juni bis September). Außerhalb der Badezone und der Saison ist der gesamte Strand für angeleinte Hunde geöffnet.",
+          "petPolicyDe": "An der Leine am Strand; verboten innerhalb der beaufsichtigten Sommer-Badezone (Jun–Sep)",
+          "seasonDe": "Ganzjährig außerhalb der beaufsichtigten Zone",
+          "amenitiesDe": "Kostenloser Parkplatz, nur im Sommer geöffnetes Strandrestaurant (keine Hunde drinnen), kein Schatten",
+          "tipDe": "Gehen Sie vom Parkplatz aus nach Osten, um die Familien-Badezone innerhalb von 10 Minuten hinter sich zu lassen; außerhalb der Saison (Oktober–Mai) sind die gesamten 25 km hundeoffen."
         },
         {
           "name": "Digue à la Mer",
@@ -575,7 +666,12 @@
           "tipFr": "Emportez 1 litre d'eau par 10 kg de chien en plus de votre eau ; la digue n'a aucune ombre et le mistral déshydrate vite.",
           "tipEs": "Lleva 1 litro de agua por cada 10 kg de perro además de la tuya; el dique no tiene sombra y el mistral deshidrata rápido.",
           "tipPt": "Leve 1 litro de água por cada 10 kg de cão além da sua; o dique não tem sombra e o mistral desidrata depressa.",
-          "googleMapsUrl": "https://maps.google.com/?q=Phare+de+la+Gacholle"
+          "googleMapsUrl": "https://maps.google.com/?q=Phare+de+la+Gacholle",
+          "descriptionDe": "Ein 20 km langer Deichweg quer durch das Nationale Naturreservat Camargue, vom Leuchtturm Phare de la Gacholle bis zum Meer, mit Brackwasserlagunen, rosa Flamingos, Reihern und Seeschwalben auf beiden Seiten. Nur für Fußgänger und Radfahrer, keine Autos. Das Tourismusbüro Arles bestätigt, dass Hunde an der Leine auf dem Deich toleriert werden; die geschützte Dünenzone auf der Meerseite ist strikt gesperrt, auch zu Fuß.",
+          "petPolicyDe": "Hunde an der Leine auf dem Deichweg; geschütztes Dünenreservat für Hunde und Menschen gesperrt",
+          "seasonDe": "Am besten September–Mai; im Juni–August sehr heiß und exponiert",
+          "amenitiesDe": "Kein Schatten, kein Wasser; Informationspunkt am Leuchtturm Gacholle",
+          "tipDe": "Führen Sie 1 Liter Wasser pro 10 kg Hundegewicht plus Ihr eigenes mit; der Deich bietet keinerlei Schatten, und der Mistralwind dehydriert schnell."
         }
       ],
       "tipsEn": [
@@ -653,6 +749,22 @@
           "q": "O dique da Camarga é seguro para um cão no verão?",
           "a": "É exposto e sem sombra. De 15 junho a 15 setembro, ande apenas ao nascer ou ao pôr-do-sol e leve 1 L de água por cada 10 kg de cão. O mistral acelera a desidratação."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Arles",
+      "introDe": "Arles selbst liegt im Landesinneren an der Rhône, doch der Regionale Naturpark Camargue bringt zwei der eindrucksvollsten hundetoleranten Wildstrände Südfrankreichs in nur 40 Autominuten Reichweite. Das offizielle Tourismusbüro von Arles veröffentlicht die Hunderegeln für beide: Plage de Piémanson und Plage de Beauduc. Beide gehören zum geschützten Delta, beide erfordern das Aufsammeln von Kot, und beide sind unbeaufsichtigte Wildstrände außerhalb der offiziellen Sommer-Badezonen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde an der Plage de Beauduc erlaubt?",
+          "a": "Ja. Das offizielle Tourismusbüro von Arles bestätigt, dass Hunde an der Leine am Parkplatz, am hinteren Strand und am Deich toleriert werden und am Hauptstrand selbst frei laufen dürfen. Wasser und Kotbeutel mitbringen, es gibt keine Einrichtungen."
+        },
+        {
+          "q": "Darf mein Hund in Piémanson im Sommer schwimmen?",
+          "a": "Hunde sind in der beaufsichtigten Sommer-Badezone verboten, die mit Bojen markiert ist (Juni bis September). Gehen Sie vom Parkplatz aus 10 Minuten nach Osten, um die Zone zu verlassen; außerhalb der Saison ist der gesamte Strand geöffnet."
+        },
+        {
+          "q": "Ist der Camargue-Deich im Sommer sicher für Hunde?",
+          "a": "Er ist exponiert und schattenlos. Von Mitte Juni bis Mitte September nur bei Sonnenauf- oder -untergang gehen und 1 Liter Wasser pro 10 kg Hundegewicht mitführen. Der Mistralwind beschleunigt die Dehydrierung."
+        }
       ]
     },
     "vets": {
@@ -689,7 +801,11 @@
           "tipFr": "Le marché du samedi sur le Boulevard des Lices double la demande de stationnement ; venez à pied depuis le centre, la clinique est à 8 minutes des Arènes.",
           "tipEs": "El mercado del sábado en el Boulevard des Lices duplica la demanda de aparcamiento; ven a pie desde el centro, la clínica está a 8 minutos de las Arenas.",
           "tipPt": "O mercado de sábado no Boulevard des Lices duplica a procura de estacionamento; venha a pé do centro, a clínica fica a 8 minutos das Arenas.",
-          "googleMapsUrl": "https://maps.google.com/?q=26+boulevard+Emile+Combes+Arles"
+          "googleMapsUrl": "https://maps.google.com/?q=26+boulevard+Emile+Combes+Arles",
+          "descriptionDe": "Eine Allgemeinpraxis am Ringboulevard direkt außerhalb des historischen Zentrums, gelistet auf der eigenen Hundereise-Seite des Tourismusbüros Arles. Konsultationen, Impfungen, Operationen und Bildgebung zu den üblichen Öffnungszeiten; Notfälle außerhalb der Öffnungszeiten werden über die regionale Bereitschaftsnummer 04 27 04 02 72 vermittelt.",
+          "petPolicyDe": "Alle Haustiere; EU-Heimtierausweis akzeptiert; touristische Konsultationen willkommen",
+          "servicesDe": "Konsultationen, Operationen, Bildgebung, Impfungen",
+          "tipDe": "Der Samstagsmarkt am Boulevard des Lices verdoppelt die Parkplatznachfrage; kommen Sie zu Fuß vom Zentrum, die Praxis ist 8 Minuten von der Arena entfernt."
         },
         {
           "name": "Clinique Vétérinaire de Trinquetaille",
@@ -715,7 +831,11 @@
           "tipFr": "Trinquetaille offre du stationnement gratuit hors matin de marché ; utile en arrivant de Camargue si les cliniques du centre sont pleines.",
           "tipEs": "Trinquetaille tiene aparcamiento gratuito fuera de las mañanas de mercado; útil al volver de la Camarga si las clínicas del centro están llenas.",
           "tipPt": "Trinquetaille tem estacionamento gratuito fora das manhãs de mercado; útil ao chegar da Camarga se as clínicas do centro estiverem cheias.",
-          "googleMapsUrl": "https://maps.google.com/?q=1+chemin+du+Cigalon+Arles"
+          "googleMapsUrl": "https://maps.google.com/?q=1+chemin+du+Cigalon+Arles",
+          "descriptionDe": "Eine Klinik am rechten Rhône-Ufer im Viertel Trinquetaille, gelistet vom Tourismusbüro Arles. Konsultationen und kleinere Operationen während der Öffnungszeiten; Notfälle außerhalb der Öffnungszeiten werden an die regionale Bereitschaftsnummer weitergeleitet. Praktisch für Besucher, die in Trinquetaille wohnen oder mit dem Auto über die A54 anreisen.",
+          "petPolicyDe": "Alle Haustiere; EU-Heimtierausweis akzeptiert",
+          "servicesDe": "Konsultationen, Impfungen, kleinere Operationen",
+          "tipDe": "In Trinquetaille gibt es außerhalb der Marktvormittage kostenlose Straßenparkplätze; nützlich, wenn Sie aus der Camargue kommen und die zentralen Praxen ausgebucht sind."
         },
         {
           "name": "Clinique Vétérinaire des Alyscamps",
@@ -741,7 +861,11 @@
           "tipFr": "Appelez avant ; le cabinet centralise souvent les urgences du samedi après-midi via l'astreinte régionale.",
           "tipEs": "Llama primero; la clínica suele centralizar las urgencias del sábado tarde por la guardia regional.",
           "tipPt": "Telefone primeiro; a clínica costuma concentrar as urgências de sábado à tarde pela escala regional.",
-          "googleMapsUrl": "https://maps.google.com/?q=39+avenue+des+Arches+Arles"
+          "googleMapsUrl": "https://maps.google.com/?q=39+avenue+des+Arches+Arles",
+          "descriptionDe": "Eine größere Praxis in der Gewerbezone Fourchon südlich der Stadt, gelistet vom Tourismusbüro Arles. Bildgebung, Operationen, Zahnbehandlung und eigene Parkplätze vor Ort; Notfälle außerhalb der Öffnungszeiten werden über die regionale 24/7-Bereitschaftsnummer (04 27 04 02 72) behandelt. Die am besten erreichbare Klinik, wenn Sie mit dem Auto anreisen oder außerhalb der historischen Mauern wohnen.",
+          "petPolicyDe": "Alle Haustiere; EU-Heimtierausweis akzeptiert; englischsprachiges Personal für Touristen",
+          "servicesDe": "Bildgebung, Operationen, Zahnbehandlung, Impfungen, 24/7-Notfallvermittlung",
+          "tipDe": "Vorher anrufen; die Praxis bündelt Samstagnachmittag-Notfälle häufig über die regionale Hotline."
         }
       ],
       "tipsEn": [
@@ -819,6 +943,22 @@
           "q": "Posso verificar microchip e carraças antes de passar os Pirinéus?",
           "a": "Sim, as três clínicas de Arles fazem leitura de microchip e revisão de carraças em consulta rápida; ligue no verão para confirmar marcação."
         }
+      ],
+      "titleDe": "Tierärztliche Versorgung in Arles",
+      "introDe": "Das Tourismusbüro Arles veröffentlicht eine kurze Liste empfohlener Tierarztpraxen in der Stadt, die das historische Zentrum, Trinquetaille und die Gewerbezone Fourchon abdecken. Eine regionale 24/7-Notfallhotline (04 27 04 02 72) leitet zur nächsten diensthabenden Praxis weiter, und auch die nationale tierärztliche Notrufnummer 3115 funktioniert in der gesamten Provence.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Arles einen 24/7-Notfalltierarzt?",
+          "a": "Ja. Rufen Sie 04 27 04 02 72 an (regionale 24/7-Bereitschaftshotline), die zur nächsten diensthabenden Praxis in Arles oder Nîmes weiterleitet. Auch die nationale Nummer 3115 funktioniert."
+        },
+        {
+          "q": "Behandelt ein Tierarzt in Arles einen Hund mit ausländischem Pass?",
+          "a": "Ja. Alle drei vom Tourismusbüro Arles gelisteten Praxen akzeptieren EU-Heimtierausweise und bieten Standardkonsultationen und Impfungen für reisende Tiere an."
+        },
+        {
+          "q": "Kann ich vor der Überquerung der Pyrenäen eine Zecken- oder Mikrochip-Kontrolle machen lassen?",
+          "a": "Ja, jede der drei Praxen in Arles kann am selben Tag eine schnelle Mikrochip-Auslesung und Zeckenkontrolle durchführen; rufen Sie im Sommer vorab an, um einen Termin zu bestätigen."
+        }
       ]
     },
     "attractions": {
@@ -850,7 +990,10 @@
           "tipFr": "Placez-vous au panneau Van Gogh après la tombée du jour pour voir la lumière jaune du café sur le bleu profond du ciel ; l'effet de 1888 fonctionne encore.",
           "tipEs": "Ponte en el panel de Van Gogh tras anochecer para ver la luz amarilla del café sobre el azul profundo del cielo; el efecto de 1888 sigue funcionando.",
           "tipPt": "Coloque-se no painel Van Gogh depois do anoitecer para ver a luz amarela do café sobre o azul profundo do céu; o efeito de 1888 ainda funciona.",
-          "googleMapsUrl": "https://maps.google.com/?q=Place+du+Forum+Arles"
+          "googleMapsUrl": "https://maps.google.com/?q=Place+du+Forum+Arles",
+          "descriptionDe": "Der Platz, den Van Gogh in seinem Werk Café-Terrasse am Abend malte, mit der noch immer vorhandenen ockerfarbenen Markise. Platanen, Cafés auf drei Seiten und ein offener gepflasterter Platz in der Mitte, der einfachste Stopp in Arles mit einem angeleinten Hund zu jeder Tageszeit. Statue von Frédéric Mistral in der Mitte und eine dauerhafte Tafel, die das Van-Gogh-Gemälde vom Originalstandort aus zeigt.",
+          "petPolicyDe": "Öffentlicher Platz; Hunde an der Leine überall auf dem Platz willkommen",
+          "tipDe": "Stellen Sie sich nach Einbruch der Dunkelheit an die Van-Gogh-Tafel, um das gelbe Café-Licht vor dem tiefblauen Himmel zu sehen; der ursprüngliche Effekt von 1888 wirkt noch immer."
         },
         {
           "name": "Exterior of the Arènes (Amphithéâtre romain)",
@@ -871,7 +1014,10 @@
           "tipFr": "Les jours de corrida (Feria de Pâques et Feria du Riz en septembre) les rues alentour ferment à tout visiteur ; vérifiez le calendrier des Arènes avant.",
           "tipEs": "Los días de corrida (Feria de Pascua y Feria du Riz en septiembre) las calles cercanas cierran a todo visitante; consulta el calendario de las Arenas antes.",
           "tipPt": "Nos dias de corrida (Feria da Páscoa e Feria du Riz em setembro) as ruas em redor fecham a todos os visitantes; consulte o calendário das Arenas antes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Arenes+d%27Arles"
+          "googleMapsUrl": "https://maps.google.com/?q=Arenes+d%27Arles",
+          "descriptionDe": "Das Amphitheater aus dem 1. Jahrhundert, in dem noch immer jedes Ostern die Stierkämpfe der Feria de Pâques stattfinden, ist das visuelle Wahrzeichen von Arles. Das Tourismusbüro Arles stellt klar: Hunde (außer Blinden- und Assistenzhunde) sind NICHT im kostenpflichtigen Denkmal zugelassen. Die vollständige Außenrunde ist frei zugänglich und kostenlos, mit zwei Bogenreihen, die über die Altstadt blicken; machen Sie diese stattdessen an der Leine.",
+          "petPolicyDe": "Hunde NICHT im kostenpflichtigen Denkmal zugelassen (Blinden-/Assistenzhunde ausgenommen); kostenlose Außenrunde für angeleinte Hunde offen",
+          "tipDe": "An Corrida-Tagen (Feria de Pâques und Feria du Riz im September) sind die umliegenden Straßen für alle Besucher gesperrt; prüfen Sie den Arena-Kalender, bevor Sie hinuntergehen."
         },
         {
           "name": "Espace Van Gogh courtyard",
@@ -892,7 +1038,10 @@
           "tipFr": "La meilleure lumière est entre 10h et 11h30 quand le soleil prend le mur ocre ; le banc sud-est est l'emplacement exact d'où Van Gogh a peint.",
           "tipEs": "La mejor luz es entre las 10:00 y las 11:30 cuando el sol toma el muro ocre; el banco sureste es el punto exacto desde donde pintó Van Gogh.",
           "tipPt": "A melhor luz é entre as 10h e as 11h30 quando o sol toma a parede ocre; o banco sudeste é o ponto exacto de onde Van Gogh pintou.",
-          "googleMapsUrl": "https://maps.google.com/?q=Espace+Van+Gogh+Arles"
+          "googleMapsUrl": "https://maps.google.com/?q=Espace+Van+Gogh+Arles",
+          "descriptionDe": "Der Kreuzganghof des Krankenhauses, in dem Van Gogh nach dem Ohr-Zwischenfall im Dezember 1888 behandelt wurde, restauriert nach dem Gemälde Le jardin de l'hôtel de Dieu d'Arles: ein versenkter Garten mit geometrischen Beeten, einem zentralen Brunnen und dem Bogengang, der alle vier Seiten umgibt. Freier Eintritt. Der Bogengang und die umliegenden Wege sind öffentlich und heißen angeleinte Hunde willkommen; die kleine Bibliothek im Obergeschoss nicht.",
+          "petPolicyDe": "Offener Innenhof und Bogengang heißen angeleinte Hunde willkommen; Bibliothek und Geschäfte im Obergeschoss nicht",
+          "tipDe": "Das beste Licht ist zwischen 10:00 und 11:30 Uhr, wenn die Sonne die ockergelben Wände trifft; die Bank im Südosten ist genau die Stelle, von der aus Van Gogh malte."
         }
       ],
       "tipsEn": [
@@ -970,6 +1119,22 @@
           "q": "O meu cão pode ver as corridas a partir do exterior das Arenas?",
           "a": "Nos dias de corrida (Feria da Páscoa e Feria du Riz) todo o perímetro é fechado a visitantes sem bilhete e a multidão torna-o inadequado para um cão. Venha num dia sem feria."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Arles",
+      "introDe": "Arles vereint mehr UNESCO-Römererbe auf 1 km² als fast jede andere französische Stadt: das Amphitheater Arènes, das Théâtre Antique, die Thermes de Constantin und die Nekropole Alyscamps liegen alle innerhalb von zehn Gehminuten. Das Tourismusbüro Arles stellt klar, dass Hunde (außer Blinden- und Assistenzhunde) nicht in kostenpflichtige Denkmäler und Museen dürfen, aber die umliegenden Plätze, Stadtmauern und Van-Gogh-Blickachsen sind alle im Freien und für angeleinte Hunde zugänglich.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund mit in die Arènes d'Arles?",
+          "a": "Nein. Das Tourismusbüro Arles stellt ausdrücklich klar, dass Hunde außer Blinden- und Assistenzhunden nicht in Denkmäler und Museen dürfen. Gehen Sie stattdessen die kostenlose Außenrunde."
+        },
+        {
+          "q": "Ist der Innenhof des Espace Van Gogh kostenlos mit Hund zugänglich?",
+          "a": "Ja. Der Kreuzganghof ist frei zugänglich, tagsüber geöffnet und heißt angeleinte Hunde willkommen. Nur die Bibliothek und die Geschäfte im Obergeschoss sind tabu."
+        },
+        {
+          "q": "Kann mein Hund die Corridas in der Arena von außen beobachten?",
+          "a": "An Corrida-Tagen (Feria de Pâques und Feria du Riz) ist der gesamte Umkreis für alle Besucher ohne Ticket gesperrt, und der Andrang macht ihn für jeden Hund ungeeignet. Besuchen Sie einen Tag ohne Feria."
+        }
       ]
     },
     "petsitting": {
@@ -1003,7 +1168,11 @@
           "tipFr": "Réservez au moins 48h à l'avance en juillet-août et pendant la Feria de Pâques ; les meilleurs profils partent en premier.",
           "tipEs": "Reserva al menos 48 h antes en julio-agosto y semana de Feria de Pascua; los mejores perfiles se llenan primero.",
           "tipPt": "Reserve com pelo menos 48 h de antecedência em julho-agosto e semana da Feria da Páscoa; os melhores perfis enchem primeiro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Arles+France"
+          "googleMapsUrl": "https://maps.google.com/?q=Arles+France",
+          "descriptionDe": "Rover ist die größte internationale Haustierbetreuungs-Plattform in Frankreich und listet mehr als 150 verifizierte Hundesitter, die in Arles Unterbringung, Tagesbetreuung, Spaziergänge und Hausbesuche anbieten. Der Medianpreis liegt bei etwa 18 EUR pro Nacht für die Unterbringung; Versicherung und 24/7-Tierarzt-Hotline sind bei jeder Buchung inbegriffen. Profilfilter decken kleine/mittlere/große Hunde, Gartenzugang und Zuhause-oder-Gastgeber-Präferenz ab.",
+          "petPolicyDe": "Alle Größen; Impfungen und Mikrochip auf der Plattform Pflicht; bewertungsbasierte Prüfung",
+          "servicesDe": "Unterbringung, Tagesbetreuung, Spaziergänge, Hausbesuche",
+          "tipDe": "Buchen Sie mindestens 48 Stunden im Voraus für Juli–August und die Osterferia-Woche; die bestbewerteten Sitter sind zuerst ausgebucht."
         },
         {
           "name": "Holidog Arles",
@@ -1026,7 +1195,11 @@
           "tipFr": "Utilisez la rencontre préalable ; elle est gratuite et c'est le seul moyen de valider une compatibilité avec un chien anxieux.",
           "tipEs": "Usa el encuentro previo (rencontre préalable); es gratuito y la única forma de validar la química con un perro ansioso.",
           "tipPt": "Use o encontro prévio (rencontre préalable); é gratuito e a única forma de validar a compatibilidade com um cão ansioso.",
-          "googleMapsUrl": "https://maps.google.com/?q=Arles+France"
+          "googleMapsUrl": "https://maps.google.com/?q=Arles+France",
+          "descriptionDe": "Ein französischer Spezialist, der mehr als 250 Gastfamilien in der Region Arles für Unterbringung, Tagesbetreuung und Spaziergänge listet, mit Schwerpunkt auf Gastfamilien statt Pensions-Unterbringung. Durchschnittspreis etwa 21 EUR pro Nacht, eine übliche 5-Tage-Buchung kostet rund 89 EUR. Versicherung und 24/7-Tierarztunterstützung sind bei jeder Buchung inbegriffen.",
+          "petPolicyDe": "Gastfamilien-Modell; Impfungen + Mikrochip erforderlich; Kennenlerntreffen vor der Buchung",
+          "servicesDe": "Unterbringung, Tagesbetreuung, Spaziergänge",
+          "tipDe": "Nutzen Sie die Funktion für ein Kennenlerntreffen (rencontre préalable); sie ist kostenlos und die einzige Möglichkeit, die Chemie für einen ängstlichen Hund vorab zu prüfen."
         },
         {
           "name": "Animaute Arles",
@@ -1049,7 +1222,11 @@
           "tipFr": "Pour les semaines de Feria (Pâques et septembre), réservez au moins deux semaines à l'avance ; l'offre locale est saturée par la demande des hôtels.",
           "tipEs": "Para las semanas de Feria (Pascua y septiembre), reserva con al menos dos semanas de antelación; la oferta local se satura con la demanda hotelera.",
           "tipPt": "Para as semanas de Feria (Páscoa e setembro), reserve com pelo menos duas semanas de antecedência; a oferta local satura-se com a procura hoteleira.",
-          "googleMapsUrl": "https://maps.google.com/?q=Arles+France"
+          "googleMapsUrl": "https://maps.google.com/?q=Arles+France",
+          "descriptionDe": "Eine französische landesweite Haustierbetreuungs-Plattform mit starker Präsenz in der Provence, die in Arles Unterbringung, Tagesbetreuung, Spaziergänge und Hausbesuche anbietet. Typische Preise liegen bei 98 bis 154 EUR pro Woche für die Unterbringung beim Sitter zu Hause und 154 bis 252 EUR für zwei Wochen. Zu den Gastgebern gehören sowohl professionell geschulte Sitter als auch Familienhaushalte, mit geprüftem Impfstatus.",
+          "petPolicyDe": "Alle Größen; Impfung und Mikrochip erforderlich; Versicherung inbegriffen",
+          "servicesDe": "Unterbringung, Tagesbetreuung, Spaziergänge, Hausbesuche",
+          "tipDe": "Für die Feria-Woche (Ostern und September) mindestens zwei Wochen im Voraus buchen; das lokale Sitter-Angebot ist durch die Nachfrage der Hotelgäste überlastet."
         }
       ],
       "tipsEn": [
@@ -1127,6 +1304,22 @@
           "q": "Posso deixar o meu cão durante a Feria da Páscoa?",
           "a": "Sim, mas reserve com pelo menos duas semanas. A procura hoteleira satura a oferta local; os atrasados são rotineiramente recusados."
         }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Arles",
+      "introDe": "Arles hat keine eigene Hundepension innerhalb der Stadtmauern, aber die großen französischen und paneuropäischen Haustierbetreuungs-Plattformen verfügen über ein starkes lokales Angebot. Für einen Halbtagesbesuch im Inneren der Arena, eine lange Radtour durch die Camargue oder einen Corrida-Abend, an dem der Andrang für Hunde unangenehm ist, können Sie morgens einen Sitter buchen und ihn zum Abendessen wieder abholen. Die durchschnittlichen Preise in Arles liegen bei etwa 18–21 EUR pro Nacht für die Unterbringung und 11–15 EUR für einen einstündigen Spaziergang.",
+      "faqsDe": [
+        {
+          "q": "Gibt es innerhalb von Arles eine Hundepension?",
+          "a": "Nein. Innerhalb der historischen Mauern gibt es keine klassische Pension; alle praktischen Optionen sind Gastfamilien-Sitter über Rover, Holidog oder Animaute."
+        },
+        {
+          "q": "Wie viel kostet ein Sitter für einen Tag in Arles?",
+          "a": "Tagesbetreuung kostet in der Regel 18 bis 25 EUR pro Tag und ein einstündiger Spaziergang 11 bis 15 EUR. Die Unterbringung kostet auf den großen Plattformen 18 bis 21 EUR pro Nacht."
+        },
+        {
+          "q": "Kann ich meinen Hund während der Osterferia bei einem Sitter lassen?",
+          "a": "Ja, aber buchen Sie mindestens zwei Wochen im Voraus. Die Nachfrage der Hotelgäste zur Feria erschöpft den lokalen Sitter-Pool; Nachzügler werden regelmäßig abgelehnt."
+        }
       ]
     },
     "tips": {
@@ -1189,7 +1382,10 @@
           "descriptionEs": "La guardia veterinaria regional 04 27 04 02 72 cubre Arles, Nîmes y el delta de Bouches-du-Rhône 24/7 y deriva al cabinet de turno más cercano. El 3115 nacional funciona en paralelo. Guarda ambos antes de llegar; la cobertura móvil en el sur de la Camarga es desigual.",
           "descriptionPt": "A escala veterinária regional 04 27 04 02 72 cobre Arles, Nîmes e o delta de Bouches-du-Rhône 24/7 e encaminha para a clínica de turno mais próxima. O 3115 nacional funciona em paralelo. Guarde ambos antes de chegar; a cobertura móvel no sul da Camarga é irregular."
         }
-      ]
+      ],
+      "titleDe": "Reisetipps mit Haustier für Arles",
+      "introDe": "Arles ist eine der wenigen französischen UNESCO-Städte, die eine eigene Hundereise-Seite auf der offiziellen Tourismusbüro-Website veröffentlicht. Die Regeln sind klar: überall in der Stadt Leinenpflicht, Zutritt zu kostenpflichtigen Denkmälern verboten, zahlreiche Kotbeutelspender, und die Camargue-Wildstrände eine kurze Fahrt südlich. Ein paar zusätzliche Hinweise für Reisende.",
+      "faqsDe": []
     }
   }
 }

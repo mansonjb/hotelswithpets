@@ -39,7 +39,11 @@
           "tipFr": "Réservez la table de cour pour le dîner au coucher du soleil ; la vieille porte du port est illuminée à partir de 20h et forme un fond extraordinaire pour une soirée avec votre chien",
           "tipEs": "Reserva la mesa del patio para la cena al atardecer; la antigua puerta del puerto está iluminada desde las 20:00 y hace un fondo extraordinario para una tarde con tu perro",
           "tipPt": "Reserve a mesa do pátio para o jantar ao pôr do sol; a antiga porta do porto está iluminada a partir das 20h00 e forma um fundo extraordinário para uma tarde com o seu cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Kaleici+Sofrasi+Antalya+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Kaleici+Sofrasi+Antalya+Turkey",
+          "descriptionDe": "Ein angesehenes osmanisches Gartenrestaurant in einem restaurierten Steinhof in Kaleiçi. Traditionelle anatolische Gerichte: Patlıcan Kebab, langsam gegartes Lamm, gefüllte Weinblätter. Der Innenhof liegt im Schatten von Feigenbäumen, und Hunde lassen sich problemlos am Tisch nieder. Eine der stimmungsvollsten hundefreundlichen Adressen an der türkischen Mittelmeerküste.",
+          "petPolicyDe": "Hunde im Innenhofgarten willkommen",
+          "mustTryDe": "Patlıcan Kebab, langsam gegarte Lammschulter, kalte Meze-Auswahl mit Pide-Brot",
+          "tipDe": "Buchen Sie den Innenhoftisch zum Abendessen bei Sonnenuntergang; das alte Hafentor wird ab 20:00 Uhr beleuchtet und bietet eine außergewöhnliche Kulisse für einen Abend mit Ihrem Hund."
         },
         {
           "name": "Yat Limanı Marina Café",
@@ -65,28 +69,84 @@
           "tipFr": "Le port est au bas d'une falaise de 60m ; descendez les marches de la route romaine avec votre chien plutôt que par le tunnel moderne avec ascenseur pour arriver correctement dans la vieille ville",
           "tipEs": "El puerto está al pie de un acantilado de 60 m; baja las escaleras de la calzada romana con tu perro en lugar de por el túnel moderno con ascensor para llegar correctamente al casco antiguo",
           "tipPt": "O porto fica no fundo de um penhasco de 60 m; desça os degraus da estrada romana com o seu cão em vez do túnel moderno com elevador para chegar devidamente à cidade velha",
-          "googleMapsUrl": "https://maps.google.com/?q=Kaleici+Marina+Antalya+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Kaleici+Marina+Antalya+Turkey",
+          "descriptionDe": "Ein Café am Wasser am Rande des römischen Hafens von Antalya, wo saisonal Gulets und Yachten anlegen. Große Terrasse direkt über dem Wasser. Hunde sitzen auf dem Oberdeck mit Blick auf das Taurusgebirge und die blaue Bucht. Gut geeignet vom Frühstück bis zu späten Drinks.",
+          "petPolicyDe": "Hunde auf der Terrassendeck willkommen",
+          "mustTryDe": "Türkisches Frühstücksbrett (Simit, Honig, Weißkäse, Oliven), frischer Granatapfelsaft, Efes-Bier bei Sonnenuntergang",
+          "tipDe": "Der Hafen liegt unterhalb einer 60 m hohen Klippe; gehen Sie mit Ihrem Hund die römische Straßentreppe statt den modernen Aufzugstunnel hinunter, um richtig in der Altstadt anzukommen."
         }
       ],
-      "tipsEn": ["Kaleiçi (the old walled town) is the most dog-friendly dining zone; the narrow garden terraces and courtyard restaurants all tolerate well-behaved dogs at outdoor tables.", "The Lara beach hotel strip (10 km east) has large resort hotels most of which do not permit dogs; stick to Kaleiçi for dog-friendly dining.", "Turkish breakfast (kahvaltı) is one of the world's best dog-welcoming meals: bread, cheese, eggs, olives at an outdoor table, and order extra plain white cheese for your dog."],
-      "tipsFr": ["Kaleiçi (la vieille ville fortifiée) est la zone gastronomique la plus dog-friendly ; les terrasses avec jardins étroits et les restaurants en cour tolèrent tous les chiens bien éduqués aux tables extérieures.", "La bande hôtelière de la plage de Lara (10 km à l'est) dispose de grands hôtels de villégiature dont la plupart n'acceptent pas les chiens ; restez à Kaleiçi pour les repas dog-friendly.", "Le petit-déjeuner turc (kahvaltı) est l'un des meilleurs repas dog-friendly au monde : pain, fromage, œufs, olives à une table extérieure, commandez du fromage blanc nature supplémentaire pour votre chien."],
-      "tipsEs": ["Kaleiçi (el antiguo barrio amurallado) es la zona gastronómica más dog-friendly; las terrazas con jardines estrechos y los restaurantes de patio toleran a todos los perros bien educados en las mesas exteriores.", "La franja de hoteles de la playa de Lara (10 km al este) tiene grandes hoteles resort la mayoría de los cuales no permiten perros; quédate en Kaleiçi para comer con tu perro.", "El desayuno turco (kahvaltı) es una de las mejores comidas dog-friendly del mundo: pan, queso, huevos, aceitunas en una mesa exterior, pide queso blanco natural extra para tu perro."],
-      "tipsPt": ["Kaleiçi (a antiga cidade amuralhada) é a zona gastronómica mais dog-friendly; as esplanadas com jardins estreitos e os restaurantes de pátio toleram todos os cães bem-comportados nas mesas exteriores.", "A faixa de hotéis de praia de Lara (10 km a leste) tem grandes hotéis resort a maioria dos quais não permite cães; fique em Kaleiçi para jantar com o seu cão.", "O pequeno-almoço turco (kahvaltı) é uma das melhores refeições dog-friendly do mundo: pão, queijo, ovos, azeitonas numa mesa exterior, peça queijo branco natural extra para o seu cão."],
+      "tipsEn": [
+        "Kaleiçi (the old walled town) is the most dog-friendly dining zone; the narrow garden terraces and courtyard restaurants all tolerate well-behaved dogs at outdoor tables.",
+        "The Lara beach hotel strip (10 km east) has large resort hotels most of which do not permit dogs; stick to Kaleiçi for dog-friendly dining.",
+        "Turkish breakfast (kahvaltı) is one of the world's best dog-welcoming meals: bread, cheese, eggs, olives at an outdoor table, and order extra plain white cheese for your dog."
+      ],
+      "tipsFr": [
+        "Kaleiçi (la vieille ville fortifiée) est la zone gastronomique la plus dog-friendly ; les terrasses avec jardins étroits et les restaurants en cour tolèrent tous les chiens bien éduqués aux tables extérieures.",
+        "La bande hôtelière de la plage de Lara (10 km à l'est) dispose de grands hôtels de villégiature dont la plupart n'acceptent pas les chiens ; restez à Kaleiçi pour les repas dog-friendly.",
+        "Le petit-déjeuner turc (kahvaltı) est l'un des meilleurs repas dog-friendly au monde : pain, fromage, œufs, olives à une table extérieure, commandez du fromage blanc nature supplémentaire pour votre chien."
+      ],
+      "tipsEs": [
+        "Kaleiçi (el antiguo barrio amurallado) es la zona gastronómica más dog-friendly; las terrazas con jardines estrechos y los restaurantes de patio toleran a todos los perros bien educados en las mesas exteriores.",
+        "La franja de hoteles de la playa de Lara (10 km al este) tiene grandes hoteles resort la mayoría de los cuales no permiten perros; quédate en Kaleiçi para comer con tu perro.",
+        "El desayuno turco (kahvaltı) es una de las mejores comidas dog-friendly del mundo: pan, queso, huevos, aceitunas en una mesa exterior, pide queso blanco natural extra para tu perro."
+      ],
+      "tipsPt": [
+        "Kaleiçi (a antiga cidade amuralhada) é a zona gastronómica mais dog-friendly; as esplanadas com jardins estreitos e os restaurantes de pátio toleram todos os cães bem-comportados nas mesas exteriores.",
+        "A faixa de hotéis de praia de Lara (10 km a leste) tem grandes hotéis resort a maioria dos quais não permite cães; fique em Kaleiçi para jantar com o seu cão.",
+        "O pequeno-almoço turco (kahvaltı) é uma das melhores refeições dog-friendly do mundo: pão, queijo, ovos, azeitonas numa mesa exterior, peça queijo branco natural extra para o seu cão."
+      ],
       "faqsEn": [
-        { "q": "Are dogs allowed in Kaleiçi restaurants?", "a": "On outdoor terraces and in courtyard gardens, yes. Indoor dining rooms exclude dogs everywhere in Turkey. The old town's narrow lanes and garden terraces are naturally dog-friendly; staff are accustomed to European visitors with dogs." },
-        { "q": "Can my dog eat Turkish food?", "a": "Plain grilled lamb, chicken, and white cheese (beyaz peynir) in small amounts are safe. Avoid köfte spices, onion-heavy dishes, and all pastries. Watermelon (karpuz), widely sold on the street in summer, is a good dog treat." }
+        {
+          "q": "Are dogs allowed in Kaleiçi restaurants?",
+          "a": "On outdoor terraces and in courtyard gardens, yes. Indoor dining rooms exclude dogs everywhere in Turkey. The old town's narrow lanes and garden terraces are naturally dog-friendly; staff are accustomed to European visitors with dogs."
+        },
+        {
+          "q": "Can my dog eat Turkish food?",
+          "a": "Plain grilled lamb, chicken, and white cheese (beyaz peynir) in small amounts are safe. Avoid köfte spices, onion-heavy dishes, and all pastries. Watermelon (karpuz), widely sold on the street in summer, is a good dog treat."
+        }
       ],
       "faqsFr": [
-        { "q": "Les chiens sont-ils autorisés dans les restaurants de Kaleiçi ?", "a": "En terrasses extérieures et dans les jardins en cour, oui. Les salles à manger intérieures excluent les chiens partout en Turquie. Les ruelles étroites et les terrasses avec jardins de la vieille ville sont naturellement dog-friendly ; le personnel est habitué aux visiteurs européens avec des chiens." },
-        { "q": "Mon chien peut-il manger de la nourriture turque ?", "a": "L'agneau grillé, le poulet et le fromage blanc (beyaz peynir) en petites quantités sont sans danger. Évitez les épices à köfte, les plats riches en oignons et toutes les pâtisseries. La pastèque (karpuz), largement vendue dans la rue en été, est une bonne friandise pour les chiens." }
+        {
+          "q": "Les chiens sont-ils autorisés dans les restaurants de Kaleiçi ?",
+          "a": "En terrasses extérieures et dans les jardins en cour, oui. Les salles à manger intérieures excluent les chiens partout en Turquie. Les ruelles étroites et les terrasses avec jardins de la vieille ville sont naturellement dog-friendly ; le personnel est habitué aux visiteurs européens avec des chiens."
+        },
+        {
+          "q": "Mon chien peut-il manger de la nourriture turque ?",
+          "a": "L'agneau grillé, le poulet et le fromage blanc (beyaz peynir) en petites quantités sont sans danger. Évitez les épices à köfte, les plats riches en oignons et toutes les pâtisseries. La pastèque (karpuz), largement vendue dans la rue en été, est une bonne friandise pour les chiens."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Se permiten perros en los restaurantes de Kaleiçi?", "a": "En terrazas exteriores y en jardines de patio, sí. Los comedores interiores excluyen a los perros en toda Turquía. Las estrechas callejuelas y las terrazas con jardines del casco antiguo son naturalmente dog-friendly; el personal está acostumbrado a los visitantes europeos con perros." },
-        { "q": "¿Puede comer mi perro comida turca?", "a": "Cordero a la parrilla, pollo y queso blanco (beyaz peynir) en pequeñas cantidades son seguros. Evita las especias del köfte, los platos con mucha cebolla y toda la pastelería. La sandía (karpuz), ampliamente vendida en la calle en verano, es un buen premio para los perros." }
+        {
+          "q": "¿Se permiten perros en los restaurantes de Kaleiçi?",
+          "a": "En terrazas exteriores y en jardines de patio, sí. Los comedores interiores excluyen a los perros en toda Turquía. Las estrechas callejuelas y las terrazas con jardines del casco antiguo son naturalmente dog-friendly; el personal está acostumbrado a los visitantes europeos con perros."
+        },
+        {
+          "q": "¿Puede comer mi perro comida turca?",
+          "a": "Cordero a la parrilla, pollo y queso blanco (beyaz peynir) en pequeñas cantidades son seguros. Evita las especias del köfte, los platos con mucha cebolla y toda la pastelería. La sandía (karpuz), ampliamente vendida en la calle en verano, es un buen premio para los perros."
+        }
       ],
       "faqsPt": [
-        { "q": "Os cães são permitidos nos restaurantes de Kaleiçi?", "a": "Nas esplanadas exteriores e nos jardins de pátio, sim. As salas de jantar interiores excluem cães em toda a Turquia. As ruas estreitas e as esplanadas com jardins da cidade velha são naturalmente dog-friendly; o pessoal está habituado a visitantes europeus com cães." },
-        { "q": "O meu cão pode comer comida turca?", "a": "Borrego grelhado, frango e queijo branco (beyaz peynir) em pequenas quantidades são seguros. Evite as especiarias do köfte, pratos com muita cebola e toda a pastelaria. A melancia (karpuz), amplamente vendida na rua no verão, é um bom petisco para cães." }
+        {
+          "q": "Os cães são permitidos nos restaurantes de Kaleiçi?",
+          "a": "Nas esplanadas exteriores e nos jardins de pátio, sim. As salas de jantar interiores excluem cães em toda a Turquia. As ruas estreitas e as esplanadas com jardins da cidade velha são naturalmente dog-friendly; o pessoal está habituado a visitantes europeus com cães."
+        },
+        {
+          "q": "O meu cão pode comer comida turca?",
+          "a": "Borrego grelhado, frango e queijo branco (beyaz peynir) em pequenas quantidades são seguros. Evite as especiarias do köfte, pratos com muita cebola e toda a pastelaria. A melancia (karpuz), amplamente vendida na rua no verão, é um bom petisco para cães."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Antalya",
+      "introDe": "Die Restaurantszene Antalyas teilt sich zwischen dem terrassenreichen alten Hafenviertel Kaleiçi und der modernen Marina-Promenade. Hunde werden auf Außenterrassen in ganz Kaleiçi weitgehend geduldet, wo die engen Kopfsteinpflastergassen und die osmanischen Hausgärten das Essen mit Hund natürlich und entspannt machen. Der Marina-Boulevard (Atatürk Caddesi) bietet mehrere Restaurants am Wasser mit großen Terrassen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Kaleiçi erlaubt?",
+          "a": "Auf Außenterrassen und in Innenhofgärten ja. Innenräume schließen Hunde überall in der Türkei aus. Die engen Gassen und Terrassengärten der Altstadt sind von Natur aus hundefreundlich; das Personal ist an europäische Besucher mit Hunden gewöhnt."
+        },
+        {
+          "q": "Kann mein Hund türkisches Essen fressen?",
+          "a": "Reines gegrilltes Lamm, Hühnchen und Weißkäse (beyaz peynir) in kleinen Mengen sind unbedenklich. Meiden Sie stark gewürzte Köfte, zwiebelreiche Gerichte und sämtliches Gebäck. Wassermelone (karpuz), im Sommer überall auf der Straße erhältlich, ist ein gutes Leckerli für Hunde."
+        }
       ]
     },
     "parks": {
@@ -118,28 +178,83 @@
           "tipFr": "Promenez-vous dans le parc à 07h00 avant la chaleur ; la lumière du matin sur les montagnes du Taurus est spectaculaire et le parc est vide. Les bancs sur la falaise ont des robinets d'eau pour les chiens en été",
           "tipEs": "Pasea por el parque a las 07:00 antes del calor; la luz de la mañana sobre las montañas Tauro es espectacular y el parque está vacío. Los bancos en lo alto del acantilado tienen grifos de agua para los perros en verano",
           "tipPt": "Passeie no parque às 07h00 antes do calor; a luz da manhã sobre as montanhas Taurus é espetacular e o parque está vazio. Os bancos no topo do penhasco têm torneiras de água para cães no verão",
-          "googleMapsUrl": "https://maps.google.com/?q=Karaalioglu+Park+Antalya+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Karaalioglu+Park+Antalya+Turkey",
+          "descriptionDe": "Antalyas berühmtester Park: ein 70.000 m² großer Klippengarten, 30 m über dem römischen Hafen gelegen mit Blick auf das Taurusgebirge. Rosengärten, alte Kiefern und breite gepflasterte Wege ziehen sich am Klippenrand entlang. Hunde müssen angeleint sein, aber der Weg ist breit und eben; der Blick über die blaue Bucht mit dem schneebedeckten Taurus im Winter ist außergewöhnlich.",
+          "petPolicyDe": "Durchgehende Leinenpflicht",
+          "tipDe": "Gehen Sie um 07:00 Uhr durch den Park, bevor die Hitze kommt; das Morgenlicht auf dem Taurusgebirge ist spektakulär, und der Park ist leer. Die Bänke auf der Klippe haben im Sommer Wasserstellen für Hunde."
         }
       ],
-      "tipsEn": ["The Düden waterfalls (10 km north, Upper Düden) have forested paths alongside the river where dogs walk off-leash; the lower Düden falls over the sea cliff are 12 km east and dogs walk the coastal path freely.", "The Taurus foothills forest roads above Antalya (Güllük Dağı, 20 km) offer cool-temperature hiking with dogs even in July-August when the city is at 35°C.", "The Antalya city beaches (Konyaaltı, Lara) do not permit dogs in peak season (June-September); the Düden coastal park east of Lara has a dog-accessible clifftop walk."],
-      "tipsFr": ["Les chutes de Düden (10 km au nord, Düden supérieur) ont des chemins forestiers le long de la rivière où les chiens se promènent sans laisse ; les chutes inférieures de Düden se jettent dans la mer à 12 km à l'est et les chiens marchent librement sur le chemin côtier.", "Les routes forestières dans les contreforts du Taurus au-dessus d'Antalya (Güllük Dağı, 20 km) offrent des randonnées à température fraîche avec des chiens même en juillet-août quand la ville est à 35°C.", "Les plages de la ville d'Antalya (Konyaaltı, Lara) n'autorisent pas les chiens en haute saison (juin-septembre) ; le parc côtier de Düden à l'est de Lara dispose d'une promenade sur falaise accessible aux chiens."],
-      "tipsEs": ["Las cataratas Düden (10 km al norte, Düden superior) tienen caminos forestales junto al río donde los perros caminan sin correa; las cataratas Düden inferiores caen al mar a 12 km al este y los perros caminan libremente por el camino costero.", "Los caminos forestales de las estribaciones del Tauro sobre Antalya (Güllük Dağı, 20 km) ofrecen senderismo a temperatura fresca con perros incluso en julio-agosto cuando la ciudad está a 35°C.", "Las playas de la ciudad de Antalya (Konyaaltı, Lara) no permiten perros en temporada alta (junio-septiembre); el parque costero Düden al este de Lara tiene un paseo por el acantilado accesible a los perros."],
-      "tipsPt": ["As cascatas de Düden (10 km a norte, Düden superior) têm caminhos florestais ao longo do rio onde os cães caminham sem trela; as cascatas inferiores de Düden caem sobre o penhasco marítimo a 12 km a leste e os cães caminham livremente no caminho costeiro.", "Os caminhos florestais nos contrafortes do Taurus acima de Antalya (Güllük Dağı, 20 km) oferecem caminhadas a temperatura fresca com cães mesmo em julho-agosto quando a cidade está a 35°C.", "As praias da cidade de Antalya (Konyaaltı, Lara) não permitem cães na época alta (junho-setembro); o parque costeiro Düden a leste de Lara tem um passeio no topo do penhasco acessível a cães."],
+      "tipsEn": [
+        "The Düden waterfalls (10 km north, Upper Düden) have forested paths alongside the river where dogs walk off-leash; the lower Düden falls over the sea cliff are 12 km east and dogs walk the coastal path freely.",
+        "The Taurus foothills forest roads above Antalya (Güllük Dağı, 20 km) offer cool-temperature hiking with dogs even in July-August when the city is at 35°C.",
+        "The Antalya city beaches (Konyaaltı, Lara) do not permit dogs in peak season (June-September); the Düden coastal park east of Lara has a dog-accessible clifftop walk."
+      ],
+      "tipsFr": [
+        "Les chutes de Düden (10 km au nord, Düden supérieur) ont des chemins forestiers le long de la rivière où les chiens se promènent sans laisse ; les chutes inférieures de Düden se jettent dans la mer à 12 km à l'est et les chiens marchent librement sur le chemin côtier.",
+        "Les routes forestières dans les contreforts du Taurus au-dessus d'Antalya (Güllük Dağı, 20 km) offrent des randonnées à température fraîche avec des chiens même en juillet-août quand la ville est à 35°C.",
+        "Les plages de la ville d'Antalya (Konyaaltı, Lara) n'autorisent pas les chiens en haute saison (juin-septembre) ; le parc côtier de Düden à l'est de Lara dispose d'une promenade sur falaise accessible aux chiens."
+      ],
+      "tipsEs": [
+        "Las cataratas Düden (10 km al norte, Düden superior) tienen caminos forestales junto al río donde los perros caminan sin correa; las cataratas Düden inferiores caen al mar a 12 km al este y los perros caminan libremente por el camino costero.",
+        "Los caminos forestales de las estribaciones del Tauro sobre Antalya (Güllük Dağı, 20 km) ofrecen senderismo a temperatura fresca con perros incluso en julio-agosto cuando la ciudad está a 35°C.",
+        "Las playas de la ciudad de Antalya (Konyaaltı, Lara) no permiten perros en temporada alta (junio-septiembre); el parque costero Düden al este de Lara tiene un paseo por el acantilado accesible a los perros."
+      ],
+      "tipsPt": [
+        "As cascatas de Düden (10 km a norte, Düden superior) têm caminhos florestais ao longo do rio onde os cães caminham sem trela; as cascatas inferiores de Düden caem sobre o penhasco marítimo a 12 km a leste e os cães caminham livremente no caminho costeiro.",
+        "Os caminhos florestais nos contrafortes do Taurus acima de Antalya (Güllük Dağı, 20 km) oferecem caminhadas a temperatura fresca com cães mesmo em julho-agosto quando a cidade está a 35°C.",
+        "As praias da cidade de Antalya (Konyaaltı, Lara) não permitem cães na época alta (junho-setembro); o parque costeiro Düden a leste de Lara tem um passeio no topo do penhasco acessível a cães."
+      ],
       "faqsEn": [
-        { "q": "Are there dog-friendly beaches near Antalya?", "a": "The main Konyaaltı and Lara beaches forbid dogs in season. The best options are: Phaselis (45 km south, ruins bay, dogs free on the pine-shaded path and rocky coves), Tekirova (50 km south, quieter and more tolerant), and Adrasan (80 km south, very small village beach where dogs are accepted year-round)." },
-        { "q": "Is Kaleiçi good for dog walking?", "a": "Excellent. The old walled town is mostly pedestrianised, paved with cobbles, and navigable by dog at all hours. Best before 09:00 when the lanes are empty. The Roman harbour below is also walkable with dogs on the quayside." }
+        {
+          "q": "Are there dog-friendly beaches near Antalya?",
+          "a": "The main Konyaaltı and Lara beaches forbid dogs in season. The best options are: Phaselis (45 km south, ruins bay, dogs free on the pine-shaded path and rocky coves), Tekirova (50 km south, quieter and more tolerant), and Adrasan (80 km south, very small village beach where dogs are accepted year-round)."
+        },
+        {
+          "q": "Is Kaleiçi good for dog walking?",
+          "a": "Excellent. The old walled town is mostly pedestrianised, paved with cobbles, and navigable by dog at all hours. Best before 09:00 when the lanes are empty. The Roman harbour below is also walkable with dogs on the quayside."
+        }
       ],
       "faqsFr": [
-        { "q": "Y a-t-il des plages dog-friendly près d'Antalya ?", "a": "Les principales plages de Konyaaltı et Lara interdisent les chiens en saison. Les meilleures options sont : Phaselis (45 km au sud, baie des ruines, chiens libres sur le chemin ombragé de pins et les criques rocheuses), Tekirova (50 km au sud, plus calme et plus tolérante) et Adrasan (80 km au sud, très petite plage de village où les chiens sont acceptés toute l'année)." },
-        { "q": "Kaleiçi est-il propice aux promenades avec chien ?", "a": "Excellent. La vieille ville fortifiée est principalement piétonne, pavée de galets et praticable par un chien à toute heure. Mieux avant 09h00 quand les ruelles sont vides. Le port romain en contrebas est également praticable avec des chiens sur le quai." }
+        {
+          "q": "Y a-t-il des plages dog-friendly près d'Antalya ?",
+          "a": "Les principales plages de Konyaaltı et Lara interdisent les chiens en saison. Les meilleures options sont : Phaselis (45 km au sud, baie des ruines, chiens libres sur le chemin ombragé de pins et les criques rocheuses), Tekirova (50 km au sud, plus calme et plus tolérante) et Adrasan (80 km au sud, très petite plage de village où les chiens sont acceptés toute l'année)."
+        },
+        {
+          "q": "Kaleiçi est-il propice aux promenades avec chien ?",
+          "a": "Excellent. La vieille ville fortifiée est principalement piétonne, pavée de galets et praticable par un chien à toute heure. Mieux avant 09h00 quand les ruelles sont vides. Le port romain en contrebas est également praticable avec des chiens sur le quai."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Hay playas dog-friendly cerca de Antalya?", "a": "Las principales playas de Konyaaltı y Lara prohíben los perros en temporada. Las mejores opciones son: Phaselis (45 km al sur, bahía de ruinas, perros libres en el camino sombreado por pinos y las calas rocosas), Tekirova (50 km al sur, más tranquila y tolerante) y Adrasan (80 km al sur, playa de pueblo muy pequeña donde los perros son aceptados todo el año)." },
-        { "q": "¿Kaleiçi es bueno para pasear con perros?", "a": "Excelente. El antiguo barrio amurallado es mayoritariamente peatonal, pavimentado con adoquines y navegable por un perro a cualquier hora. Lo mejor antes de las 09:00 cuando las callejuelas están vacías. El puerto romano de abajo también es accesible con perros en el muelle." }
+        {
+          "q": "¿Hay playas dog-friendly cerca de Antalya?",
+          "a": "Las principales playas de Konyaaltı y Lara prohíben los perros en temporada. Las mejores opciones son: Phaselis (45 km al sur, bahía de ruinas, perros libres en el camino sombreado por pinos y las calas rocosas), Tekirova (50 km al sur, más tranquila y tolerante) y Adrasan (80 km al sur, playa de pueblo muy pequeña donde los perros son aceptados todo el año)."
+        },
+        {
+          "q": "¿Kaleiçi es bueno para pasear con perros?",
+          "a": "Excelente. El antiguo barrio amurallado es mayoritariamente peatonal, pavimentado con adoquines y navegable por un perro a cualquier hora. Lo mejor antes de las 09:00 cuando las callejuelas están vacías. El puerto romano de abajo también es accesible con perros en el muelle."
+        }
       ],
       "faqsPt": [
-        { "q": "Há praias dog-friendly perto de Antalya?", "a": "As principais praias de Konyaaltı e Lara proíbem cães na época. As melhores opções são: Phaselis (45 km a sul, baía das ruínas, cães livres no caminho sombreado por pinheiros e enseadas rochosas), Tekirova (50 km a sul, mais tranquila e tolerante) e Adrasan (80 km a sul, praia de aldeia muito pequena onde os cães são aceites durante todo o ano)." },
-        { "q": "Kaleiçi é bom para passear com cão?", "a": "Excelente. A antiga cidade amuralhada é maioritariamente pedestre, pavimentada com calçada e navegável por um cão a qualquer hora. Melhor antes das 09h00 quando as ruas estão vazias. O porto romano em baixo também é acessível com cães no cais." }
+        {
+          "q": "Há praias dog-friendly perto de Antalya?",
+          "a": "As principais praias de Konyaaltı e Lara proíbem cães na época. As melhores opções são: Phaselis (45 km a sul, baía das ruínas, cães livres no caminho sombreado por pinheiros e enseadas rochosas), Tekirova (50 km a sul, mais tranquila e tolerante) e Adrasan (80 km a sul, praia de aldeia muito pequena onde os cães são aceites durante todo o ano)."
+        },
+        {
+          "q": "Kaleiçi é bom para passear com cão?",
+          "a": "Excelente. A antiga cidade amuralhada é maioritariamente pedestre, pavimentada com calçada e navegável por um cão a qualquer hora. Melhor antes das 09h00 quando as ruas estão vazias. O porto romano em baixo também é acessível com cães no cais."
+        }
+      ],
+      "titleDe": "Grünflächen & Hundespaziergänge in Antalya",
+      "introDe": "Die besten Gebiete für Hundespaziergänge in Antalya sind der Klippenpark Karaalioğlu, die Wasserfallparks von Düden im Norden und die Waldwege der Taurus-Ausläufer über der Stadt. Die Altstadtmauern von Kaleiçi eignen sich hervorragend für einen frühmorgendlichen Spaziergang ohne Leine, bevor die Menschenmengen kommen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es hundefreundliche Strände in der Nähe von Antalya?",
+          "a": "Die Hauptstrände Konyaaltı und Lara verbieten Hunde in der Saison. Die besten Optionen sind: Phaselis (45 km südlich, Ruinenbucht, Hunde frei auf dem schattigen Pinienweg und in felsigen Buchten), Tekirova (50 km südlich, ruhiger und toleranter) und Adrasan (80 km südlich, sehr kleiner Dorfstrand, an dem Hunde ganzjährig akzeptiert werden)."
+        },
+        {
+          "q": "Eignet sich Kaleiçi für Hundespaziergänge?",
+          "a": "Hervorragend. Die alte Stadtmauer ist größtenteils Fußgängerzone, mit Kopfsteinpflaster versehen und zu jeder Tageszeit mit Hund begehbar. Am besten vor 09:00 Uhr, wenn die Gassen leer sind. Der römische Hafen darunter ist ebenfalls mit Hund auf dem Kai begehbar."
+        }
       ]
     },
     "transport": {
@@ -152,25 +267,81 @@
       "introEs": "El aeropuerto de Antalya (AYT) es el aeropuerto turístico más concurrido de Turquía y uno de los cinco primeros de Europa por volumen de pasajeros en verano. Tiene vuelos directos desde la mayoría de las ciudades europeas de abril a octubre. Los perros viajan en bodega; el alquiler de coches está disponible en el aeropuerto y es la mejor opción para explorar la costa.",
       "introPt": "O aeroporto de Antalya (AYT) é o aeroporto turístico mais movimentado da Turquia e um dos cinco maiores da Europa por volume de passageiros no verão. Tem voos diretos da maioria das cidades europeias de abril a outubro. Os cães viajam no porão; o aluguer de carro está disponível no aeroporto e é a melhor opção para explorar a costa.",
       "places": [],
-      "tipsEn": ["Turkey requires a Turkish health certificate (not EU pet passport) issued by an official vet within 10 days of entry. Rabies vaccination must be at least 21 days old. ISO 15-digit microchip required.", "Car hire at Antalya Airport is competitive and strongly recommended; the coastal road (D400) to Kaş (190 km west) or Side (75 km east) passes outstanding scenery and dog-accessible ruins.", "The airport is 12 km east of Kaleiçi; taxi with a dog costs about €15-20. Most taxi drivers will accept dogs in the boot or on a waterproof blanket.", "Antalya is also reachable by overnight sleeper bus from Istanbul (11-12 hours, Kamil Koç or Metro Turizm, small dogs in carriers under the seat accepted)."],
-      "tipsFr": ["La Turquie exige un certificat sanitaire turc (pas de passeport européen pour animaux) délivré par un vétérinaire officiel dans les 10 jours précédant l'entrée. La vaccination contre la rage doit dater d'au moins 21 jours. Puce ISO 15 chiffres obligatoire.", "La location de voiture à l'aéroport d'Antalya est compétitive et fortement recommandée ; la route côtière (D400) vers Kaş (190 km à l'ouest) ou Side (75 km à l'est) offre des paysages exceptionnels et des ruines accessibles aux chiens.", "L'aéroport est à 12 km à l'est de Kaleiçi ; un taxi avec un chien coûte environ 15-20€. La plupart des chauffeurs de taxi acceptent les chiens dans le coffre ou sur une couverture imperméable.", "Antalya est également accessible par bus de nuit couchette depuis Istanbul (11-12 heures, Kamil Koç ou Metro Turizm, petits chiens dans des transportins sous le siège acceptés)."],
-      "tipsEs": ["Turquía requiere un certificado sanitario turco (no pasaporte europeo para mascotas) emitido por un veterinario oficial en los 10 días previos a la entrada. La vacuna antirrábica debe tener al menos 21 días de antigüedad. Se requiere microchip ISO de 15 dígitos.", "El alquiler de coches en el aeropuerto de Antalya es competitivo y muy recomendable; la carretera costera (D400) hacia Kaş (190 km al oeste) o Side (75 km al este) pasa por paisajes excepcionales y ruinas accesibles con perros.", "El aeropuerto está a 12 km al este de Kaleiçi; un taxi con perro cuesta unos 15-20€. La mayoría de los taxistas aceptarán perros en el maletero o en una manta impermeable.", "Antalya también es accesible en autobús nocturno cama desde Estambul (11-12 horas, Kamil Koç o Metro Turizm, se aceptan perros pequeños en transportines bajo el asiento)."],
-      "tipsPt": ["A Turquia requer um certificado sanitário turco (não passaporte europeu para animais) emitido por um veterinário oficial nos 10 dias anteriores à entrada. A vacinação antirrábica deve ter pelo menos 21 dias. É necessário microchip ISO de 15 dígitos.", "O aluguer de carro no aeroporto de Antalya é competitivo e fortemente recomendado; a estrada costeira (D400) para Kaş (190 km a oeste) ou Side (75 km a leste) passa por paisagens excecionais e ruínas acessíveis com cães.", "O aeroporto fica a 12 km a leste de Kaleiçi; um táxi com um cão custa cerca de 15-20€. A maioria dos motoristas de táxi aceitará cães no porta-bagagens ou numa manta impermeável.", "Antalya também é acessível por autocarro cama noturno de Istambul (11-12 horas, Kamil Koç ou Metro Turizm, cães pequenos em transportadores debaixo do assento aceites)."],
+      "tipsEn": [
+        "Turkey requires a Turkish health certificate (not EU pet passport) issued by an official vet within 10 days of entry. Rabies vaccination must be at least 21 days old. ISO 15-digit microchip required.",
+        "Car hire at Antalya Airport is competitive and strongly recommended; the coastal road (D400) to Kaş (190 km west) or Side (75 km east) passes outstanding scenery and dog-accessible ruins.",
+        "The airport is 12 km east of Kaleiçi; taxi with a dog costs about €15-20. Most taxi drivers will accept dogs in the boot or on a waterproof blanket.",
+        "Antalya is also reachable by overnight sleeper bus from Istanbul (11-12 hours, Kamil Koç or Metro Turizm, small dogs in carriers under the seat accepted)."
+      ],
+      "tipsFr": [
+        "La Turquie exige un certificat sanitaire turc (pas de passeport européen pour animaux) délivré par un vétérinaire officiel dans les 10 jours précédant l'entrée. La vaccination contre la rage doit dater d'au moins 21 jours. Puce ISO 15 chiffres obligatoire.",
+        "La location de voiture à l'aéroport d'Antalya est compétitive et fortement recommandée ; la route côtière (D400) vers Kaş (190 km à l'ouest) ou Side (75 km à l'est) offre des paysages exceptionnels et des ruines accessibles aux chiens.",
+        "L'aéroport est à 12 km à l'est de Kaleiçi ; un taxi avec un chien coûte environ 15-20€. La plupart des chauffeurs de taxi acceptent les chiens dans le coffre ou sur une couverture imperméable.",
+        "Antalya est également accessible par bus de nuit couchette depuis Istanbul (11-12 heures, Kamil Koç ou Metro Turizm, petits chiens dans des transportins sous le siège acceptés)."
+      ],
+      "tipsEs": [
+        "Turquía requiere un certificado sanitario turco (no pasaporte europeo para mascotas) emitido por un veterinario oficial en los 10 días previos a la entrada. La vacuna antirrábica debe tener al menos 21 días de antigüedad. Se requiere microchip ISO de 15 dígitos.",
+        "El alquiler de coches en el aeropuerto de Antalya es competitivo y muy recomendable; la carretera costera (D400) hacia Kaş (190 km al oeste) o Side (75 km al este) pasa por paisajes excepcionales y ruinas accesibles con perros.",
+        "El aeropuerto está a 12 km al este de Kaleiçi; un taxi con perro cuesta unos 15-20€. La mayoría de los taxistas aceptarán perros en el maletero o en una manta impermeable.",
+        "Antalya también es accesible en autobús nocturno cama desde Estambul (11-12 horas, Kamil Koç o Metro Turizm, se aceptan perros pequeños en transportines bajo el asiento)."
+      ],
+      "tipsPt": [
+        "A Turquia requer um certificado sanitário turco (não passaporte europeu para animais) emitido por um veterinário oficial nos 10 dias anteriores à entrada. A vacinação antirrábica deve ter pelo menos 21 dias. É necessário microchip ISO de 15 dígitos.",
+        "O aluguer de carro no aeroporto de Antalya é competitivo e fortemente recomendado; a estrada costeira (D400) para Kaş (190 km a oeste) ou Side (75 km a leste) passa por paisagens excecionais e ruínas acessíveis com cães.",
+        "O aeroporto fica a 12 km a leste de Kaleiçi; um táxi com um cão custa cerca de 15-20€. A maioria dos motoristas de táxi aceitará cães no porta-bagagens ou numa manta impermeável.",
+        "Antalya também é acessível por autocarro cama noturno de Istambul (11-12 horas, Kamil Koç ou Metro Turizm, cães pequenos em transportadores debaixo do assento aceites)."
+      ],
       "faqsEn": [
-        { "q": "Can my dog fly into Antalya Airport?", "a": "Dogs fly in the cargo hold on all carriers operating AYT. Turkish Airlines, easyJet, Ryanair, and TUI all operate this route. Check your carrier's pet policy. Most require a hard-sided carrier or airline-approved soft carrier for hold travel." },
-        { "q": "Is it better to drive or fly with a dog to Antalya?", "a": "Flying is faster but the hold can be stressful. Driving from western Europe is 35-40 hours; manageable for dogs who travel well in a car, with overnight stops in Slovenia, Serbia, and Bulgaria. Many dog owners choose to fly to Istanbul and rent a car for the Antalya coast from there (9 hours drive on good highway)." }
+        {
+          "q": "Can my dog fly into Antalya Airport?",
+          "a": "Dogs fly in the cargo hold on all carriers operating AYT. Turkish Airlines, easyJet, Ryanair, and TUI all operate this route. Check your carrier's pet policy. Most require a hard-sided carrier or airline-approved soft carrier for hold travel."
+        },
+        {
+          "q": "Is it better to drive or fly with a dog to Antalya?",
+          "a": "Flying is faster but the hold can be stressful. Driving from western Europe is 35-40 hours; manageable for dogs who travel well in a car, with overnight stops in Slovenia, Serbia, and Bulgaria. Many dog owners choose to fly to Istanbul and rent a car for the Antalya coast from there (9 hours drive on good highway)."
+        }
       ],
       "faqsFr": [
-        { "q": "Mon chien peut-il voler vers l'aéroport d'Antalya ?", "a": "Les chiens voyagent en soute sur toutes les compagnies opérant AYT. Turkish Airlines, easyJet, Ryanair et TUI opèrent tous cette route. Vérifiez la politique animaux de votre compagnie. La plupart exigent un transportin rigide ou un transportin souple approuvé par la compagnie aérienne pour le voyage en soute." },
-        { "q": "Vaut-il mieux conduire ou voler avec un chien jusqu'à Antalya ?", "a": "L'avion est plus rapide mais la soute peut être stressante. Conduire depuis l'Europe occidentale prend 35-40 heures ; faisable pour les chiens qui voyagent bien en voiture, avec des arrêts nocturnes en Slovénie, Serbie et Bulgarie. Beaucoup de propriétaires de chiens choisissent de voler à Istanbul et de louer une voiture pour la côte d'Antalya à partir de là (9 heures de route sur bonne autoroute)." }
+        {
+          "q": "Mon chien peut-il voler vers l'aéroport d'Antalya ?",
+          "a": "Les chiens voyagent en soute sur toutes les compagnies opérant AYT. Turkish Airlines, easyJet, Ryanair et TUI opèrent tous cette route. Vérifiez la politique animaux de votre compagnie. La plupart exigent un transportin rigide ou un transportin souple approuvé par la compagnie aérienne pour le voyage en soute."
+        },
+        {
+          "q": "Vaut-il mieux conduire ou voler avec un chien jusqu'à Antalya ?",
+          "a": "L'avion est plus rapide mais la soute peut être stressante. Conduire depuis l'Europe occidentale prend 35-40 heures ; faisable pour les chiens qui voyagent bien en voiture, avec des arrêts nocturnes en Slovénie, Serbie et Bulgarie. Beaucoup de propriétaires de chiens choisissent de voler à Istanbul et de louer une voiture pour la côte d'Antalya à partir de là (9 heures de route sur bonne autoroute)."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Puede mi perro volar al aeropuerto de Antalya?", "a": "Los perros vuelan en bodega en todas las compañías que operan AYT. Turkish Airlines, easyJet, Ryanair y TUI operan esta ruta. Comprueba la política de mascotas de tu aerolínea. La mayoría exigen un transportín rígido o uno blando aprobado por la aerolínea para el viaje en bodega." },
-        { "q": "¿Es mejor conducir o volar con un perro a Antalya?", "a": "Volar es más rápido pero la bodega puede ser estresante. Conducir desde Europa occidental lleva 35-40 horas; factible para perros que viajan bien en coche, con paradas nocturnas en Eslovenia, Serbia y Bulgaria. Muchos dueños de perros eligen volar a Estambul y alquilar un coche para la costa de Antalya desde allí (9 horas en carretera)." }
+        {
+          "q": "¿Puede mi perro volar al aeropuerto de Antalya?",
+          "a": "Los perros vuelan en bodega en todas las compañías que operan AYT. Turkish Airlines, easyJet, Ryanair y TUI operan esta ruta. Comprueba la política de mascotas de tu aerolínea. La mayoría exigen un transportín rígido o uno blando aprobado por la aerolínea para el viaje en bodega."
+        },
+        {
+          "q": "¿Es mejor conducir o volar con un perro a Antalya?",
+          "a": "Volar es más rápido pero la bodega puede ser estresante. Conducir desde Europa occidental lleva 35-40 horas; factible para perros que viajan bien en coche, con paradas nocturnas en Eslovenia, Serbia y Bulgaria. Muchos dueños de perros eligen volar a Estambul y alquilar un coche para la costa de Antalya desde allí (9 horas en carretera)."
+        }
       ],
       "faqsPt": [
-        { "q": "O meu cão pode voar para o aeroporto de Antalya?", "a": "Os cães viajam no porão em todas as transportadoras que operam AYT. Turkish Airlines, easyJet, Ryanair e TUI operam esta rota. Verifique a política de animais da sua companhia aérea. A maioria exige um transportador rígido ou um transportador macio aprovado pela companhia aérea para viagem no porão." },
-        { "q": "É melhor conduzir ou voar com um cão para Antalya?", "a": "Voar é mais rápido mas o porão pode ser stressante. Conduzir da Europa ocidental demora 35-40 horas; gerível para cães que viajam bem de carro, com paragens noturnas na Eslovénia, Sérvia e Bulgária. Muitos donos de cães optam por voar para Istambul e alugar um carro para a costa de Antalya a partir daí (9 horas de condução em boa autoestrada)." }
+        {
+          "q": "O meu cão pode voar para o aeroporto de Antalya?",
+          "a": "Os cães viajam no porão em todas as transportadoras que operam AYT. Turkish Airlines, easyJet, Ryanair e TUI operam esta rota. Verifique a política de animais da sua companhia aérea. A maioria exige um transportador rígido ou um transportador macio aprovado pela companhia aérea para viagem no porão."
+        },
+        {
+          "q": "É melhor conduzir ou voar com um cão para Antalya?",
+          "a": "Voar é mais rápido mas o porão pode ser stressante. Conduzir da Europa ocidental demora 35-40 horas; gerível para cães que viajam bem de carro, com paragens noturnas na Eslovénia, Sérvia e Bulgária. Muitos donos de cães optam por voar para Istambul e alugar um carro para a costa de Antalya a partir daí (9 horas de condução em boa autoestrada)."
+        }
+      ],
+      "titleDe": "Mit dem Hund nach Antalya reisen",
+      "introDe": "Der Flughafen Antalya (AYT) ist der meistfrequentierte Touristenflughafen der Türkei und einer der fünf verkehrsreichsten Europas im Sommer nach Passagieraufkommen. Er bietet Direktflüge von den meisten europäischen Städten von April bis Oktober. Hunde reisen im Frachtraum; ein Mietwagen ist am Flughafen erhältlich und die beste Option, um die Küste zu erkunden.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund zum Flughafen Antalya fliegen?",
+          "a": "Hunde fliegen bei allen AYT anfliegenden Fluggesellschaften im Frachtraum. Turkish Airlines, easyJet, Ryanair und TUI bedienen diese Strecke alle. Prüfen Sie die Tierrichtlinie Ihrer Fluggesellschaft. Die meisten verlangen für den Frachtraumtransport eine harte oder eine von der Fluggesellschaft zugelassene weiche Transportbox."
+        },
+        {
+          "q": "Ist es besser, mit dem Hund nach Antalya zu fahren oder zu fliegen?",
+          "a": "Fliegen ist schneller, aber der Frachtraum kann belastend sein. Die Fahrt aus Westeuropa dauert 35-40 Stunden; für Hunde, die sich im Auto gut halten, machbar, mit Übernachtungen in Slowenien, Serbien und Bulgarien. Viele Hundehalter fliegen stattdessen nach Istanbul und mieten von dort ein Auto für die Küste von Antalya (9 Stunden Fahrt auf guter Autobahn)."
+        }
       ]
     },
     "beaches": {
@@ -202,28 +373,83 @@
           "tipFr": "Arrivez avant 09h00 en été avant les bus touristiques ; vous et votre chien profitez du chemin ombragé sous les pins et de la baie nord pour vous seuls pendant 2 heures",
           "tipEs": "Llega antes de las 09:00 en verano antes de los autobuses turísticos; tú y tu perro tenéis el sombreado camino de pinos y la bahía norte para vosotros solos durante 2 horas",
           "tipPt": "Chegue antes das 09h00 no verão antes dos autocarros turísticos; você e o seu cão têm o sombreado caminho de pinheiros e a baía norte só para vocês durante 2 horas",
-          "googleMapsUrl": "https://maps.google.com/?q=Phaselis+Ruins+Tekirova+Antalya+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Phaselis+Ruins+Tekirova+Antalya+Turkey",
+          "descriptionDe": "Der schönste, für Hunde zugängliche Badeplatz bei Antalya: eine römische Hafenstadt in einem Pinienwald an drei Buchten. Hunde können frei den schattigen lykischen Weg durch die Ruinen gehen; die nördliche Bucht ist ruhig und klar mit einem Kies-Sand-Strand. Der Zutritt zu den Ruinen erfordert ein Ticket (Hunde warten am Eingang, während ein Erwachsener Tickets kauft).",
+          "petPolicyDe": "Hunde frei auf Küstenwegen und Stränden; nicht innerhalb der kostenpflichtigen Ruinenzone",
+          "tipDe": "Kommen Sie im Sommer bis 09:00 Uhr an, bevor die Reisebusse eintreffen; Sie und Ihr Hund haben den schattigen Pinienweg und die Nordbucht für 2 Stunden für sich."
         }
       ],
-      "tipsEn": ["Adrasan beach (80 km west on the D400) is a small-village beach with no private beach operators; dogs swim freely year-round and the village has a couple of dog-friendly pensions.", "Olimpos beach (90 km west) is accessed via a 3 km wooden boardwalk through the ruins; dogs walk the boardwalk freely and the beach itself is wild and tolerant.", "The stretch of coast between Kemer and Kaş (190 km of the D400) has dozens of small pull-off coves accessible by car where dogs swim with no restrictions."],
-      "tipsFr": ["La plage d'Adrasan (80 km à l'ouest sur la D400) est une petite plage de village sans opérateurs de plage privés ; les chiens nagent librement toute l'année et le village dispose de quelques pensions dog-friendly.", "La plage d'Olimpos (90 km à l'ouest) est accessible via une promenade en bois de 3 km à travers les ruines ; les chiens marchent librement sur la promenade et la plage elle-même est sauvage et tolérante.", "Le tronçon de côte entre Kemer et Kaş (190 km de la D400) compte des dizaines de petites criques accessibles en voiture où les chiens nagent sans restrictions."],
-      "tipsEs": ["La playa de Adrasan (80 km al oeste por la D400) es una pequeña playa de pueblo sin operadores de playa privados; los perros nadan libremente todo el año y el pueblo tiene un par de pensiones dog-friendly.", "La playa de Olimpos (90 km al oeste) se accede por un paseo de madera de 3 km a través de las ruinas; los perros caminan libremente por la pasarela y la propia playa es salvaje y tolerante.", "El tramo de costa entre Kemer y Kaş (190 km de la D400) tiene docenas de pequeñas calas accesibles en coche donde los perros nadan sin restricciones."],
-      "tipsPt": ["A praia de Adrasan (80 km a oeste na D400) é uma pequena praia de aldeia sem operadores de praia privados; os cães nadam livremente durante todo o ano e a aldeia tem um par de pensões dog-friendly.", "A praia de Olimpos (90 km a oeste) é acessível através de uma passadeira de madeira de 3 km através das ruínas; os cães caminham livremente na passadeira e a própria praia é selvagem e tolerante.", "O trecho de costa entre Kemer e Kaş (190 km da D400) tem dezenas de pequenas enseadas acessíveis de carro onde os cães nadam sem restrições."],
+      "tipsEn": [
+        "Adrasan beach (80 km west on the D400) is a small-village beach with no private beach operators; dogs swim freely year-round and the village has a couple of dog-friendly pensions.",
+        "Olimpos beach (90 km west) is accessed via a 3 km wooden boardwalk through the ruins; dogs walk the boardwalk freely and the beach itself is wild and tolerant.",
+        "The stretch of coast between Kemer and Kaş (190 km of the D400) has dozens of small pull-off coves accessible by car where dogs swim with no restrictions."
+      ],
+      "tipsFr": [
+        "La plage d'Adrasan (80 km à l'ouest sur la D400) est une petite plage de village sans opérateurs de plage privés ; les chiens nagent librement toute l'année et le village dispose de quelques pensions dog-friendly.",
+        "La plage d'Olimpos (90 km à l'ouest) est accessible via une promenade en bois de 3 km à travers les ruines ; les chiens marchent librement sur la promenade et la plage elle-même est sauvage et tolérante.",
+        "Le tronçon de côte entre Kemer et Kaş (190 km de la D400) compte des dizaines de petites criques accessibles en voiture où les chiens nagent sans restrictions."
+      ],
+      "tipsEs": [
+        "La playa de Adrasan (80 km al oeste por la D400) es una pequeña playa de pueblo sin operadores de playa privados; los perros nadan libremente todo el año y el pueblo tiene un par de pensiones dog-friendly.",
+        "La playa de Olimpos (90 km al oeste) se accede por un paseo de madera de 3 km a través de las ruinas; los perros caminan libremente por la pasarela y la propia playa es salvaje y tolerante.",
+        "El tramo de costa entre Kemer y Kaş (190 km de la D400) tiene docenas de pequeñas calas accesibles en coche donde los perros nadan sin restricciones."
+      ],
+      "tipsPt": [
+        "A praia de Adrasan (80 km a oeste na D400) é uma pequena praia de aldeia sem operadores de praia privados; os cães nadam livremente durante todo o ano e a aldeia tem um par de pensões dog-friendly.",
+        "A praia de Olimpos (90 km a oeste) é acessível através de uma passadeira de madeira de 3 km através das ruínas; os cães caminham livremente na passadeira e a própria praia é selvagem e tolerante.",
+        "O trecho de costa entre Kemer e Kaş (190 km da D400) tem dezenas de pequenas enseadas acessíveis de carro onde os cães nadam sem restrições."
+      ],
       "faqsEn": [
-        { "q": "Are dogs allowed on Konyaaltı beach in Antalya?", "a": "No, during the main season (June to September). Outside season, dogs are tolerated on Konyaaltı in the early morning before lifeguards arrive. The beach is long (8 km) and the west end is less policed." },
-        { "q": "How far is the nearest dog-friendly swimming spot from Kaleiçi?", "a": "Phaselis (45 km west, 35 min drive) is the best option for calm swimming with a dog. The Düden coastal waterfall park (12 km east) has a clifftop walkway above the sea where dogs walk on-leash but cannot swim." }
+        {
+          "q": "Are dogs allowed on Konyaaltı beach in Antalya?",
+          "a": "No, during the main season (June to September). Outside season, dogs are tolerated on Konyaaltı in the early morning before lifeguards arrive. The beach is long (8 km) and the west end is less policed."
+        },
+        {
+          "q": "How far is the nearest dog-friendly swimming spot from Kaleiçi?",
+          "a": "Phaselis (45 km west, 35 min drive) is the best option for calm swimming with a dog. The Düden coastal waterfall park (12 km east) has a clifftop walkway above the sea where dogs walk on-leash but cannot swim."
+        }
       ],
       "faqsFr": [
-        { "q": "Les chiens sont-ils autorisés sur la plage de Konyaaltı à Antalya ?", "a": "Non, pendant la haute saison (juin à septembre). Hors saison, les chiens sont tolérés à Konyaaltı tôt le matin avant l'arrivée des maîtres nageurs. La plage est longue (8 km) et l'extrémité ouest est moins surveillée." },
-        { "q": "À quelle distance se trouve l'endroit de baignade le plus proche pour les chiens depuis Kaleiçi ?", "a": "Phaselis (45 km à l'ouest, 35 min de route) est la meilleure option pour une baignade calme avec un chien. Le parc côtier des chutes d'eau de Düden (12 km à l'est) a une passerelle sur la falaise au-dessus de la mer où les chiens se promènent en laisse mais ne peuvent pas nager." }
+        {
+          "q": "Les chiens sont-ils autorisés sur la plage de Konyaaltı à Antalya ?",
+          "a": "Non, pendant la haute saison (juin à septembre). Hors saison, les chiens sont tolérés à Konyaaltı tôt le matin avant l'arrivée des maîtres nageurs. La plage est longue (8 km) et l'extrémité ouest est moins surveillée."
+        },
+        {
+          "q": "À quelle distance se trouve l'endroit de baignade le plus proche pour les chiens depuis Kaleiçi ?",
+          "a": "Phaselis (45 km à l'ouest, 35 min de route) est la meilleure option pour une baignade calme avec un chien. Le parc côtier des chutes d'eau de Düden (12 km à l'est) a une passerelle sur la falaise au-dessus de la mer où les chiens se promènent en laisse mais ne peuvent pas nager."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Se permiten perros en la playa de Konyaaltı en Antalya?", "a": "No, durante la temporada principal (junio a septiembre). Fuera de temporada, los perros son tolerados en Konyaaltı por la mañana temprano antes de que lleguen los socorristas. La playa es larga (8 km) y el extremo oeste está menos vigilado." },
-        { "q": "¿A qué distancia está el lugar de baño más cercano para perros desde Kaleiçi?", "a": "Phaselis (45 km al oeste, 35 min en coche) es la mejor opción para nadar tranquilamente con un perro. El parque costero de la cascada Düden (12 km al este) tiene un camino en lo alto del acantilado sobre el mar donde los perros caminan con correa pero no pueden nadar." }
+        {
+          "q": "¿Se permiten perros en la playa de Konyaaltı en Antalya?",
+          "a": "No, durante la temporada principal (junio a septiembre). Fuera de temporada, los perros son tolerados en Konyaaltı por la mañana temprano antes de que lleguen los socorristas. La playa es larga (8 km) y el extremo oeste está menos vigilado."
+        },
+        {
+          "q": "¿A qué distancia está el lugar de baño más cercano para perros desde Kaleiçi?",
+          "a": "Phaselis (45 km al oeste, 35 min en coche) es la mejor opción para nadar tranquilamente con un perro. El parque costero de la cascada Düden (12 km al este) tiene un camino en lo alto del acantilado sobre el mar donde los perros caminan con correa pero no pueden nadar."
+        }
       ],
       "faqsPt": [
-        { "q": "Os cães são permitidos na praia de Konyaaltı em Antalya?", "a": "Não, durante a temporada principal (junho a setembro). Fora da época, os cães são tolerados em Konyaaltı de manhã cedo antes de os nadadores-salvadores chegarem. A praia é longa (8 km) e a extremidade oeste é menos vigiada." },
-        { "q": "Qual é a distância do local de banho dog-friendly mais próximo a partir de Kaleiçi?", "a": "Phaselis (45 km a oeste, 35 min de carro) é a melhor opção para nadar calmamente com um cão. O parque costeiro da cascata de Düden (12 km a leste) tem uma passadeira no topo do penhasco sobre o mar onde os cães caminham com trela mas não podem nadar." }
+        {
+          "q": "Os cães são permitidos na praia de Konyaaltı em Antalya?",
+          "a": "Não, durante a temporada principal (junho a setembro). Fora da época, os cães são tolerados em Konyaaltı de manhã cedo antes de os nadadores-salvadores chegarem. A praia é longa (8 km) e a extremidade oeste é menos vigiada."
+        },
+        {
+          "q": "Qual é a distância do local de banho dog-friendly mais próximo a partir de Kaleiçi?",
+          "a": "Phaselis (45 km a oeste, 35 min de carro) é a melhor opção para nadar calmamente com um cão. O parque costeiro da cascata de Düden (12 km a leste) tem uma passadeira no topo do penhasco sobre o mar onde os cães caminham com trela mas não podem nadar."
+        }
+      ],
+      "titleDe": "Für Hunde zugängliche Strände bei Antalya",
+      "introDe": "Die Hauptstrände der Stadt (Konyaaltı, Lara) verbieten Hunde von Juni bis September. Die besten für Hunde zugänglichen Optionen liegen westlich der Stadt: die Ruinenbucht Phaselis (45 km, Pinienwald und ruhige Buchten), Adrasan (80 km, kleiner Dorfstrand, ganzjährig toleriert) und Olimpos (90 km, wilder Strand mit Ruinen). Für alle wird ein Auto benötigt.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde am Strand Konyaaltı in Antalya erlaubt?",
+          "a": "Nein, während der Hauptsaison (Juni bis September). Außerhalb der Saison werden Hunde am Konyaaltı frühmorgens toleriert, bevor die Rettungsschwimmer eintreffen. Der Strand ist lang (8 km), und das westliche Ende wird weniger kontrolliert."
+        },
+        {
+          "q": "Wie weit ist der nächste hundefreundliche Badeplatz von Kaleiçi entfernt?",
+          "a": "Phaselis (45 km westlich, 35 Min. Fahrt) ist die beste Option zum ruhigen Schwimmen mit Hund. Der Küstenwasserfallpark von Düden (12 km östlich) hat einen Klippenweg über dem Meer, auf dem Hunde an der Leine spazieren können, aber nicht schwimmen dürfen."
+        }
       ]
     },
     "vets": {
@@ -256,28 +482,83 @@
           "tipFr": "Enregistrez le numéro vétérinaire d'urgence turc dans votre téléphone avant de voyager ; demandez à votre hôtel ou au Bureau d'information touristique turc à l'aéroport l'adresse actuelle de la clinique 24h/24 à votre arrivée",
           "tipEs": "Guarda el número de veterinario de urgencias turco en tu teléfono antes de viajar; pide a tu hotel o a la Oficina de Información Turística turca en el aeropuerto la dirección actual de la clínica 24h a tu llegada",
           "tipPt": "Guarde o número do veterinário de emergência turco no seu telemóvel antes de viajar; peça ao seu hotel ou ao Gabinete de Informação Turística turco no aeroporto o endereço atual da clínica de 24h na chegada",
-          "googleMapsUrl": "https://maps.google.com/?q=veteriner+acil+Antalya+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=veteriner+acil+Antalya+Turkey",
+          "descriptionDe": "Antalya verfügt über mehrere rund um die Uhr geöffnete Notfall-Tierkliniken, hauptsächlich in den Bezirken Lara und Muratpaşa. Der Concierge Ihres Hotels hat den aktuellen Kontakt zur nächstgelegenen 24-Stunden-Praxis. Englischsprachige Tierärzte sind bei den größeren Praxen angesichts der großen Zahl von Expats und Touristen verfügbar.",
+          "petPolicyDe": "Alle Haustiere willkommen",
+          "tipDe": "Speichern Sie die türkische Notfall-Tierarztnummer vor der Reise in Ihrem Telefon; fragen Sie Ihr Hotel oder das türkische Fremdenverkehrsamt am Flughafen bei Ankunft nach der aktuellen Adresse der 24-Stunden-Klinik."
         }
       ],
-      "tipsEn": ["The main risk in Antalya is heat-related illness in dogs from July-August; the city reaches 38-40°C. Restrict walking to 06:00-09:00 and 19:00-22:00, keep a wet towel for your dog's paws and belly.", "Jellyfish stings are possible in August in Konyaaltı bay; if your dog swims in a jellyfish bloom, rinse with seawater (not fresh water) and seek vet advice.", "Scorpions are present in the Taurus foothills; check your dog before and after off-trail walks."],
-      "tipsFr": ["Le principal risque à Antalya est la maladie liée à la chaleur chez les chiens en juillet-août ; la ville atteint 38-40°C. Limitez les promenades à 06h00-09h00 et 19h00-22h00, gardez une serviette humide pour les pattes et le ventre de votre chien.", "Les piqûres de méduses sont possibles en août dans la baie de Konyaaltı ; si votre chien nage dans un banc de méduses, rincez à l'eau de mer (pas d'eau douce) et consultez un vétérinaire.", "Les scorpions sont présents dans les contreforts du Taurus ; vérifiez votre chien avant et après les randonnées hors sentier."],
-      "tipsEs": ["El principal riesgo en Antalya es la enfermedad por calor en los perros en julio-agosto; la ciudad alcanza los 38-40°C. Restringe los paseos a las 06:00-09:00 y 19:00-22:00, mantén una toalla húmeda para las patas y el vientre de tu perro.", "Las picaduras de medusas son posibles en agosto en la bahía de Konyaaltı; si tu perro nada en un banco de medusas, aclara con agua de mar (no agua dulce) y busca consejo veterinario.", "Los escorpiones están presentes en las estribaciones del Tauro; revisa a tu perro antes y después de las caminatas fuera del camino."],
-      "tipsPt": ["O principal risco em Antalya é a doença relacionada com o calor em cães em julho-agosto; a cidade atinge 38-40°C. Restrinja os passeios para 06h00-09h00 e 19h00-22h00, mantenha uma toalha húmida para as patas e barriga do seu cão.", "As picadas de medusas são possíveis em agosto na baía de Konyaaltı; se o seu cão nadar numa floração de medusas, enxagúe com água do mar (não água doce) e procure conselho veterinário.", "Os escorpiões estão presentes nos contrafortes do Taurus; verifique o seu cão antes e depois de caminhadas fora dos trilhos."],
+      "tipsEn": [
+        "The main risk in Antalya is heat-related illness in dogs from July-August; the city reaches 38-40°C. Restrict walking to 06:00-09:00 and 19:00-22:00, keep a wet towel for your dog's paws and belly.",
+        "Jellyfish stings are possible in August in Konyaaltı bay; if your dog swims in a jellyfish bloom, rinse with seawater (not fresh water) and seek vet advice.",
+        "Scorpions are present in the Taurus foothills; check your dog before and after off-trail walks."
+      ],
+      "tipsFr": [
+        "Le principal risque à Antalya est la maladie liée à la chaleur chez les chiens en juillet-août ; la ville atteint 38-40°C. Limitez les promenades à 06h00-09h00 et 19h00-22h00, gardez une serviette humide pour les pattes et le ventre de votre chien.",
+        "Les piqûres de méduses sont possibles en août dans la baie de Konyaaltı ; si votre chien nage dans un banc de méduses, rincez à l'eau de mer (pas d'eau douce) et consultez un vétérinaire.",
+        "Les scorpions sont présents dans les contreforts du Taurus ; vérifiez votre chien avant et après les randonnées hors sentier."
+      ],
+      "tipsEs": [
+        "El principal riesgo en Antalya es la enfermedad por calor en los perros en julio-agosto; la ciudad alcanza los 38-40°C. Restringe los paseos a las 06:00-09:00 y 19:00-22:00, mantén una toalla húmeda para las patas y el vientre de tu perro.",
+        "Las picaduras de medusas son posibles en agosto en la bahía de Konyaaltı; si tu perro nada en un banco de medusas, aclara con agua de mar (no agua dulce) y busca consejo veterinario.",
+        "Los escorpiones están presentes en las estribaciones del Tauro; revisa a tu perro antes y después de las caminatas fuera del camino."
+      ],
+      "tipsPt": [
+        "O principal risco em Antalya é a doença relacionada com o calor em cães em julho-agosto; a cidade atinge 38-40°C. Restrinja os passeios para 06h00-09h00 e 19h00-22h00, mantenha uma toalha húmida para as patas e barriga do seu cão.",
+        "As picadas de medusas são possíveis em agosto na baía de Konyaaltı; se o seu cão nadar numa floração de medusas, enxagúe com água do mar (não água doce) e procure conselho veterinário.",
+        "Os escorpiões estão presentes nos contrafortes do Taurus; verifique o seu cão antes e depois de caminhadas fora dos trilhos."
+      ],
       "faqsEn": [
-        { "q": "Is there a vet who can issue a health certificate for re-entry into the EU near Antalya Airport?", "a": "Yes. Several authorised (resmi veteriner) practices in Antalya issue international health certificates for EU re-entry. The certificate must be issued within 10 days of your EU return date. Ask your hotel or the airport tourist information desk for the nearest authorised practice." },
-        { "q": "Are rabies booster shots available in Antalya?", "a": "Yes, at any veterinary practice. Turkish veterinary standards are high and rabies vaccines are routinely available. If your dog's vaccination is borderline (close to expiry), a booster in Antalya is straightforward." }
+        {
+          "q": "Is there a vet who can issue a health certificate for re-entry into the EU near Antalya Airport?",
+          "a": "Yes. Several authorised (resmi veteriner) practices in Antalya issue international health certificates for EU re-entry. The certificate must be issued within 10 days of your EU return date. Ask your hotel or the airport tourist information desk for the nearest authorised practice."
+        },
+        {
+          "q": "Are rabies booster shots available in Antalya?",
+          "a": "Yes, at any veterinary practice. Turkish veterinary standards are high and rabies vaccines are routinely available. If your dog's vaccination is borderline (close to expiry), a booster in Antalya is straightforward."
+        }
       ],
       "faqsFr": [
-        { "q": "Y a-t-il un vétérinaire près de l'aéroport d'Antalya qui peut délivrer un certificat sanitaire pour le retour dans l'UE ?", "a": "Oui. Plusieurs cabinets agréés (resmi veteriner) à Antalya délivrent des certificats sanitaires internationaux pour le retour dans l'UE. Le certificat doit être délivré dans les 10 jours précédant votre date de retour dans l'UE. Demandez à votre hôtel ou au bureau d'information touristique de l'aéroport pour le cabinet agréé le plus proche." },
-        { "q": "Les rappels antirabiques sont-ils disponibles à Antalya ?", "a": "Oui, dans tout cabinet vétérinaire. Les normes vétérinaires turques sont élevées et les vaccins contre la rage sont disponibles en routine. Si la vaccination de votre chien est limite (proche de l'expiration), un rappel à Antalya est simple à faire." }
+        {
+          "q": "Y a-t-il un vétérinaire près de l'aéroport d'Antalya qui peut délivrer un certificat sanitaire pour le retour dans l'UE ?",
+          "a": "Oui. Plusieurs cabinets agréés (resmi veteriner) à Antalya délivrent des certificats sanitaires internationaux pour le retour dans l'UE. Le certificat doit être délivré dans les 10 jours précédant votre date de retour dans l'UE. Demandez à votre hôtel ou au bureau d'information touristique de l'aéroport pour le cabinet agréé le plus proche."
+        },
+        {
+          "q": "Les rappels antirabiques sont-ils disponibles à Antalya ?",
+          "a": "Oui, dans tout cabinet vétérinaire. Les normes vétérinaires turques sont élevées et les vaccins contre la rage sont disponibles en routine. Si la vaccination de votre chien est limite (proche de l'expiration), un rappel à Antalya est simple à faire."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Hay un veterinario cerca del aeropuerto de Antalya que pueda emitir un certificado sanitario para reentrar a la UE?", "a": "Sí. Varios consultorios autorizados (resmi veteriner) en Antalya emiten certificados sanitarios internacionales para el reingreso a la UE. El certificado debe emitirse dentro de los 10 días de tu fecha de regreso a la UE. Pide a tu hotel o al mostrador de información turística del aeropuerto el consultorio autorizado más cercano." },
-        { "q": "¿Están disponibles las dosis de refuerzo de rabia en Antalya?", "a": "Sí, en cualquier consultorio veterinario. Los estándares veterinarios turcos son altos y las vacunas contra la rabia están disponibles de forma rutinaria. Si la vacunación de tu perro está al límite (cerca del vencimiento), un refuerzo en Antalya es sencillo." }
+        {
+          "q": "¿Hay un veterinario cerca del aeropuerto de Antalya que pueda emitir un certificado sanitario para reentrar a la UE?",
+          "a": "Sí. Varios consultorios autorizados (resmi veteriner) en Antalya emiten certificados sanitarios internacionales para el reingreso a la UE. El certificado debe emitirse dentro de los 10 días de tu fecha de regreso a la UE. Pide a tu hotel o al mostrador de información turística del aeropuerto el consultorio autorizado más cercano."
+        },
+        {
+          "q": "¿Están disponibles las dosis de refuerzo de rabia en Antalya?",
+          "a": "Sí, en cualquier consultorio veterinario. Los estándares veterinarios turcos son altos y las vacunas contra la rabia están disponibles de forma rutinaria. Si la vacunación de tu perro está al límite (cerca del vencimiento), un refuerzo en Antalya es sencillo."
+        }
       ],
       "faqsPt": [
-        { "q": "Há um veterinário perto do aeroporto de Antalya que pode emitir um certificado sanitário para reentrar na UE?", "a": "Sim. Vários consultórios autorizados (resmi veteriner) em Antalya emitem certificados sanitários internacionais para o regresso à UE. O certificado deve ser emitido nos 10 dias da sua data de regresso à UE. Peça ao seu hotel ou ao balcão de informações turísticas do aeroporto o consultório autorizado mais próximo." },
-        { "q": "As vacinas de reforço antirrábico estão disponíveis em Antalya?", "a": "Sim, em qualquer consultório veterinário. Os padrões veterinários turcos são elevados e as vacinas antirrábicas estão disponíveis de forma rotineira. Se a vacinação do seu cão está no limite (perto do prazo de validade), um reforço em Antalya é simples." }
+        {
+          "q": "Há um veterinário perto do aeroporto de Antalya que pode emitir um certificado sanitário para reentrar na UE?",
+          "a": "Sim. Vários consultórios autorizados (resmi veteriner) em Antalya emitem certificados sanitários internacionais para o regresso à UE. O certificado deve ser emitido nos 10 dias da sua data de regresso à UE. Peça ao seu hotel ou ao balcão de informações turísticas do aeroporto o consultório autorizado mais próximo."
+        },
+        {
+          "q": "As vacinas de reforço antirrábico estão disponíveis em Antalya?",
+          "a": "Sim, em qualquer consultório veterinário. Os padrões veterinários turcos são elevados e as vacinas antirrábicas estão disponíveis de forma rotineira. Se a vacinação do seu cão está no limite (perto do prazo de validade), um reforço em Antalya é simples."
+        }
+      ],
+      "titleDe": "Tierärzte & Notfallversorgung in Antalya",
+      "introDe": "Antalya ist eine Großstadt mit 2,5 Millionen Einwohnern und verfügt über eine gut ausgestattete tierärztliche Infrastruktur einschließlich rund um die Uhr geöffneter Notfallkliniken. Das europäisch geprägte Ferienviertel Lara hat mehrere Praxen, die mit ausländischen Haustieren und EU-Heimtierausweisen vertraut sind.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in der Nähe des Flughafens Antalya einen Tierarzt, der ein Gesundheitszeugnis für die Wiedereinreise in die EU ausstellen kann?",
+          "a": "Ja. Mehrere amtlich zugelassene (resmi veteriner) Praxen in Antalya stellen internationale Gesundheitszeugnisse für die Wiedereinreise in die EU aus. Das Zeugnis muss innerhalb von 10 Tagen vor Ihrem Rückreisedatum in die EU ausgestellt werden. Fragen Sie Ihr Hotel oder die Touristeninformation am Flughafen nach der nächstgelegenen zugelassenen Praxis."
+        },
+        {
+          "q": "Sind Tollwut-Auffrischimpfungen in Antalya verfügbar?",
+          "a": "Ja, in jeder tierärztlichen Praxis. Die türkischen tierärztlichen Standards sind hoch, und Tollwutimpfstoffe sind routinemäßig verfügbar. Wenn die Impfung Ihres Hundes knapp bemessen ist (kurz vor Ablauf), ist eine Auffrischung in Antalya unkompliziert."
+        }
       ]
     },
     "tips": {
@@ -312,20 +593,56 @@
         }
       ],
       "faqsEn": [
-        { "q": "Is Antalya a good base for exploring the Turquoise Coast with a dog?", "a": "Excellent. The D400 coastal road west from Antalya passes Phaselis (45 km), Olimpos (90 km), Adrasan (80 km), Kaş (190 km), and Kekova (220 km), all dog-accessible sites. Antalya with a hire car is the best base for a dog-friendly Turquoise Coast trip." },
-        { "q": "How do local Turkish people react to dogs in Antalya?", "a": "Reactions are mixed. Kaleiçi is very accustomed to European tourists with dogs; restaurant owners and shop-owners are relaxed. In residential areas, dogs on leads are broadly accepted. Women and children sometimes show discomfort; remain calm and keep your dog close. The Antalya tourism culture is Europe-facing and generally more tolerant than inland Turkey." }
+        {
+          "q": "Is Antalya a good base for exploring the Turquoise Coast with a dog?",
+          "a": "Excellent. The D400 coastal road west from Antalya passes Phaselis (45 km), Olimpos (90 km), Adrasan (80 km), Kaş (190 km), and Kekova (220 km), all dog-accessible sites. Antalya with a hire car is the best base for a dog-friendly Turquoise Coast trip."
+        },
+        {
+          "q": "How do local Turkish people react to dogs in Antalya?",
+          "a": "Reactions are mixed. Kaleiçi is very accustomed to European tourists with dogs; restaurant owners and shop-owners are relaxed. In residential areas, dogs on leads are broadly accepted. Women and children sometimes show discomfort; remain calm and keep your dog close. The Antalya tourism culture is Europe-facing and generally more tolerant than inland Turkey."
+        }
       ],
       "faqsFr": [
-        { "q": "Antalya est-elle un bon point de départ pour explorer la Côte turquoise avec un chien ?", "a": "Excellent. La route côtière D400 à l'ouest d'Antalya passe par Phaselis (45 km), Olimpos (90 km), Adrasan (80 km), Kaş (190 km) et Kekova (220 km), tous des sites accessibles aux chiens. Antalya avec une voiture de location est la meilleure base pour un séjour dog-friendly sur la Côte turquoise." },
-        { "q": "Comment les Turcs locaux réagissent-ils aux chiens à Antalya ?", "a": "Les réactions sont mitigées. Kaleiçi est très habituée aux touristes européens avec des chiens ; les restaurateurs et les commerçants sont détendus. Dans les quartiers résidentiels, les chiens en laisse sont globalement acceptés. Les femmes et les enfants montrent parfois un malaise ; restez calme et gardez votre chien proche. La culture touristique d'Antalya est tournée vers l'Europe et généralement plus tolérante que la Turquie intérieure." }
+        {
+          "q": "Antalya est-elle un bon point de départ pour explorer la Côte turquoise avec un chien ?",
+          "a": "Excellent. La route côtière D400 à l'ouest d'Antalya passe par Phaselis (45 km), Olimpos (90 km), Adrasan (80 km), Kaş (190 km) et Kekova (220 km), tous des sites accessibles aux chiens. Antalya avec une voiture de location est la meilleure base pour un séjour dog-friendly sur la Côte turquoise."
+        },
+        {
+          "q": "Comment les Turcs locaux réagissent-ils aux chiens à Antalya ?",
+          "a": "Les réactions sont mitigées. Kaleiçi est très habituée aux touristes européens avec des chiens ; les restaurateurs et les commerçants sont détendus. Dans les quartiers résidentiels, les chiens en laisse sont globalement acceptés. Les femmes et les enfants montrent parfois un malaise ; restez calme et gardez votre chien proche. La culture touristique d'Antalya est tournée vers l'Europe et généralement plus tolérante que la Turquie intérieure."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Es Antalya una buena base para explorar la Costa Turquesa con un perro?", "a": "Excelente. La carretera costera D400 al oeste de Antalya pasa por Phaselis (45 km), Olimpos (90 km), Adrasan (80 km), Kaş (190 km) y Kekova (220 km), todos sitios accesibles con perros. Antalya con un coche de alquiler es la mejor base para un viaje dog-friendly por la Costa Turquesa." },
-        { "q": "¿Cómo reacciona la gente turca local ante los perros en Antalya?", "a": "Las reacciones son mixtas. Kaleiçi está muy acostumbrado a los turistas europeos con perros; los dueños de restaurantes y tiendas están relajados. En las zonas residenciales, los perros con correa son ampliamente aceptados. Las mujeres y los niños a veces muestran incomodidad; mantén la calma y ten a tu perro cerca. La cultura turística de Antalya está orientada a Europa y es generalmente más tolerante que la Turquía interior." }
+        {
+          "q": "¿Es Antalya una buena base para explorar la Costa Turquesa con un perro?",
+          "a": "Excelente. La carretera costera D400 al oeste de Antalya pasa por Phaselis (45 km), Olimpos (90 km), Adrasan (80 km), Kaş (190 km) y Kekova (220 km), todos sitios accesibles con perros. Antalya con un coche de alquiler es la mejor base para un viaje dog-friendly por la Costa Turquesa."
+        },
+        {
+          "q": "¿Cómo reacciona la gente turca local ante los perros en Antalya?",
+          "a": "Las reacciones son mixtas. Kaleiçi está muy acostumbrado a los turistas europeos con perros; los dueños de restaurantes y tiendas están relajados. En las zonas residenciales, los perros con correa son ampliamente aceptados. Las mujeres y los niños a veces muestran incomodidad; mantén la calma y ten a tu perro cerca. La cultura turística de Antalya está orientada a Europa y es generalmente más tolerante que la Turquía interior."
+        }
       ],
       "faqsPt": [
-        { "q": "Antalya é uma boa base para explorar a Costa Turquesa com um cão?", "a": "Excelente. A estrada costeira D400 a oeste de Antalya passa por Phaselis (45 km), Olimpos (90 km), Adrasan (80 km), Kaş (190 km) e Kekova (220 km), todos locais acessíveis com cães. Antalya com um carro alugado é a melhor base para uma viagem dog-friendly pela Costa Turquesa." },
-        { "q": "Como é que o povo turco local reage aos cães em Antalya?", "a": "As reações são mistas. Kaleiçi está muito habituada a turistas europeus com cães; os donos de restaurantes e lojas estão descontraídos. Nas zonas residenciais, os cães com trela são amplamente aceites. As mulheres e as crianças por vezes mostram desconforto; mantenha a calma e mantenha o seu cão perto. A cultura turística de Antalya está orientada para a Europa e é geralmente mais tolerante do que a Turquia interior." }
+        {
+          "q": "Antalya é uma boa base para explorar a Costa Turquesa com um cão?",
+          "a": "Excelente. A estrada costeira D400 a oeste de Antalya passa por Phaselis (45 km), Olimpos (90 km), Adrasan (80 km), Kaş (190 km) e Kekova (220 km), todos locais acessíveis com cães. Antalya com um carro alugado é a melhor base para uma viagem dog-friendly pela Costa Turquesa."
+        },
+        {
+          "q": "Como é que o povo turco local reage aos cães em Antalya?",
+          "a": "As reações são mistas. Kaleiçi está muito habituada a turistas europeus com cães; os donos de restaurantes e lojas estão descontraídos. Nas zonas residenciais, os cães com trela são amplamente aceites. As mulheres e as crianças por vezes mostram desconforto; mantenha a calma e mantenha o seu cão perto. A cultura turística de Antalya está orientada para a Europa e é geralmente mais tolerante do que a Turquia interior."
+        }
+      ],
+      "titleDe": "Wichtige Reisetipps mit Hund für Antalya",
+      "introDe": "Antalya ist die Tourismushauptstadt der Türkei und das Tor zur Türkisküste. Die Stadt vereint eine wirklich schöne, ummauerte Altstadt (Kaleiçi) mit dem besten Flughafenzugang der Türkei und einer Küstenstraße, die zu einigen der für Hunde am besten zugänglichen antiken Ruinen im Mittelmeerraum führt.",
+      "faqsDe": [
+        {
+          "q": "Ist Antalya eine gute Basis, um die Türkisküste mit Hund zu erkunden?",
+          "a": "Ausgezeichnet. Die Küstenstraße D400 führt von Antalya nach Westen an Phaselis (45 km), Olimpos (90 km), Adrasan (80 km), Kaş (190 km) und Kekova (220 km) vorbei, allesamt für Hunde zugängliche Orte. Antalya mit einem Mietwagen ist die beste Basis für eine hundefreundliche Reise an die Türkisküste."
+        },
+        {
+          "q": "Wie reagieren die türkischen Einheimischen in Antalya auf Hunde?",
+          "a": "Die Reaktionen sind gemischt. Kaleiçi ist sehr an europäische Touristen mit Hunden gewöhnt; Restaurant- und Ladenbesitzer sind entspannt. In Wohngebieten werden angeleinte Hunde weitgehend akzeptiert. Frauen und Kinder zeigen manchmal Unbehagen; bleiben Sie ruhig und halten Sie Ihren Hund nah bei sich. Die Tourismuskultur Antalyas ist Europa-orientiert und generell toleranter als im türkischen Landesinneren."
+        }
       ]
     },
     "attractions": {
@@ -357,28 +674,83 @@
           "tipFr": "Visitez tôt le matin pour des photos sans foule ; la porte est particulièrement atmosphérique aux premières lueurs avant l'arrivée des bus touristiques à 09h00",
           "tipEs": "Visita temprano por la mañana para fotos sin multitudes; la puerta es especialmente atmosférica a primera hora antes de que lleguen los buses turísticos a las 09:00",
           "tipPt": "Visite de manhã cedo para fotos sem multidões; o portão é especialmente atmosférico às primeiras luzes antes dos autocarros turísticos chegarem às 09h00",
-          "googleMapsUrl": "https://maps.google.com/?q=Hadrian%27s+Gate+Antalya+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Hadrian%27s+Gate+Antalya+Turkey",
+          "descriptionDe": "Antalyas ikonischstes Denkmal: ein dreibogiges römisches Triumphtor, erbaut 130 n. Chr. zu Ehren des Besuchs von Kaiser Hadrian. Hunde können durch den Torbogen laufen und lassen sich perfekt vor den Marmorsäulen fotografieren. Das Tor markiert den Eingang zu Kaleiçi; in der Straße dahinter gibt es kleine Cafés im Freien, in denen Hunde sitzen dürfen.",
+          "petPolicyDe": "Öffentlicher Raum, Hunde frei",
+          "tipDe": "Besuchen Sie früh morgens für Fotos ohne Menschenmengen; das Tor ist besonders stimmungsvoll im ersten Licht, bevor um 09:00 Uhr die Reisebusse eintreffen."
         }
       ],
-      "tipsEn": ["The Roman harbour (Kaleiçi Marina) is the most dramatic dog walk in Antalya: descend the cliffside Roman road steps and walk around the marina quay with the harbour tower above.", "The Aspendos Roman theatre (50 km east, 2nd-century theatre, best preserved in the world) allows dogs on the exterior hillside path; the theatre interior is ticketed and dogs must wait at the entrance.", "Perge ruins (17 km east) have wide dirt paths between the colonnaded streets; dogs walk freely through the ruins outside ticketed opening hours, and on-leash inside during opening hours."],
-      "tipsFr": ["Le port romain (Marina de Kaleiçi) est la promenade avec chien la plus dramatique d'Antalya : descendez les marches de la route romaine sur la falaise et faites le tour du quai du port avec la tour du port en hauteur.", "Le théâtre romain d'Aspendos (50 km à l'est, théâtre du IIe siècle, le mieux conservé au monde) autorise les chiens sur le chemin de la colline extérieure ; l'intérieur du théâtre est payant et les chiens doivent attendre à l'entrée.", "Les ruines de Perge (17 km à l'est) ont de larges chemins en terre entre les rues à colonnades ; les chiens se promènent librement dans les ruines en dehors des heures d'ouverture payantes, et en laisse à l'intérieur pendant les heures d'ouverture."],
-      "tipsEs": ["El puerto romano (Marina de Kaleiçi) es el paseo con perro más dramático de Antalya: baja los escalones de la calzada romana por el acantilado y da la vuelta al muelle del puerto con la torre del puerto arriba.", "El teatro romano de Aspendos (50 km al este, teatro del siglo II, el mejor conservado del mundo) permite perros en el camino exterior de la ladera; el interior del teatro tiene entrada y los perros deben esperar en la entrada.", "Las ruinas de Perge (17 km al este) tienen amplios caminos de tierra entre las calles columnadas; los perros caminan libremente por las ruinas fuera de las horas de apertura de pago, y con correa dentro durante las horas de apertura."],
-      "tipsPt": ["O porto romano (Marina de Kaleiçi) é o passeio com cão mais dramático de Antalya: desça os degraus da estrada romana na face do penhasco e caminhe à volta do cais da marina com a torre do porto em cima.", "O teatro romano de Aspendos (50 km a leste, teatro do século II, o melhor preservado do mundo) permite cães no caminho exterior da encosta; o interior do teatro tem bilhete e os cães devem esperar na entrada.", "As ruínas de Perge (17 km a leste) têm amplos caminhos de terra entre as ruas colunadas; os cães caminham livremente nas ruínas fora do horário de abertura pago, e com trela dentro durante o horário de abertura."],
+      "tipsEn": [
+        "The Roman harbour (Kaleiçi Marina) is the most dramatic dog walk in Antalya: descend the cliffside Roman road steps and walk around the marina quay with the harbour tower above.",
+        "The Aspendos Roman theatre (50 km east, 2nd-century theatre, best preserved in the world) allows dogs on the exterior hillside path; the theatre interior is ticketed and dogs must wait at the entrance.",
+        "Perge ruins (17 km east) have wide dirt paths between the colonnaded streets; dogs walk freely through the ruins outside ticketed opening hours, and on-leash inside during opening hours."
+      ],
+      "tipsFr": [
+        "Le port romain (Marina de Kaleiçi) est la promenade avec chien la plus dramatique d'Antalya : descendez les marches de la route romaine sur la falaise et faites le tour du quai du port avec la tour du port en hauteur.",
+        "Le théâtre romain d'Aspendos (50 km à l'est, théâtre du IIe siècle, le mieux conservé au monde) autorise les chiens sur le chemin de la colline extérieure ; l'intérieur du théâtre est payant et les chiens doivent attendre à l'entrée.",
+        "Les ruines de Perge (17 km à l'est) ont de larges chemins en terre entre les rues à colonnades ; les chiens se promènent librement dans les ruines en dehors des heures d'ouverture payantes, et en laisse à l'intérieur pendant les heures d'ouverture."
+      ],
+      "tipsEs": [
+        "El puerto romano (Marina de Kaleiçi) es el paseo con perro más dramático de Antalya: baja los escalones de la calzada romana por el acantilado y da la vuelta al muelle del puerto con la torre del puerto arriba.",
+        "El teatro romano de Aspendos (50 km al este, teatro del siglo II, el mejor conservado del mundo) permite perros en el camino exterior de la ladera; el interior del teatro tiene entrada y los perros deben esperar en la entrada.",
+        "Las ruinas de Perge (17 km al este) tienen amplios caminos de tierra entre las calles columnadas; los perros caminan libremente por las ruinas fuera de las horas de apertura de pago, y con correa dentro durante las horas de apertura."
+      ],
+      "tipsPt": [
+        "O porto romano (Marina de Kaleiçi) é o passeio com cão mais dramático de Antalya: desça os degraus da estrada romana na face do penhasco e caminhe à volta do cais da marina com a torre do porto em cima.",
+        "O teatro romano de Aspendos (50 km a leste, teatro do século II, o melhor preservado do mundo) permite cães no caminho exterior da encosta; o interior do teatro tem bilhete e os cães devem esperar na entrada.",
+        "As ruínas de Perge (17 km a leste) têm amplos caminhos de terra entre as ruas colunadas; os cães caminham livremente nas ruínas fora do horário de abertura pago, e com trela dentro durante o horário de abertura."
+      ],
       "faqsEn": [
-        { "q": "Can my dog visit the Antalya Museum?", "a": "The museum interior does not permit dogs. The garden of the museum is large and has outdoor sculpture; dogs are generally tolerated in the garden while one adult visits inside." },
-        { "q": "Is the Antalya cable car dog-friendly?", "a": "The Tünektepe cable car (summit views over the bay) accepts small dogs in carriers per their policy; large dogs are not accepted. Check with the operator on arrival as policies change seasonally." }
+        {
+          "q": "Can my dog visit the Antalya Museum?",
+          "a": "The museum interior does not permit dogs. The garden of the museum is large and has outdoor sculpture; dogs are generally tolerated in the garden while one adult visits inside."
+        },
+        {
+          "q": "Is the Antalya cable car dog-friendly?",
+          "a": "The Tünektepe cable car (summit views over the bay) accepts small dogs in carriers per their policy; large dogs are not accepted. Check with the operator on arrival as policies change seasonally."
+        }
       ],
       "faqsFr": [
-        { "q": "Mon chien peut-il visiter le musée d'Antalya ?", "a": "L'intérieur du musée n'autorise pas les chiens. Le jardin du musée est grand et présente des sculptures en plein air ; les chiens sont généralement tolérés dans le jardin pendant qu'un adulte visite à l'intérieur." },
-        { "q": "Le téléphérique d'Antalya est-il dog-friendly ?", "a": "Le téléphérique Tünektepe (vues panoramiques sur la baie) accepte les petits chiens en transportin selon sa politique ; les grands chiens ne sont pas acceptés. Vérifiez auprès de l'opérateur à votre arrivée car les politiques changent selon les saisons." }
+        {
+          "q": "Mon chien peut-il visiter le musée d'Antalya ?",
+          "a": "L'intérieur du musée n'autorise pas les chiens. Le jardin du musée est grand et présente des sculptures en plein air ; les chiens sont généralement tolérés dans le jardin pendant qu'un adulte visite à l'intérieur."
+        },
+        {
+          "q": "Le téléphérique d'Antalya est-il dog-friendly ?",
+          "a": "Le téléphérique Tünektepe (vues panoramiques sur la baie) accepte les petits chiens en transportin selon sa politique ; les grands chiens ne sont pas acceptés. Vérifiez auprès de l'opérateur à votre arrivée car les politiques changent selon les saisons."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Puede mi perro visitar el Museo de Antalya?", "a": "El interior del museo no permite perros. El jardín del museo es grande y tiene escultura al aire libre; los perros son generalmente tolerados en el jardín mientras un adulto visita el interior." },
-        { "q": "¿El teleférico de Antalya es dog-friendly?", "a": "El teleférico Tünektepe (vistas panorámicas sobre la bahía) acepta perros pequeños en transportines según su política; los perros grandes no están aceptados. Comprueba con el operador a tu llegada ya que las políticas cambian según la temporada." }
+        {
+          "q": "¿Puede mi perro visitar el Museo de Antalya?",
+          "a": "El interior del museo no permite perros. El jardín del museo es grande y tiene escultura al aire libre; los perros son generalmente tolerados en el jardín mientras un adulto visita el interior."
+        },
+        {
+          "q": "¿El teleférico de Antalya es dog-friendly?",
+          "a": "El teleférico Tünektepe (vistas panorámicas sobre la bahía) acepta perros pequeños en transportines según su política; los perros grandes no están aceptados. Comprueba con el operador a tu llegada ya que las políticas cambian según la temporada."
+        }
       ],
       "faqsPt": [
-        { "q": "O meu cão pode visitar o Museu de Antalya?", "a": "O interior do museu não permite cães. O jardim do museu é grande e tem escultura ao ar livre; os cães são geralmente tolerados no jardim enquanto um adulto visita o interior." },
-        { "q": "O teleférico de Antalya é dog-friendly?", "a": "O teleférico Tünektepe (vistas panorâmicas sobre a baía) aceita cães pequenos em transportadores de acordo com a sua política; cães grandes não são aceites. Verifique com o operador na chegada pois as políticas mudam sazonalmente." }
+        {
+          "q": "O meu cão pode visitar o Museu de Antalya?",
+          "a": "O interior do museu não permite cães. O jardim do museu é grande e tem escultura ao ar livre; os cães são geralmente tolerados no jardim enquanto um adulto visita o interior."
+        },
+        {
+          "q": "O teleférico de Antalya é dog-friendly?",
+          "a": "O teleférico Tünektepe (vistas panorâmicas sobre a baía) aceita cães pequenos em transportadores de acordo com a sua política; cães grandes não são aceites. Verifique com o operador na chegada pois as políticas mudam sazonalmente."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Antalya",
+      "introDe": "Das archäologische Erbe Antalyas ist umfangreich und größtenteils mit Hund zugänglich. Die ummauerte Altstadt Kaleiçi mit dem Hadrianstor, dem Uhrturm und dem römischen Hafen ist vollständig mit Hund begehbar. Das Antalya-Museum (das größte archäologische Museum der Türkei) lässt keine Hunde zu, wohl aber die Gartenterrasse.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund das Antalya-Museum besuchen?",
+          "a": "Das Museumsinnere lässt keine Hunde zu. Der Garten des Museums ist groß und hat Außenskulpturen; Hunde werden im Garten in der Regel toleriert, während ein Erwachsener das Innere besucht."
+        },
+        {
+          "q": "Ist die Seilbahn von Antalya hundefreundlich?",
+          "a": "Die Seilbahn Tünektepe (Gipfelblick über die Bucht) akzeptiert je nach Richtlinie kleine Hunde in Transportboxen; große Hunde werden nicht zugelassen. Erkundigen Sie sich bei Ankunft beim Betreiber, da sich die Richtlinien saisonal ändern."
+        }
       ]
     },
     "petsitting": {
@@ -391,25 +763,77 @@
       "introEs": "Antalya tiene una comunidad de expatriados bien establecida y una gran infraestructura turística. El cuidado de mascotas está disponible a través del grupo de Facebook de expatriados 'Antalya Expats' y a través de varias casas de huéspedes de Kaleiçi cuyos empleados cuidan habitualmente a los perros de los huéspedes. La ciudad también tiene perreras profesionales para estancias más largas.",
       "introPt": "Antalya tem uma comunidade de expatriados bem estabelecida e uma grande infraestrutura turística. A guarda de animais está disponível através do grupo do Facebook de expatriados 'Antalya Expats' e através de várias pensões de Kaleiçi cujo pessoal cuida habitualmente dos cães dos hóspedes. A cidade também tem canis profissionais para estadias mais longas.",
       "places": [],
-      "tipsEn": ["The Facebook group 'Antalya Expats' has active pet-sitter listings and English-speaking recommendations.", "Several Kaleiçi guesthouses in the old town will look after your dog for a few hours during museum visits or day trips; confirm at check-in.", "For kennels, ask your vet in Antalya for a recommendation; Turkish veterinary practices often operate associated kennels."],
-      "tipsFr": ["Le groupe Facebook 'Antalya Expats' dispose de listes actives de gardiens d'animaux et de recommandations en anglais.", "Plusieurs gîtes de Kaleiçi dans la vieille ville s'occuperont de votre chien pendant quelques heures lors de visites de musées ou d'excursions ; confirmez à l'arrivée.", "Pour les chenils, demandez à votre vétérinaire à Antalya une recommandation ; les cabinets vétérinaires turcs exploitent souvent des chenils associés."],
-      "tipsEs": ["El grupo de Facebook 'Antalya Expats' tiene listados activos de cuidadores de mascotas y recomendaciones en inglés.", "Varias casas de huéspedes de Kaleiçi en el casco antiguo cuidarán a tu perro durante unas horas durante las visitas a museos o excursiones; confírmalo al hacer el check-in.", "Para perreras, pide a tu veterinario en Antalya una recomendación; los consultorios veterinarios turcos a menudo operan perreras asociadas."],
-      "tipsPt": ["O grupo do Facebook 'Antalya Expats' tem listas ativas de cuidadores de animais e recomendações em inglês.", "Várias pensões de Kaleiçi na cidade velha cuidarão do seu cão durante algumas horas durante visitas a museus ou excursões; confirme no check-in.", "Para canis, peça uma recomendação ao seu veterinário em Antalya; os consultórios veterinários turcos operam muitas vezes canis associados."],
+      "tipsEn": [
+        "The Facebook group 'Antalya Expats' has active pet-sitter listings and English-speaking recommendations.",
+        "Several Kaleiçi guesthouses in the old town will look after your dog for a few hours during museum visits or day trips; confirm at check-in.",
+        "For kennels, ask your vet in Antalya for a recommendation; Turkish veterinary practices often operate associated kennels."
+      ],
+      "tipsFr": [
+        "Le groupe Facebook 'Antalya Expats' dispose de listes actives de gardiens d'animaux et de recommandations en anglais.",
+        "Plusieurs gîtes de Kaleiçi dans la vieille ville s'occuperont de votre chien pendant quelques heures lors de visites de musées ou d'excursions ; confirmez à l'arrivée.",
+        "Pour les chenils, demandez à votre vétérinaire à Antalya une recommandation ; les cabinets vétérinaires turcs exploitent souvent des chenils associés."
+      ],
+      "tipsEs": [
+        "El grupo de Facebook 'Antalya Expats' tiene listados activos de cuidadores de mascotas y recomendaciones en inglés.",
+        "Varias casas de huéspedes de Kaleiçi en el casco antiguo cuidarán a tu perro durante unas horas durante las visitas a museos o excursiones; confírmalo al hacer el check-in.",
+        "Para perreras, pide a tu veterinario en Antalya una recomendación; los consultorios veterinarios turcos a menudo operan perreras asociadas."
+      ],
+      "tipsPt": [
+        "O grupo do Facebook 'Antalya Expats' tem listas ativas de cuidadores de animais e recomendações em inglês.",
+        "Várias pensões de Kaleiçi na cidade velha cuidarão do seu cão durante algumas horas durante visitas a museus ou excursões; confirme no check-in.",
+        "Para canis, peça uma recomendação ao seu veterinário em Antalya; os consultórios veterinários turcos operam muitas vezes canis associados."
+      ],
       "faqsEn": [
-        { "q": "Are there professional kennels in Antalya?", "a": "Yes. Several professional boarding kennels operate in the Antalya area; your hotel or vet can refer you. Turkish kennels are generally well-run with outdoor spaces. Rates are lower than Western Europe." },
-        { "q": "Can I use a pet-sitting app in Antalya?", "a": "Rover is not widely used in Turkey. The local Facebook groups (Antalya Expats, Antalya Dogs & Pets) are the most reliable source for English-speaking pet-sitters." }
+        {
+          "q": "Are there professional kennels in Antalya?",
+          "a": "Yes. Several professional boarding kennels operate in the Antalya area; your hotel or vet can refer you. Turkish kennels are generally well-run with outdoor spaces. Rates are lower than Western Europe."
+        },
+        {
+          "q": "Can I use a pet-sitting app in Antalya?",
+          "a": "Rover is not widely used in Turkey. The local Facebook groups (Antalya Expats, Antalya Dogs & Pets) are the most reliable source for English-speaking pet-sitters."
+        }
       ],
       "faqsFr": [
-        { "q": "Y a-t-il des chenils professionnels à Antalya ?", "a": "Oui. Plusieurs chenils professionnels fonctionnent dans la région d'Antalya ; votre hôtel ou vétérinaire peut vous orienter. Les chenils turcs sont généralement bien gérés avec des espaces extérieurs. Les tarifs sont inférieurs à ceux de l'Europe occidentale." },
-        { "q": "Puis-je utiliser une application de garde d'animaux à Antalya ?", "a": "Rover n'est pas très utilisé en Turquie. Les groupes Facebook locaux (Antalya Expats, Antalya Dogs & Pets) sont la source la plus fiable pour trouver des gardiens d'animaux anglophones." }
+        {
+          "q": "Y a-t-il des chenils professionnels à Antalya ?",
+          "a": "Oui. Plusieurs chenils professionnels fonctionnent dans la région d'Antalya ; votre hôtel ou vétérinaire peut vous orienter. Les chenils turcs sont généralement bien gérés avec des espaces extérieurs. Les tarifs sont inférieurs à ceux de l'Europe occidentale."
+        },
+        {
+          "q": "Puis-je utiliser une application de garde d'animaux à Antalya ?",
+          "a": "Rover n'est pas très utilisé en Turquie. Les groupes Facebook locaux (Antalya Expats, Antalya Dogs & Pets) sont la source la plus fiable pour trouver des gardiens d'animaux anglophones."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Hay perreras profesionales en Antalya?", "a": "Sí. Varias perreras de alojamiento profesionales operan en la zona de Antalya; tu hotel o veterinario puede referirte. Las perreras turcas suelen estar bien gestionadas con espacios al aire libre. Las tarifas son más bajas que en Europa occidental." },
-        { "q": "¿Puedo usar una aplicación de cuidado de mascotas en Antalya?", "a": "Rover no se usa mucho en Turquía. Los grupos locales de Facebook (Antalya Expats, Antalya Dogs & Pets) son la fuente más fiable para encontrar cuidadores de mascotas anglófonos." }
+        {
+          "q": "¿Hay perreras profesionales en Antalya?",
+          "a": "Sí. Varias perreras de alojamiento profesionales operan en la zona de Antalya; tu hotel o veterinario puede referirte. Las perreras turcas suelen estar bien gestionadas con espacios al aire libre. Las tarifas son más bajas que en Europa occidental."
+        },
+        {
+          "q": "¿Puedo usar una aplicación de cuidado de mascotas en Antalya?",
+          "a": "Rover no se usa mucho en Turquía. Los grupos locales de Facebook (Antalya Expats, Antalya Dogs & Pets) son la fuente más fiable para encontrar cuidadores de mascotas anglófonos."
+        }
       ],
       "faqsPt": [
-        { "q": "Há canis profissionais em Antalya?", "a": "Sim. Vários canis de alojamento profissionais operam na área de Antalya; o seu hotel ou veterinário pode encaminhá-lo. Os canis turcos são geralmente bem geridos com espaços exteriores. As tarifas são mais baixas do que na Europa ocidental." },
-        { "q": "Posso usar uma aplicação de guarda de animais em Antalya?", "a": "O Rover não é amplamente usado na Turquia. Os grupos locais do Facebook (Antalya Expats, Antalya Dogs & Pets) são a fonte mais fiável para encontrar cuidadores de animais de língua inglesa." }
+        {
+          "q": "Há canis profissionais em Antalya?",
+          "a": "Sim. Vários canis de alojamento profissionais operam na área de Antalya; o seu hotel ou veterinário pode encaminhá-lo. Os canis turcos são geralmente bem geridos com espaços exteriores. As tarifas são mais baixas do que na Europa ocidental."
+        },
+        {
+          "q": "Posso usar uma aplicação de guarda de animais em Antalya?",
+          "a": "O Rover não é amplamente usado na Turquia. Os grupos locais do Facebook (Antalya Expats, Antalya Dogs & Pets) são a fonte mais fiável para encontrar cuidadores de animais de língua inglesa."
+        }
+      ],
+      "titleDe": "Hundebetreuung in Antalya",
+      "introDe": "Antalya verfügt über eine gut etablierte Expat-Gemeinschaft und eine umfangreiche Tourismusinfrastruktur. Haustierbetreuung ist über die Expat-Facebook-Gruppe \"Antalya Expats\" sowie über mehrere Gästehäuser in Kaleiçi verfügbar, deren Personal routinemäßig auf die Hunde der Gäste aufpasst. Die Stadt verfügt auch über professionelle Tierpensionen für längere Aufenthalte.",
+      "faqsDe": [
+        {
+          "q": "Gibt es professionelle Tierpensionen in Antalya?",
+          "a": "Ja. In der Region Antalya betreiben mehrere professionelle Tierpensionen; Ihr Hotel oder Tierarzt kann Sie vermitteln. Türkische Tierpensionen sind in der Regel gut geführt und verfügen über Außenbereiche. Die Preise liegen unter denen Westeuropas."
+        },
+        {
+          "q": "Kann ich eine App für Haustierbetreuung in Antalya nutzen?",
+          "a": "Rover ist in der Türkei nicht weit verbreitet. Die lokalen Facebook-Gruppen (Antalya Expats, Antalya Dogs & Pets) sind die verlässlichste Quelle für englischsprachige Haustierbetreuer."
+        }
       ]
     }
   }

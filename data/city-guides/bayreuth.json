@@ -39,7 +39,11 @@
           "tipFr": "Combinez avec la cour du musée de la brasserie attenant ; tout le campus Maisel est détendu avec les chiens en laisse dehors.",
           "tipEs": "Combínalo con el patio del museo cervecero contiguo; todo el campus Maisel es relajado con los perros atados al aire libre.",
           "tipPt": "Combine com o pátio do museu da cervejaria ao lado; todo o campus Maisel é descontraído com cães de trela ao ar livre.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Liebesbier+Bayreuth"
+          "googleMapsUrl": "https://www.google.com/maps/search/Liebesbier+Bayreuth",
+          "descriptionDe": "Das Craft-Bier-Flaggschiff der Maisel-Brauerfamilie, mit 21 Zapfhähnen, holzofengegrillten Burgern und einem großzügigen Außenbereich, in dem Hunde ausdrücklich willkommen sind. Lokale Hundereiseführer heben es als Bayreuths idealen Stopp für Hundebesitzer hervor.",
+          "petPolicyDe": "Hunde im Außenbereich willkommen; Wassernäpfe werden bereitgestellt",
+          "mustTryDe": "Maisel & Friends Pale Ale mit einem geräucherten Burger",
+          "tipDe": "Kombinieren Sie den Besuch mit dem Brauereimuseumshof nebenan; der gesamte Maisel-Campus ist bei angeleinten Hunden im Freien entspannt."
         },
         {
           "name": "Wirtshaus Oskar",
@@ -65,7 +69,11 @@
           "tipFr": "Pendant le Festspiele, la terrasse se remplit de festivaliers vers 15h avant les représentations ; les déjeuners plus tôt sont plus calmes avec un chien.",
           "tipEs": "Durante el Festspiele la terraza se llena de público de ópera hacia las 15:00 antes de la función; comer temprano es más tranquilo con perro.",
           "tipPt": "Durante o Festspiele a esplanada enche-se de público da ópera por volta das 15h00 antes do espetáculo; almoçar mais cedo é mais calmo com cão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Wirtshaus+Oskar+Bayreuth"
+          "googleMapsUrl": "https://www.google.com/maps/search/Wirtshaus+Oskar+Bayreuth",
+          "descriptionDe": "Das große fränkische Wirtshaus im alten Rathaus am Marktplatz, mit einer Wintergartenhalle und Terrassentischen auf dem Fußgängerboulevard. Von regionalen Reiseführern unter den hundefreundlichen Adressen Bayreuths genannt; Klöße, Braten und Weißbier stehen auf dem Programm.",
+          "petPolicyDe": "Hunde akzeptiert; Terrasse zu Stoßzeiten bevorzugt",
+          "mustTryDe": "Schäufele mit Kartoffelklößen",
+          "tipDe": "Während der Festspiele füllt sich die Terrasse gegen 15:00 Uhr mit Opernbesuchern vor der Vorstellung; frühere Mittagessen sind mit Hund ruhiger."
         },
         {
           "name": "Restaurant Lohmühle",
@@ -91,9 +99,16 @@
           "tipFr": "Réservez les soirs de Festspiele des semaines à l'avance ; la terrasse au bord de l'eau reste plus fraîche pour les chiens les nuits chaudes de juillet.",
           "tipEs": "Reserva las noches de Festspiele con semanas de antelación; la terraza junto al agua es más fresca para los perros en las noches calurosas de julio.",
           "tipPt": "Reserve as noites de Festspiele com semanas de antecedência; a esplanada junto à água fica mais fresca para os cães nas noites quentes de julho.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Lohm%C3%BChle+Bayreuth"
+          "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Lohm%C3%BChle+Bayreuth",
+          "descriptionDe": "Ein Fachwerk-Mühlenhotel-Restaurant neben dem alten Mühlkanal, das fränkischen Fisch und Wild mit einer Terrasse am Wasser serviert. Regionale Hundereiseverzeichnisse zählen es zu Bayreuths hundefreundlichen Restaurants, und der Kanalweg draußen eignet sich gut für einen Spaziergang vor dem Abendessen.",
+          "petPolicyDe": "Hunde im Restaurant und Hotel akzeptiert",
+          "mustTryDe": "Fränkischer Karpfen im Bierteig, saisonal",
+          "tipDe": "Buchen Sie für Festspielabende Wochen im Voraus; die Terrasse am Wasser bleibt an heißen Julinächten für Hunde kühler."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Bayreuth",
+      "introDe": "Die fränkische Biergartenkultur macht Bayreuth einfach: Hunde sind in den meisten Biergärten willkommene Gäste, oft mit einem Wassernapf begrüßt, und lokale Führer nennen Liebesbier, Wirtshaus Oskar und die Lohmühle unter den hundefreundlichsten Adressen der Stadt. Drinnen vorher fragen, besonders während des Festspielansturms.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Parks & Walks for Dogs in Bayreuth",
@@ -147,7 +162,10 @@
           "bestTimeToVisitFr": "Tôt le matin, avant l'arrivée des visiteurs du musée Wahnfried",
           "bestTimeToVisitEs": "A primera hora, antes de que lleguen los visitantes del museo Wahnfried",
           "bestTimeToVisitPt": "De manhã cedo, antes de chegarem os visitantes do museu Wahnfried",
-          "googleMapsUrl": "https://www.google.com/maps/search/Hofgarten+Bayreuth"
+          "googleMapsUrl": "https://www.google.com/maps/search/Hofgarten+Bayreuth",
+          "descriptionDe": "Der informelle englische Hofgarten der Markgrafen hinter dem Neuen Schloss, mit Kanälen, Schwaneninseln und jahrhundertealten Alleen, beginnend eine Minute von Wagners Villa Wahnfried entfernt. Die Schlossverwaltung lässt Hunde an einer reißfesten Leine von maximal 120 cm zu.",
+          "leashRulesDe": "Leine von maximal 120 cm erforderlich (Schlossgartenordnung); Hunde von Wasservögeln fernhalten",
+          "bestTimeToVisitDe": "Früh am Morgen, bevor die Besucher des Wahnfried-Museums eintreffen"
         },
         {
           "name": "Eremitage",
@@ -191,7 +209,10 @@
           "bestTimeToVisitFr": "Les jeux d'eau fonctionnent à heures fixes en été ; la fin d'après-midi est la plus calme",
           "bestTimeToVisitEs": "Los juegos de agua funcionan a horas fijas en verano; el final de la tarde es lo más tranquilo",
           "bestTimeToVisitPt": "Os jogos de água funcionam a horas certas no verão; o fim da tarde é o mais calmo",
-          "googleMapsUrl": "https://www.google.com/maps/search/Eremitage+Bayreuth"
+          "googleMapsUrl": "https://www.google.com/maps/search/Eremitage+Bayreuth",
+          "descriptionDe": "Markgräfin Wilhelmines Lustpark mit Grotten, Wasserspielen und dem Sonnentempel-Halbrund des Neuen Schlosses, ausgebreitet über sanfte Rasenflächen oberhalb des Roten Mains. Die 120-cm-Leinenregel der bayerischen Schlossgärten gilt, und die langen schattigen Alleen laden zum gemächlichen Erkunden ein.",
+          "leashRulesDe": "Leine von maximal 120 cm gemäß Parkordnung erforderlich",
+          "bestTimeToVisitDe": "Wasserspiele laufen im Sommer zu festen Zeiten; am ruhigsten ist es am späten Nachmittag"
         },
         {
           "name": "Wilhelminenaue",
@@ -235,9 +256,15 @@
           "bestTimeToVisitFr": "Coucher de soleil sur les prairies du Roter Main",
           "bestTimeToVisitEs": "Atardecer sobre las praderas del Roter Main",
           "bestTimeToVisitPt": "Pôr do sol sobre os prados do Roter Main",
-          "googleMapsUrl": "https://www.google.com/maps/search/Wilhelminenaue+Bayreuth"
+          "googleMapsUrl": "https://www.google.com/maps/search/Wilhelminenaue+Bayreuth",
+          "descriptionDe": "Bayreuths neuester großer Park, angelegt entlang des Roten Mains für die Landesgartenschau 2016, mit weiten Wiesen, Flussschleifen und den offiziellen Hundekotbeutel-Stationen der Stadt an den Eingängen. Der großzügigste Raum der Stadt für lange Spaziergänge an der Leine.",
+          "leashRulesDe": "Leinenpflicht in den kommunalen Grünanlagen; freies Laufen nur außerhalb der gepflegten Parkzonen",
+          "bestTimeToVisitDe": "Sonnenuntergang über den Wiesen am Roten Main"
         }
-      ]
+      ],
+      "titleDe": "Parks & Spaziergänge für Hunde in Bayreuth",
+      "introDe": "Bayreuth ist von markgräflichen Gärten und modernen Flussparks umgeben. Zwei Regeln bestimmen jeden Spaziergang: In den bayerischen Schlossgärten (Hofgarten, Eremitage) müssen Hunde an einer maximal 120 cm langen Leine geführt werden, und die städtische Verordnung schreibt Leinenpflicht in allen kommunalen Grünanlagen vor, mit Hundekotbeutel-Stationen an den Eingängen zum Röhrensee und zur Wilhelminenaue.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Bayreuth with a Dog",
@@ -292,7 +319,10 @@
           "costEs": "Gratis",
           "costPt": "Grátis"
         }
-      ]
+      ],
+      "titleDe": "Mit Hund unterwegs in Bayreuth",
+      "introDe": "Bayreuths Zentrum, der Hofgarten und der Festspielhügel liegen alle innerhalb von 25 Gehminuten voneinander entfernt, sodass für die meisten Besuche kein Transportmittel nötig ist. Stadtbusse und die Deutsche Bahn füllen die Lücke für die Eremitage und Tagesausflüge in die Fränkische Schweiz, unter Deutschlands üblichen Hunderegeln.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Swimming Spots for Dogs near Bayreuth",
@@ -343,7 +373,10 @@
           "seasonalRestrictionsPt": "Águas baixas em pleno verão; evite após as trovoadas quando a corrente sobe",
           "googleMapsUrl": "https://www.google.com/maps/search/Roter+Main+Bayreuth"
         }
-      ]
+      ],
+      "titleDe": "Badestellen für Hunde bei Bayreuth",
+      "introDe": "Ehrlich gesagt: Die Badeseen rund um Bayreuth sind streng, und der beliebte Trebgastsee verbietet Hunde ganzjährig. Die praktikablen Optionen sind die Ufer des Roten Mains außerhalb der gepflegten Parkzonen und der ausgewiesene Hundestrand am Untreusee bei Hof, der einzige echte Hundestrand der Region.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinarians in Bayreuth",
@@ -395,7 +428,10 @@
           "descriptionPt": "Um consultório urbano que publica um número móvel fora de horas (+49 171 5224541) além da sua linha diurna, uma raridade na região. Telefone primeiro em qualquer caso; o atendimento fora de horas é combinado.",
           "googleMapsUrl": "https://www.google.com/maps/search/Tierarztpraxis+Willner+Bayreuth"
         }
-      ]
+      ],
+      "titleDe": "Tierärzte in Bayreuth",
+      "introDe": "Oberfranken verfügt nicht mehr über eine durchgehend besetzte 24-Stunden-Tierklinik, daher betreiben Bayreuths Tierärzte einen rotierenden Ringnotdienst außerhalb der Öffnungszeiten: Sie rufen Ihre nächstgelegene Praxis an, und deren Anrufbeantworter nennt den diensthabenden Tierarzt. Speichern Sie die untenstehenden Nummern vor dem Wochenende.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Bayreuth with a Dog",
@@ -482,6 +518,22 @@
           "q": "Os cães são admitidos no Hofgarten e na Eremitage?",
           "a": "Sim, com trela de 120 cm no máximo segundo o regulamento dos jardins da administração bávara dos palácios. Os interiores (Palácio Novo, Ópera dos Margraves, museu da villa Wahnfried) não admitem cães, mas todos os jardins e a fachada da ópera percorrem-se livremente."
         }
+      ],
+      "titleDe": "Wichtige Tipps für einen Besuch in Bayreuth mit Hund",
+      "introDe": "Wagners Stadt ist elf Monate im Jahr kompakt, grün und entspannt mit Hunden; vom 25. Juli bis Ende August verändern die Festspiele den Rhythmus, füllen die Hotels ein Jahr im Voraus und den Grünen Hügel jeden Nachmittag. Planen Sie um das Festival und Bayerns Hunderegeln herum, und alles andere ist einfach.",
+      "faqsDe": [
+        {
+          "q": "Kann ich mit meinem Hund die Bayreuther Festspiele besuchen?",
+          "a": "Nein, Tiere sind bei den Aufführungen im Festspielhaus nicht zugelassen. Genießen Sie tagsüber vorher den Park am Grünen Hügel mit Ihrem Hund und buchen Sie dann für die Oper selbst einen Sitter; beachten Sie, dass Wagner-Opern vier bis sechs Stunden dauern, länger als die meisten Hunde allein in einem Hotelzimmer warten sollten."
+        },
+        {
+          "q": "Gibt es in Bayreuth einen 24-Stunden-Tierarzt?",
+          "a": "Keine durchgehend besetzte 24-Stunden-Klinik: Oberfrankens Tierärzte decken Nächte und Wochenenden über einen rotierenden Bereitschaftsdienst ab. Rufen Sie die Tierklinik Eckersdorf (+49 921 73760) oder das mobile Bereitschaftstelefon der Tierarztpraxis Willner (+49 171 5224541) an, und Sie werden an den diensthabenden Tierarzt verwiesen."
+        },
+        {
+          "q": "Sind Hunde im Hofgarten und in der Eremitage erlaubt?",
+          "a": "Ja, an einer maximal 120 cm langen Leine gemäß den Parkregeln der bayerischen Schlossverwaltung. Innenräume (Neues Schloss, Markgräfliches Opernhaus, Villa-Wahnfried-Museum) lassen keine Hunde zu, aber alle Gärten und die Fassade des Opernhauses sind frei begehbar."
+        }
       ]
     },
     "attractions": {
@@ -504,7 +556,8 @@
           "descriptionPt": "O teatro do festival construído por Wagner em 1876 na Colina Verde, ainda local de peregrinação do mundo da ópera cada verão a partir de 25 de julho. Os cães não entram, mas o parque em socalcos sob a fachada é um belo passeio de trela, com o melhor desfile de público da Francónia nas tardes de espetáculo.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/Festspielhaus+Bayreuth"
+          "googleMapsUrl": "https://www.google.com/maps/search/Festspielhaus+Bayreuth",
+          "descriptionDe": "Wagners eigens erbautes Festspieltheater von 1876 auf dem Grünen Hügel, noch immer jeden Sommer ab dem 25. Juli der Pilgerort der Opernwelt. Hunde dürfen nicht hinein, aber der terrassierte Park unterhalb der Fassade ist ein schöner Spaziergang an der Leine mit dem besten Menschenbeobachten Frankens an Vorstellungsnachmittagen."
         },
         {
           "name": "Markgräfliches Opernhaus",
@@ -516,7 +569,8 @@
           "descriptionPt": "A ópera barroca de 1748, Património Mundial como o teatro de corte mais bem conservado da Europa. Os cães ficam fora, mas a fachada na Opernstraße ancora o circuito do centro histórico, passando o Palácio Novo em direção ao Hofgarten.",
           "dogFriendly": false,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/Markgr%C3%A4fliches+Opernhaus+Bayreuth"
+          "googleMapsUrl": "https://www.google.com/maps/search/Markgr%C3%A4fliches+Opernhaus+Bayreuth",
+          "descriptionDe": "Das 1748 erbaute barocke Opernhaus, das als das besterhaltene Hoftheater Europas den Status UNESCO-Weltkulturerbe erhielt. Hunde bleiben draußen, aber die Fassade an der Opernstraße verankert die Altstadtrunde vorbei am Neuen Schloss und in den Hofgarten."
         },
         {
           "name": "Eremitage Altes Schloss",
@@ -528,9 +582,13 @@
           "descriptionPt": "O palácio-eremitério onde a margravina Wilhelmine encenava a sua corte como eremitas brincalhões, rodeado de grutas, fontes e o templo do Sol de cúpula dourada. Com um cão de trela (regra dos 120 cm) contorna-se cada capricho; os jogos de água funcionam a horas certas no verão.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/Eremitage+Altes+Schloss+Bayreuth"
+          "googleMapsUrl": "https://www.google.com/maps/search/Eremitage+Altes+Schloss+Bayreuth",
+          "descriptionDe": "Das Eremitageschloss, in dem Markgräfin Wilhelmine ihren Hof als spielerische Eremiten inszenierte, umgeben von Grotten, Brunnen und dem goldenen Sonnentempel. Mit einem angeleinten Hund (120-cm-Regel) können Sie jede Folly umrunden; die Wasserspiele laufen im Sommer zu festen Zeiten."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Bayreuth",
+      "introDe": "Bayreuths Wahrzeichen teilen sich deutlich auf: Innenräume wie das UNESCO-Markgräfliche Opernhaus sind hundefrei, aber die Umgebung, der Grüne Hügel, der Hofgarten bei Wagners Villa und die Eremitage-Follies, sind genau dort, wo ein Hund den Besuch besser macht.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Walking in Bayreuth",
@@ -569,7 +627,10 @@
           "priceRangePt": "A partir de cerca de 20 EUR por dia",
           "bookingRequired": true
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung & Gassigehen in Bayreuth",
+      "introDe": "Eine Wagner-Oper dauert vier bis sechs Stunden, viel zu lange, um einen Hund allein in einem Hotelzimmer zu lassen, was Bayreuth zu einer der wenigen Städte macht, in der die Buchung eines Sitters praktisch zum Ticket dazugehört. Die untenstehenden deutschen Plattformen listen Betreuer in und um die Stadt; reservieren Sie rechtzeitig vor der Festspielsaison.",
+      "faqsDe": []
     }
   }
 }

@@ -38,7 +38,11 @@
           "tipFr": "Réservez par téléphone la veille, les 4 tables extérieures partent vite et les pages bookings.com ne sont pas toujours synchronisées avec la famille.",
           "tipEs": "Reserva por teléfono el día antes, las 4 mesas exteriores vuelan y las páginas bookings.com no siempre están sincronizadas con la familia.",
           "tipPt": "Reserve por telefone na véspera, as 4 mesas exteriores esgotam depressa e as páginas do bookings.com nem sempre estão sincronizadas com a família.",
-          "googleMapsUrl": "https://maps.google.com/?q=Osteria+delle+Travi+Bari"
+          "googleMapsUrl": "https://maps.google.com/?q=Osteria+delle+Travi+Bari",
+          "descriptionDe": "Kult-Osteria im Herzen von Bari Vecchia, seit 1996 in Familienbesitz, berühmt für Orecchiette con cime di rapa und Tiella di riso, patate e cozze. Hunde willkommen auf der kleinen Terrasse und drinnen zu ruhigeren Zeiten.",
+          "petPolicyDe": "Angeleinte Hunde willkommen auf der Terrasse, Wassernäpfe auf Anfrage",
+          "mustTryDe": "Orecchiette con cime di rapa, Tiella di riso patate e cozze",
+          "tipDe": "Reservieren Sie telefonisch am Vortag, die 4 Außentische sind schnell vergeben, und Buchungsportale synchronisieren sich nicht immer mit der Familie."
         },
         {
           "name": "Panificio Fiore",
@@ -64,7 +68,11 @@
           "tipFr": "Arrivez avant 11h30 pour la plaque la plus fraîche, après 13h la version classique tomate est souvent épuisée.",
           "tipEs": "Llega antes de las 11:30 para la bandeja más fresca, sobre las 13:00 la versión clásica con tomate suele estar agotada.",
           "tipPt": "Chegue por volta das 11:30 para o tabuleiro de focaccia mais fresco; pelas 13:00 já esgotaram muitas vezes a versão clássica de tomate.",
-          "googleMapsUrl": "https://maps.google.com/?q=Panificio+Fiore+Bari"
+          "googleMapsUrl": "https://maps.google.com/?q=Panificio+Fiore+Bari",
+          "descriptionDe": "Holzofen-Focacceria barese seit 1956, der Goldstandard für Focaccia barese (mit Tomaten und Oliven) und Pucce-Sandwiches. Take-away-Theke mit einer winzigen Straßenterrasse, wo Hunde ihren Besitzern zu Füßen sitzen, während man isst.",
+          "petPolicyDe": "Nur draußen, Take-away-Theke",
+          "mustTryDe": "Focaccia barese, Sgagliozze, Panzerotti",
+          "tipDe": "Kommen Sie bis 11:30 Uhr für das frischeste Focaccia-Blech, bis 13:00 Uhr ist die klassische Pomodoro-Version oft ausverkauft."
         },
         {
           "name": "Terranima",
@@ -90,10 +98,17 @@
           "tipFr": "Demandez une table dans le patio à la réservation, beaucoup plus frais en soirée d'été que côté rue.",
           "tipEs": "Pide una mesa en el patio al reservar, mucho más fresco en las noches de verano que el lado de la calle.",
           "tipPt": "Peça uma mesa no pátio ao reservar, é bastante mais fresca nas noites de verão do que o lado da rua.",
-          "googleMapsUrl": "https://maps.google.com/?q=Terranima+Bari"
+          "googleMapsUrl": "https://maps.google.com/?q=Terranima+Bari",
+          "descriptionDe": "Slow-Food-Trattoria im Murat-Raster, die die bäuerliche Küche Apuliens mit saisonalen Menüs, alten Fliesenböden und einem Innenhof zelebriert. Hunde willkommen im Innenhof und auf der Terrasse zur Straße hin, Wassernäpfe werden angeboten.",
+          "petPolicyDe": "Hunde willkommen im Innenhof und auf der Straßenterrasse",
+          "mustTryDe": "Cavatelli con vongole, Fave e cicoria, Polpo arrosto",
+          "tipDe": "Bitten Sie bei der Reservierung um einen Tisch im Innenhof, er ist an Sommerabenden deutlich kühler als die Straßenseite."
         }
       ],
-      "titlePt": "Restaurantes pet-friendly em Bari"
+      "titlePt": "Restaurantes pet-friendly em Bari",
+      "titleDe": "Hundefreundliche Restaurants in Bari",
+      "introDe": "Baris Restaurantkultur ist in den Straßen von Bari Vecchia und an der Uferpromenade verwurzelt, wo Außenterrassen dominieren und angeleinte Hunde meist standardmäßig willkommen sind. Wassernäpfe erscheinen ungefragt in den besseren Osterien rund um die Piazza Mercantile und entlang der Lungomare.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Pet-Friendly Parks in Bari",
@@ -124,7 +139,10 @@
           "tipFr": "Évitez le milieu d'après-midi de juin à août, la pelouse ouverte surchauffe, la pinède au sud du lac garde de l'ombre jusqu'à 18h.",
           "tipEs": "Evita la media tarde de junio a agosto, el césped abierto recalienta, el pinar al sur del lago conserva sombra hasta las 18:00.",
           "tipPt": "Evite o meio da tarde de junho a agosto, quando a temperatura do relvado aberto dispara; o pinhal a sul do lago mantém sombra até às 18:00.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parco+2+Giugno+Bari"
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+2+Giugno+Bari",
+          "descriptionDe": "Baris größter Stadtpark (52.000 m²), 1987 rund um ein ehemaliges landwirtschaftliches Anwesen eröffnet, mit einem See, jahrhundertealten Olivenbäumen und Pinienhainen. Umzäunte Freilaufzone am Eingang Viale Einaudi, angeleinte Hunde willkommen im restlichen Park.",
+          "amenitiesDe": "Umzäunte Freilaufzone, Trinkbrunnen, Bänke, See (nicht zum Schwimmen)",
+          "tipDe": "Meiden Sie den späten Nachmittag von Juni bis August, wenn die Temperatur auf der offenen Rasenfläche stark ansteigt, der Pinienhain südlich des Sees bietet bis 18:00 Uhr Schatten."
         },
         {
           "name": "Parco Rossani",
@@ -146,7 +164,10 @@
           "tipFr": "La zone sans laisse plus petite (côté est) est plus calme pour les chiens timides ou petits, la grande zone ouest accueille les coureurs et les jeux de balle.",
           "tipEs": "La zona sin correa más pequeña (lado este) es más tranquila para perros tímidos o pequeños, la grande del oeste reúne corredores y juegos de pelota.",
           "tipPt": "A zona sem trela mais pequena (lado leste) é mais tranquila para cães tímidos ou pequenos; a maior, a oeste, reúne os corredores e os jogos de bola.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parco+Rossani+Bari"
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+Rossani+Bari",
+          "descriptionDe": "Ein kürzlich wiederbelebter Stadtpark (10 Hektar, in Etappen 2022–2024 eröffnet) auf dem Gelände der ehemaligen Rossani-Kaserne, mit zwei umzäunten Freilaufzonen, die 2023 eröffnet wurden. Moderne Beleuchtung, Trinkbrunnen und ein beliebter abendlicher Treffpunkt für Baris Hundebesitzer.",
+          "amenitiesDe": "Zwei umzäunte Freilaufzonen, Trinkwasser, Bänke, Beleuchtung bis 23:00 Uhr",
+          "tipDe": "Die kleinere Freilaufzone (Ostseite) ist ruhiger für schüchterne oder kleine Hunde, die größere Westzone ist bei aktiven Läufern und Ballspielen beliebt."
         },
         {
           "name": "Pineta San Francesco",
@@ -168,10 +189,16 @@
           "tipFr": "Entrez par le parking du Stadio della Vittoria et marchez vers le nord vers la Fiera, la moitié sud près de Pane e Pomodoro est plus fréquentée par les joggers.",
           "tipEs": "Entra por el parking del Stadio della Vittoria y camina hacia el norte hacia la Fiera, la mitad sur cerca de Pane e Pomodoro está más concurrida con corredores.",
           "tipPt": "Entre pelo parque de estacionamento do Stadio della Vittoria e caminhe para norte em direção à Fiera; a metade sul, perto de Pane e Pomodoro, fica mais movimentada com corredores.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pineta+San+Francesco+Bari"
+          "googleMapsUrl": "https://maps.google.com/?q=Pineta+San+Francesco+Bari",
+          "descriptionDe": "Ein langer Küstenpinienwald entlang der nördlichen Lungomare in Richtung Fiera del Levante, der wichtigste schattige Sommer-Spazierkorridor der Stadt für Hunde. Leinenpflicht, aber der sandige Untergrund unter den Pinien und die stetige Meeresbrise machen ihn zum angenehmsten Spaziergang an heißen Tagen.",
+          "amenitiesDe": "Durchgehender Schatten, Meeresbrise, paralleler Uferradweg, Bänke",
+          "tipDe": "Betreten Sie ihn am Parkplatz des Stadio della Vittoria und gehen Sie nach Norden Richtung Fiera, die südliche Hälfte nahe Pane e Pomodoro ist stärker von Joggern frequentiert."
         }
       ],
-      "titlePt": "Parques pet-friendly em Bari"
+      "titlePt": "Parques pet-friendly em Bari",
+      "titleDe": "Haustierfreundliche Parks in Bari",
+      "introDe": "Bari hat seit 2020 in mehreren öffentlichen Parks eigene Freilaufzonen für Hunde (aree di sgambamento) eingerichtet, wobei der Parco 2 Giugno die großzügigste ist. Im restlichen Stadtgebiet müssen Hunde nach italienischen Kommunalvorschriften an der Leine geführt werden und einen Maulkorb mitführen (beim Besitzer, nicht zwingend angelegt).",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Travelling Around Bari with a Pet",
@@ -198,7 +225,10 @@
           "tipFr": "Prévoyez taxis ou marche avec un chien moyen ou grand, l'interdiction AMTAB rend le réseau bus inutilisable pour la plupart des voyageurs canins.",
           "tipEs": "Planifica taxis o caminar con un perro mediano o grande, la prohibición de AMTAB hace que la red de autobuses sea inutilizable para la mayoría de los viajeros con perro.",
           "tipPt": "Conte com táxis ou com andar a pé se tiver um cão médio ou grande; a proibição da AMTAB torna a rede de autocarros inutilizável para a maioria dos viajantes com um cão.",
-          "website": "https://www.amtab.it/"
+          "website": "https://www.amtab.it/",
+          "descriptionDe": "AMTAB betreibt das städtische Busnetz. Laut Vorschrift reisen nur kleine Hunde in geschlossenen Transportboxen kostenlos; mittelgroße und große Hunde sind in regulären Bussen nicht zugelassen (eine 2025er Kontroverse, die noch von der Stadtverwaltung geprüft wird). Assistenzhunde sind stets ohne Einschränkung erlaubt.",
+          "petPolicyDe": "Kleine Hunde in geschlossenen Boxen kostenlos; mittelgroße/große Hunde nicht zugelassen",
+          "tipDe": "Planen Sie mit einem mittelgroßen oder großen Hund Taxis oder Fußwege ein, das AMTAB-Verbot macht das Busnetz für die meisten Reisenden mit echtem Hund unbrauchbar."
         },
         {
           "name": "Trenitalia regional & Frecciarossa",
@@ -216,7 +246,10 @@
           "tipFr": "Polignano a Mare (35 min), Monopoli (45 min) et Alberobello (changement à Bari Sud Est) tous accessibles en sortie canine. Achetez un « biglietto cane » séparé à la borne.",
           "tipEs": "Polignano a Mare (35 min), Monopoli (45 min) y Alberobello (transbordo en Bari Sud Est) accesibles para excursiones caninas. Compra un 'biglietto cane' aparte en la máquina.",
           "tipPt": "Polignano a Mare (35 min), Monopoli (45 min) e Alberobello (transbordo em Bari Sud Est) são todos acessíveis para passeios de um dia pet-friendly. Compre um 'biglietto cane' à parte na máquina.",
-          "website": "https://www.trenitalia.com/"
+          "website": "https://www.trenitalia.com/",
+          "descriptionDe": "Bari Centrale ist das Tor nach Apulien mit dem Zug. Trenitalia akzeptiert angeleinte und mit Maulkorb ausgestattete Hunde auf Regional-, Intercity- und Frecciarossa-Verbindungen (5 € Festpreis oder 50 % des Fahrpreises 2. Klasse). Kleine Hunde in Transportboxen reisen kostenlos; ein Hund pro Fahrgast.",
+          "petPolicyDe": "Angeleinte und mit Maulkorb versehene Hunde 5 € Festpreis; kleine Hunde in Transportbox kostenlos",
+          "tipDe": "Polignano a Mare (35 Min), Monopoli (45 Min) und Alberobello (Umstieg in Bari Sud Est) sind alle für hundefreundliche Tagesausflüge erreichbar. Kaufen Sie am Automaten ein separates 'biglietto cane'."
         },
         {
           "name": "Bari Karol Wojtyla Airport",
@@ -234,10 +267,16 @@
           "tipFr": "Le train FerroTramviaria Bari Aeroporto (5 €, 17 min jusqu'à Bari Centrale) accepte les chiens comme Trenitalia, plus simple que la navette bus avec un chien moyen.",
           "tipEs": "El tren FerroTramviaria Bari Aeroporto (5 €, 17 min hasta Bari Centrale) admite perros como Trenitalia, más fácil que la lanzadera bus con un perro mediano.",
           "tipPt": "O comboio FerroTramviaria Bari Aeroporto (5 €, 17 min até Bari Centrale) admite cães nas mesmas condições da Trenitalia, mais fácil do que o autocarro de ligação com um cão médio.",
-          "website": "https://www.aeroportidipuglia.it/en/bari-airport"
+          "website": "https://www.aeroportidipuglia.it/en/bari-airport",
+          "descriptionDe": "Apuliens Hauptflughafen (BRI), 8 km vom Zentrum entfernt. Akzeptiert Haustiere in der Kabine (max. 10 kg mit Transportbox) und als Fracht bei den meisten italienischen und europäischen Fluggesellschaften. Auslauf-Bereich für Haustiere vor dem Abflugterminal.",
+          "petPolicyDe": "Kabinenhaustiere max. 10 kg mit Transportbox; Fracht für größere Hunde bei den meisten Airlines",
+          "tipDe": "Der FerroTramviaria-Zug Bari Aeroporto (5 €, 17 Min bis Bari Centrale) akzeptiert Hunde wie Trenitalia, einfacher als der Busshuttle mit einem mittelgroßen Hund."
         }
       ],
-      "titlePt": "Deslocar-se por Bari com um animal"
+      "titlePt": "Deslocar-se por Bari com um animal",
+      "titleDe": "Mit einem Haustier in Bari unterwegs",
+      "introDe": "Bari ist kompakt und zu Fuß erkundbar: die Altstadt, die Uferpromenade und das Murat-Raster liegen alle innerhalb von 2 km zueinander. Die Regeln für öffentliche Verkehrsmittel für Hunde sind strenger als in Norditalien, daher lässt sich die Stadt am besten zu Fuß oder mit dem Taxi mit bestätigter Tiermitnahme erkunden.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches near Bari",
@@ -270,7 +309,11 @@
           "tipFr": "Accessible en Trenitalia Bari-Polignano (35 min, 3,20 €) + 20 min de marche au sud par la Via Roma ; en été réservez un transat en ligne pour éviter les arrivées de midi.",
           "tipEs": "Accesible en Trenitalia Bari-Polignano (35 min, 3,20 €) más 20 min andando al sur por Via Roma; en verano reserva una hamaca online para evitar las llegadas del mediodía.",
           "tipPt": "Chegue de Trenitalia Bari-Polignano (35 min, 3,20 €) mais 20 min a pé para sul pela Via Roma; no verão reserve uma espreguiçadeira online para evitar as chegadas do meio-dia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Bau+Beach+Polignano"
+          "googleMapsUrl": "https://maps.google.com/?q=Bau+Beach+Polignano",
+          "descriptionDe": "Italiens erster 'Bau Beach' (1996), 35 Min südlich von Bari mit dem Auto oder Zug. Eigener Hundestrand mit umzäunten Bereichen, kostenloser Dusche, Wassernäpfen, Hundeduschen und einem Kiosk. Geöffnet Mitte Mai bis September.",
+          "seasonalRestrictionsDe": "Geöffnet Mitte Mai bis Ende September",
+          "amenitiesDe": "Umzäunter Bereich, kostenlose Hundedusche, Wassernäpfe, Kiosk, kostenpflichtige Sonnenliegen",
+          "tipDe": "Erreichbar mit Trenitalia Bari–Polignano (35 Min, 3,20 €) plus 20 Min Fußweg südlich auf der Via Roma; buchen Sie im Sommer eine Sonnenliege online, um den Ansturm zur Mittagszeit zu vermeiden."
         },
         {
           "name": "Spiaggia di Capitolo (off-season)",
@@ -294,7 +337,11 @@
           "tipFr": "Octobre-novembre et mars-avril sont la fenêtre parfaite, eau à 18-22 °C et presque aucun autre chien ni promeneur.",
           "tipEs": "Octubre-noviembre y marzo-abril son la ventana perfecta, agua a 18-22 °C y casi ningún otro perro ni bañista.",
           "tipPt": "Outubro-novembro e março-abril são a janela perfeita, água a 18-22 °C e quase nenhum outro cão ou banhista.",
-          "googleMapsUrl": "https://maps.google.com/?q=Spiaggia+Capitolo+Monopoli"
+          "googleMapsUrl": "https://maps.google.com/?q=Spiaggia+Capitolo+Monopoli",
+          "descriptionDe": "Ein langer Sandstrand südlich von Monopoli (45 Min von Bari), im Winter unreguliert und ohne Liegenverleih. Außerhalb der Saison (Oktober–April) laufen Hunde entlang der Dünenkämme und im nassen Sand ohne Einschränkung frei umher.",
+          "seasonalRestrictionsDe": "Freilauf Oktober–April; Liegenverleiher setzen Leinen-/Boxenpflicht Mai–September durch",
+          "amenitiesDe": "Offener Strand, Dünen, außerhalb der Saison keine Einrichtungen vor Ort",
+          "tipDe": "Oktober–November und März–April sind das perfekte Zeitfenster, Wassertemperatur 18–22 °C und kaum andere Hunde oder Menschen."
         },
         {
           "name": "Lungomare San Girolamo cliffs",
@@ -318,10 +365,17 @@
           "tipFr": "Apportez une serviette douce et un tapis antidérapant pour les coussinets, le calcaire est brûlant de 11h à 17h en été.",
           "tipEs": "Lleva una toalla suave y una alfombrilla antideslizante para almohadillas, la caliza quema de 11:00 a 17:00 en verano.",
           "tipPt": "Leve uma toalha macia e um tapete antiderrapante para as patas, o calcário acumula calor de forma intensa das 11:00 às 17:00 no verão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Lungomare+San+Girolamo+Bari"
+          "googleMapsUrl": "https://maps.google.com/?q=Lungomare+San+Girolamo+Bari",
+          "descriptionDe": "Die felsige Nordküste von Bari mit flachen Kalksteinplatten, die ins klare Wasser abfallen. Kein Sandstrand, aber ein beliebter Hundeschwimmplatz außerhalb der Saison, besonders der Abschnitt bei Marisabella, wo Leitern einen sicheren Wasserzugang bieten.",
+          "seasonalRestrictionsDe": "Ganzjährig zugänglich; im Sommer bei starkem Familienbetrieb meiden",
+          "amenitiesDe": "Kalksteinplatten, Leitern ins Wasser bei Marisabella, kein Schatten",
+          "tipDe": "Bringen Sie ein weiches Handtuch und eine rutschfeste Pfotenmatte mit, der Kalkstein heizt sich im Sommer von 11:00 bis 17:00 Uhr stark auf."
         }
       ],
-      "titlePt": "Praias pet-friendly perto de Bari"
+      "titlePt": "Praias pet-friendly perto de Bari",
+      "titleDe": "Hundefreundliche Strände in der Nähe von Bari",
+      "introDe": "Baris Stadtstrände (Pane e Pomodoro, Torre Quetta) werden bis 2026–2027 umfassend saniert, mit einer geplanten Hundezone im Neubau. Für bestätigten hundefreundlichen Adria-Sandstrand fahren Sie derzeit 20–40 Minuten die Küste entlang nach Süden.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinary Clinics in Bari",
@@ -352,7 +406,10 @@
           "tipFr": "Appelez avant même pour une urgence, l'accueil peut pré-charger l'identifiant puce via scan du passeport européen, gain de 10-15 min à l'arrivée.",
           "tipEs": "Llama antes incluso para emergencias, la recepción puede precargar el ID de microchip vía escaneo del pasaporte europeo, ahorrando 10-15 min al llegar.",
           "tipPt": "Ligue antes mesmo em caso de urgência, a receção pode preparar o ID de microchip do seu animal a partir da leitura do passaporte europeu, poupando 10 a 15 min à chegada.",
-          "googleMapsUrl": "https://maps.google.com/?q=Santa+Fara+Ospedale+Veterinario+Bari"
+          "googleMapsUrl": "https://maps.google.com/?q=Santa+Fara+Ospedale+Veterinario+Bari",
+          "descriptionDe": "Vollversorgende 24/7-Tierklinik mit Intensivstation, Notfallchirurgie, diensthabendem Anästhesisten und moderner Diagnostik. Eine der größten Tierkliniken Apuliens, englischsprachiges Personal während der Geschäftszeiten.",
+          "servicesDe": "24-Stunden-Notdienst, Intensivstation, Chirurgie, Bildgebung, Innere Medizin, Dermatologie",
+          "tipDe": "Rufen Sie auch bei Notfällen vorher an, die Rezeption kann die Mikrochip-ID Ihres Tieres per Scan des EU-Ausweises vorab abrufen und so 10–15 Minuten bei der Ankunft sparen."
         },
         {
           "name": "Clinica Veterinaria Croce Azzurra",
@@ -374,7 +431,10 @@
           "tipFr": "Marche facile ou taxi de 5 min depuis la grille Murat, les médecins prennent les appels en anglais et confirment les rendez-vous par SMS.",
           "tipEs": "Caminata fácil o taxi de 5 min desde la cuadrícula Murat, los doctores atienden llamadas en inglés y confirman citas por SMS.",
           "tipPt": "A pé com facilidade ou a 5 min de táxi da malha Murat; os médicos atendem chamadas em inglês e confirmam marcações por SMS.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Croce+Azzurra+Bari"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Croce+Azzurra+Bari",
+          "descriptionDe": "Seit Langem etablierte 24/7-Tierklinik im Zentrum von Bari mit Allgemeinmedizin, Chirurgie, Zahnmedizin und hauseigenem Labor. Nächstgelegene 24-Stunden-Option zur Altstadt und zum Hotelcluster im Murat-Viertel.",
+          "servicesDe": "24-Stunden-Notdienst, Chirurgie, Labor, Zahnmedizin, hauseigene Apotheke",
+          "tipDe": "Bequem zu Fuß oder mit dem Taxi in 5 Minuten vom Murat-Raster erreichbar, die Ärzte nehmen englischsprachige Anrufe entgegen und können Termine per SMS bestätigen."
         },
         {
           "name": "Centro Veterinario Einaudi",
@@ -396,10 +456,16 @@
           "tipFr": "Si vous logez près du Parco 2 Giugno, c'est l'urgence la plus proche, 10 min à pied via Viale Einaudi.",
           "tipEs": "Si te alojas cerca del Parco 2 Giugno, es la urgencia más cercana, 10 min andando por Viale Einaudi.",
           "tipPt": "Se estiver alojado perto do Parco 2 Giugno, esta é a opção de urgência mais próxima, a 10 min a pé pela Viale Einaudi.",
-          "googleMapsUrl": "https://maps.google.com/?q=Centro+Veterinario+Einaudi+Bari"
+          "googleMapsUrl": "https://maps.google.com/?q=Centro+Veterinario+Einaudi+Bari",
+          "descriptionDe": "Moderne 24-Stunden-Tierklinik nahe dem Parco 2 Giugno mit Allgemeinmedizin, Chirurgie, Ultraschall, Röntgen und katzenfreundlichem Raum. Gut geeignet für Reisende, die südöstlich des Zentrums oder in der Nähe des Parks wohnen.",
+          "servicesDe": "24-Stunden-Notdienst, Chirurgie, Bildgebung, katzenfreundliche Räume",
+          "tipDe": "Wenn Sie in der Nähe des Parco 2 Giugno wohnen, ist dies die nächstgelegene Notfalloption, 10 Minuten zu Fuß entlang des Viale Einaudi."
         }
       ],
-      "titlePt": "Clínicas veterinárias em Bari"
+      "titlePt": "Clínicas veterinárias em Bari",
+      "titleDe": "Tierkliniken in Bari",
+      "introDe": "Bari verfügt über mehrere 24-Stunden-Tierkliniken, eine ungewöhnlich hohe Dichte für Süditalien, die die Größe der Stadt als Regionalhauptstadt Apuliens widerspiegelt. Die meisten nehmen Notfälle ohne Termin an, und in den größeren Kliniken wird Englisch weitgehend verstanden.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Travelling to Bari with a Dog: Practical Tips",
@@ -417,7 +483,8 @@
           "description": "April-June and September-October are ideal, average highs 20-26 °C, the sea is swimmable for dogs at the off-leash beaches, and city pavements are walkable all day. July-August are punishing (35-38 °C with high humidity); November-March is mild (12-15 °C) and quiet.",
           "descriptionFr": "Avril-juin et septembre-octobre sont idéaux, maxima moyens 20-26 °C, la mer est baignable pour les chiens sur les plages sans laisse, et les trottoirs sont marchables toute la journée. Juillet-août sont éprouvants (35-38 °C avec forte humidité) ; novembre-mars est doux (12-15 °C) et calme.",
           "descriptionEs": "Abril-junio y septiembre-octubre son ideales, máximas medias 20-26 °C, el mar es bañable para perros en playas sin correa, y las aceras son caminables todo el día. Julio-agosto son agotadores (35-38 °C con alta humedad); noviembre-marzo es suave (12-15 °C) y tranquilo.",
-          "descriptionPt": "Abril-junho e setembro-outubro são ideais, com máximas médias de 20-26 °C, o mar dá para os cães nadarem nas praias sem trela e os passeios da cidade percorrem-se a pé todo o dia. Julho e agosto são penosos (35-38 °C com humidade elevada); de novembro a março o clima é ameno (12-15 °C) e tranquilo."
+          "descriptionPt": "Abril-junho e setembro-outubro são ideais, com máximas médias de 20-26 °C, o mar dá para os cães nadarem nas praias sem trela e os passeios da cidade percorrem-se a pé todo o dia. Julho e agosto são penosos (35-38 °C com humidade elevada); de novembro a março o clima é ameno (12-15 °C) e tranquilo.",
+          "descriptionDe": "April–Juni und September–Oktober sind ideal, Höchsttemperaturen im Schnitt 20–26 °C, das Meer ist für Hunde an den Freilaufstränden schwimmbar, und die Gehwege der Stadt sind den ganzen Tag begehbar. Juli–August sind anstrengend (35–38 °C bei hoher Luftfeuchtigkeit); November–März ist mild (12–15 °C) und ruhig."
         },
         {
           "name": "AMTAB bus restrictions for medium and large dogs",
@@ -425,14 +492,16 @@
           "description": "Bari's AMTAB regolamento prevents medium and large dogs from boarding city buses (small dogs in closed carriers OK). Plan to walk (the centre is 2 km wide), use taxis (most accept leashed dogs on prior request), or take the Trenitalia or FerroTramviaria train to neighbouring towns.",
           "descriptionFr": "Le règlement AMTAB de Bari interdit les chiens moyens et grands dans les bus urbains (petits chiens en panier fermé OK). Prévoyez la marche (centre large de 2 km), les taxis (la plupart acceptent le chien en laisse sur demande préalable), ou le train Trenitalia ou FerroTramviaria pour les villes voisines.",
           "descriptionEs": "El reglamento AMTAB de Bari prohíbe perros medianos y grandes en los autobuses urbanos (pequeños en transportín cerrado sí). Planifica caminar (centro de 2 km), taxis (la mayoría admiten perro con correa previa solicitud), o tren Trenitalia o FerroTramviaria a poblaciones vecinas.",
-          "descriptionPt": "O regulamento da AMTAB de Bari impede os cães médios e grandes de embarcar nos autocarros urbanos (cães pequenos em transportadora fechada são permitidos). Conte com andar a pé (o centro tem 2 km de largura), usar táxis (a maioria aceita cães com trela mediante pedido prévio) ou apanhar o comboio Trenitalia ou FerroTramviaria para as localidades vizinhas."
+          "descriptionPt": "O regulamento da AMTAB de Bari impede os cães médios e grandes de embarcar nos autocarros urbanos (cães pequenos em transportadora fechada são permitidos). Conte com andar a pé (o centro tem 2 km de largura), usar táxis (a maioria aceita cães com trela mediante pedido prévio) ou apanhar o comboio Trenitalia ou FerroTramviaria para as localidades vizinhas.",
+          "descriptionDe": "Baris AMTAB-Vorschrift verbietet mittelgroßen und großen Hunden das Einsteigen in Stadtbusse (kleine Hunde in geschlossenen Boxen erlaubt). Planen Sie zu Fuß zu gehen (das Zentrum ist 2 km breit), nutzen Sie Taxis (die meisten akzeptieren angeleinte Hunde auf vorherige Anfrage) oder nehmen Sie den Trenitalia- oder FerroTramviaria-Zug in Nachbarorte."
         },
         {
           "name": "Currency, EU passport & local rules",
           "description": "Italy uses the euro and is in the EU pet passport system: microchip + valid rabies vaccination + EU passport required. Italian municipal rules nationwide: leash mandatory in public, muzzle must be carried on the owner (not necessarily worn). Pet supplements at Bari hotels average 10-20 €/night.",
           "descriptionFr": "L'Italie utilise l'euro et fait partie du passeport européen : puce + vaccin antirabique valide + passeport européen exigés. Règle municipale italienne : laisse obligatoire en public, muselière à porter sur soi (pas forcément mise). Suppléments animaux moyens dans les hôtels de Bari 10-20 €/nuit.",
           "descriptionEs": "Italia usa el euro y está en el pasaporte europeo de mascotas: microchip + vacuna antirrábica vigente + pasaporte UE exigidos. Norma municipal italiana: correa obligatoria en público, bozal a llevar encima (no necesariamente puesto). Suplementos animal medios en hoteles de Bari 10-20 €/noche.",
-          "descriptionPt": "Itália usa o euro e integra o sistema do passaporte europeu de animais: microchip + vacina antirrábica válida + passaporte UE exigidos. Regras municipais italianas em todo o país: trela obrigatória em espaço público, o açaime tem de ser levado pelo dono (não necessariamente posto). Os suplementos para animais nos hotéis de Bari rondam, em média, 10-20 €/noite."
+          "descriptionPt": "Itália usa o euro e integra o sistema do passaporte europeu de animais: microchip + vacina antirrábica válida + passaporte UE exigidos. Regras municipais italianas em todo o país: trela obrigatória em espaço público, o açaime tem de ser levado pelo dono (não necessariamente posto). Os suplementos para animais nos hotéis de Bari rondam, em média, 10-20 €/noite.",
+          "descriptionDe": "Italien nutzt den Euro und ist im EU-Heimtierausweissystem: Mikrochip + gültige Tollwutimpfung + EU-Heimtierausweis erforderlich. Italienische Kommunalvorschriften landesweit: Leinenpflicht in der Öffentlichkeit, Maulkorb muss vom Besitzer mitgeführt werden (nicht zwingend angelegt). Haustierzuschläge in Baris Hotels liegen im Durchschnitt bei 10–20 €/Nacht."
         }
       ],
       "tipsEn": [
@@ -494,6 +563,18 @@
           "q": "O meu cão pode andar no autocarro urbano da AMTAB em Bari?",
           "a": "Apenas cães pequenos em transportadora fechada, gratuitamente. Os cães médios e grandes não são atualmente permitidos nos autocarros da AMTAB (um regulamento de 2025 ainda em revisão municipal). A cidade é compacta e percorre-se a pé; os táxis aceitam cães com trela mediante pedido."
         }
+      ],
+      "titleDe": "Mit dem Hund nach Bari reisen: praktische Tipps",
+      "introDe": "Bari vereint eine UNESCO-nahe Altstadt rund um die Basilika San Nicola, eine 4 km lange Adria-Uferpromenade, eine aktive Hundeparkpolitik seit 2020 und drei 24-Stunden-Tierkliniken. Meiden Sie Mitte Juli bis Mitte August, wenn 35–38 °C Hitze und überfüllte Stadtstrände das Leben für einen Hund schwierig machen.",
+      "faqsDe": [
+        {
+          "q": "Eignet sich Bari für ein hundefreundliches Wochenende?",
+          "a": "Ja, außerhalb von Mitte Juli bis Mitte August. Bari hat eine begehbare Altstadt, zwei große Freilaufparks, drei 24-Stunden-Tierkliniken und Adria-Hundestrände 35 Minuten südlich in Polignano a Mare. Meiden Sie die sommerliche Spitzenhitze (35–38 °C bei hoher Luftfeuchtigkeit)."
+        },
+        {
+          "q": "Darf mein Hund mit dem AMTAB-Stadtbus in Bari fahren?",
+          "a": "Nur kleine Hunde in geschlossenen Transportboxen, kostenlos. Mittelgroße und große Hunde sind derzeit in AMTAB-Bussen nicht zugelassen (eine Vorschrift von 2025, die noch von der Stadtverwaltung geprüft wird). Die Stadt ist kompakt und zu Fuß erkundbar; Taxis nehmen angeleinte Hunde auf Anfrage mit."
+        }
       ]
     },
     "attractions": {
@@ -523,7 +604,10 @@
           "tipFr": "Marchez tôt (avant 10h) pour voir les mamies fabricant les orecchiette devant leur maison sur la Via Arco Basso, à midi la ruelle est saturée de touristes.",
           "tipEs": "Camina temprano (antes de las 10:00) para ver a las señoras fabricando orecchiette delante de su casa en Via Arco Basso, hacia el mediodía la callejuela está saturada de turistas.",
           "tipPt": "Passeie cedo (antes das 10:00) para ver as senhoras a fazer orecchiette à porta de casa na Via Arco Basso; ao meio-dia a ruela fica apinhada de turistas, ombro a ombro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Bari+Vecchia"
+          "googleMapsUrl": "https://maps.google.com/?q=Bari+Vecchia",
+          "descriptionDe": "Ein ummauertes mittelalterliches Viertel zwischen Piazza Mercantile und der Kathedrale, mit den berühmten Orecchiette-Macherinnen der Via Arco Basso und den Höfen von San Nicola. Vollständig begehbar, hundetolerante Osterien und Cafés überall.",
+          "petPolicyDe": "Freiluftviertel, angeleinte Hunde überall willkommen",
+          "tipDe": "Gehen Sie früh (vor 10:00 Uhr), um die Orecchiette-Frauen bei der Arbeit vor ihren Häusern in der Via Arco Basso zu sehen, gegen Mittag ist die Gasse voller Touristen."
         },
         {
           "name": "Castello Svevo (Norman-Swabian Castle exterior)",
@@ -542,7 +626,10 @@
           "tipFr": "Faites le tour de la douve dans le sens horaire depuis la Piazza Federico II pour capter le soleil de fin d'après-midi sur le bastion sud, top spot photo avec le chien.",
           "tipEs": "Rodea el foso en sentido horario desde Piazza Federico II para captar el sol de tarde en el bastión sur, mejor spot fotográfico con el perro.",
           "tipPt": "Percorra o fosso no sentido dos ponteiros do relógio a partir da Piazza Federico II para apanhar o sol do fim da tarde no baluarte sul, o melhor ângulo para fotos com o cão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Castello+Svevo+Bari"
+          "googleMapsUrl": "https://maps.google.com/?q=Castello+Svevo+Bari",
+          "descriptionDe": "Burg aus dem 12. Jahrhundert, erbaut von den Normannen und von Friedrich II. von Schwaben umgebaut, beherrscht den westlichen Rand von Bari Vecchia mit einem weiten, an der Leine begehbaren Grabengarten. Das Innere ist ein Museum und lässt keine Haustiere zu, doch das umliegende Gelände ist hundefreundlich.",
+          "petPolicyDe": "Außengelände hundefreundlich an der Leine, Museum im Inneren für Haustiere geschlossen",
+          "tipDe": "Gehen Sie im Uhrzeigersinn den Graben entlang von der Piazza Federico II aus, um die späte Nachmittagssonne auf der südlichen Bastion zu erleben, ein erstklassiger Fotospot mit dem Hund."
         },
         {
           "name": "Lungomare Nazario Sauro promenade",
@@ -561,9 +648,15 @@
           "tipFr": "Marchez vers le sud jusqu'à Pane e Pomodoro au coucher du soleil pour voir les Bariens promener leur chien en masse le long des bancs du parapet.",
           "tipEs": "Camina hacia el sur hasta Pane e Pomodoro al atardecer para ver a los bareses paseando a sus perros en masa por los bancos del muro.",
           "tipPt": "Caminhe para sul até Pane e Pomodoro ao pôr do sol para ver os habitantes a passear os cães em grande número ao longo dos bancos do muro do mar.",
-          "googleMapsUrl": "https://maps.google.com/?q=Lungomare+Nazario+Sauro+Bari"
+          "googleMapsUrl": "https://maps.google.com/?q=Lungomare+Nazario+Sauro+Bari",
+          "descriptionDe": "Italiens längste Uferpromenade, rund 4 km gepflasterter Weg zwischen Bari Vecchia und dem südlichen Messegelände. Die gesamte Strecke ist an der Leine hundefreundlich und verbindet die Altstadt mit Pane e Pomodoro und der Pineta San Francesco.",
+          "petPolicyDe": "Offene Promenade, angeleinte Hunde rund um die Uhr willkommen",
+          "tipDe": "Gehen Sie zum Sonnenuntergang südlich nach Pane e Pomodoro, um Einheimische zu sehen, die massenhaft ihre Hunde entlang der Bänke an der Ufermauer spazieren führen."
         }
-      ]
+      ],
+      "titleDe": "Haustierfreundliche Attraktionen in Bari",
+      "introDe": "Baris beste Attraktionen sind im Freien und naturgemäß mit Hund zugänglich: das Labyrinth von Bari Vecchia, die Uferpromenade Lungomare und das Castello Svevo von außen. Sakrale Innenräume (Basilika San Nicola) lassen in der Regel keine Haustiere zu; Assistenzhunde sind stets erlaubt.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet-Sitting & Dog Walking in Bari",
@@ -589,7 +682,9 @@
           "tip": "Filter for English-speaking sitters in the platform settings, about 60% of Bari sitters speak fluent English, higher than Lecce.",
           "tipFr": "Filtrez pour les sitters anglophones dans les réglages, environ 60 % des sitters de Bari parlent anglais couramment, supérieur à Lecce.",
           "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes, alrededor del 60 % de los cuidadores de Bari habla inglés con fluidez, superior a Lecce.",
-          "tipPt": "Filtre por cuidadores que falem inglês nas definições da plataforma; cerca de 60% dos cuidadores de Bari falam inglês fluente, mais do que em Lecce."
+          "tipPt": "Filtre por cuidadores que falem inglês nas definições da plataforma; cerca de 60% dos cuidadores de Bari falam inglês fluente, mais do que em Lecce.",
+          "descriptionDe": "Internationale Plattform für Haustierbetreuung mit rund 40 verifizierten Betreuern in Bari innerhalb von 5 km vom Zentrum, Kurzbesuche, Hundetagesbetreuung, Übernachtungspension. Alle Betreuer geprüft, Versicherung inbegriffen.",
+          "tipDe": "Filtern Sie in den Plattformeinstellungen nach englischsprachigen Betreuern, etwa 60 % der Betreuer in Bari sprechen fließend Englisch, mehr als in Lecce."
         },
         {
           "name": "Rover Italy - Bari",
@@ -605,7 +700,9 @@
           "tip": "Book at least 72h ahead in summer (June-August), the most popular sitters have 4-week waiting lists at peak season.",
           "tipFr": "Réservez au moins 72h à l'avance en été (juin-août), les sitters les plus populaires ont 4 semaines de liste d'attente en haute saison.",
           "tipEs": "Reserva al menos 72h antes en verano (junio-agosto), los cuidadores más populares tienen 4 semanas de lista de espera en alta temporada.",
-          "tipPt": "Reserve com pelo menos 72h de antecedência no verão (junho-agosto), os cuidadores mais procurados têm listas de espera de 4 semanas na alta época."
+          "tipPt": "Reserve com pelo menos 72h de antecedência no verão (junho-agosto), os cuidadores mais procurados têm listas de espera de 4 semanas na alta época.",
+          "descriptionDe": "Internationale Plattform (der weltweit größte Marktplatz für Hundebetreuung) mit rund 25 verifizierten Betreuern in Bari. Durchschnittspreis 20–30 €/Tag für Pension; Versicherung bei jeder Buchung inbegriffen.",
+          "tipDe": "Buchen Sie im Sommer (Juni–August) mindestens 72 Stunden im Voraus, die beliebtesten Betreuer haben in der Hochsaison 4-wöchige Wartelisten."
         }
       ],
       "tipsEn": [
@@ -666,6 +763,18 @@
         {
           "q": "Consigo encontrar um cuidador que fale inglês em Bari?",
           "a": "Sim, cerca de 60% dos cuidadores de Bari na Pawshake falam inglês fluente, mais do que nas localidades mais pequenas do Salento. Filtre por idioma e leia as avaliações recentes para confirmar."
+        }
+      ],
+      "titleDe": "Haustierbetreuung und Hundespaziergänge in Bari",
+      "introDe": "Für Tagesausflüge, bei denen der Hund nicht mitkommen kann (Innenraum der Basilika San Nicola, das normannische Burgmuseum, Alberobello), bietet Bari verlässliche, verifizierte Haustierbetreuung über internationale und italienische Plattformen.",
+      "faqsDe": [
+        {
+          "q": "Was kostet Hundetagesbetreuung in Bari?",
+          "a": "20–30 € pro Tag, je nach Betreuer und Hundegröße, über Pawshake oder Rover. Kurzbesuche kosten 10–15 € für 30 Minuten."
+        },
+        {
+          "q": "Finde ich in Bari einen englischsprachigen Betreuer?",
+          "a": "Ja, etwa 60 % der Betreuer in Bari auf Pawshake sprechen fließend Englisch, mehr als in kleineren Orten im Salento. Filtern Sie nach Sprache und lesen Sie aktuelle Bewertungen zur Bestätigung."
         }
       ]
     }

@@ -1,4 +1,10 @@
-{"slug":"almeria","name":"Almería","country":"Spain","flag":"🇪🇸","lastUpdated":"2026-06-23","guides":{
+{
+  "slug": "almeria",
+  "name": "Almería",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "lastUpdated": "2026-06-23",
+  "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Almería",
       "titleFr": "Restaurants acceptant les animaux à Almería",
@@ -33,7 +39,11 @@
           "tipFr": "Demandez une table à l'ombre sur la terrasse en été et réclamez une gamelle d'eau. L'asphalte reste chaud bien après le coucher du soleil",
           "tipEs": "Pide una mesa de terraza a la sombra en verano y solicita un cuenco de agua. El asfalto sigue caliente hasta bien después del atardecer",
           "tipPt": "Peça uma mesa de esplanada à sombra no verão e solicite uma taça de água. O asfalto continua quente até bem depois do pôr do sol",
-          "googleMapsUrl": "https://maps.google.com/?q=La+Fusi%C3%B3n+Almer%C3%ADa+Calle+Fuente+Victoria"
+          "googleMapsUrl": "https://maps.google.com/?q=La+Fusi%C3%B3n+Almer%C3%ADa+Calle+Fuente+Victoria",
+          "descriptionDe": "Ein moderner, geräumiger Burger- und Fusion-Laden im Zentrum von Almería mit einer großzügigen Straßenterrasse, die bei Einheimischen beliebt ist. Die Küche zaubert Gourmetburger, Pizzen und Cocktails in entspannter, zeitgemäßer Atmosphäre. Auf der großzügigen Terrasse sind Hunde willkommen, mit genug Abstand zwischen den Tischen, damit sich ein Hund bequem zu Ihren Füßen niederlassen kann. Ein unkomplizierter Stopp nach einem langen Stadtspaziergang.",
+          "petPolicyDe": "Hunde auf der Außenterrasse willkommen",
+          "mustTryDe": "Gourmetburger, hausgemachte Cocktails",
+          "tipDe": "Bitten Sie im Sommer um einen schattigen Terrassentisch und um eine Wasserschüssel. Der Asphalt bleibt noch lange nach Sonnenuntergang heiß"
         },
         {
           "name": "Restaurante 4 Nudos",
@@ -59,7 +69,11 @@
           "tipFr": "Réservez une table en terrasse à l'avance et signalez que vous venez avec un chien. La salle intérieure climatisée n'accepte pas les animaux",
           "tipEs": "Reserva una mesa en terraza con antelación e indica que vienes con perro. El comedor interior con aire acondicionado no admite mascotas",
           "tipPt": "Reserve uma mesa na esplanada com antecedência e avise que vem com um cão. A sala interior com ar condicionado não aceita animais",
-          "googleMapsUrl": "https://maps.google.com/?q=4+Nudos+San+Jos%C3%A9+Almer%C3%ADa"
+          "googleMapsUrl": "https://maps.google.com/?q=4+Nudos+San+Jos%C3%A9+Almer%C3%ADa",
+          "descriptionDe": "Ein Klassiker in San José und eines der besten Fischrestaurants im Gebiet von Cabo de Gata, direkt am Yachthafen mit weitem Blick über die Boote und die Bucht. Die Küche ist auf lokale Reisgerichte und den Fang des Tages spezialisiert, darunter Garnelen aus Garrucha und rote Garnelen aus Almería. Hunde sind auf der überdachten Freiluftterrasse willkommen, wo ein ruhiger Hund die Meeresbrise genießen kann, während Sie essen. Ein idealer Mittagsstopp bei einem Tagesausflug nach Cabo de Gata mit Ihrem Haustier.",
+          "petPolicyDe": "Hunde auf der überdachten Außenterrasse willkommen; rufen Sie vorab an, um einen Terrassentisch zu reservieren",
+          "mustTryDe": "Arroz mit lokalen Meeresfrüchten, rote Garnelen, frischer Tagesfisch",
+          "tipDe": "Reservieren Sie einen Terrassentisch im Voraus und erwähnen Sie, dass Sie mit Hund kommen. Der klimatisierte Innenbereich akzeptiert keine Haustiere"
         }
       ],
       "tipsEn": [
@@ -137,6 +151,22 @@
           "q": "Devo ligar antes de levar o meu cão a um restaurante?",
           "a": "Sim. Um telefonema rápido confirma que a esplanada está aberta e que há mesa dog-friendly disponível, sobretudo em locais de peixe populares de Cabo de Gata como o 4 Nudos em San José na época alta."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Almería",
+      "introDe": "Die Esskultur Almerías ist um die Terrasse herum aufgebaut, und das spielt Ihrem Hund stark in die Hände. Von Oktober bis Mai ist das Wetter fast jeden Tag mild genug, um draußen zu essen, und die meisten Tapas-Bars und Fischrestaurants entlang des Paseo und in den Dörfern von Cabo de Gata setzen einen ruhigen, angeleinten Hund gerne auf ihre offenen oder überdachten Terrassen. Die goldene Regel hier ist einfach: Außenbereiche sind willkommen heißend, klimatisierte Innenräume meist nicht. Im Hochsommer planen Sie Mahlzeiten für den frühen Abend, sobald der Asphalt abgekühlt ist, und bitten Sie stets um einen schattigen Tisch und eine Wasserschüssel. Die beiden unten genannten wirklich hundefreundlichen Adressen sind zuverlässig, und ein kurzer Anruf vorab wird immer geschätzt, wenn Sie mit Hund erscheinen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Almería erlaubt?",
+          "a": "Auf Terrassen ja, in den meisten Fällen. Die Tapas-Bars und Fischrestaurants Almerías heißen in der Regel ruhige, angeleinte Hunde auf ihren offenen oder überdachten Terrassen willkommen. Klimatisierte Innenräume akzeptieren meist keine Haustiere, planen Sie also, draußen zu essen."
+        },
+        {
+          "q": "Ist es zu heiß, um in Almería draußen mit Hund zu essen?",
+          "a": "Im Juli und August ist es mittags für Sie und Ihren Hund zu heiß. Essen Sie am frühen Abend, sobald der Asphalt abgekühlt ist, wählen Sie einen schattigen Tisch und haben Sie stets Wasser griffbereit. Den Rest des Jahres ist das Speisen auf der Terrasse fast täglich angenehm."
+        },
+        {
+          "q": "Sollte ich vor dem Besuch mit Hund im Restaurant anrufen?",
+          "a": "Ja. Ein kurzer Anruf bestätigt, dass die Terrasse geöffnet ist und ein hundefreundlicher Tisch verfügbar ist, besonders bei beliebten Fischrestaurants in Cabo de Gata wie 4 Nudos in San José während der Hochsaison."
+        }
       ]
     },
     "parks": {
@@ -171,7 +201,11 @@
           "bestTimeToVisitFr": "Tôt le matin ou en soirée ; l'ombre des arbres en fait la balade centrale la plus fraîche en été",
           "bestTimeToVisitEs": "Temprano por la mañana o al atardecer; la sombra de los árboles lo convierte en el paseo céntrico más fresco en verano",
           "bestTimeToVisitPt": "De manhã cedo ou ao fim da tarde; a sombra das árvores torna-o o passeio central mais fresco no verão",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+Nicol%C3%A1s+Salmer%C3%B3n+Almer%C3%ADa"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Nicol%C3%A1s+Salmer%C3%B3n+Almer%C3%ADa",
+          "descriptionDe": "Almerías großer Uferpark erstreckt sich am Wasser entlang zwischen dem Hafen und dem Fuß der Altstadt, mit ausgewachsenen Palmen, Ficusbäumen, Zierbrunnen und breiten schattigen Promenaden. Er ist der beliebteste Ort der Stadt für einen entspannten angeleinten Spaziergang, besonders geschätzt, weil das dichte Blätterdach ihn merklich kühler hält als die offene Strandpromenade. Die flachen, gepflasterten Wege machen ihn auch für ältere Hunde angenehm, und Bänke im Schatten erlauben eine Pause während der wärmeren Stunden.",
+          "leashRulesDe": "Hunde müssen durchgehend angeleint sein; Hunde über 20 kg müssen eine nicht ausziehbare Leine tragen, gelistete PPP-Rassen benötigen zudem einen Maulkorb. Räumen Sie immer nach Ihrem Hund auf.",
+          "featuresDe": "Ausgewachsene Palmen und Schattenbäume, Zierbrunnen, breite gepflasterte Promenaden, Bänke, Meerblick",
+          "bestTimeToVisitDe": "Früher Morgen oder Abend; der Baumschatten macht ihn im Sommer zum kühlsten zentralen Spaziergang"
         },
         {
           "name": "Rambla de Almería (Rambla de Belén)",
@@ -195,7 +229,11 @@
           "bestTimeToVisitFr": "Tôt le matin ou après le coucher du soleil, quand la ville se rafraîchit et que les jardins sont les plus calmes",
           "bestTimeToVisitEs": "Temprano por la mañana o tras el atardecer, cuando la ciudad se refresca y los jardines están más tranquilos",
           "bestTimeToVisitPt": "De manhã cedo ou após o pôr do sol, quando a cidade arrefece e os jardins estão mais tranquilos",
-          "googleMapsUrl": "https://maps.google.com/?q=Rambla+de+Bel%C3%A9n+Almer%C3%ADa"
+          "googleMapsUrl": "https://maps.google.com/?q=Rambla+de+Bel%C3%A9n+Almer%C3%ADa",
+          "descriptionDe": "Die Rambla ist Almerías zentrale grüne Achse, ein langer angelegter Boulevard, der vom Ufer aus mitten durch die Stadt führt. Gesäumt von Palmen, Gärten, Wasserspielen und Fußgängerwegen bietet sie eine saubere, vom Verkehr getrennte Route für einen angeleinten Spaziergang direkt durch das Zentrum. Sie verbindet sich nahtlos mit dem Uferpark und dem Paseo, sodass sich mit Ihrem Hund leicht eine längere Stadtrunde zusammenstellen lässt, ohne belebte Straßen zu überqueren.",
+          "leashRulesDe": "Im gesamten Stadtzentrum nur an der Leine. Führen Sie Wasser und Beutel mit; kommunale Vorschriften verlangen von Haltern, aufzuräumen, und können verlangen, Wasser mitzuführen, um Urin vom Gehweg zu spülen.",
+          "featuresDe": "Palmengesäumte Gärten, Wasserspiele, vom Verkehr getrennte Fußgängerwege, zentrale Lage",
+          "bestTimeToVisitDe": "Früher Morgen oder nach Sonnenuntergang, wenn sich die Stadt abkühlt und die Gärten am ruhigsten sind"
         }
       ],
       "tipsEn": [
@@ -273,6 +311,22 @@
           "q": "Qual é a lei da trela e do açaime em Almería?",
           "a": "Os cães têm de andar com trela em público. Os cães com mais de 20 kg exigem trela não extensível, e as raças classificadas como potencialmente perigosas (PPP) ao abrigo da lei espanhola têm também de usar açaime e ser conduzidas por um adulto."
         }
+      ],
+      "titleDe": "Hundeparks & Spaziergänge in Almería",
+      "introDe": "Almería ist eine kompakte, fußgängerfreundliche Stadt mit einer langen Uferpromenade und schattigen Palmengärten, die sich hervorragend für einen angeleinten Hund eignen. Ausgewiesene Freilaufzonen für Hunde (lokal Pipicanes genannt) sind in der Provinz begrenzt, daher sind die meisten Stadtspaziergänge an der Leine. Die wichtigste Regel hier ist die Hitze: Von Juni bis September können Gehweg und Sand die Pfotenballen verbrennen, gehen Sie also bei Sonnenaufgang und nach Einbruch der Dunkelheit spazieren und testen Sie den Boden vorher mit dem Handrücken.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde in Almerías Parks ohne Leine laufen?",
+          "a": "Selten. Ausgewiesene Freilaufzonen für Hunde (Pipicanes) sind in der Provinz Almería begrenzt, und das Stadtzentrum ist nur mit Leine erlaubt. Für freies Laufen begeben Sie sich in weite, wenig befahrene offene Flächen oder nutzen Sie den offiziellen Hundestrand El Bobar außerhalb der Saison."
+        },
+        {
+          "q": "Wo ist der kühlste, angenehmste Spaziergang im Zentrum von Almería?",
+          "a": "Der Parque Nicolás Salmerón am Ufer. Sein dichtes Blätterdach aus Palmen und Ficusbäumen hält ihn deutlich kühler als die offene Strandpromenade, und seine flachen, gepflasterten Wege eignen sich für Hunde jeden Alters."
+        },
+        {
+          "q": "Welche Leinen- und Maulkorbpflicht gilt in Almería?",
+          "a": "Hunde müssen in der Öffentlichkeit angeleint sein. Hunde über 20 kg benötigen eine nicht ausziehbare Leine, und als potenziell gefährlich eingestufte Rassen (PPP) nach spanischem Recht müssen zudem einen Maulkorb tragen und von einem Erwachsenen geführt werden."
+        }
       ]
     },
     "transport": {
@@ -341,7 +395,10 @@
           "costEs": "Unos 10 € por trayecto para una mascota pequeña en transportín",
           "costPt": "Cerca de 10 € por viagem para um animal pequeno em transportadora"
         }
-      ]
+      ],
+      "titleDe": "Mit Hund in Almería unterwegs",
+      "introDe": "Almería ist klein und flach, und die beste Art, es mit Hund zu erkunden, ist schlicht zu Fuß. Öffentliche Verkehrsmittel sind hier der Schwachpunkt: Das städtische Busnetz akzeptiert keine Haustiere, planen Sie also mit Gehen, Taxis und dem Zug. Nachfolgend, was mit jedem Verkehrsmittel mit Hund möglich ist und was nicht.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches in Almería",
@@ -486,6 +543,22 @@
           "q": "A areia é segura para as almofadinhas do meu cão em Almería?",
           "a": "Não nas horas de calor. A areia escura e o asfalto de Almería podem queimar as almofadinhas no verão. Teste a superfície com as costas da mão e leve o seu cão à areia apenas ao amanhecer ou depois do pôr do sol."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Almería",
+      "introDe": "Almería verfügt über kilometerlange Küste, aber der Zugang für Hunde ist streng geregelt. In ganz Andalusien sind Hunde von regulären Badestränden und dem Wasser während der Sommersaison verboten, im Allgemeinen vom 1. Juni bis 30. September. Der offizielle Hundestrand nächst der Stadt ist El Bobar; außerhalb des Sommers sind die langen Stadtstrände und viele Buchten von Cabo de Gata mit einem angeleinten Hund begehbar. Die wichtigste Regel hier ist der Pfotenschutz: Der dunkle Sand in Almería wird gefährlich heiß, besuchen Sie ihn also bei Sonnenaufgang oder nach Sonnenuntergang und halten Sie einen Hund in der Mittagshitze vom bloßen Sand fern.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich im Sommer mit meinem Hund an den Strand in Almería?",
+          "a": "Der offizielle Hundestrand ist die Playa de El Bobar, etwa zehn Minuten vom Zentrum entfernt, wo Hunde ganzjährig, auch im Sommer, auf dem Sand und im Wasser erlaubt sind. Fast alle anderen Strände verbieten Hunde vom 1. Juni bis 30. September."
+        },
+        {
+          "q": "Sind Hunde an den Stränden von Cabo de Gata erlaubt?",
+          "a": "Der Zugang ist eingeschränkt. Cabo de Gata-Níjar ist ein geschützter Naturpark, und Hunde sind ganzjährig eingeschränkt und im Sommer an den Badestränden praktisch verboten. Behandeln Sie berühmte Strände wie Genoveses und Mónsul nur als Spazierziele mit Leine außerhalb der Saison und prüfen Sie die Beschilderung des Parks."
+        },
+        {
+          "q": "Ist der Sand sicher für die Pfoten meines Hundes in Almería?",
+          "a": "Nicht zur Mittagshitze. Der dunkle Sand und Asphalt in Almería kann im Sommer Pfotenballen verbrennen. Testen Sie den Untergrund mit dem Handrücken und nehmen Sie Ihren Hund nur bei Sonnenaufgang oder nach Sonnenuntergang mit auf den Sand."
+        }
       ]
     },
     "vets": {
@@ -537,7 +610,10 @@
           "descriptionPt": "Uma clínica de cidade bem estabelecida, com uma linha móvel de urgência fora do horário habitual. É uma boa opção para consultas de dia, vacinações e cuidados de rotina durante a sua estadia em Almería. Para uma verdadeira urgência 24 horas, os dois hospitais acima são a opção mais segura, mas vale a pena guardar este número de plantão como reforço.",
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Guil+Galindo+Almer%C3%ADa"
         }
-      ]
+      ],
+      "titleDe": "Tierärzte & Notfälle in Almería",
+      "introDe": "Almería ist tierärztlich gut versorgt, mit zwei durchgehend geöffneten 24-Stunden-Notfallkrankenhäusern in der Stadt selbst. Das ist hier wichtiger als in kühleren Reisezielen: Die extreme Sommerhitze bedeutet ein echtes Hitzschlagrisiko, und die Provinz ist Endemiegebiet für Leishmaniose, eine ernste, von Sandmücken übertragene Krankheit. Speichern Sie eine 24-Stunden-Nummer in Ihrem Telefon, bevor Sie ankommen, und fragen Sie bei jeder Klinik nach Leishmaniose-Prophylaxe, wenn Sie länger bleiben. Die unten genannten Kliniken wurden anhand ihrer offiziellen Websites überprüft.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Essential Pet Travel Tips for Almería",
@@ -623,6 +699,22 @@
           "q": "Quais são as regras de trela e açaime em Almería?",
           "a": "Os cães têm de andar com trela em público. Os de mais de 20 kg exigem trela não extensível, e as raças classificadas como potencialmente perigosas (PPP) ao abrigo da lei espanhola têm também de usar açaime e ser conduzidas por um adulto. No verão os cães estão proibidos nas praias urbanas, sendo El Bobar a praia canina legal mais próxima."
         }
+      ],
+      "titleDe": "Wichtige Reisetipps mit Haustier für Almería",
+      "introDe": "Almería ist eine der heißesten, trockensten Ecken Europas, und einige lokale Gegebenheiten machen einen echten Unterschied für Sicherheit und Komfort Ihres Hundes. Planen Sie um die Hitze herum, schützen Sie vor Sandmücken und kennen Sie die örtlichen Leinen- und Strandregeln, bevor Sie losziehen. Beachten Sie diese Punkte, und Almería ist ein hervorragendes, wenig überlaufenes Basislager für eine Reise mit Hund.",
+      "faqsDe": [
+        {
+          "q": "Wann ist es im Sommer sicher, in Almería mit Hund spazieren zu gehen?",
+          "a": "Nur bei Sonnenaufgang und nach Einbruch der Dunkelheit. Von Juni bis September werden Asphalt und dunkler Sand heiß genug, um Pfotenballen zu verbrennen und Hitzschlag zu verursachen. Testen Sie den Boden mit dem Handrücken, führen Sie Wasser mit und beschränken Sie Ausflüge zur Mittagszeit auf ein absolutes Minimum."
+        },
+        {
+          "q": "Muss ich meinen Hund in Almería gegen Leishmaniose schützen?",
+          "a": "Ja. Die Provinz ist Endemiegebiet für Leishmaniose, eine ernste, von Sandmücken übertragene Krankheit, die vor allem in der Dämmerung aktiv sind. Verwenden Sie ein vom Tierarzt empfohlenes Repellent-Halsband oder Spot-on, halten Sie Ihren Hund bei Sonnenuntergang drinnen und fragen Sie bei längeren Aufenthalten einen örtlichen Tierarzt nach Prophylaxe."
+        },
+        {
+          "q": "Welche Leinen- und Maulkorbregeln gelten in Almería?",
+          "a": "Hunde müssen in der Öffentlichkeit angeleint sein. Hunde über 20 kg benötigen eine nicht ausziehbare Leine, und als potenziell gefährlich eingestufte Rassen (PPP) nach spanischem Recht müssen zudem einen Maulkorb tragen und von einem Erwachsenen geführt werden. Im Sommer sind Hunde an Stadtstränden verboten, wobei El Bobar der nächstgelegene legale Hundestrand ist."
+        }
       ]
     },
     "attractions": {
@@ -645,7 +737,8 @@
           "dogFriendly": false,
           "leashRequired": true,
           "googleMapsUrl": "https://maps.google.com/?q=Alcazaba+de+Almer%C3%ADa",
-          "photo": ""
+          "photo": "",
+          "descriptionDe": "Die Alcazaba ist Almerías bedeutendstes Baudenkmal, eine gewaltige maurische Festung aus dem 10. Jahrhundert, die über der Altstadt thront und zu den größten ihrer Art in Spanien zählt. Sie ist ein großartiger Besuch, aber Haustiere sind im Inneren nicht erlaubt: Als Kulturstätte innerhalb des RECA-Netzwerks andalusischer Kulturerbestätten dürfen nur zertifizierte Assistenzhunde hinein, und im Gelände leben betreute Streunerkatzen. Planen Sie den Besuch, während Ihr Hund bei einem Sitter bleibt, und genießen Sie stattdessen die Aussichtspunkte und Gärten am Fuß des Hügels bei Ihrem Hundespaziergang."
         },
         {
           "name": "Mirador de la Amatista (Cabo de Gata-Níjar)",
@@ -657,7 +750,8 @@
           "dogFriendly": true,
           "leashRequired": true,
           "googleMapsUrl": "https://maps.google.com/?q=Mirador+de+la+Amatista+Cabo+de+Gata",
-          "photo": ""
+          "photo": "",
+          "descriptionDe": "Dieser kostenlose, offene Klippenaussichtspunkt zwischen La Isleta del Moro und Rodalquilar bietet einige der spektakulärsten Meerblicke im gesamten Naturpark Cabo de Gata, mit Blick über vulkanische Klippen und türkisfarbenes Wasser. Ein kurzer fünfzig Meter langer Weg vom Parkplatz an der Straße führt zum Aussichtspunkt, ohne Eingangstor oder Öffnungszeiten, sodass ein angeleinter Hund problemlos mitkommen kann. Ein perfekter, mühelos einzubauender Stopp auf einer Küstenfahrt durch den Park, bei dem Ihr Hund wirklich willkommen ist."
         },
         {
           "name": "Oasys MiniHollywood (Desierto de Tabernas)",
@@ -669,9 +763,13 @@
           "dogFriendly": true,
           "leashRequired": true,
           "googleMapsUrl": "https://maps.google.com/?q=Oasys+MiniHollywood+Tabernas+Almer%C3%ADa",
-          "photo": ""
+          "photo": "",
+          "descriptionDe": "Ein klassisches Spaghettiwestern-Filmset, das zum Themenpark wurde, in der Wüste von Tabernas, der einzigen echten Wüste Europas und Kulisse für Dutzende berühmter Western. Er ist wirklich hundefreundlich: Angeleinte Hunde jeder Größe sind auf dem gesamten Gelände willkommen, einschließlich der Buggy-Fahrt, ausgeschlossen sind nur der Schwimmbadbereich und der Innenbereich des Restaurants. Ein unvergesslicher Tagesausflug ab der Stadt, wobei im Sommer die Wüstenhitze intensiv ist, also gehen Sie früh und halten Sie Ihren Hund mit Wasser und Schatten versorgt."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Almería",
+      "introDe": "Almería verbindet eine dramatische maurische Festung mit einer der einzigen Wüsten Europas und den wilden Buchten von Cabo de Gata, sodass es mit Hund im Schlepptau viel zu sehen gibt. Das Wahrzeichen der Stadt, die Alcazaba, ist für Hunde tabu, aber die umgebenden Landschaften machen das mehr als wett. Nachfolgend ein ehrlicher Überblick, wo Ihr Hund wirklich willkommen ist und wo nicht.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Walking in Almería",
@@ -722,6 +820,10 @@
           "priceRangePt": "Cerca de 15 a 25 € por dia; alojamento a partir de cerca de 20 € por noite",
           "bookingRequired": true
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Almería",
+      "introDe": "Wer die Alcazaba, Museen oder ein Innenrestaurant besuchen möchte, wo Hunde nicht hin dürfen, findet mit ein paar Stunden bei einem lokalen Sitter die einfache Lösung. Almería verfügt über eine aktive Gemeinschaft von Haustierbetreuern und Gassi-Gehern, erreichbar über die gängigen Online-Plattformen, die geprüfte Bewertungen und die Buchung eines überprüften Betreuers in der Nähe Ihrer Unterkunft ermöglichen. Buchen Sie im Sommer ein bis zwei Tage im Voraus, wenn die Nachfrage hoch ist.",
+      "faqsDe": []
     }
-  }}
+  }
+}

@@ -39,7 +39,11 @@
           "tipFr": "Arrivez avant 10h en été pour avoir une table en terrasse sans attente.",
           "tipEs": "Llegue antes de las 10h en verano para conseguir mesa en la terraza sin espera.",
           "tipPt": "Chegue antes das 10h no verão para conseguir uma mesa na esplanada sem espera.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Zauner+Pfarrgasse+7+Bad+Ischl"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Zauner+Pfarrgasse+7+Bad+Ischl",
+          "descriptionDe": "Österreichs berühmtestes Konditoreihaus der Kaiserzeit seit 1832, mit einer sonnigen Außenterrasse, auf der Hunde neben Sachertorte und Ischler Krapferl herzlich willkommen sind.",
+          "petPolicyDe": "Hunde auf der Außenterrasse willkommen; bitte angeleint halten und von den Stühlen fernhalten.",
+          "mustTryDe": "Zaunerstollen und die originalen Ischler Krapferl (Haselnussgebäck mit Marillenmarmelade)",
+          "tipDe": "Im Sommer vor 10 Uhr kommen, um ohne Wartezeit einen Terrassentisch zu bekommen."
         },
         {
           "name": "k.u.k. Hofwirt zu Ischl",
@@ -65,7 +69,11 @@
           "tipFr": "Le jardin de bière met une gamelle d'eau à disposition des chiens par temps chaud.",
           "tipEs": "El jardín de cerveza pone un cuenco de agua para los perros en días calurosos.",
           "tipPt": "O jardim de cerveja disponibiliza uma taça de água para os cães em dias quentes.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=k.u.k.+Hofwirt+zu+Ischl+Wirer+Strasse+2+Bad+Ischl"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=k.u.k.+Hofwirt+zu+Ischl+Wirer+Strasse+2+Bad+Ischl",
+          "descriptionDe": "Ein gemütliches Wirtshaus mit bayerischer Holzausstattung und Biergarten, das herzhafte österreichische Hausmannskost und Steaks serviert; Haustiere werden von den Besitzern ausdrücklich willkommen geheißen.",
+          "petPolicyDe": "Haustiere sind herzlich willkommen im Biergarten und im Speisesaal.",
+          "mustTryDe": "Wiener Schnitzel und der saisonale Schweinsbraten",
+          "tipDe": "Im Biergarten steht an heißen Tagen ein Wassernapf für Hunde bereit."
         },
         {
           "name": "Hubertushof Bad Ischl",
@@ -91,7 +99,11 @@
           "tipFr": "Demandez une table dans la cour, plus calme et plus ombragée que les places côté rue.",
           "tipEs": "Pida una mesa en el patio, más tranquila y con más sombra que las de la calle.",
           "tipPt": "Peça uma mesa no pátio, mais tranquila e com mais sombra do que as da rua.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hubertushof+Goetzstrasse+1+Bad+Ischl"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hubertushof+Goetzstrasse+1+Bad+Ischl",
+          "descriptionDe": "Ein hundefreundlicher Gasthof, Cafe und Bar in einem, rund um einen ruhigen Innenhof-Biergarten gebaut, mit traditionellen österreichischen Gerichten aus regionalen Zutaten.",
+          "petPolicyDe": "Von lokalen Reiseführern als \"hundefreundlich\" beschrieben; angeleinte Hunde im Innenhofgarten willkommen.",
+          "mustTryDe": "Kalbsbeuscherl und der Schweinsbraten am Wochenende",
+          "tipDe": "Um einen Tisch im Innenhof bitten; er ist ruhiger und schattiger als die Plätze zur Straße hin."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Há menu ou petiscos para cães?",
           "a": "Não de forma oficial, mas vários Gasthäuser disponibilizam uma taça de água no verão; pergunte ao pessoal se não vir nenhuma."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Bad Ischl",
+      "introDe": "Bad Ischls Cafés aus der Kaiserzeit und traditionelle Gasthäuser sind an wohlerzogene Hunde an den Außentischen gewöhnt, und mehrere halten einen schattigen Innenhof oder Biergarten die ganze Saison über offen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Bad Ischl im Innenbereich erlaubt?",
+          "a": "Das variiert je nach Lokal: Die meisten heißen Hunde auf der Außenterrasse oder im Biergarten ganzjährig willkommen, während Innenräume im Ermessen des Inhabers liegen. Alle drei oben genannten Restaurants bestätigen, dass Hunde im Außenbereich willkommen sind."
+        },
+        {
+          "q": "Muss ich meinem Hund im Restaurant einen Maulkorb anlegen?",
+          "a": "Nein, Österreichs Maulkorbpflicht im öffentlichen Verkehr gilt nicht auf Restaurantterrassen. Ein ruhiger, angeleinter Hund unter dem Tisch ist gängige Praxis."
+        },
+        {
+          "q": "Gibt es eine Hundekarte oder Hundeleckerlis?",
+          "a": "Nicht formell, aber mehrere Gasthäuser stellen im Sommer einen Wassernapf für Hunde bereit; falls keiner sichtbar ist, das Personal fragen."
+        }
       ]
     },
     "parks": {
@@ -199,7 +227,10 @@
           "tipFr": "Le billet « parc seul » (sans visite de la villa) est l'entrée la moins chère et permet de parcourir tout le domaine avec son chien.",
           "tipEs": "La entrada solo al parque (sin visita a la villa) es la opción más económica y permite recorrer toda la finca con el perro.",
           "tipPt": "O bilhete apenas para o parque (sem visita à vila) é a entrada mais barata e permite percorrer toda a propriedade com o cão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaiserpark+Bad+Ischl"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaiserpark+Bad+Ischl",
+          "descriptionDe": "Der 20 Hektar große englische Landschaftspark rund um die Kaiservilla, angelegt für Kaiser Franz Joseph, mit alten Linden- und Eichenalleen, dem Marmorschlössl und Kieswegen entlang der Ischl.",
+          "offLeashAreaDe": "Keine; Hunde müssen im gesamten Parkgelände angeleint bleiben. Hunde sind auf den Wegen willkommen, jedoch nicht in den möblierten Räumen der Kaiservilla oder den kleinen Pavillons.",
+          "tipDe": "Das Parkticket allein (ohne Villenführung) ist der günstigste Zugang und erlaubt es, das gesamte Gelände mit dem Hund zu durchqueren."
         },
         {
           "name": "Esplanade am Traunfluss",
@@ -219,7 +250,10 @@
           "tipFr": "Tôt le matin (avant 9h), c'est le moment le plus calme, avant l'affluence des terrasses de café et des cyclistes.",
           "tipEs": "Temprano por la mañana (antes de las 9h) es el momento más tranquilo, antes de que se llenen las terrazas y aumente el tráfico de bicicletas.",
           "tipPt": "De manhã cedo (antes das 9h) é o momento mais calmo, antes de as esplanadas dos cafés e o trânsito de bicicletas aumentarem.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Esplanade+Bad+Ischl"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Esplanade+Bad+Ischl",
+          "descriptionDe": "Eine flache, baumgesäumte Promenade entlang der Traun durch das Ortszentrum, die den Kurpark, die Trinkhalle und mehrere Cafés verbindet; der Standard-Tagesspaziergang im Ort.",
+          "offLeashAreaDe": "Keine; auf der gesamten Promenade, die sich Radfahrer und Fußgänger teilen, gilt Leinenpflicht.",
+          "tipDe": "Am frühen Morgen (vor 9 Uhr) ist es am ruhigsten, bevor der Betrieb an den Cafeterrassen und Radverkehr zunimmt."
         },
         {
           "name": "Siriuskogel",
@@ -239,7 +273,10 @@
           "tipFr": "Prévoyez de l'eau pour le chien ; la montée est courte mais sans fontaine sur le trajet.",
           "tipEs": "Lleve agua para el perro; la subida es corta pero no hay fuentes en el camino.",
           "tipPt": "Leve água para o cão; a subida é curta mas não há fontes ao longo do caminho.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Siriuskogel+Bad+Ischl"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Siriuskogel+Bad+Ischl",
+          "descriptionDe": "Ein 130 Meter hoher bewaldeter Hügel direkt am Ortsrand, gekrönt von der Kaiser-Franz-Josef-Warte von 1885; die 4,1 km lange Rundstrecke um ihn herum dauert etwa 1,5 Stunden und bleibt größtenteils schattig.",
+          "offLeashAreaDe": "Keine offizielle; Leine wird empfohlen, da der Weg schmal ist und mit anderen Spaziergängern geteilt wird.",
+          "tipDe": "Wasser für den Hund mitnehmen; der Aufstieg ist kurz, aber es gibt unterwegs keine Brunnen."
         }
       ],
       "tipsEn": [
@@ -316,6 +353,22 @@
         {
           "q": "O passeio do Siriuskogel é adequado para cães mais velhos ou pequenos?",
           "a": "Sim, o circuito de 4,1 km tem uma inclinação suave e bem cuidada com bastante sombra, embora haja alguns degraus inevitáveis perto da torre."
+        }
+      ],
+      "titleDe": "Parks & Spaziergänge in Bad Ischl",
+      "introDe": "Bad Ischl ist kompakt und grün: der Kaiserpark bietet schattige Wege aus der Kaiserzeit direkt im Ort, die Esplanade folgt der Traun für eine einfache tägliche Runde, und der Siriuskogel bietet einen kurzen Waldaufstieg mit einem Aussichtsturm über den Dächern.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in die Kaiservilla mitnehmen?",
+          "a": "Nein. Hunde sind auf dem gesamten Gelände des Kaiserparks an der Leine willkommen, aber nicht in den möblierten Räumen der Villa oder den kleinen Gartenpavillons."
+        },
+        {
+          "q": "Gibt es in Bad Ischl Hundeauslaufflächen ohne Leine?",
+          "a": "Nicht im Ort selbst; im Kaiserpark, auf der Esplanade und auf dem Siriuskogel-Weg gilt Leinenpflicht. Informelles Laufen ohne Leine ist eher am Nussensee und Langbathsee, etwa 15 Minuten mit dem Auto entfernt, üblich."
+        },
+        {
+          "q": "Eignet sich der Siriuskogel-Spaziergang für ältere oder kleinere Hunde?",
+          "a": "Ja, die 4,1 km lange Runde hat eine sanfte, gut gepflegte Steigung und viel Schatten, wenngleich in der Nähe des Turms einige Treppen unvermeidbar sind."
         }
       ]
     },
@@ -449,6 +502,22 @@
           "q": "Dá para percorrer Bad Ischl a pé sem carro?",
           "a": "Sim, o centro da cidade, o Kaiserpark e a estação ficam todos a uma distância fácil a pé, embora um carro (ou o Postbus) seja útil para excursões de um dia aos lagos vizinhos."
         }
+      ],
+      "titleDe": "Mit Hund unterwegs in Bad Ischl",
+      "introDe": "Bad Ischl liegt an der Salzkammergutbahn, sodass man mit dem Direktzug von Attnang-Puchheim anreisen und sich dann zu Fuß oder mit dem Postbus fortbewegen kann. Die österreichischen Regeln sind streng, aber vorhersehbar: In Zügen und Bussen sind Maulkorb und Leine Pflicht, und die Katrin-Seilbahn befördert Hunde kostenlos unter derselben Maulkorb- und Leinenregel.",
+      "faqsDe": [
+        {
+          "q": "Brauchen Hunde in Zügen und Bussen in Bad Ischl einen Maulkorb?",
+          "a": "Ja. Die österreichischen Bundesregeln verlangen in ÖBB-Zügen und Postbus-Diensten landesweit Maulkorb und Leine, einschließlich der Salzkammergutbahn-Strecke durch Bad Ischl."
+        },
+        {
+          "q": "Kann ich meinen Hund mit der Katrin-Seilbahn mitnehmen?",
+          "a": "Ja, Hunde fahren gemäß dem veröffentlichten Tarif des Betreibers kostenlos mit, mit Maulkorb und Leine."
+        },
+        {
+          "q": "Ist Bad Ischl ohne Auto zu Fuß erreichbar?",
+          "a": "Ja, das Ortszentrum, der Kaiserpark und der Bahnhof liegen alle in bequemer Gehdistanz, wenngleich ein Auto (oder der Postbus) für Tagesausflüge zu den umliegenden Seen nützlich ist."
+        }
       ]
     },
     "beaches": {
@@ -516,6 +585,22 @@
           "q": "Os cães podem nadar no Traunsee perto de Bad Ischl?",
           "a": "Existe um acesso informal para cães no troço do clube de vela na esplanada em Altmünster, no Traunsee, embora seja menos sinalizado do que o local do Hallstättersee."
         }
+      ],
+      "titleDe": "Badestellen bei Bad Ischl",
+      "introDe": "Inhalt folgt in Kürze. Bad Ischl selbst liegt im Landesinneren ohne See, befindet sich aber im Herzen des Salzkammergut-Seengebiets. Die nächste bestätigte Hundebadestelle ist der ausgeschilderte Hundebadeplatz am Hallstättersee bei Obertraun (Bereich Winkl/Landbettler), etwa 30 km und 35 Minuten mit dem Auto entfernt; eine zweite informelle Option ist der Abschnitt beim Segelclub an der Traunsee-Esplanade in Altmünster, etwa 25 km entfernt.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Bad Ischl selbst einen Hundestrand?",
+          "a": "Nein. Bad Ischl hat im Ort keinen See oder Flussbadebereich; Hunde können in der seichten Ischl und Traun waten, aber die nächste ausgewiesene Hundebadestelle liegt am Hallstättersee bei Obertraun, etwa 30 km entfernt."
+        },
+        {
+          "q": "Wo ist der nächste bestätigte Hundebadeplatz?",
+          "a": "Der ausgeschilderte Hundebadeplatz am Hallstättersee bei Obertraun (Winkl/Landbettler), der einen Hundekotbeutelspender und eine öffentliche Toilette in der Nähe hat, bestätigt sowohl vom regionalen Tourismusverband als auch von der lokalen Obertraun-Website."
+        },
+        {
+          "q": "Können Hunde im Traunsee bei Bad Ischl schwimmen?",
+          "a": "Es gibt eine informelle Zugangsstelle für Hunde beim Segelclub-Abschnitt der Esplanade in Altmünster am Traunsee, wenngleich sie nicht so eindeutig ausgeschildert ist wie die Stelle am Hallstättersee."
+        }
       ]
     },
     "vets": {
@@ -549,7 +634,10 @@
           "tipPt": "Acessível a partir do centro da cidade pela Esplanade em direção ao teleférico do Katrin; ocupa o antigo edifício Konsum.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tierklinik+Bad+Ischl+Kaltenbachstrasse+26b",
           "photo": "",
-          "hoursPt": "Seg-Sex 9:00-13:00 e 18:00-20:00, Sáb 9:00-11:00, ou por marcação telefónica; emergências 24 horas por dia, incluindo domingos e feriados (aplicam-se tarifas mais elevadas fora do horário normal)."
+          "hoursPt": "Seg-Sex 9:00-13:00 e 18:00-20:00, Sáb 9:00-11:00, ou por marcação telefónica; emergências 24 horas por dia, incluindo domingos e feriados (aplicam-se tarifas mais elevadas fora do horário normal).",
+          "hoursDe": "Mo-Fr 9:00-13:00 & 18:00-20:00 Uhr, Sa 9:00-11:00 Uhr, oder nach telefonischer Terminvereinbarung; Notfälle 24/7 einschließlich Sonntagen und Feiertagen (außerhalb der normalen Zeiten gelten höhere Gebühren).",
+          "descriptionDe": "1993 gegründet, bietet diese spezialisierte Kleintierklinik auf 280 m² vollständige Diagnostik und 24-Stunden-Notfallversorgung, geführt von Dr. Stephan Adelsmayr und Mag. Christina Grabner.",
+          "tipDe": "Vom Ortszentrum über die Esplanade Richtung Katrin-Seilbahn erreichbar; sie befindet sich im ehemaligen Konsum-Gebäude."
         },
         {
           "name": "Tierambulanz Salzkammergut (Dr. Peter Prinz)",
@@ -571,7 +659,10 @@
           "tipPt": "Ligue com antecedência; fora do horário de consulta, a clínica organiza as visitas de urgência por telefone em vez de atendimento sem marcação.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tierambulanz+Salzkammergut+Salinenplatz+2b+Bad+Ischl",
           "photo": "",
-          "hoursPt": "Seg, Ter, Qui, Sex 10:00-12:00 e 16:00-18:30; Qua 10:00-12:00 e 18:00-20:30; Sáb 9:00-11:00. Fora destes horários e em emergências, mediante combinação telefónica."
+          "hoursPt": "Seg, Ter, Qui, Sex 10:00-12:00 e 16:00-18:30; Qua 10:00-12:00 e 18:00-20:30; Sáb 9:00-11:00. Fora destes horários e em emergências, mediante combinação telefónica.",
+          "hoursDe": "Mo, Di, Do, Fr 10:00-12:00 & 16:00-18:30 Uhr; Mi 10:00-12:00 & 18:00-20:30 Uhr; Sa 9:00-11:00 Uhr. Außerhalb dieser Zeiten und bei Notfällen nach telefonischer Absprache.",
+          "descriptionDe": "Eine langjährige Kleintierpraxis im Ortszentrum unter der Leitung von Dr. Peter Prinz, mit Routineuntersuchungen und Impfungen für Katzen und Hunde.",
+          "tipDe": "Vorher anrufen; außerhalb der Sprechzeiten organisiert die Praxis Notfalltermine telefonisch statt als Laufkundschaft."
         }
       ],
       "faqsEn": [
@@ -629,6 +720,22 @@
           "q": "Preciso de um passaporte para animais para entrar na Áustria com o meu cão?",
           "a": "Sim, é necessário um passaporte europeu para animais com vacinação antirrábica válida (pelo menos 21 dias antes da viagem) e um microchip ISO para entrar vindo de outro país da UE."
         }
+      ],
+      "titleDe": "Tierärzte in Bad Ischl",
+      "introDe": "Bad Ischl hat zwei etablierte Kleintierpraxen im Ort, darunter eine spezialisierte Klinik mit rund um die Uhr verfügbarer Notfallversorgung. Österreichs nationale Notrufnummer 112 ist nur für menschliche medizinische Notfälle und Feuerwehr/Polizei, sie vermittelt keinen Tierarzt.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Bad Ischl einen 24-Stunden-Notfall-Tierarzt?",
+          "a": "Ja. Die Tierklinik Bad Ischl Dr. Adelsmayr/Mag. Grabner OG bietet einen rund um die Uhr verfügbaren Notdienst an jedem Tag, einschließlich Nächten, Wochenenden und Feiertagen (außerhalb der normalen Zeiten fallen Zuschläge an)."
+        },
+        {
+          "q": "Verbindet mich 112 im Notfall mit einem Tierarzt?",
+          "a": "Nein, 112 ist Österreichs allgemeine Notrufnummer nur für Polizei, Feuerwehr und den Rettungsdienst für Menschen. Bei einem Tiernotfall direkt die eigene Nummer der Tierklinik anrufen."
+        },
+        {
+          "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Österreich mitzubringen?",
+          "a": "Ja, für die Einreise aus einem anderen EU-Land sind ein EU-Heimtierausweis mit gültiger Tollwutimpfung (mindestens 21 Tage vor der Reise) und ein ISO-Mikrochip erforderlich."
+        }
       ]
     },
     "attractions": {
@@ -662,7 +769,11 @@
           "tipFr": "Achetez le billet « parc seul » si votre priorité est la promenade ; il évite entièrement la visite guidée sans chien.",
           "tipEs": "Compre la entrada solo al parque si su prioridad es el paseo; evita por completo la visita guiada sin perros.",
           "tipPt": "Compre o bilhete apenas para o parque se a sua prioridade for o passeio; evita totalmente a visita guiada sem cães.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaiservilla+Bad+Ischl"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kaiservilla+Bad+Ischl",
+          "descriptionDe": "Kaiser Franz Josephs Sommerresidenz für 82 Jahre, wo er 1914 die Kriegserklärung unterzeichnete; die geführte Villentour ist hundefrei, aber der umliegende 20 Hektar große Kaiserpark heißt angeleinte Hunde auf seinen Kieswegen willkommen.",
+          "dogPolicyDe": "Angeleinte Hunde sind im gesamten Parkgelände willkommen; nicht erlaubt in den möblierten Räumen der Villa oder den kleinen Gartenpavillons.",
+          "admissionFeeDe": "Nur Park: 6,70 EUR Erwachsene; Park + Villenführung: 24 EUR Erwachsene (Saison 2026)",
+          "tipDe": "Das Nur-Park-Ticket kaufen, wenn der Spaziergang im Vordergrund steht; es lässt die hundefreie Führung ganz aus."
         },
         {
           "name": "Katrin Seilbahn",
@@ -685,7 +796,11 @@
           "tipFr": "Fonctionne tous les jours de 9h à 17h d'avril à novembre ; vérifiez les fermetures saisonnières avant une visite hivernale.",
           "tipEs": "Funciona todos los días de 9:00 a 17:00 de abril a noviembre; compruebe los cierres estacionales antes de una visita invernal.",
           "tipPt": "Funciona todos os dias das 9h00 às 17h00 de abril a novembro; verifique os encerramentos sazonais antes de uma visita de inverno.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Katrin+Seilbahn+Bad+Ischl"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Katrin+Seilbahn+Bad+Ischl",
+          "descriptionDe": "Eine Seilbahn seit 1959, die Besucher in 15 Minuten zur 1.400 m hohen Bergstation Katrin bringt, mit markierten Alpenwegen, einem Panoramarestaurant und Blicken über die Salzkammergut-Seen.",
+          "dogPolicyDe": "Hunde fahren in der Kabine kostenlos mit; Maulkorb und Leine sind Pflicht, gemäß dem offiziellen Tarif des Betreibers.",
+          "admissionFeeDe": "Erwachsene Hin- und Rückfahrt ab etwa 28 EUR im Sommer 2026 (aktuellen Tarif prüfen); Hunde kostenlos",
+          "tipDe": "Von April bis November täglich 9:00-17:00 Uhr in Betrieb; vor einem Winterbesuch saisonale Schließzeiten prüfen."
         },
         {
           "name": "Trinkhalle & Kurpark",
@@ -708,7 +823,11 @@
           "tipFr": "Prenez une carte de randonnée gratuite au comptoir du Tourismusverband dans la Trinkhalle avant de partir vers le Siriuskogel ou le Katrin.",
           "tipEs": "Recoja un mapa de senderismo gratuito en el mostrador del Tourismusverband dentro de la Trinkhalle antes de subir al Siriuskogel o al Katrin.",
           "tipPt": "Recolha um mapa de caminhadas gratuito no balcão do Tourismusverband dentro da Trinkhalle antes de subir ao Siriuskogel ou ao Katrin.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trinkhalle+Bad+Ischl"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trinkhalle+Bad+Ischl",
+          "descriptionDe": "Die Trinkhalle von 1829 (ursprünglich das Soolenbadhaus) ist heute der kulturelle Treffpunkt und die Tourist-Information des Ortes, vor ihr liegen die offenen Kurparkgärten und die Esplanade am Fluss, beides leichtes Terrain für Spaziergänge mit Leine.",
+          "dogPolicyDe": "Angeleinte Hunde sind in den gesamten Außenanlagen des Kurparks und auf der Esplanade willkommen; die Ausstellungsräume des Gebäudes folgen den üblichen Regeln für Innenräume.",
+          "admissionFeeDe": "Kostenloser Zutritt zu Kurpark und Esplanade",
+          "tipDe": "Vor dem Aufstieg zum Siriuskogel oder zur Katrin am Schalter des Tourismusverbands in der Trinkhalle eine kostenlose Wanderkarte holen."
         }
       ],
       "tipsEn": [
@@ -786,6 +905,22 @@
           "q": "Hallstatt é viável como excursão de um dia compatível com cães a partir de Bad Ischl?",
           "a": "Sim, fica a cerca de 25 minutos de carro ou através de uma breve combinação de Postbus/comboio, e os caminhos junto ao lago da aldeia são percorríveis com um cão preso pela trela."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Bad Ischl",
+      "introDe": "Bad Ischls kaiserliche Geschichte lässt sich leicht mit Hund erkunden: das Gelände der Kaiservilla, die Katrin-Seilbahn und die Trinkhallenpromenade sind allesamt vorrangig im Freien gelegene Sehenswürdigkeiten, die einen angeleinten Hund willkommen heißen, auch wenn die Innenräume des Museums und der Villa nicht zugänglich sind.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund zur Führung durch die Kaiservilla mitnehmen?",
+          "a": "Nein, die geführte Innenraumtour lässt keine Hunde zu, aber das umliegende Gelände des Kaiserparks heißt angeleinte Hunde auf einem separaten, günstigeren Nur-Park-Ticket willkommen."
+        },
+        {
+          "q": "Erlaubt die Katrin-Seilbahn Hunde?",
+          "a": "Ja, Hunde fahren kostenlos mit Maulkorbpflicht und Leine, bestätigt auf der offiziellen Tarifseite des Betreibers."
+        },
+        {
+          "q": "Eignet sich Hallstatt als hundefreundlicher Tagesausflug von Bad Ischl aus?",
+          "a": "Ja, es sind etwa 25 Minuten mit dem Auto oder eine kurze Kombination aus Postbus/Zug, und die Uferwege des Dorfes sind mit angeleintem Hund begehbar."
+        }
       ]
     },
     "petsitting": {
@@ -817,7 +952,10 @@
           "tip": "Filter by \"Bad Ischl\" and read the sitter's individual profile reviews before booking, prices and availability vary widely.",
           "tipFr": "Filtrez par « Bad Ischl » et lisez les avis du profil individuel du gardien avant de réserver, les prix et disponibilités varient beaucoup.",
           "tipEs": "Filtre por « Bad Ischl » y lea las reseñas del perfil individual del cuidador antes de reservar, los precios y la disponibilidad varían mucho.",
-          "tipPt": "Filtre por « Bad Ischl » e leia as avaliações do perfil individual do cuidador antes de reservar, os preços e a disponibilidade variam muito."
+          "tipPt": "Filtre por « Bad Ischl » e leia as avaliações do perfil individual do cuidador antes de reservar, os preços e a disponibilidade variam muito.",
+          "descriptionDe": "Ein landesweiter Marktplatz für Haustierbetreuung mit Dutzenden geprüften Sittern und Anbietern von Hundetagesbetreuung in und um Bad Ischl, buchbar tage- oder stundenweise.",
+          "serviceTypeDe": "Gassi-Service, Tagesbetreuung, Übernachtungsbetreuung",
+          "tipDe": "Nach \"Bad Ischl\" filtern und vor der Buchung die individuellen Profilbewertungen des Sitters lesen, Preise und Verfügbarkeit variieren stark."
         },
         {
           "name": "Tiersitter24",
@@ -838,7 +976,10 @@
           "tip": "Message sitters directly through the platform a few days ahead in July and August, the busiest local season.",
           "tipFr": "Contactez directement les gardiens via la plateforme quelques jours à l'avance en juillet et août, la saison locale la plus chargée.",
           "tipEs": "Contacte directamente con los cuidadores a través de la plataforma con unos días de antelación en julio y agosto, la temporada local más concurrida.",
-          "tipPt": "Contacte diretamente os cuidadores através da plataforma com alguns dias de antecedência em julho e agosto, a época local mais concorrida."
+          "tipPt": "Contacte diretamente os cuidadores através da plataforma com alguns dias de antecedência em julho e agosto, a época local mais concorrida.",
+          "descriptionDe": "Eine abogebührenfreie österreichische Plattform, die Haustierbesitzer direkt mit lokalen Hundesittern und Urlaubsbetreuern in der Region Bad Ischl zusammenbringt, ab etwa 10 EUR pro Stunde.",
+          "serviceTypeDe": "Hundebetreuung, Urlaubs-Tierbetreuung",
+          "tipDe": "Im Juli und August, der geschäftigsten lokalen Saison, Sitter einige Tage im Voraus direkt über die Plattform kontaktieren."
         }
       ],
       "tipsEn": [
@@ -915,6 +1056,22 @@
         {
           "q": "Os cuidadores falam inglês?",
           "a": "Muitos falam, já que o Salzkammergut é uma grande região turística alemã e internacional, mas confirme o idioma com o cuidador individual antes de reservar."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Bad Ischl",
+      "introDe": "Wer für einige Stunden Betreuung braucht, während man die Thermalbäder oder die hundefreie Innenraumführung der Kaiservilla besucht, findet mit zwei landesweiten Plattformen mit aktiven lokalen Sittern Abdeckung für Bad Ischl und das umliegende Salzkammergut.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Bad Ischl selbst eine lokale Hundetagesstätte?",
+          "a": "Die Abdeckung erfolgt hauptsächlich über auf Plattformen gelistete Einzelsitter (Holidog, Tiersitter24) statt über eine feste Tagesbetreuungseinrichtung im Ort; vor der Buchung den genauen Standort jedes Sitters prüfen."
+        },
+        {
+          "q": "Wie viel kostet ein Hundesitter in Bad Ischl?",
+          "a": "Beide genannten Plattformen zeigen Preise ab etwa 10 EUR pro Stunde für Gassi-Service, Tagesbetreuung und Übernachtungsbetreuung werden vom jeweiligen Sitter individuell bepreist."
+        },
+        {
+          "q": "Sprechen die Sitter Englisch?",
+          "a": "Viele schon, da das Salzkammergut eine bedeutende deutsche und internationale Tourismusregion ist, aber die Sprache vor der Buchung mit dem jeweiligen Sitter bestätigen."
         }
       ]
     },
@@ -1028,6 +1185,22 @@
         {
           "q": "Bad Ischl é percorrível com um cão mais velho ou de mobilidade reduzida?",
           "a": "Sim, a cidade velha, o Kaiserpark e a Esplanade são planos e pavimentados, embora as excursões ao Siriuskogel e ao Katrin envolvam um desnível real."
+        }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch in Bad Ischl mit Hund",
+      "introDe": "Bad Ischl ist einer der mildesten Kaiser-Kurorte, um ihn mit Hund zu besuchen: kompakt, im Zentrum größtenteils flach, und seine größte Sehenswürdigkeit (die Kaiservilla) hat einen hundefreundlichen Park um eine hundefreie Villa herum. Drei lokale Gegebenheiten prägen die Reise: der Ort hat keinen eigenen See, in ganz Österreich gelten auf allen öffentlichen Verkehrsmitteln Maulkorb- und Leinenpflicht, und der Sommer bringt sowohl Touristenmassen als auch warme Nachmittage auf der schattenlosen Esplanade.",
+      "faqsDe": [
+        {
+          "q": "Ist Bad Ischl ein guter Ausgangspunkt für Hundehalter, die das Salzkammergut besuchen?",
+          "a": "Ja, es liegt zentral mit Bahn- und Postbus-Anbindungen nach Hallstatt, Bad Goisern, St. Wolfgang und das Seengebiet, dazu eigene Sehenswürdigkeiten aus der Kaiserzeit, die angeleinte Hunde im Freien willkommen heißen."
+        },
+        {
+          "q": "Was ist die wichtigste Haustierregel, die man vor dem Besuch kennen sollte?",
+          "a": "Die landesweite Maulkorb- und Leinenpflicht in ÖBB-Zügen, Postbus-Diensten und der Katrin-Seilbahn; auch für einen ruhigen Hund einen Maulkorb einpacken."
+        },
+        {
+          "q": "Ist Bad Ischl mit einem älteren oder weniger beweglichen Hund begehbar?",
+          "a": "Ja, die Altstadt, der Kaiserpark und die Esplanade sind flach und asphaltiert, wenngleich die Ausflüge zum Siriuskogel und zur Katrin echte Höhenmeter mit sich bringen."
         }
       ]
     }

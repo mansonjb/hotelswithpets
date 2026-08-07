@@ -39,7 +39,11 @@
           "tipFr": "Venez avant 18h en été. La terrasse est découverte et le soleil de l'après-midi est intense malgré les arbres",
           "tipEs": "Ve antes de las 18h en verano. La terraza está descubierta y el sol de la tarde es intenso pese a los árboles",
           "tipPt": "Vá antes das 18h no verão. A esplanada é descoberta e o sol da tarde é intenso apesar das árvores",
-          "googleMapsUrl": "https://maps.google.com/?q=The+ABGB+Austin+Beer+Garden+Brewing+Company+Austin"
+          "googleMapsUrl": "https://maps.google.com/?q=The+ABGB+Austin+Beer+Garden+Brewing+Company+Austin",
+          "descriptionDe": "Eine Nachbarschaftsbrauerei mit Biergarten und einer großen, schattigen, unüberdachten Terrasse, die seit der Eröffnung hundefreundlich ist. Für vierbeinige Gäste stehen Tränken und Hundekekse bereit, und ein Dollar von jedem verkauften Pale Ale geht an die Langzeithunde eines örtlichen Tierheims. Holzofenpizza und eine wechselnde hauseigene Bierliste passen zu einem gemütlichen Nachmittag.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen, angeleint",
+          "mustTryDe": "Holzofenpizza, APA (American Pale Ale)",
+          "tipDe": "Gehen Sie im Sommer vor 18 Uhr. Die Terrasse ist unüberdacht, und die Nachmittagssonne ist selbst mit Schattenbäumen intensiv"
         },
         {
           "name": "Loro Asian Smokehouse & Bar (South Lamar)",
@@ -65,7 +69,11 @@
           "tipFr": "Le happy hour a lieu du lundi au vendredi de 14h à 17h. La terrasse est plus calme et le personnel a le temps de s'occuper de votre chien",
           "tipEs": "El happy hour es de lunes a viernes de 14:00 a 17:00. La terraza está más tranquila y el personal tiene tiempo de mimar a tu perro",
           "tipPt": "O happy hour é de segunda a sexta das 14h às 17h. A esplanada fica mais calma e o pessoal tem tempo para mimar o seu cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Loro+South+Lamar+Austin"
+          "googleMapsUrl": "https://maps.google.com/?q=Loro+South+Lamar+Austin",
+          "descriptionDe": "Ein asiatisches Räucherlokal der Köche hinter Uchi und Franklin Barbecue, gebaut um eine geräumige, eichenbeschattete Terrasse, die die eigene Website des Restaurants als das ganze Jahr über hundefreundlich beschreibt, mit Sprühnebel im Sommer und Heizstrahlern im Winter. Hunde bleiben nur auf der Terrasse. Die Karte verbindet texanischen Räuchergeschmack mit asiatischen Aromen: man denke an Brisket-Dumplings und lackierte Rippchen.",
+          "petPolicyDe": "Hunde nur auf der Terrasse willkommen, angeleint",
+          "mustTryDe": "Brisket-Dumplings, lackierte Rippchen",
+          "tipDe": "Happy Hour läuft Mo-Fr 14:00-17:00 Uhr. Die Terrasse ist dann ruhiger, und das Personal hat Zeit, sich um Ihren Hund zu kümmern"
         },
         {
           "name": "Easy Tiger South Lamar",
@@ -91,7 +99,11 @@
           "tipFr": "La terrasse couverte en fait une bonne option les jours de pluie, ce qui est rare dans la scène canine austinite, surtout extérieure",
           "tipEs": "La terraza cubierta la convierte en una buena opción los días de lluvia, algo poco común en la escena canina de Austin, mayormente al aire libre",
           "tipPt": "A esplanada coberta torna este um bom refúgio em dias de chuva, algo raro na cena canina de Austin, sobretudo ao ar livre",
-          "googleMapsUrl": "https://maps.google.com/?q=Easy+Tiger+South+Lamar+Austin"
+          "googleMapsUrl": "https://maps.google.com/?q=Easy+Tiger+South+Lamar+Austin",
+          "descriptionDe": "Eine Bäckerei, ein Biergarten und eine vollwertige Bar in einem, mit über 10.000 Quadratfuß überdachter Terrasse allein am Standort South Lamar. Das überdachte Format ist für einen Hundehalter in Austin der Anziehungspunkt: Schatten und teilweiser Regenschutz an einem Ort, dazu eine wechselnde Liste von über 25 lokalen und Craft-Bieren und eine vollständige Bäckereitheke für frische Brezeln und Croissants.",
+          "petPolicyDe": "Hunde auf der überdachten Terrasse willkommen, angeleint",
+          "mustTryDe": "Frische Brezel, hausgebackenes Croissant, lokales Fassbier",
+          "tipDe": "Die überdachte Terrasse macht dies zu einer soliden Option für Regentage, ungewöhnlich für Austins meist im Freien angesiedelte Hundeszene"
         }
       ],
       "tipsEn": [
@@ -173,6 +185,22 @@
           "q": "Qual é a melhor altura do dia para comer na esplanada com um cão no verão em Austin?",
           "a": "Antes das 11h ou depois das 19h de junho a setembro. O calor do meio-dia numa esplanada descoberta ou no passeio à volta pode ferir as almofadinhas em minutos."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Austin",
+      "introDe": "Austin hat sich seinen Ruf als eine der entspanntesten Städte Amerikas mit seiner Terrassenkultur erarbeitet, und diese Kultur ist wirklich hundefreundlich. Der texanische Lebensmittelhygienekodex verbietet Tiere in Innenräumen, das gesamte Geschehen spielt sich daher auf überdachten, mit Sprühnebel gekühlten oder beheizten Terrassen ab, die sowohl bei Hitze als auch bei Kälteeinbrüchen geöffnet bleiben. Craft-Brauereien gehen voran: Viele waren von Anfang an hundefreundlich und behandeln einen gut erzogenen, angeleinten Hund wie selbstverständlich dazugehörig, Wassernäpfe erscheinen, bevor man fragen muss. Der Kompromiss ist das Klima. Terrassenessen funktioniert am besten außerhalb der Mittagsspitze im Juli und August, wenn selbst schattierter Beton Pfoten verbrennen kann. Die drei unten genannten Lokale haben ihre Haustierrichtlinie jeweils auf der eigenen offiziellen Website bestätigt, nicht nur in einer Liste, und keines lässt Hunde über die Terrassentür hinaus.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Austins Restaurants drinnen erlaubt?",
+          "a": "Nein. Der texanische Gesundheitskodex verbietet Tiere in Bereichen der Essenszubereitung und in Innengasträumen, mit sehr begrenzten Ausnahmen für Assistenzhunde. Jedes hundefreundliche Restaurant in Austin meint die Terrasse, nicht den Innenraum."
+        },
+        {
+          "q": "Stellen Austins Restaurants Wassernäpfe für Hunde bereit?",
+          "a": "Die meisten terrassenorientierten Brauereien und Cafés tun das, besonders in South Lamar und South Congress. Fragen schadet nie, das Personal bringt in der Regel gerne einen Napf."
+        },
+        {
+          "q": "Welche Tageszeit eignet sich am besten für Terrassenessen mit Hund im Sommer in Austin?",
+          "a": "Vor 11 Uhr oder nach 19 Uhr von Juni bis September. Die Mittagshitze auf einer unüberdachten Terrasse oder dem umliegenden Belag kann Pfoten innerhalb von Minuten verletzen."
+        }
       ]
     },
     "parks": {
@@ -203,7 +231,10 @@
           "tipFr": "Comme l'espace n'est pas clôturé, surveillez la circulation le long de Bouldin Avenue et West Riverside Drive, des chiens s'y sont déjà échappés sur la route",
           "tipEs": "Como no está vallado, vigila el tráfico en Bouldin Avenue y West Riverside Drive, ya ha habido perros que han salido corriendo a la carretera",
           "tipPt": "Como não é vedado, fique atento ao trânsito na Bouldin Avenue e na West Riverside Drive, já houve cães que fugiram para a estrada aqui",
-          "googleMapsUrl": "https://maps.google.com/?q=Zilker+Metropolitan+Park+Austin"
+          "googleMapsUrl": "https://maps.google.com/?q=Zilker+Metropolitan+Park+Austin",
+          "descriptionDe": "Austins Flaggschiffpark mit 351 Acres, dessen Great Lawn täglich von 5 bis 22 Uhr als unumzäunte Freilauffläche dient. Hunde müssen unter Rufkontrolle bleiben, da es keinen Zaun zwischen der Wiese und Barton Springs Road, Bouldin Avenue und den Parkplätzen gibt. Hunde sind vom Spielplatz, dem Schwimmbad und den Sportfeldern jederzeit ausgeschlossen. Verbinden Sie einen Besuch mit dem Weg am Lady Bird Lake, der am Nordrand des Parks entlangläuft.",
+          "offLeashAreaDe": "Die Great Lawn, unumzäunt, täglich 5-22 Uhr. Ausgenommen Spielplatz, Schwimmbad und Sportfelder",
+          "tipDe": "Da unumzäunt, achten Sie auf den Verkehr an der Bouldin Avenue und dem West Riverside Drive, hier sind schon Hunde auf die Straße gelaufen"
         },
         {
           "name": "Red Bud Isle",
@@ -223,7 +254,10 @@
           "tipFr": "Surveillez les avis de prolifération d'algues en fin d'été, la ville affiche des avertissements à l'entrée en cas d'algues bleu-vert",
           "tipEs": "Vigila los avisos de proliferación de algas a finales de verano, la ciudad publica advertencias en la entrada cuando hay algas azul-verdosas",
           "tipPt": "Fique atento aos avisos de proliferação de algas no final do verão, a cidade publica avisos à entrada quando há algas azul-esverdeadas",
-          "googleMapsUrl": "https://maps.google.com/?q=Red+Bud+Isle+Austin"
+          "googleMapsUrl": "https://maps.google.com/?q=Red+Bud+Isle+Austin",
+          "descriptionDe": "Eine 13 Acres große Insel direkt unterhalb des Tom Miller Dam am Lake Austin und einer der beliebtesten Freilauforte der Stadt. Ein schattiger Rundweg umkreist die Insel unter Zypressen und Judasbäumen, mit mehreren Kies- und Grasstellen, an denen Hunde im ruhigen Wasser unterhalb des Damms frei schwimmen. Sie ist unumzäunt und wird voll, am Wochenende früh kommen. Parkplätze sind begrenzt und füllen sich schnell.",
+          "offLeashAreaDe": "Gesamte Insel, unumzäunt, 5-22 Uhr. Hunde schwimmen an den Kies- und Grasstellen frei",
+          "tipDe": "Achten Sie im Spätsommer auf Algenblüten-Warnungen, die Stadt schlägt am Eingang Alarm, wenn Blaualgen vorhanden sind"
         },
         {
           "name": "Auditorium Shores at Lady Bird Lake",
@@ -243,7 +277,10 @@
           "tipFr": "Restez à l'intérieur de la zone sans laisse balisée. Le sentier Hike-and-Bike est l'un des plus fréquentés d'Austin et exige strictement la laisse",
           "tipEs": "Permanece dentro de la zona sin correa señalizada. El sendero Hike-and-Bike es uno de los más transitados de Austin y exige correa obligatoria",
           "tipPt": "Fique dentro da zona sem trela assinalada. O trilho Hike-and-Bike é um dos mais movimentados de Austin e exige trela obrigatória",
-          "googleMapsUrl": "https://maps.google.com/?q=Auditorium+Shores+Austin"
+          "googleMapsUrl": "https://maps.google.com/?q=Auditorium+Shores+Austin",
+          "descriptionDe": "Ein Uferpark in der Innenstadt mit einer ausgewiesenen Freilauffläche zwischen Riverside Drive und Lady Bird Lake, einschließlich eines Kies-Hundeeinstiegs, an dem Hunde direkt zum Schwimmen in den See springen. Der Rest des Parks, einschließlich des Abschnitts entlang des Ann and Roy Butler Hike-and-Bike Trail, gilt nur mit Leine, mit Bußgeldern von bis zu 500 USD für freilaufende Hunde außerhalb der markierten Zone. Der Blick auf die Skyline der Innenstadt über das Wasser macht dies zu einem der schönsten Hundespaziergänge der Stadt.",
+          "offLeashAreaDe": "Ausgewiesene Zone zwischen Riverside Drive und dem See, mit einem Kies-Hundeeinstieg zum Schwimmen",
+          "tipDe": "Bleiben Sie innerhalb der markierten Freilaufzone. Der Hike-and-Bike Trail selbst ist einer der belebtesten Wege Austins und gilt strikt mit Leine"
         }
       ],
       "tipsEn": [
@@ -324,6 +361,22 @@
         {
           "q": "A que horas abrem e fecham as zonas sem trela de Austin?",
           "a": "Das 5h às 22h, em toda a cidade, nas zonas designadas. Fora desse horário a trela é obrigatória em todo o lado, incluindo dentro das zonas sem trela."
+        }
+      ],
+      "titleDe": "Hundeparks und Spaziergänge in Austin",
+      "introDe": "Austin ist eine wirklich freiluftfreundliche Stadt für Hunde, aufgebaut rund um den Lady Bird Lake und dessen zehn Meilen langen Rad- und Wanderweg. Die offiziellen Freilaufflächen der Stadt sind unumzäunt, was im landesweiten Vergleich ungewöhnlich ist. Statt eingezäunter Hundeauslaufplätze weist Austin offene Zonen innerhalb größerer Parks aus, wo Hunde unter Rufkontrolle von 5 bis 22 Uhr ohne Leine sein dürfen. Diese Freiheit bringt echte Verantwortung mit sich: der Seeweg am Lady Bird Lake, die Great Lawn im Zilker Park und Red Bud Isle liegen alle nahe an Straßen, Wasser und dichten Sommermengen. Die drei unten genannten Orte decken den klassischen Austin-Hundetag ab: einen riesigen zentralen Park, eine seenahe Freilaufinsel und einen echten Geheimtipp im Viertel.",
+      "faqsDe": [
+        {
+          "q": "Sind Austins Hundeparks eingezäunt?",
+          "a": "Nein. Anders als in den meisten amerikanischen Großstädten sind Austins Freilaufflächen im Zilker Park, auf Red Bud Isle und in Auditorium Shores offen und unumzäunt. Hunde brauchen einen zuverlässigen, per Zuruf kontrollierten Rückruf, da keine physische Barriere zwischen der Freilauffläche und Straßen oder Wasser besteht."
+        },
+        {
+          "q": "Dürfen Hunde im Lady Bird Lake schwimmen?",
+          "a": "Ja, an ausgewiesenen Stellen, vor allem am Ufer von Red Bud Isle und am Hunde-Einstieg von Auditorium Shores. Schwimmen wird entlang des restlichen Seewegs nicht gefördert, der stark von Stand-up-Paddlern und Kajakfahrern genutzt wird."
+        },
+        {
+          "q": "Wann öffnen und schließen Austins Freilaufflächen?",
+          "a": "5 bis 22 Uhr, stadtweit, in den ausgewiesenen Zonen. Außerhalb dieser Zeiten gilt überall Leinenpflicht, auch innerhalb der Freilaufflächen."
         }
       ]
     },
@@ -449,6 +502,22 @@
           "q": "É seguro deixar um cão num carro estacionado em Austin?",
           "a": "Não, nunca, sobretudo de abril a outubro. A temperatura interior de um carro sobe para níveis perigosos, que podem pôr a vida em risco, em poucos minutos, mesmo à sombra e com os vidros entreabertos."
         }
+      ],
+      "titleDe": "Mit Hund in Austin unterwegs",
+      "introDe": "Das ist die Schlagzeile für Austin: Capital Metro, der Bus- und Bahnbetreiber der Stadt, befördert nur Assistenzhunde. Gewöhnliche Haushunde, wie gut erzogen auch immer, sind in keinem Capital-Metro-Bus, keiner MetroRail-Bahn und keiner MetroRapid-Linie erlaubt. Diese eine Regel formt die gesamte Reiseplanung mit Haustier rund um ein Auto, denn Austins weitläufige, von Highways durchschnittene Struktur war nie darauf ausgelegt, überall zu Fuß zu gehen. Fahrdienste sind die praktische Rückfalloption, aber es liegt im Ermessen des Fahrers, nicht garantiert. Planen Sie Ihren Aufenthalt um einen Mietwagen oder ein Hotel in Gehweite zum Seeweg, dann umgehen Sie das Problem fast vollständig.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in Austins Bussen oder Bahnen mitnehmen?",
+          "a": "Nein. Capital Metro, das alle Busse, MetroRail- und MetroRapid-Linien Austins betreibt, lässt nur Assistenzhunde zu. Gewöhnliche Haushunde sind unter keinen Umständen an Bord erlaubt."
+        },
+        {
+          "q": "Wie komme ich ohne Auto mit Hund in Austin herum?",
+          "a": "Das ist wirklich schwierig. Fahrdienste sind möglich, hängen aber ganz vom Ermessen des Fahrers ab, und Austins Viertel liegen weit genug auseinander, dass ein Fußweg zwischen ihnen mit Hund bei Sommerhitze nicht realistisch ist. Ein Mietwagen ist für die meisten Besucher die praktische Antwort."
+        },
+        {
+          "q": "Ist es sicher, einen Hund in einem geparkten Auto in Austin zu lassen?",
+          "a": "Nein, niemals, besonders von April bis Oktober. Die Innentemperatur im Auto steigt selbst im Schatten mit gekippten Fenstern innerhalb weniger Minuten auf gefährliche, lebensbedrohliche Werte."
+        }
       ]
     },
     "beaches": {
@@ -547,6 +616,22 @@
           "q": "É seguro os cães nadarem nos lagos de Austin no verão?",
           "a": "Em geral sim, mas fique atento a duas coisas: as proliferações de algas azul-esverdeadas, sobre as quais a cidade publica avisos em Red Bud Isle e outros acessos no final do verão, e o nível de água no Barton Creek, que desce acentuadamente em seca."
         }
+      ],
+      "titleDe": "Hundefreundliche Schwimmstellen in Austin",
+      "introDe": "Austin liegt im Landesinneren, Hunderte Meilen vom nächsten Meer entfernt, es gibt daher keinen Hundestrand im Sinne von Meer und Sand. Was Austin stattdessen hat, ist eine Kette aus Seen und Bächen, Lady Bird Lake, Lake Austin, Lake Travis und Barton Creek, die dieselbe Rolle übernehmen, und Einheimische behandeln sie mit derselben Hingabe, mit der eine Küstenstadt ihre Uferlinie behandelt. Die unten genannten Stellen sind alle Süßwasser-See- oder Bachbaden, bestätigt als wirklich hundetauglich, kein Meerwasser. Angesichts der texanischen Sommer gehört ein Wasserstopp in jede warme Austin-Route mit Hund.",
+      "faqsDe": [
+        {
+          "q": "Hat Austin einen Meeresstrand für Hunde?",
+          "a": "Nein. Austin liegt im Landesinneren von Zentraltexas, Hunderte Meilen von der Golfküste entfernt. Die hundefreundlichen Wasserstellen in und um die Stadt sind Süßwasserseen und -bäche, Lady Bird Lake, Lake Austin und Barton Creek, nicht das Meer."
+        },
+        {
+          "q": "Wo dürfen Hunde in Austin ohne Leine schwimmen?",
+          "a": "Red Bud Isle am Lake Austin und der ausgewiesene Hundeeinstieg bei Auditorium Shores am Lady Bird Lake sind beide offiziell leinenfrei und unumzäunt. Am Barton Creek Greenbelt gilt bei den Schwimmlöchern offiziell Leinenpflicht, auch wenn die Durchsetzung im Wasser selbst uneinheitlich ist."
+        },
+        {
+          "q": "Ist es für Hunde sicher, im Sommer in Austins Seen zu schwimmen?",
+          "a": "Im Allgemeinen ja, aber achten Sie auf zwei Dinge: Blaualgenblüten, vor denen die Stadt im Spätsommer bei Red Bud Isle und anderen Zugängen warnt, und den Wasserstand am Barton Creek, der bei Dürre stark sinkt."
+        }
       ]
     },
     "vets": {
@@ -582,7 +667,10 @@
           "tipFr": "C'est le plus grand et le plus ancien des hôpitaux 24h/24 d'Austin, un premier réflexe solide en cas d'urgence grave.",
           "tipEs": "Es el más grande y consolidado de los hospitales 24 horas de Austin, una primera llamada sólida ante una urgencia grave.",
           "tipPt": "É o maior e mais consolidado dos hospitais 24 horas de Austin, uma primeira chamada sólida perante uma emergência grave.",
-          "googleMapsUrl": "https://maps.google.com/?q=Austin+Veterinary+Emergency+and+Specialty+Austin"
+          "googleMapsUrl": "https://maps.google.com/?q=Austin+Veterinary+Emergency+and+Specialty+Austin",
+          "hoursDe": "24 Stunden geöffnet, jeden Tag",
+          "descriptionDe": "Eine Vollnotfall- und Fachklinik im Nordwesten Austins mit Abteilungen für Intensivmedizin, Chirurgie und Innere Medizin. Ohne Termin rund um die Uhr aufnahmefähig, kein Termin nötig bei einem echten Notfall.",
+          "tipDe": "Dies ist die größte und etablierteste der 24-Stunden-Kliniken Austins, eine solide erste Anlaufstelle bei einem ernsten Notfall."
         },
         {
           "name": "MedVet Austin",
@@ -603,7 +691,10 @@
           "tipFr": "Utile si votre animal a besoin d'un suivi spécialisé au-delà de l'urgence initiale, les consultations de cardiologie et d'oncologie se font sur place.",
           "tipEs": "Útil si tu mascota necesita seguimiento especializado más allá de la urgencia inicial, las consultas de cardiología y oncología se hacen in situ.",
           "tipPt": "Útil se o seu animal precisar de acompanhamento especializado além da urgência inicial, as consultas de cardiologia e oncologia são feitas no local.",
-          "googleMapsUrl": "https://maps.google.com/?q=MedVet+Austin"
+          "googleMapsUrl": "https://maps.google.com/?q=MedVet+Austin",
+          "hoursDe": "Notaufnahme rund um die Uhr geöffnet",
+          "descriptionDe": "Teil des landesweiten MedVet-Netzwerks, mit einer eigenen Notaufnahme rund um die Uhr sowie fachärztlichen Überweisungsdiensten einschließlich Kardiologie, Onkologie und Neurologie für die weitere Betreuung nach dem ersten Notfallbesuch.",
+          "tipDe": "Nützlich, wenn Ihr Haustier über den ersten Notfall hinaus fachärztliche Nachsorge braucht, Kardiologie- und Onkologie-Überweisungen sind vor Ort."
         },
         {
           "name": "VEG (Veterinary Emergency Group) South Lamar",
@@ -624,7 +715,10 @@
           "tipFr": "Bonne option de repli si AVES ou MedVet sont plus loin de votre hébergement, vérifiez l'adresse actuelle sur veg.com avant de vous déplacer.",
           "tipEs": "Buena opción de respaldo si AVES o MedVet quedan más lejos de tu alojamiento, confirma la dirección actual en veg.com antes de ir.",
           "tipPt": "Boa opção de recurso se a AVES ou a MedVet ficarem mais longe do seu alojamento, confirme a morada atual em veg.com antes de se deslocar.",
-          "googleMapsUrl": "https://maps.google.com/?q=VEG+Veterinary+Emergency+Group+South+Lamar+Austin"
+          "googleMapsUrl": "https://maps.google.com/?q=VEG+Veterinary+Emergency+Group+South+Lamar+Austin",
+          "hoursDe": "Rund um die Uhr geöffnet, ohne Termin, kein Termin nötig",
+          "descriptionDe": "Teil der VEG-Kette, die gezielt auf dringende Notfallversorgung ohne Termin statt auf geplante Facharzttermine ausgerichtet ist. Die zentrale Lage in South Lamar bringt es nahe an den hundefreundlichen Terrassenstreifen, der an anderer Stelle in diesem Guide behandelt wird.",
+          "tipDe": "Gute Ausweichoption, wenn AVES oder MedVet weiter von Ihrer Unterkunft entfernt sind, aktuelle Adresse vorher auf veg.com prüfen."
         }
       ],
       "faqsEn": [
@@ -681,6 +775,22 @@
         {
           "q": "Qual é a emergência com animais mais comum em Austin?",
           "a": "Problemas relacionados com o calor durante o longo e quente verão texano, golpe de calor, desidratação e almofadinhas queimadas pelo pavimento quente são as emergências mais vistas pelos veterinários locais entre maio e setembro."
+        }
+      ],
+      "titleDe": "Tierärzte und Tiernotfälle in Austin",
+      "introDe": "Austin ist für die überwiegende Mehrheit der Besucher Inlandsreise innerhalb der USA, es gibt daher keinen Pass, Mikrochip oder Tollwutzeugnis-Prozess für Haustiere, die aus einem anderen Teil des Landes ankommen. Internationale Ankünfte, die zum ersten Mal einen Hund oder eine Katze in die Vereinigten Staaten bringen, sollten vor der Reise die aktuellen Anforderungen von CDC und USDA APHIS prüfen, da die Bundesregeln für Hundeimporte im August 2024 verschärft wurden. Einmal in Austin, ist das eigentliche Risiko hitzebedingte Notfälle statt Papierkram, und die Stadt verfügt über mehrere 24-Stunden-Tierkliniken, die genau darauf ausgerüstet sind.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich einen Haustierpass, um meinen Hund nach Austin zu bringen?",
+          "a": "Nur wenn Sie zum ersten Mal international in die Vereinigten Staaten einreisen. Inlandsreisen innerhalb der USA erfordern keinen Haustierpass, kein Gesundheitszeugnis und keinen Tollwutnachweis für einen Besuch in Austin."
+        },
+        {
+          "q": "Was ist der beste 24-Stunden-Notfalltierarzt in Austin?",
+          "a": "Austin Veterinary Emergency & Specialty (AVES) im Nordwesten Austins und MedVet Austin sind die beiden größten Vollservice-Notfall- und Fachkliniken rund um die Uhr. VEG South Lamar ist eine solide Anlaufstelle ohne Termin, wenn Sie näher an der Innenstadt oder South Lamar wohnen."
+        },
+        {
+          "q": "Was ist der häufigste Haustiernotfall in Austin?",
+          "a": "Hitzebedingte Erkrankungen während des langen, heißen texanischen Sommers, Hitzschlag, Dehydrierung und verbrannte Pfotenballen durch heißen Belag sind die Notfälle, die örtliche Tierärzte zwischen Mai und September am häufigsten sehen."
         }
       ]
     },
@@ -785,6 +895,22 @@
           "q": "Preciso de algum trâmite especial para levar o meu cão a Austin?",
           "a": "Não para uma viagem doméstica dentro dos Estados Unidos, não é exigido nenhum trâmite. Os visitantes internacionais que levem um animal para os Estados Unidos pela primeira vez devem verificar os requisitos atuais do CDC e do USDA antes de viajar."
         }
+      ],
+      "titleDe": "Wichtige Reisetipps mit Haustier für Austin",
+      "introDe": "Austins Ruf als haustierfreundliches Reiseziel ist wohlverdient, überall hundefreundliche Terrassen, riesige Freilaufparks und eine wirklich hundeliebende Kultur vor Ort. Zwei Dinge überraschen Besucher: die Hitze und der fehlende haustierfreundliche öffentliche Nahverkehr. Planen Sie um beides herum, dann läuft der Rest der Reise von selbst.",
+      "faqsDe": [
+        {
+          "q": "Ist Austin eine gute Stadt für Hundehalter?",
+          "a": "Ja, sie ist wirklich eine der hundefreundlichsten Städte der USA, mit unumzäunten Freilaufparks, hundefreundlichen Terrassen überall in der Stadt und einer starken lokalen Hundekultur. Die beiden echten Einschränkungen sind die Sommerhitze und die Tatsache, dass Haushunde nicht in Capital-Metro-Bussen oder -Bahnen mitfahren dürfen."
+        },
+        {
+          "q": "Wann ist die schlechteste Zeit für einen Besuch Austins mit Hund?",
+          "a": "Juli und August. Die Tageshöchstwerte übersteigen regelmäßig 38 °C, und die Belagstemperaturen machen Spaziergänge tagsüber für Pfoten wirklich gefährlich. Wenn Sie dann besuchen müssen, beschränken Sie die Zeit im Freien auf den frühen Morgen und den späten Abend."
+        },
+        {
+          "q": "Brauche ich besondere Papiere, um meinen Hund nach Austin zu bringen?",
+          "a": "Für Inlandsreisen innerhalb der USA nicht, es sind keine Papiere erforderlich. Internationale Besucher, die zum ersten Mal ein Haustier in die USA bringen, sollten vor der Reise die aktuellen Anforderungen von CDC und USDA prüfen."
+        }
       ]
     },
     "attractions": {
@@ -818,7 +944,11 @@
           "tipFr": "Arrivez 30 à 45 minutes avant le coucher du soleil et consultez les prévisions d'envol de Bat Conservation International en ligne, l'heure exacte varie chaque soir",
           "tipEs": "Llega 30-45 minutos antes de la puesta de sol y consulta la previsión de salida de Bat Conservation International en línea, la hora exacta varía cada noche",
           "tipPt": "Chegue 30 a 45 minutos antes do pôr do sol e consulte a previsão de saída da Bat Conservation International online, a hora exata varia todas as noites",
-          "googleMapsUrl": "https://maps.google.com/?q=Congress+Avenue+Bridge+Bats+Austin"
+          "googleMapsUrl": "https://maps.google.com/?q=Congress+Avenue+Bridge+Bats+Austin",
+          "descriptionDe": "Von etwa März bis Oktober strömen bei Dämmerung bis zu 1,5 Millionen mexikanische Bulldoggfledermäuse unter der Congress Avenue Bridge hervor, eine der größten urbanen Fledermauskolonien Nordamerikas. Beobachten Sie vom Hike-and-Bike Trail unter der Brücke, vom Bürgersteig der Brücke selbst oder vom kostenlosen Aussichtsbereich beim Gebäude des Austin American-Statesman auf 305 South Congress Avenue aus, alles Aussichtspunkte im Freien, die angeleinte Hunde willkommen heißen.",
+          "dogPolicyDe": "Angeleinte Hunde an allen Aussichtspunkten im Freien willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "30-45 Minuten vor Sonnenuntergang ankommen und die Flugprognose von Bat Conservation International online prüfen, die genaue Ausflugzeit variiert von Nacht zu Nacht"
         },
         {
           "name": "Mount Bonnell",
@@ -841,7 +971,11 @@
           "tipFr": "Apportez de l'eau pour votre chien, il n'y a pas de fontaine au sommet et les marches calcaires chauffent vite au soleil direct",
           "tipEs": "Lleva agua para tu perro, no hay fuente en la cima y los escalones de piedra caliza se calientan rápido al sol directo",
           "tipPt": "Leve água para o seu cão, não há fontanário no topo e os degraus de calcário aquecem depressa ao sol direto",
-          "googleMapsUrl": "https://maps.google.com/?q=Mount+Bonnell+Austin"
+          "googleMapsUrl": "https://maps.google.com/?q=Mount+Bonnell+Austin",
+          "descriptionDe": "Austins höchster öffentlicher Aussichtspunkt, erreichbar über eine kurze, aber steile Kalksteintreppe mit 102 Stufen, mit weitem Blick über den Lake Austin und das texanische Hügelland. Hunde sind an der Leine willkommen. Der Kalkstein kann im Sommer unter den Füßen heiß werden, und die Stufen bieten keinen Schatten, ein früher Morgen- oder Abendbesuch ist für einen Hund deutlich angenehmer als die Mittagszeit.",
+          "dogPolicyDe": "Angeleinte Hunde auf dem Weg und am Aussichtspunkt willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Wasser für Ihren Hund mitbringen, oben gibt es keinen Trinkbrunnen, und die Kalksteinstufen werden in direkter Sonne schnell heiß"
         },
         {
           "name": "Zilker Botanical Garden",
@@ -864,7 +998,11 @@
           "tipFr": "Apportez vos propres sacs à déjections, le jardin recommande aux visiteurs de venir équipés plutôt que de compter sur des distributeurs sur place",
           "tipEs": "Lleva tus propias bolsas para excrementos, el jardín recomienda que los visitantes vengan preparados en lugar de confiar en dispensadores in situ",
           "tipPt": "Leve os seus próprios sacos para dejetos, o jardim recomenda que os visitantes venham preparados em vez de confiar em dispensadores no local",
-          "googleMapsUrl": "https://maps.google.com/?q=Zilker+Botanical+Garden+Austin"
+          "googleMapsUrl": "https://maps.google.com/?q=Zilker+Botanical+Garden+Austin",
+          "descriptionDe": "Ein 28 Acres großer botanischer Garten mit thematischen Bereichen, darunter ein japanischer Garten, ein Rosengarten und eine Kaktus- und Sukkulentensammlung. Laut den eigenen FAQ des Gartens sind angeleinte Hunde das ganze Jahr über auf dem Gelände willkommen, außer bei einer Handvoll besonderer, kostenpflichtiger Abendveranstaltungen wie dem Woodland Faerie Trail. Schattige Wege machen ihn selbst in wärmeren Monaten zu einer wirklich angenehmen Option für die Mittagszeit.",
+          "dogPolicyDe": "Angeleinte Hunde das ganze Jahr willkommen, außer bei ausgewählten kostenpflichtigen Abendveranstaltungen",
+          "admissionFeeDe": "Kostenpflichtiger Eintritt, aktuelle Preise auf zilkergarden.org prüfen",
+          "tipDe": "Eigene Kotbeutel mitbringen, der Garten empfiehlt Besuchern, vorbereitet zu kommen, statt sich auf Spender vor Ort zu verlassen"
         }
       ],
       "tipsEn": [
@@ -942,6 +1080,22 @@
           "q": "Os cães são permitidos no Capitólio do Texas?",
           "a": "Os jardins do Capitólio aceitam cães com trela ao ar livre, mas o interior do edifício não admite animais, exceto animais de assistência."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Austin",
+      "introDe": "Austins größte Sehenswürdigkeiten sind tendenziell im Freien und kostenlos, was einem Hund gut passt. Der Haken ist, dass die meisten Indoor-Kultureinrichtungen, Museen, der Zoo und das Innere des Kapitolgebäudes, Haustiere grundsätzlich ausschließen, die untenstehende Liste an Sehenswürdigkeiten neigt daher stark zum Freien, wo Austin wirklich glänzt.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund zur Fledermausbeobachtung an der Congress Avenue Bridge mitnehmen?",
+          "a": "Ja. Alle Aussichtspunkte im Freien, der Hike-and-Bike Trail unter der Brücke, der Bürgersteig der Brücke und der kostenlose Aussichtsbereich beim Gebäude des Austin American-Statesman heißen angeleinte Hunde willkommen. Die Fledermauskolonie selbst ist im Allgemeinen von März bis Oktober vorhanden."
+        },
+        {
+          "q": "Ist der Zilker Botanical Garden hundefreundlich?",
+          "a": "Ja, an der Leine, das ganze Jahr über, laut der eigenen veröffentlichten Richtlinie des Gartens. Eine kleine Zahl besonderer, kostenpflichtiger Abendveranstaltungen ist die einzige Ausnahme."
+        },
+        {
+          "q": "Sind Hunde am Texas State Capitol erlaubt?",
+          "a": "Das Gelände des Kapitols erlaubt angeleinte Hunde im Freien, doch das Innere des Gebäudes lässt außer Assistenzhunden keine Haustiere zu."
+        }
       ]
     },
     "petsitting": {
@@ -972,7 +1126,10 @@
           "tip": "Book at least a few days ahead for holiday weekends like SXSW or ACL Fest, when demand across the city spikes",
           "tipFr": "Réservez au moins quelques jours à l'avance pour les week-ends de grands événements comme SXSW ou ACL Fest, la demande explose dans toute la ville",
           "tipEs": "Reserva con al menos unos días de antelación para fines de semana de grandes eventos como SXSW o ACL Fest, la demanda se dispara en toda la ciudad",
-          "tipPt": "Reserve com pelo menos alguns dias de antecedência para fins de semana de grandes eventos como o SXSW ou o ACL Fest, a procura dispara em toda a cidade"
+          "tipPt": "Reserve com pelo menos alguns dias de antecedência para fins de semana de grandes eventos como o SXSW ou o ACL Fest, a procura dispara em toda a cidade",
+          "descriptionDe": "Ein Franchise des landesweiten Fetch! Pet Care Netzwerks mit eigenen Teams für Innenstadt, Nord-Austin und Ost-Austin. Sitter sind überprüfte Angestellte, kein Peer-to-Peer-Marktplatz, und der Dienst umfasst Gassi-Service, Haustierbetreuung zu Hause, Übernachtungsbetreuung und Fahrten zum Tierarzt oder Friseur.",
+          "serviceTypeDe": "Gassi-Service, Haustierbetreuung zu Hause, Übernachtungsbetreuung, Haustiertaxi",
+          "tipDe": "Mindestens einige Tage im Voraus für Feiertagswochenenden wie SXSW oder ACL Fest buchen, wenn die Nachfrage stadtweit ansteigt"
         },
         {
           "name": "Rover (Austin sitters)",
@@ -993,7 +1150,10 @@
           "tip": "Filter by 'repeat booker' badge and read the most recent reviews first, availability during SXSW and ACL Fest books out weeks in advance",
           "tipFr": "Filtrez par badge « client fidèle » et lisez d'abord les avis les plus récents, les disponibilités pendant SXSW et ACL Fest se réservent des semaines à l'avance",
           "tipEs": "Filtra por la insignia de 'cliente recurrente' y lee primero las reseñas más recientes, la disponibilidad durante SXSW y ACL Fest se agota con semanas de antelación",
-          "tipPt": "Filtre pela insígnia de 'cliente recorrente' e leia primeiro as avaliações mais recentes, a disponibilidade durante o SXSW e o ACL Fest esgota-se com semanas de antecedência"
+          "tipPt": "Filtre pela insígnia de 'cliente recorrente' e leia primeiro as avaliações mais recentes, a disponibilidade durante o SXSW e o ACL Fest esgota-se com semanas de antecedência",
+          "descriptionDe": "Der größte Peer-to-Peer-Marktplatz für Haustierbetreuung in den USA, mit Hunderten einzeln bewerteter Sitter und Gassi-Geher im Raum Austin, die Übernachtungsbetreuung, Haussitting, Kurzbesuche und tagsüber Hundetagesstätten anbieten. Jeder Sitter legt eigene Preise und ein eigenes Profil fest, lesen Sie Bewertungen sorgfältig und vereinbaren Sie vor der Buchung ein Kennenlerntreffen.",
+          "serviceTypeDe": "Übernachtungsbetreuung, Haussitting, Kurzbesuche, Hundetagesstätte",
+          "tipDe": "Nach dem Abzeichen 'Repeat Booker' filtern und zuerst die neuesten Bewertungen lesen, die Verfügbarkeit während SXSW und ACL Fest ist Wochen im Voraus ausgebucht"
         }
       ],
       "tipsEn": [
@@ -1066,6 +1226,22 @@
         {
           "q": "Há creches diurnas para cães em Austin, não só alojamento?",
           "a": "Sim, várias creches dedicadas operam por toda a cidade, além dos serviços de cuidado em mercado e franquia listados aqui, útil para um dia inteiro de passeios que não é pet-friendly."
+        }
+      ],
+      "titleDe": "Haustierbetreuung und Gassi-Service in Austin",
+      "introDe": "Zwischen der Hitze und der Lücke im Nahverkehr benötigen viele Besucher Austins am Ende einen Gassi-Service oder ein paar Stunden Tagesbetreuung, statt einen Hund durch ein volles Programm zu schleppen. Sowohl landesweite Plattformen als auch lokal geführte Dienste sind in der ganzen Stadt aktiv.",
+      "faqsDe": [
+        {
+          "q": "Was kostet ein Gassi-Service in Austin?",
+          "a": "Die Preise variieren je nach Anbieter. Marktplatz-Sitter auf Rover verlangen je nach Leistung typischerweise 25-60 USD pro Tag, während ein Franchise-Dienst wie Fetch! Pet Care pro Besuch abrechnet, prüfen Sie den aktuellen Preis vor der Buchung auf der Website."
+        },
+        {
+          "q": "Ist es schwierig, während SXSW oder ACL Fest einen Haustiersitter zu buchen?",
+          "a": "Ja. Beide Festivals ziehen riesige Menschenmengen an und lassen die Nachfrage nach Haustierbetreuung stadtweit sprunghaft steigen. Buchen Sie mindestens 1-2 Wochen im Voraus, wenn Ihr Besuch sich mit einem der beiden Events überschneidet."
+        },
+        {
+          "q": "Gibt es in Austin tagsüber Hundetagesstätten, nicht nur Übernachtungsbetreuung?",
+          "a": "Ja, mehrere eigene Tagesstätten sind in der Stadt zusätzlich zu den hier aufgeführten Marktplatz- und Franchise-Betreuungsdiensten aktiv, nützlich für einen vollen Tag Sightseeing, der nicht hundefreundlich ist."
         }
       ]
     }

@@ -39,7 +39,11 @@
           "tipFr": "Venez en début de soirée. La terrasse se remplit vite le week-end avec des familles locales et leurs chiens.",
           "tipEs": "Ve a primera hora de la tarde. La terraza se llena rápido los fines de semana con familias locales y sus perros.",
           "tipPt": "Va no início da noite. A esplanada enche depressa ao fim de semana com famílias locais e os seus cães.",
-          "googleMapsUrl": "https://maps.google.com/?q=Mister+Pinchos+Benidorm"
+          "googleMapsUrl": "https://maps.google.com/?q=Mister+Pinchos+Benidorm",
+          "descriptionDe": "Eine Grillbar, lokal bekannt für Spieße, Fleischstücke und eine entspannte Terrasse, auf der Stammgäste ihre Hunde mitbringen. Eines der bestbewerteten hundefreundlichen Lokale im Gebiet Rincón de Loix.",
+          "petPolicyDe": "Hunde auf der Außenterrasse willkommen, angeleint an Ihrem Tisch.",
+          "mustTryDe": "Gemischte Grillspieße (parrillas y cortes)",
+          "tipDe": "Gehen Sie am frühen Abend hin. Die Terrasse füllt sich am Wochenende schnell mit einheimischen Familien und ihren Hunden."
         },
         {
           "name": "Sidrería El Trisquel",
@@ -65,7 +69,11 @@
           "tipFr": "Les portions sont grandes et faites pour partager. Demandez une gamelle d'eau pour votre chien en attendant.",
           "tipEs": "Las raciones son grandes y pensadas para compartir. Pide un bol de agua para tu perro mientras esperas.",
           "tipPt": "As doses são grandes e pensadas para partilhar. Peça uma taça de água para o seu cão enquanto espera.",
-          "googleMapsUrl": "https://maps.google.com/?q=Sidreria+El+Trisquel+Benidorm"
+          "googleMapsUrl": "https://maps.google.com/?q=Sidreria+El+Trisquel+Benidorm",
+          "descriptionDe": "Ein asturisches Ciderhaus, das Cachopos und andere nordspanische Hausmannskost serviert, in lokalen hundefreundlichen Verzeichnissen gelistet für die Terrasse, die Hunde willkommen heißt.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen.",
+          "mustTryDe": "Cachopo (paniertes Kalbfleischröllchen gefüllt mit Schinken und Käse)",
+          "tipDe": "Die Portionen sind groß und zum Teilen gedacht. Bitten Sie um einen Wassernapf für Ihren Hund, während Sie warten."
         },
         {
           "name": "Fuxion Gastrobar",
@@ -91,7 +99,11 @@
           "tipFr": "La terrasse couverte permet de dîner confortablement avec son chien même un soir de pluie.",
           "tipEs": "La terraza cubierta permite cenar comodamente con tu perro incluso en una noche de lluvia.",
           "tipPt": "A esplanada coberta permite jantar confortavelmente com o seu cão mesmo numa noite de chuva.",
-          "googleMapsUrl": "https://maps.google.com/?q=Fuxion+Gastrobar+Benidorm"
+          "googleMapsUrl": "https://maps.google.com/?q=Fuxion+Gastrobar+Benidorm",
+          "descriptionDe": "Eine moderne Gastrobar mit international ausgerichteter Karte und überdachter Terrasse, auf der die Inhaber ausdrücklich sagen, dass Haustiere willkommen sind.",
+          "petPolicyDe": "Hunde willkommen, auch auf der überdachten Terrasse.",
+          "mustTryDe": "Fusion-Tapas und Grillfleisch",
+          "tipDe": "Die überdachte Terrasse bedeutet, dass Sie hier auch an einem regnerischen Abend bequem mit Ihrem Hund speisen können."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Qué zona de Benidorm tem mais restaurantes que aceitam cães?",
           "a": "Rincón de Loix, o bairro mais próximo dos parques caninos e do parque natural da Sierra Helada, concentra a maior quantidade de esplanadas que aceitam cães abertamente."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Benidorm",
+      "introDe": "Benidorms Terrassenkultur macht das Essen gehen mit Hund einfach. Fast jede Bar oder jedes Restaurant mit Außenterrasse lässt einen angeleinten Hund unter dem Tisch sitzen, und mehrere Lokale im Stadtzentrum sind ausdrücklich als hundefreundlich bekannt.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Benidorm erlaubt?",
+          "a": "Aus Gründen der Lebensmittelhygiene sind Hunde in Spanien in geschlossenen Speiseräumen generell nicht erlaubt, aber fast jedes Restaurant und jede Bar mit Außen- oder überdachter Terrasse heißt einen angeleinten Hund unter dem Tisch willkommen."
+        },
+        {
+          "q": "Stellen Restaurants in Benidorm Wassernäpfe für Hunde bereit?",
+          "a": "Viele Terrassenbars bringen auf Anfrage einen, besonders in Rincón de Loix, wo Hundebesitzer verbreitet sind. Es schadet nie, einen eigenen faltbaren Napf mitzunehmen."
+        },
+        {
+          "q": "Welches Viertel in Benidorm hat die meisten hundefreundlichen Restaurants?",
+          "a": "Rincón de Loix, das Viertel am nächsten zu den Hundeparks und dem Naturpark Sierra Helada, hat die höchste Dichte an Terrassen, die Hunde offen willkommen heißen."
+        }
       ]
     },
     "parks": {
@@ -199,7 +227,10 @@
           "tipFr": "Allez-y en début de soirée quand la chaleur estivale baisse. Le parc a de l'ombre mais peu en plein soleil de l'après-midi.",
           "tipEs": "Ve a primera hora de la tarde cuando baja el calor del verano. El parque tiene sombra pero poca en las horas centrales del día.",
           "tipPt": "Va ao final da tarde quando o calor do verão baixa. O parque tem sombra mas pouca nas horas centrais do dia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+Foietes+Benidorm"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Foietes+Benidorm",
+          "descriptionDe": "Ein großer Grünpark im Norden der Stadt mit eingezäuntem Pipican-Bereich, Bänken und Schattenbäumen, neben einem Kinderspielplatz und offenen Rasenflächen.",
+          "offLeashAreaDe": "Eingezäunte Pipican-Zone, 09:00-23:00 Uhr",
+          "tipDe": "Gehen Sie am frühen Abend, wenn die Sommerhitze nachlässt. Der Park hat Schatten, aber nur wenig während der prallen Nachmittagssonne."
         },
         {
           "name": "Parque Canino L'Aigüera",
@@ -219,7 +250,10 @@
           "tipFr": "Combinez une visite ici avec une promenade en laisse dans les jardins voisins du Parc de l'Aigüera, bordés de palmiers.",
           "tipEs": "Combina una visita aquí con un paseo con correa por los jardines vecinos del Parc de l'Aigüera, bordeados de palmeras.",
           "tipPt": "Combine uma visita aquí com um passeio à trela pelos jardins vizinhos do Parc de l'Aigüera, ladeados de palmeiras.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+Canino+L%27Aiguera+Benidorm"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Canino+L%27Aiguera+Benidorm",
+          "descriptionDe": "Der größte der fünf offiziellen eingezäunten Hundeparks Benidorms, versteckt hinter der Avenida Inglaterra entlang des alten Flussbett-Parks (Parc de l'Aigüera), mitten im Stadtzentrum.",
+          "offLeashAreaDe": "Eingezäunte Pipican-Zone, 09:00-23:00 Uhr",
+          "tipDe": "Kombinieren Sie einen Besuch hier mit einem Spaziergang durch die palmengesäumten Gärten des Parc de l'Aigüera direkt nebenan, an der Leine."
         },
         {
           "name": "Parque Natural de Serra Gelada",
@@ -239,7 +273,10 @@
           "tipFr": "Partez tôt. Il n'y a presque pas d'ombre sur le chemin du phare et la chaleur de midi en été sur la falaise exposée est intense.",
           "tipEs": "Sal temprano. Casi no hay sombra en el camino al faro y el calor del mediodía en verano sobre el acantilado expuesto es intenso.",
           "tipPt": "Saia cedo. Quase não há sombra no caminho até ao farol e o calor do meio-dia no verão sobre a falesia exposta e intenso.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+Natural+Serra+Gelada+Benidorm"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Natural+Serra+Gelada+Benidorm",
+          "descriptionDe": "Ein dramatischer, 5564 Hektar großer Klippenpark, der sich von Benidorms Rincón de Loix bis Albir erstreckt, mit den höchsten Meeresklippen Europas. Hunde sind an der Leine auf dem flachen, asphaltierten 5 km langen Rundweg zum Leuchtturm von Albir (Faro del Albir) willkommen.",
+          "offLeashAreaDe": "Keine. Leinenpflicht im gesamten Naturpark.",
+          "tipDe": "Starten Sie früh. Auf dem Weg zum Leuchtturm gibt es fast keinen Schatten, und die sommerliche Mittagshitze auf der exponierten Klippe ist intensiv."
         }
       ],
       "tipsEn": [
@@ -316,6 +353,22 @@
         {
           "q": "Há uma zona de agility para cães em Benidorm?",
           "a": "Sim, o pipicán de Rincón de Loix tem um circuito de agility completo com rampas, tuneis e obstáculos."
+        }
+      ],
+      "titleDe": "Hundeparks & Freilaufflächen in Benidorm",
+      "introDe": "Benidorm hat stark in eingezäunte, kostenlos nutzbare Hundeparks (Pipicanes) investiert, verteilt über die Stadt, plus einen spektakulären Klippenpark, in dem angeleinte Hunde auf einem asphaltierten Küstenweg willkommen sind.",
+      "faqsDe": [
+        {
+          "q": "Hat Benidorm Hundeparks ohne Leine?",
+          "a": "Ja. Es gibt fünf kostenlose eingezäunte Pipicanes in der Stadt, darunter Foietes und L'Aigüera, alle täglich von 09:00 bis 23:00 Uhr geöffnet."
+        },
+        {
+          "q": "Dürfen Hunde auf den Klippenwanderweg der Serra Gelada?",
+          "a": "Ja, an der Leine. Der 5 km lange, asphaltierte Rundweg zum Leuchtturm von Albir ist flach und kinderwagentauglich, aber es gibt kaum Schatten, meiden Sie also die Mittagshitze im Sommer."
+        },
+        {
+          "q": "Gibt es einen Hunde-Agility-Bereich in Benidorm?",
+          "a": "Ja, das Pipican in Rincón de Loix hat einen vollständigen Agility-Parcours mit Rampen, Tunneln und Hindernissen."
         }
       ]
     },
@@ -439,6 +492,22 @@
           "contentEs": "Informacion oficial del TRAM Alicante (FGV): tramalicante.info. Radio Taxi Benidorm: +34 965 862 626. El aeropuerto de Alicante-Elche (ALC) es la principal puerta de entrada, a unos 50 km / 45-50 minutos en coche o traslado desde Benidorm.",
           "contentPt": "Informação oficial do TRAM Alicante (FGV): tramalicante.info. Radio Taxi Benidorm: +34 965 862 626. O aeroporto de Alicante-Elche (ALC) é a principal porta de entrada, a cerca de 50 km / 45-50 minutos de carro ou transfer desde Benidorm."
         }
+      ],
+      "titleDe": "Mit Haustier unterwegs in Benidorm",
+      "introDe": "Benidorm selbst ist flach und sehr gut zu Fuß erkundbar, sodass die meisten Besucher mit ihrem Hund zu Fuß auskommen. Für Ausflüge außerhalb der Stadt ist ein Auto die mit Abstand praktischste Option, da die regionale TRAM-Stadtbahn nur kleine Haustiere in einer zugelassenen Transportbox akzeptiert und die nächsten Hundestrände 9 bis 30 km entfernt liegen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit der TRAM nach Alicante oder Denia mitnehmen?",
+          "a": "Nur wenn er klein genug ist, um in einer geschlossenen, zugelassenen Transportbox zu reisen. Mittelgroße und große Hunde dürfen nicht mit der TRAM fahren."
+        },
+        {
+          "q": "Akzeptieren Taxis in Benidorm Hunde?",
+          "a": "Ja, lokale Anbieter wie Radio Taxi Benidorm akzeptieren Hunde jeder Größe, aber Sie sollten es bei der Buchung erwähnen, damit ein geeignetes Fahrzeug geschickt wird."
+        },
+        {
+          "q": "Brauche ich in Benidorm ein Auto mit Hund?",
+          "a": "Nicht zur Erkundung der Stadt selbst, die flach und zu Fuß erkundbar ist, aber ja, um die nächstgelegenen Hundestrände zu erreichen, die alle außerhalb des Gemeindegebiets liegen."
+        }
       ]
     },
     "beaches": {
@@ -537,6 +606,22 @@
           "q": "Onde fica a praia para cães mais próxima de Benidorm?",
           "a": "A Cala del Xarco em Villajoyosa, a cerca de 20 km e 25 minutos de carro, está aberta a cães 365 dias por ano. Altea e El Campello também tem praias caninas oficiais a uma distancia semelhante."
         }
+      ],
+      "titleDe": "Hundestrände nahe Benidorm",
+      "introDe": "Benidorms eigene Strände sind für Hunde keine Option. Die städtische Umweltverordnung verbietet Hunde ganzjährig am Sand der Strände Levante und Poniente sowie an jeder anderen Bucht innerhalb des Gemeindegebiets, mit Bußgeldern ab etwa 120 Euro. Es gibt keinen ausgewiesenen Hundebereich an irgendeinem Strand Benidorms, entgegen dem, was einige ältere Blogs über Punta Llisera behaupten, das ein geschütztes Naturvorgebirge innerhalb des Parks Serra Gelada ist, kein Hundestrand. Die nächsten offiziellen Hundestrände liegen eine kurze Autofahrt entfernt in Nachbarorten.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Hundestrand in Benidorm?",
+          "a": "Nein. Trotz dem, was einige ältere Artikel über Punta Llisera behaupten, hat Benidorm keinen ausgewiesenen Hundestrand. Punta Llisera ist ein geschütztes Naturvorgebirge innerhalb des Parks Serra Gelada, kein für Hunde zugänglicher Strand. Die städtische Verordnung verbietet Hunde ganzjährig an jedem Strand und jeder Bucht Benidorms, einschließlich Levante und Poniente."
+        },
+        {
+          "q": "Sind Hunde im Sommer am Strand Levante oder Poniente erlaubt?",
+          "a": "Nein, und auch nicht im Winter. Anders als viele spanische Küstenorte, die das Verbot außerhalb der Badesaison von Juni bis September aufheben, gilt Benidorms Hundeverbot auf dem Sand ganzjährig ohne saisonale Ausnahme."
+        },
+        {
+          "q": "Wo ist der nächste Hundestrand zu Benidorm?",
+          "a": "Cala del Xarco in Villajoyosa, etwa 20 km und 25 Minuten mit dem Auto entfernt, ist 365 Tage im Jahr für Hunde geöffnet. Auch Altea und El Campello haben offizielle Hundestrände in ähnlicher Entfernung."
+        }
       ]
     },
     "vets": {
@@ -583,7 +668,10 @@
           "tipEs": "Guarda este numéro antes de tu viaje: +34 966 860 669. Para una urgencia real de noche, esta es la opción real más cercana, no una clínica diurna de Benidorm.",
           "tipPt": "Guarde este numéro antes da viagem: +34 966 860 669. Para uma verdadeira emergência noturna, esta é a opção real mais próxima, não uma clínica diurna em Benidorm.",
           "googleMapsUrl": "https://maps.google.com/?q=AniCura+Marina+Baixa+Alfaz+del+Pi",
-          "photo": "/images/city-places/benidorm-vets-anicura-marina-baixa.jpg"
+          "photo": "/images/city-places/benidorm-vets-anicura-marina-baixa.jpg",
+          "hoursDe": "24/7, jeden Tag im Jahr",
+          "descriptionDe": "Ein vollwertiges Überweisungskrankenhaus etwa 9 km nördlich von Benidorm mit rund um die Uhr Notfallversorgung, plus Fachbereichen wie Traumatologie, Ultraschall und Kardiologie. Die nächstgelegene echte 24-Stunden-Option für das Gebiet Benidorm.",
+          "tipDe": "Speichern Sie diese Nummer vor Ihrer Reise: +34 966 860 669. Für einen echten nächtlichen Notfall ist dies die nächstgelegene reale Option, nicht eine Tagesklinik in Benidorm."
         },
         {
           "name": "Clínica Veterinaria Avda. del Mediterráneo",
@@ -605,7 +693,10 @@
           "tipEs": "Su ubicacion centrica la hace comoda para quienes se alojan en las zonas hoteleras de Levante o el casco antiguo.",
           "tipPt": "A sua localização central torna-a prática para quem fica alojado nas zonas hoteleiras de Levante ou no centro histórico.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Avda+del+Mediterraneo+Benidorm",
-          "photo": "/images/city-places/benidorm-vets-clinica-veterinaria-avda-mediterraneo.jpg"
+          "photo": "/images/city-places/benidorm-vets-clinica-veterinaria-avda-mediterraneo.jpg",
+          "hoursDe": "Mo-Fr 10:00-14:00 und 17:00-20:00 Uhr, Sa 10:00-14:00 Uhr. Nächtliche und feiertägliche Notoperationen 365 Tage im Jahr verfügbar",
+          "descriptionDe": "Eine etablierte Klinik in Benidorm an der Hauptstraße Avenida del Mediterráneo, mit allgemeiner Praxis plus rund um die Uhr verfügbarer Notoperationsversorgung auch außerhalb der regulären Öffnungszeiten.",
+          "tipDe": "Die zentrale Lage macht sie praktisch für alle, die in den Hotelzonen Levante oder Altstadt wohnen."
         },
         {
           "name": "Clínica Veterinaria Rincón de Loix",
@@ -627,7 +718,10 @@
           "tipEs": "Buena opción para atencion rutinaria (vacunas, certificados sanitarios para la vuelta) si te alojas en Rincón de Loix.",
           "tipPt": "Boa opcao para cuidados de rotina (vacinas, certificados sanitários para a viagem de regresso) se ficar alojado em Rincón de Loix.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Rincon+de+Loix+Benidorm",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo-Fr 10:00-19:00 Uhr, Sa 10:00-13:30 Uhr, sonntags und feiertags geschlossen",
+          "descriptionDe": "Eine allgemeine Praxis im Herzen von Rincón de Loix, dem Viertel mit der höchsten Dichte an Hundebesitzern und Hundeparks in Benidorm. Die Klinik gibt an, viele ausländische Kunden zu haben, und das gesamte Personal spricht fließend Englisch.",
+          "tipDe": "Gute Wahl für Routineversorgung (Impfungen, Gesundheitszeugnisse für die Heimreise), wenn Sie in Rincón de Loix wohnen."
         }
       ],
       "faqsEn": [
@@ -684,6 +778,22 @@
         {
           "q": "Qué documentos precisa o meu cão para entrar em Espanha?",
           "a": "Os animais da UE precisam de passaporte europeu válido, microchip e vacinação antirrábica em dia. Os animais de fora da UE, incluindo britânicos pos-Brexit, precisam de certificado sanitário oficial, microchip e vacinação antirrábica, e alguns países também exigem um teste de titulação de anticorpos."
+        }
+      ],
+      "titleDe": "Tierärzte in Benidorm",
+      "introDe": "Benidorm hat mehrere Tierarztpraxen in der Stadt, meist mit Tages- und Abendöffnungszeiten, plus ein 24-Stunden-Überweisungskrankenhaus eine kurze Autofahrt entfernt im Nachbarort Alfaz del Pi für echte Notfälle.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Benidorm einen 24-Stunden-Tierarzt?",
+          "a": "Nicht innerhalb Benidorms selbst. Das nächste echte 24-Stunden-Notfallkrankenhaus ist AniCura Marina Baixa in Alfaz del Pi, etwa 9 km und 10-15 Minuten mit Auto oder Taxi entfernt. Eine Klinik in Benidorm (Avda. del Mediterráneo) bietet zusätzlich zu ihren regulären Öffnungszeiten nächtliche und feiertägliche Notoperationen an."
+        },
+        {
+          "q": "Sprechen Tierärzte in Benidorm Englisch?",
+          "a": "Ja, die meisten, angesichts der großen britischen und nordeuropäischen Besucherbasis. Die Clínica Veterinaria Rincón de Loix wirbt ausdrücklich mit fließend englischsprachigem Personal."
+        },
+        {
+          "q": "Welche Dokumente braucht mein Hund für die Einreise nach Spanien?",
+          "a": "EU-Haustiere benötigen einen gültigen EU-Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung. Nicht-EU-Haustiere, einschließlich britischer Haustiere nach dem Brexit, benötigen ein offizielles Tiergesundheitszeugnis, einen Mikrochip und eine Tollwutimpfung, und einige Länder verlangen zusätzlich einen Tollwut-Antikörpertest."
         }
       ]
     },
@@ -804,7 +914,23 @@
         "Nunca planeie um dia de praia na própria Benidorm. Em vez disso, conduza 20-30 minutos até a Cala del Xarco (Villajoyosa) ou Altea.",
         "Leve sempre consigo o passaporte europeu ou o certificado sanitário do seu cão, por vezes há controlos de documentos em zonas turísticas concorridas."
       ],
-      "places": []
+      "places": [],
+      "titleDe": "Hundefreundliche Tipps für Benidorm",
+      "introDe": "Benidorm ist ein riesiges Hochhaus-Ferienresort, das für den Tourismus gebaut wurde, was es logistisch einfach, aber am Strand streng macht. Ein paar lokale Regeln und Gewohnheiten, die man vor der Reise kennen sollte.",
+      "faqsDe": [
+        {
+          "q": "Ist Benidorm insgesamt hundefreundlich?",
+          "a": "Größtenteils ja für Straßen, Parks und Terrassen, aber strikt nein an den Stränden. Es ist ein sehr gut zu Fuß erkundbares, flaches Resort mit fünf kostenlosen eingezäunten Hundeparks, wobei der berühmte Sand ganzjährig tabu ist."
+        },
+        {
+          "q": "Was ist der größte Fehler, den Hundebesitzer in Benidorm machen?",
+          "a": "Anzunehmen, dass das Strandverbot im Winter aufgehoben wird wie in vielen anderen spanischen Küstenorten, oder zu glauben, Punta Llisera sei ein Hundestrand. Beides stimmt nicht: Benidorms Strandverbot gilt ganzjährig und vollständig."
+        },
+        {
+          "q": "Ist Benidorm im Sommer zu heiß für Hunde?",
+          "a": "Das kann es sein. Die Augusthöchsttemperaturen liegen im Schnitt bei rund 29C mit intensiver Sonne auf den exponierten Promenaden. Gehen Sie früh morgens oder abends spazieren und führen Sie immer Wasser mit."
+        }
+      ]
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions in Benidorm",
@@ -837,7 +963,11 @@
           "tipFr": "Allez-y au coucher du soleil. La pierre blanche s'illumine et la foule est moins dense qu'a midi.",
           "tipEs": "Ve al atardecer. La piedra blanca resplandece y hay menos gente que al mediodía.",
           "tipPt": "Va ao pôr do sol. A pedra branca brilha e há menos gente do que ao meio-dia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Balcon+del+Mediterraneo+Benidorm"
+          "googleMapsUrl": "https://maps.google.com/?q=Balcon+del+Mediterraneo+Benidorm",
+          "descriptionDe": "Benidorms meistfotografierter Aussichtspunkt, ein weißer, balustradengesäumter Balkon auf der Landzunge Canfali zwischen den Stränden Levante und Poniente, mit weitem Meerblick. Kostenlos zu besuchen, angeleinte Hunde überall willkommen.",
+          "dogPolicyDe": "Hunde an der Leine willkommen, keine Einschränkungen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Gehen Sie bei Sonnenuntergang hin. Der weiße Stein leuchtet, und die Menschenmenge lichtet sich im Vergleich zum Mittag."
         },
         {
           "name": "Casco Antiguo y Plaza del Castillo",
@@ -860,7 +990,11 @@
           "tipFr": "Le matin est plus calme et plus frais que la foule des tapas en soirée, préférable si votre chien n'aime pas les ruelles bondées.",
           "tipEs": "La mañana es más tranquila y fresca que el ambiente de tapas de la noche, mejor si a tu perro no le gustan las callejuelas concurridas.",
           "tipPt": "A manhã e mais tranquila e fresca do que o ambiente de tapas a noite, melhor se o seu cão não gostar de ruelas cheias de gente.",
-          "googleMapsUrl": "https://maps.google.com/?q=Casco+Antiguo+Benidorm"
+          "googleMapsUrl": "https://maps.google.com/?q=Casco+Antiguo+Benidorm",
+          "descriptionDe": "Das weißgetünchte alte Fischerviertel, ein Labyrinth aus engen Gassen und gekachelten Plätzen rund um die Kirche San Jaime y Santa Ana, ist der zu Fuß am besten erkundbare und stimmungsvollste Teil Benidorms für einen Hund, weit weg vom Hochhausstreifen.",
+          "dogPolicyDe": "Hunde an der Leine willkommen auf allen öffentlichen Straßen und Plätzen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Der Morgen ist ruhiger und kühler als der abendliche Tapas-Trubel, besser, wenn Ihr Hund überfüllte Gassen nicht mag."
         },
         {
           "name": "Terra Mítica (no dogs, for reference)",
@@ -883,7 +1017,11 @@
           "tipFr": "Réservez une garde à la journée via Rover ou Gudog si vous voulez visiter, plutôt que de laisser votre chien dans une voiture chaude ou une chambre d'hotel.",
           "tipEs": "Reserva una guardería por el día a través de Rover o Gudog si quieres visitarlo, en lugar de dejar a tu perro en un coche caliente o en la habitacion del hotel.",
           "tipPt": "Reserve uma creche por dia através da Rover ou da Gudog se quiser visitar, em vez de deixar o seu cão num carro quente ou no quarto do hotel.",
-          "googleMapsUrl": "https://maps.google.com/?q=Terra+Mitica+Benidorm"
+          "googleMapsUrl": "https://maps.google.com/?q=Terra+Mitica+Benidorm",
+          "descriptionDe": "Der große Freizeitpark der Costa Blanca, verteilt auf fünf thematische Zonen vom alten Ägypten bis Rom. Hunde sind nirgendwo auf dem Gelände zugelassen, einschließlich der Warteschlangenbereiche, daher ist dies nur als No-Go zu kennen, nicht als Ziel für Ihre Reise.",
+          "dogPolicyDe": "Hunde nirgendwo auf dem Gelände zugelassen, einschließlich Warteschlangen und Außenbereichen",
+          "admissionFeeDe": "Tagesticket Erwachsene etwa 45 Euro",
+          "tipDe": "Buchen Sie über Rover oder Gudog einen Tagesbetreuer für den Tag, wenn Sie den Park besuchen möchten, statt Ihren Hund in einem heißen Auto oder Hotelzimmer zu lassen."
         }
       ],
       "tipsEn": [
@@ -961,6 +1099,22 @@
           "q": "Os cães são permitidos nas igrejas de Benidorm?",
           "a": "Não, o interior das igrejas costuma estar fechado a cães exceto animais de assistência registados, embora as praças em redor estejam abertas."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Benidorm",
+      "introDe": "Benidorms größte Attraktion, der Freizeitpark Terra Mítica, lässt keine Hunde zu, aber die kostenlose Altstadt und ihr Klippen-Aussichtspunkt sind wirklich hundefreundlich und ohnehin stimmungsvoller.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund zur Terra Mítica mitbringen?",
+          "a": "Nein, Hunde sind nirgendwo innerhalb der Terra Mítica zugelassen, einschließlich Warteschlangen und Außenbereichen. Buchen Sie über Rover oder Gudog einen Tagesbetreuer, wenn Sie den Park besuchen möchten."
+        },
+        {
+          "q": "Was ist die beste kostenlose hundefreundliche Attraktion in Benidorm?",
+          "a": "Der Aussichtspunkt Balcón del Mediterráneo und die umliegende Altstadt, ein leinenfreundliches Labyrinth aus weißgetünchten Gassen und Plätzen mit Meerblick, sind kostenlos zu besuchen."
+        },
+        {
+          "q": "Sind Hunde in den Kirchen Benidorms erlaubt?",
+          "a": "Nein, Kircheninnenräume sind für Hunde generell geschlossen, außer für registrierte Assistenzhunde, wobei die umliegenden Plätze zugänglich sind."
+        }
       ]
     },
     "petsitting": {
@@ -992,7 +1146,10 @@
           "tip": "Book a few days ahead in July and August, the highest-demand months for long-stay UK and northern European visitors.",
           "tipFr": "Réservez quelques jours à l'avance en juillet et août, les mois de plus forte demande pour les visiteurs britanniques et nord-européens de longue durée.",
           "tipEs": "Reserva con unos días de antelación en julio y agosto, los meses de mayor demanda para visitantes británicos y del norte de Europa de larga estancia.",
-          "tipPt": "Reserve com alguns dias de antecedência em julho e agosto, os meses de maior procura por parte de visitantes britânicos e do norte da Europa de longa estadia."
+          "tipPt": "Reserve com alguns dias de antecedência em julho e agosto, os meses de maior procura por parte de visitantes britânicos e do norte da Europa de longa estadia.",
+          "descriptionDe": "Die größte in Benidorm aktive Plattform für Haustierbetreuung, mit lokalen, überprüften Betreuern, die Spaziergänge, Kurzbesuche, Tagesbetreuung und Übernachtungspension anbieten, filterbar nach Viertel und Hundegröße.",
+          "serviceTypeDe": "App-basierte Buchung. Gassi-Service, Kurzbesuche, Tagesbetreuung, Pension",
+          "tipDe": "Buchen Sie im Juli und August einige Tage im Voraus, den Monaten mit der höchsten Nachfrage durch britische und nordeuropäische Langzeitbesucher."
         },
         {
           "name": "Gudog Benidorm",
@@ -1013,7 +1170,10 @@
           "tip": "Every booking includes veterinary insurance cover in case of an accident while your dog is with the sitter.",
           "tipFr": "Chaque réservation inclut une couverture d'assurance vétérinaire en cas d'accident pendant que votre chien est chez le gardien.",
           "tipEs": "Cada reserva incluye cobertura de seguro veterinario en caso de accidente mientras tu perro está con el cuidador.",
-          "tipPt": "Cada reserva inclui cobertura de seguro veterinário em caso de acidente enquanto o seu cão está com o cuidador."
+          "tipPt": "Cada reserva inclui cobertura de seguro veterinário em caso de acidente enquanto o seu cão está com o cuidador.",
+          "descriptionDe": "Eine spanische Plattform für Haustierbetreuung und Pension, beliebt für Tagesausflüge zur Terra Mítica und Aqualandia, da sie es ermöglicht, für die Stunden, in denen Sie sich in einer hundefreien Attraktion befinden, einen verifizierten lokalen Gastgeber zu buchen.",
+          "serviceTypeDe": "App-basierte Buchung. Pension zu Hause, Tagesbetreuung, Gassi-Service",
+          "tipDe": "Jede Buchung beinhaltet einen tierärztlichen Versicherungsschutz für den Fall eines Unfalls, während Ihr Hund beim Betreuer ist."
         }
       ],
       "tipsEn": [
@@ -1090,6 +1250,22 @@
         {
           "q": "O seguro de cuidado de animais está incluido ao reservar por uma aplicação?",
           "a": "Sim, tanto a Rover como a Gudog incluem cobertura de seguro veterinário para acidentes que ocorram enquanto o seu cão está com um cuidador reservado."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Benidorm",
+      "introDe": "Benidorms riesige Langzeittouristenbevölkerung sorgt für einen gesunden Markt aus lokalen Betreuern und Gassi-Gehern, meist über internationale Apps statt über Ladengeschäfte mit Zwingern gebucht.",
+      "faqsDe": [
+        {
+          "q": "Wo finde ich einen Hundebetreuer in Benidorm für einen Tagesausflug zur Terra Mítica?",
+          "a": "Rover und Gudog haben beide verifizierte lokale Betreuer in Benidorm, die stunden- oder tagesweise Tagesbetreuung anbieten, ideal für die Stunden, die Sie in einer hundefreien Attraktion verbringen."
+        },
+        {
+          "q": "Was kostet Hundetagesbetreuung in Benidorm?",
+          "a": "Typischerweise etwa 12-18 Euro pro Tag über Rover oder Gudog, wobei die Preise je nach Betreuer und Saison variieren."
+        },
+        {
+          "q": "Ist eine Haustierbetreuungsversicherung bei Buchung über eine App inklusive?",
+          "a": "Ja, sowohl Rover als auch Gudog beinhalten einen tierärztlichen Versicherungsschutz für Unfälle, die passieren, während sich Ihr Hund in der gebuchten Obhut eines Betreuers befindet."
         }
       ]
     }

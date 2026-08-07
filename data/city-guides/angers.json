@@ -37,7 +37,11 @@
           "descriptionPt": "Um endereço de alta gastronomia contemporânea no cais do Maine, em frente ao Château d'Angers, com uma esplanada à beira-rio que recebe cães calmos quando o tempo assim o autoriza. O chef Pascal Favre d'Anne valoriza os produtos de Anjou e os vinhos do Vale do Loire num ambiente refinado mas descontraído.",
           "petPolicyPt": "Cães bem-vindos na esplanada exterior (conforme o tempo)",
           "mustTryPt": "Menu de degustação da época, vinhos de Savennières e Coteaux du Layon",
-          "tipPt": "Reserve uma mesa na esplanada ao pôr do sol para ver as muralhas do Château iluminarem-se do outro lado do Maine: os cães ficam melhor ao fundo, junto ao rio, onde há mais sossego."
+          "tipPt": "Reserve uma mesa na esplanada ao pôr do sol para ver as muralhas do Château iluminarem-se do outro lado do Maine: os cães ficam melhor ao fundo, junto ao rio, onde há mais sossego.",
+          "descriptionDe": "Eine gehobene zeitgenössische Adresse am Maine-Ufer gegenüber dem Château d'Angers, mit einer Flussterrasse, die bei gutem Wetter wohlerzogene Hunde willkommen heißt. Küchenchef Pascal Favre d'Anne setzt auf Anjou-Produkte und Weine aus dem Loiretal in entspannter, aber raffinierter Atmosphäre.",
+          "petPolicyDe": "Hunde auf der Außenterrasse willkommen (wetterabhängig)",
+          "mustTryDe": "Saisonales Degustationsmenü, Weine aus Savennières und Coteaux du Layon",
+          "tipDe": "Buchen Sie einen Terrassentisch bei Sonnenuntergang, um zu sehen, wie die Zinnen des Château über der Maine erleuchtet werden. Hunde sind am ruhigen Ende der Terrasse zum Fluss hin am besten aufgehoben."
         },
         {
           "name": "L'Atelier des Saveurs",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um bistrô de bairro escondido numa rua pedonal sossegada, a dois passos da Cathédrale Saint-Maurice, conhecido pelo seu menu de mercado diário e por uma pequena esplanada no passeio onde os cães são habitualmente bem-vindos. A sala compacta destaca produtos de Anjou da época e uma carta de vinhos honesta e bem ajustada de preço.",
           "petPolicyPt": "Cães bem-vindos na esplanada do passeio",
           "mustTryPt": "Menu de mercado do dia, Anjou Villages tinto",
-          "tipPt": "O serviço de almoço é o mais tranquilo: à noite enche depressa com os habituais; peça uma mesa de canto no passeio para que o seu cão não fique no meio da passagem."
+          "tipPt": "O serviço de almoço é o mais tranquilo: à noite enche depressa com os habituais; peça uma mesa de canto no passeio para que o seu cão não fique no meio da passagem.",
+          "descriptionDe": "Ein Nachbarschaftsbistro in einer ruhigen Fußgängerstraße wenige Schritte von der Cathédrale Saint-Maurice entfernt, bekannt für ein tägliches Marktmenü und eine kleine Terrasse auf dem Gehweg, auf der Hunde regelmäßig willkommen sind. Der kompakte Speisesaal setzt auf saisonale Zutaten aus dem Anjou und eine ehrliche, preiswerte Weinkarte.",
+          "petPolicyDe": "Hunde auf der Gehweg-Terrasse willkommen",
+          "mustTryDe": "Tägliches Marktmenü, roter Anjou Villages",
+          "tipDe": "Der Mittagsservice ist am ruhigsten, abends füllt sich das Lokal schnell mit Einheimischen. Bitten Sie um einen Ecktisch am Gehweg, damit Ihr Hund nicht im Laufweg liegt."
         },
         {
           "name": "Le Grand Café Molière",
@@ -89,7 +97,11 @@
           "descriptionPt": "Uma grande brasserie em frente ao Grand Théâtre, com uma ampla esplanada aquecida na Place Molière, ponto de encontro angevino clássico onde os cães são habitualmente bem-vindos na esplanada a qualquer hora. Os clássicos de brasserie (steak frites, plateau de fruits de mer) e uma longa carta de aperitivos atraem os locais desde o café da manhã até ao jantar tardio.",
           "petPolicyPt": "Cães bem-vindos na esplanada aquecida todo o ano",
           "mustTryPt": "Steak frites, plateau de fruits de mer, Crémant de Loire ao aperitivo",
-          "tipPt": "A esplanada fica mais animada das 19:00 às 21:00, quando se junta o público do teatro: venha às 18:00 para um aperitivo mais tranquilo com o seu cão antes do espetáculo."
+          "tipPt": "A esplanada fica mais animada das 19:00 às 21:00, quando se junta o público do teatro: venha às 18:00 para um aperitivo mais tranquilo com o seu cão antes do espetáculo.",
+          "descriptionDe": "Eine große Brasserie gegenüber dem Grand Théâtre mit einer weitläufigen beheizten Terrasse auf der Place Molière, ein klassischer Treffpunkt der Angevins, auf dem Hunde zu jeder Tageszeit auf der Terrasse willkommen sind. Brasserie-Klassiker (Steak Frites, Plateau de fruits de mer) und eine lange Aperitif-Karte ziehen Einheimische vom Morgenkaffee bis zum späten Abendessen an.",
+          "petPolicyDe": "Hunde auf der ganzjährig beheizten Terrasse willkommen",
+          "mustTryDe": "Steak Frites, Plateau de fruits de mer, Crémant de Loire als Aperitif",
+          "tipDe": "Die Terrasse ist zwischen 19:00 und 21:00 Uhr am vollsten, wenn sich das Theaterpublikum sammelt. Kommen Sie um 18:00 Uhr für einen ruhigeren Aperitif mit Ihrem Hund vor Vorstellungsbeginn."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Posso entrar num restaurante com o meu cão em Angers se estiver a chover?",
           "a": "Muitos bistrôs toleram cães pequenos no interior com trela, sobretudo nas horas de menor movimento. Pergunte 'Je peux entrer avec mon chien?' antes de se sentar; a recusa é rara para um cão calmo e com trela fora das horas de ponta do almoço e do jantar."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Angers",
+      "introDe": "Angers folgt der französischen Tradition: Hunde sind in Restaurants willkommen, sofern kein Schild mit \"Hunde verboten\" angebracht ist. Die Fußgängerviertel Doutre und Saint-Aubin sowie die Terrassen rund um die Place du Ralliement sind besonders einladend für wohlerzogene Hunde, und ein Glas Anjou- oder Saumur-Wein ist selten weit entfernt.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Angers erlaubt?",
+          "a": "Ja, standardmäßig. Das französische Recht erlaubt Hunde in Restaurants, sofern kein Schild \"chiens interdits\" angebracht ist. In Angers heißen die meisten Terrassen und viele Innenraum-Bistros kleine und mittelgroße Hunde willkommen, besonders in den Fußgängerzonen."
+        },
+        {
+          "q": "Wo sind die hundefreundlichsten Terrassen in Angers?",
+          "a": "Place du Ralliement, Place du Pilori, Place Molière und die Fußgängerstraßen von La Doutre jenseits der Maine konzentrieren die hundefreundlichen Terrassen. Der Quai des Carmes bietet Flussblick mit mehreren tierfreundlichen Bistros."
+        },
+        {
+          "q": "Kann ich meinen Hund bei Regen mit ins Restaurant nehmen?",
+          "a": "Viele Bistros dulden kleine Hunde an der Leine drinnen, besonders außerhalb der Stoßzeiten. Fragen Sie \"Je peux entrer avec mon chien?\", bevor Sie sich setzen; eine Ablehnung ist bei ruhigen, angeleinten Hunden außerhalb des geschäftigen Mittag- und Abendansturms selten."
+        }
       ]
     },
     "parks": {
@@ -198,7 +226,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parc+de+Pignerolle+Saint-Barthelemy-d-Anjou",
           "descriptionPt": "Um parque paisagístico de 80 hectares em torno de um château do século XVIII, com vastos relvados, bosques maduros e trilhos florestais sinalizados onde os cães podem correr sem trela nos caminhos florestais (com trela nos jardins formais). Os locais consideram-no o principal destino canino de Angers e nunca parece concorrido.",
           "petPolicyPt": "Sem trela nos caminhos florestais; trela obrigatória nos jardins formais",
-          "tipPt": "Estacione na entrada sul, junto à Avenue Pignerolle, para o acesso mais rápido ao circuito florestal: o parque de estacionamento principal do château enche-se de grupos escolares nas manhãs durante a semana."
+          "tipPt": "Estacione na entrada sul, junto à Avenue Pignerolle, para o acesso mais rápido ao circuito florestal: o parque de estacionamento principal do château enche-se de grupos escolares nas manhãs durante a semana.",
+          "descriptionDe": "Ein 80 Hektar großer Landschaftspark rund um ein Schloss aus dem 18. Jahrhundert mit weiten Rasenflächen, altem Waldbestand und ausgeschilderten Waldwegen, auf denen Hunde auf den Waldpfaden frei laufen können (in den formalen Gärten Leinenpflicht). Einheimische betrachten ihn als Angers' wichtigstes Ziel für Hundespaziergänge, und er wirkt nie überfüllt.",
+          "petPolicyDe": "Freilauf auf Waldwegen; Leinenpflicht in den formalen Gärten",
+          "tipDe": "Parken Sie am südlichen Eingang an der Avenue Pignerolle für den schnellsten Zugang zur Waldrunde. Der Hauptparkplatz am Schloss ist an Wochentagvormittagen mit Schulgruppen belegt."
         },
         {
           "name": "Parc Balzac",
@@ -219,7 +250,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parc+Balzac+Angers+Rue+Pre+Pigeon",
           "descriptionPt": "O maior parque dentro da cidade de Angers, com 50 hectares, estende-se pela margem direita do Maine, com prados à beira-rio, um pequeno lago e um arboreto, todos acessíveis a cães com trela. Os caminhos circulares e planos fazem dele um preferido para o passeio de manhã cedo ou ao fim da tarde, todo o ano.",
           "petPolicyPt": "Cães com trela permitidos em todos os caminhos e prados",
-          "tipPt": "Entre pela ponte da Avenue Patton, que atravessa o Maine: o prado à beira-rio, do lado sul, tem mais sombra para um passeio ao meio-dia no verão."
+          "tipPt": "Entre pela ponte da Avenue Patton, que atravessa o Maine: o prado à beira-rio, do lado sul, tem mais sombra para um passeio ao meio-dia no verão.",
+          "descriptionDe": "Angers' größter innerstädtischer Park mit 50 Hektar erstreckt sich am rechten Ufer der Maine, mit Flusswiesen, einem kleinen See und einem Arboretum, alles für Hunde an der Leine zugänglich. Die ebenen Rundwege machen ihn zu einem beliebten Ziel für einen frühmorgendlichen oder späten Nachmittagsspaziergang das ganze Jahr über.",
+          "petPolicyDe": "Hunde an der Leine auf allen Wegen und Wiesen erlaubt",
+          "tipDe": "Betreten Sie den Park über die Brücke der Avenue Patton über die Maine. Die Flusswiese auf der Südseite bietet den meisten Schatten für einen Mittagsspaziergang im Sommer."
         },
         {
           "name": "Jardin des Plantes",
@@ -240,7 +274,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Jardin+des+Plantes+Rue+Boreau+Angers",
           "descriptionPt": "Um jardim botânico de 4 hectares mesmo ao lado da estação de comboios, com plátanos centenários, canteiros temáticos, um pequeno lago ornamental e bancos à sombra, todos acessíveis a cães com trela curta. É o espaço verde pet-friendly mais fácil de alcançar com a bagagem acabada de sair do TGV.",
           "petPolicyPt": "Cães com trela curta permitidos; não admitidos no parque infantil",
-          "tipPt": "A entrada principal na Rue Boreau é a mais próxima da estação: siga em frente até ao lago para um passeio de descompressão de 20 minutos antes do check-in no hotel."
+          "tipPt": "A entrada principal na Rue Boreau é a mais próxima da estação: siga em frente até ao lago para um passeio de descompressão de 20 minutos antes do check-in no hotel.",
+          "descriptionDe": "Ein 4 Hektar großer botanischer Garten direkt neben dem Bahnhof, mit jahrhundertealten Platanen, thematischen Beeten, einem kleinen Zierteich und schattigen Bänken, alles für Hunde an der kurzen Leine zugänglich. Es ist die am einfachsten erreichbare hundefreundliche Grünfläche direkt vom TGV mit Gepäck.",
+          "petPolicyDe": "Hunde an der kurzen Leine erlaubt; nicht im Kinderspielbereich",
+          "tipDe": "Der Haupteingang an der Rue Boreau liegt am nächsten zum Bahnhof. Gehen Sie direkt zum Teich für einen 20-minütigen Entspannungsspaziergang vor dem Hotel-Check-in."
         }
       ],
       "tipsEn": [
@@ -320,6 +357,22 @@
           "q": "Qual é o melhor passeio canino no centro de Angers?",
           "a": "A Promenade du Bout du Monde, à beira-rio, sob as muralhas do Château, é o passeio curto emblemático, cerca de 1 km plano, com vistas para a fortaleza. Combinada com o Jardin des Plantes, dá um circuito descontraído de 90 minutos perto do centro."
         }
+      ],
+      "titleDe": "Die besten Parks für Hunde in Angers",
+      "introDe": "Angers ist eine der grünsten mittelgroßen Städte Frankreichs mit über 700 Hektar städtischer Grünfläche. Hunde müssen in allen Stadtparks angeleint sein, genießen aber großzügige Flussspaziergänge entlang der Maine und mehrere große Landschaftsparks innerhalb der Stadtgrenzen sowie den weitläufigen Parc de Pignerolle 8 km östlich für Freilauf.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Hundeauslaufzonen in Angers?",
+          "a": "Innerhalb der Stadt Angers selbst nein, Hunde müssen in allen städtischen Parks angeleint sein. Der nächste Freilauf im Wald ist im Parc de Pignerolle (Saint-Barthélemy-d'Anjou, 8 km östlich) auf den ausgeschilderten Waldwegen."
+        },
+        {
+          "q": "Können Hunde in der Maine in Angers baden?",
+          "a": "Hunde können am Ufer der Maine im Parc Balzac und entlang der Treidelpfade waten, aber der Fluss ist im Sommer stark von Freizeitbooten befahren und die Strömung ist kräftig. Beaufsichtigen Sie Ihren Hund genau und meiden Sie die Hauptschifffahrtsrinne."
+        },
+        {
+          "q": "Was ist der beste Hundespaziergang im Zentrum von Angers?",
+          "a": "Die Promenade du Bout du Monde am Flussufer unterhalb der Zinnen des Château ist der charakteristische kurze Spaziergang, etwa 1 km eben mit Blick auf die Festung. Kombiniert mit dem Jardin des Plantes ergibt sich eine gemütliche 90-minütige Runde nahe dem Zentrum."
+        }
       ]
     },
     "transport": {
@@ -349,7 +402,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Irigo+Place+Lorraine+Angers",
           "descriptionPt": "A rede Irigo cobre Angers e 28 municípios metropolitanos com uma linha de elétrico (Tramway A, de norte a sul, pela estação de comboios e a Place du Ralliement) e mais de 30 carreiras de autocarro. Os animais pequenos em transportadora fechada viajam grátis; os cães maiores são aceites ao critério do condutor, com açaime e trela.",
           "petPolicyPt": "Animais pequenos em transportadora fechada: grátis. Cães maiores: com açaime, trela, ao critério do condutor",
-          "tipPt": "Evite a hora de ponta das 7:30 às 9:00 e das 17:00 às 19:00 no Tramway A com um cão grande: os condutores recusam mais facilmente quando as carruagens vão cheias; ao meio-dia e à noite é mais fácil."
+          "tipPt": "Evite a hora de ponta das 7:30 às 9:00 e das 17:00 às 19:00 no Tramway A com um cão grande: os condutores recusam mais facilmente quando as carruagens vão cheias; ao meio-dia e à noite é mais fácil.",
+          "descriptionDe": "Das Irigo-Netzwerk deckt Angers und 28 Gemeinden der Metropole ab, mit einer Straßenbahnlinie (Tramway A, Nord-Süd durch das Zentrum über den Bahnhof und die Place du Ralliement) und über 30 Buslinien. Kleine Haustiere in geschlossenen Transportboxen fahren kostenlos; größere Hunde werden nach Ermessen des Fahrers zugelassen, wenn sie einen Maulkorb tragen und angeleint sind.",
+          "petPolicyDe": "Kleine Haustiere in geschlossener Transportbox: kostenlos. Größere Hunde: Maulkorb, Leine, nach Ermessen des Fahrers",
+          "tipDe": "Vermeiden Sie mit einem großen Hund die Stoßzeiten von 7:30–9:00 Uhr und 17:00–19:00 Uhr in der Tramway A. Fahrer lehnen die Mitnahme bei überfüllten Wagen eher ab; mittags und abends ist es einfacher."
         }
       ],
       "tipsEn": [
@@ -429,6 +485,22 @@
           "q": "Angers é percorrível a pé com um cão?",
           "a": "Muito: a estação de comboios fica a cerca de 15 minutos a pé do Château e a 20 minutos da Place du Ralliement, com a maioria dos grandes pontos de interesse num raio de 1 km. A Doutre, do outro lado do Maine, fica a mais 10 minutos a pé pela Pont de Verdun."
         }
+      ],
+      "titleDe": "Mit dem Hund in Angers unterwegs",
+      "introDe": "Angers ist kompakt und weitgehend zu Fuß erkundbar, mit einer einzigen Straßenbahnlinie (Tramway A), die von Nord nach Süd durch das Zentrum führt, und dem Busnetz Irigo, das den Rest abdeckt. Kleine Haustiere in Transportboxen fahren kostenlos in allen Irigo-Verkehrsmitteln; größere Hunde werden nach Ermessen des Fahrers zugelassen und müssen einen Maulkorb tragen und angeleint sein. TER-Züge verbinden Angers mit Nantes (45 Min.), Tours (1 Std.) und Paris (TGV 1 Std. 30 Min.) mit regulären SNCF-Hundetickets.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in der Straßenbahn von Angers mitnehmen?",
+          "a": "Kleine Hunde in einer geschlossenen Transportbox fahren kostenlos in der Tramway A und allen Irigo-Bussen. Größere Hunde werden nach Ermessen des Fahrers zugelassen, wenn sie einen Maulkorb tragen und angeleint sind. In den Stoßzeiten an Wochentagen ist eine Ablehnung am wahrscheinlichsten."
+        },
+        {
+          "q": "Wie reise ich mit einem Hund von Angers nach Nantes?",
+          "a": "TER-Züge verkehren stündlich zwischen Angers und Nantes (45 Minuten). Ein Pauschal-Hundeticket für 7 € gilt für jeden Hund über 6 kg, kleinere Hunde in einer Transportbox fahren kostenlos. Kaufen Sie das Ticket am Automaten im Bahnhof oder über die App SNCF Connect."
+        },
+        {
+          "q": "Ist Angers mit Hund gut zu Fuß erkundbar?",
+          "a": "Sehr gut. Der Bahnhof liegt etwa 15 Gehminuten vom Château und 20 Minuten von der Place du Ralliement entfernt, wobei die meisten großen Sehenswürdigkeiten in einem Radius von 1 km liegen. La Doutre jenseits der Maine ist über den Pont de Verdun weitere 10 Gehminuten entfernt."
+        }
       ]
     },
     "beaches": {
@@ -458,7 +530,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Promenade+Bout+du+Monde+Angers+Chateau",
           "descriptionPt": "O passeio à beira-rio mais pitoresco do centro de Angers, ao longo da margem direita do Maine, diretamente sob as muralhas medievais do Château. Os cães são bem-vindos com trela todo o ano na ampla marginal pavimentada, com bancos à sombra e vistas diretas para a fortaleza e para a Pont de Verdun.",
           "petPolicyPt": "Cães com trela bem-vindos todo o ano",
-          "tipPt": "Percorra a marginal ao anoitecer, quando as muralhas do Château ficam iluminadas: a luz reflete-se no Maine e oferece a vista com mais ambiente do centro de Angers."
+          "tipPt": "Percorra a marginal ao anoitecer, quando as muralhas do Château ficam iluminadas: a luz reflete-se no Maine e oferece a vista com mais ambiente do centro de Angers.",
+          "descriptionDe": "Der malerischste Uferspaziergang im Zentrum von Angers, entlang des rechten Maine-Ufers direkt unterhalb der mittelalterlichen Zinnen des Château. Hunde sind ganzjährig an der Leine auf der breiten gepflasterten Promenade willkommen, mit schattigen Bänken und direktem Blick auf die Festung und den Pont de Verdun.",
+          "petPolicyDe": "Hunde an der Leine ganzjährig willkommen",
+          "tipDe": "Gehen Sie die Promenade in der Abenddämmerung, wenn die Zinnen des Château beleuchtet werden. Das Licht spiegelt sich in der Maine und ergibt den stimmungsvollsten Blick im Zentrum von Angers."
         },
         {
           "name": "Bord de Maine (Cap Loire towpath)",
@@ -479,7 +554,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Reculee+Promenade+Maine+Angers",
           "descriptionPt": "Um caminho de sirga largo e quase sempre plano que sobe para norte ao longo do Maine, da Reculée em direção a Cantenay-Épinard, popular entre corredores, ciclistas e donos de cães todo o ano. A faixa de relva à beira-rio deixa os cães esticarem-se com trela comprida e chegarem a zonas pouco fundas para chapinhar, longe do tráfego de barcos.",
           "petPolicyPt": "Cães com trela permitidos; a trela pode ser estendida na faixa de relva",
-          "tipPt": "Estacione no parque da Reculée e caminhe 3 km para norte, num percurso sossegado de 90 minutos ida e volta: quanto mais se afasta da cidade, menos tráfego de barcos há e mais calmo fica o rio para o cão chapinhar."
+          "tipPt": "Estacione no parque da Reculée e caminhe 3 km para norte, num percurso sossegado de 90 minutos ida e volta: quanto mais se afasta da cidade, menos tráfego de barcos há e mais calmo fica o rio para o cão chapinhar.",
+          "descriptionDe": "Ein breiter, größtenteils ebener Treidelpfad, der von Reculée nach Norden Richtung Cantenay-Épinard entlang der Maine führt, ganzjährig beliebt bei Joggern, Radfahrern und Hundehaltern. Der Grünstreifen am Ufer lässt Hunde an einer langen Leine laufen und flache Wattstellen abseits des Bootsverkehrs erreichen.",
+          "petPolicyDe": "Hunde an der Leine erlaubt; Leine auf dem Grünstreifen kann verlängert werden",
+          "tipDe": "Parken Sie am Parkplatz Reculée und gehen Sie 3 km nach Norden für eine ruhige 90-minütige Rundtour. Je weiter Sie sich von der Stadt entfernen, desto weniger Bootsverkehr und desto ruhiger der Fluss zum Waten für den Hund."
         },
         {
           "name": "Lac de Maine",
@@ -500,7 +578,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Lac+de+Maine+Angers",
           "descriptionPt": "Um lago urbano de 100 hectares na orla sudoeste de Angers, com 220 hectares de parque de lazer envolvente, circuitos de passeio e praias de relva. A praia de banho propriamente dita é interdita a cães no verão (junho a setembro), mas os caminhos envolventes e a margem mais sossegada aceitam cães com trela todo o ano.",
           "petPolicyPt": "Cães com trela nos caminhos do parque todo o ano; proibidos na praia de banho designada de junho a setembro",
-          "tipPt": "De outubro a maio, quando a zona de banho fica fechada, os cães podem aceder a toda a margem do lago e chapinhar à vontade: é a melhor época para uma saída com banho."
+          "tipPt": "De outubro a maio, quando a zona de banho fica fechada, os cães podem aceder a toda a margem do lago e chapinhar à vontade: é a melhor época para uma saída com banho.",
+          "descriptionDe": "Ein 100 Hektar großer städtischer See am südwestlichen Rand von Angers mit 220 Hektar umliegendem Freizeitpark, Rundwegen und Grasstränden. Der Badestrand selbst ist im Sommer (Juni bis September) für Hunde gesperrt, aber die umliegenden Wege und das ruhigere Ufer nehmen Hunde ganzjährig an der Leine auf.",
+          "petPolicyDe": "Hunde an der Leine auf Parkwegen ganzjährig; von Juni bis September vom ausgewiesenen Badestrand verboten",
+          "tipDe": "Von Oktober bis Mai, wenn die Badezone geschlossen ist, können Hunde das gesamte Seeufer nutzen und frei waten. Dies ist die beste Jahreszeit für einen schwimmfreundlichen Ausflug."
         }
       ],
       "tipsEn": [
@@ -580,6 +661,22 @@
           "q": "O meu cão pode nadar no Maine em Angers?",
           "a": "Os cães podem chapinhar em zonas pouco profundas ao longo do caminho de sirga do Bord de Maine (lado da Reculée) e na margem do Lac de Maine, fora da zona de banho de verão. Evite o canal central do rio em Angers, devido ao tráfego de barcos e à corrente."
         }
+      ],
+      "titleDe": "Flussspaziergänge & Uferbereiche in Angers",
+      "introDe": "Angers liegt 130 km landeinwärts vom Atlantik und hat keine Meeresstrände. Die Stadt liegt am Zusammenfluss von Maine, Sarthe und Mayenne, die südlich des Zentrums auf die Loire treffen, was ganzjährig hundefreundliche Uferwege bietet. Die nächsten hundefreundlichen Atlantikstrände liegen im südlichen Vendée (1 Std. 45 Min. mit dem Auto).",
+      "faqsDe": [
+        {
+          "q": "Hat Angers einen Strand?",
+          "a": "Nein, Angers ist eine Binnenstadt, 130 km von der Atlantikküste entfernt. Es gibt jedoch den städtischen See Lac de Maine mit Badezonen im Sommer (Juni bis September für Hunde gesperrt) und ausgedehnte Uferwege an der Maine, die sich ganzjährig gut für Hundespaziergänge eignen."
+        },
+        {
+          "q": "Welcher hundefreundliche Strand liegt am nächsten an Angers?",
+          "a": "Die Strände im südlichen Vendée (Saint-Hilaire-de-Riez, Saint-Jean-de-Monts) sind mit etwa 1 Std. 45 Min. Autofahrt die nächste Option am Atlantik. Von Oktober bis Mai erlauben die meisten Hunde ohne zeitliche Einschränkung; von Juni bis September sind Hunde in der Regel von 09:00 bis 19:00 Uhr verboten."
+        },
+        {
+          "q": "Kann mein Hund in der Maine in Angers schwimmen?",
+          "a": "Hunde können in flachen Zonen entlang des Treidelpfads Bord de Maine (Reculée-Seite) und am Ufer des Lac de Maine außerhalb der sommerlichen Badezone waten. Meiden Sie die zentrale Flussrinne in Angers wegen des Bootsverkehrs und der Strömung."
+        }
       ]
     },
     "vets": {
@@ -609,7 +706,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+des+Capucins+59+Boulevard+du+Doyenne+Angers",
           "descriptionPt": "Uma das principais clínicas veterinárias de Angers, com medicina geral, cirurgia, imagiologia e cuidados dentários para cães e gatos em horário diurno, e as urgências fora de horas redirecionadas para o serviço de serviço regional. A equipa realiza cirurgias menores e maiores no local e mantém uma linha telefónica 24h/7d para aconselhamento.",
           "petPolicyPt": "Consultas e cirurgia em horário diurno; aconselhamento telefónico 24h/7d com encaminhamento fora de horas",
-          "tipPt": "Ligue para o 02 41 86 30 80 antes de ir; mesmo para urgências diurnas, a equipa prefere ser avisada por telefone para preparar uma sala de exame para a sua chegada."
+          "tipPt": "Ligue para o 02 41 86 30 80 antes de ir; mesmo para urgências diurnas, a equipa prefere ser avisada por telefone para preparar uma sala de exame para a sua chegada.",
+          "descriptionDe": "Eine der wichtigsten Tierkliniken von Angers, die tagsüber Allgemeinmedizin, Chirurgie, Bildgebung und Zahnpflege für Hunde und Katzen anbietet, wobei Notfälle außerhalb der Öffnungszeiten an den regionalen Bereitschaftsdienst weitergeleitet werden. Das Team führt kleinere und größere Operationen vor Ort durch und unterhält eine rund um die Uhr erreichbare Telefonberatung.",
+          "petPolicyDe": "Tagsüber Sprechstunden und Chirurgie; telefonische Beratung rund um die Uhr mit Weiterleitung außerhalb der Öffnungszeiten",
+          "tipDe": "Rufen Sie vor dem Besuch 02 41 86 30 80 an. Selbst bei Notfällen tagsüber bevorzugt das Team eine telefonische Vorankündigung, damit bei Ankunft ein Behandlungsraum vorbereitet ist."
         },
         {
           "name": "Clinique Vétérinaire Angers Est (St-Barthélemy)",
@@ -630,7 +730,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+Angers+Est+Saint-Barthelemy-d-Anjou",
           "descriptionPt": "Uma clínica veterinária moderna e multidisciplinar na orla leste de Angers, que assegura medicina geral, cirurgia, ecografia e cuidados dentários para cães e gatos, com abertura ao sábado de manhã. Participa na escala regional de urgência que cobre Angers à noite e aos domingos.",
           "petPolicyPt": "Horário diurno + sábado de manhã; participa na escala regional de urgência",
-          "tipPt": "A partir do centro de Angers, apanhe o Tramway A até Saint-Barthélemy e caminhe 5 minutos, mais fácil do que de carro, pois o estacionamento na Place du Pélican fica limitado a 30 minutos."
+          "tipPt": "A partir do centro de Angers, apanhe o Tramway A até Saint-Barthélemy e caminhe 5 minutos, mais fácil do que de carro, pois o estacionamento na Place du Pélican fica limitado a 30 minutos.",
+          "descriptionDe": "Eine moderne Klinik mit mehreren Tierärzten am östlichen Stadtrand von Angers, die Allgemeinmedizin, Chirurgie, Ultraschall und Zahnpflege für Hunde und Katzen anbietet, mit Samstagvormittag-Öffnungszeiten. Nimmt an der regionalen Notdienstrotation teil, die die Nächte und Sonntage in Angers abdeckt.",
+          "petPolicyDe": "Tagsüber + Samstagvormittag; nimmt am regionalen Notdienst teil",
+          "tipDe": "Vom Zentrum Angers nehmen Sie die Tramway A bis Saint-Barthélemy und gehen 5 Minuten zu Fuß. Das ist einfacher als mit dem Auto, da das Parken an der Place du Pélican auf 30 Minuten begrenzt ist."
         }
       ],
       "tipsEn": [
@@ -709,6 +812,22 @@
         {
           "q": "Preciso de um certificado sanitário para viajar para França com o meu cão?",
           "a": "Os residentes na UE precisam apenas do Passaporte de Animal da UE com a vacinação antirrábica atualizada. Os residentes no Reino Unido precisam de um Animal Health Certificate (AHC) emitido por um veterinário oficial nos 10 dias anteriores à viagem, desde o Brexit. O microchip tem de cumprir a norma ISO 11784/11785."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Angers, Tierkliniken & Tierbetreuung",
+      "introDe": "Angers verfügt über eine rund um die Uhr geöffnete Notfall-Tierklinik und mehrere Tageskliniken in der Stadt. Das Notfallmodell nach Art des Centre Hospitalier Vétérinaire des Olonnes wird von der Clinique Vétérinaire des Capucins abgedeckt, und die regionale Notrufnummer 02 41 47 26 26 leitet Sie nachts zum diensthabenden Tierarzt weiter. Die nationale Notrufnummer für Haustiere 3115 (kostenlos, rund um die Uhr) ist auch von Angers aus erreichbar.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt in Angers?",
+          "a": "Ja, die regionale Notdienstrotation deckt Angers rund um die Uhr ab. Rufen Sie nachts oder sonntags 02 41 47 26 26 (regionale Notrufnummer) oder 3115 (national, kostenlos) an, Sie werden zur diensthabenden Klinik dieser Nacht weitergeleitet."
+        },
+        {
+          "q": "Was soll ich tun, wenn mein Hund in Angers verloren geht?",
+          "a": "Kontaktieren Sie das SPA-Tierheim Angers (02 41 36 13 26), melden Sie den verlorenen Hund über Ihre Chipnummer im nationalen Register I-CAD (www.i-cad.fr) und posten Sie in der Facebook-Gruppe \"Animaux Perdus Trouvés Angers\", die eine starke lokale Beteiligung hat."
+        },
+        {
+          "q": "Brauche ich ein Gesundheitszeugnis, um mit meinem Hund nach Frankreich zu reisen?",
+          "a": "EU-Bürger benötigen lediglich einen EU-Heimtierausweis mit aktueller Tollwutimpfung. Bürger aus dem Vereinigten Königreich benötigen seit dem Brexit ein von einem amtlichen Tierarzt ausgestelltes Tiergesundheitszeugnis (AHC), das innerhalb von 10 Tagen vor der Reise ausgestellt wurde. Der Mikrochip muss ISO 11784/11785 entsprechen."
         }
       ]
     },
@@ -797,6 +916,22 @@
           "q": "Os cães são permitidos nas lojas de Angers?",
           "a": "A lei francesa autoriza cães nas lojas, salvo proibição expressa. Em Angers, a maioria das boutiques independentes e das pequenas mercearias tolera cães pequenos com trela; as grandes cadeias (Carrefour, Monoprix) e os espaços de alimentação, em geral, não. As Halles d'Angers admitem cães com trela na zona pedonal exterior, mas não no interior."
         }
+      ],
+      "titleDe": "Insider-Tipps für einen Besuch in Angers mit Haustier",
+      "introDe": "Angers wurde regelmäßig zu einer der lebenswertesten Städte Frankreichs gekürt, mit einem kompakten, begehbaren Zentrum, großzügigen Grünflächen und einem ruhigen Tempo, das sich für Reisen mit Hund eignet. Ein paar lokale Regeln und Zeiten machen Ihren Aufenthalt reibungsloser.",
+      "faqsDe": [
+        {
+          "q": "Ist Angers eine gute Stadt für einen Besuch mit Hund?",
+          "a": "Ja, Angers ist kompakt, begehbar, grün und verfügt über eine regionale, rund um die Uhr besetzte Tierarzt-Rotation. Der Hauptvorbehalt ist, dass die meisten Museen und die Wandteppichgalerie des Château keine Hunde zulassen. Planen Sie Aktivitäten im Freien und teilen Sie Innenbesuche auf zwei Personen auf."
+        },
+        {
+          "q": "Was ist die beste Jahreszeit für einen Besuch in Angers mit Hund?",
+          "a": "Mai und September sind ideal: mildes Loiretal-Wetter (16–18 °C), kein Badeverbot am Lac de Maine (nur im Mai, vor dem 1. Juni), und die Terrassen im Stadtzentrum in voller Aktivität. Der Oktober bietet die beste Mischung aus mildem Wetter und Hundezugang zu allen Bereichen einschließlich des Ufers des Lac de Maine."
+        },
+        {
+          "q": "Sind Hunde in Geschäften in Angers erlaubt?",
+          "a": "Das französische Recht erlaubt Hunde in Geschäften, sofern nicht ausdrücklich verboten. In Angers dulden die meisten unabhängigen Boutiquen und kleinen Lebensmittelgeschäfte kleine Hunde an der Leine; große Ketten (Carrefour, Monoprix) und Lebensmittelhallen in der Regel nicht. Die überdachte Markthalle Halles d'Angers erlaubt angeleinte Hunde in der äußeren Fußgängerzone, aber nicht im Inneren."
+        }
       ]
     },
     "attractions": {
@@ -826,7 +961,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Chateau+d+Angers+2+Promenade+Bout+du+Monde",
           "descriptionPt": "Uma fortaleza do século XIII no cimo de uma escarpa, com 17 torres de xisto negro e mais de 700 m de muralhas defensivas, que alberga a Tapeçaria do Apocalipse, a maior tapeçaria medieval do mundo. Os cães com trela são bem-vindos no passeio das muralhas exteriores e nos jardins do fosso (acesso público gratuito); a torre de menagem, a capela e a galeria da Tapeçaria não admitem cães.",
           "petPolicyPt": "Cães com trela nas muralhas exteriores e nos jardins do fosso; não permitidos na torre de menagem, na capela ou na galeria da Tapeçaria",
-          "tipPt": "Percorra as muralhas exteriores ao anoitecer, quando as luzes se acendem: vai ter a vista panorâmica sobre o Maine e o bairro da Doutre, impossível de obter a partir do interior do castelo."
+          "tipPt": "Percorra as muralhas exteriores ao anoitecer, quando as luzes se acendem: vai ter a vista panorâmica sobre o Maine e o bairro da Doutre, impossível de obter a partir do interior do castelo.",
+          "descriptionDe": "Eine Festung aus dem 13. Jahrhundert auf einer Klippe mit 17 Türmen aus schwarzem Schiefer und über 700 m Verteidigungsmauern, in der sich der Wandteppich der Apokalypse befindet, der größte mittelalterliche Wandteppich der Welt. Hunde an der Leine sind auf dem äußeren Zinnenrundweg und in den Grabengärten willkommen (freier öffentlicher Zugang); Bergfried, Kapelle und Wandteppichgalerie lassen keine Hunde zu.",
+          "petPolicyDe": "Hunde an der Leine auf den äußeren Zinnen und in den Grabengärten; nicht erlaubt im Bergfried, in der Kapelle oder der Wandteppichgalerie",
+          "tipDe": "Gehen Sie die äußeren Zinnen in der Abenddämmerung entlang, wenn die Lichter angehen. Sie erhalten den Panoramablick über die Maine und das Doutre-Viertel, der von innen im Schloss unmöglich ist."
         },
         {
           "name": "Quartier de la Doutre",
@@ -847,7 +985,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Place+de+la+Laiterie+Doutre+Angers",
           "descriptionPt": "O bairro medieval da margem esquerda de Angers, com casas de tabique de madeira em redor da Place de la Laiterie, da Place du Tertre Saint-Laurent e do Hôpital Saint-Jean. Quase inteiramente pedonal, com esplanadas de café pet-friendly e percursos de arte de rua a partir da Pont de Verdun.",
           "petPolicyPt": "Cães com trela bem-vindos em todas as ruas pedonais e na maioria das esplanadas de café",
-          "tipPt": "Comece na Place de la Laiterie ao sábado de manhã, quando há o pequeno mercado de artesãos, depois vá para sul até à Pont de Verdun para o melhor ângulo de fotografia da Doutre para o Château."
+          "tipPt": "Comece na Place de la Laiterie ao sábado de manhã, quando há o pequeno mercado de artesãos, depois vá para sul até à Pont de Verdun para o melhor ângulo de fotografia da Doutre para o Château.",
+          "descriptionDe": "Angers' mittelalterliches Viertel am linken Ufer mit Fachwerkhäusern rund um die Place de la Laiterie, die Place du Tertre Saint-Laurent und das Hôpital Saint-Jean. Fast vollständig Fußgängerzone, mit hundefreundlichen Caféterrassen und Kunstwegen auf dem Pflaster, die vom Pont de Verdun ausgehen.",
+          "petPolicyDe": "Hunde an der Leine auf allen Fußgängerstraßen und den meisten Caféterrassen willkommen",
+          "tipDe": "Starten Sie samstagmorgens an der Place de la Laiterie, wenn der kleine Kunsthandwerkermarkt stattfindet, und schwenken Sie dann südlich zum Pont de Verdun für den besten Fotowinkel von Doutre zum Château."
         },
         {
           "name": "Château de Brissac",
@@ -868,7 +1009,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Chateau+de+Brissac+Brissac-Quince",
           "descriptionPt": "O château habitado mais alto de França (7 pisos, 204 divisões) ergue-se num parque de 70 hectares, 15 km a sul de Angers, onde os cães com trela são bem-vindos nos terrenos do parque e nos jardins de estilo inglês. O interior fica reservado a visitas guiadas que não admitem cães, mas os terrenos exteriores fazem uma excelente ida de meio-dia.",
           "petPolicyPt": "Cães com trela bem-vindos nos terrenos do parque e nos jardins; não permitidos nas visitas ao interior",
-          "tipPt": "Compre o bilhete só de terrenos, mais barato, se o seu objetivo for o passeio no parque com o seu cão: a visita completa ao interior dura 75 minutos e precisaria de um sitter ou de um acompanhante para esperar lá fora."
+          "tipPt": "Compre o bilhete só de terrenos, mais barato, se o seu objetivo for o passeio no parque com o seu cão: a visita completa ao interior dura 75 minutos e precisaria de um sitter ou de um acompanhante para esperar lá fora.",
+          "descriptionDe": "Frankreichs höchstes bewohntes Schloss (7 Stockwerke, 204 Zimmer) liegt in einem 70 Hektar großen Park 15 km südlich von Angers, wo angeleinte Hunde auf dem Parkgelände und in den englischen Gärten willkommen sind. Das Innere ist geführten Touren vorbehalten, bei denen Hunde nicht zugelassen sind, aber das Außengelände eignet sich hervorragend für einen halben Tagesausflug.",
+          "petPolicyDe": "Hunde an der Leine auf dem Parkgelände und in den Gärten willkommen; bei Innenraumführungen nicht erlaubt",
+          "tipDe": "Kaufen Sie das günstigere Ticket nur für das Gelände, wenn Ihr Ziel der Parkspaziergang mit Ihrem Hund ist. Die vollständige Innenführung dauert 75 Minuten, wofür Sie eine Betreuungsperson oder einen Begleiter bräuchten, der draußen wartet."
         }
       ],
       "tipsEn": [
@@ -948,6 +1092,22 @@
           "q": "A destilaria Cointreau em Angers é pet-friendly?",
           "a": "Em parte: os cães são bem-vindos na visita ao jardim exterior no espaço de Saint-Barthélemy, mas não na experiência da destilaria no interior nem no bar de cocktails. Compre o bilhete só de jardim se for com um cão."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Angers",
+      "introDe": "Angers' Wahrzeichen ist das mittelalterliche Château d'Angers, dessen Zinnen, Gärten und umliegende Altstadt einen weitgehend hundefreundlichen Rundweg im Freien bilden. Über die Festung hinaus bietet die Stadt das Fußgängerviertel Doutre, die Kais der Maine und leichte Tagesausflüge zu hundefreundlichen Weingütern im Loiretal und dem kleineren Schloss Brissac-Quincé.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in das Château d'Angers mitnehmen?",
+          "a": "Nein, Hunde sind im Bergfried, in der Kapelle oder in der Galerie des Wandteppichs der Apokalypse nicht zugelassen. Sie sind auf dem frei zugänglichen äußeren Zinnenrundweg und in den Grabengärten willkommen. Planen Sie, dass eine Person draußen wartet oder den Rundweg geht, während eine andere das Innere besucht."
+        },
+        {
+          "q": "Gibt es hundefreundliche Weingüter im Loiretal nahe Angers?",
+          "a": "Ja, viele kleinere Erzeuger aus Anjou und Saumur (Savennières, Coteaux du Layon, Brézé) heißen angeleinte Hunde auf ihren Verkostungsterrassen im Freien willkommen. Rufen Sie immer vorher an, um sich zu vergewissern, besonders während der Erntewochen im September und Oktober, wenn mehr Andrang herrscht."
+        },
+        {
+          "q": "Ist die Cointreau-Brennerei in Angers hundefreundlich?",
+          "a": "Teilweise. Hunde sind bei der Gartenführung im Freien am Standort Saint-Barthélemy willkommen, jedoch nicht bei der Innenraum-Brennerei-Erfahrung oder in der Cocktailbar. Kaufen Sie das reine Garten-Ticket, wenn Sie einen Hund dabei haben."
+        }
       ]
     },
     "petsitting": {
@@ -980,7 +1140,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Angers+Maine-et-Loire+France",
           "descriptionPt": "A plataforma líder em França de sitters verificados de animais, com sitters segurados e avaliados em Angers que oferecem passeios (30-60 min), visitas pontuais e alojamento noturno. Tudo reservável online, com avaliações e seguro de reserva incluído.",
           "petPolicyPt": "Sitters verificados e segurados; todos os tamanhos de animais",
-          "tipPt": "Reserve com pelo menos 48 horas de antecedência para as vagas de fim de semana: os sitters de Angers preenchem-se mais depressa durante o Festival d'Anjou (junho) e o fim de semana de artes de rua Accroche-Cœurs, no início de setembro."
+          "tipPt": "Reserve com pelo menos 48 horas de antecedência para as vagas de fim de semana: os sitters de Angers preenchem-se mais depressa durante o Festival d'Anjou (junho) e o fim de semana de artes de rua Accroche-Cœurs, no início de setembro.",
+          "descriptionDe": "Frankreichs führende geprüfte Plattform für Haustierbetreuung, mit verifizierten und versicherten Betreuern in ganz Angers, die Gassi-Service (30–60 Min.), Kurzbesuche und Übernachtungsbetreuung anbieten. Alles online buchbar mit Bewertungen und inbegriffener Buchungsversicherung.",
+          "petPolicyDe": "Verifizierte und versicherte Betreuer; alle Tiergrößen",
+          "tipDe": "Buchen Sie mindestens 48 Stunden im Voraus für Wochenendtermine. Betreuer in Angers sind während des Festival d'Anjou (Juni) und des Straßenkunst-Wochenendes Accroche-Cœurs Anfang September schneller ausgebucht."
         }
       ],
       "tipsEn": [
@@ -1059,6 +1222,22 @@
         {
           "q": "É fácil encontrar um hotel pet-friendly em Angers?",
           "a": "Sim, Angers tem mais de 25 hotéis que admitem animais, incluindo o Best Western Hôtel d'Anjou, o Mercure Centre Gare, o ibis Styles Angers Centre e várias casas de campo boutique. A maioria cobra 10-15 € por noite e por animal; confirme a taxa do animal ao reservar para evitar surpresas no check-in."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Angers",
+      "introDe": "Angers verfügt über ein kleineres, aber gut entwickeltes Netz an Tierbetreuung, mit geprüften Betreuern auf Pawshake und Holidog, die das Stadtzentrum und die meisten umliegenden Gemeinden abdecken. Mehrere lokale Dienste bieten geführte Spaziergänge entlang der Maine an, ideal, wenn Sie ein Museum besuchen oder an einer Führung durch das Château teilnehmen, bei der Hunde nicht zugelassen sind.",
+      "faqsDe": [
+        {
+          "q": "Finde ich in Angers einen Hundesitter für einen Nachmittag?",
+          "a": "Ja, sowohl Pawshake als auch Holidog listen verifizierte Betreuer in Angers mit Kurzbesuchen und kurzen Spaziergängen für denselben oder den nächsten Tag. Die Château-Führung und der Besuch der Wandteppichgalerie dauern etwa zwei Stunden, ideal für eine einzelne Betreuungssitzung."
+        },
+        {
+          "q": "Gibt es Hundetagesstätten in Angers?",
+          "a": "Ja, eine Handvoll \"pensions canines\" betreiben in der Metropolregion Angers, hauptsächlich in Saint-Barthélemy-d'Anjou und Avrillé. Pawshake- und Holidog-Betreuer, die ganztägige Tagesbetreuung zu Hause anbieten, sind in der Regel verfügbarer als registrierte Einrichtungen im Zentrum von Angers."
+        },
+        {
+          "q": "Ist es einfach, ein haustierfreundliches Hotel in Angers zu finden?",
+          "a": "Ja, Angers verfügt über mehr als 25 haustierfreundliche Hotels, darunter das Best Western Hôtel d'Anjou, das Mercure Centre Gare, ibis Styles Angers Centre und mehrere Boutique-Pensionen. Die meisten berechnen 10–15 € pro Nacht und Tier; bestätigen Sie die Tiergebühr bei der Buchung, um Überraschungen beim Check-in zu vermeiden."
         }
       ]
     }

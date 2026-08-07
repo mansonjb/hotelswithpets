@@ -37,7 +37,11 @@
           "descriptionPt": "Instalada no monumental coudelaria nacional do século XVIII redesenhada pelo arquiteto Patrick Jouin, a Brasserie des Haras é uma das grandes moradas gastronómicas de Estrasburgo, toda em vigas à vista, com uma emblemática escultura de cavalo em latão e uma celebrada cozinha alsaciana. Cães de qualquer tamanho são bem-vindos no restaurante, bar e esplanada; a equipa prepara uma mesa afastada das zonas de maior passagem e dá água fresca à chegada.",
           "petPolicyPt": "Cães de qualquer tamanho bem-vindos no restaurante, bar e esplanada",
           "mustTryPt": "Tarte flambée au fromage blanc, choucroute garnie",
-          "tipPt": "Reserve com antecedência e mencione o seu cão, a equipa coloca-o numa mesa mais sossegada e tem água pronta à chegada."
+          "tipPt": "Reserve com antecedência e mencione o seu cão, a equipa coloca-o numa mesa mais sossegada e tem água pronta à chegada.",
+          "descriptionDe": "Untergebracht im monumentalen Nationalgestüt aus dem 18. Jahrhundert, gestaltet vom Architekten Patrick Jouin, ist die Brasserie des Haras eine der großen kulinarischen Adressen Straßburgs, mit freiliegenden Balken, einer markanten Bronzepferdeskulptur und einer gefeierten elsässischen Küche. Hunde jeder Größe sind im Restaurant, an der Bar und auf der Terrasse willkommen; das Team richtet einen Tisch abseits stark frequentierter Bereiche her und stellt bei Ankunft frisches Wasser bereit.",
+          "petPolicyDe": "Hunde jeder Größe im Restaurant, an der Bar und auf der Terrasse willkommen",
+          "mustTryDe": "Tarte flambée au fromage blanc, Choucroute garnie",
+          "tipDe": "Reservieren Sie im Voraus und erwähnen Sie Ihren Hund, das Team setzt Sie an einen ruhigeren Tisch und hält bei Ankunft Wasser bereit."
         },
         {
           "name": "Mama Bubbele",
@@ -63,7 +67,11 @@
           "descriptionPt": "Uma morada alsaciana calorosamente tradicional no cais dos barqueiros, celebrada pelas suas tartes flambées e cerveja fresca de pressão, com um cenário imbatível de esplanada à beira do canal. Os cães são aqui acolhidos sem cerimónia, os donos de cães locais classificam-na entre os locais mais genuinamente acolhedores de cães da Grande Île.",
           "petPolicyPt": "Cães bem-vindos dentro e na esplanada",
           "mustTryPt": "Tarte flambée traditionnelle, bière locale pression",
-          "tipPt": "Chegue cedo ao fim do dia, pois a esplanada à beira do canal enche depressa de habitantes e dos seus cães nas noites quentes."
+          "tipPt": "Chegue cedo ao fim do dia, pois a esplanada à beira do canal enche depressa de habitantes e dos seus cães nas noites quentes.",
+          "descriptionDe": "Eine herzlich-traditionelle elsässische Adresse am Gerberviertel-Kai, bekannt für ihre Tartes flambées und frisch gezapftes Bier mit einer unschlagbaren Terrasse am Kanal. Hunde werden hier ohne Umstände willkommen geheißen, lokale Hundehalter zählen sie zu den wirklich haustierfreundlichsten Orten der Grande Île.",
+          "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen",
+          "mustTryDe": "Tarte flambée traditionnelle, Bière locale pression",
+          "tipDe": "Kommen Sie früh am Abend, die Terrasse am Kanal füllt sich an warmen Abenden schnell mit Einheimischen und ihren Hunden."
         },
         {
           "name": "Philibar",
@@ -89,7 +97,11 @@
           "descriptionPt": "Um bar de bairro no animado quarteirão de Krutenau, conhecido pelos seus jogos de tabuleiro, ambiente descontraído e genuíno amor pelos cães, a equipa acolhe os visitantes de quatro patas com afeto visível e a esplanada é grande o suficiente para qualquer raça. Uma excelente escolha para uma noite de cerveja e jogos depois de um passeio ao longo do Ill.",
           "petPolicyPt": "Cães bem-vindos em todo o lado, e explicitamente",
           "mustTryPt": "Cerveja artesanal alsaciana local, noites de jogos de tabuleiro",
-          "tipPt": "Apareça numa terça-feira para uma noite de jogos mais sossegada, os fins de semana atraem multidões, mas as noites de dia útil são ideais para cães nervosos ou reativos."
+          "tipPt": "Apareça numa terça-feira para uma noite de jogos mais sossegada, os fins de semana atraem multidões, mas as noites de dia útil são ideais para cães nervosos ou reativos.",
+          "descriptionDe": "Eine Stadtteilbar im lebendigen Viertel Krutenau, bekannt für Brettspiele, entspannte Atmosphäre und echte Hundeliebe, das Personal begrüßt vierbeinige Gäste mit sichtbarer Zuneigung und die Terrasse ist groß genug für jede Rasse. Eine ausgezeichnete Wahl für einen Abend mit Bier und Spielen nach einem Spaziergang entlang der Ill.",
+          "petPolicyDe": "Hunde überall ausdrücklich willkommen",
+          "mustTryDe": "Elsässisches Craft-Bier, Spieleabende",
+          "tipDe": "Kommen Sie an einem Dienstag für einen ruhigeren Spieleabend, am Wochenende ist es voll, doch Wochentagabende sind ideal für ängstliche oder reaktive Hunde."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Os restaurantes de Estrasburgo oferecem taças de água para cães?",
           "a": "Muitos sim, sobretudo nas esplanadas ao longo dos cais e nos bares de bairro. Pedir ao balcão ('de l'eau pour mon chien, s'il vous plaît?') resulta quase sempre."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Straßburg",
+      "introDe": "Straßburg folgt der französischen Regel: Hunde sind in Restaurants und Bars willkommen, sofern kein Schild dies ausdrücklich verbietet. Auf den Terrassen der Grande Île und entlang der Ufer der Ill sind wohlerzogene Hunde das ganze Jahr über ein völlig normaler Anblick. Die Community strasdog.fr pflegt eine aktive Liste zertifizierter hundefreundlicher Adressen, zuletzt mehr als 80, und die Kultur ist so entspannt, dass die meisten Café-Betreiber ungefragt einen Wassernapf bringen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Straßburg erlaubt?",
+          "a": "Ja, das französische Recht erlaubt Hunde in Restaurants und Cafés, sofern kein Schild dies ausdrücklich verbietet. Straßburg hat eine besonders hundefreundliche Kultur, und die Community strasdog.fr hat mehr als 80 Adressen als wirklich hundefreundlich zertifiziert."
+        },
+        {
+          "q": "Welches Viertel in Straßburg eignet sich am besten zum Essen mit Hund?",
+          "a": "Krutenau, direkt südlich der Grande Île, ist das zuverlässigste hundefreundliche Viertel zum Essen, es hat ein junges, lokales Publikum, unabhängige Bars und Restaurants und nur sehr wenige Lokale mit \"keine Hunde\"-Politik."
+        },
+        {
+          "q": "Stellen Straßburger Restaurants Wassernäpfe für Hunde bereit?",
+          "a": "Viele schon, besonders auf Terrassen entlang der Ufer und in Stadtteilbars. An der Theke zu fragen (\"de l'eau pour mon chien, s'il vous plaît?\") klappt fast immer."
+        }
       ]
     },
     "parks": {
@@ -199,7 +227,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parc+de+l+Orangerie+Strasbourg",
           "descriptionPt": "O parque mais querido de Estrasburgo, que data do século XVII e fica junto ao Parlamento Europeu, tem um pavilhão Napoleão III, um pequeno parque de veados com cegonhas alsacianas, um lago e um comboio em miniatura. A área vedada sem trela de 0,12 hectares, no canto nordeste do parque, é a mais popular de Estrasburgo, chegue cedo aos fins de semana para evitar a fila ao portão.",
           "offLeashAreaPt": "Área vedada para cães de 0,12 hectares no canto nordeste",
-          "tipPt": "Visite a zona de nidificação das cegonhas no lado norte do parque, de observação gratuita com trela, e os cães e as cegonhas coexistem em paz."
+          "tipPt": "Visite a zona de nidificação das cegonhas no lado norte do parque, de observação gratuita com trela, e os cães e as cegonhas coexistem em paz.",
+          "descriptionDe": "Straßburgs beliebtester Park, der auf das 17. Jahrhundert zurückgeht und an das Europäische Parlament angrenzt, umfasst einen Napoleon-III-Pavillon, ein kleines Wildgehege mit elsässischen Störchen, einen See und eine Miniatureisenbahn. Die 0,3 Hektar große eingezäunte Freilauffläche für Hunde in der Nordostecke des Parks ist die beliebteste Straßburgs, kommen Sie am Wochenende früh, um die Warteschlange am Tor zu vermeiden.",
+          "offLeashAreaDe": "Eingezäunter 0,3 Hektar großer Hundebereich in der Nordostecke",
+          "tipDe": "Besuchen Sie den Storchennistbereich auf der Nordseite des Parks, kostenlos an der Leine zu beobachten, Hunde und Störche kommen dabei friedlich aus."
         },
         {
           "name": "Parc de la Citadelle",
@@ -221,7 +252,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parc+de+la+Citadelle+Strasbourg",
           "descriptionPt": "Ocupando 64 hectares no local de uma antiga fortaleza de Vauban, o Parc de la Citadelle é mais sossegado e selvagem do que o Orangerie e popular entre os donos de cães locais que preferem o seu bosque denso e o ambiente menos cuidado. Há uma zona designada sem trela dentro do parque, e os trilhos da reserva natural de Robertsau, em redor, prolongam o passeio para cães enérgicos.",
           "offLeashAreaPt": "Zona designada sem trela dentro do parque, verifique a sinalização à entrada",
-          "tipPt": "Continue para lá do parque até à Réserve Naturelle de la Robertsau, para um passeio mais longo pelo bosque, cães com trela, mas os trilhos florestais são sossegados e sem trânsito."
+          "tipPt": "Continue para lá do parque até à Réserve Naturelle de la Robertsau, para um passeio mais longo pelo bosque, cães com trela, mas os trilhos florestais são sossegados e sem trânsito.",
+          "descriptionDe": "Der Parc de la Citadelle erstreckt sich über 64 Hektar auf dem Gelände einer ehemaligen Vauban-Festung, ist ruhiger und wilder als die Orangerie und bei lokalen Hundehaltern beliebt, die den dichten Wald und die weniger gepflegte Atmosphäre bevorzugen. Eine ausgewiesene Freilaufzone befindet sich innerhalb des Parks, und die umliegenden Wanderwege des Naturschutzgebiets Robertsau verlängern den Spaziergang für energiegeladene Hunde.",
+          "offLeashAreaDe": "Ausgewiesene Freilaufzone innerhalb des Parks, Beschilderung am Eingang beachten",
+          "tipDe": "Setzen Sie den Weg über den Park hinaus in die Réserve Naturelle de la Robertsau fort für einen längeren Waldspaziergang, Hunde an der Leine, doch die Waldwege sind ruhig und ohne Verkehr."
         },
         {
           "name": "Parc du Heyritz",
@@ -243,7 +277,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parc+du+Heyritz+Strasbourg",
           "descriptionPt": "Um tranquilo parque de bairro junto à orla sul do centro da cidade, com amplos relvados abertos, bosques sombreados e caminhos fáceis ao longo do canal do Ill, ideais para cães que precisam de espaço sem multidões. É bastante menos movimentado do que o Orangerie e dá uma excelente paragem ao início da manhã na sua entrada ou saída da cidade.",
           "offLeashAreaPt": "Sem zona designada sem trela, trela obrigatória em todo o parque",
-          "tipPt": "Siga o caminho do canal para sul, a partir do parque, para chegar ao passeio à beira do Ill, um trilho sossegado de 2 km que liga Heyritz à marginal de Neudorf com quase nenhum trânsito."
+          "tipPt": "Siga o caminho do canal para sul, a partir do parque, para chegar ao passeio à beira do Ill, um trilho sossegado de 2 km que liga Heyritz à marginal de Neudorf com quase nenhum trânsito.",
+          "descriptionDe": "Ein ruhiger Stadtteilpark nahe dem südlichen Rand des Stadtzentrums, mit weiten offenen Rasenflächen, schattigen Baumgruppen und leicht begehbaren Wegen entlang des Ill-Kanals, ideal für Hunde, die Platz ohne Gedränge brauchen. Er ist deutlich weniger belebt als die Orangerie und eignet sich hervorragend als früher Morgenstopp auf dem Weg in oder aus der Stadt.",
+          "offLeashAreaDe": "Keine ausgewiesene Freilaufzone, durchgehend Leinenpflicht",
+          "tipDe": "Folgen Sie dem Kanalweg südlich vom Park zum Ill-Uferweg, ein ruhiger 2 km langer Pfad, der Heyritz mit der Uferpromenade von Neudorf verbindet, nahezu ohne Verkehr."
         }
       ],
       "tipsEn": [
@@ -322,6 +359,22 @@
         {
           "q": "A que distância fica a reserva natural de Robertsau do centro?",
           "a": "Cerca de 4 km do centro, um agradável passeio de 30 minutos a norte do Parc de la Citadelle, ou 10 minutos de elétrico (linha E ou F até Robertsau). Os cães com trela são permitidos em toda a reserva."
+        }
+      ],
+      "titleDe": "Hundeparks & Grünflächen in Straßburg",
+      "introDe": "Straßburg ist außergewöhnlich gut für Hunde ausgestattet. Die beiden größten Parks der Stadt, Parc de l'Orangerie und Parc de la Citadelle, verfügen beide über eingezäunte Freilaufflächen, eine Seltenheit in Frankreich. Die Ufer der Ill und die Jardins des Deux Rives am Rhein bringen kilometerlange, ruhige Spaziergänge am Wasser hinzu. In den meisten Parks müssen Hunde außerhalb der ausgewiesenen Zonen an der Leine geführt werden, bei Nichtbeachtung droht ein Bußgeld von 68 Euro.",
+      "faqsDe": [
+        {
+          "q": "Welcher Park in Straßburg hat die beste Freilauffläche?",
+          "a": "Der Parc de l'Orangerie hat die beliebteste eingezäunte Freilaufzone, klein, aber zentral gelegen und stark von Einheimischen genutzt. Der Parc de la Citadelle ist größer und wilder, doch die Freilauffläche ist nicht eingezäunt, weshalb er sich am besten für gut erzogene Hunde eignet."
+        },
+        {
+          "q": "Kann mein Hund in den Straßburger Parks schwimmen?",
+          "a": "Der Zugang zum Schwimmen in Ill oder Rhein innerhalb der Stadt ist für Hunde begrenzt, die meisten Ufer sind steil oder stark befahren. Die Jardins des Deux Rives am Rhein bieten inoffiziellen Uferzugang, wo manche Hunde in den flachen Bereichen waten, offizielle Hundeschwimmbereiche gibt es innerhalb der Stadt jedoch nicht."
+        },
+        {
+          "q": "Wie weit ist das Naturschutzgebiet Robertsau vom Stadtzentrum entfernt?",
+          "a": "Etwa 4 km vom Stadtzentrum entfernt, ein angenehmer 30-minütiger Spaziergang nördlich vom Parc de la Citadelle, oder 10 Minuten mit der Straßenbahn (Linie E oder F bis Robertsau). Angeleinte Hunde sind im gesamten Naturschutzgebiet erlaubt."
         }
       ]
     },
@@ -432,6 +485,22 @@
           "q": "Há aluguer de bicicletas adequado a viajar com um cão em Estrasburgo?",
           "a": "Sim, o sistema Vélhop tem bicicletas normais e de carga. Uma bicicleta de carga (vélo cargo) pode levar um cão na caixa da frente, e a rede ciclável plana de Estrasburgo torna esta uma opção muito prática para passeios de um dia até aos parques."
         }
+      ],
+      "titleDe": "Mit dem Hund in Straßburg unterwegs",
+      "introDe": "Seit dem 1. Juli 2023 erlaubt das Straßenbahnnetz CTS in Straßburg angeleinte Hunde mit Maulkorb, eine deutliche Verbesserung gegenüber dem früheren Verbot. Busse bleiben restriktiver: Nur kleine Haustiere in geschlossener Transportbox fahren kostenlos mit. Die Stadt ist außerdem sehr fußgängerfreundlich und eine der besten Fahrradstädte Europas, mit einem flachen, gut ausgeschilderten Vélo-Netz, das das Laufen mit dem Hund neben Radfahrern zu einer praktischen täglichen Option macht.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in der Straßburger Straßenbahn mitnehmen?",
+          "a": "Ja, seit dem 1. Juli 2023. Ihr Hund muss an der Leine sein und einen Maulkorb tragen. CTS empfiehlt einen Baskerville-Maulkorb. Hunde dürfen nicht auf Sitze klettern, müssen Abstand zu anderen Fahrgästen halten und dürfen keine Belästigung verursachen. Kleine Haustiere in geschlossener Transportbox fahren sowohl in Straßenbahnen als auch in Bussen kostenlos mit."
+        },
+        {
+          "q": "Ist Straßburg mit Hund gut zu Fuß zu erkunden?",
+          "a": "Sehr gut, das historische Zentrum (Grande Île, Petite France, Neustadt) ist kompakt und flach. Der Hauptbahnhof liegt 10 Gehminuten von Petite France entfernt und 20 Minuten vom Parc de l'Orangerie über den angenehmen Weg am Kanal."
+        },
+        {
+          "q": "Gibt es Fahrradverleihe, die für Reisen mit Hund in Straßburg geeignet sind?",
+          "a": "Ja, das Vélhop-System bietet normale und Lastenräder. Ein Lastenrad (vélo cargo) kann einen Hund in der vorderen Box transportieren, und das flache Radnetz Straßburgs macht dies zu einer sehr praktischen Option für Tagesausflüge in die Parks."
+        }
       ]
     },
     "beaches": {
@@ -461,7 +530,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Petite+France+Strasbourg+canals",
           "descriptionPt": "Os passeios à beira do canal que serpenteiam pela Petite France, o bairro mais fotografado de Estrasburgo, com casas de enxaimel do século XVI, pontes cobertas e comportas, estão entre os mais belos passeios urbanos à beira de água da Europa e aceitam totalmente cães com trela. O início da manhã, antes da chegada das camionetas de turistas, é quando este passeio fica mais mágico, com os reflexos das casas de enxaimel na água parada e quase ninguém por perto.",
           "petPolicyPt": "Cães com trela permitidos em toda a extensão",
-          "tipPt": "Percorra o circuito dos canais do Ill à volta da Petite France ao início da manhã (antes das 8h30) para conhecer o bairro no seu momento mais sossegado, os grupos turísticos chegam a partir das 9h30."
+          "tipPt": "Percorra o circuito dos canais do Ill à volta da Petite France ao início da manhã (antes das 8h30) para conhecer o bairro no seu momento mais sossegado, os grupos turísticos chegam a partir das 9h30.",
+          "descriptionDe": "Die Kanaluferwege, die sich durch Petite France ziehen, Straßburgs meistfotografiertes Viertel mit Fachwerkhäusern aus dem 16. Jahrhundert, überdachten Brücken und Schleusentoren, gehören zu den schönsten städtischen Uferpromenaden Europas und sind mit angeleintem Hund vollständig zugänglich. Am frühen Morgen, bevor die Touristenbusse eintreffen, ist dieser Spaziergang am zauberhaftesten, mit Spiegelungen der Fachwerkhäuser im stillen Wasser und kaum anderen Menschen.",
+          "petPolicyDe": "Hunde an der Leine überall erlaubt",
+          "tipDe": "Gehen Sie die Runde um die Ill-Kanäle rund um Petite France am frühen Morgen (vor 8:30 Uhr), um das Viertel in seiner ruhigsten Stunde zu erleben, Reisegruppen treffen ab 09:30 Uhr ein."
         },
         {
           "name": "Jardins des Deux Rives",
@@ -482,7 +554,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Jardins+des+Deux+Rives+Strasbourg",
           "descriptionPt": "Um jardim franco-alemão único que se estende por ambas as margens do Reno, ligadas pela ponte pedonal Passerelle des Deux Rives, os cães com trela podem atravessar livremente a fronteira entre a França e a Alemanha, o que faz deste um dos passeios de cão mais simbolicamente marcantes da Europa. O lado francês tem grandes relvados, uma área de liberdade designada para cães e acesso à margem do Reno onde os cães podem entrar na água baixa.",
           "petPolicyPt": "Cães com trela em toda a extensão; área de liberdade designada no lado francês",
-          "tipPt": "Atravesse a ponte pedonal para o lado alemão (Kehl), os cães são igualmente bem-vindos e as esplanadas de café da margem alemã são populares entre os franceses em passeio de um dia e os seus cães."
+          "tipPt": "Atravesse a ponte pedonal para o lado alemão (Kehl), os cães são igualmente bem-vindos e as esplanadas de café da margem alemã são populares entre os franceses em passeio de um dia e os seus cães.",
+          "descriptionDe": "Ein einzigartiger deutsch-französischer Garten, der sich über beide Rheinseiten erstreckt und durch die Fußgängerbrücke Passerelle des Deux Rives verbunden ist, angeleinte Hunde können frei über die Grenze zwischen Frankreich und Deutschland spazieren, was diesen zu einem der symbolisch eindrucksvollsten Hundespaziergänge Europas macht. Die französische Seite bietet große Rasenflächen, eine ausgewiesene Freilauffläche für Hunde und Zugang zum Rheinufer, wo Hunde in den flachen Bereichen waten können.",
+          "petPolicyDe": "Hunde an der Leine überall; ausgewiesene Freilauffläche auf der französischen Seite",
+          "tipDe": "Überqueren Sie die Fußgängerbrücke zur deutschen Seite (Kehl), Hunde sind gleichermaßen willkommen, und die Terrassen der deutschen Uferufer-Cafés sind bei französischen Tagesausflüglern und ihren Hunden beliebt."
         }
       ],
       "tipsEn": [
@@ -562,6 +637,22 @@
           "q": "Há alguma praia que aceite cães perto de Estrasburgo?",
           "a": "Não há praias de mar perto de Estrasburgo. O banho em lago mais próximo para cães fica na Ballastière, a norte da cidade (informal, sazonal, verifique as regras atuais) ou no Plan d'eau de Gambsheim, a cerca de 25 km a norte de carro."
         }
+      ],
+      "titleDe": "Wasserwege & Uferspaziergänge in Straßburg",
+      "introDe": "Straßburg hat keine Meeresstrände, liegt aber an einem verzweigten Kanalnetz, das von der Ill gespeist wird, mit dem Rhein als östlicher Grenze zu Deutschland. Die Uferpromenaden durch Petite France, entlang der Treidelpfade der Ill und in den deutsch-französischen Jardins des Deux Rives machen die Stadt zu einem der stimmungsvollsten Orte Frankreichs, um mit einem Hund am Wasser spazieren zu gehen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich mit Hund am Rhein in Straßburg entlanglaufen?",
+          "a": "Ja, die Jardins des Deux Rives am Rhein bieten die beste hundefreundliche Uferpromenade Straßburgs. Angeleinte Hunde können die Fußgängerbrücke Passerelle nach Deutschland überqueren und beide Ufer erkunden. Schwimmen im Rhein ist wegen starker Strömungen gefährlich."
+        },
+        {
+          "q": "Ist Petite France mit Hund zugänglich?",
+          "a": "Ja, vollständig. Alle Kopfsteinpflastergassen, Kanalbrücken und Uferwege von Petite France sind mit angeleintem Hund zugänglich. Hunde sind auch auf den meisten Café- und Restaurantterrassen des Viertels willkommen. Der Aussichtspunkt am Vauban-Damm am südlichen Ende ist besonders reizvoll."
+        },
+        {
+          "q": "Gibt es hundefreundliche Strände in der Nähe von Straßburg?",
+          "a": "Es gibt keine Meeresstrände in der Nähe von Straßburg. Die nächstgelegene Seemöglichkeit zum Schwimmen für Hunde ist die Ballastière nördlich der Stadt (informell, saisonal, aktuelle Regeln prüfen) oder der Plan d'eau de Gambsheim, etwa 25 km nördlich mit dem Auto."
+        }
       ]
     },
     "vets": {
@@ -592,7 +683,10 @@
           "photo": "/images/city-places/strasbourg-vets-maison-des-urgences-veterinaires-67.jpg",
           "hoursPt": "Seg-sex 19h30-07h30 | Sáb a partir das 12h30 | Dom e feriados: 24h",
           "descriptionPt": "O centro de urgência veterinária fora de horas dedicado de Estrasburgo, que cobre o período em que as clínicas normais estão fechadas. A clínica trata de medicina geral, consultas de urgência e cirurgia de urgência, incluindo casos torácicos, abdominais e de trauma, com veterinários de urgência de prevenção, não uma escala rotativa de clínica geral.",
-          "tipPt": "Ligue para o 03 68 71 83 00 antes de chegar, a clínica pode aconselhar se o seu caso exige atenção imediata ou pode esperar por uma consulta normal na manhã seguinte."
+          "tipPt": "Ligue para o 03 68 71 83 00 antes de chegar, a clínica pode aconselhar se o seu caso exige atenção imediata ou pode esperar por uma consulta normal na manhã seguinte.",
+          "hoursDe": "Mo–Fr 19:30–07:30 Uhr | Sa ab 12:30 Uhr | So & Feiertage: 24 Stunden",
+          "descriptionDe": "Straßburgs spezialisiertes tierärztliches Notfallzentrum außerhalb der regulären Öffnungszeiten, das die Zeiten abdeckt, in denen reguläre Praxen geschlossen sind. Die Klinik behandelt Allgemeinmedizin, Notfallkonsultationen und Notoperationen einschließlich Thorax-, Bauch- und Traumafällen, besetzt mit diensthabenden Notfalltierärzten, nicht mit einem rotierenden Allgemeinpraxis-Team.",
+          "tipDe": "Rufen Sie vor der Ankunft 03 68 71 83 00 an, die Klinik kann beraten, ob Ihr Fall sofortige Behandlung erfordert oder bis zu einem regulären Termin am nächsten Morgen warten kann."
         },
         {
           "name": "Clinique Vétérinaire Agoravet",
@@ -614,7 +708,10 @@
           "photo": "/images/city-places/strasbourg-vets-clinique-veterinaire-agoravet.jpg",
           "hoursPt": "24h/7, aberta todos os dias, incluindo feriados",
           "descriptionPt": "Desde novembro, trinta veterinários da Clinique Agoravet asseguram uma verdadeira escala 24 horas, acolhendo urgências de animais a qualquer hora de qualquer dia. Esta é a opção mais completa a toda a hora em Estrasburgo para cães e gatos, combinando uma clínica geral normal com um serviço de urgência de prevenção dedicado.",
-          "tipPt": "Se precisar de uma consulta de rotina que não seja de urgência no horário normal, telefone com antecedência para marcar, os tempos de espera sem marcação podem ser longos nesta clínica movimentada."
+          "tipPt": "Se precisar de uma consulta de rotina que não seja de urgência no horário normal, telefone com antecedência para marcar, os tempos de espera sem marcação podem ser longos nesta clínica movimentada.",
+          "hoursDe": "24 Stunden/7 Tage, täglich geöffnet einschließlich Feiertagen",
+          "descriptionDe": "Seit November betreiben dreißig Tierärzte der Clinique Agoravet einen echten 24/7-Dienst und nehmen Tiernotfälle zu jeder Stunde jeden Tages auf. Dies ist die umfassendste durchgehende Option in Straßburg für Hunde und Katzen, die eine reguläre Allgemeinpraxis mit einem eigenen Notfalldienst kombiniert.",
+          "tipDe": "Für eine nicht dringende Routinekonsultation während der regulären Öffnungszeiten rufen Sie vorher an, um einen Termin zu buchen, die Wartezeiten ohne Termin können in dieser stark frequentierten Praxis lang sein."
         }
       ],
       "faqsEn": [
@@ -657,6 +754,18 @@
         {
           "q": "Preciso de passaporte para animais para trazer o meu cão a Estrasburgo?",
           "a": "Os animais registados na UE precisam de um passaporte europeu para animais válido com microchip e vacina antirrábica em dia. Os animais de países fora da UE (Reino Unido, EUA, etc.) precisam de um certificado sanitário de país terceiro. Verifique os requisitos atuais do Ministério da Agricultura francês antes de viajar."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Straßburg, Tierkliniken & Tierpflege",
+      "introDe": "Straßburg verfügt über eigene tierärztliche Notdienste außerhalb der regulären Öffnungszeiten, die Abende, Wochenenden und Feiertage abdecken, entscheidende Information für reisende Haustierhalter. Die Maison des Urgences Vétérinaires 67 ist die spezialisierte Notfallklinik der Stadt für Fälle außerhalb der Sprechzeiten. Für die durchgehende Versorgung ist die Clinique Agoravet rund um die Uhr mit einem Team von dreißig Tierärzten im Einsatz. Rufen Sie im Notfall immer vorher an.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt in Straßburg?",
+          "a": "Ja, die Clinique Agoravet ist 24/7 geöffnet, auch an Feiertagen. Die Maison des Urgences Vétérinaires 67 (03 68 71 83 00) deckt gezielt Abende und Wochenenden ab. Rufen Sie im Notfall immer vorher an, damit sich das Team vorbereiten kann."
+        },
+        {
+          "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Straßburg mitzubringen?",
+          "a": "In der EU registrierte Haustiere benötigen einen gültigen EU-Heimtierausweis mit Mikrochip und aktueller Tollwutimpfung. Haustiere aus Nicht-EU-Ländern (Großbritannien, USA usw.) benötigen ein Gesundheitszeugnis für Drittländer. Prüfen Sie vor der Reise die aktuellen Anforderungen des französischen Landwirtschaftsministeriums."
         }
       ]
     },
@@ -777,6 +886,22 @@
           "q": "O que devo saber sobre visitar o mercado de Natal de Estrasburgo com um cão?",
           "a": "Os cães são bem-vindos nos mercados de Natal ao ar livre com trela, mas atenção ao chocolate vendido em quase todas as bancas, que é tóxico para os cães. Mantenha o seu cão muito perto nas zonas com multidões e vigie o chão a toda a hora. As secções de mercado mais sossegadas para visitar com cães ficam longe da praça principal da Catedral."
         }
+      ],
+      "titleDe": "Hundefreundliche Tipps für Straßburg",
+      "introDe": "Straßburg ist eine der hundefreundlichsten Städte Frankreichs, mit einer entspannten elsässischen Kultur, die Hunde in Restaurants, auf Terrassen und in Parks willkommen heißt. Ein paar lokale Regeln, die Maulkorbpflicht in der Straßenbahn, Leinenpflicht in Parks und Vorsicht auf dem Weihnachtsmarkt, sollte man vor der Anreise kennen.",
+      "faqsDe": [
+        {
+          "q": "Ist Straßburg eine gute Stadt für einen Besuch mit Hund?",
+          "a": "Ja, Straßburg zählt durchweg zu den hundefreundlichsten Städten Frankreichs. Das kompakte, fußgängerfreundliche historische Zentrum, zwei Freilaufzonen in Parks, über 80 zertifizierte hundefreundliche Restaurants und die entspannte elsässische Kultur machen es zu einem ausgezeichneten Ziel für Haustierhalter."
+        },
+        {
+          "q": "Sind Hunde in Geschäften in Straßburg erlaubt?",
+          "a": "Das französische Recht erlaubt Hunde in Geschäften, sofern nicht ausdrücklich verboten. In Straßburg tolerieren die meisten unabhängigen Boutiquen und überdachten Märkte wohlerzogene Hunde an kurzer Leine. Große Ketten (Fnac, Supermärkte) im Allgemeinen nicht. Die Viertel Krutenau und Neustadt sind die hundefreundlichsten Einkaufsgebiete."
+        },
+        {
+          "q": "Was sollte ich über einen Besuch des Straßburger Weihnachtsmarkts mit Hund wissen?",
+          "a": "Hunde sind auf den Weihnachtsmärkten im Freien an der Leine willkommen, doch Vorsicht vor Schokolade, die an fast jedem Stand verkauft wird und für Hunde giftig ist. Halten Sie Ihren Hund in überfüllten Bereichen sehr nah bei sich und achten Sie stets auf den Boden. Die ruhigsten Marktabschnitte für Besuche mit Hund liegen abseits des zentralen Kathedralplatzes."
+        }
       ]
     },
     "attractions": {
@@ -806,7 +931,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Petite+France+Strasbourg",
           "descriptionPt": "O bairro mais icónico de Estrasburgo, um labirinto de casas alsacianas de enxaimel dos séculos XVI e XVII refletidas nos canais do Ill, com as quatro torres dos Ponts Couverts e o miradouro do Barrage Vauban como marcos. Os cães são bem-vindos com trela em toda a extensão, e os cais de calçada e as pontes pedonais dão um passeio genuinamente belo em qualquer altura do ano.",
           "petPolicyPt": "Cães com trela bem-vindos em todo o bairro ao ar livre",
-          "tipPt": "Percorra o circuito no sentido contrário ao dos ponteiros do relógio a partir dos Ponts Couverts para apanhar a melhor luz nas casas de enxaimel de manhã, e termine no miradouro do Barrage Vauban para uma foto panorâmica."
+          "tipPt": "Percorra o circuito no sentido contrário ao dos ponteiros do relógio a partir dos Ponts Couverts para apanhar a melhor luz nas casas de enxaimel de manhã, e termine no miradouro do Barrage Vauban para uma foto panorâmica.",
+          "descriptionDe": "Straßburgs ikonischstes Viertel, ein Labyrinth aus elsässischen Fachwerkhäusern des 16. und 17. Jahrhunderts, die sich in den Kanälen der Ill spiegeln, mit den vier Türmen der Ponts Couverts und dem Aussichtspunkt am Barrage Vauban als Wahrzeichen. Hunde sind an der Leine überall willkommen, und die Kopfsteinpflasterquais und Fußgängerbrücken machen dies zu einem wirklich schönen Spaziergang zu jeder Jahreszeit.",
+          "petPolicyDe": "Hunde an der Leine im gesamten Freiluftviertel willkommen",
+          "tipDe": "Gehen Sie die Runde gegen den Uhrzeigersinn ab den Ponts Couverts, um am Morgen das beste Licht auf den Fachwerkhäusern zu erwischen, und schließen Sie mit dem Aussichtspunkt am Barrage Vauban für ein Panoramafoto ab."
         },
         {
           "name": "Grande Île & Cathédrale Notre-Dame",
@@ -827,7 +955,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cathedrale+Notre-Dame+Strasbourg",
           "descriptionPt": "A Grande Île, a ilha histórica no coração de Estrasburgo, é Património Mundial da UNESCO e um dos centros medievais mais belamente preservados da Europa. A Cathédrale Notre-Dame, em arenito rosa, com 142 metros, é a peça central; os cães não podem entrar na Catedral, mas podem admirar a extraordinária fachada gótica a partir da praça pedonal em redor, e toda a rede de ruas envolvente é percorrível a pé com trela.",
           "petPolicyPt": "Cães com trela bem-vindos em todos os espaços públicos ao ar livre; não permitidos no interior da Catedral",
-          "tipPt": "Visite a praça da Catedral ao início da manhã, antes das 8h30, ou depois das 18h00, quando os turistas rareiam, as vielas pedonais da Grande Île ficam no seu momento mais sossegado e com mais ambiente."
+          "tipPt": "Visite a praça da Catedral ao início da manhã, antes das 8h30, ou depois das 18h00, quando os turistas rareiam, as vielas pedonais da Grande Île ficam no seu momento mais sossegado e com mais ambiente.",
+          "descriptionDe": "Die Grande Île, die historische Insel im Herzen Straßburgs, ist UNESCO-Weltkulturerbe und eines der schönsten erhaltenen mittelalterlichen Stadtzentren Europas. Im Mittelpunkt steht die 142 Meter hohe Kathédrale Notre-Dame aus rosa Sandstein; Hunde dürfen die Kathedrale nicht betreten, können aber die außergewöhnliche gotische Fassade vom Fußgängerplatz davor bewundern, und das gesamte umliegende Gassennetz ist an der Leine begehbar.",
+          "petPolicyDe": "Hunde an der Leine auf allen öffentlichen Außenbereichen willkommen; im Inneren der Kathedrale nicht erlaubt",
+          "tipDe": "Besuchen Sie den Kathedralplatz früh morgens vor 08:30 Uhr oder nach 18:00 Uhr, wenn sich der Touristenandrang lichtet, die Fußgängergassen der Grande Île sind dann am ruhigsten und stimmungsvollsten."
         },
         {
           "name": "Parc de l'Orangerie",
@@ -848,7 +979,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parc+de+l+Orangerie+Strasbourg",
           "descriptionPt": "Para além do seu parque para cães, a Orangerie é uma atração por direito próprio, um parque paisagístico de 26 hectares com um pavilhão Napoleão III, um lago com gaivotas a pedais, um comboio em miniatura e a famosa zona de nidificação das cegonhas-brancas, emblemática da Alsácia. Os cães com trela são bem-vindos em toda a extensão, e a proximidade do parque ao Parlamento Europeu faz dele o ponto de partida natural para visitas ao Bairro Europeu.",
           "petPolicyPt": "Cães com trela bem-vindos em todo o parque; zona sem trela no canto nordeste",
-          "tipPt": "O parque tem um pequeno jardim zoológico com cegonhas, veados e aves exóticas visíveis a partir do caminho, os cães com trela podem observar das zonas de observação designadas sem incomodar os animais."
+          "tipPt": "O parque tem um pequeno jardim zoológico com cegonhas, veados e aves exóticas visíveis a partir do caminho, os cães com trela podem observar das zonas de observação designadas sem incomodar os animais.",
+          "descriptionDe": "Über seinen Hundepark hinaus ist die Orangerie eine Sehenswürdigkeit für sich, ein 26 Hektar großer Landschaftspark mit einem Napoleon-III-Pavillon, einem See mit Tretbooten, einer Miniatureisenbahn und dem berühmten Weißstorch-Nistbereich, der für das Elsass sinnbildlich steht. Hunde an der Leine sind im gesamten Park willkommen, und die Nähe des Parks zum Europäischen Parlament macht ihn zum natürlichen Ausgangspunkt für Besuche im Europaviertel.",
+          "petPolicyDe": "Hunde an der Leine im gesamten Park willkommen; Freilaufzone in der Nordostecke",
+          "tipDe": "Der Park hat einen kleinen Zoo mit Störchen, Rehen und exotischen Vögeln, die vom Weg aus sichtbar sind, angeleinte Hunde können von den ausgewiesenen Beobachtungsbereichen aus zusehen, ohne die Tiere zu stören."
         }
       ],
       "tipsEn": [
@@ -928,6 +1062,22 @@
           "q": "Os cães são permitidos nos passeios de barco da Batorama em Estrasburgo?",
           "a": "Não, os cães não são permitidos nos barcos da Batorama. No entanto, o mesmo percurso do passeio (canais da Petite France, Pontes Cobertas, o circuito do Ill) é totalmente percorrível a pé com um cão com trela em cerca de 70 a 90 minutos."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Straßburg",
+      "introDe": "Straßburgs historisches Zentrum ist ein Freiluft-UNESCO-Weltkulturerbe, und fast alles Sehenswerte findet im Freien statt, was es von Natur aus zu einer der hundefreundlichsten europäischen Städte für kulturelle Erkundungen macht. Der Kathedralplatz, Petite France, die überdachten Brücken und das Neustadt-Viertel lassen sich alle zu Fuß mit angeleintem Hund und kostenlos besuchen.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund mit in das Straßburger Münster nehmen?",
+          "a": "Nein, Hunde sind im Inneren der Kathédrale Notre-Dame nicht erlaubt. Die Außenfassade und der Fußgängerplatz davor sind mit angeleintem Hund vollständig zugänglich, und der 142 Meter hohe Turm aus rosa Sandstein wirkt auch von außen genauso beeindruckend."
+        },
+        {
+          "q": "Lohnt sich das Europaviertel für einen Besuch mit Hund?",
+          "a": "Ja, das Europäische Parlament, der Europarat und der Europäische Gerichtshof für Menschenrechte befinden sich alle im Viertel Orangerie. Der umliegende Park und die Esplanaden sind hundefreundlich, und die Gebäude können von außen betrachtet werden. Der benachbarte Park Orangerie bietet die beste Hundeinfrastruktur der Stadt."
+        },
+        {
+          "q": "Sind Hunde bei den Batorama-Kanalbootstouren in Straßburg erlaubt?",
+          "a": "Nein, Hunde sind auf den Batorama-Booten nicht erlaubt. Die gleiche Tourroute (Kanäle von Petite France, überdachte Brücken, Ill-Rundgang) lässt sich jedoch mit angeleintem Hund in etwa 70–90 Minuten vollständig zu Fuß erkunden."
+        }
       ]
     },
     "petsitting": {
@@ -956,7 +1106,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Strasbourg+France",
           "descriptionPt": "A Pawshake é uma das principais plataformas de cuidados para animais de França, com uma forte comunidade de cuidadores verificados em Estrasburgo que oferecem alojamento ao domicílio, cuidados durante o dia, passeios e visitas pontuais. Todos os cuidadores têm seguro, e os perfis incluem avaliações detalhadas de donos de animais locais, particularmente úteis para visitantes de curta estadia que precisam de cuidados de confiança por um dia ou dois.",
           "petPolicyPt": "Cães e gatos aceites; as restrições de tamanho variam conforme o cuidador",
-          "tipPt": "Reserve com pelo menos 3 a 5 dias de antecedência para datas de fim de semana e feriados, Estrasburgo é um destino popular e os lugares dos cuidadores esgotam depressa, sobretudo na época do mercado de Natal."
+          "tipPt": "Reserve com pelo menos 3 a 5 dias de antecedência para datas de fim de semana e feriados, Estrasburgo é um destino popular e os lugares dos cuidadores esgotam depressa, sobretudo na época do mercado de Natal.",
+          "descriptionDe": "Pawshake ist eine der führenden Plattformen für Tierbetreuung in Frankreich, mit einer starken Community verifizierter Sitter in Straßburg, die häusliche Betreuung, Tagesbetreuung, Gassi-Service und Kurzbesuche anbieten. Alle Sitter sind versichert, und die Profile enthalten ausführliche Bewertungen lokaler Haustierhalter, besonders nützlich für Kurzbesucher, die für ein oder zwei Tage vertrauenswürdige Betreuung benötigen.",
+          "petPolicyDe": "Hunde und Katzen werden aufgenommen; Größenbeschränkungen variieren je nach Sitter",
+          "tipDe": "Buchen Sie mindestens 3–5 Tage im Voraus für Wochenend- und Feiertagstermine, Straßburg ist ein beliebtes Reiseziel, und die Termine der Sitter sind schnell ausgebucht, besonders während der Weihnachtsmarktsaison."
         },
         {
           "name": "Rover Strasbourg",
@@ -976,7 +1129,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Strasbourg+France",
           "descriptionPt": "A Rover liga donos de animais a passeadores, anfitriões e cuidadores de cães locais em Estrasburgo, com serviços que incluem alojamento noturno em casa do cuidador, passeios e visitas pontuais. O processo de verificação da plataforma e o seguimento dos passeios por GPS fazem dela uma opção fiável para visitantes que precisam de se afastar do seu cão por algumas horas durante uma visita a um museu ou uma visita guiada.",
           "petPolicyPt": "Cães aceites; as restrições variam conforme cada cuidador",
-          "tipPt": "Use a função de seguimento por GPS durante os passeios, particularmente útil numa cidade que não conhece, pois deixa-o acompanhar o percurso do passeio e garantir que o seu cão é levado aos parques que indicou."
+          "tipPt": "Use a função de seguimento por GPS durante os passeios, particularmente útil numa cidade que não conhece, pois deixa-o acompanhar o percurso do passeio e garantir que o seu cão é levado aos parques que indicou.",
+          "descriptionDe": "Rover vermittelt Haustierhaltern lokale Gassigeher, Pensionsplätze und Sitter in Straßburg, mit Leistungen wie Übernachtungsbetreuung beim Sitter zu Hause, Gassi-Service und Kurzbesuchen. Der Verifizierungsprozess der Plattform und die GPS-Wegverfolgung machen sie zu einer zuverlässigen Option für Besucher, die sich für ein paar Stunden während eines Museumsbesuchs oder einer geführten Tour von ihrem Hund trennen müssen.",
+          "petPolicyDe": "Hunde werden aufgenommen; Beschränkungen variieren je nach einzelnem Sitter",
+          "tipDe": "Nutzen Sie die GPS-Verfolgungsfunktion während der Gassirunden, besonders nützlich in einer Stadt, die Sie nicht kennen, da Sie so die Wegstrecke überwachen und sicherstellen können, dass Ihr Hund in die von Ihnen angegebenen Parks gebracht wird."
         }
       ],
       "tipsEn": [
@@ -1055,6 +1211,22 @@
         {
           "q": "Posso deixar o meu cão no hotel enquanto visito Estrasburgo?",
           "a": "Isto depende inteiramente da política do hotel, confirme sempre antes de reservar. Muitos hotéis de Estrasburgo que aceitam animais deixam os cães ficar nos quartos por algumas horas. Um passeador de cães de curta duração da Rover ou da Pawshake é uma alternativa fiável se não for permitido deixar o seu cão sozinho no hotel."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Straßburg",
+      "introDe": "Straßburg verfügt über ein gut entwickeltes Ökosystem der Tierpflege, mit über 50 registrierten Gassigehern und Sittern allein auf Pawshake. Die landesweiten Plattformen Pawshake, Rover und Holidog sind alle stark in Straßburg vertreten. Der lokale Sitter Pile Poil Plume ist auf vertrauenswürdige Betreuung von Haustieren zu Hause innerhalb der Stadt spezialisiert. Die meisten Sitter sind für halbtägige oder ganztägige Buchungen verfügbar, ideal für einen Museumsnachmittag, an dem Hunde nicht hinein dürfen.",
+      "faqsDe": [
+        {
+          "q": "Welche Möglichkeiten zur Haustierbetreuung gibt es in Straßburg?",
+          "a": "Pawshake, Rover und Holidog haben alle aktive Netzwerke in Straßburg. Die Leistungen reichen von Gassi-Service (typischerweise 12–20 € pro Stunde) bis zur Übernachtungsbetreuung beim Sitter zu Hause (typischerweise 25–45 € pro Nacht). Alle wichtigen Plattformen beinhalten eine Versicherung."
+        },
+        {
+          "q": "Ist es leicht, für einen kurzen Besuch einen Gassigeher in Straßburg zu finden?",
+          "a": "Ja, in der normalen Saison zeigen Pawshake und Rover in der Regel 20–40 verfügbare Gassigeher in Straßburg. Während der Weihnachtsmarktsaison (Ende November–Dezember) sinkt die Verfügbarkeit stark; buchen Sie in dieser Zeit mindestens eine Woche im Voraus."
+        },
+        {
+          "q": "Kann ich meinen Hund im Hotel lassen, während ich in Straßburg besichtige?",
+          "a": "Das hängt vollständig von der Richtlinie des Hotels ab, bestätigen Sie dies immer vor der Buchung. Viele haustierfreundliche Hotels in Straßburg erlauben es, Hunde für ein paar Stunden im Zimmer zu lassen. Ein kurzzeitiger Gassigeher von Rover oder Pawshake ist eine zuverlässige Alternative, falls das Alleinlassen des Hundes im Hotel nicht erlaubt ist."
         }
       ]
     }

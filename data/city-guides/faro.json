@@ -37,7 +37,11 @@
           "descriptionPt": "Restaurante algarvense tradicional dentro da Cidade Velha medieval, justo debaixo da catedral, cataplana, arroz de pulpo, vinos do Algarve. Cães bem-vindos na esplanada adoquinada delantera o ano inteiro e dentro fora de horas punta.",
           "petPolicyPt": "Cães en esplanada + dentro fora de horas punta",
           "mustTryPt": "Cataplana de marisco, arroz de pulpo, medronho",
-          "tipPt": "Reserva a mesa de esquina com vista para a catedral para a puesta de sol perfeita, se llena rápido en temporada (abril-outubro)."
+          "tipPt": "Reserva a mesa de esquina com vista para a catedral para a puesta de sol perfeita, se llena rápido en temporada (abril-outubro).",
+          "descriptionDe": "Ein traditionelles algarvisches Restaurant in der mittelalterlichen Cidade Velha, direkt unterhalb der Kathedrale, Cataplana, Oktopusreis, regionale Algarve-Weine. Hunde das ganze Jahr über auf der Kopfsteinpflaster-Terrasse willkommen und außerhalb der Stoßzeiten auch im Innenbereich.",
+          "petPolicyDe": "Hunde auf der Terrasse + innen außerhalb der Stoßzeiten",
+          "mustTryDe": "Cataplana de marisco, arroz de polvo, Medronho",
+          "tipDe": "Reservieren Sie den Ecktisch mit Kathedralenblick für den perfekten Sonnenuntergang, in der Saison (April-Oktober) schnell ausgebucht."
         },
         {
           "name": "Tertúlia Algarvia",
@@ -63,7 +67,11 @@
           "descriptionPt": "Restaurante algarvense creativo na praça da catedral na Cidade Velha, versiones modernas de platos regionales (helado de algarroba, pudín de higos do Algarve). Cães bem-vindos en toda a esplanada delantera o ano inteiro; sala interior com acuerdo previo.",
           "petPolicyPt": "Cães en esplanada; interior sob acuerdo",
           "mustTryPt": "Helado de algarroba, pudín de higos, veio Castelão",
-          "tipPt": "O rincón com o atardecer na praça da catedral é o mais fotogénico, leva água para o cão, a pedra irradia calor en verão."
+          "tipPt": "O rincón com o atardecer na praça da catedral é o mais fotogénico, leva água para o cão, a pedra irradia calor en verão.",
+          "descriptionDe": "Ein kreatives algarvisches Restaurant am Kathedralenplatz der Cidade Velha, moderne Interpretationen regionaler Gerichte (Johannisbrot-Eis, algarvischer Feigenpudding). Hunde das ganze Jahr über auf der gesamten Vorderterrasse willkommen; im Speiseraum nach vorheriger Absprache.",
+          "petPolicyDe": "Hunde auf der Terrasse; innen nach vorheriger Absprache",
+          "mustTryDe": "Johannisbrot-Eis, algarvischer Feigenpudding, Castelão-Wein",
+          "tipDe": "Der Sonnenuntergangsplatz am Kathedralenplatz ist am fotogensten, bringen Sie Wasser für den Hund mit, der Kalkstein strahlt im Sommer Hitze ab."
         },
         {
           "name": "Faz Gostos",
@@ -89,7 +97,11 @@
           "descriptionPt": "Restaurante português moderno no centro de Faro, equipo formado com o chef Avilez, cataplana para dois, tablas de quesos regionales. Cães bem-vindos na esplanada trasera o ano inteiro; sala principal com acuerdo previo.",
           "petPolicyPt": "Cães en esplanada trasera; sala principal sob acuerdo",
           "mustTryPt": "Cataplana para 2, tabla de quesos algarvenses, vinho verde",
-          "tipPt": "Reserva o patio trasero para a jantar, só 5 mesas pet-friendly e o menú degustación do chef Avilez se reserva com 2 semanas de antelación."
+          "tipPt": "Reserva o patio trasero para a jantar, só 5 mesas pet-friendly e o menú degustación do chef Avilez se reserva com 2 semanas de antelación.",
+          "descriptionDe": "Ein modernes portugiesisches Restaurant im Zentrum von Faro, ein von Chefkoch Avilez geschultes Team, Cataplana für zwei, regionale Käseplatten. Hunde das ganze Jahr über auf der hinteren Innenhofterrasse willkommen; im Hauptraum nach vorheriger Absprache.",
+          "petPolicyDe": "Hunde auf der Hinterterrasse; Hauptraum nach Absprache",
+          "mustTryDe": "Cataplana für 2, algarvische Käseplatte, Vinho Verde",
+          "tipDe": "Reservieren Sie den Innenhof für das Abendessen, nur 5 hundefreundliche Tische, und das Degustationsmenü von Chefkoch Avilez ist 2 Wochen im Voraus ausgebucht."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Posso levar o meu cão a uma tasca para almoçar?",
           "a": "Sim, as tascas algarvias são tolerantes a cães por defeito. Cães com trela bem-vindos na esplanada; muitas também aceitam cães na sala principal, sobretudo fora das horas de ponta."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Faro",
+      "introDe": "Die Café- und Tasca-Kultur der Algarve ist durchweg hundefreundlich, angeleinte Hunde werden auf Terrassen standardmäßig willkommen geheißen, Wassernäpfe erscheinen ohne Nachfrage, und die Esplanaden an der Marina sowie die Cidade Velha (Altstadt) konzentrieren die besten unabhängigen Lokale.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Faro erlaubt?",
+          "a": "In den meisten ja. Rund 80% der Tasca-Restaurants und Cafés in Faro akzeptieren angeleinte Hunde auf der Terrasse, und viele heißen sie außerhalb der Stoßzeiten auch im Innenbereich willkommen. Bei gehobeneren Lokalen variiert es, rufen Sie vorher an."
+        },
+        {
+          "q": "Kann ich meinen Hund zum Mittagessen in eine Tasca mitnehmen?",
+          "a": "Ja, algarvische Tascas sind standardmäßig hundetolerant. Angeleinte Hunde sind auf der Terrasse willkommen; viele akzeptieren Hunde auch im Hauptraum, besonders außerhalb der Stoßzeiten."
+        }
       ]
     },
     "parks": {
@@ -205,7 +229,10 @@
             "Parking grátis",
             "Sem instalaciones a mitad de camino"
           ],
-          "tipPt": "Melhor al amanecer o atardecer para os grupos de flamencos, leva água, o boardwalk no tem sombra."
+          "tipPt": "Melhor al amanecer o atardecer para os grupos de flamencos, leva água, o boardwalk no tem sombra.",
+          "leashRuleDe": "Auf dem Bohlenweg das ganze Jahr über Leinenpflicht; auf den ländlichen Marschwegen außerhalb der Nistsaison Freilauf",
+          "descriptionDe": "Der flache 2 km lange Holzbohlenweg von der Marina Faro nach Ludo und zu den Salzpfannen, flamingoreiche Salzmarsch, Rad-Fußweg, ganzjähriger Zugang mit Hund. Die nächstgelegene Freilaufnatur vom Zentrum Faros aus.",
+          "tipDe": "Am besten bei Sonnenaufgang oder -untergang wegen der Flamingoschwärme, bringen Sie Wasser mit, der Bohlenweg bietet keinerlei Schatten."
         },
         {
           "name": "Jardim Manuel Bivar",
@@ -249,7 +276,10 @@
             "Vista marina",
             "Aseos públicos cerca"
           ],
-          "tipPt": "Visita al inicio da tarde (19:00-21:00 en verão) para a comunidad local de paseadores de cães, punto de encontro do centro de Faro."
+          "tipPt": "Visita al inicio da tarde (19:00-21:00 en verão) para a comunidad local de paseadores de cães, punto de encontro do centro de Faro.",
+          "leashRuleDe": "Das ganze Jahr über Leinenpflicht",
+          "descriptionDe": "Der zentrale Hauptgarten direkt hinter den Mauern der Cidade Velha, palmengesäumte Wege, Brunnen, Musikpavillon, Bänke an der Marina. Faros Wohnzimmer im Freien, hundefreundlich, mit angeleinten Hunden das ganze Jahr über kostenlos.",
+          "tipDe": "Besuchen Sie den Ort am frühen Abend (19:00-21:00 Uhr im Sommer) wegen der örtlichen Hundegemeinde, der zentrale Treffpunkt Faros."
         },
         {
           "name": "Mata da Brejeira",
@@ -293,7 +323,10 @@
             "Parking grátis",
             "Sem água potable"
           ],
-          "tipPt": "Visita antes das 11:00 en verão, a sombra dois alcornoques é irregular e a temperatura do suelo supera 35 °C a partir do mediodía en julho-agosto."
+          "tipPt": "Visita antes das 11:00 en verão, a sombra dois alcornoques é irregular e a temperatura do suelo supera 35 °C a partir do mediodía en julho-agosto.",
+          "leashRuleDe": "Freilauf auf den meisten Waldwegen",
+          "descriptionDe": "Ein geschützter Kiefern- und Korkeichenwald 4 km nordöstlich des Zentrums, Faros wichtigstes Waldreservat im Landesinneren, mit markierten Wegen, Picknickplätzen und direktem Zugang zum inneren Salzmarschrand der Ria Formosa.",
+          "tipDe": "Besuchen Sie den Ort im Sommer vor 11:00 Uhr, der Korkeichenschatten ist lückenhaft und die Bodentemperatur übersteigt ab Mittag im Juli und August 35°C."
         }
       ],
       "tipsEn": [
@@ -357,6 +390,18 @@
           "q": "Os cães podem percorrer o passadiço da ria Formosa?",
           "a": "Sim. O passadiço de madeira de 2 km da Marina de Faro até Ludo aceita cães com trela gratuitamente durante todo o ano. O troço das salinas com flamingos é o ponto alto."
         }
+      ],
+      "titleDe": "Hundeparks & Grünflächen in Faro",
+      "introDe": "Faro liegt am Tor zur Ria-Formosa-Lagune, im Stadtzentrum gibt es wenige formelle Parks, doch der 18.000 Hektar große Naturpark Ria Formosa umgibt die Stadt mit ganzjährig hundefreundlichen Wanderwegen und vogelreichen Salzmarschpfaden.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde in Faros Parks ohne Leine laufen?",
+          "a": "Freilauf ist auf den ländlichen Wegen der Ria Formosa (außerhalb der formellen Parkgrenze) und auf den meisten Waldwegen der Mata da Brejeira erlaubt. Im Jardim Manuel Bivar und in den gepflasterten Straßen des Stadtzentrums gilt das ganze Jahr über Leinenpflicht."
+        },
+        {
+          "q": "Können Hunde den Ria-Formosa-Bohlenweg entlanglaufen?",
+          "a": "Ja. Der 2 km lange Holzbohlenweg von der Marina Faro nach Ludo akzeptiert angeleinte Hunde das ganze Jahr über kostenlos. Der Flamingo-Salzpfannen-Abschnitt ist das Highlight."
+        }
       ]
     },
     "transport": {
@@ -384,7 +429,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Faro+bus+terminal",
           "descriptionPt": "EVA opera a red regional de autocarros do Algarve, trayectos directos a partir de Faro a Albufeira, Lagos, Tavira, Olhão e Quarteira. Cães pequenhos en transportadora viajan grátis; medianos e grandes requieren bilhete a meio preço e bozal a bordo.",
           "petPolicyPt": "Meio preço + bozal para cães medianos/grandes",
-          "tipPt": "A línea EVA Faro-Tavira leva 1h e é uma excursión pet-friendly perfeita na costa histórica do Algarve oriental."
+          "tipPt": "A línea EVA Faro-Tavira leva 1h e é uma excursión pet-friendly perfeita na costa histórica do Algarve oriental.",
+          "descriptionDe": "EVA betreibt das regionale Busnetz der Algarve, mit Direktverbindungen von Faro nach Albufeira, Lagos, Tavira, Olhão und Quarteira. Kleine Hunde in Transportboxen fahren kostenlos; mittelgroße und große Hunde benötigen ein Ticket zum halben Fahrpreis und einen Maulkorb an Bord.",
+          "petPolicyDe": "Halber Fahrpreis + Maulkorb für mittelgroße/große Hunde",
+          "tipDe": "Die EVA-Linie Faro-Tavira dauert 1 Stunde und ist ein perfekter hundefreundlicher Tagesausflug an die historische Ostküste der Algarve."
         },
         {
           "name": "Comboios de Portugal (CP)",
@@ -403,7 +451,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Faro+train+station",
           "descriptionPt": "CP opera comboios directos a partir de Faro a Lisboa Oriente (3h Alfa Pendular, 4h Intercidades) e a lo largo da costa algarvense a Tavira e Vila Real de Santo António. Cães pequenhos en transportadora viajan grátis; medianos e grandes requieren bilhete a meio preço e bozal.",
           "petPolicyPt": "Meio preço + bozal para cães medianos/grandes",
-          "tipPt": "O Alfa Pendular Faro-Lisboa en 3h é o enlace pet-friendly mais rápido a a capital, reserva asiento de ventana com antelación para puntas estivales."
+          "tipPt": "O Alfa Pendular Faro-Lisboa en 3h é o enlace pet-friendly mais rápido a a capital, reserva asiento de ventana com antelación para puntas estivales.",
+          "descriptionDe": "CP betreibt Direktzüge von Faro nach Lissabon Oriente (3 Std. Alfa Pendular, 4 Std. Intercidades) und entlang der Algarve-Küste nach Tavira und Vila Real de Santo António. Kleine Hunde in Transportboxen fahren kostenlos; mittelgroße und große Hunde benötigen ein Ticket zum halben Fahrpreis und einen Maulkorb.",
+          "petPolicyDe": "Halber Fahrpreis + Maulkorb für mittelgroße/große Hunde",
+          "tipDe": "Der Alfa Pendular Faro-Lissabon mit 3 Stunden ist die schnellste hundefreundliche Verbindung zur Hauptstadt, buchen Sie im Hochsommer im Voraus einen Fensterplatz."
         },
         {
           "name": "Ria Formosa Ferries",
@@ -422,7 +473,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Faro+marina+ferries",
           "descriptionPt": "Serviços de ferry o ano inteiro a partir da Marina de Faro a as ilhas barrera de Ilha do Farol, Ilha da Culatra e Ilha Deserta, praias salvajes pet-friendly e antiguos aldeias pesqueros. Cães com trela admitidos grátis en cubiertas exteriores.",
           "petPolicyPt": "Grátis nas cubiertas exteriores",
-          "tipPt": "O ferry a Ilha Deserta (35 min) te leva a 10 km de praia atlântica canina ininterrumpida, leva água, sombrilla, comida; a ilha só tem um restaurante."
+          "tipPt": "O ferry a Ilha Deserta (35 min) te leva a 10 km de praia atlântica canina ininterrumpida, leva água, sombrilla, comida; a ilha só tem um restaurante.",
+          "descriptionDe": "Ganzjährige Fährverbindungen von der Marina Faro zu den Barriereinseln Ilha do Farol, Ilha da Culatra und Ilha Deserta, wilde hundefreundliche Strände und ehemalige Fischerdörfer. Angeleinte Hunde werden auf den Außendecks kostenlos akzeptiert.",
+          "petPolicyDe": "Kostenlos auf den Außendecks",
+          "tipDe": "Die Fähre zur Ilha Deserta (35 Min.) bringt Sie zu 10 km ununterbrochenem Atlantik-Hundestrand, bringen Sie Wasser, Sonnenschutz und Verpflegung mit, die Insel hat nur ein Restaurant."
         }
       ],
       "tipsEn": [
@@ -486,6 +540,18 @@
           "q": "Posso levar o meu cão de ferry até às praias das ilhas-barreira?",
           "a": "Sim. Os ferries da Animaris a partir da Marina de Faro aceitam cães com trela gratuitamente nos conveses exteriores durante todo o ano. A Ilha Deserta é a mais dog-friendly, com 10 km de praia atlântica selvagem."
         }
+      ],
+      "titleDe": "Haustierfreundlicher Transport in Faro",
+      "introDe": "Faros kompaktes Zentrum ist von Ende zu Ende in 20 Minuten zu Fuß erreichbar. Für Tagesausflüge akzeptieren die EVA-Busse, die CP-Regionalzüge und die Ria-Formosa-Fähren zu den Inselstränden allesamt angeleinte Hunde.",
+      "faqsDe": [
+        {
+          "q": "Muss ich meinem Hund in portugiesischen Zügen einen Maulkorb anlegen?",
+          "a": "Ja, für mittelgroße und große Hunde bei CP und EVA, die portugiesischen Verkehrsvorschriften verlangen einen Maulkorb und ein Ticket zum halben Fahrpreis. Kleine Hunde in einer Transportbox fahren ohne Maulkorb kostenlos."
+        },
+        {
+          "q": "Kann ich meinen Hund mit der Fähre zu den Barriereinseln mitnehmen?",
+          "a": "Ja. Die Animaris-Fähren ab der Marina Faro akzeptieren angeleinte Hunde das ganze Jahr über kostenlos auf den Außendecks. Die Ilha Deserta ist mit 10 km wildem Atlantikstrand am hundefreundlichsten."
+        }
       ]
     },
     "beaches": {
@@ -536,7 +602,10 @@
             "Dunas salvajes",
             "Boardwalk a partir do embarcadero"
           ],
-          "tipPt": "O último ferry de vuelta é a as 19:00 en verão, 17:00 en inverno, leva água, sombrilla e picnic. O restaurante Estaminé requiere reserva."
+          "tipPt": "O último ferry de vuelta é a as 19:00 en verão, 17:00 en inverno, leva água, sombrilla e picnic. O restaurante Estaminé requiere reserva.",
+          "leashRuleDe": "Ganzjähriger Freilauf außerhalb der zentralen Touristenzone",
+          "descriptionDe": "Eine autofreie, 10 km lange Atlantik-Barriereinsel, nur ein Restaurant (Estaminé), keine Autos, keine Straßen, nur ununterbrochener Sand und Dünen. Ganzjährig hundefreundlich mit Freilauf auf den westlichen 8 km. Fähre ab Marina Faro in 35 Minuten.",
+          "tipDe": "Die letzte Fähre kehrt im Sommer um 19:00 Uhr zurück, im Winter um 17:00 Uhr, bringen Sie Wasser, Sonnenschutz und ein Picknick mit. Das Restaurant Estaminé erfordert eine Reservierung."
         },
         {
           "name": "Praia do Barril",
@@ -578,7 +647,10 @@
             "Restaurante de praia",
             "Parking de pago en Pedras do Rei"
           ],
-          "tipPt": "O recorrido de 1,5 km de comboio miniatura é a experiencia emblemática do Algarve, cães com trela admitidos nos vagones abiertos, grátis."
+          "tipPt": "O recorrido de 1,5 km de comboio miniatura é a experiencia emblemática do Algarve, cães com trela admitidos nos vagones abiertos, grátis.",
+          "leashRuleDe": "Ganzjähriger Freilauf im hundefreundlichen Abschnitt",
+          "descriptionDe": "Auf der Barriereinsel Tavira-Ilha de Tavira, 35 km östlich von Faro, erreichbar über eine Fußgängerbrücke oder die Miniaturbahn ab Pedras del Rei. Der 'Cemitério das Âncoras' (Ankerfriedhof) östlich des zentralen Strandes verfügt über eine ganzjährige Hundezone.",
+          "tipDe": "Die 1,5 km lange Fahrt mit der Miniaturbahn ist ein typisches Algarve-Erlebnis, angeleinte Hunde sind in den offenen Waggons kostenlos zugelassen."
         },
         {
           "name": "Praia de Faro (West Section)",
@@ -620,7 +692,10 @@
             "Aseos públicos",
             "Vigilancia (junho-setembro lado turístico)"
           ],
-          "tipPt": "Caminha al oeste a partir do parking al menos 600 m para chegar a a zona canina oficial, a praia central excluye cães en verão com multas de 50 € in situ."
+          "tipPt": "Caminha al oeste a partir do parking al menos 600 m para chegar a a zona canina oficial, a praia central excluye cães en verão com multas de 50 € in situ.",
+          "leashRuleDe": "Ganzjähriger Freilauf an der westlichen 'praia para cães'",
+          "descriptionDe": "Faros Hauptstrand auf der Ilha de Faro, 9 km vom Zentrum entfernt, Bus 14/16 in 20 Minuten. Der westliche Abschnitt hinter dem Parkplatz ('praia para cães') ist der offizielle ganzjährige Hundestrand; die zentrale Touristenzone schließt Hunde vom 1. Juni bis 30. September aus.",
+          "tipDe": "Gehen Sie vom Parkplatz aus mindestens 600 m nach Westen, um die offizielle Hundezone zu erreichen, der zentrale Strand schließt Hunde im Sommer aus, mit Bußgeldern von 50€ vor Ort."
         }
       ],
       "tipsEn": [
@@ -684,6 +759,18 @@
           "q": "Os cães são permitidos nas praias do Algarve no verão?",
           "a": "Sim, nas zonas assinaladas como 'praia para cães' (Praia de Faro a oeste, Ilha Deserta, troço leste da Praia do Barril). Fora destas, os cães são excluídos das principais praias públicas entre 1 de junho e 30 de setembro, com coimas imediatas de 50 €."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Faro",
+      "introDe": "Die Algarve bietet mehrere offizielle hundefreundliche Strände innerhalb von 30 Minuten von Faro, die Barriereinseln der Ria Formosa bieten wilde Atlantikabschnitte, während die Ostküste der Algarve rund um Tavira den ruhigsten ganzjährigen Sand zum Schwimmen mit Hund bietet.",
+      "faqsDe": [
+        {
+          "q": "Wie weit ist der nächste Hundestrand von Faro entfernt?",
+          "a": "15 Min. zu Fuß + Bus 14/16 (20 Min.) zur westlichen 'praia para cães' am Praia de Faro. Für wilden Atlantiksand ist die Ilha Deserta 35 Min. mit der Animaris-Fähre entfernt; der Praia do Barril bei Tavira liegt 35 km östlich, mit Auto oder Zug erreichbar."
+        },
+        {
+          "q": "Sind Hunde im Sommer an Algarve-Stränden erlaubt?",
+          "a": "Ja, in gekennzeichneten 'praia para cães'-Zonen (Praia de Faro West, Ilha Deserta, östlicher Abschnitt des Praia do Barril). Außerhalb dieser Zonen sind Hunde vom 1. Juni bis 30. September von den öffentlichen Hauptstränden ausgeschlossen, mit Bußgeldern von 50€ vor Ort."
+        }
       ]
     },
     "vets": {
@@ -715,7 +802,9 @@
           "tipEs": "Llama antes de ir, triaje por teléfono y posible redirección para casos no urgentes en la noche.",
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Algarve+Faro",
           "descriptionPt": "Hospital veterinário de urgências 24h no centro de Faro na Estrada de São Brás, cirugía completa, UCI, ecografía, rayos X, RM. O veterinário 24/7 mais cercano para toda a costa do Algarve.",
-          "tipPt": "Liga antes de ir, triaje por teléfono e posible redirección para casos no urgentes na noite."
+          "tipPt": "Liga antes de ir, triaje por teléfono e posible redirección para casos no urgentes na noite.",
+          "descriptionDe": "24-Stunden-Tierklinik im Zentrum von Faro an der Estrada de São Brás, vollständige Chirurgie, Intensivstation, Ultraschall, Röntgen, MRT. Der nächstgelegene 24/7-Tierarzt für die gesamte Algarve-Küste.",
+          "tipDe": "Rufen Sie an, bevor Sie hinfahren, dort wird telefonisch trianiert und bei nicht dringenden nächtlichen Fällen möglicherweise weitervermittelt."
         },
         {
           "name": "Clínica Veterinária Anicura Faro",
@@ -736,7 +825,9 @@
           "tipFr": "L'anglais et l'espagnol sont parlés couramment (l'Algarve a une grande communauté expatriée britannique et espagnole) ; accueil sans rdv possible pour vaccins et puces avant 11h.",
           "tipEs": "Hablan inglés y español con fluidez (el Algarve tiene una gran comunidad expatriada británica y española); aceptan visitas sin cita para vacunas y microchips antes de las 11:00.",
           "descriptionPt": "Clínica moderna para pequenhos animales no centro de Faro, medicina general, vacunas, cirugía, odontología. Llamadas fora de horário derivadas al Hospital Veterinário do Algarve 24h.",
-          "tipPt": "Hablan inglês e espanhol com fluidez (o Algarve tem uma gran comunidad expatriada británica e espanhola); aceitam visitas sem cita para vacunas e microchips antes das 11:00."
+          "tipPt": "Hablan inglês e espanhol com fluidez (o Algarve tem uma gran comunidad expatriada británica e espanhola); aceitam visitas sem cita para vacunas e microchips antes das 11:00.",
+          "descriptionDe": "Moderne, tagsüber geöffnete Kleintierpraxis im Zentrum von Faro, Allgemeinmedizin, Impfungen, Chirurgie, Zahnmedizin. Anrufe außerhalb der Öffnungszeiten werden an das 24-Stunden-Hospital Veterinário do Algarve weitergeleitet.",
+          "tipDe": "Man spricht dort fließend Englisch und Spanisch (die Algarve hat eine große britische und spanische Expat-Gemeinde); vor 11:00 Uhr werden auch Laufkunden für Impfungen und Mikrochip-Kontrollen angenommen."
         },
         {
           "name": "Clínica Veterinária do Algarve",
@@ -758,7 +849,9 @@
           "tipEs": "Útil para emitir/actualizar un pasaporte europeo durante el viaje, Compromisso cobra unos 25 € por pasaporte, 30 € por microchip.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Algarve+Faro",
           "descriptionPt": "Consulta veterinária diurna en Rua do Compromisso, medicina general, expedición de passaporte europeu, microchip, consultas conductuales.",
-          "tipPt": "Útil para emitir/actualizar um passaporte europeu durante o viaje, Compromisso cobra uns 25 € por passaporte, 30 € por microchip."
+          "tipPt": "Útil para emitir/actualizar um passaporte europeu durante o viaje, Compromisso cobra uns 25 € por passaporte, 30 € por microchip.",
+          "descriptionDe": "Tagsüber geöffnete Tierarztpraxis an der Rua do Compromisso, Allgemeinmedizin, Ausstellung von EU-Heimtierausweisen, Mikrochipping, Verhaltensberatungen.",
+          "tipDe": "Nützlich für die Ausstellung oder Aktualisierung eines EU-Heimtierausweises während der Reise, die Compromisso-Praxis berechnet etwa 25€ für einen Ausweis, 30€ für einen Mikrochip."
         }
       ],
       "tipsEn": [
@@ -822,6 +915,18 @@
           "q": "Preciso de um passaporte para animais em Faro?",
           "a": "Sim, para a entrada vinda de fora de Portugal. Passaporte europeu para animais com vacina antirrábica (≥21 dias, não expirada) e microchip ISO, as regras habituais da UE. Os viajantes do Reino Unido precisam de um Certificado Sanitário Animal pós-Brexit."
         }
+      ],
+      "titleDe": "24-Stunden-Notfall-Tierärzte in Faro, Tierarztpraxen & Haustierbetreuung",
+      "introDe": "Faro verfügt über eine solide tagsüber verfügbare Tierarztversorgung und eine regionale 24-Stunden-Notfallklinik im Zentrum von Faro. Die Veterinärfakultät der Universität Lissabon, 3 Stunden nördlich, ist das wichtigste Überweisungszentrum.",
+      "faqsDe": [
+        {
+          "q": "Wo befindet sich der 24-Stunden-Notfall-Tierarzt bei Faro?",
+          "a": "Hospital Veterinário do Algarve, Estrada de São Brás 25, +351 289 880 100, im Zentrum von Faro, fußläufig von den meisten Hotels. Rufen Sie vorab an, um die Triage zu erleichtern."
+        },
+        {
+          "q": "Brauche ich einen Heimtierausweis für Faro?",
+          "a": "Ja, bei Einreise aus dem Ausland (außerhalb Portugals). EU-Heimtierausweis mit Tollwutimpfung (mindestens 21 Tage alt, nicht abgelaufen) und ISO-Mikrochip, es gelten die üblichen EU-Regeln. Britische Reisende benötigen nach dem Brexit ein Animal Health Certificate."
+        }
       ]
     },
     "tips": {
@@ -838,14 +943,16 @@
           "description": "March-May and September-November are ideal, average highs 18-25 °C, the Ria Formosa boardwalk pleasant, the Atlantic still swimmable for dogs in October. Avoid mid-July to mid-August: 32-38 °C heat, sand 50 °C+, central beaches close to dogs.",
           "descriptionFr": "Mars-mai et septembre-novembre sont idéaux, maxima moyens 18-25 °C, le boardwalk de la Ria Formosa agréable, l'Atlantique encore baignable pour les chiens en octobre. Évitez mi-juillet à mi-août : chaleur 32-38 °C, sable 50 °C+, plages centrales fermées aux chiens.",
           "descriptionEs": "Marzo-mayo y septiembre-noviembre son ideales, máximas medias 18-25 °C, el boardwalk de la Ria Formosa agradable, el Atlántico aún bañable para perros en octubre. Evita mediados de julio a mediados de agosto: calor 32-38 °C, arena 50 °C+, playas centrales cerradas a perros.",
-          "descriptionPt": "Março-maio e setembro-novembro são ideales, máximas medias 18-25 °C, o boardwalk da Ria Formosa agradable, o Atlântico ainda banhable para cães en outubro. Evita mediados de julho a mediados de agosto: calor 32-38 °C, areia 50 °C+, praias centrales cerradas a cães."
+          "descriptionPt": "Março-maio e setembro-novembro são ideales, máximas medias 18-25 °C, o boardwalk da Ria Formosa agradable, o Atlântico ainda banhable para cães en outubro. Evita mediados de julho a mediados de agosto: calor 32-38 °C, areia 50 °C+, praias centrales cerradas a cães.",
+          "descriptionDe": "März-Mai und September-November sind ideal, durchschnittliche Höchsttemperaturen von 18-25°C, der Ria-Formosa-Bohlenweg angenehm, der Atlantik im Oktober für Hunde noch zum Schwimmen geeignet. Meiden Sie Mitte Juli bis Mitte August: 32-38°C Hitze, Sand über 50°C, zentrale Strände für Hunde gesperrt."
         },
         {
           "name": "Post-Brexit UK travel paperwork",
           "description": "UK travellers to Faro need a GB Animal Health Certificate (AHC) issued by an EU OV within 10 days of travel, same as for any EU entry. Tapeworm treatment is required only for return travel to the UK if your vet recommends it (not mandatory in 2026 outside Ireland/Malta/Norway/Finland routes).",
           "descriptionFr": "Les voyageurs britanniques pour Faro ont besoin d'un GB Animal Health Certificate (AHC) délivré par un vétérinaire OV de l'UE dans les 10 jours précédant le voyage, comme pour toute entrée UE. Le traitement contre le ténia n'est requis que pour le retour vers le Royaume-Uni si votre vétérinaire le recommande (non obligatoire en 2026 hors itinéraires Irlande/Malte/Norvège/Finlande).",
           "descriptionEs": "Los viajeros británicos a Faro necesitan un GB Animal Health Certificate (AHC) emitido por un veterinario OV de la UE en los 10 días previos al viaje, igual que para cualquier entrada UE. El tratamiento de tenia solo se exige para el retorno al Reino Unido si tu veterinario lo recomienda (no obligatorio en 2026 fuera de rutas Irlanda/Malta/Noruega/Finlandia).",
-          "descriptionPt": "Os viajeros británicos a Faro necesitan um GB Animal Health Certificate (AHC) emitido por um veterinário OV da UE nos 10 dias previos al viaje, igual que para cualquier entrada UE. O tratamento de tenia só se exige para o retorno al Reino Unido se tu veterinário lo recomienda (no obrigatório en 2026 fora de rutas Irlanda/Malta/Noruega/Finlândia)."
+          "descriptionPt": "Os viajeros británicos a Faro necesitan um GB Animal Health Certificate (AHC) emitido por um veterinário OV da UE nos 10 dias previos al viaje, igual que para cualquier entrada UE. O tratamento de tenia só se exige para o retorno al Reino Unido se tu veterinário lo recomienda (no obrigatório en 2026 fora de rutas Irlanda/Malta/Noruega/Finlândia).",
+          "descriptionDe": "Britische Reisende nach Faro benötigen ein von einem EU-Amtstierarzt (OV) innerhalb von 10 Tagen vor der Reise ausgestelltes GB Animal Health Certificate (AHC), wie bei jeder EU-Einreise. Eine Bandwurmbehandlung ist nur für die Rückreise ins Vereinigte Königreich erforderlich, falls der Tierarzt sie empfiehlt (2026 nicht verpflichtend, außer auf Routen nach Irland/Malta/Norwegen/Finnland)."
         },
         {
           "name": "Currency & cost",
@@ -853,7 +960,8 @@
           "description": "Portugal uses the euro. Most hotels and restaurants accept Visa/Mastercard, contactless is universal. Pet supplements at Faro hotels average 8-12 €/night, among the lowest in southern Europe, well below the Algarve resort prices in Albufeira and Vilamoura.",
           "descriptionFr": "Le Portugal utilise l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel. Les suppléments animaux dans les hôtels de Faro tournent autour de 8-12 €/nuit, parmi les plus bas du sud de l'Europe, bien en-dessous des prix des stations balnéaires de l'Algarve à Albufeira et Vilamoura.",
           "descriptionEs": "Portugal usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Faro rondan 8-12 €/noche, de los más bajos del sur de Europa, muy por debajo de los precios de las estaciones balnearias del Algarve en Albufeira y Vilamoura.",
-          "descriptionPt": "Portugal usa o euro. A maioria de hotéis e restaurantes admite Visa/Mastercard, o contactless é universal. Os suplementos para animais en hotéis de Faro rondan 8-12 €/noite, dois mais bajos do sul de Europa, muito por debaixo dois preços das estações balnearias do Algarve en Albufeira e Vilamoura."
+          "descriptionPt": "Portugal usa o euro. A maioria de hotéis e restaurantes admite Visa/Mastercard, o contactless é universal. Os suplementos para animais en hotéis de Faro rondan 8-12 €/noite, dois mais bajos do sul de Europa, muito por debaixo dois preços das estações balnearias do Algarve en Albufeira e Vilamoura.",
+          "descriptionDe": "Portugal verwendet den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, kontaktloses Bezahlen ist überall üblich. Haustierzuschläge in Faro-Hotels liegen im Durchschnitt bei 8-12€ pro Nacht, einer der niedrigsten Werte in Südeuropa, deutlich unter den Algarve-Resortpreisen in Albufeira und Vilamoura."
         }
       ],
       "tipsEn": [
@@ -917,6 +1025,18 @@
           "q": "Como se compara Faro a Lisboa para viajar com cão?",
           "a": "Faro é mais pequena, mais calma, com natureza muito mais acessível (passadiço da ria Formosa em 5 min, contra Monsanto a 30 min de metro do centro de Lisboa) e tarifas de hotel mais baixas. Lisboa tem mais hotéis pet-friendly e o aeroporto internacional. Faro ganha para um fim de semana de praia sossegado com cão; Lisboa, pela variedade."
         }
+      ],
+      "titleDe": "Mit Hund nach Faro reisen: praktische Tipps",
+      "introDe": "Faro, die Hauptstadt der Algarve und das Tor zur Südküste Portugals, vereint eine kompakte mittelalterliche Cidade Velha, den 18.000 Hektar großen Naturpark Ria Formosa, ganzjährige Hundestrände auf Barriereinseln und Direktflüge aus ganz Nordeuropa.",
+      "faqsDe": [
+        {
+          "q": "Eignet sich Faro für ein hundefreundliches Wochenende?",
+          "a": "Ja, Faro vereint eine UNESCO-ausgezeichnete Cidade Velha, den Naturpark Ria Formosa mit ganzjährig flamingoreichen Bohlenwegen, hundefreundliche Atlantik-Barriereinselstrände per Fähre und internationale Direktflüge. Eine der besten Städte Südeuropas für Reisen mit Hund."
+        },
+        {
+          "q": "Wie schneidet Faro im Vergleich zu Lissabon für Reisen mit Hund ab?",
+          "a": "Faro ist kleiner, ruhiger, mit deutlich zugänglicherer Natur (Ria-Formosa-Bohlenweg in 5 Minuten gegenüber Monsanto in 30 Minuten mit der U-Bahn vom Zentrum Lissabons) und niedrigeren Hotelpreisen. Lissabon hat mehr haustierfreundliche Hotels und den internationalen Flughafen. Faro gewinnt für ein ruhiges Strandwochenende mit Hund; Lissabon für Abwechslung."
+        }
       ]
     },
     "attractions": {
@@ -945,7 +1065,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cidade+Velha+Faro",
           "descriptionPt": "O centro histórico amurallado medieval, acessível pelo Arco da Vila do século XIX, ruelas adoquinados, praça da catedral (Sé), palácio episcopal e fundaciones romano-moriscas. Abierta 24/7, pet-friendly com cães com trela em todo o lado. O interior da catedral só admite cães de assistência.",
           "petPolicyPt": "Cães com trela grátis; interior catedral só cães de assistência",
-          "tipPt": "Sube as escaleras do campanario da catedral (sem o cão) para a melhor vista aérea da Cidade Velha; ata al cão com o guardián durante 30 min, vigilan."
+          "tipPt": "Sube as escaleras do campanario da catedral (sem o cão) para a melhor vista aérea da Cidade Velha; ata al cão com o guardián durante 30 min, vigilan.",
+          "descriptionDe": "Die mittelalterliche ummauerte Altstadt, betreten durch das Arco da Vila aus dem 19. Jahrhundert, gepflasterte Gassen, der Platz der Sé-Kathedrale, der Bischofspalast und die römisch-maurischen Grundmauern. Rund um die Uhr geöffnet, hundefreundlich mit angeleinten Hunden überall. Das Innere der Kathedrale lässt nur Assistenzhunde zu.",
+          "petPolicyDe": "Angeleinte Hunde kostenlos; Kathedraleninneres nur Assistenzhunde",
+          "tipDe": "Steigen Sie die Treppen des Kathedralenglockenturms hinauf (ohne den Hund) für den besten Luftblick auf die Cidade Velha; binden Sie den Hund beim Wächter an, er passt für 30 Minuten auf ihn auf."
         },
         {
           "name": "Arco da Vila",
@@ -965,7 +1088,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Arco+da+Vila+Faro",
           "descriptionPt": "A puerta neoclásica de 1812 a a Cidade Velha, mármol italiano de Carrara, nidos de cigüenhas na cima en primavera-verão (a imagen icónica da cidade). Abierto 24/7, pet-friendly com cães com trela grátis.",
           "petPolicyPt": "Arco público, cães com trela grátis",
-          "tipPt": "A temporada de avistamiento de cigüenhas é de março a setembro, os polluelos salen en maio, melhor fotografiados al atardecer a partir da Praça D. Francisco Gomes."
+          "tipPt": "A temporada de avistamiento de cigüenhas é de março a setembro, os polluelos salen en maio, melhor fotografiados al atardecer a partir da Praça D. Francisco Gomes.",
+          "descriptionDe": "Das neoklassizistische Tor zur Cidade Velha von 1812, italienischer Carrara-Marmor, Storchennester obenauf im Frühling und Sommer (das ikonische Bild der Stadt). Rund um die Uhr geöffnet, hundefreundlich mit angeleinten Hunden kostenlos.",
+          "petPolicyDe": "Öffentlicher Torbogen, angeleinte Hunde kostenlos",
+          "tipDe": "Die Storchenbeobachtungssaison ist März bis September, die Küken schlüpfen im Mai, am besten bei Sonnenuntergang von der Seite der Praça D. Francisco Gomes aus fotografiert."
         },
         {
           "name": "Faro Marina & Esplanade",
@@ -985,7 +1111,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Faro+Marina",
           "descriptionPt": "A marina de recreo de Faro com o seu esplanada de 1 km a lo largo da Ria Formosa, esplanadas de café, embarcadero a as ilhas barrera, e vistas a as marismas. Abierta 24/7, pet-friendly com cães com trela em todo o lado.",
           "petPolicyPt": "Esplanada pública, cães com trela grátis",
-          "tipPt": "Caminha pela esplanada al atardecer, as marismas se vuelven doradas e os flamencos são mais visibles en marea baja. Leva água en verão; sem sombra."
+          "tipPt": "Caminha pela esplanada al atardecer, as marismas se vuelven doradas e os flamencos são mais visibles en marea baja. Leva água en verão; sem sombra.",
+          "descriptionDe": "Der Yachthafen von Faro mit seiner 1 km langen Esplanade entlang der Ria Formosa, Café-Terrassen, dem Fähranleger zu den Barriereinseln und Blick auf die Salzmarsch der Ria Formosa. Rund um die Uhr geöffnet, hundefreundlich mit angeleinten Hunden überall.",
+          "petPolicyDe": "Öffentliche Esplanade, angeleinte Hunde kostenlos",
+          "tipDe": "Gehen Sie bei Sonnenuntergang die Esplanade entlang, die Salzmarsch färbt sich golden und die Flamingos sind bei Ebbe am besten sichtbar. Bringen Sie im Sommer Wasser mit; kein Schatten vorhanden."
         }
       ],
       "tipsEn": [
@@ -1049,6 +1178,18 @@
           "q": "Os cães são permitidos no passadiço da ria Formosa?",
           "a": "Sim, o passadiço de madeira de 2 km da Marina de Faro até Ludo aceita cães com trela gratuitamente durante todo o ano. O troço das salinas com flamingos é o ponto alto."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Faro",
+      "introDe": "Die meisten der bekannten Sehenswürdigkeiten Faros im Freien sind hundefreundlich, die Mauern der Cidade Velha (Altstadt), das Tor Arco da Vila, die Marina, der Kathedralenplatz und der Ria-Formosa-Bohlenweg heißen angeleinte Hunde alle kostenlos willkommen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in die Kathedrale von Faro mitnehmen?",
+          "a": "Zum Kathedralenplatz, Kreuzgang und zur Aussichtsplattform des Glockenturms ja, an der Leine, kostenlos. Das Kirchenschiff der Kathedrale lässt nur Assistenzhunde zu."
+        },
+        {
+          "q": "Sind Hunde am Ria-Formosa-Bohlenweg erlaubt?",
+          "a": "Ja, der 2 km lange Holzbohlenweg von der Marina Faro nach Ludo akzeptiert angeleinte Hunde das ganze Jahr über kostenlos. Der Flamingo-Salzpfannen-Abschnitt ist das Highlight."
+        }
       ]
     },
     "petsitting": {
@@ -1074,7 +1215,9 @@
           "tipFr": "Filtrez pour les sitters anglophones dans les réglages, environ 70 % des sitters de Faro parlent anglais couramment grâce à la grande communauté expatriée britannique.",
           "tipEs": "Filtra por cuidadores que hablen inglés en los ajustes, alrededor del 70 % de los cuidadores de Faro habla inglés con fluidez gracias a la gran comunidad expatriada británica.",
           "descriptionPt": "Plataforma internacional com uns 35 cuidadores verificados com base en Faro num radio de 5 km do centro, visitas a domicilio, guardería diurna, alojamento nocturno. Todos os cuidadores estão verificados, seguro incluido.",
-          "tipPt": "Filtra por cuidadores que hablen inglês nos ajustes, alrededor do 70 % dois cuidadores de Faro habla inglês com fluidez gracias a a gran comunidad expatriada británica."
+          "tipPt": "Filtra por cuidadores que hablen inglês nos ajustes, alrededor do 70 % dois cuidadores de Faro habla inglês com fluidez gracias a a gran comunidad expatriada británica.",
+          "descriptionDe": "Internationale Haustierbetreuungsplattform mit rund 35 geprüften Betreuern in Faro innerhalb von 5 km vom Zentrum, Kurzbesuche, Hundetagesbetreuung, Übernachtungsunterbringung. Alle Betreuer sind geprüft, Versicherung ist inbegriffen.",
+          "tipDe": "Filtern Sie in den Plattformeinstellungen nach englischsprachigen Betreuern, etwa 70% der Betreuer in Faro sprechen dank der großen britischen Expat-Gemeinde fließend Englisch."
         },
         {
           "name": "DogHero Faro",
@@ -1090,7 +1233,9 @@
           "tipFr": "Réservez au moins 72h à l'avance en été (juin-août), les sitters les plus populaires ont 4 semaines de liste d'attente pendant le pic touristique algarvien.",
           "tipEs": "Reserva al menos 72h antes en verano (junio-agosto), los cuidadores más populares tienen 4 semanas de lista de espera durante el pico turístico algarvense.",
           "descriptionPt": "Plataforma portuguesa com uns 25 cuidadores verificados de Faro e línea veterinária 24/7 incluida en cada reserva. Tarifa media 18-25 €/dia para alojamento, 10-12 € por uma visita de 30 min.",
-          "tipPt": "Reserva al menos 72h antes en verão (junho-agosto), os cuidadores mais populares têm 4 semanas de lista de espera durante o pico turístico algarvense."
+          "tipPt": "Reserva al menos 72h antes en verão (junho-agosto), os cuidadores mais populares têm 4 semanas de lista de espera durante o pico turístico algarvense.",
+          "descriptionDe": "Auf Portugal fokussierte Haustierbetreuungsplattform mit rund 25 geprüften Betreuern in Faro und einer 24/7-Tierarzt-Telefonhotline, die bei jeder Buchung inbegriffen ist. Durchschnittspreis 18-25€ pro Tag für Unterbringung, 10-12€ für einen 30-minütigen Kurzbesuch mit Gassi-Runde.",
+          "tipDe": "Buchen Sie im Sommer (Juni-August) mindestens 72 Stunden im Voraus, die beliebtesten Betreuer haben während der Algarve-Hochsaison eine 4-wöchige Warteliste."
         }
       ],
       "tipsEn": [
@@ -1153,6 +1298,18 @@
         {
           "q": "Consigo encontrar um cuidador que fale inglês em Faro?",
           "a": "Sim, cerca de 70% dos cuidadores de Faro no Pawshake falam inglês fluente graças à grande comunidade de expatriados britânicos no Algarve. Filtre a plataforma por idioma."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundeausführung in Faro",
+      "introDe": "Für Tagesausflüge, bei denen der Hund nicht mitkommen kann (Kirchenschiff der Kathedrale, Museen, Innenbesichtigungen), bietet Faro zuverlässige, geprüfte Haustierbetreuung über internationale und portugiesische Plattformen.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet eine Hundetagesbetreuung in Faro?",
+          "a": "18-25€ pro Tag, je nach Plattform und Hundegröße, über Pawshake oder DogHero. Kurzbesuche kosten 10-12€ für 30 Minuten."
+        },
+        {
+          "q": "Kann ich in Faro einen englischsprachigen Betreuer finden?",
+          "a": "Ja, etwa 70% der Betreuer auf Pawshake in Faro sprechen dank der großen britischen Expat-Gemeinde an der Algarve fließend Englisch. Filtern Sie die Plattform nach Sprache."
         }
       ]
     }

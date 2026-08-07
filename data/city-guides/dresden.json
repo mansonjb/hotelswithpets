@@ -37,7 +37,11 @@
           "descriptionPt": "O restaurante mais antigo em funcionamento contínuo de Dresden (desde 1730), num jardim à beira-rio mesmo junto à ponte Blaues Wunder. Tanto o Biergarten como a sala de jantar acolhem cães, com tigelas de água e um ambiente familiar descontraído. Clássicos saxões, talho e pastelaria próprios e mesas mesmo sobre os prados das Elbwiesen fazem deste o almoço mais fácil antes ou depois de um passeio à beira-rio.",
           "petPolicyPt": "Cães bem-vindos no interior, no Biergarten e nas mesas do prado do Elba",
           "mustTryPt": "Sauerbraten, assado de porco saxão, cerveja Maibock da casa na época própria",
-          "tipPt": "Sente-se a uma mesa das Elbwiesen; os prados ribeirinhos sem trela começam a 30 metros da esplanada, ideais para uma farejadela antes de comer."
+          "tipPt": "Sente-se a uma mesa das Elbwiesen; os prados ribeirinhos sem trela começam a 30 metros da esplanada, ideais para uma farejadela antes de comer.",
+          "descriptionDe": "Dresdens ältestes durchgehend betriebenes Restaurant (seit 1730), in einem Flussgarten direkt am Blauen Wunder. Sowohl der Biergarten als auch der Gastraum heißen Hunde willkommen, mit Wassernäpfen und entspannter Familienatmosphäre. Sächsische Klassiker, hauseigene Fleischerei und Konditorei sowie Sitzplätze direkt auf den Elbwiesen machen dies zum einfachsten Mittagessen vor oder nach dem Spaziergang am Fluss.",
+          "petPolicyDe": "Hunde willkommen drinnen, im Biergarten und auf den Sitzplätzen an der Elbwiese",
+          "mustTryDe": "Sauerbraten, sächsischer Schweinebraten, hauseigenes Maibock-Bier zur Saison",
+          "tipDe": "Setzen Sie sich an einen Tisch auf der Elbwiese, die Freilauf-Flusswiesen beginnen 30 Meter von der Terrasse entfernt, ideal für ein Schnüffelchen vor dem Essen."
         },
         {
           "name": "Café Neustadt",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um café de bairro de longa data no coração da Äußere Neustadt, o bairro mais pet-friendly da cidade, bem conhecido dos donos de cães locais para o pequeno-almoço e o almoço. Os cães são bem-vindos no interior e nas mesas do passeio, e há tigelas de água ao balcão. A cozinha é generosa: pratos fartos de pequeno-almoço alemão, pratos do dia ao almoço e bolos caseiros à tarde.",
           "petPolicyPt": "Cães bem-vindos no interior e nas mesas do passeio",
           "mustTryPt": "Grande prato de pequeno-almoço saxão, sopa do dia, cheesecake caseiro",
-          "tipPt": "A Sebnitzer Straße é residencial e calma; combine o brunch com uma volta à trela pela zona canina do Alaunpark, a cinco minutos."
+          "tipPt": "A Sebnitzer Straße é residencial e calma; combine o brunch com uma volta à trela pela zona canina do Alaunpark, a cinco minutos.",
+          "descriptionDe": "Ein langjähriges Nachbarschaftscafé im Herzen der Äußeren Neustadt, dem hundefreundlichsten Viertel der Stadt, bei Hundehaltern vor Ort bekannt für Frühstück bis Mittagessen. Hunde sind drinnen und an den Tischen auf dem Gehweg willkommen, Wassernäpfe stehen an der Theke bereit. Die Küche ist großzügig: herzhafte deutsche Frühstücksteller, tägliche Mittagsangebote und hausgemachter Kuchen am Nachmittag.",
+          "petPolicyDe": "Hunde willkommen drinnen und auf den Sitzplätzen am Gehweg",
+          "mustTryDe": "Großer sächsischer Frühstücksteller, tägliche Suppe, hausgemachter Käsekuchen",
+          "tipDe": "Die Sebnitzer Straße ist ruhig und wohnlich, kombinieren Sie den Brunch mit einer Leinenrunde durch den Hundeauslauf im Alaunpark, fünf Minuten entfernt."
         },
         {
           "name": "BrennNessel",
@@ -89,11 +97,18 @@
           "descriptionPt": "Um restaurante-bar vegetariano de longa data a poucos passos do Zwinger, com um pátio de calçada resguardado que é uma das mesas pet-friendly mais fiáveis da Altstadt. Os cães são bem-vindos no interior e no pátio, e a cozinha serve pratos vegetarianos e vegan de época, cervejas regionais e um menu de almoço a preço contido que se enche de gente local nos dias de semana.",
           "petPolicyPt": "Cães bem-vindos no interior e no pátio de calçada",
           "mustTryPt": "Prato vegetariano do dia, cerveja artesanal regional, bolo caseiro",
-          "tipPt": "O pátio de calçada apanha sol até ao final da tarde e é o recanto mais tranquilo e sem turistas a poucos minutos a pé do Zwinger."
+          "tipPt": "O pátio de calçada apanha sol até ao final da tarde e é o recanto mais tranquilo e sem turistas a poucos minutos a pé do Zwinger.",
+          "descriptionDe": "Ein traditionsreiches vegetarisches Restaurant und Lokal wenige Schritte vom Zwinger, mit einem geschützten Kopfsteinpflaster-Innenhof, der zu den zuverlässigsten hundefreundlichen Tischen in der Altstadt zählt. Hunde sind drinnen und im Innenhof willkommen, die Küche serviert saisonale vegetarische und vegane Gerichte, regionale Biere und eine preiswerte Mittagskarte, die werktags mit Einheimischen gefüllt ist.",
+          "petPolicyDe": "Hunde willkommen drinnen und im gepflasterten Innenhof",
+          "mustTryDe": "Tägliches vegetarisches Gericht, regionales Craft-Bier, hausgemachter Kuchen",
+          "tipDe": "Der gepflasterte Innenhof liegt bis zum späten Nachmittag in der Sonne und ist das ruhigste touristenfreie Fleckchen in Gehweite zum Zwinger."
         }
       ],
       "titlePt": "Restaurantes pet-friendly em Dresden",
-      "introPt": "A cena de cafés e restaurantes de Dresden acolhe largamente os cães, sobretudo na Neustadt e ao longo da margem do Elba, onde as esplanadas são a norma e a tigela de água costuma chegar sem ser preciso pedir. Os três espaços abaixo são fiáveis o ano inteiro, com moradas verificadas e uma longa reputação de boa receção aos clientes de quatro patas, tanto no interior como na esplanada."
+      "introPt": "A cena de cafés e restaurantes de Dresden acolhe largamente os cães, sobretudo na Neustadt e ao longo da margem do Elba, onde as esplanadas são a norma e a tigela de água costuma chegar sem ser preciso pedir. Os três espaços abaixo são fiáveis o ano inteiro, com moradas verificadas e uma longa reputação de boa receção aos clientes de quatro patas, tanto no interior como na esplanada.",
+      "titleDe": "Hundefreundliche Restaurants in Dresden",
+      "introDe": "Dresdens Café- und Restaurantszene ist überwiegend hundefreundlich, besonders in der Neustadt und entlang des Elbufers, wo Außenbereiche die Regel sind und ein Wassernapf meist ungefragt gebracht wird. Die drei folgenden Adressen sind ganzjährig zuverlässig, mit geprüften Adressen und einem langjährigen Ruf, vierbeinige Gäste sowohl drinnen als auch auf der Terrasse willkommen zu heißen.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Best Parks for Dogs in Dresden",
@@ -129,7 +144,11 @@
           "leashRequiredPt": true,
           "sizePt": "≈ 147 hectares",
           "amenitiesPt": "Lagos, esplanada de café, comboio em miniatura (sem cães), 6 km de alamedas pavimentadas",
-          "tipPt": "Entre pela Hauptallee; a avenida central é sombreada e cómoda para passeios com carrinho de cão. Evite os portões do Jardim Botânico: os cães não entram."
+          "tipPt": "Entre pela Hauptallee; a avenida central é sombreada e cómoda para passeios com carrinho de cão. Evite os portões do Jardim Botânico: os cães não entram.",
+          "descriptionDe": "Dresdens barocker Zentralpark, 1676 angelegt und heute 147 Hektar gerade Alleen, Wasserflächen und schattige Rasenflächen. Hunde müssen im gesamten Park angeleint sein, und der Botanische Garten ist für Hunde gesperrt, aber der Park ist der am besten erreichbare grüne Spaziergang der Stadt, und die Terrasse des Café am Carolasee heißt Hunde willkommen.",
+          "sizeDe": "≈ 147 Hektar",
+          "amenitiesDe": "Seen, Café-Terrasse, Parkeisenbahn (keine Hunde), 6 km befestigte Alleen",
+          "tipDe": "Betreten Sie den Park über die Hauptallee, die zentrale Allee ist schattig und kinderwagen- bzw. hundewagentauglich. Meiden Sie die Tore des Botanischen Gartens: Hunde werden abgewiesen."
         },
         {
           "name": "Elbwiesen (Elbe Meadows)",
@@ -185,11 +204,18 @@
           "leashRequiredPt": true,
           "sizePt": "≈ 5800 hectares (floresta)",
           "amenitiesPt": "Trilhos sinalizados, sem trela de 1 de julho a 28 de fevereiro, sem café no local",
-          "tipPt": "Desça na paragem do elétrico 11 em Bühlau Ullersdorfer Platz e entre na floresta pelo sul; os letreiros Hundeauslauf surgem ao fim de cinco minutos."
+          "tipPt": "Desça na paragem do elétrico 11 em Bühlau Ullersdorfer Platz e entre na floresta pelo sul; os letreiros Hundeauslauf surgem ao fim de cinco minutos.",
+          "descriptionDe": "Ein 5.800 Hektar großer städtischer Wald, der sich vom nördlichen Rand der Neustadt bis nach Bühlau und Weißer Hirsch erstreckt. Vom 1. März bis 30. Juni gilt Leinenpflicht (Brutzeit im Wald), ansonsten dürfen Hunde auf den markierten Hundeauslauf-Wegen frei laufen. Eine ruhige, nach Kiefern duftende Auszeit vom Stadtzentrum, in 25 Minuten mit der Straßenbahn 11 erreichbar.",
+          "sizeDe": "≈ 5.800 Hektar (Wald)",
+          "amenitiesDe": "Markierte Wege, Freilauf vom 1. Juli bis 28. Februar, kein Café vor Ort",
+          "tipDe": "Nutzen Sie die Haltestelle Bühlau Ullersdorfer Platz der Linie 11 und betreten Sie den Wald von Süden, die Hundeauslauf-Schilder beginnen innerhalb von 5 Minuten."
         }
       ],
       "titlePt": "Melhores parques para cães em Dresden",
-      "introPt": "Dresden dá aos donos de cães um espaço excecional: um parque barroco central de 147 hectares, quilómetros de prados ribeirinhos onde os cães correm sem trela por defeito e uma floresta urbana de mais de 5800 hectares no limite norte. Os letreiros alemães a conhecer são 'Hundeauslauf' (zona sem trela) e 'Leinenpflicht' (trela obrigatória). Fora das zonas sem trela sinalizadas, os cães têm de andar com trela curta nos espaços públicos, e os dejetos têm de ser apanhados; as multas começam nos 20 €."
+      "introPt": "Dresden dá aos donos de cães um espaço excecional: um parque barroco central de 147 hectares, quilómetros de prados ribeirinhos onde os cães correm sem trela por defeito e uma floresta urbana de mais de 5800 hectares no limite norte. Os letreiros alemães a conhecer são 'Hundeauslauf' (zona sem trela) e 'Leinenpflicht' (trela obrigatória). Fora das zonas sem trela sinalizadas, os cães têm de andar com trela curta nos espaços públicos, e os dejetos têm de ser apanhados; as multas começam nos 20 €.",
+      "titleDe": "Die besten Parks für Hunde in Dresden",
+      "introDe": "Dresden bietet Hundehaltern außergewöhnlich viel Platz: einen 147 Hektar großen barocken Zentralpark, kilometerlange Flusswiesen, auf denen Hunde standardmäßig ohne Leine laufen, sowie einen Stadtwald von über 5.800 Hektar am nördlichen Stadtrand. Die wichtigen deutschen Schilder sind „Hundeauslauf“ (Freilaufzone) und „Leinenpflicht“. Außerhalb ausgewiesener Freilaufzonen müssen Hunde in der Öffentlichkeit kurz angeleint sein, und Hinterlassenschaften müssen entfernt werden, Bußgelder beginnen bei 20 €.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Public Transport with Pets in Dresden",
@@ -229,7 +255,10 @@
           "photo": "/images/city-places/dresden-transport-deutsche-bahn-dresden-hauptbahnhof.jpg",
           "typePt": "Comboio nacional",
           "petPolicyPt": "Cães numa caixa de mão viajam grátis. Os maiores viajam por metade da tarifa de adulto nos comboios de longo curso e têm de andar à trela com açaime na plataforma; nas carruagens, o açaime só é exigido se o cão for reativo.",
-          "tipPt": "Compre o bilhete de cão a meio preço na máquina de bilhetes da DB antes de embarcar; não há sobretaxa se for adquirido com antecedência."
+          "tipPt": "Compre o bilhete de cão a meio preço na máquina de bilhetes da DB antes de embarcar; não há sobretaxa se for adquirido com antecedência.",
+          "typeDe": "Nationaler Bahnverkehr",
+          "petPolicyDe": "Hunde in einer Handtragetasche fahren kostenlos. Größere Hunde fahren im Fernverkehr zum halben Erwachsenenpreis und müssen auf dem Bahnsteig angeleint sein und einen Maulkorb tragen; im Zugabteil ist ein Maulkorb nur bei aggressivem Verhalten erforderlich.",
+          "tipDe": "Kaufen Sie das ermäßigte Hundeticket vor dem Einsteigen am DB-Fahrkartenautomaten, bei vorherigem Kauf entsteht kein Aufpreis."
         },
         {
           "name": "Taxis (Bolt, Funk-Taxi 0351 211211)",
@@ -245,11 +274,17 @@
           "photo": "/images/city-places/dresden-transport-taxis-bolt-funk-taxi-0351-211211.jpg",
           "typePt": "Táxi e VTC",
           "petPolicyPt": "Os táxis de Dresden aceitam cães ao critério do condutor; indique 'Hund' (cão) na reserva. A Bolt tem um filtro 'animais permitidos'; caso contrário, telefone com antecedência indicando a raça e o tamanho, e leve uma manta limpa.",
-          "tipPt": "A Funk-Taxi 0351 211211 mantém uma lista registada de condutores pet-friendly; é melhor telefonar do que confiar nos filtros da aplicação."
+          "tipPt": "A Funk-Taxi 0351 211211 mantém uma lista registada de condutores pet-friendly; é melhor telefonar do que confiar nos filtros da aplicação.",
+          "typeDe": "Taxi & Mitfahrdienst",
+          "petPolicyDe": "Dresdner Taxis nehmen Hunde nach Ermessen des Fahrers mit; erwähnen Sie „Hund“ bei der Buchung. Bolt hat einen Filter „Haustiere erlaubt“; andernfalls vorab mit Rasse und Größe anrufen und eine saubere Decke mitbringen.",
+          "tipDe": "Funk-Taxi 0351 211211 führt eine Liste registrierter haustierfreundlicher Fahrer, rufen Sie lieber an, statt sich auf App-Filter zu verlassen."
         }
       ],
       "titlePt": "Transportes públicos com animais em Dresden",
-      "introPt": "A rede de elétricos e autocarros DVB de Dresden é pet-friendly, mas rigorosa quanto às regras. Os cães viajam grátis numa caixa de transporte fechada; fora da caixa, têm de usar açaime e trela curta, e o dono precisa de uma Fahrrad-/Hundekarte (bilhete de bicicleta ou cão). Os titulares de um passe anual ou mensal VVO levam um cão grátis; os titulares do Deutschlandticket precisam de um bilhete de cão à parte. A multa de 20 € pela falta de açaime é aplicada."
+      "introPt": "A rede de elétricos e autocarros DVB de Dresden é pet-friendly, mas rigorosa quanto às regras. Os cães viajam grátis numa caixa de transporte fechada; fora da caixa, têm de usar açaime e trela curta, e o dono precisa de uma Fahrrad-/Hundekarte (bilhete de bicicleta ou cão). Os titulares de um passe anual ou mensal VVO levam um cão grátis; os titulares do Deutschlandticket precisam de um bilhete de cão à parte. A multa de 20 € pela falta de açaime é aplicada.",
+      "titleDe": "Öffentliche Verkehrsmittel mit Haustieren in Dresden",
+      "introDe": "Das Straßenbahn- und Busnetz der DVB in Dresden ist hundefreundlich, aber regelstreng. Hunde fahren kostenlos in einer geschlossenen Transportbox; außerhalb einer Box müssen sie einen Maulkorb tragen, kurz angeleint sein, und der Halter benötigt eine Fahrrad-/Hundekarte. Inhaber einer Jahres- oder Monatskarte des VVO können einen Hund kostenlos mitnehmen; Inhaber eines Deutschlandtickets benötigen eine separate Hundekarte. Das Bußgeld von 20 € bei fehlendem Maulkorb wird durchgesetzt.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog Swim Spots & River Beaches near Dresden",
@@ -320,11 +355,17 @@
           "googleMapsUrl": "https://maps.google.com/?q=Stausee+Malter",
           "descriptionPt": "Uma albufeira de 90 hectares no sopé do Erzgebirge, a 30 km a sudoeste de Dresden, com uma pequena mas sinalizada zona de banho canino na extremidade leste. A água, mais fria e de origem montanhosa, mantém-se agradável até ao final do verão; o caminho à volta do lago é uma volta plana de 7 km com trela. Acesso pelo S-Bahn S1 até Heidenau e depois autocarro 360 (cerca de 1 h).",
           "petPolicyPt": "Sem trela dentro da zona de banho leste sinalizada; com trela no trilho à volta",
-          "tipPt": "Combine com o comboio de via estreita Weißeritztalbahn a partir de Freital; os cães viajam por 1,50 € com açaime."
+          "tipPt": "Combine com o comboio de via estreita Weißeritztalbahn a partir de Freital; os cães viajam por 1,50 € com açaime.",
+          "descriptionDe": "Eine 90 Hektar große Talsperre in den Ausläufern des Erzgebirges, 30 km südwestlich von Dresden, mit einer kleinen, aber ausgeschilderten Hundebadezone am Ostende. Das kühlere, aus den Bergen gespeiste Wasser bleibt bis in den Spätsommer angenehm; der Uferweg ist eine 7 km flache Runde an der Leine. Erreichbar mit der S-Bahn S1 bis Heidenau, dann Bus 360 (ca. 1 Std.).",
+          "petPolicyDe": "Ohne Leine innerhalb der ausgeschilderten östlichen Badezone; angeleint auf dem Rundweg",
+          "tipDe": "Kombinieren Sie den Besuch mit der Weißeritztalbahn ab Freital, Hunde fahren für 1,50 € mit Maulkorb mit."
         }
       ],
       "titlePt": "Zonas de banho e praias fluviais para cães perto de Dresden",
-      "introPt": "Dresden fica no interior, mas o Elba atravessa o centro e a cidade fica rodeada de lagos, por isso dar banho ao cão é fácil nos sítios certos. As Elbwiesen são o banho diário óbvio, o Olbasee, antiga mina a leste da cidade, tem praias caninas sinalizadas, e o Stausee Malter, a sudoeste, é um clássico banho de família com zonas caninas marcadas. Verifique sempre os letreiros: muitos dos lagos de banho de Dresden têm um Hundeverbot (proibido cães) dentro da zona de banho de pessoas marcada."
+      "introPt": "Dresden fica no interior, mas o Elba atravessa o centro e a cidade fica rodeada de lagos, por isso dar banho ao cão é fácil nos sítios certos. As Elbwiesen são o banho diário óbvio, o Olbasee, antiga mina a leste da cidade, tem praias caninas sinalizadas, e o Stausee Malter, a sudoeste, é um clássico banho de família com zonas caninas marcadas. Verifique sempre os letreiros: muitos dos lagos de banho de Dresden têm um Hundeverbot (proibido cães) dentro da zona de banho de pessoas marcada.",
+      "titleDe": "Badestellen & Flussstrände für Hunde bei Dresden",
+      "introDe": "Dresden liegt im Landesinneren, aber die Elbe fließt direkt durch das Zentrum, und die Stadt ist von Seen umgeben, Baden mit Hund ist an den richtigen Stellen problemlos möglich. Die Elbwiesen sind das naheliegende tägliche Bad, der ehemalige Tagebausee Olbasee östlich der Stadt hat ausgeschilderte Hundestrände, und der Stausee Malter im Südwesten ist ein klassisches Familienbad mit markierten Hundezonen. Prüfen Sie immer die Beschilderung: Viele Dresdner Badeseen haben ein Hundeverbot innerhalb des markierten Badebereichs für Menschen.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Dresden, Veterinary Clinics & Pet Care",
@@ -357,7 +398,11 @@
           "descriptionPt": "A clínica de diagnóstico de referência para pequenos animais de Dresden, com imagiologia completa (TAC, RM, ecografia), consultas de especialidade e cirurgia no próprio dia. Encaminha as urgências fora de horário para a rotação central do Notdienst. Equipa que fala inglês e passaporte europeu para animais aceite.",
           "hoursPt": "Seg–sex 08:00–18:00; sáb 09:00–12:00",
           "specialtyPt": "Medicina interna, imagiologia, cirurgia, dermatologia, oncologia",
-          "tipPt": "As consultas no próprio dia são por ordem de chegada a partir das 08:00; telefone cedo se precisar de um carimbo no passaporte antes de atravessar a fronteira."
+          "tipPt": "As consultas no próprio dia são por ordem de chegada a partir das 08:00; telefone cedo se precisar de um carimbo no passaporte antes de atravessar a fronteira.",
+          "descriptionDe": "Dresdens führende Diagnostikklinik für Kleintiere mit vollständiger Bildgebung (CT, MRT, Ultraschall), Facharztkonsultationen und Operationen am selben Tag. Notfälle außerhalb der Sprechzeiten werden an den zentralen Notdienst weitergeleitet. Englischsprachiges Team, EU-Heimtierausweis wird akzeptiert.",
+          "hoursDe": "Mo–Fr 08:00–18:00; Sa 09:00–12:00",
+          "specialtyDe": "Innere Medizin, Bildgebung, Chirurgie, Dermatologie, Onkologie",
+          "tipDe": "Termine am selben Tag werden ab 08:00 Uhr nach Reihenfolge des Eintreffens vergeben, rufen Sie früh an, wenn Sie vor der Grenzüberquerung einen Stempel im Heimtierausweis benötigen."
         },
         {
           "name": "Tierärztlicher Notdienst Dresden (after-hours rotation)",
@@ -407,11 +452,18 @@
           "descriptionPt": "Uma clínica fiável de pequenos animais no bairro residencial de Striesen, bem avaliada pelos donos locais de cães e gatos. Cuidados de rotina, vacinas, carimbos do passaporte europeu para animais e pequena cirurgia. Fora do horário de funcionamento, as chamadas passam para a rotação central do Tierärztlicher Notdienst.",
           "hoursPt": "Seg–sex 08:00–18:00; sáb 09:00–12:00",
           "specialtyPt": "Clínica geral, vacinas, passaporte europeu para animais, dentária",
-          "tipPt": "É a clínica mais próxima se ficar em qualquer ponto a leste do Großer Garten, incluindo os hotéis de Striesen e Blasewitz."
+          "tipPt": "É a clínica mais próxima se ficar em qualquer ponto a leste do Großer Garten, incluindo os hotéis de Striesen e Blasewitz.",
+          "descriptionDe": "Eine zuverlässige Kleintierpraxis im Wohnviertel Striesen, gut bewertet von Hunde- und Katzenhaltern vor Ort. Routinebehandlungen, Impfungen, Stempel im EU-Heimtierausweis und kleinere Operationen. Außerhalb der Geschäftszeiten werden Anrufe an den zentralen Tierärztlichen Notdienst weitergeleitet.",
+          "hoursDe": "Mo–Fr 08:00–18:00; Sa 09:00–12:00",
+          "specialtyDe": "Allgemeinmedizin, Impfungen, EU-Heimtierausweis, Zahnheilkunde",
+          "tipDe": "Die nächstgelegene Praxis, wenn Sie östlich des Großen Gartens übernachten, einschließlich der Hotels in Striesen und Blasewitz."
         }
       ],
       "titlePt": "Veterinários de urgência em Dresden, hospitais e clínicas veterinárias",
-      "introPt": "Dresden tem uma forte rede veterinária assente na Tagesklinik Dresden, gerida pela cidade, e num serviço de urgência fora de horário coordenado (Tierärztlicher Notdienst Dresden). Guarde a linha central de urgências e a morada da clínica de serviço para a noite em que chegar. A maioria das consultas correntes fala um inglês funcional e aceita o passaporte europeu para animais; o pagamento é no momento do tratamento."
+      "introPt": "Dresden tem uma forte rede veterinária assente na Tagesklinik Dresden, gerida pela cidade, e num serviço de urgência fora de horário coordenado (Tierärztlicher Notdienst Dresden). Guarde a linha central de urgências e a morada da clínica de serviço para a noite em que chegar. A maioria das consultas correntes fala um inglês funcional e aceita o passaporte europeu para animais; o pagamento é no momento do tratamento.",
+      "titleDe": "Notfall-Tierärzte in Dresden, Tierkliniken & Tierbetreuung",
+      "introDe": "Dresden verfügt über ein starkes tierärztliches Netzwerk mit der städtischen Tagesklinik Dresden als Anker und einem koordinierten Notdienst außerhalb der Sprechzeiten (Tierärztlicher Notdienst Dresden). Speichern Sie die zentrale Notrufnummer und die Adresse der diensthabenden Praxis für den Abend Ihrer Ankunft. Die meisten regulären Praxen sprechen ausreichend Englisch und akzeptieren den EU-Heimtierausweis; die Bezahlung erfolgt zum Zeitpunkt der Behandlung.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Dresden with a Dog",
@@ -498,6 +550,22 @@
           "q": "O meu cão pode visitar o Zwinger ou a Frauenkirche?",
           "a": "Apenas os cães de assistência são admitidos no interior dos museus do Zwinger e na Frauenkirche. Os pátios do Zwinger, o passeio da Brühlsche Terrasse e a área em redor da Frauenkirche são acessíveis com trela."
         }
+      ],
+      "titleDe": "Praktische Tipps für den Besuch in Dresden mit Hund",
+      "introDe": "Dresden ist dank seines kompakten barocken Zentrums und der Elbwiesen, die mitten durch die Stadt verlaufen, eine der lohnendsten Städte Deutschlands für Hundehalter. Die örtlichen Regeln sind an zwei Punkten strenger als in Norddeutschland: die Maulkorbpflicht in DVB-Straßenbahnen und -Bussen für Hunde ohne Transportbox, sowie eine Leinenpflicht während der Waldsaison (1. März–30. Juni) in der Dresdner Heide. Planen Sie beides ein, dann ist die Stadt unkompliziert.",
+      "faqsDe": [
+        {
+          "q": "Ist Dresden eine gute Stadt für Reisen mit Hund?",
+          "a": "Ja, eine der besten in Ostdeutschland. Hunde fahren mit Hundekarte und Maulkorb in DVB-Straßenbahnen mit, auf den Elbwiesen laufen sie nach Brauch mitten durchs Zentrum ohne Leine, und die meisten Cafés in der Neustadt heißen Hunde willkommen. Die Hauptbeschränkungen sind die Maulkorbpflicht in öffentlichen Verkehrsmitteln und die Leinenpflicht im Frühjahr in der Dresdner Heide."
+        },
+        {
+          "q": "Welche Unterlagen brauche ich, um meinen Hund nach Dresden mitzubringen?",
+          "a": "Einen EU-Heimtierausweis (oder ein gleichwertiges Nicht-EU-Dokument), einen Mikrochip und eine aktuelle Tollwutimpfung (mindestens 21 Tage alt, 3 Jahre gültig). Deutschland verlangt für Hunde aus EU-Ländern keine Bandwurmbehandlung."
+        },
+        {
+          "q": "Darf mein Hund den Zwinger oder die Frauenkirche besuchen?",
+          "a": "Nur Assistenzhunde sind in den Museen des Zwingers und in der Frauenkirche zugelassen. Die Zwingerhöfe, die Brühlsche Terrasse und der Bereich um die Frauenkirche sind an der Leine zugänglich."
+        }
       ]
     },
     "attractions": {
@@ -527,7 +595,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Brühlsche+Terrasse+Dresden",
           "descriptionPt": "O 'Balcão da Europa' é o passeio sobrelevado à beira do Elba entre o Augustusbrücke e o Carolabrücke, ladeado pela Frauenkirche, pelo Albertinum e pelo Jardim Brühl. Aberto dia e noite, com escadas para as Elbwiesen em cada extremidade, uma volta com trela aqui cobre quase todo o famoso horizonte da vista de Canaletto.",
           "petPolicyPt": "Aberto a cães com trela dia e noite",
-          "tipPt": "Percorra-o ao nascer do sol; a luz da manhã incide na cúpula da Frauenkirche a partir de leste e a calçada fica tranquila para os cães antes de chegarem os grupos de turistas."
+          "tipPt": "Percorra-o ao nascer do sol; a luz da manhã incide na cúpula da Frauenkirche a partir de leste e a calçada fica tranquila para os cães antes de chegarem os grupos de turistas.",
+          "descriptionDe": "Der „Balkon Europas“ ist die erhöhte Uferpromenade an der Elbe zwischen Augustusbrücke und Carolabrücke, gesäumt von Frauenkirche, Albertinum und Brühlschem Garten. Tag und Nacht geöffnet, mit Treppen hinunter zu den Elbwiesen an beiden Enden, eine angeleinte Runde hier deckt den Großteil der berühmten Canaletto-Skyline ab.",
+          "petPolicyDe": "Tag und Nacht für angeleinte Hunde geöffnet",
+          "tipDe": "Gehen Sie bei Sonnenaufgang, das Morgenlicht trifft die Kuppel der Frauenkirche von Osten, und das Kopfsteinpflaster ist vor den Reisegruppen hundefreundlich ruhig."
         },
         {
           "name": "Sächsische Dampfschifffahrt (paddle steamer cruise)",
@@ -569,7 +640,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Schloss+Pillnitz+Dresden",
           "descriptionPt": "O romântico parque do palácio na margem leste do Elba, com parterres barrocos formais, uma camélia com 250 anos e longas alamedas que sobem para as vinhas. Os edifícios (museu, casa das palmeiras, casa das camélias, orangerie) só admitem cães de assistência, mas todo o parque é acessível com trela curta e o caminho à beira-rio é um clássico para cães.",
           "petPolicyPt": "Parque aberto a cães com trela; edifícios só para cães de assistência",
-          "tipPt": "Suba de barco a vapor de pás a partir do Terrassenufer e regresse a pé pelas vinhas; combine as duas atrações de destaque numa só manhã."
+          "tipPt": "Suba de barco a vapor de pás a partir do Terrassenufer e regresse a pé pelas vinhas; combine as duas atrações de destaque numa só manhã.",
+          "descriptionDe": "Der romantische Schlosspark am östlichen Elbufer mit barocken Parterres, einer 250 Jahre alten Kamelie und langen Alleen, die hinauf in die Weinberge führen. Die Gebäude (Museum, Palmenhaus, Kamelienhaus, Orangerie) lassen nur Assistenzhunde zu, aber der gesamte Park ist an kurzer Leine zugänglich, und der Uferweg ist ein Hundeklassiker.",
+          "petPolicyDe": "Park für angeleinte Hunde geöffnet; Gebäude nur für Assistenzhunde",
+          "tipDe": "Fahren Sie mit dem Raddampfer vom Terrassenufer hinauf und gehen Sie durch die Weinberge zurück, so kombinieren Sie beide Highlights an einem Vormittag."
         }
       ],
       "tipsEn": [
@@ -649,6 +723,22 @@
           "q": "Os cães são permitidos nos museus de Dresden?",
           "a": "A maioria dos museus estatais (Zwinger, Albertinum, Residenzschloss, Volkswagen Gläserne Manufaktur) só admite cães de assistência. Os edifícios do palácio de Pillnitz são também só para cães de assistência, embora o parque esteja aberto a cães com trela."
         }
+      ],
+      "titleDe": "Hundefreundliche Aktivitäten in Dresden",
+      "introDe": "Dresdens Highlights sind größtenteils mit Hund zu Fuß erreichbar: die Brühlsche Terrasse, der „Balkon Europas“ über der Elbe, eine historische Raddampferfahrt auf dem Fluss und der romantische Schlossgarten von Pillnitz am östlichen Stadtrand. Die Innenräume des Zwingers und der Semperoper sind nur für Assistenzhunde zugänglich, aber Höfe, Gärten und Uferpromenaden sind alle an der Leine geöffnet.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund auf einen Dresdner Elbe-Raddampfer mitnehmen?",
+          "a": "Ja, die Sächsische Dampfschifffahrt heißt Hunde an kurzer Leine auf jeder Fahrt kostenlos willkommen. Ein Maulkorb ist an Bord nicht erforderlich. Wählen Sie im Sommer das offene Achterdeck und in der Nebensaison den beheizten unteren Salon."
+        },
+        {
+          "q": "Ist Dresdens Altstadt mit Hund begehbar?",
+          "a": "Ja, der gesamte historische Kern, die Brühlsche Terrasse und die Höfe des Zwingers sind an der Leine begehbar. Achten Sie auf das Kopfsteinpflaster, besonders bei Nässe, und weichen Sie den Pferdekutschen auf dem Theaterplatz aus."
+        },
+        {
+          "q": "Sind Hunde in Dresdner Museen erlaubt?",
+          "a": "Die meisten staatlichen Museen (Zwinger, Albertinum, Residenzschloss, Volkswagen Gläserne Manufaktur) lassen nur Assistenzhunde zu. Die Schlossgebäude von Pillnitz sind ebenfalls nur für Assistenzhunde zugänglich, der Park jedoch für angeleinte Hunde geöffnet."
+        }
       ]
     },
     "petsitting": {
@@ -671,7 +761,9 @@
           "tipFr": "Filtrez sur 'pièce d'identité vérifiée' et 'expérience avec la race' avant de réserver, la densité est bonne mais la qualité varie.",
           "tipEs": "Filtra por 'identidad verificada' y 'experiencia con la raza' antes de reservar: la densidad es buena pero la calidad varía.",
           "descriptionPt": "O maior mercado de pet sitting verificado da Alemanha, com ampla cobertura em Dresden Neustadt, Altstadt e nos bairros residenciais. Visitas pontuais, cuidado de dia inteiro, passeio de cães e alojamento noturno, tudo reservável em inglês. Inclui seguro premium e apoio 24 horas por dia em cada reserva.",
-          "tipPt": "Filtre por 'identidade verificada' e 'experiência com a raça' antes de reservar; a densidade de cuidadores é boa, mas a qualidade varia."
+          "tipPt": "Filtre por 'identidade verificada' e 'experiência com a raça' antes de reservar; a densidade de cuidadores é boa, mas a qualidade varia.",
+          "descriptionDe": "Der größte verifizierte Marktplatz für Haustierbetreuung in Deutschland, mit breiter Abdeckung in der Dresdner Neustadt, Altstadt und den Wohnvierteln. Kurzbesuche, Ganztagsbetreuung, Gassi-Service und Übernachtungsbetreuung sind alle auf Englisch buchbar. Bei jeder Buchung sind eine Premium-Versicherung und 24/7-Support inbegriffen.",
+          "tipDe": "Filtern Sie nach „verifizierte ID“ und „Erfahrung mit dieser Rasse“, bevor Sie buchen, die Betreuerdichte ist gut, aber die Qualität variiert."
         },
         {
           "name": "Rover Dresden",
@@ -685,7 +777,9 @@
           "tipFr": "Les promeneurs Rover ont en général des tournées fixes, prévoyez une rencontre préalable si votre chien se méfie des inconnus.",
           "tipEs": "Los paseadores de Rover suelen tener rutas fijas: planifica un encuentro previo si tu perro desconfía de los extraños.",
           "descriptionPt": "Plataforma global de cuidadores e passeadores de cães com forte cobertura em Dresden e uma equipa de apoio que fala inglês. A maioria dos cuidadores indica passeios diários padrão (60 min num horário fixo) mais alojamento a pedido. O seguro vem incluído por defeito em cada reserva da Rover.",
-          "tipPt": "Os passeadores da Rover costumam fazer percursos fixos; agende primeiro um encontro se o seu cão desconfiar de pessoas novas."
+          "tipPt": "Os passeadores da Rover costumam fazer percursos fixos; agende primeiro um encontro se o seu cão desconfiar de pessoas novas.",
+          "descriptionDe": "Globale Plattform für Betreuer und Gassi-Geher mit starker Abdeckung in Dresden und englischsprachigem Support-Team. Die meisten Betreuer bieten standardmäßige tägliche Spaziergänge (60 Min. nach festem Zeitplan) sowie Betreuung auf Anfrage. Eine Versicherung ist bei jeder Buchung über Rover standardmäßig inbegriffen.",
+          "tipDe": "Rover-Gassi-Geher gehen meist feste Routen, vereinbaren Sie zuerst ein Kennenlerntreffen, wenn Ihr Hund fremden Menschen gegenüber zurückhaltend ist."
         },
         {
           "name": "Holidog Dresden",
@@ -699,7 +793,9 @@
           "tipFr": "Utilisez le filtre 'last-minute' le vendredi après-midi pour repérer les prestataires encore disponibles pour le week-end.",
           "tipEs": "Usa el filtro 'last-minute' los viernes por la tarde para encontrar cuidadores con disponibilidad aún abierta para el fin de semana.",
           "descriptionPt": "Plataforma de pet sitting à escala europeia com cuidadores por toda Dresden, oferecendo alojamento ao domicílio, creche e passeios. Menos densa do que a Pawshake ou a Rover, mas útil para reservas de fim de semana de última hora quando as outras plataformas esgotam. Inclui seguro de responsabilidade civil nas reservas feitas através da plataforma.",
-          "tipPt": "Use o filtro 'última hora' às sextas-feiras à tarde para encontrar cuidadores com disponibilidade de fim de semana ainda livre."
+          "tipPt": "Use o filtro 'última hora' às sextas-feiras à tarde para encontrar cuidadores com disponibilidade de fim de semana ainda livre.",
+          "descriptionDe": "Europaweite Plattform für Haustierbetreuung mit Betreuern in ganz Dresden, die Haustierpension, Tagesbetreuung und Spaziergänge anbieten. Weniger dicht als Pawshake oder Rover, aber nützlich für kurzfristige Wochenendbuchungen, wenn andere Plattformen ausgebucht sind. Eine Haftpflichtversicherung ist bei über die Plattform gebuchten Terminen inbegriffen.",
+          "tipDe": "Nutzen Sie freitagnachmittags den Filter „Last-Minute“, um Betreuer mit noch freien Wochenendterminen zu finden."
         }
       ],
       "tipsEn": [
@@ -778,6 +874,22 @@
         {
           "q": "Posso antes deixar o meu cão no hotel?",
           "a": "A maioria dos hotéis de Dresden não deixa os cães sozinhos nos quartos. O Hilton Dresden oferece encaminhamentos de pet sitting pela receção; caso contrário, reserve um cuidador através da Pawshake ou da Rover para as horas em que precisar de sair."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Dresden",
+      "introDe": "Dresden verfügt über eine solide Infrastruktur für Tierbetreuung über drei Online-Plattformen, die die Stadt und den umliegenden Landkreis abdecken. Buchen Sie in den Schulferien mindestens 48 Stunden im Voraus und bringen Sie einen Impfnachweis mit. Die meisten Betreuer sprechen zunächst Deutsch; englischsprachige Buchungen funktionieren über die unten genannten Apps.",
+      "faqsDe": [
+        {
+          "q": "Was kostet Haustierbetreuung in Dresden?",
+          "a": "Kurzbesuche beginnen bei etwa 15 €, Gassi-Runden bei etwa 18 € für 60 Minuten, Ganztagsbetreuung bei etwa 25–35 € und Übernachtungsbetreuung bei 30–50 €, je nach Erfahrung des Betreuers und Größe des Hundes."
+        },
+        {
+          "q": "Sind die Betreuer versichert?",
+          "a": "Pawshake, Rover und Holidog schließen bei Buchungen über ihre Plattformen standardmäßig eine Haftpflichtversicherung und einen Unfallschutz ein."
+        },
+        {
+          "q": "Kann ich meinen Hund stattdessen im Hotel lassen?",
+          "a": "Die meisten Dresdner Hotels erlauben es nicht, Hunde unbeaufsichtigt im Zimmer zu lassen. Das Hilton Dresden bietet Concierge-Vermittlung von Haustierbetreuung; ansonsten buchen Sie über Pawshake oder Rover einen Betreuer für die Stunden, in denen Sie weg müssen."
         }
       ]
     }

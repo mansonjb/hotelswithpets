@@ -37,7 +37,11 @@
           "descriptionPt": "Um café-livraria literário independente perto da Plaine de Plainpalais com um ambiente calmo e de bairro. Os cães são bem-vindos nas mesas exteriores e no interior nos dias mais frescos; o pessoal traz habitualmente uma tigela de água. Refeições ligeiras, doçaria e um forte programa de cafés tornam-no ideal para uma longa manhã com o seu cão antes de subir a pé a colina até ao Centro Histórico.",
           "petPolicyPt": "Cães bem-vindos na esplanada e no interior",
           "mustTryPt": "Tartines, doçaria, café de origem única",
-          "tipPt": "Sente-se nas mesas junto à rua, na Rue des Vieux-Grenadiers, tranquilas, sombreadas, e a cinco minutos a pé do mercado de velharias de Plainpalais nas manhãs de quarta e sábado."
+          "tipPt": "Sente-se nas mesas junto à rua, na Rue des Vieux-Grenadiers, tranquilas, sombreadas, e a cinco minutos a pé do mercado de velharias de Plainpalais nas manhãs de quarta e sábado.",
+          "descriptionDe": "Ein unabhängiges literarisches Café-Buchgeschäft nahe der Plaine de Plainpalais mit ruhiger, nachbarschaftlicher Atmosphäre. Hunde sind an den Außentischen willkommen und drinnen an kühleren Tagen; das Personal bringt routinemäßig einen Wassernapf. Leichte Gerichte, Gebäck und ein starkes Kaffeeangebot machen es ideal für einen langen Vormittag mit Ihrem Hund, bevor es hinauf in die Altstadt geht.",
+          "petPolicyDe": "Hunde auf der Terrasse und drinnen willkommen",
+          "mustTryDe": "Tartines, Gebäck, Single-Origin-Kaffee",
+          "tipDe": "Setzen Sie sich an die Straßentische in der Rue des Vieux-Grenadiers, ruhig, schattig und fünf Gehminuten vom Flohmarkt Plainpalais am Mittwoch- und Samstagvormittag entfernt."
         },
         {
           "name": "Café du Soleil",
@@ -63,7 +67,11 @@
           "descriptionPt": "Uma instituição genebrina do século XVII famosa pela sua fondue de queijo e pela sua enorme esplanada sombreada por plátanos na Place du Petit-Saconnex. Os cães são acolhidos na esplanada o ano inteiro e no interior revestido a madeira no inverno. A uma curta viagem de autocarro do centro, é aqui que os genebrinos trazem os amigos de visita, e os cães de visita, para uma refeição suíça tradicional a sério.",
           "petPolicyPt": "Cães bem-vindos na esplanada o ano inteiro; no interior no inverno",
           "mustTryPt": "Fondue moitié-moitié, filets de perche, vinhos suíços",
-          "tipPt": "Reserve a esplanada se viajar de abril a outubro, enche-se de genebrinos e dos seus cães por volta das 19:30 e não há lugares sem reserva nos serões quentes."
+          "tipPt": "Reserve a esplanada se viajar de abril a outubro, enche-se de genebrinos e dos seus cães por volta das 19:30 e não há lugares sem reserva nos serões quentes.",
+          "descriptionDe": "Eine Genfer Institution aus dem 17. Jahrhundert, berühmt für ihr Käsefondue und ihre riesige, von Platanen beschattete Terrasse auf der Place du Petit-Saconnex. Hunde sind auf der Terrasse das ganze Jahr über willkommen und im holzvertäfelten Innenraum im Winter. Eine kurze Busfahrt vom Zentrum entfernt, hierher bringen Genfer ihre zu Besuch weilenden Freunde, und deren Hunde, für ein richtig traditionelles Schweizer Essen.",
+          "petPolicyDe": "Hunde auf der Terrasse das ganze Jahr über willkommen; drinnen im Winter",
+          "mustTryDe": "Fondue moitié-moitié, Egli-Filets, Schweizer Weine",
+          "tipDe": "Reservieren Sie die Terrasse bei einer Reise von April bis Oktober, sie füllt sich bis 19:30 Uhr mit Genfern und ihren Hunden, und an warmen Abenden gibt es keinen Platz ohne Reservierung."
         },
         {
           "name": "La Buvette des Bains",
@@ -89,11 +97,18 @@
           "descriptionPt": "A lendária cantina à beira-lago dos Bains des Pâquis, com mesas de madeira no pontão voltado para o Jet d'Eau e para o Mont-Blanc num dia limpo. Os cães com trela são bem-vindos no deque exterior o ano inteiro. A ementa é famosamente simples, um plat du jour diário, fondue no inverno, saladas no verão, e o ambiente é o mais democrático de Genebra: banqueiros, estudantes, famílias e cães partilham os mesmos bancos compridos.",
           "petPolicyPt": "Cães com trela bem-vindos no deque exterior",
           "mustTryPt": "Plat du jour, fondue de inverno, peixe do lago",
-          "tipPt": "O pontão dos Bains é uma zona de banhos pública no verão onde os cães não são permitidos do lado dos banhos, mantenha o seu cão apenas no deque do restaurante entre junho e setembro."
+          "tipPt": "O pontão dos Bains é uma zona de banhos pública no verão onde os cães não são permitidos do lado dos banhos, mantenha o seu cão apenas no deque do restaurante entre junho e setembro.",
+          "descriptionDe": "Die legendäre Uferkantine der Bains des Pâquis, mit Holztischen auf dem Steg mit Blick auf den Jet d'Eau und bei klarem Wetter den Mont-Blanc. Angeleinte Hunde sind auf der Außenterrasse das ganze Jahr über willkommen. Die Speisekarte ist bekannt einfach, ein tägliches Plat du jour, Fondue im Winter, Salate im Sommer, und die Atmosphäre ist die demokratischste in Genf: Banker, Studierende, Familien und Hunde teilen sich dieselben langen Bänke.",
+          "petPolicyDe": "Angeleinte Hunde auf der Außenterrasse willkommen",
+          "mustTryDe": "Plat du jour, Winter-Fondue, Seefisch",
+          "tipDe": "Der Steg der Bains ist im Sommer ein öffentlicher Badebereich, in dem Hunde auf der Badeseite nicht erlaubt sind, halten Sie Ihren Hund zwischen Juni und September nur auf der Restaurantterrasse."
         }
       ],
       "titlePt": "Restaurantes pet-friendly em Genebra",
-      "introPt": "Genebra combina a permissividade federal suíça quanto a animais nos restaurantes com uma atitude de Riviera francesa em relação às refeições na esplanada. A lei suíça deixa a decisão inteiramente ao proprietário, e as brasseries, os cafés à beira-lago e os bistrôs de Carouge de Genebra aproveitam-no ao máximo. O bairro de Carouge, o boémio quarteirão de baixa altura mesmo a sul do Arve, é o epicentro da cidade para aperitivos ao ar livre com um cão aos seus pés. A promenade da Rive Gauche entre a Ponte do Mont-Blanc e a Genève-Plage surge ladeada de esplanadas voltadas para o Jet d'Eau, e a maioria acolhe cães com trela da primavera ao outono. No inverno, os cafés tradicionais em redor do Centro Histórico e de Plainpalais aceitam cães bem-comportados no interior, muitas vezes com uma tigela de água trazida antes de a pedir. Os três locais em baixo são de forma fiável e visível acolhedores para cães o ano inteiro."
+      "introPt": "Genebra combina a permissividade federal suíça quanto a animais nos restaurantes com uma atitude de Riviera francesa em relação às refeições na esplanada. A lei suíça deixa a decisão inteiramente ao proprietário, e as brasseries, os cafés à beira-lago e os bistrôs de Carouge de Genebra aproveitam-no ao máximo. O bairro de Carouge, o boémio quarteirão de baixa altura mesmo a sul do Arve, é o epicentro da cidade para aperitivos ao ar livre com um cão aos seus pés. A promenade da Rive Gauche entre a Ponte do Mont-Blanc e a Genève-Plage surge ladeada de esplanadas voltadas para o Jet d'Eau, e a maioria acolhe cães com trela da primavera ao outono. No inverno, os cafés tradicionais em redor do Centro Histórico e de Plainpalais aceitam cães bem-comportados no interior, muitas vezes com uma tigela de água trazida antes de a pedir. Os três locais em baixo são de forma fiável e visível acolhedores para cães o ano inteiro.",
+      "titleDe": "Haustierfreundliche Restaurants in Genf",
+      "introDe": "Genf verbindet die schweizerische föderale Großzügigkeit gegenüber Haustieren in Restaurants mit einer Haltung zum Terrassenessen wie an der französischen Riviera. Das Schweizer Recht überlässt die Entscheidung vollständig dem Inhaber, und Genfs Brasserien, Uferpromenaden-Cafés und Bistros in Carouge nutzen dies voll aus. Das Carouge-Viertel, das bohemienhafte, niedrig bebaute Quartier südlich der Arve, ist das Epizentrum der Stadt für Aperitifs im Freien mit Hund zu Füßen. Die Promenade Rive Gauche zwischen der Mont-Blanc-Brücke und Genève-Plage ist gesäumt von Terrassen mit Blick auf den Jet d'Eau, und die meisten heißen angeleinte Hunde von Frühling bis Herbst willkommen. Im Winter akzeptieren traditionelle Cafés rund um die Altstadt und Plainpalais wohlerzogene Hunde drinnen, oft mit einem Wassernapf, der von selbst gebracht wird. Die drei folgenden Lokale sind das ganze Jahr über zuverlässig und sichtbar hundefreundlich.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Dog Parks & Walks in Geneva",
@@ -122,7 +137,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bois+de+la+Batie+Geneva",
           "descriptionPt": "A maior zona legal sem trela do ano inteiro no centro de Genebra, uma encosta arborizada entre o Ródano e o Arve, com caminhos florestais sombreados, um pequeno parque de animais gratuito e vistas panorâmicas sobre a cidade. Os habitantes locais vêm ao nascer e ao pôr do sol para corridas sem trela de 30 a 60 minutos. O terreno é variado (floresta, prado, beira-rio), o que se adequa a cães cheios de energia.",
           "petPolicyPt": "Zona sem trela o ano inteiro; trela normal nos caminhos de acesso",
-          "tipPt": "Chegue de elétrico 14 ou 15 (paragem Bâtie) e siga as placas assinaladas da zona canina no topo da colina, a zona sem trela começa no planalto da floresta, não na estrada de acesso."
+          "tipPt": "Chegue de elétrico 14 ou 15 (paragem Bâtie) e siga as placas assinaladas da zona canina no topo da colina, a zona sem trela começa no planalto da floresta, não na estrada de acesso.",
+          "descriptionDe": "Die größte legale ganzjährige Freilaufzone im Genfer Zentrum, ein bewaldeter Hügel zwischen Rhône und Arve, mit schattigen Waldwegen, einem kleinen kostenlosen Tierpark und Panoramablick über die Stadt. Einheimische kommen bei Sonnenaufgang und Sonnenuntergang für 30- bis 60-minütige Freiläufe. Das Gelände ist abwechslungsreich (Wald, Wiese, Flussufer), was für energiegeladene Hunde gut passt.",
+          "petPolicyDe": "Freilaufzone ganzjährig; normale Leinenpflicht auf Zufahrtswegen",
+          "tipDe": "Mit der Straßenbahn 14 oder 15 (Haltestelle Bâtie) erreichbar, folgen Sie den markierten Hundezonenschildern oben am Hügel, die Freilaufzone beginnt auf dem Waldplateau, nicht auf der Zufahrtsstraße."
         },
         {
           "name": "Parc des Eaux-Vives",
@@ -143,7 +161,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parc+des+Eaux-Vives+Geneva",
           "descriptionPt": "Um elegante parque à beira-lago na Rive Gauche, mesmo ao lado do Parc de la Grange, com amplos relvados, árvores centenárias e uma vista direta sobre o lago até ao Jet d'Eau. Os cães com trela são acolhidos em toda a extensão, e o parque liga-se diretamente à promenade da marina de Eaux-Vives, um passeio plano e pavimentado à beira-lago de cerca de 1,5 km, perfeito para cães mais velhos ou para passeios ao serão.",
           "petPolicyPt": "Cães com trela bem-vindos em toda a extensão",
-          "tipPt": "Combine-o com o vizinho Parc de la Grange para um circuito completo de uma hora à beira-lago, a roseira de La Grange atinge o auge em junho."
+          "tipPt": "Combine-o com o vizinho Parc de la Grange para um circuito completo de uma hora à beira-lago, a roseira de La Grange atinge o auge em junho.",
+          "descriptionDe": "Ein eleganter Uferpark am Rive Gauche, direkt neben dem Parc de la Grange, mit weitläufigen Rasenflächen, alten Bäumen und direktem Blick über den See zum Jet d'Eau. Angeleinte Hunde sind überall willkommen, und der Park verbindet sich direkt mit der Uferpromenade des Yachthafens Eaux-Vives, einem flachen, gepflasterten Uferweg von rund 1,5 km, ideal für ältere Hunde oder abendliche Spaziergänge.",
+          "petPolicyDe": "Angeleinte Hunde überall willkommen",
+          "tipDe": "Kombinieren Sie ihn mit dem benachbarten Parc de la Grange für einen ganzstündigen Uferrundgang, der Rosengarten von La Grange ist im Juni am schönsten."
         },
         {
           "name": "Parc des Bastions",
@@ -164,11 +185,17 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parc+des+Bastions+Geneva",
           "descriptionPt": "O parque histórico aos pés do Centro Histórico, lar do Muro da Reforma e dos jogos de xadrez gigantes ao ar livre de Genebra. Os cães são permitidos com trela em toda a avenida central e nos relvados. Os castanheiros-da-índia centenários mantêm o parque sombreado no verão, e ele serve de passeio diário à hora de almoço para os trabalhadores de escritório e os seus cães no centro.",
           "petPolicyPt": "Cães com trela bem-vindos nos caminhos e relvados",
-          "tipPt": "O relvado da universidade nas traseiras do parque é um sítio tranquilo para descansar a meio do passeio, muito mais calmo do que a allée central depois do meio-dia."
+          "tipPt": "O relvado da universidade nas traseiras do parque é um sítio tranquilo para descansar a meio do passeio, muito mais calmo do que a allée central depois do meio-dia.",
+          "descriptionDe": "Der historische Park unterhalb der Altstadt, Heimat der Reformationsmauer und der Genfer Riesenschachfelder im Freien. Hunde sind an der Leine überall auf der zentralen Allee und den Rasenflächen erlaubt. Alte Kastanienbäume halten den Park im Sommer schattig, und er dient als alltäglicher Mittagsspaziergang für Büroangestellte und ihre Hunde im Zentrum.",
+          "petPolicyDe": "Angeleinte Hunde auf Wegen und Rasenflächen willkommen",
+          "tipDe": "Die Universitätswiese am Ende des Parks ist ein ruhiger Ort für eine Rast mitten im Spaziergang, viel ruhiger als die zentrale Allee nach Mittag."
         }
       ],
       "titlePt": "Parques e passeios para cães em Genebra",
-      "introPt": "Genebra é invulgarmente verde para uma cidade do seu tamanho, o Bois de la Bâtie, o Parc des Eaux-Vives e a longa promenade da Rive Gauche dão em conjunto aos donos de cães variedade mais do que suficiente para uma estadia de vários dias. A regra por norma em Genebra é cães com trela nos parques da cidade, com zonas específicas sem trela assinaladas a azul nos espaços verdes maiores. O Bois de la Bâtie tem a maior floresta sem trela do ano inteiro no centro de Genebra. De meados de julho ao fim de março, abrem secções de floresta sem trela adicionais por todo o cantão, mas a primavera (de abril a meados de julho) é restrita por causa da nidificação da fauna selvagem."
+      "introPt": "Genebra é invulgarmente verde para uma cidade do seu tamanho, o Bois de la Bâtie, o Parc des Eaux-Vives e a longa promenade da Rive Gauche dão em conjunto aos donos de cães variedade mais do que suficiente para uma estadia de vários dias. A regra por norma em Genebra é cães com trela nos parques da cidade, com zonas específicas sem trela assinaladas a azul nos espaços verdes maiores. O Bois de la Bâtie tem a maior floresta sem trela do ano inteiro no centro de Genebra. De meados de julho ao fim de março, abrem secções de floresta sem trela adicionais por todo o cantão, mas a primavera (de abril a meados de julho) é restrita por causa da nidificação da fauna selvagem.",
+      "titleDe": "Hundeparks & Spaziergänge in Genf",
+      "introDe": "Genf ist ungewöhnlich grün für eine Stadt dieser Größe, der Bois de la Bâtie, der Parc des Eaux-Vives und die lange Promenade Rive Gauche bieten Hundebesitzern zusammen mehr als genug Abwechslung für einen mehrtägigen Aufenthalt. Die Standardregel in Genf ist Leinenpflicht in städtischen Parks, mit speziell blau markierten Freilaufzonen in größeren Grünflächen. Der Bois de la Bâtie hat die größte ganzjährige Freilaufwaldfläche im Genfer Zentrum. Von Mitte Juli bis Ende März öffnen zusätzliche Freilaufwaldbereiche im gesamten Kanton, doch im Frühling (April bis Mitte Juli) gelten Einschränkungen wegen brütender Wildtiere.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Travelling with Pets in Geneva",
@@ -243,7 +270,10 @@
         }
       ],
       "titlePt": "Viajar com animais em Genebra",
-      "introPt": "A rede TPG de Genebra (elétricos, autocarros e as Mouettes, lançadeiras do lago) é pequena, frequente e tolerante a animais. Os cães pequenos numa transportadora fechada viajam grátis; os cães médios e grandes com trela precisam de um bilhete a meia tarifa (cerca de CHF 2 para um simples, ou CHF 5 para um passe diário). Os caminhos de ferro federais suíços (CFF/SBB) aplicam o mesmo modelo a nível nacional, cães pequenos em transportadora grátis, cães maiores a meia tarifa de segunda classe, com um passe diário de CHF 25 que cobre a maioria dos transportes públicos por toda a Suíça. As regras aplicam-se igualmente a cães e a gatos; o açaime não é exigido por lei em nenhum dos sistemas."
+      "introPt": "A rede TPG de Genebra (elétricos, autocarros e as Mouettes, lançadeiras do lago) é pequena, frequente e tolerante a animais. Os cães pequenos numa transportadora fechada viajam grátis; os cães médios e grandes com trela precisam de um bilhete a meia tarifa (cerca de CHF 2 para um simples, ou CHF 5 para um passe diário). Os caminhos de ferro federais suíços (CFF/SBB) aplicam o mesmo modelo a nível nacional, cães pequenos em transportadora grátis, cães maiores a meia tarifa de segunda classe, com um passe diário de CHF 25 que cobre a maioria dos transportes públicos por toda a Suíça. As regras aplicam-se igualmente a cães e a gatos; o açaime não é exigido por lei em nenhum dos sistemas.",
+      "titleDe": "Mit Haustieren unterwegs in Genf",
+      "introDe": "Genfs TPG-Netz (Straßenbahnen, Busse und die Mouettes-Seeshuttles) ist klein, häufig und haustiertolerant. Kleine Hunde in einer geschlossenen Transportbox fahren kostenlos; mittelgroße und große angeleinte Hunde benötigen ein ermäßigtes Ticket (ca. CHF 2 für eine Einzelfahrt oder CHF 5 für eine Tageskarte). Die Schweizerischen Bundesbahnen (CFF/SBB) betreiben landesweit dasselbe Modell, kleine Hunde in Transportboxen kostenlos, größere Hunde zum halben Preis der 2. Klasse, mit einer CHF-25-Tageskarte, die den Großteil des öffentlichen Verkehrs in der Schweiz abdeckt. Die Regeln gelten gleichermaßen für Hunde und Katzen; Maulkörbe sind gesetzlich in keinem der beiden Systeme vorgeschrieben.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Lake Spots near Geneva",
@@ -272,7 +302,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Quai+Wilson+Geneva",
           "descriptionPt": "A promenade de 1,5 km que segue para norte ao longo da margem direita, da Ponte do Mont-Blanc ao parque Perle du Lac, com faixas de relva, árvores centenárias e acesso direto ao lago em vários pontos. Os cães com trela são bem-vindos o ano inteiro. Fora da zona oficial de banhos de verão dos Bains des Pâquis, a margem de seixos não vigiada ao longo do Quai Wilson é o sítio mais próximo dentro da cidade onde um cão pode entrar na água, melhor na primavera e no outono, quando há menos banhistas.",
           "petPolicyPt": "Cães com trela bem-vindos o ano inteiro; não na zona de banhos vigiada",
-          "tipPt": "Use os degraus mesmo a norte dos Bains des Pâquis para chegar à margem de seixos do lago, é o ponto de acesso mais fácil dentro da cidade para um cão entrar na água sem atravessar o pontão de banhos oficial."
+          "tipPt": "Use os degraus mesmo a norte dos Bains des Pâquis para chegar à margem de seixos do lago, é o ponto de acesso mais fácil dentro da cidade para um cão entrar na água sem atravessar o pontão de banhos oficial.",
+          "descriptionDe": "Die 1,5 km lange Promenade entlang des rechten Ufers nach Norden von der Mont-Blanc-Brücke bis zum Park Perle du Lac, mit Grünstreifen, alten Bäumen und direktem Seezugang an mehreren Stellen. Angeleinte Hunde sind das ganze Jahr über willkommen. Außerhalb der offiziellen sommerlichen Schwimmzone der Bains des Pâquis ist der unbewachte Kiesuferbereich entlang des Quai Wilson die nächstgelegene Stelle in der Stadt, an der ein Hund ins Wasser gehen kann, am besten im Frühling und Herbst, wenn weniger Schwimmer unterwegs sind.",
+          "petPolicyDe": "Angeleinte Hunde das ganze Jahr über willkommen; nicht im bewachten Badebereich",
+          "tipDe": "Nutzen Sie die Stufen direkt nördlich der Bains des Pâquis, um den Kiesuferbereich zu erreichen, es ist der einfachste innerstädtische Zugangspunkt, damit ein Hund ins Wasser gehen kann, ohne den offiziellen Badesteg zu überqueren."
         },
         {
           "name": "Plage de la Bécassine",
@@ -293,7 +326,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+la+Becassine+Excenevex",
           "descriptionPt": "Uma praia gratuita e não vigiada acolhedora para cães do lado francês do Lago de Genebra, com margem de areia e seixos e vistas de volta sobre o lago até ao Jura. Os cães são permitidos o ano inteiro, sem trela na ponta oeste mais tranquila, onde as famílias não se juntam. A cerca de 35 minutos do centro de Genebra de carro pela A40, ou de comboio até Thonon e depois de autocarro.",
           "petPolicyPt": "Cães permitidos o ano inteiro; sem trela na ponta oeste mais tranquila",
-          "tipPt": "Atravesse a fronteira em Thônex com o passaporte europeu do animal à mão, os gendarmes franceses verificam ocasionalmente os animais que regressam de banhos transfronteiriços, e a alfândega suíça verifica o carimbo da raiva no regresso."
+          "tipPt": "Atravesse a fronteira em Thônex com o passaporte europeu do animal à mão, os gendarmes franceses verificam ocasionalmente os animais que regressam de banhos transfronteiriços, e a alfândega suíça verifica o carimbo da raiva no regresso.",
+          "descriptionDe": "Ein kostenloser, unbewachter hundefreundlicher Strand auf der französischen Seite des Genfersees, mit Sand- und Kiesufer und Blick über den See zum Jura. Hunde sind ganzjährig erlaubt, ohne Leine am ruhigeren Westende, wo sich keine Familien versammeln. Etwa 35 Minuten vom Genfer Zentrum mit dem Auto über die A40, oder mit dem Zug nach Thonon und dann mit dem Bus.",
+          "petPolicyDe": "Hunde ganzjährig erlaubt; ohne Leine am ruhigeren Westende",
+          "tipDe": "Überqueren Sie die Grenze bei Thônex mit bereitem EU-Heimtierausweis, die französische Gendarmerie kontrolliert gelegentlich Haustiere bei der Rückkehr von grenzüberschreitenden Schwimmausflügen, und der Schweizer Zoll prüft bei der Rückkehr den Tollwutstempel."
         },
         {
           "name": "Plage de Sciez (côté ouest)",
@@ -314,11 +350,17 @@
           "googleMapsUrl": "https://maps.google.com/?q=Plage+de+Sciez",
           "descriptionPt": "Uma das zonas de praia acolhedoras para cães mais estabelecidas do Lago de Genebra, uma secção designada da praia municipal de Sciez é reservada a cães durante todo o verão, separada da zona de banhos das famílias. Margem de seixos e areia, entrada pouco funda, com orlas relvadas sombreadas. A cerca de 45 minutos para leste de Genebra, na margem francesa.",
           "petPolicyPt": "Secção canina designada aberta no verão; fora de época sem restrições",
-          "tipPt": "Sciez tem água pouco funda que aquece por meados de junho, o melhor local de banhos do Léman para cães receosos de lagos frios; chegue antes das 11:00 para evitar a sobrelotação da praia familiar."
+          "tipPt": "Sciez tem água pouco funda que aquece por meados de junho, o melhor local de banhos do Léman para cães receosos de lagos frios; chegue antes das 11:00 para evitar a sobrelotação da praia familiar.",
+          "descriptionDe": "Einer der etabliertesten hundefreundlichen Strandbereiche am Genfersee, ein ausgewiesener Abschnitt des Gemeindestrands von Sciez ist den ganzen Sommer über für Hunde reserviert, getrennt vom Familienbadebereich. Kies- und Sandufer, flacher Einstieg, mit schattigen Grünstreifen. Etwa 45 Minuten östlich von Genf am französischen Ufer.",
+          "petPolicyDe": "Ausgewiesener Hundebereich im Sommer geöffnet; außerhalb der Saison uneingeschränkt",
+          "tipDe": "Sciez hat flaches Wasser, das sich bis Mitte Juni erwärmt, die beste Genfersee-Schwimmstelle für Hunde, die sich in kaltem Wasser unsicher fühlen; kommen Sie vor 11:00 Uhr, um den Andrang vom Familienstrand zu vermeiden."
         }
       ],
       "titlePt": "Locais à beira-lago acolhedores para cães perto de Genebra",
-      "introPt": "Genebra situa-se na ponta sudoeste do Lago de Genebra (Lac Léman), o maior lago da Europa Ocidental. As duas principais praias vigiadas da cidade, a Genève-Plage e a Baby Plage, proíbem totalmente os cães no verão. Para nadar com o seu cão precisa de sair da cidade, mas as alternativas são fáceis: a margem oeste não vigiada da Rade no inverno, a praia gratuita de Bécassine a 25 minutos de carro do lado francês, ou as praias caninas mais desenvolvidas em redor de Sciez, a 45 minutos para leste na margem francesa. De outubro a abril, a maioria dos locais do lago abre a cães sem restrições."
+      "introPt": "Genebra situa-se na ponta sudoeste do Lago de Genebra (Lac Léman), o maior lago da Europa Ocidental. As duas principais praias vigiadas da cidade, a Genève-Plage e a Baby Plage, proíbem totalmente os cães no verão. Para nadar com o seu cão precisa de sair da cidade, mas as alternativas são fáceis: a margem oeste não vigiada da Rade no inverno, a praia gratuita de Bécassine a 25 minutos de carro do lado francês, ou as praias caninas mais desenvolvidas em redor de Sciez, a 45 minutos para leste na margem francesa. De outubro a abril, a maioria dos locais do lago abre a cães sem restrições.",
+      "titleDe": "Hundefreundliche Seestellen bei Genf",
+      "introDe": "Genf liegt an der südwestlichen Spitze des Genfersees (Lac Léman), des größten Sees Westeuropas. Die beiden bewachten Hauptstrände der Stadt, Genève-Plage und Baby Plage, verbieten Hunde im Sommer vollständig. Um mit Ihrem Hund zu schwimmen, müssen Sie die Stadt verlassen, doch die Alternativen sind einfach: das unbewachte Westufer der Rade im Winter, der freie Strand Bécassine 25 Autominuten auf der französischen Seite, oder die stärker ausgebauten Hundestrände rund um Sciez 45 Minuten östlich am französischen Ufer. Von Oktober bis April sind die meisten Seestellen uneingeschränkt für Hunde zugänglich.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Geneva, Veterinary Clinics & Pet Care",
@@ -348,7 +390,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=EVC+Paquis+Geneva",
           "descriptionPt": "Um centro de urgência privado 24/7 sem marcação no rés do chão perto da Place des Alpes, em frente ao Square du Mont-Blanc, a opção mais central de Genebra. Apenas sem marcação, sem consultas marcadas; triagem de urgência a partir do momento em que chega. Usado pela comunidade estrangeira de Genebra como recurso por norma para emergências de animais fora de horas.",
           "petPolicyPt": "Todas as espécies; sem marcação 24/7; não é preciso marcação",
-          "tipPt": "A distância a pé dos hotéis de Pâquis (Bristol, Edelweiss, Beau-Rivage). Leve o passaporte europeu do animal e qualquer embalagem de medicação atual, os veterinários suíços substituem muitas vezes por receitas locais equivalentes."
+          "tipPt": "A distância a pé dos hotéis de Pâquis (Bristol, Edelweiss, Beau-Rivage). Leve o passaporte europeu do animal e qualquer embalagem de medicação atual, os veterinários suíços substituem muitas vezes por receitas locais equivalentes.",
+          "descriptionDe": "Ein privates 24/7-Notfallzentrum ohne Terminvereinbarung im Erdgeschoss nahe der Place des Alpes, gegenüber dem Square du Mont-Blanc, die zentralste Option in Genf. Nur ohne Termin, keine Terminvereinbarung; Notfall-Triage vom Moment Ihrer Ankunft an. Wird von der Genfer Expat-Gemeinschaft als Standardoption für Haustiernotfälle außerhalb der Öffnungszeiten genutzt.",
+          "petPolicyDe": "Alle Tierarten; ohne Termin rund um die Uhr; keine Terminvereinbarung nötig",
+          "tipDe": "Fußläufig von den Hotels in Pâquis erreichbar (Bristol, Edelweiss, Beau-Rivage). Bringen Sie Ihren EU-Heimtierausweis und die Verpackung aktueller Medikamente mit, Schweizer Tierärzte ersetzen diese oft durch gleichwertige lokale Verschreibungen."
         },
         {
           "name": "Clinique vétérinaire Vétélys",
@@ -370,7 +415,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+Vetelys+Vernier",
           "descriptionPt": "Uma clínica veterinária de serviço completo no bairro de Blandonnet, perto do aeroporto, que oferece cobertura de urgência 24/7, cirurgia, medicina interna e consultas de especialidade. Contactável pelo +41 22 719 10 10 a qualquer hora. Acesso fácil de elétrico 14 ou 18 (paragem Blandonnet) e prática para viajantes alojados perto do aeroporto ou para partidas de manhã cedo.",
           "petPolicyPt": "Todas as espécies; urgências 24/7; telefone primeiro se possível",
-          "tipPt": "Melhor escolha se estiver alojado perto do aeroporto ou se vier de carro de França, telefone com antecedência para que o veterinário de serviço esteja pronto quando chegar."
+          "tipPt": "Melhor escolha se estiver alojado perto do aeroporto ou se vier de carro de França, telefone com antecedência para que o veterinário de serviço esteja pronto quando chegar.",
+          "descriptionDe": "Eine Vollservice-Tierklinik im Blandonnet-Viertel nahe dem Flughafen, mit 24/7-Notfallversorgung, Chirurgie, Innerer Medizin und Facharztberatungen. Rund um die Uhr erreichbar unter +41 22 719 10 10. Einfach zu erreichen mit Straßenbahn 14 oder 18 (Haltestelle Blandonnet) und praktisch für Reisende, die nahe dem Flughafen übernachten oder frühmorgens abreisen.",
+          "petPolicyDe": "Alle Tierarten; 24/7-Notfälle; nach Möglichkeit vorher anrufen",
+          "tipDe": "Beste Wahl, wenn Sie nahe dem Flughafen übernachten oder aus Frankreich anreisen, rufen Sie vorher an, damit der diensthabende Tierarzt bei Ihrer Ankunft bereit ist."
         },
         {
           "name": "UVRG, Réseau d'urgences vétérinaires Genève",
@@ -392,11 +440,17 @@
           "googleMapsUrl": "",
           "descriptionPt": "A escala cantonal oficial de prevenção de 18 clínicas veterinárias de Genebra para serões, fins de semana e feriados. Um único número, +41 22 757 24 24, liga-o ao veterinário de turno da noite, que faz a triagem por telefone e o recebe na sua clínica ou o encaminha para um centro de urgência. Útil quando o EVC central tem muito movimento.",
           "petPolicyPt": "Todas as espécies; serviço de prevenção com triagem por telefone",
-          "tipPt": "Guarde o número +41 22 757 24 24 no telemóvel antes de chegar, é o recurso cantonal de reserva se a fila sem marcação do EVC for longa ou se estiver fora do centro de Genebra."
+          "tipPt": "Guarde o número +41 22 757 24 24 no telemóvel antes de chegar, é o recurso cantonal de reserva se a fila sem marcação do EVC for longa ou se estiver fora do centro de Genebra.",
+          "descriptionDe": "Das offizielle kantonale Bereitschaftssystem von 18 Genfer Tierarztpraxen für Abende, Wochenenden und Feiertage. Eine Nummer, +41 22 757 24 24, verbindet Sie mit dem diensthabenden Tierarzt für die Nacht, der telefonisch die Triage vornimmt und Sie entweder in seiner Praxis empfängt oder an ein Notfallzentrum verweist. Nützlich, wenn das zentrale EVC ausgelastet ist.",
+          "petPolicyDe": "Alle Tierarten; telefonisch triagierter Bereitschaftsdienst",
+          "tipDe": "Speichern Sie die Nummer +41 22 757 24 24 vor der Anreise auf Ihrem Handy, sie ist die kantonale Rückfalloption, wenn die Warteschlange beim EVC lang ist oder Sie sich außerhalb des Genfer Zentrums befinden."
         }
       ],
       "titlePt": "Veterinários de urgência em Genebra, clínicas veterinárias e cuidados a animais",
-      "introPt": "Genebra tem excelente infraestrutura veterinária. Dois centros de urgência privados 24/7 (o EVC em Pâquis e o Vétélys em Blandonnet) cobrem o cantão, além da rede cantonal de prevenção UVRG de 18 clínicas para serões e fins de semana. Os animais da UE que entram na Suíça vindos de países da UE/EEE precisam de um passaporte europeu válido com vacinação antirrábica, sem quarentena. Os custos na Suíça são notavelmente mais altos do que na vizinha França ou na Itália, por isso confirme se o seu seguro de viagem para animais cobre a Suíça antes de chegar."
+      "introPt": "Genebra tem excelente infraestrutura veterinária. Dois centros de urgência privados 24/7 (o EVC em Pâquis e o Vétélys em Blandonnet) cobrem o cantão, além da rede cantonal de prevenção UVRG de 18 clínicas para serões e fins de semana. Os animais da UE que entram na Suíça vindos de países da UE/EEE precisam de um passaporte europeu válido com vacinação antirrábica, sem quarentena. Os custos na Suíça são notavelmente mais altos do que na vizinha França ou na Itália, por isso confirme se o seu seguro de viagem para animais cobre a Suíça antes de chegar.",
+      "titleDe": "Notfall-Tierärzte in Genf, Tierkliniken & Haustierbetreuung",
+      "introDe": "Genf verfügt über eine hervorragende tierärztliche Infrastruktur. Zwei private 24/7-Notfallzentren (EVC in Pâquis und Vétélys in Blandonnet) decken den Kanton ab, dazu das kantonale Bereitschaftsnetzwerk UVRG mit 18 Praxen für Abende und Wochenenden. EU-Haustiere, die aus EU/EWR-Ländern in die Schweiz einreisen, benötigen einen gültigen EU-Heimtierausweis mit Tollwutimpfung, keine Quarantäne. Die Kosten in der Schweiz sind deutlich höher als im benachbarten Frankreich oder Italien, bestätigen Sie daher vor der Anreise, dass Ihre Haustierreiseversicherung die Schweiz abdeckt.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Pet Travel Tips for Geneva",
@@ -459,7 +513,10 @@
         }
       ],
       "titlePt": "Dicas de viagem com animais para Genebra",
-      "introPt": "Genebra mostra-se invulgarmente bem equipada para donos de animais em viagem, a lei suíça é permissiva, a cidade é compacta e percorre-se a pé, e a maioria dos hotéis do segmento superior tem rotinas estabelecidas para animais. Vale a pena conhecer um punhado de regras locais e restrições sazonais antes de chegar."
+      "introPt": "Genebra mostra-se invulgarmente bem equipada para donos de animais em viagem, a lei suíça é permissiva, a cidade é compacta e percorre-se a pé, e a maioria dos hotéis do segmento superior tem rotinas estabelecidas para animais. Vale a pena conhecer um punhado de regras locais e restrições sazonais antes de chegar.",
+      "titleDe": "Reisetipps für Haustiere in Genf",
+      "introDe": "Genf ist für reisende Haustierbesitzer ungewöhnlich gut ausgestattet, das Schweizer Recht ist großzügig, die Stadt ist kompakt und zu Fuß gut zu erkunden, und die meisten Hotels im oberen Segment haben feste Abläufe für Haustiere. Ein paar lokale Regeln und saisonale Einschränkungen sollte man vor der Anreise kennen.",
+      "faqsDe": []
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Geneva",
@@ -488,7 +545,8 @@
           "googleMapsUrl": "https://maps.google.com/?q=Jet+d+Eau+Geneva",
           "descriptionPt": "A coluna de água emblemática de Genebra ergue-se 140 metros a partir do lago, na extremidade sul da Ponte do Mont-Blanc. O pontão que pode percorrer a pé até à base é totalmente acessível a cães (com trela) e oferece a abordagem mais fotografável. Atenção aos dias de vento forte, quando os salpicos encharcam o pontão, divertido para alguns cães, miserável para outros.",
           "petPolicyPt": "Cães com trela bem-vindos no pontão",
-          "tipPt": "Percorra o pontão ao fim do serão, o Jet fica iluminado e muito mais tranquilo do que a meio da tarde, quando autocarros cheios de turistas bloqueiam o passadiço estreito."
+          "tipPt": "Percorra o pontão ao fim do serão, o Jet fica iluminado e muito mais tranquilo do que a meio da tarde, quando autocarros cheios de turistas bloqueiam o passadiço estreito.",
+          "descriptionDe": "Genfs charakteristische Wasserfontäne steigt 140 Meter aus dem See am südlichen Ende der Mont-Blanc-Brücke. Der Steg, den Sie bis zur Basis entlanggehen können, ist vollständig mit Hund (angeleint) zugänglich und bietet den fotogensten Blickwinkel. Achten Sie an windigen Tagen darauf, dass die Gischt den Steg durchnässt, für manche Hunde unterhaltsam, für andere unangenehm."
         },
         {
           "name": "Vieille-Ville et Cathédrale Saint-Pierre",
@@ -509,7 +567,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Place+du+Bourg-de-Four+Geneva",
           "descriptionPt": "O maior centro histórico da Suíça, um labirinto no alto de uma colina de ruelas de calçada, lojas de antiguidades e pequenas praças em redor da Place du Bourg-de-Four e da Cathédrale Saint-Pierre. Os cães com trela são bem-vindos por todas as ruas e praças; não são permitidos dentro da catedral nem no sítio arqueológico, mas a esplanada da catedral, com a sua vista panorâmica sobre a cidade, abre totalmente a eles.",
           "petPolicyPt": "Cães com trela bem-vindos nas ruas e praças; não dentro da catedral",
-          "tipPt": "Combine um passeio matinal pelo Centro Histórico com o mercado de velharias de sábado na Place du Bourg-de-Four, mais calmo do que o de Plainpalais e muito tolerante a cães."
+          "tipPt": "Combine um passeio matinal pelo Centro Histórico com o mercado de velharias de sábado na Place du Bourg-de-Four, mais calmo do que o de Plainpalais e muito tolerante a cães.",
+          "descriptionDe": "Die größte historische Altstadt der Schweiz, ein hügeliges Labyrinth aus Kopfsteinpflastergassen, Antiquitätengeschäften und kleinen Plätzen rund um die Place du Bourg-de-Four und die Kathedrale Saint-Pierre. Angeleinte Hunde sind überall in den Straßen und auf den Plätzen willkommen; sie sind nicht in der Kathedrale oder der archäologischen Stätte erlaubt, doch die Kathedralenesplanade mit ihrem Panoramablick über die Stadt ist vollständig für sie zugänglich.",
+          "petPolicyDe": "Angeleinte Hunde in Straßen und auf Plätzen willkommen; nicht in der Kathedrale",
+          "tipDe": "Kombinieren Sie einen Vormittagsspaziergang durch die Altstadt mit dem Samstagsflohmarkt auf der Place du Bourg-de-Four, ruhiger als Plainpalais und sehr hundetolerant."
         },
         {
           "name": "Carouge",
@@ -530,11 +591,17 @@
           "googleMapsUrl": "https://maps.google.com/?q=Place+du+Marche+Carouge",
           "descriptionPt": "A cidade-irmã boémia de Genebra: um quarteirão sardo planeado do século XVIII mesmo a sul do Arve, com edifícios de baixa altura em tons pastel, pátios interiores, boutiques independentes e uma série de bistrôs acolhedores para cães em redor da Place du Marché. Três elétricos (12, 18) ligam-no ao centro em 8 minutos. O mercado de quarta e sábado de manhã é um ritual de Genebra e há cães por todo o lado.",
           "petPolicyPt": "Cães com trela bem-vindos em toda a extensão; muitas esplanadas acolhedoras para cães",
-          "tipPt": "Percorra o circuito Place du Marché, Rue Saint-Joseph, Place du Temple, Boulevard des Promenades para uma volta acolhedora para cães de 30 minutos pelas ruas mais bonitas."
+          "tipPt": "Percorra o circuito Place du Marché, Rue Saint-Joseph, Place du Temple, Boulevard des Promenades para uma volta acolhedora para cães de 30 minutos pelas ruas mais bonitas.",
+          "descriptionDe": "Genfs bohemienhafte Schwesterstadt: ein geplantes sardisches Viertel aus dem 18. Jahrhundert direkt südlich der Arve, mit niedrigen pastellfarbenen Gebäuden, Innenhöfen, unabhängigen Boutiquen und einer Reihe hundefreundlicher Bistros rund um die Place du Marché. Drei Straßenbahnen (12, 18) verbinden es in 8 Minuten mit dem Zentrum. Der Markt am Mittwoch- und Samstagvormittag ist ein Genfer Ritual, und überall sind Hunde zu sehen.",
+          "petPolicyDe": "Angeleinte Hunde überall willkommen; viele Terrassen hundefreundlich",
+          "tipDe": "Gehen Sie die Runde Place du Marché → Rue Saint-Joseph → Place du Temple → Boulevard des Promenades für eine 30-minütige hundefreundliche Tour durch die schönsten Straßen."
         }
       ],
       "titlePt": "Atrações pet-friendly em Genebra",
-      "introPt": "A maioria dos pontos de interesse icónicos de Genebra são ao ar livre e inteiramente percorríveis a pé com um cão: o Jet d'Eau, a Ponte do Mont-Blanc, o Centro Histórico e a esplanada da sua Cathédrale Saint-Pierre, os Quais à beira-lago e o boémio bairro de Carouge. Os museus interiores (Patek Philippe, MAMCO, Cruz Vermelha) em geral não admitem cães, exceto animais de assistência, mas concentram-se em zonas do centro percorríveis a pé que combinam bem com um longo circuito de parque ou de beira-lago de um e outro lado de uma visita."
+      "introPt": "A maioria dos pontos de interesse icónicos de Genebra são ao ar livre e inteiramente percorríveis a pé com um cão: o Jet d'Eau, a Ponte do Mont-Blanc, o Centro Histórico e a esplanada da sua Cathédrale Saint-Pierre, os Quais à beira-lago e o boémio bairro de Carouge. Os museus interiores (Patek Philippe, MAMCO, Cruz Vermelha) em geral não admitem cães, exceto animais de assistência, mas concentram-se em zonas do centro percorríveis a pé que combinam bem com um longo circuito de parque ou de beira-lago de um e outro lado de uma visita.",
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Genf",
+      "introDe": "Die meisten der ikonischen Sehenswürdigkeiten Genfs liegen im Freien und sind mit Hund vollständig zu Fuß erreichbar: der Jet d'Eau, die Mont-Blanc-Brücke, die Altstadt mit der Esplanade der Kathedrale Saint-Pierre, die Uferpromenaden Quais und das bohemienhafte Viertel Carouge. Museen im Innenbereich (Patek Philippe, MAMCO, Rotes Kreuz) lassen in der Regel keine Hunde außer Assistenzhunde zu, liegen aber in fußläufig gut erreichbaren Teilen des Zentrums, die sich gut mit einer langen Runde im Park oder am Ufer vor oder nach dem Besuch kombinieren lassen.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet-Sitting Services in Geneva",
@@ -563,7 +630,10 @@
           "googleMapsUrl": "",
           "descriptionPt": "A versão suíça localizada da plataforma europeia de pet-sitting, com cuidadores por todo o cantão de Genebra que oferecem passeios, visitas ao domicílio e alojamento noturno na sua própria casa. Todos os cuidadores têm perfil verificado, com comentários em francês e inglês. Os preços rondam habitualmente os CHF 20–35 por um passeio de 30 minutos, e os CHF 40–60 por noite de alojamento.",
           "petPolicyPt": "Cães e gatos; os perfis dos cuidadores indicam quaisquer limites de raça/tamanho",
-          "tipPt": "Filtre por cuidadores no bairro do seu hotel (Pâquis, Eaux-Vives, Carouge) para reduzir o tempo de deslocação, Genebra é pequena e um cuidador do mesmo bairro costuma significar distância a pé para a entrega."
+          "tipPt": "Filtre por cuidadores no bairro do seu hotel (Pâquis, Eaux-Vives, Carouge) para reduzir o tempo de deslocação, Genebra é pequena e um cuidador do mesmo bairro costuma significar distância a pé para a entrega.",
+          "descriptionDe": "Die schweizerisch lokalisierte Version der europäischen Plattform für Haustierbetreuung, mit Betreuern im gesamten Kanton Genf, die Spaziergänge, Kurzbesuche und Übernacht-Tierpension in ihrem eigenen Zuhause anbieten. Alle Betreuer sind profilverifiziert mit Bewertungen auf Französisch und Englisch. Preise liegen typischerweise bei CHF 20–35 für einen 30-minütigen Spaziergang, CHF 40–60 pro Nacht für die Pension.",
+          "petPolicyDe": "Hunde und Katzen; Betreuerprofile listen etwaige Rassen-/Größenbeschränkungen",
+          "tipDe": "Filtern Sie nach Betreuern in Ihrem Hotelviertel (Pâquis, Eaux-Vives, Carouge), um die Wegzeit zu minimieren, Genf ist klein, und ein Betreuer im gleichen Viertel bedeutet meist fußläufige Übergabe."
         },
         {
           "name": "Petsitting24",
@@ -584,7 +654,10 @@
           "googleMapsUrl": "",
           "descriptionPt": "Um mercado de pet-sitting só suíço com a maior oferta de cuidadores do cantão de Genebra. Registo gratuito para os donos, tarifas transparentes e contacto direto entre dono e cuidador (sem sistema de comissões). Útil quando quer reservas repetidas e flexíveis durante uma estadia de vários dias.",
           "petPolicyPt": "Todos os animais; os perfis indicam quaisquer restrições",
-          "tipPt": "Contacte dois ou três cuidadores com antecedência para uma estadia longa, os cuidadores de Genebra ficam reservados durante as conferências internacionais (OMS, OMC, sessões da ONU) e a disponibilidade de última hora é mais difícil."
+          "tipPt": "Contacte dois ou três cuidadores com antecedência para uma estadia longa, os cuidadores de Genebra ficam reservados durante as conferências internacionais (OMS, OMC, sessões da ONU) e a disponibilidade de última hora é mais difícil.",
+          "descriptionDe": "Ein rein schweizerischer Marktplatz für Haustierbetreuung mit dem größten Betreuerpool im Kanton Genf. Kostenlose Registrierung für Besitzer, transparente Preise und direkter Kontakt zwischen Besitzer und Betreuer (kein Provisionssystem). Nützlich, wenn Sie flexible wiederholte Buchungen während eines mehrtägigen Aufenthalts wünschen.",
+          "petPolicyDe": "Alle Haustiere; Profile listen etwaige Einschränkungen",
+          "tipDe": "Kontaktieren Sie für einen längeren Aufenthalt zwei oder drei Betreuer im Voraus, Genfer Betreuer sind während internationaler Konferenzen (WHO, WTO, UN-Sitzungen) ausgebucht, und kurzfristige Verfügbarkeit ist schwerer zu finden."
         },
         {
           "name": "PetBacker Geneva",
@@ -605,11 +678,17 @@
           "googleMapsUrl": "",
           "descriptionPt": "Plataforma internacional de cuidados a animais com cuidadores locais ativos em Genebra, incluindo passeio de cães, creche de dia e alojamento noturno com passeios rastreados por GPS e proteção de pagamento integrada. Os perfis incluem as línguas do cuidador, as raças aceites e fotos da casa. Útil para visitantes internacionais que queiram uma marca global familiar.",
           "petPolicyPt": "Todos os animais; proteção de pagamento e rastreio por GPS",
-          "tipPt": "O rastreio por GPS ajuda no centro de Genebra a confirmar que o passeio aconteceu mesmo, reserve o primeiro passeio como uma curta sessão de teste antes de avançar para o alojamento noturno."
+          "tipPt": "O rastreio por GPS ajuda no centro de Genebra a confirmar que o passeio aconteceu mesmo, reserve o primeiro passeio como uma curta sessão de teste antes de avançar para o alojamento noturno.",
+          "descriptionDe": "Internationale Plattform für Haustierbetreuung mit aktiven lokalen Betreuern in Genf, einschließlich Gassigehen, Tagesbetreuung und Übernacht-Tierpension mit GPS-verfolgten Spaziergängen und integriertem Zahlungsschutz. Profile enthalten Sprachen der Betreuer, akzeptierte Rassen und Fotos vom Zuhause. Nützlich für internationale Besucher, die eine vertraute globale Marke wünschen.",
+          "petPolicyDe": "Alle Haustiere; Zahlungsschutz und GPS-Tracking",
+          "tipDe": "GPS-Tracking ist im Genfer Zentrum hilfreich, um zu bestätigen, dass der Spaziergang tatsächlich stattgefunden hat, buchen Sie den ersten Spaziergang als kurze Testsitzung, bevor Sie sich auf eine Übernacht-Tierpension festlegen."
         }
       ],
       "titlePt": "Serviços de pet-sitting em Genebra",
-      "introPt": "Para reuniões diplomáticas, visitas a museus ou jantares em restaurantes onde os cães não são admitidos, estas plataformas de pet-sitting operam por todo o cantão de Genebra com cuidadores verificados e multilíngues. A maioria dos cuidadores de Genebra fala francês e inglês, e muitos também italiano, espanhol ou alemão, dada a população internacional da cidade."
+      "introPt": "Para reuniões diplomáticas, visitas a museus ou jantares em restaurantes onde os cães não são admitidos, estas plataformas de pet-sitting operam por todo o cantão de Genebra com cuidadores verificados e multilíngues. A maioria dos cuidadores de Genebra fala francês e inglês, e muitos também italiano, espanhol ou alemão, dada a população internacional da cidade.",
+      "titleDe": "Haustierbetreuung in Genf",
+      "introDe": "Für diplomatische Treffen, Museumsbesuche oder Restaurantabende, bei denen Hunde nicht zugelassen sind, sind diese Plattformen für Haustierbetreuung im gesamten Kanton Genf mit verifizierten, mehrsprachigen Betreuern aktiv. Die meisten Genfer Betreuer sprechen Französisch und Englisch, viele auch Italienisch, Spanisch oder Deutsch angesichts der internationalen Bevölkerung der Stadt.",
+      "faqsDe": []
     }
   }
 }

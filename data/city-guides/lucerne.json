@@ -37,7 +37,11 @@
           "descriptionPt": "Brasserie parisiense escondida por trás do Kornmarkt, com bancos de couro vermelho, ostras, bife com batatas fritas e uma das cartas de vinhos mais sérias de Lucerna. Há muito um clássico entre os clientes francófonos da cidade.",
           "petPolicyPt": "Cães com trela bem-vindos na esplanada e na sala de jantar",
           "mustTryPt": "Plateau d'huîtres, entrecôte café de Paris, tarte tatin",
-          "tipPt": "Reserve um banco de canto para dois, o espaço é estreito, por isso os cães médios a grandes acomodam-se melhor entre a parede do fundo e o balcão."
+          "tipPt": "Reserve um banco de canto para dois, o espaço é estreito, por isso os cães médios a grandes acomodam-se melhor entre a parede do fundo e o balcão.",
+          "descriptionDe": "Pariser Brasserie versteckt hinter dem Kornmarkt mit roten Lederbänken, Austern, Steak frites und einer der ernsthaftesten Weinkarten Luzerns. Ein langjähriger Fixpunkt unter den frankophonen Gästen der Stadt.",
+          "petPolicyDe": "Angeleinte Hunde willkommen auf der Terrasse und im Speisesaal",
+          "mustTryDe": "Plateau d'huîtres, Entrecôte café de Paris, Tarte Tatin",
+          "tipDe": "Reservieren Sie eine Ecknische für zwei, der schmale Raum bedeutet, dass mittelgroße bis große Hunde leichter zwischen Rückwand und Bar Platz finden."
         },
         {
           "name": "Restaurant Bündnerland",
@@ -63,7 +67,11 @@
           "descriptionPt": "Pequena estalagem dos Grisões a três quarteirões a sul da estação, que serve capuns, pizokel, Bündnerfleisch e especialidades alpinas rústicas numa Stube revestida a madeira. Familiar e abertamente orgulhosa de ser um dos endereços mais acolhedores para cães da cidade.",
           "petPolicyPt": "Cães bem-vindos no interior o ano inteiro; taça de água servida à chegada",
           "mustTryPt": "Capuns, Bündner Pizokel, tábua de Bündnerfleisch",
-          "tipPt": "Encerra domingo e segunda-feira, e os capuns esgotam por volta das 13:00 ao almoço de sábado. Chegue ao meio-dia em ponto."
+          "tipPt": "Encerra domingo e segunda-feira, e os capuns esgotam por volta das 13:00 ao almoço de sábado. Chegue ao meio-dia em ponto.",
+          "descriptionDe": "Kleines Bündner Gasthaus drei Blocks südlich des Bahnhofs, serviert Capuns, Pizokel, Bündnerfleisch und rustikale alpine Spezialitäten in einer holzvertäfelten Stube. Familienbetrieb, offen stolz darauf, eine der hundefreundlichsten Adressen der Stadt zu sein.",
+          "petPolicyDe": "Hunde ganzjährig drinnen willkommen; Wassernapf wird bei Ankunft serviert",
+          "mustTryDe": "Capuns, Bündner Pizokel, Bündnerfleisch-Teller",
+          "tipDe": "Sonntag und Montag geschlossen, und die Capuns sind samstags mittags oft schon um 13 Uhr ausverkauft. Kommen Sie pünktlich um 12 Uhr."
         },
         {
           "name": "Restaurant Wirtshaus Galliker",
@@ -89,7 +97,11 @@
           "descriptionPt": "Instituição familiar de Lucerna desde 1856, famosa pelo chügelipastetli, pela kuttelsuppe e pela Hopfenperle envelhecida em madeira a copo. A sala de jantar não mudou em cinquenta anos, toalhas aos quadrados, madeira escura, tachos de cobre na parede.",
           "petPolicyPt": "Cães calmos com trela bem-vindos na Stube e lá fora",
           "mustTryPt": "Chügelipastetli, kuttelsuppe de Lucerna, tarte de maçã Galliker",
-          "tipPt": "Preferem dinheiro e a reserva é imprescindível depois das 19:30; os cães pequenos encaixam debaixo das mesas de canto, os grandes ficam melhor na sala dos fundos."
+          "tipPt": "Preferem dinheiro e a reserva é imprescindível depois das 19:30; os cães pequenos encaixam debaixo das mesas de canto, os grandes ficam melhor na sala dos fundos.",
+          "descriptionDe": "Familiengeführte Luzerner Institution seit 1856, berühmt für Chügelipastetli, Kuttelsuppe und fassgereiftes Hopfenperle vom Fass. Der Speisesaal hat sich seit fünfzig Jahren nicht verändert, karierte Tischdecken, dunkles Holz, Kupferpfannen an der Wand.",
+          "petPolicyDe": "Wohlerzogene, angeleinte Hunde willkommen in der Stube und draußen",
+          "mustTryDe": "Chügelipastetli, Luzerner Kuttelsuppe, Galliker Apfelwähe",
+          "tipDe": "Bargeld bevorzugt, und nach 19:30 Uhr sind Reservierungen unerlässlich; kleine Hunde passen unter die Ecktische, große Hunde besser in den Hinterraum."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Tenho de pagar um suplemento pelo meu cão num restaurante?",
           "a": "Não. Os restaurantes suíços não cobram pelos animais, e uma taça de água de cortesia é o padrão. Uma gorjeta habitual de 5 a 10% ao empregado de mesa é apreciada se o seu cão foi mimado."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Luzern, Seeterrassen & Altstadt-Bistros",
+      "introDe": "Luzern geht für eine Schweizer Stadt ungewöhnlich entspannt mit Hunden in Restaurants um: Die meisten Seeterrassen, Altstadt-Brasserien und traditionellen Stuben servieren Wassernäpfe, ohne dass man fragen muss. Falstaff listet 17 Lokale, die Hunde ausdrücklich willkommen heißen, und einige lassen sie das ganze Jahr über auch drinnen sitzen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Luzerner Restaurants erlaubt?",
+          "a": "Ja, in den meisten Fällen. Luzern ist hundefreundlicher als Zürich oder Genf: Terrassen sind durchweg offen, und viele Stuben erlauben ganzjährig Sitzplätze im Innenbereich. Fragen Sie immer an der Tür, Ablehnungen sind selten und meist auf Fine-Dining-Degustationsmenüs beschränkt."
+        },
+        {
+          "q": "Muss ich für meinen Hund im Restaurant extra bezahlen?",
+          "a": "Nein. Schweizer Restaurants berechnen nichts für Haustiere, und ein kostenloser Wassernapf ist Standard. Ein Trinkgeld von den üblichen 5-10% wird geschätzt, wenn sich das Personal um Ihren Hund gekümmert hat."
+        }
       ]
     },
     "parks": {
@@ -201,7 +225,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Inseli+Park+Luzern",
           "descriptionPt": "Pequeno parque junto ao lago mesmo por trás da estação de comboios, marcado por uma escultura de Niki de Saint Phalle e bancos junto à água. A cinco minutos de qualquer hotel da Bahnhof, perfeito para uma rápida farejadela à beira do lago antes de apanhar um comboio.",
           "petPolicyPt": "Trela obrigatória; o acesso à água do lago ao longo do muro de proteção é permitido",
-          "tipPt": "O cais acolhe os barcos de cruzeiro pelo lago da SGV, a maioria aceita cães gratuitamente, uma excelente forma de combinar uma visita ao parque com um rápido passeio pitoresco."
+          "tipPt": "O cais acolhe os barcos de cruzeiro pelo lago da SGV, a maioria aceita cães gratuitamente, uma excelente forma de combinar uma visita ao parque com um rápido passeio pitoresco.",
+          "descriptionDe": "Kleiner Seepark direkt hinter dem Bahnhof, verankert durch eine Skulptur von Niki de Saint Phalle und Uferbänke. Fünf Minuten von jedem Bahnhofshotel entfernt, perfekt für ein kurzes Schnuppern am Seeufer vor dem Zugfahren.",
+          "petPolicyDe": "Leinenpflicht; Zugang zum Seewasser entlang der Kaimauer erlaubt",
+          "tipDe": "Vom Pier legen die SGV-Seeschiffe ab, die meisten nehmen Hunde kostenlos mit, eine ausgezeichnete Art, einen Parkbesuch mit einer kurzen, malerischen Fahrt zu verbinden."
         },
         {
           "name": "Sonnenberg Forest",
@@ -284,6 +311,18 @@
         {
           "q": "Os passeios à beira-lago de Lucerna são acolhedores para cães?",
           "a": "Sim, a frente de água do Schweizerhofquai, do Nationalquai e do Inseli acolhe cães com trela o ano inteiro. O acesso à água do lago é permitido a partir do muro de proteção fora das zonas de banho designadas, mas verifique as regras do Lido e do Ufschötti no verão."
+        }
+      ],
+      "titleDe": "Die besten Parks & Freilaufzonen in Luzern",
+      "introDe": "Luzern liegt zwischen dem Vierwaldstättersee und dem bewaldeten Höhenzug des Sonnenbergs, sodass Grünflächen näher liegen als in den meisten Schweizer Städten. Die Stadt unterhält einige eingezäunte oder ausgeschilderte Freilaufzonen, und die umliegenden Wälder von Allmend, Sonnenberg und Eichwäldli sind mit Leine haustierfreundlich, vom 1. April bis 31. Juli (Bodenbrüter-Saison).",
+      "faqsDe": [
+        {
+          "q": "Wo dürfen Hunde in Luzern ohne Leine laufen?",
+          "a": "Es gibt keinen eingezäunten Hundeauslauf innerhalb der Stadt. Hunde dürfen am bewaldeten Rand der Allmend, auf den Waldwegen des Sonnenbergs (außerhalb 1. April bis 31. Juli) und im Eichwäldli-Wald ohne Leine laufen, sofern der Rückruf zuverlässig ist. Ansonsten gilt in allen öffentlichen Räumen Leinenpflicht."
+        },
+        {
+          "q": "Sind die Seepromenaden in Luzern hundefreundlich?",
+          "a": "Ja, Schweizerhofquai, Nationalquai und die Uferpromenade Inseli heißen angeleinte Hunde ganzjährig willkommen. Der Zugang zum Seewasser außerhalb der ausgewiesenen Badezonen ist über die Kaimauer erlaubt, prüfen Sie aber im Sommer die Regeln von Lido und Ufschötti."
         }
       ]
     },
@@ -417,6 +456,18 @@
           "q": "Os cães são permitidos no comboio de cremalheira do Pilatus?",
           "a": "Sim. Cães com trela e bem comportados viajam com bilhete a meio preço; o teleférico a partir de Kriens aceita cães gratuitamente. O comboio de cremalheira só funciona entre maio e novembro; fora desse período, use o teleférico."
         }
+      ],
+      "titleDe": "Mit dem Hund unterwegs in Luzern, Transport & Mobilität",
+      "introDe": "Die Schweiz hat klare, landesweite Haustierregeln im öffentlichen Verkehr, und Luzern liegt innerhalb des Passepartout-Tarifverbunds für Züge, Busse, Schiffe sowie die Zahnradbahnen auf Pilatus und Rigi. Der Tagespass für Hunde (CHF 25) deckt an einem Tag alles ab, überall in der Schweiz, das beste Angebot Europas für eine Mehrberg-Tour mit Hund.",
+      "faqsDe": [
+        {
+          "q": "Brauchen Hunde im öffentlichen Verkehr der Schweiz ein Ticket?",
+          "a": "Ja, wenn sie größer als 30 cm Schulterhöhe sind. Kleine Hunde in einer geschlossenen Tragetasche reisen kostenlos. Größere Hunde brauchen für jede Etappe ein 2.-Klasse-Halbtax-Ticket oder einen landesweit gültigen CHF-25-Tagespass für SBB, Regionalbusse, Seeschiffe und die meisten Zahnradbahnen."
+        },
+        {
+          "q": "Sind Hunde auf der Pilatus-Zahnradbahn erlaubt?",
+          "a": "Ja. Angeleinte, wohlerzogene Hunde fahren zum halben Preis mit; die Luftseilbahn ab Kriens nimmt Hunde kostenlos mit. Die Zahnradbahn verkehrt nur zwischen Mai und November; außerhalb dieser Zeit die Luftseilbahn nutzen."
+        }
       ]
     },
     "beaches": {
@@ -445,7 +496,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Tribschen+Luzern",
           "descriptionPt": "A baía de banho para cães mais próxima do centro da cidade, na orla sul do lago, por trás do Museu Wagner de Tribschen. Uma curta praia de seixos com entrada pouco profunda no lago límpido, usada o ano inteiro pelos donos de cães da cidade.",
           "petPolicyPt": "Banho sem trela tolerado o ano inteiro; não é uma zona de banho oficialmente designada",
-          "tipPt": "Combine uma visita ao Museu Wagner com um mergulho do cão, os terrenos do parque Wagner em frente à villa estão abertos e são acolhedores para cães com trela."
+          "tipPt": "Combine uma visita ao Museu Wagner com um mergulho do cão, os terrenos do parque Wagner em frente à villa estão abertos e são acolhedores para cães com trela.",
+          "descriptionDe": "Die nächstgelegene Hunde-Badebucht zum Stadtzentrum, am südlichen Seeufer hinter dem Wagner-Museum Tribschen. Ein kurzer Kiesstrand mit flachem Einstieg in den klaren See, ganzjährig von Stadthunden genutzt.",
+          "petPolicyDe": "Freilauf-Schwimmen ganzjährig toleriert; kein offiziell ausgewiesenes Bad",
+          "tipDe": "Kombinieren Sie einen Besuch des Wagner-Museums mit einem Hundebad, das Parkgelände vor der Villa ist offen und an der Leine hundefreundlich."
         },
         {
           "name": "Würzenbach Lakeshore",
@@ -549,6 +603,18 @@
           "q": "A água do lago é segura para os cães?",
           "a": "Geralmente sim, o Lago de Lucerna é monitorizado semanalmente quanto a E. coli e enterococos intestinais e é classificado de forma consistente como excelente. Evite as proliferações de algas (raras, no fim do verão) e dispense o banho durante 24 h após chuva intensa."
         }
+      ],
+      "titleDe": "Strände am Vierwaldstättersee & Badestellen für Hunde",
+      "introDe": "Der Vierwaldstättersee ist fjordartig, tief, sauber und von Juni bis Anfang September warm genug zum Schwimmen. Hunde sind im Sommer von den offiziellen Bade­zonen Lido und Ufschötti ausgeschlossen, aber das weitere Seeufer bietet mehrere Kiesbuchten und diskrete Einstiegsstellen, an denen Hunde außerhalb der Badesaison frei schwimmen können.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde im Vierwaldstättersee schwimmen?",
+          "a": "Ja, außerhalb der offiziellen Badebereiche. Hunde schwimmen ganzjährig frei bei Tribschen, am Würzenbach-Seeufer und in mehreren Buchten entlang der Uferwege. Innerhalb der kostenpflichtigen Lido- und der kostenlosen Ufschötti-Zone sind Hunde vom 1. Mai bis 30. September verboten."
+        },
+        {
+          "q": "Ist das Seewasser für Hunde unbedenklich?",
+          "a": "Im Allgemeinen ja, der Vierwaldstättersee wird wöchentlich auf E. coli und Enterokokken überwacht und schneidet durchgehend hervorragend ab. Meiden Sie Algenblüten (selten, Spätsommer) und verzichten Sie 24 Stunden nach starkem Regen aufs Schwimmen."
+        }
       ]
     },
     "vets": {
@@ -577,7 +643,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Obergrund+Luzern",
           "descriptionPt": "A maior clínica de pequenos animais de Lucerna, de gestão familiar há mais de 40 anos. Medicina interna, cirurgia, dentária, ecografia, laboratório próprio e farmácia própria. Horário alargado nos dias úteis e consultas ao sábado de manhã.",
           "petPolicyPt": "Atendimento sem marcação durante o horário de abertura; urgências fora do horário encaminhadas pelo atendedor automático para o veterinário de serviço",
-          "tipPt": "Mesmo depois de fechar, ligue para o número principal, o atendedor automático encaminha para o sistema de urgência regional que cobre os cantões de Lucerna, Nidwalden e Obwalden."
+          "tipPt": "Mesmo depois de fechar, ligue para o número principal, o atendedor automático encaminha para o sistema de urgência regional que cobre os cantões de Lucerna, Nidwalden e Obwalden.",
+          "descriptionDe": "Luzerns größte Kleintierklinik, seit über 40 Jahren familiengeführt. Innere Medizin, Chirurgie, Zahnmedizin, Ultraschall, hauseigenes Labor und eigene Apotheke. Erweiterte Öffnungszeiten unter der Woche und Samstagvormittag-Sprechstunden.",
+          "petPolicyDe": "Ohne Termin während der Öffnungszeiten möglich; Notfälle außerhalb der Öffnungszeiten werden über den Anrufbeantworter an den Bereitschaftstierarzt weitergeleitet",
+          "tipDe": "Wählen Sie auch nach Feierabend die Hauptnummer, der Anrufbeantworter leitet an den regionalen Notdienst für die Kantone Luzern, Nidwalden und Obwalden weiter."
         },
         {
           "name": "Tierarztpraxis Kneubühler",
@@ -597,7 +666,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Tierarztpraxis+Kneubuhler+Schwanenplatz+Luzern",
           "descriptionPt": "Consultório de longa data no centro da cidade, dirigido pelo Dr. Arthur Kneubühler, focado em gatos e cães pequenos. Bem localizado mesmo junto às pontes do lago e ao entroncamento de autocarros de Schwanenplatz. Oferece consultas de urgência à noite e ao fim de semana com um agravamento.",
           "petPolicyPt": "Por marcação; urgências sem marcação aceites com agravamento fora do horário",
-          "tipPt": "O veterinário mais central, a 5 minutos a pé de qualquer hotel da cidade velha, guarde o cartão do consultório na carteira desde o primeiro dia de chegada."
+          "tipPt": "O veterinário mais central, a 5 minutos a pé de qualquer hotel da cidade velha, guarde o cartão do consultório na carteira desde o primeiro dia de chegada.",
+          "descriptionDe": "Etablierte Praxis im Stadtzentrum, geführt von Dr. Arthur Kneubühler, spezialisiert auf Katzen und kleine Hunde. Günstig gelegen direkt bei den Seebrücken und dem Busknoten Schwanenplatz. Bietet Nacht- und Wochenend-Notfallsprechstunden gegen Aufpreis.",
+          "petPolicyDe": "Terminbasiert; Notfälle ohne Termin gegen Aufpreis außerhalb der Öffnungszeiten möglich",
+          "tipDe": "Der zentralste Tierarzt, 5 Gehminuten von jedem Altstadthotel entfernt, bewahren Sie die Praxiskarte vom ersten Tag an in Ihrer Brieftasche auf."
         },
         {
           "name": "AniCura Tierspital Zürich (24h, 60 km)",
@@ -617,7 +689,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=AniCura+Tierspital+Zurich",
           "descriptionPt": "O maior hospital de pequenos animais 24 horas da Suíça, a 50 minutos de carro de Lucerna (autoestrada A4-A3) e 65 minutos de comboio SBB mais elétrico a partir da estação principal de Lucerna. Cuidados críticos, unidade de cuidados intensivos, ressonância magnética e cirurgia de urgência disponíveis 24 horas por dia.",
           "petPolicyPt": "Atendimento sem marcação 24/7; recomenda-se ligar antes para alertar a equipa de serviço e confirmar a capacidade",
-          "tipPt": "Guarde +41 44 315 47 47 no telemóvel antes de qualquer viagem à Suíça, é o veterinário com cuidados intensivos 24/7 mais próximo de Lucerna, e a linha nacional da AniCura também o pode reencaminhar para clínicas parceiras mais próximas se Zurique ficar demasiado longe."
+          "tipPt": "Guarde +41 44 315 47 47 no telemóvel antes de qualquer viagem à Suíça, é o veterinário com cuidados intensivos 24/7 mais próximo de Lucerna, e a linha nacional da AniCura também o pode reencaminhar para clínicas parceiras mais próximas se Zurique ficar demasiado longe.",
+          "descriptionDe": "Die größte 24-Stunden-Kleintierklinik der Schweiz, 50 Minuten mit dem Auto von Luzern (Autobahn A4-A3) und 65 Minuten mit SBB-Zug und Tram ab dem Luzerner Hauptbahnhof. Intensivmedizin, Intensivstation, MRT und Notoperationen rund um die Uhr verfügbar.",
+          "petPolicyDe": "Rund um die Uhr ohne Termin; ein Anruf vorab wird empfohlen, um das Bereitschaftsteam zu informieren und die Kapazität zu bestätigen",
+          "tipDe": "Speichern Sie +41 44 315 47 47 vor jeder Schweizreise im Telefon, es ist die nächstgelegene 24/7-Intensivstation für Tiere ab Luzern, und die landesweite AniCura-Hotline kann Sie auch an nähere Partnerkliniken verweisen, falls Zürich zu weit ist."
         }
       ],
       "tipsEn": [
@@ -680,6 +755,18 @@
         {
           "q": "O meu passaporte de animal da UE serve na Suíça?",
           "a": "Sim. A Suíça aceita o passaporte de animal da UE na fronteira em ambos os sentidos, com os requisitos padrão: microchip ISO, vacina antirrábica válida com pelo menos 21 dias, e o tratamento contra a ténia NÃO é exigido para entrar ou sair da Suíça (ao contrário do Reino Unido ou da Irlanda)."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte & 24h-Tierversorgung in Luzern",
+      "introDe": "Luzern hat innerhalb der Stadt keine eigene 24-Stunden-Tierklinik, aber zwei langjährige Praxen kümmern sich mit erweiterten Öffnungszeiten um Kleintiermedizin und Chirurgie, und die Tierklinik Aarau sowie das Universitäre Tierspital Zürich (60 km, nimmt rund um die Uhr Notfälle ohne Voranmeldung an) decken die Nachtschicht ab. Speichern Sie diese Nummern schon vor der Ankunft im Telefon.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in der Stadt Luzern einen 24-Stunden-Tierarzt?",
+          "a": "Nein, innerhalb der Stadt Luzern gibt es keine eigene 24-Stunden-Klinik. Der regionale Notdienst wird über den Anrufbeantworter jeder lokalen Praxis erreicht (Tierklinik Obergrund oder Tierarztpraxis Kneubühler). Die nächste 24/7-Klinik ist das AniCura Tierspital Zürich, 50 Minuten mit dem Auto oder 65 Minuten mit dem Zug."
+        },
+        {
+          "q": "Funktioniert mein EU-Heimtierausweis in der Schweiz?",
+          "a": "Ja. Die Schweiz akzeptiert den EU-Heimtierausweis an der Grenze in beide Richtungen, mit den üblichen Anforderungen: ISO-Mikrochip, gültige Tollwutimpfung mindestens 21 Tage alt, und eine Bandwurmbehandlung ist für die Ein- oder Ausreise in die Schweiz NICHT erforderlich (im Gegensatz zu Großbritannien oder Irland)."
         }
       ]
     },
@@ -756,6 +843,18 @@
           "q": "Os cães são permitidos nos teleféricos e comboios de cremalheira em redor de Lucerna?",
           "a": "Quase universalmente sim. O Pilatus, o Rigi, o Stanserhorn, o Bürgenstock e o Klewenalp aceitam todos cães com trela. Por vezes pede-se um açaime para cães grandes nervosos nos dias de muita afluência. Cães pequenos em transportadora viajam grátis; cães maiores precisam de um bilhete a meio preço ou do passe diário de 25 CHF."
         }
+      ],
+      "titleDe": "Praktische Tipps für den Besuch Luzerns mit Hund",
+      "introDe": "Die Schweiz ist auf dem Papier eines der haustierfreundlichsten Länder Europas, und Luzern hält, was das verspricht. Saubereres Seewasser als im Durchschnitt, gut markierte Wege, hundetolerante Restaurants und ein hervorragender öffentlicher Verkehr. Die vier praktischen Hürden, mit denen Sie rechnen sollten: hohe Tierarztkosten, strenge Leinenpflicht vom 1. April bis 31. Juli, brutal heißes Altstadtpflaster im Juli und August, und der Sprachwechsel von Hochdeutsch zum Dialekt Schwyzerdütsch.",
+      "faqsDe": [
+        {
+          "q": "Welche Dokumente braucht mein Hund für die Einreise in die Schweiz?",
+          "a": "Ein EU-Heimtierausweis (oder gleichwertiges Dokument für Drittstaaten), ein ISO-Mikrochip und eine gültige Tollwutimpfung, die mindestens 21 Tage alt ist. Eine Bandwurmbehandlung ist für die Ein- oder Ausreise in die Schweiz NICHT erforderlich. Hunde aus nicht tollwutfreien Ländern benötigen zusätzliche Serologie, prüfen Sie die BLV-Anforderungen vor der Reise."
+        },
+        {
+          "q": "Sind Hunde in Luftseilbahnen und Zahnradbahnen rund um Luzern erlaubt?",
+          "a": "Fast durchweg ja. Pilatus, Rigi, Stanserhorn, Bürgenstock und Klewenalp nehmen alle angeleinte Hunde mit. An belebten Tagen wird bei nervösen großen Hunden manchmal ein Maulkorb verlangt. Kleine Hunde in der Tragetasche reisen kostenlos; größere Hunde brauchen ein Halbtax-Ticket oder den CHF-25-Tagespass."
+        }
       ]
     },
     "attractions": {
@@ -784,7 +883,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Kapellbrucke+Luzern",
           "descriptionPt": "A ponte de madeira coberta do século XIV que ziguezagueia sobre o Reuss é a mais antiga ponte de treliça da Europa ainda de pé e o emblema de Lucerna. Os painéis triangulares do teto retratam a história da cidade; a octogonal Wasserturm ergue-se a meio do vão. A travessia é gratuita, acolhedora para cães e demora três minutos.",
           "petPolicyPt": "Cães com trela bem-vindos o ano inteiro; leve os cães pequenos ao colo nas horas de maior afluência de verão",
-          "tipPt": "Atravesse às 07:30, a ponte fica vazia, a luz da manhã realça os painéis pintados e o seu cão não será empurrado pelos grupos de excursão. Os cafés com esplanada do lado do Reuss abrem às 08:00."
+          "tipPt": "Atravesse às 07:30, a ponte fica vazia, a luz da manhã realça os painéis pintados e o seu cão não será empurrado pelos grupos de excursão. Os cafés com esplanada do lado do Reuss abrem às 08:00.",
+          "descriptionDe": "Die überdachte Holzbrücke aus dem 14. Jahrhundert, die sich im Zickzack über die Reuss zieht, ist Europas älteste erhaltene Fachwerkbrücke und Luzerns Wahrzeichen. Dreieckige Deckenbilder erzählen die Geschichte der Stadt; der achteckige Wasserturm erhebt sich mittig über der Brücke. Die Überquerung ist kostenlos, hundefreundlich und dauert drei Minuten.",
+          "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen; kleine Hunde bei sommerlichem Hochbetrieb tragen",
+          "tipDe": "Überqueren Sie sie um 07:30 Uhr, die Brücke ist leer, das Morgenlicht trifft die bemalten Deckenbilder, und Ihr Hund wird nicht von Reisegruppen bedrängt. Die Terrassen an der Reuss öffnen um 08:00 Uhr für Kaffee."
         },
         {
           "name": "Lion Monument (Löwendenkmal)",
@@ -804,7 +906,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Lowendenkmal+Luzern",
           "descriptionPt": "O leão moribundo de Bertel Thorvaldsen, de 1820, esculpido diretamente na face da rocha, homenageia os Guardas Suíços mortos a defender as Tulherias em 1792. Mark Twain chamou-lhe 'o pedaço de pedra mais triste e comovente do mundo'. Ao ar livre, gratuito, com um pequeno lago de reflexo.",
           "petPolicyPt": "Cães com trela bem-vindos no pequeno parque em redor do monumento",
-          "tipPt": "Combine com o Jardim dos Glaciares ao lado, a sua secção exterior (gigantes marmitas glaciares, caminhos) é acolhedora para cães; o labirinto de espelhos interior não é."
+          "tipPt": "Combine com o Jardim dos Glaciares ao lado, a sua secção exterior (gigantes marmitas glaciares, caminhos) é acolhedora para cães; o labirinto de espelhos interior não é.",
+          "descriptionDe": "Bertel Thorvaldsens sterbender Löwe von 1820, direkt in die Felswand gehauen, erinnert an die Schweizer Garden, die 1792 bei der Verteidigung der Tuilerien starben. Mark Twain nannte ihn \"das traurigste und bewegendste Stück Stein der Welt\". Im Freien, kostenlos, mit einem kleinen Spiegelteich.",
+          "petPolicyDe": "Angeleinte Hunde im kleinen Park rund um das Denkmal willkommen",
+          "tipDe": "Kombinieren Sie den Besuch mit dem angrenzenden Gletschergarten, dessen Außenbereich (riesige Gletschertöpfe, Wege) ist hundefreundlich; das Spiegellabyrinth im Innern nicht."
         },
         {
           "name": "Musegg Wall (Museggmauer)",
@@ -824,7 +929,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Museggmauer+Luzern",
           "descriptionPt": "A muralha medieval de 870 metros a norte da cidade velha, com nove torres, incluindo a Zytturm, cujo relógio de 1535 bate um minuto antes de todos os outros da cidade. Três das torres podem ser subidas, com panoramas do telhado sobre o lago e os Alpes cobertos de neve.",
           "petPolicyPt": "Cães bem-vindos ao longo do passeio das muralhas; confirme torre a torre o acesso às escadas (algumas aceitam cães pequenos com trela, nenhuma aceita os grandes)",
-          "tipPt": "A Männliturm é a torre mais fácil com um cão, escadas de pedra largas e uma plataforma panorâmica acolhedora para cães. Aberta todos os dias apenas de abril a outubro."
+          "tipPt": "A Männliturm é a torre mais fácil com um cão, escadas de pedra largas e uma plataforma panorâmica acolhedora para cães. Aberta todos os dias apenas de abril a outubro.",
+          "descriptionDe": "Die 870 Meter lange mittelalterliche Stadtmauer nördlich der Altstadt mit neun Türmen, darunter der Zytturm, dessen Uhr von 1535 eine Minute vor allen anderen Uhren der Stadt schlägt. Drei der Türme sind begehbar, mit Panoramablick auf den See und die schneebedeckten Alpen von der Dachterrasse.",
+          "petPolicyDe": "Hunde entlang des Mauerwegs willkommen; Treppenzugang von Turm zu Turm unterschiedlich (manche erlauben angeleinte kleine Hunde, keiner erlaubt große)",
+          "tipDe": "Der Männliturm ist der einfachste Turm mit Hund, breite Steintreppen und eine hundefreundliche Aussichtsplattform. Nur April bis Oktober täglich geöffnet."
         }
       ],
       "tipsEn": [
@@ -888,6 +996,18 @@
           "q": "Que montanhas de Lucerna posso visitar com o meu cão?",
           "a": "O Pilatus (teleférico ou comboio de cremalheira sazonal), o Rigi (cremalheira mais teleférico, cães grátis o ano inteiro), o Stanserhorn (teleférico CabriO de convés aberto), o Bürgenstock (elevador Hammetschwand) e o Klewenalp acolhem todos cães com trela. Use o passe diário para cães de 25 CHF para combinar vários num só dia."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Luzern",
+      "introDe": "Luzerns bekannteste Sehenswürdigkeiten, die Kapellbrücke, das Löwendenkmal, die Museggmauer und der Pilatus, sind fast alle im Freien und mit Leine hundefreundlich. Die beiden Innenraum-Museen, die für Hunde tabu sind (Verkehrshaus und Picasso-Museum), liegen direkt neben hundefreundlichen Uferspaziergängen; Sie können den Hund mit einem Reisebegleiter auf einer schattigen Bank lassen, während der andere die Ausstellungen besucht.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund über die Kapellbrücke mitnehmen?",
+          "a": "Ja, angeleinte Hunde sind auf der Kapellbrücke ganzjährig willkommen. Die Holzbohlen sind glatt und pfotenschonend. An verkehrsstarken Sommernachmittagen (14:00-17:00 Uhr) wird die Brücke sehr voll; tragen Sie kleine Hunde und führen Sie mittelgroße bis große Hunde langsam entlang der Geländerseite."
+        },
+        {
+          "q": "Welche Luzerner Berge kann ich mit meinem Hund besuchen?",
+          "a": "Pilatus (Luftseilbahn oder saisonale Zahnradbahn), Rigi (Zahnradbahn und Luftseilbahn, Hunde ganzjährig kostenlos), Stanserhorn (offene CabriO-Luftseilbahn), Bürgenstock (Hammetschwand-Lift) und Klewenalp heißen alle angeleinte Hunde willkommen. Nutzen Sie den CHF-25-Hunde-Tagespass, um mehrere an einem Tag zu kombinieren."
+        }
       ]
     },
     "petsitting": {
@@ -915,7 +1035,9 @@
           "tipFr": "Réservez au moins 7 jours à l'avance en été, les sitters lucernois saturent vite autour du week-end de la Fête nationale du 1er août.",
           "tipEs": "Reserva al menos 7 días antes en verano, los cuidadores lucerneses se llenan rápido en torno al fin de semana del 1 de agosto, Fiesta Nacional Suiza.",
           "descriptionPt": "A maior plataforma de cuidado de animais movida pela comunidade na Suíça. Lucerna lista mais de 30 cuidadores ativos a oferecer creche, hospedagem, passeios e visitas ao domicílio. Verificação de antecedentes e seguro com apoio veterinário incluídos em cada reserva.",
-          "tipPt": "Reserve com pelo menos 7 dias de antecedência no verão, os cuidadores de Lucerna enchem depressa por volta do fim de semana do Dia Nacional Suíço, 1 de agosto."
+          "tipPt": "Reserve com pelo menos 7 dias de antecedência no verão, os cuidadores de Lucerna enchem depressa por volta do fim de semana do Dia Nacional Suíço, 1 de agosto.",
+          "descriptionDe": "Größte gemeinschaftsbasierte Tierbetreuungsplattform der Schweiz. Luzern listet über 30 aktive Betreuer, die Tagesbetreuung, Tierpension, Spaziergänge und Hausbesuche anbieten. Hintergrundprüfungen und tierärztlich unterstützte Versicherung bei jeder Buchung inbegriffen.",
+          "tipDe": "Buchen Sie im Sommer mindestens 7 Tage im Voraus, Luzerner Betreuer sind rund um das Wochenende des 1. August (Schweizer Nationalfeiertag) schnell ausgebucht."
         },
         {
           "name": "Petsitting24",
@@ -935,7 +1057,9 @@
           "tipFr": "Filtrez par « Probelektion gratis » pour les sitters proposant une rencontre gratuite, essentiel si votre chien est réactif ou anxieux dans un nouvel environnement.",
           "tipEs": "Filtra por «Probelektion gratis» para cuidadores que ofrecen una toma de contacto gratuita, esencial si tu perro es reactivo o ansioso en hogares nuevos.",
           "descriptionPt": "Plataforma de cuidado de animais de origem suíço com interface em alemão/francês/inglês/italiano e um diretório completo da cidade para Lucerna. Faturação à hora, mensagens integradas, cuidado de pernoita ao domicílio opcional.",
-          "tipPt": "Filtre por 'Probelektion gratis' para cuidadores que oferecem um encontro prévio gratuito, essencial se o seu cão for reativo ou ansioso em casas novas."
+          "tipPt": "Filtre por 'Probelektion gratis' para cuidadores que oferecem um encontro prévio gratuito, essencial se o seu cão for reativo ou ansioso em casas novas.",
+          "descriptionDe": "Schweizer Tierbetreuungsplattform mit englisch/deutsch/französisch/italienischer Oberfläche und einem vollständigen Stadtverzeichnis für Luzern. Stundenweise Abrechnung, integrierte Nachrichtenfunktion, optionale Übernachtungsbetreuung zu Hause.",
+          "tipDe": "Filtern Sie nach \"Probelektion gratis\" für Betreuer, die ein kostenloses Kennenlerntreffen anbieten, wichtig, wenn Ihr Hund in neuen Umgebungen reaktiv oder ängstlich ist."
         },
         {
           "name": "PetBacker Lucerne",
@@ -953,7 +1077,9 @@
           "tipFr": "Utile pour une promenade d'1 heure pendant la visite d'un musée qui refuse les chiens (Verkehrshaus, Picasso). Cherchez les sitters dans un rayon d'1 km de votre hôtel pour des passages rapides.",
           "tipEs": "Útil para un paseo de 1 hora durante una visita a museos que excluyen perros (Verkehrshaus, Picasso). Busca cuidadores en un radio de 1 km de tu hotel para entregas rápidas.",
           "descriptionPt": "Plataforma internacional de cuidado de animais com presença ativa em Lucerna. Especialmente forte para reservas de última hora e passeios de última hora; segurada em cada reserva e avaliada publicamente em cada perfil de cuidador.",
-          "tipPt": "Útil quando precisa de um passeio de 1 hora enquanto visita um museu de Lucerna que exclui cães (Verkehrshaus, Picasso). Procure cuidadores listados a menos de 1 km do seu hotel para entregas rápidas."
+          "tipPt": "Útil quando precisa de um passeio de 1 hora enquanto visita um museu de Lucerna que exclui cães (Verkehrshaus, Picasso). Procure cuidadores listados a menos de 1 km do seu hotel para entregas rápidas.",
+          "descriptionDe": "Internationale Tierbetreuungsplattform mit aktiver Präsenz in Luzern. Besonders stark bei kurzfristigen Buchungen und spontanen Spaziergängen; jede Buchung versichert und öffentlich pro Betreuerprofil bewertet.",
+          "tipDe": "Nützlich, wenn Sie einen einstündigen Spaziergang brauchen, während Sie ein Luzerner Museum besuchen, das Hunde ausschließt (Verkehrshaus, Picasso). Suchen Sie nach Betreuern im Umkreis von 1 km Ihres Hotels für eine schnelle Übergabe."
         }
       ],
       "tipsEn": [
@@ -1016,6 +1142,18 @@
         {
           "q": "Os cuidadores estão segurados?",
           "a": "Sim, na Pawshake, na Petsitting24 e na PetBacker, cada reserva inclui um seguro de responsabilidade civil e de despesas médicas do animal até um limite definido pela plataforma. Leia a confirmação da reserva para a cobertura exata."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundeausführer in Luzern",
+      "introDe": "Die Schweiz hat einen ausgereiften Markt für Tierbetreuung, und drei Hauptplattformen decken Luzern mit geprüften Betreuern und Hundeausführern ab. Die Stundensätze liegen über dem europäischen Durchschnitt (CHF 25-40/Stunde für Spaziergänge, CHF 60-90/Tag für die Tierpension), aber die Profile sind detailliert, Versicherung ist inbegriffen, und Sprachbarrieren lassen sich leicht überwinden: Die meisten Luzerner Betreuer geben neben Deutsch auch Englisch an.",
+      "faqsDe": [
+        {
+          "q": "Was kostet ein Tiersitter in Luzern?",
+          "a": "Die Stundensätze liegen bei CHF 25-40 für Spaziergänge oder Tagesbetreuung zu Hause, CHF 60-90 pro Nacht für die volle Tierpension und CHF 35-50 pro Übernachtung bei Betreuung im eigenen Zuhause. Buchungen werden meist über die Plattform mit einer kleinen Servicegebühr bezahlt."
+        },
+        {
+          "q": "Sind die Betreuer versichert?",
+          "a": "Ja, bei Pawshake, Petsitting24 und PetBacker beinhaltet jede Buchung eine Haftpflicht- und Tierkrankenversicherung bis zu einer von der Plattform festgelegten Obergrenze. Lesen Sie die Buchungsbestätigung für den genauen Deckungsumfang."
         }
       ]
     }

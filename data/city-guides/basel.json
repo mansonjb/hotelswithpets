@@ -37,7 +37,11 @@
           "descriptionPt": "Um Stübli com 100 anos escondido por trás do portão medieval de St. Alban, com salas revestidas a madeira, fogões de azulejos pintados à mão e uma pequena esplanada arborizada. A cozinha é uma honesta cozinha suíço-francesa: rösti, filetes de perca, especialidades semanais do mercado. Os cães acomodam-se no parquet gasto ao lado da mesa, e os clientes habituais são sobretudo moradores do bairro de St. Alban que chegam a pé pelo caminho do Reno. Aos fins de semana é sensato reservar com antecedência.",
           "petPolicyPt": "Cães bem-vindos no interior e na esplanada",
           "mustTryPt": "Rösti com bratwurst, filete de perca, menu semanal do mercado",
-          "tipPt": "No inverno, sente-se na sala dos fundos junto ao fogão de azulejos, é o ponto mais quente da casa e os cães adoram"
+          "tipPt": "No inverno, sente-se na sala dos fundos junto ao fogão de azulejos, é o ponto mais quente da casa e os cães adoram",
+          "descriptionDe": "Ein 100 Jahre altes Stübli, versteckt hinter dem mittelalterlichen St. Alban-Tor, mit holzvertäfelten Räumen, handbemalten Kachelöfen und einer kleinen begrünten Terrasse. Die Küche ist ehrlich schweizerisch-französisch: Rösti, Egli-Filets, wöchentliche Marktgerichte. Hunde legen sich auf das abgenutzte Parkett neben den Tisch, und die Stammgäste kommen meist aus dem St. Alban-Quartier und vom Rheinweg. Am Wochenende empfiehlt sich eine Reservierung.",
+          "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen",
+          "mustTryDe": "Rösti mit Bratwurst, Egli-Filet, wöchentliches Marktmenü",
+          "tipDe": "Setzen Sie sich im Winter ins Hinterzimmer beim Kachelofen, das ist der wärmste Platz im Haus, und Hunde lieben ihn"
         },
         {
           "name": "Volkshaus Brasserie",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um icónico edifício cultural de 1925 reconvertido por Herzog & de Meuron numa brasserie, bar e pátio interior. O Bistro e o jardim do pátio acolhem ambos os cães, e o longo balcão de mármore é uma paragem de almoço descontraída num dia de chuva. A ementa traz clássicos de brasserie suíço-franceses, além de uma forte carta de vinhos. O pátio sombreado é um dos locais dog-friendly mais sossegados da animada Kleinbasel.",
           "petPolicyPt": "Cães bem-vindos no bistro e no pátio",
           "mustTryPt": "Steak frites, Basler Mehlsuppe, seleção de vinhos suíços",
-          "tipPt": "No verão, opte pelo pátio interior, é sombreado para os cães, sossegado e a poucos minutos das travessias de barco do Reno"
+          "tipPt": "No verão, opte pelo pátio interior, é sombreado para os cães, sossegado e a poucos minutos das travessias de barco do Reno",
+          "descriptionDe": "Ein ikonisches Kulturgebäude von 1925, von Herzog & de Meuron zu Brasserie, Bar und Innenhof umgebaut. Sowohl das Bistro als auch der Innenhofgarten heissen Hunde willkommen, und die lange Marmorbar ist an einem Regentag ein entspannter Mittagsstopp. Die Karte bietet Schweizer und französische Brasserie-Klassiker sowie eine starke Weinkarte. Der schattige Innenhof ist einer der ruhigsten hundefreundlichen Orte im lebhaften Kleinbasel.",
+          "petPolicyDe": "Hunde im Bistro und im Innenhof willkommen",
+          "mustTryDe": "Steak frites, Basler Mehlsuppe, Schweizer Weinauswahl",
+          "tipDe": "Steuern Sie im Sommer den Innenhof an, er liegt schattig, ist ruhig und nur wenige Minuten von den Rheinfähren entfernt"
         },
         {
           "name": "Restaurant Krafft",
@@ -89,11 +97,18 @@
           "descriptionPt": "A sala de jantar do Hotel Krafft, debruçada sobre a margem de Kleinbasel com uma das melhores esplanadas viradas para o Reno da cidade. A cozinha inclina-se para a cozinha suíça moderna com pratos sazonais de peixe de rio, e a equipa é imperturbavelmente dog-friendly: as tigelas de água surgem automaticamente e os cães são bem-vindos na esplanada, no bar e na sala de leitura do andar de cima. Perfeito para um Apéro ao início da noite depois de um mergulho no Reno.",
           "petPolicyPt": "Cães bem-vindos na esplanada e no interior",
           "mustTryPt": "Peixe branco dos lagos locais, legumes da época, vinhos suíços",
-          "tipPt": "Reserve uma mesa na esplanada junto ao Reno ao pôr do sol, a Münster em frente fica dourada-avermelhada e os cães acomodam-se enquanto os barcos passam"
+          "tipPt": "Reserve uma mesa na esplanada junto ao Reno ao pôr do sol, a Münster em frente fica dourada-avermelhada e os cães acomodam-se enquanto os barcos passam",
+          "descriptionDe": "Das Speiselokal des Hotel Krafft, direkt am Kleinbasler Ufer gelegen, mit einer der schönsten rheinseitigen Terrassen der Stadt. Die Küche ist modern schweizerisch mit saisonalen Flussfischgerichten, und das Personal ist unerschütterlich hundefreundlich: Wassernäpfe erscheinen wie von selbst, und Hunde sind auf der Terrasse, an der Bar und im oberen Lesezimmer willkommen. Perfekt für einen frühabendlichen Apéro nach einem Rheinschwimmen.",
+          "petPolicyDe": "Hunde auf der Terrasse und drinnen willkommen",
+          "mustTryDe": "Felchen aus regionalen Seen, saisonales Gemüse, Schweizer Weine",
+          "tipDe": "Reservieren Sie bei Sonnenuntergang einen Tisch auf der Rheinterrasse, das Münster gegenüber leuchtet rotgolden, und Hunde legen sich hin, während Boote vorbeitreiben"
         }
       ],
       "titlePt": "Restaurantes Pet-Friendly em Basileia",
-      "introPt": "Basileia combina a ordem suíça com uma atitude notavelmente descontraída em relação aos cães à mesa. A tradição da cidade das Beizen (tabernas de bairro) e dos Stübli (pequenas estalagens com painéis de madeira) trata um cão bem-comportado como um cliente normal, e a maioria dos locais traz discretamente um Wassernapf sem ser preciso pedir. Ao longo do Reno e pelas ruelas medievais da Altstadt, as esplanadas enchem-se de habitantes locais de maio a outubro, e os cães acomodam-se debaixo das mesas dos cafés com toda a naturalidade. Os três locais abaixo são acolhedores de forma fiável durante todo o ano e representam três ambientes clássicos de Basileia: um Stübli centenário, uma brasserie junto ao Reno e uma instituição do bairro criativo."
+      "introPt": "Basileia combina a ordem suíça com uma atitude notavelmente descontraída em relação aos cães à mesa. A tradição da cidade das Beizen (tabernas de bairro) e dos Stübli (pequenas estalagens com painéis de madeira) trata um cão bem-comportado como um cliente normal, e a maioria dos locais traz discretamente um Wassernapf sem ser preciso pedir. Ao longo do Reno e pelas ruelas medievais da Altstadt, as esplanadas enchem-se de habitantes locais de maio a outubro, e os cães acomodam-se debaixo das mesas dos cafés com toda a naturalidade. Os três locais abaixo são acolhedores de forma fiável durante todo o ano e representam três ambientes clássicos de Basileia: um Stübli centenário, uma brasserie junto ao Reno e uma instituição do bairro criativo.",
+      "titleDe": "Hundefreundliche Restaurants in Basel",
+      "introDe": "Basel verbindet Schweizer Ordnungssinn mit einer bemerkenswert entspannten Haltung gegenüber Hunden am Tisch. Die baseltypische Tradition der Beizen (Quartierlokale) und Stübli (kleine holzvertäfelte Gaststuben) behandelt einen wohlerzogenen Hund als normalen Gast, und die meisten Lokale bringen diskret einen Wassernapf, ohne dass man fragen muss. Entlang des Rheins und durch die mittelalterlichen Gassen der Altstadt füllen sich von Mai bis Oktober die Terrassen mit Einheimischen, und Hunde legen sich selbstverständlich unter die Cafétische. Die drei folgenden Adressen sind das ganze Jahr über zuverlässig willkommen und stehen für drei klassische Basler Stimmungen: ein 100 Jahre altes Stübli, eine Brasserie am Rhein und eine Institution im Kreativquartier.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Best Parks for Dogs in Basel",
@@ -123,7 +138,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Landschaftspark+Wiese+Basel",
           "descriptionPt": "Um parque ribeirinho de 3 km ao longo do rio Wiese que forma efetivamente a espinha verde de Basileia, ligando prados, ciclovias e curvas pouco profundas do rio. Longos troços possibilitam correr sem trela, onde os cães podem chapinhar no rio. O caminho vai de Kleinhüningen até à fronteira alemã em Riehen, sendo o passeio canino mais longo da cidade.",
           "facilitiesPt": "Acesso ao rio, caminhos de gravilha, bancos, bebedouros no verão",
-          "tipPt": "Entre pela paragem do elétrico de Lange Erlen e caminhe para sul, as curvas do rio e as praias de gravilha pouco profundas são melhores no primeiro quilómetro"
+          "tipPt": "Entre pela paragem do elétrico de Lange Erlen e caminhe para sul, as curvas do rio e as praias de gravilha pouco profundas são melhores no primeiro quilómetro",
+          "descriptionDe": "Ein 3 km langer Auenpark entlang der Wiese, der praktisch das grüne Rückgrat Basels bildet und Wiesen, Radwege und flache Flussbiegungen miteinander verbindet. Auf langen Abschnitten ist Freilauf erlaubt, und Hunde können im Fluss plantschen. Der Weg führt von Kleinhüningen bis zur deutschen Grenze bei Riehen und ist damit der längste Hundespaziergang der Stadt.",
+          "facilitiesDe": "Flusszugang, Kieswege, Sitzbänke, im Sommer Trinkbrunnen",
+          "tipDe": "Steigen Sie an der Tramhaltestelle Lange Erlen ein und gehen Sie südwärts, die Flussbiegungen und flachen Kiesstrände im ersten Kilometer sind am schönsten"
         },
         {
           "name": "Tierpark Lange Erlen",
@@ -145,7 +163,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Tierpark+Lange+Erlen+Basel",
           "descriptionPt": "Um parque animal gratuito situado numa floresta aluvial, com recintos para veados, cabras-monteses e gado das Terras Altas, a par de caminhos pedestres com trela e uma pequena praia fluvial. Os cães são bem-vindos com trela dentro do próprio parque, e os bosques circundantes (sinalizados como Bannwald) oferecem liberdade sem trela nos trilhos do perímetro mais largo.",
           "facilitiesPt": "Casas de banho, café, área de piquenique, acesso ao rio",
-          "tipPt": "Depois de visitar os recintos dos veados, dirija-se ao rio Wiese por trás do parque, é um local designado para os cães nadarem"
+          "tipPt": "Depois de visitar os recintos dos veados, dirija-se ao rio Wiese por trás do parque, é um local designado para os cães nadarem",
+          "descriptionDe": "Ein kostenloser Tierpark in einem Auenwald mit Gehegen für Rehe, Steinböcke und Hochlandrinder sowie Spazierwegen an der Leine und einem kleinen Flussstrand. Innerhalb des Parks sind Hunde an der Leine willkommen, und der umliegende Wald (ausgeschildert als Bannwald) bietet auf den weiter aussen liegenden Rundwegen Freilauf.",
+          "facilitiesDe": "Toiletten, Café, Picknickbereich, Flusszugang",
+          "tipDe": "Nach dem Besuch der Rehgehege gehen Sie hinter dem Park zur Wiese, dort befindet sich eine ausgewiesene Hundebadestelle"
         },
         {
           "name": "Kannenfeldpark",
@@ -167,11 +188,17 @@
           "googleMapsUrl": "https://maps.google.com/?q=Kannenfeldpark+Basel",
           "descriptionPt": "Um parque central de 6 hectares disposto sobre um antigo cemitério, com plátanos maduros, relvados amplos e um pequeno lago. Os cães têm de permanecer com trela, mas o parque fica aberto toda a noite, os relvados são vastos e sombreados, e uma zona de recreio vedada ajuda as famílias a manter a calma. O espaço verde sério mais próximo da Altstadt ocidental e do Universitätsspital.",
           "facilitiesPt": "Bebedouros, bancos, parque infantil, casas de banho públicas",
-          "tipPt": "Entre pela Burgfelderstrasse para os caminhos mais sossegados sob os plátanos, com menos ciclistas do que no lado oriental"
+          "tipPt": "Entre pela Burgfelderstrasse para os caminhos mais sossegados sob os plátanos, com menos ciclistas do que no lado oriental",
+          "descriptionDe": "Ein 6 Hektar grosser zentraler Park auf einem ehemaligen Friedhof, mit alten Platanen, weiten Rasenflächen und einem kleinen Weiher. Hunde müssen an der Leine bleiben, aber der Park ist die ganze Nacht geöffnet, die Rasenflächen sind riesig und schattig, und ein eingezäunter Spielplatz hilft Familien, für Ruhe zu sorgen. Die nächstgelegene grosse Grünfläche zur westlichen Altstadt und zum Universitätsspital.",
+          "facilitiesDe": "Trinkbrunnen, Sitzbänke, Spielplatz, öffentliche Toiletten",
+          "tipDe": "Betreten Sie den Park von der Burgfelderstrasse aus für die ruhigsten Wege unter den Platanen, hier sind weniger Velofahrer unterwegs als auf der Ostseite"
         }
       ],
       "titlePt": "Melhores Parques para Cães em Basileia",
-      "introPt": "Basileia situa-se num nó verde de três países, França, Alemanha e Suíça tocam-se a uma curta distância a pé, e os parques da cidade refletem essa mistura. As grandes praças formais da Innenstadt (Schützenmattpark, Margarethenpark) são, na sua maioria, interditas ou só admitem cães com trela, mas as florestas aluviais ao longo do rio Wiese e os bancos de areia do Reno compensam de sobra. A liberdade sem trela concentra-se em três zonas: Landschaftspark Wiese a norte, Tierpark Lange Erlen na fronteira alemã, e Kannenfeldpark para um passeio mais central. De abril a outubro a trela é obrigatória das 06:00 às 22:00 em muitos parques; os sinais à entrada são explícitos."
+      "introPt": "Basileia situa-se num nó verde de três países, França, Alemanha e Suíça tocam-se a uma curta distância a pé, e os parques da cidade refletem essa mistura. As grandes praças formais da Innenstadt (Schützenmattpark, Margarethenpark) são, na sua maioria, interditas ou só admitem cães com trela, mas as florestas aluviais ao longo do rio Wiese e os bancos de areia do Reno compensam de sobra. A liberdade sem trela concentra-se em três zonas: Landschaftspark Wiese a norte, Tierpark Lange Erlen na fronteira alemã, e Kannenfeldpark para um passeio mais central. De abril a outubro a trela é obrigatória das 06:00 às 22:00 em muitos parques; os sinais à entrada são explícitos.",
+      "titleDe": "Die besten Parks für Hunde in Basel",
+      "introDe": "Basel liegt an einem grünen Knotenpunkt dreier Länder, Frankreich, Deutschland und die Schweiz grenzen alle in Gehdistanz an, und die Parks der Stadt spiegeln diese Mischung wider. Die grossen formalen Plätze der Innenstadt (Schützenmattpark, Margarethenpark) sind grösstenteils tabu oder nur an der Leine erlaubt, aber die Auenwälder entlang der Wiese und die Rheinkiesbänke gleichen das mehr als aus. Freilauf konzentriert sich auf drei Zonen: der Landschaftspark Wiese im Norden, der Tierpark Lange Erlen an der deutschen Grenze und der Kannenfeldpark für einen zentraleren Spaziergang. Von April bis Oktober gilt in vielen Parks von 06:00 bis 22:00 Uhr Leinenpflicht, die Schilder am Eingang sind eindeutig.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Public Transport with Pets in Basel",
@@ -200,7 +227,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=BVB+Basel",
           "descriptionPt": "Os elétricos e autocarros verde-vivo de Basileia são a base da deslocação pela cidade. Os cães com mais de 30 cm de altura ao ombro pagam um bilhete reduzido de 2.ª classe; os cães mais pequenos em transportadoras viajam de graça. Um passe mensal para cães Hund-U-Abo é vendido nas máquinas verdes da TNW e nos centros de atendimento da BVB para quem viaja regularmente.",
           "petPolicyPt": "Tarifa reduzida de 2.ª classe para cães >30cm; transportadoras grátis",
-          "tipPt": "Compre na máquina verde da TNW antes de entrar, não há venda de bilhetes a bordo dos elétricos de Basileia"
+          "tipPt": "Compre na máquina verde da TNW antes de entrar, não há venda de bilhetes a bordo dos elétricos de Basileia",
+          "descriptionDe": "Basels leuchtend grüne Trams und Busse sind das Rückgrat der Fortbewegung. Hunde mit einer Schulterhöhe über 30 cm zahlen ein ermässigtes Ticket der 2. Klasse, kleinere Hunde in Transportboxen fahren gratis. Ein monatliches Hund-U-Abo ist an den grünen TNW-Automaten und in den BVB-Kundenzentren für regelmässige Reisende erhältlich.",
+          "petPolicyDe": "Ermässigter Tarif der 2. Klasse für Hunde über 30 cm; Transportboxen gratis",
+          "tipDe": "Kaufen Sie das Ticket vor dem Einsteigen am grünen TNW-Automaten, in den Basler Trams gibt es keinen Ticketverkauf an Bord"
         },
         {
           "name": "Rhine Ferries (Fähren)",
@@ -242,11 +272,17 @@
           "googleMapsUrl": "https://maps.google.com/?q=EuroAirport+Basel",
           "descriptionPt": "O aeroporto trinacional de Basileia situa-se em França mas tem saídas suíças e francesas, o que importa para a documentação dos animais: a saída suíça (usada para ligação ao centro de Basileia) exige as mesmas regras de passaporte de animal da UE que a França. O autocarro 50 do aeroporto até à estação de Basel SBB demora 20 minutos; os cães viajam com bilhete reduzido.",
           "petPolicyPt": "Passaporte de animal obrigatório (UE/Suíça); contacte a companhia aérea para regras de cabine/porão",
-          "tipPt": "Use a saída suíça se fizer ligação a Basileia pelo autocarro 50, a saída francesa deixa-o em Saint-Louis sem ligação fácil para a frente"
+          "tipPt": "Use a saída suíça se fizer ligação a Basileia pelo autocarro 50, a saída francesa deixa-o em Saint-Louis sem ligação fácil para a frente",
+          "descriptionDe": "Basels trinationaler Flughafen liegt in Frankreich, hat aber sowohl einen Schweizer als auch einen französischen Ausgang, was für die Tierpapiere wichtig ist: Der Schweizer Ausgang (für die Weiterreise ins Basler Stadtzentrum) verlangt dieselben EU-Heimtierausweis-Regeln wie Frankreich. Bus 50 vom Flughafen zum Basler Bahnhof SBB dauert 20 Minuten, Hunde fahren zum ermässigten Tarif.",
+          "petPolicyDe": "Heimtierausweis erforderlich (EU/Schweiz); Kabinen-/Frachtraumregeln bei der Fluggesellschaft erfragen",
+          "tipDe": "Nutzen Sie bei Anschluss mit Bus 50 nach Basel den Schweizer Ausgang, der französische Ausgang bringt Sie nach Saint-Louis ohne einfache Weiterverbindung"
         }
       ],
       "titlePt": "Transportes Públicos com Animais em Basileia",
-      "introPt": "A rede de elétricos e autocarros de Basileia (BVB e BLT, com tarifas unificadas sob o Tarifverbund Nordwestschweiz) é uma das mais fáceis da Europa para usar com um cão. Os cães pequenos que viajam dentro de uma transportadora fechada viajam de graça; os cães maiores com trela compram um bilhete reduzido de 2.ª classe, com a mesma estrutura tarifária das crianças. As travessias de barco do Reno (Fähren) e o icónico barco a cabo Kleinbasel-Grossbasel cobram uma pequena tarifa fixa e os cães são bem-vindos. Os elétricos 8 e 11 entram na Alemanha e na França respetivamente, por isso verifique as regras de bilhetes transfronteiriços antes de viajar."
+      "introPt": "A rede de elétricos e autocarros de Basileia (BVB e BLT, com tarifas unificadas sob o Tarifverbund Nordwestschweiz) é uma das mais fáceis da Europa para usar com um cão. Os cães pequenos que viajam dentro de uma transportadora fechada viajam de graça; os cães maiores com trela compram um bilhete reduzido de 2.ª classe, com a mesma estrutura tarifária das crianças. As travessias de barco do Reno (Fähren) e o icónico barco a cabo Kleinbasel-Grossbasel cobram uma pequena tarifa fixa e os cães são bem-vindos. Os elétricos 8 e 11 entram na Alemanha e na França respetivamente, por isso verifique as regras de bilhetes transfronteiriços antes de viajar.",
+      "titleDe": "Öffentliche Verkehrsmittel mit Haustieren in Basel",
+      "introDe": "Basels Tram- und Busnetz (BVB und BLT, Tarife einheitlich im Tarifverbund Nordwestschweiz) gehört zu den einfachsten in Europa im Umgang mit Hund. Kleine Hunde in einer geschlossenen Transportbox fahren gratis, grössere angeleinte Hunde lösen ein ermässigtes Ticket der 2. Klasse, dieselbe Tarifstruktur wie für Kinder. Die Rheinfähren und das ikonische Seilfährboot zwischen Kleinbasel und Grossbasel verlangen eine kleine Pauschalgebühr, und Hunde sind willkommen. Die Tramlinien 8 und 11 fahren nach Deutschland beziehungsweise Frankreich, prüfen Sie daher vor der Fahrt die Ticketregeln für den Grenzübertritt.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Rhine Swim Spots and Dog Beaches in Basel",
@@ -275,7 +311,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Birsk%C3%B6pfli+Birsfelden",
           "descriptionPt": "Uma península relvada onde o rio Birs se junta ao Reno, com uma enseada calma e pouco profunda que é uma das duas zonas oficiais de banho para cães do cantão. Os cães nadam sem trela, a corrente é suave, e a margem arenosa deixa mesmo as raças pequenas chapinhar. Os habitantes apanham sol ao lado, e há um quiosque para bebidas no verão.",
           "petPolicyPt": "Zona de banho para cães sem trela",
-          "tipPt": "Apanhe o elétrico 14 até Birsfelden Hard, depois um passeio de 5 minutos junto ao rio, mais fácil do que estacionar no local"
+          "tipPt": "Apanhe o elétrico 14 até Birsfelden Hard, depois um passeio de 5 minutos junto ao rio, mais fácil do que estacionar no local",
+          "descriptionDe": "Eine grasbewachsene Halbinsel, wo die Birs in den Rhein mündet, mit einer ruhigen flachen Bucht, die eine von zwei offiziellen Hundebadezonen im Kanton ist. Hunde schwimmen ohne Leine, die Strömung ist sanft, und der sandige Rand ermöglicht auch kleinen Rassen das Planschen. Einheimische sonnen sich nebenan, und im Sommer gibt es einen Kiosk für Getränke.",
+          "petPolicyDe": "Hundebadezone ohne Leine",
+          "tipDe": "Nehmen Sie Tram 14 bis Birsfelden Hard, dann ein 5-minütiger Spaziergang am Fluss, einfacher als vor Ort zu parkieren"
         },
         {
           "name": "St. Alban-Rheinweg Dog Beach",
@@ -321,7 +360,10 @@
         }
       ],
       "titlePt": "Locais de Banho no Reno e Praias para Cães em Basileia",
-      "introPt": "Basileia não fica junto ao mar, mas o Reno substitui-o de sobra, de junho a setembro o rio é uma grande piscina urbana, com os habitantes a transportarem os seus pertences em sacos impermeáveis Wickelfisch e a flutuarem rio abaixo. Os cães são permitidos em duas zonas designadas Hundebadi (áreas de banho para cães) onde podem nadar livremente sem trela, além de várias praias de gravilha onde chapinhar com trela é permitido. A corrente é genuinamente forte, para cães nervosos e raças pequenas, fique-se pela enseada calma de Birsköpfli em vez do rio principal."
+      "introPt": "Basileia não fica junto ao mar, mas o Reno substitui-o de sobra, de junho a setembro o rio é uma grande piscina urbana, com os habitantes a transportarem os seus pertences em sacos impermeáveis Wickelfisch e a flutuarem rio abaixo. Os cães são permitidos em duas zonas designadas Hundebadi (áreas de banho para cães) onde podem nadar livremente sem trela, além de várias praias de gravilha onde chapinhar com trela é permitido. A corrente é genuinamente forte, para cães nervosos e raças pequenas, fique-se pela enseada calma de Birsköpfli em vez do rio principal.",
+      "titleDe": "Rheinbadestellen und Hundestrände in Basel",
+      "introDe": "Basel liegt nicht am Meer, aber der Rhein ist mehr als ein Ersatz, von Juni bis September verwandelt sich der Fluss in ein grosses städtisches Schwimmbecken, wobei Einheimische ihre Habseligkeiten in wasserdichten Wickelfisch-Beuteln mit sich tragen und flussabwärts treiben. Hunde sind an zwei ausgewiesenen Hundebadis erlaubt, wo sie frei ohne Leine schwimmen können, sowie an mehreren Kiesstränden, an denen Planschen an der Leine unbedenklich ist. Die Strömung ist tatsächlich stark, nervöse Hunde und kleine Rassen sollten sich an die ruhige Bucht am Birsköpfli halten statt an den Hauptfluss.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Basel, Veterinary Clinics & Pet Care",
@@ -347,7 +389,9 @@
           "tipEs": "Llama antes de ir: la clínica hace triaje telefónico y puede derivarte a la clínica de guardia más cercana al centro",
           "googleMapsUrl": "https://maps.google.com/?q=VetTrust+Tierklinik+Basel+M%C3%BCnchenstein",
           "descriptionPt": "O maior hospital de animais de pequeno porte da região de Basileia, aberto 24/7 para urgências, incluindo fins de semana e feriados. Departamentos especializados cobrem cirurgia, medicina interna, oncologia, dermatologia e cuidados de urgência. A equipa fala alemão, francês e inglês. Elétrico 11 do centro da cidade até Münchenstein Bahnhof, depois um passeio de 5 minutos.",
-          "tipPt": "Telefone antes de ir, a clínica faz a triagem por telefone e pode encaminhá-lo para a clínica de serviço mais próxima da cidade"
+          "tipPt": "Telefone antes de ir, a clínica faz a triagem por telefone e pode encaminhá-lo para a clínica de serviço mais próxima da cidade",
+          "descriptionDe": "Die grösste Kleintierklinik der Region Basel, 24 Stunden am Tag für Notfälle geöffnet, auch an Wochenenden und Feiertagen. Fachabteilungen decken Chirurgie, Innere Medizin, Onkologie, Dermatologie und Notfallmedizin ab. Das Personal spricht Deutsch, Französisch und Englisch. Tram 11 vom Stadtzentrum bis Münchenstein Bahnhof, dann 5 Minuten zu Fuss.",
+          "tipDe": "Rufen Sie vor der Anfahrt an, die Klinik triagiert telefonisch und verweist Sie eventuell an die diensthabende Praxis näher am Stadtzentrum"
         },
         {
           "name": "Kleintierpraxis am Ring",
@@ -365,7 +409,9 @@
           "tipEs": "Envía por correo vacunaciones y pasaporte europeo con antelación: los veterinarios suizos son meticulosos con el papeleo y agiliza la visita",
           "googleMapsUrl": "https://maps.google.com/?q=Kleintierpraxis+am+Ring+Basel",
           "descriptionPt": "Uma clínica central de animais de pequeno porte a curta distância a pé da estação de Basel SBB, cobrindo cuidados gerais, vacinações, dentária e pequena cirurgia. Conveniente para quem fica em Gundeldingen, Vorstädte ou na Altstadt. As chamadas fora de horas são encaminhadas para o número cantonal de serviço.",
-          "tipPt": "Envie por email uma cópia das vacinas e do passaporte do animal com antecedência, os veterinários suíços tratam a papelada meticulosamente e isso acelera a consulta"
+          "tipPt": "Envie por email uma cópia das vacinas e do passaporte do animal com antecedência, os veterinários suíços tratam a papelada meticulosamente e isso acelera a consulta",
+          "descriptionDe": "Eine zentrale Kleintierpraxis in Gehdistanz zum Basler Bahnhof SBB, mit Grundversorgung, Impfungen, Zahnmedizin und kleineren Eingriffen. Praktisch für Reisende, die in Gundeldingen, den Vorstädten oder der Altstadt wohnen. Anrufe ausserhalb der Öffnungszeiten werden an die kantonale Dienstnummer weitergeleitet.",
+          "tipDe": "Senden Sie vorab eine Kopie der Impfungen und des Heimtierausweises per E-Mail, Schweizer Tierärzte führen die Unterlagen sehr sorgfältig, das beschleunigt den Besuch"
         },
         {
           "name": "Kleintierpraxis Basel-West",
@@ -383,11 +429,16 @@
           "tipEs": "La reserva es por teléfono: suele haber huecos el mismo día antes de las 10:00 para viajeros",
           "googleMapsUrl": "https://maps.google.com/?q=Kleintierpraxis+Basel+West",
           "descriptionPt": "Uma clínica de animais de pequeno porte em St. Johann, útil para hóspedes que ficam na Altstadt ocidental ou perto do Kannenfeldpark. Medicina geral, dentária, ecografia e laboratório no local. As urgências fora de horas são encaminhadas para a VetTrust Münchenstein através da linha cantonal de serviço.",
-          "tipPt": "A marcação é por telefone, as vagas para o próprio dia costumam estar disponíveis antes das 10h para viajantes"
+          "tipPt": "A marcação é por telefone, as vagas para o próprio dia costumam estar disponíveis antes das 10h para viajantes",
+          "descriptionDe": "Eine Kleintierklinik in St. Johann, nützlich für Gäste, die in der westlichen Altstadt oder nahe dem Kannenfeldpark wohnen. Allgemeinmedizin, Zahnmedizin, Ultraschall und Labor vor Ort. Notfälle ausserhalb der Öffnungszeiten werden über die kantonale Dienstlinie an VetTrust Münchenstein verwiesen.",
+          "tipDe": "Die Buchung erfolgt telefonisch, für Reisende sind meist Termine noch am selben Tag vor 10 Uhr verfügbar"
         }
       ],
       "titlePt": "Veterinários de Urgência em Basileia, Clínicas Veterinárias e Cuidados para Animais",
-      "introPt": "Basileia tem boa cobertura para urgências veterinárias. O serviço veterinário cantonal encaminha as chamadas fora de horas para a clínica de serviço do cantão através de uma única linha de urgência, e um hospital de animais de pequeno porte 24/7 dedicado situa-se a sul da cidade, em Münchenstein. O número suíço de chamada veterinária de urgência é o 0900 515 114 (CHF 1,90/min), que o liga ao veterinário regional de serviço a qualquer hora. Para cartões SIM não suíços, guarde um número direto de clínica antes de viajar."
+      "introPt": "Basileia tem boa cobertura para urgências veterinárias. O serviço veterinário cantonal encaminha as chamadas fora de horas para a clínica de serviço do cantão através de uma única linha de urgência, e um hospital de animais de pequeno porte 24/7 dedicado situa-se a sul da cidade, em Münchenstein. O número suíço de chamada veterinária de urgência é o 0900 515 114 (CHF 1,90/min), que o liga ao veterinário regional de serviço a qualquer hora. Para cartões SIM não suíços, guarde um número direto de clínica antes de viajar.",
+      "titleDe": "Notfall-Tierärzte in Basel, Tierkliniken & Tierbetreuung",
+      "introDe": "Basel ist für tierärztliche Notfälle gut aufgestellt. Der kantonale Tierärztliche Dienst leitet Anrufe ausserhalb der Öffnungszeiten über eine einzige Notfallnummer an die diensthabende Praxis des Kantons weiter, und südlich der Stadt in Münchenstein befindet sich eine eigene Kleintierklinik mit 24-Stunden-Betrieb. Die schweizweite Notfallnummer für Tierärzte lautet 0900 515 114 (CHF 1.90/Min.) und verbindet Sie rund um die Uhr mit dem regionalen Dienstarzt. Bei einer nicht-schweizerischen SIM-Karte speichern Sie vor der Reise am besten eine direkte Kliniknummer.",
+      "faqsDe": []
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Basel",
@@ -437,7 +488,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Marktplatz+Basel",
           "descriptionPt": "A praça central de Basileia é ancorada pelo espetacular Rathaus vermelho (Câmara Municipal), uma estrutura do século XVI pintada com frescos e encimada por uma torre de relógio de conto de fadas. A praça acolhe um mercado matinal diário com queijo, pão e flores, os cães são bem-vindos na calçada, mas atenção às patas nos dias quentes de verão.",
           "petPolicyPt": "Praça exterior: cães com trela bem-vindos",
-          "tipPt": "O pátio interior do Rathaus abre nos dias úteis e é gratuito, mais sossegado do que a praça e dog-friendly"
+          "tipPt": "O pátio interior do Rathaus abre nos dias úteis e é gratuito, mais sossegado do que a praça e dog-friendly",
+          "descriptionDe": "Basels zentraler Platz wird vom spektakulären roten Rathaus dominiert, einem im 16. Jahrhundert erbauten, mit Fresken bemalten Bau mit einem märchenhaften Uhrturm. Auf dem Platz findet täglich morgens ein Markt mit Käse, Brot und Blumen statt, Hunde sind auf dem Kopfsteinpflaster willkommen, achten Sie an heissen Sommertagen jedoch auf die Pfoten.",
+          "petPolicyDe": "Aussenplatz: angeleinte Hunde willkommen",
+          "tipDe": "Der Innenhof des Rathauses ist an Werktagen geöffnet und kostenlos, ruhiger als der Platz und hundefreundlich"
         },
         {
           "name": "Tinguely Fountain (Fasnachtsbrunnen)",
@@ -462,7 +516,10 @@
         }
       ],
       "titlePt": "Atrações Pet-Friendly em Basileia",
-      "introPt": "A maior atração cultural de Basileia, o trio Kunstmuseum, Tinguely e Fondation Beyeler, fica firmemente no interior e os cães não são admitidos, mas o património ao ar livre da cidade encontra-se generosamente aberto. A Altstadt medieval em torno da Münster, a Marktplatz com o seu Rathaus de arenito vermelho, e o passeio do Reno exploram-se melhor a pé com um cão com trela. Vários marcos ao ar livre acolhem especificamente animais, e os barcos de madeira do Reno levam cães a bordo para uma travessia cénica."
+      "introPt": "A maior atração cultural de Basileia, o trio Kunstmuseum, Tinguely e Fondation Beyeler, fica firmemente no interior e os cães não são admitidos, mas o património ao ar livre da cidade encontra-se generosamente aberto. A Altstadt medieval em torno da Münster, a Marktplatz com o seu Rathaus de arenito vermelho, e o passeio do Reno exploram-se melhor a pé com um cão com trela. Vários marcos ao ar livre acolhem especificamente animais, e os barcos de madeira do Reno levam cães a bordo para uma travessia cénica.",
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Basel",
+      "introDe": "Basels grösste kulturelle Anziehungskraft, das Trio aus Kunstmuseum, Tinguely und Fondation Beyeler, ist fest in Innenräumen und Hunde sind nicht zugelassen, aber das Freiluft-Erbe der Stadt ist grosszügig zugänglich. Die mittelalterliche Altstadt rund um das Münster, der Marktplatz mit seinem roten Sandstein-Rathaus und die Rheinpromenade lassen sich am besten zu Fuss mit einem angeleinten Hund erkunden. Mehrere Freiluft-Wahrzeichen heissen Haustiere ausdrücklich willkommen, und die hölzernen Rheinfähren nehmen Hunde für eine malerische Überfahrt mit.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet-Sitting and Dog-Walking in Basel",
@@ -509,11 +566,16 @@
           "tipFr": "Réservez à l'avance, les places partent vite en vacances d'été et durant les semaines de foires",
           "tipEs": "Reserva con antelación: las plazas vuelan en vacaciones de verano y en semanas de ferias",
           "descriptionPt": "Um centro especializado de creche e treino de cães na fronteira alemã, em Riehen, com brincadeira interior e exterior vedada, passeios em grupo supervisionados e treinadores certificados. Pacotes de meio dia, dia inteiro e semanais disponíveis. Entrega de manhã e recolha antes das 18:00 tornam-no ideal para viajantes que passam um dia na Art Basel ou no Museu Vitra próximo.",
-          "tipPt": "Reserve com antecedência, as vagas enchem rapidamente durante as férias de verão e as semanas de feira"
+          "tipPt": "Reserve com antecedência, as vagas enchem rapidamente durante as férias de verão e as semanas de feira",
+          "descriptionDe": "Eine spezialisierte Hundetagesstätte und Trainingszentrum an der deutschen Grenze in Riehen, mit Innen- und eingezäunten Aussenspielbereichen, betreuten Gruppenspaziergängen und zertifizierten Trainern. Halbtags-, Tages- und Wochenpakete erhältlich. Die Abgabe am Morgen und Abholung vor 18:00 Uhr macht sie ideal für Reisende, die einen Tag bei Art Basel oder im nahegelegenen Vitra Museum verbringen.",
+          "tipDe": "Reservieren Sie im Voraus, die Plätze sind während der Sommerferien und Messewochen schnell ausgebucht"
         }
       ],
       "titlePt": "Pet-Sitting e Passeio de Cães em Basileia",
-      "introPt": "Basileia tem um panorama de cuidados para animais pequeno mas bem organizado, construído sobretudo em torno de duas grandes plataformas nacionais (Pawshake.ch e Petsitting24.ch) mais um especialista local em creche para cães. Reservar com antecedência é sensato durante a Art Basel (meados de junho) e a Feira de Basileia (outono), quando os cuidadores ficam cheios com semanas de antecedência. A maioria dos cuidadores fala alemão e inglês; o francês e o italiano são comuns mas não universais."
+      "introPt": "Basileia tem um panorama de cuidados para animais pequeno mas bem organizado, construído sobretudo em torno de duas grandes plataformas nacionais (Pawshake.ch e Petsitting24.ch) mais um especialista local em creche para cães. Reservar com antecedência é sensato durante a Art Basel (meados de junho) e a Feira de Basileia (outono), quando os cuidadores ficam cheios com semanas de antecedência. A maioria dos cuidadores fala alemão e inglês; o francês e o italiano são comuns mas não universais.",
+      "titleDe": "Haustierbetreuung und Gassi-Service in Basel",
+      "introDe": "Basel verfügt über eine kleine, aber gut organisierte Tierbetreuungsszene, hauptsächlich aufgebaut um zwei grosse nationale Plattformen (Pawshake.ch und Petsitting24.ch) sowie einen lokalen Spezialisten für Hundetagesstätten. Während Art Basel (Mitte Juni) und der Basler Herbstmesse (Herbst) ist eine frühzeitige Buchung ratsam, da Betreuerinnen und Betreuer Wochen im Voraus ausgebucht sind. Die meisten Betreuer sprechen Deutsch und Englisch, Französisch und Italienisch sind verbreitet, aber nicht durchgängig.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Basel with a Pet",
@@ -603,6 +665,22 @@
         {
           "q": "Os cães são permitidos nos elétricos de Basileia?",
           "a": "Sim. Os cães com mais de 30 cm de altura ao ombro pagam um bilhete reduzido de 2.ª classe; os cães mais pequenos numa transportadora fechada viajam de graça. Compre o bilhete na máquina verde da TNW antes de embarcar, não há venda a bordo."
+        }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch in Basel mit Haustier",
+      "introDe": "Basel liegt an der Ecke dreier Länder, was die praktischen Aspekte des Reisens mit Tier etwas ungewöhnlich macht. Innerhalb der Schweiz sind die Regeln einheitlich streng und werden gut durchgesetzt: In den meisten Parks gilt Leinenpflicht, Einwohner zahlen Hundesteuer, und jeder Hund über vier Monaten muss einen Chip tragen und in der Datenbank AMICUS registriert sein. Als Besucher müssen Sie sich nicht registrieren, doch ein gültiger EU-Heimtierausweis (oder Gleichwertiges) und eine gültige Tollwutimpfung sind an der Grenze zwingend.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich einen Heimtierausweis, um mit meinem Hund in die Schweiz einzureisen?",
+          "a": "Ja. Die Schweiz ist Teil des EU-Heimtierausweis-Systems. Ihr Hund braucht einen Mikrochip, eine gültige Tollwutimpfung, die mindestens 21 Tage vor der Einreise verabreicht wurde, und einen EU-Heimtierausweis (oder ein gleichwertiges Gesundheitszeugnis aus einem Drittland)."
+        },
+        {
+          "q": "Dürfen Hunde in Basel im Rhein schwimmen?",
+          "a": "Ja, an den beiden ausgewiesenen Hundebadezonen (Bucht Birsköpfli und Hundestrand St. Alban-Rheinweg beim Tinguely-Museum). Schwimmen ohne Leine ist in diesen Zonen erlaubt, andernorts ist der Fluss nur für Menschen."
+        },
+        {
+          "q": "Sind Hunde in den Basler Trams erlaubt?",
+          "a": "Ja. Hunde mit einer Schulterhöhe über 30 cm zahlen ein ermässigtes Ticket der 2. Klasse, kleinere Hunde in einer geschlossenen Transportbox fahren gratis. Kaufen Sie das Ticket vor dem Einsteigen am grünen TNW-Automaten, an Bord gibt es keinen Verkauf."
         }
       ]
     }

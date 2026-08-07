@@ -37,7 +37,11 @@
           "descriptionPt": "Um bistrô francês numa localização privilegiada na Place de la Daurade, mesmo nas margens do Garonne. Mesas ao ar livre pet-friendly com taças de água para os cães, numa das praças ribeirinhas mais pitorescas de Toulouse. A ementa é de cozinha francesa de mercado; confit de pato, magret de canard e cassoulet são habituais. A vista sobre o Garonne e a basílica Notre-Dame de la Daurade fazem deste um dos locais para refeições com cães de maior ambiente do sudoeste de França. Verificado pela BringFido.",
           "petPolicyPt": "Cães bem-vindos nas mesas do terraço exterior; taças de água disponibilizadas",
           "mustTryPt": "Cassoulet toulousain, feijão branco cozinhado lentamente com salsicha de Toulouse e confit de pato",
-          "tipPt": "O terraço fica virado a oeste sobre o Garonne; chegue para um almoço tardio de domingo para apanhar a luz dourada do fim de tarde sobre a água."
+          "tipPt": "O terraço fica virado a oeste sobre o Garonne; chegue para um almoço tardio de domingo para apanhar a luz dourada do fim de tarde sobre a água.",
+          "descriptionDe": "Ein französisches Bistro in erstklassiger Lage auf der Place de la Daurade, direkt am Ufer der Garonne. Haustierfreundliche Außentische mit Wassernäpfen für Hunde, auf einem der malerischsten Uferplätze von Toulouse. Die Speisekarte folgt marktfrischer französischer Küche, Entenconfit, Magret de Canard und Cassoulet gehören zu den Klassikern. Der Blick über die Garonne und die Basilika Notre-Dame de la Daurade macht dieses Lokal zu einem der stimmungsvollsten Hunde-Restaurants im Südwesten Frankreichs. BringFido-verifiziert.",
+          "petPolicyDe": "Hunde an den Außentischen auf der Terrasse willkommen; Wassernäpfe werden bereitgestellt",
+          "mustTryDe": "Cassoulet toulousain, langsam gegarte weiße Bohnen mit Toulouser Wurst und Entenconfit",
+          "tipDe": "Die Terrasse liegt nach Westen zur Garonne, kommen Sie zu einem späten Sonntagsmittagessen, um das goldene Licht auf dem Wasser zu erleben."
         }
       ],
       "tipsEn": [
@@ -85,6 +89,14 @@
           "q": "Os cães são permitidos nos restaurantes de Toulouse?",
           "a": "Sim, ao critério do proprietário, pois a lei francesa permite-o. Os restaurantes de Toulouse são geralmente acolhedores para com os cães bem-comportados, sobretudo nos terraços. A certificação QUALIDOG (emmenetonchien.com) identifica os espaços mais proativamente pet-friendly."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Toulouse",
+      "introDe": "Toulouse, die 'Rosa Stadt', pflegt eine entspannte Café-Kultur, die sich herzlich auf Hunde erstreckt. Das französische Recht erlaubt Hunde in Restaurants nach Ermessen des Inhabers, und die Toulouser Tradition ausgedehnter Mahlzeiten bedeutet, dass Hunde ausreichend Zeit haben, sich unter dem Tisch niederzulassen. Die Place du Capitole und die Uferterrassen entlang der Garonne sind die ersten Adressen der Stadt für hundefreundliches Essen. Achten Sie auf QUALIDOG-zertifizierte Lokale, ein französisches Gütesiegel, das speziell hundewillkommene Restaurants auszeichnet. Ein ehrlicher Hinweis: Das Terrassenessen in Toulouse ist saisonabhängig; von November bis März sind viele Außenterrassen geschlossen oder mit Heizstrahlern unter Sonnenschirmen beheizt, was manche Hunde als unangenehm empfinden.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Toulouse erlaubt?",
+          "a": "Ja, nach Ermessen des Inhabers, das französische Recht erlaubt dies. Restaurants in Toulouse heißen gut erzogene Hunde in der Regel willkommen, besonders auf Terrassen. Die QUALIDOG-Zertifizierung (emmenetonchien.com) kennzeichnet die besonders proaktiv hundefreundlichen Lokale."
+        }
       ]
     },
     "parks": {
@@ -113,7 +125,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Prairie+des+Filtres+Toulouse",
           "descriptionPt": "Um amplo prado ribeirinho ao longo do Garonne, no centro de Toulouse, junto ao centro histórico da cidade. Um dos destinos de passeio de cães mais populares da cidade; existe uma área de liberdade sem trela dentro do parque onde os cães podem correr livremente. Aberto todos os dias, das 7:00 às 22:00. Os cães podem aceder à margem do Garonne para nadar sob vigilância. O parque liga-se a um passeio ribeirinho mais longo ao longo de ambas as margens. A linha de elétrico T1 tem paragem nas proximidades.",
           "offLeashAreaPt": "Área de liberdade designada (canisite) dentro do parque",
-          "tipPt": "A luz do entardecer sobre o Garonne a partir da Prairie des Filtres é espetacular; planeie um passeio entre as 19:00 e as 20:00 no verão para a melhor experiência."
+          "tipPt": "A luz do entardecer sobre o Garonne a partir da Prairie des Filtres é espetacular; planeie um passeio entre as 19:00 e as 20:00 no verão para a melhor experiência.",
+          "descriptionDe": "Eine breite Flusswiese entlang der Garonne im Zentrum von Toulouse, angrenzend an die historische Altstadt. Eines der beliebtesten Ziele der Stadt für Hundespaziergänge, innerhalb des Parks befindet sich eine Freilaufzone, in der Hunde frei laufen können. Täglich geöffnet von 7:00 bis 22:00 Uhr. Hunde können unter Aufsicht am Garonne-Ufer schwimmen. Der Park verbindet sich mit einer längeren Uferpromenade an beiden Flussufern. Die Straßenbahnlinie T1 hält in der Nähe.",
+          "offLeashAreaDe": "Ausgewiesene Freilaufzone (Canisite) innerhalb des Parks",
+          "tipDe": "Das Abendlicht über der Garonne von der Prairie des Filtres aus ist spektakulär, planen Sie im Sommer einen Spaziergang zwischen 19:00 und 20:00 Uhr für das beste Erlebnis."
         },
         {
           "name": "Jardins Compans-Caffarelli",
@@ -133,7 +148,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Jardins+Compans+Caffarelli+Toulouse",
           "descriptionPt": "Um jardim formal de 7 hectares junto à estação ferroviária de Toulouse-Matabiau, com alamedas, relvados e uma secção de jardim japonês. Os cães podem passear nas alamedas e usar os relvados para piqueniques, embora o jardim japonês seja interdito. Há um caniparc (área para cães vedada) disponível dentro do jardim. Boa opção para um passeio estruturado perto do centro da cidade e da estação ferroviária.",
           "offLeashAreaPt": "Caniparc (área vedada) dentro do jardim; trela obrigatória nas restantes zonas",
-          "tipPt": "Paragem útil se chegar ou partir da estação de Toulouse-Matabiau; a 10 minutos a pé para uma sessão de exercício antes do comboio."
+          "tipPt": "Paragem útil se chegar ou partir da estação de Toulouse-Matabiau; a 10 minutos a pé para uma sessão de exercício antes do comboio.",
+          "descriptionDe": "Ein 7 Hektar großer, formal angelegter Garten in der Nähe des Bahnhofs Toulouse-Matabiau mit Alleen, Rasenflächen und einem japanischen Gartenbereich. Hunde können auf den Alleen spazieren gehen und die Rasenflächen für Picknicks nutzen, der japanische Garten ist jedoch eingeschränkt. Innerhalb des Gartens steht ein Caniparc (eingezäunter Hundebereich) zur Verfügung. Gute Option für einen strukturierten Spaziergang in Nähe des Stadtzentrums und des Bahnhofs.",
+          "offLeashAreaDe": "Caniparc (eingezäunter Bereich) innerhalb des Gartens; sonst Leinenpflicht",
+          "tipDe": "Nützlicher Stopp bei An- oder Abreise am Bahnhof Toulouse-Matabiau, 10 Gehminuten für eine Bewegungspause vor der Zugfahrt."
         },
         {
           "name": "Forêt Domaniale de Bouconne",
@@ -153,7 +171,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Forêt+de+Bouconne+Toulouse",
           "descriptionPt": "Uma floresta estatal de 2.700 hectares na orla oeste de Toulouse, com 5 trilhos pedestres assinalados, 2 percursos desportivos e um itinerário de caminhada GR. Os cães podem andar sem trela na floresta. O terreno é maioritariamente plano com vegetação rasteira ligeira, ideal para cães de muita energia que precisam de longas corridas. Acessível de carro (15 a 20 min do centro da cidade); sem transporte público direto. Leve água, pois há poucas infraestruturas dentro da floresta.",
           "offLeashAreaPt": "Em toda a floresta; sem zonas designadas, andar sem trela é o costume",
-          "tipPt": "A prevenção de carraças é essencial em Bouconne; aplique tratamento spot-on antes e verifique bem o seu cão depois de cada visita, sobretudo na primavera e no outono."
+          "tipPt": "A prevenção de carraças é essencial em Bouconne; aplique tratamento spot-on antes e verifique bem o seu cão depois de cada visita, sobretudo na primavera e no outono.",
+          "descriptionDe": "Ein 2.700 Hektar großer Staatswald am westlichen Stadtrand von Toulouse mit 5 markierten Wanderwegen, 2 Sportparcours und einem GR-Wanderweg. Hunde dürfen im Wald frei laufen. Das Gelände ist überwiegend flach mit leichtem Unterholz, gut geeignet für energiegeladene Hunde, die lange Läufe benötigen. Mit dem Auto erreichbar (15–20 Minuten vom Stadtzentrum); keine direkte Anbindung an den öffentlichen Nahverkehr. Nehmen Sie Wasser mit, da es im Wald nur wenige Einrichtungen gibt.",
+          "offLeashAreaDe": "Im gesamten Wald; keine ausgewiesenen Zonen, Freilauf ist üblich",
+          "tipDe": "Zeckenschutz ist im Bouconne unerlässlich, tragen Sie vor dem Besuch ein Spot-on-Präparat auf und kontrollieren Sie Ihren Hund danach gründlich, besonders im Frühjahr und Herbst."
         }
       ],
       "tipsEn": [
@@ -200,6 +221,14 @@
         {
           "q": "Onde posso soltar o meu cão da trela em Toulouse?",
           "a": "Nos quase 80 canisites designados da cidade e na Forêt de Bouconne (floresta estatal, a 15 min de carro a oeste do centro). Fora destas áreas, os cães têm de andar à trela ao abrigo das regras municipais de Toulouse."
+        }
+      ],
+      "titleDe": "Hundefreundliche Parks in Toulouse",
+      "introDe": "Toulouse ist außergewöhnlich gut für Hundebesitzer ausgestattet, mit fast 80 Canisites (ausgewiesenen Hundezonen) über die ganze Stadt verteilt. Die besten Parks konzentrieren sich entlang der Garonne, Prairie des Filtres und Île du Ramier bieten großzügige Uferflächen, auf denen Hunde laufen und sogar schwimmen können. Das flache Terrain der Stadt macht Radwege und Uferspaziergänge mit Hund an der Leine problemlos machbar. Der Wald Forêt de Bouconne am westlichen Stadtrand bietet 2.700 Hektar Waldgebiet für längere Freilaufabenteuer.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich meinen Hund in Toulouse frei laufen lassen?",
+          "a": "In den fast 80 ausgewiesenen Canisites der Stadt und im Forêt de Bouconne (Staatswald, 15 Minuten mit dem Auto westlich des Zentrums). Außerhalb dieser Bereiche müssen Hunde nach den Vorschriften der Stadt Toulouse an der Leine geführt werden."
         }
       ]
     },
@@ -269,6 +298,14 @@
           "q": "Posso levar o meu cão no metro de Toulouse?",
           "a": "Apenas se o seu cão couber num saco transportador fechado seguro debaixo do braço ou colocado debaixo de um banco. Os cães de porte médio e grande estão proibidos em todos os serviços da Tisséo (metro, elétrico, autocarro) ao abrigo de uma política reconfirmada em 2025. As coimas são de 150 euros. Em alternativa, use um táxi ou transporte partilhado."
         }
+      ],
+      "titleDe": "Mit Ihrem Hund unterwegs in Toulouse",
+      "introDe": "Das öffentliche Verkehrsnetz von Toulouse (Tisséo) betreibt U-Bahn, Straßenbahn und Busse. Hunde sind in Tisséo-Verkehrsmitteln NICHT erlaubt, es sei denn, sie sind klein genug, um in einer geschlossenen Tasche oder einem Korb transportiert zu werden, eine Regel, die Tisséo 2025 nach einer öffentlichen Petition erneut bestätigt hat. Blinden- und Assistenzhunde sind davon ausgenommen. Dies ist eine der restriktivsten Hunderichtlinien aller großen französischen Städte. Für Reisen mit einem mittelgroßen oder großen Hund sind Taxis und Mitfahrdienste (BlaBlaCar) die praktischen Alternativen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in der U-Bahn von Toulouse mitnehmen?",
+          "a": "Nur wenn Ihr Hund in eine geschlossene Transporttasche passt, die unter dem Arm getragen oder unter einem Sitz platziert wird. Mittelgroße und große Hunde sind in allen Tisséo-Verkehrsmitteln (U-Bahn, Straßenbahn, Bus) nach einer 2025 bestätigten Regel verboten. Die Geldbuße beträgt 150 €. Nutzen Sie stattdessen ein Taxi oder einen Mitfahrdienst."
+        }
       ]
     },
     "beaches": {
@@ -284,7 +321,10 @@
       "faqsEs": [],
       "titlePt": "Praias Perto de Toulouse",
       "introPt": "Conteúdo em breve, estamos a pesquisar as melhores opções para si.",
-      "faqsPt": []
+      "faqsPt": [],
+      "titleDe": "Strände in der Nähe von Toulouse",
+      "introDe": "Inhalt folgt in Kürze, wir recherchieren derzeit die besten Optionen für Sie.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Toulouse, Veterinary Clinics & Pet Care",
@@ -329,7 +369,10 @@
           "photo": "/images/city-places/toulouse-vets-chv-vetoccitanie.jpg",
           "hoursPt": "Aberto 24 horas, 7 dias por semana, 365 dias por ano",
           "descriptionPt": "O principal hospital veterinário de urgência de Toulouse, situado em Purpan, no oeste da cidade. Oito veterinários alternam nos turnos de urgência, com apoio de especialistas disponível para casos complexos. Conjunto completo de diagnóstico: imagiologia avançada, laboratório, bloco operatório, cuidados intensivos. Atende cães, gatos e outros animais domésticos. Acesso rápido a partir do périphérique Toulouse-Ouest e de Blagnac.",
-          "tipPt": "Situado em Purpan, a cerca de 20 minutos de carro do centro da cidade. Telefone para +33 5 61 61 20 20 antes de sair, para que a equipa possa preparar-se para a sua chegada."
+          "tipPt": "Situado em Purpan, a cerca de 20 minutos de carro do centro da cidade. Telefone para +33 5 61 61 20 20 antes de sair, para que a equipa possa preparar-se para a sua chegada.",
+          "hoursDe": "24 Stunden geöffnet, 7 Tage die Woche, 365 Tage im Jahr",
+          "descriptionDe": "Das wichtigste Tiernotfallkrankenhaus in Toulouse, im Stadtteil Purpan im Westen der Stadt gelegen. Acht Tierärzte wechseln sich im Notfalldienst ab, mit fachärztlicher Unterstützung für komplexe Fälle. Vollständige Diagnostik: fortschrittliche Bildgebung, Labor, Operationssaal, Intensivstation. Versorgt Hunde, Katzen und andere Haustiere. Schnell erreichbar über den périphérique Toulouse-Ouest und von Blagnac aus.",
+          "tipDe": "Gelegen in Purpan, etwa 20 Minuten mit dem Auto vom Stadtzentrum entfernt. Rufen Sie vor der Abfahrt unter +33 5 61 61 20 20 an, damit sich das Team auf Ihre Ankunft vorbereiten kann."
         }
       ],
       "faqsEn": [
@@ -356,6 +399,14 @@
         {
           "q": "Qual é o número do veterinário de urgência 24 horas em Toulouse?",
           "a": "CHV VetOccitanie: +33 5 61 61 20 20, aberto 24/7 durante todo o ano. Para apoio fora de horas das clínicas veterinárias regulares, o Vet-Urgentys Purpan funciona à noite e aos fins de semana."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Toulouse, Tierkliniken & Haustierpflege",
+      "introDe": "Toulouse verfügt über eine starke 24/7-Notfallversorgung für Tiere. CHV VetOccitanie ist das wichtigste 24/7-Tierkrankenhaus der Stadt, jeden Tag im Jahr geöffnet, mit 8 Tierärzten im Notfalldienst sowie fortschrittlicher Bildgebung und chirurgischen Möglichkeiten. Die École Nationale Vétérinaire de Toulouse (ENVT), eine von Frankreichs vier nationalen Tiermedizinschulen, verfügt zudem über eine Intensivstation für kritische Fälle. Rufen Sie vor dem Besuch an, beide Einrichtungen bieten eine telefonische Ersteinschätzung.",
+      "faqsDe": [
+        {
+          "q": "Wie lautet die Notfall-Tierarzt-Nummer in Toulouse?",
+          "a": "CHV VetOccitanie: +33 5 61 61 20 20, ganzjährig 24/7 geöffnet. Für Unterstützung außerhalb der regulären Öffnungszeiten von Tierarztpraxen ist Vet-Urgentys Purpan abends und am Wochenende erreichbar."
         }
       ]
     },
@@ -408,6 +459,14 @@
           "q": "Toulouse é uma boa cidade para visitar com um cão?",
           "a": "Sim, com uma grande ressalva: a proibição de cães de porte médio e grande nos transportes públicos da Tisséo obriga ao uso do táxi para as deslocações. De resto, Toulouse é excelente; clima ameno, parques ribeirinhos, 80 canisites e uma cultura de restauração que acolhe os cães. O fim da primavera e o início do outono são as estações ideais."
         }
+      ],
+      "titleDe": "Reisetipps mit Hund für Toulouse",
+      "introDe": "Toulouse ist eine der sonnigeren französischen Großstädte, lange Sommer (Mai bis Oktober) machen Aktivitäten im Freien mit Hund hervorragend. Das Stadtzentrum ist kompakt und gut zu Fuß erreichbar, und die Ufer der Garonne bieten eine natürliche Runde für Hundespaziergänge. Die wichtigste praktische Einschränkung ist das Tisséo-Verbot mittelgroßer und großer Hunde im öffentlichen Nahverkehr, wer auf öffentliche Verkehrsmittel angewiesen ist, muss in Toulouse häufiger auf Taxis zurückgreifen als in Paris oder Lyon.",
+      "faqsDe": [
+        {
+          "q": "Ist Toulouse eine gute Stadt für einen Besuch mit Hund?",
+          "a": "Ja, mit einer wichtigen Einschränkung: Das Tisséo-Verbot für mittelgroße und große Hunde im öffentlichen Nahverkehr erzwingt die Nutzung von Taxis. Ansonsten ist Toulouse hervorragend, warmes Klima, Uferparks, 80 Canisites und eine Restaurantkultur, die Hunde willkommen heißt. Später Frühling und früher Herbst sind die idealen Jahreszeiten."
+        }
       ]
     },
     "attractions": {
@@ -427,7 +486,10 @@
       "titlePt": "Atrações Pet-Friendly em Toulouse",
       "introPt": "Conteúdo em breve, estamos a pesquisar as melhores opções para si.",
       "tipsPt": [],
-      "faqsPt": []
+      "faqsPt": [],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Toulouse",
+      "introDe": "Inhalt folgt in Kürze, wir recherchieren derzeit die besten Optionen für Sie.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet Sitters & Dog Walkers in Toulouse",
@@ -455,7 +517,10 @@
           "tipEs": "Gudog.fr es una plataforma francesa alternativa con buena cobertura en Toulouse, y más cuidadores con conocimientos de inglés para visitantes internacionales.",
           "descriptionPt": "A plataforma francesa da Rover com cuidadores por toda a Toulouse. Todos os cuidadores passam por verificações de antecedentes. Os serviços incluem passeio de cães, alojamento em casa e creche. Custo médio: cerca de 12 a 15 euros por passeio de 30 minutos, 25 a 40 euros por noite de alojamento. A plataforma Rover em França é inteiramente em francês, e a maioria dos cuidadores de Toulouse fala apenas francês.",
           "serviceTypePt": "Passeio de cães, alojamento, creche",
-          "tipPt": "O Gudog.fr é uma plataforma francesa alternativa com forte cobertura em Toulouse e mais cuidadores com competências em inglês para visitantes internacionais."
+          "tipPt": "O Gudog.fr é uma plataforma francesa alternativa com forte cobertura em Toulouse e mais cuidadores com competências em inglês para visitantes internacionais.",
+          "descriptionDe": "Die französische Plattform von Rover mit Sittern in ganz Toulouse. Alle Sitter durchlaufen eine Hintergrundprüfung. Zu den Leistungen zählen Gassi-Service, Haustierpension und Tagesbetreuung. Durchschnittliche Kosten: ca. 12–15 € pro 30-minütigem Spaziergang, 25–40 € pro Nacht Pension. Die Rover-Plattform in Frankreich ist vollständig auf Französisch, die meisten Sitter in Toulouse sprechen nur Französisch.",
+          "serviceTypeDe": "Gassi-Service, Pension, Tagesbetreuung",
+          "tipDe": "Gudog.fr ist eine alternative französische Plattform mit starker Präsenz in Toulouse und mehr Sittern mit Englischkenntnissen für internationale Besucher."
         }
       ],
       "tipsEn": [
@@ -498,6 +563,14 @@
         {
           "q": "Quanto custa um passeador de cães em Toulouse?",
           "a": "Cerca de 12 a 15 euros por um passeio de 30 minutos e 25 a 40 euros por noite de alojamento (médias da Rover em Toulouse em 2026). Os preços são ligeiramente inferiores aos de Paris."
+        }
+      ],
+      "titleDe": "Hundesitter & Gassi-Service in Toulouse",
+      "introDe": "Toulouse verfügt über einen aktiven Markt für Haustierbetreuung über Rover.fr, Pawshake.fr und die französische Plattform Gudog. Angesichts des Tisséo-Verbots für Hunde im öffentlichen Nahverkehr ist ein zuverlässiger Hundeausführer oder eine Tagesbetreuung in Toulouse besonders nützlich, um die Stadterkundung zu organisieren. Die durchschnittlichen Kosten entsprechen denen einer typischen französischen Regionalhauptstadt, etwas niedriger als in Paris.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet ein Hundeausführer in Toulouse?",
+          "a": "Etwa 12–15 € für einen 30-minütigen Spaziergang und 25–40 € pro Nacht für die Betreuung (Rover-Durchschnittswerte 2026 in Toulouse). Die Preise liegen etwas unter denen von Paris."
         }
       ]
     }

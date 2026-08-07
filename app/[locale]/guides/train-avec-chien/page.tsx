@@ -51,6 +51,7 @@ export async function generateMetadata({
         fr: `${SITE_URL}/fr/guides/train-avec-chien`,
         es: `${SITE_URL}/es/guides/train-avec-chien`,
         pt: `${SITE_URL}/pt/guides/train-avec-chien`,
+        de: `${SITE_URL}/de/guides/train-avec-chien`,
         'x-default': `${SITE_URL}/en/guides/train-avec-chien`,
       },
     },

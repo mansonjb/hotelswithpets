@@ -59,6 +59,7 @@ export async function generateMetadata({
         fr: `${SITE_URL}/fr/guides/${SLUG}`,
         es: `${SITE_URL}/es/guides/${SLUG}`,
         pt: `${SITE_URL}/pt/guides/${SLUG}`,
+        de: `${SITE_URL}/de/guides/${SLUG}`,
         'x-default': `${SITE_URL}/en/guides/${SLUG}`,
       },
     },

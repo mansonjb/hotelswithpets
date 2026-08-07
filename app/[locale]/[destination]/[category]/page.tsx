@@ -119,6 +119,7 @@ export async function generateMetadata({
         fr: `${SITE_URL}/fr/${destination}/${category}`,
         es: `${SITE_URL}/es/${destination}/${category}`,
         pt: `${SITE_URL}/pt/${destination}/${category}`,
+        de: `${SITE_URL}/de/${destination}/${category}`,
         'x-default': `${SITE_URL}/en/${destination}/${category}`,
       },
     },

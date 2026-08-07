@@ -402,6 +402,7 @@ export async function generateMetadata({
         fr: `${SITE_URL}/fr/dog-parks`,
         es: `${SITE_URL}/es/dog-parks`,
         pt: `${SITE_URL}/pt/dog-parks`,
+        de: `${SITE_URL}/de/dog-parks`,
         'x-default': `${SITE_URL}/en/dog-parks`,
       },
     },

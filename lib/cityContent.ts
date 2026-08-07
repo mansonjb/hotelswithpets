@@ -4,6 +4,8 @@
  * To be expanded progressively for all covered cities.
  */
 
+import { cityContentDe } from './cityContentDe'
+
 export interface Sight {
   name: string
   emoji: string
@@ -53846,6 +53848,17 @@ const cityContent: Record<string, CityContent> = {
   },
 
 
+}
+
+// Merge the German overlay (progressive; cities/fields not yet translated keep en).
+for (const slug of Object.keys(cityContentDe)) {
+  const cc = cityContent[slug]
+  const ov = cityContentDe[slug]
+  if (!cc) continue
+  if (ov.history) cc.history.de = ov.history
+  if (ov.petTips) cc.petTips.de = ov.petTips
+  if (ov.practicalInfo) cc.practicalInfo.de = ov.practicalInfo
+  if (ov.sights) for (const s of cc.sights) { const d = ov.sights[s.name]; if (d) s.desc.de = d }
 }
 
 export default cityContent

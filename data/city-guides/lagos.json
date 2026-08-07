@@ -417,7 +417,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens en laisse muselés + demi-tarif, heures creuses uniquement",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes con correa con bozal + mitad de tarifa, solo horas valle",
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes com trela com açaime + meia tarifa, apenas horas de menor afluência",
-          "googleMapsUrl": "https://maps.google.com/?q=Estacao+CP+Lagos"
+          "googleMapsUrl": "https://maps.google.com/?q=Estacao+CP+Lagos",
+          "descriptionDe": "Die CP-Regionallinie verkehrt von Lagos nach Faro in etwa 1:45 Std. (rund 7,30 € pro Strecke) und verbindet in Tunes mit Fernzügen nach Lissabon. Kleine Hunde in Transportboxen fahren kostenlos; größere Hunde an der Leine benötigen einen Maulkorb und ein Ticket zum halben Preis, nur außerhalb der Stoßzeiten.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde an der Leine mit Maulkorb + halber Fahrpreis, nur außerhalb der Stoßzeiten"
         },
         {
           "name": "Onda Lagos municipal bus",
@@ -433,7 +435,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens à la discrétion du chauffeur quand le bus n'est pas plein",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes a discreción del conductor cuando el bus no está lleno",
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes à discrição do motorista quando o autocarro não vai cheio",
-          "googleMapsUrl": "https://maps.google.com/?q=Onda+Lagos+bus+station"
+          "googleMapsUrl": "https://maps.google.com/?q=Onda+Lagos+bus+station",
+          "descriptionDe": "Der städtische Onda-Bus verkehrt auf vier farbcodierten Linien, die die Altstadt, Meia Praia, Porto de Mós, Praia da Luz und den Leuchtturm Ponta da Piedade verbinden. Einzelfahrt rund 1,40 €; kleine Hunde in Transportboxen fahren kostenlos, große angeleinte Hunde nach Ermessen des Fahrers.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; große Hunde nach Ermessen des Fahrers, wenn der Bus nicht voll ist"
         },
         {
           "name": "Ferry Lagos to Meia Praia",
@@ -449,7 +453,9 @@
           "petPolicyFr": "Chiens en laisse bienvenus sans supplément",
           "petPolicyEs": "Perros con correa bienvenidos sin coste extra",
           "petPolicyPt": "Cães com trela bem-vindos sem custo extra",
-          "googleMapsUrl": "https://maps.google.com/?q=Cais+da+Solaria+Lagos"
+          "googleMapsUrl": "https://maps.google.com/?q=Cais+da+Solaria+Lagos",
+          "descriptionDe": "Eine kleine Personenfähre überquert die Mündung des Flusses Bensafrim vom marinaseitigen Cais da Solaria bis zum Dünenende von Meia Praia alle 30 Minuten während der Saison von Mai bis Oktober. Die 5-minütige Überfahrt erspart den 3 km langen Fußweg um die Marina und angeleinte Hunde sind kostenlos willkommen.",
+          "petPolicyDe": "Angeleinte Hunde ohne Aufpreis willkommen"
         }
       ],
       "faqsEn": [
@@ -1016,7 +1022,11 @@
           "tipFr": "Faites le tour des remparts à l'heure dorée juste avant le coucher du soleil ; la pierre ocre rougeoie et les lumières de la marina s'allument pour une vue unique.",
           "tipEs": "Recorre las murallas en la hora dorada justo antes del atardecer; la piedra ocre brilla y las luces del puerto deportivo se encienden para una vista única.",
           "tipPt": "Faça o circuito das muralhas à hora dourada mesmo antes do pôr-do-sol; a pedra ocre brilha e as luzes da marina acendem-se para uma vista única.",
-          "googleMapsUrl": "https://maps.google.com/?q=Forte+Ponta+da+Bandeira+Lagos"
+          "googleMapsUrl": "https://maps.google.com/?q=Forte+Ponta+da+Bandeira+Lagos",
+          "descriptionDe": "Die Stadtmauer aus dem 16. Jahrhundert um die Altstadt und die seewärtige Forte da Ponta da Bandeira, 1690 zur Verteidigung des Hafens erbaut. Die Mauern und das Außengelände der Festung sind ganzjährig hundefreundlich; das Innere der Festung beherbergt ein kleines Museum, das nur Assistenzhunde zulässt.",
+          "dogPolicyDe": "Angeleinte Hunde auf den Mauern und dem Außengelände der Festung willkommen; im Inneren nur Assistenzhunde",
+          "admissionFeeDe": "Mauern kostenlos; Festung 3 €",
+          "tipDe": "Gehen Sie die Mauerrunde zur goldenen Stunde kurz vor Sonnenuntergang, der ockerfarbene Stein leuchtet und die Lichter der Marina gehen für einen einzigartigen Blick an."
         },
         {
           "name": "Praça do Infante and Mercado de Escravos site",
@@ -1039,7 +1049,11 @@
           "tipFr": "La Praça do Infante accueille le marché artisanal du week-end ; les jours de semaine plus calmes laissent votre chien explorer la place sans foule.",
           "tipEs": "La Praça do Infante acoge el mercado artesanal del fin de semana; los días laborables más tranquilos dejan a tu perro explorar la plaza sin gentío.",
           "tipPt": "A Praça do Infante acolhe o mercado artesanal do fim de semana; os dias úteis mais calmos deixam o seu cão explorar a praça sem multidão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Praca+do+Infante+Lagos"
+          "googleMapsUrl": "https://maps.google.com/?q=Praca+do+Infante+Lagos",
+          "descriptionDe": "Der Platz Praça do Infante mit seiner Statue von Heinrich dem Seefahrer liegt gegenüber dem ehemaligen Gebäude des Mercado de Escravos, dem ersten Sklavenmarkt des modernen Europas (1444), heute ein kleines Gedenkmuseum. Der Platz, die Statue und die angrenzenden Kirchenfassaden sind ganzjährig ein vollständig hundefreundlicher öffentlicher Freiraum.",
+          "dogPolicyDe": "Angeleinte Hunde auf dem gesamten Platz willkommen; im Museum nur Assistenzhunde",
+          "admissionFeeDe": "Platz kostenlos; Museum 3 €",
+          "tipDe": "Auf der Praça do Infante findet der Kunsthandwerkermarkt am Wochenende statt; an ruhigeren Wochentagen kann Ihr Hund den Platz ohne Gedränge erkunden."
         }
       ],
       "tipsEn": [

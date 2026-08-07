@@ -415,7 +415,9 @@
           "petPolicyEs": "Perros pequeños gratis (transportín); grandes, billete completo + correa + bozal",
           "googleMapsUrl": "https://maps.google.com/?q=Toledo+Metro+Napoli",
           "descriptionPt": "A Azienda Napoletana Mobilità gere a Metro Linha 1 (a linha turística que passa por Toledo, Dante e Museo), a Linha 6, quatro funiculares e a rede de autocarros urbanos. Os cães pequenos em transportadora viajam gratuitamente; os maiores precisam de açaime, trela curta e bilhete de tarifa normal no metro/autocarro.",
-          "petPolicyPt": "Cães pequenos gratuitos (transportadora); cães grandes bilhete completo + trela + açaime"
+          "petPolicyPt": "Cães pequenos gratuitos (transportadora); cães grandes bilhete completo + trela + açaime",
+          "descriptionDe": "Die Azienda Napoletana Mobilità betreibt die Metrolinie 1 (die touristische Linie durch Toledo, Dante und Museo), Linie 6, vier Standseilbahnen und das städtische Busnetz. Kleine Hunde in einer Transportbox fahren kostenlos; größere Hunde benötigen einen Maulkorb, eine kurze Leine und ein Ticket zum normalen Fahrpreis in Metro/Bus.",
+          "petPolicyDe": "Kleine Hunde kostenlos (Transportbox); große Hunde vollständiges Ticket + Leine + Maulkorb"
         },
         {
           "name": "Circumvesuviana (EAV)",
@@ -449,7 +451,9 @@
           "petPolicyEs": "Correa + bozal; billete de perro aparte ~5 €",
           "googleMapsUrl": "https://maps.google.com/?q=Molo+Beverello+Napoli",
           "descriptionPt": "O principal porto de ferries para Capri, Ischia, Procida e Sorrento. Todos os grandes operadores (Alilauro, Caremar, SNAV, NLG) aceitam cães com trela e açaime nos conveses exteriores; é necessário reservar um bilhete de cão com antecedência (cerca de 5 €) nos hidroplanadores.",
-          "petPolicyPt": "Trela + açaime; bilhete de cão à parte ~5 €"
+          "petPolicyPt": "Trela + açaime; bilhete de cão à parte ~5 €",
+          "descriptionDe": "Der Hauptfährhafen für Capri, Ischia, Procida und Sorrent. Alle großen Anbieter (Alilauro, Caremar, SNAV, NLG) lassen angeleinte Hunde mit Maulkorb auf den Außendecks zu; für Tragflügelboote ist ein im Voraus gebuchtes Hundeticket (rund 5 €) erforderlich.",
+          "petPolicyDe": "Leine + Maulkorb; separates Hundeticket ~5 €"
         }
       ],
       "tipsEn": [
@@ -1055,7 +1059,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Castel+dell%27Ovo+Napoli",
           "descriptionPt": "A fortificação mais antiga ainda de pé em Nápoles, construída sobre um ilhéu de tufo ligado a Santa Lucia por uma calçada. As muralhas exteriores e a aldeia piscatória do Borgo Marinari à sua volta têm acesso livre com trela, com vistas panorâmicas para o Vesúvio. As exposições interiores não aceitam animais.",
           "petPolicyPt": "Muralhas exteriores: com trela; interior: sem animais",
-          "tipPt": "Atravesse a calçada à hora azul (30 min depois do pôr do sol), o brilho do castelo, a silhueta do Vesúvio e as luzes do porto compõem a melhor fotografia do skyline de Nápoles com o seu cão."
+          "tipPt": "Atravesse a calçada à hora azul (30 min depois do pôr do sol), o brilho do castelo, a silhueta do Vesúvio e as luzes do porto compõem a melhor fotografia do skyline de Nápoles com o seu cão.",
+          "descriptionDe": "Neapels älteste erhaltene Festungsanlage, erbaut auf einer Tuffinsel, die über einen Damm mit Santa Lucia verbunden ist. Die äußeren Wallanlagen und das umliegende Fischerdorf Borgo Marinari sind an der Leine frei zugänglich, mit Panoramablick auf den Vesuv. Die Ausstellungen im Inneren sind haustierfrei.",
+          "petPolicyDe": "Äußere Wallanlagen: Leine; Innenbereich: keine Haustiere",
+          "tipDe": "Überqueren Sie den Damm zur blauen Stunde (30 Minuten nach Sonnenuntergang), das Leuchten der Burg, die Vesuv-Silhouette und die Hafenlichter ergeben das beste Neapel-Skyline-Foto mit Ihrem Hund."
         },
         {
           "name": "Pompeii Archaeological Park",
@@ -1076,7 +1083,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pompeii+Archaeological+Park",
           "descriptionPt": "A cidade romana classificada pela UNESCO, soterrada pelo Vesúvio em 79 d.C. Os cães com trela são admitidos gratuitamente em todo o parque arqueológico, um dos maiores sítios históricos da Europa que aceita cães. A maioria das ruas é pavimentada com basalto original irregular; leve água e evite o calor do meio do dia no verão.",
           "petPolicyPt": "Cães com trela admitidos gratuitamente; sem edifícios interiores",
-          "tipPt": "Entre pela Porta Marina Superiore e saia pela Piazza Anfiteatro, o percurso a descer protege as patas do basalto quente e passa pelos principais pontos de interesse sem ter de voltar atrás."
+          "tipPt": "Entre pela Porta Marina Superiore e saia pela Piazza Anfiteatro, o percurso a descer protege as patas do basalto quente e passa pelos principais pontos de interesse sem ter de voltar atrás.",
+          "descriptionDe": "Die UNESCO-gelistete römische Stadt, die 79 n. Chr. vom Vesuv verschüttet wurde. Angeleinte Hunde haben freien Zutritt zum gesamten archäologischen Park, einer der größten hundefreundlichen historischen Stätten Europas. Die meisten Straßen sind mit unebenem original Basalt gepflastert; nehmen Sie Wasser mit und meiden Sie die sommerliche Mittagshitze.",
+          "petPolicyDe": "Angeleinte Hunde haben freien Zutritt; keine Innenräume",
+          "tipDe": "Betreten Sie den Park über die Porta Marina Superiore und verlassen Sie ihn über die Piazza Anfiteatro, die Bergabroute schont die Pfoten auf heißem Basalt und führt an den wichtigsten Highlights vorbei, ohne zurückzugehen."
         },
         {
           "name": "Lungomare Caracciolo",
@@ -1228,7 +1238,11 @@
           "descriptionPt": "Plataforma europeia de cuidado de animais com cuidadores verificados em Nápoles para passeio de cães, creche e alojamento em casa. Todas as reservas têm seguro e incluem atualizações diárias com fotografias. Tarifas médias: 18 a 30 €/dia de alojamento em casa e 10 a 15 € por um passeio de uma hora.",
           "petPolicyPt": "Cuidadores verificados, seguro incluído",
           "servicesPt": "Passeio de cães, creche, alojamento em casa",
-          "tipPt": "Filtre os cuidadores por experiência com raças do sul de Itália (Cane Corso, Maremmano), Nápoles tem muitos cuidadores familiarizados com grandes raças de guarda, o que pode ser uma preocupação para os donos de cães mais pequenos."
+          "tipPt": "Filtre os cuidadores por experiência com raças do sul de Itália (Cane Corso, Maremmano), Nápoles tem muitos cuidadores familiarizados com grandes raças de guarda, o que pode ser uma preocupação para os donos de cães mais pequenos.",
+          "descriptionDe": "Europäischer Marktplatz für Haustierbetreuung mit verifizierten Betreuern in Neapel für Gassigehen, Tagesbetreuung und Tierpension zu Hause. Alle Buchungen sind versichert und beinhalten tägliche Fotoupdates. Durchschnittliche Preise: 18–30 €/Tag Tierpension zu Hause und 10–15 € für einen einstündigen Spaziergang.",
+          "petPolicyDe": "Verifizierte Betreuer, Versicherung inbegriffen",
+          "servicesDe": "Gassigehen, Tagesbetreuung, Tierpension zu Hause",
+          "tipDe": "Filtern Sie Betreuer nach Erfahrung mit süditalienischen Rassen (Cane Corso, Maremmano), Neapel hat viele Betreuer, die mit großen Hüterassen vertraut sind, was für Besitzer kleinerer Hunde ein Anliegen sein kann."
         }
       ],
       "tipsEn": [

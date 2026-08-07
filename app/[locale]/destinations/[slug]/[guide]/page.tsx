@@ -33,26 +33,31 @@ interface GuidePlace {
   descriptionFr?: string
   descriptionEs?: string
   descriptionPt?: string
+  descriptionDe?: string
   // Multilingual pet policy
   petPolicy?: string
   petPolicyFr?: string
   petPolicyEs?: string
   petPolicyPt?: string
+  petPolicyDe?: string
   priceRange?: string
   // Multilingual mustTry
   mustTry?: string
   mustTryFr?: string
   mustTryEs?: string
   mustTryPt?: string
+  mustTryDe?: string
   // Multilingual hours
   openingHours?: string
   openingHoursFr?: string
   openingHoursEs?: string
   openingHoursPt?: string
+  openingHoursDe?: string
   hours?: string
   hoursFr?: string
   hoursEs?: string
   hoursPt?: string
+  hoursDe?: string
   phone?: string
   offLeash?: boolean
   // Multilingual offLeashArea
@@ -60,17 +65,20 @@ interface GuidePlace {
   offLeashAreaFr?: string
   offLeashAreaEs?: string
   offLeashAreaPt?: string
+  offLeashAreaDe?: string
   // Multilingual tip
   tip?: string
   tipFr?: string
   tipEs?: string
   tipPt?: string
+  tipDe?: string
   season?: string
   // Multilingual rules
   rules?: string
   rulesFr?: string
   rulesEs?: string
   rulesPt?: string
+  rulesDe?: string
   facilities?: string
   englishSpeaking?: boolean
   googleMapsUrl?: string
@@ -79,15 +87,18 @@ interface GuidePlace {
   admissionFeeFr?: string
   admissionFeeEs?: string
   admissionFeePt?: string
+  admissionFeeDe?: string
   dogPolicy?: string
   dogPolicyFr?: string
   dogPolicyEs?: string
   dogPolicyPt?: string
+  dogPolicyDe?: string
   // New fields for petsitting
   serviceType?: string
   serviceTypeFr?: string
   serviceTypeEs?: string
   serviceTypePt?: string
+  serviceTypeDe?: string
   pricePerDay?: string
   languages?: string[]
   rating?: number
@@ -103,10 +114,12 @@ interface GuideSection {
   titleFr?: string
   titleEs?: string
   titlePt?: string
+  titleDe?: string
   contentEn: string
   contentFr?: string
   contentEs?: string
   contentPt?: string
+  contentDe?: string
 }
 
 interface GuideData {
@@ -114,30 +127,36 @@ interface GuideData {
   titleFr?: string
   titleEs?: string
   titlePt?: string
+  titleDe?: string
   introEn: string
   introFr?: string
   introEs?: string
   introPt?: string
+  introDe?: string
   places?: GuidePlace[]
-  rules?: Array<{ mode: string; modeFr?: string; modeEs?: string; modePt?: string; policy: string; policyFr?: string; policyEs?: string; policyPt?: string; tip: string; tipFr?: string; tipEs?: string; tipPt?: string }>
+  rules?: Array<{ mode: string; modeFr?: string; modeEs?: string; modePt?: string; modeDe?: string; policy: string; policyFr?: string; policyEs?: string; policyPt?: string; policyDe?: string; tip: string; tipFr?: string; tipEs?: string; tipPt?: string; tipDe?: string }>
   sections?: GuideSection[]
   tipsEn?: string[]
   tipsFr?: string[]
   tipsEs?: string[]
   tipsPt?: string[]
+  tipsDe?: string[]
   faqsEn?: GuideFaq[]
   faqsFr?: GuideFaq[]
   faqsEs?: GuideFaq[]
   faqsPt?: GuideFaq[]
+  faqsDe?: GuideFaq[]
   entryRequirements?: {
     euPets: string
     euPetsFr?: string
     euPetsEs?: string
     euPetsPt?: string
+    euPetsDe?: string
     nonEuPets: string
     nonEuPetsFr?: string
     nonEuPetsEs?: string
     nonEuPetsPt?: string
+    nonEuPetsDe?: string
     emergencyContacts?: string[]
   }
 }
@@ -279,8 +298,8 @@ export async function generateMetadata({
 
   // Prefer the traveller-intent template; fall back to JSON title for sections we haven't templated.
   const tpl = META_TPL[guide]?.[lang]
-  const fallbackTitle = locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : locale === 'pt' && guideData.titlePt ? guideData.titlePt : guideData.titleEn
-  const fallbackIntro = locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' && guideData.introPt ? guideData.introPt : guideData.introEn
+  const fallbackTitle = locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : locale === 'pt' && guideData.titlePt ? guideData.titlePt : locale === 'de' && guideData.titleDe ? guideData.titleDe : guideData.titleEn
+  const fallbackIntro = locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' && guideData.introPt ? guideData.introPt : locale === 'de' && guideData.introDe ? guideData.introDe : guideData.introEn
 
   const metaTitle = tpl ? tpl.title(localizedCity) : (fallbackTitle ?? guideData.titleEn)
   const metaDesc = tpl ? tpl.desc(localizedCity) : String(fallbackIntro ?? guideData.introEn ?? '').slice(0, 160)
@@ -306,10 +325,11 @@ export async function generateMetadata({
 // ─── Locale helpers ───────────────────────────────────────────────────────────
 
 /** Pick locale-aware value with English fallback */
-function loc<T extends string | undefined>(en: T, fr: T | undefined, es: T | undefined, locale: string, pt?: T | undefined): T {
+function loc<T extends string | undefined>(en: T, fr: T | undefined, es: T | undefined, locale: string, pt?: T | undefined, de?: T | undefined): T {
   if (locale === 'fr' && fr) return fr
   if (locale === 'es' && es) return es
   if (locale === 'pt' && pt) return pt
+  if (locale === 'de' && de) return de
   return en
 }
 
@@ -319,7 +339,8 @@ function getPlaceField(place: GuidePlace, field: string, locale: string): string
   const frVal = p[`${field}Fr`]
   const esVal = p[`${field}Es`]
   const ptVal = p[`${field}Pt`]
-  return loc(enVal ?? '', frVal, esVal, locale, ptVal)
+  const deVal = p[`${field}De`]
+  return loc(enVal ?? '', frVal, esVal, locale, ptVal, deVal)
 }
 
 /**
@@ -539,10 +560,10 @@ export default async function GuideDetailPage({
   const dict = await getDictionary(locale as Locale)
   const ui = uiLabels(locale)
 
-  const title = (locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : locale === 'pt' ? guideData.titlePt : null) ?? guideData.titleEn
-  const intro = (locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' ? guideData.introPt : null) ?? guideData.introEn
-  const tipsPick = (locale === 'fr' ? guideData.tipsFr : locale === 'es' ? guideData.tipsEs : locale === 'pt' ? guideData.tipsPt : null) ?? guideData.tipsEn
-  const faqsPick = (locale === 'fr' ? guideData.faqsFr : locale === 'es' ? guideData.faqsEs : locale === 'pt' ? guideData.faqsPt : null) ?? guideData.faqsEn
+  const title = (locale === 'fr' ? guideData.titleFr : locale === 'es' ? guideData.titleEs : locale === 'pt' ? guideData.titlePt : locale === 'de' ? guideData.titleDe : null) ?? guideData.titleEn
+  const intro = (locale === 'fr' ? guideData.introFr : locale === 'es' ? guideData.introEs : locale === 'pt' ? guideData.introPt : locale === 'de' ? guideData.introDe : null) ?? guideData.introEn
+  const tipsPick = (locale === 'fr' ? guideData.tipsFr : locale === 'es' ? guideData.tipsEs : locale === 'pt' ? guideData.tipsPt : locale === 'de' ? guideData.tipsDe : null) ?? guideData.tipsEn
+  const faqsPick = (locale === 'fr' ? guideData.faqsFr : locale === 'es' ? guideData.faqsEs : locale === 'pt' ? guideData.faqsPt : locale === 'de' ? guideData.faqsDe : null) ?? guideData.faqsEn
   // Never trust the shape from a JSON authored by the daily pipeline: a section
   // whose tips/faqs came through as an object instead of an array would crash
   // the whole route on .map(). Coerce to an array defensively.
@@ -1144,9 +1165,9 @@ export default async function GuideDetailPage({
                 </thead>
                 <tbody>
                   {guideData.rules.map((rule, i) => {
-                    const mode = loc(rule.mode, rule.modeFr, rule.modeEs, locale)
-                    const policy = loc(rule.policy, rule.policyFr, rule.policyEs, locale)
-                    const tip = loc(rule.tip, rule.tipFr, rule.tipEs, locale, rule.tipPt)
+                    const mode = loc(rule.mode, rule.modeFr, rule.modeEs, locale, undefined, rule.modeDe)
+                    const policy = loc(rule.policy, rule.policyFr, rule.policyEs, locale, undefined, rule.policyDe)
+                    const tip = loc(rule.tip, rule.tipFr, rule.tipEs, locale, rule.tipPt, rule.tipDe)
                     return (
                       <tr key={i} className={i % 2 === 0 ? 'bg-white' : 'bg-gray-50/50'}>
                         <td className="px-4 py-3 font-medium text-gray-900 align-top">{mode}</td>
@@ -1168,11 +1189,11 @@ export default async function GuideDetailPage({
             <div className="space-y-3 text-sm text-gray-700">
               <div>
                 <strong>{ui.euPets}</strong>{' '}
-                {loc(guideData.entryRequirements.euPets, guideData.entryRequirements.euPetsFr, guideData.entryRequirements.euPetsEs, locale)}
+                {loc(guideData.entryRequirements.euPets, guideData.entryRequirements.euPetsFr, guideData.entryRequirements.euPetsEs, locale, undefined, guideData.entryRequirements.euPetsDe)}
               </div>
               <div>
                 <strong>{ui.nonEuPets}</strong>{' '}
-                {loc(guideData.entryRequirements.nonEuPets, guideData.entryRequirements.nonEuPetsFr, guideData.entryRequirements.nonEuPetsEs, locale)}
+                {loc(guideData.entryRequirements.nonEuPets, guideData.entryRequirements.nonEuPetsFr, guideData.entryRequirements.nonEuPetsEs, locale, undefined, guideData.entryRequirements.nonEuPetsDe)}
               </div>
               {Array.isArray(guideData.entryRequirements.emergencyContacts) && (
                 <div>
@@ -1192,7 +1213,7 @@ export default async function GuideDetailPage({
         {Array.isArray(guideData.sections) && guideData.sections.length > 0 && (
           <section className="mb-12 space-y-6">
             {guideData.sections.map((section, i) => {
-              const secTitle = (locale === 'fr' ? section.titleFr : locale === 'es' ? section.titleEs : locale === 'pt' ? section.titlePt : null) ?? section.titleEn
+              const secTitle = (locale === 'fr' ? section.titleFr : locale === 'es' ? section.titleEs : locale === 'pt' ? section.titlePt : locale === 'de' ? section.titleDe : null) ?? section.titleEn
               const secContent = (locale === 'fr' ? section.contentFr : locale === 'es' ? section.contentEs : locale === 'pt' ? section.contentPt : null) ?? section.contentEn
               return (
                 <div key={i} className="bg-white rounded-2xl border border-gray-200 p-6 shadow-sm">

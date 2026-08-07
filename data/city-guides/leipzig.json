@@ -272,7 +272,10 @@
             "Caminos riberenhos",
             "Múltiples acessos"
           ],
-          "tipPt": "Entra por Plagwitz (Karl-Heine-Kanal), bucle plano de 8 km a lo largo do canal de vuelta al centro, todo sem trela."
+          "tipPt": "Entra por Plagwitz (Karl-Heine-Kanal), bucle plano de 8 km a lo largo do canal de vuelta al centro, todo sem trela.",
+          "leashRuleDe": "Freilauf auf den meisten Waldwegen (April–Juli angeleint in Brutzonen)",
+          "descriptionDe": "Europas größter städtischer Auwald, 5.500 Hektar Eichen- und Eschenwald entlang von Weißer Elster, Pleiße und Karl-Heine-Kanal. Durchzogen von 14 km hundefreundlichen Treidelpfaden, direkt vom Stadtzentrum aus erreichbar.",
+          "tipDe": "Einstieg über Plagwitz (Karl-Heine-Kanal), flache 8-km-Runde entlang des Kanals zurück ins Zentrum, komplett ohne Leine."
         },
         {
           "name": "Cospudener See (Cossi)",
@@ -422,7 +425,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Leipzig+Hauptbahnhof",
           "descriptionPt": "Leipziger Verkehrsbetriebe (LVB) opera 13 líneas de elétrico e 60 líneas de autocarro. Cães pequenhos en transportadora viajan grátis; medianos e grandes requieren bilhete infantil (uns 1,40 €) e deben levar bozal a bordo.",
           "petPolicyPt": "Bilhete infantil + bozal para cães medianos/grandes",
-          "tipPt": "Compra o bilhete vía app LVB.do en máquinas, os conductores no venden en hora punta."
+          "tipPt": "Compra o bilhete vía app LVB.do en máquinas, os conductores no venden en hora punta.",
+          "descriptionDe": "Die Leipziger Verkehrsbetriebe (LVB) betreiben 13 Straßenbahn- und 60 Buslinien. Kleine Hunde in Transportboxen fahren kostenlos; mittelgroße und große Hunde benötigen eine Kinderfahrkarte (etwa 1,40 €) und müssen an Bord einen Maulkorb tragen.",
+          "petPolicyDe": "Kinderfahrkarte + Maulkorb für mittelgroße/große Hunde",
+          "tipDe": "Kaufen Sie das Ticket über die LVB.de-App oder an den Automaten auf dem Bahnsteig, Fahrer verkaufen zu Stoßzeiten keine Tickets."
         },
         {
           "name": "Deutsche Bahn ICE",
@@ -787,7 +793,9 @@
           "tipEs": "Llama a urgencias antes de ir, hacen triaje por teléfono y pueden redirigir casos no urgentes.",
           "googleMapsUrl": "https://maps.google.com/?q=Veterinaermedizinische+Fakultaet+Leipzig",
           "descriptionPt": "O hospital universitario veterinário da Universidade de Leipzig, urgências 24h com plantilla completa e a cobertura especialista mais profunda de Sajonia (oncología, cardiología, neurología, ortopedia, especies exóticas).",
-          "tipPt": "Liga a urgências antes de ir, fazem triaje por teléfono e podem redirigir casos no urgentes."
+          "tipPt": "Liga a urgências antes de ir, fazem triaje por teléfono e podem redirigir casos no urgentes.",
+          "descriptionDe": "Die tierärztliche Lehrklinik der Universität Leipzig, rund um die Uhr voll besetzte Notaufnahme und die umfassendste fachärztliche Abdeckung Sachsens (Onkologie, Kardiologie, Neurologie, Orthopädie, exotische Tierarten).",
+          "tipDe": "Rufen Sie vor der Anfahrt die Notfall-Hotline an, dort wird telefonisch trianiert und bei nicht dringenden Fällen gegebenenfalls weitergeleitet."
         },
         {
           "name": "Tierarztpraxis Plagwitz",
@@ -926,7 +934,8 @@
           "description": "May-June and September are ideal, average highs 20-23 °C, the Auenwald is at its leafy best, and the Cospudener See water is warm enough for dog swimming. Avoid August (Leipziger Buchmesse and Wave-Gotik-Treffen festivals create dense crowds).",
           "descriptionFr": "Mai-juin et septembre sont idéaux, maxima moyens 20-23 °C, l'Auenwald au mieux de sa frondaison, et l'eau du Cospudener See assez chaude pour la baignade canine. Évitez août (Leipziger Buchmesse et Wave-Gotik-Treffen créent des foules denses).",
           "descriptionEs": "Mayo-junio y septiembre son ideales, máximas medias 20-23 °C, el Auenwald en lo mejor de su follaje, y el agua del Cospudener See suficientemente caliente para baño canino. Evita agosto (Leipziger Buchmesse y Wave-Gotik-Treffen crean multitudes densas).",
-          "descriptionPt": "Maio-junho e setembro são ideales, máximas medias 20-23 °C, o Auenwald en lo melhor do seu follaje, e o água do Cospudener See suficientemente quente para banho canino. Evita agosto (Leipziger Buchmesse e Wave-Gotik-Treffen crean multitudes densas)."
+          "descriptionPt": "Maio-junho e setembro são ideales, máximas medias 20-23 °C, o Auenwald en lo melhor do seu follaje, e o água do Cospudener See suficientemente quente para banho canino. Evita agosto (Leipziger Buchmesse e Wave-Gotik-Treffen crean multitudes densas).",
+          "descriptionDe": "Mai–Juni und September sind ideal, mit Höchsttemperaturen von durchschnittlich 20–23 °C, der Auwald zeigt sich von seiner grünsten Seite, und das Wasser im Cospudener See ist warm genug zum Hundebaden. Meiden Sie den August (Leipziger Buchmesse und Wave-Gotik-Treffen sorgen für großes Gedränge)."
         },
         {
           "name": "Currency & cost",
@@ -934,7 +943,8 @@
           "description": "Germany uses the euro. Most hotels and restaurants accept Visa/Mastercard, but small Gaststätten often want cash. Pet supplements at Leipzig hotels average 12-15 €/night, significantly below Munich or Hamburg, in line with the EU median.",
           "descriptionFr": "L'Allemagne utilise l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, mais les petites Gaststätten préfèrent souvent les espèces. Les suppléments animaux dans les hôtels de Leipzig tournent autour de 12-15 €/nuit, significativement en-dessous de Munich ou Hambourg, alignés sur la médiane UE.",
           "descriptionEs": "Alemania usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, pero las Gaststätten pequeñas suelen preferir efectivo. Los suplementos para mascotas en hoteles de Leipzig rondan 12-15 €/noche, significativamente por debajo de Múnich o Hamburgo, en línea con la mediana UE.",
-          "descriptionPt": "Alemania usa o euro. A maioria de hotéis e restaurantes admite Visa/Mastercard, mas as Gaststätten pequenhas costumam preferir efectivo. Os suplementos para animais en hotéis de Leipzig rondan 12-15 €/noite, significativamente por debaixo de Munique o Hamburgo, en línea com a mediana UE."
+          "descriptionPt": "Alemania usa o euro. A maioria de hotéis e restaurantes admite Visa/Mastercard, mas as Gaststätten pequenhas costumam preferir efectivo. Os suplementos para animais en hotéis de Leipzig rondan 12-15 €/noite, significativamente por debaixo de Munique o Hamburgo, en línea com a mediana UE.",
+          "descriptionDe": "In Deutschland wird mit Euro bezahlt. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, kleine Gaststätten wünschen jedoch oft Bargeld. Haustierzuschläge in Leipziger Hotels liegen im Schnitt bei 12–15 €/Nacht, deutlich unter München oder Hamburg und im Rahmen des EU-Medians."
         },
         {
           "name": "Languages",
@@ -942,7 +952,8 @@
           "description": "German is the official language. English is widely spoken in tourism (hotels, central restaurants, vets) and especially among under-40s. Useful German phrase: 'Ich habe einen Hund' = 'I have a dog'.",
           "descriptionFr": "L'allemand est la langue officielle. L'anglais est largement parlé dans le tourisme (hôtels, restaurants centraux, vétérinaires) et surtout chez les moins de 40 ans. Phrase allemande utile : « Ich habe einen Hund » = « J'ai un chien ».",
           "descriptionEs": "El alemán es la lengua oficial. El inglés se habla ampliamente en el turismo (hoteles, restaurantes céntricos, veterinarios) y sobre todo entre menores de 40. Frase alemana útil: « Ich habe einen Hund » = « Tengo un perro ».",
-          "descriptionPt": "O alemão é a lengua oficial. O inglês se habla ampliamente no turismo (hotéis, restaurantes céntricos, veterinários) e sobre todo entre menores de 40. Frase alemana útil: « Ich habe einen Hund » = « Tengo um cão »."
+          "descriptionPt": "O alemão é a lengua oficial. O inglês se habla ampliamente no turismo (hotéis, restaurantes céntricos, veterinários) e sobre todo entre menores de 40. Frase alemana útil: « Ich habe einen Hund » = « Tengo um cão ».",
+          "descriptionDe": "Deutsch ist die Amtssprache. Englisch wird im Tourismus (Hotels, zentrale Restaurants, Tierärzte) weithin gesprochen, besonders bei unter 40-Jährigen. Nützlicher deutscher Satz: „Ich habe einen Hund.“"
         }
       ],
       "tipsEn": [
@@ -1046,7 +1057,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Markt+Leipzig",
           "descriptionPt": "A praça principal de Leipzig dominada pelo antigo ayuntamiento renascentista, abierta 24/7, pet-friendly com cães com trela em todo o lado. O mercado de terça-feira a sábado e o mercado navidenho admitem cães.",
           "petPolicyPt": "Praça pública, cães com trela grátis",
-          "tipPt": "Visita al atardecer para as melhores fotos da fachada do Altes Rathaus e as casas com frontones circundantes."
+          "tipPt": "Visita al atardecer para as melhores fotos da fachada do Altes Rathaus e as casas com frontones circundantes.",
+          "descriptionDe": "Leipzigs Hauptplatz, geprägt vom Renaissance-Bau des Alten Rathauses, rund um die Uhr geöffnet, hundefreundlich mit angeleinten Hunden überall. Der Markt von Dienstag bis Samstag und der Weihnachtsmarkt sind hundetolerant.",
+          "petPolicyDe": "Öffentlicher Platz, angeleinte Hunde kostenlos",
+          "tipDe": "Besuchen Sie ihn bei Sonnenuntergang für die schönsten Fotos der Fassade des Alten Rathauses und der umliegenden Giebelhäuser."
         },
         {
           "name": "Völkerschlachtdenkmal Grounds",
@@ -1066,7 +1080,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Voelkerschlachtdenkmal+Leipzig",
           "descriptionPt": "Monumento da Batalla das Naciones de 91 m de 1913, o mayor monumento de Europa por masa. Os jardins com lago espejo e as esplanadas exteriores são pet-friendly com cães com trela grátis. A cripta interior e a plataforma de observación só admitem cães de assistência.",
           "petPolicyPt": "Cães grátis en jardins; só de asistencia dentro",
-          "tipPt": "O estanque reflectante al amanecer crea uma imagen espejo espectacular, popular entre fotógrafos caninos."
+          "tipPt": "O estanque reflectante al amanecer crea uma imagen espejo espectacular, popular entre fotógrafos caninos.",
+          "descriptionDe": "Das 91 m hohe Völkerschlachtdenkmal von 1913, Europas größtes Monument nach Masse. Das vom See gespiegelte Gelände und die äußeren Terrassen sind hundefreundlich, mit angeleinten Hunden kostenlos zugänglich. Die Krypta im Inneren und die Aussichtsplattform lassen nur Assistenzhunde zu.",
+          "petPolicyDe": "Hunde auf dem Gelände kostenlos; im Inneren nur Assistenzhunde",
+          "tipDe": "Der Spiegelteich erzeugt bei Sonnenaufgang ein spektakuläres Spiegelbild, beliebt bei Hundefotografen."
         },
         {
           "name": "Karl-Heine-Kanal",

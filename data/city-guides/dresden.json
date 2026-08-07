@@ -176,7 +176,11 @@
           "leashRequiredPt": false,
           "sizePt": "≈ 8 km de prado em cada margem",
           "amenitiesPt": "Sem trela por costume, pontos de acesso ao rio, cafés à beira-rio",
-          "tipPt": "O troço entre o Carolabrücke e o Albertbrücke é o mais largo e com menos ciclistas, a melhor rotina matinal para um cão de cidade."
+          "tipPt": "O troço entre o Carolabrücke e o Albertbrücke é o mais largo e com menos ciclistas, a melhor rotina matinal para um cão de cidade.",
+          "descriptionDe": "Breite Grünwiesen entlang beider Elbufer mitten durch Dresden. Hunde laufen auf dem Wiesenstreifen zwischen Fluss und Radweg standardmäßig ohne Leine, keine ausgewiesene Zone, sondern gut bekannter, von der Stadt geduldeter Brauch. Achten Sie auf Radfahrer auf dem befestigten Weg und meiden Sie die mit Wasserschutzbereiche gekennzeichneten sensiblen Lebensräume.",
+          "sizeDe": "≈ 8 km Wiese je Ufer",
+          "amenitiesDe": "Freilauf nach Brauch, Zugänge zum Fluss, Cafés am Ufer",
+          "tipDe": "Der Abschnitt von der Carolabrücke bis zur Albertbrücke ist am breitesten und am wenigsten von Radfahrern frequentiert, die beste Morgenrunde für einen Stadthund."
         },
         {
           "name": "Dresdner Heide",
@@ -239,7 +243,10 @@
           "photo": "/images/city-places/dresden-transport-dvb-tram-bus-dresden-city.jpg",
           "typePt": "Elétrico e autocarro urbano",
           "petPolicyPt": "Cães do tamanho de caixa grátis. Os maiores precisam de Fahrrad-/Hundekarte e têm de usar açaime e trela curta. Os titulares de passe anual ou mensal VVO levam um cão grátis.",
-          "tipPt": "Um açaime macio de tecido basta para cumprir a regra; leve um no saco, os fiscais entram nos elétricos e verificam."
+          "tipPt": "Um açaime macio de tecido basta para cumprir a regra; leve um no saco, os fiscais entram nos elétricos e verificam.",
+          "typeDe": "Lokale Straßenbahn und Bus",
+          "petPolicyDe": "Hunde in Transportboxgröße fahren kostenlos. Größere Hunde benötigen eine Fahrrad-/Hundekarte und müssen einen Maulkorb tragen sowie kurz angeleint sein. Inhaber einer Jahres-/Monatskarte des VVO nehmen einen Hund kostenlos mit.",
+          "tipDe": "Ein weicher Stoffmaulkorb genügt zur Erfüllung der Vorschrift, halten Sie einen in der Tasche bereit, Kontrolleure steigen in die Straßenbahnen zu und prüfen."
         },
         {
           "name": "Deutsche Bahn (Dresden Hauptbahnhof)",
@@ -313,7 +320,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Elbwiesen+Carolabrücke+Dresden",
           "descriptionPt": "A margem de relva e seixos do Elba ao longo do centro de Dresden oferece um acesso à água calma e lenta para cães em quase todo o troço central. Mantenha-se fora da zona de banho marcada em Pieschen, se estiver na zona de banho oficial da cidade, onde os cães não são permitidos. Os melhores pontos de acesso para cães ficam abaixo do Carolabrücke e na curva da Brockhausstraße.",
           "petPolicyPt": "Sem trela por costume local na faixa de relva; atenção aos ciclistas; banho proibido na zona de banho marcada de Pieschen",
-          "tipPt": "Em pleno verão, o rio aquece a meio da manhã; leve uma trela de laço para poder chamar o cão depressa quando passam os barcos a vapor de pás."
+          "tipPt": "Em pleno verão, o rio aquece a meio da manhã; leve uma trela de laço para poder chamar o cão depressa quando passam os barcos a vapor de pás.",
+          "descriptionDe": "Das Gras- und Kiesufer der Elbe im Zentrum Dresdens bietet fast auf der gesamten zentralen Strecke ruhigen, langsamen Wasserzugang für Hunde. Bleiben Sie außerhalb des markierten Badebereichs bei Pieschen, wenn Sie sich in der offiziellen Badezone der Stadt befinden, dort sind Hunde nicht erlaubt. Die besten Zugangsstellen für Hunde liegen unterhalb der Carolabrücke und an der Kurve der Brockhausstraße.",
+          "petPolicyDe": "Ohne Leine nach örtlichem Brauch auf dem Wiesenstreifen; auf Radfahrer achten; kein Baden im markierten Badebereich Pieschen",
+          "tipDe": "Im Hochsommer erwärmt sich der Fluss bis zum späten Vormittag; tragen Sie eine Zugleine, um den Hund bei vorbeifahrenden Raddampfern schnell zurückzurufen."
         },
         {
           "name": "Olbasee dog beach",
@@ -334,7 +344,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Olbasee+Hundestrand",
           "descriptionPt": "Um lago recuperado de antiga mina a 45 minutos a leste de Dresden, com um Hundestrand claramente sinalizado na extremidade sul. A água cristalina, a areia branca e a margem plana fazem dele o destino de banho de verão mais fiável para cães da cidade. Estacionamento gratuito no parque marcado do Hundestrand.",
           "petPolicyPt": "Sem trela dentro da zona Hundestrand sinalizada; com trela no resto do lago",
-          "tipPt": "Leve uma toalha de praia e a sua própria água; a praia canina não tem quiosque nem sombra."
+          "tipPt": "Leve uma toalha de praia e a sua própria água; a praia canina não tem quiosque nem sombra.",
+          "descriptionDe": "Ein rekultivierter ehemaliger Tagebausee 45 Minuten östlich von Dresden mit einem klar ausgeschilderten Hundestrand am Südende. Kristallklares Wasser, weißer Sand und ein flaches Ufer machen ihn zum zuverlässigsten sommerlichen Badeziel für Hunde aus der Stadt. Kostenloses Parken am ausgeschilderten Parkplatz Hundestrand.",
+          "petPolicyDe": "Ohne Leine innerhalb der ausgeschilderten Hundestrand-Zone; angeleint an anderen Stellen des Sees",
+          "tipDe": "Bringen Sie ein Strandtuch und eigenes Wasser mit, der Hundestrand hat keinen Kiosk und keinen Schatten."
         },
         {
           "name": "Stausee Malter",
@@ -427,7 +440,11 @@
           "descriptionPt": "O serviço de urgência fora de horário coordenado de Dresden, gerido por veterinários da cidade numa rotação semanal. Ao ligar para o número central 01805 843736, é encaminhado para a clínica de serviço. Telefone sempre antes de conduzir: o veterinário de serviço pode fazer a triagem por telefone ou reencaminhá-lo para uma clínica mais próxima.",
           "hoursPt": "Seg–sex 18:00–08:00; fins de semana e feriados 24/7",
           "specialtyPt": "Triagem e estabilização de urgência fora de horário",
-          "tipPt": "Aplica-se uma sobretaxa de urgência de 50 € líquidos sobre o valor habitual; leve cartão, muitas clínicas não aceitam dinheiro nas visitas fora de horário."
+          "tipPt": "Aplica-se uma sobretaxa de urgência de 50 € líquidos sobre o valor habitual; leve cartão, muitas clínicas não aceitam dinheiro nas visitas fora de horário.",
+          "descriptionDe": "Der koordinierte Notdienst außerhalb der Sprechzeiten für Dresden, betrieben von städtischen Tierärzten im Wochenrotationsprinzip. Ein Anruf unter der Zentralnummer 01805 843736 verbindet Sie mit der diensthabenden Praxis. Rufen Sie immer vor der Anfahrt an: Der diensthabende Tierarzt kann telefonisch triagieren oder an eine näher gelegene Klinik verweisen.",
+          "hoursDe": "Mo–Fr 18:00–08:00; Wochenenden und Feiertage rund um die Uhr",
+          "specialtyDe": "Notfalltriage und Stabilisierung außerhalb der Sprechzeiten",
+          "tipDe": "Zusätzlich zur üblichen Gebühr fällt ein Notfallzuschlag von netto 50 € an, bringen Sie eine Karte mit, viele Praxen akzeptieren bei Nachtbesuchen kein Bargeld."
         },
         {
           "name": "Kleintierzentrum am Waldpark",
@@ -619,7 +636,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Sächsische+Dampfschifffahrt+Terrassenufer+Dresden",
           "descriptionPt": "A mais antiga e maior frota de barcos a vapor de pás históricos do mundo opera a partir do Terrassenufer, abaixo da Brühlsche Terrasse, com cruzeiros urbanos diários, percursos mais longos até Pillnitz e rotas sazonais pelo vale do Elba. Os cães são bem-vindos a bordo com trela curta; escolha o convés traseiro aberto no verão e o salão inferior aquecido na época intermédia.",
           "petPolicyPt": "Cães bem-vindos sem custo extra com trela curta; açaime não exigido",
-          "tipPt": "Faça o percurso a montante até Pillnitz, 1 h 45 em cada sentido por entre as vinhas do Elba, com desembarque opcional no parque de Schloss Pillnitz para um passeio com trela."
+          "tipPt": "Faça o percurso a montante até Pillnitz, 1 h 45 em cada sentido por entre as vinhas do Elba, com desembarque opcional no parque de Schloss Pillnitz para um passeio com trela.",
+          "descriptionDe": "Die weltweit älteste und größte Flotte historischer Raddampfer verkehrt vom Terrassenufer unterhalb der Brühlschen Terrasse aus, mit täglichen Stadtrundfahrten, längeren Fahrten nach Pillnitz und saisonalen Routen ins Elbtal. Hunde sind an kurzer Leine an Bord willkommen; wählen Sie im Sommer das offene Achterdeck und in der Nebensaison den beheizten unteren Salon.",
+          "petPolicyDe": "Hunde an kurzer Leine kostenlos willkommen; kein Maulkorb erforderlich",
+          "tipDe": "Nehmen Sie die Fahrt stromaufwärts nach Pillnitz, 1 Std. 45 Min. je Strecke durch die Elbweinberge, mit optionalem Anlegen am Park von Schloss Pillnitz für einen angeleinten Spaziergang."
         },
         {
           "name": "Schlosspark Pillnitz",

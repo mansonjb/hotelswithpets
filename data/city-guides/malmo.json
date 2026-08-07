@@ -251,7 +251,10 @@
           "photo": "/images/city-places/malmo-transport-skanetrafiken-buses-pagatag-oresundstag-in-sweden.jpg",
           "petPolicyPt": "Cães viajam grátis, até dois por passageiro, com trela e fora dos bancos. Cães pequenos em transportadoras fechadas viajam grátis em toda a rede.",
           "costPt": "Grátis",
-          "tipPt": "Os comboios Pågatåg têm uma 'carruagem para animais' designada, marcada com um pictograma de cão na porta, viajar aí reduz o atrito com passageiros sensíveis a alergias."
+          "tipPt": "Os comboios Pågatåg têm uma 'carruagem para animais' designada, marcada com um pictograma de cão na porta, viajar aí reduz o atrito com passageiros sensíveis a alergias.",
+          "petPolicyDe": "Hunde reisen kostenlos, bis zu zwei pro Fahrgast, angeleint und nicht auf den Sitzen. Kleine Hunde in geschlossenen Transportboxen reisen überall im Netz kostenlos.",
+          "costDe": "Kostenlos",
+          "tipDe": "Pågatåg-Züge verfügen über einen ausgewiesenen 'Haustierwaggon', an der Tür mit einem Hundepiktogramm gekennzeichnet - dort zu fahren minimiert Reibung mit allergieempfindlichen Fahrgästen."
         },
         {
           "name": "Öresundståg (Cross-border to Copenhagen)",
@@ -269,7 +272,10 @@
           "photo": "/images/city-places/malmo-transport-oresundstag-cross-border-to-copenhagen.jpg",
           "petPolicyPt": "Até dois animais por passageiro, grátis dentro da Suécia. Ao atravessar para a Dinamarca, é exigido um bilhete infantil de meia tarifa para os cães maiores (os cães pequenos em transportadoras continuam grátis).",
           "costPt": "Grátis na Suécia; tarifa infantil de meio preço (≈60 DKK) para cães maiores até Copenhaga",
-          "tipPt": "Compre o bilhete de cão do lado dinamarquês ao revisor a bordo ou através da aplicação DSB antes de embarcar, os bilhetes só da Skånetrafiken não cobrem o troço dinamarquês para cães maiores."
+          "tipPt": "Compre o bilhete de cão do lado dinamarquês ao revisor a bordo ou através da aplicação DSB antes de embarcar, os bilhetes só da Skånetrafiken não cobrem o troço dinamarquês para cães maiores.",
+          "petPolicyDe": "Bis zu zwei Haustiere pro Fahrgast, innerhalb Schwedens kostenlos. Beim Übergang nach Dänemark ist für größere Hunde ein Kinderfahrschein erforderlich (kleine Hunde in Transportboxen bleiben kostenlos).",
+          "costDe": "Kostenlos in Schweden; Kinderfahrschein (ca. 60 DKK) für größere Hunde nach Kopenhagen",
+          "tipDe": "Kaufen Sie das dänische Hundeticket beim Schaffner an Bord oder über die DSB-App vor der Abfahrt - reine Skånetrafiken-Tickets decken den dänischen Streckenabschnitt für große Hunde nicht ab."
         },
         {
           "name": "Malmö Taxi & Uber",
@@ -391,7 +397,11 @@
           "descriptionPt": "Uma praia de areia branca de 7 km na ponta sudoeste de Skåne, com bandeira azul e uma secção canina claramente assinalada na extremidade oeste. Os cães correm sem trela todo o ano dentro da zona assinalada; o resto da praia exige trela, com proibição de banho canino de 15 de maio a 15 de setembro. Acessível a partir de Malmö Central em cerca de 35 minutos, de Pågatåg até Höllviken e depois de autocarro 100.",
           "petPolicyPt": "Sem trela e banho todo o ano na secção canina assinalada",
           "amenitiesPt": "Areia branca, zona canina, casas de banho públicas, café no verão, reserva ornitológica adjacente",
-          "tipPt": "A Península de Falsterbo é uma importante reserva de aves migratórias, mantenha os cães com trela a norte dos sinais da praia e respeite os limites da Natura 2000."
+          "tipPt": "A Península de Falsterbo é uma importante reserva de aves migratórias, mantenha os cães com trela a norte dos sinais da praia e respeite os limites da Natura 2000.",
+          "descriptionDe": "Ein 7 km langer weißer Sandstrand an der südwestlichen Spitze von Skåne, mit Blauer Flagge ausgezeichnet und mit einem klar markierten Hundeabschnitt am westlichen Ende. Innerhalb der markierten Zone laufen Hunde ganzjährig ohne Leine; der restliche Strand unterliegt Leinenpflicht mit einem Badeverbot für Hunde vom 15. Mai bis 15. September. Vom Malmö Central in rund 35 Minuten mit dem Pågatåg nach Höllviken und weiter mit Bus 100 erreichbar.",
+          "petPolicyDe": "Freilauf und Schwimmen ganzjährig im markierten Hundeabschnitt",
+          "amenitiesDe": "Weißer Sand, Hundezone, öffentliche Toiletten, Café im Sommer, angrenzendes Vogelschutzgebiet",
+          "tipDe": "Die Halbinsel Falsterbo ist ein bedeutendes Vogelzug-Schutzgebiet - halten Sie Hunde nördlich der Strandschilder an der Leine und respektieren Sie die Natura-2000-Grenzen."
         }
       ],
       "titlePt": "Praias que aceitam cães em Malmö",
@@ -543,7 +553,8 @@
           "tipFr": "Traverser vers Copenhague avec un chien : le pont de l'Øresund est dog-friendly par train Öresundståg (petits chiens en cage gratuits, grands chiens : demi-tarif enfant côté danois auprès du contrôleur) ou en voiture (pas de supplément sur le péage). Le Brexit oblige les visiteurs UK à un Animal Health Certificate, pas au passeport européen.",
           "tipEs": "Cruzar a Copenhague con perro: el puente del Øresund admite perros en el tren Öresundståg (perros pequeños en transportín gratis, perros grandes con medio billete infantil del lado danés al revisor) o en coche (sin recargo en el peaje). El Brexit obliga a los visitantes del Reino Unido a llevar un Animal Health Certificate, no el pasaporte europeo.",
           "category": "Cross-border travel",
-          "tipPt": "Atravessar para Copenhaga com cão: a Ponte do Øresund admite cães no comboio Öresundståg (cães pequenos em transportadora grátis, cães maiores com meio bilhete infantil pago ao revisor do lado dinamarquês) ou de carro (sem sobretaxa na portagem). O Brexit obriga os visitantes do Reino Unido a levar um Animal Health Certificate, e não o passaporte europeu."
+          "tipPt": "Atravessar para Copenhaga com cão: a Ponte do Øresund admite cães no comboio Öresundståg (cães pequenos em transportadora grátis, cães maiores com meio bilhete infantil pago ao revisor do lado dinamarquês) ou de carro (sem sobretaxa na portagem). O Brexit obriga os visitantes do Reino Unido a levar um Animal Health Certificate, e não o passaporte europeu.",
+          "tipDe": "Übergang nach Kopenhagen mit Hund: Die Øresundbrücke ist hundefreundlich, entweder mit dem Öresundståg-Zug (kleine Hunde in Transportboxen kostenlos, größere Hunde benötigen einen dänischen Kinderfahrschein beim Schaffner) oder mit dem Auto (keine zusätzliche Gebühr an der Brückenmaut). Wegen des Brexit benötigen britische Besucher ein Tiergesundheitszeugnis statt des EU-Heimtierausweises."
         }
       ],
       "titlePt": "Conselhos práticos para visitar Malmö com cão",
@@ -746,7 +757,10 @@
           "tip": "Book the trial half-day before your main travel dates - most hunddagis charge half-rate for the introduction and require it for liability cover.",
           "descriptionPt": "Algumas hunddagis (creches caninas) independentes funcionam por toda Malmö, recebendo habitualmente 6 a 12 cães por grupo, com rotinas diárias estruturadas, treinadores no local e espaço ao ar livre. A maioria exige registos de vacinação e um dia de teste de meio-dia; a capacidade para reservas pontuais é limitada, mas várias aceitam visitantes de estadia curta com 2 a 3 dias de antecedência.",
           "servicesPt": "Creche, rotinas estruturadas, sessões de reforço de treino, testes de meio-dia",
-          "priceRangePt": "350 a 450 SEK por dia"
+          "priceRangePt": "350 a 450 SEK por dia",
+          "descriptionDe": "Eine Handvoll unabhängiger hunddagis (Hundetagesstätten) sind in ganz Malmö tätig, meist mit 6-12 Hunden pro Gruppe, strukturierten Tagesabläufen, Trainern vor Ort und Außenbereich. Die meisten verlangen Impfnachweise und einen halbtägigen Probetermin; die Kapazität für spontane Buchungen ist begrenzt, aber mehrere akzeptieren Kurzaufenthalte für Besucher mit 2-3 Tagen Vorlauf.",
+          "servicesDe": "Tagesbetreuung, strukturierte Abläufe, zusätzliches Training, Halbtags-Probetermine",
+          "priceRangeDe": "350-450 SEK pro Tag"
         }
       ],
       "titlePt": "Cuidadores e creches caninas em Malmö",

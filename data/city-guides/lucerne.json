@@ -205,7 +205,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Allmend+Luzern",
           "descriptionPt": "Um vasto baldio municipal de 30 hectares a sul da estação de comboios, que combina campos desportivos, o Swissporarena e uma grande área de passeio de cães ao longo da orla arborizada. Os locais passeiam aqui os seus cães ao amanhecer, antes de chegarem as multidões do futebol.",
           "petPolicyPt": "Cães com trela bem-vindos o ano inteiro; sem trela tolerado na orla arborizada a leste fora dos dias de evento",
-          "tipPt": "Evite os dias de jogo no Swissporarena, a zona fica a fervilhar de gente e ruído. Consulte o calendário do FCL antes de vir passear aqui a uma tarde de sábado."
+          "tipPt": "Evite os dias de jogo no Swissporarena, a zona fica a fervilhar de gente e ruído. Consulte o calendário do FCL antes de vir passear aqui a uma tarde de sábado.",
+          "descriptionDe": "Ein weitläufiges, 30 Hektar großes Gemeindegebiet südlich des Bahnhofs, das Sportfelder, das Swissporarena-Stadion und eine große Hundeauslaufzone am bewaldeten Rand vereint. Einheimische führen hier ihre Hunde im Morgengrauen aus, bevor die Fussballmenge eintrifft.",
+          "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen; Freilauf am bewaldeten Ostrand außerhalb von Spieltagen toleriert",
+          "tipDe": "Meiden Sie Spieltage im Swissporarena, das Gebiet ist dann voller Menschen und Lärm. Prüfen Sie den FCL-Spielplan, bevor Sie samstagnachmittags hierher zum Spaziergang kommen."
         },
         {
           "name": "Inseli Park",
@@ -248,7 +251,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Sonnenberg+Kriens",
           "descriptionPt": "Crista arborizada que se ergue diretamente acima da cidade até aos 745 m, cruzada por 15 km de pistas florestais e caminhos panorâmicos de crista. O funicular Sonnenbergbahn a partir de Kriens leva pessoas e cães com trela até ao topo em cinco minutos, para uma longa descida a pé de regresso a Lucerna.",
           "petPolicyPt": "Trela obrigatória de 1 de abril a 31 de julho (época de nidificação); sem trela nas pistas o resto do ano se o cão tiver bom controlo de chamada",
-          "tipPt": "Suba de funicular e desça pelo trilho dos bunkers da Segunda Guerra Mundial, 90 minutos de floresta, com saída junto a uma paragem de elétrico de regresso ao centro."
+          "tipPt": "Suba de funicular e desça pelo trilho dos bunkers da Segunda Guerra Mundial, 90 minutos de floresta, com saída junto a uma paragem de elétrico de regresso ao centro.",
+          "descriptionDe": "Bewaldeter Höhenzug, der sich direkt über der Stadt bis auf 745 m erhebt, durchzogen von 15 km Forstwegen und Panoramapfaden entlang des Grats. Die Sonnenbergbahn-Standseilbahn ab Kriens bringt Menschen und angeleinte Hunde in fünf Minuten nach oben für einen langen Abstieg zurück nach Luzern.",
+          "petPolicyDe": "Leinenpflicht vom 1. April bis 31. Juli (Brutzeit); außerhalb der Saison Freilauf auf den Wegen möglich, wenn der Hund zuverlässig zurückkommt",
+          "tipDe": "Fahren Sie mit der Standseilbahn hoch und gehen Sie über den Bunkerpfad aus dem Zweiten Weltkrieg abwärts, 90 Minuten Wald, endet direkt bei einer Tramhaltestelle zurück ins Zentrum."
         }
       ],
       "tipsEn": [
@@ -352,7 +358,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bahnhofplatz+Luzern",
           "descriptionPt": "A Verkehrsbetriebe Luzern explora 23 linhas diurnas de autocarro e trólei que cobrem toda a cidade e a aglomeração mais próxima. Cães pequenos numa transportadora viajam grátis; cães maiores precisam de um bilhete a meio preço ou de um passe diário de 25 CHF.",
           "petPolicyPt": "Cães pequenos em transportadora: grátis. Cães maiores: bilhete a meio preço exigido ou Hundespass diário de 25 CHF",
-          "tipPt": "Compre o passe diário para cães em qualquer máquina de bilhetes SBB (toque em 'Hund', há um botão), a 25 CHF compensa logo se também planear usar comboios SBB ou barcos SGV no mesmo dia."
+          "tipPt": "Compre o passe diário para cães em qualquer máquina de bilhetes SBB (toque em 'Hund', há um botão), a 25 CHF compensa logo se também planear usar comboios SBB ou barcos SGV no mesmo dia.",
+          "descriptionDe": "Die Verkehrsbetriebe Luzern betreiben 23 Tageslinien mit Bussen und Trolleybussen, die die ganze Stadt und die innere Agglomeration abdecken. Kleine Hunde in der Tragetasche fahren kostenlos; größere Hunde brauchen ein Halbtax-Ticket oder einen CHF-25-Tagespass.",
+          "petPolicyDe": "Kleine Hunde in der Tragetasche: kostenlos. Größere Hunde: Halbtax-Ticket erforderlich oder CHF-25-Tages-Hundepass",
+          "tipDe": "Kaufen Sie den Hunde-Tagespass an jedem SBB-Automaten (tippen Sie auf \"Hund\", es gibt einen eigenen Knopf), bei CHF 25 rechnet er sich sofort, wenn Sie am selben Tag auch SBB-Züge oder SGV-Schiffe nutzen wollen."
         },
         {
           "name": "SGV Lake Lucerne Boats",
@@ -372,7 +381,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=SGV+Schifffahrt+Luzern",
           "descriptionPt": "A Schifffahrtsgesellschaft des Vierwaldstättersees explora os históricos vapores de roda e as embarcações modernas a motor que cruzam o Lago de Lucerna. Os cães são bem-vindos em todas as embarcações, em todos os conveses, com um bilhete a meio preço ou um Swiss Travel Pass.",
           "petPolicyPt": "Cães bem-vindos em todas as embarcações da SGV com bilhete a meio preço; cães pequenos em transportadora viajam grátis; açaime pedido apenas para cães grandes nervosos",
-          "tipPt": "A ida e volta de 2 horas Lucerna-Vitznau num vapor de roda é o transporte acolhedor para cães mais bonito da Suíça, reserve o convés inferior aberto pela sombra."
+          "tipPt": "A ida e volta de 2 horas Lucerna-Vitznau num vapor de roda é o transporte acolhedor para cães mais bonito da Suíça, reserve o convés inferior aberto pela sombra.",
+          "descriptionDe": "Die Schifffahrtsgesellschaft des Vierwaldstättersees betreibt die historischen Raddampfer und modernen Motorschiffe, die den Vierwaldstättersee durchqueren. Hunde sind auf jedem Schiff und jedem Deck willkommen, mit Halbtax-Ticket oder Swiss Travel Pass.",
+          "petPolicyDe": "Hunde auf allen SGV-Schiffen mit Halbtax-Ticket willkommen; kleine Hunde in der Tragetasche reisen kostenlos; Maulkorb nur bei nervösen großen Hunden verlangt",
+          "tipDe": "Die zweistündige Rundfahrt Luzern-Vitznau auf einem Raddampfer ist der schönste hundefreundliche Transport der Schweiz, buchen Sie das offene Unterdeck für Schatten."
         },
         {
           "name": "Pilatus & Rigi Mountain Railways",
@@ -392,7 +404,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pilatus+Bahn+Kriens",
           "descriptionPt": "Dois dos comboios de cremalheira de montanha emblemáticos da Suíça sobem diretamente a partir de Lucerna. O Pilatus tem o comboio de cremalheira mais íngreme do mundo (48% de inclinação); o Rigi é a original Rainha das Montanhas. Ambos aceitam cães com trela e bem comportados.",
           "petPolicyPt": "Pilatus: cães grátis nas cabinas, bilhete a meio preço no comboio de cremalheira. Rigi: cães grátis o ano inteiro em comboios de cremalheira, teleférico e telecabina; açaime pedido nos dias de muita afluência",
-          "tipPt": "No Pilatus, o comboio de cremalheira só circula de maio a novembro; fora desse período, apanhe o teleférico a partir de Kriens. O cume Pilatus Kulm tem taças de água na esplanada panorâmica."
+          "tipPt": "No Pilatus, o comboio de cremalheira só circula de maio a novembro; fora desse período, apanhe o teleférico a partir de Kriens. O cume Pilatus Kulm tem taças de água na esplanada panorâmica.",
+          "descriptionDe": "Zwei der bekanntesten Zahnradbergbahnen der Schweiz führen direkt ab Luzern hinauf. Der Pilatus hat die steilste Zahnradbahn der Welt (48% Steigung); die Rigi ist die ursprüngliche Königin der Berge. Beide nehmen angeleinte, wohlerzogene Hunde mit.",
+          "petPolicyDe": "Pilatus: Hunde fahren in den Kabinen kostenlos, auf der Zahnradbahn zum halben Preis. Rigi: Hunde ganzjährig kostenlos auf Zahnradbahn, Luftseilbahn und Gondel; an belebten Tagen wird ein Maulkorb erbeten",
+          "tipDe": "Auf dem Pilatus verkehrt die Zahnradbahn nur Mai bis November; außerhalb dieser Zeit die Luftseilbahn ab Kriens nehmen. Auf dem Pilatus Kulm gibt es Wassernäpfe auf der Panoramaterrasse."
         }
       ],
       "tipsEn": [
@@ -519,7 +534,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Wurzenbach+Luzern",
           "descriptionPt": "Orla residencial tranquila a leste do centro, onde um passeio pedonal público acompanha uma sucessão de margens relvadas e pequenas baías de seixos. Um favorito dos donos de cães locais, longe das multidões de turistas; os autocarros 6/8 a partir da estação deixam em Würzenbach.",
           "petPolicyPt": "Trela no caminho; banho sem trela permitido a partir dos pontões rochosos fora da época balnear de verão",
-          "tipPt": "A água aqui aprofunda depressa, ótima para jogos de apanha a nadar para cães à vontade na água, mas mantenha-se perto da margem com raças mais pequenas."
+          "tipPt": "A água aqui aprofunda depressa, ótima para jogos de apanha a nadar para cães à vontade na água, mas mantenha-se perto da margem com raças mais pequenas.",
+          "descriptionDe": "Ruhiges Wohnviertel-Seeufer östlich des Zentrums, wo ein öffentlicher Fußweg eine Reihe von Grasufern und kleinen Kiesbuchten verbindet. Ein Favorit lokaler Hundehalter abseits der Touristenmengen; Bus 6/8 ab dem Bahnhof hält in Würzenbach.",
+          "petPolicyDe": "Leinenpflicht auf dem Weg; Freilauf-Schwimmen an den Felspunkten außerhalb der sommerlichen Badesaison erlaubt",
+          "tipDe": "Das Wasser fällt hier schnell ab, gutes Apportier-Schwimmen für wasserfeste Hunde, bei kleineren Rassen aber nahe am Ufer bleiben."
         },
         {
           "name": "Lido Lucerne (perimeter only)",
@@ -539,7 +557,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Lido+Luzern",
           "descriptionPt": "A praia de areia emblemática de Lucerna, com 300 m de orla, relvados, balneários e vistas sobre o Pilatus e o Bürgenstock. Os cães não são admitidos dentro do perímetro de banho pago, mas o passeio público do Lido ao lado é acolhedor para cães, com bancos à sombra e um bebedouro.",
           "petPolicyPt": "Cães proibidos dentro da zona de banho paga do Lido o ano inteiro; permitidos com trela no passeio público adjacente",
-          "tipPt": "Percorra a frente de lago a partir do Lido para leste até ao cais do Verkehrshaus, 1 km de caminho acolhedor para cães com duas entradas de seixos não assinaladas para um mergulho rápido."
+          "tipPt": "Percorra a frente de lago a partir do Lido para leste até ao cais do Verkehrshaus, 1 km de caminho acolhedor para cães com duas entradas de seixos não assinaladas para um mergulho rápido.",
+          "descriptionDe": "Luzerns Flaggschiff-Sandstrand mit 300 m Ufer, Liegewiesen, Umkleiden und Blick auf Pilatus und Bürgenstock. Hunde sind innerhalb der kostenpflichtigen Badezone nicht zugelassen, aber die öffentliche Lido-Promenade daneben ist mit schattigen Bänken und einem Trinkbrunnen hundefreundlich.",
+          "petPolicyDe": "Hunde innerhalb der kostenpflichtigen Lido-Badezone ganzjährig verboten; an der Leine auf der angrenzenden öffentlichen Promenade erlaubt",
+          "tipDe": "Gehen Sie das Seeufer vom Lido ostwärts zum Verkehrshaus-Pier, 1 km hundefreundlicher Weg mit zwei unmarkierten Kieseinstiegen ins Wasser für ein schnelles Bad."
         }
       ],
       "tipsEn": [

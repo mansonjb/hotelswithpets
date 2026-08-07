@@ -233,7 +233,11 @@
           "tipFr": "Entrez par la porte Vale dos Lagos plutôt que la porte principale du palais et faites d'abord la boucle du lac inférieur ; le sentier reste ombragé et évite la montée raide.",
           "tipEs": "Entra por la puerta Vale dos Lagos en vez de la principal del palacio y haz primero el bucle del lago bajo; el sendero se mantiene sombreado y evita la subida empinada.",
           "tipPt": "Entre pela porta Vale dos Lagos em vez da principal do palácio e faça primeiro o circuito do lago inferior; o trilho fica sombreado e evita a subida íngreme.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+da+Pena+Sintra"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+da+Pena+Sintra",
+          "descriptionDe": "Der 200 Hektar große romantische Park rund um den Palácio da Pena, in den 1840er-Jahren von König Ferdinand II. mit Tausenden exotischer Bäume angelegt. Die schattigen Kiespfade, Teiche, Farngärten und Aussichtspunkte des Parks heißen angeleinte Hunde täglich willkommen; das Palastinnere nicht.",
+          "petPolicyDe": "Angeleinte Hunde auf dem Parkgelände willkommen; nicht im Palast",
+          "facilitiesDe": "Cafés, Toiletten, Ticketschalter am Eingang Vale dos Lagos",
+          "tipDe": "Betreten Sie den Park am Tor Vale dos Lagos statt am Haupttor des Palasts und gehen Sie zunächst die untere Seenrunde; der Weg bleibt schattig und vermeidet den steilen Aufstieg zum Palast."
         },
         {
           "name": "Quinta da Regaleira gardens",
@@ -259,7 +263,11 @@
           "tipFr": "Portez un petit chien dans l'escalier du Puits Initiatique ; les marches en granit sont étroites et raides, et les groupes croisés compliquent le passage des grands chiens.",
           "tipEs": "Carga a un perro pequeño por la escalera del Pozo Iniciático; los escalones de granito son estrechos y empinados, y los grupos cruzados complican el paso para perros grandes.",
           "tipPt": "Leve um cão pequeno ao colo na escada do Poço Iniciático; os degraus de granito são estreitos e íngremes, e os grupos cruzados dificultam a passagem para cães grandes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Quinta+da+Regaleira+Sintra"
+          "googleMapsUrl": "https://maps.google.com/?q=Quinta+da+Regaleira+Sintra",
+          "descriptionDe": "Die vier Hektar großen romantischen Gärten der Quinta da Regaleira sind der fotogenste Spaziergang in Sintra: ein Initiationsbrunnen, der 27 m in die Tiefe spiralt, Grotten, Wasserfälle und freimaurerisch-symbolische Kapellen. Angeleinte Hunde sind in den Gärten, auf der Treppe des Initiationsbrunnens und in den unterirdischen Tunneln willkommen.",
+          "petPolicyDe": "Angeleinte Hunde in Gärten, Brunnen und Tunneln willkommen; nicht im Palastinneren",
+          "facilitiesDe": "Café und Toiletten am Eingang; Ticketschalter vor Ort",
+          "tipDe": "Tragen Sie kleine Hunde durch die Treppe des Initiationsbrunnens; die Granitstufen sind eng und steil, und entgegenkommende Gruppen machen es für große Hunde schwierig."
         },
         {
           "name": "Parque de Monserrate",
@@ -409,7 +417,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens en laisse muselés + demi-tarif, heures creuses uniquement",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes con correa con bozal + mitad de tarifa, solo horas valle",
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes com trela com açaime + meia tarifa, apenas horas de menor afluência",
-          "googleMapsUrl": "https://maps.google.com/?q=Estacao+Sintra"
+          "googleMapsUrl": "https://maps.google.com/?q=Estacao+Sintra",
+          "descriptionDe": "Die CP Linha de Sintra verbindet Sintra alle 20 Minuten für rund 2,30 EUR pro Strecke mit Lisboa-Rossio. Kleine Hunde in Transportboxen reisen kostenlos; größere angeleinte Hunde benötigen einen Maulkorb und ein Ticket zum halben Preis und werden außerhalb der Stoßzeiten 07:30-09:30 und 18:00-20:00 zugelassen.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere angeleinte Hunde mit Maulkorb + halber Fahrpreis, nur außerhalb der Stoßzeiten"
         },
         {
           "name": "Scotturb 434 hop-on circuit",
@@ -425,7 +435,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens à la discrétion du chauffeur quand le bus n'est pas plein",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes a discreción del conductor cuando el bus no está lleno",
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes à discrição do motorista quando o autocarro não vai cheio",
-          "googleMapsUrl": "https://maps.google.com/?q=Scotturb+434+Sintra"
+          "googleMapsUrl": "https://maps.google.com/?q=Scotturb+434+Sintra",
+          "descriptionDe": "Der Hop-on-Bus Scotturb 434 verkehrt alle 20 Minuten zwischen Bahnhof, Vila Velha (Palácio Nacional), Castelo dos Mouros und Palácio da Pena. Kleine Hunde in Transportboxen fahren kostenlos mit; große Hunde werden nach Ermessen des Fahrers akzeptiert, wenn der Bus nicht voll ist.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; große Hunde nach Ermessen des Fahrers, wenn Bus nicht voll"
         },
         {
           "name": "Scotturb 403 to Cascais (via Cabo da Roca)",
@@ -441,7 +453,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens en laisse à la discrétion du chauffeur",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes con correa a discreción del conductor",
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes com trela à discrição do motorista",
-          "googleMapsUrl": "https://maps.google.com/?q=Scotturb+403+Sintra+Cascais"
+          "googleMapsUrl": "https://maps.google.com/?q=Scotturb+403+Sintra+Cascais",
+          "descriptionDe": "Der Küstenbus Scotturb 403 verbindet Sintra in 70 Minuten über Cabo da Roca, dem westlichsten Punkt des europäischen Festlands, mit Cascais sowie mit den wilden hundefreundlichen Stränden Praia da Adraga und Praia Grande. Kleine Hunde in Transportboxen kostenlos; große angeleinte Hunde nach Ermessen des Fahrers.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; große angeleinte Hunde nach Ermessen des Fahrers"
         }
       ],
       "faqsEn": [
@@ -981,7 +995,11 @@
           "tipFr": "Réservez en ligne le créneau premier accès 9h30 ; à 11h la file de bus au portail du palais s'étire sur 200 m et les terrasses supérieures sont bondées.",
           "tipEs": "Reserva online la franja primer acceso 9:30; a las 11:00 la cola de buses turísticos en la puerta del palacio se extiende 200 m y las terrazas superiores están abarrotadas.",
           "tipPt": "Reserve online o slot primeiro acesso 9:30; às 11:00 a fila de autocarros turísticos à porta do palácio estende-se 200 m e os terraços superiores estão à pinha.",
-          "googleMapsUrl": "https://maps.google.com/?q=Palacio+da+Pena+Sintra"
+          "googleMapsUrl": "https://maps.google.com/?q=Palacio+da+Pena+Sintra",
+          "descriptionDe": "Der romantische Pena-Palast aus dem 19. Jahrhundert krönt die Serra de Sintra auf 528 m, ein Wirrwarr aus gelben, roten und azulejo-gefliesten Türmen, erbaut für König Ferdinand II. Der umliegende 200 Hektar große Park, alle Außenterrassen und die Panoramamauern lassen täglich angeleinte Hunde zu; das Palastinnere ist Assistenzhunden vorbehalten.",
+          "dogPolicyDe": "Angeleinte Hunde im Park und auf den Außenterrassen willkommen; innen nur Assistenzhunde",
+          "admissionFeeDe": "Park 10 EUR; Park + Palastterrassen 14,50 EUR",
+          "tipDe": "Buchen Sie online das erste Zeitfenster um 09:30 Uhr; bis 11:00 Uhr erstreckt sich die Schlange der Reisebusse am Palasttor über 200 m, und die oberen Terrassen sind überfüllt."
         },
         {
           "name": "Castelo dos Mouros (Moorish Castle ramparts)",
@@ -1004,7 +1022,11 @@
           "tipFr": "Montez par le sentier balisé PR2 depuis la Vila Velha plutôt que prendre le Scotturb 434 ; les 30 minutes de montée dans la forêt de chênes-lièges sont la plus belle partie de la visite.",
           "tipEs": "Sube por el sendero señalizado PR2 desde la Vila Velha en vez de coger el Scotturb 434; los 30 minutos de subida por el bosque de alcornoques son la parte más bonita de la visita.",
           "tipPt": "Suba pelo trilho sinalizado PR2 desde a Vila Velha em vez de apanhar o Scotturb 434; os 30 minutos de subida pela floresta de sobreiros são a parte mais bonita da visita.",
-          "googleMapsUrl": "https://maps.google.com/?q=Castelo+dos+Mouros+Sintra"
+          "googleMapsUrl": "https://maps.google.com/?q=Castelo+dos+Mouros+Sintra",
+          "descriptionDe": "Die Wehrmauern der maurischen Burg aus dem 9. Jahrhundert krönen einen Granitkamm oberhalb von Sintra und bieten ein 360°-Panorama vom Atlantik bis zur Tejo-Mündung. Die 450 m restaurierten Mauern, Wachtürme und das Gelände der romanischen Kapelle lassen angeleinte Hunde zu; bringen Sie trittsicheres Schuhwerk für die unebenen Granittreppen mit.",
+          "dogPolicyDe": "Angeleinte Hunde auf allen Mauern und dem Gelände willkommen",
+          "admissionFeeDe": "12 EUR Erwachsene",
+          "tipDe": "Gehen Sie den markierten Wanderweg PR2 von der Vila Velha hinauf, statt den Scotturb 434 zu nehmen; der 30-minütige Aufstieg durch den Korkeichenwald ist der schönste Teil des Besuchs."
         },
         {
           "name": "Cabo da Roca",

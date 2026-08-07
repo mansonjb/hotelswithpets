@@ -415,7 +415,9 @@
           "petPolicyEs": "Perros con correa gratis, todos los tamaños",
           "googleMapsUrl": "https://maps.google.com/?q=Innsbruck+Hauptbahnhof",
           "descriptionPt": "A Innsbruck Verkehrsbetriebe opera 4 linhas de elétrico mais autocarros urbanos. Os cães com trela viajam grátis em toda a rede, sem limite de porte. Os elétricos e autocarros costumam estar vazios fora das horas de ponta, ideais para cães ansiosos.",
-          "petPolicyPt": "Cães com trela grátis, de todos os portes"
+          "petPolicyPt": "Cães com trela grátis, de todos os portes",
+          "descriptionDe": "Die Innsbrucker Verkehrsbetriebe betreiben 4 Straßenbahnlinien plus Stadtbusse. Angeleinte Hunde fahren im gesamten Netz kostenlos mit, keine Größenbeschränkung. Straßenbahnen und Busse sind außerhalb der Stoßzeiten meist wenig ausgelastet, ideal für ängstliche Hunde.",
+          "petPolicyDe": "Angeleinte Hunde kostenlos, alle Größen"
         },
         {
           "name": "ÖBB Railjet (Innsbruck Hauptbahnhof)",
@@ -878,7 +880,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bergisel+Innsbruck",
           "descriptionPt": "O trampolim de salto de esqui olímpico de 1964, projetado por Zaha Hadid (reconstruído em 2002), hoje uma atração turística com vistas panorâmicas da cidade. A zona exterior e a plataforma do topo aceitam cães com trela (entrada gratuita na plataforma). O interior do museu do salto de esqui não admite animais.",
           "petPolicyPt": "Plataforma exterior dog-friendly; museu interdito",
-          "tipPt": "Combine com um dia de teleférico no Patscherkofel, o trampolim fica a caminho a sul e as vistas panorâmicas da plataforma são melhores ao pôr do sol."
+          "tipPt": "Combine com um dia de teleférico no Patscherkofel, o trampolim fica a caminho a sul e as vistas panorâmicas da plataforma são melhores ao pôr do sol.",
+          "descriptionDe": "Die von Zaha Hadid gestaltete olympische Skisprungschanze von 1964 (2002 neu gebaut), heute eine Touristenattraktion mit Panoramablick über die Stadt. Der Außenbereich und die Plattform an der Spitze nehmen angeleinte Hunde auf (freier Eintritt zur Plattform). Der Innenbereich des Skisprungmuseums lässt keine Haustiere zu.",
+          "petPolicyDe": "Außenplattform hundefreundlich; Museum tabu",
+          "tipDe": "Kombinieren Sie den Besuch mit einem Ausflug zum Patscherkofel per Seilbahn, die Skisprungschanze liegt auf dem Weg nach Süden, und die Panoramablicke von der Plattform sind bei Sonnenuntergang am schönsten."
         },
         {
           "name": "Hofburg Imperial Palace Gardens",
@@ -899,7 +904,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hofburg+Innsbruck",
           "descriptionPt": "Os jardins do Palácio Imperial dos Habsburgos, 4 hectares de jardins formais no centro, entrada gratuita. O palácio em si não admite animais, mas os jardins e o parque Hofgarten envolvente aceitam cães com trela o ano inteiro.",
           "petPolicyPt": "Jardins dog-friendly com trela; palácio interdito",
-          "tipPt": "A porta sul liga diretamente ao parque Hofgarten, combine para um passeio dog-friendly de 1h no centro histórico."
+          "tipPt": "A porta sul liga diretamente ao parque Hofgarten, combine para um passeio dog-friendly de 1h no centro histórico.",
+          "descriptionDe": "Die Gärten der Habsburger Hofburg, 4 Hektar formell gestaltete Anlage im Zentrum, freier Eintritt. Der Palast selbst lässt keine Haustiere zu, doch die Gärten und der umliegende Hofgarten-Park nehmen ganzjährig angeleinte Hunde auf.",
+          "petPolicyDe": "Gärten für angeleinte Hunde geeignet; Palast tabu",
+          "tipDe": "Das südliche Tor führt direkt in den Hofgarten-Park, kombinieren Sie beides für einen einstündigen hundefreundlichen Spaziergang im historischen Zentrum."
         }
       ],
       "tipsEn": [

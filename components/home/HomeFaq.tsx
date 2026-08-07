@@ -12,7 +12,7 @@ interface Copy {
 
 // Homepage SEO + FAQ block targeting the head query "dog-friendly hotels".
 // Adds topical depth and a FAQPage rich result, in the four native locales.
-const COPY: Record<Locale, Copy> = {
+const COPY: Record<string, Copy> = {
   en: {
     heading: 'Dog-friendly hotels in Europe: what to know before you book',
     intro:

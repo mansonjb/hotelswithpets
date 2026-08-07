@@ -23,7 +23,7 @@ interface PetMapProps {
  */
 export default function PetMap({ lat, lng, destName, height = 420, locale = 'en' }: PetMapProps) {
   // Stay22 widget locale, falls back to 'en' for unknown values
-  const stay22Lang = ['en', 'fr', 'es', 'pt'].includes(locale) ? locale : 'en'
+  const stay22Lang = ['en', 'fr', 'es', 'pt', 'de'].includes(locale) ? locale : 'en'
   const src = `https://www.stay22.com/embed/gm?aid=${STAY22_AID}&lat=${lat}&lng=${lng}&campaign=hotelswithpets&lang=${stay22Lang}`
 
   return (

@@ -243,7 +243,7 @@ export default async function Page({
   const a = findArr(rawArr)
   if (!a) notFound()
   const locale = rawLocale as Locale
-  const t = COPY[locale]
+  const t = COPY[locale] ?? COPY.en
 
   const intro = pickLocaleString(a, locale, 'intro')
   const highlights = pickLocaleArray(a, locale)

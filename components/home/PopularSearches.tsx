@@ -26,7 +26,7 @@ const searches = [
   { dest: 'paris', destName: 'Paris', cat: 'dog-friendly', catNameEn: 'dog-friendly', catNameFr: 'chiens acceptés', catNameEs: 'admite perros', catNamePt: 'aceitam cães' },
 ]
 
-const headings: Record<Locale, string> = {
+const headings: Record<string, string> = {
   en: 'Popular searches',
   fr: 'Recherches populaires',
   es: 'Búsquedas populares',

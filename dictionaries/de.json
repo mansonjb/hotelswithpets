@@ -1,0 +1,160 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "destinations": "Reiseziele",
+    "categories": "Kategorien",
+    "about": "Über uns",
+    "countries": "Länder"
+  },
+  "hero": {
+    "badge": "Geprüfte hundefreundliche Hotels in ganz Europa",
+    "title": "Hundefreundliche Hotels, die Ihr Tier wirklich willkommen heißen",
+    "subtitle": "Finden Sie den perfekten Aufenthalt für Sie und Ihren Hund. Stöbern Sie nach Reiseziel, filtern Sie nach Haustierrichtlinie und buchen Sie direkt auf Booking.com.",
+    "searchDestination": "Wohin geht die Reise?",
+    "searchCategory": "Tierart oder Ausstattung",
+    "cta": "Hotels finden",
+    "stat1Value": "400+",
+    "stat1Label": "Reiseziele",
+    "stat2Value": "2.400+",
+    "stat2Label": "Hundefreundliche Hotels",
+    "stat3Value": "100 %",
+    "stat3Label": "Kostenlos nutzbar"
+  },
+  "categories": {
+    "browseBy": "Stöbern nach",
+    "browseTitle": "Kategorie",
+    "subtitle": "Finden Sie Hotels, gefiltert nach dem, was für Sie und Ihr Tier am wichtigsten ist.",
+    "explore": "Entdecken →"
+  },
+  "howItWorks": {
+    "title": "In 3 einfachen Schritten buchen",
+    "step1Title": "Reiseziel wählen",
+    "step1Desc": "Stöbern Sie durch unsere ausgewählte Liste haustierfreundlicher Städte in ganz Europa und planen Sie Ihre nächste Reise.",
+    "step2Title": "Hotel finden",
+    "step2Desc": "Filtern Sie nach Haustierrichtlinie, Größenbeschränkungen, Haustiergebühren oder Strandzugang.",
+    "step3Title": "Aufenthalt buchen",
+    "step3Desc": "Gelangen Sie direkt zu Booking.com und schließen Sie Ihre Reservierung ab."
+  },
+  "destinations": {
+    "title": "Beliebte Reiseziele",
+    "cta": "Hotels entdecken",
+    "viewAll": "Alle Reiseziele ansehen →"
+  },
+  "combos": {
+    "title": "100+ ausgewählte haustierfreundliche Reiseführer",
+    "featuredLabel": "Empfohlener Reiseführer",
+    "viewGuide": "Reiseführer ansehen →",
+    "items": [
+      {
+        "emoji": "🐕",
+        "label": "Amsterdam mit Hund: der komplette Reiseführer",
+        "href": "amsterdam/dog-friendly"
+      },
+      {
+        "emoji": "🏖️",
+        "label": "Biarritz: die besten Strände für Ihren Hund",
+        "href": "biarritz/beach-access"
+      },
+      {
+        "emoji": "✨",
+        "label": "Luxuriöses Paris mit Haustier: exklusive Empfehlungen",
+        "href": "paris/luxury"
+      },
+      {
+        "emoji": "🎉",
+        "label": "Barcelona: keine Haustiergebühr, unsere handverlesenen Hotels",
+        "href": "barcelona/dogs-stay-free"
+      },
+      {
+        "emoji": "🐕",
+        "label": "Rom mit Hund: wo schlafen und die Stadt erkunden",
+        "href": "rome/dog-friendly"
+      },
+      {
+        "emoji": "🌳",
+        "label": "Hundefreundliches Berlin: Parks und handverlesene Hotels",
+        "href": "berlin/near-parks"
+      },
+      {
+        "emoji": "🐕",
+        "label": "Lissabon mit Hund: der praktische Reiseführer",
+        "href": "lisbon/dog-friendly"
+      }
+    ]
+  },
+  "footer": {
+    "explore": "Entdecken",
+    "destinations": "Reiseziele",
+    "categories": "Kategorien",
+    "company": "Unternehmen",
+    "about": "Über uns",
+    "disclosure": "Affiliate-Hinweis",
+    "disclosureText": "Diese Website enthält Affiliate-Links. Wir erhalten möglicherweise eine Provision, wenn Sie über unsere Links buchen, ohne dass Ihnen zusätzliche Kosten entstehen.",
+    "copyright": "© 2026 HotelsWithPets.com. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutzerklärung"
+  },
+  "pages": {
+    "destinations": {
+      "title": "Alle haustierfreundlichen Reiseziele",
+      "subtitle": "Von Amsterdam bis Lissabon: Entdecken Sie, wo Sie mit Ihrem Tier in Europas besten Städten übernachten.",
+      "explore": "Entdecken"
+    },
+    "destination": {
+      "back": "← Reiseziele",
+      "categoriesTitle": "Nach Hoteltyp stöbern",
+      "hotelsTitle": "Top haustierfreundliche Hotels",
+      "book": "Auf Booking.com buchen",
+      "from": "Ab",
+      "perNight": "/ Nacht",
+      "free": "Keine Haustiergebühr",
+      "petFee": "Haustiergebühr",
+      "petPolicy": "Haustierrichtlinie",
+      "stars": "Sterne",
+      "reviews": "Bewertungen",
+      "viewCombo": "Hotels ansehen →"
+    },
+    "categories": {
+      "title": "Alle Haustier-Kategorien",
+      "subtitle": "Hundefreundlich, Luxus, Strandzugang, keine Haustiergebühr: Finden Sie genau das, was Ihre Reise braucht.",
+      "destinations": "Reiseziele"
+    },
+    "category": {
+      "back": "← Kategorien",
+      "destinationsTitle": "Beste Reiseziele für diese Kategorie",
+      "explore": "Hotels ansehen →"
+    },
+    "combo": {
+      "rankLabel": "Am besten für",
+      "heroTitle": "Hotels in {dest}, {cat}",
+      "hotelsTitle": "Unsere Top-Auswahl in {dest}, {cat} ({n} Hotels)",
+      "inCity": "in {dest}",
+      "tipsTitle": "So finden Sie das richtige Hotel in {dest}, {cat}",
+      "tipsSubtitle": "Fünf Dinge, die erfahrene Reisende mit Haustier vor jeder Buchung prüfen.",
+      "faqTitle": "Häufig gestellte Fragen",
+      "moreInDest": "Weitere Reiseführer in {dest}",
+      "catElsewhere": "{cat}, andere Städte",
+      "relatedTitle": "Ähnliche Reiseführer",
+      "updatedLabel": "Aktualisiert",
+      "handpicked": "handverlesene Unterkünfte",
+      "fromPerNight": "ab / Nacht",
+      "avgRating": "Ø Bewertung",
+      "noPetFee": "keine Haustiergebühr",
+      "book": "Auf Booking.com buchen",
+      "from": "Ab",
+      "perNight": "/ Nacht",
+      "free": "Keine Haustiergebühr",
+      "petFee": "Haustiergebühr",
+      "petPolicy": "Haustierrichtlinie",
+      "stars": "Sterne",
+      "reviews": "Bewertungen",
+      "ctaTitle": "Bereit zu buchen?",
+      "ctaDesc": "Vergleichen Sie noch mehr Optionen auf Booking.com, filtern Sie nach Haustierrichtlinie, Preis und Ausstattung.",
+      "ctaButton": "Alle haustierfreundlichen Hotels ansehen",
+      "noHotels": "Für diese Kombination sind noch keine Hotels gelistet. Schauen Sie bald wieder vorbei oder stöbern Sie direkt auf Booking.com.",
+      "whyTitle": "Warum {dest} mit Ihrem Tier wählen?",
+      "testimonialLabel": "🐾 Das Urteil eines Tierhalters",
+      "mapSectionTitle": "Diese Hotels auf der Karte finden",
+      "seasonBadge": "Beste Reisezeit: {season}"
+    }
+  }
+}

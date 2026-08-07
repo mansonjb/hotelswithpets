@@ -6,7 +6,7 @@ interface PetTravelTipsProps {
 
 type Tip = { icon: string; title: string; text: string }
 
-const tips: Record<Locale, Tip[]> = {
+const tips: Record<string, Tip[]> = {
   en: [
     {
       icon: '📋',
@@ -97,7 +97,7 @@ const tips: Record<Locale, Tip[]> = {
   ],
 }
 
-const headings: Record<Locale, string> = {
+const headings: Record<string, string> = {
   en: 'Tips for travelling with pets',
   fr: 'Conseils pour voyager avec votre animal',
   es: 'Consejos para viajar con mascotas',
@@ -105,7 +105,7 @@ const headings: Record<Locale, string> = {
 }
 
 export default function PetTravelTips({ locale }: PetTravelTipsProps) {
-  const localeTips = tips[locale]
+  const localeTips = tips[locale] ?? tips.en
   return (
     <section className="py-16 bg-white border-t border-gray-100">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">

@@ -24,7 +24,7 @@ interface Stay22MapProps {
  * links on the page to multi-platform affiliate links.
  */
 export default function Stay22Map({ lat, lng, destName, height = 420, locale = 'en', campaign = 'hotelswithpets' }: Stay22MapProps) {
-  const stay22Lang = ['en', 'fr', 'es', 'pt'].includes(locale) ? locale : 'en'
+  const stay22Lang = ['en', 'fr', 'es', 'pt', 'de'].includes(locale) ? locale : 'en'
   const src = `https://www.stay22.com/embed/gm?aid=${STAY22_AID}&lat=${lat}&lng=${lng}&campaign=${campaign}&lang=${stay22Lang}`
 
   return (

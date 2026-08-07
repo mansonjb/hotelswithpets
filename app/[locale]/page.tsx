@@ -28,12 +28,14 @@ export async function generateMetadata({ params }: PageProps<'/[locale]'>): Prom
     fr: 'Hôtels acceptant les chiens en Europe : 2 400+ vérifiés, politiques réelles | HotelsWithPets',
     es: 'Hoteles que admiten perros en Europa: 2.400+ verificados, políticas reales | HotelsWithPets',
     pt: 'Hotéis que aceitam cães na Europa: 2.400+ verificados, políticas reais | HotelsWithPets',
+    de: 'Hundefreundliche Hotels in Europa: 2.400+ geprüft, echte Haustierrichtlinien | HotelsWithPets',
   }
   const descriptions: Record<string, string> = {
     en: 'Find dog-friendly hotels across 400+ European destinations: 2,400+ hotels with verified pet policies (not just "pets allowed"), real guest ratings, city guides, emergency vets and transport rules. Free trip planning for travelling with your dog or cat.',
     fr: 'Trouvez des hôtels acceptant les chiens dans plus de 400 destinations en Europe : 2 400+ adresses aux politiques animaux vérifiées (pas juste « animaux acceptés »), avis vérifiés, guides de ville, vétérinaires d\'urgence et règles de transport. Planifiez votre voyage gratuitement, avec votre chien ou votre chat.',
     es: 'Encuentra hoteles que admiten perros en más de 400 destinos europeos: 2.400+ hoteles con políticas verificadas (no solo "mascotas admitidas"), opiniones reales, guías de ciudad, veterinarios de urgencia y normas de transporte. Planifica tu viaje gratis, con tu perro o tu gato.',
     pt: 'Encontre hotéis que aceitam cães em mais de 400 destinos europeus: 2.400+ hotéis com políticas verificadas (não só "animais aceites"), avaliações reais, guias de cidade, veterinários de urgência e regras de transporte. Planeie a sua viagem gratuitamente, com o seu cão ou gato.',
+    de: 'Finden Sie hundefreundliche Hotels in über 400 europäischen Reisezielen: 2.400+ Hotels mit geprüften Haustierrichtlinien (nicht nur „Haustiere erlaubt"), echte Gästebewertungen, Stadtführer, Notfall-Tierärzte und Transportregeln. Kostenlose Reiseplanung für Reisen mit Hund oder Katze.',
   }
 
   const title = titles[locale] ?? titles.en
@@ -55,6 +57,7 @@ export async function generateMetadata({ params }: PageProps<'/[locale]'>): Prom
         fr: `${SITE_URL}/fr`,
         es: `${SITE_URL}/es`,
         pt: `${SITE_URL}/pt`,
+        de: `${SITE_URL}/de`,
         'x-default': `${SITE_URL}/en`,
       },
     },
@@ -74,7 +77,7 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
     alternateName: 'HotelsWithPets.com',
     url: SITE_URL,
     description: '2,400+ dog-friendly and pet-friendly hotels across 400+ European destinations. Handpicked, verified pet policies, real guest ratings, and city guides for travelling with your dog or cat.',
-    inLanguage: ['en', 'fr', 'es', 'pt'],
+    inLanguage: ['en', 'fr', 'es', 'pt', 'de'],
     publisher: {
       '@type': 'Organization',
       name: 'HotelsWithPets',
@@ -95,7 +98,7 @@ export default async function HomePage({ params }: PageProps<'/[locale]'>) {
     description: 'A trip-planning platform for travellers with pets: 2,400+ verified dog-friendly and pet-friendly hotels across 400+ destinations, city guides, emergency-vet directories, and transport rules.',
     foundingDate: '2026',
     areaServed: ['Europe', 'United States'],
-    knowsLanguage: ['en', 'fr', 'es', 'pt'],
+    knowsLanguage: ['en', 'fr', 'es', 'pt', 'de'],
   }
 
   return (

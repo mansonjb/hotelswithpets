@@ -1160,7 +1160,7 @@ export default async function PetPassportGuidePage({
   if (!hasLocale(locale)) notFound()
 
   const lang = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
-  const copy = COPY[lang]
+  const copy = COPY[lang] ?? COPY.en
   const today = new Date()
   const monthYear = today.toLocaleDateString(locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : 'en-GB', { month: 'long', year: 'numeric' })
 

@@ -152,7 +152,7 @@ interface Copy {
   faqs: { q: string; a: string }[]
 }
 
-const COPY: Record<Locale, Copy> = {
+const COPY: Record<string, Copy> = {
   en: {
     h1: 'Off-Leash & Fenced Dog Parks',
     subtitle: (n, m, c) => `${n} verified dog parks across ${m} cities in ${c} countries`,
@@ -361,7 +361,7 @@ const COPY: Record<Locale, Copy> = {
 
 // ─── Metadata ─────────────────────────────────────────────────────────────────
 
-const META: Record<Locale, { title: string; desc: string }> = {
+const META: Record<string, { title: string; desc: string }> = {
   en: {
     title: `Off-Leash & Fenced Dog Parks: ${N_PARKS} verified in ${M_CITIES} cities`,
     desc: `${N_PARKS} real off-leash and fenced dog parks across ${M_CITIES} cities, with off-leash zones, rules and maps verified locally. Find an enclosed dog park where dogs are welcome, then book a pet-friendly hotel nearby.`,
@@ -391,7 +391,7 @@ export async function generateMetadata({
 }: PageProps<'/[locale]/dog-parks'>): Promise<Metadata> {
   const { locale } = await params
   if (!hasLocale(locale)) return {}
-  const m = META[locale as Locale]
+  const m = META[locale as Locale] ?? META.en
   return {
     title: m.title,
     description: m.desc,
@@ -424,7 +424,7 @@ export default async function DogParksHubPage({
   if (!hasLocale(locale)) notFound()
   await getDictionary(locale as Locale) // keep locale dictionary warm / consistent
   const lang = locale as Locale
-  const copy = COPY[lang]
+  const copy = COPY[lang] ?? COPY.en
 
   const parksLabel = lang === 'fr' ? 'parcs' : lang === 'es' ? 'parques' : lang === 'pt' ? 'parques' : 'parks'
   const citiesLabel = lang === 'fr' ? 'villes' : lang === 'es' ? 'ciudades' : lang === 'pt' ? 'cidades' : 'cities'
@@ -462,7 +462,7 @@ export default async function DogParksHubPage({
     '@context': 'https://schema.org',
     '@type': 'CollectionPage',
     name: copy.h1,
-    description: META[lang].desc,
+    description: (META[lang] ?? META.en).desc,
     url: `${SITE_URL}/${locale}/dog-parks`,
     mainEntity: {
       '@type': 'ItemList',

@@ -328,7 +328,7 @@ export default async function Page({
   const { locale: rawLocale } = await params
   if (!hasLocale(rawLocale)) notFound()
   const locale = rawLocale as Locale
-  const t = COPY[locale]
+  const t = COPY[locale] ?? COPY.en
 
   const stickyLabel = STICKY_LABELS[locale] ?? STICKY_LABELS.en
 

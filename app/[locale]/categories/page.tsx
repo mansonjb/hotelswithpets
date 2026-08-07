@@ -135,7 +135,7 @@ export default async function CategoriesPage({ params }: PageProps<'/[locale]/ca
   const dict = await getDictionary(locale as Locale)
   const p = dict.pages.categories
   const lang = (locale === 'fr' || locale === 'es') ? locale : 'en'
-  const copy = COPY[lang]
+  const copy = COPY[lang] ?? COPY.en
 
   const totalHotels = hotels.length
   const totalDests = new Set(hotels.map(h => h.destinationSlug)).size

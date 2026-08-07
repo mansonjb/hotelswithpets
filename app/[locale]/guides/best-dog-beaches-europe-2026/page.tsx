@@ -447,7 +447,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
   const l = locale as Locale
-  const t = COPY[l]
+  const t = COPY[l] ?? COPY.en
 
   // Schema.org Article + ItemList + FAQPage
   const schema = [
@@ -455,7 +455,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
       '@context': 'https://schema.org',
       '@type': 'Article',
       headline: t.h1,
-      description: COPY[l].lede,
+      description: (COPY[l] ?? COPY.en).lede,
       datePublished: '2026-05-06T00:00:00Z',
       dateModified: '2026-06-26',
       author: { '@type': 'Person', name: 'HotelsWithPets Editorial', jobTitle: 'Pet Travel Editor', url: SITE_URL },

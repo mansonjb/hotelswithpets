@@ -17,7 +17,7 @@ interface Copy {
 // between PetTravelTips and HomeFaq, native copy in all four locales.
 const linkCls = 'text-orange-700 font-medium underline decoration-orange-200 underline-offset-2 hover:decoration-orange-500'
 
-const CITY_LABELS: Record<Locale, Record<string, string>> = {
+const CITY_LABELS: Record<string, Record<string, string>> = {
   en: { paris: 'Paris', barcelona: 'Barcelona', amsterdam: 'Amsterdam', rome: 'Rome', berlin: 'Berlin', vienna: 'Vienna', lisbon: 'Lisbon' },
   fr: { paris: 'Paris', barcelona: 'Barcelone', amsterdam: 'Amsterdam', rome: 'Rome', berlin: 'Berlin', vienna: 'Vienne', lisbon: 'Lisbonne' },
   es: { paris: 'París', barcelona: 'Barcelona', amsterdam: 'Ámsterdam', rome: 'Roma', berlin: 'Berlín', vienna: 'Viena', lisbon: 'Lisboa' },
@@ -26,7 +26,7 @@ const CITY_LABELS: Record<Locale, Record<string, string>> = {
 
 const CITY_SLUGS = ['paris', 'barcelona', 'amsterdam', 'rome', 'berlin', 'vienna', 'lisbon'] as const
 
-const COPY: Record<Locale, Copy> = {
+const COPY: Record<string, Copy> = {
   en: {
     heading: 'Dog-friendly hotels, explained',
     intro:
@@ -185,61 +185,61 @@ export default function HomeSeoContent({ locale }: { locale: Locale }) {
   const c = COPY[locale] ?? COPY.en
   const cityLabels = CITY_LABELS[locale] ?? CITY_LABELS.en
 
-  const aboutLabel: Record<Locale, string> = {
+  const aboutLabel: Record<string, string> = {
     en: 'About page',
     fr: 'page À propos',
     es: 'página Quiénes somos',
     pt: 'página Sobre nós',
   }
-  const guideLabel: Record<Locale, string> = {
+  const guideLabel: Record<string, string> = {
     en: 'European pet-friendly hotel guide',
     fr: 'guide des hôtels acceptant les animaux en Europe',
     es: 'guía de hoteles pet-friendly en Europa',
     pt: 'guia de hotéis pet-friendly na Europa',
   }
-  const categoriesLabel: Record<Locale, string> = {
+  const categoriesLabel: Record<string, string> = {
     en: 'browsing by category',
     fr: 'parcourir par catégorie',
     es: 'explorar por categoría',
     pt: 'explorar por categoria',
   }
-  const dogsStayFreeLabel: Record<Locale, string> = {
+  const dogsStayFreeLabel: Record<string, string> = {
     en: 'dogs-stay-free hotels in Amsterdam',
     fr: 'hôtels où le chien séjourne gratuitement à Amsterdam',
     es: 'hoteles donde el perro no paga en Ámsterdam',
     pt: 'hotéis onde o cão não paga em Amesterdão',
   }
-  const destinationsLabel: Record<Locale, string> = {
+  const destinationsLabel: Record<string, string> = {
     en: 'all destinations',
     fr: 'toutes les destinations',
     es: 'todos los destinos',
     pt: 'todos os destinos',
   }
-  const dogParksLabel: Record<Locale, string> = {
+  const dogParksLabel: Record<string, string> = {
     en: 'our dog parks directory',
     fr: 'notre annuaire de parcs pour chiens',
     es: 'nuestro directorio de parques para perros',
     pt: 'o nosso diretório de parques para cães',
   }
-  const dogBeachesLabel: Record<Locale, string> = {
+  const dogBeachesLabel: Record<string, string> = {
     en: 'best dog beaches in Europe',
     fr: 'meilleures plages pour chiens en Europe',
     es: 'mejores playas para perros en Europa',
     pt: 'melhores praias para cães na Europa',
   }
-  const fencedParksLabel: Record<Locale, string> = {
+  const fencedParksLabel: Record<string, string> = {
     en: 'fenced dog parks across Europe',
     fr: 'parcs à chiens clôturés en Europe',
     es: 'parques vallados para perros en Europa',
     pt: 'parques vedados para cães na Europa',
   }
-  const trainLabel: Record<Locale, string> = {
+  const trainLabel: Record<string, string> = {
     en: 'travelling by train with a dog',
     fr: 'voyager en train avec son chien',
     es: 'viajar en tren con tu perro',
     pt: 'viajar de comboio com o seu cão',
   }
-  const passportLabel: Record<Locale, string> = {
+  const passportLabel: Record<string, string> = {
     en: 'the EU pet passport',
     fr: 'le passeport pour animaux',
     es: 'el pasaporte para mascotas',

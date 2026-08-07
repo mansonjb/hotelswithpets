@@ -1030,7 +1030,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
   const { locale } = await params
   if (!hasLocale(locale)) notFound()
   const l = locale as Locale
-  const t = COPY[l]
+  const t = COPY[l] ?? COPY.en
 
   // Sort PARKS alphabetically by city name in the active locale
   const sorted = [...PARKS].sort((a, b) => {

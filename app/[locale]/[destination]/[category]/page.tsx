@@ -69,15 +69,18 @@ export async function generateMetadata({
   const catNameFr = cat.nameFr ?? cat.name
   const catNameEs = cat.nameEs ?? cat.name
   const catNamePt = (cat as typeof cat & { namePt?: string }).namePt ?? cat.name
+  const catNameDe = (cat as typeof cat & { nameDe?: string }).nameDe ?? cat.name
   const cityEn = dest.name
   const cityFr = getLocalizedCityName(dest.slug, dest.name, 'fr')
   const cityEs = getLocalizedCityName(dest.slug, dest.name, 'es')
   const cityPt = getLocalizedCityName(dest.slug, dest.name, 'pt')
-  const freePart = (locale: 'en' | 'fr' | 'es' | 'pt') => {
+  const cityDe = getLocalizedCityName(dest.slug, dest.name, 'de')
+  const freePart = (locale: 'en' | 'fr' | 'es' | 'pt' | 'de') => {
     if (freeCount === 0) return ''
     if (locale === 'fr') return `, dont ${freeCount} sans supplément animaux`
     if (locale === 'es') return `, ${freeCount} sin cargo por mascota`
     if (locale === 'pt') return `, ${freeCount} sem suplemento de animais`
+    if (locale === 'de') return `, davon ${freeCount} ohne Haustiergebühr`
     return `, ${freeCount} with no pet fee`
   }
 
@@ -88,12 +91,14 @@ export async function generateMetadata({
     fr: `Hôtels ${catNameFr.toLowerCase()} à ${cityFr} : ${comboHotels.length} adresses vérifiées dès ${minPrice} €/nuit`,
     es: `Hoteles ${catNameEs.toLowerCase()} en ${cityEs}: ${comboHotels.length} verificados desde ${minPrice} €/noche`,
     pt: `Hotéis ${catNamePt.toLowerCase()} em ${cityPt}: ${comboHotels.length} verificados desde ${minPrice} €/noite`,
+    de: `${catNameDe}-Hotels in ${cityDe}: ${comboHotels.length} geprüfte Empfehlungen ab ${minPrice} €/Nacht`,
   }
   const descriptions: Record<string, string> = {
     en: `${comboHotels.length} ${cat.name.toLowerCase()} hotels in ${cityEn}, verified pet policies and live Booking.com prices from €${minPrice}/night${freePart('en')}. Updated ${year}.`,
     fr: `${comboHotels.length} hôtels ${catNameFr.toLowerCase()} à ${cityFr}, politiques animaux vérifiées et prix Booking.com en direct dès ${minPrice} €/nuit${freePart('fr')}. Mis à jour en ${year}.`,
     es: `${comboHotels.length} hoteles ${catNameEs.toLowerCase()} en ${cityEs}, políticas de mascotas verificadas y precios Booking.com en directo desde ${minPrice} €/noche${freePart('es')}. Actualizado ${year}.`,
     pt: `${comboHotels.length} hotéis ${catNamePt.toLowerCase()} em ${cityPt}, políticas de animais verificadas e preços Booking.com em direto desde ${minPrice} €/noite${freePart('pt')}. Atualizado ${year}.`,
+    de: `${comboHotels.length} ${catNameDe}-Hotels in ${cityDe}, geprüfte Haustierrichtlinien und aktuelle Booking.com-Preise ab ${minPrice} €/Nacht${freePart('de')}. Aktualisiert ${year}.`,
   }
 
   const title = titles[locale] ?? titles.en
@@ -125,6 +130,8 @@ export async function generateMetadata({
 function getCategoryName(cat: (typeof categories)[number], locale: Locale): string {
   if (locale === 'fr' && cat.nameFr) return cat.nameFr
   if (locale === 'es' && cat.nameEs) return cat.nameEs
+  if (locale === 'pt' && (cat as { namePt?: string }).namePt) return (cat as { namePt?: string }).namePt as string
+  if (locale === 'de' && (cat as { nameDe?: string }).nameDe) return (cat as { nameDe?: string }).nameDe as string
   return cat.name
 }
 

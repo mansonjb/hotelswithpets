@@ -29,32 +29,32 @@ function pick<T>(arr: T[], seed: number, offset = 0): T {
 /** Map a highlight amenity to a short locale phrase */
 function highlightPhrase(highlight: string, locale: string): string {
   const map: Record<string, Record<string, string>> = {
-    'Free WiFi': { fr: 'Wi-Fi gratuit', en: 'free Wi-Fi', es: 'Wi-Fi gratuito', pt: 'Wi-Fi grátis' },
-    'Swimming Pool': { fr: 'piscine', en: 'swimming pool', es: 'piscina', pt: 'piscina' },
-    'Spa': { fr: 'spa', en: 'spa', es: 'spa', pt: 'spa' },
-    'Fitness Center': { fr: 'salle de sport', en: 'fitness centre', es: 'gimnasio', pt: 'ginásio' },
-    'Restaurant': { fr: 'restaurant sur place', en: 'on-site restaurant', es: 'restaurante propio', pt: 'restaurante no hotel' },
-    'Bar': { fr: 'bar', en: 'bar', es: 'bar', pt: 'bar' },
-    'Parking': { fr: 'parking', en: 'parking', es: 'aparcamiento', pt: 'estacionamento' },
-    'Garden': { fr: 'jardin', en: 'garden', es: 'jardín', pt: 'jardim' },
-    'Terrace': { fr: 'terrasse', en: 'terrace', es: 'terraza', pt: 'esplanada' },
-    'Airport Shuttle': { fr: 'navette aéroport', en: 'airport shuttle', es: 'lanzadera aeropuerto', pt: 'transfer do aeroporto' },
-    'Room Service': { fr: 'room service', en: 'room service', es: 'servicio de habitaciones', pt: 'serviço de quartos' },
-    'Breakfast Included': { fr: 'petit-déjeuner inclus', en: 'breakfast included', es: 'desayuno incluido', pt: 'pequeno-almoço incluído' },
+    'Free WiFi': { fr: 'Wi-Fi gratuit', en: 'free Wi-Fi', es: 'Wi-Fi gratuito', pt: 'Wi-Fi grátis', de: 'kostenloses WLAN' },
+    'Swimming Pool': { fr: 'piscine', en: 'swimming pool', es: 'piscina', pt: 'piscina', de: 'Swimmingpool' },
+    'Spa': { fr: 'spa', en: 'spa', es: 'spa', pt: 'spa', de: 'Spa' },
+    'Fitness Center': { fr: 'salle de sport', en: 'fitness centre', es: 'gimnasio', pt: 'ginásio', de: 'Fitnessstudio' },
+    'Restaurant': { fr: 'restaurant sur place', en: 'on-site restaurant', es: 'restaurante propio', pt: 'restaurante no hotel', de: 'hauseigenes Restaurant' },
+    'Bar': { fr: 'bar', en: 'bar', es: 'bar', pt: 'bar', de: 'Bar' },
+    'Parking': { fr: 'parking', en: 'parking', es: 'aparcamiento', pt: 'estacionamento', de: 'Parkplatz' },
+    'Garden': { fr: 'jardin', en: 'garden', es: 'jardín', pt: 'jardim', de: 'Garten' },
+    'Terrace': { fr: 'terrasse', en: 'terrace', es: 'terraza', pt: 'esplanada', de: 'Terrasse' },
+    'Airport Shuttle': { fr: 'navette aéroport', en: 'airport shuttle', es: 'lanzadera aeropuerto', pt: 'transfer do aeroporto', de: 'Flughafen-Shuttle' },
+    'Room Service': { fr: 'room service', en: 'room service', es: 'servicio de habitaciones', pt: 'serviço de quartos', de: 'Zimmerservice' },
+    'Breakfast Included': { fr: 'petit-déjeuner inclus', en: 'breakfast included', es: 'desayuno incluido', pt: 'pequeno-almoço incluído', de: 'Frühstück inklusive' },
   }
-  const l = locale === 'fr' ? 'fr' : locale === 'es' ? 'es' : locale === 'pt' ? 'pt' : 'en'
+  const l = locale === 'fr' ? 'fr' : locale === 'es' ? 'es' : locale === 'pt' ? 'pt' : locale === 'de' ? 'de' : 'en'
   return map[highlight]?.[l] ?? ''
 }
 
 /** Rating-based quality adjective */
 function ratingWord(rating: number | undefined, locale: string): string {
   if (!rating) return ''
-  const lang = locale === 'fr' ? 'fr' : locale === 'es' ? 'es' : locale === 'pt' ? 'pt' : 'en'
-  if (rating >= 9.5) return { fr: 'exceptionnel', en: 'exceptional', es: 'excepcional', pt: 'excecional' }[lang]
-  if (rating >= 9.0) return { fr: 'remarquable', en: 'outstanding', es: 'sobresaliente', pt: 'notável' }[lang]
-  if (rating >= 8.5) return { fr: 'excellent', en: 'excellent', es: 'excelente', pt: 'excelente' }[lang]
-  if (rating >= 8.0) return { fr: 'très bien noté', en: 'highly rated', es: 'muy valorado', pt: 'muito bem avaliado' }[lang]
-  return { fr: 'bien noté', en: 'well rated', es: 'bien valorado', pt: 'bem avaliado' }[lang]
+  const lang = locale === 'fr' ? 'fr' : locale === 'es' ? 'es' : locale === 'pt' ? 'pt' : locale === 'de' ? 'de' : 'en'
+  if (rating >= 9.5) return { fr: 'exceptionnel', en: 'exceptional', es: 'excepcional', pt: 'excecional', de: 'außergewöhnlich' }[lang]
+  if (rating >= 9.0) return { fr: 'remarquable', en: 'outstanding', es: 'sobresaliente', pt: 'notável', de: 'herausragend' }[lang]
+  if (rating >= 8.5) return { fr: 'excellent', en: 'excellent', es: 'excelente', pt: 'excelente', de: 'hervorragend' }[lang]
+  if (rating >= 8.0) return { fr: 'très bien noté', en: 'highly rated', es: 'muy valorado', pt: 'muito bem avaliado', de: 'sehr gut bewertet' }[lang]
+  return { fr: 'bien noté', en: 'well rated', es: 'bien valorado', pt: 'bem avaliado', de: 'gut bewertet' }[lang]
 }
 
 export function localizedPetPolicy(hotel: HotelSnapshot, locale: string): string {
@@ -303,6 +303,86 @@ export function localizedPetPolicy(hotel: HotelSnapshot, locale: string): string
       `Indique o seu animal no momento da reserva para garantir um quarto adequado.`,
       `Lembre-se de mencionar que viaja com um animal ao fazer a reserva.`,
       `É aconselhável indicar o seu animal na reserva para facilitar a organização do hotel.`,
+    ]
+
+    return [
+      pick(welcomeVariants, seed),
+      pick(feeVariants, seed, 1),
+      pick(sizeVariants, seed, 2),
+      locationSentence,
+      amenitySentence,
+      pick(rulesVariants, seed, 3),
+      pick(bookingVariants, seed, 4),
+    ].filter(Boolean).join(' ')
+  }
+
+  // ─── GERMAN ───────────────────────────────────────────────────────────────
+  if (locale === 'de') {
+    const welcomeVariants = isLuxury ? [
+      `${name} heißt wohlerzogene Haustiere herzlich willkommen und bietet für Ihre Vierbeiner eine besondere Willkommensaufmerksamkeit.`,
+      `Als ${ratingAdj || 'erstklassiges'} Haus empfängt ${name} Haustiere von Anfang an mit besonderer Aufmerksamkeit.`,
+      `${name} gehört zu den wenigen Luxushotels, die Ihrem Haustier ein echtes VIP-Erlebnis bieten.`,
+    ] : [
+      `${name} ist ein haustierfreundliches Hotel, das Hunde${catFriendly ? ' und Katzen' : ''} gerne willkommen heißt.`,
+      `Mit ${ratingAdj || 'positiver Bewertung'} für den Empfang heißt ${name} Reisende mit Haustier willkommen.`,
+      `${name} bietet ein einladendes Umfeld für Haustierbesitzer, die ihren Begleiter nicht zu Hause lassen möchten.`,
+      `Bei ${name} sind Hunde${catFriendly ? ' und Katzen' : ''} willkommen: das Team kennt sich mit den Bedürfnissen von Reisenden mit Haustier bestens aus.`,
+    ]
+
+    const feeVariants = isFree ? [
+      `Haustiere übernachten gratis, es entstehen keine zusätzlichen Kosten.`,
+      `Gute Nachricht: es fällt keine Haustiergebühr an.`,
+      `Ihr Begleiter verursacht keine zusätzlichen Kosten: der Aufenthalt für Haustiere ist kostenlos.`,
+    ] : petFee > 0 ? [
+      `Es fällt eine Haustiergebühr von €${petFee} pro Nacht an, zahlbar beim Check-in.`,
+      `An der Rezeption wird beim Check-in eine Haustiergebühr von €${petFee} pro Nacht berechnet.`,
+      `Das Hotel erhebt eine Gebühr von €${petFee} pro Nacht für Haustiere, zahlbar vor Ort.`,
+    ] : [
+      `Es kann eine Haustiergebühr anfallen; der genaue Betrag wird bei der Buchung mitgeteilt.`,
+      `Je nach Saison ist ein Aufpreis für Haustiere möglich; bitte erkundigen Sie sich direkt beim Hotel.`,
+    ]
+
+    const sizeVariants = isLuxury ? [
+      `Haustiere sind bis 10 kg erlaubt; ein Haustier pro Zimmer.`,
+      `Maximales Gewicht: 10 kg. Nur ein Haustier pro Zimmer.`,
+    ] : is4Star ? [
+      `Haustiere sind bis 20 kg erlaubt; ein Haustier pro Zimmer.`,
+      `Maximalgewicht: 20 kg. Ein Haustier pro Zimmer ist gestattet.`,
+    ] : [
+      `Haustiere sind bis 25 kg erlaubt; maximal zwei Haustiere pro Zimmer.`,
+      `Gewicht bis 25 kg akzeptiert, maximal zwei Haustiere pro Zimmer.`,
+      `Das Hotel nimmt Haustiere unter 25 kg auf, bis zu zwei pro Zimmer.`,
+    ]
+
+    const locationSentence = hasBeach
+      ? pick([
+          `Das Hotel liegt nur wenige Schritte von einem hundefreundlichen Strandabschnitt entfernt, ideal für morgendliche Spaziergänge.`,
+          `Ein hundefreundlicher Strand befindet sich in kurzer Entfernung, perfekt für einen Spaziergang bei Sonnenaufgang.`,
+        ], seed, 2)
+      : hasPark
+      ? pick([
+          `Ein hundefreundlicher Park oder eine Grünfläche befindet sich in unmittelbarer Nähe des Hotels.`,
+          `Grünflächen und hundefreundliche Parks sind zu Fuß vom Hotel aus erreichbar.`,
+        ], seed, 2)
+      : ''
+
+    const amenitySentence = nicePicks.length > 0
+      ? `Das Hotel bietet außerdem: ${nicePicks.join(', ')}.`
+      : ''
+
+    const rulesVariants = isLuxury ? [
+      `Haustiere müssen in den Gemeinschaftsbereichen an der Leine geführt werden und haben keinen Zugang zu Spa oder Restaurants.`,
+      `Leinenpflicht in den Gemeinschaftsbereichen; kein Zugang zu Spa und Gastronomiebereichen.`,
+    ] : [
+      `Haustiere müssen in den Gemeinschaftsbereichen an der Leine geführt werden und dürfen nicht allein im Zimmer bleiben.`,
+      `Leinenpflicht in Fluren und Gemeinschaftsbereichen. Haustiere dürfen nicht allein im Zimmer gelassen werden.`,
+      `Bitte führen Sie Ihr Haustier in den Gemeinschaftsbereichen an der Leine und lassen Sie es nicht allein im Zimmer.`,
+    ]
+
+    const bookingVariants = [
+      `Bitte geben Sie Ihr Haustier bereits bei der Buchung an, damit ein passendes Zimmer reserviert werden kann.`,
+      `Denken Sie daran, bei der Buchung anzugeben, dass Sie mit einem Haustier reisen.`,
+      `Es wird empfohlen, das Haustier bereits bei der Buchung anzugeben, damit sich das Hotel entsprechend vorbereiten kann.`,
     ]
 
     return [

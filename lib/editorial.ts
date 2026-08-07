@@ -8389,6 +8389,2098 @@ export const destContextByLocale: Record<string, Record<string, DestCtx>> = {
       area: `o compacto centro termal em torno do Pouhon Pierre-le-Grand, o lago de Warfaaz e a reserva das Hautes Fagnes acima da vila`,
     },
   },
+  de: {
+    sydney: {
+      personality: `eine der hundefreundlichsten Großstädte der Welt, wo ein hervorragender Outdoor-Lebensstil mit Hundestränden am Hafen, riesigen Freilaufparks und ganzjährigem Terrassenleben strenge zonenbasierte Strandregeln und ein öffentliches Nahverkehrsnetz ausgleicht, das Haustiere weitgehend ausschließt`,
+      highlight: `die Freilaufwiesen des Sydney Park und der Centennial Parklands, der Hundestrand am Hafen in Rose Bay und der klippennahe Federation Cliff Walk`,
+      area: `dem inneren Westen rund um Alexandria und Leichhardt, den östlichen Vororten von Rose Bay bis Watsons Bay und der Hafenfront bei Barangaroo`,
+    },
+    sylt: {
+      personality: `Deutschlands erstklassige Nordseestrandinsel, wo 40 Kilometer Dünen und eine Reihe offizieller Hundestrände sie zu einem der wirklich hundefreundlichsten Orte des Landes machen`,
+      highlight: `die ausgewiesenen Hundestrände in Westerland, Kampen und List, das leuchtende Rote Kliff bei Kampen und die Bohlenwege der Braderuper Heide`,
+      area: `Westerland, Kampen und dem reetgedeckten friesischen Dorf Keitum`,
+    },
+    scheveningen: {
+      personality: `der Nordseestrandort Den Haags, ein lebendiges urbanes Küstenviertel, wo eine lange Strandpromenade, eine markante Seebrücke und geschützte Dünen an beiden Enden der Küste auf ganzjährige Hundestrände treffen`,
+      highlight: `die ganzjährigen Hundestrände am Noorderstrand und am Kijkduin-Ende des Zuiderstrands, die Dünen des Westduinparks und die weit ins Meer hinausragende Pier`,
+      area: `der Strandweg-Promenade, dem Fischereihafen und den Dünen des Westduinparks in Richtung Kijkduin`,
+    },
+    zandvoort: {
+      personality: `der Nordseestrandort Amsterdams, ein entspannter Küstenort in kurzer direkter Zugfahrt von der Stadt, wo ein breiter Sandstrand, eine lange Promenade und weite Dünenschutzgebiete auf saisonale, zonierte Hundestrandregeln treffen`,
+      highlight: `der winterliche Freilaufstrand (1. Oktober bis 15. April), der ganzjährige Parnassia-Hundestrand etwas nördlich in Bloemendaal aan Zee und die Hundedünen der Noordduinen`,
+      area: `der Strandpromenade, den Dünen der Noordduinen und Kennemerlands und dem alten Dorfkern rund um die Grote Krocht`,
+    },
+    gijon: {
+      personality: `eine entspannte Cidre-Stadt an der kantabrischen Küste, wo Hunde neben ihren Besitzern an der Strandpromenade entlangtraben und unter den Tischen belebter Sidrerías dösen`,
+      highlight: `El Rinconín, Gijóns ganzjähriger Hundestrand, mit eigenem eingezäuntem Freilauf-Hundepark direkt am Sand`,
+      area: `Cimavilla, dem bunt bemalten alten Fischerviertel, das zu den klippennahen Wiesen des Cerro de Santa Catalina hinaufsteigt, perfekt für Abendspaziergänge an der Leine unter Chillidas Skulptur`,
+    },
+    amalfi: {
+      personality: `einer der schönsten Orte an der Amalfiküste, steil und sonnendurchflutet, doch an der Küste zu Fuß erkundbar, was Hundehaltern entgegenkommt, die auf Busse und Fähren setzen und die Sommerhitze einplanen`,
+      highlight: `ein Spaziergang durch das kühle, schattige Naturschutzgebiet Valle delle Ferriere, dann der Bergrücken-Wanderweg zum Torre dello Ziro oberhalb von Atrani, beide mit Hund an der Leine erlaubt`,
+      area: `dem flachen Küstenzentrum nahe der Piazza Duomo, oder im ruhigen Atrani und dem Gartendorf Ravello für kühlere Luft`,
+    },
+    almeria: {
+      personality: `sonnenverwöhnt, entspannt und angenehm unüberlaufen, belohnt Almería Hundehalter, die die Hitze einplanen, mit leeren Stränden und weiten Wüstenhorizonten`,
+      highlight: `eine Abkühlung mit dem Hund am offiziellen Hundestrand El Bobar, dann der Sonnenuntergang über den beleuchteten Mauern der Alcazaba`,
+      area: `der begehbaren Altstadt nahe der Kathedrale, oder draußen in El Toyo und Retamar mit direktem Strandzugang am Rand von Cabo de Gata`,
+    },
+    bayreuth: {
+      personality: `Wagners grüne Festspielstadt im Herzen Frankens`,
+      highlight: `die Hofgarten-Kanäle, die Parkfollies der Eremitage und die Wilhelminenaue-Flusswiesen`,
+      area: `der Altstadt, dem Grünen Hügel und dem Roten Maintal`,
+    },
+    trento: {
+      personality: `eine der hundefreundlichsten alpinen Landeshauptstädte Italiens, mit eingezäunten Hundeparks in jedem Stadtteil und Bergen, die direkt aus der Stadt emporragen`,
+      highlight: `die Wälder von Gocciadoro, der Aussichtspunkt der Seilbahn nach Sardagna und die Hundestrände am Lago di Caldonazzo`,
+      area: `dem freskengeschmückten historischen Zentrum, dem Hügel von Gocciadoro und Sardagna oberhalb des Etschtals`,
+    },
+    kitzbuehel: {
+      personality: `der legendärste Skiort der Alpen, wo Gondeln Hunde kostenlos befördern und Wanderwege an den mittelalterlichen Stadttoren beginnen`,
+      highlight: `der Streif-Sommerweg am Hahnenkamm, die Schwarzsee-Seerunde und der Wildpark Aurach`,
+      area: `der ummauerten Altstadt, dem Schwarzsee-Ufer und der sonnigen Sonnbergseite`,
+    },
+    ravenna: {
+      personality: `Ravenna ist eine flache, entspannte Mosaikstadt, in der ein Hund an der Leine sich natürlich in Fußgängerplätze, Pinienwaldwege und den gemächlichen Rhythmus der Adriaküste einfügt`,
+      highlight: `ein Vormittag mit byzantinischen Mosaiken, abwechselnd besichtigt, gepaart mit einem Nachmittagsspaziergang mit Hund durch die Pineta di San Vitale und einem Bad an einem Hundestrand bei Marina di Ravenna`,
+      area: `dem ummauerten Zentrum wegen der Mosaiken und Dantes Grab, oder draußen in Marina di Ravenna und den Lidi wegen Strandzugang und Fischtrattorien`,
+    },
+    'saint-malo': {
+      personality: `eine der stimmungsvollsten ummauerten Küstenstädte Frankreichs`,
+      highlight: `der Wehrmauerspaziergang von Intra-Muros, die Plage du Sillon und die gezeitenabhängige Insel Grand Bé`,
+      area: `Intra-Muros, Paramé und der Smaragdküste`,
+    },
+    quimper: {
+      personality: `eine der stimmungsvollsten und am besten zu Fuß erkundbaren historischen Städte der Bretagne`,
+      highlight: `die Kathedrale Saint-Corentin und die Fachwerk-Altstadt, die Kais am Fluss Odet und der bewaldete Mont Frugy`,
+      area: `der mittelalterlichen Altstadt, den Flusskais am Odet und dem Fayence-Viertel Locmaria`,
+    },
+    carnac: {
+      personality: `eines der markantesten Sommerfrische-Strandziele Frankreichs mit kühlerem Sommerklima, gebaut rund um das weltweit größte Feld neolithischer Menhire`,
+      highlight: `die Menhirreihen von Carnac bei Ménec, Kermario und Kerlescan, der Küstenpfad GR34 und der Tumulus Saint-Michel`,
+      area: `Carnac-Plage, Carnac-Ville rund um die Kirche Saint-Cornély und der weiteren Bucht von Quiberon`,
+    },
+    quiberon: {
+      personality: `einer der schroffsten und hundefreundlichsten Küstenfluchten der Bretagne`,
+      highlight: `die wilden Klippen der Côte Sauvage, die Grande Plage und die Fähre nach Belle-Île ab Port Maria`,
+      area: `Port Maria, der Côte Sauvage und der Pointe du Conguel`,
+    },
+    ksamil: {
+      personality: `eines der schönsten und aufstrebendsten Strandziele an der albanischen Riviera, genannt die Malediven Europas`,
+      highlight: `die vier türkisfarbenen Inselchen von Ksamil, der Pasqyra-Strand (Mirror Beach) und die offenen Strände außerhalb der Saison, an denen Hunde frei ohne Leine laufen dürfen`,
+      area: `dem Dorf Ksamil, dem Nationalpark Butrint und Saranda`,
+    },
+    saranda: {
+      personality: `eine der aufstrebendsten hundefreundlichen Küstenfluchten Albaniens`,
+      highlight: `die Strandpromenade von Saranda, der Aussichtspunkt der Burg Lëkurësi und die UNESCO-Ruinen von Butrint`,
+      area: `der Strandpromenade, der Quelle Blue Eye und den Hügeln mit Blick hinüber nach Korfu`,
+    },
+    saturnia: {
+      personality: `ein winziges Thermalquellendorf tief in der toskanischen Maremma, gebaut rund um die kostenlosen Freiluft-Thermalbecken der Cascate del Mulino, eine wirklich ländliche, unaufgeregte Basis für Reisen mit Haustier statt eines Städtetrips`,
+      highlight: `die kostenlosen heißen Quellen der Cascate del Mulino, das VIPets-Programm des Thermalresorts Terme di Saturnia und das römische Stadttor Porta Romana`,
+      area: `dem ummauerten mittelalterlichen Borgo, dem gleich außerhalb gelegenen Resort Terme di Saturnia und der weiteren Maremma-Landschaft in Richtung Pitigliano und Sovana`,
+    },
+    sirmione: {
+      personality: `eine romantische Halbinselstadt am Gardasee rund um die von einem Wassergraben umgebene Scaligerburg am Eingang zur Altstadt, die römischen Ruinen der Grotte di Catullo an der Halbinselspitze, die weißen Felsplatten des Jamaica Beach am See, das Thermalbad Aquaria und schattige Uferpromenaden`,
+      highlight: `Jamaica Beach, Lido delle Bionde und der Seeuferweg zur Grotte di Catullo`,
+      area: `dem Centro Storico, Colombare und Lugana`,
+    },
+    'riva-del-garda': {
+      personality: `eine der schönsten Bergstädte am See Italiens, wo die Uferpromenade und die von Arkaden gesäumte Piazza III Novembre, die mittelalterliche Rocca di Riva, das Klippenbastion Bastione, der Wasserfall Cascata del Varone sowie die Windsurfgewässer und der Ponale-Weg sie zu einem Paradies für Hundehalter machen`,
+      highlight: `der Ponale-Weg, der Monte Brione und die Uferpromenade`,
+      area: `der Piazza III Novembre, Porto San Nicolò und der Uferpromenade Viale Rovereto`,
+    },
+    'zahara-de-los-atunes': {
+      personality: `ein weiß getünchtes Fischerdorf am Atlantik rund um das Thunfischfang-Castillo de las Almadrabas, wo lange wilde Strände und Dünen zur Küste von Atlanterra und zur Klippe Cabo de Plata verlaufen, die Chiringuitos den berühmten Almadraba-Roten Thun servieren und der Sandstrand ihn perfekt für lange, hundefreundliche Sommeraufenthalte macht`,
+      highlight: `der lange wilde Playa de Zahara, der Dünen-Bohlenweg nach Atlanterra und der Küstenpfad Cabo de Plata`,
+      area: `dem weiß getünchten Casco Antiguo rund um die Calle María Luisa, den Chiringuitos am Strand und der Küste von Atlanterra`,
+    },
+    sibenik: {
+      personality: `eine tausend Jahre alte dalmatinische Steinstadt rund um die UNESCO-Kathedrale des Heiligen Jakobus, überwacht von den Festungen St. Michael, Barone und St. Johannes, deren mittelalterliche Altstadtgassen sich zur Uferpromenade Riva öffnen und den Weg zu den Krka-Wasserfällen und den Kornaten-Inseln bahnen`,
+      highlight: `die Festung St. Michael, der Waldpark Šubićevac und die Wege mit Leinenpflicht im Nationalpark Krka`,
+      area: `der Altstadt, der Uferpromenade Riva und Mandalina`,
+    },
+    limassol: {
+      personality: `eine der entspanntesten und am besten zu Fuß erkundbaren Städte an Zyperns Südküste, wo die Strandpromenade Molos mit Skulpturenpark, die mittelalterliche Burg von Limassol und die Altstadt, die Marina, der Lady's-Mile-Strand sowie die antiken Ruinen von Kourion und Amathous alle leicht mit Hund zu erkunden sind`,
+      highlight: `die Strandpromenade Molos, der Hundepark Zakaki und das offene Gelände des antiken Kourion`,
+      area: `der Altstadt, der Strandpromenade Molos und der Marina`,
+    },
+    trapani: {
+      personality: `ein sonnendurchfluteter westsizilianischer Hafen, geprägt von den Salinen und Windmühlen der Saline di Trapani, einer sichelförmigen Altstadt, die sich entlang der Via Garibaldi ins Meer streckt, dem Küstenturm Torre di Ligny, den Tragflügelbooten der Liberty Lines zu den Ägadischen Inseln und der Seilbahn hinauf zum mittelalterlichen Erice`,
+      highlight: `die Uferpromenade Lungomare Dante Alighieri, der Garten Villa Regina Margherita und die Salinenwege der Saline di Trapani`,
+      area: `dem Centro Storico, der Lungomare-Uferpromenade und dem Bergdorf Erice`,
+    },
+    sliema: {
+      personality: `eine der am besten zu Fuß erkundbaren Küstenstädte Maltas, wo die Promenade von Tigné Point über die felsige Küste von Exiles und Qui-si-Sana bis hin nach St. Julian's verläuft`,
+      highlight: `die Strandpromenade von Sliema, die Uferzone Tigné Point und die kurze Fähre hinüber zur Skyline von Valletta`,
+      area: `Tigné Point, der Strandpromenade Strand und der Küste von Exiles`,
+    },
+    'costa-da-caparica': {
+      personality: `ein langer Atlantik-Strandort südlich von Lissabon, wo die endlosen nummerierten Praias und die alte Transpraia-Bahn, die Strandavenida und der ehemalige Fischerort, die Klippen von Arriba Fossil und der Pinienwald Mata dos Medos alle nur eine kurze Überfahrt von der Hauptstadt entfernt liegen`,
+      highlight: `die südlichen Praias in Richtung Fonte da Telha, die klippennahen Wanderwege von Arriba Fossil und der Pinienwald Mata dos Medos`,
+      area: `der Strandavenida, dem alten Fischerort und Fonte da Telha`,
+    },
+    cassis: {
+      personality: `ein malerischer provenzalischer Fischerhafen nahe Marseille, gelegen um seinen bootgefüllten Hafen unterhalb der aufragenden Steilküste Cap Canaille, mit den Calanques von Port-Miou, Port-Pin und En-Vau, der Plage de la Grande Mer und historischen Weinbergen direkt vor der Tür, wobei der geschützte Kernbereich des Nationalparks Calanques Hunde weitgehend verbietet`,
+      highlight: `der Fischerhafen und der Quai des Baux, die Klippenstraße Cap Canaille und die außerhalb gelegene Calanque Port-Miou`,
+      area: `dem alten Hafen, dem Bestouan und den AOC-Weinbergen von Cassis`,
+    },
+    'lignano-sabbiadoro': {
+      personality: `ein langer goldener Blue-Flag-Strandort an der Adria in Friaul-Julisch Venetien, dessen eigener Hundestrand Doggy Beach, die modernistische Pinienwald-Spirale der Pineta, das Wahrzeichen Terrazza a Mare und die ruhige Lagune von Marano ihn zu einer einfachen Langzeit-Familienbasis für Reisen mit Hund machen`,
+      highlight: `der Hundestrand Doggy Beach, der lange Blue-Flag-Familienstrand und der schattige Pinienwald Pineta mit dem Hemingway Park`,
+      area: `Sabbiadoro, Lignano Pineta und Lignano Riviera`,
+    },
+    bibione: {
+      personality: `einer der europäischen Vorzeigeorte für Reisen mit Hund am Strand, gelegen um den langen Blue-Flag-Sandstrand an der Adria, den berühmten Hundestrand Spiaggia di Pluto, das Thermalbad Bibione Thermae und den Leuchtturm Faro di Bibione in den Pinienwäldern am Tagliamento`,
+      highlight: `der Hundestrand Spiaggia di Pluto, der Pinienwaldweg zum Faro di Bibione und die 8 km lange Strandpromenade`,
+      area: `Bibione Spiaggia, Bibione Pineda und Lido dei Pini nahe dem Hundestrand`,
+    },
+    'cap-ferret': {
+      personality: `eine barfuß erkundbare Atlantikhalbinsel, gekrönt vom Leuchtturm Phare du Cap-Ferret, gesäumt von den bunten Austernhütten von L'Herbe und Le Canon, gespannt zwischen den ruhigen Stränden des Bassins und der wilden Ozeanbrandung gegenüber der Dune du Pilat auf der anderen Seite der Bucht`,
+      highlight: `die Radwege durch den Pinienwald, die Runde um die Pointe aux Chevaux und die Naturreservate von Piraillan`,
+      area: `Claouey, L'Herbe und dem Dorf Le Cap-Ferret`,
+    },
+    'saint-jean-de-luz': {
+      personality: `einer der schönsten Ferienorte an der französischen Baskenküste, wo die geschützte Bucht der Grande Plage mit ihren drei Wellenbrechern auf eine Fußgängeraltstadt trifft, gekrönt von der Kirche Saint-Jean-Baptiste, in der Ludwig XIV. 1660 heiratete, den Fischereihafen und die Maison Louis XIV, mit der Landzunge Sainte-Barbe, die sich zur Küstenstraße Corniche Basque Richtung Hendaye öffnet`,
+      highlight: `der Buchtpromenade und den Wellenbrechern, der Landzunge Sainte-Barbe und dem Küstenpfad Corniche Basque`,
+      area: `der Altstadt rund um die Place Louis XIV, dem Fischereihafen und der Landzunge Sainte-Barbe`,
+    },
+    'conil-de-la-frontera': {
+      personality: `einer der entspanntesten Strandorte der Costa de la Luz, wo eine weiß getünchte Altstadt, gekrönt vom Torre de Guzmán, auf die langen Atlantiksandstrände von Playa de los Bateles und Fontanilla trifft, dazu die Surfwellen von El Palmar und die orangefarbenen Klippen und Buchten des Cabo Roche`,
+      highlight: `der Playa de los Bateles, der Pinienwald Pinar de Roche und der Klippenweg am Cabo Roche`,
+      area: `dem Casco Antiguo, der Küste von Roche und dem Feuchtgebiet Río Salado`,
+    },
+    mojacar: {
+      personality: `ein weiß getünchtes Hügeldorf oberhalb von rund 7 km Küste an der Costa de Almería, mit der langen Strandpromenade von Mojácar Playa, dem neuen Hundestrand Playa del Perulejo und dem historischen Wachturm Macenas an der wilden Südküste`,
+      highlight: `der lange flache Paseo Marítimo, der Hundestrand Perulejo nahe Macenas und die Aussichtspunkte des Dorfs`,
+      area: `Mojácar Pueblo, der Strandpromenade Mojácar Playa und der Küste von Macenas`,
+    },
+    gandia: {
+      personality: `eine Strandstadt an der Costa de Valencia, in der der breite Playa de Gandía (Platja Nord), der naturbelassene Dünenstrand l'Ahuir mit seinem Testbereich für Hunde, der herzogliche Borgia-Palast in der Altstadt und die lebendige Hafenmarina zusammenkommen`,
+      highlight: `die lange, mit Hund begehbare Promenade Paseo Marítimo Neptuno, der Uferweg am Fluss Serpis und der Grünweg Vía Verda, erreichbar mit der kostenlosen Cercanías-Bahn ab Valencia`,
+      area: `dem Grau und Playa de Gandía, der Altstadt und l'Ahuir`,
+    },
+    naxos: {
+      personality: `der grüne, entspannte Riese der Kykladen, wo das marmorne Tor Portara des Apollontempels den Sonnenuntergang über der Altstadt und dem Kastro von Chora einrahmt`,
+      highlight: `die Landzunge Portara, die langen Strände von St. George und Plaka sowie die Marmordörfer Halki und Apiranthos`,
+      area: `Naxos-Stadt (Chora), Agios Georgios und den südlichen Stränden von Agios Prokopios, Agia Anna und Plaka`,
+    },
+    trogir: {
+      personality: `eine winzige ummauerte UNESCO-Altstadt auf einer dalmatinischen Insel, gekrönt von der Kathedrale des Heiligen Laurentius und der Festung Kamerlengo am Meer`,
+      highlight: `die Marmorgassen der Altstadt, die von Palmen gesäumte Uferpromenade Riva und die pinienbeschatteten Wege von Pantan`,
+      area: `der UNESCO-Altstadtinsel, der Uferpromenade Riva und den nahegelegenen Stränden der Insel Čiovo`,
+    },
+    portimao: {
+      personality: `eine lebendige Algarve-Hafenstadt rund um den Fluss Arade, gekrönt vom goldenen Strand Praia da Rocha unterhalb dramatischer roter Klippen, mit einer belebten Uferpromenade mit Marina, der historischen Altstadt rund um den Largo 1 de Dezembro und dem nahegelegenen Bohlenweg an der Mündung von Alvor`,
+      highlight: `der klippennahe Bohlenweg von Praia da Rocha, die Uferpromenade am Arade und der Bohlenweg an der Flussmündung Ria de Alvor`,
+      area: `Praia da Rocha, der Altstadt und der Uferpromenade am Arade`,
+    },
+    larnaca: {
+      personality: `eine der entspanntesten Küstenstädte Zyperns, wo die palmengesäumte Promenade Finikoudes, die Kirche des Heiligen Lazarus, der flamingoreiche Salzsee von Larnaka neben der Moschee Hala Sultan Tekke und die Marina alle in bequemer Reichweite eines Hundespaziergangs liegen`,
+      highlight: `der Naturlehrpfad am Salzsee von Larnaka, die Strandpromenade Finikoudes und der eingezäunte Larnaca Dog Park`,
+      area: `der Strandpromenade Finikoudes, der Altstadt rund um den Heiligen Lazarus und dem Mackenzie Beach`,
+    },
+    'las-palmas': {
+      personality: `die Hauptstadt der Kanarischen Inseln auf Gran Canaria, eine kompakte Winterstadt für Sonnenurlaub, in der die kolonialen Balkone der Altstadt von Vegueta, der palmengesäumte Parque Santa Catalina und der lange Bogen des Strandes Las Canteras alle bequem zu Fuß erreichbar sind, bei einem nahezu jahreszeitenlosen subtropischen Klima`,
+      highlight: `die über die Stadt verteilten eingezäunten Pipican-Hundeparks, der Hundestrand Bocabarranco am südlichen Stadtrand und die kühlen Bergwege rund um den Roque Nublo für einen Tagesausflug`,
+      area: `der Altstadt von Vegueta, Santa Catalina nahe der Marina und der Strandpromenade Las Canteras`,
+    },
+    kefalonia: {
+      personality: `die größte und dramatischste der Ionischen Inseln, gelegen um die Uferpromenade von Argostoli mit ihrer steinernen De-Bosset-Brücke, mit dem Aussichtspunkt am Myrtos Beach, dem Klippendorf Assos, der Höhle Melissani und dem pastellfarbenen Hafen von Fiskardo`,
+      highlight: `der Wanderweg um die Lagune Koutavos, die Runde um den Leuchtturm Katavothres und die Tannenwälder des Nationalparks Mount Ainos`,
+      area: `Argostoli, Fiskardo und Assos`,
+    },
+    estepona: {
+      personality: `ein weiß getünchter Costa-del-Sol-Ort, dessen mit Blumentöpfen gesäumte Altstadtgassen, die Freiluft-Wandgemälderoute Ruta de Murales und die von Orangenbäumen gesäumte Plaza de las Flores hinunter zu einer Marina mit 447 Liegeplätzen führen, mit dem botanischen Park Orquidario und dem Safaripark Selwo in der Nähe`,
+      highlight: `die mit Blumentöpfen gesäumten Gassen der Altstadt, die Promenade Senda Litoral und der eingezäunte Hundepark Las Mesas`,
+      area: `dem Casco Antiguo, dem Puerto Deportivo und der New Golden Mile`,
+    },
+    'la-spezia': {
+      personality: `eine entspannte ligurische Hafenstadt und das einfachste hundefreundliche Tor zu den Cinque Terre`,
+      highlight: `die Uferpromenade Morin mit ihren öffentlichen Gärten, das Hügelschloss Castello San Giorgio und die Bahnlinie der Cinque Terre`,
+      area: `der Uferpromenade Morin mit den öffentlichen Gärten, dem historischen Zentrum rund um die Via del Prione und dem Golf der Dichter Richtung Portovenere und Lerici`,
+    },
+    gozo: {
+      personality: `Maltas ruhigere zweite Insel, wo Victorias Hügelfestung Cittadella, der rote Sandstrand von Ramla Bay, die dramatische Küste von Dwejra mit dem Inland Sea, die geschützte Bucht Xlendi Bay und die prähistorischen Tempel von Ġgantija alle in kurzer Fahrt beieinander liegen`,
+      highlight: `die klippennahen Pfade von Ta' Ċenċ, die Küstenwege von Dwejra und der schattige Wanderweg durch das Tal von Mġarr ix-Xini`,
+      area: `Victoria (Rabat), Marsalforn und Xlendi`,
+    },
+    syracuse: {
+      personality: `ein sonnenverwöhntes sizilianisches Juwel, dessen Leben sich draußen auf der Insel Ortigia abspielt, rund um die Piazza Duomo, die legendäre Fonte Aretusa, den antiken archäologischen Park Neapolis und die luftige Uferpromenade Lungomare`,
+      highlight: `der Lungomare di Ortigia, die Gärten des Foro Siracusano und die Hundestrände bei Marina di Priolo und Fontane Bianche`,
+      area: `Ortigia, dem Festlandzentrum rund um den Foro Siracusano und dem archäologischen Viertel Neapolis`,
+    },
+    zakynthos: {
+      personality: `eine entspannte, outdoororientierte Ioninsel, auf der Hundehalter über die venezianischen Plätze von Zakynthos-Stadt schlendern, zum pinienbeschatteten Aussichtspunkt der Burg Bochali hinaufsteigen und durch die Olivenhainwege der Halbinsel Vasilikos wandern, mit Rücksicht auf die streng geschützte Schildkrötenküste rund um Gerakas`,
+      highlight: `der Solomos-Platz, der Aussichtspunkt am Hügel Bochali und die Wege der Halbinsel Vasilikos`,
+      area: `Zakynthos-Stadt, Bochali und der Halbinsel Vasilikos`,
+    },
+    nerja: {
+      personality: `ein sonnenverwöhnter Costa-del-Sol-Ort, gekrönt vom Aussichtspunkt Balcón de Europa, mit den prähistorischen Höhlen von Nerja, den goldenen Stränden Burriana und Carabeo und der weiß getünchten Kirche El Salvador in seinem Herzen`,
+      highlight: `die Promenade am Balcón de Europa, der Flussweg am Río Chíllar und die zwei neuen eingezäunten Hundeparks`,
+      area: `der Altstadt, Burriana und Carabeo`,
+    },
+    paphos: {
+      personality: `eine der sonnenverwöhntesten und geschichtsträchtigsten Küstenstädte Zyperns, wo der Hafen mit seiner mittelalterlichen Burg, der archäologische Park Kato Paphos, der Küstenweg Richtung Coral Bay und der städtische Strand alle bequem zu Fuß erreichbar sind`,
+      highlight: `der Küstenweg Paphos Coastal Broadwalk, der Municipal Park der Altstadt und der schattige Wanderweg durch die Avakas-Schlucht`,
+      area: `Kato Paphos, der Altstadt (Ktima) und Coral Bay`,
+    },
+    olbia: {
+      personality: `das sonnenverwöhnte Tor zu Sardiniens Costa Smeralda, wo die Granitbasilika San Simplicio, der Fußgängerboulevard Corso Umberto und der ruhige Golf von Olbia sich zu den türkisfarbenen Stränden von Pittulongu öffnen`,
+      highlight: `der Hundestrand Le Saline, der Parco Fausto Noce und der heilige Brunnen Sa Testa`,
+      area: `der historischen Altstadt rund um den Corso Umberto, der Strandpromenade von Pittulongu und der Küste der Costa Smeralda`,
+    },
+    olhao: {
+      personality: `der authentischste aktive Fischereihafen der Algarve, wo eine kubistisch weiß getünchte Altstadt und die 1916 erbauten Backstein-Markthallen am Hafen sich zur Lagune Ria Formosa und ihren vorgelagerten Inseln Armona, Culatra und Farol hin öffnen`,
+      highlight: `der Parque Canino do Levante, die Hafenanlagen bei den Markthallen und die Inselstrände von Armona und Culatra außerhalb der Saison`,
+      area: `der kubistischen Altstadt, der Hafenpromenade bei den Markthallen und den Inseln der Ria Formosa`,
+    },
+    budva: {
+      personality: `eine pulsierende Adria-Ferienstadt rund um die ummauerte Altstadt Stari Grad, den langen Strandabschnitt Slovenska Plaza, den Klippenweg Mogren und den postkartenreifen Blick auf das nahe gelegene Sveti Stefan`,
+      highlight: `der Küstenweg Mogren, die Promenade Slovenska Plaza und die Gassen der Altstadt Stari Grad`,
+      area: `Stari Grad, Slovenska Plaza und Bečići`,
+    },
+    paros: {
+      personality: `eine der entspanntesten Kykladeninseln für Hundebesitzer, auf der man durch den Hafen von Parikia und den Kirchhof der Panagia Ekatontapiliani schlendert, durch das Fischerdorf Naoussa und die Granitbuchten von Kolymbithres, bevor es auf die kühleren Marmorpfade oberhalb von Lefkes geht`,
+      highlight: `der byzantinische Pfad ab Lefkes, der Spaziergang am Hafen von Naoussa und die Granitbuchten von Kolymbithres`,
+      area: `Parikia, dem Fischerdorf Naoussa und der Küste um Golden Beach und Kolymbithres`,
+    },
+    cefalu: {
+      personality: `eine der fotogensten Küstenstädte Siziliens`,
+      highlight: `die normannische Kathedrale, das Felsvorgebirge La Rocca und die Strandpromenade Lungomare`,
+      area: `der mittelalterlichen Altstadt, der Strandpromenade Lungomare und dem langen Sandstrand der Stadt`,
+    },
+    cartagena: {
+      personality: `eine der geschichtsträchtigsten und hundefreundlichsten Hafenstädte Spaniens`,
+      highlight: `der archäologische Freiluftpark Cerro del Molinete, die marmorgepflasterte Calle Mayor und die von Palmen gesäumte Hafenpromenade Paseo Alfonso XII`,
+      area: `dem casco antiguo rund um das Römische Theater, dem Hafenviertel Puerto und dem Parque de la Rosa mit seinem eingezäunten Hundepark`,
+    },
+    kolobrzeg: {
+      personality: `ein flaches, leicht begehbares Ostsee-Kurbad, das 2025 alle seine Strände für angeleinte Hunde öffnete, gebaut rund um einen historischen Leuchtturm, eine 220 Meter lange Betonmole und den schattigen Nadmorski Park Zdrojowy`,
+      highlight: `das Gelände des Leuchtturms Latarnia Morska, die Mole Molo Kołobrzeskie und die Strandpromenade durch den Kurpark`,
+      area: `der Hafenpromenade rund um die Straße Towarowa, der Altstadt nahe der Narutowicza-Straße und dem Kurviertel bei der Mole`,
+    },
+    swinoujscie: {
+      personality: `Polens westlichstes Ostsee-Kurbad, verteilt auf drei Ostseeinseln direkt an der deutschen Grenze, Heimat des ersten offiziellen Hundestrands des Landes und eines seiner breitesten Sandstrände`,
+      highlight: `der höchste Leuchtturm an der polnischen Ostseeküste, das mühlenförmige Seezeichen Stawa Młyny und der eingezäunte Freilaufbereich für Hunde im Park Zdrojowy`,
+      area: `dem Kurviertel rund um die Straße Uzdrowiskowa, der Promenade an der Hafeneinfahrt bei Stawa Młyny und der Strandpromenade in Richtung Ahlbeck auf Usedom`,
+    },
+    kotor: {
+      personality: `eine der malerischsten ummauerten Küstenstädte Montenegros`,
+      highlight: `die ummauerte Altstadt, die Uferpromenade von Dobrota und der Fjord der Bucht von Kotor`,
+      area: `der Altstadt, Dobrota und dem nahen Perast`,
+    },
+    makarska: {
+      personality: `eine der entspanntesten haustierfreundlichen Städte an der dalmatinischen Küste`,
+      highlight: `die Halbinsel Sveti Petar, der Waldpark Osejava und der Hundestrand Cvitačka`,
+      area: `der Strandpromenade Riva, der Altstadt rund um den Kačić-Platz und den Pinienwäldern der Halbinsel St. Peter`,
+    },
+    rhodes: {
+      personality: `eine entspannte, naturverbundene griechische Insel, auf der Hundebesitzer durch die autofreie mittelalterliche Altstadt und die Hafenpromenade von Mandraki streifen, durch ruhige unorganisierte Buchten, bevor sie sich in die schattigen Bachläufe des Rodini-Parks zurückziehen`,
+      highlight: `der Rodini-Park, die Hafenpromenade von Mandraki und der Spaziergang entlang des Burggrabens der Altstadt`,
+      area: `der mittelalterlichen Altstadt, Mandraki und der Küste von Ixia und Ialysos`,
+    },
+    rethymno: {
+      personality: `eine der stimmungsvollsten Altstädte Griechenlands, in der ein venezianischer Hafen, die auf einem Hügel gelegene Fortezza und der lange Stadtstrand von Rethymno alle bequem an der Leine zu erreichen sind`,
+      highlight: `der alte venezianische Hafen, die Landzunge der Fortezza und der schattige Municipal Garden`,
+      area: `der Altstadt, dem venezianischen Hafen und der Strandpromenade`,
+    },
+    alghero: {
+      personality: `eine katalanisch geprägte ummauerte Stadt, in der man auf den Bastioni-Seemauern flaniert, am Lido di San Giovanni entlangschlendert und die offiziellen Hundestrände Maria Pia und La Stalla erreicht`,
+      highlight: `die Promenade auf den Bastioni-Seemauern, die Pineta di Maria Pia und der Hundestrand Maria Pia`,
+      area: `dem Centro Storico, dem Lido di San Giovanni und dem Pinienwald von Maria Pia`,
+    },
+    tenby: {
+      personality: `eine mittelalterliche ummauerte Hafenstadt an der Südküste von Pembrokeshire, in der Hunde den Küstenweg, die Pubs am Hafen und die kostenlosen Bootsausflüge zur Caldey Island mit ihren Besitzern teilen, mit drei Stränden, deren saisonale Hunderegeln sich leicht einplanen lassen`,
+      highlight: `das ganzjährig hundefreundliche Penally-Ende des South Beach, der Pembrokeshire Coast Path in Richtung Penally und die kostenlosen Bootsausflüge zur Caldey Island`,
+      area: `der mittelalterlichen Stadtmauer und dem Hafen, dem Castle Hill oberhalb der Strände und dem Penally-Ende des South Beach mit seinen Dünen`,
+    },
+    tenerife: {
+      personality: `eine subtropische Ganzjahresinsel, auf der Hunde in der Wintersonne die von Palmen gesäumten Strandpromenaden von Costa Adeje und Los Cristianos entlangspazieren, sich am Hundestrand Playa del Cabezo in El Médano vergnügen und sich auf den schattigen Lorbeerwaldpfaden des Naturparks Anaga unterhalb des Vulkans Teide abkühlen`,
+      highlight: `der ausgewiesene Hundestrand Playa del Cabezo in El Médano, die lange Küstenpromenade von Costa Adeje und die kühlen, schattigen markierten Wege des Parque Rural de Anaga`,
+      area: `dem südlichen Ferienstreifen von Costa Adeje, Playa de las Américas und Los Cristianos, mit grüneren Standorten in Puerto de la Cruz und der Hauptstadt Santa Cruz`,
+    },
+    'gran-canaria': {
+      personality: `als Miniaturkontinent bekannt, bietet Gran Canaria Hundebesitzern ganzjährige Wärme und einen Rhythmus, der sich ganz um das Leben im Freien dreht, vom 3 km langen Strandpaseo Playa de Las Canteras in Las Palmas bis zu den goldenen Dünen von Maspalomas und dem gepflasterten Bergdorf Tejeda unterhalb des Felsmonolithen Roque Nublo`,
+      highlight: `Spaziergänge an der Leine über die gesamte Länge des Paseo Las Canteras, der ausgewiesene Hundestrand bei El Burrero nahe dem Flughafen und der eingezäunte parque canino in San Fernando de Maspalomas`,
+      area: `Las Palmas mit Stadtstrand und Altstadt, Maspalomas und Playa del Inglés mit den südlichen Ferienorten sowie Puerto de Mogán und Meloneras für ruhigere Aufenthalte am Meer`,
+    },
+    lanzarote: {
+      personality: `Lanzarote belohnt Hundebesitzer mit ganzjähriger Wärme und einer unwirklichen Vulkanlandschaft, von den schwarzen Lavafeldern und den Weinbergen von La Geria rund um Timanfaya bis zu den prägenden César-Manrique-Wahrzeichen der Insel, alles an der Leine begehbar und weit genug im Süden, um Terrassenessen mit Hund im Winter zur Normalität zu machen`,
+      highlight: `der abgegrenzte Hundestrand Playa de Guacimeta nahe dem Flughafen, der Hundebereich der Playa de las Coloradas bei der Marina Rubicón zum Schwimmen und die von Bodegas gesäumte Weinstraße La Geria für einen Spaziergang mit angeleintem Hund`,
+      area: `dem strandnahen Playa Blanca im Süden, dem lebhaften Puerto del Carmen an der Zentralküste oder der ruhigen Strandlage von Costa Teguise, wobei sich die Hauptstadt Arrecife für einen günstigen Städteaufenthalt anbietet`,
+    },
+    'a-coruna': {
+      personality: `Galiciens Atlantik-Hafenstadt rund um den zum UNESCO-Welterbe zählenden Torre de Hércules (den einzigen noch in Betrieb befindlichen römischen Leuchtturm), mit der weltweit längsten städtischen Strandpromenade von 13 km, einem ausgewiesenen Freilaufbereich im Parque de Santa Margarita und einer rund um die Uhr geöffneten Tierklinik in der Calle Marqués de Amboage`,
+      highlight: `der 13 km lange Paseo Marítimo von den Marina-Galerien über den Klippenpark am Torre de Hércules bis zum Castillo de San Antón, dazu die Strände Riazor und Orzán außerhalb der Saison (Okt–Mai) und der Atlantik-Aussichtspunkt Monte San Pedro`,
+      area: `der Ciudad Vieja rund um die Plaza de María Pita und die Calle Estrella, der Marina mit ihren Glasgalerien und den Wohnvierteln Pescadería und Cuatro Caminos im Landesinneren`,
+    },
+    aarhus: {
+      personality: `Dänemarks zweitgrößte Stadt, nach Kopenhagen mit der haustierfreundlichsten Cafékultur Skandinaviens, mit kostenlosem öffentlichem Nahverkehr für Hunde und 8 offiziellen Freilaufwäldern`,
+      highlight: `der Marselisborg Hundeskov, der ganzjährige Hundestrand Bellevue Strand und das Freilichtmuseum Den Gamle By`,
+      area: `dem Lateinerviertel, Frederiksbjerg und dem Hafenviertel rund um Dokk1`,
+    },
+    'abu-dhabi': {
+      personality: `die Hauptstadt der VAE, die sich seit einer Regelung vom Januar 2026, nach der lizenzierte Hotels und Restaurants Katzen und Hunde willkommen heißen dürfen, rasch für Hunde öffnet, mit Yas Island als echtem haustierfreundlichem Zentrum und rund um die Uhr geöffneten Tierkliniken, wenngleich enger gefasst als in Europa, ohne Hundestrände und mit den meisten Sehenswürdigkeiten außer Reichweite`,
+      highlight: `die 8 km lange Strandpromenade Corniche, die haustierfreundlichen Uferbereiche Yas Bay und Yas Marina, der Reem Central Park und der Bark Park in Al Bateen, der einzige Freilaufbereich für Hunde in der Stadt`,
+      area: `Yas Island und Saadiyat mit der dichtesten Ansammlung haustierfreundlicher Hotels und hundefreundlicher Café-Terrassen, sowie den zentralen Vierteln entlang der Corniche und Khalifa City für Tierärzte und Hundepensionen`,
+    },
+    'aix-en-provence': {
+      personality: `die elegante Universitätsstadt der Provence aus dem 17. Jahrhundert, in der schattige Café-Terrassen, von Brunnen geschmückte Plätze und das aufragende Massiv der Sainte-Victoire sie zu einer der wirklich hundetolerantesten Städte Südfrankreichs machen`,
+      highlight: `das Platanendach des Cours Mirabeau, der Parc Jourdan und die Wanderwege Bibémus und Bimont an der Sainte-Victoire`,
+      area: `der historischen Altstadt, dem Quartier Mazarin und dem Hügel Les Lauves rund um Cézannes Atelier`,
+    },
+    'aix-les-bains': {
+      personality: `eine kompakte Kurstadt in Savoyen am Ufer des Lac du Bourget, Frankreichs größtem natürlichen See, wo der Wald Bois Vidal und ein grüner Uferweg die Thermalbäder und bewachten Strände ersetzen, die Hunden verwehrt bleiben`,
+      highlight: `der 18 Hektar große Wald Bois Vidal, die historischen Gartenanlagen des Parc Thermal und der grüne Uferweg beim Cap des Séselets`,
+      area: `der Seepromenade Esplanade und dem Petit Port, dem Kurviertel rund um die Thermes Nationaux und dem Hang des Bois Vidal oberhalb der Stadt`,
+    },
+    ajaccio: {
+      personality: `Korsikas sonnige Hauptstadt und Geburtsort Napoléons, eine genuesische Zitadelle an einem geschützten Mittelmeergolf, wo milde Winter das ganze Jahr über, Maquis-Pfade entlang der Bergkämme, Bootstouren zu den Sanguinaires-Inseln und der wilde Hundestrand Capo di Feno sie zur haustierfreundlichsten Basis der Insel machen`,
+      highlight: `der Kammweg Sentier des Crêtes, die Pointe de la Parata mit den Sanguinaires-Inseln und der ganzjährige Hundestrand Capo di Feno`,
+      area: `dem Quartier des Étrangers rund um den Cours Grandval, der Vieille Ville rund um die Maison Bonaparte und dem Quai Napoléon an der Marina`,
+    },
+    alcudia: {
+      personality: `eine Stadt im Norden Mallorcas mit 21.000 Einwohnern und intakten mittelalterlichen Stadtmauern aus dem 14. Jahrhundert (1,5 km hundefreundlicher Rundweg), den römischen Ruinen von Pollentia aus dem 1. Jahrhundert v. Chr. (Forum, Wohnviertel, Theater), dem Ramsar-Feuchtgebiet S'Albufera, dem 6 km langen Platja d'Alcúdia und dem einstündigen Iscomar-Schnellkatamaran nach Ciutadella de Menorca`,
+      highlight: `der 1,5 km lange Rundweg entlang der mittelalterlichen Stadtmauern, das frei zugängliche römische Ausgrabungsgelände von Pollentia und die 30 km nördlich gelegene Klippenstraße zum Leuchtturm am Cap de Formentor`,
+      area: `dem casc antic innerhalb der mittelalterlichen Stadtmauern rund um die Plaça de la Constitució, der 2 km südlich gelegenen Marina von Port d'Alcúdia und dem Fischerdorf Mal Pas-Bonaire an der Nordküste`,
+    },
+    albufeira: {
+      personality: `der größte Badeort der Algarve, eine Stadt auf Klippen mit zwei Gesichtern, in der sich die gepflasterte mittelalterliche Cidade Velha hinunter zum Fischerstrand zieht und sich der belebte Ferienstreifen nach Osten erstreckt, mit ganzjährigen Hundestränden direkt vor den Toren der Stadt und rund 300 Sonnentagen im Jahr, die sie außerhalb der Spitzenzeit im Juli und August zu einem der haustierfreundlichsten Küstenziele Südeuropas machen`,
+      highlight: `der Klippenweg Pine Cliffs zwischen Praia da Falésia und Olhos de Água, die Praia da Cova Redonda (ganzjähriger Hundestrand) und der Flamingo-Bohlensteg an der Praia dos Salgados`,
+      area: `der Cidade Velha rund um den Aussichtspunkt Pau da Bandeira, der Marina-Promenade und der Ferienküste Praia da Galé westlich der Stadt`,
+    },
+    alicante: {
+      personality: `die sonnenverwöhnte Hauptstadt der Costa Blanca mit über 320 Sonnentagen im Jahr, wo das Castillo de Santa Bárbara, die von Palmen gesäumte Explanada und der ganzjährige Hundestrand Agua Amarga sie zu einer der wirklich haustierfreundlichsten Mittelmeerbasen Spaniens machen`,
+      highlight: `die Freiluftwege am Castillo de Santa Bárbara, die Playa de Agua Amarga (ganzjähriger Hundestrand) und der Küstenweg an der Serra Grossa`,
+      area: `dem Casco Antiguo (Santa Cruz) unterhalb der Burg, der Strandpromenade Explanada de España und der Promenade an der Playa de San Juan nördlich der Stadt`,
+    },
+    amsterdam: {
+      personality: `eine der entspanntesten und haustierfreundlichsten Hauptstädte Europas`,
+      highlight: `der Vondelpark und die Freilaufufer der Amstel`,
+      area: `dem Jordaan-Viertel und dem Grachtengürtel`,
+    },
+    angers: {
+      personality: `die grüne Hauptstadt des Anjou im Loiretal, mit dem mittelalterlichen Château d'Angers und seinem weltberühmten Apokalypse-Wandteppich, über 700 Hektar städtischer Grünflächen und einer 90-minütigen TGV-Verbindung nach Paris`,
+      highlight: `die Promenade du Bout du Monde unterhalb der Schlossmauern, die Waldwege des Parc de Pignerolle 8 km östlich und die Treidelpfade am Bord de Maine`,
+      area: `dem Fußgängerzentrum rund um die Place du Ralliement, dem mittelalterlichen Viertel La Doutre jenseits der Maine und Saint-Aubin nahe der Kathedrale`,
+    },
+    annecy: {
+      personality: `das 'Venedig der Alpen', eine mittelalterliche, von der UNESCO gewürdigte Vieille Ville an Kanälen, der sauberste große See Europas mit ganzjährigen Bademöglichkeiten für Hunde und der 4.000 Hektar große Wald von Semnoz mit 50 km Freilaufwegen direkt südlich des Zentrums`,
+      highlight: `die Pont des Amours und die Kanäle der Vieille Ville, der 42 km lange flache Radweg rund um den See und der Gipfel des Semnoz-Walds auf 1.699 m`,
+      area: `der Vieille Ville rund um den Palais de l'Île, dem Seeufer bei Pâquier und Albigny und dem Wohnviertel Annecy-le-Vieux`,
+    },
+    antibes: {
+      personality: `ein Hafen an der Côte d'Azur, umgeben von Vauban-Festungsmauern aus dem 16. Jahrhundert, mit einem der lohnendsten Hundespaziergänge der Riviera rund um das Cap d'Antibes und einem provenzalischen Markt unter eisernen Überdachungen im Vieil Antibes`,
+      highlight: `der 5 km lange Küstenweg Sentier du Littoral (Tirepoil) rund um das Cap d'Antibes, der Wehrmauerweg oberhalb des Port Vauban und die Plage de la Salis außerhalb der Saison`,
+      area: `dem ummauerten Vieil Antibes rund um den Cours Masséna und den Port Vauban, dem Wohngebiet auf dem Cap d'Antibes und der Strandpromenade Pinède in Juan-les-Pins`,
+    },
+    antwerp: {
+      personality: `Belgiens Modehauptstadt und eine ihrer hundefreundlichsten Städte, mit weitläufigen Uferparks, hundefreundlichen Terrassen und einer blühenden Boutique-Hotelszene`,
+      highlight: `der Park Rivierenhof, die Uferpromenade an der Schelde und der Nachtegalenpark`,
+      area: `der Altstadt, Zurenborg und dem Zuid`,
+    },
+    arcachon: {
+      personality: `ein Belle-Époque-Badeort am Bassin d'Arcachon, wo Hunde mit der Fähre nach Cap Ferret übersetzen, Europas höchste Sanddüne erklimmen und durch die pinienbeschatteten Villen der Ville d'Hiver streifen`,
+      highlight: `das Panorama der Dune du Pilat, die ruhigen Buchtstrände außerhalb der Saison und die UBA-Fähre hinüber nach Cap Ferret`,
+      area: `der Strandzone Ville d'Été, der grünen Belle-Époque-Ville d'Hiver rund um den Parc Mauresque und den Austernhäfen von L'Aiguillon und dem Port d'Arcachon`,
+    },
+    arles: {
+      personality: `der südliche Endpunkt des römischen Dreiecks der Provence, eine kompakte, von der UNESCO gewürdigte Stadt, in der die Arènes aus dem 1. Jahrhundert noch immer die Osterferia austragen, in der das offizielle Fremdenverkehrsamt eine eigene Seite zum Reisen mit Hund führt, und in der die wilden Strände der Camargue 30 Minuten südlich zum Freilaufen einladen`,
+      highlight: `die Place du Forum mit ihren Van-Gogh-Perspektiven, die von Van Gogh und Gauguin gemalte Allée des Alyscamps und die 40 Minuten südlich gelegene Plage de Beauduc in der Camargue`,
+      area: `der intra-muros rund um die Arènes und die Place du Forum, dem rechten Rhône-Ufer bei Trinquetaille und dem Viertel La Roquette nahe dem Boulevard des Lices`,
+    },
+    athens: {
+      personality: `eine sonnenverwöhnte Mittelmeerhauptstadt, die Reisende mit Haustier mit ihren gut begehbaren Vierteln und einer wachsenden Boutique-Hotelszene überrascht, die Hunde das ganze Jahr über willkommen heißt`,
+      highlight: `der Nationalgarten, der Filopappou-Hügel und die Küstenpromenade in Faliro`,
+      area: `Koukaki, Monastiraki und Pangrati`,
+    },
+    auckland: {
+      personality: `die seltene Großstadt, in der ein Hund jeder Größe den öffentlichen Nahverkehr nutzen darf, kostenlos auf jedem Bus und jeder Bahn außerhalb der werktäglichen Stoßzeiten mit Maulkorb, und kostenlos auf den Hafenfähren zu jeder Tageszeit`,
+      highlight: `das Meola Reef Reserve, der einzige vollständig eingezäunte Freilaufpark im Stadtzentrum, die Feuchtgebietsrunde im Waiatarua Reserve und der Saint Leonards Beach, rund um die Uhr ohne Leine`,
+      area: `der Halbinsel Devonport, dem Wynyard Quarter am Hafen und Grey Lynn entlang der Great North Road`,
+    },
+    austin: {
+      personality: `eine im texanischen Hill Country gelegene Hauptstadt ohne Meerzugang rund um den Lady Bird Lake, mit uneingezäunten Freilaufflächen, die echtes Rückruftraining verlangen, einer durch das staatliche Gesundheitsrecht geprägten Terrassen-only-Restaurantkultur und einem öffentlichen Nahverkehr, der überhaupt keine Hunde befördert`,
+      highlight: `die Great Lawn im Zilker Metropolitan Park, die Freilauf-Badeinsel Red Bud Isle und der Hunde-Einstieg Auditorium Shores am Lady Bird Lake`,
+      area: `South Lamar und South Congress mit ihrer Terrassenszene, der Innenstadt entlang des Seewegs und dem Zilker-Gebiet nahe dem Park selbst`,
+    },
+    aveiro: {
+      personality: `das 'Venedig Portugals', eine kompakte, flache Kanalstadt mit drei eingezäunten städtischen Hundeparks, haustiertoleranter Esplanada-Kultur, moliceiro-Booten, die angeleinte Hunde zulassen, und Atlantik-Hundestränden in kurzer Fahrdistanz`,
+      highlight: `der Central-Kanal mit seinen moliceiro-Booten, die drei Hundeparks (Forca-Vouga, Fonte do Meio und Canal de São Roque) und die gestreiften palheiros von Costa Nova`,
+      area: `den zentralen Kanälen und dem Viertel Beira-Mar, dem Stadtpark Parque Infante D. Pedro und der Strandzone von Costa Nova`,
+    },
+    avignon: {
+      personality: `die Hauptstadt der Provence und einstiger Sitz von sieben Päpsten, eine von der UNESCO gewürdigte ummauerte Altstadt, der imposante Palais des Papes (Europas größter gotischer Palast), die legendäre Pont Saint-Bénézet über der Rhône und eine direkte TGV-Verbindung von Paris in 2 Stunden 40`,
+      highlight: `die Place du Palais des Papes, die Gärten des Rocher des Doms mit dem ikonischen Stadtpanorama und die Île de la Barthelasse mit 4 km Hundespazierwegen am Rhône-Ufer`,
+      area: `der intra-muros rund um den Palais des Papes, dem Bistroviertel um die Rue des Teinturiers und die Place de l'Horloge sowie der Île de la Barthelasse auf der anderen Flussseite`,
+    },
+    'bad-gastein': {
+      personality: `eine Belle-Époque-Kurstadt, die sich oberhalb eines 341 m hohen Wasserfalls in den Hohen Tauern auftürmt, wo die Stubnerkogelbahn Hunde für 5 EUR zu einer Hängebrücke auf 2.246 m bringt, der flache Kötschachtal-Weg an zwei hundefreundlichen Hütten vorbeiführt und auf Haustiere spezialisierte Hotels während der Thermalanwendungen Hundebetreuung anbieten`,
+      highlight: `die Plattformen am Gasteiner Wasserfall, die Hängebrücke am Stubnerkogel und der Talweg durchs Kötschachtal zur Prossau`,
+      area: `der historischen Altstadt rund um den Wasserfall, der Kaiser-Wilhelm-Promenade oberhalb der Stadt und Böckstein Richtung Sportgastein`,
+    },
+    'bad-ischl': {
+      personality: `die kaiserliche Kurstadt, in der Kaiser Franz Joseph 82 Sommer verbrachte, mit dem für angeleinte Hunde zugänglichen Kaiserpark der Kaiservilla, einer Katrinseilbahn, die Hunde mit Maulkorb und Leine kostenlos auf 1.400 m bringt, und einer flachen Uferpromenade Esplanade für einen bequemen täglichen Spaziergang`,
+      highlight: `das Gelände des Kaiserparks rund um die Kaiservilla, die Katrinseilbahn mit ihren Alpenwegen und die Promenade an der Trinkhalle entlang der Traun`,
+      area: `der Altstadt rund um die Trinkhalle und die Esplanade, dem Kaiserpark-Viertel und dem Bahnhofsviertel Richtung Götzstraße`,
+    },
+    barcelona: {
+      personality: `eine Mittelmeerstadt mit hoher Haustierdichte, in der die Hotels langsam nachziehen`,
+      highlight: `der Parc de la Ciutadella, der Strand von Poblenou und die Hügel von Collserola`,
+      area: `El Born, Gràcia und dem Eixample`,
+    },
+    bari: {
+      personality: `Apuliens Hauptstadt an der Adria, mit einer ummauerten mittelalterlichen Altstadt rund um die Basilika San Nicola, Italiens längster Strandpromenade (4 km), drei seit 2020 eröffneten Freilauf-Hundeparks und drei rund um die Uhr geöffneten Tierkliniken`,
+      highlight: `der Freilaufbereich im Parco 2 Giugno, die eingezäunten Hundeflächen im Parco Rossani und der Bau Beach in Polignano, 35 Minuten südlich mit dem Zug`,
+      area: `Bari Vecchia rund um die Kathedrale und San Nicola, dem Einkaufsviertel Murat und der Strandpromenade Lungomare Nazario Sauro`,
+    },
+    basel: {
+      personality: `eine der unterschätztesten hundefreundlichen Städte Europas, Schweiz' Kunsthauptstadt im Dreiländereck, mit zwei ausgewiesenen Badestellen am Rhein, einem Freilaufpark in der Wiese-Aue und einer rund um die Uhr geöffneten Notfall-Tierklinik`,
+      highlight: `die Hundebadestelle Birsköpfli, der Landschaftspark Wiese und die Pfalz-Terrasse am Münster`,
+      area: `der mittelalterlichen Altstadt rund um den Marktplatz, dem kreativen Kleinbasel und dem grünen St.-Alban-Quartier`,
+    },
+    bath: {
+      personality: `Englands georgianische, von der UNESCO gewürdigte Kurstadt, kompakt und gut zu Fuß zu erkunden, mit ausgeprägter hundetoleranter Pubkultur und dem 9,6 km langen Bath-Skyline-Weg direkt oberhalb des honigfarbenen Royal Crescent`,
+      highlight: `die Rasenfläche vor dem Royal Crescent, der National-Trust-Weg Bath Skyline und der Treidelpfad am Kennet-&-Avon-Kanal`,
+      area: `dem Royal-Crescent-Viertel, dem Flussufer nahe der Pulteney Bridge und Bathwick`,
+    },
+    bayonne: {
+      personality: `die Hauptstadt des französischen Baskenlands, wo das rot verschalte Vieux Bayonne, die Flussufer-Kais von Petit Bayonne und eine 2,5 km lange Promenade auf den Vauban-Festungsmauern auf jambon de Bayonne und Cazenave-Schokolade treffen, in einem Zentrum, das so kompakt ist, dass ein Hund es in 12 Minuten von einem Ende zum anderen durchquert`,
+      highlight: `der Parc de Mousserolles, die Rundstrecke auf den Vauban-Festungsmauern und das Feuchtgebiet Plaine d'Ansot`,
+      area: `dem Grand Bayonne rund um die Kathedrale, den Flussufer-Kais von Petit Bayonne und dem Bahnhofsviertel Saint-Esprit nördlich der Adour`,
+    },
+    begur: {
+      personality: `eine mittelalterliche Klippenstadt mit 4.000 Einwohnern an der Costa Brava, die einen 200 m hohen Hügel in der Comarca Baix Empordà der Provinz Girona krönt, geprägt von den Burgruinen aus dem 11. Jahrhundert auf dem Gipfel, den vier mittelalterlichen Wachtürmen, die gegen Berberpiraten-Überfälle im 16. Jahrhundert errichtet wurden, den ikonischen cases indianas des 19. Jahrhunderts, erbaut von wohlhabend aus Kuba zurückgekehrten Männern aus Begur (den indianos), und einer postkartenreifen Aneinanderreihung von sechs Fischerbuchten, die das felsige Kap darunter säumen (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu), verbunden durch den 8 km langen Camí de Ronda GR-92, der weithin als landschaftlich reizvollster Abschnitt der gesamten Costa Brava gilt`,
+      highlight: `die frei zugänglichen Burgruinen des Castell de Begur aus dem 11. Jahrhundert mit einem 360-Grad-Panoramablick über die sechs Buchten, die mittelalterlichen Gassen des casc antic mit den bemalten Fassaden der cases indianas, der Klippenküstenweg Camí de Ronda GR-92 von Sa Riera nach Tamariu und die Kieselbucht Sa Tuna mit dem Strandrestaurant L'Hostal de Sa Tuna`,
+      area: `dem casc antic rund um die Esglesia de Sant Pere und die Plaça de l'Església, den sechs Buchten (Sa Tuna, Aiguablava, Aiguafreda, Sa Riera, Fornells, Tamariu) entlang des felsigen Kaps und dem Korridor vom Leuchtturm Cap de Begur entlang des GR-92 südlich nach Tamariu und Llafranc`,
+    },
+    belfast: {
+      personality: `Nordirlands wiederbelebte Hauptstadt am Belfast Lough, mit einer ausgesprochen hundefreundlichen Pubszene im Cathedral Quarter, der 300 Hektar großen Wildnis des Cave Hill, der sich direkt oberhalb der Stadt erhebt, ganzjährigen Hundestränden in County Down und zwei rund um die Uhr geöffneten Notfall-Tierkliniken`,
+      highlight: `der Cave Hill Country Park bis hinauf zur Felsformation Napoleon's Nose, der 18 km lange Treidelpfad am Lagan von Stranmillis nach Lisburn und der 20 Minuten mit der NIR-Bahn entfernte ganzjährige Hundestrand Helen's Bay`,
+      area: `dem Cathedral Quarter rund um den Commercial Court, den südlichen Vierteln Ormeau und Stranmillis und der Hafenzone des Titanic Quarter`,
+    },
+    belgrade: {
+      personality: `eine der erschwinglichsten Hauptstädte Europas, mit dem ganzjährig geöffneten Hundestrand Ada Ciganlija, kostenlosem öffentlichen Nahverkehr seit 2025 und Serbiens einziger 24-Stunden-Tierklinik`,
+      highlight: `die Festung Kalemegdan, die Halbinsel Ada Ciganlija und der Tašmajdan-Park`,
+      area: `Stari Grad, Skadarlija und Dorćol`,
+    },
+    bellagio: {
+      personality: `die Perle des Comer Sees, ein Luxusdorf mit 3.700 Einwohnern auf der Halbinsel, an der sich der See in den Como- und den Lecco-Arm gabelt, mit den neoklassizistischen Gärten der Villa Melzi, dem Y-förmigen Vorgebirge Punta Spartivento, einem lebendigen Fährknotenpunkt der Navigazione nach Varenna und Menaggio sowie den bewaldeten Wanderungen des Triangolo Lariano, die sich direkt hinter dem centro storico erheben`,
+      highlight: `die neoklassizistischen Gärten der Giardini di Villa Melzi d'Eril, das Y-förmige Vorgebirge Punta Spartivento an der Gabelung des Sees und die 1,5 km lange Uferpromenade Lungolago Manzoni`,
+      area: `der centro storico rund um die Salita Serbelloni und die Basilica di San Giacomo, die Uferpromenade rund um die Piazza Mazzini und die Fischerweiler Pescallo, San Giovanni und Loppia`,
+    },
+    bergamo: {
+      personality: `eine von der UNESCO geschützte, ummauerte Hügelstadt in der Lombardei, mit zwei haustierfreundlichen Standseilbahnen, dem 4.700 Hektar großen Parco dei Colli an ihrer Nordflanke sowie dem Iseosee, dem Comer See und dem Gardasee, die für kühle, hundefreundliche Tagesausflüge alle innerhalb einer Stunde erreichbar sind`,
+      highlight: `der 6 km lange Rundweg auf den UNESCO-Stadtmauern Mura Venete, die bewaldeten Hügelkämme des Parco dei Colli oberhalb der Città Alta und die Standseilbahn San Vigilio zum Panoramaschloss auf 496 m`,
+      area: `die Città Alta rund um die Piazza Vecchia, der Borgo Pignolo rund um die Accademia Carrara und der Hügel San Vigilio`,
+    },
+    bergen: {
+      personality: `Norwegens Tor zu den Fjorden, eingeklemmt zwischen sieben Bergen und dem Meer, mit kostenlosem öffentlichen Nahverkehr für Hunde, leinenfreien Bergen 7 Minuten vom Stadtzentrum entfernt und einem UNESCO-Hansekai am Hafen`,
+      highlight: `der Berg Fløyen mit der Standseilbahn Fløibanen, der Gratweg Vidden zum Berg Ulriken und der bunte Bryggen-Kai`,
+      area: `Bryggen, Sandviken und Marken`,
+    },
+    berlin: {
+      personality: `wohl Europas hundefreundlichste Hauptstadt. Hunde fahren mit den öffentlichen Verkehrsmitteln und dürfen viele Geschäfte frei betreten`,
+      highlight: `der Tiergarten, das Tempelhofer Feld und der Grunewald`,
+      area: `Prenzlauer Berg, Mitte und Kreuzberg`,
+    },
+    bern: {
+      personality: `eine der haustierfreundlichsten Hauptstädte Europas, Schweiz' UNESCO-Altstadt bietet 6 km überdachte Lauben-Arkaden, drei Stadtwälder in Straßenbahnnähe und die führende veterinärmedizinische Universitätsklinik des Landes`,
+      highlight: `der leinenfreie Bremgartenwald, die 5 km lange Uferpromenade an der Aare und der BärenPark unterhalb der Altstadt`,
+      area: `die Altstadt mit ihren UNESCO-Arkaden, die Aare-Uferviertel Marzili und Matte sowie der Aussichtspunkt Rosengarten`,
+    },
+    beziers: {
+      personality: `eine Hérault-Stadt mit 78.000 Einwohnern und einer befestigten gotischen Kathedrale, die 60 m über dem Orb thront, mit dem UNESCO-Canal du Midi, der direkt durch die Stadt führt, der spektakulären Schleusentreppe Neuf Écluses de Fonsérannes mit ihren neun Schleusen, dem 4,6 Hektar großen englischen Garten Plateau des Poètes und einem seltenen, ganzjährig leinenfreien mediterranen Hundestrand in Valras-Plage, 15 Minuten südlich`,
+      highlight: `der leinenfreie Hundestrand plage canine in Valras-Plage, die Neuf Écluses de Fonsérannes und das Aquädukt Pont-Canal de l'Orb sowie die Terrasse der Cathédrale Saint-Nazaire mit Blick auf die mittelalterliche Pont Vieux`,
+      area: `die Fußgängerzone Allées Paul Riquet und das Plateau des Poètes, die Altstadt Saint-Aphrodise unterhalb der Kathedrale sowie das Kanalviertel Fonsérannes westlich des Zentrums`,
+    },
+    biarritz: {
+      personality: `eine baskische Surfstadt mit einer sehr entspannten Haltung gegenüber Hunden und dem Leben im Freien`,
+      highlight: `die Grande Plage und der Küstenweg der Côte Basque`,
+      area: `der Port Vieux und das Viertel Les Halles`,
+    },
+    bilbao: {
+      personality: `eine der hundefreundlichsten Städte Spaniens, in der die Straßenbahn Hunde jeder Größe willkommen heißt, Pintxos-Bars sie offiziell im Innenraum akzeptieren und die berühmte Skulptur „Puppy“ am Guggenheim jedem Hund ein Zuhause verspricht`,
+      highlight: `die leinenfreie Zone im Parque Doña Casilda, das Hundeabteil der Standseilbahn Artxanda und der Spaziergang am Nervión-Ufer zum Guggenheim`,
+      area: `die Viertel Abando und Indautxu, die sieben Straßen der Casco Viejo und die Uferpromenade Abandoibarra`,
+    },
+    bled: {
+      personality: `Sloweniens Postkarten-Alpendorf rund um einen smaragdgrünen Gletschersee, wo die 6 km lange Uferrunde ein berühmter Stadtspaziergang für Hunde ist, das Schloss auf dem Felsen angeleinte Hunde ausdrücklich auf seinen Außenterrassen willkommen heißt und das Tor zum Nationalpark Triglav direkt am Dorfrand beginnt`,
+      highlight: `die 6 km lange Seerunde mit Blick auf die Bleder Insel und die Kirche, die Außenterrassen und Wehrgänge der Burg Bled sowie die Holzstege der Vintgarklamm`,
+      area: `das östliche Dorfufer rund um die Cesta svobode, der Burghügel über dem See sowie das ruhige Ende Bled Jezero/Mlino`,
+    },
+    bologna: {
+      personality: `eine mittelalterliche italienische Stadt der Arkaden und Lebensmittelmärkte, die Hunde in ihren Cafés, Piazzen und den umliegenden Hügeln willkommen heißt`,
+      highlight: `der Park Giardini Margherita, der von Arkaden gesäumte San-Luca-Pfad (3,8 km) und die Hügel oberhalb des Bolognina-Viertels`,
+      area: `das Lebensmittelviertel Quadrilatero, Santo Stefano und das Universitätsviertel rund um die Via Zamboni`,
+    },
+    bolzano: {
+      personality: `das zweisprachige italienisch-tirolerische Tor zu den Dolomiten, wo Weinberg-Promenaden auf Alpentäler treffen und eine 12-minütige Seilbahnfahrt Hunde aus dem warmen Etschtal auf das kühle Ritten-Plateau bringt`,
+      highlight: `die Talferwiesen entlang der Talfer, die historische 5 km lange Panoramapromenade Guntschna oberhalb von Gries und die Wanderwege des Ritten-Plateaus, erreichbar mit der Seilbahn`,
+      area: `die von Arkaden gesäumte Altstadt rund um Waltherplatz und Obstmarkt, das grüne Gries-Viertel an den Westhängen sowie das Ritten-Hochland, erreichbar mit der Seilbahn`,
+    },
+    bonn: {
+      personality: `Beethovens Geburtsstadt und ehemalige Bundeshauptstadt, eine grüne, gut zu Fuß erkundbare Rheinstadt, in der Hunde auf den Terrassen am Markt willkommen sind, mit der 160 Hektar großen Rheinaue und den Wanderwegen des Siebengebirges gleich auf der anderen Rheinseite`,
+      highlight: `die leinenfreie Wiese in der Rheinaue, der 40 km² große Kottenforst und die Rheinuferpromenade mit Fährverbindungen nach Beuel`,
+      area: `die Altstadt rund um Münsterplatz und Markt, Bad Godesberg und das östliche Rheinufer in Beuel`,
+    },
+    bordeaux: {
+      personality: `eine Stadt, in der Hunde über die Weinbar-Terrassen der Chartrons schlendern, das Garonne-Ufer erkunden und in den meisten Boutique-Hotels willkommen sind`,
+      highlight: `der Parc Bordelais, die Kaianlagen an der Garonne und der Jardin Public`,
+      area: `die Chartrons, Saint-Pierre und das Triangle d'Or`,
+    },
+    'boulogne-sur-mer': {
+      personality: `ein Pas-de-Calais-Kanalhafen mit 41.000 Einwohnern (130.000 im Ballungsraum), Frankreichs nach Tonnage größter Fischereihafen, Heimat von Nausicaá, dem größten Aquarium Europas, umgeben von den besterhaltenen Stadtmauern aus dem 13. Jahrhundert in ganz Frankreich mit einem 1,5 km langen erhöhten Wehrgang, gekrönt von der 101 m hohen italienisierenden Kuppel der Cathédrale Notre-Dame, mit den Kreidefelsen und dem Leuchtturm von Cap d'Alprech 3 km südlich, dem Küstenweg GR120 nördlich nach Wimereux und Cap Gris-Nez sowie direktem TGV inOui nach Paris Gare du Nord in 2 Std. 25 Min.`,
+      highlight: `der 1,5 km lange Spaziergang auf dem Wehrgang der Stadtmauern der Haute-Ville aus dem 13. Jahrhundert, die Kuppel und Krypta der Cathédrale Notre-Dame de Boulogne, die Strandpromenade von Nausicaá und der Spaziergang am port de pêche, Frankreichs größtem Fischereihafen, sowie der Leuchtturm und die Kreidefelsen von Cap d'Alprech mit dem Küstenweg GR120 nach Wimereux`,
+      area: `die ummauerte Haute-Ville rund um die Place Godefroy de Bouillon und die Cathédrale Notre-Dame, die Unterstadt zwischen Place Dalton und dem TGV-Bahnhof Boulogne-Ville, die Strandpromenade Boulevard Sainte-Beuve gegenüber Nausicaá sowie der östliche Vorort Saint-Martin-Boulogne`,
+    },
+    bournemouth: {
+      personality: `das Seebad an der Südküste mit sieben Meilen goldenem Sandstrand, ganzjährigen Hundestränden an der Fisherman's Walk und am Hengistbury-Ende sowie dem New Forest National Park 30 Minuten nördlich für leinenfreies Wandern`,
+      highlight: `das Naturschutzgebiet Hengistbury Head, der 2 km lange lineare Bournemouth Gardens Park und die Schluchten Branksome, Durley und Alum Chine, die zum Strand hinabführen`,
+      area: `das Stadtzentrum und der Pier, Westbourne und Boscombe entlang der Klippen sowie das östliche Ende Hengistbury Head/Southbourne`,
+    },
+    braga: {
+      personality: `Portugals jüngste und studentenfreundlichste historische Stadt, in der barocke Kirchen, Granitplätze und tierfreundliche Terrassen auf die atlantisch-kühle Landschaft des Minho treffen`,
+      highlight: `die bewaldete Treppenanlage von Bom Jesus do Monte, der Parque da Ponte am Fluss und die Klostergärten des Mosteiro de Tibães`,
+      area: `das historische Viertel Sé, das Café-Viertel Sá de Miranda und das grüne Universitätsgelände`,
+    },
+    brasov: {
+      personality: `eine mittelalterliche Sachsenzitadelle am Fuße der Karpaten, wo die gotische Silhouette der Schwarzen Kirche, der pastellfarbene Piața Sfatului und die bewaldeten Pfade des Tâmpa eine ungewöhnlich begehbare Altstadt umrahmen, mit direktem Zugang zu Tagesausflügen nach Bran, Râșnov und Peleș`,
+      highlight: `die Waldwege und die Seilbahn des Berges Tâmpa, der Parcul Tractorul und der Parcul Tiberiu Brediceanu sowie die gepflasterte Strada Sforii`,
+      area: `die Altstadt rund um den Piața Sfatului, das Viertel Schei unterhalb des Tâmpa und der Bezirk Centrul Civic`,
+    },
+    bratislava: {
+      personality: `eine kompakte, erschwingliche mitteleuropäische Hauptstadt, in der Hunde die gepflasterten Altstadtplätze, die Karpatenwälder und die Donauufer erkunden, alles zu Fuß vom Zentrum aus erreichbar`,
+      highlight: `der Wald Železná Studnička, der Sad Janka Kráľa und das Donauufer bei Devín`,
+      area: `die Altstadt, Petržalka und Devín`,
+    },
+    bregenz: {
+      personality: `Österreichs Festspielstadt am Bodensee, eingeklemmt zwischen See und Berg`,
+      highlight: `die Seeanlagen am Ufer, der Pipeline-Uferweg Richtung Lochau und die Wanderwege des Pfänders`,
+      area: `die Uferpromenade, die Oberstadt und Mehrerau`,
+    },
+    bremen: {
+      personality: `eine hanseatische norddeutsche Stadt, in der das UNESCO-Denkmal der Stadtmusikanten auf dem Marktplatz einen Hund ins Zentrum der städtischen Identität rückt, der 200 Hektar große Bürgerpark direkt am Zentrum liegt und Stuben-Restaurants Hunde ganzjährig im Innenraum willkommen heißen`,
+      highlight: `der Bürgerpark und der angrenzende Stadtwald, die Rundstrecke auf den Wallanlagen und der Badestrand am Werdersee`,
+      area: `die Altstadt rund um den Marktplatz, das Viertel und der Schnoor`,
+    },
+    brest: {
+      personality: `der bretonische Atlantik-Marinehafen und größte Stadt der Region, wo der tiefe Naturhafen, das 50 Hektar große Tal Vallon du Stang-Alar, die Strandterrasse Cours Dajot und die Penn-ar-Bed-Fähren zu den Iroise-Inseln sie zu einer der lohnendsten haustierfreundlichen Basen im Nordwesten Frankreichs machen`,
+      highlight: `das Tal Vallon du Stang-Alar mit seinem botanischen Konservatorium, die Terrasse Cours Dajot über der Rade de Brest sowie der Küstenweg GR34 westlich zum Leuchtturm Pointe Saint-Mathieu`,
+      area: `das wiederaufgebaute Nachkriegszentrum rund um die Rue de Siam und die Place de la Liberté, das Viertel Saint-Marc und Stang-Alar mit dem bewaldeten Tal sowie das Viertel Recouvrance jenseits der Pont de Recouvrance`,
+    },
+    burgos: {
+      personality: `eine kastilische Hochebenenstadt auf 860 m, gekrönt von einer gotischen UNESCO-Kathedrale, eine wichtige Station des Jakobswegs mit elf offiziellen Hundegehegen, entspannten Spaziergängen am Arlanzón-Fluss und einer rund um die Uhr geöffneten Referenz-Tierklinik`,
+      highlight: `der Paseo del Espolón und das Arlanzón-Ufer, der Parque del Castillo oberhalb der Kathedrale sowie die 6 km lange Walderweiterung Parque de Fuentes Blancas`,
+      area: `das historische Zentrum rund um die Kathedrale, der Burghügel Castillo und die Uferpromenade Espolón`,
+    },
+    brighton: {
+      personality: `Großbritanniens verlässlich hundefreundlichste Küstenstadt, in der Haustiere kostenlos mit dem Bus fahren und der Hove Lawns Beach ganzjährig geöffnet bleibt`,
+      highlight: `Hove Lawns, der Preston Park und der Stanmer Park an den South Downs`,
+      area: `The Lanes, Kemptown und die Uferpromenade von Hove`,
+    },
+    brisbane: {
+      personality: `die hundefreundlichste Flussstadt Australiens, in der die CityCat-Fähren außerhalb der Stoßzeiten angeleinte und maulkorbtragende Hunde befördern, während Busse und Bahnen ihnen komplett verschlossen bleiben, unterstützt von mehr als 160 kommunalen leinenfreien Zonen`,
+      highlight: `die leinenfreie Anlage Powerhouse Park in New Farm, der Klippenweg von Kangaroo Point und die Uferpromenade von Sandgate bis Shorncliffe`,
+      area: `New Farm und Teneriffe, Kangaroo Point und West End`,
+    },
+    bristol: {
+      personality: `eine der grünsten Städte Englands, 70 % der Pubs heißen Hunde willkommen, mit kostenlosem öffentlichen Nahverkehr für Haustiere sowie der ikonischen Clifton Suspension Bridge und dem 162 Hektar großen Ashton Court Estate direkt vor den Toren`,
+      highlight: `das Ashton Court Estate, die Downs oberhalb der Avon-Schlucht und die schwimmende Bristol Ferry zum Wapping Wharf`,
+      area: `Clifton, die Harbourside und Stokes Croft`,
+    },
+    brno: {
+      personality: `Mährens kompakte und bemerkenswert erschwingliche Hauptstadt mit 14 eingezäunten kommunalen leinenfreien Zonen, einer hundefreundlichen Pivnice-Kultur in der ganzen Innenstadt und einem ganzjährigen Hundebadesee 25 Minuten mit der Straßenbahn entfernt`,
+      highlight: `der Park auf dem Hügel Špilberk, der Stausee Brno Dam bei Bystrc und Tagesausflüge in die südmährische Weinregion nach Pavlov und Mikulov`,
+      area: `das mittelalterliche Zentrum rund um das náměstí Svobody, Lužánky und das Seeviertel Bystrc`,
+    },
+    bruges: {
+      personality: `eine UNESCO-geschützte flämische mittelalterliche Stadt, die sich in 25 Minuten von einem Ende zum anderen erlaufen lässt, wo die 7 km lange Wallrunde angeleinte Hunde standardmäßig willkommen heißt, die belgische Braunbierkneipen-Kultur Hunde für selbstverständlich hält und NMBS-Züge Hunde kostenlos zum Hundestrand von Zeebrugge, 15 Minuten nördlich, mitnehmen`,
+      highlight: `der Park Minnewater, der „See der Liebe“, die 7 km lange Wallrunde Vesten mit vier Windmühlen sowie der Kanalweg Damse Vaart zum Dorf Damme`,
+      area: `die Altstadt rund um Markt und Burg, das ruhige Sint-Anna-Viertel sowie das südliche Ende Begijnhof und Minnewater`,
+    },
+    brussels: {
+      personality: `ein unterschätztes Reiseziel für Haustierbesitzer mit großzügigen Parks, einem kompakten, gut zu Fuß erkundbaren Zentrum und einer Gastfreundschaftskultur, die Tiere wirklich willkommen heißt`,
+      highlight: `der Bois de la Cambre, der Parc du Cinquantenaire und die Forêt de Soignes`,
+      area: `Ixelles, Saint-Gilles und das Europaviertel`,
+    },
+    bucharest: {
+      personality: `eine der erschwinglichsten Hauptstädte der EU, mit einem 187 Hektar großen Zentralpark, zwei eingezäunten kommunalen Hundegehegen darin sowie Rumäniens größter 24-Stunden-Tierklinik`,
+      highlight: `der Herăstrău-Park, der Cișmigiu-Garten und der Snagov-See`,
+      area: `die Altstadt Lipscani, Floreasca und die Calea Victoriei`,
+    },
+    budapest: {
+      personality: `eine Stadt großartiger Architektur und einer wachsenden hundefreundlichen Szene. Hunde fahren mit der Metro, haben Zutritt zu den meisten Parks und sind in Budapests berühmten Ruinenbars willkommen`,
+      highlight: `die Margareteninsel, der Stadtpark (Városliget) und die Donau-Uferpromenaden`,
+      area: `der 7. Bezirk (das jüdische Viertel), das Budaer Burgviertel und Óbuda`,
+    },
+    cadiz: {
+      personality: `eine der ältesten Städte Westeuropas, ein kompakter, ummauerter andalusischer Hafen, umgeben von atlantischen Festungswällen, in dem angeleinte Hunde durch die Altstadtplätze streifen und, außerhalb der Saison, mit an den Strand dürfen`,
+      highlight: `die botanischen Gärten Parque Genovés, der nur im Winter erlaubte Hundezugang zur Playa de la Victoria und Santa María del Mar sowie der eigene Hundestrand Torregorda am Ende der Cortadura`,
+      area: `die ummauerte Altstadt rund um Plaza de San Antonio und Plaza de Mina, die Uferpromenade La Caleta und die Festungswälle Campo del Sur`,
+    },
+    caen: {
+      personality: `die mittelalterliche normannische Hauptstadt, gegründet von Wilhelm dem Eroberer, mit zwei romanischen Abteien, einer 1.000 Jahre alten Burg auf weitläufigem Gelände, das angeleinte Hunde erlaubt, Fluss- und Kanalspaziergängen entlang der Orne sowie 30 Minuten Fahrt zu den D-Day-Landungsstränden und der Stadt des Teppichs von Bayeux`,
+      highlight: `die Wehrgänge und Höfe des Château de Caen, die Colline aux Oiseaux und der Jardin des Plantes sowie der Kanaltreidelpfad, der Caen mit Ouistreham am Ärmelkanal verbindet`,
+      area: `das Viertel Vaugueux östlich der Burg, die Flussinsel Presqu'île an der Orne sowie das Universitäts- und Abteiviertel Beaulieu`,
+    },
+    cagliari: {
+      personality: `die sardische Hauptstadt mit 8 km Stadtstrand am Poetto, einem saisonalen kommunalen Hundeabschnitt, einer ganzjährigen Hundebucht in Calamosca, der 1.600 Hektar großen Flamingolagune Molentargius und einer echten 24-Stunden-Notfalltierklinik`,
+      highlight: `das Panorama vom Bastione di Saint Remy, der Küstenpfad Sella del Diavolo oberhalb von Calamosca sowie die flache 7 km lange Flamingorunde im Parco di Molentargius`,
+      area: `das Viertel Marina rund um die Via Sardegna, das Hügelviertel Castello und die Uferpromenade Poetto`,
+    },
+    calais: {
+      personality: `ein Pas-de-Calais-Fährhafen mit 67.000 Einwohnern direkt gegenüber den weißen Klippen von Dover, mit der meistbefahrenen Fährverbindung über den Ärmelkanal in Europa (P&O, DFDS, Irish Ferries), dem für Haustiere perfekten Eurotunnel Le Shuttle ab Coquelles, wo Hunde während der gesamten 35-minütigen Überfahrt im Auto bleiben, dem UNESCO-Glockenturm des Hôtel de Ville und Rodins Bronzeskulptur der Bürger von Calais, einem 12 km langen Sandkorridor Plage de Calais und Sangatte sowie dem Grand Site Cap Blanc-Nez / Cap Gris-Nez mit seinen Kreidefelsen 35 km westlich`,
+      highlight: `der UNESCO-Glockenturm des Hôtel de Ville, kostenlos zu besteigen, Rodins Bürger von Calais auf der Place du Soldat Inconnu sowie die Kreidefelsen-Wanderwege des Grand Site Cap Blanc-Nez / Cap Gris-Nez gegenüber den weißen Klippen von Dover, 35 km über das Wasser des Kanals`,
+      area: `das historische Zentrum zwischen Place d'Armes und dem Hôtel de Ville entlang des Boulevard Jacquard, die Strandpromenade Calais-Nord entlang der Digue Gaston Berthe sowie das Eurotunnel-Le-Shuttle-Terminal Coquelles 5 km westlich`,
+    },
+    calpe: {
+      personality: `eine Costa-Blanca-Stadt mit 24.000 Einwohnern in der Provinz Alicante, geprägt vom 332 m hohen Kalksteinmonolithen Peñón de Ifach (Spaniens kleinstem Naturpark, seit 1987 geschützt), mit dem mittelalterlichen casco antiguo und der Mudéjar-gotischen Iglesia Antigua, dem Flamingo-Feuchtgebiet Las Salinas mitten in der Stadt, den römischen Ausgrabungsbecken Banys de la Reina sowie der blau beflaggten Playa La Fossa-Levante (950 m Sandstrand direkt nördlich des Peñón)`,
+      highlight: `der Basisweg im Naturpark Peñón de Ifach (Hunde angeleint auf dem Zugangsweg, nicht im oberen Tunnel/Gipfelbereich erlaubt), die hundefreundliche Uferpromenaden-Runde von Las Salinas mit ansässigen Flamingos sowie die römischen Fischzuchtbecken Banys de la Reina am südlichen Ende der Playa Arenal-Bol`,
+      area: `der mittelalterliche casco antiguo, der zum Aussichtspunkt Forat de Calp aufsteigt, der Paseo Marítimo Princesa de Asturias entlang der Playa La Fossa sowie der Fischereihafen Puerto Pesquero am Fuß des Peñón`,
+    },
+    cambridge: {
+      personality: `eine von Englands verlässlich hundefreundlichsten Kleinstädten, mit weitläufigen leinenfreien Stadtwiesen (Jesus Green, Midsummer, Coe Fen), historischen Pubs, die angeleinte Hunde im Schankraum willkommen heißen, sowie direkten 50-minütigen Greater-Anglia-Zügen von London King's Cross`,
+      highlight: `der Uferweg The Backs, die Grantchester Meadows mit dem Teegarten The Orchard sowie die Wanderwege der eisenzeitlichen Hügelfestung im Wandlebury Country Park`,
+      area: `das historische Zentrum rund um den King's Parade, das Viertel Mill Road und das Uferviertel Newnham`,
+    },
+    cannes: {
+      personality: `eine glamouröse Stadt an der französischen Riviera mit einer überraschend entspannten Hundekultur, deren Terrassen in Le Suquet, der Marché Forville und die westlichen Strände Hunde ganzjährig willkommen heißen`,
+      highlight: `die bewaldete Insel Île Sainte-Marguerite, die Plage de la Bocca und die gepflasterten Gassen von Le Suquet`,
+      area: `Le Suquet (die Altstadt), das Marché-Forville-Viertel und La Bocca`,
+    },
+    capri: {
+      personality: `die sagenumwobene Kalksteininsel im Golf von Neapel, wo das ruhige Anacapri im oberen Teil die haustierfreundliche Basis bildet, Fähren von Neapel und Sorrent ganzjährig angeleinte Hunde mitnehmen und die Klippenwege Via Krupp und Punta Tragara sich zu den Felsen der Faraglioni hin öffnen`,
+      highlight: `der Aussichtspunkt Punta Tragara über den Faraglioni, die bougainvilleagesäumten Giardini di Augusto und die Via Krupp sowie die Gärten der Villa San Michele 305 m über Marina Grande in Anacapri`,
+      area: `Anacapri (das ruhigere obere Dorf rund um die Piazza Caprile und die Via Migliara), der Gürtel von Capri-Stadt vom Quisisana bis Punta Tragara sowie der Fährhafen Marina Grande`,
+    },
+    cardiff: {
+      personality: `die walisische Hauptstadt mit einem der größten städtischen Parknetze Großbritanniens, 130 Hektar leinenfreien Uferwiesen im Bute Park und in den Pontcanna Fields zehn Minuten von der Burg entfernt, einem 2 km langen Spaziergang auf dem Cardiff-Bay-Sperrwerk direkt zum Penarth Pier sowie einer rund um die Uhr geöffneten Referenz-Notfallklinik fünfzehn Minuten nördlich`,
+      highlight: `der Bute Park entlang des Flusses Taff, der Spaziergang über das Cardiff-Bay-Sperrwerk zum Penarth Pier sowie das hundefreundliche Erdgeschoss von Caerphilly Castle`,
+      area: `das kompakte Stadtzentrum rund um Cardiff Castle, das Viertel Pontcanna sowie die Uferpromenade Cardiff Bay am Mermaid Quay`,
+    },
+    carcassonne: {
+      personality: `die größte mittelalterliche Festungsstadt Europas, eine UNESCO-Zitadelle auf einem Hügel im Aude, wo angeleinte Hunde 3 km doppelte Festungsmauern, 52 Türme und die Außenhöfe des Château Comtal durchstreifen, während der Treidelpfad des Canal du Midi flach und schattig durch die Unterstadt führt`,
+      highlight: `die Außenhöfe und der untere Wehrgang des Château Comtal in La Cité, die Flussüberquerung Pont Vieux zur Bastide Saint-Louis bei Sonnenuntergang sowie das bewaldete Ostufer des Lac de la Cavayère zum Baden außerhalb der Saison`,
+      area: `La Cité auf dem Hügel östlich der Aude, das Rasterstadt-Viertel Bastide Saint-Louis jenseits der Pont Vieux sowie das Kanalviertel Bassin du Pont Rouge nahe dem Bahnhof`,
+    },
+    cascais: {
+      personality: `Lissabons elegante Küstenflucht, wo fast jede Yachthafenterrasse ungefragt Wassernäpfe serviert und die Uferpromenade Paredão sich bei Sonnenuntergang mit Hunden füllt`,
+      highlight: `der schattige Parque Marechal Carmona, der Klippenweg Boca do Inferno sowie die wilden Atlantik-Dünenpfade von Guincho und Cresmina`,
+      area: `das historische Zentrum rund um den Largo Luís de Camões, das Yachthafenviertel sowie das Viertel Birre nahe dem Naturpark`,
+    },
+    catania: {
+      personality: `Siziliens aus Lava erbaute Barockhauptstadt am Fuß des Ätna, mit drei rund um die Uhr geöffneten Tierkliniken, einem ganzjährigen kommunalen Hundestrand am Plaja sowie einer UNESCO-geschützten Altstadt, in der haustierfreundliche Terrassen von der Piazza Duomo bis zur Via Crociferi die Regel sind`,
+      highlight: `die Gärten der Villa Bellini an der Via Etnea, die leinenfreie area cani im Parco Vulcania, der lavagepflasterte Fischmarkt Pescheria sowie der Hundestrand am Lido Azzurro`,
+      area: `die UNESCO-geschützte centro storico rund um die Piazza Duomo, das Universitätsviertel Borgo sowie die Strandpromenade Plaja am Viale Kennedy`,
+    },
+    'cesky-krumlov': {
+      personality: `eine UNESCO-Altstadt mit 13.000 Einwohnern unterhalb einer weitläufigen Renaissanceburg an einer engen Moldau-Flussschleife in Böhmen, wo angeleinte Hunde in den bemalten Burghöfen, auf der Mantelbrücke und im barocken Schlossgarten willkommen sind, die Floßfahrten und die Innenräume der Museen aber tabu bleiben`,
+      highlight: `die fünf Außenhöfe der Burg Český Krumlov und die dreistöckige Mantelbrücke, der barocke Schlossgarten Zámecká zahrada über der Moldau-Schleife sowie der Hundespazierstreifen im Stadtpark Jelení zahrada am Fluss`,
+      area: `das gepflasterte Vnitřní Město rund um den Náměstí Svornosti, die Uferstraße Parkán unterhalb der Burg sowie das Viertel Latrán am Fuß des Burghügels`,
+    },
+    boston: {
+      personality: `die älteste zu Fuß erkundbare Stadt der USA und Neuenglands Hauptstadt an See und Hafen, mit dem markanten Off-Leash-Hours-Programm in über 20 öffentlichen Parks (allen voran dem Boston Common, dem ältesten öffentlichen Park des Landes von 1634), der 27 km langen Charles River Esplanade, dem 4 km langen, komplett angeleint begehbaren Freedom Trail, größeren Hunden, die außerhalb der Stoßzeiten nach Ermessen des Fahrers in der MBTA-T-Bahn mitfahren dürfen (selten in den USA), und harten Nor'easter-Wintern, die das Ausführen mit dem Hund von Dezember bis März zu einer Runde beheizter Terrassen macht (Trillium Fort Point, Lower Depths)`,
+      highlight: `die Off-Leash-Hours von der Morgendämmerung bis 9 Uhr auf dem Boston Common, der Peters Park (der einzige eingezäunte leinenfreie Hundepark innerhalb der Stadtgrenzen), die 27 km lange Charles River Esplanade, der gesamte Freedom Trail und das Arnold Arboretum sowie außerhalb der Saison die Uferrunde Castle Island/Pleasure Bay`,
+      area: `Back Bay und Beacon Hill für Esplanade und Common direkt vor der Haustür, das South End für den Peters Park und die Terrassen am Beehive, Seaport/Fort Point für den Harborwalk und den Biergarten von Trillium, Cambridge für die Terrassen am Harvard Square und das nördliche Charles-Ufer`,
+    },
+    chamonix: {
+      personality: `die Bergsteigerhauptstadt der Alpen am Fuß des Mont Blanc, wo angeleinte Hunde in den Talbussen, dem Mont-Blanc Express und fast jeder Seilbahn mitfahren dürfen, einschließlich der Zahnradbahn Montenvers zum Mer de Glace, und das Fremdenverkehrsamt eine offizielle Liste hundefreundlicher Wanderungen veröffentlicht; nur die Seilbahn zur Aiguille du Midi und das Naturschutzgebiet Aiguilles Rouges (mit dem Lac Blanc) bleiben tabu`,
+      highlight: `die Bäche im Paradis des Praz, der talentlang verlaufende Waldpfad Petit Balcon Sud, die Wanderung zum Wasserfall Cascade du Dard sowie ein Bad im Lac des Gaillands unterhalb des Mont Blanc`,
+      area: `das Fußgängerzentrum rund um die Rue du Docteur Paccard, Les Praz für die Flégère-Seite und die Golfwiesen sowie Argentière für ruhigere Aufenthalte an den Wanderwegausgangspunkten`,
+    },
+    chicago: {
+      personality: `die Hauptstadt am Ufer des Michigansees im Mittleren Westen mit einem der größten US-Netzwerke an Dog Friendly Areas (über 25 eingezäunte leinenfreie DFAs sowie dem eigenen Montrose Dog Beach, dem einzigen leinenfreien Strand der Stadt), einem flachen 29 km langen Lakefront Trail am Michigansee, dem 485 Hektar großen Lincoln Park sowie schroffen Wintern, die das Ausführen mit dem Hund von Dezember bis März zu einer Runde beheizter Terrassen machen (Kaiser Tiger, Big Star)`,
+      highlight: `der Montrose Dog Beach in Uptown, die DFA Wiggly Field im Lincoln Park, der Lakefront Trail und der kostenlose Rundweg um den Lincoln Park Zoo, der Chicago Riverwalk sowie die angeleinte Runde um „The Bean“ (Cloud Gate) im Millennium Park`,
+      area: `Lincoln Park und Lakeview für Hotels nahe den Hundeparks und den Terrassen am Wrigley Field, Wicker Park und Logan Square für Restaurantterrassen sowie West Loop und River North für den Chicago Riverwalk und die Restaurantszene am Fulton Market`,
+    },
+    ciutadella: {
+      personality: `Menorcas ehemalige Hauptstadt an der wilden Westküste der Insel, eine im italienischen Stil honigfarbene Altstadt rund um die Plaça d'es Born und die gotische Kathedrale aus dem 14. Jahrhundert, wo der 185 km lange Camí de Cavalls GR-223 am Leuchtturm Castell de Sant Nicolau beginnt, das UNESCO-Talayot-Megalithgrab Naveta des Tudons 4 km östlich liegt und die meistfotografierten Buchten Menorcas (Cala Macarella, Cala Macarelleta, Cala en Turqueta) von November bis März wieder für angeleinte Hunde geöffnet sind`,
+      highlight: `die Plaça d'es Born und die Catedral de Menorca, das UNESCO-Megalithgrab Naveta des Tudons, die Buchten im Südwesten bei Cala Macarella, Cala en Turqueta und Cala Galdana sowie der Camí de Cavalls GR-223 ab dem Leuchtturm Castell de Sant Nicolau`,
+      area: `der Altstadt rund um die Plaça d'es Born und die Kathedrale, den Kais des Port de Ciutadella am Pla de Sant Joan und den Buchten im Südwesten zwischen Cala Galdana und Cap d'Artrutx`,
+    },
+    colmar: {
+      personality: `die Hauptstadt der elsässischen Weinstraße, eine Märchenstadt aus blumengeschmückten Fachwerkgassen und den Kanälen von Petite Venise, die sich vollständig unter freiem Himmel erkunden lässt, wo Hunde an Bord der Flachboote Sweet Narcisse und des Petit Train Blanc gehen dürfen und Eguisheim, Riquewihr und Kaysersberg eine kurze Fahrt durch die Weinberge entfernt liegen`,
+      highlight: `die grüne Lunge des Parc du Champ-de-Mars, der 780 m² große eingezäunte Parc canin beim Schwimmbad Aqualia sowie die Uferwege am Lac Blanc in den Vogesen`,
+      area: `den Kanälen von Petite Venise, der Altstadt rund um die Grand'Rue und dem Viertel Champ-de-Mars nahe dem Bahnhof`,
+    },
+    cologne: {
+      personality: `eine bodenständige rheinische Stadt, in der Hunde mit einem Kinderticket Bahn fahren, an Wassertrögen vor Kneipen trinken und ihre Besitzer entlang des Rheinufers begleiten`,
+      highlight: `der Uferweg am Rhein, der Waldpark Stadtwald sowie die Freilauffläche im Beethovenpark`,
+      area: `der Altstadt rund um den Dom, Ehrenfeld und dem Severinsviertel`,
+    },
+    como: {
+      personality: `eine noble italienische Seestadt an der Südspitze des Comer Sees, mit haustierfreundlichen Fähren nach Bellagio und Varenna, einer hundefreundlichen Standseilbahn hinauf zu den Panoramen von Brunate und prächtigen Villengärten (Olmo, Balbianello), die für angeleinte Hunde geöffnet sind`,
+      highlight: `die Seepromenade Passeggiata Lino Gelpi, der Panoramaweg zum Faro Voltiano oberhalb von Brunate sowie die Gärten der Villa Olmo`,
+      area: `der Seepromenade rund um die Piazza Cavour, dem mittelalterlichen Centro storico und dem östlichen Ufer bei Villa Geno`,
+    },
+    coimbra: {
+      personality: `eine UNESCO-Universitätsstadt, die sich von ihrem Hügel hinab zum Mondego zieht, wo angeleinte Hunde durch mittelalterliche Gassen streifen und der Auwald Choupal das tägliche Ziel für Spaziergänge ist`,
+      highlight: `der Uferwald Mata Nacional do Choupal, der Parque Verde do Mondego mit seiner Fußgängerbrücke Pedro & Inês sowie die Innenhöfe unter freiem Himmel von Europas ältester Universität`,
+      area: `der Baixa (Unterstadt) entlang des Mondego, der Alta (Oberstadt) rund um die Universität und dem Südufer nahe der Brücke Pedro & Inês`,
+    },
+    conwy: {
+      personality: `eine mittelalterliche ummauerte Burgstadt an der Küste Nordwales' und ein Tor zu Eryri (Snowdonia), wo Hunde den Kai, die Flussmündung und die hundefreundlichen Pubs teilen dürfen, dazu großartige Hügel- und Bergwanderungen, wobei das Burginnere und die Mauerwege nur Assistenzhunden vorbehalten sind`,
+      highlight: `die Rundwanderung über den Conwy Mountain oberhalb der Stadt, der hundefreundliche Wanderweg zu den Aber Falls in Eryri sowie der Bodnant Garden an seinen Hundetagen`,
+      area: `der ummauerten Stadt und dem Conwy Quay, der Marina und Conwy Morfa sowie dem Weg entlang der Flussmündung in Richtung der Berge`,
+    },
+    copenhagen: {
+      personality: `eine Stadt, die in Europa beim Tierwohl führend ist: Hunde fahren kostenlos mit öffentlichen Verkehrsmitteln, dürfen die meisten Geschäfte betreten und werden auf fast jeder Terrasse mit Wassernäpfen willkommen geheißen`,
+      highlight: `die Frederiksberg Gardens, der Fælledpark sowie die Hafenpromenade`,
+      area: `Nørrebro, Frederiksberg und Vesterbro`,
+    },
+    corfu: {
+      personality: `das ionische Tor, in dem eine UNESCO-venezianische Altstadt 400 Jahre venezianischer Herrschaft, französische napoleonische Arkaden und britische neoklassizistische Paläste übereinanderschichtet, die Spianada der größte öffentliche Platz Griechenlands ist und üppig grüne Inselwanderungen von Mon Repos bis Paleokastritsa führen`,
+      highlight: `die Arkaden des Liston und die Spianada, das Vorgebirge der Old Fortress mit 360-Grad-Blick auf den Hafen sowie der Mon-Repos-Park, in dem Prinz Philip geboren wurde`,
+      area: `der ummauerten UNESCO-Altstadt rund um Liston und Campiello, der Garitsa-Bucht südlich der Old Fortress sowie der Halbinsel Kanoni Richtung Pontikonisi`,
+    },
+    cordoba: {
+      personality: `Andalusiens UNESCO-Stadt der Mezquita-Catedral, 45 Minuten mit dem AVE von Sevilla entfernt, mit kompakter weiß getünchter Altstadt, der Römischen Brücke über den Guadalquivir sowie den Ausläufern der Sierra Morena 15 Minuten nördlich für kühle Hundewanderungen`,
+      highlight: `der Sonnenuntergangsblick von der Römischen Brücke, die Gassen des jüdischen Viertels Judería sowie der Uferweg Sotos de la Albolafia`,
+      area: `der Judería, dem Centro nahe der Plaza de la Corredera und dem modernen Viertel San Fernando`,
+    },
+    cork: {
+      personality: `Irlands kulinarische Rebellenstadt am River Lee, mit georgianischen Straßen, gemütlichen traditionellen Pubs, dem legendären English Market sowie dem 200 Hektar großen Freilaufpark Ballincollig 8 km westlich, während die Strände von West Cork eine kurze Fahrt südlich entfernt liegen`,
+      highlight: `der Fitzgerald's Park und der Spazierweg Mardyke, die Freilaufzone im Ballincollig Regional Park sowie die 25-minütige Zugfahrt zur hundefreundlichen Uferpromenade von Cobh`,
+      area: `dem Latin Quarter, dem Flussufer Marina und Blackrock`,
+    },
+    delft: {
+      personality: `die kleine Grachtenstadt mit 105.000 Einwohnern zwischen Rotterdam und Den Haag, wo der Kopfsteinpflaster-Markt unter der Nieuwe Kerk (Grabstätte Wilhelms von Oranien seit 1584, Mausoleum des niederländischen Königshauses, 109 m hoher Turm), das Renaissance-Rathaus Stadhuis, die Oude Kerk mit Vermeers Grab und ihrem schiefen Turm, die 1100 gegrabene Gracht Oude Delft (die älteste der Niederlande), das Prinsenhof-Museum (Ort der Ermordung Wilhelms von Oranien 1584), das Stadttor Oostpoort von 1400 und die königliche Porzellanmanufaktur Royal Delft (Koninklijke Porceleyne Fles, gegründet 1653) allesamt innerhalb der Grachtenringe liegen, 12 Minuten mit dem NS-Zug sowohl vom Den Haag Centraal als auch vom Rotterdam Centraal entfernt`,
+      highlight: `der Markt unter dem 109 m hohen Turm der Nieuwe Kerk, der Porzellanhof und -laden von Royal Delft an der Rotterdamseweg sowie die ganzjährigen Hondenstrand-Zonen von Kijkduin/Scheveningen, erreichbar in 45–55 Minuten mit der HTM-Tram 1`,
+      area: `dem Centrum innerhalb der Grachtenringe rund um den Markt und die Gracht Oude Delft, dem grünen Campus der TU Delft südlich der Stadt sowie dem Erholungspark Delftse Hout östlich des Zentrums`,
+    },
+    denia: {
+      personality: `die Hafenstadt im Norden der Costa Blanca und UNESCO Creative City of Gastronomy, mit dem maurischen Castillo aus dem 11. Jahrhundert über der weiß getünchten Casco Antiguo, dem 753 m hohen Naturpark Montgó direkt hinter der Stadt, täglichen Baleària-Fähren nach Ibiza sowie dem seltenen ganzjährigen Hundestrand Platja Canina de Les Deveses`,
+      highlight: `die Wehrmauern des Castillo de Dénia unter freiem Himmel, der Klippenweg am Cap de Sant Antoni oberhalb der Reserva Marina sowie die Platja Canina de Les Deveses (ganzjähriger Hundestrand)`,
+      area: `der Casco Antiguo von Les Roques unterhalb der Burg, dem Fischerviertel Baix la Mar am Hafen sowie der Strandpromenade Les Marines nördlich der Stadt`,
+    },
+    denver: {
+      personality: `die Mile High City, eine Meile über dem Meeresspiegel mit rund 300 Sonnentagen im Jahr, siebzehn eingezäunten Hundeparks und einer riesigen Terrassenkultur, wobei das Nahverkehrsnetz Haustiere nur in Transportboxen befördert`,
+      highlight: `die Grünzüge von Cherry Creek und South Platte, die sich am Confluence Park treffen, die Wanderwege des Red Rocks Park an der Leine sowie die 69 Acres große eingezäunte Freilauffläche mit zwei Badeteichen im Chatfield State Park`,
+      area: `der Union Station und LoDo, den mit Wandmalereien geschmückten Straßen von RiNo sowie den Rasenflächen und baumgesäumten Straßenzügen rund um den Washington Park und Cherry Creek North`,
+    },
+    dresden: {
+      personality: `eine kompakte barocke Landeshauptstadt an der Elbe mit kilometerlangen Freilauf-Elbwiesen, einem 5.800 Hektar großen Stadtwald am nördlichen Rand sowie einer historischen Raddampferflotte, die Hunde ohne Aufpreis willkommen heißt`,
+      highlight: `die Elbwiesen mitten durchs Zentrum, der Wald der Dresdner Heide sowie die Schlossgärten des Schlossparks Pillnitz`,
+      area: `der Altstadt rund um die Frauenkirche, der Äußeren Neustadt sowie den Wohnvierteln Striesen/Blasewitz`,
+    },
+    dubai: {
+      personality: `eine heiße Wüstenmetropole am Arabischen Golf, in der das Reisen mit Haustieren eigenen Regeln folgt: Hunde sind im öffentlichen Raum weit weniger präsent als in Europa, doch die Stadt ist außergewöhnlich gut mit 24-Stunden-Tierärzten und professionellen Haustier-Resorts ausgestattet`,
+      highlight: `der kleine Dubai Islands Beach Dog Park (der einzige offiziell zugelassene Hundestrand), hundefreundliche Caféterrassen wie das Reform Social & Grill sowie die Uferpromenaden entlang des Dubai Water Canal`,
+      area: `Jumeirah und Umm Suqeim entlang der Al Wasl Road, dem am Kanal gelegenen Business Bay sowie dem Dubai Investment Park, wo sich die Haustier-Resorts konzentrieren`,
+    },
+    dublin: {
+      personality: `eine warmherzige, von Pubs geprägte Stadt, in der Hunde in Biergärten, auf Küstenwanderungen und im größten Stadtpark Europas willkommen sind: dem Phoenix Park`,
+      highlight: `der Phoenix Park (1.750 Acres, größtenteils ohne Leinenpflicht), der Flussweg am Dodder sowie der Strand Sandymount Strand`,
+      area: `Ranelagh, Portobello und Stoneybatter`,
+    },
+    dubrovnik: {
+      personality: `eine dramatisch ummauerte Stadt, in der Hunde ihre Besitzer auf Küstenwegen, an ruhigen Inselstränden und auf den pinienbeschatteten Terrassen vor der Altstadt begleiten`,
+      highlight: `der Küstenweg zum Strand Sveti Jakov, die Tagesausflugsfähre zur Insel Lokrum (Hunde erlaubt) sowie die Halbinsel Lapad`,
+      area: `Lapad, Gruž und der Umgebung der Altstadt`,
+    },
+    dunkerque: {
+      personality: `ein Kanalhafen im Département Nord mit 86.000 Einwohnern (200.000 im Großraum), Frankreichs drittgrößter Hafen und Ausgangspunkt der DFDS-Fähre Dunkerque-Dover, gekrönt vom UNESCO-Belfried Beffroi Saint-Éloi (Teil des UNESCO-Ensembles der Belfriede Belgiens und Frankreichs), Heimat des Mémorial Operation Dynamo und des Mémorial du Souvenir, die an die Evakuierung von 338.000 alliierten Soldaten 1940 erinnern, mit dem längsten zusammenhängenden Dünenweg an der französischen Kanalküste (12 km von Malo-les-Bains bis Bray-Dunes an der belgischen Grenze), dem 100 % kostenlosen Stadtbusnetz DK'Bus und dem Carnaval de Dunkerque an sechs Wochenenden im Februar/März`,
+      highlight: `die 12 km lange Dünenküste am Kanal von Malo-les-Bains bis Bray-Dunes (längster zusammenhängender Dünenweg an der französischen Kanalküste), die 220 Hektar große Réserve Naturelle Dune Marchand mit saisonalen Freilaufzonen, der Platz am UNESCO-Belfried Beffroi Saint-Éloi, das Mémorial Operation Dynamo bei Bastion 32 mit dem Uferweg zur Mole de Dunkerque sowie der Quai de la Citadelle gegenüber dem historischen Dreimaster Duchesse Anne`,
+      area: `dem Zentrum rund um die Place Jean Bart und den UNESCO-Belfried Beffroi Saint-Éloi, dem Bassin du Commerce mit dem Musée Portuaire und der Duchesse Anne, der Belle-Époque-Promenade Digue de Mer in Malo-les-Bains 2 km nördlich sowie den Naturschutzgebieten Dune Marchand/Dune du Perroquet östlich Richtung belgischer Grenze`,
+    },
+    dusseldorf: {
+      personality: `eine rheinische Mode- und Brauhaus-Metropole mit 21 offiziellen eingezäunten Hundewiesen, einer 2 km langen Rheinuferpromenade durchs Zentrum sowie Frank Gehrys Medienhafen, eine Straßenbahnfahrt von den Altbier-Brauereien der Altstadt entfernt`,
+      highlight: `der Hofgarten (Deutschlands erster öffentlicher Park), der Medienhafen mit den Gehry-Bauten und dem Rheinturm sowie die offiziellen Hundebadezonen am Unterbacher See 20 Minuten südlich`,
+      area: `der Altstadt rund um die Ratinger Straße, dem Medienhafen sowie dem grünen linksrheinischen Oberkassel`,
+    },
+    edinburgh: {
+      personality: `eine der hundefreundlichsten Städte Großbritanniens, mit Hügeln ohne Leinenpflicht, hundefreundlichen Pubs in jeder Straße und einer Kultur, die Hunde als vollwertige Familienmitglieder behandelt`,
+      highlight: `der Arthur's Seat (ohne Leinenpflicht), der Holyrood Park sowie der Spazierweg am Water of Leith`,
+      area: `Stockbridge, Leith und der New Town`,
+    },
+    ericeira: {
+      personality: `eine Atlantik-Fischerstadt mit 10.000 Einwohnern 40 km nördlich von Lissabon, 2011 als Europas einziges World Surfing Reserve ausgezeichnet, mit sieben Weltklasse-Wellen, darunter der WSL-Championship-Tour-Spot Ribeira d'Ilhas und das mächtige Riff Coxos, einer Altstadt auf der Klippe mit weiß getünchten Tasca-Terrassen über der Praia dos Pescadores sowie dem monumentalen UNESCO-Palácio Nacional de Mafra mit seinem 800 Hektar großen königlichen Wald Tapada 10 km landeinwärts`,
+      highlight: `die WSL-Championship-Tour-Welle Ribeira d'Ilhas und der Aussichtspunkt des World Surfing Reserve auf der Klippe, das mächtige Rechtsriff Coxos und der Fischerhafen Praia dos Pescadores sowie der UNESCO-Palácio Nacional de Mafra mit dem 800 Hektar großen königlichen Wald Tapada 10 km landeinwärts`,
+      area: `der Altstadt auf der Klippe rund um den Largo das Ribas und die Praça da República, der Strandpromenade über der Praia dos Pescadores und der Praia do Sul sowie der Surfspot-Küste nordwärts bis Ribeira d'Ilhas und Coxos`,
+    },
+    evora: {
+      personality: `die alentejanische UNESCO-Hauptstadt und einstige römische, westgotische und maurische Stadt, mit einem 2.000 Jahre alten Römischen Tempel, der unheimlichen Capela dos Ossos, einem der größten mittelalterlichen Stadtmauerringe der Iberischen Halbinsel sowie direkter CP-Zugverbindung ab Lissabon in 1:30 Stunden`,
+      highlight: `der Römische Tempel von Évora, die Megalithanlage Cromeleque dos Almendres (7.000 Jahre älter als Stonehenge) sowie die Hundestrände am Lago Alqueva bei Monsaraz`,
+      area: `dem Centro Histórico rund um die Praça do Giraldo, dem Areal des Römischen Tempels am Largo do Conde de Vila Flor sowie der Weinstraße des Alentejo gleich vor den Stadtmauern`,
+    },
+    falmouth: {
+      personality: `eine lebendige Hafen- und Universitätsstadt an Cornwalls milder Südküste, mit Sandstränden nur wenige Gehminuten vom Zentrum entfernt und einem der tiefsten natürlichen Häfen der Welt`,
+      highlight: `das hundefreundliche Pendennis Castle, die kostenlose St-Mawes-Fähre über die Carrick Roads, die ganzjährig zugängliche Sunny Cove sowie der Küstenweg rund um Pendennis Point`,
+      area: `der Haupteinkaufsstraße am Hafen und dem Custom House Quay, der Strandpromenade Gyllyngvase und der Landzunge Pendennis sowie dem Discovery Quay beim Maritime Museum`,
+    },
+    faro: {
+      personality: `die Hauptstadt der Algarve und Tor zu Portugals Südküste, mit einer UNESCO-gewürdigten Cidade Velha, dem 18.000 Hektar großen Naturpark Ria Formosa mit ganzjährigen Flamingo-Stegen, hundefreundlichen Atlantikstränden auf vorgelagerten Barriereinseln per Fähre sowie den niedrigsten Haustierzuschlägen Südeuropas`,
+      highlight: `die Cidade Velha und das Storchentor Arco da Vila, der Bohlenweg der Ria Formosa zu den Salinen sowie der wilde Atlantik-Hundestrand der Ilha Deserta per Fähre`,
+      area: `der Cidade Velha rund um den Domplatz, der Promenade an der Marina sowie dem Wohnviertel Bom João nahe dem Bahnhof`,
+    },
+    florence: {
+      personality: `eine Renaissancestadt, in der Hunde über Kopfsteinpflaster zu den Morgenmärkten trotten, unter Café-Sonnenschirmen sitzen und jeden Abend mit ihren Besitzern die Ufer des Arno entlangspazieren`,
+      highlight: `der Boboli-Garten, der Park Cascine (mit Freilaufzonen) sowie die Uferwege am Arno`,
+      area: `Oltrarno, Santa Croce und San Frediano`,
+    },
+    formentera: {
+      personality: `die kleinste der vier großen Balearen-Inseln, ein flacher, 19 km langer Streifen aus hellem Sand, Wacholderbüschen und UNESCO-geschütztem Neptungras, nur per Fähre von Ibiza erreichbar, wo 12.000 ganzjährige Einwohner und eine der ruhigsten Nebensaisons im Mittelmeer die ganze Insel in einen langen Hundespaziergang verwandeln`,
+      highlight: `der Leuchtturm Far de la Mola auf der 142 m hohen Klippe im Osten, der historische Weg Camí Romà hinauf zum Plateau von La Mola sowie der Damm der Halbinsel Trocadors oberhalb von Ses Illetes`,
+      area: `Sant Francesc Xavier (der Hauptstadt mit der 1726 erbauten Wehrkirche), Es Pujols (dem wichtigsten Küstenort) sowie Sant Ferran de ses Roques (dem bohemienhaften Dorf im Inselinneren)`,
+    },
+    frankfurt: {
+      personality: `Deutschlands grünste Finanzmetropole, in der 52 % der Stadtfläche aus Wald oder Parks bestehen, mit einem 4.200 Hektar großen Stadtwald, hundefreundlichen Apfelweinlokalen in Sachsenhausen sowie zwei rund um die Uhr geöffneten Tierkliniken`,
+      highlight: `die eingezäunte Hundeauslauffläche im Grüneburgpark, die 4 km lange Promenade am Mainufer sowie die Waldwege des Stadtwalds`,
+      area: `Sachsenhausen, dem Westend und der Altstadt rund um den Römerberg`,
+    },
+    freiburg: {
+      personality: `eine badische Ökostadt mit 236.000 Einwohnern am Fuß des Schwarzwalds und Deutschlands sonnenreichstes Stadtzentrum, mit einer autofreien Altstadt im UNESCO-würdigen Stil, den berühmten Bächle im Kopfsteinpflaster sowie der Schauinslandbahn hinauf zum 1.284 m hohen Schauinsland`,
+      highlight: `der tägliche Markt auf dem Münsterplatz, der bewaldete Schlossberg über der Altstadt, die Schauinslandbahn sowie der Freilaufwald Mooswald westlich der Stadt`,
+      area: `der autofreien Altstadt rund um den Münsterplatz und das Schwabentor, dem Stadtgarten und Colombipark nördlich des Zentrums sowie dem Stühlinger-Viertel westlich des Hauptbahnhofs`,
+    },
+    frejus: {
+      personality: `die mit klarem Abstand hundefreundlichste Gemeinde der Côte d'Azur, mit drei offiziellen ganzjährigen Hundestränden (Argens, Esclamandes, Pacha Plage), dem 100 Hektar großen Park Base Nature mit einem nagelneuen, vollständig eingezäunten Woof Park sowie Hunden an der Leine im römischen Amphitheater aus dem 1. Jahrhundert`,
+      highlight: `der Hundestrand Plage d'Argens bei Saint-Aygulf, die Base Nature François Léotard mit ihrem Woof Park sowie die römischen Arènes und die Aquädukt-Ruinen`,
+      area: `der mittelalterlichen Vieille Ville rund um die Place Formigé und die Cathédrale Saint-Léonce, der Marina Port Fréjus sowie der Strandpromenade von Saint-Aygulf`,
+    },
+    fuengirola: {
+      personality: `ein lebendiger Ferienort an der Costa del Sol in der Provinz Málaga mit einer 7 km langen Strandpromenade, dem auf einem Hügel gelegenen Castillo Sohail und einem der wenigen offiziellen ganzjährigen Hundestrände Andalusiens, dazu rund sieben eingezäunte Hundeparks sowie einem Cercanías-Zug, der Hunde kostenlos vom Flughafen Málaga befördert`,
+      highlight: `der Hundestrand Playa Canina del Castillo de Sohail, der 7 km lange Paseo Marítimo sowie der Flusspark Parque del Río Fuengirola unterhalb der Burg`,
+      area: `der Altstadt und dem Hafen, der Strandpromenade von Los Boliches sowie der Landzunge des Castillo Sohail am südlichen Ende`,
+    },
+    funchal: {
+      personality: `die Hauptstadt Madeiras, einer ganzjährig milden Atlantikinsel mit Esplanaden-Kultur, der Klippenpromenade Lido, den Levada-Wanderwegen oberhalb der Stadt sowie der einzigen rund um die Uhr geöffneten Tierklinik des Archipels`,
+      highlight: `der Parque de Santa Catarina über der Bucht, der Wanderweg Levada dos Tornos sowie der Klippenweg Promenade do Lido`,
+      area: `der Zona Velha rund um die Rua de Santa Maria, dem Hotelstreifen Lido/Estrada Monumental sowie den Höhen von Monte`,
+    },
+    galway: {
+      personality: `die bohemienhafte Hauptstadt von Irlands Wild Atlantic Way, wo Pubs Hunde in ihren gemütlichen Séparées willkommen heißen, die Promenade von Salthill sich bei Sonnenuntergang mit angeleinten Vierbeinern füllt und die Strände und Moore Connemaras 30 Minuten westlich liegen`,
+      highlight: `die 2 km lange Salthill Promenade, der Freilaufstrand Silver Strand sowie der Spanish Arch und die Uferpromenade Long Walk`,
+      area: `dem Latin Quarter, dem West End sowie Salthill an der Bucht`,
+    },
+    gdansk: {
+      personality: `die hanseatische Perle der Ostsee und einstige Freie Stadt Danzig, mit einem UNESCO-gewürdigten Długi Targ, der Geburtsstätte der Solidarność auf der Stocznia Gdańska sowie direkter SKM-Bahnverbindung zum Sopot Dog Beach (Polens bekanntestem) in 15 Minuten`,
+      highlight: `der Długi Targ und die Mariacka-Straße, der Sopot Dog Beach 15 Minuten mit der SKM sowie der Tri-City-Landschaftspark mit 200 km Freilaufwegen`,
+      area: `dem Główne Miasto rund um den Długi Targ, der Speicherinsel Wyspa Spichrzów an der Motława sowie Wrzeszcz im Norden`,
+    },
+    gdynia: {
+      personality: `die modernistische Hafenhälfte der polnischen Dreistadt (mit Gdańsk und Sopot), eine Hafenstadt mit 244.000 Einwohnern, zwei ganzjährigen eigenen Hundestränden, zwei rund um die Uhr geöffneten Tierkliniken, den Sea Towers sowie den Museumsschiffen Dar Pomorza und ORP Błyskawica am Südmolo`,
+      highlight: `der Skwer Kościuszki und das Südmolo mit dem Zerstörer ORP Błyskawica aus dem Zweiten Weltkrieg, die Klippen von Orłowo mit ihrem 180 m langen Holzsteg sowie der Hundestrand Kolibki mit eingezäunter Agility-Fläche`,
+      area: `Śródmieście rund um den Skwer Kościuszki, Kamienna Góra über der Innenstadt sowie Orłowo mit seinen Klippen und dem Holzsteg`,
+    },
+    geneva: {
+      personality: `eine der haustierfreundlichsten internationalen Hauptstädte Europas, in der Schweizer Recht Hunde in Restaurants und Cafés erlaubt, das ganzjährige Freilaufgebiet Bois de la Bâtie mitten im Zentrum liegt und zwei rund um die Uhr geöffnete Tierkliniken den Kanton versorgen`,
+      highlight: `der Freilaufwald Bois de la Bâtie, die Seepromenade Quai Wilson sowie das bohemienhafte Viertel Carouge`,
+      area: `Pâquis am rechten Ufer, Eaux-Vives am linken Ufer sowie Carouge jenseits der Arve`,
+    },
+    genoa: {
+      personality: `eine der unaufdringlich haustierfreundlichsten Städte Italiens, die erste in Ligurien mit einem offiziellen Hundestrand, mit Caruggi-Gassen, die an Sommertagen 8 °C kühler sind als die Uferpromenade, drei rund um die Uhr geöffneten Tierkliniken sowie einem einzigartigen vertikalen Verkehrsnetz aus Standseilbahnen und Aufzügen`,
+      highlight: `der ganzjährige Hundestrand von Vesima, die 92.000 m² großen Parchi di Nervi sowie der von Renzo Piano neugestaltete Porto Antico`,
+      area: `den UNESCO-Strade Nuove, dem Fischerdorf Boccadasse sowie den Küstenparks von Nervi`,
+    },
+    getxo: {
+      personality: `Bilbaos baskischer Küstennachbar am Golf von Biskaya, Heimat der UNESCO-Hängebrücke Vizcaya-Brücke (seit 2017 hundefreundlich), des malerischen Fischerhafens Puerto Viejo de Algorta sowie eines 6 km langen Klippenwegs über dem Kantabrischen Meer`,
+      highlight: `der Klippenweg zur Punta Galea ab der Windmühle Aixerrota, die Schwebefähre Vizcaya-Brücke für Hunde bis 40 kg sowie 17 ausgewiesene Freilaufzonen für Hunde`,
+      area: `dem Puerto Viejo de Algorta, dem Villenviertel Neguri aus der Romantik sowie der Uferpromenade Las Arenas an der Mündung des Nervión`,
+    },
+    ghent: {
+      personality: `eine progressive flämische Universitätsstadt mit Europas größtem autofreien historischen Zentrum, der Burg Gravensteen der Grafen von Flandern mit ihrem Wassergraben, Van Eycks Anbetung des Lammes in der Sint-Baafskathedraal, einem innerstädtischen Hundebadestrand am Blaarmeersen sowie kostenlosen NMBS-Zugfahrten für Hunde nach Brügge in 25 Minuten`,
+      highlight: `der 13 Hektar große Citadelpark mit eingezäunter Freilaufzone, das 300 Hektar große NATURA-2000-Gebiet Bourgoyen-Ossemeersen sowie der Hundestrand am Blaarmeersen 4 km vom Zentrum entfernt`,
+      area: `der mittelalterlichen Uferzone Korenmarkt-Graslei-Korenlei, dem ältesten Viertel Patershol rund um die Gravensteen sowie dem Vrijdagmarkt mit seinen Cuberdon-Verkäufern`,
+    },
+    girona: {
+      personality: `Kataloniens begehbares mittelalterliches Juwel eine Stunde von Barcelona entfernt, eine Stadt mit 103.000 Einwohnern und 7 km offiziellen Freilaufrouten für Hunde entlang von Ter und Onyar, fünf eingezäunten Hundewiesen, dem gesamten 2 km langen Mauerweg, der für angeleinte Hunde offen ist, sowie einer rund um die Uhr geöffneten Tierklinik`,
+      highlight: `der 2 km lange Mauerweg Passeig de la Muralla, der Park Devesa mit seinen zwei Hundewiesen sowie die Freilaufroute Ribes del Ter`,
+      area: `dem Barri Vell und dem Call rund um die Carrer de la Força, Mercadal jenseits des Onyar sowie Fontajau an den Ufern des Ter`,
+    },
+    glasgow: {
+      personality: `eine der verlässlich hundefreundlichsten Städte Großbritanniens, mit kostenloser Mitnahme von Haustieren in jedem ScotRail-Zug, hundefreundlichen Pubs in jedem Viertel sowie dem 146 Hektar großen Pollok Country Park mitten in der Stadt`,
+      highlight: `der Pollok Country Park, der Kelvingrove Park sowie der Loch Lomond, eine 50-minütige Zugfahrt entfernt`,
+      area: `dem West End, der Merchant City sowie Finnieston`,
+    },
+    gothenburg: {
+      personality: `Schwedens hundefreundlichste Stadt, eine lebendige Hafen- und Universitätsstadt, in der Hunde kostenlos mit der Straßenbahn fahren, im 137 Hektar großen Slottsskogen ohne Leine laufen dürfen und in fast jedem Café willkommen sind`,
+      highlight: `der Stadtwald Slottsskogen, die Cafés im hölzernen Viertel Haga sowie die hundefreundlichen Inseln des Göteborger Schärengartens`,
+      area: `Haga, dem Viertel Linné sowie dem Stadtteil Vasastan`,
+    },
+    graz: {
+      personality: `Österreichs UNESCO-gelistete steirische Landeshauptstadt, in der der Uhrturm auf dem Schlossberg eine perfekt erhaltene Renaissance-Altstadt krönt und die Wirtshauskultur Hunde auch im Winter drinnen willkommen heißt`,
+      highlight: `die bewaldeten Wege am Schlossberg hinauf zum Uhrturm, die Hundezone im Stadtpark sowie der 7 km lange Uferweg an der Mur mitten durchs Zentrum`,
+      area: `der UNESCO-Altstadt rund um den Hauptplatz, dem angesagten Viertel Lend westlich der Mur sowie dem grünen Studentenviertel Geidorf`,
+    },
+    granada: {
+      personality: `die stimmungsvollste maurische Stadt Europas, in der die Alhambra über die Kopfsteinpflastergassen des Albaicín wacht, die andalusische Terrassenkultur Hunde wirklich willkommen heißt und die Sierra Nevada eine Stunde entfernt liegt`,
+      highlight: `der Paseo de los Tristes unterhalb der Mauern der Alhambra, das UNESCO-Viertel Albaicín sowie die hundefreundlichen Parks im Viertel Arabial`,
+      area: `dem Albaicín, dem Realejo sowie dem historischen Zentrum rund um die Plaza Nueva`,
+    },
+    grindelwald: {
+      personality: `das Schweizer Dorf an der Eiger-Nordwand im Herzen der Jungfrau-Region, mit 4.000 Einwohnern auf 1034 m, wo der Skywalk First Cliff Walk auf 2168 m hängt, die Männlichenbahn (Europas längste Luftseilbahn) auf 2342 m hinaufführt, die Dreiseilbahn Eiger Express ab dem Grindelwald Terminal in 15 Minuten den Eigergletscher erreicht und die Notfallnummer der Tierklinik Interlaken rund um die Uhr das ganze Tal abdeckt`,
+      highlight: `der First Cliff Walk bei Sonnenaufgang, wenn die Eiger-Nordwand orange erglüht, die einstündige Wanderung zum postkartenreifen Bachalpsee auf 2265 m sowie die Pfingstegg-Seilbahn zum Gletscher-Aussichtspunkt Bäregg`,
+      area: `Grindelwald Dorf entlang der Hauptstrasse unterhalb des Eigers, Grindelwald Grund an der Talstation von Eiger Express und Männlichenbahn sowie den Bergplateaus von First, Männlichen und Pfingstegg`,
+    },
+    groningen: {
+      personality: `die inoffizielle Hauptstadt des niederländischen Nordens (235.000 Einwohner), eine Studentenstadt mit über 60.000 Studierenden rund um die 1614 gegründete Rijksuniversiteit, mit dem 96 m hohen Martinitoren (höchster Kirchturm im niederländischen Norden, 261 Stufen) am Grote Markt, dem Fischmarktplatz Vismarkt mit der 1865 erbauten Korenbeurs, den Grachtenkais der Hoge der A und der Akerk, dem 1830 angelegten zentralen Park Noorderplantsoen (große Freilaufwiese für Hunde, Kunstfestival Noorderzon im August) sowie dem 140 Hektar großen Stadspark südlich des Zentrums, 2:05 Stunden ab Amsterdam Centraal mit dem NS-Intercity, und dem Tor zur UNESCO-Küste des Wattenmeers (Fähre zur Insel Schiermonnikoog in 1:15 Stunden mit Qbuzz-Bus 163 plus Überfahrt mit Wagenborg)`,
+      highlight: `die Plätze Martinikerkhof und Vismarkt unter dem 96 m hohen Martinitoren, die Freilaufwiese im Noorderplantsoen sowie der Hundestrand auf der Wattenmeerinsel Schiermonnikoog, erreichbar in 1:15 Stunden mit Qbuzz-Bus und Wagenborg-Fähre`,
+      area: `dem Centrum innerhalb des Diepenring rund um den Grote Markt und die Hoge der A, dem Noorderplantsoen und dem Centrum-Noord sowie dem Uferweg am Reitdiep nordwärts aus der Stadt hinaus`,
+    },
+    guimaraes: {
+      personality: `die UNESCO-gelistete Wiege Portugals, eine vollständig autofreie Granit-Altstadt rund um das Castelo aus dem 10. Jahrhundert, in dem der erste König Portugals geboren wurde, den Palast Paço dos Duques aus dem 15. Jahrhundert, den ikonischen mittelalterlichen Largo da Oliveira sowie den 617 m hohen Berg Penha, erreichbar mit Portugals längster Seilbahn, die angeleinte Hunde in jeder Kabine willkommen heißt`,
+      highlight: `das Castelo und der Paço dos Duques auf dem Burghügel, der Largo da Oliveira mit dem gotischen Padrão do Salado sowie die Wanderwege am Berg Penha, erreichbar mit der hundefreundlichen Teleférico da Penha`,
+      area: `dem UNESCO-Altstadtkern rund um den Largo da Oliveira und die Praça de Santiago, dem Burghügel sowie dem Viertel Costa an der Talstation der Penha-Seilbahn`,
+    },
+    haarlem: {
+      personality: `die unkompliziertest hundefreundliche Basis für die Region Amsterdam, eine kompakte mittelalterliche niederländische Stadt 20 km westlich von Amsterdam, wo der Grote Markt unter der Grote Sint-Bavokerk (Grabstätte von Frans Hals, die Müller-Orgel Mozarts), der Fluss Spaarne mit der Windmühle De Adriaan, sechzehn historische Hofjes-Innenhöfe sowie der älteste öffentliche Park der Niederlande (Haarlemmerhout, 1583) nur 15 Minuten mit dem NS-Zug von Amsterdam Centraal und 10 Minuten vom ganzjährigen Hundestrand von Zandvoort entfernt liegen`,
+      highlight: `der Grote Markt und der Klokhuisplein unter der Grote Sint-Bavokerk, die Freilaufwiesen des Schoterbos nördlich des Spaarne sowie der ganzjährige Hondenstrand Zandvoort Zuid und der gesamte 9 km lange Strand von Zandvoort ohne Leinenpflicht von Oktober bis Mai`,
+      area: `dem Centrum innerhalb der Grachtenringe rund um den Markt und die Kais am Spaarne, Haarlem-Noord rund um das Schoterbos sowie dem Küstenstreifen von Zandvoort aan Zee bis Bloemendaal aan Zee`,
+    },
+    hallstatt: {
+      personality: `das UNESCO-Weltkulturerbe-Dorf am See im Salzkammergut, eine alpine Ikone mit 750 Einwohnern, in der Hunde kostenlos mit dem Seebus fahren, mit der Salzbergbahn hinauf zum Skywalk Welterbeblick fahren und das Echerntal sowie den hundefreundlichen Badesee Gosausee erkunden`,
+      highlight: `die 1 km lange Uferpromenade, das Echerntal bis zum Wasserfall Waldbachstrub, und die Dachstein-Krippenstein-Seilbahn zum Aussichtspunkt Fünf Finger`,
+      area: `den UNESCO-Kern am Marktplatz, das Salzbergplateau oberhalb des Dorfes, und die Dachstein-Salzkammergut-Wanderwege rund um Obertraun und Gosau`,
+    },
+    hamburg: {
+      personality: `Deutschlands grünste Großstadt mit 56 eingezäunten Hundeauslaufzonen, einer 7 km langen Rundstrecke um die Alster, den berühmten Elbstrand-Stadtstränden, und einer Hafenkultur, in der Hunde mit der Fähre fahren und auf Café-Terrassen dösen`,
+      highlight: `die 7 km lange Runde um die Außenalster, den Elbstrand bei Övelgönne, und den 205 Hektar großen Altonaer Volkspark`,
+      area: `den Ufern der Alster, dem Schanzenviertel, und der Elbfront in Övelgönne`,
+    },
+    hannover: {
+      personality: `Niedersachsens ruhige Landeshauptstadt, Heimat von Deutschlands größtem Stadtwald (Eilenriede, 640 ha, größer als der Central Park), dem Maschsee mit seiner Hundebadezone, und einer Tierklinik von Weltrang`,
+      highlight: `den 640 Hektar großen Eilenriede-Wald, die 6 km lange Runde um den Maschsee mit Hundebadestelle, und die barocke Allee des Georgengartens`,
+      area: `List, den Ufern des Maschsees, und der Altstadt rund um die Marktkirche`,
+    },
+    heidelberg: {
+      personality: `Deutschlands romantischste Universitätsstadt, eine barocke Altstadt unterhalb der Schlossruine aus der Renaissance, der ikonische Aussichtsweg Philosophenweg, der Königstuhlwald mit 70 km leinenfreien Wegen, und direkte ICE-Züge vom Frankfurter Flughafen in 50 Minuten`,
+      highlight: `die Schlossterrassen, den Philosophenweg mit seinem Heiligenberg-Wald, und die Königstuhlbahn hinauf zu 70 km leinenfreien Waldwegen`,
+      area: `der Altstadt rund um die Hauptstraße, Bergheim nahe dem Bahnhof, und dem grünen Neuenheim jenseits des Neckars`,
+    },
+    chania: {
+      personality: `Kretas westliche Hauptstadt, wo eine venezianisch-osmanische Altstadt den fotogensten Hafen Griechenlands umschließt, die 800 m lange Mole am Ägyptischen Leuchtturm der beliebteste Hundespaziergang ist, und Falassarna, Elafonissi und Balos alle als Tagesausflug erreichbar sind`,
+      highlight: `den Venezianischen Hafen und die Mole am Ägyptischen Leuchtturm, die Wehrmauern der Firkas-Festung, und die Gassen von Splantzia mit ihrem platanenbeschatteten Platz`,
+      area: `der ummauerten Altstadt rund um den Venezianischen Hafen und die Plateia 1821 in Splantzia, der Uferpromenade Nea Chora westlich der Firkas-Festung, und dem Wohnviertel Halepa östlich des Zentrums`,
+    },
+    heraklion: {
+      personality: `Kretas Hauptstadt, wo 4 km venezianische Stadtmauern rund um die Altstadt, ein mildes Klima das ganze Jahr über, und zwei offizielle Hundestrand-Zonen sie zu einer der unkompliziertesten griechischen Städte für Reisen mit Hund machen`,
+      highlight: `den 4 km langen Spazierweg entlang der Venezianischen Mauern, den Pier der Hafenfestung Koules, und den Hundestrand Amoudara 5 km westlich`,
+      area: `der ummauerten Altstadt rund um die Plateia Eleftherias und den Löwenplatz, der Hafenpromenade, und der Westküste Richtung Amoudara`,
+    },
+    helsinki: {
+      personality: `eine nordische Hauptstadt, in der das Inselarchipel, die Kiefernwälder und eine zutiefst naturverbundene Kultur sie außergewöhnlich hundefreundlich machen`,
+      highlight: `den Zentralpark (Keskuspuisto), das Naturschutzgebiet auf der Insel Seurasaari, und die Seefestungsinsel Suomenlinna`,
+      area: `Kallio, Töölö, und dem Design District`,
+    },
+    heviz: {
+      personality: `eine kleine ungarische Kurstadt rund um den größten natürlich warmen Thermalsee der Welt, nahe der Westspitze des Balatons, wo ein schattiger Waldpark das Wasser umgibt und Hundestrände am Balaton nur eine kurze Fahrt entfernt liegen`,
+      highlight: `den Véderdő-Waldpark rund um den Hévízer See, die Árpád-zeitliche Kirche und den römischen Ruinengarten in Egregy, und den Hundestrand samt Hundewiese am Balaton im nahen Keszthely`,
+      area: `dem Kurviertel am Ufer rund um die Kossuth Lajos utca, dem historischen Viertel Egregy, und der nahegelegenen Stadt Keszthely am Balaton`,
+    },
+    hvar: {
+      personality: `Dalmatiens Sonneninsel (2.718 Sonnenstunden im Jahr, die meisten in Kroatien), 11.000 Einwohner auf der ganzen Insel und nur 3.700 im winzigen Hvar-Stadt - gruppiert um den Platz des Heiligen Stephan (die größte Piazza Dalmatiens), die Kathedrale aus dem 16. Jahrhundert, das Arsenal-Theater von 1612, das Franziskanerkloster auf der Hafenklippe und die Festung Fortica Španjola auf dem Hügel dahinter, mit dem Archipel der Pakleni-Inseln 15 Minuten per Wassertaxi vor der Westspitze, Stari Grad 20 km östlich (die älteste Stadt Kroatiens, griechisches Pharos 384 v. Chr.) und der UNESCO-Ebene von Stari Grad, Lavendelhängen rund um Velo Grablje und Plavac-Mali-Weinbergen bei Sveta Nedjelja - nur mit der Jadrolinija-Fähre oder der Autofähre von Split (SPU) erreichbar`,
+      highlight: `den Platz des Heiligen Stephan und das Arsenal-Theater von 1612, das Panorama von der Fortica Španjola über die Pakleni-Inseln, den Klippenweg am Franziskanerkloster im Hafen, die hundefreundlichen Buchten Palmižana und Mlini auf Sveti Klement, und die UNESCO-Agrarebene von Stari Grad mit 16 km trockensteinummauerten Weinbergwegen`,
+      area: `Hvar-Stadt rund um den Platz des Heiligen Stephan und den Fortica-Hügel, dem Archipel der Pakleni-Inseln vor der Westspitze, Stari Grad und der UNESCO-Ebene 20 km östlich, und Jelsa/Vrboska, dem "kleinen Venedig" an der zentralen Nordküste`,
+    },
+    hyeres: {
+      personality: `ein Ferienort an der Küste des Var mit dem einzigen offiziell ausgewiesenen ganzjährigen Hundestrand an der französischen Riviera (Plage du Mérou cani-plage), einer Tierklinik mit 24-Stunden-Notdienst im Zentrum, und freiem Hundemitnahme auf den TLV-TVM-Fähren nach Porquerolles und Port-Cros`,
+      highlight: `den Hundestrand Plage du Mérou zwischen L'Ayguade und Les Salins, den Doppel-Tombolo-Spazierweg Route du Sel auf der Halbinsel Giens, und das Feuchtgebiet Vieux Salins mit seinen Flamingos`,
+      area: `der palmengesäumten Avenue Gambetta und der mittelalterlichen Vieille Ville hinauf zum Parc Saint-Bernard, der Uferpromenade von Port d'Hyères, und der Halbinsel Giens`,
+    },
+    ibiza: {
+      personality: `die Hauptstadt der Baleareninsel Eivissa, wo die UNESCO-ummauerte Dalt Vila, ein kiefernbewaldetes Inland, und eine überraschend entspannte Nebensaison sie jenseits des Party-Klischees zu einem echten haustierfreundlichen Reiseziel machen`,
+      highlight: `die UNESCO-ummauerte Altstadt Dalt Vila mit ihren Panoramamauern, den ganzjährigen Hundestrand bei Cala Nova, und das Naturschutzgebiet Ses Salines mit seinen Flamingolagunen`,
+      area: `Dalt Vila (UNESCO-Altstadt), den Hafenvierteln Sa Penya und Sa Marina, und dem ruhigeren Familienort Santa Eulalia 15 Minuten nördlich`,
+    },
+    'ile-de-re': {
+      personality: `eine flache, sonnenverwöhnte Atlantikinsel vor La Rochelle, wo mehr als 100 km Radwege den Hund im Fahrradkorb zur lokalen Norm machen und die Leinenstrände, Salzwiesen und Hafendörfer entspannt im Umgang mit Haustieren sind`,
+      highlight: `die UNESCO-Vauban-Festungsanlagen und den Hafen von Saint-Martin-de-Ré, die Salzwiesen und den Leuchtturm Phare des Baleines an der Nordwestspitze, und die langen Atlantiksandstrände von Le Bois-Plage und La Couarde`,
+      area: `Saint-Martin-de-Ré innerhalb seiner sternförmigen Festungsmauern, dem mittelalterlichen überdachten Markt von La Flotte, und dem Strandort Le Bois-Plage-en-Ré`,
+    },
+    innsbruck: {
+      personality: `Tirols Landeshauptstadt, umringt von 2.300 m hohen Alpengipfeln, mit kostenlosem öffentlichem Nahverkehr für Hunde, hundefreundlichen Seilbahnen zu Berggipfeln, einer Café- und Gasthaustradition, die Hunde willkommen heißt, und tierärztlichem Notdienst rund um die Uhr`,
+      highlight: `die vom Zentrum aus per Seilbahn erreichbare Nordkette, den Hofgarten, und die kopfsteingepflasterte Altstadt rund um das Goldene Dachl`,
+      area: `der Altstadt, Wilten, und der Achse Maria-Theresien-Straße`,
+    },
+    interlaken: {
+      personality: `das Tor der Schweizer Jungfrauregion auf dem Bödeli zwischen Thuner- und Brienzersee, wo die 10 Hektar große geschützte Höhematte-Wiese Eiger, Mönch und Jungfrau einrahmt, die Harder-Kulm-Standseilbahn maulkorbtragende Hunde auf 1322 m hinaufbringt, historische BLS-Raddampfer Hunde auf beiden Seen willkommen heißen, und die Tierklinik Interlaken AG mit ihrem 24-Stunden-Notdienst die ganze Region abdeckt`,
+      highlight: `den Harder Kulm bei Sonnenuntergang mit der auskragenden Two Lakes Bridge, den Spazierweg an der Aare zwischen Interlaken West und Ost, und einen BLS-Bootstag auf dem Brienzersee nach Iseltwald und zu den Giessbachfällen`,
+      area: `dem Zentrum des Bödeli rund um die Höheweg, Unterseen an der Aare, und dem südlichen Rand Matten/Wilderswil nahe der Jungfraubahn`,
+    },
+    inverness: {
+      personality: `die Hauptstadt der schottischen Highlands und Tor zu Loch Ness, eine kompakte, wirklich hundefreundliche Stadt am Fluss, in der die Spaziergänge der eigentliche Sinn der Sache sind, die Ness Islands (bewaldete Inselchen, verbunden durch viktorianische Fußgängerbrücken), der Treidelpfad des Caledonian Canal und der Craig-Phadrig-Wald alle kostenlos und nur Minuten vom Zentrum entfernt sind, Hunde kostenlos an der Leine mit ScotRail fahren, und das Inshes Veterinary Centre den örtlichen Notdienst außerhalb der Öffnungszeiten betreibt`,
+      highlight: `die Runde durch die Ness Islands unter den viktorianischen Fußgängerbrücken, den Strand von Dores mit direktem Blick auf Loch Ness neben seinem hundefreundlichen Gasthaus, und eine hundefreundliche Jacobite-Bootsfahrt auf Loch Ness`,
+      area: `dem kompakten Zentrum rund um die Church Street und Castle Street, den Ness Islands und dem Flussufer Bught, und den Stränden der Black Isle bei Rosemarkie und Chanonry Point`,
+    },
+    jurmala: {
+      personality: `Lettlands berühmtester Badeort, 33 km weißer Sandstrand an der Ostsee, 30 Minuten mit dem Zug von Riga entfernt, seit dem 19. Jahrhundert der Sommerspielplatz der Rigaer Elite, mit hölzernen Jugendstil-Datschen in Dzintari und Majori, dem Aussichtspunkt Dubulti, und einem Leinen-Winterstrand für Hunde, der nur vom 1. November bis 31. März geöffnet ist`,
+      highlight: `den 200 Jahre alten Kiefernhain des Waldparks Dzintari, den 33 km langen Nebensaison-Hundestrand von Lielupe bis Kemeri, und den Spaziergang zu den Holzdatschen am Z.-Meierovica-Prospekt`,
+      area: `Majori rund um die Jomas iela, Dzintari rund um die Konzerthalle und den Waldpark, und Dubulti am Aussichtspunkt, wo der Fluss auf das Meer trifft`,
+    },
+    'karlovy-vary': {
+      personality: `die berühmteste Kurstadt der Tschechischen Republik, eingebettet in bewaldete Hügel`,
+      highlight: `die Wanderwege des Kaiserwaldes, die Wege zum Aussichtspunkt Diana, und den Spazierweg an der Eger bis zu den Svatošské-Felsen`,
+      area: `dem Kurviertel, Rybáře, und Tuhnice`,
+    },
+    klagenfurt: {
+      personality: `eine Kärntner Landeshauptstadt mit 104.000 Einwohnern am Ostufer des Wörthersees, dem wärmsten See der Alpen (bis zu 26 Grad im Juli), mit einer kompakten Renaissance-Altstadt, dem ikonischen Lindwurmbrunnen und ausgeschilderten Hundebadeplätzen am See`,
+      highlight: `den Lindwurmbrunnen am Neuen Platz, den Treidelpfad am Lendkanal bis zum Wörthersee, den Kreuzbergl-Wald über der Altstadt, und die Hundebadeplätze Maria Loretto und Krumpendorf am See`,
+      area: `der Altstadt rund um den Alten Platz und den Neuen Platz, dem Europapark und dem Wörtherseeufer rund um Minimundus, und dem bewaldeten Kreuzbergl westlich des Zentrums`,
+    },
+    krakow: {
+      personality: `eine historische polnische Stadt, in der der Ring der Planty-Gärten rund um die Altstadt sie zu einem der fußgängerfreundlichsten Reiseziele Mitteleuropas für Hunde macht`,
+      highlight: `den Grüngürtel Planty, die Wiesen von Błonia, und die Spazierwege am Weichselufer`,
+      area: `der Altstadt, Kazimierz, und Podgórze`,
+    },
+    kaunas: {
+      personality: `Litauens Hauptstadt der Zwischenkriegszeit von 1919 bis 1939, eine kompakte 294.000-Einwohner-Flussstadt, in der 1.500 UNESCO-eingetragene Modernismus-Bauten einen 1,6 km langen Fußgängerboulevard säumen, das barocke Pažaislis-Kloster die Kaunas-Lagune verankert, und zwei Tierkliniken mit 24-Stunden-Notdienst sowie kostenloser Nebenzeit-Hundemitnahme jeden Spaziergang leicht machen`,
+      highlight: `die UNESCO-Modernismus-Routen von Kaunas (Eintragung 2023), das Klostergelände von Pažaislis an der Kaunas-Lagune, und den 63 Hektar großen Eichenhain Ąžuolynas`,
+      area: `der Altstadt entlang der Vilniaus gatvė, Naujamiestis entlang der Laisvės alėja, und dem Standseilbahnhügel Žaliakalnis`,
+    },
+    klaipeda: {
+      personality: `Litauens einziger Ostseehafen und das Tor zur UNESCO-Kurischen Nehrung, eine kompakte 150.000-Einwohner-Stadt, in der die kostenlose Fähre Smiltyne für Fußgänger Hunde in 5 Minuten zu Kiefernwald und weißem Sand übersetzt, die Altstadt Fachwerkhäuser aus der Memel-Zeit und den Theaterplatz vereint, und ein Tierklinikum mit 24-Stunden-Notdienst jede Reise absichert`,
+      highlight: `die kostenlose Smiltyne-Fähre zum Wald und Strand der Kurischen Nehrung, den Theaterplatz mit der Statue der Aennchen von Tharau, und den 12 Hektar großen Skulpturenpark`,
+      area: `der Altstadt entlang der Tiltu- und Turgaus-Straße, der Uferpromenade an der Dane, und Smiltyne jenseits der Lagune`,
+    },
+    lagos: {
+      personality: `die hundetoleranteste Basis der westlichen Algarve, eine ummauerte Altstadt aus dem 16. Jahrhundert mit Fußgängergassen und Terrassen auf dem Gehweg, den ockerfarbenen Kalksteinklippen von Ponta da Piedade mit ihrer 4 km langen Klippenpromenade, der 4 km langen Düne von Meia Praia für Läufe in der Nebensaison, und einer ganzjährigen Hundezone am Praia de Porto de Mós`,
+      highlight: `die Klippenpromenade von Ponta da Piedade, die 4 km lange Nebensaison-Düne von Meia Praia, und die ganzjährige Hundezone am Praia de Porto de Mós`,
+      area: `der ummauerten Altstadt rund um die Praça Gil Eanes und die Praça do Infante, der Uferpromenade Marina de Lagos, und dem Wohnviertel Chinicato am Stadtrand`,
+    },
+    kyoto: {
+      personality: `Japans tausendjährige Kaiserstadt, eine anspruchsvolle, aber wunderschöne Stadt für Hunde, in der die meisten Tempel, Schreine und kostenpflichtigen Gärten Hunde ausschließen, sodass die Freude im Freien entlang des Kamo-Flusses, des Kaiserparks und der historischen Straßen liegt, mit einer eigenen Tierklinik für Nachtnotfälle und dem Shinkansen, der Tokio in etwa 2 Stunden 15 Minuten anbindet`,
+      highlight: `die Ufer des Kamo-Flusses, die Wege des Kyoto Gyoen (des Kaiserparks), und den öffentlichen Bambusweg von Arashiyama sowie den Philosophenweg`,
+      area: `dem zentralen Nakagyo und den Straßen von Higashiyama rund um Gion, dem Flussufer des Kamo, und Arashiyama im Westen`,
+    },
+    'la-rochelle': {
+      personality: `eine atlantische Segelhauptstadt rund um ihren mittelalterlichen Vieux Port, wo drei Wachtürme den Hafen einrahmen, arkadengesäumte Handelsstraßen Hunde vor Regen und Sonne schützen, und die flache, fahrradfreundliche Geografie der Stadt sie zu einer der einfachsten Frankreichs für Erkundungen mit Hund macht`,
+      highlight: `die drei Türme des Vieux Port (Saint-Nicolas, de la Chaîne und de la Lanterne), den fast 2 km langen Grüngürtel Parc Charruyer vom Zentrum bis zum Meer, und die Île de Ré zehn Minuten über die Brücke`,
+      area: `der arkadengesäumten Vieille Ville und den Kais des Vieux Port, dem grünen Korridor des Parc Charruyer, und dem Yachthafen Port des Minimes sowie der Meeresfront im Süden`,
+    },
+    lausanne: {
+      personality: `die Olympische Hauptstadt der Schweiz am Genfersee, eine der von Natur aus hundefreundlichsten Städte Europas, in der Hunde kostenlos mit der Metro fahren, den 200 Hektar großen Wald Sauvabelin durchstreifen, und in praktisch jedem Restaurant willkommen sind`,
+      highlight: `den Stadtwald Forêt de Sauvabelin, den UNESCO-Weinbergweg Lavaux am See entlang, und die Uferpromenade von Ouchy`,
+      area: `Ouchy (am See), dem kreativen Viertel Flon, und der mittelalterlichen Cité`,
+    },
+    lecce: {
+      personality: `das 'Florenz des Südens', eine UNESCO-barocke centro storico, ganz aus honigfarbenem pietra leccese gehauen, hundetolerante Salento-Café-Kultur, und ganzjährige Hundestrände bei Punta Prosciutto und Frassanito 30-45 Minuten mit dem Auto`,
+      highlight: `die Piazza del Duomo und die Basilica di Santa Croce, das römische Amphitheater an der Piazza Sant'Oronzo, und die Salento-Hundestrände bei Punta Prosciutto und Frassanito`,
+      area: `der centro storico rund um die Piazza Sant'Oronzo, dem Viertel Mazzini nahe dem Bahnhof, und dem Wohnviertel Borgo Piave`,
+    },
+    leiden: {
+      personality: `die älteste Universitätsstadt der Niederlande (gegründet 1575) und Rembrandts Geburtsstadt, eine kompakte 125.000-Einwohner-Kanalstadt innerhalb eines Rings aus Grachten des 17. Jahrhunderts, wo die Burcht van Leiden aus dem 12. Jahrhundert, eine runde Burg auf ihrem künstlichen Hügel, die Hooglandse Kerk, die Pieterskerk mit dem Denkmal für die Pilgerväter der Mayflower (die Gemeinde betete hier von 1609 bis 1620, bevor sie in die Neue Welt aufbrach), der Rapenburg-Kanal, das Universiteit-Academiegebouw von 1575, der Hortus Botanicus (ältester botanischer Garten der Niederlande, 1590) und die Windmühle Molen De Valk alle innerhalb des neuen 6 km langen Grünrings Singelpark liegen, 35 Minuten mit dem NS-Zug von Amsterdam Centraal und 12 Minuten von Den Haag Centraal entfernt`,
+      highlight: `die Wehrmauern der Burcht van Leiden (kostenlos, mit Panoramablick, angeleinte Hunde rund um die Uhr willkommen), den Pilgerväter-Spaziergang Rapenburg-Pieterskerk, und die Nordseestrände Katwijk / Noordwijk für Hunde, in 25-30 Minuten mit dem Connexxion-Bus 30/31 erreichbar`,
+      area: `dem Centrum innerhalb der Grachten rund um die Burcht und den Rapenburg, dem Stadtwald Leidse Hout nördlich des Bahnhofs, und dem Polderpark Cronesteyn südlich des Zentrums`,
+    },
+    leipzig: {
+      personality: `Sachsens Musikhauptstadt und die Stadt Bachs, mit dem 5.500 Hektar großen Auenwald mitten im Zentrum, dem hundefreundlichen Treidelpfad am Karl-Heine-Kanal, 11 eingezäunten Hundeauslaufzonen, und einem ganzjährigen Hundestrand am Cospudener See, 12 Minuten mit der S-Bahn entfernt`,
+      highlight: `den Auenwald, den Hundestrand am Cospudener See, und den Treidelpfad am Karl-Heine-Kanal zwischen Plagwitz und dem Karli-Viertel`,
+      area: `der Innenstadt rund um den Markt, dem Karli (Karl-Liebknecht-Straße), und dem kreativen Viertel Plagwitz`,
+    },
+    liepaja: {
+      personality: `Lettlands drittgrößte Stadt und wichtigster südlicher Ostseehafen, die Stadt, in der der Wind geboren wird, mit einem 7 km langen Blaue-Flagge-Strand, das ganze Jahr über offen für angeleinte Hunde, der weltweit größten unrestaurierten mechanischen Orgel in der Dreifaltigkeitskathedrale, und Karosta, dem einzigen Militärgefängnis Europas, in dem man übernachten kann`,
+      highlight: `den 7 km langen Blaue-Flagge-Stadtstrand nördlich des Fischerdenkmals, den 50 Hektar großen Seepark (Jurmalas parks), und den wilden Strand von Karosta jenseits des ehemaligen sowjetischen Marinehafens`,
+      area: `der Altstadt rund um den Rosenplatz, dem Seepark entlang der Liepu iela, und dem Stadtteil Karosta nördlich des Handelskanals`,
+    },
+    lille: {
+      personality: `eine flämisch geprägte nordfranzösische Stadt mit gepflasterten Gassen und backsteinernen Giebelhäusern, Heimat von Europas erstem eigens für Hunde eingerichteten Café, und einem flachen, fußläufigen Zentrum, in dem Hunde kostenlos mit der Métro fahren`,
+      highlight: `den Wehrmauerspaziergang der Citadelle, den Stadtwald Bois de Boulogne, und die Terrassencafés von Vieux Lille`,
+      area: `Vieux Lille, Wazemmes, und dem Studentenviertel Vauban`,
+    },
+    linz: {
+      personality: `Österreichs drittgrößte Stadt an der Donau, eine barocke Altstadt, in der Hunde auf jeder Café-Terrasse willkommen sind, ein 539 m hoher bewaldeter Hügel, erreichbar mit Europas steilster Adhäsionsbahn, eine Freilaufzone mit Flussbaden am Nordufer, und ein Straßenbahnnetz der Linz Linien, das Hunde bei jeder Monatskarte kostenlos mitnimmt`,
+      highlight: `die Pöstlingberg-Basilika, erreichbar mit der historischen Pöstlingbergbahn, die Hundefreilaufzone Urfahr/Donau am Flussufer, und den Skulpturenweg Forum Metall entlang des Donauparks`,
+      area: `der Altstadt rund um den Hauptplatz und den Mariendom, Urfahr jenseits des Flusses, und der Donaulände`,
+    },
+    lisbon: {
+      personality: `eine sonnendurchflutete, hügelige Stadt, deren mildes Klima sie das ganze Jahr über ideal für Reisen mit Haustieren macht`,
+      highlight: `den Waldpark Monsanto, die Uferpromenade von Belém, und die Terrassen von Alfama`,
+      area: `Chiado, Príncipe Real, und Bairro Alto`,
+    },
+    leuven: {
+      personality: `die flämische Universitätshauptstadt von Vlaams-Brabant, Heimat der KU Leuven (der ältesten katholischen Universität der Welt, 1425) und der Stella-Artois-Brauerei, mit einem prächtigen brabantisch-gotischen Stadhuis am Grote Markt, dem UNESCO-Viertel Groot Begijnhof, der 40-plus-Café-Straße Oude Markt, der 'längsten Bar Europas', den 4800 Hektar großen Wäldern Heverleebos und Meerdaalwoud am Südrand, und dem Flughafen Brussels Airport BRU, nur 18 Minuten entfernt mit dem direkten NMBS-Zug`,
+      highlight: `das brabantisch-gotische Stadhuis mit seiner 236-Statuen-Fassade, das UNESCO-Groot Begijnhof Leuven (größtes erhaltenes Beginenhof Belgiens, 1232), die Freilaufzonen im Heverleebos, und Führungen durch die Stella-Artois-Brauerei ab De Hoorn am Vaartkom`,
+      area: `dem Grote Markt rund um das Stadhuis und die Sint-Pieterskerk, der Café-Straße Oude Markt, der Studentenachse Naamsestraat, dem Groot Begijnhof im Süden, und dem Kanalbecken Vaartkom im Norden`,
+    },
+    liverpool: {
+      personality: `eine UNESCO-gelistete Hafenstadt mit einem der größten städtischen Parknetzwerke Nordwestenglands, drei leinenfreien Hundestränden innerhalb von 25 Minuten mit der Merseyrail, und einem Pub-Korridor im Baltic Triangle, der angeleinte Hunde das ganze Jahr über willkommen heißt`,
+      highlight: `die 95 Hektar großen viktorianischen Wiesen des Sefton Park, den Strand von Crosby mit den Eisenmännern von Antony Gormley, und die Uferpromenade des Royal Albert Dock`,
+      area: `der Uferpromenade des Royal Albert Dock, dem Baltic Triangle, und dem Georgian Quarter rund um die Kathedrale`,
+    },
+    ljubljana: {
+      personality: `Europas grüne Hauptstadt. Ein kompaktes, verkehrsfreies Zentrum, in dem Hunde neben ihren Besitzern auf Uferterrassen, durch Schlossgelände und über mittelalterliche Brücken spazieren`,
+      highlight: `den Tivoli-Park (leinenfrei), den Burghügel von Ljubljana, und den Grünzug an der Save`,
+      area: `der Altstadt, Trnovo, und Šiška`,
+    },
+    london: {
+      personality: `eine der von Natur aus haustierfreundlichsten Hauptstädte Europas, in der Hunde ihre Besitzer das ganze Jahr über in Pubs, Cafés und durch weitläufige königliche Parks begleiten`,
+      highlight: `die leinenfreien Bereiche des Hyde Park, Hampstead Heath, und den hundefreundlichen Uferweg an der Themse`,
+      area: `Islington, Notting Hill, und Bermondsey`,
+    },
+    'los-angeles': {
+      personality: `Kaliforniens pazifische Unterhaltungshauptstadt mit einem mediterranen Outdoor-Lebensstil das ganze Jahr über, der 1700 Hektar großen Stadtwildnis Griffith Park mit der Art-déco-Terrasse des Observatoriums und Blick auf das Hollywood-Zeichen, den ausgewiesenen leinenfreien Abschnitten des Runyon Canyon in den Hollywood Hills, dem eingezäunten Hundepark am Silver-Lake-Reservoir, den AB-1681-Terrassenregeln in Tausenden von Restaurants in West Hollywood, Venice, Santa Monica und Silver Lake, Rosie's Dog Beach in Long Beach als einzigem leinenfreien Strand in Los Angeles County, dem Amtrak Pacific Surfliner, der Haustiere bis 20 Pfund entlang der Küste mitnimmt, und tierärztlicher Notversorgung rund um die Uhr in der ganzen Metropolregion`,
+      highlight: `die Terrasse des Griffith-Observatoriums mit Blick auf das Hollywood-Zeichen, die 4,7 km lange leinenfreie Runde durch den Runyon Canyon über Hollywood, die Venice Boardwalk und den Design-Streifen Abbot Kinney, die Travertin-Außengärten des Getty Center in Brentwood, Rosie's Dog Beach in Long Beach (dem einzigen leinenfreien Strand in Los Angeles County), und den Hundepark am Silver-Lake-Reservoir`,
+      area: `West Hollywood und Hollywood rund um den Runyon Canyon und den Walk of Fame, der Westside (Santa Monica, Venice, Brentwood, Westwood) entlang des Pazifiks, Downtown LA und dem Arts District rund um Bunker Hill, Silver Lake und Echo Park an den östlichen Stauseen, Los Feliz am Tor zum Griffith Park, und Long Beach im Süden für Rosie's Dog Beach`,
+    },
+    lucca: {
+      personality: `die perfekt erhaltene ummauerte Stadt der Toskana, wo 4,2 km Renaissance-Wehrmauern (1545-1650) eine flache, grasbewachsene Hunderunde auf den Mauern bilden, wohl Italiens hundefreundlichste größere Stadt`,
+      highlight: `den 4,2 km langen Mauerspaziergang, das ovale Piazza dell'Anfiteatro und die Hundebadezone am Ufer des Serchio`,
+      area: `der ummauerten centro storico rund um die Piazza San Michele, dem Anfiteatro, und dem Bereich nahe der Kathedrale und dem Guinigi-Turm`,
+    },
+    lucerne: {
+      personality: `eine märchenhafte Schweizer Stadt rund um einen tiefen Alpensee, wo überdachte Holzbrücken, hundetolerante Terrassen und hundefreundliche Zahnradbahnen hinauf zu Pilatus und Rigi Mehr-Berge-Hundetage außergewöhnlich einfach machen`,
+      highlight: `die Uferpromenade Schweizerhofquai, den Waldkamm des Sonnenbergs über der Stadt, und die 30 Hektar große Allmend`,
+      area: `der Altstadt, Tribschen, und Hirschmatt-Neustadt`,
+    },
+    locarno: {
+      personality: `das sonnenverwöhnte italienischsprachige Gesicht des Tessins an der Nordspitze des Lago Maggiore, 16.000 Einwohner auf 205 m, wo die Piazza Grande im August die Großleinwand unter freiem Himmel des Filmfestivals Locarno beherbergt, die Wallfahrtskirche Madonna del Sasso in 5 Minuten per Standseilbahn erreicht wird, die Seilbahn Cardada-Cimetta auf 1670 m hinaufführt, die Centovalli-Bahn 100 Täler bis nach Italien durchquert, das römische Brückenbad im Verzascatal smaragdgrün leuchtet, und das subtropische insubrische Mikroklima das sonnigste der Schweiz ist`,
+      highlight: `die Piazza Grande und die mittelalterliche Città Vecchia, die Madonna-del-Sasso-Standseilbahn bei Sonnenuntergang, und den Ponte dei Salti in Lavertezzo im Verzascatal mit seinen sommerlichen Flussbecken`,
+      area: `dem Zentrum rund um die Piazza Grande und die Città Vecchia, Muralto und Minusio entlang der Lungolago, und Ascona an der Uferpromenade 4 km westlich`,
+    },
+    lugano: {
+      personality: `das elegante italienischsprachige Gesicht der Schweiz am Luganersee, wo Hunde kostenlos mit den Seebooten fahren, den Sentiero dell'Olivo nach Gandria entlanggehen, am eigens dafür vorgesehenen Hundestrand von Caslano schwimmen, und mit der Standseilbahn zum Monte Brè auf ein 925 m hohes Panorama hinauffahren`,
+      highlight: `die Uferpromenade Lugano-Paradiso, den Sentiero dell'Olivo nach Gandria, und die Standseilbahn zum Monte Brè bis zur Gipfelterrasse`,
+      area: `dem Zentrum rund um die Piazza della Riforma, dem Uferviertel Paradiso, und Castagnola-Gandria am Ostufer`,
+    },
+    luxembourg: {
+      personality: `die einzige europäische Hauptstadt mit kostenlosem öffentlichem Nahverkehr für alle (Hunde eingeschlossen) seit 2020, mit neun eingezäunten städtischen Hundegehegen innerhalb der Stadt und einer UNESCO-Altstadt, die sich um die dramatischen Flusstäler von Pétrusse und Alzette schmiegt`,
+      highlight: `den Chemin de la Corniche, den Parc de la Pétrusse mit seinen zwei Hundegehegen, und den 600 Hektar großen Bambësch-Wald`,
+      area: `Ville-Haute, dem Grund, und Belair`,
+    },
+    lyon: {
+      personality: `Frankreichs Gastronomiehauptstadt, in der Hunde so alltäglich sind wie Bouchon-Restaurants. Willkommen in Cafés, entlang der Flussufer, und in der ganzen Presqu'île`,
+      highlight: `den Parc de la Tête d'Or, die Ufer von Saône und Rhône, und die Wanderwege am Fourvière-Hügel`,
+      area: `der Presqu'île, Croix-Rousse, und Confluence`,
+    },
+    maastricht: {
+      personality: `die älteste Stadt der Niederlande und Limburgs burgundische Hauptstadt, burgundische Café-Kultur heißt angeleinte Hunde selbstverständlich willkommen, der Waldhügel Sint-Pietersberg erhebt sich direkt südlich des Zentrums, und 22 eingezäunte Losloopgebieden umringen den mittelalterlichen Kern`,
+      highlight: `den Waldhügel Sint-Pietersberg, den Treidelpfad an der Maas nach Belgien, und die Hundebadebucht Pietersplas 5 km südlich`,
+      area: `dem mittelalterlichen Zentrum rund um den Vrijthof, dem Viertel Wyck am rechten Maasufer, und dem Ortsteil Sint Pieter`,
+    },
+    madrid: {
+      personality: `eine der hundeversessensten Hauptstädte Europas: Madrid hat mehr Hunde pro Kopf als fast jede andere europäische Stadt`,
+      highlight: `den Retiro-Park, Casa de Campo, und den leinenfreien Parque del Oeste`,
+      area: `Malasaña, Lavapiés, und Chamberí`,
+    },
+    malaga: {
+      personality: `eine entspannte andalusische Hafenstadt, in der Hunde ihre Besitzer auf Museumsterrassen, in Strandhotels und durch das historische Alcazaba-Viertel begleiten`,
+      highlight: `die Meerespromenade Parque de Málaga, den Naturpark Montes de Málaga, und die Hundezone am Strand von Pedregalejo`,
+      area: `der Altstadt, Soho, und Pedregalejo`,
+    },
+    malmo: {
+      personality: `Südschwedens Küstenhauptstadt, eine kompakte und fahrradfreundliche Stadt, in der 61 eingezäunte Hundeparks jedes Viertel säumen, Hunde kostenlos im gesamten Netz von Skånetrafiken fahren, und der ganzjährige Ribersborg Hundbad einer der besten städtischen Hundestrände Europas ist`,
+      highlight: `den Hundestrand und die leinenfreie Zone von Ribersborg, den 45 Hektar großen Landschaftspark Pildammsparken, und den Küstenweg Sundspromenaden bis zum Westhafen`,
+      area: `Gamla Staden rund um den Lilla Torg, dem kreativen Viertel Möllevången, und Västra Hamnen beim Turning Torso`,
+    },
+    manchester: {
+      personality: `eine der zuverlässigsten hundefreundlichen Städte Großbritanniens, mit kostenloser Mitnahme von Hunden in jeder Metrolink-Straßenbahn und jedem Bee-Network-Bus, hundefreundlichen Pubs in jeder Straße des Northern Quarter und dem 240 Hektar großen Heaton Park eine Straßenbahnfahrt entfernt`,
+      highlight: `der Heaton Park, die Fletcher Moss Botanical Gardens und der Treidelpfad am Bridgewater Canal`,
+      area: `dem Northern Quarter, Ancoats und Castlefield`,
+    },
+    marbella: {
+      personality: `eine Ferienstadt an der Costa del Sol mit zwei offiziellen, ganzjährig geöffneten Hundestränden, einer 7 km langen Strandpromenade, die das Zentrum mit Puerto Banús verbindet, und einer weiß getünchten andalusischen Altstadt, in der die meisten Caféterrassen Hunde grundsätzlich willkommen heißen`,
+      highlight: `die Playa Canina El Pinillo und die Playa Canina Ventura del Mar, die Skulpturenpromenade Avenida del Mar mit den Dalí-Werken und der Küstenweg Senda Litoral`,
+      area: `dem Casco Antiguo rund um die Plaza de los Naranjos, der Strandfront der Golden Mile und Puerto Banús`,
+    },
+    marseille: {
+      personality: `eine sonnenverwöhnte Mittelmeerstadt, in der Leben im Freien, Terrassen und die Küstennatur einen unverkennbar hundefreundlichen Rhythmus prägen`,
+      highlight: `die Wanderwege des Nationalparks Calanques, die per Fähre erreichbaren Frioul-Inseln und die 5 Kilometer lange Promenade Corniche Kennedy`,
+      area: `den Kais des Vieux-Port, dem historischen Viertel Le Panier und dem Fischerhafen Vallon des Auffes`,
+    },
+    maspalomas: {
+      personality: `das klassische Winterurlaubsziel im Süden Gran Canarias, mild und trocken das ganze Jahr über, wo der berühmte Strand selbst für Hunde tabu ist, die Promenaden und nahegelegenen offiziellen Hundestrände es aber zu einer einfachen Basis für die Nebensaison machen`,
+      highlight: `die Strandpromenade Boulevard El Faro am Leuchtturm von Maspalomas, die Vogelwelt der Lagune La Charca und die lange Strandpromenade von Meloneras`,
+      area: `Meloneras, San Fernando de Maspalomas und dem Rand von Playa del Inglés`,
+    },
+    matera: {
+      personality: `eine UNESCO-Weltkulturerbestadt mit 60.000 Einwohnern in der Basilikata, erbaut in die Kalksteinschlucht des Flusses Gravina rund um die Höhlenwohnungen der Sassi von Sasso Caveoso und Sasso Barisano, seit dem Paläolithikum ununterbrochen bewohnt und 2019 zur Europäischen Kulturhauptstadt ernannt, mit der Kathedrale auf dem höchsten Tuffsteinsporn, der Oberstadt Piano rund um die Piazza Vittorio Veneto mit der unterirdischen Zisterne Palombaro Lungo, den Felsenkirchen Madonna de Idris, Santa Lucia alle Malve und San Pietro Caveoso, dem 8.000 Hektar großen Parco della Murgia Materana mit mehr als 150 Felsenkapellen und dem Filmpanorama Belvedere Murgia Timone (The Passion of the Christ, Keine Zeit zu sterben), dem FAL-Zug ab Bari Centrale, der Hunde kostenlos befördert, und dem Pugliairbus-Shuttle vom Flughafen Bari BRI`,
+      highlight: `die UNESCO-Höhlenwohnungen der Sassi von Sasso Caveoso und Sasso Barisano, in die Tuffsteinfelsen über der Gravina-Schlucht gehauen, das Filmpanorama Belvedere Murgia Timone auf der anderen Seite der Schlucht, Schauplatz von The Passion of the Christ (2004) und Keine Zeit zu sterben (2021), der 8.000 Hektar große Parco della Murgia Materana mit mehr als 150 byzantinischen Felsenkirchen und Wandermöglichkeiten ohne Leine, die Piazza Vittorio Veneto mit der unterirdischen Zisterne Palombaro Lungo und die unvollendete Burg Tramontano aus dem 16. Jahrhundert im westlichen Piano`,
+      area: `den UNESCO-Sassi (Sasso Caveoso und Sasso Barisano) an der Ostflanke des Piano über der Gravina-Schlucht, der Oberstadt Piano rund um die Piazza Vittorio Veneto und die Via Lucana, dem Parco della Murgia Materana auf dem gegenüberliegenden Plateau jenseits der Gravina und dem Bahnhof Matera Centrale FAL am südlichen Stadtrand, der über einen 500 m langen Fußweg via Via Don Luigi Sturzo mit dem Zentrum des Piano verbunden ist`,
+    },
+    miami: {
+      personality: `Floridas Art-déco-Hauptstadt South Beach mit ganzjährigem Essen im Freien, zwei ausgewiesenen Freilaufstränden (Hobie Island am Rickenbacker Causeway und Haulover Dog Beach in Sunny Isles), großen eingezäunten Hundeparks in South Pointe, Margaret Pace, Tropical Park und Amelia Earhart, einer Brightline-Fernbahn, die Haustiere bis 11 kg mitnimmt, einem vom CDC zugelassenen internationalen Einreiseflughafen für Hunde (MIA) mit zwei Indoor-Auslaufbereichen und tierärztlicher Notfallversorgung rund um die Uhr in der gesamten Metropolregion`,
+      highlight: `das Art-déco-Viertel Ocean Drive und Lummus Park zwischen der 5th und der 15th Street, die Fußgängerzone Lincoln Road, das Freiluft-Wandbilderviertel Wynwood Walls, die Uferterrassen von Brickell entlang des Miami River, die Bucht-Promenade von Coconut Grove, die mediterranen Revival-Villen von Coral Gables und der Umkreis der Vizcaya-Gärten sowie der Freilauf-Badesee für Hunde im Amelia Earhart Park bei Hialeah`,
+      area: `South Beach und Mid-Beach rund um den Ocean Drive und die Collins Avenue, Brickell und Downtown Miami entlang der Biscayne Bay, Wynwood und dem Design District nördlich von Downtown, Edgewater am Biscayne Boulevard, Coconut Grove an der südlichen Bucht, Coral Gables im Südwesten und Key Biscayne, erreichbar über den Rickenbacker Causeway vorbei am Hobie Beach`,
+    },
+    milan: {
+      personality: `Italiens Design-Hauptstadt, in der immer mehr Luxus- und Boutique-Hotels Haustiere herzlich willkommen heißen`,
+      highlight: `der Parco Sempione, das Kanalviertel Navigli und die weitläufigen Gärten der Villa Reale`,
+      area: `Brera, Navigli und dem Designviertel Porta Venezia`,
+    },
+    modena: {
+      personality: `eine flache, kompakte emilianische Stadt, in der die UNESCO-Piazza Grande, vier eingezäunte Freilauf-Hundeparks und die Lambrusco-Weinhügel eine der hundefreundlichsten Städte Italiens zum Spazierengehen schaffen`,
+      highlight: `der Parco Ducale Estense mit seinem Auslaufbereich, die Freilaufzone des Parco Novi Sad (über 2 ha) und der von Arkaden gesäumte Spaziergang von der Piazza Grande zum Mercato Albinelli`,
+      area: `der historischen Altstadt rund um den Dom und die Ghirlandina, dem Parco Ducale nördlich des Zentrums und dem Parco Novi Sad nördlich des Bahnhofs`,
+    },
+    montpellier: {
+      personality: `eine sonnenverwöhnte Universitätsstadt in Südfrankreich, in der Hunde ihre Besitzer auf schattigen Caféterrassen, in Straßenbahnen und entlang der Uferwege des Lez begleiten`,
+      highlight: `das eingezäunte Freilaufgelände des Parc Méric, der Uferweg Berges du Lez und der nur 20 km entfernte hundefreundliche Strand Grand Travers`,
+      area: `dem mittelalterlichen Zentrum Écusson, der Esplanade Place de la Comédie und dem neoklassizistischen Viertel Antigone`,
+    },
+    montreal: {
+      personality: `eine der ganz wenigen nordamerikanischen Städte, in denen ein ausgewachsener Hund legal mit der Métro fahren darf, unterstützt durch mehr als 65 eingezäunte Hundeauslaufplätze und einen 14,5 km langen autofreien Kanalweg`,
+      highlight: `die Hundeauslaufplätze im Parc Jarry und Parc Sir-Wilfrid-Laurier, der Treidelpfad am Lachine-Kanal vom alten Hafen bis nach Lachine und der angeleinte Aufstieg über den Chemin Olmsted zum Aussichtspunkt Kondiaronk`,
+      area: `Le Plateau-Mont-Royal, Griffintown und den Kais des Vieux-Port sowie Villeray rund um den Parc Jarry`,
+    },
+    montreux: {
+      personality: `die Schweizer Riviera am Genfersee, eine von Palmen gesäumte Belle-Époque-Stadt, in der Hunde auf Caféterrassen willkommen sind, mit den SBB und der Panoramastrecke GoldenPass Line mitfahren dürfen und angeleint durch die UNESCO-Weinberge von Lavaux über dem See spazieren`,
+      highlight: `die 7 km lange Promenade Quais Fleuris vorbei an der Freddie-Mercury-Statue, die Innenhöfe des Château de Chillon aus dem 13. Jahrhundert und der Sentier Viticole durch die UNESCO-Weinbergterrassen von Lavaux`,
+      area: `der Seepromenade Quais Fleuris zwischen Clarens und Territet, dem Vieux Montreux rund um die Église Saint-Vincent und den Weinbergterrassen von Lavaux zwischen Saint-Saphorin und Chexbres`,
+    },
+    munich: {
+      personality: `eine Stadt, in der Hunde in Biergärten, in öffentlichen Verkehrsmitteln und im gesamten Englischen Garten willkommen sind, Europas größtem innerstädtischen Park`,
+      highlight: `der Englische Garten, der Olympiapark und die Isarufer`,
+      area: `Schwabing, Maxvorstadt und Haidhausen`,
+    },
+    nantes: {
+      personality: `Frankreichs lebenswerteste Stadt, mit zehn offiziellen Hundeparks (Caniparcs), einem QUALIDOG-zertifizierten Restaurantnetzwerk und einem 12 km langen hundefreundlichen Kulturweg entlang der Loire`,
+      highlight: `der Caniparc im Parc de Procé, die Kaimauern der Loire und der japanische Garten auf der Île de Versailles`,
+      area: `dem historischen Viertel Bouffay, der Île de Nantes und dem Viertel Procé`,
+    },
+    naples: {
+      personality: `Italiens chaotische, leidenschaftliche Hauptstadt des Südens, mit dichten historischen Gassen, einem 2,5 km langen Fußgänger-Lungomare, dem 134 Hektar großen Bosco di Capodimonte und Trattorien, die Hunde wie Familienmitglieder behandeln`,
+      highlight: `der Lungomare Caracciolo, der Bosco di Capodimonte und der Parco Virgiliano auf Posillipo`,
+      area: `Chiaia, Posillipo und der historischen Altstadt rund um Spaccanapoli`,
+    },
+    narbonne: {
+      personality: `eine 55.000-Einwohner-Stadt im Languedoc-Roussillon mit den freigelegten Überresten der römischen Via Domitia vor dem Hôtel de Ville, dem unvollendeten gotischen Chor der Cathédrale Saint-Just (41 m hoch), dem UNESCO-Canal de la Robine durch das Zentrum, der überdachten Markthalle Les Halles mit hundetoleranten Plancha-Ständen und einer seltenen, ganzjährig geöffneten Freilauf-Plage canine am Mittelmeer bei Saint-Pierre-la-Mer / Fleury-d'Aude (Postleitzahl 11560), 15 Minuten östlich`,
+      highlight: `der Freilauf-Hundestrand Plage canine von Saint-Pierre-la-Mer (Fleury-d'Aude, Postleitzahl 11560), die Garrigue-Wanderwege des Massif de la Clape mit dem Panorama vom Pech Redon und der Treidelpfad am Canal de la Robine durch den Cours Mirabeau`,
+      area: `dem Fußgängerzentrum rund um die Place de l'Hôtel de Ville und den Cours Mirabeau, den Esplanaden des Cours de la République am Kanal und dem Küstenanhängsel Saint-Pierre-la-Mer / Fleury-d'Aude, 15 Minuten östlich`,
+    },
+    nazare: {
+      personality: `eine 10.000-Einwohner-Fischerstadt am Atlantik an Portugals Costa de Prata, die durch die Rekordwellen der Praia do Norte zu einem weltweiten Big-Wave-Ziel wurde, mit dem Klippenviertel Sítio, das über eine historische Standseilbahn von 1889 mit dem unteren Strand verbunden ist, dem Leuchtturm Forte de São Miguel Arcanjo, in dem das Surfmuseum untergebracht ist, und dem breiten Sandstrand Praia da Nazaré, auf dem Hunde im Sommer außerhalb des überwachten Bereichs willkommen sind`,
+      highlight: `die Big-Wave-Klippen der Praia do Norte und die Aussichtsplattformen der WSL Big Wave Tour am Leuchtturm Forte de São Miguel Arcanjo, die Fahrt mit der Standseilbahn nach Sítio und die Klippenesplanade der Wallfahrtskirche Nossa Senhora da Nazaré sowie das 2 km landeinwärts gelegene Hügeldorf Pederneira mit seinen weiß getünchten Häusern`,
+      area: `der unteren Strandpromenade Praia, dem Klippenviertel Sítio, erreichbar mit der Standseilbahn oder über die steile Ladeira do Sítio, und dem historischen Oberdorf Pederneira`,
+    },
+    neringa: {
+      personality: `die UNESCO-Kurische-Nehrung-Kurgemeinde auf einer 52 km langen baltischen Sandnehrung, mit vier Lagunendörfern und 2.500 ständigen Einwohnern, nur per Fähre von Klaipėda erreichbar, wo angeleinte Hunde durch Kiefernwaldwege, über die Sonnenuhrdüne Parnidis und entlang der Lagunenpromenade von Nida streifen`,
+      highlight: `die Sonnenuhr auf der Parnidis-Düne in Nida, der Skulpturenpfad Hexenberg in Juodkrantė und die Lagunenpromenade von Nida mit ihren bunten Fischerhäusern und Wetterfahnen`,
+      area: `Nida (dem südlichen Kurdorf), Juodkrantė (dem zweiten Kurort mit dem Hexenberg) und den ruhigeren Dörfern Preila und Pervalka`,
+    },
+    'new-york': {
+      personality: `die haustierbewussteste Großstadt der USA, mit mehr als 70 Hundeauslaufplätzen, den großzügigsten städtischen Freilaufzeiten des Landes (5-9 Uhr und 21-1 Uhr im Central Park und Prospect Park) und einem rund um die Uhr verfügbaren Tiernotfallnetzwerk mit dem Animal Medical Center als Anker`,
+      highlight: `die Freilaufzeiten im Central Park, der Hundestrand im Prospect Park und die Hundeauslaufplätze im Hudson River Park`,
+      area: `dem West Village, dem East Village und Park Slope in Brooklyn`,
+    },
+    melbourne: {
+      personality: `die hundefreundlichste unter Australiens Hauptstädten, wo große Hunde mit Maulkorb und Leine legal in den S-Bahnen mitfahren dürfen, die Port Phillip Bay ruhige Hundestrände bietet (die Sandown Street in Brighton ist eingezäunt und ganzjährig freilauffähig), die innerstädtischen Parks aus der viktorianischen Ära ausgewiesene Freilaufbereiche besitzen und eine terrassenbasierte Esskultur dafür sorgt, dass Hunde fast überall willkommen sind, wo tatsächlich gegessen wird`,
+      highlight: `der Royal Park und der Princes Park, die Buschwege des Yarra Bend Park, die Royal Botanic Gardens (angeleinte Hunde haben freien Eintritt) und die Hundestrände von Brighton und St Kilda West`,
+      area: `Fitzroy North und Abbotsford im inneren Norden, St Kilda und Port Melbourne an der Bucht sowie Brighton entlang der Sandringham-Bahnlinie`,
+    },
+    menton: {
+      personality: `die östlichste Stadt an der französischen Côte d'Azur, zehn Minuten von der italienischen Grenze entfernt, mit dem wärmsten Mikroklima des französischen Festlands, einer barocken Altstadt, die zur Basilique Saint-Michel-Archange emporsteigt, historischen Gärten (Jardin Serre de la Madone und Val Rahmeh), die angeleinte Hunde zulassen, dem Küstenpfad Sentier Le Corbusier rund um Cap Martin und einer ganzjährigen IGP-Zitronenkultur (Citron de Menton), die im Februar in der Fête du Citron gipfelt`,
+      highlight: `die Vieille Ville und der Vorplatz der Basilique Saint-Michel-Archange, die Promenade du Soleil entlang der Küste, der Jardin Serre de la Madone und Val Rahmeh (beide freundlich zu angeleinten Hunden) sowie der Küstenweg Sentier Le Corbusier rund um Cap Martin`,
+      area: `der zu Saint-Michel emporsteigenden Vieille Ville, dem Zentrum rund um die Jardins Biovès und die Avenue Boyer, Garavan an der Seite der italienischen Grenze und der Küste entlang der Promenade du Soleil`,
+    },
+    newquay: {
+      personality: `eine entspannte Surferstadt im Norden Cornwalls, umgeben von Stränden, wo der Großteil des Sandes das ganze Jahr über hundefreundlich bleibt und Hunde den Küstenweg, die Bootsausflüge im Hafen und die Hafenpubs mit ihren Besitzern teilen`,
+      highlight: `die ganzjährig hundefreundlichen Strände Fistral, Crantock und Watergate Bay, der South West Coast Path rund um Towan Head und Pentire Head sowie die Naturbeobachtungs-Bootsausflüge im Hafen`,
+      area: `dem Hafen mit seinem ganzjährigen Hundestrand, Fistral und der Landzunge Pentire sowie der Flussmündung Gannel in Richtung Crantock`,
+    },
+    padstow: {
+      personality: `ein hübscher Fischerhafen im Norden Cornwalls an der Mündung des Camel, einer der einfachsten Hundeurlaubsorte der Grafschaft, wo Hunde die Pubs am Kai, den flachen Camel Trail und die Strände an der Flussmündung mit ihren Besitzern teilen`,
+      highlight: `die ganzjährig hundefreundlichen Strände Harbour Cove und Daymer Bay, der flache, autofreie Camel Trail und die Black-Tor-Fähre über die Mündung nach Rock`,
+      area: `dem Hafen und der Altstadt, Harbour Cove und Stepper Point entlang des Küstenwegs sowie Rock und Daymer Bay auf der anderen Seite der Mündung`,
+    },
+    nice: {
+      personality: `eine sonnenverwöhnte Mittelmeerstadt, in der Hunde ihre Besitzer auf Restaurantterrassen, auf dem Markt der Altstadt und entlang der berühmten Uferpromenade begleiten`,
+      highlight: `die Promenade des Anglais, der Parc du Mont Boron und die Colline du Château`,
+      area: `der Altstadt (Vieux-Nice), Cimiez und dem Hafenviertel Port`,
+    },
+    nimes: {
+      personality: `die dritte Ecke des provenzalischen Römer-Dreiecks (mit Avignon und Arles), wo die Arènes das seltene Qualidog-Label tragen und angeleinte Hunde jeder Größe kostenlos zulassen, wo sich die 15 Hektar großen Jardins de la Fontaine unterhalb des Tour Magne erstrecken und wo der UNESCO-Pont du Gard 25 km nördlich für einen hundefreundlichen Tagesausflug bereitliegt`,
+      highlight: `die Arènes de Nîmes (kostenloser Qualidog-Zugang für angeleinte Hunde), die Jardins de la Fontaine bis zum Tour Magne und der Pont du Gard mit der Hundeschwimmstelle am Fluss Gardon`,
+      area: `dem historischen Zentrum Écusson rund um die Arènes und die Maison Carrée, dem Quai de la Fontaine und dem Mont Cavalier sowie dem Wohnviertel Vacquerolles südwestlich des Zentrums`,
+    },
+    nuremberg: {
+      personality: `eine mittelalterliche fränkische Stadt, in der die Wirtshauskultur Hunde auch drinnen willkommen heißt, zwei rund um die Uhr verfügbare Tiernotdienste bereitstehen und der 25.000 Hektar große Reichswald am Stadtrand Freilaufflächen bietet`,
+      highlight: `die Gartenanlagen der Kaiserburg, der Hundestrand am Wöhrder See und die Waldwege des Sebalder Reichswalds`,
+      area: `der Altstadt rund um den Hauptmarkt und die Kaiserburg, dem Stadtpark nördlich des Zentrums und dem Wöhrder See östlich der Altstadt`,
+    },
+    opatija: {
+      personality: `die Grande Dame der kroatischen Riviera, ein Belle-Époque-Kurort, in dem angeleinte Hunde die 12 km lange Uferpromenade Lungomare entlanggehen, an zwei ausgewiesenen Hundestränden baden und im bewaldeten Naturpark Učka hinter der Stadt wandern`,
+      highlight: `die gesamte Länge der Lungomare-Promenade, die Hundestrände Punta Kolova und Gornja Ika sowie die Gipfelwege des Učka`,
+      area: `dem historischen Stadtzentrum rund um den Park Angiolina, dem alten Fischerdorf Volosko und der Küste bis nach Ičići und Lovran`,
+    },
+    osaka: {
+      personality: `das pulsierende Handelsherz der Kansai-Region, eine regelgebundene, aber machbare Hundestadt, in der die Transportpflicht in der Tragetasche und überwiegend hundefreie Innenräume das Vergnügen nach draußen verlagern, entlang des Osaka Castle Park, des Dōtonbori-Kanals und der Uferparks, mit dem Shinkansen, der Kyoto in etwa fünfzehn Minuten und Tokio in etwa 2 Stunden 30 Minuten erreicht`,
+      highlight: `die äußeren Wege und Rasenflächen des Osaka Castle Park, das Grün von Nakanoshima- und Utsubo-Park sowie der Spaziergang am Dōtonbori-Kanal`,
+      area: `Kita rund um Umeda und Nakanoshima, dem Vergnügungsviertel Namba und Dōtonbori sowie Tennōji im Süden`,
+    },
+    oslo: {
+      personality: `eine skandinavische Hauptstadt, die durch die Nähe zu Fjorden, Wäldern und dem weitläufigen Wegenetz der Oslomarka zu einem der besten Ziele des Kontinents für aktive Hundebesitzer wird`,
+      highlight: `der Wald Oslomarka, die Halbinsel Bygdøy und der Flussweg entlang der Akerselva`,
+      area: `Frogner, Grünerløkka und Tjuvholmen`,
+    },
+    ostend: {
+      personality: `ein belgischer Königlicher Badeort mit 72.000 Einwohnern an der Nordsee, mit 9 km sandiger Albert-I-Promenade, ganzjährigen Hundestrandzonen in Mariakerke, Raversijde und Oosteroever, der Kusttram (mit 67 km die längste Straßenbahnlinie der Welt), kostenlosen NMBS-Zügen für Hunde nach Brügge in 12 Minuten und Brüssel in 1 Stunde 15 Minuten sowie der Stena-Line-Fähre nach Ramsgate (Großbritannien) in etwa 4 Stunden`,
+      highlight: `die Albert-I-Promenade und die Küste am Kursaal, der Dünen-Erbepark Atlantikwall Raversijde und der 36 Hektar große Maria-Hendrikapark (der größte an der belgischen Küste)`,
+      area: `dem Küstenzentrum rund um den Kursaal und den Marie-José-Park, dem Fischerkai Visserskaai und den Seitenstraßen der Vlaanderenstraat sowie dem westlichen Hundestrand-Zentrum bei Mariakerke und Raversijde`,
+    },
+    oviedo: {
+      personality: `die vorromanische UNESCO-Hauptstadt des grünen Spaniens Asturien, mit einem Fußgänger-Casco Antiguo rund um die gotische Catedral de San Salvador und die Plaza del Fontán, den bekanntermaßen hundefreundlichen Cidre-Terrassen der Calle Gascona (dem Bulevar de la Sidra), einem zentralen Park Campo de San Francisco und einer rund um die Uhr geöffneten Tierklinik in Buenavista`,
+      highlight: `die Wanderwege des Monte Naranco rund um die vorromanischen UNESCO-Kirchen Santa María del Naranco und San Miguel de Lillo mit dem besten Stadtpanorama, dazu die Cidre-Terrassen der Calle Gascona und der Campo de San Francisco`,
+      area: `dem Fußgänger-Casco Antiguo rund um die Kathedrale und die Plaza del Fontán, dem Cidre-Viertel Calle Gascona und dem grünen Hügel Monte Naranco, der sich nördlich der Stadt erhebt`,
+    },
+    oxford: {
+      personality: `eine mittelalterliche Universitätsstadt, in der die honigfarbenen College-Innenhöfe tabu sind, die umliegenden Wiesen, Flusspubs und die Freilauffläche Port Meadow sie aber zu einem der einfachsten Kleinstadt-Hundeausflüge Englands machen`,
+      highlight: `die Freilaufwiese Port Meadow, die Christ Church Meadow und die University Parks`,
+      area: `dem Stadtzentrum, Jericho und North Oxford`,
+    },
+    padua: {
+      personality: `eine als UNESCO-Welterbe gelistete venetische Universitätsstadt, verankert im Prato della Valle, einem der größten Plätze Europas mit 88.620 m², mit mehr als 25 km Arkadengängen und einem flachen, kompakten Centro storico, ideal für lange angeleinte Spaziergänge`,
+      highlight: `der elliptische Kanalrundweg des 88.620 m² großen Prato della Valle, die Marktplätze Piazza delle Erbe und Piazza della Frutta sowie die Uferrunde am Kanal Bacchiglione`,
+      area: `dem Centro storico rund um die Piazza delle Erbe und die Piazza dei Signori, dem Viertel Il Santo rund um die Basilika und dem Viertel Prato della Valle`,
+    },
+    mahon: {
+      personality: `die weiß getünchte Hauptstadt Menorcas am Kopf des nach Pearl Harbor zweitlängsten natürlichen Tiefwasserhafens der Welt, wo Hunde die 5 km lange Promenade Moll de Llevant entlanggehen und der 185 km lange Küstenweg Camí de Cavalls die gesamte Insel umrundet`,
+      highlight: `die Hafenpromenade Port de Maó, die UNESCO-Talayot-Megalithen von Trepucó, der Naturpark S'Albufera des Grau und der Küstenweg Camí de Cavalls GR-223`,
+      area: `der Altstadt, dem Hafenkai Moll de Llevant und der Uferpromenade von Es Castell`,
+    },
+    olomouc: {
+      personality: `eine der ruhigsten, am wenigsten touristisch geprägten UNESCO-Städte Mitteleuropas`,
+      highlight: `der Wallpark Bezručovy sady, die Waldwege von Svatý Kopeček und der hundefreundliche Zoo Olomouc`,
+      area: `der Altstadt, Svatý Kopeček und der Flussaue der Morava`,
+    },
+    palma: {
+      personality: `eine sonnenverwöhnte Inselhauptstadt am Mittelmeer, in der Terrassen, Strände und ein ganzjährig warmes Klima sie zu einer der hundefreundlichsten Städte Spaniens machen`,
+      highlight: `der ganzjährige Hundestrand Es Carnatge, der Parc de sa Riera und das Gelände des Castell de Bellver auf dem Hügel`,
+      area: `Santa Catalina, der Altstadt (Casc Antic) und Portixol`,
+    },
+    soller: {
+      personality: `eine Stadt im Orangental der UNESCO-Serra de Tramuntana im Nordwesten Mallorcas, erreichbar mit einem hölzernen Zug von 1912 und einer historischen offenen Straßenbahn von 1913, wo angeleinte Hunde den Trockenmauer-Wanderweg GR-221 und die natürliche hufeisenförmige Bucht von Port de Sóller unterhalb entlanggehen`,
+      highlight: `die modernistische Plaça d'Espanya, die 4 km lange Leuchtturm-Rundwanderung Camí des Faros über Port de Sóller und der Trockenmauerweg GR-221 Ruta de Pedra en Sec durch Biniaraix`,
+      area: `dem historischen Zentrum rund um die Plaça d'Espanya und die Gran Via, der Küste von Port de Sóller und den Weilern Biniaraix und Fornalutx oberhalb des Tals`,
+    },
+    valldemossa: {
+      personality: `ein 2.000-Einwohner-Dorf der UNESCO-Serra de Tramuntana, 17 km nördlich von Palma, geprägt vom Kloster Real Cartuja aus dem 14. Jahrhundert, in dem Chopin und George Sand 1838-39 überwinterten, dem gepflasterten, blumengesäumten Casc Antic und dem Trockenmauerweg GR-221, der durch das Dorf führt`,
+      highlight: `der Kreuzgang und die Gärten der Real Cartuja (Zelle 4 von Chopin und George Sand), die Plaça pública und die Casa Natal de Santa Catalina Tomàs im Casc Antic sowie der Sonnenuntergangsblick vom Mirador des Pi des Català über die Dächer des Dorfes`,
+      area: `dem Casc Antic rund um die Plaça pública und die Real Cartuja, den oberen Aussichtspunkten Richtung Pla des Pouet und der Fischerbucht Port de Valldemossa, 7 km unterhalb des Dorfes`,
+    },
+    palamos: {
+      personality: `eine 17.000-Einwohner-Fischerhafengemeinde im Zentrum der Costa Brava, in der Comarca Baix Empordà der Provinz Girona, geprägt von ihrer aktiven Flotte im Port de Palamós (nach Volumen die drittgrößte Kataloniens), der nachmittäglichen Fischauktion in der Llotja de Palamós, den mittelalterlichen Klippenruinen des Castell de Sant Esteve de Mar und einer Küste mit vier Buchten von der Platja Gran (Stadtzentrum) bis La Fosca, der postkartenreifen Fischerhüttenbucht Cala S'Alguer, der Platja del Castell mit ihrer ganzjährigen Hundestrandzone im nördlichen Abschnitt und der südlichen Cala Margarida, alle im Norden verbunden durch den 6 km langen Klippenweg Camí de Ronda GR-92 bis nach Calella de Palafrugell, gekrönt von der geschützten Ursprungsbezeichnung Gamba de Palamós und der Slow-Food-Küche Cuina del Peix de Palamós`,
+      highlight: `der aktive Hafenkai Port de Palamós rund um die Fischauktion in der Llotja (17 Uhr), die frei zugänglichen Freiluft-Klippenruinen des Castell de Sant Esteve de Mar mit Panoramablick über La Fosca, die postkartenreife Fischerhüttenbucht Cala S'Alguer (nur zu Fuß über den GR-92 erreichbar) und die ganzjährige Hundestrandzone im nördlichen Abschnitt der Platja del Castell`,
+      area: `der Uferpromenade Passeig del Mar entlang der Platja Gran, dem Hafenkai rund um die Plaça Sant Pere gegenüber der Llotja, dem Casc-Antic-Hügel Sant Joan de Palamós und dem Buchtenkorridor der Nordküste (La Fosca, Cala S'Alguer, Platja del Castell, Cap de Planes)`,
+    },
+    palermo: {
+      personality: `Siziliens chaotisch-barocke Hauptstadt, in der die UNESCO-arabisch-normannische Altstadt, der ganzjährige Hundestrand Mondello Bau-Beach 11 km nördlich und der 400 ha große Parco della Favorita sie zum großzügigsten süditalienischen Hundeziel machen`,
+      highlight: `die barocke Kreuzung Quattro Canti, der 11 km nördlich gelegene Hundestrand Mondello Bau-Beach und der 400 ha große Parco della Favorita am Fuß des Monte Pellegrino`,
+      area: `der Altstadt rund um Quattro Canti und die Märkte Vucciria, Ballarò und Capo, dem Viertel Kalsa und der Küste am Foro Italico`,
+    },
+    pamplona: {
+      personality: `die Pintxo-Hauptstadt Nordspaniens, Hemingways Stadt der San Fermines, mit dem 28 ha großen Zitadellenpark als täglicher Spazierrunde und einem der parkreichsten städtischen Netzwerke Spaniens`,
+      highlight: `der 28 ha große Zitadellenpark mit seiner eingezäunten Freilaufzone, die 11 km lange Grünrundstrecke am Fluss Arga und der Yamaguchi-Park im japanischen Stil`,
+      area: `der mittelalterlichen Altstadt rund um die Plaza del Castillo, der Zitadelle und der Vuelta del Castillo südlich des Zentrums sowie dem Universitätsviertel Iturrama`,
+    },
+    paris: {
+      personality: `eine Stadt, in der Hunde bekanntermaßen in Cafés, Geschäften und vielen Restaurants willkommen sind`,
+      highlight: `der Bois de Boulogne, der Bois de Vincennes und Hunderte kleinerer Plätze`,
+      area: `Le Marais, Saint-Germain-des-Prés und Montmartre`,
+    },
+    parnu: {
+      personality: `Estlands Sommerhauptstadt, eine Kur- und Badestadt, die so entspannt mit Hunden umgeht, dass das Tourismusamt eine eigene Liste hundefreundlicher Cafés veröffentlicht, mit vier offiziellen Hundeschwimmstellen rund um die Bucht`,
+      highlight: `der eingezäunte doppelte Hundepark am Strand Mai, der Bastionspark Vallikäär und der Bohlenweg über die Küstenwiese Rannaniit`,
+      area: `dem Strandviertel rund um die Ranna puiestee, der hölzernen Altstadt entlang der Rüütli-Straße und dem ruhigeren Mai in der Nähe des Hundeparks`,
+    },
+    perpignan: {
+      personality: `die sonnige katalanische Hauptstadt des französischen Südens, eine kompakte, hundefreundliche Stadt mit rund 37 ausgewiesenen Hundebereichen, einer toleranten Terrassenkultur und leichtem Zugang zu den hundefreundlichen Stränden des Roussillon`,
+      highlight: `Le Castillet und die Altstadt, die Wallanlagen des Palais des Rois de Majorque und der ganzjährige Hundebereich am Strand Lido von Canet-en-Roussillon`,
+      area: `dem historischen Zentrum rund um Le Castillet und die Place de Verdun, den Ufern des Têt und der Küste des Roussillon bei Canet und Torreilles`,
+    },
+    perth: {
+      personality: `die australische Hauptstadt mit der längsten Freilaufküste, wo mehr als zwei Kilometer Hundestrand bei Mosman und Leighton rund um die Uhr geöffnet bleiben, während Transperth Haustiere aus allen Zügen, Bussen und Fähren fernhält`,
+      highlight: `der Hundestrand von Mosman und Leighton, der eingezäunte Agility-Park im Ozone Reserve und die Buschwege des Kings Park`,
+      area: `Fremantle, Cottesloe und North Fremantle sowie East Perth`,
+    },
+    perugia: {
+      personality: `eine der hundefreundlichsten Hügelstädte Mittelitaliens`,
+      highlight: `der Hundepark Pian di Massiano, der Spaziergang über das mittelalterliche Aquädukt und die Wanderwege des Monte Tezio`,
+      area: `der Altstadt, Borgo XX Giugno und Pian di Massiano`,
+    },
+    piran: {
+      personality: `Sloweniens venezianisches Juwel an der Adria-Riviera, eine autofreie steinerne Halbinsel mit pastellfarbenen Häusern, dem Tartini-Platz und dem Glockenturm von San Giorgio, mit haustierfreundlichen Terrassen am Meer, Montys Dog Beach in Lucija sowie den Salinen von Sečovlje und den Flysch-Klippen von Strunjan in leichter Reichweite`,
+      highlight: `der Tartini-Platz und die Uferpromenade, der Panoramaweg entlang der Stadtmauern von Piran und Montys Dog Beach in Lucija`,
+      area: `der mittelalterlichen Altstadt rund um den Tartini-Platz, dem Kai Prešernovo nabrežje und der Landzunge mit dem Leuchtturm Punta`,
+    },
+    pisa: {
+      personality: `eine kompakte toskanische UNESCO-Stadt gepaart mit dem 23.000 Hektar großen Park San Rossore und einem ganzjährigen Hundestrand in Marina di Pisa, alles innerhalb von zwanzig Minuten vom Zentrum`,
+      highlight: `die Rasenfläche des Field of Miracles, der Pinienwald von San Rossore und der Hundestrand von Marina di Pisa`,
+      area: `Sant'Antonio, den Lungarni und Borgo Stretto`,
+    },
+    portland: {
+      personality: `eine der Städte Nordamerikas, die wirklich für Hunde gemacht sind, wo überdachte Brewpub-Terrassen, mehr als dreißig Freilaufflächen und ein 5.200 Hektar großer Stadtwald mehr zählen als das Wetter`,
+      highlight: `der Forest Park und der Wildwood Trail, die Freilauffläche The Fields im Pearl District und das Flussufer im Sellwood Riverfront Park`,
+      area: `dem Pearl District, dem Nordwesten Portlands und Slabtown sowie Alberta Arts`,
+    },
+    porto: {
+      personality: `eine hügelige, stimmungsvolle Stadt, in der Hunde zum Alltag gehören, in Straßenbahnen, in den Gärten der Weinbars und entlang der Uferpromenade des Douro`,
+      highlight: `die Jardins do Palácio de Cristal, das Douro-Ufer (Ribeira) und der Park Serralves`,
+      area: `Ribeira, Bonfim und Foz do Douro`,
+    },
+    poznan: {
+      personality: `die Wiege des polnischen Staates, 966 auf der Dominsel gegründet, mit einem der größten mittelalterlichen Marktplätze Europas (Stary Rynek), dem 64 Hektar großen Malta-See mitten in der Stadt und rund vierzig eingezäunten Hundefreilaufzonen über das Zentrum verteilt`,
+      highlight: `der Park Cytadela mit seiner Panoramaterrasse über der Altstadt, die 5 km lange Uferrunde am Malta-See und der 30 km südlich gelegene Nationalpark Wielkopolska für ausgedehnte Waldwanderungen`,
+      area: `der Altstadt rund um den Stary Rynek und die Dominsel, dem alternativen Viertel Jeżyce und dem Viertel Sołacz mit seinem Jugendstilpark`,
+    },
+    torun: {
+      personality: `eine UNESCO-Altstadt aus Backsteingotik an der Weichsel, Geburtsstadt von Nikolaus Kopernikus, mit zwei mittelalterlichen Marktplätzen, dem Schiefen Turm in der Stadtmauer und einem flachen, kompakten Kern, der mit Hund in fünfzehn Minuten zu Fuß zu erkunden ist`,
+      highlight: `der Rynek Staromiejski unterhalb des gotischen Rathauses, der Schiefe Turm und der Spaziergang entlang der Stadtmauer an der Weichsel sowie das Weichselufer Bulwar Filadelfijski unterhalb der mittelalterlichen Mauern`,
+      area: `der UNESCO-Altstadt rund um den Rynek Staromiejski, dem Flussufer entlang des Bulwar Filadelfijski und dem grünen Viertel Bydgoskie Przedmieście westlich des Zentrums`,
+    },
+    prague: {
+      personality: `eine kompakte, gut zu Fuß erschließbare Stadt, in der Hunde in den meisten Kneipen, Weinbars und sogar in manchen überdachten Märkten willkommen sind`,
+      highlight: `die Parks Stromovka und Letná sowie die Uferwege im Nusle-Tal`,
+      area: `Vinohrady, Žižkov und Malá Strana`,
+    },
+    reims: {
+      personality: `die elegante Hauptstadt der Champagne, eine UNESCO-Stadt, in der gotische Kathedralen, Art-déco-Fassaden und von Reben gesäumte Alleen zu ausgedehnten Spaziergängen mit angeleintem Hund einladen`,
+      highlight: `die Promenades rund um die Place de la République, der bewaldete Parc de Champagne und die Treidelpfade des Kanals in Richtung Cernay`,
+      area: `dem historischen Zentrum bei der Cathédrale Notre-Dame, der Place Drouet d'Erlon und dem grünen Viertel rund um den Parc de Champagne`,
+    },
+    regensburg: {
+      personality: `eine bayerische Stadt mit 155.000 Einwohnern an der Donau, deren eine der am besten erhaltenen mittelalterlichen Altstädte Europas (UNESCO-Welterbe seit 2006) mit Hund in 30 Minuten komplett zu Fuß erkundbar ist, deutlich ruhiger als München oder Nürnberg`,
+      highlight: `die Steinerne Brücke aus dem 12. Jahrhundert und das Donauufer, der Stadtpark Regensburg mit der Jahninsel sowie die Terrassen der Walhalla 10 km östlich in Donaustauf`,
+      area: `der UNESCO-Altstadt rund um Domplatz und Haidplatz, dem Inselviertel Stadtamhof jenseits der Steinernen Brücke und den grünen Vierteln rund um den Stadtpark südlich des Zentrums`,
+    },
+    rennes: {
+      personality: `die Regionalhauptstadt der Bretagne, deren mittelalterliches Fachwerkzentrum (nach dem Brand von 1720 wiederaufgebaut), der 10 Hektar große Parc du Thabor und Frankreichs zweitgrößter Samstagsmarkt auf der Place des Lices sie zu einer der fußgänger- und hundefreundlichsten Städte im Nordwesten Frankreichs machen`,
+      highlight: `die Place du Parlement de Bretagne, der zentrale Parc du Thabor und der Treidelpfad entlang der Vilaine, der weiter zum 84 km langen Ille-et-Rance-Kanal Richtung Saint-Malo führt`,
+      area: `dem mittelalterlichen Fachwerkzentrum rund um die Rue du Chapitre und die Place Sainte-Anne, dem eleganten Viertel Thabor-Saint-Hélier aus dem 19. Jahrhundert und dem wiederaufgebauten klassizistischen Viertel rund um das Parlement`,
+    },
+    reykjavik: {
+      personality: `die nördlichste Hauptstadt der Welt und eine der hundefreundlichsten. Mit weiten Lavafeldern, geothermischen Stränden und einer Kultur, die Hunde überallhin mitnimmt`,
+      highlight: `das Tal Elliðaárdalur, der Hügel Öskjuhlíð und der Küstenspaziergang zum Leuchtturm Grótta`,
+      area: `der Altstadt (Miðborg), Laugardalur und Álftanes`,
+    },
+    riga: {
+      personality: `eine wunderschön restaurierte Jugendstilstadt mit einer ausgeprägten baltischen Outdoor-Kultur. Hunde gehören zum Alltag in Parks, auf Märkten und an den Ufern der Daugava`,
+      highlight: `der Waldpark Mežaparks, der Park Bastejkalns und die Uferpromenade an der Daugava`,
+      area: `der Altstadt (Vecrīga), dem Jugendstilviertel und Āgenskalns`,
+    },
+    rimini: {
+      personality: `die Hauptstadt der italienischen Adria-Riviera und eine der besten Strandstädte des Landes für Hundebesitzer, mit dem größten ausgewiesenen Hundestrand an der Küste der Emilia-Romagna und einer entspannten Café-Kultur der Romagna`,
+      highlight: `der Hundestrand Rimini Dog No Problem am Bagno 81-82, die eingezäunte Freilauffläche FIDOPARK im Parco Marecchia und die römische Tiberiusbrücke hinüber zum Borgo San Giuliano`,
+      area: `Marina Centro entlang der Strandpromenade, dem historischen Zentrum rund um die Piazza Cavour und dem bunten Borgo San Giuliano`,
+    },
+    rome: {
+      personality: `eine Stadt, in der Hunde ihre Besitzer überallhin begleiten. Vom morgendlichen Cornetto-Gang bis zum abendlichen Passeggiata-Spaziergang`,
+      highlight: `die Gärten der Villa Borghese, die Freilaufflächen des Parco dell'Appia Antica und die Uferwege am Lungotevere`,
+      area: `Prati, Trastevere und Pigneto`,
+    },
+    roses: {
+      personality: `ein Fischerhafen- und Badeort mit 20.000 Einwohnern an der nördlichen Costa Brava, gruppiert um die Renaissance-Festung Ciutadella de Roses, eine fünfeckige Festungsanlage aus dem 16. Jahrhundert, errichtet unter Karl V. auf dem Gelände der antiken griechischen Kolonie Rhode (8. Jahrhundert v. Chr.) und des römischen Rhodes, mit der 12 km langen Bucht Bahía de Roses, die sich nach Süden öffnet, und dem im Norden aufragenden Naturpark Cap de Creus, dazu das legendäre Erbe des Restaurants El Bulli in der Cala Montjoi (Ferran Adrià, 1962-2011, Foundation-Museum seit 2023)`,
+      highlight: `die Renaissance-Mauern der Ciutadella de Roses mit den ausgegrabenen griechisch-römisch-westgotischen Ruinen, der Dolmen de la Creu d'en Cobertella (der größte Dolmen Kataloniens, ca. 3000 v. Chr.), das Castell de la Trinitat aus dem 17. Jahrhundert auf der Punta Falconera und der südliche Zugang zum Naturpark Cap de Creus über Cala Montjoi und Cala Joncols`,
+      area: `dem casc antic rund um die Esglesia de Santa Maria und die Plaça de Catalunya, dem Passeig Marítim entlang der Bucht Bahía de Roses und dem südlichen Zugang zum Cap de Creus bis nach Cala Montjoi und Cala Joncols`,
+    },
+    rotterdam: {
+      personality: `eine der hundefreundlichsten Städte der Niederlande, in der Haustiere kostenlos im öffentlichen Nahverkehr mitfahren und die meisten Café-Terrassen sie grundsätzlich willkommen heißen`,
+      highlight: `die 28 Hektar große Freilauffläche im Het Park neben dem Euromast, der Wald und See Kralingse Bos sowie der Strand Maasvlakte`,
+      area: `Middelland entlang der Nieuwe Binnenweg, dem Kunstviertel Witte de With und dem Ufer rund um den Veerhaven`,
+    },
+    rugen: {
+      personality: `Deutschlands größte Insel und eine der hundefreundlichsten Küsten der Ostsee, mit offiziellen Hundestrandabschnitten in jedem Ostseebad und fast der gesamten Küste, die von Oktober bis April für Hunde offen ist`,
+      highlight: `die Hundestrände von Binz, Sellin und Baabe, der Hochuferweg entlang der Steilküste durch den Granitz-Wald und die Wanderwege mit Leinenpflicht im Nationalpark Jasmund`,
+      area: `Binz rund um die Promenade und die Strandzugänge 50-51, Sellin in der Nähe der Seebrücke und dem ruhigeren Baabe am Fischerstrand`,
+    },
+    salamanca: {
+      personality: `eine Universitätsstadt aus goldenem Sandstein in Kastilien, seit 1988 UNESCO-Welterbe, in der angeleinte Hunde durch barocke Arkaden schlendern und das Ufer des Tormes das Herz der Abendspaziergänge bildet`,
+      highlight: `die Plaza Mayor und die Rúa Mayor, das Ufer des Tormes (Salas Bajas) und der Parque de los Jesuitas mit seiner eingezäunten Freilauffläche`,
+      area: `der Altstadt rund um die Plaza Mayor, dem Flussufer südlich der Römischen Brücke und dem grünen Bereich nahe der Universidad de Salamanca`,
+    },
+    salcombe: {
+      personality: `eine geschützte Segelstadt in South Devon an der Mündung des Kingsbridge-Ästuars, in der Hunde die Pubs am Wasser, die kleinen Fähren und die Küstenwege des National Trust teilen, mit saisonalen Hunderegeln für den Strandzugang, die sich gut einplanen lassen`,
+      highlight: `die ganzjährig hundefreundlichen Strände North Sands und Mill Bay, die hundefreundlichen Fähren über das Ästuar und der Küstenweg nach Bolt Head und Snapes Point`,
+      area: `der Fore Street und dem Ufer Whitestrand, North Sands und South Sands sowie der Ästuar-Überfahrt nach East Portlemouth und Mill Bay`,
+    },
+    woolacombe: {
+      personality: `ein Surferdorf in North Devon an einem herrlichen, fünf Kilometer langen Blue-Flag-Strand, in dem Hunde die Strandpromenade, die Landzungen des National Trust und einen ganzjährigen Hundestrandabschnitt teilen, mit einem gezonten, saisonalen, aber gut planbaren Strandzugang`,
+      highlight: `der ganzjährig hundefreundliche Sand südlich von Mill Rock und bei Putsborough, die Strandpromenade und das Dorf Mortehoe sowie die Küstenwege nach Morte Point und Baggy Point`,
+      area: `der Strandpromenade von Woolacombe, dem südlichen Strandabschnitt jenseits von Mill Rock bis Putsborough und dem auf einem Hügel gelegenen Dorf Mortehoe`,
+    },
+    salzburg: {
+      personality: `eine kompakte Alpenstadt, in der die Architektur aus der Mozartzeit, sanfte Wiesen und die umliegenden Berge des Salzkammerguts eine bezaubernde Kulisse für Reisen mit Haustier schaffen`,
+      highlight: `der Park Hellbrunn, der Uferweg an der Salzach und die Wanderwege auf den Kapuzinerberg`,
+      area: `der Altstadt, Schallmoos und Mülln`,
+    },
+    'saint-tropez': {
+      personality: `ein provenzalisches Hafenstädtchen mit 4.000 Einwohnern an der westlichen Côte d'Azur, geprägt vom lebendigen Vieux Port mit seinen Cafés unter roten Markisen, der Citadelle aus dem 16. Jahrhundert mit ihrer Esplanade und dem Marinemuseum, dem von Platanen beschatteten Markt an der Place des Lices dienstags und samstags, der 5 km langen Bucht von Pampelonne gleich hinter dem Hügel in Ramatuelle und dem 35 km langen Küstenpfad Sentier du Littoral rund um die gesamte Halbinsel`,
+      highlight: `der Kai des Vieux Port und das alte Fischerviertel La Ponche, die Esplanade der Citadelle mit Panoramablick über den Golf, der Markt und der Pétanque-Platz an der Place des Lices sowie der Sentier du Littoral von der Plage des Salins rund um das Cap de Saint-Tropez`,
+      area: `dem Vieux Port und La Ponche, dem Zentrum rund um die Place des Lices, dem Korridor der Route des Plages Richtung Pampelonne und der östlichen Halbinsel Salins / Cap de Saint-Tropez`,
+    },
+    'san-diego': {
+      personality: `die Stadt mit den meisten Hundestränden in den USA, deren Klima ganzjährig ein Leben im Freien ermöglicht und die rund zwanzig ausgewiesene Freilaufstandorte führt, allen voran der Dog Beach in Ocean Beach (seit 1972 offiziell leinenfrei und rund um die Uhr geöffnet), der Coronado Dog Beach und der leinenfrei nutzbare Uferstreifen von Fiesta Island`,
+      highlight: `der Dog Beach am Fuß der Voltaire Street, der Coronado Dog Beach am Nordende von North Beach, die 8,4 km lange Runde auf Fiesta Island mit geschütztem Baden in der Bucht und die Klippenwege im Sunset Cliffs Natural Park`,
+      area: `Ocean Beach und Point Loma für den direkten Zugang zum Dog Beach, Liberty Station und Bay Park für hundefreundliche Brauerei-Terrassen sowie Little Italy und Mission Valley für die Nähe zur Innenstadt und die 24-Stunden-Tierkliniken`,
+    },
+    'san-francisco': {
+      personality: `das kühle, nebelverhangene Pazifik-Tor zur Bay Area, mit einem der dichtesten Freilaufnetze der USA aus rund 30 eingezäunten Rec & Park Dog Play Areas und den bundesweiten GGNRA-Zonen mit Rufkontrolle (Crissy Field East Beach mit Blick auf die Golden Gate Bridge, die Klippen und der Strand von Fort Funston, Ocean Beach nördlich von Stairwell 21)`,
+      highlight: `der Crissy Field East Beach mit Blick auf die Golden Gate Bridge, der Sunset Trail und Strand von Fort Funston, die Freilaufflächen Hellman Hollow und Speedway Meadow im Golden Gate Park sowie der Küstenweg Lands End zu den Ruinen der Sutro Baths`,
+      area: `der Marina und Pacific Heights für Hotelterrassen, Hayes Valley und der Mission für hundefreundliche Restaurants sowie dem Sunset District und Richmond für die Nähe zum Golden Gate Park und zu Ocean Beach`,
+    },
+    'san-sebastian': {
+      personality: `eine baskische Küstenstadt, in der Hunde in manchen Vierteln zahlreicher sind als Kinder und die Strände ihnen von Oktober bis Mai offenstehen`,
+      highlight: `die Strände La Concha und Zurriola (Oktober–Mai), die Wanderwege auf dem Monte Urgull und der Küstenweg Paseo Nuevo`,
+      area: `der Altstadt (Parte Vieja), Gros und dem Viertel Antiguo nahe dem Monte Igueldo`,
+    },
+    'sankt-polten': {
+      personality: `die ruhige niederösterreichische Landeshauptstadt mit 56.000 Einwohnern an der Traisen, mit einer barocken Fußgänger-Altstadt, dem modernistischen Regierungsviertel und dem Klangturm sowie den Wachauer Weinorten Dürnstein, Spitz und Krems, alle innerhalb von 45 Minuten erreichbar`,
+      highlight: `der Uferweg an der Traisen durch den Traisenpark, die Dachterrasse des Klangturms im Regierungsviertel und ein Tagesausflug in die Wachau nach Dürnstein und Spitz`,
+      area: `der Fußgänger-Altstadt rund um den Rathausplatz, dem modernistischen Regierungsviertel an der Traisen und dem Seenviertel Viehofen nördlich des Zentrums`,
+    },
+    'sant-antoni': {
+      personality: `die westliche Ibiza-Hauptstadt mit 28.000 Einwohnern, weltberühmt für die Klippenbars des Sunset Strip und die seit 1980 bestehende Mixtape-Tradition des Cafe del Mar, die Església de Sant Antoni de Portmany aus dem 14. Jahrhundert (die älteste Kirche Ibizas), das Hostal La Torre und die Punta Galera für ruhigere Sonnenuntergänge sowie die Baleària-Schnellfähre nach Dénia ab dem Port Deportiu Marina`,
+      highlight: `der Sonnenuntergang am Cafe del Mar oder am Hostal La Torre, der Gipfelweg auf die Sa Talaia (475 m, höchste Erhebung Ibizas), außerhalb der Saison die Klippenspaziergänge bei Cala Bassa und Cala Conta sowie Bootsausflüge zum Es Vedrà ab dem Port Deportiu`,
+      area: `dem Passeig Marítim und der Marina Port Deportiu, dem Altstadtplatz rund um die Església de Sant Antoni, dem Sunset Strip vom Cafe del Mar bis Cap Negret und den Buchten der Westküste Cala Bassa, Cala Conta, Cala Tarida und Cala Salada`,
+    },
+    'sant-josep': {
+      personality: `die flächenmäßig größte Gemeinde Ibizas, mit 28.000 Einwohnern über den gesamten Süden der Insel verteilt, Heimat des Es Vedrà (der 382 m senkrecht aus dem Meer ragende Kalksteinmonolith vor der Cala d'Hort), der Sa Talaia (mit 475 m die höchste Erhebung der Insel), der Església de Sant Josep aus dem 18. Jahrhundert am Dorfplatz, des UNESCO-Biosphärenreservats Parque Natural de Ses Salines d'Eivissa i Formentera, der Steinbruchbucht Sa Pedrera (Atlantis) und des 2,7 km langen Strandabschnitts Platja d'en Bossa, wobei der Flughafen Ibiza (IBZ) auf ihrem Gemeindegebiet liegt`,
+      highlight: `der Sonnenuntergang über dem Es Vedrà oberhalb der Cala d'Hort, der Gipfelweg auf die Sa Talaia ab dem Dorf (475 m, höchste Erhebung Ibizas), die Dammwege durch die Salinen von Ses Salines mit winterlichen Flamingos, außerhalb der Saison die Buchtwanderungen bei Cala Vadella und Cala Carbó sowie Bootsausflüge zum Es Vedrà ab der Cala d'Hort`,
+      area: `dem Dorfplatz und casco antiguo von Sant Josep, Sant Jordi de ses Salines neben dem Flughafen, Es Cubells und Cala d'Hort auf den Klippen im Südwesten, den südwestlichen Buchten Cala Vadella, Cala Tarida, Cala Molí und Cala Carbó sowie Cala Jondal, Sa Caleta und Platja d'en Bossa an der Südküste`,
+    },
+    'santa-eulalia': {
+      personality: `der ruhigere Familienort an der Ostküste Ibizas, eine Gemeinde mit 38.000 Einwohnern rund um die weiß getünchte Kirchenfestung Puig de Missa aus dem 16. Jahrhundert, den einzigen ganzjährig fließenden Fluss der Pityusen mit der römischen Brücke Pont Vell und der Windmühle mil de baix, einen langen Paseo Marítimo mit Marina sowie den samstäglichen Hippiemarkt Las Dalias in Sant Carles`,
+      highlight: `das Panorama von der Kirchenfestung Puig de Missa auf dem Hügel, die Talwanderung am Riu de Santa Eulària zur Pont Vell und zur Windmühle mil de baix, der ganzjährige Hundestrand Cala Nova nördlich von Es Canar sowie der samstägliche Hippiemarkt Las Dalias in Sant Carles`,
+      area: `der Strandpromenade und Marina Santa Eulària, der Fußgängerzone Carrer Sant Vicent, dem Tal des Riu de Santa Eulària bis hinauf zum Puig de Missa und den Ostküstenorten Es Canar, S'Argamassa und Cala Llonga`,
+    },
+    sanremo: {
+      personality: `die Blumenhauptstadt der italienischen Riviera in der ligurischen Provinz Imperia, ein freundlicher, ebener Badeort mit Palmenpromenaden und einem der mildesten Klimata Italiens, entspannt mit Hund draußen unterwegs, selbst dort, wo das Casino und die Kircheninnenräume tabu bleiben: angeleinte Hunde spazieren am Corso Imperatrice entlang der Strandpromenade, fahren den langen Küstenweg Pista Ciclabile auf der alten Bahnlinie Genua-Ventimiglia entlang und erreichen einen ausgewiesenen Hundestrand, während die sommerlichen stabilimenti Hunde vom kostenpflichtigen Sand fernhalten`,
+      highlight: `die flache, 24 km lange Pista Ciclabile del Parco Costiero Riviera dei Fiori auf der ehemaligen Küstenbahnlinie, die von Palmen gesäumte Promenade Corso Imperatrice, die exotischen Giardini di Villa Ormond, die mittelalterliche Altstadt La Pigna sowie der kostenlose Hundestrand Pian di Poma und der Hundestrand Baubeach im nahen Arma di Taggia`,
+      area: `der flachen Strandpromenade und dem Corso Imperatrice, dem Porto Vecchio und der Marina Portosole mit dem dahinterliegenden Restaurantplatz Piazza Bresca, der auf dem Hügel gelegenen Altstadt La Pigna sowie den benachbarten Riviera-dei-Fiori-Orten Ospedaletti, Bordighera, Arma di Taggia und San Lorenzo al Mare entlang des Radwegs`,
+    },
+    santander: {
+      personality: `die Hauptstadt Kantabriens an der Bucht, mit einer Belle-Époque-Strandpromenade, der königlichen Halbinsel Magdalena, einer ausgewiesenen Freilaufzone im Parque de las Llamas und Brittany-Ferries-Überfahrten nach Plymouth und Portsmouth ab der Estación Marítima`,
+      highlight: `der 8 km lange Spaziergang am Meer von der Estación Marítima über den Paseo Pereda und die Península de la Magdalena bis zum Faro de Cabo Mayor, dazu die Playa del Sardinero außerhalb der Saison (Okt–Apr)`,
+      area: `dem Casco Antiguo rund um die Kathedrale und den Mercado de la Esperanza, dem Hotelviertel Sardinero und der Halbinsel Magdalena, die die Bucht im Osten abschließt`,
+    },
+    'santiago-de-compostela': {
+      personality: `eine UNESCO-gelistete Pilgerhauptstadt, in der der Camino de Santiago eine tausendjährige Tradition geprägt hat, Hunde durch die mit Granit gepflasterte Altstadt willkommen zu heißen`,
+      highlight: `die vier Plätze rund um die Kathedrale, der Park Alameda mit seiner Freilaufzone Carballeira de Santa Susana und der aussichtsreiche Parque de Bonaval`,
+      area: `dem casco antiguo rund um die Kathedrale, dem grünen Alameda-Korridor und den Wohnvierteln Conxo und Vista Alegre`,
+    },
+    santorini: {
+      personality: `die sichelförmige vulkanische Kykladeninsel, auf der sich weiß getünchte Klippendörfer entlang eines 300 m hohen Kalderarands ziehen, der 10 km lange Klippenweg Fira-Imerovigli-Oia die klassische Hundewanderung bildet (bei Sonnenaufgang oder nach 17 Uhr, mittags werden die Pfoten zu heiß), die im Landesinneren gelegenen Hügeldörfer Pyrgos und Megalochori ruhige, authentische Kykladenatmosphäre bieten und die minoische Bronzezeit-Ausgrabungsstätte Akrotiri unter einem bioklimatischen Dach an der Südspitze liegt`,
+      highlight: `der Klippenweg Fira-Oia entlang der Kaldera, das Kasteli auf dem Hügel von Pyrgos mit 360-Grad-Panorama und die mondlandschaftsartigen Klippen von Vlychada über dem langen schwarzen Sandstrand`,
+      area: `Fira (Hauptstadt und KTEL-Busknotenpunkt) am Kalderarand, den Dörfern im Landesinneren Pyrgos, Megalochori und Karterados für ruhigere, haustierfreundliche Aufenthalte sowie den Orten an der Südküste Perissa, Perivolos und Vlychada`,
+    },
+    sanxenxo: {
+      personality: `Galiciens führender Badeort in den Rías Baixas, in der Provinz Pontevedra, mit dem 750 m langen Blue-Flag-Strand Praia de Silgar, der 6 km langen Strandpromenade Silgar-Baltar, dem nahen Speicherdorf Combarro und den wilden Dünen von A Lanzada, wobei die Strände im Sommer für Hunde gesperrt sind und Ausflüge zu den Inseln Cíes und Ons Haustieren nicht erlaubt sind`,
+      highlight: `die Promenade Silgar-Baltar, der wilde Strand und die Landzunge A Lanzada sowie die ganzjährigen Hundestrände von O Grove etwa 20 km entfernt`,
+      area: `der Strandpromenade und Marina Silgar im Zentrum, dem Fischerviertel Portonovo und der Landenge A Lanzada Richtung O Grove`,
+    },
+    seattle: {
+      personality: `die Hundehauptstadt des pazifischen Nordwestens, mit mehr als einem Dutzend ausgewiesener Freilaufflächen und einer überdachten, beheizten Biergarten-Kultur, die Hunde das ganze Jahr willkommen heißt, was allerdings durch Parkvorschriften ausgeglichen wird, die Hunde von jedem Strand und Badebereich der Stadt ausschließen`,
+      highlight: `die Freilauffläche im Magnuson Park am Lake Washington (die einzige innerstädtische Freilauffläche mit Wasserzugang), die 16 Hektar große County-Freilauffläche im Marymoor Park, mittlerweile fußläufig von der Marymoor Village Station erreichbar, der komplett eingezäunte Westcrest Park in West Seattle sowie die Wege entlang der Elliott Bay und des Burke-Gilman Trail`,
+      area: `Fremont und Wallingford für Taprooms und den Zugang zu den Wegen, Ballard für Biergärten, die Hunde auch drinnen willkommen heißen, sowie Queen Anne und Belltown für Spaziergänge am Wasser ab dem Olympic Sculpture Park`,
+    },
+    sete: {
+      personality: `eine Hafenstadt mit 44.000 Einwohnern im Département Hérault, erbaut an den Hängen des Mont Saint-Clair zwischen dem Mittelmeer und der Austernlagune Étang de Thau, wegen ihres lebendigen Kanalnetzes das Venedig des Languedoc genannt, mit einem 175 m hohen, bewaldeten Aussichtsgipfel, dem Cimetière Marin von Paul Valéry, der 12 km langen Plage de la Corniche mit der ganzjährigen Hundefreilauffläche Lazaret plage canine sowie einer hundefreundlichen Passagierfähre über die Lagune zu den Austerndörfern von Bouzigues`,
+      highlight: `die ganzjährige Hundefreilauffläche Lazaret plage canine an der Plage de la Corniche, die Panoramaterrasse am Mont Saint-Clair bei Notre-Dame de la Salette sowie die Passagierfähre Sète-Mèze über den Étang de Thau`,
+      area: `den Uferpromenaden Quai de la Résistance und Quai de la Marine entlang des Canal Royal, dem historischen Fischerviertel Pointe Courte am Étang de Thau und den bewaldeten Hängen des Mont Saint-Clair oberhalb des Zentrums`,
+    },
+    seville: {
+      personality: `eine der hundefreundlichsten Städte Andalusiens. Wo Hunde unter Orangenbäumen spazieren, ihre Besitzer auf Tapas-Bar-Terrassen begleiten und Parks am Fluss erkunden`,
+      highlight: `der Parque de María Luisa, der Park Alamillo und die Uferpromenade am Guadalquivir`,
+      area: `Triana, Santa Cruz und El Arenal`,
+    },
+    sitges: {
+      personality: `die katalanische Küstenstadt 35 km südwestlich von Barcelona mit 17 Stränden entlang 3,5 km der Costa del Garraf, dem ausgewiesenen Hundestrand Platja de la Bassa Rodona im Zeitfenster August-September, dem Kopfsteinpflaster des Casc Antic rund um die Klippenkirche Sant Bartomeu und den Palau Maricel sowie einer der etabliertesten LGBT-Reiseszenen Europas rund um Carnaval und das Fantastic Film Festival`,
+      highlight: `das Hundezeitfenster an der Platja de la Bassa Rodona und die Bucht Platja dels Balmins außerhalb der Saison, die Silhouette der Klippenkirche Sant Bartomeu über dem Passeig Marítim sowie die Wanderwege im Parc Natural del Garraf im Landesinneren`,
+      area: `dem Casc Antic rund um die Kirche Sant Bartomeu, dem 2 km langen Passeig Marítim vom Hafen Aiguadolç bis Terramar und dem LGBT-Viertel rund um die Carrer del Primer de Maig`,
+    },
+    cadaques: {
+      personality: `das pueblo blanco mit 2.800 Einwohnern am Ende der Bergstraße GI-614 auf der Landzunge Cap de Creus, mit einem weiß getünchten Altstadtviertel, das sich bis zur barocken Església de Santa Maria hinaufzieht, Salvador Dalís Familienhaus in Port Lligat, Spaniens erstem marin-terrestrischem Naturpark, dem östlichsten Festlandleuchtturm Faro de Cap de Creus und einem Tramuntana-Wind, der sowohl die Landschaft als auch den örtlichen Rhythmus prägt`,
+      highlight: `der Küstenweg GR-92 von der Riba Pianc nach Port Lligat vorbei am Casa-Museu Salvador Dalí, die Schieferpfade im Naturpark Cap de Creus zum Leuchtturm und zur Cala Jugadora sowie das Dorfwohnzimmer Plaça Frederic Rahola rund um die abendliche ronda um 19 Uhr`,
+      area: `der Hafenpromenade Riba zwischen Es Baluard und Plaça Frederic Rahola, den schiefergepflasterten Gassen des Altstadtviertels Carrer des Call hinauf zur Santa Maria und der 1,5 km nördlich gelegenen Bucht Port Lligat rund um das Dalí-Haus`,
+    },
+    siena: {
+      personality: `eine UNESCO-Welterbe-Hügelstadt mit 53.000 Einwohnern im südlichen Toskana, erbaut rund um die muschelförmige Piazza del Campo und unterteilt in 17 contrade (mittelalterliche Stadtviertel), die am 2. Juli und 16. August beim Pferderennen Palio gegeneinander antreten, mit dem schwarz-weiß gestreiften Marmordom, dem 102 m hohen Torre del Mangia, dem Palazzo Pubblico aus dem 14. Jahrhundert, den Panoramamauern der Fortezza Medicea, der Pilgerroute Via Francigena durch die Porta Camollia und die Porta Romana, dem Trenitalia-Regionalzug nach Florenz, der maulkorbpflichtige Hunde zum halben Preis mitnimmt, sowie dem Tiemme-Bus nach San Gimignano, Volterra, Montepulciano und zum Flughafen Florenz FLR`,
+      highlight: `die muschelförmige Piazza del Campo mit dem Torre del Mangia und dem Brunnen Fonte Gaia, die 1,2 km lange Panoramarunde auf den Mauern der Fortezza Medicea mit der Freilaufzone an der Südost-Bastion, der mittelalterliche Talgarten Orto de' Pecci in der Senke unterhalb des Campo, die Brunnen und Museen der 17 contrade sowie die Pilgeretappen 31 nach Monteriggioni (20 km nördlich) und 32 nach Ponte d'Arbia (24 km südlich) der Via Francigena durch die sanften Hügel der Crete Senesi`,
+      area: `dem ummauerten UNESCO-Zentrum rund um die Piazza del Campo, die Piazza del Duomo und die drei terzi (Camollia, Città, San Martino), der Fortezza Medicea und den Gärten von La Lizza am nordwestlichen Rand, der Senke Orto de' Pecci direkt unterhalb der Südseite des Campo sowie dem Bahnhof Stazione di Siena am nördlichen Stadtrand, der über Rolltreppen/Laufbänder durch die Galleria Antiporto mit dem Zentrum verbunden ist`,
+    },
+    setubal: {
+      personality: `ein lebendiger Atlantikhafen rund um das Sado-Ästuar, mit türkisfarbenen Kalksteinbuchten der Arrábida 15 Minuten vom Zentrum entfernt, einem kostenlosen, ganzjährigen Schauspiel von Großen Tümmlern von der hundefreundlichen Tróia-Fähre aus, dem 110 km² großen Naturpark Serra da Arrábida, der direkt aus dem Meer aufragt, und einer unterschätzten tasca-Kultur rund um choco frito und Moscatel`,
+      highlight: `die Arrábida-Buchten bei Figueirinha, Galapinhos und Portinho da Arrábida, die hundefreundliche Atlantic-Ferries-Überfahrt zur Halbinsel Tróia sowie das Panorama vom Forte de São Filipe über das Sado-Ästuar`,
+      area: `dem historischen Zentrum rund um die Praça do Bocage und die Avenida Luísa Todi, dem Ufer von Albarquel am westlichen Stadtrand und der Klippenstraße der Arrábida Richtung Portinho`,
+    },
+    sintra: {
+      personality: `die UNESCO-Kulturlandschaft 30 Minuten von Lissabon entfernt, mit bunten romantischen Palästen in der Serra de Sintra, den hundefreundlichen Parkanlagen der Parques de Sintra bei Pena, Regaleira, Monserrate und Capuchos sowie einem milden Atlantikklima, das ganzjährig haustierfreundlich bleibt`,
+      highlight: `die Gärten des Parque da Pena und der Quinta da Regaleira, die Mauern des Castelo dos Mouros sowie die Klippen des Cabo da Roca an der westlichsten Spitze des europäischen Festlands`,
+      area: `der Vila Velha rund um den Palácio Nacional, dem Wohnviertel Estefânia nahe dem Bahnhof und dem Dorfplatz von São Pedro de Sintra`,
+    },
+    sofia: {
+      personality: `eine der günstigsten Hauptstädte der EU, mit fast 500 hundefreundlichen Lokalen, zwei rund um die Uhr geöffneten Tierkliniken und dem 2.290 m hohen Vitosha-Gebirge, das direkt aus der Stadt aufragt`,
+      highlight: `der Borisova Gradina, der Yuzhen Park und die Wanderwege im Naturpark Vitosha`,
+      area: `dem Vitosha Boulevard, Lozenets und Boyana`,
+    },
+    sopot: {
+      personality: `das Kurbad-Herz der polnischen Dreistadt, ein Seebad mit 35.000 Einwohnern, berühmt für Europas längste Holzseebrücke (512 m, angeleinte Hunde kostenlos), seit der Regeländerung 2025 ganzjährigem Hundezugang zum Strand und zwölf kostenlosen Freilaufflächen, darunter die mit Agility-Geräten ausgestattete Błonia Sopockie`,
+      highlight: `die 512 m lange Seebrücke und der Boulevard Monte Cassino, der Hundestrandabschnitt bei den Zugängen 43-45 am Park Północny sowie die Waldwege der Leśna Opera hinauf zur Łysa Góra`,
+      area: `Dolny Sopot rund um die Seebrücke und den Monte Cassino, Karlikowo bei der Freilauffläche Błonia und Kamienny Potok am nördlichen Hundestrand`,
+    },
+    'cinque-terre': {
+      personality: `fünf UNESCO-gelistete ligurische Fischerdörfer (Monterosso, Vernazza, Corniglia, Manarola, Riomaggiore), aufgereiht an terrassierten Klippen in der Provinz La Spezia, dort wirklich hundefreundlich, wo es zählt: angeleinte Hunde fahren im Regionalzug Cinque Terre Express und mit der Fähre des Golfo dei Poeti mit und gehen die Küstenwege des CAI sowie die wiedereröffnete Via dell'Amore, wenngleich die Dörfer steil sind und ihre Strände eingeschränkt zugänglich`,
+      highlight: `die wiedereröffnete Uferpromenade Via dell'Amore zwischen Riomaggiore und Manarola, der Küstenweg Sentiero Azzurro (Blauer Pfad), begehbar mit der Cinque Terre Trekking Card, der aussichtsreiche Klippengarten Punta Bonfiglio oberhalb von Manarola, der Hafen von Vernazza mit dem Aussichtspunkt am Castello Doria sowie das hundefreundliche Fährdeck entlang der gesamten Küste`,
+      area: `den fünf Dörfern Monterosso, Vernazza, Corniglia, Manarola und Riomaggiore, dem flachen Tor zum Norden, Levanto, sowie La Spezia im Süden mit der nächstgelegenen 24-Stunden-Tierklinik`,
+    },
+    portofino: {
+      personality: `das ikonische Fischerdorf der italienischen Riviera, eine Ansammlung pastellfarbener Häuser um einen winzigen, exklusiven Hafen auf einem steilen, bewaldeten Vorgebirge in der Provinz Genua, glamourös, aber mit Hund ehrliche Arbeit: einen Hundestrand gibt es praktisch nicht, die Küste ist felsig und teuer, doch angeleinte Hunde schlendern über die flache Piazzetta am Hafen, steigen hinauf zum Castello Brown und zum Leuchtturm und wandern auf den Wegen des Parco di Portofino bis nach San Fruttuoso`,
+      highlight: `die flache Piazzetta am Hafen mit ihren hundefreundlichen Terrassen, der Aufstieg unter freiem Himmel vorbei an der Kirche San Giorgio zum Castello Brown und weiter zum Leuchtturm Faro di Portofino, der Wanderweg mit Leinenpflicht über das Vorgebirge zur Abtei San Fruttuoso sowie der Küstenweg nach Paraggi und Santa Margherita`,
+      area: `der flachen Piazzetta am Hafen im Herzen des Dorfes, dem dahinterliegenden, bewaldeten Parco Naturale Regionale di Portofino, der Bucht Paraggi Richtung Santa Margherita sowie den Toren Santa Margherita Ligure und Rapallo, wo Busse und Fähren verkehren`,
+    },
+    portoroz: {
+      personality: `Sloweniens Belle-Époque-Kurbad an der istrischen Küste, eine flache, gut zu Fuß erschließbare Strandpromenade mit Palmenalleen und großen Thalasso-Hotels, draußen wirklich hundefreundlich, auch wenn die Kurinnenräume es nicht sind, mit Monty's Dog Beach in Lucija, dem Skulpturenpark Forma Viva auf der Halbinsel Seča sowie den Salinen von Sečovlje und dem autofreien Piran, alle bequem erreichbar`,
+      highlight: `Monty's Dog Beach in Lucija, der Skulpturenpark Forma Viva auf der grünen Halbinsel Seča sowie der flache Uferweg nach Piran`,
+      area: `der Palmenpromenade und Marina im Zentrum des Kurorts, Lucija rund um den Hundestrand sowie der Halbinsel Seča und den Salinen von Sečovlje`,
+    },
+    positano: {
+      personality: `das vertikale Juwel der Amalfiküste, eine Kaskade pastellfarbener Häuser, die in der Provinz Salerno die Klippe zum Meer hinabstürzt, wunderschön, aber anspruchsvoll mit Hund: die Stadt ist eine Treppe aus Hunderten Stufen, die meisten Strände schränken Hunde ein und der Stein glüht im Sommer, doch angeleinte Hunde fahren in den SITA-SUD-Bussen und den Fähren von Travelmar und Alicost mit und wandern vor allem den spektakulären Götterweg oberhalb der Küste`,
+      highlight: `der Sentiero degli Dei (Götterweg) von Bomerano nach Nocelle mit angeleintem Hund, der flache Uferweg Via Positanesi d'America zwischen Spiaggia Grande und Fornillo, die Kirche Santa Maria Assunta mit ihrer Majolika-Kuppel und ihrer Piazza, das grünere Bergdorf Nocelle sowie die kühlere Hochebene Agerola, wo der Weg beginnt`,
+      area: `der Spiaggia Grande auf Strandhöhe und dem ruhigeren Fornillo, dem oberen Ortsteil entlang der Viale Pasitea, bedient vom orangefarbenen internen Shuttle, dem Bergdorf Nocelle oberhalb des Zentrums sowie den Toren Sorrent jenseits des Passes und Amalfi entlang der Küste`,
+    },
+    sorrento: {
+      personality: `eine Klippenstadt mit 16.000 Einwohnern in Kampanien, in der Metropolitanstadt Neapel gelegen, die als Drehkreuz für die Amalfiküste, Capri, Ischia und Pompeji dient (3 Millionen Touristen im Jahr), mit der historischen Piazza Tasso, den aussichtsreichen Klippengärten der Villa Comunale 80 m über dem alten Fischerhafen Marina Grande, dem Tragflügelboot-Knotenpunkt Marina Piccola (Capri 25 Min, Ischia 50 Min, Neapel 35 Min), der EAV Circumvesuviana, die als einzige maulkorbpflichtige Hunde kostenlos auf der direkten 35-minütigen Fahrt nach Pompei Scavi mitnimmt, sowie dem SITA-SUD-Bus entlang der Amalfiküste nach Positano, Amalfi und zum Ausgangspunkt des Götterwegs`,
+      highlight: `die Klippengärten der Villa Comunale mit der 180-Grad-Panoramaterrasse über den Golf von Neapel bis zum Vesuv, der alte Fischerhafen Marina Grande mit dem Steg Bagni Delfino der Familie De Gregorio, der dramatische Aussichtspunkt an der Schlucht Vallone dei Mulini, das natürliche Meeresbecken Bagni della Regina Giovanna an der römischen Villa des Pollio Felice 2 km westlich sowie der Ausgangspunkt des Götterwegs (Sentiero degli Dei) 12 km östlich bei Bomerano`,
+      area: `dem centro storico rund um die Piazza Tasso und den Corso Italia, den Klippen der Villa Comunale und dem Chiostro di San Francesco oberhalb von Marina Grande, dem Fährterminal Marina Piccola am Fuß der Klippe (mit Aufzug erreichbar) sowie den Orten im Landesinneren Sant'Agnello, Piano di Sorrento und Meta an der Circumvesuviana-Linie`,
+    },
+    split: {
+      personality: `eine entspannte kroatische Küstenstadt, in der die Adria-Uferpromenade, der antike Diokletianpalast und eine entspannte lokale Kultur sie zu einem herausragenden Reiseziel für Haustierbesitzer machen`,
+      highlight: `der Waldpark Marjan-Hügel, die Hundezone am Strand Bačvice und der Küstenweg nach Stobreč`,
+      area: `Meje, die Umgebung der Altstadt und das Viertel Manuš`,
+    },
+    'st-ives': {
+      personality: `eine weißsandige Hafenstadt in Cornwall und berühmte Künstlerkolonie, in der Hunde sich den Küstenweg, die Hafenkneipen und die Bootsausflüge zu den Seehunden teilen, wobei der Strandzugang durch saisonale Hunderegeln geregelt ist, die sich leicht einplanen lassen`,
+      highlight: `der ganzjährig hundefreundliche Bamaluz Beach, der South West Coast Path Richtung Zennor und die hundefreundlichen Bootsausflüge zur Seal Island`,
+      area: `die Hafenfront und der Smeaton's Pier, die alten Downlong-Fischergassen und der Porthmeor Beach unterhalb der Tate`,
+    },
+    'st-moritz': {
+      personality: `der alpine Luxus-Maßstab im Engadin von Graubünden auf 1856 m, wo 322 Sonnentage im Jahr (die meisten der Schweiz) den zugefrorenen Wintersee Lej da San Murezzan erstrahlen lassen, zusammen mit der historischen Skeleton-Bahn Cresta Run, der Panorama-Standseilbahn Muottas Muragl von 1907, der Diavolezza-Gletscherbahn auf 2978 m und der UNESCO-Rhätischen Bahn Gletscher- und Bernina-Express`,
+      highlight: `die 4,5 km lange Runde um den Lej da San Murezzan zwischen St. Moritz-Dorf und St. Moritz-Bad vorbei an der Mauritiusquelle-Kapelle, der Panoramaweg Senda Filosofica auf Muottas Muragl über die vier Engadiner Seen und der Wanderweg durchs Val Roseg ab Pontresina mit Pferdekutschen-Option`,
+      area: `St. Moritz-Dorf rund um die Via Maistra und den Schiefen Turm, St. Moritz-Bad am Seeufer und bei der bronzezeitlichen Mauritiusquelle sowie die umliegenden Oberengadiner Dörfer Pontresina, Sils Maria und Silvaplana`,
+    },
+    stavanger: {
+      personality: `Norwegens drittgrößte Stadt und das Tor zum Lysefjord, mit einer UNESCO-gewürdigten hölzernen Altstadt (Gamle Stavanger), außergewöhnlich hundefreundlichen Verkehrsmitteln (kostenlose Busse, kostenlose Züge, kostenlose Fjordfähren), dem ikonischen Pulpit Rock 50 Minuten östlich und 35 km hundefreundlichem Atlantiksand 15 Minuten südlich`,
+      highlight: `die Wanderung zum Pulpit Rock (Preikestolen) mit angeleintem Hund, die Lysefjord-Kreuzfahrt und der Atlantik-Hundestrand Solastranden 15 Minuten vom Zentrum`,
+      area: `der Hafen Vågen und die hölzerne Altstadt Gamle Stavanger, die bunte Fargegata-Straße und das Viertel am See Mosvatnet`,
+    },
+    stockholm: {
+      personality: `eine Stadt, in der Hunde zum Alltag gehören, auf Fähren, in Cafés und über die Schäreninseln hinweg`,
+      highlight: `die Insel Djurgården, der Hagapark und das Wanderwegnetz der Schären`,
+      area: `Södermalm, Östermalm und Djurgården`,
+    },
+    strasbourg: {
+      personality: `eine der stimmungsvollsten UNESCO-Städte Europas, in der elsässische Kultur, Weihnachtsmärkte und ein entspannter Umgang mit Hunden sie zu einem ganzjährigen Reiseziel für Haustierbesitzer machen`,
+      highlight: `der Parc de l'Orangerie, die Kanäle von Petite France und die Jardins des Deux Rives am Rhein`,
+      area: `Petite France, die Krutenau und das Europaviertel`,
+    },
+    stuttgart: {
+      personality: `eine süddeutsche Landeshauptstadt in einem grünen Talkessel aus Weinbergen und Buchenwäldern, wo Biergärten und Wirtschaften Hunde ausnahmslos willkommen heißen und drei eingezäunte Freilaufzonen das Zentrum umgeben`,
+      highlight: `das Schlossgarten-Band, die Waldseen am Bärensee und der Höhenpark Killesberg`,
+      area: `Mitte, Süd und Bad Cannstatt`,
+    },
+    tallinn: {
+      personality: `eine märchenhafte mittelalterliche Stadt mit einer fortschrittlichen estnischen Haltung gegenüber Haustieren, in der Hunde die meisten Geschäfte betreten, die Altstadt besuchen und frei die Küstenwege erkunden`,
+      highlight: `der Kadriorg-Park, der Küstenweg Pirita und die Naturwanderungen im Moor Pääsküla`,
+      area: `Kalamaja, Telliskivi und die Altstadt`,
+    },
+    tampere: {
+      personality: `Finnlands drittgrößte Stadt und die inoffizielle Saunahauptstadt, mit außergewöhnlich hundefreundlichen Verkehrsmitteln (kostenlose Straßenbahnen, kostenlose Züge), 22 eingezäunten Koira-aitaus, zwei Hundestränden am See in Gehweite vom Zentrum und dem ikonischen Pyynikki-Kamm mit ganzjährigem Hundegassigehen`,
+      highlight: `der Pyynikki-Kamm mit dem Aussichtsturm-Café, die Hundestrände Pyynikki und Niihama an den beiden Seen und der Uferweg entlang der Stromschnellen Tammerkoski durchs Zentrum`,
+      area: `das Zentrum zwischen den Stromschnellen Tammerkoski und der Hämeenkatu, das Kreativviertel Finlayson und der Pyynikki-Kamm am See`,
+    },
+    taormina: {
+      personality: `der sizilianische Klippenbalkon 200 m über dem Ionischen Meer, dem Ätna zugewandt, und Drehort der HBO-Serie White Lotus Staffel 2, mit einem fußgängerfreundlichen Corso Umberto, der sich durch das mittelalterliche Zentrum zwischen Porta Catania und Porta Messina zieht, dem griechisch-römischen Teatro Antico aus dem 3. Jahrhundert v. Chr. mit Blick über den Ätna und die Bucht, der Seilbahn Funivia hinunter zur Kieselbucht Mazzarò, dem gezeitenabhängigen Inselchen Isola Bella als Naturschutzgebiet und einem langen ausgewiesenen Sandstrand für Hunde in Letojanni 5 km nördlich`,
+      highlight: `das Panorama-Teatro Antico über dem Ätna und dem Ionischen Meer, der Spaziergang entlang des Corso Umberto von der Porta Catania zur Piazza IX Aprile und den Gärten der Villa Comunale, die Seilbahn Funivia hinunter nach Mazzarò und dem Damm zur Isola Bella, der ausgewiesene Hundestrandabschnitt Sea Cup Beach in Letojanni 5 km nördlich und ein Ausflug in die Ätna-Vorberge zum Rifugio Sapienza auf 1923 m`,
+      area: `der fußgängerfreundliche Corso Umberto zwischen Porta Catania und Porta Messina, die Piazza IX Aprile mit der Terrasse Sant'Agostino und der Wanderung zur Madonna della Rocca darüber, die Gärten der Villa Comunale Trevelyan am Meeresrand und die Uferpromenade von Mazzarò und Isola Bella 200 m tiefer, erreichbar mit der Funivia`,
+    },
+    tarifa: {
+      personality: `die südlichste Stadt des europäischen Festlands und Welthauptstadt des Kite- und Windsurfens, eine winzige weiß getünchte mittelalterliche Altstadt, umgeben von 10 km flachem Sandstrand, wo angeleinte Hunde außerhalb der Badesaison unter dem Levante-Wind spazieren gehen und eine 35-minütige Fähre nach Tanger übersetzt`,
+      highlight: `der Casco Antiguo rund um das Castillo de Guzmán el Bueno, die 10 km lange Playa de Los Lances bei Sonnenaufgang und die römischen Ruinen von Baelo Claudia hinter dem hundefreundlichen Strand Bolonia`,
+      area: `der ummauerte Casco Antiguo, der Hafen und die Promenade Alameda sowie die dünengesäumten Strände Los Lances und Valdevaqueros nordwestlich der Stadt`,
+    },
+    tarragona: {
+      personality: `Kataloniens UNESCO-römischer Seehafen an der Costa Daurada, mit drei ausgewiesenen Hundestränden, einem Freiluft-Amphitheater aus dem 2. Jahrhundert, das zugleich der schönste angeleinte Spaziergang der Stadt ist, und einem rund um die Uhr geöffneten Referenz-Tierkrankenhaus in La Canonja`,
+      highlight: `das römische Amphitheater mit seinem Meerblick-Aussichtspunkt, der Hundebereich am Platja Llarga und die versteckte Bucht Cala Fonda durch den Kiefernwald Bosc de la Marquesa sowie der Passeig Arqueològic um die römischen Stadtmauern`,
+      area: `die mittelalterliche Part Alta mit den römischen Stadtmauern, die Rambla Nova, die am Balcó del Mediterrani endet, und der Strand Platja del Miracle an der Uferpromenade`,
+    },
+    tavira: {
+      personality: `die ruhigere östliche Algarve-Stadt, geteilt durch den Rio Gilão und seine siebenbogige Ponte Romana, wo weiß getünchte Gassen von der Praça da República zu rund 37 Kirchen und dem hügelgelegenen Castelo führen, mit dem Naturpark Ria Formosa direkt vor der Tür und nur per Fähre erreichbaren Barriereinsel-Stränden, die die Menschenmassen fernhalten`,
+      highlight: `die Fähre zur Ilha de Tavira ab Quatro Águas, die Miniaturbahn und der Ankerfriedhof am Praia do Barril, die Deichwege der Salinas de Tavira mit Flamingos und das Klippendorf Cacela Velha 10 km östlich`,
+      area: `das centro histórico rund um die Praça da República und das Castelo, die Uferpromenaden am Ostufer des Rio Gilão sowie das Tintenfischerdorf Santa Luzia und das Sandbankdorf Cabanas de Tavira`,
+    },
+    texel: {
+      personality: `die schmerzlos hundefreundlichste Wattinsel der Niederlande, eine 24 km lange Nordsee-Landzunge, 20 Minuten mit der für Hunde kostenlosen TESO-Fähre von Den Helder entfernt, mit fünf ganzjährigen Freilauf-Hundestränden (Paal 8, 9, 17, 28, 31), dem 4.300 Hektar großen Nationalpark Duinen van Texel entlang des westlichen Dünengürtels, dem 850 Hektar großen Kiefernwald De Dennen mit ganzjährigen Freilaufrunden, sieben unterschiedlichen Dörfern (Den Burg die pflastersteingepflasterte Hauptstadt, De Koog neben den Strandpavillons, Oudeschild mit der Texelse Bierbrouwerij, Den Hoorn das kleinste, De Cocksdorp beim Leuchtturm Eierland) und dem Salzmarsch De Slufter, ein NATURA-2000-Gebiet an der Nordwestküste`,
+      highlight: `die fünf ganzjährigen Freilauf-Hundestrände bei Paal 8, 9, 17, 28 und 31, die Freilaufrunden im Kiefernwald De Dennen sowie das Robbenschutzzentrum EcoMare und der Aufstieg zum roten Leuchtturm Eierland mit angeleintem Hund`,
+      area: `Den Burg rund um den gepflasterten Groeneplaats und die Hervormde Kerk von 1517, der Strandpavillon-Streifen von De Koog neben Paal 17, der Dorfplatz von Den Hoorn, der Hafen und die Brauerei von Oudeschild sowie der Leuchtturmkomplex von De Cocksdorp an der Nordspitze`,
+    },
+    'the-hague': {
+      personality: `eine stattliche niederländische Hauptstadt, in der 11 km Nordseeküste, hundefreundliche Dünen und hundefreundliche Cafés eine Straßenbahnfahrt vom Zentrum entfernt liegen`,
+      highlight: `der Westduinpark und die Bosjes van Poot, der Waldpark Haagse Bos und das Landgut Clingendael`,
+      area: `Statenkwartier, Hofkwartier und der Hafen Scheveningen`,
+    },
+    thessaloniki: {
+      personality: `Griechenlands zweitgrößte und eine der hundefreundlichsten Städte des Landes, eine 2.300 Jahre alte Hafenstadt, in der Hunde auf Terrassen, im Altstadtviertel und entlang der 3,5 km langen Uferpromenade Nea Paralia willkommen sind`,
+      highlight: `der Uferpark Nea Paralia (mit einem eigenen Hundebereich), der Stadtwald Seich Sou und die byzantinischen Mauerwege in Ano Poli`,
+      area: `Ano Poli (Oberstadt), Ladadika und die Uferpromenade`,
+    },
+    toledo: {
+      personality: `die mittelalterliche Kaiserstadt und ehemalige Hauptstadt der Westgoten, Mauren und Christen, ein UNESCO-gewürdigtes Freilichtmuseum auf einem Granitfelsen über dem Tajo, mit Madrid nur 33 Minuten entfernt mit dem Hochgeschwindigkeitszug Avant`,
+      highlight: `der Aussichtspunkt Mirador del Valle mit dem ikonischen Skyline-Panorama, der Rundweg Senda Ecológica entlang des Tajo und die mittelalterliche Brücke Puente de San Martín`,
+      area: `der Casco Histórico rund um die Plaza de Zocodover, die Judería mit dem El-Greco-Museum und La Vega jenseits der Puente de San Martín`,
+    },
+    tokyo: {
+      personality: `Japans elektrisierende Hauptstadt, in der neonbeleuchtete Kreuzungen in Shibuya, jahrhundertealte Tempel und ruhige Wohnstraßen Seite an Seite liegen, mit strengeren Haustierregeln als in Europa, aber ausgezeichneten registrierten Hundeauslaufplätzen, Uferparks an der Tokyo Bay und rund um die Uhr geöffneten englischsprachigen Tierärzten`,
+      highlight: `der Hundeauslaufplatz im Yoyogi-Park nahe Harajuku, der Hundeauslaufplatz im Komazawa Olympic Park in Setagaya und der Hundeauslaufplatz mit Strand an der Tokyo Bay in Jonanjima`,
+      area: `die international geprägten hundefreundlichen Viertel Hiroo und Azabu-Jūban, die stilvollen Cafés von Daikanyama und Jiyugaoka sowie die Uferparks von Odaiba und Kasai Rinkai`,
+    },
+    toronto: {
+      personality: `eine der wenigen nordamerikanischen Städte, in denen Hunde jeder Größe außerhalb der Wochentags-Stoßzeiten kostenlos U-Bahn, Straßenbahn und Bus fahren, unterstützt von mehr als achtzig ausgewiesenen Freilaufzonen und einem Gesetz Ontarios, das Hunde auf Restaurantterrassen erlaubt`,
+      highlight: `der ganzjährige Hundestrand am Cherry Beach im Outer Harbour, das 3,4 Hektar große Freilaufgebiet Dog Hill im High Park und die angeleinte Fährüberfahrt zum autofreien Toronto Island Park`,
+      area: `die viktorianischen Fußgängergassen des Distillery District, die Terrassen und Parks von Leslieville und The Beaches sowie die Schluchtwege rund um die Evergreen Brick Works im Don Valley`,
+    },
+    'tossa-de-mar': {
+      personality: `eine Costa-Brava-Sud-Strandstadt mit 5.700 Einwohnern rund um die Vila Vella aus dem 12. Jahrhundert, das einzige befestigte mittelalterliche Zentrum, das an der gesamten katalanischen Küste erhalten ist, mit vier Wachtürmen, vollständig erhaltenen Zinnenmauern und den gotischen Ruinen der Burgkirche Sant Vicenç im Inneren, sowie der Bronzestatue von Ava Gardner zur Erinnerung an die Dreharbeiten von Pandora und der fliegende Holländer von 1951 auf den Felsen über der Platja Gran`,
+      highlight: `die Zinnenmauern der Vila Vella aus dem 12. Jahrhundert mit ihren vier Wachtürmen (Joanàs, Hores, Mare de Déu, Codolar), der 9 km lange Küstenweg Camí de Ronda GR-92 südwärts vorbei an Cala Bona, Cala Pola, Cala Llevadó und Cala Giverola bis nach Lloret de Mar, und der Leuchtturm Far de Tossa von 1917 an der östlichsten Spitze der Landzunge`,
+      area: `die ummauerte Landzunge Vila Vella über der Platja Gran, die Cafés am Passeig del Mar und an der Plaça d'Espanya zwischen der Vila Vella und dem zentralen Strand sowie die Wohngebiete landeinwärts von der Avinguda Mar Menuda`,
+    },
+    toulon: {
+      personality: `eine der wirklich hundefreundlichsten großen französischen Mittelmeerstädte, mit einer Seilbahn zum Mont Faron, die Hunde kostenlos mitnimmt, dem seltenen Fall eines französischen städtischen Bus- und Bateau-Bus-Netzes, das große Hunde an der Leine zulässt, einem offiziellen Hundestrand Anse Tabarly mit Hunde-Schwimmrampe und zwei eingezäunten Cani-Parcs am Mourillon`,
+      highlight: `der Gipfel der Seilbahn Mont Faron auf 584 m, der ganzjährige Hundestrand Anse Tabarly im östlichen Mourillon und der wiedereröffnete Küstenpfad Sentier du Littoral um das Cap Brun`,
+      area: `die Vieille Ville rund um den Cours Lafayette und die Place de la Liberté, die Uferpromenade Mourillon mit ihren Cani-Parcs und der Anse Tabarly sowie das Cap Brun für den wiedereröffneten Küstenpfad`,
+    },
+    toulouse: {
+      personality: `eine entspannte südwestfranzösische Stadt aus rosafarbenem Backstein und Straßencafés, in der Hunde entlang der Garonne ganz selbstverständlich zum Alltag gehören`,
+      highlight: `die Ufer der Garonne, der Treidelpfad am Canal du Midi und der Uferpark Prairie des Filtres`,
+      area: `Place du Capitole, Carmes und das linke Ufer Saint-Cyprien`,
+    },
+    tours: {
+      personality: `die haustierfreundlichste Basis im Loiretal - ein Fachwerk-Zentrum aus dem Mittelalter, ein Straßenbahn- und Busnetz Fil Bleu, das sowohl kleine als auch große Hunde mitnimmt, und vier bedeutende Renaissance-Schlösser (Villandry, Chenonceau, Amboise, Chambord), die angeleinte Hunde alle in ihren berühmten Gärten willkommen heißen`,
+      highlight: `der 14 Hektar große Parc de Sainte-Radegonde mit dem offiziellen Freilaufgebiet der Stadt, der Radweg Loire à Vélo am Fluss entlang und der Jardin des Prébendes d'Oé aus dem 19. Jahrhundert`,
+      area: `das Fachwerk-Vieux-Tours rund um die Place Plumereau, das Viertel um die Kathedrale Saint-Gatien und die Loire-Promenade bis nach Vouvray`,
+    },
+    treviso: {
+      personality: `Venedig ohne die Menschenmassen, eine ummauerte Stadt in Venetien mit Kanälen, freskengeschmückten Arkaden und Wasserrädern, 30 Minuten mit dem Zug von der Lagune entfernt, wo der flache Treidelpfad Restera dem Fluss Sile aus der Stadt hinaus folgt und die UNESCO-Prosecco-Hügel 20 Minuten nördlich aufsteigen`,
+      highlight: `der Treidelpfad Restera entlang des Sile, der 67 Hektar große Parco dello Storga mit seinen Quellen und die eingezäunten städtischen Hundeauslaufplätze wie der Parco Ducale`,
+      area: `die ummauerte Altstadt centro storico rund um die Piazza dei Signori, die Kanäle Buranelli und Pescheria sowie das Sile-Ufer Richtung Casier`,
+    },
+    trieste: {
+      personality: `die habsburgische Hafenhauptstadt Friaul-Julisch Venetiens an der Adria, mit rund 22.000 registrierten Hunden auf 200.000 Einwohner, offiziellen städtischen Freilaufzonen, der ikonischen 4 km langen Uferpromenade Barcola mit ihrem eigenen Bau Beach und dem 22 Hektar großen Uferpark Parco di Miramare`,
+      highlight: `die Piazza Unità d'Italia (Europas größter Platz am Meer), der Park des Castello di Miramare sowie die Wanderwege des Karstplateaus und die Osmiza-Weinstuben über der Stadt`,
+      area: `das Borgo-Teresiano-Raster rund um den Canal Grande, die Uferpromenade Piazza Unità d'Italia und die Uferpromenade Barcola nördlich des Zentrums`,
+    },
+    tromso: {
+      personality: `die arktische Hauptstadt Norwegens, 350 km nördlich des Polarkreises, ein Zentrum mit 77.000 Einwohnern rund um die Jagd nach Polarlichtern im Winter und die Mitternachtssonne im Sommer, mit milden Julihöchstwerten von 14 °C, die brachyzephalen und älteren Hunden entgegenkommen, sowie Waldwegen im Tromsdalen nur wenige Minuten vom Stadtzentrum entfernt`,
+      highlight: `die Seilbahn Fjellheisen zum Aussichtspunkt Storsteinen auf 421 m, der Platz vor der Eismeerkathedrale und der Uferpark Telegrafbukta im Süden der Insel`,
+      area: `die Storgata und der zentrale Hafen, das Tal Tromsdalen rund um die Eismeerkathedrale sowie das südliche Ufer bei Folkeparken / Telegrafbukta`,
+    },
+    trondheim: {
+      personality: `Norwegens drittgrößte Stadt und mittelalterliche Hauptstadt, mit der UNESCO-gewürdigten Nidaros-Kathedrale (der nördlichsten gotischen Kathedrale der Welt), dem bunten Holzviertel Bakklandet, kostenlosem Hundetransport in Bussen, Straßenbahnen und Zügen sowie 80 km² Stadtwald Bymarka am Stadtrand`,
+      highlight: `die Nidaros-Kathedrale und die Brücke Gamle Bybro, die ikonische historische Straßenbahn Gråkallbanen zum Wald Bymarka und die Fähre zur Insel Munkholmen`,
+      area: `die Midtbyen rund um die Nidaros-Kathedrale, das hölzerne Viertel Bakklandet und das Hafenviertel Solsiden`,
+    },
+    turin: {
+      personality: `Italiens norditalienische Barock-Hauptstadt mit 18 km überdachten Arkaden, die Hunde und Besitzer vor Regen und Sommersonne schützen, mehr als 35 eingezäunten Hundeauslaufplätzen und den Alpen eine Stunde entfernt für Wochenendausflüge`,
+      highlight: `der 84 Hektar große Parco del Valentino, das 10 km lange Po-Ufer und die Basilica di Superga, erreichbar mit der historischen Zahnradbahn`,
+      area: `San Salvario, das Quadrilatero Romano und der historische Kern rund um die Piazza Castello`,
+    },
+    uppsala: {
+      personality: `Schwedens entspannteste Stadt für Reisen mit Hund nach Stockholm, eine kompakte mittelalterliche Universitätsstadt, in der ein 108 Hektar großer Stadtwald auf sieben städtische Hundeauslaufplätze (hundrastgårdar) trifft, mit einem rund um die Uhr geöffneten Tierkrankenhaus und einer Fika-Kultur, die Hunde am Café-Tisch willkommen heißt`,
+      highlight: `das 108 Hektar große Waldschutzgebiet Stadsskogen, die königlichen Grabhügel von Gamla Uppsala und ein ausgewiesener Fluss-Hundestrand am Storvadsbadet`,
+      area: `Centrum rund um den Stora Torget und den Domplatz, Luthagen beim Stadsskogen und Sunnersta am Ufer des Ekoln-Sees`,
+    },
+    utrecht: {
+      personality: `eine kompakte niederländische Universitätsstadt, in der Hunde kostenlos in Stadtbussen und Straßenbahnen mitfahren, der Kanalrundfahrt-Betreiber Hunde ohne Aufpreis willkommen heißt und drei Freilaufzonen, der 300 Hektar große Máximapark, der zentrale Griftpark und die Landgüter Amelisweerd, allesamt vom historischen Zentrum aus erreichbar sind`,
+      highlight: `der Máximapark in Leidsche Rijn, der zentrale Griftpark und die Landgüter Amelisweerd & Rhijnauwen 5 km südöstlich`,
+      area: `Binnenstad und die Oudegracht, Vogelenbuurt und Wittevrouwen`,
+    },
+    valencia: {
+      personality: `eine sonnige Mittelmeerstadt mit 19 km Park, der sich durch ihr Zentrum zieht - das ehemalige Flussbett des Turia -, was sie zu einer der begehbarsten Städte Europas für Hundebesitzer macht`,
+      highlight: `der Turia-Garten (9 km freilauffreundlich), die Hundezone am Strand Malvarrosa und der Naturpark Albufera`,
+      area: `Ruzafa, El Carmen und das Eixample`,
+    },
+    valletta: {
+      personality: `eine kompakte UNESCO-Kalksteinfestungsstadt, in der Hunde die gesamte 1 km lange Halbinsel an einem Nachmittag ablaufen, kostenlos mit den Fähren nach Sliema und zu den Three Cities fahren und auf Terrassencafés sowie in den historischen Barrakka- und Hastings-Gärten willkommen sind`,
+      highlight: `die Upper Barrakka Gardens über dem Grand Harbour, der Bastionsspaziergang durch die Hastings Gardens und ein Tagesausflug zum Ta'Qali National Park`,
+      area: `die Halbinsel Valletta selbst, Sliema jenseits des Marsamxett sowie die Three Cities Senglea, Vittoriosa und Cospicua`,
+    },
+    vancouver: {
+      personality: `eine der hundefreundlichsten Städte Nordamerikas, umgeben von Ozean, Bergen und Regenwald, wo angeleinte Hunde die Uferpromenade des Stanley Park und mehr als dreißig Freilaufzonen für sich beanspruchen, auch wenn TransLinks Transportbox-Pflicht größere Hunde von der SkyTrain und den Bussen fernhält`,
+      highlight: `die rund 9 km lange Uferpromenade des Stanley Park, die Freilauf-Waldwege im Pacific Spirit Regional Park und der saisonale Hundestrand an den Spanish Banks`,
+      area: `das West End und der Stanley Park, False Creek und Granville Island sowie die Viertel Kitsilano und Mount Pleasant`,
+    },
+    vannes: {
+      personality: `das Tor zum Golf von Morbihan, eine bretonische mittelalterliche Stadt, in der drei Viertel der Festungsmauern aus dem 13. bis 16. Jahrhundert rund um eine vollständig fußgängerfreundliche Fachwerk-Vieille Ville erhalten sind, mit BreizhGo-Bateaux-Bus-du-Golfe-Fähren zu den autofreien Inseln Arz und Aux Moines, was sie zu einer der lohnendsten haustierfreundlichen Basen der Bretagne macht`,
+      highlight: `der Jardin des Remparts am Fuß der mittelalterlichen Stadtmauern, der Parc de la Garenne über den Wallanlagen und die 17 km lange Küstenrunde der autofreien Île d'Arz, erreichbar mit dem Bateaux Bus du Golfe`,
+      area: `die Fachwerk-Vieille Ville innerhalb der mittelalterlichen Stadtmauern, das Viertel Saint-Patern gleich außerhalb der Porte Prison und die Halbinsel Conleau 4 km südlich am Golf`,
+    },
+    venice: {
+      personality: `eine der überraschend hundefreundlichsten Städte Italiens, wo Hunde mit dem Vaporetto fahren, ruhige Sestieri abseits der Menschenmassen erkunden und in vielen lokalen Bacari willkommen sind`,
+      highlight: `die Strände der Insel Lido (außerhalb der Saison sind Hunde erlaubt), die ruhigen Kanäle von Cannaregio und der Park Sant'Elena`,
+      area: `Cannaregio, Dorsoduro und Sant'Elena`,
+    },
+    verona: {
+      personality: `eine UNESCO-gelistete romantische Stadt, in der Hunde ihre Besitzer auf Weinbar-Terrassen, in Renaissance-Gärten und entlang der malerischen Ufer der Etsch begleiten`,
+      highlight: `der Giardino Giusti, die Ufer der Etsch und hundefreundliche Terrassen nahe der Arena`,
+      area: `Veronetta, das Centro Storico und das Viertel um die Piazza delle Erbe`,
+    },
+    vichy: {
+      personality: `Frankreichs Königin der Thermalstädte, ein UNESCO-Great-Spa-of-Europe am Allier, wo angeleinte Hunde über die Belle-Époque-Promenaden und Seeuferparks spazieren, während die Thermalinnenräume tabu bleiben`,
+      highlight: `die Jugendstil-Wandelhallen des Parc des Sources, der englisch angelegte Parc Napoléon III und die 6 km lange Uferrunde um den Lac d'Allier`,
+      area: `das Thermenviertel rund um den Parc des Sources, das Allier-Ufer und die Nachbarstädte Bellerive-sur-Allier und Cusset`,
+    },
+    vienna: {
+      personality: `eine Stadt, die Hundehaltung ernst nimmt, wo Hunde mit der U-Bahn fahren, Museen betreten und in Hunderten Wiener Cafés umsorgt werden`,
+      highlight: `der Prater, die Donauinsel und der Lainzer Tiergarten`,
+      area: `der 1. Bezirk, der Naschmarkt und Josefstadt`,
+    },
+    vigo: {
+      personality: `Galiciens größte Hafenstadt, die steil aus einem tiefen atlantischen Fjord aufsteigt, mit 18 offiziellen Freilaufzonen, einem ausgeprägten Arbeitshafen-Charakter und den Cíes-Inseln als Nationalpark in Sichtweite (aber für Haustiere strikt tabu) auf der anderen Seite der Ría`,
+      highlight: `die Parkanlage der Festung Castro mit Sonnenuntergangsblick auf die Cíes-Inseln, der 24 Hektar große Parque de Castrelos und die Austernstände der Rúa Pescadería im Casco Vello`,
+      area: `der Casco Vello rund um den Kreuzfahrthafen, das Wohnviertel Coruxo nahe den westlichen Stränden und das grüne Parkviertel Castrelos`,
+    },
+    villach: {
+      personality: `eine Kärntner Flussstadt mit 62.000 Einwohnern an der Drau, mit einem Renaissance-Hauptplatz, zwei der wärmsten Alpenseen (Faaker See und Ossiacher See) innerhalb von 10 km, dem Naturpark Dobratsch darüber und der italienischen und slowenischen Grenze 30 bis 40 Minuten entfernt`,
+      highlight: `der Drauradweg am Fluss entlang, die Hundebadeplätze in Drobollach am Faaker See und in Sattendorf am Ossiacher See sowie die Panoramastraße Villacher Alpenstraße hinauf zum Dobratsch`,
+      area: `die fußgängerfreundliche Altstadt rund um den Hauptplatz, das Wohnviertel Lind nahe der Tierklinik Villach und die Seeufer von Drobollach und Sattendorf`,
+    },
+    'villefranche-sur-mer': {
+      personality: `eine Côte-d'Azur-Hafenstadt mit 5.000 Einwohnern zwischen Nizza und Monaco, in ein steiles ockerfarbenes Amphitheater über einem der tiefsten Naturhäfen des westlichen Mittelmeers gebaut, mit einem aktiven Port de la Santé, der überdachten Rue Obscure aus dem 13. Jahrhundert, den Gärten der Citadelle Saint-Elme und der Chapelle Saint-Pierre des Pêcheurs, 1957 von Jean Cocteau mit Fresken ausgemalt`,
+      highlight: `der Kai des Port de la Santé und die Chapelle Saint-Pierre, die Vieille Ville und die mittelalterliche Rue Obscure, die 1 km lange Plage des Marinières (der längste Strand der Côte d'Azur) und der Küstenpfad Sentier du Littoral von Cap Ferrat um die Pointe Saint-Hospice und die Plage de Passable`,
+      area: `der Port de la Santé und die Vieille Ville, die Citadelle und der Port de la Darse, die Plage des Marinières mit dem Bahnhofskorridor der SNCF sowie die benachbarte Halbinsel Cap Ferrat`,
+    },
+    vilnius: {
+      personality: `die grünste Hauptstadt der EU und eine der haustierfreundlichsten, wo Haustiere in jedem Bus kostenlos mitfahren und fast 500 haustierfreundliche Lokale in der UNESCO-Altstadt liegen`,
+      highlight: `der Waldpark Vingis, der Bernardinai-Garten und der Berg der Drei Kreuze`,
+      area: `die Altstadt, Užupis und Šnipiškės`,
+    },
+    'vitoria-gasteiz': {
+      personality: `die Hauptstadt der Baskischen Autonomen Gemeinschaft und Europäische Grüne Hauptstadt 2012, mit einem 30 km langen Grüngürtel Anillo Verde aus fünf verbundenen Naturparks, die zusammen das ausgedehnteste hundetaugliche städtische Grünnetz Spaniens bilden`,
+      highlight: `die Feuchtgebiete Salburua mit ihren Hirschherden, der 160 Hektar große freilauffreundliche Eichenwald Armentia und der botanische Garten Olarizu`,
+      area: `der mandelförmige mittelalterliche Hügel Casco Medieval, das bürgerliche Zentrum an der Plaza de la Virgen Blanca und das neue Westviertel Zabalgana`,
+    },
+    warsaw: {
+      personality: `eine sich rasch modernisierende europäische Hauptstadt, in der haustierfreundliche Hotels zunehmend zur Norm werden und Uferparks hervorragende Spaziergänge bieten`,
+      highlight: `der Łazienki-Park, die Boulevards am Weichselufer und der Kampinos-Wald am Stadtrand`,
+      area: `Śródmieście, Praga und das Uferviertel Powiśle`,
+    },
+    whitby: {
+      personality: `eine der hundeliebsten Küstenstädte Englands, ein historischer Fischereihafen in North Yorkshire, in dem Hunde auf der Landzunge bei der Abtei, entlang der Klippenpfade und in den meisten Altstadt-Pubs willkommen sind und kostenlos mit der Esk Valley Line fahren`,
+      highlight: `die Ruine der Whitby Abbey auf der East Cliff, der Aufstieg über die 199 Stufen und die ganzjährigen Hundestrände bei Tate Hill, Sandsend und Runswick Bay`,
+      area: `die Altstadt rund um die Church Street und den Hafen, die West Cliff und die Landzunge bei der Abtei über den 199 Stufen`,
+    },
+    ambleside: {
+      personality: `eine hübsche Wanderstadt am Kopf des Lake Windermere im Lake District, wo Hunde auf fast jedem Fell und Fußweg willkommen sind, kostenlos mit den Windermere Lake Cruises fahren und in den meisten Pubs willkommen sind`,
+      highlight: `die Wanderung zum Wasserfall Stock Ghyll Force, der ausgedehnte Loughrigg Fell und die hundefreundlichen Windermere Lake Cruises ab Waterhead`,
+      area: `das Market Cross und seine Gassen, das Seeufer bei Waterhead und das Ufer des Rydal Water Richtung Grasmere`,
+    },
+    cromer: {
+      personality: `eine altmodische nordnorfolkische Küstenstadt mit Pier, Klippen und berühmten Krabben, wo Hunde ganzjährig die Promenade entlanglaufen, das sommerliche Strandverbot einen ins nahegelegene hundefreundliche East Runton schickt und der Norfolk Coast Path entlang der Klippen verläuft`,
+      highlight: `der denkmalgeschützte viktorianische Pier und die Promenade, der ganzjährige Hundestrand in East Runton und der Klippenweg Norfolk Coast Path nach Sheringham`,
+      area: `die Uferpromenade und der Pier, die Strände East und West Runton im Westen sowie das Anwesen Felbrigg Hall im Landesinneren`,
+    },
+    'bourton-on-the-water': {
+      personality: `das "Venedig der Cotswolds", ein honigfarbenes Steindorf, durch dessen Hauptstraße der seichte River Windrush unter niedrigen Brücken fließt, Hunde in den meisten Pubs und Cafés willkommen sind und nahezu ebene Fußwege hinaus zu den Bilderbuchdörfern der Slaughters führen`,
+      highlight: `die niedrigen Steinbrücken über den Windrush, der stufenfreie Spazierweg nach Lower und Upper Slaughter und das Naturschutzgebiet Greystones Farm`,
+      area: `der Uferrasen und die High Street, der Warden's Way in Richtung der Slaughters und die Wiesen von Greystones Farm`,
+    },
+    bakewell: {
+      personality: `eine stattliche Kalksteinstadt im Herzen des Peak District, wo Hunde in den Tälern und auf den Wanderwegen, in den meisten Pubs der Stadt und an der Leine durch den Garten und den weitläufigen Park von Chatsworth willkommen sind`,
+      highlight: `der flache, autofreie Monsal Trail mit seinem berühmten Viadukt, der Uferweg entlang des Wye und das Gassiführen an der Leine durch den Chatsworth Park`,
+      area: `der Rutland Square und die mittelalterliche Brücke, der Monsal Trail Richtung Monsal Head und die Dörfer Ashford-in-the-Water und Over Haddon`,
+    },
+    keswick: {
+      personality: `Großbritanniens hundefreundlichste Stadt am Kopf des Derwentwater im nördlichen Lake District, wo Hunde auf fast jedem Fell und Fußweg willkommen sind, kostenlos mit den Keswick-Launch-Booten fahren und in den Pubs rund um den Market Square zum Alltag gehören`,
+      highlight: `das Seeufer am Friar's Crag, der klassische Bergkamm Catbells und die hundefreundliche Keswick Launch auf dem Derwentwater`,
+      area: `der Market Square und die Lake Road, das Derwentwater-Ufer am Friar's Crag und die ruhigeren östlichen Buchten rund um die Calfclose Bay`,
+    },
+    windermere: {
+      personality: `Englands größter See im Herzen des Lake District, wo Hunde auf fast jedem Fell und Fußweg willkommen sind, kostenlos mit den Zügen und Seerundfahrten reisen und in den Pubs von Bowness zum Alltag gehören`,
+      highlight: `der Aufstieg zum Aussichtspunkt Orrest Head, das Seeufer des National Trust bei Fell Foot und die hundefreundlichen Windermere Lake Cruises`,
+      area: `das Dorf Windermere, die Uferpromenade von Bowness-on-Windermere und das ruhigere Südufer rund um Fell Foot`,
+    },
+    wroclaw: {
+      personality: `eine der hundeliebsten Städte Polens, wo der bunte Rynek von Café-Terrassen gesäumt wird, die Hunde ohne Umstände willkommen heißen, die öffentlichen Verkehrsmittel für alle Haustiere kostenlos sind und rund vierzig eingezäunte Freilaufzonen über die Stadt verteilt liegen`,
+      highlight: `der Park Szczytnicki mit der Jahrhunderthalle, die Inseln der Oder und die laternenerhellten Pflastersteine der Dominsel in der Dämmerung`,
+      area: `die Altstadt rund um den Rynek, das bohemienhafte Viertel Nadodrze und das Viertel der Vier Konfessionen`,
+    },
+    yokohama: {
+      personality: `Japans große Hafenstadt an der Bucht von Tokio, wo eine kompakte, begehbare Uferzone die strengeren japanischen Haustierregeln zu einem leichten Vergnügen macht, mit angeleinten Hunden willkommen entlang der Promenaden von Minato Mirai und der Freiluft-Anlagen an der Uferfront`,
+      highlight: `der große naturbegrünte Hundeauslauf SHIBA to KAZE im Rinko Park, die Rasenflächen am Meer im Yamashita Park und das walrückenförmige Dachdeck des Osanbashi Pier`,
+      area: `die Freiluftanlagen Marine & Walk und das Red Brick Warehouse an der Uferfront von Shinko, die Promenaden von Minato Mirai rund um Sakuragicho und der Hafenspazierweg Kishamichi`,
+    },
+    york: {
+      personality: `eine der verlässlich hundefreundlichsten Städte Englands, ein kompakter mittelalterlicher Kern, in dem 80 % der Pubs angeleinte Hunde willkommen heißen, der 5 km lange Rundweg auf den Stadtmauern für Haustiere kostenlos ist und direkte LNER-Züge Tagesausflüge zu den Hundestränden von Filey, Sandsend und Bridlington verbinden`,
+      highlight: `der hundefreundliche Rundweg auf den Stadtmauern, die Uferanlage der Museum Gardens und der ganzjährige Hundestrand bei Filey, eine Stunde östlich mit der LNER-Linie`,
+      area: `das historische Zentrum innerhalb der Mauern, das Viertel Fossgate und das Viertel Bishopthorpe Road / Knavesmire`,
+    },
+    rovinj: {
+      personality: `Istriens venezianisch-italienisch geprägte Hafenstadt, einst eine Insel mit pastellfarbenen Fassaden, die zu einem arbeitenden Fischereihafen unter dem 60 m hohen Glockenturm der sv. Eufemija hinabsteigen, mit dem 120 Hektar großen Küstenwaldpark Punta Corrente, vier ausgeschilderten Hundestränden, einer zweisprachig kroatisch-italienischen Stari Grad und der saisonalen Venezia-Lines-Schnellfähre nach Venedig`,
+      highlight: `der 120 Hektar große Waldpark Punta Corrente mit drei Hundestränden, der Hügelglockenturm der sv. Eufemija nach dem Vorbild des San Marco, die Künstlergasse Grisia und die Fährverbindungen des Rovinj-Archipels nach Sv. Katarina und Crveni otok`,
+      area: `die Halbinsel Stari Grad rund um sv. Eufemija und den Balbi-Bogen, die Hafenpromenade am Rand des Busbahnhofs und die Ferienküste Monsena/Borik nördlich der Stadt`,
+    },
+    pula: {
+      personality: `Istriens ehemalige römische Hauptstadt mit 53.000 Einwohnern an der Südspitze der Halbinsel, geprägt von der Arena aus dem 1. Jahrhundert (eines der sechs am besten erhaltenen römischen Amphitheater der Welt), dem Forum mit dem augusteischen Augustustempel, dem Sergierbogen und der Festung Kaštel auf dem Hügel, mit der Halbinsel Punta Verudela 4 km südlich, dem leinenfreien Naturpark Kap Kamenjak weitere 10 km entfernt, dem Flughafen PUY 7 km entfernt und einer saisonalen Venezia-Lines-Fähre nach Italien`,
+      highlight: `die Außenrunde der Pula-Arena (kostenlos, rund um die Uhr, hundefreundlich an der Leine), die Fußgängerachse Forum-Augustus-Sergierbogen, das 360-Grad-Panorama vom Hügel Kaštel, der Küstenspazierweg Lungomare nach Stoja und der Naturpark Kap Kamenjak mit leinenfreien Hundebuchten`,
+      area: `die im Römerraster angelegte Altstadt zwischen Arena und Forum, die Halbinsel Verudela südlich der Stadt mit ihren Ferienhotels und Hundestränden, und der Naturpark Premantura/Kap Kamenjak 10 km südlich für leinenfreie Küstenspaziergänge`,
+    },
+    'ras-al-khaimah': {
+      personality: `das ruhige Strand- und Bergresort-Emirat der Vereinigten Arabischen Emirate und dank seines offiziellen Ras-Al-K9-Programms der hundefreundlichste Winkel des Landes, mit langen Naturstränden und der Corniche von Al Marjan Island, hinter der sich der Jebel Jais, der höchste Gipfel der VAE, erhebt, ruhiger und günstiger als Dubai 45 bis 75 Minuten südlich unter derselben Wintersonne von November bis März`,
+      highlight: `die im Ras-Al-K9-Programm gelisteten Strände Flamingo und Al Hamra mit angeleinten Hunden, die angeleinten unteren Wege und der Aussichtspark Viewing Deck Park am Jebel Jais, die Hügelfestung Dhayah und das verlassene Perlenfischerdorf Al Jazirah Al Hamra`,
+      area: `der Ferienstreifen Al Hamra Village und Al Marjan Island mit haustierfreundlichen Hotels, Cafés und gelisteten Stränden, der Flamingo Beach nahe dem Restaurant Ruzo, und die Hajar-Berge und der Jebel Jais im Landesinneren für Wadi-Wanderungen und Bergfahrten`,
+    },
+    zadar: {
+      personality: `die am meisten unterschätzte Stadt der dalmatinischen Küste - römisches Forum, vorromanische Rotunde des heiligen Donatus, die wellenbetriebene Meeresorgel und der Gruß an die Sonne, alles auf einer kompakten, hundefreundlichen Altstadthalbinsel mit ganzjährigen Adria-Hundestränden in kurzer Fahrdistanz`,
+      highlight: `die 2 km lange Uferpromenade Riva, die Installationen Meeresorgel und Gruß an die Sonne und der offiziell ausgewiesene Hundestrand Kažin nahe der Brücke von Vir`,
+      area: `die Altstadthalbinsel rund um das römische Forum, das Ferienviertel Borik im Nordwesten und das Restaurantviertel am Platz der Fünf Brunnen (Trg Pet Bunara)`,
+    },
+    zagreb: {
+      personality: `eine entspannte Hauptstadt aus der Habsburgerzeit, in der Hunde mit der kürzesten Standseilbahn der Welt fahren, Café-Terrassen die Fußgängerzone Tkalčićeva säumen und der 316 Hektar große Maksimir-Park die wichtigste eingezäunte Freilaufzone der Stadt beherbergt`,
+      highlight: `der Maksimir-Park, die mittelalterliche Oberstadt und die Hundestrandabschnitte am Jarun-See`,
+      area: `Donji Grad, Gornji Grad und das Seenviertel rund um Maksimir`,
+    },
+    zaragoza: {
+      personality: `Aragoniens Hauptstadt und Spaniens fünftgrößte Stadt, geprägt von der Basílica del Pilar am Ebro und aufgebaut um 126 ausgewiesene Freilaufzonen, eines der dichtesten haustierfreundlichen Parknetze Spaniens, dazu die rund um die Uhr geöffnete Überweisungsklinik AniCura Emvet`,
+      highlight: `der 27 Hektar große Parque Grande Labordeta, die eingezäunte Hundezone im Parque del Tío Jorge und die Uferwege entlang der Riberas del Ebro`,
+      area: `das Casco Histórico rund um El Pilar, das grüne Centro am Paseo de Sagasta und das Tapas-Viertel Magdalena`,
+    },
+    'zell-am-see': {
+      personality: `Österreichs See- und Gletscherresort im Pinzgau, wo maulkorb- und leinenpflichtige Hunde mit den Schmittenhöhebahnen fahren, die Gletscherlifte des Kitzsteinhorns bis auf 3.029 m nutzen und sogar mit den Zeller-See-Booten (5 Euro pro Fahrt) übersetzen, und die Stadt eine offizielle Hundefreilaufzone am Erlberg unterhält; die eine örtliche Gepflogenheit, die man übernehmen sollte, ist die Leinen- oder Maulkorbpflicht an allen öffentlichen Orten`,
+      highlight: `das Seeufer am Elisabethpark, die rund 11 km lange Runde um den Zeller See über Thumersbach, die Hundefreilaufzone am Erlberg und der Bohlenweg durch die Sigmund-Thun-Klamm zum Klammsee`,
+      area: `die Uferpromenade und Altstadt rund um den Stadtplatz, Thumersbach jenseits des Wassers für ruhigere Ufer-Aufenthalte und das Dorf Kaprun auf der Gletscherseite`,
+    },
+    zermatt: {
+      personality: `das autofreie Alpendorf am Fuß des Matterhorns, wo Hunde kostenlos oder zum halben Preis mit der Sunnegga-Standseilbahn und der Gornergratbahn fahren, am Hundestrand des Leisees baden und die legendäre Fünf-Seen-Wanderung an der Spiegelung des Stellisees vorbei gehen`,
+      highlight: `die Fünf-Seen-Wanderung vom Stellisee zum Leisee, die Gornergratbahn zu einem hundefreundlichen Panorama auf 3.089 m und der Flussweg entlang der Matter Vispa durch das Dorf`,
+      area: `das autofreie Dorfzentrum an der Bahnhofstrasse, das Plateau Sunnegga-Blauherd und die Bergkämme Gornergrat und Schwarzsee über dem Tal`,
+    },
+    zurich: {
+      personality: `eine Stadt, die zu den hundefreundlichsten Europas zählt, mit eigenen Hundezonen an den Seestränden, hundefreundlichen Trams und überall akzeptierten Heimtierausweisen`,
+      highlight: `das Ufer des Zürichsees, der Uetliberg und die Wanderwege entlang der Sihl`,
+      area: `Kreis 4, Zürich West und die Altstadt`,
+    },
+    agadir: {
+      personality: `eine entspannte Atlantikstadt, wiederaufgebaut um eine der längsten und begehbarsten Strandpromenaden Marokkos`,
+      highlight: `die sechs Kilometer lange Strandpromenade, die Marina und der Aussichtspunkt der Kasbah Agadir Oufella`,
+      area: `die Strandpromenade, das Marinaviertel und die Mündung des Souss Richtung Nationalpark Souss-Massa`,
+    },
+    antalya: {
+      personality: `die sonnige Hauptstadt der türkischen Riviera, wo römische Hafengassen auf lange Kiesel- und Sandstrände treffen`,
+      highlight: `der alte Hafen von Kaleici, der Strand Konyaalti und der Wasserfallpark Lower Duden`,
+      area: `Kaleici, Konyaalti und Lara`,
+    },
+    batumi: {
+      personality: `eine subtropische Schwarzmeerstadt, deren palmengesäumte Uferpromenade sich über Kilometer erstreckt`,
+      highlight: `der sieben Kilometer lange Batumi Boulevard, der Miracle Park am Meer und der Botanische Garten am Hang`,
+      area: `die alte Uferpromenade, die Altstadt rund um den Piazza-Platz und der neue Boulevard`,
+    },
+    berat: {
+      personality: `Albaniens UNESCO-gelistete Stadt der tausend Fenster, gestapelt in weißen osmanischen Terrassen über dem Osum-Fluss`,
+      highlight: `das Burgviertel von Berat, die Uferpromenade des Osum und die Gorica-Fußgängerbrücke`,
+      area: `Mangalem, Gorica und das Burgviertel Kalaja`,
+    },
+    bodrum: {
+      personality: `ein weißgetünchtes Ferienstädtchen an der Ägäis, gelegen um zwei Buchten unterhalb der Burg von St. Peter`,
+      highlight: `die Marinapromenade, die Burg von St. Peter und der Küstenweg Richtung Bitez`,
+      area: `die Marina und die Altstadt, Gumbet und Bitez`,
+    },
+    'cluj-napoca': {
+      personality: `Siebenbürgens unkomplizierte Universitätshauptstadt voller grüner Parks und Terrassencafés`,
+      highlight: `der Zentralpark am Somes-Fluss, die Aussichtspunkte des Cetatuia-Hügels und die Wege des Hoia-Waldes`,
+      area: `die Altstadt rund um den Piata Unirii, die Ufer des Somes und das grüne Grigorescu`,
+    },
+    essaouira: {
+      personality: `eine windgekühlte Atlantikhafenstadt, in der Wehrmauern, Möwen und ein riesiger Halbmondstrand den Takt vorgeben`,
+      highlight: `die Wehrmauern der Skala, die autofreien Gassen der Medina und der lange Strand Richtung Diabat`,
+      area: `die Medina, die Uferpromenade Skala und der Boulevard am Strand`,
+    },
+    'feldkirchen-in-karnten': {
+      personality: `eine kleine Kärntner Marktstadt, umgeben von sanften Seen, Wiesen und bewaldeten Hügeln`,
+      highlight: `die Ufer des Ossiacher Sees, die Wanderwege der Nockberge-Vorberge und der Arkaden-Altstadtplatz`,
+      area: `das historische Stadtzentrum, das Ufer des Ossiacher Sees und die Nockberge-Vorberge`,
+    },
+    fundao: {
+      personality: `eine ruhige Kirschanbaustadt in der Beira Baixa am Fuß der Serra da Gardunha`,
+      highlight: `die Wanderwege der Serra da Gardunha, die Kirschgärten von Alcongosta und die Granitgassen der Altstadt`,
+      area: `das historische Zentrum, das Hangdorf Alcongosta und die Dörfer der Gardunha`,
+    },
+    gjirokastra: {
+      personality: `Albaniens UNESCO-Steinstadt, in der schieferbedachte osmanische Häuser zu einer gewaltigen Hügelburg emporsteigen`,
+      highlight: `die Mauern der Burg von Gjirokastra, der gepflasterte alte Basar und die Aussichtspunkte des Drino-Tals`,
+      area: `der alte Basar, das Burgviertel und die neuere Stadt im Tal darunter`,
+    },
+    goreme: {
+      personality: `das Dorf im Herzen Kappadokiens, umgeben von Feenkaminen und offenen Talwegen wie geschaffen für lange Wanderungen`,
+      highlight: `die Wanderwege des Rosen- und Roten Tals, das Taubental Richtung Uchisar und die Sonnenaufgangsblicke auf die Ballons vom Sunset Point`,
+      area: `das Dorfzentrum, die Straße zum Freilichtmuseum Goreme und die Ausgangspunkte der Talwege`,
+    },
+    ischia: {
+      personality: `eine vulkanische Thermalinsel im Golf von Neapel, wo angeleinte Hunde durch das autofreie Dorf Sant'Angelo streifen, den Monte Epomeo und den Pinienhain am Meer erwandern und die freien Abschnitte des langen Maronti-Strands erreichen`,
+      highlight: `der Damm zur Aragonesischen Burg, der Gipfelweg auf den Monte Epomeo und der Küstenweg von Sant'Angelo nach Maronti`,
+      area: `die Hafenorte Ischia Porto und Ischia Ponte, das westliche Ferienstädtchen Forio und das autofreie Dorf Sant'Angelo im Süden`,
+    },
+    istanbul: {
+      personality: `eine Metropole, berühmt dafür, ihre Straßentiere wie Bürger zu behandeln, wo Hunde auf beiden Kontinenten zum Alltag gehören`,
+      highlight: `die Uferspaziergänge am Bosporus, der Macka-Park über Besiktas und die Uferpromenade von Moda in Kadikoy`,
+      area: `Galata und Karakoy, Besiktas und Moda auf der asiatischen Seite`,
+    },
+    kas: {
+      personality: `eine unaufgeregte Hafenstadt an der lykischen Küste, eingebettet zwischen türkisfarbenen Buchten und Bergwegen`,
+      highlight: `die Fußwege des Lykischen Weges, die Rundwanderung um die Halbinsel Cukurbag und die Altstadt am Hafen`,
+      area: `die Altstadt rund um den Hafen, die Halbinsel Cukurbag und die Bucht Kucukcakil`,
+    },
+    kazbegi: {
+      personality: `ein Hochkaukasus-Dorf mit Blick auf den Kazbek, der klassische Ausgangspunkt für große Bergwanderungen in Georgien`,
+      highlight: `der Weg zur Dreifaltigkeitskirche von Gergeti, das Truso-Tal und das Sno-Tal Richtung Juta`,
+      area: `das Dorfzentrum Stepantsminda, Gergeti jenseits des Flusses und die Straße durchs Sno-Tal`,
+    },
+    marrakech: {
+      personality: `Marokkos ockerfarbene Kaiserstadt, wo Riad-Innenhöfe und weitläufige Gärten Ruhe zwischen den Medina-Spaziergängen bieten`,
+      highlight: `die Olivenhaine der Menara-Gärten, die schattigen Gassen des Cyber Park und die Palmenwege der Palmeraie`,
+      area: `die Medina, Gueliz und die Palmeraie`,
+    },
+    mykonos: {
+      personality: `die kosmopolitischste der Kykladen, ganz weißgetünchte Gassen, Windmühlen und sandige Buchten`,
+      highlight: `die Windmühlen über Little Venice, die Uferfront von Chora und der Küstenweg zwischen Ornos und Agios Ioannis`,
+      area: `Mykonos-Stadt, Ornos und Platis Gialos`,
+    },
+    'oropesa-del-mar': {
+      personality: `ein familienfreundliches Ferienziel an der Costa del Azahar, aufgereiht zwischen Buchten, einem Burghügel und einem Grünzug am Meer`,
+      highlight: `die Via Verde del Mar Richtung Benicassim, die Strandpromenade von La Concha und die Altstadt unterhalb der Burg`,
+      area: `die Altstadt, die Uferzone von La Concha und Marina d'Or`,
+    },
+    peniche: {
+      personality: `eine arbeitende Fischerhalbinsel, berühmt für Surfstrände und vom Meer geformte Klippen`,
+      highlight: `der Klippenweg am Cabo Carvoeiro, die Dünenstrände von Baleal und die Bootsfahrten zu den Berlengas`,
+      area: `die von Mauern umgebene Hafenstadt, Baleal und Consolacao`,
+    },
+    plovdiv: {
+      personality: `eine der ältesten noch bewohnten Städte Europas, ausgebreitet über sanfte Hügel mit einem begehbaren römischen und Wiedergeburtszeit-Kern`,
+      highlight: `der Zar-Simeon-Garten, die Uferwege der Mariza und die Hügelaussicht vom Sahat Tepe`,
+      area: `das Kreativviertel Kapana, die Altstadt und die Ufer der Mariza`,
+    },
+    rouen: {
+      personality: `die Fachwerk-Flusshauptstadt der Normandie, kompakt und wie geschaffen für gemächliche Spaziergänge zwischen Kathedrale und Kais`,
+      highlight: `die begrünten Seine-Kais, der Jardin des Plantes und die Gassen rund um den Gros-Horloge`,
+      area: `die Altstadt rund um die Kathedrale, die Seine-Kais am rechten Ufer und das Marktviertel Saint-Marc`,
+    },
+    tbilisi: {
+      personality: `Georgiens warmherzige Hauptstadt, wo Straßenhunde städtische Marken tragen und Parks die Hügel hinaufklettern`,
+      highlight: `der Rike-Park am Fluss, die bewaldeten Wege des Mtatsminda und der Schildkrötensee über dem Vake-Park`,
+      area: `die Altstadt, Vera und Vake`,
+    },
+    tirano: {
+      personality: `ein kleines Veltliner Städtchen, wo der Bernina Express auf italienische Piazzen und Uferwege trifft`,
+      highlight: `der Sentiero Valtellina entlang der Adda, die Ausblicke der Berninabahn und der Wallfahrtsplatz der Madonna di Tirano`,
+      area: `das historische Zentrum, Madonna di Tirano und das Ufer der Adda`,
+    },
+    valbona: {
+      personality: `ein abgelegenes Taldorf tief in den albanischen Alpen, der Ausgangspunkt für einige der schönsten Bergwanderungen des Balkans`,
+      highlight: `der Passweg von Valbona nach Theth, das weiße Steinbett des Valbona-Flusses und die Wiesen von Rragam`,
+      area: `das Dorf Valbona, Rragam und das obere Tal Richtung Pass`,
+    },
+    benidorm: {
+      personality: `Europas größtes Hochhaus-Badeort an der Costa Blanca, ein bei britischen Urlaubern beliebter Klassiker, wo fünf kostenlose, eingezäunte Hundeparks und eine begehbare, flache Anlage ein ganzjähriges, striktes Hundeverbot am Strand ausgleichen`,
+      highlight: `der Balcón del Mediterráneo an der Klippe, die weißgetünchten Gassen der Altstadt und der palmengesäumte Parque Canino L'Aigüera`,
+      area: `Rincón de Loix nahe den Hundeparks und dem Ausgangspunkt zur Serra Gelada, und das Casco Antiguo, das alte Fischerviertel`,
+    },
+    spa: {
+      personality: `das kleine Ardennen-Kurstädtchen, das der englischen Sprache das Wort "spa" gab, ein Mitglied der UNESCO-Welterbestätte Great Spas of Europe, umgeben von Waldwegen`,
+      highlight: `die Uferrunde um den Lac de Warfaaz, die überdachten Galerien des Parc de Sept Heures und die weitläufigen Wanderwege der Hautes Fagnes`,
+      area: `das kompakte Kurzentrum rund um den Pouhon Pierre-le-Grand, der Warfaaz-See und das Naturschutzgebiet Hautes Fagnes über der Stadt`,
+    },
+  },
 }
 
 // ─── Cat Intros ──────────────────────────────────────────────────────────────
@@ -8498,6 +10590,32 @@ const catIntrosByLocale: Record<string, Record<string, (d: string, ctx: DestCtx,
       `"Cães grátis" no é só um eslogan de marketing nos establecimientos a continuación. Está respaldado por políticas confirmadas sem excepciones por peso o raza en a maioria dos casos. En ${d}, ${ctx.personality}, esta política encaja de forma natural na cultura de hospitalidad local.`,
     ],
   },
+  de: {
+    'dog-friendly': (d, ctx, n) => [
+      `${d} ist ${ctx.personality}. Mit ${n} handverlesenen hundefreundlichen Unterkünften auf dieser Liste finden Sie Optionen vom günstigen Boutique-Hotel bis zur Fünf-Sterne-Suite. Alle bestätigt hundefreundlich, ohne die üblichen versteckten Einschränkungen.`,
+      `Was ${d} für Hundebesitzer besonders macht, ist die Infrastruktur jenseits des Hotelzimmers: ${ctx.highlight} sind von den unten aufgeführten Unterkünften aus bequem erreichbar. In ${ctx.area} gehören Hunde zum Alltag, und die hier gelisteten Hotels wurden genau deshalb ausgewählt, weil sie diese Kultur aktiv leben, statt sie nur zu dulden.`,
+    ],
+    'cat-friendly': (d, ctx, n) => [
+      `Mit einer Katze zu reisen ist noch immer eine Nische im Vergleich zum Reisen mit Hund. Doch ${d} ist ${ctx.personality}, und die Hotellerie beginnt, das widerzuspiegeln. Diese ${n} katzenfreundlichen Hotels wurden ausgewählt, weil sie weit über eine widerwillige Duldung hinausgehen und Katzengäste aktiv willkommen heißen.`,
+      `Katzenbesitzer, die ${d} besuchen, schätzen an den unten aufgeführten Hotels die ruhigen Zimmer, den einfachen Zugang im Erdgeschoss oder per Aufzug und ein Personal, das im Umgang mit Transportboxen geschult ist und den Check-in reibungslos macht. Die besten unter ihnen stellen Decken und abgedeckte Katzentoiletten bereit, ohne dass Sie danach fragen müssen.`,
+    ],
+    'beach-access': (d, ctx, n) => [
+      `Strandzugang mit einem haustierfreundlichen Aufenthalt zu verbinden ist schwieriger, als es klingt: Nicht jedes Küstenhotel erlaubt Hunde, und viele Strände schränken den Hundezugang saisonal ein. Diese ${n} Unterkünfte in ${d} sind die Ausnahme. Bestätigt sowohl für die Strandnähe als auch für einen echten Empfang Ihres Haustiers.`,
+      `Die Küste von ${d}. Einschließlich ${ctx.highlight}. Ist im Frühling (April–Mai) und im Herbst (September–Oktober) am haustierfreundlichsten, wenn saisonale Hundebeschränkungen an vielen Stränden aufgehoben werden. Die unten aufgeführten Hotels wurden nicht nur wegen der Nähe zum Meer ausgewählt, sondern auch wegen Annehmlichkeiten wie Außenduschen, schattigen Terrassen und Personal, das die lokalen hundefreundlichen Strandabschnitte kennt.`,
+    ],
+    'near-parks': (d, ctx, n) => [
+      `Ein Hotel in der Nähe von Grünflächen verwandelt einen Städtetrip mit Hund. Diese ${n} Unterkünfte in ${d} liegen alle in bequemer Gehdistanz zu ${ctx.highlight}. So werden Morgen- und Abendspaziergänge zum Vergnügen und nicht zur logistischen Herausforderung.`,
+      `In ${ctx.area} sind Grünflächen fest in den städtischen Alltag eingewoben. Die Hotels dieser Liste wurden gezielt wegen ihrer fußläufigen Nähe zu Freilaufflächen, baumbestandenen Wegen und dem Kiezgefühl ausgewählt, das einen Städtetrip mit Hund wirklich angenehm macht.`,
+    ],
+    'luxury': (d, ctx, n) => [
+      `Fünf-Sterne-Gastfreundschaft und haustierfreundliche Richtlinien standen früher selten im selben Satz. ${d} ändert das. Diese ${n} Luxushotels gehen weit über die simple Klausel "kleine Haustiere erlaubt" hinaus und bieten Ihnen und Ihrem Tier echte High-End-Erlebnisse: Willkommenssets, Haustierbetten im Zimmer, Turndown-Leckerlis und Concierge-Gassi-Service.`,
+      `Ein Aufenthalt in einem der luxuriösen haustierfreundlichen Hotels von ${d} bedeutet, das Beste von ${ctx.area} von einer Basis aus zu erleben, die Ihr Haustier als geschätzten Gast behandelt. Mehrere der unten aufgeführten Hotels haben eigene Speisekarten für Haustiere, und alle können auf Wunsch Reservierungen in lokalen hundefreundlichen Restaurants organisieren.`,
+    ],
+    'dogs-stay-free': (d, ctx, n) => [
+      `Haustiergebühren können Ihrer Hotelrechnung 15–50 € pro Nacht hinzufügen. Ein erheblicher Aufpreis bei einem einwöchigen Aufenthalt. Diese ${n} Hotels in ${d} haben diese Kosten vollständig gestrichen: Ihr Hund übernachtet kostenlos, ohne versteckte Reinigungsgebühren oder Kautionen.`,
+      `"Hunde übernachten kostenlos" ist bei den unten aufgeführten Unterkünften kein reiner Werbeslogan. Es steht hinter bestätigten Richtlinien, meist ohne Ausnahmen nach Gewicht oder Rasse. In ${d}, ${ctx.personality.replace('one of ', '')}, fügt sich diese Politik natürlich in die lokale Gastfreundschaftskultur ein.`,
+    ],
+  },
 }
 
 // ─── Intros ──────────────────────────────────────────────────────────────────
@@ -8509,7 +10627,7 @@ export function generateIntro(
   hotelCount: number,
   locale: string = 'en'
 ): string[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
   const ctxMap = destContextByLocale[l] ?? destContextByLocale['en']
   const ctx = ctxMap[destSlug] ?? {
     personality: 'a popular European destination',
@@ -8529,6 +10647,12 @@ export function generateIntro(
       return [
         `${destName} tiene una selección creciente de hoteles que admiten mascotas. Estos ${hotelCount} establecimientos han sido seleccionados a mano por su genuina bienvenida a los animales, sus políticas confirmadas y sus puntuaciones de satisfacción de los huéspedes.`,
         `Todos los hoteles de esta lista aceptan mascotas con restricciones mínimas. Recomendamos confirmar los detalles de su mascota (tamaño, raza, número de animales) directamente con el establecimiento al reservar.`,
+      ]
+    }
+    if (l === 'de') {
+      return [
+        `${destName} bietet eine wachsende Auswahl an haustierfreundlichen Hotels. Diese ${hotelCount} Häuser wurden von Hand ausgewählt: für ihre echte Offenheit gegenüber Tieren, bestätigte Haustierrichtlinien und gute Bewertungen der Gäste.`,
+        `Alle Hotels auf dieser Liste akzeptieren Haustiere mit minimalen Einschränkungen. Wir empfehlen, die Details Ihres Haustiers (Größe, Rasse, Anzahl der Tiere) bei der Buchung direkt mit dem Hotel zu bestätigen.`,
       ]
     }
     return [
@@ -8554,11 +10678,12 @@ export function generateFaqs(
   hotels: Array<{ name: string; petFee: number; petPolicy: string; stars: number }>,
   locale: string = 'en'
 ): Faq[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
   const { free } = petFeeStats(hotels)
   const topHotel = hotels[0]?.name ?? (
     l === 'fr' ? 'l\'hôtel le mieux noté' :
     l === 'es' ? 'el hotel mejor valorado' :
+    l === 'de' ? 'das bestbewertete Hotel' :
     'the top-rated hotel'
   )
 
@@ -8615,6 +10740,66 @@ export function generateFaqs(
       'near-parks': {
         q: `Les parcs proches de ces hôtels sont-ils adaptés aux chiens sans laisse ?`,
         a: `La plupart des parcs accessibles à pied depuis les hôtels de cette liste ont des zones sans laisse désignées, bien que les règles varient selon l'heure et la zone spécifique. Le personnel de réception de tous les hôtels listés peut fournir une carte actualisée des parcs dog-friendly. Portez toujours une laisse même dans les parcs sans laisse, car certaines zones sont partagées avec des familles et de jeunes enfants.`,
+      },
+    }
+
+    if (extra[catSlug]) base.push(extra[catSlug])
+    return base
+  }
+
+  if (l === 'de') {
+    const freeNote =
+      free > 0
+        ? `${free} der ${hotels.length} Hotels auf dieser Liste erheben überhaupt keine Haustiergebühr.`
+        : 'Die meisten Hotels berechnen eine kleine Reinigungsgebühr von 10 bis 30 € pro Aufenthalt.'
+
+    const base: Faq[] = [
+      {
+        q: `Sind ${catName}-Hotels in ${destName} leicht zu finden?`,
+        a: `Ja: ${destName} bietet ein solides Angebot an wirklich ${catName.toLowerCase()} Unterkünften. Die ${hotels.length} Hotels auf dieser Seite wurden geprüft und akzeptieren Haustiere mit ausdrücklichen Richtlinien, nicht nur vagen Zusagen. Haustierfreundliche Zimmer sind in der Hauptsaison jedoch schnell ausgebucht, daher empfiehlt es sich, mindestens 6 bis 8 Wochen im Voraus zu buchen.`,
+      },
+      {
+        q: `Wie hoch ist die übliche Haustiergebühr in Hotels in ${destName}?`,
+        a: `${freeNote} Die Gebühren liegen je nach Kategorie des Hotels und Tierart zwischen 0 und 50 €. Prüfen Sie bei der Buchung immer die genaue Gebühr in der Haustierrichtlinie des Hotels. Manchmal wird die Gebühr pro Nacht statt pro Aufenthalt berechnet.`,
+      },
+      {
+        q: `Wie hoch ist die übliche Gewichtsgrenze in Hotels in ${destName}?`,
+        a: `Die meisten Hotels in ${destName} legen ein Höchstgewicht von 15 bis 25 kg fest. Einige Häuser, darunter ${topHotel}, akzeptieren Hunde ohne Größenbeschränkung. Die einzelnen Haustierrichtlinien auf jeder Karte oben zeigen die Details; bestätigen Sie immer beim Hotel, wenn Ihr Hund über 20 kg wiegt.`,
+      },
+      {
+        q: `Kann ich mein Haustier allein im Hotelzimmer in ${destName} lassen?`,
+        a: `Die Richtlinien unterscheiden sich je nach Haus. Manche Hotels erlauben es, Haustiere allein im Zimmer zu lassen (oft mit einer Box), andere verlangen, dass der Besitzer jederzeit anwesend ist. Am sichersten ist ein direkter Anruf beim Hotel. Das Personal kann in der Regel lokale Tierbetreuungsdienste empfehlen, falls nötig.`,
+      },
+      {
+        q: `Wann ist die beste Zeit, um ${destName} mit einem Haustier zu besuchen?`,
+        a: `Frühling (April bis Mai) und früher Herbst (September bis Oktober) sind ideal. Die Temperaturen sind mild, weniger Touristen bedeuten ruhigere Straßen und Parks, und die meisten Hotels sind noch nicht in der Hauptsaison ausgelastet. Der Sommer kann in ${destName} sehr heiß sein, was für Tiere anstrengend ist, und das Angebot an haustierfreundlichen Zimmern schrumpft im Juli und August erheblich.`,
+      },
+      {
+        q: `Wie ist die beste Jahreszeit, um ${destName} mit einem Hund zu besuchen?`,
+        a: `Für ${catName.toLowerCase()} Aufenthalte in ${destName} bieten Frühling (März bis Mai) und Herbst (September bis November) die besten Bedingungen. Die Temperaturen sind angenehm für Spaziergänge, die Parks sind weniger überlaufen, und Hotels bieten außerhalb der Hauptsaison oft bessere Preise. Achten Sie im Sommer auf große Hitze, die für Hunde anstrengend sein kann, besonders für kurznasige Rassen.`,
+      },
+      {
+        q: `Welches Viertel in ${destName} eignet sich am besten für ${catName.toLowerCase()} Hotels?`,
+        a: `Die Wahl des Viertels hängt von Ihrem Reisestil ab. Zentrale Viertel bieten leichten Zugang zu Restaurants und Museen, können aber laut sein. Wohnviertel oder Gegenden nahe Parks eignen sich meist besser für Haustiere, mit mehr Grünflächen in der Nähe. Die Hotels auf dieser Liste wurden auch wegen ihrer praktischen Lage für Haustierbesitzer ausgewählt. Nutzen Sie die Karte oben, um die Lagen zu vergleichen.`,
+      },
+    ]
+
+    const extra: Record<string, Faq> = {
+      'beach-access': {
+        q: `Sind Hunde an den Stränden von ${destName} erlaubt?`,
+        a: `Der Zugang für Hunde zu den Stränden von ${destName} variiert je nach Strand und Saison. Viele europäische Strände erlauben Hunde in der Nebensaison (Frühling und Herbst), verhängen aber strenge Einschränkungen von Juni bis September in der Hauptsaison. Außerhalb der Sommersaison sind die Zugangszeiten oft flexibler (vor 9 Uhr und nach 19 Uhr im Sommer). Hotels mit direktem Strandzugang können Sie zu den besten Zeiten und Orten für Hunde beraten. Fragen Sie beim Check-in immer nach einer aktuellen Karte der hundefreundlichen Strände.`,
+      },
+      'dogs-stay-free': {
+        q: `Bedeutet "Hunde übernachten kostenlos" auch keine Kaution?`,
+        a: `In den meisten Fällen ja. Hotels, die keine Haustiergebühr angeben, verlangen in der Regel auch keine Kaution. Das Hotel kann jedoch weiterhin für dokumentierte Schäden durch Ihr Haustier eine Gebühr berechnen. Lesen Sie die vollständige Haustierrichtlinie immer sorgfältig durch und bewahren Sie eine Kopie Ihrer Buchungsbestätigung mit der gebührenfreien Richtlinie auf.`,
+      },
+      'luxury': {
+        q: `Welche Luxusleistungen kann ich für mein Haustier in den Hotels von ${destName} erwarten?`,
+        a: `Erstklassige Hotels in ${destName} haben die Messlatte deutlich höher gelegt. Erwarten Sie Willkommenssets (Bett, Napf, Leckerlis, Spielzeug), In-Room-Menüs für Haustiere, Concierge-Gassi-Service und abendliche Aufmerksamkeiten. Manche Häuser bieten haustierfreundliche Spa-Pakete an oder können Tierarztbesuche organisieren. ${topHotel} ist besonders für sein Haustierangebot bekannt. Prüfen Sie das genaue Angebot bei der Buchung.`,
+      },
+      'near-parks': {
+        q: `Sind die Parks in der Nähe dieser Hotels für Hunde ohne Leine geeignet?`,
+        a: `Die meisten zu Fuß erreichbaren Parks von den Hotels auf dieser Liste haben ausgewiesene Freilaufzonen, auch wenn die Regeln je nach Tageszeit und Bereich variieren. Das Empfangspersonal aller gelisteten Hotels kann eine aktuelle Karte der hundefreundlichen Parks bereitstellen. Tragen Sie auch in Freilaufzonen immer eine Leine bei sich, da manche Bereiche auch von Familien mit kleinen Kindern genutzt werden.`,
       },
     }
 
@@ -8921,6 +11106,50 @@ const catTipsByLocale: Record<string, Record<string, Tip[]>> = {
       { n: 5, title: 'Deje uma resenha detallada mencionando a política de animais', text: 'Después do seu estadia, uma resenha específica mencionando a experiencia pet-friendly ayuda a futuros duenhos de animais a tomar decisiones com confianza. E anima aos hotéis a mantener o mejorar os seus políticas.' },
     ],
   },
+  de: {
+    'dog-friendly': [
+      { n: 1, title: 'Buchen Sie den speziellen Zimmertyp für Haustiere', text: 'Nicht alle Zimmer eines hundefreundlichen Hotels akzeptieren Haustiere. Fragen Sie bei der Buchung gezielt nach dem "haustierfreundlichen" Zimmertyp. Er verfügt meist über einen einfachen Zugang nach draußen und harte Böden statt Teppich.' },
+      { n: 2, title: 'Prüfen Sie das Gewichtslimit vor der Anreise', text: 'Hotels geben oft ein maximales Hundegewicht an (10, 20 oder 25 kg). Liegt Ihr Hund im Grenzbereich, rufen Sie vorab an. Die Richtlinien sind manchmal flexibel, besonders außerhalb der Hauptsaison.' },
+      { n: 3, title: 'Fragen Sie nach lokalen Gassi-Tipps', text: 'Das Concierge-Personal der Hotels auf dieser Liste weiß genau, welche Parks Freilaufzonen sind, welche Cafés Wassernäpfe bereitstellen und welche Straßen für ängstliche Hunde am ruhigsten sind.' },
+      { n: 4, title: 'Bringen Sie einen EU-Heimtierausweis für Grenzübertritte mit', text: 'Wenn Sie mit dem Auto zu Ihrem Ziel reisen, sind EU-Heimtierausweise für Grenzübertritte Pflicht. Stellen Sie sicher, dass die Tollwutimpfung mindestens 21 Tage vor der Reise auf dem neuesten Stand ist.' },
+      { n: 5, title: 'Bestätigen Sie die Richtlinie per E-Mail', text: 'Senden Sie nach der Buchung eine kurze E-Mail mit Name, Rasse und Gewicht Ihres Hundes. Das schafft eine Nachweisspur und beseitigt jede Unklarheit beim Check-in.' },
+    ],
+    'cat-friendly': [
+      { n: 1, title: 'Bitten Sie um ein ruhiges Zimmer abseits des Straßenlärms', text: 'Katzen reagieren empfindlich auf Lärm. Bitten Sie um ein Zimmer zum Innenhof oder in einem oberen Stockwerk. Je weniger Straßenverkehr und Aufzuglärm, desto entspannter ist Ihre Katze.' },
+      { n: 2, title: 'Halten Sie Ihre Katze beim Check-in in der Transportbox', text: 'Eine belebte Hotellobby kann überwältigend sein. Halten Sie Ihre Katze sicher, bis Sie im Zimmer sind. Die meisten Hotels bringen Sie schnell zum Aufzug, wenn Sie bei der Ankunft erwähnen, dass Sie eine Katze dabei haben.' },
+      { n: 3, title: 'Bringen Sie vertraute Gegenstände mit bekanntem Geruch von zuhause mit', text: 'Eine Decke oder ein Spielzeug von zuhause reduziert die Angst in einer neuen Umgebung deutlich. Der vertraute Geruch hilft Katzen, sich innerhalb von Stunden statt Tagen einzugewöhnen.' },
+      { n: 4, title: 'Verschließen Sie zunächst alle Lücken und versteckten Fluchtwege', text: 'Bevor Sie Ihre Katze aus der Transportbox lassen, schließen Sie Fenster, prüfen Sie hinter schweren Möbeln und kleben Sie Lüftungsspalten ab. Ein gründlicher zehnminütiger Rundgang verhindert Fluchtvorfälle.' },
+      { n: 5, title: 'Bitten Sie die Reinigung, anzuklopfen und zu warten', text: 'Bitten Sie die Rezeption, Ihr Zimmer zu markieren, damit die Reinigungskräfte laut klopfen und warten, bevor sie eintreten. Das verhindert versehentliches Entkommen durch eine offene Tür.' },
+    ],
+    'beach-access': [
+      { n: 1, title: 'Prüfen Sie vorab die Hunderegeln am Strand', text: 'Viele europäische Strände verbieten Hunde von Juni bis September oder beschränken die Zeiten auf vor 9 Uhr und nach 19 Uhr. Bitten Sie das Hotel um eine aktuelle Karte der hundezugänglichen Strandabschnitte.' },
+      { n: 2, title: 'Spülen Sie Ihren Hund nach dem Meerwasser ab', text: 'Salzwasser reizt bei wiederholtem Kontakt Pfoten und Haut. Die meisten Hotels mit Strandzugang auf dieser Liste haben Außenduschen. Nutzen Sie sie nach jedem Bad und trocknen Sie die Pfoten gründlich ab.' },
+      { n: 3, title: 'Achten Sie im Sommer auf die Sandhitze', text: 'Trockener Sommersand kann 50–60 °C erreichen und Pfotenballen schwer verbrennen. Testen Sie mit Ihrer Handfläche, bevor Sie Ihren Hund über unbeschatteten Sand führen.' },
+      { n: 4, title: 'Bringen Sie Schatten mit', text: 'Selbst haustierfreundliche Strände verleihen selten Sonnenschirme. Ein tragbarer Strandschirm oder ein geliehener Hotelschirm hält Ihren Hund bei längeren Strandbesuchen angenehm kühl.' },
+      { n: 5, title: 'Halten Sie jederzeit Süßwasser bereit', text: 'Salzwasser macht Hunde durstig und kann bei größeren Mengen Erbrechen verursachen. Packen Sie einen faltbaren Napf und mindestens 1,5 L Süßwasser pro Tag für den Strand ein.' },
+    ],
+    'near-parks': [
+      { n: 1, title: 'Bitten Sie um die Gassi-Routenkarte des Hotels', text: 'Die besten hundefreundlichen Hotels in der Nähe von Parks haben Freilaufzonen, Wassernachfüllstationen und hundefreundliche Café-Terrassen in der Umgebung kartiert. Fragen Sie beim Check-in danach.' },
+      { n: 2, title: 'Gehen Sie früh für das beste Parkerlebnis', text: 'Parks sind vor 9 Uhr am ruhigsten. Weniger Radfahrer, weniger Kinder und mehr Platz. Frühe Morgenstunden sind im Sommer auch kühler und besser für energiegeladene Rassen.' },
+      { n: 3, title: 'Kennen Sie die Freilaufregeln Ihres Parks', text: 'Die Freilaufregeln unterscheiden sich innerhalb desselben Parks von Zone zu Zone. Achten Sie auf Schilder oder fragen Sie das Hotel. Wird ein Hund in einer Leinenpflichtzone ohne Leine erwischt, kann das in manchen Städten ein Bußgeld bedeuten.' },
+      { n: 4, title: 'Packen Sie faltbare Futter- und Wassernäpfe ein', text: 'Leichte Silikonnäpfe wiegen fast nichts und machen Parkstopps für Ihren Hund angenehm, ohne schweres Gepäck mitschleppen zu müssen.' },
+      { n: 5, title: 'Finden Sie den nächstgelegenen Tierarzt zu Ihrem Hotel', text: 'Bitten Sie das Hotel, die nächste 24-Stunden-Tierklinik zu notieren. Die meisten brauchen sie nie, aber die Adresse zu kennen nimmt die Panik, falls doch etwas passiert.' },
+    ],
+    'luxury': [
+      { n: 1, title: 'Fragen Sie das Willkommensset für Haustiere im Voraus an', text: 'Die meisten Luxushotels bieten Willkommenssets (Bett, Napf, Leckerlis, Spielzeug) an, doch der Vorrat ist begrenzt. Fordern Sie eines bei der Buchungsbestätigung an. Nicht erst bei der Ankunft. Um die Verfügbarkeit sicherzustellen.' },
+      { n: 2, title: 'Fragen Sie nach dem Haustier-Concierge-Service', text: 'Mehrere Fünf-Sterne-Hotels auf dieser Liste bieten eigene Haustier-Concierges: Gassi-Service, Speisekarten für Haustiere im Zimmer, Pflegetermine und sogar Tierarztempfehlungen. Fragen Sie vor Ihrer Ankunft, was enthalten ist.' },
+      { n: 3, title: 'Buchen Sie eine haustiertaugliche Suite statt eines Standardzimmers', text: 'Luxussuiten bieten oft bessere Schalldämmung, mehr Bodenfläche für Ihr Haustier zum Bewegen und private Terrassen. Das Upgrade lohnt sich bei einem mehrnächtigen Aufenthalt mit Tier.' },
+      { n: 4, title: 'Bestätigen Sie die Spa-Richtlinie', text: 'Die meisten Luxushotels verlangen, dass Ihr Haustier im Zimmer bleibt, während Sie die Spa-Einrichtungen nutzen. Fragen Sie nach Betreuungsmöglichkeiten. Viele können einen Gassi-Service organisieren, der zeitlich mit Ihrer Behandlung übereinstimmt.' },
+      { n: 5, title: 'Geben Sie dem haustierbewussten Personal Trinkgeld', text: 'Die Reinigungskraft, die sich besonders bemüht, eine schlafende Katze nicht zu stören, und der Page, der Ihren Hund zum Aufzug führt. Kleine Trinkgelder tragen wesentlich zu einem außergewöhnlichen haustierfreundlichen Service während Ihres gesamten Aufenthalts bei.' },
+    ],
+    'dogs-stay-free': [
+      { n: 1, title: 'Lassen Sie sich die Gebührenfreiheit schriftlich bestätigen', text: 'Buchen Sie direkt beim Hotel oder über Booking.com und stellen Sie sicher, dass die Bestätigungs-E-Mail klar "keine Haustiergebühr" angibt. Screenshots der Richtlinie zum Buchungszeitpunkt sind bei Streitigkeiten beim Check-out hilfreich.' },
+      { n: 2, title: 'Verstehen Sie, was "kostenlos" abdeckt', text: '"Hunde übernachten kostenlos" bedeutet keinen Unterkunftszuschlag. Nicht, dass Schäden kostenlos sind. Hotels können weiterhin dokumentierte, durch das Haustier verursachte Schäden (zerkratzte Türen, verschmutzte Teppiche) in Rechnung stellen. Ein verantwortungsvoller Aufenthalt schützt alle.' },
+      { n: 3, title: 'Bringen Sie Ihr eigenes Hundebett oder eine Decke mit', text: 'Selbst gebührenfreie Hotels stellen nicht immer ein Hundebett bereit. Eine vertraute Decke von zuhause mitzubringen hält Ihren Hund bequem und schützt die Hoteleinrichtung vor Fell und Pfotenabdrücken.' },
+      { n: 4, title: 'Vergleichen Sie die Kosten pro Aufenthalt über mehrere Nächte', text: 'Ein Hotel mit einer Gebühr von 20 €/Aufenthalt kann günstiger sein als ein "Hunde übernachten kostenlos"-Hotel, wenn der Basiszimmerpreis deutlich niedriger ist. Vergleichen Sie immer die Gesamtkosten über die Dauer Ihres Aufenthalts.' },
+      { n: 5, title: 'Hinterlassen Sie eine ausführliche Bewertung mit Erwähnung der Haustierrichtlinie', text: 'Nach Ihrem Aufenthalt hilft eine konkrete Bewertung, die das hundefreundliche Erlebnis erwähnt, zukünftigen Haustierbesitzern bei einer sicheren Entscheidung. Und sie ermutigt Hotels, ihre Richtlinien beizubehalten oder zu verbessern.' },
+    ],
+  },
 }
 
 // ─── Why Section ─────────────────────────────────────────────────────────────
@@ -8963,6 +11192,14 @@ const catBullet3: Record<string, Record<string, (d: string, ctx: DestCtx) => str
     'luxury':         (d, ctx) => `Os establecimientos de lujo de ${ctx.area} han desarrollado paquetes completos de conserjería para animais. Kits de bienvenida, menús en habitación, reservas de paseadores. Porque os seus huéspedes lo exigieron.`,
     'dogs-stay-free': (d) =>      `As políticas sem cargo aqui estão confirmadas e são válidas o ano inteiro. No são promociones estacionales ni com restricciones de peso. Haciendo de ${d} um destino fiablemente económico para os duenhos de animais.`,
   },
+  de: {
+    'dog-friendly':   (d, ctx) => `Die für diesen Guide ausgewählten Hotels liegen gezielt in ${ctx.area}, wo die Infrastruktur für Haustiere am dichtesten ist und lokale Restaurants regelmäßig Wassernäpfe und Terrassenzugang bieten.`,
+    'cat-friendly':   (d) =>      `Katzenfreundliche Zimmer in ${d} sind meist ruhigere Einheiten in oberen Stockwerken mit zuverlässigem Aufzugszugang. Wichtige Merkmale, die Katzengäste den ganzen Aufenthalt über entspannt halten.`,
+    'beach-access':   (_d) =>     `Die haustierfreundlichen Strandabschnitte in der Nähe dieser Hotels sind zu vernünftigen Zeiten zugänglich. Kein Wecker um 6 Uhr nötig. Für den Großteil des Jahres, was die Planung einfach macht.`,
+    'near-parks':     (d, ctx) => `Die Hotels auf dieser Liste liegen alle in unter 10 Gehminuten zu Freilaufzonen in ${ctx.highlight}. Kein Überqueren belebter Straßen, keine Logistik vor dem Morgenspaziergang.`,
+    'luxury':         (d, ctx) => `Luxusunterkünfte in ${ctx.area} haben umfassende Concierge-Pakete für Haustiere entwickelt. Willkommenssets, Speisekarten fürs Zimmer und Buchung von Gassi-Service. Weil ihre Gäste es verlangt haben.`,
+    'dogs-stay-free': (d) =>      `Die gebührenfreien Richtlinien hier sind bestätigt und gelten ganzjährig. Keine saisonalen Aktionen oder Gewichtsbeschränkungen. Das macht ${d} zu einem zuverlässig kostengünstigen Reiseziel für Haustierbesitzer.`,
+  },
 }
 
 const bestSeasonByLocale: Record<string, Record<string, string>> = {
@@ -8982,6 +11219,10 @@ const bestSeasonByLocale: Record<string, Record<string, string>> = {
     'pet-friendly': 'primavera & outono', 'cat-friendly': 'o ano inteiro', 'beach-access': 'primavera & principios de outono',
     'near-parks': 'primavera & outono', 'luxury': 'o ano inteiro', 'dogs-stay-free': 'o ano inteiro',
   },
+  de: {
+    'dog-friendly': 'Frühling & Herbst', 'cat-friendly': 'ganzjährig', 'beach-access': 'Frühling & früher Herbst',
+    'near-parks': 'Frühling & Herbst', 'luxury': 'ganzjährig', 'dogs-stay-free': 'ganzjährig',
+  },
 }
 
 export function generateWhy(
@@ -8990,11 +11231,11 @@ export function generateWhy(
   catSlug: string,
   locale: string = 'en'
 ): WhySection {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
   const ctx = (destContextByLocale[l] ?? destContextByLocale['en'])[destSlug] ?? {
-    personality: l === 'fr' ? 'une destination européenne populaire' : l === 'es' ? 'un destino europeo popular' : 'a popular European destination',
-    highlight: l === 'fr' ? 'les espaces verts locaux' : l === 'es' ? 'los espacios verdes locales' : 'local parks and green spaces',
-    area: l === 'fr' ? 'le centre-ville' : l === 'es' ? 'el centro de la ciudad' : 'the city centre',
+    personality: l === 'fr' ? 'une destination européenne populaire' : l === 'es' ? 'un destino europeo popular' : l === 'de' ? 'ein beliebtes europäisches Reiseziel' : 'a popular European destination',
+    highlight: l === 'fr' ? 'les espaces verts locaux' : l === 'es' ? 'los espacios verdes locales' : l === 'de' ? 'lokale Parks und Grünflächen' : 'local parks and green spaces',
+    area: l === 'fr' ? 'le centre-ville' : l === 'es' ? 'el centro de la ciudad' : l === 'de' ? 'das Stadtzentrum' : 'the city centre',
   }
 
   const bullet3fn = (catBullet3[l] ?? catBullet3['en'])[catSlug]
@@ -9004,7 +11245,9 @@ export function generateWhy(
       ? `La politique pet-friendly de ces hôtels a été vérifiée individuellement. Pas de surprises à l'enregistrement.`
       : l === 'es'
         ? `La política pet-friendly de estos hoteles ha sido verificada individualmente. Sin sorpresas en el check-in.`
-        : `Pet policies at every hotel on this list have been verified individually. No surprises at check-in.`
+        : l === 'de'
+          ? `Die Haustierrichtlinie jedes Hotels auf dieser Liste wurde einzeln geprüft. Keine Überraschungen beim Check-in.`
+          : `Pet policies at every hotel on this list have been verified individually. No surprises at check-in.`
 
   const bullets =
     l === 'fr'
@@ -9019,14 +11262,20 @@ export function generateWhy(
             `${destName} es ${ctx.personality}, los animales son bienvenidos en calles, terrazas y comercios habituales.`,
             bullet3,
           ]
-        : [
+        : l === 'de'
+          ? [
+              `In ${destName} sind ${ctx.highlight} von jedem Hotel dieser Liste aus erreichbar, ideal für Ausflüge morgens und abends.`,
+              `${destName} ist ${ctx.personality}; Tiere gehören hier ganz selbstverständlich zum Straßenleben, zu Caféterrassen und Geschäften vor Ort.`,
+              bullet3,
+            ]
+          : [
             `In ${destName}, ${ctx.highlight} are within reach of every hotel on this list, good for morning and evening outings.`,
             `${destName} is ${ctx.personality}, pets are a normal part of street life, café terraces, and local shops.`,
             bullet3,
           ]
 
   const bestSeason = (bestSeasonByLocale[l] ?? bestSeasonByLocale['en'])[catSlug] ?? (
-    l === 'fr' ? 'printemps & automne' : l === 'es' ? 'primavera & otoño' : 'spring & autumn'
+    l === 'fr' ? 'printemps & automne' : l === 'es' ? 'primavera & otoño' : l === 'de' ? 'Frühling & Herbst' : 'spring & autumn'
   )
 
   return { bullets, bestSeason }
@@ -9073,6 +11322,14 @@ const testimonialsByLocale: Record<string, Record<string, (d: string) => Testimo
     'luxury':         (d) => ({ emoji: '✨', text: `Nos dimos o capricho de uno dos hotéis de lujo pet-friendly de ${d} para nuestro aniversario. O hotel havia preparado um kit de bienvenida para nuestro Cocker. Uma cama de verdad, um cuenco de cerámica e auténticas galletas para cães de uma panadería local. O conserje le paseó mientras estábamos no spa. Valió cada euro.`, attribution: ' Resenha verificada, cliente lujo' }),
     'dogs-stay-free': (d) => ({ emoji: '🎉', text: `Evitaba as escapadas urbanas com Bruno pelas tarifas acumuladas por animais. Suman 200 € o mais numa semana. Alojarse num hotel confirmado sem cargo en ${d} eliminó esa fricción. A misma calidad de estadia, muito melhor valor. Ahora é nuestro enfoque de reserva por defecto.`, attribution: ' Resenha verificada, estadia sem cargo' }),
   },
+  de: {
+    'dog-friendly':   (d) => ({ emoji: '🐕', text: `Wir haben fünf Nächte in ${d} mit unserem 30 kg schweren Labrador Max verbracht. Ein Hotel zu finden, das ihn wirklich willkommen hieß. Nicht nur "erlaubte". Hat den gesamten Urlaub geprägt. Der Concierge hatte beim Check-in bereits eine Karte der örtlichen Parks bereit und wusste genau, welche Cafés Wassernäpfe aufstellen. Wir haben für den Frühling schon wieder gebucht.`, attribution: ' Verifizierter Reisender, hundefreundlicher Aufenthalt' }),
+    'cat-friendly':   (d) => ({ emoji: '🐈', text: `Ich war wirklich nervös, Simone (meine Bengalkatze) in ein Stadthotel mitzunehmen. Das Personal in ${d} war großartig. Sie hatten eine Zimmerecke mit Platz für die Katzentoilette vorbereitet und Handtücher gefaltet, um die Heizkörperspalten abzudecken. Sie hat sich innerhalb von zwei Stunden eingelebt. Ich würde jederzeit wiederkommen.`, attribution: ' Verifizierte Bewertung, Katzenbesitzerin' }),
+    'beach-access':   (d) => ({ emoji: '🏖️', text: `Wir haben uns gezielt für ${d} entschieden, weil das Hotel nur fünf Minuten von einem hundefreundlichen Strandabschnitt entfernt lag. Unsere Vizsla verbrachte jeden Tag vier Stunden im Meer, und das Hotel hatte Außenduschen, sodass wir nie Sand durch die Lobby schleppten. Die perfekte Kombination. Wir kommen jeden Sommer wieder.`, attribution: ' Verifizierte Bewertung, Strandaufenthalt' }),
+    'near-parks':     (d) => ({ emoji: '🌳', text: `Was mich von ${d} überzeugt hat, war die Nähe. Wir waren innerhalb von sechs Minuten nach Verlassen des Hotelzimmers im Park. Unser Windhund aus dem Tierschutz braucht lange, ruhige Spaziergänge, und die nahegelegenen Freilaufzonen waren ideal. Das Personal kannte jede gute Route, ohne dass wir fragen mussten. Wirklich hundeorientiertes Denken.`, attribution: ' Verifizierte Bewertung, Parkaufenthalt' }),
+    'luxury':         (d) => ({ emoji: '✨', text: `Wir haben uns für unser Jubiläum eines der luxuriösen haustierfreundlichen Hotels in ${d} gegönnt. Das Hotel hatte für unseren Spaniel ein Willkommensset vorbereitet. Ein richtiges Bett, einen Keramiknapf und echte Hundekekse aus einer örtlichen Bäckerei. Der Concierge ist mit ihm Gassi gegangen, während wir im Spa waren. Jeden Euro wert.`, attribution: ' Verifizierte Bewertung, Luxusgast' }),
+    'dogs-stay-free': (d) => ({ emoji: '🎉', text: `Ich habe Städtereisen mit Bruno wegen der sich summierenden Haustiergebühren gemieden. Sie summieren sich auf 200 € und mehr für eine Woche. Der Aufenthalt in einem bestätigt gebührenfreien Hotel in ${d} hat diese Hürde komplett beseitigt. Gleiche Qualität, deutlich besseres Preis-Leistungs-Verhältnis. Jetzt unser Standardansatz bei der Buchung.`, attribution: ' Verifizierte Bewertung, gebührenfreier Aufenthalt' }),
+  },
 }
 
 export function generateTestimonial(
@@ -9080,13 +11337,13 @@ export function generateTestimonial(
   catSlug: string,
   locale: string = 'en'
 ): Testimonial | null {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
   const fn = (testimonialsByLocale[l] ?? testimonialsByLocale['en'])[catSlug]
   return fn ? fn(destName) : null
 }
 
 export function generateTips(catSlug: string, destName: string, locale: string = 'en'): Tip[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
   const tipsMap = catTipsByLocale[l] ?? catTipsByLocale['en']
   const tips = tipsMap[catSlug]
   if (tips) return tips
@@ -9108,6 +11365,15 @@ export function generateTips(catSlug: string, destName: string, locale: string =
       { n: 3, title: 'Prepare lo esencial', text: 'Documentos de vacunación, pasaporte europeo para mascotas para cruzar fronteras, comida para el viaje y una manta familiar de casa.' },
       { n: 4, title: 'Pregunte por los servicios locales para mascotas', text: 'El personal de conserjería puede recomendar veterinarios locales, paseadores de perros, peluqueros y terrazas de restaurantes dog-friendly.' },
       { n: 5, title: 'Deje una reseña después de su estancia', text: 'Las reseñas detalladas de dueños de mascotas ayudan a futuros viajeros a encontrar hoteles genuinamente acogedores y animan a los establecimientos a mantener altos estándares.' },
+    ]
+  }
+  if (l === 'de') {
+    return [
+      { n: 1, title: 'Früh buchen', text: `Haustierfreundliche Zimmer in ${destName} sind begrenzt und in der Hauptsaison schnell ausgebucht. Eine Buchung 6 bis 8 Wochen im Voraus ist empfehlenswert.` },
+      { n: 2, title: 'Haustierrichtlinie direkt bestätigen', text: 'Auch nach der Buchung sorgt eine kurze E-Mail oder ein Anruf zur Bestätigung der Details Ihres Haustiers für einen reibungslosen Check-in.' },
+      { n: 3, title: 'Das Wichtigste einpacken', text: 'Impfnachweise, EU-Heimtierausweis für Grenzübertritte, Futter für die Reise und eine vertraute Decke von zu Hause.' },
+      { n: 4, title: 'Nach lokalen Haustierdiensten fragen', text: 'Das Concierge-Personal kann lokale Tierärzte, Hundeausführer, Groomer und hundefreundliche Restaurantterrassen empfehlen.' },
+      { n: 5, title: 'Nach dem Aufenthalt eine Bewertung hinterlassen', text: 'Ausführliche Bewertungen von Haustierbesitzern helfen künftigen Reisenden, wirklich einladende Hotels zu finden, und ermutigen die Häuser, hohe Standards zu halten.' },
     ]
   }
   return [
@@ -9137,9 +11403,9 @@ export function generateDestFaqs(
   hotelCount: number,
   locale: string = 'en'
 ): Faq[] {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
   const ctx = (destContextByLocale[l] ?? destContextByLocale['en'])[destSlug]
-  const highlight = ctx?.highlight ?? (l === 'fr' ? 'ses parcs et espaces verts' : l === 'es' ? 'sus parques y espacios verdes' : 'its parks and green spaces')
+  const highlight = ctx?.highlight ?? (l === 'fr' ? 'ses parcs et espaces verts' : l === 'es' ? 'sus parques y espacios verdes' : l === 'de' ? 'seine Parks und Grünflächen' : 'its parks and green spaces')
 
   if (l === 'fr') {
     return [
@@ -9158,6 +11424,26 @@ export function generateDestFaqs(
       {
         q: `Faut-il apporter un passeport pour animal de compagnie à ${destName} ?`,
         a: `Si vous voyagez depuis l'UE, un passeport européen pour animaux (avec vaccin antirabique à jour) est recommandé pour ${country}. Hors UE, vérifiez les exigences d'entrée auprès de l'ambassade de ${country} dans votre pays de résidence.`,
+      },
+    ]
+  }
+  if (l === 'de') {
+    return [
+      {
+        q: `Akzeptieren die Hotels in ${destName} wirklich Haustiere?`,
+        a: `Ja. Die ${hotelCount} auf dieser Seite gelisteten Hotels wurden geprüft und haben eine ausdrückliche Haustierrichtlinie auf Booking.com. Wir listen keine Hotels, die nur "je nach Verfügbarkeit" angeben. Jedes Haus heißt Haustiere aktiv willkommen.`,
+      },
+      {
+        q: `Wo sind die besten Orte, um mit einem Hund in ${destName} spazieren zu gehen?`,
+        a: `${destName} bietet ausgezeichnete Optionen: ${highlight}. Diese Bereiche lassen Hunde sich frei austoben, in kurzer Entfernung von den Hotels auf dieser Liste.`,
+      },
+      {
+        q: `Wie hoch ist die durchschnittliche Haustiergebühr in Hotels in ${destName}?`,
+        a: `Haustiergebühren liegen in ${destName} meist zwischen 0 und 30 € pro Nacht. Manche Premium-Hotels können bis zu 50 € berechnen. Etwa 40 % der Häuser auf unserer Liste erheben keine zusätzliche Gebühr. Filtern Sie nach "Hunde übernachten kostenlos", um diese zu finden.`,
+      },
+      {
+        q: `Brauche ich einen Heimtierausweis für eine Reise nach ${destName}?`,
+        a: `Wenn Sie aus der EU anreisen, wird ein EU-Heimtierausweis (mit aktueller Tollwutimpfung) für ${country} empfohlen. Außerhalb der EU prüfen Sie die Einreisebestimmungen bei der Botschaft von ${country} in Ihrem Wohnsitzland.`,
       },
     ]
   }
@@ -9202,7 +11488,7 @@ export function generateDestFaqs(
 }
 
 export function generateDestIntro(destSlug: string, destName: string, country: string, locale: string = 'en'): string {
-  const l = locale === 'fr' || locale === 'es' || locale === 'pt' ? locale : 'en'
+  const l = locale === 'fr' || locale === 'es' || locale === 'pt' || locale === 'de' ? locale : 'en'
   const ctxMap = destContextByLocale[l] ?? destContextByLocale['en']
   const ctx = ctxMap[destSlug]
   if (!ctx) return ''
@@ -9212,6 +11498,9 @@ export function generateDestIntro(destSlug: string, destName: string, country: s
   }
   if (l === 'es') {
     return `${destName} es ${ctx.personality}. Los mejores lugares para pasear con mascotas son ${ctx.highlight}, especialmente en el barrio de ${ctx.area}.`
+  }
+  if (l === 'de') {
+    return `${destName} ist ${ctx.personality}. Die besten Orte für Haustiere sind ${ctx.highlight}, besonders rund um ${ctx.area}.`
   }
   return `${destName} is ${ctx.personality}. Top spots for pets include ${ctx.highlight}, especially around ${ctx.area}.`
 }

@@ -346,7 +346,7 @@ export default async function ComboPage({
                   <span className="text-white/50 text-2xl lg:text-3xl font-semibold"> ({year})</span>
                 </h1>
                 <p className="text-white/75 text-base lg:text-lg max-w-xl leading-relaxed">
-                  {comboHotels.length} {p.handpicked} · {localizedCountry} · {p.updatedLabel} {new Date().toLocaleDateString(locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'pt' ? 'pt-PT' : 'en-GB', { month: 'long', year: 'numeric' })}
+                  {comboHotels.length} {p.handpicked} · {localizedCountry} · {p.updatedLabel} {new Date().toLocaleDateString(locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'pt' ? 'pt-PT' : locale === 'de' ? 'de-DE' : 'en-GB', { month: 'long', year: 'numeric' })}
                 </p>
               </div>
 
@@ -613,7 +613,7 @@ export default async function ComboPage({
                   const currentMonth = months[new Date().getMonth()]
                   const w = weather[currentMonth]
                   const monthName = new Date().toLocaleDateString(
-                    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'pt' ? 'pt-PT' : 'en-GB',
+                    locale === 'fr' ? 'fr-FR' : locale === 'es' ? 'es-ES' : locale === 'pt' ? 'pt-PT' : locale === 'de' ? 'de-DE' : 'en-GB',
                     { month: 'long' }
                   )
                   return (

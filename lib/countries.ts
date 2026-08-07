@@ -269,10 +269,27 @@ export function ptCountryPhrase(englishName: string): string {
   return COUNTRY_PT_PHRASE[englishName] ?? `em ${getLocalizedCountryName(englishName, 'pt')}`
 }
 
+const COUNTRIES_DE: Record<string, string> = {
+  France: 'Frankreich', Spain: 'Spanien', Italy: 'Italien', Belgium: 'Belgien',
+  Germany: 'Deutschland', Portugal: 'Portugal', Netherlands: 'Niederlande',
+  'Czech Republic': 'Tschechien', Austria: 'Österreich', Denmark: 'Dänemark',
+  Sweden: 'Schweden', Switzerland: 'Schweiz', Hungary: 'Ungarn', Croatia: 'Kroatien',
+  'United Kingdom': 'Vereinigtes Königreich', Ireland: 'Irland', Iceland: 'Island',
+  Slovenia: 'Slowenien', Latvia: 'Lettland', Estonia: 'Estland', Poland: 'Polen',
+  Greece: 'Griechenland', Norway: 'Norwegen', Finland: 'Finnland', Bulgaria: 'Bulgarien',
+  Romania: 'Rumänien', Serbia: 'Serbien', Slovakia: 'Slowakei', Lithuania: 'Litauen',
+  Luxembourg: 'Luxemburg', Malta: 'Malta', 'United States': 'Vereinigte Staaten',
+  Albania: 'Albanien', Cyprus: 'Zypern', Montenegro: 'Montenegro',
+  'United Arab Emirates': 'Vereinigte Arabische Emirate', Turkey: 'Türkei',
+  Georgia: 'Georgien', Morocco: 'Marokko', 'New Zealand': 'Neuseeland',
+  Australia: 'Australien', Canada: 'Kanada', Japan: 'Japan',
+}
+
 export function getLocalizedCountryName(englishName: string, locale: string): string {
   if (locale === 'fr') return COUNTRIES_FR[englishName] ?? englishName
   if (locale === 'es') return COUNTRIES_ES[englishName] ?? englishName
   if (locale === 'pt') return COUNTRIES_PT[englishName] ?? englishName
+  if (locale === 'de') return COUNTRIES_DE[englishName] ?? englishName
   return englishName
 }
 

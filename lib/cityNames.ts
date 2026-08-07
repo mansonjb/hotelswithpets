@@ -207,6 +207,19 @@ const NAMES_PT: Record<string, string> = {
   wroclaw: 'Wroclaw',
 }
 
+// Only cities whose German name differs from English; others fall back to English.
+const NAMES_DE: Record<string, string> = {
+  rome: 'Rom', lisbon: 'Lissabon', vienna: 'Wien', milan: 'Mailand',
+  naples: 'Neapel', venice: 'Venedig', florence: 'Florenz', munich: 'München',
+  cologne: 'Köln', prague: 'Prag', copenhagen: 'Kopenhagen', warsaw: 'Warschau',
+  athens: 'Athen', geneva: 'Genf', nice: 'Nizza', brussels: 'Brüssel',
+  'the-hague': 'Den Haag', seville: 'Sevilla', genoa: 'Genua', turin: 'Turin',
+  krakow: 'Krakau', gdansk: 'Danzig', wroclaw: 'Breslau', belgrade: 'Belgrad',
+  ostend: 'Ostende', gothenburg: 'Göteborg', 'santiago-de-compostela': 'Santiago de Compostela',
+  antwerp: 'Antwerpen', bruges: 'Brügge', ghent: 'Gent', dubrovnik: 'Dubrovnik',
+  moscow: 'Moskau', lyon: 'Lyon',
+}
+
 export function getLocalizedCityName(
   slug: string,
   englishName: string,
@@ -215,5 +228,6 @@ export function getLocalizedCityName(
   if (locale === 'fr') return NAMES_FR[slug] ?? englishName
   if (locale === 'es') return NAMES_ES[slug] ?? englishName
   if (locale === 'pt') return NAMES_PT[slug] ?? englishName
+  if (locale === 'de') return NAMES_DE[slug] ?? englishName
   return englishName
 }

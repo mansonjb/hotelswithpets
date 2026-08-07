@@ -27,6 +27,27 @@ Last commit: 82a94002. Verify build: `npm run build` (exit 0), then
       `components/home/Hero.tsx` (HEADLINES/REVIEW/TRUST + inline labels + lang
       extended to include de), `data/categories.json` nameDe (chip names).
 
+## DONE wave 1 (homepage) + wave 2 (money pages) -- committed on branch
+- [x] Full homepage native (all home components + categories.json nameDe/descriptionDe).
+- [x] editorial.ts: de for destContextByLocale (418 cities), catIntros/catTips/
+      catBullet3/bestSeason/testimonials, and de branches in generateIntro/Faqs/
+      Tips/Why/DestIntro/DestFaqs. IMPORTANT FIX: the locale coercion
+      `l = ...=== 'pt' ? locale : 'en'` was silently mapping de->en; de added.
+- [x] petPolicy.ts: localizedPetPolicy + highlightPhrase + ratingWord de.
+- [x] combo page [destination]/[category]: getCategoryName de, metadata de, freePart de.
+- Result: /de/{city}/{category} money pages render fully German. Tooling in
+      scratchpad: extract-destctx.mjs + merge-destctx.mjs (patch-merge pattern).
+
+## KNOWN small gaps to close (quick)
+- cityNames.ts: no NAMES_DE -> German pages show English city names (Rom, Lissabon,
+  Wien, Mailand...). Add a NAMES_DE map + a `de` branch in getLocalizedCityName.
+- Country names: `dest.country` / getLocalizedCountryName shows English ("France")
+  on /de. Add de country map.
+- ItemList JSON-LD `name: \`Best ${catName} Hotels...\`` (combo page ~line 170/213)
+  is English for ALL locales (not just de) -- localize when convenient (invisible).
+- combo page still has `freePart`/date `toLocaleDateString(locale === 'fr' ...)` and a
+  couple inline `locale === 'fr' ? ... : en` bits -- verify all have de.
+
 ## TODO native German (priority order) -- each is additive, build stays green
 1. **Lower homepage sections** (still EN fallback). Files, each has a COPY /
    per-locale Record needing a `de:` block:

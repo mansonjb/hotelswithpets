@@ -60,7 +60,18 @@ Last commit: 82a94002. Verify build: `npm run build` (exit 0), then
 - [x] guide-page template [slug]/[guide]/page.tsx UI: de (META_TPL, guideLabels,
       TIP_NAME_I18N, lang coercion, booking-block CTAs).  <-- verify after agent commit
 
-## BIGGEST remaining wave: city-guides/*.json CONTENT (45 MB, 418 files)
+## DONE wave 5: guide template de reads + parks/beaches content (40 top cities)
+- [x] guide template reads de (interfaces + loc() + all content reads; commit 62ebaffd).
+- [x] parks + beaches sections translated to native German for 40 top cities
+      (titleDe/introDe/faqsDe + per-place descriptionDe/leashRulesDe/facilitiesDe/
+      tipDe), 696 place fields. Tooling: scratchpad/extract-guides.mjs +
+      merge-guides.mjs. Verified: /de/destinations/paris/parks renders full German.
+- To CONTINUE the city-guides wave: edit extract-guides.mjs `SECTIONS` (add
+  restaurants/transport/vets/tips/attractions/petsitting) and/or widen `TOP` to
+  all 418 slugs, re-run extract -> launch gd agents (4 cities/batch) -> merge-guides.mjs
+  -> build -> commit. 9 places didn't name-match on this run (kept en); acceptable.
+
+## STILL remaining: rest of city-guides/*.json CONTENT
 Each file has 8 sections (restaurants/parks/transport/beaches/vets/tips/attractions/
 petsitting); each section has titleEn/Fr/Es/Pt, introEn/Fr/Es/Pt, faqsEn/Fr/Es/Pt and
 places[] (each place name + localized desc). NONE have *De yet. The guide TEMPLATE now

@@ -39,7 +39,11 @@
           "tipFr": "L'endroit est petit : réservez en saison et signalez que vous venez avec un chien",
           "tipEs": "Es pequeño: reserva en temporada y avisa de que vienes con un perro",
           "tipPt": "É pequeno: reserve na época e avise que leva um cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Chicco+e+Rosa+Sanremo"
+          "googleMapsUrl": "https://maps.google.com/?q=Chicco+e+Rosa+Sanremo",
+          "descriptionDe": "Ein kleines, angesehenes Fischrestaurant einen Schritt von der Piazza Bresca entfernt, in dem Hunde ausdrücklich willkommen sind. Die Küche stützt sich auf den täglichen Fang, der im Alten Hafen gleich unterhalb angelandet wird, daher ist die Speisekarte kurz und saisonal.",
+          "petPolicyDe": "Hunde willkommen",
+          "mustTryDe": "Was auch immer der Tagesfang gebracht hat, ligurischer Weißwein",
+          "tipDe": "Das Lokal ist klein, also in der Saison im Voraus reservieren und erwähnen, dass Sie einen Hund mitbringen"
         },
         {
           "name": "Piazza Bresca terraces",
@@ -65,7 +69,11 @@
           "tipFr": "Demandez une table côté place : c'est plat et de plain-pied, aucune marche pour votre chien",
           "tipEs": "Pide una mesa del lado de la plaza: es llana y a nivel, sin escalones para tu perro",
           "tipPt": "Peça uma mesa do lado da praça: é plana e ao nível, sem degraus para o seu cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Piazza+Bresca+Sanremo"
+          "googleMapsUrl": "https://maps.google.com/?q=Piazza+Bresca+Sanremo",
+          "descriptionDe": "Der laternenbeleuchtete Platz hinter dem Alten Hafen ist von Trattorien und Pizzerias umringt, deren Tische sich über das flache Pflaster ausbreiten, und diese Freiluftkulisse ist die zuverlässige Option, um mit Hund essen zu gehen. Nach der üblichen ligurischen Norm sind angeleinte, ruhige Hunde an den Außentischen meist willkommen, also eine Terrasse wählen und an der Tür bestätigen.",
+          "petPolicyDe": "Angeleinte Hunde an Außentischen meist willkommen (ligurische Norm); je nach Lokal bestätigen",
+          "mustTryDe": "Fritto misto, Trofie al pesto, ligurischer Sciacchetrà-Dessertwein",
+          "tipDe": "Um einen Tisch auf der Platzseite bitten; dort ist es flach und eben, also keine Stufen für Ihren Hund"
         },
         {
           "name": "Ristorante Da Nicò. Trattoria del Porto",
@@ -91,7 +99,11 @@
           "tipFr": "Les soirées sur la place sont animées ; un déjeuner plus calme convient mieux à un chien craintif",
           "tipEs": "Las noches en la plaza son animadas; un almuerzo más tranquilo va mejor con un perro nervioso",
           "tipPt": "As noites na praça são animadas; um almoço mais calmo é melhor para um cão nervoso",
-          "googleMapsUrl": "https://maps.google.com/?q=Ristorante+Da+Nico+Piazza+Bresca+Sanremo"
+          "googleMapsUrl": "https://maps.google.com/?q=Ristorante+Da+Nico+Piazza+Bresca+Sanremo",
+          "descriptionDe": "Seit 1935 eine feste Größe an der Piazza Bresca, verarbeitet diese Familientrattoria ligurische und süditalienische Meeresfrüchte nur wenige Meter von den Fischerbooten entfernt. Wie im Rest des Platzes sind die Außentische die hundefreundliche Option nach der üblichen ligurischen Terrassenregel.",
+          "petPolicyDe": "Angeleinte Hunde an Außentischen meist willkommen; bei der Reservierung bestätigen",
+          "mustTryDe": "Fisch-Antipasti, Spaghetti allo scoglio",
+          "tipDe": "Abends ist es auf dem Platz lebhaft; ein ruhigeres Mittagessen eignet sich besser für einen nervösen Hund"
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "O peixe é mesmo local?",
           "a": "Sim. Os barcos do Porto Velho desembarcam a pesca todas as manhãs e abastecem diretamente as peixarias e cozinhas da Piazza Bresca, por isso a ementa do dia vem mesmo da água logo abaixo da praça."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Sanremo",
+      "introDe": "Das kulinarische Herz von Sanremo ist die Piazza Bresca, ein kleiner, enger Platz mit Fischrestaurants und Pizzerias direkt hinter dem Porto Vecchio, und hier lässt sich mit Hund am einfachsten essen gehen. Wie in ganz Ligurien gilt die praktikable Regel: die Außenterrasse. Angeleinte, ruhige Hunde sind an den Tischen auf Gehweg und Platz meist willkommen, auch wenn kleine Innenräume dafür nicht geeignet sind, daher lohnt es sich immer, dies bei der Reservierung zu bestätigen. Der Alte Hafen beliefert die Fischhändler und Küchen hier jeden Morgen, sodass die Meeresfrüchte wirklich lokal sind, und der flache, ebenerdige Platz bedeutet, dass Ihr Hund den Tisch ohne Treppen erreicht.",
+      "faqsDe": [
+        {
+          "q": "Wo lässt sich in Sanremo am einfachsten mit Hund essen gehen?",
+          "a": "Die Piazza Bresca, der kleine Restaurantplatz direkt hinter dem Porto Vecchio. Er ist flach und liegt auf Meereshöhe, umringt von Fischtrattorien und Pizzerias, deren Terrassen sich auf den Platz ausdehnen, und angeleinte, ruhige Hunde sind an den Außentischen meist willkommen."
+        },
+        {
+          "q": "Darf mein Hund mit ins Restaurant hinein?",
+          "a": "Das ist unterschiedlich. Viele Küchen in Sanremo haben kleine Innenräume, die für Hunde nicht geeignet sind, daher ist die zuverlässige Option die Außenterrasse, die der üblichen ligurischen Norm folgt, angeleinte, ruhige Hunde willkommen zu heißen. Bestätigen Sie dies immer bei der Reservierung."
+        },
+        {
+          "q": "Sind die Meeresfrüchte wirklich lokal?",
+          "a": "Ja. Die Fischerboote des Alten Hafens landen jeden Morgen den Fang und beliefern die Fischhändler und Küchen der Piazza Bresca direkt, sodass das tägliche Fischmenü wirklich aus dem Wasser gleich unterhalb des Platzes stammt."
+        }
       ]
     },
     "parks": {
@@ -199,7 +227,10 @@
           "tipPt": "Alugue uma bicicleta com atrelado para cães num dos pontos de aluguer do caminho se o seu cão se cansar; a sombra é escassa, leve água",
           "website": "https://www.pistaciclabilerivieradeifiori.it/",
           "googleMapsUrl": "https://maps.google.com/?q=Pista+Ciclabile+Parco+Costiero+Sanremo",
-          "photo": "/images/city-places/sanremo-parks-pista-ciclabile-parco-costiero.jpg"
+          "photo": "/images/city-places/sanremo-parks-pista-ciclabile-parco-costiero.jpg",
+          "offLeashAreaDe": "Nein; Hunde an der Leine, wie auf italienischen öffentlichen Wegen",
+          "descriptionDe": "Der Star der Küste: ein flacher, asphaltierter Küstenweg auf der alten Bahnstrecke Genua-Ventimiglia, der etwa 24 km durch Sanremo zwischen Ospedaletti und San Lorenzo al Mare verläuft. Er ist eben, weitgehend verkehrsfrei und wird von Fußgängern und Radfahrern geteilt, damit ist er der beste lange Spaziergang der Gegend mit Hund, am besten früh vor der Mittagssonne zu machen.",
+          "tipDe": "An einem der Verleihpunkte des Weges ein Fahrrad mit Hundeanhänger mieten, falls Ihr Hund müde wird; der Schatten ist fleckenweise, also Wasser mitnehmen"
         },
         {
           "name": "Giardini di Villa Ormond",
@@ -219,7 +250,10 @@
           "tipPt": "O jardim abre diariamente e é gratuito; mantenha-se nos trilhos e recolha, é uma coleção botânica cuidada",
           "website": "",
           "googleMapsUrl": "https://maps.google.com/?q=Giardini+di+Villa+Ormond+Sanremo",
-          "photo": "/images/city-places/sanremo-parks-giardini-villa-ormond.jpg"
+          "photo": "/images/city-places/sanremo-parks-giardini-villa-ormond.jpg",
+          "offLeashAreaDe": "Nein; Hunde an der Leine im Garten",
+          "descriptionDe": "Ein kostenloser öffentlicher Park an der Corso Cavallotti, angelegt als botanisches Freilichtmuseum, mit Palmenhainen, Zedern und einem japanischen Garten, entstanden durch die Städtepartnerschaft von Sanremo mit Atami. Die schattigen Wege und Rasenflächen bieten eine ruhige, kühle Runde mitten in der Stadt.",
+          "tipDe": "Der Garten ist täglich geöffnet und kostenlos; auf den Wegen bleiben und aufräumen, da es sich um eine formale botanische Sammlung handelt"
         },
         {
           "name": "Corso Imperatrice promenade",
@@ -239,7 +273,10 @@
           "tipPt": "Combine-a com a ciclovia para um circuito plano mais longo; os bancos e a sombra das palmeiras são boas paragens",
           "website": "",
           "googleMapsUrl": "https://maps.google.com/?q=Corso+Imperatrice+Sanremo",
-          "photo": "/images/city-places/sanremo-parks-corso-imperatrice.jpg"
+          "photo": "/images/city-places/sanremo-parks-corso-imperatrice.jpg",
+          "offLeashAreaDe": "Nein; Hunde an der Leine entlang der Promenade",
+          "descriptionDe": "Die prächtige palmengesäumte Allee entlang der westlichen Küste, die älteste öffentliche Promenade Sanremos, benannt nach einer russischen Kaiserin, die hier überwinterte. Sie ist flach und eben, schließt nahtlos an den Radweg an und ist ein einfacher Spaziergang an der Leine mit Meerblick.",
+          "tipDe": "Mit dem Radweg zu einer längeren flachen Runde kombinieren; Bänke und Schatten unter den Palmen bieten gute Rastplätze"
         }
       ],
       "tipsEn": [
@@ -317,6 +354,22 @@
           "q": "Há sombra nos passeios?",
           "a": "Pouca sombra na ciclovia aberta, mais sob as palmeiras do Corso Imperatrice e as árvores da Villa Ormond. No verão, passeie cedo ou tarde, leve água e verifique a temperatura do pavimento para as almofadinhas."
         }
+      ],
+      "titleDe": "Parks & Spaziergänge in Sanremo",
+      "introDe": "Sanremos herausragender Hundespaziergang ist die Pista Ciclabile del Parco Costiero Riviera dei Fiori, ein flacher, asphaltierter Küstenweg, der auf der ehemaligen Bahnstrecke Genua-Ventimiglia (2001 stillgelegt) angelegt wurde und rund 24 km von Ospedaletti bis San Lorenzo al Mare verläuft, offen für Fußgänger und Radfahrer gleichermaßen. Mitten in der Stadt bieten die exotischen Gärten der Villa Ormond und die palmengesäumte Promenade Corso Imperatrice einfache, schattige Spaziergänge auf Meereshöhe. Hunde müssen in öffentlichen Gärten und auf dem Weg gemäß italienischer Norm angeleint sein, also bringen Sie eine Leine und Wasser mit, besonders an heißen Nachmittagen, wenn es auf offenen Abschnitten wenig Schatten gibt.",
+      "faqsDe": [
+        {
+          "q": "Was ist der beste Hundespaziergang in Sanremo?",
+          "a": "Die Pista Ciclabile del Parco Costiero Riviera dei Fiori, ein flacher, asphaltierter Küstenweg auf der ehemaligen Bahnstrecke Genua-Ventimiglia. Er verläuft etwa 24 km zwischen Ospedaletti und San Lorenzo al Mare durch Sanremo, ist eben und weitgehend verkehrsfrei und wird von Fußgängern und Radfahrern gemeinsam genutzt, was ihn zum besten langen Spaziergang der Gegend mit Hund macht."
+        },
+        {
+          "q": "Darf mein Hund auf dem Weg oder in den Parks ohne Leine laufen?",
+          "a": "Nein. Wie auf italienischen öffentlichen Wegen und in öffentlichen Gärten sollten Hunde auf dem Radweg, entlang des Corso Imperatrice und in den Gärten der Villa Ormond an der Leine gehalten werden. Leine mitführen und Hinterlassenschaften Ihres Hundes entsorgen."
+        },
+        {
+          "q": "Gibt es Schatten auf den Spaziergängen?",
+          "a": "Nur fleckenweise Schatten auf dem offenen Radweg, mehr unter den Palmen des Corso Imperatrice und den Bäumen der Villa Ormond. Im Sommer früh oder spät laufen, Wasser mitnehmen und die Pflastertemperatur für die Pfoten Ihres Hundes prüfen."
+        }
       ]
     },
     "transport": {
@@ -343,7 +396,9 @@
           "petPolicyFr": "Petits chiens gratuits en sac ; grands chiens en laisse avec muselière à portée, billet régional à demi-tarif",
           "petPolicyEs": "Perros pequeños gratis en transportín; los grandes con correa y bozal a mano, billete regional a mitad de precio",
           "petPolicyPt": "Cães pequenos grátis em transportadora; os maiores com trela e açaime à mão, bilhete regional a metade do preço",
-          "googleMapsUrl": "https://maps.google.com/?q=Stazione+Sanremo"
+          "googleMapsUrl": "https://maps.google.com/?q=Stazione+Sanremo",
+          "descriptionDe": "Der größtenteils unterirdische Bahnhof von Sanremo liegt an der Küstenstrecke Genua-Ventimiglia und bringt Sie in kurzer Gehdistanz zur Küste und zur Altstadt. Kleine Hunde reisen kostenlos in einer Transportbox; größere Hunde angeleint mit mitgeführtem Maulkorb zum halben Preis eines Regionaltickets.",
+          "petPolicyDe": "Kleine Hunde kostenlos in einer Transportbox; größere Hunde angeleint mit mitgeführtem Maulkorb, halber Preis eines Regionaltickets"
         },
         {
           "name": "Riviera Trasporti coastal buses",
@@ -359,7 +414,9 @@
           "petPolicyFr": "Petits chiens en laisse ou en sac ; grands chiens en laisse avec muselière à portée",
           "petPolicyEs": "Perros pequeños con correa o en transportín; los grandes con correa y bozal a mano",
           "petPolicyPt": "Cães pequenos com trela ou em transportadora; os maiores com trela e açaime à mão",
-          "googleMapsUrl": "https://maps.google.com/?q=Riviera+Trasporti+Sanremo"
+          "googleMapsUrl": "https://maps.google.com/?q=Riviera+Trasporti+Sanremo",
+          "descriptionDe": "Riviera Trasporti betreibt seit 1983 die öffentlichen Verkehrsmittel Sanremos, mit Bussen entlang der Küste nach Ventimiglia, Bordighera, Ospedaletti und Taggia. Wie allgemein bei italienischen Bussen reisen kleine Hunde angeleint oder in einer Transportbox und größere Hunde angeleint mit mitgeführtem Maulkorb.",
+          "petPolicyDe": "Kleine Hunde angeleint oder in einer Transportbox; größere Hunde angeleint mit mitgeführtem Maulkorb"
         },
         {
           "name": "Walking and the cycle path",
@@ -375,7 +432,9 @@
           "petPolicyFr": "Chiens en laisse dans les rues et sur le front de mer",
           "petPolicyEs": "Perros con correa en las calles y el frente marítimo",
           "petPolicyPt": "Cães com trela nas ruas e na frente de mar",
-          "googleMapsUrl": "https://maps.google.com/?q=Sanremo+seafront"
+          "googleMapsUrl": "https://maps.google.com/?q=Sanremo+seafront",
+          "descriptionDe": "Die flache Küste, der Corso Imperatrice und die Pista Ciclabile bedeuten, dass der Großteil des zentralen Sanremo mit Hund gut zu Fuß zu bewältigen ist, ganz ohne öffentliche Verkehrsmittel. Der Hauptanstieg führt hinauf in die Altstadt La Pigna, wo die Gassen steil und mit Kopfsteinpflaster versehen sind.",
+          "petPolicyDe": "Hunde an der Leine auf Straßen und an der Küste"
         }
       ],
       "tipsEn": [
@@ -452,6 +511,22 @@
         {
           "q": "Preciso mesmo de usar o transporte?",
           "a": "Muitas vezes não. A frente de mar central, o Corso Imperatrice e a ciclovia plana tornam grande parte de Sanremo caminhável com um cão. A principal exceção é a subida a La Pigna, a cidade velha, de ruelas íngremes e empedradas."
+        }
+      ],
+      "titleDe": "Mit Hund unterwegs in Sanremo",
+      "introDe": "Sanremo liegt an der Bahnstrecke Genua-Ventimiglia, und der Bahnhof liegt im Zentrum größtenteils unterirdisch, sodass Sie in Küstennähe ankommen. In Trenitalia-Zügen reisen kleine Hunde in einer Transportbox kostenlos (bis 70x30x50 cm, eine pro Fahrgast), während größere Hunde angeleint mit mitgeführtem Maulkorb zum halben Preis eines Regionaltickets der zweiten Klasse reisen. In der Stadt betreibt Riviera Trasporti die lokalen Busse entlang der Küste, und die flache Küste und der Radweg bedeuten, dass ein Großteil von Sanremo bequem zu Fuß erreichbar ist. Führen Sie den Mikrochip-Nachweis und die Gesundheitspapiere Ihres Hundes mit, da diese in Zügen verlangt werden können.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit dem Zug nach Sanremo mitnehmen?",
+          "a": "Ja. Bei Trenitalia reist ein kleiner Hund in einer Transportbox bis 70x30x50 cm kostenlos, einer pro Fahrgast, und ein größerer Hund reist angeleint mit mitgeführtem Maulkorb zum halben Preis eines Regionaltickets der zweiten Klasse. Der Bahnhof von Sanremo liegt zentral und größtenteils unterirdisch, nahe der Küste."
+        },
+        {
+          "q": "Sind Hunde in Sanremos Bussen erlaubt?",
+          "a": "Ja. Riviera Trasporti, der lokale Betreiber seit 1983, folgt der üblichen italienischen Regel: kleine Hunde angeleint oder in einer Transportbox, größere Hunde angeleint mit mitgeführtem Maulkorb. Halten Sie den Maulkorb griffbereit, falls er verlangt wird."
+        },
+        {
+          "q": "Muss ich überhaupt öffentliche Verkehrsmittel nutzen?",
+          "a": "Oft nicht. Die zentrale Küste, der Corso Imperatrice und der flache Radweg machen den Großteil von Sanremo mit Hund zu Fuß erreichbar. Die Hauptausnahme ist der Anstieg zur Altstadt La Pigna, deren Gassen steil und mit Kopfsteinpflaster versehen sind."
         }
       ]
     },
@@ -571,6 +646,22 @@
           "q": "O que preciso de levar para a praia?",
           "a": "Uma trela e o certificado sanitário ou boletim de vacinação atualizado do cão, que podem ser exigidos tanto em praias livres como equipadas. Leve também a sua própria água e sombra, pois as praias livres oferecem pouca, e consulte sempre o edital municipal em vigor porque as regras mudam todos os anos."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in und bei Sanremo",
+      "introDe": "Seien Sie realistisch bei Sanremos Stränden: Der Großteil der Küste besteht aus kostenpflichtigen Stabilimenti (privaten Badeanstalten), die Hunde in der Sommersaison einschränken oder verbieten, sodass Sie nicht davon ausgehen können, dass ein Hund am Hauptstrand willkommen ist. Die praktikablen Optionen sind der kostenlose Strand Pian di Poma, der Hunde zulässt und Duschen sowie schattige Bereiche hat, und einige wenige ausgestattete Stellen wie Bagni Terrazza an der Lungomare Italo Calvino, wo Hunde willkommen sind und das Wasser erreichen können. Ein eigener Hundestrand (Baubeach) in Arma di Taggia, etwa 10 km östlich, bietet zusätzlich eine eingezäunte, vollständig ausgestattete Option. Die Regeln ändern sich von Jahr zu Jahr, prüfen Sie also die aktuelle städtische Bekanntmachung und die einzelne Badeanstalt, bevor Sie hinfahren, und rechnen Sie damit, dass eine Leine und aktuelle Gesundheitspapiere verlangt werden.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit an den Strand von Sanremo nehmen?",
+          "a": "Ja, aber nur an bestimmte Orte. Der Großteil der Küste besteht aus kostenpflichtigen Stabilimenti, die Hunde im Sommer einschränken oder verbieten. Die zuverlässigen Optionen sind der kostenlose Strand Pian di Poma und ausgestattete Stellen wie Bagni Terrazza, sowie der eigene Hundestrand Baubeach in Arma di Taggia etwa 10 km östlich."
+        },
+        {
+          "q": "Gibt es einen richtigen Hundestrand bei Sanremo?",
+          "a": "Ja. Baubeach in Arma di Taggia, rund 10 km östlich an der Lungomare di Levante, ist ein eigener Hundestrand mit eingezäuntem Bereich, Duschen, Schatten und Abfalleimern. Es ist die hundefreundlichste Option an der Riviera dei Fiori rund um Sanremo."
+        },
+        {
+          "q": "Was muss ich für den Strand mitbringen?",
+          "a": "Eine Leine und die aktuelle Gesundheitsbescheinigung oder den Impfnachweis Ihres Hundes, die sowohl an kostenlosen als auch an ausgestatteten Stränden verlangt werden können. Bringen Sie auch eigenes Wasser und Schatten mit, da kostenlose Strände wenig bieten, und prüfen Sie immer die aktuelle städtische Bekanntmachung, da sich die Regeln jährlich ändern."
+        }
       ]
     },
     "vets": {
@@ -617,7 +708,10 @@
           "tipEs": "Guarda el +39 0184 666921 antes del viaje y llama antes de ir para que preparen tu llegada",
           "tipPt": "Guarde o +39 0184 666921 antes da viagem e ligue antes de ir para que preparem a sua chegada",
           "googleMapsUrl": "https://maps.google.com/?q=Ospedale+Veterinario+San+Remo+Via+Barabino",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "24-Stunden-Notdienst; Labor, allgemeine und Fachchirurgie",
+          "descriptionDe": "Das Tierkrankenhaus von Sanremo bietet einen rund um die Uhr laufenden Notdienst neben Laboranalysen sowie allgemeiner und Fachchirurgie. Dies ist die erste Nummer, die man sich bei einem ernsten Problem während des Aufenthalts merken sollte.",
+          "tipDe": "Speichern Sie +39 0184 666921 vor Ihrer Reise und rufen Sie vorher an, damit man sich auf Ihre Ankunft vorbereiten kann"
         },
         {
           "name": "Studio Veterinario Dr.ssa Alexandra Cafasso",
@@ -639,7 +733,10 @@
           "tipEs": "Llama para pedir cita; el horario es más corto el sábado y cierra el domingo",
           "tipPt": "Ligue para marcar; o horário é mais curto ao sábado e fecha ao domingo",
           "googleMapsUrl": "https://maps.google.com/?q=Studio+Veterinario+Cafasso+Sanremo",
-          "photo": "/images/city-places/sanremo-vets-studio-veterinario-cafasso.jpg"
+          "photo": "/images/city-places/sanremo-vets-studio-veterinario-cafasso.jpg",
+          "hoursDe": "Mo-Fr 09:30-18:00, Sa 10:30-12:30",
+          "descriptionDe": "Eine Tierarztpraxis im Wohnviertel an der Strada San Martino für Routinekonsultationen, Impfungen und kleinere Probleme unter der Woche. Praktisch für nicht dringende Behandlungen während eines Aufenthalts in Sanremo, allerdings sollten Sie zur Terminvereinbarung anrufen.",
+          "tipDe": "Vorher anrufen, um einen Termin zu vereinbaren; die Öffnungszeiten sind samstags kürzer und sonntags geschlossen"
         },
         {
           "name": "Ambulatorio Veterinario Dott. Maurilio Calleri",
@@ -661,7 +758,10 @@
           "tipEs": "Llama primero: es una consulta con cita, no un servicio de urgencias sin cita",
           "tipPt": "Ligue primeiro: é um consultório com marcação, não um serviço de urgência sem marcação",
           "googleMapsUrl": "https://maps.google.com/?q=Ambulatorio+Veterinario+Calleri+Sanremo",
-          "photo": "/images/city-places/sanremo-vets-ambulatorio-calleri.jpg"
+          "photo": "/images/city-places/sanremo-vets-ambulatorio-calleri.jpg",
+          "hoursDe": "Nach Terminvereinbarung; für aktuelle Öffnungszeiten anrufen",
+          "descriptionDe": "Eine allgemeine Tierarztpraxis in der Via Lamarmora im Zentrum von Sanremo für Konsultationen und Routinebehandlungen. Eine nützliche zweite Option, falls Ihre gewohnte Klinik ausgebucht ist.",
+          "tipDe": "Vorher anrufen, da dies eine Praxis mit Terminvereinbarung und kein Notdienst ohne Anmeldung ist"
         }
       ],
       "tipsEn": [
@@ -738,6 +838,22 @@
         {
           "q": "Qual é o número de emergência em Itália?",
           "a": "O 112 é o número de emergência geral em Itália e na UE. Para uma urgência veterinária específica, ligue diretamente para uma clínica, como o Ospedale Veterinario San Remo, aberto 24 horas, através do +39 0184 666921."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Sanremo, Tierkliniken & Tierpflege",
+      "introDe": "Sanremo hat mehrere Tierkliniken, darunter ein Tierkrankenhaus mit 24-Stunden-Notdienst, sodass die Versorgung für eine Stadt dieser Größe gut ist. Italien liegt in der EU und im Schengen-Raum, daher reisen EU-registrierte Haustiere mit einem gültigen EU-Heimtierausweis, einem Mikrochip und einer aktuellen Tollwutimpfung ein. Führen Sie die Papiere Ihres Hundes mit sich, speichern Sie eine Klinik-Nummer vor der Reise, und rufen Sie im Notfall vorher an, damit sich das Team vorbereiten kann.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Sanremo einen 24-Stunden-Notfalltierarzt?",
+          "a": "Ja. Das Ospedale Veterinario San Remo in der Via Barabino bietet einen rund um die Uhr laufenden Notdienst mit Labor und Chirurgie, unter +39 0184 666921. Speichern Sie die Nummer vor der Reise und rufen Sie vorher an, damit man sich vorbereiten kann."
+        },
+        {
+          "q": "Was brauche ich, um meinen Hund nach Italien mitzunehmen?",
+          "a": "Italien liegt in der EU und im Schengen-Raum, daher benötigt ein EU-registrierter Hund einen gültigen EU-Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung. Haustiere aus Nicht-EU-Ländern benötigen eine EU-Gesundheitsbescheinigung und je nach Herkunft möglicherweise einen Tollwut-Antikörpertest."
+        },
+        {
+          "q": "Was ist die Notrufnummer in Italien?",
+          "a": "112 ist die allgemeine Notrufnummer in ganz Italien und der EU. Für einen tierärztlichen Notfall rufen Sie speziell eine Klinik direkt an, etwa das 24-Stunden-Ospedale Veterinario San Remo unter +39 0184 666921."
         }
       ]
     },
@@ -852,6 +968,22 @@
           "q": "O meu cão pode entrar no Casino ou nas igrejas?",
           "a": "Não. O interior do Casino e os interiores de igrejas e museus de Sanremo geralmente excluem animais, como em toda a Itália. Aproveite os seus exteriores durante o passeio e planeie as visitas interiores para quando o cão puder descansar no hotel."
         }
+      ],
+      "titleDe": "Hundefreundliche Tipps für Sanremo",
+      "introDe": "Sanremo ist dank der flachen Küste, des langen Küstenradwegs und eines der mildesten Klimas Italiens eine unkomplizierte Basis an der italienischen Riviera mit Hund. Der Haken sind die Sommerregeln am Strand und die Innenräume des Casinos und der Kirchen. Ein paar örtliche Gepflogenheiten, die man vorher kennen sollte.",
+      "faqsDe": [
+        {
+          "q": "Ist Sanremo gut für Hunde geeignet?",
+          "a": "Ja, insgesamt. Die flache Küste, der lange Küstenradweg und eines der mildesten Klimas Italiens machen es die meiste Zeit des Jahres unkompliziert mit Hund. Die wichtigsten Einschränkungen sind die Sommerbeschränkungen an den kostenpflichtigen Badeanstalten und die Innenräume des Casinos und der Kirchen, die Haustiere ausschließen."
+        },
+        {
+          "q": "Was sollte ich für Sanremo mit Hund einpacken?",
+          "a": "Bringen Sie Ihren EU-Heimtierausweis mit, eine Leine und einen Maulkorb für öffentliche Verkehrsmittel, Kotbeutel und ausreichend Wasser für den offenen Radweg. Im Sommer zusätzlich Sonnenschutz für Rastpausen, und halten Sie den Impfnachweis für die hundefreundlichen Strände griffbereit."
+        },
+        {
+          "q": "Darf mein Hund mit ins Casino oder in die Kirchen?",
+          "a": "Nein. Der Innenraum des Casinos sowie Kirchen- und Museumsinnenräume in Sanremo schließen Haustiere generell aus, wie überall in Italien. Genießen Sie ihre Fassaden auf Ihrem Spaziergang und planen Sie Innenbesuche für Zeiten ein, in denen Ihr Hund sicher im Hotel ruhen kann."
+        }
       ]
     },
     "attractions": {
@@ -885,7 +1017,11 @@
           "tipPt": "As ruelas são íngremes e empedradas; vá devagar, e um cão pequeno ou idoso talvez prefira uma transportadora para a subida",
           "website": "",
           "googleMapsUrl": "https://maps.google.com/?q=La+Pigna+Sanremo",
-          "photo": "/images/city-places/sanremo-attractions-la-pigna.jpg"
+          "photo": "/images/city-places/sanremo-attractions-la-pigna.jpg",
+          "admissionFeeDe": "Kostenlos",
+          "dogPolicyDe": "Angeleinte Hunde in den Gassen willkommen (öffentliche Außenstraßen)",
+          "descriptionDe": "Das mittelalterliche Herz von Sanremo, ein Labyrinth aus konzentrischen Gassen, Bögen und Treppen, das den Hang oberhalb der modernen Stadt hinaufklettert, benannt La Pigna (der Kiefernzapfen) nach seiner Form. Es ist ein rein für Fußgänger geeigneter Rundgang und einer der stimmungsvollsten Spaziergänge der Gegend mit Hund.",
+          "tipDe": "Die Gassen sind steil und mit Kopfsteinpflaster versehen; gehen Sie langsam, und ein kleiner oder älterer Hund bevorzugt für den Anstieg möglicherweise eine Transporttasche"
         },
         {
           "name": "Casino di Sanremo (exterior)",
@@ -908,7 +1044,11 @@
           "tipPt": "Admire-o das esplanadas e do Corso degli Inglesi; entrem à vez enquanto uma pessoa espera com o cão",
           "website": "https://www.casinosanremo.it/",
           "googleMapsUrl": "https://maps.google.com/?q=Casino+di+Sanremo",
-          "photo": "/images/city-places/sanremo-attractions-casino-di-sanremo.jpg"
+          "photo": "/images/city-places/sanremo-attractions-casino-di-sanremo.jpg",
+          "admissionFeeDe": "Kostenlos von außen zu besichtigen; Innenraum schließt Haustiere aus",
+          "dogPolicyDe": "Nur Außenbereich und umliegende Straßen; keine Haustiere in den Spielsälen",
+          "descriptionDe": "Sanremos Wahrzeichen, das Casino, 1905 in einem prächtigen Jugendstil erbaut, dominiert die Terrassen oberhalb der Küste. Sie können keinen Hund in die Spielsäle mitnehmen, aber die prächtige Fassade und die palmengesäumten Terrassen ringsherum sind ein schöner Zwischenstopp im Freien bei einem Spaziergang.",
+          "tipDe": "Von den Terrassen und dem Corso degli Inglesi aus bewundern; abwechselnd hineingehen, während eine Person mit dem Hund wartet"
         },
         {
           "name": "Porto Vecchio & Portosole marina",
@@ -931,7 +1071,11 @@
           "tipPt": "Combine-o com uma refeição na Piazza Bresca mesmo atrás; toda a zona é plana e fácil com um cão",
           "website": "",
           "googleMapsUrl": "https://maps.google.com/?q=Porto+Vecchio+Sanremo",
-          "photo": "/images/city-places/sanremo-attractions-porto-vecchio-portosole.jpg"
+          "photo": "/images/city-places/sanremo-attractions-porto-vecchio-portosole.jpg",
+          "admissionFeeDe": "Kostenlos",
+          "dogPolicyDe": "Angeleinte Hunde an den Kaianlagen und rund um den Hafen willkommen",
+          "descriptionDe": "Der alte Fischereihafen, in dem die Boote den Fang anlanden, der jeden Morgen die Küchen der Piazza Bresca versorgt, liegt neben der größeren Yachtmarina Portosole. Die flachen Kaianlagen und Caféterrassen bieten einen entspannten, ebenen Spaziergang am Wasser mit Hund.",
+          "tipDe": "Mit einem Essen an der gleich dahinter liegenden Piazza Bresca kombinieren; der gesamte Bereich ist flach und mit Hund einfach zu bewältigen"
         }
       ],
       "tipsEn": [
@@ -1009,6 +1153,22 @@
           "q": "A zona do porto é dog-friendly?",
           "a": "Sim. O Porto Vecchio e a marina Portosole têm cais planos e abertos onde os cães com trela são bem-vindos, mesmo ao lado da praça-restaurante Piazza Bresca. É um dos passeios planos mais fáceis e agradáveis da cidade com um cão."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Sanremo",
+      "introDe": "Sanremos beste Sehenswürdigkeiten für einen Hund sind die Außenbereiche: die mittelalterliche Altstadt La Pigna, die den Hügel in konzentrischen Gassen hinaufklettert, das prächtige Jugendstil-Casino, das man von außen bewundern kann, und der lebhafte Porto Vecchio mit der Marina Portosole. Innenräume wie die Spielsäle des Casinos und die Kirchen schließen Haustiere aus, planen Sie diese also für Zeiten ein, in denen Ihr Hund ruhen kann. Alles unten ist zu Fuß mit einem angeleinten Hund angenehm zu erleben.",
+      "faqsDe": [
+        {
+          "q": "Kann ich die Altstadt von Sanremo mit meinem Hund besuchen?",
+          "a": "Ja. La Pigna, die mittelalterliche Altstadt, ist ein Netz aus öffentlichen Außengassen, in denen angeleinte Hunde willkommen sind. Die Gassen sind steil und mit Kopfsteinpflaster versehen, gehen Sie also langsam, und erwägen Sie für einen kleinen oder älteren Hund eine Transporttasche für den Anstieg."
+        },
+        {
+          "q": "Darf mein Hund mit ins Casino?",
+          "a": "Nein. Die Spielsäle des Casinos schließen Haustiere aus. Sie können das prächtige Jugendstilgebäude von 1905 dennoch von den umliegenden Terrassen und dem Corso degli Inglesi aus bewundern und sich abwechselnd im Inneren aufhalten, während eine Person draußen mit dem Hund wartet."
+        },
+        {
+          "q": "Ist der Hafenbereich hundefreundlich?",
+          "a": "Ja. Der Porto Vecchio und die Marina Portosole verfügen über flache, offene Kaianlagen, auf denen angeleinte Hunde willkommen sind, direkt neben dem Restaurantplatz Piazza Bresca. Es ist einer der einfachsten und angenehmsten flachen Spaziergänge in der Stadt mit Hund."
+        }
       ]
     },
     "petsitting": {
@@ -1037,7 +1197,10 @@
           "tipFr": "Réservez tôt l'été, quand les sitters locaux sont vite complets avec la demande des vacances",
           "tipEs": "Reserva pronto en verano, cuando los cuidadores locales se llenan rápido por la demanda vacacional",
           "tipPt": "Reserve cedo no verão, quando os cuidadores locais enchem depressa com a procura das férias",
-          "website": "https://www.rover.com/it/sanremo--liguria--dog-sitter/"
+          "website": "https://www.rover.com/it/sanremo--liguria--dog-sitter/",
+          "serviceTypeDe": "Betreuung zu Hause, Tagesbetreuung, Gassi-Service",
+          "descriptionDe": "Die größte Tierpflege-Plattform mit einer Reihe geprüfter Hundesitter in Sanremo, die Betreuung in den eigenen vier Wänden, Tagesbetreuung und Spaziergänge anbieten. Profile enthalten Bewertungen, Fotos und Verifizierung, sodass Sie einen zu Ihrem Hund passenden Sitter auswählen können.",
+          "tipDe": "Im Sommer früh buchen, da lokale Sitter durch die Feriennachfrage schnell ausgebucht sind"
         },
         {
           "name": "Pawshake Sanremo",
@@ -1055,7 +1218,10 @@
           "tipFr": "Organisez une courte rencontre avant votre visite pour que votre chien s'habitue au sitter",
           "tipEs": "Organiza un breve encuentro antes de tu visita para que tu perro se adapte al cuidador",
           "tipPt": "Combine um breve encontro antes da sua visita para que o cão se habitue ao cuidador",
-          "website": "https://www.pawshake.it/pensione-per-cani/sanremo-liguria"
+          "website": "https://www.pawshake.it/pensione-per-cani/sanremo-liguria",
+          "serviceTypeDe": "Betreuung zu Hause, Tagesbetreuung, Gassi-Service",
+          "descriptionDe": "Eine internationale Sitter-Plattform mit lokalen Profilen in Sanremo, deren Sitter Identitäts- und Vertrauensprüfungen durchlaufen und Bewertungen anderer Halter tragen. Eine gute Option für gelegentliche Tagesbetreuung, während Sie Innensehenswürdigkeiten besuchen.",
+          "tipDe": "Vor Ihrem Besuch ein kurzes Kennenlerntreffen vereinbaren, damit sich Ihr Hund beim Sitter eingewöhnt"
         },
         {
           "name": "Holidog Sanremo",
@@ -1073,7 +1239,10 @@
           "tipFr": "Comparez quelques profils d'accueil et lisez les avis avant de choisir, surtout pour un séjour plus long",
           "tipEs": "Compara varios perfiles de acogida y lee las reseñas antes de elegir, sobre todo para una estancia larga",
           "tipPt": "Compare alguns perfis de acolhimento e leia as avaliações antes de escolher, sobretudo para uma estadia mais longa",
-          "website": "https://it.holidog.com/dog-sitter--sanremo--im"
+          "website": "https://it.holidog.com/dog-sitter--sanremo--im",
+          "serviceTypeDe": "Betreuung zu Hause und Tagesbetreuung",
+          "descriptionDe": "Eine Tierpflege-Plattform, die eine Alternative zu klassischen Zwingern bietet und Sie mit Gastfamilien-Hundesittern in und um Sanremo vermittelt. Nützlich, wenn Sie bevorzugen, dass Ihr Hund in einem Zuhause statt in einer Boarding-Einrichtung bleibt.",
+          "tipDe": "Vergleichen Sie einige Gastgeberprofile und lesen Sie die Bewertungen, bevor Sie sich entscheiden, besonders bei einem längeren Aufenthalt"
         }
       ],
       "tipsEn": [
@@ -1150,6 +1319,22 @@
         {
           "q": "Posso deixar o meu cão enquanto visito o Casino ou um museu?",
           "a": "Sim. Como o interior do Casino e os museus excluem animais, uma creche de dia reservada através de uma das plataformas é a solução mais simples. Combine primeiro um breve encontro e entregue a comida, os documentos e um número de veterinário do seu cão."
+        }
+      ],
+      "titleDe": "Hundesitter & Tierpflege in Sanremo",
+      "introDe": "Wenn Sie das Casino, eine Kirche oder einen anderen Ort besuchen müssen, der Haustiere ausschließt, ist Sanremo mit den wichtigsten nationalen Hundesitter-Plattformen gut versorgt, die geprüfte lokale Sitter mit Betreuung zu Hause und Tagesbetreuung auflisten. Buchen Sie über eine Plattform wegen Bewertungen und Versicherungsschutz statt einer informellen Vereinbarung, und lernen Sie den Sitter zuerst kennen, damit sich Ihr Hund wohlfühlt. Die Preise variieren je nach Sitter und Saison, bestätigen Sie diese daher bei der Buchung.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter in Sanremo?",
+          "a": "Nutzen Sie eine nationale Plattform wie Rover, Pawshake oder Holidog, die geprüfte lokale Sitter in Sanremo mit Betreuung zu Hause, Tagesbetreuung und Spaziergängen auflisten, mit Bewertungen und Verifizierung. Buchen Sie über die Plattform statt informell, wegen Versicherungsschutz und Verlässlichkeit."
+        },
+        {
+          "q": "Wie viel kostet Hundebetreuung in Sanremo?",
+          "a": "Die Preise variieren je nach Sitter, Leistung und Saison und werden im jeweiligen Sitterprofil festgelegt, bestätigen Sie daher den Preis bei der Buchung. Rechnen Sie im Juli und August mit höherer Nachfrage und Preisen, reservieren Sie also für den Sommer frühzeitig."
+        },
+        {
+          "q": "Kann ich meinen Hund zurücklassen, während ich das Casino oder ein Museum besuche?",
+          "a": "Ja. Da der Innenraum des Casinos und die Museen Haustiere ausschließen, ist ein über eine der Plattformen gebuchter Tagesbetreuungs-Sitter die einfachste Lösung. Vereinbaren Sie vorher ein kurzes Kennenlerntreffen und übergeben Sie Futter, Papiere und eine Tierarzt-Nummer für Ihren Hund."
         }
       ]
     }

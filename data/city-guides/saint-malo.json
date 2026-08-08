@@ -1,4 +1,10 @@
-{"slug":"saint-malo","name":"Saint-Malo","country":"France","flag":"🇫🇷","lastUpdated":"2026-06-22","guides":{
+{
+  "slug": "saint-malo",
+  "name": "Saint-Malo",
+  "country": "France",
+  "flag": "🇫🇷",
+  "lastUpdated": "2026-06-22",
+  "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Saint-Malo",
       "titleFr": "Restaurants acceptant les animaux à Saint-Malo",
@@ -33,7 +39,11 @@
           "tipFr": "Appelez ou écrivez à l'avance en été pour confirmer une table en terrasse avec votre chien",
           "tipEs": "Llama o escribe con antelación en verano para confirmar una mesa en la terraza con tu perro",
           "tipPt": "Ligue ou escreva com antecedência no verão para confirmar uma mesa na esplanada com o seu cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Cr%C3%AAperie+le+Tournesol+Saint-Malo"
+          "googleMapsUrl": "https://maps.google.com/?q=Cr%C3%AAperie+le+Tournesol+Saint-Malo",
+          "descriptionDe": "Eine einladende Crêperie im Herzen der Altstadt, die traditionelle bretonische Galettes und süße Crêpes im Gastraum oder auf der Terrasse serviert. Hunde sind willkommen, wobei die Inhaber sich über eine kurze Vorankündigung freuen. Es ist ein entspannter, familiengeführter Ort, perfekt nach einem Spaziergang auf der Stadtmauer.",
+          "petPolicyDe": "Hunde willkommen, bitte vorher ankündigen",
+          "mustTryDe": "Galette complète, Crêpe mit gesalzenem Karamell",
+          "tipDe": "Rufen Sie im Sommer vorab an oder schreiben Sie, um einen Terrassenplatz mit Hund zu sichern"
         },
         {
           "name": "Deux Degrés Ouest",
@@ -59,7 +69,11 @@
           "tipFr": "Demandez une table en salle les jours frais ou venteux, fréquents sur la Côte d'Émeraude",
           "tipEs": "Pide una mesa en el interior los días frescos o ventosos, frecuentes en la Costa Esmeralda",
           "tipPt": "Peça uma mesa no interior nos dias frescos ou ventosos, frequentes na Costa Esmeralda",
-          "googleMapsUrl": "https://maps.google.com/?q=Deux+Degr%C3%A9s+Ouest+Saint-Malo"
+          "googleMapsUrl": "https://maps.google.com/?q=Deux+Degr%C3%A9s+Ouest+Saint-Malo",
+          "descriptionDe": "Eine Brasserie in der Altstadt, die ausdrücklich erklärt, Hunde im Restaurant willkommen zu heißen. Die Lage eignet sich gut für ein Essen zwischen der Erkundung der Stadtmauer und der Gassen der intra-muros. Erwarten Sie klassische französische und bretonische Gerichte an zentraler, unkomplizierter Lage.",
+          "petPolicyDe": "Hunde im Restaurant willkommen",
+          "mustTryDe": "Lokale Meeresfrüchte, Tagesgerichte",
+          "tipDe": "Bitten Sie an kühleren oder windigen Tagen, die an der Smaragdküste häufig vorkommen, um einen Innenplatz"
         },
         {
           "name": "Les Chiens du Guet",
@@ -85,7 +99,11 @@
           "tipFr": "Réservez une table en terrasse au coucher du soleil pour la vue sur la mer depuis les remparts avec votre chien",
           "tipEs": "Reserva una mesa en la terraza al atardecer para ver el mar sobre las murallas con tu perro",
           "tipPt": "Reserve uma mesa na esplanada ao pôr do sol para a vista de mar sobre as muralhas com o seu cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Les+Chiens+du+Guet+Saint-Malo"
+          "googleMapsUrl": "https://maps.google.com/?q=Les+Chiens+du+Guet+Saint-Malo",
+          "descriptionDe": "Ein Hotelrestaurant am Meer innerhalb der Stadtmauern, dessen Name an die historischen Wachhunde von Saint-Malo erinnert. Die Terrasse und die Lage direkt am Meer machen es zur natürlichen Wahl für ein Essen mit angeleintem Hund. Im Mittelpunkt stehen bretonische Meeresfrüchte und regionale Gerichte.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Meeresfrüchteplatte, frische Austern",
+          "tipDe": "Buchen Sie einen Terrassenplatz zum Sonnenuntergang für Meerblick über die Stadtmauer mit Ihrem Hund"
         }
       ],
       "tipsEn": [
@@ -163,6 +181,22 @@
           "q": "Os restaurantes de Saint-Malo fornecem taças de água para os cães?",
           "a": "Alguns fornecem, sobretudo no verão, mas não é garantido. Levar uma taça dobrável é a aposta segura, já que as ruas de granito podem aquecer ao meio-dia."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Saint-Malo",
+      "introDe": "Die ummauerte Korsarenstadt Saint-Malo (intra-muros) ist ein Gewirr aus Granitgassen und Fischterrassen, in dem Hunde ein gewohnter, selbstverständlicher Anblick sind. Die Bretonen gehen entspannt mit wohlerzogenen Hunden um, und viele Crêperien und Brasserien innerhalb der Stadtmauern lassen einen angeleinten Hund gerne auf der Terrasse Platz nehmen, oft wird ungefragt ein Wassernapf gebracht. Die kühlen atlantischen Sommer sorgen dafür, dass die Terrassensaison angenehm statt drückend heiß ist, sodass das Essen im Freien mit dem Hund vom Frühling bis in den Herbst hinein angenehm bleibt.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Saint-Malo erlaubt?",
+          "a": "Ja. Viele Crêperien und Brasserien in der ummauerten Altstadt (intra-muros) heißen angeleinte, wohlerzogene Hunde willkommen, besonders auf den Terrassen. Es ist höflich, an der Tür nachzufragen, und manche kleineren Crêperien freuen sich über eine vorherige Ankündigung."
+        },
+        {
+          "q": "Wo lässt es sich in Saint-Malo mit Hund am einfachsten auswärts essen?",
+          "a": "Die Terrassen in der intra-muros (ummauerte Altstadt) sind am einfachsten, da das Viertel fußgängerfreundlich ist und Hunde ein gewohnter Anblick sind. An kühlen oder windigen Tagen an der Smaragdküste bitten Sie in Restaurants, die Hunde auch drinnen zulassen, um einen Innenplatz."
+        },
+        {
+          "q": "Stellen Restaurants in Saint-Malo Wassernäpfe für Hunde bereit?",
+          "a": "Manche schon, besonders im Sommer, aber garantiert ist das nicht. Ein faltbarer Napf ist eine sichere Wahl, da die Granitgassen mittags warm werden können."
+        }
       ]
     },
     "parks": {
@@ -193,7 +227,10 @@
           "tipFr": "Faites la boucle tôt le matin pour éviter la foule ; les accès par escaliers étroits sont fréquentés à midi",
           "tipEs": "Recorre el circuito a primera hora para evitar las multitudes; los estrechos accesos por escaleras se llenan al mediodía",
           "tipPt": "Faça o circuito de manhã cedo para evitar multidões; os acessos por escadas estreitas enchem ao meio-dia",
-          "googleMapsUrl": "https://maps.google.com/?q=Remparts+Saint-Malo"
+          "googleMapsUrl": "https://maps.google.com/?q=Remparts+Saint-Malo",
+          "descriptionDe": "Die Granitstadtmauer bildet eine rund 2 km lange Runde um die Altstadt intra-muros und bietet 360-Grad-Ausblicke über das Meer, das Fort National, den Felsen Grand Bé und den Strand Plage du Sillon. Hunde sind ganzjährig an der Leine erlaubt, was diesen Spaziergang selbst im Sommer, wenn die Strände für Hunde gesperrt sind, zum zuverlässigsten der Stadt macht. Es ist das klassische Saint-Malo-Erlebnis für einen frühmorgendlichen oder abendlichen Spaziergang.",
+          "offLeashAreaDe": "Keiner. Hunde müssen auf der Stadtmauer jederzeit angeleint bleiben",
+          "tipDe": "Gehen Sie die Runde früh morgens, um Menschenmengen zu vermeiden; die schmalen Treppenzugänge können gegen Mittag voll werden"
         },
         {
           "name": "Parc de la Briantais",
@@ -213,7 +250,10 @@
           "tipFr": "Combinez avec un tronçon du GR34 en contrebas du parc pour les vues sur l'estuaire",
           "tipEs": "Combínalo con un tramo del GR34 bajo el parque para ver el estuario",
           "tipPt": "Combine com um troço do GR34 por baixo do parque para vistas do estuário",
-          "googleMapsUrl": "https://maps.google.com/?q=Parc+de+la+Briantais+Saint-Malo"
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+de+la+Briantais+Saint-Malo",
+          "descriptionDe": "Ein 27 Hektar großes Anwesen mit jahrhundertealten Bäumen, Rasenflächen und Skulpturen mit Blick auf die Rance-Mündung, in dessen Zentrum ein Schloss steht. Hunde sind an der Leine willkommen, und am Eingang stehen Kotbeutel bereit. Der Küstenweg GR34 verläuft direkt unterhalb des Parks, sodass Sie den Besuch zu einem längeren Spaziergang entlang der Klippen zur Mündung ausdehnen können.",
+          "offLeashAreaDe": "Keiner. Hunde durchgehend an der Leine; Kotbeutel am Eingang",
+          "tipDe": "Kombinieren Sie den Besuch mit einem Abschnitt des GR34 unterhalb des Parks für Blicke auf die Mündung"
         },
         {
           "name": "GR34 Coastal Path (Sentier des Douaniers)",
@@ -233,7 +273,10 @@
           "tipFr": "Gardez les chiens en laisse près des bords de falaise et vérifiez les marées si le sentier descend vers le rivage",
           "tipEs": "Mantén a los perros con correa cerca de los bordes del acantilado y comprueba las mareas si el sendero baja hacia la orilla",
           "tipPt": "Mantenha os cães com trela junto às bordas da falésia e verifique as marés se o trilho descer para a costa",
-          "googleMapsUrl": "https://maps.google.com/?q=GR34+Saint-Malo"
+          "googleMapsUrl": "https://maps.google.com/?q=GR34+Saint-Malo",
+          "descriptionDe": "Der Zöllnerpfad GR34 verläuft entlang der gesamten bretonischen Küste und führt durch Saint-Malo, an der Leine für Hunde vollständig zugänglich. Die Abschnitte rund um Saint-Malo und Richtung Dinard bieten eindrucksvolle Meerblicke von den Klippen und ruhigeres Gehen als das Stadtzentrum. Es ist die beste Option für einen langen, aussichtsreichen Ausflug mit einem lebhaften Hund.",
+          "offLeashAreaDe": "Keiner. An der Leine empfohlen aus Sicherheitsgründen an exponierten Klippenabschnitten",
+          "tipDe": "Halten Sie Hunde in der Nähe von Klippenkanten angeleint und prüfen Sie die Gezeitenzeiten, falls der Weg zur Küste hinabführt"
         }
       ],
       "tipsEn": [
@@ -310,6 +353,22 @@
         {
           "q": "Onde posso levar o meu cão para um passeio longo perto de Saint-Malo?",
           "a": "O trilho costeiro GR34 passa por Saint-Malo e é totalmente acessível a cães com trela, com vistas de mar desde as falésias em direção a Dinard. O Parc de la Briantais, sobre o estuário do Rance, é outra opção verde e panorâmica."
+        }
+      ],
+      "titleDe": "Hundeparks & Spaziergänge in Saint-Malo",
+      "introDe": "Die besten Möglichkeiten für Hundespaziergänge in Saint-Malo bieten die Küste und die Grünanlagen und nicht eingezäunte Hundeparks. Der 2 km lange Spaziergang auf der Stadtmauer der intra-muros ist die klassische Runde, ganzjährig geöffnet und an der Leine, während der Küstenweg GR34 und der Parc de la Briantais längere grüne Ausflüge oberhalb der Rance-Mündung bieten. Die kühle Atlantikluft macht diese Spaziergänge selbst im Sommer angenehm.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Freilaufbereich für Hunde in Saint-Malo?",
+          "a": "Es gibt keinen großen eingezäunten Freilaufbereich in der Stadt. Hunde müssen auf der Stadtmauer, dem Küstenweg GR34 und im Parc de la Briantais an der Leine bleiben, was die besten ganzjährigen Spazieroptionen sind."
+        },
+        {
+          "q": "Kann ich meinen Hund auf der Stadtmauer von Saint-Malo ausführen?",
+          "a": "Ja. Hunde sind auf der 2 km langen Stadtmauerrunde das ganze Jahr über an der Leine erlaubt, auch im Sommer, wenn die Strände für Hunde gesperrt sind. Es ist der zuverlässigste Spaziergang in der Altstadt."
+        },
+        {
+          "q": "Wo kann ich mit meinem Hund in der Nähe von Saint-Malo einen langen Spaziergang machen?",
+          "a": "Der Küstenweg GR34 verläuft durch Saint-Malo und ist an der Leine vollständig für Hunde zugänglich, mit Meerblick von den Klippen Richtung Dinard. Der Parc de la Briantais oberhalb der Rance-Mündung ist eine weitere reizvolle grüne Option."
         }
       ]
     },
@@ -433,6 +492,22 @@
           "q": "Preciso de carro para visitar Saint-Malo com um cão?",
           "a": "Não para a cidade velha. A cidade amuralhada intra-muros é pedonal e fácil de percorrer a pé com um cão, e as muralhas, o autocarro marítimo e o GR34 cobrem a maioria das visitas. O carro serve sobretudo para as praias afastadas e os passeios na floresta."
         }
+      ],
+      "titleDe": "Mit Hund unterwegs in Saint-Malo",
+      "introDe": "Saint-Malo ist kompakt und zu Fuß gut erreichbar, und die Altstadt intra-muros ist fußgängerfreundlich, sodass die meisten Besuche mit Hund zu Fuß erfolgen. Für die Anreise und Tagesausflüge erreicht der SNCF-TGV Saint-Malo direkt von Paris aus, die Seefähre der Compagnie Corsaire fährt nach Dinard über, und lokale Busse bedienen das weitere Umland. Jedes Verkehrsmittel akzeptiert Hunde nach bestimmten Regeln.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund im Zug nach Saint-Malo mitnehmen?",
+          "a": "Ja. Die SNCF erlaubt kleine Hunde in einer Transportbox und große Hunde an der Leine mit Maulkorb gegen eine Pauschalgebühr von etwa 10 EUR im TGV INOUI. Kaufen Sie das Hundeticket bei der Buchung und führen Sie den EU-Heimtierausweis und den Tollwutnachweis Ihres Tieres mit."
+        },
+        {
+          "q": "Sind Hunde auf dem Boot von Saint-Malo nach Dinard erlaubt?",
+          "a": "Ja. Die Seefähre der Compagnie Corsaire akzeptiert Hunde für etwa 3 EUR pro Hund. Sie müssen angeleint und ruhig bleiben, und es gibt Platz für große Hunde. Der Betrieb läuft von etwa Ende März bis Anfang November."
+        },
+        {
+          "q": "Brauche ich für einen Besuch in Saint-Malo mit Hund ein Auto?",
+          "a": "Für die Altstadt nicht. Die ummauerte Altstadt intra-muros ist fußgängerfreundlich und mit Hund gut zu Fuß erreichbar, und die Stadtmauer, die Seefähre und der GR34 decken den Großteil der Besichtigungen ab. Ein Auto hilft vor allem für abgelegene Strände und Waldspaziergänge."
+        }
       ]
     },
     "beaches": {
@@ -515,6 +590,18 @@
           "q": "Porque é que a maré é um perigo para os cães em Saint-Malo?",
           "a": "Saint-Malo tem uma das maiores amplitudes de maré da Europa, até cerca de 13 metros, e o mar pode subir muito depressa. Nunca deixe o seu cão afastar-se na areia descoberta ou em direção a ilhéus como o Grand Bé sem verificar primeiro as horas da maré, pois a zona entre marés inunda rapidamente."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Saint-Malo",
+      "introDe": "Dies ist die wichtigste Regel für Hundebesitzer in Saint-Malo: Alle Strände der Stadt (Sillon, Bon-Secours, Rochebonne, Le Môle und weitere) sind vom 1. April bis 30. September rund um die Uhr per Gemeindeverordnung für Hunde gesperrt, bei Verstößen droht ein Bußgeld von 35 EUR. Vom 1. Oktober bis 31. März sind Hunde an der Leine auf jedem Strand willkommen, Kot ist aufzusammeln. Ebenso wichtig: Saint-Malo hat einen der größten Tidenhübe Europas (bis zu etwa 13 Meter), sodass das Meer sehr schnell einströmen und Watt und Inselchen abschneiden kann; prüfen Sie stets die Gezeitenzeiten, bevor Sie Ihren Hund auf offenen Sand lassen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund im Sommer an den Strand von Saint-Malo mitnehmen?",
+          "a": "Nein. Alle Strände von Saint-Malo, einschließlich Plage du Sillon und Bon-Secours, sind vom 1. April bis 30. September rund um die Uhr für Hunde gesperrt, bei einem Bußgeld von 35 EUR. Hunde sind nur vom 1. Oktober bis 31. März an der Leine erlaubt. Gehen Sie im Sommer stattdessen auf der Stadtmauer spazieren."
+        },
+        {
+          "q": "Warum ist die Gezeit in Saint-Malo eine Gefahr für Hunde?",
+          "a": "Saint-Malo hat einen der größten Tidenhübe Europas, bis zu etwa 13 Meter, und das Meer kann sehr schnell einströmen. Lassen Sie Ihren Hund nie weit auf den freiliegenden Sand oder zu Inselchen wie dem Grand Bé streifen, ohne vorher die Gezeitenzeiten geprüft zu haben, da das Watt schnell überflutet."
+        }
       ]
     },
     "vets": {
@@ -561,7 +648,10 @@
           "tipEs": "Llama con antelación para confirmar la disponibilidad; fuera del horario marca el 3115 para el veterinario de guardia",
           "tipPt": "Ligue com antecedência para confirmar a disponibilidade; fora do horário ligue 3115 para o veterinário de serviço",
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+v%C3%A9t%C3%A9rinaire+La+Rose+des+Vents+Saint-Malo",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo–Fr 08:30–19:00, Sa 08:30–18:00",
+          "descriptionDe": "Eine allgemeine Tierarztpraxis in Saint-Malo für Routineversorgung, Impfungen und Beratungen. Während der Öffnungszeiten gehen sie auf dringende Fälle ein; außerhalb dieser Zeiten nutzen Sie den Bereitschaftsdienst. Eine praktische erste Anlaufstelle für Reisende, die eine Standardversorgung für ihren Hund benötigen.",
+          "tipDe": "Rufen Sie vorab an, um die Verfügbarkeit zu bestätigen; außerhalb der Öffnungszeiten wählen Sie 3115 für den Bereitschaftsdienst"
         },
         {
           "name": "Vétérinaire de garde (on-call duty vet)",
@@ -583,7 +673,10 @@
           "tipEs": "Guarda el 3115 en tu teléfono antes de viajar; cubre toda la zona de Saint-Malo",
           "tipPt": "Guarde o 3115 no telemóvel antes de viajar; cobre toda a zona de Saint-Malo",
           "googleMapsUrl": "",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Nächte, Wochenenden und Feiertage",
+          "descriptionDe": "Die kostenlose nationale Tierarzt-Bereitschaftsnummer 3115 verbindet Sie mit dem nächsten diensthabenden Tierarzt für Saint-Malo außerhalb der regulären Öffnungszeiten. Sie ist der richtige erste Anruf bei einem ernsten Notfall außerhalb der Öffnungszeiten. Die Vermittlung leitet Sie zur jeweils diensthabenden Praxis oder zum mobilen Tierarzt der Nacht weiter.",
+          "tipDe": "Speichern Sie 3115 in Ihrem Telefon, bevor Sie reisen; die Nummer gilt für das gesamte Gebiet von Saint-Malo"
         },
         {
           "name": "Urgences vétérinaires Saint-Malo (regional emergency line)",
@@ -605,7 +698,10 @@
           "tipEs": "Ten listos el pasaporte europeo y el número de microchip de tu perro para darlos por teléfono",
           "tipPt": "Tenha prontos o passaporte europeu e o número de microchip do seu cão para fornecer por telefone",
           "googleMapsUrl": "",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Wochennächte 19:00–08:00, Wochenende Sa Nachmittag bis Mo 08:00, an Feiertagen 24 Stunden",
+          "descriptionDe": "Eine regionale tierärztliche Notfallleitung, die Saint-Malo über Nacht, am Wochenende und an Feiertagen abdeckt. Nützlich, wenn Sie dringenden Rat oder dringende Hilfe benötigen, während örtliche Praxen geschlossen sind. Wie bei allen französischen Notdiensten beschleunigt es die Sache, wenn Sie die Mikrochipnummer und den Impfausweis Ihres Hundes griffbereit haben.",
+          "tipDe": "Halten Sie den EU-Heimtierausweis und die Mikrochipnummer Ihres Hundes bereit, um sie am Telefon anzugeben"
         }
       ],
       "faqsEn": [
@@ -646,6 +742,18 @@
         {
           "q": "O que preciso para trazer o meu cão para França a partir de outro país da UE?",
           "a": "Um passaporte europeu para animais atualizado, um microchip e uma vacinação antirrábica válida. Não há quarentena para animais registados na UE. Os animais de fora da UE precisam de um certificado sanitário modelo UE e, consoante a origem, de um teste de titulação antirrábica."
+        }
+      ],
+      "titleDe": "Tierärzte & Notfälle in Saint-Malo",
+      "introDe": "Saint-Malo verfügt über mehrere Tierarztpraxen für die Routineversorgung, und Notfälle außerhalb der Öffnungszeiten werden durch einen Bereitschaftsdienst abgedeckt. Bei einem Notfall in der Nacht, am Wochenende oder an Feiertagen verbindet Sie die kostenlose nationale Tierarzt-Bereitschaftsnummer 3115 mit dem nächsten diensthabenden Tierarzt, und eine regionale Notfallleitung ist über Nacht und am Wochenende erreichbar. Da Frankreich zur EU gehört, reisen Hunde aus EU-Ländern mit einem gültigen EU-Heimtierausweis, Mikrochip und Tollwutimpfung frei ein.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Saint-Malo einen 24-Stunden-Notdienst für Tiere?",
+          "a": "Die Versorgung außerhalb der Öffnungszeiten läuft über einen Bereitschaftsdienst. Wählen Sie die kostenlose nationale Nummer 3115 für den nächsten diensthabenden Tierarzt, oder nutzen Sie die regionale Notfallleitung unter +33 2 99 41 16 46, die Wochennächte, Wochenenden und Feiertage abdeckt."
+        },
+        {
+          "q": "Was benötige ich, um meinen Hund aus einem anderen EU-Land nach Frankreich mitzubringen?",
+          "a": "Einen gültigen EU-Heimtierausweis, einen Mikrochip und eine gültige Tollwutimpfung. Für in der EU registrierte Haustiere gibt es keine Quarantäne. Haustiere aus Nicht-EU-Ländern benötigen eine EU-Gesundheitsbescheinigung und je nach Herkunft möglicherweise einen Tollwut-Titertest."
         }
       ]
     },
@@ -776,6 +884,22 @@
           "q": "O meu cão pode visitar o túmulo de Chateaubriand no Grand Bé?",
           "a": "Sim, com trela, mas apenas na maré baixa. O ilhéu do Grand Bé alcança-se a pé a partir da praia de Bon-Secours e fica isolado pelo mar durante cerca de seis horas na maré alta, por isso verifique sempre as tabelas de marés antes."
         }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch in Saint-Malo mit Hund",
+      "introDe": "Saint-Malo ist ein lohnendes Reiseziel für Hunde, wenn Sie zwei Dinge einplanen: das strikte sommerliche Strandverbot und die extremen Gezeiten. Die Altstadt, die Stadtmauer und die Küstenwege halten Hunde das ganze Jahr über auf Trab, und das kühle Atlantikklima ist selbst im Juli mild für Hunde. Nachfolgend die wichtigsten Regeln, saisonalen Hinweise und Sicherheitspunkte für eine reibungslose Reise.",
+      "faqsDe": [
+        {
+          "q": "Ist Saint-Malo im Sommer ein gutes Reiseziel für einen Hund?",
+          "a": "Ja, mit etwas Planung. Die Strände sind von April bis September für Hunde gesperrt, aber der 2 km lange Stadtmauerspaziergang, der Küstenweg GR34 und das kühle Atlantikklima machen den Sommer für Hunde angenehm. Meiden Sie einfach die Strände und beachten Sie die Gezeiten."
+        },
+        {
+          "q": "Was ist die wichtigste Regel für Hunde in Saint-Malo?",
+          "a": "Das sommerliche Strandverbot: Hunde sind vom 1. April bis 30. September rund um die Uhr an keinem Strand von Saint-Malo erlaubt, bei einem Bußgeld von 35 EUR. Zusammen mit den extremen Gezeiten ist dies der wichtigste Planungspunkt."
+        },
+        {
+          "q": "Kann mein Hund das Grab von Chateaubriand auf dem Grand Bé besuchen?",
+          "a": "Ja, an der Leine, aber nur bei Ebbe. Das Inselchen Grand Bé wird zu Fuß vom Strand Bon-Secours aus erreicht und ist bei Flut für etwa sechs Stunden vom Meer abgeschnitten, prüfen Sie also stets vorher die Gezeitentabellen."
+        }
       ]
     },
     "attractions": {
@@ -809,7 +933,11 @@
           "tipFr": "Faites toute la boucle des remparts au coucher du soleil pour la plus belle lumière sur la baie avec votre chien",
           "tipEs": "Recorre todo el circuito de las murallas al atardecer para la mejor luz sobre la bahía con tu perro",
           "tipPt": "Faça todo o circuito das muralhas ao pôr do sol para a melhor luz sobre a baía com o seu cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Intra-Muros+Saint-Malo"
+          "googleMapsUrl": "https://maps.google.com/?q=Intra-Muros+Saint-Malo",
+          "descriptionDe": "Die granitene Altstadt und ihr 2 km langer Spaziergang auf der Stadtmauer sind das Herzstück jedes Besuchs in Saint-Malo, beide sind ganzjährig für angeleinte Hunde geöffnet. Von der Mauer aus haben Sie 360-Grad-Ausblicke über das Meer, das Fort National, den Grand Bé und die Plage du Sillon. Schlendern Sie unten durch die kopfsteingepflasterten Gassen und steigen Sie dann zur Stadtmauer auf für das klassische Panorama der Korsarenstadt.",
+          "dogPolicyDe": "Hunde ganzjährig an der Leine in den Straßen und auf der Stadtmauer willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Gehen Sie die gesamte Stadtmauerrunde bei Sonnenuntergang für das beste Licht über der Bucht mit Ihrem Hund"
         },
         {
           "name": "Grand Bé & Chateaubriand's Tomb",
@@ -832,7 +960,11 @@
           "tipFr": "Vérifiez les horaires de marée (cherchez la basse mer du jour) avant de traverser ; la mer revient vite",
           "tipEs": "Comprueba las tablas de mareas (busca la bajamar del día) antes de cruzar; el mar vuelve rápido",
           "tipPt": "Verifique as tabelas de marés (procure a baixa-mar do dia) antes de atravessar; o mar regressa depressa",
-          "googleMapsUrl": "https://maps.google.com/?q=Grand+B%C3%A9+Saint-Malo"
+          "googleMapsUrl": "https://maps.google.com/?q=Grand+B%C3%A9+Saint-Malo",
+          "descriptionDe": "Ein Gezeiteninselchen, das bei Ebbe zu Fuß vom Strand Plage de Bon-Secours aus erreicht wird, gekrönt vom schlichten, dem Meer zugewandten Grab des Schriftstellers Chateaubriand, der 1768 in Saint-Malo geboren wurde. Hunde sind an der Leine willkommen, doch das Inselchen ist bei Flut für etwa sechs Stunden vom Meer abgeschnitten. Überqueren Sie nur bei ablaufender oder niedriger Flut und behalten Sie das Wasser genau im Blick.",
+          "dogPolicyDe": "Hunde an der Leine willkommen, nur bei Ebbe zugänglich",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Prüfen Sie vor der Überquerung die Gezeitentabellen (schauen Sie die Ebbezeit des Tages nach); das Meer kehrt schnell zurück"
         },
         {
           "name": "Fort National",
@@ -855,7 +987,11 @@
           "tipFr": "Calez votre marche sur la marée basse et gardez le chien en laisse sur le sable mouillé et rocheux",
           "tipEs": "Ajusta tu paseo a la marea baja y mantén al perro con correa sobre la arena mojada y rocosa",
           "tipPt": "Ajuste o seu passeio à maré baixa e mantenha o cão com trela na areia molhada e rochosa",
-          "googleMapsUrl": "https://maps.google.com/?q=Fort+National+Saint-Malo"
+          "googleMapsUrl": "https://maps.google.com/?q=Fort+National+Saint-Malo",
+          "descriptionDe": "Ein von Vauban entworfenes Fort aus dem Jahr 1689 auf einem felsigen Inselchen direkt vor der Stadtmauer, das bei Ebbe zu Fuß über den Sand erreichbar ist. Der Zugangsweg und die Umgebung lassen sich mit angeleintem Hund genießen, mit einem Tribünenblick zurück auf die Altstadt. Wie bei allen Inselchen hängt der Zugang vollständig von der Gezeit ab.",
+          "dogPolicyDe": "Hunde an der Leine auf dem Zugangsweg willkommen, nur bei Ebbe zugänglich",
+          "admissionFeeDe": "Zugang kostenlos; Führungen im Fortinneren sind kostenpflichtig und saisonal",
+          "tipDe": "Planen Sie Ihren Spaziergang zur Ebbe und halten Sie den Hund auf dem nassen, felsigen Sand angeleint"
         }
       ],
       "tipsEn": [
@@ -933,6 +1069,22 @@
           "q": "Os cães são permitidos dentro dos fortes e museus de Saint-Malo?",
           "a": "Os acessos exteriores e as muralhas são dog-friendly, mas as visitas interiores dos fortes e os museus fechados normalmente não permitem cães. Planeie essas visitas para quando alguém puder cuidar do seu cão."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Saint-Malo",
+      "introDe": "Die wichtigsten Sehenswürdigkeiten von Saint-Malo liegen im Freien und sind an der Leine größtenteils hundefreundlich, vom Spaziergang auf der Stadtmauer bis zu den Gezeiteninselchen. Die ummauerte Korsarenstadt, der Grand Bé und die Ausblicke über die Smaragdküste lassen sich alle mit Hund genießen, solange Sie die Leinenpflicht und die Gezeiten beachten. Diese drei sind die wichtigsten hundefreundlichen Erlebnisse.",
+      "faqsDe": [
+        {
+          "q": "Kann ich mit meinem Hund auf der Stadtmauer von Saint-Malo spazieren gehen?",
+          "a": "Ja. Der 2 km lange Spaziergang auf der Stadtmauer um die Altstadt intra-muros ist ganzjährig für angeleinte Hunde geöffnet und die beste hundefreundliche Besichtigung in Saint-Malo, mit Panoramablick über die Bucht."
+        },
+        {
+          "q": "Kann mein Hund zum Grand Bé und zum Fort National?",
+          "a": "Ja, an der Leine, aber beide sind Gezeiteninselchen, die zu Fuß nur bei Ebbe erreichbar sind. Sie sind bei Flut stundenlang vom Meer abgeschnitten, prüfen Sie also vor der Überquerung stets die Gezeitenzeiten."
+        },
+        {
+          "q": "Sind Hunde in den Forts und Museen von Saint-Malo erlaubt?",
+          "a": "Die Zugänge im Freien und die Stadtmauer sind hundefreundlich, aber die Innenbesichtigungen der Forts und Innenräume der Museen lassen Hunde meist nicht zu. Planen Sie diese Besuche für Zeiten, in denen jemand auf Ihren Hund aufpassen kann."
+        }
       ]
     },
     "petsitting": {
@@ -957,11 +1109,17 @@
           "serviceTypeEs": "Alojamiento, cuidado de día, familias de acogida",
           "serviceTypePt": "Alojamento, cuidados de dia, famílias de acolhimento",
           "pricePerDay": "From around 15 EUR/day depending on service",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "tip": "Book several days ahead in July and August when summer demand is high",
           "tipFr": "Réservez plusieurs jours à l'avance en juillet et août, quand la demande estivale est forte",
           "tipEs": "Reserva con varios días de antelación en julio y agosto, cuando la demanda estival es alta",
-          "tipPt": "Reserve com vários dias de antecedência em julho e agosto, quando a procura estival é alta"
+          "tipPt": "Reserve com vários dias de antecedência em julho e agosto, quando a procura estival é alta",
+          "descriptionDe": "Holidog ist eine große französische Haustierbetreuungsplattform mit vielen Gastfamilien und Betreuern in und um Saint-Malo. Sie ist eine zuverlässige Möglichkeit, eine Unterbringung oder Tagesbetreuung zu organisieren, während Sie Fortinnenräume oder Museen besuchen, in denen Hunde nicht erlaubt sind. Die Betreuer werden bewertet, und die Buchung erfolgt über die Plattform.",
+          "serviceTypeDe": "Unterbringung, Tagesbetreuung, Gastfamilien",
+          "tipDe": "Buchen Sie im Juli und August, wenn die Sommernachfrage hoch ist, mehrere Tage im Voraus"
         },
         {
           "name": "Les Échappées Canines",
@@ -975,11 +1133,16 @@
           "serviceTypeEs": "Paseo de perros, visitas a domicilio",
           "serviceTypePt": "Passeio de cães, visitas ao domicílio",
           "pricePerDay": "Contact for per-visit and walk rates",
-          "languages": ["French"],
+          "languages": [
+            "French"
+          ],
           "tip": "Ideal if you want a midday walk for your dog while you tour a fort interior",
           "tipFr": "Idéal pour une promenade de mi-journée de votre chien pendant que vous visitez l'intérieur d'un fort",
           "tipEs": "Ideal si quieres un paseo de mediodía para tu perro mientras recorres el interior de un fuerte",
-          "tipPt": "Ideal se quiser um passeio ao meio-dia para o seu cão enquanto visita o interior de um forte"
+          "tipPt": "Ideal se quiser um passeio ao meio-dia para o seu cão enquanto visita o interior de um forte",
+          "descriptionDe": "Ein lokaler Dienst in Saint-Malo und Dinan, der Hundespaziergänge und Hausbesuche mit professionellen, versicherten und ausgebildeten Haustierbetreuern anbietet. Gut geeignet für Reisende, die einen angeleinten Spaziergang oder einen Check-in für ihren Hund wünschen statt einer Übernachtungsbetreuung. Als lokaler Anbieter kennen sie die hundefreundlichen Küstenorte gut.",
+          "serviceTypeDe": "Hundespaziergänge, Hausbesuche",
+          "tipDe": "Ideal, wenn Sie Ihrem Hund einen Mittagsspaziergang gönnen möchten, während Sie ein Fortinneres besichtigen"
         },
         {
           "name": "Rover Saint-Malo",
@@ -993,11 +1156,17 @@
           "serviceTypeEs": "Reserva por app. Alojamiento, cuidado de día, paseos",
           "serviceTypePt": "Reserva pela aplicação. Alojamento, cuidados de dia, passeios",
           "pricePerDay": "Around 15–35 EUR/day depending on sitter and service",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "tip": "Message a sitter early in summer; the best-reviewed ones fill up fast in peak season",
           "tipFr": "Contactez un sitter tôt en été ; les mieux notés sont vite complets en haute saison",
           "tipEs": "Escribe a un cuidador pronto en verano; los mejor valorados se llenan rápido en temporada alta",
-          "tipPt": "Contacte um cuidador cedo no verão; os mais bem avaliados enchem depressa na época alta"
+          "tipPt": "Contacte um cuidador cedo no verão; os mais bem avaliados enchem depressa na época alta",
+          "descriptionDe": "Rover listet lokale Betreuer und Gassigeher in Saint-Malo für Unterbringung, Tagesbetreuung und Spaziergänge auf, alle über die App bewertet. Praktisch für Reisende, die nach Leistung, Hundegröße und Verfügbarkeit filtern und vom Handy aus buchen möchten. Lesen Sie aktuelle Bewertungen und schreiben Sie dem Betreuer, bevor Sie bestätigen.",
+          "serviceTypeDe": "App-basierte Buchung. Unterbringung, Tagesbetreuung, Spaziergänge",
+          "tipDe": "Kontaktieren Sie einen Betreuer früh im Sommer; die bestbewerteten sind in der Hochsaison schnell ausgebucht"
         }
       ],
       "tipsEn": [
@@ -1075,6 +1244,23 @@
           "q": "Porque é que posso precisar de um cuidador em Saint-Malo?",
           "a": "Embora as muralhas, as ruas e a costa sejam dog-friendly, os interiores dos fortes e museus normalmente não são. Um cuidador ou passeador ao meio-dia permite-lhe visitar esses locais cobertos sem deixar o seu cão sozinho."
         }
+      ],
+      "titleDe": "Hundebetreuung & Haustierbetreuung in Saint-Malo",
+      "introDe": "Wenn das Innere eines Forts, ein Museum oder ein Restaurant den Hund ausschließt, bietet Saint-Malo zuverlässige lokale Betreuer und Gassigeher, die über nationale Plattformen buchbar sind. Diese Dienste umfassen Kurzbesuche, Spaziergänge und Übernachtungsbetreuung mit versicherten und bewerteten Betreuern in der Stadt und an der umliegenden Küste. Buchen Sie in der geschäftigen Sommersaison im Voraus.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundebetreuer in Saint-Malo?",
+          "a": "Nutzen Sie nationale Plattformen wie Holidog oder Rover, die bewertete lokale Betreuer und Gassigeher in Saint-Malo auflisten, oder einen lokalen Anbieter wie Les Échappées Canines. Buchen Sie im Sommer im Voraus, wenn die Nachfrage am höchsten ist."
+        },
+        {
+          "q": "Was kostet Hundebetreuung in Saint-Malo?",
+          "a": "Übernachtungs- und Tagesbetreuung beginnen typischerweise bei etwa 15 EUR pro Tag und steigen je nach Leistung und Hundegröße. Spaziergänge und Kurzbesuche werden meist pro Besuch berechnet, prüfen Sie also die Preise jedes Betreuers direkt."
+        },
+        {
+          "q": "Warum könnte ich in Saint-Malo einen Betreuer brauchen?",
+          "a": "Während die Stadtmauer, die Straßen und die Küste hundefreundlich sind, sind die Innenräume der Forts und Museen es meist nicht. Ein Betreuer oder Gassigeher für die Mittagszeit ermöglicht Ihnen diese Innenbesichtigungen, ohne Ihren Hund alleinzulassen."
+        }
       ]
     }
-  }}
+  }
+}

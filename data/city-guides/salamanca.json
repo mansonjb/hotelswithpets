@@ -37,7 +37,11 @@
           "descriptionPt": "Fundado em 1905, o café mais antigo de Salamanca, sob as arcadas da Plaza Mayor. Um reduto literário (Miguel de Unamuno era frequentador habitual). Mesas de mármore, espelhos dourados.",
           "petPolicyPt": "Cães bem-vindos na esplanada sob as arcadas",
           "mustTryPt": "Chocolate con churros, vermute",
-          "tipPt": "A esplanada das arcadas tem sombra e acolhe cães durante todo o dia; o salão interior é mais formal, pelo que os animais ficam melhor no exterior."
+          "tipPt": "A esplanada das arcadas tem sombra e acolhe cães durante todo o dia; o salão interior é mais formal, pelo que os animais ficam melhor no exterior.",
+          "descriptionDe": "1905 gegründet, das älteste Café Salamancas, unter den Arkaden der Plaza Mayor. Ein literarischer Treffpunkt (Miguel de Unamuno war Stammgast). Marmortische, vergoldete Spiegel.",
+          "petPolicyDe": "Hunde willkommen auf der Terrasse unter den Arkaden",
+          "mustTryDe": "Chocolate con churros, Vermut",
+          "tipDe": "Die Arkadenterrasse liegt im Schatten und ist den ganzen Tag hundefreundlich; der Innensalon ist förmlicher, Haustiere bleiben besser draußen."
         },
         {
           "name": "La Hoja 21",
@@ -63,7 +67,11 @@
           "descriptionPt": "Cozinha castelhana premiada num ambiente contemporâneo perto do Convento de San Esteban. Ementa sazonal, forte em porco ibérico e queijos da região.",
           "petPolicyPt": "Cães de pequeno porte aceites na zona do bar; não na sala de refeições principal",
           "mustTryPt": "Cochinillo confitado, tabla de quesos castellanos",
-          "tipPt": "Telefone com antecedência para confirmar o acesso de cães ao bar; são flexíveis se chegar cedo."
+          "tipPt": "Telefone com antecedência para confirmar o acesso de cães ao bar; são flexíveis se chegar cedo.",
+          "descriptionDe": "Preisgekrönte kastilische Küche in zeitgenössischem Ambiente nahe dem Convento de San Esteban. Saisonale Karte mit Schwerpunkt auf iberischem Schwein und lokalen Käsesorten.",
+          "petPolicyDe": "Kleine Hunde im Barbereich erlaubt; nicht im Hauptspeisesaal",
+          "mustTryDe": "Cochinillo confitado, kastilische Käseplatte",
+          "tipDe": "Rufen Sie vorher an, um den Hundezutritt zur Bar zu bestätigen, bei frühem Eintreffen zeigt man sich flexibel."
         },
         {
           "name": "Mesón Las Conchas",
@@ -89,7 +97,11 @@
           "descriptionPt": "Mesón castelhano clássico em frente à Casa de las Conchas, com uma esplanada generosa na Rúa Mayor. Tapas, raciones e carnes grelhadas.",
           "petPolicyPt": "Cães bem-vindos na esplanada",
           "mustTryPt": "Pulpo a la gallega, chorizo ibérico, presa ibérica",
-          "tipPt": "A esplanada enche depressa à hora de almoço; chegue antes das 13:30 ou depois das 15:30 para uma mesa tranquila com o seu cão."
+          "tipPt": "A esplanada enche depressa à hora de almoço; chegue antes das 13:30 ou depois das 15:30 para uma mesa tranquila com o seu cão.",
+          "descriptionDe": "Klassisches kastilisches Mesón gegenüber der Casa de las Conchas, mit großzügiger Terrasse an der Rúa Mayor. Tapas, Raciones und gegrilltes Fleisch.",
+          "petPolicyDe": "Hunde willkommen auf der Terrasse",
+          "mustTryDe": "Pulpo a la gallega, Chorizo ibérico, Presa ibérica",
+          "tipDe": "Die Terrasse füllt sich mittags schnell, kommen Sie vor 13:30 Uhr oder nach 15:30 Uhr für einen entspannten Tisch mit Ihrem Hund."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Os restaurantes de Salamanca cobram um suplemento por cães?",
           "a": "Não. Não há suplemento por levar um cão para uma esplanada. Uma tigela de água é muitas vezes oferecida a pedido."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Salamanca, Tapas-Bars & Terrassen",
+      "introDe": "Salamancas Tapas- und Café-Kultur ist auf den Terrassen zuverlässig hundefreundlich. Die Arkaden der Plaza Mayor und die Calle Van Dyck (die Tapas-Straße) bündeln das ganze Jahr über Dutzende hundefreundlicher Lokale.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Salamanca erlaubt?",
+          "a": "Ja, auf den meisten Terrassen. Etwa 80–90 % der Bars und Cafés in Salamanca akzeptieren angeleinte Hunde das ganze Jahr über im Freien. Der Zutritt zum Innenbereich ist von Lokal zu Lokal unterschiedlich."
+        },
+        {
+          "q": "Berechnen Restaurants in Salamanca einen Aufpreis für Hunde?",
+          "a": "Nein. Für die Mitnahme eines Hundes auf die Terrasse fällt kein Aufpreis an. Ein Wassernapf wird auf Anfrage oft angeboten."
+        }
       ]
     },
     "parks": {
@@ -205,7 +229,10 @@
             "Bebedouros",
             "Caixotes do lixo"
           ],
-          "tipPt": "Ideal entre as 18:00 e as 20:00 no verão, quando os locais convivem aqui e os cães brincam sem trela dentro da área vedada."
+          "tipPt": "Ideal entre as 18:00 e as 20:00 no verão, quando os locais convivem aqui e os cães brincam sem trela dentro da área vedada.",
+          "leashRuleDe": "Leinenpflicht; ausgewiesene Freilauffläche",
+          "descriptionDe": "Der größte Park im Zentrum Salamancas, 13 ha Rasenflächen, alte Bäume und eine eingezäunte Hundefläche in der Südostecke. Bei einheimischen Hundebesitzern morgens und abends beliebt.",
+          "tipDe": "Im Sommer am besten zwischen 18:00 und 20:00 Uhr, Einheimische treffen sich hier, Hunde spielen ohne Leine innerhalb der eingezäunten Fläche."
         },
         {
           "name": "Parque de la Aldehuela / Salas Bajas",
@@ -245,7 +272,10 @@
             "Bancos",
             "Locais para piquenique"
           ],
-          "tipPt": "As vistas do pôr do sol sobre a catedral a partir da margem sul são espetaculares; leve água no verão, pois não há bebedouros ao longo do caminho."
+          "tipPt": "As vistas do pôr do sol sobre a catedral a partir da margem sul são espetaculares; leve água no verão, pois não há bebedouros ao longo do caminho.",
+          "leashRuleDe": "Leinenpflicht",
+          "descriptionDe": "Uferpromenade am Tormes südlich der Altstadt, mit Blick auf die Römische Brücke und die Kathedralen-Skyline. Breiter, ebener Weg, schattige Abschnitte, keine Freilaufzone.",
+          "tipDe": "Der Sonnenuntergangsblick auf die Kathedrale vom Südufer aus ist spektakulär, bringen Sie im Sommer Wasser mit, es gibt keine Brunnen entlang des Wegs."
         },
         {
           "name": "Parque de San Francisco",
@@ -281,7 +311,10 @@
             "Bancos",
             "Caminhos com sombra"
           ],
-          "tipPt": "Útil para um passeio rápido entre as visitas da manhã e da tarde; não é um parque de destino, mas antes uma pausa verde."
+          "tipPt": "Útil para um passeio rápido entre as visitas da manhã e da tarde; não é um parque de destino, mas antes uma pausa verde.",
+          "leashRuleDe": "Leinenpflicht",
+          "descriptionDe": "Kleiner zentraler Park 5 Minuten nördlich der Plaza Mayor. Alte Platanen, Kieswege und an einem Ende ein Spielplatz. Praktischer Pinkelstopp für Gäste in Zentrumsnähe.",
+          "tipDe": "Nützlich für einen kurzen Spaziergang zwischen Vormittags- und Nachmittagsbesichtigungen, kein Zielpark, eher eine grüne Pause."
         }
       ],
       "tipsEn": [
@@ -345,6 +378,18 @@
           "q": "Os cães podem nadar no rio Tormes?",
           "a": "Sim, o acesso ao rio é livre a sul da Ponte Romana. O Tormes é pouco profundo e de corrente lenta no verão, ideal para os cães se refrescarem."
         }
+      ],
+      "titleDe": "Die besten Hundeparks & Spaziergänge in Salamanca, Freilauf & Flussufer",
+      "introDe": "Salamancas kompakte Altstadt grenzt im Süden an den Fluss Tormes. Die Uferparks (Salas Bajas) und der bewaldete Parque de los Jesuitas bieten die besten Spaziergänge der Stadt für Hunde. In zwei städtischen Parks gibt es ausgewiesene Freilaufflächen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Salamanca Hundeparks mit Freilauf?",
+          "a": "Ja. Der Parque de los Jesuitas verfügt über eine eingezäunte Freilauffläche, eine zweite gibt es im Parque de Würzburg westlich des Zentrums. Außerhalb dieser Zonen besteht Leinenpflicht."
+        },
+        {
+          "q": "Können Hunde im Fluss Tormes schwimmen?",
+          "a": "Ja, der Zugang zum Fluss ist südlich der Römischen Brücke uneingeschränkt. Der Tormes ist im Sommer flach und langsam fließend, ideal für Hunde zum Abkühlen."
+        }
       ]
     },
     "transport": {
@@ -372,7 +417,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Estacion+Renfe+Salamanca",
           "descriptionPt": "Comboios Avant diretos de Madrid Chamartín a Salamanca em 1h35, vários por dia. Desde 2024, a Renfe aceita cães até 40 kg (um por passageiro) nas rotas AVE e Avant.",
           "petPolicyPt": "Cães até 10 kg em transportadora viajam gratuitamente na tarifa normal; cães de 10 a 40 kg precisam de um bilhete para animais (cerca de 25% da tarifa de adulto) e têm de usar açaime nos corredores.",
-          "tipPt": "Reserve o suplemento para animais ao mesmo tempo que o seu próprio bilhete; há apenas 2 lugares para cães por carruagem e esgotam aos fins de semana."
+          "tipPt": "Reserve o suplemento para animais ao mesmo tempo que o seu próprio bilhete; há apenas 2 lugares para cães por carruagem e esgotam aos fins de semana.",
+          "descriptionDe": "Direkte Avant-Züge von Madrid Chamartín nach Salamanca in 1 Std. 35 Min., mehrmals täglich. Seit 2024 akzeptiert Renfe auf den AVE- und Avant-Strecken Hunde bis 40 kg (einer pro Fahrgast).",
+          "petPolicyDe": "Hunde bis 10 kg in der Transportbox fahren im Standardtarif kostenlos; Hunde zwischen 10 und 40 kg benötigen ein Haustierticket (ca. 25 % des Erwachsenenpreises) und müssen in den Gängen einen Maulkorb tragen.",
+          "tipDe": "Buchen Sie den Haustierzuschlag gleichzeitig mit Ihrem eigenen Ticket, es gibt nur 2 Hundeplätze pro Wagen, an Wochenenden sind sie schnell ausgebucht."
         },
         {
           "name": "Salamanca Urban Buses",
@@ -391,7 +439,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Avanza+bus+Salamanca",
           "descriptionPt": "Explorado pela Avanza/Salmantina. 18 linhas que cobrem toda a urbe. Útil para chegar aos parques periféricos e ao campus universitário a partir do centro.",
           "petPolicyPt": "Cães de pequeno porte em transportadoras e cães de assistência são permitidos gratuitamente. Cães maiores ao critério do motorista (raro).",
-          "tipPt": "Os autocarros circulam das 06:30 às 23:30. Um bilhete simples custa 1,05 EUR; o passe de 10 viagens custa 7,50 EUR (Bonobus)."
+          "tipPt": "Os autocarros circulam das 06:30 às 23:30. Um bilhete simples custa 1,05 EUR; o passe de 10 viagens custa 7,50 EUR (Bonobus).",
+          "descriptionDe": "Betrieben von Avanza/Salmantina. 18 Linien decken die gesamte Stadt ab. Nützlich, um vom Zentrum aus entlegenere Parks und den Universitätscampus zu erreichen.",
+          "petPolicyDe": "Kleine Hunde in Transportboxen und Assistenzhunde fahren kostenlos mit. Größere Hunde nach Ermessen des Fahrers (selten).",
+          "tipDe": "Busse verkehren von 06:30 bis 23:30 Uhr. Ein Einzelticket kostet 1,05 EUR; die 10-Fahrten-Karte (Bonobus) 7,50 EUR."
         },
         {
           "name": "Radio Taxi Salamanca",
@@ -410,7 +461,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Radio+Taxi+Salamanca",
           "descriptionPt": "Cooperativa de táxis local que serve a urbe e os transfers para o aeroporto de Barajas, em Madrid. Os motoristas que aceitam animais podem ser identificados a pedido quando reservar por telefone.",
           "petPolicyPt": "Cães aceites ao critério do motorista; cães de pequeno porte em transportadoras quase sempre sem problema, cães maiores requerem pedido com antecedência.",
-          "tipPt": "Ligue para o +34 923 25 00 00 e peça especificamente um 'taxi que admite perro grande' se tiver um cão de porte médio ou grande."
+          "tipPt": "Ligue para o +34 923 25 00 00 e peça especificamente um 'taxi que admite perro grande' se tiver um cão de porte médio ou grande.",
+          "descriptionDe": "Lokale Taxigenossenschaft für die Stadt und Transfers zum Flughafen Madrid-Barajas. Haustierfreundliche Fahrer können bei telefonischer Buchung auf Anfrage vermittelt werden.",
+          "petPolicyDe": "Hunde werden nach Ermessen des Fahrers akzeptiert; kleine Hunde in Transportboxen sind fast immer in Ordnung, größere Hunde erfordern eine vorherige Anfrage.",
+          "tipDe": "Rufen Sie +34 923 25 00 00 an und fragen Sie bei mittelgroßen/großen Hunden gezielt nach einem 'taxi que admite perro grande'."
         }
       ],
       "tipsEn": [
@@ -474,6 +528,18 @@
           "q": "Como vou do aeroporto de Madrid a Salamanca com um cão?",
           "a": "Três opções: (1) Renfe Cercanías até Chamartín e depois Avant até Salamanca (cerca de 3h, aceita animais); (2) autocarro Avanza do terminal sul de Madrid a Salamanca (cerca de 2h30, apenas cães pequenos em transportadora); (3) transfer privado com motorista que aceita animais (cerca de 250 EUR, 2h30 porta a porta)."
         }
+      ],
+      "titleDe": "Haustierfreundliche Verkehrsmittel in Salamanca, Bus, Bahn & Taxi",
+      "introDe": "Salamancas Altstadt lässt sich in 25 Minuten komplett zu Fuß durchqueren. Bei der Anreise akzeptieren die Renfe-AVE/Avant-Züge aus Madrid (1 Std. 35 Min.) Haustiere gemäß den neuen Regeln von 2024: bis zu 40 kg pro Hund. Auch die städtischen Busse nehmen kleine angeleinte Hunde mit.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in Renfe-Zügen von Madrid nach Salamanca mitnehmen?",
+          "a": "Ja. Seit 2024 akzeptiert Renfe auf den AVE- und Avant-Strecken Hunde bis 40 kg. Hunde bis 10 kg in einer Transportbox fahren kostenlos; Hunde zwischen 10 und 40 kg benötigen ein Haustierticket (ca. 25 % des Erwachsenenpreises) und müssen außerhalb der Box einen Maulkorb tragen."
+        },
+        {
+          "q": "Wie komme ich mit Hund vom Flughafen Madrid nach Salamanca?",
+          "a": "Drei Optionen: (1) Renfe Cercanías nach Chamartín, dann Avant nach Salamanca (ca. 3 Std., haustierfreundlich); (2) Avanza-Bus Estación Sur–Salamanca (ca. 2 Std. 30 Min., nur kleine Hunde in Transportbox); (3) privater Transfer mit haustierfreundlichem Fahrer (ca. 250 EUR, 2 Std. 30 Min. Tür-zu-Tür)."
+        }
       ]
     },
     "beaches": {
@@ -520,7 +586,10 @@
             "Sombra",
             "Vista da catedral"
           ],
-          "tipPt": "A água apresenta-se mais limpa de maio a julho; podem surgir florescências de algas em agosto, por isso verifique a margem do rio antes de deixar o seu cão entrar."
+          "tipPt": "A água apresenta-se mais limpa de maio a julho; podem surgir florescências de algas em agosto, por isso verifique a margem do rio antes de deixar o seu cão entrar.",
+          "leashRuleDe": "Freilauf am Flussufer im Sommer geduldet",
+          "descriptionDe": "Der Fluss Tormes südlich der Römischen Brücke bietet im Sommer flaches, langsam fließendes Wasser zum Schwimmen für Hunde. Grasufer, Blick auf die Kathedrale. Einheimische Hunde schwimmen hier von Juni bis September täglich.",
+          "tipDe": "Das Wasser ist von Mai bis Juli am saubersten; im August können Algenblüten auftreten, prüfen Sie das Flussufer, bevor Sie Ihren Hund hineinlassen."
         },
         {
           "name": "Embalse de Santa Teresa",
@@ -558,7 +627,10 @@
             "Água doce",
             "Zonas de piquenique"
           ],
-          "tipPt": "Saia na saída 178 da A-50 e siga as indicações para Guijuelo para os pontos de acesso mais fáceis com sombra de pinheiros."
+          "tipPt": "Saia na saída 178 da A-50 e siga as indicações para Guijuelo para os pontos de acesso mais fáceis com sombra de pinheiros.",
+          "leashRuleDe": "Keine spezielle Hunderegelung; gesunder Menschenverstand gilt",
+          "descriptionDe": "Großer Stausee 50 km südöstlich von Salamanca, gespeist vom Tormes. Von Kiefern beschattete Buchten, Süßwasser, kein städtischer Strand, aber mehrere öffentliche Zugänge. An Sommerwochenenden bei Einheimischen beliebt.",
+          "tipDe": "Nehmen Sie Ausfahrt 178 von der A-50 und folgen Sie den Schildern nach Guijuelo, um die am leichtesten erreichbaren, kiefernbeschatteten Zugänge zu finden."
         },
         {
           "name": "Embalse de Almendra",
@@ -596,7 +668,10 @@
             "Margens de granito",
             "Águas abertas"
           ],
-          "tipPt": "1h de carro em cada sentido; só vale a pena se quiser uma excursão de meio-dia à albufeira. Leve 4 L de água por cão e um guarda-sol."
+          "tipPt": "1h de carro em cada sentido; só vale a pena se quiser uma excursão de meio-dia à albufeira. Leve 4 L de água por cão e um guarda-sol.",
+          "leashRuleDe": "Keine spezielle Hunderegelung",
+          "descriptionDe": "Der zweitgrößte Stausee Spaniens, 70 km nordwestlich von Salamanca. Felsige Ufer, Granitfelsen, Dehesa-Landschaft mit Steineichen. Wirklich abgelegen, bringen Sie alles Nötige mit.",
+          "tipDe": "1 Std. Fahrzeit pro Strecke; lohnt sich nur bei einem halbtägigen Stauseeausflug. Bringen Sie 4 L Wasser pro Hund und einen Sonnenschutz mit."
         }
       ],
       "tipsEn": [
@@ -660,6 +735,18 @@
           "q": "O Tormes é seguro para os cães?",
           "a": "Em geral sim, de maio a julho. Evite agosto, quando podem ocorrer florescências de algas. Verifique sempre a margem visualmente antes de deixar o seu cão entrar, procurando uma camada verde à superfície."
         }
+      ],
+      "titleDe": "Hundefreundliche Wasserstellen bei Salamanca, Fluss- & Stauseestrände",
+      "introDe": "Salamanca liegt im Landesinneren (210 km vom Atlantik entfernt), doch der Fluss Tormes und umliegende Stauseen bieten im Sommer Schwimmmöglichkeiten für Hunde. Der Stausee Almendra und der Santa-Teresa-See sind 30–50 Autominuten von der Stadt entfernt.",
+      "faqsDe": [
+        {
+          "q": "Wo können Hunde in oder bei Salamanca schwimmen?",
+          "a": "Der Fluss Tormes südlich der Römischen Brücke ist die einfachste Option innerhalb der Stadt. Für Tagesausflüge bieten der Stausee Santa Teresa (50 km südöstlich) und der Stausee Almendra (70 km nordwestlich) Süßwasserbaden ohne spezielle Hundebeschränkungen."
+        },
+        {
+          "q": "Ist der Tormes sicher für Hunde?",
+          "a": "Von Mai bis Juli in der Regel ja. Meiden Sie den August, wenn Algenblüten auftreten können. Prüfen Sie das Ufer immer visuell, bevor Sie Ihren Hund hineinlassen, achten Sie auf grünen Belag an der Oberfläche."
+        }
       ]
     },
     "vets": {
@@ -690,7 +777,9 @@
           "tipEs": "Llama antes para triaje, prepararán una sala y reducirán tu espera, sobre todo después de medianoche.",
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Salamanca",
           "descriptionPt": "Hospital de urgência 24/7 com serviço completo: cirurgia, cuidados intensivos, imagiologia (raio-X, ecografia, TAC) e enfermarias de internamento. A maior unidade para animais de pequeno porte de Salamanca.",
-          "tipPt": "Telefone com antecedência para triagem; vão preparar uma sala de exame e reduzir a sua espera, sobretudo depois da meia-noite."
+          "tipPt": "Telefone com antecedência para triagem; vão preparar uma sala de exame e reduzir a sua espera, sobretudo depois da meia-noite.",
+          "descriptionDe": "Rund um die Uhr geöffnetes Vollservice-Notfallkrankenhaus mit Chirurgie, Intensivstation, Bildgebung (Röntgen, Ultraschall, CT) und stationären Abteilungen. Größte Kleintiereinrichtung in Salamanca.",
+          "tipDe": "Rufen Sie vorher zur Ersteinschätzung an, dann wird ein Untersuchungsraum vorbereitet und Ihre Wartezeit verkürzt, besonders nach Mitternacht."
         },
         {
           "name": "Clínica Veterinaria San Marcos",
@@ -712,7 +801,9 @@
           "tipEs": "Aceptan sin cita pero llama antes, las tardes se llenan rápido con habituales.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+San+Marcos+Salamanca",
           "descriptionPt": "Clínica diurna de longa data no centro histórico, a 7 minutos a pé da Plaza Mayor. Vacinação, colocação de microchip, dermatologia e cuidados de rotina para animais em viagem.",
-          "tipPt": "Aceita atendimento sem marcação, mas telefone antes: o horário da tarde enche depressa com clientes habituais."
+          "tipPt": "Aceita atendimento sem marcação, mas telefone antes: o horário da tarde enche depressa com clientes habituais.",
+          "descriptionDe": "Seit langem etablierte Tagesklinik in der Altstadt, 7 Gehminuten von der Plaza Mayor entfernt. Impfungen, Mikrochipping, Dermatologie, Routineversorgung für reisende Haustiere.",
+          "tipDe": "Ohne Termin möglich, rufen Sie aber vorher an, die Nachmittagsstunden füllen sich mit Stammkunden schnell."
         },
         {
           "name": "Hospital Clínico Veterinario USAL",
@@ -734,7 +825,9 @@
           "tipEs": "Útil sobre todo para casos complejos, tu veterinario debe derivarte. Solo de día.",
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Clinico+Veterinario+USAL+Salamanca",
           "descriptionPt": "Hospital universitário da faculdade de medicina veterinária da Universidade de Salamanca. Consultas especializadas (oncologia, cardiologia, animais exóticos) por referência.",
-          "tipPt": "Mais útil para casos complexos; o seu veterinário de primeira linha tem de o referenciar. Apenas durante o dia."
+          "tipPt": "Mais útil para casos complexos; o seu veterinário de primeira linha tem de o referenciar. Apenas durante o dia.",
+          "descriptionDe": "Lehrkrankenhaus der Tiermedizinischen Fakultät der Universität Salamanca. Fachkonsultationen (Onkologie, Kardiologie, Exoten) nur auf Überweisung.",
+          "tipDe": "Am nützlichsten für komplexe Fälle, Ihr Haustierarzt muss Sie überweisen. Nur tagsüber geöffnet."
         }
       ],
       "tipsEn": [
@@ -798,6 +891,18 @@
           "q": "Quanto custa uma consulta de urgência veterinária em Salamanca?",
           "a": "Cerca de 60 a 120 EUR por uma consulta de urgência básica, mais os exames e o tratamento. As grandes cirurgias podem ir dos 500 aos 2000 EUR. O seguro de animais da UE costuma reembolsar."
         }
+      ],
+      "titleDe": "Notfall-Tierärzte [24h] in Salamanca, Tierkliniken & Haustierbetreuung",
+      "introDe": "Salamanca verfügt dank der Tiermedizinischen Fakultät der Universität (gegründet 1852) über eine solide tierärztliche Versorgung. Eine rund um die Uhr geöffnete Notfallklinik sowie mehrere Tagespraxen versorgen das Stadtzentrum und die umliegenden Viertel.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Salamanca einen 24-Stunden-Tierarzt?",
+          "a": "Ja, das Hospital Veterinario Salamanca an der Avenida de los Cipreses ist rund um die Uhr geöffnet und verfügt über volle Notfallkapazität (Chirurgie, Intensivstation, Bildgebung). Rufen Sie nach Möglichkeit vorher an, um eine Ersteinschätzung zu erhalten."
+        },
+        {
+          "q": "Wie viel kostet ein Notfall-Tierarztbesuch in Salamanca?",
+          "a": "Etwa 60–120 EUR für eine grundlegende Notfallkonsultation, zuzüglich Diagnostik und Behandlung. Größere Operationen können 500–2000 EUR kosten. EU-Tierkrankenversicherungen erstatten die Kosten oft."
+        }
       ]
     },
     "tips": {
@@ -814,14 +919,16 @@
           "description": "April–June and September–October are ideal: warm days (16–22°C), cool nights, and outdoor terraces in full swing. Avoid July–August (35°C+ afternoons) and December–February (cold dry nights, occasional frost).",
           "descriptionFr": "Avril–juin et septembre–octobre sont idéaux : journées tièdes (16–22°C), nuits fraîches et terrasses en pleine activité. Évitez juillet–août (après-midis à 35°C+) et décembre–février (nuits froides et sèches, gel occasionnel).",
           "descriptionEs": "Abril–junio y septiembre–octubre son ideales: días templados (16–22°C), noches frescas y terrazas en plena actividad. Evita julio–agosto (tardes a 35°C+) y diciembre–febrero (noches frías y secas, escarcha ocasional).",
-          "descriptionPt": "Abril a junho e setembro a outubro são ideais: dias quentes (16 a 22°C), noites frescas e esplanadas exteriores em pleno funcionamento. Evite julho e agosto (tardes acima dos 35°C) e dezembro a fevereiro (noites frias e secas, geada ocasional)."
+          "descriptionPt": "Abril a junho e setembro a outubro são ideais: dias quentes (16 a 22°C), noites frescas e esplanadas exteriores em pleno funcionamento. Evite julho e agosto (tardes acima dos 35°C) e dezembro a fevereiro (noites frias e secas, geada ocasional).",
+          "descriptionDe": "April bis Juni und September bis Oktober sind ideal: warme Tage (16–22 °C), kühle Nächte und Außenterrassen in vollem Betrieb. Meiden Sie Juli/August (Nachmittage über 35 °C) und Dezember bis Februar (kalte, trockene Nächte, gelegentlich Frost)."
         },
         {
           "name": "Heat & paw safety",
           "description": "Salamanca's golden sandstone paving heats up fast. From late June to early September, walk dogs before 10:00 or after 19:00. The Plaza Mayor stones can reach 50°C in direct sun, keep dogs on the shaded north arcade side.",
           "descriptionFr": "Le pavage en grès doré de Salamanque chauffe vite. De fin juin à début septembre, promenez les chiens avant 10h ou après 19h. Les pierres de la Plaza Mayor peuvent atteindre 50°C en plein soleil, restez côté arcades nord à l'ombre.",
           "descriptionEs": "El pavimento de arenisca dorada de Salamanca se calienta rápido. De finales de junio a principios de septiembre, pasea a los perros antes de las 10:00 o después de las 19:00. Las piedras de la Plaza Mayor pueden alcanzar 50°C al sol, mantén a los perros en el lado norte con soportales.",
-          "descriptionPt": "O pavimento de arenito dourado de Salamanca aquece depressa. Do final de junho ao início de setembro, passeie os cães antes das 10:00 ou depois das 19:00. As pedras da Plaza Mayor podem atingir 50°C ao sol direto, por isso mantenha os cães do lado da arcada norte, com sombra."
+          "descriptionPt": "O pavimento de arenito dourado de Salamanca aquece depressa. Do final de junho ao início de setembro, passeie os cães antes das 10:00 ou depois das 19:00. As pedras da Plaza Mayor podem atingir 50°C ao sol direto, por isso mantenha os cães do lado da arcada norte, com sombra.",
+          "descriptionDe": "Salamancas goldenes Sandsteinpflaster heizt sich schnell auf. Von Ende Juni bis Anfang September sollten Hunde vor 10:00 Uhr oder nach 19:00 Uhr ausgeführt werden. Die Steine der Plaza Mayor können in direkter Sonne 50 °C erreichen, halten Sie Hunde auf der schattigen Nordarkadenseite."
         },
         {
           "name": "Currency & cost",
@@ -829,7 +936,8 @@
           "description": "Spain uses the euro. Salamanca is cheaper than Madrid or Barcelona: tapas 2–4 EUR, full meal 18–30 EUR, mid-range pet-friendly hotel 90–140 EUR/night, taxi from train station to centre 5–7 EUR.",
           "descriptionFr": "L'Espagne utilise l'euro. Salamanque est moins chère que Madrid ou Barcelone : tapas 2–4 €, repas complet 18–30 €, hôtel pet-friendly milieu de gamme 90–140 €/nuit, taxi gare–centre 5–7 €.",
           "descriptionEs": "España usa el euro. Salamanca es más barata que Madrid o Barcelona: tapas 2–4 €, comida completa 18–30 €, hotel pet-friendly de gama media 90–140 €/noche, taxi estación–centro 5–7 €.",
-          "descriptionPt": "Espanha usa o euro. Salamanca é mais barata do que Madrid ou Barcelona: tapas 2 a 4 EUR, refeição completa 18 a 30 EUR, hotel pet-friendly de gama média 90 a 140 EUR/noite, táxi da estação de comboios ao centro 5 a 7 EUR."
+          "descriptionPt": "Espanha usa o euro. Salamanca é mais barata do que Madrid ou Barcelona: tapas 2 a 4 EUR, refeição completa 18 a 30 EUR, hotel pet-friendly de gama média 90 a 140 EUR/noite, táxi da estação de comboios ao centro 5 a 7 EUR.",
+          "descriptionDe": "Spanien verwendet den Euro. Salamanca ist günstiger als Madrid oder Barcelona: Tapas 2–4 EUR, komplette Mahlzeit 18–30 EUR, haustierfreundliches Mittelklassehotel 90–140 EUR/Nacht, Taxi vom Bahnhof ins Zentrum 5–7 EUR."
         }
       ],
       "tipsEn": [
@@ -893,6 +1001,18 @@
           "q": "Qual é a pior altura para visitar Salamanca com um cão?",
           "a": "De meados de julho a meados de agosto. As máximas diurnas de 35 a 38°C tornam as visitas penosas para os cães, e o pavimento de arenito mantém-se quente até bem dentro da noite. Aposte na primavera ou no outono."
         }
+      ],
+      "titleDe": "Reisetipps für Salamanca mit Ihrem Hund",
+      "introDe": "Salamanca ist eine der unkompliziertesten spanischen Städte für einen Besuch mit Hund: klein, gut zu Fuß erreichbar, mit ausgeprägter Tapas-Terrassenkultur und wenigen Treppen. Die wichtigsten Einschränkungen sind die Sommerhitze und der Zutritt zu den Kathedralen im Innenbereich.",
+      "faqsDe": [
+        {
+          "q": "Ist Salamanca insgesamt hundefreundlich?",
+          "a": "Ja. Salamanca ist eine entspannte Universitätsstadt mit ausgezeichneter Terrassenkultur, gut zu Fuß erreichbaren Entfernungen und einer freundlichen Einstellung gegenüber Hunden. Kathedralen und Museen bleiben tabu, doch das Stadtbild selbst zählt zu den hundefreundlichsten Spaniens."
+        },
+        {
+          "q": "Wann ist die schlechteste Zeit für einen Besuch in Salamanca mit Hund?",
+          "a": "Mitte Juli bis Mitte August. Tageshöchstwerte von 35–38 °C machen Besichtigungen für Hunde qualvoll, und das Sandsteinpflaster bleibt bis weit in den Abend hinein heiß. Streben Sie Frühling oder Herbst an."
+        }
       ]
     },
     "attractions": {
@@ -921,7 +1041,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Plaza+Mayor+Salamanca",
           "descriptionPt": "Considerada a mais bela praça de Espanha (1729, Andrés García de Quiñones), uma arcada barroca de proporções perfeitas em arenito dourado. Coração da vida de Salamanca. Totalmente acessível a cães com trela de dia e de noite.",
           "petPolicyPt": "Espaço público aberto; cães bem-vindos com trela",
-          "tipPt": "A praça resplandece ao pôr do sol (aqui a 'hora dourada' é literal) e novamente quando iluminada após o anoitecer, perfeita para fotografias ao final do dia com o seu cão."
+          "tipPt": "A praça resplandece ao pôr do sol (aqui a 'hora dourada' é literal) e novamente quando iluminada após o anoitecer, perfeita para fotografias ao final do dia com o seu cão.",
+          "descriptionDe": "Gilt als Spaniens schönster Platz (1729, Andrés García de Quiñones), eine perfekt proportionierte barocke Arkade aus goldenem Sandstein. Herzstück des Salamanca-Lebens. Für angeleinte Hunde Tag und Nacht uneingeschränkt zugänglich.",
+          "petPolicyDe": "Offener öffentlicher Raum; Hunde an der Leine willkommen",
+          "tipDe": "Der Platz erstrahlt bei Sonnenuntergang (die 'goldene Stunde' ist hier wörtlich zu nehmen) und erneut, wenn er nach Einbruch der Dunkelheit beleuchtet wird, perfekt für Abendfotos mit Ihrem Hund."
         },
         {
           "name": "Catedral Nueva & Vieja",
@@ -941,7 +1064,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Catedral+Nueva+Salamanca",
           "descriptionPt": "As catedrais gémeas de Salamanca: a Catedral Nueva, do gótico tardio (séc. XVI), e a Catedral Vieja, românica (séc. XII), ligadas internamente. Os cães não são permitidos no interior (exceto os cães de assistência), mas os exteriores e a envolvente Plaza de Anaya estão abertos a todos.",
           "petPolicyPt": "Sem cães no interior; exteriores totalmente acessíveis",
-          "tipPt": "Procure o astronauta esculpido na Puerta de Ramos da catedral nova, acrescentado durante o restauro de 1992. A fachada leste é o melhor local para fotografar o seu cão."
+          "tipPt": "Procure o astronauta esculpido na Puerta de Ramos da catedral nova, acrescentado durante o restauro de 1992. A fachada leste é o melhor local para fotografar o seu cão.",
+          "descriptionDe": "Salamancas Zwillingskathedralen: die spätgotische Catedral Nueva (16. Jh.) und die romanische Catedral Vieja (12. Jh.), innen miteinander verbunden. Hunde sind im Inneren nicht erlaubt (außer Assistenzhunden), doch die Außenbereiche und die umliegende Plaza de Anaya stehen allen offen.",
+          "petPolicyDe": "Keine Hunde im Innenbereich; Außenbereiche uneingeschränkt zugänglich",
+          "tipDe": "Achten Sie auf den Astronauten, der in die Puerta de Ramos der neuen Kathedrale gemeißelt wurde, hinzugefügt bei der Restaurierung 1992. Die Ostfassade ist der beste Ort für Hundefotos."
         },
         {
           "name": "Universidad de Salamanca, Patio de Escuelas",
@@ -961,7 +1087,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Universidad+Salamanca+Patio+Escuelas",
           "descriptionPt": "A fachada plateresca da universidade (1529) é uma das paredes mais fotografadas de Espanha; encontre a rã escondida na caveira para dar sorte. O Patio de Escuelas em frente é uma praça pública aberta, acessível a cães com trela.",
           "petPolicyPt": "Pátio exterior aberto a cães; interior não acessível",
-          "tipPt": "Melhor de manhã cedo (antes das 10:00); o pátio enche-se de grupos de visitas de estudantes por volta das 11:00."
+          "tipPt": "Melhor de manhã cedo (antes das 10:00); o pátio enche-se de grupos de visitas de estudantes por volta das 11:00.",
+          "descriptionDe": "Die plateresk verzierte Fassade der Universität (1529) ist eine der meistfotografierten Wände Spaniens, finden Sie den versteckten Frosch auf dem Totenschädel für Glück. Der davorliegende Patio de Escuelas ist ein offener öffentlicher Platz, der für angeleinte Hunde zugänglich ist.",
+          "petPolicyDe": "Außenhof für Hunde geöffnet; Innenbereich nicht zugänglich",
+          "tipDe": "Am besten früh morgens (vor 10:00 Uhr), der Patio füllt sich bis 11:00 Uhr mit studentischen Reisegruppen."
         }
       ],
       "tipsEn": [
@@ -1025,6 +1154,18 @@
           "q": "Posso visitar as catedrais de Salamanca com o meu cão?",
           "a": "Apenas os exteriores. Os interiores não admitem animais (os cães de assistência são uma exceção). A Plaza de Anaya, em frente às catedrais, é totalmente acessível com um cão à trela."
         }
+      ],
+      "titleDe": "Top haustierfreundliche Sehenswürdigkeiten in Salamanca, Plaza Mayor, Kathedralen & Universität",
+      "introDe": "Salamancas UNESCO-Altstadt erlebt man am besten bei einem architektonischen Spaziergang im Freien, perfekt mit angeleintem Hund. Die meisten wichtigen Sehenswürdigkeiten haben hundefreundliche Innenhöfe oder Außenbereiche; nur die Innenräume der Kirchen sind strikt tabu.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf die Plaza Mayor mitnehmen?",
+          "a": "Ja, uneingeschränkt. Die Plaza Mayor ist ein offener öffentlicher Platz, auf dem angeleinte Hunde Tag und Nacht willkommen sind. Die meisten Café-Terrassen an ihrem Rand akzeptieren ebenfalls Hunde."
+        },
+        {
+          "q": "Kann ich die Kathedralen von Salamanca mit meinem Hund besuchen?",
+          "a": "Nur die Außenbereiche. In den Innenräumen sind Haustiere nicht zugelassen (Assistenzhunde ausgenommen). Die Plaza de Anaya vor den Kathedralen ist mit angeleintem Hund uneingeschränkt zugänglich."
+        }
       ]
     },
     "petsitting": {
@@ -1049,7 +1190,9 @@
           "tipFr": "Sitters hispanophones majoritaires, filtrez sur l'anglais si vous voulez communiquer librement.",
           "tipEs": "Cuidadores hispanohablantes dominan, filtra por inglés si quieres comunicarte con soltura.",
           "descriptionPt": "A maior plataforma de cuidadores de animais de Espanha, com cerca de 20 cuidadores verificados em Salamanca. Visitas pontuais, creche, alojamento durante a noite. Seguro incluído, cuidadores avaliados.",
-          "tipPt": "Predominam os cuidadores que só falam espanhol; filtre pelos que falam inglês se quiser comunicar livremente."
+          "tipPt": "Predominam os cuidadores que só falam espanhol; filtre pelos que falam inglês se quiser comunicar livremente.",
+          "descriptionDe": "Spaniens größte Haustierbetreuungsplattform mit ca. 20 verifizierten Betreuern in Salamanca. Kurzbesuche, Tagesbetreuung, Übernachtungsbetreuung. Versicherung inbegriffen, bewertete Betreuer.",
+          "tipDe": "Überwiegend spanischsprachige Betreuer, filtern Sie nach englischsprachigen, wenn Sie sich frei verständigen möchten."
         },
         {
           "name": "Pawshake Salamanca",
@@ -1065,7 +1208,9 @@
           "tipFr": "Réservez au moins 48h à l'avance en été et pendant la semaine de remise des diplômes (mi-juin), les disponibilités se resserrent.",
           "tipEs": "Reserva al menos 48h antes en verano y durante la semana de graduación universitaria (mediados de junio), la disponibilidad se reduce.",
           "descriptionPt": "Plataforma internacional com cerca de 12 cuidadores verificados em Salamanca. Útil para viajantes que preferem uma interface em inglês e a portabilidade global da conta.",
-          "tipPt": "Reserve com pelo menos 48h de antecedência no verão e durante a semana das cerimónias de graduação universitária (meados de junho), quando a disponibilidade dos cuidadores diminui."
+          "tipPt": "Reserve com pelo menos 48h de antecedência no verão e durante a semana das cerimónias de graduação universitária (meados de junho), quando a disponibilidade dos cuidadores diminui.",
+          "descriptionDe": "Internationale Plattform mit ca. 12 verifizierten Betreuern in Salamanca. Nützlich für Reisende, die eine englischsprachige Oberfläche und ein weltweit übertragbares Konto bevorzugen.",
+          "tipDe": "Buchen Sie im Sommer und während der Abschlusswoche der Universität (Mitte Juni) mindestens 48 Stunden im Voraus, die Verfügbarkeit der Betreuer wird knapper."
         }
       ],
       "tipsEn": [
@@ -1128,6 +1273,18 @@
         {
           "q": "Posso deixar o meu cão no meu hotel em Salamanca durante o dia?",
           "a": "Muitos hotéis pet-friendly de Salamanca (por exemplo, Hospes, NH Collection) aceitam cães no quarto enquanto anda a passear, desde que sejam calmos e não destruidores. Confirme com antecedência, pois alguns exigem que os cães não fiquem sozinhos."
+        }
+      ],
+      "titleDe": "Hundebetreuung & Tagesbetreuung in Salamanca, verifizierte Plattformen",
+      "introDe": "Kathedralen- und Museumsbesuche, Weingutstouren im Champagner-Stil und lange Mittagessen erfordern manchmal, dass Sie Ihren Hund zurücklassen. Zwei internationale Plattformen (Gudog, Pawshake) sind in Salamanca mit rund 30 verifizierten lokalen Betreuern aktiv.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich für einen Tag einen Hundesitter in Salamanca?",
+          "a": "Sowohl Gudog als auch Pawshake ermöglichen die Buchung einzelner Tagesbetreuungen oder Kurzbesuche bei einem verifizierten lokalen Betreuer. Filtern Sie nach Sprache, akzeptierter Hundegröße und Wohnungstyp (Wohnung oder Haus mit Garten)."
+        },
+        {
+          "q": "Kann ich meinen Hund tagsüber in meinem Hotel in Salamanca lassen?",
+          "a": "Viele haustierfreundliche Hotels in Salamanca (z. B. Hospes, NH Collection) akzeptieren Hunde im Zimmer, während Sie unterwegs sind, sofern sie ruhig sind und nichts zerstören. Bestätigen Sie dies im Voraus, manche verlangen, dass Hunde nicht allein gelassen werden."
         }
       ]
     }

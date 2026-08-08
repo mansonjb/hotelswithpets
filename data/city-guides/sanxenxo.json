@@ -39,7 +39,11 @@
           "tipFr": "L'un des rares endroits qui accepte les chiens en salle, utile un jour de pluie galicien",
           "tipEs": "Uno de los pocos sitios que admite perros dentro, útil en un día lluvioso gallego",
           "tipPt": "Um dos poucos locais que aceita cães no interior, útil num dia chuvoso galego",
-          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+La+Trastienda+Sanxenxo"
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+La+Trastienda+Sanxenxo",
+          "descriptionDe": "Ein Restaurant in Sanxenxo, seit 2017 geöffnet, das Hunde jeder Größe sowohl drinnen als auch auf der Terrasse willkommen heißt, ohne Gewichtsbegrenzung und mit bereitgestellten Näpfen. Eines der verlässlichsten hundefreundlichen Lokale am Ort, gelistet im haustierfreundlichen Netzwerk O Salnés.",
+          "petPolicyDe": "Hunde jeder Größe drinnen und auf der Terrasse willkommen",
+          "mustTryDe": "Galicische Meeresfrüchte und lokaler Albariño-Wein",
+          "tipDe": "Eines der wenigen Lokale, die Hunde im Innenbereich zulassen, praktisch an einem regnerischen Tag in Galicien"
         },
         {
           "name": "Jungle Café",
@@ -65,7 +69,11 @@
           "tipFr": "Pratique pour le petit-déjeuner avec votre chien avant la plage",
           "tipEs": "Práctico para desayunar con tu perro antes de ir a la playa",
           "tipPt": "Prático para o pequeno-almoço com o seu cão antes de ir à praia",
-          "googleMapsUrl": "https://maps.google.com/?q=Jungle+Cafe+Portonovo"
+          "googleMapsUrl": "https://maps.google.com/?q=Jungle+Cafe+Portonovo",
+          "descriptionDe": "Ein Bar-Café in Portonovo, spezialisiert auf Frühstück und Gebäck, auch glutenfreie Optionen, das Hunde aller Größen im Innenbereich willkommen heißt, einschließlich der PPP-Rassen. Ein entspannter Morgenstopp vor einem Spaziergang entlang der Promenade Silgar-Baltar.",
+          "petPolicyDe": "Hunde aller Größen im Innenbereich willkommen, PPP-Rassen eingeschlossen",
+          "mustTryDe": "Frühstücksgebäck, glutenfreie Optionen verfügbar",
+          "tipDe": "Praktisch für ein Frühstück mit Hund, bevor es zum Strand geht"
         },
         {
           "name": "Restaurante Cany Playa",
@@ -91,7 +99,11 @@
           "tipFr": "La Praia de Bascuas est une crique plus calme, idéale pour une balade en laisse hors saison",
           "tipEs": "La Praia de Bascuas es una cala más tranquila, buena para un paseo con correa fuera de temporada",
           "tipPt": "A Praia de Bascuas é uma enseada mais tranquila, boa para um passeio com trela fora de época",
-          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+Cany+Playa+Bascuas"
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+Cany+Playa+Bascuas",
+          "descriptionDe": "Ein Strandrestaurant an der Praia de Bascuas, wenige Kilometer von Portonovo entfernt, mit Fisch, Meeresfrüchten, Fleisch und Sandwiches auf einer großen Terrasse und im Innenbereich, Hunde willkommen. Die breite Terrasse macht es zu einem einfachen Mittagsstopp an einem Strandtag.",
+          "petPolicyDe": "Hunde auf der geräumigen Terrasse und im Innenbereich willkommen",
+          "mustTryDe": "Frischer galicischer Fisch und Meeresfrüchte",
+          "tipDe": "Die Praia de Bascuas ist eine ruhigere Bucht, gut für einen angeleinten Strandspaziergang außerhalb der Saison mit Ihrem Hund"
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "O meu cão pode entrar se chover?",
           "a": "Em alguns locais, sim. O tempo galego é instável, e alguns locais de Sanxenxo como La Trastienda aceitam cães de qualquer tamanho no interior, útil num dia de chuva. A maioria limita à esplanada, por isso pergunte primeiro."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Sanxenxo",
+      "introDe": "Sanxenxo und der Nachbarort Portonovo sind voller galicischer Fischterrassen, und mehrere davon sind wirklich hundefreundlich, manche empfangen Hunde sowohl drinnen als auch auf der Terrasse. Das haustierfreundliche Netzwerk O Salnés listet geprüfte Adressen auf, sodass Sie Mahlzeiten mit Hund rund um die Promenade Silgar und die Strände planen können.",
+      "faqsDe": [
+        {
+          "q": "Gibt es hundefreundliche Restaurants in Sanxenxo?",
+          "a": "Ja. Mehrere Restaurants in Sanxenxo und Portonovo heißen Hunde willkommen, und einige, wie La Trastienda und Jungle Café, lassen Hunde sowohl drinnen als auch auf der Terrasse zu. Das haustierfreundliche Netzwerk O Salnés listet geprüfte Lokale auf, und es ist immer höflich, an der Tür nachzufragen."
+        },
+        {
+          "q": "Darf mein Hund bei Regen mit hinein?",
+          "a": "In manchen Lokalen ja. Das Wetter in Galicien ist wechselhaft, und einige Lokale in Sanxenxo wie La Trastienda nehmen Hunde jeder Größe im Innenbereich auf, praktisch an einem verregneten Tag. Die meisten anderen beschränken Hunde auf die Terrasse, also vorher fragen."
+        }
       ]
     },
     "parks": {
@@ -183,7 +207,10 @@
           "tipFr": "Situé à mi-chemin de la promenade, un point de repos facile entre Silgar et Baltar",
           "tipEs": "Está a medio camino del paseo, un punto de descanso fácil entre Silgar y Baltar",
           "tipPt": "Fica a meio do passeio, um ponto de descanso fácil entre Silgar e Baltar",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+Punta+Vicano+Sanxenxo"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Punta+Vicano+Sanxenxo",
+          "descriptionDe": "Ein öffentlicher Park auf der Landzunge Punta Vicaño zwischen den Stränden Silgar und Baltar, an der Uferpromenade, mit Rasenflächen, Aussichtspunkten und Schatten. Angeleinte Hunde sind auf den Wegen willkommen, ein kühler Ort an einem heißen Nachmittag.",
+          "offLeashAreaDe": "Nur an der Leine",
+          "tipDe": "Er liegt auf halbem Weg entlang der Promenade, ein guter Rastpunkt zwischen Silgar und Baltar"
         },
         {
           "name": "Paseo Marítimo Silgar-Baltar",
@@ -203,7 +230,10 @@
           "tipFr": "Marchez tôt ou tard en été ; la promenade est exposée et fréquentée à midi",
           "tipEs": "Pasea pronto o tarde en verano; el paseo está expuesto y concurrido a mediodía",
           "tipPt": "Passeie cedo ou tarde no verão; o passeio está exposto e movimentado ao meio-dia",
-          "googleMapsUrl": "https://maps.google.com/?q=Paseo+Maritimo+Silgar+Sanxenxo"
+          "googleMapsUrl": "https://maps.google.com/?q=Paseo+Maritimo+Silgar+Sanxenxo",
+          "descriptionDe": "Sanxenxos Vorzeigepromenade verläuft rund 6 km hin und zurück vom Hafen vorbei an den Stränden Silgar und Baltar und dem Park Punta Vicaño bis zum Strand Caneliñas in Portonovo. Ein flacher, angeleinter Küstenspaziergang mit ständigem Meerblick, ganzjährig ideal, wenn die Strände selbst im Sommer für Hunde gesperrt sind.",
+          "offLeashAreaDe": "Nur an der Leine",
+          "tipDe": "Im Sommer früh oder spät gehen, die Promenade ist exponiert und mittags belebt"
         },
         {
           "name": "A Lanzada dunes & headland",
@@ -223,7 +253,10 @@
           "tipFr": "Restez sur les sentiers, les dunes sont un habitat protégé, et attention aux forts courants atlantiques",
           "tipEs": "Sigue los senderos, las dunas son un hábitat protegido, y cuidado con las fuertes corrientes atlánticas",
           "tipPt": "Siga os trilhos, as dunas são um habitat protegido, e cuidado com as fortes correntes atlânticas",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Lanzada+Sanxenxo"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Lanzada+Sanxenxo",
+          "descriptionDe": "Der weite Strand A Lanzada mit seinen Dünen und der von einer Kapelle gekrönten Landzunge bildet ein wildes Naturgebiet auf der Landenge Richtung O Grove, hervorragend für einen angeleinten Spaziergang außerhalb der Saison mit großartigem Atlantikblick. Im Sommer sind Hunde auf dem Sand verboten, aber die Wege der Landzunge und der Sand außerhalb der Saison sind wunderbar.",
+          "offLeashAreaDe": "Nur an der Leine; Dünen sind geschützt",
+          "tipDe": "Bleiben Sie auf den Wegen, die Dünen sind ein geschütztes Habitat, achten Sie auf starke Atlantikströmungen"
         }
       ],
       "tipsEn": [
@@ -284,6 +317,18 @@
         {
           "q": "Há algum sítio onde o meu cão possa correr sem trela?",
           "a": "Não em Sanxenxo, onde os cães devem andar com trela em público. Para um banho sem trela, vá a cerca de 20 km, às praias caninas de todo o ano de O Grove (O Espiño e O Portiño em San Vicente do Mar)."
+        }
+      ],
+      "titleDe": "Parks & Grünflächen in Sanxenxo",
+      "introDe": "Die besten Hundespaziergänge in Sanxenxo führen an der Küste entlang: die flache Promenade Silgar-Baltar, der Parkbereich am Kap Punta Vicaño und die wilden Dünen von A Lanzada. Nach galicischen Regeln müssen Hunde in der Öffentlichkeit angeleint sein und dürfen während der sommerlichen Badesaison nicht auf den Sand, sodass diese Promenaden und Landzungen die ganzjährige Option sind.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich meinen Hund in Sanxenxo ausführen?",
+          "a": "Die flache Uferpromenade Silgar-Baltar, der Parkbereich am Kap Punta Vicaño und die Dünen von A Lanzada sind alle angeleinte Hundespaziergänge mit tollem Meerblick, ganzjährig geöffnet. In der Badesaison von Juni bis September sind Hunde vom Sand selbst verbannt, sodass die Promenaden im Sommer die Wahl sind."
+        },
+        {
+          "q": "Gibt es einen Ort, an dem mein Hund ohne Leine laufen kann?",
+          "a": "Nicht innerhalb von Sanxenxo selbst, wo Hunde in der Öffentlichkeit angeleint sein müssen. Für ein Bad ohne Leine fahren Sie etwa 20 km zu den ganzjährigen Hundestränden in O Grove (O Espiño und O Portiño in San Vicente do Mar)."
         }
       ]
     },
@@ -391,6 +436,18 @@
           "q": "Posso levar um cão grande a Sanxenxo sem carro?",
           "a": "É difícil. Os autocarros regionais costumam aceitar apenas cães pequenos em transportadora ao critério do motorista, e não há comboio para a vila. Para um cão grande, um carro de aluguer ou um táxi para animais é de longe o mais prático."
         }
+      ],
+      "titleDe": "Mit Hund unterwegs in Sanxenxo",
+      "introDe": "Sanxenxo hat keinen Bahnhof, daher reisen die meisten Hundebesitzer über die Flughäfen Vigo (VGO) oder Santiago (SCQ) und einen Mietwagen an, oder mit dem Bus ab Pontevedra, dem nächstgelegenen Renfe-Bahnhof rund 30 km entfernt. Ein Auto ist der einfachste Weg, um den Ort und die ganzjährigen Hundestrände in O Grove zu erreichen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Zug nach Sanxenxo?",
+          "a": "Nein. Sanxenxo hat keinen Bahnhof. Der nächstgelegene Renfe-Bahnhof ist Pontevedra, rund 30 km entfernt, von wo aus Sie mit dem Bus, Taxi oder Auto weiterfahren. Die meisten Besucher fliegen nach Vigo oder Santiago und fahren mit dem Mietwagen weiter."
+        },
+        {
+          "q": "Kann ich einen großen Hund ohne Auto nach Sanxenxo mitbringen?",
+          "a": "Es ist schwierig. Regionalbusse nehmen im Allgemeinen nur kleine Hunde in der Transportbox nach Ermessen des Fahrers mit, und es gibt keinen Zug zum Ort. Für einen großen Hund ist ein Mietwagen oder ein Haustier-Taxitransfer bei weitem die praktischste Wahl."
+        }
       ]
     },
     "beaches": {
@@ -489,6 +546,22 @@
           "q": "Onde estão as praias caninas mais próximas abertas todo o ano?",
           "a": "As praias caninas de O Espiño e O Portiño em San Vicente do Mar, em O Grove, a cerca de 20 km, estão abertas todo o ano com água calma e pouco profunda ideal para todos os tamanhos. A Pinela em Poio, perto de Combarro, é outra opção próxima."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Sanxenxo",
+      "introDe": "Sanxenxo ist einer der führenden Badeorte Galiciens, hat aber keinen eigenen offiziellen Hundestrand, und nach galicischen Regeln sind Hunde während der Badesaison vom 1. Juni bis 30. September von den Stränden verbannt. Außerhalb der Saison (etwa Oktober bis Mai) können angeleinte Hunde Strände wie Silgar und A Lanzada nutzen, und die verlässlichen ganzjährigen Hundestrände sind die praias caninas in O Grove, etwa 20 km entfernt.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Sanxenxo einen Hundestrand?",
+          "a": "Nein. Sanxenxo hat innerhalb der Gemeinde keinen offiziellen Hundestrand, und seine Strände verbieten Hunde während der Badesaison vom 1. Juni bis 30. September. Die nächstgelegenen ganzjährigen Hundestrände sind die praias caninas in O Grove, etwa 20 km entfernt."
+        },
+        {
+          "q": "Darf mein Hund im Winter an die Strände von Sanxenxo?",
+          "a": "Ja. Außerhalb der Badesaison, etwa von Oktober bis Mai, können angeleinte Hunde die Strände von Sanxenxo wie Silgar und A Lanzada nutzen. Im Sommer sind sie vom Sand verbannt, nutzen Sie dann die Promenade Silgar-Baltar oder fahren Sie zu den Hundestränden in O Grove."
+        },
+        {
+          "q": "Wo sind die nächstgelegenen ganzjährigen Hundestrände?",
+          "a": "Die praias caninas O Espiño und O Portiño in San Vicente do Mar in O Grove, etwa 20 km entfernt, sind ganzjährig für Hunde geöffnet, mit ruhigem, flachem Wasser, ideal für alle Größen. A Pinela in Poio, nahe Combarro, ist eine weitere Option in der Nähe."
+        }
       ]
     },
     "vets": {
@@ -535,7 +608,10 @@
           "tipEs": "Guarda el móvil de urgencias antes del viaje por si necesitas atención fuera de horario",
           "tipPt": "Guarde o móvel de urgência antes da viagem caso precise de apoio fora de horário",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Portonovo+Sanxenxo",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo bis Fr 09:00 bis 19:00 Uhr, Sa 09:30 bis 13:30 Uhr; Notfallnummer +34 696 599 164",
+          "descriptionDe": "Eine Tierarztpraxis mit vollem Leistungsspektrum an der Straße nach Lanzada in Portonovo, mit Beratung, Operationen und Diagnostik sowie einer Notfalltelefonnummer außerhalb der Öffnungszeiten, wenn die Praxis geschlossen ist. Ein praktischer erster Ansprechpartner sowohl für die Routineversorgung als auch für Sorgen außerhalb der Öffnungszeiten.",
+          "tipDe": "Speichern Sie die Mobilnummer außerhalb der Öffnungszeiten vor Ihrer Reise, falls Sie nach Feierabend Rat benötigen"
         },
         {
           "name": "Centro Veterinario Sanxenxo",
@@ -557,7 +633,10 @@
           "tipEs": "Céntrico y fácil de alcanzar a pie desde el paseo de Silgar",
           "tipPt": "Central e fácil de alcançar a pé a partir do passeio de Silgar",
           "googleMapsUrl": "https://maps.google.com/?q=Centro+Veterinario+Sanxenxo",
-          "photo": "/images/city-places/sanxenxo-vets-centro-veterinario-sanxenxo.jpg"
+          "photo": "/images/city-places/sanxenxo-vets-centro-veterinario-sanxenxo.jpg",
+          "hoursDe": "Mo bis Fr 11:00 bis 14:00 & 17:00 bis 20:00 Uhr, Sa 11:00 bis 14:00 Uhr",
+          "descriptionDe": "Eine allgemeine Tierarztpraxis im Zentrum von Sanxenxo in der Rúa do Progreso, praktisch für Beratungen, Impfungen und Reisegesundheitschecks während der Öffnungszeiten. Eine gute Option für eine Untersuchung vor der Reise oder die Aktualisierung des Heimtierausweises.",
+          "tipDe": "Zentral gelegen und von der Promenade Silgar zu Fuß leicht zu erreichen"
         }
       ],
       "faqsEn": [
@@ -598,6 +677,18 @@
         {
           "q": "O que fazer numa urgência com o meu animal?",
           "a": "Ligue diretamente a um veterinário em vez do 112, que é para pessoas. Guarde o móvel de urgência da clínica de Portonovo e o número do Centro Veterinario Sanxenxo antes da viagem, e pergunte-lhes onde ir para um internamento noturno se necessário."
+        }
+      ],
+      "titleDe": "Tierärzte & Notfälle in Sanxenxo",
+      "introDe": "Sanxenxo und der Ortsteil Portonovo verfügen über etablierte allgemeine Tierarztpraxen, darunter eine mit einer Notfallnummer außerhalb der Öffnungszeiten. Für die stationäre Versorgung über Nacht befinden sich die nächstgelegenen größeren Einrichtungen im Gebiet Pontevedra und Vilagarcía, daher lohnt es sich, zunächst die örtliche Praxis anzurufen. Spaniens allgemeine Notrufnummer ist 112, ist aber auf Menschen ausgerichtet.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Sanxenxo einen Notfalltierarzt?",
+          "a": "Die Clínica Veterinaria Portonovo betreibt neben ihrer Tagespraxis an der Straße nach Lanzada eine Notfalltelefonnummer außerhalb der Öffnungszeiten (+34 696 599 164). Für stationäre Versorgung über Nacht befinden sich die nächstgelegenen größeren Einrichtungen im Gebiet Pontevedra und Vilagarcía, rufen Sie also zunächst Ihre örtliche Praxis an."
+        },
+        {
+          "q": "Was sollte ich bei einem Notfall mit meinem Haustier tun?",
+          "a": "Rufen Sie direkt einen Tierarzt an, statt die 112, die auf Menschen ausgerichtet ist. Speichern Sie vor Ihrer Reise die Mobilnummer der Praxis Portonovo außerhalb der Öffnungszeiten sowie die Nummer des Centro Veterinario Sanxenxo, und fragen Sie dort, wohin Sie sich bei Bedarf für eine stationäre Behandlung über Nacht wenden sollen."
         }
       ]
     },
@@ -701,6 +792,18 @@
           "q": "Que documentos precisa o meu cão para Sanxenxo?",
           "a": "Os visitantes da UE precisam de passaporte europeu para animais, microchip e vacinação antirrábica em dia. Os de fora da UE, certificado sanitário e, de alguns países, teste de anticorpos, por isso consulte os requisitos da MAPA espanhola com antecedência."
         }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch in Sanxenxo mit Hund",
+      "introDe": "Sanxenxo ist ein entspannter Ausgangspunkt in den Rías Baixas mit hundefreundlichen Terrassen und langen Küstenpromenaden, aber zwei Dinge prägen eine Reise mit Hund: das Strandverbot von Juni bis September in ganz Galicien und das vollständige Hundeverbot im Nationalpark der Atlantikinseln, dessen Bootsausflüge (Cíes, Ons) von dieser Küste aus starten.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund von Sanxenxo aus zu den Inseln Cíes oder Ons mitnehmen?",
+          "a": "Nein. Die Inseln Cíes und Ons gehören zum Nationalpark der Atlantikinseln, wo alle Haustiere außer Blindenhunden verboten sind, um das Ökosystem zu schützen. Steigen Sie mit Ihrem Hund nicht in eine Inselfähre; planen Sie diese Ausflüge für einen Tag, an dem jemand auf den Hund aufpassen kann."
+        },
+        {
+          "q": "Welche Unterlagen braucht mein Hund für Sanxenxo?",
+          "a": "EU-Besucher benötigen einen EU-Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung. Besucher von außerhalb der EU benötigen eine Tiergesundheitsbescheinigung und, aus manchen Ländern, einen Tollwut-Antikörpertest, prüfen Sie daher rechtzeitig vor der Reise die Anforderungen des spanischen Landwirtschaftsministeriums MAPA."
+        }
       ]
     },
     "attractions": {
@@ -734,7 +837,11 @@
           "tipFr": "Allez-y tôt ou tard en été, les ruelles deviennent très fréquentées et étroites aux heures de pointe",
           "tipEs": "Ve pronto o tarde en verano, las callejuelas se llenan mucho y son estrechas en hora punta",
           "tipPt": "Vá cedo ou tarde no verão, as ruelas ficam muito cheias e estreitas nas horas de ponta",
-          "googleMapsUrl": "https://maps.google.com/?q=Combarro+Poio"
+          "googleMapsUrl": "https://maps.google.com/?q=Combarro+Poio",
+          "descriptionDe": "Combarro, eines der schönsten Dörfer Galiciens, ist berühmt für seine Uferreihe an hórreos (steinernen Kornspeichern), cruceiros und schmalen Fischergassen direkt an der ría. Angeleinte Hunde dürfen durch die Straßen und am Kai entlangschlendern, und es lässt sich gut mit dem nahegelegenen hundefreundlichen Strand A Pinela kombinieren.",
+          "dogPolicyDe": "Angeleinte Hunde in den Straßen und am Kai willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Im Sommer früh oder spät kommen, die Gassen sind zu Stoßzeiten sehr belebt und eng"
         },
         {
           "name": "A Lanzada beach & headland",
@@ -757,7 +864,11 @@
           "tipFr": "Les sentiers du promontoire sont ouverts toute l'année même quand le sable est fermé aux chiens l'été",
           "tipEs": "Los senderos del promontorio están abiertos todo el año aunque la arena cierre a los perros en verano",
           "tipPt": "Os trilhos do promontório estão abertos todo o ano mesmo quando a areia fecha aos cães no verão",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Lanzada+ermida"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Lanzada+ermida",
+          "descriptionDe": "Der weitläufige Strand A Lanzada endet in einer Landzunge, gekrönt von einer kleinen antiken Kapelle, mit wilden Dünen und gewaltigem Atlantikblick, ein herrlicher angeleinter Spaziergang außerhalb der Badesaison. Halten Sie Hunde auf den Wegen, um die Dünen zu schützen, und achten Sie auf starke Strömungen und Brandung.",
+          "dogPolicyDe": "Angeleinte Hunde auf den Wegen und außerhalb der Saison auf dem Sand; vom 1. Juni bis 30. September auf dem Sand verboten",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Die Wege der Landzunge sind ganzjährig geöffnet, auch wenn der Sand im Sommer für Hunde gesperrt ist"
         },
         {
           "name": "Sanxenxo Marina (Puerto Deportivo)",
@@ -780,7 +891,11 @@
           "tipFr": "Profitez de la marina et de la promenade avec votre chien, mais laissez les jours de ferry à un pet-sitter",
           "tipEs": "Disfruta de la marina y el paseo con tu perro, pero deja los días de ferry para un cuidador",
           "tipPt": "Aproveite a marina e o passeio com o seu cão, mas deixe os dias de ferry para um cuidador",
-          "googleMapsUrl": "https://maps.google.com/?q=Puerto+Deportivo+Sanxenxo"
+          "googleMapsUrl": "https://maps.google.com/?q=Puerto+Deportivo+Sanxenxo",
+          "descriptionDe": "Sanxenxos schicke Marina verankert das östliche Ende der Promenade und ist ein angenehmer angeleinter Spaziergang zwischen Yachten und Cafés am Wasser. Bootsausflüge zu den Inseln Ons und Cíes starten von hier, aber denken Sie daran, dass Hunde im Inselnationalpark nicht erlaubt sind, diese Ausflüge finden also ohne Ihr Haustier statt.",
+          "dogPolicyDe": "Angeleinte Hunde an den Kais; auf Inselfähren nicht erlaubt",
+          "admissionFeeDe": "Kostenlos zum Schlendern",
+          "tipDe": "Genießen Sie die Marina und die Promenade mit Ihrem Hund, aber heben Sie sich Inselfährentage für einen Tiersitter auf"
         }
       ],
       "tipsEn": [
@@ -842,6 +957,18 @@
           "q": "Posso visitar as ilhas com o meu cão?",
           "a": "Não. As ilhas Cíes e Ons são um parque nacional onde os animais estão proibidos, por isso os ferries de Sanxenxo não são uma opção com o seu cão. Deixe as ilhas para quando um companheiro puder ficar com ele, e aproveite a costa com o seu animal."
         }
+      ],
+      "titleDe": "Hundefreundliche Aktivitäten rund um Sanxenxo",
+      "introDe": "Das Beste von Sanxenxo mit Hund erlebt man draußen und an der Küste: die Promenade Silgar-Baltar, das Fischerdorf Combarro mit seinen Kornspeichern am Flussufer, und die wilde Landzunge A Lanzada. Die eine große Ausnahme ist der Inselnationalpark, wo Hunde auf den Fähren nach Cíes und Ons nicht erlaubt sind.",
+      "faqsDe": [
+        {
+          "q": "Was kann ich mit meinem Hund rund um Sanxenxo unternehmen?",
+          "a": "Gehen Sie die Promenade Silgar-Baltar entlang, erkunden Sie das Kornspeicherdorf Combarro und die wilde Landzunge A Lanzada, und schlendern Sie durch die Marina, alles angeleint und hundefreundlich. Für ein Bad mit dem Hund fahren Sie etwa 20 km zu den ganzjährigen Hundestränden in O Grove."
+        },
+        {
+          "q": "Kann ich die Inseln mit meinem Hund besuchen?",
+          "a": "Nein. Die Inseln Cíes und Ons sind ein Nationalpark, in dem Haustiere verboten sind, sodass die Fähren von Sanxenxo mit Ihrem Hund keine Option sind. Heben Sie sich Inselausflüge für einen Tag auf, an dem eine Begleitperson auf den Hund aufpassen kann, und genießen Sie stattdessen die Festlandküste mit Ihrem Haustier."
+        }
       ]
     },
     "petsitting": {
@@ -873,7 +1000,10 @@
           "tip": "Book a sitter for the day you plan a Cíes or Ons island trip",
           "tipFr": "Réservez un garde le jour où vous prévoyez une excursion aux îles Cíes ou Ons",
           "tipEs": "Reserva un cuidador el día que planees una excursión a las islas Cíes u Ons",
-          "tipPt": "Reserve um cuidador no dia em que planear uma excursão às ilhas Cíes ou Ons"
+          "tipPt": "Reserve um cuidador no dia em que planear uma excursão às ilhas Cíes ou Ons",
+          "descriptionDe": "Eine bekannte spanische Plattform für Hundebetreuung, die Besitzer mit geprüften lokalen Sittern für Tagesbetreuung oder Übernachtungsaufenthalte verbindet, mit Bewertungen, Versicherung und Foto-Updates. Filtern Sie nach dem Gebiet Sanxenxo, Portonovo und Pontevedra, um Betreuer in der Nähe zu finden.",
+          "serviceTypeDe": "Übernachtungsbetreuung, Tagesbetreuung und Gassi-Service",
+          "tipDe": "Buchen Sie einen Sitter für den Tag, an dem Sie einen Ausflug nach Cíes oder Ons planen"
         },
         {
           "name": "Rover",
@@ -894,7 +1024,10 @@
           "tip": "Read recent reviews and confirm the sitter is comfortable with your dog's size and breed",
           "tipFr": "Lisez les avis récents et confirmez que le garde est à l'aise avec la taille et la race de votre chien",
           "tipEs": "Lee reseñas recientes y confirma que el cuidador esté cómodo con el tamaño y la raza de tu perro",
-          "tipPt": "Leia avaliações recentes e confirme que o cuidador está à vontade com o tamanho e a raça do seu cão"
+          "tipPt": "Leia avaliações recentes e confirme que o cuidador está à vontade com o tamanho e a raça do seu cão",
+          "descriptionDe": "Ein internationaler Marktplatz für Haustierbetreuung, der Galicien abdeckt und Übernachtungsbetreuung, Tagesbetreuung, Kurzbesuche und Spaziergänge von lokalen Betreuern mit verifizierten Profilen und Bewertungen anbietet. Nützlich, um für Ihren Aufenthalt in Sanxenxo einen Sitter für einen Inselausflugstag zu finden.",
+          "serviceTypeDe": "Übernachtungsbetreuung, Tagesbetreuung, Kurzbesuche und Spaziergänge",
+          "tipDe": "Lesen Sie aktuelle Bewertungen und bestätigen Sie, dass der Sitter mit Größe und Rasse Ihres Hundes vertraut ist"
         }
       ],
       "tipsEn": [
@@ -955,6 +1088,18 @@
         {
           "q": "Porque poderia precisar de um cuidador em Sanxenxo?",
           "a": "As excursões de destaque, as ilhas Cíes e Ons, são um parque nacional onde os cães estão proibidos, por isso precisa de alguém para ficar com o seu cão nos dias de ferry. Um cuidador também ajuda para atrações interiores ou refeições longas onde um cão não é ideal."
+        }
+      ],
+      "titleDe": "Hundesitter & Tagesbetreuung in Sanxenxo",
+      "introDe": "Da die Inselausflüge zu Cíes und Ons sowie einige Sehenswürdigkeiten im Innenbereich für Hunde tabu sind, ist ein Sitter in Sanxenxo wirklich nützlich. Online-Plattformen decken die Rías Baixas mit geprüften lokalen Betreuern für Spaziergänge, Tagesbetreuung und Übernachtungsbetreuung ab, und viele Hotels können ebenfalls einen vertrauenswürdigen Sitter empfehlen.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter in Sanxenxo?",
+          "a": "Online-Plattformen wie Gudog und Rover listen geprüfte lokale Sitter im Gebiet Sanxenxo, Portonovo und Pontevedra für Übernachtungsbetreuung, Tagesbetreuung und Spaziergänge, mit Bewertungen und Versicherung. Filtern Sie nach der lokalen Gegend und buchen Sie einen Sitter, besonders für den Tag, an dem Sie einen Inselfährenausflug planen."
+        },
+        {
+          "q": "Warum könnte ich in Sanxenxo einen Sitter brauchen?",
+          "a": "Die großen Tagesausflüge, die Inseln Cíes und Ons, sind ein Nationalpark, in dem Hunde verboten sind, daher brauchen Sie jemanden, der an Fährentagen auf Ihren Hund aufpasst. Ein Sitter hilft auch bei Sehenswürdigkeiten im Innenbereich oder langen Restaurantbesuchen, bei denen ein Hund nicht ideal ist."
         }
       ]
     }

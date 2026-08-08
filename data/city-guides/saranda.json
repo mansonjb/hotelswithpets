@@ -62,6 +62,22 @@
           "q": "Qual é a melhor altura para jantar fora com um cão em Saranda?",
           "a": "Na época baixa (meados de setembro a início de maio) e no início ou no fim do dia no verão, quando as esplanadas estão mais calmas e está mais fresco. Evite o calor das 13:00-16:00 no verão com o seu cão."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Saranda",
+      "introDe": "Inhalt folgt in Kürze.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Saranda erlaubt?",
+          "a": "Hunde sind auf den Außenterrassen und Meeresterrassen der meisten Restaurants in Saranda willkommen, jedoch in der Regel nicht in den Innenräumen. Bringen Sie einen eigenen Wassernapf mit, da keiner bereitgestellt wird."
+        },
+        {
+          "q": "Haben Restaurants in Saranda Hundemenüs oder Wassernäpfe?",
+          "a": "Nein. Albanische Restaurants sind hundetolerant, aber nicht hundeausgestattet. Erwarten Sie daher keine Hundemenüs, Leckerlis oder Wassernäpfe. Packen Sie Ihre eigene Ausrüstung ein."
+        },
+        {
+          "q": "Wann ist die beste Zeit, um mit einem Hund in Saranda auswärts zu essen?",
+          "a": "In der Nebensaison (Mitte September bis Anfang Mai) sowie im Sommer früh oder spät am Tag, wenn die Terrassen ruhiger und die Temperaturen kühler sind. Meiden Sie mit Ihrem Hund die geschäftige Sommerhitze zwischen 13:00 und 16:00 Uhr."
+        }
       ]
     },
     "parks": {
@@ -90,7 +106,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Saranda+Promenade",
           "descriptionPt": "A longa marginal ladeada de palmeiras que contorna a baía de Saranda é a principal artéria de passeio de cães da cidade, com árvores para farejar, brisa marítima e vistas constantes de Corfu do outro lado do estreito. É movimentada de gente e cães de rua no verão mas calma e agradável para passeios com trela na época baixa.",
           "offLeashAreaPt": "Apenas com trela. Sem zona sem trela. Mais calma e descontraída para os cães na época baixa",
-          "tipPt": "Passeie de manhã cedo ou depois do pôr do sol no verão para evitar as multidões e o calor do pavimento ao meio-dia"
+          "tipPt": "Passeie de manhã cedo ou depois do pôr do sol no verão para evitar as multidões e o calor do pavimento ao meio-dia",
+          "descriptionDe": "Die lange, von Palmen gesäumte Promenade, die sich um die Bucht von Saranda schwingt, ist die wichtigste Ader für Hundespaziergänge der Stadt, mit Bäumen zum Schnüffeln, Meeresbrise und ständigem Blick auf Korfu über die Meerenge. Im Sommer ist sie belebt von Menschen und ansässigen Straßenhunden, in der Nebensaison jedoch ruhig und angenehm für Spaziergänge an der Leine.",
+          "offLeashAreaDe": "Nur an der Leine. Kein Freilaufbereich. In der Nebensaison ruhiger und entspannter für Hunde",
+          "tipDe": "Gehen Sie im Sommer früh morgens oder nach Sonnenuntergang spazieren, um Menschenmengen und die Mittagshitze auf dem Pflaster zu vermeiden"
         },
         {
           "name": "Lekursi Castle Hill",
@@ -110,7 +129,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Lekursi+Castle+Saranda",
           "descriptionPt": "Uma caminhada gratificante com trela até ao Castelo de Lekursi, do século XVI, com vistas panorâmicas sobre Saranda, a lagoa de Butrint e o mar Jónico. O terraço do café-restaurante do castelo costuma acolher cães bem-comportados, o que o torna uma paragem perfeita ao pôr do sol depois da subida.",
           "offLeashAreaPt": "Recomenda-se trela. Poucas barreiras naturais fora do castelo e multidões frequentes no verão",
-          "tipPt": "Vá ao pôr do sol mas leve água para o cão. A subida é exposta e quente nas tardes de verão"
+          "tipPt": "Vá ao pôr do sol mas leve água para o cão. A subida é exposta e quente nas tardes de verão",
+          "descriptionDe": "Eine lohnende Wanderung an der Leine hinauf zur Burg Lekursi aus dem 16. Jahrhundert mit Panoramablick über Saranda, die Lagune von Butrint und das Ionische Meer. Die Terrasse des Café-Restaurants der Burg heißt wohlerzogene Hunde in der Regel willkommen und ist damit ein perfekter Halt zum Sonnenuntergang nach dem Aufstieg.",
+          "offLeashAreaDe": "Leine empfohlen. Wenige natürliche Barrieren außerhalb der Burg und im Sommer häufig Besuchermassen",
+          "tipDe": "Gehen Sie zum Sonnenuntergang, nehmen Sie aber Wasser für den Hund mit. Der Aufstieg ist an Sommernachmittagen exponiert und heiß"
         },
         {
           "name": "Forty Saints Monastery (Manastiri i Dyzet Shenjtoreve)",
@@ -130,7 +152,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Forty+Saints+Monastery+Saranda",
           "descriptionPt": "As ruínas no alto da colina que dão o nome a Saranda (Saranda vem dos Quarenta Santos) erguem-se acima da cidade e proporcionam um passeio com trela tranquilo e cheio de ambiente. Muito menos concorrido do que a marginal, na época baixa é uma das opções mais calmas para um cão reativo ou nervoso.",
           "offLeashAreaPt": "Com trela. Mais calmo do que a marginal, bom para cães nervosos na época baixa",
-          "tipPt": "Combine com um café no regresso. O percurso passa por várias esplanadas que toleram cães"
+          "tipPt": "Combine com um café no regresso. O percurso passa por várias esplanadas que toleram cães",
+          "descriptionDe": "Die Ruinen auf dem Hügel, die Saranda seinen Namen geben (Saranda leitet sich von den Vierzig Heiligen ab), liegen oberhalb der Stadt und bieten einen ruhigen, stimmungsvollen Spaziergang an der Leine. Sie sind deutlich weniger überlaufen als die Uferpromenade, weshalb dies in der Nebensaison eine der ruhigsten Optionen für einen reaktiven oder nervösen Hund ist.",
+          "offLeashAreaDe": "An der Leine. Ruhiger als die Uferpromenade, gut für nervöse Hunde in der Nebensaison",
+          "tipDe": "Kombinieren Sie den Ausflug mit einem Kaffee auf dem Rückweg. Die Route führt an mehreren hundetoleranten Terrassen vorbei"
         }
       ],
       "tipsEn": [
@@ -209,6 +234,22 @@
         {
           "q": "Os cães de rua de Saranda são um problema para os cães em visita?",
           "a": "Saranda tem muitos cães de rua sociáveis e bem alimentados, sobretudo ao longo da marginal e junto aos bares de praia. A maioria é calma, mas mantenha o seu cão com trela e evite forçar interações, sobretudo com cães nervosos ou reativos."
+        }
+      ],
+      "titleDe": "Hundeparks & Spaziergänge in Saranda",
+      "introDe": "Saranda hat keine eingezäunten Hundeparks, ist aber wirklich gut zu Fuß erschließbar, und die umliegenden Hügel bieten hervorragende Spaziergänge an der Leine mit weitem Blick auf das Ionische Meer und Korfu. Die Nebensaison (Mitte September bis Anfang Mai) ist die beste Zeit, wenn Uferpromenade und Wege ruhig sind und Hunde freier laufen können. Halten Sie Ihren Hund überall dort an der Leine, wo sich die freundlichen, aber zahlreichen Straßenhunde der Gegend versammeln.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Freilaufgebiete für Hunde in Saranda?",
+          "a": "Nein. Saranda hat keine eingezäunten oder ausgewiesenen Freilaufgebiete für Hunde. Hunde sollten an der Leine geführt werden, wobei die ruhige Nebensaison (Mitte September bis Anfang Mai) an Stränden und Wegen deutlich entspannteres Umherlaufen erlaubt."
+        },
+        {
+          "q": "Wo kann ich meinen Hund in Saranda ausführen?",
+          "a": "Die besten Spaziergänge an der Leine sind die Uferpromenade und die Wanderungen hinauf zur Burg Lekursi und zum Kloster der Vierzig Heiligen, alle mit herrlichem Blick auf das Ionische Meer und Korfu. Nehmen Sie Wasser mit, da die Hügel im Sommer exponiert und heiß sind."
+        },
+        {
+          "q": "Sind die Straßenhunde in Saranda ein Problem für Besucherhunde?",
+          "a": "Saranda hat viele freundliche, gut genährte Straßenhunde, besonders entlang der Promenade und in der Nähe der Strandbars. Die meisten sind ruhig, halten Sie Ihren eigenen Hund aber dennoch an der Leine und vermeiden Sie erzwungene Begegnungen, besonders bei nervösen oder reaktiven Hunden."
         }
       ]
     },
@@ -304,6 +345,22 @@
           "q": "Preciso de açaime para o meu cão nos transportes de Saranda?",
           "a": "Um açaime é comummente esperado na travessia de ferry e é prudente tê-lo à mão para furgons e autocarros. Leve uma trela e um açaime macio para nunca lhe recusarem o embarque."
         }
+      ],
+      "titleDe": "Mit dem Hund unterwegs in Saranda",
+      "introDe": "Saranda ist kompakt und mit einem Hund am besten zu Fuß zu erkunden, doch die entscheidende praktische Frage betrifft die berühmte Fähre Saranda-Korfu sowie das regionale Furgon- (Kleinbus-) und Busnetz. Die Regelungen sind informell und hängen vom jeweiligen Betreiber ab, tragen Sie daher stets die Papiere Ihres Hundes bei sich und bestätigen Sie vorab direkt. Leine und Maulkorb sind bei jedem gemeinsam genutzten Verkehrsmittel hier ratsam.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf der Fähre von Saranda nach Korfu mitnehmen?",
+          "a": "Hunde werden auf den Fähren von Finikas Lines und Ionian Seaways in der Regel akzeptiert, meist kostenlos, an der Leine und mit Maulkorb oder in einer Transportbox. Da es sich um eine internationale Überfahrt in die EU handelt, müssen Sie die vollständigen Heimtierdokumente mitführen und dies bei der Buchung direkt mit dem Betreiber bestätigen."
+        },
+        {
+          "q": "Sind Hunde in Furgons und Bussen in Saranda erlaubt?",
+          "a": "Es gibt keine formelle Regelung. Die Mitnahme liegt im Ermessen des Fahrers, wobei kleine Hunde in Transportboxen am ehesten akzeptiert werden. Für größere Hunde oder lange Strecken wie Tirana-Saranda ist ein Taxi oder privater Transfer deutlich zuverlässiger."
+        },
+        {
+          "q": "Brauche ich einen Maulkorb für meinen Hund bei Verkehrsmitteln in Saranda?",
+          "a": "Ein Maulkorb wird bei der Fährüberfahrt üblicherweise erwartet und sollte auch für Furgons und Busse griffbereit sein. Führen Sie Leine und weichen Maulkorb mit, damit Ihnen das Einsteigen nie verwehrt wird."
+        }
       ]
     },
     "beaches": {
@@ -366,6 +423,18 @@
           "q": "Qual a melhor praia perto de Saranda para um cão?",
           "a": "Na época baixa, as enseadas abrigadas da Mirror Beach (Pasqyra) e de Krorez são excelentes para um banho de cão, graças às suas barreiras rochosas naturais e à calma. No verão, passeie antes na marginal cedo ou ao fim do dia e evite as praias pagas cheias."
         }
+      ],
+      "titleDe": "Haustierfreundliche Strände in der Nähe von Saranda",
+      "introDe": "Die Strände Sarandas folgen einer entscheidenden Regel für Hundebesitzer: Im Sommer sind sie voller kostenpflichtiger Liegen, Sonnenschirme, Musik und Wassersport, und Hunde sind dort in der Regel nicht willkommen. Von Mitte September bis Anfang Mai leeren sich dieselben Strände jedoch, der Eintritt ist frei, und Hunde können ohne Leine laufen und schwimmen. Planen Sie einen Hundestrandausflug nach Saranda in der Nebensaison für das beste Erlebnis und nehmen Sie stets Wasser und Schatten mit.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde an den Stränden von Saranda mit?",
+          "a": "Das hängt von der Jahreszeit ab. Im Sommer (Juni bis Anfang September) sind die Strände Sarandas überfüllt, kostenpflichtig und für Hunde in der Regel tabu. Von Mitte September bis Anfang Mai sind die Strände kostenlos, ruhig und für Hunde offen, die ohne Leine laufen und schwimmen können."
+        },
+        {
+          "q": "Welcher Strand in der Nähe von Saranda ist am besten für einen Hund?",
+          "a": "In der Nebensaison eignen sich die geschützten Buchten von Mirror Beach (Pasqyra) und Krorez dank natürlicher Felsbarrieren und Ruhe hervorragend für ein Bad mit Hund. Im Sommer gehen Sie stattdessen früh oder spät an der Promenade spazieren und meiden die überfüllten kostenpflichtigen Strände."
+        }
       ]
     },
     "vets": {
@@ -410,7 +479,10 @@
           "photo": "",
           "hoursPt": "Confirme por mensagem através da página de Facebook da clínica",
           "descriptionPt": "Uma clínica veterinária local que serve Saranda e a Riviera envolvente, contactável sobretudo através da sua página de Facebook. Adequada para consultas de rotina, vacinações e problemas menores; envie mensagem com antecedência para confirmar disponibilidade e horário.",
-          "tipPt": "Envie mensagem com antecedência. As pequenas clínicas de Saranda têm horários informais e podem fechar ao meio-dia"
+          "tipPt": "Envie mensagem com antecedência. As pequenas clínicas de Saranda têm horários informais e podem fechar ao meio-dia",
+          "hoursDe": "Per Nachricht über die Facebook-Seite der Klinik bestätigen",
+          "descriptionDe": "Eine örtliche Tierarztpraxis, die Saranda und die umliegende Riviera betreut und hauptsächlich über ihre Facebook-Seite erreichbar ist. Geeignet für Routineuntersuchungen, Impfungen und kleinere Probleme; schreiben Sie vorab, um Verfügbarkeit und Öffnungszeiten zu bestätigen.",
+          "tipDe": "Schreiben Sie im Voraus. Kleine Kliniken in Saranda haben informelle Öffnungszeiten und schließen mittags möglicherweise"
         },
         {
           "name": "Paws Vet Clinic Saranda",
@@ -432,7 +504,10 @@
           "photo": "",
           "hoursPt": "Confirme por mensagem através da página de Facebook da clínica",
           "descriptionPt": "Uma clínica veterinária de Saranda que oferece vacinações, medicamentos e cirurgia, com uma presença acessível em inglês nas redes sociais. Um primeiro contacto útil para viajantes; confirme os detalhes e o horário por mensagem antes de ir.",
-          "tipPt": "Para emergências complexas pode ser encaminhado para uma clínica maior em Tirana, por isso planeie o transporte com antecedência"
+          "tipPt": "Para emergências complexas pode ser encaminhado para uma clínica maior em Tirana, por isso planeie o transporte com antecedência",
+          "hoursDe": "Per Nachricht über die Facebook-Seite der Klinik bestätigen",
+          "descriptionDe": "Eine Tierklinik in Saranda mit Impfungen, Medikamenten und chirurgischer Versorgung, mit englischsprachiger Präsenz in sozialen Medien. Ein nützlicher erster Kontakt für Reisende; bestätigen Sie Details und Öffnungszeiten vor dem Besuch per Nachricht.",
+          "tipDe": "Bei komplexen Notfällen werden Sie möglicherweise an eine größere Klinik in Tirana weiterverwiesen, planen Sie den Transport also im Voraus"
         },
         {
           "name": "Tirana Referral Veterinary Hospitals",
@@ -454,7 +529,10 @@
           "photo": "",
           "hoursPt": "Varia consoante o hospital. Confirme antes de viajar",
           "descriptionPt": "Para cirurgia, diagnóstico avançado ou emergências graves que ultrapassem as clínicas de Saranda, os hospitais veterinários mais bem equipados ficam na capital, Tirana. É uma viagem longa, por isso em emergências comece por uma clínica local de Saranda para estabilização e encaminhamento.",
-          "tipPt": "Tenha à mão o registo de vacinação e o número de microchip do seu cão. Os hospitais de referência vão pedi-los"
+          "tipPt": "Tenha à mão o registo de vacinação e o número de microchip do seu cão. Os hospitais de referência vão pedi-los",
+          "hoursDe": "Je nach Klinik unterschiedlich. Vor der Anreise bestätigen",
+          "descriptionDe": "Für Operationen, fortgeschrittene Diagnostik oder ernste Notfälle, die über das hinausgehen, was die Kliniken in Saranda leisten können, befinden sich die besser ausgestatteten Tierkliniken in der Hauptstadt Tirana. Da es eine lange Fahrt ist, sollten Sie bei Notfällen zunächst eine örtliche Klinik in Saranda zur Stabilisierung und Überweisung aufsuchen.",
+          "tipDe": "Halten Sie die Impfnachweise und die Mikrochipnummer Ihres Hundes bereit. Überweisungskliniken werden danach fragen"
         }
       ],
       "faqsEn": [
@@ -477,6 +555,18 @@
         {
           "q": "O que preciso para entrar na Albânia com o meu cão, e voltar à UE?",
           "a": "A Albânia aceita um microchip ISO mais uma vacinação antirrábica válida (e um certificado sanitário para animais de fora da UE). A Albânia não está na UE, por isso regressar à UE, incluindo atravessar para Corfu, implica cumprir as regras europeias padrão com passaporte ou certificado válido."
+        }
+      ],
+      "titleDe": "Tierärzte & Tierpflege in Saranda",
+      "introDe": "Saranda ist eine kleine Stadt mit begrenzter, aber tatsächlich vorhandener tierärztlicher Versorgung, meist über die Social-Media-Seiten der Kliniken statt über veröffentlichte Festnetznummern erreichbar. Für alles, was über die Routineversorgung hinausgeht, werden Sie möglicherweise an größere Kliniken in Tirana verwiesen. Führen Sie stets den EU-Heimtierausweis oder das Gesundheitszeugnis Ihres Hundes mit und bestätigen Sie die Öffnungszeiten einer Klinik vor der Anreise per Nachricht. Wo wir Telefonnummern nicht aus einer offiziellen Quelle verifizieren konnten, haben wir sie leer gelassen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Notfalltierarzt in Saranda?",
+          "a": "Saranda hat kleine lokale Kliniken (Veterineria Saranda, Paws Vet Clinic Saranda), die hauptsächlich über Facebook erreichbar sind, aber keine große 24-Stunden-Tierklinik. Bei ernsten Notfällen stabilisieren sie den Patienten möglicherweise und verweisen Sie an besser ausgestattete Kliniken in Tirana, mehrere Stunden entfernt."
+        },
+        {
+          "q": "Was benötige ich, um meinen Hund nach Albanien und zurück in die EU zu bringen?",
+          "a": "Albanien akzeptiert einen ISO-Mikrochip sowie eine gültige Tollwutimpfung (und für Haustiere aus Nicht-EU-Ländern ein Gesundheitszeugnis). Albanien ist nicht Teil der EU, daher müssen bei der Rückkehr in die EU, auch bei der Überfahrt nach Korfu, die üblichen EU-Heimtierbestimmungen mit gültigem Ausweis oder Zeugnis erfüllt werden."
         }
       ]
     },
@@ -579,6 +669,22 @@
         "Viaje na época baixa (meados de setembro a início de maio) para praias gratuitas, abertas e sem trela e clima mais fresco.",
         "Leve sempre o passaporte europeu ou o certificado sanitário do seu cão, sobretudo se pensar apanhar o ferry de Corfu.",
         "Leve a sua própria água, taça e um açaime macio. A Albânia tem poucas comodidades para cães e o açaime é esperado nos ferries."
+      ],
+      "titleDe": "Praktische Tipps für den Besuch von Saranda mit Hund",
+      "introDe": "Saranda ist ein aufstrebendes hundefreundliches Reiseziel, das man am besten in der Nebensaison genießt, wenn sich die Strände öffnen und die Hitze nachlässt. Etwas Planung rund um Sommertemperaturen, die Grenze nach Korfu und Albaniens informelle Haustierkultur hilft sehr. Diese Hinweise decken Regeln, Hitze, Papiere und Jahreszeiten ab.",
+      "faqsDe": [
+        {
+          "q": "Ist Saranda hundefreundlich?",
+          "a": "Ja, auf informelle, aufstrebende Weise. Hunde sind auf Caféterrassen, der Promenade und Bergwegen willkommen sowie in der Nebensaison an den Stränden. Es gibt keine eingezäunten Hundeparks und wenig Hundezubehör, daher eignet sich der Ort für anpassungsfähige Besitzer, die Hitze und Jahreszeiten einplanen."
+        },
+        {
+          "q": "Wann ist die beste Zeit, um Saranda mit einem Hund zu besuchen?",
+          "a": "Mitte September bis Anfang Mai. Die Strände sind kostenlos und für Hunde ohne Leine offen, die Hitze lässt nach, die Menschenmassen verschwinden und die Preise sinken. Der Sommer ist heiß, überfüllt und an den kostenpflichtigen Stränden weitgehend für Hunde gesperrt."
+        },
+        {
+          "q": "Brauche ich etwas Besonderes, um mit meinem Hund von Saranda nach Korfu überzusetzen?",
+          "a": "Ja. Die Fähre nach Korfu ist eine Einreise in die EU, daher benötigt Ihr Hund einen ISO-Mikrochip, eine gültige Tollwutimpfung und einen EU-Heimtierausweis oder ein Gesundheitszeugnis für Drittstaaten. Bestätigen Sie bei der Buchung die eigenen Leinen- und Maulkorbregeln des Fährbetreibers."
+        }
       ]
     },
     "attractions": {
@@ -610,7 +716,11 @@
           "descriptionPt": "Um dos grandes sítios arqueológicos do Mediterrâneo, esta cidade classificada pela UNESCO abrange ruínas gregas, romanas, bizantinas e venezianas numa paisagem exuberante à beira de uma lagoa. Os cães com trela são bem-vindos pelos caminhos antigos e trilhos naturais, tornando-a uma rara visita ao património mundial aberta a cães.",
           "dogPolicyPt": "Cães com trela bem-vindos nos caminhos e trilhos. Não deixe os cães sujar ou trepar nas ruínas antigas",
           "admissionFeePt": "Aplica-se entrada no parque (paga por pessoa, cães grátis)",
-          "tipPt": "Visite cedo para evitar o calor e os autocarros de turismo. Os caminhos sombreados da lagoa são mais suaves para as patas do que as ruínas expostas"
+          "tipPt": "Visite cedo para evitar o calor e os autocarros de turismo. Os caminhos sombreados da lagoa são mais suaves para as patas do que as ruínas expostas",
+          "descriptionDe": "Eine der bedeutendsten archäologischen Stätten des Mittelmeerraums: Diese UNESCO-gelistete Stadt umfasst griechische, römische, byzantinische und venezianische Ruinen inmitten einer üppigen Lagunenlandschaft. Hunde an der Leine sind auf den antiken Pfaden und Naturwegen willkommen, was dies zu einem seltenen hundeinklusiven Weltkulturerbe-Besuch macht.",
+          "dogPolicyDe": "Hunde an der Leine auf Pfaden und Wegen willkommen. Hunde dürfen die antiken Ruinen nicht verschmutzen oder erklimmen",
+          "admissionFeeDe": "Eintrittsgebühr für den Park (pro Person, Hunde kostenlos)",
+          "tipDe": "Besuchen Sie früh, um Hitze und Reisebusse zu vermeiden. Die schattigen Lagunenwege sind pfotenschonender als die offenen Ruinen"
         },
         {
           "name": "The Blue Eye (Syri i Kalter)",
@@ -633,7 +743,11 @@
           "descriptionPt": "Uma nascente natural hipnotizante de água de um azul impossível e gelada, que brota das profundezas num pequeno parque protegido. O percurso de acesso aceita cães com trela, por um caminho sobretudo pavimentado e soalheiro; alguns cães de rua juntam-se na zona de estacionamento, por isso mantenha o seu por perto.",
           "dogPolicyPt": "Cães com trela bem-vindos no caminho de acesso. Mantenha-se longe da própria nascente e dos cães de rua do estacionamento",
           "admissionFeePt": "Pequena taxa de entrada simbólica",
-          "tipPt": "O caminho é soalheiro e exposto. Leve água e evite o meio-dia no verão, quando o calor é mais duro para os cães"
+          "tipPt": "O caminho é soalheiro e exposto. Leve água e evite o meio-dia no verão, quando o calor é mais duro para os cães",
+          "descriptionDe": "Eine faszinierende natürliche Quelle mit unmöglich blauem, eiskaltem Wasser, das tief aus dem Untergrund in einem kleinen geschützten Park hervorsprudelt. Der Zugangsweg ist für Hunde an der Leine geeignet, mit einem überwiegend gepflasterten, sonnigen Pfad; auf dem Parkplatz versammeln sich einige Straßenhunde, halten Sie Ihren daher nah bei sich.",
+          "dogPolicyDe": "Hunde an der Leine auf dem Zugangsweg willkommen. Halten Sie Abstand zur Quelle selbst und zu den Straßenhunden auf dem Parkplatz",
+          "admissionFeeDe": "Geringe Eintrittsgebühr",
+          "tipDe": "Der Weg ist sonnig und exponiert. Nehmen Sie Wasser mit und meiden Sie im Sommer die Mittagszeit, wenn die Hitze für Hunde am schwersten ist"
         },
         {
           "name": "Lekursi Castle (Kalaja e Lekursit)",
@@ -656,7 +770,11 @@
           "descriptionPt": "Um castelo otomano do século XVI que coroa a colina acima de Saranda, com o melhor panorama da região sobre a baía, a lagoa de Butrint e Corfu. O café-restaurante com esplanada costuma acolher cães com trela e bem-comportados, tornando-o uma clássica paragem ao pôr do sol.",
           "dogPolicyPt": "Cães com trela geralmente bem-vindos na esplanada. Poucas barreiras lá fora, por isso mantenha os cães por perto na colina",
           "admissionFeePt": "Visita ao castelo gratuita. Preços do café-restaurante se parar",
-          "tipPt": "Vá ao pôr do sol sobre Corfu, mas suba de carro ou táxi se estiver calor. A subida a pé é íngreme e exposta"
+          "tipPt": "Vá ao pôr do sol sobre Corfu, mas suba de carro ou táxi se estiver calor. A subida a pé é íngreme e exposta",
+          "descriptionDe": "Eine osmanische Burg aus dem 16. Jahrhundert, die den Hügel oberhalb von Saranda krönt, mit dem besten Panorama der Gegend über die Bucht, die Lagune von Butrint und Korfu. Die Terrasse des Café-Restaurants heißt an der Leine geführte, wohlerzogene Hunde in der Regel willkommen und ist damit ein klassischer Halt zum Sonnenuntergang.",
+          "dogPolicyDe": "Hunde an der Leine auf der Terrasse in der Regel willkommen. Wenige Barrieren im Außenbereich, halten Sie Hunde am Hügel daher nah bei sich",
+          "admissionFeeDe": "Besuch der Burg kostenlos. Preise des Café-Restaurants gelten bei einem Halt",
+          "tipDe": "Gehen Sie zum Sonnenuntergang über Korfu, fahren Sie bei Hitze jedoch mit dem Auto oder Taxi hinauf. Der Aufstieg zu Fuß ist steil und exponiert"
         }
       ],
       "tipsEn": [
@@ -708,6 +826,22 @@
           "q": "O Castelo de Lekursi é dog-friendly?",
           "a": "A visita ao castelo é gratuita e o seu café-restaurante com esplanada costuma acolher cães com trela e bem-comportados. Tem as melhores vistas de pôr do sol da região sobre Corfu, mas a subida é íngreme e exposta, por isso considere subir de carro no calor."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten rund um Saranda",
+      "introDe": "Saranda ist das Tor zu zwei der bedeutendsten Sehenswürdigkeiten Albaniens, und beide heißen Hunde an der Leine willkommen: die UNESCO-Ruinen von Butrint und die schillernde Quelle Blue Eye. Fügen Sie den Aussichtspunkt der Burg Lekursi oberhalb der Stadt hinzu, und Sie haben einen wirklich hundeinklusiven Tag voller Geschichte und Natur. Halten Sie Hunde an der Leine, nehmen Sie Wasser mit und meiden Sie die Mittagshitze an diesen exponierten Orten.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde im Nationalpark Butrint erlaubt?",
+          "a": "Ja. Hunde an der Leine sind auf den antiken Pfaden und Naturwegen von Butrint willkommen. Halten Sie Ihren Hund nah bei sich, lassen Sie ihn die Ruinen nicht verschmutzen oder erklimmen und nehmen Sie Wasser mit, da das Gelände groß und teilweise exponiert ist."
+        },
+        {
+          "q": "Kann ich meinen Hund zur Blue-Eye-Quelle mitnehmen?",
+          "a": "Ja, an der Leine. Der überwiegend gepflasterte Zugangsweg ist hundefreundlich, wenngleich sonnig und exponiert. Achten Sie auf Straßenhunde, die sich auf dem Parkplatz versammeln, und halten Sie Ihren Hund von der Quelle selbst fern."
+        },
+        {
+          "q": "Ist die Burg Lekursi hundefreundlich?",
+          "a": "Der Besuch der Burg ist kostenlos, und die Terrasse des Café-Restaurants heißt an der Leine geführte, wohlerzogene Hunde in der Regel willkommen. Sie bietet den besten Sonnenuntergangsblick der Gegend auf Korfu, doch der Aufstieg ist steil und exponiert, erwägen Sie bei Hitze die Anfahrt mit dem Auto."
+        }
       ]
     },
     "petsitting": {
@@ -737,7 +871,10 @@
           "tipEs": "Reserva con mucha antelación en verano, cuando escasean los cuidadores. Pregunta también en tu casa de huéspedes, los alojamientos familiares suelen ayudar de forma informal",
           "descriptionPt": "A PetBacker é uma plataforma internacional via aplicação que lista cuidadores de animais locais verificados em Saranda para alojamento, guarda, passeios e creche, com seguro, proteção de pagamentos e atualizações por foto ou vídeo. Para os visitantes é a forma mais estruturada de encontrar cuidados locais, embora a disponibilidade numa cidade pequena como Saranda possa ser limitada, por isso reserve cedo.",
           "serviceTypePt": "Reserva pela aplicação. Alojamento, guarda, passeios, creche",
-          "tipPt": "Reserve com bastante antecedência no verão, quando os cuidadores são escassos. Pergunte também na sua casa de hóspedes, pois os alojamentos familiares ajudam muitas vezes de forma informal"
+          "tipPt": "Reserve com bastante antecedência no verão, quando os cuidadores são escassos. Pergunte também na sua casa de hóspedes, pois os alojamentos familiares ajudam muitas vezes de forma informal",
+          "descriptionDe": "PetBacker ist eine internationale app-basierte Plattform, die geprüfte lokale Haustierbetreuungspersonen in Saranda für Hundeunterbringung, Betreuung, Gassigehen und Tagesbetreuung listet, mit Versicherung, Zahlungsschutz und Foto- oder Videoupdates. Für Besucher ist dies der strukturierteste Weg, lokale Betreuung zu finden, wenngleich die Verfügbarkeit in einer kleinen Stadt wie Saranda begrenzt sein kann, buchen Sie daher frühzeitig.",
+          "serviceTypeDe": "App-basierte Buchung. Hundeunterbringung, Betreuung, Gassigehen, Tagesbetreuung",
+          "tipDe": "Buchen Sie im Sommer weit im Voraus, wenn Betreuungspersonen knapp sind. Fragen Sie auch bei Ihrem Gästehaus nach, da familiengeführte Unterkünfte oft informell helfen"
         }
       ],
       "tipsEn": [
@@ -788,6 +925,22 @@
         {
           "q": "O que devo deixar com um cuidador em Saranda?",
           "a": "Deixe a comida do seu cão, trela e açaime, registos de vacinação e microchip, o contacto do seu veterinário e uma rotina escrita. Confirme a clínica veterinária mais próxima de Saranda para qualquer eventualidade enquanto estiver fora."
+        }
+      ],
+      "titleDe": "Hundebetreuung & Tierpflege in Saranda",
+      "introDe": "Die professionelle Infrastruktur für Haustierbetreuung in Saranda ist noch dünn und im Entstehen, ohne eigene Tagesbetreuungsketten. Die zuverlässigste Option für Reisende ist eine app-basierte Plattform, ergänzt durch eine Nachfrage bei der eigenen Unterkunft, da viele familiengeführte Gästehäuser informell bei der Hundebetreuung helfen. Treffen Sie sich stets vorab mit einer Betreuungsperson und hinterlassen Sie klare Anweisungen sowie die Kontaktdaten Ihres Tierarztes.",
+      "faqsDe": [
+        {
+          "q": "Finde ich eine Hundebetreuung in Saranda?",
+          "a": "Ja, jedoch mit begrenzten Optionen. App-basierte Plattformen wie PetBacker listen lokale Betreuungspersonen in Saranda für Unterbringung und Gassigehen, und viele familiengeführte Gästehäuser helfen informell bei der Hundebetreuung. Buchen Sie frühzeitig, da die Stadt ein kleiner Markt ist."
+        },
+        {
+          "q": "Gibt es eine Hundetagesstätte in Saranda?",
+          "a": "Es gibt keine eigenen Tagesbetreuungsketten in Saranda. Die praktische Lösung ist eine private Betreuungsperson über eine App oder über die eigene Unterkunft. Treffen Sie sich stets vorab mit der Betreuungsperson und testen Sie die Situation, bevor Sie Ihren Hund zurücklassen."
+        },
+        {
+          "q": "Was sollte ich einer Betreuungsperson in Saranda hinterlassen?",
+          "a": "Hinterlassen Sie Futter, Leine und Maulkorb Ihres Hundes, Impf- und Mikrochipnachweise, die Kontaktdaten Ihres Tierarztes sowie einen schriftlichen Tagesablauf. Bestätigen Sie zudem die nächstgelegene Tierklinik in Saranda für den Fall eines Problems während Ihrer Abwesenheit."
         }
       ]
     }

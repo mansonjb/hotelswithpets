@@ -39,7 +39,11 @@
           "tipFr": "Le jardin en terrasses a une aire de jeux pour enfants et beaucoup de place pour les chiens ; demandez le menu chiens au bar.",
           "tipEs": "El jardín escalonado tiene una zona de juegos infantil y mucho espacio para perros; pide el menú para perros en la barra.",
           "tipPt": "O jardim em socalcos tem uma zona de jogos infantil e muito espaço para cães; peça o menu para cães no bar.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Victoria+Inn+Salcombe"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Victoria+Inn+Salcombe",
+          "descriptionDe": "Ein preisgekrönter Pub der St Austell Brewery im Herzen von Salcombe, wenige Minuten von der Flussmündung entfernt, mit echten Holzöfen, gemütlichen Ecken und einem großen terrassierten Garten. Hunde werden hier richtig verwöhnt, mit Decken, Wasser und einer eigenen Hundekarte.",
+          "petPolicyDe": "Hunde an der Leine sind in der ganzen Bar und im Garten sehr willkommen; Hundekarte und Hundebier erhältlich.",
+          "mustTryDe": "West-Country-Steak oder der Fang des Tages im Garten",
+          "tipDe": "Der terrassierte Garten hat einen Kinderspielplatz und viel Platz für Hunde; fragen Sie an der Bar nach der 'a la bark'-Hundekarte."
         },
         {
           "name": "The Winking Prawn",
@@ -65,7 +69,11 @@
           "tipFr": "Venez après une promenade sur North Sands, où les chiens sont admis toute l'année ; les tables de la terrasse partent vite les après-midis ensoleillés.",
           "tipEs": "Ven tras un paseo por North Sands, donde se admiten perros todo el año; las mesas de la terraza se ocupan rápido las tardes soleadas.",
           "tipPt": "Venha depois de um passeio por North Sands, onde os cães são admitidos todo o ano; as mesas da esplanada esgotam depressa nas tardes de sol.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Winking+Prawn+North+Sands+Salcombe"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Winking+Prawn+North+Sands+Salcombe",
+          "descriptionDe": "Ein fröhliches, familiengeführtes Strandcafé und Fischgrill, das seit rund fünfundzwanzig Jahren hinter North Sands liegt und für seine Sommer-Barbecues und die Salcombe-Krabbe bekannt ist. Es öffnet sich direkt zum einzigen ganzjährigen Hundestrand der Stadt, sodass ein sandiger Hund auf der Terrasse genau richtig ist.",
+          "petPolicyDe": "Hunde an der Leine willkommen auf der Außenterrasse, direkt am ganzjährigen Hundestrand.",
+          "mustTryDe": "Das Sommer-Barbecue oder eine zubereitete Salcombe-Krabbe",
+          "tipDe": "Kommen Sie nach einem Spaziergang am North Sands, wo Hunde das ganze Jahr über erlaubt sind; die Terrassentische sind an sonnigen Nachmittagen schnell besetzt."
         },
         {
           "name": "The Ferry Inn",
@@ -91,9 +99,16 @@
           "tipFr": "Les terrasses basses du bord de l'eau sont le graal par beau temps ; elles jouxtent le ferry d'East Portlemouth, lui aussi ouvert aux chiens.",
           "tipEs": "Las cubiertas bajas junto al agua son el premio en un día soleado; están justo al lado del ferry de East Portlemouth, también apto para perros.",
           "tipPt": "Os decks baixos junto à água são o prémio num dia de sol; ficam mesmo ao lado do ferry de East Portlemouth, também ele apto para cães.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Ferry+Inn+Salcombe"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Ferry+Inn+Salcombe",
+          "descriptionDe": "Ein traditioneller Pub unterhalb der Fore Street mit terrassierten Decks und Terrassen, die direkt bis zum Wasser neben den Fährstufen nach East Portlemouth hinabführen. Die hundefreundlichen Außenterrassen bieten mit einem Bier in der Hand einige der besten Ausblicke auf die Flussmündung in Salcombe.",
+          "petPolicyDe": "Hunde an der Leine willkommen auf den Außenterrassen am Wasser.",
+          "mustTryDe": "Fish and Chips auf dem Deck über dem Wasser",
+          "tipDe": "Die unteren Decks am Wasser sind an einem sonnigen Tag der Hauptgewinn; sie liegen direkt bei der Fähre nach East Portlemouth, die selbst hundefreundlich ist."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Salcombe",
+      "introDe": "Salcombe ist eine Stadt, in der man mit Hund unkompliziert essen gehen kann, von Pubs am Wasser in der Fore Street bis zum Strandcafé hinter North Sands. Die meisten Lokale heißen Hunde auf ihren Terrassen und in der Bar willkommen, und viele halten einen Wassernapf und ein paar Leckerlis an der Tür bereit, sodass ein Hund selten von einem Tisch mit Blick auf die Flussmündung abgewiesen wird.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Dog Walks and Green Space around Salcombe",
@@ -123,7 +138,10 @@
           "tipFr": "Partez du haut de la ville près de Batson ; la boucle se fait tranquillement en une heure et soulage la pression en plein été, quand les plages sont bondées.",
           "tipEs": "Empieza desde la parte alta del pueblo cerca de Batson; el bucle se hace cómodamente en una hora y descarga la presión en pleno verano, cuando las playas están llenas.",
           "tipPt": "Comece do alto da vila perto de Batson; o circuito faz-se comodamente numa hora e alivia a pressão em pleno verão, quando as praias estão cheias.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Snapes+Point+Salcombe"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Snapes+Point+Salcombe",
+          "descriptionDe": "Ein einfacher Rundwanderweg des National Trust direkt nördlich von Salcombe, der durch Felder und Wälder zu einer grasbewachsenen Landspitze mit Panoramablick über den Hafen und die Kingsbridge-Mündung führt. Einer der sanftesten und lohnendsten Hundespaziergänge der Gegend.",
+          "offLeashAreaDe": "Halten Sie Hunde in den Weidefeldern an der Leine; auf dieser Route können Sie Schafen und Rindern begegnen.",
+          "tipDe": "Starten Sie am oberen Ende der Stadt bei Batson; die Runde dauert bequeme eine Stunde und nimmt im Hochsommer, wenn die Strände voll sind, den Druck heraus."
         },
         {
           "name": "Bolt Head and the Sharpitor coast path",
@@ -143,9 +161,15 @@
           "tipFr": "Stationnez au parking National Trust d'Overbeck's ou montez depuis South Sands ; le terrain est raide et rocheux, prévoyez de l'eau pour le chien.",
           "tipEs": "Aparca en el aparcamiento National Trust de Overbeck's o sube desde South Sands; el terreno es empinado y rocoso, lleva agua para el perro.",
           "tipPt": "Estacione no parque National Trust de Overbeck's ou suba desde South Sands; o terreno é íngreme e rochoso, leve água para o cão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bolt+Head+Salcombe"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bolt+Head+Salcombe",
+          "descriptionDe": "Der South West Coast Path steigt von South Sands vorbei an Overbeck's und Sharpitor hinaus zur zerklüfteten Landzunge von Bolt Head, mit der Starehole Bay darunter und weitem Blick auf den Ärmelkanal. Ein spektakulärer, luftiger Spaziergang auf National-Trust-Land, den Hunde das ganze Jahr über genießen können.",
+          "offLeashAreaDe": "Halten Sie Hunde in der Nähe der ungesicherten Klippenränder und von Weidevieh entlang des Wegs an der Leine.",
+          "tipDe": "Parken Sie auf dem National-Trust-Parkplatz bei Overbeck's oder gehen Sie von South Sands aus hinauf; der Untergrund ist steil und felsig, bringen Sie also Wasser für den Hund mit."
         }
-      ]
+      ],
+      "titleDe": "Hundespaziergänge und Grünflächen rund um Salcombe",
+      "introDe": "Salcombe selbst ist eine kleine, steile Stadt, daher liegen die besten Hundespaziergänge auf den umliegenden National-Trust-Landzungen und Uferwegen der Flussmündung. Snapes Point bietet einen Blick über den gesamten Hafen zurück, während Bolt Head und der Küstenweg über South Sands dramatische Klifftouren bieten, alles ganzjährig für Hunde zugänglich, mit der üblichen Leinenpflicht in der Nähe von Weidevieh.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Salcombe with a Dog",
@@ -249,6 +273,18 @@
           "q": "Os ferries de Salcombe aceitam cães?",
           "a": "Sim. Os cães bem-comportados à trela são bem-vindos no ferry de passageiros Salcombe-East Portlemouth, uma travessia de cinco minutos até Mill Bay e ao caminho costeiro do leste, e no ferry sazonal de South Sands. Os cães à trela podem até atravessar a areia de South Sands para embarcar durante a proibição estival da praia."
         }
+      ],
+      "titleDe": "Mit Hund in Salcombe unterwegs",
+      "introDe": "Salcombe hat keinen eigenen Bahnhof, daher reisen die meisten Hundebesitzer mit dem Auto oder mit dem Bus von der nächsten Bahnstrecke in Totnes an und lassen das Auto dann stehen. Vor Ort ist die Stadt kompakt und gut zu Fuß erreichbar, und die kleinen hundefreundlichen Fähren über die Flussmündung sind der schönste Weg, um die Strände und den Küstenweg auf der anderen Seite zu erreichen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich mit dem Zug und Hund nach Salcombe kommen?",
+          "a": "Nicht direkt, da Salcombe keinen Bahnhof hat. Nehmen Sie den Zug nach Totnes, wo bis zu zwei Hunde pro Fahrgast kostenlos mitfahren, und dann den Bus Tally Ho 164 über Kingsbridge nach Salcombe. Hunde an der Leine werden im Bus meist nach Ermessen des Fahrers akzeptiert."
+        },
+        {
+          "q": "Sind die Fähren in Salcombe hundefreundlich?",
+          "a": "Ja. Wohlerzogene Hunde an der Leine sind auf der Personenfähre von Salcombe nach East Portlemouth willkommen, einer fünfminütigen Überfahrt nach Mill Bay und zum östlichen Küstenweg, sowie auf der saisonalen South-Sands-Fähre. Angeleinte Hunde dürfen sogar während des sommerlichen Strandverbots den Sand von South Sands überqueren, um an Bord zu gehen."
+        }
       ]
     },
     "beaches": {
@@ -331,6 +367,18 @@
           "q": "Quando é que os cães são proibidos na praia de South Sands?",
           "a": "South Sands aplica uma proibição total de cães 24 horas por dia de 1 de maio a 30 de setembro, com multas de até 100 libras, sendo a única exceção os cães à trela que atravessam a areia para embarcar ou sair do ferry de South Sands. Fora dessas datas, de outubro a abril, a praia está totalmente aberta aos cães."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Salcombe",
+      "introDe": "Salcombes geschützte Strände an der Flussmündung sind der größte Vorteil für Hundebesitzer, doch die Regeln sind saisonal und von Strand zu Strand unterschiedlich, festgelegt durch die Public Spaces Protection Order des South Hams District Council und mit Bußgeldern von bis zu 100 Pfund durchgesetzt. Das Wichtigste vorab: South Sands verbietet Hunde vom 1. Mai bis 30. September rund um die Uhr komplett. North Sands hingegen bleibt das ganze Jahr über hundefreundlich, und Mill Bay auf der anderen Seite des Wassers heißt Hunde an der Leine ganzjährig willkommen, sodass ein Hund nie ohne Strand dasteht. Prüfen Sie bei der Ankunft immer die aktuellen Schilder, da sich die Anordnung ändern kann.",
+      "faqsDe": [
+        {
+          "q": "Welche Strände in Salcombe erlauben Hunde das ganze Jahr über?",
+          "a": "North Sands auf der Stadtseite ist das ganze Jahr über ohne saisonales Verbot hundefreundlich, und Mill Bay auf der anderen Seite der Mündung bei East Portlemouth heißt Hunde an der Leine ganzjährig willkommen. Zusammen bedeutet das, ein Hund hat in Salcombe immer einen Strand, selbst im Hochsommer."
+        },
+        {
+          "q": "Wann sind Hunde am Strand South Sands verboten?",
+          "a": "South Sands hat vom 1. Mai bis 30. September ein vollständiges, rund um die Uhr geltendes Hundeverbot mit Bußgeldern von bis zu 100 Pfund, die einzige Ausnahme sind angeleinte Hunde, die den Sand überqueren, um an Bord der South-Sands-Fähre zu gehen oder von ihr abzusteigen. Außerhalb dieses Zeitraums, von Oktober bis April, ist der Strand für Hunde uneingeschränkt zugänglich."
+        }
       ]
     },
     "vets": {
@@ -364,7 +412,10 @@
           "tipEs": "Telefonea con antelación y guarda el número para fuera de horario, ya que ofrecen su propia cobertura de urgencias 24 horas.",
           "tipPt": "Telefone com antecedência e guarde o número para fora de horas, pois oferecem a sua própria cobertura de urgência 24 horas.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Selworthy+Vets+Kingsbridge",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo-Fr Tagessprechstunde; 24-Stunden-Notfallversorgung verfügbar",
+          "descriptionDe": "Eine unabhängige, familiengeführte gemischte Praxis nahe Kingsbridge, der nächstgelegene Tierarzt zu Salcombe, die neben Nutztieren und Pferden auch Kleintiere behandelt. Sie betreibt eine eigene 24-Stunden-Notfallversorgung mit eigenen Tierärzten und Pflegekräften.",
+          "tipDe": "Rufen Sie vorher an und speichern Sie die Nummer für außerhalb der Öffnungszeiten, da sie eine eigene 24-Stunden-Notfallversorgung bieten."
         },
         {
           "name": "South Moor Vets",
@@ -386,7 +437,10 @@
           "tipEs": "Llama primero para conocer el horario y confirmar el dispositivo de urgencias vigente.",
           "tipPt": "Ligue primeiro para saber os horários e confirmar o dispositivo de urgência em vigor.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+Moor+Vets+Kingsbridge",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo-Fr Tagessprechstunde; Notdienst außerhalb der Öffnungszeiten",
+          "descriptionDe": "Eine gut etablierte Kleintierpraxis an der Derby Road in Kingsbridge, kurz mit dem Auto von Salcombe entfernt, mit Routine- und dringender Versorgung. Eine nützliche zweite Option, falls Selworthy ausgebucht ist.",
+          "tipDe": "Rufen Sie zuerst an, um die Öffnungszeiten zu erfragen und die aktuelle Regelung außerhalb der Öffnungszeiten zu bestätigen."
         }
       ],
       "faqsEn": [
@@ -411,6 +465,14 @@
         {
           "q": "Onde fica o veterinário mais próximo de Salcombe?",
           "a": "Salcombe não tem veterinário próprio; os mais próximos ficam em Kingsbridge, a cerca de seis milhas. A Selworthy Vets (+44 1548 853322) oferece o seu próprio serviço de urgência 24 horas, e a South Moor Vets (+44 1548 852766) é uma segunda opção para atendimento diurno."
+        }
+      ],
+      "titleDe": "Tierärzte in der Nähe von Salcombe",
+      "introDe": "Salcombe hat keinen eigenen Tierarzt, daher befinden sich die nächsten Praxen in Kingsbridge, etwa sechs Meilen die Flussmündung hinauf und leicht mit dem Auto erreichbar. Zusammen decken sie Routineversorgung und Notfälle ab, daher lohnt es sich, vor der Reise eine Nummer zu speichern.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächste Tierarzt zu Salcombe?",
+          "a": "Salcombe hat keinen eigenen Tierarzt; die nächsten befinden sich in Kingsbridge, etwa sechs Meilen entfernt. Selworthy Vets (+44 1548 853322) bietet eine eigene 24-Stunden-Notfallversorgung, und South Moor Vets (+44 1548 852766) ist eine zweite Option für die Tagesversorgung."
         }
       ]
     },
@@ -499,6 +561,14 @@
           "q": "Salcombe é um bom lugar para umas férias com cão?",
           "a": "Sim, muito, com pubs que aceitam cães, praias caninas abertas todo o ano em North Sands e Mill Bay, e magníficos passeios costeiros do National Trust. O principal a planear é a rígida proibição estival de cães em South Sands e, para os visitantes da UE, o Animal Health Certificate britânico pós-Brexit."
         }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch in Salcombe mit Hund",
+      "introDe": "Salcombe ist wirklich ein unkomplizierter Hundeurlaub, doch zwei Dinge lohnen etwas Planung: die saisonalen Strandregeln für Hunde, die bei South Sands streng sind und mit Bußgeldern durchgesetzt werden, sowie die Papiere nach dem Brexit für die Einreise mit Hund nach Großbritannien. Wenn beides stimmt, gehört Ihnen die Flussmündung.",
+      "faqsDe": [
+        {
+          "q": "Ist Salcombe ein guter Ort für einen hundefreundlichen Urlaub?",
+          "a": "Ja, sehr sogar, mit hundefreundlichen Pubs, ganzjährigen Hundestränden bei North Sands und Mill Bay sowie hervorragenden Küstenwanderungen des National Trust. Die wichtigsten Punkte zur Planung sind das strenge sommerliche Hundeverbot bei South Sands und, für EU-Besucher, das GB Animal Health Certificate nach dem Brexit."
+        }
       ]
     },
     "attractions": {
@@ -532,7 +602,11 @@
           "tipFr": "Le jardin est raide et en terrasses avec beaucoup de marches ; chaussez-vous bien et prenez de l'eau, puis récompensez le chien au kiosque-café.",
           "tipEs": "El jardín es empinado y aterrazado con muchas escaleras; lleva buen calzado y agua, y luego premia al perro en el quiosco-café.",
           "tipPt": "O jardim é íngreme e em socalcos com muitas escadas; use bom calçado e leve água, e depois recompense o cão no quiosque-café.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Overbeck%27s+Garden+Salcombe"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Overbeck%27s+Garden+Salcombe",
+          "descriptionDe": "Ein subtropischer National-Trust-Garten auf der Klippe bei Sharpitor mit atemberaubendem Blick auf die Mündung der Flussmündung, bepflanzt mit Palmen, exotischen Gewächsen und seltenen Sträuchern, die in der milden Luft gedeihen. Ein magischer, geschützter Ort, um mit einem wohlerzogenen Hund zu schlendern.",
+          "dogPolicyDe": "Hunde an kurzer Leine (keine Flexi-Leine) sind im Garten willkommen; am Eingang wird ein Leinentausch angeboten. Hunde sind im Bananengarten und auf Rasenflächen nicht erlaubt, mit Ausnahme der gemähten Wege im Olivengarten, und sind am Außenkiosk-Café willkommen.",
+          "admissionFeeDe": "Erwachsene ca. £9,50; kostenlos für National-Trust-Mitglieder",
+          "tipDe": "Der Garten ist steil und terrassiert mit vielen Stufen; tragen Sie gutes Schuhwerk und bringen Sie Wasser mit, belohnen Sie den Hund anschließend am Café-Kiosk."
         },
         {
           "name": "Salcombe to East Portlemouth Ferry",
@@ -555,7 +629,11 @@
           "tipFr": "Combinez la traversée avec une promenade jusqu'à Mill Bay, ouverte aux chiens toute l'année, et un verre au retour sur la terrasse du Ferry Inn.",
           "tipEs": "Combina el cruce con un paseo hasta Mill Bay, apta para perros todo el año, y una copa a la vuelta en la terraza del Ferry Inn.",
           "tipPt": "Combine a travessia com um passeio até Mill Bay, apta para cães todo o ano, e uma bebida no regresso na esplanada do Ferry Inn.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Salcombe+East+Portlemouth+Ferry"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Salcombe+East+Portlemouth+Ferry",
+          "descriptionDe": "Eine winzige offene Personenfähre, die seit Generationen die Mündung zwischen Salcombe und East Portlemouth überquert und dabei etwa fünf Minuten pro Strecke braucht. Sie ist selbst schon ein fröhliches Mini-Abenteuer und erschließt die ruhigen östlichen Strände und den Küstenweg.",
+          "dogPolicyDe": "Wohlerzogene Hunde an der Leine sind willkommen; Hunde reisen mit ihrem Besitzer über die Mündung.",
+          "admissionFeeDe": "Kleiner Einzelfahrpreis pro Fahrgast; Hunde in der Regel kostenlos",
+          "tipDe": "Verbinden Sie die Überfahrt mit einem Spaziergang nach Mill Bay, ganzjährig hundefreundlich, und einem Drink anschließend auf dem Deck des Ferry Inn."
         },
         {
           "name": "Salcombe Harbour and Whitestrand",
@@ -578,7 +656,11 @@
           "tipFr": "Le début de matinée est le moment le plus calme pour arpenter le front de mer l'été, avant que les rues ne se remplissent.",
           "tipEs": "La primera hora de la mañana es el momento más tranquilo para pasear el frente del puerto en verano, antes de que se llenen las calles.",
           "tipPt": "O início da manhã é o momento mais tranquilo para passear na marginal no verão, antes de as ruas encherem.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Salcombe+Harbour+Whitestrand"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Salcombe+Harbour+Whitestrand",
+          "descriptionDe": "Das arbeitende Herz von Salcombe, wo Fischer- und Segelboote die Mündung bevölkern und die Uferpromenade Whitestrand vor Leben pulsiert. Ein Bummel entlang der Hafenpromenade und durch die Geschäfte der Fore Street ist eine einfache, kostenlose Art, einen Nachmittag mit angeleintem Hund zu verbringen.",
+          "dogPolicyDe": "Hunde an der Leine sind entlang der Hafenpromenade und in den Straßen willkommen; viele Geschäfte stellen draußen einen Wassernapf bereit.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Der frühe Morgen ist im Sommer die ruhigste Zeit für einen Spaziergang an der Uferpromenade, bevor sich die Straßen füllen."
         }
       ],
       "faqsEn": [
@@ -603,6 +685,14 @@
         {
           "q": "O que posso fazer em Salcombe com um cão se as praias estiverem restringidas?",
           "a": "Muito. O jardim de Overbeck's aceita cães com trela curta, o ferry Salcombe-East Portlemouth e a frente do porto são aptos para cães, e North Sands e Mill Bay continuam abertas aos cães todo o ano. Os caminhos costeiros do National Trust até Snapes Point e Bolt Head são também magníficos passeios."
+        }
+      ],
+      "titleDe": "Hundefreundliche Aktivitäten in Salcombe",
+      "introDe": "Die Flussmündung ist Salcombes große Attraktion, und Hunde dürfen die meisten Bereiche mit erleben: den Klippengarten bei Overbeck's, die kleinen Fähren über das Wasser sowie den Hafen und die Uferpromenade Whitestrand, wo sich das Leben der Stadt abspielt. Nichts davon erfordert die Strände, sodass es selbst auf dem Höhepunkt der Sommerverbote viel mit einem Hund zu erleben gibt.",
+      "faqsDe": [
+        {
+          "q": "Was kann ich mit Hund in Salcombe unternehmen, wenn die Strände eingeschränkt sind?",
+          "a": "Eine ganze Menge. Der Overbeck's Garden heißt Hunde an kurzer Leine willkommen, die Fähre von Salcombe nach East Portlemouth und die Hafenpromenade sind hundefreundlich, und North Sands sowie Mill Bay bleiben das ganze Jahr über für Hunde geöffnet. Auch die National-Trust-Küstenwege zu Snapes Point und Bolt Head sind hervorragende Hundespaziergänge."
         }
       ]
     },
@@ -634,7 +724,10 @@
           "tip": "Message two or three sitters early and arrange a short meet-and-greet before your trip so your dog is comfortable before the day you need cover.",
           "tipFr": "Contactez deux ou trois gardiens tôt et organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avant le jour où vous avez besoin de la garde.",
           "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo a tu viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
-          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço."
+          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço.",
+          "descriptionDe": "Die größte Haustierbetreuungsplattform im Vereinigten Königreich, die lokale Hundesitter, Pensionsbetreuer und Gassigeher in ganz South Hams sowie in der Gegend um Salcombe und Kingsbridge auflistet. Jeder Betreuer hat ein Profil, Bewertungen und Fotos, gebucht und bezahlt wird über die App inklusive Versicherungsschutz.",
+          "serviceTypeDe": "Hundepension, Tagesbetreuung, Kurzbesuche und Gassi-Service",
+          "tipDe": "Kontaktieren Sie frühzeitig zwei oder drei Betreuer und vereinbaren Sie vor Ihrer Reise ein kurzes Kennenlerntreffen, damit sich Ihr Hund vor dem Betreuungstag wohlfühlt."
         },
         {
           "name": "Tailster",
@@ -654,7 +747,10 @@
           "tip": "Filter for carers with recent reviews near Kingsbridge and Salcombe, and confirm availability well ahead for July and August.",
           "tipFr": "Filtrez les intervenants avec des avis récents près de Kingsbridge et Salcombe, et confirmez la disponibilité bien à l'avance pour juillet et août.",
           "tipEs": "Filtra por cuidadores con reseñas recientes cerca de Kingsbridge y Salcombe, y confirma la disponibilidad con mucha antelación para julio y agosto.",
-          "tipPt": "Filtre por cuidadores com avaliações recentes perto de Kingsbridge e Salcombe, e confirme a disponibilidade com muita antecedência para julho e agosto."
+          "tipPt": "Filtre por cuidadores com avaliações recentes perto de Kingsbridge e Salcombe, e confirme a disponibilidade com muita antecedência para julho e agosto.",
+          "descriptionDe": "Ein landesweiter britischer Marktplatz für Haustierbetreuung, der Besitzer mit lokalen, geprüften Gassigehern, Sittern und Pensionsbetreuern verbindet, einschließlich Betreuern in der Gegend South Hams und Salcombe. Buchungen werden über die Plattform verwaltet und sind versichert.",
+          "serviceTypeDe": "Gassi-Service, Tagesbetreuung, Betreuung zu Hause und Pension",
+          "tipDe": "Filtern Sie nach Betreuern mit aktuellen Bewertungen in der Nähe von Kingsbridge und Salcombe und bestätigen Sie die Verfügbarkeit für Juli und August rechtzeitig im Voraus."
         }
       ],
       "faqsEn": [
@@ -679,6 +775,14 @@
         {
           "q": "Como encontro um cuidador ou passeador de cães em Salcombe?",
           "a": "Numa vila pequena como Salcombe o mais simples é uma plataforma nacional como a Rover ou a Tailster, que listam cuidadores e passeadores locais verificados por todo o South Hams. Reserve cedo para julho e agosto, e combine antes um encontro para que o seu cão fique tranquilo."
+        }
+      ],
+      "titleDe": "Hundebetreuung und Gassi-Service in Salcombe",
+      "introDe": "Wenn Sie einen Abend ohne Hund verbringen oder Betreuung für einen Tagesausflug benötigen, ist in einer kleinen Stadt wie Salcombe eine landesweite Buchungsplattform der einfachste Weg, die geprüfte lokale Betreuer und Gassigeher in ganz South Hams auflistet. Buchen Sie im Sommer früh, wenn die Nachfrage am höchsten ist.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter oder Gassigeher in Salcombe?",
+          "a": "In einer kleinen Stadt wie Salcombe ist eine landesweite Plattform wie Rover oder Tailster der einfachste Weg, die geprüfte lokale Betreuer und Gassigeher in ganz South Hams auflistet. Buchen Sie für Juli und August frühzeitig und vereinbaren Sie vorab ein Kennenlerntreffen, damit sich Ihr Hund wohlfühlt."
         }
       ]
     }

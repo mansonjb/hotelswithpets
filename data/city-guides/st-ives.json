@@ -39,7 +39,11 @@
           "tipFr": "Les tables du bord du quai partent vite les jours ensoleillés ; le bar historique est tout aussi accueillant pour les chiens quand le temps cornouaillais se gâte.",
           "tipEs": "Las mesas junto al muelle se ocupan rápido en días soleados; el bar histórico es igual de acogedor para perros cuando el tiempo de Cornualles empeora.",
           "tipPt": "As mesas junto ao cais esgotam depressa nos dias de sol; o bar histórico é igualmente acolhedor para cães quando o tempo da Cornualha piora.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Sloop+Inn+St+Ives+Cornwall"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Sloop+Inn+St+Ives+Cornwall",
+          "descriptionDe": "Einer der ältesten Gasthöfe Cornwalls, der um 1312 entstand und direkt am Kai mit unvergleichlichem Blick über den Hafen liegt. Hunde sind in der niedrigen Balkenbar und an den Tischen am Hafen willkommen, nur wenige Minuten vom ganzjährig hundefreundlichen Bamaluz Beach entfernt.",
+          "petPolicyDe": "Hunde an der Leine in der Bar und an den Tischen am Hafen willkommen.",
+          "mustTryDe": "Frische Cornish-Krabbe oder Fish and Chips am Hafen",
+          "tipDe": "Die Tische am Hafen sind an sonnigen Tagen schnell besetzt; die historische Bar ist bei launischem Cornwall-Wetter genauso hundefreundlich."
         },
         {
           "name": "The Rum & Crab Shack",
@@ -65,7 +69,11 @@
           "tipFr": "Demandez une place près de la fenêtre dans le bar pour que votre chien s'installe pendant que vous profitez de la vue sur le port ; c'est très fréquenté aux heures de pointe.",
           "tipEs": "Pide una mesa junto a la ventana en el bar para que tu perro se acomode mientras disfrutas de la vista al puerto; se llena en horas punta.",
           "tipPt": "Peça um lugar junto à janela no bar para o seu cão se acomodar enquanto aprecia a vista do porto; enche nas horas de ponta.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rum+and+Crab+Shack+St+Ives"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rum+and+Crab+Shack+St+Ives",
+          "descriptionDe": "Ein rustikales Fischrestaurant und eine Bar über dem Hafen, das lokale Krabben, Muscheln und Rum-Cocktails serviert. Wohlerzogene Hunde sind im gemütlichen Barbereich im Erdgeschoss willkommen, der einige der besten Hafenblicke der Stadt bietet.",
+          "petPolicyDe": "Hunde an der Leine in der Bar im Erdgeschoss willkommen.",
+          "mustTryDe": "Eine ganze Cornish-Krabbe mit einem Rum-Cocktail",
+          "tipDe": "Bitten Sie um einen Fensterplatz in der Bar, damit sich Ihr Hund niederlassen kann, während Sie den Hafenblick genießen; zu Stoßzeiten wird es voll."
         },
         {
           "name": "Porthmeor Beach Cafe",
@@ -91,7 +99,11 @@
           "tipFr": "Combinez-le avec une promenade sur la plage avant 10h en été, quand les chiens sont admis sur Porthmeor avant le début de l'interdiction de journée.",
           "tipEs": "Combínalo con un paseo por la playa antes de las 10h en verano, cuando se admiten perros en Porthmeor antes de que empiece la veda diurna.",
           "tipPt": "Combine-o com um passeio na praia antes das 10h no verão, quando se admitem cães em Porthmeor antes de começar a proibição diurna.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Porthmeor+Beach+Cafe+St+Ives"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Porthmeor+Beach+Cafe+St+Ives",
+          "descriptionDe": "Ein entspanntes Café und Tapas-Bar direkt am Porthmeor Beach unterhalb der Tate, mit einer großen sonnigen Terrasse mit Blick auf die Brandung. Hunde sind im Außenbereich willkommen, ideal nach einem frühmorgendlichen Strandspaziergang, bevor um 10 Uhr die sommerliche Hundesperre beginnt.",
+          "petPolicyDe": "Hunde an der Leine auf der Außenterrasse willkommen.",
+          "mustTryDe": "Cornish-Tapas mit Kaffee mit Blick auf die Brandung",
+          "tipDe": "Kombinieren Sie es im Sommer mit einem Strandspaziergang vor 10 Uhr, wenn Hunde auf Porthmeor noch vor dem Tagesverbot erlaubt sind."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Posso comer junto à praia com o meu cão no verão?",
           "a": "Sim, mas organize-se consoante as regras das praias caninas. Nas praias restringidas os cães estão proibidos das 10h às 18h na época, por isso ajuste a visita a um café de praia a um passeio da manhã ou da tarde, ou coma no porto, onde os cães são sempre bem-vindos nos bares."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in St Ives",
+      "introDe": "St Ives ist eine der hundefreundlichsten Städte Cornwalls zum Essengehen, mit Pubs und Cafés am Hafen, die Hunde sowohl in der Bar als auch auf ihren Terrassen willkommen heißen. Der Bereich rund um den Hafen und die alten Downlong-Gassen ist das ergiebigste Revier, und viele Lokale stellen einen Wassernapf an die Tür.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants und Pubs in St Ives erlaubt?",
+          "a": "Ja, weitgehend. St Ives ist sehr hundefreundlich, und die meisten Pubs am Hafen wie The Sloop Inn heißen Hunde in der Bar willkommen, während Cafés wie Porthmeor Beach Cafe sie auf der Terrasse zulassen. Fragen Sie, welcher Bereich hundefreundlich ist, da manche Speiseräume im Obergeschoss ausgenommen sind."
+        },
+        {
+          "q": "Kann ich im Sommer mit meinem Hund am Strand essen?",
+          "a": "Ja, aber planen Sie um die Strand-Hunderegeln herum. An eingeschränkten Stränden sind Hunde in der Saison von 10 bis 18 Uhr verboten, planen Sie also einen Besuch im Strandcafé um einen frühmorgendlichen oder abendlichen Spaziergang herum, oder essen Sie am Hafen, wo Hunde in den Bars immer willkommen sind."
+        }
       ]
     },
     "parks": {
@@ -183,7 +207,10 @@
           "tipFr": "Elle offre une vue à 360 degrés sur la mer à quelques minutes du port et constitue l'une des meilleures promenades canines gratuites en ville pendant l'interdiction estivale des plages.",
           "tipEs": "Ofrece vistas de 360 grados al mar a pocos minutos del puerto y es uno de los mejores paseos caninos gratuitos del pueblo durante la veda estival de las playas.",
           "tipPt": "Oferece vistas de 360 graus para o mar a poucos minutos do porto e é um dos melhores passeios caninos gratuitos da vila durante a proibição de verão das praias.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Island+St+Ives+Head+Cornwall"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Island+St+Ives+Head+Cornwall",
+          "descriptionDe": "Die grüne Landzunge, die St Ives teilt, gekrönt von der winzigen St Nicholas Chapel aus dem 15. Jahrhundert und umgeben von einem ebenen Weg mit Meer auf drei Seiten. Hunde sind auf dieser offenen Grasfläche ganzjährig willkommen, ein perfekter kurzer Spaziergang in der Stadt, wenn die Strände im Sommer gesperrt sind.",
+          "offLeashAreaDe": "Hunde dürfen auf der offenen Landzunge unter enger Kontrolle ohne Leine laufen; halten Sie sie von den Klippenkanten fern und entsorgen Sie ihre Hinterlassenschaften.",
+          "tipDe": "Es bietet 360-Grad-Meerblicke wenige Minuten vom Hafen entfernt und ist während des sommerlichen Strandverbots einer der besten kostenlosen Hundespaziergänge der Stadt."
         },
         {
           "name": "South West Coast Path (St Ives to Zennor)",
@@ -203,7 +230,10 @@
           "tipFr": "Elle est accidentée et exigeante avec des montées et descentes raides : emportez de l'eau et reprenez le bus côtier depuis Zennor plutôt que de faire l'aller-retour à pied.",
           "tipEs": "Es escarpado y exigente con fuertes subidas y bajadas, así que lleva agua y vuelve en el autobús costero desde Zennor en lugar de hacer el trayecto de ida y vuelta a pie.",
           "tipPt": "É acidentado e exigente com subidas e descidas íngremes, por isso leve água e regresse no autocarro costeiro a partir de Zennor em vez de fazer o percurso de ida e volta a pé.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+West+Coast+Path+St+Ives+to+Zennor"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+West+Coast+Path+St+Ives+to+Zennor",
+          "descriptionDe": "Einer der wildesten und schönsten Abschnitte des gesamten South West Coast Path, der von St Ives westwärts entlang von Granitklippen, Buchten und Moorland zum Dorf Zennor führt. Er ist ganzjährig für Hunde geöffnet und bietet ein echtes Abenteuer, das keine Strandsperre einschränken kann.",
+          "offLeashAreaDe": "Halten Sie Hunde in der Nähe der Klippenkanten und bei Schafen und Rindern entlang des Weges an der Leine; die Abstürze sind steil und der Boden uneben.",
+          "tipDe": "Der Weg ist rau und anstrengend mit steilen Auf- und Abstiegen. Nehmen Sie Wasser mit und fahren Sie mit dem Küstenbus von Zennor zurück, statt den ganzen Weg zu Fuß zurückzugehen."
         },
         {
           "name": "Trencrom Hill (National Trust)",
@@ -223,7 +253,10 @@
           "tipFr": "Il y a un petit parking gratuit du National Trust au pied ; la montée jusqu'aux rochers du sommet est courte mais raide, elle convient donc à un chien agile.",
           "tipEs": "Hay un pequeño aparcamiento gratuito del National Trust al pie; la trepada hasta las rocas de la cima es corta pero empinada, así que va bien para un perro ágil.",
           "tipPt": "Há um pequeno estacionamento gratuito do National Trust na base; a subida até às rochas do cume é curta mas íngreme, por isso serve para um cão ágil.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trencrom+Hill+National+Trust+Cornwall"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trencrom+Hill+National+Trust+Cornwall",
+          "descriptionDe": "Ein kleiner National-Trust-Hügel gleich landeinwärts von St Ives, gekrönt von einer eisenzeitlichen Hügelfestung, mit riesigen Ausblicken auf die Nord- und Südküste Cornwalls. Es ist offen zugängliches Gelände, auf dem Hunde willkommen sind, eine ruhige, luftige Alternative zu den Stränden, wenige Minuten mit dem Auto von der Stadt entfernt.",
+          "offLeashAreaDe": "Hunde dürfen auf dem offenen Hügel unter enger Kontrolle ohne Leine laufen, aber hier kann Vieh weiden, also legen Sie die Leine an, sobald Tiere anwesend sind.",
+          "tipDe": "Am Fuß gibt es einen kleinen kostenlosen National-Trust-Parkplatz; die Kletterpartie zu den Gipfelfelsen ist kurz, aber steil, geeignet für einen wendigen Hund."
         }
       ],
       "tipsEn": [
@@ -284,6 +317,18 @@
         {
           "q": "Os cães têm de ir à trela no caminho costeiro de St Ives?",
           "a": "Mantenha o cão à trela perto das bordas da falésia, a pique e muitas vezes sem vedação, e à volta das ovelhas e vacas que pastam ao longo do caminho. No promontório aberto e sem gado de The Island, um cão pode andar sem trela sob controlo próximo."
+        }
+      ],
+      "titleDe": "Hundefreundliche Wanderungen und Grünflächen in St Ives",
+      "introDe": "Wenn im Sommer die Strandregeln gelten, retten die Klippen den Tag: Der South West Coast Path verläuft direkt von St Ives in beide Richtungen und ist ganzjährig für Hunde geöffnet. Dazu kommen die grasbewachsene Landzunge The Island mitten in der Stadt und der National-Trust-Aussichtspunkt Trencrom Hill im Landesinneren, sodass es immer einen Ort zum Gassigehen gibt, egal was die Strandschilder sagen.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich in St Ives mit meinem Hund Gassi gehen, wenn die Strände eingeschränkt sind?",
+          "a": "Der South West Coast Path ist ganzjährig für Hunde geöffnet und verlässt die Stadt in beide Richtungen, und die Landzunge The Island im Zentrum ist eine grasbewachsene offene Fläche. Trencrom Hill, eine kurze Fahrt landeinwärts, ist offen zugängliches National-Trust-Gelände mit weiten Ausblicken."
+        },
+        {
+          "q": "Müssen Hunde auf dem Küstenpfad von St Ives an der Leine sein?",
+          "a": "Halten Sie Ihren Hund in der Nähe der Klippenkanten, die steil und oft unbefestigt sind, sowie in der Nähe von Schafen und Rindern entlang des Weges an der Leine. Auf der offenen, viehfreien Landzunge The Island darf ein Hund unter enger Kontrolle ohne Leine laufen."
         }
       ]
     },
@@ -389,6 +434,18 @@
           "q": "É melhor ir de carro ou de comboio para St Ives com um cão?",
           "a": "O comboio, no verão. O estacionamento no centro é muito limitado e as ruas congestionam, por isso a maioria deixa o carro no parque dissuasor de St Erth ou Lelant Saltings e apanha o ramal que aceita cães nos últimos minutos até à vila."
         }
+      ],
+      "titleDe": "Mit dem Hund in St Ives unterwegs",
+      "introDe": "St Ives ist kompakt und zu Fuß erkundbar, und die beste Art, mit einem Hund anzureisen, ist die kleine St Ives Bay-Bahnstrecke, die sich von St Erth an der Küste entlangschlängelt und Hunde kostenlos mitnimmt. Das Stadtzentrum ist steil, eng und im Sommer oft verstopft, daher ist es klug und hundefreundlich, das Auto an einem Park-and-Ride-Platz stehen zu lassen und den Zug zu nehmen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit dem Zug nach St Ives mitnehmen?",
+          "a": "Ja. Bis zu zwei Hunde pro Fahrgast reisen bei National Rail kostenlos mit, an der Leine oder in einer Transportbox. Sie steigen in St Erth auf die malerische St Ives Bay-Strecke um, die etwa zweimal pro Stunde fährt und eine schöne, hundefreundliche Art der Anreise ist."
+        },
+        {
+          "q": "Ist es besser, mit dem Auto oder dem Zug mit Hund nach St Ives zu fahren?",
+          "a": "Im Sommer der Zug. Die Parkplätze im Stadtzentrum sind sehr begrenzt und die Straßen verstopfen, daher lassen die meisten Menschen das Auto am Park-and-Ride in St Erth oder Lelant Saltings stehen und nehmen für die letzten Minuten in die Stadt die hundefreundliche Bahnstrecke."
+        }
       ]
     },
     "beaches": {
@@ -471,6 +528,18 @@
           "q": "Quando é que os cães são proibidos nas praias de Porthmeor e Porthminster?",
           "a": "Em Porthmeor, Porthminster e Carbis Bay os cães estão proibidos de 15 de maio a 30 de setembro entre as 10h e as 18h, com multa de 100 libras por incumprimento. Antes das 10h, depois das 18h e fora dessas datas os cães são bem-vindos, por isso os passeios de manhã e de tarde na praia são a norma no verão."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in St Ives",
+      "introDe": "St Ives liegt an einigen der schönsten weißen Sandstrände Großbritanniens, und die Hunderegeln hier sind saisonal und je nach Strand unterschiedlich, festgelegt durch die Public Spaces Protection Order des Cornwall Council und mit Bußgeldern von 100 Pfund durchgesetzt. Die wichtigsten Daten: Porthmeor, Porthminster und Carbis Bay verbieten Hunde vom 15. Mai bis 30. September zwischen 10 und 18 Uhr, während der Hafenstrand von St Ives und Porthgwidden sie vom 1. Juli bis 31. August, 10 bis 18 Uhr, verbieten. Außerhalb dieser Zeiten sind Hunde willkommen, und Bamaluz Beach, Lambeth Walk und die Nordseite von Smeaton's Pier bleiben das ganze Jahr über hundefreundlich, sodass ein Hund nie ohne Auslauf dasteht. Prüfen Sie bei Ankunft immer die aktuellen Schilder, da sich die Verordnung ändern kann.",
+      "faqsDe": [
+        {
+          "q": "Welche Strände in St Ives erlauben Hunde das ganze Jahr über?",
+          "a": "Bamaluz Beach beim Hafen, Lambeth Walk und die Nordseite von Smeaton's Pier sind ganzjährig hundefreundlich ohne saisonale Sperre. Das nahegelegene Porthkidney Sands auf der anderen Seite der Mündung ist ebenfalls ganzjährig für Hunde geöffnet und bietet einen längeren Sandstrand."
+        },
+        {
+          "q": "Wann sind Hunde an den Stränden Porthmeor und Porthminster verboten?",
+          "a": "An Porthmeor, Porthminster und Carbis Bay sind Hunde vom 15. Mai bis 30. September zwischen 10 und 18 Uhr verboten, mit einem Bußgeld von 100 Pfund bei Verstößen. Vor 10 Uhr, nach 18 Uhr und außerhalb dieser Daten sind Hunde willkommen, sodass frühmorgendliche und abendliche Strandspaziergänge im Sommer die Norm sind."
+        }
       ]
     },
     "vets": {
@@ -504,7 +573,10 @@
           "tipEs": "Telefonea con antelación durante el día; para cualquier urgencia nocturna o de fin de semana te derivarán al centro de urgencias CVets.",
           "tipPt": "Telefone com antecedência durante o dia; para qualquer urgência noturna ou de fim de semana será encaminhado para o centro de urgência CVets.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Medivet+St+Ives+Trenwith+Lane",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo-Fr 08:30-18:30 Uhr; außerhalb der Öffnungszeiten über CVets",
+          "descriptionDe": "Die Hauptpraxis in St Ives selbst, in der Trenwith Lane oberhalb der Stadt, die an Wochentagen Routine- und Notfallversorgung für Kleintiere anbietet. Außerhalb der Öffnungszeiten werden Notfälle an das CVets-Zentrum in der Nähe von Truro überwiesen.",
+          "tipDe": "Rufen Sie tagsüber vorher an; für alles über Nacht oder am Wochenende werden Sie an das CVets-Notfallzentrum verwiesen."
         },
         {
           "name": "Animal Vets (Lelant)",
@@ -526,7 +598,10 @@
           "tipEs": "Práctica si te alojas hacia Lelant, Carbis Bay o Hayle; para noches y fines de semana también deriva las urgencias a CVets cerca de Truro.",
           "tipPt": "Prática se ficar para os lados de Lelant, Carbis Bay ou Hayle; para noites e fins de semana também encaminha as urgências para a CVets perto de Truro.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Animal+Vets+Lelant+St+Ives+Road",
-          "photo": "/images/city-places/st-ives-vets-animal-vets-lelant.jpg"
+          "photo": "/images/city-places/st-ives-vets-animal-vets-lelant.jpg",
+          "hoursDe": "Sprechstunden werktags tagsüber; außerhalb der Öffnungszeiten über C-Vets",
+          "descriptionDe": "Eine unabhängige, familiengeführte Praxis, die St Ives und Hayle seit über 35 Jahren betreut, mit ihrer Praxis in Lelant an der St Ives Road, wenige Kilometer von der Stadt entfernt. Sie bietet Routine- und Notfallversorgung für Kleintiere und nutzt für Notfälle außerhalb der Öffnungszeiten C-Vets.",
+          "tipDe": "Praktisch, wenn Sie in Richtung Lelant, Carbis Bay oder Hayle übernachten; für Nächte und Wochenenden werden Notfälle ebenfalls an CVets in der Nähe von Truro weitergeleitet."
         },
         {
           "name": "CVets (out-of-hours emergency)",
@@ -548,7 +623,10 @@
           "tipEs": "Telefonea antes de salir para que se preparen; guarda este número junto a tu veterinario de día para el trayecto hacia Truro.",
           "tipPt": "Telefone antes de sair para que se preparem; guarde este número ao lado do seu veterinário de dia para o percurso até Truro.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CVets+Penstraze+Truro",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Wochentags 18:30-08:30 Uhr sowie von Sa 12:30 bis Mo 08:30 Uhr (nur außerhalb der Öffnungszeiten)",
+          "descriptionDe": "Das dedizierte Notfallzentrum außerhalb der Öffnungszeiten, das von Praxen im Raum St Ives genutzt wird, etwa 45 Minuten entfernt bei Truro. Es behandelt Hunde, Katzen und Kleintiere über Nacht und am Wochenende, wenn die örtlichen Praxen geschlossen sind.",
+          "tipDe": "Rufen Sie an, bevor Sie losfahren, damit man sich vorbereiten kann; speichern Sie diese Nummer zusammen mit Ihrem Tagestierarzt für die Fahrt nach Truro."
         }
       ],
       "faqsEn": [
@@ -589,6 +667,18 @@
         {
           "q": "Que documentação precisa o meu cão para entrar na Grã-Bretanha vindo da UE?",
           "a": "A Grã-Bretanha não aceita o Passaporte Europeu para Animais na entrada. O seu cão precisa de um Animal Health Certificate britânico, de um microchip e de uma vacinação antirrábica válida, mais um tratamento contra a ténia aprovado administrado entre 24 e 120 horas antes da chegada, por isso trate disso com um veterinário antes de viajar."
+        }
+      ],
+      "titleDe": "Tierärzte in St Ives",
+      "introDe": "St Ives verfügt über eine Tierarztpraxis in der Stadt sowie eine seit langem etablierte unabhängige Praxis im benachbarten Lelant, mit regionaler Notfallversorgung außerhalb der Öffnungszeiten in der Nähe von Truro. Englisch wird überall gesprochen. Besucher aus der EU sollten beachten, dass Großbritannien den EU-Heimtierausweis für die Einreise nicht mehr akzeptiert: Hunde benötigen eine GB Animal Health Certificate, einen Mikrochip, eine gültige Tollwutimpfung und eine 24 bis 120 Stunden vor der Ankunft verabreichte Bandwurmbehandlung. Reisen Sie also mit allen Unterlagen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es nachts einen Notfalltierarzt in der Nähe von St Ives?",
+          "a": "Ja. Praxen im Raum St Ives wie Medivet St Ives und Animal Vets in Lelant überweisen Notfälle außerhalb der Öffnungszeiten an CVets in der Nähe von Truro, etwa 45 Minuten entfernt, das nachts und am Wochenende geöffnet ist. Rufen Sie vorher an, damit man auf Sie vorbereitet ist."
+        },
+        {
+          "q": "Welche Unterlagen braucht mein Hund für die Einreise aus der EU nach Großbritannien?",
+          "a": "Großbritannien akzeptiert den EU-Heimtierausweis nicht für die Einreise. Ihr Hund benötigt eine GB Animal Health Certificate, einen Mikrochip und eine gültige Tollwutimpfung sowie eine zugelassene Bandwurmbehandlung, die 24 bis 120 Stunden vor der Ankunft verabreicht wird. Klären Sie dies vor der Reise mit einem Tierarzt."
         }
       ]
     },
@@ -693,6 +783,18 @@
           "q": "Os visitantes da UE precisam de documentação especial para levar um cão a St Ives?",
           "a": "Sim. Como St Ives fica na Grã-Bretanha, os visitantes da UE não podem usar o Passaporte Europeu para Animais. O seu cão precisa de um Animal Health Certificate britânico emitido nos 10 dias anteriores à viagem, de um microchip, de uma vacinação antirrábica válida e de um tratamento contra a ténia entre 24 e 120 horas antes da chegada."
         }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch in St Ives mit Hund",
+      "introDe": "St Ives ist ein lohnender Ort für einen Besuch mit Hund, aber zwei Dinge erfordern Planung: die saisonalen Strand-Hunderegeln, die mit Bußgeldern durchgesetzt werden, und die Post-Brexit-Unterlagen für die Einreise eines Hundes nach Großbritannien. Wenn Sie beides richtig machen, ist dies einer der unkompliziertesten Hundeurlaube in Cornwall.",
+      "faqsDe": [
+        {
+          "q": "Ist St Ives ein guter Ort für einen Besuch mit Hund?",
+          "a": "Ja, es ist eine der hundefreundlichsten Städte Cornwalls, mit hundefreundlichen Pubs am Hafen, kostenloser Mitnahme im Zug und bei den Robben-Bootstouren sowie einem ganzjährig geöffneten Küstenpfad. Das Einzige, was zu planen ist, sind die saisonalen Strand-Hunderegeln, die sich aber leicht umgehen lassen."
+        },
+        {
+          "q": "Brauchen EU-Besucher besondere Unterlagen, um einen Hund nach St Ives mitzubringen?",
+          "a": "Ja. Da St Ives in Großbritannien liegt, können EU-Besucher den EU-Heimtierausweis nicht verwenden. Ihr Hund benötigt eine innerhalb von 10 Tagen vor der Reise ausgestellte GB Animal Health Certificate, einen Mikrochip, eine gültige Tollwutimpfung und eine Bandwurmbehandlung 24 bis 120 Stunden vor der Ankunft."
+        }
       ]
     },
     "attractions": {
@@ -726,7 +828,11 @@
           "tipFr": "Choisissez une journée plus calme pour un chien craintif, et réservez aux kiosques du port ; les sorties dépendent de la météo et affichent complet en haute saison.",
           "tipEs": "Elige un día más tranquilo para un perro nervioso y reserva en los quioscos del puerto; las salidas dependen del tiempo y se agotan en temporada alta.",
           "tipPt": "Escolha um dia mais calmo para um cão nervoso e reserve nos quiosques do porto; as saídas dependem do tempo e esgotam na época alta.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St+Ives+Boats+Seal+Island+Trips+harbour"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St+Ives+Boats+Seal+Island+Trips+harbour",
+          "descriptionDe": "Kleine Wildtierboote fahren vom Hafen aus zur Seal Island und in Richtung Godrevy, um die dort ansässigen Kegelrobbenkolonien, Seevögel und manchmal Delfine zu sehen. Hunde sind willkommen und fahren kostenlos mit, was dies zu einem der unvergesslichsten hundefreundlichen Ausflüge in Cornwall macht.",
+          "dogPolicyDe": "Hunde willkommen und reisen kostenlos; an Deck an der Leine halten.",
+          "admissionFeeDe": "Etwa 30 Pfund für Erwachsene bei einer einstündigen Tour; Hunde kostenlos",
+          "tipDe": "Wählen Sie für einen nervösen Hund einen ruhigeren Tag und buchen Sie an den Kiosken am Hafen; die Touren sind wetterabhängig und in der Hochsaison schnell ausgebucht."
         },
         {
           "name": "St Ives Harbour and Smeaton's Pier",
@@ -749,7 +855,11 @@
           "tipFr": "Parcourez-le tôt ou tard pour éviter la foule estivale ; la plage du port elle-même est interdite aux chiens du 1er juillet au 31 août, de 10h à 18h, mais le côté nord de la jetée reste ouvert.",
           "tipEs": "Recórrelo temprano o tarde para evitar el gentío estival; la propia playa del puerto tiene veda de perros del 1 de julio al 31 de agosto, de 10 a 18h, pero el lado norte del muelle sigue abierto.",
           "tipPt": "Percorra-o cedo ou tarde para evitar a multidão de verão; a própria praia do porto tem proibição de cães de 1 de julho a 31 de agosto, das 10h às 18h, mas o lado norte do cais continua aberto.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Smeatons+Pier+St+Ives+Harbour"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Smeatons+Pier+St+Ives+Harbour",
+          "descriptionDe": "Das Herz der Stadt, ein goldsandiger Arbeitshafen, umgeben von Pubs, Galerien und Fischerbooten, mit Smeaton's Pier und seinem kleinen Leuchtturm, der in die Bucht hinausragt. Alles ist mit einem Hund an der Leine begehbar, und die Nordseite des Piers ist einer der ganzjährig hundefreundlichen Sandabschnitte.",
+          "dogPolicyDe": "Hunde an der Leine rund um Hafen und Pier willkommen; die Nordseite von Smeaton's Pier ist ein ganzjähriger Hundestrand.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Schlendern Sie früh oder spät, um den Sommerandrang zu vermeiden; am Hafenstrand selbst gilt vom 1. Juli bis 31. August, 10 bis 18 Uhr, ein Hundeverbot, aber die Nordseite des Piers bleibt offen."
         },
         {
           "name": "Downlong old town",
@@ -772,7 +882,11 @@
           "tipFr": "Les ruelles sont étroites et fréquentées en saison ; une laisse courte garde un chien à l'aise dans la foule, et il y a de l'ombre entre les hauts cottages les jours de chaleur.",
           "tipEs": "Las callejuelas son estrechas y concurridas en temporada; una correa corta mantiene al perro cómodo entre la gente, y hay sombra entre las altas casitas en días calurosos.",
           "tipPt": "As ruelas são estreitas e movimentadas na época; uma trela curta mantém o cão à vontade no meio da gente, e há sombra entre as casinhas altas nos dias de calor.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Downlong+St+Ives+old+town"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Downlong+St+Ives+old+town",
+          "descriptionDe": "Das historische Fischerviertel hinter dem Hafen, ein Gewirr aus engen Granitgassen, weiß getünchten Cottages und Künstlerateliers, das St Ives seinen Ruf als Kunststadt einbrachte. Alles bietet hundefreundliches Schlendern im Freien, durchsetzt mit hundefreundlichen Cafés und unabhängigen Galerien.",
+          "dogPolicyDe": "Hunde an der Leine in allen Gassen willkommen; viele Cafés und Galerien sind hundefreundlich.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Die Gassen sind in der Saison eng und belebt; eine kurze Leine hält einen Hund im Gedränge sicher, und zwischen den hohen Cottages gibt es an heißen Tagen Schatten."
         }
       ],
       "tipsEn": [
@@ -834,6 +948,18 @@
           "q": "Os cães são admitidos na Tate St Ives?",
           "a": "Só os cães de assistência são admitidos na Tate St Ives e no Museu Barbara Hepworth, como na maioria das galerias britânicas. O resto de St Ives, incluindo o porto, Smeaton's Pier, as ruelas da vila velha e os passeios de barco, é muito acolhedor para cães."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in St Ives",
+      "introDe": "Das Beste an St Ives spielt sich im Freien ab und ist für Hunde zugänglich: der Arbeitshafen, das Labyrinth alter Fischergassen und, am besten, eine Wildtier-Bootstour zu den Robbenkolonien der St Ives Bay, bei der Hunde kostenlos mitfahren. Die Galerien sind die wichtigste Ausnahme, in der Hunde nicht erlaubt sind, aber mit Hafen, Küste und Booten muss ein Hund selten etwas auslassen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf einer Bootstour in St Ives mitnehmen?",
+          "a": "Ja. Die Wildtier-Bootstouren Seal Island und Godrevy vom Hafen aus heißen Hunde willkommen, und Hunde fahren kostenlos mit. Halten Sie Ihren Hund an Deck an der Leine, wählen Sie bei einem nervösen Hund einen ruhigeren Tag und buchen Sie an den Kiosken am Hafen, da die Touren wetterabhängig sind."
+        },
+        {
+          "q": "Sind Hunde in der Tate St Ives erlaubt?",
+          "a": "Wie in den meisten britischen Galerien sind in der Tate St Ives und im Barbara Hepworth Museum nur Assistenzhunde zugelassen. Der Rest von St Ives, einschließlich Hafen, Smeaton's Pier, den Gassen der Altstadt und den Bootstouren, ist sehr hundefreundlich."
+        }
       ]
     },
     "petsitting": {
@@ -858,11 +984,16 @@
           "serviceTypeEs": "Alojamiento, guardería, visitas a domicilio y paseo",
           "serviceTypePt": "Alojamento, creche, visitas ao domicílio e passeio",
           "pricePerDay": "From around £20-£35 per day",
-          "languages": ["English"],
+          "languages": [
+            "English"
+          ],
           "tip": "Message two or three sitters early and arrange a short meet-and-greet before your trip so your dog is comfortable before the day you need cover.",
           "tipFr": "Contactez deux ou trois gardiens tôt et organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avant le jour où vous avez besoin de la garde.",
           "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo a tu viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
-          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço."
+          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço.",
+          "descriptionDe": "Die größte Plattform für Tierbetreuung in Großbritannien, mit lokalen Hundesittern, Betreuern und Gassigängern in ganz West Cornwall und der Region St Ives. Jeder Sitter hat ein Profil, Bewertungen und Fotos, und Sie buchen und bezahlen über die App inklusive Versicherungsschutz.",
+          "serviceTypeDe": "Hundebetreuung, Tagesbetreuung, Kurzbesuche und Gassigehen",
+          "tipDe": "Kontaktieren Sie frühzeitig zwei oder drei Sitter und vereinbaren Sie vor Ihrer Reise ein kurzes Kennenlerntreffen, damit sich Ihr Hund wohlfühlt, bevor Sie die Betreuung brauchen."
         },
         {
           "name": "Tailster",
@@ -876,11 +1007,16 @@
           "serviceTypeEs": "Paseo, guardería y alojamiento en casa",
           "serviceTypePt": "Passeio, creche e alojamento ao domicílio",
           "pricePerDay": "From around £18-£30 per day",
-          "languages": ["English"],
+          "languages": [
+            "English"
+          ],
           "tip": "Tell the carer about your dog's recall around livestock, since local walks often use the coast path and fields where sheep and cattle graze.",
           "tipFr": "Informez l'intervenant du rappel de votre chien près du bétail, car les promenades locales empruntent souvent le chemin côtier et des champs où pâturent moutons et bovins.",
           "tipEs": "Informa al cuidador sobre la llamada de vuelta de tu perro ante el ganado, ya que los paseos locales suelen usar el camino costero y prados donde pastan ovejas y vacas.",
-          "tipPt": "Informe o cuidador sobre a chamada de retorno do seu cão perto do gado, já que os passeios locais usam muitas vezes o caminho costeiro e campos onde pastam ovelhas e vacas."
+          "tipPt": "Informe o cuidador sobre a chamada de retorno do seu cão perto do gado, já que os passeios locais usam muitas vezes o caminho costeiro e campos onde pastam ovelhas e vacas.",
+          "descriptionDe": "Ein landesweites Netzwerk versicherter, geprüfter Hundegassigänger und -sitter, das Sie anhand Ihrer Daten und der Bedürfnisse Ihres Hundes mit lokalen Betreuern zusammenbringt. Es ist eine nützliche Alternative zu Rover, um einen Galeriebesuch oder ein langes Abendessen in St Ives abzudecken.",
+          "serviceTypeDe": "Gassigehen, Tagesbetreuung und Betreuung zu Hause",
+          "tipDe": "Informieren Sie den Betreuer über das Rückrufverhalten Ihres Hundes bei Nutztieren, da lokale Spaziergänge oft über den Küstenpfad und Felder führen, auf denen Schafe und Rinder weiden."
         }
       ],
       "tipsEn": [
@@ -941,6 +1077,18 @@
         {
           "q": "Posso deixar o meu cão enquanto visito as galerias?",
           "a": "Sim. Como a Tate St Ives e o museu Hepworth só admitem cães de assistência, um cuidador local ou uma creche pelo Rover ou Tailster é ideal para uma visita a uma galeria. Partilhe com o cuidador os dados do seu veterinário e a chamada de retorno do seu cão perto do gado."
+        }
+      ],
+      "titleDe": "Hundebetreuung und Gassiservice in St Ives",
+      "introDe": "Für die wenigen Orte, an die ein Hund nicht mitkann, wie Galerien oder ein langes Restaurantessen, verbinden nationale Plattformen Sie mit geprüften lokalen Betreuern und Gassigängern rund um St Ives und West Cornwall. Buchen Sie für Juli und August frühzeitig, wenn diese kleine, beliebte Stadt sich füllt und lokale Betreuer schnell ausgebucht sind.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter in St Ives?",
+          "a": "Nationale Plattformen wie Rover und Tailster listen geprüfte, versicherte Sitter, Betreuer und Gassigänger in ganz West Cornwall und der Region St Ives auf. Sie durchsuchen Profile und Bewertungen, vereinbaren ein Kennenlerntreffen und buchen über die App; reservieren Sie für Juli und August frühzeitig."
+        },
+        {
+          "q": "Kann ich meinen Hund zurücklassen, während ich die Galerien besuche?",
+          "a": "Ja. Da in die Tate St Ives und das Hepworth-Museum nur Assistenzhunde zugelassen sind, eignet sich ein lokaler Sitter oder eine Tagesbetreuung über Rover oder Tailster ideal für einen Galeriebesuch. Teilen Sie dem Betreuer die Tierarztdaten Ihres Hundes und sein Rückrufverhalten bei Nutztieren mit."
         }
       ]
     }

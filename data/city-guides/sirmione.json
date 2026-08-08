@@ -1,4 +1,10 @@
-{"slug":"sirmione","name":"Sirmione","country":"Italy","flag":"🇮🇹","lastUpdated":"2026-06-22","guides":{
+{
+  "slug": "sirmione",
+  "name": "Sirmione",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "lastUpdated": "2026-06-22",
+  "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Sirmione",
       "titleFr": "Restaurants acceptant les animaux à Sirmione",
@@ -33,7 +39,11 @@
           "tipFr": "Réservez une table en terrasse au coucher du soleil pour la meilleure ambiance place-et-lac avec votre chien à vos pieds",
           "tipEs": "Reserva una mesa en la terraza al atardecer para el mejor ambiente de plaza y lago con tu perro a tus pies",
           "tipPt": "Reserve uma mesa na esplanada ao pôr do sol para o melhor ambiente de praça e lago com o seu cão aos seus pés",
-          "googleMapsUrl": "https://maps.google.com/?q=Ristorante+Risorgimento+Sirmione"
+          "googleMapsUrl": "https://maps.google.com/?q=Ristorante+Risorgimento+Sirmione",
+          "descriptionDe": "Ein elegantes Traditionslokal an der Piazza Carducci, oft als das Wohnzimmer der historischen Altstadt Sirmiones bezeichnet, mit einer großen Terrasse zum Platz und dem See dahinter. Angeleinte Hunde sind auf der Terrasse willkommen, und die Küche setzt auf Seefisch und flambierte Fleischklassiker. Ein stilvoller, aber unaufdringlicher Ort für ein langes Abendessen mitten in der Altstadt.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Seefisch, flambierte Fleischgerichte",
+          "tipDe": "Buchen Sie einen Terrassentisch zum Sonnenuntergang für die beste Atmosphäre aus Platz und See mit Ihrem Hund zu Füßen"
         },
         {
           "name": "Ristorante Pizzeria San Lorenzo",
@@ -59,7 +69,11 @@
           "tipFr": "Une halte déjeuner fiable si vous avez un grand chien que d'autres terrasses refusent en haute saison",
           "tipEs": "Una parada de almuerzo fiable si tienes un perro grande que otras terrazas rechazan en temporada alta",
           "tipPt": "Uma paragem de almoço fiável se tiver um cão grande que outras esplanadas recusam em época alta",
-          "googleMapsUrl": "https://maps.google.com/?q=Ristorante+San+Lorenzo+Sirmione"
+          "googleMapsUrl": "https://maps.google.com/?q=Ristorante+San+Lorenzo+Sirmione",
+          "descriptionDe": "Ein freundliches Restaurant-Pizzeria in der Altstadt, in dem Hunde jeder Größe ohne Umstände willkommen sind, eine echte Seltenheit zur Hochsaison. Die Karte umfasst Pizza aus dem Holzofen, Pasta sowie See- und Meeresgerichte, was es zu einer unkomplizierten, entspannten Wahl für Reisende mit Hund jeder Rasse macht. Die Atmosphäre ist ungezwungen und familiär statt förmlich.",
+          "petPolicyDe": "Hunde jeder Größe willkommen",
+          "mustTryDe": "Pizza aus dem Holzofen, Pasta mit Seefisch",
+          "tipDe": "Ein verlässlicher Mittagsstopp, wenn Sie einen großen Hund haben, den andere Terrassen in der Hochsaison abweisen"
         },
         {
           "name": "My Dog. Gelateria e Pasticceria per Cani",
@@ -85,7 +99,11 @@
           "tipFr": "Idéal par un après-midi d'été chaud pour offrir une friandise fraîche à votre chien après une balade au bord du lac",
           "tipEs": "Ideal en una tarde calurosa de verano para darle a tu perro un capricho fresco tras un paseo junto al lago",
           "tipPt": "Ideal numa tarde quente de verão para dar ao seu cão um miminho fresco após um passeio à beira-lago",
-          "googleMapsUrl": "https://maps.google.com/?q=My+Dog+gelateria+per+cani+Sirmione"
+          "googleMapsUrl": "https://maps.google.com/?q=My+Dog+gelateria+per+cani+Sirmione",
+          "descriptionDe": "Eine Kuriosität, die man kennen sollte: eine Eisdiele und Konditorei, die vollständig Hunden gewidmet ist, mit hundesicherem Eis und Leckerlis sowie einem Außenbereich. Genau die Art von Stopp, die einen heißen Nachmittag am See für das vierbeinige Familienmitglied besonders macht. Zweibeiner können dazu einen Kaffee aus einer Bar nebenan genießen.",
+          "petPolicyDe": "Eigene Hunde-Eisdiele mit Außenbereich",
+          "mustTryDe": "Hundesicherer Eisbecher für Ihren Hund",
+          "tipDe": "Ideal an einem heißen Sommernachmittag, um Ihrem Hund nach einem Spaziergang am See eine kühle Erfrischung zu gönnen"
         }
       ],
       "tipsEn": [
@@ -163,6 +181,22 @@
           "q": "Posso comprar guloseimas para o meu cão em Sirmione?",
           "a": "Sim. A My Dog, na zona de Colombare, é uma gelataria e pastelaria feita inteiramente para cães, com gelados próprios e zona exterior, uma paragem divertida numa tarde quente."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Sirmione",
+      "introDe": "Sirmione liegt auf einer schmalen Halbinsel, die weit in den Gardasee hineinragt, und die Altstadt ist ein Labyrinth autofreier Gassen mit Terrassen über dem Wasser. Die italienische Restaurantkultur ist entspannt, was Hunde angeht, und die meisten Seeterrassen im centro storico setzen gerne einen angeleinten, wohlerzogenen Hund an den Tisch. Im Sommer kann die Hitze auf den Steinstraßen mittags sehr intensiv werden. Planen Sie daher ein frühes Mittagessen oder einen Abendtermin und bitten Sie das Personal um einen Wassernapf, den die meisten Lokale auf Nachfrage bereitstellen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Sirmione erlaubt?",
+          "a": "Ja. Die meisten Restaurants und Pizzerien in der autofreien Altstadt heißen angeleinte Hunde auf ihren Terrassen willkommen. Das Ristorante San Lorenzo akzeptiert ausdrücklich Hunde jeder Größe, was für größere Rassen praktisch ist."
+        },
+        {
+          "q": "Ist es im Sommer zu heiß, um mit Hund draußen zu essen?",
+          "a": "Mittags kann es auf den Steinstraßen von Sirmione im Juli und August sehr heiß werden. Wählen Sie ein frühes Mittagessen oder einen Abendtermin, suchen Sie sich eine schattige oder seenahe Terrasse und bringen Sie Wasser für Ihren Hund mit."
+        },
+        {
+          "q": "Kann ich in Sirmione Leckerlis für meinen Hund bekommen?",
+          "a": "Ja. My Dog im Stadtteil Colombare ist eine Eisdiele und Konditorei, die vollständig auf Hunde ausgerichtet ist, mit hundesicherem Eis und einem Außenbereich, ein schöner Zwischenstopp an einem heißen Nachmittag."
+        }
       ]
     },
     "parks": {
@@ -193,7 +227,10 @@
           "tipFr": "Allez-y tôt ou tard en été. L'enclos offre peu d'ombre et la chaleur monte vite à midi",
           "tipEs": "Ve temprano o tarde en verano. El recinto tiene poca sombra y el calor del mediodía sube rápido",
           "tipPt": "Vá cedo ou ao fim do dia no verão. O recinto tem pouca sombra e o calor do meio-dia sobe depressa",
-          "googleMapsUrl": "https://maps.google.com/?q=Dog+Park+Via+Coorti+Romane+Sirmione"
+          "googleMapsUrl": "https://maps.google.com/?q=Dog+Park+Via+Coorti+Romane+Sirmione",
+          "descriptionDe": "Ein eigens angelegter, eingezäunter Hundepark in der Via Coorti Romane im Stadtteil Colombare, in einem grünen Streifen zwischen dem Garda Village und dem Residence Holiday gelegen. Er verfügt über getrennte Bereiche für große und kleine Hunde, sodass Ihr Haustier sicher und ohne Verkehr ohne Leine laufen kann. Es ist der einzige eigens dafür vorgesehene Bereich in Sirmione und eine willkommene Abwechslung zur leinenpflichtigen Altstadt.",
+          "offLeashAreaDe": "Gesamter eingezäunter Park, mit getrennten Zonen für große und kleine Hunde",
+          "tipDe": "Gehen Sie im Sommer früh oder spät hin. Das Gehege bietet wenig Schatten, und die Mittagshitze steigt schnell"
         },
         {
           "name": "Parco Maria Callas & Tomelleri",
@@ -213,7 +250,10 @@
           "tipFr": "Combinez avec la promenade du lac pour une boucle ombragée plus longue au cœur de la péninsule",
           "tipEs": "Combínalo con el paseo junto al lago para un recorrido sombreado más largo en el corazón de la península",
           "tipPt": "Combine com o passeio à beira-lago para um circuito sombreado mais longo no coração da península",
-          "googleMapsUrl": "https://maps.google.com/?q=Parco+Maria+Callas+Sirmione"
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+Maria+Callas+Sirmione",
+          "descriptionDe": "Zwei kleine, gepflegte Parkanlagen mitten in der Altstadt, benannt unter anderem nach der Opernlegende Maria Callas, die einst in Sirmione lebte. Schattige Wege, Bänke und Seeblick machen sie zu einem ruhigen Ort für eine Pause auf einem angeleinten Spaziergang zwischen der Burg und der Halbinselspitze. Sie sind kompakt statt weitläufig, aber perfekt gelegen für eine schattige Verschnaufpause.",
+          "offLeashAreaDe": "Keiner. Im gesamten Stadtzentrum gilt Leinenpflicht",
+          "tipDe": "Kombinieren Sie den Besuch mit der Uferpromenade für eine längere, schattige Runde mitten auf der Halbinsel"
         },
         {
           "name": "Lakeside Promenade (Passeggiata a Lago)",
@@ -233,7 +273,10 @@
           "tipFr": "Parcourez-la avant 9h en été. Le soleil de midi sur les portions ouvertes est rude pour les pattes et les chiens",
           "tipEs": "Recórrelo antes de las 9h en verano. El sol del mediodía en los tramos abiertos es duro para las patas y los perros",
           "tipPt": "Percorra-o antes das 9h no verão. O sol do meio-dia nos troços abertos é duro para as patas e os cães",
-          "googleMapsUrl": "https://maps.google.com/?q=Passeggiata+a+lago+Sirmione"
+          "googleMapsUrl": "https://maps.google.com/?q=Passeggiata+a+lago+Sirmione",
+          "descriptionDe": "Die schattigen Uferwege rund um die Halbinsel, einschließlich des Panoramawegs vom Zentrum zum Lido delle Bionde und den Grotte di Catullo, sind der beste alltägliche Hundespaziergang in Sirmione. Sie sind flach, malerisch und teilweise durch Olivenhaine beschattet, mit häufigen Zugängen zum See, wo ein angeleinter Hund seine Pfoten abkühlen kann. Der frühe Morgen ist am kühlsten und ruhigsten, bevor die Tagesausflügler eintreffen.",
+          "offLeashAreaDe": "Keiner. Auf der Promenade müssen Hunde angeleint bleiben",
+          "tipDe": "Gehen Sie im Sommer vor 9 Uhr. Die Sonne auf den offenen Abschnitten ist mittags hart für Pfoten und Hunde"
         }
       ],
       "tipsEn": [
@@ -310,6 +353,22 @@
         {
           "q": "Os cães têm de andar com trela em Sirmione?",
           "a": "Sim. Segundo as regras italianas, os cães têm de andar com trela (máximo 1,5 m) em todas as zonas públicas urbanas, e o dono deve levar um açaime para colocar se necessário. Só o parque para cães de Colombare permite correr sem trela."
+        }
+      ],
+      "titleDe": "Hundeparks & Spaziergänge in Sirmione",
+      "introDe": "Sirmiones Grünflächen sind bescheiden in der Größe, aber wunderbar gelegen, zwischen römischen Ruinen, Olivenhainen und dem Seeufer. Die Stadt verfügt über einen richtigen eingezäunten Hundepark im Stadtteil Colombare mit getrennten Zonen für große und kleine Hunde, und die Uferpromenaden sind zugleich die besten Spazierwege. Nach italienischen Vorschriften müssen Hunde in allen öffentlichen Bereichen des Stadtzentrums angeleint sein, und ein Maulkorb sollte mitgeführt werden.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Sirmione einen Hundepark ohne Leinenzwang?",
+          "a": "Ja. In der Via Coorti Romane im Stadtteil Colombare gibt es einen eingezäunten Hundepark mit getrennten Bereichen für große und kleine Hunde. Es ist der einzige Bereich in der Stadt, in dem Hunde ohne Leine laufen dürfen."
+        },
+        {
+          "q": "Wo ist der beste Ort für einen Hundespaziergang in Sirmione?",
+          "a": "Die Uferpromenaden rund um die Halbinsel, einschließlich des Panoramawegs zum Lido delle Bionde und den Grotte di Catullo, sind flach, malerisch und teilweise schattig. Gehen Sie im Sommer früh, um Hitze und Menschenmengen zu vermeiden."
+        },
+        {
+          "q": "Müssen Hunde in Sirmione angeleint sein?",
+          "a": "Ja. Nach italienischen Vorschriften müssen Hunde in allen städtischen öffentlichen Bereichen angeleint sein (maximal 1,5 m), und Halter sollten bei Bedarf einen Maulkorb mitführen. Nur im Hundepark von Colombare dürfen Hunde ohne Leine laufen."
         }
       ]
     },
@@ -433,6 +492,22 @@
           "q": "Posso entrar de carro na cidade velha de Sirmione?",
           "a": "Em geral, não. O centro da península é uma ZTL 24 horas, com uma ZTL de verão mais rígida do final de março a meados de outubro de 2026. Estacione em Colombare ou no Grifo Parking e entre a pé ou na carrinha de 1 €; os cães com trela podem usá-la. Os hóspedes de hotéis dentro da ZTL podem pedir um passe de acesso."
         }
+      ],
+      "titleDe": "Mit Haustieren unterwegs in Sirmione",
+      "introDe": "Sirmione hat keinen eigenen Bahnhof, daher reisen die meisten Besucher mit dem Zug nach Desenzano del Garda an und legen die letzte Strecke mit Bus oder Taxi zurück. Die historische Altstadt auf der Halbinsel ist eine ganztägige Zone mit eingeschränktem Verkehr (ZTL), und im Sommer 2026 gilt von Ende März bis Mitte Oktober eine strengere ZTL mit nachmittäglicher Fußgängerzone. Planen Sie daher, außerhalb zu parken und zu Fuß oder per Shuttle hineinzufahren. Die schönste Art der Anreise ist die Fähre über den See, und Hunde sind an Bord willkommen, mit einfachen größenabhängigen Regeln.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf einer Gardasee-Fähre ab Sirmione mitnehmen?",
+          "a": "Ja. Navigazione Laghi erlaubt Hunde an Bord. Kleine Hunde (unter 50 cm Schulterhöhe) fahren kostenlos mit; mittelgroße und große Hunde zahlen eine Gebühr. Hunde müssen angeleint sein, und ein Maulkorb muss mitgeführt werden. Auf Schnellbooten sind nur Minihunde oder Katzen in einer Tasche auf dem Schoß erlaubt."
+        },
+        {
+          "q": "Wie komme ich mit öffentlichen Verkehrsmitteln und Hund nach Sirmione?",
+          "a": "Nehmen Sie den Zug nach Desenzano del Garda (Sirmione hat keinen eigenen Bahnhof), dann den Arriva-Bus oder ein Taxi für die letzten 8 km. Kleine Hunde fahren in einer Transportbox kostenlos im Zug mit; größere Hunde benötigen ein ermäßigtes Ticket und müssen angeleint und mit Maulkorb reisen."
+        },
+        {
+          "q": "Darf ich mit dem Auto in die Altstadt von Sirmione fahren?",
+          "a": "In der Regel nicht. Das Zentrum der Halbinsel ist eine ganztägige ZTL, mit einer strengeren Sommer-ZTL von Ende März bis Mitte Oktober 2026. Parken Sie bei Colombare oder im Grifo-Parkhaus und gehen Sie zu Fuß hinein oder nehmen Sie den Shuttle für 1 €; angeleinte Hunde dürfen mitfahren. Hotelgäste innerhalb der ZTL können einen Zufahrtsausweis beantragen."
+        }
       ]
     },
     "beaches": {
@@ -515,6 +590,18 @@
           "q": "Qual a melhor praia para cães de Sirmione com calor de verão?",
           "a": "O Lido delle Bionde tem sombra parcial dos terraços de oliveiras, e a praia Brema em Colombare é relvada com um recinto para cães por perto, ambas mais amenas do que a rocha branca exposta da Jamaica Beach. Vá de manhã cedo em julho e agosto, pois a laje calcária fica muito quente a meio do dia."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Sirmione",
+      "introDe": "Sirmione liegt am Gardasee, und mehrere seiner Strände heißen Hunde tatsächlich willkommen, eine willkommene Ausnahme an einem See, an dem viele lidi sie im Sommer komplett verbieten. In der Regel sind Hunde erlaubt und dürfen an den meisten Stränden Sirmiones schwimmen, solange sie angeleint sind, mit einer bemerkenswerten Ausnahme: Am Strand von Lugana sind Hunde am Ufer erlaubt, aber nicht im Wasser. Das Seewasser ist morgens am klarsten und die Felsen am kühlsten. Besuchen Sie den Strand im Juli und August daher früh, um Ihrem Hund die Mittagshitze zu ersparen, die vom weißen Gestein abstrahlt.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Sirmione hundefreundliche Strände?",
+          "a": "Ja. Hunde sind erlaubt und dürfen an den meisten Stränden Sirmiones angeleint schwimmen, darunter Jamaica Beach unterhalb der Grotte di Catullo, Lido delle Bionde und der Brema-Strand in Colombare. Die Ausnahme ist der Strand von Lugana, wo Hunde am Ufer erlaubt sind, aber nicht im Wasser."
+        },
+        {
+          "q": "Welcher Hundestrand in Sirmione eignet sich am besten bei großer Sommerhitze?",
+          "a": "Der Lido delle Bionde bietet teilweise Schatten durch Oliventerrassen, und der Brema-Strand in Colombare ist grasbewachsen mit einem nahegelegenen eingezäunten Hundeauslauf, beide angenehmer als das offene weiße Felsgelände der Jamaica Beach. Besuchen Sie den Strand im Juli und August früh morgens, da die Kalksteinflächen mittags sehr heiß werden."
+        }
       ]
     },
     "vets": {
@@ -562,7 +649,10 @@
           "tipEs": "Ideal para necesidades rutinarias en horario diurno. Llama antes, ya que cierra lunes y fines de semana",
           "tipPt": "Ideal para necessidades de rotina em horário diurno. Ligue antes, pois encerra às segundas e fins de semana",
           "googleMapsUrl": "https://maps.google.com/?q=Ambulatorio+Veterinario+Casella+Iuzzolino+Sirmione",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Di–Fr 10:00–13:00 & 16:00–19:00; geschlossen Mo, Sa, So",
+          "descriptionDe": "Die Tierarztpraxis in Sirmione selbst, in der Via Verona im Stadtteil Lugana, mit Allgemeinmedizin, Chirurgie, Laboranalysen, bildgebender Diagnostik und stationärer Aufnahme für Hunde und Katzen. Die praktischste Option für Routinebedarf wie eine Untersuchung, ein Rezept oder Reisedokumente während Ihres Aufenthalts. Sie hat tagsüber geöffnet und ist montags sowie am Wochenende geschlossen, also keine Option außerhalb der Öffnungszeiten.",
+          "tipDe": "Am besten für Routine- und Tagesbedarf geeignet. Rufen Sie vorher an, da montags und am Wochenende geschlossen ist"
         },
         {
           "name": "Clinica Veterinaria GardaVet",
@@ -584,7 +674,10 @@
           "tipEs": "Llama primero para pedir cita. Para verdaderas urgencias fuera de horario usa un veterinario a domicilio 24 horas",
           "tipPt": "Ligue primeiro para marcar. Para verdadeiras urgências fora de horas recorra a um veterinário ao domicílio 24 horas",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+GardaVet+Desenzano",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo–Fr 09:00–13:00 & 15:00–19:00, nach Vereinbarung",
+          "descriptionDe": "Eine vollwertige Tierklinik in Desenzano del Garda, etwa 8 km von Sirmione entfernt, mit einem breiteren Spektrum klinischer Leistungen als die kleine Praxis in Sirmione. Die naheliegende Wahl für alles, was über eine einfache Beratung hinausgeht, während Sie am unteren See wohnen. Besuche erfolgen nach Terminvereinbarung während der Wochentagsstunden, also keine Notfallzentrale außerhalb der Öffnungszeiten.",
+          "tipDe": "Rufen Sie zuerst für einen Termin an. Für echte Notfälle außerhalb der Öffnungszeiten nutzen Sie einen 24-Stunden-Hausbesuchstierarzt"
         },
         {
           "name": "TinaVet. 24h Home-Visit Vet (Lower Lake Garda)",
@@ -606,7 +699,10 @@
           "tipEs": "Guarda este número al llegar. Es la opción más práctica para una urgencia de noche o fin de semana cerca de Sirmione",
           "tipPt": "Guarde este número à chegada. É a opção mais prática para uma urgência de noite ou fim de semana perto de Sirmione",
           "googleMapsUrl": "https://maps.google.com/?q=TinaVet+veterinario+domicilio+Desenzano",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "24/7 Hausbesuchsservice",
+          "descriptionDe": "Ein rund um die Uhr verfügbarer Hausbesuchs-Tierarztservice von Dr. Tina Tomazic für den unteren Gardasee, einschließlich Sirmione, Desenzano, Peschiera und Salò. Für einen Notfall außerhalb der Öffnungszeiten, wenn die örtlichen Kliniken geschlossen sind, ist dies der praktische erste Anruf, wobei der Tierarzt zu Ihrem Hotel oder Ihrer Wohnung kommt. Bestätigen Sie die Abdeckung und die Anfahrtsgebühr telefonisch und schildern Sie die Situation klar, damit man sich vorbereiten kann.",
+          "tipDe": "Speichern Sie diese Nummer bei der Ankunft. Sie ist die praktischste Option für einen Notfall nachts oder am Wochenende in der Nähe von Sirmione"
         }
       ],
       "faqsEn": [
@@ -647,6 +743,18 @@
         {
           "q": "O que preciso para levar o meu cão a Sirmione vindo de outro país da UE?",
           "a": "Um passaporte europeu para animais, um microchip e a vacinação antirrábica em dia. Os animais de fora da UE precisam de um certificado sanitário da UE e, consoante o país de origem, de um teste serológico da raiva. Consulte as regras do Ministério da Saúde italiano antes de viajar."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Sirmione, Tierkliniken & Tierbetreuung",
+      "introDe": "Sirmione hat eine örtliche Tierarztpraxis, aber für klinische Versorgung und Behandlung außerhalb der Öffnungszeiten wenden sich die meisten Einwohner an das nahe gelegene Desenzano del Garda, etwa 8 km entfernt. Für EU-registrierte Haustiere ist ein gültiger EU-Heimtierausweis, ein Mikrochip und eine aktuelle Tollwutimpfung für die Einreise nach Italien erforderlich. Speichern Sie eine Notrufnummer, bevor Sie ankommen, da die nächsten besetzten Kliniken tagsüber geöffnet haben und Notfälle im unteren Seebereich häufig von einem 24-Stunden-Hausbesuchstierarzt übernommen werden.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Sirmione einen 24-Stunden-Tierarzt?",
+          "a": "Keine 24-Stunden-Anlaufklinik. Die Praxis in Sirmione und die Klinik GardaVet in Desenzano haben tagsüber geöffnet. Für Notfälle nachts oder am Wochenende ist die praktische Option ein 24-Stunden-Hausbesuchstierarzt wie TinaVet (+39 388 981 7003), der Sirmione und den unteren See abdeckt. Die landesweite Notrufnummer ist 112."
+        },
+        {
+          "q": "Was brauche ich, um meinen Hund aus einem anderen EU-Land nach Sirmione mitzubringen?",
+          "a": "Einen EU-Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung. Haustiere von außerhalb der EU benötigen eine EU-Gesundheitsbescheinigung und je nach Herkunftsland eventuell einen Tollwut-Antikörpertest. Prüfen Sie die Vorschriften des italienischen Gesundheitsministeriums vor der Reise."
         }
       ]
     },
@@ -761,6 +869,22 @@
           "q": "Os cães podem nadar no Lago de Garda em Sirmione?",
           "a": "Sim, na maioria das praias de Sirmione os cães podem nadar com trela, incluindo a Jamaica Beach, o Lido delle Bionde e a Brema. A exceção é a praia de Lugana, onde os cães são admitidos na margem mas não na água. Verifique sempre a sinalização no local."
         }
+      ],
+      "titleDe": "Hundefreundliche Tipps für Sirmione",
+      "introDe": "Sirmione ist einer der wirklich hundefreundlichsten Orte am Gardasee, mit mehreren Stränden, an denen Hunde schwimmen dürfen, und einer Stadt, die an vierbeinige Besucher gewöhnt ist. Die beiden Dinge, auf die Sie sich einstellen sollten, sind die Sommerhitze auf dem weißen Gestein und die autofreie ZTL-Altstadt. Ein paar örtliche Regeln und Gepflogenheiten, die Sie vor der Reise kennen sollten.",
+      "faqsDe": [
+        {
+          "q": "Ist Sirmione gut für Hunde geeignet?",
+          "a": "Ja. Sirmione ist eine der hundefreundlicheren Städte am Gardasee, mit mehreren Stränden, an denen Hunde schwimmen dürfen, einem eingezäunten Hundepark in Colombare, hundefreundlichen Restaurantterrassen und Hunden, die auf den Fähren willkommen sind. Die Hauptpunkte, auf die Sie achten müssen, sind die Sommerhitze und die autofreie Altstadt."
+        },
+        {
+          "q": "Was sollte ich für eine Reise nach Sirmione mit meinem Hund einpacken?",
+          "a": "Bringen Sie einen EU-Heimtierausweis, eine kurze Leine (max. 1,5 m), einen Maulkorb zum Mitführen für Transport und Fähren, Kotbeutel, einen faltbaren Wassernapf und einen Sonnenschutz oder eine Matte für die schattenlosen weißen Felsstrände mit. Planen Sie Strand- und Spaziergangzeiten im Sommer für den frühen Morgen."
+        },
+        {
+          "q": "Können Hunde am Gardasee in Sirmione schwimmen?",
+          "a": "Ja, an den meisten Stränden Sirmiones dürfen Hunde angeleint schwimmen, darunter Jamaica Beach, Lido delle Bionde und Brema. Die Ausnahme ist der Strand von Lugana, wo Hunde am Ufer erlaubt sind, aber nicht im Wasser. Prüfen Sie stets die Beschilderung vor Ort."
+        }
       ]
     },
     "attractions": {
@@ -798,7 +922,12 @@
           "tipFr": "Photographiez le pont-levis et le port depuis la piazza. C'est la vue emblématique et les chiens y sont admis",
           "tipEs": "Fotografía el puente levadizo y el puerto desde la plaza. Esa es la vista icónica y los perros son bienvenidos allí",
           "tipPt": "Fotografe a ponte levadiça e o porto a partir da praça. É a vista icónica e os cães são bem-vindos ali",
-          "googleMapsUrl": "https://maps.google.com/?q=Castello+Scaligero+Sirmione"
+          "googleMapsUrl": "https://maps.google.com/?q=Castello+Scaligero+Sirmione",
+          "descriptionDe": "Die von einem Wassergraben umgebene Scaliger-Burg aus dem 13. Jahrhundert steht am Eingangstor zur Altstadt, ihre Zugbrücke und der Hafen sind von Seewasser umgeben, einer der am besten erhaltenen befestigten Häfen Italiens. Angeleinte Hunde sind auf dem umliegenden Platz und entlang des Wassergrabens problemlos erlaubt, wo ohnehin die meisten fotogenen Ausblicke liegen. Sie dürfen nicht die Türme besteigen oder ins Burgmuseum, planen Sie also, die Burg von außen zu bewundern oder sich abzuwechseln.",
+          "dogPolicyDe": "Angeleinte Hunde auf dem Platz und um den Wassergraben willkommen. Nicht in den Türmen oder im Museum",
+          "admissionFeeDe": "Außenbereich kostenlos; Innenbereich ca. 8 € (Hunde dürfen nicht hinein)",
+          "openingHoursDe": "Di–So, Öffnungszeiten saisonal unterschiedlich; montags geschlossen",
+          "tipDe": "Fotografieren Sie die Zugbrücke und den Hafen vom Platz aus. Das ist der ikonische Blick, und Hunde sind dort willkommen"
         },
         {
           "name": "Grotte di Catullo",
@@ -825,7 +954,12 @@
           "tipFr": "Visitez le matin. Les terrasses ombragées d'oliviers offrent un répit à votre chien du soleil de midi",
           "tipEs": "Visita por la mañana. Las terrazas con sombra de olivos dan a tu perro un respiro del sol del mediodía",
           "tipPt": "Visite de manhã. Os terraços sombreados de oliveiras dão ao seu cão um descanso do sol do meio-dia",
-          "googleMapsUrl": "https://maps.google.com/?q=Grotte+di+Catullo+Sirmione"
+          "googleMapsUrl": "https://maps.google.com/?q=Grotte+di+Catullo+Sirmione",
+          "descriptionDe": "Ganz an der Spitze der Halbinsel liegen die Grotte di Catullo, die weitläufigen Überreste einer prächtigen römischen Villa inmitten uralter Olivenhaine mit weitem Seeblick, die bedeutendste römische Stätte Norditaliens. Hunde werden angeleint in den offenen archäologischen Park zugelassen, jedoch nicht in das Innenmuseum. Die schattigen Oliventerrassen und die Panoramawege machen dies zu einem der lohnendsten hundefreundlichen Besuche in Sirmione.",
+          "dogPolicyDe": "Hunde angeleint im archäologischen Park zugelassen. Nicht im Innenmuseum",
+          "admissionFeeDe": "ca. 8 € für Erwachsene; Ermäßigungen möglich",
+          "openingHoursDe": "Di–So, saisonale Öffnungszeiten; montags geschlossen",
+          "tipDe": "Besuchen Sie den Ort morgens. Die von Olivenbäumen beschatteten Terrassen verschaffen Ihrem Hund eine Pause von der Mittagssonne"
         },
         {
           "name": "Centro Storico & Lakeside Walk",
@@ -848,7 +982,11 @@
           "tipFr": "Allez-y tôt le matin ou après le départ des excursionnistes en fin d'après-midi pour la balade la plus calme avec votre chien",
           "tipEs": "Ve a primera hora de la mañana o cuando se van los excursionistas por la tarde para el paseo más tranquilo con tu perro",
           "tipPt": "Vá de manhã cedo ou depois de os visitantes de um dia partirem ao fim da tarde para o passeio mais tranquilo com o seu cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Centro+Storico+Sirmione"
+          "googleMapsUrl": "https://maps.google.com/?q=Centro+Storico+Sirmione",
+          "descriptionDe": "Abgesehen von den großen Sehenswürdigkeiten macht es Freude, mit Hund durch Sirmiones autofreie Altstadt zu schlendern, deren enge Gassen sich zu Plätzen, Eisdielen und Seeterrassen öffnen. Die Verbindung von Burg, den Parks Maria Callas und Tomelleri sowie der Panoramapromenade zur Halbinselspitze ergibt eine natürliche angeleinte Runde. Ohne Verkehr im Zentrum ist es ruhiger für Hunde als in den meisten italienischen Städten, auch wenn es zu Stoßzeiten sehr voll wird.",
+          "dogPolicyDe": "Angeleinte Hunde in der gesamten autofreien Altstadt willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Gehen Sie früh morgens oder nachdem die Tagesausflügler am Nachmittag abgereist sind, für den ruhigsten Spaziergang mit Ihrem Hund"
         }
       ],
       "tipsEn": [
@@ -894,6 +1032,14 @@
           "q": "Posso visitar o castelo e as ruínas romanas de Sirmione com o meu cão?",
           "a": "Em parte. Os cães com trela são bem-vindos à volta do exterior do Castelo Scaligero e no parque arqueológico ao ar livre das Grotte di Catullo, mas não dentro das torres do castelo nem dos museus cobertos. Como as melhores vistas são ao ar livre, ainda pode aproveitar quase toda Sirmione com o seu cão."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Sirmione",
+      "introDe": "Die wichtigsten Sehenswürdigkeiten Sirmiones liegen größtenteils im Freien, was einem Hund entgegenkommt. Die Scaliger-Burg bewacht den Eingang zur Altstadt, und die Grotte di Catullo, die weitläufigen Ruinen einer römischen Villa an der Halbinselspitze, liegen in einem von Olivenbäumen beschatteten archäologischen Park, in dem angeleinte Hunde draußen willkommen sind. Hunde dürfen nicht in den Burgturm oder die Museen, aber die Gassen, das Seeufer und die Ruinen zusammen ergeben einen lohnenden Tag zu Fuß mit Ihrem Haustier.",
+      "faqsDe": [
+        {
+          "q": "Kann ich die Burg und die römischen Ruinen von Sirmione mit meinem Hund besuchen?",
+          "a": "Teilweise. Angeleinte Hunde sind rund um das Äußere der Scaliger-Burg und im offenen archäologischen Park der Grotte di Catullo willkommen, aber nicht in den Burgtürmen oder den Innenräumen der Museen. Da die besten Ausblicke im Freien liegen, können Sie dennoch den größten Teil von Sirmione mit Ihrem Hund genießen."
+        }
       ]
     },
     "petsitting": {
@@ -925,7 +1071,10 @@
           "tipFr": "Écrivez-leur via le site quelques jours à l'avance en été pour réserver une place en garderie",
           "tipEs": "Escríbeles a través de la web unos días antes en verano para asegurar una plaza de guardería",
           "tipPt": "Escreva-lhes através do site com alguns dias de antecedência no verão para garantir uma vaga na creche",
-          "photo": ""
+          "photo": "",
+          "descriptionDe": "Ein Hundezentrum im Herzen von Sirmione, nahe am See, mit Hundetagesbetreuung, Hundesitting, Hundeschule sowie Agility- und Gehorsamstraining. Für Reisende ist es die naheliegendste Option, um den Hund für ein paar Stunden in qualifizierte Hände zu geben, während Sie das Burginnere besichtigen oder eine Bootstour unternehmen. Kontaktieren Sie das Zentrum vorab über die Website, um Verfügbarkeit und Preise zu bestätigen, besonders in den geschäftigen Sommermonaten.",
+          "serviceTypeDe": "Hundezentrum. Tagesbetreuung, Sitting, Training",
+          "tipDe": "Schreiben Sie im Sommer einige Tage vorher über die Website, um sich einen Platz für die Tagesbetreuung zu sichern"
         },
         {
           "name": "Pawshake Lake Garda",
@@ -947,7 +1096,10 @@
           "tipFr": "Contactez deux ou trois sitters avant de réserver pour confirmer qu'ils sont à l'aise avec la taille et l'énergie de votre chien",
           "tipEs": "Escribe a un par de cuidadores antes de reservar para confirmar que se sienten cómodos con el tamaño y la energía de tu perro",
           "tipPt": "Escreva a um ou dois cuidadores antes de reservar para confirmar que estão à vontade com o tamanho e a energia do seu cão",
-          "photo": ""
+          "photo": "",
+          "descriptionDe": "Pawshake ist eine Online-Plattform, die geprüfte örtliche Sitter, Hundeausführer und Gastfamilien in der gesamten Gardasee-Region auflistet, einschließlich Sirmione, Desenzano und Peschiera. Eine flexible Wahl für Reisende, die einen Sitter ins Hotel oder in die Wohnung kommen lassen oder einen Hund über Nacht unterbringen möchten. Sitter werden von früheren Kunden bewertet und sind über die Plattformversicherung abgedeckt, und Sie können nach Leistung, Hundegröße und Datum filtern.",
+          "serviceTypeDe": "Online-Buchung. Sitting, Gassigehen, Unterbringung",
+          "tipDe": "Schreiben Sie vor der Buchung mit ein paar Sittern, um zu bestätigen, dass sie mit der Größe und dem Temperament Ihres Hundes zurechtkommen"
         }
       ],
       "tipsEn": [
@@ -993,6 +1145,15 @@
           "q": "Quanto custa o pet sitting em Sirmione?",
           "a": "Em plataformas como a Pawshake, conte pagar cerca de 15 a 35 € por dia consoante o serviço, de um passeio curto a creche de dia ou alojamento de noite. Os centros para cães locais como a Dream Dog Sirmione indicam preços a pedido, por isso contacte-os diretamente, sobretudo na época alta de verão."
         }
+      ],
+      "titleDe": "Hundesitter & Tierbetreuung in Sirmione",
+      "introDe": "Da Hunde nicht in die Burgtürme oder die Innenmuseen dürfen, kann ein paar Stunden Tierbetreuung helfen, wenn Sie diese besichtigen oder eine Bootstour unternehmen möchten. Sirmione hat ein eigenes Hundezentrum mit Tagesbetreuung und Sitting, und internationale Buchungsplattformen listen örtliche Sitter im gesamten unteren Seegebiet auf. Buchen Sie im Sommer im Voraus, wenn die Verfügbarkeit knapper wird.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Hundebetreuung in Sirmione?",
+          "a": "Auf Plattformen wie Pawshake sollten Sie je nach Leistung mit etwa 15–35 € pro Tag rechnen, von einem kurzen Spaziergang bis zur ganztägigen Betreuung oder Übernachtung. Örtliche Hundezentren wie Dream Dog Sirmione nennen Preise auf Anfrage, kontaktieren Sie sie also direkt, besonders in der geschäftigen Sommersaison."
+        }
       ]
     }
-  }}
+  }
+}

@@ -39,7 +39,11 @@
           "tipFr": "Demandez la table dans la cour en été ; la Brunngasse intérieure est plus calme que la Rathausplatz et votre chien s'y reposera plus facilement.",
           "tipEs": "Pide mesa en el patio en verano; la interior Brunngasse es más tranquila que la Rathausplatz y tu perro descansará mejor.",
           "tipPt": "Peça mesa no pátio no verão; a interior Brunngasse é mais calma que a Rathausplatz e o seu cão descansará melhor.",
-          "googleMapsUrl": "https://maps.google.com/?q=Gasthof+Graf+Sankt+Polten"
+          "googleMapsUrl": "https://maps.google.com/?q=Gasthof+Graf+Sankt+Polten",
+          "descriptionDe": "Ein familiengeführtes niederösterreichisches Beisl einen Block vom Rathausplatz entfernt, das großzügiges Schnitzel, Tafelspitz und saisonales Wachauer Wild in zwei Gewölbestuben und einem kleinen Innenhof serviert. Die Inhaber halten einen Wassernapf an der Tür bereit und heißen ruhige Hunde sowohl innen als auch außen willkommen.",
+          "petPolicyDe": "Angeleinte Hunde im Innenhof und im inneren Gastraum willkommen; Wassernapf wird bereitgestellt",
+          "mustTryDe": "Wiener Schnitzel mit Erdäpfelsalat und ein Glas Traisentaler Grüner Veltliner",
+          "tipDe": "Bitten Sie im Sommer um den Tisch im Innenhof; die innere Brunngasse ist ruhiger als der Rathausplatz, und Ihr Hund wird sich dort leichter entspannen."
         },
         {
           "name": "Palais Wellenstein",
@@ -65,7 +69,11 @@
           "tipFr": "La terrasse se remplit vite les vendredis soirs quand la Riemerplatz accueille des concerts en plein air ; réservez une table latérale loin des enceintes.",
           "tipEs": "La terraza se llena rápido los viernes por la noche cuando la Riemerplatz acoge conciertos al aire libre; reserva una mesa lateral lejos de los altavoces.",
           "tipPt": "A esplanada enche rapidamente às sextas à noite quando a Riemerplatz recebe concertos ao ar livre; reserve uma mesa lateral longe das colunas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Palais+Wellenstein+Sankt+Polten"
+          "googleMapsUrl": "https://maps.google.com/?q=Palais+Wellenstein+Sankt+Polten",
+          "descriptionDe": "Ein stattliches Biedermeier-Palais, das zu einem ganztägigen Café und Restaurant am Fußgängerbereich Riemerplatz umgebaut wurde, mit einer schattigen Terrasse und einer italienisch geprägten Karte von Antipasti bis zu Wachauer Weinbegleitungen. Hunde gehören von den morgendlichen Espressi bis zum Abendessen zur festen Stammkundschaft.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse und im Innenbereich des Cafés willkommen",
+          "mustTryDe": "Vitello Tonnato und ein Glas Wachauer Riesling",
+          "tipDe": "Die Terrasse ist freitagabends schnell voll, wenn am Riemerplatz Open-Air-Konzerte stattfinden; reservieren Sie einen Seitentisch abseits der Lautsprecher."
         },
         {
           "name": "Steinerne Stiege",
@@ -91,7 +99,11 @@
           "tipFr": "Asseyez-vous au fond de la cour, le plus loin de l'entrée ; la partie avant capte le bruit de la Linzer Straße.",
           "tipEs": "Siéntate al fondo del patio, lejos de la entrada; la parte delantera capta el ruido de la Linzer Straße.",
           "tipPt": "Sente-se ao fundo do pátio, longe da entrada; a parte da frente capta o ruído da Linzer Straße.",
-          "googleMapsUrl": "https://maps.google.com/?q=Steinerne+Stiege+Sankt+Polten"
+          "googleMapsUrl": "https://maps.google.com/?q=Steinerne+Stiege+Sankt+Polten",
+          "descriptionDe": "Eine entspannte italienische Trattoria 3 Minuten vom Rathausplatz entfernt mit Pizza aus dem Holzofen, frischer Pasta und einem langen, weinbewachsenen Innenhof, der zu einem der entspanntesten hundefreundlichen Orte der Stadt zählt. Die Küche hat lange geöffnet, und das Personal hält stets einen Vorrat an Hundeleckerlis bereit.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse und in der Innensala willkommen; Leckerlis für freundliche Hunde angeboten",
+          "mustTryDe": "Pizza Tartufo und das hausgemachte Tiramisu",
+          "tipDe": "Setzen Sie sich hinten im Innenhof, am weitesten vom Eingang entfernt; der vordere Bereich bekommt den Verkehrslärm der Linzer Straße ab."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Posso levar o meu cão aos Heuriger do Traisental?",
           "a": "Sim, os cães com trela são bem-vindos nas esplanadas dos Heuriger das aldeias vinícolas do Traisental a 5-15 km a norte; os Buschenschank sazonais são particularmente descontraídos."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Sankt Pölten",
+      "introDe": "Die ruhige Landeshauptstadt Niederösterreichs trägt ihre Wachauer Weinidentität auch bei Tisch: Heurige, Beisln und italienisch geprägte Bistros säumen den Fußgängerbereich am Rathausplatz und Herrenplatz und heißen einen angeleinten Hund zu Ihren Füßen standardmäßig willkommen. Kurze Distanzen bedeuten, dass Sie von einem Mittagessen an der Traisen zu einem Abendessen am barocken Platz in unter zehn Minuten spazieren können.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde in Sankt Pölten in Restaurants mit hinein?",
+          "a": "Ja, angeleinte Hunde sind in der großen Mehrheit der Beisln und italienisch geprägten Restaurants im Innenbereich willkommen. Feine Restaurants bevorzugen mitunter die Terrasse, fragen Sie einfach an der Tür."
+        },
+        {
+          "q": "Stellen Restaurants Wassernäpfe bereit?",
+          "a": "Die meisten Terrassen am Rathausplatz und Riemerplatz bringen ungefragt einen Napf; die Bitte 'Wasser fürs Hunderl, bitte' funktioniert immer."
+        },
+        {
+          "q": "Kann ich meinen Hund zu den Heurigen im Traisental mitnehmen?",
+          "a": "Ja, angeleinte Hunde sind auf den Heurigenterrassen in den Weindörfern des Traisental, 5-15 km nördlich, willkommen; die saisonalen Buschenschank-Pavillons sind besonders entspannt."
+        }
       ]
     },
     "parks": {
@@ -205,7 +233,11 @@
           "tipFr": "Démarrez à la passerelle de la Promenade pour une boucle plate de 60 minutes au nord vers le Viehofener See et retour ; le tronçon avant 9h est le plus calme.",
           "tipEs": "Empieza en la pasarela de la Promenade para un circuito plano de 60 minutos al norte hasta el Viehofener See y vuelta; el tramo antes de las 9:00 es el más tranquilo.",
           "tipPt": "Comece na passarela da Promenade para um circuito plano de 60 minutos a norte até ao Viehofener See e volta; o troço antes das 9:00 é o mais calmo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Traisenpark+Sankt+Polten"
+          "googleMapsUrl": "https://maps.google.com/?q=Traisenpark+Sankt+Polten",
+          "descriptionDe": "Die Ufer der Traisen wurden zu einer durchgehenden Parkachse umgestaltet, die 4 km durch die Stadt führt, mit breiten Schotterwegen, Baumschatten und direktem Wasserzugang für einen kurzen Sprung ins Wasser. Der ausgeschilderte Traisental-Radweg R26 folgt demselben Korridor, halten Sie sich also rechts und die Leine kurz auf belebten Abschnitten.",
+          "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen; Freilauf nur innerhalb ausgeschilderter Hundezonen",
+          "facilitiesDe": "Sitzbänke, Mülleimer, Wasserzugang an flachen Ufern, kostenloser Parkplatz bei der Promenade",
+          "tipDe": "Starten Sie an der Fußgängerbrücke Promenade für eine flache, 60-minütige Runde nordwärts zum Viehofener See und zurück; der Abschnitt am frühen Morgen vor 9:00 Uhr ist am ruhigsten."
         },
         {
           "name": "Hammerpark",
@@ -231,7 +263,11 @@
           "tipFr": "Garez-vous à l'entrée ouest depuis la B1 ; l'entrée est est plus proche des rues résidentielles et s'anime avec les enfants après l'école.",
           "tipEs": "Aparca en la entrada oeste desde la B1; la entrada este está más cerca de calles residenciales y se anima con niños tras la escuela.",
           "tipPt": "Estacione na entrada oeste a partir da B1; a entrada leste está mais perto de ruas residenciais e anima-se com crianças após a escola.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hammerpark+Sankt+Polten"
+          "googleMapsUrl": "https://maps.google.com/?q=Hammerpark+Sankt+Polten",
+          "descriptionDe": "Ein 12 Hektar großer Waldpark östlich der Altstadt mit alten Eichen, schleifenförmigen Schotterwegen und einem kleinen Waldteich. Weniger gepflegt als der Traisenpark und ein Favorit der Einheimischen für 30- bis 45-minütige Morgenspaziergänge mit ihren Hunden.",
+          "petPolicyDe": "Im Hauptpark angeleint; gut trainierte Hunde mit starkem Rückruf werden auf ruhigeren Waldschleifen ohne Leine toleriert",
+          "facilitiesDe": "Sitzbänke, Mülleimer, Parkplätze an der Hammerparkstraße",
+          "tipDe": "Parken Sie am westlichen Eingang an der B1; der östliche Eingang liegt näher an Wohnstraßen und ist nach der Schule mit Kindern belebter."
         },
         {
           "name": "Hundezone Viehofen",
@@ -257,7 +293,11 @@
           "tipFr": "Venez avant 10h les samedis d'été pour éviter les baigneurs ; la zone canine se remplit dès que la plage se garnit.",
           "tipEs": "Visita antes de las 10:00 los sábados de verano para evitar a los bañistas; la zona canina se llena cuando la playa se anima.",
           "tipPt": "Visite antes das 10:00 aos sábados de verão para evitar os banhistas; a zona canina enche assim que a praia se anima.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hundezone+Viehofen+Sankt+Polten"
+          "googleMapsUrl": "https://maps.google.com/?q=Hundezone+Viehofen+Sankt+Polten",
+          "descriptionDe": "Ausgeschilderte, eingezäunte Freilaufzone neben dem Badesee Viehofener See, mit einer gemischten Gras- und Kiesfläche und einer kleinen Wassertränke. Eine von zwei städtischen Hundezonen und mit rund 2.000 m² die größte.",
+          "petPolicyDe": "Innerhalb des Zauns ohne Leine; auf dem Weg zum und vom See angeleint",
+          "facilitiesDe": "Wassertränke, Mülleimer, Sitzbänke",
+          "tipDe": "Besuchen Sie den Ort an Sommersamstagen vor 10:00 Uhr, um den Andrang der Badegäste zu vermeiden; die Hundezone wird voll, sobald sich der Strand füllt."
         }
       ],
       "tipsEn": [
@@ -335,6 +375,22 @@
           "q": "O trilho do Traisen é bom para passear o cão?",
           "a": "Sim, o corredor do Traisenpark de 4 km é plano, sombreado e o passeio com trela mais popular da cidade; partilhado com ciclistas da R26."
         }
+      ],
+      "titleDe": "Die besten hundefreundlichen Parks in Sankt Pölten",
+      "introDe": "Sankt Pöltens Grünflächennetz folgt der Traisen von Süden nach Norden durch die gesamte Stadt, steigt in die Wälder des Hammerparks östlich des Zentrums an und reicht bis zum Viehofener See 3 km nördlich. Zwei ausgeschilderte Hundezonen (Spratzern und Viehofen) bieten eingezäunten Freilaufraum, während der Uferweg im Traisenpark der alltägliche Spaziergang mit Leine ist, den Einheimische bevorzugen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Freilaufbereiche in Sankt Pölten?",
+          "a": "Ja, zwei ausgeschilderte Hundezonen in Viehofen (neben dem See) und in Spratzern; beide sind eingezäunte Bereiche und keine offenen Parks."
+        },
+        {
+          "q": "Darf mein Hund im Viehofener See schwimmen?",
+          "a": "Hunde sind im kostenpflichtigen Strandbad-Bereich nicht erlaubt, dürfen aber von den frei zugänglichen Schilfufern im Norden nahe der Hundezone aus schwimmen."
+        },
+        {
+          "q": "Ist der Traisen-Uferweg gut zum Gassigehen geeignet?",
+          "a": "Ja, der 4 km lange Traisenpark-Korridor ist flach, schattig und der beliebteste Leinenspaziergang der Stadt; er wird mit Radfahrern auf der Strecke R26 geteilt."
+        }
       ]
     },
     "transport": {
@@ -361,7 +417,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; chiens plus grands demi-tarif + muselière",
           "petPolicyEs": "Perros pequeños en transportín gratis; perros grandes medio billete + bozal",
           "petPolicyPt": "Cães pequenos em transportadora grátis; cães grandes meio bilhete + açaime",
-          "googleMapsUrl": "https://maps.google.com/?q=Hauptbahnhof+Sankt+Polten"
+          "googleMapsUrl": "https://maps.google.com/?q=Hauptbahnhof+Sankt+Polten",
+          "descriptionDe": "Der Linien- und Umweltverbund Pöltinger (LUP) betreibt acht Buslinien, die den Hauptbahnhof, den Rathausplatz, Spratzern, Viehofen und das Regierungsviertel verbinden. Kleine Hunde in Transportboxen fahren kostenlos mit; größere Hunde benötigen ein ermäßigtes Ticket und einen Maulkorb.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde ermäßigtes Ticket + Maulkorb"
         },
         {
           "name": "ÖBB Railjet (Sankt Pölten Hauptbahnhof)",
@@ -377,7 +435,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens demi-tarif + muselière",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes a medio billete + bozal",
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes a meio bilhete + açaime",
-          "googleMapsUrl": "https://maps.google.com/?q=Sankt+Polten+Hauptbahnhof"
+          "googleMapsUrl": "https://maps.google.com/?q=Sankt+Polten+Hauptbahnhof",
+          "descriptionDe": "Der Hauptbahnhof Sankt Pölten ist eine wichtige Haltestelle an der Westbahnstrecke Wien-Salzburg, mit Railjet-Verbindungen, die den Wiener Hauptbahnhof in 25 Minuten, Linz in 1 Stunde und Salzburg in 2 Stunden erreichen. Kleine Hunde reisen kostenlos in einer geschlossenen Transportbox; größere Hunde benötigen ein ermäßigtes Ticket und einen Maulkorb in gemeinsam genutzten Abteilen.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde ermäßigt + Maulkorb"
         },
         {
           "name": "VOR Wachau regional buses",
@@ -393,7 +453,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens demi-tarif + muselière sur sièges partagés",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes a medio billete + bozal en asientos compartidos",
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes a meio bilhete + açaime em assentos partilhados",
-          "googleMapsUrl": "https://maps.google.com/?q=ZOB+Sankt+Polten"
+          "googleMapsUrl": "https://maps.google.com/?q=ZOB+Sankt+Polten",
+          "descriptionDe": "Das regionale VOR-Busnetz verkehrt vom zentralen ZOB nach Krems, Dürnstein, Spitz und den Weindörfern der Wachau, 30-45 Minuten nördlich, mit denselben bundesweiten Regeln für Haustiere: kleine Hunde in Transportbox kostenlos, größere Hunde ermäßigt und mit Maulkorb.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde ermäßigt + Maulkorb auf gemeinsamen Sitzplätzen"
         }
       ],
       "faqsEn": [
@@ -450,6 +512,22 @@
         {
           "q": "Sankt Pölten tem aeroporto próprio?",
           "a": "Não, o aeroporto internacional mais próximo é Viena VIE, a 60 km a leste; ÖBB Railjet liga a estação de VIE a Sankt Pölten em cerca de 50 minutos com uma mudança."
+        }
+      ],
+      "titleDe": "Öffentliche Verkehrsmittel in Sankt Pölten mit Hund",
+      "introDe": "Sankt Pölten lässt sich zu Fuß in 20 Minuten durchqueren, doch das städtische LUP-Busnetz, die regionalen VOR-Wiener-Linien-Verbindungen und die ÖBB-Railjet-Züge verbinden die Stadt mit Wien (25 Min.), Linz (1 Std.) und den Weindörfern der Wachau, jeweils nach einheitlichen bundesweiten Regeln für Haustiere. Kleine Hunde in Transportboxen fahren kostenlos mit; größere Hunde zahlen ein ermäßigtes Ticket und müssen im öffentlichen Verkehr einen Maulkorb tragen.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich in den Bussen von Sankt Pölten einen Maulkorb für meinen Hund?",
+          "a": "Ja, größere Hunde ohne Transportbox müssen in LUP- und VOR-Bussen einen Maulkorb tragen. Kleine Hunde in geschlossenen Transportboxen sind davon ausgenommen."
+        },
+        {
+          "q": "Kann ich meinen Hund im Railjet nach Wien mitnehmen?",
+          "a": "Ja, kleine Hunde in einer Transportbox reisen kostenlos; größere Hunde benötigen ein ermäßigtes Ticket und einen Maulkorb in gemeinsam genutzten Abteilen. Die Fahrt nach Wien dauert 25 Minuten."
+        },
+        {
+          "q": "Hat Sankt Pölten einen eigenen Flughafen?",
+          "a": "Nein, der nächste internationale Flughafen ist Wien VIE, 60 km östlich; die ÖBB-Railjet-Verbindung bringt Sie vom Bahnhof VIE in etwa 50 Minuten mit einmal Umsteigen nach Sankt Pölten."
         }
       ]
     },
@@ -549,6 +627,22 @@
           "q": "Qual é a época mais quente para nadar?",
           "a": "De meados de junho a início de setembro; os lagos de saibreira aquecem mais rápido que o Danúbio e atingem 22-24 graus em finais de julho."
         }
+      ],
+      "titleDe": "Hundefreundliche Seen und Flusszugänge bei Sankt Pölten",
+      "introDe": "Sankt Pölten liegt im Landesinneren, doch die Traisen und eine Reihe ehemaliger Schottergrubenseen geben Hunden im Umkreis von 5 km um das Zentrum eine echte Schwimmgelegenheit. Der Viehofener See und der Ratzersdorfer See haben beide inoffizielle Schilfufer, an denen angeleinte Hunde ins Wasser waten können, während die Donau bei Tulln (35 km nordöstlich) ausgeschilderte Hundestrand-Optionen bietet.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde im Viehofener See schwimmen?",
+          "a": "Ja, aber nur vom kostenlosen Schilfufer im Norden nahe der Hundezone; der kostenpflichtige Strandbad-Bereich am Südufer schließt Hunde aus."
+        },
+        {
+          "q": "Gibt es einen ausgeschilderten Hundestrand nahe Sankt Pölten?",
+          "a": "Der nächste ausgeschilderte Hundestrand liegt in Tulln an der Donau, 35 Autominuten nordöstlich; näher gelegene Optionen (Viehofener See, Ratzersdorfer See) werden geduldet, sind aber nicht ausgeschildert."
+        },
+        {
+          "q": "Wann ist die wärmste Badesaison?",
+          "a": "Mitte Juni bis Anfang September; Schottergrubenseen erwärmen sich schneller als die Donau und erreichen Ende Juli 22-24 Grad."
+        }
       ]
     },
     "vets": {
@@ -596,7 +690,12 @@
           "tipFr": "Garez-vous sur le parvis du bâtiment depuis la Mariazeller Straße ; la rue elle-même est un axe sud sans arrêt en bordure.",
           "tipEs": "Aparca en el patio delantero del edificio desde la Mariazeller Straße; la calle es una arteria sur sin parada en el bordillo.",
           "tipPt": "Estacione no pátio frontal do edifício a partir da Mariazeller Straße; a rua é uma artéria sul sem paragem na berma.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierarztzentrum+St+Polten"
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarztzentrum+St+Polten",
+          "hoursDe": "Mo-Fr 8:00-20:00 Uhr; Sa 9:00-13:00 Uhr; abends über 1450 diensthabend",
+          "descriptionDe": "Das umfassendste Tierarztzentrum innerhalb der Stadt, mit fünf Tierärzten, digitaler Bildgebung, Chirurgie und Zahnbehandlungen. Das Team nimmt während der Öffnungszeiten Notfälle ohne Termin an und verweist bei nächtlichen Fällen an Hollabrunn.",
+          "petPolicyDe": "Notfälle ohne Termin während der Öffnungszeiten; außerhalb 1450 anrufen",
+          "servicesDe": "Chirurgie, Bildgebung, Zahnmedizin, Innere Medizin, EU-Heimtierausweis",
+          "tipDe": "Parken Sie im Vorplatz des Gebäudes an der Mariazeller Straße; die Straße selbst ist eine wichtige Ausfallstraße nach Süden ohne Halten am Straßenrand."
         },
         {
           "name": "Tierarztpraxis Dr. Hoffmann",
@@ -632,7 +731,12 @@
           "tipFr": "Réservez le créneau 8h pour un contrôle passeport européen le jour même avant un road trip Wachau ou Slovaquie.",
           "tipEs": "Reserva el hueco de las 8:00 para un control de pasaporte UE el mismo día antes de un road trip por la Wachau o Eslovaquia.",
           "tipPt": "Reserve o slot das 8:00 para um controlo de passaporte UE no mesmo dia antes de uma road trip pela Wachau ou Eslováquia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierarzt+Hoffmann+Sankt+Polten"
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarzt+Hoffmann+Sankt+Polten",
+          "hoursDe": "Mo-Fr 8:00-12:00 und 15:00-18:00 Uhr; am Wochenende geschlossen",
+          "descriptionDe": "Eine zentrale Allgemeinpraxis in der Altstadt, 5 Minuten vom Rathausplatz entfernt, ideal für Auffrischungsimpfungen, EU-Heimtierausweis-Stempel und kleinere nicht dringende Beratungen. Verweist bei Behandlungen außerhalb der Öffnungszeiten und bei chirurgischen Fällen an das Tierarztzentrum St. Pölten oder Hollabrunn.",
+          "petPolicyDe": "Termine bevorzugt; ohne Termin zwischen gebuchten Slots möglich",
+          "servicesDe": "Impfungen, EU-Heimtierausweis, Allgemeinmedizin, kleinere Eingriffe",
+          "tipDe": "Buchen Sie den 8:00-Uhr-Termin für eine EU-Heimtierausweis-Prüfung am selben Tag vor einem Ausflug in die Wachau oder über die slowakische Grenze."
         },
         {
           "name": "Niederösterreichischer Tierärztlicher Notdienst (1450)",
@@ -668,7 +772,12 @@
           "tipFr": "Enregistrez le 1450 dans votre téléphone avant l'arrivée ; la ligne couvre toute la Basse-Autriche et fonctionne depuis toute SIM ou ligne fixe autrichienne.",
           "tipEs": "Guarda el 1450 en tu teléfono antes de llegar; la línea cubre toda Baja Austria y funciona desde cualquier SIM o fija austriaca.",
           "tipPt": "Guarde o 1450 no telefone antes de chegar; a linha cobre toda a Baixa Áustria e funciona a partir de qualquer SIM ou fixo austríaco.",
-          "googleMapsUrl": "https://maps.google.com/?q=Sankt+Polten"
+          "googleMapsUrl": "https://maps.google.com/?q=Sankt+Polten",
+          "hoursDe": "24/7 telefonische Triage; leitet an den nächsten diensthabenden Tierarzt weiter",
+          "descriptionDe": "Der offizielle tierärztliche Notdienst Niederösterreichs ist rund um die Uhr unter der Nummer 1450 von jedem österreichischen Telefon aus erreichbar; die Mitarbeiter führen die Triage auf Deutsch und Englisch durch und entsenden den diensthabenden Tierarzt für Sankt Pölten und die umliegenden Bezirke. Wird bei nächtlichen Notfällen genutzt, wenn das Tierarztzentrum St. Pölten geschlossen ist.",
+          "petPolicyDe": "Nur telefonische Triage; entsendet den nächsten Tierarzt oder verweist an die nächste 24-Stunden-Klinik",
+          "servicesDe": "Telefonische Triage, Entsendung, Verweis an 24-Stunden-Einrichtungen",
+          "tipDe": "Speichern Sie die Nummer 1450 vor der Anreise in Ihrem Telefon; die Leitung deckt ganz Niederösterreich ab und funktioniert mit jeder österreichischen SIM-Karte oder Festnetznummer."
         }
       ],
       "faqsEn": [
@@ -725,6 +834,22 @@
         {
           "q": "Posso obter um passaporte UE antes de atravessar para a Eslováquia ou Hungria?",
           "a": "Sim, as duas clínicas listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."
+        }
+      ],
+      "titleDe": "Tierärztliche Notdienste in Sankt Pölten",
+      "introDe": "Sankt Pölten verfügt über ein starkes tierärztliches Tagesnetz rund um die Altstadt, dazu die regionale 24-Stunden-Überweisungsklinik Tierklinik Hollabrunn 50 Minuten nördlich und das privat geführte Tierarztzentrum St. Pölten für die Versorgung außerhalb der Öffnungszeiten. Die bundesweite tierärztliche Notrufnummer 1450 (Tierärztlicher Notdienst Niederösterreich) leitet nächtliche Anrufe an den nächsten diensthabenden Tierarzt weiter.",
+      "faqsDe": [
+        {
+          "q": "Wo ist die nächste 24-Stunden-Tierarztpraxis in Sankt Pölten?",
+          "a": "Innerhalb der Stadtgrenzen gibt es kein durchgehend geöffnetes 24-Stunden-Krankenhaus; rufen Sie 1450 für den diensthabenden Tierarzt Niederösterreichs an, der nach Sankt Pölten entsendet oder an die Tierklinik Hollabrunn 50 Minuten nördlich verweist."
+        },
+        {
+          "q": "Sprechen die Tierärzte in Sankt Pölten Englisch?",
+          "a": "Ja, im Tierarztzentrum St. Pölten und bei Hoffmann; die leitenden Tierärzte sind fließend, und die Triage-Mitarbeiter der Nummer 1450 nehmen auch englischsprachige Anrufe entgegen."
+        },
+        {
+          "q": "Kann ich vor der Einreise in die Slowakei oder nach Ungarn einen EU-Heimtierausweis bekommen?",
+          "a": "Ja, beide genannten Kliniken stellen EU-Heimtierausweise aus und aktualisieren sie. Für gesunde Hunde sind meist noch am selben Tag Termine verfügbar."
         }
       ]
     },
@@ -821,6 +946,22 @@
           "q": "Qual é o melhor mês para Sankt Pölten com cão?",
           "a": "Maio, junho e setembro: temperaturas agradáveis, esplanadas Heuriger a todo o vapor no Traisental e na Wachau, e a multidão do Frequency Festival em finais de agosto a evitar."
         }
+      ],
+      "titleDe": "Haustierfreundliche Tipps für einen Besuch in Sankt Pölten",
+      "introDe": "Sankt Pölten ist eine der einfachsten Haustierreise-Basen Niederösterreichs: kompakte Fußgängerzone in der Altstadt, bundesweite österreichische Listenhunde-Regeln, die Traisen mitten durch die Stadt und nur 25 Minuten mit dem Railjet nach Wien. Planen Sie um das Frequency Festival Ende August am nahen Salzburgring herum, falls Ihr Hund Menschenmengen nicht mag, und legen Sie Tagesausflüge in die Weindörfer der Wachau in die Nebensaison, wenn Dürnstein und Spitz gut angeleint begehbar sind.",
+      "faqsDe": [
+        {
+          "q": "Ist Sankt Pölten eine gute Basis für einen haustierfreundlichen Urlaub in Niederösterreich?",
+          "a": "Ja, die Kombination aus kompakter Altstadt, Spaziergängen an der Traisen, Tagesausflügen in die Weindörfer der Wachau und der 25-minütigen Railjet-Verbindung nach Wien macht die Stadt zu einer der einfachsten Haustierbasen der Region."
+        },
+        {
+          "q": "Brauche ich in der Öffentlichkeit in Sankt Pölten einen Maulkorb?",
+          "a": "Niederösterreich verlangt in der Öffentlichkeit Leine oder Maulkorb; in der Praxis genügt außerhalb der zentralen Fußgängerzone eine Leine, während gut erzogene angeleinte Hunde dort ohnehin die Regel sind."
+        },
+        {
+          "q": "Welcher Monat eignet sich am besten für Sankt Pölten mit Hund?",
+          "a": "Mai, Juni und September: angenehme Temperaturen, Heurigenterrassen im Traisental und in der Wachau in voller Saison, und die Menschenmengen des Frequency Festivals Ende August lassen sich am besten vermeiden."
+        }
       ]
     },
     "attractions": {
@@ -854,7 +995,11 @@
           "tipFr": "Parcourez la place au crépuscule quand les façades pastel captent la lumière chaude et que les terrasses sont les plus animées ; idéal pour un chien spectateur.",
           "tipEs": "Recorre la plaza al atardecer cuando las fachadas pastel captan la luz cálida y las terrazas están más animadas; ideal para un perro espectador.",
           "tipPt": "Percorra a praça ao crepúsculo quando as fachadas pastel captam a luz quente e as esplanadas estão mais animadas; ideal para um cão espectador.",
-          "googleMapsUrl": "https://maps.google.com/?q=Rathausplatz+Sankt+Polten"
+          "googleMapsUrl": "https://maps.google.com/?q=Rathausplatz+Sankt+Polten",
+          "descriptionDe": "Der lange Fußgängerbereich Rathausplatz ist das bürgerliche Herz von Sankt Pölten, gesäumt von barocken Fassaden, einem Rathausturm aus dem 15. Jahrhundert und Cafeterrassen. Der gesamte Platz ist Fußgängerzone und heißt angeleinte Hunde Tag und Nacht willkommen.",
+          "dogPolicyDe": "Angeleinte Hunde rund um die Uhr willkommen; die Arkadenseiten spenden an heißen Tagen Schatten",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Spazieren Sie in der Abenddämmerung über den Platz, wenn die pastellfarbenen Fassaden warmes Licht einfangen und die Cafeterrassen am belebtesten sind, perfekt zum Hundebeobachten."
         },
         {
           "name": "Klangturm and Government Quarter",
@@ -877,7 +1022,11 @@
           "tipFr": "Le toit du Klangturm offre le meilleur coucher de soleil sur le Wienerwald ; les petits chiens en laisse sont bienvenus, les plus grands se sentent mieux sur la vaste place extérieure en bas.",
           "tipEs": "La azotea del Klangturm ofrece la mejor puesta de sol sobre el Wienerwald; los perros pequeños con correa son bienvenidos y los más grandes están mejor en la amplia plaza exterior abajo.",
           "tipPt": "O terraço do Klangturm oferece o melhor pôr do sol sobre o Wienerwald; os cães pequenos com trela são bem-vindos e os maiores estão melhor na ampla praça exterior em baixo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Klangturm+Sankt+Polten"
+          "googleMapsUrl": "https://maps.google.com/?q=Klangturm+Sankt+Polten",
+          "descriptionDe": "Niederösterreich verlegte 1997 seinen Landtag nach Sankt Pölten und errichtete an der Traisen ein markantes modernes Viertel nach Entwürfen von Hans Hollein und Ernst Hoffmann. Der 77 m hohe Panoramaturm Klangturm verfügt über eine Dachterrasse, die neben der öffentlichen Aussichtsplattform auch angeleinte Hunde zulässt.",
+          "dogPolicyDe": "Angeleinte Hunde auf den Außenplätzen und der Klangturm-Dachterrasse willkommen; in den Museumsräumen nur Assistenzhunde",
+          "admissionFeeDe": "Außenplatz kostenlos; Klangturm-Dachterrasse 4 EUR",
+          "tipDe": "Die Klangturm-Dachterrasse bietet den besten Blick auf den Sonnenuntergang über dem Wienerwald; kleine angeleinte Hunde sind willkommen, größere Hunde fühlen sich auf dem weiten Außenplatz darunter wohler."
         },
         {
           "name": "Dürnstein Wachau Day Trip",
@@ -900,7 +1049,11 @@
           "tipFr": "Garez-vous gratuitement sur le parking inférieur au bord du fleuve et montez à pied ; l'entrée haute du village est payante et engorgée dès 11h les weekends d'été.",
           "tipEs": "Aparca gratis en el parking inferior junto al río y sube a pie; la entrada superior del pueblo es de pago y se congestiona desde las 11:00 los fines de semana de verano.",
           "tipPt": "Estacione grátis no parque inferior junto ao rio e suba a pé; a entrada superior da aldeia é paga e congestiona-se desde as 11:00 aos fins de semana de verão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Durnstein+Wachau"
+          "googleMapsUrl": "https://maps.google.com/?q=Durnstein+Wachau",
+          "descriptionDe": "Der blau-weiße Barockturm von Dürnstein erhebt sich über der Donau im Herzen des Weinbautals Wachau, 45 Minuten nördlich von Sankt Pölten. Die Uferpromenade, die Burgruine auf dem Hügel (in der Richard Löwenherz gefangen gehalten wurde) und die Heurigenterrassen heißen alle angeleinte Hunde willkommen.",
+          "dogPolicyDe": "Angeleinte Hunde in den Dorfstraßen, an der Burgruine und auf den meisten Heurigenterrassen willkommen",
+          "admissionFeeDe": "Dorf kostenlos; Burgruine 4 EUR",
+          "tipDe": "Parken Sie kostenlos am unteren Parkplatz am Fluss und gehen Sie hinauf; der obere Dorfeingang hat kostenpflichtige Parkplätze und ist an Sommerwochenenden ab 11:00 Uhr überlaufen."
         }
       ],
       "tipsEn": [
@@ -978,6 +1131,22 @@
           "q": "O meu cão pode andar na Mariazellerbahn de via estreita?",
           "a": "Sim, a histórica Mariazellerbahn NÖVOG de Sankt Pölten a Mariazell aceita cães pequenos em transportadora grátis e os maiores com meio bilhete e açaime."
         }
+      ],
+      "titleDe": "Top hundefreundliche Sehenswürdigkeiten in Sankt Pölten",
+      "introDe": "Sankt Pöltens Fußgängerzone in der Altstadt belohnt eine gemütliche Runde an der Leine: Rathausplatz, Herrenplatz, Riemerplatz und der barocke Domplatz lassen sich in 90 Minuten verbinden. Außerhalb des Zentrums verlängern das moderne Regierungsviertel an der Traisen, der Panoramaturm Klangturm und die Freiluftgärten von Schallaburg den Tag für aktive Hunde.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in den Kirchen von Sankt Pölten erlaubt?",
+          "a": "Nur Assistenzhunde dürfen den barocken Dom und andere Kirchen betreten; angeleinte Haustiere sind auf dem umliegenden Domplatz willkommen."
+        },
+        {
+          "q": "Eignet sich die Wachau als Tagesausflug mit Hund?",
+          "a": "Ja, Dürnstein, Spitz und Krems akzeptieren alle angeleinte Hunde in den Dorfstraßen und auf den Heurigenterrassen; der Donauradweg zwischen den Orten ist durchgehend hundefreundlich."
+        },
+        {
+          "q": "Darf mein Hund mit der Mariazellerbahn-Schmalspurbahn mitfahren?",
+          "a": "Ja, die historische NÖVOG Mariazellerbahn von Sankt Pölten nach Mariazell nimmt kleine Hunde in Transportboxen kostenlos mit, größere Hunde mit ermäßigtem Ticket und Maulkorb."
+        }
       ]
     },
     "petsitting": {
@@ -1007,7 +1176,10 @@
           "servicesFr": "Visites, garde de jour, pension de nuit",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno",
           "servicesPt": "Visitas, creche diurna, alojamento nocturno",
-          "openingHours": "App available 24/7; sitters set own hours"
+          "openingHours": "App available 24/7; sitters set own hours",
+          "descriptionDe": "Die führende Peer-to-Peer-Plattform für Haustierbetreuung in Österreich, mit verifizierten Betreuern in Sankt Pölten, die Kurzbesuche, Tagesbetreuung und Übernachtungen anbieten. Die meisten Betreuer verfügen über Erdgeschosswohnungen oder kleine Gärten mit schnellem Zugang nach draußen.",
+          "petPolicyDe": "Richtlinien je nach Betreuer; versicherte und bewertete Buchungen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtung"
         },
         {
           "name": "Hundepension Mostviertel",
@@ -1026,7 +1198,10 @@
           "servicesFr": "Garde de jour, pension multi-jours, promenades d'entraînement de groupe",
           "servicesEs": "Guardería, pensión de varios días, paseos grupales de entrenamiento",
           "servicesPt": "Creche diurna, pensão de vários dias, passeios de treino em grupo",
-          "openingHours": "Mon-Sat 8:00-12:00 and 16:00-18:00; closed Sun"
+          "openingHours": "Mon-Sat 8:00-12:00 and 16:00-18:00; closed Sun",
+          "descriptionDe": "Eine kleine, familiengeführte Hundepension an der Straße zu den Weindörfern des Traisental, 4 km nördlich des Zentrums, mit Außengehegen und beaufsichtigten Gruppenspaziergängen. Abgabe Montag bis Samstagvormittag, Vorausbuchung im Juli und August unbedingt erforderlich.",
+          "petPolicyDe": "Impfungen und EU-Heimtierausweis erforderlich; maximale Aufenthaltsdauer 14 Tage",
+          "servicesDe": "Tagesbetreuung, mehrtägige Unterbringung, Gruppentraining-Spaziergänge"
         }
       ],
       "tipsEn": [
@@ -1103,6 +1278,22 @@
         {
           "q": "Tenho de levar a comida do cão ao cuidador?",
           "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."
+        }
+      ],
+      "titleDe": "Haustierbetreuung und Hundepension in Sankt Pölten",
+      "introDe": "Sankt Pölten verfügt über ein bescheidenes, aber zuverlässiges Netz an Haustierbetreuung, das überwiegend über die österreichischen Ableger von Pawshake und Rover läuft, ergänzt durch eine seit langem etablierte Pension nahe den Weindörfern des Traisental. Die meisten Betreuer sprechen Deutsch und Englisch und nehmen auch kurzfristige Buchungen außerhalb der sommerlichen Wachau-Saison an.",
+      "faqsDe": [
+        {
+          "q": "Was kostet Haustierbetreuung in Sankt Pölten?",
+          "a": "Rechnen Sie mit 22-32 EUR pro Nacht für Unterbringung und 11-16 EUR pro 30-minütigem Spaziergang über Pawshake; die Hundepension Mostviertel verlangt ab 26 EUR pro Tag."
+        },
+        {
+          "q": "Können Hotels für einen Abend einen Betreuer empfehlen?",
+          "a": "Ja, größere Hotels in Sankt Pölten führen eine kurze Liste an Pawshake-Betreuern, die abendliche Kurzbesuche übernehmen, praktisch für ein Konzert im Festspielhaus oder eine Dinner-Kreuzfahrt in der Wachau."
+        },
+        {
+          "q": "Muss ich das Futter meines Hundes zu einem Betreuer mitbringen?",
+          "a": "Die meisten Betreuer bevorzugen Kontinuität; bringen Sie 2-3 Tage des gewohnten Trockenfutters sowie den regulären Napf des Hundes mit, um Magenverstimmungen zu vermeiden."
         }
       ]
     }

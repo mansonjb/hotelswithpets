@@ -37,7 +37,11 @@
           "descriptionPt": "Uma livraria-bar-café na colorida rua Fargegata, livros em segunda mão nas paredes, vinil, brunch, cerveja artesanal. Cães bem-vindos no interior durante todo o ano e no terraço do passeio em frente.",
           "petPolicyPt": "Cães bem-vindos no interior e no terraço",
           "mustTryPt": "Prato de brunch, cerveja artesanal local Lervig, opções vegan",
-          "tipPt": "O cenário de Instagram mais colorido de Stavanger, mais tranquilo de manhã antes das 11:00 com um café e o cão aos seus pés."
+          "tipPt": "O cenário de Instagram mais colorido de Stavanger, mais tranquilo de manhã antes das 11:00 com um café e o cão aos seus pés.",
+          "descriptionDe": "Eine Buchhandlung-Bar-Café in der bunten Fargegata-Straße, antiquarische Bücher an den Wänden, Vinyl, Brunch, Craft-Bier. Hunde sind ganzjährig drinnen und auf der Terrasse vor dem Eingang willkommen.",
+          "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen",
+          "mustTryDe": "Brunchteller, lokales Lervig-Craft-Bier, vegane Optionen",
+          "tipDe": "Der buntester Instagram-Hintergrund Stavangers, am ruhigsten morgens vor 11:00 Uhr mit einem Kaffee und dem Hund zu Füßen."
         },
         {
           "name": "Renaa Restauranter",
@@ -63,7 +67,11 @@
           "descriptionPt": "O restaurante de alta gastronomia com estrela Michelin de Stavanger no porto de Vågen, a ementa nórdica moderna de Sven Erik Renaa. Cães bem-vindos no pátio traseiro durante todo o ano e no terraço do bistrô; a sala principal de alta gastronomia admite apenas cães de assistência.",
           "petPolicyPt": "Cães no pátio e no terraço do bistrô",
           "mustTryPt": "Menu de degustação (mar e terra), lagostim local, água Voss",
-          "tipPt": "Reserve o piso do bistrô (não o gastronómico) para o menu de degustação que aceita cães por metade do preço, mesmo chef, mesma cozinha."
+          "tipPt": "Reserve o piso do bistrô (não o gastronómico) para o menu de degustação que aceita cães por metade do preço, mesmo chef, mesma cozinha.",
+          "descriptionDe": "Stavangers Michelin-Stern-Restaurant am Hafen Vågen, Sven Erik Renaas moderne nordische Küche. Hunde sind ganzjährig im Hinterhof und auf der Bistroterrasse willkommen; der Hauptraum des Fine-Dining-Bereichs lässt nur Assistenzhunde zu.",
+          "petPolicyDe": "Hunde im Hof und auf der Bistroterrasse",
+          "mustTryDe": "Degustationsmenü (Meer & Land), lokaler Kaisergranat, Voss-Wasser",
+          "tipDe": "Reservieren Sie die Bistroebene (nicht den gastronomischen Bereich) für das hundefreundliche Degustationsmenü zum halben Preis, gleicher Koch, gleiche Küche."
         },
         {
           "name": "Café Sting",
@@ -89,7 +97,11 @@
           "descriptionPt": "Um café-bar acolhedor dentro de um armazém de madeira do século XIX na colina de Valberget acima do porto, jogos de tabuleiro, sofás macios, brunch. Cães bem-vindos por toda a parte durante todo o ano, tigelas de água à porta.",
           "petPolicyPt": "Cães bem-vindos por todo o lado",
           "mustTryPt": "Prato de brunch, chocolate quente, sessão de jogos de tabuleiro",
-          "tipPt": "Os lugares à janela dão para o porto de Vågen ao pôr do sol, a melhor vista de cão e café de Stavanger quando os navios de cruzeiro estão no porto."
+          "tipPt": "Os lugares à janela dão para o porto de Vågen ao pôr do sol, a melhor vista de cão e café de Stavanger quando os navios de cruzeiro estão no porto.",
+          "descriptionDe": "Ein gemütliches Café-Bar in einem hölzernen Lagerhaus aus dem 19. Jahrhundert auf dem Hügel Valberget über dem Hafen, Brettspiele, weiche Sofas, Brunch. Hunde sind ganzjährig überall willkommen, Wassernäpfe an der Tür.",
+          "petPolicyDe": "Hunde überall willkommen",
+          "mustTryDe": "Brunchteller, heiße Schokolade, Brettspielrunde",
+          "tipDe": "Die Fensterplätze blicken bei Sonnenuntergang auf den Hafen Vågen, der beste Hund-und-Kaffee-Ausblick in Stavanger, wenn Kreuzfahrtschiffe im Hafen liegen."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Quão caro é comer fora em Stavanger?",
           "a": "A Noruega é um dos mercados mais caros da Europa, um brunch informal custa 200-300 NOK (20-30 €), um jantar sentado 600-1200 NOK (60-120 €), uma cerveja artesanal 130-160 NOK (13-16 €). Não se espera gorjeta."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Stavanger",
+      "introDe": "Die norwegische Café- und Bistrokultur in Stavanger ist durchweg hundefreundlich, angeleinte Hunde sind auf Terrassen standardmäßig willkommen, und viele Cafés lassen sie außerhalb der Stoßzeiten auch drinnen zu. Gamle Stavanger und der Hafen Vågen konzentrieren die besten inhabergeführten Lokale.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Stavanger erlaubt?",
+          "a": "Ja, in den meisten. Rund 75 % der Cafés und legeren Restaurants in Stavanger lassen angeleinte Hunde ganzjährig im Hauptraum zu. Gehobene Fine-Dining-Lokale (Renaa, Tango) lassen Hunde nur auf der Terrasse oder im Bistrobereich zu."
+        },
+        {
+          "q": "Wie teuer ist Essen gehen in Stavanger?",
+          "a": "Norwegen ist einer der teuersten Märkte Europas, ein legerer Brunch kostet 200-300 NOK (20-30 €), ein Abendessen im Sitzen 600-1200 NOK (60-120 €), ein Craft-Bier 130-160 NOK (13-16 €). Trinkgeld wird nicht erwartet."
+        }
       ]
     },
     "parks": {
@@ -205,7 +229,10 @@
             "Café",
             "Estacionamento gratuito"
           ],
-          "tipPt": "Melhor no solstício de verão norueguês (21 de junho), quando o sol mal se põe, fazer o circuito completo às 23:00 com a luz da noite é um ritual de Stavanger."
+          "tipPt": "Melhor no solstício de verão norueguês (21 de junho), quando o sol mal se põe, fazer o circuito completo às 23:00 com a luz da noite é um ritual de Stavanger.",
+          "leashRuleDe": "Leinenpflicht 1. April - 19. August; restliches Jahr Freilauf",
+          "descriptionDe": "Der flache 3 km lange Rundweg um den zentralen Stadtsee, asphaltierter Weg, Enten und Schwäne, der beliebteste Hundegehweg der Stadt. Verbindet sich direkt mit den Waldwegen von Vannassen im Süden.",
+          "tipDe": "Am schönsten zur norwegischen Mittsommernacht (21. Juni), wenn die Sonne kaum untergeht, der komplette Rundweg um 23:00 Uhr im Abendlicht ist ein Stavanger-Ritual."
         },
         {
           "name": "Sørmarka Forest",
@@ -249,7 +276,10 @@
             "Túnel de esqui durante todo o ano",
             "Estacionamento gratuito"
           ],
-          "tipPt": "No inverno, as pistas de esqui marcadas estão reservadas aos esquiadores, passeie os cães nos trilhos pedonais paralelos para evitar conflitos."
+          "tipPt": "No inverno, as pistas de esqui marcadas estão reservadas aos esquiadores, passeie os cães nos trilhos pedonais paralelos para evitar conflitos.",
+          "leashRuleDe": "Leinenpflicht 1. April - 19. August; restliches Jahr Freilauf",
+          "descriptionDe": "Stavangers größter Stadtwald, 1.200 ha Kiefern und Fichten südlich des Zentrums, 30 km markierte Sommerwanderwege und Winter-Langlaufloipen, der Skitunnel Sørmarka Arena für ganzjähriges nordisches Skifahren.",
+          "tipDe": "Im Winter sind die markierten Loipen den Skifahrern vorbehalten, führen Sie Hunde auf den parallelen Fußwegen aus, um Konflikte zu vermeiden."
         },
         {
           "name": "Preikestolen (Pulpit Rock)",
@@ -293,7 +323,10 @@
             "Café de montanha (mai-out)",
             "Sem água a meio do trilho"
           ],
-          "tipPt": "Leve 1 L de água por cão, o trilho é rochoso, exposto e não há fonte de água entre o início do trilho e o cume. Evite com nevoeiro ou chuva (rochas escorregadias na orla da falésia do cume)."
+          "tipPt": "Leve 1 L de água por cão, o trilho é rochoso, exposto e não há fonte de água entre o início do trilho e o cume. Evite com nevoeiro ou chuva (rochas escorregadias na orla da falésia do cume).",
+          "leashRuleDe": "Ganzjährig Leinenpflicht auf dem markierten Weg",
+          "descriptionDe": "Die berühmte 604 m hohe senkrechte Felswand über dem Lysefjord, Norwegens meistfotografiertes Naturwahrzeichen. Die 8 km lange Rundwanderung (4 Std. mit Hund) ist ganzjährig mit angeleintem Hund erlaubt (Mai-Oktober empfohlen). 50 Minuten mit dem Auto östlich von Stavanger plus 30 Minuten Zufußgehen.",
+          "tipDe": "Bringen Sie 1 L Wasser pro Hund mit, der Weg ist steinig, exponiert, und zwischen Ausgangspunkt und Gipfel gibt es keine Wasserstelle. Bei Nebel oder Regen meiden (rutschige Felsen am Gipfelrand)."
         }
       ],
       "tipsEn": [
@@ -357,6 +390,18 @@
           "q": "Os cães são permitidos sem trela em Stavanger?",
           "a": "Sem trela é permitido durante todo o ano apenas nos 8 hundepark municipais vedados. Fora destes, a lei norueguesa exige cães com trela de 1 de abril a 19 de agosto; de setembro a março é permitido sem trela na maioria dos trilhos florestais rurais fora dos parques formais da cidade."
         }
+      ],
+      "titleDe": "Hundeparks & Grünflächen in Stavanger",
+      "introDe": "Stavanger ist von Fjord und Wald umgeben, der Rundweg um den See Mosvatnet schmiegt sich an das Stadtzentrum, die Wälder Sørmarka und Vannassen bieten 50 km Wege für Freilauf, und der berühmte Preikestolen (Predigtstuhl) erhebt sich 604 m über dem Lysefjord, 50 Minuten mit dem Auto östlich.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf den Preikestolen (Predigtstuhl) mitnehmen?",
+          "a": "Ja, der markierte 8 km lange Rundweg ist ganzjährig mit angeleintem Hund erlaubt. Mai bis Oktober wird empfohlen (im Winter sind Schneeschuhe/Spikes nötig). Bringen Sie 1 L Wasser pro Hund mit, unterwegs gibt es keine Wasserstelle."
+        },
+        {
+          "q": "Dürfen Hunde in Stavanger ohne Leine laufen?",
+          "a": "Freilauf ist ganzjährig nur in den 8 eingezäunten städtischen Hundeparks erlaubt. Außerhalb davon schreibt das norwegische Gesetz vom 1. April bis 19. August Leinenpflicht vor; von September bis März ist Freilauf auf den meisten ländlichen Waldwegen außerhalb der eigentlichen Stadtparks erlaubt."
+        }
       ]
     },
     "transport": {
@@ -384,7 +429,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Stavanger+sentralstasjon",
           "descriptionPt": "A Kolumbus opera a rede de autocarros e ferries de Stavanger. Os cães com trela viajam gratuitamente em todos os autocarros e nos ferries do Lysefjord, sem açaime obrigatório, sem bilhete necessário para o cão. Estão entre as regras mais generosas da Europa.",
           "petPolicyPt": "Grátis, sem açaime, sem bilhete necessário",
-          "tipPt": "O autocarro 100 do Stavanger Sentrum até ao ferry de Tau (15 min) mais o ferry do Lysefjord leva-o ao início do trilho do Pulpit Rock, viagem completa que aceita cães em 90 min."
+          "tipPt": "O autocarro 100 do Stavanger Sentrum até ao ferry de Tau (15 min) mais o ferry do Lysefjord leva-o ao início do trilho do Pulpit Rock, viagem completa que aceita cães em 90 min.",
+          "descriptionDe": "Kolumbus betreibt das Bus- und Fährnetz von Stavanger. Angeleinte Hunde fahren auf allen Bussen und den Lysefjord-Fähren kostenlos mit, kein Maulkorb, kein Ticket für den Hund erforderlich. Eine der großzügigsten Regeln in Europa.",
+          "petPolicyDe": "Kostenlos, kein Maulkorb, kein Ticket erforderlich",
+          "tipDe": "Bus 100 vom Stavanger Sentrum zur Tau-Fähre (15 Min.) plus die Lysefjord-Fähre bringt Sie zum Ausgangspunkt des Preikestolen-Wegs, eine komplett hundefreundliche Reise in 90 Minuten."
         },
         {
           "name": "Vy Regional Trains",
@@ -403,7 +451,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Stavanger+stasjon",
           "descriptionPt": "A Vy opera a linha Sørlandsbanen de Stavanger para Kristiansand (3h30) e Oslo (8h). Os cães com trela viajam grátis em carruagens dedicadas que aceitam cães (selecionáveis na reserva online); sem açaime obrigatório.",
           "petPolicyPt": "Grátis em carruagem para cães; sem açaime",
-          "tipPt": "Reserve sempre online um lugar em carruagem 'que aceita animais', as carruagens sem animais excluem rigorosamente os cães. A Sørlandsbanen é uma das viagens de comboio mais cénicas do mundo."
+          "tipPt": "Reserve sempre online um lugar em carruagem 'que aceita animais', as carruagens sem animais excluem rigorosamente os cães. A Sørlandsbanen é uma das viagens de comboio mais cénicas do mundo.",
+          "descriptionDe": "Vy betreibt die Sørlandsbanen-Linie von Stavanger nach Kristiansand (3 Std. 30) und Oslo (8 Std.). Angeleinte Hunde fahren kostenlos in dafür vorgesehenen hundefreundlichen Wagen mit (bei Online-Buchung auswählbar); kein Maulkorb erforderlich.",
+          "petPolicyDe": "Kostenlos im Hundewagen; kein Maulkorb",
+          "tipDe": "Buchen Sie online immer einen Sitzplatz im Wagen 'mit Haustieren erlaubt', in den anderen Wagen sind Hunde strikt ausgeschlossen. Die Sørlandsbanen zählt zu den landschaftlich schönsten Bahnstrecken der Welt."
         },
         {
           "name": "The Fjords / Norled Lysefjord Cruises",
@@ -422,7 +473,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Stavanger+Vagen+harbour",
           "descriptionPt": "Cruzeiros pelo Lysefjord durante todo o ano de Stavanger Vågen até ao sopé do Pulpit Rock e de Kjerag, ida e volta panorâmica de 3h com a icónica falésia de 604 m vista de baixo. Cães com trela aceites gratuitamente em todos os conveses ao ar livre.",
           "petPolicyPt": "Grátis nos conveses ao ar livre",
-          "tipPt": "O cruzeiro de 3h é o dia perfeito que aceita cães em Stavanger se não conseguir fazer a caminhada até ao cume do Pulpit Rock, a mesma vista icónica de um ângulo diferente, sem necessidade de escalar."
+          "tipPt": "O cruzeiro de 3h é o dia perfeito que aceita cães em Stavanger se não conseguir fazer a caminhada até ao cume do Pulpit Rock, a mesma vista icónica de um ângulo diferente, sem necessidade de escalar.",
+          "descriptionDe": "Ganzjährige Lysefjord-Kreuzfahrten von Stavanger Vågen bis zum Fuß des Preikestolen und Kjerag, 3-stündige Panorama-Rundfahrt mit Blick auf die berühmte 604 m hohe Felswand von unten. Angeleinte Hunde sind auf allen Außendecks kostenlos zugelassen.",
+          "petPolicyDe": "Kostenlos auf den Außendecks",
+          "tipDe": "Die 3-stündige Kreuzfahrt ist der perfekte hundefreundliche Tag in Stavanger, wenn Sie nicht zum Gipfel des Preikestolen wandern können, derselbe berühmte Ausblick aus einem anderen Blickwinkel, ohne Klettern."
         }
       ],
       "tipsEn": [
@@ -486,6 +540,18 @@
           "q": "Posso levar o meu cão num cruzeiro pelo Lysefjord?",
           "a": "Sim, os cães com trela viajam gratuitamente nos conveses ao ar livre de todos os cruzeiros pelo Lysefjord durante todo o ano (The Fjords, Norled). A ida e volta de 3h é a alternativa que aceita cães à caminhada do Pulpit Rock."
         }
+      ],
+      "titleDe": "Haustierfreundlicher Nahverkehr in Stavanger",
+      "introDe": "Stavangers kompaktes Zentrum ist in 20 Minuten zu Fuß von einem Ende zum anderen zu durchqueren. Für Tagesausflüge nehmen die Stadtbusse von Kolumbus, die Regionalzüge von Vy und die Lysefjord-Fähren zum Preikestolen und Kjerag allesamt angeleinte Hunde mit.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich für meinen Hund ein Ticket in den Bussen von Stavanger?",
+          "a": "Nein. Angeleinte Hunde fahren in den Bussen und Fähren von Kolumbus kostenlos mit, kein Ticket und kein Maulkorb erforderlich. Eine der großzügigsten Regeln für Haustiertransport in Europa."
+        },
+        {
+          "q": "Kann ich meinen Hund auf eine Lysefjord-Kreuzfahrt mitnehmen?",
+          "a": "Ja, angeleinte Hunde fahren kostenlos auf den Außendecks aller ganzjährigen Lysefjord-Kreuzfahrten mit (The Fjords, Norled). Die 3-stündige Rundfahrt ist die hundefreundliche Alternative zur Preikestolen-Wanderung."
+        }
       ]
     },
     "beaches": {
@@ -536,7 +602,10 @@
             "Estacionamento gratuito",
             "Escola de surf"
           ],
-          "tipPt": "A água atlântica mantém-se fria (8-15 °C mesmo no verão), a maioria dos cães prefere correr na areia molhada a nadar. Leve uma toalha quente para a pessoa depois de um banho."
+          "tipPt": "A água atlântica mantém-se fria (8-15 °C mesmo no verão), a maioria dos cães prefere correr na areia molhada a nadar. Leve uma toalha quente para a pessoa depois de um banho.",
+          "leashRuleDe": "Leinenpflicht 1. April - 19. August; restliches Jahr Freilauf",
+          "descriptionDe": "Ein 2,3 km breiter Atlantik-Sandstrand südlich von Stavanger, gilt als einer der besten Norwegens, flacher fester Sand, Dünen dahinter, Wasserqualität Klasse A. Bus 9 von Stavanger in 30 Minuten oder 15 Minuten mit dem Auto. Der nächstgelegene hundefreundliche Strand zur Stadt.",
+          "tipDe": "Das Atlantikwasser bleibt kalt (8-15 °C auch im Sommer), die meisten Hunde laufen lieber auf dem nassen Sand, als zu schwimmen. Bringen Sie ein warmes Handtuch für den Menschen nach dem Bad mit."
         },
         {
           "name": "Borestranden",
@@ -578,7 +647,10 @@
             "Sem infraestruturas a meio da praia",
             "Parque de campismo Camp Hauane nas proximidades"
           ],
-          "tipPt": "Percorra os 5 km todos do parque de Bore para sul até à foz do rio, o extremo sul é o mais calmo e a liberdade canina fora de época é total."
+          "tipPt": "Percorra os 5 km todos do parque de Bore para sul até à foz do rio, o extremo sul é o mais calmo e a liberdade canina fora de época é total.",
+          "leashRuleDe": "Leinenpflicht 1. April - 19. August; restliches Jahr Freilauf",
+          "descriptionDe": "5 km durchgehender Atlantiksand 35 km südlich von Stavanger, der längste hundefreundliche Strand Norwegens, Surfschulen-Gebiet, Sanddünen bis zu 12 m hoch. 35 Minuten mit dem Auto, keine direkten öffentlichen Verkehrsmittel.",
+          "tipDe": "Laufen Sie die gesamten 5 km vom Parkplatz Bore nach Süden bis zur Flussmündung, das südliche Ende ist am ruhigsten, und außerhalb der Saison herrscht totale Freiheit für Hunde."
         },
         {
           "name": "Tau Beach (Lysefjord)",
@@ -620,7 +692,10 @@
             "Sem infraestruturas",
             "Estacionamento gratuito"
           ],
-          "tipPt": "Combine com a caminhada do Pulpit Rock, deixe o cão na praia de Tau para um banho antes/depois da ida e volta de 8 km até ao cume."
+          "tipPt": "Combine com a caminhada do Pulpit Rock, deixe o cão na praia de Tau para um banho antes/depois da ida e volta de 8 km até ao cume.",
+          "leashRuleDe": "Leinenpflicht 1. April - 19. August; restliches Jahr Freilauf",
+          "descriptionDe": "Ein kleiner geschützter Fjordstrand in Tau, dem Tor zum Preikestolen, ruhiges Fjordschwimmen für Hunde im Sommer (Wasser 16-18 °C im Juli-August), Kieselstrand. Mit der Kolumbus-Fähre von Stavanger in 25 Minuten erreichbar.",
+          "tipDe": "Kombinieren Sie es mit der Preikestolen-Wanderung, lassen Sie den Hund am Tau Beach vor/nach der 8 km langen Rundwanderung zum Gipfel schwimmen."
         }
       ],
       "tipsEn": [
@@ -684,6 +759,18 @@
           "q": "Os cães podem nadar no Lysefjord?",
           "a": "Sim, o banho de fiorde calmo em Tau Beach e ao longo da margem de Forsand aceita cães com trela (lei de trela de abril a agosto). A água atinge os 16-18 °C no pico do verão; fora do verão, os cães preferem correr na margem a nadar."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände & Fjordspaziergänge bei Stavanger",
+      "introDe": "Die Küste Jæren südlich von Stavanger hat einige der längsten Sandstrände Norwegens, über 35 km durchgehenden hundefreundlichen Atlantiksand. Der Lysefjord östlich der Stadt bietet im Sommer ruhige Fjord-Badestellen.",
+      "faqsDe": [
+        {
+          "q": "Wie weit ist der nächste Hundestrand von Stavanger entfernt?",
+          "a": "15 Minuten mit dem Auto oder 30 Minuten mit Bus 9 zum Solastranden, 2,3 km Atlantiksand, ganzjährig hundefreundlich. Der Borestranden (35 Minuten mit dem Auto) ist mit 5 km der längste. Der Fjordstrand von Tau am Lysefjord (25 Minuten mit der Fähre) ist die ruhigste Badeoption am Fjord."
+        },
+        {
+          "q": "Können Hunde im Lysefjord schwimmen?",
+          "a": "Ja, ruhiges Fjordschwimmen am Tau Beach und entlang des Ufers von Forsand ist mit angeleintem Hund erlaubt (Leinenpflicht April-August). Das Wasser erreicht im Hochsommer 16-18 °C; außerhalb des Sommers laufen die meisten Hunde lieber am Ufer, als zu schwimmen."
+        }
       ]
     },
     "vets": {
@@ -714,7 +801,9 @@
           "tipEs": "Llama antes de ir, triaje por teléfono y posible redirección para casos no urgentes en la noche.",
           "googleMapsUrl": "https://maps.google.com/?q=AniCura+Stavanger",
           "descriptionPt": "Hospital veterinário de urgência 24h em Hillevåg, 4 km a sul do centro de Stavanger, cirurgia completa, UCI, ecografia, raios-X. O veterinário 24/7 mais próximo de toda a região de Rogaland.",
-          "tipPt": "Telefone antes de conduzir até lá, fazem triagem por telefone e podem reencaminhar casos noturnos não urgentes."
+          "tipPt": "Telefone antes de conduzir até lá, fazem triagem por telefone e podem reencaminhar casos noturnos não urgentes.",
+          "descriptionDe": "24-Stunden-Notfalltierklinik in Hillevåg, 4 km südlich vom Zentrum Stavangers, vollständige Chirurgie, Intensivstation, Ultraschall, Röntgen. Die nächstgelegene rund um die Uhr geöffnete Tierklinik für die gesamte Region Rogaland.",
+          "tipDe": "Rufen Sie vor der Anfahrt an, dort wird telefonisch triagiert und bei nicht dringenden nächtlichen Fällen möglicherweise umgeleitet."
         },
         {
           "name": "Stavanger Smådyrklinikk Sentrum",
@@ -735,7 +824,9 @@
           "tipFr": "L'anglais est parlé couramment et l'accueil sans rdv possible pour vaccins et puces avant 11h.",
           "tipEs": "Hablan inglés con fluidez y aceptan visitas sin cita para vacunas y microchips antes de las 11:00.",
           "descriptionPt": "Clínica moderna diurna de pequenos animais no centro de Stavanger, medicina geral, vacinações, cirurgia, dentária, ecografia. As chamadas fora de horas são desviadas para a AniCura 24h.",
-          "tipPt": "Falam inglês fluente e aceitam atendimentos sem marcação para vacinas e verificações de microchip antes das 11:00."
+          "tipPt": "Falam inglês fluente e aceitam atendimentos sem marcação para vacinas e verificações de microchip antes das 11:00.",
+          "descriptionDe": "Moderne tagsüber geöffnete Kleintierpraxis im Zentrum Stavangers, Allgemeinmedizin, Impfungen, Chirurgie, Zahnmedizin, Ultraschall. Anrufe außerhalb der Öffnungszeiten werden an AniCura 24h weitergeleitet.",
+          "tipDe": "Dort wird fließend Englisch gesprochen, und vor 11:00 Uhr werden Laufkunden für Impfungen und Mikrochip-Kontrollen angenommen."
         },
         {
           "name": "Sandnes Dyreklinikk",
@@ -757,7 +848,9 @@
           "tipEs": "Útil para emitir/actualizar un pasaporte europeo durante el viaje, Sandnes cobra unos 600 NOK (60 €) por pasaporte, 700 NOK (70 €) por microchip.",
           "googleMapsUrl": "https://maps.google.com/?q=Sandnes+Dyreklinikk",
           "descriptionPt": "Clínica veterinária diurna em Sandnes, 14 km a sul de Stavanger, medicina geral, emissão de passaporte de animal da UE, colocação de microchip, consultas comportamentais.",
-          "tipPt": "Útil para emitir/atualizar um passaporte de animal da UE a meio da viagem, a clínica de Sandnes cobra cerca de 600 NOK (60 €) por um passaporte, 700 NOK (70 €) por um microchip."
+          "tipPt": "Útil para emitir/atualizar um passaporte de animal da UE a meio da viagem, a clínica de Sandnes cobra cerca de 600 NOK (60 €) por um passaporte, 700 NOK (70 €) por um microchip.",
+          "descriptionDe": "Tagsüber geöffnete Tierarztpraxis in Sandnes, 14 km südlich von Stavanger, Allgemeinmedizin, Ausstellung von EU-Heimtierausweisen, Mikrochipping, Verhaltensberatung.",
+          "tipDe": "Nützlich, um während der Reise einen EU-Heimtierausweis auszustellen oder zu aktualisieren, Sandnes berechnet rund 600 NOK (60 €) für einen Ausweis, 700 NOK (70 €) für einen Mikrochip."
         }
       ],
       "tipsEn": [
@@ -821,6 +914,18 @@
           "q": "Preciso de documentação extra para entrar na Noruega com um cão?",
           "a": "Sim, além do passaporte de animal da UE padrão (vacinação antirrábica mais microchip ISO), a Noruega exige um tratamento contra a ténia (equinococose) administrado por um veterinário 24-120h antes da chegada. O mesmo que a Finlândia, a Irlanda e Malta."
         }
+      ],
+      "titleDe": "24-Stunden-Notfalltierärzte in Stavanger, Tierkliniken & Haustierbetreuung",
+      "introDe": "Stavanger hat eine solide tagsüber verfügbare tierärztliche Versorgung und eine regionale 24-Stunden-Notfallklinik am Stadtrand. Die tierärztliche Fakultät der Norwegian University of Life Sciences in Oslo ist die wichtigste Überweisungsklinik, 8 Stunden nördlich.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der 24-Stunden-Notfalltierarzt in der Nähe von Stavanger?",
+          "a": "AniCura Stavanger Smådyrklinikk, Hillevågsveien 99, +47 51 56 03 00, 4 km südlich, 8 Minuten mit dem Auto oder Bus 9. Rufen Sie vorab zur Triage an."
+        },
+        {
+          "q": "Brauche ich zusätzliche Unterlagen, um mit einem Hund nach Norwegen einzureisen?",
+          "a": "Ja, zusätzlich zum EU-Heimtierausweis (Tollwutimpfung + ISO-Mikrochip) verlangt Norwegen eine Bandwurmbehandlung (Echinokokkose), die 24-120 Stunden vor der Ankunft von einem Tierarzt verabreicht wird. Genau wie Finnland, Irland und Malta."
+        }
       ]
     },
     "tips": {
@@ -837,14 +942,16 @@
           "description": "May-September are ideal for outdoor activity, average highs 13-18 °C, the Pulpit Rock hike is dry, the fjord ferries operate full schedule, and the Norwegian midsummer light extends usable daylight to 23:00. October-April are colder (-3 to +8 °C) but Stavanger gets relatively mild winters (less snow than Oslo).",
           "descriptionFr": "Mai-septembre sont idéaux pour l'activité extérieure, maxima moyens 13-18 °C, la randonnée du Preikestolen est sèche, les ferries de fjord fonctionnent à plein, et la lumière estivale norvégienne prolonge le jour utile jusqu'à 23h. Octobre-avril sont plus froids (-3 à +8 °C) mais Stavanger a des hivers relativement doux (moins de neige qu'Oslo).",
           "descriptionEs": "Mayo-septiembre son ideales para la actividad al aire libre, máximas medias 13-18 °C, la caminata del Preikestolen está seca, los ferries de fiordo operan a pleno horario, y la luz estival noruega extiende el día útil hasta las 23:00. Octubre-abril son más fríos (-3 a +8 °C) pero Stavanger tiene inviernos relativamente suaves (menos nieve que Oslo).",
-          "descriptionPt": "De maio a setembro é ideal para atividades ao ar livre, máximas médias de 13-18 °C, a caminhada do Pulpit Rock mantém-se seca, os ferries do fiorde operam o horário completo, e a luz do solstício de verão norueguês prolonga as horas úteis de luz do dia até às 23:00. De outubro a abril é mais frio (-3 a +8 °C) mas Stavanger tem invernos relativamente amenos (menos neve do que Oslo)."
+          "descriptionPt": "De maio a setembro é ideal para atividades ao ar livre, máximas médias de 13-18 °C, a caminhada do Pulpit Rock mantém-se seca, os ferries do fiorde operam o horário completo, e a luz do solstício de verão norueguês prolonga as horas úteis de luz do dia até às 23:00. De outubro a abril é mais frio (-3 a +8 °C) mas Stavanger tem invernos relativamente amenos (menos neve do que Oslo).",
+          "descriptionDe": "Mai-September sind ideal für Outdoor-Aktivitäten, Durchschnittshöchstwerte 13-18 °C, die Preikestolen-Wanderung ist trocken, die Fjordfähren fahren im vollen Fahrplan, und das norwegische Mittsommerlicht verlängert die nutzbare Tageshelligkeit bis 23:00 Uhr. Oktober-April sind kälter (-3 bis +8 °C), aber Stavanger hat vergleichsweise milde Winter (weniger Schnee als Oslo)."
         },
         {
           "name": "Norwegian entry & tapeworm rules",
           "description": "Norway is in Schengen but NOT in the EU. Beyond the EU pet passport, Norway requires a tapeworm (echinococcosis) treatment administered by a vet 24-120h before arrival, same as Finland, Ireland and Malta. Documented in the pet passport. Skip this and entry will be refused at Stavanger Airport (SVG) or by ferry.",
           "descriptionFr": "La Norvège est dans Schengen mais PAS dans l'UE. Au-delà du passeport européen, la Norvège exige un traitement contre le ténia (echinococcose) administré par un vétérinaire 24-120h avant l'arrivée, comme la Finlande, l'Irlande et Malte. Documenté dans le passeport. Si vous l'oubliez, l'entrée sera refusée à l'aéroport de Stavanger (SVG) ou par ferry.",
           "descriptionEs": "Noruega está en Schengen pero NO en la UE. Además del pasaporte europeo, Noruega exige tratamiento contra la tenia (equinococosis) administrado por un veterinario 24-120h antes de la llegada, igual que Finlandia, Irlanda y Malta. Documentado en el pasaporte. Si lo omites, la entrada será rechazada en el aeropuerto de Stavanger (SVG) o por ferry.",
-          "descriptionPt": "A Noruega integra o Espaço Schengen mas NÃO na UE. Além do passaporte de animal da UE, a Noruega exige um tratamento contra a ténia (equinococose) administrado por um veterinário 24-120h antes da chegada, o mesmo que a Finlândia, a Irlanda e Malta. Documentado no passaporte de animal. Se o ignorar, a entrada será recusada no Aeroporto de Stavanger (SVG) ou por ferry."
+          "descriptionPt": "A Noruega integra o Espaço Schengen mas NÃO na UE. Além do passaporte de animal da UE, a Noruega exige um tratamento contra a ténia (equinococose) administrado por um veterinário 24-120h antes da chegada, o mesmo que a Finlândia, a Irlanda e Malta. Documentado no passaporte de animal. Se o ignorar, a entrada será recusada no Aeroporto de Stavanger (SVG) ou por ferry.",
+          "descriptionDe": "Norwegen gehört zum Schengen-Raum, ist aber NICHT Mitglied der EU. Zusätzlich zum EU-Heimtierausweis verlangt Norwegen eine Bandwurmbehandlung (Echinokokkose), die 24-120 Stunden vor der Ankunft von einem Tierarzt verabreicht wird, genau wie Finnland, Irland und Malta. Dies wird im Heimtierausweis dokumentiert. Wird das versäumt, wird die Einreise am Flughafen Stavanger (SVG) oder per Fähre verweigert."
         },
         {
           "name": "Currency & cost",
@@ -852,7 +959,8 @@
           "description": "Norway uses the Norwegian krone (NOK), not the euro. Most hotels and restaurants accept Visa/Mastercard, contactless is universal, cash is rare. Pet supplements at Stavanger hotels average 200-400 NOK/night (20-40 €), among the highest in Europe but offset by the no-extra-cost dog transport on buses, trains and ferries.",
           "descriptionFr": "La Norvège utilise la couronne norvégienne (NOK), pas l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel, les espèces sont rares. Les suppléments animaux dans les hôtels de Stavanger tournent autour de 200-400 NOK/nuit (20-40 €), parmi les plus hauts d'Europe mais compensés par le transport canin sans frais supplémentaires sur bus, trains et ferries.",
           "descriptionEs": "Noruega usa la corona noruega (NOK), no el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal, el efectivo es raro. Los suplementos para mascotas en hoteles de Stavanger rondan 200-400 NOK/noche (20-40 €), de los más altos de Europa pero compensados por el transporte canino sin coste extra en buses, trenes y ferries.",
-          "descriptionPt": "A Noruega usa a coroa norueguesa (NOK), não o euro. A maioria dos hotéis e restaurantes aceita Visa/Mastercard, o contactless é universal, o dinheiro vivo é raro. Os suplementos para animais nos hotéis de Stavanger rondam em média os 200-400 NOK/noite (20-40 €), entre os mais elevados da Europa mas compensados pelo transporte de cães sem custo adicional em autocarros, comboios e ferries."
+          "descriptionPt": "A Noruega usa a coroa norueguesa (NOK), não o euro. A maioria dos hotéis e restaurantes aceita Visa/Mastercard, o contactless é universal, o dinheiro vivo é raro. Os suplementos para animais nos hotéis de Stavanger rondam em média os 200-400 NOK/noite (20-40 €), entre os mais elevados da Europa mas compensados pelo transporte de cães sem custo adicional em autocarros, comboios e ferries.",
+          "descriptionDe": "Norwegen nutzt die norwegische Krone (NOK), nicht den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, kontaktloses Zahlen ist universell, Bargeld ist selten. Haustierzuschläge in Stavanger-Hotels liegen im Schnitt bei 200-400 NOK/Nacht (20-40 €), zu den höchsten in Europa, aber ausgeglichen durch den kostenlosen Haustiertransport in Bussen, Zügen und Fähren."
         }
       ],
       "tipsEn": [
@@ -916,6 +1024,18 @@
           "q": "Como se compara Stavanger a Bergen para viajar com cão?",
           "a": "Stavanger é mais pequena, mais calma, com o icónico Pulpit Rock 50 min a leste e praias para cães atlânticas 15 min a sul. Bergen tem o bairro de Bryggen classificado pela UNESCO, o funicular do Monte Fløyen e ferries diretos para os fiordes ocidentais. Stavanger vence pela combinação de fiorde e praia; Bergen pela variedade e pelo acesso cidade-montanha."
         }
+      ],
+      "titleDe": "Mit Hund nach Stavanger reisen: Praktische Tipps",
+      "introDe": "Stavanger, Norwegens drittgrößte Stadt und das Tor zum Lysefjord, vereint eine UNESCO-gewürdigte hölzerne Altstadt (Gamle Stavanger), außergewöhnlich hundefreundlichen Nahverkehr (kostenlose Busse, kostenlose Züge, kostenlose Fjordfähren), den berühmten Preikestolen 50 Minuten östlich und 35 km hundefreundlichen Atlantiksand 15 Minuten südlich.",
+      "faqsDe": [
+        {
+          "q": "Eignet sich Stavanger für ein hundefreundliches Wochenende?",
+          "a": "Ja, Stavanger vereint eine UNESCO-gewürdigte hölzerne Altstadt, kostenlosen Haustiertransport in Bussen/Zügen/Fähren, die berühmte Preikestolen-Wanderung mit angeleintem Hund, die Lysefjord-Kreuzfahrt und 35 km hundefreundlichen Atlantiksand am Solastranden und Borestranden. Eine der hundefreundlichsten Städte Europas."
+        },
+        {
+          "q": "Wie schneidet Stavanger im Vergleich zu Bergen für Reisen mit Hund ab?",
+          "a": "Stavanger ist kleiner, ruhiger, mit dem berühmten Preikestolen 50 Minuten östlich und Atlantik-Hundestränden 15 Minuten südlich. Bergen hat das UNESCO-Viertel Bryggen, die Standseilbahn auf den Fløyen und direkte Fähren zu den westlichen Fjorden. Stavanger punktet bei der Kombination Fjord+Strand, Bergen bei Vielfalt und Stadt-Berg-Zugang."
+        }
       ]
     },
     "attractions": {
@@ -944,7 +1064,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Gamle+Stavanger",
           "descriptionPt": "A maior Cidade Velha de madeira preservada do norte da Europa, 173 casas de madeira brancas dos séculos XVIII e XIX, ruelas empedradas, a rua mais fotografada da Noruega. Aberta 24/7, aceita cães com trela por toda a parte.",
           "petPolicyPt": "Vias públicas, cães com trela grátis",
-          "tipPt": "O pôr do sol (21:00-22:00 no verão) é o melhor momento para a fotografia com cão, as fachadas de madeira brancas captam a luz dourada. Evite as 11:00-15:00, quando chegam as excursões dos navios de cruzeiro."
+          "tipPt": "O pôr do sol (21:00-22:00 no verão) é o melhor momento para a fotografia com cão, as fachadas de madeira brancas captam a luz dourada. Evite as 11:00-15:00, quando chegam as excursões dos navios de cruzeiro.",
+          "descriptionDe": "Die größte erhaltene hölzerne Altstadt Nordeuropas, 173 weiße Holzhäuser aus dem 18.-19. Jahrhundert, gepflasterte Gassen, die meistfotografierte Straße Norwegens. Rund um die Uhr geöffnet, überall mit angeleintem Hund erlaubt.",
+          "petPolicyDe": "Öffentliche Straßen, angeleinte Hunde kostenlos",
+          "tipDe": "Sonnenuntergang (21:00-22:00 Uhr im Sommer) ist die beste Zeit für Hundefotos, die weißen Holzfassaden fangen das goldene Licht ein. Meiden Sie 11:00-15:00 Uhr, wenn Kreuzfahrtgruppen eintreffen."
         },
         {
           "name": "Fargegata (Colourful Street)",
@@ -964,7 +1087,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Fargegata+Stavanger",
           "descriptionPt": "A rua mais fotografada para o Instagram de Stavanger, um beco pedonal de 100 m onde cada montra surge pintada de uma cor vibrante diferente, o resultado de um projeto de arte comunitária de 2005. Aberta 24/7, aceita cães com trela por toda a parte.",
           "petPolicyPt": "Via pública, cães com trela grátis",
-          "tipPt": "O Café Bøker og Børst no extremo sul da rua aceita cães no interior durante todo o ano, paragem perfeita para um café depois da fotografia colorida."
+          "tipPt": "O Café Bøker og Børst no extremo sul da rua aceita cães no interior durante todo o ano, paragem perfeita para um café depois da fotografia colorida.",
+          "descriptionDe": "Stavangers meistfotografierte Straße auf Instagram, eine 100 m lange Fußgängergasse, in der jede Schaufensterfront in einer anderen leuchtenden Farbe gestrichen ist, Ergebnis eines Community-Kunstprojekts von 2005. Rund um die Uhr geöffnet, überall mit angeleintem Hund erlaubt.",
+          "petPolicyDe": "Öffentliche Straße, angeleinte Hunde kostenlos",
+          "tipDe": "Das Café Bøker og Børst am südlichen Ende der Straße ist ganzjährig innen hundefreundlich, perfekter Kaffeestopp nach dem bunten Foto."
         },
         {
           "name": "Vågen Harbour",
@@ -984,7 +1110,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Vagen+harbour+Stavanger",
           "descriptionPt": "O porto medieval de Stavanger, casas de barcos de madeira, mercado do peixe, o cais do ferry do Lysefjord, e mais de 30 terraços de café ao longo do Strandkaien. Aberto 24/7, aceita cães com trela por toda a parte. O ponto mais animado de Stavanger para observar cães e pessoas.",
           "petPolicyPt": "Porto público, cães com trela grátis",
-          "tipPt": "Percorra todo o perímetro de Vågen (1,5 km, 25 min com um cão) para a melhor combinação de terraços do porto e vistas para a água, comece na Catedral de Stavanger e termine no Café Sting."
+          "tipPt": "Percorra todo o perímetro de Vågen (1,5 km, 25 min com um cão) para a melhor combinação de terraços do porto e vistas para a água, comece na Catedral de Stavanger e termine no Café Sting.",
+          "descriptionDe": "Stavangers mittelalterlicher Hafen, hölzerne Bootshäuser, Fischmarkt, der Anleger der Lysefjord-Fähre und über 30 Café-Terrassen entlang der Strandkaien. Rund um die Uhr geöffnet, überall mit angeleintem Hund erlaubt. Der lebendigste Ort in Stavanger, um Hunde und Menschen zu beobachten.",
+          "petPolicyDe": "Öffentlicher Hafen, angeleinte Hunde kostenlos",
+          "tipDe": "Laufen Sie den gesamten Umkreis des Vågen (1,5 km, 25 Minuten mit Hund) für die beste Mischung aus Hafenterrassen und Wasserblick, beginnen Sie an der Kathedrale von Stavanger und enden Sie im Café Sting."
         }
       ],
       "tipsEn": [
@@ -1048,6 +1177,18 @@
           "q": "Os cães são permitidos nos cruzeiros pelo Lysefjord?",
           "a": "Sim, os cães com trela viajam gratuitamente nos conveses ao ar livre de todos os cruzeiros pelo Lysefjord durante todo o ano (The Fjords, Norled). O cruzeiro de ida e volta de 3h a partir de Stavanger Vågen é a alternativa que aceita cães à caminhada do Pulpit Rock."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Stavanger",
+      "introDe": "Die meisten der bekannten Outdoor-Sehenswürdigkeiten Stavangers sind hundefreundlich, Gamle Stavanger (die hölzerne Altstadt), die bunte Fargegata-Straße, der Hafen Vågen, der Platz an der Kathedrale von Stavanger und der Preikestolen begrüßen allesamt angeleinte Hunde kostenlos.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund zum Gipfel des Preikestolen mitnehmen?",
+          "a": "Ja, der markierte 8 km lange Rundweg ist ganzjährig mit angeleintem Hund erlaubt (4 Std. mit Hund). Mai-Oktober wird empfohlen; im Winter sind Schneeschuhe/Spikes nötig. Bringen Sie 1 L Wasser pro Hund mit. Der Gipfelrand hat kein Geländer, halten Sie den Hund kurz an der Leine."
+        },
+        {
+          "q": "Sind Hunde auf Lysefjord-Kreuzfahrten erlaubt?",
+          "a": "Ja, angeleinte Hunde fahren kostenlos auf den Außendecks aller ganzjährigen Lysefjord-Kreuzfahrten mit (The Fjords, Norled). Die 3-stündige Rundfahrt ab Stavanger Vågen ist die hundefreundliche Alternative zur Preikestolen-Wanderung."
+        }
       ]
     },
     "petsitting": {
@@ -1072,7 +1213,9 @@
           "tipFr": "Presque tous les sitters norvégiens parlent anglais couramment, la Norvège a le plus haut niveau d'anglais d'UE/EEE après l'Irlande et Malte. Filtrez par type d'expérience plutôt que par langue.",
           "tipEs": "Casi todos los cuidadores noruegos hablan inglés con fluidez, Noruega tiene el mejor nivel de inglés de UE/EEE después de Irlanda y Malta. Filtra por tipo de experiencia más que por idioma.",
           "descriptionPt": "Plataforma internacional de pet sitting com cerca de 20 cuidadores verificados sediados em Stavanger num raio de 5 km do centro, visitas pontuais, creche canina, hospedagem com pernoita. Todos os cuidadores são verificados, com seguro incluído.",
-          "tipPt": "Quase todos os cuidadores noruegueses falam inglês fluente, a Noruega tem a mais elevada proficiência em inglês da UE/EEE fora da Irlanda e de Malta. Filtre por tipo de experiência em vez de idioma."
+          "tipPt": "Quase todos os cuidadores noruegueses falam inglês fluente, a Noruega tem a mais elevada proficiência em inglês da UE/EEE fora da Irlanda e de Malta. Filtre por tipo de experiência em vez de idioma.",
+          "descriptionDe": "Internationale Plattform für Haustierbetreuung mit rund 20 geprüften Betreuungspersonen in Stavanger, im Umkreis von 5 km um das Zentrum, Kurzbesuche, Hundetagesstätte, Übernachtungsbetreuung. Alle Betreuungspersonen sind geprüft, Versicherung ist inbegriffen.",
+          "tipDe": "Fast alle norwegischen Betreuungspersonen sprechen fließend Englisch, Norwegen hat die höchsten Englischkenntnisse in der EU/EWR außerhalb Irlands und Maltas. Filtern Sie eher nach Erfahrungsart als nach Sprache."
         },
         {
           "name": "Hundepensjonat Stavanger",
@@ -1088,7 +1231,9 @@
           "tipFr": "Réservez au moins 1 semaine à l'avance en été, populaire chez les familles norvégiennes en vacances de juin à mi-août.",
           "tipEs": "Reserva al menos 1 semana antes en verano, popular entre las familias noruegas de vacaciones de junio a mediados de agosto.",
           "descriptionPt": "Hotel para animais local de Stavanger, creche supervisionada, hospedagem com pernoita, passeio de cães. Seguro e linha telefónica veterinária 24/7 incluídos; tarifa de 400-600 NOK/dia (40-60 €), entre as mais elevadas da Europa mas reflexo dos padrões salariais noruegueses.",
-          "tipPt": "Reserve com pelo menos 1 semana de antecedência no verão, popular entre as famílias norueguesas de férias de junho a meados de agosto."
+          "tipPt": "Reserve com pelo menos 1 semana de antecedência no verão, popular entre as famílias norueguesas de férias de junho a meados de agosto.",
+          "descriptionDe": "Lokales Hundehotel in Stavanger, betreute Tagesstätte, Übernachtungsbetreuung, Gassi-Service. Versicherung und 24/7-Tierarzt-Hotline inbegriffen; Preis 400-600 NOK/Tag (40-60 €), einer der höchsten in Europa, aber im Einklang mit norwegischen Lohnstandards.",
+          "tipDe": "Buchen Sie im Sommer mindestens 1 Woche im Voraus, beliebt bei norwegischen Familien im Urlaub von Juni bis Mitte August."
         }
       ],
       "tipsEn": [
@@ -1151,6 +1296,18 @@
         {
           "q": "Posso encontrar um cuidador que fale inglês em Stavanger?",
           "a": "Sim, quase todos os cuidadores noruegueses falam inglês fluente. A Noruega tem a mais elevada proficiência em inglês da UE/EEE fora da Irlanda e de Malta, por isso o idioma raramente é uma barreira."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Stavanger",
+      "introDe": "Für Tagesausflüge, bei denen der Hund nicht mitkommen kann (Stavanger Kunstmuseum, Norwegisches Erdölmuseum, Eisenzeit-Hof) bietet Stavanger verlässliche, geprüfte Haustierbetreuung über internationale und norwegische Plattformen.",
+      "faqsDe": [
+        {
+          "q": "Was kostet eine Hundetagesstätte in Stavanger?",
+          "a": "350-600 NOK pro Tag (35-60 €), je nach Plattform und Hundegröße, über Pawshake oder Hundepensjonat Stavanger. Kurzbesuche kosten 200-300 NOK (20-30 €) für 30 Minuten."
+        },
+        {
+          "q": "Finde ich in Stavanger eine englischsprachige Betreuungsperson?",
+          "a": "Ja, fast alle norwegischen Betreuungspersonen sprechen fließend Englisch. Norwegen hat die höchsten Englischkenntnisse in der EU/EWR außerhalb Irlands und Maltas, Sprache ist also selten eine Hürde."
         }
       ]
     }

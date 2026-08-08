@@ -37,7 +37,11 @@
           "descriptionPt": "Um café-bar acolhedor em Beggen com o lema 'drinks, food & dogs', o estabelecimento de referência da cidade no acolhimento de cães. Os cães são bem-vindos na esplanada parcialmente coberta e no salão da frente, com água, mantas, brinquedos e uma ementa canina impressa (bolachas caseiras e até cerveja para cães). O autocarro 16 a partir de Hamilius chega lá em 12 minutos.",
           "petPolicyPt": "Cães admitidos no salão da frente e na esplanada; ementa canina completa e acessórios",
           "mustTryPt": "Bolachas caninas caseiras, tábua de brunch de fim de semana, cerveja artesanal luxemburguesa",
-          "tipPt": "O sábado antes das 11:00 é o momento mais calmo, os cães habituais começam a chegar por volta das 11:30 e enchem depressa a esplanada."
+          "tipPt": "O sábado antes das 11:00 é o momento mais calmo, os cães habituais começam a chegar por volta das 11:30 e enchem depressa a esplanada.",
+          "descriptionDe": "Ein gemütliches Café-Bar in Beggen mit dem Slogan „drinks, food & dogs\", das hundefreundliche Aushängeschild der Stadt. Hunde sind auf der teilweise überdachten Terrasse und im vorderen Lounge-Bereich willkommen, mit Wasser, Decken, Spielzeug und einer gedruckten Hundespeisekarte (hausgemachte Kekse und sogar Hundebier). Bus 16 ab Hamilius erreicht das Café in 12 Minuten.",
+          "petPolicyDe": "Hunde willkommen im vorderen Loungebereich und auf der Terrasse; volle Hundekarte und Ausstattung",
+          "mustTryDe": "Hausgemachte Hundekekse, Wochenend-Brunchbrett, luxemburgisches Craft-Bier",
+          "tipDe": "Samstag vor 11:00 Uhr ist der ruhigste Moment, die Stammgäste mit Hund treffen ab etwa 11:30 Uhr ein und füllen die Terrasse schnell."
         },
         {
           "name": "Glow - Meal by Meal",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um café descontraído aberto todo o dia, a um passo da Place d'Armes, com mesas exteriores que aceitam cães e uma ementa saudável da época. O pequeno-almoço e o almoço servem-se das 7:30 às 15:00 nos dias úteis; a equipa traz taças de água sem ser preciso pedir. A localização, a dois minutos da catedral, faz dele uma paragem natural de uma visita a pé pela cidade.",
           "petPolicyPt": "Cães admitidos nas mesas exteriores; taças de água disponíveis",
           "mustTryPt": "Tosta de abacate esmagado, brunch de fim de semana, taças de iogurte de laticínios luxemburgueses",
-          "tipPt": "O sábado por volta das 10:00 é o pico social, os habitantes locais sobem do vale do Pétrusse a passear os cães e param para o pequeno-almoço no regresso."
+          "tipPt": "O sábado por volta das 10:00 é o pico social, os habitantes locais sobem do vale do Pétrusse a passear os cães e param para o pequeno-almoço no regresso.",
+          "descriptionDe": "Ein lässiges Ganztagscafé unweit der Place d'Armes mit hundefreundlichen Außentischen und einer gesunden, saisonalen Speisekarte. Frühstück und Mittagessen gibt es werktags von 7:30 bis 15:00 Uhr; das Personal bringt ungefragt Wassernäpfe. Die Lage, zwei Minuten von der Kathedrale entfernt, macht es zu einem natürlichen Stopp bei einem Stadtspaziergang.",
+          "petPolicyDe": "Hunde an den Außentischen willkommen; Wassernäpfe werden bereitgestellt",
+          "mustTryDe": "Avocado-Toast, Wochenend-Brunch, luxemburgische Joghurtschalen",
+          "tipDe": "Samstag gegen 10:00 Uhr ist der gesellschaftliche Höhepunkt, Einheimische gehen mit ihren Hunden vom Pétrusse-Tal aus spazieren und halten auf dem Rückweg zum Frühstück an."
         },
         {
           "name": "Big Beer Company",
@@ -89,7 +97,11 @@
           "descriptionPt": "Uma fábrica de cerveja artesanal e gastropub no bairro cervejeiro de calçada de pedra de Clausen, com esplanadas à beira-rio que aceitam cães por baixo das fortificações do Bock. A cervejaria serve cerca de 30 cervejas artesanais do Luxemburgo e da Grande Região; a ementa apresenta clássicos fartos de pub britânico e alemão. Cães bem-vindos em toda a esplanada e no bar da frente.",
           "petPolicyPt": "Cães bem-vindos em toda a esplanada e no bar da frente",
           "mustTryPt": "Prova de IPA da casa, hambúrguer da cervejaria, schnitzel",
-          "tipPt": "À sexta-feira à noite há música ao vivo na esplanada, a mesa de canto junto ao rio é o recanto mais calmo para o cão."
+          "tipPt": "À sexta-feira à noite há música ao vivo na esplanada, a mesa de canto junto ao rio é o recanto mais calmo para o cão.",
+          "descriptionDe": "Eine Craft-Bier-Brauerei und Gastropub im kopfsteingepflasterten Brauereiviertel Clausen mit hundefreundlichen Terrassen am Flussufer unterhalb der Bock-Festung. Die Brauerei schenkt rund 30 Craft-Biere aus Luxemburg und der Großregion aus; die Karte bietet deftige britische und deutsche Wirtshausklassiker. Hunde sind auf der gesamten Terrasse und an der vorderen Bar willkommen.",
+          "petPolicyDe": "Hunde willkommen auf der gesamten Terrasse und an der vorderen Bar",
+          "mustTryDe": "IPA-Verkostungsflight aus eigener Herstellung, Brauerei-Burger, Schnitzel",
+          "tipDe": "Freitagabend gibt es Live-Musik auf der Terrasse, der Ecktisch am Flussufer ist der ruhigste Platz für Hunde."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Onde ficam as zonas de restauração mais pet-friendly do Luxemburgo?",
           "a": "As esplanadas da Place d'Armes, o vale do rio Grund e o calcetado bairro cervejeiro das Rives de Clausen. Beggen (Café Villa) é o único verdadeiro café temático canino da cidade e justifica a viagem de autocarro 16."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Luxemburg",
+      "introDe": "Luxemburg-Stadt verbindet belgische Offenheit mit französischer Restaurantkultur, und Hunde sind auf den Terrassen rund um die Place d'Armes, im Grund-Tal und im Brauereiviertel Clausen weithin willkommen. Eigene hundefreundliche Cafés sind seltener als in größeren Hauptstädten, aber die wenigen, die es gibt (allen voran Café Villa), behandeln Hunde als vollwertige Gäste. Nachfolgend drei zuverlässige, geprüfte Adressen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in luxemburgischen Restaurants im Innenbereich erlaubt?",
+          "a": "Die meisten Cafés und Gastropubs sagen ja; gehobene Restaurants in der Altstadt und in Ville-Haute beschränken Haustiere oft auf die Terrasse. Vor dem Hinsetzen immer an der Tür nachfragen."
+        },
+        {
+          "q": "Stellen luxemburgische Restaurants Wassernäpfe bereit?",
+          "a": "Die meisten hundefreundlichen Lokale tun dies, darunter Café Villa, Glow und Big Beer Company. Ein faltbarer Napf ist trotzdem nützlich, wenn man zwischen mehreren Adressen unterwegs ist."
+        },
+        {
+          "q": "Wo befinden sich die haustierfreundlichsten Gastro-Meilen in Luxemburg?",
+          "a": "Die Terrassen an der Place d'Armes, das Grund-Tal und das kopfsteingepflasterte Brauereiviertel Rives de Clausen. Beggen (Café Villa) ist das einzige echte Hundethemen-Café der Stadt und die Busfahrt mit der Linie 16 wert."
+        }
       ]
     },
     "parks": {
@@ -220,7 +248,9 @@
             "Acesso gratuito 24 horas",
             "Bebedouros"
           ],
-          "tipPt": "Percorra toda a extensão desde a Pont Adolphe até às Torres Vauban, 2 km de caminho próprio para trela com os dois recintos caninos ao longo do percurso."
+          "tipPt": "Percorra toda a extensão desde a Pont Adolphe até às Torres Vauban, 2 km de caminho próprio para trela com os dois recintos caninos ao longo do percurso.",
+          "descriptionDe": "Ein 30 Hektar großer Flusstalpark, der sich durch das Herz von Luxemburg-Stadt zieht, mit schattigen Wegen unterhalb der UNESCO-Festungsanlagen, zwei eingezäunten städtischen Hundegehegen (enclos pour chiens) und der über allem thronenden Adolphe-Brücke. Angeleinte Hunde sind auf der gesamten Länge des Tals willkommen; die Hundegehege liegen nahe dem östlichen Ende. Kostenloser Eintritt, rund um die Uhr geöffnet.",
+          "tipDe": "Die gesamte Strecke von der Pont Adolphe zu den Vauban-Türmen laufen, 2 km leinenfreundlicher Weg mit beiden Hundegehegen entlang der Route."
         },
         {
           "name": "Parc de Merl-Belair",
@@ -263,7 +293,9 @@
             "Sombra de árvores adultas",
             "Estacionamento gratuito"
           ],
-          "tipPt": "O autocarro 12 a partir de Hamilius chega a Merl em 15 minutos, gratuito como todo o transporte público luxemburguês."
+          "tipPt": "O autocarro 12 a partir de Hamilius chega a Merl em 15 minutos, gratuito como todo o transporte público luxemburguês.",
+          "descriptionDe": "Ein 14 Hektar großer Landschaftspark im westlichen Stadtteil Merl mit altem Baumbestand, einem kleinen See mit Enten und einem eingezäunten Hundegehege im Nordosten. Angeleinte Hunde sind im gesamten Park willkommen; im Gehege ist Freilauf erlaubt. Das Viertel Belair vereint eine ruhige, wohnliche Community von Hundehaltern.",
+          "tipDe": "Bus 12 ab Hamilius erreicht Merl in 15 Minuten, kostenlos wie der gesamte öffentliche Nahverkehr in Luxemburg."
         },
         {
           "name": "Bambësch Forest",
@@ -306,7 +338,9 @@
             "Várias entradas com estacionamento",
             "Percursos pedestres sinalizados"
           ],
-          "tipPt": "Apanhe o autocarro 14 a partir de Hamilius até à entrada de Bambësch, 18 minutos, viagem gratuita. O trilho sinalizado a amarelo é o circuito de 4 km mais fácil."
+          "tipPt": "Apanhe o autocarro 14 a partir de Hamilius até à entrada de Bambësch, 18 minutos, viagem gratuita. O trilho sinalizado a amarelo é o circuito de 4 km mais fácil.",
+          "descriptionDe": "Ein 600 Hektar großer Buchenwald am nordwestlichen Stadtrand, der größte Stadtwald Luxemburgs. Markierte Wanderwege durchziehen das Waldgebiet; Freilauf wird auf den inneren Waldpfaden abseits der Straße geduldet. Der Wald ist über einen grünen Korridor mit Mamer und Strassen verbunden, was mehrstündige Leinenspaziergänge ohne Straßenquerung ermöglicht.",
+          "tipDe": "Bus 14 ab Hamilius bis zum Eingang Bambësch nehmen, 18 Minuten, kostenlos. Der gelb markierte Weg ist die einfachste 4-km-Runde."
         }
       ],
       "tipsEn": [
@@ -386,6 +420,22 @@
           "q": "O vale do Pétrusse é seguro para passear o cão ao anoitecer?",
           "a": "O vale tem boa iluminação nos trilhos principais mas é mais sossegado do que a cidade alta. Mantenha-se no trilho principal entre a ponte Adolphe e as Torres Vauban; os recintos caninos ficam sem iluminação à noite."
         }
+      ],
+      "titleDe": "Die besten Hundeparks in Luxemburg",
+      "introDe": "Luxemburg-Stadt verfügt über neun eingezäunte städtische Hundeparks (enclos pour chiens), eine ungewöhnlich hohe Dichte für eine Stadt mit 130.000 Einwohnern, dazu die spektakulären UNESCO-geschützten Flusstäler von Pétrusse und Alzette, die sich durch das Zentrum ziehen. Freilauf ist auf die markierten Gehege und ausgeschilderten Waldwege beschränkt; in der gesamten Innenstadt besteht Leinenpflicht. Immer Tüten mitnehmen, Luxemburg-Stadt verhängt bei Verunreinigung ein Bußgeld von 49 €.",
+      "faqsDe": [
+        {
+          "q": "Wo kann mein Hund in Luxemburg-Stadt vollständig ohne Leine laufen?",
+          "a": "In den 9 eingezäunten städtischen Hundegehegen, darunter die beiden im Parc de la Pétrusse und das im Parc de Merl-Belair. Waldwege im Bambësch dulden Freilauf auf den inneren Pfaden."
+        },
+        {
+          "q": "Sind Hunde in den UNESCO-Kasematten am Bock und auf dem Chemin de la Corniche erlaubt?",
+          "a": "Ja, an der Leine, auf den offenen Wegen und Wallanlagen. Die Innenführung durch die Kasematten lässt nur Assistenzhunde zu."
+        },
+        {
+          "q": "Ist das Pétrusse-Tal nach Einbruch der Dunkelheit sicher zum Gassigehen?",
+          "a": "Das Tal ist auf den Hauptwegen gut beleuchtet, aber ruhiger als die Oberstadt. Am Hauptweg zwischen der Adolphe-Brücke und den Vauban-Türmen bleiben; die Hundegehege sind nachts unbeleuchtet."
+        }
       ]
     },
     "transport": {
@@ -415,7 +465,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hamilius+Luxembourg",
           "descriptionPt": "O transporte público do Luxemburgo, uma única linha de elétrico que liga Luxexpo a Stäreplaz/Étoile, uma densa rede de autocarros e a rede ferroviária nacional CFL que chega a todos os cantos do país, é gratuito para todos, cães incluídos. Desde a reforma de 2020, não é preciso bilhete. Hamilius é o interface central; a Gare Centrale liga os comboios. Os serviços transfronteiriços para Trier (Alemanha) e Metz (França) exigem bilhetes pagos.",
           "petPolicyPt": "Todos os animais grátis em qualquer serviço nacional; trela para cães médios e grandes",
-          "tipPt": "O elétrico do Luxemburgo é a linha urbana que melhor acolhe cães, com ar condicionado, moderna e quase nunca cheia fora das horas de ponta. De Hamilius a Luxexpo demora 25 minutos."
+          "tipPt": "O elétrico do Luxemburgo é a linha urbana que melhor acolhe cães, com ar condicionado, moderna e quase nunca cheia fora das horas de ponta. De Hamilius a Luxexpo demora 25 minutos.",
+          "descriptionDe": "Luxemburgs öffentlicher Nahverkehr, eine einzelne Straßenbahnlinie, die Luxexpo mit Stäreplaz/Étoile verbindet, ein dichtes Busnetz und das nationale CFL-Schienennetz, das jeden Winkel des Landes erreicht, ist für alle kostenlos, Hunde eingeschlossen. Seit der Reform 2020 wird kein Ticket benötigt. Hamilius ist die zentrale Umsteigestation; Gare Centrale verbindet die Züge. Grenzüberschreitende Verbindungen nach Trier (Deutschland) und Metz (Frankreich) erfordern kostenpflichtige Tickets.",
+          "petPolicyDe": "Alle Haustiere kostenlos auf jeder inländischen Verbindung; Leine für mittelgroße und große Hunde",
+          "tipDe": "Die Luxemburger Straßenbahn ist die hundefreundlichste innerstädtische Linie, klimatisiert, modern und außerhalb der Stoßzeiten kaum überfüllt. Hamilius bis Luxexpo dauert 25 Minuten."
         }
       ],
       "tipsEn": [
@@ -495,6 +548,22 @@
           "q": "Se admitem cães no aeroporto de Luxemburgo?",
           "a": "Os cães de assistência são bem-vindos en toda a terminal. Os cães que viajan en voo siguen as normas da companhia aérea (cabina o bodega). O autocarro 16 a partir do aeroporto Findel até o centro é grátis e admite cães."
         }
+      ],
+      "titleDe": "Haustierfreundliche Verkehrsmittel in Luxemburg",
+      "introDe": "Luxemburg hat 2020 als weltweit erstes Land den gesamten öffentlichen Nahverkehr für alle kostenlos gemacht, und das schließt Haustiere mit ein. Busse, Straßenbahnen und die nationalen CFL-Züge nehmen Hunde ohne Aufpreis mit, ein Ticket ist nicht erforderlich. Die Regeln sind einfach: Leine für mittelgroße und große Hunde, Schoß oder Transportbox für kleine Haustiere, und ein Maulkorb nur, wenn der Hund andere Fahrgäste stören könnte. Die kostenlose Regelung macht Luxemburg zu einer der einfachsten europäischen Städte für Reisende mit Hund.",
+      "faqsDe": [
+        {
+          "q": "Ist der öffentliche Nahverkehr in Luxemburg wirklich kostenlos für Hunde?",
+          "a": "Ja, seit dem 1. März 2020 ist der gesamte inländische öffentliche Nahverkehr (Bus, Straßenbahn, CFL-Regionalzüge) für alle kostenlos, Hunde eingeschlossen. Es wird kein Ticket benötigt. Die einzigen Ausnahmen sind die 1. Klasse im Zug (weiterhin kostenpflichtig) und grenzüberschreitende Verbindungen."
+        },
+        {
+          "q": "Kann ich meinen Hund mit dem Zug von Luxemburg nach Brüssel mitnehmen?",
+          "a": "Ja, aber das grenzüberschreitende Ticket ist kostenpflichtig. Die CFL-Verbindung Luxemburg-Brüssel nimmt Hunde zu den Tarifen des ausländischen Bahnbetreibers mit: SNCB berechnet 3,20 € pro Hund pro einfacher Fahrt; kleine Haustiere in einer geschlossenen Box reisen kostenlos."
+        },
+        {
+          "q": "Sind Hunde am Flughafen Luxemburg erlaubt?",
+          "a": "Assistenzhunde sind überall willkommen. Haustierhunde auf einem Flug folgen den Regeln der Fluggesellschaft (Kabine oder Frachtraum). Bus 16 vom Flughafen Findel ins Stadtzentrum ist kostenlos und nimmt Hunde mit."
+        }
       ]
     },
     "beaches": {
@@ -524,7 +593,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Lac+de+la+Haute-Sure",
           "descriptionPt": "Uma albufeira de 380 hectares no planalto arborizado das Ardenas, a noroeste da cidade do Luxemburgo, a maior massa de água do país e o único sítio do Luxemburgo onde os cães podem nadar livremente sem trela. A margem sul arborizada em Lultzhausen e a margem leste em Insenborn aceitam ambas cães; o autocarro 535 a partir da estação central demora 1h15.",
           "petPolicyPt": "Sem trela nas margens arborizadas; zonas de proibição de banho sinalizadas em redor da barragem",
-          "tipPt": "Conduza 45 minutos até Lultzhausen, a margem sul arborizada tem estacionamento gratuito e as águas mais calmas para os cães nadarem."
+          "tipPt": "Conduza 45 minutos até Lultzhausen, a margem sul arborizada tem estacionamento gratuito e as águas mais calmas para os cães nadarem.",
+          "descriptionDe": "Ein 380 Hektar großer Stausee im bewaldeten Ardennen-Plateau nordwestlich von Luxemburg-Stadt, das größte Gewässer des Landes und der einzige Ort in Luxemburg, an dem Hunde frei ohne Leine schwimmen können. Das bewaldete Südufer bei Lultzhausen und das Ostufer bei Insenborn sind beide hundetolerant; Bus 535 ab dem Hauptbahnhof braucht 1 Stunde 15 Minuten.",
+          "petPolicyDe": "Freilauf an den bewaldeten Ufern; ausgeschilderte Schwimmverbotszonen rund um den Staudamm",
+          "tipDe": "45 Minuten nach Lultzhausen fahren, das bewaldete Südufer hat kostenlose Parkplätze und das ruhigste Wasser zum Schwimmen für Hunde."
         },
         {
           "name": "Echternach Lake",
@@ -545,7 +617,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Lac+Echternach",
           "descriptionPt": "Um lago de lazer de 30 hectares em Echternach, a vila mais antiga do Luxemburgo, na fronteira alemã. O lago tem um trilho circular de 4 km totalmente próprio para trela e um prado aberto na extremidade oeste onde se toleram cães sem trela. A floresta vizinha do Müllerthal (a 'Pequena Suíça luxemburguesa') acrescenta uma rede regional de caminhadas. O autocarro 110 a partir da estação central demora 50 minutos.",
           "petPolicyPt": "Com trela no trilho circular; sem trela tolerado no prado oeste",
-          "tipPt": "Combine o passeio em redor do lago com o trilho Hohllay-Aesbach de 4 km no Müllerthal, próprio para trela e um dos passeios florestais mais espetaculares do Luxemburgo."
+          "tipPt": "Combine o passeio em redor do lago com o trilho Hohllay-Aesbach de 4 km no Müllerthal, próprio para trela e um dos passeios florestais mais espetaculares do Luxemburgo.",
+          "descriptionDe": "Ein 30 Hektar großer Freizeitsee in Echternach, Luxemburgs ältester Stadt, an der deutschen Grenze. Der See hat einen 4 km langen Rundweg, der durchgehend leinenfreundlich ist, und am westlichen Ende eine offene Wiese, auf der Hunde ohne Leine geduldet werden. Der angrenzende Müllerthal-Wald (die Kleine Luxemburger Schweiz) ergänzt das Angebot um ein regionales Wanderwegenetz. Bus 110 ab dem Hauptbahnhof braucht 50 Minuten.",
+          "petPolicyDe": "Angeleint auf dem Rundweg; Freilauf auf der westlichen Wiese geduldet",
+          "tipDe": "Den Seespaziergang mit der 4 km langen Route Hohllay-Aesbach im Müllerthal kombinieren, leinenfreundlich und einer der spektakulärsten Waldspaziergänge Luxemburgs."
         },
         {
           "name": "Pétrusse & Alzette Riverwalk",
@@ -566,7 +641,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pfaffenthal+Lift+Luxembourg",
           "descriptionPt": "Um trilho contínuo à beira-rio que vai do Vale do Pétrusse, passando pelos bairros do Grund e de Clausen, seguindo o rio Alzette, por baixo das fortificações UNESCO. Os cães com trela são bem-vindos em toda a extensão, com dois recintos caninos municipais ao longo do caminho. O trilho é pavimentado, iluminado de noite, e liga-se diretamente aos pontos emblemáticos da cidade.",
           "petPolicyPt": "Cães admitidos com trela todo o ano; dois recintos vedados ao longo do percurso",
-          "tipPt": "Apanhe o elevador gratuito (Pfaffenthal Lift) da Ville-Haute até ao Pfaffenthal, deixa-o diretamente no passadiço do Alzette sem escadas."
+          "tipPt": "Apanhe o elevador gratuito (Pfaffenthal Lift) da Ville-Haute até ao Pfaffenthal, deixa-o diretamente no passadiço do Alzette sem escadas.",
+          "descriptionDe": "Ein durchgehender Uferweg, der vom Pétrusse-Tal durch die Viertel Grund und Clausen entlang der Alzette unterhalb der UNESCO-Festungsanlagen verläuft. Angeleinte Hunde sind auf der gesamten Länge willkommen, mit zwei städtischen Hundegehegen entlang des Weges. Der Weg ist gepflastert, nachts beleuchtet und verbindet direkt mit den Hauptsehenswürdigkeiten der Stadt.",
+          "petPolicyDe": "Hunde ganzjährig an der Leine willkommen; zwei eingezäunte Gehege entlang der Route",
+          "tipDe": "Den kostenlosen Aufzug (Pfaffenthal-Lift) von Ville-Haute nach unten zum Pfaffenthal nehmen, er setzt einen direkt am Alzette-Weg ab, ganz ohne Treppen."
         }
       ],
       "tipsEn": [
@@ -646,6 +724,22 @@
           "q": "Puedo levar al cão num crucero pelo Mosela?",
           "a": "O MS Princesse Marie-Astrid (ruta Wormeldange-Schengen) admite cães com trela en cubierta exterior durante a temporada de navegación (abril-outubro). As zonas interiores de restauración só admitem cães de assistência."
         }
+      ],
+      "titleDe": "Hundefreundliche Uferpromenaden & Tagesausflüge ab Luxemburg",
+      "introDe": "Luxemburg ist ein Binnenland und liegt 250 km vom nächsten Meer entfernt, „Strand\" bedeutet hier also Spaziergänge entlang der Flusstäler und der See bei Echternach. Die Wege entlang von Pétrusse und Alzette geben der Stadt selbst eine leinenfreundliche Uferpromenade; der Lac de la Haute-Sûre (45 Minuten mit dem Auto) bietet den größten Schwimmplatz des Landes für Hunde; und die Mosel-Übergänge nach Deutschland ergänzen das Angebot um Tagesausflüge am Wochenende. Luxemburgs kostenloser öffentlicher Nahverkehr erreicht alle diese Ausflugsziele.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund im Zentrum Luxemburgs schwimmen?",
+          "a": "Die Flüsse Pétrusse und Alzette sind zu flach und zu sehr von der Stadt umgeben, um sicher schwimmen zu können. Mit dem Auto oder Bus zum Lac de la Haute-Sûre (45 Minuten) fahren, dem einzigen richtigen Schwimmplatz für Hunde im Land."
+        },
+        {
+          "q": "Ist der Lac de la Haute-Sûre hundefreundlich?",
+          "a": "Ja, Hunde schwimmen das ganze Jahr über frei ohne Leine an den bewaldeten Süd- und Ostufern. Die ausgeschilderten Schwimmverbotszonen rund um den Staudamm selbst sind die einzige Einschränkung."
+        },
+        {
+          "q": "Kann ich meinen Hund auf eine Moselkreuzfahrt mitnehmen?",
+          "a": "Die MS Princesse Marie-Astrid (Route Wormeldingen-Schengen) nimmt angeleinte Hunde während der Fahrsaison (April bis Oktober) auf dem Außendeck mit. In den Innenbereichen zum Essen sind nur Assistenzhunde zugelassen."
+        }
       ]
     },
     "vets": {
@@ -672,7 +766,9 @@
           "tipEs": "El bus 12 desde Hamilius llega a Bereldange en 18 minutos, gratis como todo el transporte público luxemburgués. Llama antes por la noche: el veterinario de guardia puede necesitar venir.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+Bereldange",
           "descriptionPt": "Uma clínica veterinária 24/7 em Bereldange que trata cães, gatos e animais exóticos, equipada para cirurgia, imagiologia de diagnóstico e cuidados intensivos. Aberta ininterruptamente 365 dias por ano, com veterinários fluentes em inglês que tratam rotineiramente pacientes estrangeiros. A clínica de 24 horas mais próxima do centro, a cerca de 10 minutos de Bolt ou do autocarro gratuito 12.",
-          "tipPt": "O autocarro 12 a partir de Hamilius chega a Bereldange em 18 minutos, gratuito como todo o transporte público luxemburguês. Ligue com antecedência durante a noite, o veterinário de serviço pode precisar de se deslocar."
+          "tipPt": "O autocarro 12 a partir de Hamilius chega a Bereldange em 18 minutos, gratuito como todo o transporte público luxemburguês. Ligue com antecedência durante a noite, o veterinário de serviço pode precisar de se deslocar.",
+          "descriptionDe": "Eine rund um die Uhr geöffnete Tierklinik in Bereldange, die Hunde, Katzen und Exoten behandelt und für Operationen, Diagnostik und Intensivpflege ausgestattet ist. Geöffnet rund um die Uhr, 365 Tage im Jahr, mit fließend Englisch sprechenden Tierärzten, die regelmäßig Expat-Patienten behandeln. Die nächstgelegene 24-Stunden-Klinik zum Stadtzentrum, etwa 10 Minuten mit Bolt oder dem kostenlosen Bus 12.",
+          "tipDe": "Bus 12 ab Hamilius erreicht Bereldange in 18 Minuten, kostenlos wie der gesamte öffentliche Nahverkehr in Luxemburg. Nachts vorher anrufen, der diensthabende Tierarzt muss eventuell erst anreisen."
         },
         {
           "name": "SOS Vet (24h home visits)",
@@ -689,7 +785,9 @@
           "tipEs": "Útil cuando tu perro no puede ser movido: la tarifa por desplazamiento es más alta que la visita a clínica pero una fracción de una urgencia fuera de horario en Bélgica o Francia.",
           "googleMapsUrl": "https://maps.google.com/?q=SOS+Vet+Luxembourg",
           "descriptionPt": "Um serviço veterinário móvel 24/7 que se desloca ao seu hotel ou alojamento de curta duração na cidade do Luxemburgo no menor tempo possível. Menos de 8 % das consultas ao domicílio exigem hospitalização posterior; nos restantes casos, o veterinário de serviço trata do diagnóstico e do tratamento no local. A opção premium para os visitantes que não podem deslocar facilmente um cão doente.",
-          "tipPt": "Útil quando o seu cão não pode ser deslocado, a taxa de deslocação é mais alta do que uma ida à clínica mas uma fração de uma urgência fora de horas na Bélgica ou na França."
+          "tipPt": "Útil quando o seu cão não pode ser deslocado, a taxa de deslocação é mais alta do que uma ida à clínica mas uma fração de uma urgência fora de horas na Bélgica ou na França.",
+          "descriptionDe": "Ein mobiler tierärztlicher Dienst rund um die Uhr, der in Luxemburg-Stadt innerhalb kürzester Zeit ins Hotel oder die Ferienwohnung kommt. Weniger als 8 % der Hausbesuche erfordern eine anschließende Klinikeinweisung; bei den übrigen übernimmt der Bereitschaftstierarzt Diagnostik und Behandlung vor Ort. Die Premiumoption für Reisende, die einen kranken Hund nicht einfach transportieren können.",
+          "tipDe": "Nützlich, wenn der Hund nicht transportiert werden kann, die Anfahrtsgebühr ist höher als bei einem Klinikbesuch, aber ein Bruchteil eines Notfalls außerhalb der Öffnungszeiten in Belgien oder Frankreich."
         }
       ],
       "tipsEn": [
@@ -768,6 +866,22 @@
         {
           "q": "Os serviços veterinários no Luxemburgo são caros?",
           "a": "Semelhantes aos da Bélgica e da França, ligeiramente acima da Alemanha. Uma consulta normal ronda os 50-70 €, uma consulta de urgência 60-90 € mais medicação."
+        }
+      ],
+      "titleDe": "Tierärztlicher Notdienst in Luxemburg, Tierkliniken & Haustierpflege",
+      "introDe": "Luxemburg verfügt über eines der effizientesten tierärztlichen Netzwerke Europas für seine Größe, zwei Kliniken bieten einen vollen 24-Stunden-Service, und eine landesweite Bereitschaftsrotation (collegeveterinaire.lu) sorgt dafür, dass jeder Notfall zwischen 20 und 8 Uhr an einen Bereitschaftstierarzt weitergeleitet wird. Die Expat-Bevölkerung der Stadt sorgt dafür, dass in den meisten Kliniken durchgängig Englisch gesprochen wird. Die Kosten ähneln denen im benachbarten Belgien und Frankreich und liegen etwas über dem deutschen Niveau.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächstgelegene 24-Stunden-Tierarzt zum Stadtzentrum von Luxemburg?",
+          "a": "Clinique Vétérinaire Bereldange in der Rue de Bridel, etwa 10 Minuten mit Bolt oder 18 Minuten mit dem kostenlosen Bus 12 ab Hamilius. Der Hausbesuchsservice von SOS Vet deckt das Stadtzentrum in derselben Zeit ab."
+        },
+        {
+          "q": "Sprechen Tierärzte in Luxemburg Englisch?",
+          "a": "Ja, nahezu durchgängig. Luxemburgs Expat-Bevölkerung ist groß (50 % der Einwohner sind keine luxemburgischen Staatsangehörigen), und die meisten Kliniken behandeln täglich englischsprachige Patientenbesitzer."
+        },
+        {
+          "q": "Sind tierärztliche Leistungen in Luxemburg teuer?",
+          "a": "Ähnlich wie in Belgien und Frankreich, etwas über dem deutschen Niveau. Eine Standarduntersuchung kostet etwa 50-70 €, eine Notfallberatung 60-90 € zuzüglich Medikamente."
         }
       ]
     },
@@ -856,6 +970,22 @@
           "q": "Pode mi cão visitar as Casamatas do Bock o o Palácio Gran Ducal?",
           "a": "No: ambos só admitem cães de assistência en os seus interiores. O Chemin da Corniche por em cima das Casamatas e a Place Clairefontaine frente al Palácio são acessíveis com trela e gratuitos."
         }
+      ],
+      "titleDe": "Reisetipps für Haustiere in Luxemburg",
+      "introDe": "Luxemburg ist eine der einfachsten europäischen Städte für Reisen mit Hund: kostenloser öffentlicher Nahverkehr für alle (Hunde eingeschlossen) seit 2020, neun eingezäunte städtische Hundegehege innerhalb der Stadt, zwei 24-Stunden-Tierkliniken und die strengsten Tierschutzgesetze Europas. Die beiden Dinge, auf die man sich einstellen sollte, sind die zahlreichen steilen Treppen der Festungsanlagen (mit kleinen Hunden vermeiden, stattdessen den kostenlosen Pfaffenthal-Lift nutzen) und die sehr begrenzten Schwimmmöglichkeiten (zum Lac de la Haute-Sûre fahren).",
+      "faqsDe": [
+        {
+          "q": "Ist Luxemburg eine gute Stadt für Reisen mit Hund?",
+          "a": "Ja, eine der einfachsten europäischen Städte. Kostenloser öffentlicher Nahverkehr, 9 eingezäunte Hundegehege, zwei 24-Stunden-Tierärzte, in den Kliniken durchgängig Englisch. Die Besonderheit ist das begrenzte Schwimmangebot (der Lac de la Haute-Sûre ist die einzige richtige Option)."
+        },
+        {
+          "q": "Welche Dokumente brauche ich, um meinen Hund nach Luxemburg mitzubringen?",
+          "a": "Einen EU-Heimtierausweis (oder das Äquivalent für Drittländer), eine gültige Tollwutimpfung, die mindestens 21 Tage alt ist, und einen Mikrochip. Die Grenzkontrollen zwischen Luxemburg und Belgien/Frankreich/Deutschland sind minimal, aber der Ausweis muss den Hund begleiten."
+        },
+        {
+          "q": "Kann mein Hund die Kasematten am Bock oder den Großherzoglichen Palast besuchen?",
+          "a": "Nein, beide lassen im Innenbereich nur Assistenzhunde zu. Der Klippenweg Chemin de la Corniche oberhalb der Kasematten und die Place Clairefontaine vor dem Palast sind leinenfreundlich und kostenlos."
+        }
       ]
     },
     "attractions": {
@@ -885,7 +1015,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Chemin+de+la+Corniche+Luxembourg",
           "descriptionPt": "Muitas vezes chamado 'a varanda mais bonita da Europa', este passeio no topo do penhasco, de 600 metros, acompanha as muralhas medievais sobre o vale do Alzette, oferecendo vistas panorâmicas sobre o Grund, Clausen e as fortificações do Bock. Os cães com trela são bem-vindos em toda a extensão, de dia ou de noite, e o caminho liga-se diretamente ao exterior das Casamatas do Bock e ao planalto do Saint-Esprit.",
           "petPolicyPt": "Cães admitidos com trela; todo o caminho é gratuito e acessível 24 horas",
-          "tipPt": "Percorra a Corniche pouco antes do pôr do sol, as fortificações do Bock iluminam-se de dourado sobre o vale do Alzette."
+          "tipPt": "Percorra a Corniche pouco antes do pôr do sol, as fortificações do Bock iluminam-se de dourado sobre o vale do Alzette.",
+          "descriptionDe": "Oft „Europas schönster Balkon\" genannt, schmiegt sich diese 600 Meter lange Klippenpromenade an die mittelalterlichen Wallanlagen oberhalb des Alzette-Tals und bietet Panoramablicke über Grund, Clausen und die Bock-Festung. Angeleinte Hunde sind auf der gesamten Länge willkommen, Tag und Nacht, und der Weg verbindet direkt mit dem Außenbereich der Kasematten am Bock und dem Plateau Saint-Esprit.",
+          "petPolicyDe": "Hunde an der Leine willkommen; der gesamte Weg ist kostenlos und rund um die Uhr zugänglich",
+          "tipDe": "Die Corniche kurz vor Sonnenuntergang entlanglaufen, dann leuchtet die Bock-Festung golden über dem Alzette-Tal."
         },
         {
           "name": "Grund Quarter",
@@ -906,7 +1039,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Grund+Luxembourg",
           "descriptionPt": "A cidade baixa de postal, um bairro de calçada de pedra do século XVIII ao longo do Alzette, por baixo das fortificações, com cafés à beira-rio, o centro cultural Neumünster e a igreja de Saint-Jean-du-Grund. Os cães com trela são bem-vindos por todo o lado; quase todas as esplanadas de café aceitam animais, e o passeio ribeirinho liga-se diretamente aos vales do Pétrusse e de Clausen.",
           "petPolicyPt": "Cães admitidos com trela; quase todas as esplanadas de café aceitam animais",
-          "tipPt": "Apanhe o elevador gratuito do Pfaffenthal a descer da Ville-Haute, deixa-o no passadiço do Alzette em 30 segundos, sem escadas."
+          "tipPt": "Apanhe o elevador gratuito do Pfaffenthal a descer da Ville-Haute, deixa-o no passadiço do Alzette em 30 segundos, sem escadas.",
+          "descriptionDe": "Die bildschöne Unterstadt, ein Viertel mit Kopfsteinpflaster aus dem 18. Jahrhundert entlang der Alzette unterhalb der Festungsanlagen, mit Uferkaffees, dem Kulturzentrum Neumünster und der Kirche Saint-Jean-du-Grund. Angeleinte Hunde sind überall willkommen; fast jede Café-Terrasse nimmt Haustiere auf, und der Uferweg verbindet direkt mit den Tälern von Pétrusse und Clausen.",
+          "petPolicyDe": "Hunde an der Leine willkommen; fast alle Café-Terrassen lassen Haustiere zu",
+          "tipDe": "Den kostenlosen Pfaffenthal-Lift von Ville-Haute nach unten nehmen, er setzt einen in 30 Sekunden am Alzette-Weg ab, ganz ohne Treppen."
         },
         {
           "name": "Place d'Armes & Grand Ducal Palace exterior",
@@ -927,7 +1063,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Place+d%27Armes+Luxembourg",
           "descriptionPt": "O coração cívico e turístico da Cidade Velha, a Place d'Armes é uma praça pedonal arborizada rodeada de esplanadas de café que aceitam cães, a dois minutos do Palácio Grão-Ducal e da Catedral de Notre-Dame. Os cães com trela são bem-vindos em todo o circuito a pé; o interior do Palácio só admite cães de assistência, mas a Place Clairefontaine, no exterior, é aberta e gratuita.",
           "petPolicyPt": "Cães admitidos com trela na praça e nas ruas próximas",
-          "tipPt": "Visite às 10:00 nos dias úteis, os sinos da catedral começam, a guarda do Palácio rende e a praça fica no seu momento mais fotogénico para um passeio com trela."
+          "tipPt": "Visite às 10:00 nos dias úteis, os sinos da catedral começam, a guarda do Palácio rende e a praça fica no seu momento mais fotogénico para um passeio com trela.",
+          "descriptionDe": "Das bürgerliche und touristische Herz der Altstadt, die Place d'Armes ist ein baumbestandener Fußgängerplatz, umgeben von hundefreundlichen Café-Terrassen, zwei Minuten vom Großherzoglichen Palast und der Kathedrale Notre-Dame entfernt. Angeleinte Hunde sind auf dem gesamten Rundgang willkommen; der Innenbereich des Palasts lässt nur Assistenzhunde zu, aber die Place Clairefontaine davor ist offen und kostenlos.",
+          "petPolicyDe": "Hunde an der Leine auf dem Platz und den umliegenden Straßen willkommen",
+          "tipDe": "Werktags um 10:00 Uhr besuchen, dann läuten die Kathedralenglocken, die Palastwache wechselt, und der Platz zeigt sich für einen Leinenspaziergang von seiner fotogensten Seite."
         }
       ],
       "tipsEn": [
@@ -1007,6 +1146,22 @@
           "q": "Os cães são admitidos no museu de arte contemporânea Mudam?",
           "a": "Só os cães de assistência são admitidos no interior do Mudam. O parque envolvente de Kirchberg e as fortificações dos Trois Glands no exterior são acessíveis com trela."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Luxemburg",
+      "introDe": "Luxemburgs UNESCO-Altstadt und das dramatische Bock-Felsplateau bieten eine der fotogensten Skylines Europas, und der gesamte äußere Wallgang ist leinenfreundlich und kostenlos. Innenmuseen und die Kasematten-Führung lassen nur Assistenzhunde zu, aber der Klippenweg Chemin de la Corniche, die Aussicht von der Adolphe-Brücke und das kopfsteingepflasterte Grund bieten reichlich hundefreundliches Kulturerbe im Freien. Drei der besten Adressen im Folgenden.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund die Kasematten am Bock betreten?",
+          "a": "Nur Assistenzhunde sind zur Innenführung der Kasematten zugelassen. Das äußere Felsplateau und der darüberliegende Chemin de la Corniche sind leinenfreundlich, kostenlos und bieten den gleichen Panoramablick."
+        },
+        {
+          "q": "Was ist der beste hundefreundliche Tag in Luxemburg?",
+          "a": "Den Chemin de la Corniche entlanglaufen, mit dem Pfaffenthal-Lift hinunterfahren, im Grund brunchen, der Alzette bis nach Clausen folgen, wieder hoch zur Place d'Armes für Cocktails bei Sonnenuntergang auf einer Terrasse."
+        },
+        {
+          "q": "Sind Hunde im zeitgenössischen Kunstmuseum Mudam erlaubt?",
+          "a": "Nur Assistenzhunde sind im Innenbereich des Mudam zugelassen. Der umliegende Kirchberg-Park und die Festungsanlage Trois Glands im Freien sind leinenfreundlich."
+        }
       ]
     },
     "petsitting": {
@@ -1029,7 +1184,9 @@
           "tipFr": "Filtrez sur Belair, Limpertsberg ou Kirchberg, les trois quartiers avec la plus forte concentration de sitters expatriés anglophones habitués aux réservations de dernière minute.",
           "tipEs": "Filtra por Belair, Limpertsberg o Kirchberg: los tres barrios con la mayor concentración de cuidadores expatriados angloparlantes acostumbrados a reservas de última hora.",
           "descriptionPt": "O braço luxemburguês da rede europeia Pawshake, com cuidadores verificados por toda a cidade que oferecem visitas pontuais, cuidado durante todo o dia, passeios de cães e alojamento durante a noite. As marcações ficam seguradas através da plataforma e a interface encontra-se totalmente traduzida para inglês, francês e alemão. A opção mais fiável para visitantes sem contactos locais.",
-          "tipPt": "Filtre por Belair, Limpertsberg ou Kirchberg, os três bairros com a maior concentração de cuidadores estrangeiros que falam inglês e estão habituados a marcações de cima da hora."
+          "tipPt": "Filtre por Belair, Limpertsberg ou Kirchberg, os três bairros com a maior concentração de cuidadores estrangeiros que falam inglês e estão habituados a marcações de cima da hora.",
+          "descriptionDe": "Der luxemburgische Zweig des europäischen Pawshake-Netzwerks mit geprüften Sittern in der ganzen Stadt, die Kurzbesuche, Ganztagsbetreuung, Gassi-Runden und Übernachtungsbetreuung anbieten. Buchungen sind über die Plattform versichert, und die Oberfläche ist vollständig ins Englische, Französische und Deutsche übersetzt. Die zuverlässigste Option für Besucher ohne örtliche Kontakte.",
+          "tipDe": "Nach Belair, Limpertsberg oder Kirchberg filtern, den drei Vierteln mit der höchsten Konzentration englischsprachiger Expat-Sitter, die an kurzfristige Buchungen gewöhnt sind."
         }
       ],
       "tipsEn": [
@@ -1108,6 +1265,22 @@
         {
           "q": "Os hotéis disponibilizam serviço de cuidado de animais no Luxemburgo?",
           "a": "Alguns hotéis de gama alta (Le Royal, Sofitel Le Grand Ducal, Hotel Le Place d'Armes) podem organizar um cuidador através do concierge mediante um custo adicional. Confirme sempre na reserva."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Luxemburg",
+      "introDe": "Die Haustierbetreuung in Luxemburg wird von Pawshake (der europäischen Plattform) dominiert, mit PetBacker als starkem Zweiten und einem kleinen unabhängigen luxemburgischen Netzwerk rund um das Botschaftsviertel. Die Preise liegen am oberen Ende des EU-Durchschnitts, Luxemburgs hohe Lebenshaltungskosten machen sich hier bemerkbar, aber das Netzwerk ist dicht genug, dass Buchungen am nächsten Tag zuverlässig funktionieren. Nützlich angesichts der Haustierverbote in Museen und den Kasematten.",
+      "faqsDe": [
+        {
+          "q": "Wo finde ich kurzfristig einen Hundesitter in Luxemburg?",
+          "a": "Pawshake.com ist am schnellsten, die meisten bezahlten Sitter bestätigen innerhalb von Stunden. Nach mindestens zehn Bewertungen filtern und die Präferenz Wohnung oder Haus prüfen."
+        },
+        {
+          "q": "Sind Hundeausführer in Luxemburg reguliert?",
+          "a": "Das luxemburgische Recht verlangt keine Lizenz für Hundeausführer, aber Betreuer über Pawshake und PetBacker sind über die Plattformen versichert, nützlich im unwahrscheinlichen Fall eines Vorfalls."
+        },
+        {
+          "q": "Bieten Hotels in Luxemburg Haustierbetreuung an?",
+          "a": "Einige Luxushotels (Le Royal, Sofitel Le Grand Ducal, Hotel Le Place d'Armes) können gegen Aufpreis über die Rezeption einen Sitter organisieren. Bei der Buchung immer bestätigen lassen."
         }
       ]
     }

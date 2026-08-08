@@ -37,7 +37,11 @@
           "descriptionPt": "Um café castanho limburguês emblemático, famoso pelo seu zuurvlees (carne de vaca estufada agridoce) e pelas suas batatas fritas. Cães com trela bem-vindos no interior e na esplanada da frente durante todo o ano; taças de água no balcão.",
           "petPolicyPt": "Cães com trela bem-vindos no interior",
           "mustTryPt": "Zuurvlees met friet, Limburgse vlaai",
-          "tipPt": "Reserve o jantar, o Sjiek enche depois das 19:00. A mesa de canto junto à janela da frente é o local mais tranquilo para um cão ansioso."
+          "tipPt": "Reserve o jantar, o Sjiek enche depois das 19:00. A mesa de canto junto à janela da frente é o local mais tranquilo para um cão ansioso.",
+          "descriptionDe": "Ein bekanntes limburgisches braunes Café, berühmt für sein Zuurvlees (süß-saures Schmorrindfleisch) und Pommes. Hunde sind im Innenbereich an der Leine und ganzjährig auf der vorderen Terrasse willkommen; Wassernäpfe an der Bar.",
+          "petPolicyDe": "Hunde im Innenbereich an der Leine willkommen",
+          "mustTryDe": "Zuurvlees met friet, Limburgse vlaai",
+          "tipDe": "Für das Abendessen reservieren, bei Sjiek wird es nach 19:00 Uhr voll. Der Ecktisch am vorderen Fenster ist der ruhigste Platz für einen ängstlichen Hund."
         },
         {
           "name": "Café Forum",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um café castanho tradicional de Maastricht na Sint Amorsplein, com interior em madeira e uma generosa carta de cervejas belgas e neerlandesas. Cães bem-vindos no interior durante todo o ano e na grande esplanada de passeio virada para a praça. O preferido dos locais para uma trapista da tarde com um cão aos pés.",
           "petPolicyPt": "Cães bem-vindos no interior e na esplanada",
           "mustTryPt": "Brand Bock, La Trappe Quadrupel, bitterballen",
-          "tipPt": "A esplanada apanha o sol da tarde até às 17:00 no verão, o melhor local para observar cães em Maastricht."
+          "tipPt": "A esplanada apanha o sol da tarde até às 17:00 no verão, o melhor local para observar cães em Maastricht.",
+          "descriptionDe": "Ein traditionelles Maastrichter braunes Café am Sint Amorsplein, holzvertäfeltes Interieur, großzügige belgisch-niederländische Bierkarte. Hunde sind ganzjährig im Innenbereich und auf der großen Terrasse zum Platz hin willkommen. Der Liebling der Einheimischen für einen nachmittäglichen Trappist mit Hund zu Füßen.",
+          "petPolicyDe": "Hunde im Innenbereich und auf der Terrasse willkommen",
+          "mustTryDe": "Brand Bock, La Trappe Quadrupel, Bitterballen",
+          "tipDe": "Die Terrasse liegt im Sommer bis 17:00 Uhr in der Nachmittagssonne, der beste Platz in Maastricht, um Hunde zu beobachten."
         },
         {
           "name": "Coffeelovers Dominicanen",
@@ -89,7 +97,11 @@
           "descriptionPt": "Um café de especialidade instalado dentro da Selexyz Dominicanen, a igreja dominicana medieval convertida em livraria. Cães bem-vindos por toda a nave da igreja; taças de água à entrada durante o horário de funcionamento.",
           "petPolicyPt": "Cães bem-vindos em todo o lado",
           "mustTryPt": "Café de filtro de origem única, Limburgse vlaai",
-          "tipPt": "As mesas do mezanino são as mais tranquilas, ideais para uma leitura de tarde com um cão ao domingo."
+          "tipPt": "As mesas do mezanino são as mais tranquilas, ideais para uma leitura de tarde com um cão ao domingo.",
+          "descriptionDe": "Ein Spezialitätencafé im Selexyz Dominicanen, der mittelalterlichen Dominikanerkirche, die zu einer Buchhandlung umgebaut wurde. Hunde sind im gesamten Kirchenschiff willkommen; Wassernäpfe stehen am Eingang und während der Öffnungszeiten bereit.",
+          "petPolicyDe": "Hunde überall willkommen",
+          "mustTryDe": "Single-Origin-Filterkaffee, Limburgse vlaai",
+          "tipDe": "Die Empore ist am ruhigsten, ideal für einen Leseabend mit Hund am Sonntag."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Posso levar o meu cão a um café castanho?",
           "a": "Sim. Os cafés castanhos de Maastricht (Café Sjiek, Café Forum, In den Ouden Vogelstruys) recebem todos cães com trela por norma, com taças de água e um ambiente descontraído garantidos."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Maastricht",
+      "introDe": "Maastrichts burgundische Café-Kultur ist durchgehend hundefreundlich, angeleinte Hunde werden in Cafés und Bistros standardmäßig willkommen geheißen, Wassernäpfe erscheinen ungefragt, und der Vrijthof, der Sint-Amorsplein und das Viertel Wyck am rechten Maasufer bündeln die besten unabhängigen Lokale.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Maastrichter Restaurants erlaubt?",
+          "a": "Ja, in den meisten. Rund 80 % der Maastrichter Cafés und Bistros nehmen angeleinte Hunde im Hauptraum auf. Bei gehobenen Restaurants ist es unterschiedlich, vorher anrufen."
+        },
+        {
+          "q": "Kann ich meinen Hund in ein braunes Café mitnehmen?",
+          "a": "Ja. Maastrichts braune Cafés (Café Sjiek, Café Forum, In den Ouden Vogelstruys) heißen angeleinte Hunde standardmäßig willkommen, Wassernäpfe und eine entspannte Atmosphäre sind Standard."
+        }
       ]
     },
     "parks": {
@@ -205,7 +229,10 @@
             "Café do forte",
             "Estacionamento gratuito"
           ],
-          "tipPt": "Suba pelo trilho Cannerweg a partir da aldeia de Sint Pieter, o declive mais suave, e o panorama no cimo é melhor à hora dourada."
+          "tipPt": "Suba pelo trilho Cannerweg a partir da aldeia de Sint Pieter, o declive mais suave, e o panorama no cimo é melhor à hora dourada.",
+          "leashRuleDe": "Freilauf auf den meisten Waldwegen (April-Juli angeleint in Brutzonen)",
+          "descriptionDe": "Der bewaldete Kalksteinhügel, der sich 110 m direkt südlich des Zentrums erhebt, mit Kalkgrasland, Buchenwäldern, dem Fort Sint Pieter und den berühmten Sint-Pietersberg-Höhlen darunter. 8 km Freilaufwege mit weiten Panoramablicken über Maastricht und das belgische Voer-Tal.",
+          "tipDe": "Über den Cannerweg-Pfad vom Dorf Sint Pieter hochsteigen, das sanfteste Gefälle, und das Panorama oben ist zur goldenen Stunde am schönsten."
         },
         {
           "name": "Stadspark Maastricht",
@@ -249,7 +276,10 @@
             "Zona sem trela vedada",
             "Parque infantil"
           ],
-          "tipPt": "Combine com um passeio pelo caminho de sirga do Jeker em direção a Sint Pieter; o ribeiro transforma-se num trilho frondoso sem trela a sul do parque."
+          "tipPt": "Combine com um passeio pelo caminho de sirga do Jeker em direção a Sint Pieter; o ribeiro transforma-se num trilho frondoso sem trela a sul do parque.",
+          "leashRuleDe": "Angeleint mit einem eingezäunten Losloopgebied",
+          "descriptionDe": "Ein gestalteter Park aus dem 19. Jahrhundert, der sich an die westlichen mittelalterlichen Stadtmauern schmiegt, mit formalen Rasenflächen, dem Fluss Jeker, altem Baumbestand, Zierteichen und einem eingezäunten Losloopgebied in der Südecke. Verbindet direkt mit dem mittelalterlichen Tor Helpoort.",
+          "tipDe": "Mit einem Spaziergang am Jeker-Treidelpfad Richtung Sint Pieter kombinieren, der Bach wird südlich des Parks zu einem grünen Freilaufweg."
         },
         {
           "name": "Maas Riverside Path",
@@ -293,7 +323,10 @@
             "Baía de banho do Pietersplas",
             "Estacionamento gratuito em Sint Pieter"
           ],
-          "tipPt": "Atravesse a comporta em Smeermaas (5 km a sul) para um passeio no vale belga do Voer; a comporta de Lanaye é uma das maiores da Europa e a sua travessia aceita cães."
+          "tipPt": "Atravesse a comporta em Smeermaas (5 km a sul) para um passeio no vale belga do Voer; a comporta de Lanaye é uma das maiores da Europa e a sua travessia aceita cães.",
+          "leashRuleDe": "Angeleint auf dem Treidelpfad; großes eingezäuntes Losloopgebied am Pietersplas",
+          "descriptionDe": "Der autofreie Treidelpfad an der Maas verläuft ununterbrochen vom Stadtzentrum über Sint Pieter bis zur belgischen Grenze bei Smeermaas, flach, asphaltiert, mit dem Albertkanal spiegelbildlich auf der Westseite. Der Pietersplas-See (5 km südlich) hat eine ausgewiesene Schwimmbucht für Hunde.",
+          "tipDe": "Die Schleuse bei Smeermaas (5 km südlich) für einen Spaziergang ins belgische Voer-Tal überqueren, die Lanaye-Schleuse ist eine der größten Europas und hundefreundlich zu überqueren."
         }
       ],
       "tipsEn": [
@@ -357,6 +390,18 @@
           "q": "Os cães podem nadar no Mosa?",
           "a": "Sim, na baía de banho designada do Pietersplas (5 km a sul do centro, pelo caminho de sirga). O próprio Mosa não é seguro para banhos devido ao tráfego de barcaças e a correntes imprevisíveis."
         }
+      ],
+      "titleDe": "Hundeparks & Grünflächen in Maastricht",
+      "introDe": "Maastricht ist in Grün gehüllt, der Sint-Pietersberg erhebt sich direkt südlich des Zentrums mit 8 km Freilauf-Waldwegen, der Stadspark schmiegt sich an die mittelalterlichen Wallanlagen, und die Uferwege der Maas verlaufen ununterbrochen bis zur belgischen Grenze, 5 km entfernt.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde in Maastrichter Parks ohne Leine laufen?",
+          "a": "Freilauf ist in 22 eingezäunten städtischen Losloopgebieden, den Waldwegen des Sint-Pietersberg (außerhalb der Brutzeit April-Juli) und an den meisten Ufern des Pietersplas erlaubt. Auf den zentralen Straßen und am Vrijthof besteht Leinenpflicht."
+        },
+        {
+          "q": "Können Hunde in der Maas schwimmen?",
+          "a": "Ja, in der ausgewiesenen Schwimmbucht am Pietersplas (5 km südlich des Zentrums am Treidelpfad). Die Maas selbst ist wegen des Frachtschiffverkehrs und unberechenbarer Strömungen nicht sicher zum Schwimmen."
+        }
       ]
     },
     "transport": {
@@ -384,7 +429,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Maastricht+busstation",
           "descriptionPt": "A Arriva gere a rede regional de autocarros do Limburgo, os serviços urbanos em Maastricht e os autocarros diretos para Heerlen, Roermond e a passagem fronteiriça em Vaals. Os cães pequenos em transportadoras viajam grátis; os cães médios e grandes precisam de um bilhete diário de 3,10 € e têm de andar com trela curta.",
           "petPolicyPt": "Cães pequenos grátis; cães grandes bilhete diário de 3,10 €",
-          "tipPt": "Compre o bilhete diário para cão através da aplicação da Arriva; os bilhetes em papel nas horas de ponta podem atrasar o embarque."
+          "tipPt": "Compre o bilhete diário para cão através da aplicação da Arriva; os bilhetes em papel nas horas de ponta podem atrasar o embarque.",
+          "descriptionDe": "Arriva betreibt das regionale Busnetz Limburg, Stadtverbindungen in Maastricht und direkte Busse nach Heerlen, Roermond und zum Grenzübergang bei Vaals. Kleine Hunde in Transportboxen reisen kostenlos; mittelgroße und große Hunde benötigen ein Tagesticket für 3,10 € und müssen kurz angeleint sein.",
+          "petPolicyDe": "Kleine Hunde kostenlos; große Hunde Tagesticket 3,10 €",
+          "tipDe": "Das Hunde-Tagesticket über die Arriva-App kaufen, Papiertickets können in Stoßzeiten den Einstieg verzögern."
         },
         {
           "name": "NS Dutch Railways",
@@ -403,7 +451,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Maastricht+Centraal+station",
           "descriptionPt": "A NS opera comboios diretos de Maastricht para Amesterdão (2h30), Eindhoven (1h), Haia (2h45) e o IC transfronteiriço para Liège-Guillemins (33 min). Os cães pequenos em transportadoras viajam grátis; os cães maiores precisam de um Hond Dagkaart (3,10 €) e têm de andar com trela.",
           "petPolicyPt": "Cães pequenos grátis; cães grandes bilhete diário de 3,10 € + trela",
-          "tipPt": "O IC Bruxelas-Maastricht-Eindhoven circula de hora a hora e é acessível a cadeiras de rodas, confortável para cães médios e grandes sem a exigência de açaime dos comboios alemães."
+          "tipPt": "O IC Bruxelas-Maastricht-Eindhoven circula de hora a hora e é acessível a cadeiras de rodas, confortável para cães médios e grandes sem a exigência de açaime dos comboios alemães.",
+          "descriptionDe": "Die NS betreibt Direktzüge von Maastricht nach Amsterdam (2 Std. 30 Min.), Eindhoven (1 Std.), Den Haag (2 Std. 45 Min.) und den grenzüberschreitenden IC nach Liège-Guillemins (33 Min.). Kleine Hunde in Transportboxen reisen kostenlos; größere Hunde benötigen eine Hond Dagkaart (3,10 €) und müssen an der Leine sein.",
+          "petPolicyDe": "Kleine Hunde kostenlos; große Hunde Tagesticket 3,10 € + Leine",
+          "tipDe": "Der IC Brüssel-Maastricht-Eindhoven fährt stündlich und ist rollstuhlgerecht, komfortabel für mittelgroße und große Hunde ohne die Maulkorbpflicht deutscher Züge."
         },
         {
           "name": "Veolia Cross-Border IC",
@@ -422,7 +473,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Maastricht+Centraal+station",
           "descriptionPt": "O IC Maastricht-Aachen, operado pela Arriva, atravessa a fronteira alemã em Heerlen-Herzogenrath, com ligação direta à Aachen Hbf em 50 min para as ligações ICE para Colónia, Frankfurt e Berlim. As mesmas regras para cães da NS.",
           "petPolicyPt": "As mesmas regras da NS: cães pequenos grátis, grandes 3,10 € + trela",
-          "tipPt": "Aachen fica a 50 min, útil para aceder à rede ICE alemã a partir de Maastricht (não é exigido açaime nos comboios neerlandeses)."
+          "tipPt": "Aachen fica a 50 min, útil para aceder à rede ICE alemã a partir de Maastricht (não é exigido açaime nos comboios neerlandeses).",
+          "descriptionDe": "Der von Arriva betriebene IC Maastricht-Aachen überquert die deutsche Grenze bei Heerlen-Herzogenrath, direkte Verbindung nach Aachen Hbf in 50 Minuten für ICE-Anschlüsse nach Köln, Frankfurt und Berlin. Gleiche Hunderegeln wie bei der NS.",
+          "petPolicyDe": "Wie bei der NS: kleine Hunde kostenlos, größere 3,10 € + Leine",
+          "tipDe": "Aachen liegt 50 Minuten entfernt, nützlich für den Zugang zum deutschen ICE-Netz ab Maastricht bei Reisen mit großen Hunden (kein Maulkorb in niederländischen Zügen erforderlich)."
         }
       ],
       "tipsEn": [
@@ -486,6 +540,18 @@
           "q": "Posso levar o meu cão num comboio neerlandês sem açaime?",
           "a": "Sim. Os caminhos de ferro neerlandeses NS aceitam cães médios e grandes com trela por 3,10 €/dia, sem exigência de açaime, uma grande diferença em relação às regras da DB alemã ou da SNCB belga."
         }
+      ],
+      "titleDe": "Haustierfreundliche Verkehrsmittel in Maastricht",
+      "introDe": "Das kompakte Zentrum von Maastricht ist in 20 Minuten von einem Ende zum anderen zu Fuß erreichbar. Für längere Strecken nehmen die regionalen Arriva-Busse, die niederländische NS und die grenzüberschreitenden Züge nach Lüttich Hunde an der Leine mit.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich für meinen Hund ein Ticket in den Bussen von Maastricht?",
+          "a": "Kleine Hunde in einer Transportbox reisen kostenlos. Mittelgroße und große Hunde benötigen ein Tagesticket für 3,10 € (Hond Dagkaart), das über die Arriva-App gekauft wird und am selben Tag in Bussen und NS-Zügen gilt."
+        },
+        {
+          "q": "Kann ich meinen Hund ohne Maulkorb in einem niederländischen Zug mitnehmen?",
+          "a": "Ja. Die niederländische NS nimmt angeleinte mittelgroße und große Hunde für 3,10 €/Tag ohne Maulkorbpflicht mit, ein großer Unterschied zu den Regeln der deutschen DB oder der belgischen SNCB."
+        }
       ]
     },
     "beaches": {
@@ -536,7 +602,10 @@
             "Acesso pelo caminho de sirga",
             "Sem infraestruturas"
           ],
-          "tipPt": "Sem infraestruturas, leve água e uma toalha. As melhores condições para banho canino são de maio a setembro; em abril e outubro as águas podem estar muito frias."
+          "tipPt": "Sem infraestruturas, leve água e uma toalha. As melhores condições para banho canino são de maio a setembro; em abril e outubro as águas podem estar muito frias.",
+          "leashRuleDe": "Ganzjährig ohne Leine",
+          "descriptionDe": "Ein städtischer See 5 km südlich des Zentrums am Maas-Treidelpfad, mit einer ausgewiesenen Schwimmbucht für Hunde am Südende. Sandiger Einstieg, ruhiges Wasser, ganzjährig zugänglich. Der am leichtesten erreichbare Schwimmplatz ab Maastricht, mit dem Rad oder zu Fuß entlang des Treidelpfads.",
+          "tipDe": "Keine Einrichtungen vor Ort, Wasser und Handtuch mitbringen. Beste Schwimmbedingungen für Hunde von Mai bis September; im April und Oktober kann das Wasser sehr kalt sein."
         },
         {
           "name": "Eijsder Beemden",
@@ -574,7 +643,10 @@
             "Trilhos pedestres",
             "Observação de fauna"
           ],
-          "tipPt": "Ponha a trela junto aos cavalos Konik em liberdade; eles toleram cães, mas os cães reativos podem persegui-los. Estacione no parque de Oosterbroek."
+          "tipPt": "Ponha a trela junto aos cavalos Konik em liberdade; eles toleram cães, mas os cães reativos podem persegui-los. Estacione no parque de Oosterbroek.",
+          "leashRuleDe": "Freilauf auf den Überschwemmungswiesen",
+          "descriptionDe": "Ein 200 Hektar großes Naturschutzgebiet in der Maas-Aue, 12 km südlich von Maastricht, flache Uferwiesen, badetaugliches Wasser, frei lebende Konikpferde und Galloway-Rinder. Ganzjährig hundefreundlich mit Freilauf auf den Wiesenpfaden.",
+          "tipDe": "Bei den frei lebenden Konikpferden anleinen, sie tolerieren Hunde, aber reaktive Hunde könnten sie jagen wollen. Am Parkplatz Oosterbroek parken."
         },
         {
           "name": "Kelpen-Oler / Boschmolenplas",
@@ -616,7 +688,10 @@
             "Estacionamento gratuito",
             "Zona canina separada da família"
           ],
-          "tipPt": "Visite nas manhãs de dia útil para a areia mais tranquila; as tardes de sábado em julho-agosto ficam cheias."
+          "tipPt": "Visite nas manhãs de dia útil para a areia mais tranquila; as tardes de sábado em julho-agosto ficam cheias.",
+          "leashRuleDe": "Freilauf am eigens ausgewiesenen Hundeufer",
+          "descriptionDe": "Ein großer Freizeitsee 35 km nördlich von Maastricht mit einer eigenen Schwimmzone für Hunde, getrennt vom Familienbadebereich, der nächstgelegene ganzjährige „echte\" Sandstrand. Kostenlose Parkplätze und Café vor Ort.",
+          "tipDe": "Werktags morgens besuchen für den ruhigsten Sand, samstagnachmittags im Juli und August wird es voll."
         }
       ],
       "tipsEn": [
@@ -680,6 +755,18 @@
           "q": "Os cães são permitidos do lado belga do vale do Voer?",
           "a": "Sim. O vale belga do Voer (Voeren), mesmo a sudoeste de Maastricht, tem vários passeios ribeirinhos que aceitam cães e é acessível a pé pelo caminho de sirga do Mosa em 1h."
         }
+      ],
+      "titleDe": "Hundefreundliche Seen & Strände bei Maastricht",
+      "introDe": "Maastricht liegt im Landesinneren, aber die Umgebung bietet mehrere ganzjährige Schwimmseen für Hunde, dazu die belgische und niederländische Nordseeküste innerhalb von 2 Autostunden.",
+      "faqsDe": [
+        {
+          "q": "Wie weit ist der nächste Hundestrand von Maastricht entfernt?",
+          "a": "5 km, die Schwimmbucht am Pietersplas am Maas-Treidelpfad, zu Fuß oder mit dem Fahrrad vom Stadtzentrum erreichbar. Für Sand und richtige Erholung bietet der Boschmolenplas (35 km nördlich) eine eigene Hundezone."
+        },
+        {
+          "q": "Sind Hunde auf der belgischen Seite des Voer-Tals erlaubt?",
+          "a": "Ja. Das belgische Voer-Tal (Voeren) unmittelbar südwestlich von Maastricht bietet mehrere hundefreundliche Spaziergänge am Fluss und ist zu Fuß über den Maas-Treidelpfad in 1 Stunde erreichbar."
+        }
       ]
     },
     "vets": {
@@ -711,7 +798,9 @@
           "tipEs": "Hablan holandés, inglés y alemán, útil para viajeros transfronterizos belgas o alemanes.",
           "googleMapsUrl": "https://maps.google.com/?q=Dierenkliniek+Maastricht",
           "descriptionPt": "Clínica moderna de animais de companhia, em horário diurno, na Tongerseweg, a oeste do centro, com medicina geral, vacinação, cirurgia, estomatologia e ecografia. As chamadas fora de horário são desviadas para a Dierenkliniek Heerlen 24h.",
-          "tipPt": "Falam-se neerlandês, inglês e alemão, útil para viajantes transfronteiriços vindos da Bélgica ou da Alemanha."
+          "tipPt": "Falam-se neerlandês, inglês e alemão, útil para viajantes transfronteiriços vindos da Bélgica ou da Alemanha.",
+          "descriptionDe": "Moderne tagsüber geöffnete Kleintierklinik an der Tongerseweg, westlich des Zentrums, Allgemeinmedizin, Impfungen, Chirurgie, Zahnmedizin, Ultraschall. Anrufe außerhalb der Öffnungszeiten werden an die 24-Stunden-Klinik Dierenkliniek Heerlen weitergeleitet.",
+          "tipDe": "Niederländisch, Englisch und Deutsch werden alle gesprochen, nützlich für grenzüberschreitende Reisende aus Belgien oder Deutschland."
         },
         {
           "name": "Dierenkliniek Heerlen (24h)",
@@ -734,7 +823,9 @@
           "tipEs": "Llama antes de ir, triaje por teléfono y posible redirección para casos no urgentes en la noche.",
           "googleMapsUrl": "https://maps.google.com/?q=Dierenkliniek+Heerlen",
           "descriptionPt": "Hospital veterinário regional de urgências 24h, a 25 km a nordeste de Maastricht, com cuidados intensivos com equipa completa, cirurgia, ecografia e raio-x. Acesso direto pela autoestrada A2, a 25 min de carro do centro de Maastricht.",
-          "tipPt": "Ligue antes de ir: fazem triagem por telefone e podem reencaminhar casos noturnos não urgentes."
+          "tipPt": "Ligue antes de ir: fazem triagem por telefone e podem reencaminhar casos noturnos não urgentes.",
+          "descriptionDe": "Regionales tierärztliches Notfallkrankenhaus rund um die Uhr, 25 km nordöstlich von Maastricht, voll besetzte Intensivstation, Chirurgie, Ultraschall, Röntgen. Direkter Zugang über die Autobahn A2, 25 Minuten Fahrt vom Zentrum Maastrichts.",
+          "tipDe": "Vor der Anfahrt anrufen, dort wird telefonisch trianagiert, und nicht dringende Fälle über Nacht können umgeleitet werden."
         },
         {
           "name": "Dierenartsenpraktijk Sint Pieter",
@@ -756,7 +847,9 @@
           "tipEs": "Útil para emitir/actualizar un pasaporte europeo durante el viaje, Sint Pieter cobra unos 25 € por pasaporte, 35 € por microchip.",
           "googleMapsUrl": "https://maps.google.com/?q=Dierenartsenpraktijk+Sint+Pieter+Maastricht",
           "descriptionPt": "Consultório veterinário diurno na aldeia de Sint Pieter, a 5 min do centro da cidade, com medicina geral, emissão de passaporte europeu para animais, implantação de microchip e consultas comportamentais.",
-          "tipPt": "Útil para emitir ou atualizar um passaporte europeu para animais durante a viagem: Sint Pieter cobra cerca de 25 € por um passaporte e 35 € por um microchip."
+          "tipPt": "Útil para emitir ou atualizar um passaporte europeu para animais durante a viagem: Sint Pieter cobra cerca de 25 € por um passaporte e 35 € por um microchip.",
+          "descriptionDe": "Tagsüber geöffnete Tierarztpraxis im Dorf Sint Pieter, 5 Minuten vom Stadtzentrum entfernt, Allgemeinmedizin, Ausstellung von EU-Heimtierausweisen, Mikrochip-Implantation, Verhaltensberatung.",
+          "tipDe": "Nützlich, um während der Reise einen EU-Heimtierausweis ausstellen oder aktualisieren zu lassen, Sint Pieter berechnet rund 25 € für einen Ausweis, 35 € für einen Mikrochip."
         }
       ],
       "tipsEn": [
@@ -820,6 +913,18 @@
           "q": "Preciso de um passaporte para animais para Maastricht?",
           "a": "Sim, para entrar vindo de fora dos Países Baixos. Passaporte europeu para animais com vacina antirrábica (≥21 dias, não caducada) e microchip ISO, segundo as regras-padrão da UE. Sem papelada específica neerlandesa adicional."
         }
+      ],
+      "titleDe": "24-Stunden-Notdienst Tierärzte in Maastricht, Tierkliniken & Haustierpflege",
+      "introDe": "Maastricht bietet eine solide tagsüber verfügbare tierärztliche Versorgung und ein regionales 24-Stunden-Notfallkrankenhaus im nahen Heerlen. Die grenznahe Lage zu Belgien und Deutschland ermöglicht zudem Zugang zu Fachkliniken in Lüttich und Aachen innerhalb von 30-50 Minuten mit dem Auto.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der 24-Stunden-Notdienst-Tierarzt bei Maastricht?",
+          "a": "Dierenkliniek Heerlen, In de Cramer 134, +31 45 571 0001, 25 Minuten Fahrt nordöstlich über die Autobahn A2. Vorher anrufen zur Triage."
+        },
+        {
+          "q": "Brauche ich einen Heimtierausweis für Maastricht?",
+          "a": "Ja, für die Einreise von außerhalb der Niederlande. EU-Heimtierausweis mit Tollwutimpfung (≥21 Tage, nicht abgelaufen) und ISO-Mikrochip, Standard-EU-Regeln. Keine zusätzlichen niederländischen Formalitäten."
+        }
       ]
     },
     "tips": {
@@ -836,7 +941,8 @@
           "description": "April-June and September-October are ideal, average highs 14-22 °C, the Sint-Pietersberg in full leafy bloom, and the Maas water warm enough for the Pietersplas swim. Avoid Carnaval week (mid-February) when the centre is closed for parades.",
           "descriptionFr": "Avril-juin et septembre-octobre sont idéaux, maxima moyens 14-22 °C, le Sint-Pietersberg en pleine frondaison, et l'eau de la Meuse assez chaude pour la baignade au Pietersplas. Évitez la semaine de Carnaval (mi-février) quand le centre est fermé pour les défilés.",
           "descriptionEs": "Abril-junio y septiembre-octubre son ideales, máximas medias 14-22 °C, el Sint-Pietersberg en pleno follaje, y el agua del Mosa suficientemente cálida para el baño en el Pietersplas. Evita la semana de Carnaval (mediados de febrero) cuando el centro está cerrado por desfiles.",
-          "descriptionPt": "Abril-junho e setembro-outubro são ideais, com máximas médias de 14-22 °C, o Sint-Pietersberg em plena folhagem e a água do Mosa quente o suficiente para o banho no Pietersplas. Evite a semana do Carnaval (meados de fevereiro), quando o centro fica fechado para os desfiles."
+          "descriptionPt": "Abril-junho e setembro-outubro são ideais, com máximas médias de 14-22 °C, o Sint-Pietersberg em plena folhagem e a água do Mosa quente o suficiente para o banho no Pietersplas. Evite a semana do Carnaval (meados de fevereiro), quando o centro fica fechado para os desfiles.",
+          "descriptionDe": "April bis Juni und September bis Oktober sind ideal, durchschnittliche Höchsttemperaturen von 14-22 °C, der Sint-Pietersberg in voller Laubpracht, und das Maas-Wasser warm genug für das Schwimmen am Pietersplas. Die Karnevalswoche (Mitte Februar) meiden, wenn das Zentrum für Umzüge gesperrt ist."
         },
         {
           "name": "Triple-border day trips",
@@ -844,7 +950,8 @@
           "description": "Maastricht is the only European city where three EU countries meet within walking distance: Vaals (NL/DE/BE tripoint, 25 min by bus 50), Belgian Voer valley (5 km south on the Maas towpath), and Aachen (50 min by Arriva IC). Perfect for multi-country dog-friendly day trips.",
           "descriptionFr": "Maastricht est la seule ville européenne où trois pays UE se rejoignent à distance de marche : Vaals (point triple NL/DE/BE, 25 min en bus 50), vallée belge du Voer (5 km au sud sur le chemin de la Meuse) et Aix-la-Chapelle (50 min en Arriva IC). Parfait pour des excursions multi-pays dog-friendly.",
           "descriptionEs": "Maastricht es la única ciudad europea donde tres países UE se encuentran a distancia caminable: Vaals (punto triple NL/DE/BE, 25 min en bus 50), valle belga del Voer (5 km al sur por el camino del Mosa) y Aquisgrán (50 min en Arriva IC). Perfecto para excursiones multi-país dog-friendly.",
-          "descriptionPt": "Maastricht é a única cidade europeia onde três países da UE se encontram a uma distância percorrível a pé: Vaals (tríplice fronteira NL/DE/BE, 25 min pelo autocarro 50), o vale belga do Voer (5 km a sul, pelo caminho de sirga do Mosa) e Aachen (50 min pelo IC da Arriva). Perfeita para excursões de um dia por vários países que aceitam cães."
+          "descriptionPt": "Maastricht é a única cidade europeia onde três países da UE se encontram a uma distância percorrível a pé: Vaals (tríplice fronteira NL/DE/BE, 25 min pelo autocarro 50), o vale belga do Voer (5 km a sul, pelo caminho de sirga do Mosa) e Aachen (50 min pelo IC da Arriva). Perfeita para excursões de um dia por vários países que aceitam cães.",
+          "descriptionDe": "Maastricht ist die einzige europäische Stadt, in der drei EU-Länder in Gehweite aufeinandertreffen: Vaals (Dreiländerpunkt NL/DE/BE, 25 Minuten mit Bus 50), das belgische Voer-Tal (5 km südlich am Maas-Treidelpfad) und Aachen (50 Minuten mit dem Arriva-IC). Perfekt für hundefreundliche Tagesausflüge über mehrere Länder."
         },
         {
           "name": "Currency & cost",
@@ -852,7 +959,8 @@
           "description": "Netherlands uses the euro. Most hotels and restaurants accept Visa/Mastercard, contactless is universal. Pet supplements at Maastricht hotels average 10-15 €/night, in line with the EU median, slightly below Amsterdam.",
           "descriptionFr": "Les Pays-Bas utilisent l'euro. La plupart des hôtels et restaurants acceptent Visa/Mastercard, le sans-contact est universel. Les suppléments animaux dans les hôtels de Maastricht tournent autour de 10-15 €/nuit, alignés sur la médiane UE, légèrement en-dessous d'Amsterdam.",
           "descriptionEs": "Países Bajos usa el euro. La mayoría de hoteles y restaurantes admite Visa/Mastercard, el contactless es universal. Los suplementos para mascotas en hoteles de Maastricht rondan 10-15 €/noche, en línea con la mediana UE, ligeramente por debajo de Ámsterdam.",
-          "descriptionPt": "Os Países Baixos usam o euro. A maioria dos hotéis e restaurantes aceita Visa/Mastercard e o contactless é universal. Os suplementos para animais nos hotéis de Maastricht rondam os 10-15 €/noite, em linha com a mediana da UE e ligeiramente abaixo de Amesterdão."
+          "descriptionPt": "Os Países Baixos usam o euro. A maioria dos hotéis e restaurantes aceita Visa/Mastercard e o contactless é universal. Os suplementos para animais nos hotéis de Maastricht rondam os 10-15 €/noite, em linha com a mediana da UE e ligeiramente abaixo de Amesterdão.",
+          "descriptionDe": "Die Niederlande nutzen den Euro. Die meisten Hotels und Restaurants akzeptieren Visa/Mastercard, kontaktloses Bezahlen ist überall üblich. Haustierzuschläge in Maastrichter Hotels liegen im Schnitt bei 10-15 €/Nacht, im Einklang mit dem EU-Median, etwas unter Amsterdam."
         }
       ],
       "tipsEn": [
@@ -916,6 +1024,18 @@
           "q": "Como se compara Maastricht com Amesterdão para viajar com cão?",
           "a": "Maastricht é mais pequena, mais tranquila, com melhor acesso a floresta sem trela (Sint-Pietersberg face ao mais apertado Vondelpark de Amesterdão) e a excursões de um dia transfronteiriças. Amesterdão tem mais hotéis que aceitam animais e um aeroporto internacional. Maastricht ganha para uma viagem mais calma e centrada em caminhadas; Amesterdão pela variedade."
         }
+      ],
+      "titleDe": "Mit Hund nach Maastricht reisen: praktische Tipps",
+      "introDe": "Maastricht ist eine der einfachsten europäischen Städte für einen Aufenthalt mit Hund, kompaktes mittelalterliches Zentrum, burgundische Café-Kultur, die Hunde standardmäßig willkommen heißt, der Waldberg Sint-Pietersberg vor den Toren der Stadt, und Zugang zum Dreiländereck mit Belgien und Deutschland innerhalb von 5-30 km.",
+      "faqsDe": [
+        {
+          "q": "Eignet sich Maastricht für ein hundefreundliches Wochenende?",
+          "a": "Ja, Maastricht ist eine der einfachsten europäischen Städte für Reisen mit Hund. Kompaktes, zu Fuß erkundbares mittelalterliches Zentrum, burgundische Café-Kultur, die Hunde standardmäßig willkommen heißt, der Waldberg Sint-Pietersberg vor den Toren, und direkte Züge nach Lüttich (33 Min.), Aachen (50 Min.) und Amsterdam (2 Std. 30 Min.)."
+        },
+        {
+          "q": "Wie schneidet Maastricht im Vergleich zu Amsterdam bei Reisen mit Hund ab?",
+          "a": "Maastricht ist kleiner, ruhiger, mit besserem Zugang zu Freilaufwäldern (Sint-Pietersberg gegenüber dem engeren Vondelpark in Amsterdam) und grenzüberschreitenden Tagesausflügen. Amsterdam hat mehr haustierfreundliche Hotels und einen internationalen Flughafen. Maastricht gewinnt bei einer ruhigeren, spaziergangsorientierten Reise; Amsterdam bei der Vielfalt."
+        }
       ]
     },
     "attractions": {
@@ -944,7 +1064,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Vrijthof+Maastricht",
           "descriptionPt": "A grande praça principal de Maastricht, ladeada pelas igrejas Sint-Servaasbasiliek e Sint-Janskerk. Aberta 24/7, aceita cães com trela em todo o lado. As esplanadas de café contornam a praça; os concertos de verão de André Rieu e o mercado de inverno Magisch Maastricht, em dezembro, toleram cães.",
           "petPolicyPt": "Praça pública, cães com trela gratuitamente",
-          "tipPt": "Visite ao pôr do sol para as melhores fotografias das igrejas iluminadas; as esplanadas do lado leste (In den Ouden Vogelstruys) são os lugares mais acolhedores para cães."
+          "tipPt": "Visite ao pôr do sol para as melhores fotografias das igrejas iluminadas; as esplanadas do lado leste (In den Ouden Vogelstruys) são os lugares mais acolhedores para cães.",
+          "descriptionDe": "Maastrichts großer Hauptplatz, flankiert von der Sint-Servaasbasiliek und der Sint-Janskerk. Rund um die Uhr geöffnet, hundefreundlich mit angeleinten Hunden überall. Café-Terrassen säumen den Platz; die sommerlichen André-Rieu-Konzerte und der Dezember-Weihnachtsmarkt Magisch Maastricht sind hundetolerant.",
+          "petPolicyDe": "Öffentlicher Platz, angeleinte Hunde kostenlos",
+          "tipDe": "Bei Sonnenuntergang besuchen für die besten Fotos der beleuchteten Kirchen; die östlichen Terrassen (In den Ouden Vogelstruys) bieten die hundefreundlichsten Sitzplätze."
         },
         {
           "name": "Helpoort & Medieval Walls",
@@ -964,7 +1087,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Helpoort+Maastricht",
           "descriptionPt": "A Helpoort, a porta de cidade mais antiga que se conserva nos Países Baixos, construída por volta de 1229, ancora o troço sul das muralhas medievais de Maastricht. O passeio pelas muralhas, da Helpoort até à Onze-Lieve-Vrouweplein, aceita cães com trela, gratuitamente.",
           "petPolicyPt": "Caminho público, cães com trela gratuitamente",
-          "tipPt": "Combine com o Stadspark mesmo ao lado: o passeio pelas muralhas dá diretamente para o losloopgebied do parque."
+          "tipPt": "Combine com o Stadspark mesmo ao lado: o passeio pelas muralhas dá diretamente para o losloopgebied do parque.",
+          "descriptionDe": "Das Helpoort, das älteste erhaltene Stadttor der Niederlande, um 1229 erbaut, verankert den südlichen Abschnitt der mittelalterlichen Stadtmauern von Maastricht. Der Mauerspaziergang vom Helpoort zum Onze-Lieve-Vrouweplein ist hundefreundlich mit angeleinten Hunden kostenlos.",
+          "petPolicyDe": "Öffentlicher Weg, angeleinte Hunde kostenlos",
+          "tipDe": "Mit dem gleich daneben liegenden Stadspark kombinieren, der Mauerspaziergang führt direkt in das Losloopgebied des Parks."
         },
         {
           "name": "Fort Sint Pieter",
@@ -984,7 +1110,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Fort+Sint+Pieter+Maastricht",
           "descriptionPt": "O forte em forma de estrela do século XVIII que coroa o Sint-Pietersberg, com muralhas exteriores e esplanadas panorâmicas que aceitam cães com trela, gratuitamente. Os túneis interiores e a visita ao museu admitem apenas cães de assistência.",
           "petPolicyPt": "Cães nas muralhas; apenas cães de assistência no interior",
-          "tipPt": "A muralha leste, à hora dourada, oferece o panorama icónico da silhueta do meandro do Mosa em Maastricht."
+          "tipPt": "A muralha leste, à hora dourada, oferece o panorama icónico da silhueta do meandro do Mosa em Maastricht.",
+          "descriptionDe": "Die sternförmige Festung aus dem 18. Jahrhundert, die den Sint-Pietersberg krönt, äußere Wallanlagen und Panoramaterrassen sind hundefreundlich mit angeleinten Hunden kostenlos. Die Innentunnel und die Museumsführung lassen nur Assistenzhunde zu.",
+          "petPolicyDe": "Hunde auf den Wallanlagen; im Innenbereich nur Assistenzhunde",
+          "tipDe": "Der östliche Wall bietet zur goldenen Stunde das ikonische Panorama der Maastrichter Maas-Flusskurve."
         }
       ],
       "tipsEn": [
@@ -1048,6 +1177,18 @@
           "q": "Os cães são permitidos nas grutas do Sint-Pietersberg?",
           "a": "Não, as visitas oficiais às grutas (Grotten Noord) admitem apenas cães de assistência. A floresta à superfície, por cima das grutas, aceita plenamente cães, com acesso sem trela na maioria dos trilhos."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Maastricht",
+      "introDe": "Die meisten der bekannten Sehenswürdigkeiten im Freien in Maastricht sind hundefreundlich, der Vrijthof-Platz, die Maas-Uferpromenade, das mittelalterliche Tor Helpoort, die Festung auf dem Sint-Pietersberg und der Stadspark heißen angeleinte Hunde kostenlos willkommen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund zum Fort Sint Pieter mitnehmen?",
+          "a": "Zu den äußeren Wallanlagen und Panoramaterrassen ja, an der Leine, kostenlos. Die Führungen durch die Innentunnel lassen nur Assistenzhunde zu."
+        },
+        {
+          "q": "Sind Hunde in den Höhlen des Sint-Pietersberg erlaubt?",
+          "a": "Nein, die offiziellen Höhlenführungen (Grotten Noord) lassen nur Assistenzhunde zu. Der Wald an der Oberfläche über den Höhlen ist auf den meisten Wegen vollständig hundefreundlich mit Freilaufmöglichkeit."
+        }
       ]
     },
     "petsitting": {
@@ -1074,7 +1215,9 @@
           "tipFr": "Filtrez pour anglais, français ou allemand, environ 80 % des sitters de Maastricht sont bilingues ou trilingues en raison de la position transfrontalière.",
           "tipEs": "Filtra por inglés, francés o alemán, alrededor del 80 % de los cuidadores de Maastricht son bilingües o trilingües debido a la ubicación transfronteriza.",
           "descriptionPt": "Plataforma internacional de pet-sitting com cerca de 30 cuidadores verificados sediados em Maastricht num raio de 5 km do centro, com visitas pontuais, creche diurna e alojamento durante a noite. Todos os cuidadores são verificados e o seguro vem incluído.",
-          "tipPt": "Filtre por cuidadores que falam inglês, francês ou alemão: cerca de 80% dos cuidadores de Maastricht são bilingues ou trilingues devido à localização transfronteiriça."
+          "tipPt": "Filtre por cuidadores que falam inglês, francês ou alemão: cerca de 80% dos cuidadores de Maastricht são bilingues ou trilingues devido à localização transfronteiriça.",
+          "descriptionDe": "Internationale Plattform für Haustierbetreuung mit rund 30 geprüften Sittern in Maastricht innerhalb von 5 km vom Zentrum, Kurzbesuche, Hundetagesbetreuung, Übernachtungsbetreuung. Alle Sitter sind geprüft, eine Versicherung ist inbegriffen.",
+          "tipDe": "Nach englisch-, französisch- oder deutschsprachigen Sittern filtern, etwa 80 % der Maastrichter Sitter sind aufgrund der grenznahen Lage zwei- oder dreisprachig."
         },
         {
           "name": "Petbnb Maastricht",
@@ -1090,7 +1233,9 @@
           "tipFr": "Réservez au moins 48h à l'avance pendant le marché Magisch Maastricht de décembre et la semaine de Carnaval, l'offre locale se resserre fortement.",
           "tipEs": "Reserva al menos 48h antes durante el mercado Magisch Maastricht de diciembre y la semana de Carnaval, la oferta local se reduce mucho.",
           "descriptionPt": "Plataforma exclusivamente neerlandesa, com cerca de 20 cuidadores verificados em Maastricht e uma linha telefónica veterinária 24/7 incluída em cada reserva. Tarifa média de 22-30 €/dia para alojamento e 12-15 € por um passeio pontual de 30 min.",
-          "tipPt": "Reserve com pelo menos 48h de antecedência durante o mercado Magisch Maastricht de dezembro e a semana do Carnaval, quando a oferta local diminui significativamente."
+          "tipPt": "Reserve com pelo menos 48h de antecedência durante o mercado Magisch Maastricht de dezembro e a semana do Carnaval, quando a oferta local diminui significativamente.",
+          "descriptionDe": "Nur auf Niederländisch verfügbare Plattform mit rund 20 geprüften Sittern in Maastricht und einer bei jeder Buchung inbegriffenen 24-Stunden-Tierarzt-Telefonhotline. Durchschnittlicher Preis 22-30 €/Tag für Übernachtungsbetreuung, 12-15 € für einen 30-minütigen Kurzbesuch.",
+          "tipDe": "Mindestens 48 Stunden im Voraus buchen während des Dezember-Weihnachtsmarkts Magisch Maastricht und der Karnevalswoche, das lokale Angebot wird dann deutlich knapper."
         }
       ],
       "tipsEn": [
@@ -1153,6 +1298,18 @@
         {
           "q": "Posso encontrar um cuidador que fale inglês em Maastricht?",
           "a": "Sim, cerca de 80% dos cuidadores de Maastricht falam inglês fluente; muitos são também bilingues em francês ou alemão devido à localização transfronteiriça. Filtre a plataforma por idioma."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Maastricht",
+      "introDe": "Für Tagesausflüge, bei denen der Hund nicht mitkommen kann (Höhlen des Sint-Pietersberg, Bonnefantenmuseum, unteres Stockwerk von Selexyz Dominicanen) bietet Maastricht zuverlässige, geprüfte Haustierbetreuung über internationale und niederländische Plattformen.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Hundetagesbetreuung in Maastricht?",
+          "a": "22-30 € pro Tag je nach Sitter und Hundegröße, über Pawshake oder Petbnb. Kurzbesuche kosten 12-15 € für 30 Minuten."
+        },
+        {
+          "q": "Finde ich in Maastricht einen englischsprachigen Sitter?",
+          "a": "Ja, etwa 80 % der Maastrichter Sitter sprechen fließend Englisch; viele sind aufgrund der grenznahen Lage auch zweisprachig in Französisch oder Deutsch. Die Plattform nach Sprache filtern."
         }
       ]
     }

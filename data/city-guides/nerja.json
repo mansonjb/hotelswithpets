@@ -1,4 +1,10 @@
-{"slug":"nerja","name":"Nerja","country":"Spain","flag":"🇪🇸","lastUpdated":"2026-06-19","guides":{
+{
+  "slug": "nerja",
+  "name": "Nerja",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "lastUpdated": "2026-06-19",
+  "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Nerja",
       "titleFr": "Restaurants acceptant les animaux à Nerja",
@@ -31,7 +37,11 @@
           "descriptionPt": "Uma cozinha italo-mediterrânica mesmo no Balcón de Europa, que serve massa feita à mão e pizza fina ao estilo romano com vista sobre o promontório. Os cães com trela são bem-vindos na esplanada mediante pedido prévio na reserva, indicando o tamanho do cão.",
           "petPolicyPt": "Cães bem-vindos na esplanada mediante pedido prévio",
           "mustTryPt": "Massa feita à mão, pizza fina ao estilo romano",
-          "tipPt": "Reserve uma mesa na esplanada e indique o tamanho do seu cão ao reservar. Apenas serviço de jantar"
+          "tipPt": "Reserve uma mesa na esplanada e indique o tamanho do seu cão ao reservar. Apenas serviço de jantar",
+          "descriptionDe": "Eine italienisch-mediterrane Küche direkt am Balcón de Europa, die handgemachte Pasta und dünne römische Pizza mit Blick auf das Vorgebirge serviert. Angeleinte Hunde sind auf der Terrasse willkommen, wenn Sie dies bei der Reservierung vorab anfragen und die Größe Ihres Hundes angeben.",
+          "petPolicyDe": "Hunde auf der Terrasse auf vorherige Anfrage willkommen",
+          "mustTryDe": "Handgemachte Pasta, dünne römische Pizza",
+          "tipDe": "Reservieren Sie einen Terrassentisch und nennen Sie bei der Buchung die Größe Ihres Hundes. Nur Abendservice"
         },
         {
           "name": "La Bottega Nerja",
@@ -57,7 +67,11 @@
           "descriptionPt": "Um espaço mediterrânico e italiano com esplanada com vista para o mar e muitas opções vegetarianas e veganas, a curta distância a pé do Balcón de Europa. Os cães bem-comportados são bem-vindos na esplanada exterior com aviso prévio, e os cães pequenos podem entrar se forem numa caixa de transporte.",
           "petPolicyPt": "Cães bem-vindos na esplanada com aviso prévio; cães pequenos no interior numa caixa de transporte",
           "mustTryPt": "Massa fresca, aperitivo com vista para o mar",
-          "tipPt": "Peça a esplanada central ou exterior quando ligar com antecedência. As mesas com vista para o mar esgotam primeiro"
+          "tipPt": "Peça a esplanada central ou exterior quando ligar com antecedência. As mesas com vista para o mar esgotam primeiro",
+          "descriptionDe": "Ein mediterran-italienisches Lokal mit Terrasse und Meerblick sowie zahlreichen vegetarischen und veganen Optionen, kurz zu Fuß vom Balcón de Europa entfernt. Gut erzogene Hunde sind mit vorheriger Ankündigung auf der Außenterrasse willkommen, kleine Hunde dürfen in einer Transportbox auch hinein.",
+          "petPolicyDe": "Hunde mit vorheriger Ankündigung auf der Terrasse willkommen; kleine Hunde in einer Box auch drinnen",
+          "mustTryDe": "Frische Pasta, Aperitivo mit Meerblick",
+          "tipDe": "Fragen Sie am Telefon nach der mittleren oder äußeren Terrasse. Die Tische mit Meerblick sind zuerst vergeben"
         },
         {
           "name": "Sapore Nerja",
@@ -83,7 +97,11 @@
           "descriptionPt": "Um restaurante italiano descontraído perto da zona de Burriana que serve pizza em forno a lenha, massa fresca e marisco, com opções sem glúten. Está listado como dog-friendly nos diretórios de animais espanhóis, por isso ligue para confirmar uma mesa na esplanada para si e para o seu cão.",
           "petPolicyPt": "Listado como dog-friendly; confirme por telefone",
           "mustTryPt": "Pizza em forno a lenha, massa com marisco",
-          "tipPt": "Ligue com antecedência para confirmar a política de cães e reservar uma mesa na esplanada no verão"
+          "tipPt": "Ligue com antecedência para confirmar a política de cães e reservar uma mesa na esplanada no verão",
+          "descriptionDe": "Ein zwangloses italienisches Restaurant nahe dem Gebiet Burriana mit Pizza aus dem Holzofen, frischer Pasta und Meeresfrüchten sowie glutenfreien Optionen. Es ist in spanischen Haustierverzeichnissen als hundefreundlich gelistet, rufen Sie also vorab an, um einen Terrassentisch für sich und Ihren Hund zu bestätigen.",
+          "petPolicyDe": "Als hundefreundlich gelistet; telefonisch bestätigen",
+          "mustTryDe": "Pizza aus dem Holzofen, Meeresfrüchte-Pasta",
+          "tipDe": "Rufen Sie vorab an, um die Hunderichtlinie zu bestätigen und im Sommer einen Terrassentisch zu reservieren"
         }
       ],
       "tipsEn": [
@@ -163,6 +181,22 @@
           "q": "Os restaurantes de Nerja fornecem água para os cães?",
           "a": "Muitas esplanadas trazem com gosto uma taça de água se a pedir, sobretudo no verão. Não é garantido, por isso leve uma taça dobrável e água nos dias quentes da Andaluzia."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Nerja",
+      "introDe": "Die entspannte Gastronomieszene von Nerja an der Costa del Sol dreht sich um sonnige Terrassen, und ein angeleinter, gut erzogener Hund ist auf vielen von ihnen ein vertrauter Anblick. Die meisten Lokale heißen Hunde eher auf der Außenterrasse als im Innenbereich willkommen, rufen Sie also in der Hochsaison vorab an und zielen Sie auf frühe Abendtermine, sobald die Sommerhitze nachlässt.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Nerja erlaubt?",
+          "a": "Ja, auf den meisten Außenterrassen. Viele Restaurants in Nerja heißen angeleinte, gut erzogene Hunde auf ihren Terrassen willkommen, während die Innenräume meist tabu sind. Rufen Sie in der Hochsaison vorab an, um dies zu bestätigen und einen Terrassentisch zu reservieren."
+        },
+        {
+          "q": "Wo kann ich mit meinem Hund in der Nähe des Balcón de Europa essen?",
+          "a": "La Fuente da Paolo liegt direkt am Balcón de Europa und heißt Hunde auf der Terrasse auf vorherige Anfrage willkommen. La Bottega ist einen kurzen Fußweg entfernt mit einer Terrasse mit Meerblick. Beide bitten darum, den Hund bei der Reservierung zu erwähnen."
+        },
+        {
+          "q": "Stellen Restaurants in Nerja Wasser für Hunde bereit?",
+          "a": "Viele Terrassen bringen auf Nachfrage gerne einen Wassernapf, besonders im Sommer. Garantiert ist das nicht, tragen Sie also an heißen andalusischen Tagen einen faltbaren Napf und Wasser bei sich."
+        }
       ]
     },
     "parks": {
@@ -191,7 +225,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Rio+Chillar+Nerja",
           "descriptionPt": "O passeio mais emblemático de Nerja com tempo quente segue o leito do Río Chíllar por uma garganta fresca, com água ao nível do tornozelo ao joelho e sombra em boa parte do percurso. Os cães adoram porque há água e sombra todo o caminho, o que faz dele a rara caminhada de verão que se mantém confortável no calor andaluz.",
           "offLeashAreaPt": "Mantenha os cães sob controlo; com trela nos troços com mais gente perto da entrada",
-          "tipPt": "Use ténis velhos ou sapatos de água, não sandálias. Atenção à lagarta processionária do pinheiro nos pinheiros do final do inverno ao início do verão, pois é tóxica para os cães"
+          "tipPt": "Use ténis velhos ou sapatos de água, não sandálias. Atenção à lagarta processionária do pinheiro nos pinheiros do final do inverno ao início do verão, pois é tóxica para os cães",
+          "descriptionDe": "Der bekannteste warme Spaziergang in Nerja folgt dem Flussbett des Río Chíllar durch eine kühle Schlucht, mit knöchel- bis knietiefem Wasser und Schatten auf weiten Teilen der Strecke. Hunde lieben ihn, weil es den ganzen Weg über Wasser und Schatten gibt, was ihn zu der seltenen Sommerwanderung macht, die auch bei andalusischer Hitze angenehm bleibt.",
+          "offLeashAreaDe": "Hunde unter Kontrolle halten; an der Leine auf belebteren Abschnitten nahe dem Eingang",
+          "tipDe": "Tragen Sie alte Turnschuhe oder Wasserschuhe, keine Sandalen. Achten Sie von Spätwinter bis Frühsommer in den Kiefern auf Prozessionsspinner-Raupen, da sie für Hunde giftig sind"
         },
         {
           "name": "Parque Canino Verano Azul",
@@ -211,7 +248,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parque+Verano+Azul+Nerja",
           "descriptionPt": "Um parque canino totalmente vedado junto ao Parque Verano Azul, no coração da vila, inaugurado pela câmara de Nerja em dezembro de 2024 para que os cães possam correr à solta num espaço controlado. Tem bebedouros para cães e equipamento de agility como túneis, rampas e um slalom.",
           "offLeashAreaPt": "Todo o recinto vedado. Gratuito, aberto 24/7",
-          "tipPt": "Estacionar é difícil perto do centro. Um pequeno parque do outro lado da ponte fica a 3 ou 4 minutos a pé"
+          "tipPt": "Estacionar é difícil perto do centro. Um pequeno parque do outro lado da ponte fica a 3 ou 4 minutos a pé",
+          "descriptionDe": "Ein vollständig eingezäunter Hundepark neben dem Parque Verano Azul im Herzen der Stadt, im Dezember 2024 vom Rathaus von Nerja eröffnet, damit Hunde in einem kontrollierten Bereich frei laufen können. Es gibt Trinkbrunnen für Hunde und Agility-Geräte wie Tunnel, Rampen und einen Slalom.",
+          "offLeashAreaDe": "Gesamtes eingezäuntes Gelände. Kostenlos, rund um die Uhr geöffnet",
+          "tipDe": "Parkplätze sind nahe dem Zentrum knapp. Ein kleiner Parkplatz jenseits der Brücke ist 3 bis 4 Gehminuten entfernt"
         },
         {
           "name": "Parque Canino Ciudad Deportiva",
@@ -231,7 +271,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Ciudad+Deportiva+Enrique+Lopez+Cuenca+Nerja",
           "descriptionPt": "O segundo dos dois parques caninos municipais de Nerja, vedado e situado junto ao complexo desportivo Ciudad Deportiva Enrique López Cuenca. Tal como o seu gémeo, tem equipamento de agility e bebedouros para cães, com mais espaço para estacionar do que o do centro.",
           "offLeashAreaPt": "Todo o recinto vedado. Gratuito, aberto 24/7",
-          "tipPt": "Mais fácil de combinar com o estacionamento do complexo desportivo do que o parque central. Bom para uma corrida sem trela mais longa"
+          "tipPt": "Mais fácil de combinar com o estacionamento do complexo desportivo do que o parque central. Bom para uma corrida sem trela mais longa",
+          "descriptionDe": "Der zweite der beiden städtischen Hundeparks von Nerja, eingezäunt und neben der Sportanlage Ciudad Deportiva Enrique López Cuenca gelegen. Wie sein Pendant verfügt er über Agility-Geräte und Wasserbrunnen für Hunde, mit mehr Parkraum als der zentrale Park.",
+          "offLeashAreaDe": "Gesamtes eingezäuntes Gelände. Kostenlos, rund um die Uhr geöffnet",
+          "tipDe": "Lässt sich einfacher mit dem Parken bei der Sportanlage kombinieren als der zentrale Park. Gut für einen längeren Freilauf"
         }
       ],
       "tipsEn": [
@@ -310,6 +353,22 @@
         {
           "q": "Os cães podem andar sem trela em Nerja?",
           "a": "Apenas dentro dos dois parques caninos municipais vedados. Em todas as ruas públicas, no passeio marítimo e nos trilhos naturais, os cães têm de andar com trela segundo as regras locais."
+        }
+      ],
+      "titleDe": "Hundeparks & Spaziergänge in Nerja",
+      "introDe": "Nerja bietet Hunden zwei eingezäunte Hundeparks, die Ende 2024 vom Rathaus eröffnet wurden, sowie einen der berühmtesten Sommerspaziergänge Andalusiens, die Flusswanderung am Río Chíllar. Bei der Hitze an der Costa del Sol sollten Sie früh morgens oder nach Sonnenuntergang spazieren gehen, den Bodenbelag zuvor mit der Hand testen und bei jedem Ausflug Wasser mitführen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Hundeparks in Nerja?",
+          "a": "Ja. Das Rathaus von Nerja eröffnete im Dezember 2024 zwei eingezäunte Freilauf-Hundeparks, einen neben dem Parque Verano Azul im Zentrum und einen bei der Sportanlage Ciudad Deportiva. Beide verfügen über Agility-Geräte und Wasserbrunnen für Hunde und sind kostenlos und rund um die Uhr geöffnet."
+        },
+        {
+          "q": "Kann ich meinen Hund am Río Chíllar entlang spazieren führen?",
+          "a": "Ja. Hunde sind auf dem Flussweg am Río Chíllar erlaubt, und dank ständigem Wasser und Schatten ist es eine ideale Sommerroute. Halten Sie Ihren Hund unter Kontrolle, tragen Sie Wasserschuhe und achten Sie von Spätwinter bis Frühsommer auf giftige Prozessionsspinner-Raupen."
+        },
+        {
+          "q": "Können Hunde in Nerja ohne Leine laufen?",
+          "a": "Nur innerhalb der beiden eingezäunten städtischen Hundeparks. Auf allen öffentlichen Straßen, der Promenade und den Naturwegen müssen Hunde nach den örtlichen Vorschriften an der Leine geführt werden."
         }
       ]
     },
@@ -433,6 +492,22 @@
           "q": "Os cães são permitidos nos comboios perto de Nerja?",
           "a": "Não há comboio até Nerja, mas se chegar via Málaga os comboios suburbanos Cercanías transportam cães de qualquer tamanho grátis, com trela e açaime e sem necessidade de caixa. Essa é a opção mais acolhedora para cães grandes."
         }
+      ],
+      "titleDe": "Mit Haustieren nach Nerja reisen",
+      "introDe": "Nerja hat keinen Bahnhof, daher reisen die meisten Haustierbesitzer über den Flughafen Málaga (rund 60 km westlich) und den ALSA-Bus an, oder mit dem Auto. ALSA befördert nur kleine Haustiere in einer festen Transportbox im Laderaum, während die Nahverkehrszüge Cercanías in Málaga deutlich großzügiger sind. Planen Sie Ihren Transfer daher je nach Größe Ihres Hundes.",
+      "faqsDe": [
+        {
+          "q": "Wie komme ich mit Hund nach Nerja?",
+          "a": "Nerja hat keinen Bahnhof. Die meisten Reisenden fliegen zum rund 60 km entfernten Flughafen Málaga und nehmen dann einen ALSA-Bus, ein vorab gebuchtes Haustiertaxi oder einen Mietwagen. ALSA befördert nur kleine Hunde bis 10 kg in einer Box im Laderaum, größere Hunde benötigen daher meist einen Transfer per Auto oder Haustiertaxi."
+        },
+        {
+          "q": "Kann ich meinen Hund im Bus von Málaga nach Nerja mitnehmen?",
+          "a": "Nur kleine Haustiere bis 10 kg in einer festen, verschließbaren Transportbox, die im Laderaum statt in der Kabine reist. Das Tier muss gechippt, geimpft und älter als 12 Wochen sein. Assistenzhunde reisen kostenlos angeleint in der Kabine mit."
+        },
+        {
+          "q": "Sind Hunde in Zügen in der Nähe von Nerja erlaubt?",
+          "a": "Es gibt keinen Zug nach Nerja, doch wenn Sie über Málaga anreisen, befördern die Nahverkehrszüge Cercanías Hunde jeder Größe kostenlos, an der Leine und mit Maulkorb, ohne Transportbox. Das macht das Málaga-Bahnnetz zur hundefreundlichsten Option für größere Hunde."
+        }
       ]
     },
     "beaches": {
@@ -515,6 +590,18 @@
           "q": "Posso levar o meu cão à praia de Burriana?",
           "a": "Não, não durante a época balnear andaluza de 1 de junho a 30 de setembro, quando os cães estão proibidos nas praias urbanas de Nerja. A tolerância fora de época nos troços mais tranquilos é não oficial, por isso para um banho garantido vá antes à praia canina de Torrox."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände nahe Nerja",
+      "introDe": "Nerjas eigene Strände, einschließlich Burriana, verbieten Hunde während der andalusischen Badesaison vom 1. Juni bis 30. September, und die Stadt hat keinen eigenen offiziellen Hundestrand. Die verlässliche ganzjährige Option ist die offizielle Playa Canina in Torrox, rund zehn Minuten mit dem Auto entfernt, mit einem zweiten ausgewiesenen Hundestrand nahe Almuñécar.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Hundestrand in Nerja?",
+          "a": "Nicht in Nerja selbst, wo die Hauptstrände Hunde vom 1. Juni bis 30. September verbieten. Der nächste offizielle Hundestrand ist die Playa Canina de Torrox, rund zehn Minuten westlich mit dem Auto, die ganzjährig für Hunde geöffnet ist. Ein zweiter ausgewiesener Hundestrand liegt östlich nahe Almuñécar."
+        },
+        {
+          "q": "Kann ich meinen Hund an den Strand von Burriana mitnehmen?",
+          "a": "Nein, nicht während der andalusischen Badesaison vom 1. Juni bis 30. September, wenn Hunde von den Stadtstränden Nerjas verbannt sind. Die Toleranz außerhalb der Saison auf ruhigeren Abschnitten ist inoffiziell; für ein garantiertes Bad fahren Sie stattdessen zum Hundestrand von Torrox."
+        }
       ]
     },
     "vets": {
@@ -559,7 +646,10 @@
           "photo": "",
           "hoursPt": "Seg–sex 09:30–14:00 e 17:30–20:30, sáb 10:30–13:30; urgências 24h",
           "descriptionPt": "A clínica mais próxima de Nerja com cobertura de urgências 24 horas, em Torrox-Costa, a cerca de dez a quinze minutos a oeste. Atende consultas de rotina no horário de funcionamento e urgências 24h no resto do tempo, com uma linha móvel adicional em +34 608 454 270.",
-          "tipPt": "Guarde ambos os números antes da viagem e ligue com antecedência para que se preparem para a sua chegada numa urgência"
+          "tipPt": "Guarde ambos os números antes da viagem e ligue com antecedência para que se preparem para a sua chegada numa urgência",
+          "hoursDe": "Mo–Fr 09:30–14:00 & 17:30–20:30, Sa 10:30–13:30; 24-Std.-Notfälle",
+          "descriptionDe": "Die nächstgelegene Klinik zu Nerja mit rund um die Uhr verfügbarer Notfallversorgung, in Torrox-Costa rund zehn bis fünfzehn Minuten westlich. Sie behandelt Routinekonsultationen während der Öffnungszeiten und ansonsten 24-Stunden-Notfälle, mit einer zusätzlichen mobilen Nummer unter +34 608 454 270.",
+          "tipDe": "Speichern Sie beide Nummern vor Ihrer Reise und rufen Sie im Notfall vorab an, damit man sich auf Ihre Ankunft vorbereiten kann"
         },
         {
           "name": "Clínica Veterinaria Nerja",
@@ -581,7 +671,10 @@
           "photo": "",
           "hoursPt": "Seg–sex 10:00–14:00 e 17:00–20:00, qua 10:00–17:00, sáb 10:00–13:30; encerra dom",
           "descriptionPt": "Uma prática clínica de medicina geral no centro de Nerja para necessidades de rotina como check-ups, renovação de receitas, tratamento de parasitas ou papelada de viagem durante uma estadia mais longa. Não é uma clínica 24 horas, por isso para urgências fora de horas recorra à Clínica Veterinaria Laguna em Torrox.",
-          "tipPt": "Ligue com antecedência para confirmar o horário do dia, que varia, e marcar um horário durante a sua estadia"
+          "tipPt": "Ligue com antecedência para confirmar o horário do dia, que varia, e marcar um horário durante a sua estadia",
+          "hoursDe": "Mo–Fr 10:00–14:00 & 17:00–20:00, Mi 10:00–17:00, Sa 10:00–13:30; sonntags geschlossen",
+          "descriptionDe": "Eine praktische Allgemeinpraxis im Zentrum von Nerja für Routineangelegenheiten wie Kontrolluntersuchungen, Rezeptnachfüllungen, Parasitenbehandlung oder Reiseunterlagen während eines längeren Aufenthalts. Es handelt sich nicht um eine 24-Stunden-Klinik, für Notfälle außerhalb der Öffnungszeiten nutzen Sie die Clínica Veterinaria Laguna in Torrox.",
+          "tipDe": "Rufen Sie vorab an, um die tagesaktuellen Öffnungszeiten zu bestätigen, die variieren, und um während Ihres Aufenthalts einen Termin zu buchen"
         },
         {
           "name": "Centro Veterinario Vélez (Veterinario 365)",
@@ -603,7 +696,10 @@
           "photo": "",
           "hoursPt": "Aberto 365 dias; linha de urgência 24h +34 616 403 350",
           "descriptionPt": "Um centro veterinário 24h maior em Vélez-Málaga, aberto todos os dias do ano, útil como alternativa para casos graves quando a clínica de Torrox não estiver disponível. Fica mais longe de Nerja do que Torrox, por isso é um recurso e não a primeira chamada.",
-          "tipPt": "Use a linha móvel de urgência 24h dedicada e ligue antes de sair, pois o trajeto desde Nerja é mais longo"
+          "tipPt": "Use a linha móvel de urgência 24h dedicada e ligue antes de sair, pois o trajeto desde Nerja é mais longo",
+          "hoursDe": "365 Tage geöffnet; 24-Std.-Notfalltelefon +34 616 403 350",
+          "descriptionDe": "Ein größeres, an jedem Tag des Jahres geöffnetes 24-Stunden-Tierzentrum in Vélez-Málaga, nützlich als Ausweichoption für ernste Fälle, wenn die Klinik in Torrox nicht verfügbar ist. Es liegt weiter von Nerja entfernt als Torrox und dient daher eher als Rückfallebene denn als erste Anlaufstelle.",
+          "tipDe": "Nutzen Sie die spezielle 24-Std.-Notfall-Mobilnummer und rufen Sie vor der Abfahrt an, da es sich um eine längere Fahrt von Nerja aus handelt"
         }
       ],
       "faqsEn": [
@@ -646,6 +742,18 @@
         {
           "q": "Preciso de um passaporte de animal para trazer o meu cão a Nerja?",
           "a": "Os animais registados na UE precisam de um passaporte europeu válido com microchip e vacinação antirrábica em dia, devendo passar pelo menos 21 dias após a vacina antes da entrada. Os animais de fora da UE precisam de um certificado sanitário e, por vezes, de um teste serológico antirrábico. Consulte o Ministério espanhol (MAPA) para as regras mais recentes."
+        }
+      ],
+      "titleDe": "Not-Tierärzte in Nerja, Tierarztpraxen & Haustierpflege",
+      "introDe": "Nerja verfügt über eine Tierarztpraxis im Stadtzentrum für die tägliche Versorgung, während die nächste rund um die Uhr verfügbare Notfallversorgung in Torrox liegt, rund zehn bis fünfzehn Minuten entfernt. EU-registrierte Haustiere benötigen für die Einreise nach Spanien einen gültigen EU-Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt in Nerja?",
+          "a": "Die nächste rund um die Uhr verfügbare Notfallversorgung ist die Clínica Veterinaria Laguna in Torrox-Costa (+34 952 530 463), rund zehn bis fünfzehn Minuten westlich von Nerja. Für die tägliche Versorgung gibt es die Clínica Veterinaria Nerja im Stadtzentrum. Rufen Sie im Notfall immer vorab an, bevor Sie eintreffen."
+        },
+        {
+          "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Nerja mitzubringen?",
+          "a": "EU-registrierte Haustiere benötigen einen gültigen EU-Heimtierausweis mit Mikrochip und aktueller Tollwutimpfung, wobei vor der Einreise mindestens 21 Tage seit der Tollwutimpfung vergangen sein müssen. Haustiere aus Nicht-EU-Ländern benötigen eine Tiergesundheitsbescheinigung und unter Umständen einen Tollwut-Titertest. Prüfen Sie beim spanischen Ministerium (MAPA) die aktuellen Vorschriften."
         }
       ]
     },
@@ -760,7 +868,23 @@
           "a": "Leve um passaporte europeu, uma trela e um açaime (necessário nos comboios suburbanos de Málaga e para algumas raças), sacos para dejetos, uma taça dobrável e muita água. Sapatos de água são úteis para o Río Chíllar, e um plano de sombra é importante no verão."
         }
       ],
-      "tipsPt": []
+      "tipsPt": [],
+      "titleDe": "Hundefreundliche Tipps für Nerja",
+      "introDe": "Nerja ist eine unkomplizierte Stadt an der Costa del Sol, in der angeleinte Hunde auf Terrassen, der Promenade und den Straßen der Altstadt willkommen sind. Die beiden Dinge, auf die man sich einstellen sollte, sind die Sommerhitze und das saisonale Strandverbot, die Erstbesucher beide oft überraschen.",
+      "faqsDe": [
+        {
+          "q": "Ist Nerja gut für Hunde geeignet?",
+          "a": "Ja, mit zwei Einschränkungen. Angeleinte Hunde sind auf Terrassen, der Promenade und den Straßen der Altstadt willkommen, und die Stadt verfügt inzwischen über zwei eingezäunte Hundeparks sowie den berühmten Río-Chíllar-Spaziergang. Die beiden Grenzen, auf die man sich einstellen sollte, sind die starke Sommerhitze und das Strandverbot vom 1. Juni bis 30. September."
+        },
+        {
+          "q": "Darf mein Hund in Nerja an den Strand?",
+          "a": "Nicht an Nerjas eigenen Stränden während der Badesaison vom 1. Juni bis 30. September. Die verlässliche ganzjährige Option ist der offizielle Hundestrand in Torrox, rund zehn Minuten westlich mit dem Auto, mit einem zweiten Strand östlich nahe Almuñécar."
+        },
+        {
+          "q": "Was sollte ich für eine Reise mit Hund nach Nerja einpacken?",
+          "a": "Bringen Sie einen EU-Heimtierausweis, eine Leine und einen Maulkorb mit (nötig in den Málaga-Nahverkehrszügen und bei manchen Rassen), Kotbeutel, einen faltbaren Wassernapf und ausreichend Wasser. Wasserschuhe sind praktisch für den Río Chíllar, und ein Sonnenschutzplan ist im Sommer wichtig."
+        }
+      ]
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Nerja",
@@ -791,7 +915,11 @@
           "descriptionPt": "O icónico promontório de Nerja e o seu passeio ladeado de palmeiras avançam sobre o mar onde a vila antiga encontra o Mediterrâneo, oferecendo algumas das melhores vistas costeiras da Costa del Sol. Os cães com trela são bem-vindos neste miradouro pedonal, e a hora dourada aqui é um dos grandes prazeres gratuitos de uma visita.",
           "dogPolicyPt": "Cães bem-vindos com trela no passeio",
           "admissionFeePt": "Gratuito",
-          "tipPt": "Venha ao pôr do sol pelas vistas, e leve água e um saco para dejetos como em qualquer parte da vila"
+          "tipPt": "Venha ao pôr do sol pelas vistas, e leve água e um saco para dejetos como em qualquer parte da vila",
+          "descriptionDe": "Nerjas ikonisches Vorgebirge und die palmengesäumte Promenade ragen dort über das Meer hinaus, wo die Altstadt auf das Mittelmeer trifft, und bieten einige der besten Küstenblicke an der Costa del Sol. Angeleinte Hunde sind auf diesem Fußgängeraussichtspunkt willkommen, und die goldene Stunde hier ist eines der großen kostenlosen Vergnügen eines Besuchs.",
+          "dogPolicyDe": "Hunde an der Leine auf der Promenade willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Kommen Sie zum Sonnenuntergang wegen der Aussicht und tragen Sie wie überall in der Stadt Wasser und einen Kotbeutel bei sich"
         },
         {
           "name": "Cuevas de Nerja",
@@ -818,7 +946,12 @@
           "dogPolicyPt": "Cães não permitidos no interior; bem-vindos no recinto exterior. Cães de assistência admitidos",
           "admissionFeePt": "Pago; varia consoante a época. Menores de 6 anos grátis. Reserve online",
           "openingHoursPt": "Diariamente 09:30–16:30 (última entrada 15:30); horário alargado no verão",
-          "tipPt": "Visitem à vez enquanto uma pessoa espera com o cão na zona de piquenique sombreada. Compre os bilhetes online para preços mais baixos"
+          "tipPt": "Visitem à vez enquanto uma pessoa espera com o cão na zona de piquenique sombreada. Compre os bilhetes online para preços mais baixos",
+          "descriptionDe": "Die Höhlen von Nerja sind ein gewaltiges prähistorisches Höhlensystem und eine der meistbesuchten Sehenswürdigkeiten Andalusiens, mit einer berühmten zentralen Kammer und antiker Felskunst. Hunde sind aus Gründen des Naturschutzes im Inneren der Höhlen nicht erlaubt, mit Ausnahme von Assistenzhunden, sind jedoch auf dem Außengelände und im Picknickbereich willkommen, während Sie abwechselnd besuchen.",
+          "dogPolicyDe": "Hunde im Inneren nicht erlaubt; auf dem Außengelände willkommen. Assistenzhunde zugelassen",
+          "admissionFeeDe": "Kostenpflichtig; variiert je nach Saison. Unter 6 Jahren kostenlos. Online buchen",
+          "openingHoursDe": "Täglich 09:30–16:30 Uhr (letzter Einlass 15:30 Uhr); im Sommer verlängerte Öffnungszeiten",
+          "tipDe": "Besuchen Sie abwechselnd, während eine Person mit dem Hund im schattigen Picknickbereich wartet. Kaufen Sie Tickets online für günstigere Preise"
         },
         {
           "name": "Old Town & El Salvador Church",
@@ -841,7 +974,11 @@
           "descriptionPt": "A vila antiga caiada de Nerja estende-se a partir do Balcón de Europa em redor da igreja de El Salvador, do século XVII, um emaranhado de ruas estreitas, praças e cafés com esplanada. Os cães com trela são bem-vindos nas ruas e na maioria das esplanadas, fazendo de um passeio matinal sem pressas um dos prazeres mais simples de uma estadia.",
           "dogPolicyPt": "Cães bem-vindos com trela nas ruas e na maioria das esplanadas",
           "admissionFeePt": "Gratuito",
-          "tipPt": "Passeie ao início da manhã antes de o calor e a multidão aumentarem. O interior da igreja é só para pessoas, por isso admire-a a partir da praça"
+          "tipPt": "Passeie ao início da manhã antes de o calor e a multidão aumentarem. O interior da igreja é só para pessoas, por isso admire-a a partir da praça",
+          "descriptionDe": "Die weiß getünchte Altstadt von Nerja erstreckt sich vom Balcón de Europa rund um die Kirche El Salvador aus dem 17. Jahrhundert, ein Gewirr aus engen Gassen, Plätzen und Terrassencafés. Angeleinte Hunde sind auf den Straßen und den meisten Café-Terrassen willkommen, was einen gemütlichen Vormittagsspaziergang zu einem der einfachsten Vergnügen eines Aufenthalts macht.",
+          "dogPolicyDe": "Hunde an der Leine in den Straßen und auf den meisten Terrassen willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Schlendern Sie früh morgens, bevor Hitze und Menschenmengen zunehmen. Das Kircheninnere ist nur für Menschen, bewundern Sie es also vom Platz aus"
         }
       ],
       "tipsEn": [
@@ -889,6 +1026,14 @@
           "q": "Posso visitar as Grutas de Nerja com o meu cão?",
           "a": "Não no interior das grutas, onde os cães não são permitidos por motivos de conservação, exceto os cães de assistência. Os cães são bem-vindos no recinto exterior e na zona de piquenique, por isso o habitual é visitar à vez enquanto uma pessoa espera lá fora com o cão."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Nerja",
+      "introDe": "Nerjas bekannteste Sehenswürdigkeiten liegen im Freien und lassen sich mit angeleintem Hund leicht genießen, vom Vorgebirge Balcón de Europa bis zur Altstadt rund um die Kirche El Salvador. Die berühmten Höhlen von Nerja sind die Hauptausnahme, da Hunde dort nicht hineindürfen, wenngleich sie auf dem umliegenden Gelände willkommen sind.",
+      "faqsDe": [
+        {
+          "q": "Kann ich die Höhlen von Nerja mit meinem Hund besuchen?",
+          "a": "Nicht im Inneren der Höhlen, wo Hunde aus Gründen des Naturschutzes nicht erlaubt sind, mit Ausnahme von Assistenzhunden. Hunde sind auf dem Außengelände und im Picknickbereich willkommen, sodass man üblicherweise abwechselnd besucht, während eine Person draußen mit dem Hund wartet."
+        }
       ]
     },
     "petsitting": {
@@ -918,7 +1063,10 @@
           "tipEs": "Organiza un breve encuentro antes de la primera reserva para que tú y el cuidador confirméis que encaja con tu perro",
           "descriptionPt": "A Gudog é um mercado online de cuidadores de cães verificados que cobre Nerja e a Costa del Sol, com alojamento, creche de dia e passeios. Procura no mapa, envia mensagem a um cuidador, marca um encontro e reserva, o que a torna adequada para viajantes que querem um cuidador local de confiança por umas horas ou uns dias.",
           "serviceTypePt": "Reserva online. Alojamento, creche, passeios",
-          "tipPt": "Marque um breve encontro antes da primeira reserva para que você e o cuidador confirmem que é adequado para o seu cão"
+          "tipPt": "Marque um breve encontro antes da primeira reserva para que você e o cuidador confirmem que é adequado para o seu cão",
+          "descriptionDe": "Gudog ist ein Online-Marktplatz für geprüfte Hundesitter, der Nerja und die Costa del Sol abdeckt und Übernachtungsbetreuung, Tagesbetreuung und Gassi-Service anbietet. Sie durchsuchen die Karte, kontaktieren einen Betreuer, vereinbaren ein Kennenlerntreffen und buchen, was die Plattform gut für Reisende geeignet macht, die für ein paar Stunden oder Tage einen vertrauenswürdigen lokalen Betreuer suchen.",
+          "serviceTypeDe": "Online-Buchung. Übernachtungsbetreuung, Tagesbetreuung, Gassi-Service",
+          "tipDe": "Vereinbaren Sie vor Ihrer ersten Buchung ein kurzes Kennenlerntreffen, damit Sie und der Betreuer bestätigen können, dass es für Ihren Hund passt"
         },
         {
           "name": "Rover Nerja",
@@ -939,7 +1087,10 @@
           "tipEs": "El número de cuidadores en un pueblo pequeño como Nerja es limitado, así que reserva con antelación en verano y no a última hora",
           "descriptionPt": "A Rover é uma grande plataforma internacional de cuidados de animais com alguns cuidadores em Nerja que oferecem alojamento, creche e passeios, cada um com perfil e avaliações. É uma boa segunda opção para comparar com a Gudog, com o mesmo fluxo de reserva online e de conhecer o cuidador.",
           "serviceTypePt": "Reserva online. Alojamento, creche, passeios",
-          "tipPt": "O número de cuidadores numa vila pequena como Nerja é limitado, por isso reserve com antecedência no verão e não à última hora"
+          "tipPt": "O número de cuidadores numa vila pequena como Nerja é limitado, por isso reserve com antecedência no verão e não à última hora",
+          "descriptionDe": "Rover ist eine große internationale Plattform für Haustierpflege mit einer Handvoll Betreuern in Nerja, die Übernachtungsbetreuung, Tagesbetreuung und Gassi-Service anbieten, jeweils mit Profilen und Bewertungen. Es ist eine nützliche zweite Option zum Vergleich neben Gudog, mit demselben Ablauf aus Online-Buchung und Kennenlernen des Betreuers.",
+          "serviceTypeDe": "Online-Buchung. Übernachtungsbetreuung, Tagesbetreuung, Gassi-Service",
+          "tipDe": "Die Anzahl der Betreuer in einer kleinen Stadt wie Nerja ist begrenzt, buchen Sie im Sommer daher gut im Voraus statt in letzter Minute"
         }
       ],
       "tipsEn": [
@@ -987,6 +1138,15 @@
           "q": "Quanto custa o pet sitting em Nerja?",
           "a": "Conte com cerca de 9 a 25 EUR por dia consoante a plataforma e o serviço, de uma visita ou passeio de dia até ao alojamento completo. Reserve com antecedência no verão, pois o número de cuidadores locais numa vila pequena como Nerja é limitado."
         }
+      ],
+      "titleDe": "Hundesitter & Haustierpflege in Nerja",
+      "introDe": "Wenn Sie die Höhlen von Nerja besuchen oder einen Nachmittag ohne Ihren Hund verbringen möchten, verbinden Sie Online-Plattformen mit geprüften lokalen Betreuern in Nerja und der weiteren Costa del Sol. Entlang dieser Küste wird weithin Englisch gesprochen, sodass Sprache für Besucher selten ein Hindernis darstellt.",
+      "faqsDe": [
+        {
+          "q": "Was kostet Hundebetreuung in Nerja?",
+          "a": "Rechnen Sie mit etwa 9 bis 25 € pro Tag, je nach Plattform und Leistung, von einem Tagesbesuch oder Spaziergang bis zur vollen Übernachtungsbetreuung. Buchen Sie im Sommer vorab, da die Anzahl lokaler Betreuer in einer kleinen Stadt wie Nerja begrenzt ist."
+        }
       ]
     }
-  }}
+  }
+}

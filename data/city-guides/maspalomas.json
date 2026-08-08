@@ -38,6 +38,14 @@
           "q": "Os restaurantes de Maspalomas aceitam cães?",
           "a": "Muitas das esplanadas ao ar livre do Boulevard El Faro e do Paseo de Meloneras são tolerantes com um cão com trela e bem-comportado numa mesa exterior, como é habitual em Espanha, mas é sempre decisão de cada estabelecimento. Pergunte à chegada e escolha uma mesa exterior com sombra, sobretudo nos meses quentes."
         }
+      ],
+      "titleDe": "Hundefreundliches Essen in Maspalomas",
+      "introDe": "Das gastronomische Angebot von Maspalomas konzentriert sich auf die Strandpromenaden im Freien, vor allem den Boulevard El Faro am Leuchtturm und den Paseo de Meloneras, wo sich Restaurants auf Außenterrassen mit Meerblick erstrecken. Wie überall in Spanien wird von Lokal zu Lokal entschieden, ob ein angeleinter Hund an einem Außentisch willkommen ist. Statt unbestätigte Haustierrichtlinien aufzulisten, empfehlen wir, zu diesen Promenaden zu gehen, in den kühleren Abendstunden eine schattige Terrasse zu wählen und bei jedem Restaurant bei Ankunft nachzufragen. Wir werden hier benannte, bestätigte hundefreundliche Restaurants ergänzen, sobald wir sie verifiziert haben.",
+      "faqsDe": [
+        {
+          "q": "Sind Restaurants in Maspalomas hundefreundlich?",
+          "a": "Viele der Terrassen im Freien entlang des Boulevard El Faro und des Paseo de Meloneras sind, wie in Spanien üblich, entspannt gegenüber einem gut erzogenen angeleinten Hund am Außentisch, aber es liegt immer im Ermessen des jeweiligen Lokals. Fragen Sie bei Ankunft nach und wählen Sie einen schattigen Außentisch, besonders in den wärmeren Monaten."
+        }
       ]
     },
     "parks": {
@@ -71,7 +79,11 @@
           "tipFr": "Allez-y tôt ou en fin de journée pour l'ombre et un sol plus frais",
           "tipEs": "Ve temprano o al final del día por la sombra y el suelo más fresco",
           "tipPt": "Vá cedo ou ao fim do dia pela sombra e pelo chão mais fresco",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+Tony+Gallardo+Maspalomas"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Tony+Gallardo+Maspalomas",
+          "typeDe": "Öffentlicher Stadtpark",
+          "descriptionDe": "Ein angelegter Stadtpark in Maspalomas mit Palmen, Rasenflächen und schattigen Wegen, ein willkommenes Stück Grün zwischen den Ferienanlagen und ein praktischer Ort für einen Spaziergang, wenn der Strand tabu ist.",
+          "offLeashAreaDe": "Kein Freilaufbereich; halten Sie Hunde auf den Wegen an der Leine und entsorgen Sie deren Hinterlassenschaften.",
+          "tipDe": "Gehen Sie früh oder spät am Tag, wegen des Schattens und kühleren Bodens"
         }
       ],
       "faqsEn": [
@@ -96,6 +108,14 @@
         {
           "q": "Há parques caninos em Maspalomas?",
           "a": "Os parques caninos vedados são limitados na zona turística. O Parque Tony Gallardo é o principal espaço verde para um passeio com trela, e a maioria dos donos recorre aos longos passeios marítimos de Meloneras e à volta do farol para o exercício diário."
+        }
+      ],
+      "titleDe": "Parks & Grünflächen in Maspalomas",
+      "introDe": "Maspalomas ist eher eine reißbrettartig geplante Ferienanlage als eine Altstadt, daher sind formelle Parks begrenzt, und der beste Ort für den täglichen Spaziergang sind die Strandpromenaden. Die wichtigste eigenständige Grünfläche ist der Parque Tony Gallardo, ein angelegter Park, praktisch für einen schattigen Spaziergang an der Leine abseits des Strandes.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Hundeparks in Maspalomas?",
+          "a": "Formelle eingezäunte Hundeparks sind im Ferienort begrenzt. Der Parque Tony Gallardo ist die wichtigste Grünfläche für einen Spaziergang an der Leine, und die meisten Besitzer verlassen sich für die tägliche Bewegung auf die langen Strandpromenaden in Meloneras und rund um den Leuchtturm."
         }
       ]
     },
@@ -203,6 +223,18 @@
           "q": "Como viajam os cães para a Gran Canaria?",
           "a": "De avião ou de ferry, por ser uma ilha. A maioria dos cães chega de avião: os animais pequenos costumam viajar na cabina numa transportadora debaixo do banco até certo peso, e os cães grandes vão no porão. As regras variam consoante a companhia aérea e a linha de ferry, por isso confirme os detalhes, a reserva e a documentação com a sua companhia bastante antes de viajar."
         }
+      ],
+      "titleDe": "Mit Hund in Maspalomas unterwegs",
+      "introDe": "Maspalomas liegt an der Südspitze von Gran Canaria, etwa 30 bis 40 Autominuten vom Flughafen Gran Canaria (LPA) entfernt. Auf der Insel gibt es keine Eisenbahn, daher bewegt man sich mit den Überlandbussen von Global, mit dem Taxi oder dem Mietwagen fort, und die Kanarischen Inseln selbst erreicht man nur per Flugzeug oder Fähre.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund im Bus auf Gran Canaria mitnehmen?",
+          "a": "Ja, in den Global-Bussen. Haustiere unter 10 kg reisen in der Kabine in einer geschlossenen Transportbox von maximal 60x35x35 cm auf Ihrem Schoß, eines pro Fahrgast, während Hunde über 10 kg im Frachtraum in einer Box mitfahren. Registrierte Assistenzhunde reisen kostenlos angeleint in der Kabine."
+        },
+        {
+          "q": "Wie reisen Hunde nach Gran Canaria?",
+          "a": "Per Flugzeug oder Fähre, da es sich um eine Insel handelt. Die meisten Hunde fliegen mit: kleine Haustiere können meist in der Kabine in einer Transportbox unter dem Sitz bis zu einem festgelegten Gewicht reisen, größere Hunde reisen im Frachtraum. Die Regeln unterscheiden sich je nach Fluggesellschaft und Fährlinie, bestätigen Sie daher die Details, Buchung und Unterlagen gut vor der Reise mit Ihrem Beförderer."
+        }
       ]
     },
     "beaches": {
@@ -238,7 +270,12 @@
           "facilitiesEs": "Entorno de pueblo con aparcamiento, cafeterías y tiendas cerca en Arguineguín",
           "facilitiesPt": "Ambiente de vila com estacionamento, cafés e lojas por perto em Arguineguín",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+El+Perchel+Arguineguin",
-          "photo": ""
+          "photo": "",
+          "distanceDe": "Etwa 20 Autominuten westlich, in Arguineguín (Mogán)",
+          "descriptionDe": "Einer von fünf offiziellen Hundestränden, die die Gemeinde Mogán im Februar 2026 eröffnet hat, eine kleine markierte Bucht im Fischerort Arguineguín und die nächstgelegene ganzjährige playa canina zu Maspalomas.",
+          "seasonDe": "Ganzjährig, innerhalb festgelegter Zeiten",
+          "rulesDe": "Hunde sind nur während der reservierten Zeitfenster erlaubt, etwa von 07:00 bis 10:00 und 18:00 bis 21:00 Uhr, und müssen im markierten Bereich bleiben. Das Aufsammeln von Hinterlassenschaften ist Pflicht, und potenziell gefährliche Rassen müssen laut spanischem Recht angeleint und mit Maulkorb versehen sein.",
+          "facilitiesDe": "Dorfumgebung mit Parkplätzen, Cafés und Geschäften in der Nähe in Arguineguín"
         },
         {
           "name": "Playa de Los Frailes (Mogán)",
@@ -263,7 +300,12 @@
           "facilitiesEs": "Pequeña cala natural con servicios limitados, lleva tu propia agua y sombra",
           "facilitiesPt": "Pequena enseada natural com poucos serviços, leve a sua água e sombra",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+de+Los+Frailes+Mogan",
-          "photo": "/images/city-places/maspalomas-beaches-los-frailes.jpg"
+          "photo": "/images/city-places/maspalomas-beaches-los-frailes.jpg",
+          "distanceDe": "Etwa 30 bis 35 Autominuten westlich, hinter Arguineguín (Mogán)",
+          "descriptionDe": "Ein weiterer der im Februar 2026 eröffneten Hundestrände Mogáns und der entspannteste der Gruppe, an dem Hunde ganztägig in der gesamten Bucht erlaubt sind statt nur zu festgelegten Zeiten.",
+          "seasonDe": "Ganzjährig, ganztägig",
+          "rulesDe": "Ganztägiger Zugang ohne Zeitfenster. Halten Sie Hunde unter Kontrolle, entfernen Sie deren Hinterlassenschaften, und legen Sie potenziell gefährlichen Rassen laut spanischem Recht Maulkorb und Leine an.",
+          "facilitiesDe": "Kleine natürliche Bucht mit begrenztem Angebot, bringen Sie eigenes Wasser und Sonnenschutz mit"
         },
         {
           "name": "Playa de Los Tres Peos (Agüimes)",
@@ -288,7 +330,12 @@
           "facilitiesEs": "Playa salvaje casi sin servicios y sin sombra, lleva todo lo necesario",
           "facilitiesPt": "Praia selvagem quase sem serviços e sem sombra, leve tudo o que precisa",
           "googleMapsUrl": "https://maps.google.com/?q=Playa+de+Los+Tres+Peos+Aguimes",
-          "photo": "/images/city-places/maspalomas-beaches-los-tres-peos.jpg"
+          "photo": "/images/city-places/maspalomas-beaches-los-tres-peos.jpg",
+          "distanceDe": "Etwa 30 Autominuten östlich, bei Agüimes",
+          "descriptionDe": "Ein ruhiger, offiziell ausgewiesener Hundestrand an der Südostküste der Insel, einer der am längsten bestehenden playas caninas im Süden von Gran Canaria.",
+          "seasonDe": "Ganzjährig, am besten bei Ebbe",
+          "rulesDe": "Ganzjährig für Hunde geöffnet, aber nutzbarer Sand erscheint hauptsächlich bei Ebbe, prüfen Sie also die Gezeitentabelle, bevor Sie hinfahren. Das Aufsammeln von Hinterlassenschaften ist Pflicht, und gefährliche Rassen müssen angeleint und mit Maulkorb versehen sein.",
+          "facilitiesDe": "Naturbelassener Strand mit fast keiner Infrastruktur und keinem Schatten, bringen Sie alles Nötige mit"
         }
       ],
       "faqsEn": [
@@ -330,6 +377,18 @@
           "q": "Onde fica a praia canina oficial mais próxima de Maspalomas?",
           "a": "As mais próximas ficam no município vizinho de Mogán, que abriu cinco praias caninas em fevereiro de 2026. A Playa de El Perchel, em Arguineguín, a cerca de 20 minutos a oeste, é a mais próxima, com opções durante todo o dia como Los Frailes um pouco mais adiante. Los Tres Peos, perto de Agüimes, é a principal praia canina a leste."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in der Nähe von Maspalomas",
+      "introDe": "Das ist der ehrliche Teil einer Reise nach Maspalomas mit Hund. Die berühmten Sandstrände, Playa de Maspalomas und Playa del Inglés, sowie das geschützte Naturschutzgebiet der Dünen von Maspalomas verbieten Hunde ganzjährig. Das Verbot wird durchgesetzt, und Strafen können bis zu 1.500 Euro betragen; manche Besitzer gehen nach Einbruch der Dunkelheit mit ihren Hunden über den leeren Sand, aber das wird bestenfalls geduldet, niemals erlaubt. Die nächstgelegenen offiziellen Hundestrände (playas caninas) liegen eine kurze Autofahrt entfernt in der benachbarten Gemeinde Mogán, die im Februar 2026 fünf davon eröffnet hat, sowie an der Südostküste um Agüimes.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund an den Strand von Maspalomas oder Playa del Inglés mitnehmen?",
+          "a": "Nein. Hunde sind am Playa de Maspalomas, am Playa del Inglés und im gesamten Naturschutzgebiet der Dünen von Maspalomas verboten, und das Verbot ist mit Bußgeldern von bis zu 1.500 Euro belegt. Manche Besitzer gehen nach Einbruch der Dunkelheit, sobald die Sonnenbadenden weg sind, mit ihren Hunden über den Sand, aber das wird bestenfalls geduldet, nicht erlaubt."
+        },
+        {
+          "q": "Wo ist der nächste offizielle Hundestrand bei Maspalomas?",
+          "a": "Die nächsten liegen in der benachbarten Gemeinde Mogán, die im Februar 2026 fünf Hundestrände eröffnet hat. Playa de El Perchel in Arguineguín, etwa 20 Minuten westlich, ist der nächstgelegene, mit ganztägigen Optionen wie Los Frailes etwas weiter entfernt. Los Tres Peos bei Agüimes ist der wichtigste ausgewiesene Hundestrand im Osten."
+        }
       ]
     },
     "vets": {
@@ -365,7 +424,11 @@
           "tipEs": "Llama con antelación en una urgencia para que el equipo se prepare antes de tu llegada",
           "tipPt": "Ligue com antecedência numa urgência para que a equipa se prepare antes da sua chegada",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Maspalomas+San+Fernando",
-          "photo": "/images/city-places/maspalomas-vets-clinica-maspalomas.jpg"
+          "photo": "/images/city-places/maspalomas-vets-clinica-maspalomas.jpg",
+          "typeDe": "Allgemeine Praxis mit 24-Stunden-Notdienst",
+          "hoursDe": "Reguläre Sprechzeiten wochentags plus 24-Stunden-Notrufleitung",
+          "descriptionDe": "Eine Vollservice-Klinik in San Fernando, wenige Minuten von Playa del Inglés entfernt, die rund um die Uhr Notfallversorgung neben Routinesprechstunden anbietet.",
+          "tipDe": "Rufen Sie im Notfall im Voraus an, damit sich das Team auf Ihre Ankunft vorbereiten kann"
         },
         {
           "name": "Clínica Veterinaria Petsalud Maspalomas",
@@ -390,7 +453,11 @@
           "tipEs": "Práctica para necesidades rutinarias durante tu estancia; llama antes para comprobar el horario",
           "tipPt": "Prática para necessidades de rotina durante a estadia; ligue antes para confirmar o horário",
           "googleMapsUrl": "https://maps.google.com/?q=Petsalud+Maspalomas",
-          "photo": "/images/city-places/maspalomas-vets-petsalud.jpg"
+          "photo": "/images/city-places/maspalomas-vets-petsalud.jpg",
+          "typeDe": "Allgemeine Praxis",
+          "hoursDe": "Sprechzeiten wochentags, telefonisch bestätigen",
+          "descriptionDe": "Eine Tierarztpraxis im Viertel Maspalomas für Routinesprechstunden, Impfungen und kleinere Behandlungen.",
+          "tipDe": "Praktisch für Routinebedürfnisse während Ihres Aufenthalts; rufen Sie vorher an, um die Öffnungszeiten zu prüfen"
         },
         {
           "name": "Centro Veterinario Vista Cumbre",
@@ -415,7 +482,11 @@
           "tipEs": "Guarda el fijo y el móvil para poder contactarlos rápidamente",
           "tipPt": "Guarde o fixo e o móvel para os contactar rapidamente",
           "googleMapsUrl": "https://maps.google.com/?q=Centro+Veterinario+Vista+Cumbre+San+Fernando",
-          "photo": "/images/city-places/maspalomas-vets-vista-cumbre.jpg"
+          "photo": "/images/city-places/maspalomas-vets-vista-cumbre.jpg",
+          "typeDe": "Allgemeine Praxis",
+          "hoursDe": "Sprechzeiten wochentags; Mobilnummer +34 646 621 470",
+          "descriptionDe": "Ein Tierarztzentrum in San Fernando de Maspalomas für Sprechstunden und Vorsorge, mit zusätzlicher Mobilnummer.",
+          "tipDe": "Speichern Sie sowohl die Festnetz- als auch die Mobilnummer, um schnell erreichbar zu sein"
         }
       ],
       "faqsEn": [
@@ -456,6 +527,18 @@
         {
           "q": "O que devo levar a uma visita ao veterinário em Espanha?",
           "a": "Leve o passaporte europeu para animais ou o certificado sanitário do seu cão com o número de microchip e uma vacinação antirrábica válida. São os documentos habituais que as clínicas espanholas pedem e também os que precisa para entrar no país."
+        }
+      ],
+      "titleDe": "Tierärzte in Maspalomas",
+      "introDe": "San Fernando de Maspalomas, die Wohnstadt direkt hinter den Ferienanlagen, verfügt über mehrere Tierarztpraxen wenige Minuten von Playa del Inglés und Meloneras entfernt, darunter eine mit 24-Stunden-Notdienst. Speichern Sie eine Nummer vor der Reise, da Sommerhitze und ungewohntes Futter die häufigsten Gründe sind, warum Hunde im Urlaub einen Tierarzt brauchen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Notfalltierarzt in der Nähe von Maspalomas?",
+          "a": "Ja. Die Clínica Veterinaria Maspalomas in San Fernando betreibt neben ihren regulären Sprechstunden eine 24-Stunden-Notrufleitung, wenige Minuten von den Ferienanlagen entfernt. Speichern Sie die Nummer vor der Reise und rufen Sie im Voraus an, damit das Team bei Ihrer Ankunft bereit ist."
+        },
+        {
+          "q": "Was sollte ich zu einem Tierarztbesuch in Spanien mitbringen?",
+          "a": "Bringen Sie den EU-Heimtierausweis oder das Gesundheitszeugnis Ihres Hundes mit, das die Mikrochipnummer und eine gültige Tollwutimpfung ausweist. Dies sind die von spanischen Kliniken standardmäßig verlangten Dokumente, und sie werden auch für die Einreise ins Land benötigt."
         }
       ]
     },
@@ -570,6 +653,22 @@
           "q": "Preciso de um passaporte europeu para animais para Maspalomas?",
           "a": "Para cães que viajam a partir da UE, sim: um passaporte europeu para animais com microchip e vacinação antirrábica válida. Os viajantes de fora da UE precisam do certificado sanitário equivalente. Como a Gran Canaria é uma ilha, confirme também com antecedência as regras para animais da sua companhia aérea."
         }
+      ],
+      "titleDe": "Hundefreundliche Tipps für Maspalomas",
+      "introDe": "Maspalomas ist Gran Canarias klassischer Winter-Sonnenferienort, das ganze Jahr über mild und trocken, was Spaziergänge mit Hund entlang der Promenaden außerhalb der Saison zu einer echten Stärke macht, mit Tageshöchstwerten von etwa zwanzig Grad im Januar. Der Haken für Haustierbesitzer ist der Strand: Die berühmten Sandstrände und die geschützten Dünen sind für Hunde strikt tabu, planen Sie also Ihre Strandtage rund um die offiziellen Hundestrände in kurzer Fahrtdistanz.",
+      "faqsDe": [
+        {
+          "q": "Ist Maspalomas ein guter Ort für einen Besuch mit Hund?",
+          "a": "Ja, mit den richtigen Erwartungen. Das Klima ist das ganze Jahr über mild, und die Promenaden in Meloneras und am Leuchtturm eignen sich perfekt für Spaziergänge an der Leine, besonders im Winter. Die Haupteinschränkung ist, dass die berühmten Strände und Dünen für Hunde verboten sind, sodass Sie für Zeit am Sand die offiziellen Hundestrände in Mogán oder Agüimes nutzen."
+        },
+        {
+          "q": "Wann ist die beste Zeit, um Maspalomas mit Hund zu besuchen?",
+          "a": "Die kühleren Monate von etwa Oktober bis April sind ideal: Tageshöchstwerte um zwanzig Grad, ruhige Promenaden und angenehme Spaziergänge ohne die sommerliche Mittagshitze, genau der Winter-Sonnen-Reiz, der Maspalomas zu einer einfachen Basis außerhalb der Saison macht."
+        },
+        {
+          "q": "Brauche ich einen EU-Heimtierausweis für Maspalomas?",
+          "a": "Für Hunde, die aus der EU reisen: ja, einen EU-Heimtierausweis mit Mikrochip und gültiger Tollwutimpfung. Reisende von außerhalb der EU benötigen das entsprechende Gesundheitszeugnis. Da Gran Canaria eine Insel ist, prüfen Sie auch die spezifischen Haustierregeln Ihrer Fluggesellschaft gut vor dem Flug."
+        }
       ]
     },
     "attractions": {
@@ -606,7 +705,12 @@
           "tipFr": "Venez au coucher du soleil, quand la lumière sur le phare et les dunes est la plus belle et le boulevard plus frais",
           "tipEs": "Ven al atardecer, cuando la luz sobre el faro y las dunas es mejor y el bulevar está más fresco",
           "tipPt": "Venha ao pôr do sol, quando a luz sobre o farol e as dunas é melhor e o passeio está mais fresco",
-          "googleMapsUrl": "https://maps.google.com/?q=Faro+de+Maspalomas"
+          "googleMapsUrl": "https://maps.google.com/?q=Faro+de+Maspalomas",
+          "neighborhoodDe": "Maspalomas / Meloneras",
+          "descriptionDe": "Der Leuchtturm aus dem 19. Jahrhundert an der Südspitze der Insel ist das Wahrzeichen der Gegend, und der umliegende Boulevard El Faro ist eine Freiluftpromenade mit Geschäften und Terrassencafés, die bis zum Meer reicht.",
+          "dogPolicyDe": "Angeleinte Hunde sind entlang der Promenade und in den Außenbereichen im Freien willkommen; der Zugang zu Innenräumen liegt im Ermessen des jeweiligen Betreibers.",
+          "admissionFeeDe": "Kostenlos, Promenade und Umgebung des Leuchtturms",
+          "tipDe": "Kommen Sie bei Sonnenuntergang, wenn das Licht auf Leuchtturm und Dünen am schönsten ist und die Promenade kühler ist"
         },
         {
           "name": "La Charca de Maspalomas",
@@ -632,7 +736,12 @@
           "tipFr": "Apportez des jumelles et venez tôt le matin pour l'observation la plus paisible",
           "tipEs": "Lleva prismáticos y ven a primera hora para la observación más tranquila",
           "tipPt": "Leve binóculos e visite de manhã cedo para a observação mais tranquila",
-          "googleMapsUrl": "https://maps.google.com/?q=La+Charca+de+Maspalomas"
+          "googleMapsUrl": "https://maps.google.com/?q=La+Charca+de+Maspalomas",
+          "neighborhoodDe": "Maspalomas",
+          "descriptionDe": "Eine Salzwasserlagune und wichtiger Lebensraum für Vögel neben dem Leuchtturm, Teil des geschützten Naturschutzgebiets der Dünen von Maspalomas, mit Promenade und Aussichtspunkten zur Beobachtung von Reihern, Silberreihern und Zugvögeln.",
+          "dogPolicyDe": "Angeleinte Hunde dürfen nur die umliegenden Wege und die Promenade nutzen. Die Dünen und die Lagune selbst sind ein Schutzgebiet, in dem Hunde nicht erlaubt sind, bleiben Sie also auf der markierten Route.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Bringen Sie ein Fernglas mit und besuchen Sie den Ort früh morgens für die ruhigste Vogelbeobachtung"
         },
         {
           "name": "Paseo de Meloneras",
@@ -658,7 +767,12 @@
           "tipFr": "Parcourez-la en début de soirée, quand les températures baissent et que les terrasses se remplissent",
           "tipEs": "Recórrelo al caer la tarde, cuando bajan las temperaturas y se llenan las terrazas",
           "tipPt": "Percorra-o ao início da noite, quando as temperaturas descem e as esplanadas enchem",
-          "googleMapsUrl": "https://maps.google.com/?q=Paseo+de+Meloneras"
+          "googleMapsUrl": "https://maps.google.com/?q=Paseo+de+Meloneras",
+          "neighborhoodDe": "Meloneras",
+          "descriptionDe": "Eine breite gepflasterte Strandpromenade, die an den Hotels von Meloneras und kleinen Buchten zwischen Leuchtturm und Klippen vorbeiführt, gesäumt von Café- und Restaurantterrassen mit einfachem Meerblick.",
+          "dogPolicyDe": "Angeleinte Hunde sind entlang der gesamten Promenade und auf deren Außenterrassen willkommen, dem einfachsten Ort in Maspalomas, um sich mit Hund am Meer zu entspannen.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Gehen Sie am frühen Abend spazieren, wenn die Temperaturen sinken und sich die Terrassen füllen"
         }
       ],
       "faqsEn": [
@@ -683,6 +797,14 @@
         {
           "q": "Posso passear o meu cão pelas dunas e pelo farol de Maspalomas?",
           "a": "Pode passear um cão com trela à volta do farol, ao longo do Boulevard El Faro e nos caminhos sinalizados perto de La Charca, mas não na praia nem dentro da Reserva Natural Especial das Dunas de Maspalomas, que é protegida e interdita a cães. Mantenha-se nos passeios e nas rotas sinalizadas."
+        }
+      ],
+      "titleDe": "Hundefreundliche Attraktionen in Maspalomas",
+      "introDe": "Der Strand mag tabu sein, aber vieles, was Maspalomas besonders macht, liegt im Freien und ist mit einem angeleinten Hund problemlos zu erleben, vom markanten Leuchtturm und seiner Promenade bis zur Vogelwelt der La Charca und der langen Strandpromenade in Meloneras. Das Einzige, was zu respektieren ist, sind die geschützten Dünen und die Lagune, wo Hunde auf den markierten Wegen bleiben müssen und das Schutzgebiet selbst meiden sollten.",
+      "faqsDe": [
+        {
+          "q": "Kann ich mit meinem Hund um die Dünen und den Leuchtturm von Maspalomas spazieren gehen?",
+          "a": "Sie können mit einem angeleinten Hund rund um den Leuchtturm, entlang des Boulevard El Faro und auf den markierten Wegen bei La Charca spazieren gehen, aber nicht am Strand oder im Naturschutzgebiet der Dünen von Maspalomas, das geschützt und für Hunde tabu ist. Bleiben Sie auf den Promenaden und markierten Routen."
         }
       ]
     },
@@ -714,7 +836,10 @@
           "tip": "Call ahead to check availability and opening hours before dropping off",
           "tipFr": "Appelez à l'avance pour vérifier les disponibilités et les horaires avant le dépôt",
           "tipEs": "Llama con antelación para comprobar disponibilidad y horario antes de dejarlo",
-          "tipPt": "Ligue com antecedência para confirmar disponibilidade e horário antes de o deixar"
+          "tipPt": "Ligue com antecedência para confirmar disponibilidade e horário antes de o deixar",
+          "descriptionDe": "Eine Tierpension im Landesinneren hinter den Ferienanlagen, an der Straße nach Ayagaures, mit individuellen Zwingern mit überdachten und offenen Bereichen sowie einem beaufsichtigten Pool, in dem Hunde spielen können. Eine gute Option für einen Ausflugstag oder eine Übernachtung, wenn Ihr Hund nicht mitkommen kann.",
+          "serviceTypeDe": "Tierpension mit Tages- und Übernachtungsaufenthalten",
+          "tipDe": "Rufen Sie im Voraus an, um Verfügbarkeit und Öffnungszeiten zu prüfen, bevor Sie Ihren Hund abgeben"
         },
         {
           "name": "Gudog Maspalomas",
@@ -735,7 +860,10 @@
           "tip": "Arrange a short meet-and-greet before your first booking so you and the sitter can confirm it is a good fit",
           "tipFr": "Organisez une courte rencontre avant la première réservation pour confirmer que cela convient à votre chien",
           "tipEs": "Organiza un breve encuentro antes de la primera reserva para confirmar que encaja con tu perro",
-          "tipPt": "Marque um breve encontro antes da primeira reserva para confirmar que é adequado ao seu cão"
+          "tipPt": "Marque um breve encontro antes da primeira reserva para confirmar que é adequado ao seu cão",
+          "descriptionDe": "Ein Online-Marktplatz mit geprüften Hundesittern für Maspalomas und den Süden Gran Canarias, mit Unterbringung, Tagesbetreuung und Gassi-Service. Sie durchsuchen die Karte, kontaktieren einen Sitter, vereinbaren ein Kennenlerntreffen und buchen, was für Reisende geeignet ist, die für ein paar Stunden oder Tage einen vertrauenswürdigen lokalen Sitter suchen.",
+          "serviceTypeDe": "Online-Buchung. Unterbringung, Tagesbetreuung, Gassi-Service",
+          "tipDe": "Vereinbaren Sie vor Ihrer ersten Buchung ein kurzes Kennenlerntreffen, damit Sie und der Sitter bestätigen können, dass es passt"
         }
       ],
       "faqsEn": [
@@ -760,6 +888,14 @@
         {
           "q": "Posso encontrar um cuidador de cães em Maspalomas para um passeio de um dia?",
           "a": "Sim. Plataformas como a Gudog listam cuidadores locais verificados em Maspalomas e no sul da Gran Canaria para alojamento, creche ou passeios, e existe um alojamento tradicional no interior, a Residencia Canina Maspalomas. Reserve com um ou dois dias de antecedência, sobretudo na época alta."
+        }
+      ],
+      "titleDe": "Hundebetreuung & Unterbringung in Maspalomas",
+      "introDe": "Sowohl traditionelle Tierpensionen als auch app-basierte Sitter sind rund um Maspalomas und den weiteren Süden von Gran Canaria tätig, was an den Tagen nützlich ist, an denen das Strandverbot oder ein Bootsausflug bedeuten, dass Ihr Hund nicht mitkommen kann.",
+      "faqsDe": [
+        {
+          "q": "Kann ich für einen Tagesausflug einen Hundesitter in Maspalomas finden?",
+          "a": "Ja. Plattformen wie Gudog listen geprüfte lokale Sitter in ganz Maspalomas und im Süden Gran Canarias für Unterbringung, Tagesbetreuung oder Spaziergänge, und es gibt eine traditionelle Tierpension im Landesinneren, die Residencia Canina Maspalomas. Buchen Sie ein bis zwei Tage im Voraus, besonders in der Hochsaison."
         }
       ]
     }

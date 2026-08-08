@@ -39,7 +39,11 @@
           "tipFr": "Pas de réservation sur la terrasse, arrivez à 17h30 ou après 21h pour éviter la file d'attente de 90 min, surtout de novembre à janvier.",
           "tipEs": "No hay reservas en la terraza, llega a las 17:30 o después de las 21:00 para evitar la cola de 90 min, sobre todo de noviembre a enero.",
           "tipPt": "Não há reservas na esplanada, chega às 17:30 ou depois das 21:00 para evitar a fila de 90 min, sobretudo de novembro a janeiro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Joe%27s+Stone+Crab+11+Washington+Avenue+Miami+Beach"
+          "googleMapsUrl": "https://maps.google.com/?q=Joe%27s+Stone+Crab+11+Washington+Avenue+Miami+Beach",
+          "descriptionDe": "Eine South-Beach-Institution seit 1913, berühmt für gekühlte Stone-Crab-Scheren mit Senfsoße. Die Bürgersteig-Terrasse an der Washington Avenue heißt angeleinte Hunde willkommen, und Wassernäpfe werden auf Anfrage gebracht. Die Stone-Crab-Saison läuft von Mitte Oktober bis Anfang Mai; außerhalb dieses Zeitraums bietet der Take-away-Bereich, Joe's Take Away zwei Türen weiter, eine kürzere ganzjährige Speisekarte, ebenfalls an einem hundefreundlichen Außentresen. Nächster Strand: South Pointe Park, 200 m entfernt.",
+          "petPolicyDe": "Angeleinte Hunde willkommen auf der Bürgersteig-Terrasse (gemäß Florida Dogs-on-Patio-Genehmigung). Kein Innenbereich für Nicht-Assistenzhunde.",
+          "mustTryDe": "Große Stone-Crab-Scheren mit Senfsoße und Key-Lime-Pie",
+          "tipDe": "Keine Reservierungen auf der Terrasse, kommen Sie um 17:30 Uhr oder nach 21:00 Uhr, um die 90-minütige Warteschlange zur Stoßzeit zu umgehen, besonders von November bis Januar."
         },
         {
           "name": "Bayside Hut",
@@ -65,7 +69,11 @@
           "tipFr": "Stationnez sur le parking de Hobie Beach (8 $/jour) et marchez ; cela évite la boucle péage du Rickenbacker Causeway.",
           "tipEs": "Aparca en el parking de Hobie Beach (8 $/día) y ve andando; te ahorras la vuelta del peaje del Rickenbacker Causeway.",
           "tipPt": "Estaciona no parque de Hobie Beach (8 $/dia) e vai a pé; poupa a volta da portagem do Rickenbacker Causeway.",
-          "googleMapsUrl": "https://maps.google.com/?q=Bayside+Hut+3501+Rickenbacker+Causeway+Key+Biscayne"
+          "googleMapsUrl": "https://maps.google.com/?q=Bayside+Hut+3501+Rickenbacker+Causeway+Key+Biscayne",
+          "descriptionDe": "Eine offene Meeresfrüchte-Hütte direkt auf Hobie Island, zwei Minuten Fahrt vom Hobie-Beach-Freilaufstrand für Hunde entfernt. Das gesamte Deck ist im Freien, tropisch, mit Ventilatoren gekühlt und bietet Blick auf die Biscayne Bay und die Skyline von Miami. Angeleinte Hunde sind an jedem Tisch willkommen, und frisches Wasser in Näpfen kommt ungefragt. Muschelfritters, gegrillter Zackenbarsch, Fischtacos, eiskaltes Bier. Der perfekte Mittagsstopp nach einem morgendlichen Schwimmen mit dem Hund am Hobie Beach.",
+          "petPolicyDe": "Angeleinte Hunde auf dem gesamten Freiluftdeck willkommen. Es gibt keinen Innenbereich.",
+          "mustTryDe": "Muschelfritters, gegrilltes Mahi-Sandwich, Fischtacos",
+          "tipDe": "Parken Sie auf dem Hobie-Beach-Parkplatz (8 $/Tag) und laufen Sie hinüber; das spart die Mautschleife über den Rickenbacker Causeway."
         },
         {
           "name": "The River Oyster Bar",
@@ -91,7 +99,11 @@
           "tipFr": "À deux blocs de la station Metromover Brickell City Centre ; réservez spécifiquement sur la terrasse, les réservations en salle sont réaffectées à l'arrivée.",
           "tipEs": "A dos manzanas de la estación de Metromover Brickell City Centre; reserva específicamente en la terraza, las reservas de sala se reasignan al llegar.",
           "tipPt": "A dois quarteirões da estação Metromover Brickell City Centre; reserva especificamente na esplanada, as reservas de sala são reatribuídas à chegada.",
-          "googleMapsUrl": "https://maps.google.com/?q=The+River+Oyster+Bar+33+SE+7th+Street+Miami"
+          "googleMapsUrl": "https://maps.google.com/?q=The+River+Oyster+Bar+33+SE+7th+Street+Miami",
+          "descriptionDe": "Eine Raw Bar in Brickell am Miami River mit einer überdachten, ventilatorgekühlten Außenterrasse, die angeleinte Hunde an jedem Tisch willkommen heißt. Die Küche serviert Austern von Ost- und Westküste, Ceviches, geschwärzten Mahi und eine geschätzte Weinkarte. Brunch am Samstag und Sonntag ist die einfachste Zeit, einen Hund mitzubringen, das späte Abendessen von Donnerstag bis Samstag ist geschäftiger, aber auf der Terrasse weiterhin hundeerlaubt.",
+          "petPolicyDe": "Angeleinte Hunde auf der überdachten Terrasse willkommen. Der Innenbereich ist nur für Assistenzhunde.",
+          "mustTryDe": "Gemischte Austernplatte, Ceviche des Tages, geschwärztes Mahi-Sandwich",
+          "tipDe": "Zwei Blocks zu Fuß von der Metromover-Station Brickell City Centre entfernt; reservieren Sie ausdrücklich die Terrasse, Innenreservierungen werden an der Tür umverteilt."
         }
       ],
       "faqsEn": [
@@ -116,6 +128,14 @@
         {
           "q": "O meu cão pode entrar num restaurante em Miami?",
           "a": "Quase nunca. A regulamentação do Florida Department of Business and Professional Regulation exige que os cães fiquem em esplanadas exteriores; só os cães de serviço podem entrar na sala ou em zonas próximas à cozinha. A boa notícia: South Beach, Brickell, Wynwood, Coconut Grove e Coral Gables têm tempo de esplanada o ano inteiro, raramente é preciso o interior."
+        }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Miami",
+      "introDe": "Miamis ganzjährige Outdoor-Restaurantkultur, geprägt von Art-Deco-Terrassen in South Beach, Uferterrassen in Brickell und Innenhöfen in Wynwood, macht die Stadt zu einer der einfachsten US-Städte, um mit Hund auswärts zu essen. Das Recht in Florida erlaubt Hunde auf Außenterrassen von Restaurants, wenn das Lokal eine \"Dogs on Patio\"-Genehmigung beim Gesundheitsamt des Countys eingereicht hat, und die meisten Lokale in South Beach, Brickell, Wynwood, Coconut Grove und Coral Gables haben dies getan. Im Innenbereich sind nur Assistenzhunde erlaubt. Die Hitze ist von Mai bis Oktober die größte Einschränkung: Die meisten hundefreundlichen Terrassen betreiben Vernebler und Wassernäpfe, aber ein Mittagessen in praller Sonne über 32 °C ist hart für Hunde, daher empfiehlt sich im Sommer eher das Abendessen oder ein frühes Frühstück.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund in ein Restaurant in Miami mit hinein?",
+          "a": "Fast nie. Die Vorschriften des Florida Department of Business and Professional Regulation verlangen, dass Hunde auf Außenterrassen bleiben; nur Assistenzhunde dürfen den Innenbereich oder die küchennahen Zonen betreten. Die gute Nachricht: In South Beach, Brickell, Wynwood, Coconut Grove und Coral Gables herrscht ganzjährig Terrassenwetter, sodass Zugang zum Innenbereich selten nötig ist."
         }
       ]
     },
@@ -147,7 +167,10 @@
           "tipFr": "Venez au coucher du soleil pour le défilé des paquebots de Government Cut ; arrivez 45 min avant le coucher pour avoir un banc sur la jetée.",
           "tipEs": "Ven al atardecer para ver el desfile de cruceros de Government Cut; llega 45 min antes de la puesta para asegurar un banco en el espigón.",
           "tipPt": "Venha ao pôr-do-sol para o desfile de cruzeiros de Government Cut; chega 45 min antes para garantir um banco no molhe.",
-          "googleMapsUrl": "https://maps.google.com/?q=South+Pointe+Park+Miami+Beach"
+          "googleMapsUrl": "https://maps.google.com/?q=South+Pointe+Park+Miami+Beach",
+          "descriptionDe": "Ein 7 Hektar großer Rasenpark an der Südspitze von Miami Beach, wo die Biscayne Bay auf den Atlantik trifft. Die eingezäunte Hundefläche liegt auf der Westseite nahe der 3rd Street und ist eine der windigsten in Miami, mit ganzjähriger Meeresbrise. Die den Park umgebende Promenade ist ein beliebter Hundespaziergang nach dem Ausschiffen von Kreuzfahrtschiffen; Frachtschiffe passieren den ganzen Tag über in 200 m Entfernung von der Mole.",
+          "offLeashAreaDe": "Eingezäunte Hundefläche nahe der 3rd Street (Bereiche für kleine und große Hunde). Im übrigen Park besteht Leinenpflicht.",
+          "tipDe": "Kommen Sie bei Sonnenuntergang für die Kreuzfahrtschiff-Parade am Government Cut; erscheinen Sie 45 Minuten vor Sonnenuntergang, um sich eine Bank auf der Mole zu sichern."
         },
         {
           "name": "Margaret Pace Park",
@@ -167,7 +190,10 @@
           "tipFr": "Stationnement gratuit sur N Bayshore Drive après 18h ; l'affluence canine grossit vers 19h quand les locaux finissent le travail.",
           "tipEs": "Aparcamiento gratuito en N Bayshore Drive después de las 18:00; el ambiente canino se llena hacia las 19:00 cuando los vecinos salen del trabajo.",
           "tipPt": "Estacionamento gratuito na N Bayshore Drive depois das 18:00; o ambiente canino enche por volta das 19:00 quando os locais saem do trabalho.",
-          "googleMapsUrl": "https://maps.google.com/?q=Margaret+Pace+Park+Miami"
+          "googleMapsUrl": "https://maps.google.com/?q=Margaret+Pace+Park+Miami",
+          "descriptionDe": "Ein 3 Hektar großer Grünstreifen an der Biscayne Bay in Edgewater, eingebettet zwischen dem Venetian Causeway und der Innenstadt. Der eingezäunte Hundepark hat getrennte Bereiche für kleine und große Hunde, einen Trinkbrunnen für Hunde und schattige Bänke. Die angrenzende Uferpromenade bietet Blick auf die Skyline der Innenstadt direkt über das Wasser, besonders golden bei Sonnenaufgang.",
+          "offLeashAreaDe": "Zwei eingezäunte Bereiche (kleine und große Hunde). Auf den Parkwegen besteht Leinenpflicht.",
+          "tipDe": "Kostenloses Parken am Straßenrand auf der N Bayshore Drive nach 18:00 Uhr; der Hundeandrang verdichtet sich gegen 19:00 Uhr, wenn Einheimische Feierabend haben."
         },
         {
           "name": "Amelia Earhart Park",
@@ -187,7 +213,10 @@
           "tipFr": "Apportez une serviette et un bidon d'eau douce pour rincer ; le fond du lac est boueux. Le dog wash près du parking est le moyen le plus rapide de nettoyer.",
           "tipEs": "Trae una toalla y una garrafa de agua dulce para aclarar; el fondo del lago es fangoso. La estación de dog wash junto al aparcamiento es la forma más rápida de limpiar.",
           "tipPt": "Traz uma toalha e um garrafão de água doce para enxaguar; o fundo do lago é lamacento. A estação de dog wash junto ao parque é a forma mais rápida de limpar.",
-          "googleMapsUrl": "https://maps.google.com/?q=Amelia+Earhart+Park+Hialeah+Miami"
+          "googleMapsUrl": "https://maps.google.com/?q=Amelia+Earhart+Park+Hialeah+Miami",
+          "descriptionDe": "Ein 207 Hektar großer Miami-Dade-County-Park bei Hialeah mit einem eigenen 4 Hektar großen Freilauf-\"Bark Park\", einschließlich eines eigenen Hundesees, in dem Hunde ganzjährig schwimmen können, getrennten Bereichen für kleine und große Hunde, einer Hundewaschstation und schattigen Picknickpavillons. Die beste urbane Hundeschwimm-Option im Ballungsraum außerhalb der Freilaufstrände. Eintritt 6 $ pro Fahrzeug an Wochenenden und Feiertagen.",
+          "offLeashAreaDe": "4 Hektar großer Bark Park mit einem eigenen Hundeschwimmsee, geöffnet während der Parköffnungszeiten (Sonnenaufgang bis Sonnenuntergang).",
+          "tipDe": "Bringen Sie ein Handtuch und einen Süßwasser-Spülkanister mit; der Seeboden ist schlammig. Die Hundewaschstation neben dem Parkplatz ist die schnellste Reinigungsmöglichkeit."
         }
       ],
       "faqsEn": [
@@ -212,6 +241,14 @@
         {
           "q": "Há horários sem trela nos parques normais de Miami como em Nova Iorque?",
           "a": "Não. Ao contrário de Nova Iorque, Miami e Miami-Dade não aplicam janelas horárias sem trela nos parques normais: fora dos recintos vedados e das duas praias off-leash designadas (Hobie Beach e Haulover Dog Beach), os cães devem ir com trela sempre, segundo a ordenança do condado, com multas a partir de 150 $ por um cão sem trela fora de zona designada."
+        }
+      ],
+      "titleDe": "Hundeparks und Grünflächen in Miami",
+      "introDe": "Miami-Dade County unterhält Dutzende eingezäunte Hundeparks im gesamten Ballungsraum, und die Städte Miami und Miami Beach betreiben ihr eigenes zusätzliches Netzwerk. Die nützlichsten für Reisende sind der South Pointe Park an der Südspitze von Miami Beach, der Margaret Pace Park in Edgewater an der Biscayne Bay, der Tropical Park westlich des Flughafens und der Amelia Earhart Park bei Hialeah mit einem 4 Hektar großen See, in dem Hunde schwimmen können. Die meisten Parks sind von Sonnenaufgang bis Sonnenuntergang geöffnet; die Hundeauslaufflächen haben Sand- oder Holzschnitzeloberflächen mit guter Drainage für die Regenzeit von Mai bis Oktober.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Miamis regulären Parks Freilaufzeiten wie in New York?",
+          "a": "Nein. Anders als New York führen Miami und Miami-Dade keine Freilaufzeitfenster in allgemeinen Parks ein: Außerhalb eingezäunter Hundeauslaufflächen und der beiden ausgewiesenen Freilaufstrände (Hobie Beach und Haulover Dog Beach) müssen Hunde laut County-Verordnung jederzeit angeleint sein, mit Bußgeldern ab 150 $ für einen nicht angeleinten Hund außerhalb eines ausgewiesenen Bereichs."
         }
       ]
     },
@@ -339,6 +376,14 @@
           "q": "Posso levar um cão grande no transporte público de Miami?",
           "a": "Oficialmente não, a regra da transportadora é absoluta no Metrobus, Metrorail, Metromover e no Miami Beach Trolley. Para um cão grande demais para caber numa transportadora, as únicas opções são Uber Pet ou Lyft Pet (suplemento 3-5 $, sem limite de tamanho) ou o seu próprio carro. Os cães de serviço viajam grátis em todo o lado, com trela, sem transportadora."
         }
+      ],
+      "titleDe": "Mit Ihrem Haustier in Miami unterwegs",
+      "introDe": "Miami ist ein autozentrierter Ballungsraum, und der einfachste Weg, einen Hund zu befördern, ist Uber Pet oder Lyft Pet, im gesamten Stadtgebiet verfügbar für einen Aufpreis von 3-5 $ über dem Standardpreis. Öffentliche Verkehrsmittel sind für kleine Haustiere in Transportboxen praktikabel: Miami-Dade Metrobus, Metrorail und das Hochbahnsystem Metromover akzeptieren Haustiere in vollständig geschlossenen Transportboxen kostenlos. Der Fernzug Brightline nach Fort Lauderdale, West Palm Beach und Orlando akzeptiert Haustiere bis 11 kg gegen eine Gebühr von 10 $, die hundefreundlichste Fernverkehrsoption in Florida. Der Flughafen MIA verfügt über zwei überdachte Hundeauslaufbereiche im Terminal nach der Sicherheitskontrolle.",
+      "faqsDe": [
+        {
+          "q": "Kann ich einen großen Hund in den öffentlichen Verkehrsmitteln von Miami mitnehmen?",
+          "a": "Offiziell nein, die Transportbox-Regel gilt uneingeschränkt für Metrobus, Metrorail, Metromover und die Miami Beach Trolley. Für einen Hund, der die Größenbeschränkung der Transportbox überschreitet, bleiben nur Uber Pet oder Lyft Pet (beide 3-5 $ Aufpreis über dem Standardpreis, keine Größenbeschränkung) oder das eigene Auto. Diensthunde fahren überall kostenlos mit, angeleint, keine Transportbox nötig."
+        }
       ]
     },
     "beaches": {
@@ -405,6 +450,14 @@
           "q": "Posso levar o meu cão para a areia de South Beach ou Ocean Drive?",
           "a": "Não, os cães estão rigorosamente proibidos na areia de todas as praias públicas de Miami Beach (South Beach, Mid-Beach, North Beach), o ano inteiro, 24/7, multa 150-500 $. As opções off-leash mais próximas são Hobie Beach (15 min a sul de carro) e Haulover Dog Beach (25 min a norte). O passeio de Ocean Drive em si funciona perfeitamente para um passeio com trela."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Miami",
+      "introDe": "Miami hat genau zwei ausgewiesene Freilaufstrände für Hunde, und beide sind hervorragend: Hobie Beach (auch Hobie Island Beach Park genannt) am Rickenbacker Causeway nach Key Biscayne und Haulover Dog Beach am Südende des Haulover Park in Sunny Isles. Beide sind ganzjährig geöffnet und kostenlos. Außerhalb dieser beiden verbieten alle anderen öffentlichen Strände von Miami-Dade und Miami Beach Hunde jederzeit strikt gemäß County-Verordnung, mit Bußgeldern ab 150 $. Die Hitze ist real: Bringen Sie frisches Wasser mit, achten Sie auf die Pfotenballen bei Sandtemperaturen über 32 °C, und bevorzugen Sie von Mai bis Oktober den frühen Morgen oder späten Nachmittag.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund an den Sand von South Beach oder Ocean Drive mitnehmen?",
+          "a": "Nein, Hunde sind auf dem Sand jedes öffentlichen Strandes von Miami Beach (South Beach, Mid-Beach, North Beach) ganzjährig, rund um die Uhr, strikt verboten, Bußgeld 150-500 $. Die nächstgelegenen Freilauf-Sandoptionen sind Hobie Beach (15 Minuten südlich mit dem Auto) und Haulover Dog Beach (25 Minuten nördlich). Der Ocean-Drive-Bürgersteig selbst eignet sich gut für einen angeleinten Spaziergang."
+        }
       ]
     },
     "vets": {
@@ -441,7 +494,10 @@
           "tipEs": "Sin cita, triaje por gravedad. Llama al +1 305 649 1234 si estás a más de 10 min para que preparen una sala de exploración.",
           "tipPt": "Sem marcação, triagem por gravidade. Liga para +1 305 649 1234 se estiver a mais de 10 min para prepararem uma sala de exames.",
           "googleMapsUrl": "https://maps.google.com/?q=VCA+Knowles+Central+1000+NW+27th+Avenue+Miami",
-          "photo": "/images/city-places/miami-vets-vca-knowles-central-animal-hospital.jpg"
+          "photo": "/images/city-places/miami-vets-vca-knowles-central-animal-hospital.jpg",
+          "hoursDe": "Täglich rund um die Uhr geöffnet",
+          "descriptionDe": "Das Flaggschiff-Krankenhaus von Knowles im Westen Miamis, ursprünglich 1956 von Dr. Knowles gegründet und heute Teil von VCA. Betreibt eine echte 24-Stunden-Notaufnahme mit Notärzten vor Ort sowie Fachchirurgie, Innere Medizin und Zahnmedizin. Zweisprachige Rezeption, und die meisten Ärzte sprechen Spanisch - äußerst nützlich für lateinamerikanische Besucher.",
+          "tipDe": "Ohne Voranmeldung wird nach Schweregrad priorisiert. Rufen Sie unter +1 305 649 1234 an, wenn Sie mehr als 10 Minuten entfernt sind, damit ein Behandlungsraum vorbereitet werden kann."
         },
         {
           "name": "Veterinary Emergency Group (VEG) Miami",
@@ -467,7 +523,10 @@
           "tipEs": "Aparcamiento y entrada principal por el garaje en NE 28th Street, no por la acera de Biscayne Boulevard.",
           "tipPt": "Estacionamento e entrada principal pela garagem na NE 28th Street, não pelo passeio da Biscayne Boulevard.",
           "googleMapsUrl": "https://maps.google.com/?q=VEG+Miami+2707+Biscayne+Boulevard",
-          "photo": "/images/city-places/miami-vets-veterinary-emergency-group-veg-miami.jpg"
+          "photo": "/images/city-places/miami-vets-veterinary-emergency-group-veg-miami.jpg",
+          "hoursDe": "Täglich rund um die Uhr geöffnet",
+          "descriptionDe": "Eine reine Notfall-Tierklinik am Biscayne Boulevard in Edgewater, nur nördlich der Innenstadt und eine kurze Uber-Fahrt von Brickell, Wynwood und South Beach entfernt. Das offene Raumkonzept erlaubt es Besitzern, während des gesamten Besuchs bei ihrem Haustier zu bleiben (kein separater Warteraum). Ohne Voranmeldung, rund um die Uhr, keine Terminvergabe. Behandelt Hunde, Katzen, Vögel, Reptilien und kleine Exoten.",
+          "tipDe": "Parken und Haupteingang über die Garage in der NE 28th Street, nicht über den Bürgersteig am Biscayne Boulevard."
         },
         {
           "name": "VCA Knowles Snapper Creek Animal Hospital",
@@ -493,7 +552,10 @@
           "tipEs": "Acceso directo desde US-1 (South Dixie Highway) a la altura de Sunset Drive; la entrada 24/7 está en la fachada sur del edificio.",
           "tipPt": "Acesso direto a partir da US-1 (South Dixie Highway) à altura da Sunset Drive; a entrada 24/7 está na fachada sul do edifício.",
           "googleMapsUrl": "https://maps.google.com/?q=VCA+Knowles+Snapper+Creek+9933+Sunset+Drive+Miami",
-          "photo": "/images/city-places/miami-vets-vca-knowles-snapper-creek-animal-hospital.jpg"
+          "photo": "/images/city-places/miami-vets-vca-knowles-snapper-creek-animal-hospital.jpg",
+          "hoursDe": "Täglich rund um die Uhr geöffnet",
+          "descriptionDe": "Die Schwesterklinik von Knowles Central im Gebiet Kendall, ebenfalls rund um die Uhr geöffnet. Besonders praktisch, wenn Sie in Coral Gables, Pinecrest oder South Miami wohnen: schneller als nachts nach Edgewater oder NW Miami zu fahren. Zweisprachiges Personal Englisch-Spanisch und zweisprachige Beschilderung; die Klinik betreibt tagsüber die allgemeine Praxis und rund um die Uhr die Notfalltriage.",
+          "tipDe": "Direkte Zufahrt von der US-1 (South Dixie Highway) an der Sunset Drive; der 24-Stunden-Eingang befindet sich auf der Südseite des Gebäudes."
         }
       ],
       "faqsEn": [
@@ -518,6 +580,14 @@
         {
           "q": "Um veterinário de urgência em Miami trata o meu cão sem historial prévio?",
           "a": "Sim. As duas unidades de VCA Knowles e VEG Miami aceitam visitantes estrangeiros sem marcação com cartão de crédito e os dados básicos do seu animal. A cartilha de vacinação acelera a admissão mas não é estritamente obrigatória. Conte com 150-300 $ de taxa de urgência antes de qualquer tratamento, a pagar antecipadamente. Os três funcionam 24/7, 365 dias por ano."
+        }
+      ],
+      "titleDe": "Tierärztliche Notfallversorgung in Miami",
+      "introDe": "Miami verfügt über ein dichtes Netz an 24-Stunden-Tierkliniken im gesamten Ballungsraum: VCA Knowles Central im Westen Miamis, VEG Miami in Edgewater am Biscayne Boulevard und VCA Knowles Snapper Creek weiter südlich im Gebiet Kendall sind alle rund um die Uhr, 365 Tage im Jahr geöffnet. Das meiste Notfallpersonal spricht ausschließlich Englisch, aber ein großer Anteil der Ärzte und der Rezeption ist angesichts der demografischen Zusammensetzung der Stadt zweisprachig Englisch-Spanisch. Alle drei nehmen ausländische Besucher ohne Voranmeldung mit Reisepass und Kreditkarte auf; rechnen Sie mit einer Notfallberatungsgebühr von 150-300 $ vor der Behandlung.",
+      "faqsDe": [
+        {
+          "q": "Behandelt ein Tiernotfalldienst in Miami meinen Hund auch ohne vorherige Unterlagen?",
+          "a": "Ja. Sowohl beide VCA-Knowles-Standorte als auch VEG Miami nehmen ausländische Besucher ohne Voranmeldung mit Kreditkarte und den grundlegenden Angaben zu Ihrem Haustier auf. Impfnachweise beschleunigen die Aufnahme, sind aber nicht zwingend erforderlich. Rechnen Sie mit einer Notfalluntersuchungsgebühr von 150-300 $, im Voraus zu zahlen. Alle drei sind rund um die Uhr, 365 Tage im Jahr geöffnet."
         }
       ]
     },
@@ -606,6 +676,18 @@
           "q": "Os hotéis de Miami são realmente pet-friendly ou apenas tolerantes?",
           "a": "Muitos dos hotéis de luxo e boutique da cidade acolhem ativamente os animais com camas, tigelas, guloseimas e serviços de concierge canino: Loews Miami Beach, marca Kimpton, The Setai Miami Beach, Mandarin Oriental Brickell. Os hotéis de gama média e corporativos são mais variáveis, normalmente 50-150 $ por estadia. Confirme a política no site oficial do hotel; as fichas dos OTA costumam estar desatualizadas."
         }
+      ],
+      "titleDe": "Reisetipps für Haustiere in Miami",
+      "introDe": "Miami ist von Oktober bis April eine der einfachsten US-Städte für Reisen mit Haustier: ganzjährige Außengastronomie, zwei Freilaufstrände, ein dichtes Netz eingezäunter Hundeparks und rund um die Uhr tierärztliche Versorgung im gesamten Ballungsraum. Die Hauptreibungspunkte sind die Hitze von Mai bis Oktober (Asphalt erreicht an Sommernachmittagen regelmäßig 50-55 °C), strikte Hundeverbote an allen öffentlichen Stränden außer Hobie und Haulover sowie die Transportbox-Pflicht in öffentlichen Verkehrsmitteln für Nicht-Assistenzhunde. Alle Preise auf dieser Seite sind ungefähre USD-Äquivalente; die Website zeigt aus historischen Gründen € an (lesen Sie €1 ≈ 1 $ für Miami).",
+      "faqsDe": [
+        {
+          "q": "Ist Miami ein gutes Reiseziel mit Hund?",
+          "a": "Ja, besonders von November bis April. Ganzjährige Außengastronomie, zwei Freilaufstrände (Hobie und Haulover), ein dichtes Netz eingezäunter Hundeparks, rund um die Uhr tierärztliche Versorgung und ein vom CDC für die internationale Einreise von Hunden zugelassener Flughafen (MIA) machen Miami zu einem der hundefreundlichsten US-Tore. Die beiden echten Einschränkungen sind die Sommerhitze und die Transportbox-Pflicht in öffentlichen Verkehrsmitteln für nicht-kleine Hunde."
+        },
+        {
+          "q": "Sind Miamis Hotels wirklich hundefreundlich oder nur tolerant?",
+          "a": "Viele der Luxus- und Boutique-Hotels der Stadt heißen Haustiere aktiv willkommen mit Betten, Näpfen, Leckerlis und Concierge-Hundeservices: Loews Miami Beach, die Marke Kimpton stadtweit, The Setai Miami Beach, Mandarin Oriental Brickell. Hotels der Mittelklasse und Businesshotels sind unterschiedlicher und berechnen meist 50-150 $ pro Aufenthalt. Bestätigen Sie die Richtlinie auf der eigenen Website des Hotels; OTA-Einträge sind oft veraltet."
+        }
       ]
     },
     "attractions": {
@@ -639,7 +721,11 @@
           "tipFr": "Faites-le au lever du soleil (6h30-8h) pour des trottoirs vides et une lumière dorée sur les façades pastel ; l'après-midi est chaud et bondé.",
           "tipEs": "Recórrelo al amanecer (06:30-08:00) para aceras vacías y luz dorada en las fachadas pastel; la tarde está caliente y abarrotada.",
           "tipPt": "Faça-o ao nascer do sol (06:30-08:00) para passeios vazios e luz dourada nas fachadas pastel; a tarde está quente e cheia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Ocean+Drive+Art+Deco+Historic+District+Miami+Beach"
+          "googleMapsUrl": "https://maps.google.com/?q=Ocean+Drive+Art+Deco+Historic+District+Miami+Beach",
+          "descriptionDe": "Der 1,5 km lange Abschnitt des Ocean Drive zwischen 5th und 15th Street, gesäumt von pastellfarbenen Art-Deco-Hotels aus den 1930ern (Carlyle, Avalon, Colony, Cardozo) auf der einen Seite und der von Palmen beschatteten Lummus-Park-Promenade auf der anderen. Angeleinte Hunde sind auf dem Bürgersteig des Ocean Drive und auf dem gesamten Weg durch den Lummus Park willkommen (aber nicht auf dem Sand). Die Miami Design Preservation League bietet vom Art Deco Welcome Center aus eine kostenpflichtige geführte Wandertour an; Hunde sind im Außenbereich angeleint erlaubt.",
+          "dogPolicyDe": "Angeleinte Hunde jederzeit kostenlos willkommen auf Bürgersteigen und der Lummus-Park-Promenade. Keine Hunde auf dem Sand.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Gehen Sie bei Sonnenaufgang (06:30-08:00 Uhr) für leere Gehwege und goldenes Licht auf den Pastellfassaden; nachmittags ist es heiß und überfüllt."
         },
         {
           "name": "Wynwood Walls outdoor murals",
@@ -662,7 +748,11 @@
           "tipFr": "Sautez la cour payante si votre chien est moyen ou grand ; les rues ouvertes gratuites (NW 2nd Avenue entre 23rd et 28th) ont autant de fresques.",
           "tipEs": "Sáltate el patio de pago si tu perro es mediano o grande; las calles abiertas gratis (NW 2nd Avenue entre 23rd y 28th) tienen igual de murales.",
           "tipPt": "Salte o pátio pago se o seu cão for médio ou grande; as ruas abertas grátis (NW 2nd Avenue entre 23rd e 28th) têm tantos murais.",
-          "googleMapsUrl": "https://maps.google.com/?q=Wynwood+Walls+NW+2nd+Avenue+Miami"
+          "googleMapsUrl": "https://maps.google.com/?q=Wynwood+Walls+NW+2nd+Avenue+Miami",
+          "descriptionDe": "Ein Open-Air-Straßenkunstviertel, verankert um den kostenpflichtigen Innenhof der Wynwood Walls (kleine Hunde in einer Transportbox im Inneren erlaubt, größere Hunde nur in den umliegenden Straßen willkommen). Das gesamte 20 Blocks umfassende Viertel Wynwood ist eine kostenlose Open-Air-Wandgemälde-Galerie: Angeleinte Hunde sind auf jedem Bürgersteig und in den meisten Außencafés willkommen. Sonntags ist die Straßenkunstszene am lebendigsten.",
+          "dogPolicyDe": "Kleine Hunde in Transportbox im kostenpflichtigen Innenhof der Wynwood Walls erlaubt; alle Hunde angeleint auf den umliegenden Wandgemälde-Straßen willkommen, kostenlos.",
+          "admissionFeeDe": "Innenhof Wynwood Walls 15 $ (Außenstraßen kostenlos)",
+          "tipDe": "Verzichten Sie auf den kostenpflichtigen Innenhof, wenn Ihr Hund mittelgroß oder groß ist; die kostenlosen offenen Straßen (NW 2nd Avenue zwischen 23rd und 28th) bieten genauso viele Wandgemälde."
         },
         {
           "name": "Lincoln Road pedestrian mall",
@@ -685,7 +775,11 @@
           "tipFr": "Les mercredis et week-ends, marché de producteurs à l'extrémité ouest ; chiens très bienvenus et plusieurs stands vendent des friandises maison pour chiens.",
           "tipEs": "Miércoles y fines de semana hay mercado de productores en el extremo oeste; los perros son muy bienvenidos y varios puestos venden golosinas caseras para perros.",
           "tipPt": "Quartas-feiras e fins-de-semana há mercado de produtores no extremo oeste; os cães são muito bem-vindos e várias bancas vendem guloseimas caseiras para cães.",
-          "googleMapsUrl": "https://maps.google.com/?q=Lincoln+Road+Mall+Miami+Beach"
+          "googleMapsUrl": "https://maps.google.com/?q=Lincoln+Road+Mall+Miami+Beach",
+          "descriptionDe": "Eine 1 km lange Open-Air-Fußgängerzone für Einkaufen und Gastronomie zwischen Alton Road und Washington Avenue, entworfen von Morris Lapidus in den 1960ern. Angeleinte Hunde sind auf der gesamten Länge willkommen, und die überwiegende Mehrheit der Cafés hat hundefreundliche Terrassen mit Wassernäpfen. Mit Abstand die höchste Dichte an hundefreundlicher Außengastronomie in Miami Beach auf einem einzigen begehbaren Abschnitt.",
+          "dogPolicyDe": "Angeleinte Hunde auf der gesamten Länge der Fußgängerzone und auf den meisten Caféterrassen willkommen. Kostenlos.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Mittwochs und am Wochenende findet am Westende ein Bauernmarkt statt; Hunde sind sehr willkommen, und mehrere Stände verkaufen selbstgemachte Hundeleckerlis."
         }
       ],
       "faqsEn": [
@@ -710,6 +804,14 @@
         {
           "q": "Posso entrar com o meu cão no Museu Vizcaya ou nos Wynwood Walls?",
           "a": "O interior de Vizcaya está fechado a animais que não sejam de serviço, mas o passeio em frente à baía e o trilho da lagoa sul são acessíveis com trela e grátis. O pátio pago de Wynwood Walls só admite cães pequenos em transportadora; os cães médios e grandes são bem-vindos em todas as ruas envolventes (que têm tanta ou mais arte) e é grátis."
+        }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Miami",
+      "introDe": "Die meisten Innensehenswürdigkeiten Miamis (Perez Art Museum, Frost Science Museum, Innenbereich von Vizcaya) lassen keine Haustiere außer Assistenzhunde zu. Aber viele bekannte Außenerlebnisse schon: der Spaziergang durch das Art-Deco-Viertel Ocean Drive und Lummus Park, die Erkundung der Open-Air-Wandgemälde von Wynwood Walls, das Bummeln über die Fußgängermeile Lincoln Road, das Radfahren über den Venetian Causeway, die Erkundung der Uferpromenade von Coconut Grove und der Spaziergang um den Vizcaya-Gartenrand entlang des leinenfreundlichen Uferwegs.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund ins Vizcaya Museum oder zu den Wynwood Walls mitnehmen?",
+          "a": "Der Innenbereich von Vizcaya ist für Nicht-Assistenzhunde geschlossen, aber der umliegende Uferbürgersteig und der Weg an der Südlagune sind leinenfreundlich und kostenlos. Der kostenpflichtige Innenhof der Wynwood Walls erlaubt kleine Hunde nur in einer Transportbox; mittelgroße und große Hunde sind auf jeder umliegenden Wandgemälde-Straße willkommen (die genauso viel Kunst bietet), kostenlos."
         }
       ]
     },
@@ -742,7 +844,10 @@
           "tip": "Book at least 24-48 hours ahead for first-time clients; weekends in winter (Dec-Mar) fill up quickly.",
           "tipFr": "Réservez 24 à 48 h à l'avance pour une première fois ; les week-ends d'hiver (déc-mars) se remplissent vite.",
           "tipEs": "Reserva con 24-48 h de antelación si es tu primera vez; los fines de semana de invierno (dic-mar) se llenan rápido.",
-          "tipPt": "Reserve com 24 a 48 h de antecedência da primeira vez; os fins-de-semana de inverno (dez-mar) enchem depressa."
+          "tipPt": "Reserve com 24 a 48 h de antecedência da primeira vez; os fins-de-semana de inverno (dez-mar) enchem depressa.",
+          "descriptionDe": "Ein in Miami ansässiges Unternehmen für Gassi-Service und Haustierbetreuung, seit 2007 tätig, angestelltenbasiert, vollversichert und mit Kautionsversicherung, mit Abdeckung in Miami Beach, Brickell, Downtown, Wynwood, Edgewater, Coconut Grove und Coral Gables. Spezialisiert auf Vereinbarungen für Hotelaufenthalte internationaler Reisender: Gassi-Geher kommen direkt zu Ihrem Zimmer oder treffen Sie in der Lobby.",
+          "serviceTypeDe": "Gassi-Service, Haustierbetreuung zu Hause, Besuche im Hotelzimmer",
+          "tipDe": "Buchen Sie mindestens 24-48 Stunden im Voraus für Erstkunden; Wochenenden im Winter (Dez-März) sind schnell ausgebucht."
         },
         {
           "name": "Rover (Miami sitters)",
@@ -764,7 +869,10 @@
           "tip": "Filter by 'Star Sitter' status and read at least 5 recent reviews; the Brazilian and Latin American sitter pool in Miami is unusually strong in Portuguese and Spanish.",
           "tipFr": "Filtrez par statut « Star Sitter » et lisez au moins 5 avis récents ; le vivier de sitters brésiliens et latino-américains à Miami est particulièrement fort en portugais et espagnol.",
           "tipEs": "Filtra por estatus 'Star Sitter' y lee al menos 5 reseñas recientes; el vivero de cuidadores brasileños y latinoamericanos en Miami es muy fuerte en portugués y español.",
-          "tipPt": "Filtre por estatuto 'Star Sitter' e leia pelo menos 5 avaliações recentes; o conjunto de cuidadores brasileiros e latino-americanos em Miami é particularmente forte em português e espanhol."
+          "tipPt": "Filtre por estatuto 'Star Sitter' e leia pelo menos 5 avaliações recentes; o conjunto de cuidadores brasileiros e latino-americanos em Miami é particularmente forte em português e espanhol.",
+          "descriptionDe": "Rover ist die größte Peer-to-Peer-Plattform der USA für Gassi-Geher und Haustiersitter, mit Tausenden geprüften Sittern in Miami-Dade und Broward. Sie können einstündige Spaziergänge, Kurzbesuche, Tagesbetreuung oder Übernachtungsbetreuung buchen. Lesen Sie die Sitter-Bewertungen sorgfältig - die Qualität variiert; die bestbewerteten Sitter in Brickell, South Beach und Coral Gables sind in der Hochsaison oft 1-2 Wochen im Voraus ausgebucht.",
+          "serviceTypeDe": "Spaziergänge, Kurzbesuche, Tagesbetreuung, Unterbringung (Marktplattform)",
+          "tipDe": "Filtern Sie nach \"Star Sitter\"-Status und lesen Sie mindestens 5 aktuelle Bewertungen; der brasilianische und lateinamerikanische Sitter-Pool in Miami ist ungewöhnlich stark in Portugiesisch und Spanisch vertreten."
         },
         {
           "name": "Citydog Club Miami",
@@ -785,9 +893,15 @@
           "tip": "Day-pass guests must provide proof of rabies, DHPP and Bordetella vaccinations within 30 days of arrival; email the vaccination PDF in advance.",
           "tipFr": "Les pass à la journée exigent une preuve de vaccination rage, DHPP et Bordetella dans les 30 jours précédant l'arrivée ; envoyez le PDF de vaccination en avance.",
           "tipEs": "Los pases diarios exigen prueba de vacunación de rabia, DHPP y Bordetella en los 30 días previos a la llegada; envía el PDF de vacunación con antelación.",
-          "tipPt": "Os passes diários exigem prova de vacinação antirrábica, DHPP e Bordetella nos 30 dias antes da chegada; envie o PDF de vacinação antecipadamente."
+          "tipPt": "Os passes diários exigem prova de vacinação antirrábica, DHPP e Bordetella nos 30 dias antes da chegada; envie o PDF de vacinação antecipadamente.",
+          "descriptionDe": "Ein mitgliederbasierter Club für Tagesbetreuung, Unterbringung und Gassi-Service mit Einrichtungen in Brickell und Wynwood, angestelltenbasiert und vollversichert. Bietet klimatisierte Innenspielbereiche (unerlässlich im Sommer Miamis), Außenrasenflächen und 24-Stunden-Personal für die Unterbringung. Tageskarten sind für Reisende ohne langfristige Mitgliedschaft erhältlich.",
+          "serviceTypeDe": "Tagesbetreuung, Unterbringung, Spaziergänge (angestelltenbasiert, Mitglieder + Tageskarte)",
+          "tipDe": "Tageskarten-Gäste müssen einen Nachweis über Tollwut-, DHPP- und Bordetella-Impfungen innerhalb von 30 Tagen nach Ankunft vorlegen; senden Sie das Impf-PDF vorab per E-Mail."
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung und Gassi-Service in Miami",
+      "introDe": "Miami verfügt über einen großen Pool professioneller Gassi-Geher und Haustiersitter. Rover und Wag dominieren die On-Demand-App-Seite mit Tausenden Sittern in Miami-Dade und Broward; die Preise liegen bei 20-35 $ pro Spaziergang und 50-110 $ pro Übernachtung. Mehrere auf Miami spezialisierte Premium-Agenturen (Miami Dog Walkers, Citydog Club, Pet Master Miami) bieten vollversicherten, angestelltenbasierten Service für Gäste, die einen geprüften Anbieter einer Marktplattform vorziehen. Viele Sitter sind zweisprachig Englisch-Spanisch.",
+      "faqsDe": []
     }
   }
 }

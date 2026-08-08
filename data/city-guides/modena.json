@@ -37,7 +37,11 @@
           "descriptionPt": "Minúscula hostaria histórica anexa à charcutaria Giusti (fundada em 1605). Apenas quatro mesas, cozinha tradicional modenense, tortellini in brodo, gnocco fritto, lambrusco. Apenas almoços.",
           "petPolicyPt": "Cães pequenos aceites ao critério do proprietário; ligue com antecedência",
           "mustTryPt": "Tortellini in brodo, zampone, gnocco fritto",
-          "tipPt": "Reserve com 2 semanas de antecedência, são apenas 4 mesas, o almoço mais cobiçado de Modena. Cães minúsculos apenas ao colo do dono."
+          "tipPt": "Reserve com 2 semanas de antecedência, são apenas 4 mesas, o almoço mais cobiçado de Modena. Cães minúsculos apenas ao colo do dono.",
+          "descriptionDe": "Winzige historische Hosteria angeschlossen an die Feinkosthandlung Giusti (gegründet 1605). Nur vier Tische, traditionelle modenesische Küche, Tortellini in Brühe, Gnocco fritto, Lambrusco. Nur mittags geöffnet.",
+          "petPolicyDe": "Kleine Hunde nach Ermessen des Inhabers akzeptiert; vorher anrufen",
+          "mustTryDe": "Tortellini in Brühe, Zampone, Gnocco fritto",
+          "tipDe": "Buchen Sie 2 Wochen im Voraus, nur 4 Tische, das begehrteste Mittagessen in Modena. Winzige Hunde nur auf dem Schoß des Besitzers."
         },
         {
           "name": "Trattoria Aldina",
@@ -63,7 +67,11 @@
           "descriptionPt": "Trattoria de operários em frente ao histórico Mercato Albinelli, adorada pelos seus tortellini sem floreados e pelo bollito misto. Aberta desde 1956. Mesas de madeira, individuais de papel, verdadeira comida modenense de trabalhador.",
           "petPolicyPt": "Cães pequenos aceites nas mesas exteriores",
           "mustTryPt": "Tagliatelle al ragù, bollito misto",
-          "tipPt": "Apenas almoços e muito movimentado, chegue às 12:30 em ponto. Os seus tortellini feitos à mão são a referência pela qual se julgam as outras versões."
+          "tipPt": "Apenas almoços e muito movimentado, chegue às 12:30 em ponto. Os seus tortellini feitos à mão são a referência pela qual se julgam as outras versões.",
+          "descriptionDe": "Arbeiter-Trattoria gegenüber dem historischen Mercato Albinelli, beliebt für ihre schnörkellosen Tortellini und Bollito misto. Seit 1956 geöffnet. Holztische, Papierdeckchen, echte modenesische Handwerksküche.",
+          "petPolicyDe": "Kleine Hunde an den Außentischen akzeptiert",
+          "mustTryDe": "Tagliatelle al ragù, Bollito misto",
+          "tipDe": "Nur mittags geöffnet und geschäftig, erscheinen Sie pünktlich um 12:30 Uhr. Ihre handgemachten Tortellini sind der Maßstab, an dem andere Versionen gemessen werden."
         },
         {
           "name": "Caffè Concerto",
@@ -89,7 +97,11 @@
           "descriptionPt": "Elegante café-restaurante sob as arcadas do Palazzo Comunale, com uma ampla esplanada na Piazza Grande virada para o Duomo e para a Ghirlandina. Aperitivo, almoço leve, jantar completo.",
           "petPolicyPt": "Cães bem-vindos na esplanada",
           "mustTryPt": "Aperitivo com parmesão, carpaccio de vaca com redução de balsâmico",
-          "tipPt": "A hora do aperitivo (18:30-20:30) na esplanada é a melhor para observar gente em Modena, enche depressa, chegue cedo."
+          "tipPt": "A hora do aperitivo (18:30-20:30) na esplanada é a melhor para observar gente em Modena, enche depressa, chegue cedo.",
+          "descriptionDe": "Elegantes Café-Restaurant unter den Arkaden des Palazzo Comunale mit einer breiten Außenterrasse an der Piazza Grande mit Blick auf den Dom und die Ghirlandina. Aperitivo, leichtes Mittagessen, volles Abendessen.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Aperitivo mit Parmesan, Rinder-Carpaccio mit Balsamico-Glasur",
+          "tipDe": "Die Aperitivo-Stunde (18:30-20:30 Uhr) auf der Terrasse bietet das beste People-Watching in Modena, füllt sich schnell, kommen Sie früh."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Devo deixar o meu cão no hotel durante os almoços italianos demorados?",
           "a": "A maioria dos hotéis pet-friendly de Modena aceita cães no quarto durante o almoço. Os almoços italianos podem durar 2 a 3h; pondere-o se o seu cão ficar inquieto com a trela."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Modena, Trattorien & Aperitivo",
+      "introDe": "Modenas Trattoria-Kultur ist auf Terrassen überwiegend hundetolerant. Die Piazza Grande, die Umgebung des Mercato Albinelli und die Seitenstraßen abseits der Via Emilia konzentrieren ganzjährig Dutzende hundefreundlicher Lokale.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Modena erlaubt?",
+          "a": "Ja, auf den meisten Außenterrassen. Die italienische Trattoria-Kultur ist draußen freundlich zu angeleinten Hunden; die Regelung für den Innenbereich variiert je nach Lokal, häufig sind kleine Hunde willkommen."
+        },
+        {
+          "q": "Sollte ich meinen Hund während langer italienischer Mittagessen im Hotel lassen?",
+          "a": "Die meisten hundefreundlichen Hotels in Modena akzeptieren Hunde im Zimmer während des Mittagessens. Italienische Mittagessen können 2-3 Stunden dauern; ziehen Sie dies in Betracht, wenn Ihr Hund an der Leine unruhig wird."
+        }
       ]
     },
     "parks": {
@@ -205,7 +229,10 @@
             "Bebedouros",
             "Caixotes do lixo"
           ],
-          "tipPt": "Melhor entre as 18:00 e as 20:00, os donos de cães modenenses reúnem-se aqui todos os dias. Sombra fresca de plátanos mesmo em agosto."
+          "tipPt": "Melhor entre as 18:00 e as 20:00, os donos de cães modenenses reúnem-se aqui todos os dias. Sombra fresca de plátanos mesmo em agosto.",
+          "leashRuleDe": "Leinenpflicht; eingezäunter Sgambamento-Bereich im Inneren",
+          "descriptionDe": "Der Hauptpark der Stadt, im 17. Jahrhundert für die Este-Herzöge hinter dem Palazzo Ducale angelegt. Platanen, Teiche, ein Kinderspielplatz und ein eingezäunter Freilauf-Hundebereich in der Nordwestecke.",
+          "tipDe": "Am besten zwischen 18:00 und 20:00 Uhr, hier treffen sich täglich modenesische Hundebesitzer. Kühler Platanenschatten selbst im August."
         },
         {
           "name": "Parco Novi Sad",
@@ -249,7 +276,10 @@
             "Relvados abertos",
             "Café"
           ],
-          "tipPt": "A melhor corrida sem trela de Modena, a zona vedada tem mais de 2 hectares. Evite as manhãs de segunda-feira (dias de mercado)."
+          "tipPt": "A melhor corrida sem trela de Modena, a zona vedada tem mais de 2 hectares. Evite as manhãs de segunda-feira (dias de mercado).",
+          "leashRuleDe": "Leinenpflicht; großer eingezäunter Freilaufbereich",
+          "descriptionDe": "Moderner Park auf ehemaligem Bahngelände (2009), 23 ha nördlich des Bahnhofs. Offene Rasenflächen, Jogging-Runde, großer eingezäunter Sgambamento und der wichtigste Wochenmarkt der Stadt montags.",
+          "tipDe": "Bester Freilaufbereich in Modena, die eingezäunte Fläche ist über 2 Hektar groß. Montagvormittage meiden (Markttage)."
         },
         {
           "name": "Parco della Resistenza",
@@ -285,7 +315,10 @@
             "Bancos",
             "Caminhos sombreados"
           ],
-          "tipPt": "Paragem útil para as necessidades entre o Duomo e o Palazzo dei Musei, não é um parque de destino."
+          "tipPt": "Paragem útil para as necessidades entre o Duomo e o Palazzo dei Musei, não é um parque de destino.",
+          "leashRuleDe": "Leinenpflicht",
+          "descriptionDe": "Kleiner grüner Park, 8 Minuten zu Fuß östlich des Zentrums, neben dem Palazzo dei Musei. Alte Bäume, gepflasterte Wege, ein Brunnen. Ideal für einen kurzen Spaziergang zwischen Sightseeing-Stopps.",
+          "tipDe": "Praktischer Pinkelstopp zwischen Dom und Palazzo dei Musei, kein Zielpark an sich."
         }
       ],
       "tipsEn": [
@@ -349,6 +382,18 @@
           "q": "Os cães podem nadar em Modena?",
           "a": "Não nos parques da cidade. O local de banhos dog-friendly mais próximo é o rio Secchia, a sul da cidade, ou o Lago di Castelvetro, 20 km a sul."
         }
+      ],
+      "titleDe": "Beste Hundeparks & Spaziergänge in Modena, Parco Ducale & Freilaufbereiche",
+      "introDe": "Modenas flache Struktur macht die Stadt zu einer der einfachsten Italiens für Spaziergänge mit Hund. Der Parco Ducale Estense, der Parco Novi Sad und vier eingezäunte Sgambamento-Bereiche (Freilauf-Hundeparks) versorgen Stadtzentrum und Randgebiete.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Freilauf-Hundeparks in Modena?",
+          "a": "Ja. Der Parco Novi Sad hat den größten eingezäunten Freilaufbereich (>2 ha) der Stadt. Der Parco Ducale Estense und drei kleinere Sgambamento-Parks in der Stadt bieten ebenfalls Freilauffläche."
+        },
+        {
+          "q": "Können Hunde in Modena schwimmen?",
+          "a": "Nicht in den Stadtparks. Die nächstgelegene hundefreundliche Schwimmstelle ist der Fluss Secchia südlich der Stadt oder der Lago di Castelvetro 20 km südlich."
+        }
       ]
     },
     "transport": {
@@ -376,7 +421,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Stazione+Modena",
           "descriptionPt": "Modena fica no corredor de alta velocidade Bolonha-Milão. Frecciarossa de Bolonha em 30 min, de Milão 1h45, de Roma 2h45. Os comboios regionais ligam a Verona (1h30), Reggio Emilia (15 min) e Parma (35 min).",
           "petPolicyPt": "Os cães pequenos (até 10 kg) numa caixa de transporte viajam grátis. Os cães maiores são aceites com trela e açaime, com um bilhete para animais (50% da tarifa de adulto em 2.ª classe). Não permitidos em 1.ª classe nem no Frecciarossa Executive.",
-          "tipPt": "A Italo tem regras mais simpáticas para animais: cães de qualquer tamanho são aceites com um bilhete fixo para animais (cerca de 10 EUR), sem açaime obrigatório se forem numa caixa de transporte."
+          "tipPt": "A Italo tem regras mais simpáticas para animais: cães de qualquer tamanho são aceites com um bilhete fixo para animais (cerca de 10 EUR), sem açaime obrigatório se forem numa caixa de transporte.",
+          "descriptionDe": "Modena liegt am Hochgeschwindigkeitskorridor Bologna-Mailand. Frecciarossa von Bologna 30 Min., von Mailand 1 Std. 45 Min., von Rom 2 Std. 45 Min. Regionalzüge verbinden Verona (1 Std. 30 Min.), Reggio Emilia (15 Min.) und Parma (35 Min.).",
+          "petPolicyDe": "Kleine Hunde (bis 10 kg) in einer Transportbox reisen kostenlos. Größere Hunde werden an Leine und mit Maulkorb mit einem Haustierticket (50% des 2.-Klasse-Erwachsenenfahrpreises) akzeptiert. Nicht erlaubt in der 1. Klasse oder Frecciarossa Executive.",
+          "tipDe": "Italo hat freundlichere Haustierregeln: Hunde jeder Größe werden mit einem festen Haustierticket (ca. 10 EUR) akzeptiert, kein Maulkorb erforderlich, wenn in einer Transportbox."
         },
         {
           "name": "SETA Urban Buses",
@@ -395,7 +443,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=SETA+autobus+Modena",
           "descriptionPt": "Operada pela SETA. Cerca de 25 linhas urbanas, mais serviços regionais para Maranello (Ferrari), Sassuolo e Carpi. O centro é tão fácil de percorrer a pé que a maioria dos visitantes não usará autocarros.",
           "petPolicyPt": "Cães pequenos em caixas de transporte e cães de assistência grátis. Cães maiores permitidos com trela e açaime, com um bilhete de tarifa normal.",
-          "tipPt": "O autocarro 800 liga Modena a Maranello (Museu Ferrari) em 45 min, cães permitidos com açaime e trela."
+          "tipPt": "O autocarro 800 liga Modena a Maranello (Museu Ferrari) em 45 min, cães permitidos com açaime e trela.",
+          "descriptionDe": "Betrieben von SETA. Ca. 25 Stadtlinien plus Regionalverbindungen nach Maranello (Ferrari), Sassuolo und Carpi. Das Zentrum ist so gut zu Fuß erreichbar, dass die meisten Besucher keine Busse nutzen.",
+          "petPolicyDe": "Kleine Hunde in Transportboxen und Assistenzhunde kostenlos. Größere Hunde an Leine und mit Maulkorb erlaubt, mit regulärem Fahrschein.",
+          "tipDe": "Bus 800 verbindet Modena in 45 Minuten mit Maranello (Ferrari-Museum), Hunde mit Maulkorb und Leine erlaubt."
         },
         {
           "name": "Radio Taxi Modena",
@@ -414,7 +465,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Radio+Taxi+Modena",
           "descriptionPt": "Cooperativa de táxis local que serve a cidade, o aeroporto de Bolonha (BLQ, 50 min) e Maranello. Condutores pet-friendly identificáveis a pedido ao reservar por telefone.",
           "petPolicyPt": "Cães pequenos em caixas de transporte quase sempre aceites; cães maiores exigem pedido prévio.",
-          "tipPt": "Ligue para o +39 059 374 242 para reservar. A FreeNow e a Uber funcionam em Modena, cães pequenos em caixas de transporte em geral aceites."
+          "tipPt": "Ligue para o +39 059 374 242 para reservar. A FreeNow e a Uber funcionam em Modena, cães pequenos em caixas de transporte em geral aceites.",
+          "descriptionDe": "Örtliche Taxigenossenschaft, die die Stadt, den Flughafen Bologna (BLQ, 50 Min.) und Maranello bedient. Haustierfreundliche Fahrer sind bei telefonischer Buchung auf Anfrage erkennbar.",
+          "petPolicyDe": "Kleine Hunde in Transportboxen fast immer akzeptiert; größere Hunde erfordern eine vorherige Anfrage.",
+          "tipDe": "Buchen Sie unter +39 059 374 242. FreeNow und Uber sind in Modena aktiv, kleine Hunde in Transportboxen sind in der Regel in Ordnung."
         }
       ],
       "tipsEn": [
@@ -478,6 +532,18 @@
           "q": "Como vou do aeroporto de Bolonha para Modena com um cão?",
           "a": "Monocarril Marconi Express até Bologna Centrale (7 min), depois Frecciarossa ou Regionale até Modena (30 min). Tempo total cerca de 1h. Ou um táxi pet-friendly porta a porta, cerca de 50 min, cerca de 90 EUR."
         }
+      ],
+      "titleDe": "Haustierfreundlicher Transport in Modena, Zug, Bus & Taxi",
+      "introDe": "Modenas flaches Zentrum lässt sich in 15 Minuten von einem Ende zum anderen durchqueren. Bei der Ankunft verbinden die Hochgeschwindigkeitszüge Trenitalia Frecciarossa und Italo mit Bologna (30 Min.) und Mailand (1 Std. 45 Min.). Die italienischen Bahnvorschriften für Haustiere sind klar und einheitlich.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund im Zug von Bologna nach Modena mitnehmen?",
+          "a": "Ja. Kleine Hunde (bis 10 kg) in einer Transportbox reisen kostenlos in allen Trenitalia-Zügen. Größere Hunde werden mit einem Haustierticket (50% des Erwachsenenfahrpreises), Leine und Maulkorb akzeptiert. Italo hat freundlichere Regeln mit einem festen Haustierticket unabhängig von der Hundegröße."
+        },
+        {
+          "q": "Wie komme ich vom Flughafen Bologna mit Hund nach Modena?",
+          "a": "Marconi-Express-Einschienenbahn zum Bahnhof Bologna Centrale (7 Min.), dann Frecciarossa oder Regionalzug nach Modena (30 Min.). Gesamtzeit ca. 1 Stunde. Alternativ ein haustierfreundliches Taxi von Tür zu Tür, ca. 50 Min., ca. 90 EUR."
+        }
       ]
     },
     "beaches": {
@@ -524,7 +590,10 @@
             "Sombra",
             "Estacionamento por perto"
           ],
-          "tipPt": "A água apresenta-se mais limpa de abril a junho; as algas podem aparecer em agosto. Verifique sempre a margem a olho antes de deixar o seu cão entrar."
+          "tipPt": "A água apresenta-se mais limpa de abril a junho; as algas podem aparecer em agosto. Verifique sempre a margem a olho antes de deixar o seu cão entrar.",
+          "leashRuleDe": "Freilauf außerhalb von Bereichen mit Schwimmverbot toleriert",
+          "descriptionDe": "Der Fluss Secchia westlich von Modena hat breite Kiesufer und flache Schwimmlöcher, die einheimische Hunde den ganzen Sommer über nutzen. Der Abschnitt bei Marzaglia (10 km westlich des Zentrums) ist am beliebtesten.",
+          "tipDe": "Das Wasser ist von April bis Juni am saubersten; im August können Algen auftreten. Prüfen Sie das Ufer immer visuell, bevor Sie Ihren Hund hineinlassen."
         },
         {
           "name": "Lago di Castelvetro",
@@ -562,7 +631,10 @@
             "Sombra para piquenique",
             "Água calma"
           ],
-          "tipPt": "Combine com uma visita a uma adega de Lambrusco em Castelvetro, a maioria das caves acolhe cães nas zonas de prova ao ar livre."
+          "tipPt": "Combine com uma visita a uma adega de Lambrusco em Castelvetro, a maioria das caves acolhe cães nas zonas de prova ao ar livre.",
+          "leashRuleDe": "Leinenpflicht; kein spezifisches Hundeverbot",
+          "descriptionDe": "Ruhiger Stausee 20 km südlich von Modena, in den Lambrusco-Weinhügeln. Grasufer, schattige Picknickplätze, ruhiges Wasser. Familienfreundlich, kein Strandclub, perfekt für Hunde.",
+          "tipDe": "Kombinieren Sie den Besuch mit einer Lambrusco-Weingut-Tour in Castelvetro, die meisten Weingüter heißen Hunde in den Außenverkostungsbereichen willkommen."
         },
         {
           "name": "Spiaggia di Punta Marina (Ravenna)",
@@ -604,7 +676,10 @@
             "Zona com nadador-salvador",
             "Café"
           ],
-          "tipPt": "Estacione no parque do Bagno Romeo, é a entrada da Bau Beach. Leve água; o Adriático é salgado."
+          "tipPt": "Estacione no parque do Bagno Romeo, é a entrada da Bau Beach. Leve água; o Adriático é salgado.",
+          "leashRuleDe": "Ganzjährig ausgewiesene Hundestrandzone",
+          "descriptionDe": "Der nächstgelegene hundefreundliche Adriastrand (1 Std. 30 Min. mit dem Auto östlich). Punta Marina hat eine klar ausgeschilderte Bau-Beach-Zone (Hundestrand), in der Hunde ganzjährig schwimmen und laufen können.",
+          "tipDe": "Parken Sie am Parkplatz Bagno Romeo, das ist der Eingang zum Bau Beach. Bringen Sie Wasser mit; die Adria ist salzig."
         }
       ],
       "tipsEn": [
@@ -668,6 +743,18 @@
           "q": "O Secchia é seguro para os cães?",
           "a": "Em geral, sim, de abril a julho. Evite agosto, quando podem ocorrer florações de algas. O troço de Marzaglia é o mais popular e o mais bem monitorizado."
         }
+      ],
+      "titleDe": "Hundefreundliche Gewässer bei Modena, Flüsse & Seen",
+      "introDe": "Modena liegt im Landesinneren (130 km von der Adria entfernt), aber die Flüsse Secchia und Panaro sowie der Lago di Castelvetro bieten im Sommer Schwimmmöglichkeiten für Hunde. Die hundefreundlichen Adriastrände der Romagna sind als Tagesausflug erreichbar (1 Std. 30 Min. mit dem Auto).",
+      "faqsDe": [
+        {
+          "q": "Wo können Hunde in der Nähe von Modena schwimmen?",
+          "a": "Drei Optionen: der Fluss Secchia westlich der Stadt (10 km), der Lago di Castelvetro südlich (20 km) oder die Adria-Bau-Beach-Zonen in der Romagna (1 Std. 30 Min. östlich). Alle erlauben Schwimmen mit oder ohne Leine."
+        },
+        {
+          "q": "Ist der Secchia sicher für Hunde?",
+          "a": "Von April bis Juli generell ja. Meiden Sie den August, wenn Algenblüten auftreten können. Der Abschnitt bei Marzaglia ist am beliebtesten und am besten überwacht."
+        }
       ]
     },
     "vets": {
@@ -698,7 +785,9 @@
           "tipEs": "Llama antes para triaje, prepararán la sala de trauma, sobre todo después de medianoche.",
           "googleMapsUrl": "https://maps.google.com/?q=Ospedale+Veterinario+Modena",
           "descriptionPt": "Hospital de urgência com serviço completo 24/7 na orla oeste de Modena, com cirurgia, cuidados intensivos, TAC, ecografia e enfermarias de internamento. A referência para urgências graves.",
-          "tipPt": "Ligue com antecedência para a triagem, vão preparar a sala de trauma, sobretudo depois da meia-noite."
+          "tipPt": "Ligue com antecedência para a triagem, vão preparar a sala de trauma, sobretudo depois da meia-noite.",
+          "descriptionDe": "Vollversorgtes 24-Stunden-Notfallkrankenhaus am westlichen Rand von Modena, mit Chirurgie, Intensivstation, CT, Ultraschall und stationären Stationen. Die Referenz für ernste Notfälle.",
+          "tipDe": "Rufen Sie vorher an, um die Triage zu erleichtern, damit sie den Schockraum vorbereiten können, besonders nach Mitternacht."
         },
         {
           "name": "Ambulatorio Veterinario Centro Storico",
@@ -719,7 +808,9 @@
           "tipEs": "Aceptan sin cita pero llama antes, las tardes se llenan rápido.",
           "googleMapsUrl": "https://maps.google.com/?q=Ambulatorio+Veterinario+Centro+Modena",
           "descriptionPt": "Clínica diurna de localização central na Via Emilia, a 5 minutos a pé da Piazza Grande. Vacinações, colocação de microchip, medicina interna, dermatologia, útil para cuidados de rotina durante a viagem.",
-          "tipPt": "Atendimentos sem marcação aceites, mas ligue com antecedência, o horário da tarde enche-se depressa com gente local."
+          "tipPt": "Atendimentos sem marcação aceites, mas ligue com antecedência, o horário da tarde enche-se depressa com gente local.",
+          "descriptionDe": "Zentral gelegene Tagesklinik an der Via Emilia, 5 Minuten zu Fuß von der Piazza Grande. Impfungen, Mikrochipping, Innere Medizin, Dermatologie, nützlich für die Routineversorgung während der Reise.",
+          "tipDe": "Ohne Termin willkommen, aber vorher anrufen, die Nachmittagsstunden füllen sich mit Einheimischen schnell."
         },
         {
           "name": "Clinica Veterinaria San Lazzaro",
@@ -740,7 +831,9 @@
           "tipEs": "Ideal para urgencias al inicio de la noche que no requieren el hospital 24h.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+San+Lazzaro+Modena",
           "descriptionPt": "Clínica de média dimensão a sul de Modena, com horário alargado (08:00-22:00) e capacidade de urgência até ao final da noite. Cirurgia, imagiologia, dentária, animais exóticos.",
-          "tipPt": "Melhor para urgências ao início da noite que não justificam bem o hospital de 24h."
+          "tipPt": "Melhor para urgências ao início da noite que não justificam bem o hospital de 24h.",
+          "descriptionDe": "Mittelgroße Klinik südlich von Modena mit verlängerten Öffnungszeiten (08:00-22:00 Uhr) und Notfallkapazität bis in den späten Abend. Chirurgie, Bildgebung, Zahnmedizin, Exoten.",
+          "tipDe": "Am besten für frühabendliche Notfälle geeignet, die die 24-Stunden-Klinik nicht ganz rechtfertigen."
         }
       ],
       "tipsEn": [
@@ -804,6 +897,18 @@
           "q": "Quanto custa uma ida de urgência ao veterinário em Modena?",
           "a": "Cerca de 70 a 150 EUR por uma consulta básica de urgência, mais os exames e o tratamento. As cirurgias de maior porte podem ir de 600 a 2500 EUR. O seguro de animais da UE reembolsa muitas vezes."
         }
+      ],
+      "titleDe": "Tiernotdienste [24h] in Modena, Tierkliniken & Haustierpflege",
+      "introDe": "Modenas tierärztliche Infrastruktur ist dank der Tiermedizinischen Fakultät der Universität Bologna (Ozzano dell'Emilia, 50 Min. östlich) stark. Mehrere 24-Stunden-Notfallkliniken und viele Tageskliniken versorgen die Stadt.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt in Modena?",
+          "a": "Ja, das Ospedale Veterinario Modena an der Via Emilia Ovest ist rund um die Uhr mit voller Notfallkapazität geöffnet. Rufen Sie nach Möglichkeit vorher an, um die Triage zu erleichtern."
+        },
+        {
+          "q": "Was kostet ein Tiernotdienstbesuch in Modena?",
+          "a": "Etwa 70-150 EUR für eine grundlegende Notfallberatung, zuzüglich Diagnostik und Behandlung. Größere Operationen können 600-2500 EUR kosten. EU-Tierkrankenversicherungen erstatten die Kosten oft."
+        }
       ]
     },
     "tips": {
@@ -820,7 +925,8 @@
           "description": "April–June and September–October are ideal: 16–24°C, low humidity, terraces in full swing. Avoid July–August (32°C with brutal Po Valley humidity) and November–February (cold, damp, foggy).",
           "descriptionFr": "Avril–juin et septembre–octobre sont idéaux : 16–24°C, faible humidité, terrasses à plein régime. Évitez juillet–août (32°C avec une humidité brutale de la plaine du Pô) et novembre–février (froid, humide, brumeux).",
           "descriptionEs": "Abril–junio y septiembre–octubre son ideales: 16–24°C, baja humedad, terrazas a tope. Evita julio–agosto (32°C con humedad brutal del valle del Po) y noviembre–febrero (frío, húmedo, brumoso).",
-          "descriptionPt": "De abril a junho e de setembro a outubro é ideal: 16 a 24 °C, baixa humidade, esplanadas a todo o vapor. Evite julho e agosto (32 °C com humidade brutal do vale do Pó) e de novembro a fevereiro (frio, húmido, com nevoeiro)."
+          "descriptionPt": "De abril a junho e de setembro a outubro é ideal: 16 a 24 °C, baixa humidade, esplanadas a todo o vapor. Evite julho e agosto (32 °C com humidade brutal do vale do Pó) e de novembro a fevereiro (frio, húmido, com nevoeiro).",
+          "descriptionDe": "April-Juni und September-Oktober sind ideal: 16-24 °C, niedrige Luftfeuchtigkeit, Terrassen in vollem Betrieb. Meiden Sie Juli-August (32 °C mit brutaler Po-Tal-Feuchtigkeit) und November-Februar (kalt, feucht, neblig)."
         },
         {
           "name": "Po Valley humidity",
@@ -828,7 +934,8 @@
           "description": "Modena's summer humidity often pushes the heat index above 38°C, even when air temperature shows 30°C. Walk dogs before 09:00 or after 20:00 from mid-June to mid-September. Hotels with AC are essential.",
           "descriptionFr": "L'humidité estivale de Modène pousse souvent l'indice de chaleur au-delà de 38°C, même quand la température affiche 30°C. Promenez les chiens avant 9h ou après 20h de mi-juin à mi-septembre. Hôtels climatisés essentiels.",
           "descriptionEs": "La humedad estival de Módena empuja con frecuencia el índice de calor por encima de 38°C, aun cuando la temperatura del aire marca 30°C. Pasea a los perros antes de las 09:00 o después de las 20:00 de mediados de junio a mediados de septiembre. Hoteles con AC esenciales.",
-          "descriptionPt": "A humidade do verão de Modena empurra muitas vezes o índice de calor para além dos 38 °C, mesmo quando a temperatura do ar marca 30 °C. Passeie os cães antes das 09:00 ou depois das 20:00, de meados de junho a meados de setembro. Hotéis com ar condicionado são essenciais."
+          "descriptionPt": "A humidade do verão de Modena empurra muitas vezes o índice de calor para além dos 38 °C, mesmo quando a temperatura do ar marca 30 °C. Passeie os cães antes das 09:00 ou depois das 20:00, de meados de junho a meados de setembro. Hotéis com ar condicionado são essenciais.",
+          "descriptionDe": "Modenas Sommerfeuchtigkeit treibt den Hitzeindex oft über 38 °C, selbst wenn die Lufttemperatur 30 °C anzeigt. Gehen Sie mit Hunden vor 09:00 Uhr oder nach 20:00 Uhr von Mitte Juni bis Mitte September spazieren. Hotels mit Klimaanlage sind unerlässlich."
         },
         {
           "name": "Currency & cost",
@@ -836,7 +943,8 @@
           "description": "Italy uses the euro. Modena is cheaper than Bologna or Milan: meal 18–32 EUR, espresso 1.00–1.50 EUR, mid-range pet-friendly hotel 95–160 EUR/night, taxi station to centre 8–12 EUR.",
           "descriptionFr": "L'Italie utilise l'euro. Modène est moins chère que Bologne ou Milan : repas 18–32 €, espresso 1,00–1,50 €, hôtel pet-friendly milieu de gamme 95–160 €/nuit, taxi gare–centre 8–12 €.",
           "descriptionEs": "Italia usa el euro. Módena es más barata que Bolonia o Milán: comida 18–32 €, espresso 1,00–1,50 €, hotel pet-friendly de gama media 95–160 €/noche, taxi estación–centro 8–12 €.",
-          "descriptionPt": "Itália usa o euro. Modena é mais barata do que Bolonha ou Milão: refeição 18 a 32 EUR, espresso 1,00 a 1,50 EUR, hotel pet-friendly de gama média 95 a 160 EUR por noite, táxi da estação ao centro 8 a 12 EUR."
+          "descriptionPt": "Itália usa o euro. Modena é mais barata do que Bolonha ou Milão: refeição 18 a 32 EUR, espresso 1,00 a 1,50 EUR, hotel pet-friendly de gama média 95 a 160 EUR por noite, táxi da estação ao centro 8 a 12 EUR.",
+          "descriptionDe": "Italien nutzt den Euro. Modena ist günstiger als Bologna oder Mailand: Mahlzeit 18-32 EUR, Espresso 1,00-1,50 EUR, hundefreundliches Hotel der Mittelklasse 95-160 EUR/Nacht, Taxi vom Bahnhof ins Zentrum 8-12 EUR."
         }
       ],
       "tipsEn": [
@@ -900,6 +1008,18 @@
           "q": "Qual é a pior altura para visitar Modena com um cão?",
           "a": "De meados de julho a meados de agosto. A humidade do vale do Pó empurra o índice de calor para além dos 38 °C, o asfalto fica quente até à noite, e muitas trattorias fecham para as férias do ferragosto. Aposte na primavera ou no outono."
         }
+      ],
+      "titleDe": "Reisetipps für Modena mit Ihrem Hund",
+      "introDe": "Modena ist eine der einfachsten Städte Italiens für Hunde: klein, flach, mit starker Terrassenkultur, großzügigen Freilaufparks und einem exzellenten Netz an Tierkliniken. Die Hauptbeschränkungen sind die Sommerfeuchtigkeit und der Zugang zum Doministen im Innenbereich.",
+      "faqsDe": [
+        {
+          "q": "Ist Modena insgesamt hundefreundlich?",
+          "a": "Ja. Modena ist eine entspannte emilianische Stadt mit exzellenter Terrassenkultur, kurzen Wegen, vier eingezäunten Sgambamento-Hundeparks und einer freundlichen Einstellung gegenüber Hunden. Kathedralen, das Ferrari-Museum und Innenbesichtigungen von Balsamico-Essig-Produktionen bleiben tabu."
+        },
+        {
+          "q": "Wann ist die schlechteste Zeit, Modena mit Hund zu besuchen?",
+          "a": "Mitte Juli bis Mitte August. Die Feuchtigkeit im Po-Tal treibt den Hitzeindex über 38 °C, der Asphalt bleibt bis spät in den Abend heiß, und viele Trattorien schließen wegen Ferragosto-Ferien. Streben Sie Frühling oder Herbst an."
+        }
       ]
     },
     "attractions": {
@@ -928,7 +1048,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Piazza+Grande+Modena",
           "descriptionPt": "Classificada pela UNESCO desde 1997, a praça central de Modena é ladeada pelo Duomo românico (1099-1184) e pelo Palazzo Comunale. A praça encontra-se totalmente aberta a cães com trela; o interior da catedral não.",
           "petPolicyPt": "Praça pública aberta; cães bem-vindos com trela. Interior da catedral interdito.",
-          "tipPt": "A luz do pôr do sol torna a pedra românica dourada por volta das 19:00 no verão, a melhor hora para um retrato do cão."
+          "tipPt": "A luz do pôr do sol torna a pedra românica dourada por volta das 19:00 no verão, a melhor hora para um retrato do cão.",
+          "descriptionDe": "Seit 1997 UNESCO-Weltkulturerbe, Modenas zentraler Platz wird vom romanischen Dom (1099-1184) und dem Palazzo Comunale gesäumt. Der Platz ist für angeleinte Hunde vollständig zugänglich; der Dominnenraum nicht.",
+          "petPolicyDe": "Offener öffentlicher Platz; Hunde an der Leine willkommen. Dominnenraum tabu.",
+          "tipDe": "Das Sonnenuntergangslicht verwandelt den romanischen Stein im Sommer gegen 19:00 Uhr in Gold, die beste Zeit für Hundeporträts."
         },
         {
           "name": "Torre della Ghirlandina",
@@ -948,7 +1071,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Ghirlandina+Modena",
           "descriptionPt": "A torre sineira de 87 metros ao lado do Duomo, construída entre 1169 e 1319, tornou-se o símbolo de Modena. Suba 200 degraus para a melhor vista da cidade. Cães não permitidos lá dentro; a praça envolvente sim.",
           "petPolicyPt": "Sem cães no interior; praça exterior totalmente acessível",
-          "tipPt": "Se visitar com um companheiro, revezem-se a subir enquanto o outro espera com o cão na sombreada Piazza Torre."
+          "tipPt": "Se visitar com um companheiro, revezem-se a subir enquanto o outro espera com o cão na sombreada Piazza Torre.",
+          "descriptionDe": "Der 87 Meter hohe Glockenturm neben dem Dom, erbaut zwischen 1169 und 1319, ist zum Wahrzeichen Modenas geworden. 200 Stufen für den besten Stadtblick. Hunde nicht im Inneren erlaubt; der umliegende Platz schon.",
+          "petPolicyDe": "Keine Hunde im Inneren; Außenplatz vollständig zugänglich",
+          "tipDe": "Wenn Sie mit einem Partner unterwegs sind, wechseln Sie sich beim Aufstieg ab, während der andere mit dem Hund im schattigen Piazza Torre wartet."
         },
         {
           "name": "Museo Casa Enzo Ferrari",
@@ -968,7 +1094,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Museo+Casa+Enzo+Ferrari+Modena",
           "descriptionPt": "O museu Ferrari de Modena, construído à volta da casa onde Enzo Ferrari nasceu (1898). Pavilhão impressionante de telhado amarelo de Jan Kaplický (2012). Cães não permitidos lá dentro; o jardim exterior é acessível.",
           "petPolicyPt": "Sem cães no interior; jardim exterior acessível",
-          "tipPt": "Reserve um cuidador de cães para a visita, o museu demora 1h30 no mínimo. A visita é essencial para os fãs da Ferrari."
+          "tipPt": "Reserve um cuidador de cães para a visita, o museu demora 1h30 no mínimo. A visita é essencial para os fãs da Ferrari.",
+          "descriptionDe": "Modenas Ferrari-Museum, gebaut um das Haus, in dem Enzo Ferrari geboren wurde (1898). Auffälliger gelbdachiger Pavillon von Jan Kaplický (2012). Hunde nicht im Inneren erlaubt; der Außengarten ist zugänglich.",
+          "petPolicyDe": "Keine Hunde im Inneren; Außengarten zugänglich",
+          "tipDe": "Buchen Sie einen Hundesitter für den Besuch, das Museum dauert mindestens 1,5 Stunden. Der Rundgang ist für Ferrari-Fans unerlässlich."
         }
       ],
       "tipsEn": [
@@ -1032,6 +1161,18 @@
           "q": "Posso visitar uma acetaia de vinagre balsâmico com o meu cão?",
           "a": "Em geral, não. As acetaie tradicionais (sótãos de vinagre) são mantidas sob estrito controlo de higiene; os cães não são permitidos lá dentro. Alguns produtores oferecem provas no jardim exterior que acolhem cães, pergunte ao reservar."
         }
+      ],
+      "titleDe": "Top hundefreundliche Sehenswürdigkeiten in Modena, Piazza Grande, Dom & Ferrari",
+      "introDe": "Modenas UNESCO-Zentrum lässt sich am besten als architektonischer Spaziergang im Freien erleben, perfekt mit angeleintem Hund. Die meisten großen Sehenswürdigkeiten haben hundezugängliche Außenbereiche; nur der Dominnenraum, die Ferrari-Museen und die Innenräume der Balsamico-Essigkammern sind strikt tabu.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund ins Ferrari-Museum mitnehmen?",
+          "a": "Nicht ins Innere. Sowohl die Casa Enzo Ferrari in Modena als auch die Galleria Ferrari in Maranello verbieten Haustiere (Assistenzhunde ausgenommen). Buchen Sie einen Sitter oder nutzen Sie die Zimmeraufenthaltsoption eines hundefreundlichen Hotels."
+        },
+        {
+          "q": "Darf ich eine Balsamico-Essig-Acetaia mit meinem Hund besuchen?",
+          "a": "Im Allgemeinen nicht. Traditionelle Acetaie (Essigdachböden) unterliegen strengen Hygienekontrollen; Hunde sind im Inneren nicht erlaubt. Manche Produzenten bieten Außenverkostungen im Garten an, die Hunde willkommen heißen, fragen Sie bei der Buchung nach."
+        }
       ]
     },
     "petsitting": {
@@ -1056,7 +1197,9 @@
           "tipFr": "La plupart des sitters de Modène habitent les quartiers centraux à moins de 2 km de la Piazza Grande.",
           "tipEs": "La mayoría de los cuidadores de Módena vive en barrios céntricos a menos de 2 km de la Piazza Grande.",
           "descriptionPt": "A principal plataforma de pet sitting de Itália (fundida com a Rover). Cerca de 15 cuidadores verificados em Modena. Visitas pontuais, creche, alojamento com pernoita. Seguro incluído, cuidadores avaliados.",
-          "tipPt": "A maioria dos cuidadores de Modena vive nos bairros centrais, a menos de 2 km da Piazza Grande."
+          "tipPt": "A maioria dos cuidadores de Modena vive nos bairros centrais, a menos de 2 km da Piazza Grande.",
+          "descriptionDe": "Italiens führende Plattform für Haustierbetreuung (mit Rover fusioniert). Ca. 15 geprüfte Sitter in Modena. Kurzbesuche, Tagesbetreuung, Übernachtungsbetreuung. Versicherung inbegriffen, bewertete Sitter.",
+          "tipDe": "Die meisten Sitter in Modena wohnen in zentralen Vierteln innerhalb von 2 km der Piazza Grande."
         },
         {
           "name": "Pawshake Modena",
@@ -1072,7 +1215,9 @@
           "tipFr": "Réservez 72h à l'avance pendant le Modena Motor Show (mai) et les événements course de Maranello, les disponibilités fondent.",
           "tipEs": "Reserva con 72h de antelación durante el Modena Motor Show (mayo) y eventos de carrera de Maranello, la disponibilidad cae en picado.",
           "descriptionPt": "Plataforma internacional com cerca de 10 cuidadores verificados em Modena. Útil para viajantes que preferem uma interface em inglês e a portabilidade mundial da conta.",
-          "tipPt": "Reserve com pelo menos 72h de antecedência durante o Modena Motor Show (maio) e os eventos de corridas de Maranello, a disponibilidade dos cuidadores aperta drasticamente."
+          "tipPt": "Reserve com pelo menos 72h de antecedência durante o Modena Motor Show (maio) e os eventos de corridas de Maranello, a disponibilidade dos cuidadores aperta drasticamente.",
+          "descriptionDe": "Internationale Plattform mit ca. 10 geprüften Sittern in Modena. Nützlich für Reisende, die eine englischsprachige Oberfläche und weltweite Kontoportabilität bevorzugen.",
+          "tipDe": "Buchen Sie mindestens 72 Stunden im Voraus während der Modena Motor Show (Mai) und der Rennveranstaltungen in Maranello, die Sitter-Verfügbarkeit wird dann deutlich knapper."
         }
       ],
       "tipsEn": [
@@ -1135,6 +1280,18 @@
         {
           "q": "Posso deixar o meu cão no meu hotel de Modena durante o dia?",
           "a": "A maioria dos hotéis pet-friendly de Modena (Phi Canalgrande, Cervetta 5, RMH Raffaello) aceita cães no quarto durante a sua ausência se forem calmos. Confirme no check-in, alguns exigem que não deixe o cão sozinho mais do que algumas horas."
+        }
+      ],
+      "titleDe": "Hundebetreuung & Tagesbetreuung in Modena, geprüfte Plattformen",
+      "introDe": "Ferrari-Museen, Balsamico-Acetaie und lange modenesische Mittagessen erfordern manchmal, den Hund zurückzulassen. Drei internationale Plattformen (DogBuddy, Pawshake, Rover) sind in Modena mit rund 25 geprüften örtlichen Sittern aktiv.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich für ein paar Stunden einen Hundesitter in Modena?",
+          "a": "DogBuddy und Pawshake ermöglichen beide die Buchung von Kurzbesuchen oder Tagesbetreuung bei geprüften örtlichen Sittern. Filtern Sie nach Sprache und Wohnungstyp. Die meisten Sitter in Modena sind bei kurzfristiger Anfrage flexibel, und viele bieten den speziellen Service \"Ferrari-Museum 2 Stunden\" an."
+        },
+        {
+          "q": "Kann ich meinen Hund tagsüber in meinem Hotel in Modena lassen?",
+          "a": "Die meisten hundefreundlichen Hotels in Modena (Phi Canalgrande, Cervetta 5, RMH Raffaello) erlauben Hunde im Zimmer während Ihrer Abwesenheit, wenn sie ruhig sind. Bestätigen Sie dies beim Check-in, manche verlangen, dass der Hund nicht länger als ein paar Stunden allein gelassen wird."
         }
       ]
     }

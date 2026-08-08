@@ -39,7 +39,11 @@
           "tipFr": "Arrivez avant 9h le week-end pour éviter 45 minutes de file pour le brunch ; la terrasse se remplit en premier à cause des chiens.",
           "tipEs": "Llega antes de las 09:00 los fines de semana para evitar 45 minutos de cola del brunch; la terraza se llena primero por el ambiente canino.",
           "tipPt": "Chega antes das 09:00 ao fim-de-semana para evitar 45 minutos de fila do brunch; a esplanada enche primeiro por causa do ambiente canino.",
-          "googleMapsUrl": "https://maps.google.com/?q=Urth+Caffe+8565+Melrose+Avenue+West+Hollywood"
+          "googleMapsUrl": "https://maps.google.com/?q=Urth+Caffe+8565+Melrose+Avenue+West+Hollywood",
+          "descriptionDe": "Das ursprüngliche Urth Caffé von 1991 an der Melrose Avenue, mit einer weitläufigen, baumbeschatteten Gehwegterrasse, die seit drei Jahrzehnten eines der zuverlässigsten hundefreundlichen Lokale von LA ist. Bio-Espresso, ganztägiges Frühstück, große Salate, Sandwiches und hausgemachtes Gebäck. Die Terrasse erstreckt sich über die gesamte Länge des Eckgrundstücks, Wasserschalen kommen, sobald sich ein Hund hinsetzt, und sie ist von Frühstück bis spätabends ein fester Bestandteil des Hundelebens in WeHo.",
+          "petPolicyDe": "Angeleinte Hunde auf der gesamten Gehwegterrasse willkommen (gemäß kalifornischem AB 1681). Kein Einlass für nicht-dienstliche Hunde im Innenbereich.",
+          "mustTryDe": "Spanischer Latte, Urth-Granolaschale, Bio-Eggs Benedict",
+          "tipDe": "Kommen Sie an Wochenenden vor 09:00 Uhr, um die 45-minütige Brunch-Schlange zu umgehen; die Terrasse füllt sich zuerst wegen der Hundemenge."
         },
         {
           "name": "Lazy Dog Restaurant & Bar Westwood",
@@ -65,7 +69,11 @@
           "tipFr": "Demandez le menu chien à l'arrivée ; il n'est pas sur la carte principale. Poulet grillé riz brun à 5 $, la plupart des chiens le finissent.",
           "tipEs": "Pide la carta canina al sentarte; no está en la principal. Pollo a la plancha con arroz integral por 5 $, la mayoría de perros lo terminan.",
           "tipPt": "Peça a carta canina ao sentar-se; não consta da carta principal. Frango grelhado com arroz integral por 5 $, a maioria dos cães acaba-o.",
-          "googleMapsUrl": "https://maps.google.com/?q=Lazy+Dog+Westwood+1086+Glendon+Avenue+Los+Angeles"
+          "googleMapsUrl": "https://maps.google.com/?q=Lazy+Dog+Westwood+1086+Glendon+Avenue+Los+Angeles",
+          "descriptionDe": "Eine kalifornische Kette, die ihren Namen wörtlich nimmt: Jede Lazy-Dog-Terrasse hat eine eigene Hundekarte (gegrilltes Hähnchen, brauner Reis, Gemüse, alles unter 6 $) und kostenlose Wasserschalen, und das Personal ist darauf trainiert, Hunde bei Wiederkehr namentlich zu begrüßen. Die Filiale im Westwood Village nahe der UCLA hat eine der größten überdachten Terrassen der Kette, mit Heizstrahlern für Winterabende und Deckenventilatoren für Augustnachmittage. Burger, Salate, große Teller und eine Craft-Bier-Karte.",
+          "petPolicyDe": "Angeleinte Hunde auf der gesamten Außenterrasse willkommen, gedruckte Hundekarte vorhanden. Kein Innenplatz für nicht-dienstliche Hunde.",
+          "mustTryDe": "Bison-Hackbraten, TV-Dinner, gegrilltes Hähnchen von der Hundekarte",
+          "tipDe": "Fragen Sie beim Hinsetzen nach der Hundekarte; sie steht nicht auf der Hauptkarte. Gegrilltes Hähnchen mit braunem Reis kostet 5 $, und die meisten Hunde essen es ganz auf."
         },
         {
           "name": "Mendocino Farms Downtown",
@@ -91,7 +99,11 @@
           "tipFr": "L'esplanade est à découvert : prévoyez de l'eau et un coin frais pour le chien si vous venez entre 12h et 15h de juin à septembre.",
           "tipEs": "La plaza es al descubierto: lleva agua y un sitio fresco para el perro si vienes entre las 12:00 y las 15:00 de junio a septiembre.",
           "tipPt": "A praça é a descoberto: leve água e um cantinho fresco para o cão se vier entre as 12:00 e as 15:00 de junho a setembro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Mendocino+Farms+444+S+Flower+Street+Los+Angeles"
+          "googleMapsUrl": "https://maps.google.com/?q=Mendocino+Farms+444+S+Flower+Street+Los+Angeles",
+          "descriptionDe": "Eine 2005 gegründete kalifornische Sandwich- und Salatkette mit einem Flagship-Standort in Downtown LA an der Flower Street, der eine großzügige Außenplatz mit Blick auf die Wolkenkratzer von Bunker Hill betreibt. Jede Mendo-Farms-Terrasse in LA heißt angeleinte Hunde willkommen, Wasserschalen stehen an der Tür bereit, und das Personal ist ausdrücklich auf die AB-1681-Terrassenregeln geschult. Nachhaltig bezogene Sandwiches, große zusammengestellte Salate, Suppen; die Klassiker sind das Pork Belly Banh Mi und das Not So Fried Chicken Sandwich.",
+          "petPolicyDe": "Angeleinte Hunde auf der Platzterrasse willkommen. Bestellung am Tresen, das Essen wird an den Außentisch gebracht.",
+          "mustTryDe": "Pork Belly Banh Mi, Not So Fried Chicken, Modern Caesar",
+          "tipDe": "Der Platz ist nicht überdacht: Bringen Sie zwischen Juni und September bei einem Besuch zwischen 12:00 und 15:00 Uhr Wasser und einen kühlen Platz für den Hund mit."
         }
       ],
       "faqsEn": [
@@ -116,6 +128,14 @@
         {
           "q": "O meu cão pode entrar num restaurante em Los Angeles?",
           "a": "Quase nunca. O California Retail Food Code só admite cães em esplanadas exteriores com entrada própria, e com a aprovação do operador; só os cães de serviço podem entrar na sala ou em zonas próximas à cozinha. A boa notícia: a cultura de esplanadas o ano inteiro em LA faz com que comer ao ar livre esteja disponível em todo o lado, de Venice a Pasadena, e a lei AB 1681 é bem conhecida pelos operadores locais."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Los Angeles",
+      "introDe": "Los Angeles ist wie geschaffen für hundefreundliches Essen im Freien: ein weitläufiges, ganzjähriges mediterranes Klima, Gehwegterrassen an fast jeder Ecke von Abbot Kinney bis West Hollywood und ein kalifornisches Landesgesetz von 2018 (AB 1681), das Hunde auf Restaurantterrassen ausdrücklich erlaubt, sofern der Betreiber zugestimmt hat und die Terrasse einen eigenen Zugang von außen hat. West Hollywood, Venice, Santa Monica, Silver Lake, Echo Park und das Arts District in Downtown konzentrieren die höchste Dichte hundefreundlicher Lokale, oft mit Wasserschalen, Leckerli-Gläsern und schattigen Vernebelungsanlagen im Sommer. Im Innenbereich sind nur Assistenzhunde erlaubt. Die Hitze ist von Juni bis September die Hauptschwierigkeit: meiden Sie Terrassen zur Mittagszeit, wenn der Asphalt glüht, und planen Sie Frühstück, ein frühes Abendessen oder einen der vielen stark beschatteten Innenhöfe.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund in ein Restaurant in Los Angeles hinein?",
+          "a": "Fast nie. Der California Retail Food Code erlaubt Hunde nur auf Außenterrassen mit eigenem Zugang von außen, und der Betreiber muss dies genehmigt haben; nur Assistenzhunde dürfen den Innenbereich oder Zonen in Küchennähe betreten. Die gute Nachricht: Dank LAs ganzjähriger Außengastronomie-Kultur gibt es Terrassenplätze überall von Venice bis Pasadena, und der AB-1681-Rahmen ist den örtlichen Betreibern gut bekannt."
         }
       ]
     },
@@ -147,7 +167,10 @@
           "tipFr": "Stationnez au parking gratuit du Greek Theatre avant 8h en été ; les parkings hauts de l'observatoire sont pleins dès 9h30 et le Charlie Turner Trail surchauffe après 10h.",
           "tipEs": "Aparca en el parking gratuito del Greek Theatre antes de las 08:00 en verano; los aparcamientos altos del observatorio se llenan a las 09:30 y el Charlie Turner Trail abrasa después de las 10:00.",
           "tipPt": "Estacione no parque gratuito do Greek Theatre antes das 08:00 no verão; os estacionamentos altos do observatório enchem às 09:30 e o Charlie Turner Trail ferve depois das 10:00.",
-          "googleMapsUrl": "https://maps.google.com/?q=Griffith+Observatory+Los+Angeles"
+          "googleMapsUrl": "https://maps.google.com/?q=Griffith+Observatory+Los+Angeles",
+          "descriptionDe": "Der größte städtische Park mit urbaner Wildnis in den USA: 1700 Hektar Chaparral-Hügel über Hollywood und Los Feliz, mit mehr als 80 km Wegen, die von Sonnenauf- bis -untergang für angeleinte Hunde offen sind. Die klassische 5-km-Runde vom Greek Theatre über den Charlie Turner Trail zur Terrasse des Griffith Observatory bietet den ikonischen Blick von oben auf das Hollywood-Zeichen, wobei der Außenplatz des Observatoriums vollständig hundefreundlich ist (die Innenausstellungen sind nur für Assistenzhunde). Der Park hat außerdem eingezäunte Hundeauslaufflächen in den Bereichen Wonder View und Travel Town.",
+          "offLeashAreaDe": "Eingezäunte Hundeauslaufflächen in Wonder View (3151 Wonder View Drive) und im an Silver Lake angrenzenden Travel-Town-Bereich. Auf den Hauptwegen ist eine Leine vorgeschrieben.",
+          "tipDe": "Parken Sie im Sommer vor 08:00 Uhr auf dem kostenlosen Parkplatz beim Greek Theatre; die oberen Parkplätze des Observatoriums sind ab 09:30 Uhr voll, und der Charlie Turner Trail heizt sich nach 10:00 Uhr auf."
         },
         {
           "name": "Runyon Canyon Park",
@@ -167,7 +190,10 @@
           "tipFr": "Entrez par Fuller Avenue (stationnement gratuit dans la rue avant 7h30) et prévoyez plus d'eau que vous ne pensez ; il n'y a aucune fontaine sur le sentier haut.",
           "tipEs": "Entra por Fuller Avenue (aparcamiento gratuito en la calle antes de las 07:30) y lleva más agua de la que crees necesitar; no hay fuente pública en el sendero alto.",
           "tipPt": "Entre pela Fuller Avenue (estacionamento gratuito na rua antes das 07:30) e leve mais água do que pensa precisar; não há fonte pública no trilho de cima.",
-          "googleMapsUrl": "https://maps.google.com/?q=Runyon+Canyon+Park+Fuller+Avenue+Los+Angeles"
+          "googleMapsUrl": "https://maps.google.com/?q=Runyon+Canyon+Park+Fuller+Avenue+Los+Angeles",
+          "descriptionDe": "Ein 65 Hektar großer Canyon-Park, der direkt aus Hollywood aufsteigt, mit drei markierten Freilaufabschnitten, die den Großteil des zentralen Wegenetzes abdecken. Die 4,7-km-Runde vom Fuller-Avenue-Tor führt zu zwei Aussichtspunkten über Hollywood, an klaren Tagen auf Downtown LA und bei Sonnenuntergang auf den Pazifik im Westen. Runyon ist die spirituelle Heimat der Hundeszene von LA; Wochenendmorgen sind ein Who's-who freilaufender Hunde aus Laurel Canyon und West Hollywood.",
+          "offLeashAreaDe": "Drei markierte Freilaufabschnitte ab den Eingängen Fuller Avenue, Mulholland und Vista Street, die rund 60% des zentralen Wegenetzes abdecken. Rückrufkontrolle erforderlich.",
+          "tipDe": "Betreten Sie den Park über die Fuller Avenue (kostenlose Straßenparkplätze vor 07:30 Uhr) und nehmen Sie mehr Wasser mit, als Sie denken; auf dem oberen Weg gibt es keinen öffentlichen Trinkbrunnen."
         },
         {
           "name": "Silver Lake Reservoir Dog Park",
@@ -187,7 +213,10 @@
           "tipFr": "Stationnement uniquement en rue sur West Silver Lake Drive ; le parking dédié est plein dès 18h30 le vendredi soir.",
           "tipEs": "Aparcamiento solo en la calle de West Silver Lake Drive; el parking dedicado se llena a las 18:30 el viernes por la tarde.",
           "tipPt": "Estacionamento só na rua de West Silver Lake Drive; o estacionamento dedicado enche às 18:30 à sexta-feira à tarde.",
-          "googleMapsUrl": "https://maps.google.com/?q=Silver+Lake+Reservoir+Dog+Park+Los+Angeles"
+          "googleMapsUrl": "https://maps.google.com/?q=Silver+Lake+Reservoir+Dog+Park+Los+Angeles",
+          "descriptionDe": "Ein 0,8 Hektar großer eingezäunter Hundepark am Südufer des Silver Lake Reservoir, mit getrennten Bereichen für kleine und große Hunde, schattigen Picknicktischen, Trinkbrunnen für Hunde und gepflastertem Untergrund (kein matschiger nackter Boden). Die Runde um das Reservoir direkt vor dem Zaun ist ein beliebter 4-km-Spaziergang an der Leine mit Blick auf Downtown LA. Der Park wird von der Community verwaltet und ist bekannt gesellig; die Werktagsabende zwischen 18:00 und 20:00 Uhr sind die Hauptzeit der Anwohner.",
+          "offLeashAreaDe": "Gesamtes eingezäuntes Gelände mit getrennten Bereichen für kleine (unter 30 lb) und große Hunde. Täglich geöffnet 06:00-22:00 Uhr.",
+          "tipDe": "Nur Straßenparkplätze an der West Silver Lake Drive; der eigene Parkplatz ist freitagabends ab 18:30 Uhr voll."
         }
       ],
       "faqsEn": [
@@ -212,6 +241,14 @@
         {
           "q": "Onde posso realmente largar o cão em Los Angeles?",
           "a": "Dentro dos limites da cidade, as zonas legais sem trela são os parques caninos vedados (Silver Lake Reservoir, Sepulveda Basin, Westminster Avenue, Hermon, Whitnall Highway, Laurel Canyon e uma dúzia de outros) e os troços sinalizados sem trela de Runyon Canyon. Em todos os outros sítios, incluindo o resto de Griffith Park, todas as praias exceto Rosie's Dog Beach em Long Beach e qualquer outro parque municipal, os cães devem ir com trela segundo o LAMC 53.06.2; multas a partir de 100 $ por uma primeira infração e até 500 $ por reincidência."
+        }
+      ],
+      "titleDe": "Hundeparks und Grünflächen in Los Angeles",
+      "introDe": "Los Angeles betreibt eines der größten städtischen Parksysteme der USA, verankert durch den 1700 Hektar großen Griffith Park, sowie ein dichtes Netz eingezäunter und freilaufoffener Hundeauslaufflächen vom Runyon Canyon in den Hollywood Hills bis zum Silver Lake Reservoir Dog Park östlich von Downtown. Die meisten Bergwanderwege der Stadt (Griffith, Runyon, Elysian, Lake Hollywood) erlauben angeleinte Hunde das ganze Jahr über, mit markierten Freilaufbereichen im Runyon und einigen Nachbarschaftsparks. Die Öffnungszeiten der Parks reichen meist von Sonnenauf- bis -untergang; viele eingezäunte Auslaufflächen sind mit Beleuchtung bis 22:00 Uhr geöffnet. Die Hitze ist von Juni bis September die größte Einschränkung, wenn selbst der Asphalt der Bergwege 50 °C erreichen kann: Gehen Sie vor 09:00 Uhr oder nach 19:00 Uhr spazieren.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich meinen Hund in Los Angeles tatsächlich frei laufen lassen?",
+          "a": "Innerhalb der Stadtgrenzen sind die legalen Freilaufbereiche die eingezäunten Hundeparks (Silver Lake Reservoir, Sepulveda Basin, Westminster Avenue, Hermon, Whitnall Highway, Laurel Canyon und ein Dutzend weitere) sowie die markierten Freilaufabschnitte des Runyon Canyon. Überall sonst, einschließlich des übrigen Griffith Park, aller Strände außer Rosie's Dog Beach in Long Beach und jedem anderen Stadtpark, müssen Hunde gemäß LAMC 53.06.2 angeleint sein; die Bußgelder beginnen bei 100 $ für den ersten Verstoß und steigen bei Wiederholung auf 500 $."
         }
       ]
     },
@@ -321,6 +358,14 @@
           "q": "Posso levar um cão grande no transporte público de Los Angeles?",
           "a": "Oficialmente não, a regra da transportadora é absoluta no Metro Rail e Metro Bus. Para um cão grande demais para caber numa transportadora, as únicas opções são Uber Pet ou Lyft Pet (suplemento 3-5 $, sem limite de tamanho) ou o seu próprio carro. Os cães de serviço viajam grátis em todo o lado, com trela, sem transportadora."
         }
+      ],
+      "titleDe": "Mit Ihrem Haustier in Los Angeles unterwegs",
+      "introDe": "Los Angeles ist die typisch amerikanische Autostadt, und der einfachste Weg, einen Hund zu bewegen, ist Ihr Mietwagen oder Uber Pet / Lyft Pet, in der ganzen Metropolregion für einen Aufpreis von 3-5 $ über dem Standardtarif verfügbar. Öffentliche Verkehrsmittel funktionieren für kleine Haustiere in Transportboxen: LA Metro Rail und Metro Bus akzeptieren Haustiere in vollständig geschlossenen Transportboxen kostenlos, und Assistenzhunde fahren ohne Transportbox kostenlos mit. Der Amtrak Pacific Surfliner entlang der Küste akzeptiert Haustiere bis 20 lb (9 kg) für 26 $ pro Etappe, ein für einen Fernzug in den USA ungewöhnlicher Luxus. Die Flughäfen LAX, Burbank und Long Beach verfügen alle über Haustier-Erleichterungsbereiche im Innenbereich nach der Sicherheitskontrolle; der FlyAway-Bus des LAX zum/vom Union Station in Downtown akzeptiert Haustiere nur in Transportboxen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich einen großen Hund in den öffentlichen Verkehrsmitteln von LA mitnehmen?",
+          "a": "Offiziell nein, die Transportbox-Regel gilt uneingeschränkt bei Metro Rail und Metro Bus. Für einen Hund, der größer als das Transportbox-Limit ist, bleiben nur Uber Pet oder Lyft Pet (beide 3-5 $ Aufpreis über Standard, keine Größenbegrenzung) oder Ihr eigenes Auto. Diensthunde fahren überall kostenlos mit, angeleint, ohne Transportbox."
+        }
       ]
     },
     "beaches": {
@@ -387,6 +432,14 @@
           "q": "Posso levar o meu cão para a areia de Santa Monica ou Venice?",
           "a": "Não, os cães estão rigorosamente proibidos na areia de todas as praias públicas de Santa Monica e Venice, o ano inteiro, 24/7, multa 100-500 $. A opção sem trela mais próxima é Rosie's Dog Beach em Long Beach (35-50 min a sul de Santa Monica de carro). O boardwalk de Venice, o passeio do Santa Monica Pier e a ciclovia funcionam perfeitamente para um passeio com trela; a proibição é só na areia."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Los Angeles",
+      "introDe": "Der Landkreis Los Angeles hat genau einen Freilauf-Hundestrand: Rosie's Dog Beach in Long Beach, ein 1 km langer eingezäunter Sandstreifen bei Belmont Shore. Innerhalb des eigentlichen LA County verbieten Santa Monica, Venice und Manhattan Beach Hunde am Strand das ganze Jahr über, mit Bußgeldern ab 100 $. Zwei ausgezeichnete Alternativen liegen innerhalb von 30-60 Minuten Fahrt: Leo Carrillo State Beach in Malibu erlaubt angeleinte Hunde am Nordende (nur Beach 1), und Huntington Dog Beach in Orange County bietet 2,5 km Freilauf-Pazifikbrandung 30 Minuten südlich von Long Beach. Hitze und Asphalt sind von Juni bis September die Hauptsorgen; bringen Sie frisches Wasser mit und kontrollieren Sie die Pfotenballen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund an den Strand von Santa Monica oder Venice mitnehmen?",
+          "a": "Nein, Hunde sind an jedem öffentlichen Strand von Santa Monica und Venice das ganze Jahr über, rund um die Uhr, strikt verboten, Bußgeld 100-500 $. Die nächste Freilauf-Sandoption ist Rosie's Dog Beach in Long Beach (35-50 Min. südlich von Santa Monica mit dem Auto). Die Venice Boardwalk selbst, die Promenade am Santa Monica Pier und der Fahrradweg sind für einen Spaziergang an der Leine in Ordnung; das Verbot gilt nur für den Sand."
+        }
       ]
     },
     "vets": {
@@ -423,7 +476,10 @@
           "tipEs": "Sin cita, triaje por gravedad. Llama al +1 310 473 2951 si estás a más de 10 min para que preparen una sala de exploración.",
           "tipPt": "Sem marcação, triagem por gravidade. Liga para +1 310 473 2951 se estiver a mais de 10 min para prepararem uma sala de exames.",
           "googleMapsUrl": "https://maps.google.com/?q=VCA+West+Los+Angeles+Animal+Hospital+1900+Sepulveda+Boulevard",
-          "photo": "/images/city-places/los-angeles-vets-vca-west-los-angeles-animal-hospital.jpg"
+          "photo": "/images/city-places/los-angeles-vets-vca-west-los-angeles-animal-hospital.jpg",
+          "hoursDe": "Täglich rund um die Uhr geöffnet",
+          "descriptionDe": "Die größte VCA-Klinik auf der Westside, mit vollständiger Grundversorgung und einer 24/7-Notaufnahme unter demselben Dach, plus fachärztlich anerkannten Spezialisten für Kardiologie, Zahnmedizin, Innere Medizin, Neurologie, Onkologie und Chirurgie. Besonders praktisch, wenn Sie in Santa Monica, Venice, Brentwood, Westwood oder Beverly Hills übernachten: 10-15 Minuten von jedem Westside-Hotel entfernt, selbst im Verkehr.",
+          "tipDe": "Ohne Voranmeldung nach Schweregrad eingestuft. Rufen Sie unter +1 310 473 2951 an, wenn Sie mehr als 10 Minuten entfernt sind, damit ein Untersuchungsraum vorbereitet werden kann."
         },
         {
           "name": "ACCESS Specialty Animal Hospital - Los Angeles",
@@ -449,7 +505,10 @@
           "tipEs": "Entrada y zona de descarga de pacientes en el lado de Jefferson Boulevard. Lleva los informes médicos existentes en el móvil o un USB; la transferencia de imagen es rápida en planta.",
           "tipPt": "Entrada e zona de desembarque de pacientes do lado da Jefferson Boulevard. Leve os relatórios médicos existentes no telemóvel ou numa pen; a transferência de imagem é rápida no local.",
           "googleMapsUrl": "https://maps.google.com/?q=ACCESS+Specialty+Animal+Hospitals+9599+Jefferson+Boulevard+Culver+City",
-          "photo": "/images/city-places/los-angeles-vets-access-specialty-animal-hospital-los-angeles.jpg"
+          "photo": "/images/city-places/los-angeles-vets-access-specialty-animal-hospital-los-angeles.jpg",
+          "hoursDe": "Täglich rund um die Uhr geöffnet",
+          "descriptionDe": "Ein Überweisungszentrum für 24/7-Notfall- und Intensivpflege in Culver City, gleich weit entfernt von Santa Monica, Venice, Beverly Hills und Downtown LA. Ohne Voranmeldung rund um die Uhr geöffnet. Zu den Abteilungen gehören fortgeschrittene Intensivpflege, Notfallmedizin, Chirurgie, Neurologie, Kardiologie, Onkologie und diagnostische Bildgebung (CT und MRT vor Ort). Besonders stark bei Polytrauma und postoperativen Überweisungen.",
+          "tipDe": "Eingang und Patientenabgabe auf der Seite des Jefferson Boulevard. Bringen Sie vorhandene medizinische Unterlagen auf dem Telefon oder USB-Stick mit; die Übertragung von Bildgebungsdaten geht vor Ort schnell."
         },
         {
           "name": "VCA Animal Specialty Group",
@@ -475,7 +534,10 @@
           "tipEs": "Aparcamiento gratuito en el lado sur del edificio. Salida I-5 en Los Feliz Boulevard para el acceso más rápido desde downtown.",
           "tipPt": "Estacionamento gratuito do lado sul do edifício. Saída I-5 em Los Feliz Boulevard para o acesso mais rápido a partir do downtown.",
           "googleMapsUrl": "https://maps.google.com/?q=VCA+Animal+Specialty+Group+4641+Colorado+Boulevard+Los+Angeles",
-          "photo": "/images/city-places/los-angeles-vets-vca-animal-specialty-group.jpg"
+          "photo": "/images/city-places/los-angeles-vets-vca-animal-specialty-group.jpg",
+          "hoursDe": "Täglich rund um die Uhr geöffnet",
+          "descriptionDe": "Ein 24/7-Mehrfachspezialkrankenhaus am Colorado Boulevard zwischen Atwater Village, Glendale und Silver Lake, die praktischste Notaufnahme für die Nachbarschaften der Ostseite (Los Feliz, Silver Lake, Echo Park, Highland Park, Pasadena) und das südöstliche San Fernando Valley. Zu den Abteilungen gehören Notfallmedizin, Chirurgie, Innere Medizin, Onkologie, Kardiologie und Radiologie. Zweisprachiger Empfang, und mehrere Kliniker sprechen Spanisch.",
+          "tipDe": "Kostenloser Parkplatz an der Südseite des Gebäudes. Nehmen Sie von Downtown aus die schnellste Anfahrt über die Ausfahrt I-5 am Los Feliz Boulevard."
         }
       ],
       "faqsEn": [
@@ -500,6 +562,14 @@
         {
           "q": "Um veterinário de urgência em Los Angeles trata o meu cão sem historial prévio?",
           "a": "Sim. VCA West LA, ACCESS Culver City e VCA Animal Specialty Group aceitam visitantes estrangeiros sem marcação com cartão de crédito e os dados básicos do seu animal. A cartilha de vacinação acelera a admissão mas não é estritamente obrigatória. Conte com 200-400 $ de taxa de urgência antes de qualquer tratamento, a pagar antecipadamente. Os três funcionam 24/7, 365 dias por ano."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Los Angeles",
+      "introDe": "Los Angeles hat eines der dichtesten 24/7-Netzwerke für tierärztliche Notfallversorgung in den USA: Das VCA West Los Angeles Animal Hospital am Sepulveda Boulevard bietet Grundversorgung und vollständige Notaufnahme unter einem Dach, das ACCESS Specialty Animal Hospital in Culver City ist ein Überweisungszentrum für Intensivpflege, das rund um die Uhr geöffnet ist, und die VCA Animal Specialty Group am Colorado Boulevard nahe Glendale versorgt die Ostseite und das Valley. Alle drei nehmen ausländische Besucher ohne Voranmeldung mit Reisepass und Kreditkarte auf; rechnen Sie mit einer Notfall-Untersuchungsgebühr von 200-400 $ vor der Behandlung. Englisch ist in der Klinik universell; zweisprachiges spanischsprachiges Personal ist angesichts der Demografie von LA häufig.",
+      "faqsDe": [
+        {
+          "q": "Behandelt ein Notfall-Tierarzt in Los Angeles meinen Hund ohne vorherige Unterlagen?",
+          "a": "Ja. VCA West LA, ACCESS Culver City und die VCA Animal Specialty Group nehmen alle ausländische Besucher ohne Voranmeldung mit Kreditkarte und den Grunddaten Ihres Haustiers auf. Impfnachweise helfen bei der Aufnahmegeschwindigkeit, sind aber nicht zwingend erforderlich. Rechnen Sie vor jeder Behandlung mit einer im Voraus zu zahlenden Notfall-Untersuchungsgebühr von 200-400 $. Alle drei sind 24/7, 365 Tage geöffnet."
         }
       ]
     },
@@ -588,6 +658,18 @@
           "q": "Os hotéis de Los Angeles são realmente pet-friendly ou apenas tolerantes?",
           "a": "Muitos dos hotéis de luxo e boutique da cidade acolhem ativamente os animais com camas, tigelas, guloseimas e serviços de concierge canino: marca Kimpton, The London West Hollywood, Hotel Bel-Air, Beverly Hills Hotel, Shutters on the Beach em Santa Monica e Loews Hollywood. Os hotéis de gama média e corporativos são mais variáveis, normalmente 50-150 $ por estadia. Confirme a política no site oficial do hotel; as fichas dos OTA costumam estar desatualizadas."
         }
+      ],
+      "titleDe": "Reisetipps für Haustiere in Los Angeles",
+      "introDe": "Los Angeles ist von Oktober bis Mai eine der einfachsten US-Städte für Reisen mit Haustier: mediterranes Klima, dichtes Netz an Hundeparks und Freilaufabschnitten, markante Bergwege das ganze Jahr über geöffnet, eine 1700 Hektar große urbane Wildnis im Griffith Park und tierärztliche Versorgung rund um die Uhr in der ganzen Metropolregion. Die Hauptreibungspunkte sind die Sommerhitze von Juni bis September (der Asphalt im Valley erreicht an Juli- und Augustnachmittagen regelmäßig 50-55 °C), strikte Hundeverbote an jedem Strand des LA County außer Rosie's Dog Beach und die reine Transportbox-Regel für nicht-dienstliche Hunde in öffentlichen Verkehrsmitteln. Alle Preise auf dieser Seite sind in ungefähren USD-Äquivalenten; die Seite zeigt aus historischen Gründen € an (lesen Sie €1 ≈ 1 $ für Los Angeles).",
+      "faqsDe": [
+        {
+          "q": "Ist Los Angeles ein gutes Reiseziel mit Hund?",
+          "a": "Ja, besonders von Oktober bis Mai. Mediterranes Klima, markante Bergwege (Griffith, Runyon, Elysian), dichte eingezäunte Hundeparks, ein echter Freilaufstrand (Rosie's in Long Beach), zwei weitere innerhalb einer Stunde (Leo Carrillo, Huntington), tierärztliche Versorgung rund um die Uhr und ein vom CDC für internationale Hundeeinreisen zugelassener Flughafen (LAX) machen es zu einem der haustierfreundlichsten US-Einreisetore. Die beiden echten Einschränkungen sind die Sommerhitze in den Valleys und die Transportbox-Regel in öffentlichen Verkehrsmitteln für nicht kleine Hunde."
+        },
+        {
+          "q": "Sind die Hotels in LA wirklich haustierfreundlich oder nur tolerant?",
+          "a": "Viele Luxus- und Boutique-Hotels der Stadt heißen Haustiere aktiv willkommen, mit Betten, Näpfen, Leckerlis und Concierge-Diensten für Hunde: die Kimpton-Marke stadtweit, The London West Hollywood, Hotel Bel-Air, Beverly Hills Hotel, Shutters on the Beach in Santa Monica und Loews Hollywood. Hotels der Mittelklasse und Firmenhotels sind unterschiedlicher und verlangen meist 50-150 $ pro Aufenthalt. Bestätigen Sie die Richtlinie auf der eigenen Website des Hotels; OTA-Einträge sind oft veraltet."
+        }
       ]
     },
     "attractions": {
@@ -621,7 +703,11 @@
           "tipFr": "Montez à pied depuis le parking du Greek Theatre via le Charlie Turner Trail (5 km aller-retour) plutôt qu'en voiture ; les parkings hauts sont pleins dès 9h30 et le sentier est meilleur.",
           "tipEs": "Sube andando desde el parking del Greek Theatre por el Charlie Turner Trail (5 km ida y vuelta) en vez de en coche; los aparcamientos altos se llenan a las 09:30 y el sendero es mejor.",
           "tipPt": "Suba a pé desde o estacionamento do Greek Theatre pelo Charlie Turner Trail (5 km ida e volta) em vez de carro; os estacionamentos altos enchem às 09:30 e o trilho é melhor.",
-          "googleMapsUrl": "https://maps.google.com/?q=Griffith+Observatory+Los+Angeles"
+          "googleMapsUrl": "https://maps.google.com/?q=Griffith+Observatory+Los+Angeles",
+          "descriptionDe": "Das 1935 im Art-déco-Stil erbaute Griffith Observatory liegt auf 350 m über Los Angeles am Südhang des Mount Hollywood, mit dem ikonischen Hollywood-Zeichen drei Kilometer westlich sichtbar. Die gesamte Außenterrasse, der Dachbalkon mit Blick auf das Foucaultsche Pendel, der Vorplatz und alle Zufahrtswege akzeptieren angeleinte Hunde kostenlos (die Innenausstellungen sind nur für Assistenzhunde). Einer der meistfotografierten hundefreundlichen Aussichtspunkte der Vereinigten Staaten, besonders bei Sonnenuntergang.",
+          "dogPolicyDe": "Angeleinte Hunde jederzeit kostenlos auf der gesamten Außenterrasse, den Rasenflächen und Zufahrtswegen willkommen. Keine Hunde in den Innenausstellungen oder im Planetarium.",
+          "admissionFeeDe": "Kostenlos (Planetariumsticket 10 $, Hunde bei dieser Vorführung nicht zugelassen)",
+          "tipDe": "Gehen Sie vom Parkplatz beim Greek Theatre über den Charlie Turner Trail hinauf (5 km Hin- und Rückweg), statt zu fahren; die oberen Parkplätze sind ab 09:30 Uhr voll, und der Weg ist das schönere Erlebnis."
         },
         {
           "name": "Venice Boardwalk & Abbot Kinney",
@@ -644,7 +730,11 @@
           "tipFr": "Stationnez sur le parking de Rose Avenue (2 $/heure) et marchez vers le sud ; le week-end de 11h à 17h est le plus bondé, le matin est plus calme pour les chiens timides.",
           "tipEs": "Aparca en el parking de Rose Avenue (2 $/hora) y camina al sur; los fines de semana de 11:00 a 17:00 son los más concurridos, la mañana es más tranquila para perros tímidos.",
           "tipPt": "Estacione no parque de Rose Avenue (2 $/hora) e ande para sul; os fins-de-semana das 11:00 às 17:00 são os mais cheios, a manhã é mais calma para cães tímidos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Venice+Boardwalk+Venice+Beach"
+          "googleMapsUrl": "https://maps.google.com/?q=Venice+Boardwalk+Venice+Beach",
+          "descriptionDe": "Die 4 km lange Venice Boardwalk zwischen Washington Boulevard und Rose Avenue ist eine von LAs charakteristischen Straßenszenen im Freien: Skateboard-Platz, Muscle-Beach-Fitnessstudio, Straßenkünstler, muralbemalte Wände und eine ständige Parade angeleinter Hunde vom Frühstück bis Mitternacht. Sechs Blocks landeinwärts erstreckt sich der Abbot Kinney Boulevard über einen Kilometer mit unabhängigen Designläden, hundefreundlichen Cafés und Terrassenrestaurants. Der Sand selbst ist für Hunde tabu; die Boardwalk ist die Hundeautobahn.",
+          "dogPolicyDe": "Angeleinte Hunde auf der gesamten 4 km langen Boardwalk sowie auf den Gehwegen und Terrassen des Abbot Kinney Boulevard willkommen. Keine Hunde am Sand.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Parken Sie auf dem Parkplatz an der Rose Avenue (2 $/Stunde) und gehen Sie südwärts; Wochenenden von 11:00 bis 17:00 Uhr sind am stärksten frequentiert, Morgenstunden sind ruhiger für schreckhafte Hunde."
         },
         {
           "name": "Getty Center exterior gardens",
@@ -667,7 +757,11 @@
           "tipFr": "Réservez le créneau parking en ligne pour la fin d'après-midi (15h ou plus tard) ; la file du tram est plus courte et les jardins sont dorés au coucher du soleil.",
           "tipEs": "Reserva el hueco de aparcamiento en línea para la última hora de la tarde (15:00 o más tarde); la cola del tranvía es más corta y los jardines están dorados al atardecer.",
           "tipPt": "Reserve o lugar de estacionamento online para fim de tarde (15:00 ou mais tarde); a fila do elétrico é mais curta e os jardins ficam dourados ao pôr-do-sol.",
-          "googleMapsUrl": "https://maps.google.com/?q=Getty+Center+Los+Angeles"
+          "googleMapsUrl": "https://maps.google.com/?q=Getty+Center+Los+Angeles",
+          "descriptionDe": "Richard Meiers Travertin-Campus auf einem Höhenzug in Brentwood, 270 m über der Autobahn 405, mit Robert Irwins Central Garden, Brunnenhöfen und Panoramaterrassen von Downtown bis zum Pazifik. Die Außengärten, die berühmte Anfahrt mit der Straßenbahn und der Eingangsplatz akzeptieren angeleinte Hunde kostenlos; nur die Innenausstellungen sind für nicht-dienstliche Hunde tabu. Der Eintritt ist kostenlos, aber das zeitgebundene Parken kostet 25 $. Ein seltenes großes Museumserlebnis, das LA-Besucher mit einem Hund teilen können.",
+          "dogPolicyDe": "Angeleinte Hunde auf der Straßenbahn, dem Eingangsplatz, im Central Garden und auf allen Außenterrassen willkommen. Keine Hunde in den Innenausstellungen oder im Auditorium.",
+          "admissionFeeDe": "Kostenlos (zeitgebundenes Parken 25 $)",
+          "tipDe": "Reservieren Sie den Parkplatz online für den späten Nachmittag (ab 15:00 Uhr); die Straßenbahnschlange ist kürzer, und die Gärten sind bei Sonnenuntergang golden."
         }
       ],
       "faqsEn": [
@@ -692,6 +786,14 @@
         {
           "q": "Posso entrar com o meu cão na Universal Studios ou Disneyland?",
           "a": "Não, nem a Universal Studios Hollywood nem a Disneyland Anaheim admitem animais que não sejam de serviço dentro dos parques. Ambos têm canis no local para o dia (Universal 20 $/dia, Disneyland 35 $/dia) onde tem de ir você mesmo dar de comer e passear ao cão entre atrações. Os cães de serviço são admitidos na maioria das atrações exceto as de alta velocidade, quedas ou movimentos. Os jardins exteriores do Getty Center e o terraço do Griffith Observatory são as duas grandes atrações que pode partilhar plenamente com um cão."
+        }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Los Angeles",
+      "introDe": "Die meisten Innenattraktionen von LA (LACMA, die Innenräume des Getty Center, das Broad, das Academy Museum) lassen außer Assistenzhunden keine Haustiere zu. Aber viele der bekanntesten Erlebnisse im Freien schon: ein Spaziergang auf dem Hollywood Boulevard Walk of Fame mit dem Vorplatz des TCL Chinese Theatre, der Aufstieg zur Terrasse des Griffith Observatory für den Blick auf das Hollywood-Zeichen, ein Bummel über die Venice Boardwalk und die Promenade am Santa Monica Pier, die Außengärten des Getty Center mit einem bezahlten Zeittickets, der historische Platz Olvera Street und der Designboulevard Abbot Kinney.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund zu Universal Studios oder Disneyland mitnehmen?",
+          "a": "Nein, weder die Universal Studios Hollywood noch Disneyland Anaheim lassen nicht-dienstliche Haustiere in die Parks. Beide betreiben Kenneln vor Ort für den Tag (Universal 20 $/Tag, Disneyland 35 $/Tag), wo Sie Ihren Hund zwischen den Fahrten selbst besuchen, füttern und ausführen müssen. Assistenzhunde sind bei den meisten Fahrgeschäften willkommen, außer bei solchen mit hoher Geschwindigkeit, Stürzen oder starker Bewegung. Die Außengärten des Getty Center und die Terrasse des Griffith Observatory sind die beiden namhaften Attraktionen, die Sie vollständig mit einem Hund erleben können."
         }
       ]
     },
@@ -724,7 +826,10 @@
           "tip": "Book at least 48-72 hours ahead for first-time clients; weekends spring break (Mar) and summer (Jul-Aug) fill up early.",
           "tipFr": "Réservez 48 à 72 h à l'avance pour une première fois ; les week-ends de spring break (mars) et d'été (juil-août) se remplissent tôt.",
           "tipEs": "Reserva con 48-72 h de antelación si es tu primera vez; los fines de semana de spring break (mar) y verano (jul-ago) se llenan pronto.",
-          "tipPt": "Reserve com 48 a 72 h de antecedência da primeira vez; os fins-de-semana de spring break (mar) e verão (jul-ago) enchem cedo."
+          "tipPt": "Reserve com 48 a 72 h de antecedência da primeira vez; os fins-de-semana de spring break (mar) e verão (jul-ago) enchem cedo.",
+          "descriptionDe": "Ein seit 2008 tätiger, angestelltenbasierter, voll versicherter und kautionsbesicherter Boutique-Dienst für Gassigehen und Haustierbetreuung in LA, mit Abdeckung der Westside (Santa Monica, Venice, Brentwood, Westwood), Hollywood, West Hollywood und der Ostseite (Silver Lake, Los Feliz, Echo Park). Spezialisiert auf Vereinbarungen für Hotelaufenthalte internationaler Reisender: Ausführer kommen direkt in Ihr Zimmer oder treffen sich bei Bedarf mit Fahrzeug in der Lobby.",
+          "serviceTypeDe": "Gassigehen, Haustierbetreuung im Haus, Besuche im Hotelzimmer",
+          "tipDe": "Buchen Sie für Erstkunden mindestens 48-72 Stunden im Voraus; Wochenenden, die Frühjahrsferien (März) und der Sommer (Juli-August) sind früh ausgebucht."
         },
         {
           "name": "Rover (Los Angeles sitters)",
@@ -746,7 +851,10 @@
           "tip": "Filter by 'Star Sitter' status and read at least 5 recent reviews; the Korean-speaking sitter pool in Koreatown is unusually strong for travellers from Seoul.",
           "tipFr": "Filtrez par statut « Star Sitter » et lisez au moins 5 avis récents ; le vivier de sitters coréanophones à Koreatown est particulièrement fort pour les voyageurs venant de Séoul.",
           "tipEs": "Filtra por estatus 'Star Sitter' y lee al menos 5 reseñas recientes; el vivero de cuidadores coreanoparlantes en Koreatown es muy fuerte para viajeros que vienen de Seúl.",
-          "tipPt": "Filtre por estatuto 'Star Sitter' e leia pelo menos 5 avaliações recentes; o conjunto de cuidadores coreanos em Koreatown é particularmente forte para viajantes vindos de Seul."
+          "tipPt": "Filtre por estatuto 'Star Sitter' e leia pelo menos 5 avaliações recentes; o conjunto de cuidadores coreanos em Koreatown é particularmente forte para viajantes vindos de Seul.",
+          "descriptionDe": "Rover ist die größte Peer-to-Peer-Plattform der USA für Hundeausführer und Haustierbetreuer, mit Tausenden geprüften Betreuern im gesamten LA County. Sie können einstündige Spaziergänge, Kurzbesuche, Tagesbetreuung oder Übernachtungsbetreuung buchen. Lesen Sie Bewertungen der Betreuer sorgfältig - die Qualität variiert; die Top-5-Sterne-Betreuer in Santa Monica, West Hollywood und Silver Lake sind in der Hochsaison oft 1-2 Wochen im Voraus ausgebucht.",
+          "serviceTypeDe": "Spaziergänge, Kurzbesuche, Tagesbetreuung, Unterbringung (Marktplatz)",
+          "tipDe": "Filtern Sie nach dem Status 'Star Sitter' und lesen Sie mindestens 5 aktuelle Bewertungen; der koreanischsprachige Betreuerpool in Koreatown ist für Reisende aus Seoul ungewöhnlich stark."
         },
         {
           "name": "Dog Days Pet Care LA",
@@ -767,9 +875,15 @@
           "tip": "Westside-only coverage; for Hollywood or eastside neighbourhoods, use The Dog Father LA or Rover instead.",
           "tipFr": "Couverture Westside uniquement ; pour Hollywood ou les quartiers est, prenez plutôt The Dog Father LA ou Rover.",
           "tipEs": "Cobertura solo Westside; para Hollywood o barrios del este, mejor The Dog Father LA o Rover.",
-          "tipPt": "Cobertura só Westside; para Hollywood ou bairros do leste, melhor The Dog Father LA ou Rover."
+          "tipPt": "Cobertura só Westside; para Hollywood ou bairros do leste, melhor The Dog Father LA ou Rover.",
+          "descriptionDe": "Ein seit 2010 tätiges, angestelltenbasiertes und voll versichertes Unternehmen für Gassigehen und Haustierbetreuung in West-LA, mit Fokus auf die Westside (Santa Monica, Venice, Brentwood, Mar Vista, Culver City, Marina del Rey). Bietet strukturierte 30- oder 60-minütige Nachbarschaftsspaziergänge, Mittagsbesuche für Hotelgäste und Übernachtungsbetreuung im eigenen Zuhause oder bei Ihnen.",
+          "serviceTypeDe": "Spaziergänge, Kurzbesuche, Übernachtungsbetreuung im Haus",
+          "tipDe": "Nur Abdeckung der Westside; für Hollywood oder Nachbarschaften der Ostseite nutzen Sie stattdessen The Dog Father LA oder Rover."
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung und Gassiservice in Los Angeles",
+      "introDe": "Los Angeles hat den größten Pool professioneller Hundeausführer und Haustierbetreuer im Westen der USA. Rover und Wag dominieren die On-Demand-App-Seite, mit Tausenden Betreuern im gesamten LA County; die Preise liegen bei 25-40 $ pro Spaziergang und 60-130 $ pro Übernachtung. Mehrere LA-spezifische Premiumagenturen (The Dog Father LA, Dog Days Pet Care, LA Dog Works) bieten voll versicherten, angestelltenbasierten Service für Gäste, die einen geprüften Anbieter einer Marktplatzplattform vorziehen. Viele Betreuer sind zweisprachig Englisch-Spanisch.",
+      "faqsDe": []
     }
   }
 }

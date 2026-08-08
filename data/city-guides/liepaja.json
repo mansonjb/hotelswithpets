@@ -37,7 +37,11 @@
           "descriptionPt": "Um bar de cerveja artesanal escondido na Cidade Velha, junto à Stendera iela, popular entre o público criativo local pelas suas torneiras letãs rotativas e pela esplanada informal no pátio. Confirmado como pet-friendly em avaliações do TripAdvisor, o bar acolhe regularmente cães tanto no pátio como no interior nas noites mais calmas. A comida resume-se a petiscos de bar em vez de pratos completos, sendo o foco a lista de cervejas e a conversa.",
           "petPolicyPt": "Cães bem-vindos no pátio e no interior nas noites mais calmas, pergunte ao pessoal à chegada",
           "mustTryPt": "Torneiras artesanais letãs rotativas, peça a cerveja local Užavas",
-          "tipPt": "Chegue antes das 20:00 aos fins de semana, o pequeno espaço enche-se depressa de gente local"
+          "tipPt": "Chegue antes das 20:00 aos fins de semana, o pequeno espaço enche-se depressa de gente local",
+          "descriptionDe": "Eine Craft-Beer-Bar in der Altstadt abseits der Stendera iela, beliebt bei der lokalen kreativen Szene wegen ihrer wechselnden lettischen Zapfsorten und der informellen Hofbestuhlung. Laut TripAdvisor-Bewertungen als haustierfreundlich bestätigt, die Bar heißt regelmäßig Hunde sowohl im Hof als auch an ruhigen Abenden drinnen willkommen. Das Essen sind eher Bar-Snacks als vollständige Gerichte, im Fokus stehen die Bierkarte und das Gespräch.",
+          "petPolicyDe": "Hunde im Hof und drinnen an ruhigen Abenden willkommen, beim Personal bei Ankunft nachfragen",
+          "mustTryDe": "Wechselnde lettische Craft-Biere, nach dem lokalen Užavas-Lager fragen",
+          "tipDe": "Am Wochenende vor 20:00 Uhr eintreffen, der kleine Raum füllt sich schnell mit Einheimischen"
         },
         {
           "name": "Beach Cafe Mermaid (Nakras kafejnica)",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um quiosque de praia sazonal na extremidade ocidental da Roņu iela, dentro do Parque Marítimo, a dois minutos das dunas do Báltico. A esplanada exterior de madeira apanha o sol da tarde e é totalmente pet-friendly durante a época de maio a setembro, com taças de água fornecidas a pedido. A ementa é informal: sopa de peixe, sandes abertas, refrigerantes e café, com cerveja e vinho locais à noite.",
           "petPolicyPt": "Cães bem-vindos na esplanada exterior, taças de água a pedido. Sala interior fechada",
           "mustTryPt": "Sopa de peixe letã, sande aberta de peixe fumado",
-          "tipPt": "A esplanada fica abrigada do vento de oeste dominante, perfeita para almoços tardios com um cão molhado depois de uma corrida na praia"
+          "tipPt": "A esplanada fica abrigada do vento de oeste dominante, perfeita para almoços tardios com um cão molhado depois de uma corrida na praia",
+          "descriptionDe": "Ein saisonaler Strandkiosk am westlichen Ende der Roņu iela im Seaside Park, zwei Minuten von den baltischen Dünen entfernt. Die hölzerne Außenterrasse fängt die Nachmittagssonne ein und ist während der Saison von Mai bis September voll hundefreundlich, Wassernäpfe werden auf Anfrage bereitgestellt. Die Speisekarte ist einfach: Fischsuppe, offene Sandwiches, Softdrinks und Kaffee, abends auch lokales Bier und Wein.",
+          "petPolicyDe": "Hunde auf der Außenterrasse willkommen, Wassernäpfe auf Anfrage. Innenbereich geschlossen",
+          "mustTryDe": "Lettische Fischsuppe, offenes Sandwich mit geräuchertem Fisch",
+          "tipDe": "Die Terrasse ist vor dem vorherrschenden Westwind geschützt, perfekt für ein spätes Mittagessen mit einem nassen Hund nach einem Strandlauf"
         }
       ],
       "tipsEn": [
@@ -127,6 +135,18 @@
           "q": "As ementas para cães existem em Liepaja?",
           "a": "Não. Liepaja ainda não adotou a tendência das ementas para cães, leve as suas próprias guloseimas e taça de água."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Liepaja",
+      "introDe": "Liepajas Gastronomieszene konzentriert sich auf die Altstadt zwischen der Kursu iela und dem Handelskanal sowie entlang der Promenade des Seaside Park. Die örtliche Norm ist pragmatisch: Die meisten legeren Bars und Sommerterrassen heißen einen wohlerzogenen, angeleinten Hund willkommen, Innenräume dagegen in der Regel nicht. Die Sommer-Strandcafés an der Peldu iela sind von Juni bis August die einfachste hundefreundliche Wahl. Vor dem Hinsetzen immer nachfragen und einen faltbaren Wassernapf mitbringen, da eine Tischbedienung für Hunde nicht üblich ist.",
+      "faqsDe": [
+        {
+          "q": "Kann ich mit meinem Hund in Liepaja drinnen essen?",
+          "a": "Selten. Die meisten Lokale beschränken Hunde auf Außenterrassen, vor dem Betreten nachfragen."
+        },
+        {
+          "q": "Gibt es Hundemenüs in Liepaja?",
+          "a": "Nein. Liepaja hat den Trend der Hundemenüs noch nicht übernommen, eigene Leckerlis und Wassernapf mitbringen."
+        }
       ]
     },
     "parks": {
@@ -163,7 +183,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Jurmalas+parks+Liepaja",
           "descriptionPt": "Criado no final do século XIX para estabilizar as dunas, o Parque Marítimo estende-se por 3 km ao longo da costa e ocupa 50 hectares plantados com 170 espécies de árvores. Caminhos largos de gravilha, fontes, o Lago dos Cisnes com a sua ponte pedonal romântica e a obra de arte ambiental Árvore dos Fantasmas fazem dele o principal local de passeio diário de Liepaja. Os cães têm de permanecer com trela em todos os momentos dentro dos limites do parque.",
           "petPolicyPt": "Cães com trela bem-vindos em todos os caminhos. Sem zona sem trela, sem cães nos campos desportivos",
-          "tipPt": "Entre pela Peldu iela para combinar o parque com um passeio na praia, as dunas ficam 200 m mais a oeste"
+          "tipPt": "Entre pela Peldu iela para combinar o parque com um passeio na praia, as dunas ficam 200 m mais a oeste",
+          "descriptionDe": "Ende des 19. Jahrhunderts zur Stabilisierung der Dünen angelegt, erstreckt sich der Seaside Park 3 km entlang der Küste und umfasst 50 Hektar mit 170 gepflanzten Baumarten. Breite Kieswege, Springbrunnen, der Schwanenteich mit seiner romantischen Fußgängerbrücke und die Umweltkunstinstallation Baum der Geister machen ihn zu Liepajas wichtigstem täglichen Spaziergängerziel. Hunde müssen innerhalb der Parkgrenzen jederzeit angeleint sein.",
+          "petPolicyDe": "Angeleinte Hunde auf allen Wegen willkommen. Kein Freilauf, keine Hunde auf den Sportplätzen",
+          "tipDe": "Von der Peldu iela aus einsteigen, um den Park mit einem Strandspaziergang zu kombinieren, die Dünen liegen 200 m weiter westlich"
         },
         {
           "name": "Lauvas sirds dog walking area",
@@ -188,7 +211,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Lauvas+sirds+Liepaja",
           "descriptionPt": "A única zona de passeio de cães formalmente vedada e sem trela de Liepaja, anexa ao canil municipal Lauvas sirds, na 14. novembra bulvāris. O espaço é modesto mas seguro, com piso próprio e partilhado com os cães do canil durante os passeios. O acesso fica limitado ao horário de abertura do canil, dias úteis até às 17:00 e fins de semana até às 16:00.",
           "petPolicyPt": "Permitido sem trela dentro da vedação. Os cães têm de ser sociáveis e ter as vacinas em dia",
-          "tipPt": "Telefone antes de visitar, através da página de contactos do município, pois o pessoal do canil pode estar a tratar de adoções no recinto"
+          "tipPt": "Telefone antes de visitar, através da página de contactos do município, pois o pessoal do canil pode estar a tratar de adoções no recinto",
+          "descriptionDe": "Liepajas einzige formell eingezäunte Hundeauslauffläche, angeschlossen an das städtische Tierheim Lauvas sirds am 14. novembra-Boulevard. Der Bereich ist bescheiden, aber sicher, befestigt und wird bei Ausgängen mit Tierheimhunden geteilt. Der Zugang ist auf die Öffnungszeiten des Tierheims beschränkt, wochentags bis 17:00 Uhr und an Wochenenden bis 16:00 Uhr.",
+          "petPolicyDe": "Freilauf innerhalb des Zauns erlaubt. Hunde müssen sozialverträglich und aktuell geimpft sein",
+          "tipDe": "Vor dem Besuch über die Kontaktseite der Gemeinde vorher anrufen, das Tierheimpersonal kümmert sich auf dem Gelände möglicherweise gerade um Adoptionen"
         }
       ],
       "tipsEn": [
@@ -251,6 +277,18 @@
         {
           "q": "Posso deixar o meu cão sem trela no Parque Marítimo?",
           "a": "Não. O parque é só com trela, segundo as regras municipais. Vá para a praia aberta, a norte da zona balnear, para uma corrida legal sem trela."
+        }
+      ],
+      "titleDe": "Beste Parks und Freilaufflächen in Liepaja",
+      "introDe": "Liepajas grünes Rückgrat ist der 50 Hektar große Seaside Park (Jurmalas parks), ein 3 km langer bewaldeter Streifen parallel zur Ostsee mit 170 Baumarten, Sportanlagen, einem Schwanenteich und der Allee der lettischen Musiker. Im Park müssen Hunde angeleint sein, aber die unmittelbar westlich gelegenen Sanddünen öffnen sich zum 7 km langen Stadtstrand, wo angeleinte Hunde außerhalb der markierten Badezonen erlaubt sind. Zusätzlich unterhält die Stadt eine eingezäunte Hundeauslauffläche am städtischen Tierheim Lauvas sirds auf 14. novembra bulvāris 31/33, die einzige formell erlaubte Freilauffläche der Stadt, nur während der Öffnungszeiten des Tierheims zugänglich.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Freilaufpark in Liepaja?",
+          "a": "Ja, aber nur ein eingezäuntes Grundstück am städtischen Tierheim Lauvas sirds an der 14. novembra bulvaris, und nur während der Öffnungszeiten des Tierheims."
+        },
+        {
+          "q": "Darf mein Hund im Seaside Park ohne Leine laufen?",
+          "a": "Nein. Nach städtischer Vorschrift gilt im Park Leinenpflicht. Für einen legalen Freilauf auf den offenen Strand nördlich der Badezone gehen."
         }
       ]
     },
@@ -333,6 +371,18 @@
           "q": "Como vou de Liepaja para Riga com um cão?",
           "a": "Apanhe o autocarro da Ecolines ou da Liepajas Autobusu Parks (cerca de 3h15). Os cães pequenos numa caixa de transporte viajam grátis, os maiores precisam de açaime e aviso prévio."
         }
+      ],
+      "titleDe": "Mit Haustieren unterwegs in Liepaja",
+      "introDe": "Liepaja wird von Liepajas Tramvajs bedient (Lettlands älteste elektrische Straßenbahn, deren einzige Linie Karosta im Norden mit dem südlichen Bezirk Ezerkrasts verbindet) sowie von Liepajas Autobusu Parks, das 13 Buslinien plus 6 Kleinbuslinien betreibt. Das System ist kompakt, und ein einheitliches Ticket gilt sowohl für Straßenbahnen als auch für Busse. Der städtische Verkehrsbetreiber veröffentlicht keine eigene Haustierrichtlinie, Fahrgäste sollten daher der allgemeinen lettischen Beförderungspraxis folgen (kleine Hunde in einer Transportbox kostenlos, angeleinte Hunde nach Ermessen des Fahrers) und bei Sonderfällen unter +371 634 28744 nachfragen. Fernbusse nach Riga verkehren mehrmals täglich über Ecolines und Liepajas Autobusu Parks Intercity, beide akzeptieren kleine Hunde in Transportboxen.",
+      "faqsDe": [
+        {
+          "q": "Erlaubt die Straßenbahn in Liepaja Hunde?",
+          "a": "Es gibt keine veröffentlichte Richtlinie. Kleine Hunde in einer Transportbox werden in der Praxis akzeptiert; für mittelgroße und große Hunde unter +371 634 28744 nachfragen."
+        },
+        {
+          "q": "Wie komme ich mit Hund von Liepaja nach Riga?",
+          "a": "Den Bus von Ecolines oder Liepajas Autobusu Parks nehmen (etwa 3 Std. 15 Min.). Kleine Hunde in einer Transportbox reisen kostenlos, größere Hunde brauchen einen Maulkorb und vorherige Anmeldung."
+        }
       ]
     },
     "beaches": {
@@ -367,7 +417,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Liepaja+beach+Kurmajas+prospekts",
           "descriptionPt": "O troço de passeio de cães mais popular dos 7 km de praia com Bandeira Azul de Liepaja, logo a norte do monumento aos pescadores. Areia larga e macia, dunas baixas e um horizonte limpo tornam-no ideal para longas sessões de atirar a bola. Apenas com trela dentro da zona assinalada, mas as dunas selvagens para lá dela são toleradas para praticar o regresso sem trela.",
           "petPolicyPt": "Cães com trela bem-vindos todo o ano fora da zona balnear designada. Apanhe os dejetos do seu cão, há coimas",
-          "tipPt": "Estacione no extremo da Roņu iela e caminhe 5 minutos para norte, a zona balnear mais movimentada esvazia-se antes de chegar ao troço dos cães"
+          "tipPt": "Estacione no extremo da Roņu iela e caminhe 5 minutos para norte, a zona balnear mais movimentada esvazia-se antes de chegar ao troço dos cães",
+          "descriptionDe": "Der beliebteste Hundespazier-Abschnitt von Liepajas 7 km langem Blaue-Flagge-Strand, direkt nördlich des Fischerdenkmals. Breiter, weicher Sand, flache Dünen und ein klarer Horizont machen ihn ideal für lange Ballwurfrunden. Innerhalb der markierten Zone gilt Leinenpflicht, aber die wilden Dünen dahinter werden für Freilauf-Rückrufübungen geduldet.",
+          "petPolicyDe": "Angeleinte Hunde ganzjährig außerhalb der ausgewiesenen Badezone willkommen. Hinterlassenschaften des Hundes aufsammeln, es drohen Geldstrafen",
+          "tipDe": "Am Ende der Roņu iela parken und 5 Minuten nach Norden gehen, die belebteste Badezone leert sich, bevor man den Hundeabschnitt erreicht"
         },
         {
           "name": "Karosta wild beach",
@@ -391,7 +444,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Karosta+beach+Liepaja",
           "descriptionPt": "O troço setentrional deserto para lá do antigo porto naval soviético, acedido pela Atmodas bulvāris e pela ponte de Karosta. Vazio mesmo em julho, com quebra-mares de betão partido, fortificações abandonadas e 200 m de rebentação. Os locais passeiam aqui os cães sem trela de forma informal, sem fiscalização conhecida, embora as regras de trela da cidade se apliquem tecnicamente.",
           "petPolicyPt": "Com trela em princípio, segundo o regulamento municipal, sem trela tolerado na prática devido à ausência de banhistas",
-          "tipPt": "Use calçado fechado, os varões de ferro enferrujados no betão antigo são um risco real para patas e tornozelos"
+          "tipPt": "Use calçado fechado, os varões de ferro enferrujados no betão antigo são um risco real para patas e tornozelos",
+          "descriptionDe": "Der menschenleere nördliche Abschnitt jenseits des ehemaligen sowjetischen Marinehafens, erreichbar über den Atmodas bulvaris und die Karosta-Brücke. Selbst im Juli leer, mit zerbrochenen Betonwellenbrechern, verlassenen Befestigungsanlagen und 200 m brechender Brandung. Einheimische lassen ihre Hunde hier informell ohne gemeldete Kontrollen frei laufen, obwohl die städtischen Leinenregeln technisch gelten.",
+          "petPolicyDe": "Nach städtischer Verordnung im Prinzip Leinenpflicht, in der Praxis wegen fehlender Badegäste Freilauf geduldet",
+          "tipDe": "Geschlossene Schuhe tragen, rostende Bewehrungsstähle im alten Beton sind eine echte Gefahr für Pfoten und Knöchel"
         }
       ],
       "tipsEn": [
@@ -455,6 +511,18 @@
           "q": "Há alguma praia sem trela em Liepaja?",
           "a": "Não existe nenhuma praia formal sem trela, mas a praia selvagem de Karosta, a norte do canal, é suficientemente vazia para que o sem trela seja tolerado na prática."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Liepaja",
+      "introDe": "Liepajas 7 km langer Blaue-Flagge-Strand gehört zu den saubersten Nordeuropas, und die Regeln für Hunde gehören zu den großzügigsten der lettischen Küste. Angeleinte Hunde sind ganzjährig auf dem offenen Strand außerhalb der ausgewiesenen Badezone willkommen, mit ausgeschilderten Bereichen an den Zugängen, die anzeigen, wo Spaziergänge erlaubt sind. Der beliebteste örtliche Hundeabschnitt liegt nördlich des Denkmals zum Gedenken an die umgekommenen Fischer und Seeleute am Ende des Kurmajas prospekts. Weiter nördlich hat der ehemalige sowjetische Militärbezirk Karosta leere, wilde Strände, an denen Hunde außerhalb von Juli bis August ohne andere Strandbesucher in Sichtweite laufen.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde im Sommer an Liepajas Hauptstrand?",
+          "a": "Ja, angeleint und außerhalb der markierten Badezone. Der beliebteste örtliche Abschnitt liegt nördlich des Fischerdenkmals am Ende des Kurmajas prospekts."
+        },
+        {
+          "q": "Gibt es einen Freilaufstrand in Liepaja?",
+          "a": "Es gibt keinen offiziellen Freilaufstrand, aber der wilde Karosta-Strand nördlich des Kanals ist leer genug, dass Freilauf in der Praxis geduldet wird."
+        }
       ]
     },
     "vets": {
@@ -489,7 +557,9 @@
           "tipEs": "Llama antes de llegar de noche, el veterinario de guardia puede tardar unos minutos en bajar del apartamento de guardia",
           "googleMapsUrl": "https://maps.google.com/?q=Davet+veterinara+klinika+Liepaja",
           "descriptionPt": "A única clínica veterinária de 24 horas de Liepaja, situada na Ventspils iela, no bairro setentrional de Tosmare. A clínica trata de animais de pequeno porte, exóticos, radiografia, ecografia, cirurgia, esterilização e vacinação. O pessoal fala letão e russo, com pelo menos um veterinário que fala inglês no turno do dia.",
-          "tipPt": "Ligue antes de chegar à noite, o veterinário de serviço noturno pode precisar de uns minutos para descer do apartamento de serviço no andar de cima"
+          "tipPt": "Ligue antes de chegar à noite, o veterinário de serviço noturno pode precisar de uns minutos para descer do apartamento de serviço no andar de cima",
+          "descriptionDe": "Liepajas einzige 24-Stunden-Tierklinik, gelegen an der Ventspils iela im nördlichen Bezirk Tosmare. Die Klinik behandelt Kleintiere, Exoten, Röntgen, Ultraschall, Chirurgie, Sterilisation und Impfungen. Das Personal spricht Lettisch und Russisch, mit mindestens einem englischsprachigen Tierarzt in der Tagschicht.",
+          "tipDe": "Vor dem nächtlichen Erscheinen anrufen, der Nachtdiensttierarzt braucht möglicherweise ein paar Minuten, um von der Bereitschaftswohnung oben zu kommen"
         },
         {
           "name": "Dzintara veterinara klinika",
@@ -513,7 +583,9 @@
           "tipEs": "Reserva el dia anterior para vacunaciones, la clinica esta casi llena por las mananas entre semana",
           "googleMapsUrl": "https://maps.google.com/?q=Dzintara+veterinara+klinika+Liepaja",
           "descriptionPt": "Uma pequena clínica diurna no centro da cidade, apenas com marcação, mas os casos urgentes são atendidos de imediato. Consultas de rotina, vacinação, desparasitação, colocação de microchip e atualizações do passaporte europeu do animal. Útil para turistas que precisem de um tratamento contra a ténia entre 24 e 120 horas antes de reentrar na Finlândia, Irlanda, Malta ou Reino Unido.",
-          "tipPt": "Marque na véspera para vacinações, a clínica funciona quase no limite da capacidade nas manhãs dos dias úteis"
+          "tipPt": "Marque na véspera para vacinações, a clínica funciona quase no limite da capacidade nas manhãs dos dias úteis",
+          "descriptionDe": "Eine kleine Tagesklinik im Stadtzentrum, nur nach Terminvereinbarung, aber Notfälle werden sofort behandelt. Routineberatungen, Impfungen, Entwurmung, Mikrochippen und Aktualisierung von EU-Heimtierausweisen. Nützlich für Touristen, die 24 bis 120 Stunden vor der Wiedereinreise nach Finnland, Irland, Malta oder Großbritannien eine Bandwurmbehandlung benötigen.",
+          "tipDe": "Für Impfungen einen Tag im Voraus buchen, die Klinik arbeitet an Wochentagvormittagen nahezu ausgelastet"
         }
       ],
       "tipsEn": [
@@ -576,6 +648,18 @@
         {
           "q": "Para onde vão os casos de especialidade?",
           "a": "A maioria dos veterinários de Liepaja encaminha para o hospital veterinário da Universidade Letã de Biociências, em Jelgava, 230 km a leste pela autoestrada A9."
+        }
+      ],
+      "titleDe": "Tierärzte und Notfalltierärzte in Liepaja",
+      "introDe": "Liepaja verfügt über ein kleines, aber funktionierendes tierärztliches Netzwerk mit einer 24-Stunden-Klinik, Davet an der Ventspils iela 54, die Notfälle einschließlich Röntgen, Ultraschall, Chirurgie und Exoten behandelt. Tagestermine sind in der Dzintara veterinara klinika im Stadtzentrum verfügbar. Für Facharztüberweisungen (orthopädische Chirurgie, erweiterte Bildgebung, Onkologie) überweisen die meisten örtlichen Tierärzte an das Tierklinikum der Lettischen Universität für Biowissenschaften und Technologien in Jelgava, 230 km östlich über die Autobahn A9. Den EU-Heimtierausweis stets mitführen, Tierärzte lehnen nicht-dringende Behandlungen ohne Nachweis der Tollwutimpfung ab.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt in Liepaja?",
+          "a": "Ja, Davet veterinara klinika an der Ventspils iela 54. Vor dem nächtlichen Erscheinen unter +371 63 489 489 anrufen."
+        },
+        {
+          "q": "Wohin gehen Facharztfälle?",
+          "a": "Die meisten Liepajaer Tierärzte überweisen an das Tierklinikum der Lettischen Universität für Biowissenschaften in Jelgava, 230 km östlich über die Autobahn A9."
         }
       ]
     },
@@ -656,6 +740,18 @@
           "q": "Liepaja é segura para passeios sem trela?",
           "a": "Apenas dentro do recinto vedado do canil. Em todo o resto, as regras municipais exigem trela, incluindo em todos os parques."
         }
+      ],
+      "titleDe": "Wichtige Tipps für den Besuch von Liepaja mit Hund",
+      "introDe": "Liepaja ist eine entspannte, dünn besiedelte Ostseestadt mit 67.000 Einwohnern, in der Hunde Teil des alltäglichen Straßenbilds sind. Die wichtigsten örtlichen Regeln sind einfach: überall Leinenpflicht außer im eingezäunten Grundstück des Tierheims, die Hinterlassenschaften des Hundes aufsammeln (es drohen Geldstrafen) und im Sommer die markierte Badezone des Stadtstrands meiden. Das baltische Klima ist der größere Planungsfaktor, ganzjährig sind kräftige Westwinde und von Dezember bis März Temperaturen unter null zu erwarten. Juni bis September ist mit Abstand die beste Reisezeit mit Hund.",
+      "faqsDe": [
+        {
+          "q": "Was ist die beste Reisezeit für einen Besuch in Liepaja mit Hund?",
+          "a": "Juni bis September. Der Strand ist geöffnet, Terrassen sind in Betrieb, und das Ostseewasser ist für Mutige schwimmbar."
+        },
+        {
+          "q": "Ist Liepaja sicher für Freilaufspaziergänge?",
+          "a": "Nur innerhalb des eingezäunten Tierheimgrundstücks. Überall sonst verlangen die städtischen Vorschriften eine Leine, auch in allen Parks."
+        }
       ]
     },
     "attractions": {
@@ -686,7 +782,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Holy+Trinity+Cathedral+Liepaja",
           "descriptionPt": "Construída entre 1742 e 1758 em estilo barroco-classicista, esta catedral luterana alberga o maior órgão mecânico não reconstruído do mundo, com 131 registos, quatro teclados e mais de 7000 tubos. O órgão é tocado nos serviços de domingo e no Festival Internacional de Música de Órgão de setembro; é possível marcar demonstrações. Os cães não são admitidos no interior, mas a praça da catedral e o exterior da torre de 55 m estão abertos todo o ano.",
           "petPolicyPt": "Sem cães no interior da catedral ou da torre. Praça da catedral e exterior totalmente acessíveis com trela",
-          "tipPt": "Assista a um serviço para a única oportunidade regular de ouvir o órgão de 7000 tubos, passeie o cão na vizinha Praça das Rosas enquanto escuta"
+          "tipPt": "Assista a um serviço para a única oportunidade regular de ouvir o órgão de 7000 tubos, passeie o cão na vizinha Praça das Rosas enquanto escuta",
+          "descriptionDe": "Von 1742 bis 1758 im barock-klassizistischen Stil erbaut, beherbergt diese lutherische Kathedrale die größte unrekonstruierte mechanische Orgel der Welt, 131 Register, vier Manuale, über 7000 Pfeifen. Die Orgel wird bei Sonntagsgottesdiensten und beim internationalen Orgelmusikfestival im September gespielt; Vorführungen können gebucht werden. Hunde sind im Inneren nicht zugelassen, aber der Kathedralplatz und das Äußere des 55 m hohen Turms sind ganzjährig geöffnet.",
+          "petPolicyDe": "Keine Hunde im Inneren von Kathedrale oder Turm. Kathedralplatz und Außenbereich an der Leine voll zugänglich",
+          "tipDe": "Einen Gottesdienst besuchen, die einzige regelmäßige Gelegenheit, die 7000-Pfeifen-Orgel zu hören, den Hund währenddessen im nahegelegenen Rosenplatz ausführen"
         },
         {
           "name": "Karosta Prison Museum (exterior)",
@@ -708,7 +807,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Karosta+Prison+Museum+Liepaja",
           "descriptionPt": "A única prisão militar da Europa aberta a turistas, originalmente construída no início do século XX e usada ao longo dos períodos czarista, soviético e letão como centro disciplinar. As visitas são exclusivamente guiadas, a cada hora certa, e os cães não são admitidos dentro dos blocos de celas. O complexo exterior de tijolo vermelho, as ruas envolventes do bairro de Karosta e o passeio costeiro dos Fortes do Norte são totalmente percorríveis com cão.",
           "petPolicyPt": "Sem cães nas visitas guiadas ou nos blocos de celas. Exterior, bairro de Karosta e passeio costeiro dos fortes totalmente abertos a cães com trela",
-          "tipPt": "Combine o circuito exterior de Karosta com o passeio costeiro dos Fortes do Norte para um percurso de 90 minutos com cão com trela"
+          "tipPt": "Combine o circuito exterior de Karosta com o passeio costeiro dos Fortes do Norte para um percurso de 90 minutos com cão com trela",
+          "descriptionDe": "Das einzige Militärgefängnis Europas, das für Touristen geöffnet ist, ursprünglich im frühen 20. Jahrhundert erbaut und in zaristischer, sowjetischer und lettischer Zeit als Disziplinareinrichtung genutzt. Besuche sind nur geführt, stündlich zur vollen Stunde, und Hunde sind in den Zellentrakten nicht zugelassen. Der rote Backsteinkomplex im Außenbereich, die umliegenden Straßen des Karosta-Bezirks und der Küstenweg der Nordforts sind vollständig für Hundespaziergänge geeignet.",
+          "petPolicyDe": "Keine Hunde bei geführten Touren oder in Zellentrakten. Außenbereich, Karosta-Bezirk und Küstenweg der Forts voll offen für angeleinte Hunde",
+          "tipDe": "Die Außenrunde von Karosta mit dem Küstenweg der Nordforts kombinieren, für einen 90-minütigen Rundgang mit angeleintem Hund"
         }
       ],
       "tipsEn": [
@@ -771,6 +873,18 @@
         {
           "q": "Os cães são permitidos no Museu da Prisão de Karosta?",
           "a": "Não, as visitas guiadas aos blocos de celas não admitem cães. O complexo exterior e as ruas do bairro de Karosta são totalmente dog-friendly."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Liepaja",
+      "introDe": "Liepajas Sehenswürdigkeiten teilen sich auf den Altstadt-Kulturkern (Dreifaltigkeitskathedrale, Rosenplatz, Handelskanal) und den ehemaligen sowjetischen Militärbezirk Karosta im Norden (Museum Karosta-Gefängnis, die Nordforts, die orthodoxe Marinekathedrale des Heiligen Nikolaus). Die meisten Außenbereiche sind mit einem angeleinten Hund vollständig begehbar. Die berühmteste einzelne Innenraum-Attraktion, die mechanische Orgel der Dreifaltigkeitskathedrale (die größte unrekonstruierte mechanische Orgel der Welt mit 131 Registern und über 7000 Pfeifen) lässt keine Hunde ins Innere, aber der Kathedralplatz und der Sockel des 55 m hohen Turms sind Freiluftbereiche. Das Museum Karosta-Gefängnis bietet nur geführte Touren an, und Hunde sind in den Zellentrakten nicht zugelassen.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund mit in die Dreifaltigkeitskathedrale nehmen, um die Orgel zu sehen?",
+          "a": "Nein. Hunde sind weder in der Kathedrale noch im Turm erlaubt. Gottesdienste können von außen über den offenen Platz mitverfolgt werden, oder die Orgel kann von der Kathedralvorhalle aus gehört werden."
+        },
+        {
+          "q": "Sind Hunde im Museum Karosta-Gefängnis erlaubt?",
+          "a": "Nein, geführte Touren durch die Zellentrakte lassen keine Hunde zu. Der Außenkomplex und die Straßen des Karosta-Bezirks sind voll hundefreundlich."
         }
       ]
     },
@@ -842,6 +956,18 @@
         {
           "q": "Posso deixar o meu cão num alojamento durante o dia?",
           "a": "O alojamento diurno é pouco comum. O canil Lauvas sirds aceita estadias curtas mediante donativo, mas ligue antes para o +371 63 489 489."
+        }
+      ],
+      "titleDe": "Haustierbetreuung und Gassi-Geher in Liepaja",
+      "introDe": "Inhalte folgen in Kürze.",
+      "faqsDe": [
+        {
+          "q": "Gibt es professionelle Gassi-Geher in Liepaja?",
+          "a": "Es gibt keinen etablierten kommerziellen Gassi-Service, das Hotel nach einem informellen lokalen Kontakt fragen."
+        },
+        {
+          "q": "Kann ich meinen Hund für den Tag in einer Betreuungseinrichtung lassen?",
+          "a": "Tagesbetreuung ist unüblich. Das Tierheim Lauvas sirds akzeptiert kurze Aufenthalte gegen Spende, aber vorher unter +371 63 489 489 anrufen."
         }
       ]
     }

@@ -37,7 +37,11 @@
           "descriptionPt": "O restaurante de Bratwurst mais famoso de Nuremberga, a grelhar sobre brasas de faia desde 1419. Autênticas Nürnberger Rostbratwurst em pratos de estanho com chucrute e salada de batata.",
           "petPolicyPt": "Cães bem-vindos na esplanada, com taça de água disponível",
           "mustTryPt": "Prato de 6 ou 12 Bratwurst, chucrute, Schäufele",
-          "tipPt": "Pede em múltiplos de 6, à maneira tradicional. A esplanada exterior sob os castanheiros é o melhor lugar para o cão."
+          "tipPt": "Pede em múltiplos de 6, à maneira tradicional. A esplanada exterior sob os castanheiros é o melhor lugar para o cão.",
+          "descriptionDe": "Das berühmteste Bratwurstlokal Nürnbergs, das seit 1419 über Buchenholzglut grillt. Original Nürnberger Rostbratwürste auf Zinntellern mit Sauerkraut und Kartoffelsalat.",
+          "petPolicyDe": "Hunde auf der Außenterrasse willkommen, Wassernapf wird gestellt",
+          "mustTryDe": "6er oder 12er Bratwurst, Sauerkraut, Schäufele",
+          "tipDe": "Bestellen Sie im Sechserpack, wie es Tradition ist. Die Außenterrasse unter Kastanienbäumen ist der beste Platz für Hunde."
         },
         {
           "name": "Gasthaus Behringer",
@@ -63,7 +67,11 @@
           "descriptionPt": "Acolhedora Wirtshaus tradicional a 5 min do Hauptmarkt. Cozinha da Francónia, Schäufele, Sauerbraten, carpa, num interior revestido a madeira. Clientela local, serviço tranquilo, preços justos.",
           "petPolicyPt": "Cães calmos com trela bem-vindos dentro e fora",
           "mustTryPt": "Schäufele com Klöße, cerveja da Francónia",
-          "tipPt": "Encerra ao domingo. Reserva recomendada para o jantar, apenas 40 lugares no interior."
+          "tipPt": "Encerra ao domingo. Reserva recomendada para o jantar, apenas 40 lugares no interior.",
+          "descriptionDe": "Gemütliches traditionelles Wirtshaus 5 Minuten vom Hauptmarkt entfernt. Fränkische Küche, Schäufele, Sauerbraten, Karpfen blau, in holzvertäfeltem Innenraum. Lokales Publikum, gemächlicher Service, faire Preise.",
+          "petPolicyDe": "Ruhige angeleinte Hunde drinnen und draußen willkommen",
+          "mustTryDe": "Schäufele mit Klößen, fränkisches Bier",
+          "tipDe": "Sonntags geschlossen. Für das Abendessen wird eine Reservierung empfohlen, nur 40 Plätze im Innenraum."
         },
         {
           "name": "Wanderer Café & Restaurant",
@@ -89,7 +97,11 @@
           "descriptionPt": "Café-restaurante na praça calcetada de Tiergärtnertor, ao pé do Kaiserburg, com uma das esplanadas mais bonitas da cidade. Ementa internacional, brunch, bom café.",
           "petPolicyPt": "Cães bem-vindos na praça calcetada exterior",
           "mustTryPt": "Brunch de fim de semana, prato de pequeno-almoço bávaro",
-          "tipPt": "A luz do entardecer sobre a fachada do Kaiserburg, vista desta esplanada, é a melhor de Nuremberga; reserva uma mesa lá fora entre as 19h30 e as 20h30 no verão."
+          "tipPt": "A luz do entardecer sobre a fachada do Kaiserburg, vista desta esplanada, é a melhor de Nuremberga; reserva uma mesa lá fora entre as 19h30 e as 20h30 no verão.",
+          "descriptionDe": "Café-Restaurant auf dem gepflasterten Tiergärtnertorplatz am Fuß der Kaiserburg, mit einer der schönsten Terrassen der Stadt. Internationale Karte, Brunch, guter Kaffee.",
+          "petPolicyDe": "Hunde auf dem gepflasterten Außenplatz willkommen",
+          "mustTryDe": "Wochenendbrunch, bayerische Frühstücksplatte",
+          "tipDe": "Das Sonnenuntergangslicht auf der Kaiserburgfassade ist von dieser Terrasse aus das schönste in Nürnberg; reservieren Sie im Sommer zwischen 19:30 und 20:30 Uhr einen Tisch draußen."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Cobran extra os restaurantes de Núremberg por levar cão?",
           "a": "Não. Não há sobretaxa por levar o cão. As taças de água são quase sempre oferecidas a pedido, gratuitamente."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Nürnberg, Bratwurst und Biergärten",
+      "introDe": "Die Nürnberger Wirtshaus- und Biergartenkultur ist überwiegend hundetolerant. Der Hauptmarkt, die Straßen rund um die Kaiserburg und die Pegnitz-Uferpromenade konzentrieren das ganze Jahr über Dutzende haustierfreundlicher Terrassen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Nürnberger Restaurants drinnen erlaubt?",
+          "a": "Ja, im Allgemeinen. Die deutsche Wirtshauskultur heißt ruhige angeleinte Hunde drinnen willkommen, weit offener als in südeuropäischen Ländern. Rund 80-90 % der Nürnberger Restaurants akzeptieren Hunde sowohl drinnen als auch auf der Terrasse."
+        },
+        {
+          "q": "Berechnen Nürnberger Restaurants einen Aufpreis für Hunde?",
+          "a": "Nein. Es gibt keinen Aufpreis für die Mitnahme eines Hundes. Wassernäpfe werden auf Nachfrage fast immer kostenlos angeboten."
+        }
       ]
     },
     "parks": {
@@ -205,7 +229,10 @@
             "Bebedouros",
             "Caixotes do lixo"
           ],
-          "tipPt": "O roseiral atinge o seu auge em junho; a Hundewiese vedada enche-se de habitantes locais entre as 18h00 e as 20h00 todas as noites."
+          "tipPt": "O roseiral atinge o seu auge em junho; a Hundewiese vedada enche-se de habitantes locais entre as 18h00 e as 20h00 todas as noites.",
+          "leashRuleDe": "Leinenpflicht; kleiner ausgewiesener Freilaufbereich",
+          "descriptionDe": "Nürnbergs zentraler Hauptpark, 1903-1905 auf dem Gelände alter Verteidigungsgräben angelegt. Platanen, Rosengarten, Teiche und eine kleine eingezäunte Hundewiese in der westlichen Ecke. 10 Gehminuten nördlich der Altstadt.",
+          "tipDe": "Der Rosengarten blüht im Juni am schönsten; die eingezäunte Hundewiese füllt sich jeden Abend zwischen 18:00 und 20:00 Uhr mit Einheimischen."
         },
         {
           "name": "Wöhrder See",
@@ -249,7 +276,10 @@
             "Cafés",
             "Parque infantil"
           ],
-          "tipPt": "A Hundebadestelle encontra-se sinalizada na margem norte, com água limpa e pouco profunda, perfeita para nadadores nervosos."
+          "tipPt": "A Hundebadestelle encontra-se sinalizada na margem norte, com água limpa e pouco profunda, perfeita para nadadores nervosos.",
+          "leashRuleDe": "Leinenpflicht auf den Wegen; Freilauf-Hundestrand am Nordufer",
+          "descriptionDe": "Künstlicher See an der Pegnitz, 10 Gehminuten östlich der Altstadt. 4 km langer Rundweg, Sandstrände und ein ausgewiesener Hundebadeplatz am Nordufer. Der beliebteste Sommer-Wasserort der Stadt für Hunde.",
+          "tipDe": "Die Hundebadestelle ist am Nordufer ausgeschildert, das Wasser ist sauber und flach, ideal für ängstliche Schwimmer."
         },
         {
           "name": "Reichswald (Sebalder Reichswald)",
@@ -293,7 +323,10 @@
             "Sombra",
             "Fauna selvagem"
           ],
-          "tipPt": "Apanha o elétrico 4 até ao terminal (Thon), 5 min a pé e ficas dentro da floresta. Leva água no verão; o solo arenoso aquece em agosto."
+          "tipPt": "Apanha o elétrico 4 até ao terminal (Thon), 5 min a pé e ficas dentro da floresta. Leva água no verão; o solo arenoso aquece em agosto.",
+          "leashRuleDe": "Freilauf auf Waldwegen ganzjährig erlaubt",
+          "descriptionDe": "Der weite Reichsforst rund um Nürnberg, Kiefern und Buchen, sandige Wege, Teiche. Das bayerische Waldrecht erlaubt Hunde auf markierten Wegen ganzjährig ohne Leine, außerhalb der Jagdzeiten (Dämmerung, April-Juli).",
+          "tipDe": "Nehmen Sie die Straßenbahn 4 bis zur Endstation (Thon), 5 Gehminuten und Sie sind im Wald. Nehmen Sie im Sommer Wasser mit; der sandige Boden wird im August sehr heiß."
         }
       ],
       "tipsEn": [
@@ -357,6 +390,18 @@
           "q": "Pode mi cão nadar en Núremberg?",
           "a": "Sí, a Hundebadestelle do Wöhrder See é a praia canina designada da cidade, águas pouco profundas e acesso fácil. Os locales também dejan aos cães banhar-se en secciones marcadas do Pegnitz fora do casco histórico."
         }
+      ],
+      "titleDe": "Beste Hundeparks und Spazierwege in Nürnberg, Stadtpark und Reichswald",
+      "introDe": "Nürnberg wird vom Reichswald umgeben, einem 25.000 Hektar großen Reichsforst mit Freilauf-Wanderwegen direkt am Stadtrand. Innerhalb der Stadt bieten der Stadtpark und das Ufer des Wöhrder Sees flache, schattige Spaziergänge für Hunde.",
+      "faqsDe": [
+        {
+          "q": "Wo kann mein Hund in Nürnberg ohne Leine laufen?",
+          "a": "Drei Möglichkeiten: die eingezäunte Hundewiese im Stadtpark, die Hundebadestelle am Nordufer des Wöhrder Sees und die markierten Wege im Sebalder Reichswald nördlich der Stadt, Letzterer bietet den großzügigsten Raum."
+        },
+        {
+          "q": "Kann mein Hund in Nürnberg schwimmen?",
+          "a": "Ja, die Hundebadestelle am Wöhrder See ist der offizielle Hundebadeplatz der Stadt, mit flachem Wasser und leichtem Zugang. Einheimische lassen ihre Hunde auch in markierten Abschnitten der Pegnitz außerhalb des historischen Zentrums schwimmen."
+        }
       ]
     },
     "transport": {
@@ -384,7 +429,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Nuernberg+Hauptbahnhof",
           "descriptionPt": "A Nuremberga Hbf é um grande nó ICE. Comboios ICE diretos para Munique (1h05), Frankfurt (2h15), Berlim (4h), Hamburgo (5h). O Bayern-Ticket regional cobre toda a Baviera para grupos.",
           "petPolicyPt": "Cães pequenos (até ~25 cm de altura ao cernelha) numa transportadora viajam grátis. Cães maiores precisam de um bilhete de criança (50%) e têm de ir com trela e açaime.",
-          "tipPt": "Reserva os bilhetes ICE através da aplicação DB Navigator e acrescenta o cão como Reisende (passageiro) ao reservar para obteres o bilhete de animal a 50%."
+          "tipPt": "Reserva os bilhetes ICE através da aplicação DB Navigator e acrescenta o cão como Reisende (passageiro) ao reservar para obteres o bilhete de animal a 50%.",
+          "descriptionDe": "Der Nürnberger Hauptbahnhof ist ein wichtiger ICE-Knotenpunkt. Direkter ICE nach München (1 Std. 05), Frankfurt (2 Std. 15), Berlin (4 Std.), Hamburg (5 Std.). Das regionale Bayern-Ticket deckt für Gruppen ganz Bayern ab.",
+          "petPolicyDe": "Kleine Hunde (bis ca. 25 cm Schulterhöhe) in Transportbox reisen kostenlos. Größere Hunde benötigen ein Kinderticket (50 %) und müssen angeleint und mit Maulkorb reisen.",
+          "tipDe": "Buchen Sie ICE-Tickets über die DB-Navigator-App und fügen Sie den Hund bei der Buchung als Reisenden hinzu, um das 50-Prozent-Tierticket zu erhalten."
         },
         {
           "name": "VGN U-Bahn, Tram & Bus",
@@ -403,7 +451,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=VGN+Nuremberg",
           "descriptionPt": "Verkehrsverbund Großraum Nürnberg: 3 linhas de U-Bahn, 5 de elétrico e mais de 60 de autocarro que cobrem a área metropolitana. A U2 liga a Hbf ao aeroporto em 12 min.",
           "petPolicyPt": "Cães pequenos em transportadora e cães de assistência viajam grátis. Cães maiores precisam de um bilhete de criança e têm de ir com trela.",
-          "tipPt": "O TagesTicket Solo (1 dia, todas as zonas, 1 adulto + 1 cão) cobre um dia completo de exploração por cerca de 9 €. Compra-o em qualquer máquina das estações."
+          "tipPt": "O TagesTicket Solo (1 dia, todas as zonas, 1 adulto + 1 cão) cobre um dia completo de exploração por cerca de 9 €. Compra-o em qualquer máquina das estações.",
+          "descriptionDe": "Verkehrsverbund Großraum Nürnberg, 3 U-Bahn-Linien, 5 Straßenbahnlinien, über 60 Buslinien im gesamten Ballungsraum. Die U2 verbindet den Hauptbahnhof in 12 Minuten mit dem Flughafen.",
+          "petPolicyDe": "Kleine Hunde in Transportboxen und Assistenzhunde kostenlos. Größere Hunde benötigen ein Kinderticket und müssen angeleint sein.",
+          "tipDe": "Das TagesTicket Solo (1 Tag, alle Zonen, 1 Erwachsener + 1 Hund) deckt einen ganzen Erkundungstag für ca. 9 EUR ab. Erhältlich an jedem Fahrkartenautomaten."
         },
         {
           "name": "Taxi Nürnberg",
@@ -422,7 +473,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Taxi+Nuernberg",
           "descriptionPt": "Cooperativa local de táxis que serve a cidade e o aeroporto de Nuremberga (NUE, 7 km a norte). Motoristas pet-friendly identificáveis a pedido ao reservar por telefone ou aplicação.",
           "petPolicyPt": "Cães pequenos em transportadora são quase sempre aceites; cães maiores requerem pedido com antecedência.",
-          "tipPt": "Liga para o +49 911 19 410 para reservar. A FreeNow opera em Nuremberga e a maioria dos motoristas aceita cães pequenos em transportadora."
+          "tipPt": "Liga para o +49 911 19 410 para reservar. A FreeNow opera em Nuremberga e a maioria dos motoristas aceita cães pequenos em transportadora.",
+          "descriptionDe": "Lokale Taxi-Genossenschaft, die die Stadt und den Nürnberger Flughafen (NUE, 7 km nördlich) bedient. Haustierfreundliche Fahrer sind bei der Buchung per Telefon oder App auf Anfrage erkennbar.",
+          "petPolicyDe": "Kleine Hunde in Transportboxen werden fast immer akzeptiert; größere Hunde erfordern eine vorherige Anfrage.",
+          "tipDe": "Rufen Sie +49 911 19 410 für eine Buchung an. FreeNow ist in Nürnberg aktiv, die meisten Fahrer akzeptieren kleine Hunde in Transportboxen."
         }
       ],
       "tipsEn": [
@@ -486,6 +540,18 @@
           "q": "Como voy de Munique a Núremberg com cão?",
           "a": "ICE directo en 1h05 a partir de Munique Hbf a Núremberg Hbf. Cães pequenhos en transportadora grátis; cães mais grandes necesitan bilhete animal infantil (~50% tarifa adulta) e bozal. Reserva en DB Navigator."
         }
+      ],
+      "titleDe": "Haustierfreundliche Verkehrsmittel in Nürnberg, U-Bahn, Straßenbahn und ICE",
+      "introDe": "Die kompakte Nürnberger Altstadt lässt sich in 25 Minuten von einem Ende zum anderen durchqueren. Das VGN-Netz (U-Bahn, Straßenbahn, Bus) ist mit einfachen Regeln haustierfreundlich. Der ICE der Deutschen Bahn verbindet München (1 Std. 05), Frankfurt (2 Std. 15) und Berlin (4 Std.).",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in der U-Bahn in Nürnberg mitnehmen?",
+          "a": "Ja. Kleine Hunde in einer Transportbox reisen kostenlos; größere Hunde brauchen ein Kinderticket (~1,80 EUR) und müssen an der Leine geführt werden. Maulkörbe sind im VGN nicht erforderlich, außer der Hund steht auf der Liste der Listenhunde."
+        },
+        {
+          "q": "Wie komme ich mit Hund von München nach Nürnberg?",
+          "a": "Direkter ICE in 1 Std. 05 vom Münchner Hauptbahnhof zum Nürnberger Hauptbahnhof. Kleine Hunde in einer Transportbox reisen kostenlos; größere Hunde brauchen ein Kinder-Tierticket (~50 % des Erwachsenenpreises) und einen Maulkorb. Buchung über DB Navigator."
+        }
       ]
     },
     "beaches": {
@@ -536,7 +602,10 @@
             "Caixotes do lixo",
             "Entrada com relva"
           ],
-          "tipPt": "Melhor a meio da manhã, quando os habitantes locais já estão a trabalhar. Leva toalhas, o caminho de regresso à cidade suja o cão."
+          "tipPt": "Melhor a meio da manhã, quando os habitantes locais já estão a trabalhar. Leva toalhas, o caminho de regresso à cidade suja o cão.",
+          "leashRuleDe": "Freilauf innerhalb der ausgewiesenen Hundebadezone",
+          "descriptionDe": "Der offizielle Hundestrand der Stadt am Nordufer des künstlichen Sees. Sandig-grasiger Einstieg, flaches Wasser, ausgeschilderter Bereich. Ganzjährig geöffnet; von Juni bis August am belebtesten.",
+          "tipDe": "Am besten am späten Vormittag, wenn der Berufsverkehr der Einheimischen vorbei ist. Bringen Sie Handtücher mit, der Rückweg in die Stadt macht Ihren Hund schmutzig."
         },
         {
           "name": "Großer Brombachsee",
@@ -578,7 +647,10 @@
             "Estacionamento",
             "Café"
           ],
-          "tipPt": "Apanha o comboio até Pleinfeld e depois um táxi de 10 min (cerca de 15 €) até à Hundestrand sul, em Allmannsdorf."
+          "tipPt": "Apanha o comboio até Pleinfeld e depois um táxi de 10 min (cerca de 15 €) até à Hundestrand sul, em Allmannsdorf.",
+          "leashRuleDe": "Eigene Hundestrand-Zonen; sonst Leinenpflicht",
+          "descriptionDe": "Der größte See im Fränkischen Seenland, 40 km südlich von Nürnberg. Drei ausgeschilderte Hundestrände am Südufer bieten 200-400 m Sandstrand zum Schwimmen und Toben.",
+          "tipDe": "Fahren Sie mit dem Zug nach Pleinfeld, dann 10 Minuten mit dem Taxi (~15 EUR) zum südlichen Hundestrand in Allmannsdorf."
         },
         {
           "name": "Rothsee",
@@ -620,7 +692,10 @@
             "Estacionamento",
             "Piquenique"
           ],
-          "tipPt": "Apanha a S-Bahn S2 até Allersberg mais 30 min a pé, ou 25 min de carro. Evita as tardes quentes de julho; o lago aquece depressa."
+          "tipPt": "Apanha a S-Bahn S2 até Allersberg mais 30 min a pé, ou 25 min de carro. Evita as tardes quentes de julho; o lago aquece depressa.",
+          "leashRuleDe": "Hundestrand am Westufer; sonst Leinenpflicht",
+          "descriptionDe": "Kleiner und ruhiger als der Brombachsee, 30 km südlich von Nürnberg. Der Hundestrand am Westufer bei Birkach bietet Graswiesen und flaches Wasser und wird von Einheimischen bevorzugt, die dem Trubel entgehen wollen.",
+          "tipDe": "S-Bahn S2 bis Allersberg plus 30 Minuten zu Fuß, oder 25 Minuten mit dem Auto. Meiden Sie heiße Julinachmittage; der See erwärmt sich schnell."
         }
       ],
       "tipsEn": [
@@ -684,6 +759,18 @@
           "q": "É o Wöhrder See suficientemente limpio para cães?",
           "a": "Sim. A cidade analisa a qualidade da água com regularidade e a Hundebadestelle cumpre sistematicamente as normas das águas balneares. Evite o banho se houver avisos de algas azuis-esverdeadas (raro, sobretudo em agosto)."
         }
+      ],
+      "titleDe": "Haustierfreundliche Wasserplätze bei Nürnberg, Seen und Flüsse",
+      "introDe": "Nürnberg liegt vollständig im Landesinneren (~500 km von der nächsten Küste entfernt), doch das Fränkische Seenland südwestlich der Stadt bietet hervorragende Sommer-Schwimmmöglichkeiten für Hunde. Der Wöhrder See in der Stadt hat einen ausgewiesenen Hundestrand, und der Brombachsee 40 km südlich verfügt über eigene Hundezonen.",
+      "faqsDe": [
+        {
+          "q": "Wo können Hunde in oder bei Nürnberg schwimmen?",
+          "a": "Die Hundebadestelle am Wöhrder See innerhalb der Stadt ist die einfachste Option (10 Gehminuten von der Altstadt). Für einen Tagesausflug bieten der Brombachsee (40 km südlich) und der Rothsee (30 km südlich) beide ausgewiesene Hundestrand-Zonen mit Sandstrand und flachem Wasser."
+        },
+        {
+          "q": "Ist der Wöhrder See sauber genug für Hunde?",
+          "a": "Ja. Die Stadt prüft die Wasserqualität regelmäßig, und die Hundebadestelle hat die Badewasserstandards durchgehend erfüllt. Verzichten Sie bei Blaualgen-Warnungen auf das Schwimmen (selten, hauptsächlich im August)."
+        }
       ]
     },
     "vets": {
@@ -714,7 +801,9 @@
           "tipEs": "Llama antes, la recepcionista habla inglés. Prepararán el equipo adecuado antes de tu llegada.",
           "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Nuernberg+Hafen",
           "descriptionPt": "Hospital de urgência 24h de serviço completo no bairro portuário a sudoeste. Cirurgia, UCI, TAC, RMN, ecografia, endoscopia. A clínica de referência para emergências graves na Francónia Central.",
-          "tipPt": "Liga antes; a rececionista fala inglês. Vão preparar a equipa certa para o teu caso antes de chegares."
+          "tipPt": "Liga antes; a rececionista fala inglês. Vão preparar a equipa certa para o teu caso antes de chegares.",
+          "descriptionDe": "Rund um die Uhr geöffnete Vollservice-Notfallklinik im südwestlichen Hafenviertel. Chirurgie, Intensivstation, CT, MRT, Ultraschall, Endoskopie. Die Referenzklinik für schwere Notfälle in Mittelfranken.",
+          "tipDe": "Rufen Sie vorher an, die Rezeption spricht Englisch. Das Team bereitet das passende Behandlungsteam für Ihren Fall vor, bevor Sie eintreffen."
         },
         {
           "name": "Anicura Tierklinik Nürnberg",
@@ -736,7 +825,9 @@
           "tipEs": "Más accesible desde la Altstadt que la clínica del Hafen. Particularmente útil para emergencias cardiológicas.",
           "googleMapsUrl": "https://maps.google.com/?q=Anicura+Tierklinik+Nuernberg",
           "descriptionPt": "Segundo hospital de urgência 24h, integrado na rede europeia Anicura. Especialistas em cardiologia, neurologia e oncologia. A 10 min a leste da Altstadt.",
-          "tipPt": "Mais acessível a partir da Altstadt do que a clínica do Hafen. Particularmente útil para emergências cardiológicas."
+          "tipPt": "Mais acessível a partir da Altstadt do que a clínica do Hafen. Particularmente útil para emergências cardiológicas.",
+          "descriptionDe": "Zweite rund um die Uhr geöffnete Notfallklinik, Teil des europäischen Anicura-Netzwerks. Spezialisten für Kardiologie, Neurologie, Onkologie. 10 Minuten östlich der Altstadt.",
+          "tipDe": "Von der Altstadt aus besser erreichbar als die Hafenklinik. Besonders nützlich bei kardiologischen Notfällen."
         },
         {
           "name": "Tierarztpraxis Altstadt",
@@ -758,7 +849,9 @@
           "tipEs": "Aceptan sin cita para vacunaciones y atenciones rutinarias; con cita para revisión completa.",
           "googleMapsUrl": "https://maps.google.com/?q=Tierarztpraxis+Altstadt+Nuremberg",
           "descriptionPt": "Consulta diurna central, a 5 min a pé do Hauptmarkt. Vacinas, colocação de microchip, cuidados de rotina, exames antes de viajar. A opção cómoda para turistas.",
-          "tipPt": "Aceitam-se chegadas sem marcação para vacinas e assuntos de rotina; marca com antecedência para exames completos."
+          "tipPt": "Aceitam-se chegadas sem marcação para vacinas e assuntos de rotina; marca com antecedência para exames completos.",
+          "descriptionDe": "Zentral gelegene Tagespraxis, 5 Gehminuten vom Hauptmarkt entfernt. Impfungen, Mikrochipping, Routineversorgung, Reisechecks. Die praktische Option für Touristen.",
+          "tipDe": "Für Impfungen und Routineangelegenheiten werden Laufkunden angenommen; für vollständige Untersuchungen bitte vorab buchen."
         }
       ],
       "tipsEn": [
@@ -822,6 +915,18 @@
           "q": "Cuánto cuesta uma visita veterinária en Núremberg?",
           "a": "As tarifas siguen o GOT alemão (baremo veterinário): consulta rutinaria 30–60 €, urgência 80–150 € + diagnóstico. Cirugías mayores 600–2500 €. Os seguros de animais da UE costumam reembolsar."
         }
+      ],
+      "titleDe": "Tierärztliche Notdienste [24h] in Nürnberg, Tierkliniken und Haustierpflege",
+      "introDe": "Nürnberg verfügt über eine starke tierärztliche Versorgung mit zwei rund um die Uhr geöffneten Notfallkliniken sowie vielen Tagespraxen. Die Standards sind hoch, die deutsche Tiermedizin zählt zu den besten in Europa.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Nürnberg einen 24-Stunden-Tierarzt?",
+          "a": "Ja, zwei rund um die Uhr geöffnete Notfallkliniken: die Tierklinik Nürnberg-Hafen im Südwesten und die Anicura Tierklinik am Stresemannplatz östlich der Altstadt. Beide bieten vollständige Chirurgie und Intensivpflege. Rufen Sie vorher für eine Ersteinschätzung an."
+        },
+        {
+          "q": "Wie viel kostet ein Tierarztbesuch in Nürnberg?",
+          "a": "Die Standardgebühren richten sich nach der deutschen GOT (Gebührenordnung für Tierärzte): reguläre Sprechstunde 30-60 EUR, Notfallbesuch 80-150 EUR plus Diagnostik. Größere Operationen 600-2500 EUR. EU-Tierkrankenversicherungen erstatten häufig."
+        }
       ]
     },
     "tips": {
@@ -838,7 +943,8 @@
           "description": "May–June and September are ideal: 14–22°C, dry, terraces in full swing. Late November–December for the Christkindlesmarkt (busy but magical). Avoid January–February (cold, often snow) and July–August (warm, school holidays crowds).",
           "descriptionFr": "Mai–juin et septembre sont idéaux : 14–22°C, sec, terrasses à plein régime. Fin novembre–décembre pour le Christkindlesmarkt (bondé mais magique). Évitez janvier–février (froid, souvent neige) et juillet–août (chaud, foules de vacances scolaires).",
           "descriptionEs": "Mayo–junio y septiembre son ideales: 14–22°C, seco, terrazas a tope. Finales de noviembre–diciembre por el Christkindlesmarkt (lleno pero mágico). Evita enero–febrero (frío, a menudo nieve) y julio–agosto (cálido, masas de vacaciones escolares).",
-          "descriptionPt": "Maio-junho e setembro são ideais: 14 a 22°C, tempo seco, esplanadas a todo o gás. Fim de novembro e dezembro pelo Christkindlesmarkt (movimentado, mas mágico). Evita janeiro-fevereiro (frio, muitas vezes com neve) e julho-agosto (quente, multidões das férias escolares)."
+          "descriptionPt": "Maio-junho e setembro são ideais: 14 a 22°C, tempo seco, esplanadas a todo o gás. Fim de novembro e dezembro pelo Christkindlesmarkt (movimentado, mas mágico). Evita janeiro-fevereiro (frio, muitas vezes com neve) e julho-agosto (quente, multidões das férias escolares).",
+          "descriptionDe": "Mai-Juni und September sind ideal: 14-22 °C, trocken, Terrassen in vollem Betrieb. Ende November bis Dezember für den Christkindlesmarkt (belebt, aber zauberhaft). Meiden Sie Januar-Februar (kalt, oft Schnee) und Juli-August (warm, Menschenmassen durch Schulferien)."
         },
         {
           "name": "Christkindlesmarkt with a dog",
@@ -846,7 +952,8 @@
           "description": "The 4-week Christmas market (28 Nov–24 Dec) draws 2 million visitors. Dogs are allowed but the Hauptmarkt is crushingly busy, visit weekday afternoons (14:00–16:00) or after 21:00. Cobblestones stay cold; protect paws from anti-icing salt.",
           "descriptionFr": "Le marché de Noël de 4 semaines (28 nov–24 déc) attire 2 millions de visiteurs. Les chiens sont admis mais le Hauptmarkt est noir de monde, visitez en semaine l'après-midi (14h–16h) ou après 21h. Les pavés restent froids ; protégez les pattes du sel antigel.",
           "descriptionEs": "El mercado navideño de 4 semanas (28 nov–24 dic) atrae a 2 millones de visitantes. Los perros son admitidos pero el Hauptmarkt está abarrotado, visita entre semana por la tarde (14:00–16:00) o después de las 21:00. Los adoquines siguen fríos; protege las patas de la sal anticongelante.",
-          "descriptionPt": "O mercado de Natal de 4 semanas (28 nov a 24 dez) atrai 2 milhões de visitantes. Os cães são aceites, mas o Hauptmarkt fica apinhado; visita às tardes dos dias úteis (14h00 a 16h00) ou depois das 21h00. As pedras da calçada mantêm-se frias; protege as patas do sal antigelo."
+          "descriptionPt": "O mercado de Natal de 4 semanas (28 nov a 24 dez) atrai 2 milhões de visitantes. Os cães são aceites, mas o Hauptmarkt fica apinhado; visita às tardes dos dias úteis (14h00 a 16h00) ou depois das 21h00. As pedras da calçada mantêm-se frias; protege as patas do sal antigelo.",
+          "descriptionDe": "Der vierwöchige Weihnachtsmarkt (28. Nov. bis 24. Dez.) zieht 2 Millionen Besucher an. Hunde sind erlaubt, aber der Hauptmarkt ist extrem voll; besuchen Sie werktags nachmittags (14:00-16:00 Uhr) oder nach 21:00 Uhr. Das Kopfsteinpflaster bleibt kalt; schützen Sie die Pfoten vor Streusalz."
         },
         {
           "name": "Currency & cost",
@@ -854,7 +961,8 @@
           "description": "Germany uses the euro. Nuremberg is cheaper than Munich: meal 14–24 EUR, Bratwurst plate 9–12 EUR, mid-range pet-friendly hotel 95–160 EUR/night, taxi Hbf-to-Altstadt 8–10 EUR.",
           "descriptionFr": "L'Allemagne utilise l'euro. Nuremberg est moins chère que Munich : repas 14–24 €, assiette de Bratwurst 9–12 €, hôtel pet-friendly milieu de gamme 95–160 €/nuit, taxi Hbf–Altstadt 8–10 €.",
           "descriptionEs": "Alemania usa el euro. Núremberg es más barata que Múnich: comida 14–24 €, plato de Bratwurst 9–12 €, hotel pet-friendly de gama media 95–160 €/noche, taxi Hbf–Altstadt 8–10 €.",
-          "descriptionPt": "A Alemanha usa o euro. Nuremberga é mais barata do que Munique: refeição 14 a 24 €, prato de Bratwurst 9 a 12 €, hotel pet-friendly de gama média 95 a 160 €/noite, táxi Hbf-Altstadt 8 a 10 €."
+          "descriptionPt": "A Alemanha usa o euro. Nuremberga é mais barata do que Munique: refeição 14 a 24 €, prato de Bratwurst 9 a 12 €, hotel pet-friendly de gama média 95 a 160 €/noite, táxi Hbf-Altstadt 8 a 10 €.",
+          "descriptionDe": "Deutschland nutzt den Euro. Nürnberg ist günstiger als München: Essen 14-24 EUR, Bratwurstteller 9-12 EUR, haustierfreundliches Hotel im mittleren Preissegment 95-160 EUR/Nacht, Taxi Hauptbahnhof-Altstadt 8-10 EUR."
         }
       ],
       "tipsEn": [
@@ -918,6 +1026,18 @@
           "q": "Puedo visitar o Christkindlesmarkt com mi cão?",
           "a": "Sim, os cães são admitidos em todo o mercado. Mas o Hauptmarkt fica extremamente cheio (2 milhões de visitantes ao longo de 4 semanas); cães reativos ou ansiosos podem ter dificuldades. Opte por tardes durante a semana ou noites depois das 21:00."
         }
+      ],
+      "titleDe": "Reisetipps für Nürnberg mit Hund",
+      "introDe": "Nürnberg ist eine der einfachsten bayerischen Städte für Reisen mit Hund: kompakte Altstadt, starke Wirtshauskultur, die Hunde drinnen willkommen heißt, zwei rund um die Uhr geöffnete Notfall-Tierärzte und der weite Reichswald am Stadtrand.",
+      "faqsDe": [
+        {
+          "q": "Ist Nürnberg insgesamt haustierfreundlich?",
+          "a": "Ja, sehr. Die bayerische Wirtshauskultur heißt Hunde drinnen willkommen, U-Bahn und Straßenbahn sind haustierfreundlich, zwei rund um die Uhr geöffnete Notfall-Tierärzte stehen bereit, und der Reichswald bietet 15 Minuten von der Altstadt entfernt Freilaufraum."
+        },
+        {
+          "q": "Darf ich den Christkindlesmarkt mit Hund besuchen?",
+          "a": "Ja, Hunde sind überall auf dem Markt erlaubt. Der Hauptmarkt wird jedoch extrem voll (2 Millionen Besucher über 4 Wochen); reaktive oder ängstliche Hunde können damit überfordert sein. Peilen Sie werktägliche Nachmittage oder Abende nach 21:00 Uhr an."
+        }
       ]
     },
     "attractions": {
@@ -946,7 +1066,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Kaiserburg+Nuremberg",
           "descriptionPt": "Castelo imperial medieval empoleirado na crista de arenito sobre a Altstadt, residência dos imperadores do Sacro Império Romano. Os pátios exteriores do castelo e os jardins (Burggarten) estão abertos a cães com trela; os interiores do museu não.",
           "petPolicyPt": "Pátios e jardins exteriores abertos a cães com trela; os interiores dos museus proíbem animais",
-          "tipPt": "A plataforma panorâmica do Sinwellturm não é acessível a cães, mas as vistas do pátio da Freiung sobre os telhados da Altstadt são imbatíveis."
+          "tipPt": "A plataforma panorâmica do Sinwellturm não é acessível a cães, mas as vistas do pátio da Freiung sobre os telhados da Altstadt são imbatíveis.",
+          "descriptionDe": "Mittelalterliche Kaiserburg auf dem Sandsteinfelsen über der Altstadt, Residenz der Heiligen Römischen Kaiser. Die Außenhöfe der Burg und der Garten (Burggarten) sind für angeleinte Hunde geöffnet; die Museumsinnenräume nicht.",
+          "petPolicyDe": "Außenhöfe und Gärten für angeleinte Hunde geöffnet; Museumsinnenräume verbieten Haustiere",
+          "tipDe": "Die Aussichtsplattform des Sinwellturms ist nicht mit Hund zugänglich, doch die Ausblicke vom Freiungshof über die Dächer der Altstadt sind unschlagbar."
         },
         {
           "name": "Hauptmarkt & Schöner Brunnen",
@@ -966,7 +1089,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Hauptmarkt+Nuremberg",
           "descriptionPt": "A praça central do mercado, ancorada pelo gótico Schöner Brunnen (Bela Fonte, 1385-96) e pela igreja da Frauenkirche. Mercado diário das 09h00 às 18h00; palco do Christkindlesmarkt em dezembro.",
           "petPolicyPt": "Praça pública aberta; cães bem-vindos com trela",
-          "tipPt": "Procura o anel dourado no Schöner Brunnen; segundo a crença local, concede um desejo se o rodares três vezes."
+          "tipPt": "Procura o anel dourado no Schöner Brunnen; segundo a crença local, concede um desejo se o rodares três vezes.",
+          "descriptionDe": "Der zentrale Marktplatz, geprägt vom gotischen Schönen Brunnen (1385-96) und der Frauenkirche. Täglicher Markt 09:00-18:00 Uhr; Schauplatz des Christkindlesmarkts im Dezember.",
+          "petPolicyDe": "Öffentlicher Platz; Hunde an der Leine willkommen",
+          "tipDe": "Suchen Sie den goldenen Ring am Schönen Brunnen; der Volksglaube sagt, er erfüllt einen Wunsch, wenn man ihn dreimal dreht."
         },
         {
           "name": "Albrecht Dürer's House",
@@ -986,7 +1112,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Albrecht+Duerer+Haus+Nuremberg",
           "descriptionPt": "A casa gótica de tabique misto onde o mestre renascentista Albrecht Dürer viveu de 1509 a 1528. Não se admitem cães no interior do museu, mas a Tiergärtnertorplatz calcetada, lá fora, é uma das praças mais fotogénicas da cidade.",
           "petPolicyPt": "Sem cães no interior; praça exterior totalmente acessível",
-          "tipPt": "Posiciona o teu cão na calçada em frente à estátua da Lebre de Dürer, o local de retrato canino mais fotografado de Nuremberga."
+          "tipPt": "Posiciona o teu cão na calçada em frente à estátua da Lebre de Dürer, o local de retrato canino mais fotografado de Nuremberga.",
+          "descriptionDe": "Das Fachwerkhaus im gotischen Stil, in dem der Renaissancemeister Albrecht Dürer von 1509 bis 1528 lebte. Hunde sind im Museum nicht erlaubt, doch der gepflasterte Tiergärtnertorplatz davor ist einer der fotogensten Plätze der Stadt.",
+          "petPolicyDe": "Keine Hunde im Innenbereich; Außenplatz vollständig zugänglich",
+          "tipDe": "Setzen Sie Ihren Hund für ein Foto vor die Dürerhasen-Statue, Nürnbergs meistfotografierten Hundeporträt-Ort."
         }
       ],
       "tipsEn": [
@@ -1050,6 +1179,18 @@
           "q": "Se admitem cães no Christkindlesmarkt?",
           "a": "Sí. O mercado se celebra no Hauptmarkt al aire libre e os cães com trela são bem-vindos. Cuidado com as multitudes, en horas punta a praça recibe mais de 50.000 visitantes e os cães reactivos podem sufrir."
         }
+      ],
+      "titleDe": "Top haustierfreundliche Sehenswürdigkeiten in Nürnberg, Kaiserburg und Altstadt",
+      "introDe": "Die mittelalterliche Nürnberger Altstadt lässt sich am besten als Freiluft-Architekturspaziergang erleben, perfekt mit angeleintem Hund. Die meisten großen Außensehenswürdigkeiten sind mit Hund zugänglich; nur Museen, das Innere der Kaiserburg und das Dokumentationszentrum verbieten Hunde.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund zur Kaiserburg mitnehmen?",
+          "a": "Ja, in die Außenhöfe und den Burggarten (April bis Oktober geöffnet). Das Museumsinnere, der Aufstieg zum Sinwellturm und die Tiefer-Brunnen-Führung lassen keine Hunde zu (außer Assistenzhunde)."
+        },
+        {
+          "q": "Sind Hunde auf dem Christkindlesmarkt erlaubt?",
+          "a": "Ja. Der Markt findet auf dem offenen Hauptmarkt statt, und angeleinte Hunde sind willkommen. Beachten Sie das Gedränge, zu Stoßzeiten fasst der Platz über 50.000 Besucher, und reaktive Hunde können damit überfordert sein."
+        }
       ]
     },
     "petsitting": {
@@ -1074,7 +1215,9 @@
           "tipFr": "La plupart des sitters parlent anglais ; beaucoup télétravaillent, idéal pour la crèche pendant les visites de musée.",
           "tipEs": "La mayoría de los cuidadores habla inglés; muchos teletrabajan, ideal para guardería durante visitas a museos.",
           "descriptionPt": "A maior plataforma de cuidado de animais da Alemanha (do grupo Rover). Cerca de 20 cuidadores verificados em Nuremberga. Visitas a domicílio, creche, alojamento nocturno. Seguro incluído, cuidadores avaliados.",
-          "tipPt": "A maioria dos cuidadores fala inglês; muitos trabalham a partir de casa, ideal para creche durante as visitas a museus."
+          "tipPt": "A maioria dos cuidadores fala inglês; muitos trabalham a partir de casa, ideal para creche durante as visitas a museus.",
+          "descriptionDe": "Deutschlands größte Plattform für Haustierbetreuung (im Besitz von Rover). ~20 verifizierte Sitter in Nürnberg. Kurzbesuche, Tagesbetreuung, Übernachtungsbetreuung. Versicherung inbegriffen, bewertete Sitter.",
+          "tipDe": "Die meisten Sitter sprechen Englisch; viele arbeiten von zu Hause aus, ideal für Tagesbetreuung während Museumsbesuchen."
         },
         {
           "name": "Pawshake Nürnberg",
@@ -1090,7 +1233,9 @@
           "tipFr": "Réservez 72h à l'avance pendant le Christkindlesmarkt (28 nov–24 déc) et les semaines de foires (mi-sept et mi-fév), disponibilités réduites.",
           "tipEs": "Reserva con 72h durante el Christkindlesmarkt (28 nov–24 dic) y semanas de ferias (mediados sept y feb), disponibilidad reducida.",
           "descriptionPt": "Plataforma internacional com cerca de 12 cuidadores verificados em Nuremberga. Útil para viajantes que preferem uma interface em inglês e portabilidade global da conta.",
-          "tipPt": "Reserva com 72h de antecedência durante o Christkindlesmarkt (28 nov a 24 dez) e as semanas de feiras (meados de setembro e meados de fevereiro), pois a disponibilidade reduz-se."
+          "tipPt": "Reserva com 72h de antecedência durante o Christkindlesmarkt (28 nov a 24 dez) e as semanas de feiras (meados de setembro e meados de fevereiro), pois a disponibilidade reduz-se.",
+          "descriptionDe": "Internationale Plattform mit ~12 verifizierten Sittern in Nürnberg. Nützlich für Reisende, die eine englischsprachige Oberfläche und globale Kontoportabilität bevorzugen.",
+          "tipDe": "Buchen Sie während des Christkindlesmarkts (28. Nov. bis 24. Dez.) und der Messewochen (Mitte September und Mitte Februar) 72 Stunden im Voraus, die Verfügbarkeit wird knapp."
         }
       ],
       "tipsEn": [
@@ -1153,6 +1298,18 @@
         {
           "q": "Puedo dejar a mi cão no hotel durante o dia en Núremberg?",
           "a": "A maioria dos hotéis de Nuremberga que aceitam cães (Drei Raben, Elch Boutique, Le Méridien Grand) deixa o cão ficar no quarto durante a sua ausência se for calmo e não ladrar. Confirme no check-in, alguns exigem o cartaz «não incomodar» na porta."
+        }
+      ],
+      "titleDe": "Hundebetreuung und Tagesbetreuung in Nürnberg, verifizierte Plattformen",
+      "introDe": "Museumsbesuche, lange Kaiserburg-Touren und das Dokumentationszentrum erfordern manchmal, den Hund zurückzulassen. Zwei internationale Plattformen (DogBuddy/Rover, Pawshake) sind in Nürnberg mit rund 30 verifizierten lokalen Sittern aktiv.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter für einen halben Tag in Nürnberg?",
+          "a": "Sowohl Rover (DogBuddy) als auch Pawshake ermöglichen die Buchung von Kurzbesuchen oder Tagesbetreuung bei verifizierten lokalen Sittern. Filtern Sie nach Sprache, akzeptierter Hundegröße und Gehdistanz zu Ihrem Hotel. Die meisten Nürnberger Sitter sind bei 24 Stunden Vorlauf flexibel."
+        },
+        {
+          "q": "Kann ich meinen Hund tagsüber im Nürnberger Hotel lassen?",
+          "a": "Die meisten haustierfreundlichen Nürnberger Hotels (Drei Raben, Elch Boutique, Le Méridien Grand) erlauben Hunde während Ihrer Abwesenheit im Zimmer, sofern sie ruhig sind und nicht bellen. Bestätigen Sie dies beim Check-in, manche verlangen ein „Bitte nicht stören“-Schild an der Tür."
         }
       ]
     }

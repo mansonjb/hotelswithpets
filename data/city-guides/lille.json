@@ -37,7 +37,11 @@
           "descriptionPt": "O primeiro café para cães da Europa, inaugurado em Lille em 2018. A taxa de entrada (cerca de 12 €) inclui 90 minutos com a matilha de cães residentes e café, chá, sumos e bolos ilimitados. Os visitantes trazem o próprio cão como convidado e brincam com os cães residentes numa sala de brincadeiras interior totalmente equipada. Uma atração singular no panorama pet-friendly europeu.",
           "petPolicyPt": "Traga o seu próprio cão (1 por visita) e brinque com a matilha residente",
           "mustTryPt": "Café de especialidade ilimitado, tabuleiro de bolos para brunch",
-          "tipPt": "As reservas são essenciais, marque online com uma semana de antecedência, sobretudo para os horários de sábado, que se esgotam poucas horas depois de abrir o período de reservas."
+          "tipPt": "As reservas são essenciais, marque online com uma semana de antecedência, sobretudo para os horários de sábado, que se esgotam poucas horas depois de abrir o período de reservas.",
+          "descriptionDe": "Europas erstes Hundecafé, 2018 in Lille eröffnet. Die Eintrittsgebühr (rund 12 €) deckt 90 Minuten mit der Haushunde-Gruppe sowie unbegrenzten Kaffee, Tee, Säfte und Gebäck ab. Besucher bringen ihren eigenen Hund als Gast mit und spielen mit den Haushunden in einem voll ausgestatteten Innenspielraum. Eine einzigartige Attraktion in der europäischen haustierfreundlichen Szene.",
+          "petPolicyDe": "Eigenen Hund mitbringen (1 pro Besuch) plus Spielen mit der Haushunde-Gruppe",
+          "mustTryDe": "Unbegrenzter Spezialitätenkaffee, Brunch-Gebäckplatte",
+          "tipDe": "Reservierungen sind unerlässlich, buchen Sie eine Woche im Voraus online, besonders für Samstagstermine, die innerhalb weniger Stunden nach Öffnung des Buchungsfensters ausgebucht sind."
         },
         {
           "name": "La Bellezza",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um restaurante de inspiração italiana no coração da Vieux Lille, instalado sob um teto de vidro de 7 metros e com paredes ao estilo de estantes de livros. Os cães são recebidos com um sorriso dentro e fora; o pessoal traz habitualmente taças de água sem ninguém pedir. A cozinha serve pizas, massas e antipasti a qualquer hora.",
           "petPolicyPt": "Cães bem-vindos no interior e na esplanada; taças de água disponibilizadas",
           "mustTryPt": "Entrada de burrata, massa com trufa, prova de vinhos italianos",
-          "tipPt": "Reserve a mesa junto à janela do lado das estantes, o teto de vidro mantém o espaço luminoso e os cães acomodam-se sossegados debaixo do banco."
+          "tipPt": "Reserve a mesa junto à janela do lado das estantes, o teto de vidro mantém o espaço luminoso e os cães acomodam-se sossegados debaixo do banco.",
+          "descriptionDe": "Ein italienisch inspiriertes Restaurant im Herzen von Vieux Lille, unter einem 7 Meter hohen Glasdach und mit Wänden im Bücherregal-Stil. Hunde werden drinnen und draußen mit einem Lächeln begrüßt, das Personal bringt routinemäßig Wassernäpfe, ohne dass man danach fragen muss. Die Küche serviert rund um die Uhr Pizza, Pasta und Antipasti.",
+          "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen; Wassernäpfe werden bereitgestellt",
+          "mustTryDe": "Burrata-Vorspeise, Trüffelpasta, italienische Weinbegleitung",
+          "tipDe": "Reservieren Sie den Fensterplatz an der Bücherregalseite, das Glasdach hält ihn hell, und Hunde legen sich ruhig unter die Bank."
         },
         {
           "name": "La Friche Gourmande",
@@ -89,7 +97,11 @@
           "descriptionPt": "Um espaço de street food ao ar livre no remodelado bairro de Saint-Sauveur, com um pátio espaçoso e ensolarado que recebe cães sem problemas. Várias bancas de comida cobrem a cozinha regional flamenga, falafel, piza e cerveja artesanal; o formato descontraído é ideal para uma tarde longa com um cão aos seus pés.",
           "petPolicyPt": "Cães bem-vindos em todo o pátio; várias bancas de comida",
           "mustTryPt": "Carbonnade flamande, prova de cervejas artesanais ch'ti, wrap de falafel",
-          "tipPt": "As noites de sexta e sábado ficam barulhentas com sessões de DJ ao vivo, opte pelo almoço de domingo se quiser uma mesa tranquila com o cão."
+          "tipPt": "As noites de sexta e sábado ficam barulhentas com sessões de DJ ao vivo, opte pelo almoço de domingo se quiser uma mesa tranquila com o cão.",
+          "descriptionDe": "Ein Open-Air-Street-Food-Hof im neu erschlossenen Viertel Saint-Sauveur, mit einer geräumigen, sonnigen Terrasse, die Hunde ohne Wenn und Aber willkommen heißt. Mehrere Foodstände bieten regionale flämische Küche, Falafel, Pizza und Craft Beer; das lockere Format eignet sich für einen langen Nachmittag mit dem Hund zu Füßen.",
+          "petPolicyDe": "Hunde auf der gesamten Terrasse willkommen; mehrere Foodstände",
+          "mustTryDe": "Carbonnade flamande, Ch'ti-Craft-Bier-Flight, Falafel-Wrap",
+          "tipDe": "Freitag- und Samstagabend wird es mit Live-DJ-Sets laut, wählen Sie für einen ruhigen Tisch mit Hund lieber das Sonntagsmittagessen."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Dónde estão as ruas mais pet-friendly de Lille?",
           "a": "O Vieux Lille (Place du Théâtre, rue da Monnaie, rue Esquermoise), Wazemmes alrededor de Le Waf, e o mercado gastronómico de Saint-Sauveur na Friche Gourmande."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Lille",
+      "introDe": "Lilles flämisch geprägte Restaurantkultur ist überwiegend hundefreundlich, wobei das gepflasterte Vieux Lille und die Place du Théâtre die dichteste Ansammlung innenraumfreundlicher Cafés und Brasserien bieten. Die Stadt ist zudem Heimat des Le Waf, Europas erstem eigenen Hundecafé, in dem eine feste Eintrittsgebühr unbegrenzte Getränke und 90 Minuten mit den Haushunden abdeckt. Nachfolgend drei verlässlich verifizierte Adressen, zusätzlich zu diesem einzigartigen Lokal.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Lille im Innenbereich erlaubt?",
+          "a": "In den meisten Cafés, Brasserien und Gastropubs ja, sowohl die französische als auch die flämische Restaurantkultur heißen angeleinte Hunde willkommen. Bei gehobener Küche variiert es stärker, fragen Sie immer an der Tür nach."
+        },
+        {
+          "q": "Berechnen Restaurants in Lille etwas für Wassernäpfe?",
+          "a": "Nie. Ein Wassernapf ist in hundefreundlichen Lokalen eine übliche französische Höflichkeit. Le Waf, La Bellezza und die meisten Terrassen in Vieux Lille halten alle Näpfe hinter der Bar bereit."
+        },
+        {
+          "q": "Wo befinden sich die haustierfreundlichsten Gastro-Meilen in Lille?",
+          "a": "Vieux Lille (Place du Théâtre, rue de la Monnaie, rue Esquermoise), Wazemmes rund um Le Waf sowie der Food Court Saint-Sauveur bei La Friche Gourmande."
+        }
       ]
     },
     "parks": {
@@ -220,7 +248,9 @@
             "Circuitos pedonais de 2 a 6 km",
             "Metro Bois Blancs"
           ],
-          "tipPt": "Percorra o fosso interior de Vauban ao amanhecer, a comunidade canina aceita aqui de forma informal as brincadeiras sem trela antes das 09:00 nos dias úteis."
+          "tipPt": "Percorra o fosso interior de Vauban ao amanhecer, a comunidade canina aceita aqui de forma informal as brincadeiras sem trela antes das 09:00 nos dias úteis.",
+          "descriptionDe": "Lilles grüne Vorzeigefläche mit 110 Hektar, rund um die Vauban-Citadelle aus dem 17. Jahrhundert. Alte Platanen, der Rosengarten Esplanade, ein Zierteich und am westlichen Ende ein kleiner Zoo. Angeleinte Hunde sind auf jedem Weg willkommen; Freilauf ist offiziell verboten, wird aber auf den inneren Waldwegen frühmorgens vielfach toleriert. Kostenloses Parken am Eingang Vauban.",
+          "tipDe": "Gehen Sie im Morgengrauen am inneren Vauban-Graben spazieren, die Hundegemeinschaft akzeptiert dort inoffiziell Freilauf vor 09:00 Uhr an Wochentagen."
         },
         {
           "name": "Caniparc Jules Vallès",
@@ -262,7 +292,9 @@
             "Torneiras de água",
             "Bancos à sombra"
           ],
-          "tipPt": "Aos domingos às 10:00 há encontros informais de cães, uma forma simpática de conversar com os donos locais e recolher dicas do bairro."
+          "tipPt": "Aos domingos às 10:00 há encontros informais de cães, uma forma simpática de conversar com os donos locais e recolher dicas do bairro.",
+          "descriptionDe": "Ein vollständig eingezäunter städtischer Hundepark im Viertel Lille-Sud, an der Kreuzung rue Jules Vallès und rue Alexandra David-Néel. Zwei getrennte Gehege (kleine/große Hunde), Agility-Ausrüstung, Wasserzapfstellen und schattige Bänke. Kostenlos, ganzjährig geöffnet, mit von Ordnungshütern durchgesetzten Bußgeldern von 135 € bei Verunreinigung.",
+          "tipDe": "Sonntags um 10:00 Uhr finden informelle Hundetreffen statt, eine freundliche Gelegenheit, mit örtlichen Haltern zu plaudern und Tipps zur Nachbarschaft zu bekommen."
         },
         {
           "name": "Parc du Héron (Bois de Boulogne)",
@@ -305,7 +337,9 @@
             "Prados a leste sem trela",
             "Acesso pelo elétrico LAM linha 1"
           ],
-          "tipPt": "Apanhe o elétrico LAM de Lille Flandres até Hôtel de Ville-Villeneuve-d'Ascq, mas lembre-se de que a Ilévia só aceita cães pequenos em caixas de transporte. Para cães grandes, vá de carro (estacionamento gratuito)."
+          "tipPt": "Apanhe o elétrico LAM de Lille Flandres até Hôtel de Ville-Villeneuve-d'Ascq, mas lembre-se de que a Ilévia só aceita cães pequenos em caixas de transporte. Para cães grandes, vá de carro (estacionamento gratuito).",
+          "descriptionDe": "Ein 110 Hektar großes regionales Naturschutzgebiet 10 km östlich von Lille, geprägt von einem 35 Hektar großen See mit umgebenden Feuchtgebieten und Schilfbeständen. Der Park gehört zum urbanen Waldnetz der Metropole Lille und ist über die LAM-Straßenbahn (Linie 1, Haltestelle Hôtel de Ville) direkt vom Stadtzentrum aus erreichbar. Angeleinte Hunde sind auf dem gesamten 6 km langen Rundweg willkommen; Freilauf ist auf den östlichen Wiesen gestattet.",
+          "tipDe": "Nehmen Sie die LAM-Straßenbahn von Lille Flandres bis Hôtel de Ville-Villeneuve-d'Ascq, beachten Sie aber, dass Ilévia nur kleine Hunde in Transportboxen zulässt. Für große Hunde fahren Sie mit dem Auto (kostenloses Parken)."
         }
       ],
       "tipsEn": [
@@ -385,6 +419,22 @@
           "q": "O Jardin Vauban de Lille é pet-friendly?",
           "a": "Sim, com trela. O jardim paisagístico de 3,5 hectares admite cães com trela em todos os trilhos; soltar o cão não se autoriza neste jardim central."
         }
+      ],
+      "titleDe": "Die besten Hundeparks in Lille",
+      "introDe": "Lille zählt zu Frankreichs Vorreiterstädten bei ausgewiesenen Hundeparks (Caniparcs), die Stadt hat seit 2018 schrittweise ein Netz eingezäunter Bereiche über die Stadtteile ausgerollt, einschließlich des neuen Caniparc Porte d'Arras, der im Juni 2025 eröffnet wurde. Außerhalb der Caniparcs gilt in allen Stadtparks Leinenpflicht, mit Bußgeldern von 135 € bei Verunreinigung. Der 110 Hektar große Bois de Boulogne rund um die Citadelle ist die grüne Vorzeigefläche der Stadt; der Parc du Héron in Villeneuve-d'Ascq ergänzt sie um ein regionales Naturschutzgebiet.",
+      "faqsDe": [
+        {
+          "q": "Wo kann mein Hund in Lille komplett ohne Leine laufen?",
+          "a": "In den städtischen Caniparcs (Jules Vallès, Porte d'Arras seit Juni 2025, das Gehege Bois Leurent sowie mehrere kleinere Gehege in den Stadtteilen). Außerhalb dieser gilt stadtweit Leinenpflicht."
+        },
+        {
+          "q": "Sind Hunde in den Gräben und auf den Wällen der Citadelle erlaubt?",
+          "a": "Ja, an der Leine. Das militärische Gebäude der Citadelle selbst ist gesperrt (aktiver Stützpunkt der französischen Armee), doch der umliegende 110 Hektar große Bois de Boulogne und die Gräben sind öffentlich und hundefreundlich."
+        },
+        {
+          "q": "Ist Lilles Jardin Vauban hundefreundlich?",
+          "a": "Ja, an der Leine. Der 3,5 Hektar große Landschaftsgarten erlaubt angeleinte Hunde auf allen Wegen; Freilauf ist in diesem zentralen Garten nicht gestattet."
+        }
       ]
     },
     "transport": {
@@ -414,7 +464,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Lille+Flandres+station",
           "descriptionPt": "As duas linhas de metro de Lille (1 e 2), as linhas de elétrico (T e R) e a densa rede de autocarros são operadas pela Ilévia. As regras para animais são invulgarmente rígidas para França: só são admitidos animais pequenos numa caixa de transporte fechada e cães de assistência. Os cães médios e grandes não são permitidos de todo na rede. O Tickets Pass de 1 dia, a 5,20 €, inclui o elétrico, o metro e o autocarro em toda a metrópole.",
           "petPolicyPt": "Apenas animais pequenos em caixa de transporte fechada e cães de assistência; cães médios e grandes proibidos",
-          "tipPt": "Se o seu cão for grande demais para uma caixa de transporte, planeie percursos a pé, o Bois de Boulogne fica a 25 minutos a pé da estação de Lille Flandres e a Vieux Lille a 5 minutos."
+          "tipPt": "Se o seu cão for grande demais para uma caixa de transporte, planeie percursos a pé, o Bois de Boulogne fica a 25 minutos a pé da estação de Lille Flandres e a Vieux Lille a 5 minutos.",
+          "descriptionDe": "Lilles zwei Métro-Linien (1 und 2), Straßenbahnlinien (T und R) sowie das dichte Busnetz werden von Ilévia betrieben. Die Haustierregeln sind für Frankreich ungewöhnlich streng: nur kleine Haustiere in geschlossener Transportbox und Assistenzhunde sind zugelassen. Mittelgroße und große Hunde sind im gesamten Netz nicht erlaubt. Das Tagesticket Tickets Pass für 5,20 € gilt für Straßenbahn, Métro und Bus in der gesamten Metropole.",
+          "petPolicyDe": "Nur kleine Haustiere in geschlossener Transportbox und Assistenzhunde; mittelgroße und große Hunde verboten",
+          "tipDe": "Wenn Ihr Hund zu groß für eine Transportbox ist, planen Sie Fußwege, der Bois de Boulogne ist 25 Minuten zu Fuß vom Bahnhof Lille Flandres entfernt, und Vieux Lille 5 Minuten."
         }
       ],
       "tipsEn": [
@@ -494,6 +547,22 @@
           "q": "Se admitem cães no aeroporto de Lille?",
           "a": "Os cães de assistência são bem-vindos en toda a terminal. Os cães que viajan en voo siguen as reglas da companhia aérea (cabina o bodega). A lanzadera al centro a opera Ilévia e sigue a misma regla só-cães-pequenhos-en-transportadora."
         }
+      ],
+      "titleDe": "Haustierfreundlicher Nahverkehr in Lille",
+      "introDe": "Lilles öffentlicher Nahverkehr (Ilévia, Métro, Bus, Straßenbahn) hat die strengsten Haustierregeln in Frankreich: nur kleine Hunde in geschlossenen Transportboxen und Assistenzhunde sind zugelassen. Mittelgroße und große Hunde dürfen das Netz nicht nutzen. Die nationale SNCF-Bahn folgt der französischen Standardregel: bis zu 2 Hunde pro Ticket zum halben Preis mit Leine und Maulkorb. Planen Sie entsprechend, für große Hunde ist der Bois de Boulogne fußläufig vom Zentrum erreichbar, doch Tagesausflugsziele wie der Parc du Héron erfordern ein Auto.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in die Métro von Lille mitnehmen?",
+          "a": "Nur kleine Haustiere in geschlossener Transportbox und Assistenzhunde sind im Métro-, Straßenbahn- und Busnetz von Ilévia zugelassen. Mittelgroße und große Hunde sind vollständig verboten."
+        },
+        {
+          "q": "Darf ich meinen Hund im TGV von Paris nach Lille mitnehmen?",
+          "a": "Ja, die SNCF akzeptiert bis zu 2 Hunde pro gebuchtem Erwachsenenticket: kleine Haustiere in Transportboxen (unter 6 kg) kosten 7 €, größere angeleinte Hunde mit Maulkorb kosten den halben Preis der zweiten Klasse. Die Fahrt mit dem TGV dauert 1 Stunde."
+        },
+        {
+          "q": "Sind Hunde am Flughafen Lille erlaubt?",
+          "a": "Assistenzhunde sind überall willkommen. Haustierhunde auf einem Flug folgen den Regeln der Fluggesellschaft (Kabine oder Frachtraum). Der Shuttle ins Stadtzentrum wird von Ilévia betrieben und folgt derselben Regel: nur kleine Hunde in Transportboxen."
+        }
       ]
     },
     "beaches": {
@@ -523,7 +592,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bray-Dunes+plage",
           "descriptionPt": "Uma praia de areia de 5 km na fronteira com a Bélgica, a praia do Mar do Norte que aceita cães mais próxima de Lille. A metade leste, em direção a De Panne (Bélgica), é totalmente sem trela durante todo o ano; a secção central impõe restrições a cães de 15 de junho a 15 de setembro durante o dia. Por trás da praia, as dunas fazem parte da reserva natural das Dunes Flamandes, onde os cães com trela são bem-vindos nos trilhos marcados.",
           "petPolicyPt": "Sem trela durante todo o ano na metade leste; secção central com restrições de 15 de junho a 15 de setembro durante o dia",
-          "tipPt": "Estacione no parque de Bray-Dunes a leste, junto à fronteira belga, a 5 minutos a pé da secção sem trela, menos concorrida do que a praia central."
+          "tipPt": "Estacione no parque de Bray-Dunes a leste, junto à fronteira belga, a 5 minutos a pé da secção sem trela, menos concorrida do que a praia central.",
+          "descriptionDe": "Ein 5 km langer Sandstrand an der belgischen Grenze, der nächstgelegene hundefreundliche Nordseestrand zu Lille. Die östliche Hälfte Richtung De Panne (Belgien) ist ganzjährig vollständig freilauffähig; der zentrale Abschnitt schränkt Hunde vom 15. Juni bis 15. September tagsüber ein. Hinter dem Strand gehören die Dünen zum Naturschutzgebiet Dunes Flamandes, wo angeleinte Hunde auf den markierten Wegen willkommen sind.",
+          "petPolicyDe": "Ganzjährig Freilauf auf der östlichen Hälfte; zentraler Abschnitt vom 15. Juni bis 15. September tagsüber eingeschränkt",
+          "tipDe": "Parken Sie am östlichen Parkplatz von Bray-Dunes nahe der belgischen Grenze, 5 Minuten Fußweg zum Freilaufbereich, weniger überlaufen als der zentrale Strand."
         },
         {
           "name": "Canal de la Deûle towpath",
@@ -544,7 +616,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Quai+du+Wault+Lille",
           "descriptionPt": "Um caminho de sirga frondoso à beira do canal que vai do Quai du Wault, passa pela Cidadela e segue até ao Bois de Boulogne. Os cães com trela são bem-vindos em toda a sua extensão, e o caminho liga-se à rede mais ampla de caminhos de sirga do canal do Pas-de-Calais, mais de 100 km de passeio contínuo que aceita cães. A água do canal é de tipo industrial e não é segura para nadar.",
           "petPolicyPt": "Cães bem-vindos com trela durante todo o ano no caminho de sirga; não é seguro nadar",
-          "tipPt": "Siga para oeste a partir do Quai du Wault, 25 minutos até chegar à entrada do Bois de Boulogne, com cafés e torneiras de água pelo caminho."
+          "tipPt": "Siga para oeste a partir do Quai du Wault, 25 minutos até chegar à entrada do Bois de Boulogne, com cafés e torneiras de água pelo caminho.",
+          "descriptionDe": "Ein grüner Treidelpfad entlang des Kanals, der vom Quai du Wault an der Citadelle vorbei bis zum Bois de Boulogne führt. Angeleinte Hunde sind auf der gesamten Strecke willkommen, und der Weg schließt an das weitere Treidelpfadnetz von Pas-de-Calais an, über 100 km durchgehendes hundefreundliches Wandern. Das Kanalwasser ist industriell belastet und nicht zum Schwimmen geeignet.",
+          "petPolicyDe": "Hunde ganzjährig an der Leine auf dem Treidelpfad willkommen; nicht zum Schwimmen geeignet",
+          "tipDe": "Gehen Sie vom Quai du Wault aus nach Westen, 25 Minuten bis zum Eingang des Bois de Boulogne, unterwegs Cafés und Wasserzapfstellen."
         },
         {
           "name": "Dunkerque Malo-les-Bains",
@@ -565,7 +640,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Malo+les+Bains+Dunkerque",
           "descriptionPt": "Uma frente marítima de areia de 5 km no bairro de Malo-les-Bains, em Dunquerque, com o passeio Belle Époque por cima e secções que aceitam cães nas extremidades leste (em direção a Leffrinckoucke) e oeste (Fort-Mardyck). Sem trela durante todo o ano nas secções marcadas; a zona central de concessão impõe restrições a cães no verão. O comboio da SNCF a partir de Lille Flandres demora 60 minutos.",
           "petPolicyPt": "Sem trela durante todo o ano nas secções marcadas a leste e oeste; central com restrições no verão",
-          "tipPt": "Apanhe o comboio SNCF Lille-Dunquerque (60 min, até 2 cães gratuitos em caixas de transporte, meio preço com trela). Siga para leste a partir da estação, 15 minutos até à faixa de areia sem trela em direção a Leffrinckoucke."
+          "tipPt": "Apanhe o comboio SNCF Lille-Dunquerque (60 min, até 2 cães gratuitos em caixas de transporte, meio preço com trela). Siga para leste a partir da estação, 15 minutos até à faixa de areia sem trela em direção a Leffrinckoucke.",
+          "descriptionDe": "Eine 5 km lange Sandküste im Dunkerque-Viertel Malo-les-Bains, mit der Belle-Époque-Promenade darüber und hundefreundlichen Abschnitten sowohl am östlichen (Richtung Leffrinckoucke) als auch am westlichen Ende (Fort-Mardyck). Auf den markierten Abschnitten ganzjährig Freilauf; der zentrale Konzessionsbereich schränkt Hunde im Sommer ein. Die SNCF-Bahn von Lille Flandres benötigt 60 Minuten.",
+          "petPolicyDe": "Ganzjährig Freilauf auf den markierten östlichen und westlichen Abschnitten; zentraler Bereich im Sommer eingeschränkt",
+          "tipDe": "Nehmen Sie die SNCF-Verbindung Lille-Dunkerque (60 Min., bis zu 2 Hunde kostenlos in Transportboxen, halber Preis angeleint). Gehen Sie vom Bahnhof aus nach Osten, 15 Minuten bis zum freilauffähigen Sandstreifen Richtung Leffrinckoucke."
         }
       ],
       "tipsEn": [
@@ -645,6 +723,22 @@
           "q": "São pet-friendly as praias da Côte d'Opale belga a partir de Lille?",
           "a": "Sí: Knokke-Heist (Bélgica) e A Panne (Bélgica) estão a menos de 90 minutos e operan secciones pet-friendly o ano inteiro similares a as reglas francesas."
         }
+      ],
+      "titleDe": "Hundefreundliche Ufer & Tagesausflüge ab Lille",
+      "introDe": "Lille liegt 80 km von der Nordsee und der französisch-belgischen Küste entfernt: Dunkerque, Bray-Dunes und die belgische Côte d'Opale sind alle innerhalb von 90 Minuten mit dem Zug oder Auto erreichbar. Die Stadt selbst bietet den Kanal Deûle und den Lac du Héron in Villeneuve-d'Ascq für Spaziergänge in der Nähe. Die meisten nordfranzösischen und belgischen Strände akzeptieren Hunde ganzjährig, nur die zentralen Stadtstrände schränken Haustiere im Sommer (Mitte Juni bis Mitte September) ein.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund in der Nähe von Lille schwimmen?",
+          "a": "In der Stadt selbst nicht sicher. Der Lac du Héron in Villeneuve-d'Ascq hat einen geduldeten Schwimmbereich; für richtiges Meerschwimmen fahren Sie nach Bray-Dunes oder Dunkerque Malo-les-Bains."
+        },
+        {
+          "q": "Was ist der beste Hundestrand in der Nähe von Lille?",
+          "a": "Bray-Dunes (90 Minuten mit dem Auto) für ganzjährigen Freilaufzugang auf dem Abschnitt an der belgischen Grenze, oder Dunkerque Malo-les-Bains (60 Minuten mit dem Zug) für einen schnelleren Ausflug."
+        },
+        {
+          "q": "Sind die belgischen Strände der Côte d'Opale von Lille aus hundefreundlich?",
+          "a": "Ja, Knokke-Heist (Belgien) und De Panne (Belgien) sind beide innerhalb von 90 Minuten erreichbar und bieten ganzjährig hundefreundliche Bereiche ähnlich den französischen Regeln."
+        }
       ]
     },
     "vets": {
@@ -671,7 +765,9 @@
           "tipEs": "Llama antes de ir por la noche: el veterinario de guardia puede necesitar unos minutos para hacer triaje por teléfono antes de la llegada.",
           "googleMapsUrl": "https://maps.google.com/?q=VET24+Marcq+en+Baroeul",
           "descriptionPt": "A clínica veterinária de urgência 24 horas de referência da área metropolitana de Lille, aberta 365 dias por ano, incluindo domingos e feriados. Equipada para cirurgia, cuidados intensivos, imagiologia avançada e encaminhamentos de especialidade. A cerca de 10 minutos do centro de Lille de Bolt ou Uber.",
-          "tipPt": "Telefone antes de se deslocar à noite, o veterinário de prevenção pode precisar de alguns minutos para fazer a triagem por telefone antes da chegada."
+          "tipPt": "Telefone antes de se deslocar à noite, o veterinário de prevenção pode precisar de alguns minutos para fazer a triagem por telefone antes da chegada.",
+          "descriptionDe": "Die 24-Stunden-Notfalltierklinik der Metropolregion Lille, 365 Tage im Jahr geöffnet, einschließlich Sonntagen und Feiertagen. Ausgestattet für Chirurgie, Intensivpflege, moderne Bildgebung und Facharztüberweisungen. Etwa 10 Minuten vom Zentrum Lilles mit Bolt oder Uber entfernt.",
+          "tipDe": "Rufen Sie vor der nächtlichen Fahrt an, der diensthabende Tierarzt benötigt vor der Ankunft eventuell ein paar Minuten für die telefonische Ersteinschätzung."
         },
         {
           "name": "Clinique d'urgence vétérinaire Lesquin",
@@ -689,7 +785,9 @@
           "tipEs": "Útil para urgencias del sur de Lille (Lille-Sud, Lesquin, Seclin) cuando VET24 está saturado. Llama antes para confirmar disponibilidad.",
           "googleMapsUrl": "https://maps.google.com/?q=clinique+urgence+veterinaire+Lesquin",
           "descriptionPt": "Uma clínica veterinária só de urgência junto ao aeroporto de Lille, com uma escala separada de fim de semana e noturna que alivia a carga da VET24 na zona sul da metrópole de Lille. Boa capacidade de medicina geral e cirurgia. A cerca de 15 minutos do centro de Lille de Bolt.",
-          "tipPt": "Útil para urgências no sul de Lille (Lille-Sud, Lesquin, Seclin) quando a VET24 não tem capacidade. Telefone com antecedência para confirmar a disponibilidade."
+          "tipPt": "Útil para urgências no sul de Lille (Lille-Sud, Lesquin, Seclin) quando a VET24 não tem capacidade. Telefone com antecedência para confirmar a disponibilidade.",
+          "descriptionDe": "Eine reine Notfalltierklinik nahe dem Flughafen Lille, mit eigenem Wochenend- und Nachtdienst, der VET24 für den südlichen Bereich der Metropole Lille entlastet. Starke allgemeinmedizinische und chirurgische Kapazitäten. Etwa 15 Minuten vom Zentrum Lilles mit Bolt entfernt.",
+          "tipDe": "Nützlich für Notfälle im südlichen Lille (Lille-Sud, Lesquin, Seclin), wenn VET24 ausgelastet ist. Rufen Sie vorher an, um die Verfügbarkeit zu bestätigen."
         }
       ],
       "tipsEn": [
@@ -768,6 +866,22 @@
         {
           "q": "Os serviços veterinários em Lille são caros?",
           "a": "Semelhantes a Paris e à Bélgica, ligeiramente acima de Bruxelas. Uma consulta normal ronda os 50-65 €, uma consulta de urgência 60-90 € mais medicação."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Lille, Tierkliniken & Tierbetreuung",
+      "introDe": "Lille verfügt über ein umfangreiches Tierarztnetz für die Metropolregion, angeführt vom VET24 in Marcq-en-Barœul (die regionale 24-Stunden-Notfallklinik) und dem Notfallzentrum in Lesquin. Die kostenlose nationale Notrufnummer 3115 leitet jeden Anruf außerhalb der Öffnungszeiten an den nächsten diensthabenden Tierarzt in ganz Frankreich weiter. VetoAdom Nord übernimmt Hausbesuche für nicht transportfähige Patienten.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächste 24-Stunden-Tierarzt zum Stadtzentrum von Lille?",
+          "a": "VET24 in Marcq-en-Barœul (etwa 10 Minuten mit Bolt) ist die regionale 24-Stunden-Vorzeigeklinik. Für das südliche Lille ist die Notfallklinik in Lesquin die Alternative."
+        },
+        {
+          "q": "Sprechen Tierärzte in Lille Englisch?",
+          "a": "Ja, in Kliniken, die die Expat-Gemeinschaft der Stadt bedienen, hat VET24 englischsprachiges Personal. Die kostenlose nationale Notrufnummer 3115 nimmt ebenfalls Anrufe auf Englisch entgegen."
+        },
+        {
+          "q": "Sind tierärztliche Leistungen in Lille teuer?",
+          "a": "Ähnlich wie Paris und Belgien, etwas über Brüssel. Eine Standardkonsultation kostet rund 50-65 €, eine Notfallkonsultation 60-90 € zuzüglich Medikamente."
         }
       ]
     },
@@ -856,6 +970,22 @@
           "q": "Pode mi cão visitar o Palais des Beaux-Arts o o LaM?",
           "a": "Só os cães de assistência se admitem nos grandes museus (Palais des Beaux-Arts, LaM en Villeneuve-d'Ascq, Hospice Comtesse). As praças exteriores dois três são acessíveis com trela e gratuitas."
         }
+      ],
+      "titleDe": "Reisetipps mit Haustier für Lille",
+      "introDe": "Lille ist eine starke Stadt für Reisen mit Hund, die hundefreundlichen Cafés in Vieux Lille, Europas erstes eigenes Hundecafé (Le Waf), der 110 Hektar große Bois de Boulogne fußläufig vom Zentrum entfernt und die 80 km entfernte Nordseeküste. Die beiden Dinge, auf die man sich einstellen sollte, sind die ungewöhnlich strenge Ilévia-Regel (keine mittelgroßen oder großen Hunde in Métro/Straßenbahn/Bus) und das regnerische ozeanische Klima.",
+      "faqsDe": [
+        {
+          "q": "Ist Lille eine gute Stadt für Reisen mit Hund?",
+          "a": "Stark für Hunde, die überall zu Fuß mitgenommen werden können, die hundefreundlichen Cafés in Vieux Lille, der 110 Hektar große Bois de Boulogne, das Hundecafé Le Waf (europaweit einzigartig) und die Nordseeküste in 90 Minuten Entfernung. Die größte Besonderheit ist die strenge Ilévia-Regel, die mittelgroße und große Hunde von Métro und Straßenbahn ausschließt."
+        },
+        {
+          "q": "Welche Dokumente brauche ich, um meinen Hund aus einem anderen EU-Land nach Lille mitzubringen?",
+          "a": "Einen EU-Heimtierausweis, eine gültige Tollwutimpfung, die mindestens 21 Tage alt ist, sowie einen Mikrochip. Die Grenzkontrollen zwischen Frankreich und Belgien/Luxemburg sind minimal, doch der Ausweis muss den Hund stets begleiten."
+        },
+        {
+          "q": "Kann mein Hund den Palais des Beaux-Arts oder das LaM-Museum besuchen?",
+          "a": "Nur Assistenzhunde sind in den großen Museen zugelassen (Palais des Beaux-Arts, LaM in Villeneuve-d'Ascq, Hospice Comtesse). Die Außenplätze aller drei sind leinenfreundlich und kostenlos."
+        }
       ]
     },
     "attractions": {
@@ -885,7 +1015,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Vieux+Lille",
           "descriptionPt": "O núcleo histórico de Lille, candidato a Património da UNESCO, ruas de calçada ladeadas de casas senhoriais do século XVII ao estilo flamengo em tijolo rosa e amarelo, boutiques independentes e cafés que aceitam cães em cada esquina. A Place du Théâtre, a Vieille Bourse (a antiga bolsa) e a rue de la Monnaie são todas acessíveis com trela e gratuitas. O interior da catedral de Notre-Dame de la Treille só admite cães de assistência.",
           "petPolicyPt": "Cães bem-vindos com trela; quase todas as boutiques e cafés independentes admitem animais",
-          "tipPt": "As tardes de sábado ficam concorridas, a manhã de domingo é o momento mais tranquilo para um passeio sossegado e um brunch na rue de la Monnaie."
+          "tipPt": "As tardes de sábado ficam concorridas, a manhã de domingo é o momento mais tranquilo para um passeio sossegado e um brunch na rue de la Monnaie.",
+          "descriptionDe": "Lilles historischer Kern mit Chancen auf das UNESCO-Welterbe, gepflasterte Straßen gesäumt von flämisch geprägten Stadthäusern aus dem 17. Jahrhundert in Rosa-Gelb-Ziegel, unabhängigen Boutiquen und an jeder Ecke hundefreundlichen Cafés. Die Place du Théâtre, die Vieille Bourse (die alte Börse) und die rue de la Monnaie sind alle leinenfreundlich und kostenlos. Das Innere der Kathedrale Notre-Dame de la Treille lässt nur Assistenzhunde zu.",
+          "petPolicyDe": "Hunde an der Leine willkommen; nahezu alle unabhängigen Boutiquen und Cafés lassen Haustiere zu",
+          "tipDe": "Samstagnachmittage werden voll, der Sonntagvormittag ist der ruhigste Moment für einen entspannten Spaziergang und Brunch auf der rue de la Monnaie."
         },
         {
           "name": "Grand Place (Place du Général de Gaulle)",
@@ -906,7 +1039,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Grand+Place+Lille",
           "descriptionPt": "O coração cívico de Lille, uma ampla praça pavimentada a pedra dominada pela Vieille Bourse (a antiga bolsa do século XVII) e pela Coluna da Deusa. Os cães com trela são bem-vindos por toda a praça, e o mercado de livros em segunda mão na arcada da Vieille Bourse tolera cães no verão. O mercado de Natal de dezembro aceita cães na sua secção ao ar livre.",
           "petPolicyPt": "Cães bem-vindos com trela; os eventos cívicos podem limitar o acesso",
-          "tipPt": "Faça um circuito com trela de 90 minutos da Grand Place até à Vieux Lille e de volta pelas muralhas da Cidadela, abrange o núcleo histórico num único passeio fácil."
+          "tipPt": "Faça um circuito com trela de 90 minutos da Grand Place até à Vieux Lille e de volta pelas muralhas da Cidadela, abrange o núcleo histórico num único passeio fácil.",
+          "descriptionDe": "Lilles zivilgesellschaftliches Herz, ein weiter steingepflasterter Platz, beherrscht von der Vieille Bourse (der alten Börse aus dem 17. Jahrhundert) und der Göttinnensäule. Angeleinte Hunde sind auf dem gesamten Platz willkommen, und der Antiquariatsmarkt in der Arkade der Vieille Bourse toleriert im Sommer Hunde. Der Weihnachtsmarkt im Dezember ist auf seinem Außenbereich hundefreundlich.",
+          "petPolicyDe": "Hunde an der Leine willkommen; bei zivilen Veranstaltungen kann der Zugang eingeschränkt sein",
+          "tipDe": "Gehen Sie eine 90-minütige angeleinte Runde von der Grand Place nach Vieux Lille und zurück über die Wälle der Citadelle, deckt den historischen Kern in einem einfachen Spaziergang ab."
         },
         {
           "name": "Citadelle ramparts",
@@ -927,7 +1063,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Citadelle+Lille",
           "descriptionPt": "A cidadela em forma de estrela de Vauban, do século XVII, uma fortificação militar candidata a Património da UNESCO ainda em uso pelo Exército francês, com as suas muralhas de terra de 5 pontas no coração do Bois de Boulogne de 110 hectares. O interior encontra-se fechado ao público (base ativa), mas os fossos, o glacis e as muralhas exteriores circundantes formam um circuito de 5 km acessível com trela e um dos passeios de cão com mais atmosfera da cidade.",
           "petPolicyPt": "Muralhas e fossos exteriores acessíveis com trela; interior militar fechado",
-          "tipPt": "Percorra o circuito exterior das muralhas de 5 km à hora dourada, as fortificações de terra de Vauban ficam cor-de-rosa ao pôr do sol e os fossos interiores refletem a silhueta da catedral."
+          "tipPt": "Percorra o circuito exterior das muralhas de 5 km à hora dourada, as fortificações de terra de Vauban ficam cor-de-rosa ao pôr do sol e os fossos interiores refletem a silhueta da catedral.",
+          "descriptionDe": "Vaubans sternförmige Citadelle aus dem 17. Jahrhundert, eine militärische Befestigungsanlage mit Chancen auf das UNESCO-Welterbe, die noch von der französischen Armee genutzt wird, mit ihren fünfzackigen Erdwällen im Herzen des 110 Hektar großen Bois de Boulogne. Das Innere ist für die Öffentlichkeit gesperrt (aktiver Stützpunkt), doch die umliegenden Gräben, Glacis und äußeren Wälle bilden eine 5 km lange, leinenfreundliche Runde und einen der stimmungsvollsten Hundespaziergänge der Stadt.",
+          "petPolicyDe": "Äußere Wälle und Gräben leinenfreundlich; militärisches Inneres gesperrt",
+          "tipDe": "Gehen Sie die 5 km lange äußere Wallrunde zur goldenen Stunde, die Vauban-Erdwerke färben sich bei Sonnenuntergang rosa, und die inneren Gräben spiegeln die Silhouette der Kathedrale."
         }
       ],
       "tipsEn": [
@@ -1007,6 +1146,22 @@
           "q": "Se admitem cães no mercado de Navidad de Lille?",
           "a": "Sí, com trela, nas secciones exteriores dois mercados da Grand Place e a Place Rihour en dezembro. As carpas climatizadas interiores só admitem cães de assistência."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Lille",
+      "introDe": "Lilles wichtigste Sehenswürdigkeiten teilen sich in Museen, die nur Assistenzhunde zulassen (Palais des Beaux-Arts, LaM, Hospice Comtesse), und das ungewöhnlich großzügige Freiluft-Erbe des gepflasterten Vieux Lille, der Grand Place und der Wälle der Citadelle aus dem 17. Jahrhundert. Die kompakte Innenstadt bedeutet, dass ein einziger 90-minütiger Spazierrundgang die Grand Place, die Vieille Bourse, das Vieux Lille und den Bois de Boulogne abdeckt, alles leinenfreundlich. Drei der besten unten.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund den Palais des Beaux-Arts betreten?",
+          "a": "Nein, nur Assistenzhunde sind im Museumsinneren zugelassen. Die Place de la République davor ist leinenfreundlich und die umliegenden Gärten sind kostenlos."
+        },
+        {
+          "q": "Was ist der beste haustierfreundliche Tag in Lille?",
+          "a": "Gehen Sie morgens durch Vieux Lille, besuchen Sie Le Waf für eine Hundecafé-Session am frühen Nachmittag, gehen Sie zur goldenen Stunde die Wälle der Citadelle ab und beenden Sie den Tag mit einem Abendessen bei La Bellezza oder La Friche Gourmande."
+        },
+        {
+          "q": "Sind Hunde auf dem Weihnachtsmarkt in Lille erlaubt?",
+          "a": "Ja, an der Leine, auf den Außenbereichen der Märkte an Grand Place und Place Rihour im Dezember. In beheizten Innenzelten sind nur Assistenzhunde zugelassen."
+        }
       ]
     },
     "petsitting": {
@@ -1027,7 +1182,9 @@
           "tipFr": "Une visite de 30 minutes coûte environ 12-15 € dans le centre de Lille ; la garde journée démarre autour de 25-30 €.",
           "tipEs": "Una visita de 30 minutos cuesta entre 12-15 € en el centro de Lille; el cuidado de día empieza en torno a 25-30 €.",
           "descriptionPt": "O mercado de pet sitting verificado dominante em França, com centenas de reservas em Lille e uma classificação média acima de 4,8 em 5. Oferece visitas pontuais, cuidados durante o dia inteiro, passeio de cães e alojamento noturno em casa do cuidador. Ideal para quem viaja e precisa de 2 a 6 horas de cobertura para uma visita a um museu ou um jantar de restaurante. A maioria dos cuidadores no centro de Lille fala inglês; filtre por bairro (Vieux Lille, Wazemmes, Vauban) e por tamanho do cão no ecrã de reserva.",
-          "tipPt": "Uma visita pontual de 30 minutos custa cerca de 12 a 15 € no centro de Lille; os cuidados durante o dia inteiro começam por volta dos 25 a 30 €."
+          "tipPt": "Uma visita pontual de 30 minutos custa cerca de 12 a 15 € no centro de Lille; os cuidados durante o dia inteiro começam por volta dos 25 a 30 €.",
+          "descriptionDe": "Der führende verifizierte Marktplatz für Tierbetreuung in Frankreich, mit hunderten Buchungen in Lille und einer durchschnittlichen Bewertung über 4,8 von 5. Bietet Kurzbesuche, Ganztagesbetreuung, Gassigehen und Übernachtung im Zuhause des Sitters. Ideal für Reisende, die 2-6 Stunden Betreuung für einen Museumsbesuch oder ein Abendessen im Restaurant brauchen. Die meisten Sitter im zentralen Lille sprechen Englisch; filtern Sie im Buchungsbildschirm nach Viertel (Vieux Lille, Wazemmes, Vauban) und Hundegröße.",
+          "tipDe": "Ein 30-minütiger Kurzbesuch kostet im zentralen Lille etwa 12-15 €; Ganztagesbetreuung beginnt bei rund 25-30 €."
         },
         {
           "name": "Holidog France",
@@ -1039,7 +1196,9 @@
           "tipFr": "Holidog demande un compte gratuit avant de consulter les sitters ; comptez 15 minutes pour l'e-mail de validation.",
           "tipEs": "Holidog exige una cuenta gratuita antes de ver los cuidadores; cuenta con unos 15 minutos para el correo de validación.",
           "descriptionPt": "Uma plataforma de pet sitting franco-belga com forte cobertura em toda a região de Hauts-de-France. Indicada para estadias mais longas (alojamento de vários dias) quando atravessa para a Bélgica durante o dia ou faz uma escapadela de fim de semana. Os cuidadores têm os antecedentes verificados e a plataforma inclui seguro de responsabilidade civil até 3.000 € por reserva. Apoio bilingue francês/inglês.",
-          "tipPt": "A Holidog exige uma conta de utilizador gratuita antes de ver os cuidadores; conte com 15 minutos para o email de verificação."
+          "tipPt": "A Holidog exige uma conta de utilizador gratuita antes de ver os cuidadores; conte com 15 minutos para o email de verificação.",
+          "descriptionDe": "Eine französisch-belgische Plattform für Tierbetreuung mit starker Abdeckung in der gesamten Region Hauts-de-France. Geeignet für längere Aufenthalte (mehrtägige Übernachtung), etwa wenn Sie für einen Tag nach Belgien fahren oder einen Wochenendausflug machen. Sitter sind hintergrundgeprüft, und die Plattform beinhaltet eine Haftpflichtversicherung bis 3.000 € pro Buchung. Zweisprachiger französisch-englischer Support.",
+          "tipDe": "Holidog erfordert ein kostenloses Benutzerkonto, bevor Sie Sitter durchsuchen können; rechnen Sie mit 15 Minuten für die Bestätigungs-E-Mail."
         }
       ],
       "tipsEn": [
@@ -1118,6 +1277,22 @@
         {
           "q": "O pet-sitting em Lille é acessível face a Paris?",
           "a": "Sim, as tarifas em Lille rondam menos 25-30 % do que no centro de Paris. As visitas ao domicílio começam nos 12 €, o cuidado de dia inteiro nos 25 € e o alojamento noturno nos 30-35 €."
+        }
+      ],
+      "titleDe": "Hundesitter & Gassiservice in Lille",
+      "introDe": "Lille bietet dank seiner Studierendenschaft und der Nähe zu Belgien ein solides Angebot an Tierbetreuung. Pawshake France und Holidog decken das Stadtzentrum sowie die Studentenviertel Vieux Lille, Wazemmes und Vauban besonders gut ab, mit Hunderten verifizierten Bewertungen. Für Reisende läuft der Buchungsvorgang auf beiden Plattformen vollständig auf Englisch, die Sitter sind versichert, und die meisten nehmen kurzfristige Anfragen innerhalb von 24-48 Stunden an.",
+      "faqsDe": [
+        {
+          "q": "Finde ich in Lille einen englischsprachigen Hundesitter?",
+          "a": "Ja, dank Lilles Studierenden- und Expat-Bevölkerung sprechen die meisten Sitter in den zentralen Vierteln (Vieux Lille, Wazemmes, Vauban) Englisch. Filtern Sie auf Pawshake nach „spricht Englisch“."
+        },
+        {
+          "q": "Gibt es Hundetagesstätten, bei denen ich meinen Hund für den Tag abgeben kann?",
+          "a": "Unabhängige Hundetagesstätten sind innerhalb Lilles selbst begrenzt; die meisten Reisenden buchen stattdessen über Pawshake einen ganztägigen Hausbesuchssitter (25-30 €). Métropolitain Dog Sitter und einige private Pensionen betreiben Angebote in den Vororten Roubaix und Tourcoing."
+        },
+        {
+          "q": "Ist Hundebetreuung in Lille günstiger als in Paris?",
+          "a": "Ja, die Preise in Lille liegen etwa 25-30% unter denen im Zentrum von Paris. Kurzbesuche beginnen bei 12 €, Ganztagesbetreuung bei 25 € und Übernachtung bei 30-35 €."
         }
       ]
     }

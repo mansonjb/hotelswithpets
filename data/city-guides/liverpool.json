@@ -37,7 +37,11 @@
           "descriptionPt": "Um pub georgiano em forma de flatiron, classificado como Grade II, a curta distância a pé do Albert Dock, frequentemente citado como um dos locais mais fiáveis para cães no centro de Liverpool. Os cães são bem-vindos no bar e na pequena esplanada da frente, e a cozinha serve comida tradicional de pub a par de cervejas produzidas na fábrica artesanal da casa.",
           "petPolicyPt": "Cães bem-vindos na zona do bar e na esplanada da frente",
           "mustTryPt": "Provas de cerveja da fábrica Wapping Beers, scouse stew, assado de domingo",
-          "tipPt": "Venha a pé desde o Albert Dock ao longo de Wapping, num percurso de 10 minutos com trela junto ao rio que termina mesmo à porta."
+          "tipPt": "Venha a pé desde o Albert Dock ao longo de Wapping, num percurso de 10 minutos com trela junto ao rio que termina mesmo à porta.",
+          "descriptionDe": "Ein denkmalgeschützter georgianischer Flatiron-Pub (Grade II) nur einen kurzen Fußweg vom Albert Dock entfernt, oft als eines der zuverlässigsten hundefreundlichen Lokale im Zentrum Liverpools genannt. Hunde sind an der Bar und auf der kleinen Terrasse an der Vorderseite willkommen, und die Küche serviert traditionelle Pub-Gerichte zusammen mit hauseigenen Bieren aus der eigenen Brauerei.",
+          "petPolicyDe": "Hunde willkommen im Barbereich und auf der vorderen Terrasse",
+          "mustTryDe": "Wapping-Beers-Brauereiproben, Scouse-Eintopf, Sonntagsbraten",
+          "tipDe": "Gehen Sie vom Albert Dock entlang der Wapping-Straße, ein 10-minütiger angeleinter Spaziergang am Fluss entlang, der direkt vor der Tür endet."
         },
         {
           "name": "Bold Street Coffee",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um pequeno café independente na rua comercial mais pedonal de Liverpool, muito apreciado pelos donos de cães locais para o pequeno-almoço e o brunch. Os cães são bem-vindos dentro do luminoso café do piso térreo, e a cozinha apresenta uma ementa que muda diariamente, construída em torno de uma torrefação de café de origem única.",
           "petPolicyPt": "Cães bem-vindos dentro do café do piso térreo",
           "mustTryPt": "Café de filtro de origem única, pequeno-almoço inglês completo, especial de brunch diário",
-          "tipPt": "Bold Street é totalmente pedonal à hora de almoço, sendo de fácil acesso com trela e sem trânsito, quer venha da estação Central, quer do lado de Liverpool One."
+          "tipPt": "Bold Street é totalmente pedonal à hora de almoço, sendo de fácil acesso com trela e sem trânsito, quer venha da estação Central, quer do lado de Liverpool One.",
+          "descriptionDe": "Ein kleines inhabergeführtes Café in Liverpools fußgängerfreundlichster Einkaufsstraße, bei örtlichen Hundebesitzern für Frühstück und Brunch sehr beliebt. Hunde sind im hellen Erdgeschoss-Café willkommen, und die Küche bietet eine täglich wechselnde Karte rund um eine Single-Origin-Kaffeerösterei.",
+          "petPolicyDe": "Hunde willkommen im Café im Erdgeschoss",
+          "mustTryDe": "Single-Origin-Filterkaffee, English Breakfast, tägliches Brunch-Special",
+          "tipDe": "Die Bold Street ist mittags vollständig autofrei, ein einfacher angeleinter Zugang ohne Verkehr sowohl vom Central Station als auch von der Liverpool-One-Seite."
         },
         {
           "name": "The Belvedere Arms",
@@ -89,7 +97,11 @@
           "descriptionPt": "Um pequeno pub vitoriano de esquina, escondido por trás da Catedral Anglicana, gerido quase inteiramente para a comunidade do Georgian Quarter envolvente. Os cães são bem-vindos em todo o bar e na pequena sala de estar, e o pub mantém tigelas de água e guloseimas à porta.",
           "petPolicyPt": "Cães bem-vindos em todo o pub",
           "mustTryPt": "Cerveja cask do dia, assado de domingo simples",
-          "tipPt": "Combine com um passeio pelos jardins da Catedral Anglicana e pelo Cemitério de St James, ambos acolhem cães com trela e ficam a 5 minutos."
+          "tipPt": "Combine com um passeio pelos jardins da Catedral Anglicana e pelo Cemitério de St James, ambos acolhem cães com trela e ficam a 5 minutos.",
+          "descriptionDe": "Ein kleiner viktorianischer Eckpub versteckt hinter der Anglikanischen Kathedrale, fast ausschließlich für die umliegende Gemeinde des Georgian Quarter geführt. Hunde sind in der ganzen Bar und der kleinen Lounge willkommen, und der Pub hält Wassernäpfe und Leckerlis an der Tür bereit.",
+          "petPolicyDe": "Hunde im ganzen Pub willkommen",
+          "mustTryDe": "Fassbier des Tages, einfacher Sonntagsbraten",
+          "tipDe": "Kombinieren Sie den Besuch mit einem Spaziergang durch das Gelände der Anglikanischen Kathedrale und den St James's Cemetery, beide sind hundefreundlich an der Leine und 5 Minuten entfernt."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Onde fica o conjunto de restaurantes mais denso a acolher cães em Liverpool?",
           "a": "O Baltic Triangle e o Royal Albert Dock têm a maior concentração, seguidos de Bold Street, em Ropewalks, e da zona de Lark Lane, em Aigburth."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Liverpool",
+      "introDe": "Liverpools Pub- und Café-Kultur ist durchweg hundefreundlich, besonders rund um das Baltic Triangle, das Royal Albert Dock und die Wohnviertel Aigburth und das Georgian Quarter. Die meisten Inhabergeführten stellen Wassernäpfe hinter der Theke bereit und heißen angeleinte Hunde das ganze Jahr über im Barbereich willkommen; Kettenrestaurants sind unterschiedlicher, aber die Uferpromenade am Albert Dock konzentriert mehrere bestätigte haustierfreundliche Lokale. Die drei folgenden Orte sind bei örtlichen Hundebesitzern bekannt und nehmen Haustiere im Innenbereich auf.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Pubs in Liverpool erlaubt?",
+          "a": "In den meisten inhabergeführten Pubs ja, Liverpool hat eine ausgeprägte hundefreundliche Pub-Kultur. Kettenpubs (Wetherspoon, Greene King) beschränken Hunde meist auf den Außenbereich. Immer an der Tür nachfragen."
+        },
+        {
+          "q": "Verlangen Restaurants in Liverpool Geld für Wassernäpfe?",
+          "a": "Fast nie. Inhabergeführte Lokale im Baltic Triangle, auf der Bold Street und im Georgian Quarter halten Näpfe hinter der Theke bereit und bringen sie auf Anfrage."
+        },
+        {
+          "q": "Wo befindet sich die dichteste hundefreundliche Restaurantszene in Liverpool?",
+          "a": "Das Baltic Triangle und das Royal Albert Dock haben die höchste Konzentration, gefolgt von der Bold Street in Ropewalks und dem Lark-Lane-Streifen in Aigburth."
+        }
       ]
     },
     "parks": {
@@ -224,7 +252,9 @@
             "Café (Palm House)",
             "Caixotes e dispensadores de sacos por todo o parque"
           ],
-          "tipPt": "Estacione junto à entrada de Aigburth Drive para o acesso mais fácil ao maior prado sem trela; a volta ao lago demora cerca de 30 minutos com trela, mais se o seu cão nadar."
+          "tipPt": "Estacione junto à entrada de Aigburth Drive para o acesso mais fácil ao maior prado sem trela; a volta ao lago demora cerca de 30 minutos com trela, mais se o seu cão nadar.",
+          "descriptionDe": "Liverpools größter viktorianischer Park (235 Acres / 95 Hektar), denkmalgeschützt (Grade I) und dem Birkenhead Park nachempfunden. Hunde dürfen frei laufen auf den weiten offenen Wiesen rund um den Bootssee und den Old English Garden, mit reinen Leinenzonen in der Nähe des Palm House und des Kinderspielplatzes.",
+          "tipDe": "Parken Sie in der Nähe des Eingangs an der Aigburth Drive für den einfachsten Zugang zur größten Freilauffläche, die Seerunde dauert angeleint etwa 30 Minuten, länger, wenn Ihr Hund schwimmt."
         },
         {
           "name": "Croxteth Country Park",
@@ -271,7 +301,9 @@
             "Estacionamento gratuito",
             "Dispensadores de sacos nas entradas principais"
           ],
-          "tipPt": "O circuito do bosque a leste é o percurso sem trela mais tranquilo: parta do parque de estacionamento de Muirhead Avenue e siga para leste para evitar as multidões da mansão e da quinta."
+          "tipPt": "O circuito do bosque a leste é o percurso sem trela mais tranquilo: parta do parque de estacionamento de Muirhead Avenue e siga para leste para evitar as multidões da mansão e da quinta.",
+          "descriptionDe": "Ein 500 Acres (200 Hektar) großer Landschaftspark rund um die historische Croxteth Hall, die größte zusammenhängende Grünfläche der Stadt. Der Park vereint Wald, Wiese und einen Bauernhof; Hunde dürfen auf den meisten Wegen und Wiesen frei laufen, mit reinen Leinenabschnitten in der Nähe der Nutztiere und des formalen Ummauerten Gartens.",
+          "tipDe": "Der östliche Waldrundweg ist die ruhigste Freilaufroute, starten Sie am Parkplatz Muirhead Avenue und gehen Sie nach Osten, um Halle und Bauernhof-Trubel zu meiden."
         },
         {
           "name": "Otterspool Promenade",
@@ -318,7 +350,9 @@
             "Estacionamento gratuito em Otterspool",
             "Dispensadores de sacos ao longo do percurso"
           ],
-          "tipPt": "Caminhe para sul a partir do parque de estacionamento de Otterspool em direção aos Festival Gardens para encontrar o relvado sem trela mais amplo; as vistas do Mersey e das colinas galesas são as melhores da cidade."
+          "tipPt": "Caminhe para sul a partir do parque de estacionamento de Otterspool em direção aos Festival Gardens para encontrar o relvado sem trela mais amplo; as vistas do Mersey e das colinas galesas são as melhores da cidade.",
+          "descriptionDe": "Eine 2,5 Meilen (4 km) lange Uferpromenade entlang der Mersey-Mündung, die Otterspool mit den Festival Gardens verbindet, bei örtlichen Hundebesitzern beliebt. Hunde dürfen frei laufen auf der offenen Grasfläche zwischen Promenade und Uferweg, mit Leinenzonen am Kinderspielplatz und rund um den Britannia Inn.",
+          "tipDe": "Gehen Sie vom Parkplatz Otterspool südlich in Richtung Festival Gardens für die weitläufigste Freilauffläche, der Blick auf die Mersey und die walisischen Hügel ist der beste in der Stadt."
         }
       ],
       "tipsEn": [
@@ -398,6 +432,22 @@
           "q": "Há dispensadores de sacos nas entradas dos parques?",
           "a": "A maioria dos grandes parques de Liverpool tem caixotes em todas as entradas e dispensadores de sacos nos portões principais. Os parques de Sefton, Stanley e Princes são os mais bem fornecidos; os parques mais pequenos têm muitas vezes apenas caixotes, por isso leve os seus próprios sacos."
         }
+      ],
+      "titleDe": "Die besten Hundeparks in Liverpool",
+      "introDe": "Liverpool verfügt über eines der größten städtischen Parknetze im Nordwesten Englands, mit 2.500 Acres Grünfläche und mehreren viktorianischen Traditionsparks in Gehweite zum Zentrum. Die meisten Parks erlauben Hunden Freilauf auf den offenen Grasflächen abseits von Sportplätzen und Kinderspielplätzen. Die drei folgenden Parks decken die Haupttypen ab: viktorianisches Erbe, großer Landschaftspark und Uferpromenade.",
+      "faqsDe": [
+        {
+          "q": "Wo können Hunde in Liverpool vollständig ohne Leine laufen?",
+          "a": "Die offenen Wiesen des Sefton Park, die Waldwege des Croxteth Country Park, die Grasflächen der Otterspool Promenade sowie der Großteil von Stanley Park und Calderstones Park außerhalb der Spielplätze und Sportfelder."
+        },
+        {
+          "q": "Sind Hunde im Botanischen Garten im Calderstones Park erlaubt?",
+          "a": "Ja, angeleinte Hunde sind im Calderstones Park willkommen, einschließlich der Rasenflächen des Japanischen Gartens. Nur Assistenzhunde sind im Café des Reader / Mansion House im Innenbereich zugelassen."
+        },
+        {
+          "q": "Gibt es Beutelspender an den Parkeingängen?",
+          "a": "Die meisten großen Parks in Liverpool haben Mülleimer an jedem Eingang und Beutelspender an den Haupttoren. Sefton, Stanley und Princes Park sind am besten ausgestattet; kleinere Parks haben oft nur Mülleimer, eigene Beutel mitbringen."
+        }
       ]
     },
     "transport": {
@@ -427,7 +477,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Liverpool+Lime+Street+Station",
           "descriptionPt": "A Merseyrail explora as linhas Wirral e Northern, ligando o centro da cidade a Southport, West Kirby, Chester e à península de Wirral. Até dois cães por passageiro viajam gratuitamente, ao critério do revisor, com trela e bem-comportados. Os novos comboios da Classe 777 têm átrios amplos que se adequam a cães de maior porte.",
           "petPolicyPt": "Até 2 cães por passageiro gratuitamente, com trela; ao critério do revisor",
-          "tipPt": "A Wirral Line passa pelo túnel sob o rio; os cães bem-comportados aguentam bem, mas os cães ansiosos podem ter dificuldades. Experimente primeiro a Northern Line, mais lenta."
+          "tipPt": "A Wirral Line passa pelo túnel sob o rio; os cães bem-comportados aguentam bem, mas os cães ansiosos podem ter dificuldades. Experimente primeiro a Northern Line, mais lenta.",
+          "descriptionDe": "Merseyrail betreibt die Wirral- und Northern-Linien, die das Stadtzentrum mit Southport, West Kirby, Chester und der Wirral-Halbinsel verbinden. Bis zu zwei Hunde pro Fahrgast fahren kostenlos nach Ermessen des Schaffners, angeleint und wohlerzogen. Die neuen Class-777-Züge haben breite Vorräume, die größeren Hunden entgegenkommen.",
+          "petPolicyDe": "Bis zu 2 Hunde pro Fahrgast kostenlos, angeleint; Ermessen des Schaffners",
+          "tipDe": "Die Wirral Line führt durch den Untertunnel unter dem Fluss, wohlerzogene Hunde kommen gut zurecht, ängstliche Hunde könnten sich jedoch schwertun. Versuchen Sie zuerst die langsamere Northern Line."
         },
         {
           "name": "Arriva North West Buses",
@@ -446,7 +499,10 @@
           "tipFr": "Utilisez le planificateur de voyage Merseytravel en ligne pour les horaires en temps reel. Le bus 14 pour Sefton Park circule toutes les 10-15 min depuis Liverpool Central.",
           "tipEs": "Usa el planificador de viaje Merseytravel online para los horarios en tiempo real. El autobus 14 a Sefton Park circula cada 10-15 min desde Liverpool Central.",
           "tipPt": "Use o planificador de viagem Merseytravel online para horarios em tempo real. O autocarro 14 para Sefton Park circula a cada 10-15 min a partir de Liverpool Central.",
-          "googleMapsUrl": "https://maps.google.com/?q=Liverpool+bus+station"
+          "googleMapsUrl": "https://maps.google.com/?q=Liverpool+bus+station",
+          "descriptionDe": "Arriva North West betreibt Stadt- und Überlandbuslinien in Liverpool und Merseyside neben Stagecoach Merseyside. Angeleinte Hunde fahren nach Ermessen des Fahrers kostenlos auf allen Arriva-Linien. Die Linien 14 (Stadtzentrum bis Sefton Park), 75 (Stadtzentrum bis Calderstones) und die 86 (Stadtzentrum bis Allerton) sind am nützlichsten, um Freilaufparks zu erreichen. Der Bus ist zu den meisten Zielen langsamer als Merseyrail, erreicht aber Vorstadtparks, die der Zug nicht bedient.",
+          "petPolicyDe": "Hunde kostenlos nach Ermessen des Fahrers, Leine erforderlich",
+          "tipDe": "Nutzen Sie den Merseytravel Journey Planner online für aktuelle Busfahrpläne. Der Bus 14 zum Sefton Park fährt alle 10-15 Minuten ab dem Bahnhof Liverpool Central."
         },
         {
           "name": "Mersey Ferry",
@@ -465,7 +521,10 @@
           "tipFr": "Prenez le ferry jusqu'a Birkenhead Woodside et marchez vers le nord sur le Wirral Way (19 km de sentier cotier, entierement sans laisse, Reserve Naturelle Nationale). Retour en ferry depuis Seacombe pour un circuit de 4 heures.",
           "tipEs": "Toma el ferry a Birkenhead Woodside y camina hacia el norte por el Wirral Way (19 km de camino costero, completamente sin correa, Reserva Natural Nacional). Regresa en ferry desde Seacombe para un circuito de 4 horas.",
           "tipPt": "Apanhe o ferry para Birkenhead Woodside e caminhe para norte pelo Wirral Way (19 km de caminho costeiro, completamente sem trela, Reserva Natural Nacional). Regresse de ferry de Seacombe para um circuito de 4 horas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Liverpool+Pier+Head+Ferry+Terminal"
+          "googleMapsUrl": "https://maps.google.com/?q=Liverpool+Pier+Head+Ferry+Terminal",
+          "descriptionDe": "Die Mersey Ferry verkehrt zwischen Liverpool Pier Head, Birkenhead Woodside und Seacombe (Wallasey). Hunde fahren auf allen Mersey-Fähren-Überfahrten kostenlos. Die Fähre ist ein einzigartiges Liverpool-Erlebnis: Die Überfahrt dauert etwa 15 Minuten, bietet einen hervorragenden Blick auf die Three-Graces-Uferpromenade und verbindet auf der anderen Seite mit dem Hundewanderwegenetz des Wirral Country Park. Auch die ganztägige River-Explorer-Kreuzfahrt nimmt angeleinte Hunde mit.",
+          "petPolicyDe": "Hunde auf allen Mersey-Fähren-Überfahrten und Flusskreuzfahrten kostenlos",
+          "tipDe": "Nehmen Sie die Fähre nach Birkenhead Woodside und gehen Sie nordwärts entlang des Wirral Way (19 km Küstenpfad, vollständig ohne Leine, Naturschutzgebiet). Rückkehr per Fähre ab Seacombe für eine 4-stündige Rundtour."
         }
       ],
       "tipsEn": [
@@ -545,6 +604,22 @@
           "q": "Os táxis aceitam animais em Liverpool?",
           "a": "A maioria aceita, mas fica ao critério do motorista ao abrigo das regras dos táxis da cidade. A reserva prévia através da Delta Taxis ou da Uber Pet é a abordagem mais fiável para cães grandes."
         }
+      ],
+      "titleDe": "Haustierfreundliche Verkehrsmittel in Liverpool",
+      "introDe": "Liverpools Verkehrsangebot wird von Merseytravel betrieben (Busse, die Mersey-Fähren und das Merseyrail-Pendlernetz), der nationale Bahnverkehr wird von Avanti West Coast, TransPennine und Northern bedient. Hunde fahren kostenlos mit Merseyrail und der Mersey-Fähre, in den meisten Bussen Liverpools sowie in nationalen Zügen. Bis zu zwei Hunde pro Fahrgast sind auf nationalen Verbindungen ohne Ticket erlaubt; Diensthunde fahren überall kostenlos.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich ein Ticket für meinen Hund bei Merseyrail?",
+          "a": "Nein. Bis zu zwei Hunde pro Fahrgast fahren kostenlos mit Merseyrail, angeleint und nach Ermessen des Schaffners. Größere Hunde haben es dank der breiteren Vorräume in den neuen Class-777-Zügen leichter."
+        },
+        {
+          "q": "Kann ich meinen Hund auf der Mersey-Fähre mitnehmen?",
+          "a": "Ja, angeleinte Hunde fahren kostenlos auf jeder Mersey-Fähren-Überfahrt, einschließlich der Pendlerfähre und der River Explorer Cruise. Besitzer müssen an Bord aufräumen."
+        },
+        {
+          "q": "Sind Taxis in Liverpool haustierfreundlich?",
+          "a": "Die meisten schon, aber es liegt im Ermessen des Fahrers gemäß den städtischen Vorschriften für Taxis. Vorabbuchung über Delta Taxis oder Uber Pet ist der zuverlässigste Weg für größere Hunde."
+        }
       ]
     },
     "beaches": {
@@ -574,7 +649,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Crosby+Beach+Another+Place",
           "descriptionPt": "A praia de areia larga e plana de Crosby, que acolhe a instalação escultórica 'Another Place' de Antony Gormley, composta por 100 figuras de ferro fundido, aceita cães sem trela durante todo o ano em toda a extensão, do lago marinho até Hightown. A praia é alcançável em 20 minutos a partir de Liverpool Central pela Merseyrail (Northern Line até Waterloo ou Blundellsands).",
           "petPolicyPt": "Sem trela durante todo o ano em toda a extensão da praia",
-          "tipPt": "Verifique sempre as tabelas das marés: Crosby tem uma maré enchente notoriamente rápida e as esculturas Iron Men ficam em águas profundas na preia-mar. Procure ir nas duas horas antes da baixa-mar."
+          "tipPt": "Verifique sempre as tabelas das marés: Crosby tem uma maré enchente notoriamente rápida e as esculturas Iron Men ficam em águas profundas na preia-mar. Procure ir nas duas horas antes da baixa-mar.",
+          "descriptionDe": "Crosbys breiter flacher Sandstrand, Heimat von Antony Gormleys Skulpturen-Installation 'Another Place' mit 100 gusseisernen Figuren, erlaubt Hunden das ganze Jahr über Freilauf auf dem gesamten Abschnitt vom Marine Lake bis Hightown. Der Strand ist in 20 Minuten vom Liverpool Central mit Merseyrail erreichbar (Northern Line nach Waterloo oder Blundellsands).",
+          "petPolicyDe": "Das ganze Jahr über ohne Leine auf der gesamten Strandlänge",
+          "tipDe": "Prüfen Sie immer die Gezeitentabellen, Crosby hat eine berüchtigt schnelle einlaufende Flut, und die Eisenmänner-Skulpturen stehen bei Hochwasser in tiefem Wasser. Zielen Sie auf die zwei Stunden vor Niedrigwasser."
         },
         {
           "name": "Formby Beach (National Trust)",
@@ -595,7 +673,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Formby+Beach+National+Trust",
           "descriptionPt": "Gerida pela National Trust, Formby é uma longa extensão de areia ladeada por dunas dentro de uma reserva natural costeira de 470 acres, 25 minutos a norte de Liverpool pela Merseyrail. Os cães são bem-vindos sem trela na própria praia; nos pinhais, os esquilos-vermelhos são uma espécie protegida, por isso os cães têm de permanecer com trela nos trilhos do interior.",
           "petPolicyPt": "Sem trela na praia; trela obrigatória nos pinhais (reserva de esquilos-vermelhos)",
-          "tipPt": "O parque de estacionamento de Lifeboat Road é a entrada mais próxima da estação de comboios; o parque da National Trust em Victoria Road é maior, mas cobra uma taxa de estacionamento aos não-sócios."
+          "tipPt": "O parque de estacionamento de Lifeboat Road é a entrada mais próxima da estação de comboios; o parque da National Trust em Victoria Road é maior, mas cobra uma taxa de estacionamento aos não-sócios.",
+          "descriptionDe": "Vom National Trust betrieben, ist Formby ein langer, dünenbewachsener Sandabschnitt innerhalb eines 190 Hektar großen Küsten-Naturschutzgebiets, 25 Minuten nördlich von Liverpool mit Merseyrail. Hunde sind am Strand selbst ohne Leine willkommen; in den Kiefernwäldern sind Rote Eichhörnchen eine geschützte Art, daher müssen Hunde auf den Landwegen angeleint bleiben.",
+          "petPolicyDe": "Ohne Leine am Strand; Leinenpflicht in den Kiefernwäldern (Rotes-Eichhörnchen-Reservat)",
+          "tipDe": "Der Parkplatz Lifeboat Road ist der nähere Zugang vom Bahnhof; der National-Trust-Parkplatz an der Victoria Road ist größer, erhebt aber eine Parkgebühr für Nichtmitglieder."
         },
         {
           "name": "New Brighton Beach",
@@ -616,7 +697,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=New+Brighton+Beach+Wirral",
           "descriptionPt": "Uma longa praia de areia do lado de Wirral do estuário do Mersey, a 20 minutos de Liverpool pela Merseyrail (Wirral Line até New Brighton). Os cães são permitidos durante todo o ano na extensão ocidental, desde os Tower Grounds em direção a Wallasey; aplica-se uma proibição sazonal na praia turística central entre 1 de maio e 30 de setembro.",
           "petPolicyPt": "Durante todo o ano na extensão ocidental; proibição sazonal na praia central de 1 de maio a 30 de setembro",
-          "tipPt": "Combine o passeio na New Brighton Beach com um café na esplanada exterior do Light Cinema, ambos pet-friendly e a 5 minutos um do outro na marginal."
+          "tipPt": "Combine o passeio na New Brighton Beach com um café na esplanada exterior do Light Cinema, ambos pet-friendly e a 5 minutos um do outro na marginal.",
+          "descriptionDe": "Ein langer Sandstrand auf der Wirral-Seite der Mersey-Mündung, 20 Minuten von Liverpool mit Merseyrail (Wirral Line nach New Brighton). Hunde sind das ganze Jahr über auf dem westlichen Abschnitt vom Tower Grounds Richtung Wallasey erlaubt; ein saisonales Verbot gilt am zentralen Touristenstrand vom 1. Mai bis 30. September.",
+          "petPolicyDe": "Ganzjährig auf dem westlichen Abschnitt; saisonales Verbot am zentralen Strand 1. Mai–30. Sept",
+          "tipDe": "Kombinieren Sie den Spaziergang am New Brighton Beach mit einem Kaffee auf der Außenterrasse des Light Cinema, beide sind hundefreundlich und 5 Minuten voneinander entfernt an der Uferpromenade."
         }
       ],
       "tipsEn": [
@@ -696,6 +780,22 @@
           "q": "Os cães são permitidos na marginal do Albert Dock em Liverpool?",
           "a": "Sim, os cães com trela são bem-vindos no passeio marítimo e em torno da bacia do Albert Dock. Os cães não são permitidos dentro dos museus (Tate, Beatles Story), exceto os cães de assistência."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Liverpool",
+      "introDe": "Die Mersey-Mündung selbst ist für Hunde nicht zum Schwimmen geeignet, aber die weitere Küste von Merseyside bietet einige der besten Hundestrände Nordwestenglands, in nur 20 Minuten mit Merseyrail erreichbar. Crosby und Formby (Nordküste) sowie New Brighton (Wirral) erlauben Hunde das ganze Jahr über, mit saisonalen Einschränkungen nur an den zentralsten Touristenabschnitten. Prüfen Sie vor einem Spaziergang am Sand der Liverpool Bay immer die Gezeitenzeiten, manche Wattflächen füllen sich schnell.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächstgelegene hundefreundliche Strand zum Stadtzentrum von Liverpool?",
+          "a": "Crosby Beach, 20 Minuten nördlich mit der Merseyrail Northern Line. Das ganze Jahr über ohne Leine am gesamten Strand, mit den berühmten Antony-Gormley-Eisenskulpturen."
+        },
+        {
+          "q": "Kann ich meinen Hund auf Formbys Rotes-Eichhörnchen-Wegen mitnehmen?",
+          "a": "Nur an der Leine. Die Kiefernwälder sind ein geschütztes Rotes-Eichhörnchen-Reservat, verwaltet vom National Trust, Hunde müssen auf den Landwegen angeleint bleiben. Der Strand selbst ist frei von der Leine."
+        },
+        {
+          "q": "Sind Hunde an der Uferpromenade des Liverpool Albert Dock erlaubt?",
+          "a": "Ja, angeleinte Hunde sind an der Uferpromenade und rund um das Albert-Dock-Becken willkommen. Hunde sind in den Museen (Tate, Beatles Story) nicht erlaubt, außer Assistenzhunde."
+        }
       ]
     },
     "vets": {
@@ -722,7 +822,9 @@
           "tipEs": "Si tu perro se pone enfermo en horario laboral entre semana, llama primero al veterinario recomendado por tu hotel: Vets Now se reserva para noches, fines de semana y fuera de horario.",
           "googleMapsUrl": "https://maps.google.com/?q=Vets+Now+Liverpool+Netherton",
           "descriptionPt": "A clínica veterinária de urgência dedicada a horários fora do normal para Merseyside, parte da rede nacional Vets Now. Aberta ao final do dia, durante a noite, aos fins de semana e nos feriados, quando a maioria das clínicas locais se encontra encerrada. Aceita atendimento sem marcação, mas telefone antes para triagem e para confirmar as indicações.",
-          "tipPt": "Se o seu cão estiver doente durante o horário diurno dos dias úteis, telefone primeiro ao veterinário de eleição do seu hotel; a Vets Now fica reservada para noites, fins de semana e horários fora do normal."
+          "tipPt": "Se o seu cão estiver doente durante o horário diurno dos dias úteis, telefone primeiro ao veterinário de eleição do seu hotel; a Vets Now fica reservada para noites, fins de semana e horários fora do normal.",
+          "descriptionDe": "Die dedizierte tierärztliche Notfallklinik außerhalb der regulären Öffnungszeiten für Merseyside, Teil des landesweiten Vets-Now-Netzwerks. Geöffnet abends, über Nacht, an Wochenenden und Feiertagen, wenn die meisten örtlichen Praxen geschlossen sind. Patienten ohne Termin werden angenommen, aber rufen Sie vorher für die Triage und Wegbeschreibung an.",
+          "tipDe": "Ist Ihr Hund tagsüber an Wochentagen unwohl, rufen Sie zuerst den bevorzugten Tierarzt Ihres Hotels an, Vets Now ist für Nächte, Wochenenden und außerhalb der Öffnungszeiten reserviert."
         },
         {
           "name": "Mayfair Veterinary Clinic",
@@ -739,7 +841,9 @@
           "tipEs": "Los huecos sin cita más fiables son a media mañana de martes a jueves: los lunes tras el fin de semana son los días más cargados.",
           "googleMapsUrl": "https://maps.google.com/?q=Mayfair+Veterinary+Clinic+Liverpool",
           "descriptionPt": "Uma clínica de medicina geral independente em Wavertree, bem conhecida dos donos de cães das zonas do Georgian Quarter, do Sefton Park e de Lark Lane. Serviços padrão para animais de pequeno porte, com consultas no próprio dia frequentemente disponíveis, e as chamadas fora de horas são reencaminhadas diretamente para a linha de urgência da Vets Now.",
-          "tipPt": "As consultas sem marcação são mais fiáveis a meio da manhã, de terça a quinta; as segundas-feiras, após o fim de semana, costumam ser o dia mais movimentado."
+          "tipPt": "As consultas sem marcação são mais fiáveis a meio da manhã, de terça a quinta; as segundas-feiras, após o fim de semana, costumam ser o dia mais movimentado.",
+          "descriptionDe": "Eine unabhängige Allgemeinpraxis in Wavertree, bei Hundebesitzern im Georgian Quarter, Sefton Park und Lark Lane gut bekannt. Standard-Kleintierleistungen mit oft verfügbaren Terminen am selben Tag, Anrufe außerhalb der Öffnungszeiten werden direkt an die Notfalllinie von Vets Now weitergeleitet.",
+          "tipDe": "Termine ohne Voranmeldung sind am zuverlässigsten am späten Vormittag Di–Do, Montage nach dem Wochenende sind tendenziell der arbeitsreichste Tag."
         }
       ],
       "tipsEn": [
@@ -819,6 +923,22 @@
           "q": "O meu seguro de animal europeu cobre o tratamento em Liverpool?",
           "a": "Muitas apólices da UE cobrem viagens ao Reino Unido; verifique os termos da sua seguradora quanto à cobertura pós-Brexit. Os veterinários do Reino Unido emitem faturas discriminadas em inglês para reembolso."
         }
+      ],
+      "titleDe": "Notfall-Tierärzte in Liverpool, Tierarztpraxen & Haustierpflege",
+      "introDe": "Liverpool verfügt über ein dichtes Netz allgemeiner Tierarztpraxen, mehrere mit erweiterten Öffnungszeiten, sowie einen regionalen 24-Stunden-Notdienst von Vets Now in Aintree. Die meisten örtlichen Tierärzte leiten nach Feierabend über ihre Empfangstelefone an Vets Now weiter. Das Small Animal Teaching Hospital der University of Liverpool in Neston ist das regionale Überweisungskrankenhaus für komplexe Fälle.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächste 24-Stunden-Notfalltierarzt zum Stadtzentrum von Liverpool?",
+          "a": "Vets Now Liverpool in Netherton, etwa 20 Minuten mit dem Auto nördlich des Stadtzentrums, geöffnet jeden Abend, über Nacht, am Wochenende und an Feiertagen. Telefon +44 151 525 0707."
+        },
+        {
+          "q": "Nehmen Tierärzte in Liverpool Patienten ohne Termin an?",
+          "a": "Die meisten für Notfälle, aber reguläre Termine erfordern eine Buchung. Die Mayfair Veterinary Clinic und die größeren CVS-Group-Praxen haben in der Regel Termine am selben Tag, wenn Sie vor 10:00 Uhr anrufen."
+        },
+        {
+          "q": "Deckt meine europäische Tierkrankenversicherung die Behandlung in Liverpool ab?",
+          "a": "Viele EU-Policen decken Reisen ins Vereinigte Königreich ab, prüfen Sie die Bedingungen Ihres Versicherers hinsichtlich der Regelungen nach dem Brexit. Britische Tierärzte stellen detaillierte englischsprachige Rechnungen zur Erstattung aus."
+        }
       ]
     },
     "tips": {
@@ -837,14 +957,16 @@
           "description": "May to September gives the best park conditions with warm, long days. The Liverpool waterfront is excellent year-round; the Albert Dock promenade is car-free and fully dog-friendly in all weathers. Avoid the August Bank Holiday weekend when the city fills for the Mathew Street Music Festival and accommodation prices spike. October and November are quiet, excellent for Sefton Park leaf season.",
           "descriptionFr": "Mai a septembre donne les meilleures conditions de parc avec des journees chaudes et longues. Le front de mer de Liverpool est excellent toute l'annee ; le promenade de l'Albert Dock est sans voiture et entierement dog-friendly par tous les temps. Evitez le week-end du Bank Holiday d'aout quand la ville se remplit pour le Mathew Street Music Festival. Octobre et novembre sont calmes, excellents pour le feuillage de Sefton Park.",
           "descriptionEs": "Mayo a septiembre da las mejores condiciones de parque con dias calidos y largos. El paseo maritimo de Liverpool es excelente todo el ano; el paseo de Albert Dock es libre de coches y completamente dog-friendly con cualquier tiempo. Evita el fin de semana del Bank Holiday de agosto cuando la ciudad se llena para el Mathew Street Music Festival. Octubre y noviembre estan tranquilos, excelentes para el follaje de Sefton Park.",
-          "descriptionPt": "De maio a setembro tem as melhores condicoes de parque com dias quentes e longos. A frente maritima de Liverpool e excelente durante todo o ano; o passeio de Albert Dock e sem carros e completamente dog-friendly em qualquer tempo. Evite o fim de semana do Bank Holiday de agosto quando a cidade se enche para o Mathew Street Music Festival. Outubro e novembro estao tranquilos, excelentes para a folhagem de Sefton Park."
+          "descriptionPt": "De maio a setembro tem as melhores condicoes de parque com dias quentes e longos. A frente maritima de Liverpool e excelente durante todo o ano; o passeio de Albert Dock e sem carros e completamente dog-friendly em qualquer tempo. Evite o fim de semana do Bank Holiday de agosto quando a cidade se enche para o Mathew Street Music Festival. Outubro e novembro estao tranquilos, excelentes para a folhagem de Sefton Park.",
+          "descriptionDe": "Mai bis September bietet die besten Parkbedingungen mit warmen, langen Tagen. Die Uferpromenade von Liverpool ist ganzjährig hervorragend; die Promenade am Albert Dock ist autofrei und bei jedem Wetter voll hundefreundlich. Vermeiden Sie das August-Bankfeiertagswochenende, wenn sich die Stadt für das Mathew Street Music Festival füllt und die Unterkunftspreise steigen. Oktober und November sind ruhig, hervorragend für die Herbstlaub-Saison im Sefton Park."
         },
         {
           "name": "UK pet-import paperwork (2026)",
           "description": "From the EU: ISO microchip, valid rabies vaccination (21 days min) and a GB Animal Health Certificate (AHC) from an EU official vet within 10 days of arrival. Valid 4 months for return. Tapeworm treatment only for Ireland, Finland, Malta or Norway.",
           "descriptionFr": "De l'UE: puce ISO, vaccin antirabique (21 jours) et AHC par OV de l'UE dans les 10 jours. 4 mois pour retour. Antitenias Irlande, Finlande, Malte, Norvege seulement.",
           "descriptionEs": "De la UE: microchip ISO, vacuna antirrábica (21 dias) y AHC por OV de la UE en 10 dias. 4 meses retorno. Antitenia solo Irlanda, Finlandia, Malta, Noruega.",
-          "descriptionPt": "Da UE: microchip ISO, vacinacao antirabica (21 dias) e AHC por OV da UE nos 10 dias. 4 meses regresso. Anti-tenia so Irlanda, Finlandia, Malta, Noruega."
+          "descriptionPt": "Da UE: microchip ISO, vacinacao antirabica (21 dias) e AHC por OV da UE nos 10 dias. 4 meses regresso. Anti-tenia so Irlanda, Finlandia, Malta, Noruega.",
+          "descriptionDe": "Aus der EU: ISO-Mikrochip, gültige Tollwutimpfung (mindestens 21 Tage) und eine britische Tiergesundheitsbescheinigung (AHC) von einem EU-Amtstierarzt, ausgestellt innerhalb von 10 Tagen vor der Ankunft. Gültig für 4 Monate für die Rückreise. Bandwurmbehandlung nur für Irland, Finnland, Malta oder Norwegen."
         },
         {
           "name": "Walking Liverpool with a dog",
@@ -852,7 +974,8 @@
           "description": "Sefton Park (200 acres, 3 km south of centre, fully off-leash on all grass areas, Palm House dogs on lead only) is the primary Liverpool dog walk and social hub: weekend mornings see hundreds of dogs in the meadow areas. The Albert Dock to Pier Head waterfront circuit (2 km, flat, paved) is the city-centre route. For a longer walk, Calderstones Park (40 acres, formal gardens and meadow, 5 km south, fully off-leash on grass) links to the Allerton and Clarke Gardens trail.",
           "descriptionFr": "Sefton Park (80 ha, 3 km au sud du centre, entierement sans laisse sur toutes les zones herbacees, Palm House chiens en laisse seulement) est la principale promenade canine de Liverpool et son hub social : les matins de week-end voient des centaines de chiens dans les zones de prairie. Le circuit de front de mer d'Albert Dock au Pier Head (2 km, plat, pave) est l'itineraire du centre. Pour une promenade plus longue, Calderstones Park (16 ha, jardins formels et prairie, 5 km au sud, entierement sans laisse sur gazon) relie a la piste Allerton et Clarke Gardens.",
           "descriptionEs": "Sefton Park (80 ha, 3 km al sur del centro, completamente sin correa en todas las areas de cesped, Palm House solo con correa) es el principal paseo canino de Liverpool y su hub social: los domingos por la manana hay cientos de perros en las areas de pradera. El circuito del paseo maritimo de Albert Dock al Pier Head (2 km, llano, pavimentado) es la ruta del centro. Para un paseo mas largo, Calderstones Park (16 ha, jardines formales y pradera, 5 km al sur, completamente sin correa en cesped) conecta con la ruta de Allerton y Clarke Gardens.",
-          "descriptionPt": "Sefton Park (80 ha, 3 km a sul do centro, completamente sem trela em todas as areas de relva, Palm House apenas com trela) e o principal passeio canino de Liverpool e o seu hub social: os domingos de manha ve centenas de caes nas areas de pradaria. O circuito da frente maritima de Albert Dock ao Pier Head (2 km, plano, pavimentado) e a rota do centro da cidade. Para uma caminhada mais longa, Calderstones Park (16 ha, jardins formais e pradaria, 5 km a sul, completamente sem trela na relva) liga a rota de Allerton e Clarke Gardens."
+          "descriptionPt": "Sefton Park (80 ha, 3 km a sul do centro, completamente sem trela em todas as areas de relva, Palm House apenas com trela) e o principal passeio canino de Liverpool e o seu hub social: os domingos de manha ve centenas de caes nas areas de pradaria. O circuito da frente maritima de Albert Dock ao Pier Head (2 km, plano, pavimentado) e a rota do centro da cidade. Para uma caminhada mais longa, Calderstones Park (16 ha, jardins formais e pradaria, 5 km a sul, completamente sem trela na relva) liga a rota de Allerton e Clarke Gardens.",
+          "descriptionDe": "Sefton Park (200 Acres, 3 km südlich vom Zentrum, auf allen Rasenflächen vollständig ohne Leine, im Palm House nur an der Leine) ist der wichtigste Hundespaziergang und soziale Treffpunkt Liverpools: an Wochenendmorgen tummeln sich Hunderte Hunde auf den Wiesenflächen. Die Uferpromenaden-Runde vom Albert Dock zum Pier Head (2 km, flach, asphaltiert) ist die Route im Stadtzentrum. Für einen längeren Spaziergang verbindet der Calderstones Park (40 Acres, formale Gärten und Wiese, 5 km südlich, auf Rasen vollständig ohne Leine) mit dem Wanderweg durch Allerton und die Clarke Gardens."
         }
       ],
       "tipsEn": [
@@ -914,6 +1037,18 @@
           "q": "Posso levar um cao no Mersey Ferry?",
           "a": "Sim, os caes viajam gratuitamente em todas as travessias e cruzeiros do Mersey Ferry. Mantenha o cao com trela no barco. O ferry liga ao Wirral Country Park do outro lado para uma caminhada mais longa."
         }
+      ],
+      "titleDe": "Mit Hund nach Liverpool reisen: Praktische Tipps",
+      "introDe": "Liverpool hat hervorragende Freilaufparks (Sefton Park, Calderstones, Princes Park) in 20 Minuten von der Uferpromenade entfernt, ein einzigartiges Mersey-Fähren-Erlebnis mit Hund und eine echt hundefreundliche Szene aus inhabergeführten Pubs und Cafés im Baltic Triangle und in Lark Lane.",
+      "faqsDe": [
+        {
+          "q": "Ist Liverpool gut für einen hundefreundlichen Wochenendausflug?",
+          "a": "Ja. Sefton Park (200 Acres ohne Leine) und Calderstones sind hervorragend, die Uferpromenaden-Runde am Albert Dock ist flach und hundefreundlich, und die Mersey-Fähre nimmt Hunde kostenlos mit. Avanti-Züge ab London Euston brauchen 2 Std. 10 Min."
+        },
+        {
+          "q": "Kann ich einen Hund auf der Mersey-Fähre mitnehmen?",
+          "a": "Ja, Hunde fahren kostenlos auf allen Mersey-Fähren-Überfahrten und Flusskreuzfahrten. Halten Sie den Hund an der Leine auf dem Boot. Die Fähre verbindet auf der anderen Seite mit dem Wirral Country Park für einen längeren Spaziergang."
+        }
       ]
     },
     "attractions": {
@@ -943,7 +1078,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Royal+Albert+Dock+Liverpool",
           "descriptionPt": "A maior coleção única de edifícios classificados como Grade I do Reino Unido, o Royal Albert Dock combina uma doca em funcionamento com restaurantes, lojas e três museus nacionais. O passeio marítimo e a bacia da doca são inteiramente ao ar livre e acolhem cães com trela; os museus estão limitados apenas a cães de assistência.",
           "petPolicyPt": "Cães bem-vindos com trela no passeio e na bacia da doca; não nos museus",
-          "tipPt": "Faça a volta da doca ao pôr do sol e depois siga para norte ao longo do Pier Head até às Three Graces; o panorama a partir do terminal de ferries é a vista emblemática da cidade."
+          "tipPt": "Faça a volta da doca ao pôr do sol e depois siga para norte ao longo do Pier Head até às Three Graces; o panorama a partir do terminal de ferries é a vista emblemática da cidade.",
+          "descriptionDe": "Die größte einzelne Ansammlung denkmalgeschützter Gebäude (Grade I) im Vereinigten Königreich, das Royal Albert Dock vereint ein Arbeitsdock mit Restaurants, Geschäften und drei nationalen Museen. Die Uferpromenade und das Docksbecken sind vollständig im Freien und heißen angeleinte Hunde willkommen; Museen sind nur für Assistenzhunde zugänglich.",
+          "petPolicyDe": "Hunde an der Leine auf der Dockspromenade und am Becken willkommen; nicht in Museen",
+          "tipDe": "Gehen Sie die Dockrunde bei Sonnenuntergang, dann weiter nordwärts entlang des Pier Head zu den Three Graces, das Panorama vom Fährterminal ist der bekannteste Blick der Stadt."
         },
         {
           "name": "Liverpool Cathedral grounds & St James's Cemetery",
@@ -964,7 +1102,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Liverpool+Cathedral+St+James+Cemetery",
           "descriptionPt": "A 5.ª maior catedral do mundo, erguendo-se sobre o Georgian Quarter com a sua torre de arenito em estilo neogótico. O interior da catedral admite apenas cães de assistência, mas os jardins, o parque encaixado do Cemitério de St James por trás dela e o acesso por Hope Street acolhem cães com trela e têm entrada gratuita.",
           "petPolicyPt": "Cães bem-vindos com trela nos jardins e no parque do Cemitério de St James; interior da catedral apenas para cães de assistência",
-          "tipPt": "Aproxime-se da catedral por Hope Street a partir de Bold Street para percorrer toda a silhueta dos terraços georgianos e depois desça até ao Cemitério de St James para o ângulo mais fotogénico da torre."
+          "tipPt": "Aproxime-se da catedral por Hope Street a partir de Bold Street para percorrer toda a silhueta dos terraços georgianos e depois desça até ao Cemitério de St James para o ângulo mais fotogénico da torre.",
+          "descriptionDe": "Die fünftgrößte Kathedrale der Welt, thront über dem Georgian Quarter mit ihrem gotischen Sandsteinturm im Revival-Stil. Das Kathedraleninnere lässt nur Assistenzhunde zu, aber das Gelände, der versunkene Parkfriedhof St James's Cemetery dahinter und die Anfahrt über die Hope Street sind alle hundefreundlich an der Leine und kostenlos zugänglich.",
+          "petPolicyDe": "Hunde an der Leine willkommen im Gelände und im Parkfriedhof St James's Cemetery; Kathedraleninneres nur Assistenzhunde",
+          "tipDe": "Nähern Sie sich der Kathedrale über die Hope Street von der Bold Street aus, um die gesamte georgianische Häuserfront-Skyline zu erleben, steigen Sie dann hinab in den St James's Cemetery für den fotogensten Blick auf den Turm."
         },
         {
           "name": "Crosby Beach Iron Men trail",
@@ -985,7 +1126,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Crosby+Beach+Another+Place",
           "descriptionPt": "A instalação 'Another Place' de Antony Gormley distribui 100 figuras de ferro fundido ao longo de três quilómetros da praia de Crosby, todas voltadas para o mar. Os cães são bem-vindos sem trela em toda a extensão e as figuras são alcançáveis a pé na baixa-mar; o passeio entre elas demora cerca de uma hora de uma ponta à outra.",
           "petPolicyPt": "Cães bem-vindos sem trela durante todo o ano em toda a extensão da praia",
-          "tipPt": "Planeie a visita para as duas horas antes da baixa-mar, quando as figuras ficam totalmente expostas e o percurso se faz sobre areia seca. Na preia-mar, só é visível a primeira fila junto às dunas."
+          "tipPt": "Planeie a visita para as duas horas antes da baixa-mar, quando as figuras ficam totalmente expostas e o percurso se faz sobre areia seca. Na preia-mar, só é visível a primeira fila junto às dunas.",
+          "descriptionDe": "Antony Gormleys Installation 'Another Place' verteilt 100 gusseiserne Figuren über zwei Meilen von Crosby Beach, alle dem Meer zugewandt. Hunde sind auf der gesamten Strecke ohne Leine willkommen, und die Figuren sind bei Niedrigwasser zu Fuß erreichbar; der Spaziergang zwischen ihnen dauert von Ende zu Ende etwa eine Stunde.",
+          "petPolicyDe": "Hunde das ganze Jahr über ohne Leine auf der gesamten Strandlänge willkommen",
+          "tipDe": "Planen Sie den Besuch für die zwei Stunden vor Niedrigwasser, die Figuren stehen dann vollständig frei und der Weg ist trockener Sand. Bei Hochwasser ist nur die erste Reihe nahe den Dünen sichtbar."
         }
       ],
       "tipsEn": [
@@ -1065,6 +1209,22 @@
           "q": "Os cães são permitidos nas zonas comerciais ao ar livre de Liverpool One?",
           "a": "Sim, os cães com trela são bem-vindos nas passagens ao ar livre de Liverpool One. Cada loja define as suas próprias regras; muitos estabelecimentos independentes aceitam cães no interior, enquanto a maioria das cadeias nacionais se restringe a cães de assistência."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Liverpool",
+      "introDe": "Liverpools bedeutendste Museen (Tate Liverpool, die Beatles Story, das Museum of Liverpool) lassen nur Assistenzhunde zu, aber die UNESCO-gelistete Uferpromenade der Stadt und das Georgian Quarter sind sehr gut angeleint begehbar. Das Albert Dock, der Pier Head und das Gelände der Liverpool Cathedral bilden eine Halbtagesrunde, die die wichtigsten visuellen Wahrzeichen der Stadt erfasst. Nachfolgend drei Freiluft-Highlights, an denen Haustiere willkommen sind.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde in die Tate Liverpool oder die Beatles Story?",
+          "a": "Nein, nur Assistenzhunde werden zugelassen. Planen Sie einen Sitter oder teilen Sie den Besuch mit Reisebegleitern; beide Museen liegen an der hundefreundlichen Uferpromenade des Albert Dock für eine Wartezeit im Freien."
+        },
+        {
+          "q": "Was ist der beste hundefreundliche Freiluft-Tagesplan für Liverpool?",
+          "a": "Beginnen Sie am Royal Albert Dock und Pier Head, gehen Sie südlich entlang der Mersey zum Baltic Triangle für ein Pub-Mittagessen, nehmen Sie dann die Mersey-Fähre nach New Brighton für einen Strandspaziergang am Nachmittag."
+        },
+        {
+          "q": "Sind Hunde beim Einkaufszentrum Liverpool One im Freien erlaubt?",
+          "a": "Ja, angeleinte Hunde sind auf den Außenwegen von Liverpool One willkommen. Einzelne Geschäfte legen eigene Regeln fest; viele Inhabergeführte erlauben Hunde drinnen, die meisten nationalen Ketten beschränken sich auf Assistenzhunde."
+        }
       ]
     },
     "petsitting": {
@@ -1087,7 +1247,9 @@
           "tipFr": "Réservez au moins 48 heures à l'avance l'été, les sitters du Georgian Quarter et autour de Sefton Park sont les premiers complets en juillet-août.",
           "tipEs": "Reserva al menos 48 horas antes en verano: los cuidadores del Georgian Quarter y alrededor de Sefton Park son los primeros en llenarse en julio y agosto.",
           "descriptionPt": "O maior mercado verificado de cuidadores de animais do Reino Unido, com várias centenas de reservas em Liverpool e classificações médias acima de 4,9 em 5. Oferece visitas pontuais, creche de dia inteiro, passeios de cães e alojamento durante a noite, tudo reservável em inglês e segurado através da plataforma.",
-          "tipPt": "Reserve com pelo menos 48 horas de antecedência no verão; os cuidadores do Georgian Quarter e em torno do Sefton Park são os primeiros a esgotar em julho e agosto."
+          "tipPt": "Reserve com pelo menos 48 horas de antecedência no verão; os cuidadores do Georgian Quarter e em torno do Sefton Park são os primeiros a esgotar em julho e agosto.",
+          "descriptionDe": "Der größte verifizierte Haustierbetreuungs-Marktplatz im Vereinigten Königreich, mit mehreren hundert Buchungen in Liverpool und Durchschnittsbewertungen über 4,9 von 5. Bietet Kurzbesuche, Ganztagesbetreuung, Gassi-Service und Übernachtungsbetreuung, alle auf Englisch buchbar und über die Plattform versichert.",
+          "tipDe": "Buchen Sie im Sommer mindestens 48 Stunden im Voraus, Betreuer im Georgian Quarter und rund um den Sefton Park sind im Juli und August zuerst ausgebucht."
         },
         {
           "name": "Tailster Liverpool",
@@ -1102,7 +1264,9 @@
           "tip": "Use the in-app chat to confirm the sitter's walks pass through the main off-leash parks in Liverpool.",
           "tipFr": "Utilisez le chat de l'app pour confirmer que les promenades du sitter passent par les principaux parcs sans laisse de Liverpool.",
           "tipEs": "Usa el chat de la app para confirmar que los paseos del cuidador pasan por los principales parques sin correa de Liverpool.",
-          "tipPt": "Use o chat da aplicacao para confirmar que os passeios do cuidador passam pelos principais parques sem trela de Liverpool."
+          "tipPt": "Use o chat da aplicacao para confirmar que os passeios do cuidador passam pelos principais parques sem trela de Liverpool.",
+          "descriptionDe": "Reine UK-Plattform mit 24/7-Tierarzt-Hotline bei jeder Buchung inklusive. Verifizierte Betreuer in ganz Liverpool, alle mit polizeilichem Führungszeugnis (DBS) überprüft. Durchschnittlich 20-30 GBP pro Tag für Übernachtungsbetreuung, 14-16 GBP für einen 30-minütigen Kurzbesuch. Starke Präsenz in Aigburth, Mossley Hill und Wavertree.",
+          "tipDe": "Nutzen Sie den In-App-Chat, um zu bestätigen, dass die Spaziergänge des Betreuers durch die wichtigsten Freilaufparks in Liverpool führen."
         }
       ],
       "tipsEn": [
@@ -1181,6 +1345,22 @@
         {
           "q": "Os passeadores de cães são regulados em Liverpool?",
           "a": "A Câmara Municipal de Liverpool exige que os passeadores de cães profissionais tenham seguro e que limitem os passeios a um máximo de 4 cães por pessoa nos parques da cidade. Os cuidadores da Rover e da Tailster estão segurados através das respetivas plataformas."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Liverpool",
+      "introDe": "Liverpool verfügt über eine gut entwickelte Haustierpflege-Branche, mit sowohl landesweiten Plattformen als auch gut vertretenen örtlichen Gassi-Unternehmen. Rover.co.uk ist die führende Buchungsplattform mit Hunderten verifizierter Betreuer in ganz Merseyside, und Tailster ist eine starke Alternative für Übernachtungsbetreuung. Örtliche unabhängige Gassi-Geher konzentrieren sich in Aigburth, Wavertree und im Georgian Quarter nahe dem Sefton Park.",
+      "faqsDe": [
+        {
+          "q": "Wo finde ich einen Hundesitter in Liverpool für ein paar Stunden?",
+          "a": "Rover.co.uk ist der Standard. Filtern Sie nach 'Kurzbesuche' oder 'Gassi gehen' und wählen Sie einen Betreuer mit mindestens 20 Bewertungen, Durchschnittsbewertungen über 4,9 sind in dieser Stadt üblich."
+        },
+        {
+          "q": "Bieten Hotels in Liverpool Haustierbetreuung auf Anfrage an?",
+          "a": "Einige Luxushotels (insbesondere das Titanic Hotel Liverpool und 30 James Street) können über die Rezeption gegen Aufpreis einen Sitter vermitteln. Immer bei der Buchung bestätigen."
+        },
+        {
+          "q": "Sind Gassi-Geher in Liverpool reguliert?",
+          "a": "Der Stadtrat von Liverpool verlangt, dass professionelle Gassi-Geher versichert sind und Spaziergänge in Stadtparks auf maximal 4 Hunde pro Person begrenzen. Betreuer von Rover und Tailster sind über die jeweilige Plattform versichert."
         }
       ]
     }

@@ -1,4 +1,10 @@
-{"slug":"cap-ferret","name":"Cap Ferret","country":"France","flag":"🇫🇷","lastUpdated":"2026-06-21","guides":{
+{
+  "slug": "cap-ferret",
+  "name": "Cap Ferret",
+  "country": "France",
+  "flag": "🇫🇷",
+  "lastUpdated": "2026-06-21",
+  "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Cap Ferret",
       "titleFr": "Restaurants acceptant les animaux au Cap Ferret",
@@ -32,7 +38,11 @@
           "tipFr": "Venez à marée basse pour la plus belle vue sur les parcs à huîtres. Prévoyez du liquide, les petites cabanes n'acceptent pas toujours la carte",
           "tipEs": "Ve con marea baja para la mejor vista sobre los parques ostrícolas. Lleva efectivo, las cabañas pequeñas no siempre aceptan tarjeta",
           "tipPt": "Vá na maré baixa para a melhor vista sobre os viveiros de ostras. Leve dinheiro, as cabanas pequenas nem sempre aceitam cartão",
-          "googleMapsUrl": "https://maps.google.com/?q=Cabane+24+Piraillan+Lege+Cap+Ferret"
+          "googleMapsUrl": "https://maps.google.com/?q=Cabane+24+Piraillan+Lege+Cap+Ferret",
+          "descriptionDe": "Eine klassische Austernhütte im ruhigen Hafen von Piraillan, serviert frisch geöffnete Austern, rosa und graue Garnelen, Wellhornschnecken und Strandschnecken mit einem Glas kaltem Weißwein. Es ist einer der ausdrücklich hundefreundlichsten Orte der Halbinsel, Hunde jeder Größe werden kostenlos akzeptiert, und bei Ankunft wird ein Wassernapf angeboten.",
+          "petPolicyDe": "Hunde jeder Größe auf der Terrasse willkommen, Wassernapf wird angeboten",
+          "mustTryDe": "Austernplatte, graue Garnelen, lokaler Weißwein",
+          "tipDe": "Bei Ebbe kommen für den besten Blick über die Austernbänke. Bargeld mitbringen, kleine Hütten nehmen nicht immer Karten"
         },
         {
           "name": "Le Port d'Attache",
@@ -57,7 +67,11 @@
           "tipFr": "Réservez une table en terrasse pour le coucher de soleil sur le Bassin en été. C'est la place la plus convoitée",
           "tipEs": "Reserva una mesa en la terraza para la puesta de sol sobre el Bassin en verano. Es el sitio más solicitado",
           "tipPt": "Reserve uma mesa na esplanada para o pôr do sol sobre a baía no verão. É o lugar mais disputado",
-          "googleMapsUrl": "https://maps.google.com/?q=Le+Port+d+Attache+Claouey+Lege+Cap+Ferret"
+          "googleMapsUrl": "https://maps.google.com/?q=Le+Port+d+Attache+Claouey+Lege+Cap+Ferret",
+          "descriptionDe": "Ein Sitzrestaurant in Claouey mit dem Gütesiegel Maître Restaurateur, mit einer Terrasse mit Blick auf das Bassin und einer traditionellen französischen Karte aus saisonalen regionalen Produkten. Hunde sind willkommen, und Rezensionen berichten regelmäßig von entspannten Mahlzeiten dort mit Haustier.",
+          "petPolicyDe": "Hunde willkommen, Terrasse und Innenbereich",
+          "mustTryDe": "Traditionelle Karte, frischer saisonaler Fisch",
+          "tipDe": "Im Sommer einen Terrassentisch für den Sonnenuntergang über dem Bassin reservieren. Es ist der begehrteste Platz"
         },
         {
           "name": "Emile et une Huître",
@@ -82,7 +96,11 @@
           "tipFr": "Associez le repas à une balade tranquille dans les ruelles du village de L'Herbe et devant la Chapelle Algérienne",
           "tipEs": "Combina la comida con un paseo tranquilo por las callejuelas del pueblo de L'Herbe y junto a la Chapelle Algérienne",
           "tipPt": "Combine a refeição com um passeio tranquilo pelas ruelas da aldeia de L'Herbe e junto à Chapelle Algérienne",
-          "googleMapsUrl": "https://maps.google.com/?q=Emile+et+une+Huitre+L+Herbe+Lege+Cap+Ferret"
+          "googleMapsUrl": "https://maps.google.com/?q=Emile+et+une+Huitre+L+Herbe+Lege+Cap+Ferret",
+          "descriptionDe": "Eine Austernhütte im historischen, autofreien Dorf L'Herbe, mit bunter Freiluftterrasse direkt am Wasser und der berühmten Chapelle Algérienne nur wenige Schritte entfernt. Wie die meisten Uferhütten von L'Herbe verfügt sie über eine Außenterrasse, auf der angeleinte Hunde im Allgemeinen willkommen sind, wobei sich eine kurze Nachfrage vor dem Hinsetzen lohnt.",
+          "petPolicyDe": "Angeleinte Hunde auf der Außenterrasse im Allgemeinen willkommen, zuerst fragen",
+          "mustTryDe": "Austern aus L'Herbe, Meeresfrüchteplatte",
+          "tipDe": "Das Essen mit einem gemütlichen Spaziergang durch die Gassen von L'Herbe und an der Chapelle Algérienne vorbei verbinden"
         }
       ],
       "tipsEn": [
@@ -160,6 +178,22 @@
           "q": "As cabanas de Cap Ferret aceitam cartão?",
           "a": "Nem sempre. Muitas cabanas ostreícolas pequenas só aceitam dinheiro, sobretudo fora da época alta. Leve euros em dinheiro por precaução."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Cap Ferret",
+      "introDe": "Das Essen in Cap Ferret dreht sich um die Freiluftterrasse und die Austernhütte, was es zu einem naturgemäß entspannten Ort macht, um mit Hund zu essen. In den Austerndörfern L'Herbe, Le Canon und Piraillan sind angeleinte Hunde ein gewohnter Anblick auf den hölzernen Uferterrassen, wo man Austern und graue Garnelen mit Blick auf das Bassin genießt. Halten Sie Ihren Hund stets an der Leine, fragen Sie vor dem Hinsetzen nach, und meiden Sie im Juli und August die Hauptbetriebszeiten, wenn die Terrassen sich rasch füllen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in den Restaurants von Cap Ferret erlaubt?",
+          "a": "Auf Terrassen im Allgemeinen ja. Die Kultur der Freiluft-Austernhütten in L'Herbe, Le Canon und Piraillan bedeutet, dass angeleinte Hunde auf Außenterrassen häufig willkommen sind. Vor dem Hinsetzen immer nachfragen, da die Regelung im Ermessen jedes Betreibers liegt."
+        },
+        {
+          "q": "Wo finden sich die besten hundefreundlichen Plätze in Cap Ferret?",
+          "a": "Die Austernhütten von L'Herbe und Piraillan sind am entspanntesten für Hunde. Cabane 24 in Piraillan heißt Hunde ausdrücklich willkommen, und Le Port d'Attache in Claouey ist eine komfortable Sitzoption mit Hundeerlaubnis."
+        },
+        {
+          "q": "Akzeptieren die Hütten von Cap Ferret Karten?",
+          "a": "Nicht immer. Viele kleine Austernhütten sind, besonders außerhalb der Hochsaison, nur mit Bargeld zu bezahlen. Sicherheitshalber Euro in bar mitführen."
+        }
       ]
     },
     "parks": {
@@ -190,7 +224,10 @@
           "tipFr": "Louez un vélo avec panier ou remorque pour chien à Claouey ou au Canon pour parcourir plus de distance à l'ombre",
           "tipEs": "Alquila una bici con cesta o remolque para perro en Claouey o Le Canon para cubrir más distancia a la sombra",
           "tipPt": "Alugue uma bicicleta com cesto ou atrelado para cão em Claouey ou Le Canon para cobrir mais distância à sombra",
-          "googleMapsUrl": "https://maps.google.com/?q=pistes+cyclables+Lege+Cap+Ferret"
+          "googleMapsUrl": "https://maps.google.com/?q=pistes+cyclables+Lege+Cap+Ferret",
+          "descriptionDe": "Ein Netz schattiger Kiefernwald-Rad- und Wanderwege verläuft über die gesamte Länge der Halbinsel, verbindet die Austerndörfer, die Uferpromenade des Bassins und die Ozeanseite, mit farblich markierten Routen (grün für Wald, gelb für Strandzugang). Angeleinte Hunde sind überall willkommen, was dies zur alltäglichen Alternative zu den für Hunde gesperrten Stränden macht.",
+          "offLeashAreaDe": "Keine. Hunde müssen auf der gesamten Halbinsel angeleint bleiben",
+          "tipDe": "In Claouey oder Le Canon ein Fahrrad mit Hundekorb oder Anhänger mieten, um im Schatten mehr Strecke zurückzulegen"
         },
         {
           "name": "Boucle de la Pointe aux Chevaux",
@@ -210,7 +247,10 @@
           "tipFr": "Faites-la à marée basse pour les plus belles vues, et emportez de l'eau car l'ombre est rare sur les portions dégagées",
           "tipEs": "Recórrelo con marea baja para las mejores vistas, y lleva agua porque la sombra es escasa en los tramos abiertos",
           "tipPt": "Faça-o na maré baixa para as melhores vistas, e leve água pois a sombra é escassa nos troços abertos",
-          "googleMapsUrl": "https://maps.google.com/?q=Pointe+aux+Chevaux+Lege+Cap+Ferret"
+          "googleMapsUrl": "https://maps.google.com/?q=Pointe+aux+Chevaux+Lege+Cap+Ferret",
+          "descriptionDe": "Eine einfache, ausgeschilderte 11 km lange Runde (etwa 3 Stunden 15 Minuten) ab der Avenue de la Pointe aux Chevaux, die durch Kiefernwald, den Rand des Ozeanstrands, die Naturreservoire von Piraillan und den Austernhafen führt. Hunde sind entlang der Route an der Leine willkommen, die im geschützten Abschnitt der Reservoire von Piraillan verpflichtend ist, wo Reiher und Kormorane nisten.",
+          "offLeashAreaDe": "Keine. Leinenpflicht verpflichtend, streng in der Vogelschutzzone der Reservoire von Piraillan",
+          "tipDe": "Bei Ebbe gehen für die besten Ausblicke, und Wasser mitbringen, da der Schatten auf den offenen Abschnitten spärlich ist"
         },
         {
           "name": "Réservoirs de Piraillan",
@@ -230,7 +270,10 @@
           "tipFr": "Venez tôt le matin pour l'observation la plus calme et les températures les plus fraîches avec votre chien",
           "tipEs": "Ve a primera hora para la observación más tranquila y las temperaturas más frescas con tu perro",
           "tipPt": "Vá de manhã cedo para a observação mais calma e as temperaturas mais frescas com o seu cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Reservoirs+de+Piraillan+Lege+Cap+Ferret"
+          "googleMapsUrl": "https://maps.google.com/?q=Reservoirs+de+Piraillan+Lege+Cap+Ferret",
+          "descriptionDe": "Eine ruhige Ansammlung ehemaliger Salzreservoire nahe Piraillan, heute ein kleines geschütztes Feuchtgebiet, durchzogen von schattigen, bei Vogelbeobachtern beliebten Fußwegen. Angeleinte Hunde dürfen die Wege begehen, doch die Leinenpflicht wird hier streng zum Schutz nistender Reiher und Kormorane durchgesetzt, und man muss auf dem markierten Weg bleiben.",
+          "offLeashAreaDe": "Keine. Strenge Leinenpflicht-Zone, auf dem markierten Weg bleiben",
+          "tipDe": "Früh morgens gehen für die ruhigste Vogelbeobachtung und die kühlsten Temperaturen mit Ihrem Hund"
         }
       ],
       "tipsEn": [
@@ -307,6 +350,22 @@
         {
           "q": "Há passeios com sombra para os dias quentes de verão?",
           "a": "Sim. Os trilhos de pinhal das Landes têm sombra e são muito mais frescos do que as ciclovias abertas ou as praias. Passeie de manhã cedo ou ao fim do dia e leve água para o seu cão em julho e agosto."
+        }
+      ],
+      "titleDe": "Gassirunden & Naturpfade in Cap Ferret",
+      "introDe": "Cap Ferret ist eine schmale, kiefernbewachsene Halbinsel zwischen dem ruhigen Bassin d'Arcachon und dem wilden Atlantik, und während die Strände für Hunde tabu sind, gilt das nicht für den Wald. Kilometerlange schattige Kiefernwaldpfade und Radwege durchziehen die Landzunge, verbinden die Austerndörfer und die Uferpromenade des Bassins, und angeleinte Hunde sind auf allen willkommen. Halten Sie Ihren Hund stets an der Leine, führen Sie im Sommer Wasser mit (auf den Radwegen gibt es mittags kaum Schatten), und bleiben Sie auf markierten Wegen, um die Dünen und Vogelschutzzonen zu schützen.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich meinen Hund in Cap Ferret ausführen?",
+          "a": "Auf den Kiefernwaldpfaden und Radwegen, die die Halbinsel durchqueren, sowie entlang der Uferpromenade des Bassins, alle für angeleinte Hunde offen. Die Runde Pointe aux Chevaux und die Wege der Reservoire von Piraillan sind die am besten ausgeschilderten Spaziergänge. Die Strände selbst sind ganzjährig für Hunde gesperrt."
+        },
+        {
+          "q": "Dürfen Hunde in Cap Ferret ohne Leine laufen?",
+          "a": "Nein. Hunde müssen überall auf der Halbinsel angeleint sein, und die Leinenpflicht wird in der geschützten Vogelschutzzone der Reservoire von Piraillan streng durchgesetzt. Es gibt keine offiziellen Zonen ohne Leine auf der Landzunge."
+        },
+        {
+          "q": "Gibt es schattige Wege für heiße Sommertage?",
+          "a": "Ja. Die Kiefernwaldpfade sind schattig und deutlich kühler als die offenen Radwege oder Strände. Früh morgens oder abends spazieren gehen und im Juli und August Wasser für Ihren Hund mitführen."
         }
       ]
     },
@@ -444,6 +503,22 @@
           "q": "É fácil circular em Cap Ferret com um cão sem carro?",
           "a": "Sim. A península é plana e compacta, e as ciclovias sombreadas e os trilhos das aldeias estão todos abertos a cães à trela. Alugar uma bicicleta com cesto ou atrelado para cão é o mais fácil no verão e evita o aperto do estacionamento."
         }
+      ],
+      "titleDe": "Mit Haustieren unterwegs in Cap Ferret",
+      "introDe": "Cap Ferret ist eine schmale Halbinsel, erreichbar mit dem Auto von Bordeaux, mit der saisonalen Passagierfähre über das Bassin von Arcachon aus, oder mit der kleinen Touristenbahn, die im Sommer die Landzunge durchquert. Für Hundehalter ist die gute Nachricht einfach: Die Fähre von Arcachon nimmt angeleinte Hunde gegen eine kleine Gebühr mit, und die gesamte Halbinsel ist zu Fuß und mit dem Fahrrad erschließbar. Das größte Sommerproblem ist das Auto, da Parkplätze an den Ozeanstränden wie Grand Crohot im Juli und August bereits am frühen Nachmittag überfüllt sind.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf der Fähre von Arcachon nach Cap Ferret mitnehmen?",
+          "a": "Ja. Die UBA-Passagierfähre befördert Hunde und Katzen für 2 EUR auf der etwa 30-minütigen Überfahrt. Hunde müssen angeleint und unter Kontrolle sein, und Katzen müssen in einer geschlossenen Transportbox reisen. Haustiere sind auf den Essens-, Angel- oder Feuerwerksfahrten nicht erlaubt."
+        },
+        {
+          "q": "Sind Hunde im Petit Train du Cap-Ferret erlaubt?",
+          "a": "Nur kleine Hunde, die auf dem Schoß gehalten werden können, werden akzeptiert, und dies sollte bei der Buchung dem Betreiber mitgeteilt werden. Der Zug fährt täglich vom 15. Juni bis 30. September zwischen Jetée Bélisaire und Plage de l'Horizon. Die Regelung direkt bei der Reservierung bestätigen lassen."
+        },
+        {
+          "q": "Ist es einfach, sich in Cap Ferret mit Hund ohne Auto fortzubewegen?",
+          "a": "Ja. Die Halbinsel ist flach und kompakt, und die schattigen Radwege sowie Dorfpfade sind alle für angeleinte Hunde geöffnet. Ein Fahrrad mit Hundekorb oder Anhänger zu mieten ist im Sommer die einfachste Fortbewegungsart und vermeidet das Parkchaos."
+        }
       ]
     },
     "beaches": {
@@ -526,6 +601,18 @@
           "q": "Onde fica a praia dog-friendly mais próxima de Cap Ferret?",
           "a": "A Plage de la Salie Sud, cerca de 20 km a sul perto de La Teste-de-Buch, aceita cães à trela todo o ano. Le Porge, cerca de 30 km a norte, é outra praia oceânica dog-friendly todo o ano. Os cães também são permitidos na própria Dune du Pilat à trela, embora não na praia da sua base."
         }
+      ],
+      "titleDe": "Hunderegeln an den Stränden von Cap Ferret",
+      "introDe": "Dies ist das eine, das jeder Hundehalter wissen muss, bevor er Cap Ferret für einen Strandsommer bucht: Hunde sind an jedem Strand der Gemeinde ganzjährig verboten, an beiden Küsten. Das betrifft die ruhigen Strände am Bassin wie Le Mimbeau, L'Herbe, Le Canon, Bélisaire und Les Américains ebenso wie die wilden Atlantik-Ozeanstrände von Grand Crohot, Le Truc Vert und Plage de l'Horizon. Das Verbot ist vollständig und nicht saisonal, daher liegt der Trick darin, die Strandtage an den hundefreundlichen Abschnitten weiter oben oder unten an der Küste zu planen und die Waldpfade der Halbinsel für alles Übrige zu nutzen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund an den Strand von Cap Ferret mitnehmen?",
+          "a": "Nein. Hunde sind an jedem Strand der Gemeinde Lège-Cap-Ferret ganzjährig formell verboten, sowohl auf der ruhigen Bassin-Seite (Le Mimbeau, L'Herbe, Le Canon) als auch auf der Atlantik-Ozeanseite (Grand Crohot, Le Truc Vert, Horizon), ob angeleint oder nicht. Es gibt keine Ausnahme früh morgens oder außerhalb der Saison."
+        },
+        {
+          "q": "Wo ist der nächste hundefreundliche Strand bei Cap Ferret?",
+          "a": "Plage de la Salie Sud, etwa 20 km südlich bei La Teste-de-Buch, heißt angeleinte Hunde ganzjährig willkommen. Le Porge, etwa 30 km nördlich, ist ein weiterer ganzjährig hundefreundlicher Ozeanstrand. Hunde sind an der Leine auch auf der Dune du Pilat selbst erlaubt, jedoch nicht am Strand an ihrem Fuß."
+        }
       ]
     },
     "vets": {
@@ -562,7 +649,9 @@
           "hoursEs": "Lun-Vie 08:45-12:30 y 15:00-19:00, Sáb 09:00-12:15. Con cita previa",
           "hoursPt": "Seg-Sex 08:45-12:30 e 15:00-19:00, Sáb 09:00-12:15. Por marcação",
           "englishSpeaking": false,
-          "languages": ["French"],
+          "languages": [
+            "French"
+          ],
           "website": "https://www.vetestey.fr/clinique-veterinaire-claouey-lege-cap-ferret/",
           "description": "The only veterinary clinic actually on the Cap Ferret peninsula, in Claouey, equipped with digital radiography, ultrasound, a lab and a surgery. It handles urgent cases during the day and joins the Arcachon-basin on-call rota out of hours, referring serious cases to the Bordeaux emergency hospital.",
           "descriptionFr": "La seule clinique vétérinaire réellement sur la presqu'île du Cap Ferret, à Claouey, équipée de radiographie numérique, échographie, laboratoire et bloc chirurgical. Elle prend en charge les urgences en journée et assure la garde du bassin d'Arcachon en dehors des heures, orientant les cas graves vers l'hôpital d'urgence de Bordeaux.",
@@ -573,7 +662,10 @@
           "tipEs": "Es la única clínica de la península, así que llama antes. En una urgencia de noche o fin de semana puede que te deriven al otro lado de la bahía.",
           "tipPt": "É a única clínica da península, por isso ligue antes. Numa urgência à noite ou ao fim de semana pode ser encaminhado para o outro lado da baía.",
           "googleMapsUrl": "https://maps.google.com/?q=Vet+Estey+Claouey+Lege+Cap+Ferret",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo-Fr 08:45-12:30 & 15:00-19:00, Sa 09:00-12:15. Nach Terminvereinbarung",
+          "descriptionDe": "Die einzige Tierklinik tatsächlich auf der Halbinsel Cap Ferret, in Claouey, ausgestattet mit digitaler Radiografie, Ultraschall, einem Labor und einem Operationssaal. Sie behandelt tagsüber dringende Fälle und schließt sich außerhalb der Öffnungszeiten dem Bereitschaftsdienst des Bassin d'Arcachon an, wobei schwere Fälle an das Notfallkrankenhaus in Bordeaux überwiesen werden.",
+          "tipDe": "Es ist die einzige Klinik auf der Halbinsel, daher vorab anrufen. Bei einem Notfall nachts oder am Wochenende können Sie jenseits der Bucht weitergeleitet werden."
         },
         {
           "name": "Clinique Vétérinaire de l'Hippocampe",
@@ -585,7 +677,9 @@
           "hoursEs": "Lun-Vie 08:30-12:00 y 14:00-19:00, Sáb 08:30-12:00 y 14:00-17:00. Con cita previa",
           "hoursPt": "Seg-Sex 08:30-12:00 e 14:00-19:00, Sáb 08:30-12:00 e 14:00-17:00. Por marcação",
           "englishSpeaking": false,
-          "languages": ["French"],
+          "languages": [
+            "French"
+          ],
           "website": "https://www.vetolateste.com/",
           "description": "The nearest clinic across the bay from the peninsula, in La Teste-de-Buch, and a member of the Arcachon-basin on-call emergency service. A practical first stop for a non-emergency consultation, vaccination top-up or travel paperwork if you are staying on the south side of the Bassin.",
           "descriptionFr": "La clinique la plus proche de l'autre côté du Bassin, à La Teste-de-Buch, membre du service de garde du bassin d'Arcachon. Un point de chute pratique pour une consultation non urgente, un rappel de vaccin ou des papiers de voyage si vous logez au sud du Bassin.",
@@ -596,7 +690,10 @@
           "tipEs": "Llama antes para una cita. Forma parte de la guardia regional, útil de saber si Vet'Estey en Claouey está completo.",
           "tipPt": "Ligue com antecedência para uma marcação. Faz parte da escala regional, útil de saber se a Vet'Estey em Claouey estiver cheia.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+Hippocampe+La+Teste+de+Buch",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo-Fr 08:30-12:00 & 14:00-19:00, Sa 08:30-12:00 & 14:00-17:00. Nach Terminvereinbarung",
+          "descriptionDe": "Die nächstgelegene Klinik jenseits der Bucht von der Halbinsel, in La Teste-de-Buch, und Mitglied des Bereitschaftsdienstes des Bassin d'Arcachon. Ein praktischer erster Anlaufpunkt für eine nicht dringende Beratung, eine Auffrischungsimpfung oder Reisepapiere, wenn Sie auf der Südseite des Bassins wohnen.",
+          "tipDe": "Vorab für einen Termin anrufen. Sie ist Teil des regionalen Bereitschaftsdienstes, nützlich zu wissen, falls Vet'Estey in Claouey ausgebucht ist."
         },
         {
           "name": "CHV AniCura Aquivet",
@@ -608,7 +705,9 @@
           "hoursEs": "Urgencias 24/7. Consultas especializadas Lun-Vie ~08:00-19:00, Sáb 08:00-12:00",
           "hoursPt": "Urgências 24/7. Consultas de especialidade Seg-Sex ~08:00-19:00, Sáb 08:00-12:00",
           "englishSpeaking": false,
-          "languages": ["French"],
+          "languages": [
+            "French"
+          ],
           "website": "https://www.anicura.fr/cliniques/chv-aquivet/",
           "description": "The nearest full 24-hour veterinary hospital, in Mérignac on the edge of Bordeaux, and the referral centre the Cap Ferret clinics use for serious overnight emergencies. It is roughly an hour and a quarter drive from the peninsula but is the real around-the-clock option for trauma or critical cases.",
           "descriptionFr": "Le plus proche véritable hôpital vétérinaire 24h/24, à Mérignac en bordure de Bordeaux, et le centre de référence vers lequel les cliniques du Cap Ferret orientent les urgences nocturnes graves. Il est à environ 1h15 de route de la presqu'île mais c'est la vraie option 24h/24 pour un traumatisme ou un cas critique.",
@@ -619,7 +718,10 @@
           "tipEs": "Guarda este número antes del viaje y llama antes de ir. Para una urgencia de noche o fin de semana en la península, es el hospital al que probablemente te enviarán.",
           "tipPt": "Guarde este número antes da viagem e ligue antes de ir. Para uma urgência à noite ou ao fim de semana na península, é o hospital para onde provavelmente será enviado.",
           "googleMapsUrl": "https://maps.google.com/?q=CHV+Aquivet+Merignac",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Notfall 24/7. Facharztberatung Mo-Fr ca. 08:00-19:00, Sa 08:00-12:00",
+          "descriptionDe": "Das nächste vollständige 24-Stunden-Tierkrankenhaus, in Mérignac am Rande von Bordeaux, und das Überweisungszentrum, das die Kliniken von Cap Ferret für schwere nächtliche Notfälle nutzen. Es liegt etwa eine Stunde und eine Viertelstunde Fahrt von der Halbinsel entfernt, ist aber die echte rund um die Uhr verfügbare Option für Trauma- oder kritische Fälle.",
+          "tipDe": "Diese Nummer vor der Reise speichern und vorab anrufen. Für Notfälle nachts oder am Wochenende auf der Halbinsel werden Sie wahrscheinlich in dieses Krankenhaus geschickt."
         }
       ],
       "faqsEn": [
@@ -660,6 +762,18 @@
         {
           "q": "Onde fica o veterinário de urgência 24 horas mais próximo de Cap Ferret?",
           "a": "O CHV AniCura Aquivet em Mérignac, perto de Bordéus (+33 5 56 95 01 01), é o hospital veterinário 24/7 verdadeiro mais próximo, a cerca de 1h15 de carro. A linha nacional 3115 também o encaminha para o veterinário de serviço da zona. Ligue sempre com antecedência numa urgência."
+        }
+      ],
+      "titleDe": "Notfalltierärzte in Cap Ferret, Tierkliniken & Haustierbetreuung",
+      "introDe": "Die Halbinsel Cap Ferret verfügt über eine eigene Tierklinik in Claouey, weitere Praxen sowie das nächste echte 24-Stunden-Tierkrankenhaus liegen jenseits der Bucht bei La Teste-de-Buch und Bordeaux. Außerhalb der Öffnungszeiten schließen sich die örtlichen Kliniken dem Bereitschaftsdienst des Bassin d'Arcachon an und überweisen schwere Fälle an das Notfallkrankenhaus in Bordeaux, daher die untenstehenden Nummern vor der Anreise speichern. EU-Haustiere benötigen einen gültigen Heimtierausweis, Mikrochip und aktuelle Tollwutimpfung zur Einreise nach Frankreich.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Tierarzt in Cap Ferret?",
+          "a": "Ja. Die Clinique Vétérinaire Vet'Estey in Claouey (+33 5 56 60 76 73) ist die einzige Klinik auf der Halbinsel selbst. Sie kümmert sich tagsüber um dringende Fälle und schließt sich außerhalb der Öffnungszeiten dem Bereitschaftsdienst des Bassin d'Arcachon an, wobei schwere Fälle jenseits der Bucht überwiesen werden."
+        },
+        {
+          "q": "Wo ist der nächste 24-Stunden-Notfalltierarzt zu Cap Ferret?",
+          "a": "CHV AniCura Aquivet in Mérignac, nahe Bordeaux (+33 5 56 95 01 01), ist das nächste echte 24/7-Tierkrankenhaus, etwa 1 Stunde 15 Minuten Autofahrt entfernt. Die nationale Tierarzt-Hotline 3115 leitet Sie ebenfalls an den diensthabenden Tierarzt für die Region weiter. Im Notfall immer vorab anrufen."
         }
       ]
     },
@@ -774,6 +888,22 @@
           "q": "O meu cão pode nadar perto de Cap Ferret?",
           "a": "Não nas praias locais, que proíbem cães todo o ano. Os banhos de mar mais próximos são em La Salie Sud (cerca de 20 km a sul) e Le Porge (cerca de 30 km a norte), ambos dog-friendly à trela todo o ano."
         }
+      ],
+      "titleDe": "Hundefreundliche Tipps für Cap Ferret",
+      "introDe": "Cap Ferret ist eine wunderbare Basis für einen längeren Aufenthalt mit Hund, solange man eine große Regel beachtet: Die Strände sind ganzjährig für Hunde gesperrt. Setzen Sie auf die Waldpfade, die Austerndörfer und die ruhige Uferpromenade, heben Sie sich die Meeresschwimmer Ihres Hundes für die hundefreundlichen Strände entlang der Küste auf, und respektieren Sie die Hitze und die Leinenpflicht.",
+      "faqsDe": [
+        {
+          "q": "Ist Cap Ferret gut für Hunde?",
+          "a": "Ja, mit einer großen Einschränkung. Die Waldpfade, Radwege, Austerndörfer und die Fähre sind alle wirklich hundefreundlich, doch jeder Strand der Gemeinde ist ganzjährig für Hunde gesperrt. Strandzeit an den hundefreundlichen Abschnitten weiter oben oder unten an der Küste planen, und Cap Ferret wird zu einem entspannten Hundeurlaub."
+        },
+        {
+          "q": "Was sollte ich für Cap Ferret mit meinem Hund einpacken?",
+          "a": "Bringen Sie einen EU-Heimtierausweis (oder ein AHC für Nicht-EU-Haustiere), eine Leine, ausreichend Wasser und einen Reisenapf mit sowie ein Bewusstsein für Zecken und Prozessionsspinnerraupen im Kiefernwald. Ein Fahrrad mit Hundekorb oder Anhänger ist im Sommer die nützlichste lokale Ergänzung."
+        },
+        {
+          "q": "Kann mein Hund in der Nähe von Cap Ferret schwimmen?",
+          "a": "Nicht an den örtlichen Stränden, die Hunde ganzjährig verbieten. Die nächsten Meeresschwimmer für Hunde gibt es bei La Salie Sud (etwa 20 km südlich) und Le Porge (etwa 30 km nördlich), beide ganzjährig an der Leine hundefreundlich."
+        }
       ]
     },
     "attractions": {
@@ -807,7 +937,11 @@
           "tipFr": "Venez à l'heure dorée quand les cabanes s'illuminent et que le village se vide. Tenez votre chien à l'écart des parcs à huîtres.",
           "tipEs": "Ve a la hora dorada cuando las cabañas brillan y el pueblo se vacía. Mantén a tu perro lejos de los parques ostrícolas.",
           "tipPt": "Vá à hora dourada quando as cabanas brilham e a aldeia se esvazia. Mantenha o seu cão longe dos viveiros de ostras.",
-          "googleMapsUrl": "https://maps.google.com/?q=Village+de+L+Herbe+Lege+Cap+Ferret"
+          "googleMapsUrl": "https://maps.google.com/?q=Village+de+L+Herbe+Lege+Cap+Ferret",
+          "descriptionDe": "Das malerischste Austerndorf der Halbinsel, ein autofreies Labyrinth aus sandigen Gassen und bunten Austernhütten direkt am Bassin, mit der ungewöhnlichen, maurisch anmutenden Chapelle Algérienne als Wahrzeichen. Angeleinte Hunde sind ein gewohnter Anblick in den Gassen und am Wasser, und es gibt keinen Eintritt.",
+          "dogPolicyDe": "Angeleinte Hunde in den Dorfgassen und am Ufer willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Zur goldenen Stunde kommen, wenn die Hütten leuchten und sich das Dorf leert. Ihren Hund von den Austernbänken fernhalten."
         },
         {
           "name": "Phare du Cap-Ferret",
@@ -830,7 +964,11 @@
           "tipFr": "Montez à tour de rôle pour que le chien attende à l'ombre en bas avec le reste du groupe.",
           "tipEs": "Subid por turnos para que el perro espere a la sombra abajo con el resto del grupo.",
           "tipPt": "Subam à vez para que o cão espere à sombra em baixo com o resto do grupo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Phare+du+Cap+Ferret"
+          "googleMapsUrl": "https://maps.google.com/?q=Phare+du+Cap+Ferret",
+          "descriptionDe": "Der 53 Meter hohe rot-weiße Leuchtturm ist das Symbol der Halbinsel, mit 258 Stufen zu einem Panorama über das gesamte Bassin, die Austernbänke, die Île aux Oiseaux und die Dune du Pilat. Hunde dürfen den Turm nicht besteigen, doch das umliegende Gelände und die Kiefernwege sind mit angeleintem Hund zugänglich, während eine Person hinaufsteigt.",
+          "dogPolicyDe": "Hunde dürfen den Turm nicht besteigen. Angeleinte Hunde in Ordnung auf dem umliegenden Gelände",
+          "admissionFeeDe": "7 € Erwachsene & ab 13 Jahren, 4 € Kinder 4-12, kostenlos unter 4 Jahren",
+          "tipDe": "Abwechselnd hinaufsteigen, damit der Hund unten im Schatten mit der anderen Hälfte der Gruppe wartet."
         },
         {
           "name": "Village ostréicole du Canon",
@@ -853,7 +991,11 @@
           "tipFr": "En été, l'arrêt de navette du village relie Le Canon à Arcachon, une arrivée par l'eau facile et dog-friendly.",
           "tipEs": "En verano la parada de lanzadera del pueblo une Le Canon con Arcachon, una llegada por agua fácil y dog-friendly.",
           "tipPt": "No verão a paragem de lançadeira da aldeia liga Le Canon a Arcachon, uma chegada por água fácil e dog-friendly.",
-          "googleMapsUrl": "https://maps.google.com/?q=Village+du+Canon+Lege+Cap+Ferret"
+          "googleMapsUrl": "https://maps.google.com/?q=Village+du+Canon+Lege+Cap+Ferret",
+          "descriptionDe": "Ein kleineres, ruhigeres Austerndorf als L'Herbe, Le Canon hat denselben Charme aus Holzhütten, arbeitenden Austernbetrieben und einer verschlafenen Uferpromenade mit Blick über das Bassin. Es ist ein leichter, leinenfreundlicher Spaziergang, mit Hüttenterrassen, wo Sie mit Ihrem Hund sitzen können, und einer ruhigen Slipanlage, perfekt für einen gemächlichen Morgen.",
+          "dogPolicyDe": "Angeleinte Hunde im Dorf und auf den Hüttenterrassen willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Im Sommer verbindet die Fährstation des Dorfes Le Canon mit Arcachon, eine einfache hundefreundliche Ankunft auf dem Wasserweg."
         }
       ],
       "tipsEn": [
@@ -899,6 +1041,14 @@
           "q": "Posso visitar os principais locais de Cap Ferret com o meu cão?",
           "a": "A maioria, sim. As aldeias ostreícolas de L'Herbe e Le Canon, os arredores do farol e os trilhos florestais estão abertos a cães à trela. As duas exceções são a própria torre do farol, que os cães não podem subir, e a Réserve Naturelle du Banc d'Arguin, que proíbe totalmente os cães."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Cap Ferret",
+      "introDe": "Das meiste, was Cap Ferret seinen Charakter verleiht, ist draußen und mit angeleintem Hund begehbar: die Austerndörfer mit ihren bunten Hütten, der über den Kiefern aufragende Leuchtturm und die langen Waldpfade zwischen den beiden Küsten. Die Strände sind für Hunde tabu, doch die Dörfer und Aussichtspunkte machen dies mehr als wett.",
+      "faqsDe": [
+        {
+          "q": "Kann ich die Hauptsehenswürdigkeiten von Cap Ferret mit meinem Hund besuchen?",
+          "a": "Die meisten davon ja. Die Austerndörfer L'Herbe und Le Canon, das Gelände des Leuchtturms und die Waldpfade sind alle für angeleinte Hunde geöffnet. Die zwei Ausnahmen sind der Leuchtturmturm selbst, den Hunde nicht besteigen dürfen, und die Réserve Naturelle du Banc d'Arguin, die Hunde vollständig verbietet."
+        }
       ]
     },
     "petsitting": {
@@ -923,11 +1073,17 @@
           "serviceTypeEs": "Reserva online. Alojamiento a domicilio, guardería de día, paseos",
           "serviceTypePt": "Reserva online. Alojamento ao domicílio, creche de dia, passeios",
           "pricePerDay": "Around €15-30/day depending on sitter and service",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "tip": "Book ahead in July and August, when peninsula demand peaks. Message the sitter to confirm they take your dog's size.",
           "tipFr": "Réservez à l'avance en juillet et août, quand la demande sur la presqu'île est au plus haut. Contactez le sitter pour confirmer qu'il accepte la taille de votre chien.",
           "tipEs": "Reserva con antelación en julio y agosto, cuando la demanda en la península es máxima. Escribe al cuidador para confirmar que acepta el tamaño de tu perro.",
-          "tipPt": "Reserve com antecedência em julho e agosto, quando a procura na península é máxima. Envie mensagem ao cuidador para confirmar que aceita o tamanho do seu cão."
+          "tipPt": "Reserve com antecedência em julho e agosto, quando a procura na península é máxima. Envie mensagem ao cuidador para confirmar que aceita o tamanho do seu cão.",
+          "descriptionDe": "Holidog ist eine etablierte Plattform für Haustierbetreuung, die Sie mit Hundebetreuern zu Hause in der gesamten Bucht von Arcachon und Gironde verbindet, anstatt mit Tierpensionen. Sie listet einen großen Pool an Betreuern für die Region Arcachon auf, daher ist sie eine zuverlässige Möglichkeit, Tagesbetreuung oder Übernachtungsbetreuung bei einem lokalen Gastgeber zu vereinbaren, während Sie in Cap Ferret wohnen.",
+          "serviceTypeDe": "Online-Buchung. Betreuung zu Hause, Tagesbetreuung, Spaziergänge",
+          "tipDe": "Im Juli und August im Voraus buchen, wenn die Nachfrage auf der Halbinsel ihren Höhepunkt erreicht. Dem Betreuer eine Nachricht schreiben, um zu bestätigen, dass er die Größe Ihres Hundes akzeptiert."
         },
         {
           "name": "Pawshake (Bordeaux & Nouvelle-Aquitaine)",
@@ -941,11 +1097,17 @@
           "serviceTypeEs": "Reserva online. Alojamiento, guardería de día, paseos, visitas",
           "serviceTypePt": "Reserva online. Alojamento, creche de dia, passeios, visitas",
           "pricePerDay": "Around €15-25/night, varies by sitter",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "tip": "Confirm the exact rate on the sitter's own profile, as prices are set individually rather than fixed.",
           "tipFr": "Confirmez le tarif exact sur le profil du sitter, car les prix sont fixés individuellement et non standardisés.",
           "tipEs": "Confirma la tarifa exacta en el perfil del propio cuidador, ya que los precios se fijan individualmente y no son fijos.",
-          "tipPt": "Confirme a tarifa exata no perfil do próprio cuidador, pois os preços são definidos individualmente e não são fixos."
+          "tipPt": "Confirme a tarifa exata no perfil do próprio cuidador, pois os preços são definidos individualmente e não são fixos.",
+          "descriptionDe": "Pawshake ist eine internationale Plattform für Haustierbetreuung mit starker Abdeckung der Region Bordeaux und Nouvelle-Aquitaine, zu der auch die Bucht von Arcachon gehört. Betreuer werden überprüft und sind durch die Pawshake-Versicherung abgedeckt, und bieten Übernachtungsbetreuung, Tagesbetreuung, Gassigehen und Kurzbesuche an, wobei jeder Betreuer seinen eigenen Preis festlegt.",
+          "serviceTypeDe": "Online-Buchung. Übernachtungsbetreuung, Tagesbetreuung, Gassigehen, Kurzbesuche",
+          "tipDe": "Den genauen Preis im Profil des Betreuers bestätigen, da die Preise individuell und nicht einheitlich festgelegt werden."
         }
       ],
       "tipsEn": [
@@ -991,6 +1153,15 @@
           "q": "Quanto custa o acompanhamento de um cão na zona de Cap Ferret?",
           "a": "Conte cerca de 15 a 30€ por dia para creche de dia e cerca de 15 a 25€ por noite para alojamento ao domicílio, consoante o cuidador e o serviço. Cada cuidador em plataformas como a Holidog e a Pawshake define a sua própria tarifa, por isso confirme o preço exato no perfil antes de reservar."
         }
+      ],
+      "titleDe": "Hundebetreuer & Haustierbetreuung in Cap Ferret",
+      "introDe": "Es gibt Momente in einem Urlaub in Cap Ferret, in denen Ihr Hund nicht mitkommen kann, etwa beim Besteigen des Leuchtturms, einem langen Essen drinnen oder einer Bootstour, die keine Haustiere zulässt. Online-Plattformen für Haustierbetreuung decken die Bucht von Arcachon und die weitere Region Gironde mit geprüften lokalen Betreuern ab, die Tagesbetreuung, Spaziergänge und Übernachtungsbetreuung anbieten.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Hundebetreuung rund um Cap Ferret?",
+          "a": "Rechnen Sie mit etwa 15 bis 30 € pro Tag für Tagesbetreuung und etwa 15 bis 25 € pro Nacht für Betreuung zu Hause, je nach Betreuer und Leistung. Jeder Betreuer auf Plattformen wie Holidog und Pawshake legt seinen eigenen Preis fest, den genauen Preis daher vor der Buchung im Profil bestätigen."
+        }
       ]
     }
-  }}
+  }
+}

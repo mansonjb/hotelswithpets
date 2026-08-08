@@ -39,7 +39,11 @@
           "tipFr": "En été, demandez le côté terrasse opposé à l'avenue Michel Croz pour un coin plus calme avec votre chien.",
           "tipEs": "En verano pide el lado de la terraza opuesto a la Avenue Michel Croz para un rincón más tranquilo con tu perro.",
           "tipPt": "No verão peça o lado da esplanada oposto à Avenue Michel Croz para um canto mais calmo com o seu cão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=MOO+Bar+Cuisine+Chamonix"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=MOO+Bar+Cuisine+Chamonix",
+          "descriptionDe": "Entspannter Burger- und Cocktail-Treffpunkt nahe dem Bahnhof, dessen Personal sich wirklich um Hunde kümmert, mit Wassernäpfen und Platz drinnen wie draußen. Die schattige Sommerterrasse blickt auf Chamonix' alte Steingebäude.",
+          "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen, Wassernäpfe vorhanden",
+          "mustTryDe": "Signature-MOÖ-Burger mit lokaler Tomme",
+          "tipDe": "Bitten Sie im Sommer um die Terrassenseite abseits der Avenue Michel Croz für einen ruhigeren Platz mit Ihrem Hund."
         },
         {
           "name": "Le Monchu",
@@ -65,7 +69,11 @@
           "tipFr": "Les soirs d'hiver, la salle est pleine et chauffée ; réservez tôt et apportez un tapis pour que votre chien s'allonge loin des chaussures de ski.",
           "tipEs": "Las noches de invierno el local se llena; reserva pronto y lleva una manta para que tu perro se tumbe lejos de las botas de esquí.",
           "tipPt": "Nas noites de inverno a sala enche; reserve cedo e leve uma manta para o cão se deitar longe das botas de esqui.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Le+Monchu+Chamonix"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Le+Monchu+Chamonix",
+          "descriptionDe": "Klassische savoyische Adresse für Fondue und Raclette wenige Schritte von der Kirche entfernt, geführt von einem hundeliebenden Besitzer. Hunde legen sich unter die Holztische, während der Käse schmilzt.",
+          "petPolicyDe": "Hunde an der Leine willkommen, bei der Reservierung erwähnen",
+          "mustTryDe": "Fondue savoyarde aux cèpes",
+          "tipDe": "An Winterabenden wird es drinnen voll und warm; buchen Sie frühzeitig und bringen Sie eine Matte mit, damit Ihr Hund abseits der Skischuhe liegen kann."
         },
         {
           "name": "Chalet du Glacier des Bossons",
@@ -91,9 +99,16 @@
           "tipFr": "Combinez le déjeuner avec la boucle facile du Sentier du Granite, l'une des randos officiellement dog-friendly de la vallée.",
           "tipEs": "Combina el almuerzo con el sencillo sendero del Granito, una de las rutas oficialmente dog-friendly del valle.",
           "tipPt": "Combine o almoço com o fácil Trilho do Granito, um dos percursos oficialmente dog-friendly do vale.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chalet+du+Glacier+des+Bossons+Chamonix"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Chalet+du+Glacier+des+Bossons+Chamonix",
+          "descriptionDe": "Zwangloses Bergchalet am Fuß des Bossons-Gletschers mit einer großen haustierfreundlichen Außenterrasse mit Blick auf das Eis. Erreichbar über einen kurzen Waldspaziergang, den Hunde lieben, oder mit dem Bossons-Sessellift, der auch Hunde befördert.",
+          "petPolicyDe": "Hunde an den Außentischen willkommen",
+          "mustTryDe": "Tarte aux myrtilles mit Blick auf den Gletscher",
+          "tipDe": "Kombinieren Sie das Mittagessen mit der leichten Granite-Trail-Runde, einer der offiziell hundefreundlichen Wanderungen des Tals."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Chamonix",
+      "introDe": "Chamonix isst mit seinen Hunden aus: Wie fast überall in Frankreich sind wohlerzogene Hunde an der Leine auf den meisten Terrassen und in vielen Gasträumen willkommen, und die Bergrestaurants entlang der Wanderwege stellen Wassernäpfe vor die Tür. Erwähnen Sie Ihren Hund bei der Reservierung, dann bekommen Sie meist einen ruhigeren Ecktisch.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Parks & Trails for Dogs in Chamonix",
@@ -143,7 +158,10 @@
           "bestTimeToVisitFr": "Les matins d'été avant les pique-niqueurs",
           "bestTimeToVisitEs": "Mañanas de verano antes de los picnics",
           "bestTimeToVisitPt": "Manhãs de verão antes dos piqueniques",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Paradis+des+Praz+Chamonix"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Paradis+des+Praz+Chamonix",
+          "descriptionDe": "Ein sanfter, schattiger Flussuferspaziergang, ausgeschildert ab dem Parkplatz des Golfplatzes, mit kühlen Bergbächen, in denen Hunde gerne planschen. Flach, sicher und kinderwagenfreundlich, ist es der klassische leichte Ausflug mit Hund im Tal.",
+          "leashRulesDe": "Leine empfohlen; Pflicht in der Nähe des Spielplatzes und im Dorf",
+          "bestTimeToVisitDe": "Sommermorgen vor dem Picknick-Ansturm"
         },
         {
           "name": "Petit Balcon Sud",
@@ -183,7 +201,10 @@
           "bestTimeToVisitFr": "Juin à octobre ; des tronçons restent praticables presque tout l'hiver",
           "bestTimeToVisitEs": "De junio a octubre; hay tramos transitables casi todo el invierno",
           "bestTimeToVisitPt": "Junho a outubro; há troços transitáveis quase todo o inverno",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Petit+Balcon+Sud+Chamonix"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Petit+Balcon+Sud+Chamonix",
+          "descriptionDe": "Ein wellenförmiger Waldweg, der sich auf der Sonnenseite über die gesamte Länge des Tals zieht, mit Mont-Blanc-Blicken durch die Bäume und ohne Gletscherüberquerungen. Er verläuft unterhalb der Grenze des Naturschutzgebiets Aiguilles Rouges, sodass Hunde die gesamte Strecke erlaubt sind.",
+          "leashRulesDe": "Leine erforderlich in der Nähe von Weidevieh und Weilern; Hunde auf dem Weg halten",
+          "bestTimeToVisitDe": "Juni bis Oktober; Abschnitte sind die meiste Zeit des Winters begehbar"
         },
         {
           "name": "Cascade du Dard",
@@ -223,9 +244,15 @@
           "bestTimeToVisitFr": "Mai à octobre, spectaculaire à la fonte des neiges",
           "bestTimeToVisitEs": "De mayo a octubre, espectacular en el deshielo",
           "bestTimeToVisitPt": "Maio a outubro, espetacular no degelo",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cascade+du+Dard+Chamonix"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Cascade+du+Dard+Chamonix",
+          "descriptionDe": "Eine mittelschwere Waldwanderung vom Ortsrand zu einem donnernden Wasserfall mit einer winzigen saisonalen Buvette oben. Sie steht auf der offiziellen Liste des Fremdenverkehrsamts für Wanderungen mit Hund.",
+          "leashRulesDe": "Leine empfohlen auf dem schmalen oberen Abschnitt",
+          "bestTimeToVisitDe": "Mai bis Oktober, spektakulär bei der Schneeschmelze"
         }
-      ]
+      ],
+      "titleDe": "Parks & Wanderwege für Hunde in Chamonix",
+      "introDe": "Der Talboden von Chamonix ist durchzogen von Flussuferpfaden, Waldwegen und Balkonwegen, auf denen Hunde an der Leine willkommen sind, und das Fremdenverkehrsamt veröffentlicht sogar eine offizielle Liste hundefreundlicher Wanderungen. Die eine strikte Regel: Das Naturschutzgebiet Aiguilles Rouges, einschließlich des berühmten Lac Blanc, ist für Hunde selbst an der Leine strikt tabu.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Chamonix with a Dog",
@@ -280,7 +307,10 @@
           "costPt": "Geralmente grátis; cães-guia e de assistência sempre aceites"
         }
       ],
-      "places": []
+      "places": [],
+      "titleDe": "Mit Hund unterwegs in Chamonix",
+      "introDe": "Das Tal von Chamonix ist eines der einfachsten Alpenresorts, um sich mit Hund zurechtzufinden: Hunde an der Leine fahren in den Talbussen und im Mulet-Shuttle mit, steigen für den halben Fahrpreis in den Mont-Blanc-Express ein und werden auf fast jedem Lift und jeder Zahnradbahn akzeptiert. Die beiden Ausnahmen, die man sich merken sollte, sind die Seilbahn Aiguille du Midi und der Sessellift Index oberhalb von La Flégère.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Lakes & Swim Spots for Dogs around Chamonix",
@@ -331,7 +361,10 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Paradis+des+Praz+Les+Praz+Chamonix"
         }
       ],
-      "places": []
+      "places": [],
+      "titleDe": "Seen & Badestellen für Hunde rund um Chamonix",
+      "introDe": "Auf 1.035 m gibt es kein Meer, aber gletschergespeiste Seen und Bäche erfüllen an heißen Tagen ihren Zweck. Der Lac des Gaillands spiegelt den Mont Blanc einen kurzen Spaziergang von der Stadt entfernt, und die seichten Rinnen des Paradis des Praz eignen sich perfekt zum Planschen für kleine Hunde. Denken Sie daran, dass die Hochgebirgsseen im Naturschutzgebiet Aiguilles Rouges, allen voran der Lac Blanc, für Hunde komplett gesperrt sind.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinarians in Chamonix",
@@ -383,7 +416,10 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CHV+Saint-Martin+Saint-Martin-Bellevue"
         }
       ],
-      "places": []
+      "places": [],
+      "titleDe": "Tierärzte in Chamonix",
+      "introDe": "Chamonix verfügt über zwei etablierte Tierarztpraxen im Tal, und Notfälle außerhalb der Öffnungszeiten werden an das rund um die Uhr geöffnete Tierkrankenhaus CHV Saint-Martin bei Annecy überwiesen. Auch die französische landesweite Tierarzt-Notrufnummer 3115 funktioniert hier und leitet Sie an den Bereitschaftsdienst weiter.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Chamonix with a Dog",
@@ -470,6 +506,22 @@
           "q": "Os cães são aceites nos autocarros e comboios de Chamonix?",
           "a": "Sim. Cães com trela andam em todos os autocarros do vale e no shuttle gratuito Mulet, e o Mont-Blanc Express leva-os por 50% da tarifa normal. As raças de categorias 1 e 2 devem usar açaime nos transportes públicos."
         }
+      ],
+      "titleDe": "Wichtige Tipps für einen Besuch in Chamonix mit Hund",
+      "introDe": "Chamonix belohnt vorbereitete Hundebesitzer: Das Tal ist enorm einladend, aber Höhenlage, felsige Wege und ein streng durchgesetztes Naturschutzgebiet ändern die Regeln im Vergleich zu einem Städtetrip. Hier ist, was vor dem Packen der Leine wirklich zählt.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit auf die Aiguille du Midi nehmen?",
+          "a": "Nein. Hunde sind auf keinem der beiden Abschnitte der Seilbahn Aiguille du Midi zugelassen; nur zertifizierte Assistenzhunde werden zugelassen. Für einen Hochgebirgsausflug mit Hund nehmen Sie stattdessen die Montenvers-Bahn zum Mer de Glace oder die Gondel nach Planpraz."
+        },
+        {
+          "q": "Kann mein Hund zum Lac Blanc wandern?",
+          "a": "Nein. Der Lac Blanc liegt im Naturschutzgebiet Aiguilles Rouges, wo Hunde selbst an der Leine verboten sind und Ranger tatsächlich Bußgelder verhängen. Der Petit Balcon Sud und die offiziell hundefreundlichen Wanderungen des Fremdenverkehrsamts bieten dieselben Mont-Blanc-Panoramen ohne das Verbot."
+        },
+        {
+          "q": "Sind Hunde in Bussen und Zügen von Chamonix erlaubt?",
+          "a": "Ja. Hunde an der Leine fahren in allen Talbussen und im kostenlosen Mulet-Shuttle mit, und der Mont-Blanc-Express befördert Hunde für 50% des normalen Fahrpreises. Hunde der Kategorie 1 und 2 müssen in öffentlichen Verkehrsmitteln einen Maulkorb tragen."
+        }
       ]
     },
     "attractions": {
@@ -492,7 +544,8 @@
           "descriptionPt": "O pequeno comboio vermelho de cremalheira sobe de Chamonix à varanda do Montenvers, a 1.913 m sobre o glaciar Mer de Glace; cães com trela viajam a bordo e podem percorrer todo o local. Evite as escadas da gruta de gelo se o seu cão não estiver habituado a degraus metálicos gradeados, a vista da esplanada é o verdadeiro espetáculo.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gare+du+Montenvers+Chamonix"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gare+du+Montenvers+Chamonix",
+          "descriptionDe": "Die kleine rote Zahnradbahn fährt von Chamonix zum Montenvers-Balkon auf 1.913 m über dem Gletscher Mer de Glace hinauf, und Hunde an der Leine fahren mit und können das gesamte Gelände besuchen. Überspringen Sie die Treppen zur Eishöhle, wenn Ihr Hund durchsichtige Metallstufen nicht gewohnt ist, der Blick von der Terrasse ist ohnehin die eigentliche Attraktion."
         },
         {
           "name": "Planpraz & Le Brévent",
@@ -504,7 +557,8 @@
           "descriptionPt": "A telecabina do centro leva-o com o seu cão com trela até Planpraz, a 2.000 m, a varanda clássica em frente ao maciço do Monte Branco; no verão os cães podem continuar no teleférico do Brévent até aos 2.525 m. De Planpraz percorrem-se troços do Grand Balcon Sud fora do limite da reserva.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Telecabine+Planpraz+Chamonix"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Telecabine+Planpraz+Chamonix",
+          "descriptionDe": "Die Gondel vom Stadtzentrum bringt Sie und Ihren Hund an der Leine hinauf nach Planpraz auf 2.000 m, dem klassischen Balkon direkt gegenüber dem Mont-Blanc-Massiv; im Sommer können Hunde mit der Seilbahn Brévent weiter bis auf 2.525 m fahren. Von Planpraz aus können Sie Abschnitte des Grand Balcon Sud außerhalb der Schutzgebietsgrenze begehen."
         },
         {
           "name": "Chamonix old town & Rue du Docteur Paccard",
@@ -516,9 +570,13 @@
           "descriptionPt": "O coração pedonal da capital mundial do alpinismo, da estátua de Balmat às pontes sobre o Arve, percorre-se facilmente com cão entre fachadas alpinas, lojas de material e esplanadas. No verão aparecem taças de água à porta de muitas lojas.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rue+du+Docteur+Paccard+Chamonix"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rue+du+Docteur+Paccard+Chamonix",
+          "descriptionDe": "Das Fußgängerherz der Bergsteiger-Hauptstadt der Welt, von der Balmat-Statue bis zu den Arve-Brücken, ist ein kompakter, hundefreundlicher Spaziergang vorbei an alpinen Fassaden, Ausrüstungsläden und Terrassen. Im Sommer stehen vor vielen Boutiquen Wassernäpfe bereit."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Chamonix",
+      "introDe": "Die meisten Wahrzeichen von Chamonix sind wirklich mit Hund machbar: Die Zahnradbahn Montenvers fährt mit Hunden an der Leine an Bord hinauf zum Mer de Glace, die Lifte Planpraz und Brévent eröffnen grandiose Mont-Blanc-Blicke, und das Fußgängerzentrum lässt sich herrlich erkunden. Nur die Aiguille du Midi bleibt hundefrei.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Care in Chamonix",
@@ -570,7 +628,10 @@
           "priceRangePt": "A partir de cerca de 10 € por visita",
           "bookingRequired": true
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung & Hundepflege in Chamonix",
+      "introDe": "Praktisch für die Tage, an denen Sie Ski fahren, gleitschirmfliegen oder mit der Aiguille du Midi fahren, wohin Hunde nicht folgen können: Chamonix verfügt über ein kleines, aber aktives Netzwerk lokaler Betreuer auf den großen französischen Plattformen, mit Gassigehern, die an Berghunde gewöhnt sind, und Sommerbetreuung, die in der Hochsaison schnell ausgebucht ist.",
+      "faqsDe": []
     }
   }
 }

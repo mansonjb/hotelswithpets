@@ -39,7 +39,11 @@
           "tipFr": "La terrasse sur le canal se remplit vite en été ; venez avant 11h pour une table tranquille avec votre chien.",
           "tipEs": "La terraza del canal se llena rápido en verano; ven antes de las 11h para una mesa tranquila con tu perro.",
           "tipPt": "A esplanada do canal enche depressa no verão; venha antes das 11h para uma mesa tranquila com o seu cão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+de+la+Lauch+Colmar"
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+de+la+Lauch+Colmar",
+          "descriptionDe": "Ein Fachwerk-Cafe und Teesalon im Herzen von Petite Venise, mit einer hinteren Terrasse direkt über dem Lauch-Kanal, an dem die flachen Boote vorbeigleiten. Hunde sind erlaubt, und die Lage am Kanal macht es zum klassischen Kaffeestopp in Colmar mit Haustier.",
+          "petPolicyDe": "Hunde willkommen, drinnen und auf der Terrasse",
+          "mustTryDe": "Kougelhopf mit einem Cafe crème auf der Kanalterrasse",
+          "tipDe": "Die Kanalterrasse füllt sich im Sommer schnell; kommen Sie vor 11 Uhr für einen ruhigen Tisch mit Ihrem Hund."
         },
         {
           "name": "Le Fer Rouge",
@@ -65,7 +69,11 @@
           "tipFr": "Demandez une table d'angle en salle l'hiver ; les salles sont petites et le personnel place les chiens calmes à l'écart du passage.",
           "tipEs": "Pide una mesa de esquina dentro en invierno; las salas son pequeñas y el personal sitúa a los perros tranquilos lejos del paso.",
           "tipPt": "Peça uma mesa de canto no interior no inverno; as salas são pequenas e o pessoal coloca os cães calmos longe da passagem.",
-          "googleMapsUrl": "https://maps.google.com/?q=Le+Fer+Rouge+52+Grand+Rue+Colmar"
+          "googleMapsUrl": "https://maps.google.com/?q=Le+Fer+Rouge+52+Grand+Rue+Colmar",
+          "descriptionDe": "Ein traditionelles elsässisches Restaurant in einem historischen Fachwerkhaus in der Grand'Rue, das hausgemachte regionale Klassiker mit einer Terrasse an der Fußgängerstraße serviert. Das Haus heißt ausdrücklich Kinder und Tiere willkommen, was es zu einer einfachen Wahl für ein Abendessen mit Hund macht.",
+          "petPolicyDe": "Hunde willkommen; Terrasse und Erdgeschoss-Brasserie sind die einfachsten Plätze",
+          "mustTryDe": "Choucroute garnie und ein Glas Riesling",
+          "tipDe": "Bitten Sie im Winter um einen Ecktisch drinnen; die Speiseräume sind klein, und das Personal setzt ruhige Hunde abseits des Gangs."
         },
         {
           "name": "À la Cigogne",
@@ -91,9 +99,16 @@
           "tipFr": "Les salles de buffet sont animées le week-end ; un déjeuner en semaine est le créneau le plus calme avec un chien.",
           "tipEs": "Las salas de buffet se animan el fin de semana; una comida entre semana es el momento más tranquilo con perro.",
           "tipPt": "As salas de buffet enchem ao fim de semana; um almoço durante a semana é a altura mais calma com cão.",
-          "googleMapsUrl": "https://maps.google.com/?q=A+la+Cigogne+156+rue+du+Ladhof+Colmar"
+          "googleMapsUrl": "https://maps.google.com/?q=A+la+Cigogne+156+rue+du+Ladhof+Colmar",
+          "descriptionDe": "Ein entspanntes All-you-can-eat-Buffetrestaurant außerhalb der historischen Altstadt, das Sushi, Wok-Gerichte und Grillgerichte mischt, wo Hunde Sie am Tisch begleiten können. Praktisch für einen ungezwungenen Abend nach einem Tag Sightseeing, mit einfacherem Parken als in der Altstadt.",
+          "petPolicyDe": "Hunde bei Gästen erlaubt",
+          "mustTryDe": "Die Grillstation, auf Bestellung zubereitet",
+          "tipDe": "Buffeträume sind am Wochenende voll; ein Mittagessen unter der Woche ist der ruhigste Zeitpunkt mit Hund."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Colmar",
+      "introDe": "Colmars Altstadt ist voller Winstubs und Terrassen an den Kanälen, und viele davon heißen wohlerzogene Hunde willkommen, besonders im Außenbereich. Das Fremdenverkehrsamt betreibt sogar ein Toutourisme-Programm für Besucher mit Hund, sodass ein Wassernapf selten weit entfernt ist.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Parks and Green Spaces for Dogs in Colmar",
@@ -143,7 +158,10 @@
           "descriptionFr": "Le poumon vert de Colmar, un parc paysager du XIXe siècle entre le quartier de la gare et la vieille ville, avec de longues allées ombragées qui restent fraîches en été. C'est la promenade classique du matin et du soir pour les chiens logés au centre.",
           "descriptionEs": "El pulmón verde de Colmar, un parque del siglo XIX entre el barrio de la estación y el casco antiguo, con largos paseos sombreados que se mantienen frescos en verano. Es el paseo clásico de mañana y de tarde para los perros alojados en el centro.",
           "descriptionPt": "O pulmão verde de Colmar, um parque do século XIX entre o bairro da estação e o centro histórico, com longas alamedas sombreadas que se mantêm frescas no verão. É o passeio clássico de manhã e ao fim do dia para cães alojados no centro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parc+du+Champ+de+Mars+Colmar"
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+du+Champ+de+Mars+Colmar",
+          "leashRulesDe": "Hunde an der Leine erlaubt; Hinterlassenschaften müssen aufgesammelt werden",
+          "bestTimeToVisitDe": "Früher Morgen, bevor die Altstadt sich füllt",
+          "descriptionDe": "Die grüne Lunge von Colmar, ein 19. Jahrhundert-Landschaftspark zwischen Bahnhofsviertel und Altstadt, mit langen schattigen Alleen, die im Sommer kühl bleiben. Der klassische Morgen- und Abendspaziergang für Hunde, die in der Innenstadt wohnen."
         },
         {
           "name": "Parc canin de Colmar",
@@ -183,7 +201,10 @@
           "descriptionFr": "Le premier parc canin de Colmar, ouvert en 2022 à côté de la piscine Aqualia : un enclos végétalisé et clôturé de 780 m² avec rampes d'agility, tunnels et point d'eau. C'est le seul endroit de la ville où les chiens peuvent légalement courir sans laisse.",
           "descriptionEs": "El primer parque canino de Colmar, abierto en 2022 junto a la piscina Aqualia: un recinto vallado y ajardinado de 780 m² con rampas de agility, túneles y punto de agua. Es el único lugar de la ciudad donde los perros pueden correr legalmente sin correa.",
           "descriptionPt": "O primeiro parque canino de Colmar, aberto em 2022 junto à piscina Aqualia: um recinto vedado e ajardinado de 780 m² com rampas de agility, túneis e ponto de água. É o único lugar da cidade onde os cães podem correr legalmente sem trela.",
-          "googleMapsUrl": "https://maps.google.com/?q=7+rue+du+Pigeon+Colmar"
+          "googleMapsUrl": "https://maps.google.com/?q=7+rue+du+Pigeon+Colmar",
+          "leashRulesDe": "Freilauf innerhalb des eingezäunten Bereichs erlaubt",
+          "bestTimeToVisitDe": "Später Nachmittag, wenn sich lokale Besitzer versammeln",
+          "descriptionDe": "Colmars erster eigener Hundepark, 2022 neben dem Aqualia-Schwimmbad eröffnet: eine 780 m² große bepflanzte und eingezäunte Anlage mit Agility-Rampen, Tunneln und einer Wasserstelle. Der einzige Ort in der Stadt, an dem Hunde legal frei laufen dürfen."
         },
         {
           "name": "Parc du Château d'Eau",
@@ -223,9 +244,15 @@
           "descriptionFr": "Un jardin paysager plus calme autour du château d'eau du XIXe siècle, connu pour sa roseraie et ses arbres remarquables. Une bonne petite boucle en laisse si vous logez au sud du centre historique.",
           "descriptionEs": "Un jardín más tranquilo alrededor de la torre de agua del siglo XIX, conocido por su rosaleda y sus árboles notables. Un buen paseo corto con correa si te alojas al sur del centro histórico.",
           "descriptionPt": "Um jardim mais calmo em torno da torre de água do século XIX, conhecido pelo roseiral e pelas árvores notáveis. Um bom passeio curto com trela se ficar a sul do centro histórico.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parc+du+Ch%C3%A2teau+d%27Eau+Colmar"
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+du+Ch%C3%A2teau+d%27Eau+Colmar",
+          "leashRulesDe": "Hunde an der Leine erlaubt; Hinterlassenschaften müssen aufgesammelt werden",
+          "bestTimeToVisitDe": "Später Frühling, wenn der Rosengarten blüht",
+          "descriptionDe": "Ein ruhigerer Landschaftsgarten rund um Colmars Wasserturm aus dem 19. Jahrhundert, bekannt für seinen Rosengarten und bemerkenswerte Bäume. Eine gute kurze Leinenrunde, wenn Sie südlich der historischen Altstadt wohnen."
         }
-      ]
+      ],
+      "titleDe": "Parks und Grünflächen für Hunde in Colmar",
+      "introDe": "Colmar ist kompakt, sodass ein Park nie mehr als einen kurzen Spaziergang entfernt ist. In öffentlichen Parks müssen Hunde an der Leine bleiben, und Besitzer müssen die Hinterlassenschaften aufsammeln, aber die Stadt hat auch einen eigenen eingezäunten Hundepark eröffnet, in dem Hunde frei laufen können.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Colmar with a Dog",
@@ -279,7 +306,10 @@
           "costEs": "Gratis",
           "costPt": "Grátis"
         }
-      ]
+      ],
+      "titleDe": "Mit Hund unterwegs in Colmar",
+      "introDe": "Colmars Altstadt ist klein und für Fußgänger ausgelegt, daher finden die meisten Besuche zu Fuß statt. Beachten Sie, dass das lokale Busnetz TRACE bei Hunden restriktiv ist: Nur kleine Tiere in einer geschlossenen Transportbox werden akzeptiert, plus Assistenzhunde. Regionale TER-Züge sind für Tagesausflüge entlang der Weinstraße deutlich flexibler.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Lakes and Water Spots Near Colmar",
@@ -310,7 +340,10 @@
           "seasonalRestrictionsPt": "Nenhuma para os cães; os trilhos ficam com neve no inverno e o banho é proibido todo o ano para todos",
           "googleMapsUrl": "https://maps.google.com/?q=Lac+Blanc+Orbey"
         }
-      ]
+      ],
+      "titleDe": "Seen und Wasserstellen in der Nähe von Colmar",
+      "introDe": "Colmar liegt im Landesinneren, und der lokale Badesee, der Freizeitsee Colmar-Houssen, lässt überhaupt keine Tiere zu. Für Wasserspaß mit Ihrem Hund fahren Sie in die nahen Vogesen: der glaziale Lac Blanc oberhalb von Orbey heißt angeleinte Hunde an seinen Ufern und Wegen willkommen, etwa 30 Autominuten von der Stadt entfernt.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinarians in Colmar",
@@ -361,7 +394,10 @@
           "descriptionPt": "O número nacional gratuito de urgências veterinárias de França: ligue 3115 de qualquer telefone e será ligado ao serviço veterinário de urgência mais próximo, de dia ou de noite. Um recurso útil se ficar numa aldeia da rota dos vinhos fora de Colmar.",
           "googleMapsUrl": ""
         }
-      ]
+      ],
+      "titleDe": "Tierärzte in Colmar",
+      "introDe": "Colmar verfügt über mehrere lange etablierte Kleintierkliniken, die sich an einem rotierenden 24/7-Bereitschaftsdienst für die Stadt und umliegende Dörfer beteiligen. Für jeden tierärztlichen Notfall außerhalb der Öffnungszeiten in Frankreich können Sie auch die 3115 wählen, die kostenlose nationale tierärztliche Notrufnummer, die Sie zum nächsten diensthabenden Tierarzt weiterleitet.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Colmar with a Dog",
@@ -456,6 +492,22 @@
           "q": "Onde pode o meu cão correr sem trela em Colmar?",
           "a": "No parque canino vedado de 780 m² no 7 Rue du Pigeon, junto à piscina Aqualia. Em todos os outros parques e ruas da cidade, a trela é obrigatória."
         }
+      ],
+      "titleDe": "Wichtige Tipps für den Besuch von Colmar mit Hund",
+      "introDe": "Praktische Tipps, um Colmar und die elsässische Weinstraße mit Ihrem Hund optimal zu erleben.",
+      "faqsDe": [
+        {
+          "q": "Ist Colmars Altstadt hundefreundlich?",
+          "a": "Ja. Die historische Altstadt und Petite Venise sind Fußgängerzonen im Freien, sodass angeleinte Hunde bei jedem Spaziergang dabei sein können, und sowohl die Sweet-Narcisse-Kanalboote als auch die Stadtrundfahrt mit dem Petit Train Blanc akzeptieren Hunde."
+        },
+        {
+          "q": "Darf ich meinen Hund in den Bussen von Colmar mitnehmen?",
+          "a": "Nur kleine Tiere in einem geschlossenen Korb, Käfig oder einer Tasche reisen kostenlos in TRACE-Bussen. Größere Hunde sind nicht zugelassen, außer Assistenz- und Blindenhunde."
+        },
+        {
+          "q": "Wo kann mein Hund in Colmar frei laufen?",
+          "a": "Im eingezäunten 780 m² großen Parc canin in der 7 Rue du Pigeon, neben dem Aqualia-Schwimmbad. Überall sonst in den Parks und Straßen der Stadt müssen Hunde an der Leine bleiben."
+        }
       ]
     },
     "attractions": {
@@ -478,7 +530,8 @@
           "descriptionPt": "O bairro-postal de Colmar, com casas em enxaimel floridas ao longo do Lauch. Os barcos tradicionais de fundo raso Sweet Narcisse partem da Pont Saint-Pierre para um cruzeiro comentado de 30 minutos, e os cães são admitidos a bordo.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://maps.google.com/?q=Sweet+Narcisse+Pont+Saint-Pierre+Colmar"
+          "googleMapsUrl": "https://maps.google.com/?q=Sweet+Narcisse+Pont+Saint-Pierre+Colmar",
+          "descriptionDe": "Das Postkartenviertel von Colmar, wo blumengeschmückte Fachwerkhäuser den Lauch-Kanal säumen. Die traditionellen flachen Sweet-Narcisse-Boote legen an der Pont Saint-Pierre für eine 30-minütige Rundfahrt mit Kommentar ab, und Hunde dürfen an Bord."
         },
         {
           "name": "Petit Train Blanc",
@@ -490,7 +543,8 @@
           "descriptionPt": "Um passeio comentado de 35 minutos pelo centro histórico a bordo do pequeno comboio branco, com auscultadores em 16 línguas, com partida em frente ao Museu Unterlinden. Os cães podem ir a bordo, uma forma de poupar as patas cobrindo todo o centro.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://maps.google.com/?q=Petit+Train+Blanc+Colmar"
+          "googleMapsUrl": "https://maps.google.com/?q=Petit+Train+Blanc+Colmar",
+          "descriptionDe": "Eine 35-minütige Rundfahrt durch die Altstadt an Bord des kleinen weißen Zuges, mit Kopfhörern in 16 Sprachen, Abfahrt gegenüber dem Musée Unterlinden. Hunde können mitfahren, ein schonender Weg, um die gesamte historische Altstadt zu erkunden."
         },
         {
           "name": "Route des Vins villages (Eguisheim, Riquewihr, Kaysersberg)",
@@ -502,9 +556,13 @@
           "descriptionPt": "Colmar é a capital da rota dos vinhos da Alsácia, com Eguisheim, Riquewihr e Kaysersberg a menos de 15 km. As aldeias são calcetadas e ao ar livre, perfeitas com cão pela trela, e há caminhos entre as vinhas que as ligam; muitas adegas aceitam cães calmos se perguntar primeiro.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://maps.google.com/?q=Eguisheim"
+          "googleMapsUrl": "https://maps.google.com/?q=Eguisheim",
+          "descriptionDe": "Colmar ist die Hauptstadt der elsässischen Weinstraße, mit Eguisheim, Riquewihr und Kaysersberg alle innerhalb von 15 km. Die Dörfer sind im Freien, gepflastert und mit angeleintem Hund begehbar, und Weinbergwege verbinden sie durch die Reben; viele Verkostungskeller akzeptieren ruhige Hunde, wenn Sie vorher fragen."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Attraktionen in Colmar",
+      "introDe": "Colmars Zauber spielt sich fast ausschließlich im Freien ab: Kanäle, Fachwerkgassen und Weinberge. Das spielt Ihrem Hund in die Karten, und selbst die Bootsfahrten und der Touristenzug lassen Haustiere mitfahren.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting and Dog Walking in Colmar",
@@ -555,7 +613,10 @@
           "priceRangePt": "A partir de cerca de 10 € por visita, 15-20 € por noite",
           "bookingRequired": true
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung und Gassi-Service in Colmar",
+      "introDe": "Wenn Sie einen Museumsnachmittag oder ein langes Weingut-Mittagessen ohne Ihren Hund genießen möchten, haben Frankreichs wichtigste Haustierbetreuungs-Plattformen alle Betreuer in und um Colmar. Buchen Sie im Sommer und während der Weihnachtsmärkte im Voraus, wenn die Nachfrage am höchsten ist.",
+      "faqsDe": []
     }
   }
 }

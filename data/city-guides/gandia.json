@@ -1,4 +1,10 @@
-{"slug":"gandia","name":"Gandía","country":"Spain","flag":"🇪🇸","lastUpdated":"2026-06-19","guides":{
+{
+  "slug": "gandia",
+  "name": "Gandía",
+  "country": "Spain",
+  "flag": "🇪🇸",
+  "lastUpdated": "2026-06-19",
+  "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Gandía",
       "titleFr": "Restaurants acceptant les animaux à Gandía",
@@ -33,7 +39,11 @@
           "tipFr": "Demandez une table dans la partie ombragée du jardin plutôt qu'à l'avant en plein été, c'est nettement plus frais pour votre chien",
           "tipEs": "Pide una mesa en la zona con sombra del jardín en lugar de la parte delantera en pleno verano; es notablemente más fresca para tu perro",
           "tipPt": "Peça uma mesa na zona sombreada do jardim em vez da frente em pleno verão; é nitidamente mais fresca para o seu cão",
-          "googleMapsUrl": "https://maps.google.com/?q=El+Asombro+Garden+Grill+Gandia"
+          "googleMapsUrl": "https://maps.google.com/?q=El+Asombro+Garden+Grill+Gandia",
+          "descriptionDe": "Ein beliebtes Grillrestaurant, ein kurzes Stück von der Strandpromenade entfernt, bekannt für abgehangenes Fleisch vom Holzkohlegrill und eine große, grüne Gartenterrasse, die auch bei Sommerhitze angenehm bleibt. Der großzügige Außenbereich mit schattigem Grün macht es besonders einfach, sich mit dem Hund zu Füßen niederzulassen.",
+          "petPolicyDe": "Angeleinte Hunde auf der Gartenterrasse willkommen",
+          "mustTryDe": "Abgehangenes Rindfleisch vom Holzkohlegrill, gegrilltes Gemüse",
+          "tipDe": "Im Hochsommer lieber um einen Tisch im schattigen Gartenbereich statt vorne bitten, dort ist es für den Hund spürbar kühler"
         },
         {
           "name": "Terraces of Paseo Marítimo Neptuno",
@@ -59,7 +69,11 @@
           "tipFr": "Parcourez la promenade et choisissez une terrasse avec une gamelle d'eau devant, plusieurs en sortent une pour les chiens les soirs de chaleur",
           "tipEs": "Recorre el paseo y elige una terraza con un cuenco de agua delante; varias sacan uno para los perros en las noches calurosas",
           "tipPt": "Percorra a marginal e escolha uma esplanada com uma taça de água à frente; várias colocam uma para os cães nas noites quentes",
-          "googleMapsUrl": "https://maps.google.com/?q=Paseo+Maritimo+Neptuno+Gandia"
+          "googleMapsUrl": "https://maps.google.com/?q=Paseo+Maritimo+Neptuno+Gandia",
+          "descriptionDe": "Die rund 3 km lange Strandpromenade ist durchgehend gesäumt von Cervecerías, Reisrestaurants und Fischterrassen, von denen viele einen angeleinten Hund gern an einem Außentisch platzieren. Dies ist im Sommer der praktischste Abschnitt zum Essen mit Hund, da die Promenade selbst auch dann für Hunde offen bleibt, wenn der Sandstrand für sie gesperrt ist.",
+          "petPolicyDe": "Viele Terrassen heißen angeleinte Hunde an Außentischen willkommen",
+          "mustTryDe": "Arroz a banda, Fideuà, frischer regionaler Fisch",
+          "tipDe": "Die Promenade entlanggehen und eine Terrasse mit sichtbarem Wassernapf wählen, mehrere stellen an heißen Abenden einen für Hunde bereit"
         },
         {
           "name": "L'àmfora",
@@ -85,7 +99,11 @@
           "tipFr": "Appelez à l'avance pour confirmer si votre chien peut entrer ou seulement rester en terrasse, cela peut changer selon la saison",
           "tipEs": "Llama con antelación para confirmar si tu perro puede entrar o solo estar en la terraza, ya que puede cambiar según la temporada",
           "tipPt": "Ligue com antecedência para confirmar se o seu cão pode entrar ou apenas ficar na esplanada, já que isto pode mudar consoante a época",
-          "googleMapsUrl": "https://maps.google.com/?q=L'amfora+Gandia"
+          "googleMapsUrl": "https://maps.google.com/?q=L'amfora+Gandia",
+          "descriptionDe": "Im hundefreundlichen Verzeichnis SrPerro für Gandía gelistet, ist dieses Bar-Restaurant eine der Optionen in der Stadt, die Hunde willkommen heißt, nicht nur die Terrassen am Strand. Eine gute Wahl bei der Erkundung der Altstadt rund um den Palau Ducal, wenn man mit dem Hund eine Pause aus der Sonne braucht.",
+          "petPolicyDe": "Im SrPerro-Verzeichnis als hundefreundlich gelistet",
+          "mustTryDe": "Lokale Tapas, regionale Reisgerichte",
+          "tipDe": "Vorher anrufen, um zu klären, ob der Hund hinein darf oder nur auf die Terrasse, das kann je nach Saison variieren"
         }
       ],
       "tipsEn": [
@@ -163,6 +181,22 @@
           "q": "As esplanadas de Gandía oferecem água para os cães?",
           "a": "Várias esplanadas da marginal colocam uma taça de água nas noites quentes, mas não é universal. Leve uma taça dobrável e uma garrafa de água por segurança no calor do verão."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Gandía",
+      "introDe": "Gandías gastronomisches Leben teilt sich zwischen der historischen Altstadt im Landesinneren und dem Badeort El Grau, wo die Terrassen des Paseo Marítimo Neptuno und der Plaza del Prado an Sommerabenden lebendig werden. Angeleinte, gut erzogene Hunde sind auf den Außenterrassen weithin willkommen, und genau dort spielt sich in den heißen Monaten das meiste Leben ab. Zu beachten ist, dass Hunde von Juni bis September vom Sand der Strände selbst verbannt sind, weshalb die Strandpromenaden-Terrassen der natürliche Ort sind, um sich beim Essen mit dem Hund niederzulassen. Vor dem Betreten eines klimatisierten Innenraums mit Hund immer nachfragen, da die Zulassung von Lokal zu Lokal unterschiedlich gehandhabt wird.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Gandía erlaubt?",
+          "a": "Angeleinte, gut erzogene Hunde sind auf den Außenterrassen entlang des Paseo Marítimo Neptuno und der Plaza del Prado sowie in einigen Bars der Altstadt weithin willkommen. Klimatisierte Innenräume liegen im Ermessen des jeweiligen Lokals, also vorher nachfragen."
+        },
+        {
+          "q": "Wo kann ich im Sommer mit meinem Hund essen, wenn der Strand tabu ist?",
+          "a": "Die Strandpromenade ist auch dann für Hunde offen, wenn der Sandstrand von Juni bis September gesperrt ist, und ihre Terrassen sind der praktischste Ort zum Essen. Am besten einen Tisch nach Sonnenuntergang wählen, um die Mittagshitze zu vermeiden."
+        },
+        {
+          "q": "Gibt es auf den Terrassen in Gandía Wasser für Hunde?",
+          "a": "An warmen Abenden stellen mehrere Terrassen an der Promenade einen Wassernapf bereit, das ist aber nicht überall der Fall. Zur Sicherheit bei der Sommerhitze einen faltbaren Napf und eine Wasserflasche mitbringen."
+        }
       ]
     },
     "parks": {
@@ -193,7 +227,10 @@
           "tipFr": "Partez tôt en été, l'ombre du bord de rivière aide mais la chaleur de midi est intense dans l'arrière-pays valencien",
           "tipEs": "Empieza temprano en verano; la sombra del río ayuda pero el calor del mediodía es intenso en el interior valenciano",
           "tipPt": "Comece cedo no verão; a sombra junto ao rio ajuda mas o calor do meio-dia é intenso no interior valenciano",
-          "googleMapsUrl": "https://maps.google.com/?q=Paseo+Fluvial+Serpis+Gandia"
+          "googleMapsUrl": "https://maps.google.com/?q=Paseo+Fluvial+Serpis+Gandia",
+          "descriptionDe": "Eine flache Stadtroute von rund 6 km Hin- und Rückweg entlang des Flusses Serpis durch die Stadt, mit einer Mischung aus Grün, Wasser und Schatten. Einer der angenehmsten Spaziergänge mit Leine in Gandía, verbindet unterwegs Parks und Sportanlagen und eignet sich ideal für eine lange Vormittagsrunde mit dem Hund.",
+          "offLeashAreaDe": "Leinenpflicht; keine ausgewiesene Freilaufzone entlang der Strecke",
+          "tipDe": "Im Sommer früh starten, der Schatten am Fluss hilft, aber die Mittagshitze im valencianischen Landesinneren ist intensiv"
         },
         {
           "name": "Vía Verda del Serpis",
@@ -213,7 +250,10 @@
           "tipFr": "Emportez beaucoup d'eau, il y a de longues sections entre les orangeraies sans fontaine",
           "tipEs": "Lleva agua de sobra; hay tramos largos entre los naranjos sin fuentes",
           "tipPt": "Leve bastante água; há longos troços entre os laranjais sem fontes",
-          "googleMapsUrl": "https://maps.google.com/?q=Via+Verda+del+Serpis+Gandia"
+          "googleMapsUrl": "https://maps.google.com/?q=Via+Verda+del+Serpis+Gandia",
+          "descriptionDe": "Ein flacher, größtenteils schattiger Grünzug auf einer ehemaligen Bahnstrecke, der vom Parc de l'Estació durch Orangenhaine bis nach Oliva führt. Ohne Verkehr und mit sanfter Steigung hervorragend für lange Hundespaziergänge oder einen Lauf geeignet, die Obstgärten spenden auf weiten Teilen der Strecke willkommenen Schatten.",
+          "offLeashAreaDe": "Leine empfohlen; wird mit Radfahrern und Spaziergängern geteilt",
+          "tipDe": "Reichlich Wasser mitnehmen, zwischen den Orangenhainen liegen lange Abschnitte ohne Brunnen"
         },
         {
           "name": "Parque Sant Pere",
@@ -233,7 +273,10 @@
           "tipFr": "Adresse : Carrer Gregori Maians 8. Allez-y en milieu de matinée en semaine pour la balade la plus calme et la plus ombragée",
           "tipEs": "Dirección: Carrer Gregori Maians 8. Ve a media mañana entre semana para el paseo más tranquilo y con más sombra",
           "tipPt": "Morada: Carrer Gregori Maians 8. Vá a meio da manhã num dia útil para o passeio mais tranquilo e com mais sombra",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+Sant+Pere+Gandia"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Sant+Pere+Gandia",
+          "descriptionDe": "Auch als Parque de l'Alqueria Nova bekannt, liegt dieser ruhige Park etwa fünfzehn Gehminuten von der historischen Altstadt entfernt und ist von Platanen und weißen Kiefern rund um einen zentralen Seerosenteich gesäumt. Der Schatten und die Ruhe machen ihn zu einem der besseren innerstädtischen Orte für einen entspannten Spaziergang an der Leine an einem heißen Tag.",
+          "offLeashAreaDe": "Leinenpflicht; Familienpark, Hunde unter enger Kontrolle halten",
+          "tipDe": "Adresse: Carrer Gregori Maians 8. Für den ruhigsten und schattigsten Spaziergang unter der Woche vormittags kommen"
         }
       ],
       "tipsEn": [
@@ -310,6 +353,22 @@
         {
           "q": "Está demasiado calor para passear um cão em Gandía no verão?",
           "a": "O meio-dia é genuinamente perigoso em julho e agosto. Passeie ao amanhecer ou depois do pôr do sol, opte pelos percursos com sombra do rio e da ecopista, e teste sempre a temperatura do chão com a mão antes de o seu cão andar."
+        }
+      ],
+      "titleDe": "Hundeparks & Spaziergänge in Gandía",
+      "introDe": "Gandía bietet Hunden abseits des Strandes reichlich Platz. Der Uferweg am Serpis zieht sich in grünen Korridoren durch die Stadt, der Bahntrassenweg Vía Verda del Serpis verläuft flach und schattig in Richtung Oliva, und der grüne Parque Sant Pere bietet ruhige, baumbestandene Wege. Im valencianischen Sommer sollte man diese Strecken früh morgens oder nach Sonnenuntergang gehen, wenn Asphalt und Sand für die Pfoten kühl genug sind.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich in Gandía abseits des Strandes mit meinem Hund spazieren gehen?",
+          "a": "Die Uferroute Paseo Fluvial del Serpis, der flache Grünzug Vía Verda del Serpis in Richtung Oliva und der baumbestandene Parque Sant Pere sind alle gute schattige Optionen für Hunde an der Leine. Besonders nützlich im Sommer, wenn der Sandstrand für Hunde gesperrt ist."
+        },
+        {
+          "q": "Gibt es in Gandía Freilaufbereiche für Hunde?",
+          "a": "Gandías wichtigste Grünzüge sind Bereiche mit Leinenpflicht, die mit Familien und Radfahrern geteilt werden. Den Hund durchgehend anleinen, Kotbeutel mitnehmen und vor Ort nach eingezäunten Hundeauslaufzonen (Pipicán) fragen, bevor man den Hund freilaufen lässt."
+        },
+        {
+          "q": "Ist es im Sommer zu heiß, um in Gandía mit dem Hund spazieren zu gehen?",
+          "a": "Im Juli und August ist die Mittagszeit tatsächlich gefährlich. Bei Tagesanbruch oder nach Sonnenuntergang gehen, sich an schattige Uferwege und Grünzüge halten und die Bodentemperatur immer mit der Hand prüfen, bevor der Hund darauf läuft."
         }
       ]
     },
@@ -433,6 +492,22 @@
           "q": "Como vou do Aeroporto de Valência para Gandía com um cão?",
           "a": "O Aeroporto de Valência (VLC) fica a cerca de 75 km de Gandía. O mais simples é ir de metro ou táxi até Valência e depois apanhar o comboio gratuito Cercanías C1 para Gandía. Com um cão grande, um táxi pet-friendly reservado com antecedência para toda a viagem é a opção porta a porta mais cómoda."
         }
+      ],
+      "titleDe": "Mit Haustier unterwegs in Gandía",
+      "introDe": "Gandía ist die südliche Endstation der Renfe-Cercanías-Linie C1 aus Valencia und damit eine der am leichtesten mit Hund per Zug erreichbaren spanischen Strandstädte. Renfe befördert mittlerweile Hunde jeder Größe auf den Cercanías kostenlos, angeleint und mit Maulkorb, ein Haustier pro Fahrgast. Innerhalb von Gandía selbst sind die kompakte Altstadt, El Grau und der Strand gut zu Fuß erreichbar, ein kurzer Stadtbus verbindet die Altstadt mit der Strandpromenade.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund im Zug von Valencia nach Gandía mitnehmen?",
+          "a": "Ja. Die Renfe-Cercanías-Linie C1 verkehrt zwischen Valencia und Gandía und befördert Hunde jeder Größe kostenlos, angeleint und mit Maulkorb, ein Haustier pro Fahrgast. Es ist der einfachste und günstigste Weg, mit einem Hund jeder Größe nach Gandía zu gelangen."
+        },
+        {
+          "q": "Braucht mein Hund auf der Renfe Cercanías einen Maulkorb?",
+          "a": "Die Renfe-Regeln verlangen, dass Hunde auf den Cercanías angeleint und mit Maulkorb reisen. Zur Sicherheit einen Maulkorb mitführen, in einem leeren Wagen kann man ihn meist abnehmen, aber Kontrolleure dürfen ihn verlangen."
+        },
+        {
+          "q": "Wie komme ich mit Hund vom Flughafen Valencia nach Gandía?",
+          "a": "Der Flughafen Valencia (VLC) liegt etwa 75 km von Gandía entfernt. Am einfachsten ist es, mit der Metro oder dem Taxi nach Valencia zu fahren und von dort mit dem kostenlosen Cercanías-Zug C1 nach Gandía weiterzufahren. Mit einem großen Hund ist ein vorab gebuchtes haustierfreundliches Taxi für die gesamte Strecke die bequemste Tür-zu-Tür-Option."
+        }
       ]
     },
     "beaches": {
@@ -515,6 +590,18 @@
           "q": "Posso levar o meu cão às praias de Gandía no verão?",
           "a": "Não. Um regulamento municipal proíbe os cães em todas as praias de Gandía durante a época balnear, de 1 de junho a 30 de setembro, com coimas que podem chegar aos 1000 a 1500 euros. A marginal continua aberta aos cães com trela, e as praias são muito mais dog-friendly de outubro a maio."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Gandía",
+      "introDe": "Gandías Küste ist ein langes Band aus breitem, goldenem Sand: der weite Playa Nord (Playa de Gandía) in El Grau, der natürliche Dünenstrand von l'Ahuir im Norden und der ruhigere Playa de Venècia. Der Haken für Hundebesitzer ist streng geregelt: Eine kommunale Verordnung verbietet Hunde während der Badesaison, definiert als 1. Juni bis 30. September, an allen Stränden von Gandía, mit Bußgeldern von bis zu 1.000 bis 1.500 Euro. Ein ausgewiesener Hundebereich (Playa Can) wurde in der Vergangenheit versuchsweise bei l'Ahuir eingerichtet, in mehreren Jahren aber wieder gestrichen, da die Dünen ein Schutzgebiet sind und die Blaue-Flagge-Strände Tiere einschränken. Man sollte also nicht davon ausgehen, dass er geöffnet ist. Außerhalb des Sommerverbots, etwa von Oktober bis Mai, können Hunde diese riesigen Strände deutlich freier genießen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Gandía einen Hundestrand?",
+          "a": "Gandía hat versuchsweise einen ausgewiesenen Hundebereich (Playa Can) am naturbelassenen Strand l'Ahuir eingerichtet, dieser wurde jedoch in mehreren Jahren gestrichen, da die Dünen ein Schutzgebiet sind und die Hauptstrände den Status Blaue Flagge tragen. Vor der Anreise beim Rathaus von Gandía nachfragen, da für einen bestimmten Sommer keine Öffnung garantiert ist."
+        },
+        {
+          "q": "Darf ich meinen Hund im Sommer an die Strände von Gandía mitnehmen?",
+          "a": "Nein. Eine kommunale Verordnung verbietet Hunde während der Badesaison, vom 1. Juni bis 30. September, an allen Stränden von Gandía, mit Bußgeldern von bis zu 1.000 bis 1.500 Euro. Die Strandpromenade bleibt für angeleinte Hunde geöffnet, und von Oktober bis Mai sind die Strände deutlich hundefreundlicher."
+        }
       ]
     },
     "vets": {
@@ -561,7 +648,10 @@
           "tipEs": "Guarda este número antes del viaje: +34 691 044 450. Llama primero para que puedan preparar una llegada fuera de horario",
           "tipPt": "Guarde este número antes da viagem: +34 691 044 450. Ligue primeiro para que possam preparar uma chegada fora de horas",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Gat+i+Gos+Gandia",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo–Fr 09:30–20:00 Uhr, Sa 09:30–14:00 Uhr; außerhalb der Öffnungszeiten 24-Stunden-Notfallleitung",
+          "descriptionDe": "Eine etablierte Klinik in Gandía, Teil der UNAVETS-Gruppe, mit Allgemeinmedizin sowie digitalem Röntgen, Ultraschall und hauseigenem Labor. Eine Notfall-Telefonleitung deckt dringende Fälle außerhalb der regulären Öffnungszeiten das ganze Jahr über ab. Eine verlässliche erste Anlaufstelle für Reisende, die entweder eine Routineuntersuchung oder Hilfe außerhalb der Öffnungszeiten brauchen.",
+          "tipDe": "Diese Nummer vor der Reise speichern: +34 691 044 450. Vorher anrufen, damit man sich auf eine Ankunft außerhalb der Öffnungszeiten vorbereiten kann"
         },
         {
           "name": "Babieca Veterinaria",
@@ -583,7 +673,10 @@
           "tipEs": "Guarda el +34 962 876 130 junto al de Gat i Gos como segunda opción 24h por si la primera línea está ocupada",
           "tipPt": "Mantenha o +34 962 876 130 guardado ao lado do Gat i Gos como segunda opção 24h caso a primeira linha esteja ocupada",
           "googleMapsUrl": "https://maps.google.com/?q=Babieca+Veterinaria+Gandia",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Reguläre Tagesöffnungszeiten; 24-Stunden-Notdienst und Tierrettungswagen",
+          "descriptionDe": "Eine hoch bewertete Klinik in Gandía mit 24-Stunden-Notfallversorgung und Tierrettungswagen, die komplexe Fälle bei Bedarf an das Krankenhaus AniCura Valencia Sur überweist. Solide Rundumversorgung für Routine- und Notfälle, gut mit lokalen und reisenden Haustieren vertraut.",
+          "tipDe": "+34 962 876 130 neben Gat i Gos als zweite 24-Stunden-Option speichern, falls die erste Leitung besetzt ist"
         },
         {
           "name": "Clínica Veterinaria Germanías",
@@ -605,7 +698,10 @@
           "tipEs": "Buena para necesidades diurnas no urgentes; para urgencias de noche y fin de semana llama antes a Gat i Gos o Babieca",
           "tipPt": "Boa para necessidades diurnas não urgentes; para urgências de noite e fim de semana ligue primeiro ao Gat i Gos ou à Babieca",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Germanias+Gandia",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Reguläre Tagesöffnungszeiten; ständiger Notdienst",
+          "descriptionDe": "Eine zentrale Allgemeinpraxis in Gandía, die Routineuntersuchungen und Innere Medizin abdeckt und überwiesene sowie Notfälle annimmt. Praktisch gelegen an der Avinguda de la República Argentina, eine gute Tagesoption für Kontrolluntersuchungen, Rezepte und Reisedokumente während eines längeren Aufenthalts.",
+          "tipDe": "Gut für Nicht-Notfälle tagsüber; bei nächtlichen und Wochenend-Notfällen zuerst Gat i Gos oder Babieca anrufen"
         }
       ],
       "faqsEn": [
@@ -646,6 +742,18 @@
         {
           "q": "Preciso de passaporte para trazer o meu cão a Gandía?",
           "a": "Os animais registados na UE precisam de um passaporte europeu válido com microchip e vacinação antirrábica em dia para entrar em Espanha, sem quarentena. Os animais de fora da UE precisam de um certificado sanitário e, por vezes, de um teste de titulação antirrábica; consulte as regras do Ministério da Agricultura espanhol (MAPA) para o seu país de origem."
+        }
+      ],
+      "titleDe": "Notfalltierärzte in Gandía, Tierkliniken & Tierbetreuung",
+      "introDe": "Gandía verfügt über mehrere angesehene Tierkliniken, mit 24-Stunden-Notfallversorgung direkt in der Stadt. EU-registrierte Haustiere benötigen zur Einreise nach Spanien einen gültigen EU-Heimtierausweis mit Mikrochip und aktueller Tollwutimpfung, für konforme EU-Tiere entfällt die Quarantäne. Eine Notfall-Tierarztnummer vor der Anreise im Handy speichern und immer vorher anrufen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Gandía einen 24-Stunden-Tierarzt?",
+          "a": "Ja. Die Clínica Veterinaria Gat i Gos (Carrer del Legionari Bernabeu 9, +34 691 044 450) betreibt eine 24-Stunden-Notfallleitung, und die Babieca Veterinaria (Carrer de Miramar 20, +34 962 876 130) bietet 24-Stunden-Notversorgung sowie einen Tierrettungswagen. Vor der Anreise immer vorher anrufen."
+        },
+        {
+          "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Gandía mitzunehmen?",
+          "a": "EU-registrierte Haustiere benötigen zur Einreise nach Spanien einen gültigen EU-Heimtierausweis mit Mikrochip und aktueller Tollwutimpfung, ohne Quarantäne. Haustiere von außerhalb der EU benötigen eine Tiergesundheitsbescheinigung und gegebenenfalls einen Tollwut-Titertest, die Vorgaben des spanischen Landwirtschaftsministeriums (MAPA) für das jeweilige Herkunftsland prüfen."
         }
       ]
     },
@@ -776,6 +884,22 @@
           "q": "Qual é a melhor altura para visitar Gandía com um cão?",
           "a": "A primavera e o outono são as melhores, já que a proibição de praia só vigora de junho a setembro e o calor é mais ameno. Ainda aproveita o mar quente e longos passeios na praia em abril, maio, outubro e novembro, com muito menos restrições."
         }
+      ],
+      "titleDe": "Hundefreundliche Tipps für Gandía",
+      "introDe": "Gandía ist eine unkomplizierte Sommerbasis für Hundebesitzer, wenn man sich auf zwei Dinge einstellt: das strenge Strandverbot während der Badesaison und die valencianische Hitze. Mit der Strandpromenade, den Fluss- und Grünzugspaziergängen sowie einem Timing früh morgens und nach Einbruch der Dunkelheit öffnet sich die Stadt für einen selbst und den Hund.",
+      "faqsDe": [
+        {
+          "q": "Ist Gandía gut für Hunde geeignet?",
+          "a": "Es ist eine angenehme Sommerbasis, wenn man sich auf die Regeln einstellt. Die Strände verbieten Hunde von Juni bis September, aber die Strandpromenade, der Uferweg am Serpis und der Grünzug Vía Verda sind alle hundefreundlich, und die einfache, kostenlose Cercanías-Zugverbindung von Valencia macht die Anreise unkompliziert."
+        },
+        {
+          "q": "Was sollte ich für eine Reise mit Hund nach Gandía einpacken?",
+          "a": "EU-Heimtierausweis, einen Maulkorb für den Zug, eine Leine, Kotbeutel sowie einen faltbaren Wassernapf und Wasser für jeden Spaziergang mitnehmen. Im Sommer zusätzlich auf Pfotenschutz achten und Spaziergänge für kühle Stunden planen, eine Kühlmatte fürs Zimmer hilft bei der Hitze."
+        },
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch in Gandía mit Hund?",
+          "a": "Frühling und Herbst sind am besten, da das Strandverbot nur von Juni bis September gilt und die Hitze milder ist. Im April, Mai, Oktober und November gibt es trotzdem warmes Meer und lange Strandspaziergänge, bei deutlich weniger Einschränkungen für den Hund."
+        }
       ]
     },
     "attractions": {
@@ -809,7 +933,11 @@
           "tipFr": "Parcourez la vieille ville tôt ou en soirée ; alternez pour visiter le palais si l'un peut attendre dehors avec le chien",
           "tipEs": "Pasea el casco antiguo temprano o por la tarde; turnaos para entrar al palacio si alguien puede esperar fuera con el perro",
           "tipPt": "Percorra o centro histórico cedo ou ao final do dia; revezem-se para entrar no palácio se alguém puder esperar fora com o cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Palau+Ducal+dels+Borja+Gandia"
+          "googleMapsUrl": "https://maps.google.com/?q=Palau+Ducal+dels+Borja+Gandia",
+          "descriptionDe": "Der Herzogspalast der Familie Borja ist Gandías Wahrzeichen, mit über 500 Jahren Geschichte und der prächtigen Galería Dorada sowie dem Salón de Coronas im Inneren. Haustiere dürfen den Palast selbst nicht betreten, aber die stimmungsvollen Altstadtstraßen und Plätze rundherum eignen sich hervorragend für einen Spaziergang mit Leine, mit schattigen Bänken und Cafés zum Verweilen.",
+          "dogPolicyDe": "Hunde in den umliegenden Altstadtstraßen willkommen; nicht im Palast selbst",
+          "admissionFeeDe": "Altstadt kostenlos; Palasteintritt separat (Hunde nicht zugelassen)",
+          "tipDe": "Die Altstadt früh oder abends erkunden; abwechselnd in den Palast gehen, während eine Person mit dem Hund draußen wartet"
         },
         {
           "name": "Marina de Gandía & Port",
@@ -832,7 +960,11 @@
           "tipFr": "Allez-y à l'heure dorée pour l'ambiance la plus calme et des températures plus fraîches, puis installez-vous à une terrasse du quai pour dîner",
           "tipEs": "Ve a la hora dorada para el ambiente más tranquilo y temperaturas más frescas, y luego siéntate en una terraza del muelle para cenar",
           "tipPt": "Vá à hora dourada para o ambiente mais tranquilo e temperaturas mais frescas, e depois instale-se numa esplanada do cais para jantar",
-          "googleMapsUrl": "https://maps.google.com/?q=Marina+de+Gandia"
+          "googleMapsUrl": "https://maps.google.com/?q=Marina+de+Gandia",
+          "descriptionDe": "Gandías lebendiger Yachthafen, einer der größeren Sportboothäfen an der valencianischen Küste, ist ein angenehmer Ort im Freien für einen Spaziergang mit Leine zwischen den Booten und am Wasser entlang. Die Kaimauern und die nahen Straßen von El Grau bieten Fisch- und Reisrestaurants mit Terrassen, ideal, um einen Spaziergang mit einer Mahlzeit an der Seite des Hundes zu verbinden.",
+          "dogPolicyDe": "Angeleinte Hunde rund um den Yachthafen und die Kaimauern willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Zur goldenen Stunde kommen für die ruhigste Atmosphäre und kühlere Temperaturen, danach an einer Terrasse am Kai zum Abendessen niederlassen"
         },
         {
           "name": "Paseo Marítimo Neptuno",
@@ -855,7 +987,11 @@
           "tipFr": "Parcourez toute la longueur au lever du soleil en été pour l'air marin et l'ombre, c'est le seul itinéraire en bord de mer ouvert aux chiens même pendant l'interdiction de plage",
           "tipEs": "Recorre todo el largo al amanecer en verano por el aire marino y la sombra; es la única ruta junto al mar abierta a los perros incluso durante la prohibición de playa",
           "tipPt": "Percorra todo o comprimento ao nascer do sol no verão pelo ar marítimo e a sombra; é o único percurso à beira-mar aberto aos cães mesmo durante a proibição de praia",
-          "googleMapsUrl": "https://maps.google.com/?q=Paseo+Maritimo+Neptuno+Gandia"
+          "googleMapsUrl": "https://maps.google.com/?q=Paseo+Maritimo+Neptuno+Gandia",
+          "descriptionDe": "Die rund 3 km lange Strandpromenade entlang der gesamten Playa de Gandía ist der beste Hundespaziergang der Stadt und bleibt das ganze Jahr über für angeleinte Hunde geöffnet, selbst wenn der Sandstrand selbst im Sommer gesperrt ist. Breit, flach und von Palmen, Cafés und Meerblick gesäumt, ist sie das Rückgrat eines hundefreundlichen Tages im Badeort.",
+          "dogPolicyDe": "Angeleinte Hunde ganzjährig auf der Promenade willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Im Sommer die gesamte Strecke bei Sonnenaufgang laufen für Seeluft und Schatten, dies ist die einzige Strandroute, die auch während des Strandverbots für Hunde offen bleibt"
         }
       ],
       "tipsEn": [
@@ -901,6 +1037,14 @@
           "q": "Posso visitar as atrações de Gandía com o meu cão?",
           "a": "Sim, as ao ar livre. O centro histórico dos Borja, a marina e a longa marginal fazem-se facilmente com um cão com trela. O interior do Palau Ducal não admite animais, por isso planeiem revezar-se ou visitar antes as ruas em redor."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Gandía",
+      "introDe": "Gandía verbindet eine historische Borgia-Altstadt mit einem belebten Yachthafen und kilometerlangen Stränden, und vieles davon lässt sich gut mit Hund an der Seite erkunden. Zwar dürfen Haustiere nicht in den Palau Ducal der Borgia hinein, doch die umliegenden Altstadtstraßen, der Yachthafen und die lange Promenade sind alle im Freien und mit Leine hundefreundlich.",
+      "faqsDe": [
+        {
+          "q": "Kann ich die Sehenswürdigkeiten von Gandía mit meinem Hund besuchen?",
+          "a": "Ja, die im Freien gelegenen. Die Borgia-Altstadt, der Yachthafen und die lange Strandpromenade sind mit angeleintem Hund alle problemlos. Im Inneren des Palau Ducal sind Haustiere nicht erlaubt, also am besten abwechselnd hineingehen oder stattdessen die umliegenden Straßen besuchen."
+        }
       ]
     },
     "petsitting": {
@@ -925,11 +1069,17 @@
           "serviceTypeEs": "Reserva por app. Alojamiento, paseos, guardería",
           "serviceTypePt": "Reserva pela aplicação. Alojamento, passeios, creche",
           "pricePerDay": "€15–35/day depending on service",
-          "languages": ["Spanish", "English"],
+          "languages": [
+            "Spanish",
+            "English"
+          ],
           "tip": "Book a few days ahead in July and August; high-season availability in beach towns gets tight fast",
           "tipFr": "Réservez quelques jours à l'avance en juillet et août, les disponibilités de haute saison dans les villes balnéaires se réduisent vite",
           "tipEs": "Reserva con unos días de antelación en julio y agosto; la disponibilidad de temporada alta en pueblos de playa se reduce rápido",
-          "tipPt": "Reserve com alguns dias de antecedência em julho e agosto; a disponibilidade de época alta nas cidades balneares esgota depressa"
+          "tipPt": "Reserve com alguns dias de antecedência em julho e agosto; a disponibilidade de época alta nas cidades balneares esgota depressa",
+          "descriptionDe": "Gudog ist eine in Spanien weitverbreitete Plattform für Hundeunterbringung und Gassi-Service mit verifizierten Gastgebern und Betreuern im Bereich Playa de Gandía und El Grau. Eine praktische Option für Reisende, die eine kurze Betreuung oder eine Übernachtung brauchen, mit Buchungen, Versicherung und Bewertungen über die App.",
+          "serviceTypeDe": "App-basierte Buchung. Hundeunterbringung, Gassi-Service, Tagesbetreuung",
+          "tipDe": "Im Juli und August einige Tage im Voraus buchen; die Verfügbarkeit in der Hochsaison ist in Strandorten schnell knapp"
         },
         {
           "name": "Pawshake Gandía",
@@ -943,11 +1093,17 @@
           "serviceTypeEs": "Reserva online. Cuidado, paseos, guardería, alojamiento",
           "serviceTypePt": "Reserva online. Pet sitting, passeios, creche, alojamento",
           "pricePerDay": "€12–30/day",
-          "languages": ["Spanish", "English"],
+          "languages": [
+            "Spanish",
+            "English"
+          ],
           "tip": "Message a sitter before booking to confirm they are comfortable with your dog's size and energy in the summer heat",
           "tipFr": "Contactez un sitter avant de réserver pour confirmer qu'il est à l'aise avec la taille et l'énergie de votre chien dans la chaleur estivale",
           "tipEs": "Escribe a un cuidador antes de reservar para confirmar que se siente cómodo con el tamaño y la energía de tu perro con el calor del verano",
-          "tipPt": "Contacte um cuidador antes de reservar para confirmar que está à vontade com o tamanho e a energia do seu cão no calor do verão"
+          "tipPt": "Contacte um cuidador antes de reservar para confirmar que está à vontade com o tamanho e a energia do seu cão no calor do verão",
+          "descriptionDe": "Pawshake ist eine etablierte spanische Plattform für Haustierbetreuung, die Halter mit lokalen Betreuern für Kurzbesuche, Spaziergänge, Tagesbetreuung und Unterbringung im Raum Gandía verbindet. Alle Betreuer sind überprüft und durch die Pawshake-Versicherung abgedeckt, man kann ihnen vor der Buchung direkt schreiben, um zu klären, ob sie zum Hund passen.",
+          "serviceTypeDe": "Online-Buchung. Betreuung, Gassi-Service, Tagesbetreuung, Unterbringung",
+          "tipDe": "Vor der Buchung einem Betreuer schreiben, um zu klären, ob er mit Größe und Energie des Hundes bei Sommerhitze zurechtkommt"
         }
       ],
       "tipsEn": [
@@ -993,6 +1149,15 @@
           "q": "Quanto custa o pet sitting em Gandía?",
           "a": "Conte cerca de 12 a 35 euros por dia consoante o serviço, desde uma visita pontual a creche completa ou alojamento de noite. Os preços sobem em pleno verão, por isso reserve cedo através de uma plataforma como a Gudog ou a Pawshake para a melhor disponibilidade."
         }
+      ],
+      "titleDe": "Hundebetreuer & Tierbetreuung in Gandía",
+      "introDe": "Bei einem längeren Sommeraufenthalt gibt es Stunden, in denen man den Hund nicht mitnehmen kann, sei es für eine Palastbesichtigung im Innenbereich oder eine Mittagspause vor der Hitze. Gandía wird von Spaniens wichtigsten Online-Plattformen für Tierbetreuung abgedeckt, die mit geprüften lokalen Betreuern, Gassi-Gängern und Tagesstätten verbinden.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Hundebetreuung in Gandía?",
+          "a": "Je nach Leistung etwa 12 bis 35 Euro pro Tag, von einem kurzen Besuch bis zur vollen Tagesbetreuung oder Übernachtung. In der Hochsommersaison steigen die Preise, daher früh über eine Plattform wie Gudog oder Pawshake buchen, um die beste Verfügbarkeit zu bekommen."
+        }
       ]
     }
-  }}
+  }
+}

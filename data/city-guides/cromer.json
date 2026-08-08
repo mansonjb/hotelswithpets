@@ -39,7 +39,11 @@
           "tipFr": "Demandez une table au bar ou au salon, où les chiens sont les plus bienvenus, plutôt qu'au restaurant",
           "tipEs": "Pide una mesa en la barra o el salón, donde los perros son más bienvenidos, en lugar del restaurante",
           "tipPt": "Peça uma mesa no bar ou na sala, onde os cães são mais bem-vindos, em vez do restaurante",
-          "googleMapsUrl": "https://maps.google.com/?q=The+Red+Lion+Cromer"
+          "googleMapsUrl": "https://maps.google.com/?q=The+Red+Lion+Cromer",
+          "descriptionDe": "Ein stattlicher viktorianischer Pub mit Zimmern direkt an der Strandpromenade über dem Pier, einer der bekanntesten haustierfreundlichen Pubs in Norfolk. Hunde jeder Größe sind in Bar und Lounge willkommen, wo es eine eigene Doggy Bar und eine Hundespeisekarte gibt, und der Pub wurde für landesweite haustierfreundliche Auszeichnungen nominiert. Die Meeresfrüchteplatte und die lokalen Cromer-Krabben sollten Sie unbedingt bestellen.",
+          "petPolicyDe": "Hunde jeder Größe willkommen in Bar und Lounge; Hundebar und Hundespeisekarte",
+          "mustTryDe": "Die Meeresfrüchteplatte und frische Cromer-Krabben",
+          "tipDe": "Bitten Sie um einen Tisch in Bar oder Lounge, wo Hunde am willkommensten sind, statt im Restaurantbereich"
         },
         {
           "name": "The Jetty Cafe",
@@ -65,7 +69,11 @@
           "tipFr": "Prenez à emporter et marchez le long de la promenade, où les chiens sont admis toute l'année",
           "tipEs": "Pide para llevar y camina por el paseo, donde los perros están permitidos todo el año",
           "tipPt": "Peça para levar e caminhe pela marginal, onde os cães são permitidos todo o ano",
-          "googleMapsUrl": "https://maps.google.com/?q=Cromer+Pier+promenade"
+          "googleMapsUrl": "https://maps.google.com/?q=Cromer+Pier+promenade",
+          "descriptionDe": "Ein unkompliziertes, unabhängiges Café nur einen Steinwurf vom Cromer Pier und der Promenade entfernt, ein natürlicher Halt für Strandbesucher mit Hund. Es ist haustierfreundlich und gut gelegen für einen Kaffee oder einen Snack vor oder nach einem Spaziergang entlang der Strandpromenade, mit Meer und Pier direkt vor Ihnen. Ein entspannter, unkomplizierter Ort mitten im Geschehen.",
+          "petPolicyDe": "Hunde willkommen",
+          "mustTryDe": "Ein Kaffee auf der Promenade mit Blick auf den Pier",
+          "tipDe": "Holen Sie sich einen Kaffee zum Mitnehmen und gehen Sie damit die Promenade entlang, wo Hunde das ganze Jahr über erlaubt sind"
         },
         {
           "name": "Browne's on Bond Street",
@@ -91,9 +99,16 @@
           "tipFr": "Le jardin clos est l'endroit le plus calme pour un chien lors d'une journée d'été chargée",
           "tipEs": "El jardín amurallado es el sitio más tranquilo para un perro en un día de verano concurrido",
           "tipPt": "O jardim murado é o sítio mais calmo para um cão num dia de verão movimentado",
-          "googleMapsUrl": "https://maps.google.com/?q=Bond+Street+Cromer"
+          "googleMapsUrl": "https://maps.google.com/?q=Bond+Street+Cromer",
+          "descriptionDe": "Ein gemütliches, familiengeführtes Café etwas hinter der Strandpromenade, bekannt für lokale Cromer-Krabben und hausgemachten Kuchen, mit einem hübschen ummauerten Innenhofgarten. Hunde sind willkommen, und der geschützte Garten ist ein schöner Platz, um mit einem Begleiter windgeschützt vom Meer zu sitzen. Eine freundliche, lokale Alternative zu den belebteren Cafés an der Strandpromenade.",
+          "petPolicyDe": "Hunde willkommen im Innenhofgarten",
+          "mustTryDe": "Ein Cromer-Krabben-Sandwich und ein Stück hausgemachten Kuchen",
+          "tipDe": "Der ummauerte Garten ist der ruhigste Platz für einen Hund an einem belebten Sommertag"
         }
-      ]
+      ],
+      "titleDe": "Haustierfreundliche Pubs und Cafés in Cromer",
+      "introDe": "Cromer ist eine echte altmodische englische Küstenstadt, und ihre Pubs und Cafés sind daran gewöhnt, dass sandige Hunde vom Strand und vom Klippenweg hereinkommen. Mehrere Lokale halten Wassernäpfe und Leckerlis an der Tür bereit, und ein Pub direkt am Meer hat sogar eine eigene Hundebar. Die Stadt ist berühmt für Cromer-Krabben, die von den örtlichen Booten angelandet werden, sodass ein haustierfreundliches Mittagessen hier oft mit dem Fang des Tages einhergeht. Die folgenden Lokale heißen wohlerzogene Hunde an der Leine zuverlässig willkommen.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Best Dog Walks and Trails around Cromer",
@@ -129,7 +144,11 @@
           "tipFr": "Vous pouvez revenir par le train Bittern Line, accueillant pour les chiens, de Sheringham à Cromer",
           "tipEs": "Puedes volver en el tren Bittern Line, apto para perros, de Sheringham a Cromer",
           "tipPt": "Pode regressar no comboio Bittern Line, que aceita cães, de Sheringham a Cromer",
-          "googleMapsUrl": "https://maps.google.com/?q=Norfolk+Coast+Path+Cromer"
+          "googleMapsUrl": "https://maps.google.com/?q=Norfolk+Coast+Path+Cromer",
+          "descriptionDe": "Ein klassischer Klippenabschnitt des Norfolk Coast Path National Trail, der etwa sechs Kilometer von Cromer Pier westwärts über die Klippen und den Beeston Bump nach Sheringham führt, mit weitem Meerblick auf der gesamten Strecke. Er ist die perfekte Antwort auf das sommerliche Strandverbot, da er hoch auf den Klippen verläuft, wo Hunde an der Leine immer willkommen sind. Halten Sie Hunde in Klippennähe an der Leine, da diese stellenweise erodiert und unbefestigt ist.",
+          "petPolicyDe": "Hunde an der Leine in der Nähe der Klippenkante",
+          "mustTryDe": "Der Aufstieg über den Beeston Bump für den Meerblick",
+          "tipDe": "Sie können mit der haustierfreundlichen Bittern-Line-Bahn von Sheringham zurück nach Cromer fahren"
         },
         {
           "name": "Felbrigg Hall Estate",
@@ -155,7 +174,11 @@
           "tipFr": "Le parc et les bois du domaine sont en accès libre ; un billet n'est nécessaire que pour la maison et le jardin",
           "tipEs": "El parque y los bosques de la finca son de acceso libre; solo se necesita entrada para la casa y el jardín",
           "tipPt": "O parque e os bosques da propriedade são de acesso livre; só é preciso bilhete para a casa e o jardim",
-          "googleMapsUrl": "https://maps.google.com/?q=Felbrigg+Hall"
+          "googleMapsUrl": "https://maps.google.com/?q=Felbrigg+Hall",
+          "descriptionDe": "Ein prächtiges National-Trust-Anwesen bei Cromer mit rund 210 Hektar Wald, sanftem Parkland, einem See und ausgeschilderten, kinderwagenfreundlichen Wegen. Hunde sind auf dem gesamten Anwesen willkommen, sogar im Innenhof-Café Squire's Pantry, jedoch nicht im Herrenhaus oder im formalen ummauerten Garten. Vom 1. März bis 31. Juli müssen Hunde auf dem gesamten Anwesen an der Leine geführt werden, um bodenbrütende Vögel zu schützen, sowie zu anderen Zeiten in ausgewiesenen Bereichen.",
+          "petPolicyDe": "Hunde an der Leine auf dem Anwesen vom 1. März bis 31. Juli; nicht im Haus oder ummauerten Garten",
+          "mustTryDe": "Die Wege am See und im Wald, dann der Innenhof des Squire's Pantry",
+          "tipDe": "Das weitläufige Parkland und die Wälder sind kostenlos begehbar; ein Ticket wird nur für Haus und Garten benötigt"
         },
         {
           "name": "Cromer Clifftop and Lighthouse Walk",
@@ -181,9 +204,16 @@
           "tipFr": "Combinez avec un café en ville ; c'est une petite boucle facile depuis le front de mer",
           "tipEs": "Combínalo con un café en el pueblo; es un bucle corto y fácil desde el frente marítimo",
           "tipPt": "Combine com um café na vila; é um circuito curto e fácil a partir da marginal",
-          "googleMapsUrl": "https://maps.google.com/?q=Cromer+Lighthouse"
+          "googleMapsUrl": "https://maps.google.com/?q=Cromer+Lighthouse",
+          "descriptionDe": "Ein leichter Klippenspaziergang östlich der Stadt hinaus zum Leuchtturm von Cromer, der auf hohem Gelände über dem Meer steht, mit weitem Blick über Stadt, Pier und Küste. Die grasbewachsenen Wege und die offene Klippe sind das ganze Jahr über an der Leine hundefreundlich, eine gute Beinstreckung, wenn der Strand im Sommer für Hunde gesperrt ist. Halten Sie deutlichen Abstand zur Klippenkante, die stellenweise erodiert und unbefestigt ist.",
+          "petPolicyDe": "Hunde das ganze Jahr an der Leine; Abstand zur Klippenkante halten",
+          "mustTryDe": "Der Blick auf den Pier von den Leuchtturm-Klippen aus",
+          "tipDe": "Kombinieren Sie ihn mit einem Kaffee in der Stadt; es ist eine kurze, einfache Runde von der Strandpromenade aus"
         }
-      ]
+      ],
+      "titleDe": "Die besten Hundespaziergänge und Wanderwege rund um Cromer",
+      "introDe": "Wenn im Sommer das Strandverbot gilt, bleiben die Klippen und die Landschaft rund um Cromer hervorragend zum Spazierengehen. Der Norfolk Coast Path führt direkt durch die Stadt entlang der Klippen, und nur wenig landeinwärts bietet das große National-Trust-Anwesen Felbrigg Wälder, Parkland und einen See zum Erkunden. Dies ist die höchste Erhebung Norfolks, sodass die Klippenwege mit echtem Meerblick aufwarten. Halten Sie Hunde in der Nähe der Klippenkanten, die erodieren und instabil sein können, sowie im Frühjahr und Frühsommer in der Nähe von Weidevieh und bodenbrütenden Vögeln an der Leine.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Cromer with a Dog",
@@ -194,7 +224,10 @@
       "introFr": "Cromer est compacte et facile à parcourir à pied, avec le front de mer, la jetée et les falaises tout proches les uns des autres. La ville a sa propre gare sur la pittoresque Bittern Line, qui relie Cromer à Sheringham et Norwich, et les chiens voyagent gratuitement sur le réseau ferré national (jusqu'à deux par voyageur, en laisse), ce qui permet de marcher dans un sens le long de la côte et de reprendre le train au retour. Les bus locaux longent la côte vers Sheringham et les Runtons. Pour les visiteurs étrangers, l'aéroport de Norwich est la porte d'entrée la plus proche, à environ 45 minutes de route, la Bittern Line rejoignant Norwich.",
       "introEs": "Cromer es compacta y fácil de recorrer a pie, con el paseo marítimo, el muelle y los acantilados muy cerca unos de otros. El pueblo tiene su propia estación en la pintoresca Bittern Line, que enlaza Cromer con Sheringham y Norwich, y los perros viajan gratis en la red ferroviaria nacional (hasta dos por pasajero, con correa), lo que facilita caminar en un sentido por la costa y volver en tren. Los autobuses locales recorren la costa hacia Sheringham y los Runtons. Para los visitantes extranjeros, el aeropuerto de Norwich es la puerta más cercana, a unos 45 minutos por carretera, con la Bittern Line llegando a Norwich.",
       "introPt": "Cromer é compacta e fácil de percorrer a pé, com a marginal, o cais e as falésias muito próximos uns dos outros. A vila tem a sua própria estação na pitoresca Bittern Line, que liga Cromer a Sheringham e Norwich, e os cães viajam grátis na rede ferroviária nacional (até dois por passageiro, à trela), o que facilita caminhar num sentido pela costa e voltar de comboio. Os autocarros locais percorrem a costa até Sheringham e os Runtons. Para os visitantes estrangeiros, o aeroporto de Norwich é a porta mais próxima, a cerca de 45 minutos por estrada, com a Bittern Line a chegar a Norwich.",
-      "places": []
+      "places": [],
+      "titleDe": "Mit Hund in Cromer unterwegs",
+      "introDe": "Cromer ist kompakt und leicht zu Fuß zu erkunden, mit Strandpromenade, Pier und Klippen alle nah beieinander. Die Stadt hat einen eigenen Bahnhof an der malerischen Bittern Line, die Cromer mit Sheringham und Norwich verbindet, und Hunde reisen bei National Rail kostenlos mit (bis zu zwei pro Fahrgast, an der Leine), sodass Sie problemlos ein Stück Küste in eine Richtung laufen und mit dem Zug zurückfahren können. Örtliche Busse verkehren entlang der Küste nach Sheringham und zu den Runtons. Für Besucher aus dem Ausland ist der Flughafen Norwich das nächstgelegene Tor, etwa 45 Minuten mit dem Auto entfernt, wobei die Bittern Line bis nach Norwich fährt.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches in and around Cromer",
@@ -230,7 +263,11 @@
           "tipFr": "En été, utilisez la promenade ou allez à East Runton, qui reste accueillante pour les chiens toute l'année",
           "tipEs": "En verano, usa el paseo o ve a East Runton, que sigue admitiendo perros todo el año",
           "tipPt": "No verão, use a marginal ou vá a East Runton, que continua a aceitar cães todo o ano",
-          "googleMapsUrl": "https://maps.google.com/?q=Cromer+Beach"
+          "googleMapsUrl": "https://maps.google.com/?q=Cromer+Beach",
+          "descriptionDe": "Der breite Sand- und Kiesstrand der Stadt unterhalb der Klippen und des viktorianischen Piers. Vom 1. Mai bis 30. September sind Hunde beiderseits des Piers vom eigentlichen Strand verboten, und das Bußgeld von 100 £ wird durchgesetzt, halten Sie sich also im Sommer an die Promenade, wo Hunde an der Leine das ganze Jahr willkommen sind. Von Oktober bis April öffnet sich der Strand für Hunde und wird zu einem hervorragenden, luftigen offenen Raum zum Herumtoben unterhalb der Klippen.",
+          "petPolicyDe": "Strand verboten vom 1. Mai bis 30. Sept. (100 £ Bußgeld); Promenade ganzjährig; Strand für Hunde offen von Okt. bis Apr.",
+          "mustTryDe": "Ein Herbst- oder Winterspaziergang am Strand unterhalb der Klippen",
+          "tipDe": "Nutzen Sie im Sommer die Promenade oder fahren Sie nach East Runton, das das ganze Jahr über hundefreundlich bleibt"
         },
         {
           "name": "East Runton Beach",
@@ -256,7 +293,11 @@
           "tipFr": "Vérifiez les horaires des marées ; à marée haute, le sable se rétrécit nettement",
           "tipEs": "Consulta las mareas; con marea alta la arena se estrecha bastante",
           "tipPt": "Verifique as marés; na maré alta a areia estreita-se bastante",
-          "googleMapsUrl": "https://maps.google.com/?q=East+Runton+Beach"
+          "googleMapsUrl": "https://maps.google.com/?q=East+Runton+Beach",
+          "descriptionDe": "Der nächstgelegene ganzjährige Hundestrand zu Cromer und die Antwort auf das Sommerverbot. Dieser wunderschöne, breite Sandstrand, gesäumt von niedrigen Klippen und über eine Zufahrt im Dorf erreichbar, heißt Hunde das ganze Jahr über ohne saisonale Einschränkung willkommen. Bei Ebbe erstreckt sich der Sand über Kilometer, mit Gezeitentümpeln und viel Platz zum Apportieren. Von hier aus können Sie sogar am Strand entlang bis nach Cromer laufen.",
+          "petPolicyDe": "Ganzjährig hundefreundlich, keine saisonale Einschränkung",
+          "mustTryDe": "Der Sand bei Ebbe und die Gezeitentümpel unterhalb der Klippen",
+          "tipDe": "Prüfen Sie die Gezeitenzeiten; bei Flut wird der Sandstreifen deutlich schmaler"
         },
         {
           "name": "West Runton Beach",
@@ -282,9 +323,16 @@
           "tipFr": "Marchez au-delà des 200 premiers mètres depuis la cale pour éviter la restriction estivale",
           "tipEs": "Camina más allá de los primeros 200 metros desde la rampa para evitar la restricción de verano",
           "tipPt": "Caminhe para além dos primeiros 200 metros da rampa para evitar a restrição de verão",
-          "googleMapsUrl": "https://maps.google.com/?q=West+Runton+Beach"
+          "googleMapsUrl": "https://maps.google.com/?q=West+Runton+Beach",
+          "descriptionDe": "Ein ruhigerer Sand- und Kreidestrand, berühmt als Fundort des West-Runton-Mammuts, und ein großartiger Hundestrand. Er ist hundefreundlich, mit nur einer kleinen saisonalen Einschränkung vom 1. Mai bis 30. September auf den ersten rund 200 Metern von der Slipanlage; darüber hinaus sind Hunde ganzjährig willkommen. Gezeitentümpel und Kreidefelsen machen ihn bei Ebbe zu einem Favoriten zum Erkunden.",
+          "petPolicyDe": "Hundefreundlich; kleine Einschränkung nahe der Slipanlage vom 1. Mai bis 30. Sept.",
+          "mustTryDe": "Die Gezeitentümpel im Kreidefelsen bei Ebbe",
+          "tipDe": "Gehen Sie über die ersten 200 Meter von der Slipanlage hinaus, um außerhalb der Sommereinschränkung zu bleiben"
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Strände in und um Cromer",
+      "introDe": "Das ist der Grund, mit Hund nach Cromer zu kommen, aber die saisonalen Regeln sind wichtig und werden streng durchgesetzt. Der North Norfolk District Council betreibt eine Public Space Protection Order, die Hunde vom 1. Mai bis 30. September beiderseits des Piers vom Hauptstrand von Cromer verbietet, mit einem Bußgeld von 100 £ (und Strafverfolgung bis zu 1.000 £ bei Nichtzahlung). Hunde sind das ganze Jahr über auf der Promenade oberhalb des Strandes willkommen, und gleich an der Küste gibt es Strände, die den ganzen Sommer über hundefreundlich bleiben. Planen Sie um die Saison herum, und Sie finden einige der besten Hundestrände an der Ostküste.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinary Care in Cromer",
@@ -317,9 +365,15 @@
           "tipFr": "Appelez le 01263 808999 avant de venir pour toute urgence en dehors des heures d'ouverture",
           "tipEs": "Llama al 01263 808999 antes de acudir para cualquier urgencia fuera de horario",
           "tipPt": "Telefone para 01263 808999 antes de ir para qualquer emergência fora de horas",
-          "googleMapsUrl": "https://maps.google.com/?q=Cromer+Vets"
+          "googleMapsUrl": "https://maps.google.com/?q=Cromer+Vets",
+          "descriptionDe": "Eine unabhängige Kleintierpraxis in Cromer, die sich um Hunde, Katzen und andere Haustiere im gesamten Gebiet von Cley bis Mundesley kümmert. Sie bietet Routineversorgung, Diagnostik und Operationen sowie 24-Stunden-Unterstützung für ihre Klienten. Eine beruhigende örtliche Option während eines Küstenurlaubs mit Hund.",
+          "petPolicyDe": "Kleintierpraxis; 24-Stunden-Unterstützung für Klienten",
+          "tipDe": "Rufen Sie vor der Ankunft bei einem Notfall außerhalb der Sprechzeiten unter 01263 808999 an"
         }
-      ]
+      ],
+      "titleDe": "Tierärztliche Versorgung in Cromer",
+      "introDe": "Cromer hat eine eigene Kleintierpraxis in der Stadt, was an diesem Küstenabschnitt beruhigend ist. Speichern Sie die Nummer vor einem längeren Klippen- oder Strandspaziergang in Ihrem Telefon, und rufen Sie bei jedem Notfall außerhalb der Sprechzeiten vorher an, damit das Bereitschaftsteam auf Sie vorbereitet ist.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Cromer with a Dog",
@@ -330,7 +384,10 @@
       "introFr": "Cromer est une station balnéaire qui aime vraiment les chiens, mais l'essentiel est de bien respecter les règles saisonnières des plages. Du 1er mai au 30 septembre, les chiens sont interdits sur la plage principale de Cromer, de part et d'autre de la jetée, et l'amende forfaitaire de 100 £ est appliquée : en été, utilisez la promenade ou allez à East Runton, qui reste accueillante toute l'année, ou sur les portions dog-friendly de West Runton et Overstrand. D'octobre à avril, la plage de la ville s'ouvre entièrement aux chiens. Sur les falaises, tenez les chiens en laisse et bien à l'écart des bords qui s'effritent et ne sont pas clôturés, et en laisse près du bétail et des oiseaux nichant au sol à l'intérieur des terres. La Bittern Line, accueillante pour les chiens, permet de marcher la côte dans un sens et de revenir en train. Enfin, les visiteurs amenant un chien de l'UE en Grande-Bretagne ont désormais besoin d'un certificat sanitaire animal pour la Grande-Bretagne plutôt que du passeport européen, avec une puce, une vaccination antirabique valide et, si requis, un traitement contre le ténia. Organisez cela avec votre vétérinaire bien avant de partir.",
       "introEs": "Cromer es un pueblo costero que ama de verdad a los perros, pero lo importante es cumplir bien las normas de temporada de la playa. Del 1 de mayo al 30 de septiembre los perros están prohibidos en la playa principal de Cromer, a ambos lados del muelle, y la multa fija de 100 £ se aplica: en verano usa el paseo o ve a East Runton, que sigue admitiendo perros todo el año, o los tramos aptos para perros de West Runton y Overstrand. De octubre a abril la playa del pueblo se abre por completo a los perros. En los acantilados, lleva a los perros con correa y bien lejos de los bordes desmoronadizos y sin valla, y con correa cerca del ganado y las aves que anidan en el suelo tierra adentro. La Bittern Line, apta para perros, facilita caminar la costa en un sentido y volver en tren. Por último, los visitantes que traen un perro desde la UE a Gran Bretaña necesitan ahora un Certificado Sanitario Animal para Gran Bretaña en lugar del Pasaporte Europeo, más microchip, vacuna antirrábica válida y, cuando se exija, tratamiento contra la tenia. Gestiónalo con tu veterinario bastante antes de viajar.",
       "introPt": "Cromer é uma vila costeira que ama mesmo os cães, mas o importante é cumprir bem as regras sazonais da praia. De 1 de maio a 30 de setembro os cães são proibidos na praia principal de Cromer, de ambos os lados do cais, e a coima fixa de 100 £ é aplicada: no verão use a marginal ou vá a East Runton, que continua a aceitar cães todo o ano, ou os troços que aceitam cães de West Runton e Overstrand. De outubro a abril a praia da vila abre por completo aos cães. Nas falésias, mantenha os cães à trela e bem longe das bermas que desmoronam e sem vedação, e à trela perto do gado e das aves que nidificam no solo no interior. A Bittern Line, que aceita cães, facilita caminhar a costa num sentido e voltar de comboio. Por fim, os visitantes que trazem um cão da UE para a Grã-Bretanha precisam agora de um Certificado Sanitário Animal para a Grã-Bretanha em vez do Passaporte Europeu, além de microchip, vacina antirrábica válida e, quando exigido, tratamento contra a ténia. Trate disso com o seu veterinário bastante antes de viajar.",
-      "places": []
+      "places": [],
+      "titleDe": "Wichtige Tipps für einen Besuch in Cromer mit Hund",
+      "introDe": "Cromer ist eine wirklich hundeliebende Küstenstadt, aber die saisonalen Strandregeln sind der entscheidende Punkt. Vom 1. Mai bis 30. September sind Hunde beiderseits des Piers vom Hauptstrand von Cromer verboten, und das Bußgeld von 100 £ wird durchgesetzt, nutzen Sie also im Sommer die Promenade oder fahren Sie nach East Runton, das das ganze Jahr hundefreundlich bleibt, oder zu den hundefreundlichen Abschnitten von West Runton und Overstrand. Von Oktober bis April öffnet sich der Stadtstrand vollständig für Hunde. Halten Sie Hunde auf den Klippen an der Leine und deutlich von den bröckelnden, unbefestigten Kanten entfernt, sowie landeinwärts in der Nähe von Weidevieh und bodenbrütenden Vögeln an der Leine. Die haustierfreundliche Bittern Line macht es leicht, die Küste in eine Richtung zu laufen und mit dem Zug zurückzufahren. Schließlich benötigen Besucher, die einen Hund aus der EU nach Großbritannien mitbringen, inzwischen eine britische Tiergesundheitsbescheinigung (Great Britain Animal Health Certificate) statt des EU-Heimtierausweises, zusätzlich zu einem Mikrochip, einer gültigen Tollwutimpfung und, falls erforderlich, einer Bandwurmbehandlung. Klären Sie dies rechtzeitig vor der Reise mit Ihrem Tierarzt.",
+      "faqsDe": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Days Out around Cromer",
@@ -366,7 +423,11 @@
           "tipFr": "Venez au coucher du soleil, quand la jetée s'illumine et que la promenade est la plus calme",
           "tipEs": "Ven al atardecer, cuando el muelle se ilumina y el paseo está más tranquilo",
           "tipPt": "Venha ao pôr do sol, quando o cais se ilumina e a marginal está mais tranquila",
-          "googleMapsUrl": "https://maps.google.com/?q=Cromer+Pier"
+          "googleMapsUrl": "https://maps.google.com/?q=Cromer+Pier",
+          "descriptionDe": "Das Herz der Küstenstadt: ein denkmalgeschützter viktorianischer Pier, der 1902 eröffnet wurde, Heimat des berühmten End-of-the-Pier-Theaters und der RNLI-Rettungsstation, hinausragend über das Meer. Hunde an der Leine sind das ganze Jahr über auf der Promenade willkommen, was einen Spaziergang entlang der Strandpromenade und hinaus zum Pier zu einer der besten kostenlosen Aktivitäten in Cromer mit Hund macht, ganz gleich zu welcher Jahreszeit.",
+          "petPolicyDe": "Hunde an der Leine ganzjährig auf der Promenade",
+          "mustTryDe": "Der Spaziergang entlang der Promenade unterhalb des Piers",
+          "tipDe": "Kommen Sie bei Sonnenuntergang, wenn der Pier beleuchtet wird und die Promenade am ruhigsten ist"
         },
         {
           "name": "Overstrand Beach and Village",
@@ -392,7 +453,11 @@
           "tipFr": "Utilisez les accès par les pentes pour rejoindre le sable dog-friendly pendant la restriction estivale",
           "tipEs": "Usa los accesos por las pendientes para llegar a la arena apta para perros durante la restricción de verano",
           "tipPt": "Use os acessos pelas encostas para chegar à areia que aceita cães durante a restrição de verão",
-          "googleMapsUrl": "https://maps.google.com/?q=Overstrand+Beach"
+          "googleMapsUrl": "https://maps.google.com/?q=Overstrand+Beach",
+          "descriptionDe": "Ein ruhigeres, von Klippen umgebenes Dorf östlich von Cromer, mit einem guten Sandstrand, der über die Hänge erreichbar ist. Vom 1. Mai bis 30. September werden Hunde vom mittleren Strandabschnitt nahe der Promenade ferngehalten, aber die hundefreundlichen Strandbereiche sind weiterhin über die Hänge erreichbar, und außerhalb dieser Monate öffnet sich der gesamte Strand. Das Dorf selbst ist ein angenehmer, unaufgeregter Spaziergang an der Leine.",
+          "petPolicyDe": "Mittlerer Strandabschnitt eingeschränkt vom 1. Mai bis 30. Sept.; hundefreundliche Bereiche über die Hänge erreichbar",
+          "mustTryDe": "Der ruhigere Sand abseits der zentralen Promenade",
+          "tipDe": "Nutzen Sie die Hangzugänge, um während der Sommereinschränkung den hundefreundlichen Sand zu erreichen"
         },
         {
           "name": "Sheringham Seaside Town",
@@ -418,9 +483,16 @@
           "tipFr": "Allez-y par le sentier côtier et revenez en train sur la Bittern Line accueillante pour les chiens",
           "tipEs": "Ve por el sendero costero y vuelve en el tren de la Bittern Line apta para perros",
           "tipPt": "Vá pelo trilho costeiro e regresse no comboio da Bittern Line que aceita cães",
-          "googleMapsUrl": "https://maps.google.com/?q=Sheringham"
+          "googleMapsUrl": "https://maps.google.com/?q=Sheringham",
+          "descriptionDe": "Eine charaktervolle alte Fischer- und Badestadt, einen kurzen Sprung westlich von Cromer, leicht erreichbar mit der haustierfreundlichen Bittern Line oder zu Fuß entlang des Norfolk Coast Path. Sie hat eine Promenade, eine unabhängige Einkaufsstraße und die Dampfeisenbahn North Norfolk Railway, und wie Cromer hat auch ihr Strand eine sommerliche Hundeeinschränkung, nutzen Sie also in der Saison die Promenade und die Klippen. Ein guter halber Tagesausflug mit Hund an der Leine.",
+          "petPolicyDe": "Hunde an der Leine in der Stadt; Strand hat wie in Cromer eine sommerliche Einschränkung",
+          "mustTryDe": "Die Promenade und die Dampfzüge der North Norfolk Railway",
+          "tipDe": "Laufen Sie den Küstenweg dorthin und fahren Sie mit der haustierfreundlichen Bittern-Line-Bahn zurück"
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Ausflüge rund um Cromer",
+      "introDe": "Selbst mit dem sommerlichen Strandverbot gibt es rund um Cromer mit Hund viel zu unternehmen. Die Strandpromenade mit ihrem viktorianischen Pier ist zu jeder Jahreszeit ein klassischer Spaziergang, und die benachbarten Küstenstädte und Dörfer entlang der Küste sind allesamt einfache, hundefreundliche Ausflüge an der Leine. Das Beste an Cromer spielt sich meist im Freien ab und ist kostenlos, was perfekt zu einem Tag mit Hund passt.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Dog Sitting and Boarding around Cromer",
@@ -452,9 +524,15 @@
           "tipFr": "Confirmez la licence en cours et les dates disponibles par téléphone avant de partir",
           "tipEs": "Confirma la licencia vigente y las fechas disponibles por teléfono antes de viajar",
           "tipPt": "Confirme a licença atual e as datas disponíveis por telefone antes de viajar",
-          "googleMapsUrl": "https://maps.google.com/?q=Britons+Lane+Sheringham"
+          "googleMapsUrl": "https://maps.google.com/?q=Britons+Lane+Sheringham",
+          "descriptionDe": "Eine lizenzierte Hundepension in der Britons Lane bei Sheringham, die nächstgelegene Pensionsoption zu Cromer, mit gültiger Lizenz der örtlichen Behörde. Eine praktische Wahl für einen Tag oder eine Übernachtung, während Sie die Sommerstrände oder eine Attraktion genießen, die keine Hunde zulässt. Wie bei jedem lizenzierten Pensionsbetrieb sollten Sie aktuelle Impfnachweise mitbringen.",
+          "petPolicyDe": "Lizenzierte Hundepension; behördlich zugelassen",
+          "tipDe": "Bestätigen Sie die aktuelle Lizenz und verfügbare Termine vor der Reise telefonisch"
         }
-      ]
+      ],
+      "titleDe": "Hundesitting und Pensionen rund um Cromer",
+      "introDe": "Für die Stunden, in denen der Sommerstrand oder eine Indoor-Attraktion für Hunde tabu ist, gibt es lizenzierte Pensionen und Betreuung zu Hause in und um Cromer sowie im benachbarten Sheringham. Buchen Sie für den Sommer und Feiertage weit im Voraus, wenn die Küste von North Norfolk voll ausgebucht ist, und rechnen Sie damit, dass ein lizenzierter Sitter vor der Ankunft Ihres Hundes einen Impfnachweis verlangt.",
+      "faqsDe": []
     }
   }
 }

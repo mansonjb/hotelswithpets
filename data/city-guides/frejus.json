@@ -39,7 +39,11 @@
           "tipFr": "Réservez le déjeuner du samedi en été ; la terrasse se remplit d'équipages de bateaux dès 12h30 et un chien est mieux installé avec une place garantie.",
           "tipEs": "Reserva la comida del sábado en verano; la terraza se llena de tripulaciones desde las 12:30 y un perro está mejor con sitio asegurado.",
           "tipPt": "Reserve o almoço de sábado no verão; a esplanada enche-se de tripulações a partir das 12h30 e um cão fica melhor com lugar garantido.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brasserie+Jacques+Port+Frejus"
+          "googleMapsUrl": "https://maps.google.com/?q=Brasserie+Jacques+Port+Frejus",
+          "descriptionDe": "Eine altbewährte Brasserie am Kai von Port Fréjus mit einer breiten Terrasse mit Blick auf den Yachthafen und die dort vertäuten offenen Boote. Auf der Karte steht solide Riviera-Brasserieküche: Moules-frites, Plateau de fruits de mer, gegrillter Fisch und abends Pizza. Hunde an der Leine gehören täglich zum Terrassenbild; für Schatten und Brise am besten nach den Tischen in der ersten Reihe am Wasser fragen.",
+          "petPolicyDe": "Hunde an der Leine auf der Terrasse willkommen",
+          "mustTryDe": "Moules-frites, Plateau de fruits de mer, gegrillter Fisch",
+          "tipDe": "Samstagsmittag im Sommer vorab reservieren; die Terrasse am Yachthafen füllt sich ab 12:30 Uhr mit Bootsbesatzungen, und ein Hund unter dem Tisch ist mit einem garantierten Platz entspannter."
         },
         {
           "name": "L'Arena",
@@ -65,7 +69,11 @@
           "tipFr": "Place Agricola est piétonne mais les livraisons passent jusqu'à 11h ; arrivez après 12h pour une table tranquille.",
           "tipEs": "La Place Agricola es peatonal pero los repartos pasan hasta las 11:00; llega después de las 12:00 para una mesa tranquila.",
           "tipPt": "A Place Agricola é pedonal mas os entregadores passam até às 11h; chegue depois das 12h para uma mesa tranquila.",
-          "googleMapsUrl": "https://maps.google.com/?q=Place+Agricola+Frejus"
+          "googleMapsUrl": "https://maps.google.com/?q=Place+Agricola+Frejus",
+          "descriptionDe": "Ein provenzalisches Nachbarschaftsbistro an einem kleinen Platz in der mittelalterlichen Altstadt, wenige Minuten vom römischen Amphitheater entfernt. Draußen zieht sich die Bestuhlung unter den Platanen um die Ecke, mit einem entspannten Service, der gut zu einem Hund zu Füßen passt. Kurze, marktfrische Karte: Pissaladière, Tielle, geschmorte Daube, gegrillter lokaler Fisch, einfache Desserts.",
+          "petPolicyDe": "Hunde an der Leine an den Außentischen willkommen",
+          "mustTryDe": "Pissaladière, Daube, gegrillte Daurade",
+          "tipDe": "Die Place Agricola ist Fußgängerzone, doch die morgendlichen Lieferwagen fahren bis 11:00 Uhr durch; nach 12:00 Uhr für einen ruhigeren Tisch kommen."
         },
         {
           "name": "Les Pieds dans l'Eau",
@@ -91,9 +99,16 @@
           "tipFr": "Combinez une baignade à la plage canine d'Argens à 200 m avec un déjeuner ici ; le restaurant a une douche pour chien sur la terrasse après la baignade.",
           "tipEs": "Combina un baño en la playa canina de Argens a 200 m con la comida aquí; el restaurante tiene una ducha para perros en la terraza tras el baño.",
           "tipPt": "Combine um banho na praia canina de Argens a 200 m com o almoço aqui; o restaurante tem um chuveiro para cães na esplanada depois do banho.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plage+Argens+Saint+Aygulf"
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+Argens+Saint+Aygulf",
+          "descriptionDe": "Ein entspanntes Strandrestaurant am langen Sandstrand von Saint-Aygulf, direkt neben dem offiziellen Hundestrand Plage d'Argens. Die Terrasse liegt auf einem Holzdeck über dem Sand, und angeleinte Hunde sind an den Außentischen willkommen. Die Karte bietet sommerlichen Brasserie-Standard: Salate, gegrillter Fisch, täglicher Plat du jour, Eis und Krüge mit Rosé.",
+          "petPolicyDe": "Hunde an der Leine auf der Holzdeck-Terrasse willkommen",
+          "mustTryDe": "Salade Niçoise, gegrillter Wolfsbarsch, täglicher Plat du jour",
+          "tipDe": "Ein Bad am 200 m entfernten Hundestrand Argens mit dem Mittagessen hier verbinden; das Restaurant hat eine Hundedusche auf dem Deck für nach dem Schwimmen."
         }
-      ]
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Fréjus",
+      "introDe": "Fréjus zählt durchweg zu den hundefreundlichsten Städten an der Côte d'Azur, und das zeigt sich auch in der Restaurantszene. Am Yachthafen Port Fréjus reiht sich eine lange Zeile von Brasserien mit Terrassen direkt am Wasser aneinander, die Hunde ganz selbstverständlich willkommen heißen; die mittelalterliche Altstadt rund um die Place Formigé und die Kathedrale Saint-Léonce hat kleine Bistros mit Straßenterrassen, wo ein angeleinter Hund zum Alltagsbild gehört; und am Strand von Saint-Aygulf liegen ungezwungene Strandrestaurants direkt neben dem offiziellen Hundestrand Plage d'Argens.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks in Fréjus",
@@ -124,7 +139,10 @@
           "tipFr": "Stationnez sur le parking central du Boulevard de la Mer ; le Woof Park est à 300 m à l'est du centre d'accueil et est balisé.",
           "tipEs": "Aparca en el aparcamiento central del Boulevard de la Mer; el Woof Park está a 300 m al este del centro de visitantes y está señalizado.",
           "tipPt": "Estacione no parque central do Boulevard de la Mer; o Woof Park fica a 300 m a leste do centro de acolhimento e encontra-se sinalizado.",
-          "googleMapsUrl": "https://maps.google.com/?q=Base+Nature+Frejus"
+          "googleMapsUrl": "https://maps.google.com/?q=Base+Nature+Frejus",
+          "descriptionDe": "Die Base Nature François Léotard ist ein über 100 Hektar großer Park auf dem Gelände des ehemaligen Marineflugplatzes von Fréjus, mit flachen Asphaltwegen, Picknickwiesen, einem frei zugänglichen Strand (Pacha Plage) und nun einem brandneuen, vollständig eingezäunten Freilaufbereich, dem Woof Park. Der Hundepark bietet Agility-Hindernisse, einen Trinkbrunnen mit Druckknopf und schattige Bänke für Halter. Kampfhunde der Kategorien 1 und 2 sind im Woof Park nicht zugelassen.",
+          "petPolicyDe": "Hunde an der Leine im gesamten Park willkommen; Freilauf innerhalb des Woof-Park-Geheges; Kategorien 1 und 2 im Woof Park verboten",
+          "tipDe": "Am zentralen Parkplatz Boulevard de la Mer parken; der Woof Park liegt 300 m östlich des Hauptbesucherzentrums und ist ausgeschildert."
         },
         {
           "name": "Jardins de la Villa Aurelienne",
@@ -145,7 +163,10 @@
           "tipFr": "La colline autour de la villa offre la meilleure vue du coucher de soleil sur la baie ; arrivez 30 minutes avant le couchant.",
           "tipEs": "La colina alrededor de la villa ofrece la mejor vista del atardecer sobre la bahía; llega 30 minutos antes del ocaso.",
           "tipPt": "A colina em torno da villa oferece a melhor vista do pôr do sol sobre a baía; chegue 30 minutos antes do anoitecer.",
-          "googleMapsUrl": "https://maps.google.com/?q=Villa+Aurelienne+Frejus"
+          "googleMapsUrl": "https://maps.google.com/?q=Villa+Aurelienne+Frejus",
+          "descriptionDe": "Ein 23 Hektar großer bewaldeter Park rund um die Villa Aurelienne aus dem 19. Jahrhundert, wenige Minuten nördlich der Vieille Ville. Hohe Schirmpinien spenden im Sommer tiefen Schatten, und ein Netz schattiger Wege eignet sich ideal für einen langsamen Morgenspaziergang mit einem älteren Hund. Die Ruinen des römischen Aquädukts durchziehen den Park, ein ungewöhnlicher Rahmen für den täglichen Spaziergang.",
+          "petPolicyDe": "Hunde an der Leine auf allen Wegen willkommen",
+          "tipDe": "Der Hügel rund um die Villa bietet den besten Sonnenuntergangsblick auf die Bucht; 30 Minuten vor Sonnenuntergang ankommen."
         },
         {
           "name": "Étangs de Villepey",
@@ -166,9 +187,15 @@
           "tipFr": "Emportez du répulsif insectes les soirs d'été ; le bord de l'étang est moustique-lourd après 18h de mai à septembre.",
           "tipEs": "Lleva repelente de insectos las tardes de verano; el borde de la laguna está cargado de mosquitos después de las 18:00 de mayo a septiembre.",
           "tipPt": "Leve repelente de insetos nos fins de tarde de verão; a borda da lagoa enche-se de mosquitos depois das 18h de maio a setembro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Etangs+Villepey+Frejus"
+          "googleMapsUrl": "https://maps.google.com/?q=Etangs+Villepey+Frejus",
+          "descriptionDe": "Ein 260 Hektar großes Küstenlagunen- und Feuchtgebietsreservat am westlichen Rand der Gemeinde Fréjus, zwischen Saint-Aygulf und der Argens-Mündung. Flache, markierte Wege führen durch Schilfgürtel und Dünen mit reicher Vogelwelt. Hunde an der Leine sind auf den Randwegen erlaubt; die zentralen Reservatsbereiche sind geschützt und für Besucher gesperrt.",
+          "petPolicyDe": "Hunde an der Leine auf den Randwegen willkommen; zentrale Reservatsbereiche gesperrt",
+          "tipDe": "An Sommerabenden Insektenschutzmittel mitbringen; der Lagunenrand ist von Mai bis September nach 18:00 Uhr stark von Mücken betroffen."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Parks in Fréjus",
+      "introDe": "Fréjus hat in den letzten Jahren stark in die Hundeinfrastruktur investiert. Vorzeigeprojekt ist die über 100 Hektar große Base Nature François Léotard auf dem Gelände des ehemaligen Marineflugplatzes, wo 2025 ein brandneuer, vollständig eingezäunter Freilaufbereich, der Woof Park, mit Agility-Hindernissen, Wasserstellen und schattigen Bänken eröffnet wurde. Dazu kommen die bewaldeten Jardins de la Villa Aurelienne und die Uferwege entlang des Argens, sodass hier eines der besten Parknetze für Hunde an der Côte d'Azur entsteht.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Pet-Friendly Transport in Fréjus",
@@ -198,7 +225,10 @@
           "tipFr": "Pour une correspondance TGV vers Paris ou Lyon, changez à Saint-Raphaël-Valescure (un arrêt à l'est, 5 min) ; Fréjus elle-même n'est desservie qu'en TER.",
           "tipEs": "Para conexión TGV a París o Lyon, cambia en Saint-Raphaël-Valescure (una parada al este, 5 min); Fréjus mismo es solo TER.",
           "tipPt": "Para ligação TGV a Paris ou Lyon, mude em Saint-Raphaël-Valescure (uma paragem a leste, 5 min); Fréjus em si só tem TER.",
-          "googleMapsUrl": "https://maps.google.com/?q=Gare+SNCF+Frejus"
+          "googleMapsUrl": "https://maps.google.com/?q=Gare+SNCF+Frejus",
+          "descriptionDe": "Der Bahnhof Fréjus liegt zwischen Saint-Raphaël und Les Arcs-Draguignan an der TER-Küstenlinie, mit Regionalverbindungen nach Cannes (40 Min.), Nizza (1 Std.), Toulon (1 Std.) und Marseille Saint-Charles (2 Std. 15 Min.). Es gelten die nationalen SNCF-Regeln: Hunde unter 6 kg im Transportkorb fahren für 7,50 EUR, größere Hunde an Leine und mit Maulkorb zahlen 50 Prozent des Erwachsenentarifs.",
+          "petPolicyDe": "Hunde <6 kg im Transportkorb 7,50 EUR; Hunde >6 kg zahlen 50% des Erwachsenentarifs, an Leine und mit Maulkorb",
+          "tipDe": "Für TGV-Anschlüsse nach Paris oder Lyon in Saint-Raphaël-Valescure umsteigen (eine Station östlich, 5 Min.); Fréjus selbst wird nur von TER-Zügen bedient."
         },
         {
           "name": "Estérel Côte d'Azur LeBus",
@@ -218,7 +248,10 @@
           "tipFr": "Avec un chien moyen ou grand, préférez la marche ou un taxi/VTC ; la règle LeBus est appliquée strictement à la porte.",
           "tipEs": "Con perro mediano o grande, mejor caminar o usar taxi/VTC; la regla LeBus se aplica estrictamente en la puerta.",
           "tipPt": "Com cão médio ou grande, ande a pé ou use táxi/VTC; a regra do LeBus é aplicada à risca à porta.",
-          "googleMapsUrl": "https://www.agglobus-cavem.com"
+          "googleMapsUrl": "https://www.agglobus-cavem.com",
+          "descriptionDe": "Estérel Côte d'Azur LeBus (ehemals Agglobus CAVEM, umbenannt im September 2022) betreibt die Stadtbusse in Fréjus, Saint-Raphaël und vier Nachbargemeinden. Laut der offiziellen Regelseite werden nur kleine Haustiere in Korb oder Transportbox akzeptiert (kostenlos); große Hunde sind nicht zugelassen, ausgenommen Blindenführhunde an der Leine. Praktisch für Saint-Raphaël oder die Base Nature mit einem kleinen Korbhund, nicht praktikabel mit einem mittelgroßen oder großen Tier.",
+          "petPolicyDe": "Kleine Haustiere im Korb/Transportbox kostenlos; große Hunde nicht zugelassen (nur Blindenführhunde)",
+          "tipDe": "Bei einem mittelgroßen oder großen Hund zu Fuß gehen oder ein Taxi/VTC nutzen; die LeBus-Regel wird an der Tür strikt angewendet."
         },
         {
           "name": "TER coastal line to Cannes and Nice",
@@ -238,9 +271,15 @@
           "tipEs": "Siéntate en el lado sur (a la derecha en sentido este, a la izquierda en sentido oeste) para vistas ininterrumpidas al mar y a las rocas rojas del Esterel.",
           "tipPt": "Sente-se do lado sul (à direita no sentido leste, à esquerda no sentido oeste) para vistas ininterruptas do mar e das rochas vermelhas do Estérel.",
           "googleMapsUrl": "https://www.ter.sncf.com/sud-provence-alpes-cote-azur",
-          "photo": "/images/city-places/frejus-transport-ter-coastal-line-to-cannes-and-nice.jpg"
+          "photo": "/images/city-places/frejus-transport-ter-coastal-line-to-cannes-and-nice.jpg",
+          "descriptionDe": "Die TER-Küstenlinie Provence-Alpes-Côte d'Azur verbindet Fréjus mehrmals stündlich direkt mit Cannes (40 Minuten), Antibes (50 Minuten), Nizza (1 Std.) und Monaco (1 Std. 25 Min.). Die Strecke entlang des Esterel-Massivs zählt zu den spektakulärsten Zugfahrten Frankreichs. Es gelten die SNCF-Haustierregeln: Transportkorb unter 6 kg, Leine und Maulkorb über 6 kg.",
+          "petPolicyDe": "Nationale SNCF-Regeln gelten (Transportkorb unter 6 kg, Leine und Maulkorb darüber)",
+          "tipDe": "Auf der Südseite sitzen (rechts in Richtung Osten, links in Richtung Westen) für ununterbrochenen Blick auf Meer und rote Esterel-Felsen."
         }
-      ]
+      ],
+      "titleDe": "Haustierfreundlicher Nahverkehr in Fréjus",
+      "introDe": "Fréjus liegt an der Küstenbahnlinie Marseille-Vintimille und ist mit dem 5 km entfernten Saint-Raphaël verschwistert, das den regionalen TGV-Umsteigebahnhof besitzt. Für Hunde in Zügen gelten die nationalen SNCF-Regeln. Das lokale Busnetz Estérel Côte d'Azur LeBus (ehemals Agglobus CAVEM) nimmt nur kleine Haustiere im Korb sowie Blindenführhunde mit; große Hunde sind nicht zugelassen, weshalb für Besucher mit einem mittelgroßen oder großen Tier Zug und Fußweg die praktikable Kombination sind.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches in Fréjus",
@@ -271,7 +310,10 @@
           "tipFr": "Stationnez sur le parking du front de mer de Saint-Aygulf à 200 m à l'est ; en juillet-août, arrivez avant 9h pour l'ombre derrière le sable.",
           "tipEs": "Aparca en el aparcamiento del paseo marítimo de Saint-Aygulf 200 m al este; en julio y agosto, llega antes de las 9:00 para coger sombra detrás de la arena.",
           "tipPt": "Estacione no parque da frente-mar de Saint-Aygulf 200 m a leste; em julho e agosto, chegue antes das 9h para apanhar sombra atrás da areia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plage+Argens+Saint+Aygulf+cani+plage"
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+Argens+Saint+Aygulf+cani+plage",
+          "descriptionDe": "Die Plage d'Argens in Saint-Aygulf ist der größte der drei offiziellen Hundestrände von Fréjus, ein breiter Streifen feinen Sands, den die Stadt Fréjus ganzjährig für Hunde reserviert. Der Sand fällt sanft ab und das Wasser ist ruhig, ideal für Hunde jeder Größe; Leinenpflicht besteht, und am Zugangsweg stehen Abfalleimer bereit.",
+          "petPolicyDe": "Hunde ganzjährig an der Leine willkommen; Gemeindeverordnung gilt",
+          "tipDe": "Am Parkplatz an der Strandpromenade von Saint-Aygulf 200 m östlich parken; im Juli und August vor 9 Uhr ankommen, um Schatten unter den Bäumen hinter dem Sand zu ergattern."
         },
         {
           "name": "Plage des Esclamandes (dog zone)",
@@ -292,7 +334,10 @@
           "tipFr": "Évitez le secteur naturiste à 100 m au sud de la zone canine si vous voyagez avec des enfants.",
           "tipEs": "Evita el sector naturista 100 m al sur de la zona canina si viajas con niños.",
           "tipPt": "Evite o setor naturista 100 m a sul da zona canina se viajar com crianças.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plage+Esclamandes+Frejus"
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+Esclamandes+Frejus",
+          "descriptionDe": "Die Plage des Esclamandes ist in vier Bereiche unterteilt: Familie, Naturisten, Kitesurfen und Hunde. Die Hundezone liegt am äußersten nördlichen Ende des Strands, mit Beschilderung und Mülleimern markiert. Sie ist ruhiger als Argens, und die felsige Küstenlinie am Hundeende eignet sich gut zum Ballspielen.",
+          "petPolicyDe": "Hunde ganzjährig in der markierten nördlichen Zone an der Leine willkommen",
+          "tipDe": "Den Naturistenbereich 100 m südlich der Hundezone meiden, wenn Kinder mit dabei sind."
         },
         {
           "name": "Plage de la Base Nature (Pacha Plage)",
@@ -313,9 +358,15 @@
           "tipFr": "Combinez une baignade à Pacha Plage avec un passage au Woof Park ; les deux sont à 5 minutes l'un de l'autre dans la même Base Nature.",
           "tipEs": "Combina un baño en Pacha Plage con una vuelta al Woof Park; ambos están a 5 minutos uno del otro en la misma Base Nature.",
           "tipPt": "Combine um banho na Pacha Plage com uma volta ao Woof Park; ambos estão a 5 minutos um do outro na mesma Base Nature.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pacha+Plage+Base+Nature+Frejus"
+          "googleMapsUrl": "https://maps.google.com/?q=Pacha+Plage+Base+Nature+Frejus",
+          "descriptionDe": "Pacha Plage ist der hundefreundliche Abschnitt der frei zugänglichen Küste der Base Nature, gegenüber dem Haupteingang des Parks. Der Strand ist mit Hundeduschen und eigens von der Stadt unterhaltenen Mülleimern ausgestattet. Der Streifen ist schmal, doch der dahinterliegende große Park bietet insgesamt reichlich Auslauffläche.",
+          "petPolicyDe": "Hunde ganzjährig an der Leine willkommen; Hundeduschen und Mülleimer vorhanden",
+          "tipDe": "Ein Bad an der Pacha Plage mit einer Runde im Woof Park verbinden; beide liegen nur 5 Minuten voneinander entfernt im selben Base-Nature-Gelände."
         }
-      ]
+      ],
+      "titleDe": "Hundestrände in Fréjus",
+      "introDe": "Fréjus ist mit deutlichem Abstand die hundefreundlichste Strandgemeinde an der Côte d'Azur: Die Stadt unterhält drei separate offizielle Hundestrände, alle ganzjährig geöffnet, auch während der Badesaison. Die Plage d'Argens in Saint-Aygulf ist der größte, mit einem eigenen Sandabschnitt, der per Gemeindeverordnung reserviert ist; die Plage des Esclamandes hat eine markierte Hundezone an ihrem nördlichen Ende; und die Plage de Base Nature (Pacha Plage) verfügt über Hundeduschen und eigene Mülleimer. Die übrigen städtischen Strände von Fréjus-Plage setzen das übliche Sommerverbot vom 15. Juni bis 15. September durch.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinarians in Fréjus",
@@ -347,7 +398,10 @@
           "tipFr": "Appelez avant de venir pour une consultation simple ; les après-midi d'été l'attente peut atteindre 60 minutes.",
           "tipEs": "Llama antes de presentarte para una consulta rutinaria; las tardes de verano la espera puede llegar a 60 minutos.",
           "tipPt": "Ligue antes de aparecer para uma consulta de rotina; nas tardes de verão a espera pode chegar a 60 minutos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+des+Arenes+Frejus"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+des+Arenes+Frejus",
+          "descriptionDe": "Eine Allgemeinpraxis an der Avenue du XV Corps nahe dem römischen Amphitheater, einen kurzen Fußweg vom SNCF-Bahnhof entfernt. Die Klinik bietet Sprechstunden, Chirurgie, Bildgebung und Zahnheilkunde und betreibt über die Praxisnummer einen 24/7-Bereitschaftsnotdienst, nützlich für spät ankommende Reisende.",
+          "petPolicyDe": "Alle Haustiere willkommen; EU-Heimtierausweis-Dokumentation wird ausgestellt",
+          "tipDe": "Vor einer Routinekonsultation ohne Termin anrufen; an Sommernachmittagen kann die Wartezeit bis zu 60 Minuten betragen."
         },
         {
           "name": "VET'AURELIA Saint-Raphaël",
@@ -369,7 +423,10 @@
           "tipFr": "Pour un diagnostic complexe (oncologie, imagerie avancée), VET'AURELIA à Saint-Raphaël est mieux équipée que les cabinets plus petits de Fréjus ; demandez le renvoi par votre vétérinaire de voyage.",
           "tipEs": "Para diagnósticos complejos (oncología, imagen avanzada), VET'AURELIA en Saint-Raphaël está mejor equipada que las consultas más pequeñas de Fréjus; pide la derivación a tu veterinario de viaje.",
           "tipPt": "Para diagnósticos complexos (oncologia, imagiologia avançada), a VET'AURELIA em Saint-Raphaël encontra-se mais bem equipada do que as clínicas mais pequenas de Fréjus; peça o reencaminhamento ao seu veterinário de viagem.",
-          "googleMapsUrl": "https://maps.google.com/?q=VETAURELIA+Saint+Raphael"
+          "googleMapsUrl": "https://maps.google.com/?q=VETAURELIA+Saint+Raphael",
+          "descriptionDe": "Eine größere Praxis mit sechs Tierärzten am östlichen Rand von Saint-Raphaël (im November 2023 in die Rue des Pins Parasols umgezogen). Die Klinik verfügt über vollständige digitale Radiographie, Ultraschall und ein hauseigenes Labor und ist die Referenzstelle für komplexe Fälle in der Region Fréjus/Saint-Raphaël. Nach Terminvereinbarung, Notfälle werden über den regionalen Bereitschaftsdienst 0893020600 abgewickelt.",
+          "petPolicyDe": "Alle Haustiere willkommen; Terminvereinbarung bevorzugt; regionale Notfalllinie 0893020600",
+          "tipDe": "Für komplexe Diagnostik (Onkologie, erweiterte Bildgebung) ist VET'AURELIA in Saint-Raphaël besser ausgestattet als die kleineren Praxen in Fréjus; den Reisetierarzt um eine Überweisung bitten."
         },
         {
           "name": "3115 Service Urgences Vétérinaires",
@@ -391,9 +448,15 @@
           "tipFr": "Enregistrez aussi le 0893020600 régional et la ligne directe de la Clinique des Arènes avant de partir dans l'Estérel.",
           "tipEs": "Guarda también el regional 0893020600 y la línea directa de la Clinique des Arènes antes de adentrarte en el Esterel.",
           "tipPt": "Guarde também o 0893020600 regional e a linha direta da Clinique des Arènes antes de partir para o Estérel.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Die nationale Tiernotrufnummer 3115 ist kostenlos, rund um die Uhr erreichbar und verbindet mit dem nächstgelegenen diensthabenden Tierarzt. Sie deckt das gesamte Département Var ab, einschließlich des Massif de l'Estérel, wo der Mobilfunkempfang lückenhaft ist, nützlich bei einer Wanderung mit Hund abseits der Stadt.",
+          "petPolicyDe": "Alle Tierarten, rund um die Uhr",
+          "tipDe": "Die regionale Ausweichnummer 0893020600 und die Direktnummer der Clinique des Arènes vor der Wanderung in die Esterel-Hügel im Telefon speichern."
         }
-      ]
+      ],
+      "titleDe": "Tierärzte in Fréjus",
+      "introDe": "Fréjus und das benachbarte Saint-Raphaël teilen sich eine starke tierärztliche Infrastruktur. Die Clinique Vétérinaire des Arènes in Fréjus betreibt einen 24/7-Bereitschaftsnotdienst. VET'AURELIA in Saint-Raphaël (415 rue des Pins Parasols) beschäftigt ein sechsköpfiges Tierärzteteam mit vollständiger diagnostischer Ausstattung und ist die regionale Referenzadresse für komplexe Fälle. Die kostenlose landesweite Hotline 3115 deckt das gesamte Département Var ab.",
+      "faqsDe": []
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Fréjus",
@@ -424,7 +487,10 @@
           "tipFr": "Les jours de concert et de corrida ferment l'amphithéâtre aux visites simples ; vérifiez l'agenda de la ville avant de descendre avec un chien.",
           "tipEs": "Los días de concierto y corrida cierran el anfiteatro a las visitas estándar; comprueba la agenda municipal antes de bajar con perro.",
           "tipPt": "Dias de concerto e tourada fecham o anfiteatro às visitas padrão; verifique a agenda municipal antes de descer com um cão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Arenes+Frejus"
+          "googleMapsUrl": "https://maps.google.com/?q=Arenes+Frejus",
+          "descriptionDe": "Das Amphitheater aus dem 1. Jahrhundert, restauriert und weiterhin für Konzerte und Stierkämpfe genutzt, gehört zu den vollständigsten im Süden Frankreichs. Ungewöhnlich für ein französisches Baudenkmal sind Hunde an der Leine bei regulären Besuchen zugelassen (vorbehaltlich Sonderveranstaltungen). Die Besichtigung der Ränge dauert 30 bis 40 Minuten.",
+          "petPolicyDe": "Hunde an der Leine bei regulären Besichtigungen willkommen; bei Sonderveranstaltungen bitte nachfragen",
+          "tipDe": "Konzerte und Corrida-Tage schließen das Amphitheater für reguläre Besucher; vor dem Besuch mit Hund den Veranstaltungskalender der Stadt prüfen."
         },
         {
           "name": "Vieille Ville and Place Formigé",
@@ -445,7 +511,10 @@
           "tipFr": "Les mardi et vendredi matin sont jours de marché sur la Place Formigé ; arrivez tôt, la place se remplit dès 9h.",
           "tipEs": "Los martes y viernes por la mañana son días de mercado en la Place Formigé; llega temprano, la plaza se llena desde las 9:00.",
           "tipPt": "Terças e sextas de manhã são dias de mercado na Place Formigé; chegue cedo, a praça enche-se a partir das 9h.",
-          "googleMapsUrl": "https://maps.google.com/?q=Place+Formige+Frejus"
+          "googleMapsUrl": "https://maps.google.com/?q=Place+Formige+Frejus",
+          "descriptionDe": "Die mittelalterliche Altstadt konzentriert sich um die Place Formigé und die Kathedrale Saint-Léonce mit ihrem Baptisterium aus dem 5. Jahrhundert, einem der ältesten christlichen Bauwerke Frankreichs. Das Innere der Kathedrale und der Kreuzgang sind nicht hundefreundlich, doch der gesamte Rundgang durch enge Gassen und kleine Plätze ist Gebiet für angeleinte Hunde.",
+          "petPolicyDe": "Hunde an der Leine auf Straßen und Plätzen willkommen; Kircheninneres und Kreuzgang nicht zugänglich",
+          "tipDe": "Dienstag- und Freitagvormittag sind Markttage auf der Place Formigé; früh kommen, der Platz füllt sich ab 09:00 Uhr mit Käufern."
         },
         {
           "name": "Massif de l'Estérel and Pic du Cap Roux",
@@ -466,9 +535,15 @@
           "tipFr": "Consultez la carte des risques incendie de la préfecture du Var la veille ; un jour d'alerte rouge, tous les sentiers forestiers de l'Estérel sont fermés aux marcheurs et aux chiens.",
           "tipEs": "Consulta el mapa de riesgo de incendios de la prefectura del Var la víspera; un día de alerta roja, todos los senderos forestales del Esterel están cerrados a paseantes y perros.",
           "tipPt": "Consulte o mapa de risco de incêndio da prefeitura do Var na véspera; num dia de alerta vermelho, todos os trilhos florestais do Estérel estão fechados a caminhantes e cães.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pic+Cap+Roux+Esterel"
+          "googleMapsUrl": "https://maps.google.com/?q=Pic+Cap+Roux+Esterel",
+          "descriptionDe": "Das Massif de l'Estérel gleich östlich von Fréjus ist ein 30 km² großes rotes Porphyrgebirge, durchzogen von markierten Wanderwegen. Vorzeigeroute ist die 4 km lange Rundtour hinauf zum Pic du Cap Roux (453 m) mit 360-Grad-Blick über die Bucht. Hunde an der Leine sind auf allen markierten Wegen willkommen, außer während der sommerlichen Waldbrandsperren (typischerweise im Juli und August an Tagen mit roter Warnstufe).",
+          "petPolicyDe": "Hunde an der Leine auf markierten Wegen willkommen; Sperrungen an Sommertagen mit roter Waldbrand-Warnstufe",
+          "tipDe": "Am Vorabend die Waldbrandkarte der Präfektur Var prüfen; an einem Tag mit roter Warnstufe sind alle Waldwege des Estérel für Wanderer und Hunde gesperrt."
         }
-      ]
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Fréjus",
+      "introDe": "Fréjus verbindet römisches Freiluft-Erbe und provenzalische mittelalterliche Gassen mit einem der zugänglichsten Gebirgsmassive an der Côte d'Azur, dem roten Porphyrgestein des Estérel gleich landeinwärts. Das Amphitheater aus dem 1. Jahrhundert lässt Hunde an der Leine zu (eine ungewöhnliche Regelung für ein französisches Baudenkmal), die Ruinen des römischen Aquädukts führen unter freiem Himmel durch das Gelände der Villa Aurelienne, die Vieille Ville ist Fußgängerzone und hundefreundlich, und die Küstenstraße corniche des Estérel bietet gut markierte, hundetaugliche Wanderwege von Le Dramont bis hinauf zum Pic du Cap Roux.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Pet Travel Tips for Fréjus",
@@ -530,7 +605,10 @@
           "descriptionEs": "Los días de alerta roja por incendio en julio y agosto (declarados cada mañana por la prefectura del Var), los senderos forestales del Macizo del Esterel se cierran a los caminantes. Comprueba el mapa diario de la prefectura antes de subir; pueden multarte y hacerte volver al inicio del sendero. La carretera de la corniche permanece abierta.",
           "descriptionPt": "Em dias de alerta vermelho de incêndio em julho e agosto (declarados todas as manhãs pela prefeitura do Var), os trilhos florestais do Maciço do Estérel são fechados aos caminhantes. Consulte o mapa diário da prefeitura antes de subir; pode ser multado e mandado regressar à entrada do trilho. A estrada da corniche permanece aberta."
         }
-      ]
+      ],
+      "titleDe": "Reisetipps für Haustiere in Fréjus",
+      "introDe": "Fréjus zählt strukturell zu den hundefreundlichsten Urlaubsorten Frankreichs: drei offizielle Hundestrände, ein 100 Hektar großer Park mit brandneuem eingezäuntem Woof Park, Hundezutritt zum römischen Amphitheater und ein starkes 24/7-Tierarztnetz zusammen mit dem benachbarten Saint-Raphaël. Ein paar praktische Punkte vor der Anreise.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet-Sitting Services in Fréjus",
@@ -561,7 +639,10 @@
           "tipFr": "Réservez une rencontre de 30 minutes avant la première garde ; les gardiens de la Riviera s'y attendent et la première journée du chien sera plus douce.",
           "tipEs": "Reserva un encuentro de 30 minutos antes del primer cuidado; los cuidadores de la Riviera lo esperan y el primer día del perro será más fluido.",
           "tipPt": "Reserve um encontro de 30 minutos antes do primeiro serviço; os cuidadores da Riviera esperam isso e o primeiro dia do cão será mais tranquilo.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Pawshake ist das dichteste Haustierbetreuungsnetz an der Côte d'Azur mit Betreuern in Fréjus, Saint-Raphaël, Roquebrune-sur-Argens und der weiteren Estérel-Küste. Kurzbesuche, Spaziergänge, Tagesbetreuung und Betreuung zu Hause. Die Betreuerprofile zeigen Bewertungen und einen festen Nachttarif; die Versicherung ist über die Plattform inbegriffen.",
+          "petPolicyDe": "Alle kleinen Haustiere; Profile geben akzeptierte Größen und Arten an",
+          "tipDe": "Vor dem ersten Termin ein Kennenlerntreffen buchen; das erwarten Betreuer an der Riviera, und der Hund startet damit entspannter in den ersten Tag."
         },
         {
           "name": "Holidog",
@@ -582,7 +663,10 @@
           "tipFr": "Filtrez les hôtes sur la bande Frejus-Plage / Saint-Aygulf ; le centre de Fréjus a beaucoup de sitters mais vous gagnez du temps de transfert au retrait.",
           "tipEs": "Filtra anfitriones en la franja Frejus-Plage / Saint-Aygulf; el centro de Fréjus tiene muchos cuidadores pero ahorras tiempo de traslado al recoger.",
           "tipPt": "Filtre anfitriões na faixa Frejus-Plage / Saint-Aygulf; o centro de Fréjus tem muitos cuidadores mas poupa tempo de transferência na recolha.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Holidog ist ein französisches Haustierbetreuungsnetz mit starker lokaler Präsenz an der Küste des Var. Die Seite listet verifizierte Gastgeber, die Betreuung zu Hause, Tagesbetreuung und Spaziergänge anbieten, mit Kaution und voller Haftpflichtversicherung. Nützlich für mehrtägige Aufenthalte, wenn das Hotel den Hund nicht den ganzen Tag betreuen kann.",
+          "petPolicyDe": "Hunde und Katzen; Gastgeberprofile geben die Akzeptanz an",
+          "tipDe": "Nach Gastgebern im Bereich Frejus-Plage/Saint-Aygulf filtern; das Zentrum von Fréjus hat zwar viele Betreuer, aber so spart man sich die Anfahrtszeit bei der Abholung."
         },
         {
           "name": "Animaute",
@@ -603,9 +687,15 @@
           "tipFr": "Pour un séjour de plusieurs jours, écrivez à trois gardiens et comparez ; les tarifs semaine sur Animaute varient beaucoup.",
           "tipEs": "Para varios días, escribe a tres cuidadores y compara; las tarifas semanales en Animaute varían mucho.",
           "tipPt": "Para vários dias, escreva a três cuidadores e compare; as tarifas semanais na Animaute variam muito.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Animaute ist eine französische Haustierbetreuungsplattform mit aktiven Gastgebern im Korridor Fréjus-Saint-Raphaël. Die Angebote umfassen Betreuung zu Hause, Tagesbetreuung, Spaziergänge und Kurzbesuche. Die Plattform wickelt Zahlung, Versicherung und ein strukturiertes Bewertungssystem ab. Oft günstiger als Pawshake für mehrtägige Buchungen im Var.",
+          "petPolicyDe": "Hunde, Katzen, Kaninchen und Nagetiere; das Betreuerprofil legt die Akzeptanz fest",
+          "tipDe": "Für einen mehrtägigen Aufenthalt drei Betreuer anschreiben und vergleichen; die Wochentarife auf Animaute variieren stark zwischen den Gastgebern."
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung in Fréjus",
+      "introDe": "Für Aktivitäten, an denen ein Hund nicht teilnehmen kann, das Kircheninnere und der Kreuzgang, ein Mittagessen in einem privaten Strandclub, eine Tagesfahrt nach Saint-Tropez, decken die drei großen Haustierbetreuungs-Plattformen Fréjus, Saint-Raphaël und die weitere Estérel-Küste mit kurzfristig verfügbaren Betreuern ab.",
+      "faqsDe": []
     }
   }
 }

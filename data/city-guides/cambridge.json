@@ -37,7 +37,11 @@
           "descriptionPt": "Uma estalagem de diligências do século XVII junto à King's Parade, local histórico onde Crick e Watson anunciaram a descoberta da estrutura do ADN em 1953. Cães bem-vindos no bar e no pátio empedrado das traseiras, com taças de água à porta durante todo o ano.",
           "petPolicyPt": "Cães no bar e no pátio",
           "mustTryPt": "Teto com grafítis da RAF, real ales de Cambridge",
-          "tipPt": "O 'RAF bar' à direita tem o teto rabiscado pelos aviadores da Segunda Guerra Mundial, mais sossegado para um cão ansioso antes das 18:00."
+          "tipPt": "O 'RAF bar' à direita tem o teto rabiscado pelos aviadores da Segunda Guerra Mundial, mais sossegado para um cão ansioso antes das 18:00.",
+          "descriptionDe": "Ein Postkutschengasthaus aus dem 17. Jahrhundert unweit der King's Parade, historischer Ort, an dem Crick und Watson 1953 die Entdeckung der DNA-Struktur bekanntgaben. Hunde sind in der Bar und im gepflasterten Hinterhof willkommen, ganzjährig mit Wassernäpfen an der Tür.",
+          "petPolicyDe": "Hunde in Bar + Innenhof",
+          "mustTryDe": "RAF-Graffiti an der Decke, Cambridge Real Ales",
+          "tipDe": "Die 'RAF-Bar' rechts hat die von Fliegern des Zweiten Weltkriegs bekritzelte Decke, ruhiger für einen ängstlichen Hund vor 18:00 Uhr."
         },
         {
           "name": "The Mill",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um pub à beira-rio mesmo no Mill Pond, de onde partem os punts para o King's College, a esplanada da frente dá para o Cam e aceita cães sem condições. Cervejas de barril de cervejarias de East Anglia, comida de pub simples.",
           "petPolicyPt": "Cães em toda a esplanada",
           "mustTryPt": "Greene King IPA, fish and chips",
-          "tipPt": "Os bancos à beira-rio na frente são por ordem de chegada, chegue antes das 18:00 no verão para conseguir um com o cão."
+          "tipPt": "Os bancos à beira-rio na frente são por ordem de chegada, chegue antes das 18:00 no verão para conseguir um com o cão.",
+          "descriptionDe": "Ein Pub direkt am Fluss am Mill Pond, wo die Punts zum King's College ablegen, die vordere Terrasse blickt auf den Cam und ist uneingeschränkt hundefreundlich. Fassbiere aus ostenglischen Brauereien, einfache Pub-Küche.",
+          "petPolicyDe": "Hunde überall auf der Terrasse",
+          "mustTryDe": "Greene King IPA, Fish and Chips",
+          "tipDe": "Die Flussbänke vorne sind nach dem Windhundprinzip vergeben, im Sommer vor 18:00 Uhr kommen, um mit dem Hund einen Platz zu ergattern."
         },
         {
           "name": "Fitzbillies",
@@ -89,7 +97,11 @@
           "descriptionPt": "O salão de chá mais famoso de Cambridge desde 1920, casa do Chelsea bun original. Os cães são bem-vindos na pequena esplanada da frente durante todo o ano; o café interior fica reservado apenas a cães de assistência.",
           "petPolicyPt": "Cães apenas na esplanada",
           "mustTryPt": "Chelsea bun original, chá da tarde",
-          "tipPt": "Compre Chelsea buns para levar se as quatro mesas da esplanada estiverem ocupadas, embalam-nos em sacos de papel encerado, ideais para piqueniques no Jesus Green."
+          "tipPt": "Compre Chelsea buns para levar se as quatro mesas da esplanada estiverem ocupadas, embalam-nos em sacos de papel encerado, ideais para piqueniques no Jesus Green.",
+          "descriptionDe": "Cambridges berühmtester Teeraum seit 1920, Heimat des originalen Chelsea Bun. Hunde sind ganzjährig auf der kleinen Vorderterrasse willkommen, das Innencafé ist nur Assistenzhunden vorbehalten.",
+          "petPolicyDe": "Hunde nur auf der Terrasse",
+          "mustTryDe": "Original Chelsea Bun, Afternoon Tea",
+          "tipDe": "Chelsea Buns zum Mitnehmen kaufen, wenn die vier Terrassentische besetzt sind, sie werden in Wachspapiertüten verpackt, ideal für ein Picknick auf dem Jesus Green."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Posso levar o meu cão a fazer punting no Cam?",
           "a": "Sim. A maioria dos operadores de aluguer de punts (Scudamore's, Granta, Cambridge Chauffeur Punts) aceita cães calmos com trela sem custo adicional, confirme ao reservar."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Cambridge",
+      "introDe": "Cambridges Pubkultur heißt Hunde zuverlässig willkommen: Flussterrassen entlang des Cam, altehrwürdige Universitätstavernen und unabhängige Cafés an der Mill Road stellen alle Wassernäpfe an der Tür bereit. Die meisten Lokale akzeptieren angeleinte Hunde zumindest im Barbereich.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde auf dem Gelände der Cambridge Colleges erlaubt?",
+          "a": "Nein. Die Colleges von Cambridge (King's, Trinity, St John's usw.) lassen nur Assistenzhunde in ihre Höfe, Kapellen und Gärten. Haushunde müssen auf der öffentlichen Straße davor bleiben."
+        },
+        {
+          "q": "Kann ich meinen Hund beim Punting auf dem Cam mitnehmen?",
+          "a": "Ja. Die meisten Bootsverleiher (Scudamore's, Granta, Cambridge Chauffeur Punts) akzeptieren ruhige, angeleinte Hunde ohne Aufpreis, bitte bei der Buchung bestätigen lassen."
+        }
       ]
     },
     "parks": {
@@ -201,7 +225,10 @@
             "Piscina ao ar livre (mai-set)",
             "Café nas proximidades"
           ],
-          "tipPt": "Há gado a pastar na metade oriental de junho a setembro, coloque a trela se o seu cão for reativo."
+          "tipPt": "Há gado a pastar na metade oriental de junho a setembro, coloque a trela se o seu cão for reativo.",
+          "leashRuleDe": "Ganzjährig ohne Leine",
+          "descriptionDe": "Eine Grünfläche direkt am Cam hinter dem Jesus College, flache Rasenflächen, alte Platanen, ein Freibad und ein Flussweg, der zum Midsummer Common führt. Der beliebteste innerstädtische Ort für Hunde ohne Leine in Cambridge.",
+          "tipDe": "Von Juni bis September weiden Rinder auf der östlichen Hälfte, bei einem reaktiven Hund bitte anleinen."
         },
         {
           "name": "Midsummer Common",
@@ -241,7 +268,10 @@
             "Pontos de recolha de lixo",
             "Vistas para o rio"
           ],
-          "tipPt": "A Strawberry Fair (primeiro sábado de junho) atrai 30.000 pessoas, evite esse fim de semana com um cão."
+          "tipPt": "A Strawberry Fair (primeiro sábado de junho) atrai 30.000 pessoas, evite esse fim de semana com um cão.",
+          "leashRuleDe": "Ganzjährig ohne Leine",
+          "descriptionDe": "Eine historische Gemeindewiese zwischen dem Cam und der Maids Causeway, Schauplatz der jährlichen Strawberry Fair im Juni. Von Mai bis Oktober weiden dort freilaufende Rinder. Der Flussweg verbindet sich östlich mit dem Stourbridge Common und ergibt 4 km durchgehende Flussuferwege ohne Leine.",
+          "tipDe": "Die Strawberry Fair (erster Samstag im Juni) zieht 30.000 Besucher an, dieses Wochenende mit Hund lieber meiden."
         },
         {
           "name": "Coe Fen & Sheep's Green",
@@ -281,7 +311,10 @@
             "Acesso livre",
             "Estacionamento gratuito nas proximidades"
           ],
-          "tipPt": "Há uma curva muito procurada para banho de cães no Cam, no Sheep's Green, a qualidade da água é monitorizada pela Câmara."
+          "tipPt": "Há uma curva muito procurada para banho de cães no Cam, no Sheep's Green, a qualidade da água é monitorizada pela Câmara.",
+          "leashRuleDe": "Ganzjährig ohne Leine; in der Nähe weidender Rinder anleinen",
+          "descriptionDe": "Zwei Flusswiesen südwestlich des Stadtzentrums, zwischen Mill Lane und Newnham Road. Ganzjährig weiden dort Rinder, der Cam durchzieht die gesamte Länge, und der Kinderspielplatz Lammas Land (Hunde nicht erlaubt) liegt am südlichen Ende.",
+          "tipDe": "Es gibt eine beliebte Bade-Flussschleife für Hunde bei Sheep's Green, die Wasserqualität wird vom Stadtrat überwacht."
         }
       ],
       "tipsEn": [
@@ -345,6 +378,18 @@
           "q": "Os cães podem nadar no Cam?",
           "a": "Sim, em curvas designadas como o Sheep's Green e os Grantchester Meadows. Evite o troço de punting do centro da cidade (do Mill Pond à Magdalene Bridge), pelo tráfego de barcos e por questões de qualidade da água."
         }
+      ],
+      "titleDe": "Hundeparks & Grünflächen in Cambridge",
+      "introDe": "Cambridges Weideflächen reichen bis ins Stadtzentrum, das von Rindern beweidete Jesus Green und Midsummer Common sind standardmäßig ohne Leine begehbar, während die Flusswiesen entlang des Cam 8 km autofreie Gassirunden bieten.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde auf den Cambridge Commons ohne Leine laufen?",
+          "a": "Ja. Jesus Green, Midsummer Common, Coe Fen, Sheep's Green und Stourbridge Common sind alle standardmäßig ohne Leine. Von Mai bis Oktober weiden dort Rinder, in der Nähe des Viehs bitte anleinen."
+        },
+        {
+          "q": "Dürfen Hunde im Cam schwimmen?",
+          "a": "Ja, an ausgewiesenen Flussschleifen wie Sheep's Green und Grantchester Meadows. Den innerstädtischen Punting-Abschnitt (Mill Pond bis Magdalene Bridge) wegen Bootsverkehr und Wasserqualität meiden."
+        }
       ]
     },
     "transport": {
@@ -372,7 +417,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cambridge+Railway+Station",
           "descriptionPt": "A Greater Anglia faz comboios diretos de Cambridge para London Liverpool Street (1h17) e para o aeroporto de Stansted (35 min). Até dois cães viajam gratuitamente por passageiro pagante, têm de ficar no chão ou ao colo, com trela.",
           "petPolicyPt": "Até 2 cães gratuitos por passageiro",
-          "tipPt": "Fora das horas de ponta (depois das 09:30) é muito mais sossegado, mais fácil com um cão médio ou grande. Reserve o seu lugar com antecedência."
+          "tipPt": "Fora das horas de ponta (depois das 09:30) é muito mais sossegado, mais fácil com um cão médio ou grande. Reserve o seu lugar com antecedência.",
+          "descriptionDe": "Greater Anglia betreibt Direktzüge von Cambridge nach London Liverpool Street (1 Std. 17 Min.) und zum Flughafen Stansted (35 Min.). Bis zu zwei Hunde reisen pro zahlendem Fahrgast kostenlos, müssen auf dem Boden oder Schoß bleiben, an der Leine.",
+          "petPolicyDe": "Bis zu 2 Hunde kostenlos pro Fahrgast",
+          "tipDe": "Außerhalb der Stoßzeiten (nach 09:30 Uhr) ist es deutlich ruhiger, einfacher mit einem mittelgroßen oder großen Hund. Sitzplatz im Voraus reservieren."
         },
         {
           "name": "Stagecoach East Buses",
@@ -391,7 +439,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cambridge+bus+station",
           "descriptionPt": "A Stagecoach East opera a Cambridgeshire Guided Busway e os serviços urbanos. Os cães com trela e bem-comportados viajam gratuitamente, ao critério do motorista. A busway de Cambridge a St Ives aceita cães e tem caminhos ribeirinhos sem trela ao longo do percurso.",
           "petPolicyPt": "Gratuito ao critério do motorista, trela + bom comportamento",
-          "tipPt": "O Park & Ride da Madingley Road é a entrada mais fácil no centro com um cão (cães gratuitos aceites na carrinha de ligação)."
+          "tipPt": "O Park & Ride da Madingley Road é a entrada mais fácil no centro com um cão (cães gratuitos aceites na carrinha de ligação).",
+          "descriptionDe": "Stagecoach East betreibt den Cambridgeshire Guided Busway sowie Stadtlinien. Wohlerzogene angeleinte Hunde fahren nach Ermessen des Fahrers kostenlos mit. Der Busway von Cambridge nach St Ives ist hundefreundlich und verfügt entlang der Strecke über Flussuferwege ohne Leine.",
+          "petPolicyDe": "Kostenlos nach Ermessen des Fahrers, Leine + gutes Benehmen",
+          "tipDe": "Der Park & Ride an der Madingley Road ist der einfachste Zugang mit Hund ins Zentrum (kostenlose Mitnahme im Shuttle)."
         },
         {
           "name": "Scudamore's Punting",
@@ -410,7 +461,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Scudamores+Punting+Cambridge",
           "descriptionPt": "O maior operador histórico de punts no Cam, com passeios guiados e aluguer sem condutor a partir do Mill Pond e do Quayside. Os cães calmos com trela são aceites gratuitamente nos passeios guiados; o aluguer sem condutor fica sob responsabilidade do cliente.",
           "petPolicyPt": "Cães calmos nos passeios guiados, gratuito",
-          "tipPt": "Escolha o passeio a montante a partir do Mill Pond (os Backs dos colleges), com água mais calma e menos tráfego de barcos do que no Quayside, a jusante."
+          "tipPt": "Escolha o passeio a montante a partir do Mill Pond (os Backs dos colleges), com água mais calma e menos tráfego de barcos do que no Quayside, a jusante.",
+          "descriptionDe": "Der größte historische Punt-Anbieter am Cam, geführte Touren und Selbstverleih ab Mill Pond und Quayside. Ruhige, angeleinte Hunde sind bei geführten Touren kostenlos willkommen, beim Selbstverleih liegt die Verantwortung beim Mieter.",
+          "petPolicyDe": "Ruhige Hunde bei geführten Touren, kostenlos",
+          "tipDe": "Die flussaufwärts führende Tour ab Mill Pond wählen (Backs der Colleges), ruhigeres Wasser und weniger Bootsverkehr als die Quayside-Route flussabwärts."
         }
       ],
       "tipsEn": [
@@ -474,6 +528,18 @@
           "q": "Posso levar um cão a fazer punting no Cam?",
           "a": "Sim. A maioria dos operadores (Scudamore's, Granta, Cambridge Chauffeur Punts) aceita cães calmos com trela gratuitamente nos passeios guiados. O aluguer sem condutor fica ao critério de quem aluga, reserve com antecedência para confirmar."
         }
+      ],
+      "titleDe": "Haustierfreundlicher Nahverkehr in Cambridge",
+      "introDe": "Cambridge ist von Ende zu Ende ein 30-minütiger Spaziergang und eine der fahrradfreundlichsten Städte Großbritanniens. Für Tagesausflüge nehmen der Zug, die Stagecoach-Busse und die Cambridge-Punts alle angeleinte Hunde kostenlos mit.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich für meinen Hund ein Ticket in den Greater-Anglia-Zügen?",
+          "a": "Nein. Bis zu zwei Hunde reisen pro zahlendem Fahrgast kostenlos bei Greater Anglia und anderen britischen Bahnbetreibern. Assistenzhunde sind immer kostenlos und ohne Begrenzung."
+        },
+        {
+          "q": "Kann ich einen Hund beim Punting auf dem Cam mitnehmen?",
+          "a": "Ja. Die meisten Anbieter (Scudamore's, Granta, Cambridge Chauffeur Punts) akzeptieren ruhige, angeleinte Hunde kostenlos bei geführten Touren. Bei Selbstverleih liegt es im Ermessen des Vermieters, vorab buchen, um dies zu bestätigen."
+        }
       ]
     },
     "beaches": {
@@ -520,7 +586,10 @@
             "Café",
             "Estacionamento pago por tíquete"
           ],
-          "tipPt": "Estacione na Lady Anne's Drive, há um passadiço de madeira direto pelos pinheiros até à praia principal que aceita cães em 5 min."
+          "tipPt": "Estacione na Lady Anne's Drive, há um passadiço de madeira direto pelos pinheiros até à praia principal que aceita cães em 5 min.",
+          "leashRuleDe": "Ganzjährig ohne Leine",
+          "descriptionDe": "Ein weitläufiger 6 km langer goldener Sandstrand, umsäumt von Kiefernwald und Salzwiesen, häufig als bester Strand Großbritanniens bewertet. Ganzjährig hundefreundlich. 1 Std. 45 Min. Fahrt von Cambridge.",
+          "tipDe": "An der Lady Anne's Drive parken, direkter Bohlensteg durch die Kiefern zum hundefreundlichen Hauptstrand in 5 Minuten."
         },
         {
           "name": "Wells-next-the-Sea",
@@ -558,7 +627,10 @@
             "Café de praia",
             "Estacionamento pago por tíquete"
           ],
-          "tipPt": "As horas das marés são importantes, na maré muito alta a praia desaparece contra o pinhal. Consulte o tidetimes.org.uk para Wells antes de ir."
+          "tipPt": "As horas das marés são importantes, na maré muito alta a praia desaparece contra o pinhal. Consulte o tidetimes.org.uk para Wells antes de ir.",
+          "leashRuleDe": "Ganzjährig ohne Leine außerhalb des zentralen Strandhüttenbereichs im Sommer",
+          "descriptionDe": "Ein breiter Sandstrand in North Norfolk, 4 km vom Hafen Wells-next-the-Sea entfernt, mit den berühmten bunt bemalten Strandhütten auf den Dünen. An beiden Enden Zonen ohne Leine, in der Mitte ist von Mai bis September eine Leine vorgeschrieben. 1 Std. 45 Min. Fahrt.",
+          "tipDe": "Die Gezeiten sind entscheidend, bei sehr hoher Flut verschwindet der Strand bis an den Kiefernwald. Vor der Anfahrt tidetimes.org.uk für Wells prüfen."
         },
         {
           "name": "Aldeburgh Beach",
@@ -596,7 +668,10 @@
             "Restaurantes",
             "Estacionamento pago por tíquete"
           ],
-          "tipPt": "O calhau é duro para as patas, as botinhas ajudam nos dias quentes de verão. Estacione na extremidade sul, no parque de Slaughden, para o troço mais sossegado."
+          "tipPt": "O calhau é duro para as patas, as botinhas ajudam nos dias quentes de verão. Estacione na extremidade sul, no parque de Slaughden, para o troço mais sossegado.",
+          "leashRuleDe": "Ganzjährig ohne Leine",
+          "descriptionDe": "Ein 4 km langer Kiesstrand in Suffolk mit den Fischerhütten von Aldeburgh und Maggi Hamblings berühmter Skulptur Scallop, ganzjährig hundefreundlich entlang der gesamten Länge. Die farbenfrohe Uferpromenade dahinter bietet viele hundefreundliche Cafés. 1 Std. 35 Min. Fahrt von Cambridge.",
+          "tipDe": "Kies ist hart für die Pfoten, an heißen Sommertagen helfen Hundeschuhe. Am Slaughden Car Park am Südende parken für den ruhigsten Abschnitt."
         }
       ],
       "tipsEn": [
@@ -660,6 +735,18 @@
           "q": "Os cães são permitidos na Holkham Beach no verão?",
           "a": "Sim. Holkham é uma das poucas grandes praias do Reino Unido que aceita cães durante todo o ano em toda a sua extensão de 6 km, incluindo julho e agosto."
         }
+      ],
+      "titleDe": "Hundestrände in der Nähe von Cambridge",
+      "introDe": "Cambridge liegt im Landesinneren, ist aber nur 1 bis 1,5 Stunden von den langen Sandstränden Norfolks und Suffolks entfernt. Die meisten haben ganzjährig hundefreundliche Abschnitte, Einschränkungen auf den zentralen Touristenstränden gelten nur von Mai bis September.",
+      "faqsDe": [
+        {
+          "q": "Wie weit ist der nächste hundefreundliche Strand von Cambridge entfernt?",
+          "a": "Etwa 1 Std. 35 Min. mit dem Auto. Aldeburgh (Küste von Suffolk) ist der nächstgelegene, mit ganzjährigem Hundezugang entlang des gesamten Strandes. Holkham und Wells in North Norfolk liegen 1 Std. 45 Min. entfernt."
+        },
+        {
+          "q": "Sind Hunde im Sommer am Holkham Beach erlaubt?",
+          "a": "Ja. Holkham ist einer der wenigen großen britischen Strände mit ganzjährig hundefreundlichem Status entlang der gesamten 6 km Länge, auch im Juli und August."
+        }
       ]
     },
     "vets": {
@@ -689,7 +776,9 @@
           "tipEs": "La atención sin cita es más rápida antes de las 11:00. Urgencias fuera de horario van a Vets Now (ver más abajo).",
           "googleMapsUrl": "https://maps.google.com/?q=Vets4Pets+Cambridge+Beehive",
           "descriptionPt": "Clínica diurna dentro do Pets at Home Beehive Centre, com consulta geral, vacinação, colocação de microchip e receitas. Atendimento sem marcação durante o horário de funcionamento. As chamadas fora de horas são desviadas para o Vets Now Cambridge.",
-          "tipPt": "O atendimento sem marcação é mais rápido antes das 11:00. As urgências fora de horas vão para o Vets Now (ver abaixo)."
+          "tipPt": "O atendimento sem marcação é mais rápido antes das 11:00. As urgências fora de horas vão para o Vets Now (ver abaixo).",
+          "descriptionDe": "Tagesklinik im Pets at Home Beehive Centre, allgemeine Beratung, Impfungen, Mikrochippen, Rezepte. Ohne Termin während der Öffnungszeiten. Anrufe außerhalb der Öffnungszeiten werden an Vets Now Cambridge weitergeleitet.",
+          "tipDe": "Ohne Termin ist es vor 11:00 Uhr am schnellsten. Notfälle außerhalb der Öffnungszeiten gehen an Vets Now (siehe unten)."
         },
         {
           "name": "Vets Now Cambridge (Emergency)",
@@ -710,7 +799,9 @@
           "tipEs": "Ten preparado el carnet de vacunación; tarifas fuera de horario desde 230 £.",
           "googleMapsUrl": "https://maps.google.com/?q=Vets+Now+Cambridge+Cherry+Hinton",
           "descriptionPt": "Clínica de urgência fora de horas na Cherry Hinton Road, a 8 min de carro do centro da cidade. Aberta todos os dias úteis das 19:00 às 08:00 e 24h aos fins de semana e feriados. Ligue com antecedência antes de ir, fazem a triagem por telefone.",
-          "tipPt": "Tenha à mão o registo de vacinação do seu animal; as taxas de consulta fora de horas começam por volta de 230 £."
+          "tipPt": "Tenha à mão o registo de vacinação do seu animal; as taxas de consulta fora de horas começam por volta de 230 £.",
+          "descriptionDe": "Notfallklinik außerhalb der regulären Öffnungszeiten an der Cherry Hinton Road, 8 Minuten Fahrt vom Stadtzentrum. Geöffnet jeden Werktag von 19:00 bis 08:00 Uhr sowie 24 Stunden an Wochenenden und Feiertagen. Vor der Anfahrt anrufen, die Triage erfolgt telefonisch.",
+          "tipDe": "Impfausweis Ihres Haustiers bereithalten, Beratungsgebühren außerhalb der Öffnungszeiten beginnen bei etwa 230 £."
         },
         {
           "name": "Queen's Veterinary School Hospital",
@@ -731,7 +822,9 @@
           "tipEs": "Aparcamiento gratis in situ para clientes, útil ya que el campus West Cambridge está a 15 min al oeste del centro en coche.",
           "googleMapsUrl": "https://maps.google.com/?q=Queens+Veterinary+School+Hospital+Cambridge",
           "descriptionPt": "O hospital veterinário universitário da Universidade de Cambridge, um dos principais centros de encaminhamento do Reino Unido para casos complexos de pequenos animais (oncologia, cardiologia, neurologia, ortopedia). Apenas por encaminhamento do seu veterinário habitual.",
-          "tipPt": "Estacionamento gratuito no local para clientes, útil porque o campus de West Cambridge fica a 15 min a oeste do centro de carro."
+          "tipPt": "Estacionamento gratuito no local para clientes, útil porque o campus de West Cambridge fica a 15 min a oeste do centro de carro.",
+          "descriptionDe": "Das Universitätstierkrankenhaus der University of Cambridge, eines der führenden britischen Überweisungszentren für komplexe Kleintierfälle (Onkologie, Kardiologie, Neurologie, Orthopädie). Überweisung nur über den Haustierarzt.",
+          "tipDe": "Kostenlose Parkplätze vor Ort für Klienten, hilfreich, da der West-Cambridge-Campus 15 Minuten westlich des Zentrums mit dem Auto liegt."
         }
       ],
       "tipsEn": [
@@ -795,6 +888,18 @@
           "q": "Preciso de um passaporte para animais para levar o meu cão a Cambridge?",
           "a": "A partir da UE, precisa de um GB Animal Health Certificate emitido por um veterinário oficial da UE nos 10 dias anteriores à viagem, além da vacinação antirrábica e do microchip. O tratamento antiténia só é exigido na viagem de regresso à UE."
         }
+      ],
+      "titleDe": "24-Stunden-Notfalltierärzte in Cambridge, Tierkliniken & Haustierbetreuung",
+      "introDe": "Cambridge verfügt über eine gute tagsüber verfügbare tierärztliche Versorgung, und eines der führenden britischen Universitätstierkrankenhäuser (das Queen's Veterinary School Hospital, angegliedert an die University of Cambridge) übernimmt komplexe Überweisungen. Führen Sie auf Reisen stets den Impfausweis Ihres Haustiers mit sich.",
+      "faqsDe": [
+        {
+          "q": "Wo befindet sich der 24-Stunden-Notfalltierarzt in Cambridge?",
+          "a": "Vets Now Cambridge, 33 Cherry Hinton Road, CB1 7AA. Vor der Anfahrt unter +44 1223 459711 anrufen. Geöffnet werktags nachts von 19:00 bis 08:00 Uhr sowie 24/7 an Wochenenden und Feiertagen."
+        },
+        {
+          "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Cambridge zu bringen?",
+          "a": "Aus der EU benötigen Sie eine von einem EU-amtlichen Tierarzt ausgestellte GB Animal Health Certificate innerhalb von 10 Tagen vor der Reise, zudem Tollwutimpfung und Mikrochip. Eine Bandwurmbehandlung ist nur für die Rückreise in die EU erforderlich."
+        }
       ]
     },
     "tips": {
@@ -811,14 +916,16 @@
           "description": "April-June and September-October are ideal, average highs 14-21 °C, the commons are dry, and the punting season is in full swing. Avoid graduation week (typically late June) when central streets and college backs are crowded with families.",
           "descriptionFr": "Avril-juin et septembre-octobre sont idéaux, maxima moyens 14-21 °C, les communaux sont secs et la saison de punting bat son plein. Évitez la semaine de remise des diplômes (typiquement fin juin) quand les rues centrales et les Backs des colleges sont bondés.",
           "descriptionEs": "Abril-junio y septiembre-octubre son ideales, máximas medias 14-21 °C, los comunales están secos y la temporada de punting está en pleno apogeo. Evita la semana de graduación (normalmente finales de junio) cuando las calles centrales y los Backs de los colleges están abarrotados.",
-          "descriptionPt": "De abril a junho e de setembro a outubro são períodos ideais, máximas médias de 14 a 21 °C, os baldios comuns encontram-se secos e a época de punting decorre em pleno andamento. Evite a semana das graduações (normalmente no final de junho), quando as ruas centrais e os Backs dos colleges ficam cheios de famílias."
+          "descriptionPt": "De abril a junho e de setembro a outubro são períodos ideais, máximas médias de 14 a 21 °C, os baldios comuns encontram-se secos e a época de punting decorre em pleno andamento. Evite a semana das graduações (normalmente no final de junho), quando as ruas centrais e os Backs dos colleges ficam cheios de famílias.",
+          "descriptionDe": "April bis Juni und September bis Oktober sind ideal, durchschnittliche Höchstwerte 14 bis 21 °C, die Weideflächen sind trocken, und die Punting-Saison ist in vollem Gange. Die Abschlusswoche (meist Ende Juni) meiden, wenn zentrale Straßen und die Backs der Colleges voller Familien sind."
         },
         {
           "name": "UK pet-import paperwork (2026)",
           "description": "From the EU you need: ISO microchip, valid rabies vaccination (≥21 days old, not expired), and a GB Animal Health Certificate (AHC) issued by an EU OV within 10 days of arrival. The AHC is valid 4 months for onward EU travel and 4 months for return. Tapeworm treatment is required only for return travel to Ireland, Finland, Malta or Norway.",
           "descriptionFr": "Depuis l'UE il faut : puce ISO, vaccin antirabique valide (≥21 jours, non périmé) et un GB Animal Health Certificate (AHC) délivré par un OV de l'UE dans les 10 jours précédant l'arrivée. L'AHC est valable 4 mois pour voyager dans l'UE et 4 mois pour le retour. Le traitement contre le ténia n'est requis que pour le retour vers l'Irlande, la Finlande, Malte ou la Norvège.",
           "descriptionEs": "Desde la UE necesitas: microchip ISO, vacuna antirrábica vigente (≥21 días, no caducada) y un GB Animal Health Certificate (AHC) emitido por un OV de la UE en los 10 días previos a la llegada. El AHC es válido 4 meses para viajar en la UE y 4 meses para el retorno. El tratamiento de tenia solo se exige para volver a Irlanda, Finlandia, Malta o Noruega.",
-          "descriptionPt": "A partir da UE precisa de: microchip ISO, vacinação antirrábica válida (com pelo menos 21 dias, não expirada) e um GB Animal Health Certificate (AHC) emitido por um veterinário oficial da UE nos 10 dias anteriores à chegada. O AHC é válido 4 meses para viagens dentro da UE e 4 meses para o regresso. O tratamento antiténia só é exigido na viagem de regresso para a Irlanda, Finlândia, Malta ou Noruega."
+          "descriptionPt": "A partir da UE precisa de: microchip ISO, vacinação antirrábica válida (com pelo menos 21 dias, não expirada) e um GB Animal Health Certificate (AHC) emitido por um veterinário oficial da UE nos 10 dias anteriores à chegada. O AHC é válido 4 meses para viagens dentro da UE e 4 meses para o regresso. O tratamento antiténia só é exigido na viagem de regresso para a Irlanda, Finlândia, Malta ou Noruega.",
+          "descriptionDe": "Aus der EU benötigen Sie: ISO-Mikrochip, gültige Tollwutimpfung (mindestens 21 Tage alt, nicht abgelaufen) sowie ein von einem EU-amtlichen Tierarzt ausgestelltes GB Animal Health Certificate (AHC) innerhalb von 10 Tagen vor der Ankunft. Das AHC ist 4 Monate für die Weiterreise in der EU und 4 Monate für die Rückreise gültig. Eine Bandwurmbehandlung ist nur für die Rückreise nach Irland, Finnland, Malta oder Norwegen erforderlich."
         },
         {
           "name": "Walking Cambridge with a dog",
@@ -826,7 +933,8 @@
           "description": "The historic centre is 1.5 km across, easily walkable in 25 min with a dog. The classic dog-friendly route: Mill Pond → Coe Fen riverside → Backs of the colleges (exterior path) → Jesus Green → Midsummer Common, total 4 km mostly off-leash.",
           "descriptionFr": "Le centre historique fait 1,5 km de bout en bout, marchable en 25 min avec un chien. L'itinéraire dog-friendly classique : Mill Pond → Coe Fen rive → Backs des colleges (sentier extérieur) → Jesus Green → Midsummer Common, total 4 km principalement sans laisse.",
           "descriptionEs": "El centro histórico mide 1,5 km de extremo a extremo, caminable en 25 min con perro. La ruta dog-friendly clásica: Mill Pond → Coe Fen ribera → Backs de los colleges (sendero exterior) → Jesus Green → Midsummer Common, total 4 km principalmente sin correa.",
-          "descriptionPt": "O centro histórico tem 1,5 km de extensão, percorre-se facilmente em 25 min com um cão. O percurso clássico que aceita cães: Mill Pond, beira-rio de Coe Fen, Backs dos colleges (caminho exterior), Jesus Green, Midsummer Common, no total 4 km maioritariamente sem trela."
+          "descriptionPt": "O centro histórico tem 1,5 km de extensão, percorre-se facilmente em 25 min com um cão. O percurso clássico que aceita cães: Mill Pond, beira-rio de Coe Fen, Backs dos colleges (caminho exterior), Jesus Green, Midsummer Common, no total 4 km maioritariamente sem trela.",
+          "descriptionDe": "Das historische Zentrum ist 1,5 km groß, mit Hund leicht in 25 Minuten zu Fuß zu durchqueren. Die klassische hundefreundliche Route: Mill Pond → Coe Fen Flussufer → Backs der Colleges (Außenweg) → Jesus Green → Midsummer Common, insgesamt 4 km, größtenteils ohne Leine."
         }
       ],
       "tipsEn": [
@@ -890,6 +998,18 @@
           "q": "Os cães são permitidos nos terrenos dos colleges de Cambridge?",
           "a": "Não. Os colleges de Cambridge (King's, Trinity, St John's, etc.) admitem apenas cães de assistência nos seus pátios, capelas e jardins. Os cães de companhia ficam na rua pública exterior."
         }
+      ],
+      "titleDe": "Mit Hund nach Cambridge reisen: Praktische Tipps",
+      "introDe": "Cambridge ist einer der einfachsten britischen Städtetrips mit Hund, ein kompaktes mittelalterliches Zentrum, große städtische Weideflächen, hundetolerante Pubs und direkter Bahnanschluss vom Londoner King's Cross in 50 Minuten.",
+      "faqsDe": [
+        {
+          "q": "Eignet sich Cambridge für einen hundefreundlichen Wochenendausflug?",
+          "a": "Ja, Cambridge hat einige der größten städtischen Weideflächen Englands (Jesus Green, Midsummer, Coe Fen, Sheep's Green), zuverlässig hundefreundliche Pubs und direkte LNER- und Greater-Anglia-Züge aus London. College-Besuche sind nur Assistenzhunden vorbehalten."
+        },
+        {
+          "q": "Sind Hunde auf dem Gelände der Cambridge Colleges erlaubt?",
+          "a": "Nein. Die Colleges von Cambridge (King's, Trinity, St John's usw.) lassen nur Assistenzhunde in ihre Höfe, Kapellen und Gärten. Haushunde bleiben auf der öffentlichen Straße davor."
+        }
       ]
     },
     "attractions": {
@@ -918,7 +1038,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=The+Backs+Cambridge",
           "descriptionPt": "Os relvados e prados à beira-rio nas traseiras dos colleges mais antigos de Cambridge (King's, Clare, Trinity, St John's), a vista marcante da cidade. O caminho público ao longo da Queen's Road e o prado ribeirinho na Garret Hostel Lane aceitam cães com trela.",
           "petPolicyPt": "Caminho público, cães com trela gratuitos",
-          "tipPt": "Caminhe para sul pela Queen's Road, passando a King's Bridge, para o icónico reflexo da King's College Chapel, melhor ao pôr do sol."
+          "tipPt": "Caminhe para sul pela Queen's Road, passando a King's Bridge, para o icónico reflexo da King's College Chapel, melhor ao pôr do sol.",
+          "descriptionDe": "Die Flussuferwiesen hinter Cambridges ältesten Colleges (King's, Clare, Trinity, St John's), der bekannteste Ausblick der Stadt. Der öffentliche Weg entlang der Queen's Road sowie die Flusswiese an der Garret Hostel Lane sind mit angeleinten Hunden hundefreundlich.",
+          "petPolicyDe": "Öffentlicher Weg, angeleinte Hunde kostenlos",
+          "tipDe": "Entlang der Queen's Road südwärts an der King's Bridge vorbei laufen für die ikonische Spiegelung der King's College Chapel, am schönsten bei Sonnenuntergang."
         },
         {
           "name": "Grantchester Meadows",
@@ -938,7 +1061,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Grantchester+Meadows",
           "descriptionPt": "Um passeio por prados à beira-rio de 4 km de Cambridge até à aldeia de Grantchester, local do tanque de banho de Lord Byron, popular para piqueniques, imortalizado na poesia de Rupert Brooke. Cães sem trela; há gado a pastar no verão. Termine no jardim de chá The Orchard, que aceita cães.",
           "petPolicyPt": "Sem trela; com trela junto ao gado",
-          "tipPt": "Conte com 1h30 em cada sentido a um ritmo tranquilo. Pare no The Orchard para um chá, têm um famoso jardim que aceita cães."
+          "tipPt": "Conte com 1h30 em cada sentido a um ritmo tranquilo. Pare no The Orchard para um chá, têm um famoso jardim que aceita cães.",
+          "descriptionDe": "Ein 4 km langer Flusswiesenweg von Cambridge zum Dorf Grantchester, Schauplatz von Lord Byrons Badeteich, beliebt für Picknicks, in Rupert Brookes Gedichten verewigt. Hunde ohne Leine, im Sommer weiden Rinder. Endpunkt ist der Teegarten The Orchard, der Hunde willkommen heißt.",
+          "petPolicyDe": "Ohne Leine; in der Nähe von Rindern anleinen",
+          "tipDe": "1 Std. 30 Min. je Strecke im gemächlichen Tempo einplanen. Bei The Orchard für Tee anhalten, dort gibt es einen berühmten hundefreundlichen Garten."
         },
         {
           "name": "Wandlebury Country Park",
@@ -958,7 +1084,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Wandlebury+Country+Park",
           "descriptionPt": "Um castro da Idade do Ferro e parque rural com 110 acres a 6 km a sudeste do centro, com trilhos no bosque, um antigo fosso anelar e grandes zonas sem trela. A saída sem trela mais popular entre os donos de cães de Cambridge. Entrada gratuita; estacionamento 4 £.",
           "petPolicyPt": "Sem trela na maioria dos trilhos",
-          "tipPt": "Visite nas manhãs de dias úteis para os trilhos mais sossegados, as tardes de fim de semana ficam cheias de pessoas locais a passear cães."
+          "tipPt": "Visite nas manhãs de dias úteis para os trilhos mais sossegados, as tardes de fim de semana ficam cheias de pessoas locais a passear cães.",
+          "descriptionDe": "Eine 45 Hektar große eisenzeitliche Hügelfestung und ein Landschaftspark 6 km südöstlich des Zentrums, Waldwege, ein alter Ringgraben und große Zonen ohne Leine. Der beliebteste Ausflugsort ohne Leine für Cambridges Hundebesitzer. Freier Eintritt, 4 £ Parkgebühr.",
+          "petPolicyDe": "Ohne Leine auf den meisten Wegen",
+          "tipDe": "An Wochentagen vormittags besuchen für die ruhigsten Wege, an Wochenendnachmittagen ist viel Betrieb durch örtliche Hundehalter."
         }
       ],
       "tipsEn": [
@@ -1022,6 +1151,18 @@
           "q": "Os cães são permitidos nos Grantchester Meadows?",
           "a": "Sim. O passeio à beira-rio de 4 km de Cambridge a Grantchester é um clássico favorito sem trela. O jardim de chá The Orchard, em Grantchester, também aceita cães."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Cambridge",
+      "introDe": "Die meisten der bekannten Ausblicke Cambridges lassen sich am besten außerhalb der Colleges genießen, der Flussweg entlang der Backs, der Punting-Abschnitt, die großen städtischen Weideflächen und die offenen Höfe der Museen heißen angeleinte Hunde alle kostenlos willkommen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit in die King's College Chapel nehmen?",
+          "a": "Nein, im Inneren der Kapellen und Höfe der Cambridge Colleges sind nur Assistenzhunde erlaubt. Die Kapelle lässt sich am besten vom öffentlichen Weg entlang der Backs fotografieren."
+        },
+        {
+          "q": "Sind Hunde bei den Grantchester Meadows erlaubt?",
+          "a": "Ja. Der 4 km lange Flussuferweg von Cambridge nach Grantchester ist ein klassischer Favorit ohne Leine. Der Teegarten The Orchard in Grantchester heißt ebenfalls Hunde willkommen."
+        }
       ]
     },
     "petsitting": {
@@ -1045,7 +1186,9 @@
           "tipFr": "Réservez au moins 3 jours à l'avance pour la semaine de remise des diplômes et les May Balls (mi-juin), les sitters sont pris en premier.",
           "tipEs": "Reserva al menos 3 días antes para la semana de graduación y los May Balls (mediados de junio), los cuidadores se llenan primero.",
           "descriptionPt": "A maior plataforma de cuidado de animais do Reino Unido, com cerca de 70 cuidadores verificados num raio de 5 km do centro de Cambridge, que oferecem creche diurna, visitas pontuais e alojamento noturno. Todos os cuidadores são verificados, o seguro vem incluído, tarifa média de 20 a 30 £/dia.",
-          "tipPt": "Reserve com pelo menos 3 dias de antecedência para a semana das graduações e os May Balls dos colleges (meados de junho), os cuidadores enchem primeiro."
+          "tipPt": "Reserve com pelo menos 3 dias de antecedência para a semana das graduações e os May Balls dos colleges (meados de junho), os cuidadores enchem primeiro.",
+          "descriptionDe": "Größte britische Plattform für Haustierbetreuung, etwa 70 verifizierte Betreuer innerhalb von 5 km des Stadtzentrums von Cambridge bieten Hundetagesbetreuung, Kurzbesuche und Übernachtungsbetreuung an. Alle Betreuer sind geprüft, Versicherung ist inbegriffen, durchschnittlicher Preis 20 bis 30 £/Tag.",
+          "tipDe": "Für die Abschlusswoche und die College May Balls (Mitte Juni) mindestens 3 Tage im Voraus buchen, Betreuer sind zuerst ausgebucht."
         },
         {
           "name": "Tailster Cambridge",
@@ -1060,7 +1203,9 @@
           "tipFr": "Utilisez le chat de l'app pour confirmer que les promenades passent par Jesus Green ou Midsummer Common, les meilleurs spots sans laisse en ville.",
           "tipEs": "Usa el chat de la app para confirmar que los paseos pasan por Jesus Green o Midsummer Common, los mejores spots sin correa en la ciudad.",
           "descriptionPt": "Plataforma exclusiva do Reino Unido com linha veterinária 24/7 incluída em cada reserva. Cerca de 20 cuidadores verificados em Cambridge, todos com verificação DBS. Tarifa média de 25 a 35 £/dia para alojamento, 15 £ por uma visita com passeio de 30 min.",
-          "tipPt": "Use o chat da aplicação para confirmar que os passeios passam pelo Jesus Green ou pelo Midsummer Common, os melhores sítios sem trela da cidade."
+          "tipPt": "Use o chat da aplicação para confirmar que os passeios passam pelo Jesus Green ou pelo Midsummer Common, os melhores sítios sem trela da cidade.",
+          "descriptionDe": "Rein britische Plattform mit 24/7-Tierarzthotline bei jeder Buchung inbegriffen. Rund 20 verifizierte Betreuer in Cambridge, alle mit polizeilichem Führungszeugnis (DBS) geprüft. Durchschnittlicher Preis 25 bis 35 £/Tag für Betreuung, 15 £ für einen 30-minütigen Kurzspaziergang.",
+          "tipDe": "Im In-App-Chat bestätigen lassen, dass die Spaziergänge über Jesus Green oder Midsummer Common führen, die besten Orte ohne Leine in der Stadt."
         }
       ],
       "tipsEn": [
@@ -1123,6 +1268,18 @@
         {
           "q": "Consigo encontrar um cuidador que fale inglês em Cambridge?",
           "a": "Sim, praticamente todos os cuidadores de Cambridge são falantes nativos de inglês. Aplicações internacionais como o Pawshake e o Petbacker têm uma presença menor em Cambridge; o Rover e o Tailster, específicos do Reino Unido, têm uma cobertura muito melhor."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassiservice in Cambridge",
+      "introDe": "Für Tagesausflüge, bei denen der Hund nicht mitkommen kann (King's College Chapel, Fitzwilliam Museum, Cambridge University Botanic Garden), bietet Cambridge zuverlässige, verifizierte Haustierbetreuung über die großen britischen Plattformen.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet eine Hundetagesbetreuung in Cambridge?",
+          "a": "20 bis 35 £ pro Tag je nach Betreuer und Hundegröße, über Rover oder Tailster. Kurzbesuche kosten 12 bis 15 £ für 30 Minuten."
+        },
+        {
+          "q": "Finde ich in Cambridge einen englischsprachigen Betreuer?",
+          "a": "Ja, praktisch alle Betreuer in Cambridge sind englische Muttersprachler. Internationale Apps wie Pawshake und Petbacker haben in Cambridge eine geringere Präsenz, die britischen Plattformen Rover und Tailster bieten eine deutlich bessere Abdeckung."
         }
       ]
     }

@@ -37,7 +37,11 @@
           "descriptionPt": "Tasca lendária fundada nos anos 1960, com as paredes forradas de poemas manuscritos e recordações estudantis. Cozinha portuguesa farta, guisado de javali, chanfana, entrecosto de porco.",
           "petPolicyPt": "Cães pequenos com trela aceites nas mesas exteriores",
           "mustTryPt": "Chanfana (cabra estufada), feijoada",
-          "tipPt": "Não aceita reservas, chegue às 12:00 em ponto ou depois das 14:30 para evitar filas. Espaço muito apertado lá dentro."
+          "tipPt": "Não aceita reservas, chegue às 12:00 em ponto ou depois das 14:30 para evitar filas. Espaço muito apertado lá dentro.",
+          "descriptionDe": "Legendäre Tasca, gegründet in den 1960er Jahren, mit Wänden voller handgeschriebener Gedichte und Studenten-Erinnerungsstücke. Herzhafte portugiesische Küche, Wildschweineintopf, Chanfana, Rippchen.",
+          "petPolicyDe": "Kleine angeleinte Hunde an den Außentischen akzeptiert",
+          "mustTryDe": "Chanfana (geschmortes Ziegenfleisch), Feijoada",
+          "tipDe": "Keine Reservierungen, kommen Sie pünktlich um 12:00 Uhr oder nach 14:30 Uhr, um Warteschlangen zu vermeiden. Sehr enger Raum drinnen."
         },
         {
           "name": "Sete Restaurante",
@@ -63,7 +67,11 @@
           "descriptionPt": "Cozinha portuguesa contemporânea numa praça histórica, com uma ampla esplanada à sombra de plátanos. Boa carta de vinhos centrada nas regiões da Bairrada e do Dão.",
           "petPolicyPt": "Cães bem-vindos na esplanada",
           "mustTryPt": "Polvo à lagareiro, arroz de pato",
-          "tipPt": "A esplanada enche entre as 21:00 e as 22:30, jantar mais cedo significa um ambiente mais calmo para o seu cão."
+          "tipPt": "A esplanada enche entre as 21:00 e as 22:30, jantar mais cedo significa um ambiente mais calmo para o seu cão.",
+          "descriptionDe": "Zeitgenössische portugiesische Küche an einem historischen Platz, großzügige, von Platanen beschattete Terrasse. Starke Weinkarte mit Schwerpunkt auf den Regionen Bairrada und Dão.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Polvo à lagareiro (Oktopus), Arroz de pato (Entenreis)",
+          "tipDe": "Die Terrasse ist zwischen 21:00 und 22:30 Uhr am vollsten, ein früheres Abendessen bedeutet eine ruhigere Atmosphäre für Ihren Hund."
         },
         {
           "name": "Café Santa Cruz",
@@ -89,7 +97,11 @@
           "descriptionPt": "Café histórico de 1923 instalado numa antiga capela do mosteiro de Santa Cruz, com tetos abobadados, vitrais e balcões de mármore. Fado de Coimbra à terça, quinta e sábado às 18:00.",
           "petPolicyPt": "Cães bem-vindos na esplanada exterior da praça",
           "mustTryPt": "Crúzio (bolo de amêndoa), bica",
-          "tipPt": "As noites de fado atraem muito público, leve o cão à tarde (16:00 às 17:30) para uma esplanada mais calma."
+          "tipPt": "As noites de fado atraem muito público, leve o cão à tarde (16:00 às 17:30) para uma esplanada mais calma.",
+          "descriptionDe": "Historisches Cafe von 1923 in einer ehemaligen Kapelle des Klosters Santa Cruz, mit Gewölbedecken, Buntglasfenstern und Marmortresen. Fado-Aufführungen aus Coimbra dienstags, donnerstags und samstags um 18:00 Uhr.",
+          "petPolicyDe": "Hunde auf der Außenterrasse am Platz willkommen",
+          "mustTryDe": "Crúzio (Mandelkuchen), Bica-Espresso",
+          "tipDe": "Fado-Abende ziehen große Menschenmengen an, bringen Sie Hunde nachmittags (16:00-17:30 Uhr) für eine ruhigere Terrassenatmosphäre mit."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Os restaurantes de Coimbra cobram extra por cães?",
           "a": "Não, não há suplemento. Muitos cafés trazem espontaneamente uma taça de água quando veem o seu cão chegar."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Coimbra, Tasquinhas und Flussufer",
+      "introDe": "Coimbras Tasquinhas (kleine Familienrestaurants) und die Esplanade am Mondego-Fluss heißen angeleinte Hunde auf den meisten Terrassen willkommen. Die Studentenkultur hält die Stadt das ganze Jahr über entspannt und ungezwungen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Coimbra erlaubt?",
+          "a": "Ja, auf den meisten Außenterrassen. Die portugiesische Restaurantkultur ist bei angeleinten Hunden draußen entspannt; drinnen ist es unterschiedlicher und wird je nach Lokal entschieden."
+        },
+        {
+          "q": "Berechnen Restaurants in Coimbra einen Aufpreis für Hunde?",
+          "a": "Nein, es gibt keinen Aufpreis. Viele Cafes bringen von sich aus einen Wassernapf, wenn sie Ihren Hund kommen sehen."
+        }
       ]
     },
     "parks": {
@@ -205,7 +229,10 @@
             "Bancos",
             "Zonas de piquenique"
           ],
-          "tipPt": "Os cães podem chapinhar no Mondego a partir da margem de gravilha no extremo leste. Os mosquitos aparecem ao anoitecer no verão, leve repelente."
+          "tipPt": "Os cães podem chapinhar no Mondego a partir da margem de gravilha no extremo leste. Os mosquitos aparecem ao anoitecer no verão, leve repelente.",
+          "leashRuleDe": "Leinenpflicht",
+          "descriptionDe": "Auwald entlang des Mondego-Flusses westlich des Zentrums, mit Pappel- (choupo), Eschen- und Weidenhainen sowie einem 5 km langen Rundweg. Der beliebteste Ort in Coimbra für Hundespaziergänge, das ganze Jahr über.",
+          "tipDe": "Hunde können am östlichen Ende vom Kiesstrand aus im Mondego planschen. Im Sommer treten in der Dämmerung Mücken auf, Repellent mitbringen."
         },
         {
           "name": "Jardim Botânico da Universidade de Coimbra",
@@ -249,7 +276,10 @@
             "Bancos",
             "Vistas em socalcos"
           ],
-          "tipPt": "Entrada gratuita, as estufas (bilhete à parte) não admitem cães. As ruínas do aqueduto romano dentro do jardim são um ótimo local para fotografias."
+          "tipPt": "Entrada gratuita, as estufas (bilhete à parte) não admitem cães. As ruínas do aqueduto romano dentro do jardim são um ótimo local para fotografias.",
+          "leashRuleDe": "Leinenpflicht",
+          "descriptionDe": "1772 vom Marquis von Pombal gegründet, einer der ältesten botanischen Universitätsgärten Europas. Terrassiertes Gelände mit seltenen Bäumen, einem Bambushain und einem barocken Parterre. Hunde an der Leine willkommen.",
+          "tipDe": "Freier Eintritt; die Gewächshäuser (separates Ticket) lassen keine Hunde zu. Die römischen Aquäduktruinen im Garten sind ein toller Fotospot."
         },
         {
           "name": "Parque Verde do Mondego",
@@ -293,7 +323,10 @@
             "Bancos",
             "Parques infantis"
           ],
-          "tipPt": "As vistas do centro histórico a partir da margem sul ao pôr do sol são imbatíveis, dirija-se à ponte por volta das 19:30 no verão."
+          "tipPt": "As vistas do centro histórico a partir da margem sul ao pôr do sol são imbatíveis, dirija-se à ponte por volta das 19:30 no verão.",
+          "leashRuleDe": "Leinenpflicht",
+          "descriptionDe": "Flussuferpark, der sich 4 km entlang beider Ufer des Mondego erstreckt und durch die Fußgängerbrücke Pedro & Inês (2007) verbunden ist. Radweg, Rasenflächen, Cafes. Die zentrale Freizeitachse der Stadt im Freien.",
+          "tipDe": "Der Sonnenuntergangsblick auf die Altstadt vom Südufer aus ist unschlagbar, gehen Sie im Sommer gegen 19:30 Uhr zur Brücke."
         }
       ],
       "tipsEn": [
@@ -357,6 +390,18 @@
           "q": "Os cães podem entrar no Jardim Botânico?",
           "a": "Sim, os cães com trela são bem-vindos nos jardins em socalcos ao ar livre. As estufas (bilhete pago) não admitem animais."
         }
+      ],
+      "titleDe": "Die besten Hundeparks und Spaziergänge in Coimbra, Botanischer Garten und Choupal-Wald",
+      "introDe": "Coimbra umschließt eine hügelige Altstadt mit einem grünen Ring: die Mata Nacional do Choupal (Auwald), die Gärten von Penedo da Saudade und der Jardim Botânico bieten flache, schattige Spaziergänge, ideal für Hunde.",
+      "faqsDe": [
+        {
+          "q": "Wo gehen Einheimische in Coimbra mit ihren Hunden spazieren?",
+          "a": "Die Mata Nacional do Choupal ist der Anziehungspunkt der Stadt für Hundespaziergänge: 78 Hektar flacher, schattiger Auwald, 10 Minuten zu Fuß westlich vom Zentrum. Der Parque Verde do Mondego ist die zweite Wahl."
+        },
+        {
+          "q": "Dürfen Hunde in den Jardim Botânico?",
+          "a": "Ja, angeleinte Hunde sind in den terrassierten Außenanlagen willkommen. Die Gewächshäuser (kostenpflichtiges Ticket) lassen keine Haustiere zu."
+        }
       ]
     },
     "transport": {
@@ -384,7 +429,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Coimbra+B+train+station",
           "descriptionPt": "Comboios AP diretos Lisboa Santa Apolónia, Coimbra B (1h45) e Porto Campanhã, Coimbra B (1h15), de 1 em 1 ou de 2 em 2 horas. Coimbra B fica a 2 km a norte do centro, uma ligação gratuita assegura o trajeto até Coimbra A, no centro.",
           "petPolicyPt": "Cães pequenos (até 6 kg) em transportadora viajam grátis. Cães maiores (porte médio ou grande) aceites nos comboios AP com açaime e trela, com um bilhete fixo para animais (cerca de 6 €).",
-          "tipPt": "Reserve o suplemento para animais online ou ao balcão da estação, os revisores aplicam coima se não o tiver."
+          "tipPt": "Reserve o suplemento para animais online ou ao balcão da estação, os revisores aplicam coima se não o tiver.",
+          "descriptionDe": "Direkte AP-Züge Lissabon Santa Apolónia – Coimbra B (1:45 Std.) und Porto Campanhã – Coimbra B (1:15 Std.), alle 1-2 Stunden. Coimbra B liegt 2 km nördlich des Zentrums; ein kostenloser Shuttle fährt zum Coimbra A im Zentrum.",
+          "petPolicyDe": "Kleine Hunde (bis 6 kg) in einer Transportbox reisen kostenlos. Größere Hunde (mittel/groß) sind in AP-Zügen mit Maulkorb und Leine erlaubt, mit einem festen Haustierticket (~6 EUR).",
+          "tipDe": "Buchen Sie den Haustierzuschlag online oder am Bahnhofsschalter, Schaffner verlangen ein Bußgeld, wenn Sie ihn nicht haben."
         },
         {
           "name": "Coimbra Urban Buses (SMTUC)",
@@ -403,7 +451,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=SMTUC+Coimbra",
           "descriptionPt": "Rede municipal de autocarros com 30 linhas, incluindo o minibus elétrico da Linha Verde que atravessa o centro histórico. Útil para chegar à colina da universidade sem ter de subir a pé.",
           "petPolicyPt": "Cães pequenos em transportadora e cães de assistência viajam grátis. Cães maiores ao critério do motorista.",
-          "tipPt": "A Linha Verde passa de 8 em 8 ou de 12 em 12 minutos e é gratuita para visitantes com o Coimbra City Card."
+          "tipPt": "A Linha Verde passa de 8 em 8 ou de 12 em 12 minutos e é gratuita para visitantes com o Coimbra City Card.",
+          "descriptionDe": "Städtisches Busnetz mit 30 Linien, darunter der Linha-Verde-Elektro-Minibus durch die Altstadt. Praktisch, um den Universitätshügel ohne Steigung zu erreichen.",
+          "petPolicyDe": "Kleine Hunde in einer Transportbox und Assistenzhunde reisen kostenlos. Größere Hunde nach Ermessen des Fahrers.",
+          "tipDe": "Die Linha Verde (Grüne Linie) fährt alle 8-12 Minuten und ist für Besucher mit einer Coimbra City Card kostenlos."
         },
         {
           "name": "Taxi Coimbra",
@@ -422,7 +473,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Taxi+Coimbra",
           "descriptionPt": "Cooperativas locais de táxis que cobrem a cidade e os transfers para o aeroporto (Porto OPO 1h30, Lisboa LIS 2h15). Motoristas pet-friendly identificáveis a pedido.",
           "petPolicyPt": "Cães pequenos em transportadora quase sempre aceites, cães grandes devem ser pedidos com antecedência.",
-          "tipPt": "Ligue para +351 239 49 90 90 para pedir um táxi pet-friendly. A Bolt e a Uber também operam em Coimbra, os cães pequenos em transportadora costumam ser aceites."
+          "tipPt": "Ligue para +351 239 49 90 90 para pedir um táxi pet-friendly. A Bolt e a Uber também operam em Coimbra, os cães pequenos em transportadora costumam ser aceites.",
+          "descriptionDe": "Lokale Taxigenossenschaften, die die Stadt und Flughafentransfers abdecken (Porto OPO 1:30 Std., Lissabon LIS 2:15 Std.). Haustierfreundliche Fahrer sind auf Anfrage erkennbar.",
+          "petPolicyDe": "Kleine Hunde in Transportboxen werden fast immer akzeptiert; größere Hunde erfordern eine vorherige Anfrage.",
+          "tipDe": "Rufen Sie +351 239 49 90 90 an, um ein haustierfreundliches Taxi anzufordern. Bolt und Uber sind auch in Coimbra aktiv, kleine Hunde in Transportboxen werden generell akzeptiert."
         }
       ],
       "tipsEn": [
@@ -486,6 +540,18 @@
           "q": "Como vou do aeroporto do Porto a Coimbra com um cão?",
           "a": "Opção 1: apanhe o metro do aeroporto OPO até à estação de Campanhã (45 min) e depois o comboio AP até Coimbra B (1h15). Opção 2: táxi pet-friendly ou transfer reservado, 1h30 porta a porta, cerca de 120 €."
         }
+      ],
+      "titleDe": "Haustierfreundlicher Transport in Coimbra, Zug, Bus und Taxi",
+      "introDe": "Coimbras kompakte Altstadt ist in 20 Minuten vollständig zu Fuß erreichbar, wenn auch steil. Alfa-Pendular-Züge verbinden Lissabon (1:45 Std.) und Porto (1:15 Std.), Comboios de Portugal akzeptiert Haustiere nach einfachen Regeln.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund im Zug von Lissabon nach Coimbra mitnehmen?",
+          "a": "Ja. Comboios de Portugal akzeptiert kleine Hunde (bis 6 kg) in einer Transportbox kostenlos in allen Zügen. Größere Hunde sind in Alfa-Pendular- und Intercity-Zügen mit Leine, Maulkorb und einem Haustierticket (~6 EUR) erlaubt."
+        },
+        {
+          "q": "Wie komme ich vom Flughafen Porto mit Hund nach Coimbra?",
+          "a": "Option 1: Nehmen Sie die Metro vom Flughafen OPO zum Bahnhof Campanhã (45 Min.), dann den AP-Zug nach Coimbra B (1:15 Std.). Option 2: haustierfreundliches Taxi oder vorgebuchter Transfer, 1:30 Std. von Tür zu Tür, ~120 EUR."
+        }
       ]
     },
     "beaches": {
@@ -536,7 +602,10 @@
             "Casas de banho (sazonais)",
             "Nadador-salvador (jun a set)"
           ],
-          "tipPt": "Estacione no parque mais a sul para o troço mais sossegado. Correntes atlânticas fortes, não deixe os cães grandes nadar para longe."
+          "tipPt": "Estacione no parque mais a sul para o troço mais sossegado. Correntes atlânticas fortes, não deixe os cães grandes nadar para longe.",
+          "leashRuleDe": "Freilauf erlaubt Oktober-Mai; Leinenpflicht Juni-September",
+          "descriptionDe": "Breiter Atlantikstrand südlich der Mondego-Mündung, 45 km westlich von Coimbra. Der am wenigsten überlaufene Abschnitt von Figueira da Foz, mit Klippen und zuverlässiger Brandung. Hunde das ganze Jahr über willkommen; die bewachte Badezone schränkt Freilauf im Sommer ein.",
+          "tipDe": "Parken Sie am südlichsten Parkplatz für den ruhigsten Abschnitt. Starke Atlantikströmungen, lassen Sie große Hunde nicht weit hinausschwimmen."
         },
         {
           "name": "Praia Fluvial do Reconquinho",
@@ -574,7 +643,10 @@
             "Sombra de folhosas",
             "Águas calmas"
           ],
-          "tipPt": "A 30 min de carro de Coimbra pela N110. Leve tudo, não há loja no local."
+          "tipPt": "A 30 min de carro de Coimbra pela N110. Leve tudo, não há loja no local.",
+          "leashRuleDe": "Leine empfohlen; keine spezielle Hundebeschränkung",
+          "descriptionDe": "Flussstrand am Mondego, 25 km flussaufwärts von Coimbra, nahe Penacova. Ruhiges, flaches Wasser, Kiesstrand, Schatten durch Laubbäume. Familienfreundlich und ruhig außerhalb der Juli-August-Wochenenden.",
+          "tipDe": "30 Minuten Fahrt von Coimbra über die N110. Alles mitbringen, kein Geschäft vor Ort."
         },
         {
           "name": "Praia da Tocha",
@@ -612,7 +684,10 @@
             "Bares de praia (verão)",
             "Vasto espaço"
           ],
-          "tipPt": "Caminhe 10 min para sul a partir do estacionamento principal para deixar para trás famílias e nadadores-salvadores."
+          "tipPt": "Caminhe 10 min para sul a partir do estacionamento principal para deixar para trás famílias e nadadores-salvadores.",
+          "leashRuleDe": "Freilauf außerhalb der bewachten Badezone das ganze Jahr über",
+          "descriptionDe": "Langer Atlantik-Dünenstrand 40 km nordwestlich von Coimbra. Traditionelle, bunt bemalte Fischerhütten (palheiros). Ruhiger als Figueira, mit weiten unbewachten Abschnitten, perfekt für Freilauf mit Hund.",
+          "tipDe": "Gehen Sie 10 Minuten südlich vom Hauptparkplatz, um Familien und Bademeister hinter sich zu lassen."
         }
       ],
       "tipsEn": [
@@ -676,6 +751,18 @@
           "q": "Os cães podem nadar no Mondego perto de Coimbra?",
           "a": "Sim, os cães nadam livremente no Mondego no extremo leste da Mata do Choupal e nas praias fluviais a montante, como Reconquinho. A água é limpa todo o ano."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Coimbra, Atlantik und Fluss",
+      "introDe": "Coimbra liegt 40 km landeinwärts vom Atlantik entfernt, der nächste hundefreundliche Atlantikstrand ist Praia da Figueira da Foz (40 Min. mit dem Auto), und mehrere Flussstrände säumen den Mondego flussaufwärts.",
+      "faqsDe": [
+        {
+          "q": "Gibt es hundefreundliche Strände in der Nähe von Coimbra?",
+          "a": "Ja. Praia da Cova-Gala (45 km, Atlantik) und Praia da Tocha (40 km, Atlantikdünen) erlauben Hunde das ganze Jahr über außerhalb der bewachten Badezonen. Flussstrände wie Reconquinho (25 km) sind ebenfalls haustierfreundlich und haben ruhigeres Wasser."
+        },
+        {
+          "q": "Können Hunde im Mondego bei Coimbra schwimmen?",
+          "a": "Ja, Hunde schwimmen frei im Mondego am östlichen Ende der Mata do Choupal und an flussaufwärts gelegenen Flussstränden wie Reconquinho. Das Wasser ist das ganze Jahr über sauber."
+        }
       ]
     },
     "vets": {
@@ -706,7 +793,9 @@
           "tipEs": "Llama durante el trayecto, prepararán la sala de trauma para tu llegada.",
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+do+Baixo+Vouga",
           "descriptionPt": "O hospital de urgência 24h mais próximo de Coimbra (50 min para norte pela A1). Cirurgia completa, UCI, TAC, ecografia. Serve o corredor Coimbra-Aveiro.",
-          "tipPt": "Ligue enquanto conduz, vão preparar a sala de trauma para a sua chegada."
+          "tipPt": "Ligue enquanto conduz, vão preparar a sala de trauma para a sua chegada.",
+          "descriptionDe": "Nächstgelegenes 24/7-Notfallkrankenhaus zu Coimbra (50 Minuten nördlich über die A1). Vollständige Chirurgie, Intensivstation, CT, Ultraschall. Versorgt den Korridor Coimbra-Aveiro.",
+          "tipDe": "Rufen Sie während der Fahrt an, dann wird der Trauma-Raum für Ihre Ankunft vorbereitet."
         },
         {
           "name": "Clínica Veterinária de Coimbra",
@@ -728,7 +817,9 @@
           "tipEs": "Aceptan sin cita pero llama antes, las tardes se llenan rápido.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+de+Coimbra",
           "descriptionPt": "Clínica diurna bem estabelecida, a 10 min a pé a norte da estação de comboios. Vacinações, colocação de microchip, medicina interna, dermatologia, dentária.",
-          "tipPt": "Aceita consultas sem marcação, mas ligue antes, o horário da tarde enche depressa com os locais."
+          "tipPt": "Aceita consultas sem marcação, mas ligue antes, o horário da tarde enche depressa com os locais.",
+          "descriptionDe": "Lange etablierte Tagesklinik, 10 Minuten zu Fuß nördlich vom Bahnhof. Impfungen, Mikrochipping, Innere Medizin, Dermatologie, Zahnpflege.",
+          "tipDe": "Ohne Termin möglich, aber vorher anrufen, die Nachmittagsstunden füllen sich schnell mit Einheimischen."
         },
         {
           "name": "Hospital Veterinário Universitário de Coimbra",
@@ -750,7 +841,9 @@
           "tipEs": "Útil sobre todo para casos complejos. Tu veterinario debe derivarte.",
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Universitario+Coimbra",
           "descriptionPt": "Hospital universitário de ensino. Consultas especializadas (oncologia, ortopedia, oftalmologia) por encaminhamento. Apenas durante o dia.",
-          "tipPt": "Sobretudo útil para casos complexos. O seu veterinário de primeira linha tem de o encaminhar."
+          "tipPt": "Sobretudo útil para casos complexos. O seu veterinário de primeira linha tem de o encaminhar.",
+          "descriptionDe": "Universitätsklinikum. Spezialisierte Sprechstunden (Onkologie, Orthopädie, Ophthalmologie) auf Überweisung. Nur tagsüber.",
+          "tipDe": "Am nützlichsten für komplexe Fälle. Ihr Haustierarzt muss Sie überweisen."
         }
       ],
       "tipsEn": [
@@ -814,6 +907,18 @@
           "q": "Quanto custa uma consulta veterinária em Coimbra?",
           "a": "Consultas de rotina de 35 a 55 €. Consulta de urgência de 60 a 110 € mais exames. Os seguros para animais da UE reembolsam frequentemente."
         }
+      ],
+      "titleDe": "Tiernotdienste [24h] in Coimbra, Tierkliniken und Haustierpflege",
+      "introDe": "Coimbras tierärztliche Infrastruktur ist dank der veterinärmedizinischen Fakultät der Universität stark. Ein 24/7-Notfallkrankenhaus und mehrere Tageskliniken versorgen die Stadt.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt in Coimbra?",
+          "a": "Das nächstgelegene 24/7-Notfallkrankenhaus ist das Hospital Veterinário do Baixo Vouga, 50 Minuten nördlich über die Autobahn A1. Innerhalb von Coimbra behandeln mehrere Kliniken Tagesnotfälle, schließen aber nachts."
+        },
+        {
+          "q": "Wie viel kostet ein Tierarztbesuch in Coimbra?",
+          "a": "Routinesprechstunden 35-55 EUR. Notfallsprechstunde 60-110 EUR plus Diagnostik. EU-Haustierversicherungen erstatten oft die Kosten."
+        }
       ]
     },
     "tips": {
@@ -830,7 +935,8 @@
           "description": "April–June and September–October are ideal: 18–24°C, low rainfall, lush green Choupal. Avoid mid-July to mid-August (28–30°C with strong sun) and December–February (cool, rainy, 80% humidity).",
           "descriptionFr": "Avril–juin et septembre–octobre sont idéaux : 18–24°C, peu de pluie, Choupal d'un vert luxuriant. Évitez mi-juillet à mi-août (28–30°C plein soleil) et décembre–février (frais, pluvieux, 80% d'humidité).",
           "descriptionEs": "Abril–junio y septiembre–octubre son ideales: 18–24°C, poca lluvia, Choupal de un verde exuberante. Evita mediados de julio a mediados de agosto (28–30°C con sol fuerte) y diciembre–febrero (fresco, lluvioso, 80% humedad).",
-          "descriptionPt": "Abril a junho e setembro a outubro são ideais: 18 a 24 °C, pouca chuva, o Choupal verdejante. Evite de meados de julho a meados de agosto (28 a 30 °C com sol forte) e de dezembro a fevereiro (fresco, chuvoso, 80% de humidade)."
+          "descriptionPt": "Abril a junho e setembro a outubro são ideais: 18 a 24 °C, pouca chuva, o Choupal verdejante. Evite de meados de julho a meados de agosto (28 a 30 °C com sol forte) e de dezembro a fevereiro (fresco, chuvoso, 80% de humidade).",
+          "descriptionDe": "April-Juni und September-Oktober sind ideal: 18-24°C, wenig Niederschlag, üppig grüner Choupal-Wald. Meiden Sie Mitte Juli bis Mitte August (28-30°C mit starker Sonne) und Dezember-Februar (kühl, regnerisch, 80% Luftfeuchtigkeit)."
         },
         {
           "name": "Hills & stairs",
@@ -838,7 +944,8 @@
           "description": "Coimbra's old town climbs 70 m on cobbled streets and stairways (Quebra-Costas means 'back-breaker'). Small dogs cope well; older or short-legged dogs may need carrying on the steepest sections. The Linha Verde mini-bus is the easy alternative.",
           "descriptionFr": "Le centre historique grimpe de 70 m sur des rues pavées et escaliers (Quebra-Costas signifie « casse-dos »). Les petits chiens s'en sortent ; les chiens âgés ou aux pattes courtes peuvent nécessiter d'être portés sur les pentes les plus raides. Le mini-bus Linha Verde est l'alternative facile.",
           "descriptionEs": "El casco antiguo de Coimbra sube 70 m por calles empedradas y escaleras (Quebra-Costas significa «rompe-espaldas»). Los perros pequeños lo llevan bien; los perros mayores o de patas cortas pueden necesitar ser cargados en los tramos más pronunciados. El minibús Linha Verde es la alternativa fácil.",
-          "descriptionPt": "O centro histórico de Coimbra sobe 70 m por ruas empedradas e escadarias (Quebra-Costas significa quebra-costas). Os cães pequenos lidam bem com isso, os cães mais velhos ou de patas curtas podem precisar de colo nos troços mais íngremes. O minibus da Linha Verde é a alternativa fácil."
+          "descriptionPt": "O centro histórico de Coimbra sobe 70 m por ruas empedradas e escadarias (Quebra-Costas significa quebra-costas). Os cães pequenos lidam bem com isso, os cães mais velhos ou de patas curtas podem precisar de colo nos troços mais íngremes. O minibus da Linha Verde é a alternativa fácil.",
+          "descriptionDe": "Coimbras Altstadt steigt 70 m über gepflasterte Straßen und Treppen an (Quebra-Costas bedeutet 'Rückenbrecher'). Kleine Hunde kommen gut zurecht; ältere oder kurzbeinige Hunde müssen auf den steilsten Abschnitten eventuell getragen werden. Der Linha-Verde-Minibus ist die einfache Alternative."
         },
         {
           "name": "Currency & cost",
@@ -846,7 +953,8 @@
           "description": "Portugal uses the euro. Coimbra is one of Portugal's cheapest cities: meal 12–22 EUR, espresso 0.80–1.20 EUR, mid-range hotel 75–130 EUR/night, taxi station-to-old-town 5–8 EUR.",
           "descriptionFr": "Le Portugal utilise l'euro. Coimbra est l'une des villes les moins chères du Portugal : repas 12–22 €, espresso 0,80–1,20 €, hôtel milieu de gamme 75–130 €/nuit, taxi gare–centre 5–8 €.",
           "descriptionEs": "Portugal usa el euro. Coimbra es una de las ciudades más baratas de Portugal: comida 12–22 €, espresso 0,80–1,20 €, hotel de gama media 75–130 €/noche, taxi estación–centro 5–8 €.",
-          "descriptionPt": "Portugal usa o euro. Coimbra é uma das cidades mais baratas de Portugal: refeição de 12 a 22 €, espresso de 0,80 a 1,20 €, hotel de gama média de 75 a 130 €/noite, táxi da estação ao centro histórico de 5 a 8 €."
+          "descriptionPt": "Portugal usa o euro. Coimbra é uma das cidades mais baratas de Portugal: refeição de 12 a 22 €, espresso de 0,80 a 1,20 €, hotel de gama média de 75 a 130 €/noite, táxi da estação ao centro histórico de 5 a 8 €.",
+          "descriptionDe": "Portugal verwendet den Euro. Coimbra ist eine der günstigsten Städte Portugals: Mahlzeit 12-22 EUR, Espresso 0,80-1,20 EUR, Mittelklassehotel 75-130 EUR/Nacht, Taxi Bahnhof-Altstadt 5-8 EUR."
         }
       ],
       "tipsEn": [
@@ -910,6 +1018,18 @@
           "q": "Qual é a pior altura para visitar Coimbra com um cão?",
           "a": "A semana da Queima das Fitas (meados de maio) é barulhenta, cheia de gente e as festas de rua duram toda a noite, stressante para os cães. Evite também de meados de julho a meados de agosto: calor mais cafés fechados para férias."
         }
+      ],
+      "titleDe": "Reisetipps für Coimbra mit Ihrem Hund",
+      "introDe": "Coimbra ist hügelig, wirklich hügelig, aber kompakt: die gesamte Altstadt passt auf ein 600 Meter großes Quadrat und steigt 70 m vom Fluss zur Universität an. Freundlich zu Hunden jeder Größe, mit starker Terrassenkultur und einem ausgezeichneten Waldpark 10 Minuten westlich.",
+      "faqsDe": [
+        {
+          "q": "Ist Coimbra insgesamt hundefreundlich?",
+          "a": "Ja. Coimbra ist eine der einladendsten Städte Portugals für Hunde, mit entspannter Cafekultur, dem Choupal-Wald als täglichem Anziehungspunkt für Spaziergänge und Einheimischen, die es gewohnt sind, Hunde in der von Studierenden geprägten Altstadt zu sehen."
+        },
+        {
+          "q": "Wann ist die schlechteste Zeit für einen Besuch in Coimbra mit Hund?",
+          "a": "Die Woche der Queima das Fitas (Mitte Mai) ist laut, überfüllt, und Straßenfeste dauern die ganze Nacht, stressig für Hunde. Meiden Sie außerdem Mitte Juli bis Mitte August: Hitze plus wegen Ferien geschlossene Cafes."
+        }
       ]
     },
     "attractions": {
@@ -938,7 +1058,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Universidade+de+Coimbra",
           "descriptionPt": "Fundada em 1290, uma das universidades mais antigas da Europa e Património da UNESCO desde 2013. O pátio do Paço das Escolas, no topo da colina, abre a cães com trela. Os pontos altos do interior (Biblioteca Joanina, Paço Real, Capela de São Miguel) exigem bilhetes pagos e não admitem animais.",
           "petPolicyPt": "Pátios exteriores abertos a cães com trela, visitas ao interior não acessíveis",
-          "tipPt": "Suba pela escadaria Quebra-Costas para a ascensão mais fotogénica, ou apanhe o minibus da Linha Verde se estiver calor."
+          "tipPt": "Suba pela escadaria Quebra-Costas para a ascensão mais fotogénica, ou apanhe o minibus da Linha Verde se estiver calor.",
+          "descriptionDe": "1290 gegründet, eine der ältesten Universitäten Europas und seit 2013 UNESCO-Weltkulturerbe. Der Innenhof Paço das Escolas oben auf dem Hügel ist für angeleinte Hunde zugänglich. Die Innenhighlights (Joanina-Bibliothek, Königspalast, Sankt-Michael-Kapelle) erfordern kostenpflichtige Tickets und lassen keine Haustiere zu.",
+          "petPolicyDe": "Außenhöfe für angeleinte Hunde zugänglich; Innenführungen nicht zugänglich",
+          "tipDe": "Steigen Sie über die Treppe Quebra-Costas für den fotogensten Aufstieg, oder nehmen Sie bei Hitze den Linha-Verde-Minibus."
         },
         {
           "name": "Sé Velha (Old Cathedral)",
@@ -958,7 +1081,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Se+Velha+Coimbra",
           "descriptionPt": "Catedral românica com aspeto de fortaleza, consagrada em 1184, um dos melhores exemplos portugueses do estilo. Os cães não são permitidos no interior (exceto cães de assistência), mas a praça empedrada em frente é um dos exteriores mais bonitos da cidade.",
           "petPolicyPt": "Sem cães no interior, praça exterior totalmente acessível",
-          "tipPt": "A luz do fim da tarde (16:00 às 17:30) ilumina lindamente a fachada, perfeita para fotografias com o seu cão."
+          "tipPt": "A luz do fim da tarde (16:00 às 17:30) ilumina lindamente a fachada, perfeita para fotografias com o seu cão.",
+          "descriptionDe": "Festungsartige romanische Kathedrale, 1184 geweiht, eines der besten Beispiele Portugals für diesen Stil. Hunde nicht im Inneren erlaubt (außer Assistenzhunde), aber der gepflasterte Platz davor ist einer der schönsten Orte der Stadt im Freien.",
+          "petPolicyDe": "Keine Hunde im Inneren; Außenplatz vollständig zugänglich",
+          "tipDe": "Am späten Nachmittag (16:00-17:30 Uhr) trifft das Licht wunderschön auf die Fassade, perfekt für Fotos mit Ihrem Hund."
         },
         {
           "name": "Ponte Pedro & Inês",
@@ -978,7 +1104,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Ponte+Pedro+e+Ines+Coimbra",
           "descriptionPt": "Ponte curva, exclusivamente pedonal (2007), que liga as duas margens do Parque Verde do Mondego. Tem o nome dos trágicos amantes do século XIV, Dom Pedro e Inês de Castro. Aberta 24/7 a cães.",
           "petPolicyPt": "Aberta 24/7 a cães com trela",
-          "tipPt": "Os reflexos do pôr do sol no Mondego fazem deste o melhor local da cidade para um retrato canino, vire-se para norte para ter a silhueta da catedral ao fundo."
+          "tipPt": "Os reflexos do pôr do sol no Mondego fazem deste o melhor local da cidade para um retrato canino, vire-se para norte para ter a silhueta da catedral ao fundo.",
+          "descriptionDe": "Geschwungene, reine Fußgängerbrücke (2007), die die beiden Ufer des Parque Verde do Mondego verbindet. Benannt nach den unglücklich Liebenden Dom Pedro und Inês de Castro aus dem 14. Jahrhundert. Rund um die Uhr für Hunde geöffnet.",
+          "petPolicyDe": "Rund um die Uhr für angeleinte Hunde geöffnet",
+          "tipDe": "Die Sonnenuntergangsspiegelungen im Mondego machen dies zum besten Hundeporträt-Spot der Stadt, richten Sie den Blick nach Norden für die Kathedralen-Skyline im Hintergrund."
         }
       ],
       "tipsEn": [
@@ -1042,6 +1171,18 @@
           "q": "Há miradouros acessíveis com um cão em Coimbra?",
           "a": "Sim, o Largo da Porta Férrea no topo da universidade, os jardins do Penedo da Saudade e a margem sul do Mondego junto à ponte Pedro & Inês estão todos abertos a cães com trela e oferecem vistas notáveis."
         }
+      ],
+      "titleDe": "Die besten haustierfreundlichen Attraktionen in Coimbra, Universität, Altstadt und Flussufer",
+      "introDe": "Coimbras UNESCO-Altstadt lässt sich am besten als Spaziergang im Freien erleben, perfekt mit angeleintem Hund. Die meisten großen Sehenswürdigkeiten haben hundefreundliche Außenbereiche oder umliegende Gärten; nur die Joanina-Bibliothek, Museen und Kapellen sind strikt tabu.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund zur Universität Coimbra mitnehmen?",
+          "a": "Ja, zum Innenhof Paço das Escolas im Freien und den umliegenden Wegen. Die Innenbesichtigungen (Joanina-Bibliothek, Königspalast, Sankt-Michael-Kapelle) erfordern kostenpflichtige Tickets und lassen keine Haustiere zu."
+        },
+        {
+          "q": "Gibt es in Coimbra mit Hund zugängliche Aussichtspunkte im Freien?",
+          "a": "Ja, der Largo da Porta Férrea oben an der Universität, die Gärten von Penedo da Saudade und das Südufer des Mondego bei der Brücke Pedro & Inês sind alle für angeleinte Hunde geöffnet und bieten hervorragende Ausblicke."
+        }
       ]
     },
     "petsitting": {
@@ -1066,7 +1207,9 @@
           "tipFr": "~70% des sitters de Coimbra sont bilingues EN/PT grâce à la population étudiante internationale.",
           "tipEs": "~70% de los cuidadores de Coimbra son bilingües EN/PT gracias a la población estudiantil internacional.",
           "descriptionPt": "Plataforma internacional com cerca de 12 cuidadores verificados em Coimbra. Visitas pontuais, day-care, alojamento durante a noite. Seguro incluído, cuidadores avaliados.",
-          "tipPt": "Cerca de 70% dos cuidadores de Coimbra são bilingues EN/PT, graças à população estudantil internacional."
+          "tipPt": "Cerca de 70% dos cuidadores de Coimbra são bilingues EN/PT, graças à população estudantil internacional.",
+          "descriptionDe": "Internationale Plattform mit ~12 geprüften Betreuern in Coimbra. Kurzbesuche, Tagesbetreuung, Übernachtungsbetreuung. Versicherung inklusive, bewertete Betreuer.",
+          "tipDe": "~70% der Betreuer in Coimbra sind dank der internationalen Studentenschaft zweisprachig EN/PT."
         },
         {
           "name": "Gudog Coimbra",
@@ -1083,7 +1226,9 @@
           "tipFr": "Réservez 48h à l'avance pendant la Queima das Fitas (mi-mai), les disponibilités fondent.",
           "tipEs": "Reserva con 48h de antelación durante la Queima das Fitas (mediados de mayo), la disponibilidad cae en picado.",
           "descriptionPt": "Plataforma ibérica com cerca de 8 cuidadores verificados em Coimbra. Útil para viajantes que preferem uma interface em espanhol/português e portabilidade de conta em toda a Península Ibérica.",
-          "tipPt": "Reserve com pelo menos 48h de antecedência durante a semana da Queima das Fitas (meados de maio), a disponibilidade dos cuidadores aperta drasticamente."
+          "tipPt": "Reserve com pelo menos 48h de antecedência durante a semana da Queima das Fitas (meados de maio), a disponibilidade dos cuidadores aperta drasticamente.",
+          "descriptionDe": "Iberische Plattform mit ~8 geprüften Betreuern in Coimbra. Nützlich für Reisende, die eine spanische/portugiesische Oberfläche und iberienweite Kontoübertragbarkeit bevorzugen.",
+          "tipDe": "Buchen Sie während der Queima-das-Fitas-Woche (Mitte Mai) mindestens 48 Stunden im Voraus, die Verfügbarkeit von Betreuern sinkt drastisch."
         }
       ],
       "tipsEn": [
@@ -1146,6 +1291,18 @@
         {
           "q": "Posso deixar o meu cão no hotel durante o dia em Coimbra?",
           "a": "A maioria dos hotéis pet-friendly de Coimbra (Quinta das Lágrimas, Sapientia, Vila Galé) aceita cães no quarto durante a sua ausência, se forem calmos. Confirme no check-in, alguns exigem que não deixe o cão sozinho mais do que algumas horas."
+        }
+      ],
+      "titleDe": "Hundebetreuung und Tagesbetreuung in Coimbra, geprüfte Plattformen",
+      "introDe": "Besuche der Joanina-Bibliothek, des Inneren der Sé Velha und der Museen erfordern manchmal, den Hund zurückzulassen. Pawshake und Gudog sind beide in Coimbra mit rund 15 geprüften lokalen Betreuern aktiv.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich für ein paar Stunden einen Hundesitter in Coimbra?",
+          "a": "Pawshake und Gudog erlauben beide die Buchung von Kurzbesuchen oder Tagesbetreuung mit geprüften lokalen Betreuern. Filtern Sie nach Sprache und Wohnungstyp. Die meisten Betreuer in Coimbra sind kurzfristig flexibel."
+        },
+        {
+          "q": "Kann ich meinen Hund tagsüber im Hotel in Coimbra lassen?",
+          "a": "Die meisten haustierfreundlichen Hotels in Coimbra (Quinta das Lágrimas, Sapientia, Vila Galé) erlauben Hunde im Zimmer während Ihrer Abwesenheit, wenn sie ruhig sind. Bestätigen Sie dies beim Check-in, manche verlangen, dass Sie den Hund nicht länger als ein paar Stunden allein lassen."
         }
       ]
     }

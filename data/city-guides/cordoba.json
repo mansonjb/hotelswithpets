@@ -37,7 +37,11 @@
           "descriptionPt": "Uma bodega do século XIX que serve cozinha cordovesa tradicional, salmorejo, flamenquines, rabo de boi estufado, num pátio andaluz convertido com plantas suspensas e paredes de azulejo. Os cães com trela são bem-vindos nas mesas do pátio; a cave de vinhos interior aceita apenas cães pequenos.",
           "petPolicyPt": "Cães bem-vindos no pátio; cães pequenos no interior",
           "mustTryPt": "Salmorejo cordobés, flamenquín, rabo de toro",
-          "tipPt": "Reserve uma mesa no pátio com pelo menos 2 dias de antecedência para os almoços de fim de semana, o pátio enche depressa e é a única zona que aceita cães."
+          "tipPt": "Reserve uma mesa no pátio com pelo menos 2 dias de antecedência para os almoços de fim de semana, o pátio enche depressa e é a única zona que aceita cães.",
+          "descriptionDe": "Eine Bodega aus dem 19. Jahrhundert mit traditioneller Cordobeser Küche, Salmorejo, Flamenquines, Ochsenschwanzeintopf, in einem umgebauten andalusischen Innenhof mit Hängepflanzen und Fliesenwänden. Hunde an der Leine sind an den Tischen im Innenhof willkommen; der Weinkeller im Inneren akzeptiert nur kleine Hunde.",
+          "petPolicyDe": "Hunde willkommen im Innenhof; kleine Hunde drinnen",
+          "mustTryDe": "Salmorejo cordobés, Flamenquín, Rabo de Toro",
+          "tipDe": "Reservieren Sie für Mittagessen am Wochenende mindestens 2 Tage im Voraus einen Tisch im Innenhof, der Innenhof füllt sich schnell und ist der einzige hundefreundliche Bereich."
         },
         {
           "name": "Casa Rubio",
@@ -63,7 +67,11 @@
           "descriptionPt": "Uma taberna centenária mesmo ao lado da Puerta de Almodóvar (a porta mourisca da cidade). O enorme terraço ao ar livre sob as muralhas da cidade aceita totalmente cães, com árvores de sombra e um serviço de almoço pausado que deixa o seu cão descansar debaixo da mesa.",
           "petPolicyPt": "Cães bem-vindos no terraço ao ar livre",
           "mustTryPt": "Salmorejo com jamón, berenjenas con miel, pescaíto frito",
-          "tipPt": "O serviço de almoço começa às 13:30 (horário espanhol), chegue às 13:30 em ponto para a primeira escolha das mesas do terraço. Evite o pico das 14:00 às 15:00."
+          "tipPt": "O serviço de almoço começa às 13:30 (horário espanhol), chegue às 13:30 em ponto para a primeira escolha das mesas do terraço. Evite o pico das 14:00 às 15:00.",
+          "descriptionDe": "Eine jahrhundertealte Taberna direkt neben der Puerta de Almodóvar (dem maurischen Stadttor). Die riesige Außenterrasse unter den Stadtmauern ist vollständig hundefreundlich, mit Schattenbäumen und einem gemächlichen Mittagsservice, bei dem sich Ihr Hund unter dem Tisch ausruhen kann.",
+          "petPolicyDe": "Hunde willkommen auf der Außenterrasse",
+          "mustTryDe": "Salmorejo mit Jamón, Berenjenas con Miel, Pescaíto Frito",
+          "tipDe": "Der Mittagsservice beginnt um 13:30 Uhr (spanische Essenszeiten), kommen Sie pünktlich um 13:30 Uhr für die beste Auswahl an Terrassentischen. Meiden Sie die Stoßzeit zwischen 14:00 und 15:00 Uhr."
         },
         {
           "name": "Garum 2.1",
@@ -89,7 +97,11 @@
           "descriptionPt": "Um restaurante andaluz moderno na zona de San Fernando, na moda, com um terraço frondoso à frente e uma forte clientela local. Acolhe cães com trela no terraço durante todo o ano; o pessoal traz rotineiramente água e a ementa apresenta versões contemporâneas mais leves dos clássicos de Córdova.",
           "petPolicyPt": "Cães bem-vindos no terraço durante todo o ano",
           "mustTryPt": "Salmorejo de tomate, brioche de rabo de boi, mazamorra de amêndoa",
-          "tipPt": "O menu de degustação de 8 pratos é a melhor relação qualidade-preço (48 €), peça a mesa de canto sombreada do terraço para um jantar mais tranquilo com o seu cão."
+          "tipPt": "O menu de degustação de 8 pratos é a melhor relação qualidade-preço (48 €), peça a mesa de canto sombreada do terraço para um jantar mais tranquilo com o seu cão.",
+          "descriptionDe": "Ein modernes andalusisches Restaurant im angesagten Viertel San Fernando, mit einer begrünten Vorderterrasse und einer treuen lokalen Stammkundschaft. Heißt Hunde an der Leine das ganze Jahr über auf der Terrasse willkommen; das Personal bringt routinemäßig Wasser, und die Speisekarte bietet leichtere, zeitgemäße Interpretationen von Cordoba-Klassikern.",
+          "petPolicyDe": "Hunde das ganze Jahr über auf der Terrasse willkommen",
+          "mustTryDe": "Tomaten-Salmorejo, Ochsenschwanz-Brioche, Mandel-Mazamorra",
+          "tipDe": "Das 8-Gänge-Degustationsmenü bietet das beste Preis-Leistungs-Verhältnis (48 €), bitten Sie um den schattigen Ecktisch auf der Terrasse für ein ruhigeres Abendessen mit Ihrem Hund."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Quais são as zonas de restaurantes que mais aceitam cães?",
           "a": "A Judería (maior densidade), a Plaza de la Corredera (grande praça aberta com terraços sombreados) e a rua San Fernando (restaurantes modernos e na moda com terraços frondosos)."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Cordoba",
+      "introDe": "Cordobas Tapas-Kultur baut auf Außenterrassen in schattigen Innenhöfen auf, der prägenden Architektur Andalusiens. Die meisten Tabernas und Cafés in der historischen Judería und rund um die Mezquita heißen Hunde an der Leine auf den Terrassen standardmäßig willkommen. Innensitzplätze hängen vom jeweiligen Lokal ab, aber die typische Antwort lautet Ja, wenn der Hund ruhig ist.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Cordoba drinnen erlaubt?",
+          "a": "Das spanische Recht überlässt die Entscheidung jedem einzelnen Lokal. In Cordoba akzeptieren fast alle Außenterrassen Hunde an der Leine; bei Innensitzplätzen kommt es darauf an, aber die meisten Tabernas in der Judería sagen Ja, wenn der Hund ruhig ist. Achten Sie auf den grünen Pfoten-Aufkleber."
+        },
+        {
+          "q": "Bieten Restaurants in Cordoba Wassernäpfe an?",
+          "a": "Die meisten schon, zur andalusischen Terrassenkultur gehört \"agua para el perro\", ohne dass Sie fragen müssen. Falls nicht, bitten Sie um \"un cuenco con agua para el perro\"."
+        },
+        {
+          "q": "Wo liegen die hundefreundlichsten Restaurantviertel?",
+          "a": "Die Judería (höchste Dichte), die Plaza de la Corredera (großer offener Platz mit schattigen Terrassen) und die Calle San Fernando (trendige, moderne Restaurants mit begrünten Terrassen)."
+        }
       ]
     },
     "parks": {
@@ -203,7 +231,11 @@
           "descriptionPt": "O maior parque urbano de Córdova (37 ha), a poucos minutos a pé a sul do centro histórico. Inclui uma Área de Esparcimiento Canino vedada (zona sem trela), largas avenidas arborizadas, fontes e um pequeno lago. Muito apreciado localmente para passeios de cão de manhã cedo antes de o calor de verão apertar.",
           "petPolicyPt": "Zona sem trela; com trela no resto",
           "facilitiesPt": "Zona canina sem trela, bebedouros, café, lago, campos desportivos",
-          "tipPt": "A zona sem trela fica na secção sul perto da C/ Cárcamo, acedida pela entrada sudeste. Os habitantes locais começam a reunir-se às 7:30 no verão."
+          "tipPt": "A zona sem trela fica na secção sul perto da C/ Cárcamo, acedida pela entrada sudeste. Os habitantes locais começam a reunir-se às 7:30 no verão.",
+          "descriptionDe": "Cordobas größter Stadtpark (37 ha), ein kurzer Spaziergang südlich der Altstadt. Verfügt über eine eingezäunte Área de Esparcimiento Canino (Freilaufzone), breite baumgesäumte Alleen, Brunnen und einen kleinen See. Bei Einheimischen für frühmorgendliche Hundespaziergänge beliebt, bevor die Sommerhitze aufkommt.",
+          "petPolicyDe": "Freilaufzone; ansonsten Leinenpflicht",
+          "facilitiesDe": "Hunde-Freilaufbereich, Trinkbrunnen, Café, See, Sportplätze",
+          "tipDe": "Die Freilaufzone liegt im südlichen Bereich nahe der Calle Cárcamo, erreichbar über den südöstlichen Eingang. Einheimische versammeln sich im Sommer bereits ab 7:30 Uhr."
         },
         {
           "name": "Sotos de la Albolafia",
@@ -229,7 +261,11 @@
           "descriptionPt": "Uma zona natural ribeirinha protegida ao longo do rio Guadalquivir mesmo abaixo da Ponte Romana. Monumento Natural designado com um caminho pedestre ribeirinho de 2 km; cães com trela bem-vindos. Vida selvagem (garças, patos-reais), por isso os cães mantêm-se com trela. As vistas do pôr do sol da Mesquita são excecionais.",
           "petPolicyPt": "Trela obrigatória; zona de vida selvagem protegida",
           "facilitiesPt": "Caminho ribeirinho, miradouros, bancos, painéis informativos",
-          "tipPt": "Percorra o caminho à hora dourada (1h antes do pôr do sol) para a vista de postal da Mesquita a partir da margem sul, e a temperatura mais fresca."
+          "tipPt": "Percorra o caminho à hora dourada (1h antes do pôr do sol) para a vista de postal da Mesquita a partir da margem sul, e a temperatura mais fresca.",
+          "descriptionDe": "Ein geschütztes Naturgebiet am Flussufer entlang des Guadalquivir direkt unterhalb der Römerbrücke. Ausgewiesenes Naturdenkmal mit einem 2 km langen Uferweg; Hunde an der Leine willkommen. Wildtiere (Reiher, Stockenten), daher Leinenpflicht für Hunde. Die Sonnenuntergangsblicke auf die Mezquita sind außergewöhnlich.",
+          "petPolicyDe": "Leinenpflicht; geschütztes Naturgebiet",
+          "facilitiesDe": "Uferweg, Aussichtspunkte, Bänke, Infotafeln",
+          "tipDe": "Gehen Sie den Weg zur goldenen Stunde (1 Stunde vor Sonnenuntergang) für den postkartenreifen Blick auf die Mezquita vom Südufer und die kühlere Temperatur."
         },
         {
           "name": "Sierra de Córdoba",
@@ -255,7 +291,11 @@
           "descriptionPt": "O sopé da Sierra Morena 15 min a norte de Córdova, floresta de pinheiros e carvalhos com trilhos marcados, a albufeira de Lagar de la Cruz para a natação dos cães, e temperaturas significativamente mais frescas do que a cidade lá em baixo. Sem trela na maioria dos trilhos marcados (sem gado); fuga de verão essencial.",
           "petPolicyPt": "Sem trela na maioria dos trilhos marcados (sem gado)",
           "facilitiesPt": "Trilhos marcados, albufeira de Lagar de la Cruz, zonas de piquenique",
-          "tipPt": "Conduza até à aldeia de Trassierra (cerca de 20 min do centro) para o acesso mais fácil à floresta. O trilho de Lagar de la Cruz (circuito de 5 km) é o favorito local, os cães nadam livremente na albufeira."
+          "tipPt": "Conduza até à aldeia de Trassierra (cerca de 20 min do centro) para o acesso mais fácil à floresta. O trilho de Lagar de la Cruz (circuito de 5 km) é o favorito local, os cães nadam livremente na albufeira.",
+          "descriptionDe": "Die Ausläufer der Sierra Morena 15 Minuten nördlich von Cordoba, Kiefern- und Eichenwald mit markierten Wanderwegen, dem Stausee Lagar de la Cruz zum Schwimmen für Hunde und deutlich kühleren Temperaturen als in der Stadt darunter. Ohne Leine auf den meisten markierten Wegen (viehfrei); unverzichtbarer Sommerausflug.",
+          "petPolicyDe": "Ohne Leine auf den meisten markierten Wegen (kein Vieh)",
+          "facilitiesDe": "Markierte Wanderwege, Stausee Lagar de la Cruz, Picknickbereiche",
+          "tipDe": "Fahren Sie zum Dorf Trassierra (~20 Minuten vom Zentrum) für den einfachsten Zugang zum Wald. Die Lagar-de-la-Cruz-Route (5 km Rundweg) ist der lokale Favorit, Hunde schwimmen frei im Stausee."
         }
       ],
       "tipsEn": [
@@ -335,6 +375,22 @@
           "q": "Os cães são permitidos nos jardins da Mesquita (Patio de los Naranjos)?",
           "a": "Não. O pátio do Patio de los Naranjos não admite animais, nem mesmo com trela. As ruas exteriores à volta da Mesquita aceitam cães."
         }
+      ],
+      "titleDe": "Hundeparks und Grünflächen in Cordoba",
+      "introDe": "Cordobas Hitze bestimmt die Parknutzung: im Sommer nur bei Sonnenaufgang und -untergang. Die Jardines de la Agricultura, der Parque Cruz Conde und die Uferzone Sotos de la Albolafia heißen alle Hunde an der Leine willkommen, mit zwei städtischen Áreas de Esparcimiento Canino (Freilaufzonen), eine in Cruz Conde und eine in Levante. Die Sierra de Cordoba liegt 15 Minuten mit dem Auto entfernt für richtige Hundewanderungen.",
+      "faqsDe": [
+        {
+          "q": "Wo können Hunde in Cordoba ohne Leine laufen?",
+          "a": "Zwei städtische Áreas de Esparcimiento Canino: Parque Cruz Conde (südlicher Sektor) und Levante. Außerhalb der Stadt sind die markierten Wanderwege der Sierra de Cordoba ohne Leine begehbar, wo kein Vieh weidet."
+        },
+        {
+          "q": "Ist es sicher, im Sommer mit einem Hund in Cordoba spazieren zu gehen?",
+          "a": "Nur bei Sonnenaufgang (vor 8:00 Uhr) und nach Sonnenuntergang (nach 21:00 Uhr). Im Juli und August erreicht der Gehweg 60 °C, Pfotenverbrennungen sind häufig. Selbst kurze Spaziergänge sind mittags gefährlich. Nutzen Sie die Sierra für kühlere Ausflüge."
+        },
+        {
+          "q": "Sind Hunde in den Gärten der Mezquita erlaubt (Patio de los Naranjos)?",
+          "a": "Nein. Der Innenhof Patio de los Naranjos lässt keine Haustiere zu, auch nicht an der Leine. Die Straßen außerhalb rund um die Mezquita sind hundefreundlich."
+        }
       ]
     },
     "transport": {
@@ -359,7 +415,9 @@
           "petPolicyEs": "Perros pequeños gratis; grandes 15 € (piloto Mascotas Grandes)",
           "googleMapsUrl": "https://maps.google.com/?q=Cordoba+Central+Station",
           "descriptionPt": "Córdova Central fica na principal linha AVE Madrid-Sevilha. A Renfe aceita cães com menos de 10 kg em transportadores gratuitamente em qualquer classe. Os cães com mais de 10 kg podem viajar através do piloto Renfe Mascotas Grandes (reserva de 15 €) no AVE, uma oferta única em Espanha. A estação fica a 15 min a pé da Mesquita.",
-          "petPolicyPt": "Cães pequenos grátis; cães grandes 15 € (piloto Mascotas Grandes)"
+          "petPolicyPt": "Cães pequenos grátis; cães grandes 15 € (piloto Mascotas Grandes)",
+          "descriptionDe": "Cordoba Central liegt an der Hauptstrecke der AVE-Linie Madrid–Sevilla. Renfe akzeptiert Hunde unter 10 kg in Transportboxen kostenlos in jeder Klasse. Hunde über 10 kg können über das Pilotprojekt Renfe Mascotas Grandes (15 € Reservierung) im AVE reisen, ein einzigartiges Angebot in Spanien. Der Bahnhof liegt 15 Gehminuten von der Mezquita entfernt.",
+          "petPolicyDe": "Kleine Hunde kostenlos; große Hunde 15 € (Pilotprojekt Mascotas Grandes)"
         }
       ],
       "tipsEn": [
@@ -439,6 +497,22 @@
           "q": "E quanto aos táxis?",
           "a": "Os táxis de Córdova aceitam cães ao critério do motorista (suplemento típico de 3 a 5 €). A Cabify aceita reservas com animais mediante aviso prévio. Para transferes do aeroporto, reserve com antecedência especificando \"con perro\"."
         }
+      ],
+      "titleDe": "Mit Hund unterwegs in Cordoba",
+      "introDe": "Cordoba ist klein genug, um mit Hund zu Fuß zu erkunden (1,5 km breite Altstadt), aber für Ankünfte und Tagesausflüge sind die Stadtbusse von Aucorsa und die Hochgeschwindigkeitszüge Renfe AVE / Avant die Hauptoptionen. AVE Madrid–Cordoba dauert 1:45 Stunden; Cordoba–Sevilla 45 Minuten, beide ideal für eine Spanienreise mit Cordoba als Drehkreuz.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen großen Hund im AVE ab Cordoba mitnehmen?",
+          "a": "Ja, Renfe Mascotas Grandes (15 € Reservierung) akzeptiert Hunde bis 40 kg nur im AVE. Reservieren Sie 30 Tage im Voraus. Der Hund muss im Abteil einen Korbmaulkorb tragen und zu Ihren Füßen bleiben."
+        },
+        {
+          "q": "Darf ich meinen Hund in den Stadtbussen von Cordoba mitnehmen?",
+          "a": "Aucorsa akzeptiert kleine Hunde in Transportboxen kostenlos; bei großen Hunden liegt es im Ermessen des Fahrers. Die meisten Fahrer akzeptieren ruhige Hunde an der Leine außerhalb der Stoßzeiten. Nehmen Sie zur Sicherheit einen weichen Maulkorb mit."
+        },
+        {
+          "q": "Und Taxis?",
+          "a": "Taxis in Cordoba nehmen Hunde nach Ermessen des Fahrers mit (üblicher Aufpreis 3–5 €). Cabify akzeptiert Buchungen mit Haustier bei vorheriger Ankündigung. Für Flughafentransfers buchen Sie im Voraus mit dem Hinweis \"con perro\"."
+        }
       ]
     },
     "beaches": {
@@ -458,7 +532,10 @@
       "titlePt": "Praias que aceitam cães perto de Córdova",
       "introPt": "Conteúdo em breve. Córdova fica 200 km para o interior a partir do Mediterrâneo. As praias que aceitam cães mais próximas ficam ao longo da Costa del Sol (Málaga, 2h de carro) e da Costa de la Luz (Cádis, 2h30). Para natação canina mais próxima, as albufeiras da Sierra de Córdova (Lagar de la Cruz, 25 min) são a solução local.",
       "tipsPt": [],
-      "faqsPt": []
+      "faqsPt": [],
+      "titleDe": "Hundefreundliche Strände in der Nähe von Cordoba",
+      "introDe": "Inhalt folgt in Kürze. Cordoba liegt 200 km im Landesinneren, vom Mittelmeer entfernt. Die nächstgelegenen hundefreundlichen Strände liegen an der Costa del Sol (Málaga, 2 Stunden Fahrt) und der Costa de la Luz (Cádiz, 2:30 Stunden). Für Schwimmen mit Hund in der Nähe sind die Stauseen der Sierra de Cordoba (Lagar de la Cruz, 25 Minuten) die lokale Lösung.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Cordoba, Veterinary Clinics & Pet Care",
@@ -492,7 +569,11 @@
           "descriptionPt": "O principal hospital veterinário de urgência 24/7 de Córdova, com instalações completas de cirurgia, imagiologia (raios-X, ecografia, TAC) e cuidados intensivos. Localizado a 5 min do Parque Cruz Conde, a opção mais central. Emergências sem marcação aceites; telefone com antecedência para triagem se possível.",
           "petPolicyPt": "Atendimentos sem marcação de urgência 24/7 aceites",
           "servicesPt": "Urgências, cirurgia, imagiologia, UCI, internamento",
-          "tipPt": "Estacionamento gratuito em frente ao hospital, invulgar no centro de Córdova. Use a entrada lateral para emergências fora de horas (claramente sinalizada)."
+          "tipPt": "Estacionamento gratuito em frente ao hospital, invulgar no centro de Córdova. Use a entrada lateral para emergências fora de horas (claramente sinalizada).",
+          "descriptionDe": "Cordobas wichtigste 24/7-Notfalltierklinik, mit vollständiger chirurgischer Ausstattung, Bildgebung (Röntgen, Ultraschall, CT) und Intensivstation. Liegt 5 Minuten vom Parque Cruz Conde entfernt, die zentralste Option. Notfälle ohne Termin werden angenommen; rufen Sie wenn möglich vorher für die Triage an.",
+          "petPolicyDe": "24/7 Notfälle ohne Termin werden angenommen",
+          "servicesDe": "Notfallversorgung, Chirurgie, Bildgebung, Intensivstation, stationäre Behandlung",
+          "tipDe": "Kostenlose Parkplätze vor der Klinik, ungewöhnlich in der Innenstadt von Cordoba. Nutzen Sie für Notfälle außerhalb der Öffnungszeiten den (deutlich ausgeschilderten) Seiteneingang."
         },
         {
           "name": "Clínica Veterinaria Centro Cordoba",
@@ -518,7 +599,11 @@
           "descriptionPt": "Uma clínica moderna de pequenos animais no centro histórico, a poucos minutos a pé da Mesquita. Consultas diurnas e serviço de plantão para emergências. Encaminha os casos noturnos graves para o Hospital Veterinario Córdoba.",
           "petPolicyPt": "Consultas diurnas mais emergências de plantão",
           "servicesPt": "Clínica geral, cirurgia, dentária, dermatologia",
-          "tipPt": "A melhor opção se estiver alojado perto da Mesquita e precisar de uma consulta não urgente no próprio dia. Reserve online através do site."
+          "tipPt": "A melhor opção se estiver alojado perto da Mesquita e precisar de uma consulta não urgente no próprio dia. Reserve online através do site.",
+          "descriptionDe": "Eine moderne Kleintierklinik in der Altstadt, fußläufig von der Mezquita entfernt. Termine tagsüber und Bereitschaftsdienst für Notfälle. Leitet schwere Fälle über Nacht an das Hospital Veterinario Córdoba weiter.",
+          "petPolicyDe": "Termine tagsüber + Notfälle im Bereitschaftsdienst",
+          "servicesDe": "Allgemeinmedizin, Chirurgie, Zahnheilkunde, Dermatologie",
+          "tipDe": "Die beste Option, wenn Sie in der Nähe der Mezquita übernachten und noch am selben Tag einen nicht dringenden Termin benötigen. Buchen Sie online über die Website."
         }
       ],
       "tipsEn": [
@@ -597,6 +682,22 @@
         {
           "q": "Um veterinário de Córdova aceita atendimentos sem marcação?",
           "a": "Sim, ambas as clínicas aceitam emergências sem marcação. O Hospital Veterinario é a opção por defeito para noites e fins de semana. Leve o passaporte de animal da UE."
+        }
+      ],
+      "titleDe": "Notfalltierärzte in Cordoba, Tierkliniken und Haustierbetreuung",
+      "introDe": "Cordoba verfügt über eine durchgehend geöffnete 24/7-Tierklinik für Notfälle sowie mehrere tagsüber geöffnete Kliniken mit Bereitschaftsdienst. Das Hospital Veterinario Córdoba an der Avenida Conde de Vallellano ist die Standardanlaufstelle für schwere Fälle; die Clínica Veterinaria Centro Cordoba deckt die Altstadt mit verlängerten Öffnungszeiten ab.",
+      "faqsDe": [
+        {
+          "q": "Welche Tierarztklinik in Cordoba hat rund um die Uhr geöffnet?",
+          "a": "Das Hospital Veterinario Córdoba (Avenida Conde de Vallellano 7, +34 957 281 940). Die Clínica Veterinaria Centro Cordoba deckt Tagesbetrieb und Bereitschaftsdienst ab, leitet Notfälle über Nacht aber an das Hospital Veterinario weiter."
+        },
+        {
+          "q": "Wie viel kostet ein Notfalltierarztbesuch in Cordoba?",
+          "a": "Eine Konsultation außerhalb der Öffnungszeiten kostet typischerweise 60–110 €, zuzüglich Diagnostik. Spanische Tierarztgebühren liegen unter dem EU-Durchschnitt; CT-Untersuchungen kosten 250–400 €."
+        },
+        {
+          "q": "Nimmt ein Tierarzt in Cordoba auch ohne Termin an?",
+          "a": "Ja, beide Kliniken nehmen Notfälle ohne Termin an. Das Hospital Veterinario ist die Standardanlaufstelle für Nächte und Wochenenden. Bringen Sie den EU-Heimtierausweis mit."
         }
       ]
     },
@@ -693,6 +794,22 @@
           "q": "Existem restrições por raça em Córdova?",
           "a": "Sim, a Ley 50/1999 de Espanha classifica 8 raças como PPP (Potencialmente Peligrosos): Pit Bull, Rottweiler, Am. Staff, Bullterrier, Tosa, Dogo Argentino, Fila Brasileiro, Akita Inu, Doberman. Os donos precisam de uma autorização especial, trela mais açaime em público, e seguro civil."
         }
+      ],
+      "titleDe": "Wichtige Tipps für Haustierreisen nach Cordoba",
+      "introDe": "Cordoba ist eine der heißesten Sommerstädte Europas, allein diese Tatsache bestimmt hier alles rund um Reisen mit Hund. Abgesehen von der Hitze ist die Stadt kompakt, zu Fuß erkundbar, in der Altstadt hundetolerant und gut mit dem Rest Andalusiens verbunden. Frühling (April–Mai) und Herbst (Oktober–November) sind die optimalen Jahreszeiten. Die Regeln zum Heimtierausweis entsprechen dem EU-Standard.",
+      "faqsDe": [
+        {
+          "q": "Ist Cordoba eine gute Stadt für einen Besuch mit Hund?",
+          "a": "Ja, außerhalb von Juli und August. Die Altstadt ist kompakt, zu Fuß erkundbar und hundetolerant. Die Sommerhitze ist das einzige wirkliche Hindernis, besuchen Sie die Stadt im April/Mai oder Oktober/November für eine angenehme Reise."
+        },
+        {
+          "q": "Benötige ich Unterlagen, um meinen Hund nach Cordoba mitzubringen?",
+          "a": "EU-Bürger benötigen den EU-Heimtierausweis mit gültiger Tollwutimpfung. Nicht-EU-Bürger benötigen ein EU Animal Health Certificate innerhalb von 10 Tagen sowie für manche Länder einen Tollwut-Titertest. Spanien verhängt keine zusätzlichen Einschränkungen."
+        },
+        {
+          "q": "Gibt es Rasseeinschränkungen in Cordoba?",
+          "a": "Ja, das spanische Gesetz Ley 50/1999 stuft 8 Rassen als PPP (Potencialmente Peligrosos) ein: Pit Bull, Rottweiler, Am. Staff, Bullterrier, Tosa, Dogo Argentino, Fila Brasileiro, Akita Inu, Dobermann. Halter benötigen eine Sondergenehmigung, Leine und Maulkorb in der Öffentlichkeit sowie eine Haftpflichtversicherung."
+        }
       ]
     },
     "attractions": {
@@ -722,7 +839,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Roman+Bridge+Cordoba",
           "descriptionPt": "A Ponte Romana de 16 arcos (século I a.C., restaurada na era mourisca) atravessa o Guadalquivir abaixo da Mesquita. A ponte é totalmente pedonal desde 2008 e os cães são bem-vindos com trela. As vistas do pôr do sol da torre da Mesquita a partir do extremo sul são as mais fotografadas de Córdova.",
           "petPolicyPt": "Cães com trela bem-vindos na ponte",
-          "tipPt": "Melhor foto: atravesse a ponte ao anoitecer e olhe para trás a partir do lado da Torre de la Calahorra. A Mesquita iluminada reflete-se no rio, a fotografia icónica de Córdova."
+          "tipPt": "Melhor foto: atravesse a ponte ao anoitecer e olhe para trás a partir do lado da Torre de la Calahorra. A Mesquita iluminada reflete-se no rio, a fotografia icónica de Córdova.",
+          "descriptionDe": "Die Römerbrücke mit 16 Bögen (1. Jahrhundert v. Chr., in maurischer Zeit restauriert) überquert den Guadalquivir unterhalb der Mezquita. Die Brücke ist seit 2008 vollständig für Fußgänger reserviert, und Hunde sind an der Leine willkommen. Die Sonnenuntergangsblicke auf den Turm der Mezquita vom südlichen Ende aus sind die meistfotografierten in Cordoba.",
+          "petPolicyDe": "Hunde an der Leine auf der Brücke willkommen",
+          "tipDe": "Bestes Foto: Überqueren Sie die Brücke in der Abenddämmerung und blicken Sie von der Seite des Torre de la Calahorra zurück. Die beleuchtete Mezquita spiegelt sich im Fluss, die ikonische Cordoba-Aufnahme."
         },
         {
           "name": "Judería (Jewish Quarter)",
@@ -743,7 +863,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Juderia+Cordoba",
           "descriptionPt": "O bairro judeu medieval de Córdova, ruelas estreitas caiadas de branco, a famosa Calleja de las Flores (com a torre da Mesquita emoldurada ao fundo), a Sinagoga (sem animais), e dezenas de pátios abertos durante o festival de maio. Na maioria pedonal, totalmente acessível a cães com trela.",
           "petPolicyPt": "Cães com trela bem-vindos nas ruas; não nos monumentos",
-          "tipPt": "Percorra a Judería entre as 8:00 e as 10:00 para evitar as multidões turísticas e o calor. A Calleja de las Flores fica deserta antes das 9:30."
+          "tipPt": "Percorra a Judería entre as 8:00 e as 10:00 para evitar as multidões turísticas e o calor. A Calleja de las Flores fica deserta antes das 9:30.",
+          "descriptionDe": "Cordobas mittelalterliches jüdisches Viertel, enge weiß getünchte Gassen, die berühmte Calleja de las Flores (mit dem Turm der Mezquita am Ende im Blickrahmen), die Synagoge (keine Haustiere) und Dutzende Innenhöfe, die während des Mai-Festivals geöffnet sind. Größtenteils Fußgängerzone, an der Leine vollständig hundefreundlich zugänglich.",
+          "petPolicyDe": "Hunde an der Leine auf den Straßen willkommen; nicht in den Denkmälern",
+          "tipDe": "Erkunden Sie die Judería zwischen 8:00 und 10:00 Uhr, um Touristenmassen und die Hitze zu vermeiden. Die Calleja de las Flores ist vor 9:30 Uhr menschenleer."
         },
         {
           "name": "Plaza de la Corredera",
@@ -764,7 +887,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Plaza+de+la+Corredera+Cordoba",
           "descriptionPt": "A única grande praça retangular de Córdova (1683), ladeada por edifícios barrocos castelhanos vermelhos uniformes. Acolhe um mercado de produtos alimentares ao sábado, dezenas de terraços de café que aceitam cães, e o mercado coberto Mercado Sánchez Peña (sem animais, mas os terraços circundantes aceitam cães).",
           "petPolicyPt": "Cães com trela bem-vindos na praça e nos terraços ao ar livre",
-          "tipPt": "Coma nas bancas do Mercado Sánchez Peña (praça de alimentação), leve tapas e traga-as para as mesas dos terraços que aceitam cães na praça."
+          "tipPt": "Coma nas bancas do Mercado Sánchez Peña (praça de alimentação), leve tapas e traga-as para as mesas dos terraços que aceitam cães na praça.",
+          "descriptionDe": "Cordobas einziger großer rechteckiger Platz (1683), gesäumt von einheitlichen roten kastilisch-barocken Gebäuden. Beherbergt einen Samstags-Lebensmittelmarkt, Dutzende hundefreundliche Café-Terrassen und die Markthalle Mercado Sánchez Peña (keine Haustiere, aber die umliegenden Terrassen akzeptieren Hunde).",
+          "petPolicyDe": "Hunde an der Leine auf dem Platz und den Außenterrassen willkommen",
+          "tipDe": "Essen Sie an den Ständen des Mercado Sánchez Peña (Food Court), holen Sie sich Tapas und bringen Sie diese zu den hundefreundlichen Terrassentischen auf dem Platz."
         }
       ],
       "tipsEn": [
@@ -844,6 +970,22 @@
           "q": "Posso levar o meu cão ao Alcázar?",
           "a": "Não, o Alcázar de los Reyes Cristianos e os seus jardins proíbem animais. As vistas da Ponte Romana e o exterior da Mesquita são os locais fotográficos equivalentes que aceitam cães."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Cordoba",
+      "introDe": "Cordobas ikonische Mezquita-Catedral liegt im Herzen einer UNESCO-Altstadt, die fast vollständig mit einem Hund an der Leine erkundbar ist: die Römerbrücke, die Calleja de las Flores, die Puerta de Almodóvar, die Innenhöfe des Patio-Festivals (Mai). Hunde sind im Inneren der Mezquita, in den Gärten des Alcázar und in der Synagoge nicht zugelassen, aber die umliegenden Straßen und mehrere Stadtmauern bieten reichlich Sehenswertes.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund mit in die Mezquita nehmen?",
+          "a": "Nein, die Mezquita-Catedral lässt keine Haustiere zu, nur registrierte Assistenzhunde. Auch der äußere Innenhof Patio de los Naranjos ist haustierfrei. Die Brücke und die umliegenden Straßen sind vollständig zugänglich."
+        },
+        {
+          "q": "Sind Hunde beim Patio-Festival erlaubt?",
+          "a": "Die meisten teilnehmenden Innenhöfe lassen Hunde an der Leine zu. Manche größeren oder empfindlicheren Gärten bitten Sie eventuell, draußen zu warten. Besuchen Sie sie am frühen Morgen, um Menschenmengen zu vermeiden."
+        },
+        {
+          "q": "Darf ich meinen Hund mit zum Alcázar nehmen?",
+          "a": "Nein, der Alcázar de los Reyes Cristianos und seine Gärten verbieten Haustiere. Die Ausblicke von der Römerbrücke und das Äußere der Mezquita sind die entsprechenden hundefreundlichen Fotospots."
+        }
       ]
     },
     "petsitting": {
@@ -872,7 +1014,10 @@
           "tip": "Filter for sitters who walk in the cooler Sierra hours (early morning) in summer, they will usually drive up if your dog needs proper exercise on a 40 °C day.",
           "descriptionPt": "A Pawshake (plataforma europeia) e a Gudog (específica de Espanha) listam ambas cuidadores verificados de Córdova para passeios diários, creche e hospedagem domiciliária. Seguro incluído; atualizações fotográficas diárias por norma. Tarifas médias: 15-25 €/dia de hospedagem domiciliária, 8-12 € por um passeio de uma hora, entre as mais baratas de Espanha.",
           "petPolicyPt": "Cuidadores verificados, seguro incluído",
-          "servicesPt": "Passeio de cães, creche, hospedagem domiciliária"
+          "servicesPt": "Passeio de cães, creche, hospedagem domiciliária",
+          "descriptionDe": "Sowohl Pawshake (europäische Plattform) als auch Gudog (spanienspezifisch) listen verifizierte Sitter in Cordoba für tägliche Spaziergänge, Tagesbetreuung und Hundepension zu Hause. Versicherung inbegriffen; tägliche Foto-Updates sind Standard. Durchschnittspreise: 15–25 €/Tag Hundepension zu Hause, 8–12 € für einen einstündigen Spaziergang, zu den günstigsten in Spanien.",
+          "petPolicyDe": "Verifizierte Sitter, Versicherung inbegriffen",
+          "servicesDe": "Gassigehen, Tagesbetreuung, Hundepension zu Hause"
         }
       ],
       "tipsEn": [
@@ -951,6 +1096,22 @@
         {
           "q": "Posso encontrar um cuidador para a visita ao Festival dos Pátios?",
           "a": "Sim, mas reserve cedo (3 ou mais semanas de antecedência). O Festival dos Pátios decorre no início de maio e a procura dispara. Filtre por cuidadores na Pawshake ou na Gudog com disponibilidade para as datas específicas."
+        }
+      ],
+      "titleDe": "Haustierbetreuung und Gassigehen in Cordoba",
+      "introDe": "Cordoba hat einen kleineren Haustierbetreuungsmarkt als Madrid oder Sevilla, aber Pawshake und Gudog (spanienspezifisch) decken die Stadt ab, mit der höchsten Sitterdichte im Centro und im Sector Sur. Die Preise liegen unter dem spanischen Durchschnitt (Cordoba gehört zu den erschwinglicheren Provinzhauptstädten).",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Haustierbetreuung in Cordoba?",
+          "a": "Typische Pawshake/Gudog-Preise: 15–25 €/Nacht Hundepension zu Hause, 18–30 €/Tag Tagesbetreuung, 8–12 € für einen einstündigen Spaziergang. Cordoba gehört zu den günstigsten Städten Spaniens und ist erschwinglicher als Madrid oder Sevilla."
+        },
+        {
+          "q": "Sind Haustiersitter in Cordoba versichert?",
+          "a": "Pawshake und Gudog schließen bei jeder Buchung eine Haftpflichtversicherung und eine Notfall-Tierarztabsicherung ein. Bestätigen Sie dies bei unabhängigen Sittern immer vor der Buchung."
+        },
+        {
+          "q": "Finde ich einen Sitter für den Besuch des Patio-Festivals?",
+          "a": "Ja, aber buchen Sie früh (mindestens 3 Wochen im Voraus). Das Patio-Festival findet Anfang Mai statt, und die Nachfrage steigt stark an. Filtern Sie bei Pawshake oder Gudog nach Sittern mit Verfügbarkeit für die konkreten Termine."
         }
       ]
     }

@@ -39,7 +39,11 @@
           "tipFr": "Le biergarten en face se remplit en premier les soirs chauds, réservez de mai à septembre.",
           "tipEs": "El biergarten de enfrente se llena primero en noches cálidas, reserva de mayo a septiembre.",
           "tipPt": "O biergarten em frente enche-se primeiro nas noites quentes, reserve de maio a setembro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Feierling+Freiburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Feierling+Freiburg",
+          "descriptionDe": "Unabhängige Hausbrauerei in einem Gebäude aus dem 19. Jahrhundert am historischen Gerberau-Kanal. Gewölbte Stube drinnen, großer schattiger Biergarten gegenüber unter Kastanienbäumen, beide hundefreundlich. Braut vor Ort das ungefilterte Inselhopf Pils.",
+          "petPolicyDe": "Ruhige angeleinte Hunde in Stube und Biergarten willkommen, Wassernäpfe an der Theke",
+          "mustTryDe": "Inselhopf Pils, Schäufele, Käsespätzle",
+          "tipDe": "Der Biergarten gegenüber füllt sich an warmen Abenden zuerst, von Mai bis September im Voraus buchen."
         },
         {
           "name": "Großer Meyerhof",
@@ -65,7 +69,11 @@
           "tipFr": "Fermé le lundi. Réservez la petite cour pour un dîner plus calme, la stube voûtée peut être bruyante après 20h.",
           "tipEs": "Cerrado lunes. Reserva el pequeño patio para una cena más tranquila, la stube abovedada puede ser ruidosa tras las 20:00.",
           "tipPt": "Fechado à segunda. Reserve o pequeno pátio para um jantar mais calmo, a stube abobadada pode ser ruidosa depois das 20:00.",
-          "googleMapsUrl": "https://maps.google.com/?q=Grosser+Meyerhof+Freiburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Grosser+Meyerhof+Freiburg",
+          "descriptionDe": "Klassische badische Gaststätte zwei Minuten vom Münster, in einem Gebäude, das auf das Jahr 1276 zurückgeht. Gewölbte Erdgeschossstube und ein Kopfsteinpflasterhof, beide bei Einheimischen mit Hunden beliebt. Regionale badische Küche.",
+          "petPolicyDe": "Hunde in der gewölbten Stube und im Innenhof willkommen",
+          "mustTryDe": "Maultaschen, Zwiebelrostbraten, badischer Weißburgunder",
+          "tipDe": "Montags geschlossen. Für ein ruhigeres Abendessen den kleinen Innenhof buchen, die gewölbte Stube kann nach 20 Uhr laut werden."
         },
         {
           "name": "Schlappen",
@@ -91,7 +99,11 @@
           "tipFr": "Calme pour le déjeuner et le café de l'après-midi avec un chien ; la foule étudiante du soir après 21h gêne les chiens nerveux.",
           "tipEs": "Tranquilo para almuerzo y café de tarde con perro; el público estudiantil de noche tras las 21:00 incomoda a perros nerviosos.",
           "tipPt": "Calmo para almoço e café da tarde com cão; o público estudantil da noite depois das 21:00 incomoda cães nervosos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Schlappen+Freiburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Schlappen+Freiburg",
+          "descriptionDe": "Legendäre Studenten- und Stammkneipe seit 1772, im Herzen der Altstadt neben der Universität. Herzhafte deutsche Wirtshausküche, mehr als 100 Biersorten, angeleinte Hunde gehören zum Inventar. Bis spät geöffnet.",
+          "petPolicyDe": "Ruhige angeleinte Hunde drinnen und auf der kleinen Terrasse willkommen",
+          "mustTryDe": "Käseplatte, Flammkuchen, örtliches Hefeweizen",
+          "tipDe": "Mittags und zum Nachmittagskaffee mit Hund ruhig; das abendliche Studentenpublikum nach 21 Uhr macht nervösen Hunden zu schaffen."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Os restaurantes de Friburgo cobram extra por levar cão?",
           "a": "Não. Não há suplemento por levar um cão. As taças de água oferecem-se quase sempre a pedido, sem custo."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Freiburg, Badische Stuben & Biergärten",
+      "introDe": "Freiburgs Ökostadt-Kultur zählt zu den hundefreundlichsten in Deutschland. Einheimische bringen Hunde in Badische Stuben, die berühmten Weinstuben der Stadt, und die Terrassen am Augustinerplatz, die von Mai bis September gefüllt sind, sind weitgehend hundefreundlich. Auf dem Kopfsteinpflaster des Münsterplatzes findet der tägliche Bauernmarkt statt, angeleinte Hunde sind willkommen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Freiburger Restaurants drinnen erlaubt?",
+          "a": "Ja, im Allgemeinen. Badische Stuben und Gasthäuser heißen ruhige, angeleinte Hunde drinnen willkommen. Die Ökostadt-Kultur zählt zu den hundefreundlichsten in Deutschland; etwa 85 bis 90 Prozent der Freiburger Lokale akzeptieren Hunde sowohl drinnen als auch auf der Terrasse."
+        },
+        {
+          "q": "Berechnen Freiburger Restaurants Aufpreise für Hunde?",
+          "a": "Nein. Es gibt keinen Aufpreis fürs Mitbringen eines Hundes. Wassernäpfe werden fast immer auf Nachfrage kostenlos angeboten."
+        }
       ]
     },
     "parks": {
@@ -207,7 +231,10 @@
           "tipFr": "Montez par le funiculaire historique du Schlossberg (chiens admis, environ 3 €) ou par le sentier raide Schlossbergsteig en 25 minutes. Le coucher du soleil sur le Münster est le meilleur de la ville.",
           "tipEs": "Sube en el funicular histórico del Schlossberg (perros admitidos, unos 3 €) o por el empinado sendero Schlossbergsteig en 25 minutos. La puesta de sol sobre el Münster es la mejor de la ciudad.",
           "tipPt": "Suba no funicular histórico do Schlossberg (cães admitidos, cerca de 3 €) ou pelo íngreme trilho Schlossbergsteig em 25 minutos. O pôr do sol sobre o Münster é o melhor da cidade.",
-          "googleMapsUrl": "https://maps.google.com/?q=Schlossberg+Freiburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Schlossberg+Freiburg",
+          "leashRuleDe": "Leinenpflicht auf den Hauptwegen; auf den oberen Waldwegen außerhalb der Brutzeit wird Freilauf geduldet",
+          "descriptionDe": "Der 456 m hohe bewaldete Hügel, der sich direkt aus der Altstadt erhebt. Buchen- und Tannenwege, ein Panoramaturm auf dem Gipfel und ein Weinberg an den Südhängen. Der Standard-Feierabendspaziergang der Einheimischen mit Hund.",
+          "tipDe": "Den Gipfel über die historische Schlossbergbahn (Hunde erlaubt, etwa 3 EUR) oder über den steilen Schlossbergsteig in 25 Minuten erreichen. Sonnenuntergangsblicke über das Münster sind die besten der Stadt."
         },
         {
           "name": "Stadtgarten & Colombipark",
@@ -251,7 +278,10 @@
           "tipFr": "Concerts gratuits du dimanche de juin à août au kiosque, les chiens s'installent volontiers sur l'herbe à l'arrière.",
           "tipEs": "Conciertos gratis los domingos de junio a agosto en el quiosco, los perros se sientan tranquilamente en la hierba al fondo.",
           "tipPt": "Concertos grátis aos domingos de junho a agosto no coreto, os cães instalam-se à vontade na relva atrás.",
-          "googleMapsUrl": "https://maps.google.com/?q=Stadtgarten+Freiburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Stadtgarten+Freiburg",
+          "leashRuleDe": "Durchgehende Leinenpflicht",
+          "descriptionDe": "Zwei zusammenhängende zentrale Parks zwischen Hauptbahnhof und Altstadt. Platanen, ein Musikpavillon, ein kleiner Tierpark mit Rehen und die Bergstation der Schlossbergbahn. Die zugänglichste Grünfläche von jedem zentralen Hotel aus.",
+          "tipDe": "Kostenlose Sonntagskonzerte von Juni bis August am Musikpavillon, Hunde sitzen im hinteren Bereich zufrieden auf dem Rasen."
         },
         {
           "name": "Mooswald",
@@ -295,7 +325,10 @@
           "tipFr": "Tram 3 jusqu'à Munzinger Straße puis 10 minutes à pied à l'ouest. Chaussures imperméables, les sentiers de la zone basse peuvent être humides en dehors de juillet et août.",
           "tipEs": "Tranvía 3 hasta Munzinger Straße y 10 minutos a pie al oeste. Zapatos impermeables, los senderos de la zona baja pueden estar húmedos fuera de julio y agosto.",
           "tipPt": "Elétrico 3 até Munzinger Straße e 10 minutos a pé a oeste. Calçado impermeável, os trilhos da zona baixa podem estar húmidos fora de julho e agosto.",
-          "googleMapsUrl": "https://maps.google.com/?q=Mooswald+Freiburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Mooswald+Freiburg",
+          "leashRuleDe": "Freilauf auf markierten Waldwegen ganzjährig nach baden-württembergischem Forstrecht erlaubt",
+          "descriptionDe": "Der weitläufige Eichen- und Buchen-Auwald westlich der Stadt, gespeist von der Dreisam. Flache Kieswege, Teiche und Wiesen, der größte Freilaufbereich Freiburgs für Hunde. Mit der Straßenbahn 3 in 15 Minuten erreichbar.",
+          "tipDe": "Straßenbahn 3 bis Munzinger Straße nehmen, dann 10 Minuten nach Westen laufen. Wasserdichte Schuhe tragen, die tiefliegenden Wege können außerhalb von Juli und August nass sein."
         }
       ],
       "tipsEn": [
@@ -357,6 +390,18 @@
           "q": "O meu cão pode nadar em Friburgo?",
           "a": "Sim. O Dreisam atravessa o sul do Altstadt e os cães são tolerados nas secções pouco profundas fora da zona pedonal central. O lago Opfinger See, a 8 km a oeste, dispõe de uma praia canina (Hundebadeplatz) na sua margem norte."
         }
+      ],
+      "titleDe": "Die besten Hundeparks & Spaziergänge in Freiburg, Schlossberg & Mooswald",
+      "introDe": "Freiburg liegt am bewaldeten Schlossberg und den Ausläufern des Schwarzwalds, daher gibt es überall Grünflächen. Stadtgarten und Colombipark liegen fünf Minuten vom Zentrum entfernt, der Schlossberg bietet schattige Bergspaziergänge direkt von der Altstadt aus, und der weitläufige Mooswald im Westen der Stadt erlaubt Freilauf nach dem baden-württembergischen Forstrecht.",
+      "faqsDe": [
+        {
+          "q": "Wo kann mein Hund in Freiburg ohne Leine laufen?",
+          "a": "Drei Hauptoptionen: die oberen Waldwege des Schlossbergs direkt über der Altstadt, der weitläufige Mooswald westlich der Stadt (Straßenbahn 3) und die markierten Waldwege der Schauinsland-Ausläufer. Das baden-württembergische Forstrecht macht Freiburg zu einer der einfachsten deutschen Städte für Freilauf."
+        },
+        {
+          "q": "Kann mein Hund in Freiburg schwimmen?",
+          "a": "Ja. Die Dreisam fließt durch den Süden der Altstadt, und Hunde werden in den flachen Abschnitten außerhalb der zentralen Fußgängerzone geduldet. Der Opfinger See, 8 km westlich, hat einen ausgewiesenen Hundebadeplatz am Nordufer."
+        }
       ]
     },
     "transport": {
@@ -386,7 +431,10 @@
           "tipFr": "Réservez via l'app DB Navigator, ajoutez le chien comme Reisende (voyageur) pour avoir le billet animal à 50 %.",
           "tipEs": "Reserva en la app DB Navigator, añade el perro como Reisende (viajero) para el billete mascota al 50 %.",
           "tipPt": "Reserve na app DB Navigator, adicione o cão como Reisende (viajante) para o bilhete animal a 50 %.",
-          "googleMapsUrl": "https://maps.google.com/?q=Freiburg+Hauptbahnhof"
+          "googleMapsUrl": "https://maps.google.com/?q=Freiburg+Hauptbahnhof",
+          "descriptionDe": "Der Freiburger Hauptbahnhof liegt an der ICE-Rheinlandstrecke. Direkter ICE nach Basel SBB (45 Min.), Frankfurt (2 Std.), Berlin (5 Std. 45 Min.). TGV-Anschluss in Karlsruhe bringt Sie in 3 Std. 15 Min. nach Paris.",
+          "petPolicyDe": "Kleine Hunde (bis ca. 25 cm Schulterhöhe) in einer Transportbox reisen kostenlos. Größere Hunde benötigen ein Kinderticket (50 Prozent); Maulkorb im DB-Fernverkehr nicht vorgeschrieben, aber für sehr große Hunde empfohlen.",
+          "tipDe": "ICE-Tickets über die DB-Navigator-App buchen, den Hund beim Buchen als Reisenden hinzufügen, um das 50-Prozent-Haustierticket zu erhalten."
         },
         {
           "name": "VAG Freiburg Tram & Bus",
@@ -405,7 +453,10 @@
           "tipFr": "Billet journalier RegioKarte (environ 6,40 € pour 1 adulte + 1 chien) couvre tram et bus VAG sur la journée.",
           "tipEs": "Billete diario RegioKarte (unos 6,40 € para 1 adulto + 1 perro) cubre tranvía y bus VAG todo el día.",
           "tipPt": "Bilhete diário RegioKarte (cerca de 6,40 € para 1 adulto + 1 cão) cobre elétrico e autocarro VAG todo o dia.",
-          "googleMapsUrl": "https://maps.google.com/?q=VAG+Freiburg"
+          "googleMapsUrl": "https://maps.google.com/?q=VAG+Freiburg",
+          "descriptionDe": "Fünf Straßenbahnlinien und über 30 Buslinien decken die Stadt und die inneren Vororte ab. Linie 1 fährt durch die Altstadt, Linie 2 steigt bis Günterstal an der Schauinsland-Talstation an. Hundefreundlich mit einfacher Tarifregel.",
+          "petPolicyDe": "Kleine Hunde in Transportboxen und Assistenzhunde kostenlos. Größere Hunde benötigen eine Kinderfahrkarte (etwa 1,50 EUR) und eine Leine; kein Maulkorb erforderlich.",
+          "tipDe": "Die Tageskarte RegioKarte (etwa 6,40 EUR für 1 Erwachsenen plus 1 Hund) gilt den ganzen Tag für alle VAG-Straßenbahnen und -Busse."
         },
         {
           "name": "Schauinslandbahn cable car",
@@ -424,7 +475,10 @@
           "tipFr": "Tram 2 jusqu'à Günterstal puis bus 21 jusqu'à Horben. Le sommet à 1 284 m est 8 à 10 degrés plus frais que la ville en été, indispensable pour les chiens à poil épais en canicule.",
           "tipEs": "Tranvía 2 hasta Günterstal y bus 21 hasta Horben. La cumbre a 1.284 m está 8 a 10 grados más fría que la ciudad en verano, refugio indispensable para perros de pelo grueso en olas de calor.",
           "tipPt": "Elétrico 2 até Günterstal e autocarro 21 até Horben. O cume a 1.284 m fica 8 a 10 graus mais fresco do que a cidade no verão, refúgio indispensável para cães de pêlo grosso em ondas de calor.",
-          "googleMapsUrl": "https://maps.google.com/?q=Schauinslandbahn+Freiburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Schauinslandbahn+Freiburg",
+          "descriptionDe": "Deutschlands längste durchgehende Seilbahn, 3,6 km von Horben (Endstation Straßenbahn 2) bis zum 1.284 m hohen Schauinsland-Gipfel. Erbaut 1930, hundefreundlich gegen kleinen Aufpreis.",
+          "petPolicyDe": "Hunde in der Kabine beim Besitzer erlaubt, etwa 3 EUR Aufpreis; Maulkorb nicht erforderlich, wenn der Hund ruhig und angeleint ist",
+          "tipDe": "Straßenbahn 2 bis Günterstal nehmen, dann Bus 21 bis Horben. Der 1.284 m hohe Gipfel ist im Sommer 8 bis 10 Grad kühler als die Stadt, ein wichtiger Zufluchtsort für dickfellige Hunde bei Hitzewellen."
         }
       ],
       "tipsEn": [
@@ -486,6 +540,18 @@
           "q": "Como vou de Basileia a Friburgo com cão?",
           "a": "ICE ou IC directo em 45 minutos de Basileia SBB a Friburgo Hbf. Cães pequenos em transportadora grátis; cães maiores precisam de bilhete animal infantil. Reserve no DB Navigator."
         }
+      ],
+      "titleDe": "Hundefreundlicher Transport in Freiburg, VAG-Straßenbahn, ICE & Schauinslandbahn",
+      "introDe": "Freiburgs Fußgängeraltstadt lässt sich in 15 Minuten von einem Ende zum anderen durchqueren. Das VAG-Straßenbahnnetz deckt den Rest der Stadt ab, hundefreundlich mit einfachen Regeln. Direkte ICE-Züge verbinden Basel (45 Min.), Frankfurt (2 Std.) und Paris (3 Std. 15 Min. mit TGV-Anschluss in Karlsruhe). Die Schauinslandbahn nimmt Hunde für die Fahrt hinauf auf den 1.284 m hohen Berg mit.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in der VAG-Straßenbahn in Freiburg mitnehmen?",
+          "a": "Ja. Kleine Hunde in einer Transportbox reisen kostenlos; größere Hunde brauchen eine Kinderfahrkarte (etwa 1,50 EUR) und eine Leine. Kein Maulkorb in VAG-Straßenbahnen oder -Bussen erforderlich, nur die übliche Leinenpflicht."
+        },
+        {
+          "q": "Wie komme ich mit Hund von Basel nach Freiburg?",
+          "a": "Direkter ICE- oder IC-Zug in 45 Minuten von Basel SBB nach Freiburg Hbf. Kleine Hunde in einer Transportbox sind kostenlos; größere Hunde brauchen ein Kinderticket für das Haustier. Buchung über DB Navigator."
+        }
       ]
     },
     "beaches": {
@@ -538,7 +604,10 @@
           "tipFr": "Bus 33 de la Hbf jusqu'à Opfingen puis 10 minutes à pied. L'eau atteint 22 à 24 degrés en juillet et août.",
           "tipEs": "Bus 33 desde la Hbf hasta Opfingen y 10 minutos a pie. El agua alcanza 22 a 24 grados en julio y agosto.",
           "tipPt": "Autocarro 33 a partir da Hbf até Opfingen e 10 minutos a pé. A água atinge 22 a 24 graus em julho e agosto.",
-          "googleMapsUrl": "https://maps.google.com/?q=Opfinger+See+Hundebadeplatz"
+          "googleMapsUrl": "https://maps.google.com/?q=Opfinger+See+Hundebadeplatz",
+          "leashRuleDe": "Freilauf innerhalb des markierten Hundebadeplatzes am Nordufer",
+          "descriptionDe": "Ehemalige Kiesgrube am westlichen Stadtrand, heute ein sauberer Badesee. Ein ausgeschilderter Hundebadeplatz am Nordufer bietet 150 m Gras-und-Kies-Einstieg mit flachem Wasser, die einfachste innerstädtische Badeoption für Hunde.",
+          "tipDe": "Bus 33 vom Freiburger Hbf bis Opfingen, dann 10 Minuten zu Fuß. Das Wasser erwärmt sich im Juli und August auf 22 bis 24 Grad."
         },
         {
           "name": "Schluchsee",
@@ -580,7 +649,10 @@
           "tipFr": "Train régional direct (Höllentalbahn) de la Hbf à Schluchsee en 1h15. Reste frais (16 à 22 degrés) tout l'été, idéal pour les chiens à poil épais.",
           "tipEs": "Tren regional directo (Höllentalbahn) desde la Hbf hasta Schluchsee en 1h15. Se mantiene fresco (16 a 22 grados) todo el verano, ideal para perros de pelo grueso.",
           "tipPt": "Comboio regional directo (Höllentalbahn) da Hbf até Schluchsee em 1h15. Mantém-se fresco (16 a 22 graus) o verão inteiro, ideal para cães de pêlo grosso.",
-          "googleMapsUrl": "https://maps.google.com/?q=Schluchsee+Hundestrand"
+          "googleMapsUrl": "https://maps.google.com/?q=Schluchsee+Hundestrand",
+          "leashRuleDe": "Eigene Hundestrand-Zonen; sonst Leinenpflicht",
+          "descriptionDe": "Der größte See im Schwarzwald, 930 m über dem Meeresspiegel und 45 Minuten östlich von Freiburg mit dem Auto. Zwei ausgeschilderte Hundestrand-Zonen bei Aha und am südlichen Wolfsgrund bieten Grasufer und klares, flaches Badewasser.",
+          "tipDe": "Direkte Regionalbahn (Höllentalbahn) vom Freiburger Hbf zum Schluchsee in 1 Std. 15 Min. Bleibt den ganzen Sommer kühl (16 bis 22 Grad), ideal für dickfellige Hunde."
         },
         {
           "name": "Titisee",
@@ -622,7 +694,10 @@
           "tipFr": "Le Titisee est saturé de touristes de juin à août ; venez avant 10h ou après 17h pour une baignade canine calme.",
           "tipEs": "El Titisee se llena de turistas de junio a agosto; llega antes de las 10:00 o después de las 17:00 para un baño canino tranquilo.",
           "tipPt": "O Titisee enche-se de turistas de junho a agosto; chegue antes das 10:00 ou depois das 17:00 para um banho canino calmo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Titisee+Hundestrand"
+          "googleMapsUrl": "https://maps.google.com/?q=Titisee+Hundestrand",
+          "leashRuleDe": "Hundestrand am Ostufer; sonst Leinenpflicht",
+          "descriptionDe": "Der berühmteste Postkartensee des Schwarzwalds, 30 Minuten östlich von Freiburg mit der Regionalbahn. Ein kleiner, gut ausgeschilderter Hundestrand am Ostufer bei Bärenhof bietet flaches Badewasser mit Bergkulisse.",
+          "tipDe": "Der Titisee füllt sich von Juni bis August mit Touristen; vor 10:00 Uhr oder nach 17:00 Uhr für ein ruhiges Bad mit Hund kommen."
         }
       ],
       "tipsEn": [
@@ -684,6 +759,18 @@
           "q": "O Dreisam é seguro para o meu cão?",
           "a": "Sim, nos troços pouco profundos tolerados a leste do Altstadt onde o rio corre sobre bancos de gravilha e a corrente é suave. Evite o troço canalizado que atravessa o centro, onde a saída é mais difícil."
         }
+      ],
+      "titleDe": "Hundefreundliche Wasserstellen in Freiburg, Dreisam & Schwarzwaldseen",
+      "introDe": "Freiburg liegt 400 km vom nächsten Meer entfernt, ist aber reich an Sommer-Fluss- und Seebaden für Hunde. Die Dreisam fließt durch die Stadt mit flachen, geduldeten Badeabschnitten für Hunde, der Opfinger See westlich der Stadt hat einen offiziellen Hundebadeplatz, und die Schwarzwaldseen Schluchsee und Titisee sind ein einfacher Tagesausflug.",
+      "faqsDe": [
+        {
+          "q": "Wo können Hunde in oder bei Freiburg schwimmen?",
+          "a": "Der Hundebadeplatz am Opfinger See am westlichen Stadtrand ist die einfachste Option (Bus 33). Für einen Tagesausflug bieten Schluchsee und Titisee im Schwarzwald beide ausgeschilderte Hundestrand-Zonen, die mit der Regionalbahn direkt vom Freiburger Hbf in 30 bis 75 Minuten erreichbar sind."
+        },
+        {
+          "q": "Ist die Dreisam sicher für meinen Hund?",
+          "a": "Ja, in den flachen, geduldeten Abschnitten östlich der Altstadt, wo der Fluss über Kiesbetten verläuft und die Strömung sanft ist. Den urbanisierten Abschnitt durch das Zentrum meiden, wo die Kanalisierung den Ausstieg erschwert."
+        }
       ]
     },
     "vets": {
@@ -716,7 +803,9 @@
           "tipFr": "Occupé 24h/24 ; appelez d'abord pour que la bonne équipe soit prête à votre arrivée. Personnel anglophone disponible.",
           "tipEs": "Con personal las 24 horas; llama primero para que el equipo adecuado esté listo a tu llegada. Personal que habla inglés.",
           "tipPt": "Com pessoal 24 horas; ligue primeiro para que a equipa certa esteja pronta à sua chegada. Pessoal que fala inglês.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kleintierklinik+Frank+Freiburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Kleintierklinik+Frank+Freiburg",
+          "descriptionDe": "Freiburgs rund um die Uhr geöffnete Kleintierklinik im Stadtteil Mooswald nördlich des Zentrums, an jedem Tag des Jahres 24 Stunden besetzt. Chirurgie, Innere Medizin, Bildgebung und Intensivpflege. Besitzer sollten vorab zur Triage anrufen.",
+          "tipDe": "Rund um die Uhr besetzt; vorab anrufen, damit das richtige Team bei Ihrer Ankunft bereitsteht. Englischsprachiges Personal verfügbar."
         },
         {
           "name": "Kleintierzentrum Landwasser",
@@ -738,7 +827,9 @@
           "tipFr": "Téléphonez avant de venir hors horaires normaux pour confirmer qu'un vétérinaire est présent pour votre cas.",
           "tipEs": "Llama antes de ir fuera del horario normal para confirmar que hay un veterinario disponible para tu caso.",
           "tipPt": "Ligue antes de ir fora do horário normal para confirmar que há um veterinário disponível para o seu caso.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kleintierzentrum+Landwasser+Freiburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Kleintierzentrum+Landwasser+Freiburg",
+          "descriptionDe": "Gut ausgestattete Kleintierklinik im Stadtteil Landwasser nordwestlich des Zentrums, mit täglicher Notfallversorgung Mo. bis Fr. bis 22:00 Uhr und an Wochenenden und Feiertagen bis 20:00 Uhr. Chirurgie, Zahnmedizin, Bildgebung und Routineversorgung.",
+          "tipDe": "Vor dem Besuch außerhalb der normalen Öffnungszeiten anrufen, um zu bestätigen, dass ein Tierarzt für Ihren Fall vor Ort ist."
         },
         {
           "name": "Kleintierchirurgie Dr. Morich",
@@ -760,7 +851,9 @@
           "tipFr": "À environ 20 minutes en voiture au sud de Fribourg ; appelez avant, surtout pour les week-ends ou les cas chirurgicaux.",
           "tipEs": "A unos 20 minutos en coche al sur de Friburgo; llama antes, sobre todo para fines de semana o casos quirúrgicos.",
           "tipPt": "A cerca de 20 minutos de carro a sul de Friburgo; ligue antes, sobretudo para fins de semana ou casos cirúrgicos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kleintierchirurgie+Dr+Morich+Bad+Krozingen"
+          "googleMapsUrl": "https://maps.google.com/?q=Kleintierchirurgie+Dr+Morich+Bad+Krozingen",
+          "descriptionDe": "Chirurgische Überweisungspraxis für Kleintiere in Bad Krozingen, etwa 15 km südlich von Freiburg, mit Bereitschaftsdienst Mo. bis Fr. bis 22:00 Uhr und am Wochenende 10:00 bis 20:00 Uhr. Eine nützliche Option für das südliche Markgräflerland und orthopädische Fälle.",
+          "tipDe": "Etwa 20 Minuten mit dem Auto südlich von Freiburg; vorab anrufen, besonders bei Wochenend- oder chirurgischen Fällen."
         }
       ],
       "tipsEn": [
@@ -821,6 +914,18 @@
         {
           "q": "Quanto custa uma visita ao veterinário em Friburgo?",
           "a": "As tarifas seguem o GOT alemão (tabela veterinária): consulta clássica 30 a 60 €, urgência 80 a 150 € mais diagnóstico. Cirurgias maiores 600 a 2500 €. Os seguros europeus de animais costumam reembolsar."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte [24h] in Freiburg, Tierkliniken & Tierpflege",
+      "introDe": "Freiburg verfügt über eine solide tierärztliche Versorgung mit der Kleintierklinik Frank im Stadtteil Mooswald als Anker, ganzjährig rund um die Uhr besetzt. Zwei weitere Kliniken decken Tages- und erweiterte Notfallzeiten ab.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt in Freiburg?",
+          "a": "Ja. Die Kleintierklinik Frank in der Mooswaldallee im Stadtteil Mooswald nördlich des Zentrums ist rund um die Uhr, an jedem Tag des Jahres besetzt, mit voller Chirurgie und Intensivpflege. Vor der Anfahrt zur Triage unter +49 761 5036660 anrufen."
+        },
+        {
+          "q": "Wie viel kostet ein Tierarztbesuch in Freiburg?",
+          "a": "Standardgebühren folgen der deutschen GOT (Gebührenordnung für Tierärzte): Routinekonsultation 30 bis 60 EUR, Notfallbesuch 80 bis 150 EUR plus Diagnostik. Größere Operationen 600 bis 2500 EUR. EU-Tierkrankenversicherungen erstatten häufig."
         }
       ]
     },
@@ -901,6 +1006,18 @@
           "q": "Friburgo é boa para um fim de semana longo com cão?",
           "a": "Sim. Três dias chegam para percorrer o Altstadt, subir ao Schlossberg, apanhar o Schauinslandbahn para um dia na montanha e visitar um lago da Floresta Negra (Titisee ou Schluchsee). Os comboios tornam as ligações rápidas."
         }
+      ],
+      "titleDe": "Reisetipps für den Besuch von Freiburg mit Hund",
+      "introDe": "Freiburg ist eine der einfachsten deutschen Städte für einen Besuch mit Hund: Fußgängeraltstadt, tief hundefreundliche Ökostadt-Kultur, sonniges Klima (Deutschlands sonnigste Stadt) und schneller Zugang zum Schwarzwald. Die wenigen Dinge, die man wissen sollte, sind die Bächle (Wasserrinnen im Kopfsteinpflaster), der Ablauf mit der Schauinslandbahn und Sommer-Hitzetage.",
+      "faqsDe": [
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch in Freiburg mit Hund?",
+          "a": "Mai bis Mitte Juli und Mitte September bis Mitte Oktober. Die Tagestemperaturen liegen bei 18 bis 25 Grad, der Schwarzwald ist wanderfreundlich in Bestform, und die Menschenmengen sind überschaubar. Ende Juli und August zur Mittagszeit meiden, wenn das Kopfsteinpflaster heiß wird."
+        },
+        {
+          "q": "Eignet sich Freiburg für ein langes Wochenende mit Hund?",
+          "a": "Ja. Drei Tage reichen, um die Altstadt zu erkunden, den Schlossberg zu erklimmen, mit der Schauinslandbahn einen Bergtag zu erleben und einen Schwarzwaldsee (Titisee oder Schluchsee) zu besuchen. Die Züge halten die Reisezeiten für weitere Anschlüsse kurz."
+        }
       ]
     },
     "attractions": {
@@ -932,7 +1049,10 @@
           "tipFr": "Visitez le marché mardi ou jeudi matin quand la foule est moindre que le samedi. Testez la chaleur des pavés à la main à midi en juillet et août.",
           "tipEs": "Visita el mercado martes o jueves por la mañana, con menos público que el sábado. Prueba el calor de los adoquines con la mano al mediodía en julio y agosto.",
           "tipPt": "Visite o mercado terça ou quinta de manhã, com menos público do que o sábado. Teste o calor das pedras com a mão ao meio-dia em julho e agosto.",
-          "googleMapsUrl": "https://maps.google.com/?q=Muensterplatz+Freiburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Muensterplatz+Freiburg",
+          "descriptionDe": "Die gotische Freiburger Münsterkirche (1200 bis 1513), eine der vollständigsten gotischen Kirchen Deutschlands, mit einem einzigen 116 m hohen Turm. Auf dem Platz findet Mo. bis Sa. von 07:30 bis 13:30 Uhr ein Bauernmarkt statt. Innenbereich für Hunde gesperrt, außer für Assistenzhunde.",
+          "petPolicyDe": "Platz rund um die Uhr geöffnet, angeleinte Hunde auf dem Pflaster willkommen, Innenbereich tabu außer für Assistenzhunde",
+          "tipDe": "Den Markt dienstags oder donnerstagvormittags besuchen, wenn weniger los ist als samstags. Die Pflastertemperatur mittags im Juli und August mit dem Handrücken testen."
         },
         {
           "name": "Schwabentor & Augustinerplatz",
@@ -953,7 +1073,10 @@
           "tipFr": "L'Augustinerplatz de 19h à 22h en été est le spot parfait « une bière avec un chien ». Les marches pavées font face à l'ouest pour la lumière du couchant sur la Schwabentor.",
           "tipEs": "La Augustinerplatz de 19:00 a 22:00 en verano es el sitio perfecto «una cerveza con perro». Las escaleras empedradas miran al oeste para la luz del atardecer sobre la Schwabentor.",
           "tipPt": "A Augustinerplatz das 19:00 às 22:00 no verão é o sítio perfeito «uma cerveja com cão». As escadarias empedradas viradas a oeste para a luz do pôr do sol sobre a Schwabentor.",
-          "googleMapsUrl": "https://maps.google.com/?q=Schwabentor+Freiburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Schwabentor+Freiburg",
+          "descriptionDe": "Das Schwabentor aus dem 13. Jahrhundert, eines der beiden erhaltenen Altstadttore. Direkt dahinter ist der Augustinerplatz an warmen Abenden der beliebte Treffpunkt von Einheimischen und Studenten, die mit Hunden und Bier auf den Stufen sitzen.",
+          "petPolicyDe": "Beide rund um die Uhr geöffnet, Hunde an der Leine",
+          "tipDe": "Der Augustinerplatz von 19:00 bis 22:00 Uhr im Sommer ist der perfekte Ort für 'ein Bier mit Hund'. Die Kopfsteinstufen liegen nach Westen für das Sonnenuntergangslicht am Schwabentor."
         },
         {
           "name": "Schauinsland summit & cable car",
@@ -974,7 +1097,10 @@
           "tipFr": "Tram 2 à Günterstal, bus 21 à Horben, puis téléphérique. Prévoyez 2 à 3h de marche au sommet plus pique-nique ; le restaurant Bergstation accepte les chiens en terrasse.",
           "tipEs": "Tranvía 2 a Günterstal, bus 21 a Horben, luego el teleférico. Prevé 2 a 3h de paseo en cumbre más picnic; el restaurante Bergstation admite perros en su terraza.",
           "tipPt": "Elétrico 2 a Günterstal, autocarro 21 a Horben, depois o teleférico. Preveja 2 a 3h de passeio no cume mais piquenique; o restaurante Bergstation admite cães na esplanada.",
-          "googleMapsUrl": "https://maps.google.com/?q=Schauinslandbahn+Talstation"
+          "googleMapsUrl": "https://maps.google.com/?q=Schauinslandbahn+Talstation",
+          "descriptionDe": "Der 1.284 m hohe Berg südlich von Freiburg mit markierten Freilauf-Wanderwegen, Panoramablick über das Rheintal und die Vogesen. Erreichbar mit Deutschlands längster durchgehender Seilbahn (3,6 km) von Horben aus. Das gesamte Erlebnis hundefreundlich.",
+          "petPolicyDe": "Seilbahn nimmt Hunde für etwa 3 EUR mit; Gipfelwege auf markierten Waldwegen ohne Leine",
+          "tipDe": "Straßenbahn 2 bis Günterstal, Bus 21 bis Horben, dann die Seilbahn nehmen. Einen 2- bis 3-stündigen Gipfelspaziergang plus Picknick einplanen; das Restaurant an der Bergstation nimmt Hunde auf der Terrasse auf."
         }
       ],
       "tipsEn": [
@@ -1036,6 +1162,18 @@
           "q": "Qual é a atração mais pet-friendly de Friburgo?",
           "a": "O teleférico Schauinslandbahn até ao cume a 1.284 m, depois 2 a 3h de passeio sem trela pelos trilhos sinalizados. Combina experiência de montanha e frescor estival, a saída favorita dos locais com o cão."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Freiburg, Münsterplatz & Schwarzwald",
+      "introDe": "Freiburgs Hauptsehenswürdigkeiten liegen größtenteils im Freien und sind hundefreundlich: der Münsterplatz mit seinem täglichen Markt, die Bächle im Pflaster, der Schlossberg über der Altstadt und der Schauinsland-Berg per Seilbahn. Museen im Innenbereich sind meist für Hunde geschlossen, aber der Rest der Stadt ist sehr einladend.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund ins Freiburger Münster hinein?",
+          "a": "Nur Assistenzhunde sind drinnen erlaubt. Der Münsterplatz draußen ist rund um die Uhr für angeleinte Hunde geöffnet, und die Kathedralenfassade lässt sich ohnehin am besten von dort aus betrachten."
+        },
+        {
+          "q": "Was ist die hundefreundlichste Sehenswürdigkeit in Freiburg?",
+          "a": "Die Schauinslandbahn hinauf zum 1.284 m hohen Gipfel, dann ein 2- bis 3-stündiger Freilaufspaziergang auf den markierten Wegen. Verbindet ein Bergerlebnis mit kühler Sommerluft, der beliebteste Tagesausflug der Einheimischen mit Hund."
+        }
       ]
     },
     "petsitting": {
@@ -1065,7 +1203,10 @@
           "tipFr": "Réservez 3 à 5 jours à l'avance en été. Lisez attentivement les avis et préférez les sitters avec 20+ séjours récents.",
           "tipEs": "Reserva 3 a 5 días antes en verano. Lee bien las opiniones y prefiere sitters con 20+ estancias recientes.",
           "tipPt": "Reserve 3 a 5 dias antes no verão. Leia bem as opiniões e prefira sitters com 20+ estadias recentes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Freiburg+im+Breisgau"
+          "googleMapsUrl": "https://maps.google.com/?q=Freiburg+im+Breisgau",
+          "descriptionDe": "Größter Marktplatz für Hundebetreuer und Gassigeher in Deutschland. Tagessätze in Freiburg etwa 22 bis 38 EUR; Übernachtungsbetreuung 28 bis 50 EUR. Über Rover versichert.",
+          "petPolicyDe": "Alle Rassen und Größen; Betreuer legen ihre eigenen Regeln fest und akzeptieren Video-Kennenlerntermine",
+          "tipDe": "In der Hochsaison im Sommer 3 bis 5 Tage im Voraus buchen. Bewertungen sorgfältig lesen und Betreuer mit 20+ aktuellen Aufenthalten bevorzugen."
         },
         {
           "name": "Pawshake Freiburg",
@@ -1084,7 +1225,10 @@
           "tipFr": "Tarifs journaliers autour de 22 à 32 € ; la rencontre est le meilleur moyen de valider un sitter avant de s'engager.",
           "tipEs": "Tarifas diarias en torno a 22 a 32 €; la presentación es la mejor forma de validar a un sitter antes de comprometerse.",
           "tipPt": "Tarifas diárias entre 22 e 32 €; a apresentação é a melhor forma de validar um sitter antes de se comprometer.",
-          "googleMapsUrl": "https://maps.google.com/?q=Freiburg+im+Breisgau"
+          "googleMapsUrl": "https://maps.google.com/?q=Freiburg+im+Breisgau",
+          "descriptionDe": "Europäische Plattform für Haustierbetreuung mit einem kleineren, aber sorgfältig ausgewählten Angebot in Freiburg. Tagesbetreuung und Übernachtung, Fokus auf häusliches Umfeld statt Pensionen.",
+          "petPolicyDe": "Alle Rassen; verpflichtendes kostenloses Kennenlerntreffen vor jedem Aufenthalt",
+          "tipDe": "Tagessätze etwa 22 bis 32 EUR; das Kennenlerntreffen ist der beste Weg, einen Betreuer vor der Buchung zu prüfen."
         }
       ],
       "tipsEn": [
@@ -1145,6 +1289,18 @@
         {
           "q": "Há serviços de passeio no Altstadt?",
           "a": "Sim. Rover e Pawshake oferecem passeios de 30 a 60 min no centro por cerca de 15 a 25 €. Útil para um museu fechado a cães ou um jantar prolongado."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundepension in Freiburg",
+      "introDe": "Freiburg hat einen regen, studentisch geprägten freiberuflichen Markt für Haustierbetreuung über Rover.de und Pawshake, dazu mehrere ländliche Tierpensionen im weiteren Breisgau. Die meisten Freiberufler sind dank der Universität zweisprachig Deutsch-Englisch.",
+      "faqsDe": [
+        {
+          "q": "Was kostet eine Hundepension in Freiburg?",
+          "a": "Etwa 22 bis 38 EUR pro Tag bei einem freiberuflichen Rover- oder Pawshake-Betreuer, oder 35 bis 55 EUR pro Nacht in einer Tierpension. Bei längeren Aufenthalten gibt es oft ab 5 Nächten Rabatt."
+        },
+        {
+          "q": "Gibt es Gassi-Service in der Altstadt?",
+          "a": "Ja. Rover und Pawshake bieten beide 30- bis 60-minütige Spaziergänge im Zentrum für etwa 15 bis 25 EUR an. Nützlich, wenn Sie ein Museum ohne Hunde besuchen oder ein längeres Restaurantessen planen."
         }
       ]
     }

@@ -39,7 +39,11 @@
           "tipFr": "Téléphonez à l'avance en été pour réserver une table en terrasse, la salle intérieure est petite et se remplit vite quand le temps tourne à la pluie.",
           "tipEs": "Llama con antelación en verano para reservar una mesa en la terraza, el comedor interior es pequeño y se llena rápido cuando llueve.",
           "tipPt": "Telefona com antecedência no verão para reservar uma mesa na esplanada, a sala interior é pequena e enche-se depressa quando começa a chover.",
-          "googleMapsUrl": "https://maps.google.com/?q=Creperie+Petit+Coin+Bretagne+Brest"
+          "googleMapsUrl": "https://maps.google.com/?q=Creperie+Petit+Coin+Bretagne+Brest",
+          "descriptionDe": "Eine seit langem bestehende traditionelle Crêperie, einen kurzen Spaziergang von der Place de la Liberté entfernt, die bretonische Galettes de blé noir mit Hofbutter und langsam gekochten Karamell-Desserts serviert. Cidre brut aus der Cornouaille wird in die klassische Steingutschale, die Bolée, eingeschenkt. Ruhige, angeleinte Hunde sind an den kleinen Tischen vor dem Lokal willkommen, wenn das Wetter es zulässt.",
+          "petPolicyDe": "Ruhige angeleinte Hunde auf der Außenterrasse willkommen",
+          "mustTryDe": "Galette complète, Caramel beurre salé, Bolée de cidre brut",
+          "tipDe": "Rufen Sie im Sommer vorher an, um einen Terrassentisch zu reservieren, der Innenraum ist klein und füllt sich schnell, wenn das Wetter umschlägt."
         },
         {
           "name": "Le Tour du Monde",
@@ -65,7 +69,11 @@
           "tipFr": "La terrasse peut être exposée quand le vent atlantique se lève, demandez une table côté abrité près de la capitainerie et prenez une couche même en juillet.",
           "tipEs": "La terraza puede quedar expuesta cuando se levanta el viento atlántico, pide una mesa en el lado resguardado cerca de la capitanía y lleva una capa incluso en julio.",
           "tipPt": "A esplanada pode ficar exposta quando o vento atlântico se levanta, peça uma mesa no lado abrigado perto da capitania e leve uma camada mesmo em julho.",
-          "googleMapsUrl": "https://maps.google.com/?q=Le+Tour+du+Monde+Moulin+Blanc+Brest"
+          "googleMapsUrl": "https://maps.google.com/?q=Le+Tour+du+Monde+Moulin+Blanc+Brest",
+          "descriptionDe": "Eine Brasserie am Wasser in der Marina Moulin Blanc, eröffnet vom verstorbenen Weltumsegler Olivier de Kersauson, die bis heute von dieser maritimen Identität lebt. Die Terrasse blickt direkt auf den Hafen, in dem Brests Regattayachten liegen. Angeleinte Hunde sind das ganze Jahr über auf der großen Außenterrasse willkommen.",
+          "petPolicyDe": "Angeleinte Hunde auf großer Außenterrasse willkommen",
+          "mustTryDe": "Plateau de fruits de mer, Fish and Chips vom Kabeljau, Far breton",
+          "tipDe": "Die Terrasse kann bei auffrischendem Atlantikwind ungeschützt sein, verlangen Sie einen Tisch auf der windgeschützten Seite nahe dem Hafenbüro und bringen Sie selbst im Juli eine zusätzliche Schicht mit."
         },
         {
           "name": "Brasserie de la Plage",
@@ -91,9 +99,16 @@
           "tipFr": "Du 1er juin au 30 septembre les chiens sont interdits sur la Plage du Moulin Blanc surveillée par arrêté préfectoral, remontez plutôt au Vallon du Stang-Alar à cinq minutes à l'intérieur.",
           "tipEs": "Del 1 de junio al 30 de septiembre los perros están prohibidos en la Plage du Moulin Blanc vigilada por orden prefectoral, sube mejor al Vallon du Stang-Alar a cinco minutos hacia el interior.",
           "tipPt": "De 1 de junho a 30 de setembro os cães são proibidos na Plage du Moulin Blanc vigiada por ordem prefeitoral, sobe antes ao Vallon du Stang-Alar a cinco minutos para o interior.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brasserie+Plage+Moulin+Blanc+Brest"
+          "googleMapsUrl": "https://maps.google.com/?q=Brasserie+Plage+Moulin+Blanc+Brest",
+          "descriptionDe": "Eine ungezwungene Strandbrasserie oberhalb der Plage du Moulin Blanc, gegenüber von Océanopolis, mit einer Sonnenterrasse mit Blick auf die Rade de Brest. Die Karte ist kurz und meeresfrüchtelastig mit Muscheln, dem Fang des Tages und bretonischem Cidre vom Fass. Angeleinte Hunde sind auf der Terrasse willkommen, und der Strand darunter ist außerhalb der Badesaison für Hunde zugänglich.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen; Strandzugang für Hunde vom 1. Oktober bis 31. Mai",
+          "mustTryDe": "Moules marinière, gegrillter Fisch des Tages, Kouign-amann",
+          "tipDe": "Vom 1. Juni bis 30. September sind Hunde per Präfekturverordnung von der überwachten Plage du Moulin Blanc verbannt, gehen Sie stattdessen zum Vallon du Stang-Alar, nur fünf Minuten landeinwärts."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Brest",
+      "introDe": "Brests Gastronomieszene dreht sich um die bretonische Crêperie-Tradition, frische Meeresfrüchte aus dem Atlantik, die im Port de Commerce angelandet werden, und das wiederaufgebaute Nachkriegszentrum rund um die Rue de Siam und die Rue Jean-Jaurès. Der französische Brauch der Gastfreundschaft heißt angeleinte Hunde auf den meisten Außenterrassen willkommen, und mehrere Brasserien in der Nähe der Marina du Moulin Blanc lassen außerhalb der Saison ruhige Hunde auch drinnen zu. Lokale Spezialitäten, nach denen man Ausschau halten sollte, sind Galettes de blé noir, Kig ha farz, frische Austern aus der Rade de Brest und bretonischer Cidre.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Best Parks for Dogs in Brest",
@@ -124,7 +139,10 @@
           "tipFr": "Garez-vous à l'entrée haute Rue du Stang-Alar pour les parties les plus ombragées et marchez vers le bas, vous pouvez continuer jusqu'à la plage du Moulin Blanc sans traverser de route.",
           "tipEs": "Aparca en la entrada alta Rue du Stang-Alar para los tramos más sombreados y camina cuesta abajo, puedes continuar hasta la playa del Moulin Blanc sin cruzar ninguna carretera.",
           "tipPt": "Estaciona na entrada alta Rue du Stang-Alar para os trechos mais sombreados e caminha em descida, podes continuar até à praia do Moulin Blanc sem atravessar nenhuma estrada.",
-          "googleMapsUrl": "https://maps.google.com/?q=Vallon+du+Stang+Alar+Brest"
+          "googleMapsUrl": "https://maps.google.com/?q=Vallon+du+Stang+Alar+Brest",
+          "descriptionDe": "Ein 50 Hektar großes bewaldetes Tal, das vom Stadtviertel Saint-Marc bis zur Marina Moulin Blanc hinabführt und im Süden das Nationale Botanische Conservatoire, im Norden einen großen öffentlichen Park beherbergt. Befestigte Wege, Picknicktische und Bänke sowie ein durchgehender schattiger Weg bis zur Küste.",
+          "petPolicyDe": "Angeleinte Hunde auf den öffentlichen Parkwegen und im Conservatoire erlaubt (kurze Leine); in den Tropengewächshäusern verboten",
+          "tipDe": "Parken Sie am oberen Eingang Rue du Stang-Alar für die schattigsten Abschnitte und gehen Sie bergab, Sie können bis zum Strand Moulin Blanc weitergehen, ohne eine Straße zu überqueren."
         },
         {
           "name": "Cours Dajot",
@@ -145,7 +163,10 @@
           "tipFr": "Le Cours Dajot est exposé au vent atlantique, marchez d'ouest en est le matin pour avoir le vent dans le dos, et attention aux allées de gravier qui peuvent être boueuses après la pluie.",
           "tipEs": "El Cours Dajot está expuesto al viento atlántico, camina de oeste a este por la mañana para tener el viento de espaldas, y cuidado con los paseos de grava que pueden embarrarse tras la lluvia.",
           "tipPt": "O Cours Dajot está exposto ao vento atlântico, caminha de oeste para leste de manhã para ter o vento nas costas, e cuidado com as alamedas de gravilha que podem ficar lamacentas após chuva.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cours+Dajot+Brest"
+          "googleMapsUrl": "https://maps.google.com/?q=Cours+Dajot+Brest",
+          "descriptionDe": "Eine baumgesäumte erhöhte Promenade aus dem 18. Jahrhundert, 1769 von Zwangsarbeitern angelegt, die entlang der alten Wallanlagen oberhalb des Port de Commerce verläuft, mit weiten Ausblicken über die Rade de Brest und die Penfeld. Breit genug zum Joggen außerhalb der Stoßzeiten und von Lindenbäumen gesäumt.",
+          "petPolicyDe": "Angeleinte Hunde jederzeit willkommen",
+          "tipDe": "Der Cours Dajot ist dem Atlantikwind ausgesetzt, gehen Sie morgens von West nach Ost, um die Böen im Rücken zu haben, und achten Sie auf die Kieswege, die nach Regen matschig werden können."
         },
         {
           "name": "GR34 Coastal Path Le Conquet to Pointe Saint-Mathieu",
@@ -166,9 +187,15 @@
           "tipFr": "Garez-vous au parking gratuit de la Pointe Saint-Mathieu et marchez vers Le Conquet pour les falaises les plus pures, comptez environ trois heures aller-retour et emportez de l'eau, les fontaines sont rares sur le promontoire.",
           "tipEs": "Aparca en el parking gratuito de la Pointe Saint-Mathieu y camina hacia Le Conquet para los acantilados más limpios, calcula unas tres horas ida y vuelta y lleva agua, las fuentes son escasas en el promontorio.",
           "tipPt": "Estaciona no parque gratuito da Pointe Saint-Mathieu e caminha em direção ao Conquet para as falésias mais limpas, conta cerca de três horas ida e volta e leva água, as fontes são raras no promontório.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pointe+Saint+Mathieu+Plougonvelin"
+          "googleMapsUrl": "https://maps.google.com/?q=Pointe+Saint+Mathieu+Plougonvelin",
+          "descriptionDe": "Ein 11 km langer Hin- und Rückweg-Abschnitt des Küstenwegs GR34, der den Hafen von Le Conquet mit dem Leuchtturm und den Abteiruinen der Pointe Saint-Mathieu verbindet, 25 Autominuten westlich von Brest. Meeresklippen, Strände, Abteiruinen und einer der meistfotografierten Leuchttürme am Atlantik.",
+          "petPolicyDe": "Angeleinte Hunde das ganze Jahr über auf dem gesamten GR34 willkommen",
+          "tipDe": "Parken Sie auf dem kostenlosen Parkplatz an der Pointe Saint-Mathieu und gehen Sie in Richtung Le Conquet für die saubersten Klippenkanten, planen Sie etwa drei Stunden für die Rundtour ein und nehmen Sie Wasser mit, da Brunnen auf der Landzunge selten sind."
         }
-      ]
+      ],
+      "titleDe": "Die besten Parks für Hunde in Brest",
+      "introDe": "Brests grünes Erbe reicht vom 50 Hektar großen Vallon du Stang-Alar mit seinem botanischen Conservatoire bis zur Meeresterrasse Cours Dajot mit Blick auf die Rade de Brest und weiter zur Halbinsel Le Conquet und dem Küstenweg der Pointe Saint-Mathieu. Angeleinte Hunde sind auf den öffentlichen Wegen des Vallon, rund um den Cours Dajot und entlang des gesamten Küstenwegs GR34 willkommen.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Brest with Your Dog",
@@ -199,7 +226,10 @@
           "tipFr": "Si vous voyagez avec un chien moyen ou grand, planifiez à pied depuis une base centrale près de la Place de la Liberté ou prenez un taxi licencié (appelez à l'avance, l'accueil canin reste à la discrétion du chauffeur en France).",
           "tipEs": "Si viajas con un perro mediano o grande, planea trayectos a pie desde una base céntrica cerca de la Place de la Liberté o usa un taxi con licencia (llama con antelación, la admisión canina depende del conductor en Francia).",
           "tipPt": "Se viajas com um cão médio ou grande, planeia trajetos a pé desde uma base central perto da Place de la Liberté ou usa um táxi licenciado (telefona com antecedência, a admissão canina depende do motorista em França).",
-          "googleMapsUrl": "https://maps.google.com/?q=Bibus+Brest"
+          "googleMapsUrl": "https://maps.google.com/?q=Bibus+Brest",
+          "descriptionDe": "Brests einzige Straßenbahnlinie und das Zubringer-Busnetz werden von Bibus betrieben, dazu kommt eine kurze Seilbahn Téléphérique über die Penfeld, die Recouvrance mit Siam verbindet. Die Netzregel besagt, dass nur kleine Tiere in geschlossenen Transportboxen an Bord fahren dürfen, mittelgroße und große Hunde sind in Straßenbahn und Bussen nicht zugelassen, außer als anerkannte Assistenzhunde.",
+          "petPolicyDe": "Nur kleine Tiere in geschlossenen Transportboxen; große Hunde nicht zugelassen, außer Assistenzhunde",
+          "tipDe": "Wenn Sie mit einem mittelgroßen oder großen Hund reisen, planen Sie Fußwege von einer zentralen Unterkunft nahe der Place de la Liberté oder nutzen Sie ein Taxi (vorher anrufen, die Mitnahme von Hunden liegt in Frankreich im Ermessen des Fahrers)."
         },
         {
           "name": "Brest-Bretagne Airport (BES)",
@@ -220,7 +250,10 @@
           "tipFr": "Une petite zone canine est aménagée à l'extérieur avant le contrôle de sûreté, prévoyez un arrêt toilettes de 10 minutes pour votre chien avant l'enregistrement, surtout en soute.",
           "tipEs": "Hay una pequeña zona canina en la acera antes del control de seguridad, prevé una parada de 10 minutos para tu perro antes del check-in, sobre todo si viaja en bodega.",
           "tipPt": "Há uma pequena zona canina no passeio antes do controlo de segurança, prevê uma paragem de 10 minutos para o cão antes do check-in, sobretudo se viajar em porão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brest+Bretagne+Airport+Guipavas"
+          "googleMapsUrl": "https://maps.google.com/?q=Brest+Bretagne+Airport+Guipavas",
+          "descriptionDe": "Der Flughafen Brest-Bretagne (IATA: BES) liegt 9 km nordöstlich des Zentrums von Brest in Guipavas und wird von der Bibus-Linie 16 vom Stadtzentrum und dem SNCF-Bahnhof aus bedient. Inland-, Paris- und saisonale Europastrecken werden ganzjährig angeboten. Die Bibus-Linie 16 wurde erweitert und verbindet nun direkt den SNCF-Bahnhof mit dem Flughafen.",
+          "petPolicyDe": "Es gelten die Haustierrichtlinien von Air France/Volotea/EasyJet; prüfen Sie Transportbox- und Gewichtsgrenzen der Airline vor der Buchung",
+          "tipDe": "Es gibt einen kleinen Hunde-Auslaufbereich am Bordstein vor der Sicherheitskontrolle, planen Sie vor dem Check-in einen 10-minütigen Pinkelstopp für Ihren Hund ein, besonders bei Flügen mit Frachtraumtransport."
         },
         {
           "name": "Penn ar Bed Ferries to Ouessant, Molène and Sein",
@@ -241,9 +274,15 @@
           "tipFr": "Les chiens doivent rester en laisse à Ouessant toute l'année, les colonies d'oiseaux nicheurs de l'île sont strictement protégées et la mairie applique la laisse avec des amendes de 38 € sur place.",
           "tipEs": "Los perros deben permanecer con correa en Ouessant todo el año, las colonias de aves nidificantes de la isla están estrictamente protegidas y el ayuntamiento aplica la correa con multas de 38 € en el sitio.",
           "tipPt": "Os cães devem permanecer com trela em Ouessant o ano inteiro, as colónias de aves nidificantes da ilha estão estritamente protegidas e a câmara aplica a trela com multas de 38 € no local.",
-          "googleMapsUrl": "https://maps.google.com/?q=Penn+ar+Bed+Brest+Port+Commerce"
+          "googleMapsUrl": "https://maps.google.com/?q=Penn+ar+Bed+Brest+Port+Commerce",
+          "descriptionDe": "Die BreizhGo-Reederei Penn ar Bed betreibt ganzjährig Fähren vom Port de Commerce in Brest zu den Inseln der Iroise-See Ouessant (2 Std. 15 Min.), Molène und Sein. Die Überfahrten werden von Wanderern, Radfahrern und Tagesausflüglern genutzt; die Inseln selbst sind autofrei oder nahezu autofrei. Die Kombination Ouessant–Brest ist einer der klassischen hundefreundlichen Tagesausflüge der Bretagne.",
+          "petPolicyDe": "Kleine Hunde auf dem Schoß oder in der Transportbox fahren kostenlos; größere Hunde an der Leine zahlen 6 € für die Rückfahrkarte; Hunde der Kategorie 1 und 2 müssen an Bord einen Maulkorb tragen",
+          "tipDe": "Hunde müssen auf Ouessant das ganze Jahr über an der Leine bleiben, die Brutkolonien der Seevögel der Insel sind streng geschützt, und der Bürgermeister setzt die Leinenpflicht mit Bußgeldern von 38 € vor Ort durch."
         }
-      ]
+      ],
+      "titleDe": "Mit dem Hund unterwegs in Brest",
+      "introDe": "Brests kompaktes Stadtzentrum lässt sich am besten zu Fuß erkunden, mit einer Straßenbahnlinie, mehreren Buslinien und der Seilbahn Téléphérique, die alle von Bibus betrieben werden. Die Bibus-Regelung lässt nur kleine Tiere in geschlossenen Transportboxen an Bord zu, größere Hunde sind in Straßenbahnen und Bussen nicht erlaubt, es sei denn, es handelt sich um anerkannte Assistenzhunde. Der Flughafen Brest-Bretagne (BES) liegt 9 km nordöstlich in Guipavas und ist über die Bibus-Linie 16 mit der Stadt verbunden.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches Around Brest",
@@ -274,7 +313,10 @@
           "tipFr": "Hors saison balnéaire, l'extrémité est, près de la marina, est la plus abritée du vent dominant de sud-ouest, idéale pour une baignade avec un chien atlantique en automne.",
           "tipEs": "Fuera de la temporada de baño, el extremo este cerca de la marina es el más resguardado del viento dominante del suroeste, ideal para un baño con un perro atlántico en otoño.",
           "tipPt": "Fora da época balnear, a extremidade leste perto da marina é a mais abrigada do vento dominante de sudoeste, ideal para um banho com um cão atlântico no outono.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plage+du+Moulin+Blanc+Brest"
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+du+Moulin+Blanc+Brest",
+          "descriptionDe": "Brests wichtigster überwachter Stadtstrand an der Rade de Brest, vor Océanopolis und der Marina. Feiner Sand, geschütztes Baden und einfacher Busanschluss vom Zentrum aus. Im Sommer sind Hunde verboten, wenn die Rettungsschwimmer Dienst haben, aber der Strand öffnet vom 1. Oktober bis 31. Mai wieder für angeleinte Hunde.",
+          "petPolicyDe": "Angeleinte Hunde vom 1. Oktober bis 31. Mai erlaubt; vom 1. Juni bis 30. September verboten",
+          "tipDe": "Außerhalb der Badesaison ist das östliche Ende nahe der Marina am besten vor dem vorherrschenden Südwestwind geschützt, ideal für ein Bad mit einem wasserliebenden Hund im Herbst."
         },
         {
           "name": "Plage de Sainte-Anne du Portzic",
@@ -295,7 +337,10 @@
           "tipFr": "À marée basse les flaques rocheuses regorgent d'étoiles de mer et de petits crabes, gardez votre chien en laisse courte et attention aux balanes coupantes sur les rochers du bas.",
           "tipEs": "Con marea baja las charcas rocosas tienen estrellas de mar y pequeños cangrejos, mantén a tu perro con correa corta y cuidado con los percebes cortantes en las rocas inferiores.",
           "tipPt": "Com maré baixa as poças rochosas têm estrelas-do-mar e pequenos caranguejos, mantém o cão com trela curta e cuidado com as bálanos cortantes nas rochas inferiores.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plage+Sainte+Anne+du+Portzic+Brest"
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+Sainte+Anne+du+Portzic+Brest",
+          "descriptionDe": "Eine kleine Familienbucht auf der Westseite des Goulet de Brest, unterhalb niedriger Klippen nahe dem ozeanografischen Zentrum IFREMER gelegen. Die Bucht ist geschützt, der Sand mit Gezeitentümpeln durchsetzt, und der umliegende Küstenweg GR34, der Sentier des douaniers, führt weiter nach Westen Richtung Le Conquet. Hunde außerhalb der Saison erlaubt.",
+          "petPolicyDe": "Angeleinte Hunde außerhalb der Badesaison geduldet (Okt.–Mai); während der Sommerüberwachung verboten",
+          "tipDe": "Bei Ebbe kommen Gezeitentümpel reich an Seesternen und kleinen Krabben zum Vorschein, halten Sie Ihren Hund an kurzer Leine und achten Sie auf scharfe Seepocken an den unteren Felsen."
         },
         {
           "name": "Plage des Blancs Sablons (Le Conquet)",
@@ -316,9 +361,15 @@
           "tipFr": "Garez-vous à l'accès nord de Porspaul pour la portion autorisée aux chiens, l'entrée sud du Conquet est la zone surveillée où les chiens sont interdits en été.",
           "tipEs": "Aparca en el acceso norte de Porspaul para la franja permitida a perros, la entrada sur de Le Conquet es la zona vigilada donde los perros están prohibidos en verano.",
           "tipPt": "Estaciona no acesso norte de Porspaul para a faixa permitida a cães, a entrada sul do Conquet é a zona vigiada onde os cães são proibidos no verão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plage+des+Blancs+Sablons+Le+Conquet"
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+des+Blancs+Sablons+Le+Conquet",
+          "descriptionDe": "Ein 2 km langer weißer Sandbogen mit Dünen im Hintergrund, 25 Autominuten westlich von Brest nahe der Pointe Saint-Mathieu. Atlantikdünung, als Natura 2000 ausgewiesene Dünen und einer der längsten Strände im nördlichen Finistère. Am unbeaufsichtigten nördlichen Ende sind Hunde das ganze Jahr über erlaubt, auf dem übrigen Strand außerhalb des Sommers.",
+          "petPolicyDe": "Angeleinte Hunde am nördlichen Ende das ganze Jahr über; überwachter Abschnitt vom 1. Juni bis 30. September verboten",
+          "tipDe": "Parken Sie am nördlichen Zugang Porspaul für den hundeerlaubten Abschnitt, der südliche Eingang bei Le Conquet ist der überwachte Bereich, in dem Hunde im Sommer verboten sind."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Strände rund um Brest",
+      "introDe": "Brest liegt an einem tiefen Naturhafen und ist innerhalb von 30 Minuten am offenen Atlantik. Eine Präfekturverordnung des Finistère verbietet Hunde vom 1. Juni bis 30. September an überwachten Stränden, erlaubt sie aber den Rest des Jahres, und mehrere wilde Buchten auf der Halbinsel Le Conquet bleiben ganzjährig für Hunde zugänglich. Prüfen Sie immer die Tafel am Strandeingang für die aktuelle örtliche Verordnung.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinary Care in Brest",
@@ -349,7 +400,10 @@
           "tipFr": "Enregistrez le 02 45 35 20 20 dans votre téléphone dès votre arrivée à Brest, le vétérinaire de garde trie d'abord par téléphone et peut vous orienter vers une clinique ouverte de jour.",
           "tipEs": "Guarda el 02 45 35 20 20 en el móvil al llegar a Brest, el veterinario de guardia tría primero por teléfono y puede orientarte a una clínica abierta de día.",
           "tipPt": "Guarda o 02 45 35 20 20 no telemóvel ao chegar a Brest, o veterinário de guarda triagem primeiro por telefone e pode orientar-te para uma clínica aberta de dia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Maison+Urgences+Veterinaires+Brest+Plabennec"
+          "googleMapsUrl": "https://maps.google.com/?q=Maison+Urgences+Veterinaires+Brest+Plabennec",
+          "descriptionDe": "Das eigene tierärztliche 24/7-Notfallzentrum für den gesamten Pays de Brest, mit einem telefonisch erreichbaren Tierarzt Tag und Nacht für Allgemeinmedizin, Notoperationen (Thorax, Bauchraum, Wundversorgung) und Intensivpflege, gelegen 15 km nördlich des Zentrums von Brest.",
+          "petPolicyDe": "Alle Kleintiere werden angenommen; vor der Anreise telefonisch anmelden",
+          "tipDe": "Speichern Sie die Nummer 02 45 35 20 20 gleich bei Ihrer Ankunft in Brest, der diensthabende Tierarzt sortiert zunächst telefonisch und kann Sie stattdessen an eine geöffnete Tagespraxis verweisen."
         },
         {
           "name": "Clinique Vétérinaire de Brest (ChronoVet)",
@@ -370,7 +424,10 @@
           "tipFr": "Apportez le passeport européen, le numéro de puce et le carnet de vaccinations récent, les cliniques françaises ne réalisent pas les démarches frontalières sans avoir lu la puce à l'arrivée.",
           "tipEs": "Lleva el pasaporte europeo, el número de microchip y el carné de vacunaciones reciente, las clínicas francesas no hacen trámites fronterizos sin haber leído el chip a la llegada.",
           "tipPt": "Leva o passaporte europeu, o número de microchip e o boletim de vacinações recente, as clínicas francesas não fazem trâmites fronteiriços sem ter lido o chip à chegada.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+Brest+Saint+Pierre"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+Brest+Saint+Pierre",
+          "descriptionDe": "Eine allgemeine Kleintierpraxis im Viertel Saint-Pierre, angeschlossen an das landesweite Netzwerk ChronoVet, die Impfungen, Mikrochip-Implantation, Erneuerung des EU-Heimtierausweises, Innere Medizin und Routineoperationen übernimmt, mit durchgehender Tagespraxis und dem nächtlichen ChronoVet-Notdienstrotation.",
+          "petPolicyDe": "Hunde, Katzen und Kleinsäuger; Terminvereinbarung bevorzugt",
+          "tipDe": "Bringen Sie den EU-Heimtierausweis Ihres Hundes, die Mikrochipnummer und den aktuellen Impfnachweis mit, französische Praxen erledigen keine Grenzreiseformalitäten, ohne den vorhandenen Chip vor Ort auszulesen."
         },
         {
           "name": "Clinique Vétérinaire Argos Brest Branda",
@@ -391,9 +448,15 @@
           "tipFr": "Les rendez-vous vaccinations sans réservation sont en général possibles 14h–16h en semaine, utile si vous arrivez en TGV de Paris et avez besoin d'un rappel rapide avant les îles.",
           "tipEs": "Las citas de vacunación sin reserva suelen ser posibles 14:00–16:00 entre semana, útil si llegas en TGV desde París y necesitas un refuerzo rápido antes de las islas.",
           "tipPt": "As consultas de vacinação sem marcação são geralmente possíveis 14h–16h em dias úteis, útil se chegares de TGV de Paris e precisares de um reforço rápido antes das ilhas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Argos+Veterinaire+Brest+Branda"
+          "googleMapsUrl": "https://maps.google.com/?q=Argos+Veterinaire+Brest+Branda",
+          "descriptionDe": "Eine zentrale Kleintierpraxis in Brest im Netzwerk Argos, in der Rue Branda nahe der Place de la Liberté und dem SNCF-Bahnhof gelegen. Allgemeinmedizin, Impfungen, Zahnheilkunde und kleinere Operationen; praktisch für Reisende, die im Zentrum von Brest wohnen und nicht fahren möchten.",
+          "petPolicyDe": "Hunde, Katzen und Kleinsäuger; Termin per Telefon oder online",
+          "tipDe": "Spontane Impftermine sind wochentags meist zwischen 14:00 und 16:00 Uhr möglich, nützlich, wenn Sie mit dem TGV aus Paris ankommen und vor der Fahrt zu den Inseln noch eine schnelle Auffrischung brauchen."
         }
-      ]
+      ],
+      "titleDe": "Tierärztliche Versorgung in Brest",
+      "introDe": "Brest verfügt über ein starkes Netz von Kleintierpraxen in den Vierteln Saint-Marc, Saint-Pierre, Recouvrance und Lambezellec sowie über ein eigenes tierärztliches 24-Stunden-Notfallzentrum an der Straße nach Plabennec direkt nördlich der Stadt. Die Maison des Urgences Vétérinaires de Brest nimmt nächtliche, Wochenend- und Feiertagsanrufe für den gesamten Pays de Brest entgegen.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Pet Travel Tips for Brest",
@@ -423,7 +486,10 @@
           "tipFr": "Sauvegardez le scan du passeport européen sur votre téléphone, la police française contrôle parfois aux arrêts de tram centraux et à la gare SNCF lors des contrôles fraude.",
           "tipEs": "Guarda el escaneo del pasaporte europeo en tu móvil, la policía francesa controla a veces en las paradas de tranvía céntricas y en la estación SNCF durante los controles de fraude.",
           "tipPt": "Guarda o scan do passaporte europeu no telemóvel, a polícia francesa controla por vezes nas paragens de tram centrais e na estação SNCF durante os controlos de fraude.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brest+France"
+          "googleMapsUrl": "https://maps.google.com/?q=Brest+France",
+          "descriptionDe": "Brest folgt dem französischen nationalen Recht: Jeder Hund muss in der Öffentlichkeit eine höchstens 1,5 m lange Leine tragen; Hunde der Kategorie 1 (angriffslustiger Typ) und 2 (Wach-Typ, Rottweiler, Staffordshire) benötigen die Genehmigung des Rathauses von Brest mit Bescheinigung, spezieller Versicherung und Maulkorb. Verstöße gegen die Hundekotpflicht werden in Brest mit einem kommunalen Bußgeld geahndet, und das Bibus-Netz kontrolliert die Regel „nur kleine Tiere in Transportboxen“ in der Straßenbahn streng.",
+          "petPolicyDe": "Französisches nationales Recht: 1,5-m-Leine Pflicht; Hunde der Kategorie 1/2 benötigen Genehmigung und Maulkorb",
+          "tipDe": "Speichern Sie den gescannten EU-Heimtierausweis auf Ihrem Handy, die französische Polizei kontrolliert gelegentlich an den zentralen Straßenbahnhaltestellen und am SNCF-Bahnhof im Rahmen der Fahrscheinkontrolle."
         },
         {
           "name": "Atlantic Weather Planning",
@@ -443,7 +509,10 @@
           "tipFr": "Dicton local : à Brest il fait beau plusieurs fois par jour, il pleut juste entre les éclaircies. Prenez un coupe-vent imperméable même en août, vous vous en servirez.",
           "tipEs": "Dicho local: en Brest hace sol varias veces al día, solo llueve entre los claros. Lleva un chubasquero incluso en agosto, lo usarás.",
           "tipPt": "Ditado local: em Brest faz sol várias vezes por dia, só chove entre as abertas. Leva um corta-vento impermeável mesmo em agosto, vais usá-lo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brest+France"
+          "googleMapsUrl": "https://maps.google.com/?q=Brest+France",
+          "descriptionDe": "Brest verzeichnet rund 1.100 mm Regen im Jahr, verteilt auf etwa 165 Regentage, und der vorherrschende Südwestwind zieht durch den Goulet. Bringen Sie eine Regenjacke für den Hund mit, ein Schnelltrockentuch für Spaziergänge nach dem Regen auf dem Cours Dajot und wasserdichte Schuhe, falls Ihr Hund das Granitpflaster von Recouvrance nicht mag.",
+          "petPolicyDe": "Ganzjährig wasserdichte Ausrüstung mitbringen",
+          "tipDe": "Ein lokales Sprichwort sagt: In Brest scheint jeden Tag die Sonne, es regnet nur dazwischen. Packen Sie selbst im August eine Regenjacke ein, Sie werden sie brauchen."
         },
         {
           "name": "Camino Britanico de Compostela Pilgrim Reception",
@@ -463,9 +532,15 @@
           "tipFr": "Les tampons pour la credencial sont délivrés au bureau de la Cathédrale Saint-Louis et à l'office de tourisme 8 avenue Georges Clemenceau, uniquement aux heures d'ouverture.",
           "tipEs": "Los sellos para la credencial se emiten en la oficina de la Catedral Saint-Louis y en la oficina de turismo 8 avenue Georges Clemenceau, solo en horario de apertura.",
           "tipPt": "Os carimbos para a credencial são emitidos no escritório da Catedral Saint-Louis e no posto de turismo 8 avenue Georges Clemenceau, apenas em horário de abertura.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cathedrale+Saint+Louis+Brest"
+          "googleMapsUrl": "https://maps.google.com/?q=Cathedrale+Saint+Louis+Brest",
+          "descriptionDe": "Brest ist der offizielle bretonische Endpunkt des Camino Britanico nach Santiago de Compostela, mit Pilgerausweisstempeln in der Kathedrale Saint-Louis und einem regelmäßigen Zustrom galicischer Wanderer, die per Fähre über den Kanal kommen. Viele pilgerfreundliche Cafés entlang der Rue de Siam heißen Wanderhunde willkommen.",
+          "petPolicyDe": "Hunde auf dem Pilgerweg und in den meisten Pilgercafés willkommen",
+          "tipDe": "Stempel für den Pilgerausweis gibt es im Büro der Kathedrale Saint-Louis und im Fremdenverkehrsamt, 8 Avenue Georges Clemenceau, jeweils nur während der Öffnungszeiten."
         }
-      ]
+      ],
+      "titleDe": "Reisetipps mit Hund für Brest",
+      "introDe": "Brest verbindet die französischen nationalen Regeln für Reisen mit Haustieren (ISO-Mikrochip, Tollwutimpfung, EU-Heimtierausweis, 1,5-m-Leine, Bußgelder für Hundekot) mit einer strengen saisonalen Regelung an den Atlantikstränden, einem Bibus-Straßenbahn- und Busnetz, das mittelgroße und große Hunde außer in Transportboxen ausschließt, sowie den Fährregeln von Penn ar Bed für die Iroise-Inseln. Planen Sie Ihren Tag rund um Gezeiten, Strandschließungen und die Bibus-Transportboxregeln.",
+      "faqsDe": []
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Brest",
@@ -496,7 +571,10 @@
           "tipFr": "Attachez votre chien au banc du Square Pierre Péron pendant qu'un compagnon visite les dioramas en alternance, la visite ne dure qu'environ 30 minutes et la place offre ombre et bancs.",
           "tipEs": "Ata a tu perro al banco del Square Pierre Péron mientras un compañero visita los dioramas por turnos, la visita solo dura unos 30 minutos y la plaza ofrece sombra y bancos.",
           "tipPt": "Prende o cão ao banco do Square Pierre Péron enquanto um companheiro visita os dioramas à vez, a visita só dura cerca de 30 minutos e a praça oferece sombra e bancos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tour+Tanguy+Brest"
+          "googleMapsUrl": "https://maps.google.com/?q=Tour+Tanguy+Brest",
+          "descriptionDe": "Ein steinerner Turm aus dem 14. Jahrhundert am Fuß der Pont de Recouvrance am rechten Ufer der Penfeld, in dem 14 Dioramen von Jim-E. Sévellec Brest vor den Bombardierungen von 1944 nachbilden. Das kostenlose Museum ist außer montags nachmittags geöffnet, und der umliegende Square Pierre Péron ist ein Park für angeleinte Hunde mit weitem Blick über die Penfeld.",
+          "petPolicyDe": "Im Square Pierre Péron angeleinte Hunde draußen willkommen; das Turminnere ist nur Assistenzhunden vorbehalten",
+          "tipDe": "Binden Sie Ihren Hund an der Bank im Square Pierre Péron an, während ein Freund die Dioramen abwechselnd ansieht, der Besuch dauert nur etwa 30 Minuten, und der Platz bietet Schatten und Bänke."
         },
         {
           "name": "Pont de Recouvrance and Penfeld Drawbridge",
@@ -517,7 +595,10 @@
           "tipFr": "Le tablier se lève à la demande pour les mouvements de la Marine, consultez le compte Twitter de la capitainerie pour les horaires de levée du jour si vous voulez photographier le pont ouvert.",
           "tipEs": "El tablero se levanta a demanda para los movimientos de la Marina, consulta la cuenta Twitter de la capitanía para los horarios de elevación del día si quieres fotografiar el puente abierto.",
           "tipPt": "O tabuleiro ergue-se a pedido para os movimentos da Marinha, consulta a conta Twitter da capitania para os horários de elevação do dia se quiseres fotografar a ponte aberta.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pont+de+Recouvrance+Brest"
+          "googleMapsUrl": "https://maps.google.com/?q=Pont+de+Recouvrance+Brest",
+          "descriptionDe": "Europas größte vertikale Hubbrücke, 1954 eröffnet und 2012 wiederaufgebaut, überspannt die Penfeld mit einem 64 m langen Mitteldeck, das sich hebt, um Marineschiffe passieren zu lassen. Die Brücke ist frei begehbar, Hunde sind willkommen, und der beste Fotospot ist von der Seite des Cours Dajot bei Sonnenuntergang, wenn sich das Deck hebt.",
+          "petPolicyDe": "Angeleinte Hunde das ganze Jahr über willkommen",
+          "tipDe": "Das Deck hebt sich nach Bedarf für Marinebewegungen, prüfen Sie den Twitter-Feed des Hafenbüros von Brest auf tägliche Hubzeiten, wenn Sie die geöffnete Brücke fotografieren möchten."
         },
         {
           "name": "Château de Brest Exterior and Ramparts",
@@ -538,9 +619,15 @@
           "tipFr": "Parcourez les remparts extérieurs au coucher du soleil pour la meilleure photo du Pont de Recouvrance levé contre la Penfeld, votre chien appréciera la fraîcheur de la pierre après une journée ensoleillée.",
           "tipEs": "Recorre las murallas exteriores al atardecer para la mejor foto del Pont de Recouvrance levantado contra la Penfeld, tu perro apreciará el frescor de la piedra tras un día soleado.",
           "tipPt": "Percorre as muralhas exteriores ao pôr do sol para a melhor foto da Pont de Recouvrance erguida contra a Penfeld, o cão vai apreciar a frescura da pedra após um dia soalheiro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Chateau+de+Brest"
+          "googleMapsUrl": "https://maps.google.com/?q=Chateau+de+Brest",
+          "descriptionDe": "Eine im 17. Jahrhundert von Vauban umgebaute Festung an der Penfeld-Mündung, in der heute das Nationale Marinemuseum untergebracht ist und die weiterhin als Hauptquartier der französischen Atlantikflotte dient. Die äußeren Wallanlagen und die umliegende Terrasse Cours d'Ajot sind frei begehbar und hundefreundlich, mit einem der besten Hafenpanoramen Frankreichs.",
+          "petPolicyDe": "Auf den äußeren Wallanlagen und dem Cours Dajot angeleinte Hunde willkommen; das Museumsinnere nur für Assistenzhunde",
+          "tipDe": "Gehen Sie bei Sonnenuntergang auf den äußeren Wallanlagen für das beste Foto der gehobenen Pont de Recouvrance vor der Penfeld, Ihr Hund wird den kühlen Stein nach einem sonnigen Tag zu schätzen wissen."
         }
-      ]
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Brest",
+      "introDe": "Brests Hauptattraktion ist Océanopolis, doch das Aquarium lässt keine Haustiere zu (nur zertifizierte Assistenzhunde). Das übrige Freilicht-Erbe ist größtenteils hundefreundlich: der Cours Dajot und die Klappbrücke über die Penfeld, der Diorama-Turm Tour Tanguy, das Äußere des Château de Brest, das Viertel Recouvrance und die täglichen Spaziergänge entlang der Marina du Moulin Blanc.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting and Dog Walkers in Brest",
@@ -570,7 +657,10 @@
           "tipFr": "Réservez au moins 72 heures à l'avance en juillet–août, les années des Fêtes Maritimes de Brest voient une forte hausse de la demande de sitters de la part des touristes du grand rassemblement maritime.",
           "tipEs": "Reserva al menos 72 horas con antelación en julio–agosto, los años de las Fêtes Maritimes de Brest ven un fuerte aumento de la demanda de cuidadores por parte de los turistas del gran encuentro marítimo.",
           "tipPt": "Reserva pelo menos 72 horas com antecedência em julho–agosto, os anos das Fêtes Maritimes de Brest veem um forte aumento da procura de sitters por parte dos turistas do grande encontro marítimo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brest+France"
+          "googleMapsUrl": "https://maps.google.com/?q=Brest+France",
+          "descriptionDe": "Holidog ist die führende französische Plattform für Haustierbetreuung mit 15 Jahren Erfahrung und über 670 aktiven Sittern für die Region Brest. Zu den Servicearten gehören Unterbringung in Gastfamilien, Haustierbetreuung zu Hause, tägliche Katzenbesuche und Hundeausführung. Alle Sitter werden von der Plattform geprüft und versichert.",
+          "petPolicyDe": "Hunde, Katzen und Kleinsäuger; geprüft und versichert",
+          "tipDe": "Buchen Sie im Juli und August mindestens 72 Stunden im Voraus, in den Jahren der Fêtes Maritimes von Brest steigt die Nachfrage nach Sittern durch Touristen, die das Hafenfest besuchen, deutlich an."
         },
         {
           "name": "Animaute Brest",
@@ -590,7 +680,10 @@
           "tipFr": "Filtrez les sitters par quartier sur la page de recherche Animaute, un sitter à Saint-Marc peut emmener votre chien directement au Vallon du Stang-Alar sans transport en commun.",
           "tipEs": "Filtra los cuidadores por barrio en la página de búsqueda Animaute, un cuidador en Saint-Marc puede llevar a tu perro directamente al Vallon du Stang-Alar sin transporte público.",
           "tipPt": "Filtra os cuidadores por bairro na página de pesquisa Animaute, um cuidador em Saint-Marc pode levar o cão diretamente ao Vallon du Stang-Alar sem transporte público.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brest+France"
+          "googleMapsUrl": "https://maps.google.com/?q=Brest+France",
+          "descriptionDe": "Animaute ist ein landesweites Netzwerk von Haustiersittern, gegründet von einem Tierarzt, mit rund 200.000 geprüften Sittern in ganz Frankreich und guter Abdeckung in den Vierteln Saint-Marc, Saint-Pierre, Lambezellec und Recouvrance in Brest. Die Preise für Hundeausführer beginnen bei etwa 6–10 € pro Spaziergang zuzüglich Plattformgebühr und integrierter Versicherung.",
+          "petPolicyDe": "Hunde, Katzen und Kleinsäuger; von der Plattform geprüft",
+          "tipDe": "Filtern Sie Sitter nach Stadtviertel auf der Animaute-Suchseite, ein Sitter aus Saint-Marc kann Ihren Hund direkt zum Vallon du Stang-Alar bringen, ohne öffentliche Verkehrsmittel zu benötigen."
         },
         {
           "name": "Emprunte Mon Toutou Brest",
@@ -610,9 +703,15 @@
           "tipFr": "Le réseau fonctionne mieux pour des visites courtes d'une demi-journée, les bénévoles n'assurent pas de nuit donc prévoyez une réservation Holidog ou Animaute payante pour une soirée libre.",
           "tipEs": "La red funciona mejor para visitas cortas de media jornada, los voluntarios no aseguran noches por lo que prevé una reserva Holidog o Animaute de pago si necesitas una velada libre.",
           "tipPt": "A rede funciona melhor para visitas curtas de meio dia, os voluntários não asseguram noites por isso prevê uma reserva Holidog ou Animaute paga se precisares de uma noite livre.",
-          "googleMapsUrl": "https://maps.google.com/?q=Brest+France"
+          "googleMapsUrl": "https://maps.google.com/?q=Brest+France",
+          "descriptionDe": "Ein kostenloses ehrenamtliches Netzwerk für Hundesitter, in dem Hundeliebhaber aus Brest den Hund eines örtlichen Besitzers für einen Spaziergang ausleihen und umgekehrt, oder den Hund eines Touristen für einen Nachmittag betreuen, während dieser Océanopolis oder die Inseln besucht. Alle Sitter sind über die Plattform versichert.",
+          "petPolicyDe": "Nur Hunde; ehrenamtliches System, alle Sitter versichert",
+          "tipDe": "Das Netzwerk eignet sich am besten für kurze Halbtagesbesuche, die Ehrenamtlichen bieten keine Übernachtungen an, planen Sie also eine bezahlte Buchung über Holidog oder Animaute, wenn Sie abends ausgehen möchten."
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung und Hundeausführer in Brest",
+      "introDe": "Brest verfügt über Hunderte registrierte Haustiersitter und Hundeausführer über die landesweiten Plattformen Holidog, Animaute und Emprunte mon Toutou sowie das internationale Rover-Netzwerk. Nutzen Sie diese für den Tag, wenn Sie Océanopolis besuchen, die Penn-ar-Bed-Fähre ohne Ihren Hund nehmen oder eine längere Wanderung auf einem Abschnitt des GR34 unternehmen möchten, dessen Untergrund für ältere Tiere ungeeignet ist.",
+      "faqsDe": []
     }
   }
 }

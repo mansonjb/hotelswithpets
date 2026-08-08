@@ -37,7 +37,11 @@
           "descriptionPt": "Um bistro da Europa Central no eixo principal da al. Zwyciestwa, entre o centro e Orlowo, listado no diretório pet-friendly polaco zpsem.pl. Os cães são bem-vindos na esplanada e na sala interior fora das horas de maior serviço. A ementa é polaco-austríaca clássica: pierogi, schnitzel, sopas, com uma boa seleção de cervejas artesanais polacas.",
           "petPolicyPt": "Cães bem-vindos na esplanada todo o ano e no interior fora das horas de maior serviço. Taças de água a pedido",
           "mustTryPt": "Pierogi ruskie, pilsner artesanal polaca",
-          "tipPt": "Reserva uma mesa de canto aos domingos, as famílias polacas enchem a sala para o longo almoço dominical"
+          "tipPt": "Reserva uma mesa de canto aos domingos, as famílias polacas enchem a sala para o longo almoço dominical",
+          "descriptionDe": "Ein mitteleuropäisches Bistro an der Hauptachse al. Zwycięstwa zwischen der Innenstadt und Orłowo, gelistet im polnischen hundefreundlichen Verzeichnis zpsem.pl. Hunde sind auf der Terrasse und außerhalb der Stoßzeiten auch im Innenraum willkommen. Die Karte ist klassisch polnisch-österreichisch: Pierogi, Schnitzel, Suppen, dazu eine gute Auswahl polnischer Craft-Biere.",
+          "petPolicyDe": "Hunde ganzjährig auf der Terrasse und außerhalb der Stoßzeiten auch drinnen willkommen. Wassernäpfe auf Wunsch",
+          "mustTryDe": "Pierogi ruskie, polnisches Craft-Pils",
+          "tipDe": "Sonntags einen Ecktisch reservieren, polnische Familien füllen den Speiseraum zum langen Sonntagsmittagessen"
         },
         {
           "name": "Blizej Gdynia",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um café-bistro descontraído, aberto o dia todo, na praça Kaszubski, no coração do centro modernista de Gdynia, a três quarteirões de Skwer Kosciuszki e dos navios-museu. Listado no zpsem.pl como abertamente pet-friendly. Cães bem-vindos tanto no interior como na pequena esplanada estival vedada, com água e uma guloseima trazidas a pedido. A ementa traz especialidades de pequeno-almoço polaco, sandes, sumos frescos e uma longa carta de café.",
           "petPolicyPt": "Cães bem-vindos no interior e na esplanada exterior. Água e guloseima para cão trazidas a pedido",
           "mustTryPt": "Jajecznica polaca de pequeno-almoço, café de especialidade",
-          "tipPt": "Melhor às 09h00 num dia útil, com a azáfama matinal dos passeadores habituais, é quando o café se mostra mais acolhedor"
+          "tipPt": "Melhor às 09h00 num dia útil, com a azáfama matinal dos passeadores habituais, é quando o café se mostra mais acolhedor",
+          "descriptionDe": "Ein entspanntes Ganztagscafé und Bistro am Kaszubski-Platz im Herzen der modernistischen Innenstadt von Gdynia, drei Blocks vom Skwer Kosciuszki und den Museumsschiffen entfernt. Bei zpsem.pl als offen haustierfreundlich gelistet. Hunde sind sowohl drinnen als auch auf der kleinen eingezäunten Sommerterrasse willkommen, Wasser und ein Leckerli werden auf Wunsch gebracht. Die Karte bietet polnische Frühstücksklassiker, Sandwiches, frische Säfte und eine lange Kaffeeliste.",
+          "petPolicyDe": "Hunde drinnen und auf der Außenterrasse willkommen. Wasser und Hundeleckerli auf Wunsch",
+          "mustTryDe": "Polnisches Jajecznica-Frühstück, Spezialitätenkaffee",
+          "tipDe": "Am besten um 09:00 Uhr an einem Wochentag, dann ist der morgendliche Andrang der Hundebesitzer-Stammgäste da, und das Café ist am gastfreundlichsten"
         }
       ],
       "tipsEn": [
@@ -127,6 +135,18 @@
           "q": "Espera-se gorjeta em Gdynia?",
           "a": "Cerca de 10 por cento é habitual, os terminais de pagamento costumam sugerir 10/15/20 por cento."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Gdynia",
+      "introDe": "Gdynias Gastronomieszene teilt sich zwischen der modernistischen Innenstadt rund um den Skwer Kosciuszki und der Strandpromenade Bulwar Nadmorski. In der Trójmiasto (Dreistadt) ist es in Polen üblich, offen hundefreundlich zu sein: Die meisten Terrassencafés und mehrere Innenlokale heißen angeleinte Hunde aktiv willkommen, Wassernäpfe werden auf Wunsch gebracht. Das gemeinschaftlich geführte polnische Verzeichnis zpsem.pl ist die beste laufende Liste verifizierter hundefreundlicher Lokale. Der zuverlässigste Sommer-Cluster liegt entlang des Bulwar Nadmorski und rund um den Pier von Orłowo, im Winter lohnen sich die beheizten Cafés in der Innenstadt.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Gdynia im Innenbereich erlaubt?",
+          "a": "Oft ja. Die polnische Trójmiasto ist offen haustierfreundlich, und viele Innenlokale lassen angeleinte Hunde herein, an der Tür vorher nachfragen."
+        },
+        {
+          "q": "Wird in Gdynia Trinkgeld erwartet?",
+          "a": "10 Prozent sind üblich, Kartenterminals bieten meist eine Auswahl von 10/15/20 Prozent an."
+        }
       ]
     },
     "parks": {
@@ -161,7 +181,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Kamienna+Gora+Gdynia",
           "descriptionPt": "Uma colina de 52 m que se ergue diretamente sobre a malha do centro, coroada por uma cruz de 1949 e uma esplanada panorâmica aberta sobre o porto, os navios-museu, as Sea Towers e a baía de Gdansk. Acede-se a pé pela rua Sw. Piotra ou por um funicular gratuito a partir da rua 3 Maja. Cães com trela bem-vindos em todos os trilhos e no funicular.",
           "petPolicyPt": "Cães com trela bem-vindos em todos os trilhos e na cabina do funicular gratuito",
-          "tipPt": "Calcula a subida para o pôr do sol, a luz de poente sobre as Sea Towers e os navios-museu é excecional de junho a agosto"
+          "tipPt": "Calcula a subida para o pôr do sol, a luz de poente sobre as Sea Towers e os navios-museu é excecional de junho a agosto",
+          "descriptionDe": "Ein 52 m hoher Hügel direkt über dem Raster der Innenstadt, gekrönt von einem Kreuz aus dem Jahr 1949 und einer offenen Aussichtsterrasse über den Hafen, die Museumsschiffe, die Sea Towers und die Danziger Bucht. Zu Fuß über die Straße Św. Piotra oder mit der kostenlosen Standseilbahn ab der Straße 3 Maja erreichbar. Angeleinte Hunde auf allen Wegen und in der Standseilbahn willkommen.",
+          "petPolicyDe": "Angeleinte Hunde auf allen Wegen und in der kostenlosen Standseilbahnkabine willkommen",
+          "tipDe": "Den Aufstieg auf den Sonnenuntergang legen, das Westlicht auf den Sea Towers und den Museumsschiffen ist von Juni bis August außergewöhnlich"
         },
         {
           "name": "Bulwar Nadmorski (seafront promenade)",
@@ -188,7 +211,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bulwar+Nadmorski+Gdynia",
           "descriptionPt": "Um passeio pavimentado de 1,5 km que vai de Skwer Kosciuszki para sul, ao longo das arribas, até ao início da praia de Redlowo, dedicado ao compositor Feliks Nowowiejski. Largo, plano, pet-friendly e frequentado por locais que passeiam cães ao pôr do sol. Liga os navios-museu, no extremo norte, ao trilho das arribas que segue para Orlowo.",
           "petPolicyPt": "Cães com trela bem-vindos todo o ano em todo o passeio",
-          "tipPt": "Combina com um passeio pelo Cais Sul para ver os navios-museu, o circuito tem 3 km de ida e volta"
+          "tipPt": "Combina com um passeio pelo Cais Sul para ver os navios-museu, o circuito tem 3 km de ida e volta",
+          "descriptionDe": "Eine 1,5 km lange asphaltierte Promenade, die vom Skwer Kosciuszki entlang der Klippen bis zum Beginn des Strandes von Redłowo führt, benannt nach dem Komponisten Feliks Nowowiejski. Breit, flach, hundefreundlich und bei Sonnenuntergang stark von Einheimischen mit Hund frequentiert. Verbindet die Museumsschiffe am nördlichen Ende mit dem Klippenweg, der weiter nach Orłowo führt.",
+          "petPolicyDe": "Angeleinte Hunde ganzjährig auf der gesamten Promenade willkommen",
+          "tipDe": "Mit einem Spaziergang auf dem Südpier zu den Museumsschiffen kombinieren, die Runde ist 3 km lang"
         }
       ],
       "tipsEn": [
@@ -251,6 +277,18 @@
         {
           "q": "O meu cão pode usar o funicular de Kamienna Gora?",
           "a": "Sim, os cães com trela são admitidos na cabina do funicular gratuito."
+        }
+      ],
+      "titleDe": "Die besten Parks und Freilaufbereiche in Gdynia",
+      "introDe": "Gdynia liegt eingebettet in die bewaldeten Hänge des Dreistadt-Landschaftsparks (Trójmiejski Park Krajobrazowy), eines 200 Quadratkilometer großen, bewaldeten Höhenzugs, der die Stadt im Westen umgibt und einige der einfachsten Waldwanderungen mit Leine in der Trójmiasto bietet. Innerhalb der Stadtgrenzen sind der Aussichtshügel Kamienna Góra über der Innenstadt und die Strandpromenade Bulwar Nadmorski die beliebtesten täglichen Hunderunden. Der Hundestrand Kolibki südlich von Orłowo umfasst ein eingezäuntes Agility-Areal mit Sprüngen, Tunneln und Slalomstangen, die nächstgelegene formelle Freilaufanlage.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Gdynia einen Freilauf-Hundepark?",
+          "a": "Ja, der Hundestrand Kolibki südlich von Orłowo (Zugänge 18 bis 19) verfügt über ein eingezäuntes Agility-Areal mit Sprüngen, Tunneln und Slalomstangen."
+        },
+        {
+          "q": "Darf mein Hund die Standseilbahn am Kamienna Góra benutzen?",
+          "a": "Ja, angeleinte Hunde sind in der kostenlosen Kabine der Standseilbahn zugelassen."
         }
       ]
     },
@@ -333,6 +371,18 @@
           "q": "Posso levar o meu cão no SKM para Gdansk?",
           "a": "Sim, mesma regra. O SKM para Gdansk Glowny demora cerca de 35 minutos, com frequência de 7 a 15 minutos."
         }
+      ],
+      "titleDe": "Mit Haustier unterwegs in Gdynia",
+      "introDe": "Gdynia ist Teil des öffentlichen Verkehrsnetzes der Trójmiasto (Dreistadt), ZKM Gdynia betreibt Busse und Oberleitungsbusse innerhalb der Stadt, und die SKM-Bahn verkehrt alle 7 Minuten nach Sopot (8 Min.) und Danzig (35 Min.). Die polnische landesweite Praxis im öffentlichen Nahverkehr der Trójmiasto ist großzügig gegenüber Hunden: Kleine Hunde in der Transportbox fahren kostenlos, größere angeleinte Hunde mit normalem Fahrschein (etwa 4 PLN, ca. 1 EUR) und Maulkorb. Für die SKM-Bahn gilt dieselbe Regel. Der Fernverkehr nach Warschau wird von PKP Intercity betrieben, dort ist für Hunde jeder Größe ein 'Tierticket' (50 Prozent des Erwachsenenfahrpreises) erforderlich.",
+      "faqsDe": [
+        {
+          "q": "Brauchen Hunde im öffentlichen Verkehr von Gdynia einen Fahrschein?",
+          "a": "Kleine Hunde in einer geschlossenen Transportbox fahren kostenlos. Größere angeleinte Hunde brauchen einen einfachen normalen Fahrschein (etwa 4 PLN) und einen Maulkorb."
+        },
+        {
+          "q": "Darf ich meinen Hund mit der SKM nach Danzig mitnehmen?",
+          "a": "Ja, dieselbe Regel gilt. Die SKM nach Danzig Główny braucht etwa 35 Minuten und verkehrt alle 7 bis 15 Minuten."
+        }
       ]
     },
     "beaches": {
@@ -365,7 +415,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Orlowo+Dog+Beach+Gdynia",
           "descriptionPt": "Um troço de 100 m de areia selvagem designado como zona de banho canino todo o ano, em Orlowo, entre as entradas 18 e 19 da zona balnear sinalizada. Aberto a cães sem trela sob responsabilidade do dono, com a arriba acima e o cais de Orlowo a 400 m a norte, é um dos recantos de praia canina mais pitorescos do Báltico polaco.",
           "petPolicyPt": "Sem trela permitido sob responsabilidade do dono todo o ano. Os cães devem ser sociáveis e responder à chamada",
-          "tipPt": "Chega pelo autocarro 21, 26 ou 31 até Orlowska e caminha 5 min a partir da paragem, seguindo a beira da arriba para sul"
+          "tipPt": "Chega pelo autocarro 21, 26 ou 31 até Orlowska e caminha 5 min a partir da paragem, seguindo a beira da arriba para sul",
+          "descriptionDe": "Ein 100 m langer, naturbelassener Sandabschnitt, der ganzjährig als Hundebadebereich in Orłowo ausgewiesen ist, zwischen den markierten Badezonen-Zugängen 18 und 19. In Eigenverantwortung des Halters ohne Leine zugänglich, mit der Steilküste darüber und dem 400 m nördlich gelegenen Pier von Orłowo gehört er zu den landschaftlich schönsten Hundestrandecken an der polnischen Ostsee.",
+          "petPolicyDe": "Ganzjährig Freilauf in Eigenverantwortung des Halters erlaubt. Hunde müssen sozialisiert und stimmgeführt sein",
+          "tipDe": "Mit Bus 21, 26 oder 31 bis Orłowska anreisen, 5 Minuten vom Halt entfernt der Klippenkante folgend nach Süden laufen"
         },
         {
           "name": "Kolibki Dog Beach (with agility area)",
@@ -390,7 +443,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Kolibki+Dog+Beach+Gdynia",
           "descriptionPt": "A maior praia canina dedicada de Gdynia, no lado de Kolibki, a sul de Orlowo. Dispõe de um recinto de agility vedado com saltos, túneis e slaloms mesmo ao lado da areia, além de um amplo troço de praia sem trela. A estrutura de praia canina mais completa da costa báltica polaca.",
           "petPolicyPt": "Sem trela na areia e dentro do recinto de agility, sob responsabilidade do dono. Recomenda-se certificado de vacinação",
-          "tipPt": "Estaciona no pequeno parque junto à rua Bernadowska, a entrada da praia surge sinalizada como Plaza dla psow"
+          "tipPt": "Estaciona no pequeno parque junto à rua Bernadowska, a entrada da praia surge sinalizada como Plaza dla psow",
+          "descriptionDe": "Der größte ausgewiesene Hundestrand Gdynias, auf der Kolibki-Seite südlich von Orłowo. Verfügt über ein eingezäuntes Agility-Areal mit Sprüngen, Tunneln und Slalomstangen direkt neben dem Sand sowie einen breiten Freilaufstrandabschnitt. Die vollständigste Hundestrand-Einrichtung an der polnischen Ostseeküste.",
+          "petPolicyDe": "Freilauf am Strand und im eingezäunten Agility-Areal, Eigenverantwortung des Halters. Impfnachweis empfohlen",
+          "tipDe": "Auf dem kleinen Parkplatz an der Straße Bernadowska parken, der Strandzugang ist mit 'Plaża dla psów' ausgeschildert"
         }
       ],
       "tipsEn": [
@@ -454,6 +510,18 @@
           "q": "É permitido andar sem trela nas praias caninas de Gdynia?",
           "a": "Sim, em ambas as praias caninas de Orlowo e Kolibki, sob responsabilidade do dono. Vacinas em dia."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Gdynia",
+      "introDe": "Gdynia wendet an seinen 13 km Ostseeküste eine klare Zweiteilung an: An den Hauptbadestränden (Śródmieście, Redłowo, Orłowo Mitte, Babie Doły) sind Hunde vom 1. Mai bis 30. September verboten, außerhalb dieses Zeitraums sind angeleinte Hunde willkommen. Zwei eigene Hundestrände sind ganzjährig geöffnet: der 100 m lange Hundestrand von Orłowo zwischen den Zugängen 18 und 19 in Orłowo sowie der größere Hundestrand Kolibki weiter südlich, der ein eingezäuntes Agility-Areal mit Sprüngen, Tunneln und Slalomstangen umfasst. Die Anlage in Kolibki ist die am besten ausgestattete Hundestrand-Einrichtung an der polnischen Ostseeküste.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund im Sommer an den Strand von Gdynia mitnehmen?",
+          "a": "Nur zu den ausgewiesenen Hundestränden in Orłowo (zwischen den Zugängen 18 und 19) oder Kolibki. An den Hauptbadestränden sind Hunde vom 1. Mai bis 30. September verboten."
+        },
+        {
+          "q": "Ist Freilauf an den Hundestränden von Gdynia erlaubt?",
+          "a": "Ja, an beiden Hundestränden, Orłowo und Kolibki, in Eigenverantwortung des Halters. Die Impfungen sollten aktuell sein."
+        }
       ]
     },
     "vets": {
@@ -487,7 +555,9 @@
           "tipEs": "Llama antes por la noche, el veterinario de guardia puede estar en cirugia y la espera puede ser de 30 minutos",
           "googleMapsUrl": "https://maps.google.com/?q=New+Vet+24h+Gdynia",
           "descriptionPt": "A principal clínica veterinária 24 horas de Gdynia, na rua Chwaszczynska, no bairro de Maly Kack. Trata pequenos animais, cirurgia, vacinas, dentisteria e as urgências fora de horas que, de outro modo, obrigariam a uma viagem até à LuxVet. A equipa fala polaco, inglês e alemão.",
-          "tipPt": "Liga antes durante a noite, o veterinário de serviço pode estar em cirurgia e a espera pode chegar aos 30 minutos"
+          "tipPt": "Liga antes durante a noite, o veterinário de serviço pode estar em cirurgia e a espera pode chegar aos 30 minutos",
+          "descriptionDe": "Gdynias wichtigste 24-Stunden-Tierklinik, gelegen an der Straße Chwaszczyńska im Stadtteil Mały Kack. Behandelt Kleintiere, Chirurgie, Impfungen, Zahnmedizin und die Notfälle außerhalb der Öffnungszeiten, die sonst eine Fahrt zu LuxVet erfordern würden. Das Personal spricht Polnisch, Englisch und Deutsch.",
+          "tipDe": "Nachts vorher anrufen, der diensthabende Tierarzt kann im OP sein, die Wartezeit kann bis zu 30 Minuten betragen"
         },
         {
           "name": "Gdynia Veterinary Hospital (GSWet, LuxVet group)",
@@ -513,7 +583,9 @@
           "tipEs": "Lleva todos los estudios de imagen y laboratorio de tu veterinario habitual, el hospital los digitalizara e integrara a la llegada",
           "googleMapsUrl": "https://maps.google.com/?q=Gdynia+Veterinary+Hospital+Kielecka",
           "descriptionPt": "Um hospital veterinário 24 horas supervisionado, a principal instalação de referência da costa báltica polaca, equipado com TAC, dois blocos operatórios, laboratório próprio e referenciações de especialidade em cirurgia ortopédica, cardiologia, endoscopia e dermatologia. Faz parte do grupo LuxVet, a maior rede de especialidade da Polónia.",
-          "tipPt": "Leva todos os exames de imagem e de laboratório do teu veterinário habitual, o hospital digitaliza-os e integra-os à chegada"
+          "tipPt": "Leva todos os exames de imagem e de laboratório do teu veterinário habitual, o hospital digitaliza-os e integra-os à chegada",
+          "descriptionDe": "Ein durchgehend betreutes 24-Stunden-Tierkrankenhaus, die führende Überweisungseinrichtung an der polnischen Ostseeküste, ausgestattet mit CT-Scanner, zwei Operationssälen, hauseigenem Labor und Überweisungen an Spezialisten für orthopädische Chirurgie, Kardiologie, Endoskopie und Dermatologie. Teil der LuxVet-Gruppe, dem größten Fachnetzwerk Polens.",
+          "tipDe": "Alle Bild- und Laborunterlagen vom Haustierarzt mitbringen, das Krankenhaus scannt und integriert sie bei der Ankunft"
         }
       ],
       "tipsEn": [
@@ -576,6 +648,18 @@
         {
           "q": "O que acontece se o meu cão precisar de cirurgia especializada?",
           "a": "O Hospital Veterinário de Gdynia (grupo LuxVet) é a principal referência do Báltico polaco, com TAC e cirurgiões especialistas. Leva os exames de imagem."
+        }
+      ],
+      "titleDe": "Tierärzte und Notfalltierärzte in Gdynia",
+      "introDe": "Gdynia bietet die beste tierärztliche Versorgung an der polnischen Ostseeküste, mit zwei eigenständigen 24-Stunden-Einrichtungen. Die Klinika Weterynaryjna New Vet 24h in der Chwaszczyńska ist die primäre allgemeine 24/7-Notfallklinik. Das Gdynia Veterinary Hospital (GSWet), Teil der LuxVet-Gruppe in der ul. Kielecka, betreibt ein durchgehend betreutes 24-Stunden-Krankenhaus mit CT-Scanner, zwei Operationssälen und Überweisungen an Spezialisten für Orthopädie, Kardiologie und Dermatologie. Beide Kliniken betreuen englischsprachige Kunden ohne vorherige Ankündigung und akzeptieren EU-Heimtierausweise. Diese Kombination macht Gdynia zu einer ungewöhnlich sicheren Ostseebasis für Hunde mit chronischen Erkrankungen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Gdynia einen 24-Stunden-Tierarzt?",
+          "a": "Ja, zwei. New Vet 24h in der Chwaszczyńska 22/5 (+48 58 600 42 10) und das Gdynia Veterinary Hospital GSWet in der Kielecka 22, beide rund um die Uhr geöffnet."
+        },
+        {
+          "q": "Was, wenn mein Hund eine spezialisierte Operation braucht?",
+          "a": "Das Gdynia Veterinary Hospital (LuxVet-Gruppe) ist die führende Überweisungsklinik an der polnischen Ostsee, mit CT-Scanner und spezialisierten Chirurgen. Bildgebende Unterlagen von zu Hause mitbringen."
         }
       ]
     },
@@ -656,6 +740,18 @@
           "q": "Como se compara Gdynia com Gdansk para cães?",
           "a": "Gdynia tem melhor infraestrutura de praia canina (Orlowo, Kolibki com agility) e melhor cobertura veterinária 24 horas. Gdansk tem mais atrações e a famosa praia canina de Sopot, a 15 min entre ambas de SKM."
         }
+      ],
+      "titleDe": "Wichtige Tipps für einen Besuch in Gdynia mit Hund",
+      "introDe": "Gdynia ist die modernistische Hafenhälfte der polnischen Trójmiasto (zusammen mit Danzig und Sopot) und eine der am leichtesten mit Hund zu bereisenden polnischen Städte. Die wichtigsten Fakten: zwei ganzjährige eigene Hundestrände, zwei 24-Stunden-Notfalltierärzte, großzügige Haustierregeln im öffentlichen Nahverkehr der Trójmiasto und ein Höhenzug im Dreistadt-Landschaftspark, der 10 Minuten vom Zentrum entfernt 200 Quadratkilometer Waldwanderungen mit Leine bietet. Die meisten Sehenswürdigkeiten sind maritime Freiluftattraktionen (Museumsschiffe, Yachthafen, Pier von Orłowo), die mit Hund gut zu Fuß erreichbar sind. Die sommerlichen Strandbeschränkungen sind strenger als in Sopot, daher Hundestrandzeit lieber in Orłowo oder Kolibki einplanen statt am Hauptbadestrand.",
+      "faqsDe": [
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch in Gdynia mit Hund?",
+          "a": "Mai bis September für warmes Wetter und vollen Fährbetrieb, allerdings sind die Hauptstrände bis Oktober für Hunde gesperrt. Oktober bis April bietet angeleinten Zugang zu allen Stränden und einen ruhigeren Bulwar."
+        },
+        {
+          "q": "Wie schneidet Gdynia im Vergleich zu Danzig für Hunde ab?",
+          "a": "Gdynia hat die bessere Hundestrand-Infrastruktur (Orłowo, Kolibki mit Agility) und die bessere 24-Stunden-Tierarztversorgung. Danzig hat mehr Sehenswürdigkeiten und den berühmten Hundestrand von Sopot, mit der SKM 15 Minuten entfernt."
+        }
       ]
     },
     "attractions": {
@@ -686,7 +782,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Skwer+Kosciuszki+Gdynia",
           "descriptionPt": "A principal praça pública de Gdynia, mais um amplo bulevar pedonal, que conduz ao Cais Sul, onde o veleiro de três mastros Dar Pomorza, navio-escola, e o contratorpedeiro da Segunda Guerra Mundial ORP Blyskawica estão atracados permanentemente como navios-museu. Rodeada de prédios modernistas dos anos 1930 e do antigo edifício de comando da Marinha polaca. Cães bem-vindos em toda a praça e no exterior do cais, mas não dentro dos navios.",
           "petPolicyPt": "Cães com trela bem-vindos no Skwer Kosciuszki e ao longo de todo o exterior do Cais Sul. Sem cães dentro dos navios-museu Dar Pomorza ou ORP Blyskawica",
-          "tipPt": "Percorre todo o cais à hora dourada, os canhões de bronze do Blyskawica captam o pôr do sol na perfeição"
+          "tipPt": "Percorre todo o cais à hora dourada, os canhões de bronze do Blyskawica captam o pôr do sol na perfeição",
+          "descriptionDe": "Gdynias zentraler öffentlicher Platz, eher ein breiter Fußgängerboulevard, führt zum Südpier, wo das dreimastige Segelschulschiff Dar Pomorza und der Zweite-Weltkriegs-Zerstörer ORP Błyskawica dauerhaft als Museumsschiffe vor Anker liegen. Umgeben von modernistischen Wohnhäusern aus den 1930er-Jahren und dem ehemaligen Kommandogebäude der polnischen Marine. Hunde sind auf dem gesamten Platz und dem Piergelände außen willkommen, nicht an Bord der Schiffe.",
+          "petPolicyDe": "Angeleinte Hunde auf dem Skwer Kosciuszki und entlang des gesamten Südpier-Außenbereichs willkommen. Keine Hunde an Bord der Museumsschiffe Dar Pomorza oder ORP Błyskawica",
+          "tipDe": "Zur goldenen Stunde die ganze Piertour laufen, die Bronzekanonen der Błyskawica fangen den Sonnenuntergang perfekt ein"
         },
         {
           "name": "Orlowo cliffs and wooden pier",
@@ -708,7 +807,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Orlowo+Pier+Gdynia",
           "descriptionPt": "O cais de madeira de 180 m de Orlowo adentra-se na baía de Gdansk a partir das dramáticas arribas de Orlowo, um ponto alto natural que é um ícone da Tricidade desde o século XIX. A entrada é gratuita, o trilho da arriba corre pelo topo para apreciar as vistas, e o próprio cais fica totalmente aberto a cães com trela. A Praia Canina de Orlowo fica 400 m a sul do cais.",
           "petPolicyPt": "Cães com trela bem-vindos em todo o cais e no trilho do topo da arriba durante todo o ano",
-          "tipPt": "Combina cais, trilho da arriba e Praia Canina de Orlowo num circuito com trela de 90 minutos, o trilho da arriba é íngreme em alguns pontos"
+          "tipPt": "Combina cais, trilho da arriba e Praia Canina de Orlowo num circuito com trela de 90 minutos, o trilho da arriba é íngreme em alguns pontos",
+          "descriptionDe": "Der 180 m lange Holzpier in Orłowo erstreckt sich unterhalb der eindrucksvollen Klippen von Orłowo in die Danziger Bucht, ein natürlicher Höhepunkt, der seit dem 19. Jahrhundert ein Wahrzeichen der Trójmiasto ist. Der Eintritt ist kostenlos, der Klippenweg verläuft oben entlang mit Ausblick, und der Pier selbst ist für angeleinte Hunde vollständig zugänglich. Der Hundestrand von Orłowo liegt 400 m südlich des Piers.",
+          "petPolicyDe": "Angeleinte Hunde ganzjährig auf dem gesamten Pier und dem Klippenweg willkommen",
+          "tipDe": "Pier, Klippenweg und den Hundestrand von Orłowo zu einer 90-minütigen Runde mit Leine kombinieren, der Klippenweg ist stellenweise steil"
         }
       ],
       "tipsEn": [
@@ -771,6 +873,18 @@
         {
           "q": "Os cães são admitidos no Skywalk das Sea Towers?",
           "a": "Não. O observatório do piso 36 não admite cães. A marina e o Bulwar Nadmorski, ao pé das torres, admitem cães com trela."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Gdynia",
+      "introDe": "Gdynias bekannteste Sehenswürdigkeiten sind maritime Freiluftattraktionen: der Skwer Kosciuszki und der Südpier mit seinen zwei Museumsschiffen (dem dreimastigen Segelschulschiff Dar Pomorza und dem Zweiten-Weltkriegs-Zerstörer ORP Błyskawica), die Klippen von Orłowo mit dem 180 m langen Holzpier sowie die modernistischen Sea-Towers-Hochhäuser über dem Yachthafen. Die meisten Außenbereiche sind mit angeleintem Hund begehbar. Die Innenräume der Museumsschiffe (Dar Pomorza, Błyskawica) und die Aussichtsplattform Sea Towers Skywalk lassen keine Hunde zu. Auch das Aquarium von Gdynia am Fuß des Südpiers lässt keine Hunde zu.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund mit an Bord der Dar Pomorza oder der ORP Błyskawica nehmen?",
+          "a": "Nein. Keines der beiden Museumsschiffe lässt Hunde zu. Der Platz Skwer Kosciuszki und die Außenbereiche des Südpiers sind vollständig hundefreundlich."
+        },
+        {
+          "q": "Sind Hunde auf dem Sea Towers Skywalk erlaubt?",
+          "a": "Nein. Die Aussichtsplattform im 36. Stock lässt keine Hunde zu. Der Yachthafen und der Bulwar Nadmorski am Fuß der Türme sind mit Leine hundefreundlich."
         }
       ]
     },
@@ -842,6 +956,18 @@
         {
           "q": "Onde deixo o meu cão em pensão noturna em Gdynia?",
           "a": "Várias pensões funcionam a oeste da cidade. O hospital LuxVet pode dar uma recomendação verificada."
+        }
+      ],
+      "titleDe": "Haustierbetreuung und Gassi-Service in Gdynia",
+      "introDe": "Inhalte folgen in Kürze.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Plattformen für Haustierbetreuung in Gdynia?",
+          "a": "Ja, die polnischsprachigen Plattformen DogSitter.pl und Petspy verfügen über verifizierte Betreuer in der gesamten Trójmiasto, einschließlich Gdynia."
+        },
+        {
+          "q": "Wo bringe ich meinen Hund in Gdynia über Nacht unter?",
+          "a": "Mehrere Unterbringungseinrichtungen befinden sich westlich der Stadt. Das LuxVet-Krankenhaus kann eine geprüfte Empfehlung vermitteln."
         }
       ]
     }

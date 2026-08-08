@@ -37,7 +37,11 @@
           "descriptionPt": "Uma trattoria clássica de Riomaggiore, encaixada junto à pequena marina, que serve marisco lígure, trofie al pesto e anchovas a poucos passos dos barcos de pesca. As poucas mesas exteriores com vista para o porto são o sítio ideal para se instalar com um cão à trela.",
           "petPolicyPt": "Cães com trela bem-vindos nas mesas exteriores do porto",
           "mustTryPt": "Trofie al pesto, anchovas fritas",
-          "tipPt": "As mesas do porto são poucas, chegue cedo ou reserve no verão"
+          "tipPt": "As mesas do porto são poucas, chegue cedo ou reserve no verão",
+          "descriptionDe": "Eine klassische Trattoria in Riomaggiore, direkt neben dem kleinen Hafen gelegen, mit ligurischen Meeresfrüchten, Trofie al Pesto und Sardellen, nur wenige Schritte von den Fischerbooten entfernt. Die wenigen Außentische mit Blick auf den Hafen sind der perfekte Platz, um sich mit einem angeleinten Hund niederzulassen.",
+          "petPolicyDe": "Angeleinte Hunde an den Außentischen am Hafen willkommen",
+          "mustTryDe": "Trofie al Pesto, frittierte Sardellen",
+          "tipDe": "Die Tische am Hafen sind begrenzt, im Sommer also früh kommen oder vorab reservieren"
         },
         {
           "name": "Cappun Magru",
@@ -63,7 +67,11 @@
           "descriptionPt": "Uma minúscula e conceituada osteria na aldeia de Groppo, acima de Manarola, rodeada de vinhas e bem mais calma do que a marginal. Reserve para a esplanada íntima, onde um cão tranquilo com trela o pode acompanhar num jantar de degustação demorado.",
           "petPolicyPt": "Cães tranquilos com trela bem-vindos na esplanada (aconselha-se reserva)",
           "mustTryPt": "Cappon magro, vinho local Sciacchetrà",
-          "tipPt": "Fica em Groppo, acima de Manarola, a uma curta subida ou de transfer desde a estação"
+          "tipPt": "Fica em Groppo, acima de Manarola, a uma curta subida ou de transfer desde a estação",
+          "descriptionDe": "Eine winzige, gut bewertete Osteria im Weiler Groppo oberhalb von Manarola, umgeben von Weinbergen und deutlich ruhiger als die Uferpromenade. Für die intime Terrasse vorab reservieren, wo ein ruhiger, angeleinter Hund Sie zu einem gemütlichen Degustationsmenü am Abend begleiten kann.",
+          "petPolicyDe": "Wohlerzogene, angeleinte Hunde auf der Terrasse willkommen (Reservierung empfohlen)",
+          "mustTryDe": "Cappon Magro, lokaler Sciacchetrà-Wein",
+          "tipDe": "Liegt in Groppo oberhalb von Manarola, ein kurzer Fußweg bergauf oder eine Shuttlefahrt vom Bahnhof entfernt"
         },
         {
           "name": "A Piè de Mà",
@@ -89,7 +97,11 @@
           "descriptionPt": "Um bar-bistrô panorâmico situado na entrada da Via dell'Amore do lado de Riomaggiore, com uma esplanada ao ar livre virada para o mar, refeições leves, aperitivi e bebidas frescas. É uma paragem simples e descontraída para um cão à trela depois de um passeio pela costa.",
           "petPolicyPt": "Cães com trela bem-vindos na esplanada ao ar livre",
           "mustTryPt": "Aperitivo com vista de mar, focaccia",
-          "tipPt": "Combine-o com a reaberta Via dell'Amore, que os cães com trela podem percorrer"
+          "tipPt": "Combine-o com a reaberta Via dell'Amore, que os cães com trela podem percorrer",
+          "descriptionDe": "Eine Panoramabar am Ende der Via dell'Amore in Riomaggiore, mit einer zum Meer ausgerichteten Freiluftterrasse sowie leichten Gerichten, Aperitivi und kalten Getränken. Ein unkomplizierter Halt für einen angeleinten Hund nach einem Küstenspaziergang.",
+          "petPolicyDe": "Angeleinte Hunde auf der Freiluftterrasse willkommen",
+          "mustTryDe": "Aperitivo mit Meerblick, Focaccia",
+          "tipDe": "Gut kombinierbar mit der wiedereröffneten Promenade Via dell'Amore, die angeleinte Hunde begehen dürfen"
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "É difícil encontrar mesa com um cão no verão?",
           "a": "As esplanadas enchem depressa em julho e agosto. Chegue cedo, reserve se possível e prefira mesas com sombra ou jantares cedo."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in den Cinque Terre",
+      "introDe": "Auswärts essen mit Hund in den Cinque Terre folgt dem entspannten italienischen Brauch: Angeleinte, wohlerzogene Hunde sind an den Außenterrassen der meisten Trattorien und Bars in den fünf Dörfern willkommen, auch wenn die winzigen, steinernen Innenräume meist zu eng dafür sind. Das Personal bringt fast immer auf Wunsch einen Wassernapf, und die Dörfer sind mit kostenlosen öffentlichen Trinkbrunnen übersät, sodass es leicht ist, den Hund zwischen den Gängen kühl zu halten. Die drei unten genannten Adressen sind etablierte, wirklich hundetolerante Orte. Im Hochsommer empfiehlt sich ein schattiges Mittagessen oder ein frühes Abendessen statt der prallen Mittagssonne.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in Restaurants in den Cinque Terre mitnehmen?",
+          "a": "Ja, an den Außenterrassen. Angeleinte, ruhige Hunde sind an den meisten Terrassen in den fünf Dörfern willkommen, nach dem üblichen italienischen Brauch. Die Innenräume sind oft zu klein, also vorher fragen, bevor man hineingeht."
+        },
+        {
+          "q": "Bekommt mein Hund in Restaurants Wasser?",
+          "a": "Fast immer. Das Personal bringt auf Wunsch einen Napf, und kostenlose öffentliche Trinkbrunnen in jedem Dorf machen es leicht, den Hund mit Wasser zu versorgen."
+        },
+        {
+          "q": "Ist es im Sommer schwer, mit Hund einen Tisch zu bekommen?",
+          "a": "Die Terrassen füllen sich im Juli und August schnell. Früh kommen, wenn möglich reservieren und schattige Tische oder ein frühes Abendessen bevorzugen."
+        }
       ]
     },
     "parks": {
@@ -203,7 +231,11 @@
           "descriptionPt": "Um terraço relvado panorâmico no promontório logo a seguir a Manarola, com bancos, um pequeno parque infantil e uma das melhores vistas do pôr do sol sobre a aldeia. É um espaço aberto e fácil onde um cão com trela se pode esticar longe das ruelas cheias.",
           "petPolicyPt": "Cães com trela bem-vindos no jardim ao ar livre",
           "facilitiesPt": "Bancos, parque infantil, bar sazonal, vistas de mar",
-          "tipPt": "Chegue pela passadeira acima do porto; é mais calmo ao nascer do sol e ao fim da tarde"
+          "tipPt": "Chegue pela passadeira acima do porto; é mais calmo ao nascer do sol e ao fim da tarde",
+          "descriptionDe": "Eine begrünte Panoramaterrasse auf der Landzunge kurz hinter Manarola, mit Bänken, einem kleinen Spielplatz und einem der besten Sonnenuntergangsblicke über das Dorf. Ein einfacher, offener Ort, an dem sich ein angeleinter Hund abseits der überfüllten Gassen ausstrecken kann.",
+          "petPolicyDe": "Angeleinte Hunde im Freiluftgarten willkommen",
+          "facilitiesDe": "Bänke, Spielplatz, saisonale Bar, Meerblick",
+          "tipDe": "Über den kurzen Weg oberhalb des Hafens erreichbar; am ruhigsten bei Sonnenaufgang und am späten Nachmittag"
         },
         {
           "name": "Parco Nazionale delle Cinque Terre",
@@ -229,7 +261,11 @@
           "descriptionPt": "O próprio parque nacional é o grande espaço verde da região: vinhas em socalcos, bosques de azinheira e trilhos de falésia a ligar as aldeias. Os cães com trela são bem-vindos em todo o parque, e os trilhos interiores mais altos mantêm-se mais sombreados e frescos do que a rota costeira exposta.",
           "petPolicyPt": "Cães com trela bem-vindos em todos os trilhos (trela obrigatória pela fauna)",
           "facilitiesPt": "Trilhos CAI sinalizados, fontes nas aldeias, caminhos dos santuários",
-          "tipPt": "Os trilhos interiores dos santuários são mais sombreados e menos cheios do que o trilho azul costeiro"
+          "tipPt": "Os trilhos interiores dos santuários são mais sombreados e menos cheios do que o trilho azul costeiro",
+          "descriptionDe": "Der Nationalpark selbst ist die große Grünfläche der Region: Weinbergterrassen, Steineichenwälder und Klippenpfade, die die Dörfer verbinden. Angeleinte Hunde sind überall willkommen, und die höher gelegenen Inlandswege bleiben schattiger und kühler als die exponierte Küstenroute.",
+          "petPolicyDe": "Angeleinte Hunde auf allen Wegen willkommen (Leinenpflicht wegen Wildtieren)",
+          "facilitiesDe": "Markierte CAI-Wanderwege, Brunnen in den Dörfern, Wallfahrtspfade",
+          "tipDe": "Die Wallfahrtspfade im Inland sind schattiger und weniger überfüllt als der Küstenpfad Sentiero Azzurro"
         },
         {
           "name": "Levanto Seafront & Gardens",
@@ -255,7 +291,11 @@
           "descriptionPt": "Levanto, a vila plana de acesso logo a norte de Monterosso, tem uma longa marginal e jardins públicos à sombra de pinheiros bem mais suaves para as patas dos cães do que os degraus íngremes das aldeias. É o melhor sítio da zona para um passeio descontraído e plano, com acesso fácil à praia fora de época.",
           "petPolicyPt": "Cães com trela bem-vindos na marginal e nos jardins",
           "facilitiesPt": "Passeio plano pavimentado, sombra, bancos, praia próxima",
-          "tipPt": "Fique em Levanto se o seu cão tiver dificuldade com as centenas de degraus das aldeias"
+          "tipPt": "Fique em Levanto se o seu cão tiver dificuldade com as centenas de degraus das aldeias",
+          "descriptionDe": "Levanto, das flache Tor-Städtchen nördlich von Monterosso, hat eine lange Promenade und pinienbeschattete öffentliche Gärten, die für Hundepfoten deutlich schonender sind als die steilen Stufen der Dörfer. Der beste Ort in der Nähe für einen entspannten, ebenen Spaziergang und einen einfachen Strandzugang außerhalb der Saison.",
+          "petPolicyDe": "Angeleinte Hunde auf der Promenade und in den Gärten willkommen",
+          "facilitiesDe": "Flacher gepflasterter Weg, Schatten, Bänke, Strand in der Nähe",
+          "tipDe": "In Levanto übernachten, wenn Ihr Hund mit den Hunderten Stufen der Dörfer Probleme hat"
         }
       ],
       "tipsEn": [
@@ -335,6 +375,22 @@
           "q": "Os trilhos são adequados para cães?",
           "a": "Os cães com trela são bem-vindos nos trilhos do parque, mas muitos são íngremes, estreitos e muito quentes no verão. Escolha rotas interiores mais sombreadas e vá na primavera ou no outono."
         }
+      ],
+      "titleDe": "Parks & Grünflächen in den Cinque Terre",
+      "introDe": "Die Cinque Terre haben keinen eingezäunten städtischen Hundepark, denn das gesamte Gebiet ist ein Nationalpark aus Weinbergterrassen, Pinienwäldern und Klippenpfaden, auf denen angeleinte Hunde willkommen sind. Grünfläche bedeutet hier eher die Panoramagärten auf den Landzungen oberhalb der Dörfer und die Küstenwege als gepflegte Rasenflächen. Für einen längeren, flacheren Spaziergang eignet sich das nördlich gelegene Tor-Städtchen Levanto mit seiner einfachen Uferpromenade und pinienbeschatteten Gärten, die deutlich besser für Hunde geeignet sind als die steilen Dorftreppen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Hundeauslaufplatz in den Cinque Terre?",
+          "a": "Nein. Das gesamte Gebiet ist ein Nationalpark, und Hunde müssen überall an der Leine bleiben, auch auf allen Wegen, zum Schutz brütender Tiere und zur Sicherheit auf den schmalen Pfaden."
+        },
+        {
+          "q": "Wo kann mein Hund auf Gras laufen?",
+          "a": "Die Panoramagärten auf den Landzungen wie Punta Bonfiglio in Manarola bieten offene Rasenterrassen. Für längere flache Spaziergänge sind die Uferpromenade und Gärten von Levanto die beste Option in der Nähe."
+        },
+        {
+          "q": "Sind die Wanderwege für Hunde geeignet?",
+          "a": "Angeleinte Hunde sind auf den Parkwegen willkommen, aber viele sind steil, schmal und im Sommer sehr heiß. Schattigere Inlandsrouten wählen und im Frühling oder Herbst reisen."
+        }
       ]
     },
     "transport": {
@@ -359,7 +415,9 @@
           "petPolicyEs": "Perros pequeños en transportín gratis; perros grandes con correa y bozal con billete reducido",
           "googleMapsUrl": "https://maps.google.com/?q=Riomaggiore+train+station",
           "descriptionPt": "O comboio regional da Trenitalia que liga as cinco aldeias e La Spezia passa de poucos em poucos minutos e é a forma mais rápida de circular com um cão. Os cães pequenos em transportadora (máx. 70x30x50 cm) viajam grátis, enquanto os maiores viajam com trela e açaime com um bilhete de tarifa reduzida.",
-          "petPolicyPt": "Cães pequenos em transportadora grátis; cães maiores com trela e açaime com bilhete reduzido"
+          "petPolicyPt": "Cães pequenos em transportadora grátis; cães maiores com trela e açaime com bilhete reduzido",
+          "descriptionDe": "Der Regionalzug von Trenitalia, der die fünf Dörfer und La Spezia verbindet, fährt alle paar Minuten und ist die schnellste Art, sich mit Hund fortzubewegen. Kleine Hunde in einer Transportbox (max. 70x30x50 cm) reisen kostenlos, größere Hunde reisen an der Leine mit Maulkorb zum ermäßigten Fahrpreis.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde an der Leine mit Maulkorb zum ermäßigten Ticket"
         },
         {
           "name": "Cinque Terre Ferry (Navigazione Golfo dei Poeti)",
@@ -375,7 +433,9 @@
           "petPolicyEs": "Perros de cualquier tamaño gratis con bozal y correa, en la cubierta al aire libre",
           "googleMapsUrl": "https://maps.google.com/?q=Cinque+Terre+ferry+La+Spezia",
           "descriptionPt": "O ferry sazonal do Consorzio Marittimo Turistico serve todas as aldeias exceto Corniglia, além de Portovenere, e é uma forma linda e pouco stressante de viajar com um cão. Os cães de qualquer tamanho viajam grátis com açaime e trela, no convés ao ar livre com a brisa do mar.",
-          "petPolicyPt": "Cães de qualquer tamanho viajam grátis com açaime e trela, no convés ao ar livre"
+          "petPolicyPt": "Cães de qualquer tamanho viajam grátis com açaime e trela, no convés ao ar livre",
+          "descriptionDe": "Die Saisonfähre des Consorzio Marittimo Turistico bedient jedes Dorf außer Corniglia sowie Portovenere und ist eine wunderschöne, stressfreie Art, mit Hund zu reisen. Hunde jeder Größe fahren mit Maulkorb und Leine kostenlos mit, draußen auf dem offenen Deck in der Meeresluft.",
+          "petPolicyDe": "Hunde jeder Größe reisen kostenlos mit Maulkorb und Leine, auf dem offenen Deck"
         },
         {
           "name": "By car & village parking",
@@ -391,7 +451,9 @@
           "petPolicyEs": "Perros libres en tu propio coche; los pueblos son peatonales al llegar",
           "googleMapsUrl": "https://maps.google.com/?q=La+Spezia+Centrale+parking",
           "descriptionPt": "Os centros das aldeias estão fechados ao trânsito, por isso os condutores deixam o carro num parque de estação ou em La Spezia e seguem de comboio ou ferry. O seu cão viaja livremente no seu próprio carro, mas planeie o estacionamento com antecedência porque os lugares são escassos e caros no verão.",
-          "petPolicyPt": "Cães viajam livremente no seu próprio carro; as aldeias são pedonais à chegada"
+          "petPolicyPt": "Cães viajam livremente no seu próprio carro; as aldeias são pedonais à chegada",
+          "descriptionDe": "Die Dorfzentren sind für den Verkehr gesperrt, daher lassen Autofahrer das Auto auf einem Bahnhofsparkplatz oder in La Spezia und fahren mit dem Zug oder der Fähre weiter. Ihr Hund reist frei im eigenen Auto, planen Sie das Parken jedoch im Voraus, da die Plätze im Sommer knapp und teuer sind.",
+          "petPolicyDe": "Hunde reisen frei im eigenen Auto; die Dörfer sind bei Ankunft autofrei"
         }
       ],
       "tipsEn": [
@@ -470,6 +532,22 @@
         {
           "q": "Posso circular de carro entre as aldeias?",
           "a": "Não. Os centros das aldeias são pedonais. Deixe o carro num parque de estação ou em La Spezia e circule entre as aldeias de comboio ou ferry."
+        }
+      ],
+      "titleDe": "Mit Hund durch die Cinque Terre unterwegs",
+      "introDe": "Hier zeigen sich die Cinque Terre wirklich hundefreundlich: Die zwei Hauptwege, um zwischen den fünf Dörfern zu wechseln, der Regionalzug und die Fähre, nehmen beide Hunde mit. Der kleine Cinque-Terre-Express-Zug fährt ständig an der Küste entlang und akzeptiert Hunde, während die Fähre Ihrem Hund erlaubt, auf dem offenen Deck mit Meerblick mitzufahren. Die Dörfer selbst sind autofrei, daher lassen die meisten Besucher das Auto auf einem Bahnhofsparkplatz und reisen nach der Ankunft autofrei weiter.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund im Zug der Cinque Terre mitnehmen?",
+          "a": "Ja. Kleine Hunde in einer Transportbox (max. 70x30x50 cm) reisen kostenlos, größere Hunde reisen an der Leine mit Maulkorb zum ermäßigten Fahrpreis. Führen Sie das Gesundheitsheft Ihres Hundes mit."
+        },
+        {
+          "q": "Sind Hunde auf der Fähre der Cinque Terre erlaubt?",
+          "a": "Ja, und das gehört zu den schönsten Teilen des Besuchs. Hunde jeder Größe fahren mit Maulkorb und Leine kostenlos auf den Fähren des Golfo dei Poeti mit, draußen auf dem offenen Deck. Zu beachten: Die Fähre bedient Corniglia nicht."
+        },
+        {
+          "q": "Kann ich zwischen den Dörfern mit dem Auto fahren?",
+          "a": "Nein. Die Dorfzentren sind autofrei. Lassen Sie Ihr Auto auf einem Bahnhofsparkplatz oder in La Spezia und reisen Sie zwischen den Dörfern mit dem Zug oder der Fähre."
         }
       ]
     },
@@ -589,6 +667,22 @@
           "q": "As Cinque Terre são boas para férias de praia com um cão?",
           "a": "Não. As aldeias só têm enseadas minúsculas e restritas. Venha pelos comboios, ferries e trilhos que aceitam cães, e encare o tempo de praia como um extra em Palmaria ou Bonassola."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei den Cinque Terre",
+      "introDe": "Seien Sie bei den Stränden hier realistisch: Die fünf Dörfer haben nur winzige Buchten, und Hunde sind am Hauptbadestrand von Monterosso verboten, daher ist dies kein Strandurlaubsziel für Hunde. Die ehrlichen Optionen liegen außerhalb des Parks. Nach der ligurischen Regionalregel sind Hunde an Stränden zwischen 1. Mai und 30. September generell nur von etwa 20:30 bis 05:30 Uhr erlaubt, mit deutlich freierem Zugang von Oktober bis April. Prüfen Sie daher immer die örtlichen Hinweisschilder, bevor Sie Ihren Hund auf den Sand lassen.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund an den Strand in den Cinque Terre?",
+          "a": "Nicht an den Hauptstrand von Monterosso, wo Hunde in der Saison verboten sind. Die realistischen Hundestrände liegen außerhalb des Parks, etwa auf der Insel Palmaria oder in Bonassola bei Levanto, und die ligurischen Regeln beschränken den Strandzugang im Sommer meist auf den Abend und frühen Morgen."
+        },
+        {
+          "q": "Welche Strandzeiten gelten im Sommer für Hunde?",
+          "a": "Nach der Regionalregel sind Hunde an Stränden zwischen 1. Mai und 30. September generell nur von etwa 20:30 bis 05:30 Uhr erlaubt. Von Oktober bis April ist der Zugang deutlich freier. Immer die Hinweisschilder an jedem Strand prüfen."
+        },
+        {
+          "q": "Eignen sich die Cinque Terre für einen Strandurlaub mit Hund?",
+          "a": "Nein. Die Dörfer haben nur winzige, eingeschränkte Buchten. Kommen Sie wegen der hundefreundlichen Züge, Fähren und Wanderwege und betrachten Sie Strandzeit auf Palmaria oder in Bonassola als Bonus."
+        }
       ]
     },
     "vets": {
@@ -632,7 +726,12 @@
           "descriptionPt": "A consulta veterinária mais próxima das aldeias do norte, em Levanto, a apenas uma paragem de comboio de Monterosso. Trata cuidados de rotina e pequenas urgências de animais de companhia para residentes e visitantes.",
           "petPolicyPt": "Cães e gatos atendidos com marcação",
           "servicesPt": "Cuidados gerais, vacinação, pequenas urgências",
-          "tipPt": "É o veterinário mais prático se estiver em Monterosso, Vernazza ou Levanto"
+          "tipPt": "É o veterinário mais prático se estiver em Monterosso, Vernazza ou Levanto",
+          "hoursDe": "Für Öffnungszeiten vorher anrufen",
+          "descriptionDe": "Die nächstgelegene Tierarztpraxis zu den nördlichen Dörfern, in Levanto nur eine Zugstation von Monterosso entfernt. Sie kümmert sich um Routine- und leicht dringliche Versorgung von Kleintieren für Einheimische und Besucher.",
+          "petPolicyDe": "Hunde und Katzen nach Terminvereinbarung",
+          "servicesDe": "Allgemeine Kleintierversorgung, Impfungen, leichte Notfälle",
+          "tipDe": "Der praktischste Tierarzt, wenn Sie in Monterosso, Vernazza oder Levanto übernachten"
         },
         {
           "name": "Clinica Veterinaria Haziel",
@@ -667,7 +766,12 @@
           "descriptionPt": "Uma clínica veterinária aberta 24 horas no interior de La Spezia, referência na província para urgências a qualquer hora de cães, gatos e pequenos animais. É para aqui que deve ir para qualquer caso sério durante a sua viagem.",
           "petPolicyPt": "Urgências aceites 24/7; ligue a caminho",
           "servicesPt": "Urgências, cirurgia, diagnósticos, internamento",
-          "tipPt": "Ligue com antecedência para a equipa estar pronta quando chegar das aldeias"
+          "tipPt": "Ligue com antecedência para a equipa estar pronta quando chegar das aldeias",
+          "hoursDe": "24 Stunden geöffnet, Notdienst",
+          "descriptionDe": "Eine vollwertige 24-Stunden-Tierklinik im Hinterland von La Spezia, ein Anlaufpunkt in der Provinz für Notfälle rund um die Uhr bei Hunden, Katzen und Kleintieren. Hierhin sollten Sie sich bei allem Ernsteren wenden, das während Ihrer Reise passiert.",
+          "petPolicyDe": "Notfälle rund um die Uhr angenommen; auf dem Weg anrufen",
+          "servicesDe": "Notfallversorgung, Chirurgie, Diagnostik, stationäre Aufnahme",
+          "tipDe": "Vorher anrufen, damit das Team bereit ist, wenn Sie aus den Dörfern eintreffen"
         }
       ],
       "tipsEn": [
@@ -746,6 +850,22 @@
         {
           "q": "Preciso de documentos para o meu cão em Itália?",
           "a": "Sim. Leve o boletim de saúde do seu cão e, para animais da UE, o passaporte com vacina antirrábica válida. Também vai precisar deles para viajar no comboio e no ferry."
+        }
+      ],
+      "titleDe": "Tierärzte bei den Cinque Terre",
+      "introDe": "Die fünf Dörfer sind winzig und autofrei, daher gibt es dort keinen Tierarzt; die nächstgelegenen Kliniken befinden sich im nördlich gelegenen Tor-Städtchen Levanto und im Gebiet La Spezia im Süden, beide eine kurze Zugfahrt entfernt. Bei allem Ernsteren fahren Sie zur 24-Stunden-Klinik bei La Spezia. Speichern Sie diese Nummern, bevor Sie sich auf einen Wanderweg begeben, da das Mobilfunksignal auf den höheren Pfaden abbrechen kann.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Tierarzt in den Dörfern der Cinque Terre?",
+          "a": "Nein. Die Dörfer sind winzig und autofrei, daher befinden sich die nächstgelegenen Kliniken in Levanto im Norden und im Gebiet La Spezia im Süden, beide eine kurze Zugfahrt entfernt."
+        },
+        {
+          "q": "Wohin bei einem tierärztlichen Notfall?",
+          "a": "Die Clinica Veterinaria Haziel bei La Spezia bietet einen 24-Stunden-Notdienst. Rufen Sie vorher unter +39 0187 981421 an, damit das Team bei Ihrer Ankunft bereit ist."
+        },
+        {
+          "q": "Brauche ich Dokumente für meinen Hund in Italien?",
+          "a": "Ja. Führen Sie das Gesundheitsheft Ihres Hundes mit sich und, für EU-Haustiere, den Heimtierausweis mit gültiger Tollwutimpfung. Diese benötigen Sie auch für die Fahrt mit Zug und Fähre."
         }
       ]
     },
@@ -834,6 +954,22 @@
           "q": "Qual é a melhor época para visitar com um cão?",
           "a": "A primavera (de abril a junho) e o outono (de setembro a outubro). As temperaturas são mais amenas, há menos gente e a pedra não escalda, o que importa nos muitos degraus."
         }
+      ],
+      "titleDe": "Praktische Tipps für den Besuch der Cinque Terre mit Hund",
+      "introDe": "Die Cinque Terre belohnen Hunde, die mit Stufen und Hitze zurechtkommen, und frustrieren jene, die es nicht können. Die Dörfer sind steil, mit Hunderten von Steinstufen, ohne Schatten am Mittag und Stein, der im Sommer unter den Pfoten kocht. Nutzen Sie die echten Stärken der Region, den hundefreundlichen Zug, die Fähre und die kühleren Inlandswege, halten Sie Ihren Hund überall an der Leine und führen Sie mehr Wasser mit, als Sie denken.",
+      "faqsDe": [
+        {
+          "q": "Sind die Cinque Terre ein gutes Reiseziel für Hunde?",
+          "a": "In Bezug auf Transport und Wanderwege sind sie wirklich hundefreundlich, aber anstrengend für die Pfoten. Zug, Fähre und Inlandswege heißen angeleinte Hunde willkommen, während steile Stufen, Hitze und Strandverbote es am besten für fitte Hunde außerhalb des Hochsommers machen."
+        },
+        {
+          "q": "Muss ich meinen Hund an der Leine führen?",
+          "a": "Ja, überall. Das gesamte Gebiet ist ein Nationalpark, und eine Leine ist auf allen Wegen und in den Dörfern Pflicht, sowohl zum Schutz der Wildtiere als auch zur Sicherheit auf den schmalen, überfüllten Pfaden."
+        },
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch mit Hund?",
+          "a": "Frühling (April bis Juni) und Herbst (September bis Oktober). Die Temperaturen sind milder, weniger Menschenmengen, und der Stein unter den Pfoten ist nicht glühend heiß, was bei den vielen Stufen wichtig ist."
+        }
       ]
     },
     "attractions": {
@@ -865,7 +1001,11 @@
           "descriptionPt": "O famoso Caminho do Amor agarrado à falésia entre Riomaggiore e Manarola reabriu em 2024 após um longo encerramento, e é plano, curto e espetacular. Os cães com trela podem percorrê-lo, embora seja preciso um Cinque Terre Card e, em época alta, um horário reservado.",
           "dogPolicyPt": "Cães com trela bem-vindos; é preciso Cinque Terre Card e horário reservado",
           "admissionFeePt": "Incluído no Cinque Terre Card",
-          "tipPt": "Reserve um horário online no verão; esgota e só se percorre num sentido nas horas de ponta"
+          "tipPt": "Reserve um horário online no verão; esgota e só se percorre num sentido nas horas de ponta",
+          "descriptionDe": "Der berühmte, an die Klippen geschmiegte Liebesweg zwischen Riomaggiore und Manarola wurde 2024 nach langer Schließung wiedereröffnet und ist flach, kurz und spektakulär. Angeleinte Hunde dürfen ihn begehen, wobei eine Cinque-Terre-Card und in Stoßzeiten ein gebuchtes Zeitfenster erforderlich sind.",
+          "dogPolicyDe": "Angeleinte Hunde willkommen; Cinque-Terre-Card und Zeitfenster erforderlich",
+          "admissionFeeDe": "In der Cinque-Terre-Card enthalten",
+          "tipDe": "Im Sommer online ein Zeitfenster buchen; es ist schnell ausgebucht und kann zu Stoßzeiten nur in eine Richtung begangen werden"
         },
         {
           "name": "Sentiero Azzurro (Blue Path)",
@@ -888,7 +1028,11 @@
           "descriptionPt": "O icónico trilho costeiro que liga as cinco aldeias é a caminhada clássica das Cinque Terre, com socalcos de vinha e quedas sobre o mar em todo o percurso. Os cães com trela são bem-vindos, mas o caminho é estreito, com degraus e quente, por isso convém a cães em forma nos meses mais frescos.",
           "dogPolicyPt": "Cães com trela bem-vindos; é preciso Trekking Card nos troços pagos",
           "admissionFeePt": "É preciso Cinque Terre Trekking Card em alguns troços",
-          "tipPt": "Comece cedo para evitar o calor e a multidão, e volte para trás se o seu cão tiver dificuldade nos degraus"
+          "tipPt": "Comece cedo para evitar o calor e a multidão, e volte para trás se o seu cão tiver dificuldade nos degraus",
+          "descriptionDe": "Der ikonische Küstenweg, der die fünf Dörfer verbindet, ist die klassische Wanderung der Cinque Terre, mit Weinbergterrassen und Meeresabhängen auf der ganzen Strecke. Angeleinte Hunde sind willkommen, aber der Weg ist schmal, mit Stufen versehen und heiß, daher geeignet für fitte Hunde in den kühleren Monaten.",
+          "dogPolicyDe": "Angeleinte Hunde willkommen; Trekking-Karte auf kostenpflichtigen Abschnitten erforderlich",
+          "admissionFeeDe": "Cinque-Terre-Trekking-Karte auf manchen Abschnitten erforderlich",
+          "tipDe": "Früh starten, um Hitze und Menschenmengen zu vermeiden, und umkehren, falls Ihr Hund mit den Stufen kämpft"
         },
         {
           "name": "Vernazza village & Doria Castle viewpoint",
@@ -911,7 +1055,11 @@
           "descriptionPt": "Vernazza é a mais bonita das cinco, com o seu pequeno porto rodeado de casas em tons pastel e coroado pela torre medieval do castelo Doria. Os cães com trela podem percorrer as ruelas e subir ao terraço panorâmico do castelo para uma das melhores vistas da costa.",
           "dogPolicyPt": "Cães com trela bem-vindos nas ruelas e miradouros da aldeia",
           "admissionFeePt": "Pequena taxa para a torre do castelo",
-          "tipPt": "Os degraus do porto e a subida ao castelo são íngremes, faça-os devagar com um cão mais velho"
+          "tipPt": "Os degraus do porto e a subida ao castelo são íngremes, faça-os devagar com um cão mais velho",
+          "descriptionDe": "Vernazza ist das hübscheste der fünf Dörfer, sein kleiner Hafen von pastellfarbenen Häusern umringt und vom mittelalterlichen Turm der Burg Doria überragt. Angeleinte Hunde können durch die Gassen streifen und zur Panoramaterrasse der Burg hinaufsteigen, einer der besten Aussichten an der Küste.",
+          "dogPolicyDe": "Angeleinte Hunde in den Dorfgassen und an den Aussichtspunkten willkommen",
+          "admissionFeeDe": "Geringe Gebühr für den Burgturm",
+          "tipDe": "Die Hafenstufen und der Aufstieg zur Burg sind steil, mit einem älteren Hund also langsam angehen"
         }
       ],
       "tipsEn": [
@@ -991,6 +1139,22 @@
           "q": "O meu cão pode entrar nas igrejas e castelos?",
           "a": "Geralmente não no interior. Os cães podem percorrer as ruelas e os miradouros exteriores, e muitas vezes os terraços dos castelos, mas os interiores de igrejas e museus estão vedados."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in den Cinque Terre",
+      "introDe": "Das Beste an den Cinque Terre spielt sich draußen und zu Fuß ab, was perfekt zu einem angeleinten Hund passt: die Küstenwege, die wiedereröffnete Via dell'Amore und die Dorfgassen, die zu den Aussichtspunkten der Burgen hinaufführen. Innenräume wie Kirchen und Museen lassen Hunde generell nicht hinein, aber das wird man hier kaum vermissen. Die drei folgenden Highlights sind allesamt im Freien und heißen Hunde an der Leine willkommen.",
+      "faqsDe": [
+        {
+          "q": "Darf ich die Via dell'Amore mit meinem Hund entlanggehen?",
+          "a": "Ja. Der wiedereröffnete Liebesweg lässt angeleinte Hunde zu. Sie benötigen eine Cinque-Terre-Card und in der Hochsaison ein gebuchtes Zeitfenster, da es sich um einen kurzen und sehr beliebten Weg handelt."
+        },
+        {
+          "q": "Sind Hunde auf den Wanderwegen der Cinque Terre erlaubt?",
+          "a": "Ja, an der Leine. Der Sentiero Azzurro und die Inlandswege heißen angeleinte Hunde willkommen, sind aber schmal, mit Stufen und im Sommer heiß, daher kühlere Monate und schattigere Routen wählen."
+        },
+        {
+          "q": "Darf mein Hund in Kirchen und Burgen hinein?",
+          "a": "In Innenräumen generell nicht. Hunde dürfen die Dorfgassen und Freiluft-Aussichtspunkte erkunden, meist auch die Burgterrassen, aber die Innenräume von Kirchen und Museen sind tabu."
+        }
       ]
     },
     "petsitting": {
@@ -1018,7 +1182,10 @@
           "openingHours": "Bookable online year-round",
           "descriptionPt": "Uma plataforma muito usada que liga donos a dog sitters e passeadores locais verificados, incluindo cuidadores em redor de La Spezia e da costa. Consulta perfis, avaliações e tarifas e reserva diretamente.",
           "petPolicyPt": "Alojamento, creche de dia e passeios através de sitters locais",
-          "servicesPt": "Alojamento, creche, passeios, visitas ao domicílio"
+          "servicesPt": "Alojamento, creche, passeios, visitas ao domicílio",
+          "descriptionDe": "Eine weit verbreitete Plattform, die Besitzer mit geprüften lokalen Hundesittern und Gassigehern verbindet, darunter Betreuer rund um La Spezia und die Küste. Sie durchstöbern Profile, Bewertungen und Preise und buchen direkt.",
+          "petPolicyDe": "Hundepension, Tagesbetreuung und Gassigehen über lokale Sitter",
+          "servicesDe": "Pension, Tagesbetreuung, Gassigehen, Kurzbesuche"
         },
         {
           "name": "Holidog",
@@ -1037,7 +1204,10 @@
           "openingHours": "Bookable online year-round",
           "descriptionPt": "Um serviço pan-europeu de cuidado de animais que lista sitters e alojamentos para cães por toda a Itália, incluindo a província de La Spezia. Útil para encontrar cuidador quando as próprias aldeias não têm nenhum.",
           "petPolicyPt": "Alojamento e guarda através de membros verificados",
-          "servicesPt": "Alojamento, visitas ao domicílio, passeios"
+          "servicesPt": "Alojamento, visitas ao domicílio, passeios",
+          "descriptionDe": "Ein europaweiter Haustierbetreuungsdienst, der Sitter und Hundepensionen in ganz Italien listet, einschließlich der Provinz La Spezia. Nützlich, um eine Betreuung zu finden, wenn es in den Dörfern selbst keine gibt.",
+          "petPolicyDe": "Pension und Betreuung über geprüfte Mitglieder",
+          "servicesDe": "Pension, Hausbesuche, Gassigehen"
         },
         {
           "name": "Your accommodation host",
@@ -1056,7 +1226,10 @@
           "openingHours": "On request",
           "descriptionPt": "Numa zona pequena e unida como as Cinque Terre, o anfitrião do seu B&B ou apartamento é muitas vezes a via mais rápida para um dog sitter local de confiança. Muitos proprietários já trabalham com um vizinho ou cuidador próximo de confiança.",
           "petPolicyPt": "Peça à chegada uma recomendação de sitter local",
-          "servicesPt": "Encaminhamento para sitters de confiança"
+          "servicesPt": "Encaminhamento para sitters de confiança",
+          "descriptionDe": "In einem kleinen, eng verbundenen Gebiet wie den Cinque Terre ist der Gastgeber Ihres B&Bs oder Ihrer Wohnung oft der schnellste Weg zu einem zuverlässigen lokalen Hundesitter. Viele Besitzer arbeiten bereits mit einem vertrauenswürdigen Nachbarn oder Betreuer in der Nähe zusammen.",
+          "petPolicyDe": "Bei Ankunft nach einer Empfehlung für einen lokalen Sitter fragen",
+          "servicesDe": "Lokale Empfehlungen für vertrauenswürdige Sitter"
         }
       ],
       "tipsEn": [
@@ -1135,6 +1308,22 @@
         {
           "q": "Devo reservar o cuidado com antecedência?",
           "a": "Sim, sobretudo no verão. A disponibilidade de sitters locais é limitada, por isso organize o cuidado assim que confirmar as datas de viagem."
+        }
+      ],
+      "titleDe": "Hundebetreuung & Haustierbetreuung in den Cinque Terre",
+      "introDe": "Die fünf Dörfer sind klein und haben keine eigenen Hundepensionen, daher verlassen sich die meisten Besucher, die eine Betreuung brauchen, auf die nationalen Buchungsplattformen, die geprüfte lokale Betreuer rund um La Spezia und Levanto listen. Im Sommer frühzeitig buchen, wenn die Verfügbarkeit gering ist. Ihr Gastgeber vor Ort ist oft der beste erste Ansprechpartner, da viele einen vertrauenswürdigen lokalen Sitter empfehlen können.",
+      "faqsDe": [
+        {
+          "q": "Gibt es eine Hundepension in den Cinque Terre?",
+          "a": "Innerhalb der fünf Dörfer gibt es keine eigenen Pensionen. Nutzen Sie eine nationale Plattform wie Pawshake oder Holidog, um geprüfte Betreuer rund um La Spezia und Levanto zu finden, und buchen Sie frühzeitig."
+        },
+        {
+          "q": "Wie finde ich einen vertrauenswürdigen lokalen Sitter?",
+          "a": "Beginnen Sie mit Ihrem Gastgeber vor Ort, der oft einen zuverlässigen Nachbarn kennt, und gleichen Sie dann Plattformprofile und Bewertungen ab. In einem so kleinen Gebiet zählen persönliche Empfehlungen viel."
+        },
+        {
+          "q": "Sollte ich Haustierbetreuung im Voraus buchen?",
+          "a": "Ja, besonders im Sommer. Die Verfügbarkeit lokaler Sitter ist begrenzt, also organisieren Sie die Betreuung, sobald Ihre Reisedaten feststehen."
         }
       ]
     }

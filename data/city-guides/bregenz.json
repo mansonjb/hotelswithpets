@@ -39,7 +39,11 @@
           "tipFr": "Combinez avec la boucle du Pfänder : montée à pied par la forêt, dîner, puis dernier téléphérique pour redescendre.",
           "tipEs": "Combínalo con el circuito del Pfänder: subida a pie por el bosque, cena y último teleférico de bajada.",
           "tipPt": "Combine com o circuito do Pfänder: subida a pé pela floresta, jantar e último teleférico para descer.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Gasthaus+Seibl+Bregenz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Gasthaus+Seibl+Bregenz",
+          "descriptionDe": "Ein traditioneller Gasthof am Pfänderhang über Bregenz, in der lokalen Hundebesitzer-Community als hundefreundlicher Stopp empfohlen. Er passt natürlich zu den Wanderwegen am Hang: sich die Käsknöpfle beim Aufstieg verdienen, mit der Seilbahn wieder hinunter.",
+          "petPolicyDe": "Hunde laut Berichten lokaler Hundebesitzer willkommen; an vollen Abenden vorher anrufen",
+          "mustTryDe": "Vorarlberger Käsknöpfle mit Röstzwiebeln",
+          "tipDe": "Mit der Pfänder-Runde kombinieren: zu Fuß hinauf durch den Wald, Abendessen, dann die letzte Seilbahn hinunter."
         },
         {
           "name": "YachtHotel Helvetia",
@@ -65,9 +69,16 @@
           "tipFr": "Le saut en train Bregenz-Lindau prend moins de 10 minutes ; rappelez-vous que les règles allemandes s'appliquent de l'autre côté (pas de muselière obligatoire, mais laisse).",
           "tipEs": "El tren Bregenz-Lindau tarda menos de 10 minutos; recuerda que al otro lado rigen las normas alemanas (sin bozal obligatorio, pero con correa).",
           "tipPt": "O salto de comboio Bregenz-Lindau demora menos de 10 minutos; lembre-se de que do outro lado valem as regras alemãs (sem açaime obrigatório, mas com trela).",
-          "googleMapsUrl": "https://www.google.com/maps/search/YachtHotel+Helvetia+Lindau"
+          "googleMapsUrl": "https://www.google.com/maps/search/YachtHotel+Helvetia+Lindau",
+          "descriptionDe": "Ein Hafen-Hotelrestaurant an der Inselpromenade von Lindau, direkt jenseits der Grenze und eine Zugstation von Bregenz entfernt, das Hunde im Restaurant ausdrücklich erlaubt. Die Terrasse blickt direkt auf den Bodensee-Yachthafen.",
+          "petPolicyDe": "Hunde im Restaurant erlaubt; von hundehotel.info als hundefreundlich gelistet",
+          "mustTryDe": "Bodensee-Felchen mit Seeblick",
+          "tipDe": "Die Zugverbindung Bregenz-Lindau dauert unter 10 Minuten; daran denken, dass jenseits der Grenze deutsche Regeln gelten (keine Maulkorbpflicht, aber Leine anlegen)."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Bregenz",
+      "introDe": "Die österreichische Gasthauskultur ist grundsätzlich hundetolerant: wohlerzogene Hunde sind in den meisten traditionellen Gasthöfen in Vorarlberg normale Gäste, und Terrassen entlang der Uferpromenade haben selten etwas dagegen. In der Hochsaison vor dem Betreten der Gaststube nachfragen, und eher mit Wassernäpfen als hochgezogenen Augenbrauen rechnen.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Parks & Walks for Dogs in Bregenz",
@@ -89,10 +100,30 @@
           "descriptionFr": "Les jardins soignés du bord du lac entre le port et le palais des festivals : vieux arbres, pelouses et vue continue sur le lac vers Lindau et la rive allemande. La boucle du soir classique en laisse, avec distributeurs de sacs gratuits en chemin.",
           "descriptionEs": "Los cuidados jardines de la orilla entre el puerto y el palacio de festivales: árboles viejos, céspedes y vistas continuas del lago hacia Lindau y la orilla alemana. El circuito vespertino clásico con correa, con dispensadores de bolsas gratuitos por el camino.",
           "descriptionPt": "Os jardins cuidados da margem entre o porto e o palácio dos festivais: árvores antigas, relvados e vistas contínuas do lago para Lindau e a margem alemã. O circuito clássico da noite de trela, com dispensadores de sacos gratuitos pelo caminho.",
-          "features": ["Lakefront lawns", "Free waste bags", "Benches with lake views", "Flat paths"],
-          "featuresFr": ["Pelouses au bord du lac", "Sacs gratuits", "Bancs vue lac", "Allées plates"],
-          "featuresEs": ["Céspedes junto al lago", "Bolsas gratuitas", "Bancos con vistas", "Senderos llanos"],
-          "featuresPt": ["Relvados à beira-lago", "Sacos gratuitos", "Bancos com vista", "Caminhos planos"],
+          "features": [
+            "Lakefront lawns",
+            "Free waste bags",
+            "Benches with lake views",
+            "Flat paths"
+          ],
+          "featuresFr": [
+            "Pelouses au bord du lac",
+            "Sacs gratuits",
+            "Bancs vue lac",
+            "Allées plates"
+          ],
+          "featuresEs": [
+            "Céspedes junto al lago",
+            "Bolsas gratuitas",
+            "Bancos con vistas",
+            "Senderos llanos"
+          ],
+          "featuresPt": [
+            "Relvados à beira-lago",
+            "Sacos gratuitos",
+            "Bancos com vista",
+            "Caminhos planos"
+          ],
           "leashRules": "Leash required on the promenade and in the gardens",
           "leashRulesFr": "Laisse obligatoire sur la promenade et dans les jardins",
           "leashRulesEs": "Correa obligatoria en el paseo y los jardines",
@@ -101,7 +132,10 @@
           "bestTimeToVisitFr": "Tôt le matin pendant les semaines du festival, avant la foule",
           "bestTimeToVisitEs": "Temprano por la mañana en las semanas del festival, antes del gentío",
           "bestTimeToVisitPt": "De manhã cedo nas semanas do festival, antes da multidão",
-          "googleMapsUrl": "https://www.google.com/maps/search/Seeanlagen+Bregenz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Seeanlagen+Bregenz",
+          "descriptionDe": "Die gepflegten Ufergärten zwischen Hafen und Festspielhaus, mit altem Baumbestand, Rasenflächen und ständigem Blick auf den Bodensee Richtung Lindau und das deutsche Ufer. Die klassische abendliche Leinen-Runde, mit kostenlosen Kotbeutelspendern entlang des Wegs.",
+          "leashRulesDe": "Leinenpflicht auf der Promenade und in den Gärten",
+          "bestTimeToVisitDe": "Früher Morgen während der Festspielwochen, vor den Menschenmassen"
         },
         {
           "name": "Pfänder",
@@ -113,10 +147,30 @@
           "descriptionFr": "La montagne de Bregenz : sentiers forestiers de la vieille ville au sommet à 1064 m et panorama sur tout le lac de Constance et 240 sommets alpins. Les chiens prennent le téléphérique et peuvent faire la boucle devant les enclos d'animaux alpins, en laisse.",
           "descriptionEs": "La montaña de Bregenz: senderos forestales desde el casco antiguo hasta la cima a 1064 m y panorámica de todo el lago de Constanza y 240 picos alpinos. Los perros suben en el teleférico y pueden hacer el circuito ante los recintos de fauna alpina, con correa.",
           "descriptionPt": "A montanha de Bregenz: trilhos florestais da cidade velha até ao cume a 1064 m e panorama sobre todo o lago de Constança e 240 picos alpinos. Os cães sobem no teleférico e podem fazer o circuito diante dos recintos de fauna alpina, de trela.",
-          "features": ["Cable car takes dogs", "Alpine wildlife park loop", "Summit panorama", "Shaded forest trails"],
-          "featuresFr": ["Téléphérique acceptant les chiens", "Boucle du parc animalier alpin", "Panorama sommital", "Sentiers forestiers ombragés"],
-          "featuresEs": ["Teleférico admite perros", "Circuito del parque de fauna alpina", "Panorámica en la cima", "Senderos con sombra"],
-          "featuresPt": ["Teleférico aceita cães", "Circuito do parque de fauna alpina", "Panorama no cume", "Trilhos com sombra"],
+          "features": [
+            "Cable car takes dogs",
+            "Alpine wildlife park loop",
+            "Summit panorama",
+            "Shaded forest trails"
+          ],
+          "featuresFr": [
+            "Téléphérique acceptant les chiens",
+            "Boucle du parc animalier alpin",
+            "Panorama sommital",
+            "Sentiers forestiers ombragés"
+          ],
+          "featuresEs": [
+            "Teleférico admite perros",
+            "Circuito del parque de fauna alpina",
+            "Panorámica en la cima",
+            "Senderos con sombra"
+          ],
+          "featuresPt": [
+            "Teleférico aceita cães",
+            "Circuito do parque de fauna alpina",
+            "Panorama no cume",
+            "Trilhos com sombra"
+          ],
           "leashRules": "Leash required around the wildlife park and on busy sections; keep dogs close near grazing animals",
           "leashRulesFr": "Laisse obligatoire autour du parc animalier et sur les tronçons fréquentés ; gardez le chien proche du bétail",
           "leashRulesEs": "Correa obligatoria en torno al parque de fauna y en tramos concurridos; mantén al perro cerca del ganado",
@@ -125,7 +179,10 @@
           "bestTimeToVisitFr": "Matinées dégagées pour le panorama complet du lac",
           "bestTimeToVisitEs": "Mañanas despejadas para la panorámica completa del lago",
           "bestTimeToVisitPt": "Manhãs limpas para o panorama completo do lago",
-          "googleMapsUrl": "https://www.google.com/maps/search/Pf%C3%A4nder+Bregenz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Pf%C3%A4nder+Bregenz",
+          "descriptionDe": "Bregenz' Hausberg, mit Waldwegen von der Altstadt bis zum 1064 m hohen Gipfel und einem Panorama über den gesamten Bodensee und 240 Alpengipfel. Hunde fahren mit der Seilbahn mit und können an der Leine an der Rundwanderung an den Alpenwild-Gehegen vorbei teilnehmen.",
+          "leashRulesDe": "Leinenpflicht rund um den Wildpark und auf stark frequentierten Abschnitten; Hunde in der Nähe weidender Tiere nah bei sich halten",
+          "bestTimeToVisitDe": "Klare Morgen für das volle Bodensee-Panorama"
         },
         {
           "name": "Mehrerauer Seeufer",
@@ -137,10 +194,30 @@
           "descriptionFr": "Le côté non aménagé du rivage de Bregenz : bancs de gravier, bois de peupliers et embouchure de la Bregenzerach à l'ouest de l'abbaye. Plus calme que les Seeanlagen et prisé des promeneurs locaux ; certaines parties sont des biotopes protégés, gardez la laisse et respectez les panneaux en saison de nidification.",
           "descriptionEs": "El lado sin ajardinar de la orilla de Bregenz: bancos de grava, bosques de álamos y la desembocadura del Bregenzerach al oeste de la abadía. Más tranquilo que los Seeanlagen y popular entre los paseantes locales; partes son biotopo protegido, así que correa puesta y respeto a las señales en época de nidificación.",
           "descriptionPt": "O lado não ajardinado da margem de Bregenz: bancos de gravilha, bosques de choupos e a foz do Bregenzerach a oeste da abadia. Mais calmo do que os Seeanlagen e popular entre os caminhantes locais; partes são biótopo protegido, por isso trela posta e respeito pelos sinais na época de nidificação.",
-          "features": ["Gravel lakeshore", "River mouth", "Poplar woods", "Fewer crowds"],
-          "featuresFr": ["Rive de gravier", "Embouchure de rivière", "Bois de peupliers", "Moins de monde"],
-          "featuresEs": ["Orilla de grava", "Desembocadura", "Bosque de álamos", "Menos gente"],
-          "featuresPt": ["Margem de gravilha", "Foz do rio", "Bosque de choupos", "Menos gente"],
+          "features": [
+            "Gravel lakeshore",
+            "River mouth",
+            "Poplar woods",
+            "Fewer crowds"
+          ],
+          "featuresFr": [
+            "Rive de gravier",
+            "Embouchure de rivière",
+            "Bois de peupliers",
+            "Moins de monde"
+          ],
+          "featuresEs": [
+            "Orilla de grava",
+            "Desembocadura",
+            "Bosque de álamos",
+            "Menos gente"
+          ],
+          "featuresPt": [
+            "Margem de gravilha",
+            "Foz do rio",
+            "Bosque de choupos",
+            "Menos gente"
+          ],
           "leashRules": "Leash required; strict rules in the protected biotope sections",
           "leashRulesFr": "Laisse obligatoire ; règles strictes dans les sections de biotope protégé",
           "leashRulesEs": "Correa obligatoria; normas estrictas en las secciones de biotopo protegido",
@@ -149,9 +226,15 @@
           "bestTimeToVisitFr": "Coucher du soleil, quand la lumière frappe la rive suisse en face",
           "bestTimeToVisitEs": "Atardecer, cuando la luz baña la orilla suiza de enfrente",
           "bestTimeToVisitPt": "Pôr do sol, quando a luz banha a margem suíça em frente",
-          "googleMapsUrl": "https://www.google.com/maps/search/Mehrerauer+Seeufer+Bregenz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Mehrerauer+Seeufer+Bregenz",
+          "descriptionDe": "Die unangelegte Seite des Bregenzer Ufers: Kiesbänke, Pappelwälder und die Mündung der Bregenzerach westlich der Abtei. Ruhiger als die Seeanlagen und bei Einheimischen beliebt; Teile sind geschütztes Biotop, daher Leine anlegen und Schilder zur Brutzeit respektieren.",
+          "leashRulesDe": "Leinenpflicht; strenge Regeln in den geschützten Biotop-Abschnitten",
+          "bestTimeToVisitDe": "Sonnenuntergang, wenn das Licht auf das Schweizer Ufer über den See fällt"
         }
-      ]
+      ],
+      "titleDe": "Parks & Spaziergänge für Hunde in Bregenz",
+      "introDe": "Bregenz liegt eingezwängt zwischen dem Bodensee und dem Pfänder, daher gibt es Hundespaziergänge in zwei Varianten: flaches Ufergrün (die Seeanlagen und das wildere Mehrerau-Ufer) und Waldanstiege mit Seepanorama. Die Stadt stellt an Spendern entlang der Promenaden kostenlose Hundekotbeutel (Säckle) bereit; in den Parkzonen und Naturschutzgebieten gilt Leinenpflicht.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Bregenz with a Dog",
@@ -206,7 +289,10 @@
           "costEs": "Media tarifa para perros grandes; pequeños en transportín gratis",
           "costPt": "Meia tarifa para cães grandes; pequenos em caixa grátis"
         }
-      ]
+      ],
+      "titleDe": "Mit Hund unterwegs in Bregenz",
+      "introDe": "Bregenz ist klein genug, um am See entlang von einem Ende zum anderen zu Fuß zu gehen, und die österreichischen Verkehrsregeln sind hundefreundlich, aber formell: In Bussen und Zügen braucht ein Hund eine Leine UND einen Maulkorb (oder für kleine Hunde eine Transportbox), eine Regel, die Besucher aus Ländern ohne Maulkorbpflicht überrascht. Die Pfänderbahn nimmt Hunde mit auf den Berg.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog Swimming on the Bodensee at Bregenz",
@@ -257,7 +343,10 @@
           "seasonalRestrictionsPt": "Nada específico; respeite os limites do lido público vizinho no verão",
           "googleMapsUrl": "https://www.google.com/maps/search/Alte+F%C3%A4hre+Lochau"
         }
-      ]
+      ],
+      "titleDe": "Hundeschwimmen im Bodensee bei Bregenz",
+      "introDe": "Die kostenpflichtigen Freibäder und überwachten Badestrände rund um Bregenz lassen in der Saison keine Hunde zu, aber das freie Ufer schon: Der Pipeline-Weg vom Bregenzer Hafen Richtung Lochau ist der lokale Klassiker fürs Hundeschwimmen, und der Strand bei der alten Fährstelle in Lochau ist ein anerkannter Hundeort. Die Wasserqualität im Bodensee ist ausgezeichnet.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinarians in Bregenz",
@@ -296,7 +385,10 @@
           "descriptionPt": "Um consultório de pequenos animais bem estabelecido na cidade: vacinas, consultas e documentação de viagem. Fora do horário indicado, atendem por marcação telefónica.",
           "googleMapsUrl": "https://www.google.com/maps/search/Tierarzt+Grei%C3%9Fing+Bregenz"
         }
-      ]
+      ],
+      "titleDe": "Tierärzte in Bregenz",
+      "introDe": "Bregenz hat eine vollwertige Kleintierklinik mit 24-Stunden-Notdienst sowie Praxen in den Stadtteilen, daher ist die Versorgung besser, als es die Stadtgröße vermuten lässt. Wie überall in Österreich vor der Fahrt anrufen: Der Notdienst läuft auf Abruf.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Bregenz with a Dog",
@@ -383,6 +475,22 @@
           "q": "Há veterinário de urgência em Bregenz?",
           "a": "Sim. A Tierklinik Fürst (Holzackergasse 13) tem serviço de urgência 24 horas: ligue para o +43 664 9943 4064 fora do horário da clínica e o veterinário de serviço encontra-se consigo na clínica."
         }
+      ],
+      "titleDe": "Wichtige Tipps für einen Besuch in Bregenz mit Hund",
+      "introDe": "Bregenz ist ein See- und Bergstädtchen, das in eine Tasche passt, aber zwei österreichische Besonderheiten sind wichtig: die Maulkorb- und Leinenpflicht in öffentlichen Verkehrsmitteln und die Bregenzer Festspiele (ab 17. Juli), wenn 7.000 Zuschauer pro Abend am Seeufer rund um die schwimmende Bühne zusammenkommen. Die Spaziergänge um beides herum planen, dann ist die Stadt ein Vergnügen auf vier Pfoten.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund zu den Bregenzer Festspielen mitnehmen?",
+          "a": "Nicht auf die Tribünen: Tiere haben bei Vorstellungen auf der schwimmenden Bühne keinen Zutritt. So machen es Stammgäste: die Festspielatmosphäre früher am Tag von der Promenade aus genießen, dann für die eigentliche Vorstellung einen Sitter buchen oder den Hund in einem haustierfreundlichen Hotel ausruhen lassen."
+        },
+        {
+          "q": "Braucht mein Hund in Bregenz wirklich einen Maulkorb?",
+          "a": "In öffentlichen Verkehrsmitteln ja: Die österreichischen Regeln verlangen in Bussen und Zügen Leine und Maulkorb, außer der Hund reist in einer geschlossenen Transportbox. Auf der Straße reicht eine Leine, aber man muss den Maulkorb vorzeigen können."
+        },
+        {
+          "q": "Gibt es einen Notfall-Tierarzt in Bregenz?",
+          "a": "Ja. Die Tierklinik Fürst (Holzackergasse 13) betreibt einen 24-Stunden-Notdienst: außerhalb der Öffnungszeiten +43 664 9943 4064 anrufen, der diensthabende Tierarzt trifft sich mit Ihnen in der Klinik."
+        }
       ]
     },
     "attractions": {
@@ -405,7 +513,8 @@
           "descriptionPt": "O maior palco de ópera flutuante do mundo, cujos cenários monumentais erguem-se diretamente do lago de Constança. Os cães não podem assistir aos espetáculos, mas o cenário espetacular fotografa-se melhor de dia a partir do passeio gratuito da margem, com o cão ao lado.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/Seeb%C3%BChne+Bregenz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Seeb%C3%BChne+Bregenz",
+          "descriptionDe": "Die weltgrößte schwimmende Opernbühne, deren monumentale Bühnenbilder direkt aus dem Bodensee ragen. Hunde können keine Vorstellungen besuchen, aber das spektakuläre Bühnenbild lässt sich tagsüber von der kostenlosen Uferpromenade aus ohnehin am besten fotografieren, mit Hund an der Seite."
         },
         {
           "name": "Oberstadt",
@@ -417,7 +526,8 @@
           "descriptionPt": "A cidade alta medieval amuralhada de Bregenz, coroada pelo Martinsturm e a sua gigantesca cúpula em bolbo, uma das maiores da Europa Central. Vielas calcetadas tranquilas, vistas do lago desde as muralhas e quase nenhum trânsito: o passeio canino de centro histórico mais sereno do lago de Constança.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/Oberstadt+Bregenz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Oberstadt+Bregenz",
+          "descriptionDe": "Bregenz' ummauerte mittelalterliche Oberstadt, gekrönt vom Martinsturm mit seiner riesigen Zwiebelkuppel, einer der größten Mitteleuropas. Ruhige Kopfsteinpflastergassen, Ausblicke von der Stadtmauer über den See und kaum Verkehr machen sie zum ruhigsten Altstadt-Hundespaziergang am Bodensee."
         },
         {
           "name": "Pfänder Wildpark",
@@ -429,9 +539,13 @@
           "descriptionPt": "Um parque de fauna alpina gratuito no trilho circular do cume do Pfänder: íbexes, marmotas, veados e javalis em grandes recintos. Cães de trela podem fazer o circuito de 30 minutos, um privilégio raro já que a maioria dos parques de fauna recusa cães.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/Pf%C3%A4nder+Wildpark+Bregenz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Pf%C3%A4nder+Wildpark+Bregenz",
+          "descriptionDe": "Ein kostenloser Alpenwildpark auf dem Rundweg des Pfänder-Gipfels, mit Steinböcken, Murmeltieren, Hirschen und Wildschweinen in großen Gehegen. Angeleinte Hunde dürfen die 30-minütige Runde mitgehen, ein ungewöhnliches Vergnügen, da die meisten Wildparks Hunde abweisen."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Bregenz",
+      "introDe": "Bregenz' Hauptsehenswürdigkeiten liegen alle im Freien: die weltgrößte schwimmende Bühne, von der Promenade aus zu sehen, eine mittelalterliche Oberstadt und ein Berggipfel mit dem gesamten Bodensee zu Füßen. Ein angeleinter Hund schafft die ganze Runde an einem Tag.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Walking in Bregenz",
@@ -470,7 +584,10 @@
           "priceRangePt": "A partir de cerca de 20 EUR por dia",
           "bookingRequired": true
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Bregenz",
+      "introDe": "Festspielabende sind der Hauptgrund, warum Besucher in Bregenz einen Sitter brauchen, da Hunde bei den Seebühnen-Vorstellungen nicht dabei sein können. Die unten genannten europaweiten Plattformen listen geprüfte Betreuer in Vorarlberg und jenseits der Grenze in Lindau; für Ende Juli und August frühzeitig buchen.",
+      "faqsDe": []
     }
   }
 }

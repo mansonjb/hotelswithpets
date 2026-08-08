@@ -39,7 +39,11 @@
           "tipFr": "Demandez au bar leurs itinéraires de balade imprimés au départ du village",
           "tipEs": "Pregunta en la barra por sus rutas de paseo impresas desde la puerta del pueblo",
           "tipPt": "Peça no bar os seus percursos de passeio impressos a partir da porta da aldeia",
-          "googleMapsUrl": "https://maps.google.com/?q=The+Mousetrap+Inn+Bourton-on-the-Water"
+          "googleMapsUrl": "https://maps.google.com/?q=The+Mousetrap+Inn+Bourton-on-the-Water",
+          "descriptionDe": "Ein charaktervolles Gasthaus aus dem 19. Jahrhundert nur einen Schritt von der Hauptstraße entfernt, und einer der wirklich hundefreundlichsten Orte im Dorf. Es veröffentlicht eigene Hundespazierrouten und Pub-Stopp-Guides und heißt Hunde im gesamten Barbereich willkommen. Mit seiner entspannten, lokalen Atmosphäre abseits des belebtesten Flussufer-Trubels ist es eine gute Basis für einen Spaziergang und ein Bier mit Hund zu Füßen.",
+          "petPolicyDe": "Hunde im gesamten Barbereich willkommen",
+          "mustTryDe": "Ein Cotswold-Ale nach dem Slaughters-Spaziergang",
+          "tipDe": "Fragen Sie an der Theke nach den gedruckten Hundespazierrouten ab der Dorftür"
         },
         {
           "name": "The Old New Inn",
@@ -65,7 +69,11 @@
           "tipFr": "Notez que le Model Village du jardin n'accepte pas les chiens, mais le pub lui-même oui",
           "tipEs": "Ten en cuenta que el Model Village del jardín no admite perros, pero el pub sí",
           "tipPt": "Note que a Model Village do jardim não aceita cães, mas o pub em si aceita",
-          "googleMapsUrl": "https://maps.google.com/?q=The+Old+New+Inn+Bourton-on-the-Water"
+          "googleMapsUrl": "https://maps.google.com/?q=The+Old+New+Inn+Bourton-on-the-Water",
+          "descriptionDe": "Ein markantes Gasthaus am Fluss mitten im Dorf und die Heimat des berühmten Model Village aus den 1930er-Jahren im eigenen Garten. Hunde sind in Bar und Restaurant sehr willkommen, wo es einen kostenlosen Snackbereich und sogar eine eigene Hundekarte gibt, mit Leckerli-Töpfen, Näpfen und hundefreundlichen Getränken. Ein praktischer, zentraler Ort direkt bei den niedrigen Brücken über den Windrush.",
+          "petPolicyDe": "Hunde willkommen in Bar und Restaurant; Hundekarte",
+          "mustTryDe": "Der Leckerli-Topf der Hundekarte für Ihren Begleiter",
+          "tipDe": "Beachten Sie: Das Model Village im Garten erlaubt keine Hunde, der Pub selbst jedoch schon"
         },
         {
           "name": "Bakery on the Water",
@@ -91,9 +99,16 @@
           "tipFr": "Venez tôt le week-end en été ; les tables au bord de l'eau se remplissent vite",
           "tipEs": "Llega temprano los fines de semana de verano; las mesas junto al río se llenan rápido",
           "tipPt": "Chegue cedo aos fins de semana de verão; as mesas junto ao rio enchem depressa",
-          "googleMapsUrl": "https://maps.google.com/?q=Bakery+on+the+Water+Bourton-on-the-Water"
+          "googleMapsUrl": "https://maps.google.com/?q=Bakery+on+the+Water+Bourton-on-the-Water",
+          "descriptionDe": "Eine beliebte Handwerksbäckerei und Café direkt am Fluss, mit reichlich Tischen im Innenbereich und einer entzückenden Terrasse am Flussufer, auf der Hunde willkommen sind. Frisches Brot, Kuchen und Kaffee machen es zu einem unkomplizierten Morgenstopp vor einem Spaziergang, und die Terrasse ist einer der schönsten Plätze im Dorf, um mit Hund zu sitzen und den Windrush vorbeiziehen zu sehen.",
+          "petPolicyDe": "Hunde willkommen auf der Terrasse am Flussufer",
+          "mustTryDe": "Ein frisches Gebäck und Kaffee auf der Terrasse",
+          "tipDe": "Kommen Sie an Sommerwochenenden früh; die Tische am Flussufer sind schnell besetzt"
         }
-      ]
+      ],
+      "titleDe": "Haustierfreundliche Pubs und Cafés in Bourton-on-the-Water",
+      "introDe": "Bourton-on-the-Water ist eines der hundefreundlichsten Dörfer der Cotswolds, und auswärts essen mit Hund ist hier problemlos möglich. Der flache Fluss Windrush fließt direkt durch die Mitte des Dorfes, überquert von niedrigen Steinbrücken, und die Cafés und Pubs an seinen Ufern sind an schlammige Pfoten nach einem Spaziergang zu den Slaughters gewöhnt. Mehrere Pubs führen eine Hundekarte und stellen eine Snackschale an der Theke bereit, und die Terrassen am Flussufer machen sommerliche Mittagessen zu einem Vergnügen. Die unten aufgeführten Orte heißen wohlerzogene Hunde an der Leine zuverlässig willkommen.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Best Dog Walks and Trails around Bourton-on-the-Water",
@@ -129,7 +144,11 @@
           "tipFr": "Les sentiers peuvent être boueux en hiver ; prévoyez une serviette pour les pattes avant le pub",
           "tipEs": "Los senderos pueden embarrarse en invierno; lleva una toalla para las patas antes del pub",
           "tipPt": "Os trilhos podem ficar enlameados no inverno; leve uma toalha para as patas antes do pub",
-          "googleMapsUrl": "https://maps.google.com/?q=Lower+Slaughter+Bourton-on-the-Water"
+          "googleMapsUrl": "https://maps.google.com/?q=Lower+Slaughter+Bourton-on-the-Water",
+          "descriptionDe": "Der Signature-Hundespaziergang der Gegend: ein leichter Rundweg von etwa fünf bis sechs Meilen, der dem Fluss Windrush westlich aus Bourton nach Lower Slaughter folgt, weiter nach Upper Slaughter und zurück durch hügeliges Farmland. Er ist bekannt dafür, ohne Zauntritte und nahezu eben zu sein, und führt an der alten Mühle und den honigfarbenen Cottages zweier der schönsten Dörfer Englands vorbei. Halten Sie Hunde auf den Feldern in Nähe von Schafen und Rindern an der Leine.",
+          "petPolicyDe": "Hunde in Nähe von Nutztieren auf den Feldern an der Leine",
+          "mustTryDe": "Die alte Mühle und Furt in Lower Slaughter",
+          "tipDe": "Wege können im Winter schlammig sein; bringen Sie ein Handtuch für schlammige Pfoten vor dem Pub-Besuch mit"
         },
         {
           "name": "Greystones Farm Nature Reserve",
@@ -155,7 +174,11 @@
           "tipFr": "Ne lâchez jamais un chien ici ; le bétail et les oiseaux nichant au sol se dérangent facilement",
           "tipEs": "Nunca sueltes a un perro aquí; el ganado y las aves que anidan en el suelo se molestan con facilidad",
           "tipPt": "Nunca solte um cão aqui; o gado e as aves que nidificam no solo perturbam-se facilmente",
-          "googleMapsUrl": "https://maps.google.com/?q=Greystones+Farm+Nature+Reserve+Bourton"
+          "googleMapsUrl": "https://maps.google.com/?q=Greystones+Farm+Nature+Reserve+Bourton",
+          "descriptionDe": "Ein Naturschutzgebiet des Gloucestershire Wildlife Trust am Dorfrand, kostenlos und ganzjährig geöffnet, gelegen um eine bewirtschaftete Milchviehfarm und den kleinen Fluss Eye. Ebene, zauntrittfreie Wege durchqueren Wildblumenwiesen und Hecken, in denen Wasserwühlmäuse, Fledermäuse und Schleiereulen leben. Da es sich um eine aktive Farm mit frei umherziehendem Vieh handelt, müssen Hunde auf den Wegen bleiben und an der Leine gehen, gesetzlich vorgeschrieben vom 1. März bis 31. Juli an einer kurzen Zwei-Meter-Leine.",
+          "petPolicyDe": "Hunde auf den Wegen an der Leine; kurze Leine vom 1. März bis 31. Juli",
+          "mustTryDe": "Die Wiesen am Fluss Eye, wo Wasserwühlmäuse leben",
+          "tipDe": "Lassen Sie Ihren Hund hier niemals von der Leine; das Vieh und die bodenbrütenden Vögel werden leicht gestört"
         },
         {
           "name": "Warden's Way",
@@ -181,9 +204,16 @@
           "tipFr": "Pour une version courte, allez à Lower Slaughter et revenez, et gardez l'itinéraire complet pour une journée entière",
           "tipEs": "Para una versión corta, camina a Lower Slaughter y vuelve, y deja la ruta completa para un día entero",
           "tipPt": "Para uma versão curta, caminhe até Lower Slaughter e volte, e guarde a rota completa para um dia inteiro",
-          "googleMapsUrl": "https://maps.google.com/?q=Wardens+Way+Bourton-on-the-Water"
+          "googleMapsUrl": "https://maps.google.com/?q=Wardens+Way+Bourton-on-the-Water",
+          "descriptionDe": "Ein Fernwanderweg von etwa 14 Meilen, der Bourton-on-the-Water mit Winchcombe verbindet und sich durch die Slaughters, Naunton und Guiting Power schlängelt. Sie können ihn als vollständige lineare Tagestour laufen oder nur die ersten malerischen Meilen am Windrush entlang und zurück nehmen. Er ist ruhig, überwiegend Feld- und Flussuferwanderung, und ein feiner Weg, um dem belebten Dorfzentrum mit Hund an der Leine zu entkommen.",
+          "petPolicyDe": "Hunde in Nähe von Nutztieren und brütenden Vögeln an der Leine",
+          "mustTryDe": "Der ruhige Flussuferabschnitt aus Bourton hinaus",
+          "tipDe": "Für eine kurze Version laufen Sie nach Lower Slaughter und zurück und heben sich die volle Route für einen ganzen Tag auf"
         }
-      ]
+      ],
+      "titleDe": "Die besten Hundespaziergänge und Wanderwege rund um Bourton-on-the-Water",
+      "introDe": "Das ist der eigentliche Grund, einen Hundeurlaub in Bourton zu verbringen. Das Dorf liegt im sanften Windrush-Tal im Herzen der Cotswolds, und honigfarbene Steinpfade führen von hier aus über Wiesen und entlang des Flusses zu einigen der schönsten Dörfer Englands. Der klassische Ausflug ist der nahezu ebene Spaziergang nach Lower und Upper Slaughter, kaum ein Zauntritt im Weg, und der Fernwanderweg Warden's Way führt direkt durch das Dorf. Es handelt sich um bewirtschaftetes Weideland mit grasendem Vieh und bodenbrütenden Vögeln, halten Sie Hunde daher in Nähe von Nutztieren an der Leine und, gesetzlich vorgeschrieben, vom 1. März bis 31. Juli auf Gebieten mit freiem Zugangsrecht an einer kurzen Leine von höchstens zwei Metern.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Bourton-on-the-Water with a Dog",
@@ -194,7 +224,10 @@
       "introFr": "Bourton est petit et se découvre surtout à pied, le village et ses balades au bord de l'eau étant tous facilement accessibles depuis le centre. Il n'y a pas de gare dans le village même ; les plus proches sont Moreton-in-Marsh et Kingham sur la Cotswold Line, à un court trajet en taxi ou en bus, et les chiens voyagent gratuitement sur le réseau ferré national (jusqu'à deux par voyageur, en laisse). Les bus locaux relient Bourton à Moreton, Stow-on-the-Wold et Cheltenham. Pour les visiteurs étrangers, l'aéroport de Birmingham est la porte d'entrée la plus pratique, à environ une heure de route, Bristol étant à une distance similaire au sud.",
       "introEs": "Bourton es pequeño y se descubre mejor a pie, con el pueblo y sus paseos junto al río fácilmente accesibles desde el centro. No hay estación de tren en el propio pueblo; las más cercanas son Moreton-in-Marsh y Kingham en la Cotswold Line, a un corto trayecto en taxi o autobús, y los perros viajan gratis en la red ferroviaria nacional (hasta dos por pasajero, con correa). Los autobuses locales conectan Bourton con Moreton, Stow-on-the-Wold y Cheltenham. Para los visitantes extranjeros, el aeropuerto de Birmingham es la puerta de entrada más útil, a alrededor de una hora en coche, con Bristol a una distancia similar al sur.",
       "introPt": "Bourton é pequena e descobre-se melhor a pé, com a aldeia e os seus passeios junto ao rio facilmente acessíveis a partir do centro. Não há estação de comboios na própria aldeia; as mais próximas são Moreton-in-Marsh e Kingham na Cotswold Line, a uma curta viagem de táxi ou autocarro, e os cães viajam grátis na rede ferroviária nacional (até dois por passageiro, à trela). Os autocarros locais ligam Bourton a Moreton, Stow-on-the-Wold e Cheltenham. Para os visitantes estrangeiros, o aeroporto de Birmingham é a porta de entrada mais útil, a cerca de uma hora de carro, com Bristol a uma distância semelhante a sul.",
-      "places": []
+      "places": [],
+      "titleDe": "Fortbewegung in Bourton-on-the-Water mit Hund",
+      "introDe": "Bourton ist klein und lässt sich am besten zu Fuß erkunden, das Dorf und seine Flussuferspaziergänge sind alle leicht vom Zentrum aus erreichbar. Das Dorf selbst hat keinen eigenen Bahnhof; die nächsten Bahnhöfe sind Moreton-in-Marsh und Kingham an der Cotswold Line, beide eine kurze Taxi- oder Busfahrt entfernt, und Hunde reisen bei National Rail kostenlos (bis zu zwei pro Fahrgast, an der Leine). Lokale Busse verbinden Bourton mit Moreton, Stow-on-the-Wold und Cheltenham. Für Besucher aus Übersee ist der Flughafen Birmingham das nützlichste Tor, etwa eine Autostunde entfernt, mit Bristol in ähnlicher Entfernung südlich davon.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches near Bourton-on-the-Water",
@@ -205,7 +238,10 @@
       "introFr": "Contenu à venir.",
       "introEs": "Contenido próximamente.",
       "introPt": "Conteúdo em breve.",
-      "places": []
+      "places": [],
+      "titleDe": "Hundefreundliche Strände in der Nähe von Bourton-on-the-Water",
+      "introDe": "Inhalte folgen in Kürze.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinary Care near Bourton-on-the-Water",
@@ -237,7 +273,10 @@
           "tipFr": "Confirmez par téléphone les dispositions actuelles en dehors des heures d'ouverture à votre arrivée",
           "tipEs": "Confirma por teléfono los arreglos actuales fuera de horario al llegar a la zona",
           "tipPt": "Confirme por telefone os arranjos atuais fora de horas quando chegar à zona",
-          "googleMapsUrl": "https://maps.google.com/?q=Shipston+Veterinary+Centre+Moreton-in-Marsh"
+          "googleMapsUrl": "https://maps.google.com/?q=Shipston+Veterinary+Centre+Moreton-in-Marsh",
+          "descriptionDe": "Eine Kleintierfiliale einer etablierten Cotswold-Tierarztgruppe, die die Dörfer rund um Moreton-in-Marsh einschließlich Bourton-on-the-Water betreut. Es ist die nächstgelegene Praxis für routinemäßige und dringende Versorgung. Wie bei jeder britischen Praxis üblich, rufen Sie vorab an, damit das Team auf Sie vorbereitet ist, besonders im Notfall.",
+          "petPolicyDe": "Kleintierpraxis; bei Notfällen vorab anrufen",
+          "tipDe": "Bestätigen Sie die aktuellen Regelungen für Zeiten außerhalb der Öffnungszeiten telefonisch bei Ihrer Ankunft in der Gegend"
         },
         {
           "name": "Stow Veterinary Surgeons, Moreton-in-Marsh",
@@ -260,9 +299,15 @@
           "tipFr": "Appelez le 01451 830620 avant de venir pour une urgence en dehors des heures d'ouverture",
           "tipEs": "Llama al 01451 830620 antes de acudir por una urgencia fuera de horario",
           "tipPt": "Telefone para 01451 830620 antes de ir por uma emergência fora de horas",
-          "googleMapsUrl": "https://maps.google.com/?q=Stow+Veterinary+Surgeons+Moreton-in-Marsh"
+          "googleMapsUrl": "https://maps.google.com/?q=Stow+Veterinary+Surgeons+Moreton-in-Marsh",
+          "descriptionDe": "Eine seit Langem etablierte Cotswold-Kleintierpraxis mit Wurzeln bis in die 1820er-Jahre und einer Filiale in Moreton-in-Marsh, nahe bei Bourton. Eine zuverlässige Option für Routinetermine und dringende Versorgung während eines Aufenthalts im Tal. Telefon 01451 830620, rufen Sie vor jedem Notfallbesuch vorab an.",
+          "petPolicyDe": "Kleintierpraxis; bei Notfällen vorab anrufen",
+          "tipDe": "Rufen Sie vor Ankunft bei einem Notfall außerhalb der Öffnungszeiten die 01451 830620 an"
         }
-      ]
+      ],
+      "titleDe": "Tierärztliche Versorgung in der Nähe von Bourton-on-the-Water",
+      "introDe": "Bourton hat keinen eigenen Tierarzt im Dorf, die nächstgelegenen Kleintierpraxen befinden sich in Moreton-in-Marsh, etwa sechs Meilen nördlich, und im nahen Stow-on-the-Wold. Speichern Sie eine Praxisnummer in Ihrem Telefon, bevor Sie für den Tag aufbrechen, da Teile des Windrush-Tals einen unzuverlässigen Mobilfunkempfang haben, und rufen Sie bei jedem Notfall außerhalb der Öffnungszeiten vorab an.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Bourton-on-the-Water with a Dog",
@@ -273,7 +318,10 @@
       "introFr": "Bourton est un village qui aime vraiment les chiens, mais c'est aussi l'un des endroits les plus visités des Cotswolds : un peu d'organisation aide beaucoup. En été et le week-end, la pelouse au bord de l'eau se remplit de monde, et un chien craintif sera plus tranquille en arrivant tôt ou hors saison. Certaines attractions acceptent les chiens, d'autres non : le Cotswold Motoring Museum laisse les chiens s'y promener, mais le Model Village n'admet que les chiens d'assistance, prévoyez en conséquence. Sur les sentiers, ce sont des terres agricoles : tenez les chiens en laisse près des moutons et du bétail et, par la loi, en laisse courte de deux mètres du 1er mars au 31 juillet sur les terrains d'accès public pour protéger les oiseaux nichant au sol. Enfin, les visiteurs amenant un chien de l'UE en Grande-Bretagne ont désormais besoin d'un certificat sanitaire animal pour la Grande-Bretagne plutôt que du passeport européen, avec une puce, une vaccination antirabique valide et, si requis, un traitement contre le ténia. Organisez cela avec votre vétérinaire bien avant de partir.",
       "introEs": "Bourton es un pueblo que ama de verdad a los perros, pero también es uno de los lugares más visitados de los Cotswolds, así que planificar un poco ayuda mucho. En verano y los fines de semana la pradera junto al río se llena de gente, y un perro nervioso estará más a gusto llegando temprano o fuera de temporada. Algunas atracciones admiten perros y otras no: el Cotswold Motoring Museum deja que los perros paseen por dentro, pero el Model Village solo admite perros guía, así que planifícalo. En los senderos esto es tierra de labranza, así que lleva a los perros con correa cerca de ovejas y vacas y, por ley, con correa corta de dos metros del 1 de marzo al 31 de julio en terreno de acceso público para proteger a las aves que anidan en el suelo. Por último, los visitantes que traen un perro desde la UE a Gran Bretaña necesitan ahora un Certificado Sanitario Animal para Gran Bretaña en lugar del Pasaporte Europeo, más microchip, vacuna antirrábica válida y, cuando se exija, tratamiento contra la tenia. Gestiónalo con tu veterinario bastante antes de viajar.",
       "introPt": "Bourton é uma aldeia que ama mesmo os cães, mas é também um dos lugares mais visitados dos Cotswolds, por isso planear um pouco ajuda muito. No verão e aos fins de semana o relvado junto ao rio enche de gente, e um cão nervoso fica mais à vontade chegando cedo ou fora de época. Algumas atrações aceitam cães e outras não: o Cotswold Motoring Museum deixa os cães passear lá dentro, mas a Model Village só admite cães-guia, por isso planeie em conformidade. Nos trilhos isto é terra agrícola, por isso mantenha os cães à trela perto de ovelhas e vacas e, por lei, com trela curta de dois metros de 1 de março a 31 de julho em terreno de acesso público para proteger as aves que nidificam no solo. Por fim, os visitantes que trazem um cão da UE para a Grã-Bretanha precisam agora de um Certificado Sanitário Animal para a Grã-Bretanha em vez do Passaporte Europeu, além de microchip, vacina antirrábica válida e, quando exigido, tratamento contra a ténia. Trate disso com o seu veterinário bastante antes de viajar.",
-      "places": []
+      "places": [],
+      "titleDe": "Wichtige Tipps für einen Besuch in Bourton-on-the-Water mit Hund",
+      "introDe": "Bourton ist ein wirklich hundeliebendes Dorf, aber auch einer der meistbesuchten Orte der Cotswolds, weshalb sich etwas Planung auszahlt. Im Sommer und an Wochenenden füllt sich der Grünstreifen am Fluss mit Menschen, und ein ängstlicher Hund fühlt sich wohler, wenn Sie früh oder außerhalb der Saison anreisen. Manche Attraktionen heißen Hunde willkommen, manche nicht: Das Cotswold Motoring Museum lässt Hunde herumschnuppern, das Model Village hingegen erlaubt nur Blindenführhunde, planen Sie also entsprechend. Auf den Wanderwegen handelt es sich um bewirtschaftetes Weideland, halten Sie Hunde daher in Nähe von Schafen und Rindern an der Leine und, gesetzlich vorgeschrieben, vom 1. März bis 31. Juli auf Gebieten mit freiem Zugangsrecht an einer kurzen Zwei-Meter-Leine, um bodenbrütende Vögel zu schützen. Schließlich benötigen Besucher, die einen Hund aus der EU nach Großbritannien einreisen, mittlerweile ein Great Britain Animal Health Certificate anstelle des EU-Heimtierausweises, zusätzlich einen Mikrochip, eine gültige Tollwutimpfung und, falls erforderlich, eine Bandwurmbehandlung. Arrangieren Sie dies rechtzeitig vor der Reise mit Ihrem Tierarzt.",
+      "faqsDe": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Days Out around Bourton-on-the-Water",
@@ -309,7 +357,11 @@
           "tipFr": "Venez à l'aube ou en soirée pour avoir les ponts et la pelouse pour vous",
           "tipEs": "Ven al amanecer o al atardecer para tener los puentes y la pradera para vosotros",
           "tipPt": "Venha ao amanhecer ou ao fim da tarde para ter as pontes e o relvado só para si",
-          "googleMapsUrl": "https://maps.google.com/?q=Bourton-on-the-Water+Village+Green"
+          "googleMapsUrl": "https://maps.google.com/?q=Bourton-on-the-Water+Village+Green",
+          "descriptionDe": "Als das Venedig der Cotswolds bekannt, ist das Herzstück Bourtons der flache Fluss Windrush, der direkt die Hauptstraße hinabfließt, überquert von einer Reihe niedriger, honigfarbener Steinbrücken und gesäumt von einem breiten Rasengrün. Hunde an der Leine sind willkommen, ihn entlangzuschlendern, und in ruhigeren Stunden ist es einer der schönsten Dorfspaziergänge Englands. Das Wasser ist flach, halten Sie Hunde jedoch heraus, wenn das Grün voller Familien ist.",
+          "petPolicyDe": "Hunde an der Leine entlang des Grüns und der Brücken",
+          "mustTryDe": "Die niedrigen Steinbrücken über den Windrush bei Sonnenaufgang",
+          "tipDe": "Kommen Sie bei Sonnenaufgang oder abends, um die Brücken und das Grün für sich allein zu haben"
         },
         {
           "name": "Cotswold Motoring Museum",
@@ -335,7 +387,11 @@
           "tipFr": "Visitez en semaine, plus calme et plus facile avec un chien en laisse",
           "tipEs": "Visita entre semana, cuando está más tranquilo y es más fácil con un perro con correa",
           "tipPt": "Visite a meio da semana, quando está mais calmo e é mais fácil com um cão à trela",
-          "googleMapsUrl": "https://maps.google.com/?q=Cotswold+Motoring+Museum+Bourton"
+          "googleMapsUrl": "https://maps.google.com/?q=Cotswold+Motoring+Museum+Bourton",
+          "descriptionDe": "Ein charmantes Museum für Oldtimer, Automobilia und die beliebte Kinderfigur Brum, untergebracht in einer alten Flussmühle im Herzen des Dorfes. Ungewöhnlich für eine Indoor-Attraktion dürfen Hunde mit ihren Besitzern herumschnuppern, was es zu einer seltenen Regentag-Option für Hundebesitzer macht. An Wochenenden kann es voll werden, ein ruhigerer Werktagsbesuch ist entspannter mit Hund.",
+          "petPolicyDe": "Hunde dürfen mit Besitzern herumgehen",
+          "mustTryDe": "Die Oldtimer und die Brum-Ausstellung",
+          "tipDe": "Besuchen Sie an einem Werktag, wenn es ruhiger und einfacher mit Hund an der Leine ist"
         },
         {
           "name": "Lower Slaughter Village and Old Mill",
@@ -361,9 +417,16 @@
           "tipFr": "Venez à pied depuis Bourton plutôt qu'en voiture ; le stationnement au village est très limité",
           "tipEs": "Ven andando desde Bourton en lugar de conducir; el aparcamiento en el pueblo es muy limitado",
           "tipPt": "Venha a pé a partir de Bourton em vez de conduzir; o estacionamento na aldeia é muito limitado",
-          "googleMapsUrl": "https://maps.google.com/?q=Lower+Slaughter+Old+Mill"
+          "googleMapsUrl": "https://maps.google.com/?q=Lower+Slaughter+Old+Mill",
+          "descriptionDe": "Eines der meistfotografierten Dörfer Englands, Lower Slaughter ist eine Ansammlung honigfarbener Cottages am kleinen Fluss Eye, mit einer alten Wassermühle und Fußgängerbrücken im Zentrum. Es ist ein leichter, überwiegend ebener Spaziergang von Bourton aus und ein lohnendes Ziel für sich. Hunde an der Leine sind entlang der Gassen und am Flussufer willkommen; halten Sie sie von den Enten fern und aus dem flachen Fluss heraus.",
+          "petPolicyDe": "Hunde an der Leine in Gassen und am Flussufer",
+          "mustTryDe": "Die alte Wassermühle und die Fußgängerbrücken am Fluss Eye",
+          "tipDe": "Laufen Sie von Bourton hierher, statt zu fahren; das Parken im Dorf ist sehr begrenzt"
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Tagesausflüge rund um Bourton-on-the-Water",
+      "introDe": "Bourton ist der klassische Cotswolds-Tagesausflug, und vieles davon funktioniert wunderbar mit Hund. Das Dorf selbst, durchzogen vom Fluss Windrush und seinen niedrigen Steinbrücken, lässt sich herrlich an der Leine erkunden, und die honigfarbenen Dörfer der Slaughters sind einen leichten Spaziergang entfernt. Eine der Indoor-Attraktionen ist ebenfalls wirklich hundefreundlich, sodass Sie einen ganzen Tag um Ihren Begleiter herum planen können.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Dog Sitting and Daycare around Bourton-on-the-Water",
@@ -395,7 +458,10 @@
           "tipFr": "Demandez à voir la licence et l'assurance à la réservation, comme recommandé localement",
           "tipEs": "Pide ver la licencia y el seguro al reservar, como se recomienda localmente",
           "tipPt": "Peça para ver a licença e o seguro ao reservar, como recomendado localmente",
-          "googleMapsUrl": "https://maps.google.com/?q=The+Dog+Day+Care+Club+Cotswolds"
+          "googleMapsUrl": "https://maps.google.com/?q=The+Dog+Day+Care+Club+Cotswolds",
+          "descriptionDe": "Ein lizenzierter Tagesbetreuungs- und Home-from-Home-Boarding-Dienst auf rund sechzig Hektar privatem Cotswold-Land, mit einer überdachten Spielscheune für Regentage. Lizenziert vom Cheltenham Borough Council, bietet er eine geräumige, betreute Alternative zu einer Hundepension, während Sie einen Tag in einer Attraktion verbringen, die keine Hunde zulässt. Buchen Sie im Voraus, besonders in der geschäftigen Sommersaison.",
+          "petPolicyDe": "Lizenzierte Tagesbetreuung und Home-Boarding",
+          "tipDe": "Fragen Sie bei der Buchung nach Lizenz- und Versicherungsnachweisen, wie vor Ort empfohlen"
         },
         {
           "name": "Kdog Daycare",
@@ -417,9 +483,15 @@
           "tipFr": "Organisez la garde à l'avance plutôt que le jour même, surtout en haute saison",
           "tipEs": "Organiza la guardería con antelación en lugar del mismo día, sobre todo en temporada alta",
           "tipPt": "Combine a creche com antecedência em vez do próprio dia, sobretudo na época alta",
-          "googleMapsUrl": "https://maps.google.com/?q=Bourton-on-the-Water"
+          "googleMapsUrl": "https://maps.google.com/?q=Bourton-on-the-Water",
+          "descriptionDe": "Ein lokaler Hundegassi- und Tagesbetreuungsdienst in und um Bourton-on-the-Water, der Spaziergänge und Tagesbetreuung für Besucher- und ansässige Hunde anbietet. Eine praktische Option, wenn Sie möchten, dass Ihr Hund einige Stunden bewegt und betreut wird, während Sie eine hundefreie Attraktion erkunden oder ein längeres Essen genießen. Vorab kontaktieren, um Verfügbarkeit und Anforderungen zu klären.",
+          "petPolicyDe": "Hundegassi und Tagesbetreuung; nach Vereinbarung",
+          "tipDe": "Vereinbaren Sie die Tagesbetreuung im Voraus statt am selben Tag, besonders in der Hochsaison"
         }
-      ]
+      ],
+      "titleDe": "Hundebetreuung und Tagesbetreuung rund um Bourton-on-the-Water",
+      "introDe": "Für die Stunden, in denen eine Attraktion oder ein langes Mittagessen für Hunde tabu ist, gibt es lizenzierte Tagesbetreuungs- und Home-Boarding-Optionen in und um Bourton sowie in den weiteren Cotswolds. Buchen Sie im Sommer und über Feiertage frühzeitig, wenn die gesamte Region ausgebucht ist, und rechnen Sie damit, dass eine lizenzierte Betreuungsperson vor der Ankunft Ihres Hundes einen Impfnachweis verlangt.",
+      "faqsDe": []
     }
   }
 }

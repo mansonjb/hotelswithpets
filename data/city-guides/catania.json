@@ -37,7 +37,11 @@
           "descriptionPt": "Uma trattoria siciliana autêntica e refinada em pleno coração de Catânia, distinguida com o Bib Gourmand do Guia MICHELIN 2026 pela boa cozinha a preços justos. A sala de jantar é teatral, repleta de objetos vintage, e a pequena esplanada na Piazza Turi Ferro enche-se de habitantes locais da primavera ao outono. Os cães calmos são bem-vindos nos lugares ao ar livre e a equipa, discreta, traz uma tigela de água a pedido.",
           "petPolicyPt": "Cães calmos bem-vindos na esplanada; pergunte pelo interior na época baixa",
           "mustTryPt": "Pasta alla Norma, caponata, carta de vinhos sicilianos",
-          "tipPt": "Reserve com antecedência para o jantar de fim de semana; o almoço durante a semana é o momento mais fácil com cão"
+          "tipPt": "Reserve com antecedência para o jantar de fim de semana; o almoço durante a semana é o momento mais fácil com cão",
+          "descriptionDe": "Ein authentisches, raffiniertes sizilianisches Restaurant im Herzen von Catania, im MICHELIN-Guide 2026 mit Bib Gourmand für gute Küche zu fairen Preisen ausgezeichnet. Der Speisesaal ist theatralisch, vollgestellt mit Vintage-Objekten, und die kleine Terrasse an der Piazza Turi Ferro füllt sich von Frühling bis Herbst mit Einheimischen. Ruhige Hunde sind auf den Außenplätzen willkommen, und das diskrete Personal bringt auf Wunsch einen Wassernapf.",
+          "petPolicyDe": "Ruhige Hunde auf der Außenterrasse willkommen; drinnen in der Nebensaison nachfragen",
+          "mustTryDe": "Pasta alla Norma, Caponata, sizilianische Weinkarte",
+          "tipDe": "Reservieren Sie im Voraus für das Wochenend-Dinner; das Mittagessen unter der Woche ist der einfachste Zeitpunkt mit Hund"
         },
         {
           "name": "Razmataz",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um wine bar moderno com cozinha, mesmo ao lado da Via Etnea, com uma das esplanadas com sombra mais agradáveis do centro histórico. A ementa curta vai rodando entre clássicos sicilianos e pratos regionais italianos, e a equipa habituou-se a ter cães instalados entre as mesas. A esplanada sob as árvores é o sítio ideal para uma tarde de verão com um copo de Etna Rosso.",
           "petPolicyPt": "Cães bem-vindos na esplanada todo o ano",
           "mustTryPt": "Tábuas de degustação, Etna Rosso e vinhos naturais",
-          "tipPt": "Chegue antes das 20:30 para apanhar a mesa de canto na esplanada; ao sexta e sábado convém reservar"
+          "tipPt": "Chegue antes das 20:30 para apanhar a mesa de canto na esplanada; ao sexta e sábado convém reservar",
+          "descriptionDe": "Eine angesagte Weinbar mit Küche, versteckt gleich neben der Via Etnea, mit einer der angenehmsten schattigen Terrassen der Altstadt. Die kompakte Karte wechselt oft zwischen sizilianischen Klassikern und italienischen Regionalgerichten, und das Personal ist daran gewöhnt, dass sich Hunde zwischen den Tischen niederlassen. Die Terrasse unter den Bäumen ist an einem Sommerabend mit einem Glas Etna Rosso der richtige Ort.",
+          "petPolicyDe": "Hunde ganzjährig auf der Terrasse willkommen",
+          "mustTryDe": "Verkostungsteller, Etna Rosso und Naturweine",
+          "tipDe": "Kommen Sie vor 20:30 Uhr, um sich den Ecktisch auf der Terrasse zu sichern; freitags/samstags hilft eine Reservierung"
         },
         {
           "name": "Scirocco Sicilian Fish Lab",
@@ -89,7 +97,11 @@
           "descriptionPt": "Um laboratório de street food de peixe, moderno, mesmo ao lado do histórico mercado da Pescheria de Catânia, que transforma a pesca da manhã em cones fritos de papel, hambúrgueres de atum e cuscuz de marisco. O balcão e uma pequena zona exterior na praça pedonal facilitam a paragem com cão. Aparece nos agregadores de restaurantes pet-friendly de Catânia.",
           "petPolicyPt": "Cães com trela bem-vindos nos lugares ao ar livre",
           "mustTryPt": "Cono di pesce fritto, burger di tonno, cuscus di mare",
-          "tipPt": "Vá mesmo antes de a Pescheria fechar, por volta das 14:00, e passeie pelas bancas de peixe com o seu cão depois do almoço"
+          "tipPt": "Vá mesmo antes de a Pescheria fechar, por volta das 14:00, e passeie pelas bancas de peixe com o seu cão depois do almoço",
+          "descriptionDe": "Ein modernes Street-Food-Fischlokal direkt neben Catanias historischem Pescheria-Markt, das den Morgenfang zu frittierten Papierhörnchen, Thunfischburgern und Meeresfrüchte-Couscous verarbeitet. Sitzplätze am Tresen und ein winziger Außenbereich auf dem Fußgängerplatz machen einen kurzen Stopp mit Hund einfach. Gelistet auf haustierfreundlichen Restaurant-Verzeichnissen für Catania.",
+          "petPolicyDe": "Angeleinte Hunde an den Außenplätzen willkommen",
+          "mustTryDe": "Cono di pesce fritto, Burger di tonno, Cuscus di mare",
+          "tipDe": "Gehen Sie kurz vor Schließung des Pescheria-Marktes gegen 14:00 Uhr hin und schlendern Sie nach dem Mittagessen mit Ihrem Hund an den Fischständen entlang"
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Existe alguma etiqueta siciliana para ter o cão à mesa?",
           "a": "Mantenha a trela curta, instale o cão debaixo da sua cadeira em vez de no corredor e peça primeiro à equipa se quiser usar uma tigela portátil. Os empregados de Catânia são descontraídos, mas as esplanadas apertadas fazem do espaço a principal limitação."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Catania",
+      "introDe": "Cataniass Restaurantkultur dreht sich um die Terrasse im Freien, die Fassade aus Lavastein und das lange sizilianische Mittagessen. Hunde passen ganz natürlich in dieses Bild. Von Mai bis Ende Oktober isst die Stadt draußen, und entlang der Via Etnea, rund um die Piazza Bellini und in den Boutique-Trattorien von San Berillo sind ruhige, angeleinte Hunde auf den Terrassen fast ausnahmslos willkommen. Drinnen ist es gemischter, und die Faustregel lautet: einfach fragen. Viele Inhaber sagen ja, sobald sie einen ruhigen Hund sehen, besonders außerhalb der Stoßzeiten. Die drei unten genannten Lokale haben ihre haustierfreundliche Politik in veröffentlichten Guides oder auf eigenen Kanälen bestätigt.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Catanias Restaurants drinnen erlaubt oder nur auf der Terrasse?",
+          "a": "Auf Außenterrassen wird angeleinten, ruhigen Hunden fast immer zugestimmt. Der Zutritt drinnen entscheidet jeder Inhaber selbst. Das im MICHELIN-Guide gelistete Me Cumpari Turiddu akzeptiert Hunde auf der Terrasse und, außerhalb der Stoßzeiten, auf Nachfrage auch im Speisesaal."
+        },
+        {
+          "q": "Gibt es eine sizilianische Etikette für Hunde am Tisch?",
+          "a": "Halten Sie die Leine kurz, lassen Sie den Hund unter dem Stuhl statt im Gang liegen und fragen Sie das Personal, bevor Sie einen tragbaren Napf herausholen. Die Kellner in Catania sind entspannt, aber die engen Terrassen bedeuten, dass Platz der Hauptfaktor ist."
+        }
       ]
     },
     "parks": {
@@ -186,7 +210,11 @@
           "descriptionPt": "O grandioso jardim urbano oitocentista de Catânia, também conhecido como Giardino Bellini, sobe a partir da Via Etnea por vários níveis em socalcos, com estátuas, palmeiras, fontes, um miradouro panorâmico e um calendário feito de flores. Os cães com trela são bem-vindos em todos os caminhos e os habitantes locais passeiam aqui os seus, de manhã e à tarde. A sombra é real, os declives suaves, e o Monte Etna fica emoldurado pelos pinheiros num dia limpo.",
           "petPolicyPt": "Cães com trela bem-vindos; sem zona sem trela dedicada",
           "amenitiesPt": "Caminhos com sombra, fontes de água, miradouros, quiosque de café",
-          "tipPt": "Use a entrada alta da Via Etnea para começar no terraço panorâmico e descer à sombra"
+          "tipPt": "Use a entrada alta da Via Etnea para começar no terraço panorâmico e descer à sombra",
+          "descriptionDe": "Cataniass prächtiger städtischer Garten aus dem 19. Jahrhundert, auch als Giardino Bellini bekannt, erstreckt sich bergauf von der Via Etnea über mehrere terrassierte Ebenen mit Statuen, Palmen, Springbrunnen, einem Panoramablick und einem aus Blumen gestalteten Kalender. Angeleinte Hunde sind auf jedem Weg willkommen, und Einheimische gehen hier morgens und abends mit ihren Hunden spazieren. Der Schatten ist reichlich, die Steigungen sanft, und der Ätna zeigt sich an klaren Tagen zwischen den normannischen Pinien.",
+          "petPolicyDe": "Angeleinte Hunde willkommen; keine eigene Freilaufzone",
+          "amenitiesDe": "Schattige Wege, Trinkbrunnen, Aussichtspunkte, Café-Kiosk",
+          "tipDe": "Nutzen Sie den oberen Eingang an der Via Etnea, um an der Panoramaterrasse zu starten und im Schatten bergab zu gehen"
         },
         {
           "name": "Parco Gioeni",
@@ -211,7 +239,11 @@
           "descriptionPt": "Um parque arborizado em subida no lado norte de Catânia, construído sobre uma corrente de lava da erupção de 1669, com pinhais, trilhos de jogging e o único ambiente verdadeiramente florestal da cidade. Os cães com trela são bem-vindos por todo o recinto e os trilhos altos oferecem vistas do Etna sem as multidões da Villa Bellini. O terreno é irregular em alguns pontos, por isso os cães mais velhos dão-se melhor nos circuitos pavimentados de baixo.",
           "petPolicyPt": "Cães com trela bem-vindos; sem zona sem trela",
           "amenitiesPt": "Sombra de pinheiros, trilhos pavimentados e de terra, miradouros sobre o Etna",
-          "tipPt": "Estacione fora, na Viale Mario Rapisardi; os caminhos interiores são estreitos e vai cruzar-se com carrinhos de bebé e corredores"
+          "tipPt": "Estacione fora, na Viale Mario Rapisardi; os caminhos interiores são estreitos e vai cruzar-se com carrinhos de bebé e corredores",
+          "descriptionDe": "Ein bewaldeter Park auf der Nordseite Catanias, angelegt auf einem Lavastrom des Ausbruchs von 1669, mit Pinienhainen, Jogging-Wegen und der einzigen richtigen Waldkulisse der Stadt. Angeleinte Hunde sind überall willkommen, und die oberen Wege bieten Ätna-Ausblicke ohne das Gedränge der Villa Bellini. Das Gelände ist stellenweise uneben, daher kommen ältere Hunde auf den unteren asphaltierten Rundwegen besser zurecht.",
+          "petPolicyDe": "Angeleinte Hunde willkommen; keine Freilaufzone",
+          "amenitiesDe": "Pinienschatten, asphaltierte und unbefestigte Wege, Ausblicke auf den Ätna",
+          "tipDe": "Parken Sie außerhalb an der Viale Mario Rapisardi; die inneren Wege sind eng, und Sie stehen dort mit Kinderwagen und Joggern an"
         },
         {
           "name": "Parco Vulcania",
@@ -236,7 +268,11 @@
           "descriptionPt": "Um parque de bairro em Picanello, na encosta este da cidade, com uma das pouquíssimas verdadeiras zonas para cães sem trela vedadas (area cani) do centro de Catânia. São permitidos brinquedos dentro do recinto, a iluminação noturna deixa visitar depois de o calor abrandar no verão e o parque envolvente fica aberto a passeios com trela. Um cenário genuíno de cães locais, não uma atração turística.",
           "petPolicyPt": "Sem trela permitido dentro da area cani vedada; trela obrigatória no exterior",
           "amenitiesPt": "Zona sem trela vedada, iluminação noturna, bancos",
-          "tipPt": "Melhor depois das 19:00 no verão, quando os habitantes locais descem com os seus cães e a temperatura desce abaixo dos 30 °C"
+          "tipPt": "Melhor depois das 19:00 no verão, quando os habitantes locais descem com os seus cães e a temperatura desce abaixo dos 30 °C",
+          "descriptionDe": "Ein Stadtteilpark in Picanello am Osthang der Stadt mit einer der wenigen richtigen eingezäunten Freilaufzonen (area cani) im Zentrum Catanias. Spielzeug ist innerhalb des Geheges erlaubt, eine Abendbeleuchtung ermöglicht Besuche, wenn die Sommerhitze nachlässt, und der umliegende Park steht für angeleinte Spaziergänge offen. Eine echte Hunde-Szene der Einheimischen statt einer touristischen Sehenswürdigkeit.",
+          "petPolicyDe": "Freilauf innerhalb der eingezäunten area cani erlaubt; außerhalb Leinenpflicht",
+          "amenitiesDe": "Eingezäunte Freilaufzone, Abendbeleuchtung, Sitzbänke",
+          "tipDe": "Am besten im Sommer nach 19:00 Uhr, wenn Einheimische mit ihren Hunden kommen und die Temperatur unter 30 °C fällt"
         }
       ],
       "tipsEn": [
@@ -300,6 +336,18 @@
           "q": "Que parque tem mais sombra no verão?",
           "a": "O Parco Gioeni, construído sobre uma corrente de lava arborizada, tem a melhor copa contínua de pinheiros. A Villa Bellini tem sombra nos níveis superiores e ao longo das alamedas, mas os seus terraços principais estão expostos."
         }
+      ],
+      "titleDe": "Die besten Parks & Grünflächen in Catania",
+      "introDe": "Catania ist eine dichte, auf Lava erbaute Stadt, und die Grünflächen sind kostbar. Die historische Villa Bellini ist der naheliegende tägliche Spaziergang für jeden Besucher in der Nähe der Via Etnea, während der Parco Gioeni und der Parco Vulcania die Möglichkeiten bergauf erweitern, mit einer eigenen Freilaufzone im Vulcania, die man im Zentrum einer süditalienischen Stadt nicht erwarten würde. Laut der Tierschutzverordnung der Stadt gilt in allen städtischen Parks Leinenpflicht; die Freilauf-Ausnahme gilt nur innerhalb der eingezäunten aree cani (Hundezonen).",
+      "faqsDe": [
+        {
+          "q": "Ist Freilauf in Catanias Parks legal?",
+          "a": "Nur innerhalb eingezäunter aree cani wie im Parco Vulcania. Überall sonst schreibt die städtische Verordnung eine Leine von höchstens 1,5 m vor. Die Ortspolizei setzt dies durch, besonders rund um Spielplätze, wo der Sicherheitsabstand 5 m beträgt."
+        },
+        {
+          "q": "Welcher Park bietet im Sommer am meisten Schatten?",
+          "a": "Der Parco Gioeni, auf einem bewaldeten Lavastrom erbaut, hat das beste durchgehende Pinien-Blätterdach. Die Villa Bellini bietet Schatten auf den oberen Ebenen und entlang der Alleen, aber ihre Hauptterrassen liegen offen."
+        }
       ]
     },
     "beaches": {
@@ -333,7 +381,11 @@
           "descriptionPt": "A praia para cães de referência de Catânia, gerida pelo Lido Azzurro no extenso areal da Plaja, a sul do centro. Chapéus de sol, espreguiçadeiras, água fresca e um duche dedicado para lavar o cão depois do banho. A trela é obrigatória na areia, mas os cães podem brincar sem trela dentro da zona de brincadeira vedada e na água. São exigidos à entrada o microchip e um certificado veterinário recente de boa saúde.",
           "petPolicyPt": "Microchip + vacinas exigidos, trela na areia, sem trela na zona vedada e na água",
           "amenitiesPt": "Espreguiçadeiras, chapéus de sol, duche para cães, água potável, snack-bar",
-          "tipPt": "Reserve uma espreguiçadeira online para os fins de semana de julho e agosto, pois a zona dos cães enche antes das 11:00"
+          "tipPt": "Reserve uma espreguiçadeira online para os fins de semana de julho e agosto, pois a zona dos cães enche antes das 11:00",
+          "descriptionDe": "Catanias Flaggschiff-Hundestrand, betrieben von Lido Azzurro am sandigen Plaja-Abschnitt südlich des Zentrums. Sonnenschirme, Liegen, frisches Wasser und eine eigene Abduschstation für Hunde nach dem Schwimmen. Im Sand gilt Leinenpflicht, aber innerhalb der eingezäunten Spielzone und im Wasser können Hunde frei laufen. Mikrochip und ein aktuelles tierärztliches Gesundheitszeugnis sind am Eingang erforderlich.",
+          "petPolicyDe": "Mikrochip + Impfungen erforderlich, Leine im Sand, Freilauf in eingezäunter Zone und im Wasser",
+          "amenitiesDe": "Sonnenliegen, Sonnenschirme, Hundedusche, Trinkwasser, Snackbar",
+          "tipDe": "Buchen Sie an Wochenenden im Juli/August eine Liege online, die Hundezone ist vor 11:00 Uhr voll"
         },
         {
           "name": "Spiaggia Libera n.2 (Dog Beach Comunale)",
@@ -358,7 +410,11 @@
           "descriptionPt": "Um troço público e gratuito da Plaja designado como praia municipal para cães pela autarquia de Catânia. Sem serviços, sem entrada paga, mas a areia contínua e a água pouco profunda fazem dela uma opção diária fácil para os residentes. Aplicam-se as mesmas regras de microchip + vacinação, e a autarquia sinaliza os limites da zona designada todas as épocas.",
           "petPolicyPt": "Microchip + vacinas exigidos, cães bem-vindos todo o ano na zona sinalizada",
           "amenitiesPt": "Acesso livre, praia aberta, sem serviços no local",
-          "tipPt": "Leve água fresca e um chapéu de sol, pois não há sombra. Melhor antes das 10:00 ou depois das 18:00 no verão"
+          "tipPt": "Leve água fresca e um chapéu de sol, pois não há sombra. Melhor antes das 10:00 ou depois das 18:00 no verão",
+          "descriptionDe": "Ein kostenloser öffentlicher Abschnitt der Plaja, den die Gemeinde Catania als städtischen Hundestrand ausgewiesen hat. Keine Einrichtungen, keine Gebühr, aber durchgehender Sand und flaches Wasser machen ihn zu einer einfachen täglichen Option für Einwohner. Es gelten dieselben Regeln zu Mikrochip und Impfungen, und die Gemeinde markiert die Grenzen der ausgewiesenen Zone jede Saison mit Beschilderung.",
+          "petPolicyDe": "Mikrochip + Impfungen erforderlich, Hunde in der markierten Zone ganzjährig willkommen",
+          "amenitiesDe": "Freier Zugang, offener Strand, keine Einrichtungen vor Ort",
+          "tipDe": "Bringen Sie frisches Wasser und einen Sonnenschirm mit, es gibt keinen Schatten. Im Sommer am besten vor 10:00 oder nach 18:00 Uhr"
         }
       ],
       "tipsEn": [
@@ -422,6 +478,18 @@
           "q": "Que documentação tenho de levar para uma praia para cães de Catânia?",
           "a": "Os dados do microchip e um libretto sanitario (caderneta de vacinação) atualizado que comprove a vacina antirrábica e as vacinas DHPP habituais. As concessões privadas verificam à entrada e a praia municipal pode ser inspecionada pela polícia local."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Catania",
+      "introDe": "Catania ist eine der einfachsten Großstädte Italiens für einen Strandtag mit Hund. Die örtliche Behörde und einige private Lidos entlang der Viale Kennedy und der Viale Africa haben förmlich genehmigte Hundestrände eingerichtet: Jeder verlangt einen Mikrochip, einen aktuellen Impfnachweis und eine Leine im Sand, wobei Freilauf auf die eigens dafür vorgesehenen Spielbereiche und das Wasser beschränkt ist. Von November bis April ist der Zugang freier, aber die meisten Lidos schließen ihre Einrichtungen, und Sie sollten eigenes Wasser mitbringen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde an allen Stränden Catanias erlaubt?",
+          "a": "Nein. Nur die städtische Spiaggia Libera n.2 und einige private hundefreundliche Lidos wie Lido Azzurro nehmen sie im Sommer auf. Am Rest der Plaja sind Hunde laut städtischer Verordnung von Juni bis September verboten."
+        },
+        {
+          "q": "Welche Unterlagen brauche ich für einen Hundestrand in Catania?",
+          "a": "Mikrochip-Daten und ein aktuelles libretto sanitario (Impfheft) mit Nachweis der Tollwut- und Standard-DHPP-Impfungen. Private Lidos kontrollieren am Eingang, der städtische Strand kann von der Ortspolizei kontrolliert werden."
+        }
       ]
     },
     "vets": {
@@ -453,7 +521,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Citta+di+Catania",
           "servicesPt": "Urgências 24h, cirurgia, medicina interna, imagiologia (TAC, ecografia), UCI",
           "descriptionPt": "O maior hospital de referência de Catânia, com equipa completa no local, integrado na rede VetPartners Italia, com pessoal noturno 365 dias por ano. Consultas de especialidade em cirurgia, medicina interna, dermatologia, oftalmologia e UCI. O hospital recebe urgências sem marcação e faz a triagem à chegada.",
-          "tipPt": "Telefone antes mesmo às 03:00, pois preparam previamente a sala de triagem e o estacionamento"
+          "tipPt": "Telefone antes mesmo às 03:00, pois preparam previamente a sala de triagem e o estacionamento",
+          "servicesDe": "24-Stunden-Notfall, Chirurgie, Innere Medizin, Bildgebung (CT, Ultraschall), Intensivstation",
+          "descriptionDe": "Catanias größtes voll besetztes Referenzkrankenhaus, Teil des VetPartners-Italia-Netzwerks, mit Nachtpersonal vor Ort an 365 Tagen im Jahr. Fachberatungen in Chirurgie, Innerer Medizin, Dermatologie, Ophthalmologie und Intensivmedizin. Die Klinik nimmt Notfälle ohne Termin an und führt bei Ankunft eine Triage durch.",
+          "tipDe": "Rufen Sie auch um 03:00 Uhr vorher an, dann wird der Behandlungsraum und der Parkplatz vorbereitet"
         },
         {
           "name": "Clinica Veterinaria Ferrarotto",
@@ -476,7 +547,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Ferrarotto+Catania",
           "servicesPt": "Urgências 24h, cirurgia de tecidos moles, animais exóticos, laboratório",
           "descriptionPt": "Uma clínica 24 horas com longa história no centro histórico, com capacidade para cães, gatos e animais exóticos. Hospital de base útil para quem fica à volta da Via Etnea ou da Piazza Stesicoro, graças à sua localização compacta e acessível a pé.",
-          "tipPt": "O veterinário 24h mais próximo a pé a partir da maioria dos hotéis do centro; consegue lá chegar em 15 minutos a partir da Piazza Duomo"
+          "tipPt": "O veterinário 24h mais próximo a pé a partir da maioria dos hotéis do centro; consegue lá chegar em 15 minutos a partir da Piazza Duomo",
+          "servicesDe": "24-Stunden-Notfall, Weichteilchirurgie, exotische Tiere, Labor",
+          "descriptionDe": "Eine seit Langem etablierte 24-Stunden-Klinik in der Altstadt mit Kapazität für Hunde, Katzen und exotische Haustiere. Aufgrund der zentralen Lage und der fußläufigen Erreichbarkeit ein nützliches Basiskrankenhaus für Reisende rund um die Via Etnea oder die Piazza Stesicoro.",
+          "tipDe": "Nächstgelegener 24-Stunden-Tierarzt zu Fuß von den meisten zentralen Hotels, in 15 Minuten von der Piazza Duomo erreichbar"
         },
         {
           "name": "Ospedale Veterinario Emergency Vet Landi",
@@ -499,7 +573,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Ospedale+Veterinario+Emergency+Vet+Catania",
           "servicesPt": "Pronto soccorso 24/7, cirurgia, imagiologia, internamento",
           "descriptionPt": "Um hospital de urgência que assegura serviços de pronto soccorso (cuidados urgentes) de dia e de noite, 365 dias por ano. Particularmente útil para os donos que ficam nos bairros do leste (Picanello, Barriera, Ognina) e ao longo da Plaja, com pessoal noturno fiável.",
-          "tipPt": "O hospital 24h mais próximo dos hotéis de praia da Plaja, a cerca de 10 minutos de carro do Lido Azzurro"
+          "tipPt": "O hospital 24h mais próximo dos hotéis de praia da Plaja, a cerca de 10 minutos de carro do Lido Azzurro",
+          "servicesDe": "24/7 Notaufnahme (pronto soccorso), Chirurgie, Bildgebung, stationäre Aufnahme",
+          "descriptionDe": "Ein Notfallkrankenhaus, das Tag und Nacht 365 Tage im Jahr einen pronto soccorso (Notdienst) anbietet. Besonders nützlich für Halter, die in den östlichen Stadtteilen (Picanello, Barriera, Ognina) und entlang der Plaja wohnen, mit verlässlicher Nachtbesetzung.",
+          "tipDe": "Nächstgelegenes 24-Stunden-Krankenhaus zu den Hotels an der Plaja, etwa 10 Minuten mit dem Auto vom Lido Azzurro entfernt"
         }
       ],
       "tipsEn": [
@@ -562,6 +639,18 @@
         {
           "q": "O meu seguro de animais da UE funciona em Catânia?",
           "a": "A maioria das seguradoras de animais europeias reembolsa os cuidados veterinários italianos mediante a apresentação da fattura sanitaria (fatura formal) e dos dados do microchip. Paga-se no local e reclama-se depois. Os serviços veterinários da ASL não são gratuitos para não residentes."
+        }
+      ],
+      "titleDe": "24-Stunden-Notfall-Tierärzte in Catania",
+      "introDe": "Catania verfügt über eines der dichtesten Netze an 24-Stunden-Tierkliniken in Süditalien, mit drei Vollkliniken innerhalb der Stadtgrenzen und mehreren weiteren im gesamten Großraum. Alle drei innerstädtischen 24-Stunden-Kliniken decken Innere Medizin, Chirurgie, Bildgebung und Notfall-Triage ab, und mindestens eine hat nachts stets einen Tierarzt vor Ort. Reisende sollten die unten stehenden Nummern vor der Ankunft speichern, sowohl im Handy als auch auf Papier.",
+      "faqsDe": [
+        {
+          "q": "Welcher Tierarzt in Catania hat sonntags und an Feiertagen 24 Stunden geöffnet?",
+          "a": "Alle drei genannten: Clinica Veterinaria Città di Catania, Clinica Veterinaria Ferrarotto und Ospedale Veterinario Emergency Vet Landi sind 365 Tage im Jahr geöffnet. Rufen Sie vor der Ankunft an, um die Besetzung am 15. August (Ferragosto) und am 25. Dezember zu bestätigen."
+        },
+        {
+          "q": "Funktioniert meine EU-Haustierversicherung in Catania?",
+          "a": "Die meisten europäischen Haustierversicherer erstatten italienische Tierarztkosten gegen Vorlage der fattura sanitaria (offizielle Rechnung) und der Mikrochip-Daten. Vor Ort zahlen, danach die Erstattung beantragen. Die tierärztlichen Leistungen der ASL sind für Nicht-Einwohner nicht kostenlos."
         }
       ]
     },
@@ -680,6 +769,18 @@
           "q": "O aeroporto de Catânia é fácil com um animal?",
           "a": "Muito fácil. O Catânia Fontanarossa tem uma zona de alívio para animais claramente assinalada, aceita cães de assistência em qualquer lugar e a maioria das grandes companhias (ITA, Ryanair, easyJet, Wizz Air) tem programas para animais em cabina ou porão. Reserve o lugar para o animal no momento da compra do bilhete."
         }
+      ],
+      "titleDe": "Mit Hund in Catania unterwegs",
+      "introDe": "Catania ist eine kompakte Stadt, und die meisten Reisenden mit Haustier gehen zu Fuß: Das centro storico ist im Wesentlichen eine große verkehrsberuhigte Zone (ZTL) mit wenig Verkehr. AMTS betreibt das Bus-, U-Bahn- und BRT-Netz und folgt der landesweiten italienischen Regel für Hunde im Nahverkehr: angeleint und mit Maulkorb, ein großer oder zwei kleine Hunde pro Fahrkarteninhaber. Sowohl die schmalspurige blaue Ferrovia Circumetnea rund um den Vulkan als auch die Regionalzüge von Trenitalia akzeptieren Hunde unter ähnlichen Bedingungen. Taxis sind unterschiedlich, daher lohnt es sich, eine haustierfreundliche Fahrt im Voraus per App oder Telefon zu buchen.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich einen Maulkorb in den Bussen von Catania?",
+          "a": "Das italienische Beförderungsrecht schreibt vor, dass ein Maulkorb mitgeführt und auf Verlangen des Kontrolleurs verwendet werden muss. Die meisten Fahrer bestehen bei ruhigen kleinen/mittleren Hunden nicht darauf, aber Kontrolleure tun dies bei Kontrollen. Führen Sie einen weichen Maulkorb in der Tasche mit."
+        },
+        {
+          "q": "Wie einfach ist der Flughafen Catania mit einem Haustier?",
+          "a": "Sehr einfach. Catania Fontanarossa verfügt über einen klar ausgewiesenen Hundeauslaufbereich, lässt Assistenzhunde überall zu, und die meisten großen Fluggesellschaften (ITA, Ryanair, easyJet, Wizz Air) bieten Haustierprogramme für Kabine oder Frachtraum an. Buchen Sie den Haustierplatz bereits beim Ticketkauf."
+        }
       ]
     },
     "attractions": {
@@ -709,7 +810,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Piazza+del+Duomo+Catania",
           "descriptionPt": "A praça barroca principal no coração de Catânia, dominada pela catedral de Sant'Agata em lava e mármore, pela Fontana dell'Elefante, uma estátua de elefante esculpida em lava (o símbolo da cidade), e pela fonte do Amenano. Praça pública aberta, perfeita com trela, com várias esplanadas pet-friendly à volta do perímetro. O interior da catedral não fica aberto a cães.",
           "petPolicyPt": "Ao ar livre, cães com trela bem-vindos na praça; interior da catedral fechado a cães que não sejam de assistência",
-          "tipPt": "Combine com o mercado da Pescheria mesmo atrás; os dois locais ficam a segundos um do outro e são pet-friendly ao ar livre"
+          "tipPt": "Combine com o mercado da Pescheria mesmo atrás; os dois locais ficam a segundos um do outro e são pet-friendly ao ar livre",
+          "descriptionDe": "Der barocke Hauptplatz im Herzen Catanias, beherrscht von der Kathedrale der Heiligen Agatha aus Lava und Marmor, der Fontana dell'Elefante mit ihrer aus Lava gehauenen Elefantenstatue (dem Wahrzeichen der Stadt) und dem Amenano-Brunnen. Offener öffentlicher Platz, an der Leine perfekt, mit mehreren haustierfreundlichen Terrassen ringsum. Das Innere der Kathedrale ist für Hunde nicht geöffnet.",
+          "petPolicyDe": "Im Freien, angeleinte Hunde auf dem Platz willkommen; Kathedraleninneres für Nicht-Assistenzhunde geschlossen",
+          "tipDe": "Kombinieren Sie den Besuch mit dem Pescheria-Markt gleich dahinter, beide Orte sind nur Sekunden voneinander entfernt und im Freien hundefreundlich"
         },
         {
           "name": "Via Crociferi & Via dei Crociferi",
@@ -730,7 +834,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Via+Crociferi+Catania",
           "descriptionPt": "Um curto troço pedonal ladeado por quatro igrejas e conventos barrocos em fila, considerado o eixo mais fotogénico do barroco de Catânia. Sempre aberto, calcetado em pedra de lava, gratuito e fácil com um cão à trela. Os interiores das igrejas não admitem cães, mas a própria rua é o destaque.",
           "petPolicyPt": "Rua pedonal ao ar livre, cães com trela bem-vindos",
-          "tipPt": "Vá à hora dourada para as melhores fotografias; a essa hora o calcetamento de pedra de lava já fica fresco ao toque"
+          "tipPt": "Vá à hora dourada para as melhores fotografias; a essa hora o calcetamento de pedra de lava já fica fresco ao toque",
+          "descriptionDe": "Ein kurzer Fußgängerabschnitt, gesäumt von vier barocken Kirchen und Klöstern in Reihe, gilt als die fotogenste Achse des barocken Catania. Immer geöffnet, mit Lavastein gepflastert, kostenlos und mit angeleintem Hund problemlos zu begehen. Die Innenräume der Kirchen lassen keine Hunde zu, aber die Straße selbst ist das Highlight.",
+          "petPolicyDe": "Fußgängerstraße im Freien, angeleinte Hunde willkommen",
+          "tipDe": "Gehen Sie zur goldenen Stunde für die besten Fotos; das Lavasteinpflaster ist dann bereits kühl"
         },
         {
           "name": "Castello Ursino (exterior)",
@@ -751,7 +858,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Castello+Ursino+Catania",
           "descriptionPt": "Uma fortaleza do século XIII construída pelo imperador Frederico II, que ainda mostra as suas quatro torres de canto originais e as muralhas-cortina após séculos de correntes de lava e terramotos que deixaram o castelo isolado terra adentro. A praça em frente ao castelo é uma praça aberta e gratuita, ideal para um passeio à trela e uma paragem para fotografia. O Museo Civico, no interior do castelo, não admite cães que não sejam de assistência.",
           "petPolicyPt": "Praça exterior aberta a cães com trela; interior do museu fechado a cães que não sejam de assistência",
-          "tipPt": "Dê a volta ao perímetro para distinguir a linha de lava que outrora rodeou o castelo em 1669"
+          "tipPt": "Dê a volta ao perímetro para distinguir a linha de lava que outrora rodeou o castelo em 1669",
+          "descriptionDe": "Eine im 13. Jahrhundert von Kaiser Friedrich II. erbaute Festung, die nach Jahrhunderten von Lavaströmen und Erdbeben, die die Burg landeinwärts zurückließen, noch ihre vier ursprünglichen Ecktürme und Ringmauern zeigt. Der Platz vor der Burg ist ein freier, offener Bereich, ideal für einen angeleinten Spaziergang und einen Fotostopp. Das Museo Civico im Inneren der Burg lässt keine Nicht-Assistenzhunde zu.",
+          "petPolicyDe": "Außenplatz für angeleinte Hunde geöffnet; Museumsinneres für Nicht-Assistenzhunde geschlossen",
+          "tipDe": "Umrunden Sie die Anlage, um die Lavastrom-Linie zu entdecken, die die Burg 1669 einst umgab"
         }
       ],
       "tipsEn": [
@@ -814,6 +924,18 @@
         {
           "q": "O Monte Etna é viável com um cão?",
           "a": "Sim, para os trilhos mais baixos à volta do Rifugio Sapienza (cerca de 1900 m), com trela. O teleférico e as subidas guiadas à zona do cume, acima dos 2500 m, não aceitam cães por razões de segurança e devido ao piso vulcânico solto."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten & Spaziergänge in Catania",
+      "introDe": "Cataniass UNESCO-gelistetes Barockzentrum, nach dem Erdbeben von 1693 aus schwarzer Lava wiederaufgebaut, ist außerhalb der geschlossenen Monumente enorm hundefreundlich. Die Piazza Duomo, die Via Crociferi, der Fischmarkt Pescheria und der Aufstieg zum Ätna sind allesamt im Freien, angeleint und mit einem ruhigen Hund problemlos zu bewältigen. Die größten Einschränkungen sind die sommerliche Nachmittagshitze auf dem Lavapflaster und dieselbe Museums- und Kirchenregel wie überall in Italien: Innenräume lassen in der Regel keine Nicht-Assistenzhunde zu.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund Catanias Kirchen und Museen betreten?",
+          "a": "Grundsätzlich nein, außer zertifizierten Assistenztieren. Italienische Kirchen- und Museumsregeln schließen Haustierhunde von Innenräumen aus. Alle Außenplätze, Klosterhöfe und Fußgängerstraßen sind hundefreundlich."
+        },
+        {
+          "q": "Ist der Ätna mit Hund machbar?",
+          "a": "Ja, für die unteren Wege rund um die Rifugio Sapienza (etwa 1.900 m) an der Leine. Die Seilbahn und die geführten Gipfelaufstiege über 2.500 m nehmen aus Sicherheitsgründen und wegen des weichen Vulkanbodens keine Hunde mit."
         }
       ]
     },
@@ -885,6 +1007,18 @@
           "q": "Qual o melhor mês para visitar Catânia com um cão?",
           "a": "Maio, o final de setembro ou outubro. A temperatura do mar ainda é amena, o calcetamento de lava é caminhável e a cidade não está em pleno bloqueio de calor de verão. Evite a primeira metade de agosto, a menos que se limite às horas de início da manhã e do fim da tarde."
         }
+      ],
+      "titleDe": "Wichtige Tipps für Reisende mit Haustier in Catania",
+      "introDe": "Catania ist eine heiße, dichte süditalienische Stadt, erbaut auf Lava. Mit einem großen klimatischen Zugeständnis (sommerliche Nachmittagshitze) und einem großen bürokratischen Zugeständnis (Italiens Standard-Haustierregeln) ist sie eine der einfachsten Städte Siziliens für einen Besuch mit Hund. Dieselben Unterlagen, die Ihnen die Einreise nach Italien ermöglichen, verschaffen Ihnen auch Zugang zu Catania: ein EU-Heimtierausweis oder, für Besucher von außerhalb der EU, eine innerhalb von 10 Tagen ausgestellte tierärztliche Gesundheitsbescheinigung. Mikrochip und Tollwutimpfung sind Pflicht.",
+      "faqsDe": [
+        {
+          "q": "Gibt es eine Liste eingeschränkter Hunderassen in Catania?",
+          "a": "Italien hat die landesweite rasseabhängige Liste 2009 abgeschafft; stattdessen sind Halter für jeden als potenziell gefährlich eingestuften Hund verantwortlich. In der Praxis ist keine Rasse in Catania verboten, aber die Leinen- und Maulkorbpflicht im Nahverkehr wird ebenso durchgesetzt wie die städtische Verordnung zum Abspülen der Gehwege."
+        },
+        {
+          "q": "Bester Monat für einen Besuch in Catania mit Hund?",
+          "a": "Mai, Ende September oder Oktober. Die Meerestemperatur ist noch mild, das Lavapflaster ist begehbar, und die Stadt steckt nicht in der vollen Sommerhitze fest. Vermeiden Sie die erste Augusthälfte, es sei denn, Sie halten sich an die frühen Morgen- und Abendstunden."
+        }
       ]
     },
     "petsitting": {
@@ -913,7 +1047,9 @@
           "tipFr": "Filtrez « possède un véhicule » s'il vous faut quelqu'un qui peut conduire votre chien chez le vétérinaire",
           "tipEs": "Filtra por «tiene vehículo» si necesitas alguien que pueda llevar a tu perro al veterinario",
           "descriptionPt": "A maior plataforma de pet-sitting de Itália, com mais de 13 sitters ativos em Catânia que oferecem alojamento em casa, passeios, creche e visitas ao domicílio. Os perfis incluem selos de verificação, avaliações e indicações de idioma. Pagamento e seguro tratados dentro da aplicação.",
-          "tipPt": "Filtre por 'Tem veículo próprio' se precisar de alguém que possa levar o seu cão ao veterinário"
+          "tipPt": "Filtre por 'Tem veículo próprio' se precisar de alguém que possa levar o seu cão ao veterinário",
+          "descriptionDe": "Die größte Haustiersitter-Plattform Italiens mit über 13 aktiven Sittern in Catania, die Betreuung zu Hause, Gassi-Runden, Tagesbetreuung und Hausbesuche anbieten. Profile enthalten Verifizierungssiegel, Bewertungen und Sprach-Tags. Zahlung und Versicherung werden in der App abgewickelt.",
+          "tipDe": "Filtern Sie nach 'Besitzt ein Fahrzeug', wenn Sie jemanden brauchen, der Ihren Hund zum Tierarzt fahren kann"
         },
         {
           "name": "Pawshake",
@@ -932,7 +1068,9 @@
           "tipFr": "Réservez la rencontre quelques jours avant le séjour ; beaucoup de sitters catanais travaillent et préfèrent un premier contact en soirée",
           "tipEs": "Reserva el encuentro previo unos días antes del viaje; muchos sitters cataneses trabajan a tiempo completo y prefieren las primeras citas por la tarde",
           "descriptionPt": "Plataforma europeia de pet-sitting com forte cobertura em Itália, incluindo um diretório dedicado a Catânia para sitters de cães, sitters de gatos e passeadores. Seguro, apoio veterinário e encontros de apresentação incluídos.",
-          "tipPt": "Marque o encontro de apresentação uns dias antes da sua viagem; muitos sitters de Catânia trabalham a tempo inteiro e preferem as primeiras conversas ao fim da tarde"
+          "tipPt": "Marque o encontro de apresentação uns dias antes da sua viagem; muitos sitters de Catânia trabalham a tempo inteiro e preferem as primeiras conversas ao fim da tarde",
+          "descriptionDe": "Europäische Haustiersitter-Plattform mit starker Abdeckung in Italien, einschließlich eines eigenen Catania-Verzeichnisses für Hundesitter, Katzensitter und Gassigeher. Versicherung, tierärztliche Unterstützung und Kennenlerntreffen inbegriffen.",
+          "tipDe": "Buchen Sie das Kennenlerntreffen einige Tage vor Ihrer Reise; viele Sitter in Catania arbeiten Vollzeit und bevorzugen abendliche Termine"
         },
         {
           "name": "TrustedHousesitters",
@@ -951,7 +1089,9 @@
           "tipFr": "Plutôt adapté pour les absences ≥ 4 nuits ; en dessous, un sitter freelance facturé à la nuit est généralement moins cher",
           "tipEs": "Más útil para ausencias ≥ 4 noches; por debajo, un sitter freelance por noche suele salir más barato",
           "descriptionPt": "Troca de casa e cuidado de animais com 14 perfis verificados em Catânia. Os sitters ficam em sua casa em troca de cuidarem dos seus animais; a plataforma cobra uma quota anual em vez de comissões por estadia.",
-          "tipPt": "Mais indicado se estiver ausente ≥ 4 noites; abaixo disso, os sitters freelance ao preço por noite costumam ficar mais baratos"
+          "tipPt": "Mais indicado se estiver ausente ≥ 4 noites; abaixo disso, os sitters freelance ao preço por noite costumam ficar mais baratos",
+          "descriptionDe": "Haus- und Haustiersitting-Austausch mit 14 verifizierten Profilen in Catania. Sitter wohnen in Ihrer Wohnung im Austausch dafür, dass sie sich um Ihre Haustiere kümmern; die Plattform berechnet eine Jahresmitgliedschaft statt Gebühren pro Aufenthalt.",
+          "tipDe": "Am besten geeignet, wenn Sie ≥ 4 Nächte weg sind; darunter sind freiberufliche Sitter pro Nacht meist günstiger"
         }
       ],
       "tipsEn": [
@@ -1014,6 +1154,18 @@
         {
           "q": "Os sitters de Catânia têm seguro?",
           "a": "Os sitters reservados através do Rover, do Pawshake e do TrustedHousesitters beneficiam do seguro de responsabilidade civil e do apoio ao cliente de cada plataforma. As reservas freelance diretas (por exemplo, através de grupos do Facebook) não têm seguro por defeito."
+        }
+      ],
+      "titleDe": "Hundesitter & Gassigeher in Catania",
+      "introDe": "Catania verfügt über eine gut etablierte freiberufliche Haustiersitter-Szene mit rund 25 aktiven Sittern und Gassigehern auf Rover, Pawshake und PetBacker sowie rund 14 verifizierten TrustedHousesitters-Profilen. Die Durchschnittspreise liegen Anfang 2026 bei 15 € pro Nacht für die Betreuung zu Hause und 12 € pro Spaziergang. Die meisten Sitter sprechen Italienisch, manche zusätzlich Englisch, Französisch oder Spanisch, angegeben in ihrem Profil.",
+      "faqsDe": [
+        {
+          "q": "Wie viel sollte ich für einen Hundesitter in Catania einplanen?",
+          "a": "Etwa 15 € pro Nacht für die Betreuung zu Hause und 10–12 € pro Spaziergang bei Rover und Pawshake. Tagesbetreuung kostet 25–35 € pro Tag. Zu Ostern, Ferragosto und Weihnachten gelten Feiertagszuschläge."
+        },
+        {
+          "q": "Sind Sitter in Catania versichert?",
+          "a": "Über Rover, Pawshake und TrustedHousesitters gebuchte Sitter profitieren von der Haftpflichtversicherung und dem Kundensupport der jeweiligen Plattform. Direkte freiberufliche Buchungen (z. B. über Facebook-Gruppen) sind standardmäßig nicht versichert."
         }
       ]
     }

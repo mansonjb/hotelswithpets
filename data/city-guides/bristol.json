@@ -37,7 +37,11 @@
           "descriptionPt": "Um pub histórico de Bristol na calcetada King Street, famoso pelo jazz ao vivo sete noites por semana. Os cães são bem-vindos no interior e na pequena esplanada da frente; o pub mantém uma tigela de água atrás do balcão e o chão de madeira acolhe cães mesmo nos dias de chuva.",
           "petPolicyPt": "Cães bem-vindos no interior e na esplanada",
           "mustTryPt": "Cervejas da Bristol Beer Factory local, assado de fim de semana",
-          "tipPt": "O jazz ao vivo pode ficar barulhento depois das 21:00; para um cão ansioso, chegue às 17:00 para a hora dourada mais tranquila e peça a comida cedo."
+          "tipPt": "O jazz ao vivo pode ficar barulhento depois das 21:00; para um cão ansioso, chegue às 17:00 para a hora dourada mais tranquila e peça a comida cedo.",
+          "descriptionDe": "Ein historischer Pub in Bristol an der Kopfsteinpflasterstraße King Street, bekannt für Live-Jazz an sieben Abenden die Woche. Hunde sind drinnen und auf der kleinen Terrasse vor dem Haus willkommen; der Pub hält einen Wassernapf hinter der Theke bereit, und der Holzboden ist auch an Regentagen hundefreundlich.",
+          "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen",
+          "mustTryDe": "Lokale Ales der Bristol Beer Factory, Sonntagsbraten am Wochenende",
+          "tipDe": "Der Live-Jazz kann nach 21:00 Uhr laut werden, für einen ängstlichen Hund lieber schon um 17:00 Uhr in der ruhigeren goldenen Stunde kommen und früh bestellen."
         },
         {
           "name": "The Cloak and Dagger",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um gastropub de Stokes Croft divulgado especificamente como pet-friendly. O pub mantém guloseimas atrás do balcão, tigelas de água por todo o lado e uma ardósia com os nomes dos cães clientes habituais. Pizzas de massa lêveda e cidras do West Country.",
           "petPolicyPt": "Ativamente pet-friendly, com guloseimas oferecidas",
           "mustTryPt": "Pizza de massa lêveda, cidra Thatchers Haze",
-          "tipPt": "O assado de domingo (12:00 às 17:00) é o melhor momento para observar cães, por isso reserve com antecedência e peça uma mesa à janela para um canto mais sossegado."
+          "tipPt": "O assado de domingo (12:00 às 17:00) é o melhor momento para observar cães, por isso reserve com antecedência e peça uma mesa à janela para um canto mais sossegado.",
+          "descriptionDe": "Ein Gastropub in Stokes Croft, der sich gezielt als hundefreundlich vermarktet. Der Pub hält Leckerlis hinter der Theke, überall Wassernäpfe und eine Tafel mit den Namen der Stammgast-Hunde bereit. Sauerteig-Pizzen und Cider aus West Country.",
+          "petPolicyDe": "Aktiv hundefreundlich, Leckerlis vorhanden",
+          "mustTryDe": "Sauerteig-Pizza, Thatchers-Haze-Cider",
+          "tipDe": "Der Sonntagsbraten (12:00–17:00 Uhr) ist die Hauptzeit für Hundebeobachtungen, vorher reservieren und für eine ruhigere Ecke einen Tisch am Fenster erbitten."
         },
         {
           "name": "The Apple",
@@ -89,7 +97,11 @@
           "descriptionPt": "Uma barcaça de cidra atracada em Welsh Back, que serve mais de 30 cidras do West Country a copo. Os cães são bem-vindos no convés do barco (abrigado com telhado) e na esplanada do cais. Uma instituição de Bristol desde 2003, com donos e cães igualmente habituais.",
           "petPolicyPt": "Cães bem-vindos no convés e no cais",
           "mustTryPt": "Prova de cidras de maçã (5 cidras), pão com pulled pork",
-          "tipPt": "As noites de verão no cais enchem depressa, por isso chegue antes das 17:00 ou reserve uma mesa no interior do barco para garantir lugar."
+          "tipPt": "As noites de verão no cais enchem depressa, por isso chegue antes das 17:00 ou reserve uma mesa no interior do barco para garantir lugar.",
+          "descriptionDe": "Eine schwimmende Cider-Barkasse am Welsh Back, mit über 30 Ciders aus West Country vom Fass. Hunde sind auf dem Bootsdeck (überdacht) sowie auf der Terrasse am Kai willkommen. Eine Bristol-Institution seit 2003, Besitzer und Hunde gleichermaßen Stammgäste.",
+          "petPolicyDe": "Hunde auf Deck und am Kai willkommen",
+          "mustTryDe": "Apfelcider-Flight (5 Ciders), Pulled-Pork-Sandwich",
+          "tipDe": "Sommerabende am Kai sind schnell voll, vor 17:00 Uhr kommen oder drinnen auf dem Boot einen Tisch reservieren, um einen Sitzplatz sicherzugehen."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Posso levar o meu cão a um restaurante de Bristol para jantar?",
           "a": "A política dos restaurantes interiores varia. Os pubs que servem comida (gastropubs) costumam dizer que sim. Os restaurantes de alta gastronomia e de cadeia costumam dizer que não. A maioria das esplanadas exteriores acolhe cães."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Bristol",
+      "introDe": "Bristol ist eine der hundefreundlichsten Städte Großbritanniens. Die britische Pub-Tradition erstreckt sich ganz natürlich auf Gastropubs und Craft-Beer-Lokale, und die meisten unabhängigen Cafés in Stokes Croft, Clifton und Wapping Wharf heißen angeleinte Hunde drinnen wie draußen willkommen. Wassernäpfe stehen häufig am Eingang bereit, und viele Lokale halten Leckerlis hinter der Theke vor.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Bristols Pubs erlaubt?",
+          "a": "Ja, die britische Pub-Tradition heißt Hunde ausdrücklich willkommen. Die meisten unabhängigen Pubs in Bristol lassen Hunde an der Leine hinein. Kettenpubs (vor allem Wetherspoons) sind strenger, vorher anrufen empfohlen."
+        },
+        {
+          "q": "Stellen Bristols Cafés Wassernäpfe bereit?",
+          "a": "Die meisten unabhängigen Cafés in Stokes Croft, Clifton und Wapping Wharf tun das, besonders im Sommer. Falls nicht, einfach nach einem Napf Leitungswasser fragen, das wird nie abgelehnt."
+        },
+        {
+          "q": "Darf ich meinen Hund abends in ein Restaurant in Bristol mitnehmen?",
+          "a": "Die Regelung für Innenräume ist unterschiedlich. Pubs mit Küche (Gastropubs) sagen meist ja. Gehobene Restaurants und Ketten sagen meist nein. Die meisten Außenterrassen sind hundefreundlich."
+        }
       ]
     },
     "parks": {
@@ -203,7 +231,11 @@
           "descriptionPt": "162 hectares de parque de veados ajardinado, terrenos de mansão e bosque no lado sudoeste da garganta do Avon, o principal destino sem trela de Bristol. Jardins formais, carvalhos antigos, duas manadas de veados (mantenha-os com trela perto deles) e acesso direto aos trilhos do Festival of Nature.",
           "petPolicyPt": "Sem trela por defeito; trela junto às manadas de veados",
           "facilitiesPt": "Parques de estacionamento gratuitos, café, casas de banho públicas, parque de veados, trilhos de BTT",
-          "tipPt": "Estacione junto à entrada de Long Ashton para a secção do parque de veados; o miradouro superior oferece o melhor panorama da Clifton Suspension Bridge, e os cães podem andar sem trela a partir do parque de estacionamento."
+          "tipPt": "Estacione junto à entrada de Long Ashton para a secção do parque de veados; o miradouro superior oferece o melhor panorama da Clifton Suspension Bridge, e os cães podem andar sem trela a partir do parque de estacionamento.",
+          "descriptionDe": "162 Hektar gestalteter Wildpark, Herrenhausgelände und Wald an der Südwestseite der Avon-Schlucht, Bristols wichtigstes Ziel ohne Leine. Formale Gärten, alte Eichen, zwei Hirschherden (in ihrer Nähe an die Leine nehmen) und direkter Zugang zu den Wegen des Festival of Nature.",
+          "petPolicyDe": "Standardmäßig ohne Leine; bei den Hirschherden anleinen",
+          "facilitiesDe": "Kostenlose Parkplätze, Café, öffentliche Toiletten, Wildpark, Mountainbike-Strecken",
+          "tipDe": "Am Eingang Long Ashton für den Wildpark-Bereich parken, der obere Aussichtspunkt bietet das beste Panorama auf die Clifton Suspension Bridge, und Hunde können ab dem Parkplatz ohne Leine laufen."
         },
         {
           "name": "The Downs (Clifton & Durdham)",
@@ -229,7 +261,11 @@
           "descriptionPt": "157 hectares de terreno comum aberto no topo da garganta do Avon, com 12 km de caminhos de relva cortada, o miradouro da falésia de Sea Walls e o Observatório de Clifton. Sem trela por defeito. The Downs são o coração da cultura diária de passeio de cães de Bristol, com facilmente mais de 200 cães em qualquer momento de uma manhã de domingo.",
           "petPolicyPt": "Sem trela, sem restrições",
           "facilitiesPt": "Café (Sea Walls Tearoom), casas de banho públicas, torneiras de água, caminhos de relva cortada",
-          "tipPt": "Caminhe desde Sea Walls para leste ao longo do limite da falésia para as vistas mais impressionantes da garganta do Avon; o seu cão vai adorar o vento e os cheiros. Mantenha-se no caminho, longe do limite da falésia, com cães reativos."
+          "tipPt": "Caminhe desde Sea Walls para leste ao longo do limite da falésia para as vistas mais impressionantes da garganta do Avon; o seu cão vai adorar o vento e os cheiros. Mantenha-se no caminho, longe do limite da falésia, com cães reativos.",
+          "descriptionDe": "157 Hektar offenes Gemeindeland oberhalb der Avon-Schlucht, mit 12 km gemähten Graswegen, dem Aussichtspunkt Sea Walls und dem Clifton Observatory. Standardmäßig ohne Leine. Die Downs sind das Herz von Bristols täglicher Hundeausführ-Kultur, sonntagvormittags problemlos über 200 Hunde gleichzeitig unterwegs.",
+          "petPolicyDe": "Uneingeschränkt ohne Leine",
+          "facilitiesDe": "Café (Sea Walls Tearoom), öffentliche Toiletten, Wasserhähne, gemähte Wege",
+          "tipDe": "Von Sea Walls ostwärts am Klippenrand entlang laufen für die dramatischsten Ausblicke auf die Avon-Schlucht, Ihr Hund wird den Wind und die Gerüche lieben. Bei reaktiven Hunden auf dem Weg abseits der Klippenkante bleiben."
         },
         {
           "name": "Castle Park",
@@ -255,7 +291,11 @@
           "descriptionPt": "Um oásis verde de 5 hectares no coração do centro de Bristol, nas margens do Floating Harbour, com as ruínas medievais do Castelo de Bristol. Cães bem-vindos com trela; muitos bancos e um relvado aberto bom para passeios curtos entre pontos de interesse. Os grandes eventos de verão (Bristol Pride, feiras gastronómicas) encerram o parque temporariamente.",
           "petPolicyPt": "Trela obrigatória (parque central movimentado)",
           "facilitiesPt": "Casas de banho públicas, bancos, caminho ribeirinho, café por perto",
-          "tipPt": "O caminho de sirga do Floating Harbour continua desde o Castle Park para oeste em direção à zona do porto, um passeio de 4 km com trela junto a museus, ferries e cafés que aceitam cães."
+          "tipPt": "O caminho de sirga do Floating Harbour continua desde o Castle Park para oeste em direção à zona do porto, um passeio de 4 km com trela junto a museus, ferries e cafés que aceitam cães.",
+          "descriptionDe": "Eine 5 Hektar große grüne Oase im Herzen des zentralen Bristol, am Ufer des Floating Harbour, mit den mittelalterlichen Ruinen von Bristol Castle. Hunde an der Leine willkommen; viele Bänke, eine offene Rasenfläche gut für kurze Spaziergänge zwischen den Sehenswürdigkeiten. Große Sommerveranstaltungen (Bristol Pride, Food-Fairs) schließen den Park zeitweise.",
+          "petPolicyDe": "Leinenpflicht (belebter zentraler Park)",
+          "facilitiesDe": "Öffentliche Toiletten, Bänke, Uferweg, Café in der Nähe",
+          "tipDe": "Der Uferweg des Floating Harbour führt vom Castle Park westwärts zur Harbourside weiter, ein 4 km langer Spaziergang an der Leine vorbei an Museen, Fähren und hundefreundlichen Cafés."
         }
       ],
       "tipsEn": [
@@ -335,6 +375,22 @@
           "q": "O meu cão pode nadar no porto ou no rio?",
           "a": "Oficialmente desaconselhado, pois o Floating Harbour é água tratada com correntes fortes junto às comportas. O rio Avon não é seguro para banhos. Para banhos com cães, conduza 30 min para sul até ao lago de Chew Valley ou até Severn Beach (acolhe cães durante todo o ano)."
         }
+      ],
+      "titleDe": "Hundeparks & Grünflächen in Bristol",
+      "introDe": "Bristol zählt zu den grünsten Städten Englands, mit über 450 Parks und Grünflächen innerhalb der Stadtgrenzen, darunter das 162 Hektar große Ashton Court Estate (kostenlos, ohne Leine), die dramatische Avon-Schlucht mit Blick auf die Clifton Suspension Bridge, und ein Netz von städtischen Gemeindeflächen, auf denen Hunde standardmäßig ohne Leine laufen dürfen. Die britischen Regeln sind einfach: Hunde müssen „unter Kontrolle“ sein, eine Leine ist außerhalb ausgewiesener Zonen (Sportplätze, Spielplätze, markierte Naturschutzgebiete) gesetzlich nicht vorgeschrieben.",
+      "faqsDe": [
+        {
+          "q": "Wo dürfen Hunde in Bristol ohne Leine laufen?",
+          "a": "In den meisten Parks und Gemeindeflächen standardmäßig, im Ashton Court Estate, auf den Downs, in Snuff Mills, im Eastville Park, im Stoke Park Estate, im Blaise Castle Estate. Mit PSPO gekennzeichnete Zonen (Sportplätze, Spielplätze) meiden."
+        },
+        {
+          "q": "Ist die Avon-Schlucht mit Hund zugänglich?",
+          "a": "Ja. Der Weg entlang der Schluchtoberkante durch die Downs ist ohne Leine hundefreundlich. Die Clifton Suspension Bridge selbst akzeptiert angeleinte Hunde (kostenlose Überquerung für Fußgänger)."
+        },
+        {
+          "q": "Darf mein Hund im Hafen oder Fluss schwimmen?",
+          "a": "Offiziell nicht empfohlen, der Floating Harbour ist Nutzwasser mit starken Strömungen an den Schleusen. Der Avon River ist zum Schwimmen unsicher. Für hundefreundliches Schwimmen 30 Minuten südlich an den Chew Valley Lake fahren oder zum Severn Beach (ganzjährig hundefreundlich)."
+        }
       ]
     },
     "transport": {
@@ -359,7 +415,9 @@
           "petPolicyEs": "Perros con correa gratis, todos los tamaños",
           "googleMapsUrl": "https://maps.google.com/?q=Bristol+Bus+Station",
           "descriptionPt": "A First Bus explora toda a rede de autocarros de Bristol, além das linhas rápidas MetroBus. Os cães viajam gratuitamente com trela, na zona de cadeira de rodas ou no corredor. Sem restrição de porte. Os motoristas podem recusar o embarque por motivos de segurança (veículo muito cheio, cão agressivo).",
-          "petPolicyPt": "Cães com trela gratuitos, todos os portes"
+          "petPolicyPt": "Cães com trela gratuitos, todos os portes",
+          "descriptionDe": "First Bus betreibt das gesamte Busnetz von Bristol sowie die schnellen MetroBus-Linien. Hunde fahren angeleint kostenlos mit, im Rollstuhlbereich oder im Gang. Keine Größenbeschränkung. Fahrer können das Einsteigen aus Sicherheitsgründen ablehnen (sehr volles Fahrzeug, aggressiver Hund).",
+          "petPolicyDe": "Angeleinte Hunde kostenlos, alle Größen"
         },
         {
           "name": "Bristol Ferry Boats",
@@ -375,7 +433,9 @@
           "petPolicyEs": "Perros gratis en cubierta exterior",
           "googleMapsUrl": "https://maps.google.com/?q=Bristol+Ferry+Boats+Wapping+Wharf",
           "descriptionPt": "Os tradicionais ferries do Floating Harbour (Bristol Ferry Boats) operam um serviço de embarque e desembarque livres entre Hotwells, o SS Great Britain, o centro da cidade e Temple Meads. Cães bem-vindos no convés aberto gratuitamente.",
-          "petPolicyPt": "Cães gratuitos no convés aberto"
+          "petPolicyPt": "Cães gratuitos no convés aberto",
+          "descriptionDe": "Die traditionellen Fähren des Floating Harbour (Bristol Ferry Boats) bieten einen Hop-on-hop-off-Service zwischen Hotwells, der SS Great Britain, der Innenstadt und Temple Meads. Hunde sind auf dem offenen Deck kostenlos willkommen.",
+          "petPolicyDe": "Hunde kostenlos auf dem offenen Deck"
         }
       ],
       "tipsEn": [
@@ -455,6 +515,22 @@
           "q": "O meu cão pode viajar nos comboios da GWR a partir de Temple Meads?",
           "a": "Sim, os cães com trela viajam gratuitamente em todos os comboios da GWR, incluindo os serviços de alta velocidade para Londres. Até 2 cães por passageiro; os cães médios viajam debaixo da mesa ou ao lado do seu lugar."
         }
+      ],
+      "titleDe": "Mit Hund unterwegs in Bristol",
+      "introDe": "Bristols öffentliche Verkehrsmittel (First Bus, MetroBus, die Zuglinie Severn Beach) nehmen angeleinte Hunde kostenlos mit, eine der hundefreundlichsten Verkehrspolitiken Großbritanniens. Die meisten Fahrer sind tolerant; aggressive oder nicht angeleinte Hunde können nach Ermessen des Fahrers abgewiesen werden. Auch die Bristol Ferry Boats nehmen Hunde kostenlos mit.",
+      "faqsDe": [
+        {
+          "q": "Fahren Hunde in Bristols Bussen kostenlos mit?",
+          "a": "Ja, alle angeleinten Hunde fahren kostenlos mit First Bus, MetroBus und den Bussen von West of England. Keine Größenbeschränkung. Fahrer können aus Sicherheitsgründen ablehnen."
+        },
+        {
+          "q": "Darf ich meinen Hund auf eine Bristol Ferry mitnehmen?",
+          "a": "Ja, angeleinte Hunde fahren kostenlos auf dem offenen Deck mit. Die meisten Besitzer stellen sich nach hinten; der Kapitän kann bei sehr vollem Boot (selten) einen Maulkorb verlangen."
+        },
+        {
+          "q": "Darf mein Hund mit GWR-Zügen ab Temple Meads fahren?",
+          "a": "Ja, angeleinte Hunde fahren kostenlos in allen GWR-Zügen mit, auch auf Hochgeschwindigkeitsstrecken nach London. Bis zu 2 Hunde pro Fahrgast; mittelgroße Hunde reisen unter dem Tisch oder neben dem Sitzplatz."
+        }
       ]
     },
     "beaches": {
@@ -484,7 +560,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Severn+Beach",
           "descriptionPt": "Uma faixa costeira de gravilha e lodo de 1,5 km no estuário do Severn, que acolhe cães durante todo o ano com acesso sem trela. Vistas impressionantes da ponte Second Severn Crossing. Comboio direto desde Bristol Temple Meads (linha de Severn Beach, 35 min), cães gratuitos.",
           "petPolicyPt": "Sem trela durante todo o ano",
-          "tipPt": "As marés do estuário do Severn têm uma amplitude de 11 m, por isso consulte o tidetables.org.uk antes de ir. Na baixa-mar há 500 m de lodo; na preia-mar o caminho é estreito. A meia-maré é o momento ideal."
+          "tipPt": "As marés do estuário do Severn têm uma amplitude de 11 m, por isso consulte o tidetables.org.uk antes de ir. Na baixa-mar há 500 m de lodo; na preia-mar o caminho é estreito. A meia-maré é o momento ideal.",
+          "descriptionDe": "Ein 1,5 km langer Kies- und Schlickstrand am Severn-Ästuar, ganzjährig hundefreundlich mit Freilauf. Dramatische Ausblicke auf die Second-Severn-Crossing-Brücke. Direkter Zug ab Bristol Temple Meads (Severn Beach Line, 35 Min), Hunde kostenlos.",
+          "petPolicyDe": "Ganzjährig ohne Leine",
+          "tipDe": "Der Tidenhub im Severn-Ästuar beträgt 11 m, vor dem Losfahren tidetables.org.uk prüfen. Bei Ebbe liegen 500 m Schlick frei; bei Flut ist der Weg schmal. Mittlere Tide ist der ideale Zeitpunkt."
         },
         {
           "name": "Clevedon Beach",
@@ -505,7 +584,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clevedon+Beach",
           "descriptionPt": "Uma estância balnear vitoriana tradicional, 30 min a sudoeste de Bristol. A praia de calhau acolhe cães durante todo o ano (sem trela na secção ocidental), com o icónico Clevedon Pier de 269 m e um caminho costeiro plano de 5 km até Walton Bay.",
           "petPolicyPt": "Acolhe cães durante todo o ano; sem trela na secção ocidental",
-          "tipPt": "Estacione no parque de Salthouse Fields (gratuito) para a secção ocidental que acolhe cães. O próprio pier cobra 3 libras de entrada, mas aceita cães com trela."
+          "tipPt": "Estacione no parque de Salthouse Fields (gratuito) para a secção ocidental que acolhe cães. O próprio pier cobra 3 libras de entrada, mas aceita cães com trela.",
+          "descriptionDe": "Ein traditioneller viktorianischer Seebadeort 30 Minuten südwestlich von Bristol. Der Kiesstrand ist ganzjährig hundefreundlich (im westlichen Abschnitt ohne Leine), mit dem ikonischen 269 m langen Clevedon Pier und einem flachen 5 km langen Küstenweg bis Walton Bay.",
+          "petPolicyDe": "Ganzjährig hundefreundlich; ohne Leine im westlichen Abschnitt",
+          "tipDe": "Am Parkplatz Salthouse Fields (kostenlos) für den westlichen hundefreundlichen Abschnitt parken. Der Pier selbst kostet 3 Pfund Eintritt, akzeptiert aber angeleinte Hunde."
         },
         {
           "name": "Weston-super-Mare (Uphill section)",
@@ -526,7 +608,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Weston+Super+Mare+Uphill+Beach",
           "descriptionPt": "A praia de areia de 3 km de Weston divide-se numa zona turística (proibição de cães de maio a setembro) e numa secção sul de Uphill (acolhe cães durante todo o ano, sem trela). Areal plano imenso na baixa-mar. 40 min de Bristol pela autoestrada M5.",
           "petPolicyPt": "Secção de Uphill: sem trela durante todo o ano; zona turística: cães proibidos de maio a setembro",
-          "tipPt": "Estacione em Uphill Boat Yard (gratuito) e caminhe para sul ao longo das dunas para a secção mais tranquila. Cuidado com as areias movediças no extremo norte da praia, junto ao Birnbeck Pier."
+          "tipPt": "Estacione em Uphill Boat Yard (gratuito) e caminhe para sul ao longo das dunas para a secção mais tranquila. Cuidado com as areias movediças no extremo norte da praia, junto ao Birnbeck Pier.",
+          "descriptionDe": "Westons 3 km langer Sandstrand teilt sich in eine Touristenzone (Mai-Sep Hundeverbot) und einen südlichen Uphill-Abschnitt (ganzjährig hundefreundlich, ohne Leine). Bei Ebbe riesige flache Sandflächen. 40 Minuten von Bristol über die Autobahn M5.",
+          "petPolicyDe": "Uphill-Abschnitt: ganzjährig ohne Leine; Touristenzone: Hundeverbot Mai–Sep",
+          "tipDe": "Am Uphill Boat Yard (kostenlos) parken und südlich entlang der Dünen für den ruhigsten Abschnitt laufen. Vorsicht vor Treibsand am nördlichsten Ende des Strands bei Birnbeck Pier."
         }
       ],
       "tipsEn": [
@@ -606,6 +691,22 @@
           "q": "Como chego a uma praia sem carro?",
           "a": "Severn Beach: comboio direto desde Bristol Temple Meads (35 min, cães gratuitos). Clevedon: First Bus X6 a partir da central de autocarros de Bristol (45 min, cães gratuitos). Weston-super-Mare: comboio da GWR (25 min, cães gratuitos)."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Bristol",
+      "introDe": "Bristol liegt im Landesinneren, aber der Severn-Ästuar und der Bristolkanal sind 20 bis 40 Autominuten entfernt. Hunde sind an den meisten Stränden im Südwesten Großbritanniens ganzjährig zugelassen, wobei einige beliebte Touristenstrände von Mai bis September eine Leinenpflicht oder ein Hundeverbot durchsetzen. Die nordsomersetsche Küste (Severn Beach, Clevedon) und Weston-super-Mare haben ganzjährige Hundestrände.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund im Severn schwimmen?",
+          "a": "Offiziell nicht empfohlen, der Severn-Ästuar hat den zweithöchsten Tidenhub der Welt und sehr starke Strömungen. Die Brandung im Bristolkanal ist gefährlich. Für Hundeschwimmen den Chew Valley Lake (30 Minuten südlich) oder die ruhigen Gewässer des Clevedon Marine Lake nutzen."
+        },
+        {
+          "q": "Gibt es Strände mit Hundeverbot bei Bristol?",
+          "a": "Ja, die Touristenzone von Weston-super-Mare (Mai-Sep), der zentrale Strand von Burnham-on-Sea (Mai-Sep) und Sand Bay (ganzjährig in markierten Abschnitten). Vor der Fahrt immer prüfen."
+        },
+        {
+          "q": "Wie komme ich ohne Auto zu einem Strand?",
+          "a": "Severn Beach: direkter Zug ab Bristol Temple Meads (35 Min, Hunde kostenlos). Clevedon: First-Bus-Linie X6 ab dem Busbahnhof Bristol (45 Min, Hunde kostenlos). Weston-super-Mare: GWR-Zug (25 Min, Hunde kostenlos)."
+        }
       ]
     },
     "vets": {
@@ -640,7 +741,11 @@
           "descriptionPt": "O veterinário de urgência 24/7 dedicado de Bristol, que funciona fora de horas, quando as clínicas de medicina geral estão encerradas. Aberto todos os dias úteis das 18:00 às 08:00, além de 24/7 aos fins de semana e nos feriados. Cuidados intensivos, cirurgia e imagiologia no local.",
           "petPolicyPt": "Apenas urgências fora de horas; sem consultas durante o dia",
           "servicesPt": "Urgência, cirurgia, imagiologia, cuidados intensivos",
-          "tipPt": "Telefone sempre primeiro (+44 117 950 1112), pois o enfermeiro de triagem dir-lhe-á se deve ir de imediato ou se o seu veterinário diurno pode tratar disso na manhã seguinte. Poupa uma taxa de consulta de 170 libras."
+          "tipPt": "Telefone sempre primeiro (+44 117 950 1112), pois o enfermeiro de triagem dir-lhe-á se deve ir de imediato ou se o seu veterinário diurno pode tratar disso na manhã seguinte. Poupa uma taxa de consulta de 170 libras.",
+          "descriptionDe": "Bristols spezialisierter 24/7-Notfalltierarzt, im Einsatz außerhalb der Öffnungszeiten regulärer Praxen. Jeden Werktag von 18:00 bis 08:00 Uhr geöffnet, sowie 24/7 an Wochenenden und Feiertagen. Intensivstation, Chirurgie und Bildgebung vor Ort.",
+          "petPolicyDe": "Nur Notfälle außerhalb der Öffnungszeiten; keine Tagestermine",
+          "servicesDe": "Notfall, Chirurgie, Bildgebung, Intensivstation",
+          "tipDe": "Immer zuerst anrufen (+44 117 950 1112), die Triage-Pflegekraft sagt Ihnen, ob Sie sofort kommen sollten oder ob Ihr Tagestierarzt es am nächsten Morgen übernehmen kann. Spart eine Konsultationsgebühr von 170 Pfund."
         },
         {
           "name": "Langford Veterinary Hospital (University of Bristol)",
@@ -666,7 +771,11 @@
           "descriptionPt": "O hospital universitário da Universidade de Bristol, o maior centro de referência para animais de pequeno porte do sudoeste. Admissão de urgência 24/7, ressonância magnética, oncologia, cardiologia, neurologia. Carta de referência do seu veterinário diurno normalmente exigida para situações não urgentes.",
           "petPolicyPt": "Urgências 24/7; referências de especialidade pelo veterinário diurno",
           "servicesPt": "Urgência, ressonância magnética, oncologia, cardiologia, neurologia, cirurgia",
-          "tipPt": "Estacionamento gratuito no local (raro no Reino Unido). A viagem desde o centro de Bristol demora 25 min, por isso planeie com antecedência se o seu cão estiver em sofrimento; a M5 pode congestionar na hora de ponta."
+          "tipPt": "Estacionamento gratuito no local (raro no Reino Unido). A viagem desde o centro de Bristol demora 25 min, por isso planeie com antecedência se o seu cão estiver em sofrimento; a M5 pode congestionar na hora de ponta.",
+          "descriptionDe": "Das Lehrkrankenhaus der University of Bristol, das größte Überweisungszentrum für Kleintiere im Südwesten. 24/7-Notfallaufnahme, MRT, Onkologie, Kardiologie, Neurologie. Für nicht dringende Fälle wird meist eine Überweisung vom Tagestierarzt benötigt.",
+          "petPolicyDe": "24/7 Notfälle; fachärztliche Überweisungen durch Tagestierarzt",
+          "servicesDe": "Notfall, MRT, Onkologie, Kardiologie, Neurologie, Chirurgie",
+          "tipDe": "Kostenlose Parkplätze vor Ort (selten in Großbritannien). Die Fahrt vom Zentrum Bristols dauert 25 Minuten, bei einem Hund in Not vorausplanen, die M5 kann zu Stoßzeiten verstopft sein."
         }
       ],
       "tipsEn": [
@@ -746,6 +855,22 @@
           "q": "Um veterinário de Bristol aceita atendimento sem marcação?",
           "a": "A Vets Now e a Langford aceitam ambas urgências sem marcação, mas telefone sempre primeiro, pois o enfermeiro de triagem poupa-lhe tempo e taxas desnecessárias."
         }
+      ],
+      "titleDe": "Notfall-Tierärzte in Bristol, Tierkliniken & Haustierbetreuung",
+      "introDe": "Bristol beherbergt Vets Now Bristol (24/7 reiner Notfallspezialist) und das Langford Veterinary Hospital, beide zählen zu den führenden Notfallkliniken Großbritanniens. Die meisten unabhängigen Praxen in Bristol schließen um 19:00 Uhr und leiten Anrufe außerhalb der Öffnungszeiten an Vets Now weiter.",
+      "faqsDe": [
+        {
+          "q": "Welcher Tierarzt in Bristol hat rund um die Uhr geöffnet?",
+          "a": "Zwei Kliniken: Vets Now Bristol (Maple Walk, BS9 4PA, 0117 950 1112, nur außerhalb der regulären Öffnungszeiten) und Langford Veterinary Hospital (BS40 5DU, 0117 928 9420, 24/7 mit universitärer Unterstützung)."
+        },
+        {
+          "q": "Wie viel kostet ein Notfall-Tierarztbesuch in Bristol?",
+          "a": "170-300 Pfund Grundgebühr für die Konsultation bei Vets Now (Zuschlag außerhalb der Öffnungszeiten). Diagnostik kommt hinzu. Überweisungen zu Langford kosten typischerweise 150-250 Pfund zuzüglich Tests. Die Tierkrankenversicherung deckt das meiste ab."
+        },
+        {
+          "q": "Nimmt ein Tierarzt in Bristol Patienten ohne Termin an?",
+          "a": "Vets Now und Langford nehmen beide Notfälle ohne Termin an, aber immer vorher anrufen, die Triage-Pflegekraft spart Zeit und unnötige Gebühren."
+        }
       ]
     },
     "tips": {
@@ -764,14 +889,16 @@
           "description": "May to July and September are the sweet spots: 17-20 C highs, Ashton Court and the Downs are dry and green. August is busy with festivals (Harbour Festival, Balloon Fiesta) that make the city centre and College Green very crowded. November to March suits energetic dogs as the Downs trails empty out.",
           "descriptionFr": "Mai a juillet et septembre sont les periodes ideales : 17-20 C, Ashton Court et les Downs sont secs et verts. Aout est tres charge avec les festivals (Harbour Festival, Balloon Fiesta) qui bondent le centre et College Green. Novembre a mars convient aux chiens energiques quand les sentiers des Downs se vident.",
           "descriptionEs": "Mayo a julio y septiembre son los mejores periodos: 17-20 C, Ashton Court y los Downs estan secos y verdes. Agosto esta muy concurrido con festivales (Harbour Festival, Balloon Fiesta) que llenan el centro y College Green. Noviembre a marzo le va bien a los perros energicos cuando los senderos de los Downs se vacian.",
-          "descriptionPt": "De maio a julho e setembro sao os periodos ideais: 17-20 C, Ashton Court e os Downs estao secos e verdes. Agosto esta muito movimentado com festivais (Harbour Festival, Balloon Fiesta) que enchem o centro e College Green. Novembro a marco e bom para caes energicos quando os trilhos dos Downs se esvaziam."
+          "descriptionPt": "De maio a julho e setembro sao os periodos ideais: 17-20 C, Ashton Court e os Downs estao secos e verdes. Agosto esta muito movimentado com festivais (Harbour Festival, Balloon Fiesta) que enchem o centro e College Green. Novembro a marco e bom para caes energicos quando os trilhos dos Downs se esvaziam.",
+          "descriptionDe": "Mai bis Juli und September sind die idealen Monate: 17-20 °C Höchsttemperaturen, Ashton Court und die Downs sind trocken und grün. Im August ist wegen Festivals (Harbour Festival, Balloon Fiesta) viel los, das Stadtzentrum und der College Green sind dann sehr überfüllt. November bis März eignet sich für energiegeladene Hunde, da die Wege der Downs dann leer sind."
         },
         {
           "name": "UK pet-import paperwork (2026)",
           "description": "From the EU you need: ISO microchip, valid rabies vaccination (at least 21 days old, not expired), and a GB Animal Health Certificate (AHC) issued by an EU official vet within 10 days of arrival. The AHC is valid 4 months for onward EU travel and 4 months for return. Tapeworm treatment is required only for return travel to Ireland, Finland, Malta or Norway.",
           "descriptionFr": "Depuis l'UE il faut : puce ISO, vaccin antirabique valide (au moins 21 jours, non perime) et un GB Animal Health Certificate (AHC) delivre par un veterinaire officiel de l'UE dans les 10 jours precedant l'arrivee. L'AHC est valable 4 mois pour voyager dans l'UE et 4 mois pour le retour. Le traitement antitenias n'est requis que pour le retour vers l'Irlande, la Finlande, Malte ou la Norvege.",
           "descriptionEs": "Desde la UE necesitas: microchip ISO, vacuna antirrábica vigente (al menos 21 dias, no caducada) y un GB Animal Health Certificate (AHC) emitido por un OV de la UE en los 10 dias previos a la llegada. El AHC es valido 4 meses para viajar en la UE y 4 meses para el retorno. El tratamiento de tenia solo se exige para volver a Irlanda, Finlandia, Malta o Noruega.",
-          "descriptionPt": "A partir da UE precisa de: microchip ISO, vacinacao antirabica valida (pelo menos 21 dias, nao expirada) e um GB Animal Health Certificate (AHC) emitido por um veterinario oficial da UE nos 10 dias anteriores a chegada. O AHC e valido 4 meses para viagens dentro da UE e 4 meses para o regresso. O tratamento anti-tenia so e exigido na viagem de regresso para a Irlanda, Finlandia, Malta ou Noruega."
+          "descriptionPt": "A partir da UE precisa de: microchip ISO, vacinacao antirabica valida (pelo menos 21 dias, nao expirada) e um GB Animal Health Certificate (AHC) emitido por um veterinario oficial da UE nos 10 dias anteriores a chegada. O AHC e valido 4 meses para viagens dentro da UE e 4 meses para o regresso. O tratamento anti-tenia so e exigido na viagem de regresso para a Irlanda, Finlandia, Malta ou Noruega.",
+          "descriptionDe": "Aus der EU benötigen Sie: einen ISO-Mikrochip, eine gültige Tollwutimpfung (mindestens 21 Tage alt, nicht abgelaufen) und ein GB Animal Health Certificate (AHC), ausgestellt von einem EU-Amtstierarzt innerhalb von 10 Tagen vor der Ankunft. Das AHC ist 4 Monate für die Weiterreise in der EU und 4 Monate für die Rückreise gültig. Eine Bandwurmbehandlung ist nur für die Rückreise nach Irland, Finnland, Malta oder Norwegen erforderlich."
         },
         {
           "name": "Walking Bristol with a dog",
@@ -779,7 +906,8 @@
           "description": "The classic Bristol dog circuit links Clifton Down (fully off-leash common land, 150 acres above the gorge) via the Clifton Suspension Bridge walkway to Leigh Woods (National Trust, 160 acres mixed woodland, off-leash on most paths). The Bristol Harbour circuit (3.5 km, paved, along both canal banks) is the flat city-centre alternative.",
           "descriptionFr": "Le circuit canin classique de Bristol relie Clifton Down (terrain commun entierement sans laisse, 60 ha au-dessus du gorge) via la passerelle du Clifton Suspension Bridge jusqu'a Leigh Woods (National Trust, 65 ha de foret mixte, sans laisse sur la plupart des sentiers). Le circuit du Bristol Harbour (3,5 km, pave, le long des deux rives du canal) est l'alternative plate en centre-ville.",
           "descriptionEs": "El circuito canino clasico de Bristol une Clifton Down (terreno comunal completamente sin correa, 60 ha sobre el gorge) via la pasarela del Clifton Suspension Bridge hasta Leigh Woods (National Trust, 65 ha de bosque mixto, sin correa en la mayoria de senderos). El circuito del Bristol Harbour (3,5 km, pavimentado, a lo largo de ambas orillas del canal) es la alternativa llana del centro.",
-          "descriptionPt": "O circuito canino classico de Bristol liga Clifton Down (terra comunitaria completamente sem trela, 60 ha acima do gorge) pela passadeira da Clifton Suspension Bridge ate Leigh Woods (National Trust, 65 ha de floresta mista, sem trela na maioria dos trilhos). O circuito do Bristol Harbour (3,5 km, pavimentado, ao longo de ambas as margens do canal) e a alternativa plana do centro da cidade."
+          "descriptionPt": "O circuito canino classico de Bristol liga Clifton Down (terra comunitaria completamente sem trela, 60 ha acima do gorge) pela passadeira da Clifton Suspension Bridge ate Leigh Woods (National Trust, 65 ha de floresta mista, sem trela na maioria dos trilhos). O circuito do Bristol Harbour (3,5 km, pavimentado, ao longo de ambas as margens do canal) e a alternativa plana do centro da cidade.",
+          "descriptionDe": "Der klassische Bristol-Hunderundweg verbindet Clifton Down (vollständig ohne Leine begehbares Gemeindeland, 150 Acres oberhalb der Schlucht) über den Fußweg der Clifton Suspension Bridge mit Leigh Woods (National Trust, 160 Acres gemischter Wald, auf den meisten Wegen ohne Leine). Der Rundweg um den Bristol Harbour (3,5 km, gepflastert, entlang beider Kanalufer) ist die flache Alternative im Stadtzentrum."
         }
       ],
       "tipsEn": [
@@ -841,6 +969,18 @@
           "q": "Posso levar um cao ao Ashton Court Estate?",
           "a": "Sim. O Ashton Court Estate e de acesso livre e os caes sao bem-vindos sem trela em todo o recinto exceto perto do cercado dos veados (claramente sinalizado). Estacionamento gratuito no recinto. O cafe da esplanada da mansao admite caes nas mesas exteriores."
         }
+      ],
+      "titleDe": "Mit Hund nach Bristol reisen: Praktische Tipps",
+      "introDe": "Bristol ist einer der besten hundefreundlichen Städtetrips in Großbritannien: weite Flächen ohne Leine auf Clifton Down und im Ashton Court, eine echte Pub-Kultur, die Hunde willkommen heißt, und schnelle GWR-Züge ab London. Der Hafen und die Downs zusammen ergeben einen hervorragenden zweitägigen Wanderrundweg.",
+      "faqsDe": [
+        {
+          "q": "Eignet sich Bristol für einen hundefreundlichen Wochenendtrip?",
+          "a": "Ja. Clifton Down, Leigh Woods, Ashton Court und der Rundweg um den Bristol Harbour bieten hervorragende Abwechslung, Pubs in Clifton und Stokes Croft heißen Hunde wirklich willkommen, und GWR-Züge ab London Paddington brauchen 1 Stunde 45. Augustwochenenden mit Festivals meiden, wenn Ihr Hund Menschenmengen nicht mag."
+        },
+        {
+          "q": "Darf ich einen Hund ins Ashton Court Estate mitnehmen?",
+          "a": "Ja. Das Ashton Court Estate ist frei zugänglich, und Hunde dürfen überall ohne Leine laufen, außer in der Nähe des Wildgeheges (deutlich beschildert). Kostenlose Parkplätze auf dem Gelände. Das Café auf der Terrasse des Herrenhauses lässt Hunde an Außentischen zu."
+        }
       ]
     },
     "attractions": {
@@ -870,7 +1010,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clifton+Suspension+Bridge",
           "descriptionPt": "A ponte suspensa de ferro de Brunel, de 1864, sobre a garganta do Avon, o marco emblemático de Bristol. A travessia pedonal é gratuita para peões e cães (os carros pagam 1 libra). A travessia de 412 m acolhe cães com trela; as vistas a partir do centro são espetaculares ao pôr do sol.",
           "petPolicyPt": "Cães com trela bem-vindos",
-          "tipPt": "Caminhe desde Sion Hill (lado de Clifton) até Leigh Woods (lado de Somerset), um bosque que acolhe cães do outro lado, num circuito de 5 km com a ponte como pano de fundo."
+          "tipPt": "Caminhe desde Sion Hill (lado de Clifton) até Leigh Woods (lado de Somerset), um bosque que acolhe cães do outro lado, num circuito de 5 km com a ponte como pano de fundo.",
+          "descriptionDe": "Brunels eiserne Hängebrücke von 1864 über die Avon-Schlucht, Bristols wichtigstes Wahrzeichen. Die Fußgängerüberquerung ist für Fußgänger und Hunde kostenlos (Autos zahlen 1 Pfund). Die 412 m lange Überquerung ist mit angeleintem Hund möglich; die Ausblicke von der Mitte sind bei Sonnenuntergang spektakulär.",
+          "petPolicyDe": "Angeleinte Hunde willkommen",
+          "tipDe": "Von Sion Hill (Clifton-Seite) nach Leigh Woods (Somerset-Seite) laufen, hundefreundlicher Wald auf der anderen Seite, 5 km Rundweg mit der Brücke als Kulisse."
         },
         {
           "name": "SS Great Britain (exterior + quayside)",
@@ -891,7 +1034,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=SS+Great+Britain+Bristol",
           "descriptionPt": "O navio a vapor de casco de ferro de Brunel, de 1843, hoje um museu. A visita ao interior não aceita cães, mas o cais envolvente, a doca e o Brunel Dockyard acolhem cães com trela, com um caminho pedonal contínuo. O café da doca aceita cães na esplanada exterior.",
           "petPolicyPt": "Cais acolhedor para cães com trela; interior do navio interdito",
-          "tipPt": "Apanhe o ferry da zona do porto desde o centro da cidade até Hotwells (3,50 libras, cães gratuitos) e regresse a pé pelo SS Great Britain. O convés do ferry tem as melhores vistas do porto e o seu cão ganha uma viagem de barco de 20 min."
+          "tipPt": "Apanhe o ferry da zona do porto desde o centro da cidade até Hotwells (3,50 libras, cães gratuitos) e regresse a pé pelo SS Great Britain. O convés do ferry tem as melhores vistas do porto e o seu cão ganha uma viagem de barco de 20 min.",
+          "descriptionDe": "Brunels Dampfschiff mit eisernem Rumpf von 1843, heute ein Museum. Die Innenbesichtigung akzeptiert keine Hunde, aber der umliegende Kai, das Dock und das Brunel Dockyard sind mit angeleintem Hund über einen durchgehenden Weg zugänglich. Das Café am Dockyard lässt Hunde auf der Außenterrasse zu.",
+          "petPolicyDe": "Kai mit angeleintem Hund zugänglich; Schiffsinneres tabu",
+          "tipDe": "Die Hafenfähre vom Stadtzentrum nach Hotwells nehmen (3,50 Pfund, Hunde kostenlos) und zur SS Great Britain zurücklaufen. Das Fährdeck bietet die besten Hafenausblicke, und Ihr Hund bekommt eine 20-minütige Bootsfahrt."
         },
         {
           "name": "Wapping Wharf food district",
@@ -912,7 +1058,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Wapping+Wharf+Bristol",
           "descriptionPt": "O destino gastronómico de referência de Bristol, com mais de 30 restaurantes, cafés e bares independentes em arquitetura de contentores marítimos ao longo do lado sul do Floating Harbour. A maioria dos lugares ao ar livre aceita cães com trela; a praça central acolhe cães de dia e de noite.",
           "petPolicyPt": "Lugares ao ar livre que aceitam cães na maioria dos espaços",
-          "tipPt": "As tardes de sábado são extremamente movimentadas, por isso leve um cão calmo ou visite num dia útil. A Lockleaze Sourdough abre às 09:00 com um ambiente matinal tranquilo, perfeito para um pequeno-almoço com um cão."
+          "tipPt": "As tardes de sábado são extremamente movimentadas, por isso leve um cão calmo ou visite num dia útil. A Lockleaze Sourdough abre às 09:00 com um ambiente matinal tranquilo, perfeito para um pequeno-almoço com um cão.",
+          "descriptionDe": "Bristols Vorzeige-Genussviertel mit über 30 unabhängigen Restaurants, Cafés und Bars in Container-Architektur entlang der Südseite des Floating Harbour. Die meisten Außenplätze akzeptieren angeleinte Hunde; der zentrale Platz ist Tag und Nacht hundefreundlich.",
+          "petPolicyDe": "Außenplätze bei den meisten Lokalen hundefreundlich",
+          "tipDe": "Samstagnachmittage sind extrem voll, einen ruhigen Hund mitbringen oder unter der Woche kommen. Lockleaze Sourdough öffnet um 09:00 Uhr mit ruhiger Morgenstimmung, perfekt zum Frühstück mit Hund."
         }
       ],
       "tipsEn": [
@@ -992,6 +1141,22 @@
           "q": "As principais atrações de Bristol acolhem cães?",
           "a": "Ao ar livre: sim, Floating Harbour, Wapping Wharf, Cabot Tower (terrenos), The Downs, Castle Park. No interior: a maioria dos museus proíbe animais, mas as zonas exteriores envolventes acolhem-nos."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Bristol",
+      "introDe": "Bristols Hauptattraktionen, die Clifton Suspension Bridge, der Kai der SS Great Britain, der Floating Harbour und das Restaurantviertel Wapping Wharf, heißen angeleinte Hunde im Freien alle willkommen. Die großen Museen (M-Shed, Bristol Museum, Aerospace Bristol) verbieten Haustiere im Innenbereich, aber die umliegenden Außenbereiche und das Bristol Harbour Festival sind hundetolerant.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund zur Clifton Suspension Bridge mitnehmen?",
+          "a": "Ja, die Brücke ist für Fußgänger und Hunde kostenlos (nur Autos zahlen 1 Pfund). Die 412 m lange Überquerung ist mit angeleintem Hund gut möglich und bietet großartige Ausblicke."
+        },
+        {
+          "q": "Darf ich die SS Great Britain mit meinem Hund besuchen?",
+          "a": "Die Innenbesichtigung des Schiffs verbietet Haustiere, aber das Werftgelände, der Kai und die Außenbereiche der umliegenden Museen (Brunel Institute, Maritime Heritage Centre) sind mit angeleintem Hund zugänglich."
+        },
+        {
+          "q": "Sind Bristols wichtigste Attraktionen hundefreundlich?",
+          "a": "Draußen: ja, Floating Harbour, Wapping Wharf, Cabot Tower (Gelände), die Downs, Castle Park. Drinnen: die meisten Museen verbieten Haustiere, aber die umliegenden Außenbereiche heißen sie willkommen."
+        }
       ]
     },
     "petsitting": {
@@ -1020,7 +1185,10 @@
           "tip": "Filter Bristol sitters by experience with reactive dogs or large breeds, the Stokes Croft and Bedminster sitters tend to be more flexible than the Clifton ones, and slightly cheaper.",
           "descriptionPt": "O maior mercado de cuidadores de animais do Reino Unido, com cuidadores verificados específicos de Bristol para passeios de cães, creche e alojamento em casa. Todas as reservas incluem uma cobertura de responsabilidade civil de 1 milhão de libras e atualizações diárias com fotografias. Tarifas médias: 15 a 25 libras/passeio, 25 a 40 libras/dia de alojamento.",
           "petPolicyPt": "Cuidadores verificados, seguro incluído",
-          "servicesPt": "Passeio de cães, creche, alojamento em casa"
+          "servicesPt": "Passeio de cães, creche, alojamento em casa",
+          "descriptionDe": "Großbritanniens führender Marktplatz für Haustierbetreuung, mit für Bristol verifizierten Sittern für Gassi-Runden, Tagesbetreuung und Übernachtung zu Hause. Alle Buchungen beinhalten eine Haftpflichtdeckung über 1 Mio. Pfund und tägliche Foto-Updates. Durchschnittspreise: 15-25 Pfund/Spaziergang, 25-40 Pfund/Tag Tagesbetreuung.",
+          "petPolicyDe": "Verifizierte Sitter, Versicherung inbegriffen",
+          "servicesDe": "Gassi-Service, Tagesbetreuung, Übernachtung zu Hause"
         },
         {
           "name": "Rover.com Bristol",
@@ -1035,7 +1203,9 @@
           "tip": "Book 48 hours ahead on weekends and public holidays. Bristol sitters fill quickly in summer.",
           "tipFr": "Reservez 48h a l'avance les week-ends et jours feries. Les sitters de Bristol se remplissent vite en ete.",
           "tipEs": "Reserva 48h antes los fines de semana y festivos. Los cuidadores de Bristol se llenan rapido en verano.",
-          "tipPt": "Reserve com 48h de antecedencia aos fins de semana e feriados. Os cuidadores de Bristol enchem depressa no verao."
+          "tipPt": "Reserve com 48h de antecedencia aos fins de semana e feriados. Os cuidadores de Bristol enchem depressa no verao.",
+          "descriptionDe": "Größte Plattform für Haustierbetreuung in Großbritannien mit 80 verifizierten Sittern innerhalb von 5 km um das Stadtzentrum von Bristol. Zum Angebot gehören Hunde-Tagesbetreuung, kurze Besuche und Übernachtung. Alle Sitter sind geprüft und bewertet, Versicherung inbegriffen, Durchschnittspreis 18-28 Pfund pro Tag. Starke Abdeckung in Clifton, Redland und Southville.",
+          "tipDe": "An Wochenenden und Feiertagen 48 Stunden im Voraus buchen. Sitter in Bristol sind im Sommer schnell ausgebucht."
         }
       ],
       "tipsEn": [
@@ -1114,6 +1284,22 @@
         {
           "q": "Posso encontrar um cuidador que fale inglês?",
           "a": "Sim, todos os cuidadores de Bristol falam inglês. Os cuidadores que falam polaco e espanhol também são comuns, dadas as comunidades de expatriados locais, por isso filtre por idioma nas plataformas."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Bristol",
+      "introDe": "Bristol hat einen starken professionellen Markt für Haustierbetreuung. Tailster, Pawshake und Rover sind stadtweit aktiv; die BorrowMyDoggy-Community ist beliebt für informelle Hunde-Teilung. Hunde-Tagesstätten konzentrieren sich in Easton, Bedminster und Stokes Croft.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Gassi-Gehen in Bristol?",
+          "a": "Übliche Tailster/Pawshake-Preise: 15-25 Pfund pro 1-Stunden-Spaziergang, 25-40 Pfund/Tag Tagesbetreuung, 40-60 Pfund für eine Übernachtung. Etwas höher in Clifton/Redland; günstiger in Easton/Bedminster."
+        },
+        {
+          "q": "Sind Bristols Haustiersitter versichert?",
+          "a": "Ja, Tailster beinhaltet bei jeder Buchung eine Haftpflichtversicherung über 1 Mio. Pfund plus 25.000 Pfund Tierarzt-Notfalldeckung. Pawshake und Rover haben ähnliche Konditionen. Unabhängige Gassigeher sind es möglicherweise nicht, vor der Buchung immer nachfragen."
+        },
+        {
+          "q": "Finde ich einen englischsprachigen Sitter?",
+          "a": "Ja, jeder Sitter in Bristol spricht Englisch. Polnisch- und Spanischsprechende Sitter sind angesichts der lokalen Expat-Communitys ebenfalls häufig, auf den Plattformen nach Sprache filtern."
         }
       ]
     }

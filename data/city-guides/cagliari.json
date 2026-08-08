@@ -37,7 +37,11 @@
           "descriptionPt": "Trattoria sarda de gestão familiar perto do porto, a servir malloreddus alla campidanese, porceddu e culurgiones desde 1968. Interior de madeira, toalhas de papel, cantina dos locais.",
           "petPolicyPt": "Cães com trela bem-vindos nas mesas exteriores da Via Sassari",
           "mustTryPt": "Malloreddus alla campidanese, culurgiones, seadas",
-          "tipPt": "Reserve com antecedência às sextas e sábados à noite, pois as 6 mesas exteriores enchem depressa. Aceita numerário e cartão."
+          "tipPt": "Reserve com antecedência às sextas e sábados à noite, pois as 6 mesas exteriores enchem depressa. Aceita numerário e cartão.",
+          "descriptionDe": "Familiengeführte sardische Trattoria in Hafennähe, die seit 1968 malloreddus alla campidanese, porceddu und culurgiones serviert. Holzvertäfelter Innenraum, Papiertischdecken, Stammlokal der Einheimischen.",
+          "petPolicyDe": "Angeleinte Hunde willkommen an den Außentischen in der Via Sassari",
+          "mustTryDe": "Malloreddus alla campidanese, Culurgiones, Seadas",
+          "tipDe": "Freitag- und Samstagabend im Voraus reservieren, die 6 Außentische sind schnell ausgebucht. Bar- und Kartenzahlung möglich."
         },
         {
           "name": "Framento",
@@ -63,7 +67,11 @@
           "descriptionPt": "Pizzaria de massa lêveda e espaço de vinho natural que usa massa de fermentação lenta e ingredientes sardos da época. Esplanada animada virada para as muralhas da cidade velha.",
           "petPolicyPt": "Cães com trela bem-vindos na esplanada exterior, tigela de água a pedido",
           "mustTryPt": "Pizza con bottarga, focaccia, Vermentino di Sardegna",
-          "tipPt": "Sem reservas para as mesas exteriores, por isso chegue antes das 20:00 para conseguir um lugar na esplanada com o seu cão."
+          "tipPt": "Sem reservas para as mesas exteriores, por isso chegue antes das 20:00 para conseguir um lugar na esplanada com o seu cão.",
+          "descriptionDe": "Sauerteig-Pizzeria und Naturweinbar mit langsam fermentiertem Teig und sardischen saisonalen Belägen. Lebhafte Terrasse mit Blick auf die alten Stadtmauern.",
+          "petPolicyDe": "Angeleinte Hunde willkommen auf der Außenterrasse, Wassernapf auf Anfrage",
+          "mustTryDe": "Pizza con bottarga, Focaccia, Vermentino di Sardegna",
+          "tipDe": "Keine Reservierung für Außentische, vor 20:00 Uhr kommen, um mit Hund einen Terrassenplatz zu ergattern."
         },
         {
           "name": "Antica Cagliari",
@@ -89,7 +97,11 @@
           "descriptionPt": "Trattoria de longa data na rua com mais restaurantes da Marina. Ementa sarda virada para o marisco, fregula con arselle, spaghetti alla bottarga, peixe local grelhado.",
           "petPolicyPt": "Cães com trela bem-vindos nas mesas de passeio da Via Sardegna",
           "mustTryPt": "Fregula con arselle, spaghetti alla bottarga, seadas",
-          "tipPt": "A Via Sardegna é totalmente pedonal ao final do dia, ideal para uma refeição descontraída com um cão calmo."
+          "tipPt": "A Via Sardegna é totalmente pedonal ao final do dia, ideal para uma refeição descontraída com um cão calmo.",
+          "descriptionDe": "Seit langem bestehende Trattoria in der restaurantreichsten Straße der Marina. Meeresbetonte sardische Küche, fregula con arselle, spaghetti alla bottarga, gegrillter lokaler Fisch.",
+          "petPolicyDe": "Angeleinte Hunde willkommen an den Gehwegtischen in der Via Sardegna",
+          "mustTryDe": "Fregula con arselle, Spaghetti alla bottarga, Seadas",
+          "tipDe": "Die Via Sardegna ist abends vollständig verkehrsfrei, ideal für eine entspannte Mahlzeit mit einem ruhigen Hund."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Os cães são permitidos no Mercato di San Benedetto?",
           "a": "Os cães com trela são tolerados nos corredores exteriores do mercado de San Benedetto, mas não junto às bancas de peixe interiores, por razões de higiene."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Cagliari, sardische Trattorien & Cafés an der Uferpromenade",
+      "introDe": "Die Café-Kultur im Freien in Cagliari ist auf Terrassen überwiegend hundetolerant, besonders in den Vierteln Marina, Stampace und Villanova sowie entlang der Uferpromenade Poetto. Sardische Trattorien heißen an Außentischen typischerweise problemlos einen angeleinten Hund willkommen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit in Restaurants in Cagliari ins Innere nehmen?",
+          "a": "Außentische sind für Hunde in Cagliari die Norm. Der Innenbereich liegt im Ermessen der Geschäftsleitung, kleinere ruhige Hunde werden in den kühleren Monaten meist akzeptiert."
+        },
+        {
+          "q": "Gibt es eine Hitze-Sperrzeit für Hunde in Cagliari?",
+          "a": "Ja, informell: Einheimische gehen von Mitte Juni bis Mitte September vor 10:00 und nach 19:00 Uhr mit ihren Hunden spazieren. Mittags im Sommer Gehwegspaziergänge vermeiden."
+        },
+        {
+          "q": "Sind Hunde auf dem Mercato di San Benedetto erlaubt?",
+          "a": "Angeleinte Hunde werden in den äußeren Gängen des Marktes San Benedetto geduldet, aus Hygienegründen jedoch nicht an den Fischständen im Inneren."
+        }
       ]
     },
     "parks": {
@@ -201,7 +229,11 @@
           "leashRulePt": "Com trela nos caminhos, área vedada sem trela junto à Via Vidal",
           "descriptionPt": "O maior parque urbano de Cagliari, uma colina de 25 hectares de pinheiros mediterrânicos e azinheiras com vista para a cidade e para a lagoa de Molentargius. Pavões, tartarugas e patos circulam livremente, com uma area cani vedada junto à entrada oeste.",
           "amenitiesPt": "Área vedada para cães, bebedouros, caminhos com sombra, miradouros panorâmicos",
-          "tipPt": "Evite das 12:00 às 16:00 em julho e agosto, pois mesmo sob os pinheiros se mantém acima dos 30°C. Melhor ao nascer do sol ou a partir das 18:00."
+          "tipPt": "Evite das 12:00 às 16:00 em julho e agosto, pois mesmo sob os pinheiros se mantém acima dos 30°C. Melhor ao nascer do sol ou a partir das 18:00.",
+          "leashRuleDe": "Leinenpflicht auf den Wegen, eingezäunte Freilauffläche nahe der Via Vidal",
+          "descriptionDe": "Der größte Stadtpark Cagliaris, ein 25 Hektar großer Hügel aus mediterranen Pinien und Steineichen mit Blick über die Stadt und die Lagune Molentargius. Pfauen, Schildkröten und Enten laufen frei umher, eingezäunte area cani nahe dem westlichen Eingang.",
+          "amenitiesDe": "Eingezäunter Hundebereich, Trinkbrunnen, schattige Wege, Panoramaaussichtspunkte",
+          "tipDe": "12:00-16:00 Uhr im Juli/August meiden, selbst unter den Pinien bleibt es über 30 °C. Am besten bei Sonnenaufgang oder ab 18:00 Uhr."
         },
         {
           "name": "Parco di San Michele",
@@ -225,7 +257,11 @@
           "leashRulePt": "Com trela em todo o espaço, sem zona formal sem trela",
           "descriptionPt": "Parque no alto da colina em torno do medieval Castello di San Michele, que oferece vistas de 360° da planície do Campidano até ao mar. Bosque de pinheiros e carvalhos com clareiras de piquenique, bem mais tranquilo do que o Monte Urpinu.",
           "amenitiesPt": "Mesas de piquenique, miradouros, caminhos com sombra, estacionamento",
-          "tipPt": "O próprio castelo encontra-se fechado a cães, mas o parque envolvente é totalmente acessível. Estacionamento gratuito mesmo à saída dos portões."
+          "tipPt": "O próprio castelo encontra-se fechado a cães, mas o parque envolvente é totalmente acessível. Estacionamento gratuito mesmo à saída dos portões.",
+          "leashRuleDe": "Durchgehend Leinenpflicht, keine offizielle Freilaufzone",
+          "descriptionDe": "Hügelpark rund um das mittelalterliche Castello di San Michele mit 360°-Blick von der Ebene Campidano bis zum Meer. Pinien- und Eichenwald mit Picknicklichtungen, deutlich ruhiger als der Monte Urpinu.",
+          "amenitiesDe": "Picknicktische, Aussichtspunkte, schattige Wege, Parkplatz",
+          "tipDe": "Die Burg selbst ist für Hunde geschlossen, aber der umliegende Park ist vollständig zugänglich. Kostenloses Parken direkt vor den Toren."
         },
         {
           "name": "Parco di Terramaini",
@@ -249,7 +285,11 @@
           "leashRulePt": "Com trela nos caminhos, area cani vedada na secção leste",
           "descriptionPt": "Parque plano à beira de um lago que liga Cagliari a Pirri, um caminho circular de 1,5 km em torno de um lago artificial, popular entre os locais que passeiam e correm. Recinto vedado para cães com equipamento de agility.",
           "amenitiesPt": "Recinto vedado para cães, equipamento de agility, circuito plano de 1,5 km, café",
-          "tipPt": "A superfície plana e a sombra em todo o perímetro fazem dele a melhor opção de parque para as tardes de verão. Alcançável pelo autocarro 1 da CTM a partir do centro."
+          "tipPt": "A superfície plana e a sombra em todo o perímetro fazem dele a melhor opção de parque para as tardes de verão. Alcançável pelo autocarro 1 da CTM a partir do centro.",
+          "leashRuleDe": "Leinenpflicht auf den Wegen, eingezäunte area cani im östlichen Bereich",
+          "descriptionDe": "Flacher Seepark, der Cagliari mit Pirri verbindet, ein 1,5 km langer Rundweg um einen künstlichen See, beliebt bei Einheimischen zum Spazierengehen und Joggen. Eingezäunter Hundebereich mit Agility-Geräten.",
+          "amenitiesDe": "Eingezäunter Hundebereich, Agility-Geräte, 1,5 km flache Runde, Café",
+          "tipDe": "Die flache Oberfläche und der durchgehende Schatten am Rand machen dies zur besten Parkoption für Sommernachmittage. Erreichbar mit dem CTM-Bus 1 vom Zentrum aus."
         }
       ],
       "tipsEn": [
@@ -329,6 +369,22 @@
           "q": "Os cães são permitidos no Orto Botanico?",
           "a": "Não, o jardim botânico de Cagliari, em Stampace, proíbe todos os animais, exceto os cães de assistência; o mesmo se aplica à zona arqueológica da necrópole de Tuvixeddu."
         }
+      ],
+      "titleDe": "Die besten Hundeparks & Grünflächen in Cagliari",
+      "introDe": "Cagliari hat seine modernen Parks auf den Hügeln rund um die Stadt angelegt: Monte Urpinu, Parco di San Michele und Colle di Bonaria bieten alle schattigen Waldbestand, Panoramablicke und eingezäunte Hundebereiche. Der flache Parco di Terramaini im Nordosten ergänzt dies mit einem großen See und einer eigenen Freilaufzone.",
+      "faqsDe": [
+        {
+          "q": "Gibt es eingezäunte Freilaufflächen in Cagliari?",
+          "a": "Ja, offizielle eingezäunte 'area cani'-Bereiche gibt es am Monte Urpinu (Eingang Via Vidal), im Parco di Terramaini und im Parco di San Bartolomeo. In den meisten anderen Parks besteht Leinenpflicht."
+        },
+        {
+          "q": "Kann mein Hund in den Parks schwimmen?",
+          "a": "Der See des Terramaini ist eingezäunt (kein Hundezugang). Zum Schwimmen für Hunde das östliche Ende des Poetto-Strands oder die Bucht Calamosca ganzjährig nutzen."
+        },
+        {
+          "q": "Sind Hunde im Orto Botanico erlaubt?",
+          "a": "Nein, der botanische Garten von Cagliari in Stampace verbietet alle Haustiere außer Assistenzhunden, dasselbe gilt für das archäologische Gebiet der Nekropole Tuvixeddu."
+        }
       ]
     },
     "transport": {
@@ -356,7 +412,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=CTM+Cagliari",
           "descriptionPt": "O operador de autocarros metropolitanos de Cagliari, que cobre 36 linhas em toda a cidade e em 16 municípios vizinhos, incluindo a linha do aeroporto e a linha da praia do Poetto.",
           "petPolicyPt": "Os cães de pequeno porte numa transportadora viajam gratuitamente. Os cães grandes são aceites com açaime e trela, um cão por passageiro, ao critério do motorista nos serviços movimentados. Os cães de assistência viajam sempre gratuitamente.",
-          "tipPt": "As linhas PF e PQ circulam de 15 em 15 min no verão da Piazza Matteotti até à praia do Poetto, demoram 20 min, ideais para os cães evitarem o passeio do meio-dia."
+          "tipPt": "As linhas PF e PQ circulam de 15 em 15 min no verão da Piazza Matteotti até à praia do Poetto, demoram 20 min, ideais para os cães evitarem o passeio do meio-dia.",
+          "descriptionDe": "Der städtische Busbetreiber von Cagliari mit 36 Linien in der Stadt und 16 benachbarten Gemeinden, einschließlich der Flughafenlinie und der Linie zum Poetto-Strand.",
+          "petPolicyDe": "Kleine Hunde in einer Transportbox fahren kostenlos. Große Hunde werden mit Maulkorb und Leine akzeptiert, ein Hund pro Fahrgast, bei stark ausgelasteten Fahrten nach Ermessen des Fahrers. Assistenzhunde immer kostenlos.",
+          "tipDe": "Die Linien PF und PQ verkehren im Sommer alle 15 Min. von der Piazza Matteotti zum Poetto-Strand, dauern 20 Min., ideal für Hunde zur Vermeidung des Mittagsspaziergangs."
         },
         {
           "name": "ARST regional buses & Sardinian railways",
@@ -375,7 +434,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Piazza+Matteotti+ARST+Cagliari",
           "descriptionPt": "A ARST explora autocarros regionais por toda a Sardenha a partir do polo da Piazza Matteotti, em Cagliari. A Trenitalia e os comboios suburbanos da ARST servem Villasimius, Carbonia, Oristano e Olbia.",
           "petPolicyPt": "A Trenitalia aceita cães de pequeno porte numa transportadora gratuitamente e cães de porte médio a grande por metade da tarifa de segunda classe, com açaime e trela. Autocarros da ARST: cães em transportadora gratuitamente, cães grandes com açaime e trela, bilhete exigido se ocuparem um lugar.",
-          "tipPt": "Uma excursão de um dia a Villasimius (1h05 no autocarro 8023 da ARST, 4,30 EUR só ida) dá acesso à enseada da Spiaggia di Riu Trottu, que acolhe cães."
+          "tipPt": "Uma excursão de um dia a Villasimius (1h05 no autocarro 8023 da ARST, 4,30 EUR só ida) dá acesso à enseada da Spiaggia di Riu Trottu, que acolhe cães.",
+          "descriptionDe": "ARST betreibt regionale Busse in ganz Sardinien vom Knotenpunkt Piazza Matteotti in Cagliari aus. Trenitalia und ARST-Regionalzüge bedienen Villasimius, Iglesias, Oristano und Olbia.",
+          "petPolicyDe": "Trenitalia akzeptiert kleine Hunde in einer Transportbox kostenlos, mittelgroße bis große Hunde zum halben Zweiter-Klasse-Preis mit Maulkorb und Leine. ARST-Busse: Hunde in Transportbox kostenlos, große Hunde mit Maulkorb und Leine, Ticket erforderlich bei belegtem Sitzplatz.",
+          "tipDe": "Tagesausflug nach Villasimius (1 Std. 05 mit ARST-Bus 8023, 4,30 € einfache Fahrt) eröffnet Zugang zur hundefreundlichen Bucht Spiaggia di Riu Trottu."
         },
         {
           "name": "Cagliari Elmas Airport (CAG) & Tirrenia/Grimaldi ferries",
@@ -394,7 +456,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cagliari+Elmas+Airport",
           "descriptionPt": "O aeroporto de Cagliari Elmas fica 8 km a noroeste do centro, a 7 min de comboio da ARST até Cagliari Centrale. O porto de ferries da Via Roma assegura as travessias da Tirrenia e da Grimaldi a partir de Civitavecchia (13h), Nápoles (16h) e Palermo.",
           "petPolicyPt": "O Cagliari Elmas aceita animais na cabina em transportadora IATA (menos de 8-10 kg por transportadora, consoante a companhia) e animais no porão em caixa conforme com a IATA. Ferries: animais em cabina privada (reserve cedo, oferta limitada) ou em canis no convés, com acesso aos conveses abertos com trela e açaime.",
-          "tipPt": "A Tirrenia e a Grimaldi oferecem cabinas pet-friendly a partir de Civitavecchia, por isso reserve com 2 meses de antecedência em julho e agosto (8 a 10 cabinas por navio). O suplemento direto é de 25 a 40 EUR por cão, além da tarifa da cabina."
+          "tipPt": "A Tirrenia e a Grimaldi oferecem cabinas pet-friendly a partir de Civitavecchia, por isso reserve com 2 meses de antecedência em julho e agosto (8 a 10 cabinas por navio). O suplemento direto é de 25 a 40 EUR por cão, além da tarifa da cabina.",
+          "descriptionDe": "Der Flughafen Cagliari Elmas liegt 8 km nordwestlich des Zentrums, 7 Min. mit dem ARST-Zug bis Cagliari Centrale. Der Fährhafen an der Via Roma wickelt Tirrenia- und Grimaldi-Überfahrten von Civitavecchia (13 Std.), Neapel (16 Std.) und Palermo ab.",
+          "petPolicyDe": "Cagliari Elmas akzeptiert Haustiere in der Kabine in IATA-Transportbox (je nach Fluggesellschaft unter 8-10 kg pro Box) sowie im Frachtraum in IATA-konformer Box. Fähren: Haustiere in Privatkabine (früh buchen, begrenztes Kontingent) oder Zwinger an Deck, Zugang zu offenen Decks mit Leine und Maulkorb.",
+          "tipDe": "Tirrenia und Grimaldi bieten haustierfreundliche Kabinen ab Civitavecchia an, im Juli/August 2 Monate im Voraus buchen (8-10 Kabinen pro Schiff). Direkter Aufpreis von 25-40 € pro Hund zuzüglich Kabinenpreis."
         }
       ],
       "tipsEn": [
@@ -474,6 +539,22 @@
           "q": "Posso levar o meu cão no metro ligeiro Cagliari Metropolitana?",
           "a": "Sim, com trela e açaime, gratuitamente para um cão por passageiro. Evite as horas de ponta (07:30-09:00, 17:30-19:00)."
         }
+      ],
+      "titleDe": "Mit dem Hund unterwegs in Cagliari",
+      "introDe": "Cagliari ist eine kompakte, für mittelgroße Hunde gut zu Fuß erschließbare Stadt, doch das Hügelviertel Castello hat steile Treppen und enge Gassen. Sowohl das CTM-Busnetz als auch die regionalen ARST-Busse akzeptieren angeleinte Haustiere, und Fähren vom italienischen Festland (Civitavecchia, Neapel, Livorno) befördern Haustiere in Kabinen oder speziellen Bereichen.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich ein Ticket für meinen Hund in den CTM-Bussen?",
+          "a": "Kleine Hunde in einer Transportbox fahren kostenlos. Große Hunde mit Maulkorb und Leine benötigen kein separates Ticket, der Fahrer kann sie jedoch bei vollen Bussen ablehnen."
+        },
+        {
+          "q": "Gibt es eine direkte Fähre von Frankreich nach Cagliari?",
+          "a": "Keine direkte Fährverbindung Frankreich-Cagliari. Die nächstgelegenen Optionen sind Toulon-Porto Torres (Corsica Sardinia Ferries) oder die Fahrt über Civitavecchia; die Fähre Toulon-Civitavecchia ist nicht direkt, einen Zwischenstopp einplanen."
+        },
+        {
+          "q": "Kann ich meinen Hund in der Cagliari Metropolitana (Stadtbahn) mitnehmen?",
+          "a": "Ja, angeleint und mit Maulkorb, kostenlos für einen Hund pro Fahrgast. Stoßzeiten meiden (07:30-09:00, 17:30-19:00 Uhr)."
+        }
       ]
     },
     "beaches": {
@@ -504,7 +585,11 @@
           "leashRulePt": "Com trela todo o ano, banhos permitidos para cães, sem proibição formal",
           "descriptionPt": "Enseada abrigada de 300 metros no promontório de Sant'Elia, entre o farol e as falésias da Sella del Diavolo. Entrada gratuita, sem quiosques nem espreguiçadeiras, popular entre os locais que passeiam cães ao nascer e ao pôr do sol.",
           "amenitiesPt": "Estacionamento gratuito, nadador-salvador no verão (apenas para humanos), sem água doce",
-          "tipPt": "Combine com o trilho pedestre da Sella del Diavolo (1h ida e volta, cães com trela bem-vindos) para um meio-dia completo na ponta sudeste da cidade."
+          "tipPt": "Combine com o trilho pedestre da Sella del Diavolo (1h ida e volta, cães com trela bem-vindos) para um meio-dia completo na ponta sudeste da cidade.",
+          "leashRuleDe": "Ganzjährig Leinenpflicht, Schwimmen für Hunde erlaubt, kein offizielles Verbot",
+          "descriptionDe": "Geschützte, 300 Meter lange Bucht auf der Landzunge Sant'Elia zwischen Leuchtturm und den Klippen der Sella del Diavolo. Freier Eintritt, keine Kioske oder Liegen, bei Einheimischen beliebt für Hundespaziergänge bei Sonnenauf- und -untergang.",
+          "amenitiesDe": "Kostenloses Parken, Rettungsschwimmer im Sommer (nur für Menschen), kein Trinkwasser",
+          "tipDe": "Mit der Wanderung zur Sella del Diavolo (1 Std. Rundweg, angeleinte Hunde willkommen) kombinieren für einen vollen halben Tag an der Südostspitze der Stadt."
         },
         {
           "name": "Poetto Dog Beach (Spiaggia per cani)",
@@ -526,7 +611,11 @@
           "leashRulePt": "Sem trela na faixa para cães designada, com trela nas faixas adjacentes",
           "descriptionPt": "Faixa municipal para cães no extremo leste da praia do Poetto, aberta sazonalmente de maio a outubro. Zona de areia vedada com postes de sombra, tanques de água, anel de agility e acesso ao mar para banhos caninos.",
           "amenitiesPt": "Zona sem trela, tanques de água, postes de sombra, entrada gratuita, nadador-salvador por perto",
-          "tipPt": "Apanhe o autocarro PF ou PQ da CTM da Piazza Matteotti até à paragem 'Marina Piccola' e depois caminhe 300 m para leste. Entrada gratuita, movimentado a partir das 17:00."
+          "tipPt": "Apanhe o autocarro PF ou PQ da CTM da Piazza Matteotti até à paragem 'Marina Piccola' e depois caminhe 300 m para leste. Entrada gratuita, movimentado a partir das 17:00.",
+          "leashRuleDe": "Ohne Leine im ausgewiesenen Hundeabschnitt, Leinenpflicht in den angrenzenden Abschnitten",
+          "descriptionDe": "Städtischer Hundeabschnitt am östlichen Ende des Poetto-Strands, saisonal geöffnet von Mai bis Oktober. Eingezäunter Sandbereich mit schattigen Pfosten, Wassertrögen, Agility-Ring und Zugang zum Meer zum Schwimmen für Hunde.",
+          "amenitiesDe": "Freilaufzone, Wassertröge, Schattenpfosten, freier Eintritt, Rettungsschwimmer in der Nähe",
+          "tipDe": "Den CTM-Bus PF oder PQ von der Piazza Matteotti bis zur Haltestelle 'Marina Piccola' nehmen, dann 300 m nach Osten gehen. Freier Eintritt, ab 17:00 Uhr belebt."
         },
         {
           "name": "Spiaggia di Su Stangioni (Pula)",
@@ -548,7 +637,11 @@
           "leashRulePt": "Sem trela todo o ano na faixa dedicada, com trela no acesso",
           "descriptionPt": "Praia para cães durante todo o ano 30 km a sul de Cagliari, perto de Pula, numa faixa selvagem de areia ladeada por pinheiros virada para Capo Pula. Gratuita, sem instalações, alcançável por um cómodo autocarro da ARST ou 35 min de carro.",
           "amenitiesPt": "Sem trela durante todo o ano, estacionamento gratuito sob os pinheiros, sem quiosques, sem água doce",
-          "tipPt": "Uma das poucas praias para cães oficialmente designadas da Sardenha abertas durante todo o ano, ideal de outubro a abril, quando as praias centrais estão vazias e frescas."
+          "tipPt": "Uma das poucas praias para cães oficialmente designadas da Sardenha abertas durante todo o ano, ideal de outubro a abril, quando as praias centrais estão vazias e frescas.",
+          "leashRuleDe": "Ganzjährig ohne Leine auf dem ausgewiesenen Abschnitt, Leinenpflicht beim Zugang",
+          "descriptionDe": "Ganzjährig geöffneter Hundestrand 30 km südlich von Cagliari bei Pula, auf einem wilden, von Pinien gesäumten Sandabschnitt mit Blick auf das Capo Pula. Kostenlos, keine Einrichtungen, bequem mit dem ARST-Bus oder 35 Min. Fahrt erreichbar.",
+          "amenitiesDe": "Ganzjährig ohne Leine, kostenloses Parken unter Pinien, keine Kioske, kein Trinkwasser",
+          "tipDe": "Einer der wenigen offiziell ausgewiesenen ganzjährigen Hundestrände Sardiniens, ideal von Oktober bis April, wenn die zentralen Strände leer und kühl sind."
         }
       ],
       "tipsEn": [
@@ -628,6 +721,22 @@
           "q": "Há tigelas de água na praia do Poetto?",
           "a": "Sim, na faixa municipal para cães, fornecidas pela associação local de voluntários Sardegna Dog Beach. Voltam a enchê-las duas vezes por dia, mas leve uma garrafa de reserva de 1 L em julho e agosto."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Cagliari & Umgebung",
+      "introDe": "Cagliari ist eine der wenigen europäischen Hauptstädte mit 8 km städtischem Strand (Poetto), der direkt mit dem Bus vom Zentrum aus erreichbar ist. Die Gemeinde betreibt einen saisonalen Hundestrand am östlichen Ende von Poetto, und mehrere kostenlose, ganzjährig geöffnete Buchten liegen innerhalb von 15 Minuten von der Stadt entfernt.",
+      "faqsDe": [
+        {
+          "q": "Wo genau liegt der Hundestrand von Cagliari?",
+          "a": "Am östlichen Ende von Poetto, nahe dem Eingang Marina Piccola (km 4-5). Er ist offiziell von Mai bis Oktober geöffnet, der Abschnitt bleibt aber ganzjährig für Hundespaziergänge zugänglich."
+        },
+        {
+          "q": "Kann ich meinen Hund an die Strände von Villasimius mitnehmen?",
+          "a": "Villasimius weist die Spiaggia di Riu Trottu als Hundestrand aus (ganzjährig ohne Leine). Die Hauptstrände Porto Giunco und Punta Molentis verbieten Hunde von Juni bis September."
+        },
+        {
+          "q": "Gibt es Wassernäpfe am Poetto-Strand?",
+          "a": "Ja, am städtischen Hundeabschnitt, bereitgestellt vom lokalen Ehrenamtsverein Sardegna Dog Beach. Sie werden zweimal täglich aufgefüllt, im Juli/August dennoch eine 1-Liter-Flasche als Reserve mitbringen."
+        }
       ]
     },
     "vets": {
@@ -658,7 +767,9 @@
           "tipEs": "El veterinario de guardia nocturna puede tardar 20-30 min en llegar desde su casa para llamadas muy tarde (después de las 02:00), llama antes para confirmar disponibilidad.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Duemari+Cagliari",
           "descriptionPt": "O hospital de referência 24/7 para animais de pequeno porte de Cagliari, com cirurgia, imagiologia de diagnóstico (TAC), cardiologia e cuidados intensivos de urgência. Telefone com antecedência antes de chegar fora do horário diurno.",
-          "tipPt": "O veterinário de chamada noturna pode levar 20 a 30 min a chegar de casa nas chamadas muito tardias (depois das 02:00), por isso telefone primeiro para confirmar a presença de pessoal."
+          "tipPt": "O veterinário de chamada noturna pode levar 20 a 30 min a chegar de casa nas chamadas muito tardias (depois das 02:00), por isso telefone primeiro para confirmar a presença de pessoal.",
+          "descriptionDe": "Das Referenz-24/7-Kleintierkrankenhaus von Cagliari, Chirurgie, bildgebende Diagnostik (CT-Scan), Kardiologie und tierärztliche Notfall-Intensivmedizin. Vor Ankunft außerhalb der Tageszeiten vorab anrufen.",
+          "tipDe": "Der Nacht-Bereitschaftstierarzt kann bei sehr späten Anrufen (nach 02:00 Uhr) 20-30 Min. brauchen, um von zu Hause anzukommen, vorab anrufen, um die Besetzung zu bestätigen."
         },
         {
           "name": "Clinica Veterinaria Sardo (Pirri)",
@@ -680,7 +791,9 @@
           "tipEs": "Llama antes de ir, la clínica también es residencia y el timbre no siempre se responde fuera de horario.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Sardo+Pirri",
           "descriptionPt": "Clínica de medicina geral de longa data em Pirri, com serviço de chamada ao final do dia e ao fim de semana até às 23:00. Cirurgia, dermatologia e diagnóstico básico, popular nos subúrbios a norte de Cagliari.",
-          "tipPt": "Telefone antes de ir, pois a clínica funciona também como residência e a campainha nem sempre é atendida fora do horário de consultas."
+          "tipPt": "Telefone antes de ir, pois a clínica funciona também como residência e a campainha nem sempre é atendida fora do horário de consultas.",
+          "descriptionDe": "Seit langem bestehende Allgemeinpraxis in Pirri mit abendlichem und Wochenend-Bereitschaftsdienst bis 23:00 Uhr. Chirurgie, Dermatologie und Basisdiagnostik, beliebt bei den nördlichen Vororten von Cagliari.",
+          "tipDe": "Vor dem Hinfahren anrufen, die Klinik dient zugleich als Wohnhaus und die Klingel wird außerhalb der Sprechzeiten nicht immer beantwortet."
         },
         {
           "name": "Ambulatorio Veterinario San Francesco",
@@ -701,7 +814,9 @@
           "tipEs": "Conveniente para visitantes que necesitan el tratamiento antiparasitario (equinococo) antes de volar a Irlanda/Finlandia/Malta/Noruega, reserva con 48h.",
           "googleMapsUrl": "https://maps.google.com/?q=Ambulatorio+Veterinario+San+Francesco+Cagliari",
           "descriptionPt": "Clínica no centro de Cagliari, na fronteira entre Bonaria e Sant'Avendrace, a 10 min a pé dos hotéis da Marina. Consultas diurnas, vacinação, colocação de microchip e emissão do passaporte de animal italiano.",
-          "tipPt": "Prática para os visitantes que precisam do tratamento da UE contra a ténia (equinococose) antes de voar de regresso à Irlanda/Finlândia/Malta/Noruega, por isso reserve com 48h de antecedência."
+          "tipPt": "Prática para os visitantes que precisam do tratamento da UE contra a ténia (equinococose) antes de voar de regresso à Irlanda/Finlândia/Malta/Noruega, por isso reserve com 48h de antecedência.",
+          "descriptionDe": "Zentrale Klinik in Cagliari an der Grenze zwischen Bonaria und Sant'Avendrace, 10 Gehminuten von den Hotels der Marina entfernt. Tageskonsultationen, Impfungen, Mikrochip-Implantate und Ausstellung des italienischen Heimtierausweises.",
+          "tipDe": "Praktisch für Besucher, die die EU-Bandwurmbehandlung (Echinococcus) vor dem Rückflug nach Irland/Finnland/Malta/Norwegen benötigen, 48 Std. im Voraus buchen."
         }
       ],
       "tipsEn": [
@@ -781,6 +896,22 @@
           "q": "O meu seguro de animais funciona em Itália?",
           "a": "A maioria das seguradoras de animais da UE reembolsa as faturas veterinárias italianas numa base de pagar e reclamar, por isso peça uma 'fattura' discriminada com o seu nome, o número do microchip do cão e os códigos dos procedimentos."
         }
+      ],
+      "titleDe": "Notfall-Tierärzte & tierärztliche Versorgung in Cagliari",
+      "introDe": "Cagliari verfügt über ein vollständiges 24/7-Notfallkrankenhaus und mehrere Tageskliniken mit nächtlichem Bereitschaftsdienst. Sardinien liegt außerhalb des italienischen Festland-Netzwerks der 'guardia veterinaria', daher sind die unten genannten lokalen Klinik-Nummern die Referenz für die Versorgung außerhalb der Öffnungszeiten.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24/7-Tierarzt in Cagliari?",
+          "a": "Ja, die Clinica Veterinaria Duemari (+39 070 503480) betreibt eine 24/7-Notfalllinie und ist das Referenzkrankenhaus für Kleintiere in Südsardinien."
+        },
+        {
+          "q": "Was kostet eine Notfallkonsultation?",
+          "a": "Eine tägliche Notfallkonsultation kostet typischerweise 50-80 €, ein nächtlicher Hausbesuch (22:00-08:00 Uhr) 120-180 € zuzüglich Behandlungen. Sardinien liegt am unteren Ende der italienischen Tierarztpreise."
+        },
+        {
+          "q": "Funktioniert meine Haustierversicherung in Italien?",
+          "a": "Die meisten EU-Haustierversicherer erstatten italienische Tierarztrechnungen auf Basis von Vorauszahlung und anschließender Erstattung, eine detaillierte 'fattura' mit Name, Mikrochipnummer des Hundes und Behandlungscodes verlangen."
+        }
       ]
     },
     "tips": {
@@ -797,7 +928,8 @@
           "description": "April-June and mid-September to early November are ideal: 18-26°C, swimmable sea, terraces in full swing. Avoid July-August (28-35°C, sirocco wind, summer beach ban on Poetto). December-March mild (12-16°C) and quiet.",
           "descriptionFr": "Avril-juin et mi-septembre à début novembre sont idéaux : 18-26°C, mer baignable, terrasses à plein régime. Évitez juillet-août (28-35°C, sirocco, interdiction estivale au Poetto). Décembre-mars doux (12-16°C) et calme.",
           "descriptionEs": "Abril-junio y mediados de septiembre a principios de noviembre son ideales: 18-26°C, mar bañable, terrazas a tope. Evita julio-agosto (28-35°C, siroco, veda estival en Poetto). Diciembre-marzo suaves (12-16°C) y tranquilos.",
-          "descriptionPt": "De abril a junho e de meados de setembro a início de novembro são ideais: 18 a 26°C, mar para banhos, esplanadas em pleno funcionamento. Evite julho e agosto (28 a 35°C, vento siroco, proibição de praia de verão no Poetto). De dezembro a março, ameno (12 a 16°C) e tranquilo."
+          "descriptionPt": "De abril a junho e de meados de setembro a início de novembro são ideais: 18 a 26°C, mar para banhos, esplanadas em pleno funcionamento. Evite julho e agosto (28 a 35°C, vento siroco, proibição de praia de verão no Poetto). De dezembro a março, ameno (12 a 16°C) e tranquilo.",
+          "descriptionDe": "April-Juni und Mitte September bis Anfang November sind ideal: 18-26 °C, badbares Meer, Terrassen in vollem Betrieb. Juli/August meiden (28-35 °C, Sirocco-Wind, sommerliches Strandverbot am Poetto). Dezember-März mild (12-16 °C) und ruhig."
         },
         {
           "name": "Castello & stair access",
@@ -805,14 +937,16 @@
           "description": "The historic Castello district sits on a 100-metre hill accessed by steep stairs (Scala di Santa Chiara) or the free Ascensore di Santa Croce lift, which accepts leashed dogs. Plan one visit per day, not two.",
           "descriptionFr": "Le quartier historique du Castello est perché sur une colline de 100 m, accessible par des escaliers raides (Scala di Santa Chiara) ou l'ascenseur gratuit Ascensore di Santa Croce, qui accepte les chiens en laisse. Prévoyez une visite par jour, pas deux.",
           "descriptionEs": "El barrio histórico Castello se asienta en una colina de 100 m, accesible por escaleras empinadas (Scala di Santa Chiara) o el ascensor gratuito Ascensore di Santa Croce, que admite perros con correa. Planifica una visita al día, no dos.",
-          "descriptionPt": "O histórico bairro do Castello fica numa colina de 100 metros, acessível por escadas íngremes (Scala di Santa Chiara) ou pelo elevador gratuito Ascensore di Santa Croce, que aceita cães com trela. Planeie uma visita por dia, não duas."
+          "descriptionPt": "O histórico bairro do Castello fica numa colina de 100 metros, acessível por escadas íngremes (Scala di Santa Chiara) ou pelo elevador gratuito Ascensore di Santa Croce, que aceita cães com trela. Planeie uma visita por dia, não duas.",
+          "descriptionDe": "Das historische Viertel Castello liegt auf einem 100 Meter hohen Hügel, erreichbar über steile Treppen (Scala di Santa Chiara) oder den kostenlosen Aufzug Ascensore di Santa Croce, der angeleinte Hunde zulässt. Einen Besuch pro Tag einplanen, nicht zwei."
         },
         {
           "name": "Heat & sirocco rules",
           "description": "From mid-June to mid-September walk dogs before 10:00 and after 19:00. The sirocco wind pushes pavement temperatures above 50°C and the salt-laden air irritates paws and eyes, rinse with fresh water after every outdoor session.",
           "descriptionFr": "De mi-juin à mi-septembre, promenez avant 10h et après 19h. Le sirocco fait dépasser 50°C aux trottoirs et l'air chargé de sel irrite coussinets et yeux, rincez à l'eau douce après chaque sortie.",
           "descriptionEs": "De mediados de junio a mediados de septiembre, pasea antes de las 10:00 y después de las 19:00. El siroco eleva la acera por encima de 50°C y el aire salado irrita almohadillas y ojos, enjuaga con agua dulce después de cada salida.",
-          "descriptionPt": "De meados de junho a meados de setembro, passeie os cães antes das 10:00 e depois das 19:00. O vento siroco faz subir as temperaturas da calçada acima dos 50°C e o ar carregado de sal irrita as patas e os olhos, por isso enxague com água doce após cada saída ao exterior."
+          "descriptionPt": "De meados de junho a meados de setembro, passeie os cães antes das 10:00 e depois das 19:00. O vento siroco faz subir as temperaturas da calçada acima dos 50°C e o ar carregado de sal irrita as patas e os olhos, por isso enxague com água doce após cada saída ao exterior.",
+          "descriptionDe": "Von Mitte Juni bis Mitte September Hunde vor 10:00 und nach 19:00 Uhr ausführen. Der Sirocco-Wind treibt die Gehwegtemperaturen über 50 °C, und die salzhaltige Luft reizt Pfoten und Augen, nach jeder Runde im Freien mit frischem Wasser abspülen."
         }
       ],
       "tipsEn": [
@@ -892,6 +1026,22 @@
           "q": "Cagliari é mais acolhedora para cães do que Palermo?",
           "a": "Na questão da praia para cães, sim: Cagliari tem uma praia para cães sazonal formal (faixa leste do Poetto) e Calamosca durante todo o ano, ao passo que o acesso à praia para cães de Palermo é mais informal. Ambas partilham uma cultura de esplanada semelhante."
         }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch in Cagliari mit Hund",
+      "introDe": "Cagliari belohnt den gut vorbereiteten Hundereisenden: Strandverbote sind im Sommer streng, das Hügelviertel Castello hat enge, treppenreiche Gassen, und die Sirocco-Hitze kann im August 38 °C erreichen. Die Nebensaisons und den Rhythmus der Einheimischen rund um den Sonnenaufgang einplanen.",
+      "faqsDe": [
+        {
+          "q": "Was ist der beste Monat für einen Besuch in Cagliari mit Hund?",
+          "a": "Mai und Oktober sind der Sweet Spot: warm genug für einen vollen Tag im Freien, das Meer badbar, das sommerliche Strandverbot noch nicht in Kraft (Mai) oder gerade aufgehoben (Oktober)."
+        },
+        {
+          "q": "Brauche ich einen Maulkorb für meinen Hund in Cagliari?",
+          "a": "Das italienische Recht schreibt vor, einen Maulkorb mitzuführen (nicht zwingend zu tragen) in öffentlichen Verkehrsmitteln und an belebten Orten. CTM-Fahrer und Fährbesatzungen setzen dies strenger durch als Restaurantpersonal."
+        },
+        {
+          "q": "Ist Cagliari hundefreundlicher als Palermo?",
+          "a": "Beim Thema Hundestrand ja: Cagliari hat einen offiziellen saisonalen Hundestrand (östlicher Poetto-Abschnitt) und ganzjährig Calamosca, während der Zugang zum Hundestrand in Palermo informeller ist. Beide teilen eine ähnliche Terrassenkultur."
+        }
       ]
     },
     "attractions": {
@@ -920,7 +1070,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Bastione+Saint+Remy+Cagliari",
           "descriptionPt": "Terraço monumental de pedra do século XIX que liga o bairro do Castello à Marina, em baixo, oferecendo o panorama emblemático da cidade, das lagoas ao Golfo de Cagliari. Totalmente aberto a cães com trela de dia e de noite.",
           "petPolicyPt": "Terraço público aberto, cães com trela bem-vindos 24/7",
-          "tipPt": "O elevador gratuito Ascensore di Santa Croce, a partir da Piazza Costituzione, leva-o diretamente ao topo, perfeito para cães mais velhos ou de patas curtas."
+          "tipPt": "O elevador gratuito Ascensore di Santa Croce, a partir da Piazza Costituzione, leva-o diretamente ao topo, perfeito para cães mais velhos ou de patas curtas.",
+          "descriptionDe": "Monumentale Steinterrasse aus dem 19. Jahrhundert, die das Viertel Castello mit der darunterliegenden Marina verbindet und das charakteristische Stadtpanorama von den Lagunen bis zum Golf von Cagliari bietet. Tag und Nacht vollständig offen für angeleinte Hunde.",
+          "petPolicyDe": "Öffentliche Terrasse, angeleinte Hunde rund um die Uhr willkommen",
+          "tipDe": "Der kostenlose Aufzug Ascensore di Santa Croce von der Piazza Costituzione bringt einen direkt nach oben, perfekt für ältere oder kurzbeinige Hunde."
         },
         {
           "name": "Anfiteatro Romano",
@@ -940,7 +1093,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Anfiteatro+Romano+Cagliari",
           "descriptionPt": "Anfiteatro romano do século II esculpido na encosta, a maior ruína romana da Sardenha. O perímetro arqueológico e o caminho de miradouro por cima acolhem cães; o interior da cavea encontra-se atualmente fechado aos visitantes.",
           "petPolicyPt": "Caminho do perímetro exterior aberto a cães com trela gratuitamente; escavação arqueológica interior fechada",
-          "tipPt": "Combine com o parque da necrópole púnica de Tuvixeddu (10 min a pé para oeste); este último não admite cães na zona dos túmulos, mas o parque envolvente admite."
+          "tipPt": "Combine com o parque da necrópole púnica de Tuvixeddu (10 min a pé para oeste); este último não admite cães na zona dos túmulos, mas o parque envolvente admite.",
+          "descriptionDe": "Römisches Amphitheater aus dem 2. Jahrhundert, in den Hang gehauen, die größte römische Ruine Sardiniens. Der archäologische Umgang und der Aussichtsweg darüber sind hundefreundlich, das Innere der Arena derzeit für Besucher gesperrt.",
+          "petPolicyDe": "Äußerer Rundweg kostenlos offen für angeleinte Hunde; archäologische Ausgrabung im Inneren gesperrt",
+          "tipDe": "Mit dem punischen Nekropolenpark Tuvixeddu kombinieren (10 Gehminuten westlich), letzterer lässt im Grabbereich selbst keine Hunde zu, der umliegende Park jedoch schon."
         },
         {
           "name": "Parco Naturale di Molentargius-Saline",
@@ -960,7 +1116,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Parco+Molentargius+Cagliari",
           "descriptionPt": "Reserva natural de lagoa de 1600 hectares entre a cidade e Quartu Sant'Elena, que acolhe uma colónia permanente de flamingos cor-de-rosa (mais de 5000 aves), alcançável a pé, de bicicleta ou com cão à trela. Circuito plano de 7 km ao longo de caminhos entre salinas.",
           "petPolicyPt": "Cães com trela bem-vindos em todos os trilhos, sem entrada nos observatórios de aves durante a época de nidificação (abril a junho)",
-          "tipPt": "Visite ao amanhecer (07:30-09:00) de maio a agosto para a melhor observação de flamingos e para evitar o calor do meio-dia nos caminhos sem sombra entre as salinas."
+          "tipPt": "Visite ao amanhecer (07:30-09:00) de maio a agosto para a melhor observação de flamingos e para evitar o calor do meio-dia nos caminhos sem sombra entre as salinas.",
+          "descriptionDe": "1.600 Hektar großes Lagunen-Naturschutzgebiet zwischen der Stadt und Quartu Sant'Elena, Heimat einer dauerhaften rosa Flamingokolonie (über 5.000 Vögel), zu Fuß, mit dem Fahrrad oder mit angeleintem Hund erreichbar. Flache 7 km lange Runde entlang der Salzpfannenwege.",
+          "petPolicyDe": "Angeleinte Hunde willkommen auf allen Wegen, kein Zutritt zu Beobachtungshütten während der Brutzeit (Apr.-Juni)",
+          "tipDe": "Bei Sonnenaufgang (07:30-09:00 Uhr) im Mai bis August besuchen für die beste Flamingobeobachtung und um die Mittagshitze auf den unbeschatteten Salzpfannenwegen zu vermeiden."
         }
       ],
       "tipsEn": [
@@ -1040,6 +1199,22 @@
           "q": "O meu cão pode ver os flamingos em Molentargius?",
           "a": "Sim, os cães com trela são admitidos em todos os trilhos principais. Os observatórios de aves estão fechados a cães durante a época de nidificação (de abril a junho), mas as margens abertas da lagoa oferecem, de qualquer forma, as melhores vistas."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Cagliari",
+      "introDe": "Cagliari vereint auf 2 km² eine überraschende Menge an mit Hund begehbarer Geschichte: die Bastionen des Castello, das Äußere des römischen Amphitheaters, die Esplanade der Basilika von Bonaria und die Flamingo-Lagune Molentargius heißen alle angeleinte Hunde willkommen. Nur Museumsinnenräume und der Botanische Garten sind tabu.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit in die Kathedrale von Cagliari nehmen?",
+          "a": "In die Cattedrale di Santa Maria dürfen nur Assistenzhunde. Die umliegende Piazza Palazzo und die Bastionen sind Tag und Nacht hundefreundlich."
+        },
+        {
+          "q": "Gibt es geführte hundefreundliche Touren durch Cagliari?",
+          "a": "Ja, der Verein Sardegna Dog Tours (sardegnadogtours.it) bietet 2-stündige Führungen durch die Viertel Castello und Marina an, max. 5 Hunde, 15 € pro Person."
+        },
+        {
+          "q": "Kann mein Hund die Flamingos im Molentargius sehen?",
+          "a": "Ja, angeleinte Hunde sind auf allen Hauptwegen zugelassen. Beobachtungshütten sind während der Brutzeit (April bis Juni) für Hunde geschlossen, aber die offenen Lagunenufer bieten ohnehin die besten Ausblicke."
+        }
       ]
     },
     "petsitting": {
@@ -1064,7 +1239,9 @@
           "tipFr": "Les sitters de Marina et Bonaria sont à 10 min à pied de la plupart des hôtels ; ceux de Pirri imposent un bus CTM mais facturent 5-10 € de moins par nuit.",
           "tipEs": "Cuidadores de Marina y Bonaria a 10 min a pie de la mayoría de hoteles; los de Pirri requieren bus CTM pero cobran 5-10 € menos por noche.",
           "descriptionPt": "A principal plataforma de cuidadores de animais de Itália, com cerca de 15 cuidadores verificados em Cagliari. Visitas pontuais, creche e alojamento durante a noite, seguro incluído. Filtre os cuidadores por bairro (Marina, Stampace, Pirri) e pela opção de quem fala inglês.",
-          "tipPt": "Os cuidadores da Marina e de Bonaria ficam a menos de 10 min a pé da maioria dos hotéis; os de Pirri exigem uma viagem de autocarro da CTM, mas cobram 5 a 10 EUR menos por noite."
+          "tipPt": "Os cuidadores da Marina e de Bonaria ficam a menos de 10 min a pé da maioria dos hotéis; os de Pirri exigem uma viagem de autocarro da CTM, mas cobram 5 a 10 EUR menos por noite.",
+          "descriptionDe": "Italiens führende Plattform für Haustierbetreuung mit rund 15 verifizierten Betreuern in Cagliari. Kurzbesuche, Tagesbetreuung und Übernachtung, Versicherung inbegriffen. Betreuer nach Viertel filtern (Marina, Stampace, Pirri) und Option Englischsprachig.",
+          "tipDe": "Betreuer in Marina und Bonaria sind innerhalb von 10 Gehminuten der meisten Hotels; Betreuer in Pirri erfordern eine CTM-Busfahrt, verlangen aber 5-10 € weniger pro Nacht."
         },
         {
           "name": "Pawshake Sardegna",
@@ -1081,7 +1258,9 @@
           "tipFr": "Réservez 2-3 semaines à l'avance pour les séjours d'août, le très petit vivier local se remplit vite en été.",
           "tipEs": "Reserva con 2-3 semanas para estancias de agosto, el muy reducido pool local se llena rápido en verano.",
           "descriptionPt": "Mercado europeu de cuidadores de animais que cobre Cagliari com cerca de 8 cuidadores que oferecem alojamento em casa e passeio de cães. Maior proporção de cuidadores que falam inglês e francês do que no grupo italiano da Rover.",
-          "tipPt": "Reserve com 2 a 3 semanas de antecedência para estadias em agosto, pois o grupo de cuidadores locais, muito reduzido, esgota depressa no verão."
+          "tipPt": "Reserve com 2 a 3 semanas de antecedência para estadias em agosto, pois o grupo de cuidadores locais, muito reduzido, esgota depressa no verão.",
+          "descriptionDe": "Europäischer Marktplatz für Haustierbetreuung, der Cagliari mit rund 8 Betreuern für Unterbringung zu Hause und Hundespaziergänge abdeckt. Höherer Anteil englisch- und französischsprachiger Betreuer als im italienischen Rover-Pool.",
+          "tipDe": "Für Aufenthalte im August 2-3 Wochen im Voraus buchen, der sehr kleine lokale Betreuerpool ist im Sommer schnell ausgebucht."
         }
       ],
       "tipsEn": [
@@ -1160,6 +1339,22 @@
         {
           "q": "Um cuidador pode levar o meu cão à praia para cães?",
           "a": "Sim, a maioria dos cuidadores de Cagliari oferece passeios na praia no Poetto ou em Calamosca como parte de um serviço de passeio de 1 hora. Confirme o comprimento da trela e a política de pausas à sombra ao reservar."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundespaziergänger in Cagliari",
+      "introDe": "Der Pool an Haustierbetreuern in Cagliari ist klein, aber zuverlässig, konzentriert in den Vierteln Marina, Castello und Pirri. Rover (in Italien DogBuddy) listet rund 12-15 verifizierte Betreuer im Großraum, und mehrere Tierpensionen betreiben zwischen der Stadt und Quartu.",
+      "faqsDe": [
+        {
+          "q": "Was kostet Haustierbetreuung in Cagliari?",
+          "a": "18-25 € pro Nacht für Unterbringung zu Hause, 12-16 € pro Kurzbesuch, 10-14 € pro Hundespaziergang auf den großen Plattformen. Tierpensionen außerhalb der Stadt kosten 15-20 € pro Nacht."
+        },
+        {
+          "q": "Gibt es englischsprachige Betreuer in Cagliari?",
+          "a": "Ja, etwa 30 % der Rover/Pawshake-Betreuer in Cagliari sprechen brauchbares Englisch. Bei der Buchung filtern, nach Betreuern mit internationalen Gästebewertungen suchen."
+        },
+        {
+          "q": "Kann ein Betreuer meinen Hund zum Hundestrand mitnehmen?",
+          "a": "Ja, die meisten Betreuer in Cagliari bieten Strandspaziergänge in Poetto oder Calamosca als Teil eines einstündigen Spaziergangservices an. Bei der Buchung die Leinenlänge und die Regelung für Schattenpausen bestätigen."
         }
       ]
     }

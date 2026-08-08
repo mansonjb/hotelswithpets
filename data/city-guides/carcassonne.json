@@ -39,7 +39,11 @@
           "tipFr": "Réservez la table en cour (pas la salle intérieure) quand vous venez avec un chien, le patron vous placera dans le coin le plus calme sous le platane.",
           "tipEs": "Reserva la mesa del patio (no el comedor interior) cuando vengas con perro, el dueño te colocará en el rincón más tranquilo bajo el plátano.",
           "tipPt": "Reserve a mesa do pátio (não a sala interior) quando vier com cão, o dono coloca-o no canto mais calmo sob o plátano.",
-          "googleMapsUrl": "https://maps.google.com/?q=Comte+Roger+Carcassonne"
+          "googleMapsUrl": "https://maps.google.com/?q=Comte+Roger+Carcassonne",
+          "descriptionDe": "Ein Restaurant mit Steinmauern innerhalb der mittelalterlichen Mauern von La Cité, mit einem ruhigen Innenhof im Schatten einer riesigen Platane, wo angeleinte Hunde an den Außentischen willkommen sind. Der Küchenchef bezieht seine Zutaten von lokalen Erzeugern der Aude: Schwarzschwein aus Lacaune, Lamm aus den Corbières und saisonales Gemüse aus Mirepoix. Das Cassoulet ist das Gericht, das man bestellen sollte, zubereitet mit weißen Tarbais-Bohnen, Toulouse-Wurst und confierter Ente. Eine ernsthafte, gemächliche Adresse und keine touristische Durchlauf-Falle. Hunde erhalten bei der Ankunft einen Wassernapf.",
+          "petPolicyDe": "Hunde an den Tischen im Innenhof an der Leine willkommen; Wassernäpfe auf Wunsch",
+          "mustTryDe": "Cassoulet au confit de canard, die klassische Aude-Version mit Tarbais-Bohnen und Toulouse-Wurst",
+          "tipDe": "Reservieren Sie bei der Buchung mit Hund den Tisch im Innenhof (nicht den Innenraum), der Wirt weist Ihnen die ruhigste Ecke unter der Platane zu."
         },
         {
           "name": "La Marquière",
@@ -65,7 +69,11 @@
           "tipFr": "Demandez les tables côté rempart à la réservation avec un chien, elles s'appuient au mur médiéval et les pavés y restent plus frais.",
           "tipEs": "Pide las mesas pegadas a la muralla al reservar con perro, dan al muro medieval y los adoquines se mantienen más frescos.",
           "tipPt": "Peça as mesas encostadas à muralha ao reservar com cão, ficam junto ao muro medieval e a calçada mantém-se mais fresca.",
-          "googleMapsUrl": "https://maps.google.com/?q=La+Marquiere+Carcassonne"
+          "googleMapsUrl": "https://maps.google.com/?q=La+Marquiere+Carcassonne",
+          "descriptionDe": "Ein Restaurant mit Logis-de-France-Auszeichnung innerhalb von La Cité, seit über zwanzig Jahren von einem Ehepaar aus Carcassonne geführt und Gewinner der TripAdvisor Travellers' Choice. Die überdachte Terrasse mit Blick auf die Ringmauer akzeptiert angeleinte Hunde und liegt den ganzen Nachmittag im Schatten, ein echtes Plus im Juli und August. Die Küche bietet eine raffinierte Version der okzitanischen Regionalküche, mit einem starken Cassoulet, aber auch saisonalem Wild im Herbst und Forelle aus dem oberen Aude-Tal. Buchung in der Hochsaison unbedingt erforderlich.",
+          "petPolicyDe": "Angeleinte Hunde auf der überdachten Terrasse willkommen; Wasser auf Wunsch",
+          "mustTryDe": "Cassoulet de Carcassonne, leichter als die Toulouser Version mit lokalen weißen Lauragais-Bohnen",
+          "tipDe": "Bitten Sie bei der Buchung mit Hund um die Tische mit Blick auf die Ringmauer, sie liegen an der mittelalterlichen Mauer, und die Pflastersteine bleiben dort kühler als auf der offenen Straße."
         },
         {
           "name": "Le Bar à Vins",
@@ -91,7 +99,11 @@
           "tipFr": "Service continu tout l'après-midi, idéal pour un déjeuner tardif avec un chien après la fermeture des restaurants à 14h.",
           "tipEs": "Servicio continuo toda la tarde, ideal para un almuerzo tardío con perro tras el cierre de los restaurantes a las 14:00.",
           "tipPt": "Serviço contínuo toda a tarde, ideal para um almoço tardio com cão depois do fecho dos restaurantes às 14h.",
-          "googleMapsUrl": "https://maps.google.com/?q=Le+Bar+a+Vins+Carcassonne"
+          "googleMapsUrl": "https://maps.google.com/?q=Le+Bar+a+Vins+Carcassonne",
+          "descriptionDe": "Eine Weinbar in einem weitläufigen ummauerten Garten innerhalb von La Cité, die größte Außenterrasse in der Zitadelle, mit Kastanienbäumen, einem Brunnen und Dutzenden unterschiedlicher Holztische unter Lichterketten. Angeleinte Hunde sind überall im Garten willkommen, wo es stets Schatten und Wassernäpfe gibt. Das Angebot umfasst kleine Gerichte und Weine aus dem Languedoc-Roussillon glasweise (Minervois, Corbières, Limoux), entspannter als die formellen Restaurants der Cité und gut geeignet für einen gemütlichen Nachmittag mit Hund.",
+          "petPolicyDe": "Hunde im gesamten Garten an der Leine willkommen; überall Wassernäpfe",
+          "mustTryDe": "Planche cassoulet-charcuterie mit einem Glas Minervois rouge, ideal als Nachmittagssnack",
+          "tipDe": "Durchgehender Service über den Nachmittag, ideal für ein spätes Mittagessen mit Hund, nachdem die Restaurants mit Mittagsandrang bereits um 14:00 Uhr geschlossen haben."
         }
       ],
       "tipsEn": [
@@ -137,6 +149,14 @@
           "q": "Os cães são aceites nos restaurantes dentro de La Cité de Carcassonne?",
           "a": "Sim, à discrição do proprietário segundo a lei francesa. A maioria das esplanadas dentro das muralhas medievais acolhe cães com trela bem comportados, em particular Comte Roger, La Marquière e Le Bar à Vins. As salas interiores são mais variáveis, pergunte sempre à entrada."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Carcassonne",
+      "introDe": "Carcassonne, die von der UNESCO gelistete Festungsstadt der Aude, hat eine stark café-geprägte Restaurantkultur, verteilt auf zwei unterschiedliche Viertel: La Cité, die mittelalterliche Festung auf dem Hügel, und die Bastide Saint-Louis, die im 13. Jahrhundert angelegte Rasterstadt jenseits der Pont Vieux. Das französische Recht erlaubt Hunde in Restaurants nach Ermessen des Inhabers, und die meisten Terrassen in beiden Vierteln heißen wohlerzogene, angeleinte Hunde willkommen, besonders in den langen Nebensaisons (April–Juni, September–Oktober), wenn die Menschenmengen überschaubar sind. Im Hochsommer speichern die Pflastersteine von La Cité die Hitze extrem, und die meisten Betreiber verlagern den Service auf den Abend, was auch die angenehmere Zeit ist, um mit Hund zu speisen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants innerhalb der Cité von Carcassonne erlaubt?",
+          "a": "Ja, nach Ermessen des Inhabers gemäß französischem Recht. Die meisten Terrassen innerhalb der mittelalterlichen Mauern heißen angeleinte, wohlerzogene Hunde willkommen, besonders Comte Roger, La Marquière und Le Bar à Vins. Die Innenräume sind unterschiedlicher geregelt, fragen Sie stets an der Tür nach."
+        }
       ]
     },
     "parks": {
@@ -167,7 +187,10 @@
           "tipFr": "Faites le tronçon est de 3 km jusqu'à l'écluse de l'Évêque aller-retour, c'est le plus ombragé et le seul ponctué d'un banc en pierre tous les 200 m pour les pauses eau.",
           "tipEs": "Recorre el tramo este de 3 km hasta la esclusa de l'Évêque ida y vuelta, es el más sombreado y el único con un banco de piedra cada 200 m para pausas de agua.",
           "tipPt": "Faça o troço leste de 3 km até à eclusa de l'Évêque ida e volta, é o mais sombreado e o único com um banco de pedra a cada 200 m para pausas de água.",
-          "googleMapsUrl": "https://maps.google.com/?q=Canal+du+Midi+Carcassonne"
+          "googleMapsUrl": "https://maps.google.com/?q=Canal+du+Midi+Carcassonne",
+          "descriptionDe": "Der Treidelpfad des im 17. Jahrhundert von Pierre-Paul Riquet erbauten Canal du Midi verläuft eben und im Schatten jahrhundertealter Platanen mitten durch das Zentrum von Carcassonne, vorbei am Bassin du Pont Rouge und dem Bahnhof. Ostwärts erreicht der Treidelpfad Trèbes (13 km) und die Kreuzung mit dem Canal de la Cesse, westwärts steigt er zur Écluse de Foucaud und weiter Richtung Toulouse an. Hunde müssen an der Leine bleiben, da der Weg mit Radfahrern geteilt wird; der Untergrund ist festgetretene Erde, sehr pfotenfreundlich. UNESCO-Welterbe seit 1996.",
+          "offLeashAreaDe": "Durchgehend an der Leine, gemeinsam mit Radfahrern genutzt",
+          "tipDe": "Gehen Sie den 3 km langen Abschnitt ostwärts bis zur Écluse de l'Évêque und zurück, den schattigsten Abschnitt mit einer Steinbank alle 200 m für Wasserpausen."
         },
         {
           "name": "Lac de la Cavayère",
@@ -187,7 +210,10 @@
           "tipFr": "Allez-y le matin avant 11h en été, le parking se remplit avant le déjeuner et la rive autorisée aux chiens est à l'est, après la troisième plage.",
           "tipEs": "Ve por la mañana antes de las 11:00 en verano, el aparcamiento se llena antes de comer y la orilla autorizada para perros está al este, pasada la tercera playa.",
           "tipPt": "Vá de manhã antes das 11h no verão, o estacionamento enche-se antes do almoço e a margem autorizada para cães fica a leste, depois da terceira praia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Lac+de+la+Cavayere+Carcassonne"
+          "googleMapsUrl": "https://maps.google.com/?q=Lac+de+la+Cavayere+Carcassonne",
+          "descriptionDe": "Ein 40 Hektar großer See 5 km östlich von Carcassonne im Vorland des Cabardès, mit einem 4,5 km langen Uferweg unter Kiefern und Eichen, ideal für schattige Hundespaziergänge das ganze Jahr über. Die Gemeinde verbietet Hunde an den drei überwachten Badestränden zwischen dem 1. Juni und dem 15. September; außerhalb dieses Zeitraums können Hunde an den unüberwachten Uferabschnitten frei ins Wasser gehen. Kostenloses Parken, kein Eintritt. Mit dem Auto oder dem saisonalen Shuttle Navette Cavayère ab der Innenstadt erreichbar.",
+          "offLeashAreaDe": "Freilauf auf dem bewaldeten Uferweg toleriert; Leinenpflicht in der Nähe der drei überwachten Strände",
+          "tipDe": "Fahren Sie im Sommer morgens vor 11:00 Uhr, der Parkplatz am See ist mittags voll, und der für Hunde erlaubte Uferabschnitt liegt am Ostufer hinter dem dritten Strand."
         },
         {
           "name": "Berges de l'Aude et Pont Vieux",
@@ -207,7 +233,10 @@
           "tipFr": "Traversez le Pont Vieux depuis la Bastide juste avant le coucher du soleil pour la photo carte-postale de La Cité à contre-jour, votre chien profite de la brise rafraîchissante du retour.",
           "tipEs": "Cruza el Pont Vieux desde la Bastide justo antes del atardecer para la foto postal de La Cité a contraluz, tu perro disfruta de la brisa refrescante del río al volver.",
           "tipPt": "Atravesse o Pont Vieux a partir da Bastide mesmo antes do pôr do sol para a foto postal de La Cité em contraluz, o seu cão aproveita a brisa refrescante do rio no regresso.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pont+Vieux+Carcassonne"
+          "googleMapsUrl": "https://maps.google.com/?q=Pont+Vieux+Carcassonne",
+          "descriptionDe": "Die Ufer der Aude verbinden die mittelalterliche Pont Vieux (die Fußgängerbrücke aus dem 14. Jahrhundert zwischen La Cité und der Bastide Saint-Louis) mit dem Square Gambetta und den Gärten der Bastide. Eine 1,5 km lange, ebene Rundstrecke am Fluss, mit dem spektakulärsten Blick auf La Cité von der Pont Vieux selbst bei Sonnenuntergang. Durchgehend Hunde an der Leine, Wasserzugang an zwei Stellen unterhalb der Pont Vieux und am flussabwärts gelegenen Square André Chénier. Grasstreifen und Steinbänke alle 100 m.",
+          "offLeashAreaDe": "Durchgehend an der Leine, städtischer Spaziergang am Fluss",
+          "tipDe": "Überqueren Sie die Pont Vieux von der Bastide aus kurz vor Sonnenuntergang für das Postkartenfoto von La Cité im Gegenlicht, Ihr Hund genießt auf dem Rückweg die kühlende Brise vom Fluss."
         }
       ],
       "tipsEn": [
@@ -252,6 +281,14 @@
         {
           "q": "Onde pode o meu cão banhar-se em Carcassonne?",
           "a": "Na margem leste do Lac de la Cavayère (a 5 km do centro), para além da terceira praia vigiada, o ano inteiro fora da janela 1 de junho–15 de setembro em que as praias vigiadas estão interditas a cães. Mais perto do centro, o Aude tem acessos pouco profundos sob o Pont Vieux do lado da Bastide."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Parks & Spaziergänge in Carcassonne",
+      "introDe": "Die besten Hundespaziergänge in Carcassonne sind keine klassischen Stadtparks, sondern lineare Wasserwege: der Treidelpfad des Canal du Midi (UNESCO-Welterbe seit 1996), die Ufer der Aude und der Freizeitsee Lac de la Cavayère, 5 km östlich der Stadt. Die gepflasterten Ringmauern von La Cité sind zu jeder Tageszeit mit angeleintem Hund begehbar, bieten aber keine richtige Wiese. Für Gras und Schatten geht es zum Square André Chénier in der Bastide Saint-Louis oder zum Grüngürtel des Domaine de Salvaza. In allen öffentlichen Bereichen von Carcassonne besteht Leinenpflicht für Hunde, und das kommunale Bußgeld für nicht beseitigten Kot beträgt 68 Euro pro Verstoß.",
+      "faqsDe": [
+        {
+          "q": "Wo kann mein Hund in Carcassonne schwimmen?",
+          "a": "Am Ostufer des Lac de la Cavayère (5 km vom Zentrum entfernt), hinter dem dritten überwachten Strand, ganzjährig außerhalb des Zeitraums vom 1. Juni bis 15. September, in dem Hunde an den überwachten Stränden verboten sind. Näher am Zentrum bietet die Aude flache Zugangsstellen unter der Pont Vieux auf der Seite der Bastide."
         }
       ]
     },
@@ -331,6 +368,14 @@
           "q": "Posso subir a La Cité com o meu cão de autocarro ou navete?",
           "a": "Sim. A navete sazonal Navette Cité (Páscoa a outubro) e os autocarros urbanos TUC admitem cães pequenos em transportadora grátis e cães médios e grandes com trela e açaime à discrição do condutor. Em pleno verão é mais seguro do que os 25 minutos de subida pela calçada."
         }
+      ],
+      "titleDe": "Mit dem Hund in Carcassonne unterwegs",
+      "introDe": "Carcassonne ist kompakt: Die Bastide Saint-Louis ist 15 Gehminuten vom Bahnhof entfernt, und La Cité ist weitere 25 Minuten bergauf oder 8 Minuten mit dem saisonalen Cité-Shuttle erreichbar. Das örtliche Busnetz (RTCA, für die innerstädtischen Linien unter dem Namen TUC) nimmt kleine Hunde in Transportboxen kostenlos mit, mittelgroße bis große Hunde an der Leine mit Maulkorb nach Ermessen des Fahrers. Die SNCF-Fernzüge aus Toulouse (50 Minuten), Bordeaux (3 Stunden) und der direkte TGV aus Paris (5 Stunden direkt) folgen den nationalen Regeln für Haustiere. Der Flughafen Carcassonne Salvaza (CCF) ist 10 Autominuten entfernt und bedient Billigflugstrecken von Ryanair sowie einige saisonale Volotea-Flüge.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit dem Bus oder Shuttle zur Cité mitnehmen?",
+          "a": "Ja. Der saisonale Shuttle Navette Cité (Ostern bis Oktober) sowie die regulären TUC-Stadtbusse nehmen kleine Hunde in Transportboxen kostenlos mit und mittelgroße bis große Hunde an der Leine mit Maulkorb nach Ermessen des Fahrers. Im Hochsommer ist dies die sicherere Option gegenüber dem 25-minütigen bergauf führenden Fußweg über das Kopfsteinpflaster."
+        }
       ]
     },
     "beaches": {
@@ -346,7 +391,10 @@
       "faqsEn": [],
       "faqsFr": [],
       "faqsEs": [],
-      "faqsPt": []
+      "faqsPt": [],
+      "titleDe": "Strände bei Carcassonne",
+      "introDe": "Inhalt folgt in Kürze, wir recherchieren gerade die besten Optionen für Sie.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Emergency Vets in Carcassonne, Veterinary Clinics & Pet Care",
@@ -397,7 +445,10 @@
           "tipEs": "Guarda el número de relevo del contestador nada más llegar a Carcassonne; la guardia rota cada lunes y el mensaje nocturno da el móvil del veterinario de guardia.",
           "tipPt": "Guarde o número de relé do atendedor mal chegar a Carcassonne; a escala muda todas as segundas-feiras e a mensagem noturna dá o telemóvel do veterinário de serviço.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+de+la+Cite+Carcassonne",
-          "photo": "/images/city-places/carcassonne-vets-clinique-veterinaire-de-la-cite.jpg"
+          "photo": "/images/city-places/carcassonne-vets-clinique-veterinaire-de-la-cite.jpg",
+          "hoursDe": "Mo–Fr 8:30–12:30 und 14:00–19:00 Uhr, Sa 9:00–12:00 Uhr; außerhalb der Öffnungszeiten über den Bereitschaftsdienst des Départements Aude",
+          "descriptionDe": "Eine allgemeine Klinik in der Nähe des Bahnhofs und der Bastide Saint-Louis, die zentralste Tierarztpraxis in Carcassonne. Vollständige Diagnostikausstattung einschließlich digitaler Röntgentechnik und Ultraschall, mit zwei Tierärzten im Team, die Französisch und einfaches Englisch sprechen. Nimmt am Bereitschaftsdienst des Départements Aude teil; ist der Anrufbeantworter aktiv, wählen Sie die angesagte Weiterleitungsnummer, um den diensthabenden Tierarzt zu erreichen.",
+          "tipDe": "Speichern Sie die Weiterleitungsnummer des Anrufbeantworters gleich bei Ankunft in Carcassonne, der Bereitschaftsdienst wechselt jeden Montag, und die nächtliche Ansage nennt die Mobilnummer des diensthabenden Tierarztes."
         }
       ],
       "faqsEn": [
@@ -422,6 +473,14 @@
         {
           "q": "Existe veterinário de urgências 24 horas em Carcassonne?",
           "a": "Não existe um hospital 24/7 permanente na própria Carcassonne; o departamento do Aude funciona com uma escala rotativa entre as clínicas. Marque a Clinique Vétérinaire de la Cité (+33 4 68 25 11 50) ou a Clinique Vétérinaire des Quatre Vents (+33 4 68 25 12 12); o atendedor reencaminha para o veterinário de serviço. Para casos especializados graves, o CHV VetOccitanie em Toulouse (90 km, +33 5 61 61 20 20) é o hospital de referência 24/7 mais próximo."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Carcassonne, Tierarztpraxen & Tierbetreuung",
+      "introDe": "Carcassonne verfügt über kein dauerhaftes 24-Stunden-Tierkrankenhaus; die Notfallversorgung erfolgt über ein Bereitschaftssystem des Départements Aude, bei dem sich die diensthabenden Tierärzte nachts und am Wochenende abwechseln. Die beiden Haupttageskliniken, Clinique Vétérinaire de la Cité und Clinique Vétérinaire des Quatre Vents, nehmen beide am Bereitschaftsdienst teil, und ihre Anrufbeantworter leiten Anrufer an die diensthabende Praxis weiter. Für schwere Traumata oder spezialisierte Intensivpflege ist das nächstgelegene 24-Stunden-Referenzzentrum die CHV Languedocia in Montpellier (160 km, 1 Std. 45 Min.) oder die CHV VetOccitanie in Toulouse (90 km, 1 Std.). EU-Heimtierausweise werden bei der Einreise aus EU-Staaten unverändert anerkannt.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Carcassonne einen 24-Stunden-Notfalltierarzt?",
+          "a": "In Carcassonne selbst gibt es kein dauerhaftes 24-Stunden-Krankenhaus; das Département Aude betreibt einen Bereitschaftsdienst unter den örtlichen Kliniken. Rufen Sie die Clinique Vétérinaire de la Cité (+33 4 68 25 11 50) oder die Clinique Vétérinaire des Quatre Vents (+33 4 68 25 12 12) an; der Anrufbeantworter leitet an den diensthabenden Tierarzt weiter. Für schwere Spezialfälle ist die CHV VetOccitanie in Toulouse (90 km, +33 5 61 61 20 20) die nächstgelegene 24-Stunden-Referenzklinik."
         }
       ]
     },
@@ -474,6 +533,14 @@
           "q": "Carcassonne é uma boa cidade para visitar com cão?",
           "a": "Sim fora de julho–agosto: abril–junho e setembro–outubro oferecem temperaturas confortáveis, afluência controlável, esplanadas acolhedoras e caminhadas fáceis. Em pleno verão, a combinação 38 °C de calor + calçada ardente de La Cité + 4 milhões de visitantes anuais torna a visita ativamente difícil; limite as saídas a antes das 10h ou depois das 19h30 se tiver de viajar nessa época."
         }
+      ],
+      "titleDe": "Reisetipps mit Hund für Carcassonne",
+      "introDe": "Carcassonne lässt sich mit Hund von einem Ende zum anderen gut zu Fuß erkunden, aber die brutale Sommerhitze und das Kopfsteinpflaster von La Cité verändern die Bedingungen erheblich. Besuchen Sie die Stadt wenn möglich im April–Juni oder September–Oktober; meiden Sie Juli–August, es sei denn, Sie können sich auf frühmorgendliche und abendliche Ausflüge beschränken. Die Stadt ist ganzjährig ein Magnet für Tagesausflügler, mit rund 4 Millionen Besuchern jährlich, die sich in die 11 Hektar große mittelalterliche Stadt drängen, an Wochenenden und Nachmittagen im Sommer ist es extrem überfüllt, was für Hunde anstrengend ist.",
+      "faqsDe": [
+        {
+          "q": "Ist Carcassonne eine gute Stadt für einen Besuch mit Hund?",
+          "a": "Ja, wenn Sie außerhalb von Juli–August kommen: April–Juni und September–Oktober bieten angenehme Temperaturen, überschaubare Besucherzahlen, hundefreundliche Terrassen und einfache Wege. In der Hochsaison im Sommer macht die Kombination aus 38 °C Hitze, heißem Kopfsteinpflaster in La Cité und 4 Millionen Besuchern jährlich es tatsächlich schwierig; beschränken Sie Ausflüge dann auf die Zeit vor 10:00 Uhr oder nach 19:30 Uhr."
+        }
       ]
     },
     "attractions": {
@@ -499,7 +566,9 @@
           "tipFr": "Achetez le billet horodaté en ligne pour éviter la queue ; à l'arrivée, le personnel vous laisse rester avec le chien dans les cours extérieures pendant qu'un compagnon visite les salles intérieures.",
           "tipEs": "Compra la entrada con hora en línea para evitar la cola; al llegar, el personal te dejará quedarte con el perro en los patios exteriores mientras un acompañante visita las salas interiores.",
           "tipPt": "Compre o bilhete com hora marcada online para evitar a fila; à chegada, o pessoal deixa-o ficar com o cão nos pátios exteriores enquanto um acompanhante visita as salas interiores.",
-          "googleMapsUrl": "https://maps.google.com/?q=Chateau+Comtal+Carcassonne"
+          "googleMapsUrl": "https://maps.google.com/?q=Chateau+Comtal+Carcassonne",
+          "descriptionDe": "Die Zitadelle aus dem 12. Jahrhundert im Herzen von La Cité, im 19. Jahrhundert von Viollet-le-Duc restauriert. Angeleinte Hunde sind in den äußeren Innenhöfen und auf dem unteren Abschnitt des Wehrgangs zugelassen, aber die Innenräume des Museums und die oberen überdachten Wehrgänge sind ausschließlich Assistenzhunden vorbehalten. Der Eintritt erfolgt über das Centre des Monuments Nationaux (volles Ticket 12 EUR, kostenlos für EU-Bürger unter 18 Jahren); die äußeren Innenhöfe allein sind kostenlos und während der Öffnungszeiten zugänglich.",
+          "tipDe": "Kaufen Sie das Zeitfenster-Ticket online, um die Warteschlange zu umgehen; bei der Ankunft lässt das Personal den Hund bei Ihnen in den äußeren Innenhöfen, während ein Begleiter die Innenräume besucht."
         },
         {
           "name": "Basilique Saint-Nazaire (exterior)",
@@ -514,7 +583,9 @@
           "tipFr": "Marchez depuis la basilique le long du rempart sud au coucher du soleil pour le meilleur angle sans foule, la plupart des visiteurs restent agglutinés vers l'entrée du Château Comtal.",
           "tipEs": "Camina desde la basílica por la muralla sur al atardecer para el mejor ángulo sin gente, la mayoría de visitantes se concentran junto a la entrada del Château Comtal.",
           "tipPt": "Caminhe desde a basílica ao longo da muralha sul ao pôr do sol para o melhor ângulo sem gente, a maioria dos visitantes fica concentrada junto à entrada do Château Comtal.",
-          "googleMapsUrl": "https://maps.google.com/?q=Basilique+Saint-Nazaire+Carcassonne"
+          "googleMapsUrl": "https://maps.google.com/?q=Basilique+Saint-Nazaire+Carcassonne",
+          "descriptionDe": "Eine romanische Basilika aus dem 11. Jahrhundert mit einem gotischen Querschiff und Chor aus dem 13. Jahrhundert, angelehnt an die südliche Ringmauer von La Cité. Der Innenraum ist für Hunde gesperrt (nur Assistenzhunde), aber der klosterhofähnliche Platz davor, der südliche Wehrgang am Rosettenfenster vorbei und die Steinbänke im Portal sind alle hundefreundlich. Von hier aus bietet sich einer der schönsten Ausblicke von La Cité, südwärts über die Hügel des Cabardès.",
+          "tipDe": "Gehen Sie bei Sonnenuntergang von der Basilika entlang der südlichen Ringmauer für den schönsten Blick ohne Menschenmengen, die meisten Besucher bleiben am Eingang des Château Comtal."
         },
         {
           "name": "Châteaux de Lastours (day trip, 20 km)",
@@ -529,7 +600,9 @@
           "tipFr": "Allez-y le matin avant 11h en été, la pente rocheuse exposée de la montée est brutale en plein soleil et il n'y a aucune ombre avant le premier château.",
           "tipEs": "Ve por la mañana antes de las 11:00 en verano, la pendiente rocosa expuesta es brutal a pleno sol y no hay sombra hasta el primer castillo.",
           "tipPt": "Vá de manhã antes das 11h no verão, a vertente rochosa exposta é brutal sob o sol forte e não há sombra até ao primeiro castelo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Chateaux+de+Lastours"
+          "googleMapsUrl": "https://maps.google.com/?q=Chateaux+de+Lastours",
+          "descriptionDe": "Vier verfallene Katharerburgen aus dem 12.–13. Jahrhundert, thronend auf einem Felsgrat über der Orbiel-Schlucht, 20 km nördlich von Carcassonne in der Montagne Noire. Der 1,5 km lange, bergauf führende Weg zu den Burgen ist steil, aber durchweg im Freien und heißt Hunde an der Leine willkommen; das Personal vor Ort bestätigt, dass Hunde in den Ruinen selbst erlaubt sind. Der Belvédère gegenüber den Burgen ist ein flacher 200 m langer Weg für ein Panoramafoto. Eintritt 7 EUR für Erwachsene, kostenlos unter 16 Jahren.",
+          "tipDe": "Fahren Sie im Sommer morgens vor 11:00 Uhr, der ungeschützte Felshang des Aufstiegs ist in der Nachmittagssonne brutal, und es gibt keinen Schatten, bis man die erste Burgmauer erreicht."
         }
       ],
       "tipsEn": [
@@ -571,6 +644,14 @@
           "q": "Posso entrar no Château Comtal de La Cité com o meu cão?",
           "a": "Os cães com trela são bem-vindos nos pátios exteriores e na secção baixa do caminho de ronda, mas as salas museológicas interiores e os caminhos de ronda cobertos superiores estão reservados a cães de assistência. Os pátios exteriores livres já justificam a visita mesmo sem o percurso interior pago."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Carcassonne",
+      "introDe": "Carcassonnes Hauptattraktion ist La Cité selbst, die größte mittelalterliche Festungsstadt Europas, wobei der Großteil des Erlebnisses im Freien stattfindet: 3 km doppelte Ringmauern, 52 Türme, die Kopfsteinpflasterstraßen und die öffentlichen Innenhöfe des Château Comtal. Angeleinte Hunde dürfen fast überall im Außenbereich mit, nur die Innenräume des Museums im Château sowie die oberen überdachten Wehrgänge sind tabu. Tagesausflüge zu den Katharerburgen im umliegenden Département (Lastours, Peyrepertuse, Quéribus) finden vollständig im Freien statt und sind durchweg hundefreundlich, ebenso wie das mittelalterliche Dorf Mirepoix im Südwesten.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit ins Château Comtal in La Cité nehmen?",
+          "a": "Angeleinte Hunde sind in den äußeren Innenhöfen und auf dem unteren Abschnitt des Wehrgangs willkommen, aber die Innenräume des Museums und die oberen überdachten Wehrgänge sind ausschließlich Assistenzhunden vorbehalten. Allein die kostenlosen äußeren Innenhöfe sind schon den Besuch wert, auch ohne die kostenpflichtige Innenraumtour."
+        }
       ]
     },
     "petsitting": {
@@ -602,7 +683,10 @@
           "tip": "Book the half-day day-care for the early afternoon (13:00–17:00) when the heat peaks in La Cité, the dog is comfortable indoors while you visit the Château Comtal museum.",
           "tipFr": "Réservez la garde demi-journée en début d'après-midi (13h–17h) quand la chaleur culmine dans La Cité, le chien est confortable à l'intérieur pendant que vous visitez le musée du Château Comtal.",
           "tipEs": "Reserva la guarda de media jornada al primer tramo de la tarde (13:00–17:00) cuando el calor llega al pico en La Cité, el perro está cómodo dentro mientras visitas el museo del Château Comtal.",
-          "tipPt": "Reserve a guarda de meio dia para o início da tarde (13h–17h) quando o calor atinge o pico em La Cité, o cão fica confortável no interior enquanto visita o museu do Château Comtal."
+          "tipPt": "Reserve a guarda de meio dia para o início da tarde (13h–17h) quando o calor atinge o pico em La Cité, o cão fica confortável no interior enquanto visita o museu do Château Comtal.",
+          "descriptionDe": "Die französische Plattform von Rover deckt Carcassonne mit rund dreißig aktiven Betreuern in der Bastide Saint-Louis und den östlichen Vororten Grazailles und Madeleine ab. Alle Betreuer durchlaufen eine Hintergrundprüfung. Die Leistungen umfassen Gassi-Gehen, Tagesbetreuung und Unterbringung zu Hause. Halbtägige Tagesbetreuung, während Sie die Innenräume von La Cité besuchen, kostet 25–35 EUR; eine volle Übernachtung 30–45 EUR. Die meisten Betreuer sprechen nur Französisch; für internationale Besucher nach 'English speaker' filtern.",
+          "serviceTypeDe": "Gassi-Gehen, Tagesbetreuung, Unterbringung zu Hause",
+          "tipDe": "Buchen Sie die halbtägige Tagesbetreuung für den frühen Nachmittag (13:00–17:00 Uhr), wenn die Hitze in La Cité am größten ist, der Hund hat es drinnen angenehm, während Sie das Museum im Château Comtal besuchen."
         }
       ],
       "tipsEn": [
@@ -643,6 +727,14 @@
         {
           "q": "Quanto custa um pet-sitter em Carcassonne?",
           "a": "Cerca de 25–35 € por meio dia (4 horas) de guarda e 30–45 € por uma noite (médias Rover 2026). O horário mais procurado é 13h–17h em julho–agosto para que os visitantes possam fazer a visita interior do Château Comtal enquanto o cão fica ao fresco."
+        }
+      ],
+      "titleDe": "Haustierbetreuung und Gassi-Service in Carcassonne",
+      "introDe": "Der Markt für Haustierbetreuung in Carcassonne wird von den französischen Versionen von Rover und Gudog sowie dem lokalen Netzwerk Anim'Aude petits soins abgedeckt. Angesichts der Hitze und des Gedränges in La Cité im Sommer ist eine vierstündige Tagesbetreuung für den Hund, während Sie die Innenräume des Museums besuchen oder an der Führung über die Ringmauern teilnehmen, die beliebteste Buchung, typischerweise 25–35 EUR für einen halben Tag. Die meisten Betreuer wohnen in der Bastide Saint-Louis oder den östlichen Vororten und benötigen im Juli und August 24–48 Stunden Vorlaufzeit für die Buchung.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet ein Hundesitter in Carcassonne?",
+          "a": "Etwa 25–35 EUR für einen halben Tag (4 Stunden) Tagesbetreuung und 30–45 EUR für eine Übernachtung (Rover-Durchschnittswerte 2026). Am meisten nachgefragt ist das Zeitfenster 13:00–17:00 Uhr im Juli und August, damit Besucher die Innenraumtour des Château Comtal machen können, während der Hund klimatisiert untergebracht ist."
         }
       ]
     }

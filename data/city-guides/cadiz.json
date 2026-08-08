@@ -39,7 +39,11 @@
           "tipFr": "L'endroit est petit : un chien calme a vos pieds est ideal ; reservez les week-ends charges.",
           "tipEs": "Es un local pequeno: un perro tranquilo a tus pies es lo ideal; reserva los fines de semana con mas gente.",
           "tipPt": "E um espaco pequeno: um cao calmo aos seus pes e o ideal; reserve nos fins de semana mais cheios.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Ultramar+y+Nos+Cadiz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Ultramar+y+Nos+Cadiz",
+          "descriptionDe": "Ein kreatives Bistro in der Altstadt, bekannt für saisonale lokale Produkte und ein starkes vegetarisches und veganes Angebot, in einem entspannten Gourmet-Ambiente. Es ist eines der zentralen Lokale in Cádiz, die Hunde ausdrücklich auch im Inneren willkommen heißen, nicht nur auf der Terrasse.",
+          "petPolicyDe": "Hunde im Inneren und auf der Terrasse willkommen.",
+          "mustTryDe": "Saisonale Marktkarte mit mehreren vegetarischen Gerichten.",
+          "tipDe": "Es ist ein kleiner Raum, daher funktioniert ein ruhiger Hund zu Ihren Füßen am besten; reservieren Sie an belebten Wochenenden."
         },
         {
           "name": "Saja River",
@@ -65,7 +69,11 @@
           "tipFr": "Portions genereuses et interieur spacieux : confortable pour un chien meme un soir charge.",
           "tipEs": "Raciones generosas e interior amplio: comodo para un perro incluso en noches con mucha gente.",
           "tipPt": "Doses generosas e interior amplo: confortavel para um cao mesmo numa noite cheia.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Saja+River+Cadiz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Saja+River+Cadiz",
+          "descriptionDe": "Ein lebendiges Restaurant im Venta-Stil, das gaditanische Küche mit Tex-Mex-Einflüssen und einem verspielten Western-Thema verbindet. Hunde sind sowohl drinnen als auch auf der Terrasse erlaubt, was es zu einer angenehmen Option für Regentage macht.",
+          "petPolicyDe": "Hunde im Inneren und auf der Terrasse erlaubt.",
+          "mustTryDe": "Gegrilltes Fleisch und die hauseigenen Fusionsgerichte.",
+          "tipDe": "Großzügige Portionen und ein geräumiges Inneres machen es auch an belebten Abenden hundefreundlich."
         },
         {
           "name": "La Casapuerta",
@@ -91,7 +99,11 @@
           "tipFr": "Une bonne halte pour un en-cas local en explorant la vieille ville avec votre chien.",
           "tipEs": "Un buen sitio para un picoteo local mientras paseas el casco antiguo con tu perro.",
           "tipPt": "Um bom sitio para um petisco local enquanto passeia o centro historico com o seu cao.",
-          "googleMapsUrl": "https://www.google.com/maps/search/La+Casapuerta+Cadiz"
+          "googleMapsUrl": "https://www.google.com/maps/search/La+Casapuerta+Cadiz",
+          "descriptionDe": "Eine ungezwungene gaditanische Bar, spezialisiert auf salazones (gepökelten und gesalzenen Fisch) und kaltes Bier, in traditioneller Altstadtatmosphäre. Wohlerzogene Hunde sind zusammen mit ihren Besitzern willkommen.",
+          "petPolicyDe": "Wohlerzogene Hunde willkommen.",
+          "mustTryDe": "Mojama (gepökelter Thunfisch) und andere lokale salazones.",
+          "tipDe": "Ein toller Ort für einen schnellen lokalen Snack, während Sie mit Ihrem Hund die Altstadt erkunden."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Tenho de manter o cao a trela na esplanada?",
           "a": "Sim. As regras municipais de Cadiz exigem trela nos espacos publicos, e os caes com mais de 20 kg devem usar acaimo na rua."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Cádiz",
+      "introDe": "Cádiz lässt sich mit Hund leicht auswärts genießen: Die meisten Tapas-Bars und Fischlokale in der Altstadt bedienen auf Terrassen an Plätzen wie der Plaza de la Catedral, San Juan de Dios und Candelaria, wo angeleinte Hunde willkommen sind. Eine Handvoll Lokale lässt auch wohlerzogene Hunde im Inneren zu, was wichtig ist, wenn der Atlantikwind (levante) auffrischt.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Cádiz erlaubt?",
+          "a": "Auf Terrassen ja, fast überall in der Altstadt für angeleinte Hunde. Im Inneren liegt es im Ermessen des jeweiligen Betreibers, aber mehrere zentrale Lokale wie Ultramar & Nos und Saja River heißen Hunde auch drinnen willkommen."
+        },
+        {
+          "q": "Muss ich meinen Hund auf der Terrasse an der Leine halten?",
+          "a": "Ja. Die städtischen Vorschriften von Cádiz verlangen, dass Hunde im öffentlichen Raum angeleint sind, und Hunde über 20 kg müssen auf der Straße einen Maulkorb tragen."
+        }
       ]
     },
     "parks": {
@@ -183,7 +207,10 @@
           "tipFr": "Ideal pour une promenade ombragee a midi ; a combiner avec la promenade en bord de mer de l'Alameda Apodaca voisine.",
           "tipEs": "Ideal para un paseo con sombra a mediodia; combinalo con el paseo maritimo de la Alameda Apodaca, al lado.",
           "tipPt": "Ideal para um passeio com sombra ao meio-dia; combine com o passeio maritimo da Alameda Apodaca, ao lado.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Parque+Genoves+Cadiz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Parque+Genoves+Cadiz",
+          "descriptionDe": "Die grüne Vorzeigefläche der Stadt, ein 29.000 m² großer botanischer Garten mit über 100 Baumarten aus Südamerika, Japan und darüber hinaus, direkt oberhalb der Atlantikbefestigung gelegen. Hunde sind an der Leine auf den schattigen Alleen und rund um den Zierteich willkommen.",
+          "offLeashAreaDe": "Hunde müssen im gesamten Park an der Leine bleiben.",
+          "tipDe": "Ideal für einen schattigen Mittagsspaziergang; kombinieren Sie ihn mit der angrenzenden Uferpromenade Alameda Apodaca."
         },
         {
           "name": "Area canina Fosos de Puertas de Tierra",
@@ -203,7 +230,10 @@
           "tipFr": "L'option sans laisse la plus centrale ; tres pratique si vous logez dans la vieille ville.",
           "tipEs": "La opcion sin correa mas centrica; muy practica si te alojas en el casco antiguo.",
           "tipPt": "A opcao sem trela mais central; muito pratica se ficar no centro historico.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Fosos+Puertas+de+Tierra+Cadiz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Fosos+Puertas+de+Tierra+Cadiz",
+          "descriptionDe": "Eine eingezäunte städtische Freilauffläche im grünen Graben (fosos) des historischen Stadttors Puertas de Tierra, das die Altstadt vom neueren Stadtteil trennt. Sie bietet Hunden einen sicheren, umzäunten Raum zum Laufen direkt am Eingang zum casco antiguo.",
+          "offLeashAreaDe": "Eingezäunte Freilaufzone innerhalb der Fosos de Puertas de Tierra.",
+          "tipDe": "Die zentralste Freilaufoption; sehr praktisch, wenn Sie in der Altstadt übernachten."
         },
         {
           "name": "Area canina Plaza Asdrubal",
@@ -223,7 +253,10 @@
           "tipFr": "Pratique si vous logez dans la partie moderne, pres de la gare ou du stade.",
           "tipEs": "Comodo si te alojas en la zona moderna, cerca de la estacion de tren o del estadio.",
           "tipPt": "Pratico se ficar na zona moderna, perto da estacao de comboios ou do estadio.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Plaza+Asdrubal+Cadiz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Plaza+Asdrubal+Cadiz",
+          "descriptionDe": "Eine eingezäunte Hundeauslauffläche im moderneren Teil von Cádiz nahe der Plaza Asdrubal, auf der Hunde frei laufen und sich sozialisieren können. Sie ist eine von mehreren städtischen Hundeflächen, die das Ayuntamiento in der Stadt unterhält.",
+          "offLeashAreaDe": "Eingezäunte Freilaufzone nahe der Plaza Asdrubal.",
+          "tipDe": "Praktisch, wenn Sie im neueren Stadtteil in der Nähe des Bahnhofs oder des Stadions übernachten."
         }
       ],
       "tipsEn": [
@@ -284,6 +317,18 @@
         {
           "q": "Onde pode o meu cao correr livre em Cadiz?",
           "a": "Nas areas caninas municipais vedadas, como os Fosos de Puertas de Tierra no centro historico e a Plaza Asdrubal na zona moderna, alem da seccao vedada da praia canina de Torregorda."
+        }
+      ],
+      "titleDe": "Hundefreundliche Parks & Grünflächen in Cádiz",
+      "introDe": "Das kompakte, ummauerte Cádiz hat wenig große Parks, dafür aber reichlich Uferpromenaden und einige grüne Oasen, in denen angeleinte Hunde willkommen sind. Für echten Freilauf verfügt die Stadt über eigene eingezäunte Hundeauslaufflächen (areas caninas) statt offener Parks.",
+      "faqsDe": [
+        {
+          "q": "Können Hunde im Parque Genoves ohne Leine laufen?",
+          "a": "Nein. Hunde müssen im gesamten Parque Genoves an der Leine bleiben. Für Freilauf nutzen Sie die eingezäunten areas caninas wie die Fosos de Puertas de Tierra."
+        },
+        {
+          "q": "Wo kann mein Hund in Cádiz frei laufen?",
+          "a": "In den städtischen eingezäunten Hundeauslaufflächen (areas caninas), darunter die Fosos de Puertas de Tierra in der Altstadt und die Plaza Asdrubal im neueren Stadtteil, sowie im eingezäunten Bereich des Hundestrands Torregorda."
         }
       ]
     },
@@ -391,6 +436,18 @@
           "q": "Os caes sao aceites no eletrico e nos autocarros de Cadiz?",
           "a": "O eletrico Trambahia aceita animais a trela ou em transportadora (um por viajante, sem ocupar lugar). Os autocarros urbanos so levam animais pequenos ate cerca de 10 kg em transportadora, por isso os caes grandes devem caminhar ou ir de comboio."
         }
+      ],
+      "titleDe": "Mit Hund unterwegs in Cádiz",
+      "introDe": "Die ummauerte Altstadt von Cádiz ist herrlich zu Fuß erkundbar, daher werden die meisten Besuche mit Hund zu Fuß erledigt. Für längere Strecken akzeptieren die RENFE-Cercanías-Linie C-1, die Trambahía-Straßenbahn und die städtischen Busse Haustiere, jeweils mit eigenen Regeln, und sie verbinden Cádiz mit Jerez, El Puerto de Santa María, San Fernando und der weiteren Bucht.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund im Zug von Cádiz nach Jerez mitnehmen?",
+          "a": "Ja. Auf der RENFE-Cercanías-Linie C-1 reisen Haustiere kostenlos mit; Hunde außerhalb einer Transportbox benötigen einen Maulkorb und eine feste Leine bis 1,5 m, ein Tier pro Fahrgast. Beachten Sie, dass kombinierte Zug-plus-Bus-Fahrkarten keine Haustiere zulassen."
+        },
+        {
+          "q": "Sind Hunde in der Straßenbahn und den Bussen von Cádiz erlaubt?",
+          "a": "Die Trambahía-Straßenbahn erlaubt angeleinte oder getragene Haustiere (eines pro Reisendem, nicht auf einem Sitzplatz). Städtische Busse nehmen nur kleine Haustiere bis etwa 10 kg in einer Transportbox mit, große Hunde sollten also laufen oder den Zug nehmen."
+        }
       ]
     },
     "beaches": {
@@ -473,6 +530,18 @@
           "q": "Quando e que os caes sao proibidos nas praias de Cadiz?",
           "a": "Durante a epoca balnear oficial, do Domingo de Ramos a 30 de setembro, os caes nao podem ir as praias principais. O unico sitio para levar um cao a areia no verao e a praia canina de Torregorda."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Cádiz",
+      "introDe": "Cádiz bietet zwei Möglichkeiten, den Atlantik mit Hund zu genießen. Seit einer Verordnungsänderung 2023 sind alle Stadtstrände außerhalb der Badesaison, etwa vom 1. Oktober bis Palmsonntag im Frühjahr, für Hunde geöffnet; und es gibt inzwischen einen eigenen Hundestrand in Torregorda am Ende der Playa de Cortadura, von Frühling bis Herbst geöffnet. Während der Badesaison (Palmsonntag bis 30. September) sind Hunde an den Hauptstränden verboten, mit Ausnahme dieses eigenen Hundestrandabschnitts.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in Cádiz mit an den Strand nehmen?",
+          "a": "Ja, auf zwei Arten: Alle Stadtstrände (La Victoria, Santa María del Mar, Cortadura, La Caleta) erlauben angeleinte Hunde außerhalb der Badesaison, etwa vom 1. Oktober bis Palmsonntag; und der eigene Hundestrand Torregorda am Ende der Cortadura ist in den wärmeren Monaten (etwa März bis Oktober) für Hunde geöffnet."
+        },
+        {
+          "q": "Wann sind Hunde an den Stränden von Cádiz verboten?",
+          "a": "Während der offiziellen Badesaison, von Palmsonntag bis 30. September, sind Hunde an den Hauptstadtstränden nicht erlaubt. Der einzige Ort, an dem man im Sommer mit einem Hund an den Sand kann, ist der eigene Hundestrand Torregorda."
+        }
       ]
     },
     "vets": {
@@ -519,7 +588,10 @@
           "tipEs": "Guarda el numero antes de viajar; es el contacto de referencia para urgencias de noche y fin de semana.",
           "tipPt": "Guarde o numero antes de viajar; e o contacto de referencia para urgencias de noite e fim de semana.",
           "googleMapsUrl": "https://www.google.com/maps/search/Hospital+Veterinario+Bahia+de+Cadiz+Plaza+de+Madrid",
-          "photo": "/images/city-places/cadiz-vets-hospital-veterinario-bahia-de-cadiz.jpg"
+          "photo": "/images/city-places/cadiz-vets-hospital-veterinario-bahia-de-cadiz.jpg",
+          "hoursDe": "Mo-Fr 09:00-20:30 Uhr, Sa 09:00-14:00 Uhr; 24-Stunden-Notdienst.",
+          "descriptionDe": "Das Haupttierkrankenhaus in der Stadt Cádiz, an der Plaza de Madrid im moderneren Stadtteil, mit vollem klinischem Leistungsangebot plus 24-Stunden-Notrufnummer. Dies ist die Anlaufstelle für Notfälle mit Haustieren außerhalb der regulären Öffnungszeiten in der Stadt.",
+          "tipDe": "Speichern Sie die Nummer, bevor Sie reisen; sie ist die erste Adresse der Stadt für Notfälle nachts und am Wochenende."
         },
         {
           "name": "Clinica Veterinaria Campos Eliseos",
@@ -541,7 +613,10 @@
           "tipEs": "Una opcion centrica practica para visitas no urgentes; llama para confirmar antes de ir.",
           "tipPt": "Uma opcao central pratica para visitas nao urgentes; ligue para confirmar antes de ir.",
           "googleMapsUrl": "https://www.google.com/maps/search/Clinica+Veterinaria+Campos+Eliseos+Cadiz",
-          "photo": "/images/city-places/cadiz-vets-clinica-veterinaria-campos-eliseos.jpg"
+          "photo": "/images/city-places/cadiz-vets-clinica-veterinaria-campos-eliseos.jpg",
+          "hoursDe": "Aktuelle Öffnungszeiten vor dem Besuch prüfen.",
+          "descriptionDe": "Eine Nachbarschaftstierarztpraxis im Zentrum von Cádiz, praktisch für routinemäßige Sprechstunden, Impfungen und kleinere Anliegen während Ihres Aufenthalts. Rufen Sie vorher an, um Öffnungszeiten und Terminbedarf zu bestätigen.",
+          "tipDe": "Eine praktische zentrale Option für Nicht-Notfall-Besuche; rufen Sie vor dem Besuch zur Bestätigung an."
         },
         {
           "name": "Clinica Veterinaria Canymar",
@@ -563,7 +638,10 @@
           "tipEs": "Llama antes para comprobar horario y disponibilidad; util como clinica de respaldo.",
           "tipPt": "Telefone antes para verificar horario e disponibilidade; util como clinica de reserva.",
           "googleMapsUrl": "https://www.google.com/maps/search/Clinica+Veterinaria+Canymar+Cadiz",
-          "photo": "/images/city-places/cadiz-vets-clinica-veterinaria-canymar.jpg"
+          "photo": "/images/city-places/cadiz-vets-clinica-veterinaria-canymar.jpg",
+          "hoursDe": "Aktuelle Öffnungszeiten vor dem Besuch prüfen.",
+          "descriptionDe": "Eine langjährig etablierte lokale Tierarztpraxis in Cádiz mit allgemeinen Sprechstunden und Vorsorgeleistungen. Eine praktische Alternative für routinemäßige Bedürfnisse während Ihrer Reise mit Haustier in der Stadt.",
+          "tipDe": "Rufen Sie vorher an, um Öffnungszeiten und Verfügbarkeit zu prüfen; nützlich als zentrale Ausweichklinik."
         }
       ],
       "faqsEn": [
@@ -604,6 +682,18 @@
         {
           "q": "Do que preciso para trazer o meu animal a Cadiz de outro pais da UE?",
           "a": "Um passaporte europeu para animais, microchip e a vacina antirrabica em dia. Nao ha quarentena para animais registados na UE."
+        }
+      ],
+      "titleDe": "Tierärzte & Notfallversorgung in Cádiz",
+      "introDe": "Cádiz verfügt für eine kleine Stadt über eine gute tierärztliche Versorgung, darunter ein Krankenhaus mit 24-Stunden-Notdienst und mehrere Nachbarschaftskliniken. Da Spanien Mitglied der EU ist, benötigen die meisten europäischen Reisenden lediglich einen EU-Heimtierausweis mit aktueller Tollwutimpfung und einen Mikrochip.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt in Cádiz?",
+          "a": "Ja. Das Hospital Veterinario Bahía de Cádiz an der Plaza de Madrid bietet einen 24-Stunden-Notdienst (+34 956 274 141). Speichern Sie die Nummer, bevor Sie ankommen."
+        },
+        {
+          "q": "Was benötige ich, um mein Haustier aus einem anderen EU-Land nach Cádiz mitzubringen?",
+          "a": "Einen EU-Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung. Für in der EU registrierte Haustiere gibt es keine Quarantäne."
         }
       ]
     },
@@ -708,6 +798,18 @@
           "q": "Os caes precisam de acaimo em Cadiz?",
           "a": "Os caes com mais de 20 kg devem usar acaimo na rua, e todos os caes devem ir a trela nos espacos publicos. Algumas racas consideradas potencialmente perigosas tem requisitos adicionais de acaimo e licenca."
         }
+      ],
+      "titleDe": "Praktische Tipps für den Besuch von Cádiz mit Hund",
+      "introDe": "Cádiz ist eine der einfachsten andalusischen Städte, um sie mit einem Hund zu genießen: klein, gut zu Fuß erkundbar und offen für Haustiere auf Terrassen, in Grünflächen und, saisonal, am Strand. Zwei Dinge prägen Ihre Reise am meisten: die Sommerhitze und das Risiko durch heißen Asphalt sowie der saisonale Strandkalender.",
+      "faqsDe": [
+        {
+          "q": "Wann ist die beste Zeit, um Cádiz mit Hund zu besuchen?",
+          "a": "Oktober bis März. Das Wetter ist mild, die Sommerhitze und das Risiko von Pfotenverbrennungen sind vorbei, und die Stadtstrände sind außerhalb der Badesaison für angeleinte Hunde geöffnet."
+        },
+        {
+          "q": "Brauchen Hunde in Cádiz einen Maulkorb?",
+          "a": "Hunde über 20 kg müssen auf öffentlichen Straßen einen Maulkorb tragen, und alle Hunde müssen im öffentlichen Raum an der Leine sein. Bestimmte als potenziell gefährlich eingestufte Rassen unterliegen zusätzlichen Maulkorb- und Genehmigungspflichten."
+        }
       ]
     },
     "attractions": {
@@ -741,7 +843,11 @@
           "tipFr": "Portez un chien petit ou anxieux dans l'escalier de verre ; le spectacle de la camera obscura est court et a l'interieur.",
           "tipEs": "Lleva en brazos a un perro pequeno o nervioso por la escalera de cristal; el espectaculo de la camara oscura es corto y en interior.",
           "tipPt": "Leve ao colo um cao pequeno ou nervoso pela escada de vidro; o espetaculo da camara escura e curto e no interior.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Torre+Tavira+Cadiz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Torre+Tavira+Cadiz",
+          "descriptionDe": "Der höchste Wachturm der Stadt aus dem 18. Jahrhundert und Standort einer camera obscura mit weitem Live-Blick über Cádiz und die Bucht. Das Team wird als durchweg hundefreundlich beschrieben, ein seltener Empfang für ein Innenraum-Denkmal.",
+          "dogPolicyDe": "Hundefreundlich; beachten Sie, dass die Zugangstreppen schmal sind und Glasstufen haben, die manche Hunde verunsichern können.",
+          "admissionFeeDe": "Kostenpflichtiger Eintritt (aktuellen Preis prüfen).",
+          "tipDe": "Tragen Sie einen kleinen oder ängstlichen Hund die Glasstufen hinauf; die camera-obscura-Vorführung ist kurz und findet drinnen statt."
         },
         {
           "name": "Castillo de Santa Catalina",
@@ -764,7 +870,11 @@
           "tipFr": "A combiner avec une balade sur la plage de La Caleta et le parc Genoves voisin.",
           "tipEs": "Combinalo con un paseo por la playa de La Caleta y el cercano parque Genoves.",
           "tipPt": "Combine com um passeio pela praia de La Caleta e o proximo parque Genoves.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Castillo+de+Santa+Catalina+Cadiz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Castillo+de+Santa+Catalina+Cadiz",
+          "descriptionDe": "Eine sternförmige Festung aus dem 16. Jahrhundert, die neben dem Strand La Caleta in den Atlantik hineinragt, mit freiem Eintritt sowie Freiluft-Festungswällen und Innenhöfen zum Erkunden. Ihr Freiluft-Layout macht sie zu einem einfachen Stopp mit angeleintem Hund.",
+          "dogPolicyDe": "Angeleinte Hunde in den Freiluftbereichen willkommen; am Eingang nach etwaigen Ausstellungsräumen fragen.",
+          "admissionFeeDe": "Kostenlos.",
+          "tipDe": "Kombinieren Sie dies mit einem Spaziergang am Strand La Caleta und dem nahegelegenen Park Genoves."
         },
         {
           "name": "Casa del Carnaval",
@@ -787,7 +897,11 @@
           "tipFr": "Une bonne halte climatisee en ete, quand les rues et les plages sont trop chaudes pour les coussinets.",
           "tipEs": "Una buena parada con aire acondicionado en verano, cuando las calles y playas estan demasiado calientes para las almohadillas.",
           "tipPt": "Uma boa paragem com ar condicionado no verao, quando as ruas e praias estao quentes demais para as almofadas.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Casa+del+Carnaval+Cadiz"
+          "googleMapsUrl": "https://www.google.com/maps/search/Casa+del+Carnaval+Cadiz",
+          "descriptionDe": "Ein interaktives Museum, das dem weltberühmten Karneval von Cádiz gewidmet ist, im historischen Viertel Populo neben der Kathedrale. Es heißt Besuche mit wohlerzogenen Haustieren willkommen, eine unterhaltsame, hundefreundliche Option für einen regnerischen oder heißen Tag.",
+          "dogPolicyDe": "Wohlerzogene Haustiere erlaubt; halten Sie Hunde in den Ausstellungsräumen angeleint und ruhig.",
+          "admissionFeeDe": "Kostenlos.",
+          "tipDe": "Ein guter klimatisierter Zwischenstopp im Sommer, wenn Straßen und Strände für Pfoten zu heiß sind."
         }
       ],
       "tipsEn": [
@@ -849,6 +963,18 @@
           "q": "Que atracoes de Cadiz aceitam caes?",
           "a": "A Torre Tavira e a Casa del Carnaval aceitam caes calmos no interior, e o Castillo de Santa Catalina ao ar livre visita-se facilmente a trela, alem de todo o centro historico, que se percorre a pe."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Cádiz",
+      "introDe": "Ein Großteil des Reizes von Cádiz liegt in der Altstadt selbst im Freien: ein Labyrinth aus Plätzen, Seemauern und Festungswällen, das Sie kostenlos mit einem angeleinten Hund erkunden können. Auch einige Innensehenswürdigkeiten heißen wohlerzogene Hunde willkommen, während große Monumente wie die Kathedrale in der Regel keine Haustiere im Inneren zulassen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in die Kathedrale von Cádiz mitnehmen?",
+          "a": "Nein. Wie die meisten großen Kirchen und geschlossenen Museen lässt die Kathedrale keine Haustiere im Inneren zu. Sie können sie mit Ihrem angeleinten Hund weiterhin vom Platz und der umliegenden Altstadt aus bewundern."
+        },
+        {
+          "q": "Welche Sehenswürdigkeiten in Cádiz sind hundefreundlich?",
+          "a": "Der Torre Tavira und die Casa del Carnaval heißen wohlerzogene Hunde im Inneren willkommen, und das Freiluftschloss Castillo de Santa Catalina lässt sich problemlos an der Leine erkunden, ebenso wie die gesamte begehbare Altstadt."
+        }
       ]
     },
     "petsitting": {
@@ -880,7 +1006,10 @@
           "tip": "Read recent reviews and message the sitter first; average boarding runs about €23 per night in Cadiz.",
           "tipFr": "Lisez les avis recents et contactez d'abord le sitter ; l'hebergement coute en moyenne environ 23 € par nuit a Cadix.",
           "tipEs": "Lee las opiniones recientes y escribe primero al cuidador; el alojamiento ronda los 23 € por noche en Cadiz.",
-          "tipPt": "Leia as avaliacoes recentes e contacte primeiro o cuidador; o alojamento ronda os 23 € por noite em Cadiz."
+          "tipPt": "Leia as avaliacoes recentes e contacte primeiro o cuidador; o alojamento ronda os 23 € por noite em Cadiz.",
+          "descriptionDe": "Eine Online-Plattform, die Hundebesitzer mit geprüften lokalen Sittern und Gassigehern in ganz Cádiz verbindet und Tierpension, Tagesbetreuung und Spaziergänge anbietet. Nur ein kleiner Anteil der Bewerber-Sitter wird zugelassen, und jede Buchung ist durch eine Tierarztversicherung abgesichert.",
+          "serviceTypeDe": "Tierpension, Tagesbetreuung und Gassigehen",
+          "tipDe": "Lesen Sie aktuelle Bewertungen und schreiben Sie dem Sitter zuerst eine Nachricht; die durchschnittliche Tierpension kostet in Cádiz etwa 23 € pro Nacht."
         },
         {
           "name": "Rover",
@@ -901,7 +1030,10 @@
           "tip": "Filter by sitters who accept your dog's size and arrange a short meet-and-greet before your trip.",
           "tipFr": "Filtrez les sitters qui acceptent la taille de votre chien et organisez une courte rencontre avant votre voyage.",
           "tipEs": "Filtra por cuidadores que acepten el tamano de tu perro y organiza un breve encuentro previo antes del viaje.",
-          "tipPt": "Filtre por cuidadores que aceitem o tamanho do seu cao e marque um breve encontro antes da viagem."
+          "tipPt": "Filtre por cuidadores que aceitem o tamanho do seu cao e marque um breve encontro antes da viagem.",
+          "descriptionDe": "Ein großes internationales Netzwerk aus Haustiersittern und Gassigehern mit vielen in Cádiz gelisteten Betreuern, das Tierpension, Haussitting, Kurzbesuche und Spaziergänge anbietet. Profile, Bewertungen und sichere Bezahlung in der App machen es einfach, für ein paar Stunden oder mehrere Tage zu buchen.",
+          "serviceTypeDe": "Tierpension, Haussitting, Besuche und Spaziergänge",
+          "tipDe": "Filtern Sie nach Sittern, die die Größe Ihres Hundes akzeptieren, und vereinbaren Sie vor Ihrer Reise ein kurzes Kennenlerntreffen."
         }
       ],
       "tipsEn": [
@@ -962,6 +1094,18 @@
         {
           "q": "Convem reservar o cuidado com antecedencia?",
           "a": "Sim, sobretudo no Carnaval de Cadiz e no verao, quando a procura e maior. Faca primeiro um breve encontro para que o seu cao fique a vontade com o cuidador."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassigehen in Cádiz",
+      "introDe": "Wenn Sie eine haustierfreie Sehenswürdigkeit besuchen oder ein langes Abendessen genießen möchten, ist Cádiz gut mit Online-Plattformen für Haustierbetreuung versorgt, die Sie mit lokalen Sittern, Tierpensionen und Gassigehern verbinden. Eine frühzeitige Buchung ist ratsam während des Karnevals und im Sommer, wenn die Nachfrage ihren Höhepunkt erreicht.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter in Cádiz?",
+          "a": "Nutzen Sie Online-Plattformen wie Gudog oder Rover, die geprüfte lokale Sitter und Gassigeher in Cádiz mit Bewertungen und sicherer Bezahlung auflisten. Die Tierpension kostet durchschnittlich etwa 23 € pro Nacht."
+        },
+        {
+          "q": "Sollte ich die Haustierbetreuung im Voraus buchen?",
+          "a": "Ja, besonders rund um den Karneval von Cádiz und im Sommer, wenn die Nachfrage am höchsten ist. Vereinbaren Sie zuerst ein kurzes Kennenlerntreffen, damit sich Ihr Hund mit dem Sitter wohlfühlt."
         }
       ]
     }

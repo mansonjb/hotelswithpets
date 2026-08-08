@@ -39,7 +39,11 @@
           "tipFr": "Réservez la terrasse à 20h en été ; les projecteurs du port des ferries face au boulevard s'allument au crépuscule et votre chien observe les traversées P&O Douvres-Calais partir pendant que la cuisine dresse l'entrée.",
           "tipEs": "Reserva la terraza a las 20:00 en verano; los focos del puerto de ferries frente al bulevar se encienden al anochecer y tu perro observa las travesías P&O Dover-Calais partir mientras la cocina sirve la entrada.",
           "tipPt": "Reserve a esplanada às 20:00 no verão; os holofotes do porto dos ferries em frente ao boulevard acendem-se ao crepúsculo e o seu cão observa as travessias P&O Dover-Calais partir enquanto a cozinha serve a entrada.",
-          "googleMapsUrl": "https://maps.google.com/?q=Le+Channel+Calais"
+          "googleMapsUrl": "https://maps.google.com/?q=Le+Channel+Calais",
+          "descriptionDe": "Eine seit langem im Michelin gelistete Fischspezialitäten-Institution gegenüber dem Fährhafen, seit drei Generationen von derselben Familie geführt, mit Fang aus Boulogne-sur-Mer, Nordsee-Seezunge und einem Weinkeller mit 35.000 Flaschen. Angeleinte Hunde sind das ganze Jahr über auf der beheizten überdachten Terrasse willkommen; der gehobene Innenraum lässt nur Assistenzhunde zu.",
+          "petPolicyDe": "Angeleinte Hunde das ganze Jahr über auf der beheizten überdachten Terrasse willkommen",
+          "mustTryDe": "Seezunge Meunière aus Boulogne-sur-Mer mit weißem Sancerre",
+          "tipDe": "Reservieren Sie die Terrasse im Sommer für 20:00 Uhr; die Flutlichter des Fährhafens gegenüber dem Boulevard gehen bei Dämmerung an, und Ihr Hund beobachtet, wie die P&O-Überfahrten Dover-Calais ablegen, während die Küche die Hauptspeise anrichtet."
         },
         {
           "name": "Histoire Ancienne",
@@ -65,7 +69,11 @@
           "tipFr": "Commandez la formule midi à 12h30 en semaine pour les habitués des bureaux locaux ; votre chien se repose sous la table pendant que vous mangez le même déjeuner que le personnel de l'Hôtel de Ville traverse la place pour prendre.",
           "tipEs": "Pide la formule midi a las 12:30 en día laborable para los habituales de oficinas locales; tu perro descansa bajo la mesa mientras comes el mismo almuerzo que el personal del Hôtel de Ville cruza la plaza para tomar.",
           "tipPt": "Peça a formule midi às 12:30 em dia útil para os habituais dos escritórios locais; o seu cão descansa sob a mesa enquanto come o mesmo almoço que o pessoal do Hôtel de Ville atravessa a praça para tomar.",
-          "googleMapsUrl": "https://maps.google.com/?q=Histoire+Ancienne+Calais"
+          "googleMapsUrl": "https://maps.google.com/?q=Histoire+Ancienne+Calais",
+          "descriptionDe": "Eine klassische Belle-Époque-Brasserie in der Fußgängerzone Rue Royale, auf halbem Weg zwischen dem Glockenturm des Hôtel de Ville und der Küste, mit traditioneller Bistroküche (Steak Frites, Blanquette de Veau, Choucroute) zu fairen Preisen. Angeleinte Hunde sind an jedem Tisch drinnen und auf der Terrasse an der Straße willkommen; der Küchenchef hält Wassernäpfe hinter der Theke bereit.",
+          "petPolicyDe": "Angeleinte Hunde das ganze Jahr über drinnen und auf der Terrasse an der Straße willkommen",
+          "mustTryDe": "Carbonade flamande (Rindfleischeintopf) mit Trois-Monts-Blondbier",
+          "tipDe": "Bestellen Sie werktags um 12:30 Uhr die Formule Midi wie die Stammgäste aus den umliegenden Büros; Ihr Hund ruht unter dem Tisch, während Sie dasselbe Mittagessen genießen wie das Personal des Hôtel de Ville, das über den Platz herüberkommt."
         },
         {
           "name": "Au Côte d'Argent",
@@ -91,7 +99,11 @@
           "tipFr": "Réservez une table en terrasse côté vitrines à 19h30 en été ; le coucher du soleil peint les falaises blanches de Douvres en rose à 35 km de mer de la Manche et votre chien observe les ferries transmanche passer au niveau des yeux sous la digue.",
           "tipEs": "Reserva una mesa en terraza junto a las cristaleras a las 19:30 en verano; el atardecer pinta los acantilados blancos de Dover de rosa a 35 km de mar del Canal y tu perro observa los ferries transmancha pasar a la altura de los ojos bajo el dique.",
           "tipPt": "Reserve uma mesa em esplanada junto às vidraças às 19:30 no verão; o pôr-do-sol pinta as falésias brancas de Dover de rosa a 35 km de mar do Canal e o seu cão observa os ferries transmancha passar à altura dos olhos sob o dique.",
-          "googleMapsUrl": "https://maps.google.com/?q=Au+Cote+d+Argent+Calais"
+          "googleMapsUrl": "https://maps.google.com/?q=Au+Cote+d+Argent+Calais",
+          "descriptionDe": "Eine Brasserie an der Küste, an der Digue Gaston Berthe direkt über der Plage de Calais, mit einer breiten verglasten Terrasse mit Blick auf die weißen Klippen von Dover an klaren Tagen. Spezialisiert auf Moules-Frites, Nordseefang und Kanal-Austern. Angeleinte Hunde das ganze Jahr über auf der beheizten Terrasse willkommen.",
+          "petPolicyDe": "Angeleinte Hunde das ganze Jahr über auf der beheizten verglasten Terrasse willkommen",
+          "mustTryDe": "Moules de bouchot frites mit einem Goudale-Blondbier",
+          "tipDe": "Reservieren Sie im Sommer einen Fensterplatz auf der Terrasse für 19:30 Uhr; der Sonnenuntergang färbt die weißen Klippen von Dover über 35 km Kanalwasser hinweg rosa, und Ihr Hund beobachtet auf Augenhöhe unterhalb des Deichs die Fähren über den Kanal vorbeifahren."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Onde comer com vista para o mar e um cão?",
           "a": "Au Côte d'Argent na Digue Gaston Berthe directamente acima da Plage de Calais tem uma esplanada envidraçada aquecida virada para as falésias brancas de Dover em dias claros; a primeira paragem local após uma chegada de ferry."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Calais",
+      "introDe": "Calais ist mit 67.000 Einwohnern ein Fährhafen im Pas-de-Calais, direkt gegenüber den weißen Klippen von Dover, und der meistbefahrene Passagier-Seeweg Europas. Angeleinte Hunde sind auf praktisch jeder Brasserie-Terrasse entlang des Boulevard Jacquard, der Place d'Armes und des Quai de la Tamise willkommen, wo der Fährverkehr der Stadt einen einzigartigen englisch-französischen Rhythmus verleiht und die Kellner es gewohnt sind, dass britische und nordeuropäische Besucher mit Haustieren direkt von den P&O-, DFDS- oder Irish-Ferries-Überfahrten kommen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Calais erlaubt?",
+          "a": "Angeleinte Hunde sind auf praktisch jeder Brasserie-Terrasse und in den meisten zwanglosen Bistros willkommen. Gehobene, im Michelin gelistete Speiseräume (Le Channel) beschränken Hunde auf die beheizte Terrasse; Assistenzhunde dürfen überall hin."
+        },
+        {
+          "q": "Spricht man in den Restaurants von Calais Englisch?",
+          "a": "Ja, fast überall; Calais hat nach Paris das höchste Aufkommen britischer Besucher jeder französischen Stadt dank der Dover-Fähre und des Eurotunnel Le Shuttle, und das Brasserie-Personal ist fließend Englisch sprechend."
+        },
+        {
+          "q": "Wo kann ich mit Meerblick und Hund essen?",
+          "a": "Au Côte d'Argent an der Digue Gaston Berthe direkt über der Plage de Calais hat eine beheizte verglaste Terrasse mit Blick auf die weißen Klippen von Dover an klaren Tagen; der örtliche erste Stopp nach einer Fähranreise."
+        }
       ]
     },
     "parks": {
@@ -205,7 +233,11 @@
           "tipFr": "Marchez l'allée centrale des platanes à 8h le dimanche matin ; le parc est vide, les Calaisiens sont au marché de la Place d'Armes et votre chien a le circuit de gravier pour lui seul avant la foule d'après-messe.",
           "tipEs": "Camina la avenida central de plátanos a las 8:00 el domingo por la mañana; el parque está vacío, los locales están en el mercado de la Place d'Armes y tu perro tiene el circuito de gravilla para él solo antes de la multitud post-misa.",
           "tipPt": "Caminhe a alameda central de plátanos às 8:00 no domingo de manhã; o parque está vazio, os locais estão no mercado da Place d'Armes e o seu cão tem o circuito de gravilha só para ele antes da multidão pós-missa.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parc+Richelieu+Calais"
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+Richelieu+Calais",
+          "descriptionDe": "Ein 4 Hektar großer, formaler englischer Park im Herzen von Calais-Nord, mit alten Platanen und Kastanien, formalen Blumenbeeten, Kieswegen, einem Pavillon und einem kleinen Teich. Der Park ist vollständig eingezäunt und verschlossen, öffnet um 7:00 Uhr und schließt im Sommer um 21:00 Uhr. Angeleinte Hunde das ganze Jahr über auf den Wegen willkommen.",
+          "petPolicyDe": "Angeleinte Hunde das ganze Jahr über auf den Wegen willkommen; Freilauf nicht erlaubt",
+          "facilitiesDe": "Pavillon, Bänke, Brunnen, öffentliche Toiletten, kleiner Spielplatz",
+          "tipDe": "Gehen Sie sonntags um 8:00 Uhr die zentrale Platanenallee entlang; der Park ist leer, die Einheimischen sind auf dem Markt an der Place d'Armes, und Ihr Hund hat den Kiesrundweg ganz für sich, bevor die Menge nach der Messe eintrifft."
         },
         {
           "name": "Parc Saint-Pierre",
@@ -231,7 +263,11 @@
           "tipFr": "Combinez une balade au parc avec la montée gratuite du beffroi UNESCO de l'Hôtel de Ville de 75 m juste à côté pour le panorama sur Calais, le port des ferries et les falaises blanches de Douvres par temps clair ; l'ascenseur de la tour n'admet que les chiens d'assistance.",
           "tipEs": "Combina un paseo por el parque con la subida gratuita al campanario UNESCO del Hôtel de Ville de 75 m al lado para la panorámica sobre Calais, el puerto de ferries y los acantilados blancos de Dover en días claros; el ascensor de la torre solo admite perros de asistencia.",
           "tipPt": "Combine um passeio no parque com a subida gratuita ao campanário UNESCO do Hôtel de Ville de 75 m ao lado para o panorama sobre Calais, o porto dos ferries e as falésias brancas de Dover em dias claros; o elevador da torre só admite cães de assistência.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parc+Saint+Pierre+Calais"
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+Saint+Pierre+Calais",
+          "descriptionDe": "Ein 6 Hektar großer, gestalteter Park hinter dem flämisch-renaissancistischen Glockenturm des Hôtel de Ville, mit alten Bäumen, formalen Rasenflächen, einem Kriegsgedenkgarten, einem kleinen See und mehreren erhaltenen deutschen Bunkern aus dem Ersten Weltkrieg (der Bereich um das Rathaus von Calais wurde bis zum 30. September 1944 von deutschen Truppen gehalten). Angeleinte Hunde das ganze Jahr über auf allen Wegen willkommen.",
+          "petPolicyDe": "Angeleinte Hunde das ganze Jahr über auf allen Wegen willkommen; Freilauf nicht erlaubt",
+          "facilitiesDe": "Kriegsdenkmal, Informationstafeln zum Bunker, Bänke, Seeweg, öffentliche Toiletten",
+          "tipDe": "Verbinden Sie den Parkspaziergang mit dem kostenlosen Aufstieg auf den 75 m hohen UNESCO-Glockenturm des Hôtel de Ville nebenan für das Panorama über Calais, den Fährhafen und die weißen Klippen von Dover an klaren Tagen; der Aufzug im Turm lässt nur Assistenzhunde zu."
         },
         {
           "name": "Grand Site Cap Blanc-Nez / Cap Gris-Nez",
@@ -257,7 +293,11 @@
           "tipFr": "Garez-vous au Cap Blanc-Nez et marchez le GR120 le long du sommet de la falaise en direction de Wissant ; par temps clair, les falaises blanches de Douvres sont à 35 km au niveau des yeux à travers la Manche et votre chien observe le rail maritime de 500 navires par jour passer en dessous.",
           "tipEs": "Aparca en Cap Blanc-Nez y camina el GR120 a lo largo de la cima del acantilado hacia Wissant; en día claro los acantilados blancos de Dover quedan a 35 km a la altura de los ojos a través del Canal y tu perro observa la ruta marítima de 500 barcos al día pasar debajo.",
           "tipPt": "Estacione no Cap Blanc-Nez e caminhe o GR120 ao longo do topo da falésia em direcção a Wissant; num dia claro as falésias brancas de Dover ficam a 35 km à altura dos olhos através do Canal e o seu cão observa a rota marítima de 500 navios por dia passar por baixo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cap+Blanc+Nez+Escalles"
+          "googleMapsUrl": "https://maps.google.com/?q=Cap+Blanc+Nez+Escalles",
+          "descriptionDe": "Eine als Grand Site de France ausgezeichnete Kreidefelsenlandschaft, die sich vom Cap Blanc-Nez (134 m hohes weißes Kreidekap direkt gegenüber den weißen Klippen von Dover über 35 km Kanalwasser) bis zum Cap Gris-Nez (45 m hoher grauer Sandsteinfelsen am nächstgelegenen Punkt des europäischen Festlands zu Großbritannien) erstreckt, mit markierten GR120-Wegen, weiten unbezäunten Wiesen auf den Klippen und direktem Blick auf die meistbefahrene Schifffahrtsroute des Planeten. Angeleinte Hunde das ganze Jahr über auf allen Wegen willkommen.",
+          "petPolicyDe": "Angeleinte Hunde das ganze Jahr über auf allen Wegen willkommen; Rücksicht auf Bodenbrüter-Zonen April-Juli",
+          "facilitiesDe": "Kostenlose Parkplätze an beiden Kaps, GR120-Wegmarkierungen, keine Brunnen - Wasser mitbringen, saisonale Café-Restaurants am Cap Gris-Nez",
+          "tipDe": "Parken Sie am Cap Blanc-Nez und gehen Sie den GR120 entlang der Klippen in Richtung Wissant; an einem klaren Tag liegen die weißen Klippen von Dover 35 km über den Kanal auf Augenhöhe, und Ihr Hund beobachtet die Schifffahrtsroute mit 500 Schiffen pro Tag unter sich vorbeiziehen."
         }
       ],
       "tipsEn": [
@@ -335,6 +375,22 @@
           "q": "Onde ficam os melhores passeios em falésias cretáceas perto de Calais?",
           "a": "O Grand Site Cap Blanc-Nez / Cap Gris-Nez a 35 km a oeste na Côte d'Opale oferece o trilho GR120 no topo da falésia ao longo dos bluffs de cré e grés cinzento com vistas directas para as falésias brancas de Dover e a rota marítima mais movimentada do planeta."
         }
+      ],
+      "titleDe": "Die besten hundefreundlichen Parks & Grünflächen in Calais",
+      "introDe": "Calais bietet angeleinten Hunden ein für einen Fährhafen mit 67.000 Einwohnern ungewöhnlich großzügiges Angebot: den formalen Parc Richelieu im Zentrum mit englischen Rasenflächen und alten Platanen, den größeren Parc Saint-Pierre neben dem Hôtel de Ville mit Gedenkgärten des Ersten Weltkriegs, und 35 km westlich das Grand Site de France Cap Blanc-Nez / Cap Gris-Nez mit Kreidefelsen-Wanderwegen mit Blick auf die weißen Klippen von Dover und die meistbefahrene Schifffahrtsroute des Planeten.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde im Parc Richelieu und im Parc Saint-Pierre erlaubt?",
+          "a": "Ja, angeleinte Hunde sind das ganze Jahr über auf allen Wegen in beiden Parks willkommen. Freilauf ist in den städtischen Parks nicht erlaubt; für Freilauf fahren Sie 35 km westlich zu den Kreidewiesen von Cap Blanc-Nez, außerhalb der Brutzeit."
+        },
+        {
+          "q": "Gibt es einen Hundeauslaufpark in Calais?",
+          "a": "Calais hat innerhalb der Stadtgrenzen keinen vollständig eingezäunten Hundeauslaufpark; Einheimische fahren 35 km westlich zu den Kreidewiesen von Cap Blanc-Nez oder nutzen außerhalb der Badesaison die Plage de Calais für Freilauf."
+        },
+        {
+          "q": "Wo sind die besten Kreidefelsen-Wanderungen bei Calais?",
+          "a": "Das Grand Site Cap Blanc-Nez / Cap Gris-Nez, 35 km westlich an der Côte d'Opale, bietet den GR120-Wanderweg entlang der Kreide- und Grausandstein-Klippen mit direktem Blick auf die weißen Klippen von Dover und die meistbefahrene Schifffahrtsroute des Planeten."
+        }
       ]
     },
     "transport": {
@@ -361,7 +417,9 @@
           "petPolicyFr": "Animaux pré-réservés ; chiens dans le véhicule ou zone animaux pour piétons ; passeport européen ou AHC UK exigé",
           "petPolicyEs": "Mascotas pre-reservadas; perros en vehículo o zona animal para peatones; pasaporte UE o AHC UK exigido",
           "petPolicyPt": "Animais pré-reservados; cães em veículo ou zona animal para peões; passaporte UE ou AHC UK exigido",
-          "googleMapsUrl": "https://maps.google.com/?q=Port+de+Calais+ferry+terminal"
+          "googleMapsUrl": "https://maps.google.com/?q=Port+de+Calais+ferry+terminal",
+          "descriptionDe": "Der Port de Calais ist der meistbefahrene Passagier-Seeweg Europas, mit bis zu 45 täglichen Überfahrten Dover-Calais von P&O Ferries, DFDS Seaways und Irish Ferries; Überfahrtszeit 1 Std. 30 Min. Fußgänger und Autofahrer reisen mit Haustieren: Hunde müssen vorab gebucht werden, fahren im Fahrzeug auf dem Autodeck (Passagiere können während der Überfahrt nicht beim Auto bleiben) oder in einem ausgewiesenen Haustierbereich für Fußgänger; alle Hunde benötigen einen gültigen EU-Heimtierausweis oder ein britisches Animal Health Certificate, Mikrochip und Tollwutimpfung.",
+          "petPolicyDe": "Haustiere vorab gebucht; Hunde im Fahrzeug oder im Haustierbereich für Fußgänger; EU-Ausweis oder britisches AHC erforderlich"
         },
         {
           "name": "Eurotunnel Le Shuttle (Coquelles to Folkestone)",
@@ -377,7 +435,9 @@
           "petPolicyFr": "Animaux restent dans la voiture du propriétaire toute la traversée ; 26 € l'aller ; passeport européen ou AHC UK exigé",
           "petPolicyEs": "Mascotas permanecen en el coche del propietario toda la travesía; 26 € ida; pasaporte UE o AHC UK exigido",
           "petPolicyPt": "Animais permanecem no carro do proprietário toda a travessia; 26 € ida; passaporte UE ou AHC UK exigido",
-          "googleMapsUrl": "https://maps.google.com/?q=Eurotunnel+Le+Shuttle+Coquelles"
+          "googleMapsUrl": "https://maps.google.com/?q=Eurotunnel+Le+Shuttle+Coquelles",
+          "descriptionDe": "Der Eurotunnel Le Shuttle Autozug-Tunnel von Coquelles, 5 km westlich des Zentrums von Calais, unterquert den Kanal in 35 Minuten bis zum Terminal Folkestone (die tatsächliche Zeit unter dem Meer beträgt 26 Minuten). Haustiere reisen die ganze Fahrt im eigenen Auto: Sie bleiben bei Ihrem Hund, keine Trennung in einer Box. 26 EUR pro Haustier je Richtung, EU-Ausweis oder britisches AHC erforderlich; die einzige Verbindung über den Kanal, bei der Haustiere nie das Fahrzeug des Besitzers verlassen.",
+          "petPolicyDe": "Haustiere bleiben die ganze Überfahrt im Auto des Besitzers; 26 EUR je Richtung; EU-Ausweis oder britisches AHC erforderlich"
         },
         {
           "name": "Gare de Calais-Fréthun (TGV / Eurostar / TER)",
@@ -393,7 +453,9 @@
           "petPolicyFr": "SNCF : petits chiens en cage 7 € forfait ; grands chiens en laisse muselés 7 €. Eurostar : chiens d'assistance uniquement",
           "petPolicyEs": "SNCF: perros pequeños en transportín 7 € fijo; grandes con correa con bozal 7 €. Eurostar: solo perros de asistencia",
           "petPolicyPt": "SNCF: cães pequenos em transportadora 7 € fixo; grandes com trela e açaime 7 €. Eurostar: só cães de assistência",
-          "googleMapsUrl": "https://maps.google.com/?q=Gare+de+Calais+Frethun"
+          "googleMapsUrl": "https://maps.google.com/?q=Gare+de+Calais+Frethun",
+          "descriptionDe": "Der Bahnhof Calais-Fréthun für TGV/Eurostar, 10 km südwestlich des Zentrums von Calais, mit direktem TGV nach Paris Gare du Nord (1 Std. 30 Min.), TER nach Lille-Flandres (45 Min.) und Eurostar nach London St Pancras (1 Std.). Kleine Hunde in Transportboxen reisen bei der SNCF zum Pauschalpreis von 7 EUR; große angeleinte Hunde mit Maulkorb zahlen 7 EUR im TGV/TER. Der Eurostar akzeptiert in den Passagierabteilen nur Assistenzhunde; Haustierhunde reisen Dover-Folkestone mit Le Shuttle oder Calais-Dover mit der Fähre.",
+          "petPolicyDe": "SNCF: kleine Hunde in Transportbox 7 EUR pauschal; große angeleinte Hunde mit Maulkorb 7 EUR. Eurostar: nur Assistenzhunde"
         }
       ],
       "tipsEn": [
@@ -470,6 +532,22 @@
         {
           "q": "Posso apanhar o Eurostar para Londres com o meu cão?",
           "a": "Não, as cabinas de passageiros do Eurostar só admitem cães de assistência. Para levar um cão de companhia de Calais ao Reino Unido, use o Eurotunnel Le Shuttle (os animais permanecem no seu carro toda a travessia de 35 minutos) ou um ferry."
+        }
+      ],
+      "titleDe": "Öffentliche Verkehrsmittel in Calais mit Hund",
+      "introDe": "Calais ist das größte Tor für Passagiere über den Kanal auf dem europäischen Festland, mit drei konkurrierenden Fährbetreibern (P&O Ferries, DFDS Seaways, Irish Ferries), die Dover-Calais bis zu 45 Mal täglich vom Port de Calais aus bedienen, dem Eurotunnel Le Shuttle Autozug-Tunnel von Coquelles, 5 km westlich, der in 35 Minuten nach Folkestone übersetzt, dem TGV-/Eurostar-Hochgeschwindigkeitsbahnhof Calais-Fréthun, 10 km südwestlich, und einem städtischen Sytac-Busnetz. Alle Verbindungen über den Kanal akzeptieren Hunde in Autos, und die meisten akzeptieren angeleinte Hunde in den Passagierterminals.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf der Fähre Dover-Calais mitnehmen?",
+          "a": "Ja, alle drei Betreiber (P&O Ferries, DFDS Seaways, Irish Ferries) akzeptieren vorab gebuchte Haustiere. Fußgänger reisen mit ihrem Hund in einem ausgewiesenen Haustierbereich; Autoreisende lassen Hunde während der 90-minütigen Überfahrt im Fahrzeug auf dem Autodeck. EU-Heimtierausweis oder britisches AHC erforderlich."
+        },
+        {
+          "q": "Welche Dokumente benötigt mein Hund für die Einreise nach Calais?",
+          "a": "Aus Großbritannien nach dem Brexit: eine von einem britischen Tierarzt innerhalb von 10 Tagen vor der Reise ausgestellte Tiergesundheitsbescheinigung (Animal Health Certificate, AHC), ISO-Mikrochip und gültige Tollwutimpfung. Aus der EU: EU-Heimtierausweis, ISO-Mikrochip und gültige Tollwutimpfung."
+        },
+        {
+          "q": "Kann ich meinen Hund mit dem Eurostar nach London mitnehmen?",
+          "a": "Nein, die Passagierabteile des Eurostar lassen nur Assistenzhunde zu. Um einen Haustierhund von Calais nach Großbritannien zu bringen, nutzen Sie den Eurotunnel Le Shuttle (Haustiere bleiben während der gesamten 35-minütigen Überfahrt im Auto) oder eine Fähre."
         }
       ]
     },
@@ -589,6 +667,22 @@
           "q": "O meu cão pode banhar-se no Canal?",
           "a": "Sim o ano inteiro, embora a água seja fresca (8-17 °C); a maioria dos cães chapinha à beira em vez de nadar muito tempo. A Plage de Calais e a Plage de Sangatte têm declives suaves ideais para nadadores nervosos."
         }
+      ],
+      "titleDe": "Die besten hundefreundlichen Strände in Calais",
+      "introDe": "Calais liegt an einem breiten Sandkorridor der Kanalküste: Die Plage de Calais erstreckt sich direkt westlich des Zentrums unterhalb der Digue Gaston Berthe und des Leuchtturms, die wildere Plage de Sangatte reicht westlich bis zum Cap Blanc-Nez, und die geschützte Baie de Wissant, 25 km südwestlich zwischen den beiden Kaps, bietet einen der saubersten Sandstrände der Côte d'Opale. Außerhalb der kleinen bewachten Zone der zentralen Plage de Calais im Juli und August sind angeleinte Hunde das ganze Jahr über an der gesamten Kanalküste willkommen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde an der Plage de Calais erlaubt?",
+          "a": "Angeleinte Hunde sind das ganze Jahr über am nördlichen (Richtung Hafen) und südlichen (Richtung Sangatte) Ende der Plage de Calais willkommen. Die zentrale bewachte Zone schränkt Haustiere von Mitte Juni bis Anfang September ein."
+        },
+        {
+          "q": "Wo ist der ruhigste hundefreundliche Strand bei Calais?",
+          "a": "Die Baie de Wissant, 25 km südwestlich zwischen Cap Blanc-Nez und Cap Gris-Nez, bietet 12 km sauberen Sand mit Platz für Strandsegler und Kitesurfer, und angeleinte Hunde sind das ganze Jahr über willkommen, außerhalb der kleinen bewachten Zone des Dorfes."
+        },
+        {
+          "q": "Kann mein Hund im Kanal schwimmen?",
+          "a": "Ja, das ganze Jahr über, wenn auch das Wasser kühl ist (8-17 °C); die meisten Hunde plantschen eher am Wasserrand, als lange zu schwimmen. Die Plage de Calais und die Plage de Sangatte haben sanfte Gefälle, ideal für ängstliche Schwimmer."
+        }
       ]
     },
     "vets": {
@@ -636,7 +730,12 @@
           "tipFr": "Réservez le premier créneau du matin pour une vérification passeport européen le jour même avant un ferry l'après-midi pour Douvres ; la clinique est au centre, à quelques minutes de la rocade vers le terminal.",
           "tipEs": "Reserva el primer hueco de la mañana para una revisión de pasaporte UE el mismo día antes de un ferry por la tarde a Dover; la clínica está en el centro, a minutos de la ronda hacia el terminal.",
           "tipPt": "Reserve o primeiro slot da manhã para uma verificação de passaporte UE no mesmo dia antes de um ferry à tarde para Dover; a clínica fica no centro, a minutos da circular para o terminal.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+des+Salines+Calais"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+des+Salines+Calais",
+          "hoursDe": "Mo-Fr 8:30-12:00 & 14:00-19:00; Sa 8:30-12:00; So geschlossen",
+          "descriptionDe": "Eine zentrale allgemeine Tierarztpraxis in Calais an der Place Crèvecoeur mit Innerer Medizin, Chirurgie, Radiologie, Ultraschall, Zahnmedizin und einer hauseigenen Apotheke. Praktisch für Auffrischungsimpfungen und EU-Ausweis-Kontrollen vor einer Überfahrt.",
+          "petPolicyDe": "Termine bevorzugt; ohne Termin zwischen gebuchten Zeitfenstern möglich",
+          "servicesDe": "Impfungen, EU-Ausweis-Kontrollen, Allgemeinmedizin, Chirurgie, Radiologie, Ultraschall, Zahnmedizin",
+          "tipDe": "Buchen Sie den ersten Termin am Morgen für eine EU-Ausweis-Kontrolle am selben Tag vor einer Nachmittagsfähre nach Dover; die Praxis liegt im Zentrum, wenige Minuten vom Ring zum Terminal entfernt."
         },
         {
           "name": "Maison des Urgences Vétérinaires",
@@ -672,7 +771,12 @@
           "tipFr": "Enregistrez ce numéro et le 3115 avant une traversée matinale ; si votre chien tombe malade la nuit, vous joignez un vétérinaire de garde sans rouler une heure jusqu'à Lille.",
           "tipEs": "Guarda este número y el 3115 antes de una travesía matinal; si tu perro enferma de noche, contactas con un veterinario de guardia sin conducir una hora hasta Lille.",
           "tipPt": "Guarde este número e o 3115 antes de uma travessia matinal; se o seu cão adoecer de noite, contacta um veterinário de serviço sem conduzir uma hora até Lille.",
-          "googleMapsUrl": "https://maps.google.com/?q=Maison+des+Urgences+Veterinaires+Calais"
+          "googleMapsUrl": "https://maps.google.com/?q=Maison+des+Urgences+Veterinaires+Calais",
+          "hoursDe": "Abende, Nächte, Sonntage und Feiertage",
+          "descriptionDe": "Eine Bereitschaftsleitung für tierärztliche Notfälle außerhalb der Öffnungszeiten für die Region Calais: Rufen Sie zuerst an, und die Zentrale beurteilt den Zustand Ihres Haustiers und leitet Sie an die diensthabende Praxis weiter. Die nationale Notrufnummer 3115 vermittelt ebenfalls rund um die Uhr an den nächsten diensthabenden Tierarzt.",
+          "petPolicyDe": "Zuerst anrufen; die Leitung vermittelt an die diensthabende Praxis",
+          "servicesDe": "Notfall-Triage, Vermittlung an die diensthabende Praxis",
+          "tipDe": "Speichern Sie diese Nummer und die 3115 vor einer frühmorgendlichen Überfahrt; erkrankt Ihr Hund über Nacht, erreichen Sie einen diensthabenden Tierarzt, ohne die volle Stunde nach Lille zu fahren."
         },
         {
           "name": "CHV AniCura Nordvet",
@@ -708,7 +812,12 @@
           "tipFr": "Pour une urgence nocturne grave, appelez avant et conduisez-vous sur l'A26 ; le transfert de 1h15 vers La Madeleine est souvent plus rapide que d'attendre un pet-taxi rural.",
           "tipEs": "Para una urgencia nocturna grave, llama antes y conduce tú mismo por la A26; el traslado de 1h15 a La Madeleine suele ser más rápido que esperar un pet-taxi rural.",
           "tipPt": "Para uma urgência nocturna grave, ligue antes e conduza você mesmo pela A26; a transferência de 1h15 para La Madeleine costuma ser mais rápida do que esperar um pet-taxi rural.",
-          "googleMapsUrl": "https://maps.google.com/?q=CHV+AniCura+Nordvet+La+Madeleine"
+          "googleMapsUrl": "https://maps.google.com/?q=CHV+AniCura+Nordvet+La+Madeleine",
+          "hoursDe": "24/7 Notfall- und Fachversorgung",
+          "descriptionDe": "Das Referenz-24-Stunden-Tierkrankenhaus für die Metropolregion Lille und die weitere Region Hauts-de-France, mit einem rund um die Uhr geöffneten Notdienst sowie Fachabteilungen. Etwa 1 Std. 15 Min. von Calais über die Autobahn A26; vor der Ankunft anrufen.",
+          "petPolicyDe": "Notfälle ohne Termin angenommen; vorher anrufen; Facharzt-Überweisungen nach Terminvereinbarung",
+          "servicesDe": "24-Stunden-Notdienst, Intensivstation, Bildgebung, Facharzt-Überweisung",
+          "tipDe": "Rufen Sie bei einem ernsten Notfall in der Nacht vorher an und fahren Sie selbst über die A26; die 1 Std. 15 Min. lange Fahrt nach La Madeleine ist meist schneller, als auf ein Tiertaxi vom Land zu warten."
         }
       ],
       "tipsEn": [
@@ -785,6 +894,22 @@
         {
           "q": "Um veterinário francês pode assinar os papéis de regresso UK do meu cão?",
           "a": "Não. O Animal Health Certificate UK é emitido no Reino Unido antes de viajar e a maioria das clínicas de Calais não assina documentos de regresso ao UK. Planeie o seu AHC com antecedência; um veterinário francês trata da verificação do passaporte europeu e do tratamento antiequinococo quando necessário."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Calais",
+      "introDe": "Calais verfügt über allgemeine tagsüber geöffnete Tierarztpraxen im Stadtzentrum, eine regionale Bereitschaftsleitung außerhalb der Öffnungszeiten, die Sie an den diensthabenden Tierarzt vermittelt, und das 24-Stunden-Überweisungskrankenhaus CHV AniCura Nordvet in der Nähe von Lille (etwa 1 Std. 15 Min. über die A26). Viele Praxen sind an britischen Fährverkehr und die britische Gemeinschaft an der Côte d'Opale gewöhnt, sodass Englisch weit verbreitet ist. Denken Sie daran, dass die britischen Rückreisedokumente (die Tiergesundheitsbescheinigung) in Großbritannien ausgestellt werden, nicht von einem französischen Tierarzt.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächste 24-Stunden-Tierarzt bei Calais?",
+          "a": "Das CHV AniCura Nordvet in La Madeleine bei Lille (+33 3 20 51 00 66, etwa 1 Std. 15 Min. über die A26) ist das nächste echte 24-Stunden-Überweisungskrankenhaus. Für örtliche Bereitschaft außerhalb der Öffnungszeiten rufen Sie die Maison des Urgences Vétérinaires (+33 3 59 72 20 20) oder die nationale Nummer 3115 an, um den diensthabenden Tierarzt zu erreichen."
+        },
+        {
+          "q": "Sprechen die Tierärzte in Calais Englisch?",
+          "a": "Im Allgemeinen ja; dank des starken britischen Fährverkehrs und der britischen Gemeinschaft an der Côte d'Opale ist Englisch in den Praxen von Calais weit verbreitet."
+        },
+        {
+          "q": "Kann ein französischer Tierarzt die britischen Rückreisedokumente meines Hundes unterschreiben?",
+          "a": "Nein. Die britische Tiergesundheitsbescheinigung wird vor der Reise in Großbritannien ausgestellt, und die meisten Praxen in Calais sind nicht darauf eingerichtet, britische Rückreisedokumente zu unterschreiben. Planen Sie Ihr AHC im Voraus; ein französischer Tierarzt kann bei Bedarf EU-Ausweis-Kontrollen und die Bandwurmbehandlung übernehmen."
         }
       ]
     },
@@ -881,6 +1006,22 @@
           "q": "Qual é o melhor mês para Calais com cão?",
           "a": "Maio-junho e setembro-outubro: temperaturas suaves do Canal, menor humidade, menos gente, acesso completo ao Cap Blanc-Nez (fora de época de nidificação no solo abril-julho perto de zonas sensíveis) e as extremidades da Plage de Calais abertas o ano inteiro."
         }
+      ],
+      "titleDe": "Haustierfreundliche Tipps für einen Besuch in Calais",
+      "introDe": "Calais belohnt Reisende mit Haustier mit dem meistbefahrenen Fährknotenpunkt über den Kanal in Europa (45 tägliche Überfahrten nach Dover von P&O, DFDS und Irish Ferries), dem haustierperfekten Eurotunnel Le Shuttle von Coquelles, bei dem Hunde die gesamte 35-minütige Überfahrt im Auto bleiben, dem kostenlos zu besteigenden UNESCO-Glockenturm des Hôtel de Ville, Rodins Denkmal der Bürger von Calais vor demselben Rathaus, dem Spitzenmuseum Cité de la Dentelle, dem 12 km langen Sandkorridor Plage de Calais und Sangatte sowie den spektakulären Kreidefelsen-Wanderwegen des Grand Site Cap Blanc-Nez / Cap Gris-Nez, 35 km westlich.",
+      "faqsDe": [
+        {
+          "q": "Ist Calais ein guter Ausgangspunkt für einen haustierfreundlichen Urlaub am Kanal?",
+          "a": "Ja, die Kombination aus drei konkurrierenden Fährbetreibern nach Dover, dem haustierperfekten Eurotunnel Le Shuttle (Hunde die ganze Überfahrt im Auto), dem Grand Site Cap Blanc-Nez / Cap Gris-Nez 35 km westlich, dem 12 km langen Sandkorridor der Plage de Calais und einer durchweg zweisprachigen Brasserie-Szene macht Calais zum offensichtlichen ersten oder letzten Stopp für jeden Roadtrip mit Haustier zwischen Großbritannien und dem Kontinent."
+        },
+        {
+          "q": "Brauche ich in Calais in der Öffentlichkeit einen Maulkorb?",
+          "a": "Nur für Rasselisten der Kategorie 1 und 2; Standardrassen benötigen lediglich eine Leine. Die Sytac-Busse und TGV-Züge verlangen Maulkörbe für größere Hunde; Fähren und der Eurotunnel haben ihre eigenen betreiberspezifischen Regeln."
+        },
+        {
+          "q": "Was ist der beste Monat für Calais mit Hund?",
+          "a": "Mai-Juni und September-Oktober: milde Temperaturen am Kanal, geringere Luftfeuchtigkeit, weniger Andrang, voller Zugang zum Cap Blanc-Nez (außerhalb der Bodenbrüter-Saison April-Juli in sensiblen Zonen) und die Enden der Plage de Calais das ganze Jahr über geöffnet."
+        }
       ]
     },
     "attractions": {
@@ -914,7 +1055,11 @@
           "tipFr": "Faites un tour lent autour des Bourgeois de Rodin à l'heure dorée ; la patine du bronze attrape la lumière occidentale de la Manche et votre chien se repose sur le pavé frais pendant que vous lisez les inscriptions sur chacun des six personnages.",
           "tipEs": "Camina un giro lento alrededor de Los Burgueses de Rodin en la hora dorada; la pátina del bronce atrapa la luz occidental del Canal y tu perro descansa sobre el pavimento fresco mientras lees las inscripciones de cada uno de los seis personajes.",
           "tipPt": "Faça uma volta lenta em redor dos Burgueses de Rodin à hora dourada; a pátina do bronze apanha a luz ocidental do Canal e o seu cão descansa sobre o pavimento fresco enquanto lê as inscrições em cada uma das seis figuras.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hotel+de+Ville+Calais"
+          "googleMapsUrl": "https://maps.google.com/?q=Hotel+de+Ville+Calais",
+          "descriptionDe": "Das flämisch-renaissancistische Hôtel de Ville (1911-1923), gekrönt von einem 75 m hohen Glockenturm, 2005 als Teil der Serie der Glockentürme Belgiens und Frankreichs zum UNESCO-Weltkulturerbe erklärt. Auf dem Platz davor steht Auguste Rodins Bronzeskulptur Les Bourgeois de Calais (1895), eine der berühmtesten öffentlichen Skulpturen des 19. Jahrhunderts, die die sechs Honoratioren der Stadt darstellt, die sich 1347 Eduard III. von England als Geiseln anboten, um Calais im Hundertjährigen Krieg zu verschonen. Der Aufstieg auf den Glockenturm ist kostenlos; der Aufzug lässt nur Assistenzhunde zu. Der Platz ist das ganze Jahr über voll hundefreundlich.",
+          "dogPolicyDe": "Angeleinte Hunde das ganze Jahr über auf der Place du Soldat Inconnu und um die Rodin-Skulptur willkommen; Aufzug im Glockenturm nur für Assistenzhunde",
+          "admissionFeeDe": "Kostenlos (Platz und Aufstieg auf den Glockenturm)",
+          "tipDe": "Drehen Sie zur goldenen Stunde eine langsame Runde um die Rodin-Bürger; die Bronzepatina fängt das westliche Kanallicht ein, und Ihr Hund ruht auf dem kühlen Pflaster, während Sie die Inschriften zu jeder der sechs Figuren lesen."
         },
         {
           "name": "Tour du Guet medieval watchtower",
@@ -937,7 +1082,11 @@
           "tipFr": "Visitez un mercredi ou samedi matin quand la Place d'Armes accueille le marché en plein air ; la tour médiévale se dresse au-dessus de 100 étals et votre chien marche le périmètre de la place avec vous entre les stands fromage, légumes et poulet rôti.",
           "tipEs": "Visita un miércoles o sábado por la mañana cuando la Place d'Armes acoge el mercado al aire libre; la torre medieval se alza sobre 100 puestos y tu perro camina el perímetro de la plaza contigo entre puestos de queso, verduras y pollo asado.",
           "tipPt": "Visite numa quarta ou sábado de manhã quando a Place d'Armes acolhe o mercado ao ar livre; a torre medieval ergue-se sobre 100 bancas e o seu cão caminha o perímetro da praça consigo entre bancas de queijo, vegetais e frango assado.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tour+du+Guet+Calais"
+          "googleMapsUrl": "https://maps.google.com/?q=Tour+du+Guet+Calais",
+          "descriptionDe": "Ein seltener mittelalterlicher Wachturm von 1214 (39 m), eines der wenigen erhaltenen Bauwerke des vorrenaissancistischen Calais, gelegen an der Place d'Armes gegenüber der ehemaligen Église Notre-Dame de Calais. Jahrhundertelang genutzt, um Schiffe, Feuer und englische Überfälle zu erspähen, markiert der Turm das historische Herz der ursprünglichen ummauerten Stadt. Der Platz am Fuß des Turms ist das ganze Jahr über voll hundefreundlich; das Innere des Turms ist normalerweise nicht für die Öffentlichkeit zugänglich.",
+          "dogPolicyDe": "Angeleinte Hunde das ganze Jahr über auf der Place d'Armes rund um den Turm willkommen",
+          "admissionFeeDe": "Kostenlos (Zugang zum Platz; Inneres normalerweise nicht geöffnet)",
+          "tipDe": "Besuchen Sie den Ort mittwochs oder samstags vormittags, wenn auf der Place d'Armes der Freiluftmarkt stattfindet; der mittelalterliche Turm erhebt sich über 100 Ständen, und Ihr Hund geht mit Ihnen am Rand des Platzes zwischen Käse-, Gemüse- und Brathähnchenständen entlang."
         },
         {
           "name": "Phare de Calais lighthouse",
@@ -960,7 +1109,11 @@
           "tipFr": "Marchez jusqu'à la base à 21h en été ; le faisceau de la lanterne balaie la Manche et votre chien observe les ferries transmanche accoster et partir pendant que vous absorbez les falaises blanches de Douvres éclairées par leurs propres balises côtières à travers 35 km de mer.",
           "tipEs": "Camina hasta la base a las 21:00 en verano; el haz de la linterna barre el Canal y tu perro observa los ferries transmancha atracar y partir mientras absorbes los acantilados blancos de Dover iluminados por sus propios faros costeros a través de 35 km de mar.",
           "tipPt": "Caminhe até à base às 21:00 no verão; o feixe da lanterna varre o Canal e o seu cão observa os ferries transmancha atracar e partir enquanto absorve as falésias brancas de Dover iluminadas pelos seus próprios faróis costeiros através de 35 km de mar.",
-          "googleMapsUrl": "https://maps.google.com/?q=Phare+de+Calais"
+          "googleMapsUrl": "https://maps.google.com/?q=Phare+de+Calais",
+          "descriptionDe": "Der ikonische 51 m hohe schwarz-weiß gestreifte Leuchtturm von Calais (1848), im Fischerviertel Courgain Maritime am östlichen Rand der Küste gelegen, mit 271 Stufen bis zum Laternenraum und einem 360°-Panorama über Calais, den Fährhafen, die Plage de Calais und die weißen Klippen von Dover an klaren Tagen. Die Esplanade am Fuß des Turms ist das ganze Jahr über voll hundefreundlich; der Aufstieg selbst lässt nur Assistenzhunde zu.",
+          "dogPolicyDe": "Angeleinte Hunde das ganze Jahr über auf der Esplanade am Fuß des Turms willkommen; Aufstieg auf den Leuchtturm nur für Assistenzhunde",
+          "admissionFeeDe": "Fuß des Turms kostenlos; Aufstieg auf den Leuchtturm 6 EUR Erwachsene, kostenlos unter 12 Jahren",
+          "tipDe": "Gehen Sie im Sommer um 21:00 Uhr zum Fuß des Turms; der Lichtstrahl der Laterne streicht über den Kanal, und Ihr Hund beobachtet, wie die Fähren über den Kanal anlegen und ablegen, während Sie die weißen Klippen von Dover betrachten, beleuchtet von ihren eigenen Küstenbaken über 35 km Meer."
         }
       ],
       "tipsEn": [
@@ -1038,6 +1191,22 @@
           "q": "O centro de Calais é acessível a pé com um cão?",
           "a": "Sim, o centro histórico entre a Place d'Armes (Tour du Guet) e o Hôtel de Ville fica a 15 minutos a pé planos pelo Boulevard Jacquard, e 10 minutos extra a norte atinge a frente marítima, o farol e a Plage de Calais; um cão com trela faz o circuito completo em 2 horas."
         }
+      ],
+      "titleDe": "Top hundefreundliche Sehenswürdigkeiten in Calais",
+      "introDe": "Calais vereint eine dichte Mischung an Outdoor-Zielen, einzigartig an der französischen Kanalküste: den UNESCO-gelisteten Glockenturm des Hôtel de Ville (einer der 56 Glockentürme Belgiens und Frankreichs, 2005 eingetragen), der sich 75 m über der Place du Soldat Inconnu erhebt, Auguste Rodins Bronzedenkmal Die Bürger von Calais (1895) auf demselben Platz, den mittelalterlichen Wachturm Tour du Guet (ein seltenes Überbleibsel von 1214 aus dem vorrenaissancistischen Calais), den 51 m hohen schwarz-weiß gestreiften Leuchtturm an der Küste, und die Kreidefelsen des Grand Site Cap Blanc-Nez / Cap Gris-Nez, 35 km westlich, mit direktem Blick auf die weißen Klippen von Dover.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in den Museen von Calais erlaubt?",
+          "a": "Nur Assistenzhunde dürfen die Museumsinnenräume betreten (Cité de la Dentelle, Musée des Beaux-Arts); angeleinte Haustiere sind auf allen Plätzen (Place d'Armes, Place du Soldat Inconnu), in den Parks, vor dem Hôtel de Ville, bei den Rodin-Bürgern, am Fuß des Tour du Guet und auf der Esplanade des Leuchtturms willkommen."
+        },
+        {
+          "q": "Kann ich mit meinem Hund den Glockenturm des Hôtel de Ville besteigen?",
+          "a": "Der Aufstieg zum Glockenturm ist kostenlos, aber der Aufzug lässt nur Assistenzhunde zu. Die Aussicht gehört zu den schönsten der Côte d'Opale (Calais, Fährhafen, weiße Klippen von Dover an klaren Tagen); lassen Sie einen kleinen Hund bei einem Begleiter in den Cafés auf dem Platz darunter, falls die Aufzugsbeschränkung gilt."
+        },
+        {
+          "q": "Ist das Zentrum von Calais mit Hund zu Fuß erreichbar?",
+          "a": "Ja, das historische Zentrum zwischen Place d'Armes (Tour du Guet) und dem Hôtel de Ville ist ein 15-minütiger flacher Spaziergang entlang des Boulevard Jacquard, und weitere 10 Minuten nördlich erreichen Sie die Küste, den Leuchtturm und die Plage de Calais; ein angeleinter Hund bewältigt die gesamte Runde in 2 Stunden."
+        }
       ]
     },
     "petsitting": {
@@ -1067,7 +1236,10 @@
           "servicesFr": "Visites, garde de jour, pension de nuit",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno",
           "servicesPt": "Visitas, creche diurna, alojamento nocturno",
-          "openingHours": "App available 24/7; sitters set own hours"
+          "openingHours": "App available 24/7; sitters set own hours",
+          "descriptionDe": "Die führende Peer-to-Peer-Plattform für Haustierbetreuung in Frankreich, mit verifizierten Betreuern in Calais, die Kurzbesuche, Tagesbetreuung und Übernachtungspension anbieten. Die meisten Betreuer haben Erdgeschosswohnungen in Calais-Nord und am Boulevard Jacquard oder kleine Gärten in Coquelles, Sangatte und den Dörfern der Côte d'Opale mit schnellem Zugang nach draußen. Viele zweisprachige Betreuer dank der Gemeinschaft über den Kanal.",
+          "petPolicyDe": "Richtlinien je nach Betreuer; versicherte und bewertete Buchungen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungspension"
         },
         {
           "name": "Animaute Calais",
@@ -1086,7 +1258,10 @@
           "servicesFr": "Visites, garde de jour, pension de nuit, balades",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno, paseos",
           "servicesPt": "Visitas, creche diurna, alojamento nocturno, passeios",
-          "openingHours": "App available 24/7; sitters set own hours"
+          "openingHours": "App available 24/7; sitters set own hours",
+          "descriptionDe": "Das französische Animaute ist die zweitgrößte Peer-to-Peer-Plattform für Haustierbetreuung in Frankreich, mit Betreuern im Zentrum von Calais, in Calais-Nord, an der Küste der Plage de Calais, in Coquelles bei der Eurotunnel-Station sowie in Sangatte, Wissant und den Dörfern rund um Cap Blanc-Nez. Verifizierte Profile, versicherte Aufenthalte und In-App-Nachrichten auf Französisch und Englisch.",
+          "petPolicyDe": "Richtlinien je nach Betreuer; versicherte und bewertete Buchungen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungspension, Hundespaziergänge"
         },
         {
           "name": "Holidog Calais",
@@ -1105,7 +1280,10 @@
           "servicesFr": "Visites, garde de jour, pension de nuit, balades, garde à domicile",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno, paseos, cuidado a domicilio",
           "servicesPt": "Visitas, creche diurna, alojamento nocturno, passeios, cuidado em domicílio",
-          "openingHours": "App available 24/7; sitters set own hours"
+          "openingHours": "App available 24/7; sitters set own hours",
+          "descriptionDe": "Holidog ist die europaweite Peer-to-Peer-Plattform für Haustierbetreuung mit starker Vernetzung zwischen Großbritannien und dem Kontinent, besonders aktiv in Calais dank des Fährverkehrs über den Kanal und der Pendler über den Eurotunnel. Zu den Betreuern zählen sowohl französische Familien als auch britische Rentner an der Côte d'Opale, ideal für Besucher, die einen Betreuer suchen, der mit ihnen auf Englisch über ihren Hund sprechen kann.",
+          "petPolicyDe": "Richtlinien je nach Betreuer; versicherte und bewertete Buchungen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungspension, Hundespaziergänge, Haussitting"
         }
       ],
       "tipsEn": [
@@ -1182,6 +1360,22 @@
         {
           "q": "Tenho de levar a comida do cão ao cuidador?",
           "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos, particularmente importante se o cão acabou de fazer uma travessia ferry ou Le Shuttle."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundepension in Calais",
+      "introDe": "Calais verfügt dank seines Fährverkehrs über den Kanal, der britischen Rentnergemeinde an der Côte d'Opale und der Nähe zum Eurotunnel Le Shuttle und zum TGV-Bahnhof Calais-Fréthun über ein wachsendes Netz an Haustierbetreuung. Die meisten Dienste laufen über Pawshake und Animaute, mit verifizierten Betreuern im gesamten Stadtzentrum, an der Küste der Plage de Calais, in der Eurotunnel-Zone Coquelles und in den Dörfern der Côte d'Opale. In den zentralen Vierteln wird viel Englisch gesprochen.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Haustierbetreuung in Calais?",
+          "a": "Rechnen Sie mit 18-26 EUR pro Nacht für die Unterbringung und 10-15 EUR pro 30-minütigen Spaziergang über Pawshake, Animaute oder Holidog; ländliche Hundepensionen rund um Sangatte, Coquelles und die Dörfer der Côte d'Opale berechnen ab 20 EUR pro Tag."
+        },
+        {
+          "q": "Können Hotels einen Betreuer für einen Abend empfehlen?",
+          "a": "Ja, größere Hotels in Calais führen eine kurze Liste von Pawshake- und Holidog-Betreuern, die abends vorbeischauen, praktisch für ein Abendessen im Le Channel oder einen Ausflug zu den Kreidefelsen des Cap Blanc-Nez bei Sonnenuntergang."
+        },
+        {
+          "q": "Muss ich das Futter meines Hundes zum Betreuer mitbringen?",
+          "a": "Die meisten Betreuer bevorzugen Kontinuität; bringen Sie Trockenfutter für 2-3 Tage sowie den gewohnten Napf des Hundes mit, um Magenverstimmungen zu vermeiden, besonders wichtig, wenn der Hund gerade eine Fähr- oder Le-Shuttle-Überfahrt hinter sich hat."
         }
       ]
     }

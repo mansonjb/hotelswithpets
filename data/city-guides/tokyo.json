@@ -39,7 +39,11 @@
           "tipFr": "Les week-ends se remplissent vite avec les propriétaires de chiens de Hiroo ; venez tôt et demandez une gamelle d`eau.",
           "tipEs": "Los fines de semana se llenan pronto con los dueños de perros de Hiroo; ve temprano y pide un cuenco de agua.",
           "tipPt": "Os fins de semana enchem depressa com os donos de cães de Hiroo; vá cedo e peça uma tigela de água.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Bondi+Cafe+Hiroo+Tokyo"
+          "googleMapsUrl": "https://www.google.com/maps/search/Bondi+Cafe+Hiroo+Tokyo",
+          "descriptionDe": "Ein Frühstückscafé im australischen Stil im grünen Botschaftsviertel Hiroo, seit langem beliebt bei Hundebesitzern. Haustiere sind in allen Sitzbereichen willkommen, was es zu einem der unkompliziertesten Orte im Zentrum Tokios für ein entspanntes Essen mit angeleintem Hund macht.",
+          "petPolicyDe": "Angeleinte Hunde willkommen; bei der Reservierung Innen- oder Terrassenplatz bestätigen.",
+          "mustTryDe": "Die ganztägigen Frühstücksteller und der Flat White.",
+          "tipDe": "An Wochenenden füllt sich das Café schnell mit der Hiroo-Hundebesitzer-Community; früh kommen und nach einem Wassernapf fragen."
         },
         {
           "name": "Cona Azabu-Juban",
@@ -65,7 +69,11 @@
           "tipFr": "Demandez la zone haute en arrivant pour que votre chien reste à côté de vous.",
           "tipEs": "Pide la zona alta al llegar para que tu perro pueda quedarse a tu lado.",
           "tipPt": "Peça a zona alta à chegada para que o seu cão possa ficar ao seu lado.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Cona+Azabu+Juban+Tokyo"
+          "googleMapsUrl": "https://www.google.com/maps/search/Cona+Azabu+Juban+Tokyo",
+          "descriptionDe": "Eine legere italienische Pizza- und Weinbar in Azabu-Juban, einem Viertel, das für seine haustierfreundliche Cafékultur bekannt ist. Hunde sind an den erhöhten Barplätzen willkommen, nicht an den hinteren, tiefer gelegenen Tischen, erwähnen Sie also bei der Ankunft, dass Sie einen Hund dabei haben.",
+          "petPolicyDe": "Hunde willkommen an den hohen Barplätzen; nicht an den hinteren, tiefer gelegenen Tischen.",
+          "mustTryDe": "Steinofenpizza mit einem Glas hauseigenem italienischen Wein.",
+          "tipDe": "Fragen Sie bei der Ankunft nach dem erhöhten Sitzbereich, damit Ihr Hund neben Ihnen bleiben kann."
         },
         {
           "name": "Castanet",
@@ -91,7 +99,11 @@
           "tipFr": "Réservez à l`avance et précisez que vous venez avec un chien pour être bien placé.",
           "tipEs": "Reserva con antelación e indica que llevas perro para que te ubiquen bien.",
           "tipPt": "Reserve com antecedência e indique que traz cão para o acomodarem bem.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Castanet+Jiyugaoka+Tokyo"
+          "googleMapsUrl": "https://www.google.com/maps/search/Castanet+Jiyugaoka+Tokyo",
+          "descriptionDe": "Ein seit Jahrzehnten etabliertes italienisches Restaurant im schicken Viertel Jiyugaoka mit treuer Stammkundschaft. Sowohl die Innenplätze als auch die Terrasse akzeptieren Hunde, eine echte Seltenheit in Tokio, weshalb es sich für ein längeres Essen eignet.",
+          "petPolicyDe": "Hunde sind sowohl drinnen als auch auf der Terrasse willkommen; Reservierung empfohlen.",
+          "mustTryDe": "Hausgemachte Pasta und die saisonale italienische Karte.",
+          "tipDe": "Reservieren Sie im Voraus und weisen Sie darauf hin, dass Sie einen Hund mitbringen, damit man Sie entsprechend platziert."
         }
       ],
       "tipsEn": [
@@ -115,24 +127,76 @@
         "Leve trela, uma tigela dobrável e uma manta, porque muitos sítios esperam que os cães pequenos fiquem numa bolsa de transporte ou no seu colo."
       ],
       "faqsEn": [
-        {"q": "Can I bring my dog inside a Tokyo restaurant?", "a": "Rarely in the indoor dining room. Most dog-friendly venues seat leashed dogs on a terrace or at specific seats, and small dogs are often expected to stay in a carrier or on your lap. Always call ahead to confirm."},
-        {"q": "Which Tokyo neighborhoods are best for eating out with a dog?", "a": "Hiroo, Azabu-Juban, Daikanyama and Jiyugaoka have the highest concentration of dog-welcoming cafes and restaurants, largely because of their international resident communities."},
-        {"q": "Do Tokyo cafes provide anything for dogs?", "a": "Some dog-friendly cafes offer water bowls and a few even have dog menus, but do not assume it. Bring your own folding bowl, water and a mat to be safe."}
+        {
+          "q": "Can I bring my dog inside a Tokyo restaurant?",
+          "a": "Rarely in the indoor dining room. Most dog-friendly venues seat leashed dogs on a terrace or at specific seats, and small dogs are often expected to stay in a carrier or on your lap. Always call ahead to confirm."
+        },
+        {
+          "q": "Which Tokyo neighborhoods are best for eating out with a dog?",
+          "a": "Hiroo, Azabu-Juban, Daikanyama and Jiyugaoka have the highest concentration of dog-welcoming cafes and restaurants, largely because of their international resident communities."
+        },
+        {
+          "q": "Do Tokyo cafes provide anything for dogs?",
+          "a": "Some dog-friendly cafes offer water bowls and a few even have dog menus, but do not assume it. Bring your own folding bowl, water and a mat to be safe."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je emmener mon chien à l`intérieur d`un restaurant à Tokyo ?", "a": "Rarement en salle. La plupart des adresses dog-friendly acceptent les chiens en laisse en terrasse ou à des places précises, et les petits chiens doivent souvent rester dans un sac ou sur vos genoux. Appelez toujours pour confirmer."},
-        {"q": "Quels quartiers de Tokyo sont les meilleurs pour manger avec un chien ?", "a": "Hiroo, Azabu-Juban, Daikanyama et Jiyugaoka concentrent le plus de cafés et restaurants dog-friendly, en grande partie grâce à leurs communautés internationales."},
-        {"q": "Les cafés de Tokyo prévoient-ils quelque chose pour les chiens ?", "a": "Certains cafés dog-friendly proposent des gamelles d`eau et quelques-uns un menu pour chiens, mais ne partez pas du principe que c`est le cas. Emportez votre gamelle pliable, de l`eau et un tapis par précaution."}
+        {
+          "q": "Puis-je emmener mon chien à l`intérieur d`un restaurant à Tokyo ?",
+          "a": "Rarement en salle. La plupart des adresses dog-friendly acceptent les chiens en laisse en terrasse ou à des places précises, et les petits chiens doivent souvent rester dans un sac ou sur vos genoux. Appelez toujours pour confirmer."
+        },
+        {
+          "q": "Quels quartiers de Tokyo sont les meilleurs pour manger avec un chien ?",
+          "a": "Hiroo, Azabu-Juban, Daikanyama et Jiyugaoka concentrent le plus de cafés et restaurants dog-friendly, en grande partie grâce à leurs communautés internationales."
+        },
+        {
+          "q": "Les cafés de Tokyo prévoient-ils quelque chose pour les chiens ?",
+          "a": "Certains cafés dog-friendly proposent des gamelles d`eau et quelques-uns un menu pour chiens, mais ne partez pas du principe que c`est le cas. Emportez votre gamelle pliable, de l`eau et un tapis par précaution."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo entrar con mi perro en un restaurante de Tokio?", "a": "Rara vez en el comedor interior. La mayoría de los locales dog-friendly admiten perros con correa en terraza o en asientos concretos, y a los perros pequeños se les suele pedir que vayan en transportín o en el regazo. Llama siempre para confirmar."},
-        {"q": "¿Qué barrios de Tokio son mejores para comer con perro?", "a": "Hiroo, Azabu-Juban, Daikanyama y Jiyugaoka concentran la mayor cantidad de cafés y restaurantes que admiten perros, en buena parte por sus comunidades internacionales."},
-        {"q": "¿Los cafés de Tokio ofrecen algo para los perros?", "a": "Algunos cafés dog-friendly ofrecen cuencos de agua y unos pocos hasta menú para perros, pero no lo des por hecho. Lleva tu propio cuenco plegable, agua y una manta por si acaso."}
+        {
+          "q": "¿Puedo entrar con mi perro en un restaurante de Tokio?",
+          "a": "Rara vez en el comedor interior. La mayoría de los locales dog-friendly admiten perros con correa en terraza o en asientos concretos, y a los perros pequeños se les suele pedir que vayan en transportín o en el regazo. Llama siempre para confirmar."
+        },
+        {
+          "q": "¿Qué barrios de Tokio son mejores para comer con perro?",
+          "a": "Hiroo, Azabu-Juban, Daikanyama y Jiyugaoka concentran la mayor cantidad de cafés y restaurantes que admiten perros, en buena parte por sus comunidades internacionales."
+        },
+        {
+          "q": "¿Los cafés de Tokio ofrecen algo para los perros?",
+          "a": "Algunos cafés dog-friendly ofrecen cuencos de agua y unos pocos hasta menú para perros, pero no lo des por hecho. Lleva tu propio cuenco plegable, agua y una manta por si acaso."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso entrar com o meu cão num restaurante de Tóquio?", "a": "Raramente na sala interior. A maioria dos locais dog-friendly aceita cães à trela na esplanada ou em lugares específicos, e aos cães pequenos costuma pedir-se que fiquem numa bolsa ou no colo. Ligue sempre para confirmar."},
-        {"q": "Que bairros de Tóquio são melhores para comer fora com um cão?", "a": "Hiroo, Azabu-Juban, Daikanyama e Jiyugaoka concentram o maior número de cafés e restaurantes que aceitam cães, em boa parte pelas suas comunidades internacionais."},
-        {"q": "Os cafés de Tóquio oferecem algo para os cães?", "a": "Alguns cafés dog-friendly oferecem tigelas de água e uns poucos até menu para cães, mas não conte com isso. Leve a sua própria tigela dobrável, água e uma manta por precaução."}
+        {
+          "q": "Posso entrar com o meu cão num restaurante de Tóquio?",
+          "a": "Raramente na sala interior. A maioria dos locais dog-friendly aceita cães à trela na esplanada ou em lugares específicos, e aos cães pequenos costuma pedir-se que fiquem numa bolsa ou no colo. Ligue sempre para confirmar."
+        },
+        {
+          "q": "Que bairros de Tóquio são melhores para comer fora com um cão?",
+          "a": "Hiroo, Azabu-Juban, Daikanyama e Jiyugaoka concentram o maior número de cafés e restaurantes que aceitam cães, em boa parte pelas suas comunidades internacionais."
+        },
+        {
+          "q": "Os cafés de Tóquio oferecem algo para os cães?",
+          "a": "Alguns cafés dog-friendly oferecem tigelas de água e uns poucos até menu para cães, mas não conte com isso. Leve a sua própria tigela dobrável, água e uma manta por precaução."
+        }
+      ],
+      "titleDe": "Hundefreundliche Restaurants & Cafés in Tokio",
+      "introDe": "Auswärts essen mit einem Hund funktioniert in Tokio am besten in den internationalen Vierteln Hiroo, Azabu-Juban und Daikanyama, wo sich Terrassen und hundefreundliche Lokale konzentrieren. Japanische Lokale erlauben Hunde selten in den Innenräumen, daher sollten Sie Terrassen oder Lokale ansteuern, die angeleinte Hunde ausdrücklich zulassen, und immer vorab anrufen, da sich die Regelungen ändern können.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in ein Tokioter Restaurant mitnehmen?",
+          "a": "Selten in den Innenraum. Die meisten hundefreundlichen Lokale setzen angeleinte Hunde auf eine Terrasse oder an bestimmte Plätze, und von kleinen Hunden wird oft erwartet, dass sie in einer Transportbox oder auf Ihrem Schoß bleiben. Rufen Sie immer vorab an, um dies zu bestätigen."
+        },
+        {
+          "q": "Welche Tokioter Viertel eignen sich am besten zum Essen mit Hund?",
+          "a": "Hiroo, Azabu-Juban, Daikanyama und Jiyugaoka haben die höchste Konzentration an hundefreundlichen Cafés und Restaurants, vor allem wegen ihrer internationalen Bewohner."
+        },
+        {
+          "q": "Bieten Tokioter Cafés etwas für Hunde an?",
+          "a": "Manche hundefreundlichen Cafés bieten Wassernäpfe an, einige haben sogar eine Hundespeisekarte, verlassen Sie sich aber nicht darauf. Bringen Sie sicherheitshalber einen eigenen Faltnapf, Wasser und eine Unterlage mit."
+        }
       ]
     },
     "parks": {
@@ -169,7 +233,11 @@
           "tipFr": "Apportez le certificat antirabique original, pas une copie, sinon le bureau vous refusera.",
           "tipEs": "Lleva el certificado antirrábico original, no una copia, o la oficina te rechazará.",
           "tipPt": "Leve o certificado antirrábico original, não uma cópia, ou o escritório recusa-o.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Yoyogi+Park+Dog+Run+Tokyo"
+          "googleMapsUrl": "https://www.google.com/maps/search/Yoyogi+Park+Dog+Run+Tokyo",
+          "descriptionDe": "Eine große eingezäunte Hundeauslauffläche von rund 3.600 Quadratmetern mitten im zentralen Yoyogi Park, unterteilt in separate Zonen für große, mittelgroße und sehr kleine Hunde. Sie liegt nur wenige Schritte von Harajuku entfernt und ist damit die praktischste Freilauffläche für Besucher, die im Gebiet Shibuya übernachten.",
+          "petPolicyDe": "Kostenloser Eintritt, jedoch ist zuvor eine Anmeldung im Parkbüro mit dem Original-Tollwutzertifikat erforderlich.",
+          "mustTryDe": "Die separate Zone für kleine Hunde, ideal für nervöse oder sehr kleine Hunde.",
+          "tipDe": "Bringen Sie das Original-Tollwutzertifikat mit, keine Kopie, sonst weist das Büro Sie ab."
         },
         {
           "name": "Komazawa Olympic Park Dog Run",
@@ -195,7 +263,11 @@
           "tipFr": "Inscrivez-vous tôt dans la journée, car le bureau ferme avant le parc.",
           "tipEs": "Regístrate temprano, porque la oficina cierra antes que el parque.",
           "tipPt": "Registe-se cedo, pois o escritório fecha antes do parque.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Komazawa+Olympic+Park+Dog+Run+Tokyo"
+          "googleMapsUrl": "https://www.google.com/maps/search/Komazawa+Olympic+Park+Dog+Run+Tokyo",
+          "descriptionDe": "Eine geräumige Hundeauslauffläche im Olympiapark von 1964 in Setagaya, nach Größe unterteilt in Zonen für Hunde bis 5 kg, 5 bis 12 kg und größere Hunde. Registrierte Nutzer haben freien Eintritt, und der umliegende Park bietet weite Rundwege zum angeleinten Spazierengehen.",
+          "petPolicyDe": "Eine Anmeldung im Verwaltungsbüro vor Ort ist vor der Nutzung der Fläche zwingend erforderlich; nicht registrierte Hunde werden abgewiesen.",
+          "mustTryDe": "Eine Runde auf dem baumgesäumten Jogging-Rundweg nach dem Besuch der Hundeauslauffläche.",
+          "tipDe": "Melden Sie sich früh am Tag an, da das Büro vor dem Park schließt."
         },
         {
           "name": "Kasai Rinkai Park Dog Run",
@@ -221,7 +293,11 @@
           "tipFr": "La chaleur au bord de la baie est intense en été ; promenez-vous tôt le matin et emportez beaucoup d`eau.",
           "tipEs": "El calor junto a la bahía es intenso en verano; pasea a primera hora y lleva mucha agua.",
           "tipPt": "O calor junto à baía é intenso no verão; passeie de manhã cedo e leve muita água.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Kasai+Rinkai+Park+Dog+Run+Tokyo"
+          "googleMapsUrl": "https://www.google.com/maps/search/Kasai+Rinkai+Park+Dog+Run+Tokyo",
+          "descriptionDe": "Eine Hundeauslauffläche in Tokios größtem Küstenpark, an der Bucht von Tokio im Stadtbezirk Edogawa, neben dem Aquarium und dem riesigen Riesenrad. Das weite, offene Gelände und die Meeresbrise machen ihn zu einem angenehmen Halbtagesausflug, der einen angeleinten Spaziergang an der Bucht mit Freilauf verbindet.",
+          "petPolicyDe": "Anmeldung im Parkbüro erforderlich; außerhalb der eingezäunten Fläche gilt überall Leinenpflicht.",
+          "mustTryDe": "Die Uferpromenade mit Blick auf die Rainbow Bridge.",
+          "tipDe": "Die Sommerhitze an der Bucht ist intensiv; früh morgens spazieren gehen und reichlich Wasser mitnehmen."
         }
       ],
       "tipsEn": [
@@ -245,24 +321,76 @@
         "As áreas dividem-se por tamanho ou peso, por isso verifique a que zona pertence o seu cão antes de entrar para evitar atritos com outros donos."
       ],
       "faqsEn": [
-        {"q": "Do I need to register to use a Tokyo dog run?", "a": "Yes, at almost all of them. You register once at the park office and must show the original rabies vaccination certificate. Bring the paper original, since copies and phone photos are typically refused."},
-        {"q": "Can my dog walk off-leash in Tokyo parks?", "a": "Only inside designated, fenced dog runs. Everywhere else, including the rest of the same park, dogs must stay on a leash at all times."},
-        {"q": "Are Tokyo dog runs free?", "a": "The major metropolitan-park runs at Yoyogi, Komazawa and Kasai Rinkai are free to registered users. Some private commercial dog runs elsewhere in the city charge an entry fee."}
+        {
+          "q": "Do I need to register to use a Tokyo dog run?",
+          "a": "Yes, at almost all of them. You register once at the park office and must show the original rabies vaccination certificate. Bring the paper original, since copies and phone photos are typically refused."
+        },
+        {
+          "q": "Can my dog walk off-leash in Tokyo parks?",
+          "a": "Only inside designated, fenced dog runs. Everywhere else, including the rest of the same park, dogs must stay on a leash at all times."
+        },
+        {
+          "q": "Are Tokyo dog runs free?",
+          "a": "The major metropolitan-park runs at Yoyogi, Komazawa and Kasai Rinkai are free to registered users. Some private commercial dog runs elsewhere in the city charge an entry fee."
+        }
       ],
       "faqsFr": [
-        {"q": "Dois-je m`inscrire pour utiliser un espace canin à Tokyo ?", "a": "Oui, dans presque tous. On s`inscrit une fois au bureau du parc et il faut présenter le certificat original de vaccination antirabique. Apportez l`original papier, car les copies et photos de téléphone sont généralement refusées."},
-        {"q": "Mon chien peut-il se promener sans laisse dans les parcs de Tokyo ?", "a": "Uniquement dans les espaces canins clôturés prévus à cet effet. Partout ailleurs, y compris dans le reste du même parc, les chiens doivent rester en laisse en permanence."},
-        {"q": "Les espaces canins de Tokyo sont-ils gratuits ?", "a": "Les grands espaces des parcs métropolitains de Yoyogi, Komazawa et Kasai Rinkai sont gratuits pour les usagers inscrits. Certains espaces canins commerciaux privés ailleurs en ville font payer l`entrée."}
+        {
+          "q": "Dois-je m`inscrire pour utiliser un espace canin à Tokyo ?",
+          "a": "Oui, dans presque tous. On s`inscrit une fois au bureau du parc et il faut présenter le certificat original de vaccination antirabique. Apportez l`original papier, car les copies et photos de téléphone sont généralement refusées."
+        },
+        {
+          "q": "Mon chien peut-il se promener sans laisse dans les parcs de Tokyo ?",
+          "a": "Uniquement dans les espaces canins clôturés prévus à cet effet. Partout ailleurs, y compris dans le reste du même parc, les chiens doivent rester en laisse en permanence."
+        },
+        {
+          "q": "Les espaces canins de Tokyo sont-ils gratuits ?",
+          "a": "Les grands espaces des parcs métropolitains de Yoyogi, Komazawa et Kasai Rinkai sont gratuits pour les usagers inscrits. Certains espaces canins commerciaux privés ailleurs en ville font payer l`entrée."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Necesito registrarme para usar un área canina en Tokio?", "a": "Sí, en casi todas. Te registras una vez en la oficina del parque y debes mostrar el certificado original de vacunación antirrábica. Lleva el original en papel, porque las copias y las fotos del móvil suelen rechazarse."},
-        {"q": "¿Mi perro puede ir sin correa en los parques de Tokio?", "a": "Solo dentro de las áreas caninas valladas y señalizadas. En todos los demás sitios, incluido el resto del mismo parque, los perros deben ir con correa en todo momento."},
-        {"q": "¿Las áreas caninas de Tokio son gratuitas?", "a": "Las grandes áreas de los parques metropolitanos de Yoyogi, Komazawa y Kasai Rinkai son gratuitas para usuarios registrados. Algunas áreas caninas comerciales privadas de la ciudad cobran entrada."}
+        {
+          "q": "¿Necesito registrarme para usar un área canina en Tokio?",
+          "a": "Sí, en casi todas. Te registras una vez en la oficina del parque y debes mostrar el certificado original de vacunación antirrábica. Lleva el original en papel, porque las copias y las fotos del móvil suelen rechazarse."
+        },
+        {
+          "q": "¿Mi perro puede ir sin correa en los parques de Tokio?",
+          "a": "Solo dentro de las áreas caninas valladas y señalizadas. En todos los demás sitios, incluido el resto del mismo parque, los perros deben ir con correa en todo momento."
+        },
+        {
+          "q": "¿Las áreas caninas de Tokio son gratuitas?",
+          "a": "Las grandes áreas de los parques metropolitanos de Yoyogi, Komazawa y Kasai Rinkai son gratuitas para usuarios registrados. Algunas áreas caninas comerciales privadas de la ciudad cobran entrada."
+        }
       ],
       "faqsPt": [
-        {"q": "Preciso de me registar para usar uma área canina em Tóquio?", "a": "Sim, em quase todas. Regista-se uma vez no escritório do parque e tem de mostrar o certificado original de vacinação antirrábica. Leve o original em papel, porque as cópias e fotos de telemóvel costumam ser recusadas."},
-        {"q": "O meu cão pode andar sem trela nos parques de Tóquio?", "a": "Apenas dentro das áreas caninas vedadas e assinaladas. Em todos os outros sítios, incluindo o resto do mesmo parque, os cães têm de andar à trela a toda a hora."},
-        {"q": "As áreas caninas de Tóquio são gratuitas?", "a": "As grandes áreas dos parques metropolitanos de Yoyogi, Komazawa e Kasai Rinkai são gratuitas para utilizadores registados. Algumas áreas caninas comerciais privadas na cidade cobram entrada."}
+        {
+          "q": "Preciso de me registar para usar uma área canina em Tóquio?",
+          "a": "Sim, em quase todas. Regista-se uma vez no escritório do parque e tem de mostrar o certificado original de vacinação antirrábica. Leve o original em papel, porque as cópias e fotos de telemóvel costumam ser recusadas."
+        },
+        {
+          "q": "O meu cão pode andar sem trela nos parques de Tóquio?",
+          "a": "Apenas dentro das áreas caninas vedadas e assinaladas. Em todos os outros sítios, incluindo o resto do mesmo parque, os cães têm de andar à trela a toda a hora."
+        },
+        {
+          "q": "As áreas caninas de Tóquio são gratuitas?",
+          "a": "As grandes áreas dos parques metropolitanos de Yoyogi, Komazawa e Kasai Rinkai são gratuitas para utilizadores registados. Algumas áreas caninas comerciais privadas na cidade cobram entrada."
+        }
+      ],
+      "titleDe": "Die besten Hundeparks & Hundeauslaufflächen in Tokio",
+      "introDe": "Tokio verfügt über ausgezeichnete eingezäunte Hundeauslaufflächen, doch fast alle erfordern eine kostenlose vorherige Anmeldung im Parkbüro mit dem Original-Tollwutimpfzertifikat Ihres Hundes. Außerhalb dieser Flächen müssen Hunde überall angeleint bleiben, und Freilauf in gewöhnlichen Parks ist nicht erlaubt.",
+      "faqsDe": [
+        {
+          "q": "Muss ich mich für eine Hundeauslauffläche in Tokio anmelden?",
+          "a": "Ja, bei fast allen. Sie melden sich einmalig im Parkbüro an und müssen das Original-Tollwutimpfzertifikat vorzeigen. Bringen Sie das Original in Papierform mit, da Kopien und Fotos auf dem Handy in der Regel nicht akzeptiert werden."
+        },
+        {
+          "q": "Darf mein Hund in Tokioter Parks ohne Leine laufen?",
+          "a": "Nur innerhalb ausgewiesener, eingezäunter Hundeauslaufflächen. Überall sonst, einschließlich des restlichen Parks, müssen Hunde jederzeit an der Leine bleiben."
+        },
+        {
+          "q": "Sind die Hundeauslaufflächen in Tokio kostenlos?",
+          "a": "Die großen städtischen Parkflächen in Yoyogi, Komazawa und Kasai Rinkai sind für registrierte Nutzer kostenlos. Einige private, kommerzielle Hundeauslaufflächen anderswo in der Stadt erheben eine Eintrittsgebühr."
+        }
       ]
     },
     "transport": {
@@ -299,7 +427,11 @@
           "tipFr": "Évitez l`heure de pointe : les trains de Tokyo sont extrêmement bondés et un sac est difficile à protéger aux heures d`affluence.",
           "tipEs": "Evita la hora punta: los trenes de Tokio van muy llenos y es difícil proteger un transportín en las horas de mayor afluencia.",
           "tipPt": "Evite a hora de ponta: os comboios de Tóquio vão muito cheios e é difícil proteger uma bolsa nas horas de maior afluência.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Sowohl JR East als auch die Tokyo Metro erlauben Hunde nur, wenn sie vollständig in einer Transportbox untergebracht sind, die während der gesamten Fahrt geschlossen bleibt, wobei Tier und Box zusammen innerhalb der kombinierten Größen- und Gewichtsgrenzen des Betreibers bleiben müssen (in etwa eine kompakte Box mit insgesamt unter rund 10 kg). JR erhebt eine geringe, am Fahrkartenschalter zu zahlende Handgepäckgebühr; bestätigen Sie die genauen aktuellen Grenzwerte vor der Fahrt beim Personal.",
+          "petPolicyDe": "Hunde müssen vollständig in einer geschlossenen Transportbox innerhalb der Größen- und Gewichtsgrenzen des Betreibers bleiben; bei JR fällt eine geringe Gebühr an.",
+          "mustTryDe": "Eine ruhige Fahrt außerhalb der Stoßzeiten mit der Box nach Kasai Rinkai oder Yoyogi.",
+          "tipDe": "Vermeiden Sie die Stoßzeiten: Tokioter Züge sind extrem überfüllt, und eine Box lässt sich zu Spitzenzeiten schwer schützen."
         },
         {
           "name": "Taxis (GO app and pet taxis)",
@@ -325,7 +457,11 @@
           "tipFr": "Ayez la caisse prête au bord du trottoir ; les chauffeurs acceptent plus volontiers un chien calme et contenu.",
           "tipEs": "Ten el transportín listo en la acera; los conductores aceptan más fácilmente a un perro tranquilo y contenido.",
           "tipPt": "Tenha a caixa pronta no passeio; os motoristas aceitam mais facilmente um cão calmo e contido.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Gewöhnliche Tokioter Taxis akzeptieren einen Hund in einer Box möglicherweise nach Ermessen des Fahrers, daher ist es hilfreich, den Hund in einer Box zu haben und vor dem Einsteigen zu fragen. Für größere Hunde gibt es in der ganzen Stadt spezialisierte Haustiertaxi-Unternehmen, die die zuverlässige Möglichkeit bieten, einen Hund zu transportieren, der nicht in eine Zugtransportbox passt.",
+          "petPolicyDe": "Reguläre Taxis akzeptieren Hunde in Boxen nach Ermessen des Fahrers; Haustiertaxi-Unternehmen nehmen größere Hunde nach Buchung mit.",
+          "mustTryDe": "Ein gebuchtes Haustiertaxi für einen großen Hund auf dem Weg zum Tierarzt.",
+          "tipDe": "Halten Sie die Box am Straßenrand bereit; Fahrer akzeptieren eher einen ruhigen, verstauten Hund."
         }
       ],
       "tipsEn": [
@@ -349,24 +485,76 @@
         "Para cães demasiado grandes para uma bolsa, use um táxi para animais reservado; os táxis normais só aceitam cães em caixa e só se o motorista concordar."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog on the Tokyo metro and JR trains?", "a": "Only if the dog stays fully inside a closed carrier for the whole ride, and the animal plus carrier stays within the operator`s size and weight limits (broadly a compact carrier under about 10 kg total). JR charges a small hand-luggage fee at the gate. Confirm exact current limits with staff."},
-        {"q": "How do I move a large dog around Tokyo?", "a": "Large and mid-size dogs cannot use the trains, since they will not fit a permitted carrier. Book a dedicated pet taxi, which is the standard reliable option for bigger dogs."},
-        {"q": "Do ordinary Tokyo taxis take dogs?", "a": "Sometimes, at the driver`s discretion, and usually only if the dog is in a carrier or crate. Have the dog contained and ask before getting in, or pre-book a pet taxi to be sure."}
+        {
+          "q": "Can I take my dog on the Tokyo metro and JR trains?",
+          "a": "Only if the dog stays fully inside a closed carrier for the whole ride, and the animal plus carrier stays within the operator`s size and weight limits (broadly a compact carrier under about 10 kg total). JR charges a small hand-luggage fee at the gate. Confirm exact current limits with staff."
+        },
+        {
+          "q": "How do I move a large dog around Tokyo?",
+          "a": "Large and mid-size dogs cannot use the trains, since they will not fit a permitted carrier. Book a dedicated pet taxi, which is the standard reliable option for bigger dogs."
+        },
+        {
+          "q": "Do ordinary Tokyo taxis take dogs?",
+          "a": "Sometimes, at the driver`s discretion, and usually only if the dog is in a carrier or crate. Have the dog contained and ask before getting in, or pre-book a pet taxi to be sure."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je prendre mon chien dans le métro de Tokyo et les trains JR ?", "a": "Seulement si le chien reste entièrement dans un sac fermé pendant tout le trajet, l`animal et le sac respectant les limites de taille et de poids de l`exploitant (grosso modo un sac compact de moins de 10 kg au total). JR facture un petit supplément bagage à main au guichet. Confirmez les limites exactes en vigueur auprès du personnel."},
-        {"q": "Comment déplacer un grand chien dans Tokyo ?", "a": "Les grands et moyens chiens ne peuvent pas prendre le train, car ils n`entrent pas dans un sac autorisé. Réservez un taxi animalier, l`option fiable standard pour les chiens plus grands."},
-        {"q": "Les taxis ordinaires de Tokyo prennent-ils les chiens ?", "a": "Parfois, à la discrétion du chauffeur, et en général seulement si le chien est en sac ou en caisse. Ayez le chien contenu et demandez avant de monter, ou réservez un taxi animalier pour être sûr."}
+        {
+          "q": "Puis-je prendre mon chien dans le métro de Tokyo et les trains JR ?",
+          "a": "Seulement si le chien reste entièrement dans un sac fermé pendant tout le trajet, l`animal et le sac respectant les limites de taille et de poids de l`exploitant (grosso modo un sac compact de moins de 10 kg au total). JR facture un petit supplément bagage à main au guichet. Confirmez les limites exactes en vigueur auprès du personnel."
+        },
+        {
+          "q": "Comment déplacer un grand chien dans Tokyo ?",
+          "a": "Les grands et moyens chiens ne peuvent pas prendre le train, car ils n`entrent pas dans un sac autorisé. Réservez un taxi animalier, l`option fiable standard pour les chiens plus grands."
+        },
+        {
+          "q": "Les taxis ordinaires de Tokyo prennent-ils les chiens ?",
+          "a": "Parfois, à la discrétion du chauffeur, et en général seulement si le chien est en sac ou en caisse. Ayez le chien contenu et demandez avant de monter, ou réservez un taxi animalier pour être sûr."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo llevar a mi perro en el metro de Tokio y los trenes JR?", "a": "Solo si el perro va totalmente dentro de un transportín cerrado durante todo el trayecto, y el animal más el transportín se mantienen dentro de los límites de tamaño y peso del operador (a grandes rasgos un transportín compacto de menos de unos 10 kg en total). JR cobra un pequeño suplemento de equipaje de mano en la taquilla. Confirma los límites exactos vigentes con el personal."},
-        {"q": "¿Cómo muevo a un perro grande por Tokio?", "a": "Los perros grandes y medianos no pueden usar los trenes, porque no caben en un transportín permitido. Reserva un taxi para mascotas, la opción fiable estándar para perros más grandes."},
-        {"q": "¿Los taxis normales de Tokio llevan perros?", "a": "A veces, a criterio del conductor, y normalmente solo si el perro va en transportín o jaula. Lleva al perro contenido y pregunta antes de subir, o reserva un taxi para mascotas para asegurarte."}
+        {
+          "q": "¿Puedo llevar a mi perro en el metro de Tokio y los trenes JR?",
+          "a": "Solo si el perro va totalmente dentro de un transportín cerrado durante todo el trayecto, y el animal más el transportín se mantienen dentro de los límites de tamaño y peso del operador (a grandes rasgos un transportín compacto de menos de unos 10 kg en total). JR cobra un pequeño suplemento de equipaje de mano en la taquilla. Confirma los límites exactos vigentes con el personal."
+        },
+        {
+          "q": "¿Cómo muevo a un perro grande por Tokio?",
+          "a": "Los perros grandes y medianos no pueden usar los trenes, porque no caben en un transportín permitido. Reserva un taxi para mascotas, la opción fiable estándar para perros más grandes."
+        },
+        {
+          "q": "¿Los taxis normales de Tokio llevan perros?",
+          "a": "A veces, a criterio del conductor, y normalmente solo si el perro va en transportín o jaula. Lleva al perro contenido y pregunta antes de subir, o reserva un taxi para mascotas para asegurarte."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso levar o meu cão no metro de Tóquio e nos comboios da JR?", "a": "Apenas se o cão for totalmente dentro de uma bolsa fechada durante todo o trajeto, e o animal mais a bolsa se mantiverem dentro dos limites de tamanho e peso do operador (grosso modo uma bolsa compacta com menos de cerca de 10 kg no total). A JR cobra um pequeno suplemento de bagagem de mão no guichet. Confirme os limites exatos em vigor com o pessoal."},
-        {"q": "Como movo um cão grande por Tóquio?", "a": "Os cães grandes e médios não podem usar os comboios, porque não cabem numa bolsa permitida. Reserve um táxi para animais, a opção fiável padrão para cães maiores."},
-        {"q": "Os táxis normais de Tóquio levam cães?", "a": "Às vezes, ao critério do motorista, e normalmente só se o cão for em bolsa ou caixa. Leve o cão contido e pergunte antes de entrar, ou reserve um táxi para animais para ter a certeza."}
+        {
+          "q": "Posso levar o meu cão no metro de Tóquio e nos comboios da JR?",
+          "a": "Apenas se o cão for totalmente dentro de uma bolsa fechada durante todo o trajeto, e o animal mais a bolsa se mantiverem dentro dos limites de tamanho e peso do operador (grosso modo uma bolsa compacta com menos de cerca de 10 kg no total). A JR cobra um pequeno suplemento de bagagem de mão no guichet. Confirme os limites exatos em vigor com o pessoal."
+        },
+        {
+          "q": "Como movo um cão grande por Tóquio?",
+          "a": "Os cães grandes e médios não podem usar os comboios, porque não cabem numa bolsa permitida. Reserve um táxi para animais, a opção fiável padrão para cães maiores."
+        },
+        {
+          "q": "Os táxis normais de Tóquio levam cães?",
+          "a": "Às vezes, ao critério do motorista, e normalmente só se o cão for em bolsa ou caixa. Leve o cão contido e pergunte antes de entrar, ou reserve um táxi para animais para ter a certeza."
+        }
+      ],
+      "titleDe": "Mit dem Hund in Tokio unterwegs",
+      "introDe": "In den Zügen von JR East und der Tokyo Metro werden Hunde als Handgepäck behandelt: Sie müssen die gesamte Fahrt über vollständig in einer geschlossenen Transportbox bleiben, und Tier plus Box dürfen die Größen- und Gewichtsgrenzen des Betreibers nicht überschreiten. Das macht es einfach, kleine Hunde durch die Stadt zu bewegen, schließt aber das Mitführen eines mittelgroßen oder großen Hundes im Bahnnetz aus.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in der Tokioter U-Bahn und in JR-Zügen mitnehmen?",
+          "a": "Nur wenn der Hund während der gesamten Fahrt vollständig in einer geschlossenen Transportbox bleibt und Tier plus Box innerhalb der Größen- und Gewichtsgrenzen des Betreibers liegen (in etwa eine kompakte Box mit insgesamt unter 10 kg). JR erhebt am Bahnsteig eine geringe Handgepäckgebühr. Bestätigen Sie die genauen aktuellen Grenzwerte beim Personal."
+        },
+        {
+          "q": "Wie transportiere ich einen großen Hund in Tokio?",
+          "a": "Große und mittelgroße Hunde können die Züge nicht nutzen, da sie in keine zulässige Transportbox passen. Buchen Sie ein spezielles Haustiertaxi, das für größere Hunde die zuverlässige Standardoption ist."
+        },
+        {
+          "q": "Nehmen gewöhnliche Tokioter Taxis Hunde mit?",
+          "a": "Manchmal, nach Ermessen des Fahrers, und meist nur, wenn der Hund in einer Box oder Transportbox ist. Sichern Sie den Hund und fragen Sie vor dem Einsteigen, oder buchen Sie sicherheitshalber vorab ein Haustiertaxi."
+        }
       ]
     },
     "beaches": {
@@ -403,7 +591,11 @@
           "tipFr": "Rincez les pattes sableuses et salées ensuite ; l`eau de la baie de Tokyo ne se prête pas à une vraie baignade du chien.",
           "tipEs": "Enjuaga después las patas con arena y sal; el agua de la bahía de Tokio no es para un baño completo del perro.",
           "tipPt": "Enxágue depois as patas com areia e sal; a água da baía de Tóquio não é para um banho completo do cão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Jonanjima+Seaside+Park+Tokyo"
+          "googleMapsUrl": "https://www.google.com/maps/search/Jonanjima+Seaside+Park+Tokyo",
+          "descriptionDe": "Ein entspannter Küstenpark am Rand der Bucht von Tokio in der Nähe des Flughafens Haneda, der einen Sandstrand, eine eingezäunte Hundeauslauffläche, einen Campingplatz und Grillbereiche verbindet. Flugzeuge im Landeanflug auf Haneda fliegen tief darüber hinweg und verleihen dem angeleinten Spaziergang an der Bucht eine unvergessliche Kulisse.",
+          "petPolicyDe": "Angeleinte Hunde willkommen am Strand und auf der Promenade; die eingezäunte Hundeauslauffläche erfordert eine Anmeldung.",
+          "mustTryDe": "Bei Abenddämmerung den Flugverkehr nach Haneda vom Sand aus beobachten.",
+          "tipDe": "Spülen Sie sandige, salzige Pfoten anschließend ab; das Wasser der Bucht von Tokio eignet sich nicht für ein vollständiges Hundebad."
         },
         {
           "name": "Odaiba Seaside Park",
@@ -429,7 +621,11 @@
           "tipFr": "Le sol chauffe beaucoup ici en été ; promenez-vous tôt ou tard et testez le sol avec la main.",
           "tipEs": "El pavimento aquí se calienta mucho en verano; pasea temprano o tarde y comprueba el suelo con la mano.",
           "tipPt": "O pavimento aqui aquece muito no verão; passeie cedo ou tarde e teste o chão com a mão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Odaiba+Seaside+Park+Tokyo"
+          "googleMapsUrl": "https://www.google.com/maps/search/Odaiba+Seaside+Park+Tokyo",
+          "descriptionDe": "Ein künstlicher Strand und eine lange Uferpromenade auf der Insel Odaiba, mit weiten offenen Wegen und Blick auf die Rainbow Bridge und die Skyline der Stadt. Angeleinte Hunde sind für einen Spaziergang entlang von Sand und Boardwalk willkommen, Schwimmen in der Bucht ist hier jedoch nicht erlaubt.",
+          "petPolicyDe": "Angeleinte Hunde willkommen auf Promenade und Sand; kein Hundeschwimmen in der Bucht.",
+          "mustTryDe": "Der Sonnenuntergangs-Spaziergang mit Skyline-Blick Richtung Rainbow Bridge.",
+          "tipDe": "Der Belag wird im Sommer hier sehr heiß; früh oder spät spazieren gehen und den Boden mit der Hand prüfen."
         }
       ],
       "tipsEn": [
@@ -453,24 +649,76 @@
         "Os paredões e costas artificiais podem estar afiados ou sujos; mantenha os cães à trela e verifique as patas depois, cortes e sal."
       ],
       "faqsEn": [
-        {"q": "Can my dog swim at Tokyo`s beaches?", "a": "Not really. Tokyo Bay beaches are mostly man-made and swimming is restricted for people and dogs alike. Treat spots like Jonanjima and Odaiba as seaside walking areas rather than dog-swimming beaches."},
-        {"q": "Where is the best waterfront spot for dogs in Tokyo?", "a": "Jonanjima Seaside Park is the standout, combining a sandy Tokyo Bay beach with a registered dog run near Haneda Airport. Odaiba Seaside Park is the most central option for a skyline promenade walk."},
-        {"q": "Are dogs allowed on the sand in Tokyo?", "a": "Leashed dogs are generally welcome to walk on the sand and promenade at bayside parks like Jonanjima and Odaiba, but off-leash play is limited to registered dog runs and full swimming in the bay is not allowed."}
+        {
+          "q": "Can my dog swim at Tokyo`s beaches?",
+          "a": "Not really. Tokyo Bay beaches are mostly man-made and swimming is restricted for people and dogs alike. Treat spots like Jonanjima and Odaiba as seaside walking areas rather than dog-swimming beaches."
+        },
+        {
+          "q": "Where is the best waterfront spot for dogs in Tokyo?",
+          "a": "Jonanjima Seaside Park is the standout, combining a sandy Tokyo Bay beach with a registered dog run near Haneda Airport. Odaiba Seaside Park is the most central option for a skyline promenade walk."
+        },
+        {
+          "q": "Are dogs allowed on the sand in Tokyo?",
+          "a": "Leashed dogs are generally welcome to walk on the sand and promenade at bayside parks like Jonanjima and Odaiba, but off-leash play is limited to registered dog runs and full swimming in the bay is not allowed."
+        }
       ],
       "faqsFr": [
-        {"q": "Mon chien peut-il se baigner sur les plages de Tokyo ?", "a": "Pas vraiment. Les plages de la baie de Tokyo sont surtout artificielles et la baignade est réglementée pour les humains comme pour les chiens. Considérez des lieux comme Jonanjima et Odaiba comme des zones de promenade en bord de mer plutôt que des plages de baignade pour chiens."},
-        {"q": "Où se trouve le meilleur front de mer pour les chiens à Tokyo ?", "a": "Le parc balnéaire de Jonanjima se distingue, mêlant une plage de sable de la baie de Tokyo et un espace canin inscrit près de l`aéroport de Haneda. Le parc balnéaire d`Odaiba est l`option la plus centrale pour une promenade face à la ligne d`horizon."},
-        {"q": "Les chiens sont-ils admis sur le sable à Tokyo ?", "a": "Les chiens en laisse peuvent en général marcher sur le sable et la promenade des parcs en bord de baie comme Jonanjima et Odaiba, mais le jeu sans laisse est limité aux espaces canins inscrits et la baignade complète dans la baie est interdite."}
+        {
+          "q": "Mon chien peut-il se baigner sur les plages de Tokyo ?",
+          "a": "Pas vraiment. Les plages de la baie de Tokyo sont surtout artificielles et la baignade est réglementée pour les humains comme pour les chiens. Considérez des lieux comme Jonanjima et Odaiba comme des zones de promenade en bord de mer plutôt que des plages de baignade pour chiens."
+        },
+        {
+          "q": "Où se trouve le meilleur front de mer pour les chiens à Tokyo ?",
+          "a": "Le parc balnéaire de Jonanjima se distingue, mêlant une plage de sable de la baie de Tokyo et un espace canin inscrit près de l`aéroport de Haneda. Le parc balnéaire d`Odaiba est l`option la plus centrale pour une promenade face à la ligne d`horizon."
+        },
+        {
+          "q": "Les chiens sont-ils admis sur le sable à Tokyo ?",
+          "a": "Les chiens en laisse peuvent en général marcher sur le sable et la promenade des parcs en bord de baie comme Jonanjima et Odaiba, mais le jeu sans laisse est limité aux espaces canins inscrits et la baignade complète dans la baie est interdite."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Mi perro puede bañarse en las playas de Tokio?", "a": "En realidad no. Las playas de la bahía de Tokio son en su mayoría artificiales y el baño está restringido tanto para personas como para perros. Considera sitios como Jonanjima y Odaiba zonas de paseo junto al mar más que playas de baño para perros."},
-        {"q": "¿Cuál es el mejor frente marítimo para perros en Tokio?", "a": "El parque marítimo de Jonanjima destaca, combinando una playa de arena de la bahía de Tokio con un área canina registrada cerca del aeropuerto de Haneda. El parque marítimo de Odaiba es la opción más céntrica para un paseo frente al perfil de la ciudad."},
-        {"q": "¿Se admiten perros en la arena en Tokio?", "a": "Los perros con correa suelen ser bienvenidos para caminar por la arena y el paseo de los parques junto a la bahía como Jonanjima y Odaiba, pero el juego sin correa se limita a las áreas caninas registradas y el baño completo en la bahía no está permitido."}
+        {
+          "q": "¿Mi perro puede bañarse en las playas de Tokio?",
+          "a": "En realidad no. Las playas de la bahía de Tokio son en su mayoría artificiales y el baño está restringido tanto para personas como para perros. Considera sitios como Jonanjima y Odaiba zonas de paseo junto al mar más que playas de baño para perros."
+        },
+        {
+          "q": "¿Cuál es el mejor frente marítimo para perros en Tokio?",
+          "a": "El parque marítimo de Jonanjima destaca, combinando una playa de arena de la bahía de Tokio con un área canina registrada cerca del aeropuerto de Haneda. El parque marítimo de Odaiba es la opción más céntrica para un paseo frente al perfil de la ciudad."
+        },
+        {
+          "q": "¿Se admiten perros en la arena en Tokio?",
+          "a": "Los perros con correa suelen ser bienvenidos para caminar por la arena y el paseo de los parques junto a la bahía como Jonanjima y Odaiba, pero el juego sin correa se limita a las áreas caninas registradas y el baño completo en la bahía no está permitido."
+        }
       ],
       "faqsPt": [
-        {"q": "O meu cão pode nadar nas praias de Tóquio?", "a": "Na verdade não. As praias da baía de Tóquio são na maioria artificiais e o banho é restrito tanto para pessoas como para cães. Encare sítios como Jonanjima e Odaiba como zonas de passeio junto ao mar mais do que praias de banho para cães."},
-        {"q": "Qual é a melhor frente marítima para cães em Tóquio?", "a": "O parque à beira-mar de Jonanjima destaca-se, combinando uma praia de areia da baía de Tóquio com uma área canina registada perto do aeroporto de Haneda. O parque à beira-mar de Odaiba é a opção mais central para um passeio frente ao horizonte da cidade."},
-        {"q": "Os cães são permitidos na areia em Tóquio?", "a": "Os cães à trela costumam ser bem-vindos para caminhar na areia e no passeio dos parques junto à baía como Jonanjima e Odaiba, mas a brincadeira sem trela limita-se às áreas caninas registadas e o banho completo na baía não é permitido."}
+        {
+          "q": "O meu cão pode nadar nas praias de Tóquio?",
+          "a": "Na verdade não. As praias da baía de Tóquio são na maioria artificiais e o banho é restrito tanto para pessoas como para cães. Encare sítios como Jonanjima e Odaiba como zonas de passeio junto ao mar mais do que praias de banho para cães."
+        },
+        {
+          "q": "Qual é a melhor frente marítima para cães em Tóquio?",
+          "a": "O parque à beira-mar de Jonanjima destaca-se, combinando uma praia de areia da baía de Tóquio com uma área canina registada perto do aeroporto de Haneda. O parque à beira-mar de Odaiba é a opção mais central para um passeio frente ao horizonte da cidade."
+        },
+        {
+          "q": "Os cães são permitidos na areia em Tóquio?",
+          "a": "Os cães à trela costumam ser bem-vindos para caminhar na areia e no passeio dos parques junto à baía como Jonanjima e Odaiba, mas a brincadeira sem trela limita-se às áreas caninas registadas e o banho completo na baía não é permitido."
+        }
+      ],
+      "titleDe": "Hundefreundliche Ufer- und Bucht-Spots in Tokio",
+      "introDe": "Tokio ist für Hunde keine Badestrand-Stadt: Die Küste der Bucht von Tokio besteht größtenteils aus aufgeschüttetem Land und künstlichen Stränden, an denen das Schwimmen im Meer eingeschränkt ist. Was es dafür bietet, sind angenehme Küstenparks mit sandigen Abschnitten und Uferpromenaden, an denen angeleinte Hunde für einen Spaziergang und ein Planschen am Wasserrand willkommen sind.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund an Tokios Stränden schwimmen?",
+          "a": "Nicht wirklich. Die Strände an der Bucht von Tokio sind größtenteils künstlich, und Schwimmen ist für Menschen wie Hunde gleichermaßen eingeschränkt. Betrachten Sie Orte wie Jonanjima und Odaiba eher als Spazierflächen am Meer denn als Hundeschwimmstrände."
+        },
+        {
+          "q": "Wo ist der beste Ufer-Spot für Hunde in Tokio?",
+          "a": "Der Jonanjima Seaside Park ist der Höhepunkt, er verbindet einen Sandstrand an der Bucht von Tokio mit einer registrierten Hundeauslauffläche in der Nähe des Flughafens Haneda. Der Odaiba Seaside Park ist die zentralste Option für einen Promenadenspaziergang mit Skyline-Blick."
+        },
+        {
+          "q": "Dürfen Hunde in Tokio auf den Sand?",
+          "a": "Angeleinte Hunde sind an Küstenparks wie Jonanjima und Odaiba grundsätzlich willkommen, auf dem Sand und der Promenade zu laufen, doch Freilauf ist auf registrierte Hundeauslaufflächen beschränkt, und vollständiges Schwimmen in der Bucht ist nicht erlaubt."
+        }
       ]
     },
     "vets": {
@@ -507,7 +755,11 @@
           "tipFr": "Téléphone : 03-3378-3366. Dites clairement que vous êtes anglophone pour que le personnel se prépare.",
           "tipEs": "Teléfono: 03-3378-3366. Di claramente que hablas inglés para que el personal se prepare.",
           "tipPt": "Telefone: 03-3378-3366. Diga claramente que fala inglês para que o pessoal se prepare.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Japan+Animal+Medical+Center+Honmachi+Shibuya+Tokyo"
+          "googleMapsUrl": "https://www.google.com/maps/search/Japan+Animal+Medical+Center+Honmachi+Shibuya+Tokyo",
+          "descriptionDe": "Eine seit langem etablierte Überweisungs- und Notfalltierklinik im Stadtbezirk Shibuya, die rund um die Uhr für dringende Fälle geöffnet ist. Die Klinik gibt an, englischsprachige Personen willkommen zu heißen, und bittet Erstbesucher, vorab anzurufen und ihre bevorzugte Sprache anzugeben.",
+          "petPolicyDe": "24-Stunden-Notfallversorgung; vorab anrufen und angeben, dass Sie englischsprachige Unterstützung benötigen.",
+          "mustTryDe": "Speichern Sie die Nummer, bevor Sie sie brauchen.",
+          "tipDe": "Telefon: 03-3378-3366. Sagen Sie klar, dass Sie Englisch sprechen, damit sich das Personal vorbereiten kann."
         },
         {
           "name": "Daktari Animal Hospital Tokyo Medical Center",
@@ -533,7 +785,11 @@
           "tipFr": "Téléphone : 03-5420-0012. Confirmez l`assistance en anglais à l`appel pour qu`ils s`organisent.",
           "tipEs": "Teléfono: 03-5420-0012. Confirma el soporte en inglés al llamar para que se organicen.",
           "tipPt": "Telefone: 03-5420-0012. Confirme o apoio em inglês ao ligar para que se organizem.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Daktari+Animal+Hospital+Shirokanedai+Minato+Tokyo"
+          "googleMapsUrl": "https://www.google.com/maps/search/Daktari+Animal+Hospital+Shirokanedai+Minato+Tokyo",
+          "descriptionDe": "Eine Tierklinik im Gebiet Shirokanedai im Stadtbezirk Minato, bekannt als die erste Klinik außerhalb Nordamerikas, die von der American Animal Hospital Association akkreditiert wurde. Sie bietet 24 Stunden am Tag, 365 Tage im Jahr Notfallversorgung und führt Informationen auf Englisch für internationale Kunden.",
+          "petPolicyDe": "24/7-Notfallversorgung; englischsprachige Informationen verfügbar, für die Versorgung außerhalb der Öffnungszeiten vorab anrufen.",
+          "mustTryDe": "Behalten Sie diese Klinik als Ausweichoption zur Klinik in Shibuya, falls Sie in Minato übernachten.",
+          "tipDe": "Telefon: 03-5420-0012. Bestätigen Sie beim Anruf den englischsprachigen Support, damit entsprechend Personal eingeplant werden kann."
         }
       ],
       "tipsEn": [
@@ -557,24 +813,76 @@
         "O atendimento noturno costuma funcionar com menos pessoal e triagem telefónica, por isso ligue antes em vez de aparecer sem avisar."
       ],
       "faqsEn": [
-        {"q": "Is there a 24-hour vet in Tokyo?", "a": "Yes. Japan Animal Medical Center in Shibuya and Daktari Animal Hospital in Minato both provide around-the-clock emergency care. Call ahead, since night hours often mean reduced staffing."},
-        {"q": "Are there English-speaking vets in Tokyo?", "a": "Some clinics explicitly help English speakers. JAMC asks you to mention your language when booking, and Daktari maintains English information. Confirm English support by phone before your visit."},
-        {"q": "What should I do in a pet emergency in Tokyo?", "a": "Phone a 24-hour hospital first rather than travelling blind, describe the problem and say you need English help. If your dog is too large for a train carrier, book a pet taxi to get there."}
+        {
+          "q": "Is there a 24-hour vet in Tokyo?",
+          "a": "Yes. Japan Animal Medical Center in Shibuya and Daktari Animal Hospital in Minato both provide around-the-clock emergency care. Call ahead, since night hours often mean reduced staffing."
+        },
+        {
+          "q": "Are there English-speaking vets in Tokyo?",
+          "a": "Some clinics explicitly help English speakers. JAMC asks you to mention your language when booking, and Daktari maintains English information. Confirm English support by phone before your visit."
+        },
+        {
+          "q": "What should I do in a pet emergency in Tokyo?",
+          "a": "Phone a 24-hour hospital first rather than travelling blind, describe the problem and say you need English help. If your dog is too large for a train carrier, book a pet taxi to get there."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il un vétérinaire ouvert 24h/24 à Tokyo ?", "a": "Oui. Le Japan Animal Medical Center à Shibuya et la clinique Daktari à Minato assurent tous deux des urgences en continu. Appelez à l`avance, car les horaires de nuit impliquent souvent un personnel réduit."},
-        {"q": "Existe-t-il des vétérinaires anglophones à Tokyo ?", "a": "Certaines cliniques aident explicitement les anglophones. JAMC vous demande de préciser votre langue à la prise de rendez-vous, et Daktari propose des informations en anglais. Confirmez l`assistance en anglais par téléphone avant votre visite."},
-        {"q": "Que faire en cas d`urgence avec mon animal à Tokyo ?", "a": "Appelez d`abord une clinique 24h/24 plutôt que de partir à l`aveugle, décrivez le problème et dites que vous avez besoin d`aide en anglais. Si votre chien est trop grand pour un sac de train, réservez un taxi animalier pour vous y rendre."}
+        {
+          "q": "Y a-t-il un vétérinaire ouvert 24h/24 à Tokyo ?",
+          "a": "Oui. Le Japan Animal Medical Center à Shibuya et la clinique Daktari à Minato assurent tous deux des urgences en continu. Appelez à l`avance, car les horaires de nuit impliquent souvent un personnel réduit."
+        },
+        {
+          "q": "Existe-t-il des vétérinaires anglophones à Tokyo ?",
+          "a": "Certaines cliniques aident explicitement les anglophones. JAMC vous demande de préciser votre langue à la prise de rendez-vous, et Daktari propose des informations en anglais. Confirmez l`assistance en anglais par téléphone avant votre visite."
+        },
+        {
+          "q": "Que faire en cas d`urgence avec mon animal à Tokyo ?",
+          "a": "Appelez d`abord une clinique 24h/24 plutôt que de partir à l`aveugle, décrivez le problème et dites que vous avez besoin d`aide en anglais. Si votre chien est trop grand pour un sac de train, réservez un taxi animalier pour vous y rendre."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay un veterinario 24 horas en Tokio?", "a": "Sí. El Japan Animal Medical Center en Shibuya y el hospital Daktari en Minato ofrecen urgencias ininterrumpidas. Llama antes, porque el horario nocturno suele implicar menos personal."},
-        {"q": "¿Hay veterinarios que hablen inglés en Tokio?", "a": "Algunas clínicas ayudan explícitamente a los angloparlantes. JAMC te pide indicar tu idioma al reservar, y Daktari mantiene información en inglés. Confirma el soporte en inglés por teléfono antes de tu visita."},
-        {"q": "¿Qué hago en una urgencia con mi mascota en Tokio?", "a": "Llama primero a un hospital 24 horas en lugar de ir a ciegas, describe el problema y di que necesitas ayuda en inglés. Si tu perro es demasiado grande para un transportín de tren, reserva un taxi para mascotas para llegar."}
+        {
+          "q": "¿Hay un veterinario 24 horas en Tokio?",
+          "a": "Sí. El Japan Animal Medical Center en Shibuya y el hospital Daktari en Minato ofrecen urgencias ininterrumpidas. Llama antes, porque el horario nocturno suele implicar menos personal."
+        },
+        {
+          "q": "¿Hay veterinarios que hablen inglés en Tokio?",
+          "a": "Algunas clínicas ayudan explícitamente a los angloparlantes. JAMC te pide indicar tu idioma al reservar, y Daktari mantiene información en inglés. Confirma el soporte en inglés por teléfono antes de tu visita."
+        },
+        {
+          "q": "¿Qué hago en una urgencia con mi mascota en Tokio?",
+          "a": "Llama primero a un hospital 24 horas en lugar de ir a ciegas, describe el problema y di que necesitas ayuda en inglés. Si tu perro es demasiado grande para un transportín de tren, reserva un taxi para mascotas para llegar."
+        }
       ],
       "faqsPt": [
-        {"q": "Há um veterinário 24 horas em Tóquio?", "a": "Sim. O Japan Animal Medical Center em Shibuya e o hospital Daktari em Minato oferecem urgências ininterruptas. Ligue antes, porque o horário noturno costuma implicar menos pessoal."},
-        {"q": "Há veterinários que falem inglês em Tóquio?", "a": "Algumas clínicas ajudam explicitamente falantes de inglês. O JAMC pede que indique o seu idioma ao marcar, e o Daktari mantém informação em inglês. Confirme o apoio em inglês por telefone antes da sua visita."},
-        {"q": "O que faço numa emergência com o meu animal em Tóquio?", "a": "Ligue primeiro para um hospital 24 horas em vez de ir às cegas, descreva o problema e diga que precisa de ajuda em inglês. Se o seu cão for demasiado grande para uma bolsa de comboio, reserve um táxi para animais para lá chegar."}
+        {
+          "q": "Há um veterinário 24 horas em Tóquio?",
+          "a": "Sim. O Japan Animal Medical Center em Shibuya e o hospital Daktari em Minato oferecem urgências ininterruptas. Ligue antes, porque o horário noturno costuma implicar menos pessoal."
+        },
+        {
+          "q": "Há veterinários que falem inglês em Tóquio?",
+          "a": "Algumas clínicas ajudam explicitamente falantes de inglês. O JAMC pede que indique o seu idioma ao marcar, e o Daktari mantém informação em inglês. Confirme o apoio em inglês por telefone antes da sua visita."
+        },
+        {
+          "q": "O que faço numa emergência com o meu animal em Tóquio?",
+          "a": "Ligue primeiro para um hospital 24 horas em vez de ir às cegas, descreva o problema e diga que precisa de ajuda em inglês. Se o seu cão for demasiado grande para uma bolsa de comboio, reserve um táxi para animais para lá chegar."
+        }
+      ],
+      "titleDe": "Notfalltierärzte & Tierkliniken in Tokio",
+      "introDe": "Tokio verfügt über mehrere 24-Stunden-Tiernotfallkliniken, und einige heißen ausdrücklich englischsprachige Besitzer willkommen, was wichtig ist, wenn Ihr Hund im Ausland erkrankt. Speichern Sie vor der Reise mindestens eine Nummer und rufen Sie vorab an, da außerhalb der regulären Zeiten oft mit reduzierter Besetzung und Terminvergabe gearbeitet wird.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Tokio einen 24-Stunden-Tierarzt?",
+          "a": "Ja. Das Japan Animal Medical Center in Shibuya und das Daktari Animal Hospital in Minato bieten beide eine rund um die Uhr verfügbare Notfallversorgung. Rufen Sie vorab an, da nachts oft mit reduzierter Besetzung gearbeitet wird."
+        },
+        {
+          "q": "Gibt es in Tokio englischsprachige Tierärzte?",
+          "a": "Einige Kliniken helfen ausdrücklich englischsprachigen Personen. Das JAMC bittet Sie, bei der Buchung Ihre Sprache anzugeben, und Daktari führt Informationen auf Englisch. Bestätigen Sie den englischsprachigen Support vor Ihrem Besuch telefonisch."
+        },
+        {
+          "q": "Was sollte ich bei einem Haustiernotfall in Tokio tun?",
+          "a": "Rufen Sie zuerst eine 24-Stunden-Klinik an, statt blind loszufahren, beschreiben Sie das Problem und sagen Sie, dass Sie englischsprachige Hilfe benötigen. Wenn Ihr Hund zu groß für eine Zugtransportbox ist, buchen Sie ein Haustiertaxi, um dorthin zu gelangen."
+        }
       ]
     },
     "tips": {
@@ -608,24 +916,76 @@
         "O verão em Tóquio é quente e muito húmido: passeie ao amanhecer ou à noite, teste o pavimento com a mão e leve água para todo o lado."
       ],
       "faqsEn": [
-        {"q": "Is Tokyo a good city to visit with a dog?", "a": "Yes for small, carrier-sized dogs and prepared owners. The city is clean and orderly with excellent dog runs and 24-hour vets, but rules are strict: carrier-only trains, leashes everywhere, and few indoor-dining venues. Large dogs are harder to manage."},
-        {"q": "What documents do I need for my dog in Tokyo?", "a": "Keep your dog`s rabies vaccination certificate on hand, as the original is required to register at public dog runs. International arrivals must also meet Japan`s separate import and quarantine rules, which should be arranged well before travel."},
-        {"q": "When is the best time to visit Tokyo with a dog?", "a": "Spring and autumn are ideal, with mild temperatures for walking. Avoid the hot, humid summer and the June to July rainy season, and watch for typhoon disruption around September."}
+        {
+          "q": "Is Tokyo a good city to visit with a dog?",
+          "a": "Yes for small, carrier-sized dogs and prepared owners. The city is clean and orderly with excellent dog runs and 24-hour vets, but rules are strict: carrier-only trains, leashes everywhere, and few indoor-dining venues. Large dogs are harder to manage."
+        },
+        {
+          "q": "What documents do I need for my dog in Tokyo?",
+          "a": "Keep your dog`s rabies vaccination certificate on hand, as the original is required to register at public dog runs. International arrivals must also meet Japan`s separate import and quarantine rules, which should be arranged well before travel."
+        },
+        {
+          "q": "When is the best time to visit Tokyo with a dog?",
+          "a": "Spring and autumn are ideal, with mild temperatures for walking. Avoid the hot, humid summer and the June to July rainy season, and watch for typhoon disruption around September."
+        }
       ],
       "faqsFr": [
-        {"q": "Tokyo est-elle une bonne ville à visiter avec un chien ?", "a": "Oui pour les petits chiens de taille sac et les propriétaires bien préparés. La ville est propre et ordonnée, avec d`excellents espaces canins et des vétérinaires 24h/24, mais les règles sont strictes : trains uniquement en sac, laisse partout et peu d`adresses admettant les chiens en salle. Les grands chiens sont plus difficiles à gérer."},
-        {"q": "Quels documents faut-il pour mon chien à Tokyo ?", "a": "Gardez sur vous le certificat de vaccination antirabique de votre chien, car l`original est exigé pour s`inscrire aux espaces canins publics. Les arrivées internationales doivent aussi respecter les règles d`importation et de quarantaine propres au Japon, à organiser bien avant le voyage."},
-        {"q": "Quel est le meilleur moment pour visiter Tokyo avec un chien ?", "a": "Le printemps et l`automne sont idéaux, avec des températures douces pour marcher. Évitez l`été chaud et humide et la saison des pluies de juin à juillet, et surveillez les perturbations liées aux typhons autour de septembre."}
+        {
+          "q": "Tokyo est-elle une bonne ville à visiter avec un chien ?",
+          "a": "Oui pour les petits chiens de taille sac et les propriétaires bien préparés. La ville est propre et ordonnée, avec d`excellents espaces canins et des vétérinaires 24h/24, mais les règles sont strictes : trains uniquement en sac, laisse partout et peu d`adresses admettant les chiens en salle. Les grands chiens sont plus difficiles à gérer."
+        },
+        {
+          "q": "Quels documents faut-il pour mon chien à Tokyo ?",
+          "a": "Gardez sur vous le certificat de vaccination antirabique de votre chien, car l`original est exigé pour s`inscrire aux espaces canins publics. Les arrivées internationales doivent aussi respecter les règles d`importation et de quarantaine propres au Japon, à organiser bien avant le voyage."
+        },
+        {
+          "q": "Quel est le meilleur moment pour visiter Tokyo avec un chien ?",
+          "a": "Le printemps et l`automne sont idéaux, avec des températures douces pour marcher. Évitez l`été chaud et humide et la saison des pluies de juin à juillet, et surveillez les perturbations liées aux typhons autour de septembre."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Tokio una buena ciudad para visitar con un perro?", "a": "Sí para perros pequeños de tamaño transportín y dueños preparados. La ciudad es limpia y ordenada, con excelentes áreas caninas y veterinarios 24 horas, pero las normas son estrictas: trenes solo en transportín, correa en todas partes y pocos locales que admitan perros en interior. Los perros grandes son más difíciles de gestionar."},
-        {"q": "¿Qué documentos necesito para mi perro en Tokio?", "a": "Lleva a mano el certificado de vacunación antirrábica de tu perro, porque el original es obligatorio para registrarse en las áreas caninas públicas. Las llegadas internacionales también deben cumplir las normas de importación y cuarentena propias de Japón, que conviene organizar mucho antes de viajar."},
-        {"q": "¿Cuál es la mejor época para visitar Tokio con un perro?", "a": "La primavera y el otoño son ideales, con temperaturas suaves para caminar. Evita el verano caluroso y húmedo y la temporada de lluvias de junio a julio, y ten en cuenta las alteraciones por tifones en torno a septiembre."}
+        {
+          "q": "¿Es Tokio una buena ciudad para visitar con un perro?",
+          "a": "Sí para perros pequeños de tamaño transportín y dueños preparados. La ciudad es limpia y ordenada, con excelentes áreas caninas y veterinarios 24 horas, pero las normas son estrictas: trenes solo en transportín, correa en todas partes y pocos locales que admitan perros en interior. Los perros grandes son más difíciles de gestionar."
+        },
+        {
+          "q": "¿Qué documentos necesito para mi perro en Tokio?",
+          "a": "Lleva a mano el certificado de vacunación antirrábica de tu perro, porque el original es obligatorio para registrarse en las áreas caninas públicas. Las llegadas internacionales también deben cumplir las normas de importación y cuarentena propias de Japón, que conviene organizar mucho antes de viajar."
+        },
+        {
+          "q": "¿Cuál es la mejor época para visitar Tokio con un perro?",
+          "a": "La primavera y el otoño son ideales, con temperaturas suaves para caminar. Evita el verano caluroso y húmedo y la temporada de lluvias de junio a julio, y ten en cuenta las alteraciones por tifones en torno a septiembre."
+        }
       ],
       "faqsPt": [
-        {"q": "Tóquio é uma boa cidade para visitar com um cão?", "a": "Sim para cães pequenos do tamanho de bolsa e donos preparados. A cidade é limpa e ordeira, com excelentes áreas caninas e veterinários 24 horas, mas as regras são rígidas: comboios só em bolsa, trela em todo o lado e poucos locais que admitam cães no interior. Os cães grandes são mais difíceis de gerir."},
-        {"q": "Que documentos preciso para o meu cão em Tóquio?", "a": "Tenha à mão o certificado de vacinação antirrábica do seu cão, porque o original é obrigatório para se registar nas áreas caninas públicas. As chegadas internacionais também têm de cumprir as regras de importação e quarentena próprias do Japão, que devem ser tratadas muito antes da viagem."},
-        {"q": "Qual é a melhor altura para visitar Tóquio com um cão?", "a": "A primavera e o outono são ideais, com temperaturas amenas para caminhar. Evite o verão quente e húmido e a época das chuvas de junho a julho, e atenção às perturbações por tufões por volta de setembro."}
+        {
+          "q": "Tóquio é uma boa cidade para visitar com um cão?",
+          "a": "Sim para cães pequenos do tamanho de bolsa e donos preparados. A cidade é limpa e ordeira, com excelentes áreas caninas e veterinários 24 horas, mas as regras são rígidas: comboios só em bolsa, trela em todo o lado e poucos locais que admitam cães no interior. Os cães grandes são mais difíceis de gerir."
+        },
+        {
+          "q": "Que documentos preciso para o meu cão em Tóquio?",
+          "a": "Tenha à mão o certificado de vacinação antirrábica do seu cão, porque o original é obrigatório para se registar nas áreas caninas públicas. As chegadas internacionais também têm de cumprir as regras de importação e quarentena próprias do Japão, que devem ser tratadas muito antes da viagem."
+        },
+        {
+          "q": "Qual é a melhor altura para visitar Tóquio com um cão?",
+          "a": "A primavera e o outono são ideais, com temperaturas amenas para caminhar. Evite o verão quente e húmido e a época das chuvas de junho a julho, e atenção às perturbações por tufões por volta de setembro."
+        }
+      ],
+      "titleDe": "Wichtige Tipps für einen Tokio-Besuch mit Hund",
+      "introDe": "Tokio belohnt gute Planung: Die Haustierregeln sind strenger und wörtlicher als in weiten Teilen Europas, doch die Stadt ist sauber, geordnet und für kleine Hunde bestens eingerichtet, sobald man das System kennt. Führen Sie die Tollwutunterlagen Ihres Hundes mit sich, rechnen Sie mit reiner Transportbox-Pflicht in Zügen und planen Sie die brutale Sommerhitze mit ein.",
+      "faqsDe": [
+        {
+          "q": "Ist Tokio eine gute Stadt für einen Besuch mit Hund?",
+          "a": "Ja, für kleine, boxentaugliche Hunde und vorbereitete Besitzer. Die Stadt ist sauber und geordnet, mit ausgezeichneten Hundeauslaufflächen und 24-Stunden-Tierärzten, doch die Regeln sind streng: reine Transportbox-Pflicht in Zügen, überall Leinenpflicht und wenige Lokale mit Innenbewirtung für Hunde. Große Hunde sind schwieriger zu handhaben."
+        },
+        {
+          "q": "Welche Unterlagen brauche ich für meinen Hund in Tokio?",
+          "a": "Halten Sie das Tollwutimpfzertifikat Ihres Hundes bereit, da das Original für die Anmeldung an öffentlichen Hundeauslaufflächen erforderlich ist. Internationale Einreisende müssen zudem Japans separate Einfuhr- und Quarantänebestimmungen erfüllen, die weit im Voraus organisiert werden sollten."
+        },
+        {
+          "q": "Wann ist die beste Zeit für einen Tokio-Besuch mit Hund?",
+          "a": "Frühling und Herbst sind ideal, mit milden Temperaturen zum Spazierengehen. Meiden Sie den heißen, feuchten Sommer und die Regenzeit von Juni bis Juli, und achten Sie um September auf mögliche Taifun-Störungen."
+        }
       ]
     },
     "attractions": {
@@ -662,7 +1022,11 @@
           "tipFr": "Réservez un départ plus calme et gardez votre chien en laisse et tranquille près de la passerelle.",
           "tipEs": "Reserva una salida más tranquila y mantén a tu perro con correa y calmado junto a la pasarela.",
           "tipPt": "Reserve uma partida mais tranquila e mantenha o seu cão à trela e calmo junto à ponte de embarque.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Ausgewählte Wasserbus- und Flusskreuzfahrt-Dienste in Tokio erlauben einen angeleinten Hund an Bord, sodass Sie den Sumida-Fluss bis zur Bucht besichtigen können, ohne überfüllte Züge zu nutzen. Die Regelungen variieren je nach Betreiber und Route, bestätigen Sie also bei der Buchung die Hunderegel sowie etwaige Alters- oder Leinenanforderungen.",
+          "petPolicyDe": "Manche Betreiber erlauben einen angeleinten Hund an Bord; bestätigen Sie die Regel je nach Route bei der Buchung.",
+          "mustTryDe": "Die Route von Asakusa nach Odaiba vorbei an der Rainbow Bridge.",
+          "tipDe": "Buchen Sie eine ruhigere Abfahrt und halten Sie Ihren Hund an der Anlegestelle angeleint und ruhig."
         },
         {
           "name": "Shibuya & the Hachiko Statue",
@@ -688,7 +1052,11 @@
           "tipFr": "Venez tôt le matin : le carrefour est plus calme et plus frais pour les pattes et les nerfs.",
           "tipEs": "Ve a primera hora: el cruce está más tranquilo y fresco para las patas y los nervios.",
           "tipPt": "Vá de manhã cedo: o cruzamento está mais calmo e fresco para as patas e os nervos.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Hachiko+Statue+Shibuya+Tokyo"
+          "googleMapsUrl": "https://www.google.com/maps/search/Hachiko+Statue+Shibuya+Tokyo",
+          "descriptionDe": "Die Bronzestatue von Hachiko, dem treuen Akita, der jahrelang auf seinen Besitzer wartete, steht vor dem Bahnhof Shibuya und ist ein passender erster Stopp für jeden Hundeliebhaber. Die umliegenden Straßen und die berühmte Shibuya-Kreuzung sind außerhalb der stärksten Stoßzeiten mit angeleintem Hund begehbar.",
+          "petPolicyDe": "Öffentlicher Außenbereich; Hunde angeleint halten und den stärksten Berufsverkehr meiden.",
+          "mustTryDe": "Ein Foto an der Hachiko-Statue, danach ein ruhiger Spaziergang durch Seitenstraßen.",
+          "tipDe": "Besuchen Sie früh morgens: Die Kreuzung ist ruhiger und kühler für Pfoten und Nerven."
         },
         {
           "name": "Odaiba Waterfront Walk",
@@ -714,7 +1082,11 @@
           "tipFr": "Privilégiez la croisière en laisse ou un taxi animalier plutôt que le Yurikamome bondé aux heures de pointe.",
           "tipEs": "Opta por el crucero con correa o un taxi para mascotas en vez del abarrotado Yurikamome en hora punta.",
           "tipPt": "Opte pelo cruzeiro à trela ou um táxi para animais em vez do apinhado Yurikamome na hora de ponta.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Odaiba+Seaside+Park+Tokyo"
+          "googleMapsUrl": "https://www.google.com/maps/search/Odaiba+Seaside+Park+Tokyo",
+          "descriptionDe": "Die Insel Odaiba bietet eine lange, offene Uferzone aus Parks und Boardwalks mit Blick auf Skyline und Rainbow Bridge, ideal für einen angeleinten Spaziergang abseits der Menschenmassen. Mehrere der Außencafés und Terrassen dort tolerieren Hunde, sodass sich ein Spaziergang leicht mit einer Kaffeepause verbinden lässt.",
+          "petPolicyDe": "Offene Uferzone zugänglich für angeleinte Hunde; Einkaufszentren und Attraktionen im Innenbereich in der Regel nicht.",
+          "mustTryDe": "Der Boardwalk zur Nachbildung der Freiheitsstatue und zur Rainbow Bridge.",
+          "tipDe": "Nehmen Sie die angeleinte Kreuzfahrt oder ein Haustiertaxi statt der überfüllten Yurikamome zu Stoßzeiten."
         }
       ],
       "tipsEn": [
@@ -738,24 +1110,76 @@
         "Organize-se em torno do calor e das multidões: de manhã cedo os cruzamentos estão mais calmos, o pavimento mais fresco e o embarque dos barcos mais tranquilo."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog to Tokyo temples like Sensoji?", "a": "Leashed dogs can generally walk the outer public streets and approaches around famous temples, but the inner sacred precincts and buildings usually do not admit dogs. Treat temple visits as an outdoor photo stop rather than a full interior visit."},
-        {"q": "Are there dog-friendly things to do indoors in Tokyo?", "a": "Very few beyond dedicated dog cafes and pet-welcoming venues. Most museums, aquariums and indoor attractions do not admit dogs, so plan an outdoor itinerary and use dog cafes for indoor breaks."},
-        {"q": "Can dogs go on Tokyo boat cruises?", "a": "Some water-bus and river-cruise operators allow a leashed dog on board, often with age or leash conditions. It varies by operator and route, so confirm the pet policy directly before booking."}
+        {
+          "q": "Can I take my dog to Tokyo temples like Sensoji?",
+          "a": "Leashed dogs can generally walk the outer public streets and approaches around famous temples, but the inner sacred precincts and buildings usually do not admit dogs. Treat temple visits as an outdoor photo stop rather than a full interior visit."
+        },
+        {
+          "q": "Are there dog-friendly things to do indoors in Tokyo?",
+          "a": "Very few beyond dedicated dog cafes and pet-welcoming venues. Most museums, aquariums and indoor attractions do not admit dogs, so plan an outdoor itinerary and use dog cafes for indoor breaks."
+        },
+        {
+          "q": "Can dogs go on Tokyo boat cruises?",
+          "a": "Some water-bus and river-cruise operators allow a leashed dog on board, often with age or leash conditions. It varies by operator and route, so confirm the pet policy directly before booking."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je emmener mon chien dans les temples de Tokyo comme le Sensoji ?", "a": "Les chiens en laisse peuvent en général parcourir les rues publiques et les abords des temples célèbres, mais l`enceinte sacrée intérieure et les bâtiments n`admettent en général pas les chiens. Considérez la visite d`un temple comme un arrêt photo en extérieur plutôt qu`une visite intérieure complète."},
-        {"q": "Y a-t-il des activités dog-friendly en intérieur à Tokyo ?", "a": "Très peu, en dehors des dog cafés et des lieux admettant les animaux. La plupart des musées, aquariums et attractions couvertes n`admettent pas les chiens : prévoyez un itinéraire en plein air et utilisez les dog cafés pour les pauses au chaud."},
-        {"q": "Les chiens peuvent-ils monter sur les bateaux de croisière de Tokyo ?", "a": "Certains bateaux-bus et croisières fluviales admettent un chien en laisse, souvent avec des conditions d`âge ou de laisse. Cela varie selon l`exploitant et l`itinéraire : confirmez la politique animaux directement avant de réserver."}
+        {
+          "q": "Puis-je emmener mon chien dans les temples de Tokyo comme le Sensoji ?",
+          "a": "Les chiens en laisse peuvent en général parcourir les rues publiques et les abords des temples célèbres, mais l`enceinte sacrée intérieure et les bâtiments n`admettent en général pas les chiens. Considérez la visite d`un temple comme un arrêt photo en extérieur plutôt qu`une visite intérieure complète."
+        },
+        {
+          "q": "Y a-t-il des activités dog-friendly en intérieur à Tokyo ?",
+          "a": "Très peu, en dehors des dog cafés et des lieux admettant les animaux. La plupart des musées, aquariums et attractions couvertes n`admettent pas les chiens : prévoyez un itinéraire en plein air et utilisez les dog cafés pour les pauses au chaud."
+        },
+        {
+          "q": "Les chiens peuvent-ils monter sur les bateaux de croisière de Tokyo ?",
+          "a": "Certains bateaux-bus et croisières fluviales admettent un chien en laisse, souvent avec des conditions d`âge ou de laisse. Cela varie selon l`exploitant et l`itinéraire : confirmez la politique animaux directement avant de réserver."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo llevar a mi perro a templos de Tokio como Sensoji?", "a": "Los perros con correa suelen poder recorrer las calles públicas y los accesos alrededor de los templos famosos, pero el recinto sagrado interior y los edificios normalmente no admiten perros. Considera la visita a un templo una parada fotográfica al aire libre más que una visita interior completa."},
-        {"q": "¿Hay planes dog-friendly bajo techo en Tokio?", "a": "Muy pocos más allá de los cafés para perros y locales que admiten mascotas. La mayoría de los museos, acuarios y atracciones cubiertas no admiten perros, así que planifica un itinerario al aire libre y usa los cafés para perros para las pausas bajo techo."},
-        {"q": "¿Pueden los perros subir a los cruceros de Tokio?", "a": "Algunos autobuses acuáticos y cruceros fluviales admiten un perro con correa, a menudo con condiciones de edad o correa. Varía según el operador y la ruta, así que confirma la política de mascotas directamente antes de reservar."}
+        {
+          "q": "¿Puedo llevar a mi perro a templos de Tokio como Sensoji?",
+          "a": "Los perros con correa suelen poder recorrer las calles públicas y los accesos alrededor de los templos famosos, pero el recinto sagrado interior y los edificios normalmente no admiten perros. Considera la visita a un templo una parada fotográfica al aire libre más que una visita interior completa."
+        },
+        {
+          "q": "¿Hay planes dog-friendly bajo techo en Tokio?",
+          "a": "Muy pocos más allá de los cafés para perros y locales que admiten mascotas. La mayoría de los museos, acuarios y atracciones cubiertas no admiten perros, así que planifica un itinerario al aire libre y usa los cafés para perros para las pausas bajo techo."
+        },
+        {
+          "q": "¿Pueden los perros subir a los cruceros de Tokio?",
+          "a": "Algunos autobuses acuáticos y cruceros fluviales admiten un perro con correa, a menudo con condiciones de edad o correa. Varía según el operador y la ruta, así que confirma la política de mascotas directamente antes de reservar."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso levar o meu cão a templos de Tóquio como o Sensoji?", "a": "Os cães à trela costumam poder percorrer as ruas públicas e os acessos à volta dos templos famosos, mas o recinto sagrado interior e os edifícios normalmente não admitem cães. Encare a visita a um templo como uma paragem fotográfica ao ar livre mais do que uma visita interior completa."},
-        {"q": "Há atividades dog-friendly em espaços interiores em Tóquio?", "a": "Muito poucas para além dos cafés para cães e locais que admitem animais. A maioria dos museus, aquários e atrações cobertas não admite cães, por isso planeie um itinerário ao ar livre e use os cafés para cães para as pausas em interior."},
-        {"q": "Os cães podem ir nos cruzeiros de barco de Tóquio?", "a": "Alguns autocarros aquáticos e cruzeiros fluviais admitem um cão à trela, muitas vezes com condições de idade ou trela. Varia consoante o operador e a rota, por isso confirme a política de animais diretamente antes de reservar."}
+        {
+          "q": "Posso levar o meu cão a templos de Tóquio como o Sensoji?",
+          "a": "Os cães à trela costumam poder percorrer as ruas públicas e os acessos à volta dos templos famosos, mas o recinto sagrado interior e os edifícios normalmente não admitem cães. Encare a visita a um templo como uma paragem fotográfica ao ar livre mais do que uma visita interior completa."
+        },
+        {
+          "q": "Há atividades dog-friendly em espaços interiores em Tóquio?",
+          "a": "Muito poucas para além dos cafés para cães e locais que admitem animais. A maioria dos museus, aquários e atrações cobertas não admite cães, por isso planeie um itinerário ao ar livre e use os cafés para cães para as pausas em interior."
+        },
+        {
+          "q": "Os cães podem ir nos cruzeiros de barco de Tóquio?",
+          "a": "Alguns autocarros aquáticos e cruzeiros fluviais admitem um cão à trela, muitas vezes com condições de idade ou trela. Varia consoante o operador e a rota, por isso confirme a política de animais diretamente antes de reservar."
+        }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten & Aktivitäten in Tokio",
+      "introDe": "Die hundefreundlichste Seite Tokios liegt im Freien und am Wasser: Uferparks, Promenaden an der Bucht und eine Handvoll Aktivitäten, die angeleinte Hunde ausdrücklich zulassen. Innensehenswürdigkeiten, die inneren Bereiche von Tempeln und die meisten Museen lassen keine Hunde zu, planen Sie Ihren Tag also rund um Freiluft-Wahrzeichen.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund zu Tokioter Tempeln wie Sensoji mitnehmen?",
+          "a": "Angeleinte Hunde dürfen in der Regel die äußeren öffentlichen Straßen und Zugänge rund um bekannte Tempel entlanglaufen, die inneren, heiligen Bereiche und Gebäude lassen jedoch meist keine Hunde zu. Betrachten Sie Tempelbesuche eher als Foto-Stopp im Freien denn als vollständigen Innenbesuch."
+        },
+        {
+          "q": "Gibt es in Tokio hundefreundliche Aktivitäten in Innenräumen?",
+          "a": "Sehr wenige außerhalb spezieller Hundecafés und haustierfreundlicher Lokale. Die meisten Museen, Aquarien und Innensehenswürdigkeiten lassen keine Hunde zu, planen Sie also eine Freiluft-Route und nutzen Sie Hundecafés für Pausen drinnen."
+        },
+        {
+          "q": "Dürfen Hunde auf Tokioter Bootstouren mit?",
+          "a": "Einige Wasserbus- und Flusskreuzfahrt-Betreiber erlauben einen angeleinten Hund an Bord, oft mit Alters- oder Leinenauflagen. Es variiert je nach Betreiber und Route, bestätigen Sie die Haustierregelung also direkt vor der Buchung."
+        }
       ]
     },
     "petsitting": {
@@ -792,7 +1216,11 @@
           "tipFr": "Contactez le gardien à l`avance pour confirmer la langue, les exigences de vaccination et une rencontre préalable.",
           "tipEs": "Escribe al cuidador con antelación para confirmar el idioma, los requisitos de vacunación y una toma de contacto.",
           "tipPt": "Contacte o cuidador com antecedência para confirmar o idioma, os requisitos de vacinação e um primeiro encontro.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Ein internationaler Marktplatz für Haustierbetreuung mit einem eigenen Bereich für Tokio, der Besitzer mit lokalen Sittern für Betreuung zu Hause, Tagesbetreuung und Gassigehen verbindet. Profile, Bewertungen und versicherte Buchungen machen ihn zu einer praktischen Option für Besucher, die einen hausähnlichen Aufenthalt statt einer Tierpension wünschen.",
+          "petPolicyDe": "Einzelne Sitter legen ihre eigenen Größen- und Rassebeschränkungen fest; prüfen Sie jedes Profil vor der Buchung.",
+          "mustTryDe": "Nach einem Sitter in der Nähe Ihres Hotels filtern, der Englisch spricht.",
+          "tipDe": "Kontaktieren Sie den Sitter im Voraus, um Sprache, Impfanforderungen und ein Kennenlerntreffen zu bestätigen."
         },
         {
           "name": "PetBacker Tokyo",
@@ -818,7 +1246,11 @@
           "tipFr": "Organisez d`abord une courte visite d`essai pour que votre chien soit à l`aise avant une journée entière ou une nuit.",
           "tipEs": "Organiza primero una breve visita de prueba para que tu perro esté cómodo antes de un día entero o una noche.",
           "tipPt": "Organize primeiro uma breve visita de teste para que o seu cão fique confortável antes de um dia inteiro ou de uma noite.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Eine globale App für Haustierdienstleistungen, die Tokioter Hundesitter, Gassigeher, Pensionsbetreiber und Hundefriseure auflistet, mit Zahlungsschutz und Versicherung, die in jede Buchung integriert sind. Sie bietet käfigfreie Betreuung zu Hause als Alternative zu klassischen Tierpensionen, nützlich für Besitzer, die ihren Hund in häuslicher Umgebung wissen möchten.",
+          "petPolicyDe": "Sitter unterscheiden sich in den Größen und Rassen, die sie akzeptieren; Details und ein Treffen in der App bestätigen.",
+          "mustTryDe": "Ein käfigfreier Aufenthalt zu Hause für einen scheuen oder kleinen Hund.",
+          "tipDe": "Vereinbaren Sie zuerst einen kurzen Probebesuch, damit sich Ihr Hund vor einem ganzen Tag oder einer Übernachtung wohlfühlt."
         }
       ],
       "tipsEn": [
@@ -842,24 +1274,76 @@
         "Organize um breve primeiro encontro ou visita de teste antes de deixar o seu cão um dia inteiro, sobretudo com cães nervosos ou pequenos."
       ],
       "faqsEn": [
-        {"q": "How do I find a dog sitter in Tokyo as a visitor?", "a": "International platforms such as Pawshake and PetBacker list vetted Tokyo sitters with reviews, insurance and often English-speaking hosts, which is the most accessible route for travellers. Book early and confirm vaccination requirements."},
-        {"q": "Are there English-speaking pet sitters in Tokyo?", "a": "Yes. Several sitters on the international booking platforms cater to Tokyo`s expat and visitor community, and some local pet hotels advertise English support. Filter or message to confirm before booking."},
-        {"q": "Can I leave my dog while I visit an attraction?", "a": "Yes, day care and in-home sitting are widely available, which is handy since many Tokyo attractions do not admit dogs. Arrange it in advance, especially at weekends and holidays when demand is high."}
+        {
+          "q": "How do I find a dog sitter in Tokyo as a visitor?",
+          "a": "International platforms such as Pawshake and PetBacker list vetted Tokyo sitters with reviews, insurance and often English-speaking hosts, which is the most accessible route for travellers. Book early and confirm vaccination requirements."
+        },
+        {
+          "q": "Are there English-speaking pet sitters in Tokyo?",
+          "a": "Yes. Several sitters on the international booking platforms cater to Tokyo`s expat and visitor community, and some local pet hotels advertise English support. Filter or message to confirm before booking."
+        },
+        {
+          "q": "Can I leave my dog while I visit an attraction?",
+          "a": "Yes, day care and in-home sitting are widely available, which is handy since many Tokyo attractions do not admit dogs. Arrange it in advance, especially at weekends and holidays when demand is high."
+        }
       ],
       "faqsFr": [
-        {"q": "Comment trouver un dog sitter à Tokyo en tant que visiteur ?", "a": "Des plateformes internationales comme Pawshake et PetBacker répertorient des gardiens vérifiés à Tokyo avec avis, assurance et souvent des hôtes anglophones, la voie la plus accessible pour les voyageurs. Réservez tôt et confirmez les exigences de vaccination."},
-        {"q": "Y a-t-il des dog sitters anglophones à Tokyo ?", "a": "Oui. Plusieurs gardiens sur les plateformes internationales s`adressent à la communauté d`expatriés et de visiteurs de Tokyo, et certaines pensions locales annoncent une assistance en anglais. Filtrez ou écrivez pour confirmer avant de réserver."},
-        {"q": "Puis-je faire garder mon chien pendant que je visite une attraction ?", "a": "Oui, la garderie de jour et la garde à domicile sont largement disponibles, ce qui est pratique car de nombreuses attractions de Tokyo n`admettent pas les chiens. Organisez-la à l`avance, surtout le week-end et pendant les vacances où la demande est forte."}
+        {
+          "q": "Comment trouver un dog sitter à Tokyo en tant que visiteur ?",
+          "a": "Des plateformes internationales comme Pawshake et PetBacker répertorient des gardiens vérifiés à Tokyo avec avis, assurance et souvent des hôtes anglophones, la voie la plus accessible pour les voyageurs. Réservez tôt et confirmez les exigences de vaccination."
+        },
+        {
+          "q": "Y a-t-il des dog sitters anglophones à Tokyo ?",
+          "a": "Oui. Plusieurs gardiens sur les plateformes internationales s`adressent à la communauté d`expatriés et de visiteurs de Tokyo, et certaines pensions locales annoncent une assistance en anglais. Filtrez ou écrivez pour confirmer avant de réserver."
+        },
+        {
+          "q": "Puis-je faire garder mon chien pendant que je visite une attraction ?",
+          "a": "Oui, la garderie de jour et la garde à domicile sont largement disponibles, ce qui est pratique car de nombreuses attractions de Tokyo n`admettent pas les chiens. Organisez-la à l`avance, surtout le week-end et pendant les vacances où la demande est forte."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cómo encuentro un cuidador de perros en Tokio como visitante?", "a": "Plataformas internacionales como Pawshake y PetBacker listan cuidadores verificados en Tokio con reseñas, seguro y a menudo anfitriones que hablan inglés, la vía más accesible para viajeros. Reserva pronto y confirma los requisitos de vacunación."},
-        {"q": "¿Hay cuidadores de mascotas que hablen inglés en Tokio?", "a": "Sí. Varios cuidadores en las plataformas internacionales atienden a la comunidad expatriada y de visitantes de Tokio, y algunos hoteles para mascotas locales anuncian soporte en inglés. Filtra o escribe para confirmar antes de reservar."},
-        {"q": "¿Puedo dejar a mi perro mientras visito una atracción?", "a": "Sí, la guardería de día y el cuidado a domicilio están muy disponibles, algo útil porque muchas atracciones de Tokio no admiten perros. Organízalo con antelación, sobre todo en fines de semana y vacaciones cuando hay mucha demanda."}
+        {
+          "q": "¿Cómo encuentro un cuidador de perros en Tokio como visitante?",
+          "a": "Plataformas internacionales como Pawshake y PetBacker listan cuidadores verificados en Tokio con reseñas, seguro y a menudo anfitriones que hablan inglés, la vía más accesible para viajeros. Reserva pronto y confirma los requisitos de vacunación."
+        },
+        {
+          "q": "¿Hay cuidadores de mascotas que hablen inglés en Tokio?",
+          "a": "Sí. Varios cuidadores en las plataformas internacionales atienden a la comunidad expatriada y de visitantes de Tokio, y algunos hoteles para mascotas locales anuncian soporte en inglés. Filtra o escribe para confirmar antes de reservar."
+        },
+        {
+          "q": "¿Puedo dejar a mi perro mientras visito una atracción?",
+          "a": "Sí, la guardería de día y el cuidado a domicilio están muy disponibles, algo útil porque muchas atracciones de Tokio no admiten perros. Organízalo con antelación, sobre todo en fines de semana y vacaciones cuando hay mucha demanda."
+        }
       ],
       "faqsPt": [
-        {"q": "Como encontro um cuidador de cães em Tóquio como visitante?", "a": "Plataformas internacionais como a Pawshake e a PetBacker listam cuidadores verificados em Tóquio com avaliações, seguro e muitas vezes anfitriões que falam inglês, a via mais acessível para viajantes. Reserve cedo e confirme os requisitos de vacinação."},
-        {"q": "Há cuidadores de animais que falem inglês em Tóquio?", "a": "Sim. Vários cuidadores nas plataformas internacionais servem a comunidade expatriada e de visitantes de Tóquio, e alguns hotéis para animais locais anunciam apoio em inglês. Filtre ou escreva para confirmar antes de reservar."},
-        {"q": "Posso deixar o meu cão enquanto visito uma atração?", "a": "Sim, a creche de dia e o cuidado ao domicílio estão muito disponíveis, algo útil porque muitas atrações de Tóquio não admitem cães. Organize com antecedência, sobretudo em fins de semana e férias quando há muita procura."}
+        {
+          "q": "Como encontro um cuidador de cães em Tóquio como visitante?",
+          "a": "Plataformas internacionais como a Pawshake e a PetBacker listam cuidadores verificados em Tóquio com avaliações, seguro e muitas vezes anfitriões que falam inglês, a via mais acessível para viajantes. Reserve cedo e confirme os requisitos de vacinação."
+        },
+        {
+          "q": "Há cuidadores de animais que falem inglês em Tóquio?",
+          "a": "Sim. Vários cuidadores nas plataformas internacionais servem a comunidade expatriada e de visitantes de Tóquio, e alguns hotéis para animais locais anunciam apoio em inglês. Filtre ou escreva para confirmar antes de reservar."
+        },
+        {
+          "q": "Posso deixar o meu cão enquanto visito uma atração?",
+          "a": "Sim, a creche de dia e o cuidado ao domicílio estão muito disponíveis, algo útil porque muitas atrações de Tóquio não admitem cães. Organize com antecedência, sobretudo em fins de semana e férias quando há muita procura."
+        }
+      ],
+      "titleDe": "Hundesitter, Gassigeher & Tierpensionen in Tokio",
+      "introDe": "Wenn Sie Betreuung für eine Sehenswürdigkeit brauchen, die keine Hunde zulässt, bietet Tokio sowohl internationale Buchungsplattformen als auch lokale Tierpensionen, von denen einige speziell die englischsprachige Community bedienen. Buchen Sie frühzeitig, da die besseren Betreuer für zu Hause und käfigfreie Aufenthalte rund um Feiertage und Wochenenden schnell ausgebucht sind.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich als Besucher einen Hundesitter in Tokio?",
+          "a": "Internationale Plattformen wie Pawshake und PetBacker listen geprüfte Tokioter Sitter mit Bewertungen, Versicherung und oft englischsprachigen Gastgebern auf, was für Reisende der zugänglichste Weg ist. Buchen Sie frühzeitig und bestätigen Sie die Impfanforderungen."
+        },
+        {
+          "q": "Gibt es in Tokio englischsprachige Haustiersitter?",
+          "a": "Ja. Mehrere Sitter auf den internationalen Buchungsplattformen bedienen Tokios Expat- und Besuchercommunity, und einige lokale Tierpensionen werben mit englischsprachigem Support. Filtern oder nachfragen, um dies vor der Buchung zu bestätigen."
+        },
+        {
+          "q": "Kann ich meinen Hund zurücklassen, während ich eine Sehenswürdigkeit besuche?",
+          "a": "Ja, Tagesbetreuung und Betreuung zu Hause sind weithin verfügbar, was praktisch ist, da viele Tokioter Sehenswürdigkeiten keine Hunde zulassen. Organisieren Sie dies im Voraus, besonders an Wochenenden und Feiertagen, wenn die Nachfrage hoch ist."
+        }
       ]
     }
   }

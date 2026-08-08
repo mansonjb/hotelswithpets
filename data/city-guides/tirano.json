@@ -39,7 +39,11 @@
           "tipFr": "Le déjeuner est le repas principal à Tirano - les options du soir sont plus limitées.",
           "tipEs": "El almuerzo es la comida principal en Tirano - las opciones de cena son más limitadas.",
           "tipPt": "O almoço é a refeição principal em Tirano - as opções de jantar são mais limitadas.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Osteria+Valtellinese+Tirano"
+          "googleMapsUrl": "https://www.google.com/maps/search/Osteria+Valtellinese+Tirano",
+          "descriptionDe": "Eine klassische Osteria nahe der Endstation des Bernina Express, die authentische Gerichte der Valtellina serviert. Die Terrasse zieht sich bis auf die Straße und ist durchweg hundefreundlich. Bestellen Sie die Pizzoccheri della Valtellina und ein Glas Sassella DOCG.",
+          "petPolicyDe": "Angeleinte Hunde willkommen auf der Straßenterrasse.",
+          "mustTryDe": "Pizzoccheri della Valtellina - das definitive regionale Nudelgericht.",
+          "tipDe": "Das Mittagessen ist die Hauptmahlzeit in Tirano - abends sind die Optionen eingeschränkter."
         },
         {
           "name": "Bar della Basilica",
@@ -65,7 +69,11 @@
           "tipFr": "L'intérieur de la basilique vaut 10 minutes mais les chiens attendent dehors.",
           "tipEs": "El interior de la basílica merece 10 minutos pero los perros esperan fuera.",
           "tipPt": "O interior da basílica vale 10 minutos mas os cães esperam fora.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Bar+Piazza+Basilica+Tirano"
+          "googleMapsUrl": "https://www.google.com/maps/search/Bar+Piazza+Basilica+Tirano",
+          "descriptionDe": "Direkt am Hauptplatz der Stadt vor der Basilika aus dem 16. Jahrhundert, mit breiten Außentischen unter Sonnenschirmen. Perfekt für den Morgenkaffee und Sciatt-Krapfen oder einen Aperitivo vor dem Bernina Express. Hunde werden ohne Umstände am Tischbein angebunden.",
+          "petPolicyDe": "Hunde willkommen auf der Platzterrasse.",
+          "mustTryDe": "Sciatt - frittierte Buchweizen-Käse-Bällchen, der Bar-Snack der Valtellina.",
+          "tipDe": "Das Innere der Basilika ist 10 Minuten wert, aber Hunde warten draußen - an den Ring an der Fassade anbinden."
         },
         {
           "name": "Ristorante Sassella",
@@ -91,9 +99,16 @@
           "tipFr": "Réservez en septembre pendant les vendanges - le vignoble est magique mais complet.",
           "tipEs": "Reserva en septiembre durante la vendimia - el viñedo es mágico pero se reserva entero.",
           "tipPt": "Reserve em setembro durante a vindima - a vinha é mágica mas fica completa.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Ristorante+Sassella+Tirano+vigneto"
+          "googleMapsUrl": "https://www.google.com/maps/search/Ristorante+Sassella+Tirano+vigneto",
+          "descriptionDe": "Ein ländliches Restaurant mitten im Sassella-DOC-Weinberg, 2 km südlich von Tirano am rechten Ufer der Adda. Blick auf die Terrassenweinberge und das Tal. Hunde willkommen auf der Außenterrasse mit Blick auf die Reben. Bresaola della Valtellina IGP ist die Empfehlung.",
+          "petPolicyDe": "Hunde willkommen auf der Außenterrasse im Weinberg.",
+          "mustTryDe": "Bresaola della Valtellina IGP mit Rucola und gehobeltem Bitto-Käse.",
+          "tipDe": "Im September zur Erntezeit im Voraus buchen - der Weinberg ist bezaubernd, aber ausgebucht."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Tirano",
+      "introDe": "Tiranos Gastroszene dreht sich um die Piazza della Basilica und die umliegenden Straßen, wo Terrassentische die Norm sind. Die Valtellina-Küche ist herzhafte Bergküche: Pizzoccheri (Buchweizennudeln mit Käse und grünem Gemüse), Sciatt (Käsekrapfen), Bresaola und lokale Nebbiolo-Weine. Die meisten Terrassen heißen einen angeleinten Hund ohne Zögern willkommen.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Walks and Nature near Tirano with a Dog",
@@ -129,7 +144,11 @@
           "tipFr": "La berge est pierreuse par endroits - vérifiez les coussinets de votre chien après les longues promenades.",
           "tipEs": "La orilla es pedregosa en algunos tramos - revisa las almohadillas de tu perro tras los paseos largos.",
           "tipPt": "A margem é pedregosa em algumas secções - verifique as almofadas do seu cão após passeios mais longos.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Lungoadda+Tirano"
+          "googleMapsUrl": "https://www.google.com/maps/search/Lungoadda+Tirano",
+          "descriptionDe": "Ein flacher Uferweg entlang der Adda unterhalb von Tirano, in beide Richtungen mehrere Kilometer nutzbar. Schattige Abschnitte und ruhiges Wasser erlauben Hunden das Trinken vom Ufer. Ein einfacher Morgenrundgang von 3-4 km lässt sich vollständig am Fluss entlang bewältigen.",
+          "petPolicyDe": "Hunde willkommen; Leinenpflicht in der Nähe der Fußgängerbrücke der Stadt.",
+          "mustTryDe": "Der Sonnenaufgangsspaziergang nach Süden Richtung Sassella mit den morgens beleuchteten Weinbergterrassen.",
+          "tipDe": "Das Flussufer ist stellenweise steinig - prüfen Sie nach längeren Spaziergängen die Pfoten Ihres Hundes."
         },
         {
           "name": "Sentiero del Sassella - Vineyard Trail",
@@ -155,7 +174,11 @@
           "tipFr": "Septembre et octobre amènent des vendangeurs dans les vignes - votre chien rencontrera davantage de personnes et d'équipements.",
           "tipEs": "Septiembre y octubre traen vendimiadores a las viñas - tu perro puede encontrar más personas y equipos.",
           "tipPt": "Setembro e outubro trazem vindimadores para as vinhas - o seu cão pode encontrar mais pessoas e equipamentos.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Sentiero+Sassella+Tirano+vigneto"
+          "googleMapsUrl": "https://www.google.com/maps/search/Sentiero+Sassella+Tirano+vigneto",
+          "descriptionDe": "Ein markierter Weg durch die Terrassenweinberge der Sassella DOC oberhalb des rechten Adda-Ufers, beginnend 2 km südlich des Zentrums von Tirano. Der Weg steigt durch trockenmauerbegrenzte Weinberge mit Panoramablick ins Tal. Durchgehend Leinenpflicht; die jahrhundertealten Terrassenmauern sind empfindlich.",
+          "petPolicyDe": "Hunde an der Leine; auf dem markierten Weg bleiben, um die Weinbergmauern zu schützen.",
+          "mustTryDe": "Der Aussichtspunkt an der Sassella-Kapelle am oberen Ende des Weges - ein unvergessliches Talpanorama.",
+          "tipDe": "September und Oktober bringen Erntehelfer in die Weinberge - Ihr Hund kann dann mehr Menschen und Geräten begegnen."
         },
         {
           "name": "Parco delle Orobie Valtellinesi",
@@ -181,9 +204,16 @@
           "tipFr": "Téléchargez la carte des sentiers sur parcorobievaltellinesi.it avant de perdre le signal mobile dans la vallée.",
           "tipEs": "Descarga el mapa de senderos de parcorobievaltellinesi.it antes de perder señal móvil en el valle.",
           "tipPt": "Descarregue o mapa dos trilhos de parcorobievaltellinesi.it antes de perder sinal móvel no vale.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Parco+Orobie+Valtellinesi+Val+Grosina"
+          "googleMapsUrl": "https://www.google.com/maps/search/Parco+Orobie+Valtellinesi+Val+Grosina",
+          "descriptionDe": "Der Regionalpark Orobie Valtellinesi liegt an der Südflanke der Alpen oberhalb der Valtellina. Val Grosina (15 km von Tirano) ist der nächstgelegene Zugang. Hunde sind an der Leine auf allen markierten Wegen erlaubt. Erwarten Sie echtes Berggelände: Höhe, Bäche und Wildtiere.",
+          "petPolicyDe": "Hunde an der Leine auf allen markierten Wegen; in Kernzonen des Wildtierschutzes verboten.",
+          "mustTryDe": "Der Wasserfall oberhalb des Dorfes Grosotto - 90 Minuten hin und zurück vom Talboden.",
+          "tipDe": "Laden Sie die Wanderkarte des Parks von parcorobievaltellinesi.it herunter, bevor Sie im Tal den Mobilfunkempfang verlieren."
         }
-      ]
+      ],
+      "titleDe": "Spaziergänge und Natur bei Tirano mit Hund",
+      "introDe": "Tirano liegt am Übergang vom Talboden der Valtellina zur alpinen Bernina-Auffahrt. Die Adda fließt durch das Tal; oberhalb der Stadt führen Wege durch Terrassenweinberge durch Sassella und Grumello. Weiter oben bietet der Regionalpark Orobie Valtellinesi anspruchsvolle Bergwege mit Hund an der Leine.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting to Tirano with a Pet",
@@ -219,7 +249,11 @@
           "tipFr": "Achetez les billets chien à la machine ou au guichet avant d'embarquer - les contrôleurs vérifient.",
           "tipEs": "Compra los billetes de perro en la máquina o taquilla antes de embarcar - los revisores comprueban.",
           "tipPt": "Compre bilhetes de cão na máquina ou balcão antes de embarcar - os revisores verificam.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Tirano+Stazione+treno"
+          "googleMapsUrl": "https://www.google.com/maps/search/Tirano+Stazione+treno",
+          "descriptionDe": "Trenord betreibt Regionalzüge von Milano Centrale nach Tirano (2:20 Std., Umstieg in Lecco oder direkt). Hunde in einer Transporttasche reisen kostenlos. Größere Hunde an der Leine benötigen nach italienischen Vorschriften ein Hundeticket (ermäßigter Tarif) und einen Maulkorb. Online buchen unter trenord.it.",
+          "petPolicyDe": "Kleine Hunde in Transporttasche: kostenlos. Größere Hunde: Hundeticket + Maulkorb erforderlich.",
+          "mustTryDe": "Der Seeabschnitt durch Lecco und Colico gehört zu Italiens landschaftlich schönsten Bahnstrecken.",
+          "tipDe": "Kaufen Sie Hundetickets am Automaten oder Schalter vor dem Einsteigen - Kontrolleure prüfen dies."
         },
         {
           "name": "Bernina Express - Rhaetian Railway",
@@ -245,7 +279,11 @@
           "tipFr": "La Suisse n'est pas dans l'UE : votre chien a besoin d'un passeport européen avec puce et vaccination antirabique valide.",
           "tipEs": "Suiza no es UE: tu perro necesita el pasaporte europeo con microchip y vacuna antirrábica vigente.",
           "tipPt": "A Suíça não é UE: o seu cão precisa do passaporte europeu com microchip e vacinação antirrábica válida.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Bernina+Express+Tirano+departure"
+          "googleMapsUrl": "https://www.google.com/maps/search/Bernina+Express+Tirano+departure",
+          "descriptionDe": "Der UNESCO-Welterbe-Bernina-Express verkehrt zwischen Tirano und St. Moritz/Chur über den 2253 m hohen Berninapass. Hunde sind an der Leine erlaubt (und in vollen Wagen mit Maulkorb empfohlen). Ein Hundeticket ist erforderlich und muss bei der Rhätischen Bahn (RhB) gekauft werden. Die Panoramawagen haben keinen Gepäckraum unter dem Wagenboden; Ihr Hund reist zu Ihren Füßen.",
+          "petPolicyDe": "Hunde mit Leine + Hundeticket der RhB erlaubt; Maulkorb in vollen Panoramawagen empfohlen.",
+          "mustTryDe": "Buchen Sie den offenen Panoramawagen im Voraus für den Kreisviadukt von Brusio - ein einzigartiges Bauwerk.",
+          "tipDe": "Die Schweiz ist nicht in der EU: Ihr Hund benötigt einen EU-Heimtierausweis mit gültigem Mikrochip und aktueller Tollwutimpfung."
         },
         {
           "name": "Bergamo Orio al Serio Airport (BGY)",
@@ -271,9 +309,16 @@
           "tipFr": "Évitez l'A4 milanaise le vendredi - la route du lac ajoute 30min mais est bien plus calme.",
           "tipEs": "Evita la A4 milanesa los viernes - la ruta del lago añade 30min pero es mucho más tranquila.",
           "tipPt": "Evite a A4 milanesa às sextas-feiras - a rota do lago acrescenta 30min mas é muito mais calma.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Bergamo+Airport+BGY"
+          "googleMapsUrl": "https://www.google.com/maps/search/Bergamo+Airport+BGY",
+          "descriptionDe": "Der nächstgelegene Flughafen zu Tirano (110 km, 1:30 Std. mit dem Auto über die SS38). Ryanair und easyJet fliegen von den meisten europäischen Städten hierher. Am Terminal sind haustierfreundliche Mietwagen erhältlich. Die SS38 Valtellinese von Colico nach Tirano hat keine mautpflichtigen Abschnitte.",
+          "petPolicyDe": "Haustiere reisen nach Fluggesellschaftsrichtlinien; Mietwagen unterliegen den Firmenregeln.",
+          "mustTryDe": "Nehmen Sie die Seeroute über Lecco und Colico auf der SS38 - beeindruckende Seeblicke mit Hund auf dem Rücksitz.",
+          "tipDe": "Meiden Sie die Autobahn A4 nach Mailand an Freitagen - die Seeroute dauert 30 Min. länger, ist aber deutlich ruhiger."
         }
-      ]
+      ],
+      "titleDe": "Mit Haustier nach Tirano",
+      "introDe": "Tirano wird von Trenord-Regionalzügen aus Mailand bedient (2:20 Std. über Lecco und Colico) sowie vom legendären Bernina Express aus St. Moritz. Auf der Straße sind es 110 km von Bergamo (1:30 Std.) über die SS38 Valtellinese. Haustiere sind auf beiden Bahnstrecken mit der richtigen Vorbereitung willkommen.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Swimming Spots near Tirano with a Dog",
@@ -309,7 +354,11 @@
           "tipFr": "Le courant s'accélère au milieu de la rivière ; gardez votre chien dans les berges peu profondes.",
           "tipEs": "La corriente aumenta a mitad del río; mantén a tu perro en los márgenes de grava poco profundos.",
           "tipPt": "A corrente aumenta no meio do rio; mantenha o seu cão nas margens rasas de gravilha.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Fiume+Adda+Tirano+spiaggia"
+          "googleMapsUrl": "https://www.google.com/maps/search/Fiume+Adda+Tirano+spiaggia",
+          "descriptionDe": "Die Adda unterhalb von Tirano hat zugängliche Kiesufer, an denen Hunde in den flacheren Abschnitten waten können. Das Wasser ist kalt (Schmelzwasser) und klar. Kein offizieller Badestrand, aber ein natürlicher Zugang 5 Gehminuten vom Bahnhof entfernt.",
+          "petPolicyDe": "Hunde im Fluss willkommen; keine offizielle Aufsicht.",
+          "mustTryDe": "Frühmorgendliches Schwimmen, bevor die Bernina-Express-Touristen am Bahnhof eintreffen.",
+          "tipDe": "Die Strömung nimmt zur Flussmitte hin zu - halten Sie Ihren Hund in den flachen Kiesuferzonen."
         },
         {
           "name": "Lago di Mezzola",
@@ -335,7 +384,11 @@
           "tipFr": "Combinez avec l'Abbazia di Piona de l'autre côté du lac (chiens à l'extérieur, cloître magnifique).",
           "tipEs": "Combina con la Abbazia di Piona al otro lado del lago (perros fuera, claustro impresionante).",
           "tipPt": "Combine com a Abbazia di Piona do outro lado do lago (cães fora, claustro deslumbrante).",
-          "googleMapsUrl": "https://www.google.com/maps/search/Lago+di+Mezzola+spiaggia"
+          "googleMapsUrl": "https://www.google.com/maps/search/Lago+di+Mezzola+spiaggia",
+          "descriptionDe": "Ein kleiner Alpensee 30 km südlich von Tirano am Nordende des Comer-Seesystems. Ruhig, von Bergen umgeben, mit hundefreundlichen Gras- und Kiesufern. Das Dorf Novate Mezzola hat einen kleinen, kostenlos zugänglichen Strandbereich.",
+          "petPolicyDe": "Hunde willkommen an den Seeufern; Leinenpflicht auf den Zugangswegen.",
+          "mustTryDe": "Die Bootsrampe bei Novate Mezzola ist ein perfekter Einstieg für Hunde in den See.",
+          "tipDe": "Kombinieren Sie den Besuch mit der Abtei Piona auf der anderen Seeseite (Hunde draußen, beeindruckender Kreuzgang)."
         },
         {
           "name": "Lago di Como - Colico",
@@ -361,9 +414,16 @@
           "tipFr": "Garez-vous au parking de la gare de Colico et rejoignez le lac à pied en 5 minutes.",
           "tipEs": "Aparca en el parking de la estación de Colico y ve al lago andando en 5 minutos.",
           "tipPt": "Estacione no parque da estação de Colico e vá a pé até à frente do lago em 5 minutos.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Colico+Lago+di+Como+spiaggia"
+          "googleMapsUrl": "https://www.google.com/maps/search/Colico+Lago+di+Como+spiaggia",
+          "descriptionDe": "Colico liegt an der Nordspitze des Comer Sees und ist 45 km von Tirano entfernt (40 Min. Fahrt). Die Stadt hat eine öffentliche Uferpromenade und mehrere hundefreundliche Strände auf der nahen Halbinsel Piona. Das Wasser des Comer Sees ist ab Juni sauber und warm.",
+          "petPolicyDe": "Hunde an den meisten öffentlichen Seeufern erlaubt; einige Stadtstrände schränken Hunde im Juli-August ein - Beschilderung prüfen.",
+          "mustTryDe": "Der Uferspaziergang bei Piona von der Abtei zum Strand - flach, schattig, wunderschön.",
+          "tipDe": "Parken Sie am Bahnhof Colico und gehen Sie zum Seeufer - 5 Minuten."
         }
-      ]
+      ],
+      "titleDe": "Badestellen bei Tirano mit Hund",
+      "introDe": "Tirano hat keine Meeresküste, aber die Adda und die alpinen Seen in kurzer Fahrentfernung bieten hundefreundliches Wasser. Der Comer See liegt 60 km südlich. Der Alpensee Lago di Mezzola (30 km) und die lokalen Adda-Ufer sind die nächstgelegenen Optionen.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Vets near Tirano",
@@ -399,7 +459,11 @@
           "tipFr": "Cherchez 'veterinario Tirano' sur Google Maps pour les listes et horaires actuels.",
           "tipEs": "Busca 'veterinario Tirano' en Google Maps para listados y horarios actuales.",
           "tipPt": "Pesquise 'veterinario Tirano' no Google Maps para listagens e horários atuais.",
-          "googleMapsUrl": "https://www.google.com/maps/search/veterinario+Tirano+Italia"
+          "googleMapsUrl": "https://www.google.com/maps/search/veterinario+Tirano+Italia",
+          "descriptionDe": "Lokale Tierarztpraxis in Tirano für Routineberatungen. Die Öffnungszeiten sind begrenzt; rufen Sie vor dem Besuch an. Für Notfälle außerhalb der Öffnungszeiten ist die Tierklinik in Sondrio 17 km entfernt an der SS38.",
+          "petPolicyDe": "Vorab anrufen, um die Verfügbarkeit zu bestätigen.",
+          "mustTryDe": "Speichern Sie die Notrufnummer von Sondrio vor der Reise in Ihrem Telefon.",
+          "tipDe": "Suchen Sie „veterinario Tirano\" auf Google Maps für aktuelle Einträge und Öffnungszeiten."
         },
         {
           "name": "Clinica Veterinaria di Sondrio",
@@ -425,7 +489,11 @@
           "tipFr": "Les urgences vétérinaires italiennes sont joignables via le 118 (urgences médicales) qui peut vous rediriger.",
           "tipEs": "Las urgencias veterinarias italianas también son accesibles a través del 118 (emergencias médicas) que puede redirigirte.",
           "tipPt": "Os serviços de emergência veterinária italianos também podem ser contactados via 118 (linha de emergência médica) que pode redirecionar.",
-          "googleMapsUrl": "https://www.google.com/maps/search/veterinario+Sondrio+urgenza"
+          "googleMapsUrl": "https://www.google.com/maps/search/veterinario+Sondrio+urgenza",
+          "descriptionDe": "Sondrio, die Provinzhauptstadt der Valtellina (17 km, 15 Min.), hat mehrere Tierkliniken mit längeren Öffnungszeiten. Suchen Sie „veterinario Sondrio\" auf Google Maps für aktuelle Optionen. Manche Kliniken bieten wochentags verlängerte Abendöffnungszeiten.",
+          "petPolicyDe": "Vorab anrufen für aktuelle Öffnungszeiten und Notfallverfügbarkeit.",
+          "mustTryDe": "Die SS38 nach Sondrio ist eine schnelle, direkte Straße - 17 km dauern etwa 15 Minuten.",
+          "tipDe": "Italienische Tiernotdienste sind auch über 118 (medizinische Notrufnummer) erreichbar, die Sie weiterleiten können."
         },
         {
           "name": "Switzerland Border Vet Requirement",
@@ -451,9 +519,16 @@
           "tipFr": "La douane suisse sur le Bernina Express est une formalité - pas d'arrêt physique ; ayez juste le passeport à portée.",
           "tipEs": "La aduana suiza en el Bernina Express es una formalidad - no hay parada física; solo ten el pasaporte a mano.",
           "tipPt": "A alfândega suíça no Bernina Express é uma formalidade - sem paragem física; tenha apenas o passaporte à mão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Campocologno+Swiss+border+Tirano"
+          "googleMapsUrl": "https://www.google.com/maps/search/Campocologno+Swiss+border+Tirano",
+          "descriptionDe": "Die Schweiz gehört nicht zur EU, akzeptiert aber EU-Heimtierausweise. Ihr Hund benötigt einen gültigen Mikrochip und eine aktuelle (nicht abgelaufene) Tollwutimpfung. Für die Einreise von Hunden in die Schweiz ist keine Bandwurmbehandlung erforderlich. Bestätigen Sie die aktuellen Regeln vor der Fahrt mit dem Bernina Express unter blv.admin.ch.",
+          "petPolicyDe": "EU-Heimtierausweis + gültige Tollwutimpfung erforderlich; aktuelle Regeln unter blv.admin.ch prüfen.",
+          "mustTryDe": "Prüfen Sie das Ablaufdatum der Tollwutimpfung Ihres Hundes, bevor Sie den Bernina Express buchen - sie muss am Reisetag gültig sein.",
+          "tipDe": "Die Schweizer Zollkontrolle im Bernina Express ist eine Formalität - kein physischer Halt; halten Sie einfach den Ausweis bereit."
         }
-      ]
+      ],
+      "titleDe": "Tierärzte bei Tirano",
+      "introDe": "Tirano hat lokale tierärztliche Angebote, und Sondrio (17 km) ist die nächstgelegene Stadt mit einem breiteren Angebot. Für ernste Notfälle hat Sondrio die nächste Tierklinik. Tragen Sie beim Grenzübertritt in die Schweiz mit dem Bernina Express immer den EU-Heimtierausweis bei sich.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Pet Travel Tips for Tirano",
@@ -489,7 +564,11 @@
           "tipFr": "Donnez un repas léger à votre chien avant le voyage - le changement d'altitude (600m à 2253m) peut affecter la digestion.",
           "tipEs": "Da de comer poco a tu perro antes del viaje - el cambio de altitud (600m a 2253m) puede afectar la digestión.",
           "tipPt": "Alimente o seu cão levemente antes da viagem - a mudança de altitude (600m a 2253m) pode afetar a digestão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Tirano+Bernina+Express+Station"
+          "googleMapsUrl": "https://www.google.com/maps/search/Tirano+Bernina+Express+Station",
+          "descriptionDe": "Hunde benötigen ein Hundeticket der Rhätischen Bahn, um im Bernina Express mitzufahren. Kaufen Sie es am Schalter in Tirano (RhB-Seite, nicht Trenord-Seite) oder online unter rhb.ch. Hunde reisen im Panoramawagen zu Ihren Füßen. Ein gut sitzendes Geschirr oder eine kurze Leine verhindert, dass sie während der 2,5-stündigen Fahrt den Gang blockieren.",
+          "petPolicyDe": "Hundeticket erforderlich; durchgehend Leinenpflicht; Maulkorb empfohlen.",
+          "mustTryDe": "Buchen Sie den offenen Panoramawagen im Voraus - er ist im Sommer schnell ausgebucht.",
+          "tipDe": "Füttern Sie Ihren Hund vor der Fahrt nur leicht - der Höhenunterschied (600 m auf 2253 m) kann die Verdauung beeinflussen."
         },
         {
           "name": "Valley Heat Warning - July and August",
@@ -515,7 +594,11 @@
           "tipFr": "Portez un bol pliable et un vaporisateur d'eau pour refroidir les pattes sur le bitume chaud.",
           "tipEs": "Lleva un bol plegable y un pulverizador de agua para enfriar las patas en el asfalto caliente.",
           "tipPt": "Leve um recipiente dobrável e um pulverizador de água para arrefecer as patas no alcatrão quente.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Tirano+centro+Italia"
+          "googleMapsUrl": "https://www.google.com/maps/search/Tirano+centro+Italia",
+          "descriptionDe": "Der Talboden der Valtellina kann im Juli und August 35-38 °C erreichen. Tirano liegt auf nur 450 m Höhe, und das Tal staut die Hitze. Gehen Sie mit dem Hund früh (vor 9 Uhr) oder spät (nach 19 Uhr) im Hochsommer spazieren. Der Bernina Express steigt auf 2253 m, wo es selbst im August angenehm kühl ist.",
+          "petPolicyDe": "Keine Einschränkung, aber im Sommer extreme Vorsicht bei Hitze geboten.",
+          "mustTryDe": "Mai, Juni und September sind die besten Monate für Hunde in Tirano - warm, aber gut auszuhalten.",
+          "tipDe": "Nehmen Sie eine faltbare Trinkschale und eine mit Wasser gefüllte Sprühflasche zum Pfotenkühlen auf heißem Asphalt mit."
         },
         {
           "name": "Harvest Season - September and October",
@@ -541,9 +624,16 @@
           "tipFr": "Réservez les restaurants 2-3 semaines à l'avance en octobre - les tables de la semaine des vendanges sont prises d'assaut.",
           "tipEs": "Reserva restaurantes con 2-3 semanas de antelación en octubre - las mesas de la semana de vendimia se agotan al instante.",
           "tipPt": "Reserve restaurantes com 2-3 semanas de antecedência em outubro - as mesas da semana das vindimas esgotam instantaneamente.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Valtellina+vendemmia+Tirano"
+          "googleMapsUrl": "https://www.google.com/maps/search/Valtellina+vendemmia+Tirano",
+          "descriptionDe": "September und Oktober sind Erntezeit in der Valtellina. Die Terrassenweinberge oberhalb von Tirano zeigen sich zu dieser Zeit am fotogensten - goldenes Laub, Erntehelfer und der Duft von gärendem Most. Hunde sind auf den Weinbergwegen willkommen, bleiben Sie aber während der Ernte strikt auf den markierten Pfaden, da Arbeiter mit Maschinen auf den schmalen Terrassen unterwegs sind.",
+          "petPolicyDe": "Hunde an der Leine; während des Ernteeinsatzes von Maschinen auf Weinbergwegen zusätzliche Vorsicht.",
+          "mustTryDe": "Die Weinstraßenkarte der Valtellina gibt es kostenlos beim Tourismusbüro in Tirano.",
+          "tipDe": "Buchen Sie Restaurants 2-3 Wochen im Voraus im Oktober - Tische in der Erntewoche sind sofort ausgebucht."
         }
-      ]
+      ],
+      "titleDe": "Reisetipps mit Haustier für Tirano",
+      "introDe": "Italien ist ein hundefreundliches Land, und die Valtellina ist im öffentlichen Raum tatsächlich entspannt im Umgang mit Hunden. Das Wichtigste: Italienische Züge verlangen für größere Hunde ein Hundeticket, Maulkörbe sind im öffentlichen Nahverkehr formal vorgeschrieben, und die Schweiz (erreichbar mit dem Bernina Express) verlangt einen EU-Heimtierausweis mit aktueller Tollwutimpfung.",
+      "faqsDe": []
     },
     "attractions": {
       "titleEn": "Dog-Friendly Attractions near Tirano",
@@ -579,7 +669,11 @@
           "tipFr": "La place accueille un petit marché le samedi matin - une bonne promenade dog-friendly.",
           "tipEs": "La plaza acoge un pequeño mercado los sábados por la mañana - un buen recorrido dog-friendly.",
           "tipPt": "A praça acolhe um pequeno mercado aos sábados de manhã - um bom passeio dog-friendly.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Basilica+Madonna+di+Tirano"
+          "googleMapsUrl": "https://www.google.com/maps/search/Basilica+Madonna+di+Tirano",
+          "descriptionDe": "Eine Renaissance-Wallfahrtsbasilika, 1505 am Ort einer gemeldeten Erscheinung errichtet. Der Außenplatz ist mit Hund vollständig zugänglich; im Inneren muss Ihr Hund draußen am Ring an der Fassade angebunden warten. Die Kirche liegt nur einen kurzen Spaziergang vom Abfahrtsort des Bernina Express entfernt und lohnt 15 Minuten Besichtigung.",
+          "petPolicyDe": "Hunde willkommen auf dem Außenplatz; im Inneren der Basilika nicht erlaubt.",
+          "mustTryDe": "Der geschnitzte Holzaltar, sichtbar durch die Haupttür, während Ihr Hund draußen wartet.",
+          "tipDe": "Auf dem Platz findet samstagvormittags ein kleiner Markt statt - eine gute hundefreundliche Bummelgelegenheit."
         },
         {
           "name": "Brusio Circular Viaduct",
@@ -605,7 +699,11 @@
           "tipFr": "Garez-vous dans le village de Brusio et descendez 10 minutes à pied jusqu'au point de vue.",
           "tipEs": "Aparca en el pueblo de Brusio y camina 10 minutos cuesta abajo hasta el mirador.",
           "tipPt": "Estacione na aldeia de Brusio e caminhe 10 minutos até ao miradouro.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Brusio+circular+viaduct+Bernina"
+          "googleMapsUrl": "https://www.google.com/maps/search/Brusio+circular+viaduct+Bernina",
+          "descriptionDe": "Der berühmte Kreisviadukt, auf dem der Bernina Express eine volle 360-Grad-Schleife dreht, um an Höhe zu verlieren. Sie können ihn von der Straße unten aus betrachten oder den spiralförmigen Pfad um die Außenseite des Viadukts entlanggehen. Hunde willkommen auf dem Weg. In der Schweiz - EU-Heimtierausweis erforderlich.",
+          "petPolicyDe": "Hunde willkommen auf dem Aussichtsweg; an den EU-Heimtierausweis für den Grenzübertritt in die Schweiz denken.",
+          "mustTryDe": "Planen Sie Ihren Besuch, um den Bernina Express durch die Spirale fahren zu sehen - Fahrplan unter rhb.ch prüfen.",
+          "tipDe": "Parken Sie im Dorf Brusio und gehen Sie 10 Minuten hinunter zum Aussichtspunkt am Viadukt."
         },
         {
           "name": "Fortezza di Tirano",
@@ -631,9 +729,16 @@
           "tipFr": "Allez-y au coucher du soleil - la lumière sur les terrasses de Sassella depuis la forteresse est remarquable.",
           "tipEs": "Ve al atardecer - la luz sobre las terrazas de Sassella desde la fortaleza es extraordinaria.",
           "tipPt": "Vá ao pôr do sol - a luz sobre os socalcos de Sassella a partir da fortaleza é extraordinária.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Fortezza+di+Tirano"
+          "googleMapsUrl": "https://www.google.com/maps/search/Fortezza+di+Tirano",
+          "descriptionDe": "Die Ruinen der mittelalterlichen Festung Tiranos auf dem Hügel über der Stadt. Ein 20-minütiger Aufstieg von der Basilika führt zu den teilweise restaurierten Mauern mit Panoramablick über das Tal und die Weinberge darunter. Hunde können die Ruinen an der Leine frei erkunden.",
+          "petPolicyDe": "Hunde an der Leine; die Freiluftruinen sind vollständig zugänglich.",
+          "mustTryDe": "Der Blick von der oberen Mauer über die Gleise des Bernina Express und die Weinbergterrassen darunter.",
+          "tipDe": "Gehen Sie bei Sonnenuntergang hin - das Licht auf den Sassella-Terrassen von der Festung aus ist herausragend."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Attraktionen bei Tirano",
+      "introDe": "Tiranos Hauptattraktion ist der Bernina Express und die Basilika, aber die umliegende Valtellina bietet mittelalterliche Festungen, DOC-Weinstraßen und Bitto-Käsereien in leichter Reichweite. Alle heißen Hunde an der Leine willkommen.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting and Dog Services in Tirano",
@@ -669,7 +774,11 @@
           "tipFr": "Apportez le carnet de santé de votre chien - les chenils italiens le demandent toujours.",
           "tipEs": "Lleva el carnet sanitario de tu perro - las residencias italianas siempre lo piden.",
           "tipPt": "Leve o caderno de saúde do seu cão - os canis italianos pedem-no sempre.",
-          "googleMapsUrl": "https://www.google.com/maps/search/pensione+canina+hotel+cani+Sondrio"
+          "googleMapsUrl": "https://www.google.com/maps/search/pensione+canina+hotel+cani+Sondrio",
+          "descriptionDe": "Sondrio hat mehrere Hundepensionen für mehrtägige Aufenthalte. Suchen Sie „pensione canina Sondrio\" oder „hotel per cani Sondrio\" auf Google Maps für aktuelle Optionen mit Bewertungen. Im Sommer im Voraus buchen.",
+          "petPolicyDe": "Impfnachweise erforderlich (Tollwut, Staupe, Parvovirose).",
+          "mustTryDe": "Bitten Sie Ihr Hotel um einen italienischsprachigen Kontakt - lokale Netzwerke funktionieren in der Valtellina am besten.",
+          "tipDe": "Bringen Sie das Impfheft Ihres Hundes (libretto sanitario) mit - italienische Pensionen verlangen es immer."
         },
         {
           "name": "Rover.com Italy",
@@ -695,7 +804,11 @@
           "tipFr": "Envoyez des messages en italien pour des réponses plus rapides dans cette zone rurale.",
           "tipEs": "Escribe a los cuidadores en italiano para respuestas más rápidas en esta zona rural.",
           "tipPt": "Envie mensagens em italiano para respostas mais rápidas nesta zona rural.",
-          "googleMapsUrl": "https://www.google.com/maps/search/dog+sitter+Sondrio+Tirano"
+          "googleMapsUrl": "https://www.google.com/maps/search/dog+sitter+Sondrio+Tirano",
+          "descriptionDe": "Rover verbindet Haustierhalter mit lokalen Sittern in ganz Italien. Die Abdeckung in ländlichen Gebieten wie Tirano ist dünn, aber Sondrio und Morbegno haben registrierte Sitter. Buchen Sie 2 Wochen im Voraus in der Hochsaison (Juli, August, Erntezeit im September).",
+          "petPolicyDe": "Variiert je nach Sitter; einzelne Profile prüfen.",
+          "mustTryDe": "Stellen Sie den Suchort auf Sondrio für die beste Abdeckung in der Nähe.",
+          "tipDe": "Schreiben Sie Sittern auf Italienisch für schnellere Antworten in dieser ländlichen Gegend."
         },
         {
           "name": "Ask your hotel",
@@ -721,9 +834,16 @@
           "tipFr": "Notez les heures de repas de votre chien et les médicaments éventuels en italien pour les confier au gardien.",
           "tipEs": "Anota los horarios de alimentación de tu perro y cualquier medicación en italiano para entregar al cuidador.",
           "tipPt": "Anote os horários de alimentação do seu cão e qualquer medicação em italiano para entregar ao tratador.",
-          "googleMapsUrl": "https://www.google.com/maps/search/hotel+Tirano+pet+friendly"
+          "googleMapsUrl": "https://www.google.com/maps/search/hotel+Tirano+pet+friendly",
+          "descriptionDe": "Italienische Hotelbesitzer in Kleinstädten kennen oft jemanden vor Ort, der informell Hunde betreut. Es lohnt sich, beim Check-in zu fragen, wenn Sie einen Tagesausflug mit dem Bernina Express in die Schweiz planen. Die meisten italienischen Hundehalter sind aufgeschlossen, und Kontakte entstehen durch Mundpropaganda.",
+          "petPolicyDe": "Informell; Bedingungen vorher klar vereinbaren.",
+          "mustTryDe": "Eine kleine Dankesgeste (lokaler Wein oder Schokolade) wird bei informellen Sittern geschätzt.",
+          "tipDe": "Notieren Sie die Fütterungszeiten und eventuelle Medikamente Ihres Hundes auf Italienisch, um sie dem Sitter zu übergeben."
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung und Hundeservices in Tirano",
+      "introDe": "Tirano ist eine kleine Stadt, und spezialisierte Haustierbetreuungsdienste sind sehr begrenzt. Sondrio (17 km) hat die nächstgelegenen Zwinger und Hundehotels. Für einen Tagesausflug mit dem Bernina Express ohne Ihren Hund ist Ihr Hotel der beste Ausgangspunkt für lokale Kontakte.",
+      "faqsDe": []
     }
   }
 }

@@ -1,4 +1,10 @@
-{"slug":"trogir","name":"Trogir","country":"Croatia","flag":"🇭🇷","lastUpdated":"2026-06-19","guides":{
+{
+  "slug": "trogir",
+  "name": "Trogir",
+  "country": "Croatia",
+  "flag": "🇭🇷",
+  "lastUpdated": "2026-06-19",
+  "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Trogir",
       "titleFr": "Restaurants acceptant les animaux à Trogir",
@@ -33,7 +39,11 @@
           "tipFr": "Demandez la terrasse basse sur la place plutôt que celle de l'étage ; plus ombragée le soir et plus pratique avec un chien",
           "tipEs": "Pide la terraza baja de la plaza en lugar de la de arriba; tiene más sombra por la tarde y es más cómoda con un perro",
           "tipPt": "Peça a esplanada inferior na praça em vez da de cima; tem mais sombra à noite e é mais prática com um cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Konoba+Toma+Trogir"
+          "googleMapsUrl": "https://maps.google.com/?q=Konoba+Toma+Trogir",
+          "descriptionDe": "Eine familiengeführte dalmatinische Taverne im Herzen der Altstadt, die seit 2002 frischen Fisch, lokale Rezepte und dalmatinische Weine serviert. Wohlerzogene Hunde sind auf der Terrasse willkommen, und die Familie bittet darum, den Hund bei der Reservierung zu erwähnen, damit sie Ihnen einen bequemen, schattigen Platz geben können.",
+          "petPolicyDe": "Wohlerzogene Hunde auf der Terrasse willkommen; bei Reservierung erwähnen",
+          "mustTryDe": "Gegrillter frischer Fisch, dalmatinische Peka, lokaler Plavac-Wein",
+          "tipDe": "Bitten Sie um die untere Terrasse auf dem Platz statt der oberen; sie ist abends schattiger und mit Hund einfacher"
         },
         {
           "name": "Caffe Bar Smokvica",
@@ -59,7 +69,11 @@
           "tipFr": "Venez en milieu d'après-midi quand la place de la cathédrale est la plus calme ; le figuier offre une vraie ombre pour un chien sous la chaleur estivale",
           "tipEs": "Ven a media tarde cuando la plaza de la catedral está más tranquila; la higuera da sombra de verdad para un perro con el calor del verano",
           "tipPt": "Venha a meio da tarde quando a praça da catedral está mais sossegada; a figueira dá sombra a sério para um cão no calor do verão",
-          "googleMapsUrl": "https://maps.google.com/?q=Caffe+Bar+Smokvica+Trogir"
+          "googleMapsUrl": "https://maps.google.com/?q=Caffe+Bar+Smokvica+Trogir",
+          "descriptionDe": "Eine entspannte Café-Bar auf einem winzigen Platz direkt neben der Kathedrale des Heiligen Laurentius, mit einer schön beschatteten Terrasse unter einem Feigenbaum (smokva bedeutet Feige). Es ist ein langjährig haustierfreundlicher Ort für einen Kaffee oder ein kühles Bier, allerdings gibt es manchmal eine Hauskatze im Inneren, halten Sie Ihren Hund also auf der Terrasse.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Kroatischer Kaffee, lokales Craft-Bier, Rakija",
+          "tipDe": "Kommen Sie am frühen Nachmittag, wenn der Kathedralenplatz am ruhigsten ist; der Feigenbaum spendet in der Sommerhitze echten Schatten für einen Hund"
         },
         {
           "name": "Konoba Trs",
@@ -85,7 +99,11 @@
           "tipFr": "Réservez à l'avance en juillet-août ; c'est petit et les tables ombragées de la cour partent en premier",
           "tipEs": "Reserva con antelación en julio y agosto; es pequeño y las mesas con sombra del patio se ocupan primero",
           "tipPt": "Reserve com antecedência em julho e agosto; é pequeno e as mesas com sombra do pátio são as primeiras a esgotar",
-          "googleMapsUrl": "https://maps.google.com/?q=Konoba+Trs+Trogir"
+          "googleMapsUrl": "https://maps.google.com/?q=Konoba+Trs+Trogir",
+          "descriptionDe": "Eine angesehene, im MICHELIN Guide gelistete Konoba, in einer engen Altstadtgasse mit steingemauertem Innenraum und einem hübschen Außensitzbereich im Grünen. Hunde sind an den Außentischen generell willkommen; lassen Sie sich vom Personal in den begrünten Innenhof setzen, der kühler bleibt als die Gasse.",
+          "petPolicyDe": "Hunde an den Außentischen generell willkommen",
+          "mustTryDe": "Oktopussalat, frische Meeresfrüchte, dalmatinische Olivenölgerichte",
+          "tipDe": "Reservieren Sie im Juli und August im Voraus; es ist klein, und die schattigen Innenhoftische sind zuerst vergeben"
         }
       ],
       "tipsEn": [
@@ -163,6 +181,22 @@
           "q": "Faz demasiado calor para comer ao ar livre com um cão em Trogir no verão?",
           "a": "A meio do dia em julho e agosto, sim. As praças de pedra irradiam calor e o pavimento pode queimar as patas. Coma cedo ou depois do pôr do sol, escolha uma esplanada com sombra e leve água para o seu cão."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Trogir",
+      "introDe": "Trogirs winzige UNESCO-Altstadt ist durchzogen von Steingassen und schattigen Plätzen, wo Konobas (traditionelle dalmatinische Tavernen) sich auf Terrassen ausbreiten, und die meisten heißen einen wohlerzogenen angeleinten Hund auf den Außensitzplätzen willkommen. Im dalmatinischen Sommer ist es klug, eine schattige Terrasse für die kühleren Abendstunden zu buchen, da Steinplätze bis weit in die Nacht Hitze abstrahlen und ein Mittagessen auf blankem Pflaster für Pfoten hart ist. Die folgenden drei Adressen nehmen alle zuverlässig Hunde auf ihren Terrassen auf.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Trogir erlaubt?",
+          "a": "Auf Terrassen ja, fast überall. Die meisten Konobas und Café-Bars in der Altstadt setzen einen ruhigen angeleinten Hund gerne draußen mit hin, besonders abends. Klimatisierte Innenräume sind unterschiedlich geregelt, fragen Sie also vorher."
+        },
+        {
+          "q": "Wo ist die hundefreundlichste Gegend zum Essen in Trogir?",
+          "a": "Die Plätze und Gassen der UNESCO-Altstadt und die Uferpromenade Riva. Konoba Toma, Caffe Bar Smokvica an der Kathedrale und Konoba Trs heißen Hunde alle zuverlässig auf ihren schattigen Terrassen willkommen."
+        },
+        {
+          "q": "Ist es im Sommer zu heiß, um mit Hund draußen in Trogir zu essen?",
+          "a": "Mittags im Juli und August ja. Die Steinplätze strahlen Hitze ab, und das Pflaster kann Pfoten verbrennen. Essen Sie früh oder nach Sonnenuntergang, wählen Sie eine schattige Terrasse, und bringen Sie Wasser für Ihren Hund mit."
+        }
       ]
     },
     "parks": {
@@ -193,7 +227,10 @@
           "tipFr": "Allez-y aux premières lueurs en été. La canopée de pins garde le chemin frais et vous l'aurez presque pour vous avant l'arrivée des baigneurs",
           "tipEs": "Ve al amanecer en verano. La copa de los pinos mantiene fresco el camino y lo tendrás casi para ti antes de que llegue la gente a la playa",
           "tipPt": "Vá ao romper do dia no verão. A copa dos pinheiros mantém o caminho fresco e tê-lo-á quase só para si antes de chegar a multidão à praia",
-          "googleMapsUrl": "https://maps.google.com/?q=Pantan+Trogir"
+          "googleMapsUrl": "https://maps.google.com/?q=Pantan+Trogir",
+          "descriptionDe": "Etwa 1,5 km östlich der Altstadt verbindet Pantan einen Sandstrand mit Pinienwäldern und einem geschützten Feuchtgebiet, gespeist von der Quelle Pantan. Die schattigen Pinienwege sind der kühlste Hundespaziergang in Trogirs Nähe an einem heißen Tag, und der flache Küstenpfad ist auch für ältere Hunde leicht. Halten Sie Hunde in der Nähe des Schutzgebiets an der Leine, um brütende Vögel zu schützen.",
+          "offLeashAreaDe": "Keine ausgewiesene Freilaufzone; Hunde anleinen, besonders in der Nähe des geschützten Feuchtgebiets",
+          "tipDe": "Gehen Sie im Sommer bei den ersten Sonnenstrahlen los. Das Pinien-Blätterdach hält den Weg kühl, und Sie haben ihn meist für sich, bevor die Strandmenge eintrifft"
         },
         {
           "name": "Seget Donji Seafront Promenade",
@@ -213,7 +250,10 @@
           "tipFr": "Faites-la au coucher du soleil quand la lumière sur l'eau est magnifique et que la pierre a refroidi ; les cafés du parcours acceptent généralement les chiens en terrasse",
           "tipEs": "Recórrelo al atardecer, cuando la luz sobre el agua es preciosa y la piedra se ha enfriado; los cafés del camino suelen admitir perros en sus terrazas",
           "tipPt": "Faça-o ao pôr do sol, quando a luz sobre a água é linda e a pedra arrefeceu; os cafés ao longo do caminho costumam aceitar cães nas esplanadas",
-          "googleMapsUrl": "https://maps.google.com/?q=Seget+Donji+promenade"
+          "googleMapsUrl": "https://maps.google.com/?q=Seget+Donji+promenade",
+          "descriptionDe": "Eine lange, flache Uferpromenade, die westlich von Trogir zum Fischerdorf Seget Donji führt, gesäumt von Bänken und Schattenbäumen am Wasser. Es ist ein ruhiger, größtenteils ebener Spaziergang abseits des Altstadttrubels und ein Favorit lokaler Hundehalter in den kühleren Stunden. Die Meeresbrise macht ihn spürbar angenehmer als die inneren Steinstraßen.",
+          "offLeashAreaDe": "Leinenpflichtige Promenade; keine Freilauffläche",
+          "tipDe": "Gehen Sie ihn bei Sonnenuntergang, wenn das Licht auf dem Wasser wunderschön ist und der Stein abgekühlt ist; Cafés entlang des Wegs erlauben Hunde meist auf ihren Terrassen"
         },
         {
           "name": "Trogir Riva & Kamerlengo Surrounds",
@@ -233,7 +273,10 @@
           "tipFr": "L'espace vert près de Kamerlengo est la seule vraie pelouse du centre ; utilisez-la pour une courte pause, puis filez à Pantan pour une vraie balade",
           "tipEs": "El verde junto a Kamerlengo es el único trozo real de hierba del centro; úsalo para un descanso rápido y luego ve a Pantan para un paseo de verdad",
           "tipPt": "O verde junto a Kamerlengo é o único pedaço real de relva do centro; use-o para uma pausa rápida e depois siga para Pantan para um passeio a sério",
-          "googleMapsUrl": "https://maps.google.com/?q=Kamerlengo+Trogir"
+          "googleMapsUrl": "https://maps.google.com/?q=Kamerlengo+Trogir",
+          "descriptionDe": "Die palmengesäumte Riva verläuft entlang der Südseite der Altstadtinsel und öffnet sich am Westende zu einer grünen Freifläche neben der Festung Kamerlengo, mit einem kleinen Spielplatz und Rasenflächen. Es ist der einfachste, zentralste Ort für einen kurzen angeleinten Spaziergang, belebt, aber vom Wasser her luftig. Hunde müssen in der gesamten Altstadt an der Leine geführt werden.",
+          "offLeashAreaDe": "Nur an der Leine, in der gesamten Altstadt und an der Riva",
+          "tipDe": "Die Grünfläche bei Kamerlengo ist das einzige echte Rasenstück im Zentrum; nutzen Sie es für eine kurze Pause und gehen Sie dann nach Pantan für einen richtigen Spaziergang"
         }
       ],
       "tipsEn": [
@@ -314,6 +357,22 @@
         {
           "q": "Os cães têm de andar com trela em Trogir?",
           "a": "Sim. Os cães têm de andar com trela em todo o centro histórico da UNESCO, na Riva e junto à reserva natural de Pantan. Os donos também devem apanhar os dejetos."
+        }
+      ],
+      "titleDe": "Hundespaziergänge und Grünflächen in Trogir",
+      "introDe": "Trogirs Altstadt ist eine Steininsel mit wenig Grün, daher sind die besten Hundespaziergänge die Uferpromenaden und die pinienbeschatteten Küstenwege gleich außerhalb des historischen Kerns. Im dalmatinischen Sommer gehen Sie früh morgens oder nach Sonnenuntergang spazieren und bleiben Sie auf schattigen, baumbestandenen Routen; blanker Stein und Asphalt werden ab dem späten Vormittag sehr heiß. Die Pinienwälder rund um Pantan und die Promenade von Seget sind die grünsten, kühlsten Optionen in Stadtnähe.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Hundepark in Trogir?",
+          "a": "Es gibt keinen eigenen eingezäunten Freilauf-Hundepark in der Altstadt. Die besten Hundespaziergänge sind die schattigen Pinienwälder bei Pantan, die Uferpromenade von Seget und die Grünfläche bei der Festung Kamerlengo, alle an der Leine."
+        },
+        {
+          "q": "Wo kann ich mit meinem Hund abseits der Sommerhitze in Trogir spazieren gehen?",
+          "a": "Die Pinienwälder rund um Pantan, etwa 1,5 km östlich des Zentrums, bleiben schattig und kühl. Gehen Sie früh morgens oder nach Sonnenuntergang spazieren, meiden Sie mittags blanken Stein und Asphalt, und führen Sie immer Wasser mit."
+        },
+        {
+          "q": "Müssen Hunde in Trogir an der Leine geführt werden?",
+          "a": "Ja. Hunde müssen in der gesamten UNESCO-Altstadt, an der Riva und in der Nähe des Naturschutzgebiets Pantan an der Leine geführt werden. Halter werden außerdem gebeten, die Hinterlassenschaften ihrer Hunde zu entfernen."
         }
       ]
     },
@@ -437,6 +496,22 @@
           "q": "Os cães são permitidos nos ferries da Jadrolinija a partir de Split?",
           "a": "Sim. A Jadrolinija aceita animais nos seus ferries de carros e passageiros, geralmente no convés exterior. Os cães grandes (mais de 8 kg) viajam gratuitamente mas têm de ficar fora das cabinas. Confirme sempre as regras dos catamarãs, que podem diferir."
         }
+      ],
+      "titleDe": "Mit Haustier unterwegs in Trogir",
+      "introDe": "Trogirs Altstadt ist autofrei und winzig, Sie werden also größtenteils zu Fuß mit angeleintem Hund unterwegs sein. Für Ausflüge nach Split ist die Passagierfähre Bura Line die haustierfreundlichste Option, während der Bus von Promet Split (Linie 37) und Taxis im Ermessen des Fahrers liegen. Der Flughafen Split (SPU) liegt nur 6 km entfernt im nahegelegenen Kastela, was Trogir zu einem der am einfachsten mit Haustier erreichbaren Standorte in Dalmatien macht.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf der Fähre zwischen Trogir und Split mitnehmen?",
+          "a": "Ja. Die Passagierfähre Bura Line zwischen Trogir und Split erlaubt Haustiere an Bord (etwa 1 Stunde, rund 10 EUR pro Person). Halten Sie Ihren Hund angeleint, führen Sie einen Maulkorb mit für den Fall, dass er verlangt wird, und setzen Sie sich im Sommer aufs offene Deck."
+        },
+        {
+          "q": "Wie komme ich vom Flughafen Split mit Hund nach Trogir?",
+          "a": "Der Flughafen Split ist nur 6 km von Trogir entfernt. Buslinie 37 hält am Flughafen und fährt weiter nach Trogir, doch die Mitnahme eines Hundes liegt im Ermessen des Fahrers. Ein vorgebuchtes haustierfreundliches Taxi oder ein Transfer ist die zuverlässigste Option für einen großen Hund."
+        },
+        {
+          "q": "Sind Hunde auf den Jadrolinija-Fähren ab Split erlaubt?",
+          "a": "Ja. Jadrolinija erlaubt Haustiere auf seinen Auto- und Passagierfähren, meist auf dem offenen Deck. Größere Hunde (über 8 kg) fahren kostenlos, müssen aber außerhalb der Kabinen bleiben. Bestätigen Sie immer die Regeln für Katamarane, die abweichen können."
+        }
       ]
     },
     "beaches": {
@@ -519,6 +594,18 @@
           "q": "Os cães podem ir às praias principais de Trogir no verão?",
           "a": "Muitas vezes não durante o dia em julho e agosto, quando muitas praias públicas restringem ou proíbem cães. Use antes as praias caninas dedicadas e leve o seu cão à água de manhã cedo ou ao fim do dia para evitar o calor."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Trogir",
+      "introDe": "Die Riviera von Trogir verfügt über mehrere eigene Hundestrände (plaza za pse), an denen Haustiere schwimmen können, hauptsächlich auf der Insel Ciovo und bei Seget. An allgemeinen öffentlichen Stränden sind Hunde im Juli und August tagsüber oft eingeschränkt oder verboten, nutzen Sie also stattdessen die markierten Hundebereiche. In der dalmatinischen Sommerhitze gehen Sie mit Ihrem Hund früh oder spät ans Wasser, bringen Sie frisches Wasser mit, und achten Sie auf heiße Kieselsteine und Seeigelstacheln.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Hundestrand in der Nähe von Trogir?",
+          "a": "Ja. Es gibt markierte Hundestrände (plaza za pse) an der Riviera von Trogir, darunter einen beim Hotel Medena in Seget Donji und einen haustierfreundlichen Abschnitt bei Okrug Gornji (Copacabana) auf der Insel Ciovo, wo Hunde schwimmen können."
+        },
+        {
+          "q": "Dürfen Hunde im Sommer an Trogirs Hauptstrände?",
+          "a": "Tagsüber im Juli und August oft nicht, wenn viele öffentliche Badestrände Hunde einschränken oder verbieten. Nutzen Sie stattdessen die eigenen Hundestrände, und gehen Sie mit Ihrem Hund früh morgens oder abends ans Wasser, um die Hitze zu vermeiden."
+        }
       ]
     },
     "vets": {
@@ -565,7 +652,10 @@
           "tipEs": "Guarda el número antes de viajar: +385 21 881 429. Llama antes, tiene horario de consulta y no guardia 24h",
           "tipPt": "Guarde o número antes de viajar: +385 21 881 429. Ligue antes, tem horário de clínica e não cobertura 24h",
           "googleMapsUrl": "https://maps.google.com/?q=Veterinarska+ambulanta+Trogir",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Sprechstunden an Wochentagen; vorher anrufen. Keine 24-Stunden-Klinik",
+          "descriptionDe": "Trogirs etablierte örtliche Tierarztpraxis, die nächstgelegene Option für die Routineversorgung wie Kontrolluntersuchungen, Nachfüllen von Rezepten, Zeckenentfernung und kleinere Probleme während eines Aufenthalts. Es ist eine allgemeine Klinik und kein 24-Stunden-Notfallkrankenhaus, rufen Sie also vorher wegen der Öffnungszeiten an, und für schwere Notfälle außerhalb dieser Zeiten fahren Sie zu einer Klinik in Split.",
+          "tipDe": "Speichern Sie die Nummer vor der Reise: +385 21 881 429. Vorher anrufen, da hier Praxiszeiten statt 24-Stunden-Betrieb gelten"
         },
         {
           "name": "Vetti Split (Veterinarska klinika)",
@@ -587,7 +677,10 @@
           "tipEs": "Guarda el 060 600 900 en tu teléfono al llegar; es la línea fuera de horario y piden que llames antes de ir",
           "tipPt": "Guarde o 060 600 900 no telemóvel à chegada; é a linha fora de horas e pedem que ligue antes de ir",
           "googleMapsUrl": "https://maps.google.com/?q=Vetti+Split+Dracevac",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo-Fr 08:00-20:00, Sa 08:00-13:00; 24-Stunden-Bereitschaft über 060 600 900",
+          "descriptionDe": "Eine moderne, gut ausgestattete Kleintierklinik in Split, Teil der landesweiten Vetti-Gruppe, mit einem vollständigen Leistungsangebot und rund um die Uhr besetztem Bereitschaftsdienst. Für ernste Probleme außerhalb der Öffnungszeiten der Klinik in Trogir ist dies die nächstgelegene zuverlässige Notfalloption, etwa 27 km östlich. Rufen Sie die Bereitschaftsnummer (060 600 900) an, bevor Sie ankommen, damit sich das Team vorbereiten kann.",
+          "tipDe": "Speichern Sie 060 600 900 gleich bei Ankunft in Ihrem Telefon; das ist die Nachtnummer, und man wird gebeten, vor dem Kommen anzurufen"
         },
         {
           "name": "Pet-Vet Split (Veterinarska stanica)",
@@ -609,7 +702,10 @@
           "tipEs": "Usa su web para encontrar la ubicación de Split más cercana y confirmar el horario antes de hacer el viaje desde Trogir",
           "tipPt": "Use o site para encontrar a localização de Split mais próxima e confirmar o horário antes de fazer a viagem desde Trogir",
           "googleMapsUrl": "https://maps.google.com/?q=Pet-Vet+Split",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Praxiszeiten; zur Bestätigung und für Notfallhinweise anrufen",
+          "descriptionDe": "Eine langjährige Tierarztstation in Split mit allgemeiner Kleintierversorgung an mehreren Standorten, eine nützliche zusätzliche Option, wenn Sie in Trogir wohnen und im weiteren Raum Split einen Tierarzt benötigen. Bestätigen Sie die aktuellen Öffnungszeiten und den richtigen Standort telefonisch oder über die Website, bevor Sie hinfahren.",
+          "tipDe": "Nutzen Sie die Website, um den nächsten Standort in Split zu finden und die Öffnungszeiten zu bestätigen, bevor Sie von Trogir aus hinfahren"
         }
       ],
       "faqsEn": [
@@ -650,6 +746,18 @@
         {
           "q": "O que preciso para levar o meu cão para a Croácia?",
           "a": "Os animais registados na UE precisam de um passaporte europeu válido, microchip e vacinação antirrábica com pelo menos 21 dias. Não há quarentena para animais da UE. Os animais de fora da UE precisam de microchip, vacinação antirrábica e certificado sanitário da UE; consulte as regras atualizadas antes de viajar."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Trogir, Tierarztpraxen und Haustierbetreuung",
+      "introDe": "Trogir hat eine örtliche Tierarztpraxis für die Routineversorgung, während die nächstgelegenen größeren Kliniken mit rund um die Uhr besetztem Bereitschaftsdienst in Split liegen, etwa 27 km entfernt. EU-registrierte Haustiere benötigen einen gültigen EU-Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung, um nach Kroatien einzureisen. Im dalmatinischen Sommer sind Hitzschlag, Seeigelstacheln und durch Zecken übertragene Krankheiten die häufigsten Notfälle im Urlaub, wissen Sie also, wo die nächste Klinik ist, bevor Sie sie brauchen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Notfall-Tierarzt in Trogir?",
+          "a": "Trogir hat eine örtliche allgemeine Tierarztpraxis (Veterinarska ambulanta Trogir, +385 21 881 429) für die Routineversorgung, jedoch kein 24-Stunden-Krankenhaus. Für Notfälle außerhalb der Öffnungszeiten ist die zuverlässigste Option eine Klinik in Split wie Vetti Split, mit einer 24-Stunden-Bereitschaftsnummer (060 600 900), etwa 27 km entfernt."
+        },
+        {
+          "q": "Was brauche ich, um meinen Hund nach Kroatien mitzubringen?",
+          "a": "EU-registrierte Haustiere benötigen einen gültigen EU-Heimtierausweis, einen Mikrochip und eine mindestens 21 Tage alte Tollwutimpfung. Für EU-Haustiere gibt es keine Quarantäne. Nicht-EU-Haustiere benötigen einen Mikrochip, eine Tollwutimpfung und ein EU-Gesundheitszeugnis; prüfen Sie die aktuellen Regeln vor der Reise."
         }
       ]
     },
@@ -759,6 +867,22 @@
           "q": "O que devo levar para Trogir com o meu cão?",
           "a": "Passaporte europeu, trela e açaime (algum transporte pode exigir), taça de água dobrável, repelente de flebótomos e carraças recomendado pelo seu veterinário, e uma toalha para cães molhados ou com areia. Junte proteção para as patas ou simplesmente ande na relva e à sombra no calor."
         }
+      ],
+      "titleDe": "Haustierfreundliche Tipps für Trogir",
+      "introDe": "Trogir ist eine kompakte, begehbare UNESCO-Stadt, in der Hunde ein normaler Teil des Alltags sind, doch der dalmatinische Sommer erfordert echte Hitzeplanung. Halten Sie Hunde in der Altstadt angeleint, gehen Sie in den kühlen Stunden spazieren, und nutzen Sie die markierten Hundestrände. Ein paar lokale Regeln und Gewohnheiten machen die Reise einfacher.",
+      "faqsDe": [
+        {
+          "q": "Ist Trogir gut für Hunde geeignet?",
+          "a": "Ja. Trogir ist kompakt und gut begehbar, Hunde sind auf den meisten Café- und Konoba-Terrassen willkommen, und es gibt mehrere Hundestrände in der Nähe. Der Hauptvorbehalt ist die Sommerhitze: Gehen Sie in den kühlen Stunden spazieren, halten Sie Hunde in der Altstadt angeleint, und schützen Sie sie vor Sandmücken und Zecken."
+        },
+        {
+          "q": "Wann ist die beste Zeit, um Trogir mit Hund zu besuchen?",
+          "a": "Später Frühling und früher Herbst (Mai bis Juni und September bis Oktober). Das Meer ist noch warm genug zum Schwimmen, Spaziergänge sind angenehm, und es ist deutlich weniger überlaufen als in der intensiven Hitze von Juli und August."
+        },
+        {
+          "q": "Was sollte ich für Trogir mit meinem Hund einpacken?",
+          "a": "EU-Heimtierausweis, eine Leine und einen Maulkorb (manche Verkehrsmittel können ihn verlangen), einen faltbaren Wassernapf, ein von Ihrem Tierarzt empfohlenes Sandmücken- und Zeckenmittel und ein Handtuch für sandige oder nasse Hunde. Ergänzen Sie Pfotenschutz oder gehen Sie in der Hitze einfach auf Rasen und im Schatten."
+        }
       ]
     },
     "attractions": {
@@ -792,7 +916,11 @@
           "tipFr": "Parcourez-la tôt le matin avant l'arrivée des excursionnistes et des groupes de croisière ; les ruelles de marbre sont alors les plus fraîches et les plus vides",
           "tipEs": "Recórrelo temprano antes de que lleguen los excursionistas y los grupos de crucero; las callejuelas de mármol están entonces más frescas y vacías",
           "tipPt": "Percorra-o de manhã cedo antes de chegarem os visitantes de um dia e os grupos de cruzeiro; as vielas de mármore estão então mais frescas e vazias",
-          "googleMapsUrl": "https://maps.google.com/?q=Trogir+old+town+cathedral"
+          "googleMapsUrl": "https://maps.google.com/?q=Trogir+old+town+cathedral",
+          "descriptionDe": "Die gesamte ummauerte Altstadtinsel, eine UNESCO-Welterbestätte, ist ein Labyrinth aus Marmorstraßen, romanischen Kirchen und venezianischen Palästen, zentriert auf dem Platz der Kathedrale des Heiligen Laurentius mit ihrem berühmten Radovan-Portal. Sie können alles davon mit angeleintem Hund erkunden, doch das Kathedraleninnere und der Glockenturm lassen keine Haustiere zu. Es ist klein genug, um es in einer Stunde zu umrunden, länger, wenn Sie an den Terrassen anhalten.",
+          "dogPolicyDe": "Hunde an der Leine in den Straßen und auf den Plätzen willkommen; nicht in der Kathedrale",
+          "admissionFeeDe": "Kostenlos, um durch die Straßen zu schlendern",
+          "tipDe": "Gehen Sie früh morgens spazieren, bevor die Tagesausflügler und Kreuzfahrtgruppen eintreffen; die Marmorgassen sind dann am kühlsten und leersten"
         },
         {
           "name": "Kamerlengo Fortress",
@@ -815,7 +943,11 @@
           "tipFr": "L'espace vert au pied de la forteresse est la meilleure pelouse de la vieille ville pour une courte pause chien avec vue sur la mer",
           "tipEs": "El espacio verde en la base de la fortaleza es el mejor trozo de hierba del casco antiguo para un descanso rápido del perro con vistas al mar",
           "tipPt": "O espaço verde na base da fortaleza é o melhor pedaço de relva do centro histórico para uma pausa rápida do cão com vista para o mar",
-          "googleMapsUrl": "https://maps.google.com/?q=Kamerlengo+Trogir"
+          "googleMapsUrl": "https://maps.google.com/?q=Kamerlengo+Trogir",
+          "descriptionDe": "Eine markante venezianische Festung, um 1420 am Westrand der Altstadtinsel direkt am Meer erbaut. Das Innere ist größtenteils eine offene Hülle, deren Wehrgänge Sie für weite Ausblicke über Trogir und Ciovo erklimmen können, mit einer grünen Freifläche und einem kleinen Spielplatz an ihrem Fuß. Klären Sie die Hunderegelung an der Kasse für den Aufstieg auf die Mauern, doch das umgebende Gelände ist ein einfacher angeleinter Spaziergang.",
+          "dogPolicyDe": "Umgebendes Gelände für angeleinte Hunde offen; vor dem Erklimmen der Mauern an der Kasse klären",
+          "admissionFeeDe": "Kleine Gebühr für den Eintritt und das Erklimmen der Festung",
+          "tipDe": "Die Grünfläche am Fuß der Festung ist das beste Rasenstück in der Altstadt für eine kurze Hundepause mit Meerblick"
         },
         {
           "name": "Trogir Riva Promenade",
@@ -838,7 +970,11 @@
           "tipFr": "Faites-la au coucher du soleil, quand la pierre a refroidi, que les yachts s'illuminent et que les terrasses dog-friendly se remplissent de locaux",
           "tipEs": "Paséalo al atardecer, cuando la piedra se ha enfriado, los yates se iluminan y las terrazas pet-friendly se llenan de locales",
           "tipPt": "Passeie ao pôr do sol, quando a pedra arrefeceu, os iates se iluminam e as esplanadas pet-friendly se enchem de gente local",
-          "googleMapsUrl": "https://maps.google.com/?q=Trogir+Riva"
+          "googleMapsUrl": "https://maps.google.com/?q=Trogir+Riva",
+          "descriptionDe": "Die palmengesäumte Riva verläuft über die gesamte Südseite der Altstadtinsel, eine breite Uferpromenade mit Bars, Restaurants und festgemachten Jachten, das gesellige Herz von Trogir. Es ist der entspannteste angeleinte Spaziergang der Stadt, luftig vom Wasser her und gesäumt von haustierfreundlichen Terrassen. Von hier aus blicken Sie hinüber nach Ciovo und entlang bis zur Festung Kamerlengo.",
+          "dogPolicyDe": "Hunde an der Leine entlang der Promenade und auf den meisten Terrassen willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Schlendern Sie hier bei Sonnenuntergang entlang, wenn der Stein abgekühlt ist, die Jachten sich beleuchten und die haustierfreundlichen Terrassen sich mit Einheimischen füllen"
         }
       ],
       "tipsEn": [
@@ -888,6 +1024,14 @@
           "q": "Posso visitar o centro histórico e a catedral de Trogir com o meu cão?",
           "a": "Pode explorar todo o centro histórico UNESCO, as suas praças, a Riva e o recinto da fortaleza de Kamerlengo com um cão com trela. O interior da catedral, o campanário e os museus não aceitam cães, por isso planeie essas visitas para quando o seu cão puder descansar."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Trogir",
+      "introDe": "Trogirs UNESCO-Altstadt ist ein Freilichtmuseum, und fast alles davon lässt sich mit angeleintem Hund genießen: die mittelalterlichen Gassen, der Platz der Kathedrale des Heiligen Laurentius, das Gelände der Festung Kamerlengo und die Uferpromenade Riva. Innenräume wie die Kathedrale und Museen lassen Hunde in der Regel nicht zu, planen Sie Innenbesichtigungen also für Zeiten, in denen Ihr Hund sich ausruhen kann. Im Sommer erkunden Sie die Stadt am besten in der Kühle des Morgens oder Abends.",
+      "faqsDe": [
+        {
+          "q": "Kann ich Trogirs Altstadt und Kathedrale mit meinem Hund besuchen?",
+          "a": "Sie können die gesamte UNESCO-Altstadt, ihre Plätze, die Riva und das Gelände der Festung Kamerlengo mit angeleintem Hund erkunden. Das Kathedraleninnere, der Glockenturm und die Innenmuseen lassen keine Hunde zu, planen Sie diese also für eine Zeit, in der Ihr Hund sich ausruhen kann."
+        }
       ]
     },
     "petsitting": {
@@ -920,7 +1064,10 @@
           "tip": "Book early in July and August; sitter availability on the Trogir Riviera is limited in peak season",
           "tipFr": "Réservez tôt en juillet-août ; les disponibilités de sitters sur la Riviera de Trogir sont limitées en haute saison",
           "tipEs": "Reserva con antelación en julio y agosto; la disponibilidad de cuidadores en la Riviera de Trogir es limitada en temporada alta",
-          "tipPt": "Reserve cedo em julho e agosto; a disponibilidade de cuidadores na Riviera de Trogir é limitada na época alta"
+          "tipPt": "Reserve cedo em julho e agosto; a disponibilidade de cuidadores na Riviera de Trogir é limitada na época alta",
+          "descriptionDe": "Pawshake ist eine internationale Plattform für Haustierbetreuung mit verifizierten Sittern in ganz Kroatien, einschließlich des Raums Split und der Riviera von Trogir. Für Reisende ist es eine zuverlässige Möglichkeit, einen geprüften örtlichen Sitter, Gassi-Geher oder Tagesbetreuung für ein paar Stunden oder einen ganzen Tag zu buchen. Sitter werden von früheren Kunden bewertet und sind über die Pawshake-Versicherung abgedeckt, und viele im Raum Split sprechen Englisch.",
+          "serviceTypeDe": "Online-Buchung. Betreuung, Gassi-Service, Tagesbetreuung, Übernachtung",
+          "tipDe": "Buchen Sie im Juli und August frühzeitig; die Verfügbarkeit von Sittern an der Riviera von Trogir ist in der Hochsaison begrenzt"
         },
         {
           "name": "Holidog Croatia",
@@ -943,7 +1090,10 @@
           "tip": "Message a sitter a few days ahead and share your dog's heat-sensitivity and walk routine, since summer schedules shift to cooler hours",
           "tipFr": "Contactez un sitter quelques jours à l'avance et indiquez la sensibilité à la chaleur et le rythme de promenade de votre chien, car les horaires d'été se décalent aux heures fraîches",
           "tipEs": "Escribe a un cuidador unos días antes e indica la sensibilidad al calor y la rutina de paseo de tu perro, ya que los horarios de verano se desplazan a las horas frescas",
-          "tipPt": "Contacte um cuidador uns dias antes e partilhe a sensibilidade ao calor e a rotina de passeio do seu cão, já que os horários de verão mudam para as horas frescas"
+          "tipPt": "Contacte um cuidador uns dias antes e partilhe a sensibilidade ao calor e a rotina de passeio do seu cão, já que os horários de verão mudam para as horas frescas",
+          "descriptionDe": "Holidog ist eine paneuropäische Plattform für Haustierbetreuung, die Halter mit örtlichen Sittern und Gassi-Gehern verbindet, auch im Raum Split und Trogir. Praktisch, um einen Tagessitter oder eine Unterbringung zu buchen, während Sie einen hundefreien Ausflug unternehmen, mit Profilen, Bewertungen und Versicherungsoptionen. Schreiben Sie wie bei jeder Plattform zuerst dem Sitter, um zu bestätigen, dass er mit Größe und Bedürfnissen Ihres Hundes zurechtkommt.",
+          "serviceTypeDe": "Online-Buchung. Betreuung, Gassi-Service, Unterbringung",
+          "tipDe": "Schreiben Sie einem Sitter ein paar Tage im Voraus und teilen Sie die Hitzeempfindlichkeit und Spazierroutine Ihres Hundes mit, da sich Sommerpläne auf kühlere Stunden verschieben"
         }
       ],
       "tipsEn": [
@@ -989,6 +1139,15 @@
           "q": "Quanto custa o pet sitting na zona de Trogir?",
           "a": "Conte com cerca de 15 a 30 EUR por dia consoante o serviço, sendo o alojamento noturno normalmente mais caro. Reserve através de uma plataforma como a Pawshake ou a Holidog que cubra Split e a Riviera de Trogir, e reserve cedo na época alta de julho a agosto."
         }
+      ],
+      "titleDe": "Hundesitter und Haustierbetreuung in Trogir",
+      "introDe": "Manchmal braucht man ein paar Stunden ohne Hund, für einen Bootsausflug, ein langes Mittagessen oder ein Innenmuseum. Trogir ist klein, daher nutzen die meisten Reisenden Online-Plattformen, die den weiteren Raum Split und die Riviera von Trogir abdecken, um einen verifizierten örtlichen Sitter oder Gassi-Geher zu finden.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Hundebetreuung im Raum Trogir?",
+          "a": "Rechnen Sie mit etwa 15 bis 30 EUR pro Tag, je nach Leistung, wobei Übernachtungsbetreuung meist teurer ist. Buchen Sie über eine Plattform wie Pawshake oder Holidog, die den Raum Split und die Riviera von Trogir abdeckt, und reservieren Sie in der geschäftigen Saison von Juli bis August frühzeitig."
+        }
       ]
     }
-  }}
+  }
+}

@@ -39,7 +39,11 @@
           "tipFr": "Combinez le dîner avec une promenade du soir au parc Gocciadoro juste en face.",
           "tipEs": "Combina la cena con un paseo nocturno por el parque Gocciadoro, justo enfrente.",
           "tipPt": "Combine o jantar com um passeio noturno no parque Gocciadoro, mesmo em frente.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Loto+Ristorante+Pizzeria+Via+Gocciadoro+62+Trento"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Loto+Ristorante+Pizzeria+Via+Gocciadoro+62+Trento",
+          "descriptionDe": "Eine Institution in Trento seit 1997, die direkt neben dem Park Gocciadoro Pizza und Klassiker aus dem Trentino serviert. Das Personal ist dafür bekannt, Hunde aktiv willkommen zu heißen und während des Essens einen Wassernapf zu bringen.",
+          "petPolicyDe": "Hunde drinnen und draußen willkommen; Wassernapf wird angeboten.",
+          "mustTryDe": "Pizza aus dem Holzofen und lokaler Teroldego-Wein",
+          "tipDe": "Kombinieren Sie das Abendessen mit einem Abendspaziergang im gegenüberliegenden Park Gocciadoro."
         },
         {
           "name": "Trattoria Dal Boccia",
@@ -65,7 +69,11 @@
           "tipFr": "Réservez une table au jardin les soirs d'été, elles partent vite.",
           "tipEs": "Reserva mesa en el jardín las noches de verano, vuelan.",
           "tipPt": "Reserve mesa no jardim nas noites de verão, esgotam depressa.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+Dal+Boccia+Via+degli+Alberti+Poja+13+Trento"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trattoria+Dal+Boccia+Via+degli+Alberti+Poja+13+Trento",
+          "descriptionDe": "Eine 2024 eröffnete Trattoria, Weinbar und Pizzeria mit einer Terrasse mit Blick ins Grüne. Hunde jeder Größe sind zugelassen, Näpfe stehen bereit, und ein Garten macht Sommeressen unkompliziert.",
+          "petPolicyDe": "Hunde jeder Größe zugelassen; Näpfe verfügbar; Sitzplätze im Garten.",
+          "mustTryDe": "Trentiner Canederli und lokale Weine im Glas",
+          "tipDe": "Buchen Sie an Sommerabenden einen Gartentisch, sie sind schnell vergeben."
         },
         {
           "name": "Olympic Restaurant & Pizzeria",
@@ -91,9 +99,16 @@
           "tipFr": "Il se trouve près de la piste cyclable de l'Adige, pratique après une balade au bord du fleuve.",
           "tipEs": "Está junto al carril bici del Adigio, práctico tras un paseo por la ribera.",
           "tipPt": "Fica junto à ciclovia do Adige, prático depois de um passeio à beira-rio.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympic+Restaurant+Pizzeria+Via+Sanseverino+125+Trento"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Olympic+Restaurant+Pizzeria+Via+Sanseverino+125+Trento",
+          "descriptionDe": "Ein Grillrestaurant und Pizzeria, spezialisiert auf Fisch und Fleisch, von der Stadt Trento als haustierfreundlich gelistet. Die sommerlichen Außenplätze von Mitte Mai bis September sind der angenehmste Platz für Hunde.",
+          "petPolicyDe": "Haustiere laut offizieller Stadtliste erlaubt; im Sommer Terrasse.",
+          "mustTryDe": "Gegrillter Fisch und klassische Pizzen",
+          "tipDe": "Es liegt am Adige-Radweg, praktisch nach einem Spaziergang am Fluss."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Trento",
+      "introDe": "Die Gastronomieszene von Trento vereint alpine und italienische Traditionen, und eine gute Zahl an Trattorien und Pizzerien heißt Hunde willkommen, besonders auf Terrassen. Örtliche Verzeichnisse wie Dogwelcome listen allein in der Stadt rund dreißig hundefreundliche Bars und Lokale.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Parks & Green Spaces for Dogs in Trento",
@@ -127,7 +142,11 @@
           "bestTimeToVisitFr": "Tôt le matin en été, le sous-bois reste frais",
           "bestTimeToVisitEs": "Temprano por la mañana en verano, el bosque se mantiene fresco",
           "bestTimeToVisitPt": "De manhã cedo no verão, o bosque mantém-se fresco",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parco+di+Gocciadoro+Trento"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parco+di+Gocciadoro+Trento",
+          "descriptionDe": "Der größte Stadtpark von Trento, 20 Hektar Wald und Wiesen auf dem Hügel direkt südöstlich des Zentrums. Er umfasst eine eingezäunte Hundezone mit Trinkbrunnen sowie schattige Wege für heiße Tage.",
+          "featuresDe": "Eingezäunte Hundezone, Trinkbrunnen, Waldwege",
+          "leashRulesDe": "Leinenpflicht außerhalb der eingezäunten Hundezone",
+          "bestTimeToVisitDe": "Früher Morgen im Sommer, der Wald bleibt kühl"
         },
         {
           "name": "Giardino Alexander Langer",
@@ -151,7 +170,11 @@
           "bestTimeToVisitFr": "Fin d'après-midi, quand les maîtres du quartier se retrouvent",
           "bestTimeToVisitEs": "Última hora de la tarde, cuando se reúnen los dueños del barrio",
           "bestTimeToVisitPt": "Fim de tarde, quando os donos do bairro se juntam",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Giardino+Alexander+Langer+Trento"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Giardino+Alexander+Langer+Trento",
+          "descriptionDe": "Ein 14.000 Quadratmeter großer Nachbarschaftsgarten südlich des Zentrums, erreichbar über Via Marsala, Via Palermo und Viale Verona. Seine eingezäunte Hundezone hat einen eigenen Trinkbrunnen und liegt nahe der Tierklinik Animal Care.",
+          "featuresDe": "Eingezäunte Hundezone, Trinkbrunnen, Bänke",
+          "leashRulesDe": "Nur innerhalb der eingezäunten Anlage ohne Leine",
+          "bestTimeToVisitDe": "Später Nachmittag, wenn sich lokale Hundehalter treffen"
         },
         {
           "name": "Parco di Melta",
@@ -175,9 +198,16 @@
           "bestTimeToVisitFr": "Matinées en semaine pour courir au calme",
           "bestTimeToVisitEs": "Mañanas entre semana para correr con calma",
           "bestTimeToVisitPt": "Manhãs de dias úteis para correr com calma",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parco+di+Melta+Trento"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Parco+di+Melta+Trento",
+          "descriptionDe": "Ein 110.000 Quadratmeter großer Park im Norden der Stadt mit weiten Wiesen und fünf über das Gelände verteilten Trinkbrunnen. Die eingezäunte Hundeanlage bietet viel Auslaufraum abseits der Spielbereiche.",
+          "featuresDe": "Eingezäunte Hundezone, 5 Trinkbrunnen, große Wiesen",
+          "leashRulesDe": "Leinenpflicht außerhalb der Hundeanlage",
+          "bestTimeToVisitDe": "Wochentags morgens für einen ruhigen Auslauf"
         }
-      ]
+      ],
+      "titleDe": "Parks & Grünflächen für Hunde in Trento",
+      "introDe": "Trento betreibt seit 1997 ein offizielles Netz eingezäunter Hundezonen in seinen öffentlichen Parks, mit Beutelspendern und Trinkbrunnen. Das Open-Data-Portal der Stadt und der örtliche Lega del Cane veröffentlichen beide die vollständige Liste.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Trento with a Dog",
@@ -232,7 +262,10 @@
           "costPt": "Grátis em transportadora; tarifa reduzida ou inteira para cães grandes"
         }
       ],
-      "places": []
+      "places": [],
+      "titleDe": "Mit Hund unterwegs in Trento",
+      "introDe": "Trentino Trasporti betreibt die Stadtbusse, die Bahnlinie Trento-Malè und die Seilbahn nach Sardagna unter einheitlichen Tierregeln: kleine Hunde auf dem Arm oder in einer Transporttasche reisen kostenlos, größere Hunde zahlen ein Ticket für 1,20 Euro, und Maulkorb sowie eine Leine von höchstens 1,5 Metern sind vorgeschrieben. Führen Sie in Zügen den EU-Heimtierausweis Ihres Hundes mit.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Lake Beaches near Trento",
@@ -283,7 +316,10 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bau+Beach+Le+Stanghe+Calceranica+al+Lago"
         }
       ],
-      "places": []
+      "places": [],
+      "titleDe": "Hundefreundliche Seestrände bei Trento",
+      "introDe": "Trento liegt im Landesinneren, aber der Lago di Caldonazzo im nahen Valsugana hat zwei eigene Hundestrände, etwa 20 bis 25 Minuten mit dem Auto oder der Valsugana-Bahn entfernt. Beachten Sie, dass der gewöhnliche öffentliche Strand in der Gemeinde Caldonazzo selbst Hunde verbietet.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinarians & Emergency Care in Trento",
@@ -335,7 +371,10 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ambulatorio+Veterinario+Martignano+Trento"
         }
       ],
-      "places": []
+      "places": [],
+      "titleDe": "Tierärzte & Notfallversorgung in Trento",
+      "introDe": "Trento ist tierärztlich gut versorgt, mit einer Klinik mit 24-Stunden-Notdienst und einer diensthabenden Praxis außerhalb der Öffnungszeiten. Rufen Sie bei jedem lebensbedrohlichen Notfall vorher an, damit sich das Team vorbereiten kann.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Local Tips for Dog Owners in Trento",
@@ -422,6 +461,22 @@
           "q": "Onde pode o meu cão nadar perto de Trento?",
           "a": "No lago de Caldonazzo, a 20-25 minutos, com duas praias caninas dedicadas: Bau Beach San Cristoforo e Le Stanghe em Calceranica. A praia pública comum da vila de Caldonazzo proíbe cães."
         }
+      ],
+      "titleDe": "Lokale Tipps für Hundehalter in Trento",
+      "introDe": "Trento belohnt Halter, die um Höhenlage und Verkehrsregeln herum planen: die Stadt liegt auf 194 m, der Monte Bondone erhebt sich jedoch über 2.000 m, und für jede Fahrt mit Bus, Bahn oder Seilbahn ist gesetzlich ein Maulkorb in der Tasche vorgeschrieben.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund mit der Sardagna-Seilbahn fahren?",
+          "a": "Ja. Kleine Hunde auf dem Arm reisen kostenlos, größere Hunde zahlen ein Ticket für 1,20 Euro, immer mit Maulkorb und einer Leine von höchstens 1,5 m. Die Funivia erlaubt sogar mehr als ein Tier pro Fahrgast bei einer eigens dafür vorgesehenen zusätzlichen Fahrt."
+        },
+        {
+          "q": "Sind Hunde in den Museen von Trento und im Castello del Buonconsiglio erlaubt?",
+          "a": "Das MUSE lässt keine Hunde zu, und im Museum des Buonconsiglio sind nur kleine Hunde auf dem Arm oder in einer Transporttasche erlaubt. Die Schlossgärten dagegen heißen Hunde jeder Größe an der Leine kostenlos willkommen."
+        },
+        {
+          "q": "Wo kann mein Hund in der Nähe von Trento schwimmen?",
+          "a": "Am Lago di Caldonazzo, etwa 20-25 Minuten entfernt, der zwei eigene Hundestrände hat: Bau Beach San Cristoforo und Le Stanghe in Calceranica. Der gewöhnliche öffentliche Strand in der Stadt Caldonazzo verbietet Hunde."
+        }
       ]
     },
     "attractions": {
@@ -444,7 +499,8 @@
           "descriptionPt": "O coração de Trento, rodeado pelas casas pintadas Cazuffi-Rella, a catedral de San Vigilio e a fonte barroca de Neptuno. Todo o centro histórico pedonal percorre-se com o cão pela trela.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+del+Duomo+Trento"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Piazza+del+Duomo+Trento",
+          "descriptionDe": "Das Herz von Trento, umringt von den freskengeschmückten Cazuffi-Rella-Häusern, der Kathedrale San Vigilio und dem barocken Neptunbrunnen. Die gesamte fußgängerfreundliche Altstadt darum ist mit angeleintem Hund begehbar."
         },
         {
           "name": "Castello del Buonconsiglio gardens",
@@ -456,7 +512,8 @@
           "descriptionPt": "O castelo dos príncipes-bispos é o símbolo de Trento, e os seus jardins, pela Porta dei Diamanti, são um espaço verde público onde cães com trela de qualquer tamanho são bem-vindos. Dentro do museu só são admitidos cães pequenos ao colo ou em transportadora.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Castello+del+Buonconsiglio+Trento"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Castello+del+Buonconsiglio+Trento",
+          "descriptionDe": "Die Burg der Fürstbischöfe ist das Wahrzeichen von Trento, und ihre Gärten, betreten durch die Porta dei Diamanti, sind eine öffentliche Grünfläche, in der Hunde jeder Größe an der Leine willkommen sind. Im Museum selbst sind nur kleine Hunde auf dem Arm oder in einer Transporttasche zugelassen."
         },
         {
           "name": "Sardagna viewpoint & Monte Bondone",
@@ -468,9 +525,13 @@
           "descriptionPt": "Suba de teleférico os 400 m até ao miradouro de Sardagna sobre o vale do Adige e continue por estrada até ao planalto de Le Viote, a cerca de 1.500 m no Monte Bondone, refúgio de verão com trilhos dog-friendly e prados de piquenique. O jardim botânico alpino de Le Viote não admite cães, mas o planalto e a zona de jogos ao lado sim.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Funivia+Trento+Sardagna"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Funivia+Trento+Sardagna",
+          "descriptionDe": "Fahren Sie mit der Funivia 400 m hinauf zur Terrasse von Sardagna über dem Etschtal, und fahren Sie dann per Straße weiter zur Hochebene Viote auf etwa 1.500 m am Monte Bondone, ein beliebter Sommerausflug mit hundefreundlichen Wegen und Picknickwiesen. Der alpine botanische Garten Le Viote lässt keine Hunde zu, die Hochebene und der Spielbereich drumherum aber schon."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Trento",
+      "introDe": "Das kompakte Renaissance-Zentrum von Trento, die freskengeschmückte Piazza del Duomo und die Berge, die direkt aus der Stadt aufragen, machen sie zu einer einfach mit Hund zu besichtigenden Stadt. Die meisten Highlights liegen im Freien und sind zu Fuß oder mit der Sardagna-Funivia erreichbar.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Daycare in Trento",
@@ -522,7 +583,10 @@
           "priceRangePt": "A partir de cerca de 12 EUR por passeio",
           "bookingRequired": true
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung & Hundetagesstätte in Trento",
+      "introDe": "Zwischen dem Tagesdienst des städtischen Tierheims, einer eigenen Hundetagesstätte und den großen Betreuungsplattformen macht es Trento leicht, einen Museumsbesuch oder ein Abendessen abzudecken, an dem Ihr Hund nicht teilnehmen kann.",
+      "faqsDe": []
     }
   }
 }

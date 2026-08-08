@@ -39,7 +39,11 @@
           "tipFr": "Le bar se remplit vite les soirs ensoleillés ; arrivez tôt pour trouver un coin où votre chien peut s'installer hors du passage.",
           "tipEs": "El bar se llena rápido las tardes soleadas; llega pronto para conseguir un rincón donde tu perro pueda acomodarse fuera del paso.",
           "tipPt": "O bar enche depressa nas tardes de sol; chegue cedo para arranjar um canto onde o seu cão se possa acomodar fora da passagem.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hope+and+Anchor+Tenby+St+Julian+Street"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hope+and+Anchor+Tenby+St+Julian+Street",
+          "descriptionDe": "Eine Tenby-Institution wenige Schritte vom Hafen entfernt, beliebt bei Einheimischen und Besuchern gleichermaßen wegen seiner Fassbiere, Ciders und der ganztägigen Speisekarte mit frischen Fischgerichten. Hunde sind in der Bar und an den Außentischen willkommen, ein einfacher Stopp nach einem Spaziergang um den Hafen und North Beach.",
+          "petPolicyDe": "Hunde an der Leine in der Bar und an den Außentischen willkommen.",
+          "mustTryDe": "Frischer lokaler Fisch mit einem Pint walisischem Ale",
+          "tipDe": "Die Bar füllt sich an sonnigen Abenden schnell; kommen Sie früh, um eine Ecke zu ergattern, in der Ihr Hund abseits des Durchgangs ruhen kann."
         },
         {
           "name": "Harbwr Tap & Kitchen",
@@ -65,7 +69,11 @@
           "tipFr": "Il se cache dans Sergeant's Lane juste à côté de Tudor Square, un repère facile à trouver dans la vieille ville fortifiée.",
           "tipEs": "Está escondido en Sergeant's Lane justo al lado de Tudor Square, una referencia fácil de encontrar en el casco antiguo amurallado.",
           "tipPt": "Está escondido na Sergeant's Lane mesmo ao lado de Tudor Square, uma referência fácil de encontrar na cidade velha muralhada.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Harbwr+Tap+and+Kitchen+Tenby"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Harbwr+Tap+and+Kitchen+Tenby",
+          "descriptionDe": "Der Ausschank und die Küche von Tenbys eigener Harbwr Harbour Brewery, ein langjähriger Pub abseits des Tudor Square, der seine eigenen Biere vor Ort braut und preiswertes Pub-Essen serviert. Hunde sind mehr als willkommen, was ihn zu einer entspannten Basis zwischen Hafen und Stadtmauern macht.",
+          "petPolicyDe": "Hunde an der Leine überall in der Bar willkommen.",
+          "mustTryDe": "Ein Pint des hauseigenen Harbwr-Ales mit einem Burger",
+          "tipDe": "Er liegt versteckt in der Sergeant's Lane direkt am Tudor Square, ein leicht zu findendes Wahrzeichen in der ummauerten Altstadt."
         },
         {
           "name": "Salty's Beach Bar & Restaurant",
@@ -91,7 +99,11 @@
           "tipFr": "Calez-le sur une promenade tôt le matin ou le soir sur South Beach pour que votre chien profite du sable avant toute zone réglementée estivale.",
           "tipEs": "Ajústalo a un paseo temprano o al atardecer por South Beach para que tu perro disfrute de la arena antes de cualquier zona restringida estival.",
           "tipPt": "Ajuste-o a um passeio de manhã cedo ou ao fim da tarde na South Beach para o seu cão aproveitar a areia antes de qualquer zona restringida de verão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Saltys+Beach+Bar+Tenby+South+Beach"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Saltys+Beach+Bar+Tenby+South+Beach",
+          "descriptionDe": "Eine Strandbar und ein Restaurant in hervorragender Lage über South Beach, mit Blick über den Sand bis zur Caldey Island. Hunde sind herzlich willkommen, sodass es perfekt zu einem Spaziergang am ganzjährig hundefreundlichen Penally-Ende von South Beach passt.",
+          "petPolicyDe": "Hunde an der Leine willkommen; fragen Sie das Personal nach den aktuellen Hundesitzplätzen.",
+          "mustTryDe": "Meeresfrüchte und ein Cocktail mit Blick auf Caldey Island",
+          "tipDe": "Planen Sie es um einen frühmorgendlichen oder abendlichen Spaziergang auf South Beach herum, damit Ihr Hund den Sand genießen kann, bevor im Sommer eine Sperrzone gilt."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Posso comer perto da praia com o meu cão no verão?",
           "a": "Sim. Os cães são bem-vindos todo o ano na extremidade da South Beach do lado de Penally, por isso um bar de praia como o Salty's funciona bem depois de um passeio de manhã ou de tarde. A North Beach tem proibição total de cães de 1 de maio a 30 de setembro, por isso organize as refeições em torno dos troços abertos todo o ano."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Tenby",
+      "introDe": "Tenby ist eine Stadt, in der man mit Hund unkompliziert essen gehen kann, mit Hafenkneipen innerhalb der mittelalterlichen Stadtmauern und einer Strandbar über South Beach, die Hunde an der Leine willkommen heißen. Der Bereich rund um den Hafen, Tudor Square und St Julian Street ist das einfachste Jagdrevier, und viele Lokale stellen einen Wassernapf an die Tür.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants und Pubs in Tenby erlaubt?",
+          "a": "Ja, weitgehend. Tenby ist sehr hundefreundlich, und die meisten Pubs am Hafen und in der Altstadt wie The Hope & Anchor und Harbwr Tap & Kitchen heißen Hunde in der Bar willkommen, während Strandbars wie Salty's sie an der Leine mitnehmen. Fragen Sie, welcher Bereich hundefreundlich ist, da sich manche Speiseräume unterscheiden."
+        },
+        {
+          "q": "Kann ich im Sommer mit meinem Hund am Strand essen?",
+          "a": "Ja. Am Penally-Ende von South Beach sind Hunde das ganze Jahr über willkommen, sodass eine Strandbar wie Salty's nach einem frühmorgendlichen oder abendlichen Spaziergang gut passt. North Beach hat vom 1. Mai bis 30. September ein komplettes Hundeverbot, planen Sie Mahlzeiten also um die ganzjährig zugänglichen Abschnitte herum."
+        }
       ]
     },
     "parks": {
@@ -183,7 +207,10 @@
           "tipFr": "Vous pouvez marcher jusqu'à Penally par la plage et le sentier des dunes et reprendre le train toutes les deux heures jusqu'à la gare de Tenby, qui accepte les chiens et est gratuit.",
           "tipEs": "Puedes caminar hasta Penally por la playa y el sendero de las dunas y volver en el tren cada dos horas hasta la estación de Tenby, que admite perros y es gratis.",
           "tipPt": "Pode caminhar até Penally pela praia e pelo trilho das dunas e regressar no comboio de duas em duas horas até à estação de Tenby, que aceita cães e é grátis.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pembrokeshire+Coast+Path+Tenby+to+Penally"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pembrokeshire+Coast+Path+Tenby+to+Penally",
+          "descriptionDe": "Einer der schönsten leichten Abschnitte des Pembrokeshire Coast Path führt von Tenby entlang South Beach und den Dünen bis zum Dorf Penally. Er ist ganzjährig für Hunde geöffnet, und das Penally-Ende des Sandstrands hat kein saisonales Verbot, was einen echten Strand- und Klippenspaziergang ermöglicht, egal was die Sommerschilder anderswo sagen.",
+          "offLeashAreaDe": "Halten Sie Hunde in der Nähe der Klippenkanten und von weidendem Vieh an der Leine; die Abhänge sind stellenweise steil, und der Golfplatz grenzt an den Dünenpfad.",
+          "tipDe": "Sie können entlang des Strand- und Dünenwegs nach Penally laufen und mit dem zweistündlich verkehrenden Zug zurück zum Bahnhof Tenby fahren, der hundefreundlich und kostenlos ist."
         },
         {
           "name": "Castle Hill and the Walls Walk",
@@ -203,7 +230,10 @@
           "tipFr": "Elle offre de larges vues sur North Beach et South Beach à quelques minutes du port et constitue l'une des meilleures promenades canines gratuites en ville pendant l'interdiction estivale des plages.",
           "tipEs": "Ofrece amplias vistas sobre North Beach y South Beach a pocos minutos del puerto y es uno de los mejores paseos caninos gratuitos de la ciudad durante la veda estival de las playas.",
           "tipPt": "Oferece amplas vistas sobre a North Beach e a South Beach a poucos minutos do porto e é um dos melhores passeios caninos gratuitos da cidade durante a proibição de verão das praias.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Castle+Hill+Tenby"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Castle+Hill+Tenby",
+          "descriptionDe": "Das grasbewachsene Vorgebirge im Herzen von Tenby, gekrönt von den Überresten der mittelalterlichen Burg und dem Kriegsdenkmal der Stadt, umgeben von einem ebenen Weg mit Meer auf drei Seiten und Blick auf St Catherine's Island. Hunde sind auf dieser offenen Fläche ganzjährig willkommen, ein perfekter kurzer Spaziergang in der Stadt, wenn im Sommer die Strände eingeschränkt sind.",
+          "offLeashAreaDe": "Halten Sie Hunde auf diesem belebten Vorgebirge an der Leine und fern von den Klippenkanten; es ist ein beliebter Aussichtspunkt, und das Aufsammeln wird erwartet.",
+          "tipDe": "Es bietet weite Ausblicke über North und South Beach, nur wenige Minuten vom Hafen entfernt, und ist einer der besten kostenlosen Hundespaziergänge der Stadt während des sommerlichen Strandverbots."
         },
         {
           "name": "The Burrows and South Beach dunes",
@@ -223,7 +253,10 @@
           "tipFr": "Elle relie la ville à l'extrémité calme de South Beach côté Penally, la section qui reste ouverte aux chiens toute l'année.",
           "tipEs": "Conecta la ciudad con el tranquilo extremo de South Beach hacia Penally, el tramo que sigue abierto a los perros todo el año.",
           "tipPt": "Liga a cidade à extremidade tranquila da South Beach do lado de Penally, o troço que continua aberto aos cães todo o ano.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+Beach+dunes+Tenby+Penally"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=South+Beach+dunes+Tenby+Penally",
+          "descriptionDe": "Der breite Gürtel aus grasbewachsenen Dünen und offenem Gelände hinter South Beach, der zwischen Strand und Golfplatz nach Penally verläuft. Er bietet geschütztes, ebenes Gehen mit leichtem Zugang zum ganzjährig hundefreundlichen Ende des Sandstrands, praktisch, wenn auf den exponierten Klippen der Wind stark bläst.",
+          "offLeashAreaDe": "Halten Sie Hunde in der Nähe des Golfplatzes und jeglicher Wildtiere in den Dünen an der Leine, und sammeln Sie auf; bodenbrütende Vögel können die Dünen im Frühjahr nutzen.",
+          "tipDe": "Er verbindet die Stadt mit dem ruhigen Penally-Ende von South Beach, dem Abschnitt, der das ganze Jahr über für Hunde geöffnet bleibt."
         }
       ],
       "tipsEn": [
@@ -284,6 +317,18 @@
         {
           "q": "Os cães têm de ir à trela no caminho costeiro de Tenby?",
           "a": "Mantenha o cão à trela perto das bordas da falésia, íngremes e muitas vezes sem vedação, e à volta das ovelhas ou vacas que pastam ao longo do caminho. No promontório aberto de Castle Hill a trela também é sensata, porque é um miradouro movimentado sobre as praias."
+        }
+      ],
+      "titleDe": "Hundefreundliche Spaziergänge und Grünflächen in Tenby",
+      "introDe": "Wenn die sommerlichen Strandregeln zuschlagen, retten Tenbys Klippen und Küstenweg den Tag. Der Pembrokeshire Coast Path führt direkt aus der Stadt in beide Richtungen und ist ganzjährig für Hunde geöffnet, der grasbewachsene Castle Hill im Zentrum bietet eine kurze Runde in der Stadt mit Meerblick, und das Penally-Ende von South Beach mit seinen Dünen bleibt das ganze Jahr über hundefreundlich, sodass ein Hund nie ohne Spaziergang dasteht.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich in Tenby mit meinem Hund spazieren gehen, wenn die Strände eingeschränkt sind?",
+          "a": "Der Pembrokeshire Coast Path ist ganzjährig für Hunde geöffnet und verlässt die Stadt in beide Richtungen, Castle Hill im Zentrum ist eine grasbewachsene offene Fläche, und das Penally-Ende von South Beach mit seinen Dünen bleibt das ganze Jahr über hundefreundlich. Es gibt also immer eine Möglichkeit zum Spazierengehen, selbst im Hochsommer."
+        },
+        {
+          "q": "Müssen Hunde auf dem Küstenweg von Tenby an der Leine sein?",
+          "a": "Halten Sie Ihren Hund in der Nähe der Klippenkanten an der Leine, die steil und oft unbefestigt sind, sowie in der Nähe von Schafen oder Rindern, die entlang des Weges weiden. Auf dem offenen Castle-Hill-Vorgebirge ist eine Leine ebenfalls ratsam, da es ein belebter Aussichtspunkt über den Stränden ist."
         }
       ]
     },
@@ -389,6 +434,18 @@
           "q": "É melhor ir de carro ou de comboio para Tenby com um cão?",
           "a": "O comboio é o mais fácil no verão, quando a cidade velha está cheia e é em grande parte pedonal. Se for de carro, use os parques na periferia e entre a pé, e lembre-se de que as ruas estreitas muralhadas ficam muito movimentadas em julho e agosto."
         }
+      ],
+      "titleDe": "Mit Hund in Tenby unterwegs",
+      "introDe": "Tenby ist klein, ummauert und sehr fußgängerfreundlich, und die schönste Art, mit Hund anzureisen, ist der Zug auf der West Wales Line, wo Hunde kostenlos mitfahren. Die Altstadt innerhalb der Mauern ist größtenteils Fußgängerzone und stellenweise steil, daher ist es die einfache, stressfreie Wahl, das Auto draußen zu lassen und zu Fuß zu gehen oder den hundefreundlichen Zug zu nehmen, besonders in einem vollen Sommer.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit dem Zug nach Tenby mitnehmen?",
+          "a": "Ja. Bis zu zwei Hunde reisen pro Fahrgast bei National Rail kostenlos mit, an der Leine oder in einer Transportbox. Tenby liegt an der West Wales Line über Whitland und Carmarthen, mit Zügen etwa alle zwei Stunden, und der Bahnhof ist einen kurzen Spaziergang von der ummauerten Stadt und den Stränden entfernt."
+        },
+        {
+          "q": "Ist es besser, mit Hund nach Tenby zu fahren oder den Zug zu nehmen?",
+          "a": "Der Zug ist im Sommer am einfachsten, wenn die Altstadt überfüllt und größtenteils Fußgängerzone ist. Wenn Sie fahren, nutzen Sie die Parkplätze am Stadtrand und gehen Sie zu Fuß hinein, und bedenken Sie, dass die engen ummauerten Straßen im Juli und August sehr belebt werden."
+        }
       ]
     },
     "beaches": {
@@ -471,6 +528,18 @@
           "q": "Quando é que os cães são proibidos nas praias de Tenby?",
           "a": "De 1 de maio a 30 de setembro, a North Beach tem proibição total de cães, e a Castle Beach e a extremidade da South Beach do lado da cidade têm proibições parciais nas zonas sinalizadas. Fora dessas datas os cães são bem-vindos em todas. As infrações podem trazer uma multa fixa (reportada em 75 libras) e multas de postura até 500 libras."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Tenby",
+      "introDe": "Tenby ist von einigen der schönsten Strände von Wales umgeben, und die Hunderegeln hier sind saisonal und strandspezifisch, festgelegt vom Pembrokeshire County Council und jedes Jahr vom 1. Mai bis 30. September in Kraft. Die wichtigsten Fakten: North Beach hat in diesem Zeitraum ein komplettes Hundeverbot, während Castle Beach und South Beach teilweise Verbote haben, wobei das ruhige Penally-Ende (östlich) von South Beach das ganze Jahr über für Hunde geöffnet bleibt. Blindenführhunde sind an jedem Strand ganzjährig willkommen. Verstöße können ein Bußgeld nach sich ziehen (berichtet mit 75 Pfund), mit Strafen von bis zu 500 Pfund für Verstöße gegen die Ortssatzung, obwohl der Rat zunächst Verwarnungen erprobt hat. Lesen Sie bei der Ankunft immer die Schilder und Karten an jedem Strand, da sich die Regeln ändern können.",
+      "faqsDe": [
+        {
+          "q": "Welcher Strand in Tenby erlaubt Hunde das ganze Jahr über?",
+          "a": "Das ruhige Penally-Ende (östlich) von South Beach hat kein saisonales Hundeverbot und ist ganzjährig für Hunde geöffnet, was ihn zu Tenbys ganzjährigem Hundestrand der Wahl macht. Halten Sie Hunde in der Nähe der Dünen und des Golfplatzes an der Leine und sammeln Sie nach ihnen auf."
+        },
+        {
+          "q": "Wann sind Hunde an den Stränden von Tenby verboten?",
+          "a": "Vom 1. Mai bis 30. September hat North Beach ein komplettes Hundeverbot, und Castle Beach sowie das Stadtende von South Beach haben in den ausgeschilderten Bereichen teilweise Verbote. Außerhalb dieser Termine sind Hunde an allen willkommen. Verstöße können ein Bußgeld (berichtet mit 75 Pfund) und Strafen nach der Ortssatzung von bis zu 500 Pfund nach sich ziehen."
+        }
       ]
     },
     "vets": {
@@ -504,7 +573,10 @@
           "tipEs": "Telefonea con antelación durante el día; para urgencias nocturnas o de fin de semana pregunta a qué servicio de guardia derivan.",
           "tipPt": "Telefone com antecedência durante o dia; para urgências noturnas ou de fim de semana pergunte para que serviço de urgência encaminham.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tenby+Vets+Lower+Park+Road",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Wochentags tagsüber Sprechstunden; außerhalb der Öffnungszeiten über die Praxis",
+          "descriptionDe": "Die Tierarztpraxis in Tenby selbst, in der Lower Park Road, die routinemäßige und dringende Kleintierversorgung für die Stadt und umliegende Dörfer übernimmt. Sie ist die erste Anlaufstelle für einen Urlaubshund, der tagsüber untersucht werden muss.",
+          "tipDe": "Rufen Sie tagsüber vorher an; bei nächtlichen oder Wochenendnotfällen fragen Sie, an welchen Notdienst weitergeleitet wird."
         },
         {
           "name": "Fenton Veterinary Practice (Pembroke Dock)",
@@ -526,7 +598,10 @@
           "tipEs": "Práctica si te alojas al oeste de Tenby hacia Pembroke; llama con antelación y confirma las condiciones de guardia vigentes.",
           "tipPt": "Prática se ficar a oeste de Tenby na direção de Pembroke; telefone com antecedência e confirme as condições de urgência em vigor.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fenton+Veterinary+Practice+Pembroke+Dock",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Wochentags tagsüber Sprechstunden; Notfallversorgung außerhalb der Öffnungszeiten",
+          "descriptionDe": "Eine seit 1950 in der Region tätige, seit langem etablierte Pembrokeshire-Tierarztgruppe mit einer Filiale in Pembroke Dock, etwa 20 Minuten von Tenby entfernt, die routinemäßige und dringende Kleintierversorgung übernimmt. Sie bietet breitere Abdeckung und Notfallunterstützung außerhalb der Öffnungszeiten für Süd-Pembrokeshire.",
+          "tipDe": "Praktisch, wenn Sie westlich von Tenby in Richtung Pembroke übernachten; rufen Sie vorher an und bestätigen Sie die aktuellen Regelungen außerhalb der Öffnungszeiten."
         }
       ],
       "faqsEn": [
@@ -567,6 +642,18 @@
         {
           "q": "Que documentação precisa o meu cão para entrar na Grã-Bretanha vindo da UE?",
           "a": "A Grã-Bretanha não aceita o Passaporte Europeu para Animais na entrada. O seu cão precisa de um Animal Health Certificate britânico, de um microchip e de uma vacinação antirrábica válida, mais um tratamento contra a ténia aprovado administrado entre 24 e 120 horas antes da chegada, por isso trate disso com um veterinário antes de viajar."
+        }
+      ],
+      "titleDe": "Tierärzte in Tenby",
+      "introDe": "Tenby hat eine Tierarztpraxis in der Stadt, mit einer größeren, seit langem etablierten Pembrokeshire-Praxis im nahen Pembroke Dock, die eine breitere Abdeckung bietet, wobei Notfälle außerhalb der Öffnungszeiten über diese Praxen geleitet werden. Englisch wird überall gesprochen. Für Besucher aus der EU gilt zu beachten: Großbritannien akzeptiert den EU-Heimtierausweis nicht mehr zur Einreise: Hunde benötigen eine britische Tiergesundheitsbescheinigung (GB Animal Health Certificate), einen Mikrochip, eine gültige Tollwutimpfung und eine Bandwurmbehandlung, die 24 bis 120 Stunden vor der Ankunft verabreicht wurde, reisen Sie also mit allen Unterlagen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Tierarzt in Tenby?",
+          "a": "Ja. Tenby Vets in der Lower Park Road übernimmt tagsüber die Kleintierversorgung in der Stadt, und die seit langem etablierte Fenton Veterinary Practice im nahen Pembroke Dock bietet breitere Abdeckung und Unterstützung außerhalb der Öffnungszeiten. Rufen Sie zuerst an und fragen Sie, an welchen Notdienst nachts weitergeleitet wird."
+        },
+        {
+          "q": "Welche Unterlagen benötigt mein Hund zur Einreise nach Großbritannien aus der EU?",
+          "a": "Großbritannien akzeptiert den EU-Heimtierausweis nicht zur Einreise. Ihr Hund benötigt eine britische Tiergesundheitsbescheinigung (GB Animal Health Certificate), einen Mikrochip und eine gültige Tollwutimpfung, sowie eine zugelassene Bandwurmbehandlung, die 24 bis 120 Stunden vor der Ankunft verabreicht wurde, organisieren Sie dies also mit einem Tierarzt vor der Reise."
         }
       ]
     },
@@ -671,6 +758,18 @@
           "q": "Os visitantes da UE precisam de documentação especial para levar um cão a Tenby?",
           "a": "Sim. Como Tenby fica na Grã-Bretanha, os visitantes da UE não podem usar o Passaporte Europeu para Animais. O seu cão precisa de um Animal Health Certificate britânico emitido nos 10 dias anteriores à viagem, de um microchip, de uma vacinação antirrábica válida e de um tratamento contra a ténia entre 24 e 120 horas antes da chegada."
         }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch in Tenby mit Hund",
+      "introDe": "Tenby ist ein lohnender Ort, um einen Hund mitzubringen, aber zwei Dinge müssen geplant werden: die saisonalen Strand-Hunderegeln, die durchgesetzt werden, und die Unterlagen nach dem Brexit für die Einreise mit Hund nach Großbritannien. Bekommen Sie beides richtig hin, und dies ist einer der einfachsten Hundeurlaube in West-Wales.",
+      "faqsDe": [
+        {
+          "q": "Ist Tenby ein guter Ort für einen Besuch mit Hund?",
+          "a": "Ja, es ist eine der hundefreundlichsten Städte in West-Wales, mit hundefreundlichen Hafenkneipen, kostenlosen Hunden im Zug und auf den Caldey-Island-Booten sowie einem ganzjährig geöffneten Küstenweg. Das Einzige, was zu planen ist, sind die saisonalen Strand-Hunderegeln, die sich leicht mit dem Penally-Ende von South Beach umgehen lassen."
+        },
+        {
+          "q": "Benötigen EU-Besucher besondere Unterlagen, um einen Hund nach Tenby mitzubringen?",
+          "a": "Ja. Da Tenby in Großbritannien liegt, können EU-Besucher den EU-Heimtierausweis nicht verwenden. Ihr Hund benötigt eine britische Tiergesundheitsbescheinigung, ausgestellt innerhalb von 10 Tagen vor der Reise, einen Mikrochip, eine gültige Tollwutimpfung und eine Bandwurmbehandlung 24 bis 120 Stunden vor der Ankunft."
+        }
       ]
     },
     "attractions": {
@@ -704,7 +803,11 @@
           "tipFr": "Prévoyez des espèces pour la traversée et choisissez une journée plus calme pour un chien craintif ; l'embarquement se fait depuis la plage du port à marée haute et Castle Beach à marée basse.",
           "tipEs": "Lleva efectivo para la travesía y elige un día más tranquilo para un perro nervioso; el embarque es desde la playa del puerto con marea alta y Castle Beach con marea baja.",
           "tipPt": "Leve dinheiro para a travessia e escolha um dia mais calmo para um cão nervoso; o embarque é a partir da praia do porto na maré alta e da Castle Beach na maré baixa.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Caldey+Island+boat+trips+Tenby+harbour"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Caldey+Island+boat+trips+Tenby+harbour",
+          "descriptionDe": "Kleine Boote fahren vom Hafen von Tenby zur Caldey Island, einer friedlichen Klosterinsel mit einer aktiven Abtei, Stränden, Waldwegen und einem Leuchtturm. Hunde sind auf dem Boot und der Insel willkommen und fahren kostenlos mit, was es zu einem der unvergesslichsten hundefreundlichen Ausflüge in Pembrokeshire macht.",
+          "dogPolicyDe": "Hunde willkommen und fahren kostenlos mit; müssen auf dem Boot und der Insel jederzeit an der Leine gehalten werden.",
+          "admissionFeeDe": "Etwa £16-£18 Erwachsene für die Rückfahrt mit dem Boot; Hunde kostenlos",
+          "tipDe": "Bringen Sie Bargeld für die Überfahrt mit und wählen Sie bei einem nervösen Hund einen ruhigeren Tag; das Einsteigen erfolgt bei Flut vom Hafenstrand und bei Ebbe von Castle Beach."
         },
         {
           "name": "Tenby Town Walls and Harbour",
@@ -727,7 +830,11 @@
           "tipFr": "Parcourez-le tôt ou tard pour éviter la foule estivale ; la plage du port elle-même a une interdiction estivale pour chiens, mais les remparts et les ruelles restent ouverts aux chiens toute l'année.",
           "tipEs": "Recórrelo temprano o tarde para evitar el gentío estival; la propia playa del puerto tiene veda estival de perros, pero las murallas y callejuelas están abiertas a los perros todo el año.",
           "tipPt": "Percorra-o cedo ou tarde para evitar a multidão de verão; a própria praia do porto tem proibição de cães no verão, mas as muralhas e ruelas estão abertas aos cães todo o ano.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tenby+town+walls+harbour"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tenby+town+walls+harbour",
+          "descriptionDe": "Tenby ist eine der am besten erhaltenen mittelalterlichen ummauerten Städte in Wales, mit ihren Mauern aus dem 13. Jahrhundert, dem Torbogen Five Arches und einem hübschen, pastellfarbenen Hafen aus georgianischen Häusern. Es ist alles ein Freiluft-Spaziergang für Hunde an der Leine, eine kompakte Runde aus Mauern, Hafen und engen Gassen.",
+          "dogPolicyDe": "Hunde an der Leine willkommen rund um Mauern, Hafen und Gassen; die Freiluftstadt ist voll hundefreundlich.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Schlendern Sie früh oder spät, um die Sommergedränge zu vermeiden; der Hafenstrand selbst hat ein sommerliches Hundeverbot, aber Mauern und Gassen sind ganzjährig für Hunde geöffnet."
         },
         {
           "name": "St Catherine's Island",
@@ -750,7 +857,11 @@
           "tipFr": "Vérifiez les horaires des marées avant de partir, car le passage est submergé ; les marches vers le fort sont raides, cela convient donc à un chien agile.",
           "tipEs": "Comprueba las horas de la marea antes de salir, porque el paso se inunda; las escaleras hasta el fuerte son empinadas, así que va bien para un perro ágil.",
           "tipPt": "Verifique as horas da maré antes de sair, porque a passagem inunda; os degraus até ao forte são íngremes, por isso serve para um cão ágil.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St+Catherines+Island+Tenby"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=St+Catherines+Island+Tenby",
+          "descriptionDe": "Eine kleine Gezeiteninsel vor Castle Beach, gekrönt von einem restaurierten viktorianischen Fort, bei Ebbe zu Fuß über den Sand erreichbar und mit spektakulärem Blick auf Strand, Stadt und Küste. Wohlerzogene Hunde sind an der Leine willkommen, unter Einhaltung der üblichen Hunderegeln.",
+          "dogPolicyDe": "Wohlerzogene Hunde an der Leine willkommen; Zugang nur bei Ebbe, über eine steile Treppe.",
+          "admissionFeeDe": "Kleiner Eintritt für das Fort; aktuelle Zeiten prüfen",
+          "tipDe": "Prüfen Sie vor dem Aufbruch die Gezeitenzeiten, da der Damm überflutet; die Treppe zum Fort ist steil, geeignet also für einen agilen Hund."
         }
       ],
       "tipsEn": [
@@ -812,6 +923,18 @@
           "q": "A cidade velha de Tenby aceita cães?",
           "a": "Muito. As muralhas medievais, o porto e as ruelas estreitas da cidade velha são ao ar livre, gratuitos e abertos aos cães à trela todo o ano. O porto e a North Beach têm proibições de cães no verão, mas as ruas e muralhas por cima continuam a aceitar cães."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Tenby",
+      "introDe": "Das Beste an Tenby ist draußen und für Hunde zugänglich: der Arbeitshafen, die mittelalterlichen Stadtmauern, und am besten ein Bootsausflug zur Caldey Island, wo Hunde kostenlos mitfahren und an Land gehen dürfen. St Catherine's Island mit ihrem viktorianischen Fort heißt Hunde bei Ebbe an der Leine willkommen. Mit dem Hafen, den Mauern und den Booten muss ein Hund selten etwas auslassen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf das Caldey-Island-Boot mitnehmen?",
+          "a": "Ja. Die Caldey-Island-Boote vom Hafen von Tenby heißen Hunde auf dem Boot und der Insel willkommen, und Hunde fahren kostenlos mit. Halten Sie Ihren Hund jederzeit an der Leine, bringen Sie Bargeld für die Überfahrt mit und wählen Sie bei einem nervösen Hund einen ruhigeren Tag."
+        },
+        {
+          "q": "Ist die Altstadt von Tenby hundefreundlich?",
+          "a": "Sehr. Die mittelalterlichen Stadtmauern, der Hafen und die engen Gassen der Altstadt sind alle im Freien, kostenlos und ganzjährig für Hunde an der Leine zugänglich. Der Hafen und North Beach haben sommerliche Strand-Hundeverbote, aber die Straßen und Mauern darüber bleiben hundefreundlich."
+        }
       ]
     },
     "petsitting": {
@@ -836,11 +959,16 @@
           "serviceTypeEs": "Alojamiento, guardería, visitas a domicilio y paseo",
           "serviceTypePt": "Alojamento, creche, visitas ao domicílio e passeio",
           "pricePerDay": "From around £20-£35 per day",
-          "languages": ["English"],
+          "languages": [
+            "English"
+          ],
           "tip": "Message two or three sitters early and arrange a short meet-and-greet before your trip so your dog is comfortable before the day you need cover.",
           "tipFr": "Contactez deux ou trois gardiens tôt et organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avant le jour où vous avez besoin de la garde.",
           "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo a tu viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
-          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço."
+          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço.",
+          "descriptionDe": "Die größte Haustierbetreuungsplattform in Großbritannien, mit lokalen Hundesittern, Betreuern und Gassigehern in ganz Süd-Pembrokeshire und der Region Tenby. Jeder Sitter hat ein Profil, Bewertungen und Fotos, und Sie buchen und bezahlen über die App mit inbegriffenem Versicherungsschutz.",
+          "serviceTypeDe": "Hundepension, Tagesbetreuung, Kurzbesuche und Gassi-Service",
+          "tipDe": "Kontaktieren Sie früh zwei oder drei Sitter und vereinbaren Sie vor Ihrer Reise ein kurzes Kennenlerntreffen, damit Ihr Hund sich vor dem Tag, an dem Sie Betreuung brauchen, wohlfühlt."
         },
         {
           "name": "Tailster",
@@ -854,11 +982,16 @@
           "serviceTypeEs": "Paseo, guardería y alojamiento en casa",
           "serviceTypePt": "Passeio, creche e alojamento ao domicílio",
           "pricePerDay": "From around £18-£30 per day",
-          "languages": ["English"],
+          "languages": [
+            "English"
+          ],
           "tip": "Tell the carer about your dog's recall around livestock, since local walks often use the coast path and fields where sheep and cattle graze.",
           "tipFr": "Informez l'intervenant du rappel de votre chien près du bétail, car les promenades locales empruntent souvent le chemin côtier et des champs où pâturent moutons et bovins.",
           "tipEs": "Informa al cuidador sobre la llamada de vuelta de tu perro ante el ganado, ya que los paseos locales suelen usar el camino costero y prados donde pastan ovejas y vacas.",
-          "tipPt": "Informe o cuidador sobre a chamada de retorno do seu cão perto do gado, já que os passeios locais usam muitas vezes o caminho costeiro e campos onde pastam ovelhas e vacas."
+          "tipPt": "Informe o cuidador sobre a chamada de retorno do seu cão perto do gado, já que os passeios locais usam muitas vezes o caminho costeiro e campos onde pastam ovelhas e vacas.",
+          "descriptionDe": "Ein landesweites Netzwerk versicherter, geprüfter Gassigeher und Sitter in Großbritannien, das Sie basierend auf Ihren Terminen und den Bedürfnissen Ihres Hundes mit lokalen Betreuern zusammenbringt. Eine nützliche Alternative zu Rover, um einen Museumsbesuch oder ein langes Abendessen in Tenby abzudecken.",
+          "serviceTypeDe": "Gassi-Service, Tagesbetreuung und häusliche Unterbringung",
+          "tipDe": "Erzählen Sie dem Betreuer von dem Rückrufverhalten Ihres Hundes bei Nutztieren, da lokale Spaziergänge oft über den Küstenweg und Felder führen, auf denen Schafe und Rinder weiden."
         }
       ],
       "tipsEn": [
@@ -919,6 +1052,18 @@
         {
           "q": "Posso deixar o meu cão enquanto visito uma atração coberta?",
           "a": "Sim. Um cuidador local ou uma creche pelo Rover ou Tailster é ideal para os poucos lugares cobertos vedados aos cães. Partilhe com o cuidador os dados do seu veterinário e a chamada de retorno do seu cão perto do gado, e combine primeiro um encontro."
+        }
+      ],
+      "titleDe": "Hundebetreuung und Gassi-Service in Tenby",
+      "introDe": "Für die wenigen Orte, an die ein Hund nicht darf, wie ein Museum drinnen oder ein langes Abendessen im Restaurant, verbinden Sie landesweite Plattformen mit geprüften lokalen Betreuern und Gassigehern rund um Tenby und Süd-Pembrokeshire. Buchen Sie für Juli und August rechtzeitig, wenn diese kleine, beliebte Stadt sich füllt und lokale Betreuer schnell ausgebucht sind.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter in Tenby?",
+          "a": "Landesweite Plattformen wie Rover und Tailster listen geprüfte, versicherte Sitter, Betreuer und Gassigeher in ganz Süd-Pembrokeshire und der Region Tenby. Sie durchsuchen Profile und Bewertungen, vereinbaren ein Kennenlerntreffen und buchen über die App; reservieren Sie früh für Juli und August."
+        },
+        {
+          "q": "Kann ich meinen Hund zurücklassen, während ich eine Sehenswürdigkeit drinnen besuche?",
+          "a": "Ja. Ein lokaler Sitter oder eine Tagesbetreuung über Rover oder Tailster ist ideal für die wenigen Orte drinnen, an die Hunde nicht dürfen. Teilen Sie dem Betreuer die Tierarztdaten Ihres Hundes und seinen Rückruf bei Nutztieren mit, und vereinbaren Sie zuerst ein Kennenlerntreffen."
         }
       ]
     }

@@ -39,7 +39,11 @@
           "tipFr": "Demandez le côté jardin si votre chien est vif ; l'espace clôturé vous laisse finir votre café tranquille.",
           "tipEs": "Pide el lado del jardín si tu perro es inquieto; la zona vallada te deja terminar el café en paz.",
           "tipPt": "Peça o lado do jardim se o seu cão for irrequieto; a zona vedada deixa-o acabar o café em paz.",
-          "googleMapsUrl": "https://maps.google.com/?q=Ristorantino+Carbone+Via+Cal+di+Breda+33+Treviso"
+          "googleMapsUrl": "https://maps.google.com/?q=Ristorantino+Carbone+Via+Cal+di+Breda+33+Treviso",
+          "descriptionDe": "Ein Restaurant mit venezianischer Küche und regionalen Produkten, das zu den ausdrücklich hundefreundlichsten Adressen in Treviso zählt: Hunde jeder Größe, auch mehrere pro Gast, sind drinnen und draußen willkommen, Näpfe werden gestellt. Es gibt sogar einen eingezäunten Garten, in dem Hunde sich ohne Leine die Beine vertreten können.",
+          "petPolicyDe": "Hunde aller Größen drinnen und draußen willkommen; Näpfe und eingezäunter Garten vorhanden",
+          "mustTryDe": "Saisonale Gerichte aus dem Veneto, im Winter mit Radicchio di Treviso",
+          "tipDe": "Fragen Sie nach der Gartenseite, wenn Ihr Hund lebhaft ist; der eingezäunte Bereich lässt Sie Ihren Espresso in Ruhe genießen."
         },
         {
           "name": "Pizzeria Da Pino",
@@ -65,7 +69,11 @@
           "tipFr": "Les soirs de semaine sont bien plus calmes que le week-end ; une table d'angle donne de l'espace à votre chien loin de l'agitation du four.",
           "tipEs": "Las noches entre semana son mucho más tranquilas; una mesa de esquina da espacio a tu perro lejos del ajetreo del horno.",
           "tipPt": "As noites de semana são muito mais calmas; uma mesa de canto dá espaço ao seu cão longe da azáfama do forno.",
-          "googleMapsUrl": "https://maps.google.com/?q=Pizzeria+Da+Pino+Viale+della+Repubblica+Treviso"
+          "googleMapsUrl": "https://maps.google.com/?q=Pizzeria+Da+Pino+Viale+della+Repubblica+Treviso",
+          "descriptionDe": "Die erste, historische Filiale der bekanntesten Pizzeria-Familie Trevisos, wo vierbeinige Gäste ihren eigenen Wassernapf und einen herzlichen Empfang bekommen. Große Gasträume und viel Parkplatz machen es zu einem entspannten, unkomplizierten Abendessen mit Hund.",
+          "petPolicyDe": "Hunde willkommen, Wassernäpfe vorhanden",
+          "mustTryDe": "Klassische Pizza aus dem Holzofen und zum Abschluss ein Tiramisu",
+          "tipDe": "Wochentagsabende sind deutlich ruhiger als Wochenenden; ein Ecktisch verschafft Ihrem Hund Abstand vom Trubel am Pizzaofen."
         },
         {
           "name": "Habanero Mex Treviso",
@@ -91,9 +99,16 @@
           "tipFr": "Le jardin est le meilleur coin avec un chien les soirs doux, et le stationnement est facile par rapport au centre fortifié.",
           "tipEs": "El jardín es el mejor sitio con perro en las noches templadas, y aparcar es fácil comparado con el centro amurallado.",
           "tipPt": "O jardim é o melhor lugar com cão nas noites amenas, e estacionar é fácil comparado com o centro amuralhado.",
-          "googleMapsUrl": "https://maps.google.com/?q=Habanero+Mex+Treviso"
+          "googleMapsUrl": "https://maps.google.com/?q=Habanero+Mex+Treviso",
+          "descriptionDe": "Ein lebendiges mexikanisches Restaurant und Pizzeria im Westen der Stadt, das Gäste mit Hunden offen willkommen heißt, mit Wassernäpfen und einem Gartenbereich für entspannte Mahlzeiten. Lokal berühmt für die meterlange Pizzalonga zum Teilen.",
+          "petPolicyDe": "Hunde willkommen, Wassernäpfe und Gartensitzplätze",
+          "mustTryDe": "Die Pizzalonga nach dem Meter, gemeinsam am Tisch geteilt",
+          "tipDe": "Der Garten ist an warmen Abenden mit Hund der beste Platz, und das Parken ist hier einfacher als in der ummauerten Altstadt."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Treviso",
+      "introDe": "In Treviso isst man gut und unkompliziert: Cicchetti-Bars entlang der Kanäle, historische Pizzerien und rustikale Trattorien, von denen viele Hunde drinnen und auf den Terrassen willkommen heißen. Hier wurde außerdem das Tiramisu erfunden, also lassen Sie Platz für den Nachtisch, während Ihr Hund unter dem Tisch döst.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Parks and Green Spaces for Dogs in Treviso",
@@ -143,7 +158,10 @@
           "descriptionFr": "L'ancien chemin de halage du Sile, où l'on tirait les barges vers Venise, est devenu la promenade préférée de Trévise : plate, verte et sans voitures, elle suit le fleuve des remparts jusqu'aux villages de Casier et au-delà, dans le parc régional du Sile. C'est la grande balade canine classique au départ du centre.",
           "descriptionEs": "El antiguo camino de sirga del Sile, por donde se remolcaban las barcazas hacia Venecia, es hoy el paseo favorito de Treviso: llano, verde y sin coches, sigue el río desde las murallas hasta los pueblos de Casier y más allá, dentro del parque regional del Sile. Es el gran paseo canino clásico desde el centro.",
           "descriptionPt": "O antigo caminho de sirga do Sile, por onde se puxavam as barcaças para Veneza, é hoje o passeio favorito de Treviso: plano, verde e sem carros, segue o rio desde as muralhas até às aldeias de Casier e mais além, dentro do parque regional do Sile. É o grande passeio canino clássico a partir do centro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Restera+Alzaia+del+Sile+Treviso"
+          "googleMapsUrl": "https://maps.google.com/?q=Restera+Alzaia+del+Sile+Treviso",
+          "leashRulesDe": "Hunde an der Leine auf dem gemeinsam genutzten Weg; am Wochenende viel Radverkehr",
+          "bestTimeToVisitDe": "Wochentagvormittage oder die goldene Stunde am Wasser",
+          "descriptionDe": "Der alte Treidelpfad des Sile, auf dem einst Lastkähne Richtung Venedig gezogen wurden, ist heute Trevisos beliebter Spazierweg: flach, grün und autofrei, dem Fluss folgend von den Stadtmauern bis zu den Dörfern Casier und darüber hinaus, innerhalb des Regionalparks Sile. Es ist der klassische lange Hundespaziergang direkt aus dem Zentrum."
         },
         {
           "name": "Parco dello Storga",
@@ -183,7 +201,10 @@
           "descriptionFr": "Un parc de résurgence de 67 hectares en lisière nord-est de la ville, où la Storga naît entre prairies, bois et anciennes fermes avant de rejoindre le Sile. Ses sentiers plats en gravier sont une alternative paisible à la Restera plus fréquentée, et un rendez-vous des promeneurs de chiens locaux.",
           "descriptionEs": "Un parque de manantial de 67 hectáreas en el borde noreste de la ciudad, donde el arroyo Storga nace entre praderas, bosques y granjas antiguas antes de unirse al Sile. Sus senderos llanos de grava son una alternativa tranquila a la Restera, más concurrida, y un clásico de los paseadores de perros locales.",
           "descriptionPt": "Um parque de nascente com 67 hectares na orla nordeste da cidade, onde o ribeiro Storga nasce entre prados, bosques e quintas antigas antes de se juntar ao Sile. Os seus trilhos planos de gravilha são uma alternativa tranquila à Restera, mais movimentada, e um clássico dos passeadores de cães locais.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parco+dello+Storga+Treviso"
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+dello+Storga+Treviso",
+          "leashRulesDe": "Hunde an der Leine; Naturschutzgebiet, Nistbereiche meiden",
+          "bestTimeToVisitDe": "Frühling und Herbst, wenn die Quellen klar und kühl fließen",
+          "descriptionDe": "Ein 67 Hektar großer Quellwasserpark am Nordostrand der Stadt, wo der Bach Storga inmitten von Wiesen, Wäldern und alten Gehöften entspringt, bevor er in den Sile mündet. Seine flachen Kieswege sind eine ruhige Alternative zur belebteren Restera und ein Favorit lokaler Hundehalter."
         },
         {
           "name": "Area sgambatura Parco Ducale",
@@ -223,9 +244,15 @@
           "descriptionFr": "L'une des plus récentes aires canines municipales de Trévise, ouverte en 2023 dans le Parco Ducale, avec double portillon, fontaine et bancs. La ville entretient tout un réseau de ces enclos de sgambatura : où que vous logiez, un espace sans laisse est rarement loin.",
           "descriptionEs": "Una de las áreas caninas municipales más nuevas de Treviso, abierta en 2023 en el Parco Ducale, con doble puerta, fuente y bancos. La ciudad mantiene toda una red de estos recintos de sgambatura: te alojes donde te alojes, casi siempre hay uno cerca.",
           "descriptionPt": "Uma das áreas caninas municipais mais recentes de Treviso, aberta em 2023 no Parco Ducale, com portão duplo, fonte e bancos. A cidade mantém toda uma rede destes recintos de sgambatura: onde quer que fique, há quase sempre um por perto.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parco+Ducale+Treviso"
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+Ducale+Treviso",
+          "leashRulesDe": "Freilauf innerhalb des eingezäunten Areals erlaubt; im übrigen Park Leinenpflicht",
+          "bestTimeToVisitDe": "Später Nachmittag, die gesellige Stunde der ortsansässigen Hunde",
+          "descriptionDe": "Eine der neuesten städtischen Hundeauslaufflächen Trevisos, 2023 im Parco Ducale eröffnet, mit doppeltem Tor, einem Brunnen und Bänken. Die Stadt unterhält ein ganzes Netz solcher eingezäunter sgambatura-Flächen, sodass sich, wo auch immer Sie wohnen, meist ein Freilaufgehege in der Nähe befindet."
         }
-      ]
+      ],
+      "titleDe": "Parks und Grünflächen für Hunde in Treviso",
+      "introDe": "Treviso ist eine Wasserstadt, umgeben von Grün: Der Fluss Sile fließt an den Stadtmauern entlang, quellgespeiste Parks liegen gleich vor der Stadt, und die Gemeinde unterhält ein Netz eingezäunter Hundeauslaufflächen, mehrere davon mit Agility-Geräten und Brunnen. Außerhalb der ausgewiesenen Bereiche besteht Leinenpflicht.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Treviso with a Dog",
@@ -279,7 +306,10 @@
           "costEs": "Gratis",
           "costPt": "Grátis"
         }
-      ]
+      ],
+      "titleDe": "Mit Hund in Treviso unterwegs",
+      "introDe": "Die ummauerte Altstadt ist zu Fuß in 15 Minuten durchquert, der Alltag mit Hund ist also einfach. Für Ausflüge nehmen sowohl die MOM-Busse als auch die Regionalzüge von Trenitalia Hunde nach den italienischen Standardregeln für Leine und Maulkorb mit, und Venedig ist mit dem Zug nur etwa 30 Minuten entfernt.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog Beaches Near Treviso",
@@ -310,7 +340,10 @@
           "seasonalRestrictionsPt": "Aberta na época balnear (aprox. maio a setembro); fora das zonas caninas, as praias de Jesolo proíbem cães no verão",
           "googleMapsUrl": "https://maps.google.com/?q=Bau+Bau+Beach+Jesolo"
         }
-      ]
+      ],
+      "titleDe": "Hundestrände in der Nähe von Treviso",
+      "introDe": "Treviso liegt im Landesinneren, doch die Adria ist kaum 40 Minuten entfernt, und Jesolo betreibt eine der bekanntesten Hundestrand-Anlagen Italiens. Denken Sie daran, dass an den meisten italienischen Badestränden im Sommer Hunde außerhalb der ausgewiesenen Hundebereiche verboten sind, zielen Sie also auf die offiziellen Bereiche.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinarians in Treviso",
@@ -361,7 +394,10 @@
           "descriptionPt": "Um hospital veterinário privado poliespecializado com um serviço de urgências aberto todos os dias, 24 horas. O recurso natural se ficar nas colinas do Prosecco, entre Conegliano e Valdobbiadene.",
           "googleMapsUrl": "https://maps.google.com/?q=Ospedale+Veterinario+Citt%C3%A0+di+Conegliano"
         }
-      ]
+      ],
+      "titleDe": "Tierärzte in Treviso",
+      "introDe": "Treviso ist für Notfälle ungewöhnlich gut versorgt: Zwei Einrichtungen mit rund um die Uhr besetzter Intensivstation liegen in oder direkt außerhalb der Stadt, und ein drittes 24-Stunden-Krankenhaus befindet sich in Conegliano, 25 km nördlich an der Prosecco-Straße.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Treviso with a Dog",
@@ -456,6 +492,22 @@
           "q": "Os cães são admitidos nas adegas das colinas do Prosecco?",
           "a": "Os caminhos entre vinhas e as aldeias são ao ar livre e fáceis com trela, e muitas adegas familiares aceitam cães calmos nas provas; as políticas variam, telefone a cada adega antes de visitar."
         }
+      ],
+      "titleDe": "Wichtige Tipps für einen Besuch in Treviso mit Hund",
+      "introDe": "Praktische Tipps, um Treviso, den Sile und die Prosecco-Hügel mit Ihrem Hund zu genießen.",
+      "faqsDe": [
+        {
+          "q": "Ist Treviso eine gute hundefreundliche Alternative zu einem Aufenthalt in Venedig?",
+          "a": "Ja. Treviso hat Kanäle, Arkaden und deutlich weniger Menschenmassen, Hotels kosten weniger, und Regionalzüge bringen Sie in etwa 30 Minuten zum Bahnhof Venezia Santa Lucia, mit einem Hundeticket zum halben Preis."
+        },
+        {
+          "q": "Kann mein Hund irgendwo in der Nähe von Treviso schwimmen?",
+          "a": "Nicht in den Stadtkanälen, aber Bau Bau Beach in Lido di Jesolo, etwa 40 Minuten entfernt, hat einen reservierten Meeresabschnitt, an dem Hunde schwimmen dürfen, dazu Duschen, Näpfe und eingezäunte Bereiche."
+        },
+        {
+          "q": "Sind Hunde in den Weingütern der Prosecco-Hügel erlaubt?",
+          "a": "Die Weinberg-Wege und Dörfer liegen im Freien und lassen sich gut an der Leine begehen, und viele familiengeführte Weinkeller nehmen ruhige Hunde zu Verkostungen mit; die Regelungen sind unterschiedlich, rufen Sie also vor dem Besuch bei jedem Weingut an."
+        }
       ]
     },
     "attractions": {
@@ -478,7 +530,8 @@
           "descriptionPt": "O coração cívico de Treviso, presidido pelo Palazzo dei Trecento do século XIII, com o Calmaggiore em arcadas a levar ao Duomo. É tudo território de passeio ao ar livre, perfeito com trela, sobretudo à hora do aperitivo quando a praça ganha vida.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://maps.google.com/?q=Piazza+dei+Signori+Treviso"
+          "googleMapsUrl": "https://maps.google.com/?q=Piazza+dei+Signori+Treviso",
+          "descriptionDe": "Das bürgerliche Herz von Treviso, überragt vom Palazzo dei Trecento aus dem 13. Jahrhundert, mit dem arkadengesäumten Calmaggiore, der zum Dom führt. Alles reines Flaniergebiet im Freien, perfekt an der Leine, besonders zur Aperitivo-Zeit, wenn sich der Platz mit Leben füllt."
         },
         {
           "name": "Isola della Pescheria",
@@ -490,7 +543,8 @@
           "descriptionPt": "Uma pequena ilha no canal Cagnan onde se realiza o mercado do peixe de Treviso desde 1856, rodeada de água, salgueiros e algumas das mais bonitas vistas de canais da cidade. Percorra as bancas da manhã com o cão em trela curta e siga depois os canais dos Buranelli, o bairro que lembra os pescadores de Burano.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://maps.google.com/?q=Isola+della+Pescheria+Treviso"
+          "googleMapsUrl": "https://maps.google.com/?q=Isola+della+Pescheria+Treviso",
+          "descriptionDe": "Eine kleine Insel im Kanal Cagnan, auf der seit 1856 Trevisos Fischmarkt stattfindet, umgeben von Wasser, Weiden und einigen der schönsten Kanalblicke der Stadt. Schlendern Sie mit Ihrem Hund an kurzer Leine über die Morgenstände und folgen Sie dann den Kanälen der Buranelli, dem Viertel, das an die Fischer von Burano erinnert."
         },
         {
           "name": "Prosecco Hills (Conegliano-Valdobbiadene)",
@@ -502,9 +556,13 @@
           "descriptionPt": "As colinas do Prosecco Superiore, classificadas pela UNESCO, começam 20 minutos a norte de Treviso: uma montanha-russa de cumeadas riscadas de vinhas, aldeias e estradas panorâmicas. Percorra os caminhos entre vinhas com o cão pela trela e pare em adegas familiares para uma prova; muitas aceitam cães calmos se telefonar antes.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://maps.google.com/?q=Valdobbiadene"
+          "googleMapsUrl": "https://maps.google.com/?q=Valdobbiadene",
+          "descriptionDe": "Die zum UNESCO-Welterbe gehörenden Hügel des Prosecco Superiore beginnen 20 Minuten nördlich von Treviso: ein Auf und Ab von rebenbestandenen Höhenzügen, Weilern und Panoramawegen. Gehen Sie die Weinbergpfade mit Ihrem Hund an der Leine und halten Sie bei familiengeführten Weingütern für eine Verkostung; viele nehmen ruhige Hunde mit, wenn Sie vorher anrufen."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Treviso",
+      "introDe": "Treviso ist Venedig ohne den Andrang: Kanäle, Fresken-Fassaden und Arkadengassen, alles von der Straße aus zu sehen, genau dort, wo Ihr Hund sein möchte. Fügen Sie die Stadtmauern, die Fischmarkt-Insel und die Prosecco-Hügel hinzu, und Sie haben ein ganzes Wochenende im Freien.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting and Dog Walking in Treviso",
@@ -555,7 +613,10 @@
           "priceRangePt": "Contacte para preços de pensão e creche",
           "bookingRequired": true
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung und Gassi-Service in Treviso",
+      "introDe": "Für einen hundefreien Vormittag in Venedigs Museen oder ein langes Weingut-Mittagessen bietet Treviso sowohl internationale Sitter-Plattformen als auch eine geschätzte Pension im Sile-Park. Sommer und die Wochenenden der Weinlese sind früh ausgebucht.",
+      "faqsDe": []
     }
   }
 }

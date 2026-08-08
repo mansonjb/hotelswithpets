@@ -37,7 +37,11 @@
           "descriptionPt": "Um pub de vigas de madeira na Fossgate que serve pizzas e uma seleção rotativa de cervejas artesanais de Yorkshire. Os cães são bem-vindos por todo o rés do chão e no beer garden traseiro, com tigelas de água e petiscos para cães guardados atrás do balcão.",
           "petPolicyPt": "Cães bem-vindos no interior e no beer garden",
           "mustTryPt": "Prova de cervejas de Yorkshire, pizzas de massa lêveda",
-          "tipPt": "Os reservados ao fundo são os mais tranquilos para um cão ansioso, as noites de sexta e sábado ficam ruidosas depois das 20:00 com as multidões do pub-quiz."
+          "tipPt": "Os reservados ao fundo são os mais tranquilos para um cão ansioso, as noites de sexta e sábado ficam ruidosas depois das 20:00 com as multidões do pub-quiz.",
+          "descriptionDe": "Ein Pub mit Holzbalken in der Fossgate, der Pizzen und eine wechselnde Auswahl an Yorkshire-Craft-Ales serviert. Hunde sind im gesamten Erdgeschoss und im hinteren Biergarten willkommen, mit Wassernäpfen und Hundeleckerlis hinter der Bar.",
+          "petPolicyDe": "Hunde drinnen und im Biergarten willkommen",
+          "mustTryDe": "Yorkshire-Ale-Verkostung, Sauerteig-Pizzen",
+          "tipDe": "Die Nischen hinten sind am ruhigsten für einen ängstlichen Hund, freitags und samstags abends wird es nach 20:00 Uhr mit der Pub-Quiz-Menge laut."
         },
         {
           "name": "The Blue Bell",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um pub eduardiano de 1903 classificado como Grade II, o pub mais pequeno de York, com vidro gravado e azulejaria originais. Os cães são acolhidos sem condições; o dono mantém uma lista dos cães habituais pelo nome e fornece biscoitos a pedido.",
           "petPolicyPt": "Cães bem-vindos sem condições",
           "mustTryPt": "Cerveja amarga de barril de Yorkshire, empada de porco tradicional",
-          "tipPt": "Só aceita dinheiro; a capacidade é de cerca de 30, chegue antes das 18:00 aos fins de semana para encontrar um canto para si e para o cão."
+          "tipPt": "Só aceita dinheiro; a capacidade é de cerca de 30, chegue antes das 18:00 aos fins de semana para encontrar um canto para si e para o cão.",
+          "descriptionDe": "Ein denkmalgeschütztes edwardianisches Pub von 1903, Yorks kleinstes Pub, mit originalem geätztem Glas und Fliesenarbeiten. Hunde sind uneingeschränkt willkommen; der Wirt führt eine Liste der Stammhunde mit Namen und reicht auf Anfrage Kekse.",
+          "petPolicyDe": "Hunde uneingeschränkt willkommen",
+          "mustTryDe": "Yorkshire Bitter vom Fass, traditionelle Pork Pie",
+          "tipDe": "Nur Barzahlung; die Kapazität liegt bei etwa 30 Personen, vor 18:00 Uhr am Wochenende kommen, um eine Ecke für sich und den Hund zu finden."
         },
         {
           "name": "Brew & Brownie",
@@ -89,7 +97,11 @@
           "descriptionPt": "Um café de brunch animado aberto todo o dia em frente aos jardins do Yorkshire Museum, famoso pelas suas panquecas gigantes e pelos brownies caseiros. Os cães são acolhidos no terraço da frente e na sala interior traseira antes das 11:00 e depois das 14:30.",
           "petPolicyPt": "Cães no terraço e na sala traseira fora de ponta",
           "mustTryPt": "Pilha de panquecas, brownie de caramelo salgado",
-          "tipPt": "Apenas sem marcação e o pico do brunch (11:00-14:30) é só cães no terraço, mais fácil com um cão se chegar à abertura."
+          "tipPt": "Apenas sem marcação e o pico do brunch (11:00-14:30) é só cães no terraço, mais fácil com um cão se chegar à abertura.",
+          "descriptionDe": "Ein belebtes ganztägiges Brunch-Café gegenüber den Gärten des Yorkshire Museum, berühmt für seine riesigen Pancakes und hausgemachten Brownies. Hunde sind auf der vorderen Terrasse und im hinteren Raum vor 11:00 und nach 14:30 Uhr willkommen.",
+          "petPolicyDe": "Hunde auf der Terrasse + hinterer Raum außerhalb der Stoßzeiten",
+          "mustTryDe": "Pancake-Stapel, Salted-Caramel-Brownie",
+          "tipDe": "Nur ohne Reservierung, und in der Brunch-Stoßzeit (11:00–14:30 Uhr) sind Hunde nur auf der Terrasse erlaubt, einfacher mit Hund bei Öffnung kommen."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Posso levar o meu cão à Bettys Tea Room?",
           "a": "Não. A famosa Bettys na St Helen's Square não permite cães no interior. Para um tradicional chá da tarde de York com um cão, experimente antes o The Old Schoolroom Café ou o terraço do Brew & Brownie."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in York",
+      "introDe": "York gehört zu den zuverlässig hundefreundlichsten Städten Englands, seine mittelalterlichen Pubs rund um The Shambles, Uferufer-Cafés entlang der Ouse und Teestuben in den Snickelways heißen Hunde standardmäßig willkommen. Die meisten unabhängigen Lokale halten ganzjährig Wassernäpfe an der Tür bereit.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Pubs in York erlaubt?",
+          "a": "Ja, die meisten traditionellen Pubs heißen angeleinte Hunde zumindest im Barbereich willkommen; viele lassen sie auch außerhalb der Essenszeiten in den Speiseräumen zu. The Blue Bell, The Hop, The Maltings und The Golden Ball sind uneingeschränkt hundefreundlich."
+        },
+        {
+          "q": "Darf ich meinen Hund mit ins Bettys Tea Room nehmen?",
+          "a": "Nein. Das berühmte Bettys am St Helen's Square lässt keine Hunde hinein. Für traditionellen York Afternoon Tea mit Hund stattdessen das Old Schoolroom Café oder die Terrasse von Brew & Brownie ausprobieren."
+        }
       ]
     },
     "parks": {
@@ -205,7 +229,10 @@
             "Bebedouro",
             "Pontos de recolha de lixo"
           ],
-          "tipPt": "Os portões do parque fecham ao anoitecer no inverno (16:00), consulte o site do City of York Council para os horários sazonais."
+          "tipPt": "Os portões do parque fecham ao anoitecer no inverno (16:00), consulte o site do City of York Council para os horários sazonais.",
+          "leashRuleDe": "An der Leine auf der Hauptwiese, freilauffähig in den Seitenbereichen",
+          "descriptionDe": "Ein 1921 von der Familie Rowntree gestifteter Gedenkpark mit formalen Rasenflächen, einem Ententeich, einem Uferabschnitt entlang der Ouse und einem ganzjährig geöffneten, von der Gemeinschaft geführten Café. Die nördliche Hälfte entlang des Flusses ist bei Sonnenaufgang ein beliebter Freilauf-Bereich.",
+          "tipDe": "Die Parktore schließen im Winter in der Dämmerung (16:00 Uhr), auf der Website des City of York Council die saisonalen Öffnungszeiten prüfen."
         },
         {
           "name": "Knavesmire & The Stray",
@@ -245,7 +272,10 @@
             "Acesso livre",
             "Bosques adjacentes"
           ],
-          "tipPt": "Os sábados de dia de corrida (de maio a outubro) encerram a secção central, consulte yorkracecourse.co.uk antes de ir."
+          "tipPt": "Os sábados de dia de corrida (de maio a outubro) encerram a secção central, consulte yorkracecourse.co.uk antes de ir.",
+          "leashRuleDe": "Ganzjährig freilauffähig außerhalb der Renntage",
+          "descriptionDe": "Eine weite Allmende rund um die Rennbahn von York, uraltes Weideland, das seit dem 18. Jahrhundert zur Pferdehaltung genutzt wird, durchzogen von Feldwegen und umgeben von alten Bäumen. Einheimische lassen ihre Hunde hier täglich frei laufen, an Renntagen abseits der Rennbahnabsperrung.",
+          "tipDe": "Renn-Samstage (Mai bis Oktober) sperren den mittleren Bereich, vorher auf yorkracecourse.co.uk nachsehen."
         },
         {
           "name": "Museum Gardens",
@@ -289,7 +319,10 @@
             "WiFi gratuito",
             "Café nas proximidades"
           ],
-          "tipPt": "Segure a trela curta perto dos pavões (normalmente junto às ruínas da abadia ao meio-dia), eles não recuam."
+          "tipPt": "Segure a trela curta perto dos pavões (normalmente junto às ruínas da abadia ao meio-dia), eles não recuam.",
+          "leashRuleDe": "Nur an der Leine",
+          "descriptionDe": "Ein botanischer Garten mitten im Zentrum von York, auf dem Gelände der Ruine der St Mary's Abbey. Pfauen laufen frei herum, Wege schlängeln sich unter riesigen Platanen, und die Uferbegrenzung öffnet sich zur Ouse. Täglich freier Eintritt.",
+          "tipDe": "Die Leine in der Nähe der Pfauen kurz halten (typischerweise mittags bei den Abteiruinen), sie weichen nicht zurück."
         }
       ],
       "tipsEn": [
@@ -353,6 +386,18 @@
           "q": "Os cães podem percorrer as muralhas da cidade de York?",
           "a": "Sim. Os cães com trela são permitidos no circuito completo de 5 km das muralhas da cidade, gratuitamente. Note que os degraus são íngremes, os cães pequenos podem ser transportados ao colo."
         }
+      ],
+      "titleDe": "Hundeparks & Grünflächen in York",
+      "introDe": "Yorks kompakter mittelalterlicher Kern ist umgeben von Flusswiesen, alten Weideflächen (Strays) und königlichem Parkland, die meisten sind rund um die Uhr geöffnet, außerhalb eingezäunter Sportflächen standardmäßig freilauffähig und zu Fuß von der Stadtmauer erreichbar.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde in Yorks Parks ohne Leine laufen?",
+          "a": "Freilauf ist auf dem Knavesmire, in Teilen des Rowntree Park und auf den Flusswiesen erlaubt. Formale Parks wie die Museum Gardens und der Dean's Park verlangen jederzeit Leinenpflicht."
+        },
+        {
+          "q": "Dürfen Hunde die Stadtmauer von York begehen?",
+          "a": "Ja. Angeleinte Hunde sind auf der gesamten 5 km langen Runde der Stadtmauer kostenlos erlaubt. Zu beachten: Die Stufen sind steil, kleine Hunde können getragen werden."
+        }
       ]
     },
     "transport": {
@@ -380,7 +425,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=York+Railway+Station",
           "descriptionPt": "A LNER opera a East Coast Main Line através de York, comboios diretos para London King's Cross (1h50), Edimburgo (2h30) e Newcastle (1h). Até dois cães viajam grátis por passageiro; os cães de assistência sempre grátis. Transporte os cães pequenos ao colo ou mantenha os médios/grandes com trela e no chão.",
           "petPolicyPt": "Até 2 cães grátis por passageiro, não podem ocupar um lugar",
-          "tipPt": "Reserve o seu próprio lugar com antecedência, a LNER tem carruagens que aceitam cães mas sem lugares específicos para cães. Evite a primeira classe com um cão grande (regras de espaço de chão mais aplicadas)."
+          "tipPt": "Reserve o seu próprio lugar com antecedência, a LNER tem carruagens que aceitam cães mas sem lugares específicos para cães. Evite a primeira classe com um cão grande (regras de espaço de chão mais aplicadas).",
+          "descriptionDe": "LNER betreibt die East Coast Main Line durch York, mit Direktzügen nach London King's Cross (1 Std. 50 Min.), Edinburgh (2 Std. 30 Min.) und Newcastle (1 Std.). Bis zu zwei Hunde reisen kostenlos pro Fahrgast; Assistenzhunde immer kostenlos. Kleine Hunde tragen oder mittelgroße/große Hunde angeleint auf dem Boden halten.",
+          "petPolicyDe": "Bis zu 2 Hunde kostenlos pro Fahrgast, dürfen keinen Sitzplatz belegen",
+          "tipDe": "Den eigenen Sitzplatz im Voraus reservieren, LNER hat hundefreundliche Wagen, aber keine speziellen Hundesitze. Erste Klasse mit einem großen Hund meiden (strengere Regeln für den Bodenraum)."
         },
         {
           "name": "First York Buses",
@@ -399,7 +447,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=York+bus+station",
           "descriptionPt": "A First York opera todas as principais linhas de autocarro da cidade, incluindo as rotas Park & Ride de fora das muralhas. Os cães com trela e bem-comportados são aceites gratuitamente ao critério do motorista, os autocarros podem estar cheios nas horas de ponta, mais calmos entre as 09:30 e as 15:00.",
           "petPolicyPt": "Grátis ao critério do motorista, trela e bom comportamento",
-          "tipPt": "O Park & Ride a partir de Askham Bar ou Monks Cross evita o trânsito do centro da cidade, os cães com trela são aceites nestes autocarros de ligação."
+          "tipPt": "O Park & Ride a partir de Askham Bar ou Monks Cross evita o trânsito do centro da cidade, os cães com trela são aceites nestes autocarros de ligação.",
+          "descriptionDe": "First York betreibt alle wichtigen Stadtbuslinien einschließlich der Park-&-Ride-Routen von außerhalb der Stadtmauer. Wohlerzogene angeleinte Hunde werden nach Ermessen des Fahrers kostenlos mitgenommen, Busse können zu Stoßzeiten voll sein, ruhiger zwischen 09:30 und 15:00 Uhr.",
+          "petPolicyDe": "Kostenlos nach Ermessen des Fahrers, Leinen- und Wohlverhaltenspflicht",
+          "tipDe": "Park & Ride von Askham Bar oder Monks Cross erspart den Verkehr im Stadtzentrum, angeleinte Hunde sind auf diesen Shuttlebussen erlaubt."
         },
         {
           "name": "City Cruises York",
@@ -418,7 +469,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Kings+Staith+Landing+York",
           "descriptionPt": "Cruzeiros turísticos no rio Ouse com partida do King's Staith Landing. Os cães com trela viajam grátis em todos os cruzeiros diurnos, com uma secção de convés ao ar livre dedicada na traseira de cada barco. O cruzeiro de 45 min pela cidade passa por Lendal Bridge, a Guildhall e as muralhas da cidade.",
           "petPolicyPt": "Cães grátis no convés traseiro ao ar livre",
-          "tipPt": "O cruzeiro do início da manhã (10:30) é o mais tranquilo e a luz do rio é a melhor, reserve online para evitar a fila do King's Staith."
+          "tipPt": "O cruzeiro do início da manhã (10:30) é o mais tranquilo e a luz do rio é a melhor, reserve online para evitar a fila do King's Staith.",
+          "descriptionDe": "Sightseeing-Flusskreuzfahrten auf der Ouse, Abfahrt vom King's Staith Landing. Angeleinte Hunde fahren auf allen Tageskreuzfahrten kostenlos mit, mit einem eigenen offenen Deckbereich am Heck jedes Boots. Die 45-minütige Stadtrundfahrt führt an der Lendal Bridge, dem Guildhall und der Stadtmauer vorbei.",
+          "petPolicyDe": "Hunde kostenlos auf dem offenen Heckdeck",
+          "tipDe": "Die frühe Morgenkreuzfahrt (10:30 Uhr) ist am ruhigsten und bietet das beste Flusslicht, online buchen, um die Schlange am King's Staith zu vermeiden."
         }
       ],
       "tipsEn": [
@@ -482,6 +536,18 @@
           "q": "Os cães são permitidos nos autocarros turísticos descapotáveis de York?",
           "a": "Sim. A City Sightseeing York aceita cães com trela gratuitamente no convés descapotável. As escadas para o piso superior são íngremes, os cães pequenos ou mais idosos ficam melhor no piso inferior."
         }
+      ],
+      "titleDe": "Haustierfreundlicher Transport in York",
+      "introDe": "York ist zum Zufußgehen gebaut, praktisch jeder hundefreundliche Ort ist zu Fuß von der Stadtmauer aus erreichbar, aber für Tagesausflüge nehmen der Zug, die örtlichen First-York-Busse und der offene Sightseeing-Bus alle angeleinte Hunde kostenlos mit.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich ein Ticket für meinen Hund in LNER-Zügen?",
+          "a": "Nein. Bis zu zwei Hunde reisen kostenlos pro zahlendem Fahrgast bei LNER und anderen britischen Bahnbetreibern. Assistenzhunde sind immer kostenlos, ohne Begrenzung."
+        },
+        {
+          "q": "Sind Hunde in Yorks offenen Sightseeing-Bussen erlaubt?",
+          "a": "Ja. City Sightseeing York nimmt angeleinte Hunde kostenlos auf dem offenen Oberdeck mit. Die Treppe zum Oberdeck ist steil, kleine oder ältere Hunde sind auf dem Unterdeck besser aufgehoben."
+        }
       ]
     },
     "beaches": {
@@ -532,7 +598,10 @@
             "Café de praia (mai-set)",
             "Estacionamento gratuito"
           ],
-          "tipPt": "Estacione no parque gratuito do Filey Brigg Country Park, caminho direto pela falésia até à areia norte que aceita cães em 8 minutos."
+          "tipPt": "Estacione no parque gratuito do Filey Brigg Country Park, caminho direto pela falésia até à areia norte que aceita cães em 8 minutos.",
+          "leashRuleDe": "Ganzjährig freilauffähig außerhalb der zentralen Touristenzone",
+          "descriptionDe": "Ein 8 km langer Bogen aus festem goldenem Sand, gerahmt vom Landvorsprung Filey Brigg. Das nördliche Ende (Richtung Filey Brigg) ist ganzjährig hundefreundlich und bei Einheimischen für Freilauf beliebt. 1 Std. Fahrt oder 1 Std. 15 Min. mit dem direkten LNER-Zug von York.",
+          "tipDe": "Am kostenlosen Parkplatz des Filey Brigg Country Park parken, direkter Klippenweg hinunter zum hundefreundlichen nördlichen Sand in 8 Minuten."
         },
         {
           "name": "Sandsend Beach",
@@ -570,7 +639,10 @@
             "Café de praia",
             "Estacionamento pay-and-display"
           ],
-          "tipPt": "Os horários das marés importam, na maré alta a praia estreita-se acentuadamente contra as falésias. Consulte tidetimes.org.uk para Whitby antes de ir."
+          "tipPt": "Os horários das marés importam, na maré alta a praia estreita-se acentuadamente contra as falésias. Consulte tidetimes.org.uk para Whitby antes de ir.",
+          "leashRuleDe": "Ganzjährig freilauffähig",
+          "descriptionDe": "Ein langer breiter Strand 5 km nördlich von Whitby, einer der wenigen großen Strände Yorkshires mit ganzjähriger Freilauffreiheit über seine gesamte Länge. Von jurassischen Klippen gesäumt und über den Küstenweg Whitby–Sandsend erreichbar. 1 Std. 15 Min. Fahrt von York.",
+          "tipDe": "Gezeitenzeiten sind entscheidend, bei Flut wird der Strand gegen die Klippen deutlich schmaler. Vor der Fahrt tidetimes.org.uk für Whitby prüfen."
         },
         {
           "name": "Bridlington South Beach",
@@ -608,7 +680,10 @@
             "Estacionamento pay-and-display",
             "Café do passeio marítimo"
           ],
-          "tipPt": "O East Riding Council aplica a proibição sazonal com coimas imediatas de 100 libras, mantenha-se na zona para cães sinalizada."
+          "tipPt": "O East Riding Council aplica a proibição sazonal com coimas imediatas de 100 libras, mantenha-se na zona para cães sinalizada.",
+          "leashRuleDe": "Freilauffähig Oktober bis April; eingeschränkte Zone 1. Mai bis 30. September",
+          "descriptionDe": "Bridlingtons breiter südlicher Sandstrand ist jenseits der Hafenmolen als ganzjähriger Hundestrand ausgeschildert, etwa die Hälfte der Gesamtlänge. Die verbleibende Familien-Touristenzone ist vom 1. Mai bis 30. September einschließlich für Hunde gesperrt. 1 Std. 15 Min. Fahrt oder 1 Std. 25 Min. Zugfahrt von York.",
+          "tipDe": "Der East Riding Council setzt das saisonale Verbot mit Bußgeldern von 100 £ vor Ort durch, in der ausgeschilderten Hundezone bleiben."
         }
       ],
       "tipsEn": [
@@ -672,6 +747,18 @@
           "q": "Os cães são permitidos na praia de Whitby?",
           "a": "A praia da vila de Whitby proíbe cães de 1 de maio a 30 de setembro inclusive. Use Sandsend (3 milhas a norte) ou Saltwick Bay (1 milha a sul) para acesso de cães durante todo o ano."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in der Nähe von York",
+      "introDe": "York liegt im Landesinneren, aber nur eine Stunde von den weiten Nordsee-Sandstränden der Küste von Yorkshire entfernt. Die meisten haben ganzjährig hundefreundliche Abschnitte; Einschränkungen auf den zentralen Touristensandflächen gelten nur von Mai bis September.",
+      "faqsDe": [
+        {
+          "q": "Wie weit ist der nächste hundefreundliche Strand von York entfernt?",
+          "a": "Etwa 1 Stunde mit dem Auto oder Zug. Filey, Bridlington und Scarborough liegen alle direkt an der LNER East Coast Line vom Bahnhof York aus."
+        },
+        {
+          "q": "Sind Hunde am Strand von Whitby erlaubt?",
+          "a": "Der Stadtstrand von Whitby verbietet Hunde vom 1. Mai bis 30. September einschließlich. Sandsend (5 km nördlich) oder Saltwick Bay (1,6 km südlich) für ganzjährigen Hundezugang nutzen."
+        }
       ]
     },
     "vets": {
@@ -701,7 +788,9 @@
           "tipEs": "La atención sin cita es más rápida antes de las 11:00; las urgencias fuera de horario se desvían a Vets Now (ver más abajo).",
           "googleMapsUrl": "https://maps.google.com/?q=Vets4Pets+York+Foss+Islands",
           "descriptionPt": "Clínica diurna dentro da Pets at Home de Foss Islands, consulta geral, vacinações, colocação de microchip, receitas. Apoio sem marcação durante o horário de funcionamento. As chamadas fora de horas são desviadas para a Vets Now Leeds.",
-          "tipPt": "O atendimento sem marcação é mais rápido antes das 11:00; as chamadas de emergência fora de horas vão para a Vets Now (ver abaixo)."
+          "tipPt": "O atendimento sem marcação é mais rápido antes das 11:00; as chamadas de emergência fora de horas vão para a Vets Now (ver abaixo).",
+          "descriptionDe": "Tagesklinik im Pets at Home in Foss Islands, allgemeine Beratung, Impfungen, Mikrochipping, Rezepte. Unterstützung ohne Termin während der Öffnungszeiten. Anrufe außerhalb der Öffnungszeiten werden an Vets Now Leeds weitergeleitet.",
+          "tipDe": "Ohne Termin am schnellsten vor 11:00 Uhr; Notfallanrufe außerhalb der Öffnungszeiten gehen an Vets Now (siehe unten)."
         },
         {
           "name": "Vets Now York (Emergency)",
@@ -722,7 +811,9 @@
           "tipEs": "Ten preparado el carnet de vacunación; las tarifas de consulta fuera de horario empiezan en torno a 230 £.",
           "googleMapsUrl": "https://maps.google.com/?q=Vets+Now+York+Audax+Close",
           "descriptionPt": "Clínica de urgências fora de horas na Audax Close, 10 min de carro do centro da cidade. Aberta todas as noites de semana das 19:00 às 08:00 e 24h aos fins de semana e feriados. Telefone com antecedência antes de conduzir até lá, fazem triagem por telefone.",
-          "tipPt": "Tenha o registo de vacinação do seu animal à mão; as taxas de consulta fora de horas começam por volta das 230 libras."
+          "tipPt": "Tenha o registo de vacinação do seu animal à mão; as taxas de consulta fora de horas começam por volta das 230 libras.",
+          "descriptionDe": "Notfallklinik außerhalb der Öffnungszeiten in Audax Close, 10 Minuten Fahrt vom Stadtzentrum. Werktags von 19:00 bis 08:00 Uhr geöffnet und an Wochenenden sowie Feiertagen rund um die Uhr. Vor der Fahrt anrufen, dort erfolgt eine telefonische Ersteinschätzung.",
+          "tipDe": "Das Impfheft des Haustiers bereithalten; die Beratungsgebühren außerhalb der Öffnungszeiten beginnen bei etwa 230 £."
         },
         {
           "name": "Battle Flatts Veterinary Clinic",
@@ -743,7 +834,9 @@
           "tipEs": "Aparcamiento gratis in situ, útil si llegas con un perro ansioso que odia el tráfico del centro.",
           "googleMapsUrl": "https://maps.google.com/?q=Battle+Flatts+Veterinary+Clinic+York",
           "descriptionPt": "Clínica independente de pequenos animais acreditada pelo RCVS em Earswick (norte de York). Consultas diurnas, cirurgia, dentária. Encaminhamentos fora de horas para a Paragon Veterinary Referrals (Wakefield) para casos complexos.",
-          "tipPt": "Estacionamento gratuito no local, útil se chegar com um cão ansioso que detesta o trânsito do centro da cidade."
+          "tipPt": "Estacionamento gratuito no local, útil se chegar com um cão ansioso que detesta o trânsito do centro da cidade.",
+          "descriptionDe": "Unabhängige, RCVS-akkreditierte Kleintierpraxis in Earswick (nördliches York). Tagesberatungen, Chirurgie, Zahnheilkunde. Überweisungen außerhalb der Öffnungszeiten an Paragon Veterinary Referrals (Wakefield) für komplexe Fälle.",
+          "tipDe": "Kostenlose Parkplätze vor Ort, nützlich bei Ankunft mit einem ängstlichen Hund, der den Verkehr im Stadtzentrum hasst."
         }
       ],
       "tipsEn": [
@@ -807,6 +900,18 @@
           "q": "Preciso de um passaporte de animal para trazer o meu cão para York?",
           "a": "Vindo da UE, precisa de um Animal Health Certificate GB emitido por um veterinário oficial da UE dentro dos 10 dias anteriores à viagem, além de vacinação antirrábica e microchip. O tratamento contra a ténia só é exigido para a viagem de regresso à UE."
         }
+      ],
+      "titleDe": "24-Stunden-Notfalltierärzte in York, Tierkliniken & Haustierbetreuung",
+      "introDe": "York verfügt über eine gute tagsüber verfügbare tierärztliche Versorgung und ein voll besetztes 24-Stunden-Notfall- und Überweisungskrankenhaus in der Nähe. Stets das Impfheft des Haustiers (UK + EU) auf Reisen mitführen.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der 24-Stunden-Notfalltierarzt in York?",
+          "a": "Vets Now York in 3 Audax Close, YO30 4RB. Vor der Fahrt +44 1904 222400 anrufen, dort erfolgt eine telefonische Ersteinschätzung. Werktags abends von 19:00 bis 08:00 Uhr geöffnet und an Wochenenden sowie Feiertagen rund um die Uhr."
+        },
+        {
+          "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach York zu bringen?",
+          "a": "Aus der EU benötigt man ein GB Animal Health Certificate, ausgestellt von einem EU-amtlichen Tierarzt innerhalb von 10 Tagen vor der Reise, zusätzlich zu Tollwutimpfung und Mikrochip. Eine Bandwurmbehandlung ist nur für die Rückreise in die EU erforderlich."
+        }
       ]
     },
     "tips": {
@@ -823,14 +928,16 @@
           "description": "April-May and September-October are ideal, average highs 15-18 °C, the Knavesmire is dry, and tourist crowds in The Shambles are bearable. December has the world-famous Christmas market but heavy crowds and many indoor venues become standing-room-only.",
           "descriptionFr": "Avril-mai et septembre-octobre sont idéaux, maxima moyens de 15-18 °C, la Knavesmire est sèche et les foules touristiques dans Les Shambles restent supportables. Décembre a le marché de Noël mondialement célèbre mais des foules denses et beaucoup d'établissements intérieurs deviennent debout seulement.",
           "descriptionEs": "Abril-mayo y septiembre-octubre son ideales, máximas medias de 15-18 °C, la Knavesmire está seca y las multitudes turísticas en The Shambles son llevaderas. Diciembre tiene el mundialmente famoso mercado navideño pero multitudes densas y muchos locales interiores quedan solo de pie.",
-          "descriptionPt": "Abril-maio e setembro-outubro são ideais, máximas médias de 15-18 °C, o Knavesmire mantém-se seco, e as multidões turísticas em The Shambles são suportáveis. Dezembro tem o mundialmente famoso mercado de Natal mas grandes multidões e muitos espaços interiores ficam sem lugares sentados."
+          "descriptionPt": "Abril-maio e setembro-outubro são ideais, máximas médias de 15-18 °C, o Knavesmire mantém-se seco, e as multidões turísticas em The Shambles são suportáveis. Dezembro tem o mundialmente famoso mercado de Natal mas grandes multidões e muitos espaços interiores ficam sem lugares sentados.",
+          "descriptionDe": "April bis Mai und September bis Oktober sind ideal, mit durchschnittlichen Höchstwerten von 15–18 °C, der Knavesmire ist trocken, und die Touristenmengen in The Shambles sind erträglich. Im Dezember gibt es den weltberühmten Weihnachtsmarkt, aber starkes Gedränge, und viele Innenräume werden dann zu reinen Stehplatzflächen."
         },
         {
           "name": "UK pet-import paperwork (2026)",
           "description": "From the EU you need: ISO microchip, valid rabies vaccination (≥21 days old, not expired), and a GB Animal Health Certificate (AHC) issued by an EU OV within 10 days of arrival. The AHC is valid 4 months for onward EU travel and 4 months for return. Tapeworm treatment is required only for return travel to Ireland, Finland, Malta or Norway, not for entry to the UK.",
           "descriptionFr": "Depuis l'UE il faut : puce ISO, vaccin antirabique valide (≥21 jours, non périmé) et un GB Animal Health Certificate (AHC) délivré par un vétérinaire OV de l'UE dans les 10 jours précédant l'arrivée. L'AHC est valable 4 mois pour voyager dans l'UE et 4 mois pour le retour. Le traitement contre le ténia n'est requis que pour le retour vers l'Irlande, la Finlande, Malte ou la Norvège, pas pour l'entrée au UK.",
           "descriptionEs": "Desde la UE necesitas: microchip ISO, vacuna antirrábica vigente (≥21 días, no caducada) y un GB Animal Health Certificate (AHC) emitido por un veterinario OV de la UE en los 10 días previos a la llegada. El AHC es válido 4 meses para viajar dentro de la UE y 4 meses para el retorno. El tratamiento de tenia solo se exige para volver a Irlanda, Finlandia, Malta o Noruega, no para entrar a UK.",
-          "descriptionPt": "Vindo da UE precisa de: microchip ISO, vacinação antirrábica válida (com ≥21 dias, não expirada), e um Animal Health Certificate (AHC) GB emitido por um veterinário oficial da UE dentro dos 10 dias anteriores à chegada. O AHC é válido por 4 meses para a viagem subsequente na UE e por 4 meses para o regresso. O tratamento contra a ténia só é exigido para a viagem de regresso à Irlanda, Finlândia, Malta ou Noruega, não para a entrada no Reino Unido."
+          "descriptionPt": "Vindo da UE precisa de: microchip ISO, vacinação antirrábica válida (com ≥21 dias, não expirada), e um Animal Health Certificate (AHC) GB emitido por um veterinário oficial da UE dentro dos 10 dias anteriores à chegada. O AHC é válido por 4 meses para a viagem subsequente na UE e por 4 meses para o regresso. O tratamento contra a ténia só é exigido para a viagem de regresso à Irlanda, Finlândia, Malta ou Noruega, não para a entrada no Reino Unido.",
+          "descriptionDe": "Aus der EU benötigt man: ISO-Mikrochip, gültige Tollwutimpfung (mindestens 21 Tage alt, nicht abgelaufen) und ein GB Animal Health Certificate (AHC), ausgestellt von einem EU-amtlichen Tierarzt innerhalb von 10 Tagen vor der Ankunft. Das AHC ist 4 Monate für die Weiterreise in die EU und 4 Monate für die Rückreise gültig. Eine Bandwurmbehandlung ist nur für die Rückreise nach Irland, Finnland, Malta oder Norwegen erforderlich, nicht für die Einreise ins Vereinigte Königreich."
         },
         {
           "name": "Walking the city walls",
@@ -838,7 +945,8 @@
           "description": "The 5 km dog-friendly circuit of the medieval walls takes 1h45 at a leisurely pace with stops. Steps are steep, small dogs are best carried over the four bar gates. Walls close at dusk; allow 16:00 start in winter, 19:00 in summer to avoid being locked out.",
           "descriptionFr": "Le circuit dog-friendly de 5 km des remparts médiévaux prend 1h45 à un rythme tranquille avec arrêts. Les marches sont raides, les petits chiens sont mieux portés sur les quatre portes (bars). Les remparts ferment à la tombée du jour ; partez avant 16h en hiver, 19h en été pour ne pas être enfermé.",
           "descriptionEs": "El circuito dog-friendly de 5 km de las murallas medievales lleva 1h45 a paso tranquilo con paradas. Los escalones son empinados, los perros pequeños van mejor en brazos sobre las cuatro puertas (bars). Las murallas cierran al anochecer; sal antes de las 16:00 en invierno, 19:00 en verano para no quedar encerrado.",
-          "descriptionPt": "O circuito de 5 km que aceita cães das muralhas medievais demora 1h45 a um ritmo tranquilo com paragens. Os degraus são íngremes, os cães pequenos transportam-se melhor ao colo sobre os quatro portões bar. As muralhas fecham ao anoitecer; comece às 16:00 no inverno, às 19:00 no verão para não ficar fechado fora."
+          "descriptionPt": "O circuito de 5 km que aceita cães das muralhas medievais demora 1h45 a um ritmo tranquilo com paragens. Os degraus são íngremes, os cães pequenos transportam-se melhor ao colo sobre os quatro portões bar. As muralhas fecham ao anoitecer; comece às 16:00 no inverno, às 19:00 no verão para não ficar fechado fora.",
+          "descriptionDe": "Die 5 km lange hundefreundliche Runde der mittelalterlichen Stadtmauer dauert bei gemächlichem Tempo mit Pausen 1 Std. 45 Min. Die Stufen sind steil, kleine Hunde werden am besten über die vier Torbauten getragen. Die Mauern schließen in der Dämmerung; im Winter ab 16:00 Uhr, im Sommer ab 19:00 Uhr einplanen, um nicht ausgesperrt zu werden."
         }
       ],
       "tipsEn": [
@@ -902,6 +1010,18 @@
           "q": "Há locais em York onde os cães NÃO são permitidos?",
           "a": "A York Minster não permite cães (apenas cães de assistência). O National Railway Museum permite apenas cães de assistência no interior, mas os cães de estimação são bem-vindos nas exposições ao ar livre. O JORVIK Viking Centre permite apenas cães de assistência."
         }
+      ],
+      "titleDe": "Reisen mit Hund nach York: Praktische Tipps",
+      "introDe": "York ist einer der einfachsten UK-Städtetrips mit Hund, kompaktes mittelalterliches Zentrum, hundetolerante Pubs und Teestuben als Standard, mildes Atlantikklima und vollständige LNER-Bahnanbindung von London oder Edinburgh.",
+      "faqsDe": [
+        {
+          "q": "Eignet sich York für einen hundefreundlichen Wochenendtrip?",
+          "a": "Ja, York gehört zu Englands zuverlässig hundewillkommensten Städten. Kompaktes begehbares Zentrum, hundetolerante Pubs und Cafés als Standard, drei große Grünflächen innerhalb von 1 km der Stadtmauer und direkte LNER-Züge von London (1 Std. 50 Min.) und Edinburgh (2 Std. 30 Min.)."
+        },
+        {
+          "q": "Gibt es Orte in York, an denen Hunde NICHT erlaubt sind?",
+          "a": "Das York Minster lässt keine Hunde zu (nur Assistenzhunde). Das National Railway Museum lässt nur Assistenzhunde ins Innere, aber Haustierhunde sind in den Außenausstellungen willkommen. Das JORVIK Viking Centre lässt nur Assistenzhunde zu."
+        }
       ]
     },
     "attractions": {
@@ -930,7 +1050,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=York+City+Walls+Bootham+Bar",
           "descriptionPt": "O mais completo circuito de muralhas medievais de Inglaterra, 3,4 km de ameias contínuas (5 km incluindo os quatro bars). Gratuito, aceita cães com trela por toda a parte. A vista da York Minster a partir da muralha sul é a fotografia emblemática da cidade.",
           "petPolicyPt": "Cães com trela gratuitamente",
-          "tipPt": "Suba em Bootham Bar para a secção da vista icónica da Minster primeiro, depois faça o circuito no sentido dos ponteiros do relógio, fica movimentado depois das 11:00."
+          "tipPt": "Suba em Bootham Bar para a secção da vista icónica da Minster primeiro, depois faça o circuito no sentido dos ponteiros do relógio, fica movimentado depois das 11:00.",
+          "descriptionDe": "Die vollständigste Runde mittelalterlicher Stadtmauern in England, 3,4 km durchgehende Zinnenmauern (5 km einschließlich der vier Torbauten). Kostenlos, hundefreundlich mit angeleinten Hunden im gesamten Verlauf. Der Blick auf das York Minster von der Südmauer ist das Wahrzeichen-Foto der Stadt.",
+          "petPolicyDe": "Angeleinte Hunde kostenlos",
+          "tipDe": "Am Bootham Bar zuerst hinaufsteigen für den ikonischen Minster-Blick-Abschnitt, dann im Uhrzeigersinn weitergehen, nach 11:00 Uhr wird es voll."
         },
         {
           "name": "The Shambles",
@@ -950,7 +1073,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=The+Shambles+York",
           "descriptionPt": "Uma rua medieval de talhantes tão estreita que as vigas dos pisos superiores quase se tocam por cima, a rua mais fotografada da Grã-Bretanha e uma inspiração para a Diagon Alley. Aberta 24/7, aceita cães por toda a parte. A maioria das lojas tolera cães durante as horas calmas.",
           "petPolicyPt": "Via pública, cães bem-vindos com trela",
-          "tipPt": "Visite antes das 10:00 ou depois das 17:30 para fotografias sem o aperto dos grupos turísticos, e também com a luz perfeita para fotografar o cão."
+          "tipPt": "Visite antes das 10:00 ou depois das 17:30 para fotografias sem o aperto dos grupos turísticos, e também com a luz perfeita para fotografar o cão.",
+          "descriptionDe": "Eine mittelalterliche Metzgergasse, so schmal, dass sich die Balken der Obergeschosse fast über der Straße berühren, Großbritanniens meistfotografierte Straße und eine Inspiration für die Winkelgasse. Rund um die Uhr geöffnet, durchgehend hundefreundlich. Die meisten Geschäfte sind während ruhiger Stunden hundetolerant.",
+          "petPolicyDe": "Öffentliche Straße, Hunde an der Leine willkommen",
+          "tipDe": "Vor 10:00 Uhr oder nach 17:30 Uhr besuchen für Fotos ohne das Reisegruppengedränge, auch perfektes Licht für Hundefotos."
         },
         {
           "name": "Castle Howard Estate",
@@ -970,7 +1096,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Castle+Howard+Estate",
           "descriptionPt": "Magnífica mansão senhorial do século XVIII e propriedade paisagística de 1.000 acres 24 km a nordeste de York, local de filmagens de Brideshead Revisited. Os terrenos aceitam cães com trela gratuitamente para os visitantes com bilhete; apenas cães de assistência dentro da casa.",
           "petPolicyPt": "Cães com trela bem-vindos nos terrenos; apenas cães de assistência no interior",
-          "tipPt": "Chegue à abertura, o passeio do lago da pirâmide é o ponto alto para o cão e fica movimentado depois das 13:00 no verão. 30 min de carro das muralhas da cidade de York."
+          "tipPt": "Chegue à abertura, o passeio do lago da pirâmide é o ponto alto para o cão e fica movimentado depois das 13:00 no verão. 30 min de carro das muralhas da cidade de York.",
+          "descriptionDe": "Prächtiges Herrenhaus aus dem 18. Jahrhundert und 400 Hektar großes Landschaftsanwesen, 24 km nordöstlich von York, Drehort von Wiedersehen mit Brideshead. Das Gelände ist hundefreundlich, mit angeleinten Hunden kostenlos für Ticketinhaber zugänglich; im Haus selbst nur Assistenzhunde.",
+          "petPolicyDe": "Hunde an der Leine im Gelände willkommen; im Haus nur Assistenzhunde",
+          "tipDe": "Zur Öffnung kommen, der Spaziergang um den Pyramidensee ist das Hundehighlight und wird im Sommer nach 13:00 Uhr voll. 30 Minuten mit dem Auto von Yorks Stadtmauer."
         }
       ],
       "tipsEn": [
@@ -1034,6 +1163,18 @@
           "q": "Os cães são permitidos nas muralhas da cidade?",
           "a": "Sim. Os cães com trela percorrem o circuito completo de 5 km gratuitamente. Os quatro bars (portões) têm degraus de pedra íngremes, os cães pequenos podem precisar de ser transportados ao colo."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in York",
+      "introDe": "Yorks wichtigste Sehenswürdigkeiten sind bemerkenswert hundefreundlich, von der römisch-mittelalterlichen Stadtmauer bis zu den Museum Gardens am Fluss, sogar einige Bootstouren heißen angeleinte Haustiere kostenlos willkommen. Innenmuseen sind strenger (nur Assistenzhunde).",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund mit ins York Minster nehmen?",
+          "a": "Nein, nur Assistenzhunde sind im York Minster erlaubt. Angeleinte Hunde sind im Dean's Park unmittelbar südlich der Kathedrale willkommen, mit dem besten Fotowinkel auf das südliche Querschiff."
+        },
+        {
+          "q": "Sind Hunde auf der Stadtmauer erlaubt?",
+          "a": "Ja. Angeleinte Hunde begehen die gesamte 5 km lange Runde kostenlos. Die vier Torbauten (Bars) haben steile Steinstufen, kleine Hunde müssen eventuell getragen werden."
+        }
       ]
     },
     "petsitting": {
@@ -1057,7 +1198,9 @@
           "tipFr": "Réservez au moins 3 jours à l'avance pour les week-ends d'été, les sitters les mieux notés sont pris en premier.",
           "tipEs": "Reserva al menos 3 días antes para los fines de semana de verano, los cuidadores mejor valorados se llenan primero.",
           "descriptionPt": "A maior plataforma de pet sitting do Reino Unido, cerca de 80 cuidadores verificados num raio de 5 km do centro da cidade de York que oferecem creche canina, visitas pontuais e hospedagem com pernoita. Todos os cuidadores são verificados, com seguro incluído, tarifa média de 20-30 libras/dia.",
-          "tipPt": "Reserve com pelo menos 3 dias de antecedência para os fins de semana de verão, os cuidadores mais bem avaliados esgotam primeiro."
+          "tipPt": "Reserve com pelo menos 3 dias de antecedência para os fins de semana de verão, os cuidadores mais bem avaliados esgotam primeiro.",
+          "descriptionDe": "Größte britische Plattform für Haustierbetreuung, rund 80 verifizierte Betreuer innerhalb von 5 km vom Stadtzentrum Yorks bieten Hundetagesbetreuung, Kurzbesuche und Übernachtungsunterbringung an. Alle Betreuer sind geprüft, Versicherung ist inbegriffen, durchschnittlicher Satz 20–30 £/Tag.",
+          "tipDe": "Für Sommerwochenenden mindestens 3 Tage im Voraus buchen, die am besten bewerteten Betreuer sind zuerst ausgebucht."
         },
         {
           "name": "Tailster York",
@@ -1072,7 +1215,9 @@
           "tipFr": "Utilisez le chat de l'app pour confirmer que les promenades passent par la Knavesmire ou Rowntree Park, les meilleurs spots sans laisse à York.",
           "tipEs": "Usa el chat de la app para confirmar que los paseos pasan por la Knavesmire o Rowntree Park, los mejores spots sin correa de York.",
           "descriptionPt": "Plataforma exclusiva do Reino Unido com linha veterinária 24/7 incluída em todas as reservas. Cerca de 25 cuidadores verificados em York, todos com verificação DBS. Tarifa média de 25-35 libras/dia para hospedagem, 15 libras por um passeio pontual de 30 min.",
-          "tipPt": "Use o chat da aplicação para confirmar que os passeios passam pelo Knavesmire ou pelo Rowntree Park, as melhores zonas sem trela de York."
+          "tipPt": "Use o chat da aplicação para confirmar que os passeios passam pelo Knavesmire ou pelo Rowntree Park, as melhores zonas sem trela de York.",
+          "descriptionDe": "Rein britische Plattform mit einer 24/7-Tierarzt-Hotline, die in jeder Buchung enthalten ist. Rund 25 verifizierte Betreuer in York, alle mit polizeilicher Führungszeugnisprüfung (DBS). Durchschnittlicher Satz 25–35 £/Tag für Unterbringung, 15 £ für einen 30-minütigen Kurzspaziergang.",
+          "tipDe": "Den In-App-Chat nutzen, um zu bestätigen, dass Spaziergänge durch den Knavesmire oder Rowntree Park führen, die besten Freilaufareale in York."
         }
       ],
       "tipsEn": [
@@ -1135,6 +1280,18 @@
         {
           "q": "Posso encontrar um cuidador que fale inglês em York?",
           "a": "Sim, praticamente todos os cuidadores de York são falantes nativos de inglês. As aplicações internacionais como a Pawshake e a Petbacker têm uma presença menor em York; o Rover e o Tailster, específicos do Reino Unido, têm uma cobertura muito melhor."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in York",
+      "introDe": "Für Tagesausflüge, bei denen der Hund nicht mitkommen kann (Turm des York Minster, JORVIK, Museumsbesuche im Innenraum), bietet York zuverlässige, verifizierte Haustierbetreuung über die großen britischen Plattformen.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet eine Hundetagesbetreuung in York?",
+          "a": "20–35 £ pro Tag, je nach Betreuer und Hundegröße, über Rover oder Tailster. Kurzbesuche kosten 12–15 £ für 30 Minuten."
+        },
+        {
+          "q": "Finde ich in York einen englischsprachigen Betreuer?",
+          "a": "Ja, praktisch alle Betreuer in York sind Muttersprachler des Englischen. Internationale Apps wie Pawshake und Petbacker haben eine kleinere Präsenz in York; die britischen Plattformen Rover und Tailster bieten deutlich bessere Abdeckung."
         }
       ]
     }

@@ -39,7 +39,11 @@
           "tipFr": "Arrivez avant 11h30 pour les tables fenêtre les jours sombres arctiques ; les banquettes acceptent les chiens et donnent sur Storgata.",
           "tipEs": "Llega antes de las 11:30 para mesas junto a la ventana en días árticos oscuros; los bancos admiten perros y dan a Storgata.",
           "tipPt": "Chega antes das 11h30 para mesas junto à janela em dias árticos escuros; os bancos aceitam cães e dão para Storgata.",
-          "googleMapsUrl": "https://maps.google.com/?q=Riso+Mat+og+Kaffebar+Tromso"
+          "googleMapsUrl": "https://maps.google.com/?q=Riso+Mat+og+Kaffebar+Tromso",
+          "descriptionDe": "Ein helles, unabhängiges Café und Mittagslokal im Zentrum, bekannt für Sauerteig-Sandwiches, Suppen und starken Filterkaffee. Ruhige, angeleinte Hunde sieht man häufig mit ihren Besitzern an den Fensterplätzen und im Sommer auf der kleinen Terrasse.",
+          "petPolicyDe": "Ruhige, angeleinte Hunde auf der Terrasse und an Fensterplätzen willkommen",
+          "mustTryDe": "Sauerteig-Sandwich, Zimtschnecke, Filterkaffee",
+          "tipDe": "Kommen Sie an dunklen arktischen Tagen vor 11:30 Uhr für Fensterplätze; die Bankreihe ist hundefreundlich und bietet einen Blick auf die Storgata."
         },
         {
           "name": "Smørtorget",
@@ -65,7 +69,11 @@
           "tipFr": "Commandez au comptoir et installez-vous à un tabouret fenêtre avec votre chien ; l'entrée a un abri-vent en demi-saison.",
           "tipEs": "Pide en la barra y siéntate en un taburete junto a la ventana con tu perro; la entrada tiene cortavientos en media temporada.",
           "tipPt": "Pede ao balcão e senta num banco junto à janela com o teu cão; a entrada tem para-vento na meia-estação.",
-          "googleMapsUrl": "https://maps.google.com/?q=Smortorget+Tromso"
+          "googleMapsUrl": "https://maps.google.com/?q=Smortorget+Tromso",
+          "descriptionDe": "Gemütliches, zentrales Bistro und Bäckerei mit belegten Broten, Fischsuppe und norwegischen Hausmannskostgerichten. Ruhige, angeleinte Hunde sind an den Außentischen grundsätzlich willkommen, die Toleranz drinnen variiert je nach Schicht, also fragen Sie an der Tür.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen; fragen Sie das Personal nach Sitzplätzen drinnen",
+          "mustTryDe": "Fischsuppe nach Tromsø-Art, offenes Garnelensandwich, Kanelbolle",
+          "tipDe": "Bestellen Sie am Tresen und ergattern Sie einen Fensterhocker mit Ihrem Hund; die Terrasse am Eingang bietet in der Übergangszeit Windschutz."
         },
         {
           "name": "Kaffebønna Stortorget",
@@ -91,7 +99,11 @@
           "tipFr": "La place capte la lumière de l'après-midi les rares jours ensoleillés d'hiver, idéale pour un café + selfie avec le chien avant le téléphérique.",
           "tipEs": "La plaza coge luz de tarde en los raros días soleados de invierno, ideal para café + selfie con el perro antes del teleférico.",
           "tipPt": "A praça apanha luz de tarde nos raros dias soleados de inverno, ideal para café + selfie com o cão antes do teleférico.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kaffebonna+Stortorget+Tromso"
+          "googleMapsUrl": "https://maps.google.com/?q=Kaffebonna+Stortorget+Tromso",
+          "descriptionDe": "Das Flaggschiff der einheimischen Spezialitätenkaffeekette von Tromsø, am Hauptplatz mit Blick auf den Hafen. Tolerant gegenüber wohlerzogenen, angeleinten Hunden an den Sitzbänken am Eingang und den Außentischen, und drinnen warm genug für einen kurzen Stopp an kalten Tagen.",
+          "petPolicyDe": "Angeleinte Hunde an den Sitzbänken am Eingang und den Außentischen willkommen",
+          "mustTryDe": "Flat White, dunkler Filterröstkaffee, Zimtschnecke",
+          "tipDe": "Der Platz draußen fängt an seltenen sonnigen Wintertagen das Nachmittagslicht ein, perfekt für ein Kaffee-Hunde-Selfie vor der Seilbahn."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Os cafés de Tromso oferecem taças de água?",
           "a": "Cafés independentes como Risø e Kaffebonna enchem uma taça a pedido, mas leva a tua taça dobrável no inverno, quando as esplanadas estão fechadas."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Tromsø",
+      "introDe": "Tromsø hat eine kompakte Café-Kultur am Hafen, konzentriert rund um die Storgata und die kleinen Straßen dahinter. Viele Cafés heißen angeleinte Hunde auf ihren Terrassen willkommen, und einige tolerieren ruhige Hunde auch drinnen während der kalten arktischen Monate, wenn Sitzen im Freien nicht realistisch ist.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde im Winter in Restaurants in Tromsø drinnen erlaubt?",
+          "a": "Viele Cafés tolerieren ruhige, angeleinte Hunde in der Nähe des Eingangs während der dunklen Monate, ein Rechtsanspruch besteht jedoch nicht. Fragen Sie immer an der Tür, akzeptieren Sie ein Nein mit Fassung und meiden Sie Sitzrestaurants für ein Abendessen mit Hund."
+        },
+        {
+          "q": "Gibt es einen hundefreundlichen Fischsuppen-Ort am Hafen?",
+          "a": "Mehrere Hafencafés wie Smørtorget servieren Fischsuppe nach Tromsø-Art und akzeptieren angeleinte Hunde an Außentischen; die Fine-Dining-Lokale direkt am Hafen tun dies in der Regel nicht."
+        },
+        {
+          "q": "Stellen Cafés in Tromsø Wassernäpfe bereit?",
+          "a": "Unabhängige Cafés wie Risø und Kaffebønna füllen auf Nachfrage einen Napf, bringen Sie im Winter aber einen eigenen faltbaren Napf mit, wenn die Terrassen geschlossen sind."
+        }
       ]
     },
     "parks": {
@@ -205,7 +233,11 @@
           "tipFr": "De novembre à janvier la nuit polaire donne une lumière bleue douce ici de 11h à 13h ; emportez une frontale pour le retour le long de Strandveien.",
           "tipEs": "De noviembre a enero la noche polar da una luz azul suave aquí de 11:00 a 13:00; lleva un frontal para volver por Strandveien.",
           "tipPt": "De novembro a janeiro a noite polar dá uma luz azul suave aqui das 11h às 13h; leva uma lanterna de cabeça para regressar por Strandveien.",
-          "googleMapsUrl": "https://maps.google.com/?q=Telegrafbukta+Tromso"
+          "googleMapsUrl": "https://maps.google.com/?q=Telegrafbukta+Tromso",
+          "descriptionDe": "Ein nach Süden ausgerichteter Buchtpark an der Südspitze der Insel Tromsø mit Grashängen, einem kleinen Strand und Uferwegen. Hunde sind ganzjährig willkommen, angeleint während der Brutzeit und ohne Leine im Herbst und Winter, sobald die Vögel weggezogen sind.",
+          "petPolicyDe": "Angeleint 1. April-20. August; ansonsten ohne Leine bei gutem Rückruf",
+          "facilitiesDe": "Öffentliche Toiletten im Sommer, Picknickbänke, Badeufer",
+          "tipDe": "Von November bis Januar taucht die Polarnacht diesen Ort zwischen 11:00 und 13:00 Uhr in ein sanftes blaues Licht; bringen Sie für den Rückweg entlang der Strandveien eine Stirnlampe mit."
         },
         {
           "name": "Tromsdalen Forest Trails (Charlottenlund)",
@@ -231,7 +263,11 @@
           "tipFr": "De janvier à mars les sentiers sont excellents pour le ski-joëring avec un chien confiant ; en été, attendez-vous à des moustiques entre 22h et 4h même aux hautes latitudes.",
           "tipEs": "De enero a marzo los senderos son excelentes para ski-joring con un perro seguro; en verano hay mosquitos entre 22:00 y 04:00 incluso en latitudes altas.",
           "tipPt": "De janeiro a março os trilhos são excelentes para ski-joring com um cão confiante; no verão há mosquitos entre as 22h e as 4h mesmo em latitudes altas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Charlottenlund+Tromsdalen"
+          "googleMapsUrl": "https://maps.google.com/?q=Charlottenlund+Tromsdalen",
+          "descriptionDe": "Die bewaldeten Ausläufer oberhalb der Eismeerkathedrale, ein beliebter Ausgangspunkt für die Sherpa-Treppe und die weiteren Fjellheimen-Grate. Markierte Wanderwege, leichte Steigungen nahe der Straße und schneller Zugang zu Freilaufgebieten nach Ende der Brutzeit.",
+          "petPolicyDe": "Norwegische Leinenpflicht 1. April-20. August; im Herbst-Winter ohne Leine bei gutem Rückruf",
+          "facilitiesDe": "Parkplatz bei der Eismeerkathedrale, markierte Wege, keine Mülleimer",
+          "tipDe": "Von Januar bis März eignen sich die Wege hervorragend für Skijöring mit einem selbstsicheren Hund; im Sommer sind zwischen 22:00 und 04:00 Uhr auch in hohen Breiten Mücken zu erwarten."
         },
         {
           "name": "Prestvannet Lake Loop",
@@ -257,7 +293,11 @@
           "tipFr": "La boucle est déneigée et éclairée pendant la nuit polaire, c'est la promenade canine la plus fiable de Tromso entre décembre et février.",
           "tipEs": "El bucle se despeja y se ilumina durante la noche polar, es el paseo canino más fiable de Tromso entre diciembre y febrero.",
           "tipPt": "O circuito é limpo e iluminado durante a noite polar, é o passeio canino mais fiável de Tromso entre dezembro e fevereiro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Prestvannet+Tromso"
+          "googleMapsUrl": "https://maps.google.com/?q=Prestvannet+Tromso",
+          "descriptionDe": "Eine flache Rundwanderung um einen See auf dem höchsten Punkt der Insel Tromsø, bei Einheimischen ganzjährig für Hundespaziergänge beliebt. Der See ist ein geschütztes Vogelschutzgebiet, daher gilt im Frühjahr und Sommer strikte Leinenpflicht; im Winter wird die zugefrorene Fläche zu einem malerischen Hundespaziergang.",
+          "petPolicyDe": "Ganzjährig strikte Leinenpflicht in Ufernähe; Vogelschutzgebiet",
+          "facilitiesDe": "Im Winter beleuchteter Weg, Bänke, keine Mülleimer",
+          "tipDe": "Der Rundweg ist während der Polarnacht geräumt und beleuchtet und damit zwischen Dezember und Februar der zuverlässigste Hundespaziergang in Tromsø."
         }
       ],
       "tipsEn": [
@@ -335,6 +375,22 @@
           "q": "Há caixotes para sacos de dejectos?",
           "a": "Existem alguns perto de Telegrafbukta e ao longo de Storgata; os inícios de trilhos rurais não têm. Leva sacos e devolve os resíduos ao caixote municipal seguinte."
         }
+      ],
+      "titleDe": "Hundeparks und Grünflächen in Tromsø",
+      "introDe": "Die Insel Tromsø ist klein, aber von Wald umgeben, und das Tromsdalen-Tal auf dem Festland bietet außerhalb der norwegischen Vogelbrutzeit (1. April-20. August) sofortigen Zugang zu Freilaufgebieten. Auch im Winter bieten geräumte Parkwege und das Ufer von Telegrafbukta zuverlässige Hundespaziergänge unter der Polarnacht.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Tromsø einen eingezäunten Hundepark?",
+          "a": "Tromsø hat keinen großen eingezäunten städtischen Hundepark; außerhalb der Leinenpflicht nutzen Einheimische den Wald von Tromsdalen und die Südküste der Insel Tromsø als informelle Freilaufgebiete bei gutem Rückruf."
+        },
+        {
+          "q": "Kann mein Hund im Winter auf dem gefrorenen Prestvannet laufen?",
+          "a": "Einheimische tun das, aber nur, wenn das Eis von der Gemeinde offiziell als sicher erklärt wurde (meist ab Mitte Januar). Die Vogelschutzregel bedeutet, dass in Ufernähe stets Leinenpflicht besteht."
+        },
+        {
+          "q": "Gibt es Kotbeutel-Spender?",
+          "a": "Einige Behälter gibt es in der Nähe von Telegrafbukta und entlang der Storgata; ländliche Ausgangspunkte haben keine. Bringen Sie Beutel mit und entsorgen Sie den Kot im nächsten städtischen Behälter."
+        }
       ]
     },
     "transport": {
@@ -361,7 +417,9 @@
           "petPolicyFr": "Chiens en laisse à la discrétion du chauffeur ; petits chiens en cage gratuits",
           "petPolicyEs": "Perros con correa a discreción del conductor; pequeños en transportín gratis",
           "petPolicyPt": "Cães com trela à discrição do condutor; pequenos em transportadora grátis",
-          "googleMapsUrl": "https://maps.google.com/?q=Stortorget+bus+stop+Tromso"
+          "googleMapsUrl": "https://maps.google.com/?q=Stortorget+bus+stop+Tromso",
+          "descriptionDe": "Der regionale öffentliche Busbetreiber bedient die gesamte Insel Tromsø sowie Tromsdalen und den Flughafen auf der Linie 42. Angeleinte Hunde werden außerhalb der Stoßzeiten nach Ermessen des Fahrers akzeptiert; kleine Hunde in Transportboxen fahren kostenlos.",
+          "petPolicyDe": "Angeleinte Hunde nach Ermessen des Fahrers; kleine Hunde in Transportbox kostenlos"
         },
         {
           "name": "Hurtigruten Coastal Ferry (Tromso Call)",
@@ -377,7 +435,9 @@
           "petPolicyFr": "Cabines animaux à réserver à l'avance ; chiens en laisse sur ponts extérieurs uniquement",
           "petPolicyEs": "Camarotes para mascotas con reserva previa; perros con correa solo en cubiertas exteriores",
           "petPolicyPt": "Camarotes para animais com reserva prévia; cães com trela apenas em conveses exteriores",
-          "googleMapsUrl": "https://maps.google.com/?q=Hurtigruteterminalen+Tromso"
+          "googleMapsUrl": "https://maps.google.com/?q=Hurtigruteterminalen+Tromso",
+          "descriptionDe": "Die klassische Hurtigruten-Küstenfähre Bergen-Kirkenes legt nord- und südwärts täglich in Tromsø an. Spezielle Tierkabinen müssen im Voraus gebucht werden, Hunde sind auf den ausgewiesenen Außendecks angeleint und dürfen weder Restaurants noch öffentliche Lounges betreten.",
+          "petPolicyDe": "Tierkabinen müssen vorab gebucht werden; Hunde nur angeleint auf Außendecks"
         }
       ],
       "tipsEn": [
@@ -455,6 +515,22 @@
           "q": "Os táxis de Tromso aceitam cães?",
           "a": "Tromso Taxi e Norgestaxi aceitam cães com aviso na reserva; um pequeno suplemento e uma manta no banco traseiro são habituais."
         }
+      ],
+      "titleDe": "Mit Hund unterwegs in Tromsø",
+      "introDe": "Tromsø ist kompakt genug, um die meisten Tage zu Fuß zu erledigen, aber die Busse von Troms Fylkestrafikk (unter der Marke Svipper betrieben) bedienen den Flughafen, die Seilbahn und Tromsdalen. Busse akzeptieren angeleinte Hunde nach Ermessen des Fahrers, und die Küstenfähre Hurtigruten legt täglich am Kai von Tromsø an mit speziellen Tierkabinen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in den Flughafenbussen von Tromsø erlaubt?",
+          "a": "Ja, auf der Svipper-Linie 42 zum TOS, angeleint und nach Ermessen des Fahrers; für große Hunde ist bei vollem Schülerverkehr ein Maulkorb ratsam."
+        },
+        {
+          "q": "Darf mein Hund mit der Seilbahn von Tromsø (Fjellheisen) fahren?",
+          "a": "Kleine Hunde in einer geschlossenen Transportbox werden akzeptiert; größere Hunde liegen im Ermessen des Personals und müssen einen Maulkorb tragen sowie kurz angeleint sein."
+        },
+        {
+          "q": "Akzeptieren Taxis in Tromsø Hunde?",
+          "a": "Tromsø Taxi und Norgestaxi akzeptieren Hunde bei vorheriger Anfrage bei der Buchung; ein kleiner Aufpreis und eine Decke auf dem Rücksitz sind Standard."
+        }
       ]
     },
     "beaches": {
@@ -486,7 +562,10 @@
           "tipFr": "Emportez un kit anti-tiques entre juin et septembre ; l'herbe côtière du côté Kvaloya porte des tiques qui remontent vers le nord avec les étés plus chauds.",
           "tipEs": "Lleva kit antigarrapatas entre junio y septiembre; la hierba costera del lado de Kvaloya tiene garrapatas que avanzan al norte con veranos más cálidos.",
           "tipPt": "Leva kit anticarraças entre junho e setembro; a erva costeira do lado de Kvaloya tem carraças que avançam para norte com verões mais quentes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Telegrafbukta+beach+Tromso"
+          "googleMapsUrl": "https://maps.google.com/?q=Telegrafbukta+beach+Tromso",
+          "descriptionDe": "Tromsøs Hauptstadtstrand, ein kleiner Kieselstrand im Süden der Insel mit Blick auf Kvaløya. Hunde sind ganzjährig willkommen, angeleint während der Brutzeit und im Herbst und Winter größtenteils ohne Leine.",
+          "petPolicyDe": "Angeleint 1. April-20. August; ansonsten ohne Leine bei gutem Rückruf",
+          "tipDe": "Bringen Sie zwischen Juni und September ein Zeckenset mit; das Küstengras auf der Kvaløya-Seite trägt bei wärmeren Sommern Zecken nach Norden."
         },
         {
           "name": "Telegrafbukta to Folkeparken Shore Path",
@@ -507,7 +586,10 @@
           "tipFr": "Le sentier est éclairé pendant les mois sombres ; de fin octobre à mi-février il sert aussi de point d'observation des aurores boréales vers le sud du fjord.",
           "tipEs": "El sendero está iluminado en los meses oscuros; de finales de octubre a mediados de febrero también sirve como mirador de auroras boreales hacia el sur del fiordo.",
           "tipPt": "O trilho é iluminado nos meses escuros; do final de outubro a meados de fevereiro também serve como miradouro de auroras boreais para o sul do fiorde.",
-          "googleMapsUrl": "https://maps.google.com/?q=Folkeparken+Tromso"
+          "googleMapsUrl": "https://maps.google.com/?q=Folkeparken+Tromso",
+          "descriptionDe": "Ein 2 km langer Uferweg, der Telegrafbukta mit dem städtischen Wald Folkeparken verbindet, mit mehreren kleinen hundefreundlichen Buchten entlang der Strecke. Leichte Steigung, im Winter geräumt und ein beliebter Abendspaziergang für Einheimische mit Hunden.",
+          "petPolicyDe": "In Ufernähe während der Brutzeit angeleint; im Herbst-Winter ohne Leine",
+          "tipDe": "Der Weg ist in den dunklen Monaten beleuchtet; von Ende Oktober bis Mitte Februar dient er zudem als Nordlicht-Aussichtspunkt mit Blick nach Süden über den Fjord."
         }
       ],
       "tipsEn": [
@@ -585,6 +667,22 @@
           "q": "Há restrições de praia no verão?",
           "a": "Não há proibição estival específica para cães em Tromso, mas a lei nacional da trela 1 abril-20 agosto aplica-se perto de todos os habitats de aves costeiras."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Tromsø",
+      "introDe": "Die Strände von Tromsø sind eher kurze, steinige Buchten als lange Sandstrände, aber sie sind ganzjährig begehbar und außerhalb der Brutzeit fast überall hundefreundlich. Die Wassertemperaturen liegen selbst im August selten über 10 °C, daher betrachten die meisten Hunde sie eher als Uferspaziergänge denn als Schwimmstellen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Sandstrände für Hunde in Tromsø?",
+          "a": "Die Küste von Tromsø ist eher steinig als sandig; für echten Sand fahren Sie 1 Stunde südlich nach Sommarøy auf Kvaløya, wo im Sommer Dünenstrände außerhalb der Brutzeit angeleinte Hunde willkommen heißen."
+        },
+        {
+          "q": "Kann mein Hund unter der Mitternachtssonne schwimmen?",
+          "a": "Ja, von Ende Mai bis Ende Juli, aber das arktische Wasser bleibt kalt; halten Sie Schwimmeinheiten kurz und trocknen Sie den Hund sofort ab, um Unterkühlung zu vermeiden."
+        },
+        {
+          "q": "Gibt es im Sommer Strandbeschränkungen?",
+          "a": "Es gibt kein Tromsø-spezifisches Sommer-Strandverbot für Hunde, aber die landesweite Leinenpflicht vom 1. April bis 20. August gilt in der Nähe aller Lebensräume von Küstenvögeln."
+        }
       ]
     },
     "vets": {
@@ -625,7 +723,11 @@
           "tipFr": "Pour le traitement antiparasitaire obligatoire avant de rentrer dans la plupart des États UE (ex. Finlande), réservez 48h à l'avance et apportez le passeport du chien.",
           "tipEs": "Para el tratamiento obligatorio contra equinococo antes de volver a entrar a la mayoría de Estados UE (p. ej. Finlandia), reserva 48h antes y lleva el pasaporte del perro.",
           "tipPt": "Para o tratamento obrigatório contra equinococose antes de regressar à maioria dos Estados UE (ex. Finlândia), reserva 48h antes e leva o passaporte do cão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tromso+Dyrehospital"
+          "googleMapsUrl": "https://maps.google.com/?q=Tromso+Dyrehospital",
+          "descriptionDe": "Das führende Kleintierkrankenhaus in Tromsø mit Tagesklinik-Chirurgie, Bildgebung, Zahnbehandlung und einer telefonischen Notfall-Bereitschaft. Beratungen speziell für Senioren, brachyzephale und arktische Rassen verfügbar.",
+          "petPolicyDe": "Tagesklinik + telefonisch triagierte Notfalllinie",
+          "servicesDe": "Chirurgie, Bildgebung, Zahnbehandlung, Impfungen, EU-Heimtierausweis",
+          "tipDe": "Für die vorgeschriebene Bandwurmbehandlung vor der Wiedereinreise in die meisten EU-Staaten (z. B. Finnland) buchen Sie 48 Stunden im Voraus und bringen den Heimtierausweis des Hundes mit."
         },
         {
           "name": "AniCura Tromso",
@@ -655,7 +757,11 @@
           "tipFr": "Les tarifs vétérinaires norvégiens sont parmi les plus élevés d'Europe ; une consultation d'urgence de base 1 800-2 500 NOK (155-215 EUR). Vérifiez si votre assureur européen rembourse hors UE.",
           "tipEs": "Las tarifas veterinarias noruegas están entre las más altas de Europa; una consulta de urgencia básica 1.800-2.500 NOK (155-215 EUR). Verifica si tu seguro europeo cubre fuera de la UE.",
           "tipPt": "As tarifas veterinárias norueguesas estão entre as mais altas da Europa; uma consulta de urgência básica 1.800-2.500 NOK (155-215 EUR). Verifica se o teu seguro europeu cobre fora da UE.",
-          "googleMapsUrl": "https://maps.google.com/?q=AniCura+Tromso"
+          "googleMapsUrl": "https://maps.google.com/?q=AniCura+Tromso",
+          "descriptionDe": "Zweigstelle des nordischen AniCura-Netzwerks in Tromsø mit allgemeiner Praxis, Chirurgie und Bildgebung. Teil des größeren AniCura-Überweisungssystems, falls fachärztliche Versorgung in Trondheim oder Oslo benötigt wird.",
+          "petPolicyDe": "Terminvereinbarung bevorzugt; telefonische Notfall-Triage",
+          "servicesDe": "Allgemeine Praxis, Chirurgie, Impfungen, Bildgebung",
+          "tipDe": "Norwegische Tierarztgebühren gehören zu den höchsten Europas; eine einfache Notfallberatung kostet 1.800-2.500 NOK (155-215 EUR). Prüfen Sie, ob Ihre europäische Versicherung Kosten außerhalb der EU erstattet."
         }
       ],
       "tipsEn": [
@@ -733,6 +839,22 @@
           "q": "As clínicas de Tromso falam inglês?",
           "a": "Sim, Tromso Dyrehospital e AniCura têm pessoal anglófono; francês e espanhol não são habitualmente falados."
         }
+      ],
+      "titleDe": "Tierärzte in Tromsø",
+      "introDe": "Tromsø verfügt über eine kleine, aber gut ausgestattete Tierarztszene, die die gesamte Provinz Troms versorgt. Zwei Kliniken decken die meisten Routine- und Notfallbedürfnisse ab; Notfälle außerhalb der Öffnungszeiten werden per Telefon-Triage gesteuert, nicht über eine durchgehende Anlaufstelle, rufen Sie also vor der Anfahrt an.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Tromsø einen Nacht-Notdienst für Tiere?",
+          "a": "Sowohl Tromsø Dyrehospital als auch AniCura Tromsø betreiben eine telefonisch triagierte Bereitschaft; rechnen Sie außerhalb der Öffnungszeiten bei echten Notfällen mit 30-60 Minuten Reaktionszeit."
+        },
+        {
+          "q": "Kann ich eine Bandwurmbescheinigung für die Wiedereinreise in die EU erhalten?",
+          "a": "Ja, beide Kliniken stellen die im EU-Heimtierausweis vermerkte Praziquantel-Behandlungsbescheinigung aus. Buchen Sie 24-120 Stunden vor Ihrer Abreise per Fähre oder Flug."
+        },
+        {
+          "q": "Spricht man in den Kliniken in Tromsø Englisch?",
+          "a": "Ja, sowohl Tromsø Dyrehospital als auch AniCura haben englischsprachiges Personal; Französisch und Spanisch werden im Allgemeinen nicht gesprochen."
+        }
       ]
     },
     "attractions": {
@@ -764,7 +886,10 @@
           "tipFr": "La station supérieure a des sentiers pavés et des bords de falaise exposés ; tenez les chiens en laisse courte près du parapet. Le ressenti hivernal à Storsteinen peut être 15 C sous la vallée.",
           "tipEs": "La estación superior tiene caminos pavimentados y bordes de acantilado expuestos; mantén a los perros con correa corta junto a la barandilla. La sensación térmica invernal en Storsteinen puede ser 15 C menos que en el valle.",
           "tipPt": "A estação superior tem caminhos pavimentados e bordas de falésia expostas; mantém os cães com trela curta junto ao parapeito. A sensação térmica invernal em Storsteinen pode ser 15 C abaixo do vale.",
-          "googleMapsUrl": "https://maps.google.com/?q=Fjellheisen+Tromso"
+          "googleMapsUrl": "https://maps.google.com/?q=Fjellheisen+Tromso",
+          "descriptionDe": "Die ikonische, 421 m lange Seilbahnfahrt von Tromsø zum Storsteinen mit Panoramablick über die Stadt, den Sandnessundet und die umliegenden Berge. Kleine Hunde in geschlossenen Transportboxen fahren kostenlos; größere Hunde werden nach Ermessen des Personals mit Maulkorb und kurzer Leine akzeptiert.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde nach Ermessen des Personals (Maulkorb + kurze Leine)",
+          "tipDe": "Die obere Station hat gepflasterte Wege und exponierte Klippenränder; halten Sie Hunde nahe dem Geländer kurz angeleint. Der Windchill am Storsteinen kann im Winter 15 °C kälter sein als im Tal."
         },
         {
           "name": "Arctic Cathedral (Ishavskatedralen) Exterior",
@@ -785,7 +910,10 @@
           "tipFr": "La photo classique se prend depuis le côté ville de Tromso du pont de Tromsoy au coucher du soleil ; les soirs d'aurore, la cathédrale s'aligne souvent avec les lumières au nord.",
           "tipEs": "La foto clásica se hace desde el lado de la ciudad de Tromso del puente de Tromsoy al atardecer; en noches de auroras, la catedral suele alinearse con las luces al norte.",
           "tipPt": "A foto clássica tira-se do lado da cidade de Tromso da ponte de Tromsoy ao pôr-do-sol; em noites de aurora, a catedral costuma alinhar-se com as luzes a norte.",
-          "googleMapsUrl": "https://maps.google.com/?q=Arctic+Cathedral+Tromso"
+          "googleMapsUrl": "https://maps.google.com/?q=Arctic+Cathedral+Tromso",
+          "descriptionDe": "Die ikonische, weiße dreieckige Kirche von Tromsø aus dem Jahr 1965 auf der Tromsdalen-Seite der Brücke. Der Vorplatz und die Brückenzufahrt eignen sich hervorragend für Fotos mit dem Hund; nur Assistenzhunde dürfen für Gottesdienste oder das beliebte Mitternachtssonnen-Konzert hinein.",
+          "petPolicyDe": "Nur Vorplatz; Assistenzhunde drinnen erlaubt",
+          "tipDe": "Der klassische Schnappschuss entsteht bei Sonnenuntergang von der Stadtseite der Tromsøy-Brücke aus; in Nordlichtnächten fluchtet die Kathedrale oft mit den Lichtern im Norden."
         },
         {
           "name": "Northern Lights Minibus Tours",
@@ -806,7 +934,10 @@
           "tipFr": "Emportez un tapis isolant pour le chien aux arrêts d'observation ; les tours s'arrêtent dans des champs où les températures au sol peuvent atteindre -20 C en janvier.",
           "tipEs": "Lleva una esterilla aislante para el perro en las paradas de observación; los tours paran en campos donde las temperaturas del suelo pueden alcanzar -20 C en enero.",
           "tipPt": "Leva uma esteira isolante para o cão nas paragens de observação; os tours param em campos onde a temperatura do solo pode chegar a -20 C em janeiro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Chasing+Lights+Tromso"
+          "googleMapsUrl": "https://maps.google.com/?q=Chasing+Lights+Tromso",
+          "descriptionDe": "Mehrere Minibus-Anbieter in Tromsø (Chasing Lights, Tromsø Friluftsenter, Arctic Explorer) jagen von Mitte September bis Anfang April das Nordlicht in klaren Himmeln. Ein Teil der Anbieter akzeptiert bei privaten oder Kleingruppentouren mit vorheriger Ankündigung ruhige, angeleinte Hunde auf der Rückbank.",
+          "petPolicyDe": "Abhängig vom Anbieter; bei Buchung erfragen; bessere Chancen bei privaten Touren",
+          "tipDe": "Bringen Sie für den Hund eine Isoliermatte für die Aussichtsstopps mit; die Touren halten auf Feldern, wo die Bodentemperatur im Januar bis zu -20 °C erreichen kann."
         }
       ],
       "tipsEn": [
@@ -884,6 +1015,22 @@
           "q": "Posso entrar com o meu cão na Catedral de Tromso (a igreja de madeira do centro)?",
           "a": "Só cães de assistência são permitidos no interior; o parque à volta aceita cães e oferece um bom local para fotos."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Tromsø",
+      "introDe": "Die bekannten Sehenswürdigkeiten von Tromsø teilen sich klar in Außenbereiche (Seilbahn, Außenfassade der Eismeerkathedrale, Hafenspaziergänge), wo Hunde willkommen sind, und Innenbereiche (Polaria-Aquarium, Museen), wo nur Assistenzhunde eintreten dürfen. Die Mitternachtssonne und die Nordlichtsaison sind die Hauptgründe für einen Besuch.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde im Polaria drinnen erlaubt?",
+          "a": "Nein, das Polaria lässt nur ausgebildete Assistenzhunde herein. Planen Sie eine Betreuung im Hotel oder wechseln Sie sich ab, sodass eine erwachsene Person mit dem Hund draußen bleibt."
+        },
+        {
+          "q": "Welche Nordlicht-Tour eignet sich am besten mit Hund?",
+          "a": "Kleingruppen- oder private Minibus-Touren von Chasing Lights oder Tromsø Friluftsenter sind meist am flexibelsten; weisen Sie bei der Buchung auf den Hund hin, rechnen Sie mit einer 4-7-stündigen Rundfahrt."
+        },
+        {
+          "q": "Darf ich meinen Hund in die Domkirche von Tromsø (die Holzkirche in der Innenstadt) mitnehmen?",
+          "a": "Drinnen sind nur Assistenzhunde erlaubt; der umliegende Park ist hundefreundlich und bietet einen guten Fotospot."
+        }
       ]
     },
     "petsitting": {
@@ -913,7 +1060,10 @@
           "servicesFr": "Visites, garde de jour, pension nuitée, promenade",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno, paseo",
           "servicesPt": "Visitas, creche diurna, alojamento noturno, passeio",
-          "openingHours": "Per host availability"
+          "openingHours": "Per host availability",
+          "descriptionDe": "Die führende Peer-to-Peer-Plattform für Haustierbetreuung in Norwegen mit mehreren verifizierten Gastgebern in Tromsø, die Kurzbesuche, Tagesbetreuung und Übernachtungsbetreuung anbieten. Die meisten Gastgeber haben Erdgeschosswohnungen mit schnellem Zugang nach draußen.",
+          "petPolicyDe": "Individuelle Richtlinien pro Gastgeber; versicherte und bewertete Buchungen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungsbetreuung, Gassi gehen"
         }
       ],
       "tipsEn": [
@@ -990,6 +1140,22 @@
         {
           "q": "Um cuidador gere a logística de uma noite de aurora?",
           "a": "A maioria dos cuidadores ao domicílio alimenta e passeia com horário fixo; especifica recolhas depois da meia-noite na reserva para que o anfitrião saiba que pode recolher às 02:00."
+        }
+      ],
+      "titleDe": "Haustierbetreuung und Tagesbetreuung in Tromsø",
+      "introDe": "Tromsø hat einen kleinen, aber verlässlichen Markt für Haussitting und Gassigeher, meist über nationale Peer-to-Peer-Plattformen wie Pawshake und über lokale Facebook-Gruppen organisiert. Es gibt keine große Zwinger- oder Hundetagesstätten-Kette auf der Insel; buchen Sie in der Hochsaison für Nordlicht und Mitternachtssonne frühzeitig.",
+      "faqsDe": [
+        {
+          "q": "Gibt es professionelle Zwinger in Tromsø?",
+          "a": "Es gibt keinen großen städtischen Zwinger auf der Insel; die meiste Betreuung erfolgt zu Hause über Pawshake-Gastgeber. Der nächste kommerzielle Hundepensions-Zwinger liegt 30 Minuten südlich auf dem Festland."
+        },
+        {
+          "q": "Was kostet eine Übernachtungsbetreuung in Tromsø?",
+          "a": "Rechnen Sie mit 400-600 NOK pro Nacht (35-50 EUR) über Pawshake-Gastgeber, zuzüglich Plattformgebühren; Kurzbesuche kosten 200-300 NOK."
+        },
+        {
+          "q": "Kümmert sich ein Sitter um die Logistik von Nordlicht-Nächten?",
+          "a": "Die meisten Haussitter füttern und gehen gerne nach einem festen Zeitplan Gassi; geben Sie bei der Buchung an, dass Sie nach Mitternacht zurückkommen, damit der Gastgeber weiß, dass Sie den Hund eventuell um 02:00 Uhr abholen."
         }
       ]
     },
@@ -1085,6 +1251,22 @@
         {
           "q": "É preciso um passaporte diferente para a Noruega do que para o resto da Europa?",
           "a": "Não, o passaporte europeu funciona para a Noruega, mais um tratamento contra equinococose registado por um veterinário 24-120h antes da entrada. Sem quarentena se todos os documentos estiverem em ordem."
+        }
+      ],
+      "titleDe": "Praktische Tipps für den Besuch von Tromsø mit Hund",
+      "introDe": "Tromsø belohnt sorgfältige Planung bei Reisen mit Hund. Das arktische Klima, die Polarnacht, die Leinenpflicht und hohe Tierarztkosten müssen alle berücksichtigt werden. Die Belohnung ist eine Stadt, in der Hunde unter dem Nordlicht spazieren gehen, durch die Mitternachtssonne schlafen und mit einer Seilbahn zu einem 421 m hohen Aussichtspunkt fahren.",
+      "faqsDe": [
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch in Tromsø mit Hund?",
+          "a": "September-Oktober (die Nordlichtsaison beginnt, milde Temperaturen, die Leinenpflicht endet am 20. August) und Februar-März (längere Tage, klassisches Nordlicht, kalt aber stabil) sind die idealen Zeitfenster."
+        },
+        {
+          "q": "Ist Tromsø für kurzhaarige Hunde zu kalt?",
+          "a": "Kurzhaarige und brachyzephale Hunde brauchen von November bis April einen richtigen Mantel und Schuhe; ein Whippet oder Boxer kann 15-minütige Spaziergänge bei -5 °C bewältigen, aber keine ganzen Wanderungen."
+        },
+        {
+          "q": "Brauche ich für Norwegen einen anderen Heimtierausweis als für den Rest Europas?",
+          "a": "Nein, der EU-Heimtierausweis gilt auch für Norwegen, zusätzlich zu einer 24-120 Stunden vor der Einreise von einem Tierarzt vermerkten Bandwurmbehandlung. Keine Quarantäne, wenn alle Papiere in Ordnung sind."
         }
       ]
     }

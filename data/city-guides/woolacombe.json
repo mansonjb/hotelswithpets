@@ -39,7 +39,11 @@
           "tipFr": "Venez directement de Woolacombe Sands ; demandez le menu pour chiens et prenez une table en terrasse pour la vue sur la plage par un après-midi ensoleillé.",
           "tipEs": "Ven directo desde Woolacombe Sands; pide el menú para perros y coge una mesa en la terraza para ver la playa en una tarde soleada.",
           "tipPt": "Venha diretamente de Woolacombe Sands; peça o menu para cães e apanhe uma mesa na esplanada para a vista da praia numa tarde de sol.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Red+Barn+Woolacombe"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Red+Barn+Woolacombe",
+          "descriptionDe": "Eine berühmt entspannte Surfbar und Restaurant direkt an der Strandpromenade von Woolacombe mit Blick auf den Strand, das ganze Jahr geöffnet und serviert hausgemachtes britisches Essen, Kuchen und Getränke den ganzen Tag über. Es ist der klassische Treffpunkt für Hunde und Surfer, mit entspannter Atmosphäre und sandfreundlichen Böden.",
+          "petPolicyDe": "Hunde im dafür vorgesehenen hundefreundlichen Bereich an der Leine sehr willkommen; Hundekarte, Wassernäpfe und Leckerlis werden bereitgestellt.",
+          "mustTryDe": "Ein Burger oder Fish and Chips nach dem Surfen, mit Strandblick",
+          "tipDe": "Kommen Sie direkt von Woolacombe Sands; fragen Sie nach der Hundekarte und ergattern Sie an einem sonnigen Nachmittag einen Terrassentisch mit Strandblick."
         },
         {
           "name": "The Ship Aground",
@@ -65,7 +69,11 @@
           "tipFr": "Combinez-le avec la boucle de Morte Point depuis le parking de Mortehoe ; la terrasse capte le soleil de l'après-midi sur la place.",
           "tipEs": "Combínalo con el circular de Morte Point desde el aparcamiento de Mortehoe; la terraza recibe el sol de la tarde sobre la plaza.",
           "tipPt": "Combine-o com o circular de Morte Point a partir do parque de Mortehoe; a esplanada apanha o sol da tarde sobre a praça.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Ship+Aground+Mortehoe"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Ship+Aground+Mortehoe",
+          "descriptionDe": "Ein einladender Familienpub im Herzen des Küstendorfs Mortehoe, ein kurzer Spaziergang oder eine kurze Fahrt oberhalb von Woolacombe, verteilt über zwei Etagen mit einer Sonnenterrasse mit Blick auf den Dorfplatz. Er ist ein beliebter Ort zum Auftanken nach der Küstenwanderung zum Morte Point.",
+          "petPolicyDe": "Hunde an der Bar und auf der Sonnenterrasse an der Leine willkommen.",
+          "mustTryDe": "Ein Sonntagsbraten oder lokaler Fisch nach dem Küstenweg",
+          "tipDe": "Kombinieren Sie es mit dem Rundweg zum Morte Point vom Parkplatz in Mortehoe; die Terrasse fängt am Nachmittag die Sonne über dem Platz ein."
         },
         {
           "name": "The Chichester Arms",
@@ -91,9 +99,16 @@
           "tipFr": "Le jardin est le bon choix ensoleillé l'été et le coin du feu l'attrait l'hiver ; les deux conviennent avec un chien en laisse.",
           "tipEs": "El jardín es la opción soleada en verano y la chimenea el atractivo en invierno; ambos funcionan bien con un perro con correa.",
           "tipPt": "O jardim é a opção soalheira no verão e a lareira o atrativo no inverno; ambos funcionam bem com um cão à trela.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Chichester+Arms+Mortehoe"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Chichester+Arms+Mortehoe",
+          "descriptionDe": "Ein charaktervoller Dorfpub in Mortehoe in einem Gebäude, das bis 1820 ein Pfarrhaus war, mit Balken, offenen Kaminen und einem Garten. Er ist familien- und hundefreundlich und ein gemütlicher Ort auf dem Hügel über der Bucht.",
+          "petPolicyDe": "Hunde an der Bar und im Garten an der Leine willkommen.",
+          "mustTryDe": "Ein Pint am Kamin nach einem windigen Klippenspaziergang",
+          "tipDe": "Der Garten ist im Sommer die sonnige Wahl und der Kamin im Winter der Anziehungspunkt; beides funktioniert gut mit einem Hund an der Leine."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Woolacombe",
+      "introDe": "Woolacombe und sein Nachbardorf Mortehoe sind entspannte Orte, um mit Hund essen zu gehen, aufgebaut um Surf-Cafés über dem Sand und alte Postkutschen-Pubs auf dem Hügel. Die meisten heißen Hunde auf ihren Terrassen und an der Theke willkommen, viele halten einen Wassernapf an der Tür bereit, und die Strandpromenaden-Location Red Barn führt sogar eine Hundekarte, sodass ein sandiger Hund direkt vom Strand selten abgewiesen wird.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Dog Walks and Coast Paths around Woolacombe",
@@ -123,7 +138,10 @@
           "tipFr": "Partez du parking National Trust de Mortehoe ; le terrain est rocheux et exposé, prévoyez de l'eau et soyez prudent dans les descentes près de la pointe.",
           "tipEs": "Empieza desde el aparcamiento National Trust de Mortehoe; el terreno es rocoso y expuesto, lleva agua y ve con cuidado en las bajadas cerca de la punta.",
           "tipPt": "Comece do parque National Trust de Mortehoe; o terreno é rochoso e exposto, leve água e vá com cuidado nas descidas perto da ponta.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Morte+Point+Mortehoe"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Morte+Point+Mortehoe",
+          "descriptionDe": "Eine raue National-Trust-Landzunge, erreichbar über eine rund sechs Kilometer lange Rundwanderung von Mortehoe aus, die in den Bristolkanal hineinragt mit weiten Blicken auf Lundy Island und grauen Seehunden, die oft auf den Felsen darunter liegen. Es ist einer der schönsten Küstenwege in North Devon und das ganze Jahr über für Hunde geöffnet.",
+          "offLeashAreaDe": "Halten Sie Hunde in der Nähe der ungesicherten Klippen, der Seehunde darunter sowie weidender Schafe, Rinder und Exmoor-Ponys auf der Landzunge an der Leine.",
+          "tipDe": "Starten Sie am National-Trust-Parkplatz in Mortehoe; der Boden ist felsig und exponiert, bringen Sie also Wasser mit und gehen Sie an den Abstiegen nahe der Landspitze vorsichtig."
         },
         {
           "name": "Baggy Point",
@@ -143,9 +161,15 @@
           "tipFr": "Stationnez au parking National Trust de Croyde et faites l'aller-retour ; le chemin est accessible en poussette et facile, parfait pour les chiens âgés.",
           "tipEs": "Aparca en el aparcamiento National Trust de Croyde y haz la ida y vuelta; es apto para carritos y fácil, bueno para perros mayores.",
           "tipPt": "Estacione no parque National Trust de Croyde e faça a ida e volta; é acessível a carrinhos e fácil, bom para cães mais velhos.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Baggy+Point+Croyde"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Baggy+Point+Croyde",
+          "descriptionDe": "Eine grasbewachsene National-Trust-Landzunge am südlichen Ende der Bucht von Woolacombe oberhalb von Croyde, mit einem einfachen Hin- und Rückweg zur Landspitze und riesigen Ausblicken entlang der Küste. Der breite, meist ebene Weg macht ihn zu einem sanfteren Klippenspaziergang als Morte Point.",
+          "offLeashAreaDe": "Halten Sie Hunde in der Nähe der Klippenkanten und jeglichen weidenden Viehs entlang des Landzungenwegs an der Leine.",
+          "tipDe": "Parken Sie am National-Trust-Parkplatz in Croyde und gehen Sie hin und zurück; er ist kinderwagenfreundlich und leicht zu begehen, gut für ältere Hunde."
         }
-      ]
+      ],
+      "titleDe": "Hundespaziergänge und Küstenwege rund um Woolacombe",
+      "introDe": "Die eigentlichen Hundespaziergänge rund um Woolacombe finden auf den National-Trust-Landzungen und dem South West Coast Path statt, der die ganze Bucht umschließt. Morte Point jenseits von Mortehoe ist eine raue Rundwanderung mit Seehunden unterhalb der Felsen, während Baggy Point am südlichen Ende der Bucht dramatische Klippenkilometer bietet. Beide sind das ganze Jahr über für Hunde geöffnet, aber halten Sie den Hund in der Nähe der ungesicherten Klippen und der weidenden Schafe, Rinder und Exmoor-Ponys an der Leine.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Woolacombe with a Dog",
@@ -249,6 +273,18 @@
           "q": "É fácil estacionar em Woolacombe com um cão?",
           "a": "O estacionamento junto à praia é muito limitado nos dias de verão movimentados, por isso convém chegar cedo ou usar os parques grandes acima da aldeia. Fora de época é bem mais fácil, e o caminho costeiro e a praia ficam à porta de qualquer forma."
         }
+      ],
+      "titleDe": "Fortbewegung in Woolacombe mit Hund",
+      "introDe": "Woolacombe hat keinen Bahnhof, daher reisen die meisten Hundehalter mit dem Auto oder Bus vom nächsten Hauptbahnhof in Barnstaple an und lassen das Auto danach stehen. Der Ort und sein langer Strand sind zu Fuß erreichbar, und ein Ortsbus verbindet Woolacombe mit Mortehoe und Ilfracombe. Parkplätze am Strand sind im Hochsommer sehr begrenzt, daher ist es mit Hund ruhiger, früh anzukommen oder die Park-and-Walk-Optionen zu nutzen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich mit dem Zug und Hund nach Woolacombe kommen?",
+          "a": "Nicht direkt, da Woolacombe keinen Bahnhof hat. Nehmen Sie die Tarka Line nach Barnstaple, wo bis zu zwei Hunde pro Fahrgast kostenlos mitreisen, dann den Stagecoach-Bus 303 hinunter nach Woolacombe. Hunde werden im Bus in der Regel nach Ermessen des Fahrers an der Leine akzeptiert."
+        },
+        {
+          "q": "Ist das Parken in Woolacombe mit Hund einfach?",
+          "a": "Die Parkplätze am Strand sind an belebten Sommertagen sehr begrenzt, daher ist es am besten, früh anzukommen oder die größeren Parkplätze oberhalb des Ortes zu nutzen. Außerhalb der Saison ist es weitaus einfacher, und der Küstenweg und der Strand liegen ohnehin direkt vor der Tür."
+        }
       ]
     },
     "beaches": {
@@ -331,6 +367,18 @@
           "q": "Que praias perto de Woolacombe aceitam cães todo o ano?",
           "a": "A metade sul de Woolacombe Sands para lá de Mill Rock e a zona principal de Putsborough estão abertas aos cães todo o ano, e Barricane aceita-os (à trela quando o café de verão está presente). Em contrapartida, Combesgate proíbe os cães de 30 de abril a 30 de setembro e Croyde de 1 de maio a 30 de setembro, por isso planeie em torno disso."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Woolacombe",
+      "introDe": "Woolacombes fünf Kilometer langer Blue-Flag-Surfstrand ist der Star, und die gute Nachricht ist, dass Hunde dank eines Zonensystems, das durch die Public Spaces Protection Order des North Devon Council festgelegt und mit Bußgeldern von bis zu 100 Pfund durchgesetzt wird, das ganze Jahr über auf einem Teil davon willkommen sind. Wichtig zu wissen: Das geschäftige Nordende (Esplanade bis zum Bach) verbietet Hunde vom Karfreitag oder 1. April, je nachdem was früher liegt, bis zum 30. September; die Mitte (Bach bis Mill Rock) erlaubt Hunde in dieser Saison von 9 bis 18 Uhr an der Leine; und alles südlich von Mill Rock hinunter bis Putsborough ist das ganze Jahr über für Hunde ohne Leine geöffnet. Selbst zur Hochsaison hat ein Hund also immer einen riesigen Sandabschnitt zur Verfügung. Das nahegelegene Combesgate verbietet Hunde vom 30. April bis 30. September, und Croyde verbietet sie vom 1. Mai bis 30. September, prüfen Sie also bei Ankunft die Schilder an jedem Strand.",
+      "faqsDe": [
+        {
+          "q": "Ist der Strand von Woolacombe im Sommer hundefreundlich?",
+          "a": "Teilweise, ja. Woolacombe Sands nutzt ein Zonensystem: Das geschäftige Nordende ist vom Karfreitag oder 1. April bis 30. September für Hunde gesperrt, der mittlere Abschnitt bis Mill Rock erlaubt Hunde von 9 bis 18 Uhr an der Leine, und alles südlich von Mill Rock hinunter bis Putsborough ist das ganze Jahr über ohne Leine für Hunde geöffnet. Selbst zur Hochsaison hat ein Hund also einen riesigen Sandabschnitt."
+        },
+        {
+          "q": "Welche Strände in der Nähe von Woolacombe erlauben Hunde das ganze Jahr über?",
+          "a": "Die südliche Hälfte von Woolacombe Sands jenseits von Mill Rock und die Hauptzone bei Putsborough sind das ganze Jahr über für Hunde geöffnet, und Barricane erlaubt Hunde (an der Leine, wenn das Sommercafé dort ist). Im Gegensatz dazu verbietet Combesgate Hunde vom 30. April bis 30. September und Croyde vom 1. Mai bis 30. September, planen Sie also entsprechend."
+        }
       ]
     },
     "vets": {
@@ -364,7 +412,10 @@
           "tipEs": "Telefonea con antelación para conocer el horario y guarda el número del hospital de urgencias de Barnstaple para fuera de horario.",
           "tipPt": "Telefone com antecedência para saber os horários e guarde o número do hospital de urgência de Barnstaple para fora de horas.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Argyll+Veterinary+Clinic+Ilfracombe",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo-Fr Tagessprechstunde; Notfälle außerhalb der Öffnungszeiten werden an das Krankenhaus in Barnstaple überwiesen",
+          "descriptionDe": "Eine Kleintierklinik in Ilfracombe, der nächstgelegene Tierarzt zu Woolacombe, die Katzen, Hunde und andere Haustiere behandelt (keine Nutz- oder Pferdetiere). Teil einer lokalen Gruppe mit Schwesterpraxen in Braunton und Barnstaple.",
+          "tipDe": "Rufen Sie vorher an für die Öffnungszeiten, und notieren Sie sich die Nummer des Notfallkrankenhauses in Barnstaple für die Versorgung außerhalb der Öffnungszeiten."
         },
         {
           "name": "Charter Veterinary Hospital (Barnstaple)",
@@ -386,7 +437,10 @@
           "tipEs": "Llama antes de salir; para una urgencia fuera de horario te indicarán qué hacer y tienen personal nocturno en las instalaciones.",
           "tipPt": "Ligue antes de sair; para uma urgência fora de horas indicam-lhe o que fazer e têm pessoal noturno no local.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Charter+Veterinary+Hospital+Barnstaple",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Tagessprechstunde plus tägliche 24-Stunden-Notfallversorgung vor Ort",
+          "descriptionDe": "Ein gut ausgestattetes Kleintierkrankenhaus im Roundswell Business Park in Barnstaple, ein CVS-24/7-Zentrum mit eigenem Notfalldienst vor Ort und Vollzeit-Nachtpersonal. Dies ist der nächstgelegene Ort für einen echten Notfall außerhalb der Öffnungszeiten.",
+          "tipDe": "Rufen Sie an, bevor Sie losfahren; bei einem Notfall außerhalb der Öffnungszeiten berät man Sie, was zu tun ist, und hat Nachtpersonal vor Ort."
         }
       ],
       "faqsEn": [
@@ -411,6 +465,14 @@
         {
           "q": "Onde fica o veterinário mais próximo de Woolacombe?",
           "a": "Woolacombe não tem veterinário próprio. A clínica de pequenos animais mais próxima é a Argyll Veterinary Clinic em Ilfracombe (+44 1271 867711), a cerca de seis milhas, e para uma urgência 24 horas o Charter Veterinary Hospital em Barnstaple (+44 1271 371115) tem a sua própria equipa noturna no local."
+        }
+      ],
+      "titleDe": "Tierärzte in der Nähe von Woolacombe",
+      "introDe": "Woolacombe hat keinen eigenen Tierarzt, die nächsten Kleintierpraxen befinden sich in Ilfracombe, etwa zehn Kilometer entfernt, mit einem vollständigen 24-Stunden-Notfallkrankenhaus etwas weiter in Barnstaple. Es lohnt sich, vor der Reise eine Nummer zu speichern, besonders wenn Sie außerhalb der Öffnungszeiten unterwegs sind.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächste Tierarzt zu Woolacombe?",
+          "a": "Woolacombe hat keinen eigenen Tierarzt. Die nächste Kleintierklinik ist die Argyll Veterinary Clinic in Ilfracombe (+44 1271 867711), etwa zehn Kilometer entfernt, und für einen 24-Stunden-Notfall hat das Charter Veterinary Hospital in Barnstaple (+44 1271 371115) ein eigenes Nachtteam vor Ort."
         }
       ]
     },
@@ -499,6 +561,14 @@
           "q": "Woolacombe é um bom lugar para umas férias com cão?",
           "a": "Sim, muito, com um menu para cães no Red Barn na marginal, uma enorme faixa de praia aberta aos cães todo o ano a sul de Mill Rock e em Putsborough, e magníficos passeios costeiros do National Trust em Morte Point e Baggy Point. O principal a planear são as zonas de praia sazonais e, para os visitantes da UE, o Animal Health Certificate britânico pós-Brexit."
         }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch in Woolacombe mit Hund",
+      "introDe": "Woolacombe ist ein wirklich unkomplizierter Hundeurlaub, aber zwei Dinge belohnen etwas Planung: die saisonalen Strandzonen, die mit Bußgeldern durchgesetzt werden, und die Papierunterlagen nach dem Brexit für die Einreise mit Hund nach Großbritannien. Beachten Sie beides, und der Surf, der Sand und der Küstenweg gehören Ihnen.",
+      "faqsDe": [
+        {
+          "q": "Ist Woolacombe ein guter Ort für einen hundefreundlichen Urlaub?",
+          "a": "Ja, sehr, mit einer Hundekarte im Strandpromenaden-Lokal Red Barn, einem riesigen ganzjährigen Hundeabschnitt am Strand südlich von Mill Rock und bei Putsborough sowie hervorragenden National-Trust-Küstenwanderungen zum Morte Point und Baggy Point. Die Hauptpunkte, die Sie einplanen müssen, sind die saisonalen Strandzonen und, für EU-Besucher, die britische Tiergesundheitsbescheinigung nach dem Brexit."
+        }
       ]
     },
     "attractions": {
@@ -532,7 +602,11 @@
           "tipFr": "Le début de matinée est le moment le plus calme pour arpenter le front de mer l'été, avant les foules de surfeurs et les excursionnistes.",
           "tipEs": "La primera hora de la mañana es el momento más tranquilo para pasear el frente marítimo en verano, antes de que lleguen los surfistas y los excursionistas.",
           "tipPt": "O início da manhã é o momento mais tranquilo para passear na frente-mar no verão, antes de chegarem os surfistas e os excursionistas.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Woolacombe+Esplanade"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Woolacombe+Esplanade",
+          "descriptionDe": "Die Promenade und Strandfront über dem Strand, wo die Surfshops, Cafés und das Red Barn auf die Bucht bis zum Baggy Point blicken. Es ist ein kostenloser, einfacher Spaziergang mit einem Hund an der Leine, und der Ort, um die Surfer zu beobachten, wenn die Strandzonen in Kraft sind.",
+          "dogPolicyDe": "Hunde an der Leine sind das ganze Jahr über entlang der Promenade und Strandfront willkommen; die Strandzonen unten variieren je nach Saison.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Der frühe Morgen ist im Sommer die ruhigste Zeit für einen Spaziergang an der Strandfront, bevor die Surf-Menschenmengen und Tagesausflügler eintreffen."
         },
         {
           "name": "Mortehoe Village",
@@ -555,7 +629,11 @@
           "tipFr": "Stationnez au parking National Trust de Mortehoe et combinez le village avec la boucle de Morte Point pour profiter des deux.",
           "tipEs": "Aparca en el aparcamiento National Trust de Mortehoe y combina el pueblo con el circular de Morte Point para disfrutar de ambos.",
           "tipPt": "Estacione no parque National Trust de Mortehoe e combine a aldeia com o circular de Morte Point para aproveitar os dois.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mortehoe+Village+Devon"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Mortehoe+Village+Devon",
+          "descriptionDe": "Ein hübsches Küstendorf auf dem Hügel direkt oberhalb von Woolacombe, mit einer mittelalterlichen Kirche, zwei hundefreundlichen Pubs und dem National-Trust-Parkplatz, der das Tor zu den Morte-Point-Wanderungen ist. Es ist ein entspannter, charaktervoller Ort für einen Spaziergang mit Hund.",
+          "dogPolicyDe": "Hunde an der Leine sind im ganzen Dorf und in den Pubgärten willkommen; in der Nähe der Straße und von Vieh anleinen.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Parken Sie am National-Trust-Parkplatz in Mortehoe und kombinieren Sie das Dorf mit dem Morte-Point-Rundweg für das Beste aus beiden Welten."
         },
         {
           "name": "Ilfracombe Harbour and Verity",
@@ -578,7 +656,11 @@
           "tipFr": "Rejoignez-le avec le bus Stagecoach 31 depuis Woolacombe via Mortehoe, pour laisser la voiture et profiter de la promenade du port.",
           "tipEs": "Llega en el autobús Stagecoach 31 desde Woolacombe vía Mortehoe, para dejar el coche y disfrutar del paseo del puerto.",
           "tipPt": "Chegue no autocarro Stagecoach 31 desde Woolacombe via Mortehoe, para deixar o carro e aproveitar o passeio do porto.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ilfracombe+Harbour+Verity"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ilfracombe+Harbour+Verity",
+          "descriptionDe": "Die lebhafte viktorianische Hafenstadt Ilfracombe, etwa zehn Kilometer die Küste hinauf, wo Damien Hirsts hoch aufragende Statue Verity auf dem Pier über den Fischerbooten steht. Das Hafengebiet und der Kai bieten einen einfachen, kostenlosen Spaziergang mit Hund, mit reichlich hundefreundlichen Cafés.",
+          "dogPolicyDe": "Hunde an der Leine sind rund um den Hafen und Kai willkommen; viele Cafés am Hafen sind hundefreundlich.",
+          "admissionFeeDe": "Kostenlos, um den Hafen zu begehen und Verity zu sehen",
+          "tipDe": "Erreichen Sie ihn mit dem Stagecoach-Bus 31 von Woolacombe über Mortehoe, sodass Sie das Auto stehen lassen und den Hafenspaziergang genießen können."
         }
       ],
       "faqsEn": [
@@ -603,6 +685,14 @@
         {
           "q": "O que posso fazer em Woolacombe com um cão se a praia principal estiver restringida?",
           "a": "Muito. O extremo sul de Woolacombe Sands para lá de Mill Rock e Putsborough continuam abertos aos cães sem trela todo o ano, a marginal e a aldeia de Mortehoe aceitam cães, e os caminhos costeiros do National Trust até Morte Point e Baggy Point são magníficos passeios. O porto de Ilfracombe, a um curto trajeto de autocarro, é também uma boa saída com um cão."
+        }
+      ],
+      "titleDe": "Hundefreundliche Aktivitäten in Woolacombe",
+      "introDe": "Der Strand und das Surfen sind Woolacombes Hauptattraktion, aber es gibt jenseits des Sands viel mit einem Hund zu teilen: die Strandpromenade über der Bucht, das alte Küstendorf Mortehoe auf dem Hügel und die lebhafte Hafenstadt Ilfracombe ein paar Meilen die Küste hinauf. Nichts davon benötigt den im Sommer eingeschränkten Teil des Strandes, es gibt also immer etwas mit einem Hund an der Leine zu unternehmen.",
+      "faqsDe": [
+        {
+          "q": "Was kann ich in Woolacombe mit Hund unternehmen, wenn der Hauptstrand eingeschränkt ist?",
+          "a": "Eine ganze Menge. Das Südende von Woolacombe Sands jenseits von Mill Rock und Putsborough bleiben das ganze Jahr über ohne Leine für Hunde geöffnet, die Strandpromenade und das Dorf Mortehoe sind hundefreundlich, und die National-Trust-Küstenwege zum Morte Point und Baggy Point sind hervorragende Hundespaziergänge. Der Hafen von Ilfracombe, eine kurze Busfahrt entfernt, ist ebenfalls ein guter hundefreundlicher Tagesausflug."
         }
       ]
     },
@@ -634,7 +724,10 @@
           "tip": "Message two or three sitters early and arrange a short meet-and-greet before your trip so your dog is comfortable before the day you need cover.",
           "tipFr": "Contactez deux ou trois gardiens tôt et organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avant le jour où vous avez besoin de la garde.",
           "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo a tu viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
-          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço."
+          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço.",
+          "descriptionDe": "Die größte Haustierbetreuungs-Plattform im Vereinigten Königreich, die lokale Hundesitter, Unterbringungen und Gassigeher in North Devon und der Gegend um Woolacombe, Mortehoe und Ilfracombe auflistet. Jeder Sitter hat ein Profil, Bewertungen und Fotos, und Sie buchen und bezahlen über die App mit inbegriffenem Versicherungsschutz.",
+          "serviceTypeDe": "Hundeunterbringung, Tagesbetreuung, Kurzbesuche und Gassigehen",
+          "tipDe": "Kontaktieren Sie zwei oder drei Sitter frühzeitig und vereinbaren Sie ein kurzes Kennenlerntreffen vor Ihrer Reise, damit Ihr Hund vor dem Tag, an dem Sie Betreuung benötigen, vertraut ist."
         },
         {
           "name": "Tailster",
@@ -654,7 +747,10 @@
           "tip": "Filter for carers with recent reviews near Ilfracombe and Woolacombe, and confirm availability well ahead for July and August.",
           "tipFr": "Filtrez les intervenants avec des avis récents près d'Ilfracombe et Woolacombe, et confirmez la disponibilité bien à l'avance pour juillet et août.",
           "tipEs": "Filtra por cuidadores con reseñas recientes cerca de Ilfracombe y Woolacombe, y confirma la disponibilidad con mucha antelación para julio y agosto.",
-          "tipPt": "Filtre por cuidadores com avaliações recentes perto de Ilfracombe e Woolacombe, e confirme a disponibilidade com muita antecedência para julho e agosto."
+          "tipPt": "Filtre por cuidadores com avaliações recentes perto de Ilfracombe e Woolacombe, e confirme a disponibilidade com muita antecedência para julho e agosto.",
+          "descriptionDe": "Ein landesweiter Haustierbetreuungs-Marktplatz, der Halter mit lokalen, geprüften Hundegassigehern, Sittern und Unterbringungen verbindet, einschließlich Betreuern in North Devon und der Gegend von Woolacombe. Buchungen werden über die Plattform verwaltet und sind versichert.",
+          "serviceTypeDe": "Gassigehen, Tagesbetreuung, Heimunterbringung und Betreuung",
+          "tipDe": "Filtern Sie nach Betreuern mit aktuellen Bewertungen in der Nähe von Ilfracombe und Woolacombe, und bestätigen Sie die Verfügbarkeit für Juli und August rechtzeitig im Voraus."
         }
       ],
       "faqsEn": [
@@ -679,6 +775,14 @@
         {
           "q": "Como encontro um cuidador ou passeador de cães em Woolacombe?",
           "a": "Num pequeno destino como Woolacombe o mais simples é uma plataforma nacional como a Rover ou a Tailster, que listam cuidadores e passeadores locais verificados por todo o norte de Devon. Reserve cedo para julho e agosto, e combine antes um encontro para que o seu cão fique tranquilo."
+        }
+      ],
+      "titleDe": "Hundebetreuung und Gassigehen in Woolacombe",
+      "introDe": "Wenn Sie einen Abend ohne Hund verbringen oder Betreuung für einen Tagesausflug benötigen, ist der einfachste Weg in einem kleinen Urlaubsort wie Woolacombe eine landesweite Buchungsplattform, die geprüfte lokale Sitter und Gassigeher in ganz North Devon auflistet. Buchen Sie im Sommer frühzeitig, wenn die Nachfrage ihren Höhepunkt erreicht.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter oder Gassigeher in Woolacombe?",
+          "a": "In einem kleinen Urlaubsort wie Woolacombe ist der einfachste Weg eine landesweite Plattform wie Rover oder Tailster, die geprüfte lokale Sitter und Gassigeher in ganz North Devon auflistet. Buchen Sie früh für Juli und August, und vereinbaren Sie zuerst ein Kennenlerntreffen, damit sich Ihr Hund wohlfühlt."
         }
       ]
     }

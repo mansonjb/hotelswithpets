@@ -62,24 +62,76 @@
       "tipsEs": [],
       "tipsPt": [],
       "faqsEn": [
-        {"q": "Is Sydney a dog-friendly city?", "a": "Very much so for outdoor life: excellent off-leash parks, harbour dog beaches, and a huge terrace and beer-garden dining culture. The main limitations are strict beach and off-leash rules by zone, and public transport that largely excludes pets."},
-        {"q": "What's the biggest health risk for dogs in Sydney?", "a": "The paralysis tick along the coast and in bushland, which can be fatal, plus summer heat. Use a vet-recommended tick preventive, check your dog daily after bush or coastal walks, and walk in the cool of the day."},
-        {"q": "Do I need to leash my dog in Sydney?", "a": "Yes, everywhere in public except designated off-leash areas, where dogs must still be under effective control. Fines for off-leash offences start around AUD 220 and rangers patrol popular parks and beaches."}
+        {
+          "q": "Is Sydney a dog-friendly city?",
+          "a": "Very much so for outdoor life: excellent off-leash parks, harbour dog beaches, and a huge terrace and beer-garden dining culture. The main limitations are strict beach and off-leash rules by zone, and public transport that largely excludes pets."
+        },
+        {
+          "q": "What's the biggest health risk for dogs in Sydney?",
+          "a": "The paralysis tick along the coast and in bushland, which can be fatal, plus summer heat. Use a vet-recommended tick preventive, check your dog daily after bush or coastal walks, and walk in the cool of the day."
+        },
+        {
+          "q": "Do I need to leash my dog in Sydney?",
+          "a": "Yes, everywhere in public except designated off-leash areas, where dogs must still be under effective control. Fines for off-leash offences start around AUD 220 and rangers patrol popular parks and beaches."
+        }
       ],
       "faqsFr": [
-        {"q": "Sydney est-elle une ville accueillante pour les chiens ?", "a": "Beaucoup, pour la vie en plein air : excellents parcs sans laisse, plages canines sur le port et immense culture des terrasses et beer gardens. Les principales limites sont les règles strictes de plage et de liberté par zones, et des transports publics qui excluent largement les animaux."},
-        {"q": "Quel est le plus grand risque sanitaire pour les chiens à Sydney ?", "a": "La tique paralysante sur la côte et dans le bush, qui peut être mortelle, ainsi que la chaleur estivale. Utilisez un antiparasitaire recommandé par un vétérinaire, inspectez votre chien chaque jour après les promenades en bush ou sur la côte, et promenez-vous aux heures fraîches."},
-        {"q": "Dois-je tenir mon chien en laisse à Sydney ?", "a": "Oui, partout en public sauf dans les zones sans laisse désignées, où le chien doit tout de même rester sous contrôle effectif. Les amendes pour infraction sans laisse démarrent autour de 220 AUD et les rangers patrouillent les parcs et plages populaires."}
+        {
+          "q": "Sydney est-elle une ville accueillante pour les chiens ?",
+          "a": "Beaucoup, pour la vie en plein air : excellents parcs sans laisse, plages canines sur le port et immense culture des terrasses et beer gardens. Les principales limites sont les règles strictes de plage et de liberté par zones, et des transports publics qui excluent largement les animaux."
+        },
+        {
+          "q": "Quel est le plus grand risque sanitaire pour les chiens à Sydney ?",
+          "a": "La tique paralysante sur la côte et dans le bush, qui peut être mortelle, ainsi que la chaleur estivale. Utilisez un antiparasitaire recommandé par un vétérinaire, inspectez votre chien chaque jour après les promenades en bush ou sur la côte, et promenez-vous aux heures fraîches."
+        },
+        {
+          "q": "Dois-je tenir mon chien en laisse à Sydney ?",
+          "a": "Oui, partout en public sauf dans les zones sans laisse désignées, où le chien doit tout de même rester sous contrôle effectif. Les amendes pour infraction sans laisse démarrent autour de 220 AUD et les rangers patrouillent les parcs et plages populaires."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Sídney una ciudad dog-friendly?", "a": "Mucho, para la vida al aire libre: excelentes parques sin correa, playas caninas en el puerto y una enorme cultura de terrazas y beer gardens. Las principales limitaciones son las estrictas normas de playa y de zonas sin correa, y un transporte público que excluye en gran parte a las mascotas."},
-        {"q": "¿Cuál es el mayor riesgo de salud para los perros en Sídney?", "a": "La garrapata paralizante en la costa y el monte, que puede ser mortal, además del calor del verano. Usa un antiparasitario recomendado por el veterinario, revisa a tu perro a diario tras los paseos por el monte o la costa, y pasea en las horas frescas."},
-        {"q": "¿Debo llevar a mi perro con correa en Sídney?", "a": "Sí, en todo lugar público salvo en las zonas sin correa designadas, donde el perro debe seguir bajo control efectivo. Las multas por infracción sin correa parten de unos 220 AUD y los guardas patrullan los parques y playas populares."}
+        {
+          "q": "¿Es Sídney una ciudad dog-friendly?",
+          "a": "Mucho, para la vida al aire libre: excelentes parques sin correa, playas caninas en el puerto y una enorme cultura de terrazas y beer gardens. Las principales limitaciones son las estrictas normas de playa y de zonas sin correa, y un transporte público que excluye en gran parte a las mascotas."
+        },
+        {
+          "q": "¿Cuál es el mayor riesgo de salud para los perros en Sídney?",
+          "a": "La garrapata paralizante en la costa y el monte, que puede ser mortal, además del calor del verano. Usa un antiparasitario recomendado por el veterinario, revisa a tu perro a diario tras los paseos por el monte o la costa, y pasea en las horas frescas."
+        },
+        {
+          "q": "¿Debo llevar a mi perro con correa en Sídney?",
+          "a": "Sí, en todo lugar público salvo en las zonas sin correa designadas, donde el perro debe seguir bajo control efectivo. Las multas por infracción sin correa parten de unos 220 AUD y los guardas patrullan los parques y playas populares."
+        }
       ],
       "faqsPt": [
-        {"q": "Sydney é uma cidade dog-friendly?", "a": "Muito, para a vida ao ar livre: excelentes parques sem trela, praias caninas no porto e uma enorme cultura de esplanadas e beer gardens. As principais limitações são as regras rígidas de praia e de zonas sem trela, e transportes públicos que excluem em grande parte os animais."},
-        {"q": "Qual é o maior risco de saúde para os cães em Sydney?", "a": "A carraça paralisante no litoral e no mato, que pode ser fatal, além do calor do verão. Use um antiparasitário recomendado pelo veterinário, inspecione o cão diariamente após passeios no mato ou no litoral, e passeie nas horas frescas."},
-        {"q": "Tenho de levar o meu cão à trela em Sydney?", "a": "Sim, em todo o local público exceto nas zonas sem trela designadas, onde o cão deve continuar sob controlo efetivo. As coimas por infração sem trela começam por volta de 220 AUD e os guardas patrulham os parques e praias populares."}
+        {
+          "q": "Sydney é uma cidade dog-friendly?",
+          "a": "Muito, para a vida ao ar livre: excelentes parques sem trela, praias caninas no porto e uma enorme cultura de esplanadas e beer gardens. As principais limitações são as regras rígidas de praia e de zonas sem trela, e transportes públicos que excluem em grande parte os animais."
+        },
+        {
+          "q": "Qual é o maior risco de saúde para os cães em Sydney?",
+          "a": "A carraça paralisante no litoral e no mato, que pode ser fatal, além do calor do verão. Use um antiparasitário recomendado pelo veterinário, inspecione o cão diariamente após passeios no mato ou no litoral, e passeie nas horas frescas."
+        },
+        {
+          "q": "Tenho de levar o meu cão à trela em Sydney?",
+          "a": "Sim, em todo o local público exceto nas zonas sem trela designadas, onde o cão deve continuar sob controlo efetivo. As coimas por infração sem trela começam por volta de 220 AUD e os guardas patrulham os parques e praias populares."
+        }
+      ],
+      "titleDe": "Hundefreundliche Tipps für Sydney",
+      "introDe": "Sydney ist eine wirklich hundeliebende Stadt mit einem ausgeprägten Outdoor-Lebensstil, bringt aber einige lokale Regeln und natürliche Gefahren mit sich, die man vor der Anreise kennen sollte. Die beiden Dinge, die Besuchern am häufigsten Probleme bereiten, sind die strengen, zonenbasierten Strand- und Freilaufregeln sowie die Paralysezecke, ein ernstzunehmendes saisonales Risiko entlang der Küste und im Buschland. Mit etwas Planung wird die Stadt mit Hund zu einer Freude.",
+      "faqsDe": [
+        {
+          "q": "Ist Sydney eine hundefreundliche Stadt?",
+          "a": "Für das Leben im Freien ganz besonders: hervorragende Freilaufparks, Hundestrände am Hafen und eine ausgeprägte Terrassen- und Biergartenkultur. Die Haupteinschränkungen sind strenge, zonenabhängige Strand- und Freilaufregeln sowie öffentliche Verkehrsmittel, die Haustiere weitgehend ausschließen."
+        },
+        {
+          "q": "Was ist das größte Gesundheitsrisiko für Hunde in Sydney?",
+          "a": "Die Paralysezecke entlang der Küste und im Buschland, die tödlich verlaufen kann, sowie die Sommerhitze. Verwenden Sie ein vom Tierarzt empfohlenes Zeckenmittel, kontrollieren Sie Ihren Hund täglich nach Busch- oder Küstenspaziergängen und gehen Sie in den kühlen Tagesstunden spazieren."
+        },
+        {
+          "q": "Muss ich meinen Hund in Sydney an der Leine führen?",
+          "a": "Ja, überall im öffentlichen Raum, außer in ausgewiesenen Freilaufzonen, wo Hunde dennoch unter wirksamer Kontrolle stehen müssen. Bußgelder für Leinenverstöße beginnen bei etwa 220 AUD, und Ranger patrouillieren beliebte Parks und Strände."
+        }
       ]
     },
     "transport": {
@@ -148,24 +200,76 @@
         }
       ],
       "faqsEn": [
-        {"q": "Can I take my dog on the train in Sydney?", "a": "No. Pets are not permitted on Sydney Trains or the Metro at any time, or at stations. Only accredited assistance animals can travel. For train-route journeys, plan to drive or use a pet-friendly rideshare or taxi instead."},
-        {"q": "Are dogs allowed on Sydney ferries and buses?", "a": "Only small pets confined in a carrier, and only if the driver or crew agrees; they can refuse on busy services. Ferries usually require dogs to stay on outer decks. The Cronulla to Bundeena ferry is a well-known dog-friendly route."},
-        {"q": "What's the easiest way to get around Sydney with a medium or large dog?", "a": "Driving your own or a hire car is the most reliable, with pet-friendly rideshare and taxis as a backup. Message the driver ahead, bring a seat cover, and plan door to door since public transport is largely closed to pets."}
+        {
+          "q": "Can I take my dog on the train in Sydney?",
+          "a": "No. Pets are not permitted on Sydney Trains or the Metro at any time, or at stations. Only accredited assistance animals can travel. For train-route journeys, plan to drive or use a pet-friendly rideshare or taxi instead."
+        },
+        {
+          "q": "Are dogs allowed on Sydney ferries and buses?",
+          "a": "Only small pets confined in a carrier, and only if the driver or crew agrees; they can refuse on busy services. Ferries usually require dogs to stay on outer decks. The Cronulla to Bundeena ferry is a well-known dog-friendly route."
+        },
+        {
+          "q": "What's the easiest way to get around Sydney with a medium or large dog?",
+          "a": "Driving your own or a hire car is the most reliable, with pet-friendly rideshare and taxis as a backup. Message the driver ahead, bring a seat cover, and plan door to door since public transport is largely closed to pets."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je prendre le train avec mon chien à Sydney ?", "a": "Non. Les animaux ne sont jamais admis dans les Sydney Trains ni le métro, ni dans les gares. Seuls les animaux d'assistance accrédités peuvent voyager. Pour les trajets desservis par le train, prévoyez la voiture ou un VTC/taxi acceptant les animaux."},
-        {"q": "Les chiens sont-ils admis sur les ferries et les bus de Sydney ?", "a": "Uniquement les petits animaux confinés dans un sac, et seulement si le conducteur ou l'équipage l'accepte ; ils peuvent refuser sur les services bondés. Les ferries exigent en général que les chiens restent sur les ponts extérieurs. Le ferry Cronulla–Bundeena est une ligne dog-friendly bien connue."},
-        {"q": "Quel est le moyen le plus simple de circuler à Sydney avec un chien moyen ou grand ?", "a": "Conduire sa propre voiture ou une voiture de location est le plus fiable, avec les VTC et taxis acceptant les animaux en secours. Prévenez le chauffeur à l'avance, apportez une housse de siège et planifiez de porte à porte, les transports publics étant en grande partie fermés aux animaux."}
+        {
+          "q": "Puis-je prendre le train avec mon chien à Sydney ?",
+          "a": "Non. Les animaux ne sont jamais admis dans les Sydney Trains ni le métro, ni dans les gares. Seuls les animaux d'assistance accrédités peuvent voyager. Pour les trajets desservis par le train, prévoyez la voiture ou un VTC/taxi acceptant les animaux."
+        },
+        {
+          "q": "Les chiens sont-ils admis sur les ferries et les bus de Sydney ?",
+          "a": "Uniquement les petits animaux confinés dans un sac, et seulement si le conducteur ou l'équipage l'accepte ; ils peuvent refuser sur les services bondés. Les ferries exigent en général que les chiens restent sur les ponts extérieurs. Le ferry Cronulla–Bundeena est une ligne dog-friendly bien connue."
+        },
+        {
+          "q": "Quel est le moyen le plus simple de circuler à Sydney avec un chien moyen ou grand ?",
+          "a": "Conduire sa propre voiture ou une voiture de location est le plus fiable, avec les VTC et taxis acceptant les animaux en secours. Prévenez le chauffeur à l'avance, apportez une housse de siège et planifiez de porte à porte, les transports publics étant en grande partie fermés aux animaux."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo llevar a mi perro en el tren en Sídney?", "a": "No. Las mascotas no se permiten en los Sydney Trains ni en el Metro en ningún momento, ni en las estaciones. Solo pueden viajar los animales de asistencia acreditados. Para trayectos por vía ferroviaria, planifica conducir o usar un VTC o taxi que admita mascotas."},
-        {"q": "¿Se admiten perros en los ferris y autobuses de Sídney?", "a": "Solo mascotas pequeñas confinadas en un transportín, y solo si el conductor o la tripulación lo aceptan; pueden negarse en servicios llenos. Los ferris suelen exigir que los perros vayan en cubiertas exteriores. El ferri de Cronulla a Bundeena es una ruta dog-friendly muy conocida."},
-        {"q": "¿Cuál es la forma más fácil de moverse por Sídney con un perro mediano o grande?", "a": "Conducir tu propio coche o uno de alquiler es lo más fiable, con VTC y taxis que admitan mascotas como respaldo. Avisa al conductor con antelación, lleva una funda de asiento y planifica de puerta a puerta, ya que el transporte público está en gran parte cerrado a las mascotas."}
+        {
+          "q": "¿Puedo llevar a mi perro en el tren en Sídney?",
+          "a": "No. Las mascotas no se permiten en los Sydney Trains ni en el Metro en ningún momento, ni en las estaciones. Solo pueden viajar los animales de asistencia acreditados. Para trayectos por vía ferroviaria, planifica conducir o usar un VTC o taxi que admita mascotas."
+        },
+        {
+          "q": "¿Se admiten perros en los ferris y autobuses de Sídney?",
+          "a": "Solo mascotas pequeñas confinadas en un transportín, y solo si el conductor o la tripulación lo aceptan; pueden negarse en servicios llenos. Los ferris suelen exigir que los perros vayan en cubiertas exteriores. El ferri de Cronulla a Bundeena es una ruta dog-friendly muy conocida."
+        },
+        {
+          "q": "¿Cuál es la forma más fácil de moverse por Sídney con un perro mediano o grande?",
+          "a": "Conducir tu propio coche o uno de alquiler es lo más fiable, con VTC y taxis que admitan mascotas como respaldo. Avisa al conductor con antelación, lleva una funda de asiento y planifica de puerta a puerta, ya que el transporte público está en gran parte cerrado a las mascotas."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso levar o meu cão no comboio em Sydney?", "a": "Não. Os animais não são permitidos nos Sydney Trains nem no Metro em momento algum, nem nas estações. Só os animais de assistência acreditados podem viajar. Para trajetos servidos por comboio, planeie conduzir ou usar um TVDE ou táxi que aceite animais."},
-        {"q": "Os cães são permitidos nos ferries e autocarros de Sydney?", "a": "Apenas animais pequenos confinados numa transportadora, e só se o motorista ou a tripulação concordarem; podem recusar em serviços cheios. Os ferries costumam exigir que os cães fiquem nos conveses exteriores. O ferry Cronulla–Bundeena é uma rota dog-friendly bem conhecida."},
-        {"q": "Qual é a forma mais fácil de circular em Sydney com um cão médio ou grande?", "a": "Conduzir o próprio carro ou um alugado é o mais fiável, com TVDE e táxis que aceitem animais como reforço. Avise o motorista com antecedência, leve uma capa de banco e planeie porta a porta, uma vez que os transportes públicos estão em grande parte fechados a animais."}
+        {
+          "q": "Posso levar o meu cão no comboio em Sydney?",
+          "a": "Não. Os animais não são permitidos nos Sydney Trains nem no Metro em momento algum, nem nas estações. Só os animais de assistência acreditados podem viajar. Para trajetos servidos por comboio, planeie conduzir ou usar um TVDE ou táxi que aceite animais."
+        },
+        {
+          "q": "Os cães são permitidos nos ferries e autocarros de Sydney?",
+          "a": "Apenas animais pequenos confinados numa transportadora, e só se o motorista ou a tripulação concordarem; podem recusar em serviços cheios. Os ferries costumam exigir que os cães fiquem nos conveses exteriores. O ferry Cronulla–Bundeena é uma rota dog-friendly bem conhecida."
+        },
+        {
+          "q": "Qual é a forma mais fácil de circular em Sydney com um cão médio ou grande?",
+          "a": "Conduzir o próprio carro ou um alugado é o mais fiável, com TVDE e táxis que aceitem animais como reforço. Avise o motorista com antecedência, leve uma capa de banco e planeie porta a porta, uma vez que os transportes públicos estão em grande parte fechados a animais."
+        }
+      ],
+      "titleDe": "Mit Haustieren unterwegs in Sydney",
+      "introDe": "Der öffentliche Nahverkehr in Sydney (betrieben von Transport for NSW) ist wenig haustierfreundlich, und das ist der wichtigste Punkt, den man einplanen muss. Haustiere sind in Zügen und der Metro grundsätzlich nicht erlaubt. In Bussen, Straßenbahnen und Fähren darf ein kleines Haustier nur mitfahren, wenn es in einer Box oder Transportbox untergebracht ist und das Personal bzw. der Fahrer zustimmt, wobei bei stark ausgelasteten Fahrten abgelehnt werden kann. Anerkannte Assistenztiere hingegen sind auf allen Verkehrsmitteln erlaubt. In der Praxis bewegen sich die meisten Besucher mit einem mittelgroßen oder großen Hund per Auto, Taxi oder haustierfreundlichem Mitfahrdienst durch Sydney. Planen Sie die Strecke von Tür zu Tür, bevor Sie losfahren.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in Sydney mit dem Zug mitnehmen?",
+          "a": "Nein. Haustiere sind in den Sydney Trains oder der Metro zu keiner Zeit erlaubt, auch nicht an den Bahnhöfen. Nur anerkannte Assistenztiere dürfen mitfahren. Für Strecken, die mit dem Zug zurückgelegt würden, sollten Sie stattdessen fahren oder einen haustierfreundlichen Mitfahrdienst bzw. ein Taxi nutzen."
+        },
+        {
+          "q": "Sind Hunde in Sydneys Fähren und Bussen erlaubt?",
+          "a": "Nur kleine Haustiere in einer Transportbox, und nur wenn Fahrer oder Besatzung zustimmen; bei starkem Andrang kann dies abgelehnt werden. Auf Fähren müssen Hunde meist auf den Außendecks bleiben. Die Fähre von Cronulla nach Bundeena ist eine bekannte hundefreundliche Route."
+        },
+        {
+          "q": "Was ist die einfachste Art, sich in Sydney mit einem mittelgroßen oder großen Hund fortzubewegen?",
+          "a": "Das eigene Auto oder ein Mietwagen sind am zuverlässigsten, haustierfreundliche Mitfahrdienste und Taxis dienen als Rückfalloption. Informieren Sie den Fahrer vorab, bringen Sie eine Sitzbezugsdecke mit und planen Sie die Strecke von Tür zu Tür, da öffentliche Verkehrsmittel für Haustiere weitgehend gesperrt sind."
+        }
       ]
     },
     "petsitting": {
@@ -190,11 +294,16 @@
           "serviceTypeEs": "Reserva por app. Cuidado, alojamiento, guardería, paseos",
           "serviceTypePt": "Reserva pela aplicação. Pet sitting, alojamento, creche, passeios",
           "pricePerDay": "AUD 40–75/day depending on service",
-          "languages": ["English"],
+          "languages": [
+            "English"
+          ],
           "tip": "Book at least a week ahead over the December–January summer holidays when Sydney sitters fill up fast",
           "tipFr": "Réservez au moins une semaine à l'avance pendant les vacances d'été de décembre–janvier, quand les sitters de Sydney sont vite complets",
           "tipEs": "Reserva con al menos una semana de antelación en las vacaciones de verano de diciembre–enero, cuando los cuidadores de Sídney se llenan rápido",
-          "tipPt": "Reserve com pelo menos uma semana de antecedência nas férias de verão de dezembro–janeiro, quando os cuidadores de Sydney esgotam depressa"
+          "tipPt": "Reserve com pelo menos uma semana de antecedência nas férias de verão de dezembro–janeiro, quando os cuidadores de Sydney esgotam depressa",
+          "descriptionDe": "Mad Paws ist Australiens größte Haustierbetreuungs-Community mit zehntausenden verifizierten Betreuern landesweit und einer starken Abdeckung in ganz Sydney, von der Sutherland Shire bis zu den Northern Beaches. Über die App können Sie Hundebetreuung, Unterbringung, Tagesbetreuung, Hausbesuche und Gassi-Service buchen, inklusive Fotoupdates während des Aufenthalts. Alle Buchungen beinhalten eine Versicherung, und die Betreuer werden von früheren Kunden bewertet.",
+          "serviceTypeDe": "App-basierte Buchung. Hundebetreuung, Unterbringung, Tagesbetreuung, Gassi-Service",
+          "tipDe": "Buchen Sie mindestens eine Woche im Voraus während der Sommerferien von Dezember bis Januar, wenn die Betreuer in Sydney schnell ausgebucht sind"
         },
         {
           "name": "Pawshake Australia",
@@ -208,11 +317,16 @@
           "serviceTypeEs": "Reserva por app. Cuidado, paseos, alojamiento",
           "serviceTypePt": "Reserva pela aplicação. Pet sitting, passeios, alojamento",
           "pricePerDay": "AUD 35–70/day depending on service",
-          "languages": ["English"],
+          "languages": [
+            "English"
+          ],
           "tip": "Message two or three sitters at once to confirm availability faster, and read the most recent reviews first",
           "tipFr": "Contactez deux ou trois sitters à la fois pour confirmer plus vite les disponibilités, et lisez d'abord les avis les plus récents",
           "tipEs": "Escribe a dos o tres cuidadores a la vez para confirmar la disponibilidad más rápido, y lee primero las reseñas más recientes",
-          "tipPt": "Contacte dois ou três cuidadores ao mesmo tempo para confirmar a disponibilidade mais depressa, e leia primeiro as avaliações mais recentes"
+          "tipPt": "Contacte dois ou três cuidadores ao mesmo tempo para confirmar a disponibilidade mais depressa, e leia primeiro as avaliações mais recentes",
+          "descriptionDe": "Pawshake ist eine weit verbreitete internationale Haustierbetreuungsplattform mit starker Präsenz in Sydney. Sie verbindet Halter über eine benutzerfreundliche App mit lokalen Betreuern, Gassi-Gehern und Unterbringungsangeboten, mit detaillierten Profilen, Bewertungen und Ratings für jeden Betreuer. Eine gute zweite Option, um Verfügbarkeit und Preise mit Mad Paws zu vergleichen, besonders bei kurzfristigen Buchungen.",
+          "serviceTypeDe": "App-basierte Buchung. Hundebetreuung, Gassi-Service, Unterbringung",
+          "tipDe": "Kontaktieren Sie zwei oder drei Betreuer gleichzeitig, um die Verfügbarkeit schneller zu bestätigen, und lesen Sie zuerst die neuesten Bewertungen"
         }
       ],
       "tipsEn": [
@@ -236,24 +350,76 @@
         "Para ausências curtas, uma visita ou um passeio fica mais barato do que um dia inteiro de alojamento."
       ],
       "faqsEn": [
-        {"q": "How do I find a trusted dog sitter in Sydney?", "a": "Use an established platform such as Mad Paws or Pawshake. Both vet and insure their sitters, show verified reviews, and cover the whole Sydney metro area, so you can book a walker or sitter close to where you are staying."},
-        {"q": "How much does dog sitting cost in Sydney?", "a": "Roughly AUD 35–75 per day depending on the service and the dog, with drop-in visits and single walks costing much less. Prices peak over the summer holidays."},
-        {"q": "Can I book a sitter for just a few hours?", "a": "Yes. Both platforms offer short drop-in visits and single walks as well as full-day or overnight boarding, which is ideal if you just need cover for a museum visit or a meal."}
+        {
+          "q": "How do I find a trusted dog sitter in Sydney?",
+          "a": "Use an established platform such as Mad Paws or Pawshake. Both vet and insure their sitters, show verified reviews, and cover the whole Sydney metro area, so you can book a walker or sitter close to where you are staying."
+        },
+        {
+          "q": "How much does dog sitting cost in Sydney?",
+          "a": "Roughly AUD 35–75 per day depending on the service and the dog, with drop-in visits and single walks costing much less. Prices peak over the summer holidays."
+        },
+        {
+          "q": "Can I book a sitter for just a few hours?",
+          "a": "Yes. Both platforms offer short drop-in visits and single walks as well as full-day or overnight boarding, which is ideal if you just need cover for a museum visit or a meal."
+        }
       ],
       "faqsFr": [
-        {"q": "Comment trouver un sitter de confiance à Sydney ?", "a": "Utilisez une plateforme établie comme Mad Paws ou Pawshake. Les deux vérifient et assurent leurs sitters, affichent des avis vérifiés et couvrent toute l'agglomération de Sydney : vous pouvez réserver un promeneur ou un sitter près de votre lieu de séjour."},
-        {"q": "Combien coûte la garde de chien à Sydney ?", "a": "Environ 35–75 AUD par jour selon le service et le chien, les visites ponctuelles et promenades simples coûtant bien moins. Les prix culminent pendant les vacances d'été."},
-        {"q": "Puis-je réserver un sitter pour seulement quelques heures ?", "a": "Oui. Les deux plateformes proposent de courtes visites et des promenades simples, en plus de la pension à la journée ou à la nuit, idéal si vous avez juste besoin d'une solution pour une visite de musée ou un repas."}
+        {
+          "q": "Comment trouver un sitter de confiance à Sydney ?",
+          "a": "Utilisez une plateforme établie comme Mad Paws ou Pawshake. Les deux vérifient et assurent leurs sitters, affichent des avis vérifiés et couvrent toute l'agglomération de Sydney : vous pouvez réserver un promeneur ou un sitter près de votre lieu de séjour."
+        },
+        {
+          "q": "Combien coûte la garde de chien à Sydney ?",
+          "a": "Environ 35–75 AUD par jour selon le service et le chien, les visites ponctuelles et promenades simples coûtant bien moins. Les prix culminent pendant les vacances d'été."
+        },
+        {
+          "q": "Puis-je réserver un sitter pour seulement quelques heures ?",
+          "a": "Oui. Les deux plateformes proposent de courtes visites et des promenades simples, en plus de la pension à la journée ou à la nuit, idéal si vous avez juste besoin d'une solution pour une visite de musée ou un repas."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cómo encuentro un cuidador de confianza en Sídney?", "a": "Usa una plataforma consolidada como Mad Paws o Pawshake. Ambas verifican y aseguran a sus cuidadores, muestran reseñas verificadas y cubren toda el área metropolitana de Sídney, así que puedes reservar un paseador o cuidador cerca de tu alojamiento."},
-        {"q": "¿Cuánto cuesta el cuidado de perros en Sídney?", "a": "En torno a 35–75 AUD por día según el servicio y el perro, con visitas puntuales y paseos sueltos mucho más baratos. Los precios suben en las vacaciones de verano."},
-        {"q": "¿Puedo reservar un cuidador solo por unas horas?", "a": "Sí. Ambas plataformas ofrecen visitas cortas y paseos sueltos, además de alojamiento por día o noche, ideal si solo necesitas cobertura para una visita a un museo o una comida."}
+        {
+          "q": "¿Cómo encuentro un cuidador de confianza en Sídney?",
+          "a": "Usa una plataforma consolidada como Mad Paws o Pawshake. Ambas verifican y aseguran a sus cuidadores, muestran reseñas verificadas y cubren toda el área metropolitana de Sídney, así que puedes reservar un paseador o cuidador cerca de tu alojamiento."
+        },
+        {
+          "q": "¿Cuánto cuesta el cuidado de perros en Sídney?",
+          "a": "En torno a 35–75 AUD por día según el servicio y el perro, con visitas puntuales y paseos sueltos mucho más baratos. Los precios suben en las vacaciones de verano."
+        },
+        {
+          "q": "¿Puedo reservar un cuidador solo por unas horas?",
+          "a": "Sí. Ambas plataformas ofrecen visitas cortas y paseos sueltos, además de alojamiento por día o noche, ideal si solo necesitas cobertura para una visita a un museo o una comida."
+        }
       ],
       "faqsPt": [
-        {"q": "Como encontro um cuidador de confiança em Sydney?", "a": "Use uma plataforma consolidada como a Mad Paws ou a Pawshake. Ambas verificam e seguram os cuidadores, mostram avaliações verificadas e cobrem toda a área metropolitana de Sydney, por isso pode reservar um passeador ou cuidador perto de onde está hospedado."},
-        {"q": "Quanto custa o pet sitting em Sydney?", "a": "Cerca de 35–75 AUD por dia consoante o serviço e o cão, com visitas pontuais e passeios avulsos a custar bem menos. Os preços sobem nas férias de verão."},
-        {"q": "Posso reservar um cuidador só por umas horas?", "a": "Sim. Ambas as plataformas oferecem visitas curtas e passeios avulsos, além de alojamento por dia ou pernoita, ideal se só precisar de cobertura para uma visita a um museu ou uma refeição."}
+        {
+          "q": "Como encontro um cuidador de confiança em Sydney?",
+          "a": "Use uma plataforma consolidada como a Mad Paws ou a Pawshake. Ambas verificam e seguram os cuidadores, mostram avaliações verificadas e cobrem toda a área metropolitana de Sydney, por isso pode reservar um passeador ou cuidador perto de onde está hospedado."
+        },
+        {
+          "q": "Quanto custa o pet sitting em Sydney?",
+          "a": "Cerca de 35–75 AUD por dia consoante o serviço e o cão, com visitas pontuais e passeios avulsos a custar bem menos. Os preços sobem nas férias de verão."
+        },
+        {
+          "q": "Posso reservar um cuidador só por umas horas?",
+          "a": "Sim. Ambas as plataformas oferecem visitas curtas e passeios avulsos, além de alojamento por dia ou pernoita, ideal se só precisar de cobertura para uma visita a um museu ou uma refeição."
+        }
+      ],
+      "titleDe": "Hundebetreuung & Gassi-Service in Sydney",
+      "introDe": "Manchmal braucht man ein paar Stunden ohne Hund: ein Museumsbesuch, ein Restaurant, das keine Haustiere zulässt, oder ein Bootsausflug. Sydney ist mit App-basierten Haustierbetreuungsplattformen sehr gut versorgt, mit versicherten, überprüften, englischsprachigen Betreuern im gesamten Großraum. Buchen Sie frühzeitig in den Sommerferien, wenn die Nachfrage am höchsten ist. Die beiden folgenden Plattformen sind die am weitesten verbreiteten und zuverlässigsten in Sydney.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen vertrauenswürdigen Hundesitter in Sydney?",
+          "a": "Nutzen Sie eine etablierte Plattform wie Mad Paws oder Pawshake. Beide überprüfen und versichern ihre Betreuer, zeigen verifizierte Bewertungen und decken den gesamten Großraum Sydney ab, sodass Sie einen Gassi-Geher oder Betreuer in Ihrer Nähe buchen können."
+        },
+        {
+          "q": "Wie viel kostet Hundebetreuung in Sydney?",
+          "a": "Je nach Leistung und Hund etwa 35–75 AUD pro Tag, wobei Kurzbesuche und einzelne Spaziergänge deutlich günstiger sind. Die Preise erreichen in den Sommerferien ihren Höhepunkt."
+        },
+        {
+          "q": "Kann ich einen Betreuer nur für ein paar Stunden buchen?",
+          "a": "Ja. Beide Plattformen bieten neben ganztägiger oder Übernacht-Betreuung auch kurze Besuche und einzelne Spaziergänge an, ideal, wenn Sie nur für einen Museumsbesuch oder ein Essen Abdeckung brauchen."
+        }
       ]
     },
     "attractions": {
@@ -287,7 +453,11 @@
           "tipFr": "Partez de Dover Heights pour la plus belle lumière et terminez par un verre au jardin dog-friendly du Watsons Bay Hotel",
           "tipEs": "Empieza en Dover Heights para la mejor luz y termina con una bebida en el jardín dog-friendly del Watsons Bay Hotel",
           "tipPt": "Comece em Dover Heights para a melhor luz e termine com uma bebida no jardim dog-friendly do Watsons Bay Hotel",
-          "googleMapsUrl": "https://maps.google.com/?q=Federation+Cliff+Walk+Sydney"
+          "googleMapsUrl": "https://maps.google.com/?q=Federation+Cliff+Walk+Sydney",
+          "descriptionDe": "Eine spektakuläre Klippenroute in den östlichen Vororten mit weitem Meerblick, die von Dover Heights vorbei am Macquarie Lighthouse in Richtung Watsons Bay führt. Unterwegs liegen hundefreundliche Reservate wie Raleigh Reserve und Lighthouse Reserve, wo Freilauf erlaubt ist. Einer der besten Weitblick-Spaziergänge in Sydney, den man wirklich mit Hund unternehmen kann.",
+          "dogPolicyDe": "Auf dem Weg an der Leine; Freilauf erlaubt im Raleigh Reserve und im Lighthouse Reserve. Hunde verboten im Gap Park, im Sydney Harbour National Park und im Robertson Park am Ende bei Watsons Bay.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Starten Sie bei Dover Heights für das beste Licht und beenden Sie den Spaziergang mit einem Getränk im hundefreundlichen Garten des Watsons Bay Hotel"
         },
         {
           "name": "Barangaroo Reserve",
@@ -310,7 +480,11 @@
           "tipFr": "Venez à l'heure dorée pour les vues sur le pont, puis laissez le chien se rafraîchir à Marrinawi Cove les jours de chaleur",
           "tipEs": "Ve a la hora dorada por las vistas del puente y luego deja que el perro se refresque en Marrinawi Cove en un día caluroso",
           "tipPt": "Vá à hora dourada pelas vistas da ponte e depois deixe o cão refrescar-se na Marrinawi Cove num dia quente",
-          "googleMapsUrl": "https://maps.google.com/?q=Barangaroo+Reserve+Sydney"
+          "googleMapsUrl": "https://maps.google.com/?q=Barangaroo+Reserve+Sydney",
+          "descriptionDe": "Ein rekonstruierter Sandstein-Kliffpark am westlichen Rand des Stadtzentrums mit Uferweg, einheimischen Pflanzungen und beeindruckendem Hafenblick zurück zur Brücke. Hunde sind im gesamten Reservat an der Leine willkommen, und es gibt sogar eine kleine Badebucht am Hafen, Marrinawi Cove, in der Hunde ins Wasser dürfen. Die einfachste, wirklich zentrale Sehenswürdigkeit mit Hund.",
+          "dogPolicyDe": "Hunde im gesamten Reservat an der Leine willkommen; im Wasser ohne Leine an der Badebucht Marrinawi Cove erlaubt.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Gehen Sie zur goldenen Stunde für die besten Brückenblicke, und lassen Sie den Hund an einem heißen Tag anschließend in der Marrinawi Cove abkühlen"
         },
         {
           "name": "Watsons Bay & Gibsons Beach",
@@ -333,7 +507,11 @@
           "tipFr": "Prenez le ferry depuis Circular Quay. Les petits chiens voyagent dans un sac à la discrétion du personnel ; vérifiez avant d'embarquer",
           "tipEs": "Toma el ferry desde Circular Quay. Los perros pequeños viajan en transportín a discreción del personal; consúltalo antes de embarcar",
           "tipPt": "Apanhe o ferry a partir de Circular Quay. Os cães pequenos viajam em transportadora, ao critério do pessoal; confirme antes de embarcar",
-          "googleMapsUrl": "https://maps.google.com/?q=Watsons+Bay+Sydney"
+          "googleMapsUrl": "https://maps.google.com/?q=Watsons+Bay+Sydney",
+          "descriptionDe": "Ein bilderbuchhaftes Hafendorf am Ende der South-Head-Halbinsel, mit der Fähre von Circular Quay für einen echten Sydney-Tagesausflug erreichbar. Der kleine Gibsons Beach hat sanftes Wasser und Blick auf die Skyline und die Brücke, und Hunde sind an der Uferpromenade rund um das Dorf willkommen. Kombinieren Sie den Ausflug mit einem Essen im hundefreundlichen Hotelgarten. Beachten Sie, dass Hunde im angrenzenden Robertson Park sowie an den Nationalpark-Aussichtspunkten nicht erlaubt sind.",
+          "dogPolicyDe": "Hunde an der Leine an der Dorfuferpromenade und am Gibsons Beach willkommen; nicht erlaubt im Robertson Park oder an den Aussichtspunkten des Sydney Harbour National Park.",
+          "admissionFeeDe": "Kostenlos (Fährpreis fällt an)",
+          "tipDe": "Nehmen Sie die Fähre von Circular Quay. Kleine Hunde fahren nach Ermessen des Personals in einer Transportbox mit; erkundigen Sie sich vor dem Einsteigen"
         }
       ],
       "tipsEn": [
@@ -357,24 +535,76 @@
         "Combine um passeio panorâmico com um jardim de pub dog-friendly no fim (Watsons Bay é a combinação clássica)."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog to Sydney Harbour attractions?", "a": "On the council-managed foreshore, yes: Barangaroo Reserve and the Watsons Bay foreshore welcome leashed dogs with full harbour views. But dogs are banned on National Parks land, including the Sydney Harbour National Park lookouts, so plan around those boundaries."},
-        {"q": "Is there a central Sydney attraction that's easy with a dog?", "a": "Barangaroo Reserve on the western edge of the CBD is the easiest. It is a harbourfront park with leashed-dog access throughout and a small swimming cove (Marrinawi Cove) where dogs can go in the water."},
-        {"q": "Can dogs ride the Sydney ferries to Watsons Bay or Manly?", "a": "Small dogs in a carrier may be allowed on ferries at staff discretion, on outer decks, and services can refuse if busy. Assistance animals travel on all services. Confirm with crew before boarding."}
+        {
+          "q": "Can I take my dog to Sydney Harbour attractions?",
+          "a": "On the council-managed foreshore, yes: Barangaroo Reserve and the Watsons Bay foreshore welcome leashed dogs with full harbour views. But dogs are banned on National Parks land, including the Sydney Harbour National Park lookouts, so plan around those boundaries."
+        },
+        {
+          "q": "Is there a central Sydney attraction that's easy with a dog?",
+          "a": "Barangaroo Reserve on the western edge of the CBD is the easiest. It is a harbourfront park with leashed-dog access throughout and a small swimming cove (Marrinawi Cove) where dogs can go in the water."
+        },
+        {
+          "q": "Can dogs ride the Sydney ferries to Watsons Bay or Manly?",
+          "a": "Small dogs in a carrier may be allowed on ferries at staff discretion, on outer decks, and services can refuse if busy. Assistance animals travel on all services. Confirm with crew before boarding."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je emmener mon chien aux attractions du port de Sydney ?", "a": "Sur le front de mer géré par les municipalités, oui : Barangaroo Reserve et le front de mer de Watsons Bay accueillent les chiens en laisse avec vue complète sur le port. Mais les chiens sont interdits sur les terrains des parcs nationaux, dont les belvédères du Sydney Harbour National Park : organisez-vous autour de ces limites."},
-        {"q": "Y a-t-il une attraction centrale de Sydney facile avec un chien ?", "a": "Barangaroo Reserve, à la lisière ouest du CBD, est la plus simple. C'est un parc en bord de port avec accès en laisse partout et une petite crique de baignade (Marrinawi Cove) où les chiens peuvent aller dans l'eau."},
-        {"q": "Les chiens peuvent-ils prendre les ferries de Sydney vers Watsons Bay ou Manly ?", "a": "Les petits chiens en sac peuvent être admis sur les ferries à la discrétion du personnel, sur les ponts extérieurs, et le service peut refuser si c'est bondé. Les animaux d'assistance voyagent sur toutes les lignes. Vérifiez auprès de l'équipage avant d'embarquer."}
+        {
+          "q": "Puis-je emmener mon chien aux attractions du port de Sydney ?",
+          "a": "Sur le front de mer géré par les municipalités, oui : Barangaroo Reserve et le front de mer de Watsons Bay accueillent les chiens en laisse avec vue complète sur le port. Mais les chiens sont interdits sur les terrains des parcs nationaux, dont les belvédères du Sydney Harbour National Park : organisez-vous autour de ces limites."
+        },
+        {
+          "q": "Y a-t-il une attraction centrale de Sydney facile avec un chien ?",
+          "a": "Barangaroo Reserve, à la lisière ouest du CBD, est la plus simple. C'est un parc en bord de port avec accès en laisse partout et une petite crique de baignade (Marrinawi Cove) où les chiens peuvent aller dans l'eau."
+        },
+        {
+          "q": "Les chiens peuvent-ils prendre les ferries de Sydney vers Watsons Bay ou Manly ?",
+          "a": "Les petits chiens en sac peuvent être admis sur les ferries à la discrétion du personnel, sur les ponts extérieurs, et le service peut refuser si c'est bondé. Les animaux d'assistance voyagent sur toutes les lignes. Vérifiez auprès de l'équipage avant d'embarquer."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo llevar a mi perro a las atracciones del puerto de Sídney?", "a": "En el paseo marítimo gestionado por los municipios, sí: Barangaroo Reserve y el paseo de Watsons Bay admiten perros con correa y vistas completas del puerto. Pero los perros están prohibidos en terrenos de parques nacionales, incluidos los miradores del Sydney Harbour National Park, así que planifica en torno a esos límites."},
-        {"q": "¿Hay alguna atracción céntrica de Sídney fácil con un perro?", "a": "Barangaroo Reserve, en el borde oeste del CBD, es la más fácil. Es un parque junto al puerto con acceso con correa en toda su extensión y una pequeña cala de baño (Marrinawi Cove) donde los perros pueden entrar al agua."},
-        {"q": "¿Pueden los perros viajar en los ferris de Sídney a Watsons Bay o Manly?", "a": "Los perros pequeños en transportín pueden ir en los ferris a discreción del personal, en las cubiertas exteriores, y el servicio puede negarse si va lleno. Los animales de asistencia viajan en todas las líneas. Confírmalo con la tripulación antes de embarcar."}
+        {
+          "q": "¿Puedo llevar a mi perro a las atracciones del puerto de Sídney?",
+          "a": "En el paseo marítimo gestionado por los municipios, sí: Barangaroo Reserve y el paseo de Watsons Bay admiten perros con correa y vistas completas del puerto. Pero los perros están prohibidos en terrenos de parques nacionales, incluidos los miradores del Sydney Harbour National Park, así que planifica en torno a esos límites."
+        },
+        {
+          "q": "¿Hay alguna atracción céntrica de Sídney fácil con un perro?",
+          "a": "Barangaroo Reserve, en el borde oeste del CBD, es la más fácil. Es un parque junto al puerto con acceso con correa en toda su extensión y una pequeña cala de baño (Marrinawi Cove) donde los perros pueden entrar al agua."
+        },
+        {
+          "q": "¿Pueden los perros viajar en los ferris de Sídney a Watsons Bay o Manly?",
+          "a": "Los perros pequeños en transportín pueden ir en los ferris a discreción del personal, en las cubiertas exteriores, y el servicio puede negarse si va lleno. Los animales de asistencia viajan en todas las líneas. Confírmalo con la tripulación antes de embarcar."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso levar o meu cão às atrações do porto de Sydney?", "a": "Na frente-mar gerida pelos municípios, sim: a Barangaroo Reserve e a frente-mar de Watsons Bay acolhem cães à trela com vista total para o porto. Mas os cães são proibidos em terrenos de parques nacionais, incluindo os miradouros do Sydney Harbour National Park, por isso planeie em função desses limites."},
-        {"q": "Há uma atração central de Sydney fácil de fazer com um cão?", "a": "A Barangaroo Reserve, no limite oeste do CBD, é a mais fácil. É um parque à beira do porto com acesso à trela em toda a extensão e uma pequena enseada de banhos (Marrinawi Cove) onde os cães podem entrar na água."},
-        {"q": "Os cães podem andar nos ferries de Sydney até Watsons Bay ou Manly?", "a": "Os cães pequenos em transportadora podem ser aceites nos ferries ao critério do pessoal, nos conveses exteriores, e o serviço pode recusar se estiver cheio. Os animais de assistência viajam em todas as linhas. Confirme com a tripulação antes de embarcar."}
+        {
+          "q": "Posso levar o meu cão às atrações do porto de Sydney?",
+          "a": "Na frente-mar gerida pelos municípios, sim: a Barangaroo Reserve e a frente-mar de Watsons Bay acolhem cães à trela com vista total para o porto. Mas os cães são proibidos em terrenos de parques nacionais, incluindo os miradouros do Sydney Harbour National Park, por isso planeie em função desses limites."
+        },
+        {
+          "q": "Há uma atração central de Sydney fácil de fazer com um cão?",
+          "a": "A Barangaroo Reserve, no limite oeste do CBD, é a mais fácil. É um parque à beira do porto com acesso à trela em toda a extensão e uma pequena enseada de banhos (Marrinawi Cove) onde os cães podem entrar na água."
+        },
+        {
+          "q": "Os cães podem andar nos ferries de Sydney até Watsons Bay ou Manly?",
+          "a": "Os cães pequenos em transportadora podem ser aceites nos ferries ao critério do pessoal, nos conveses exteriores, e o serviço pode recusar se estiver cheio. Os animais de assistência viajam em todas as linhas. Confirme com a tripulação antes de embarcar."
+        }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Sydney",
+      "introDe": "Sydneys wichtigste Sehenswürdigkeiten liegen im Freien: der Hafen, die Sandsteinklippen und die Küstenwege. Vieles davon ist tatsächlich hundefreundlich, wenn man die Grenzen kennt. Ein wichtiger Haken: Auf Nationalpark-Gelände (einschließlich des Sydney Harbour National Park und seiner Aussichtspunkte) sind Hunde verboten, sodass sich die besten Erlebnisse auf den vom Council verwalteten Uferpromenaden und Reservaten finden. Die folgenden drei Orte verbinden ikonische Ausblicke mit verlässlichem Zugang an oder ohne Leine.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund zu den Sehenswürdigkeiten am Sydney Harbour mitnehmen?",
+          "a": "An der vom Council verwalteten Uferpromenade ja: Barangaroo Reserve und die Uferpromenade von Watsons Bay heißen angeleinte Hunde mit vollem Blick auf den Hafen willkommen. Auf Nationalpark-Gelände, einschließlich der Aussichtspunkte des Sydney Harbour National Park, sind Hunde jedoch verboten, planen Sie also um diese Grenzen herum."
+        },
+        {
+          "q": "Gibt es eine zentrale Sehenswürdigkeit in Sydney, die mit Hund einfach ist?",
+          "a": "Barangaroo Reserve am westlichen Rand des Stadtzentrums ist am einfachsten. Es ist ein Uferpark mit durchgehendem Zugang für angeleinte Hunde und einer kleinen Badebucht (Marrinawi Cove), in der Hunde ins Wasser dürfen."
+        },
+        {
+          "q": "Dürfen Hunde mit den Fähren nach Watsons Bay oder Manly fahren?",
+          "a": "Kleine Hunde in einer Transportbox können nach Ermessen des Personals auf den Außendecks mitfahren, und Fahrten können bei starkem Andrang abgelehnt werden. Assistenztiere fahren auf allen Verbindungen mit. Erkundigen Sie sich vor dem Einsteigen bei der Besatzung."
+        }
       ]
     },
     "vets": {
@@ -407,7 +637,10 @@
           "tipEs": "Guarda el +61 2 9889 0289 antes de viajar y llama de camino para que preparen tu llegada",
           "tipPt": "Guarde o +61 2 9889 0289 antes de viajar e ligue a caminho para que preparem a sua chegada",
           "googleMapsUrl": "https://maps.google.com/?q=SASH+North+Ryde",
-          "photo": "/images/city-places/sydney-vets-sash-north-ryde.jpg"
+          "photo": "/images/city-places/sydney-vets-sash-north-ryde.jpg",
+          "hoursDe": "24/7, 365 Tage im Jahr",
+          "descriptionDe": "SASH ist eine der größten Fach- und Notfalltierkliniken Australiens, und ihr Flaggschiff in North Ryde ist das Referenzzentrum für die nördliche Hälfte Sydneys. Es behandelt alles von Traumata und Vergiftungen bis hin zu komplexer Chirurgie, Onkologie und Intensivpflege, mit Fachärzten rund um die Uhr in Bereitschaft. Für Notfälle ist kein Termin nötig. Die Klinik liegt nahe der M2-Autobahn, außerhalb der Stoßzeiten rund 20 Minuten vom Stadtzentrum entfernt.",
+          "tipDe": "Speichern Sie +61 2 9889 0289, bevor Sie reisen, und rufen Sie unterwegs an, damit man sich auf Ihre Ankunft vorbereiten kann"
         },
         {
           "name": "Animal Referral Hospital (ARH) Homebush",
@@ -429,7 +662,10 @@
           "tipEs": "Céntrico y fácil de llegar desde el inner west. Llama antes al +61 2 9758 8666 antes de ir",
           "tipPt": "Central e de fácil acesso a partir do inner west. Ligue antes para +61 2 9758 8666 antes de chegar",
           "googleMapsUrl": "https://maps.google.com/?q=Animal+Referral+Hospital+Homebush",
-          "photo": "/images/city-places/sydney-vets-arh-homebush.jpg"
+          "photo": "/images/city-places/sydney-vets-arh-homebush.jpg",
+          "hoursDe": "24/7, jeden Tag einschließlich Feiertagen",
+          "descriptionDe": "Das Animal Referral Hospital in Homebush ist ein großes 24-Stunden-Notfall- und Überweisungszentrum, das den Inner West und das Zentrum von Sydney an der Parramatta Road bedient. Es bietet Notfall- und Intensivmedizin neben Innerer Medizin, Chirurgie, Onkologie, Augenheilkunde und vollständiger Bildgebung vor Ort einschließlich MRT, CT, Ultraschall und Röntgen. Notfälle werden zu jeder Stunde ohne Termin behandelt.",
+          "tipDe": "Zentral gelegen und vom Inner West aus gut erreichbar. Rufen Sie vor Ihrer Ankunft unter +61 2 9758 8666 an"
         },
         {
           "name": "SASH Alexandria",
@@ -451,7 +687,10 @@
           "tipEs": "La opción de urgencias 24h más cómoda si te alojas en el centro de Sídney o en los suburbios del este",
           "tipPt": "A opção de urgência 24h mais prática se ficar no centro de Sydney ou nos subúrbios a leste",
           "googleMapsUrl": "https://maps.google.com/?q=SASH+Alexandria+vet",
-          "photo": "/images/city-places/sydney-vets-sash-alexandria.jpg"
+          "photo": "/images/city-places/sydney-vets-sash-alexandria.jpg",
+          "hoursDe": "24/7, 365 Tage im Jahr",
+          "descriptionDe": "Das SASH-Krankenhaus in Alexandria ist das nächstgelegene vollständige 24-Stunden-Notfall- und Fachzentrum zum Stadtzentrum und den östlichen Vororten, ein großer Vorteil für Besucher, die in der Stadt übernachten. Wie das Flaggschiff in North Ryde bietet es rund um die Uhr Notfallversorgung sowie Facharztleistungen, und Notfälle ohne Termin werden jederzeit angenommen. Praktisch für alle, die rund um den Hafen, Surry Hills oder die östlichen Strände wohnen.",
+          "tipDe": "Die praktischste 24-Stunden-Notfalloption, wenn Sie im Zentrum von Sydney oder in den östlichen Vororten übernachten"
         }
       ],
       "tipsEn": [
@@ -475,24 +714,76 @@
         "A SASH Alexandria é a mais próxima do CBD e dos subúrbios a leste; o ARH Homebush cobre o inner west."
       ],
       "faqsEn": [
-        {"q": "Where is the nearest 24-hour emergency vet to central Sydney?", "a": "SASH Alexandria on Gardeners Road is the closest full 24/7 emergency and specialist hospital to the CBD and eastern suburbs. ARH Homebush on Parramatta Road covers the inner west, and SASH North Ryde serves the north."},
-        {"q": "Do I need an appointment for an emergency vet in Sydney?", "a": "No. SASH and ARH accept walk-in emergencies 24 hours a day. It is strongly recommended to phone ahead on the way so the team can prepare for your arrival."},
-        {"q": "Do Sydney vets speak English?", "a": "Yes, English is the working language at all Sydney veterinary hospitals, so there is no language barrier for international visitors in an emergency."}
+        {
+          "q": "Where is the nearest 24-hour emergency vet to central Sydney?",
+          "a": "SASH Alexandria on Gardeners Road is the closest full 24/7 emergency and specialist hospital to the CBD and eastern suburbs. ARH Homebush on Parramatta Road covers the inner west, and SASH North Ryde serves the north."
+        },
+        {
+          "q": "Do I need an appointment for an emergency vet in Sydney?",
+          "a": "No. SASH and ARH accept walk-in emergencies 24 hours a day. It is strongly recommended to phone ahead on the way so the team can prepare for your arrival."
+        },
+        {
+          "q": "Do Sydney vets speak English?",
+          "a": "Yes, English is the working language at all Sydney veterinary hospitals, so there is no language barrier for international visitors in an emergency."
+        }
       ],
       "faqsFr": [
-        {"q": "Où se trouve le vétérinaire d'urgence 24h le plus proche du centre de Sydney ?", "a": "SASH Alexandria, sur Gardeners Road, est l'hôpital d'urgence et de spécialités 24h/24 le plus proche du CBD et des banlieues est. ARH Homebush, sur Parramatta Road, couvre l'inner west, et SASH North Ryde dessert le nord."},
-        {"q": "Faut-il un rendez-vous pour un vétérinaire d'urgence à Sydney ?", "a": "Non. SASH et ARH acceptent les urgences sans rendez-vous 24h/24. Il est fortement conseillé d'appeler en chemin pour que l'équipe prépare votre arrivée."},
-        {"q": "Les vétérinaires de Sydney parlent-ils anglais ?", "a": "Oui, l'anglais est la langue de travail de tous les hôpitaux vétérinaires de Sydney : aucune barrière de langue pour les visiteurs internationaux en cas d'urgence."}
+        {
+          "q": "Où se trouve le vétérinaire d'urgence 24h le plus proche du centre de Sydney ?",
+          "a": "SASH Alexandria, sur Gardeners Road, est l'hôpital d'urgence et de spécialités 24h/24 le plus proche du CBD et des banlieues est. ARH Homebush, sur Parramatta Road, couvre l'inner west, et SASH North Ryde dessert le nord."
+        },
+        {
+          "q": "Faut-il un rendez-vous pour un vétérinaire d'urgence à Sydney ?",
+          "a": "Non. SASH et ARH acceptent les urgences sans rendez-vous 24h/24. Il est fortement conseillé d'appeler en chemin pour que l'équipe prépare votre arrivée."
+        },
+        {
+          "q": "Les vétérinaires de Sydney parlent-ils anglais ?",
+          "a": "Oui, l'anglais est la langue de travail de tous les hôpitaux vétérinaires de Sydney : aucune barrière de langue pour les visiteurs internationaux en cas d'urgence."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde está el veterinario de urgencias 24 horas más cercano al centro de Sídney?", "a": "SASH Alexandria, en Gardeners Road, es el hospital de urgencias y especialidades 24/7 más cercano al CBD y los suburbios del este. ARH Homebush, en Parramatta Road, cubre el inner west, y SASH North Ryde atiende el norte."},
-        {"q": "¿Necesito cita para un veterinario de urgencias en Sídney?", "a": "No. SASH y ARH atienden urgencias sin cita las 24 horas. Se recomienda encarecidamente llamar de camino para que el equipo prepare tu llegada."},
-        {"q": "¿Los veterinarios de Sídney hablan inglés?", "a": "Sí, el inglés es el idioma de trabajo en todos los hospitales veterinarios de Sídney, así que no hay barrera idiomática para los visitantes internacionales en una urgencia."}
+        {
+          "q": "¿Dónde está el veterinario de urgencias 24 horas más cercano al centro de Sídney?",
+          "a": "SASH Alexandria, en Gardeners Road, es el hospital de urgencias y especialidades 24/7 más cercano al CBD y los suburbios del este. ARH Homebush, en Parramatta Road, cubre el inner west, y SASH North Ryde atiende el norte."
+        },
+        {
+          "q": "¿Necesito cita para un veterinario de urgencias en Sídney?",
+          "a": "No. SASH y ARH atienden urgencias sin cita las 24 horas. Se recomienda encarecidamente llamar de camino para que el equipo prepare tu llegada."
+        },
+        {
+          "q": "¿Los veterinarios de Sídney hablan inglés?",
+          "a": "Sí, el inglés es el idioma de trabajo en todos los hospitales veterinarios de Sídney, así que no hay barrera idiomática para los visitantes internacionales en una urgencia."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde fica o veterinário de urgência 24 horas mais próximo do centro de Sydney?", "a": "A SASH Alexandria, na Gardeners Road, é o hospital de urgência e especialidade 24/7 mais próximo do CBD e dos subúrbios a leste. O ARH Homebush, na Parramatta Road, cobre o inner west, e a SASH North Ryde serve o norte."},
-        {"q": "Preciso de marcação para um veterinário de urgência em Sydney?", "a": "Não. A SASH e o ARH atendem urgências sem marcação 24 horas por dia. Recomenda-se vivamente ligar a caminho para que a equipa prepare a sua chegada."},
-        {"q": "Os veterinários de Sydney falam inglês?", "a": "Sim, o inglês é a língua de trabalho em todos os hospitais veterinários de Sydney, por isso não há barreira linguística para os visitantes internacionais numa urgência."}
+        {
+          "q": "Onde fica o veterinário de urgência 24 horas mais próximo do centro de Sydney?",
+          "a": "A SASH Alexandria, na Gardeners Road, é o hospital de urgência e especialidade 24/7 mais próximo do CBD e dos subúrbios a leste. O ARH Homebush, na Parramatta Road, cobre o inner west, e a SASH North Ryde serve o norte."
+        },
+        {
+          "q": "Preciso de marcação para um veterinário de urgência em Sydney?",
+          "a": "Não. A SASH e o ARH atendem urgências sem marcação 24 horas por dia. Recomenda-se vivamente ligar a caminho para que a equipa prepare a sua chegada."
+        },
+        {
+          "q": "Os veterinários de Sydney falam inglês?",
+          "a": "Sim, o inglês é a língua de trabalho em todos os hospitais veterinários de Sydney, por isso não há barreira linguística para os visitantes internacionais numa urgência."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Sydney",
+      "introDe": "Sydney verfügt über ausgezeichnete rund um die Uhr besetzte Notfall- und Fachtierkliniken, und das gesamte Personal spricht Englisch. Die beiden größten Netzwerke sind SASH (Small Animal Specialist Hospital) und das Animal Referral Hospital (ARH), beide rund um die Uhr an jedem Tag des Jahres geöffnet. Speichern Sie mindestens eine Nummer in Ihrem Telefon, bevor Sie reisen, und rufen Sie immer vorher an, damit sich das Team auf Ihre Ankunft vorbereiten kann. Die drei unten genannten Zentren sind verifizierte Notfalleinrichtungen auf Klinikniveau.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächste 24-Stunden-Notfalltierarzt zum Stadtzentrum von Sydney?",
+          "a": "SASH Alexandria in der Gardeners Road ist die nächstgelegene vollständige 24/7-Notfall- und Fachklinik zum Stadtzentrum und den östlichen Vororten. ARH Homebush an der Parramatta Road deckt den Inner West ab, SASH North Ryde bedient den Norden."
+        },
+        {
+          "q": "Brauche ich einen Termin für einen Notfalltierarzt in Sydney?",
+          "a": "Nein. SASH und ARH nehmen rund um die Uhr Notfälle ohne Termin an. Es wird dringend empfohlen, unterwegs anzurufen, damit sich das Team auf Ihre Ankunft vorbereiten kann."
+        },
+        {
+          "q": "Sprechen Tierärzte in Sydney Englisch?",
+          "a": "Ja, Englisch ist die Arbeitssprache in allen Tierkliniken in Sydney, sodass es für internationale Besucher im Notfall keine Sprachbarriere gibt."
+        }
       ]
     },
     "beaches": {
@@ -557,24 +848,76 @@
         "Enxágue o sal e a areia do cão depois e leve água fresca. As coimas na praia começam por volta de 220 AUD."
       ],
       "faqsEn": [
-        {"q": "Can dogs go on Bondi Beach?", "a": "No. Bondi, Manly, Coogee and most of Sydney's famous ocean beaches prohibit dogs at all times. For a beach day with your dog, use the harbour dog beaches like Rose Bay or Sirius Cove, or ocean-facing Greenhills at Cronulla within its time windows."},
-        {"q": "Which Sydney dog beach allows off-leash swimming any time?", "a": "Rose Bay foreshore (around Lyne Park) allows off-leash access at any time along the designated stretch, making it the most flexible option. It is calm harbour water rather than surf."},
-        {"q": "Are there fines for taking a dog on a non-dog beach in Sydney?", "a": "Yes. Fines typically start around AUD 220 for having a dog on a beach where they are not permitted or off-leash outside allowed hours, and rangers patrol popular beaches through summer."}
+        {
+          "q": "Can dogs go on Bondi Beach?",
+          "a": "No. Bondi, Manly, Coogee and most of Sydney's famous ocean beaches prohibit dogs at all times. For a beach day with your dog, use the harbour dog beaches like Rose Bay or Sirius Cove, or ocean-facing Greenhills at Cronulla within its time windows."
+        },
+        {
+          "q": "Which Sydney dog beach allows off-leash swimming any time?",
+          "a": "Rose Bay foreshore (around Lyne Park) allows off-leash access at any time along the designated stretch, making it the most flexible option. It is calm harbour water rather than surf."
+        },
+        {
+          "q": "Are there fines for taking a dog on a non-dog beach in Sydney?",
+          "a": "Yes. Fines typically start around AUD 220 for having a dog on a beach where they are not permitted or off-leash outside allowed hours, and rangers patrol popular beaches through summer."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens peuvent-ils aller sur la plage de Bondi ?", "a": "Non. Bondi, Manly, Coogee et la plupart des célèbres plages océaniques de Sydney interdisent les chiens en permanence. Pour une journée plage avec votre chien, utilisez les plages canines du port comme Rose Bay ou Sirius Cove, ou Greenhills, face à l'océan, à Cronulla dans ses créneaux horaires."},
-        {"q": "Quelle plage canine de Sydney autorise la baignade sans laisse à toute heure ?", "a": "Le front de mer de Rose Bay (autour de Lyne Park) autorise l'accès sans laisse à toute heure sur la portion désignée, ce qui en fait l'option la plus souple. C'est une eau de port calme, pas de la houle."},
-        {"q": "Y a-t-il des amendes pour emmener un chien sur une plage non canine à Sydney ?", "a": "Oui. Les amendes démarrent en général autour de 220 AUD pour un chien sur une plage interdite ou sans laisse hors horaires autorisés, et les rangers patrouillent les plages populaires tout l'été."}
+        {
+          "q": "Les chiens peuvent-ils aller sur la plage de Bondi ?",
+          "a": "Non. Bondi, Manly, Coogee et la plupart des célèbres plages océaniques de Sydney interdisent les chiens en permanence. Pour une journée plage avec votre chien, utilisez les plages canines du port comme Rose Bay ou Sirius Cove, ou Greenhills, face à l'océan, à Cronulla dans ses créneaux horaires."
+        },
+        {
+          "q": "Quelle plage canine de Sydney autorise la baignade sans laisse à toute heure ?",
+          "a": "Le front de mer de Rose Bay (autour de Lyne Park) autorise l'accès sans laisse à toute heure sur la portion désignée, ce qui en fait l'option la plus souple. C'est une eau de port calme, pas de la houle."
+        },
+        {
+          "q": "Y a-t-il des amendes pour emmener un chien sur une plage non canine à Sydney ?",
+          "a": "Oui. Les amendes démarrent en général autour de 220 AUD pour un chien sur une plage interdite ou sans laisse hors horaires autorisés, et les rangers patrouillent les plages populaires tout l'été."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Pueden ir los perros a la playa de Bondi?", "a": "No. Bondi, Manly, Coogee y la mayoría de las famosas playas oceánicas de Sídney prohíben los perros en todo momento. Para un día de playa con tu perro, usa las playas caninas del puerto como Rose Bay o Sirius Cove, o Greenhills, frente al mar, en Cronulla dentro de sus franjas horarias."},
-        {"q": "¿Qué playa canina de Sídney permite el baño sin correa a cualquier hora?", "a": "El paseo marítimo de Rose Bay (junto a Lyne Park) permite el acceso sin correa a cualquier hora en el tramo designado, lo que lo convierte en la opción más flexible. Es agua tranquila de puerto, no oleaje."},
-        {"q": "¿Hay multas por llevar un perro a una playa no canina en Sídney?", "a": "Sí. Las multas suelen partir de unos 220 AUD por tener un perro en una playa no permitida o suelto fuera del horario autorizado, y los guardas patrullan las playas populares durante todo el verano."}
+        {
+          "q": "¿Pueden ir los perros a la playa de Bondi?",
+          "a": "No. Bondi, Manly, Coogee y la mayoría de las famosas playas oceánicas de Sídney prohíben los perros en todo momento. Para un día de playa con tu perro, usa las playas caninas del puerto como Rose Bay o Sirius Cove, o Greenhills, frente al mar, en Cronulla dentro de sus franjas horarias."
+        },
+        {
+          "q": "¿Qué playa canina de Sídney permite el baño sin correa a cualquier hora?",
+          "a": "El paseo marítimo de Rose Bay (junto a Lyne Park) permite el acceso sin correa a cualquier hora en el tramo designado, lo que lo convierte en la opción más flexible. Es agua tranquila de puerto, no oleaje."
+        },
+        {
+          "q": "¿Hay multas por llevar un perro a una playa no canina en Sídney?",
+          "a": "Sí. Las multas suelen partir de unos 220 AUD por tener un perro en una playa no permitida o suelto fuera del horario autorizado, y los guardas patrullan las playas populares durante todo el verano."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães podem ir à praia de Bondi?", "a": "Não. Bondi, Manly, Coogee e a maioria das famosas praias oceânicas de Sydney proíbem cães a toda a hora. Para um dia de praia com o seu cão, use as praias caninas do porto como Rose Bay ou Sirius Cove, ou a Greenhills, virada ao mar, em Cronulla, dentro das suas janelas horárias."},
-        {"q": "Que praia canina de Sydney permite banho sem trela a qualquer hora?", "a": "A frente-mar de Rose Bay (junto ao Lyne Park) permite acesso sem trela a qualquer hora no troço designado, o que a torna a opção mais flexível. É água calma de porto, não rebentação."},
-        {"q": "Há coimas por levar um cão a uma praia não canina em Sydney?", "a": "Sim. As coimas começam normalmente por volta de 220 AUD por ter um cão numa praia não permitida ou sem trela fora do horário autorizado, e os guardas patrulham as praias populares durante todo o verão."}
+        {
+          "q": "Os cães podem ir à praia de Bondi?",
+          "a": "Não. Bondi, Manly, Coogee e a maioria das famosas praias oceânicas de Sydney proíbem cães a toda a hora. Para um dia de praia com o seu cão, use as praias caninas do porto como Rose Bay ou Sirius Cove, ou a Greenhills, virada ao mar, em Cronulla, dentro das suas janelas horárias."
+        },
+        {
+          "q": "Que praia canina de Sydney permite banho sem trela a qualquer hora?",
+          "a": "A frente-mar de Rose Bay (junto ao Lyne Park) permite acesso sem trela a qualquer hora no troço designado, o que a torna a opção mais flexível. É água calma de porto, não rebentação."
+        },
+        {
+          "q": "Há coimas por levar um cão a uma praia não canina em Sydney?",
+          "a": "Sim. As coimas começam normalmente por volta de 220 AUD por ter um cão numa praia não permitida ou sem trela fora do horário autorizado, e os guardas patrulham as praias populares durante todo o verão."
+        }
+      ],
+      "titleDe": "Hundefreundliche Strände in Sydney",
+      "introDe": "Sydneys Küste ist weltberühmt, aber die meisten der bekanntesten Meeresstrände (Bondi, Manly, Coogee) lassen überhaupt keine Hunde zu. Der Trick besteht darin, die ausgewiesenen Hundestrände zu kennen, von denen die meisten am ruhigeren Hafen statt an der offenen Brandung liegen. Die Regeln sind streng und oft zeitlich begrenzt, mit aktiven Rangern im Sommer und Bußgeldern ab etwa 220 AUD. Die folgenden drei sind die zuverlässigsten Orte, um einen Hund schwimmen und laufen zu lassen.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde an den Bondi Beach?",
+          "a": "Nein. Bondi, Manly, Coogee und die meisten der berühmten Meeresstrände Sydneys verbieten Hunde jederzeit. Für einen Strandtag mit Hund nutzen Sie die Hundestrände am Hafen wie Rose Bay oder Sirius Cove, oder den zum Meer gerichteten Greenhills in Cronulla innerhalb der Zeitfenster."
+        },
+        {
+          "q": "Welcher Hundestrand in Sydney erlaubt jederzeit Freilauf beim Schwimmen?",
+          "a": "Die Uferpromenade von Rose Bay (rund um den Lyne Park) erlaubt entlang des ausgewiesenen Abschnitts jederzeit Freilauf, was sie zur flexibelsten Option macht. Es handelt sich um ruhiges Hafenwasser statt Brandung."
+        },
+        {
+          "q": "Gibt es Bußgelder, wenn man einen Hund an einen Nicht-Hundestrand in Sydney mitnimmt?",
+          "a": "Ja. Bußgelder beginnen in der Regel bei etwa 220 AUD, wenn ein Hund an einem nicht erlaubten Strand ist oder außerhalb der zugelassenen Zeiten ohne Leine läuft, und Ranger patrouillieren im Sommer beliebte Strände."
+        }
       ]
     },
     "parks": {
@@ -604,7 +947,9 @@
           "tip": "Best early morning or around sunset when the local dog crowd gathers on the main lawns",
           "tipFr": "Idéal tôt le matin ou vers le coucher du soleil, quand les chiens du quartier se retrouvent sur les grandes pelouses",
           "tipEs": "Mejor a primera hora o hacia el atardecer, cuando los perros del barrio se reúnen en los céspedes principales",
-          "tipPt": "Melhor de manhã cedo ou ao pôr do sol, quando os cães do bairro se juntam nos relvados principais"
+          "tipPt": "Melhor de manhã cedo ou ao pôr do sol, quando os cães do bairro se juntam nos relvados principais",
+          "descriptionDe": "Die größte Freilauffläche in der Innenstadt, verteilt über sanfte Hügel eines ehemaligen Ziegeleigeländes mit Feuchtgebieten, großen offenen Wiesen und Stadtblick von oben. Ein beliebter Morgen- und Abendtreffpunkt für örtliche Hunde. Die Freilaufzonen sind markiert; Hunde in der Nähe der Feuchtgebiete und Spielplätze bitte anleinen.",
+          "tipDe": "Am besten früh morgens oder um Sonnenuntergang, wenn sich die örtliche Hundeschar auf den Hauptwiesen versammelt"
         },
         {
           "name": "Centennial Parklands",
@@ -623,7 +968,9 @@
           "tip": "Watch for horse riders on the shared paths and keep your dog under control near the equestrian tracks",
           "tipFr": "Attention aux cavaliers sur les allées partagées et gardez votre chien sous contrôle près des pistes équestres",
           "tipEs": "Ojo con los jinetes en los senderos compartidos y mantén al perro controlado cerca de las pistas ecuestres",
-          "tipPt": "Atenção aos cavaleiros nos trilhos partilhados e mantenha o cão controlado perto das pistas equestres"
+          "tipPt": "Atenção aos cavaleiros nos trilhos partilhados e mantenha o cão controlado perto das pistas equestres",
+          "descriptionDe": "Einer der großartigen Stadtparks der Welt, mit rund 43 Prozent der Freifläche als Freilaufzone ausgewiesen, darunter der beliebte Sandstone Ridge und das Federation Valley. Prächtige, von Feigenbäumen gesäumte Alleen, Teiche und weite Wiesen machen einen ganzen Vormittag daraus. Hunde müssen von Teichen, Spielplätzen sowie den Bereichen rund um den Pavillon und die Gastronomie ferngehalten werden.",
+          "tipDe": "Achten Sie auf Reiter auf den gemeinsam genutzten Wegen und halten Sie Ihren Hund in der Nähe der Reitstrecken unter Kontrolle"
         },
         {
           "name": "Rushcutters Bay Park",
@@ -642,7 +989,9 @@
           "tip": "The morning off-leash window closes at 10:30am. Arrive earlier for the calm harbour light and space",
           "tipFr": "La fenêtre sans laisse du matin ferme à 10h30. Venez plus tôt pour la lumière calme du port et l'espace",
           "tipEs": "La franja sin correa de la mañana cierra a las 10:30. Llega antes para disfrutar de la luz tranquila del puerto y del espacio",
-          "tipPt": "A janela sem trela da manhã fecha às 10h30. Chegue mais cedo para a luz calma do porto e o espaço"
+          "tipPt": "A janela sem trela da manhã fecha às 10h30. Chegue mais cedo para a luz calma do porto e o espaço",
+          "descriptionDe": "Ein hübscher Park am Hafen unterhalb von Darlinghurst, umgeben von Segelyachten und Moreton-Bay-Feigen, mit Freilaufzugang außerhalb der Mittagszeit. Bei Hunden aus den östlichen Vororten sehr beliebt, mit einem gut gelegenen Kiosk für Kaffee. Zeitlich begrenzter Freilauf: Hunde laufen von 15:30 bis 10:30 Uhr frei, dazwischen an der Leine.",
+          "tipDe": "Das morgendliche Freilauffenster endet um 10:30 Uhr. Kommen Sie früher für das ruhige Hafenlicht und mehr Platz"
         }
       ],
       "tipsEn": [
@@ -666,24 +1015,76 @@
         "Leve água no verão. Muitos parques têm bebedouros mas a sombra pode escassear nos relvados abertos."
       ],
       "faqsEn": [
-        {"q": "Are there off-leash dog parks in central Sydney?", "a": "Yes. Sydney Park in Alexandria has the largest off-leash area in the inner city, and Rushcutters Bay Park and Centennial Parklands cover the eastern suburbs. All are within a short drive or bus ride of the CBD."},
-        {"q": "Can dogs be off-leash any time in Sydney parks?", "a": "It varies. Some areas are off-leash all day within marked zones, others only at set hours (for example Rushcutters Bay is off-leash 3:30pm–10:30am). Always check the signage at the entrance."},
-        {"q": "What are the fines for having a dog off-leash where it's not allowed?", "a": "Council fines in Sydney typically start around AUD 220 for an off-leash offence in a prohibited area or outside permitted hours, and rangers patrol popular parks, especially in summer."}
+        {
+          "q": "Are there off-leash dog parks in central Sydney?",
+          "a": "Yes. Sydney Park in Alexandria has the largest off-leash area in the inner city, and Rushcutters Bay Park and Centennial Parklands cover the eastern suburbs. All are within a short drive or bus ride of the CBD."
+        },
+        {
+          "q": "Can dogs be off-leash any time in Sydney parks?",
+          "a": "It varies. Some areas are off-leash all day within marked zones, others only at set hours (for example Rushcutters Bay is off-leash 3:30pm–10:30am). Always check the signage at the entrance."
+        },
+        {
+          "q": "What are the fines for having a dog off-leash where it's not allowed?",
+          "a": "Council fines in Sydney typically start around AUD 220 for an off-leash offence in a prohibited area or outside permitted hours, and rangers patrol popular parks, especially in summer."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il des parcs sans laisse dans le centre de Sydney ?", "a": "Oui. Sydney Park à Alexandria a la plus grande zone sans laisse du centre-ville, et Rushcutters Bay Park comme Centennial Parklands couvrent les banlieues est. Tous sont à quelques minutes en voiture ou en bus du CBD."},
-        {"q": "Les chiens peuvent-ils être sans laisse à toute heure dans les parcs de Sydney ?", "a": "Cela dépend. Certaines zones sont sans laisse toute la journée dans des secteurs balisés, d'autres seulement à des horaires précis (par exemple Rushcutters Bay est sans laisse de 15h30 à 10h30). Vérifiez toujours la signalisation à l'entrée."},
-        {"q": "Quelles amendes pour un chien sans laisse là où c'est interdit ?", "a": "Les amendes municipales à Sydney démarrent en général autour de 220 AUD pour une infraction sans laisse dans une zone interdite ou hors horaires autorisés, et les rangers patrouillent les parcs populaires, surtout l'été."}
+        {
+          "q": "Y a-t-il des parcs sans laisse dans le centre de Sydney ?",
+          "a": "Oui. Sydney Park à Alexandria a la plus grande zone sans laisse du centre-ville, et Rushcutters Bay Park comme Centennial Parklands couvrent les banlieues est. Tous sont à quelques minutes en voiture ou en bus du CBD."
+        },
+        {
+          "q": "Les chiens peuvent-ils être sans laisse à toute heure dans les parcs de Sydney ?",
+          "a": "Cela dépend. Certaines zones sont sans laisse toute la journée dans des secteurs balisés, d'autres seulement à des horaires précis (par exemple Rushcutters Bay est sans laisse de 15h30 à 10h30). Vérifiez toujours la signalisation à l'entrée."
+        },
+        {
+          "q": "Quelles amendes pour un chien sans laisse là où c'est interdit ?",
+          "a": "Les amendes municipales à Sydney démarrent en général autour de 220 AUD pour une infraction sans laisse dans une zone interdite ou hors horaires autorisés, et les rangers patrouillent les parcs populaires, surtout l'été."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay parques sin correa en el centro de Sídney?", "a": "Sí. Sydney Park, en Alexandria, tiene la mayor zona sin correa del centro, y Rushcutters Bay Park y Centennial Parklands cubren los suburbios del este. Todos están a un corto trayecto en coche o autobús del CBD."},
-        {"q": "¿Pueden los perros ir sueltos a cualquier hora en los parques de Sídney?", "a": "Depende. Algunas zonas son sin correa todo el día dentro de áreas señalizadas, otras solo a ciertas horas (por ejemplo, Rushcutters Bay es sin correa de 15:30 a 10:30). Comprueba siempre la señalización de la entrada."},
-        {"q": "¿Cuáles son las multas por llevar al perro suelto donde no está permitido?", "a": "Las multas municipales en Sídney suelen partir de unos 220 AUD por una infracción sin correa en zona prohibida o fuera del horario permitido, y los guardas patrullan los parques populares, sobre todo en verano."}
+        {
+          "q": "¿Hay parques sin correa en el centro de Sídney?",
+          "a": "Sí. Sydney Park, en Alexandria, tiene la mayor zona sin correa del centro, y Rushcutters Bay Park y Centennial Parklands cubren los suburbios del este. Todos están a un corto trayecto en coche o autobús del CBD."
+        },
+        {
+          "q": "¿Pueden los perros ir sueltos a cualquier hora en los parques de Sídney?",
+          "a": "Depende. Algunas zonas son sin correa todo el día dentro de áreas señalizadas, otras solo a ciertas horas (por ejemplo, Rushcutters Bay es sin correa de 15:30 a 10:30). Comprueba siempre la señalización de la entrada."
+        },
+        {
+          "q": "¿Cuáles son las multas por llevar al perro suelto donde no está permitido?",
+          "a": "Las multas municipales en Sídney suelen partir de unos 220 AUD por una infracción sin correa en zona prohibida o fuera del horario permitido, y los guardas patrullan los parques populares, sobre todo en verano."
+        }
       ],
       "faqsPt": [
-        {"q": "Há parques sem trela no centro de Sydney?", "a": "Sim. O Sydney Park, em Alexandria, tem a maior zona sem trela do centro, e o Rushcutters Bay Park e os Centennial Parklands cobrem os subúrbios a leste. Todos ficam a poucos minutos de carro ou autocarro do CBD."},
-        {"q": "Os cães podem andar sem trela a qualquer hora nos parques de Sydney?", "a": "Depende. Algumas zonas são sem trela todo o dia dentro de áreas assinaladas, outras só a horas determinadas (por exemplo, Rushcutters Bay é sem trela das 15h30 às 10h30). Confirme sempre a sinalização à entrada."},
-        {"q": "Quais são as coimas por ter o cão sem trela onde não é permitido?", "a": "As coimas municipais em Sydney começam normalmente por volta de 220 AUD por uma infração sem trela em zona proibida ou fora do horário permitido, e os guardas patrulham os parques populares, sobretudo no verão."}
+        {
+          "q": "Há parques sem trela no centro de Sydney?",
+          "a": "Sim. O Sydney Park, em Alexandria, tem a maior zona sem trela do centro, e o Rushcutters Bay Park e os Centennial Parklands cobrem os subúrbios a leste. Todos ficam a poucos minutos de carro ou autocarro do CBD."
+        },
+        {
+          "q": "Os cães podem andar sem trela a qualquer hora nos parques de Sydney?",
+          "a": "Depende. Algumas zonas são sem trela todo o dia dentro de áreas assinaladas, outras só a horas determinadas (por exemplo, Rushcutters Bay é sem trela das 15h30 às 10h30). Confirme sempre a sinalização à entrada."
+        },
+        {
+          "q": "Quais são as coimas por ter o cão sem trela onde não é permitido?",
+          "a": "As coimas municipais em Sydney começam normalmente por volta de 220 AUD por uma infração sem trela em zona proibida ou fora do horário permitido, e os guardas patrulham os parques populares, sobretudo no verão."
+        }
+      ],
+      "titleDe": "Freilaufparks für Hunde in Sydney",
+      "introDe": "Sydney bietet reichlich Freilauffläche, von riesigen innerstädtischen Reservaten bis zu kleinen Hafenflächen mit Skyline-Blick. Der Freilaufzugang ist meist zonen- oder zeitabhängig statt pauschal, daher gilt als goldene Regel: die Hinweisschilder des Councils an jedem Eingang lesen. Außerhalb ausgewiesener Freilaufzonen und -zeiten müssen Hunde angeleint sein, und Bußgelder werden durchgesetzt. Die folgenden drei Parks sind bei örtlichen Hundehaltern am zuverlässigsten und beliebtesten.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Freilaufparks im Zentrum von Sydney?",
+          "a": "Ja. Der Sydney Park in Alexandria hat die größte Freilauffläche in der Innenstadt, und Rushcutters Bay Park sowie Centennial Parklands decken die östlichen Vororte ab. Alle sind mit kurzer Autofahrt oder Busfahrt vom Stadtzentrum aus erreichbar."
+        },
+        {
+          "q": "Können Hunde in Sydneys Parks jederzeit ohne Leine laufen?",
+          "a": "Das ist unterschiedlich. Manche Bereiche sind innerhalb der markierten Zonen ganztägig freilauffähig, andere nur zu festgelegten Zeiten (zum Beispiel ist Rushcutters Bay von 15:30 bis 10:30 Uhr freilauffähig). Prüfen Sie immer die Beschilderung am Eingang."
+        },
+        {
+          "q": "Wie hoch sind die Bußgelder, wenn ein Hund dort ohne Leine läuft, wo es nicht erlaubt ist?",
+          "a": "Council-Bußgelder in Sydney beginnen in der Regel bei etwa 220 AUD für einen Leinenverstoß in einem verbotenen Bereich oder außerhalb der erlaubten Zeiten, und Ranger patrouillieren beliebte Parks, besonders im Sommer."
+        }
       ]
     },
     "restaurants": {
@@ -720,7 +1121,11 @@
           "tipFr": "Arrivez avant 9h le week-end. C'est vite bondé et les tables ombragées du jardin partent en premier",
           "tipEs": "Llega antes de las 9h los fines de semana. Se llena mucho y las mesas del jardín con sombra se ocupan primero",
           "tipPt": "Chegue antes das 9h ao fim de semana. Enche muito e as mesas do jardim à sombra são as primeiras a ocupar",
-          "googleMapsUrl": "https://maps.google.com/?q=The+Grounds+of+Alexandria+Sydney"
+          "googleMapsUrl": "https://maps.google.com/?q=The+Grounds+of+Alexandria+Sydney",
+          "descriptionDe": "Ein weitläufiges Gartenareal, errichtet auf einem Industriegelände aus den 1920er-Jahren, mit einer Kaffeerösterei, Bäckerei, Marktständen und einem kleinen Streichelzoo. Hunde sind in den gesamten Außengärten, auf der Terrasse und in der pflanzenreichen Bar Potting Shed willkommen, jedoch nicht im Haupt-Innencafé. Einer der meistfotografierten Wochenendorte Sydneys, wirklich gemacht zum Verweilen mit Hund.",
+          "petPolicyDe": "Hunde in den Gärten, auf der Terrasse und im Potting Shed willkommen; nicht im Hauptcafé",
+          "mustTryDe": "Vor Ort gerösteter Kaffee, frisches Gebäck aus der Bäckerei",
+          "tipDe": "Kommen Sie am Wochenende vor 9 Uhr. Es wird sehr voll, und die schattigen Gartentische sind zuerst besetzt"
         },
         {
           "name": "Café Bones",
@@ -746,7 +1151,11 @@
           "tipFr": "Ouvert surtout le week-end. Vérifiez la page Facebook pour les horaires en semaine avant de vous déplacer",
           "tipEs": "Abre sobre todo los fines de semana. Consulta su página de Facebook para el horario entre semana antes de ir",
           "tipPt": "Funciona sobretudo ao fim de semana. Confirme a página de Facebook para o horário nos dias úteis antes de ir",
-          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Bones+Leichhardt+Sydney"
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Bones+Leichhardt+Sydney",
+          "descriptionDe": "Oft als das weltweit erste Hundecafé und Geburtsort des Puppuccinos beschrieben, liegt Café Bones im Hawthorne Canal Reserve, einem der größten Freilaufparks im Inner West. Es ist vollständig im Freien, sodass Hunde im Reservat frei laufen, während Sie Sandwiches, Pasteten und Eis genießen. Selbstgebackene Hundekekse und Wasserschalen gehören zum Standard.",
+          "petPolicyDe": "Hunde ohne Leine im umliegenden Reservat; komplett im Freien gelegenes Café",
+          "mustTryDe": "Puppuccino für den Hund, eine Fleischpastete für Sie",
+          "tipDe": "Geöffnet hauptsächlich an Wochenenden. Prüfen Sie die Facebook-Seite auf Öffnungszeiten unter der Woche, bevor Sie hinfahren"
         },
         {
           "name": "Watsons Bay Boutique Hotel",
@@ -772,7 +1181,11 @@
           "tipFr": "Venez en ferry depuis Circular Quay pour la vue, puis promenez le chien jusqu'à Camp Cove ensuite",
           "tipEs": "Ven en ferry desde Circular Quay por las vistas y luego pasea al perro hasta Camp Cove",
           "tipPt": "Venha de ferry a partir de Circular Quay pela vista e depois leve o cão a passear até Camp Cove",
-          "googleMapsUrl": "https://maps.google.com/?q=Watsons+Bay+Boutique+Hotel"
+          "googleMapsUrl": "https://maps.google.com/?q=Watsons+Bay+Boutique+Hotel",
+          "descriptionDe": "Ein klassischer Hafen-Pub mit einem riesigen Biergarten und Blick über das Wasser zurück auf die Skyline der Stadt. Hunde sind im unteren Gartenbereich des Beach Club willkommen, was den Ort zum perfekten Abschluss einer Fährfahrt oder des Federation Cliff Walk macht. Meeresfrüchte, Pizza aus dem Holzofen und kalte Getränke in der Sonne, mit dem Hund zu Füßen.",
+          "petPolicyDe": "Hunde im unteren Gartenbereich des Beach Club willkommen",
+          "mustTryDe": "Fish and Chips mit Hafenblick",
+          "tipDe": "Kommen Sie mit der Fähre von Circular Quay wegen der Aussicht und gehen Sie anschließend mit dem Hund weiter zur Camp Cove"
         }
       ],
       "tipsEn": [
@@ -796,24 +1209,76 @@
         "Os verões de Sydney são quentes. Escolha mesas à sombra e peça uma taça de água; a maioria dos cafés tem uma."
       ],
       "faqsEn": [
-        {"q": "Can dogs go inside restaurants in Sydney?", "a": "Generally no. New South Wales food-safety rules keep pets out of indoor dining areas, but dogs are widely welcome on terraces, in courtyards, and in beer gardens. Sydney's outdoor dining culture is so extensive that this is rarely a limitation."},
-        {"q": "Do Sydney cafés provide water bowls for dogs?", "a": "Most dog-friendly cafés do, especially in the inner west and eastern suburbs. If you don't see one, just ask. Given the summer heat, staff are used to the request."},
-        {"q": "Which Sydney areas are best for dining out with a dog?", "a": "The inner west (Leichhardt, Newtown, Marrickville) and the eastern beaches and harbour suburbs (Watsons Bay, Rose Bay, Bondi) have the highest concentration of dog-welcoming venues."}
+        {
+          "q": "Can dogs go inside restaurants in Sydney?",
+          "a": "Generally no. New South Wales food-safety rules keep pets out of indoor dining areas, but dogs are widely welcome on terraces, in courtyards, and in beer gardens. Sydney's outdoor dining culture is so extensive that this is rarely a limitation."
+        },
+        {
+          "q": "Do Sydney cafés provide water bowls for dogs?",
+          "a": "Most dog-friendly cafés do, especially in the inner west and eastern suburbs. If you don't see one, just ask. Given the summer heat, staff are used to the request."
+        },
+        {
+          "q": "Which Sydney areas are best for dining out with a dog?",
+          "a": "The inner west (Leichhardt, Newtown, Marrickville) and the eastern beaches and harbour suburbs (Watsons Bay, Rose Bay, Bondi) have the highest concentration of dog-welcoming venues."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens peuvent-ils entrer dans les restaurants à Sydney ?", "a": "En général non. La réglementation d'hygiène alimentaire de Nouvelle-Galles du Sud interdit les animaux dans les salles intérieures, mais les chiens sont largement acceptés en terrasse, dans les cours et les beer gardens. La culture de la restauration en plein air de Sydney est si développée que c'est rarement une contrainte."},
-        {"q": "Les cafés de Sydney fournissent-ils des gamelles d'eau ?", "a": "La plupart des cafés dog-friendly le font, surtout dans l'inner west et les banlieues est. Si vous n'en voyez pas, demandez simplement. Avec la chaleur estivale, le personnel a l'habitude."},
-        {"q": "Quels quartiers de Sydney privilégier pour manger dehors avec un chien ?", "a": "L'inner west (Leichhardt, Newtown, Marrickville) ainsi que les plages est et les banlieues du port (Watsons Bay, Rose Bay, Bondi) concentrent le plus d'adresses accueillantes."}
+        {
+          "q": "Les chiens peuvent-ils entrer dans les restaurants à Sydney ?",
+          "a": "En général non. La réglementation d'hygiène alimentaire de Nouvelle-Galles du Sud interdit les animaux dans les salles intérieures, mais les chiens sont largement acceptés en terrasse, dans les cours et les beer gardens. La culture de la restauration en plein air de Sydney est si développée que c'est rarement une contrainte."
+        },
+        {
+          "q": "Les cafés de Sydney fournissent-ils des gamelles d'eau ?",
+          "a": "La plupart des cafés dog-friendly le font, surtout dans l'inner west et les banlieues est. Si vous n'en voyez pas, demandez simplement. Avec la chaleur estivale, le personnel a l'habitude."
+        },
+        {
+          "q": "Quels quartiers de Sydney privilégier pour manger dehors avec un chien ?",
+          "a": "L'inner west (Leichhardt, Newtown, Marrickville) ainsi que les plages est et les banlieues du port (Watsons Bay, Rose Bay, Bondi) concentrent le plus d'adresses accueillantes."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Pueden entrar los perros en los restaurantes de Sídney?", "a": "Por lo general no. Las normas de seguridad alimentaria de Nueva Gales del Sur no permiten mascotas en las zonas interiores, pero los perros son muy bienvenidos en terrazas, patios y beer gardens. La cultura de comer al aire libre de Sídney es tan amplia que rara vez es una limitación."},
-        {"q": "¿Los cafés de Sídney ofrecen cuencos de agua para perros?", "a": "La mayoría de los cafés dog-friendly sí, sobre todo en el inner west y los suburbios del este. Si no ves uno, pídelo sin problema. Con el calor del verano, el personal está acostumbrado."},
-        {"q": "¿Qué zonas de Sídney son mejores para comer fuera con perro?", "a": "El inner west (Leichhardt, Newtown, Marrickville) y las playas del este y suburbios del puerto (Watsons Bay, Rose Bay, Bondi) concentran la mayor oferta de locales que admiten perros."}
+        {
+          "q": "¿Pueden entrar los perros en los restaurantes de Sídney?",
+          "a": "Por lo general no. Las normas de seguridad alimentaria de Nueva Gales del Sur no permiten mascotas en las zonas interiores, pero los perros son muy bienvenidos en terrazas, patios y beer gardens. La cultura de comer al aire libre de Sídney es tan amplia que rara vez es una limitación."
+        },
+        {
+          "q": "¿Los cafés de Sídney ofrecen cuencos de agua para perros?",
+          "a": "La mayoría de los cafés dog-friendly sí, sobre todo en el inner west y los suburbios del este. Si no ves uno, pídelo sin problema. Con el calor del verano, el personal está acostumbrado."
+        },
+        {
+          "q": "¿Qué zonas de Sídney son mejores para comer fuera con perro?",
+          "a": "El inner west (Leichhardt, Newtown, Marrickville) y las playas del este y suburbios del puerto (Watsons Bay, Rose Bay, Bondi) concentran la mayor oferta de locales que admiten perros."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães podem entrar nos restaurantes em Sydney?", "a": "Em geral não. As regras de segurança alimentar de Nova Gales do Sul não permitem animais nas zonas interiores, mas os cães são muito bem-vindos em esplanadas, pátios e beer gardens. A cultura de refeições ao ar livre de Sydney é tão vasta que isto raramente é uma limitação."},
-        {"q": "Os cafés de Sydney oferecem taças de água para cães?", "a": "A maioria dos cafés dog-friendly oferece, sobretudo no inner west e nos subúrbios a leste. Se não vir uma, basta pedir. Com o calor do verão, o pessoal está habituado ao pedido."},
-        {"q": "Que zonas de Sydney são melhores para comer fora com um cão?", "a": "O inner west (Leichhardt, Newtown, Marrickville) e as praias a leste e subúrbios do porto (Watsons Bay, Rose Bay, Bondi) concentram a maior oferta de locais que aceitam cães."}
+        {
+          "q": "Os cães podem entrar nos restaurantes em Sydney?",
+          "a": "Em geral não. As regras de segurança alimentar de Nova Gales do Sul não permitem animais nas zonas interiores, mas os cães são muito bem-vindos em esplanadas, pátios e beer gardens. A cultura de refeições ao ar livre de Sydney é tão vasta que isto raramente é uma limitação."
+        },
+        {
+          "q": "Os cafés de Sydney oferecem taças de água para cães?",
+          "a": "A maioria dos cafés dog-friendly oferece, sobretudo no inner west e nos subúrbios a leste. Se não vir uma, basta pedir. Com o calor do verão, o pessoal está habituado ao pedido."
+        },
+        {
+          "q": "Que zonas de Sydney são melhores para comer fora com um cão?",
+          "a": "O inner west (Leichhardt, Newtown, Marrickville) e as praias a leste e subúrbios do porto (Watsons Bay, Rose Bay, Bondi) concentram a maior oferta de locais que aceitam cães."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Sydney",
+      "introDe": "Sydney hat eine der entspanntesten Outdoor-Restaurantkulturen der Welt, und Hunde sind ein selbstverständlicher Teil davon. Durch das warme Klima der Stadt sind Innenhöfe, Gartencafés und Biergärten am Hafen fast das ganze Jahr über geöffnet, und die meisten setzen einen angeleinten, wohlerzogenen Hund gerne auf der Terrasse dazu. Grundsätzlich bleiben Hunde in den Außenbereichen: Die Lebensmittelsicherheitsvorschriften von New South Wales halten Haustiere aus den Innenräumen der Restaurants fern, doch die Outdoor-Szene ist so umfangreich, dass dies selten eine Einschränkung darstellt. Der Inner West und die östlichen Vororte sind am hundefreundlichsten, wo oft schon vor der Bestellung eine Wasserschale gebracht wird. Die folgenden drei Orte sind zuverlässig und wirklich hundefreundlich.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde in Sydney in Restaurants hinein?",
+          "a": "Im Allgemeinen nicht. Die Lebensmittelsicherheitsvorschriften von New South Wales halten Haustiere aus den Innenräumen fern, aber Hunde sind auf Terrassen, in Innenhöfen und Biergärten weithin willkommen. Sydneys Outdoor-Restaurantkultur ist so umfangreich, dass dies selten eine Einschränkung ist."
+        },
+        {
+          "q": "Stellen Cafés in Sydney Wasserschalen für Hunde bereit?",
+          "a": "Die meisten hundefreundlichen Cafés tun das, besonders im Inner West und in den östlichen Vororten. Wenn Sie keine sehen, fragen Sie einfach. Angesichts der Sommerhitze ist das Personal an diese Bitte gewöhnt."
+        },
+        {
+          "q": "Welche Gegenden Sydneys eignen sich am besten zum Essengehen mit Hund?",
+          "a": "Der Inner West (Leichhardt, Newtown, Marrickville) und die östlichen Strand- und Hafenvororte (Watsons Bay, Rose Bay, Bondi) haben die höchste Dichte an hundefreundlichen Lokalen."
+        }
       ]
     }
   }

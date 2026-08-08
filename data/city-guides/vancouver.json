@@ -39,7 +39,11 @@
           "tipFr": "Venez en dehors des heures de pointe pour une table en terrasse avec un chien, car elle se remplit vite les jours ensoleillés.",
           "tipEs": "Llega fuera de las horas punta para conseguir mesa en la terraza con perro, porque se llena rápido los días soleados.",
           "tipPt": "Chegue fora das horas de ponta para uma mesa na esplanada com cão, porque enche depressa nos dias de sol.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Tap+and+Barrel+Olympic+Village+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Tap+and+Barrel+Olympic+Village+Vancouver",
+          "descriptionDe": "Ein großes Restaurant und eine Bar am Wasser entlang der False-Creek-Uferpromenade, von Vancouvers Restaurantführern als eine der zuverlässigsten hundefreundlichen Terrassen der Stadt gelistet, mit Personal, das Hunden Wassernäpfe bringt. Die breite Terrasse blickt über das Wasser auf die Skyline der Innenstadt und liegt direkt an einer beliebten Uferpromenaden-Route.",
+          "petPolicyDe": "Angeleinte Hunde auf der Außenterrasse willkommen; der Innenbereich ist nicht hundefreundlich. Bestätigen Sie die aktuelle Richtlinie vor Ihrem Besuch.",
+          "mustTryDe": "Ein Drink auf der Terrasse bei Sonnenuntergang über dem False Creek.",
+          "tipDe": "Kommen Sie außerhalb der Stoßzeiten für einen Terrassentisch mit Hund, da die Terrasse an sonnigen Tagen schnell voll wird."
         },
         {
           "name": "Brassneck Brewery",
@@ -65,7 +69,11 @@
           "tipFr": "La salle est compacte : un chien calme en laisse courte rend la visite facile pour tout le monde.",
           "tipEs": "La sala es compacta, así que un perro tranquilo con correa corta hace la visita fácil para todos.",
           "tipPt": "A sala é compacta, por isso um cão calmo com trela curta torna a visita fácil para todos.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Brassneck+Brewery+Main+Street+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Brassneck+Brewery+Main+Street+Vancouver",
+          "descriptionDe": "Eine der beliebtesten Craft-Brauereien Vancouvers in Mount Pleasant, wiederholt unter den hundefreundlichen Orten der Stadt gelistet, wo angeleinte Hunde im Verkostungsraum willkommen sind. Es ist ein unaufgeregter, lokaler Ort für ein Bier in kleinen Chargen nach einem Spaziergang die Main Street entlang.",
+          "petPolicyDe": "Angeleinte, wohlerzogene Hunde im Verkostungsraum willkommen; halten Sie sie nah bei sich, da der Raum klein ist. Bestätigen Sie vor Ihrem Besuch.",
+          "mustTryDe": "Ein frisches Bier in kleiner Charge von der wechselnden Zapfliste.",
+          "tipDe": "Der Raum ist klein, daher macht ein ruhiger Hund an kurzer Leine den Besuch für alle einfacher."
         },
         {
           "name": "Bridges Restaurant",
@@ -91,7 +99,11 @@
           "tipFr": "La terrasse est saisonnière : elle est au mieux de la fin du printemps au début de l'automne.",
           "tipEs": "La terraza es estacional, así que está mejor de finales de primavera a principios de otoño.",
           "tipPt": "O terraço é sazonal, por isso está melhor do fim da primavera ao início do outono.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Bridges+Restaurant+Granville+Island+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Bridges+Restaurant+Granville+Island+Vancouver",
+          "descriptionDe": "Das markante gelbe Gebäude auf Granville Island, dessen große Terrasse am Wasser über dem False Creek zu Vancouvers hundefreundlichen Terrassen zählt, auf denen angeleinte Hunde bei Ihnen sitzen dürfen. Es verbindet einen Blick auf die Marina und Meeresfrüchte mit einem einfachen Stopp bei einem Spaziergang über Granville Island.",
+          "petPolicyDe": "Angeleinte Hunde auf der Außenterrasse am Wasser willkommen, nicht im Innenbereich. Bestätigen Sie die saisonalen Öffnungszeiten der Terrasse vor Ihrem Besuch.",
+          "mustTryDe": "Fish and Chips auf dem Deck an der Marina.",
+          "tipDe": "Die Terrasse ist saisonal geöffnet, am besten von spätem Frühling bis frühem Herbst."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "As esplanadas que aceitam cães oferecem tigelas de água?",
           "a": "Muitas oferecem, e o pessoal de sítios como o Tap & Barrel é conhecido por trazer água aos cães, mas não é garantido. Leve uma tigela dobrável para que o seu cão possa beber em cada paragem."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants & Cafés in Vancouver",
+      "introDe": "Vancouvers Hundeszene spielt sich auf den Terrassen ab: Angeleinte Hunde sind auf Außenterrassen und Brauereiterrassen weithin willkommen, auch wenn die Gesundheitsvorschriften der Provinz sie von den Innenbereichen der Restaurants fernhalten. Zielen Sie auf die Uferpromenade und die Brauereiviertel, und fragen Sie immer nach der Terrasse und bestätigen Sie die aktuelle Richtlinie bei Ihrer Ankunft.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund mit in ein Restaurant in Vancouver nehmen?",
+          "a": "In der Regel nicht. Die Gesundheitsvorschriften von British Columbia halten Hunde von den Innenbereichen der Restaurants fern, zielen Sie also auf Außenterrassen, wo angeleinte Hunde weithin willkommen sind. Fragen Sie immer nach der Terrasse und bestätigen Sie die aktuelle Richtlinie des Lokals."
+        },
+        {
+          "q": "Welche Gegenden Vancouvers eignen sich am besten zum Essengehen mit Hund?",
+          "a": "Die Uferpromenaden von False Creek und Coal Harbour verfügen über große hundefreundliche Terrassen, und die Brauereiviertel Mount Pleasant und East Van heißen Hunde in vielen Verkostungsräumen und auf Terrassen willkommen. Auch Granville Island hat Terrassen am Wasser."
+        },
+        {
+          "q": "Bieten hundefreundliche Terrassen Wassernäpfe an?",
+          "a": "Viele schon, und das Personal an Orten wie Tap & Barrel ist dafür bekannt, Hunden Wasser zu bringen, aber das ist nicht garantiert. Nehmen Sie einen faltbaren Napf mit, damit Ihr Hund trinken kann, wann immer Sie anhalten."
+        }
       ]
     },
     "parks": {
@@ -205,7 +233,11 @@
           "tipFr": "Gardez votre chien en laisse sur la digue, très fréquentée par les cyclistes et les patineurs.",
           "tipEs": "Mantén al perro con correa en el malecón, muy usado por ciclistas y patinadores.",
           "tipPt": "Mantenha o cão à trela no passeio marítimo, muito usado por ciclistas e patinadores.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Stanley+Park+off-leash+dog+area+Ceperley+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Stanley+Park+off-leash+dog+area+Ceperley+Vancouver",
+          "descriptionDe": "Der Stanley Park verfügt über eine ausgewiesene Freilauffläche in einer schattigen Ecke nahe dem Ceperley Field beim Second Beach, ein ruhiger Ort, um einen Hund im berühmtesten Park der Stadt laufen zu lassen. Außerhalb dieser eingezäunten Zone gilt im gesamten 405 Hektar großen Park, einschließlich der Uferpromenade, strikte Leinenpflicht.",
+          "petPolicyDe": "Nur innerhalb der ausgewiesenen eingezäunten Fläche freilauffähig; der übrige Stanley Park, einschließlich der Uferpromenade, ist anleinpflichtig. Die meisten Parkstrände sind im Sommer für Hunde gesperrt.",
+          "mustTryDe": "Ein angeleinter Spaziergang auf der Uferpromenade, gefolgt von Freilaufzeit bei Ceperley.",
+          "tipDe": "Halten Sie Ihren Hund auf der Uferpromenade angeleint, da diese stark von Radfahrern und Inlineskatern genutzt wird."
         },
         {
           "name": "Pacific Spirit Regional Park",
@@ -231,7 +263,11 @@
           "tipFr": "Ne détachez votre chien que là où vous le gardez sous contrôle à la voix, car les sentiers se croisent et des cyclistes passent.",
           "tipEs": "Suelta al perro solo donde puedas mantenerlo bajo control por voz, porque los senderos se cruzan y pasan ciclistas.",
           "tipPt": "Só solte o cão onde o consiga manter sob controlo por voz, porque os trilhos cruzam-se e passam ciclistas.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Pacific+Spirit+Regional+Park+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Pacific+Spirit+Regional+Park+Vancouver",
+          "descriptionDe": "Ein riesiger Waldpark von über 750 Hektar neben der UBC, durchzogen von Wegen durch sekundären Waldbestand und bei lokalen Hundehaltern sehr beliebt. Viele seiner Wege erlauben Freilauf unter Sichtkontrolle, was ihn zum bevorzugten Ort für einen richtigen Waldlauf innerhalb der Stadt macht.",
+          "petPolicyDe": "Freilauf auf vielen Wegen unter zuverlässiger Rufkontrolle erlaubt; einige Wege sind ausschließlich anleinpflichtig, achten Sie auf die angebrachten Schilder.",
+          "mustTryDe": "Eine lange, schattige Runde durch die Waldwege an einem heißen Tag.",
+          "tipDe": "Lassen Sie Ihren Hund nur dort ohne Leine laufen, wo Sie ihn unter Rufkontrolle halten können, da sich Wege kreuzen und Radfahrer vorbeikommen."
         },
         {
           "name": "John Hendry Park (Trout Lake)",
@@ -257,7 +293,11 @@
           "tipFr": "Trout Lake peut faire l'objet d'alertes aux algues en été : vérifiez les avis affichés avant de laisser votre chien nager.",
           "tipEs": "Trout Lake puede tener avisos de algas en verano, así que comprueba los carteles antes de dejar nadar a tu perro.",
           "tipPt": "Trout Lake pode ter avisos de algas no verão, por isso verifique os avisos afixados antes de deixar o cão nadar.",
-          "googleMapsUrl": "https://www.google.com/maps/search/John+Hendry+Park+Trout+Lake+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/John+Hendry+Park+Trout+Lake+Vancouver",
+          "descriptionDe": "Dieser Park in East Vancouver rund um den Trout Lake verfügt über eine der beliebtesten eingezäunten Freilaufflächen der Stadt sowie einen ausgewiesenen Hundeschwimmbereich am Seeufer. Es ist ein geselliger, grüner Treffpunkt, an dem sich das ganze Jahr über lokale Hunde versammeln, mit einem Bauernmarkt in der Saison nebenan.",
+          "petPolicyDe": "Eingezäunte Freilauffläche sowie ein markierter Hundeschwimmbereich am See; anderswo im Park anleinpflichtig. Spülen Sie Ihren Hund nach einem Bad im See ab.",
+          "mustTryDe": "Ein sommerliches Bad für wasserliebende Hunde im markierten Seebereich.",
+          "tipDe": "Am Trout Lake kann es im Sommer Algenwarnungen geben, prüfen Sie daher die angebrachten Hinweise, bevor Sie Ihren Hund schwimmen lassen."
         }
       ],
       "tipsEn": [
@@ -335,6 +375,22 @@
           "q": "Há limites de horário nas áreas sem trela de Vancouver?",
           "a": "Muitas vezes, sim. Muitas áreas não vedadas permitem andar sem trela apenas a certas horas, normalmente antes das 10h e depois das 17h, e algumas zonas de praia são sazonais. Leia sempre a placa à entrada do parque."
         }
+      ],
+      "titleDe": "Die besten Parks und Hundeauslaufflächen in Vancouver",
+      "introDe": "Vancouver verfügt über mehr als dreißig ausgewiesene Freilaufflächen, die vom Park Board betrieben werden, von eingezäunten Stadtparks bis zu weitläufigen Waldwegen. Überall sonst, einschließlich der Stanley-Park-Uferpromenade, müssen Hunde angeleint bleiben, und die Bußgelder bei einem Verstoß gegen die Verordnung sind hoch, daher lohnt es sich zu wissen, welche Zonen freilauffähig sind und wann.",
+      "faqsDe": [
+        {
+          "q": "Wo darf mein Hund in Vancouver ohne Leine laufen?",
+          "a": "Nur innerhalb der vom Park Board ausgewiesenen Freilaufflächen, von denen es mehr als dreißig gibt, von eingezäunten Stadtparks wie Trout Lake bis zu Waldwegen im Pacific Spirit Park. Überall sonst, einschließlich der Stanley-Park-Uferpromenade, müssen Hunde angeleint sein."
+        },
+        {
+          "q": "Ist die Stanley-Park-Uferpromenade eine Freilauffläche?",
+          "a": "Nein. Die Uferpromenade und fast der gesamte Stanley Park sind strikt anleinpflichtig; es gibt nur eine kleine eingezäunte Freilauffläche in der Nähe des Ceperley Field. Die meisten Parkstrände sind im Sommer zudem für Hunde gesperrt."
+        },
+        {
+          "q": "Gibt es zeitliche Beschränkungen für Vancouvers Freilaufflächen?",
+          "a": "Oft ja. Viele nicht eingezäunte Bereiche erlauben Freilauf nur zu bestimmten Zeiten, üblicherweise vor 10 Uhr und nach 17 Uhr, und einige Strand-Freilaufzonen sind saisonal. Lesen Sie immer das am Parkeingang angebrachte Schild."
+        }
       ]
     },
     "beaches": {
@@ -371,7 +427,11 @@
           "tipFr": "Le rivage est rocheux par endroits : des bottines protègent les coussinets sensibles à marée basse.",
           "tipEs": "La orilla es rocosa en algunos tramos, así que unas botitas ayudan a las almohadillas sensibles con marea baja.",
           "tipPt": "A orla é rochosa em alguns pontos, por isso umas botinhas ajudam as almofadinhas sensíveis na maré baixa.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Spanish+Banks+off-leash+dog+beach+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Spanish+Banks+off-leash+dog+beach+Vancouver",
+          "descriptionDe": "Das äußerste westliche Ende von Spanish Banks verfügt über eine große ausgewiesene Freilaufzone an einer felsigen Gezeitenküste mit einigen der besten Sonnenuntergangs- und Bergblicke der Stadt. Es ist ein ruhigerer, weitläufiger Abschnitt abseits der Menschenmengen, den lokale Hundehalter bevorzugen.",
+          "petPolicyDe": "Ausgewiesener Freilaufstrand; der Zugang ist saisonal, in der Regel von etwa September bis April erlaubt, prüfen Sie die aktuelle Beschilderung.",
+          "mustTryDe": "Ein Spaziergang bei Ebbe über die Wattflächen, während die Sonne hinter den Bergen untergeht.",
+          "tipDe": "Die Küste ist stellenweise felsig, daher helfen Hundeschuhe empfindlichen Pfoten bei Ebbe."
         },
         {
           "name": "Sunset Beach Park (dog area)",
@@ -397,7 +457,11 @@
           "tipFr": "L'endroit est animé et central : un bon rappel garde les choses fluides autour des autres promeneurs.",
           "tipEs": "Es concurrida y céntrica, así que una buena llamada mantiene todo tranquilo entre los demás bañistas.",
           "tipPt": "É movimentada e central, por isso um bom chamamento mantém tudo tranquilo entre os outros banhistas.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Sunset+Beach+Park+dog+area+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Sunset+Beach+Park+dog+area+Vancouver",
+          "descriptionDe": "Einer der wenigen hundefreundlichen Strände in der Innenstadt von Vancouver, Sunset Beach verfügt über eine ausgewiesene Freilaufzone nur wenige Schritte vom West End entfernt mit weiten Blicken über die English Bay. Es ist der am besten zu Fuß erreichbare Hundestrand für alle, die in der Innenstadt übernachten, direkt an der Uferpromenade.",
+          "petPolicyDe": "Ausgewiesene Freilauffläche innerhalb des Parks; es gelten teils saisonale oder zeitliche Beschränkungen, prüfen Sie die angebrachten Schilder.",
+          "mustTryDe": "Sonnenuntergang über der English Bay mit den Booten auf dem Wasser.",
+          "tipDe": "Es ist belebt und zentral gelegen, daher sorgt ein zuverlässiger Rückruf für einen reibungslosen Ablauf unter anderen Strandbesuchern."
         },
         {
           "name": "Hadden Park (Kitsilano)",
@@ -423,7 +487,11 @@
           "tipFr": "Ne dérivez pas vers Kits Beach avec votre chien : c'est une plage sans chiens distincte, juste à côté.",
           "tipEs": "No te desvíes hacia Kits Beach con tu perro, porque es una playa sin perros aparte, justo al lado.",
           "tipPt": "Não derive para a Kits Beach com o seu cão, porque é uma praia sem cães à parte, mesmo ao lado.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Hadden+Park+off-leash+Kitsilano+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Hadden+Park+off-leash+Kitsilano+Vancouver",
+          "descriptionDe": "Neben dem Vancouver Maritime Museum in Kitsilano verfügt der Hadden Park über eine ausgewiesene Freilaufküste mit Grünfläche und einem kleinen Strand mit Blick zurück auf die Skyline der Innenstadt. Es ist eine einfache Ergänzung zu einem Spaziergang in Kitsilano, auch wenn der beliebte Kits Beach selbst für Hunde tabu ist.",
+          "petPolicyDe": "Ausgewiesene Freilauffläche mit saisonalen und zeitlichen Beschränkungen; auf den Verbindungswegen anleinpflichtig. Der Kitsilano Beach selbst erlaubt keine Hunde.",
+          "mustTryDe": "Ein Skyline-Foto von der Grünfläche aus mit einem Totempfahl in der Nähe.",
+          "tipDe": "Weichen Sie mit Ihrem Hund nicht zum Kits Beach ab, da dieser ein separater, hundefreier Strand direkt nebenan ist."
         }
       ],
       "tipsEn": [
@@ -501,6 +569,22 @@
           "q": "As praias caninas de Vancouver são sem trela?",
           "a": "As zonas de praia designadas são sem trela, mas ficam dentro de parques que de resto são à trela, e algumas têm horários. Mantenha o cão à trela até estar claramente dentro da zona sem trela sinalizada."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Vancouver",
+      "introDe": "Hunde sind am Ufer nur an einer kurzen offiziellen Liste ausgewiesener Freilaufstrände erlaubt, mehrere davon mit saisonalen oder zeitlichen Beschränkungen. Vancouvers beliebte Strände in der Innenstadt und im Stanley Park (Second, Third, English Bay) verbieten Hunde im Sommer, gehen Sie also für einen richtigen Strandtag mit Ihrem Hund zu den unten genannten Orten.",
+      "faqsDe": [
+        {
+          "q": "Welche Strände in Vancouver erlauben Hunde?",
+          "a": "Hunde sind nur an den ausgewiesenen Freilaufstränden der Stadt erlaubt: der westlichen Erweiterung von Spanish Banks, Sunset Beach, Hadden Park, New Brighton Park und John Hendry Park (Trout Lake). Beliebte Strände wie Kitsilano, English Bay und die Stanley-Park-Strände erlauben keine Hunde."
+        },
+        {
+          "q": "Dürfen Hunde im Sommer an den Strand in Vancouver?",
+          "a": "Der Zugang ist im Sommer eingeschränkt. Mehrere Freilaufzonen am Strand sind saisonal und hauptsächlich in den kühleren Monaten für Hunde geöffnet, und die belebten zentralen Strände verbieten Hunde im Sommer vollständig. Prüfen Sie vor Ort immer die aktuell angebrachten Schilder."
+        },
+        {
+          "q": "Sind Vancouvers Hundestrände Freilaufzonen?",
+          "a": "Die ausgewiesenen Strandbereiche sind Freilaufzonen, liegen aber innerhalb ansonsten anleinpflichtiger Parks, und einige haben zeitliche Beschränkungen. Halten Sie Ihren Hund angeleint, bis Sie sich eindeutig innerhalb der markierten Freilaufzone befinden."
+        }
       ]
     },
     "transport": {
@@ -537,7 +621,11 @@
           "tipFr": "Si votre chien est trop grand pour un sac sur les genoux, prévoyez des taxis ou une voiture de location, car le transport en commun n'est pas une option.",
           "tipEs": "Si tu perro es demasiado grande para un transportín de regazo, presupuesta taxis o un coche de alquiler, porque el transporte público no es una opción.",
           "tipPt": "Se o seu cão for grande demais para uma bolsa de colo, orce táxis ou um carro de aluguer, porque o transporte público não é uma opção.",
-          "googleMapsUrl": "https://www.google.com/maps/search/TransLink+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/TransLink+Vancouver",
+          "descriptionDe": "TransLink betreibt SkyTrain, Busse und die SeaBus der Region, doch die Haustierregel ist strikt: Nur zertifizierte Assistenzhunde und kleine Haustiere in einer vollständig geschlossenen Handtragebox auf dem Schoß sind erlaubt. Das bedeutet, dass ein mittelgroßer oder großer Haushund den öffentlichen Nahverkehr hier faktisch nicht nutzen kann.",
+          "petPolicyDe": "Nur Assistenzhunde und kleine Haustiere in einer vollständig geschlossenen Handtragebox auf dem Schoß; ein Haustier pro Person. Keine Hundewagen, und Haustiere sind bei HandyDART nicht erlaubt.",
+          "mustTryDe": "Für einen tragebox-tauglichen kleinen Hund eine Fahrt mit dem SkyTrain außerhalb der Stoßzeiten statt zur Rushhour.",
+          "tipDe": "Wenn Ihr Hund zu groß für eine Schoßtragebox ist, planen Sie ein Budget für Taxis oder einen Mietwagen ein, da der Nahverkehr keine Option ist."
         },
         {
           "name": "Aquabus & False Creek Ferries",
@@ -563,7 +651,11 @@
           "tipFr": "Montez calmement et portez un petit chien anxieux à l'embarquement et au débarquement, car les bateaux peuvent tanguer au quai.",
           "tipEs": "Embarca con calma y coge en brazos a un perro pequeño nervioso al subir y bajar, porque las embarcaciones pueden balancearse en el muelle.",
           "tipPt": "Embarque com calma e pegue ao colo um cão pequeno nervoso ao subir e descer, porque os barcos podem balançar no cais.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Aquabus+False+Creek+Ferries+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Aquabus+False+Creek+Ferries+Vancouver",
+          "descriptionDe": "Die kleinen, regenbogenfarbenen Fähren, die den False Creek durchqueren, heißen angeleinte Hunde an Bord willkommen und verbinden Granville Island, Yaletown, den David Lam Park und Science World. Sie sind die hundefreundlichste Fahrt der Stadt und ein schöner Weg, um Granville Island ohne langen Fußweg zu erreichen.",
+          "petPolicyDe": "Angeleinte, wohlerzogene Hunde nach Ermessen des Betreibers an Bord willkommen; halten Sie Ihren Hund auf den kleinen Booten nah bei sich. Bestätigen Sie dies an belebten Tagen beim Betreiber.",
+          "mustTryDe": "Eine kurze Fahrt von Yaletown nach Granville Island mit dem Hund an Deck.",
+          "tipDe": "Steigen Sie ruhig ein und heben Sie einen ängstlichen kleinen Hund beim Ein- und Aussteigen, da die Boote am Anleger schaukeln können."
         }
       ],
       "tipsEn": [
@@ -641,6 +733,22 @@
           "q": "Os táxis e TVDE aceitam cães em Vancouver?",
           "a": "Muitos motoristas levam um cão à trela ou em bolsa, mas é ao critério deles, por isso mencione o cão ao reservar. Uma toalha ou manta para o banco e um cão calmo e limpo tornam um sim muito mais provável."
         }
+      ],
+      "titleDe": "Mit Hund in Vancouver unterwegs",
+      "introDe": "Der öffentliche Nahverkehr ist der knifflige Teil: TransLink erlaubt Hunde in SkyTrain, Bussen und der SeaBus nur, wenn sie in eine kleine, vollständig geschlossene Handtragebox passen, die Sie auf dem Schoß halten, mittelgroße und große Hunde können also nicht mitfahren. Planen Sie mit Fußwegen, einem Auto, hundefreundlichen Taxis oder Fahrdiensten sowie den leinenhundefreundlichen Aquabus-Fähren auf dem False Creek.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund im SkyTrain oder Bus in Vancouver mitnehmen?",
+          "a": "Nur wenn er in eine kleine, vollständig geschlossene Tragebox passt, die Sie auf dem Schoß halten, oder wenn es sich um einen zertifizierten Assistenzhund handelt. TransLink erlaubt angeleinte Haushunde nicht frei laufend in SkyTrain, Bussen oder der SeaBus, daher können mittelgroße und große Hunde nicht mitfahren."
+        },
+        {
+          "q": "Wie komme ich mit einem großen Hund in Vancouver herum?",
+          "a": "Planen Sie zu Fuß zu gehen, zu fahren oder ein hundefreundliches Taxi oder einen Fahrdienst zu nutzen, da der öffentliche Nahverkehr für größere Hunde keine Option ist. Die Aquabus und die False Creek Ferries heißen angeleinte Hunde für Fahrten rund um die False-Creek-Uferpromenade willkommen."
+        },
+        {
+          "q": "Sind Taxis und Fahrdienste in Vancouver hundefreundlich?",
+          "a": "Viele Fahrer nehmen einen angeleinten oder getragenen Hund mit, aber das liegt in ihrem Ermessen, erwähnen Sie den Hund also bei der Buchung. Ein Handtuch oder eine Decke für den Sitz sowie ein ruhiger, sauberer Hund erhöhen die Chancen auf ein Ja deutlich."
+        }
       ]
     },
     "vets": {
@@ -677,7 +785,11 @@
           "tipFr": "Téléphone : 604-473-4882. Appelez avant pour le tri, et préparez-vous aux coûts d'une visite d'urgence en dollars canadiens.",
           "tipEs": "Teléfono: 604-473-4882. Llama antes para el triaje y prepárate para los costes de una visita de urgencia en dólares canadienses.",
           "tipPt": "Telefone: 604-473-4882. Ligue antes para a triagem e prepare-se para os custos de uma visita de urgência em dólares canadianos.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Canada+West+Veterinary+Specialists+Kootenay+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Canada+West+Veterinary+Specialists+Kootenay+Vancouver",
+          "descriptionDe": "Eine große Fach- und Intensivtierklinik im Osten von Vancouver, deren Notfallabteilung 24 Stunden am Tag, 7 Tage die Woche, das ganze Jahr über geöffnet ist. Sie ist eines der wichtigsten Überweisungszentren der Region, daher ist es die Nummer, die man für einen ernsten Notfall außerhalb der regulären Zeiten gespeichert haben sollte.",
+          "petPolicyDe": "24/7-Notfall- und Facharztversorgung; rufen Sie vorher an, damit sich das Team auf Ihre Ankunft vorbereiten kann.",
+          "mustTryDe": "Speichern Sie sich die Nummer im Telefon, bevor Sie sie brauchen.",
+          "tipDe": "Telefon: 604-473-4882. Rufen Sie vorher an, damit eine Einschätzung erfolgen kann, und rechnen Sie mit Kosten für den Notfallbesuch in kanadischen Dollar."
         },
         {
           "name": "VCA Canada Vancouver Animal Emergency & Referral Centre",
@@ -703,7 +815,11 @@
           "tipFr": "Recherchez le numéro actuel et confirmez la disponibilité avant de partir, car l'accueil des urgences peut se faire par tri.",
           "tipEs": "Busca el número actual y confirma la disponibilidad antes de salir, porque la admisión de urgencias puede hacerse por triaje.",
           "tipPt": "Procure o número atual e confirme a disponibilidade antes de sair, porque a admissão de urgências pode ser feita por triagem.",
-          "googleMapsUrl": "https://www.google.com/maps/search/VCA+Canada+Vancouver+Animal+Emergency+Referral+Centre"
+          "googleMapsUrl": "https://www.google.com/maps/search/VCA+Canada+Vancouver+Animal+Emergency+Referral+Centre",
+          "descriptionDe": "Eine 24/7-Notfall- und Überweisungsklinik mit fachärztlich zertifizierten Spezialisten, Teil des VCA-Canada-Netzwerks, die rund um die Uhr dringende Versorgung in Vancouver bietet. Es ist eine nützliche zweite Option, die man sich neben Canada West für einen Notfall außerhalb der regulären Zeiten notieren sollte.",
+          "petPolicyDe": "24/7-Notfall- und Überweisungsversorgung; bestätigen Sie die aktuelle Adresse und Telefonnummer vor der Anfahrt.",
+          "mustTryDe": "Notieren Sie sie als Ausweichoption zu Canada West, falls dort kein Platz ist.",
+          "tipDe": "Suchen Sie die aktuelle Telefonnummer heraus und bestätigen Sie die Kapazität, bevor Sie losfahren, da die Notfallaufnahme priorisiert erfolgen kann."
         }
       ],
       "tipsEn": [
@@ -780,6 +896,22 @@
         {
           "q": "O que devo levar a uma urgência veterinária?",
           "a": "Leve a caderneta de vacinação e o historial médico do seu cão, os medicamentos atuais e uma nota do que aconteceu e quando. Ligar antes permite à equipa fazer a triagem e estar pronta à sua chegada."
+        }
+      ],
+      "titleDe": "Tiernotärzte und Tierkliniken in Vancouver",
+      "introDe": "Vancouver ist mit speziellen 24-Stunden-Fachkliniken und Notfallkliniken gut für Notfälle außerhalb der regulären Zeiten aufgestellt. Speichern Sie sich eine Nummer, bevor Sie sie brauchen, beachten Sie, dass ein Notfallbesuch in Kanada kostspielig sein kann, und bestätigen Sie Details telefonisch, da die Aufnahme nach Dringlichkeit priorisiert werden kann.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Vancouver einen 24-Stunden-Tiernotdienst?",
+          "a": "Ja. Canada West Veterinary Specialists in der 1988 Kootenay Street betreibt eine 24/7-Notfall- und Intensivabteilung (604-473-4882), und auch VCA Canada bietet in der Stadt eine 24/7-Notfallversorgung an. Rufen Sie an, bevor Sie hinfahren."
+        },
+        {
+          "q": "Wie viel kostet ein Tiernotarztbesuch in Vancouver?",
+          "a": "Notfall- und Facharztversorgung ist in Kanada privat organisiert und kann sich auf Hunderte bis Tausende von Dollar belaufen, die im Voraus zu zahlen sind. Halten Sie Angaben zu einer Tierkrankenversicherung oder eine Zahlkarte bereit, und fragen Sie bei Ihrem Anruf nach den voraussichtlichen Kosten."
+        },
+        {
+          "q": "Was sollte ich zu einem Tiernotfall mitbringen?",
+          "a": "Bringen Sie die Impf- und Krankenunterlagen Ihres Hundes, alle aktuellen Medikamente sowie eine Notiz mit, was passiert ist und wann. Ein vorheriger Anruf ermöglicht dem Team, den Fall einzuschätzen und bei Ihrer Ankunft vorbereitet zu sein."
         }
       ]
     },
@@ -872,6 +1004,22 @@
           "q": "Qual é a melhor altura para visitar Vancouver com um cão?",
           "a": "Do fim da primavera ao início do outono é o mais ameno e seco para esplanadas e passeio marítimo, enquanto do outono à primavera abrem várias praias sem trela fechadas aos cães no verão. Os invernos são amenos mas chuvosos, por isso leve equipamento de chuva."
         }
+      ],
+      "titleDe": "Wichtige Tipps für einen Besuch in Vancouver mit Hund",
+      "introDe": "Vancouver ist eine der hundefreundlichsten Städte Nordamerikas, sobald man sich auf zwei Dinge einstellt: strikte Regeln im Nahverkehr und einen Flickenteppich aus Freilauf- und saisonalen Strandverordnungen. Halten Sie Ihren Hund standardmäßig angeleint, lernen Sie, welche Zonen und Strände wann freilauffähig sind, und denken Sie daran, dass der meiste Spaß hier draußen ist, auf der Uferpromenade, den Wegen und den Terrassen.",
+      "faqsDe": [
+        {
+          "q": "Ist Vancouver eine hundefreundliche Stadt?",
+          "a": "Sehr, mit der Uferpromenade, Dutzenden Freilaufflächen, Waldwegen, Hundestränden und einer starken Terrassenkultur. Die Hauptprobleme sind strikte Nahverkehrsregeln für größere Hunde sowie saisonale oder zeitlich begrenzte Regeln für Freilaufzonen und Strände."
+        },
+        {
+          "q": "Wie lautet die Leinenpflicht in Vancouver?",
+          "a": "Hunde müssen überall angeleint sein, außer innerhalb der vom Park Board ausgewiesenen Freilaufflächen, und immer auf der Stanley-Park-Uferpromenade. Halter müssen den Kot ihrer Hunde entfernen, und Bußgelder bei einem Verstoß gegen die Verordnung beginnen bei 250 Dollar."
+        },
+        {
+          "q": "Wann ist die beste Zeit, um Vancouver mit einem Hund zu besuchen?",
+          "a": "Später Frühling bis früher Herbst ist am mildesten und trockensten für Terrassen und die Uferpromenade, während von Herbst bis Frühling mehrere Freilaufstrände zugänglich sind, die im Sommer für Hunde geschlossen sind. Die Winter sind mild, aber nass, packen Sie also Regenkleidung ein."
+        }
       ]
     },
     "attractions": {
@@ -908,7 +1056,11 @@
           "tipFr": "Marchez-y tôt pour éviter cyclistes et joggeurs, et emportez de l'eau car les fontaines sont espacées.",
           "tipEs": "Recórrelo temprano para evitar ciclistas y corredores, y lleva agua porque las fuentes están espaciadas.",
           "tipPt": "Percorra-o cedo para evitar ciclistas e corredores, e leve água porque as fontes estão espaçadas.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Stanley+Park+Seawall+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Stanley+Park+Seawall+Vancouver",
+          "descriptionDe": "Die Uferpromenade führt auf rund 9 Kilometern um den Stanley Park herum mit ständigem Blick auf das Wasser, die Berge und die Skyline der Innenstadt, und angeleinte Hunde sind auf der gesamten Strecke willkommen. Es ist der beste Hundespaziergang der Stadt und führt an Stränden, Totempfählen und der Lions Gate Bridge vorbei.",
+          "petPolicyDe": "Angeleinte Hunde auf der gesamten Uferpromenade willkommen; halten Sie sich rechts, da sie stark von Radfahrern genutzt wird. Die meisten Parkstrände sind im Sommer für Hunde gesperrt.",
+          "mustTryDe": "Der Abschnitt am Prospect Point und der Lions Gate Bridge vorbei.",
+          "tipDe": "Gehen Sie früh, um Radfahrern und Joggern zuvorzukommen, und nehmen Sie Wasser mit, da die Wasserstellen weit auseinander liegen."
         },
         {
           "name": "Granville Island",
@@ -934,7 +1086,11 @@
           "tipFr": "Une personne peut garder le chien dehors pendant qu'une autre entre au marché, interdit aux chiens.",
           "tipEs": "Una persona puede sujetar al perro fuera mientras otra entra al mercado, que no admite perros.",
           "tipPt": "Uma pessoa pode segurar o cão lá fora enquanto outra entra no mercado, que não aceita cães.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Granville+Island+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Granville+Island+Vancouver",
+          "descriptionDe": "Diese ehemalige Industriehalbinsel unter der Granville Bridge ist heute ein lebendiges Kunst- und Genussviertel, am besten mit Hund über die leinenhundefreundliche Aquabus zu erreichen. Hunde dürfen nicht in den Public Market hinein, sind aber auf den Uferwegen und Terrassen willkommen, und es gibt sogar eine eigene Hundebäckerei.",
+          "petPolicyDe": "Angeleinte Hunde im Freien und auf Terrassen willkommen, aber nicht im Gebäude des Public Market. Die Aquabus von der Innenstadt herüber nimmt angeleinte Hunde mit.",
+          "mustTryDe": "Ein Leckerli aus der Hundebäckerei der Insel nach einer Aquabus-Fahrt.",
+          "tipDe": "Eine Person kann den Hund draußen halten, während die andere kurz in den hundefreien Markt geht."
         },
         {
           "name": "Capilano Suspension Bridge Park",
@@ -960,7 +1116,11 @@
           "tipFr": "Un chien anxieux peut refuser le pont qui oscille : jugez le tempérament de votre chien avant de vous lancer dans la traversée.",
           "tipEs": "Un perro nervioso puede resistirse al puente que se balancea, así que valora el carácter de tu perro antes de decidir cruzar.",
           "tipPt": "Um cão nervoso pode recusar a ponte que baloiça, por isso avalie o temperamento do seu cão antes de decidir atravessar.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Capilano+Suspension+Bridge+Park+North+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Capilano+Suspension+Bridge+Park+North+Vancouver",
+          "descriptionDe": "Eine der bekanntesten Attraktionen der Region, an der eine 140 Meter lange Hängebrücke hoch über der Schlucht des Capilano River im Regenwald der North Shore schwankt. Angeleinte Hunde dürfen die Brücke überqueren und das Gelände begehen, jedoch nicht den Raptors-Ridge-Greifvogelbereich oder den Souvenirshop betreten.",
+          "petPolicyDe": "Angeleinte Hunde auf der Brücke und dem Gelände erlaubt, jedoch nicht im Raptors-Ridge-Bereich oder im Souvenirshop. Bestätigen Sie vor Ihrem Besuch die aktuellen Haustierregeln und den Eintritt.",
+          "mustTryDe": "Die Überquerung der Hauptbrücke mit der Schlucht und dem Regenwald darunter.",
+          "tipDe": "Ein ängstlicher Hund könnte vor der schwankenden Brücke zurückschrecken, beurteilen Sie also das Temperament Ihres Hundes, bevor Sie sich zur Überquerung entschließen."
         }
       ],
       "tipsEn": [
@@ -1038,6 +1198,22 @@
           "q": "Os cães podem atravessar a ponte suspensa de Capilano?",
           "a": "Sim, os cães à trela podem atravessar a ponte e percorrer quase todo o recinto, embora não a zona de aves de rapina Raptors Ridge nem a loja. Confirme primeiro as regras e a entrada em vigor, e desista se o seu cão ficar inquieto numa ponte que baloiça."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten und Aktivitäten in Vancouver",
+      "introDe": "Das Beste an Vancouver mit Hund ist die Natur: die Stanley-Park-Uferpromenade, die Uferwege von Granville Island und sogar eine Hängebrücke heißen angeleinte Hunde willkommen. Innenmuseen und das Innere der Granville Island Market Halle sind tabu, bauen Sie den Tag also um Spaziergänge, Aussichtspunkte und Terrassen herum auf.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund auf der Stanley-Park-Uferpromenade mitnehmen?",
+          "a": "Ja, angeleinte Hunde sind auf der gesamten Uferpromenade willkommen, einem der besten Stadtspaziergänge mit Hund überhaupt. Halten Sie sich auf der Gehseite rechts, da die Uferpromenade stark von Radfahrern und Inlineskatern frequentiert wird."
+        },
+        {
+          "q": "Sind Hunde auf Granville Island erlaubt?",
+          "a": "Angeleinte Hunde sind in den Außenbereichen und auf vielen Terrassen willkommen, und die Aquabus von der Innenstadt herüber nimmt Hunde mit, aber sie dürfen nicht in das Gebäude des Public Market. Es gibt sogar eine eigene Hundebäckerei auf der Insel."
+        },
+        {
+          "q": "Dürfen Hunde die Capilano Suspension Bridge überqueren?",
+          "a": "Ja, angeleinte Hunde dürfen die Brücke überqueren und den größten Teil des Geländes begehen, jedoch nicht den Raptors-Ridge-Greifvogelbereich oder den Souvenirshop. Bestätigen Sie vorab die aktuellen Regeln und den Eintritt, und verzichten Sie darauf, wenn Ihr Hund auf einer schwankenden Brücke unsicher ist."
+        }
       ]
     },
     "petsitting": {
@@ -1074,7 +1250,11 @@
           "tipFr": "Réservez à l'avance en été et pendant les fêtes, et préparez le carnet de vaccination pour l'évaluation.",
           "tipEs": "Reserva con antelación en verano y en fiestas, y ten lista la cartilla de vacunación para la evaluación.",
           "tipPt": "Reserve com antecedência no verão e nas festas, e tenha a caderneta de vacinação pronta para a avaliação.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Jet+Pet+Resort+Olympic+Village+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/Jet+Pet+Resort+Olympic+Village+Vancouver",
+          "descriptionDe": "Eine bekannte Fünf-Sterne-Einrichtung für Hundeunterbringung und Tagesbetreuung in Olympic Village mit Innenspielräumen und einem großen eingezäunten Außenbereich, plus weiteren Standorten an der North Shore und in der Nähe des YVR-Flughafens. Sie hat lange Öffnungszeiten an jedem Tag des Jahres, was für Reisende mit engem Zeitplan geeignet ist.",
+          "petPolicyDe": "Unterbringung und Tagesbetreuung nach Buchung; ein Impfnachweis und eine Beurteilung sind in der Regel erforderlich. Bestätigen Sie Anforderungen und Verfügbarkeit im Voraus.",
+          "mustTryDe": "Ein Tagesbetreuungstag, damit Ihr Hund Energie abbaut, während Sie hundefreie Sehenswürdigkeiten erkunden.",
+          "tipDe": "Buchen Sie im Sommer und rund um Feiertage im Voraus, und halten Sie die Impfunterlagen für die Beurteilung bereit."
         },
         {
           "name": "Rover (Vancouver sitters & walkers)",
@@ -1100,7 +1280,11 @@
           "tipFr": "Lisez les avis récents et vérifiez que le gardien est à l'aise avec la taille et l'énergie de votre chien avant de vous engager.",
           "tipEs": "Lee las reseñas recientes y confirma que el cuidador se siente cómodo con el tamaño y la energía de tu perro antes de comprometerte.",
           "tipPt": "Leia as avaliações recentes e confirme que o cuidador está à vontade com o tamanho e a energia do seu cão antes de se comprometer.",
-          "googleMapsUrl": "https://www.google.com/maps/search/dog+sitters+Vancouver"
+          "googleMapsUrl": "https://www.google.com/maps/search/dog+sitters+Vancouver",
+          "descriptionDe": "Rover ist die weit verbreitete Plattform, die Reisende mit lokalen Hundesittern, Gassigehern und Unterbringung bei Privatpersonen in ganz Vancouver verbindet, mit Bewertungen, Fotos und Versicherung bei Buchungen. Es ist die flexible Option für einen einzelnen Spaziergang, einen Tag Betreuung oder Übernachtungsunterbringung im Zuhause eines Sitters.",
+          "petPolicyDe": "Sitter legen ihre eigenen Regeln fest; schreiben Sie vor der Buchung über Größe, Bedürfnisse und Impfungen Ihres Hundes. Treffen Sie den Sitter nach Möglichkeit vorher persönlich.",
+          "mustTryDe": "Ein Kennenlerntreffen, bevor Sie einen längeren Aufenthalt buchen.",
+          "tipDe": "Lesen Sie aktuelle Bewertungen und stellen Sie sicher, dass der Sitter mit der Größe und dem Energielevel Ihres Hundes zurechtkommt, bevor Sie sich festlegen."
         }
       ],
       "tipsEn": [
@@ -1177,6 +1361,22 @@
         {
           "q": "Os cuidadores de Vancouver pedem prova de vacinação?",
           "a": "As instalações e cuidadores sérios costumam exigir vacinas em dia contra a raiva e muitas vezes a tosse do canil, e podem fazer uma avaliação do temperamento. Viaje com a caderneta do seu cão para reservar sem demora."
+        }
+      ],
+      "titleDe": "Hundesitter, Gassigeher und Tierpensionen in Vancouver",
+      "introDe": "Vancouver verfügt über ein umfangreiches Angebot an professioneller Hundetagesbetreuung, Unterbringung und Gassi-Diensten für die Tage, an denen Sie Ihren Hund zurücklassen müssen. Etablierte lokale Resorts decken Unterbringung und Tagesbetreuung ab, während Plattformen Sie mit geprüften Sittern und Gassigehern in der ganzen Stadt verbinden.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich meinen Hund tagsüber in Vancouver lassen?",
+          "a": "Etablierte Tagesbetreuungs- und Unterbringungs-Resorts wie Jet Pet Resort in Olympic Village nehmen Hunde tageweise auf, und Plattformen wie Rover verbinden Sie mit lokalen Sittern und Unterbringung bei Privatpersonen. Buchen Sie in der Hochsaison im Voraus und bringen Sie Impfunterlagen mit."
+        },
+        {
+          "q": "Wie viel kostet Hundetagesbetreuung oder Unterbringung in Vancouver?",
+          "a": "Die Preise variieren je nach Einrichtung und Hund, aber rechnen Sie bei professioneller Tagesbetreuung und Übernachtungsunterbringung mit üblichen Großstadtpreisen in kanadischen Dollar. Fragen Sie jeden Anbieter nach aktuellen Preisen und etwaigen Anforderungen an Bewertung oder Impfungen."
+        },
+        {
+          "q": "Benötigen Sitter in Vancouver einen Impfnachweis?",
+          "a": "Seriöse Einrichtungen und Sitter verlangen in der Regel aktuelle Tollwut- und oft auch Zwingerhusten-Impfungen und führen möglicherweise eine Verhaltensbeurteilung durch. Reisen Sie mit den Unterlagen Ihres Hundes, damit Sie ohne Verzögerung buchen können."
         }
       ]
     }

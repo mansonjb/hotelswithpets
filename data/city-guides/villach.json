@@ -39,7 +39,11 @@
           "tipFr": "Demandez les tables de la cour arrière qui restent ombragées même en juillet ; la terrasse avant sur la Bahnhofstraße peut chauffer au déjeuner.",
           "tipEs": "Pide las mesas del patio trasero que se mantienen a la sombra incluso en julio; la terraza delantera de Bahnhofstraße puede calentarse a mediodía.",
           "tipPt": "Peça as mesas do pátio traseiro que ficam à sombra mesmo em julho; a esplanada da frente na Bahnhofstraße pode aquecer ao almoço.",
-          "googleMapsUrl": "https://maps.google.com/?q=Gasthof+Brauhof+Villach"
+          "googleMapsUrl": "https://maps.google.com/?q=Gasthof+Brauhof+Villach",
+          "descriptionDe": "Historischer Ausschank der Villacher Bier-Brauerei in einer Seitengasse des Hauptplatzes mit großem schattigem Innenhof. Die Küche ist Kärntnerisch geprägt, mit Kasnudln, Schnitzel und Reindling auf der Karte, und das Personal bringt Hunden an den Hoftischen ungefragt einen Wassernapf.",
+          "petPolicyDe": "Angeleinte Hunde im Innenhof und in der Gaststube willkommen; Wassernapf wird bereitgestellt",
+          "mustTryDe": "Kasnudln (Kärntner Topfen-Teigtaschen) und Villacher Bier vom Fass",
+          "tipDe": "Fragen Sie nach den hinteren Hoftischen, die auch im Juli schattig und kühl bleiben; die vordere Terrasse an der Bahnhofstraße kann mittags warm werden."
         },
         {
           "name": "Stern Bräu Restaurant",
@@ -65,7 +69,11 @@
           "tipFr": "Réservez une table en terrasse les vendredis soirs d'été ; la place accueille des concerts gratuits en plein air et le lieu se remplit vite.",
           "tipEs": "Reserva mesa en terraza los viernes por la noche en verano; la plaza acoge música al aire libre gratis y se llena rápido.",
           "tipPt": "Reserve uma mesa na esplanada às sextas à noite no verão; a praça recebe música ao ar livre gratuita e enche rapidamente.",
-          "googleMapsUrl": "https://maps.google.com/?q=Stern+Brau+Villach"
+          "googleMapsUrl": "https://maps.google.com/?q=Stern+Brau+Villach",
+          "descriptionDe": "Eine Institution der Villacher Altstadt mit Arkadenterrasse am Kaiser-Josef-Platz, zwei Minuten vom Hauptplatz entfernt. Die Karte mischt alpin-adriatische Klassiker vom Wiener Schnitzel bis zu frischer Pasta und Pizza, und die breite Terrasse ist auf Gruppen mit Hunden zu Füßen ausgelegt.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse und im Nebenzimmer willkommen",
+          "mustTryDe": "Frittatensuppe und hausgemachtes Wiener Schnitzel mit Erdäpfelsalat",
+          "tipDe": "Reservieren Sie an Sommerfreitagabenden einen Terrassentisch; der Platz bietet kostenlose Open-Air-Musik und das Lokal füllt sich schnell."
         },
         {
           "name": "Restaurant Lagana",
@@ -91,7 +99,11 @@
           "tipFr": "Asseyez-vous à l'extrémité est de la terrasse où le flux piéton de la Hauptplatz est le plus calme et où votre chien a plus d'espace.",
           "tipEs": "Siéntate en el extremo este de la terraza donde el flujo peatonal de la Hauptplatz es más tranquilo y tu perro tiene más espacio.",
           "tipPt": "Sente-se na extremidade leste da esplanada onde o fluxo pedonal da Hauptplatz é mais calmo e o seu cão tem mais espaço.",
-          "googleMapsUrl": "https://maps.google.com/?q=Restaurant+Lagana+Villach"
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurant+Lagana+Villach",
+          "descriptionDe": "Ein fester Bestandteil des Hauptplatzes für italienische und alpin-adriatische Küche mit breiter Terrasse direkt am Platz. Die Küche serviert zu gleichen Teilen Pizza aus dem Holzofen, frische Meeresfrüchtepasta und Kärntner Klassiker, und das Personal ist sichtlich an Hunde gewöhnt, von kurzen Stopps bis zu langen Abendessen.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen; wohlerzogene Hunde auch drinnen akzeptiert",
+          "mustTryDe": "Spaghetti alle vongole und die Tagliata di manzo carinziano",
+          "tipDe": "Setzen Sie sich an das östliche Ende der Terrasse, wo der Fußgängerstrom am Hauptplatz am ruhigsten ist und Ihr Hund mehr Platz hat."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Posso levar o meu cão ao mercado gastronómico do Villacher Kirchtag?",
           "a": "Sim de dia, mas o festival de agosto é ruidoso e cheio depois das 17:00, deixe os cães ansiosos no hotel à noite."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Villach",
+      "introDe": "Die Kärntner Gasthauskultur heißt angeleinte Hunde in Villach standardmäßig willkommen, und die Renaissance-Arkaden am Hauptplatz verbergen mehrere große Terrassen entlang der Drau, wo ein ruhiger Hund zu Füßen die Norm ist. Von alpin-adriatischen Familienküchen bis zu Biergärten am Fluss gehört die von italienischem Einfluss geprägte Gastroszene der Stadt zu den entspanntesten Österreichs für Reisen mit Hund.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Villacher Restaurants drinnen erlaubt?",
+          "a": "Ja, angeleinte Hunde sind in der großen Mehrheit der Kärntner Gasthöfe und italienisch geprägten Restaurants in Villach drinnen willkommen. Fine-Dining-Lokale und moderne Bistros bevorzugen eventuell die Terrasse, fragen Sie einfach an der Tür."
+        },
+        {
+          "q": "Stellen Restaurants Wassernäpfe bereit?",
+          "a": "Die meisten Terrassen am Hauptplatz bringen ungefragt einen Napf; falls nicht, funktioniert die Bitte um Wasser fürs Hunderl immer."
+        },
+        {
+          "q": "Darf ich meinen Hund ins Festzelt des Villacher Kirchtags mitnehmen?",
+          "a": "Tagsüber ja, aber das August-Fest wird nach 17:00 Uhr laut und voll, lassen Sie ängstliche Hunde für die Abendveranstaltungen im Hotel."
+        }
       ]
     },
     "parks": {
@@ -205,7 +233,11 @@
           "tipFr": "Démarrez au Draupark près de la Stadtbrücke pour un aller-retour facile de 60 minutes ; les familles à vélo passent vite, gardez la laisse courte sur les tronçons partagés.",
           "tipEs": "Empieza en el Draupark junto al Stadtbrücke para un ida y vuelta fácil de 60 minutos; las familias en bici pasan rápido, mantén la correa corta en los tramos compartidos.",
           "tipPt": "Comece no Draupark junto à Stadtbrücke para um ida e volta fácil de 60 minutos; as famílias de bicicleta passam rápido, mantenha a trela curta nos troços partilhados.",
-          "googleMapsUrl": "https://maps.google.com/?q=Drauradweg+Villach+Draupark"
+          "googleMapsUrl": "https://maps.google.com/?q=Drauradweg+Villach+Draupark",
+          "descriptionDe": "Der Fernrad- und Wanderweg R1 Drauradweg verläuft von Ost nach West durch Villach an beiden Ufern der Drau, mit durchgehendem Baumschatten, Wasserzugang für durstige Hunde und sanften asphaltierten oder geschotterten Oberflächen. Der 5 km lange Abschnitt zwischen Lind und Maria Gail ist der beliebteste flache Hundespaziergang der Stadt.",
+          "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen; wird mit Radfahrern geteilt, rechts halten",
+          "facilitiesDe": "Bänke, Wasserzugang, Mülleimer am Draupark und in Lind",
+          "tipDe": "Starten Sie am Draupark bei der Stadtbrücke für eine leichte 60-minütige Runde; Radfahrerfamilien kommen schnell vorbei, halten Sie die Leine auf gemeinsam genutzten Abschnitten kurz."
         },
         {
           "name": "Stadtpark Villach",
@@ -231,7 +263,11 @@
           "tipFr": "Faites la boucle périmétrale au lever du soleil pour éviter la foule du jeu ; le coin est de l'étang est le plus calme.",
           "tipEs": "Da la vuelta al perímetro al amanecer para evitar la multitud del parque infantil; el rincón este del estanque es el más tranquilo.",
           "tipPt": "Faça a volta ao perímetro ao nascer do sol para evitar a multidão do parque infantil; o canto leste do lago é o mais calmo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Stadtpark+Villach"
+          "googleMapsUrl": "https://maps.google.com/?q=Stadtpark+Villach",
+          "descriptionDe": "Villachs zentraler Hauptpark unmittelbar südlich der Altstadt, ein großes offenes Grün mit alten Bäumen, Kiespfaden und einem Teich, beliebt bei morgendlichen Hundespaziergängern. Hunde müssen auf den zentralen Rasenflächen und rund um den Spielplatz angeleint sein, aber die Umrundung eignet sich für einen entspannten 30-minütigen Spaziergang.",
+          "petPolicyDe": "Auf Rasenflächen und rund um den Spielplatz angeleint; keine Freilaufzone",
+          "facilitiesDe": "Bänke, Trinkbrunnen, Mülleimer, Spielplatz",
+          "tipDe": "Umrunden Sie den Park bei Sonnenaufgang, um das Gedränge am Spielplatz zu vermeiden; die östliche Teichecke ist am ruhigsten."
         },
         {
           "name": "Naturpark Dobratsch (Rosstratte)",
@@ -257,7 +293,11 @@
           "tipFr": "Calez la descente sur la lumière du soir ; la route panoramique a 12 virages en épingle et les chiens sensibles au mal des transports supportent mieux la conduite l'après-midi.",
           "tipEs": "Programa el descenso con la luz de la tarde; la carretera panorámica tiene 12 curvas de horquilla y los perros con mareo cinético llevan mejor conducir por la tarde.",
           "tipPt": "Programe a descida com a luz do entardecer; a estrada panorâmica tem 12 curvas em gancho e os cães sensíveis ao enjoo de transporte aguentam melhor conduzir à tarde.",
-          "googleMapsUrl": "https://maps.google.com/?q=Rosstratte+Dobratsch+Villach"
+          "googleMapsUrl": "https://maps.google.com/?q=Rosstratte+Dobratsch+Villach",
+          "descriptionDe": "Der 2.166 m hohe Naturpark Dobratsch erhebt sich direkt über Villach und ist über die 16,5 km lange mautpflichtige Villacher Alpenstraße erreichbar, mit mehreren leinenfreundlichen Ausgangspunkten an der Rosstratte, der Aichingerhütte und dem Gipfelsendemast. Die ausgeschilderten Rundwege Hundstrigl und Eggerwiesen bieten Almwiesen und Wald mit Blick bis nach Slowenien.",
+          "petPolicyDe": "In der Kernzone des Naturparks angeleint; Herdenschutzhunde können anwesend sein, Abstand halten",
+          "facilitiesDe": "Parkplatz an der Rosstratte, Berghütten von Juni bis September geöffnet, Wasser an der Aichingerhütte",
+          "tipDe": "Planen Sie die Abfahrt für das Abendlicht; die Panoramastraße hat 12 Serpentinen, und Hunde, die zu Reiseübelkeit neigen, kommen mit einer Nachmittagsfahrt besser zurecht."
         }
       ],
       "tipsEn": [
@@ -335,6 +375,22 @@
           "q": "A estrada panorâmica do Dobratsch admite cães?",
           "a": "Sim, a portagem cobre um cão no carro e todos os inícios de trilho admitem cães com trela; leve água extra no verão pois os troços expostos atingem os 25 graus ao sol da tarde."
         }
+      ],
+      "titleDe": "Die besten hundefreundlichen Parks in Villach",
+      "introDe": "Villachs Grünnetz verläuft entlang der Drau mit dem 90 km langen Drauradweg für Rad- und Fußgänger, steigt nördlich in den bewaldeten Stadtpark und die Ausläufer des Dobratsch an und erstreckt sich zu zwei warmen Seen auf beiden Seiten. Freilauf ist im zentralen Parksystem selten, aber der Drauradweg-Treidelpfad und die Dobratsch-Panoramastraße bieten kilometerweise ruhiges, leichtes Gehen an der Leine.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Freilaufzonen in Villach?",
+          "a": "Ja, zwei ausgeschilderte Hundezonen in Lind und Landskron, beides kleine umzäunte Areale und keine großen Parks. Die weiter gefassten Almwiesen am oberen Dobratsch tolerieren Freilauf mit sicherem Rückruf außerhalb der Weidesaison."
+        },
+        {
+          "q": "Kann ich mit meinem Hund entlang der Drau spazieren gehen?",
+          "a": "Ja, der Drauradweg-Treidelpfad verläuft an beiden Ufern durch die Stadt und ist einer der einfachsten Hundespaziergänge in Kärnten, angeleint und kostenlos."
+        },
+        {
+          "q": "Ist die Dobratsch-Panoramastraße hundefreundlich?",
+          "a": "Ja, die Maut erlaubt einen Hund im Auto, und alle Ausgangspunkte akzeptieren angeleinte Hunde; bringen Sie im Sommer zusätzliches Wasser mit, da exponierte Abschnitte in der Nachmittagssonne 25 Grad erreichen."
+        }
       ]
     },
     "transport": {
@@ -361,7 +417,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; chiens plus grands billet enfant + muselière",
           "petPolicyEs": "Perros pequeños en transportín gratis; perros grandes billete infantil + bozal",
           "petPolicyPt": "Cães pequenos em transportadora grátis; cães maiores bilhete infantil + açaime",
-          "googleMapsUrl": "https://maps.google.com/?q=Hauptbahnhof+Villach"
+          "googleMapsUrl": "https://maps.google.com/?q=Hauptbahnhof+Villach",
+          "descriptionDe": "Der städtische Busbetreiber betreibt acht Linien, die den Hauptbahnhof, den Hauptplatz, Lind, Landskron und die westlichen Vororte verbinden. Kleine Hunde in Transportboxen fahren kostenlos; größere Hunde benötigen ein Kinderfahrpreisticket und im Bus einen Maulkorb.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde Kinderfahrpreisticket + Maulkorb"
         },
         {
           "name": "ÖBB Railjet (Villach Hauptbahnhof)",
@@ -377,7 +435,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens demi-tarif + muselière",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes a mitad de tarifa + bozal",
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes a meia tarifa + açaime",
-          "googleMapsUrl": "https://maps.google.com/?q=Villach+Hauptbahnhof"
+          "googleMapsUrl": "https://maps.google.com/?q=Villach+Hauptbahnhof",
+          "descriptionDe": "ÖBB-Railjet-Züge verbinden Villach mit Wien in 4 Stunden, Salzburg in 2 Stunden, Graz in 2 Stunden 45 und weiterführend mit Ljubljana, Venedig und München. Kleine Hunde fahren in einer geschlossenen Transportbox kostenlos; größere Hunde benötigen ein Halbpreisticket und in gemeinsam genutzten Abteilen einen Maulkorb.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde Halbpreis + Maulkorb"
         },
         {
           "name": "Kärntner Linien regional buses",
@@ -393,7 +453,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens demi-tarif + muselière sur sièges partagés",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes a mitad de tarifa + bozal en asientos compartidos",
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes a meia tarifa + açaime em assentos partilhados",
-          "googleMapsUrl": "https://maps.google.com/?q=ZOB+Villach"
+          "googleMapsUrl": "https://maps.google.com/?q=ZOB+Villach",
+          "descriptionDe": "Der Kärntner Regionalbusbetreiber fährt Linien zum Faaker See, Ossiacher See, nach Klagenfurt und zur slowenischen Grenze mit denselben bundesweiten Haustierregeln wie STW: klein in Transportbox kostenlos, großer Hund Halbpreis und mit Maulkorb.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere Hunde Halbpreis + Maulkorb auf gemeinsam genutzten Sitzen"
         }
       ],
       "faqsEn": [
@@ -450,6 +512,22 @@
         {
           "q": "O aeroporto de Klagenfurt KLU é pet-friendly?",
           "a": "Sim, os cães com trela são admitidos no pequeno terminal e tanto a Austrian Airlines como a Eurowings aceitam animais em cabine até 8 kg com lugar reservado."
+        }
+      ],
+      "titleDe": "Öffentliche Verkehrsmittel in Villach mit Hund",
+      "introDe": "Villach ist klein genug, um es in 25 Minuten zu Fuß zu durchqueren, aber die lokalen STW-Stadtwerke-Busse, das regionale Kärntner-Linien-Netz und die ÖBB-Railjet-Züge verbinden den Flughafen, die Seen und weiterführende österreichische Ziele mit einheitlichen Haustierregeln. Kleine Hunde in Transportboxen fahren kostenlos; größere Hunde zahlen einen ermäßigten Fahrpreis und benötigen auf gemeinsam genutzten Abschnitten einen Maulkorb.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich für meinen Hund in Villacher Bussen einen Maulkorb?",
+          "a": "Ja, größere Hunde, die sich nicht in einer Transportbox befinden, müssen in STW- und Kärntner-Linien-Bussen einen Maulkorb tragen. Kleine Hunde in geschlossenen Transportboxen sind davon ausgenommen."
+        },
+        {
+          "q": "Sind Hunde im Railjet nach Wien erlaubt?",
+          "a": "Ja, kleine Hunde in einer Transportbox fahren kostenlos; größere Hunde benötigen ein Halbpreisticket und in gemeinsam genutzten Abteilen einen Maulkorb. Die ÖBB-First-Class akzeptiert beides."
+        },
+        {
+          "q": "Ist der Flughafen Klagenfurt KLU haustierfreundlich?",
+          "a": "Ja, angeleinte Hunde sind im kleinen Terminal erlaubt, und sowohl Austrian Airlines als auch Eurowings akzeptieren Kabinenhaustiere unter 8 kg mit gebuchtem Platz."
         }
       ]
     },
@@ -549,6 +627,22 @@
           "q": "Qual é a época de banho mais quente para os cães?",
           "a": "De meados de junho a início de setembro; o Faaker See atinge os 26 graus em finais de julho, a água de lago mais quente dos Alpes."
         }
+      ],
+      "titleDe": "Hundestrände bei Villach (Faaker See & Ossiacher See)",
+      "introDe": "Villach liegt zwischen zwei der wärmsten Seen der Alpen: dem türkisfarbenen Faaker See 10 km südöstlich und dem grünen Ossiacher See 5 km nördlich. Beide verfügen über ausgeschilderte Hundebadeplätze mit Sommerwassertemperaturen über 24 Grad, freiem Eintritt und kleinen Parkplätzen. Drobollach und Egg sind die bestätigten Hundestrände am Faaker See; Sattendorf und Annenheim beherbergen die Plätze am Ossiacher See.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde im Faaker See schwimmen?",
+          "a": "Ja, aber nur an den ausgeschilderten Hundebadeplätzen in Drobollach und Egg; die öffentlichen Strandbäder (kostenpflichtig) verbieten Hunde in den Hauptbadezonen."
+        },
+        {
+          "q": "Ist der Hundestrand am Ossiacher See kostenlos?",
+          "a": "Ja, sowohl der Hundebadeplatz in Sattendorf als auch in Annenheim sind kostenlos, mit kleinen Parkplätzen am Straßenrand und ohne Eintrittsgebühr."
+        },
+        {
+          "q": "Wann ist die wärmste Badesaison für Hunde?",
+          "a": "Mitte Juni bis Anfang September; der Faaker See erreicht Ende Juli 26 Grad, das wärmste Seewasser der Alpen."
+        }
       ]
     },
     "vets": {
@@ -596,7 +690,12 @@
           "tipFr": "Garez-vous sur le parking avant de l'Italiener Straße plutôt que sur les rues résidentielles latérales ; les rues latérales ont des zones 30 minutes strictement contrôlées.",
           "tipEs": "Aparca en el parking delantero de la Italiener Straße en vez de las calles residenciales laterales; las laterales tienen zonas de 30 minutos estrictamente controladas.",
           "tipPt": "Estacione no parque da frente da Italiener Straße em vez das ruas residenciais laterais; as laterais têm zonas de 30 minutos rigorosamente fiscalizadas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Villach"
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Villach",
+          "hoursDe": "24/7-Notfalllinie; Klinik Mo-Fr 8:00-19:00, am Wochenende Bereitschaft",
+          "descriptionDe": "Die wichtigste 24/7-Tierklinik für Südkärnten, mit vollständiger Bildgebung, Chirurgie, Innerer Medizin und einer Notfalllinie außerhalb der Öffnungszeiten für die Regionen Villach, Faaker See und Ossiacher See. Englisch wird vom erfahrenen Personal gesprochen. Gelegen in der Italiener Straße, 5 Minuten südlich des Hauptplatzes.",
+          "petPolicyDe": "Notfälle ohne Anmeldung werden stets angenommen; bei schweren Traumata vorher anrufen",
+          "servicesDe": "Notfall, Chirurgie, Bildgebung, Innere Medizin, Zahnmedizin",
+          "tipDe": "Parken Sie auf dem Vorplatz an der Italiener Straße statt in den Seitenstraßen; in den Wohnstraßen gelten streng kontrollierte 30-Minuten-Zonen."
         },
         {
           "name": "Tierklinik Annenheim",
@@ -632,7 +731,12 @@
           "tipFr": "Depuis les plages canines de l'Ossiacher See à Sattendorf ou Annenheim, la clinique est à 3 minutes en voiture, utile si votre chien se coupe une patte sur une pierre.",
           "tipEs": "Desde las playas caninas del Ossiacher See en Sattendorf o Annenheim, la clínica está a 3 minutos en coche, útil si tu perro se corta una pata con una piedra.",
           "tipPt": "Das praias caninas do Ossiacher See em Sattendorf ou Annenheim, a clínica está a 3 minutos de carro, útil se o seu cão cortar uma pata numa pedra.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Annenheim"
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Annenheim",
+          "hoursDe": "24/7-Notfall; Sprechstunde tagsüber Mo-Sa 8:00-18:00",
+          "descriptionDe": "Eine zweite 24/7-Überweisungsklinik am Ossiacher See, 15 Minuten östlich von Villach. Spezialisiert auf Chirurgie, Bildgebung und Orthopädie, teilt sich die nächtliche Versorgung mit der Tierklinik Villach. Englisch wird am Empfang gesprochen.",
+          "petPolicyDe": "Notfälle ohne Anmeldung werden stets angenommen; nachts die Notfalllinie anrufen",
+          "servicesDe": "Notfall, orthopädische Chirurgie, Bildgebung, Innere Medizin",
+          "tipDe": "Von den Hundestränden am Ossiacher See in Sattendorf oder Annenheim ist die Klinik 3 Autominuten entfernt, nützlich, falls sich Ihr Hund die Pfote an einem Stein verletzt."
         },
         {
           "name": "Tierarztpraxis Dr. Brunner Villach",
@@ -668,7 +772,12 @@
           "tipFr": "Réservez le créneau 8h si vous avez besoin d'un contrôle santé passeport européen le jour même avant de passer la frontière italienne à Tarvisio.",
           "tipEs": "Reserva el hueco de las 8:00 si necesitas un control sanitario para pasaporte UE el mismo día antes de cruzar la frontera italiana en Tarvisio.",
           "tipPt": "Reserve o slot das 8:00 se precisar de um controlo sanitário para passaporte UE no mesmo dia antes de atravessar a fronteira italiana em Tarvisio.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierarzt+Brunner+Villach"
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarzt+Brunner+Villach",
+          "hoursDe": "Mo-Fr 8:00-12:00 und 15:00-18:00; Sa 9:00-12:00; So geschlossen",
+          "descriptionDe": "Eine zentrale Allgemeinpraxis in der Altstadt, 3 Minuten vom Hauptplatz entfernt, ideal für Auffrischungsimpfungen, EU-Heimtierausweis-Stempel und kleinere nicht dringende Konsultationen. Überweist bei Notfällen außerhalb der Öffnungszeiten und komplexen Fällen an die Tierklinik Villach.",
+          "petPolicyDe": "Termine bevorzugt; Laufkundschaft wird zwischen gebuchten Terminen behandelt",
+          "servicesDe": "Impfungen, EU-Heimtierausweis, Allgemeinmedizin, kleinere Eingriffe",
+          "tipDe": "Buchen Sie den 8:00-Uhr-Termin, wenn Sie noch am selben Tag eine EU-Gesundheitsbescheinigung vor der Einreise nach Italien bei Tarvis benötigen."
         }
       ],
       "faqsEn": [
@@ -725,6 +834,22 @@
         {
           "q": "Posso carimbar um passaporte UE antes de atravessar para Itália ou Eslovénia?",
           "a": "Sim, as três clínicas listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Villach",
+      "introDe": "Villach verfügt über die wichtigste 24/7-Tierklinik für Überweisungen in Südkärnten, die Tierklinik Villach, sowie mehrere tagsüber geöffnete Allgemeinpraxen in der Altstadt. Die Tierklinik Annenheim bei Sattendorf ist ebenfalls in 15 Autominuten erreichbar und versorgt nachts sowohl die Region Villach als auch Klagenfurt.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächste 24-Stunden-Tierarzt in Villach?",
+          "a": "Die Tierklinik Villach in der Italiener Straße 50, +43 4242 41700, betreibt die 24/7-Notfalllinie für die Region. Die Tierklinik Annenheim, 15 Minuten östlich, dient als Ausweichmöglichkeit."
+        },
+        {
+          "q": "Sprechen Villacher Tierärzte Englisch?",
+          "a": "Ja, in beiden 24-Stunden-Kliniken sowie in Brunners zentraler Praxis; erfahrene Tierärzte sind durchweg fließend."
+        },
+        {
+          "q": "Kann ich vor der Einreise nach Italien oder Slowenien einen EU-Heimtierausweis-Stempel bekommen?",
+          "a": "Ja, alle drei aufgeführten Kliniken stellen EU-Heimtierausweise aus und aktualisieren sie. Termine am selben Tag sind für gesunde Hunde meist verfügbar."
         }
       ]
     },
@@ -821,6 +946,22 @@
           "q": "Qual é o melhor mês para Villach com cão?",
           "a": "Junho e início de setembro: água de lago quente, menos gente do que em agosto e temperaturas de caminhada confortáveis no Dobratsch."
         }
+      ],
+      "titleDe": "Haustierfreundliche Tipps für einen Besuch in Villach",
+      "introDe": "Villach ist eine der unkompliziertesten Basen Kärntens für Reisen mit Haustier: kompakte Fußgängeraltstadt, bundesweite österreichische Listenhunde-Regeln, zwei warme Seen innerhalb von 10 km und eine funktionierende 24/7-Tierklinik in der Stadt. Planen Sie um die Woche des Villacher Kirchtags Anfang August herum, falls Ihr Hund keine Menschenmengen mag, und buchen Sie im Juli vorab einen der Hundebadeplätze, da die Parkplätze bis 10:00 Uhr voll sind.",
+      "faqsDe": [
+        {
+          "q": "Ist Villach eine gute Basis für einen haustierfreundlichen Österreich-Urlaub?",
+          "a": "Ja, die Kombination aus warmen Seen, begehbarer Altstadt, Bergzugang über den Dobratsch und einer funktionierenden 24-Stunden-Tierklinik macht es zu einer der besten haustierfreundlichen Basen Österreichs."
+        },
+        {
+          "q": "Brauche ich in der Öffentlichkeit in Villach einen Maulkorb?",
+          "a": "Kärnten verlangt Leine oder Maulkorb in der Öffentlichkeit; in der Praxis genügt außerhalb der zentralen Fußgängerzone die Leine allein, wo wohlerzogene angeleinte Hunde überall zu sehen sind."
+        },
+        {
+          "q": "Welcher Monat eignet sich am besten für Villach mit Hund?",
+          "a": "Juni und Anfang September: warmes Seewasser, weniger Menschenmengen als im August und angenehme Wandertemperaturen am Dobratsch."
+        }
       ]
     },
     "attractions": {
@@ -854,7 +995,11 @@
           "tipFr": "Parcourez la place au crépuscule quand les façades calcaires captent la lumière chaude et que les terrasses sont les plus animées, idéal pour un chien spectateur.",
           "tipEs": "Recorre la plaza al atardecer cuando las fachadas calizas captan la luz cálida y las terrazas están más animadas, ideal para un perro espectador.",
           "tipPt": "Percorra a praça ao crepúsculo quando as fachadas calcárias captam a luz quente e as esplanadas estão mais animadas, ideal para um cão espectador.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hauptplatz+Villach"
+          "googleMapsUrl": "https://maps.google.com/?q=Hauptplatz+Villach",
+          "descriptionDe": "Der lange Renaissance-Hauptplatz ist das Herz der Stadt, gesäumt von Arkadenfassaden, der Dreifaltigkeitssäule aus dem 18. Jahrhundert und Kaffeehausterrassen. Der gesamte Platz ist Fußgängerzone und heißt angeleinte Hunde Tag und Nacht willkommen.",
+          "dogPolicyDe": "Angeleinte Hunde rund um die Uhr willkommen; Arkaden bieten an heißen Tagen Schatten",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Gehen Sie in der Dämmerung über den Platz, wenn die Kalksteinfassaden warmes Licht einfangen und die Kaffeehausterrassen am belebtesten sind, perfekt für Hunde-Leute-Beobachtung."
         },
         {
           "name": "Villach Stadtpfarrkirche Sankt Jakob",
@@ -877,7 +1022,11 @@
           "tipFr": "Si vous montez à la tour, attachez votre chien au sympathique kiosque du Kirchplatzl pour 20 minutes ; le tenancier est habitué aux gardes courtes pendant la visite.",
           "tipEs": "Si subes a la torre, ata a tu perro al amable kiosco del Kirchplatzl 20 minutos; el dueño está acostumbrado a custodias cortas durante la visita.",
           "tipPt": "Se subir à torre, prenda o seu cão ao simpático quiosque do Kirchplatzl 20 minutos; o dono está habituado a guardas curtas durante a visita.",
-          "googleMapsUrl": "https://maps.google.com/?q=Stadtpfarrkirche+Villach"
+          "googleMapsUrl": "https://maps.google.com/?q=Stadtpfarrkirche+Villach",
+          "descriptionDe": "Die gotische Pfarrkirche Sankt Jakob aus dem 14. Jahrhundert prägt den östlichen Hauptplatz mit einem 95 m hohen Turm, der das beste Altstadtpanorama bietet. Hunde sind auf dem umliegenden Fußgängerbereich Kirchplatzl willkommen; das Innere ist ausschließlich Assistenzhunden vorbehalten.",
+          "dogPolicyDe": "Außenbereich heißt angeleinte Hunde willkommen; im Inneren nur Assistenzhunde",
+          "admissionFeeDe": "Außen kostenlos; Turm EUR 4",
+          "tipDe": "Falls Sie den Turm besteigen, binden Sie Ihren Hund für 20 Minuten am freundlichen Kiosk am Kirchplatzl an; der Betreiber ist an kurze Hundewachen während Turmbesuchen gewöhnt."
         },
         {
           "name": "Burgruine Landskron",
@@ -900,7 +1049,11 @@
           "tipFr": "Évitez les spectacles de fauconnerie quotidiens de 11h et 15h avec un chien sensible au bruit ; les rapaces peuvent effrayer les chiens en laisse.",
           "tipEs": "Evita los espectáculos diarios de cetrería de 11:00 y 15:00 con un perro sensible al ruido; las rapaces pueden asustar a las mascotas con correa.",
           "tipPt": "Evite os espectáculos diários de falcoaria das 11:00 e 15:00 com um cão sensível ao ruído; as aves de rapina podem assustar os cães com trela.",
-          "googleMapsUrl": "https://maps.google.com/?q=Burgruine+Landskron+Villach"
+          "googleMapsUrl": "https://maps.google.com/?q=Burgruine+Landskron+Villach",
+          "descriptionDe": "Burgruine aus dem 12. Jahrhundert 4 km östlich von Villach mit weitem Blick über den Ossiacher See und die Karawanken. Die ruinierten Höfe, Wehrgänge und unteren Gärten akzeptieren angeleinte Hunde; der berühmte Affenpark Affenberg nebenan nicht.",
+          "dogPolicyDe": "Angeleinte Hunde im Hof und auf den Wehrgängen willkommen; nicht im Affenberg",
+          "admissionFeeDe": "Burggelände kostenlos; Falknerschau EUR 15 Erwachsene",
+          "tipDe": "Meiden Sie mit einem geräuschempfindlichen Hund die täglichen Falknerschauen um 11:00 und 15:00; die Greifvögel können angeleinte Haustiere erschrecken."
         }
       ],
       "tipsEn": [
@@ -978,6 +1131,22 @@
           "q": "O meu cão pode subir o telesqui do Dobratsch?",
           "a": "O cume do Dobratsch alcança-se pela estrada panorâmica com portagem (carros com cães permitidos) em vez de um telesqui; o teleférico pet-friendly mais próximo é o Goldeck perto de Spittal an der Drau."
         }
+      ],
+      "titleDe": "Top hundefreundliche Sehenswürdigkeiten in Villach",
+      "introDe": "Villachs kompakte Fußgängeraltstadt lohnt sich für einen Spaziergang mit angeleintem Hund: die Renaissance-Arkaden am Hauptplatz, die Dreifaltigkeitssäule, der Turm der Stadtpfarrkirche aus dem 14. Jahrhundert (Außenansicht) und der Drauboulevard entlang der Drau decken die wichtigsten Sehenswürdigkeiten in 90 Minuten ab. Außerhalb des Zentrums verlängern die Dobratsch-Panoramastraße und die Uferpromenaden der Seen den Tag für aktive Hunde.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Villacher Kirchen erlaubt?",
+          "a": "Nur Assistenzhunde dürfen die Pfarrkirche Sankt Jakob und andere Kirchen betreten; angeleinte Haustiere sind auf den umliegenden Plätzen willkommen."
+        },
+        {
+          "q": "Ist der Affenpark Affenberg hundefreundlich?",
+          "a": "Nein, der Affenberg Landskron verbietet aus Tierschutzgründen Hunde ohne Assistenzfunktion. Die benachbarte Burgruine Landskron akzeptiert angeleinte Hunde."
+        },
+        {
+          "q": "Kann mein Hund mit der Dobratsch-Seilbahn fahren?",
+          "a": "Der Gipfel des Dobratsch wird über die mautpflichtige Panoramastraße erreicht (Autos mit Hunden erlaubt) und nicht über eine Seilbahn; die nächstgelegene hundefreundliche Seilbahn ist das Goldeck bei Spittal an der Drau."
+        }
       ]
     },
     "petsitting": {
@@ -1007,7 +1176,10 @@
           "servicesFr": "Visites, garde de jour, pension de nuit",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno",
           "servicesPt": "Visitas, creche diurna, alojamento nocturno",
-          "openingHours": "App available 24/7; sitters set own hours"
+          "openingHours": "App available 24/7; sitters set own hours",
+          "descriptionDe": "Die führende Peer-to-Peer-Plattform für Haustierbetreuung in Österreich, mit verifizierten Villacher Betreuern, die Kurzbesuche, Tagesbetreuung und Übernachtungspension anbieten. Die meisten Betreuer haben Erdgeschosswohnungen oder kleine Gärten mit schnellem Zugang nach draußen.",
+          "petPolicyDe": "Richtlinien je Betreuer; versicherte und bewertete Buchungen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungspension"
         },
         {
           "name": "Hundeschule und Tierpension Kohlmaier",
@@ -1026,7 +1198,10 @@
           "servicesFr": "Garde de jour, pension multi-jours, promenades d'entraînement de groupe",
           "servicesEs": "Guardería, pensión de varios días, paseos grupales de entrenamiento",
           "servicesPt": "Creche diurna, pensão de vários dias, passeios de treino em grupo",
-          "openingHours": "Mon-Sat 8:00-12:00 and 16:00-18:00; closed Sun"
+          "openingHours": "Mon-Sat 8:00-12:00 and 16:00-18:00; closed Sun",
+          "descriptionDe": "Eine kleine familiengeführte Hundepension und Hundeschule an der Straße zum Faaker See, 10 km südlich von Villach, mit Außengehegen und betreuten Gruppenspaziergängen. Abgabe montags bis samstags vormittags, Vorabbuchung im Juli und August unbedingt erforderlich.",
+          "petPolicyDe": "Impfungen und EU-Heimtierausweis erforderlich; maximaler Aufenthalt 14 Tage",
+          "servicesDe": "Tagesbetreuung, mehrtägige Pension, Gruppentrainingsspaziergänge"
         }
       ],
       "tipsEn": [
@@ -1103,6 +1278,22 @@
         {
           "q": "Tenho de levar a comida do cão ao cuidador?",
           "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundepension in Villach",
+      "introDe": "Villach verfügt über ein kleines, aber wachsendes Netzwerk für Haustierbetreuung, das größtenteils über die österreichischen Ableger von Pawshake und Rover läuft, dazu eine Kärntner Pension beim Faaker See. Die meisten Betreuer sprechen Deutsch und Englisch und bieten kurzfristige Buchungen außerhalb der Hochsaison des August-Kirchtags an.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Haustierbetreuung in Villach?",
+          "a": "Rechnen Sie mit EUR 25-35 pro Nacht für Pension und EUR 12-18 pro 30-minütigem Spaziergang über Pawshake; die Pension Kohlmaier beim Faaker See berechnet ab EUR 28 pro Tag."
+        },
+        {
+          "q": "Können Hotels für einen Abend eine Betreuungsperson empfehlen?",
+          "a": "Ja, größere Villacher Hotels führen eine kurze Liste von Pawshake-Betreuern, die abendliche Besuche übernehmen, nützlich für den Villacher Kirchtag oder eine Abendfahrt auf dem Ossiacher See."
+        },
+        {
+          "q": "Muss ich das Futter meines Hundes zur Betreuungsperson mitbringen?",
+          "a": "Die meisten Betreuer bevorzugen Kontinuität; bringen Sie 2-3 Tage des gewohnten Trockenfutters plus den gewohnten Napf mit, um Magenverstimmungen zu vermeiden."
         }
       ]
     }

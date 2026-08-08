@@ -39,7 +39,11 @@
           "tipFr": "Il se remplit les après-midi pluvieux quand tout le monde redescend des collines ; arrivez avant 18h le week-end pour une table avec votre chien.",
           "tipEs": "Se llena las tardes lluviosas cuando todos bajan de las colinas; llega antes de las 18h los fines de semana para una mesa con tu perro.",
           "tipPt": "Enche nas tardes de chuva quando todos descem das colinas; chegue antes das 18h ao fim de semana para uma mesa com o seu cão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Flying+Pig+Bowness+Windermere"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Flying+Pig+Bowness+Windermere",
+          "descriptionDe": "Ein gemütlicher, unkomplizierter Pub im Herzen von Bowness, der Lake-District-Hausmannskost wie Fish and Chips, Pasteten und Sonntagsbraten serviert. Er ist wirklich hundegeleitet, mit einem Wassernapf und einem Leckerli, das regelmäßig während des Essens gebracht wird.",
+          "petPolicyDe": "Hunde im gesamten Pub an der Leine willkommen; Wasser und Leckerlis werden bereitgestellt.",
+          "mustTryDe": "Bierteig-Fish-and-Chips nach einer Bergwanderung",
+          "tipDe": "Es füllt sich an regnerischen Nachmittagen, wenn alle von den Hügeln kommen; kommen Sie am Wochenende vor 18 Uhr für einen Tisch mit Ihrem Hund."
         },
         {
           "name": "The Boathouse",
@@ -65,7 +69,11 @@
           "tipFr": "Les tables du bord de l'eau partent en premier les jours ensoleillés ; les places intérieures près des fenêtres sont tout aussi bien sous la bruine du Lake District.",
           "tipEs": "Las mesas junto al agua se ocupan primero en días soleados; las plazas interiores junto a las ventanas son igual de buenas bajo la llovizna del Lake District.",
           "tipPt": "As mesas junto à água esgotam primeiro nos dias de sol; os lugares interiores junto às janelas são igualmente bons sob o chuvisco do Lake District.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Boathouse+Bowness+Windermere"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Boathouse+Bowness+Windermere",
+          "descriptionDe": "Eine entspannte Bar und Küche direkt am Seeufer von Bowness, mit lokalen Ales, Steinofenpizzas und reichlich Meeresfrüchten. Große Fenster und Außentische blicken direkt auf den See, und Hunde legen sich glücklich zu Ihren Füßen nieder.",
+          "petPolicyDe": "Angeleinte Hunde im Innenbereich und auf der Terrasse willkommen.",
+          "mustTryDe": "Eine steinofengebackene Pizza mit Seeblick",
+          "tipDe": "Die Tische am Wasser sind an sonnigen Tagen zuerst weg; die Plätze im Innenbereich an den Fenstern sind bei Lake-District-Nieselregen genauso gut."
         },
         {
           "name": "The Royal Oak Inn",
@@ -91,7 +99,11 @@
           "tipFr": "C'est une première halte classique en sortant du Dales Way ; ce sont les salles du bar qui acceptent les chiens, alors dirigez-vous là plutôt que vers un espace restaurant réservé.",
           "tipEs": "Es una primera parada clásica al salir del Dales Way; las salas del bar son las que admiten perros, así que ve ahí y no a una zona de restaurante reservada.",
           "tipPt": "É uma primeira paragem clássica ao sair do Dales Way; as salas do bar são as que aceitam cães, por isso vá para lá e não para uma zona de restaurante reservada.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal+Oak+Inn+Bowness+Windermere"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Royal+Oak+Inn+Bowness+Windermere",
+          "descriptionDe": "Ein traditioneller Gasthof, der seit über zweihundert Jahren betrieben wird, etwas oberhalb des Sees, und der offizielle Zielpub des 129 km langen Fernwanderwegs Dales Way. Wanderer und ihre Hunde bekommen einen herzlichen Empfang, echte Ales und deftige Pub-Gerichte.",
+          "petPolicyDe": "Hunde in den Barbereichen an der Leine willkommen.",
+          "mustTryDe": "Eine Cumberland-Wurst und ein lokales Fassbier-Ale",
+          "tipDe": "Es ist ein klassischer erster Halt direkt vom Dales Way; die Barräume sind die hundefreundlichen, gehen Sie also dorthin statt in einen reservierten Restaurantbereich."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "É preciso reservar uma mesa que aceite cães em Bowness?",
           "a": "Normalmente não para as zonas de bar, que é onde os cães se sentam. Nos fins de semana de chuva e muito movimento os pubs populares enchem ao fim da tarde, por isso chegar cedo ou reservar ajuda a conseguir uma mesa com o seu cão."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Windermere",
+      "introDe": "Die britische Pubkultur macht Windermere und sein am See gelegenes Zwillingsdorf Bowness für Hundehalter wirklich einfach: Die meisten Pubs heißen Hunde standardmäßig willkommen, oft mit einem Wassernapf und einem Leckerli, das an der Theke wartet. Die zuverlässigsten Ansammlungen finden sich rund um die Marina von Bowness und den Spaziergang von der Promenade aufwärts, wo Wanderer mit nassen Schuhen und schlammigen Pfoten die Norm statt die Ausnahme sind.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Pubs und Restaurants in Windermere im Innenbereich erlaubt?",
+          "a": "Ja, in den meisten Fällen. Britische Pubs heißen traditionell Hunde willkommen, und rund um Windermere und Bowness erlaubt die große Mehrheit einen angeleinten Hund an der Theke, oft mit Wassernapf und Leckerli. Formelle Restauranträume mit Tischservice sind die Ausnahme, fragen Sie also bei Ankunft, welcher Bereich hundefreundlich ist."
+        },
+        {
+          "q": "Muss ich in Bowness einen hundefreundlichen Tisch reservieren?",
+          "a": "Für die Thekenbereiche, wo Hunde sitzen, in der Regel nicht. An belebten regnerischen Wochenenden füllen sich die beliebten Pubs am späten Nachmittag, daher hilft es, früh zu kommen oder im Voraus zu reservieren, um mit Ihrem Hund einen Tisch zu bekommen."
+        }
       ]
     },
     "parks": {
@@ -183,7 +207,10 @@
           "tipFr": "Partez tôt ou tard pour les vues les plus dégagées sur le lac et le sommet le plus calme ; le dernier champ avant le haut a en général des moutons, gardez la laisse prête.",
           "tipEs": "Ve temprano o tarde para las vistas más despejadas del lago y la cumbre más tranquila; el último prado antes de arriba suele tener ovejas, así que ten la correa a mano.",
           "tipPt": "Vá cedo ou tarde para as vistas mais limpas do lago e o cume mais tranquilo; o último campo antes do topo costuma ter ovelhas, por isso tenha a trela à mão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Orrest+Head+Windermere"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Orrest+Head+Windermere",
+          "descriptionDe": "Der klassische kurze Lakeland-Aufstieg, eine rund 2,4 km lange Hin- und Rückwanderung, die sanft durch Wald vom Rand des Dorfes Windermere zu einer felsigen Kuppe mit 360-Grad-Panorama über den ganzen See und die hohen Fells dahinter aufsteigt. Es ist die Wanderung, die Alfred Wainwright als erste unternahm, und sie beginnt kaum fünf Minuten vom Bahnhof entfernt.",
+          "offLeashAreaDe": "Hunde können auf dem bewaldeten Pfad und am Gipfel unter enger Kontrolle ohne Leine laufen, aber auf den umliegenden Feldern und dem offenen Fell befinden sich Schafe, also bei Sichtung von Vieh anleinen.",
+          "tipDe": "Gehen Sie früh oder spät für die klarsten Seeblicke und den ruhigsten Gipfel; auf dem letzten Feld vor dem Gipfel befinden sich meist Schafe, halten Sie also die Leine bereit."
         },
         {
           "name": "Fell Foot (National Trust)",
@@ -203,7 +230,10 @@
           "tipFr": "Un troupeau de bovins Albion de race rare pâture la prairie sud quelques semaines par an, période où les chiens y sont remis en laisse ; vérifiez les panneaux sur place et surveillez les algues bleu-vert avant de laisser un chien nager.",
           "tipEs": "Un rebaño de vacas Albion de raza rara pasta la pradera sur unas semanas al año, cuando los perros vuelven a la correa allí; consulta los carteles del sitio y vigila las algas verdiazules antes de dejar que un perro nade.",
           "tipPt": "Uma manada de bovinos Albion de raça rara pasta o prado sul algumas semanas por ano, altura em que os cães voltam à trela ali; verifique as placas no local e vigie as algas azul-esverdeadas antes de deixar um cão nadar.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fell+Foot+National+Trust+Windermere"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fell+Foot+National+Trust+Windermere",
+          "descriptionDe": "Ein 7 Hektar großer National-Trust-Park an der ruhigen Südspitze von Windermere, mit Rasenflächen, alten Bäumen und einem langen grasbewachsenen Seeufer mit Blick nach Norden den ganzen See hinauf. Hunde sind überall willkommen, einschließlich im Café, und dürfen ins Wasser und die Südwiese durchstreifen, wenn kein Vieh weidet.",
+          "offLeashAreaDe": "Ohne Leine im Wasser und auf der Südwiese außerhalb der Weidewochen für Rinder; an der Leine im Parkgelände, auf den Seeuferpfaden und im Café.",
+          "tipDe": "Eine seltene Albion-Rinderherde weidet einige Wochen im Jahr auf der Südwiese, in dieser Zeit müssen Hunde dort wieder an die Leine; prüfen Sie die Schilder vor Ort und achten Sie vor dem Baden auf Blaualgen."
         },
         {
           "name": "Brockhole on Windermere",
@@ -223,7 +253,10 @@
           "tipFr": "Le parc se parcourt gratuitement et offre l'un des accès plats au bord du lac les plus faciles près de la ville ; vous pouvez aussi arriver avec le chien par la croisière Windermere Lake Cruise qui s'arrête au ponton de Brockhole.",
           "tipEs": "El recinto se pasea gratis y ofrece uno de los accesos llanos a la orilla más fáciles cerca del pueblo; también puedes llegar con el perro en el crucero Windermere Lake Cruise que para en el embarcadero de Brockhole.",
           "tipPt": "O recinto percorre-se gratuitamente e oferece um dos acessos planos à margem mais fáceis perto da vila; também pode chegar com o cão pelo cruzeiro Windermere Lake Cruise que para no pontão de Brockhole.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brockhole+on+Windermere"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Brockhole+on+Windermere",
+          "descriptionDe": "Das ehemalige Lake-District-Besucherzentrum, gelegen in denkmalgeschützten Terrassengärten von Thomas Mawson, die zwischen Windermere und Ambleside zum Seeufer hinabreichen. Angeleinte Hunde sind im gesamten Gelände und den Gärten willkommen, mit Rasenflächen, Wald und einem Steg, jedoch nicht auf dem Abenteuerspielplatz.",
+          "offLeashAreaDe": "Keine; Hunde müssen im gesamten Gelände durchgehend an der Leine bleiben und sind auf dem Abenteuerspielplatz nicht erlaubt.",
+          "tipDe": "Das Gelände ist kostenlos begehbar und bietet einen der einfachsten flachen Seeuferzugänge in Stadtnähe; Sie können auch mit Hund per Windermere-Seekreuzfahrt anreisen, die am Brockhole-Steg hält."
         }
       ],
       "tipsEn": [
@@ -284,6 +317,18 @@
         {
           "q": "É seguro o meu cão nadar no lago Windermere?",
           "a": "Os cães podem nadar em locais como Fell Foot e a margem de Millerground, mas o lago tem florações de algas azul-esverdeadas com calor que podem ser fatais para os cães. Verifique os avisos e a sinalização antes de deixar um cão entrar, e enxágue-o depois."
+        }
+      ],
+      "titleDe": "Hundefreundliche Wanderungen und Fells rund um Windermere",
+      "introDe": "Das ist der Grund, einen Hund nach Windermere mitzubringen. Hunde sind auf fast jedem Lake-District-Fell und öffentlichen Fußweg willkommen, von sanften Seeuferpfaden bis zu offenen Gipfeln, und der klassische Aufstieg zum Orrest Head beginnt wenige Minuten vom Bahnhof Windermere entfernt. Die goldene Regel ist einfach: Halten Sie Ihren Hund in der Nähe von weidenden Schafen und anderem Vieh sowie während der Brutzeit bodenbrütender Vögel im Frühling an der Leine, und lassen Sie ihn überall sonst unter enger Kontrolle laufen.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde auf den Lake-District-Fells rund um Windermere ohne Leine laufen?",
+          "a": "Ja, unter enger Kontrolle auf offenem Fell, wo kein Vieh vorhanden ist, aber Sie müssen Ihren Hund in der Nähe von Schafen und Rindern sowie während der Brutzeit bodenbrütender Vögel im Frühling an die Leine nehmen. Auf den Feldern rund um Orrest Head und die Wiese von Fell Foot befindet sich oft Vieh, halten Sie also die Leine griffbereit."
+        },
+        {
+          "q": "Ist es sicher, dass mein Hund im Windermere-See schwimmt?",
+          "a": "Hunde können an Stellen wie Fell Foot und dem Seeufer von Millerground schwimmen, aber bei warmem Wetter bilden sich im See Blaualgenblüten, die für Hunde tödlich sein können. Prüfen Sie vor dem Baden Ihres Hundes auf Algenwarnungen und Beschilderung, und spülen Sie ihn anschließend ab."
         }
       ]
     },
@@ -389,6 +434,18 @@
           "q": "Os cães vão nos barcos do lago Windermere?",
           "a": "Sim, e grátis. A Windermere Lake Cruises aceita todos os cães à trela sem custo, sem necessidade de reservar, e disponibiliza taças de água a bordo. Nas travessias muito movimentadas podem pedir-lhe que se mova para dar espaço a passageiros nervosos."
         }
+      ],
+      "titleDe": "Fortbewegung in Windermere mit Hund",
+      "introDe": "Windermere ist einer der einfachsten Orte im Vereinigten Königreich, um ihn mit Hund zu erreichen und zu erkunden, denn Züge, Ortsbusse und die Seeboote nehmen alle Hunde mit. Windermere selbst hat keinen eigenen Flughafen; die meisten Besucher kommen über die Nebenbahnlinie an, die von der West Coast Main Line in Oxenholme direkt in den Bahnhof Windermere führt, und gehen dann zu Fuß oder nehmen den kurzen Bus hinunter nach Bowness und an den See.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit dem Zug nach Windermere mitnehmen?",
+          "a": "Ja. Bei National Rail reisen bis zu zwei Hunde pro Fahrgast kostenlos mit; sie müssen an der Leine oder in einer Transportbox sein und dürfen nicht auf den Sitzen sitzen. In Oxenholme steigen Sie auf die kurze Windermere-Nebenlinie um, eine der landschaftlich schönsten hundefreundlichen Bahnanreisen Englands."
+        },
+        {
+          "q": "Dürfen Hunde auf die Windermere-Seeboote?",
+          "a": "Ja, und das kostenlos. Windermere Lake Cruises heißen alle Hunde kostenlos an der Leine willkommen, ohne Reservierungspflicht, und stellen Wassernäpfe an Bord bereit. Bei sehr belebten Fahrten kann man Sie bitten, Platz zu machen, damit ängstliche Fahrgäste genug Raum haben."
+        }
       ]
     },
     "beaches": {
@@ -461,6 +518,18 @@
           "q": "É seguro deixar o meu cão nadar no lago Windermere?",
           "a": "Em geral sim, mas o risco principal são as algas azul-esverdeadas, que podem surgir com calor e são potencialmente fatais para os cães. Verifique os avisos de algas e de qualidade da água da Environment Agency, evite a água turva ou descolorada e enxágue o cão depois do banho."
         }
+      ],
+      "titleDe": "Hundefreundliches Seeufer-Schwimmen bei Windermere",
+      "introDe": "Windermere liegt tief im Landesinneren des Lake District, es gibt also hier keine Küste und keinen Meeresstrand; stattdessen bietet die Gegend Süßwasser-Seeufer, wo Hunde waten und schwimmen können. Es gibt am Seeufer kein saisonales Hundeverbot wie an vielen englischen Küstenstränden, aber das eigentliche Sicherheitsrisiko sind Blaualgen, die bei warmem Wetter im See blühen und für Hunde tödlich sein können, prüfen Sie also immer auf Warnungen und Beschilderung, bevor Ihr Hund ins Wasser geht.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Hundestrände in Windermere?",
+          "a": "Keine Meeresstrände, da Windermere ein Binnensee ohne Küste ist. Stattdessen gibt es hundefreundliches Süßwasser-Seeufer an Stellen wie Fell Foot und Millerground, wo Hunde das ganze Jahr über ohne saisonales Verbot schwimmen können, sofern Sie auf Blaualgen achten."
+        },
+        {
+          "q": "Ist es sicher, meinen Hund im Windermere-See schwimmen zu lassen?",
+          "a": "In der Regel ja, aber das Hauptrisiko sind Blaualgen, die bei warmem Wetter auftreten können und für Hunde potenziell tödlich sind. Prüfen Sie auf Algenwarnungen und Badewasser-Hinweise der Environment Agency, meiden Sie schaumiges oder verfärbtes Wasser und spülen Sie Ihren Hund nach dem Schwimmen ab."
+        }
       ]
     },
     "vets": {
@@ -494,7 +563,10 @@
           "tipEs": "Llama primero al número de Windermere en cualquier urgencia fuera de horario; te derivarán al veterinario de guardia o a la clínica de urgencias de Kendal según haga falta.",
           "tipPt": "Ligue primeiro para o número de Windermere em qualquer urgência fora de horas; encaminham-no para o veterinário de serviço ou para a clínica de urgência de Kendal conforme necessário.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oakhill+Veterinary+Group+Lake+Road+Windermere",
-          "photo": "/images/city-places/windermere-vets-oakhill-windermere.jpg"
+          "photo": "/images/city-places/windermere-vets-oakhill-windermere.jpg",
+          "hoursDe": "Mo-Fr 08:00-18:30, Sa 09:00-14:00; täglich 24-Std.-Notfallnummer",
+          "descriptionDe": "Die Hauptpraxis in Windermere selbst, auf der Lake Road zwischen dem Ort und Bowness, bietet routinemäßige und dringende Kleintierversorgung. Die Windermere-Nummer ist als 24-Stunden-Notfallleitung besetzt, sie ist also der erste Anruf außerhalb der Öffnungszeiten.",
+          "tipDe": "Rufen Sie bei jedem Notfall außerhalb der Öffnungszeiten zuerst die Windermere-Nummer an; man leitet Sie an den diensthabenden Tierarzt oder die Notfallklinik in Kendal weiter, je nach Bedarf."
         },
         {
           "name": "Oakhill Veterinary Group (Ambleside branch)",
@@ -516,7 +588,10 @@
           "tipEs": "Útil si te alojas en el extremo norte, lado Ambleside; para cualquier urgencia nocturna, llama igualmente a la línea 24h de Windermere.",
           "tipPt": "Útil se estiver baseado no extremo norte, lado Ambleside; para qualquer urgência noturna, ligue à mesma para a linha 24h de Windermere.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Oakhill+Veterinary+Group+Church+Street+Ambleside",
-          "photo": "/images/city-places/windermere-vets-oakhill-ambleside.jpg"
+          "photo": "/images/city-places/windermere-vets-oakhill-ambleside.jpg",
+          "hoursDe": "Mo-Fr 09:00-17:00; außerhalb der Öffnungszeiten über die 24-Std.-Leitung Windermere",
+          "descriptionDe": "Die Ambleside-Filiale der Gruppe am Nordende des Sees, praktisch, wenn Sie in Richtung Ambleside, Grasmere oder den höheren Fells übernachten. Sie führt tagsüber Kleintiersprechstunden und teilt sich dieselben 24-Stunden-Notfallregelungen wie die Windermere-Praxis.",
+          "tipDe": "Nützlich, wenn Sie am nördlichen, Ambleside-Ende des Sees stationiert sind; für alles über Nacht rufen Sie weiterhin die 24-Std.-Leitung Windermere an."
         },
         {
           "name": "Vets Now Kendal (emergency)",
@@ -538,7 +613,10 @@
           "tipEs": "Telefonea antes de salir para que se preparen y confirmen la ruta más rápida; guarda este número junto a la línea Oakhill de Windermere.",
           "tipPt": "Telefone antes de sair para que se preparem e confirmem o percurso mais rápido; guarde este número ao lado da linha Oakhill de Windermere.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vets+Now+Kendal+Natland+Road",
-          "photo": "/images/city-places/windermere-vets-vets-now-kendal.jpg"
+          "photo": "/images/city-places/windermere-vets-vets-now-kendal.jpg",
+          "hoursDe": "Nächte, Wochenenden und Feiertage (nur Notfall außerhalb der Öffnungszeiten)",
+          "descriptionDe": "Eine spezielle Vets-Now-Notfallklinik innerhalb der Westmorland Vets in Kendal, etwa 20 Minuten von Windermere entfernt, die Hunde, Katzen und Kleintiere nachts, an Wochenenden und Feiertagen behandelt. Sie ist das regionale Zentrum für Fälle außerhalb der Öffnungszeiten, wenn lokale Praxen geschlossen sind.",
+          "tipDe": "Rufen Sie an, bevor Sie losfahren, damit man sich vorbereiten und die schnellste Route bestätigen kann; speichern Sie diese Nummer zusammen mit der Oakhill-Windermere-Leitung."
         }
       ],
       "faqsEn": [
@@ -579,6 +657,18 @@
         {
           "q": "Que documentação precisa o meu cão para entrar na Grã-Bretanha vindo da UE?",
           "a": "A Grã-Bretanha não aceita o Passaporte Europeu para Animais na entrada. O seu cão precisa de um Animal Health Certificate britânico, de um microchip e de uma vacinação antirrábica válida, mais um tratamento contra a ténia aprovado administrado entre 24 e 120 horas antes da chegada, por isso trate disso com um veterinário antes de viajar."
+        }
+      ],
+      "titleDe": "Tierärzte in Windermere",
+      "introDe": "Windermere hat seine eigene Kleintierpraxis im Ort, mit einer Schwesterfiliale im nahen Ambleside, und ein eigener Notdienst außerhalb der Öffnungszeiten deckt das weitere Gebiet von Kendal aus ab. Englisch ist hier universal. Für Besucher aus der EU gilt: Großbritannien akzeptiert den EU-Heimtierausweis für die Einreise nicht mehr: Hunde benötigen eine britische Tiergesundheitsbescheinigung, einen Mikrochip, eine gültige Tollwutimpfung und, für Hunde, eine Bandwurmbehandlung, die 24 bis 120 Stunden vor der Ankunft verabreicht wurde, reisen Sie also mit allen Unterlagen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es nachts einen Notfalltierarzt in der Nähe von Windermere?",
+          "a": "Ja. Die Nummer von Oakhill Windermere betreibt eine 24-Stunden-Notfallleitung, und die regionale Klinik außerhalb der Öffnungszeiten ist Vets Now in Kendal, etwa 20 Minuten entfernt, geöffnet nachts, an Wochenenden und Feiertagen. Rufen Sie vorher an, damit man dort auf Sie vorbereitet ist."
+        },
+        {
+          "q": "Welche Unterlagen benötigt mein Hund für die Einreise aus der EU nach Großbritannien?",
+          "a": "Großbritannien akzeptiert den EU-Heimtierausweis für die Einreise nicht. Ihr Hund benötigt eine britische Tiergesundheitsbescheinigung, einen Mikrochip und eine gültige Tollwutimpfung sowie eine zugelassene Bandwurmbehandlung, die 24 bis 120 Stunden vor der Ankunft verabreicht wurde, klären Sie dies also vor der Reise mit einem Tierarzt."
         }
       ]
     },
@@ -683,6 +773,18 @@
           "q": "Os visitantes da UE precisam de documentação especial para levar um cão a Windermere?",
           "a": "Sim. Como Windermere fica na Grã-Bretanha, os visitantes da UE não podem usar o Passaporte Europeu para Animais. O seu cão precisa de um Animal Health Certificate britânico emitido nos 10 dias anteriores à viagem, de um microchip, de uma vacinação antirrábica válida e de um tratamento contra a ténia entre 24 e 120 horas antes da chegada."
         }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch in Windermere mit Hund",
+      "introDe": "Windermere ist eines der hundefreundlichsten Reiseziele Englands, aber zwei Dinge überraschen Besucher: die Papierunterlagen nach dem Brexit für die Einreise mit Hund nach Großbritannien und die Landregeln, die die Schafe und die Wildtiere auf den Fells schützen. Beachten Sie beides, und der Rest ist einfach.",
+      "faqsDe": [
+        {
+          "q": "Ist Windermere ein guter Ort für einen Besuch mit Hund?",
+          "a": "Ja, es ist einer der besten in England. Hunde reisen kostenlos mit Zügen und Seebooten mit, sind in den meisten Pubs willkommen und können fast jedes Fell und jeden Fußweg begehen, sofern Sie sie in der Nähe von Vieh an der Leine halten und im Sommer auf Blaualgen im See achten."
+        },
+        {
+          "q": "Benötigen EU-Besucher besondere Unterlagen, um einen Hund nach Windermere mitzubringen?",
+          "a": "Ja. Da Windermere in Großbritannien liegt, können EU-Besucher den EU-Heimtierausweis nicht verwenden. Ihr Hund benötigt eine britische Tiergesundheitsbescheinigung, die innerhalb von 10 Tagen vor der Reise ausgestellt wurde, einen Mikrochip, eine gültige Tollwutimpfung und eine Bandwurmbehandlung 24 bis 120 Stunden vor der Ankunft."
+        }
       ]
     },
     "attractions": {
@@ -716,7 +818,11 @@
           "tipFr": "Prenez la croisière jusqu'à Brockhole ou Lakeside et combinez-la avec une promenade au bord du lac ; les ponts supérieurs ouverts sont le meilleur endroit pour un chien par temps clair.",
           "tipEs": "Toma el crucero hasta Brockhole o Lakeside y combínalo con un paseo por la orilla; las cubiertas superiores abiertas son el mejor sitio para un perro en un día despejado.",
           "tipPt": "Apanhe o cruzeiro até Brockhole ou Lakeside e combine-o com um passeio pela margem; os conveses superiores abertos são o melhor sítio para um cão num dia limpo.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Windermere+Lake+Cruises+Bowness+Pier"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Windermere+Lake+Cruises+Bowness+Pier",
+          "descriptionDe": "Der beste Weg, Englands größten See zu erleben, auf klassischen Dampfern und Ausflugsbooten, die zwischen Bowness, Ambleside, Brockhole und Lakeside verkehren. Hunde reisen auf jeder planmäßigen Fahrt und auf den Selbstfahrbooten kostenlos mit, mit Wassernäpfen an Bord.",
+          "dogPolicyDe": "Alle Hunde kostenlos willkommen, an der Leine und von den Sitzen fern; keine Reservierung nötig.",
+          "admissionFeeDe": "Hunde kostenlos; Erwachsenenpreise variieren je nach Route",
+          "tipDe": "Nehmen Sie die Kreuzfahrt nach Brockhole oder Lakeside und kombinieren Sie sie mit einem Spaziergang am Seeufer; die offenen Oberdecks sind an einem klaren Tag der schönste Ort für einen Hund."
         },
         {
           "name": "Wray Castle (National Trust)",
@@ -739,7 +845,11 @@
           "tipFr": "Arrivez par la croisière ou la traversée de Ferry House pour une sortie canine mémorable, et empruntez le sentier du rivage vers Claife Heights.",
           "tipEs": "Llega en el crucero o el transbordador de Ferry House para una salida canina memorable, y camina por el sendero de la orilla hacia Claife Heights.",
           "tipPt": "Chegue pelo cruzeiro ou pela travessia de Ferry House para uma saída canina memorável, e caminhe pelo trilho da margem em direção a Claife Heights.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wray+Castle+National+Trust+Windermere"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wray+Castle+National+Trust+Windermere",
+          "descriptionDe": "Ein dramatisches neugotisches Schloss in weitläufigem Gelände am ruhigen Westufer, wo die junge Beatrix Potter einst Urlaub machte und sich zum ersten Mal in die Lake District verliebte. Angeleinte Hunde sind im Gelände und im Café willkommen, und die Waldspaziergänge am Seeufer sind der eigentliche Reiz.",
+          "dogPolicyDe": "Angeleinte Hunde im Gelände und Café willkommen; im Schlossinneren können Einschränkungen gelten, also bei Ankunft nachfragen.",
+          "admissionFeeDe": "Gelände oft kostenlos; Parken und einige Bereiche kostenpflichtig (kostenlos für National-Trust-Mitglieder)",
+          "tipDe": "Kommen Sie mit der Seekreuzfahrt oder der Ferry-House-Überfahrt für einen unvergesslichen Hundetag, und gehen Sie den Uferweg in Richtung Claife Heights."
         },
         {
           "name": "Lakeland Motor Museum",
@@ -762,7 +872,11 @@
           "tipFr": "Il se combine bien avec un arrêt de croisière à Lakeside ; une rare attraction en intérieur qui garde le chien avec vous quand les fells sont dans les nuages.",
           "tipEs": "Combina bien con una parada del crucero en Lakeside; una rara atracción de interior que mantiene al perro contigo cuando los fells están bajo las nubes.",
           "tipPt": "Combina bem com uma paragem do cruzeiro em Lakeside; uma rara atração de interior que mantém o cão consigo quando os fells estão sob as nuvens.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lakeland+Motor+Museum+Backbarrow"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Lakeland+Motor+Museum+Backbarrow",
+          "descriptionDe": "Eine große private Sammlung klassischer Autos, Motorräder und Erinnerungsstücke am Fluss Leven am Südende des Sees, einschließlich der Campbell-Bluebird-Ausstellung. Hunde sind im gesamten Museum und dem Café am Fluss willkommen, was es zu einer echten Schlechtwetter-Option mit Hund macht.",
+          "dogPolicyDe": "Hunde im gesamten Museum und Café an der Leine willkommen.",
+          "admissionFeeDe": "Erwachsenenticket etwa 11 Pfund; Hunde kostenlos",
+          "tipDe": "Es lässt sich gut mit einem Kreuzfahrt-Halt in Lakeside kombinieren; eine seltene Attraktion im Innenbereich, bei der der Hund bei Ihnen bleiben kann, wenn die Fells unter Wolken liegen."
         }
       ],
       "tipsEn": [
@@ -824,6 +938,18 @@
           "q": "Que atrações de Windermere aceitam cães?",
           "a": "Os cruzeiros do lago, os jardins e o café de Wray Castle (à trela) e o Lakeland Motor Museum aceitam cães, tal como os jardins de Fell Foot e Brockhole do National Trust. A quinta de Hill Top é a exceção notável onde os cães não são admitidos."
         }
+      ],
+      "titleDe": "Hundefreundliche Attraktionen in Windermere",
+      "introDe": "Der Höhepunkt eines Hundetages in Windermere ist der See selbst, und eine Kreuzfahrt auf dem Wasser heißt Hunde kostenlos willkommen, mit Näpfen an Bord. Rund um den See lassen auch mehrere Attraktionen Hunde hinein, von einem Schloss am See mit Beatrix-Potter-Verbindungen bis zu einem Automuseum, in dem Hunde überall willkommen sind, sodass Sie Ihren Hund selten zurücklassen müssen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf eine Windermere-Seekreuzfahrt mitnehmen?",
+          "a": "Ja. Windermere Lake Cruises heißen alle Hunde kostenlos auf den planmäßigen Fahrten und Selbstfahrbooten willkommen, mit Wassernäpfen an Bord. Halten Sie Ihren Hund an der Leine und von den Sitzen fern, und bei belebten Fahrten kann das Personal Sie bitten, Platz zu machen."
+        },
+        {
+          "q": "Welche Attraktionen in Windermere erlauben Hunde?",
+          "a": "Die Seekreuzfahrten, das Gelände und Café von Wray Castle (an der Leine) sowie das Lakeland Motor Museum heißen allesamt Hunde willkommen, ebenso die Gärten von Fell Foot und Brockhole des National Trust. Das Bauernhaus Hill Top ist die bemerkenswerte Ausnahme, wo Hunde nicht erlaubt sind."
+        }
       ]
     },
     "petsitting": {
@@ -848,11 +974,16 @@
           "serviceTypeEs": "Alojamiento, guardería, visitas a domicilio y paseo",
           "serviceTypePt": "Alojamento, creche, visitas ao domicílio e passeio",
           "pricePerDay": "From around £20-£35 per day",
-          "languages": ["English"],
+          "languages": [
+            "English"
+          ],
           "tip": "Message two or three sitters early and arrange a short meet-and-greet before your trip so your dog is comfortable before the day you need cover.",
           "tipFr": "Contactez deux ou trois gardiens tôt et organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avant le jour où vous avez besoin de la garde.",
           "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo a tu viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
-          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço."
+          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço.",
+          "descriptionDe": "Die größte Haustierbetreuungs-Plattform im Vereinigten Königreich, mit lokalen Hundesittern, Unterbringungen und Gassigehern in Cumbria und dem Lake District. Jeder Sitter hat ein Profil, Bewertungen und Fotos, und Sie buchen und bezahlen über die App mit inbegriffenem Versicherungsschutz.",
+          "serviceTypeDe": "Hundeunterbringung, Tagesbetreuung, Kurzbesuche und Gassigehen",
+          "tipDe": "Kontaktieren Sie zwei oder drei Sitter frühzeitig und vereinbaren Sie ein kurzes Kennenlerntreffen vor Ihrer Reise, damit Ihr Hund vor dem Tag, an dem Sie Betreuung benötigen, vertraut ist."
         },
         {
           "name": "Tailster",
@@ -866,11 +997,16 @@
           "serviceTypeEs": "Paseo, guardería y alojamiento en casa",
           "serviceTypePt": "Passeio, creche e alojamento ao domicílio",
           "pricePerDay": "From around £18-£30 per day",
-          "languages": ["English"],
+          "languages": [
+            "English"
+          ],
           "tip": "Give clear notes on your dog's recall and reaction to sheep, since Lakeland carers often walk in fields and open fell where livestock is present.",
           "tipFr": "Donnez des indications claires sur le rappel de votre chien et sa réaction aux moutons, car les intervenants du Lakeland promènent souvent dans des champs et sur le fell ouvert où il y a du bétail.",
           "tipEs": "Da indicaciones claras sobre la llamada de vuelta de tu perro y su reacción ante las ovejas, ya que los cuidadores del Lakeland suelen pasear por prados y fell abierto donde hay ganado.",
-          "tipPt": "Dê indicações claras sobre a chamada de retorno do seu cão e a sua reação às ovelhas, já que os cuidadores do Lakeland passeiam muitas vezes por campos e fell aberto onde há gado."
+          "tipPt": "Dê indicações claras sobre a chamada de retorno do seu cão e a sua reação às ovelhas, já que os cuidadores do Lakeland passeiam muitas vezes por campos e fell aberto onde há gado.",
+          "descriptionDe": "Ein landesweites Netzwerk versicherter, geprüfter Hundegassigeher und -sitter, das Sie basierend auf Ihren Daten und den Bedürfnissen Ihres Hundes mit lokalen Betreuern vermittelt. Es ist eine nützliche Alternative zu Rover, um Betreuung für einen halbtägigen Spaziergang oder einen ganzen Tag auf den Fells zu finden.",
+          "serviceTypeDe": "Gassigehen, Tagesbetreuung und Heimunterbringung",
+          "tipDe": "Geben Sie klare Hinweise zum Rückruf Ihres Hundes und seiner Reaktion auf Schafe, da Betreuer im Lake District oft auf Feldern und offenem Fell mit Vieh gehen."
         }
       ],
       "tipsEn": [
@@ -931,6 +1067,18 @@
         {
           "q": "Posso deixar o meu cão enquanto subo um fell ou faço um passeio de barco?",
           "a": "Sim. Um cuidador local ou uma creche pelo Rover ou Tailster é ideal para um grande dia de fell ou um passeio de barco mais longo, embora muitos cruzeiros e passeios baixos aceitem cães de qualquer forma. Partilhe com o cuidador a chamada de retorno do seu cão perto das ovelhas e os dados do seu veterinário."
+        }
+      ],
+      "titleDe": "Hundebetreuung und Gassigehen in Windermere",
+      "introDe": "Wenn Sie ein hohes Fell besteigen oder eine Bootstour unternehmen möchten, die für Ihren Hund nicht ideal ist, können nationale Plattformen Sie mit geprüften lokalen Betreuern und Gassigehern rund um Windermere und den weiteren Lake District verbinden. Buchen Sie im Hochsommer und in den Schulferien weit im Voraus, wenn die Nachfrage in dieser kleinen Urlaubsregion hoch ist.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter in Windermere?",
+          "a": "Nationale Plattformen wie Rover und Tailster listen geprüfte, versicherte Sitter, Unterbringungen und Gassigeher in Cumbria und dem Lake District auf. Sie durchsuchen Profile und Bewertungen, vereinbaren ein Kennenlerntreffen und buchen über die App; reservieren Sie früh für den Hochsommer und Ferien."
+        },
+        {
+          "q": "Kann ich meinen Hund zurücklassen, während ich ein Fell besteige oder eine Bootstour mache?",
+          "a": "Ja. Ein lokaler Sitter oder eine Tagesbetreuung über Rover oder Tailster ist ideal für einen großen Falltag oder eine längere Bootstour, obwohl viele Kreuzfahrten und niedrigere Wanderungen ohnehin hundefreundlich sind. Teilen Sie dem Betreuer den Rückruf Ihres Hundes bei Schafen und die Tierarztdaten mit."
         }
       ]
     }

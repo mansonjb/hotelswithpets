@@ -39,7 +39,11 @@
           "tipFr": "Demandez une table en terrasse à l'ombre ; le soleil de midi sur la place peut être fort pour un chien.",
           "tipEs": "Pide una mesa en la terraza a la sombra; el sol del mediodía en la plaza puede ser fuerte para un perro.",
           "tipPt": "Peça uma mesa na esplanada à sombra; o sol do meio-dia na praça pode ser forte para um cão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/El+Cine+Los+Cristianos"
+          "googleMapsUrl": "https://www.google.com/maps/search/El+Cine+Los+Cristianos",
+          "descriptionDe": "Ein langjähriges Tapas- und kanarisches Meeresfrüchtelokal im alten Herzen von Los Cristianos, wenige Gehminuten vom Fischereihafen entfernt. Hunde an der Leine sind auf der Straßenterrasse willkommen, und die Küche setzt auf frischen lokalen Fisch, Knoblauchgarnelen und gegrillten Oktopus.",
+          "petPolicyDe": "Hunde an der Leine auf der Terrasse willkommen.",
+          "mustTryDe": "Gegrillter Oktopus und ein Teller papas arrugadas con mojo.",
+          "tipDe": "Bitten Sie um einen schattigen Terrassentisch; die Mittagssonne auf dem Platz kann für einen Hund stark sein."
         },
         {
           "name": "La Tasquita de Min",
@@ -65,7 +69,11 @@
           "tipFr": "À combiner avec une promenade matinale sur la Playa del Cabezo avant le déjeuner, tant que le sable est frais.",
           "tipEs": "Combínalo con un paseo temprano por la Playa del Cabezo antes de comer, mientras la arena está fresca.",
           "tipPt": "Combine com um passeio matinal na Playa del Cabezo antes do almoço, enquanto a areia está fresca.",
-          "googleMapsUrl": "https://www.google.com/maps/search/La+Tasquita+El+Medano+Tenerife"
+          "googleMapsUrl": "https://www.google.com/maps/search/La+Tasquita+El+Medano+Tenerife",
+          "descriptionDe": "Eine entspannte kanarische Tapas-Bar in der Kitesurf-Stadt El Médano, ein paar Minuten von der Strandpromenade und dem Hundestrand Playa del Cabezo entfernt. Hunde an der Leine sind an den Außentischen willkommen, und die Karte dreht sich um lokalen Fisch, Croquetas und Inselkäse.",
+          "petPolicyDe": "Hunde an der Leine an den Außentischen willkommen.",
+          "mustTryDe": "Croquetas und frischer Fisch des Tages mit mojo verde.",
+          "tipDe": "Kombinieren Sie es mit einem frühen Spaziergang am Playa del Cabezo vor dem Mittagessen, solange der Sand noch kühl ist."
         },
         {
           "name": "Bianco Beach Club",
@@ -91,7 +99,11 @@
           "tipFr": "Réservez une table au coucher du soleil côté mer ; demandez une gamelle d'eau en commandant.",
           "tipEs": "Reserva una mesa al atardecer en el lado del mar; pide un cuenco de agua al pedir.",
           "tipPt": "Reserve uma mesa ao pôr do sol no lado do mar; peça uma tigela de água ao encomendar.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Playa+Fanabe+Costa+Adeje"
+          "googleMapsUrl": "https://www.google.com/maps/search/Restaurant+Playa+Fanabe+Costa+Adeje",
+          "descriptionDe": "Ein Restaurant am Meer auf der Promenade von Costa Adeje mit Blick auf den Playa de Fañabé und einer weiten Außenterrasse zum Atlantik. Hunde an der Leine sind auf der Terrasse willkommen, und die Karte mischt mediterrane und kanarische Gerichte mit einer starken Auswahl an frischem Fisch und Pasta.",
+          "petPolicyDe": "Hunde an der Leine auf der Terrasse willkommen.",
+          "mustTryDe": "Fang des Tages und ein Glas Tacoronte Weißwein.",
+          "tipDe": "Buchen Sie einen Sonnenuntergangstisch auf der Meeresseite; bitten Sie bei der Bestellung um einen Wassernapf."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Preciso de pôr açaime no cão à mesa?",
           "a": "Não, mas as regras espanholas e canárias exigem açaime em público para as raças classificadas como potencialmente perigosas. Leve um açaime no saco se o seu cão estiver na lista regulada."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants auf Teneriffa",
+      "introDe": "Auf Teneriffa wird fast das ganze Jahr über draußen gegessen, und genau deshalb funktioniert es so gut mit Hund. Der südliche Ferienstreifen von Costa Adeje bis Los Cristianos ist voller Meeresterrassen, Strand-Chiringuitos und entspannter Cafés, in denen Hunde an der Leine an den Außentischen willkommen sind. Im Landesinneren und in El Médano finden Sie Guachinches und Tapas-Bars mit papas arrugadas con mojo, frischem Thunfisch und Tacoronte-Weinen. Das milde Klima von 22-26 °C sorgt dafür, dass das Essen auf der Terrasse im Januar genauso angenehm ist wie im Juli.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants auf Teneriffa erlaubt?",
+          "a": "Auf Terrassen ja, sehr weit verbreitet entlang der Strandpromenaden von Costa Adeje und Los Cristianos sowie in El Médano für Hunde an der Leine. Drinnen hängt es vom jeweiligen Besitzer ab; bei dem milden Klima essen die meisten Gäste ohnehin das ganze Jahr über draußen."
+        },
+        {
+          "q": "Muss ich meinem Hund am Tisch einen Maulkorb anlegen?",
+          "a": "Nein, aber spanische und kanarische Vorschriften verlangen, dass Hunde von als potenziell gefährlich eingestuften Rassen in der Öffentlichkeit einen Maulkorb tragen müssen. Halten Sie einen Maulkorb in Ihrer Tasche bereit, falls Ihr Hund auf der geregelten Liste steht."
+        }
       ]
     },
     "parks": {
@@ -183,7 +207,10 @@
           "tipFr": "Il peut faire proche de zéro à 2 000 m même en été ; prévoyez de l'eau et attention à la roche volcanique coupante pour les coussinets.",
           "tipEs": "A 2.000 m puede rondar los cero grados incluso en verano; lleva agua y cuidado con la roca volcánica cortante para las almohadillas.",
           "tipPt": "A 2.000 m pode rondar os zero graus mesmo no verão; leve água e cuidado com a rocha vulcânica cortante para as almofadas.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Parque+Nacional+del+Teide"
+          "googleMapsUrl": "https://www.google.com/maps/search/Parque+Nacional+del+Teide",
+          "descriptionDe": "Spaniens meistbesuchter Nationalpark, eine riesige Vulkancaldera rund um den 3.715 m hohen Teide-Gipfel, den höchsten Punkt Spaniens. Hunde sind in der Gipfel-Seilbahn des Teide oder in den strengsten Reservatzonen nicht erlaubt, aber Hunde an der Leine sind auf vielen der unteren markierten Wege und Aussichtspunkte am Straßenrand auf dem Plateau Las Cañadas zugelassen. Prüfen Sie vor dem Aufbruch stets die aktuelle Beschilderung und die Parkregeln.",
+          "offLeashAreaDe": "Hunde müssen an der Leine gehalten werden; in der Gipfel-Seilbahn oder in strengen Reservatzonen nicht erlaubt.",
+          "tipDe": "In 2.000 m Höhe kann es selbst im Sommer nahezu Frost geben; bringen Sie Wasser mit und achten Sie auf scharfes Vulkangestein an den Pfoten."
         },
         {
           "name": "Parque Rural de Anaga",
@@ -203,7 +230,10 @@
           "tipFr": "Les sentiers peuvent être raides et glissants dans la brume ; choisissez une boucle plus douce près de Cruz del Carmen avec votre chien.",
           "tipEs": "Los senderos pueden ser empinados y resbaladizos con niebla; elige una vuelta más suave cerca de Cruz del Carmen con tu perro.",
           "tipPt": "Os trilhos podem ser íngremes e escorregadios com nevoeiro; escolha uma volta mais suave perto de Cruz del Carmen com o seu cão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Parque+Rural+de+Anaga"
+          "googleMapsUrl": "https://www.google.com/maps/search/Parque+Rural+de+Anaga",
+          "descriptionDe": "Ein UNESCO-Biosphärenreservat mit uraltem Lorbeerwald (Laurisilva), das die zerklüftete Nordostspitze Teneriffas bedeckt, mit tiefen Schluchten, Kammwegen und winzigen Weilern. Viele der markierten Fußwege heißen Hunde an der Leine willkommen und bieten kühles, schattiges Gehen im Gegensatz zum trockenen Süden. Ein beliebter Fluchtort an heißen Tagen.",
+          "offLeashAreaDe": "Leinenpflicht auf markierten Wegen; einige Kernzonen des Reservats können den Zugang einschränken.",
+          "tipDe": "Wege können bei Nebel steil und rutschig sein; wählen Sie mit Ihrem Hund eine sanftere Runde bei Cruz del Carmen."
         },
         {
           "name": "Parque del Bosquito (El Médano)",
@@ -223,7 +253,10 @@
           "tipFr": "Promenez tôt ; les sections côtières ouvertes offrent peu d'ombre une fois le soleil haut.",
           "tipEs": "Pasea temprano; los tramos costeros abiertos tienen poca sombra con el sol alto.",
           "tipPt": "Passeie cedo; os trechos costeiros abertos têm pouca sombra com o sol alto.",
-          "googleMapsUrl": "https://www.google.com/maps/search/El+Medano+seafront+park+Tenerife"
+          "googleMapsUrl": "https://www.google.com/maps/search/El+Medano+seafront+park+Tenerife",
+          "descriptionDe": "Eine entspannte Grünfläche am Meer in El Médano mit schattigen Wegen, Bänken und leichtem Zugang zur Promenade und zum Hundestrand Playa del Cabezo. Der praktischste tägliche Spaziergang an der Leine für Besucher, die in der Kitesurf-Stadt übernachten, mit dem vulkanischen Montaña Roja im Hintergrund.",
+          "offLeashAreaDe": "Leinenpflicht im gesamten Stadtpark.",
+          "tipDe": "Gehen Sie früh spazieren; die offenen Küstenabschnitte bieten wenig Schatten, sobald die Sonne hoch steht."
         }
       ],
       "tipsEn": [
@@ -284,6 +317,18 @@
         {
           "q": "Há um parque canino sem trela no sul de Tenerife?",
           "a": "Sim, vários municípios do sul têm parques caninos vedados, entre eles nas zonas de Arona e Adeje. Consulte o site ou o mapa do ayuntamiento para o mais próximo do seu alojamento."
+        }
+      ],
+      "titleDe": "Hundefreundliche Parks & Natur auf Teneriffa",
+      "introDe": "Teneriffa ist ein einziger riesiger Spielplatz im Freien, von der vulkanischen Mondlandschaft des Teide-Nationalparks (3.715 m) bis zum uralten Lorbeerwald des Anaga-Naturparks. Hunde sind an der Leine auf den meisten unteren Wegen und in Stadtparks willkommen, wobei die höchstgelegenen Reservate und geschützten Areale Einschränkungen haben. Für Spaziergänge im Alltag bietet der Süden palmengesäumte Promenaden und Parks, während der Norden sowie die Massive von Anaga und Teno kühlere, grünere Wanderungen bieten.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in den Teide-Nationalpark mitnehmen?",
+          "a": "Hunde an der Leine sind auf vielen unteren markierten Wegen und Aussichtspunkten am Straßenrand zugelassen, aber nicht in der Gipfel-Seilbahn oder in den strengsten Reservatzonen. Bedingungen und Regeln ändern sich, prüfen Sie also die aktuelle Beschilderung im Park, bevor Sie losgehen, und rechnen Sie mit Kälte in der Höhe."
+        },
+        {
+          "q": "Gibt es einen Hundeauslaufpark im Süden Teneriffas?",
+          "a": "Ja, mehrere Städte im Süden haben eingezäunte städtische parques caninos, unter anderem in den Gebieten Arona und Adeje. Prüfen Sie die Website des lokalen ayuntamiento oder die Karte für den nächstgelegenen zu Ihrer Unterkunft."
         }
       ]
     },
@@ -391,6 +436,18 @@
           "q": "Preciso de documentação especial para voar para Tenerife com um cão?",
           "a": "Não, as ilhas Canárias fazem parte de Espanha e da UE. Os viajantes UE precisam de passaporte europeu, microchip ISO e vacina antirrábica em dia, sem quarentena. Reserve o lugar de animal da companhia com antecedência, os lugares são limitados."
         }
+      ],
+      "titleDe": "Mit Hund auf Teneriffa unterwegs",
+      "introDe": "Teneriffa hat zwei Flughäfen: TFS (Tenerife Sur), das winterliche Charter-Drehkreuz für die südlichen Ferienorte, und TFN (Tenerife Norte) für Flüge zwischen den Inseln und zum Festland. Am Boden fährt die Insel mit TITSA-Guaguas (Bussen) und der Straßenbahn Santa Cruz-La Laguna (tranvía), während Fähren von Fred Olsen und Naviera Armas Teneriffa mit den anderen Kanarischen Inseln verbinden. Ein Mietwagen ist die praktischste Art, Süden, Teide und Norden mit Hund zu kombinieren. Jede Option hat ihre eigenen Haustierregeln.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in TITSA-Bussen auf Teneriffa mitnehmen?",
+          "a": "Kleine Haustiere in einer geschlossenen Transportbox werden akzeptiert; größere Hunde liegen im Ermessen des Fahrers und benötigen generell Maulkorb und Leine. Für größere Hunde ist ein Mietwagen oder ein hundefreundliches Taxi weit zuverlässiger, besonders für Tagesausflüge zum Teide oder in den Norden."
+        },
+        {
+          "q": "Benötige ich besondere Unterlagen, um mit meinem Hund nach Teneriffa zu fliegen?",
+          "a": "Nein, die Kanarischen Inseln gehören zu Spanien und der EU. EU-Reisende benötigen einen EU-Heimtierausweis, einen ISO-Mikrochip und eine aktuelle Tollwutimpfung, ohne Quarantäne. Buchen Sie den Tierplatz bei der Fluggesellschaft im Voraus, da die Plätze begrenzt sind."
+        }
       ]
     },
     "beaches": {
@@ -473,6 +530,18 @@
           "q": "Os cães podem usar as praias de Costa Adeje?",
           "a": "As principais praias turísticas de Costa Adeje restringem os cães, mas o longo passeio marítimo é um bom passeio à trela com vista para o mar e cafés. Para areia a sério, vá à praia canina de El Médano a poucos minutos de carro."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände auf Teneriffa",
+      "introDe": "Teneriffa ist eine ganzjährige Strandinsel, mit Meerestemperaturen und Lufttemperaturen, die von Dezember bis April mild bleiben, genau dann, wenn es in Nordeuropa kalt ist. Der Höhepunkt für Hundebesitzer ist der Playa del Cabezo in El Médano, ein ausgewiesener Hundestrand mit goldenem Sand und stetigem Wind, der Kitesurfer anzieht. Darüber hinaus hat der Süden lange natürliche und schwarze Vulkanstrände, aber der ausgewiesene Hundezugang ist begrenzt und ändert sich je nach kommunalen Regeln, prüfen Sie also immer die aktuelle Beschilderung des Ayuntamiento, bevor Sie Ihren Hund auf den Sand lassen.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der Hundestrand auf Teneriffa?",
+          "a": "Der bekannteste ausgewiesene Hundestrand ist der Playa del Cabezo in El Médano, ein goldener Sandstreifen, beliebt bei Kitesurfern und ganzjährig für Hunde geöffnet. Ausweisungen können sich ändern, bestätigen Sie also immer die aktuelle Beschilderung des Ayuntamiento bei der Ankunft."
+        },
+        {
+          "q": "Können Hunde die Strände in Costa Adeje nutzen?",
+          "a": "Die wichtigsten Ferienstrände von Costa Adeje beschränken Hunde, aber die lange Strandpromenade ist ein großartiger Spaziergang an der Leine mit Meerblick und Cafés. Für echte Sandzeit fahren Sie kurz zum Hundestrand in El Médano."
+        }
       ]
     },
     "vets": {
@@ -520,7 +589,10 @@
           "tipEs": "Guarda el número al llegar; es la clínica que habla inglés más cómoda para los resorts de Costa Adeje y Playa Paraíso.",
           "tipPt": "Guarde o número à chegada; é a clínica que fala inglês mais cómoda para os resorts de Costa Adeje e Playa Paraíso.",
           "googleMapsUrl": "https://www.google.com/maps/search/VetSur+Armenime+Adeje",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo-Fr 09:30-20:00, Sa 09:30-13:00; sonntags geschlossen. Keine 24-Stunden-Einrichtung.",
+          "descriptionDe": "Eine etablierte Klinik, die die Gebiete Costa Adeje und Armeñime bedient, mit vollständigem englischsprachigem Service für internationale Kunden. Allgemeinmedizin, Chirurgie, Diagnostik und Impfungen, praktisch für Besucher, die in den südlichen Ferienorten übernachten.",
+          "tipDe": "Speichern Sie die Nummer bei der Ankunft; sie ist die praktischste englischsprachige Klinik für die Ferienorte Costa Adeje und Playa Paraíso."
         },
         {
           "name": "Animal Center Sur (Medanovet)",
@@ -542,7 +614,10 @@
           "tipEs": "Llama primero a la línea móvil 24h para confirmar que hay un veterinario de guardia antes de desplazarte por una urgencia nocturna.",
           "tipPt": "Ligue primeiro para a linha móvel 24h para confirmar que há um veterinário de serviço antes de se deslocar por uma urgência noturna.",
           "googleMapsUrl": "https://www.google.com/maps/search/Animal+Center+Sur+Medanovet+El+Medano",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo-Fr 09:30-13:00 und 17:00-20:00, Sa 10:00-13:30; 24-Stunden-Notfälle über +34 607 346 183.",
+          "descriptionDe": "Die maßgebliche englischsprachige Klinik in El Médano, in der Nähe des Hundestrands Playa del Cabezo, mit Allgemeinmedizin, Chirurgie und einer beworbenen 24-Stunden-Notrufnummer. Die praktischste Option für Besucher, die in El Médano oder in der Nähe des Flughafens TFS übernachten.",
+          "tipDe": "Rufen Sie zuerst die 24-Stunden-Mobilleitung an, um zu bestätigen, dass ein Tierarzt im Dienst ist, bevor Sie bei einem nächtlichen Notfall hinfahren."
         },
         {
           "name": "Medivet 24 horas San Antonio",
@@ -564,7 +639,10 @@
           "tipEs": "Es la opción 24h más segura para una urgencia crítica; telefonea antes para que el equipo esté preparado cuando llegues desde el sur.",
           "tipPt": "É a opção 24h mais segura para uma urgência crítica; telefone antes para que a equipa esteja pronta quando chegar do sul.",
           "googleMapsUrl": "https://www.google.com/maps/search/Medivet+24+horas+San+Antonio+Santa+Cruz+Tenerife",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "24 Stunden geöffnet, 365 Tage im Jahr.",
+          "descriptionDe": "Ein echtes 24-Stunden-Kleintier-Tierkrankenhaus in Santa Cruz, Teil der Medivet-Gruppe, jeden Tag im Jahr für Notfälle geöffnet. Das maßgebliche Zentrum für ernste nächtliche Fälle; rechnen Sie mit etwa 45-60 Minuten Fahrzeit von den südlichen Ferienorten.",
+          "tipDe": "Dies ist die sicherste 24-Stunden-Option für einen kritischen Notfall; rufen Sie vorher an, damit das Team bereit ist, wenn Sie aus dem Süden ankommen."
         }
       ],
       "faqsEn": [
@@ -605,6 +683,18 @@
         {
           "q": "Preciso de quarentena para levar o meu cão a Tenerife?",
           "a": "Não. As ilhas Canárias fazem parte de Espanha e da UE: os animais UE viajam com passaporte europeu, microchip e vacina antirrábica em dia, sem quarentena. Os animais de fora da UE precisam de certificado sanitário UE e por vezes de um teste serológico da raiva."
+        }
+      ],
+      "titleDe": "Tierärzte & Notfallversorgung auf Teneriffa",
+      "introDe": "Teneriffa hat ein dichtes Netz an Tierarztkliniken, mit mehreren englischsprachigen Praxen im touristischen Süden rund um Costa Adeje, Adeje und El Médano, sowie einem echten 24-Stunden-Tierkrankenhaus in Santa Cruz für ernste Notfälle. Da die Kanarischen Inseln zu Spanien und der EU gehören, benötigen die meisten europäischen Reisenden lediglich einen EU-Heimtierausweis mit aktueller Tollwutimpfung und einem Mikrochip, ohne Quarantäne.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt auf Teneriffa?",
+          "a": "Ja. Medivet 24 horas San Antonio in Santa Cruz (+34 922 28 46 11) ist ein echtes 24/7-Krankenhaus. Im Süden bewirbt Animal Center Sur in El Médano (+34 922 176 081) eine 24-Stunden-Bereitschaftsleitung (+34 607 346 183). Rufen Sie vorher an, um zu bestätigen, dass ein Tierarzt im Dienst ist."
+        },
+        {
+          "q": "Benötige ich Quarantäne, um meinen Hund nach Teneriffa mitzubringen?",
+          "a": "Nein. Die Kanarischen Inseln gehören zu Spanien und der EU, sodass EU-Haustiere mit einem EU-Heimtierausweis, einem Mikrochip und aktueller Tollwutimpfung reisen, ohne Quarantäne. Nicht-EU-Haustiere benötigen eine EU-Gesundheitsbescheinigung und möglicherweise einen Tollwut-Titertest."
         }
       ]
     },
@@ -709,6 +799,18 @@
           "q": "Tenerife é um bom destino de sol de inverno com um cão?",
           "a": "Sim, um dos melhores da Europa. O sul mantém-se quente e solarengo em pleno inverno, as ilhas Canárias fazem parte da UE por isso não há quarentena para animais UE, e os voos charter diretos de inverno para TFS tornam-na fácil de alcançar com um cão."
         }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch auf Teneriffa mit Hund",
+      "introDe": "Teneriffa ist eine der besten Winter-Sonne-Fluchten Europas für Hundebesitzer: 22-26 °C das ganze Jahr über, ein EU-Heimtierausweis-Reiseziel ohne Quarantäne und eine Südküste, die für das Leben im Freien gebaut ist. Der Schlüssel zu einer reibungslosen Reise ist die Wahl der richtigen Basis (Costa Adeje, Los Cristianos oder El Médano im Süden), die Planung rund um die Hitze und die Höhenlage des Teide, sowie das Wissen, dass der Zugang zu ausgewiesenen Hundestränden und -wegen je nach Gemeinde variiert.",
+      "faqsDe": [
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch auf Teneriffa mit Hund?",
+          "a": "Der Süden ist ein ganzjähriges Reiseziel, aber November bis April ist der Sweet Spot: milde Wintersonne bei etwa 22-26 °C, weniger Gedränge, und angenehme Temperaturen für Strandspaziergänge und Terrassen. Der Hochsommer ist heiß und schattenlos im Süden, gehen Sie also früh und spät spazieren."
+        },
+        {
+          "q": "Ist Teneriffa ein gutes Winter-Sonne-Reiseziel mit Hund?",
+          "a": "Ja, es ist eines der besten in Europa. Der Süden bleibt im Hochwinter warm und sonnig, die Kanarischen Inseln gehören zur EU, sodass für EU-Haustiere keine Quarantäne nötig ist, und direkte Winter-Charterflüge nach TFS machen es leicht, mit Hund anzureisen."
+        }
       ]
     },
     "attractions": {
@@ -742,7 +844,11 @@
           "tipFr": "À combiner avec le nord plus frais pour échapper à la chaleur ; le tramway depuis Santa Cruz admet les petits animaux en sac.",
           "tipEs": "Combínalo con el norte más fresco para escapar del calor; el tranvía desde Santa Cruz admite mascotas pequeñas en transportín.",
           "tipPt": "Combine com o norte mais fresco para fugir do calor; o tranvía a partir de Santa Cruz admite animais pequenos em transportadora.",
-          "googleMapsUrl": "https://www.google.com/maps/search/La+Laguna+Tenerife"
+          "googleMapsUrl": "https://www.google.com/maps/search/La+Laguna+Tenerife",
+          "descriptionDe": "Die UNESCO-gelistete ehemalige Inselhauptstadt, mit einem Raster aus farbenfrohen Kolonialstraßen, begrünten Plätzen und historischen Fassaden. Die gesamte Altstadt ist ein Freiluft-Spaziergang, der zu einem Hund an der Leine passt, mit Cafés und Terrassen überall und einem kühlen nördlichen Klima, das ihn selbst an heißen Tagen angenehm macht.",
+          "dogPolicyDe": "Hunde an der Leine auf allen Straßen und Plätzen willkommen; Museen und Kirchen drinnen eingeschränkt.",
+          "admissionFeeDe": "Kostenlos (Freiluft-Stadt).",
+          "tipDe": "Kombinieren Sie es mit dem kühleren Norden für eine Flucht an heißen Tagen; die Straßenbahn von Santa Cruz erlaubt kleine Haustiere in Transportboxen."
         },
         {
           "name": "Garachico",
@@ -765,7 +871,11 @@
           "tipFr": "À combiner avec une route à travers le massif de Teno ; la route côtière offre des belvédères dog-friendly spectaculaires.",
           "tipEs": "Combínalo con una ruta por el macizo de Teno; la carretera costera tiene miradores dog-friendly espectaculares.",
           "tipPt": "Combine com uma viagem pelo maciço de Teno; a estrada costeira tem miradouros dog-friendly espetaculares.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Garachico+Tenerife"
+          "googleMapsUrl": "https://www.google.com/maps/search/Garachico+Tenerife",
+          "descriptionDe": "Eine historische Stadt an der Nordküste, wiederaufgebaut nach einem Vulkanausbruch im Jahr 1706, berühmt für ihre natürlichen Vulkangesteinsbecken (El Caletón), Kopfsteinpflastergassen und alte Plätze. Die Uferpromenade, Gassen und Beckenumgebungen sind ein leichter Freiluft-Spaziergang an der Leine, mit Meerblick und einer ruhigen, authentischen Atmosphäre abseits des Ferien-Südens.",
+          "dogPolicyDe": "Hunde an der Leine auf den Straßen und der Uferpromenade willkommen; Schwimmen in den Becken ist für Menschen.",
+          "admissionFeeDe": "Kostenlos (Freiluft-Stadt).",
+          "tipDe": "Kombinieren Sie es mit einer Fahrt durch das Teno-Massiv; die Küstenstraße hat dramatische hundefreundliche Aussichtspunkte."
         },
         {
           "name": "Puerto de la Cruz seafront",
@@ -788,7 +898,11 @@
           "tipFr": "Belle demi-journée depuis le sud en voiture ; le nord reste doux quand le sud est au plus chaud.",
           "tipEs": "Buena media jornada desde el sur en coche; el norte se mantiene suave cuando el sur está en su punto más caluroso.",
           "tipPt": "Boa meia-jornada desde o sul de carro; o norte mantém-se suave quando o sul está no seu ponto mais quente.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Puerto+de+la+Cruz+Tenerife"
+          "googleMapsUrl": "https://www.google.com/maps/search/Puerto+de+la+Cruz+Tenerife",
+          "descriptionDe": "Die ursprüngliche Ferienstadt Teneriffas an der grünen Nordküste, mit einem historischen Zentrum, einer palmengesäumten Uferpromenade und der dramatischen Atlantikbrandung unterhalb des alten Hafens. Die Promenade, Plätze und alten Straßen ergeben einen entspannten Spaziergang an der Leine, und der kühlere, üppigere Norden ist ein erfrischender Kontrast zum trockenen Süden.",
+          "dogPolicyDe": "Hunde an der Leine auf der Promenade und in der Altstadt willkommen; Ferienstrände eingeschränkt.",
+          "admissionFeeDe": "Kostenlos (Freiluft-Stadt).",
+          "tipDe": "Großartiger halber Tag vom Süden aus mit dem Auto; der Norden bleibt mild, wenn der Süden am heißesten ist."
         }
       ],
       "tipsEn": [
@@ -850,6 +964,18 @@
           "q": "Posso levar o meu cão a observar baleias a partir de Tenerife?",
           "a": "Alguns operadores de observação de baleias e golfinhos do sul (Los Cristianos, Puerto Colón) aceitam cães à trela no convés, mas as políticas variam consoante o barco. Confirme diretamente ao reservar, e leve água e sombra para o seu cão durante a saída."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten auf Teneriffa",
+      "introDe": "Teneriffas beste Erlebnisse spielen sich im Freien ab, was perfekt zu einem Hund an der Leine passt: die vulkanischen Landschaften rund um den Teide, die Lorbeerwälder von Anaga, die historischen Straßen des UNESCO-gelisteten La Laguna und der Küstenstadt Puerto de la Cruz, sowie das hübsche Fischerdorf Garachico. Viele Stadtzentren, Aussichtspunkte und untere Wanderwege heißen Hunde willkommen, wobei kostenpflichtige Attraktionen drinnen und die strengsten Reservate dies nicht tun. Fast alles, was hier zählt, lässt sich mit Hund zu Fuß genießen.",
+      "faqsDe": [
+        {
+          "q": "Welche Sehenswürdigkeiten auf Teneriffa sind hundefreundlich?",
+          "a": "Die Erlebnisse im Freien: die historischen Straßen von La Laguna und Puerto de la Cruz, das Dorf Garachico, die unteren Wanderwege und Aussichtspunkte rund um den Teide sowie der Lorbeerwald von Anaga heißen alle Hunde an der Leine willkommen. Museen drinnen, kostenpflichtige Themenparks und die strengsten Reservate tun dies nicht."
+        },
+        {
+          "q": "Kann ich meinen Hund zur Walbeobachtung von Teneriffa mitnehmen?",
+          "a": "Einige Wal- und Delfinbeobachtungsanbieter aus dem Süden (Los Cristianos, Puerto Colón) erlauben Hunde an der Leine an Deck, aber die Richtlinien variieren je nach Boot. Bestätigen Sie dies direkt bei der Buchung und bringen Sie Wasser und Schatten für Ihren Hund auf der Fahrt mit."
+        }
       ]
     },
     "petsitting": {
@@ -881,7 +1007,10 @@
           "tip": "Filter by your resort area (Costa Adeje, Los Cristianos, Arona) and message sitters early in the winter high season.",
           "tipFr": "Filtrez par votre zone de séjour (Costa Adeje, Los Cristianos, Arona) et contactez les sitters tôt en haute saison hivernale.",
           "tipEs": "Filtra por tu zona de estancia (Costa Adeje, Los Cristianos, Arona) y escribe a los cuidadores pronto en la temporada alta de invierno.",
-          "tipPt": "Filtre pela sua zona de estadia (Costa Adeje, Los Cristianos, Arona) e contacte os cuidadores cedo na época alta de inverno."
+          "tipPt": "Filtre pela sua zona de estadia (Costa Adeje, Los Cristianos, Arona) e contacte os cuidadores cedo na época alta de inverno.",
+          "descriptionDe": "Eine Online-Plattform, die Hundebesitzer mit geprüften lokalen Sittern und Gassigehern in ganz Teneriffa verbindet, mit Pension, Tagesbetreuung und Spaziergängen. Nur ein kleiner Anteil der Sitter-Bewerber wird zugelassen, und jede Buchung ist durch eine Tierarztversicherung abgesichert, was sie zu einer verlässlichen Option für Besucher im Süden macht.",
+          "serviceTypeDe": "Pension, Tagesbetreuung und Gassi-Service",
+          "tipDe": "Filtern Sie nach Ihrem Ferienort (Costa Adeje, Los Cristianos, Arona) und kontaktieren Sie Sitter früh in der Winterhochsaison."
         },
         {
           "name": "Rover",
@@ -902,7 +1031,10 @@
           "tip": "Filter by sitters who accept your dog's size and arrange a short meet-and-greet on your arrival day.",
           "tipFr": "Filtrez les sitters acceptant la taille de votre chien et organisez une courte rencontre le jour de votre arrivée.",
           "tipEs": "Filtra por cuidadores que acepten el tamaño de tu perro y organiza un breve encuentro el día de tu llegada.",
-          "tipPt": "Filtre por cuidadores que aceitem o tamanho do seu cão e marque um breve encontro no dia da chegada."
+          "tipPt": "Filtre por cuidadores que aceitem o tamanho do seu cão e marque um breve encontro no dia da chegada.",
+          "descriptionDe": "Ein großes internationales Netzwerk von Haustiersittern und Gassigehern mit Betreuern in ganz Teneriffa, die Pension, Haussitting, Kurzbesuche und Spaziergänge anbieten. Profile, Bewertungen und sichere In-App-Zahlung machen es einfach, Betreuung für einen Tagesausflug zum Teide, eine Fähre nach La Gomera oder einen längeren Ausflug zu buchen.",
+          "serviceTypeDe": "Pension, Haussitting, Besuche und Spaziergänge",
+          "tipDe": "Filtern Sie nach Sittern, die die Größe Ihres Hundes akzeptieren, und vereinbaren Sie an Ihrem Ankunftstag ein kurzes Kennenlerntreffen."
         }
       ],
       "tipsEn": [
@@ -963,6 +1095,18 @@
         {
           "q": "Convém reservar o cuidado com antecedência?",
           "a": "Sim, sobretudo na época alta de inverno de dezembro a março e na Páscoa, quando os resorts do sul se enchem de visitantes. Faça primeiro um breve encontro para que o seu cão fique à vontade com o cuidador."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service auf Teneriffa",
+      "introDe": "Teneriffas Markt für Haustierbetreuung ist beträchtlich, gespeist von der großen ansässigen Expat-Gemeinschaft und einem stetigen Strom hundebesitzender Touristen im Süden. Die großen Online-Plattformen (Gudog, Rover) listen geprüfte Sitter und Gassigeher in Costa Adeje, Los Cristianos, Arona und dem weiteren Süden, neben unabhängigen Sittern. Frühzeitiges Buchen ist während der Winterhochsaison (Dezember bis März) und zu Ostern wichtig, wenn sich der Süden mit Nordeuropäern füllt, die der Kälte entfliehen.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter auf Teneriffa?",
+          "a": "Nutzen Sie Online-Plattformen wie Gudog oder Rover, die geprüfte lokale Sitter und Gassigeher in ganz Teneriffa mit Bewertungen und sicherer Zahlung listen. Der Süden (Costa Adeje, Los Cristianos, Arona) hat die meisten Sitter; buchen Sie 2-3 Wochen im Voraus in der Winterhochsaison."
+        },
+        {
+          "q": "Sollte ich Haustierbetreuung im Voraus buchen?",
+          "a": "Ja, besonders während der Winterhochsaison von Dezember bis März und zu Ostern, wenn sich die südlichen Ferienorte mit Besuchern füllen. Vereinbaren Sie zuerst ein kurzes Kennenlerntreffen, damit sich Ihr Hund mit dem Sitter wohlfühlt."
         }
       ]
     }

@@ -39,7 +39,11 @@
           "tipFr": "La terrasse fonctionne sans réservation, premier arrivé premier servi : arrivez avant 18 h un vendredi de beau temps si vous voulez une table avec de la place pour un chien dessous.",
           "tipEs": "La terraza funciona sin reservas, por orden de llegada: preséntate antes de las 18:00 un viernes de buen tiempo si quieres una mesa con sitio para un perro debajo.",
           "tipPt": "A esplanada funciona sem reservas, por ordem de chegada: apareça antes das 18:00 numa sexta-feira de bom tempo se quiser uma mesa com espaço para um cão por baixo.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Left+Field+Brewery+36+Wagstaff+Drive+Toronto"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Left+Field+Brewery+36+Wagstaff+Drive+Toronto",
+          "descriptionDe": "Eine Baseball-thematisierte Craft-Brauerei in einem ehemaligen Industriegebäude nahe der Greenwood Avenue, mit Taproom, Küche und einer Terrasse, die sich bei gutem Wetter sofort füllt. Der eigene Sicherheits- und Kundenbetreuungschef ist ein Basset-Hound namens Wrigley, nach dem ein Oat Pale Ale benannt ist.",
+          "petPolicyDe": "Hunde sind auf der Terrasse willkommen. Die Regel der Brauerei ist, dass Hunde jederzeit draußen bleiben, angeleint sein und sich gut benehmen müssen und nicht unbeaufsichtigt bleiben dürfen.",
+          "mustTryDe": "Wrigley Oat Pale Ale, benannt nach dem Basset-Hound der Brauerei",
+          "tipDe": "Die Terrasse funktioniert nach dem Prinzip first come, first served ohne Reservierung, kommen Sie also vor 18:00 Uhr an einem warmen Freitag, wenn Sie einen Tisch mit Platz für einen Hund darunter wollen."
         },
         {
           "name": "Bandit Brewery",
@@ -65,7 +69,11 @@
           "tipFr": "C'est à cinq minutes à pied de la station Dundas West, ce qui en fait l'une des terrasses acceptant les chiens les plus faciles à atteindre pendant la plage horaire creuse de la TTC.",
           "tipEs": "Está a cinco minutos a pie de la estación Dundas West, lo que la convierte en una de las terrazas que admiten perros más fáciles de alcanzar dentro de la franja de horas valle de la TTC.",
           "tipPt": "Fica a cinco minutos a pé da estação Dundas West, o que faz dela uma das esplanadas que aceitam cães mais fáceis de alcançar dentro do horário fora de ponta da TTC.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bandit+Brewery+2125+Dundas+Street+West+Toronto"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bandit+Brewery+2125+Dundas+Street+West+Toronto",
+          "descriptionDe": "Ein Brewpub in einer umgebauten Autowerkstatt auf der Dundas West, das eigenes Bier zusammen mit teilbaren Vorspeisen, Sandwiches und größeren Gerichten serviert. Das Gebäude öffnet sich zu einer überdachten Saisonterrasse, die für die meisten Hundebesitzer der Grund für den Besuch ist.",
+          "petPolicyDe": "Die Saisonterrasse ist von Mai bis September hundefreundlich. Die Tische in der verglasten Terrasse drinnen sind nicht hundefreundlich, fragen Sie also bei der Ankunft nach einem Außentisch der Saisonterrasse.",
+          "mustTryDe": "Eine Bierprobe der hauseigenen Sorten mit einer teilbaren Platte auf der Terrasse",
+          "tipDe": "Es sind fünf Minuten zu Fuß von der Station Dundas West, was diese Terrasse zu einer der am leichtesten erreichbaren hundefreundlichen Terrassen innerhalb des TTC-Fensters außerhalb der Stoßzeiten macht."
         },
         {
           "name": "Maison Selby",
@@ -91,7 +99,11 @@
           "tipFr": "Demandez une table côté jardin plutôt que côté Sherbourne Street : c'est plus calme, ombragé, et un chien nerveux s'y installe bien plus vite.",
           "tipEs": "Pide una mesa del lado del jardín en vez de la que da a Sherbourne Street: es más tranquila, con sombra, y un perro nervioso se acomoda mucho antes.",
           "tipPt": "Peça uma mesa do lado do jardim em vez da que dá para a Sherbourne Street: é mais sossegada, com sombra, e um cão nervoso acalma-se muito mais depressa.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maison+Selby+592+Sherbourne+Street+Toronto"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Maison+Selby+592+Sherbourne+Street+Toronto",
+          "descriptionDe": "Ein französisches Bistro und eine Cocktailbar im restaurierten Gooderham-Herrenhaus an der Ecke Sherbourne und Selby, mit Mittagessen, Abendessen und einem Wochenendbrunch. Die umlaufende Gartenterrasse gehört zu den schönsten Plätzen der Stadt, um mit einem Hund zu seinen Füßen zu sitzen.",
+          "petPolicyDe": "Die Gruppe Oliver & Bonacini führt das Maison Selby unter ihren hundefreundlichen Terrassen in Toronto. Hunde bleiben auf der Außenterrasse, nicht im Speiseraum, und es lohnt sich, dies bei der Reservierung zu bestätigen.",
+          "mustTryDe": "Der französisch inspirierte Wochenendbrunch auf der Gartenterrasse",
+          "tipDe": "Bitten Sie um einen Tisch auf der Gartenseite statt am Rand zur Sherbourne Street: Er ist ruhiger, schattiger, und ein nervöser Hund beruhigt sich dort viel schneller."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "As esplanadas de Toronto dão água aos cães?",
           "a": "Muitas dão, sobretudo cervejeiras e cafés que se apresentam como pet friendly, mas não é obrigatório. Leve uma taça dobrável e uma garrafa, sobretudo em julho e agosto, quando a humidade torna qualquer passeio num esforço."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants & Terrassen in Toronto",
+      "introDe": "Seit Ontario seine Verordnung für Lebensmittelbetriebe geändert hat, dürfen Hunde legal im Außenbereich eines Restaurants sitzen, solange dort keine Speisen zubereitet werden, und Toronto hat diese Erlaubnis konsequent genutzt. Die Stadt macht deutlich, dass es den Betreibern freisteht, Nein zu sagen, die Regel ist also eher eine Einladung als ein Recht, und das praktische Ergebnis ist eine Terrassensaison von etwa Mai bis Oktober, in der Hunderte von Lokalen einen Wassernapf bereitstellen. Drinnen sieht es anders aus: Hunde sind nur unter bestimmten Bedingungen in bestimmten Bereichen erlaubt, und die meisten Küchen und Speiseräume lassen sie schlicht nicht hinein. Planen Sie mit einem Essen im Freien, reservieren Sie die Terrasse statt eines Tisches im Innenraum und fragen Sie bei der Reservierung nach.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde auf Restaurantterrassen in Toronto sitzen?",
+          "a": "Ja, in den meisten Fällen. Ontarios Verordnung für Lebensmittelbetriebe erlaubt Hunde im Außenbereich, solange dort keine Speisen zubereitet werden, und die Stadt Toronto bestätigt, dass Betreiber trotzdem ablehnen dürfen. Eine Terrasse ist also überall rechtlich möglich, aber nur dort tatsächlich verfügbar, wo der Betrieb zustimmt."
+        },
+        {
+          "q": "Sind Hunde in Restaurants in Toronto drinnen erlaubt?",
+          "a": "Selten. Die Stadt erklärt, dass Hunde die einzigen Haustiere sind, die in Lebensmittelbetrieben zugelassen sind, und auch nur in bestimmten Bereichen unter bestimmten Bedingungen; Betreiber können sie komplett verbieten, es sei denn, es handelt sich um ein Assistenzhund. Gehen Sie davon aus, dass Innenräume tabu sind."
+        },
+        {
+          "q": "Gibt es auf Terrassen in Toronto Wasser für Hunde?",
+          "a": "Viele bieten das an, besonders Brauereien und Cafés, die sich als hundefreundlich vermarkten, aber es ist keine Pflicht. Nehmen Sie einen faltbaren Napf und eine Flasche mit, besonders im Juli und August, wenn die Luftfeuchtigkeit schon einen kurzen Spaziergang anstrengend macht."
+        }
       ]
     },
     "parks": {
@@ -199,7 +227,10 @@
           "tipFr": "Pendant le pic de floraison des cerisiers, fin avril ou début mai, l'accès en voiture et le stationnement sont fermés à High Park, seuls le bus de la TTC et Wheel-Trans circulent : prévoyez d'arriver à pied depuis la station High Park.",
           "tipEs": "Durante el pico de floración de los cerezos, a finales de abril o principios de mayo, no hay acceso en coche ni aparcamiento en High Park, solo el autobús de la TTC y Wheel-Trans: prevé llegar a pie desde la estación High Park.",
           "tipPt": "Durante o pico da floração das cerejeiras, no final de abril ou início de maio, não há acesso de carro nem estacionamento no High Park, apenas o autocarro da TTC e o Wheel-Trans: conte chegar a pé desde a estação High Park.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=High+Park+Dog+Hill+off+leash+Toronto"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=High+Park+Dog+Hill+off+leash+Toronto",
+          "descriptionDe": "Der High Park ist der größte Park der Stadt, 161 Hektar Eichensavanne, Teiche und Wald, direkt von der Bloor Street erreichbar. Seine Freilauffläche, allgemein als Dog Hill bekannt, umfasst etwa 3,4 Hektar offenes Gelände plus eine Reihe ausgewiesener Wege zwischen dem Grenadier Restaurant und dem High Park Zoo.",
+          "offLeashAreaDe": "Der Dog Hill und die ausgewiesenen Wege zwischen dem Grenadier Restaurant und dem Zoo. Die Fläche ist nicht vollständig eingezäunt, ihre Grenzen sind Gebüsch und Bäume, lassen Sie also nur einen Hund mit zuverlässigem Rückruf ohne Leine laufen. Überall sonst im High Park gilt die Zwei-Meter-Leinenregel.",
+          "tipDe": "Während der Kirschblütenhauptsaison Ende April oder Anfang Mai gibt es keinen Fahrzeug- oder Parkzugang zum High Park, nur den TTC-Bus und Wheel-Trans, planen Sie also die Ankunft zu Fuß von der Station High Park."
         },
         {
           "name": "Trinity Bellwoods Park Off-Leash Area",
@@ -219,7 +250,10 @@
           "tipFr": "Venez tôt. En fin d'après-midi l'été, la cuvette sert aussi de terrain de pique-nique du quartier, et un chien qui court après la nourriture va passer une heure compliquée.",
           "tipEs": "Ve temprano. A última hora de la tarde en verano la hondonada hace también de merendero del barrio, y un perro que persigue comida lo va a pasar mal.",
           "tipPt": "Vá cedo. Ao fim da tarde no verão a cova serve também de parque de piquenique do bairro, e um cão que persegue comida vai passar uma hora complicada.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trinity+Bellwoods+Park+off+leash+area+Toronto"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Trinity+Bellwoods+Park+off+leash+area+Toronto",
+          "descriptionDe": "Die bekannteste Grünfläche auf der Westseite der Innenstadt, ein ehemaliges Anwesen, dessen zentrale Mulde ein verfülltes Reservoir ist, das Einheimische schlicht die Dog Bowl nennen. Die Freilauffläche liegt südlich der Dundas Street West, an der Trinity Drive, in der Mitte des Parks am Fuß eines abfallenden Hügels.",
+          "offLeashAreaDe": "Die Mulde in der Mitte des Parks ist als Freilauffläche ausgewiesen. Sie hat keinen Zaun, die Böschung der Mulde ist die einzige Grenze, und sie ist an einem Sommerabend voller Hunde, Picknicker und Radfahrer.",
+          "tipDe": "Kommen Sie früh. Am späten Nachmittag im Sommer dient die Mulde gleichzeitig als Picknickwiese des Viertels, und ein Hund, der Essen jagt, wird eine schwierige Stunde haben."
         },
         {
           "name": "Sunnybrook Park Off-Leash Area",
@@ -239,7 +273,10 @@
           "tipFr": "Pas de métro ici. Prévoyez un bus depuis la station Eglinton ou Lawrence, et rappelez-vous que la TTC n'accepte les animaux qu'en dehors des heures de pointe en semaine.",
           "tipEs": "Aquí no hay metro. Prevé un autobús desde la estación Eglinton o Lawrence, y recuerda que la TTC solo admite mascotas fuera de las horas punta entre semana.",
           "tipPt": "Aqui não há metro. Conte com um autocarro a partir da estação Eglinton ou Lawrence, e lembre-se de que a TTC só aceita animais fora das horas de ponta nos dias úteis.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunnybrook+Park+off+leash+area+Toronto"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Sunnybrook+Park+off+leash+area+Toronto",
+          "descriptionDe": "Ein breiter Streifen flaches Parkland im Don Valley, nordöstlich der Innenstadt, das sich weit ländlicher anfühlt, als seine Postleitzahl vermuten lässt. Die Freilauffläche verläuft entlang der Park Road östlich des Sunnybrook Hospital, nordöstlich des Burke Brook, neben einem Sumpfgebiet in der südlichen Ecke.",
+          "offLeashAreaDe": "Eine große unumzäunte Freilauffläche neben dem Burke Brook. Die umliegenden Talwege haben Leinenpflicht, und die Stadt rät im Frühjahr, wenn Kojoten Welpen haben, von Hundespaziergängen im Schluchtenlebensraum ab.",
+          "tipDe": "Es gibt hier keine U-Bahn. Planen Sie einen Bus ab der Station Eglinton oder Lawrence, und denken Sie daran, dass die TTC Haustiere nur außerhalb der werktäglichen Stoßzeiten befördert."
         }
       ],
       "tipsEn": [
@@ -316,6 +353,22 @@
         {
           "q": "O que acontece se o meu cão andar solto fora de uma área designada?",
           "a": "A Cidade indica que pode ser aplicada uma multa até 615 dólares por deixar um cão correr solto fora de uma área canina designada. A fiscalização é real nos parques movimentados do centro."
+        }
+      ],
+      "titleDe": "Die besten Parks & Freilaufflächen in Toronto",
+      "introDe": "Toronto ist um Schluchten (Ravines) herum gebaut, und die Stadt hat diese Geographie in eines der größten Netzwerke ausgewiesener Hunde-Freilaufflächen in Nordamerika verwandelt, mit mehr als achtzig Flächen verteilt über die Bezirke. Die Regel hinter dem Netzwerk ist streng: außerhalb einer ausgewiesenen Fläche muss ein Hund an einer Leine von höchstens zwei Metern Länge geführt werden, und ihn anderswo frei laufen zu lassen, kann eine Geldstrafe von bis zu 615 Dollar nach sich ziehen. Die Freilaufflächen reichen von vollständig eingezäunten Kiesflächen in der Innenstadt bis zu unumzäunten Hügeln und Flussauen, und die größeren verfügen über einen separaten Bereich für kleine Hunde bis zu neun Kilogramm und dreißig Zentimeter Schulterhöhe. Nehmen Sie eine Leine auch innerhalb des Zauns mit, denn Sie brauchen sie in dem Moment, in dem Sie hinaustreten.",
+      "faqsDe": [
+        {
+          "q": "Wie viele Hunde-Freilaufflächen hat Toronto?",
+          "a": "Mehr als achtzig ausgewiesene Hunde-Freilaufflächen verteilen sich über die Bezirke der Stadt, von kleinen eingezäunten Kiesflächen in der Innenstadt bis zu großen unumzäunten Feldern in den Schluchtenparks. Die Stadt veröffentlicht die vollständige Liste nach Bezirk auf toronto.ca."
+        },
+        {
+          "q": "Ist die Freilauffläche im High Park eingezäunt?",
+          "a": "Nein. Der Dog Hill und seine ausgewiesenen Wege sind von Gebüsch und Bäumen begrenzt statt von einem Zaun, ein Hund mit unzuverlässigem Rückruf sollte also an der Leine bleiben. Der Rest des High Park ist Leinenpflicht."
+        },
+        {
+          "q": "Was passiert, wenn mein Hund außerhalb einer ausgewiesenen Fläche ohne Leine läuft?",
+          "a": "Die Stadt erklärt, dass eine Geldstrafe von bis zu 615 Dollar verhängt werden kann, wenn ein Hund außerhalb einer ausgewiesenen Hunde-Freilauffläche ohne Leine läuft. Die Durchsetzung ist in den belebten Innenstadtparks real."
         }
       ]
     },
@@ -437,6 +490,22 @@
           "q": "Os cães pagam bilhete em Toronto?",
           "a": "Não. Nem a TTC, nem a GO Transit, nem o UP Express cobram por um animal, e não há limite de tamanho para um cão à trela. A restrição é de horário, não de tarifa nem de porte."
         }
+      ],
+      "titleDe": "Mit dem Hund in Toronto unterwegs",
+      "introDe": "Toronto ist ungewöhnlich für Nordamerika, weil ein Hund jeder Größe an der Leine kostenlos U-Bahn, Straßenbahn und Bus fahren darf. Der Haken ist eher die Uhrzeit als die Größe des Tieres: Die TTC verbietet Haustiere während der werktäglichen Stoßzeiten, Ihr Tag muss sich also um einen Morgen vor 6:30 Uhr oder nach 10:00 Uhr und einen Nachmittag herum aufbauen, der die Zeit von 15:30 bis 19:00 Uhr meidet. Das Regionalnetz ist ähnlich großzügig, GO Transit und der UP-Express-Flughafenzug nehmen beide bis zu zwei angeleinte Hunde kostenlos außerhalb der Stoßzeiten mit und verlangen innerhalb davon eine Transportbox in Schoßgröße. Zählt man die Fähren zur Toronto Island hinzu, die angeleinte Haustiere das ganze Jahr über mitnehmen, ist ein autofreier Besuch mit einem großen Hund tatsächlich machbar, solange man vorher den Fahrplan liest.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in der U-Bahn von Toronto erlaubt?",
+          "a": "Ja, an der Leine oder in einem geschlossenen Behälter, kostenlos, aber nur außerhalb der werktäglichen Stoßzeiten. Das bedeutet den ganzen Tag an Wochenenden und Feiertagen sowie werktags vor 6:30 Uhr, von 10:00 bis 15:30 Uhr und nach 19:00 Uhr. Hunde müssen auf dem Boden bleiben statt auf den Sitzen."
+        },
+        {
+          "q": "Kann ich meinen Hund im UP Express vom Flughafen Pearson mitnehmen?",
+          "a": "Ja. Der UP Express erlaubt bis zu zwei angeleinte Hunde pro Besitzer den ganzen Tag an Wochenenden und Feiertagen sowie werktags von 9:30 bis 15:30 Uhr und von 18:30 Uhr bis Betriebsschluss. Außerhalb dieser Zeiten muss das Tier in einer Transportbox reisen, die auf den Schoß oder unter den Sitz passt."
+        },
+        {
+          "q": "Zahlen Hunde einen Fahrpreis in Toronto?",
+          "a": "Nein. Weder die TTC noch GO Transit noch der UP Express berechnen etwas für ein Haustier, und es gibt keine Größenbegrenzung für einen angeleinten Hund. Die Einschränkung betrifft die Uhrzeit der Fahrt, nicht die Kosten oder die Größe des Tieres."
+        }
       ]
     },
     "beaches": {
@@ -535,6 +604,22 @@
           "q": "Em que consiste a regra da vedação de neve em Woodbine e Kew-Balmy?",
           "a": "Entre 1 de novembro e 31 de março os cães podem andar soltos abaixo da linha da vedação de neve, ou seja na areia entre a vedação e a água. Acima da vedação, no passadiço e no resto do parque, continua a vigorar a trela de dois metros."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Toronto",
+      "introDe": "Toronto hat eine lange Sandküste am Ontariosee, und ehrlich gesagt ist der Großteil davon für den größten Teil des Jahres für Hunde gesperrt. Die Parkverordnung besagt, dass eine für einen Hund verantwortliche Person diesen nicht auf einen Badestrand lassen darf, außer zwischen dem 1. November und dem 31. März, was den klassischen Torontoer Strandtag zu einer Winteraktivität macht. Die zwei Ausnahmen sind entscheidend. Der Cherry Beach hat eine ausgewiesene Hunde-Freilauffläche mit direktem Wasserzugang, die das ganze Jahr über funktioniert, und am Kew-Balmy und Woodbine dürfen Hunde unterhalb der Schneezaunlinie ohne Leine laufen, das heißt zwischen dem Zaun und dem Wasser, vom 1. November bis 31. März. Kommen Sie im Juli mit einem schwimmbegeisterten Hund, ist Cherry Beach praktisch die gesamte Liste.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde im Sommer an Torontos Stränden?",
+          "a": "Nicht an den Badestränden. Die Parkverordnung erlaubt einem Hund den Zugang zu einem Badestrand nur zwischen dem 1. November und dem 31. März. Die einzige Sommeroption ist die ausgewiesene Hunde-Freilauffläche am Cherry Beach, die das ganze Jahr geöffnet ist und direkten Wasserzugang hat."
+        },
+        {
+          "q": "Wo kann mein Hund im Ontariosee in Toronto schwimmen?",
+          "a": "An der Freilauffläche am Cherry Beach, an der Westgrenze des Clarke Beach Park. Sie ist zur Landseite eingezäunt und zum Wasser hin offen, und der dortige Outer Harbour ist durch die Leslie Street Spit geschützt, das Wasser ist also ruhiger als an der offenen Seefront."
+        },
+        {
+          "q": "Was besagt die Schneezaunlinien-Regel bei Woodbine und Kew-Balmy?",
+          "a": "Zwischen dem 1. November und dem 31. März dürfen Hunde unterhalb der Schneezaunlinie ohne Leine laufen, das heißt auf dem Sand zwischen dem Zaun und dem Wasser. Oberhalb des Zauns, auf der Promenade und überall sonst im Park, gilt die normale Zwei-Meter-Leinenregel."
+        }
       ]
     },
     "vets": {
@@ -568,7 +653,10 @@
           "tipEs": "Llama siempre primero. VEC publica un aviso cuando su capacidad de urgencias está limitada y redirige los casos críticos por teléfono.",
           "tipPt": "Telefone sempre primeiro. A VEC publica um aviso quando a sua capacidade de urgência está limitada e reencaminha os casos críticos por telefone.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Veterinary+Emergency+Clinic+920+Yonge+Street+Toronto",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Rund um die Uhr geöffnet. Die Klinik hat eine personalbedingte Einschränkung ihres Notdienstes gemeldet, rufen Sie also vor der Anfahrt an.",
+          "descriptionDe": "Die nächstgelegene vollwertige Notfallklinik zum Hotelviertel der Innenstadt, ein kurzer Fußweg nördlich von Rosedale und der Kreuzung Yonge/Bloor. Der Eingang liegt an der Rückseite des Gebäudes in der McMurrich Street, was nachts leicht zu übersehen ist.",
+          "tipDe": "Rufen Sie immer zuerst an. Die VEC veröffentlicht einen Hinweis, wenn ihre Notfallkapazität eingeschränkt ist, und leitet kritische Fälle telefonisch um."
         },
         {
           "name": "Central Toronto Veterinary Referral Clinic",
@@ -590,7 +678,10 @@
           "tipEs": "La clínica ofrece un registro de urgencias en línea: úsalo desde el taxi para que el equipo sepa lo que va a llegar.",
           "tipPt": "A clínica oferece um registo de urgência online: use-o a partir do táxi para que a equipa saiba o que vai chegar.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Central+Toronto+Veterinary+Referral+Clinic+1051+Eglinton+Avenue+West",
-          "photo": "/images/city-places/toronto-vets-central-toronto-veterinary.jpg"
+          "photo": "/images/city-places/toronto-vets-central-toronto-veterinary.jpg",
+          "hoursDe": "24 Stunden am Tag geöffnet, jeden Tag einschließlich Wochenenden und Feiertagen",
+          "descriptionDe": "Eine Notfall- und Überweisungsklinik in Midtown an der Eglinton West, etwa fünfzehn Minuten mit dem Auto vom Stadtzentrum entfernt und mit dem Eglinton-Bus erreichbar. Sie betreibt einen vollständigen Notdienst neben ihren Fachabteilungen.",
+          "tipDe": "Die Klinik bietet ein Online-Notfall-Check-in an, das sich lohnt, schon aus dem Taxi zu nutzen, damit das Team weiß, was ankommt."
         },
         {
           "name": "Toronto Veterinary Emergency Hospital",
@@ -612,7 +703,10 @@
           "tipEs": "Queda claramente fuera de la red de metro: tómalo como la opción en coche y no como un sitio al que llegar en TTC con un animal enfermo.",
           "tipPt": "Fica claramente fora da rede do metro: encare-o como a opção de carro e não como um sítio a que se chega de TTC com um animal doente.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Toronto+Veterinary+Emergency+Hospital+21+Rolark+Drive+Scarborough",
-          "photo": "/images/city-places/toronto-vets-toronto-veterinary-emergency-hospital.jpg"
+          "photo": "/images/city-places/toronto-vets-toronto-veterinary-emergency-hospital.jpg",
+          "hoursDe": "Notfall rund um die Uhr geöffnet, Montag bis Sonntag. Fachabteilungen werktags nach Termin.",
+          "descriptionDe": "Eine große Notfall- und Überweisungsklinik in Scarborough im Osten der Stadt, nützlich, wenn Sie in Richtung Beaches wohnen oder von der 401 ankommen. Sie betreibt rund um die Uhr Notfallversorgung, ergänzt durch Fachdienste.",
+          "tipDe": "Sie liegt weit außerhalb des U-Bahn-Netzes, behandeln Sie sie also als Anfahrtsoption mit dem Auto statt als etwas, das Sie mit einem kranken Tier mit der TTC erreichen können."
         }
       ],
       "faqsEn": [
@@ -669,6 +763,22 @@
         {
           "q": "Quanto custam as urgências veterinárias em Toronto?",
           "a": "Os cuidados veterinários no Ontário são totalmente privados. Os hospitais de urgência costumam pedir um depósito antes do tratamento e o restante na alta: leve cartão e confirme que o seu seguro de viagem ou de animais cobre o Canadá."
+        }
+      ],
+      "titleDe": "Tierärzte & Notfallversorgung in Toronto",
+      "introDe": "Toronto verfügt über ein dichtes Netz von Nachbarschaftskliniken und, nützlicher für Besucher, mehrere echte 24-Stunden-Notfall- und Überweisungskliniken, die rund um die Uhr ohne Termin aufnehmen. Keine davon ist ein öffentlicher Dienst: tierärztliche Notfallversorgung in Ontario ist privat und wird direkt bezahlt, rechnen Sie also damit, vor Behandlungsbeginn eine Anzahlung zu hinterlegen und später bei der Reise- oder Haustierversicherung abzurechnen. Beachten Sie auch, dass 911 nur für Notfälle bei Menschen ist und keine Hilfe für ein Tier entsenden kann. Speichern Sie zwei Nummern in Ihrem Handy, bevor Sie ankommen, eine im Zentrum und eine weiter außerhalb, denn eine einzelne Klinik kann und wird bei Überlastung Patienten abweisen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt im Zentrum von Toronto?",
+          "a": "Ja. Die Veterinary Emergency Clinic an der 920 Yonge Street, Eingang an der Rückseite in der McMurrich Street, ist die nächstgelegene 24-Stunden-Notfallklinik zu den Innenstadthotels, unter +1 416 920-2002. Da eine Personalbeschränkung für den Notdienst gemeldet wurde, rufen Sie vor der Abfahrt an."
+        },
+        {
+          "q": "Welche Nummer rufe ich bei einem Tiernotfall in Toronto an?",
+          "a": "Rufen Sie direkt die Notfallklinik an: 911 behandelt nur menschliche Notfälle und entsendet keine Hilfe für ein Haustier. Speichern Sie mindestens eine 24-Stunden-Klinik-Nummer in Ihrem Handy, bevor Sie ankommen."
+        },
+        {
+          "q": "Wie viel kostet tierärztliche Notfallversorgung in Toronto?",
+          "a": "Die tierärztliche Versorgung in Ontario ist vollständig privat. Notfallkliniken verlangen normalerweise eine Anzahlung vor der Behandlung und rechnen den Restbetrag bei der Entlassung ab, bringen Sie also eine Zahlungskarte mit und prüfen Sie, ob Ihre Reise- oder Haustierversicherung die Behandlung in Kanada abdeckt."
         }
       ]
     },
@@ -793,6 +903,22 @@
           "q": "Qual é a melhor altura do ano para visitar Toronto com um cão?",
           "a": "Maio, junho, setembro e o início de outubro. As esplanadas estão abertas, a humidade ainda não atingiu o pico, os trilhos das ravinas estão secos e a única coisa que perde são as praias, de qualquer forma vedadas aos cães até 1 de novembro."
         }
+      ],
+      "titleDe": "Praktische Tipps für die Reise mit Haustier nach Toronto",
+      "introDe": "Toronto belohnt einen vorbereiteten Besitzer und bestraft einen unvorbereiteten. Drei Dinge entscheiden, ob die Reise funktioniert: die Bundesunterlagen, die Ihr Tier nach Kanada bringen, ein Ontario-Rassegesetz, das strenger ist als fast überall in Europa, und ein Klima, das von minus fünfzehn im Januar bis zu einem schwülen Dreißig-plus im Juli schwankt. Keines davon ist eine Überraschung, wenn Sie vor der Buchung nachsehen, und alle sind teuer, wenn man sie erst an der Grenze oder auf dem Gehweg entdeckt. Lesen Sie diesen Abschnitt zuerst, dann wird der Rest des Reiseführers ein unkomplizierter Städtetrip.",
+      "faqsDe": [
+        {
+          "q": "Welche Unterlagen braucht mein Hund für die Einreise nach Kanada?",
+          "a": "Ein gültiges Tollwutimpfzertifikat auf Englisch oder Französisch, ausgestellt und unterschrieben von einem approbierten Tierarzt, mit Angabe der Mikrochipnummer, des Impfdatums, des Ablaufdatums und der Impfstoffmarke. Hunde aus Ländern, die die CFIA als Hochrisikoländer für Hundetollwut einstuft, unterliegen strengeren Regeln, einschließlich eines Mindestalters von sieben Monaten."
+        },
+        {
+          "q": "Sind bestimmte Hunderassen in Toronto verboten?",
+          "a": "Ja, und zwar auf Provinzebene, nicht kommunal. Ontarios Dog Owners' Liability Act verbietet den Besitz, die Zucht, die Weitergabe, die Einfuhr, das Kämpfenlassen oder das Aussetzen von Pitbulls, definiert als Staffordshire Bullterrier, American Staffordshire Terrier, American Pitbull Terrier und jeder Hund von wesentlich ähnlichem Erscheinungsbild. Das Verbot ist weiterhin in Kraft."
+        },
+        {
+          "q": "Wann ist die beste Jahreszeit für einen Besuch in Toronto mit Hund?",
+          "a": "Mai, Juni, September und Anfang Oktober. Terrassen sind geöffnet, die Luftfeuchtigkeit hat ihren Höhepunkt noch nicht erreicht, die Schluchtenwege sind trocken, und die Strände sind das Einzige, was man verpasst, da Hunde die Badestrände ohnehin erst ab dem 1. November nutzen dürfen."
+        }
       ]
     },
     "attractions": {
@@ -826,7 +952,11 @@
           "tipFr": "Plusieurs commerces sortent des gamelles d'eau quand il fait chaud. En décembre, le quartier accueille un marché d'hiver très fréquenté : c'est le seul moment de l'année où il vaut mieux laisser un chien craintif au calme.",
           "tipEs": "Varios comercios sacan cuencos de agua cuando hace calor. En diciembre el barrio acoge un mercado de invierno muy concurrido: es el único momento del año en el que conviene dejar en casa a un perro miedoso.",
           "tipPt": "Vários comércios põem taças de água quando está calor. Em dezembro o bairro acolhe um mercado de inverno muito concorrido: é a única altura do ano em que convém deixar um cão medroso em casa.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Distillery+Historic+District+55+Mill+Street+Toronto"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Distillery+Historic+District+55+Mill+Street+Toronto",
+          "descriptionDe": "Rund vierzig viktorianische Industriegebäude entlang gepflasterter Gassen, die größte erhaltene Sammlung ihrer Art in Nordamerika, heute gefüllt mit Galerien, Ateliers, Cafés und Designläden. Das gesamte Viertel ist reine Fußgängerzone, was es zu einem der ruhigsten Orte in der Innenstadt von Toronto macht, um mit einem Hund spazieren zu gehen.",
+          "dogPolicyDe": "Offiziell im Freien hundefreundlich: Das Viertel beschreibt sich als hundefreundliche Gemeinschaft und verlangt nur, dass Sie Ihren Hund an der Leine führen und nach ihm aufräumen. Tiere sind in keinem Gastronomiebetrieb erlaubt, außer Assistenzhunden mit Nachweis, und manche Läden und Galerien heißen Hunde willkommen, andere nicht, fragen Sie also an der Tür.",
+          "admissionFeeDe": "Kostenloser Zutritt zum Viertel",
+          "tipDe": "Mehrere Geschäfte stellen bei warmem Wetter Wassernäpfe auf. Im Dezember veranstaltet das Viertel einen sehr überfüllten Wintermarkt, das ist die eine Jahreszeit, in der man einen nervösen Hund lieber zu Hause lässt."
         },
         {
           "name": "Toronto Island Park",
@@ -849,7 +979,11 @@
           "tipFr": "Prenez le traversier de Ward's Island plutôt que celui de Centre Island : il aborde le côté résidentiel tranquille, où les allées sont ombragées et la foule se dissipe.",
           "tipEs": "Toma el ferry de Ward's Island en vez del de Centre Island: llega al extremo residencial tranquilo, donde las calles están sombreadas y la gente se dispersa.",
           "tipPt": "Apanhe o ferry de Ward's Island em vez do de Centre Island: chega ao extremo residencial sossegado, onde as ruas são sombreadas e a multidão se dispersa.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jack+Layton+Ferry+Terminal+9+Queens+Quay+West+Toronto"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Jack+Layton+Ferry+Terminal+9+Queens+Quay+West+Toronto",
+          "descriptionDe": "Eine Kette autofreier Inseln, fünfzehn Minuten über den Hafen, mit Lagunen, Hüttenwegen, einer Strandpromenade und dem klassischen Blick zurück auf die Skyline der Innenstadt. Die Fährfahrt selbst ist für die meisten Hunde die eigentliche Attraktion, sie verbringen sie an Deck mit dem Wind in den Ohren.",
+          "dogPolicyDe": "Haustiere sind auf den Fähren erlaubt und müssen im Wartebereich und an Bord jederzeit angeleint sein und dürfen nie unbeaufsichtigt bleiben. Die Inseln haben durchgehend Leinenpflicht: Es gibt nirgendwo im Park eine Freilauffläche, und Hunde sind an den Inselstränden nicht erlaubt.",
+          "admissionFeeDe": "Park kostenlos, Rückfahrkarte für die Fähre erforderlich",
+          "tipDe": "Nehmen Sie die Fähre nach Ward's Island statt die nach Centre Island: Sie legt am ruhigen Wohngebietsende an, wo die Gassen schattig sind und die Menschenmengen dünner werden."
         },
         {
           "name": "Evergreen Brick Works",
@@ -872,7 +1006,11 @@
           "tipFr": "Arrivez à pied par la Beltline ou le ravin de Moore Park plutôt qu'en voiture : l'approche par la vallée est le meilleur moment, et le stationnement sur place est payant et limité.",
           "tipEs": "Llega a pie por la Beltline o el barranco de Moore Park en vez de en coche: la aproximación por el valle es lo mejor, y el aparcamiento aquí es de pago y limitado.",
           "tipPt": "Chegue a pé pela Beltline ou pela ravina de Moore Park em vez de carro: a aproximação pelo vale é a melhor parte, e o estacionamento aqui é pago e limitado.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Evergreen+Brick+Works+550+Bayview+Avenue+Toronto"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Evergreen+Brick+Works+550+Bayview+Avenue+Toronto",
+          "descriptionDe": "Eine ehemalige Ziegelfabrik und ein Steinbruch im Don Valley, umgebaut zu einem öffentlichen Umweltzentrum mit einem wöchentlichen Bauernmarkt, Industrieruinen und einer Reihe von Teichen und Wiesen auf dem alten Steinbruchboden. Von hier aus führen Wege direkt hinaus ins Schluchtensystem.",
+          "dogPolicyDe": "Hunde sind an der Leine in den Außenbereichen erlaubt, ausgenommen der Children's Garden, und sind in keinem der Gebäude zugelassen. Sie sind auf dem Bauernmarkt im Freien willkommen, solange sie draußen bleiben, und das Gelände bittet um eine kurze Leine.",
+          "admissionFeeDe": "Kostenloser Eintritt zum Gelände und zum Markt im Freien",
+          "tipDe": "Gehen Sie vom Beltline oder der Moore-Park-Schlucht aus zu Fuß hin statt zu fahren: Der Zugang durch das Tal ist der schönste Teil, und Parken hier ist kostenpflichtig und begrenzt."
         }
       ],
       "tipsEn": [
@@ -950,6 +1088,22 @@
           "q": "Que atrações de Toronto não aceitam cães?",
           "a": "Todas as de interior. A torre panorâmica, o aquário, os museus, as galerias de arte e o zoo só admitem cães de assistência. Reserve as visitas cobertas para quando o seu cão estiver com um cuidador."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Toronto",
+      "introDe": "Die berühmten Indoor-Attraktionen, der Turm, das Aquarium, die Museen und die Galerien, sind alle für Haustiere gesperrt, ein Sightseeing-Tag in Toronto mit Hund findet also im Freien statt, und das ist auch besser so. Die Fußgängerzone der viktorianischen Straßen im Distillery District, eine Fährfahrt über den Hafen zu einem autofreien Inselpark und ein wiederbelebter Ziegeleisteinbruch im Don Valley decken zu dritt einen ganzen Tag ab, alles ohne Auto erreichbar und kostenlos oder fast kostenlos. Das Muster, das man sich merken sollte, ist überall gleich: Außenbereich ja, Gebäude im Inneren nein, und Essens- und Getränkestätten haben ihre eigenen Regeln.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund ins Distillery District mitnehmen?",
+          "a": "Ja, draußen. Das Viertel bezeichnet sich selbst als hundefreundliche Gemeinschaft und verlangt nur eine Leine und dass Sie aufräumen. Tiere sind in Gastronomiebetrieben nicht erlaubt, außer Assistenzhunde, und einzelne Läden entscheiden selbst."
+        },
+        {
+          "q": "Sind Hunde auf der Fähre zur Toronto Island erlaubt?",
+          "a": "Ja. Haustiere fahren mit den Fähren vom Jack Layton Ferry Terminal und müssen im Wartebereich und an Bord jederzeit angeleint sein und dürfen nie unbeaufsichtigt bleiben. Auf den Inseln selbst herrscht überall Leinenpflicht, und die Strände sind für Hunde gesperrt."
+        },
+        {
+          "q": "Welche Sehenswürdigkeiten in Toronto lassen keine Hunde zu?",
+          "a": "Alle Indoor-Attraktionen. Der Aussichtsturm, das Aquarium, die Museen, die Kunstgalerien und der Zoo lassen nur Assistenzhunde zu. Planen Sie Indoor-Sightseeing für eine Zeit, in der Ihr Hund bei einem Sitter ist."
+        }
       ]
     },
     "petsitting": {
@@ -978,7 +1132,10 @@
           "tip": "The facility requires current rabies, DHPP and bordetella records plus a complimentary 45-minute assessment before a first stay, so book that slot before you fly.",
           "tipFr": "L'établissement exige les certificats à jour de rage, DHPP et bordetelle, plus une évaluation gratuite de 45 minutes avant un premier séjour : réservez ce créneau avant de prendre l'avion.",
           "tipEs": "El centro exige certificados vigentes de rabia, DHPP y bordetella, más una evaluación gratuita de 45 minutos antes de la primera estancia: reserva esa cita antes de volar.",
-          "tipPt": "O estabelecimento exige certificados válidos de raiva, DHPP e bordetela, mais uma avaliação gratuita de 45 minutos antes da primeira estadia: marque essa hora antes de voar."
+          "tipPt": "O estabelecimento exige certificados válidos de raiva, DHPP e bordetela, mais uma avaliação gratuita de 45 minutos antes da primeira estadia: marque essa hora antes de voar.",
+          "descriptionDe": "Eine käfigfreie Tages- und Übernachtungsbetreuung an der 826 Eastern Avenue in Leslieville, aufgebaut um 420 Quadratmeter Innenspielfläche und einen privaten Außenhundepark von etwa 370 Quadratmetern. Die Übernachtungsbetreuung ist All-inclusive, mit Mahlzeiten, Bettzeug, Echtzeit-Fotoupdates und nächtlicher Überwachung, und dieselbe Einrichtung übernimmt auch Gassigehen und Pflege.",
+          "serviceTypeDe": "Käfigfreie Übernachtungsbetreuung, Tagesstätte, Gassigehen und Pflege",
+          "tipDe": "Die Einrichtung verlangt aktuelle Tollwut-, DHPP- und Zwingerhusten-Nachweise sowie eine kostenlose 45-minütige Beurteilung vor dem ersten Aufenthalt, buchen Sie diesen Termin also, bevor Sie fliegen."
         },
         {
           "name": "Atlas Paws",
@@ -996,7 +1153,10 @@
           "tip": "A complimentary evaluation is required on a first visit, and the dog shuttle service has been paused, so plan to drop off and collect in person.",
           "tipFr": "Une évaluation gratuite est requise à la première visite, et le service de navette canine est suspendu : prévoyez de déposer et de récupérer vous-même.",
           "tipEs": "Se exige una evaluación gratuita en la primera visita, y el servicio de lanzadera canina está suspendido: cuenta con dejar y recoger en persona.",
-          "tipPt": "É exigida uma avaliação gratuita na primeira visita, e o serviço de transporte canino está suspenso: conte deixar e recolher pessoalmente."
+          "tipPt": "É exigida uma avaliação gratuita na primeira visita, e o serviço de transporte canino está suspenso: conte deixar e recolher pessoalmente.",
+          "descriptionDe": "Ein Innenstadtbetreiber mit drei Standorten in Toronto, an der 161 Spadina Avenue, der 113 Jefferson Avenue in Liberty Village und der 529 Richmond Street East in Corktown, mit käfigfreier Tagesstätte, Übernachtungsbetreuung und Pflege. Der Standort Spadina ist am nützlichsten für alle, die im Entertainment District oder auf der Queen West wohnen.",
+          "serviceTypeDe": "Käfigfreie Tagesstätte, Übernachtungsbetreuung, Spa und Pflege",
+          "tipDe": "Beim ersten Besuch ist eine kostenlose Beurteilung erforderlich, und der Hundeshuttle-Service ist derzeit ausgesetzt, planen Sie also, persönlich zu bringen und abzuholen."
         }
       ],
       "tipsEn": [
@@ -1073,6 +1233,22 @@
         {
           "q": "Posso reservar creche em cima da hora sendo visitante?",
           "a": "Raramente para uma primeira estadia. A maioria dos espaços de Toronto exige uma avaliação gratuita do temperamento numa visita separada antes de aceitar um cão: contacte-os antes de viajar e reserve também essa hora de avaliação."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundetagesstätten in Toronto",
+      "introDe": "Da jede Indoor-Attraktion der Stadt Haustiere ausschließt, kaufen Ihnen ein paar Stunden Tagesbetreuung den Turm, das Aquarium oder einen Museumsnachmittag. Toronto hat eine ausgereifte Tagesstätten-Branche, meist käfigfrei und spielbasiert, und die guten Einrichtungen arbeiten alle nach demselben Prinzip: Sie verlangen einen Nachweis der Tollwut-, DHPP- und Zwingerhusten-Impfung und bestehen auf einer kostenlosen Wesensbeurteilung vor dem ersten Aufenthalt. Diese Beurteilung sollten Sie im Voraus buchen, denn am Tag selbst mit einem Hund aufzutauchen, den noch niemand kennengelernt hat, ist der sichere Weg, dass der Plan scheitert. Fragen Sie nach einem Tagessatz statt einem Paket, und bestätigen Sie, ob eine Abholung am Sonntag möglich ist, da manche Einrichtungen die Wochenendabholung auf Termine beschränken.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet eine Hundetagesstätte in Toronto?",
+          "a": "Übernachtungsbetreuung beginnt bei etwa 85 kanadischen Dollar pro Nacht in einer All-inclusive-Einrichtung ohne Zwinger, und Tagesbetreuung wird normalerweise separat berechnet und kostet weniger. Fragen Sie nach einem Tagessatz statt einem Paket, wenn Sie nur einen Nachmittag brauchen."
+        },
+        {
+          "q": "Welche Impfungen verlangt eine Tagesstätte in Toronto?",
+          "a": "Aktuelle Tollwut-, DHPP- und Zwingerhusten-Impfungen sind der Standardsatz. Bringen Sie die tierärztliche Unterlage selbst mit, auf Englisch oder Französisch, denn Einrichtungen prüfen sie vor dem ersten Aufenthalt und nehmen einen Hund ohne sie nicht an."
+        },
+        {
+          "q": "Kann ich als Besucher kurzfristig eine Tagesstätte buchen?",
+          "a": "Für einen ersten Aufenthalt normalerweise nicht. Die meisten Einrichtungen in Toronto verlangen eine kostenlose Wesensbeurteilung bei einem separaten Besuch, bevor sie einen Hund aufnehmen, kontaktieren Sie sie also vor der Reise und reservieren Sie den Beurteilungstermin ebenso wie den eigentlichen Tag."
         }
       ]
     }

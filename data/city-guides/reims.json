@@ -37,7 +37,11 @@
           "descriptionPt": "Bistrô com estrela Michelin perto da catedral.",
           "petPolicyPt": "Cães na esplanada",
           "mustTryPt": "Menu de degustação",
-          "tipPt": "Menu de almoço por metade do preço."
+          "tipPt": "Menu de almoço por metade do preço.",
+          "descriptionDe": "Bistrot mit Michelin-Stern in der Nähe der Kathedrale.",
+          "petPolicyDe": "Hunde auf der Terrasse",
+          "mustTryDe": "Degustationsmenü",
+          "tipDe": "Das Mittagsmenü kostet halb so viel wie das Abendmenü."
         },
         {
           "name": "Brasserie Le Jamin",
@@ -63,7 +67,11 @@
           "descriptionPt": "Brasserie francesa clássica com pátio aquecido todo o ano.",
           "petPolicyPt": "Cães no pátio e no bar",
           "mustTryPt": "Andouillette, champanhe regional a copo",
-          "tipPt": "Pátio aquecido significa esplanada todo o ano."
+          "tipPt": "Pátio aquecido significa esplanada todo o ano.",
+          "descriptionDe": "Klassische französische Brasserie mit ganzjährig beheiztem Innenhof.",
+          "petPolicyDe": "Hunde im Innenhof und an der Bar",
+          "mustTryDe": "Andouillette, regionaler Champagner glasweise",
+          "tipDe": "Der beheizte Innenhof bedeutet Terrasse das ganze Jahr über."
         },
         {
           "name": "Cafe du Palais",
@@ -89,7 +97,11 @@
           "descriptionPt": "Café-brasserie Art Déco de 1930 em frente ao Palais de Justice.",
           "petPolicyPt": "Cães bem-vindos no interior e na esplanada",
           "mustTryPt": "Biscuit rose de Reims com champanhe",
-          "tipPt": "Banco de canto, o recanto Art Déco mais fotografado."
+          "tipPt": "Banco de canto, o recanto Art Déco mais fotografado.",
+          "descriptionDe": "Art-Déco-Café-Brasserie von 1930 gegenüber dem Palais de Justice.",
+          "petPolicyDe": "Hunde drinnen und auf der Terrasse willkommen",
+          "mustTryDe": "Biscuit rose de Reims mit Champagner",
+          "tipDe": "Die Ecknische ist der meistfotografierte Art-Déco-Platz."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Posso levar o meu cão a uma prova de champanhe?",
           "a": "Os pequenos produtores independentes de Verzy/Verzenay aceitam cães na cave. As grandes casas (Veuve Clicquot, Moet, Taittinger) só admitem cães de assistência."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Reims",
+      "introDe": "Die Champagner-Café- und Bistrokultur in Reims ist durchweg hundefreundlich. Der Fußgängerbereich Place Drouet d'Erlon vereint mehr als 20 hundetolerante Lokale.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Reims erlaubt?",
+          "a": "In den meisten ja. Etwa 80% der Brasserien und Cafés in Reims akzeptieren angeleinte Hunde auf der Terrasse."
+        },
+        {
+          "q": "Darf ich meinen Hund zu einer Champagnerverkostung mitnehmen?",
+          "a": "Kleine unabhängige Erzeuger in Verzy/Verzenay heißen Hunde im Keller willkommen. Große Häuser (Veuve Clicquot, Moët, Taittinger) lassen nur Assistenzhunde zu."
+        }
       ]
     },
     "parks": {
@@ -205,7 +229,10 @@
             "WiFi grátis",
             "Zona canina"
           ],
-          "tipPt": "Domingo de manhã, hora de encontro dos passeadores locais."
+          "tipPt": "Domingo de manhã, hora de encontro dos passeadores locais.",
+          "leashRuleDe": "Leinenpflicht; eine eingezäunte Hundezone",
+          "descriptionDe": "22 Hektar große Parkanlage direkt südlich der Kathedrale. Eingezäunte Hundezone in der Südostecke.",
+          "tipDe": "Sonntagvormittag ist Treffpunktzeit der örtlichen Hundehalter."
         },
         {
           "name": "Montagne de Reims Natural Park",
@@ -245,7 +272,10 @@
             "Estacionamento grátis",
             "Piquenique"
           ],
-          "tipPt": "Circuito Faux de Verzy de 3 km, passeio canino icónico."
+          "tipPt": "Circuito Faux de Verzy de 3 km, passeio canino icónico.",
+          "leashRuleDe": "Freilauf auf Waldwegen außerhalb der Brutzeit",
+          "descriptionDe": "Regionaler Naturpark: 50.000 Hektar Weinberge und Eichenwälder, die berühmten verdrehten Buchen von Faux de Verzy, 200 km markierte Wege.",
+          "tipDe": "Die 3-km-Rundwanderung Faux de Verzy ist ein ikonischer Hundespaziergang."
         },
         {
           "name": "Canal de l'Aisne Towpath",
@@ -285,7 +315,10 @@
             "Sombreado",
             "Acesso livre"
           ],
-          "tipPt": "Para este até Sillery (8 km), vistas sobre as vinhas Premier Cru."
+          "tipPt": "Para este até Sillery (8 km), vistas sobre as vinhas Premier Cru.",
+          "leashRuleDe": "Leinenpflicht auf dem Weg; Freilauf auf ländlichen Abschnitten",
+          "descriptionDe": "Flacher, autofreier 14-km-Treidelpfad von Ost nach West durch Reims. Schatten unter Linden, beliebte Laufstrecke der Einheimischen.",
+          "tipDe": "Ostwärts bis Sillery (8 km) für Ausblicke auf Premier-Cru-Weinberge."
         }
       ],
       "tipsEn": [
@@ -349,6 +382,18 @@
           "q": "Os cães podem explorar as vinhas de champanhe?",
           "a": "Sim, o caminho de sirga do Canal de l'Aisne a este de Reims segue ao longo dos terroirs Premier Cru de Bouzy/Verzenay."
         }
+      ],
+      "titleDe": "Hundeparks & Grünflächen in Reims",
+      "introDe": "Reims ist von Weinbergen umgeben. Der Parc de Champagne schmiegt sich an das Zentrum, der Regionale Naturpark Montagne de Reims (50.000 Hektar) liegt 15 Minuten südlich, und der Treidelpfad am Canal de l'Aisne verläuft von Ost nach West.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde in Reims ohne Leine laufen?",
+          "a": "In der eingezäunten Hundezone des Parc de Champagne und auf den ländlichen Waldwegen der Montagne de Reims außerhalb der Brutzeit von April bis Juli."
+        },
+        {
+          "q": "Können Hunde die Champagner-Weinberge erkunden?",
+          "a": "Ja, der Treidelpfad am Canal de l'Aisne östlich von Reims verläuft entlang der Premier-Cru-Terroirs von Bouzy/Verzenay."
+        }
       ]
     },
     "transport": {
@@ -376,7 +421,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Reims+gare",
           "descriptionPt": "TGV direto de Paris Gare de l'Est a Reims em 45 min. Cães pequenos em transportadora grátis; médios/grandes meio bilhete e açaime.",
           "petPolicyPt": "Pequenos grátis; grandes meio bilhete e açaime",
-          "tipPt": "45 min a partir de Paris, excursão canina perfeita; último comboio de regresso às 21:30."
+          "tipPt": "45 min a partir de Paris, excursão canina perfeita; último comboio de regresso às 21:30.",
+          "descriptionDe": "Direkter TGV von Paris Gare de l'Est nach Reims in 45 Minuten. Kleine Hunde in der Transportbox kostenlos; mittelgroße/große Hunde benötigen ein Ticket zum halben Preis plus Maulkorb.",
+          "petPolicyDe": "Klein kostenlos; groß halber Preis + Maulkorb",
+          "tipDe": "45 Minuten ab Paris ergeben einen perfekten Tagesausflug mit Hund; letzter Zug zurück um 21:30 Uhr."
         },
         {
           "name": "Citura Tramway",
@@ -395,7 +443,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Reims+gare+SNCF",
           "descriptionPt": "2 linhas de elétrico, mais de 20 carreiras de autocarro. Cães pequenos grátis; médios/grandes meio bilhete 1 EUR e trela curta.",
           "petPolicyPt": "Pequenos grátis; grandes meio bilhete e trela",
-          "tipPt": "Elétrico A direto da estação SNCF à catedral em 5 min."
+          "tipPt": "Elétrico A direto da estação SNCF à catedral em 5 min.",
+          "descriptionDe": "2 Straßenbahnlinien, über 20 Buslinien. Kleine Hunde kostenlos; mittelgroße/große Hunde zum halben Preis von 1 EUR plus kurze Leine.",
+          "petPolicyDe": "Klein kostenlos; groß halber Preis + Leine",
+          "tipDe": "Linie A verbindet den SNCF-Bahnhof direkt mit der Kathedrale in 5 Minuten."
         },
         {
           "name": "Champagne Shuttle Tours",
@@ -414,7 +465,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Reims+champagne+tours",
           "descriptionPt": "Pequenos operadores de tours de champanhe aceitam cães com trela com marcação prévia, grátis com bilhete adulto pago.",
           "petPolicyPt": "Grátis com marcação prévia",
-          "tipPt": "Ligue com 48h de antecedência e escolha um pequeno produtor."
+          "tipPt": "Ligue com 48h de antecedência e escolha um pequeno produtor.",
+          "descriptionDe": "Kleine Champagner-Tourveranstalter akzeptieren angeleinte Hunde nach vorheriger Absprache, kostenlos mit bezahltem Personenticket.",
+          "petPolicyDe": "Kostenlos nach vorheriger Absprache",
+          "tipDe": "Rufen Sie 48 Stunden im Voraus an und wählen Sie den Kellerbesuch bei einem kleineren Erzeuger."
         }
       ],
       "tipsEn": [
@@ -478,6 +532,18 @@
           "q": "Visitar as caves de champanhe com o cão?",
           "a": "Os pequenos produtores de Verzy/Verzenay/Ay aceitam cães na cave."
         }
+      ],
+      "titleDe": "Haustierfreundliche Verkehrsmittel in Reims",
+      "introDe": "Das kompakte Zentrum lässt sich in 25 Minuten zu Fuß durchqueren. TGV Paris-Reims in 45 Minuten. Die Citura-Straßenbahn und Champagner-Shuttle-Touren akzeptieren alle angeleinte Hunde.",
+      "faqsDe": [
+        {
+          "q": "Wie lange dauert die Zugfahrt Paris-Reims?",
+          "a": "45 Minuten mit dem direkten TGV ab Paris Gare de l'Est."
+        },
+        {
+          "q": "Kann ich Champagnerkeller mit meinem Hund besuchen?",
+          "a": "Kleinere unabhängige Erzeuger in Verzy/Verzenay/Ay heißen angeleinte Hunde im Keller willkommen."
+        }
       ]
     },
     "beaches": {
@@ -528,7 +594,10 @@
             "Café de maio a setembro",
             "Observação de grous"
           ],
-          "tipPt": "Outubro a novembro, migração dos grous; caso contrário cães à solta todo o ano."
+          "tipPt": "Outubro a novembro, migração dos grous; caso contrário cães à solta todo o ano.",
+          "leashRuleDe": "Ganzjährig Freilauf in den Hundestrandzonen",
+          "descriptionDe": "Europas größter künstlicher See (48 km2), 1 Stunde südlich. Zwei ausgeschilderte Hundestrandzonen (Larzicourt, Giffaumont Ost). Im Herbst 2 Millionen Zugkraniche.",
+          "tipDe": "Oktober bis November: der ikonische Kranichzug; ansonsten ganzjährig freier Auslauf für Hunde."
         },
         {
           "name": "Marne River at Sillery",
@@ -566,7 +635,10 @@
             "Entrada de seixos",
             "Café na marina"
           ],
-          "tipPt": "Combine com uma prova de champanhe em Pommery/Verzy."
+          "tipPt": "Combine com uma prova de champanhe em Pommery/Verzy.",
+          "leashRuleDe": "Leinenpflicht auf dem Treidelpfad; Freilauf an ländlichen Kiesbiegungen",
+          "descriptionDe": "Die Marne bei Sillery (10 km östlich von Reims) hat ruhige Kiesbiegungen, ideal zum Schwimmen mit Hund. Wasserqualität Klasse B, umgeben von Premier-Cru-Weinbergen.",
+          "tipDe": "Kombinieren Sie den Ausflug mit einer Champagnerverkostung bei Pommery/Verzy."
         },
         {
           "name": "Berck-sur-Mer (Atlantic)",
@@ -603,7 +675,10 @@
             "Restaurantes de maio a setembro",
             "Areia plana e larga"
           ],
-          "tipPt": "Plage du Phare norte, sem trela todo o ano; a parte central exclui cães no verão."
+          "tipPt": "Plage du Phare norte, sem trela todo o ano; a parte central exclui cães no verão.",
+          "leashRuleDe": "Ganzjährig Freilauf außerhalb der Touristenzone von Mai bis September",
+          "descriptionDe": "Nächstgelegener Atlantikstrand (2 Std. 45 Min. nordwestlich). 10 km Sandstrand am Ärmelkanal, ganzjährige Hundezonen an der Plage du Phare.",
+          "tipDe": "Die Plage du Phare im Norden bietet ganzjährig Freilauf; der zentrale Bereich schließt Hunde im Sommer aus."
         }
       ],
       "tipsEn": [
@@ -667,6 +742,18 @@
           "q": "Os cães podem nadar no Marne?",
           "a": "Sim, nas curvas rurais como Sillery (10 km a este) e Ay (8 km a sul). Evite os troços centrais do canal."
         }
+      ],
+      "titleDe": "Hundefreundliche Seen & Flüsse bei Reims",
+      "introDe": "Reims liegt im Landesinneren, aber der Lac du Der-Chantecoq (Europas größter künstlicher See nach Fläche) ist 1 Stunde südlich entfernt, die Marne verläuft östlich, und Atlantik-Hundestrände sind 2 Std. 45 Min. mit dem Auto erreichbar.",
+      "faqsDe": [
+        {
+          "q": "Nächstgelegener Hundestrand ab Reims?",
+          "a": "1 Stunde südlich zum Lac du Der-Chantecoq. Für den Atlantik: Berck-sur-Mer (2 Std. 45 Min. nordwestlich)."
+        },
+        {
+          "q": "Können Hunde in der Marne schwimmen?",
+          "a": "Ja, an ländlichen Flussbiegungen wie Sillery (10 km östlich) und Ay (8 km südlich). Meiden Sie die zentralen Kanalabschnitte."
+        }
       ]
     },
     "vets": {
@@ -697,7 +784,9 @@
           "tipEs": "Llama antes para triaje.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+Veterinaire+Cormontreuil",
           "descriptionPt": "Clínica de urgências 24h a 4 km a sul do centro. Cirurgia completa, UCI, ecografia, raios X.",
-          "tipPt": "Ligue antes para triagem."
+          "tipPt": "Ligue antes para triagem.",
+          "descriptionDe": "24-Stunden-Notfalltierarzt 4 km südlich des Zentrums. Vollständige Chirurgie, Intensivstation, Ultraschall, Röntgen.",
+          "tipDe": "Rufen Sie vorher zur Ersteinschätzung an."
         },
         {
           "name": "Cabinet Veterinaire de la Cathedrale",
@@ -718,7 +807,9 @@
           "tipFr": "Anglais parle; sans rdv avant 11h.",
           "tipEs": "Hablan ingles; sin cita antes de las 11:00.",
           "descriptionPt": "Clínica diurna a 200 m da catedral. Medicina geral, vacinas, cirurgia, odontologia.",
-          "tipPt": "Falam inglês; atendimento sem marcação antes das 11:00."
+          "tipPt": "Falam inglês; atendimento sem marcação antes das 11:00.",
+          "descriptionDe": "Tagespraxis 200 m von der Kathedrale entfernt. Allgemeinmedizin, Impfungen, Chirurgie, Zahnbehandlung.",
+          "tipDe": "Englisch wird gesprochen; Walk-ins vor 11:00 Uhr möglich."
         },
         {
           "name": "Cabinet Veterinaire de l'Erlon",
@@ -739,7 +830,9 @@
           "tipFr": "Passeport europeen ~30 EUR; puce ~35 EUR.",
           "tipEs": "Pasaporte europeo ~30 EUR; microchip ~35 EUR.",
           "descriptionPt": "Clínica diurna na Place Drouet d'Erlon. Emissão de passaporte europeu, microchip.",
-          "tipPt": "Passaporte europeu cerca de 30 EUR; microchip cerca de 35 EUR."
+          "tipPt": "Passaporte europeu cerca de 30 EUR; microchip cerca de 35 EUR.",
+          "descriptionDe": "Tagespraxis an der Place Drouet d'Erlon. Ausstellung von EU-Heimtierausweisen, Mikrochipping.",
+          "tipDe": "EU-Ausweis ca. 30 EUR; Mikrochip ca. 35 EUR."
         }
       ],
       "tipsEn": [
@@ -803,6 +896,18 @@
           "q": "Passaporte europeu para Reims?",
           "a": "Sim, para entrar vindo de fora de França. Passaporte europeu com vacina antirrábica e microchip ISO."
         }
+      ],
+      "titleDe": "Notfall-Tierärzte in Reims - Tierkliniken & Haustierpflege",
+      "introDe": "Reims verfügt über eine solide tagsüber verfügbare tierärztliche Versorgung und eine regionale 24-Stunden-Notfallklinik in Cormontreuil, 4 km südlich. Die Pariser Tiermedizinfakultät liegt 1 Std. 30 Min. westlich für Überweisungen.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der 24-Stunden-Notfalltierarzt bei Reims?",
+          "a": "Clinique Vétérinaire Cormontreuil, 185 Avenue du Général de Gaulle, +33 3 26 04 38 38, 4 km südlich, 8 Minuten mit dem Auto über die A4."
+        },
+        {
+          "q": "Brauche ich einen Heimtierausweis für Reims?",
+          "a": "Ja, bei Einreise von außerhalb Frankreichs. EU-Heimtierausweis mit gültiger Tollwutimpfung und ISO-Mikrochip, nach den üblichen EU-Regeln."
+        }
       ]
     },
     "tips": {
@@ -819,7 +924,8 @@
           "description": "May-June and September-October ideal (18-23C). Avoid mid-July to mid-August (28-32C heat in chalk vineyards) and December (Christmas Market crowds).",
           "descriptionFr": "Mai-juin et septembre-octobre ideaux (18-23C). Eviter mi-juillet a mi-aout (chaleur 28-32C dans les coteaux crayeux) et decembre (foule Marche de Noel).",
           "descriptionEs": "Mayo-junio y septiembre-octubre ideales (18-23C). Evita mediados de julio a mediados de agosto (calor 28-32C en laderas calcareas) y diciembre (multitud Mercado Navideno).",
-          "descriptionPt": "Maio-junho e setembro-outubro ideais (18-23C). Evite de meados de julho a meados de agosto (calor de 28-32C nas encostas calcárias) e dezembro (multidões do Mercado de Natal)."
+          "descriptionPt": "Maio-junho e setembro-outubro ideais (18-23C). Evite de meados de julho a meados de agosto (calor de 28-32C nas encostas calcárias) e dezembro (multidões do Mercado de Natal).",
+          "descriptionDe": "Mai bis Juni und September bis Oktober sind ideal (18-23 °C). Meiden Sie Mitte Juli bis Mitte August (28-32 °C Hitze in den Kalkweinbergen) und Dezember (Weihnachtsmarkttrubel)."
         },
         {
           "name": "Champagne with a dog",
@@ -827,7 +933,8 @@
           "description": "Big houses (Veuve Clicquot, Moet, Taittinger, Pommery) admit assistance dogs only inside cellars but outer courtyards are dog-friendly. Small producers in Verzy/Verzenay/Ay welcome leashed dogs in the cellar.",
           "descriptionFr": "Grandes maisons (Veuve Clicquot, Moet, Taittinger, Pommery) n'admettent que les chiens d'assistance en cave mais cours exterieures dog-friendly. Petits producteurs Verzy/Verzenay/Ay accueillent les chiens en laisse en cave.",
           "descriptionEs": "Grandes casas (Veuve Clicquot, Moet, Taittinger, Pommery) solo admiten perros de asistencia en bodegas pero patios exteriores son dog-friendly. Pequenos productores Verzy/Verzenay/Ay admiten perros con correa en bodega.",
-          "descriptionPt": "As grandes casas (Veuve Clicquot, Moet, Taittinger, Pommery) só admitem cães de assistência nas caves, mas os pátios exteriores são pet-friendly. Os pequenos produtores de Verzy/Verzenay/Ay aceitam cães com trela na cave."
+          "descriptionPt": "As grandes casas (Veuve Clicquot, Moet, Taittinger, Pommery) só admitem cães de assistência nas caves, mas os pátios exteriores são pet-friendly. Os pequenos produtores de Verzy/Verzenay/Ay aceitam cães com trela na cave.",
+          "descriptionDe": "Große Häuser (Veuve Clicquot, Moët, Taittinger, Pommery) lassen in den Kellern nur Assistenzhunde zu, die äußeren Innenhöfe sind jedoch hundefreundlich. Kleine Erzeuger in Verzy/Verzenay/Ay heißen angeleinte Hunde im Keller willkommen."
         },
         {
           "name": "Currency & cost",
@@ -835,7 +942,8 @@
           "description": "France uses euro. Pet supplements at Reims hotels average 12-18 EUR/night, slightly above EU median due to Champagne tourist pricing, well below Paris.",
           "descriptionFr": "France utilise l'euro. Supplements animaux a Reims autour de 12-18 EUR/nuit, legerement au-dessus de la mediane UE mais bien en-dessous de Paris.",
           "descriptionEs": "Francia usa el euro. Suplementos para mascotas en Reims rondan 12-18 EUR/noche, ligeramente por encima de la mediana UE pero muy por debajo de Paris.",
-          "descriptionPt": "França usa o euro. Os suplementos para animais em Reims rondam os 12-18 EUR/noite, ligeiramente acima da mediana da UE mas muito abaixo de Paris."
+          "descriptionPt": "França usa o euro. Os suplementos para animais em Reims rondam os 12-18 EUR/noite, ligeiramente acima da mediana da UE mas muito abaixo de Paris.",
+          "descriptionDe": "In Frankreich gilt der Euro. Haustierzuschläge in Hotels in Reims liegen im Schnitt bei 12-18 EUR pro Nacht, leicht über dem EU-Median wegen des Champagner-Tourismus, aber deutlich unter Paris."
         }
       ],
       "tipsEn": [
@@ -899,6 +1007,18 @@
           "q": "Reims ou Epernay?",
           "a": "Reims é maior, com catedral e TGV. Epernay (30 min de TER) é mais focada no vinho, com a Avenue de Champagne."
         }
+      ],
+      "titleDe": "Mit Hund nach Reims reisen: Praktische Tipps",
+      "introDe": "Reims vereint die UNESCO-Kathedrale Notre-Dame (33 gekrönte Könige), den königlichen Palast Palais du Tau, die Pommery-Keller und den direkten TGV ab Paris Gare de l'Est in 45 Minuten.",
+      "faqsDe": [
+        {
+          "q": "Eignet sich Reims für ein Hundewochenende?",
+          "a": "Ja, UNESCO-Kathedrale, die Kellergärten von Pommery/Taittinger (im Freien hundefreundlich), Terrassen an der Place Drouet d'Erlon, direkter 45-minütiger TGV ab Paris."
+        },
+        {
+          "q": "Reims oder Épernay für Hunde?",
+          "a": "Reims ist größer, mit Kathedrale und TGV. Épernay (30 Minuten mit dem TER) ist weinorientierter, mit der Avenue de Champagne."
+        }
       ]
     },
     "attractions": {
@@ -927,7 +1047,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cathedrale+Notre-Dame+Reims",
           "descriptionPt": "Catedral gótica da coroação, UNESCO desde 1991, onde 33 reis franceses foram coroados (Clóvis 496, Carlos VII com Joana d'Arc 1429). Praça e exterior pet-friendly 24/7. Interior só cães de assistência.",
           "petPolicyPt": "Praça grátis; interior só cães de assistência",
-          "tipPt": "Fachada oeste à hora dourada (19:00-21:00 no verão), foto icónica."
+          "tipPt": "Fachada oeste à hora dourada (19:00-21:00 no verão), foto icónica.",
+          "descriptionDe": "Gotische Krönungskathedrale, seit 1991 UNESCO-Welterbe, in der 33 französische Könige gekrönt wurden (Chlodwig 496, Karl VII. mit Jeanne d'Arc 1429). Platz und Außenbereich rund um die Uhr hundefreundlich. Im Inneren nur Assistenzhunde.",
+          "petPolicyDe": "Platz kostenlos; Inneres nur mit Assistenzhund",
+          "tipDe": "Die goldene Stunde an der Westfassade (im Sommer 19:00-21:00 Uhr) ergibt ein ikonisches Foto."
         },
         {
           "name": "Place Drouet d'Erlon",
@@ -947,7 +1070,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Place+Drouet+d%27Erlon+Reims",
           "descriptionPt": "A principal rua pedonal de cafés de Reims, 400 m de fachadas Belle Époque, mais de 20 esplanadas, a fonte Sube. A zona de esplanadas que mais tolera cães do nordeste de França.",
           "petPolicyPt": "Rua pública, cães com trela grátis",
-          "tipPt": "Ao fim da tarde (18:00-22:00), hora de encontro dos locais. As esplanadas de canto do Cafe du Palais e da Brasserie Excelsior são as mais pet-friendly."
+          "tipPt": "Ao fim da tarde (18:00-22:00), hora de encontro dos locais. As esplanadas de canto do Cafe du Palais e da Brasserie Excelsior são as mais pet-friendly.",
+          "descriptionDe": "Die zentrale Fußgänger- und Café-Meile von Reims, 400 m Belle-Époque-Fassaden, mehr als 20 Caféterrassen, der Sube-Brunnen. Die dichteste hundetolerante Terrassenmeile im Nordosten Frankreichs.",
+          "petPolicyDe": "Öffentliche Straße, angeleinte Hunde kostenlos",
+          "tipDe": "Abends (18:00-22:00 Uhr) ist Treffpunktzeit der Einheimischen. Café du Palais und die Eckterrasse der Brasserie Excelsior sind am hundefreundlichsten."
         },
         {
           "name": "Domaine Pommery (Gardens)",
@@ -967,7 +1093,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Pommery+Reims",
           "descriptionPt": "Propriedade de champanhe Pommery, portões de tijolo de estilo isabelino, 18 km de caves em 30 m de crayeres galo-romanas (UNESCO 2015). Jardins e pátio exterior pet-friendly.",
           "petPolicyPt": "Jardins grátis; cave só cães de assistência",
-          "tipPt": "Os jardins Pommery acolhem instalações de arte moderna todo o ano, visita cultural grátis e pet-friendly."
+          "tipPt": "Os jardins Pommery acolhem instalações de arte moderna todo o ano, visita cultural grátis e pet-friendly.",
+          "descriptionDe": "Champagnerhaus Pommery, elisabethanisch anmutende Backsteintore, 18 km Keller in 30 m tiefen gallo-römischen Kreidekellern (UNESCO 2015). Gärten und äußerer Innenhof hundefreundlich.",
+          "petPolicyDe": "Gärten kostenlos; Kellerinneres nur mit Assistenzhund",
+          "tipDe": "Die Pommery-Gärten beherbergen das ganze Jahr über zeitgenössische Kunstinstallationen, ein kostenloser, hundefreundlicher Kulturbesuch."
         }
       ],
       "tipsEn": [
@@ -1031,6 +1160,18 @@
           "q": "Os cães são permitidos em Pommery?",
           "a": "Sim, nos jardins exteriores e na arte moderna, cães com trela bem-vindos grátis. A cave (18 km de crayeres galo-romanas) só admite cães de assistência."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Reims",
+      "introDe": "Die meisten charakteristischen Sehenswürdigkeiten im Freien sind hundefreundlich: der Kathedralplatz, die Gärten des Palais du Tau, die Innenhöfe der Pommery-Keller, die Place du Forum, der römische Bogen Porte de Mars.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund zur Kathedrale von Reims mitnehmen?",
+          "a": "Zum Place du Cardinal Luçon und zum Außenbereich ja, an der Leine, kostenlos. Das Innere (wo 33 Könige gekrönt wurden) lässt nur Assistenzhunde zu."
+        },
+        {
+          "q": "Sind Hunde bei Pommery erlaubt?",
+          "a": "Ja, in den äußeren Gärten und bei den zeitgenössischen Kunstinstallationen sind angeleinte Hunde kostenlos willkommen. Die Kellerführung (18 km gallo-römische Kreidekeller) lässt nur Assistenzhunde zu."
+        }
       ]
     },
     "petsitting": {
@@ -1055,7 +1196,9 @@
           "tipFr": "60% des sitters de Reims bilingues EN/FR, tourisme champagne international.",
           "tipEs": "60% de cuidadores de Reims bilingues EN/FR, turismo champana internacional.",
           "descriptionPt": "Plataforma internacional com cerca de 20 cuidadores verificados em Reims num raio de 5 km, visitas ao domicílio, creche e alojamento. Verificados e segurados.",
-          "tipPt": "60% dos cuidadores de Reims são bilingues EN/FR, devido ao turismo internacional do champanhe."
+          "tipPt": "60% dos cuidadores de Reims são bilingues EN/FR, devido ao turismo internacional do champanhe.",
+          "descriptionDe": "Internationale Plattform mit rund 20 geprüften Betreuern in Reims innerhalb von 5 km vom Zentrum, Kurzbesuche, Tagesbetreuung, Übernachtungsbetreuung. Geprüft, versichert.",
+          "tipDe": "60% der Betreuer in Reims sind zweisprachig Englisch/Französisch, dank des internationalen Champagner-Tourismus."
         },
         {
           "name": "Holidog Reims",
@@ -1071,7 +1214,9 @@
           "tipFr": "Reservez 72h a l'avance pic mai-octobre.",
           "tipEs": "Reserva con 72h en pico mayo-octubre.",
           "descriptionPt": "Plataforma francesa com cerca de 15 cuidadores verificados e linha veterinária 24/7. Alojamento 22-30 EUR/dia, passeio de 30 min 12-15 EUR.",
-          "tipPt": "Reserve com 72h de antecedência no pico de maio a outubro."
+          "tipPt": "Reserve com 72h de antecedência no pico de maio a outubro.",
+          "descriptionDe": "Französische Plattform mit rund 15 geprüften Betreuern in Reims und einer 24-Stunden-Tierarzt-Telefonhotline. Übernachtung 22-30 EUR pro Tag, 30-minütiger Spaziergang 12-15 EUR.",
+          "tipDe": "Buchen Sie 72 Stunden im Voraus während der Champagner-Verkostungshochsaison von Mai bis Oktober."
         }
       ],
       "tipsEn": [
@@ -1134,6 +1279,18 @@
         {
           "q": "Cuidador que fala inglês em Reims?",
           "a": "Sim, 60% dos cuidadores de Reims na Pawshake falam inglês devido ao turismo internacional do champanhe."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Reims",
+      "introDe": "Für Champagnerkellerbesuche, bei denen der Hund nicht mitkann, bietet Reims zuverlässige, geprüfte Haustierbetreuung über internationale und französische Plattformen.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Hundetagesbetreuung in Reims?",
+          "a": "22-30 EUR pro Tag über Pawshake oder Holidog. Kurzbesuche 12-15 EUR für 30 Minuten."
+        },
+        {
+          "q": "Gibt es englischsprachige Betreuer in Reims?",
+          "a": "Ja, etwa 60% der Betreuer in Reims auf Pawshake sprechen fließend Englisch, dank des internationalen Champagner-Tourismus."
         }
       ]
     }

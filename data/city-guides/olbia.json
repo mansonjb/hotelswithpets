@@ -1,4 +1,10 @@
-{"slug":"olbia","name":"Olbia","country":"Italy","flag":"🇮🇹","lastUpdated":"2026-06-19","guides":{
+{
+  "slug": "olbia",
+  "name": "Olbia",
+  "country": "Italy",
+  "flag": "🇮🇹",
+  "lastUpdated": "2026-06-19",
+  "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Olbia",
       "titleFr": "Restaurants acceptant les animaux à Olbia",
@@ -33,7 +39,11 @@
           "tipFr": "Réservez à l'avance en juillet et août. Demandez une table en terrasse en soirée plus fraîche et apportez une gamelle d'eau de voyage",
           "tipEs": "Reserva con antelación en julio y agosto. Pide una mesa en la terraza en la tarde más fresca y lleva un cuenco de agua de viaje",
           "tipPt": "Reserve com antecedência em julho e agosto. Peça uma mesa na esplanada ao final da tarde mais fresca e leve uma taça de água de viagem",
-          "googleMapsUrl": "https://maps.google.com/?q=La+Sartoria+del+Gusto+Olbia"
+          "googleMapsUrl": "https://maps.google.com/?q=La+Sartoria+del+Gusto+Olbia",
+          "descriptionDe": "Ein hoch bewertetes Fischrestaurant, nur einen kurzen Spaziergang vom Zentrum entfernt, bekannt für sehr frischen Fisch und handgemachte sardische Pasta. Hunde sind willkommen, und die ruhigere Innen- und Außenraumgestaltung macht es angenehm, während eines langen Abendessens einen angeleinten Hund zu Ihren Füßen zu haben.",
+          "petPolicyDe": "Hunde willkommen",
+          "mustTryDe": "Frischer Fang des Tages, handgemachte Meeresfrüchte-Pasta",
+          "tipDe": "Reservieren Sie im Juli und August im Voraus. Bitten Sie um einen Außentisch am kühleren Abend und bringen Sie einen Reisenapf mit"
         },
         {
           "name": "Officina del Gusto",
@@ -59,7 +69,11 @@
           "tipFr": "Appelez à l'avance pour confirmer une table en terrasse, car les places extérieures se remplissent vite les soirs d'été",
           "tipEs": "Llama con antelación para confirmar una mesa exterior, ya que la terraza se llena rápido las tardes de verano",
           "tipPt": "Ligue com antecedência para confirmar uma mesa exterior, pois a esplanada enche depressa nas noites de verão",
-          "googleMapsUrl": "https://maps.google.com/?q=Officina+del+Gusto+Olbia"
+          "googleMapsUrl": "https://maps.google.com/?q=Officina+del+Gusto+Olbia",
+          "descriptionDe": "Ein seit langem bestehendes zentrales Restaurant an der Piazza Matteotti, das sardische Land- und Meeresgerichte mit modernem Touch serviert. Die Sitzplätze am Platz eignen sich gut zum Essen mit einem ruhigen, angeleinten Hund, idealerweise am Abend, sobald die Tageshitze nachgelassen hat.",
+          "petPolicyDe": "Angeleinte Hunde willkommen im Außenbereich",
+          "mustTryDe": "Sardische Meeresfrüchte-Antipasti, lokaler Vermentino-Wein",
+          "tipDe": "Rufen Sie vorher an, um einen Außentisch zu bestätigen, da die Terrassenplätze an Sommerabenden schnell ausgebucht sind"
         },
         {
           "name": "Corso Umberto terraces",
@@ -85,7 +99,11 @@
           "tipFr": "Parcourez le corso après le coucher du soleil, quand le pavé a refroidi. En été, les pavés de midi deviennent assez chauds pour brûler les coussinets",
           "tipEs": "Pasea por el corso después del atardecer, cuando el pavimento se ha enfriado. En verano, los adoquines del mediodía se calientan lo suficiente para dañar las almohadillas",
           "tipPt": "Percorra o corso depois do pôr do sol, quando o pavimento já arrefeceu. No verão, as pedras do meio-dia ficam quentes o suficiente para magoar as patas",
-          "googleMapsUrl": "https://maps.google.com/?q=Corso+Umberto+Olbia"
+          "googleMapsUrl": "https://maps.google.com/?q=Corso+Umberto+Olbia",
+          "descriptionDe": "Der Corso Umberto ist Olbias teilweise autofreie Hauptstraße, gesäumt von Bars, Eisdielen und Trattorien, deren Terrassen bis spät in die warmen Abende hinein belebt bleiben. Die meisten sind entspannt, was einen angeleinten, wohlerzogenen Hund an einem Außentisch angeht, was diesen Straßenzug zum einfachsten Ort für einen Aperitivo mit Hund macht.",
+          "petPolicyDe": "Die meisten Terrassen begrüßen angeleinte Hunde; immer vorher fragen",
+          "mustTryDe": "Sardisches Gelato, ein abendlicher Aperitivo",
+          "tipDe": "Gehen Sie den Corso nach Sonnenuntergang entlang, wenn das Pflaster abgekühlt ist. Mittags werden die Pflastersteine im Sommer heiß genug, um Pfoten wehzutun"
         }
       ],
       "tipsEn": [
@@ -163,6 +181,22 @@
           "q": "Os restaurantes de Olbia fornecem água para os cães?",
           "a": "Muitos trazem uma taça se pedir, mas não é garantido. Leve uma taça dobrável e uma garrafa de água, essencial no calor do verão sardo."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Olbia",
+      "introDe": "Olbia ist das lebendige Tor zur Costa Smeralda, und die Gastronomie der Stadt dreht sich vor allem um Außenterrassen entlang der Fußgängerzone Corso Umberto und die renovierte Uferpromenade. Die meisten Trattorien und Pizzerien lassen einen wohlerzogenen, angeleinten Hund gerne auf ihrer Terrasse Platz nehmen, und in der Sommerhitze erwachen die Küchen erst in den kühleren Abendstunden zum Leben, was auch die einfachste Zeit ist, um mit Hund draußen zu essen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Olbia erlaubt?",
+          "a": "Ja, in der Praxis begrüßen die meisten Trattorien, Pizzerien und Bars in Olbia einen angeleinten, wohlerzogenen Hund auf ihren Außenterrassen, besonders entlang des Corso Umberto. Der Innenbereich liegt im Ermessen des Inhabers, daher sollte man immer vorher fragen."
+        },
+        {
+          "q": "Wann ist die beste Zeit, um mit Hund in Olbia auswärts zu essen?",
+          "a": "Der Abend, nach etwa 20:00 Uhr, sobald die Sommerhitze nachgelassen hat und die Terrassen angenehm sind. Mittags im Juli und August ist es für die meisten Hunde zu heiß, um draußen zur Ruhe zu kommen."
+        },
+        {
+          "q": "Stellen Restaurants in Olbia Wasser für Hunde bereit?",
+          "a": "Viele bringen auf Nachfrage einen Napf, garantiert ist das aber nicht. Nehmen Sie einen faltbaren Reisenapf und eine Flasche Wasser mit, das ist in der sardischen Sommerhitze unverzichtbar."
+        }
       ]
     },
     "parks": {
@@ -193,7 +227,10 @@
           "tipFr": "Venez tôt le matin ou après le coucher du soleil en été. Apportez votre eau, car l'aire à chiens peut être mal entretenue en pleine chaleur",
           "tipEs": "Ve temprano por la mañana o después del atardecer en verano. Lleva tu propia agua, ya que la zona canina puede estar mal mantenida en pleno calor",
           "tipPt": "Vá de manhã cedo ou depois do pôr do sol no verão. Leve a sua própria água, pois a zona para cães pode estar mal cuidada em pleno calor",
-          "googleMapsUrl": "https://maps.google.com/?q=Parco+Fausto+Noce+Olbia"
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+Fausto+Noce+Olbia",
+          "descriptionDe": "Olbias grüne Hauptlunge erstreckt sich über rund 18 Hektar mit mediterranen Bäumen, Fitnesspfaden, einem kleinen Amphitheater und Sportanlagen. Aus Hygienegründen bleiben Hunde von den Hauptrasenflächen fern, aber der Park hat einen eigenen, ausgestatteten eingezäunten Hundebereich, in dem sie ohne Leine laufen können.",
+          "offLeashAreaDe": "Eigener eingezäunter und ausgestatteter Hundebereich innerhalb des Parks",
+          "tipDe": "Gehen Sie im Sommer früh morgens oder nach Sonnenuntergang hin. Bringen Sie eigenes Wasser mit, da der Hundebereich bei starker Hitze schlecht gepflegt sein kann"
         },
         {
           "name": "Olbia Waterfront Promenade (Lungomare)",
@@ -213,7 +250,10 @@
           "tipFr": "Vérifiez les panneaux d'interdiction avant d'entrer dans les jardins centraux du front de mer. Des amendes peuvent s'appliquer là où l'accès est restreint",
           "tipEs": "Comprueba los carteles que prohíben perros antes de entrar en los jardines centrales del paseo. Pueden aplicarse multas donde el acceso está restringido",
           "tipPt": "Verifique os sinais de proibição antes de entrar nos jardins centrais da frente de mar. Podem aplicar-se coimas onde o acesso é restrito",
-          "googleMapsUrl": "https://maps.google.com/?q=Lungomare+Olbia"
+          "googleMapsUrl": "https://maps.google.com/?q=Lungomare+Olbia",
+          "descriptionDe": "Die renovierte Lungomare führt an gestalteten Gärten und hohen Palmen entlang des Golfs vorbei, nahe dem Molo Brin und dem archäologischen Museum. Es ist ein flacher, leichter Spaziergang an der Leine, wobei Schilder auf manchen Abschnitten Hunde ausschließen, halten Sie Ihren Hund also angeleint und achten Sie auf ausgehängte Hinweise.",
+          "offLeashAreaDe": "Keiner. Nur an der Leine; einige Abschnitte schließen Hunde durch Beschilderung aus",
+          "tipDe": "Prüfen Sie vor dem Betreten der zentralen Uferanlagen auf Verbotsschilder für Hunde. Bei eingeschränktem Zugang können Bußgelder verhängt werden"
         },
         {
           "name": "Pozzo Sacro Sa Testa surroundings",
@@ -233,7 +273,10 @@
           "tipFr": "Venez à l'heure dorée pour des températures plus fraîches et la plus belle lumière sur le golfe. Apportez de l'eau, l'ombre est rare",
           "tipEs": "Visita a la hora dorada para temperaturas más frescas y la mejor luz sobre el golfo. Lleva agua, ya que hay poca sombra",
           "tipPt": "Visite à hora dourada para temperaturas mais frescas e a melhor luz sobre o golfo. Leve água, pois há pouca sombra",
-          "googleMapsUrl": "https://maps.google.com/?q=Pozzo+Sacro+Sa+Testa+Olbia"
+          "googleMapsUrl": "https://maps.google.com/?q=Pozzo+Sacro+Sa+Testa+Olbia",
+          "descriptionDe": "Am Rand des Golfs nahe dem heiligen Brunnen von Sa Testa bietet diese offene, wenig frequentierte Gegend einen ruhigen Spaziergang an der Leine mit Meerblick abseits des belebten Zentrums. Ein kurzer Kulturstopp lässt sich hier mit Bewegung für den Hund in den kühleren Stunden verbinden.",
+          "offLeashAreaDe": "Keiner. Halten Sie Hunde in der Nähe des archäologischen Denkmals angeleint",
+          "tipDe": "Besuchen Sie den Ort zur goldenen Stunde für kühlere Temperaturen und das beste Licht über dem Golf. Nehmen Sie Wasser mit, da es kaum Schatten gibt"
         }
       ],
       "tipsEn": [
@@ -298,6 +341,18 @@
         {
           "q": "Posso passear o meu cão pela frente de mar de Olbia?",
           "a": "Na maioria sim, com trela, mas alguns troços dos jardins centrais da frente de mar restringem cães por sinalização. Mantenha o cão com trela, verifique os avisos e passeie de manhã cedo ou ao final do dia para evitar o calor do verão."
+        }
+      ],
+      "titleDe": "Hundeparks & Spaziergänge in Olbia",
+      "introDe": "Olbias Grünflächen konzentrieren sich auf den Parco Fausto Noce, den Hauptpark der Stadt, der einen eingezäunten Hundebereich hat. Darüber hinaus bieten die renovierte Uferpromenade und die sanften Wege am Golf die angenehmsten Spaziergänge an der Leine, am besten früh oder spät genossen, um die sommerliche Mittagshitze zu vermeiden.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Hundepark in Olbia?",
+          "a": "Ja. Der Parco Fausto Noce, der Hauptpark der Stadt, hat einen eingezäunten und ausgestatteten Hundebereich, in dem Hunde ohne Leine laufen dürfen. Aus Hygienegründen sind Hunde auf den Hauptrasenflächen des Parks nicht erlaubt."
+        },
+        {
+          "q": "Kann ich mit meinem Hund an Olbias Uferpromenade spazieren gehen?",
+          "a": "Größtenteils ja, an der Leine, aber einige zentrale Abschnitte der Uferanlagen schließen Hunde durch ausgehängte Schilder aus. Halten Sie Ihren Hund an der Leine, achten Sie auf die Schilder und gehen Sie früh oder spät, um die Sommerhitze zu vermeiden."
         }
       ]
     },
@@ -421,6 +476,22 @@
           "q": "Que documentos precisa o meu animal para entrar na Sardenha?",
           "a": "Os animais da UE precisam de passaporte europeu, microchip e vacinação antirrábica em dia. Os de fora da UE precisam de um certificado sanitário europeu, microchip e vacinação antirrábica. As mesmas regras aplicam-se por ferry ou por avião em Olbia Costa Smeralda."
         }
+      ],
+      "titleDe": "Mit Haustieren unterwegs in Olbia",
+      "introDe": "Olbia ist Sardiniens wichtigster Ankunftsort mit einem geschäftigen Fährhafen und dem Flughafen Costa Smeralda, daher reisen die meisten Haustierreisenden auf dem See- oder Luftweg an. An Land betreibt ARST die Regional- und Stadtbusse, und die Regeln für Hunde sind genau festgelegt: kleine Hunde reisen kostenlos in einer zugelassenen Transportbox, während mittelgroße und große Hunde an der Leine und mit Maulkorb mitfahren müssen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in Olbia in den ARST-Bussen mitnehmen?",
+          "a": "Ja. Kleine Hunde reisen kostenlos in einer zugelassenen Transportbox (max. 50x30x25 cm). Mittelgroße und große Hunde dürfen neben Ihnen auf dem Boden mitfahren, müssen aber Leine und Maulkorb tragen und im Hunderegister eingetragen sein. Nur ein Hund pro Fahrgast."
+        },
+        {
+          "q": "Können Hunde mit der Fähre nach Olbia reisen?",
+          "a": "Ja. Moby, Tirrenia und Grimaldi Lines befördern alle Hunde nach Olbia gegen Ticket und mit gültigen Dokumenten. Sie reisen auf den Außendecks oder in einer begrenzten Anzahl haustierfreundlicher Kabinen, die im Sommer schnell ausgebucht sind, also früh buchen."
+        },
+        {
+          "q": "Welche Dokumente benötigt mein Haustier für die Einreise nach Sardinien?",
+          "a": "EU-Haustiere benötigen einen EU-Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung. Nicht-EU-Haustiere benötigen eine EU-Gesundheitsbescheinigung zusätzlich zu Mikrochip und Tollwutimpfung. Dieselben Regeln gelten, egal ob Sie mit der Fähre oder per Flugzeug am Flughafen Olbia Costa Smeralda ankommen."
+        }
       ]
     },
     "beaches": {
@@ -503,6 +574,18 @@
           "q": "Os cães são proibidos nas praias sardas no verão?",
           "a": "Na maioria das praias populares, sim. Os cães costumam estar proibidos de junho a setembro, sensivelmente, exceto nas zonas designadas. Use sempre as praias para cães oficiais como Le Saline e verifique a sinalização, pois aplicam-se coimas nas praias sem cães."
         }
+      ],
+      "titleDe": "Hundestrände in der Nähe von Olbia",
+      "introDe": "Olbia liegt an einem langen Golf, und die Strände der Costa Smeralda sind nur Minuten entfernt, aber die meisten beliebten sardischen Strände verbieten Hunde im Sommer, in der Regel von etwa Juni bis September. Der Schlüssel liegt darin, die ausgewiesenen Hundestrände anzusteuern: Le Saline bei Olbia hat einen eingezäunten Freilaufbereich für Hunde, und Cala Razza di Giunco an der Costa Smeralda gehört zu den schönsten der Insel.",
+      "faqsDe": [
+        {
+          "q": "Wohin kann ich mit meinem Hund in der Nähe von Olbia an den Strand gehen?",
+          "a": "Am nächsten liegt Le Saline (Punta Calvone), ein kostenloser Hundestrand etwa 10 Minuten südlich von Olbia mit eingezäuntem Freilaufbereich, Hundedusche und Kotbeuteln. Cala Razza di Giunco an der Costa Smeralda und der Hundestrand-Abschnitt Ira bei Porto Rotondo sind ausgezeichnete Alternativen."
+        },
+        {
+          "q": "Sind Hunde im Sommer an sardischen Stränden verboten?",
+          "a": "An den meisten beliebten Stränden ja. Hunde sind in der Regel von etwa Juni bis September verboten, außer in ausgewiesenen Hundebereichen. Nutzen Sie immer die offiziellen Hundestrände wie Le Saline und beachten Sie die örtliche Beschilderung, da an Nicht-Hundestränden Bußgelder drohen."
+        }
       ]
     },
     "vets": {
@@ -549,7 +632,10 @@
           "tipEs": "Guarda este número antes del viaje. Llama siempre primero para que el veterinario esté listo para recibirte",
           "tipPt": "Guarde este número antes da viagem. Ligue sempre primeiro para que o veterinário esteja pronto para o receber",
           "googleMapsUrl": "https://maps.google.com/?q=Pronto+Soccorso+Veterinario+Olbia+Via+Barcellona",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "H24-Notdienst auf Abruf, täglich",
+          "descriptionDe": "Ein tierärztlicher Notdienst in Olbia mit telefonisch abrufbarer Versorgung rund um die Uhr, geleitet von einem Tierarzt mit jahrzehntelanger Erfahrung in Diagnostik, klinischer Versorgung und Chirurgie für kleine und große Tiere. Die erste Nummer, die man außerhalb der Öffnungszeiten bei einer ernsten Situation in der Stadt anruft.",
+          "tipDe": "Speichern Sie diese Nummer vor Ihrer Reise. Rufen Sie immer zuerst an, damit der Tierarzt auf Ihre Ankunft vorbereitet sein kann"
         },
         {
           "name": "Vet Service Clinica Veterinaria",
@@ -571,7 +657,10 @@
           "tipEs": "Llama con antelación para reservar una cita, sobre todo en la concurrida temporada de verano",
           "tipPt": "Ligue com antecedência para marcar uma consulta, sobretudo na movimentada época de verão",
           "googleMapsUrl": "https://maps.google.com/?q=Vet+Service+Clinica+Veterinaria+Olbia",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Öffnungszeiten der Klinik; Anlaufstelle für die Region Costa Smeralda",
+          "descriptionDe": "Eine etablierte Klinik in Olbia, gegründet 2002, die als Anlaufstelle für die Haustierpflege in der gesamten Costa Smeralda dient. Gut geeignet für Routineuntersuchungen, Reisegesundheitschecks und nicht dringende Behandlungen während eines längeren Aufenthalts.",
+          "tipDe": "Rufen Sie vorher an, um einen Termin zu vereinbaren, besonders in der geschäftigen Sommersaison"
         },
         {
           "name": "Clinica Veterinaria A. Volta",
@@ -593,7 +682,10 @@
           "tipEs": "Guarda este número y el del Dott. Puddu. El golpe de calor es un riesgo real en verano y cada minuto cuenta",
           "tipPt": "Mantenha este número e o do Dott. Puddu guardados. A insolação é um risco real no verão e cada minuto conta",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Volta+Olbia",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Öffnungszeiten der Klinik; 24-Stunden-Notrufnummer",
+          "descriptionDe": "Eine zentral in Olbia gelegene Tierklinik mit 24-Stunden-Notrufnummer, praktisch bei Problemen außerhalb der Öffnungszeiten während eines Aufenthalts in oder nahe der Innenstadt. Geeignet sowohl für Routinebesuche als auch für dringende Behandlungen.",
+          "tipDe": "Speichern Sie sowohl diese als auch die Nummer von Dott. Puddu. Ein Hitzschlag ist im Sommer ein reales Risiko, und jede Minute zählt"
         }
       ],
       "faqsEn": [
@@ -634,6 +726,18 @@
         {
           "q": "Preciso de um passaporte para trazer o meu cão a Olbia?",
           "a": "Os animais registados na UE precisam de um passaporte europeu válido com microchip e vacinação antirrábica em dia. Os de fora da UE precisam de um certificado sanitário europeu, microchip e vacinação antirrábica, e por vezes de um teste de titulação. Consulte o Ministério da Saúde italiano."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Olbia, Tierkliniken & Haustierpflege",
+      "introDe": "Olbia verfügt über mehrere Tierkliniken, die die Costa Smeralda versorgen, darunter Angebote mit telefonischer Notfallbereitschaft rund um die Uhr. EU-registrierte Haustiere benötigen für die Einreise nach Italien einen gültigen Heimtierausweis, Mikrochip und aktuelle Tollwutimpfung. Im sardischen Sommer ist ein Hitzschlag der häufigste Notfall bei Haustieren, kennen Sie also Ihre nächste Klinik, bevor Sie sie brauchen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Olbia einen 24-Stunden-Tierarzt?",
+          "a": "Ja. Der Pronto Soccorso Veterinario Olbia (Dott. Puddu, Via Barcellona 62, +39 334 302 5520) bietet telefonisch abrufbare Notfallversorgung rund um die Uhr, und die Clinica Veterinaria A. Volta (Via Volta 23) hat eine 24-Stunden-Notrufnummer (+39 336 816565). Rufen Sie immer vorher an, bevor Sie hinfahren."
+        },
+        {
+          "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Olbia zu bringen?",
+          "a": "EU-registrierte Haustiere benötigen einen gültigen EU-Heimtierausweis mit Mikrochip und aktueller Tollwutimpfung. Nicht-EU-Haustiere benötigen eine EU-Gesundheitsbescheinigung zusätzlich zu Mikrochip und Tollwutimpfung, manchmal auch einen Tollwut-Antikörpertest. Prüfen Sie die aktuellen Regeln beim italienischen Gesundheitsministerium."
         }
       ]
     },
@@ -748,6 +852,22 @@
           "q": "Os cães podem ir às praias à volta de Olbia no verão?",
           "a": "Apenas nas praias para cães designadas como Le Saline, Cala Razza di Giunco e a secção para cães de Ira. A maioria das outras praias populares proíbe cães sensivelmente de junho a setembro, com coimas, por isso verifique sempre a sinalização e fique pelas zonas para cães oficiais."
         }
+      ],
+      "titleDe": "Hundefreundliche Tipps für Olbia",
+      "introDe": "Olbia ist eine einfache, gut zu Fuß erkundbare Basis für einen haustierfreundlichen Sardinien-Urlaub, aber die Sommerhitze und die saisonalen Strandregeln bestimmen alles. Planen Sie Spaziergänge und Mahlzeiten um die kühleren Stunden herum, steuern Sie die ausgewiesenen Hundestrände an, und Sie werden die Stadt und die Costa Smeralda mit Hund sehr lohnend finden.",
+      "faqsDe": [
+        {
+          "q": "Ist Olbia gut für Hunde geeignet?",
+          "a": "Ja, besonders als Basis für die Costa Smeralda. Es gibt einen eigenen Hundestrand bei Le Saline, hundefreundliche Terrassen entlang des Corso Umberto und eine gute tierärztliche Versorgung. Die wichtigsten Einschränkungen sind die Sommerhitze und die saisonalen Hundeverbote an den meisten nicht ausgewiesenen Stränden."
+        },
+        {
+          "q": "Was sollte ich für Olbia mit meinem Hund einpacken?",
+          "a": "Bringen Sie einen EU-Heimtierausweis (oder gleichwertig), eine Leine und einen Maulkorb für die ARST-Busse, eine faltbare Trinkschale und reichlich Wasser mit. Eine Kühlmatte und Pfotenschutz helfen bei der intensiven Sommerhitze, und Kotbeutel sind überall unverzichtbar."
+        },
+        {
+          "q": "Dürfen Hunde im Sommer an die Strände rund um Olbia?",
+          "a": "Nur an ausgewiesenen Hundestränden wie Le Saline, Cala Razza di Giunco und dem Ira-Abschnitt. Die meisten anderen beliebten Strände verbieten Hunde etwa von Juni bis September, mit Bußgeldern, achten Sie also immer auf die Beschilderung und bleiben Sie bei den offiziellen Hundebereichen."
+        }
       ]
     },
     "attractions": {
@@ -781,7 +901,11 @@
           "tipFr": "Venez en début de soirée, quand le granit s'illumine et que l'air est plus frais pour votre chien",
           "tipEs": "Visita al anochecer, cuando el granito brilla y el aire es más fresco para tu perro",
           "tipPt": "Visite ao início da noite, quando o granito brilha e o ar está mais fresco para o seu cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Basilica+San+Simplicio+Olbia"
+          "googleMapsUrl": "https://maps.google.com/?q=Basilica+San+Simplicio+Olbia",
+          "descriptionDe": "Olbias wichtigstes Bauwerk, eine romanische Granitbasilika, die zu den schönsten mittelalterlichen Kirchen Galluras zählt und auf einem eigenen kleinen Platz nahe dem Corso Umberto liegt. Der Platz und die umliegenden Straßen eignen sich für einen angenehmen Spaziergang an der Leine, auch wenn Hunde nicht mit in die Kirche genommen werden.",
+          "dogPolicyDe": "Hunde willkommen auf dem Platz und den umliegenden Straßen; nicht in der Kirche",
+          "admissionFeeDe": "Kostenlos (Außenbereich)",
+          "tipDe": "Besuchen Sie den Ort am frühen Abend, wenn der Granit leuchtet und die Luft für Ihren Hund kühler ist"
         },
         {
           "name": "Corso Umberto & historic centre",
@@ -804,7 +928,11 @@
           "tipFr": "Promenez-vous après le coucher du soleil, quand le pavé a refroidi et que le corso est le plus animé",
           "tipEs": "Pasea después del atardecer, cuando el pavimento se ha enfriado y el corso está más animado",
           "tipPt": "Passeie depois do pôr do sol, quando o pavimento já arrefeceu e o corso está mais animado",
-          "googleMapsUrl": "https://maps.google.com/?q=Corso+Umberto+Olbia"
+          "googleMapsUrl": "https://maps.google.com/?q=Corso+Umberto+Olbia",
+          "descriptionDe": "Der teilweise autofreie Corso Umberto ist das Herz von Olbia, gesäumt von Geschäften, Cafés und Eisdielen, die bis in die Nacht belebt bleiben. Es ist der einfachste, angenehmste Spaziergang an der Leine in der Stadt und verbindet die wichtigsten Plätze mit den meisten hundefreundlichen Terrassen.",
+          "dogPolicyDe": "Angeleinte Hunde willkommen auf der Straße und den meisten Terrassen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Bummeln Sie nach Sonnenuntergang, wenn das Pflaster abgekühlt ist und der Corso am lebendigsten ist"
         },
         {
           "name": "Pozzo Sacro di Sa Testa",
@@ -827,7 +955,11 @@
           "tipFr": "Venez tôt ou tard pour un air plus frais et une meilleure lumière. Il y a peu d'ombre sur le site",
           "tipEs": "Ve temprano o tarde para un aire más fresco y mejor luz. Hay poca sombra en el yacimiento",
           "tipPt": "Vá cedo ou tarde para um ar mais fresco e melhor luz. Há pouca sombra no sítio",
-          "googleMapsUrl": "https://maps.google.com/?q=Pozzo+Sacro+Sa+Testa+Olbia"
+          "googleMapsUrl": "https://maps.google.com/?q=Pozzo+Sacro+Sa+Testa+Olbia",
+          "descriptionDe": "Ein bemerkenswerter nuraghischer heiliger Brunnen aus der späten Bronzezeit mit einer Treppe, die zu einer tholosüberdachten Brunnenkammer hinabführt, gelegen in einem offenen Gebiet am Golf nahe der Stadt. Die archäologische Freiluftstätte ist ein kurzer, wenig besuchter kultureller Zwischenstopp, den Sie mit einem Spaziergang an der Leine am Meer verbinden können.",
+          "dogPolicyDe": "Freiluftstätte; halten Sie Hunde in der Nähe des Denkmals angeleint",
+          "admissionFeeDe": "Kostenlos oder geringe Gebühr; vor Ort prüfen",
+          "tipDe": "Gehen Sie früh oder spät hin für kühlere Luft und besseres Licht. Es gibt an der Stätte kaum Schatten"
         }
       ],
       "tipsEn": [
@@ -889,6 +1021,18 @@
           "q": "Os cães são permitidos no poço sagrado de Sa Testa?",
           "a": "É um sítio arqueológico ao ar livre, por isso pode visitá-lo com um cão com trela e apanhar os seus dejetos. Mantenha o cão bem controlado perto do monumento e vá cedo ou tarde para evitar o calor do meio-dia."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Olbia",
+      "introDe": "Olbias schönste Sehenswürdigkeiten liegen größtenteils im Freien, was gut zu einem Hund passt: ein zu Fuß erkundbarer historischer Kern rund um die Basilika San Simplicio und den Corso Umberto, sowie der nuraghische heilige Brunnen von Sa Testa am Golf. Museen im Innenbereich lassen im Allgemeinen keine Hunde zu, planen Sie diese also für die Zeit, in der Ihr Hund sich im Hotel in der kühleren Tageszeit ausruhen kann.",
+      "faqsDe": [
+        {
+          "q": "Kann ich Olbias Sehenswürdigkeiten mit meinem Hund besuchen?",
+          "a": "Das Beste von Olbia ist im Freien und mit Leine hundefreundlich: der Platz an der Basilika San Simplicio, der Corso Umberto und die offene archäologische Stätte von Sa Testa. Museen im Innenbereich wie das archäologische Museum lassen im Allgemeinen keine Hunde zu."
+        },
+        {
+          "q": "Sind Hunde am heiligen Brunnen Sa Testa erlaubt?",
+          "a": "Es handelt sich um eine archäologische Freiluftstätte, Sie können sie also mit einem angeleinten Hund besuchen und nach ihm aufräumen. Halten Sie Ihren Hund nahe dem Denkmal unter enger Kontrolle und gehen Sie früh oder spät, um die Mittagshitze zu vermeiden."
+        }
       ]
     },
     "petsitting": {
@@ -920,7 +1064,10 @@
           "tip": "Message sitters directly to confirm they are comfortable with your dog's size and the summer heat before booking",
           "tipFr": "Contactez les sitters directement pour confirmer qu'ils sont à l'aise avec la taille de votre chien et la chaleur estivale avant de réserver",
           "tipEs": "Contacta a los cuidadores directamente para confirmar que se sienten cómodos con el tamaño de tu perro y el calor del verano antes de reservar",
-          "tipPt": "Envie mensagem aos cuidadores diretamente para confirmar que estão à vontade com o tamanho do seu cão e o calor do verão antes de reservar"
+          "tipPt": "Envie mensagem aos cuidadores diretamente para confirmar que estão à vontade com o tamanho do seu cão e o calor do verão antes de reservar",
+          "descriptionDe": "Pawshake listet geprüfte örtliche Hundesitter in Olbia mit Kurzbesuchen, Spaziergängen, Tagesbetreuung und Übernachtung, mit Versicherungsschutz und Bewertungen früherer Kunden. Für Reisende ist es eine der einfachsten Möglichkeiten, ein paar Stunden Betreuung zu buchen, während sie die Stadt erkunden oder einen hundefreien Bootsausflug machen.",
+          "serviceTypeDe": "Online-Buchung. Betreuung, Gassigehen, Tagesbetreuung, Übernachtung",
+          "tipDe": "Schreiben Sie Sitter direkt an, um vor der Buchung zu bestätigen, dass sie mit der Größe Ihres Hundes und der Sommerhitze zurechtkommen"
         },
         {
           "name": "Holidog Olbia",
@@ -941,7 +1088,10 @@
           "tip": "Book ahead for July and August. Local availability is limited at the height of the Costa Smeralda season",
           "tipFr": "Réservez à l'avance pour juillet et août. Les disponibilités locales sont limitées au plus fort de la saison de la Costa Smeralda",
           "tipEs": "Reserva con antelación para julio y agosto. La disponibilidad local es limitada en plena temporada de la Costa Smeralda",
-          "tipPt": "Reserve com antecedência para julho e agosto. A disponibilidade local é limitada no auge da época da Costa Smeralda"
+          "tipPt": "Reserve com antecedência para julho e agosto. A disponibilidade local é limitada no auge da época da Costa Smeralda",
+          "descriptionDe": "Holidog verbindet Reisende mit örtlichen Gastfamilien und Haustiersittern in Olbia für Tagesbetreuung, Spaziergänge und Übernachtung, eine Alternative zu klassischen Tierpensionen. Sitter geben während des Aufenthalts Updates, was beruhigend ist, wenn Sie Ihren Hund für den Tag zurücklassen.",
+          "serviceTypeDe": "Online-Buchung. Gastfamilien, Tagesbetreuung, Übernachtung",
+          "tipDe": "Buchen Sie für Juli und August im Voraus. Die örtliche Verfügbarkeit ist auf dem Höhepunkt der Costa-Smeralda-Saison begrenzt"
         }
       ],
       "tipsEn": [
@@ -991,6 +1141,15 @@
           "q": "Quanto custa o pet sitting em Olbia?",
           "a": "Conte cerca de 15 a 35 € por dia consoante o serviço, com as visitas e passeios na faixa mais baixa e a creche completa ou o alojamento noturno mais caros. Os preços sobem no auge de julho e agosto na Costa Smeralda, por isso reserve cedo."
         }
+      ],
+      "titleDe": "Hundesitter & Haustierbetreuung in Olbia",
+      "introDe": "Wenn Sie ein paar Stunden ohne Ihren Hund brauchen, für ein Museum im Innenbereich, einen Bootsausflug oder einfach eine Pause von der Hitze, verfügen Olbia und die weitere Region Gallura über ein gutes Netzwerk von Hundesittern, Gassigehern und kleinen Betreuungsoptionen. Online-Plattformen sind für Reisende der einfachste Weg, einen geprüften örtlichen Sitter zu finden.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Haustierbetreuung in Olbia?",
+          "a": "Rechnen Sie mit etwa 15-35 EUR pro Tag, je nach Leistung, wobei Kurzbesuche und Spaziergänge am unteren Ende liegen und Ganztagesbetreuung oder Übernachtung teurer sind. In der Hochsaison Juli und August an der Costa Smeralda steigen die Preise, also früh buchen."
+        }
       ]
     }
-  }}
+  }
+}

@@ -39,7 +39,11 @@
           "tipFr": "Allez au déjeuner plutôt qu'au dîner, la pêche la plus fraîche arrive le matin et le menu le reflète à midi",
           "tipEs": "Ve a almorzar en lugar de cenar, la pesca más fresca llega por la mañana y el menú lo refleja al mediodía",
           "tipPt": "Vá ao almoço em vez do jantar, o peixe mais fresco chega de manhã e o menu reflete isso ao meio-dia",
-          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+Peniche+Porto"
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+Peniche+Porto",
+          "descriptionDe": "Genau die Art von Ort, auf der Peniche aufgebaut ist, ein Fischrestaurant direkt vom Boot mit Plastikstühlen, einer Bürgersteigterrasse und gegrilltem Fisch, der kaum länger als ein paar Stunden unterwegs war. Hunde sitzen ohne Aufsehen unter den Tischen auf der Terrasse. Die Caldeirada (Fischeintopf) und die gegrillten Stöcker sind die Gerichte, die man bestellen sollte. Die Preise sind nach jedem Maßstab wirklich niedrig.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Caldeirada de peixe, carapaus grelhados (gegrillte Stöcker)",
+          "tipDe": "Lieber zum Mittagessen als zum Abendessen kommen, der frischeste Fang kommt morgens an, und die Karte spiegelt das mittags wider"
         },
         {
           "name": "Café Garrett",
@@ -65,7 +69,11 @@
           "tipFr": "Arrêt parfait après la promenade matinale le long des remparts du fort, la place est calme avant 9h",
           "tipEs": "Parada perfecta tras el paseo matutino por las murallas del fuerte, la plaza está tranquila antes de las 9h",
           "tipPt": "Paragem perfeita após o passeio matinal ao longo das muralhas do forte, a praça está calma antes das 9h",
-          "googleMapsUrl": "https://maps.google.com/?q=Peniche+Praca+Bocage"
+          "googleMapsUrl": "https://maps.google.com/?q=Peniche+Praca+Bocage",
+          "descriptionDe": "Ein traditionelles portugiesisches Café am Hauptplatz der Stadt mit einer breiten Terrasse, die sich bis in den Fußgängerbereich zieht. Pastel de nata, Kaffee und eine wechselnde Auswahl an Petiscos (kleinen Gerichten). Hunde sind auf der Terrasse willkommen, und das Personal ist durchweg herzlich. Der beste Ort in Peniche, um dem Stadtleben zuzusehen.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Pastel de nata, galão (portugiesischer Milchkaffee)",
+          "tipDe": "Perfekter Stopp nach dem morgendlichen Hundespaziergang entlang der Festungsmauern, der Platz ist vor 9 Uhr ruhig"
         },
         {
           "name": "Tasca do Caneco",
@@ -91,7 +99,11 @@
           "tipFr": "Espèces uniquement. Arrivez avant 12h15, le plat du jour est épuisé avant 13h30 les jours chargés",
           "tipEs": "Solo efectivo. Llega antes de las 12:15, el plato del día se agota antes de las 13:30 los días concurridos",
           "tipPt": "Só dinheiro. Chegue antes das 12:15, o prato do dia esgota-se antes das 13:30 nos dias mais concorridos",
-          "googleMapsUrl": "https://maps.google.com/?q=Tasca+Peniche"
+          "googleMapsUrl": "https://maps.google.com/?q=Tasca+Peniche",
+          "descriptionDe": "Eine echte Tasca (Wirtshaus) im Fischerviertel, die Art von Ort, an dem das Mittagsmenü des Tages auf eine Tafel geschrieben wird und der Hauswein aus einem Tonkrug kommt. Die Terrassentische auf der schmalen Straße sind hundefreundlich. Gegrillter Fisch, Suppe und Dessert zum Festpreis mittags ist das Format. Hier essen die einheimischen Fischer.",
+          "petPolicyDe": "Hunde an den Außentischen willkommen",
+          "mustTryDe": "Tagesmenü (prato do dia), Suppe, Fisch, Dessert, Wein",
+          "tipDe": "Nur Bargeld. Bis 12:15 Uhr ankommen, das Tagesgericht ist an belebten Tagen bis 13:30 Uhr aus"
         },
         {
           "name": "Mar & Sol Beach Bar",
@@ -117,7 +129,11 @@
           "tipFr": "Vérifiez Instagram ou appelez en avril, mai et octobre, les jours d'ouverture dépendent de la météo et des conditions de surf",
           "tipEs": "Consulta Instagram o llama en abril, mayo y octubre, los días de apertura dependen del tiempo y las condiciones del surf",
           "tipPt": "Verifique o Instagram ou ligue em abril, maio e outubro, os dias de abertura dependem do tempo e das condições de surf",
-          "googleMapsUrl": "https://maps.google.com/?q=Peniche+de+Cima+beach"
+          "googleMapsUrl": "https://maps.google.com/?q=Peniche+de+Cima+beach",
+          "descriptionDe": "Eine lockere Strandbar auf der geschützten Nordseite der Halbinsel mit Blick auf den Strand Peniche de Cima. Von Frühling bis Herbst geöffnet, serviert sie kalte Getränke, Snacks und einfaches Gegrilltes, wobei Hunde an den Außentischen im Sand willkommen sind. Surfer und Hundehalter machen außerhalb des Sommers den Großteil der Gäste aus.",
+          "petPolicyDe": "Hunde an den Außentischen im Sand willkommen",
+          "mustTryDe": "Kaltes Super Bock, gegrilltes Piri-Piri-Hähnchen",
+          "tipDe": "Im April, Mai und Oktober vorher auf Instagram schauen oder anrufen, die Öffnungstage hängen vom Wetter und den Surfbedingungen ab"
         }
       ],
       "tipsEn": [
@@ -141,20 +157,56 @@
         "O dinheiro é preferido na maioria das tascas e pequenos restaurantes."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside restaurants in Peniche?", "a": "Portuguese law restricts dogs to terraces in food-serving establishments. Most restaurants in Peniche have outdoor terrace areas where dogs are welcome. Café-bars with no food service may accept dogs inside at the owner's discretion."},
-        {"q": "Is Peniche more dog-friendly than Lisbon for eating out?", "a": "Generally yes. Peniche is a working fishing town with a relaxed local culture. The restaurant terraces are wide, informal, and accustomed to dogs. Lisbon has more variation, some areas are very dog-friendly, others stricter."}
+        {
+          "q": "Are dogs allowed inside restaurants in Peniche?",
+          "a": "Portuguese law restricts dogs to terraces in food-serving establishments. Most restaurants in Peniche have outdoor terrace areas where dogs are welcome. Café-bars with no food service may accept dogs inside at the owner's discretion."
+        },
+        {
+          "q": "Is Peniche more dog-friendly than Lisbon for eating out?",
+          "a": "Generally yes. Peniche is a working fishing town with a relaxed local culture. The restaurant terraces are wide, informal, and accustomed to dogs. Lisbon has more variation, some areas are very dog-friendly, others stricter."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils admis à l'intérieur des restaurants à Peniche ?", "a": "La loi portugaise limite les chiens aux terrasses dans les établissements servant de la nourriture. La plupart des restaurants de Peniche ont des terrasses extérieures où les chiens sont les bienvenus."},
-        {"q": "Peniche est-il plus dog-friendly que Lisbonne pour dîner dehors ?", "a": "En général, oui. Peniche est une ville de pêcheurs détendue avec une culture locale relaxée."}
+        {
+          "q": "Les chiens sont-ils admis à l'intérieur des restaurants à Peniche ?",
+          "a": "La loi portugaise limite les chiens aux terrasses dans les établissements servant de la nourriture. La plupart des restaurants de Peniche ont des terrasses extérieures où les chiens sont les bienvenus."
+        },
+        {
+          "q": "Peniche est-il plus dog-friendly que Lisbonne pour dîner dehors ?",
+          "a": "En général, oui. Peniche est une ville de pêcheurs détendue avec une culture locale relaxée."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se permiten perros dentro de los restaurantes de Peniche?", "a": "La ley portuguesa restringe los perros a las terrazas en los establecimientos de comida. La mayoría de los restaurantes de Peniche tienen terrazas exteriores donde los perros son bienvenidos."},
-        {"q": "¿Es Peniche más dog-friendly que Lisboa para salir a comer?", "a": "Generalmente sí. Peniche es una ciudad pesquera activa con una cultura local relajada."}
+        {
+          "q": "¿Se permiten perros dentro de los restaurantes de Peniche?",
+          "a": "La ley portuguesa restringe los perros a las terrazas en los establecimientos de comida. La mayoría de los restaurantes de Peniche tienen terrazas exteriores donde los perros son bienvenidos."
+        },
+        {
+          "q": "¿Es Peniche más dog-friendly que Lisboa para salir a comer?",
+          "a": "Generalmente sí. Peniche es una ciudad pesquera activa con una cultura local relajada."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são permitidos dentro dos restaurantes em Peniche?", "a": "A lei portuguesa restringe os cães às esplanadas nos estabelecimentos de comida. A maioria dos restaurantes em Peniche tem esplanadas exteriores onde os cães são bem-vindos."},
-        {"q": "Peniche é mais dog-friendly do que Lisboa para sair a comer?", "a": "Geralmente sim. Peniche é uma cidade piscatória ativa com uma cultura local descontraída."}
+        {
+          "q": "Os cães são permitidos dentro dos restaurantes em Peniche?",
+          "a": "A lei portuguesa restringe os cães às esplanadas nos estabelecimentos de comida. A maioria dos restaurantes em Peniche tem esplanadas exteriores onde os cães são bem-vindos."
+        },
+        {
+          "q": "Peniche é mais dog-friendly do que Lisboa para sair a comer?",
+          "a": "Geralmente sim. Peniche é uma cidade piscatória ativa com uma cultura local descontraída."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Peniche",
+      "introDe": "Peniche ist ein arbeitender Fischereihafen auf einer Halbinsel 90 km nördlich von Lissabon, und seine Restaurantkultur ist ganz von dieser Identität geprägt: frischer Fisch, keine Anmaßung und Außenterrassen mit Blick auf den Atlantik. Hunde gehören hier zum Alltag. Die Fischerfamilien, die die meisten Restaurants an der Rua Vasco da Gama und entlang des Hafens führen, haben eine instinktiv entspannte Haltung gegenüber wohlerzogenen Hunden auf den Terrassen. Man findet keine Schilder, die Hunde verbieten, sondern Wasserschalen, die erscheinen, ohne dass man danach fragt.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Peniche im Innenbereich erlaubt?",
+          "a": "Das portugiesische Recht beschränkt Hunde in gastronomischen Betrieben auf Terrassen. Die meisten Restaurants in Peniche haben Außenterrassen, auf denen Hunde willkommen sind. Café-Bars ohne Speisenservice dürfen Hunde nach Ermessen des Inhabers auch drinnen zulassen."
+        },
+        {
+          "q": "Ist Peniche zum Essengehen hundefreundlicher als Lissabon?",
+          "a": "Im Allgemeinen ja. Peniche ist eine arbeitende Fischerstadt mit entspannter lokaler Kultur. Die Restaurantterrassen sind weitläufig, ungezwungen und an Hunde gewöhnt. Lissabon ist stärker durchmischt, manche Gegenden sind sehr hundefreundlich, andere strenger."
+        }
       ]
     },
     "parks": {
@@ -191,7 +243,11 @@
           "tipFr": "Les falaises côté ouest reçoivent un vent extrême, gardez votre chien en laisse courte près des bords",
           "tipEs": "Los acantilados orientados al oeste reciben viento extremo, mantén a tu perro con correa corta cerca de los bordes",
           "tipPt": "As falésias viradas a oeste recebem vento extremo, mantenha o seu cão com trela curta perto das bordas",
-          "googleMapsUrl": "https://maps.google.com/?q=Fortaleza+de+Peniche"
+          "googleMapsUrl": "https://maps.google.com/?q=Fortaleza+de+Peniche",
+          "descriptionDe": "Der eindrucksvollste Spaziergang in Peniche: ein Klippenpfad rund um die Festung aus dem 16. Jahrhundert an der Spitze der Halbinsel, mit Atlantikblick in drei Richtungen. Hunde an der Leine sind auf dem Pfad willkommen. Die Festung selbst diente unter Salazar als politisches Gefängnis, das Äußere und die Mauern sind immer zugänglich. Die Kombination aus Festungsmauern, brechenden Atlantikwellen und wildem Westwind ist unvergesslich.",
+          "petPolicyDe": "Hunde an der Leine auf dem Klippenpfad willkommen; Festungsinneres mit Einschränkungen",
+          "mustTryDe": "Vollständige Umrundung der Festung bei Sonnenuntergang, 45 Minuten einplanen",
+          "tipDe": "An den westseitigen Klippen herrscht extremer Wind, den Hund nahe den Kanten an kurzer Leine führen"
         },
         {
           "name": "Praia de Peniche de Cima",
@@ -217,7 +273,11 @@
           "tipFr": "Mai et octobre sont idéaux, l'Atlantique est plus calme, la plage presque vide, et les chiens se promènent librement",
           "tipEs": "Mayo y octubre son ideales, el Atlántico está más tranquilo, la playa casi vacía y los perros pasean libres",
           "tipPt": "Maio e outubro são ideais, o Atlântico está mais calmo, a praia quase vazia e os cães passeiam livremente",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+Peniche+de+Cima"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+Peniche+de+Cima",
+          "descriptionDe": "Der geschützte Nordstrand der Halbinsel, durch die Halbinsel selbst vor der vollen Atlantikdünung geschützt. Ruhigeres Wasser als an den südseitigen Stränden, wodurch er der bevorzugte Badestrand für Familien und Hunde ist. Außerhalb der Sommersaison (Hundeverbot vom 15. Juni bis 15. September an den Hauptstränden) führen hier Einheimische morgens ihre Hunde aus. Feiner Sand, gut für einen 3-km-Spaziergang.",
+          "petPolicyDe": "Hunde außerhalb des 15. Juni bis 15. September erlaubt; im Hochsommer verboten",
+          "mustTryDe": "Spaziergang bei Sonnenaufgang vom Strand zur Festung, das Morgenlicht auf dem Atlantik ist außergewöhnlich",
+          "tipDe": "Mai und Oktober sind ideal, der Atlantik ist ruhiger, der Strand fast leer, und Hunde laufen frei"
         },
         {
           "name": "Cabo Carvoeiro cliff trail",
@@ -243,7 +303,11 @@
           "tipFr": "Le sentier est exposé sans protection contre le vent atlantique. Par tempêtes hivernales, les rafales peuvent déstabiliser un petit chien, laisse courte indispensable",
           "tipEs": "El sendero está expuesto sin protección del viento atlántico. En tormentas invernales, las ráfagas pueden desequilibrar a un perro pequeño, correa corta imprescindible",
           "tipPt": "O trilho está exposto sem proteção do vento atlântico. Em tempestades de inverno, as rajadas podem desequilibrar um cão pequeno, trela curta indispensável",
-          "googleMapsUrl": "https://maps.google.com/?q=Cabo+Carvoeiro+Peniche"
+          "googleMapsUrl": "https://maps.google.com/?q=Cabo+Carvoeiro+Peniche",
+          "descriptionDe": "Der westlichste Punkt der Halbinsel Peniche, ein dramatisches Kap mit erodierten Kalksteinformationen (der Felsstapel Nau dos Corvos ist der meistfotografierte). Der Klippenpfad vom Leuchtturm zum Kap ist etwa 2 km einfach und bietet die dramatischste zu Fuß erreichbare Atlantikküste in diesem Teil Portugals. Hunde an der Leine überall willkommen.",
+          "petPolicyDe": "Hunde an der Leine willkommen",
+          "mustTryDe": "Aussichtspunkt am Felsstapel Nau dos Corvos, der eindrucksvollste Fotospot an der Küste von Peniche",
+          "tipDe": "Der Weg ist exponiert und bietet keinen Schutz vor dem Atlantikwind. Bei Winterstürmen können Böen einen kleinen Hund umwerfen, eine kurze Leine ist unerlässlich"
         }
       ],
       "tipsEn": [
@@ -267,20 +331,56 @@
         "O vento é implacável no Cabo Carvoeiro e na ponta da fortaleza, trela curta obrigatória perto das bordas."
       ],
       "faqsEn": [
-        {"q": "Can dogs go on Peniche beaches?", "a": "Dogs are banned from the main sandy beaches between June 15 and September 15. Outside this period, dogs are welcome. The rocky coastline, cliff paths, and the Cabo Carvoeiro trail are accessible year-round."},
-        {"q": "Can I take my dog to Berlenga Island?", "a": "Berlenga is a protected natural reserve. Dogs are generally not permitted on the island to protect the nesting seabird colonies. Confirm current rules with the ferry operators before booking."}
+        {
+          "q": "Can dogs go on Peniche beaches?",
+          "a": "Dogs are banned from the main sandy beaches between June 15 and September 15. Outside this period, dogs are welcome. The rocky coastline, cliff paths, and the Cabo Carvoeiro trail are accessible year-round."
+        },
+        {
+          "q": "Can I take my dog to Berlenga Island?",
+          "a": "Berlenga is a protected natural reserve. Dogs are generally not permitted on the island to protect the nesting seabird colonies. Confirm current rules with the ferry operators before booking."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens peuvent-ils aller sur les plages de Peniche ?", "a": "Les chiens sont interdits sur les plages de sable principales du 15 juin au 15 septembre. En dehors de cette période, les chiens sont bienvenus."},
-        {"q": "Puis-je emmener mon chien à l'île Berlenga ?", "a": "Berlenga est une réserve naturelle protégée. Les chiens ne sont généralement pas autorisés sur l'île pour protéger les colonies d'oiseaux marins nicheurs."}
+        {
+          "q": "Les chiens peuvent-ils aller sur les plages de Peniche ?",
+          "a": "Les chiens sont interdits sur les plages de sable principales du 15 juin au 15 septembre. En dehors de cette période, les chiens sont bienvenus."
+        },
+        {
+          "q": "Puis-je emmener mon chien à l'île Berlenga ?",
+          "a": "Berlenga est une réserve naturelle protégée. Les chiens ne sont généralement pas autorisés sur l'île pour protéger les colonies d'oiseaux marins nicheurs."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Pueden los perros ir a las playas de Peniche?", "a": "Los perros están prohibidos en las playas de arena principales del 15 de junio al 15 de septiembre. Fuera de este período, los perros son bienvenidos."},
-        {"q": "¿Puedo llevar mi perro a la isla Berlenga?", "a": "Berlenga es una reserva natural protegida. Los perros generalmente no están permitidos en la isla para proteger las colonias de aves marinas."}
+        {
+          "q": "¿Pueden los perros ir a las playas de Peniche?",
+          "a": "Los perros están prohibidos en las playas de arena principales del 15 de junio al 15 de septiembre. Fuera de este período, los perros son bienvenidos."
+        },
+        {
+          "q": "¿Puedo llevar mi perro a la isla Berlenga?",
+          "a": "Berlenga es una reserva natural protegida. Los perros generalmente no están permitidos en la isla para proteger las colonias de aves marinas."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães podem ir às praias de Peniche?", "a": "Os cães são proibidos nas praias de areia principais de 15 de junho a 15 de setembro. Fora deste período, os cães são bem-vindos."},
-        {"q": "Posso levar o meu cão à ilha Berlenga?", "a": "Berlenga é uma reserva natural protegida. Os cães geralmente não são permitidos na ilha para proteger as colónias de aves marinhas nidificantes."}
+        {
+          "q": "Os cães podem ir às praias de Peniche?",
+          "a": "Os cães são proibidos nas praias de areia principais de 15 de junho a 15 de setembro. Fora deste período, os cães são bem-vindos."
+        },
+        {
+          "q": "Posso levar o meu cão à ilha Berlenga?",
+          "a": "Berlenga é uma reserva natural protegida. Os cães geralmente não são permitidos na ilha para proteger as colónias de aves marinhas nidificantes."
+        }
+      ],
+      "titleDe": "Spaziergänge & Grünflächen in Peniche",
+      "introDe": "Peniche liegt auf einer Halbinsel, die von drei Seiten vom Atlantik umgeben ist, und die Natur zum Wandern ist hier außergewöhnlich. Die Klippenpfade rund um die Halbinsel, die Strände auf der Nord- und Südseite sowie das Naturschutzgebiet der Insel Berlenga (eine Bootsfahrt entfernt) sind die Hauptattraktionen. Große Stadtparks im klassischen Sinne gibt es nicht, die gesamte Küste von Peniche ist die Grünfläche.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde an die Strände von Peniche?",
+          "a": "Hunde sind an den Hauptsandstränden zwischen dem 15. Juni und dem 15. September verboten. Außerhalb dieses Zeitraums sind Hunde willkommen. Die felsige Küste, die Klippenpfade und der Cabo-Carvoeiro-Wanderweg sind ganzjährig zugänglich."
+        },
+        {
+          "q": "Kann ich meinen Hund mit auf die Insel Berlenga nehmen?",
+          "a": "Berlenga ist ein geschütztes Naturreservat. Hunde sind auf der Insel im Allgemeinen nicht erlaubt, um die Brutkolonien der Seevögel zu schützen. Aktuelle Regeln vor der Buchung bei den Fährbetreibern bestätigen."
+        }
       ]
     },
     "transport": {
@@ -320,20 +420,56 @@
         }
       ],
       "faqsEn": [
-        {"q": "Is there a train to Peniche?", "a": "No, Peniche has no train station. The closest rail connection is Caldas da Rainha (25 km east) on the Lisbon–Figueira da Foz line, then a bus or taxi to Peniche. For most travellers with pets, driving is the practical choice."},
-        {"q": "Can I get from Lisbon Airport to Peniche with a large dog?", "a": "The most practical option is a private taxi or transfer (approximately 90 minutes, €70–100). Drivers generally accept large dogs if informed at booking. No public transport option is suitable for large dogs."}
+        {
+          "q": "Is there a train to Peniche?",
+          "a": "No, Peniche has no train station. The closest rail connection is Caldas da Rainha (25 km east) on the Lisbon–Figueira da Foz line, then a bus or taxi to Peniche. For most travellers with pets, driving is the practical choice."
+        },
+        {
+          "q": "Can I get from Lisbon Airport to Peniche with a large dog?",
+          "a": "The most practical option is a private taxi or transfer (approximately 90 minutes, €70–100). Drivers generally accept large dogs if informed at booking. No public transport option is suitable for large dogs."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il un train pour Peniche ?", "a": "Non, Peniche n'a pas de gare ferroviaire. La connexion ferroviaire la plus proche est Caldas da Rainha (25 km à l'est), puis bus ou taxi jusqu'à Peniche."},
-        {"q": "Puis-je aller de l'aéroport de Lisbonne à Peniche avec un grand chien ?", "a": "L'option la plus pratique est un taxi privé ou un transfert (environ 90 minutes, 70-100€). Les chauffeurs acceptent généralement les grands chiens si prévenus lors de la réservation."}
+        {
+          "q": "Y a-t-il un train pour Peniche ?",
+          "a": "Non, Peniche n'a pas de gare ferroviaire. La connexion ferroviaire la plus proche est Caldas da Rainha (25 km à l'est), puis bus ou taxi jusqu'à Peniche."
+        },
+        {
+          "q": "Puis-je aller de l'aéroport de Lisbonne à Peniche avec un grand chien ?",
+          "a": "L'option la plus pratique est un taxi privé ou un transfert (environ 90 minutes, 70-100€). Les chauffeurs acceptent généralement les grands chiens si prévenus lors de la réservation."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay tren a Peniche?", "a": "No, Peniche no tiene estación de tren. La conexión ferroviaria más cercana es Caldas da Rainha (25 km al este), luego autobús o taxi hasta Peniche."},
-        {"q": "¿Puedo ir del aeropuerto de Lisboa a Peniche con un perro grande?", "a": "La opción más práctica es un taxi privado o traslado (aproximadamente 90 minutos, 70-100€). Los conductores generalmente aceptan perros grandes si se les informa al reservar."}
+        {
+          "q": "¿Hay tren a Peniche?",
+          "a": "No, Peniche no tiene estación de tren. La conexión ferroviaria más cercana es Caldas da Rainha (25 km al este), luego autobús o taxi hasta Peniche."
+        },
+        {
+          "q": "¿Puedo ir del aeropuerto de Lisboa a Peniche con un perro grande?",
+          "a": "La opción más práctica es un taxi privado o traslado (aproximadamente 90 minutos, 70-100€). Los conductores generalmente aceptan perros grandes si se les informa al reservar."
+        }
       ],
       "faqsPt": [
-        {"q": "Existe comboio para Peniche?", "a": "Não, Peniche não tem estação de comboio. A ligação ferroviária mais próxima é Caldas da Rainha (25 km a leste), depois autocarro ou táxi até Peniche."},
-        {"q": "Posso ir do Aeroporto de Lisboa para Peniche com um cão grande?", "a": "A opção mais prática é um táxi privado ou transferência (aproximadamente 90 minutos, 70-100€). Os motoristas geralmente aceitam cães grandes se informados na reserva."}
+        {
+          "q": "Existe comboio para Peniche?",
+          "a": "Não, Peniche não tem estação de comboio. A ligação ferroviária mais próxima é Caldas da Rainha (25 km a leste), depois autocarro ou táxi até Peniche."
+        },
+        {
+          "q": "Posso ir do Aeroporto de Lisboa para Peniche com um cão grande?",
+          "a": "A opção mais prática é um táxi privado ou transferência (aproximadamente 90 minutos, 70-100€). Os motoristas geralmente aceitam cães grandes se informados na reserva."
+        }
+      ],
+      "titleDe": "Mit Haustier nach Peniche reisen",
+      "introDe": "Peniche hat keinen Bahnhof. Die zwei Optionen sind das Auto (Autobahn A8 von Lissabon, 90 km, etwas über eine Stunde) oder der Expressbus der Rodoviária do Oeste ab Lissabon Campo Grande. Hunde werden im Bus in Transportboxen akzeptiert. Für alle mit großem Hund oder viel Gepäck ist das Auto klar vorzuziehen, und das Parken ist in der ganzen Stadt kostenlos.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Zug nach Peniche?",
+          "a": "Nein, Peniche hat keinen Bahnhof. Der nächste Bahnanschluss ist Caldas da Rainha (25 km östlich) an der Strecke Lissabon-Figueira da Foz, dann Bus oder Taxi nach Peniche. Für die meisten Reisenden mit Haustier ist das Auto die praktische Wahl."
+        },
+        {
+          "q": "Komme ich vom Flughafen Lissabon mit großem Hund nach Peniche?",
+          "a": "Die praktischste Option ist ein privates Taxi oder Transfer (etwa 90 Minuten, 70-100 EUR). Fahrer akzeptieren große Hunde in der Regel, wenn sie bei der Buchung informiert werden. Kein öffentliches Verkehrsmittel eignet sich für große Hunde."
+        }
       ]
     },
     "beaches": {
@@ -370,7 +506,11 @@
           "tipFr": "Baleal a plusieurs écoles de surf, évitez d'amener des chiens pendant les cours de surf actifs car laisses et planches ne font pas bon ménage",
           "tipEs": "Baleal tiene varias escuelas de surf, evita traer perros durante las clases de surf activas porque correas y tablas no combinan bien",
           "tipPt": "Baleal tem várias escolas de surf, evite trazer cães durante as aulas de surf ativas porque trelas e pranchas não combinam bem",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+do+Baleal"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+do+Baleal",
+          "descriptionDe": "Baleal ist eine kleine, über einen Damm mit dem Festland verbundene Insel, 5 km nördlich von Peniche, und einer der berühmtesten Surfstrände Portugals. Das Nordende des Strands, abseits der Konzentration der Surfschulen, ist deutlich hundefreundlicher und wird bei der saisonalen Sperre weniger kontrolliert. Außerhalb des 15. Juni bis 15. September ist der gesamte Strand für Hunde geöffnet, und die Atlantikdünung sorgt für außergewöhnliche Kulisse.",
+          "petPolicyDe": "Hunde am Nordende ganzjährig willkommen; Hauptstrand vom 15. Juni bis 15. September gesperrt",
+          "mustTryDe": "Morgendlicher Spaziergang zum Aussichtspunkt der Insel Baleal, 360-Grad-Panorama auf den Atlantik",
+          "tipDe": "Baleal hat mehrere Surfschulen, Hunde während aktiver Surfstunden (Vormittags- und Nachmittagseinheiten im Sommer) meiden, Leinen und Surfbretter sind eine schlechte Kombination"
         },
         {
           "name": "Praia da Consolação",
@@ -396,7 +536,11 @@
           "tipFr": "Vérifiez les tables des marées avant d'y aller, les plateformes rocheuses ne sont accessibles que dans les 2 heures autour de la marée basse",
           "tipEs": "Consulta las tablas de marea antes de ir, las plataformas rocosas solo son accesibles en las 2 horas alrededor de la marea baja",
           "tipPt": "Verifique as tabuas das marés antes de ir, as plataformas rochosas só são acessíveis nas 2 horas em torno da maré baixa",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Consolacao+Peniche"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Consolacao+Peniche",
+          "descriptionDe": "Ein ruhigerer Strand südlich von Peniche, weniger besucht als Baleal und mit ruhigeren Bedingungen in der Südecke dank eines kleinen Vorgebirges. Hunde sind hier außerhalb der Sommersperre und in den nicht ausgewiesenen Abschnitten ganzjährig willkommen. Die Zufahrtsstraße ist im letzten Kilometer unbefestigt, was den Strand ruhiger hält. Ausgezeichnet für Herbst- und Frühlingsbesuche.",
+          "petPolicyDe": "Hunde außerhalb des Hauptverbots vom 15. Juni bis 15. September willkommen; ruhigere Abschnitte ganzjährig zugänglich",
+          "mustTryDe": "Erkundung der Gezeitentümpel bei Ebbe, das Südende hat ausgedehnte Felsplattformen bei Ebbe",
+          "tipDe": "Vor dem Losgehen die Gezeitentabelle prüfen, die Felsplattformen sind nur in den 2 Stunden um die Ebbe herum zugänglich"
         },
         {
           "name": "Praia de Peniche de Cima",
@@ -422,24 +566,64 @@
           "tipFr": "L'Atlantique à Peniche est froid même en été, 18-20°C. Votre chien sera peut-être plus enthousiaste que vous",
           "tipEs": "El Atlántico en Peniche está frío incluso en verano, 18-20°C. Tu perro puede estar más entusiasmado que tú",
           "tipPt": "O Atlântico em Peniche é frio mesmo no verão, 18-20°C. O seu cão pode estar mais entusiasmado do que você",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+Peniche+de+Cima"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+Peniche+de+Cima",
+          "descriptionDe": "Der geschützte Stadtstrand auf der Nordseite der Halbinsel, am besten vom Zentrum aus erreichbar und die beste Option für ein schnelles morgendliches Bad mit Hund außerhalb der Sommersaison. Direkt vom Weg an der Festungsmauer aus zu erreichen. Der Sand ist gröber als in Baleal, doch die geschützte Bucht sorgt für ruhigeres und sichereres Schwimmwasser.",
+          "petPolicyDe": "Hunde außerhalb des 15. Juni bis 15. September erlaubt",
+          "mustTryDe": "Morgendliches Bad im Oktober, Atlantikwasser um 19 °C, Strand leer, Hunde frei",
+          "tipDe": "Der Atlantik bei Peniche ist selbst im Sommer kalt, 18-20 °C. Ihr Hund ist vielleicht begeisterter davon als Sie"
         }
       ],
       "faqsEn": [
-        {"q": "Can dogs swim at Peniche beaches?", "a": "Yes, outside the June 15–September 15 restriction period on designated bathing beaches. The Atlantic at Peniche is cold (17–20°C) but dogs generally love it. The north bay (Peniche de Cima) has calmer water than the south-facing surf beaches."},
-        {"q": "Is the surf at Peniche dangerous for dogs?", "a": "The south-facing beaches (Praia de Peniche, Ferrel, parts of Baleal) can have powerful Atlantic swells year-round. Keep dogs on lead near breaking waves and avoid bringing them into the water in high surf conditions. The north bay is calmer."}
+        {
+          "q": "Can dogs swim at Peniche beaches?",
+          "a": "Yes, outside the June 15–September 15 restriction period on designated bathing beaches. The Atlantic at Peniche is cold (17–20°C) but dogs generally love it. The north bay (Peniche de Cima) has calmer water than the south-facing surf beaches."
+        },
+        {
+          "q": "Is the surf at Peniche dangerous for dogs?",
+          "a": "The south-facing beaches (Praia de Peniche, Ferrel, parts of Baleal) can have powerful Atlantic swells year-round. Keep dogs on lead near breaking waves and avoid bringing them into the water in high surf conditions. The north bay is calmer."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens peuvent-ils nager sur les plages de Peniche ?", "a": "Oui, en dehors de la période de restriction du 15 juin au 15 septembre sur les plages de baignade désignées. L'Atlantique à Peniche est froid (17-20°C) mais les chiens l'adorent généralement."},
-        {"q": "Le surf à Peniche est-il dangereux pour les chiens ?", "a": "Les plages exposées au sud peuvent avoir de puissantes vagues atlantiques toute l'année. Gardez les chiens en laisse près des vagues déferlantes."}
+        {
+          "q": "Les chiens peuvent-ils nager sur les plages de Peniche ?",
+          "a": "Oui, en dehors de la période de restriction du 15 juin au 15 septembre sur les plages de baignade désignées. L'Atlantique à Peniche est froid (17-20°C) mais les chiens l'adorent généralement."
+        },
+        {
+          "q": "Le surf à Peniche est-il dangereux pour les chiens ?",
+          "a": "Les plages exposées au sud peuvent avoir de puissantes vagues atlantiques toute l'année. Gardez les chiens en laisse près des vagues déferlantes."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Pueden los perros nadar en las playas de Peniche?", "a": "Sí, fuera del período de restricción del 15 de junio al 15 de septiembre. El Atlántico en Peniche está frío (17-20°C) pero los perros suelen adorarlo."},
-        {"q": "¿Es peligroso el surf de Peniche para los perros?", "a": "Las playas orientadas al sur pueden tener poderosas olas atlánticas todo el año. Mantén a los perros con correa cerca de las olas que rompen."}
+        {
+          "q": "¿Pueden los perros nadar en las playas de Peniche?",
+          "a": "Sí, fuera del período de restricción del 15 de junio al 15 de septiembre. El Atlántico en Peniche está frío (17-20°C) pero los perros suelen adorarlo."
+        },
+        {
+          "q": "¿Es peligroso el surf de Peniche para los perros?",
+          "a": "Las playas orientadas al sur pueden tener poderosas olas atlánticas todo el año. Mantén a los perros con correa cerca de las olas que rompen."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães podem nadar nas praias de Peniche?", "a": "Sim, fora do período de restrição de 15 de junho a 15 de setembro nas praias de banho designadas. O Atlântico em Peniche é frio (17-20°C) mas os cães geralmente adoram."},
-        {"q": "O surf em Peniche é perigoso para os cães?", "a": "As praias viradas a sul podem ter ondulação atlântica poderosa durante todo o ano. Mantenha os cães com trela perto das ondas que rebentam."}
+        {
+          "q": "Os cães podem nadar nas praias de Peniche?",
+          "a": "Sim, fora do período de restrição de 15 de junho a 15 de setembro nas praias de banho designadas. O Atlântico em Peniche é frio (17-20°C) mas os cães geralmente adoram."
+        },
+        {
+          "q": "O surf em Peniche é perigoso para os cães?",
+          "a": "As praias viradas a sul podem ter ondulação atlântica poderosa durante todo o ano. Mantenha os cães com trela perto das ondas que rebentam."
+        }
+      ],
+      "titleDe": "Strände in Peniche für Hunde",
+      "introDe": "Peniche hat Strände auf der Nord- und Südseite der Halbinsel, dazu Zugang zu den Surfstränden, die sich südlich Richtung Baleal und Ferrel erstrecken. Der Atlantik hier ist kalt und kraftvoll, nicht das ruhige Mittelmeer. Die Strände sind spektakulär. Portugiesische Strandvorschriften verbieten Hunde vom 15. Juni bis 15. September an ausgewiesenen Badestränden, doch die Strände von Peniche sind zahlreich, und die weniger genutzten werden außerhalb der bewachten Abschnitte kaum kontrolliert.",
+      "faqsDe": [
+        {
+          "q": "Können Hunde an den Stränden von Peniche schwimmen?",
+          "a": "Ja, außerhalb der Beschränkung vom 15. Juni bis 15. September an ausgewiesenen Badestränden. Der Atlantik bei Peniche ist kalt (17-20 °C), aber Hunde lieben ihn meist trotzdem. Die Nordbucht (Peniche de Cima) hat ruhigeres Wasser als die südseitigen Surfstrände."
+        },
+        {
+          "q": "Ist die Brandung bei Peniche gefährlich für Hunde?",
+          "a": "Die südseitigen Strände (Praia de Peniche, Ferrel, Teile von Baleal) können ganzjährig kräftige Atlantikdünung haben. Hunde in der Nähe brechender Wellen anleinen und sie bei starkem Wellengang nicht ins Wasser bringen. Die Nordbucht ist ruhiger."
+        }
       ]
     },
     "vets": {
@@ -486,7 +670,11 @@
           "tipFr": "Apportez votre passeport animal et les carnets de vaccination, les vétérinaires portugais les vérifient souvent pour les visiteurs internationaux",
           "tipEs": "Trae tu pasaporte de mascotas y los registros de vacunación, los veterinarios portugueses suelen verificarlos para los visitantes internacionales",
           "tipPt": "Traga o seu passaporte animal e os registos de vacinação, os veterinários portugueses verificam-nos frequentemente para visitantes internacionais",
-          "googleMapsUrl": "https://maps.google.com/?q=Veterinario+Peniche"
+          "googleMapsUrl": "https://maps.google.com/?q=Veterinario+Peniche",
+          "descriptionDe": "Die Hauptklinik für Tiermedizin in der Stadt Peniche, zuständig für Routinekonsultationen, Impfungen und Chipkontrollen. Die Öffnungszeiten sind normale Wochentags-Bürozeiten mit reduziertem Samstagsservice. Für Urlaubsbesucher ist dies die erste Anlaufstelle für alle nicht dringenden gesundheitlichen Anliegen.",
+          "petPolicyDe": "Alle Haustiere willkommen",
+          "mustTryDe": "Vorher anrufen, um die Öffnungszeiten zu bestätigen, kleinere Kliniken in Portugal schließen manchmal während der Augustferien",
+          "tipDe": "Heimtierausweis und Impfnachweise mitbringen, portugiesische Tierärzte prüfen diese bei internationalen Besuchern oft"
         },
         {
           "name": "Hospital Veterinário do Oeste (Caldas da Rainha)",
@@ -512,24 +700,64 @@
           "tipFr": "Appelez la ligne d'urgence avant de conduire, ils peuvent évaluer la gravité",
           "tipEs": "Llama a la línea de urgencias antes de conducir, pueden evaluar la gravedad",
           "tipPt": "Ligue para a linha de urgências antes de conduzir, podem avaliar a gravidade",
-          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Caldas+da+Rainha"
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Caldas+da+Rainha",
+          "descriptionDe": "Die nächste Tierklinik auf Krankenhausniveau mit vollständiger Diagnostikausstattung (Röntgen, Ultraschall, Chirurgie). 30 km östlich von Peniche an der IC1. Für Notfälle außerhalb der Öffnungszeiten der Klinik in Peniche ist dies die primäre Option. Caldas da Rainha ist eine Marktstadt mit guter Infrastruktur, und die Klinik hat einen guten Ruf.",
+          "petPolicyDe": "Alle Haustiere willkommen; Notfälle werden priorisiert",
+          "mustTryDe": "Die Nummer vor der Ankunft speichern, 30 Minuten Fahrt auf einer schnellen Straße",
+          "tipDe": "Vor der Fahrt zuerst die Notfalllinie anrufen, dort kann man zu Dringlichkeit und Vorbereitung beraten"
         }
       ],
       "faqsEn": [
-        {"q": "What do I need to bring my dog from the UK to Peniche?", "a": "Post-Brexit, UK pets need an Animal Health Certificate (AHC) issued by an official vet no more than 10 days before travel, plus ISO microchip and rabies vaccination. The AHC replaces the old EU Pet Passport for UK-issued documents. Allow 3–4 weeks to arrange this."},
-        {"q": "Are there 24-hour emergency vets near Peniche?", "a": "The town clinic has standard hours. The nearest emergency-level vet is in Caldas da Rainha (30 km, 25 min). Search for 'veterinário urgências Caldas da Rainha' for current emergency contacts."}
+        {
+          "q": "What do I need to bring my dog from the UK to Peniche?",
+          "a": "Post-Brexit, UK pets need an Animal Health Certificate (AHC) issued by an official vet no more than 10 days before travel, plus ISO microchip and rabies vaccination. The AHC replaces the old EU Pet Passport for UK-issued documents. Allow 3–4 weeks to arrange this."
+        },
+        {
+          "q": "Are there 24-hour emergency vets near Peniche?",
+          "a": "The town clinic has standard hours. The nearest emergency-level vet is in Caldas da Rainha (30 km, 25 min). Search for 'veterinário urgências Caldas da Rainha' for current emergency contacts."
+        }
       ],
       "faqsFr": [
-        {"q": "Que dois-je faire pour amener mon chien du Royaume-Uni à Peniche ?", "a": "Post-Brexit, les animaux britanniques ont besoin d'un Certificat de Santé Animale (AHC) délivré par un vétérinaire officiel au plus 10 jours avant le voyage, plus micropuce ISO et vaccination antirabique."},
-        {"q": "Y a-t-il des urgences vétérinaires 24h près de Peniche ?", "a": "La clinique de la ville a des horaires standard. Le vétérinaire le plus proche avec des urgences est à Caldas da Rainha (30 km, 25 min)."}
+        {
+          "q": "Que dois-je faire pour amener mon chien du Royaume-Uni à Peniche ?",
+          "a": "Post-Brexit, les animaux britanniques ont besoin d'un Certificat de Santé Animale (AHC) délivré par un vétérinaire officiel au plus 10 jours avant le voyage, plus micropuce ISO et vaccination antirabique."
+        },
+        {
+          "q": "Y a-t-il des urgences vétérinaires 24h près de Peniche ?",
+          "a": "La clinique de la ville a des horaires standard. Le vétérinaire le plus proche avec des urgences est à Caldas da Rainha (30 km, 25 min)."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Qué necesito para llevar a mi perro del Reino Unido a Peniche?", "a": "Post-Brexit, las mascotas británicas necesitan un Certificado de Salud Animal (AHC) emitido por un veterinario oficial con no más de 10 días antes del viaje, más microchip ISO y vacuna antirrábica."},
-        {"q": "¿Hay veterinarios de urgencias 24h cerca de Peniche?", "a": "La clínica de la ciudad tiene horario estándar. El veterinario de urgencias más cercano está en Caldas da Rainha (30 km, 25 min)."}
+        {
+          "q": "¿Qué necesito para llevar a mi perro del Reino Unido a Peniche?",
+          "a": "Post-Brexit, las mascotas británicas necesitan un Certificado de Salud Animal (AHC) emitido por un veterinario oficial con no más de 10 días antes del viaje, más microchip ISO y vacuna antirrábica."
+        },
+        {
+          "q": "¿Hay veterinarios de urgencias 24h cerca de Peniche?",
+          "a": "La clínica de la ciudad tiene horario estándar. El veterinario de urgencias más cercano está en Caldas da Rainha (30 km, 25 min)."
+        }
       ],
       "faqsPt": [
-        {"q": "O que preciso para trazer o meu cão do Reino Unido para Peniche?", "a": "Pós-Brexit, os animais britânicos precisam de um Certificado de Saúde Animal (AHC) emitido por um veterinário oficial com no máximo 10 dias antes da viagem, mais microchip ISO e vacinação antirrábica."},
-        {"q": "Existem veterinários de urgências 24h perto de Peniche?", "a": "A clínica da cidade tem horário padrão. O veterinário de urgências mais próximo fica em Caldas da Rainha (30 km, 25 min)."}
+        {
+          "q": "O que preciso para trazer o meu cão do Reino Unido para Peniche?",
+          "a": "Pós-Brexit, os animais britânicos precisam de um Certificado de Saúde Animal (AHC) emitido por um veterinário oficial com no máximo 10 dias antes da viagem, mais microchip ISO e vacinação antirrábica."
+        },
+        {
+          "q": "Existem veterinários de urgências 24h perto de Peniche?",
+          "a": "A clínica da cidade tem horário padrão. O veterinário de urgências mais próximo fica em Caldas da Rainha (30 km, 25 min)."
+        }
+      ],
+      "titleDe": "Tierärzte & Haustiergesundheit in Peniche",
+      "introDe": "Peniche verfügt über tierärztliche Versorgung innerhalb der Stadt. Für Notfälle außerhalb der normalen Öffnungszeiten ist die nächste 24-Stunden-Klinik in Caldas da Rainha (30 km östlich) oder Torres Vedras (40 km südlich). Portugal folgt dem EU-Heimtierausweisprogramm, alle aus einem anderen EU-Land einreisenden Hunde benötigen einen gültigen EU-Heimtierausweis mit aktueller Tollwutimpfung und ISO-Mikrochip.",
+      "faqsDe": [
+        {
+          "q": "Was brauche ich, um meinen Hund vom Vereinigten Königreich nach Peniche zu bringen?",
+          "a": "Nach dem Brexit benötigen Haustiere aus dem Vereinigten Königreich eine Tiergesundheitsbescheinigung (Animal Health Certificate, AHC), ausgestellt von einem amtlichen Tierarzt höchstens 10 Tage vor der Reise, plus ISO-Mikrochip und Tollwutimpfung. Die AHC ersetzt den alten EU-Heimtierausweis für im Vereinigten Königreich ausgestellte Dokumente. 3-4 Wochen für die Organisation einplanen."
+        },
+        {
+          "q": "Gibt es 24-Stunden-Notfalltierärzte in der Nähe von Peniche?",
+          "a": "Die städtische Klinik hat normale Öffnungszeiten. Der nächste Tierarzt auf Notfallniveau ist in Caldas da Rainha (30 km, 25 Min). Nach „veterinário urgências Caldas da Rainha“ suchen für aktuelle Notfallkontakte."
+        }
       ]
     },
     "tips": {
@@ -588,7 +816,11 @@
           "tipFr": "Si vous avez besoin d'une nourriture diététique spécialisée, apportez-la de chez vous, la sélection à Peniche se limite aux marques courantes",
           "tipEs": "Si necesitas comida dietética especial, tráela de casa, la selección en Peniche se limita a las marcas habituales",
           "tipPt": "Se precisar de comida dietética especializada, traga-a de casa, a seleção em Peniche limita-se a marcas correntes",
-          "googleMapsUrl": "https://maps.google.com/?q=Pet+Shop+Peniche+Portugal"
+          "googleMapsUrl": "https://maps.google.com/?q=Pet+Shop+Peniche+Portugal",
+          "descriptionDe": "Ein lokales Tierbedarfsgeschäft im Zentrum von Peniche mit Futter, Leinen, Geschirren und grundlegendem tierärztlichem Bedarf. Begrenzter Bestand im Vergleich zu großen Stadtgeschäften, Spezialfutter vor der Ankunft besorgen.",
+          "petPolicyDe": "Tierbedarfsgeschäft, alle Tiere willkommen",
+          "mustTryDe": "Wasserabweisende Handtücher zum Trockenreiben nach dem Strand besorgen",
+          "tipDe": "Wer Spezialdiätfutter braucht, sollte es von zu Hause mitbringen, die Auswahl in Peniche beschränkt sich auf gängige Marken"
         }
       ],
       "tipsEn": [
@@ -612,20 +844,56 @@
         "Peniche é uma cidade operária, os cães fazem parte da vida quotidiana e raramente se sentirá indesejado."
       ],
       "faqsEn": [
-        {"q": "Is Peniche good for dogs?", "a": "Yes, one of the best coastal destinations in Portugal for pet owners. A working fishing town with relaxed local culture, extraordinary cliff walking, multiple beaches accessible outside the summer ban, and affordable restaurants with terrace seating. Best visited May–June and September–October."},
-        {"q": "How cold is the Atlantic at Peniche?", "a": "Water temperature ranges from 14°C in winter to 20°C in summer. Portuguese Atlantic is always colder than the Mediterranean. Dogs generally love it regardless of temperature."}
+        {
+          "q": "Is Peniche good for dogs?",
+          "a": "Yes, one of the best coastal destinations in Portugal for pet owners. A working fishing town with relaxed local culture, extraordinary cliff walking, multiple beaches accessible outside the summer ban, and affordable restaurants with terrace seating. Best visited May–June and September–October."
+        },
+        {
+          "q": "How cold is the Atlantic at Peniche?",
+          "a": "Water temperature ranges from 14°C in winter to 20°C in summer. Portuguese Atlantic is always colder than the Mediterranean. Dogs generally love it regardless of temperature."
+        }
       ],
       "faqsFr": [
-        {"q": "Peniche est-il bien pour les chiens ?", "a": "Oui, l'une des meilleures destinations côtières du Portugal pour les propriétaires d'animaux. Une ville de pêcheurs avec une culture locale détendue, des promenades extraordinaires en falaise, et des restaurants abordables avec terrasses. Idéalement en mai-juin et septembre-octobre."},
-        {"q": "Quelle est la température de l'Atlantique à Peniche ?", "a": "La température de l'eau varie de 14°C en hiver à 20°C en été. Les chiens l'adorent généralement quelle que soit la température."}
+        {
+          "q": "Peniche est-il bien pour les chiens ?",
+          "a": "Oui, l'une des meilleures destinations côtières du Portugal pour les propriétaires d'animaux. Une ville de pêcheurs avec une culture locale détendue, des promenades extraordinaires en falaise, et des restaurants abordables avec terrasses. Idéalement en mai-juin et septembre-octobre."
+        },
+        {
+          "q": "Quelle est la température de l'Atlantique à Peniche ?",
+          "a": "La température de l'eau varie de 14°C en hiver à 20°C en été. Les chiens l'adorent généralement quelle que soit la température."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es bueno Peniche para los perros?", "a": "Sí, uno de los mejores destinos costeros de Portugal para los dueños de mascotas. Una ciudad pesquera activa con cultura local relajada, paseos extraordinarios por acantilados y restaurantes asequibles con terraza. Mejor en mayo-junio y septiembre-octubre."},
-        {"q": "¿Qué temperatura tiene el Atlántico en Peniche?", "a": "La temperatura del agua varía de 14°C en invierno a 20°C en verano. A los perros generalmente les encanta independientemente de la temperatura."}
+        {
+          "q": "¿Es bueno Peniche para los perros?",
+          "a": "Sí, uno de los mejores destinos costeros de Portugal para los dueños de mascotas. Una ciudad pesquera activa con cultura local relajada, paseos extraordinarios por acantilados y restaurantes asequibles con terraza. Mejor en mayo-junio y septiembre-octubre."
+        },
+        {
+          "q": "¿Qué temperatura tiene el Atlántico en Peniche?",
+          "a": "La temperatura del agua varía de 14°C en invierno a 20°C en verano. A los perros generalmente les encanta independientemente de la temperatura."
+        }
       ],
       "faqsPt": [
-        {"q": "Peniche é bom para cães?", "a": "Sim, um dos melhores destinos costeiros de Portugal para os donos de animais. Uma cidade piscatória com cultura local descontraída, caminhadas extraordinárias em falésias e restaurantes acessíveis com esplanada. Melhor em maio-junho e setembro-outubro."},
-        {"q": "Qual é a temperatura do Atlântico em Peniche?", "a": "A temperatura da água varia de 14°C no inverno a 20°C no verão. Os cães geralmente adoram independentemente da temperatura."}
+        {
+          "q": "Peniche é bom para cães?",
+          "a": "Sim, um dos melhores destinos costeiros de Portugal para os donos de animais. Uma cidade piscatória com cultura local descontraída, caminhadas extraordinárias em falésias e restaurantes acessíveis com esplanada. Melhor em maio-junho e setembro-outubro."
+        },
+        {
+          "q": "Qual é a temperatura do Atlântico em Peniche?",
+          "a": "A temperatura da água varia de 14°C no inverno a 20°C no verão. Os cães geralmente adoram independentemente da temperatura."
+        }
+      ],
+      "titleDe": "Reisetipps mit Haustier für Peniche",
+      "introDe": "Peniche ist eines der wirklich hundefreundlichsten Reiseziele Portugals außerhalb der Algarve. Es ist eine arbeitende Stadt mit wenig touristischer Anmaßung, einer lokalen Kultur, die Hunde als normal betrachtet, und einer Halbinsel, die außergewöhnlichen Zugang zur Natur bietet. Das Wichtigste: Atlantikwind und -wellen sind ganzjährig kraftvoll, das Sommerstrandverbot läuft von Mitte Juni bis Mitte September, und die besten Reisezeiten sind Mai-Juni und September-Oktober.",
+      "faqsDe": [
+        {
+          "q": "Ist Peniche gut für Hunde?",
+          "a": "Ja, eines der besten Küstenziele in Portugal für Haustierhalter. Eine arbeitende Fischerstadt mit entspannter lokaler Kultur, außergewöhnlichen Klippenwanderungen, mehreren außerhalb des Sommerverbots zugänglichen Stränden und erschwinglichen Restaurants mit Terrassenplätzen. Am besten Mai-Juni und September-Oktober besuchen."
+        },
+        {
+          "q": "Wie kalt ist der Atlantik bei Peniche?",
+          "a": "Die Wassertemperatur reicht von 14 °C im Winter bis 20 °C im Sommer. Der portugiesische Atlantik ist immer kälter als das Mittelmeer. Hunde lieben ihn meist unabhängig von der Temperatur."
+        }
       ]
     },
     "attractions": {
@@ -662,7 +930,11 @@
           "tipFr": "Le sentier côtier autour de la base de la forteresse prend 45 minutes et offre de meilleures vues que les remparts eux-mêmes",
           "tipEs": "El sendero costero alrededor de la base de la fortaleza toma 45 minutos y ofrece mejores vistas que los propios adarves",
           "tipPt": "O percurso costeiro à volta da base da fortaleza demora 45 minutos e oferece melhores vistas do que as próprias ameias",
-          "googleMapsUrl": "https://maps.google.com/?q=Fortaleza+de+Peniche"
+          "googleMapsUrl": "https://maps.google.com/?q=Fortaleza+de+Peniche",
+          "descriptionDe": "Die Festung aus dem 16. Jahrhundert an der Spitze der Halbinsel Peniche ist das prägende Wahrzeichen der Stadt. Sie diente bis 1974 als politisches Gefängnis der Salazar-Ära und beherbergt heute ein regionales Museum. Hunde sind in den Außenbereichen, Gärten und auf dem umliegenden Klippenpfad willkommen. Das Innenmuseum hat eingeschränkten Hundezugang. Die Aussicht von den Wallanlagen der Festung über den Atlantik ist außergewöhnlich.",
+          "petPolicyDe": "Hunde auf dem Außengelände und Klippenpfad willkommen; Innenmuseum eingeschränkt",
+          "mustTryDe": "Sonnenuntergang von den atlantikseitigen Wallanlagen, eines der besten Sonnenuntergangslichter Portugals",
+          "tipDe": "Der Klippenweg um den Fuß der Festung dauert 45 Minuten und bietet bessere Aussichten als die Wallanlagen selbst"
         },
         {
           "name": "Mercado Municipal de Peniche",
@@ -688,7 +960,11 @@
           "tipFr": "Allez avant 9h pour le meilleur choix et avant le flux touristique, les pêcheurs locaux vendent directement depuis des plateaux à l'entrée",
           "tipEs": "Ve antes de las 9h para la mejor selección y antes de la ola turística, los pescadores locales venden directamente desde bandejas en la entrada",
           "tipPt": "Vá antes das 9h para a melhor seleção e antes da vaga turística, os pescadores locais vendem diretamente de tabuleiros na entrada",
-          "googleMapsUrl": "https://maps.google.com/?q=Mercado+Municipal+Peniche"
+          "googleMapsUrl": "https://maps.google.com/?q=Mercado+Municipal+Peniche",
+          "descriptionDe": "Die überdachte Markthalle im Zentrum von Peniche ist von Dienstag bis Sonntag vormittags geöffnet und das authentischste Fenster in die Fischwirtschaft, die diese Stadt prägt. Frischer Fisch, Meeresfrüchte, Gemüse und lokaler Käse. Hunde an der Leine werden in den überdachten Marktgängen geduldet, nah bei sich halten und auf nasse Fischstände achten, die eine vorhersehbare Ablenkung darstellen.",
+          "petPolicyDe": "Hunde an der Leine in den Marktgängen geduldet",
+          "mustTryDe": "Frische Percebes (Entenmuscheln) von der Küste bei Peniche, eine anderswo kaum erhältliche lokale Delikatesse",
+          "tipDe": "Vor 9 Uhr kommen für die beste Auswahl und vor der Touristenwelle, einheimische Fischer verkaufen direkt vom Tablett am Eingang"
         },
         {
           "name": "Baleal Village & Causeway",
@@ -714,7 +990,11 @@
           "tipFr": "Évitez les week-ends d'août, la digue est encombrée de voitures. Venez en octobre pour les mêmes paysages sans la foule",
           "tipEs": "Evita los fines de semana de agosto, la calzada está atascada. Ven en octubre para los mismos paisajes sin las multitudes",
           "tipPt": "Evite os fins de semana de agosto, a estrada está congestionada. Venha em outubro para as mesmas paisagens sem as multidões",
-          "googleMapsUrl": "https://maps.google.com/?q=Baleal+Peniche+Portugal"
+          "googleMapsUrl": "https://maps.google.com/?q=Baleal+Peniche+Portugal",
+          "descriptionDe": "Das kleine Dorf auf der Insel Baleal, erreichbar über einen 400 m langen Damm vom Festland. Eine der malerischsten Fischersiedlungen an der portugiesischen Küste, heute geprägt von Surfkultur und saisonalen Cafés. Hunde können die vollständige Inselrunde gehen (etwa 2 km zu Fuß), und der Damm selbst ist bei Sonnenaufgang besonders fotogen. Mehrere hundefreundliche Café-Terrassen sind saisonal geöffnet.",
+          "petPolicyDe": "Hunde an der Leine im gesamten Dorf und auf dem Damm willkommen",
+          "mustTryDe": "Spaziergang bei Sonnenaufgang über den Damm, das Morgenlicht auf dem Atlantik vom Baleal-Ende aus ist eine der besten Aussichten nahe Peniche",
+          "tipDe": "Augustwochenenden meiden, der Damm ist voller Autos und der Strand ausgelastet. Im Oktober kommen für dieselbe Kulisse ohne die Menschenmassen"
         }
       ],
       "tipsEn": [
@@ -738,20 +1018,56 @@
         "As excursões de barco para a Ilha Berlenga são espetaculares mas os cães geralmente não são permitidos."
       ],
       "faqsEn": [
-        {"q": "Can I visit the Fortaleza de Peniche with my dog?", "a": "Yes, the exterior grounds, ramparts, and surrounding cliff path are all accessible with dogs on lead. The interior museum has restrictions. The exterior visit alone takes 45–90 minutes and is the highlight."},
-        {"q": "Is Baleal worth visiting with a dog?", "a": "Absolutely. The causeway walk, the full island loop, and the morning light make Baleal one of the most photogenic dog walks in Portugal. Avoid peak summer weekends."}
+        {
+          "q": "Can I visit the Fortaleza de Peniche with my dog?",
+          "a": "Yes, the exterior grounds, ramparts, and surrounding cliff path are all accessible with dogs on lead. The interior museum has restrictions. The exterior visit alone takes 45–90 minutes and is the highlight."
+        },
+        {
+          "q": "Is Baleal worth visiting with a dog?",
+          "a": "Absolutely. The causeway walk, the full island loop, and the morning light make Baleal one of the most photogenic dog walks in Portugal. Avoid peak summer weekends."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je visiter la Fortaleza de Peniche avec mon chien ?", "a": "Oui, les espaces extérieurs, les remparts et le sentier côtier environnant sont tous accessibles avec des chiens en laisse. Le musée intérieur a des restrictions."},
-        {"q": "Vaut-il la peine de visiter Baleal avec un chien ?", "a": "Absolument. La promenade sur la digue, le tour complet de l'îlot et la lumière matinale font de Baleal l'une des promenades les plus photogéniques du Portugal avec un chien."}
+        {
+          "q": "Puis-je visiter la Fortaleza de Peniche avec mon chien ?",
+          "a": "Oui, les espaces extérieurs, les remparts et le sentier côtier environnant sont tous accessibles avec des chiens en laisse. Le musée intérieur a des restrictions."
+        },
+        {
+          "q": "Vaut-il la peine de visiter Baleal avec un chien ?",
+          "a": "Absolument. La promenade sur la digue, le tour complet de l'îlot et la lumière matinale font de Baleal l'une des promenades les plus photogéniques du Portugal avec un chien."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo visitar la Fortaleza de Peniche con mi perro?", "a": "Sí: los espacios exteriores, las murallas y el sendero costero circundante son accesibles con perros con correa. El museo interior tiene restricciones."},
-        {"q": "¿Vale la pena visitar Baleal con un perro?", "a": "Absolutamente. El paseo por la calzada, el bucle completo del islote y la luz matutina hacen de Baleal uno de los paseos más fotogénicos de Portugal con un perro."}
+        {
+          "q": "¿Puedo visitar la Fortaleza de Peniche con mi perro?",
+          "a": "Sí: los espacios exteriores, las murallas y el sendero costero circundante son accesibles con perros con correa. El museo interior tiene restricciones."
+        },
+        {
+          "q": "¿Vale la pena visitar Baleal con un perro?",
+          "a": "Absolutamente. El paseo por la calzada, el bucle completo del islote y la luz matutina hacen de Baleal uno de los paseos más fotogénicos de Portugal con un perro."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso visitar a Fortaleza de Peniche com o meu cão?", "a": "Sim: os espaços exteriores, as ameias e o percurso costeiro circundante são todos acessíveis com cães com trela. O museu interior tem restrições."},
-        {"q": "Vale a pena visitar Baleal com um cão?", "a": "Absolutamente. A caminhada pela estrada, o loop completo do ilhéu e a luz matinal fazem de Baleal uma das caminhadas mais fotogénicas de Portugal com um cão."}
+        {
+          "q": "Posso visitar a Fortaleza de Peniche com o meu cão?",
+          "a": "Sim: os espaços exteriores, as ameias e o percurso costeiro circundante são todos acessíveis com cães com trela. O museu interior tem restrições."
+        },
+        {
+          "q": "Vale a pena visitar Baleal com um cão?",
+          "a": "Absolutamente. A caminhada pela estrada, o loop completo do ilhéu e a luz matinal fazem de Baleal uma das caminhadas mais fotogénicas de Portugal com um cão."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Peniche",
+      "introDe": "Die Sehenswürdigkeiten von Peniche liegen fast ausschließlich im Freien, was sie fast ausnahmslos haustierfreundlich macht. Die Festung, die Klippenwege, die Surfkultur von Baleal und die einzigartige Geografie der Halbinsel sind die Attraktionen. Das Naturreservat des Berlenga-Archipels ist eine Bootsfahrt entfernt, doch Hunde sind auf der Insel im Allgemeinen nicht erlaubt.",
+      "faqsDe": [
+        {
+          "q": "Kann ich die Fortaleza de Peniche mit meinem Hund besuchen?",
+          "a": "Ja, das Außengelände, die Wallanlagen und der umliegende Klippenpfad sind alle mit angeleintem Hund zugänglich. Das Innenmuseum unterliegt Einschränkungen. Der Außenbesuch allein dauert 45-90 Minuten und ist der Höhepunkt."
+        },
+        {
+          "q": "Lohnt sich ein Besuch von Baleal mit Hund?",
+          "a": "Absolut. Der Spaziergang über den Damm, die vollständige Inselumrundung und das Morgenlicht machen Baleal zu einem der fotogensten Hundespaziergänge Portugals. Stoßzeiten an Sommerwochenenden meiden."
+        }
       ]
     },
     "petsitting": {
@@ -788,7 +1104,11 @@
           "tipFr": "Cherchez des gardiens dans la communauté surf, beaucoup de moniteurs de surf de Baleal font aussi de la garde d'animaux et ont l'habitude des chiens actifs",
           "tipEs": "Busca cuidadores en la comunidad surf, muchos instructores de surf de Baleal también hacen cuidado de mascotas y tienen experiencia con perros activos",
           "tipPt": "Procure cuidadores na comunidade surf, muitos instrutores de surf de Baleal também fazem guarda de animais e têm experiência com cães ativos",
-          "googleMapsUrl": "https://maps.google.com/?q=Peniche+Portugal"
+          "googleMapsUrl": "https://maps.google.com/?q=Peniche+Portugal",
+          "descriptionDe": "Rover ist in Portugal aktiv und hat Sitter in der Gegend von Peniche, Baleal und Caldas da Rainha registriert. Hausbetreuung (der Sitter bleibt in der eigenen Unterkunft) ist der nützlichste Service für Urlaubsbesucher. Für Sommerbesuche 2-3 Wochen im Voraus buchen.",
+          "petPolicyDe": "Alle Hunde akzeptiert (Größe/Rasse abhängig vom Sitter)",
+          "mustTryDe": "Die Option Hausbetreuung, bei der der Sitter mit dem Hund in der eigenen Ferienunterkunft bleibt",
+          "tipDe": "Nach Sittern in der Surf-Community suchen, viele Surflehrer und Saisonarbeiter in Baleal betreuen auch Haustiere und sind erfahren mit aktiven Hunden"
         },
         {
           "name": "Pawshake Oeste region",
@@ -814,7 +1134,11 @@
           "tipFr": "Lisez attentivement les avis des gardiens locaux, vérifiez qu'ils sont familiers avec la météo atlantique et l'exercice en plein air",
           "tipEs": "Lee las reseñas cuidadosamente para los cuidadores locales, verifica que estén familiarizados con el clima atlántico y el ejercicio al aire libre",
           "tipPt": "Leia atentamente as avaliações dos cuidadores locais, verifique que estão familiarizados com o clima atlântico e o exercício ao ar livre",
-          "googleMapsUrl": "https://maps.google.com/?q=Peniche+Portugal"
+          "googleMapsUrl": "https://maps.google.com/?q=Peniche+Portugal",
+          "descriptionDe": "Pawshake ist in der Region Oeste (Peniche, Caldas da Rainha, Gegend von Óbidos) vertreten und hat oft Sitter, die nicht bei Rover gelistet sind. Alle Buchungen beinhalten eine Versicherung. Die Plattform hat eine englischsprachige Oberfläche, nützlich für Nicht-Portugiesischsprecher.",
+          "petPolicyDe": "Alle Haustiere akzeptiert",
+          "mustTryDe": "Mit Rover vergleichen, beide nutzen, um die verfügbaren Sitter in diesem kleineren Markt zu maximieren",
+          "tipDe": "Bewertungen lokaler Sitter sorgfältig lesen, speziell prüfen, ob sie mit Atlantikwetter und Bewegung im Freien vertraut sind"
         }
       ],
       "tipsEn": [
@@ -838,20 +1162,56 @@
         "Para internamento de várias noites, Caldas da Rainha (30 km) tem residências caninas com mais capacidade."
       ],
       "faqsEn": [
-        {"q": "Can I find an English-speaking dog sitter in Peniche?", "a": "Yes, the surf community in Baleal and Peniche includes many English-speaking international residents and seasonal workers. Rover and Pawshake both let you filter by language. In summer, English-speaking sitters are more available."},
-        {"q": "Is there dog boarding in Peniche itself?", "a": "The town has limited formal boarding capacity. For multi-night kennels, the Caldas da Rainha area (30 km east) has several options. Use Rover or Pawshake for home-based boarding within Peniche."}
+        {
+          "q": "Can I find an English-speaking dog sitter in Peniche?",
+          "a": "Yes, the surf community in Baleal and Peniche includes many English-speaking international residents and seasonal workers. Rover and Pawshake both let you filter by language. In summer, English-speaking sitters are more available."
+        },
+        {
+          "q": "Is there dog boarding in Peniche itself?",
+          "a": "The town has limited formal boarding capacity. For multi-night kennels, the Caldas da Rainha area (30 km east) has several options. Use Rover or Pawshake for home-based boarding within Peniche."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je trouver un gardien de chien anglophone à Peniche ?", "a": "Oui, la communauté surf à Baleal et Peniche comprend de nombreux résidents et travailleurs saisonniers internationaux anglophones."},
-        {"q": "Y a-t-il une pension canine à Peniche même ?", "a": "La ville a une capacité de pension formelle limitée. Pour les chenils multi-nuits, la zone de Caldas da Rainha (30 km à l'est) a plusieurs options."}
+        {
+          "q": "Puis-je trouver un gardien de chien anglophone à Peniche ?",
+          "a": "Oui, la communauté surf à Baleal et Peniche comprend de nombreux résidents et travailleurs saisonniers internationaux anglophones."
+        },
+        {
+          "q": "Y a-t-il une pension canine à Peniche même ?",
+          "a": "La ville a une capacité de pension formelle limitée. Pour les chenils multi-nuits, la zone de Caldas da Rainha (30 km à l'est) a plusieurs options."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo encontrar un cuidador de perros anglófono en Peniche?", "a": "Sí: la comunidad surf en Baleal y Peniche incluye muchos residentes internacionales y trabajadores de temporada angloparlantes."},
-        {"q": "¿Hay internamiento canino en la propia Peniche?", "a": "La ciudad tiene capacidad de internamiento formal limitada. Para residencias caninas multi-noches, la zona de Caldas da Rainha (30 km) tiene varias opciones."}
+        {
+          "q": "¿Puedo encontrar un cuidador de perros anglófono en Peniche?",
+          "a": "Sí: la comunidad surf en Baleal y Peniche incluye muchos residentes internacionales y trabajadores de temporada angloparlantes."
+        },
+        {
+          "q": "¿Hay internamiento canino en la propia Peniche?",
+          "a": "La ciudad tiene capacidad de internamiento formal limitada. Para residencias caninas multi-noches, la zona de Caldas da Rainha (30 km) tiene varias opciones."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso encontrar um cuidador de cão anglófono em Peniche?", "a": "Sim: a comunidade surf em Baleal e Peniche inclui muitos residentes internacionais e trabalhadores sazonais anglófonos."},
-        {"q": "Existe internamento canino na própria Peniche?", "a": "A cidade tem capacidade de internamento formal limitada. Para residências caninas de várias noites, a zona de Caldas da Rainha (30 km a leste) tem várias opções."}
+        {
+          "q": "Posso encontrar um cuidador de cão anglófono em Peniche?",
+          "a": "Sim: a comunidade surf em Baleal e Peniche inclui muitos residentes internacionais e trabalhadores sazonais anglófonos."
+        },
+        {
+          "q": "Existe internamento canino na própria Peniche?",
+          "a": "A cidade tem capacidade de internamento formal limitada. Para residências caninas de várias noites, a zona de Caldas da Rainha (30 km a leste) tem várias opções."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundesitting in Peniche",
+      "introDe": "Peniche ist eine kleine Stadt, und die professionelle Infrastruktur für Haustierbetreuung ist begrenzt. Rover und Pawshake haben Sitter in der Gegend von Peniche und Caldas da Rainha registriert. Die Surf-Community hat ein informelles Netzwerk hundefreundlicher Unterkünfte und Betreuung geschaffen. Für Unterbringung sind die nächsten Zwinger in der Gegend von Caldas da Rainha.",
+      "faqsDe": [
+        {
+          "q": "Finde ich einen englischsprachigen Hundesitter in Peniche?",
+          "a": "Ja, die Surf-Community in Baleal und Peniche umfasst viele englischsprachige internationale Bewohner und Saisonarbeiter. Rover und Pawshake lassen beide eine Filterung nach Sprache zu. Im Sommer sind englischsprachige Sitter besser verfügbar."
+        },
+        {
+          "q": "Gibt es Hundeunterbringung direkt in Peniche?",
+          "a": "Die Stadt hat begrenzte formelle Unterbringungskapazität. Für mehrtägige Unterbringung in Zwingern gibt es in der Gegend von Caldas da Rainha (30 km östlich) mehrere Optionen. Rover oder Pawshake für hausbasierte Unterbringung innerhalb von Peniche nutzen."
+        }
       ]
     }
   }

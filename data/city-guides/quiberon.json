@@ -1,4 +1,10 @@
-{"slug":"quiberon","name":"Quiberon","country":"France","flag":"🇫🇷","lastUpdated":"2026-06-22","guides":{
+{
+  "slug": "quiberon",
+  "name": "Quiberon",
+  "country": "France",
+  "flag": "🇫🇷",
+  "lastUpdated": "2026-06-22",
+  "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Quiberon",
       "titleFr": "Restaurants acceptant les animaux à Quiberon",
@@ -33,7 +39,11 @@
           "tipFr": "Installez-vous en terrasse et gardez votre chien en laisse courte. La rue est animée les jours de ferry",
           "tipEs": "Siéntate en la terraza y mantén a tu perro con correa corta. La calle se llena los días de ferri",
           "tipPt": "Sente-se na esplanada e mantenha o seu cão com trela curta. A rua fica movimentada nos dias de ferry",
-          "googleMapsUrl": "https://maps.google.com/?q=La+Crep+Port+Maria+Quiberon"
+          "googleMapsUrl": "https://maps.google.com/?q=La+Crep+Port+Maria+Quiberon",
+          "descriptionDe": "Eine einladende Crêperie wenige Schritte vom Fährterminal Port Maria entfernt, die bretonische Galettes und süße Crêpes aus frischen, lokalen Zutaten auf einer angenehmen Straßenterrasse serviert. Hunde sind auf der Terrasse willkommen, was sie zu einem praktischen Halt vor oder nach einer Inselfähre macht.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Galette complète, Karamell-Crêpe, bretonischer Cidre",
+          "tipDe": "Setzen Sie sich auf die Terrasse und halten Sie Ihren Hund an einer kurzen Leine. An Fährtagen wird die Straße belebt"
         },
         {
           "name": "Ty Rétro",
@@ -59,7 +69,11 @@
           "tipFr": "Demandez une table en terrasse sur la place. La salle est petite et se remplit vite en été",
           "tipEs": "Pide una mesa en la terraza de la plaza. El interior es pequeño y se llena rápido en verano",
           "tipPt": "Peça uma mesa na esplanada da praça. O interior é pequeno e enche depressa no verão",
-          "googleMapsUrl": "https://maps.google.com/?q=Ty+Retro+Quiberon"
+          "googleMapsUrl": "https://maps.google.com/?q=Ty+Retro+Quiberon",
+          "descriptionDe": "Eine im Vintage-Stil gestaltete Crêperie etwas hinter der Uferpromenade, die großzügige Galettes und Crêpes serviert, mit einer Terrasse am Platz. Das Restaurant akzeptiert Hunde, sodass Ihr Begleiter sich neben dem Tisch niederlassen kann, während Sie essen.",
+          "petPolicyDe": "Hunde akzeptiert, Terrassensitzplätze",
+          "mustTryDe": "Galette mit Andouille, Buchweizen-Crêpes, lokaler Cidre",
+          "tipDe": "Bitten Sie um einen Terrassentisch am Platz. Der Innenbereich ist klein und füllt sich im Sommer schnell"
         },
         {
           "name": "Terraces of Port Maria",
@@ -85,7 +99,11 @@
           "tipFr": "Choisissez une terrasse face au port et demandez avant de vous asseoir. Les tables sur le quai sont plus calmes que la salle pour les chiens craintifs",
           "tipEs": "Elige una terraza frente al puerto y pregunta antes de sentarte. Las mesas del muelle son más tranquilas que el interior para perros nerviosos",
           "tipPt": "Escolha uma esplanada virada para o porto e pergunte antes de se sentar. As mesas do cais são mais calmas do que o interior para cães nervosos",
-          "googleMapsUrl": "https://maps.google.com/?q=Port+Maria+Quiberon"
+          "googleMapsUrl": "https://maps.google.com/?q=Port+Maria+Quiberon",
+          "descriptionDe": "Der aktive Fischerhafen Port Maria ist gesäumt von Brasserien, Crêperies und Meeresfrüchte-Terrassen mit Blick auf die Boote und die Inselfähren. Viele dieser Terrassen am Kai akzeptieren einen Hund an der Leine, und die Meeresbrise hält die Tische im Sommer angenehm kühl.",
+          "petPolicyDe": "Viele Terrassen am Kai akzeptieren Hunde an der Leine. Fragen Sie zuerst nach",
+          "mustTryDe": "Austern aus Quiberon, Moules-frites, gegrillter Fisch des Tages",
+          "tipDe": "Wählen Sie eine Terrasse mit Blick auf den Hafen und fragen Sie vor dem Hinsetzen nach. Tische am Kai sind ruhiger als im Innenbereich für nervöse Hunde"
         }
       ],
       "tipsEn": [
@@ -109,24 +127,76 @@
         "O Port Maria e o porto velho têm a melhor concentração de crêperies e esplanadas de marisco que aceitam cães."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed in Quiberon restaurants?", "a": "On terraces, generally yes. Quiberon is a relaxed seaside town and most crêperies and seafood terraces around Port Maria accept a well-behaved leashed dog. Inside dining rooms it is at the owner's discretion, so always ask first."},
-        {"q": "Where are the most dog-friendly restaurants in Quiberon?", "a": "The harbour of Port Maria and the old port have the highest concentration of dog-friendly terraces. La Crep and Ty Rétro are reliable crêperie options."},
-        {"q": "Can I eat with my dog before taking an island ferry?", "a": "Yes. Several terraces sit right by the Port Maria ferry terminal, so you can have a galette or oysters with your dog before boarding the boat to Belle-Île, Houat or Hoëdic."}
+        {
+          "q": "Are dogs allowed in Quiberon restaurants?",
+          "a": "On terraces, generally yes. Quiberon is a relaxed seaside town and most crêperies and seafood terraces around Port Maria accept a well-behaved leashed dog. Inside dining rooms it is at the owner's discretion, so always ask first."
+        },
+        {
+          "q": "Where are the most dog-friendly restaurants in Quiberon?",
+          "a": "The harbour of Port Maria and the old port have the highest concentration of dog-friendly terraces. La Crep and Ty Rétro are reliable crêperie options."
+        },
+        {
+          "q": "Can I eat with my dog before taking an island ferry?",
+          "a": "Yes. Several terraces sit right by the Port Maria ferry terminal, so you can have a galette or oysters with your dog before boarding the boat to Belle-Île, Houat or Hoëdic."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils acceptés dans les restaurants de Quiberon ?", "a": "En terrasse, généralement oui. Quiberon est une station balnéaire décontractée et la plupart des crêperies et terrasses de fruits de mer autour de Port Maria acceptent un chien en laisse bien tenu. En salle, c'est à la discrétion du gérant, alors demandez toujours d'abord."},
-        {"q": "Où trouver les restaurants les plus dog-friendly à Quiberon ?", "a": "Le port de Port Maria et le vieux port concentrent le plus de terrasses dog-friendly. La Crep et Ty Rétro sont des crêperies fiables."},
-        {"q": "Puis-je manger avec mon chien avant de prendre un ferry pour les îles ?", "a": "Oui. Plusieurs terrasses sont juste à côté de la gare maritime de Port Maria, vous pouvez donc prendre une galette ou des huîtres avec votre chien avant d'embarquer pour Belle-Île, Houat ou Hoëdic."}
+        {
+          "q": "Les chiens sont-ils acceptés dans les restaurants de Quiberon ?",
+          "a": "En terrasse, généralement oui. Quiberon est une station balnéaire décontractée et la plupart des crêperies et terrasses de fruits de mer autour de Port Maria acceptent un chien en laisse bien tenu. En salle, c'est à la discrétion du gérant, alors demandez toujours d'abord."
+        },
+        {
+          "q": "Où trouver les restaurants les plus dog-friendly à Quiberon ?",
+          "a": "Le port de Port Maria et le vieux port concentrent le plus de terrasses dog-friendly. La Crep et Ty Rétro sont des crêperies fiables."
+        },
+        {
+          "q": "Puis-je manger avec mon chien avant de prendre un ferry pour les îles ?",
+          "a": "Oui. Plusieurs terrasses sont juste à côté de la gare maritime de Port Maria, vous pouvez donc prendre une galette ou des huîtres avec votre chien avant d'embarquer pour Belle-Île, Houat ou Hoëdic."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se admiten perros en los restaurantes de Quiberon?", "a": "En terrazas, por lo general sí. Quiberon es un relajado pueblo costero y la mayoría de las crêperies y terrazas de marisco alrededor de Port Maria aceptan a un perro tranquilo con correa. Dentro de los comedores queda a discreción del dueño, así que pregunta siempre primero."},
-        {"q": "¿Dónde están los restaurantes más dog-friendly de Quiberon?", "a": "El puerto de Port Maria y el puerto viejo concentran la mayor cantidad de terrazas dog-friendly. La Crep y Ty Rétro son crêperies fiables."},
-        {"q": "¿Puedo comer con mi perro antes de tomar un ferri a las islas?", "a": "Sí. Varias terrazas están justo al lado de la terminal de ferris de Port Maria, así que puedes tomar una galette u ostras con tu perro antes de embarcar a Belle-Île, Houat o Hoëdic."}
+        {
+          "q": "¿Se admiten perros en los restaurantes de Quiberon?",
+          "a": "En terrazas, por lo general sí. Quiberon es un relajado pueblo costero y la mayoría de las crêperies y terrazas de marisco alrededor de Port Maria aceptan a un perro tranquilo con correa. Dentro de los comedores queda a discreción del dueño, así que pregunta siempre primero."
+        },
+        {
+          "q": "¿Dónde están los restaurantes más dog-friendly de Quiberon?",
+          "a": "El puerto de Port Maria y el puerto viejo concentran la mayor cantidad de terrazas dog-friendly. La Crep y Ty Rétro son crêperies fiables."
+        },
+        {
+          "q": "¿Puedo comer con mi perro antes de tomar un ferri a las islas?",
+          "a": "Sí. Varias terrazas están justo al lado de la terminal de ferris de Port Maria, así que puedes tomar una galette u ostras con tu perro antes de embarcar a Belle-Île, Houat o Hoëdic."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são permitidos nos restaurantes de Quiberon?", "a": "Nas esplanadas, geralmente sim. Quiberon é uma descontraída vila costeira e a maioria das crêperies e esplanadas de marisco à volta do Port Maria aceita um cão com trela e bem-comportado. Dentro das salas de jantar fica ao critério do dono, por isso pergunte sempre primeiro."},
-        {"q": "Onde estão os restaurantes mais dog-friendly de Quiberon?", "a": "O porto do Port Maria e o porto velho concentram a maior quantidade de esplanadas dog-friendly. A La Crep e o Ty Rétro são crêperies fiáveis."},
-        {"q": "Posso comer com o meu cão antes de apanhar um ferry para as ilhas?", "a": "Sim. Várias esplanadas ficam mesmo ao lado do terminal de ferries do Port Maria, por isso pode comer uma galette ou ostras com o seu cão antes de embarcar para Belle-Île, Houat ou Hoëdic."}
+        {
+          "q": "Os cães são permitidos nos restaurantes de Quiberon?",
+          "a": "Nas esplanadas, geralmente sim. Quiberon é uma descontraída vila costeira e a maioria das crêperies e esplanadas de marisco à volta do Port Maria aceita um cão com trela e bem-comportado. Dentro das salas de jantar fica ao critério do dono, por isso pergunte sempre primeiro."
+        },
+        {
+          "q": "Onde estão os restaurantes mais dog-friendly de Quiberon?",
+          "a": "O porto do Port Maria e o porto velho concentram a maior quantidade de esplanadas dog-friendly. A La Crep e o Ty Rétro são crêperies fiáveis."
+        },
+        {
+          "q": "Posso comer com o meu cão antes de apanhar um ferry para as ilhas?",
+          "a": "Sim. Várias esplanadas ficam mesmo ao lado do terminal de ferries do Port Maria, por isso pode comer uma galette ou ostras com o seu cão antes de embarcar para Belle-Île, Houat ou Hoëdic."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Quiberon",
+      "introDe": "Quiberon ist eine entspannte bretonische Küstenstadt, und die meisten Terrassen rund um Port Maria und den alten Hafen heißen einen wohlerzogenen Hund zu Ihren Füßen willkommen. Crêpes, Galettes, frische Austern und Meeresfrüchte sind die lokalen Spezialitäten, und der kühle atlantische Sommer sorgt dafür, dass die Tische im Freien auch im Juli und August angenehm bleiben.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Quiberon erlaubt?",
+          "a": "Auf Terrassen im Allgemeinen ja. Quiberon ist eine entspannte Küstenstadt, und die meisten Crêperies und Meeresfrüchte-Terrassen rund um Port Maria akzeptieren einen wohlerzogenen Hund an der Leine. Im Innenbereich liegt es im Ermessen des Betreibers, fragen Sie also immer vorher nach."
+        },
+        {
+          "q": "Wo finden sich die haustierfreundlichsten Restaurants in Quiberon?",
+          "a": "Der Hafen von Port Maria und der alte Hafen weisen die höchste Konzentration an hundefreundlichen Terrassen auf. La Crep und Ty Rétro sind verlässliche Crêperie-Optionen."
+        },
+        {
+          "q": "Kann ich mit meinem Hund essen, bevor ich eine Fähre zur Insel nehme?",
+          "a": "Ja. Mehrere Terrassen liegen direkt am Fährterminal Port Maria, sodass Sie mit Ihrem Hund eine Galette oder Austern genießen können, bevor Sie das Boot nach Belle-Île, Houat oder Hoëdic besteigen."
+        }
       ]
     },
     "parks": {
@@ -157,7 +227,10 @@
           "tipFr": "Ne lâchez jamais votre chien ici. Les falaises ne sont pas protégées et des vagues soudaines balaient les rochers",
           "tipEs": "Nunca sueltes a tu perro aquí. Los acantilados no tienen protección y olas repentinas barren las rocas",
           "tipPt": "Nunca solte o seu cão aqui. As falésias não têm proteção e ondas repentinas varrem as rochas",
-          "googleMapsUrl": "https://maps.google.com/?q=Cote+Sauvage+Quiberon"
+          "googleMapsUrl": "https://maps.google.com/?q=Cote+Sauvage+Quiberon",
+          "descriptionDe": "Die Côte Sauvage erstreckt sich über rund 8 km entlang der Atlantikseite der Halbinsel, vom Château Turpault bis zur Pointe du Percho, ein wilder Abschnitt mit Klippen, Bögen und tosender Brandung, gefolgt von einem Teilstück des GR34. Es ist ein spektakulärer Spaziergang mit Hund an der Leine, doch Schwimmen ist hier verboten, da die Strömungen und Unterströmungen zu den gefährlichsten im Morbihan zählen.",
+          "offLeashAreaDe": "Keine. Hunde in der Nähe der Klippenkanten und vom Wasser fernhalten und an der Leine führen",
+          "tipDe": "Lassen Sie Ihren Hund hier niemals ohne Leine. Die Klippen sind nicht eingezäunt, und plötzliche Wellen überspülen die Felsen"
         },
         {
           "name": "Pointe du Conguel walk",
@@ -177,7 +250,10 @@
           "tipFr": "Combinez avec un café à Port Maria. Le parcours plat du front de mer est idéal pour les chiens âgés ou petits",
           "tipEs": "Combínalo con un café en Port Maria. La ruta llana del paseo marítimo es ideal para perros mayores o pequeños",
           "tipPt": "Combine com um café no Port Maria. O percurso plano da marginal é ideal para cães idosos ou pequenos",
-          "googleMapsUrl": "https://maps.google.com/?q=Pointe+du+Conguel+Quiberon"
+          "googleMapsUrl": "https://maps.google.com/?q=Pointe+du+Conguel+Quiberon",
+          "descriptionDe": "Ein leichter, überwiegend ebener Spaziergang von Port Maria entlang der Uferpromenade zur Pointe du Conguel, der südlichsten Spitze der Halbinsel, mit weiten Blicken über die Bucht und hinüber nach Belle-Île. Die Promenade ist fußgängerfreundlich und hundefreundlich an der Leine, wobei die empfindliche Spitze der Landzunge selbst zu belebten Zeiten den Zugang einschränkt.",
+          "offLeashAreaDe": "Keine. Leinenpflicht auf der Promenade und der Landzunge",
+          "tipDe": "Kombinieren Sie den Spaziergang mit einem Kaffee in Port Maria. Die flache Route entlang der Uferpromenade eignet sich ideal für ältere oder kleine Hunde"
         },
         {
           "name": "Isthme de Penthièvre & dunes",
@@ -197,7 +273,10 @@
           "tipFr": "Restez sur les sentiers balisés. Traverser les dunes hors sentier est interdit et abîme cet habitat fragile",
           "tipEs": "Quédate en los senderos señalizados. Cruzar las dunas fuera del sendero está prohibido y daña este hábitat frágil",
           "tipPt": "Mantenha-se nos trilhos marcados. Atravessar as dunas fora do trilho é proibido e danifica este habitat frágil",
-          "googleMapsUrl": "https://maps.google.com/?q=Isthme+de+Penthievre"
+          "googleMapsUrl": "https://maps.google.com/?q=Isthme+de+Penthievre",
+          "descriptionDe": "An der schmalen Landenge, die die Halbinsel mit dem Festland verbindet, hat die Landenge von Penthièvre auf kaum 300 Metern das Meer auf beiden Seiten, überragt vom historischen Fort Penthièvre. Die geschützten Dünen und der Zollpfad (sentier des douaniers) in Richtung Portivy bieten einen luftigen, offenen Spaziergang, bei dem Hunde zum Schutz der Dünenvegetation und der brütenden Vögel an der Leine bleiben müssen.",
+          "offLeashAreaDe": "Keine. Leinenpflicht zum Schutz der Dünen und brütender Vögel",
+          "tipDe": "Bleiben Sie auf markierten Wegen. Das Betreten der Dünen abseits der Pfade ist verboten und schädigt den empfindlichen Lebensraum"
         }
       ],
       "tipsEn": [
@@ -225,24 +304,76 @@
         "Apanhe os dejetos do seu cão. Há caixotes na maioria dos acessos aos trilhos costeiros e parques de estacionamento."
       ],
       "faqsEn": [
-        {"q": "Can dogs go off-leash in Quiberon?", "a": "Not on the coastal paths. The GR34 trails along the Côte Sauvage and the dunes require dogs on a leash, both for cliff safety and to protect dune vegetation and nesting birds. Off-leash freedom is realistically only on the open sand of the official dog beaches."},
-        {"q": "Is the Côte Sauvage safe to walk with a dog?", "a": "Yes for walking on a leash, with great care near the edges. Never let a dog off-leash there. The cliffs are unfenced and sudden waves sweep the rocks. Swimming is forbidden along the whole wild coast."},
-        {"q": "Are there any dog parks in Quiberon?", "a": "There are no fenced off-leash dog parks. The peninsula's appeal for dogs is its coastline. Miles of leashed coastal walking plus seasonal dog beaches for running and swimming."}
+        {
+          "q": "Can dogs go off-leash in Quiberon?",
+          "a": "Not on the coastal paths. The GR34 trails along the Côte Sauvage and the dunes require dogs on a leash, both for cliff safety and to protect dune vegetation and nesting birds. Off-leash freedom is realistically only on the open sand of the official dog beaches."
+        },
+        {
+          "q": "Is the Côte Sauvage safe to walk with a dog?",
+          "a": "Yes for walking on a leash, with great care near the edges. Never let a dog off-leash there. The cliffs are unfenced and sudden waves sweep the rocks. Swimming is forbidden along the whole wild coast."
+        },
+        {
+          "q": "Are there any dog parks in Quiberon?",
+          "a": "There are no fenced off-leash dog parks. The peninsula's appeal for dogs is its coastline. Miles of leashed coastal walking plus seasonal dog beaches for running and swimming."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens peuvent-ils être sans laisse à Quiberon ?", "a": "Pas sur les sentiers côtiers. Les chemins du GR34 le long de la Côte Sauvage et des dunes imposent le chien en laisse, pour la sécurité près des falaises et pour protéger la végétation dunaire et les oiseaux nicheurs. La liberté n'est réaliste que sur le sable ouvert des caniplages officielles."},
-        {"q": "La Côte Sauvage est-elle sûre pour se promener avec un chien ?", "a": "Oui pour une promenade en laisse, avec beaucoup de prudence près des bords. Ne lâchez jamais un chien ici. Les falaises ne sont pas protégées et des vagues soudaines balaient les rochers. La baignade est interdite sur toute la côte sauvage."},
-        {"q": "Y a-t-il des parcs canins à Quiberon ?", "a": "Il n'y a pas de parc canin clôturé. L'attrait de la presqu'île pour les chiens, c'est son littoral. Des kilomètres de balades côtières en laisse et des caniplages saisonnières pour courir et nager."}
+        {
+          "q": "Les chiens peuvent-ils être sans laisse à Quiberon ?",
+          "a": "Pas sur les sentiers côtiers. Les chemins du GR34 le long de la Côte Sauvage et des dunes imposent le chien en laisse, pour la sécurité près des falaises et pour protéger la végétation dunaire et les oiseaux nicheurs. La liberté n'est réaliste que sur le sable ouvert des caniplages officielles."
+        },
+        {
+          "q": "La Côte Sauvage est-elle sûre pour se promener avec un chien ?",
+          "a": "Oui pour une promenade en laisse, avec beaucoup de prudence près des bords. Ne lâchez jamais un chien ici. Les falaises ne sont pas protégées et des vagues soudaines balaient les rochers. La baignade est interdite sur toute la côte sauvage."
+        },
+        {
+          "q": "Y a-t-il des parcs canins à Quiberon ?",
+          "a": "Il n'y a pas de parc canin clôturé. L'attrait de la presqu'île pour les chiens, c'est son littoral. Des kilomètres de balades côtières en laisse et des caniplages saisonnières pour courir et nager."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Pueden los perros ir sin correa en Quiberon?", "a": "No en los senderos costeros. Los caminos del GR34 a lo largo de la Côte Sauvage y las dunas exigen perro con correa, por seguridad cerca de los acantilados y para proteger la vegetación de las dunas y las aves nidificantes. La libertad sin correa solo es realista en la arena abierta de las playas para perros oficiales."},
-        {"q": "¿Es segura la Côte Sauvage para pasear con un perro?", "a": "Sí para pasear con correa, con mucho cuidado cerca de los bordes. Nunca sueltes a un perro allí. Los acantilados no tienen protección y olas repentinas barren las rocas. El baño está prohibido en toda la costa salvaje."},
-        {"q": "¿Hay parques caninos en Quiberon?", "a": "No hay parques caninos vallados. El atractivo de la península para los perros es su litoral. Kilómetros de paseos costeros con correa y playas para perros de temporada para correr y nadar."}
+        {
+          "q": "¿Pueden los perros ir sin correa en Quiberon?",
+          "a": "No en los senderos costeros. Los caminos del GR34 a lo largo de la Côte Sauvage y las dunas exigen perro con correa, por seguridad cerca de los acantilados y para proteger la vegetación de las dunas y las aves nidificantes. La libertad sin correa solo es realista en la arena abierta de las playas para perros oficiales."
+        },
+        {
+          "q": "¿Es segura la Côte Sauvage para pasear con un perro?",
+          "a": "Sí para pasear con correa, con mucho cuidado cerca de los bordes. Nunca sueltes a un perro allí. Los acantilados no tienen protección y olas repentinas barren las rocas. El baño está prohibido en toda la costa salvaje."
+        },
+        {
+          "q": "¿Hay parques caninos en Quiberon?",
+          "a": "No hay parques caninos vallados. El atractivo de la península para los perros es su litoral. Kilómetros de paseos costeros con correa y playas para perros de temporada para correr y nadar."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães podem andar sem trela em Quiberon?", "a": "Não nos trilhos costeiros. Os caminhos do GR34 ao longo da Côte Sauvage e das dunas exigem cão com trela, pela segurança junto às falésias e para proteger a vegetação das dunas e as aves nidificantes. A liberdade sem trela só é realista na areia aberta das praias para cães oficiais."},
-        {"q": "A Côte Sauvage é segura para passear com um cão?", "a": "Sim para passear com trela, com muito cuidado junto às bordas. Nunca solte um cão ali. As falésias não têm proteção e ondas repentinas varrem as rochas. É proibido nadar em toda a costa selvagem."},
-        {"q": "Há parques caninos em Quiberon?", "a": "Não há parques caninos vedados. O atrativo da península para os cães é o seu litoral. Quilómetros de passeios costeiros com trela e praias para cães sazonais para correr e nadar."}
+        {
+          "q": "Os cães podem andar sem trela em Quiberon?",
+          "a": "Não nos trilhos costeiros. Os caminhos do GR34 ao longo da Côte Sauvage e das dunas exigem cão com trela, pela segurança junto às falésias e para proteger a vegetação das dunas e as aves nidificantes. A liberdade sem trela só é realista na areia aberta das praias para cães oficiais."
+        },
+        {
+          "q": "A Côte Sauvage é segura para passear com um cão?",
+          "a": "Sim para passear com trela, com muito cuidado junto às bordas. Nunca solte um cão ali. As falésias não têm proteção e ondas repentinas varrem as rochas. É proibido nadar em toda a costa selvagem."
+        },
+        {
+          "q": "Há parques caninos em Quiberon?",
+          "a": "Não há parques caninos vedados. O atrativo da península para os cães é o seu litoral. Quilómetros de passeios costeiros com trela e praias para cães sazonais para correr e nadar."
+        }
+      ],
+      "titleDe": "Hundespaziergänge & Grünflächen in Quiberon",
+      "introDe": "Der wahre Hundespielplatz von Quiberon ist seine Küste. Der Küstenpfad GR34 umrundet die gesamte Halbinsel, mit der dramatischen Côte Sauvage auf der wilden Atlantikseite und sanfteren Dünen und Heideflächen auf der Buchtseite. Es handelt sich um Spaziergänge und nicht um eingezäunte Parks, daher bleiben Hunde auf den Küstenpfaden an der Leine.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde in Quiberon ohne Leine laufen?",
+          "a": "Nicht auf den Küstenpfaden. Die GR34-Pfade entlang der Côte Sauvage und der Dünen verlangen Hunde an der Leine, sowohl aus Sicherheitsgründen an den Klippen als auch zum Schutz der Dünenvegetation und der brütenden Vögel. Freilauf ist realistisch nur auf dem offenen Sand der offiziellen Hundestrände möglich."
+        },
+        {
+          "q": "Ist die Côte Sauvage sicher für einen Spaziergang mit Hund?",
+          "a": "Ja, für einen Spaziergang an der Leine, mit großer Vorsicht in der Nähe der Kanten. Lassen Sie den Hund dort niemals ohne Leine. Die Klippen sind nicht eingezäunt, und plötzliche Wellen überspülen die Felsen. Schwimmen ist entlang der gesamten wilden Küste verboten."
+        },
+        {
+          "q": "Gibt es Hundeparks in Quiberon?",
+          "a": "Es gibt keine eingezäunten Freilauf-Hundeparks. Der Reiz der Halbinsel für Hunde liegt in ihrer Küstenlinie: Kilometer an Küstenspaziergängen an der Leine plus saisonale Hundestrände zum Laufen und Schwimmen."
+        }
       ]
     },
     "transport": {
@@ -325,24 +456,76 @@
         }
       ],
       "faqsEn": [
-        {"q": "Can I take my dog on the Tire-Bouchon train to Quiberon?", "a": "Yes. The Tire-Bouchon is a TER BreizhGo summer train, so the standard rules apply: dogs under 6 kg in a bag travel free, and larger dogs pay a flat €7 animal ticket valid all day, travelling on a leash and muzzled."},
-        {"q": "Are dogs allowed on the ferry to Belle-Île from Quiberon?", "a": "Yes. BreizhGo Océane ferries from Port Maria take dogs. Small dogs in a bag travel free, other dogs pay about €6.70 round trip, and all animals stay leashed or in the owner's arms for the crossing. Dogs must remain leashed on Houat and Hoëdic."},
-        {"q": "Do I need to book ferry or train tickets in advance with a dog?", "a": "In summer and at weekends, yes. The Tire-Bouchon and the smaller island ferries fill up. Booking online secures both your seat and your dog's ticket, and lets you reserve bike space."}
+        {
+          "q": "Can I take my dog on the Tire-Bouchon train to Quiberon?",
+          "a": "Yes. The Tire-Bouchon is a TER BreizhGo summer train, so the standard rules apply: dogs under 6 kg in a bag travel free, and larger dogs pay a flat €7 animal ticket valid all day, travelling on a leash and muzzled."
+        },
+        {
+          "q": "Are dogs allowed on the ferry to Belle-Île from Quiberon?",
+          "a": "Yes. BreizhGo Océane ferries from Port Maria take dogs. Small dogs in a bag travel free, other dogs pay about €6.70 round trip, and all animals stay leashed or in the owner's arms for the crossing. Dogs must remain leashed on Houat and Hoëdic."
+        },
+        {
+          "q": "Do I need to book ferry or train tickets in advance with a dog?",
+          "a": "In summer and at weekends, yes. The Tire-Bouchon and the smaller island ferries fill up. Booking online secures both your seat and your dog's ticket, and lets you reserve bike space."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je prendre le Tire-Bouchon jusqu'à Quiberon avec mon chien ?", "a": "Oui. Le Tire-Bouchon est un train estival TER BreizhGo, donc les règles habituelles s'appliquent : les chiens de moins de 6 kg dans un sac voyagent gratuitement, et les chiens plus grands paient un billet animal à tarif unique de 7 € valable toute la journée, en laisse et muselés."},
-        {"q": "Les chiens sont-ils acceptés sur le ferry pour Belle-Île depuis Quiberon ?", "a": "Oui. Les ferries BreizhGo Océane depuis Port Maria acceptent les chiens. Les petits chiens dans un sac voyagent gratuitement, les autres paient environ 6,70 € aller-retour, et tous les animaux restent en laisse ou dans les bras pendant la traversée. Les chiens doivent rester en laisse à Houat et Hoëdic."},
-        {"q": "Faut-il réserver les billets de ferry ou de train à l'avance avec un chien ?", "a": "En été et le week-end, oui. Le Tire-Bouchon et les petits ferries des îles affichent complet. Réserver en ligne sécurise votre place et le billet de votre chien, et permet de réserver une place vélo."}
+        {
+          "q": "Puis-je prendre le Tire-Bouchon jusqu'à Quiberon avec mon chien ?",
+          "a": "Oui. Le Tire-Bouchon est un train estival TER BreizhGo, donc les règles habituelles s'appliquent : les chiens de moins de 6 kg dans un sac voyagent gratuitement, et les chiens plus grands paient un billet animal à tarif unique de 7 € valable toute la journée, en laisse et muselés."
+        },
+        {
+          "q": "Les chiens sont-ils acceptés sur le ferry pour Belle-Île depuis Quiberon ?",
+          "a": "Oui. Les ferries BreizhGo Océane depuis Port Maria acceptent les chiens. Les petits chiens dans un sac voyagent gratuitement, les autres paient environ 6,70 € aller-retour, et tous les animaux restent en laisse ou dans les bras pendant la traversée. Les chiens doivent rester en laisse à Houat et Hoëdic."
+        },
+        {
+          "q": "Faut-il réserver les billets de ferry ou de train à l'avance avec un chien ?",
+          "a": "En été et le week-end, oui. Le Tire-Bouchon et les petits ferries des îles affichent complet. Réserver en ligne sécurise votre place et le billet de votre chien, et permet de réserver une place vélo."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo llevar a mi perro en el tren Tire-Bouchon a Quiberon?", "a": "Sí. El Tire-Bouchon es un tren estival TER BreizhGo, así que se aplican las normas habituales: los perros de menos de 6 kg en bolsa viajan gratis, y los más grandes pagan un billete animal de tarifa única de 7 € válido todo el día, con correa y bozal."},
-        {"q": "¿Se admiten perros en el ferri a Belle-Île desde Quiberon?", "a": "Sí. Los ferris BreizhGo Océane desde Port Maria aceptan perros. Los perros pequeños en bolsa viajan gratis, los demás pagan unos 6,70 € ida y vuelta, y todos los animales van con correa o en brazos durante la travesía. Los perros deben ir con correa en Houat y Hoëdic."},
-        {"q": "¿Hay que reservar los billetes de ferri o tren con antelación con un perro?", "a": "En verano y los fines de semana, sí. El Tire-Bouchon y los ferris más pequeños de las islas se llenan. Reservar online asegura tu plaza y el billete de tu perro, y permite reservar espacio para bicicleta."}
+        {
+          "q": "¿Puedo llevar a mi perro en el tren Tire-Bouchon a Quiberon?",
+          "a": "Sí. El Tire-Bouchon es un tren estival TER BreizhGo, así que se aplican las normas habituales: los perros de menos de 6 kg en bolsa viajan gratis, y los más grandes pagan un billete animal de tarifa única de 7 € válido todo el día, con correa y bozal."
+        },
+        {
+          "q": "¿Se admiten perros en el ferri a Belle-Île desde Quiberon?",
+          "a": "Sí. Los ferris BreizhGo Océane desde Port Maria aceptan perros. Los perros pequeños en bolsa viajan gratis, los demás pagan unos 6,70 € ida y vuelta, y todos los animales van con correa o en brazos durante la travesía. Los perros deben ir con correa en Houat y Hoëdic."
+        },
+        {
+          "q": "¿Hay que reservar los billetes de ferri o tren con antelación con un perro?",
+          "a": "En verano y los fines de semana, sí. El Tire-Bouchon y los ferris más pequeños de las islas se llenan. Reservar online asegura tu plaza y el billete de tu perro, y permite reservar espacio para bicicleta."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso levar o meu cão no comboio Tire-Bouchon para Quiberon?", "a": "Sim. O Tire-Bouchon é um comboio de verão da TER BreizhGo, por isso aplicam-se as regras habituais: os cães com menos de 6 kg numa bolsa viajam grátis, e os maiores pagam um bilhete de animal de tarifa única de 7 EUR válido todo o dia, com trela e açaime."},
-        {"q": "Os cães são permitidos no ferry para Belle-Île a partir de Quiberon?", "a": "Sim. Os ferries BreizhGo Océane a partir do Port Maria aceitam cães. Os cães pequenos numa bolsa viajam grátis, os outros pagam cerca de 6,70 EUR ida e volta, e todos os animais vão com trela ou ao colo durante a travessia. Os cães têm de ir com trela em Houat e Hoëdic."},
-        {"q": "É preciso reservar os bilhetes de ferry ou comboio com antecedência com um cão?", "a": "No verão e aos fins de semana, sim. O Tire-Bouchon e os ferries mais pequenos das ilhas enchem. Reservar online garante o seu lugar e o bilhete do seu cão, e permite reservar lugar para bicicleta."}
+        {
+          "q": "Posso levar o meu cão no comboio Tire-Bouchon para Quiberon?",
+          "a": "Sim. O Tire-Bouchon é um comboio de verão da TER BreizhGo, por isso aplicam-se as regras habituais: os cães com menos de 6 kg numa bolsa viajam grátis, e os maiores pagam um bilhete de animal de tarifa única de 7 EUR válido todo o dia, com trela e açaime."
+        },
+        {
+          "q": "Os cães são permitidos no ferry para Belle-Île a partir de Quiberon?",
+          "a": "Sim. Os ferries BreizhGo Océane a partir do Port Maria aceitam cães. Os cães pequenos numa bolsa viajam grátis, os outros pagam cerca de 6,70 EUR ida e volta, e todos os animais vão com trela ou ao colo durante a travessia. Os cães têm de ir com trela em Houat e Hoëdic."
+        },
+        {
+          "q": "É preciso reservar os bilhetes de ferry ou comboio com antecedência com um cão?",
+          "a": "No verão e aos fins de semana, sim. O Tire-Bouchon e os ferries mais pequenos das ilhas enchem. Reservar online garante o seu lugar e o bilhete do seu cão, e permite reservar lugar para bicicleta."
+        }
+      ],
+      "titleDe": "Mit Haustieren unterwegs in Quiberon",
+      "introDe": "Die An- und Weiterreise auf der Halbinsel Quiberon mit Hund ist unkompliziert. Der saisonale Tire-Bouchon-Zug verbindet Auray mit Quiberon, die BreizhGo-Océane-Fähren erreichen von Port Maria aus Belle-Île, Houat und Hoëdic, und der Großteil der Stadt ist zu Fuß erreichbar. Die Haustierregeln für Zug und Fähre sind klar und günstig.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund im Tire-Bouchon-Zug nach Quiberon mitnehmen?",
+          "a": "Ja. Der Tire-Bouchon ist ein TER-BreizhGo-Sommerzug, daher gelten die üblichen Regeln: Hunde unter 6 kg in einer Tasche reisen kostenlos, größere Hunde zahlen ein pauschales Tierticket von 7 EUR, das den ganzen Tag gültig ist, und reisen an der Leine mit Maulkorb."
+        },
+        {
+          "q": "Sind Hunde auf der Fähre von Quiberon nach Belle-Île erlaubt?",
+          "a": "Ja. BreizhGo-Océane-Fähren ab Port Maria nehmen Hunde mit. Kleine Hunde in einer Tasche reisen kostenlos, andere Hunde zahlen etwa 6,70 EUR für die Hin- und Rückfahrt, und alle Tiere bleiben während der Überfahrt an der Leine oder auf dem Arm des Besitzers. Auf Houat und Hoëdic müssen Hunde an der Leine bleiben."
+        },
+        {
+          "q": "Muss ich Fähr- oder Zugtickets mit Hund im Voraus buchen?",
+          "a": "Im Sommer und an Wochenenden ja. Der Tire-Bouchon und die kleineren Inselfähren sind schnell ausgebucht. Eine Online-Buchung sichert sowohl Ihren Sitzplatz als auch das Ticket für Ihren Hund und ermöglicht die Reservierung von Fahrradplätzen."
+        }
       ]
     },
     "beaches": {
@@ -387,20 +570,56 @@
         }
       ],
       "faqsEn": [
-        {"q": "Are there dog beaches in Quiberon?", "a": "Yes. Quiberon has official year-round dog beaches (caniplages) including Port Puns, the Port Maria coves and two beaches at Le Conguel. From 31 March to 31 October these are the only beaches open to dogs; all of the town's beaches reopen to dogs from 1 November to 31 March."},
-        {"q": "Can dogs swim on the Côte Sauvage?", "a": "No. Swimming is forbidden the whole length of the wild Côte Sauvage for everyone, because the currents and undertows are extremely dangerous. Walk your dog there on a leash for the scenery, but go to a sheltered bay-side caniplage to let it swim."}
+        {
+          "q": "Are there dog beaches in Quiberon?",
+          "a": "Yes. Quiberon has official year-round dog beaches (caniplages) including Port Puns, the Port Maria coves and two beaches at Le Conguel. From 31 March to 31 October these are the only beaches open to dogs; all of the town's beaches reopen to dogs from 1 November to 31 March."
+        },
+        {
+          "q": "Can dogs swim on the Côte Sauvage?",
+          "a": "No. Swimming is forbidden the whole length of the wild Côte Sauvage for everyone, because the currents and undertows are extremely dangerous. Walk your dog there on a leash for the scenery, but go to a sheltered bay-side caniplage to let it swim."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il des plages pour chiens à Quiberon ?", "a": "Oui. Quiberon dispose de caniplages officielles ouvertes toute l'année, dont Port Puns, les criques de Port Maria et deux plages au Conguel. Du 31 mars au 31 octobre, ce sont les seules plages ouvertes aux chiens ; toutes les plages de la commune rouvrent aux chiens du 1er novembre au 31 mars."},
-        {"q": "Les chiens peuvent-ils nager sur la Côte Sauvage ?", "a": "Non. La baignade est interdite sur toute la longueur de la Côte Sauvage pour tout le monde, car les courants et les rouleaux y sont extrêmement dangereux. Promenez-y votre chien en laisse pour le paysage, mais allez sur une caniplage abritée côté baie pour le laisser nager."}
+        {
+          "q": "Y a-t-il des plages pour chiens à Quiberon ?",
+          "a": "Oui. Quiberon dispose de caniplages officielles ouvertes toute l'année, dont Port Puns, les criques de Port Maria et deux plages au Conguel. Du 31 mars au 31 octobre, ce sont les seules plages ouvertes aux chiens ; toutes les plages de la commune rouvrent aux chiens du 1er novembre au 31 mars."
+        },
+        {
+          "q": "Les chiens peuvent-ils nager sur la Côte Sauvage ?",
+          "a": "Non. La baignade est interdite sur toute la longueur de la Côte Sauvage pour tout le monde, car les courants et les rouleaux y sont extrêmement dangereux. Promenez-y votre chien en laisse pour le paysage, mais allez sur une caniplage abritée côté baie pour le laisser nager."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay playas para perros en Quiberon?", "a": "Sí. Quiberon tiene playas para perros oficiales abiertas todo el año (caniplages) como Port Puns, las calas de Port Maria y dos playas en Le Conguel. Del 31 de marzo al 31 de octubre son las únicas playas abiertas a los perros; todas las playas del municipio vuelven a abrir a los perros del 1 de noviembre al 31 de marzo."},
-        {"q": "¿Pueden los perros nadar en la Côte Sauvage?", "a": "No. El baño está prohibido en toda la Côte Sauvage para todo el mundo, porque las corrientes y las resacas son extremadamente peligrosas. Pasea allí a tu perro con correa por el paisaje, pero ve a una caniplage resguardada del lado de la bahía para dejarlo nadar."}
+        {
+          "q": "¿Hay playas para perros en Quiberon?",
+          "a": "Sí. Quiberon tiene playas para perros oficiales abiertas todo el año (caniplages) como Port Puns, las calas de Port Maria y dos playas en Le Conguel. Del 31 de marzo al 31 de octubre son las únicas playas abiertas a los perros; todas las playas del municipio vuelven a abrir a los perros del 1 de noviembre al 31 de marzo."
+        },
+        {
+          "q": "¿Pueden los perros nadar en la Côte Sauvage?",
+          "a": "No. El baño está prohibido en toda la Côte Sauvage para todo el mundo, porque las corrientes y las resacas son extremadamente peligrosas. Pasea allí a tu perro con correa por el paisaje, pero ve a una caniplage resguardada del lado de la bahía para dejarlo nadar."
+        }
       ],
       "faqsPt": [
-        {"q": "Há praias para cães em Quiberon?", "a": "Sim. Quiberon tem praias para cães oficiais abertas todo o ano (caniplages) como Port Puns, as enseadas de Port Maria e duas praias em Le Conguel. De 31 de março a 31 de outubro são as únicas praias abertas aos cães; todas as praias do município reabrem aos cães de 1 de novembro a 31 de março."},
-        {"q": "Os cães podem nadar na Côte Sauvage?", "a": "Não. É proibido nadar em toda a extensão da Côte Sauvage para toda a gente, porque as correntes e as ressacas são extremamente perigosas. Passeie aí o seu cão com trela pela paisagem, mas vá a uma caniplage abrigada do lado da baía para o deixar nadar."}
+        {
+          "q": "Há praias para cães em Quiberon?",
+          "a": "Sim. Quiberon tem praias para cães oficiais abertas todo o ano (caniplages) como Port Puns, as enseadas de Port Maria e duas praias em Le Conguel. De 31 de março a 31 de outubro são as únicas praias abertas aos cães; todas as praias do município reabrem aos cães de 1 de novembro a 31 de março."
+        },
+        {
+          "q": "Os cães podem nadar na Côte Sauvage?",
+          "a": "Não. É proibido nadar em toda a extensão da Côte Sauvage para toda a gente, porque as correntes e as ressacas são extremamente perigosas. Passeie aí o seu cão com trela pela paisagem, mas vá a uma caniplage abrigada do lado da baía para o deixar nadar."
+        }
+      ],
+      "titleDe": "Hundefreundliche Strände in Quiberon",
+      "introDe": "Die Strandregeln für Hunde in Quiberon sind streng saisonal. Vom 1. November bis 31. März sind alle Strände der Stadt für Hunde geöffnet, doch vom 31. März bis 31. Oktober bleiben nur die offiziellen Hundestrände (Caniplages) geöffnet, während die Familienstrände auf der Buchtseite, einschließlich der Grande Plage, tabu sind. Der kühle atlantische Sommer macht einen morgendlichen Strandspaziergang selbst im August angenehm.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Hundestrände in Quiberon?",
+          "a": "Ja. Quiberon verfügt über ganzjährig geöffnete offizielle Hundestrände (Caniplages), darunter Port Puns, die Buchten von Port Maria und zwei Strände bei Le Conguel. Vom 31. März bis 31. Oktober sind dies die einzigen für Hunde geöffneten Strände; alle Strände der Stadt öffnen vom 1. November bis 31. März wieder für Hunde."
+        },
+        {
+          "q": "Dürfen Hunde an der Côte Sauvage schwimmen?",
+          "a": "Nein. Schwimmen ist entlang der gesamten wilden Côte Sauvage für alle verboten, da die Strömungen und Unterströmungen extrem gefährlich sind. Führen Sie Ihren Hund dort an der Leine spazieren, um die Landschaft zu genießen, und gehen Sie für das Schwimmen zu einem geschützten Caniplage auf der Buchtseite."
+        }
       ]
     },
     "vets": {
@@ -447,7 +666,10 @@
           "tipEs": "Llama antes. Es una consulta de pueblo pequeño y las visitas son con cita previa",
           "tipPt": "Telefone antes. É uma clínica de vila pequena e as consultas são com marcação",
           "googleMapsUrl": "https://maps.google.com/?q=Clinique+veterinaire+Quiberon+Presquile",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Nach Vereinbarung. Vorher anrufen",
+          "descriptionDe": "Eine allgemeine Tierarztpraxis an der Hauptstraße durch Quiberon, die routinemäßige Konsultationen, Impfungen und Reisegesundheitsbedürfnisse sowie dringende Fälle innerhalb der Öffnungszeiten behandelt. Es ist die zentralste Praxis der Stadt und ein praktischer erster Anlaufpunkt für nicht dringende Anliegen während eines Aufenthalts.",
+          "tipDe": "Rufen Sie vorher an. Es handelt sich um eine Praxis in einer Kleinstadt, und Konsultationen erfolgen nach Vereinbarung"
         },
         {
           "name": "Cabinet vétérinaire de Port Maria",
@@ -469,7 +691,10 @@
           "tipEs": "Útil si tu alojamiento está cerca del puerto. Llama siempre antes de ir",
           "tipPt": "Útil se o seu alojamento for perto do porto. Ligue sempre antes de ir",
           "googleMapsUrl": "https://maps.google.com/?q=Cabinet+veterinaire+Port+Maria+Quiberon",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Nach Vereinbarung. Vorher anrufen",
+          "descriptionDe": "Eine allgemeine Tierarztpraxis in der Nähe des Fischerhafens Port Maria, praktisch, wenn Sie in der Nähe des Hafens oder des Fährterminals übernachten. Sie behandelt alltägliche Konsultationen und kann bei Bedarf zu örtlichen Regelungen außerhalb der Öffnungszeiten beraten.",
+          "tipDe": "Praktisch, wenn Ihre Unterkunft in der Nähe des Hafens liegt. Rufen Sie immer vorher an"
         },
         {
           "name": "Maison des Urgences Vétérinaires d'Auray",
@@ -491,24 +716,63 @@
           "tipEs": "Guarda este número antes del viaje. Llama primero para que el veterinario regulador te aconseje antes de conducir a Auray",
           "tipPt": "Guarde este número antes da viagem. Ligue primeiro para que o veterinário regulador o aconselhe antes de conduzir até Auray",
           "googleMapsUrl": "https://maps.google.com/?q=Maison+des+Urgences+Veterinaires+Auray",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Notfälle außerhalb der Öffnungszeiten. Vor dem Hinfahren anrufen",
+          "descriptionDe": "Ein spezialisierter tierärztlicher Notdienst in Auray, der Fälle außerhalb der Öffnungszeiten behandelt, wenn Ihr üblicher Tierarzt geschlossen hat, mit einem regulierenden Tierarzt, den Sie zunächst telefonisch erreichen können. Da es auf der Halbinsel selbst keine 24/7-Notfallklinik gibt, ist dies die nächste spezialisierte Notfalloption für ernsthafte Probleme nachts oder am Wochenende.",
+          "tipDe": "Speichern Sie diese Nummer vor Ihrer Reise. Rufen Sie zuerst an, damit der regulierende Tierarzt Sie beraten kann, bevor Sie nach Auray fahren"
         }
       ],
       "faqsEn": [
-        {"q": "Is there an emergency vet in Quiberon?", "a": "There is no 24/7 emergency clinic on the peninsula itself. The two town practices handle in-hours urgent cases, and the nearest dedicated out-of-hours emergency service is the Maison des Urgences Vétérinaires d'Auray (+33 2 30 17 03 53), about 30 minutes away. Always call first."},
-        {"q": "Do I need a pet passport to bring my dog to Quiberon?", "a": "For EU-registered pets, yes: an EU pet passport with microchip and current rabies vaccination. Pets from outside the EU need an animal health certificate, microchip and valid rabies vaccination, and possibly a rabies titre test depending on the country of origin. Check French and EU import rules before travelling."}
+        {
+          "q": "Is there an emergency vet in Quiberon?",
+          "a": "There is no 24/7 emergency clinic on the peninsula itself. The two town practices handle in-hours urgent cases, and the nearest dedicated out-of-hours emergency service is the Maison des Urgences Vétérinaires d'Auray (+33 2 30 17 03 53), about 30 minutes away. Always call first."
+        },
+        {
+          "q": "Do I need a pet passport to bring my dog to Quiberon?",
+          "a": "For EU-registered pets, yes: an EU pet passport with microchip and current rabies vaccination. Pets from outside the EU need an animal health certificate, microchip and valid rabies vaccination, and possibly a rabies titre test depending on the country of origin. Check French and EU import rules before travelling."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il un vétérinaire d'urgence à Quiberon ?", "a": "Il n'y a pas de clinique d'urgence 24h/24 sur la presqu'île même. Les deux cabinets de la ville prennent en charge les urgences pendant les horaires d'ouverture, et le service d'urgence dédié le plus proche est la Maison des Urgences Vétérinaires d'Auray (+33 2 30 17 03 53), à environ 30 minutes. Appelez toujours d'abord."},
-        {"q": "Faut-il un passeport pour amener son chien à Quiberon ?", "a": "Pour les animaux enregistrés dans l'UE, oui : un passeport européen avec puce et vaccination antirabique à jour. Les animaux hors UE doivent avoir un certificat sanitaire, une puce et une vaccination antirabique valide, et éventuellement un test sérologique antirabique selon le pays d'origine. Vérifiez les règles françaises et européennes avant de partir."}
+        {
+          "q": "Y a-t-il un vétérinaire d'urgence à Quiberon ?",
+          "a": "Il n'y a pas de clinique d'urgence 24h/24 sur la presqu'île même. Les deux cabinets de la ville prennent en charge les urgences pendant les horaires d'ouverture, et le service d'urgence dédié le plus proche est la Maison des Urgences Vétérinaires d'Auray (+33 2 30 17 03 53), à environ 30 minutes. Appelez toujours d'abord."
+        },
+        {
+          "q": "Faut-il un passeport pour amener son chien à Quiberon ?",
+          "a": "Pour les animaux enregistrés dans l'UE, oui : un passeport européen avec puce et vaccination antirabique à jour. Les animaux hors UE doivent avoir un certificat sanitaire, une puce et une vaccination antirabique valide, et éventuellement un test sérologique antirabique selon le pays d'origine. Vérifiez les règles françaises et européennes avant de partir."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay un veterinario de urgencias en Quiberon?", "a": "No hay clínica de urgencias 24/7 en la propia península. Las dos consultas del pueblo atienden urgencias en horario de apertura, y el servicio de urgencias dedicado más cercano es la Maison des Urgences Vétérinaires d'Auray (+33 2 30 17 03 53), a unos 30 minutos. Llama siempre primero."},
-        {"q": "¿Necesito un pasaporte para llevar a mi perro a Quiberon?", "a": "Para mascotas registradas en la UE, sí: un pasaporte europeo con microchip y vacunación antirrábica al día. Las mascotas de fuera de la UE necesitan un certificado sanitario, microchip y vacunación antirrábica válida, y posiblemente una prueba serológica antirrábica según el país de origen. Consulta las normas francesas y de la UE antes de viajar."}
+        {
+          "q": "¿Hay un veterinario de urgencias en Quiberon?",
+          "a": "No hay clínica de urgencias 24/7 en la propia península. Las dos consultas del pueblo atienden urgencias en horario de apertura, y el servicio de urgencias dedicado más cercano es la Maison des Urgences Vétérinaires d'Auray (+33 2 30 17 03 53), a unos 30 minutos. Llama siempre primero."
+        },
+        {
+          "q": "¿Necesito un pasaporte para llevar a mi perro a Quiberon?",
+          "a": "Para mascotas registradas en la UE, sí: un pasaporte europeo con microchip y vacunación antirrábica al día. Las mascotas de fuera de la UE necesitan un certificado sanitario, microchip y vacunación antirrábica válida, y posiblemente una prueba serológica antirrábica según el país de origen. Consulta las normas francesas y de la UE antes de viajar."
+        }
       ],
       "faqsPt": [
-        {"q": "Há um veterinário de urgência em Quiberon?", "a": "Não há clínica de urgência 24/7 na própria península. As duas clínicas da vila tratam de urgências em horário de funcionamento, e o serviço de urgência dedicado mais próximo é a Maison des Urgences Vétérinaires d'Auray (+33 2 30 17 03 53), a cerca de 30 minutos. Ligue sempre primeiro."},
-        {"q": "Preciso de um passaporte para trazer o meu cão a Quiberon?", "a": "Para animais registados na UE, sim: um passaporte europeu com microchip e vacinação antirrábica em dia. Os animais de fora da UE precisam de um certificado sanitário, microchip e vacinação antirrábica válida e, possivelmente, um teste serológico antirrábico consoante o país de origem. Consulte as regras francesas e da UE antes de viajar."}
+        {
+          "q": "Há um veterinário de urgência em Quiberon?",
+          "a": "Não há clínica de urgência 24/7 na própria península. As duas clínicas da vila tratam de urgências em horário de funcionamento, e o serviço de urgência dedicado mais próximo é a Maison des Urgences Vétérinaires d'Auray (+33 2 30 17 03 53), a cerca de 30 minutos. Ligue sempre primeiro."
+        },
+        {
+          "q": "Preciso de um passaporte para trazer o meu cão a Quiberon?",
+          "a": "Para animais registados na UE, sim: um passaporte europeu com microchip e vacinação antirrábica em dia. Os animais de fora da UE precisam de um certificado sanitário, microchip e vacinação antirrábica válida e, possivelmente, um teste serológico antirrábico consoante o país de origem. Consulte as regras francesas e da UE antes de viajar."
+        }
+      ],
+      "titleDe": "Notfalltierärzte in Quiberon, Tierarztpraxen & Haustierbetreuung",
+      "introDe": "Quiberon verfügt über zwei Tierarztpraxen in der Stadt für die tägliche Versorgung, und der nächste spezialisierte Notdienst außerhalb der Öffnungszeiten befindet sich in Auray, etwa 30 Minuten entfernt. Als EU-Land lässt Frankreich Hunde und Katzen mit EU-Heimtierausweis, Mikrochip und gültiger Tollwutimpfung einreisen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Notfalltierarzt in Quiberon?",
+          "a": "Es gibt keine 24/7-Notfallklinik auf der Halbinsel selbst. Die beiden Praxen in der Stadt behandeln dringende Fälle innerhalb der Öffnungszeiten, und der nächste spezialisierte Notdienst außerhalb der Öffnungszeiten ist die Maison des Urgences Vétérinaires d'Auray (+33 2 30 17 03 53), etwa 30 Minuten entfernt. Rufen Sie immer zuerst an."
+        },
+        {
+          "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Quiberon zu bringen?",
+          "a": "Für in der EU registrierte Haustiere ja: einen EU-Heimtierausweis mit Mikrochip und aktueller Tollwutimpfung. Haustiere von außerhalb der EU benötigen eine Tiergesundheitsbescheinigung, einen Mikrochip und eine gültige Tollwutimpfung sowie je nach Herkunftsland möglicherweise einen Tollwut-Titertest. Prüfen Sie die französischen und EU-Einfuhrbestimmungen vor der Reise."
+        }
       ]
     },
     "tips": {
@@ -568,24 +832,76 @@
       "tipsEs": [],
       "tipsPt": [],
       "faqsEn": [
-        {"q": "Is Quiberon good for dogs?", "a": "Yes, especially out of high summer. It is a cool-summer Atlantic beach town with miles of leashed coastal walking on the GR34, year-round dog beaches, and an easy seaside pace. The main constraint is the summer ban on the family beaches between 31 March and 31 October."},
-        {"q": "When can dogs go on Quiberon's beaches?", "a": "Dogs can use the official dog beaches (caniplages) all year. The family beaches, including the Grande Plage, are off-limits to dogs from 31 March to 31 October, then reopen to dogs from 1 November to 31 March."},
-        {"q": "What should I pack for Quiberon with my dog?", "a": "Bring an EU pet passport, a leash (essential on the coastal paths), poop bags, a travel water bowl, and a towel for the dog beaches. A windproof layer is handy too. The Atlantic coast is breezy year-round."}
+        {
+          "q": "Is Quiberon good for dogs?",
+          "a": "Yes, especially out of high summer. It is a cool-summer Atlantic beach town with miles of leashed coastal walking on the GR34, year-round dog beaches, and an easy seaside pace. The main constraint is the summer ban on the family beaches between 31 March and 31 October."
+        },
+        {
+          "q": "When can dogs go on Quiberon's beaches?",
+          "a": "Dogs can use the official dog beaches (caniplages) all year. The family beaches, including the Grande Plage, are off-limits to dogs from 31 March to 31 October, then reopen to dogs from 1 November to 31 March."
+        },
+        {
+          "q": "What should I pack for Quiberon with my dog?",
+          "a": "Bring an EU pet passport, a leash (essential on the coastal paths), poop bags, a travel water bowl, and a towel for the dog beaches. A windproof layer is handy too. The Atlantic coast is breezy year-round."
+        }
       ],
       "faqsFr": [
-        {"q": "Quiberon est-elle une bonne destination avec un chien ?", "a": "Oui, surtout hors plein été. C'est une station balnéaire atlantique à l'été frais avec des kilomètres de balades côtières en laisse sur le GR34, des caniplages ouvertes toute l'année et un rythme de bord de mer agréable. La principale contrainte est l'interdiction estivale des plages familiales du 31 mars au 31 octobre."},
-        {"q": "Quand les chiens peuvent-ils aller sur les plages de Quiberon ?", "a": "Les chiens peuvent profiter des caniplages officielles toute l'année. Les plages familiales, dont la Grande Plage, leur sont interdites du 31 mars au 31 octobre, puis rouvrent aux chiens du 1er novembre au 31 mars."},
-        {"q": "Que faut-il emporter pour Quiberon avec son chien ?", "a": "Emportez un passeport européen, une laisse (indispensable sur les sentiers côtiers), des sacs à déjections, une gamelle de voyage et une serviette pour les caniplages. Une couche coupe-vent est aussi utile. La côte atlantique est venteuse toute l'année."}
+        {
+          "q": "Quiberon est-elle une bonne destination avec un chien ?",
+          "a": "Oui, surtout hors plein été. C'est une station balnéaire atlantique à l'été frais avec des kilomètres de balades côtières en laisse sur le GR34, des caniplages ouvertes toute l'année et un rythme de bord de mer agréable. La principale contrainte est l'interdiction estivale des plages familiales du 31 mars au 31 octobre."
+        },
+        {
+          "q": "Quand les chiens peuvent-ils aller sur les plages de Quiberon ?",
+          "a": "Les chiens peuvent profiter des caniplages officielles toute l'année. Les plages familiales, dont la Grande Plage, leur sont interdites du 31 mars au 31 octobre, puis rouvrent aux chiens du 1er novembre au 31 mars."
+        },
+        {
+          "q": "Que faut-il emporter pour Quiberon avec son chien ?",
+          "a": "Emportez un passeport européen, une laisse (indispensable sur les sentiers côtiers), des sacs à déjections, une gamelle de voyage et une serviette pour les caniplages. Une couche coupe-vent est aussi utile. La côte atlantique est venteuse toute l'année."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Quiberon buena para perros?", "a": "Sí, sobre todo fuera del pleno verano. Es un pueblo de playa atlántico de verano fresco con kilómetros de paseos costeros con correa por el GR34, playas para perros todo el año y un ritmo de costa agradable. La principal limitación es la prohibición veraniega de las playas familiares del 31 de marzo al 31 de octubre."},
-        {"q": "¿Cuándo pueden ir los perros a las playas de Quiberon?", "a": "Los perros pueden usar las playas para perros oficiales (caniplages) todo el año. Las playas familiares, incluida la Grande Plage, están prohibidas para perros del 31 de marzo al 31 de octubre, y luego reabren a los perros del 1 de noviembre al 31 de marzo."},
-        {"q": "¿Qué hay que llevar a Quiberon con el perro?", "a": "Lleva un pasaporte europeo, una correa (imprescindible en los senderos costeros), bolsas para excrementos, un cuenco de agua de viaje y una toalla para las playas para perros. Una capa cortavientos también viene bien. La costa atlántica es ventosa todo el año."}
+        {
+          "q": "¿Es Quiberon buena para perros?",
+          "a": "Sí, sobre todo fuera del pleno verano. Es un pueblo de playa atlántico de verano fresco con kilómetros de paseos costeros con correa por el GR34, playas para perros todo el año y un ritmo de costa agradable. La principal limitación es la prohibición veraniega de las playas familiares del 31 de marzo al 31 de octubre."
+        },
+        {
+          "q": "¿Cuándo pueden ir los perros a las playas de Quiberon?",
+          "a": "Los perros pueden usar las playas para perros oficiales (caniplages) todo el año. Las playas familiares, incluida la Grande Plage, están prohibidas para perros del 31 de marzo al 31 de octubre, y luego reabren a los perros del 1 de noviembre al 31 de marzo."
+        },
+        {
+          "q": "¿Qué hay que llevar a Quiberon con el perro?",
+          "a": "Lleva un pasaporte europeo, una correa (imprescindible en los senderos costeros), bolsas para excrementos, un cuenco de agua de viaje y una toalla para las playas para perros. Una capa cortavientos también viene bien. La costa atlántica es ventosa todo el año."
+        }
       ],
       "faqsPt": [
-        {"q": "Quiberon é boa para cães?", "a": "Sim, sobretudo fora do pleno verão. É uma vila de praia atlântica de verão fresco com quilómetros de passeios costeiros com trela no GR34, praias para cães todo o ano e um ritmo de beira-mar agradável. A principal limitação é a proibição de verão das praias de família, de 31 de março a 31 de outubro."},
-        {"q": "Quando podem os cães ir às praias de Quiberon?", "a": "Os cães podem usar as praias para cães oficiais (caniplages) todo o ano. As praias de família, incluindo a Grande Plage, estão proibidas aos cães de 31 de março a 31 de outubro, e depois reabrem aos cães de 1 de novembro a 31 de março."},
-        {"q": "O que devo levar para Quiberon com o meu cão?", "a": "Leve um passaporte europeu, uma trela (essencial nos trilhos costeiros), sacos para dejetos, uma taça de água de viagem e uma toalha para as praias para cães. Uma camada corta-vento também é útil. A costa atlântica é ventosa todo o ano."}
+        {
+          "q": "Quiberon é boa para cães?",
+          "a": "Sim, sobretudo fora do pleno verão. É uma vila de praia atlântica de verão fresco com quilómetros de passeios costeiros com trela no GR34, praias para cães todo o ano e um ritmo de beira-mar agradável. A principal limitação é a proibição de verão das praias de família, de 31 de março a 31 de outubro."
+        },
+        {
+          "q": "Quando podem os cães ir às praias de Quiberon?",
+          "a": "Os cães podem usar as praias para cães oficiais (caniplages) todo o ano. As praias de família, incluindo a Grande Plage, estão proibidas aos cães de 31 de março a 31 de outubro, e depois reabrem aos cães de 1 de novembro a 31 de março."
+        },
+        {
+          "q": "O que devo levar para Quiberon com o meu cão?",
+          "a": "Leve um passaporte europeu, uma trela (essencial nos trilhos costeiros), sacos para dejetos, uma taça de água de viagem e uma toalha para as praias para cães. Uma camada corta-vento também é útil. A costa atlântica é ventosa todo o ano."
+        }
+      ],
+      "titleDe": "Hundefreundliche Tipps für Quiberon",
+      "introDe": "Quiberon ist eine Atlantik-Badestadt mit kühlem Sommer, die sich gut für Hunde eignet, mit kilometerlangen Küstenspaziergängen und einem entspannten Tempo am Meer. Die wichtigsten Punkte, die es zu planen gilt, sind das saisonale Strandverbot und die Leinenpflicht auf den Küstenpfaden.",
+      "faqsDe": [
+        {
+          "q": "Ist Quiberon gut für Hunde geeignet?",
+          "a": "Ja, besonders außerhalb des Hochsommers. Es ist eine Atlantik-Badestadt mit kühlem Sommer, mit kilometerlangen Küstenspaziergängen an der Leine auf dem GR34, ganzjährig geöffneten Hundestränden und einem entspannten Tempo am Meer. Die Hauptbeschränkung ist das Sommerverbot an den Familienstränden zwischen dem 31. März und 31. Oktober."
+        },
+        {
+          "q": "Wann dürfen Hunde an die Strände von Quiberon?",
+          "a": "Hunde können die offiziellen Hundestrände (Caniplages) das ganze Jahr über nutzen. Die Familienstrände, einschließlich der Grande Plage, sind vom 31. März bis 31. Oktober für Hunde tabu und öffnen dann vom 1. November bis 31. März wieder für Hunde."
+        },
+        {
+          "q": "Was sollte ich für Quiberon mit meinem Hund einpacken?",
+          "a": "Bringen Sie einen EU-Heimtierausweis, eine Leine (unverzichtbar auf den Küstenpfaden), Kotbeutel, einen Reise-Wassernapf und ein Handtuch für die Hundestrände mit. Eine windabweisende Schicht ist ebenfalls praktisch. Die Atlantikküste ist ganzjährig windig."
+        }
       ]
     },
     "attractions": {
@@ -611,7 +927,9 @@
           "tipFr": "Un point de départ parfait pour la balade de la Côte Sauvage. Gardez votre chien en laisse. Les falaises commencent ici",
           "tipEs": "Un punto de partida perfecto para el paseo de la Côte Sauvage. Mantén a tu perro con correa. Los acantilados empiezan aquí",
           "tipPt": "Um ponto de partida perfeito para o passeio da Côte Sauvage. Mantenha o seu cão com trela. As falésias começam aqui",
-          "googleMapsUrl": "https://maps.google.com/?q=Chateau+Turpault+Quiberon"
+          "googleMapsUrl": "https://maps.google.com/?q=Chateau+Turpault+Quiberon",
+          "descriptionDe": "Das märchenhafte Château Turpault, ein privates Klippenhaus aus dem Jahr 1904, markiert den südlichen Beginn der Côte Sauvage und ist eines der meistfotografierten Wahrzeichen von Quiberon. Sie können es bewundern und von hier aus den Küstenspaziergang an der Leine beginnen, wobei das Château selbst eine private Residenz ist, die nicht für Besucher zugänglich ist.",
+          "tipDe": "Ein perfekter Startpunkt für den Spaziergang an der Côte Sauvage. Halten Sie Ihren Hund an der Leine. Die Klippen beginnen genau hier"
         },
         {
           "name": "Port Maria fishing harbour",
@@ -626,7 +944,9 @@
           "tipFr": "Idéal pour une promenade tranquille sur le port. Attention aux hameçons et aux lignes sur le quai avec un chien curieux",
           "tipEs": "Ideal para un paseo tranquilo por el puerto. Cuidado con los anzuelos y los sedales en el muelle con perros curiosos",
           "tipPt": "Ótimo para um passeio tranquilo no porto. Atenção aos anzóis e às linhas no cais com cães curiosos",
-          "googleMapsUrl": "https://maps.google.com/?q=Port+Maria+Quiberon"
+          "googleMapsUrl": "https://maps.google.com/?q=Port+Maria+Quiberon",
+          "descriptionDe": "Port Maria ist der lebendige Fischerhafen von Quiberon und der Abfahrtsort der Inselfähren, gesäumt von Meeresfrüchte-Terrassen, Fischhändlern und dem Kommen und Gehen der Boote. Es ist ein einfacher, stimmungsvoller Ort für einen Spaziergang mit Hund an der Leine, mit Austern oder Crêpes vor einer Überfahrt.",
+          "tipDe": "Hervorragend für einen entspannten Spaziergang am Hafen. Achten Sie bei neugierigen Hunden auf Angelhaken und Leinen am Kai"
         },
         {
           "name": "Quiberon thalassotherapy seafront",
@@ -641,7 +961,9 @@
           "tipFr": "Faites la promenade du front de mer ici pendant que l'un de vous profite du centre. L'autre peut attendre dehors avec le chien",
           "tipEs": "Pasea por el paseo marítimo aquí mientras uno de vosotros usa el spa. El otro puede esperar fuera con el perro",
           "tipPt": "Passeie pela marginal aqui enquanto um de vocês usa o spa. O outro pode esperar fora com o cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Thalassotherapie+Quiberon"
+          "googleMapsUrl": "https://maps.google.com/?q=Thalassotherapie+Quiberon",
+          "descriptionDe": "Quiberon ist eine der Wiegen der modernen Thalassotherapie, und ihr Meerwasser-Spa neben dem Sofitel ist ein berühmter Teil der Identität der Stadt, gelegen an der Uferpromenade nahe der Pointe de Goulvars. Das Spa selbst ist nichts für Hunde, doch die umliegende Uferpromenade ist ein angenehmer Spaziergang an der Leine mit offenem Blick auf den Atlantik.",
+          "tipDe": "Spazieren Sie hier an der Uferpromenade entlang, während einer von Ihnen das Spa nutzt. Der andere kann mit dem Hund draußen warten"
         }
       ],
       "tipsEn": [
@@ -665,24 +987,76 @@
         "Combine um passeio por Port Maria com um ferry para as ilhas para um dia completo dog-friendly."
       ],
       "faqsEn": [
-        {"q": "What can I do in Quiberon with my dog?", "a": "Plenty outdoors: walk the Côte Sauvage from Château Turpault, stroll the Port Maria harbour, follow the seafront to the Pointe du Conguel, and take the ferry to Belle-Île. All work with a leashed dog."},
-        {"q": "Can I take my dog to the Pointe du Conguel?", "a": "You can walk the flat seafront promenade towards the Pointe du Conguel on a leash, but the fragile tip of the headland itself restricts pedestrian access and is not suited to dogs at busy times. Enjoy the approach and views instead."},
-        {"q": "Are dogs allowed at the Quiberon thalasso spa?", "a": "No. The thalassotherapy centre is an indoor spa and does not admit dogs. You can still enjoy the surrounding seafront promenade with your dog while a travel companion uses the spa."}
+        {
+          "q": "What can I do in Quiberon with my dog?",
+          "a": "Plenty outdoors: walk the Côte Sauvage from Château Turpault, stroll the Port Maria harbour, follow the seafront to the Pointe du Conguel, and take the ferry to Belle-Île. All work with a leashed dog."
+        },
+        {
+          "q": "Can I take my dog to the Pointe du Conguel?",
+          "a": "You can walk the flat seafront promenade towards the Pointe du Conguel on a leash, but the fragile tip of the headland itself restricts pedestrian access and is not suited to dogs at busy times. Enjoy the approach and views instead."
+        },
+        {
+          "q": "Are dogs allowed at the Quiberon thalasso spa?",
+          "a": "No. The thalassotherapy centre is an indoor spa and does not admit dogs. You can still enjoy the surrounding seafront promenade with your dog while a travel companion uses the spa."
+        }
       ],
       "faqsFr": [
-        {"q": "Que faire à Quiberon avec son chien ?", "a": "Beaucoup de choses en plein air : marcher sur la Côte Sauvage depuis le château Turpault, flâner sur le port de Port Maria, suivre le front de mer jusqu'à la Pointe du Conguel et prendre le ferry pour Belle-Île. Tout se fait avec un chien en laisse."},
-        {"q": "Puis-je emmener mon chien à la Pointe du Conguel ?", "a": "Vous pouvez suivre la promenade plate du front de mer vers la Pointe du Conguel en laisse, mais la pointe fragile elle-même restreint l'accès piéton et n'est pas adaptée aux chiens aux heures d'affluence. Profitez plutôt de l'approche et des vues."},
-        {"q": "Les chiens sont-ils admis au centre de thalasso de Quiberon ?", "a": "Non. Le centre de thalassothérapie est un espace intérieur et n'accepte pas les chiens. Vous pouvez tout de même profiter de la promenade du front de mer avec votre chien pendant qu'un compagnon de voyage utilise le centre."}
+        {
+          "q": "Que faire à Quiberon avec son chien ?",
+          "a": "Beaucoup de choses en plein air : marcher sur la Côte Sauvage depuis le château Turpault, flâner sur le port de Port Maria, suivre le front de mer jusqu'à la Pointe du Conguel et prendre le ferry pour Belle-Île. Tout se fait avec un chien en laisse."
+        },
+        {
+          "q": "Puis-je emmener mon chien à la Pointe du Conguel ?",
+          "a": "Vous pouvez suivre la promenade plate du front de mer vers la Pointe du Conguel en laisse, mais la pointe fragile elle-même restreint l'accès piéton et n'est pas adaptée aux chiens aux heures d'affluence. Profitez plutôt de l'approche et des vues."
+        },
+        {
+          "q": "Les chiens sont-ils admis au centre de thalasso de Quiberon ?",
+          "a": "Non. Le centre de thalassothérapie est un espace intérieur et n'accepte pas les chiens. Vous pouvez tout de même profiter de la promenade du front de mer avec votre chien pendant qu'un compagnon de voyage utilise le centre."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Qué puedo hacer en Quiberon con mi perro?", "a": "Mucho al aire libre: pasear por la Côte Sauvage desde el château Turpault, recorrer el puerto de Port Maria, seguir el paseo marítimo hasta la Pointe du Conguel y tomar el ferri a Belle-Île. Todo funciona con un perro con correa."},
-        {"q": "¿Puedo llevar a mi perro a la Pointe du Conguel?", "a": "Puedes recorrer el paseo marítimo llano hacia la Pointe du Conguel con correa, pero la frágil punta del cabo restringe el acceso peatonal y no es adecuada para perros en horas de afluencia. Disfruta mejor de la aproximación y las vistas."},
-        {"q": "¿Se admiten perros en el centro de talaso de Quiberon?", "a": "No. El centro de talasoterapia es un espacio interior y no admite perros. Aun así puedes disfrutar del paseo marítimo de alrededor con tu perro mientras un compañero de viaje usa el centro."}
+        {
+          "q": "¿Qué puedo hacer en Quiberon con mi perro?",
+          "a": "Mucho al aire libre: pasear por la Côte Sauvage desde el château Turpault, recorrer el puerto de Port Maria, seguir el paseo marítimo hasta la Pointe du Conguel y tomar el ferri a Belle-Île. Todo funciona con un perro con correa."
+        },
+        {
+          "q": "¿Puedo llevar a mi perro a la Pointe du Conguel?",
+          "a": "Puedes recorrer el paseo marítimo llano hacia la Pointe du Conguel con correa, pero la frágil punta del cabo restringe el acceso peatonal y no es adecuada para perros en horas de afluencia. Disfruta mejor de la aproximación y las vistas."
+        },
+        {
+          "q": "¿Se admiten perros en el centro de talaso de Quiberon?",
+          "a": "No. El centro de talasoterapia es un espacio interior y no admite perros. Aun así puedes disfrutar del paseo marítimo de alrededor con tu perro mientras un compañero de viaje usa el centro."
+        }
       ],
       "faqsPt": [
-        {"q": "O que posso fazer em Quiberon com o meu cão?", "a": "Muito ao ar livre: caminhar pela Côte Sauvage a partir do château Turpault, passear pelo porto de Port Maria, seguir a marginal até à Pointe du Conguel e apanhar o ferry para Belle-Île. Tudo funciona com um cão à trela."},
-        {"q": "Posso levar o meu cão à Pointe du Conguel?", "a": "Pode percorrer a marginal plana em direção à Pointe du Conguel com trela, mas a frágil ponta do cabo restringe o acesso pedonal e não é adequada a cães em horas de maior afluência. Desfrute antes da aproximação e das vistas."},
-        {"q": "Os cães são permitidos no centro de talasso de Quiberon?", "a": "Não. O centro de talassoterapia é um espaço interior e não aceita cães. Mesmo assim pode desfrutar da marginal em redor com o seu cão enquanto um companheiro de viagem usa o centro."}
+        {
+          "q": "O que posso fazer em Quiberon com o meu cão?",
+          "a": "Muito ao ar livre: caminhar pela Côte Sauvage a partir do château Turpault, passear pelo porto de Port Maria, seguir a marginal até à Pointe du Conguel e apanhar o ferry para Belle-Île. Tudo funciona com um cão à trela."
+        },
+        {
+          "q": "Posso levar o meu cão à Pointe du Conguel?",
+          "a": "Pode percorrer a marginal plana em direção à Pointe du Conguel com trela, mas a frágil ponta do cabo restringe o acesso pedonal e não é adequada a cães em horas de maior afluência. Desfrute antes da aproximação e das vistas."
+        },
+        {
+          "q": "Os cães são permitidos no centro de talasso de Quiberon?",
+          "a": "Não. O centro de talassoterapia é um espaço interior e não aceita cães. Mesmo assim pode desfrutar da marginal em redor com o seu cão enquanto um companheiro de viagem usa o centro."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Quiberon",
+      "introDe": "Die Sehenswürdigkeiten von Quiberon sind größtenteils im Freien, was sich perfekt für Hunde eignet. Die wilde Küste, der aktive Hafen und die Inselfähren lassen sich alle mit einem Hund an der Leine genießen, und das Thalassotherapie-Erbe der Stadt sorgt für ein denkwürdiges, wenn auch hundefreies, Wahrzeichen an der Uferpromenade.",
+      "faqsDe": [
+        {
+          "q": "Was kann ich in Quiberon mit meinem Hund unternehmen?",
+          "a": "Vieles im Freien: Spazieren Sie die Côte Sauvage vom Château Turpault aus, schlendern Sie durch den Hafen von Port Maria, folgen Sie der Uferpromenade zur Pointe du Conguel und nehmen Sie die Fähre nach Belle-Île. Alles funktioniert mit einem Hund an der Leine."
+        },
+        {
+          "q": "Kann ich meinen Hund zur Pointe du Conguel mitnehmen?",
+          "a": "Sie können die flache Uferpromenade in Richtung Pointe du Conguel an der Leine entlangspazieren, doch die empfindliche Spitze der Landzunge selbst schränkt den Fußgängerzugang ein und eignet sich zu belebten Zeiten nicht für Hunde. Genießen Sie stattdessen die Anfahrt und die Aussicht."
+        },
+        {
+          "q": "Sind Hunde im Thalasso-Spa von Quiberon erlaubt?",
+          "a": "Nein. Das Thalassotherapie-Zentrum ist ein Indoor-Spa und lässt keine Hunde zu. Sie können die umliegende Uferpromenade dennoch mit Ihrem Hund genießen, während ein Reisebegleiter das Spa nutzt."
+        }
       ]
     },
     "petsitting": {
@@ -707,11 +1081,17 @@
           "serviceTypeEs": "Reserva online. Cuidado a domicilio, familias de acogida, guardería",
           "serviceTypePt": "Reserva online. Pet sitting ao domicílio, famílias de acolhimento, creche",
           "pricePerDay": "Varies by sitter and service",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "tip": "Book well ahead in July and August. Sitters on the peninsula are limited and fill quickly in peak season",
           "tipFr": "Réservez bien à l'avance en juillet et août. Les sitters sur la presqu'île sont limités et vite complets en haute saison",
           "tipEs": "Reserva con mucha antelación en julio y agosto. Los cuidadores en la península son limitados y se llenan rápido en temporada alta",
-          "tipPt": "Reserve com muita antecedência em julho e agosto. Os cuidadores na península são limitados e enchem depressa na época alta"
+          "tipPt": "Reserve com muita antecedência em julho e agosto. Os cuidadores na península são limitados e enchem depressa na época alta",
+          "descriptionDe": "Holidog ist eine der führenden Haustierbetreuungs-Plattformen Frankreichs, die Besitzer mit Gastfamilien und Haussittern im gesamten Morbihan, einschließlich der Region Quiberon, verbindet. Jede Buchung beinhaltet die Holivet-Garantie, die Tierarztkosten bis zu einem festgelegten Betrag abdeckt, während sich Ihr Tier in der Obhut eines Sitters befindet. Für Reisende ist es eine zuverlässige Möglichkeit, ein paar Stunden oder einen ganzen Tag Hundebetreuung zu organisieren, während Sie ein Spa, eine Insel oder eine Indoor-Sehenswürdigkeit besuchen, die keine Hunde zulässt.",
+          "serviceTypeDe": "Online-Buchung. Haussitting, Gastfamilien, Tagesbetreuung",
+          "tipDe": "Buchen Sie im Juli und August frühzeitig. Sitter auf der Halbinsel sind begrenzt und in der Hochsaison schnell ausgebucht"
         },
         {
           "name": "Pawshake (Morbihan)",
@@ -725,11 +1105,17 @@
           "serviceTypeEs": "Reserva online. Paseos, guardería, visitas, alojamiento",
           "serviceTypePt": "Reserva online. Passeios, creche, visitas, alojamento",
           "pricePerDay": "Varies by sitter and service",
-          "languages": ["French", "English"],
+          "languages": [
+            "French",
+            "English"
+          ],
           "tip": "Message a sitter before booking to confirm availability and that they are happy with your dog's breed and size",
           "tipFr": "Contactez un sitter avant de réserver pour confirmer la disponibilité et qu'il est à l'aise avec la race et la taille de votre chien",
           "tipEs": "Contacta a un cuidador antes de reservar para confirmar la disponibilidad y que se siente cómodo con la raza y el tamaño de tu perro",
-          "tipPt": "Contacte um cuidador antes de reservar para confirmar a disponibilidade e que está à vontade com a raça e o tamanho do seu cão"
+          "tipPt": "Contacte um cuidador antes de reservar para confirmar a disponibilidade e que está à vontade com a raça e o tamanho do seu cão",
+          "descriptionDe": "Pawshake ist eine international tätige Haustierbetreuungs-Plattform in ganz Frankreich, die lokale Sitter für Hundespaziergänge, Tagesbetreuung, Kurzbesuche und Unterbringung im Morbihan auflistet. Jede Buchung beinhaltet automatisch die Pawshake-Garantie, die Tierarztkosten abdeckt, und Sie können Sitter direkt kontaktieren, um sich zu vergewissern, dass sie mit der Größe und dem Energielevel Ihres Hundes zurechtkommen, bevor Sie buchen. Eine praktische Option für Besucher, die einen lokalen Sitter in der Nähe von Quiberon suchen.",
+          "serviceTypeDe": "Online-Buchung. Spaziergänge, Tagesbetreuung, Kurzbesuche, Unterbringung",
+          "tipDe": "Kontaktieren Sie einen Sitter vor der Buchung, um die Verfügbarkeit zu bestätigen und sicherzustellen, dass er mit der Rasse und Größe Ihres Hundes zufrieden ist"
         }
       ],
       "tipsEn": [
@@ -757,16 +1143,37 @@
         "Verifique se o seu próprio seguro de viagem também cobre os custos veterinários em França antes de partir."
       ],
       "faqsEn": [
-        {"q": "How do I find a dog sitter in Quiberon?", "a": "Use national platforms such as Holidog or Pawshake, which list sitters across the Morbihan including the Quiberon area. Both include veterinary insurance with each booking. As the peninsula is small, book several days ahead in summer."}
+        {
+          "q": "How do I find a dog sitter in Quiberon?",
+          "a": "Use national platforms such as Holidog or Pawshake, which list sitters across the Morbihan including the Quiberon area. Both include veterinary insurance with each booking. As the peninsula is small, book several days ahead in summer."
+        }
       ],
       "faqsFr": [
-        {"q": "Comment trouver une garde pour mon chien à Quiberon ?", "a": "Utilisez des plateformes nationales comme Holidog ou Pawshake, qui répertorient des sitters dans tout le Morbihan, y compris autour de Quiberon. Les deux incluent une assurance vétérinaire à chaque réservation. La presqu'île étant petite, réservez plusieurs jours à l'avance en été."}
+        {
+          "q": "Comment trouver une garde pour mon chien à Quiberon ?",
+          "a": "Utilisez des plateformes nationales comme Holidog ou Pawshake, qui répertorient des sitters dans tout le Morbihan, y compris autour de Quiberon. Les deux incluent une assurance vétérinaire à chaque réservation. La presqu'île étant petite, réservez plusieurs jours à l'avance en été."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cómo encuentro un cuidador para mi perro en Quiberon?", "a": "Usa plataformas nacionales como Holidog o Pawshake, que listan cuidadores en todo el Morbihan, incluida la zona de Quiberon. Ambas incluyen seguro veterinario en cada reserva. Como la península es pequeña, reserva con varios días de antelación en verano."}
+        {
+          "q": "¿Cómo encuentro un cuidador para mi perro en Quiberon?",
+          "a": "Usa plataformas nacionales como Holidog o Pawshake, que listan cuidadores en todo el Morbihan, incluida la zona de Quiberon. Ambas incluyen seguro veterinario en cada reserva. Como la península es pequeña, reserva con varios días de antelación en verano."
+        }
       ],
       "faqsPt": [
-        {"q": "Como encontro um cuidador para o meu cão em Quiberon?", "a": "Use plataformas nacionais como a Holidog ou a Pawshake, que listam cuidadores em todo o Morbihan, incluindo a zona de Quiberon. Ambas incluem seguro veterinário em cada reserva. Como a península é pequena, reserve com vários dias de antecedência no verão."}
+        {
+          "q": "Como encontro um cuidador para o meu cão em Quiberon?",
+          "a": "Use plataformas nacionais como a Holidog ou a Pawshake, que listam cuidadores em todo o Morbihan, incluindo a zona de Quiberon. Ambas incluem seguro veterinário em cada reserva. Como a península é pequena, reserve com vários dias de antecedência no verão."
+        }
+      ],
+      "titleDe": "Hundesitter & Haustierbetreuung in Quiberon",
+      "introDe": "Quiberon ist eine kleine Stadt ohne große Hundetagesstätten-Ketten, daher verlassen sich Reisende, die ein paar Stunden Hundebetreuung benötigen, auf landesweite Haustierbetreuungs-Plattformen, die den Morbihan abdecken. Eine frühzeitige Buchung ist in den geschäftigen Sommermonaten unerlässlich, wenn lokale Sitter schnell ausgebucht sind.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter in Quiberon?",
+          "a": "Nutzen Sie landesweite Plattformen wie Holidog oder Pawshake, die Sitter im gesamten Morbihan, einschließlich der Region Quiberon, auflisten. Beide beinhalten eine Tierarztversicherung bei jeder Buchung. Da die Halbinsel klein ist, buchen Sie im Sommer mehrere Tage im Voraus."
+        }
       ]
     }
-  }}
+  }
+}

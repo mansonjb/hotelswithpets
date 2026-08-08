@@ -39,7 +39,11 @@
           "tipFr": "Réservez à l'avance et signalez votre chien ; les tables du quai sont plates et les plus faciles",
           "tipEs": "Reserva con antelación y menciona a tu perro; las mesas del muelle son llanas y las más cómodas",
           "tipPt": "Reserve com antecedência e mencione o seu cão; as mesas do cais são planas e as mais fáceis",
-          "googleMapsUrl": "https://maps.google.com/?q=Ristorante+Puny+Portofino"
+          "googleMapsUrl": "https://maps.google.com/?q=Ristorante+Puny+Portofino",
+          "descriptionDe": "Eine Institution Portofinos direkt an der Hafenpiazzetta, berühmt für ihre ligurische Küche, das Pesto und die Pappardelle al Portofino. Die Terrasse am Kai blickt direkt auf die vertäuten Boote und liegt flach auf Meereshöhe, sodass für Ihren Hund keine Stufe zu erklimmen ist.",
+          "petPolicyDe": "Angeleinte Hunde an den Außentischen willkommen; teilen Sie es bei der Reservierung mit",
+          "mustTryDe": "Pappardelle al Portofino, Pesto, frischer Fisch",
+          "tipDe": "Reservieren Sie im Voraus und erwähnen Sie Ihren Hund; die Tische am Kai sind flach und am einfachsten zu erreichen"
         },
         {
           "name": "O Magazin",
@@ -65,7 +69,11 @@
           "tipFr": "Demandez une table de véranda à l'ombre au-dessus de l'eau les après-midis chauds",
           "tipEs": "Pide una mesa de veranda a la sombra sobre el agua en las tardes calurosas",
           "tipPt": "Peça uma mesa de varanda à sombra sobre a água nas tardes quentes",
-          "googleMapsUrl": "https://maps.google.com/?q=O+Magazin+Portofino"
+          "googleMapsUrl": "https://maps.google.com/?q=O+Magazin+Portofino",
+          "descriptionDe": "Ein bekanntes Fischrestaurant am Hafenkai mit einer schattigen Veranda über dem Wasser, das ligurischen Fisch, frittierte Meeresfrüchte und Pasta serviert. Wie der Rest der Uferpromenade liegt es auf Meereshöhe, ein einfacher, flacher Zugang für einen Hund an der Leine.",
+          "petPolicyDe": "Angeleinte Hunde auf der Außenveranda willkommen; bei der Buchung bestätigen",
+          "mustTryDe": "Frittierte Meeresfrüchte, Trofie al Pesto, Fang des Tages",
+          "tipDe": "Bitten Sie an heißen Nachmittagen um einen schattigen Verandatisch über dem Wasser"
         },
         {
           "name": "DaV Mare (Belmond Splendido Mare)",
@@ -91,7 +99,11 @@
           "tipFr": "C'est une terrasse haut de gamme, idéale pour un chien calme et posé, avec table réservée",
           "tipEs": "Es una terraza de alto nivel, mejor para un perro tranquilo y sosegado y con mesa reservada",
           "tipPt": "É uma esplanada de alto nível, melhor para um cão calmo e sossegado e com mesa reservada",
-          "googleMapsUrl": "https://maps.google.com/?q=Belmond+Splendido+Mare+Portofino"
+          "googleMapsUrl": "https://maps.google.com/?q=Belmond+Splendido+Mare+Portofino",
+          "descriptionDe": "Das Hafenrestaurant des Belmond Splendido Mare, das sich direkt zur Piazzetta hin öffnet, mit einer eleganten Terrasse über den Anlegestellen. Es ist eine gehobene, flache Option direkt am Wasser, an der ein ruhiger, angeleinter Hund Sie an einem Außentisch begleiten kann; das Ambiente ist gehoben, ein wohlerzogener Hund wird also erwartet.",
+          "petPolicyDe": "Ruhige, angeleinte Hunde an der Außenterrasse willkommen; bei der Buchung bestätigen",
+          "mustTryDe": "Ligurische Meeresfrüchte, Klassiker der Riviera",
+          "tipDe": "Dies ist eine gehobene Terrasse, daher am besten für einen ruhigen, ausgeglichenen Hund und einen reservierten Tisch"
         }
       ],
       "tipsEn": [
@@ -115,24 +127,76 @@
         "Peça uma mesa à sombra e uma tigela de água; a enseada é abrigada e aquece ao meio-dia."
       ],
       "faqsEn": [
-        {"q": "Can I eat out with my dog in Portofino?", "a": "Yes. Following the standard Ligurian norm, leashed, calm dogs are welcome at the outdoor terrace and quayside tables around the harbour piazzetta, even where small indoor rooms are not suitable. It is always worth confirming when you book."},
-        {"q": "Is it hard to reach the restaurants with a dog?", "a": "No, and this is Portofino's big advantage over the rest of the coast: the piazzetta and quay are flat and at sea level, so your dog does not have to climb stairs to reach a table."},
-        {"q": "Do I need to book?", "a": "In season, yes. Portofino is small and very popular, the good terraces fill quickly, and letting the restaurant know you are bringing a dog when you reserve avoids any surprise at the door."}
+        {
+          "q": "Can I eat out with my dog in Portofino?",
+          "a": "Yes. Following the standard Ligurian norm, leashed, calm dogs are welcome at the outdoor terrace and quayside tables around the harbour piazzetta, even where small indoor rooms are not suitable. It is always worth confirming when you book."
+        },
+        {
+          "q": "Is it hard to reach the restaurants with a dog?",
+          "a": "No, and this is Portofino's big advantage over the rest of the coast: the piazzetta and quay are flat and at sea level, so your dog does not have to climb stairs to reach a table."
+        },
+        {
+          "q": "Do I need to book?",
+          "a": "In season, yes. Portofino is small and very popular, the good terraces fill quickly, and letting the restaurant know you are bringing a dog when you reserve avoids any surprise at the door."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je manger au restaurant avec mon chien à Portofino ?", "a": "Oui. Selon la norme ligure habituelle, les chiens calmes et en laisse sont les bienvenus aux tables en terrasse et sur le quai autour de la piazzetta du port, même là où les petites salles intérieures ne conviennent pas. Il vaut toujours mieux confirmer à la réservation."},
-        {"q": "Est-il difficile d'atteindre les restaurants avec un chien ?", "a": "Non, et c'est le grand avantage de Portofino sur le reste de la côte : la piazzetta et le quai sont plats et au niveau de la mer, votre chien n'a donc aucune marche à monter pour rejoindre une table."},
-        {"q": "Faut-il réserver ?", "a": "En saison, oui. Portofino est petit et très prisé, les bonnes terrasses se remplissent vite, et prévenir le restaurant que vous venez avec un chien lors de la réservation évite toute surprise à l'entrée."}
+        {
+          "q": "Puis-je manger au restaurant avec mon chien à Portofino ?",
+          "a": "Oui. Selon la norme ligure habituelle, les chiens calmes et en laisse sont les bienvenus aux tables en terrasse et sur le quai autour de la piazzetta du port, même là où les petites salles intérieures ne conviennent pas. Il vaut toujours mieux confirmer à la réservation."
+        },
+        {
+          "q": "Est-il difficile d'atteindre les restaurants avec un chien ?",
+          "a": "Non, et c'est le grand avantage de Portofino sur le reste de la côte : la piazzetta et le quai sont plats et au niveau de la mer, votre chien n'a donc aucune marche à monter pour rejoindre une table."
+        },
+        {
+          "q": "Faut-il réserver ?",
+          "a": "En saison, oui. Portofino est petit et très prisé, les bonnes terrasses se remplissent vite, et prévenir le restaurant que vous venez avec un chien lors de la réservation évite toute surprise à l'entrée."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo comer fuera con mi perro en Portofino?", "a": "Sí. Siguiendo la norma ligur habitual, los perros tranquilos y con correa son bienvenidos en las mesas de las terrazas y del muelle alrededor de la piazzetta del puerto, incluso donde las pequeñas salas interiores no son adecuadas. Siempre conviene confirmarlo al reservar."},
-        {"q": "¿Es difícil llegar a los restaurantes con un perro?", "a": "No, y esa es la gran ventaja de Portofino frente al resto de la costa: la piazzetta y el muelle son llanos y están a nivel del mar, así que tu perro no tiene que subir escaleras para llegar a una mesa."},
-        {"q": "¿Hace falta reservar?", "a": "En temporada, sí. Portofino es pequeño y muy popular, las buenas terrazas se llenan rápido, y avisar al restaurante de que vas con un perro al reservar evita cualquier sorpresa en la puerta."}
+        {
+          "q": "¿Puedo comer fuera con mi perro en Portofino?",
+          "a": "Sí. Siguiendo la norma ligur habitual, los perros tranquilos y con correa son bienvenidos en las mesas de las terrazas y del muelle alrededor de la piazzetta del puerto, incluso donde las pequeñas salas interiores no son adecuadas. Siempre conviene confirmarlo al reservar."
+        },
+        {
+          "q": "¿Es difícil llegar a los restaurantes con un perro?",
+          "a": "No, y esa es la gran ventaja de Portofino frente al resto de la costa: la piazzetta y el muelle son llanos y están a nivel del mar, así que tu perro no tiene que subir escaleras para llegar a una mesa."
+        },
+        {
+          "q": "¿Hace falta reservar?",
+          "a": "En temporada, sí. Portofino es pequeño y muy popular, las buenas terrazas se llenan rápido, y avisar al restaurante de que vas con un perro al reservar evita cualquier sorpresa en la puerta."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso comer fora com o meu cão em Portofino?", "a": "Sim. Seguindo a norma ligure habitual, os cães calmos e com trela são bem-vindos nas mesas das esplanadas e do cais em redor da piazzetta do porto, mesmo onde as pequenas salas interiores não são adequadas. Vale sempre a pena confirmar ao reservar."},
-        {"q": "É difícil chegar aos restaurantes com um cão?", "a": "Não, e essa é a grande vantagem de Portofino face ao resto da costa: a piazzetta e o cais são planos e ao nível do mar, por isso o seu cão não tem de subir escadas para chegar a uma mesa."},
-        {"q": "É preciso reservar?", "a": "Na época, sim. Portofino é pequeno e muito popular, as boas esplanadas enchem depressa, e avisar o restaurante de que leva um cão ao reservar evita qualquer surpresa à porta."}
+        {
+          "q": "Posso comer fora com o meu cão em Portofino?",
+          "a": "Sim. Seguindo a norma ligure habitual, os cães calmos e com trela são bem-vindos nas mesas das esplanadas e do cais em redor da piazzetta do porto, mesmo onde as pequenas salas interiores não são adequadas. Vale sempre a pena confirmar ao reservar."
+        },
+        {
+          "q": "É difícil chegar aos restaurantes com um cão?",
+          "a": "Não, e essa é a grande vantagem de Portofino face ao resto da costa: a piazzetta e o cais são planos e ao nível do mar, por isso o seu cão não tem de subir escadas para chegar a uma mesa."
+        },
+        {
+          "q": "É preciso reservar?",
+          "a": "Na época, sim. Portofino é pequeno e muito popular, as boas esplanadas enchem depressa, e avisar o restaurante de que leva um cão ao reservar evita qualquer surpresa à porta."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Portofino",
+      "introDe": "Das Speiseerlebnis in Portofino folgt der entspannten ligurischen Norm: angeleinte, wohlerzogene Hunde sind an den Außenterrassen und Kaitischen willkommen, die die kleine Piazzetta am Hafen umgeben, selbst dort, wo die kleinen Innenräume nicht geeignet sind. Der große Vorteil gegenüber dem Rest der Riviera ist, dass die Piazzetta flach und auf Meereshöhe liegt, sodass Ihr Hund den Tisch ohne eine einzige Stufe erreicht. Das Personal bringt auf Wunsch einen Wassernapf, was an dieser heißen, geschützten Bucht wichtig ist. Planen Sie ein schattiges Mittagessen oder ein frühes Abendessen, halten Sie Ihren Hund in den engen Gassen nah bei sich, und eine Bestätigung bei der Reservierung lohnt sich immer.",
+      "faqsDe": [
+        {
+          "q": "Kann ich mit meinem Hund in Portofino auswärts essen?",
+          "a": "Ja. Gemäß der üblichen ligurischen Norm sind angeleinte, ruhige Hunde an den Außenterrassen und Kaitischen rund um die Hafenpiazzetta willkommen, selbst dort, wo die kleinen Innenräume nicht geeignet sind. Eine Bestätigung bei der Reservierung lohnt sich immer."
+        },
+        {
+          "q": "Ist es schwierig, mit Hund die Restaurants zu erreichen?",
+          "a": "Nein, und das ist Portofinos großer Vorteil gegenüber dem Rest der Küste: Die Piazzetta und der Kai liegen flach und auf Meereshöhe, sodass Ihr Hund keine Treppen erklimmen muss, um einen Tisch zu erreichen."
+        },
+        {
+          "q": "Muss ich reservieren?",
+          "a": "In der Saison, ja. Portofino ist klein und sehr beliebt, die guten Terrassen füllen sich schnell, und dem Restaurant bei der Reservierung mitzuteilen, dass Sie einen Hund mitbringen, erspart jede Überraschung an der Tür."
+        }
       ]
     },
     "parks": {
@@ -169,7 +233,11 @@
           "tipFr": "Les sentiers sont raides et pierreux ; emportez de l'eau et protégez les coussinets sur la roche chaude",
           "tipEs": "Los senderos son empinados y pedregosos; lleva agua y protege las almohadillas sobre la roca caliente",
           "tipPt": "Os trilhos são íngremes e pedregosos; leve água e proteja as almofadinhas na rocha quente",
-          "googleMapsUrl": "https://maps.google.com/?q=Parco+Naturale+Regionale+di+Portofino"
+          "googleMapsUrl": "https://maps.google.com/?q=Parco+Naturale+Regionale+di+Portofino",
+          "descriptionDe": "Der Regionalpark, der das gesamte Vorgebirge von Portofino umfasst, mit rund 80 km Maultierpfaden und Küstenwegen durch mediterranen Wald. Angeleinte Hunde sind willkommen, maximal drei Hunde pro Person, was ihn zum Hauptort in Dorfnähe macht, um einem Hund einen richtigen Spaziergang zu geben.",
+          "petPolicyDe": "Angeleinte Hunde willkommen, maximal drei Hunde pro Person",
+          "facilitiesDe": "Markierte Maultierpfade, Küstenwege, Besucherinformation des Parks",
+          "tipDe": "Die Wege sind steil und steinig; Wasser mitbringen und Pfoten auf heißem Fels schützen"
         },
         {
           "name": "Sentiero Portofino - San Fruttuoso",
@@ -195,7 +263,11 @@
           "tipFr": "Faites le sentier tôt et prenez le ferry au retour pour épargner la remontée à votre chien",
           "tipEs": "Haz el sendero temprano y vuelve en ferry para ahorrar a tu perro la subida de regreso",
           "tipPt": "Faça o trilho cedo e volte de ferry para poupar ao seu cão a subida de regresso",
-          "googleMapsUrl": "https://maps.google.com/?q=San+Fruttuoso+di+Capodimonte"
+          "googleMapsUrl": "https://maps.google.com/?q=San+Fruttuoso+di+Capodimonte",
+          "descriptionDe": "Die klassische Parkwanderung von Portofino über das Vorgebirge zur versteckten Bucht und Abtei von San Fruttuoso, nur zu Fuß oder per Boot erreichbar. Angeleinte, fitte Hunde bewältigen sie gut, und man kann eine Strecke laufen und mit der Fähre zurückkehren, wofür ein Maulkorb mitgeführt werden muss.",
+          "petPolicyDe": "Angeleinte Hunde willkommen; Maulkorb für die Rückfahrt mit der Fähre mitführen",
+          "facilitiesDe": "Markierter Wanderweg, Strand und Abtei von San Fruttuoso, saisonale Rückfahrt per Fähre",
+          "tipDe": "Gehen Sie den Weg früh und nehmen Sie die Fähre zurück, um Ihrem Hund den Rückaufstieg zu ersparen"
         },
         {
           "name": "Portofino to Santa Margherita coastal walk",
@@ -221,7 +293,11 @@
           "tipFr": "La route est étroite et fréquentée ; gardez votre chien près de vous et marchez à la fraîche",
           "tipEs": "La carretera es estrecha y con coches; mantén a tu perro cerca y camínala en las horas frescas",
           "tipPt": "A estrada é estreita e com carros; mantenha o seu cão perto e caminhe nas horas frescas",
-          "googleMapsUrl": "https://maps.google.com/?q=Paraggi+Santa+Margherita+Ligure"
+          "googleMapsUrl": "https://maps.google.com/?q=Paraggi+Santa+Margherita+Ligure",
+          "descriptionDe": "Die sanfte Küstenroute, die Portofino über die Bucht von Paraggi mit Santa Margherita Ligure verbindet, entlang der Panoramastraße und des Küstenwegs. Es ist ein leichterer, tiefer gelegener Ausflug als die Gipfel des Parks und ein guter Spaziergang mit angeleintem Hund zwischen den beiden Orten, wenn der Bus überfüllt ist.",
+          "petPolicyDe": "Angeleinte Hunde entlang der Straße und des Küstenwegs willkommen",
+          "facilitiesDe": "Panoramastraße, Bucht von Paraggi, Bänke, Bushaltestellen entlang der Strecke",
+          "tipDe": "Die Straße ist eng und von Autos befahren; halten Sie Ihren Hund nah bei sich und gehen Sie in den kühlen Tagesstunden"
         }
       ],
       "tipsEn": [
@@ -245,24 +321,76 @@
         "Para um dia fácil, faça o porto plano e a subida ao Castello Brown, e deixe San Fruttuoso para uma manhã fresca."
       ],
       "faqsEn": [
-        {"q": "Where can I walk my dog in Portofino?", "a": "The main option is the Parco Naturale Regionale di Portofino, with around 80 km of trails behind the village. Leashed dogs are welcome, up to three per person, and the walk to San Fruttuoso is the classic. In the village, the flat harbour and the path up to Castello Brown are the easy walks."},
-        {"q": "Can dogs walk to San Fruttuoso?", "a": "Yes. The trail from Portofino to San Fruttuoso is dog-friendly on the lead for a fit dog. It is steep and stony, so many people walk one way and take the seasonal ferry back, which requires you to carry a muzzle."},
-        {"q": "Are the trails hard for a dog?", "a": "They can be. This is a rugged promontory with steep, rocky, exposed sections and little shade in places. Bring plenty of water, protect paws on hot rock, avoid the midday heat and turn back if your dog is struggling."}
+        {
+          "q": "Where can I walk my dog in Portofino?",
+          "a": "The main option is the Parco Naturale Regionale di Portofino, with around 80 km of trails behind the village. Leashed dogs are welcome, up to three per person, and the walk to San Fruttuoso is the classic. In the village, the flat harbour and the path up to Castello Brown are the easy walks."
+        },
+        {
+          "q": "Can dogs walk to San Fruttuoso?",
+          "a": "Yes. The trail from Portofino to San Fruttuoso is dog-friendly on the lead for a fit dog. It is steep and stony, so many people walk one way and take the seasonal ferry back, which requires you to carry a muzzle."
+        },
+        {
+          "q": "Are the trails hard for a dog?",
+          "a": "They can be. This is a rugged promontory with steep, rocky, exposed sections and little shade in places. Bring plenty of water, protect paws on hot rock, avoid the midday heat and turn back if your dog is struggling."
+        }
       ],
       "faqsFr": [
-        {"q": "Où promener mon chien à Portofino ?", "a": "La principale option est le Parco Naturale Regionale di Portofino, avec quelque 80 km de sentiers derrière le village. Les chiens en laisse sont admis, jusqu'à trois par personne, et la marche vers San Fruttuoso est la classique. Dans le village, le port plat et le chemin vers le Castello Brown sont les balades faciles."},
-        {"q": "Les chiens peuvent-ils marcher jusqu'à San Fruttuoso ?", "a": "Oui. Le sentier de Portofino à San Fruttuoso est accessible en laisse pour un chien en forme. Il est raide et pierreux, aussi beaucoup font l'aller à pied et prennent le ferry saisonnier au retour, qui impose d'avoir une muselière avec soi."},
-        {"q": "Les sentiers sont-ils difficiles pour un chien ?", "a": "Ils peuvent l'être. C'est un promontoire accidenté avec des passages raides, rocheux et exposés, et peu d'ombre par endroits. Emportez beaucoup d'eau, protégez les coussinets sur la roche chaude, évitez la chaleur de midi et faites demi-tour si votre chien peine."}
+        {
+          "q": "Où promener mon chien à Portofino ?",
+          "a": "La principale option est le Parco Naturale Regionale di Portofino, avec quelque 80 km de sentiers derrière le village. Les chiens en laisse sont admis, jusqu'à trois par personne, et la marche vers San Fruttuoso est la classique. Dans le village, le port plat et le chemin vers le Castello Brown sont les balades faciles."
+        },
+        {
+          "q": "Les chiens peuvent-ils marcher jusqu'à San Fruttuoso ?",
+          "a": "Oui. Le sentier de Portofino à San Fruttuoso est accessible en laisse pour un chien en forme. Il est raide et pierreux, aussi beaucoup font l'aller à pied et prennent le ferry saisonnier au retour, qui impose d'avoir une muselière avec soi."
+        },
+        {
+          "q": "Les sentiers sont-ils difficiles pour un chien ?",
+          "a": "Ils peuvent l'être. C'est un promontoire accidenté avec des passages raides, rocheux et exposés, et peu d'ombre par endroits. Emportez beaucoup d'eau, protégez les coussinets sur la roche chaude, évitez la chaleur de midi et faites demi-tour si votre chien peine."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Dónde puedo pasear a mi perro en Portofino?", "a": "La principal opción es el Parco Naturale Regionale di Portofino, con unos 80 km de senderos detrás del pueblo. Los perros con correa son bienvenidos, hasta tres por persona, y la caminata a San Fruttuoso es la clásica. En el pueblo, el puerto llano y el camino al Castello Brown son los paseos fáciles."},
-        {"q": "¿Pueden los perros caminar hasta San Fruttuoso?", "a": "Sí. El sendero de Portofino a San Fruttuoso es apto para perros con correa si están en forma. Es empinado y pedregoso, así que mucha gente va a pie y vuelve en el ferry de temporada, que obliga a llevar bozal encima."},
-        {"q": "¿Son difíciles los senderos para un perro?", "a": "Pueden serlo. Es un promontorio abrupto con tramos empinados, rocosos y expuestos, y poca sombra en algunos puntos. Lleva mucha agua, protege las almohadillas sobre la roca caliente, evita el calor del mediodía y da la vuelta si tu perro sufre."}
+        {
+          "q": "¿Dónde puedo pasear a mi perro en Portofino?",
+          "a": "La principal opción es el Parco Naturale Regionale di Portofino, con unos 80 km de senderos detrás del pueblo. Los perros con correa son bienvenidos, hasta tres por persona, y la caminata a San Fruttuoso es la clásica. En el pueblo, el puerto llano y el camino al Castello Brown son los paseos fáciles."
+        },
+        {
+          "q": "¿Pueden los perros caminar hasta San Fruttuoso?",
+          "a": "Sí. El sendero de Portofino a San Fruttuoso es apto para perros con correa si están en forma. Es empinado y pedregoso, así que mucha gente va a pie y vuelve en el ferry de temporada, que obliga a llevar bozal encima."
+        },
+        {
+          "q": "¿Son difíciles los senderos para un perro?",
+          "a": "Pueden serlo. Es un promontorio abrupto con tramos empinados, rocosos y expuestos, y poca sombra en algunos puntos. Lleva mucha agua, protege las almohadillas sobre la roca caliente, evita el calor del mediodía y da la vuelta si tu perro sufre."
+        }
       ],
       "faqsPt": [
-        {"q": "Onde posso passear o meu cão em Portofino?", "a": "A principal opção é o Parco Naturale Regionale di Portofino, com cerca de 80 km de trilhos por detrás da vila. Os cães com trela são bem-vindos, até três por pessoa, e a caminhada até San Fruttuoso é a clássica. Na vila, o porto plano e o caminho até ao Castello Brown são os passeios fáceis."},
-        {"q": "Os cães podem caminhar até San Fruttuoso?", "a": "Sim. O trilho de Portofino a San Fruttuoso é adequado a cães com trela se estiverem em forma. É íngreme e pedregoso, por isso muita gente vai a pé e volta no ferry sazonal, que obriga a levar açaime consigo."},
-        {"q": "Os trilhos são difíceis para um cão?", "a": "Podem ser. É um promontório acidentado com troços íngremes, rochosos e expostos, e pouca sombra em alguns pontos. Leve muita água, proteja as almofadinhas na rocha quente, evite o calor do meio-dia e volte para trás se o seu cão estiver a sofrer."}
+        {
+          "q": "Onde posso passear o meu cão em Portofino?",
+          "a": "A principal opção é o Parco Naturale Regionale di Portofino, com cerca de 80 km de trilhos por detrás da vila. Os cães com trela são bem-vindos, até três por pessoa, e a caminhada até San Fruttuoso é a clássica. Na vila, o porto plano e o caminho até ao Castello Brown são os passeios fáceis."
+        },
+        {
+          "q": "Os cães podem caminhar até San Fruttuoso?",
+          "a": "Sim. O trilho de Portofino a San Fruttuoso é adequado a cães com trela se estiverem em forma. É íngreme e pedregoso, por isso muita gente vai a pé e volta no ferry sazonal, que obriga a levar açaime consigo."
+        },
+        {
+          "q": "Os trilhos são difíceis para um cão?",
+          "a": "Podem ser. É um promontório acidentado com troços íngremes, rochosos e expostos, e pouca sombra em alguns pontos. Leve muita água, proteja as almofadinhas na rocha quente, evite o calor do meio-dia e volte para trás se o seu cão estiver a sofrer."
+        }
+      ],
+      "titleDe": "Parks & Spaziergänge in Portofino",
+      "introDe": "Portofinos eigentliche Grünfläche ist der Parco Naturale Regionale di Portofino, ein Landvorsprung mit rund 80 km markierten Maultierpfaden und Küstenwegen hinter dem Dorf. Angeleinte Hunde sind auf den Wegen willkommen, maximal drei Hunde pro Person, und die klassischen Ausflüge, vor allem zum Fischerweiler San Fruttuoso, sind wirklich hundefreundlich. Dies ist ein arbeitendes Vorgebirge mit steilen, steinigen, teils exponierten Pfaden, bringen Sie also Wasser mit, schützen Sie die Pfoten auf heißem Fels und wählen Sie einen schattigen Vormittag. Im Dorf selbst sind der flache Hafenspaziergang und der Aufstieg zum Castello Brown die einfachen Optionen.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich mit meinem Hund in Portofino spazieren gehen?",
+          "a": "Die Hauptoption ist der Parco Naturale Regionale di Portofino mit rund 80 km Wegen hinter dem Dorf. Angeleinte Hunde sind willkommen, bis zu drei pro Person, und der Weg nach San Fruttuoso ist der Klassiker. Im Dorf sind der flache Hafen und der Pfad zum Castello Brown die einfachen Spaziergänge."
+        },
+        {
+          "q": "Können Hunde nach San Fruttuoso laufen?",
+          "a": "Ja. Der Weg von Portofino nach San Fruttuoso ist für einen fitten, angeleinten Hund geeignet. Er ist steil und steinig, viele gehen deshalb nur eine Strecke und nehmen die saisonale Fähre zurück, wofür ein Maulkorb mitgeführt werden muss."
+        },
+        {
+          "q": "Sind die Wege schwierig für einen Hund?",
+          "a": "Das können sie sein. Dies ist ein raues Vorgebirge mit steilen, felsigen, exponierten Abschnitten und stellenweise wenig Schatten. Bringen Sie ausreichend Wasser mit, schützen Sie die Pfoten auf heißem Fels, meiden Sie die Mittagshitze und kehren Sie um, wenn Ihr Hund zu kämpfen hat."
+        }
       ]
     },
     "transport": {
@@ -289,7 +417,9 @@
           "petPolicyFr": "Chiens de toute taille en laisse ; muselière à avoir avec soi comme l'exige la loi",
           "petPolicyEs": "Perros de cualquier tamaño con correa; bozal a mano como exige la ley",
           "petPolicyPt": "Cães de qualquer tamanho com trela; açaime consigo como exige a lei",
-          "googleMapsUrl": "https://maps.google.com/?q=Servizio+Marittimo+del+Tigullio+Portofino"
+          "googleMapsUrl": "https://maps.google.com/?q=Servizio+Marittimo+del+Tigullio+Portofino",
+          "descriptionDe": "Der Fährverbund Tigullio verbindet Portofino mit Santa Margherita, Rapallo und San Fruttuoso und ist die landschaftlich schönste Art der Anreise. Hunde jeder Größe sind angeleint an Bord erlaubt, und gesetzlich müssen Sie einen Maulkorb in einer Tasche mitführen für den Fall, dass er verlangt wird.",
+          "petPolicyDe": "Hunde jeder Größe an der Leine; Maulkorb nach gesetzlicher Vorschrift mitzuführen"
         },
         {
           "name": "ATP bus line 782",
@@ -305,7 +435,9 @@
           "petPolicyFr": "Petits chiens gratuits en laisse ou en sac ; grands chiens en laisse avec muselière à portée",
           "petPolicyEs": "Perros pequeños gratis con correa o en transportín; los grandes con correa y bozal a mano",
           "petPolicyPt": "Cães pequenos grátis com trela ou em transportadora; os maiores com trela e açaime à mão",
-          "googleMapsUrl": "https://maps.google.com/?q=Santa+Margherita+Ligure+station"
+          "googleMapsUrl": "https://maps.google.com/?q=Santa+Margherita+Ligure+station",
+          "descriptionDe": "Der Bus 782 fährt die Küstenstraße vom Bahnhof Santa Margherita Ligure nach Portofino in rund 17 Minuten, der übliche Weg ohne Auto. Kleine Hunde fahren angeleint oder in einer Transportbox kostenlos mit; größere Hunde fahren angeleint mit mitgeführtem Maulkorb, gemäß der üblichen italienischen Nahverkehrsregel.",
+          "petPolicyDe": "Kleine Hunde kostenlos angeleint oder in einer Transportbox; größere Hunde angeleint mit mitgeführtem Maulkorb"
         },
         {
           "name": "Portofino car park and drop-off",
@@ -321,7 +453,9 @@
           "petPolicyFr": "Village en grande partie sans voiture ; arrivez à pied, en bus ou en ferry",
           "petPolicyEs": "Pueblo en gran parte sin coches; llega a pie, en autobús o en ferry",
           "petPolicyPt": "Vila em grande parte sem carros; chegue a pé, de autocarro ou de ferry",
-          "googleMapsUrl": "https://maps.google.com/?q=Portofino+car+park"
+          "googleMapsUrl": "https://maps.google.com/?q=Portofino+car+park",
+          "descriptionDe": "Die enge Straße von Santa Margherita endet kurz vor dem Dorf an einem kleinen, teuren, kostenpflichtigen Parkplatz, da Portofino selbst weitgehend für den Durchgangsverkehr gesperrt ist. Mit Hund ist es meist einfacher und günstiger, in Santa Margherita zu parken und die letzte Strecke mit Bus oder Fähre zurückzulegen.",
+          "petPolicyDe": "Dorf weitgehend autofrei; Anreise zu Fuß, mit dem Bus oder mit der Fähre"
         }
       ],
       "tipsEn": [
@@ -345,24 +479,76 @@
         "Estacione em Santa Margherita e apanhe o autocarro ou o ferry; o parque de Portofino é minúsculo e caro."
       ],
       "faqsEn": [
-        {"q": "How do I get to Portofino with a dog?", "a": "Most people arrive by the ATP 782 bus from Santa Margherita Ligure station or by the Servizio Marittimo del Tigullio ferry. Both accept dogs. Driving in is possible but the village is largely car-free and the car park is small and expensive, so parking in Santa Margherita is usually easier."},
-        {"q": "Can dogs go on the ferry to Portofino?", "a": "Yes. On the Tigullio ferries dogs of any size travel on a leash, and by Italian law you must have a muzzle available in a bag. The ferry is also the nicest way to reach San Fruttuoso and to avoid the return climb on the trail."},
-        {"q": "Are dogs allowed on the 782 bus?", "a": "Yes, under the usual Italian public-transport rule: small dogs travel free on a leash or in a carrier, and larger dogs on a leash with a muzzle carried. The ride is short, about 17 minutes, but the bus gets very crowded in summer, so travel early."}
+        {
+          "q": "How do I get to Portofino with a dog?",
+          "a": "Most people arrive by the ATP 782 bus from Santa Margherita Ligure station or by the Servizio Marittimo del Tigullio ferry. Both accept dogs. Driving in is possible but the village is largely car-free and the car park is small and expensive, so parking in Santa Margherita is usually easier."
+        },
+        {
+          "q": "Can dogs go on the ferry to Portofino?",
+          "a": "Yes. On the Tigullio ferries dogs of any size travel on a leash, and by Italian law you must have a muzzle available in a bag. The ferry is also the nicest way to reach San Fruttuoso and to avoid the return climb on the trail."
+        },
+        {
+          "q": "Are dogs allowed on the 782 bus?",
+          "a": "Yes, under the usual Italian public-transport rule: small dogs travel free on a leash or in a carrier, and larger dogs on a leash with a muzzle carried. The ride is short, about 17 minutes, but the bus gets very crowded in summer, so travel early."
+        }
       ],
       "faqsFr": [
-        {"q": "Comment aller à Portofino avec un chien ?", "a": "La plupart des gens arrivent par le bus ATP 782 depuis la gare de Santa Margherita Ligure ou par le ferry du Servizio Marittimo del Tigullio. Les deux acceptent les chiens. Venir en voiture est possible mais le village est en grande partie sans voiture et le parking est petit et cher, se garer à Santa Margherita est donc souvent plus simple."},
-        {"q": "Les chiens peuvent-ils prendre le ferry pour Portofino ?", "a": "Oui. Sur les ferries du Tigullio, les chiens de toute taille voyagent en laisse, et la loi italienne impose d'avoir une muselière dans un sac. Le ferry est aussi la plus belle façon d'atteindre San Fruttuoso et d'éviter la remontée sur le sentier."},
-        {"q": "Les chiens sont-ils admis dans le bus 782 ?", "a": "Oui, selon la règle habituelle des transports publics italiens : les petits chiens voyagent gratuitement en laisse ou en sac, et les plus grands en laisse avec muselière à portée. Le trajet est court, environ 17 minutes, mais le bus est très bondé en été, voyagez donc tôt."}
+        {
+          "q": "Comment aller à Portofino avec un chien ?",
+          "a": "La plupart des gens arrivent par le bus ATP 782 depuis la gare de Santa Margherita Ligure ou par le ferry du Servizio Marittimo del Tigullio. Les deux acceptent les chiens. Venir en voiture est possible mais le village est en grande partie sans voiture et le parking est petit et cher, se garer à Santa Margherita est donc souvent plus simple."
+        },
+        {
+          "q": "Les chiens peuvent-ils prendre le ferry pour Portofino ?",
+          "a": "Oui. Sur les ferries du Tigullio, les chiens de toute taille voyagent en laisse, et la loi italienne impose d'avoir une muselière dans un sac. Le ferry est aussi la plus belle façon d'atteindre San Fruttuoso et d'éviter la remontée sur le sentier."
+        },
+        {
+          "q": "Les chiens sont-ils admis dans le bus 782 ?",
+          "a": "Oui, selon la règle habituelle des transports publics italiens : les petits chiens voyagent gratuitement en laisse ou en sac, et les plus grands en laisse avec muselière à portée. Le trajet est court, environ 17 minutes, mais le bus est très bondé en été, voyagez donc tôt."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cómo llego a Portofino con un perro?", "a": "La mayoría llega en el autobús ATP 782 desde la estación de Santa Margherita Ligure o en el ferry del Servizio Marittimo del Tigullio. Ambos admiten perros. Ir en coche es posible, pero el pueblo está en gran parte cerrado al tráfico y el aparcamiento es pequeño y caro, así que aparcar en Santa Margherita suele ser más fácil."},
-        {"q": "¿Pueden los perros ir en el ferry a Portofino?", "a": "Sí. En los ferries del Tigullio los perros de cualquier tamaño viajan con correa, y la ley italiana obliga a llevar un bozal disponible en una bolsa. El ferry es además la forma más bonita de llegar a San Fruttuoso y de evitar la subida de vuelta por el sendero."},
-        {"q": "¿Se admiten perros en el autobús 782?", "a": "Sí, según la norma habitual del transporte público italiano: los perros pequeños viajan gratis con correa o en transportín, y los más grandes con correa y bozal a mano. El trayecto es corto, unos 17 minutos, pero el autobús va muy lleno en verano, así que viaja temprano."}
+        {
+          "q": "¿Cómo llego a Portofino con un perro?",
+          "a": "La mayoría llega en el autobús ATP 782 desde la estación de Santa Margherita Ligure o en el ferry del Servizio Marittimo del Tigullio. Ambos admiten perros. Ir en coche es posible, pero el pueblo está en gran parte cerrado al tráfico y el aparcamiento es pequeño y caro, así que aparcar en Santa Margherita suele ser más fácil."
+        },
+        {
+          "q": "¿Pueden los perros ir en el ferry a Portofino?",
+          "a": "Sí. En los ferries del Tigullio los perros de cualquier tamaño viajan con correa, y la ley italiana obliga a llevar un bozal disponible en una bolsa. El ferry es además la forma más bonita de llegar a San Fruttuoso y de evitar la subida de vuelta por el sendero."
+        },
+        {
+          "q": "¿Se admiten perros en el autobús 782?",
+          "a": "Sí, según la norma habitual del transporte público italiano: los perros pequeños viajan gratis con correa o en transportín, y los más grandes con correa y bozal a mano. El trayecto es corto, unos 17 minutos, pero el autobús va muy lleno en verano, así que viaja temprano."
+        }
       ],
       "faqsPt": [
-        {"q": "Como chego a Portofino com um cão?", "a": "A maioria chega no autocarro ATP 782 desde a estação de Santa Margherita Ligure ou no ferry do Servizio Marittimo del Tigullio. Ambos aceitam cães. Ir de carro é possível, mas a vila está em grande parte fechada ao trânsito e o parque é pequeno e caro, por isso estacionar em Santa Margherita costuma ser mais fácil."},
-        {"q": "Os cães podem ir no ferry para Portofino?", "a": "Sim. Nos ferries do Tigullio os cães de qualquer tamanho viajam com trela, e a lei italiana obriga a levar um açaime disponível num saco. O ferry é também a forma mais bonita de chegar a San Fruttuoso e de evitar a subida de regresso pelo trilho."},
-        {"q": "Os cães são permitidos no autocarro 782?", "a": "Sim, segundo a regra habitual do transporte público italiano: os cães pequenos viajam grátis com trela ou em transportadora, e os maiores com trela e açaime à mão. A viagem é curta, cerca de 17 minutos, mas o autocarro fica muito cheio no verão, por isso viaje cedo."}
+        {
+          "q": "Como chego a Portofino com um cão?",
+          "a": "A maioria chega no autocarro ATP 782 desde a estação de Santa Margherita Ligure ou no ferry do Servizio Marittimo del Tigullio. Ambos aceitam cães. Ir de carro é possível, mas a vila está em grande parte fechada ao trânsito e o parque é pequeno e caro, por isso estacionar em Santa Margherita costuma ser mais fácil."
+        },
+        {
+          "q": "Os cães podem ir no ferry para Portofino?",
+          "a": "Sim. Nos ferries do Tigullio os cães de qualquer tamanho viajam com trela, e a lei italiana obriga a levar um açaime disponível num saco. O ferry é também a forma mais bonita de chegar a San Fruttuoso e de evitar a subida de regresso pelo trilho."
+        },
+        {
+          "q": "Os cães são permitidos no autocarro 782?",
+          "a": "Sim, segundo a regra habitual do transporte público italiano: os cães pequenos viajam grátis com trela ou em transportadora, e os maiores com trela e açaime à mão. A viagem é curta, cerca de 17 minutos, mas o autocarro fica muito cheio no verão, por isso viaje cedo."
+        }
+      ],
+      "titleDe": "Mit Hund in Portofino unterwegs",
+      "introDe": "Portofino ist praktisch autoeingeschränkt: Die Straße von Santa Margherita endet an einem kleinen, kostenpflichtigen Parkplatz, und die meisten Besucher kommen mit der ATP-Buslinie 782 vom Bahnhof Santa Margherita oder mit den Fähren des Servizio Marittimo del Tigullio an. Beide nehmen Hunde mit. Auf den Fähren fahren Hunde jeder Größe angeleint mit und müssen, wie es das italienische Recht vorschreibt, einen Maulkorb griffbereit in einer Tasche mitführen; in den Bussen fahren kleine Hunde angeleint oder in einer Transportbox kostenlos mit, größere Hunde angeleint mit mitgeführtem Maulkorb. Das Dorf selbst ist klein und flach, sodass es sich, einmal angekommen, größtenteils zu Fuß erkunden lässt.",
+      "faqsDe": [
+        {
+          "q": "Wie komme ich mit Hund nach Portofino?",
+          "a": "Die meisten kommen mit dem ATP-Bus 782 vom Bahnhof Santa Margherita Ligure oder mit der Fähre des Servizio Marittimo del Tigullio an. Beide akzeptieren Hunde. Die Anfahrt mit dem Auto ist möglich, aber das Dorf ist weitgehend autofrei und der Parkplatz klein und teuer, daher ist Parken in Santa Margherita meist einfacher."
+        },
+        {
+          "q": "Dürfen Hunde mit der Fähre nach Portofino fahren?",
+          "a": "Ja. Auf den Tigullio-Fähren fahren Hunde jeder Größe angeleint mit, und nach italienischem Recht müssen Sie einen Maulkorb griffbereit in einer Tasche mitführen. Die Fähre ist zudem die schönste Art, San Fruttuoso zu erreichen und den Rückaufstieg auf dem Weg zu vermeiden."
+        },
+        {
+          "q": "Sind Hunde im Bus 782 erlaubt?",
+          "a": "Ja, nach der üblichen italienischen Regel für den öffentlichen Nahverkehr: kleine Hunde fahren angeleint oder in einer Transportbox kostenlos mit, größere Hunde angeleint mit mitgeführtem Maulkorb. Die Fahrt ist kurz, etwa 17 Minuten, aber der Bus wird im Sommer sehr voll, fahren Sie also früh."
+        }
       ]
     },
     "beaches": {
@@ -427,24 +613,76 @@
         "A Bau Bau Beach tem chuveiro para cães e água doce; enxágue o sal do pelo do seu cão depois do banho."
       ],
       "faqsEn": [
-        {"q": "Is there a dog beach in Portofino?", "a": "Not in Portofino itself, which has a rocky harbour and no beach. The dedicated dog beach in the area is Bau Bau Beach, a free pebble stretch on the road to Paraggi in the Santa Margherita municipality, with a dog shower and fresh water during the bathing season."},
-        {"q": "Can my dog swim at Paraggi?", "a": "Usually not. Paraggi is the only sandy cove nearby but it is mostly private beach clubs that restrict or ban dogs, especially in summer. Enjoy it on the coastal walk and plan your swim at Bau Bau Beach instead."},
-        {"q": "So is Portofino bad for a beach dog?", "a": "For swimming, honestly yes: this is an exclusive, rocky, cliff-and-harbour destination, not a dog-beach one. Come for the harbour, the trails and the walk to Castello Brown, and drive or bus to Bau Bau Beach when your dog needs the water."}
+        {
+          "q": "Is there a dog beach in Portofino?",
+          "a": "Not in Portofino itself, which has a rocky harbour and no beach. The dedicated dog beach in the area is Bau Bau Beach, a free pebble stretch on the road to Paraggi in the Santa Margherita municipality, with a dog shower and fresh water during the bathing season."
+        },
+        {
+          "q": "Can my dog swim at Paraggi?",
+          "a": "Usually not. Paraggi is the only sandy cove nearby but it is mostly private beach clubs that restrict or ban dogs, especially in summer. Enjoy it on the coastal walk and plan your swim at Bau Bau Beach instead."
+        },
+        {
+          "q": "So is Portofino bad for a beach dog?",
+          "a": "For swimming, honestly yes: this is an exclusive, rocky, cliff-and-harbour destination, not a dog-beach one. Come for the harbour, the trails and the walk to Castello Brown, and drive or bus to Bau Bau Beach when your dog needs the water."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il une plage pour chiens à Portofino ?", "a": "Pas à Portofino même, qui a un port rocheux et aucune plage. La plage pour chiens du secteur, c'est la Bau Bau Beach, une bande de galets gratuite sur la route de Paraggi dans la commune de Santa Margherita, avec douche pour chiens et eau douce pendant la saison balnéaire."},
-        {"q": "Mon chien peut-il se baigner à Paraggi ?", "a": "En général non. Paraggi est la seule crique de sable des environs mais ce sont surtout des clubs privés qui limitent ou interdisent les chiens, notamment en été. Profitez-en lors de la balade côtière et prévoyez la baignade à la Bau Bau Beach."},
-        {"q": "Portofino est-il donc mauvais pour un chien de plage ?", "a": "Pour la baignade, honnêtement oui : c'est une destination exclusive, rocheuse, de falaises et de port, pas de plage pour chiens. Venez pour le port, les sentiers et la montée au Castello Brown, et allez en voiture ou en bus à la Bau Bau Beach quand votre chien a besoin d'eau."}
+        {
+          "q": "Y a-t-il une plage pour chiens à Portofino ?",
+          "a": "Pas à Portofino même, qui a un port rocheux et aucune plage. La plage pour chiens du secteur, c'est la Bau Bau Beach, une bande de galets gratuite sur la route de Paraggi dans la commune de Santa Margherita, avec douche pour chiens et eau douce pendant la saison balnéaire."
+        },
+        {
+          "q": "Mon chien peut-il se baigner à Paraggi ?",
+          "a": "En général non. Paraggi est la seule crique de sable des environs mais ce sont surtout des clubs privés qui limitent ou interdisent les chiens, notamment en été. Profitez-en lors de la balade côtière et prévoyez la baignade à la Bau Bau Beach."
+        },
+        {
+          "q": "Portofino est-il donc mauvais pour un chien de plage ?",
+          "a": "Pour la baignade, honnêtement oui : c'est une destination exclusive, rocheuse, de falaises et de port, pas de plage pour chiens. Venez pour le port, les sentiers et la montée au Castello Brown, et allez en voiture ou en bus à la Bau Bau Beach quand votre chien a besoin d'eau."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay playa para perros en Portofino?", "a": "En Portofino mismo no, ya que tiene un puerto rocoso y ninguna playa. La playa para perros de la zona es la Bau Bau Beach, un tramo de guijarros gratuito en la carretera de Paraggi, en el municipio de Santa Margherita, con ducha para perros y agua dulce durante la temporada de baño."},
-        {"q": "¿Puede mi perro bañarse en Paraggi?", "a": "Normalmente no. Paraggi es la única cala de arena cercana pero son sobre todo clubes privados que restringen o prohíben los perros, sobre todo en verano. Disfrútala en el paseo costero y planea el baño en la Bau Bau Beach."},
-        {"q": "¿Entonces Portofino es malo para un perro de playa?", "a": "Para bañarse, sinceramente sí: es un destino exclusivo, rocoso, de acantilados y puerto, no de playa para perros. Ven por el puerto, los senderos y la subida al Castello Brown, y ve en coche o autobús a la Bau Bau Beach cuando tu perro necesite agua."}
+        {
+          "q": "¿Hay playa para perros en Portofino?",
+          "a": "En Portofino mismo no, ya que tiene un puerto rocoso y ninguna playa. La playa para perros de la zona es la Bau Bau Beach, un tramo de guijarros gratuito en la carretera de Paraggi, en el municipio de Santa Margherita, con ducha para perros y agua dulce durante la temporada de baño."
+        },
+        {
+          "q": "¿Puede mi perro bañarse en Paraggi?",
+          "a": "Normalmente no. Paraggi es la única cala de arena cercana pero son sobre todo clubes privados que restringen o prohíben los perros, sobre todo en verano. Disfrútala en el paseo costero y planea el baño en la Bau Bau Beach."
+        },
+        {
+          "q": "¿Entonces Portofino es malo para un perro de playa?",
+          "a": "Para bañarse, sinceramente sí: es un destino exclusivo, rocoso, de acantilados y puerto, no de playa para perros. Ven por el puerto, los senderos y la subida al Castello Brown, y ve en coche o autobús a la Bau Bau Beach cuando tu perro necesite agua."
+        }
       ],
       "faqsPt": [
-        {"q": "Há praia para cães em Portofino?", "a": "Em Portofino não, pois tem um porto rochoso e nenhuma praia. A praia para cães da zona é a Bau Bau Beach, uma faixa de calhau gratuita na estrada para Paraggi, no concelho de Santa Margherita, com chuveiro para cães e água doce durante a época balnear."},
-        {"q": "O meu cão pode nadar em Paraggi?", "a": "Normalmente não. Paraggi é a única enseada de areia próxima mas são sobretudo clubes privados que restringem ou proíbem os cães, sobretudo no verão. Aproveite-a no passeio costeiro e planeie o banho na Bau Bau Beach."},
-        {"q": "Então Portofino é mau para um cão de praia?", "a": "Para nadar, honestamente sim: é um destino exclusivo, rochoso, de falésias e porto, não de praia para cães. Venha pelo porto, pelos trilhos e pela subida ao Castello Brown, e vá de carro ou autocarro à Bau Bau Beach quando o seu cão precisar de água."}
+        {
+          "q": "Há praia para cães em Portofino?",
+          "a": "Em Portofino não, pois tem um porto rochoso e nenhuma praia. A praia para cães da zona é a Bau Bau Beach, uma faixa de calhau gratuita na estrada para Paraggi, no concelho de Santa Margherita, com chuveiro para cães e água doce durante a época balnear."
+        },
+        {
+          "q": "O meu cão pode nadar em Paraggi?",
+          "a": "Normalmente não. Paraggi é a única enseada de areia próxima mas são sobretudo clubes privados que restringem ou proíbem os cães, sobretudo no verão. Aproveite-a no passeio costeiro e planeie o banho na Bau Bau Beach."
+        },
+        {
+          "q": "Então Portofino é mau para um cão de praia?",
+          "a": "Para nadar, honestamente sim: é um destino exclusivo, rochoso, de falésias e porto, não de praia para cães. Venha pelo porto, pelos trilhos e pela subida ao Castello Brown, e vá de carro ou autocarro à Bau Bau Beach quando o seu cão precisar de água."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Strände bei Portofino",
+      "introDe": "Seien Sie ehrlich zu sich selbst, bevor Sie kommen: Portofino ist kein Strandziel für Hunde. Das Dorf liegt an einer felsigen, exklusiven Bucht ohne echten Strand, und die eine sandige Bucht in der Nähe, Paraggi, ist klein und größtenteils in teure Privatclubs aufgeteilt, in denen Hunde eingeschränkt sind, besonders im Sommer. Der echte Hundestrand in der Gegend ist der Bau Bau Beach an der Straße nach Paraggi in der Gemeinde Santa Margherita, ein kostenloser Kiesstrand mit Hundedusche und Frischwasser. Betrachten Sie Schwimmen als etwas, das Sie am Bau Bau Beach tun, nicht in Portofino selbst.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Hundestrand in Portofino?",
+          "a": "Nicht in Portofino selbst, das einen felsigen Hafen und keinen Strand hat. Der ausgewiesene Hundestrand in der Gegend ist der Bau Bau Beach, ein kostenloser Kiesstrand an der Straße nach Paraggi in der Gemeinde Santa Margherita, mit Hundedusche und Frischwasser während der Badesaison."
+        },
+        {
+          "q": "Kann mein Hund in Paraggi schwimmen?",
+          "a": "In der Regel nicht. Paraggi ist die einzige sandige Bucht in der Nähe, besteht aber größtenteils aus privaten Strandclubs, die Hunde einschränken oder verbieten, besonders im Sommer. Genießen Sie sie auf dem Küstenweg und planen Sie Ihr Bad stattdessen am Bau Bau Beach."
+        },
+        {
+          "q": "Ist Portofino also schlecht für einen Strandhund?",
+          "a": "Zum Schwimmen ehrlich gesagt ja: Dies ist ein exklusives, felsiges Ziel mit Hafen und Klippen, kein Hundestrandziel. Kommen Sie für den Hafen, die Wanderwege und den Spaziergang zum Castello Brown, und fahren Sie mit Auto oder Bus zum Bau Bau Beach, wenn Ihr Hund ins Wasser muss."
+        }
       ]
     },
     "vets": {
@@ -482,13 +720,20 @@
           "servicesFr": "Soins généraux, vaccinations, urgences",
           "servicesEs": "Cuidados generales, vacunaciones, urgencias",
           "servicesPt": "Cuidados gerais, vacinação, urgências",
-          "languages": ["Italian"],
+          "languages": [
+            "Italian"
+          ],
           "openingHours": "Call ahead",
           "tip": "Also reachable on the mobile +39 335 536 0252; call before making the trip",
           "tipFr": "Joignable aussi au portable +39 335 536 0252 ; appelez avant de faire le trajet",
           "tipEs": "También localizable en el móvil +39 335 536 0252; llama antes de desplazarte",
           "tipPt": "Também contactável no telemóvel +39 335 536 0252; ligue antes de se deslocar",
-          "googleMapsUrl": "https://maps.google.com/?q=Ambulatorio+Veterinario+Bonino+Santa+Margherita+Ligure"
+          "googleMapsUrl": "https://maps.google.com/?q=Ambulatorio+Veterinario+Bonino+Santa+Margherita+Ligure",
+          "hoursDe": "Für Öffnungszeiten bitte anrufen",
+          "descriptionDe": "Eine seit langem etablierte Praxis in Santa Margherita, geführt von Dr. Alessandro Bonino, einer der nächstgelegenen richtigen Tierärzte zu Portofino, eine kurze Bus- oder Fährfahrt entfernt. Sie behandelt Routine- und dringende Kleintierfälle.",
+          "petPolicyDe": "Hunde und Katzen nach Termin",
+          "servicesDe": "Allgemeine Kleintiermedizin, Impfungen, Dringlichkeiten",
+          "tipDe": "Auch über die Mobilnummer +39 335 536 0252 erreichbar; vor der Fahrt anrufen"
         },
         {
           "name": "Studi Veterinari Siegel, Finetti, Porro e Mariotto Rocca",
@@ -515,13 +760,20 @@
           "servicesFr": "Consultations générales, vaccinations, soins des animaux de compagnie",
           "servicesEs": "Consultas generales, vacunaciones, cuidados de animales de compañía",
           "servicesPt": "Consultas gerais, vacinação, cuidados de animais de companhia",
-          "languages": ["Italian"],
+          "languages": [
+            "Italian"
+          ],
           "openingHours": "Weekday and Saturday-morning hours; call ahead",
           "tip": "Central in Santa Margherita, easy to combine with the 782 bus from Portofino",
           "tipFr": "Central à Santa Margherita, facile à combiner avec le bus 782 depuis Portofino",
           "tipEs": "Céntrico en Santa Margherita, fácil de combinar con el autobús 782 desde Portofino",
           "tipPt": "Central em Santa Margherita, fácil de combinar com o autocarro 782 desde Portofino",
-          "googleMapsUrl": "https://maps.google.com/?q=Studi+Veterinari+Siegel+Santa+Margherita+Ligure"
+          "googleMapsUrl": "https://maps.google.com/?q=Studi+Veterinari+Siegel+Santa+Margherita+Ligure",
+          "hoursDe": "Montag bis Freitag und Samstagvormittag; bitte anrufen",
+          "descriptionDe": "Eine Gruppenpraxis am Corso Matteotti im Zentrum von Santa Margherita Ligure, die andere gut erreichbare Klinik in der Nähe von Portofino. Sie bietet allgemeine Kleintiermedizin mit regelmäßigen Öffnungszeiten unter der Woche.",
+          "petPolicyDe": "Hunde und Katzen nach Termin",
+          "servicesDe": "Allgemeine Konsultationen, Impfungen, Kleintiermedizin",
+          "tipDe": "Zentral in Santa Margherita gelegen, gut mit dem Bus 782 aus Portofino zu kombinieren"
         },
         {
           "name": "Studio Veterinario Pagella",
@@ -548,13 +800,20 @@
           "servicesFr": "Orthopédie, chirurgie, soins généraux, garde d'urgence",
           "servicesEs": "Ortopedia, cirugía, cuidados generales, guardia de urgencias",
           "servicesPt": "Ortopedia, cirurgia, cuidados gerais, urgência",
-          "languages": ["Italian"],
+          "languages": [
+            "Italian"
+          ],
           "openingHours": "Call for current hours and emergency availability",
           "tip": "Phone first to confirm they can see you, especially for an after-hours emergency",
           "tipFr": "Téléphonez d'abord pour confirmer qu'ils peuvent vous recevoir, surtout pour une urgence hors heures",
           "tipEs": "Telefonea antes para confirmar que pueden atenderte, sobre todo para una urgencia fuera de horario",
           "tipPt": "Telefone primeiro para confirmar que o podem atender, sobretudo para uma urgência fora de horas",
-          "googleMapsUrl": "https://maps.google.com/?q=Studio+Veterinario+Pagella+Rapallo"
+          "googleMapsUrl": "https://maps.google.com/?q=Studio+Veterinario+Pagella+Rapallo",
+          "hoursDe": "Für Öffnungszeiten und Bereitschaft außerhalb der Öffnungszeiten bitte anrufen",
+          "descriptionDe": "Eine Praxis in Rapallo mit Schwerpunkt auf Orthopädie und Chirurgie, die auch eine Abdeckung außerhalb der Öffnungszeiten und im Notfall anbietet, eine nützliche Rückfalloption, wenn die Praxen in Santa Margherita geschlossen sind. Rapallo liegt ein paar Minuten weiter die Küste entlang, mit Zug, Bus oder Fähre erreichbar.",
+          "petPolicyDe": "Hunde und Katzen; für Notfälle bitte anrufen",
+          "servicesDe": "Orthopädie, Chirurgie, allgemeine Versorgung, Notfallabdeckung",
+          "tipDe": "Rufen Sie vorher an, um zu bestätigen, dass man Sie behandeln kann, besonders bei einem Notfall außerhalb der Öffnungszeiten"
         }
       ],
       "tipsEn": [
@@ -578,24 +837,76 @@
         "Leve o passaporte europeu e o boletim de vacinas do seu cão, e guarde um número de veterinário antes de ir para os trilhos."
       ],
       "faqsEn": [
-        {"q": "Is there a vet in Portofino?", "a": "No, the village has no vet. The nearest clinics are in Santa Margherita Ligure, about a 17-minute bus ride or a short ferry away, including Ambulatorio Veterinario Bonino and the Siegel group practice. Rapallo, a little further, has more options."},
-        {"q": "What do I do in an emergency?", "a": "Call ahead: Studio Veterinario Pagella in Rapallo lists out-of-hours and emergency cover, and Clinica Veterinaria Tigullio in Chiavari has a 24h number, +39 0185 301596. The national emergency number in Italy is 112. Rotas change, so phone before travelling."},
-        {"q": "Do I need my dog's paperwork?", "a": "Yes. Carry the EU pet passport and vaccination record; you may be asked for them at a clinic, and they are also required on the ferries and buses. Keep a vet's number saved before you head onto the promontory trails, where signal can be patchy."}
+        {
+          "q": "Is there a vet in Portofino?",
+          "a": "No, the village has no vet. The nearest clinics are in Santa Margherita Ligure, about a 17-minute bus ride or a short ferry away, including Ambulatorio Veterinario Bonino and the Siegel group practice. Rapallo, a little further, has more options."
+        },
+        {
+          "q": "What do I do in an emergency?",
+          "a": "Call ahead: Studio Veterinario Pagella in Rapallo lists out-of-hours and emergency cover, and Clinica Veterinaria Tigullio in Chiavari has a 24h number, +39 0185 301596. The national emergency number in Italy is 112. Rotas change, so phone before travelling."
+        },
+        {
+          "q": "Do I need my dog's paperwork?",
+          "a": "Yes. Carry the EU pet passport and vaccination record; you may be asked for them at a clinic, and they are also required on the ferries and buses. Keep a vet's number saved before you head onto the promontory trails, where signal can be patchy."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il un vétérinaire à Portofino ?", "a": "Non, le village n'a pas de vétérinaire. Les cliniques les plus proches sont à Santa Margherita Ligure, à environ 17 minutes de bus ou un court ferry, dont l'Ambulatorio Veterinario Bonino et le cabinet de groupe Siegel. Rapallo, un peu plus loin, offre davantage d'options."},
-        {"q": "Que faire en cas d'urgence ?", "a": "Appelez avant : le Studio Veterinario Pagella à Rapallo indique une garde hors heures, et la Clinica Veterinaria Tigullio à Chiavari a un numéro 24h, +39 0185 301596. Le numéro d'urgence national en Italie est le 112. Les gardes changent, téléphonez donc avant de vous déplacer."},
-        {"q": "Faut-il les papiers de mon chien ?", "a": "Oui. Emportez le passeport européen et le carnet de vaccination ; on peut vous les demander en clinique, et ils sont aussi exigés sur les ferries et les bus. Gardez un numéro de vétérinaire enregistré avant de partir sur les sentiers du promontoire, où le réseau peut être capricieux."}
+        {
+          "q": "Y a-t-il un vétérinaire à Portofino ?",
+          "a": "Non, le village n'a pas de vétérinaire. Les cliniques les plus proches sont à Santa Margherita Ligure, à environ 17 minutes de bus ou un court ferry, dont l'Ambulatorio Veterinario Bonino et le cabinet de groupe Siegel. Rapallo, un peu plus loin, offre davantage d'options."
+        },
+        {
+          "q": "Que faire en cas d'urgence ?",
+          "a": "Appelez avant : le Studio Veterinario Pagella à Rapallo indique une garde hors heures, et la Clinica Veterinaria Tigullio à Chiavari a un numéro 24h, +39 0185 301596. Le numéro d'urgence national en Italie est le 112. Les gardes changent, téléphonez donc avant de vous déplacer."
+        },
+        {
+          "q": "Faut-il les papiers de mon chien ?",
+          "a": "Oui. Emportez le passeport européen et le carnet de vaccination ; on peut vous les demander en clinique, et ils sont aussi exigés sur les ferries et les bus. Gardez un numéro de vétérinaire enregistré avant de partir sur les sentiers du promontoire, où le réseau peut être capricieux."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay veterinario en Portofino?", "a": "No, el pueblo no tiene veterinario. Las clínicas más cercanas están en Santa Margherita Ligure, a unos 17 minutos en autobús o un corto ferry, entre ellas el Ambulatorio Veterinario Bonino y la consulta de grupo Siegel. Rapallo, algo más lejos, tiene más opciones."},
-        {"q": "¿Qué hago en una urgencia?", "a": "Llama antes: el Studio Veterinario Pagella en Rapallo indica guardia fuera de horario, y la Clinica Veterinaria Tigullio en Chiavari tiene un número 24h, +39 0185 301596. El número de emergencias nacional en Italia es el 112. Las guardias cambian, así que telefonea antes de desplazarte."},
-        {"q": "¿Necesito la documentación de mi perro?", "a": "Sí. Lleva el pasaporte europeo y la cartilla de vacunación; pueden pedírtelos en la clínica, y también se exigen en los ferries y autobuses. Guarda un número de veterinario antes de salir a los senderos del promontorio, donde la cobertura puede fallar."}
+        {
+          "q": "¿Hay veterinario en Portofino?",
+          "a": "No, el pueblo no tiene veterinario. Las clínicas más cercanas están en Santa Margherita Ligure, a unos 17 minutos en autobús o un corto ferry, entre ellas el Ambulatorio Veterinario Bonino y la consulta de grupo Siegel. Rapallo, algo más lejos, tiene más opciones."
+        },
+        {
+          "q": "¿Qué hago en una urgencia?",
+          "a": "Llama antes: el Studio Veterinario Pagella en Rapallo indica guardia fuera de horario, y la Clinica Veterinaria Tigullio en Chiavari tiene un número 24h, +39 0185 301596. El número de emergencias nacional en Italia es el 112. Las guardias cambian, así que telefonea antes de desplazarte."
+        },
+        {
+          "q": "¿Necesito la documentación de mi perro?",
+          "a": "Sí. Lleva el pasaporte europeo y la cartilla de vacunación; pueden pedírtelos en la clínica, y también se exigen en los ferries y autobuses. Guarda un número de veterinario antes de salir a los senderos del promontorio, donde la cobertura puede fallar."
+        }
       ],
       "faqsPt": [
-        {"q": "Há veterinário em Portofino?", "a": "Não, a vila não tem veterinário. As clínicas mais próximas ficam em Santa Margherita Ligure, a cerca de 17 minutos de autocarro ou um curto ferry, incluindo o Ambulatorio Veterinario Bonino e o consultório de grupo Siegel. Rapallo, um pouco mais longe, tem mais opções."},
-        {"q": "O que faço numa urgência?", "a": "Ligue antes: o Studio Veterinario Pagella em Rapallo indica escala fora de horas, e a Clinica Veterinaria Tigullio em Chiavari tem um número 24h, +39 0185 301596. O número de emergência nacional em Itália é o 112. As escalas mudam, por isso telefone antes de se deslocar."},
-        {"q": "Preciso dos documentos do meu cão?", "a": "Sim. Leve o passaporte europeu e o boletim de vacinas; podem pedi-los na clínica, e também são exigidos nos ferries e autocarros. Guarde um número de veterinário antes de ir para os trilhos do promontório, onde a rede pode falhar."}
+        {
+          "q": "Há veterinário em Portofino?",
+          "a": "Não, a vila não tem veterinário. As clínicas mais próximas ficam em Santa Margherita Ligure, a cerca de 17 minutos de autocarro ou um curto ferry, incluindo o Ambulatorio Veterinario Bonino e o consultório de grupo Siegel. Rapallo, um pouco mais longe, tem mais opções."
+        },
+        {
+          "q": "O que faço numa urgência?",
+          "a": "Ligue antes: o Studio Veterinario Pagella em Rapallo indica escala fora de horas, e a Clinica Veterinaria Tigullio em Chiavari tem um número 24h, +39 0185 301596. O número de emergência nacional em Itália é o 112. As escalas mudam, por isso telefone antes de se deslocar."
+        },
+        {
+          "q": "Preciso dos documentos do meu cão?",
+          "a": "Sim. Leve o passaporte europeu e o boletim de vacinas; podem pedi-los na clínica, e também são exigidos nos ferries e autocarros. Guarde um número de veterinário antes de ir para os trilhos do promontório, onde a rede pode falhar."
+        }
+      ],
+      "titleDe": "Tierärzte in der Nähe von Portofino",
+      "introDe": "Das Dorf Portofino hat keine eigene Tierarztpraxis, die nächsten Kliniken sind eine kurze Bus- oder Fährfahrt entfernt in Santa Margherita Ligure, mit weiteren Optionen in Rapallo. Bei einem alltäglichen Problem sind die Praxen in Santa Margherita am nächsten; bei einem Notfall außerhalb der Öffnungszeiten rufen Sie vorher an, da sich die Bereitschaft abwechselt. Führen Sie den EU-Heimtierausweis und den Impfnachweis Ihres Hundes stets mit sich, und speichern Sie eine Nummer, bevor Sie aufbrechen, denn auf dem Vorgebirge und seinen Wegen können sowohl Handyempfang als auch schneller Zugang zu einem Tierarzt eingeschränkt sein.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Tierarzt in Portofino?",
+          "a": "Nein, das Dorf hat keinen Tierarzt. Die nächsten Praxen liegen in Santa Margherita Ligure, etwa 17 Minuten mit dem Bus oder eine kurze Fährfahrt entfernt, darunter das Ambulatorio Veterinario Bonino und die Gruppenpraxis Siegel. Rapallo, etwas weiter entfernt, bietet mehr Optionen."
+        },
+        {
+          "q": "Was mache ich im Notfall?",
+          "a": "Rufen Sie vorher an: Das Studio Veterinario Pagella in Rapallo führt eine Notfall- und Bereitschaftsabdeckung außerhalb der Öffnungszeiten, und die Clinica Veterinaria Tigullio in Chiavari hat eine 24-Stunden-Nummer, +39 0185 301596. Die nationale Notrufnummer in Italien ist 112. Die Bereitschaftspläne ändern sich, rufen Sie also vor der Fahrt an."
+        },
+        {
+          "q": "Brauche ich die Papiere meines Hundes?",
+          "a": "Ja. Führen Sie den EU-Heimtierausweis und den Impfnachweis mit, in einer Klinik können Sie danach gefragt werden, und sie sind auch auf den Fähren und Bussen erforderlich. Speichern Sie die Nummer eines Tierarztes, bevor Sie sich auf die Wege des Vorgebirges begeben, wo der Empfang lückenhaft sein kann."
+        }
       ]
     },
     "tips": {
@@ -637,24 +948,76 @@
         "Trilhos e pedra escaldam no verão; caminhe cedo, leve água e tigela, e proteja as almofadinhas na rocha quente."
       ],
       "faqsEn": [
-        {"q": "Is Portofino good for a dog?", "a": "For walks and views, yes; for beaches, no. It is a flat, easy harbour to stroll with a dog, with a wonderful climb to Castello Brown and the lighthouse and genuine leashed trails through the Parco di Portofino to San Fruttuoso. But it is a rocky, exclusive coast with no real dog beach, so come for the scenery and hiking rather than swimming."},
-        {"q": "What is the single best thing to do here with a dog?", "a": "Walk the flat harbour, then take the easy path up to Castello Brown and on to the Faro di Portofino lighthouse for the classic panorama, all leashed-dog friendly. With more time and a fit dog, add the park trail to San Fruttuoso and return by ferry."},
-        {"q": "When should I visit with a dog?", "a": "Spring and autumn are ideal: the trails and stone are cooler, the crowds thinner and the sun kinder on paws. Midsummer is hot and very busy, so if you come then, walk early, carry water and stick to shaded, lower routes."}
+        {
+          "q": "Is Portofino good for a dog?",
+          "a": "For walks and views, yes; for beaches, no. It is a flat, easy harbour to stroll with a dog, with a wonderful climb to Castello Brown and the lighthouse and genuine leashed trails through the Parco di Portofino to San Fruttuoso. But it is a rocky, exclusive coast with no real dog beach, so come for the scenery and hiking rather than swimming."
+        },
+        {
+          "q": "What is the single best thing to do here with a dog?",
+          "a": "Walk the flat harbour, then take the easy path up to Castello Brown and on to the Faro di Portofino lighthouse for the classic panorama, all leashed-dog friendly. With more time and a fit dog, add the park trail to San Fruttuoso and return by ferry."
+        },
+        {
+          "q": "When should I visit with a dog?",
+          "a": "Spring and autumn are ideal: the trails and stone are cooler, the crowds thinner and the sun kinder on paws. Midsummer is hot and very busy, so if you come then, walk early, carry water and stick to shaded, lower routes."
+        }
       ],
       "faqsFr": [
-        {"q": "Portofino est-il bien pour un chien ?", "a": "Pour les balades et les vues, oui ; pour les plages, non. C'est un port plat et facile à parcourir avec un chien, avec une superbe montée au Castello Brown et au phare et de vrais sentiers en laisse dans le Parco di Portofino vers San Fruttuoso. Mais c'est une côte rocheuse et exclusive sans vraie plage pour chiens : venez pour les paysages et la randonnée plutôt que la baignade."},
-        {"q": "Quelle est la meilleure chose à faire ici avec un chien ?", "a": "Parcourez le port plat, puis prenez le chemin facile vers le Castello Brown et jusqu'au phare Faro di Portofino pour le panorama classique, le tout accessible en laisse. Avec plus de temps et un chien en forme, ajoutez le sentier du parc vers San Fruttuoso et rentrez en ferry."},
-        {"q": "Quand venir avec un chien ?", "a": "Le printemps et l'automne sont idéaux : sentiers et pierre plus frais, foules moindres et soleil plus doux pour les coussinets. Le plein été est chaud et très fréquenté ; si vous venez alors, marchez tôt, emportez de l'eau et tenez-vous aux itinéraires bas et ombragés."}
+        {
+          "q": "Portofino est-il bien pour un chien ?",
+          "a": "Pour les balades et les vues, oui ; pour les plages, non. C'est un port plat et facile à parcourir avec un chien, avec une superbe montée au Castello Brown et au phare et de vrais sentiers en laisse dans le Parco di Portofino vers San Fruttuoso. Mais c'est une côte rocheuse et exclusive sans vraie plage pour chiens : venez pour les paysages et la randonnée plutôt que la baignade."
+        },
+        {
+          "q": "Quelle est la meilleure chose à faire ici avec un chien ?",
+          "a": "Parcourez le port plat, puis prenez le chemin facile vers le Castello Brown et jusqu'au phare Faro di Portofino pour le panorama classique, le tout accessible en laisse. Avec plus de temps et un chien en forme, ajoutez le sentier du parc vers San Fruttuoso et rentrez en ferry."
+        },
+        {
+          "q": "Quand venir avec un chien ?",
+          "a": "Le printemps et l'automne sont idéaux : sentiers et pierre plus frais, foules moindres et soleil plus doux pour les coussinets. Le plein été est chaud et très fréquenté ; si vous venez alors, marchez tôt, emportez de l'eau et tenez-vous aux itinéraires bas et ombragés."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Portofino es bueno para un perro?", "a": "Para paseos y vistas, sí; para playas, no. Es un puerto llano y cómodo para pasear con un perro, con una preciosa subida al Castello Brown y al faro y verdaderos senderos con correa por el Parco di Portofino hacia San Fruttuoso. Pero es una costa rocosa y exclusiva sin playa de verdad para perros: ven por el paisaje y el senderismo más que por el baño."},
-        {"q": "¿Qué es lo mejor que hacer aquí con un perro?", "a": "Pasea el puerto llano y luego toma el camino fácil hasta el Castello Brown y hasta el faro Faro di Portofino para el panorama clásico, todo apto con correa. Con más tiempo y un perro en forma, añade el sendero del parque hacia San Fruttuoso y vuelve en ferry."},
-        {"q": "¿Cuándo visitar con un perro?", "a": "La primavera y el otoño son ideales: senderos y piedra más frescos, menos gente y un sol más suave para las almohadillas. Pleno verano es caluroso y muy concurrido; si vienes entonces, camina temprano, lleva agua y quédate en rutas bajas y a la sombra."}
+        {
+          "q": "¿Portofino es bueno para un perro?",
+          "a": "Para paseos y vistas, sí; para playas, no. Es un puerto llano y cómodo para pasear con un perro, con una preciosa subida al Castello Brown y al faro y verdaderos senderos con correa por el Parco di Portofino hacia San Fruttuoso. Pero es una costa rocosa y exclusiva sin playa de verdad para perros: ven por el paisaje y el senderismo más que por el baño."
+        },
+        {
+          "q": "¿Qué es lo mejor que hacer aquí con un perro?",
+          "a": "Pasea el puerto llano y luego toma el camino fácil hasta el Castello Brown y hasta el faro Faro di Portofino para el panorama clásico, todo apto con correa. Con más tiempo y un perro en forma, añade el sendero del parque hacia San Fruttuoso y vuelve en ferry."
+        },
+        {
+          "q": "¿Cuándo visitar con un perro?",
+          "a": "La primavera y el otoño son ideales: senderos y piedra más frescos, menos gente y un sol más suave para las almohadillas. Pleno verano es caluroso y muy concurrido; si vienes entonces, camina temprano, lleva agua y quédate en rutas bajas y a la sombra."
+        }
       ],
       "faqsPt": [
-        {"q": "Portofino é bom para um cão?", "a": "Para passeios e vistas, sim; para praias, não. É um porto plano e cómodo para passear com um cão, com uma bela subida ao Castello Brown e ao farol e verdadeiros trilhos com trela pelo Parco di Portofino até San Fruttuoso. Mas é uma costa rochosa e exclusiva sem praia a sério para cães: venha pela paisagem e pelas caminhadas mais do que pelo banho."},
-        {"q": "Qual é a melhor coisa a fazer aqui com um cão?", "a": "Passeie o porto plano e depois siga o caminho fácil até ao Castello Brown e até ao farol Faro di Portofino para o panorama clássico, tudo adequado com trela. Com mais tempo e um cão em forma, acrescente o trilho do parque até San Fruttuoso e volte de ferry."},
-        {"q": "Quando visitar com um cão?", "a": "A primavera e o outono são ideais: trilhos e pedra mais frescos, menos gente e um sol mais suave para as almofadinhas. O pleno verão é quente e muito concorrido; se vier então, caminhe cedo, leve água e fique por percursos baixos e à sombra."}
+        {
+          "q": "Portofino é bom para um cão?",
+          "a": "Para passeios e vistas, sim; para praias, não. É um porto plano e cómodo para passear com um cão, com uma bela subida ao Castello Brown e ao farol e verdadeiros trilhos com trela pelo Parco di Portofino até San Fruttuoso. Mas é uma costa rochosa e exclusiva sem praia a sério para cães: venha pela paisagem e pelas caminhadas mais do que pelo banho."
+        },
+        {
+          "q": "Qual é a melhor coisa a fazer aqui com um cão?",
+          "a": "Passeie o porto plano e depois siga o caminho fácil até ao Castello Brown e até ao farol Faro di Portofino para o panorama clássico, tudo adequado com trela. Com mais tempo e um cão em forma, acrescente o trilho do parque até San Fruttuoso e volte de ferry."
+        },
+        {
+          "q": "Quando visitar com um cão?",
+          "a": "A primavera e o outono são ideais: trilhos e pedra mais frescos, menos gente e um sol mais suave para as almofadinhas. O pleno verão é quente e muito concorrido; se vier então, caminhe cedo, leve água e fique por percursos baixos e à sombra."
+        }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch in Portofino mit Hund",
+      "introDe": "Portofino ist eines der meistfotografierten Dörfer Italiens, und mit Hund lohnt es sich, ehrlich zu sein, was es ist: ein winziger, exklusiver, weitgehend autofreier Hafen an einem steilen, felsigen Vorgebirge, mit einer flachen, einfachen Piazzetta und einem großen Naturpark dahinter, aber praktisch ohne Hundestrand. Die Höhepunkte für Hunde sind real, der Hafenspaziergang, der Aufstieg zum Castello Brown und zum Leuchtturm sowie die angeleinten Wege durch den Parco di Portofino nach San Fruttuoso, aber es sind Spaziergänge und Aussichten, kein Baden. Reisen Sie mit Bus oder Fähre von Santa Margherita an, halten Sie sich an die Leinen- und Maulkorbregeln im Verkehr, planen Sie um die Hitze herum, und verkaufen Sie sich die Strände nicht schöner, als sie sind.",
+      "faqsDe": [
+        {
+          "q": "Ist Portofino gut für einen Hund?",
+          "a": "Für Spaziergänge und Aussichten, ja; für Strände, nein. Es ist ein flacher, einfacher Hafen zum Spazieren mit Hund, mit einem wunderbaren Aufstieg zum Castello Brown und zum Leuchtturm sowie echten angeleinten Wegen durch den Parco di Portofino nach San Fruttuoso. Aber es ist eine felsige, exklusive Küste ohne echten Hundestrand, kommen Sie also wegen der Landschaft und des Wanderns statt zum Schwimmen."
+        },
+        {
+          "q": "Was ist die eine beste Sache, die man hier mit Hund unternehmen kann?",
+          "a": "Gehen Sie den flachen Hafen entlang, dann den einfachen Weg hinauf zum Castello Brown und weiter zum Leuchtturm Faro di Portofino für das klassische Panorama, alles angeleint-hundefreundlich. Mit mehr Zeit und einem fitten Hund kommt der Parkweg nach San Fruttuoso mit Rückkehr per Fähre dazu."
+        },
+        {
+          "q": "Wann sollte ich mit Hund hierher kommen?",
+          "a": "Frühling und Herbst sind ideal: die Wege und der Stein sind kühler, die Menschenmassen dünner und die Sonne milder für die Pfoten. Der Hochsommer ist heiß und sehr voll, kommen Sie dann also, gehen Sie früh, führen Sie Wasser mit und bleiben Sie auf schattigen, tiefer gelegenen Routen."
+        }
       ]
     },
     "attractions": {
@@ -688,7 +1051,11 @@
           "tipFr": "La montée et les terrasses sont le clou ; venez pour la vue, pas pour l'intérieur",
           "tipEs": "La subida y las terrazas son lo mejor; ve por la vista, no por el interior",
           "tipPt": "A subida e as esplanadas são o destaque; vá pela vista, não pelo interior",
-          "googleMapsUrl": "https://maps.google.com/?q=Castello+Brown+Portofino"
+          "googleMapsUrl": "https://maps.google.com/?q=Castello+Brown+Portofino",
+          "descriptionDe": "Eine mittelalterliche Festung, umgebaut zur Villa, hoch über dem Hafen gelegen, deren Gelände und Panoramaterrassen den klassischen Blick hinunter über Portofino bieten. Der Freiluftweg hinauf und die Gärten sind das Anziehende für Hundebesitzer; die Regelung für den Innenbereich kann sich ändern, bestätigen Sie sie also vor dem Betreten.",
+          "dogPolicyDe": "Angeleinte Hunde auf den Außenwegen und dem Gelände; Innenzugang bitte bestätigen",
+          "admissionFeeDe": "Park- und Schlosskarte 10 Euro; kostenlos unter 12 Jahren",
+          "tipDe": "Der Aufstieg und die Terrassen sind der Höhepunkt; gehen Sie wegen der Aussicht hin, nicht wegen des Innenraums"
         },
         {
           "name": "Faro di Portofino",
@@ -711,7 +1078,11 @@
           "tipFr": "Combinez-le avec le Castello Brown ; le chemin est exposé, emportez de l'eau par forte chaleur",
           "tipEs": "Combínalo con el Castello Brown; el camino es expuesto, lleva agua con calor",
           "tipPt": "Combine-o com o Castello Brown; o caminho é exposto, leve água no calor",
-          "googleMapsUrl": "https://maps.google.com/?q=Faro+di+Portofino"
+          "googleMapsUrl": "https://maps.google.com/?q=Faro+di+Portofino",
+          "descriptionDe": "Der Leuchtturm an der Spitze des Vorgebirges, erreichbar über einen malerischen Freiluftweg, der am Castello Brown vorbeiführt, mit einer Bar an der Klippe unterwegs. Er ist ein Favorit für angeleinte Hunde: ein einfacher, panoramischer Hin- und Rückweg vom Dorf mit weitem Meerblick.",
+          "dogPolicyDe": "Angeleinte Hunde auf dem Freiluftweg zum Leuchtturm willkommen",
+          "admissionFeeDe": "Der Weg ist kostenlos; jede Bar an der Klippe ist vor Ort zu bezahlen",
+          "tipDe": "Kombinieren Sie ihn mit dem Castello Brown; der Weg ist exponiert, bringen Sie bei Hitze also Wasser mit"
         },
         {
           "name": "Abbazia di San Fruttuoso",
@@ -734,7 +1105,11 @@
           "tipFr": "Faites le sentier depuis Portofino et rentrez en ferry ; réservez la garde si vous voulez entrer",
           "tipEs": "Haz el sendero desde Portofino y vuelve en ferry; reserva la guardería si quieres entrar",
           "tipPt": "Faça o trilho desde Portofino e volte de ferry; reserve a guarda se quiser entrar",
-          "googleMapsUrl": "https://maps.google.com/?q=Abbazia+di+San+Fruttuoso"
+          "googleMapsUrl": "https://maps.google.com/?q=Abbazia+di+San+Fruttuoso",
+          "descriptionDe": "Eine tausend Jahre alte Abtei in einer verborgenen Bucht, nur zu Fuß oder per Boot erreichbar, betreut von der FAI. Kleine Hunde dürfen hinein, wenn sie getragen werden oder in einer Transportbox sind, und es gibt am Eingang sogar einen beaufsichtigten Hundebetreuungsdienst (Bauadvisor), der mindestens 48 Stunden im Voraus buchbar ist.",
+          "dogPolicyDe": "Kleine Hunde nur getragen im Inneren erlaubt; beaufsichtigte Hundebetreuung am Eingang (48 Std. im Voraus buchen)",
+          "admissionFeeDe": "FAI-Eintritt; ermäßigt für Mitglieder",
+          "tipDe": "Gehen Sie den Weg von Portofino und kehren Sie mit der Fähre zurück; buchen Sie den Hundebetreuungsdienst, wenn Sie hineinmöchten"
         }
       ],
       "tipsEn": [
@@ -758,24 +1133,76 @@
         "Na abadia de San Fruttuoso, os cães pequenos só entram ao colo, e há um serviço de guarda vigiada reservável à entrada."
       ],
       "faqsEn": [
-        {"q": "Can I take my dog up to Castello Brown?", "a": "Yes to the outdoor part: the open-air path up from the harbour and the panoramic grounds are dog-friendly on the lead, and that is where the famous view is. Interior access policy can vary, so confirm at the ticket desk before taking a dog inside."},
-        {"q": "Is the walk to the lighthouse dog-friendly?", "a": "Yes. The path to the Faro di Portofino continues past Castello Brown along the point and is a leashed-dog favourite, an easy, scenic there-and-back with a cliffside bar en route. It is exposed, so carry water in warm weather."},
-        {"q": "Can my dog visit San Fruttuoso abbey?", "a": "Small dogs can enter the abbey only if carried or in a carrier, per the FAI rules. If you want to visit properly, there is a supervised dog-minding service at the entrance that you must book at least 48 hours in advance."}
+        {
+          "q": "Can I take my dog up to Castello Brown?",
+          "a": "Yes to the outdoor part: the open-air path up from the harbour and the panoramic grounds are dog-friendly on the lead, and that is where the famous view is. Interior access policy can vary, so confirm at the ticket desk before taking a dog inside."
+        },
+        {
+          "q": "Is the walk to the lighthouse dog-friendly?",
+          "a": "Yes. The path to the Faro di Portofino continues past Castello Brown along the point and is a leashed-dog favourite, an easy, scenic there-and-back with a cliffside bar en route. It is exposed, so carry water in warm weather."
+        },
+        {
+          "q": "Can my dog visit San Fruttuoso abbey?",
+          "a": "Small dogs can enter the abbey only if carried or in a carrier, per the FAI rules. If you want to visit properly, there is a supervised dog-minding service at the entrance that you must book at least 48 hours in advance."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je monter au Castello Brown avec mon chien ?", "a": "Oui pour la partie extérieure : le chemin en plein air depuis le port et les jardins panoramiques sont accessibles en laisse, et c'est là qu'est la fameuse vue. La politique d'accès à l'intérieur peut varier, confirmez à la billetterie avant d'entrer avec un chien."},
-        {"q": "La balade vers le phare est-elle adaptée aux chiens ?", "a": "Oui. Le chemin vers le Faro di Portofino prolonge celui du Castello Brown le long de la pointe et est un favori des chiens en laisse, un aller-retour facile et panoramique avec un bar à flanc de falaise en chemin. Il est exposé, emportez de l'eau par temps chaud."},
-        {"q": "Mon chien peut-il visiter l'abbaye de San Fruttuoso ?", "a": "Les petits chiens ne peuvent entrer dans l'abbaye que portés ou en sac, selon les règles du FAI. Pour visiter vraiment, il existe un service de garde surveillée à l'entrée, à réserver au moins 48 heures à l'avance."}
+        {
+          "q": "Puis-je monter au Castello Brown avec mon chien ?",
+          "a": "Oui pour la partie extérieure : le chemin en plein air depuis le port et les jardins panoramiques sont accessibles en laisse, et c'est là qu'est la fameuse vue. La politique d'accès à l'intérieur peut varier, confirmez à la billetterie avant d'entrer avec un chien."
+        },
+        {
+          "q": "La balade vers le phare est-elle adaptée aux chiens ?",
+          "a": "Oui. Le chemin vers le Faro di Portofino prolonge celui du Castello Brown le long de la pointe et est un favori des chiens en laisse, un aller-retour facile et panoramique avec un bar à flanc de falaise en chemin. Il est exposé, emportez de l'eau par temps chaud."
+        },
+        {
+          "q": "Mon chien peut-il visiter l'abbaye de San Fruttuoso ?",
+          "a": "Les petits chiens ne peuvent entrer dans l'abbaye que portés ou en sac, selon les règles du FAI. Pour visiter vraiment, il existe un service de garde surveillée à l'entrée, à réserver au moins 48 heures à l'avance."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo subir con mi perro al Castello Brown?", "a": "Sí a la parte exterior: el camino al aire libre desde el puerto y los jardines panorámicos son aptos con correa, y ahí está la famosa vista. La política de acceso al interior puede variar, así que confírmalo en la taquilla antes de entrar con un perro."},
-        {"q": "¿El paseo al faro es apto para perros?", "a": "Sí. El camino al Faro di Portofino continúa más allá del Castello Brown por la punta y es un favorito de los perros con correa, una ida y vuelta fácil y panorámica con un bar en el acantilado por el camino. Es expuesto, así que lleva agua con calor."},
-        {"q": "¿Puede mi perro visitar la abadía de San Fruttuoso?", "a": "Los perros pequeños solo pueden entrar en la abadía en brazos o en transportín, según las normas del FAI. Si quieres visitarla como es debido, hay un servicio de guardería vigilada en la entrada que debes reservar con al menos 48 horas de antelación."}
+        {
+          "q": "¿Puedo subir con mi perro al Castello Brown?",
+          "a": "Sí a la parte exterior: el camino al aire libre desde el puerto y los jardines panorámicos son aptos con correa, y ahí está la famosa vista. La política de acceso al interior puede variar, así que confírmalo en la taquilla antes de entrar con un perro."
+        },
+        {
+          "q": "¿El paseo al faro es apto para perros?",
+          "a": "Sí. El camino al Faro di Portofino continúa más allá del Castello Brown por la punta y es un favorito de los perros con correa, una ida y vuelta fácil y panorámica con un bar en el acantilado por el camino. Es expuesto, así que lleva agua con calor."
+        },
+        {
+          "q": "¿Puede mi perro visitar la abadía de San Fruttuoso?",
+          "a": "Los perros pequeños solo pueden entrar en la abadía en brazos o en transportín, según las normas del FAI. Si quieres visitarla como es debido, hay un servicio de guardería vigilada en la entrada que debes reservar con al menos 48 horas de antelación."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso subir com o meu cão ao Castello Brown?", "a": "Sim à parte exterior: o caminho ao ar livre desde o porto e os jardins panorâmicos são adequados com trela, e é aí que está a famosa vista. A política de acesso ao interior pode variar, por isso confirme na bilheteira antes de entrar com um cão."},
-        {"q": "O passeio ao farol é adequado a cães?", "a": "Sim. O caminho ao Faro di Portofino prolonga o do Castello Brown ao longo da ponta e é um favorito dos cães com trela, uma ida e volta fácil e panorâmica com um bar na falésia pelo caminho. É exposto, por isso leve água no calor."},
-        {"q": "O meu cão pode visitar a abadia de San Fruttuoso?", "a": "Os cães pequenos só podem entrar na abadia ao colo ou em transportadora, segundo as regras do FAI. Se quiser visitá-la como deve ser, há um serviço de guarda vigiada à entrada que deve reservar com pelo menos 48 horas de antecedência."}
+        {
+          "q": "Posso subir com o meu cão ao Castello Brown?",
+          "a": "Sim à parte exterior: o caminho ao ar livre desde o porto e os jardins panorâmicos são adequados com trela, e é aí que está a famosa vista. A política de acesso ao interior pode variar, por isso confirme na bilheteira antes de entrar com um cão."
+        },
+        {
+          "q": "O passeio ao farol é adequado a cães?",
+          "a": "Sim. O caminho ao Faro di Portofino prolonga o do Castello Brown ao longo da ponta e é um favorito dos cães com trela, uma ida e volta fácil e panorâmica com um bar na falésia pelo caminho. É exposto, por isso leve água no calor."
+        },
+        {
+          "q": "O meu cão pode visitar a abadia de San Fruttuoso?",
+          "a": "Os cães pequenos só podem entrar na abadia ao colo ou em transportadora, segundo as regras do FAI. Se quiser visitá-la como deve ser, há um serviço de guarda vigiada à entrada que deve reservar com pelo menos 48 horas de antecedência."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Portofino",
+      "introDe": "Portofinos Sehenswürdigkeiten liegen größtenteils im Freien, was einem Hund gut passt. Von der flachen Hafenpiazzetta führt ein sanfter Weg an der Kirche San Giorgio vorbei zum Castello Brown und weiter zum Leuchtturm an der Landspitze, alles im Freien, wo angeleinte Hunde sich wohlfühlen. Auf der anderen Seite des Vorgebirges liegt die Abtei von San Fruttuoso in ihrer verborgenen Bucht, zu Fuß oder per Boot erreichbar, und während nur kleine, getragene Hunde hineindürfen, gibt es am Eingang sogar einen beaufsichtigten Hundebetreuungsdienst. Die meisten Innenräume sind für Hunde tabu, aber die Spaziergänge, Terrassen und Aussichtspunkte sind der eigentliche Grund für den Besuch.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund zum Castello Brown mitnehmen?",
+          "a": "Ja, zum Außenbereich: Der Freiluftweg vom Hafen hinauf und das Panoramagelände sind angeleint hundefreundlich, und dort befindet sich der berühmte Ausblick. Die Zugangsregelung für den Innenbereich kann variieren, bestätigen Sie sie daher an der Kasse, bevor Sie mit einem Hund hineingehen."
+        },
+        {
+          "q": "Ist der Weg zum Leuchtturm hundefreundlich?",
+          "a": "Ja. Der Weg zum Faro di Portofino führt am Castello Brown vorbei weiter über die Landspitze und ist ein Favorit für angeleinte Hunde, ein einfacher, malerischer Hin- und Rückweg mit einer Bar an der Klippe unterwegs. Er ist exponiert, führen Sie bei warmem Wetter also Wasser mit."
+        },
+        {
+          "q": "Kann mein Hund die Abtei San Fruttuoso besuchen?",
+          "a": "Kleine Hunde dürfen die Abtei nur getragen oder in einer Transportbox betreten, gemäß den Vorschriften der FAI. Wenn Sie ordnungsgemäß besuchen möchten, gibt es am Eingang einen beaufsichtigten Hundebetreuungsdienst, den Sie mindestens 48 Stunden im Voraus buchen müssen."
+        }
       ]
     },
     "petsitting": {
@@ -805,7 +1232,10 @@
           "servicesFr": "Hébergement, garderie, promenade, visites à domicile",
           "servicesEs": "Alojamiento, guardería, paseos, visitas a domicilio",
           "servicesPt": "Alojamento, creche, passeios, visitas ao domicílio",
-          "openingHours": "Bookable online year-round"
+          "openingHours": "Bookable online year-round",
+          "descriptionDe": "Eine vielgenutzte Plattform, die Halter mit geprüften örtlichen Hundebetreuern und Gassigängern verbindet, einschließlich Betreuern rund um Santa Margherita, Rapallo und die Küste von Portofino. Sie durchsuchen Profile, Bewertungen und Preise und buchen direkt.",
+          "petPolicyDe": "Hundeunterbringung, Tagesbetreuung und Gassi-Service über örtliche Betreuer",
+          "servicesDe": "Unterbringung, Tagesbetreuung, Gassi-Service, Kurzbesuche"
         },
         {
           "name": "Rover Italia",
@@ -824,7 +1254,10 @@
           "servicesFr": "Hébergement, garderie, promenade, garde à domicile",
           "servicesEs": "Alojamiento, guardería, paseos, cuidado a domicilio",
           "servicesPt": "Alojamento, creche, passeios, guarda ao domicílio",
-          "openingHours": "Bookable online year-round"
+          "openingHours": "Bookable online year-round",
+          "descriptionDe": "Ein internationaler Betreuer-Marktplatz, der in Ligurien aktiv ist, nützlich, um bei einem Besuch in Portofino Tagesbetreuung, Unterbringung oder einen Gassigänger in der Nähe von Santa Margherita und Rapallo zu finden. Profile, Bewertungen und Preise werden angezeigt, sodass Sie direkt einen örtlichen Betreuer buchen können.",
+          "petPolicyDe": "Hundeunterbringung, Tagesbetreuung und Gassi-Service über örtliche Betreuer",
+          "servicesDe": "Unterbringung, Tagesbetreuung, Gassi-Service, Haussitting"
         },
         {
           "name": "San Fruttuoso abbey dog-minding (Bauadvisor)",
@@ -843,7 +1276,10 @@
           "servicesFr": "Garde surveillée à l'entrée de l'abbaye",
           "servicesEs": "Guardería vigilada en la entrada de la abadía",
           "servicesPt": "Guarda vigiada à entrada da abadia",
-          "openingHours": "During abbey opening hours; reserve at least 48h ahead"
+          "openingHours": "During abbey opening hours; reserve at least 48h ahead",
+          "descriptionDe": "Für die meistbesuchte Sehenswürdigkeit auf dem gesamten Vorgebirge bietet die von der FAI betriebene Abtei San Fruttuoso am Eingang einen beaufsichtigten Hundebetreuungsdienst durch professionelle Betreuer an, sodass Sie im Inneren besichtigen können, während sich jemand um Ihren Hund kümmert. Eine Buchung ist mindestens 48 Stunden im Voraus erforderlich.",
+          "petPolicyDe": "Beaufsichtigte Hundebetreuung vor Ort während Ihres Besuchs; 48 Std. im Voraus buchen",
+          "servicesDe": "Beaufsichtigte Hundebetreuung am Eingang der Abtei"
         }
       ],
       "tipsEn": [
@@ -867,24 +1303,76 @@
         "Para visitar o interior da abadia de San Fruttuoso, reserve o seu serviço de guarda vigiada com pelo menos 48 horas de antecedência."
       ],
       "faqsEn": [
-        {"q": "Is there dog boarding in Portofino?", "a": "Not in the village itself, which is very small and exclusive. Use platforms like Pawshake or Rover to find vetted sitters, walkers and day care nearby in Santa Margherita, Rapallo or Camogli, and book directly after checking profiles and reviews."},
-        {"q": "Can I leave my dog while I visit an attraction?", "a": "Yes, at one key spot: the FAI abbey of San Fruttuoso runs a supervised dog-minding service at its entrance with professional handlers, so you can go inside while your dog is cared for. It must be booked at least 48 hours ahead."},
-        {"q": "How far ahead should I book a sitter?", "a": "In summer, a few days at least. The Tigullio is busy in high season and good local sitters get reserved quickly, so arranging care before you arrive is safer than hoping to find someone on the day."}
+        {
+          "q": "Is there dog boarding in Portofino?",
+          "a": "Not in the village itself, which is very small and exclusive. Use platforms like Pawshake or Rover to find vetted sitters, walkers and day care nearby in Santa Margherita, Rapallo or Camogli, and book directly after checking profiles and reviews."
+        },
+        {
+          "q": "Can I leave my dog while I visit an attraction?",
+          "a": "Yes, at one key spot: the FAI abbey of San Fruttuoso runs a supervised dog-minding service at its entrance with professional handlers, so you can go inside while your dog is cared for. It must be booked at least 48 hours ahead."
+        },
+        {
+          "q": "How far ahead should I book a sitter?",
+          "a": "In summer, a few days at least. The Tigullio is busy in high season and good local sitters get reserved quickly, so arranging care before you arrive is safer than hoping to find someone on the day."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il une pension pour chiens à Portofino ?", "a": "Pas dans le village même, qui est très petit et exclusif. Utilisez des plateformes comme Pawshake ou Rover pour trouver des sitters, promeneurs et garderies vérifiés à proximité, à Santa Margherita, Rapallo ou Camogli, et réservez directement après avoir vu profils et avis."},
-        {"q": "Puis-je laisser mon chien pendant une visite ?", "a": "Oui, à un endroit clé : l'abbaye de San Fruttuoso, gérée par le FAI, propose à son entrée un service de garde surveillée avec des maîtres-chiens professionnels, afin d'entrer pendant que votre chien est gardé. À réserver au moins 48 heures à l'avance."},
-        {"q": "Combien de temps à l'avance réserver un garde ?", "a": "En été, quelques jours au moins. Le Tigullio est très fréquenté en haute saison et les bons sitters locaux se réservent vite, mieux vaut donc organiser la garde avant d'arriver plutôt que d'espérer trouver quelqu'un sur place."}
+        {
+          "q": "Y a-t-il une pension pour chiens à Portofino ?",
+          "a": "Pas dans le village même, qui est très petit et exclusif. Utilisez des plateformes comme Pawshake ou Rover pour trouver des sitters, promeneurs et garderies vérifiés à proximité, à Santa Margherita, Rapallo ou Camogli, et réservez directement après avoir vu profils et avis."
+        },
+        {
+          "q": "Puis-je laisser mon chien pendant une visite ?",
+          "a": "Oui, à un endroit clé : l'abbaye de San Fruttuoso, gérée par le FAI, propose à son entrée un service de garde surveillée avec des maîtres-chiens professionnels, afin d'entrer pendant que votre chien est gardé. À réserver au moins 48 heures à l'avance."
+        },
+        {
+          "q": "Combien de temps à l'avance réserver un garde ?",
+          "a": "En été, quelques jours au moins. Le Tigullio est très fréquenté en haute saison et les bons sitters locaux se réservent vite, mieux vaut donc organiser la garde avant d'arriver plutôt que d'espérer trouver quelqu'un sur place."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay guardería canina en Portofino?", "a": "En el pueblo mismo no, ya que es muy pequeño y exclusivo. Usa plataformas como Pawshake o Rover para encontrar cuidadores, paseadores y guarderías verificados cerca, en Santa Margherita, Rapallo o Camogli, y reserva directamente tras ver perfiles y reseñas."},
-        {"q": "¿Puedo dejar a mi perro mientras visito una atracción?", "a": "Sí, en un lugar clave: la abadía de San Fruttuoso, gestionada por el FAI, ofrece en su entrada un servicio de guardería vigilada con adiestradores profesionales, para poder entrar mientras cuidan de tu perro. Hay que reservar con al menos 48 horas de antelación."},
-        {"q": "¿Con cuánta antelación debo reservar un cuidador?", "a": "En verano, unos días como mínimo. El Tigullio está muy concurrido en temporada alta y los buenos cuidadores locales se reservan rápido, así que organizar el cuidado antes de llegar es más seguro que esperar encontrar a alguien el mismo día."}
+        {
+          "q": "¿Hay guardería canina en Portofino?",
+          "a": "En el pueblo mismo no, ya que es muy pequeño y exclusivo. Usa plataformas como Pawshake o Rover para encontrar cuidadores, paseadores y guarderías verificados cerca, en Santa Margherita, Rapallo o Camogli, y reserva directamente tras ver perfiles y reseñas."
+        },
+        {
+          "q": "¿Puedo dejar a mi perro mientras visito una atracción?",
+          "a": "Sí, en un lugar clave: la abadía de San Fruttuoso, gestionada por el FAI, ofrece en su entrada un servicio de guardería vigilada con adiestradores profesionales, para poder entrar mientras cuidan de tu perro. Hay que reservar con al menos 48 horas de antelación."
+        },
+        {
+          "q": "¿Con cuánta antelación debo reservar un cuidador?",
+          "a": "En verano, unos días como mínimo. El Tigullio está muy concurrido en temporada alta y los buenos cuidadores locales se reservan rápido, así que organizar el cuidado antes de llegar es más seguro que esperar encontrar a alguien el mismo día."
+        }
       ],
       "faqsPt": [
-        {"q": "Há alojamento para cães em Portofino?", "a": "Na própria vila não, pois é muito pequena e exclusiva. Use plataformas como a Pawshake ou a Rover para encontrar sitters, passeadores e creches verificados por perto, em Santa Margherita, Rapallo ou Camogli, e reserve diretamente depois de ver perfis e avaliações."},
-        {"q": "Posso deixar o meu cão enquanto visito uma atração?", "a": "Sim, num sítio-chave: a abadia de San Fruttuoso, gerida pelo FAI, oferece à entrada um serviço de guarda vigiada com tratadores profissionais, para poder entrar enquanto cuidam do seu cão. Tem de ser reservado com pelo menos 48 horas de antecedência."},
-        {"q": "Com que antecedência devo reservar um cuidador?", "a": "No verão, alguns dias no mínimo. O Tigullio é muito concorrido na época alta e os bons cuidadores locais reservam-se depressa, por isso organizar o apoio antes de chegar é mais seguro do que esperar encontrar alguém no próprio dia."}
+        {
+          "q": "Há alojamento para cães em Portofino?",
+          "a": "Na própria vila não, pois é muito pequena e exclusiva. Use plataformas como a Pawshake ou a Rover para encontrar sitters, passeadores e creches verificados por perto, em Santa Margherita, Rapallo ou Camogli, e reserve diretamente depois de ver perfis e avaliações."
+        },
+        {
+          "q": "Posso deixar o meu cão enquanto visito uma atração?",
+          "a": "Sim, num sítio-chave: a abadia de San Fruttuoso, gerida pelo FAI, oferece à entrada um serviço de guarda vigiada com tratadores profissionais, para poder entrar enquanto cuidam do seu cão. Tem de ser reservado com pelo menos 48 horas de antecedência."
+        },
+        {
+          "q": "Com que antecedência devo reservar um cuidador?",
+          "a": "No verão, alguns dias no mínimo. O Tigullio é muito concorrido na época alta e os bons cuidadores locais reservam-se depressa, por isso organizar o apoio antes de chegar é mais seguro do que esperar encontrar alguém no próprio dia."
+        }
+      ],
+      "titleDe": "Hundebetreuung & Unterbringung in der Nähe von Portofino",
+      "introDe": "Portofino ist winzig und exklusiv, daher gibt es im Dorf selbst keine eigenen Hundepensionen; die praktischen Optionen sind Online-Plattformen, die Sie mit geprüften Betreuern und Gassigängern im weiteren Tigullio-Gebiet verbinden, in Santa Margherita, Rapallo und Camogli. Für eine einzelne Sehenswürdigkeit denken Sie daran, dass die Abtei von San Fruttuoso an ihrem Eingang einen buchbaren, beaufsichtigten Hundebetreuungsdienst anbietet. Für einen halben Tag oder einen Abend außer Haus durchsuchen Sie Profile und Bewertungen auf den großen Plattformen und buchen Sie direkt eine örtliche Betreuungsperson.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Hundeunterbringung in Portofino?",
+          "a": "Nicht im Dorf selbst, das sehr klein und exklusiv ist. Nutzen Sie Plattformen wie Pawshake oder Rover, um geprüfte Betreuer, Gassigänger und Tagesbetreuung in der Nähe zu finden, in Santa Margherita, Rapallo oder Camogli, und buchen Sie direkt nach Prüfung von Profilen und Bewertungen."
+        },
+        {
+          "q": "Kann ich meinen Hund lassen, während ich eine Sehenswürdigkeit besuche?",
+          "a": "Ja, an einem zentralen Ort: Die FAI-Abtei San Fruttuoso betreibt an ihrem Eingang einen beaufsichtigten Hundebetreuungsdienst mit professionellen Betreuern, sodass Sie hineingehen können, während sich jemand um Ihren Hund kümmert. Er muss mindestens 48 Stunden im Voraus gebucht werden."
+        },
+        {
+          "q": "Wie weit im Voraus sollte ich einen Betreuer buchen?",
+          "a": "Im Sommer mindestens ein paar Tage. Das Tigullio-Gebiet ist in der Hochsaison stark frequentiert, und gute örtliche Betreuer sind schnell ausgebucht, daher ist es sicherer, die Betreuung vor der Ankunft zu organisieren, als am Tag selbst auf gut Glück jemanden zu finden."
+        }
       ]
     }
   }

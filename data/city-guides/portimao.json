@@ -1,4 +1,10 @@
-{"slug":"portimao","name":"Portimão","country":"Portugal","flag":"🇵🇹","lastUpdated":"2026-06-19","guides":{
+{
+  "slug": "portimao",
+  "name": "Portimão",
+  "country": "Portugal",
+  "flag": "🇵🇹",
+  "lastUpdated": "2026-06-19",
+  "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Portimão",
       "titleFr": "Restaurants acceptant les animaux à Portimão",
@@ -33,7 +39,11 @@
           "tipFr": "Réservez pour le dîner en été, la salle est petite et se remplit vite",
           "tipEs": "Reserva para cenar en verano, el comedor es pequeño y se llena rápido",
           "tipPt": "Reserve para o jantar no verão, a sala é pequena e enche depressa",
-          "googleMapsUrl": "https://maps.google.com/?q=M%C3%A3e+Terra+Portim%C3%A3o"
+          "googleMapsUrl": "https://maps.google.com/?q=M%C3%A3e+Terra+Portim%C3%A3o",
+          "descriptionDe": "Eine kleine, hoch bewertete pflanzenbetonte Küche im Zentrum von Portimão, mit lockerer Atmosphäre und einer treuen lokalen Stammkundschaft. Angeleinte Hunde sind willkommen, und das entspannte Tempo macht es zu einem leichten Mittagsstopp nach einem Spaziergang am Flussufer.",
+          "petPolicyDe": "Angeleinte Hunde willkommen",
+          "mustTryDe": "Saisonale vegetarische und vegane Gerichte",
+          "tipDe": "Im Sommer für das Abendessen reservieren, der Speiseraum ist klein und füllt sich schnell"
         },
         {
           "name": "Al Fresco",
@@ -59,7 +69,11 @@
           "tipFr": "Demandez une table en terrasse à l'ombre, en bordure, pour que votre chien ait de l'espace",
           "tipEs": "Pide una mesa de terraza con sombra en el borde para que tu perro tenga espacio",
           "tipPt": "Peça uma mesa de esplanada à sombra, na ponta, para o seu cão ter espaço",
-          "googleMapsUrl": "https://maps.google.com/?q=Al+Fresco+Portim%C3%A3o"
+          "googleMapsUrl": "https://maps.google.com/?q=Al+Fresco+Portim%C3%A3o",
+          "descriptionDe": "Ein seit langem bestehendes italienisches Lokal in der Nähe der westlichen Strände mit Hunderten begeisterten Bewertungen und großzügigen Außenplätzen. Hunde sind auf der Terrasse willkommen, was es zu einer angenehmen Wahl für ein entspanntes Familienessen in Küstennähe macht.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Pizza aus dem Holzofen, Pasta",
+          "tipDe": "Bitten Sie um einen schattigen Terrassentisch am Rand, damit Ihr Hund Platz zum Niederlassen hat"
         },
         {
           "name": "Tapas Do Mundo",
@@ -85,7 +99,11 @@
           "tipFr": "Venez en début de soirée pour avoir une table en terrasse avant que la vieille ville ne se remplisse",
           "tipEs": "Ve a primera hora de la tarde para coger una mesa fuera antes de que se llene el casco antiguo",
           "tipPt": "Vá ao início da noite para apanhar uma mesa na rua antes de a cidade antiga encher",
-          "googleMapsUrl": "https://maps.google.com/?q=Tapas+Do+Mundo+Portim%C3%A3o"
+          "googleMapsUrl": "https://maps.google.com/?q=Tapas+Do+Mundo+Portim%C3%A3o",
+          "descriptionDe": "Eine kreative Tapas- und Fusionsküche in der Altstadt mit starkem Ruf, einer einfallsreichen Speisekarte und guten Optionen für Vegetarier und Veganer. Angeleinte Hunde sind willkommen, und die zentrale Lage an der Straße ist praktisch nach einem Bummel durch den historischen Kern.",
+          "petPolicyDe": "Angeleinte Hunde willkommen",
+          "mustTryDe": "Rindertataki, Fusion-Tapas-Auswahl",
+          "tipDe": "Kommen Sie früh am Abend, um noch einen Außentisch zu ergattern, bevor sich die Altstadt füllt"
         }
       ],
       "tipsEn": [
@@ -163,6 +181,22 @@
           "q": "Os restaurantes de Portimão fornecem água para os cães?",
           "a": "Muitos fornecem, sobretudo as esplanadas de praia e de rio habituadas a visitantes internacionais. Se não houver uma taça à vista, o pessoal costuma trazer uma a pedido."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Portimão",
+      "introDe": "Portimão und sein Badeort Praia da Rocha haben eine entspannte Außengastronomie-Kultur, die gut zu Hunden passt, mit angeleinten Haustieren willkommen auf den meisten Terrassen entlang der Strandpromenade und der Uferpromenade am Arade. Im Algarve-Sommer sollten Sie schattige Terrassen und die kühleren Abendstunden bevorzugen und das Personal um einen Wassernapf bitten, denn fast immer ist einer vorhanden.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Portimão erlaubt?",
+          "a": "Die meisten Terrassen und Außenplätze entlang der Praia da Rocha und der Uferpromenade am Arade heißen angeleinte, gut erzogene Hunde willkommen. Der Zutritt drinnen liegt im Ermessen des jeweiligen Betreibers, daher lohnt sich immer eine kurze Nachfrage."
+        },
+        {
+          "q": "Wann ist die beste Zeit, im Algarve-Sommer mit Hund auswärts zu essen?",
+          "a": "Am Abend. Von etwa Juni bis September ist die Mittagshitze intensiv, essen Sie daher nach Sonnenuntergang, wenn die Terrassen kühler sind und das Bohlenholz der Promenade für Pfoten angenehm ist."
+        },
+        {
+          "q": "Bieten Restaurants in Portimão Wasser für Hunde an?",
+          "a": "Viele tun das, besonders die Strand- und Flussterrassen, die an internationale Besucher gewöhnt sind. Steht kein Napf bereit, bringt das Personal auf Nachfrage meist einen."
+        }
       ]
     },
     "parks": {
@@ -193,7 +227,10 @@
           "tipFr": "Parcourez-le tôt le matin ou après le coucher du soleil en été, le platelage et le sable deviennent brûlants à midi",
           "tipEs": "Recórrelo a primera hora o tras la puesta de sol en verano, la tarima y la arena se calientan mucho al mediodía",
           "tipPt": "Percorra-o de manhã cedo ou depois do pôr do sol no verão, o deque e a areia ficam muito quentes ao meio-dia",
-          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Rocha+passadi%C3%A7o+Portim%C3%A3o"
+          "googleMapsUrl": "https://maps.google.com/?q=Praia+da+Rocha+passadi%C3%A7o+Portim%C3%A3o",
+          "descriptionDe": "Ein langer Holzsteg verläuft entlang der gesamten Praia da Rocha unterhalb warmfarbener Klippen, gesäumt von Bars und Restaurants und zu jeder Stunde belebt von Spaziergängern, Läufern und Radfahrern. Es ist ein einfacher, flacher, malerischer Spaziergang für einen angeleinten Hund, der nach Westen zur Festung Santa Catarina und nach Osten zur Marina von Portimão führt.",
+          "offLeashAreaDe": "Keiner. Hunde auf dem Steg angeleint halten",
+          "tipDe": "Im Sommer früh morgens oder nach Sonnenuntergang gehen, die Bohlen und der Sand werden mittags sehr heiß"
         },
         {
           "name": "Ria de Alvor Boardwalk (Passadiços de Alvor)",
@@ -213,7 +250,10 @@
           "tipFr": "Emportez de l'eau, il y a peu d'ombre sur le marais et le bois renvoie la chaleur",
           "tipEs": "Lleva agua, hay poca sombra en la marisma y la madera refleja el calor",
           "tipPt": "Leve água, há pouca sombra no sapal e a madeira reflete o calor",
-          "googleMapsUrl": "https://maps.google.com/?q=Passadi%C3%A7os+de+Alvor"
+          "googleMapsUrl": "https://maps.google.com/?q=Passadi%C3%A7os+de+Alvor",
+          "descriptionDe": "Ein ausgedehntes Netz erhöhter Holzstege durchquert die Gezeitenlagunen, Salzmarschen und Dünen des Naturschutzgebiets Ria de Alvor an der Mündung des Flusses Alvor, mit Schleifen und Abzweigungen, die Sie so kurz oder lang gestalten können, wie Sie möchten. Hunde sind an der Leine willkommen, Sie müssen jedoch auf dem Steg bleiben und sie unter Kontrolle halten, um brütende Vögel und Wildtiere zu schützen.",
+          "offLeashAreaDe": "Keiner. Hunde müssen angeleint und auf dem Steg bleiben",
+          "tipDe": "Bringen Sie Wasser mit, es gibt kaum Schatten in der Marsch, und das Holz reflektiert die Hitze"
         },
         {
           "name": "Arade Riverfront Path (Zona Ribeirinha)",
@@ -233,7 +273,10 @@
           "tipFr": "Emportez des sacs à déjections, le bord de fleuve est très fréquenté et la municipalité attend que l'on ramasse",
           "tipEs": "Lleva bolsas para excrementos, la ribera es muy transitada y el ayuntamiento espera que se recojan",
           "tipPt": "Leve sacos para dejetos, a zona ribeirinha é muito usada e a autarquia espera que se apanhem",
-          "googleMapsUrl": "https://maps.google.com/?q=Zona+Ribeirinha+Portim%C3%A3o"
+          "googleMapsUrl": "https://maps.google.com/?q=Zona+Ribeirinha+Portim%C3%A3o",
+          "descriptionDe": "Die gestaltete Uferpromenade verläuft entlang des Arade im Zentrum von Portimão, vorbei an der Marina, den alten Fischerkais und der Praça Visconde de Bivar, mit offenem Pflaster und Bänken, die einen einfachen Stadtspaziergang ermöglichen. Sie verbindet das Stadtzentrum mit der Marina und ist eine praktische, teilweise schattige Route für einen angeleinten Hund zwischen den Mahlzeiten.",
+          "offLeashAreaDe": "Keiner. Stadtpromenade, Hunde angeleint halten",
+          "tipDe": "Kotbeutel mitführen, das Flussufer wird stark genutzt, und die Gemeinde erwartet, dass Abfall entfernt wird"
         }
       ],
       "tipsEn": [
@@ -310,6 +353,22 @@
         {
           "q": "Onde posso passear um cão no centro de Portimão?",
           "a": "O passeio ribeirinho do Arade, junto à marina e aos antigos cais, é o passeio central mais fácil, com caminhos abertos e bancos. Leve sacos para dejetos, pois a zona ribeirinha é movimentada e bem cuidada."
+        }
+      ],
+      "titleDe": "Hundeparks & Spaziergänge in Portimão",
+      "introDe": "Portimão ist wie geschaffen für Spaziergänge im Freien, von der Strandpromenade oberhalb der Klippen von Praia da Rocha über die grünen Uferwege entlang des Arade bis zu den breiten Holzstegen des Naturschutzgebiets Ria de Alvor. Halten Sie Hunde angeleint und gehen Sie in den kühleren Morgen- oder Abendstunden spazieren, denn die Mittagssonne der Algarve kann Pfoten und Haustiere im Sommer schnell überhitzen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf der Promenade von Praia da Rocha spazieren führen?",
+          "a": "Ja. Der Holzsteg entlang der Praia da Rocha ist für angeleinte Hunde geöffnet und einer der besten flachen Spaziergänge der Stadt. Gehen Sie im Sommer früh oder spät, da sich die Bohlen und der Sand unter der Mittagssonne aufheizen."
+        },
+        {
+          "q": "Sind Hunde am Holzsteg der Ria de Alvor erlaubt?",
+          "a": "Ja, an der Leine. Es handelt sich um ein geschütztes Naturschutzgebiet, daher müssen Sie auf dem Steg bleiben und Ihren Hund unter Kontrolle halten, um brütende und fressende Vögel nicht zu stören."
+        },
+        {
+          "q": "Wo kann ich in der Innenstadt von Portimão mit einem Hund spazieren gehen?",
+          "a": "Die Uferpromenade am Arade vorbei an Marina und alten Kais ist der einfachste zentrale Spaziergang, mit offenen Wegen und Bänken. Führen Sie Kotbeutel mit, da das Flussufer stark frequentiert und gut gepflegt ist."
         }
       ]
     },
@@ -433,6 +492,22 @@
           "q": "Como chego a Portimão a partir do Aeroporto de Faro com um cão?",
           "a": "O Aeroporto de Faro fica a cerca de 65 km. O mais simples com um cão é um táxi ou transfer pet-friendly reservado com antecedência; em alternativa, apanhe um comboio da CP via Faro cumprindo as regras de caixa e açaime acima."
         }
+      ],
+      "titleDe": "Reisen mit Haustieren in Portimão",
+      "introDe": "Portimão ist kompakt und gut zu Fuß erreichbar, und die meisten Haustierbesitzer bewegen sich zu Fuß zwischen Strandpromenade, Marina und Altstadt. Für längere Fahrten bedienen die Busse von Vamus Algarve die Region, und CP-Züge verkehren auf der Linha do Algarve ab dem Bahnhof Portimão, beide mit klaren Haustierregeln: kleine Haustiere reisen in einer Transportbox, größere Hunde müssen einen Maulkorb tragen, angeleint sein und ein Ticket haben.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund im Zug ab Portimão mitnehmen?",
+          "a": "Ja. CP erlaubt ein Haustier in einer Transportbox bis 60x35x35 cm kostenlos, eines pro Fahrgast. Ein Hund außerhalb der Box muss einen Maulkorb tragen, angeleint sein und benötigt ein Ticket, zum halben Preis in Regional- und InterRegional-Zügen."
+        },
+        {
+          "q": "Sind Hunde in Bussen von Vamus Algarve erlaubt?",
+          "a": "Kleine Haustiere in einer geschlossenen Transportbox werden im Allgemeinen akzeptiert. Größere Hunde müssen angeleint sein und einen Maulkorb tragen und reisen nach Ermessen des Fahrers, reisen Sie daher außerhalb der Stoßzeiten und führen Sie den Impfausweis Ihres Haustiers mit."
+        },
+        {
+          "q": "Wie komme ich vom Flughafen Faro mit Hund nach Portimão?",
+          "a": "Der Flughafen Faro ist etwa 65 km entfernt. Die einfachste Option mit Hund ist ein vorgebuchtes haustierfreundliches Taxi oder ein Transfer; alternativ nehmen Sie einen CP-Zug über Faro unter Beachtung der oben genannten Box- und Maulkorbregeln."
+        }
       ]
     },
     "beaches": {
@@ -515,6 +590,18 @@
           "q": "Há praias para cães perto de Portimão?",
           "a": "Não há uma grande praia para cães vedada na própria Portimão, mas as praias não concessionadas mais sossegadas como a Praia João de Arens costumam tolerar cães com trela todo o ano. Verifique sempre a sinalização local, pois as regras municipais podem mudar."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Portimão",
+      "introDe": "Die wichtigsten Badeort-Strände wie Praia da Rocha und Praia dos Três Castelos sind konzessionierte Blaue-Flagge-Strände, an denen Hunde während der Badesaison, etwa Juni bis September, verboten sind. Hunde werden ganzjährig an ruhigeren nicht-konzessionierten Buchten und Abschnitten wie der Praia João de Arens und Teilen der Praia do Alvor toleriert, sofern keine Beschilderung sie verbietet.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund im Sommer in Portimão an den Strand?",
+          "a": "Nicht an den wichtigsten konzessionierten Blaue-Flagge-Stränden wie Praia da Rocha und Praia dos Três Castelos, wo Hunde während der Badesaison von Juni bis September verboten sind. Nutzen Sie stattdessen nicht-konzessionierte Buchten wie Praia João de Arens oder den nicht-konzessionierten Abschnitt der Praia do Alvor."
+        },
+        {
+          "q": "Gibt es Hundestrände in der Nähe von Portimão?",
+          "a": "Es gibt in Portimão selbst keinen großen eingezäunten Hundestrand, aber ruhigere nicht-konzessionierte Strände wie Praia João de Arens tolerieren im Allgemeinen ganzjährig angeleinte Hunde. Prüfen Sie stets die örtliche Beschilderung, da sich die kommunalen Regeln ändern können."
+        }
       ]
     },
     "vets": {
@@ -561,7 +648,10 @@
           "tipEs": "Guarda el +351 282 418 260 antes del viaje y llama siempre antes de ir para que el equipo prepare tu llegada",
           "tipPt": "Guarde o +351 282 418 260 antes da viagem e ligue sempre com antecedência para a equipa preparar a sua chegada",
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterin%C3%A1rio+de+Portim%C3%A3o",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Tagesklinik Mo–Fr 08:30–21:00 Uhr; 24/7-Notdienst an jedem Tag des Jahres",
+          "descriptionDe": "Portimãos wichtigstes Tierkrankenhaus, seit 2015 in Betrieb, mit durchgehender 24-Stunden-Notfallversorgung und stationärer Intensivpflege. Es bietet Chirurgie, Kardiologie, Ophthalmologie, Endoskopie, CT-Bildgebung und Versorgung für exotische Haustiere, mit einem großen Team im Rund-um-die-Uhr-Dienst. Dies ist die erste Anlaufstelle für jede ernste Situation in der Region Portimão.",
+          "tipDe": "Speichern Sie +351 282 418 260 vor Ihrer Reise und rufen Sie stets vorab an, damit sich das Team auf Ihre Ankunft vorbereiten kann"
         },
         {
           "name": "SOLVET Clínica Portimão",
@@ -583,7 +673,10 @@
           "tipEs": "Útil para necesidades rutinarias, pero para urgencias fuera de horario llama al hospital 24h",
           "tipPt": "Útil para necessidades de rotina, mas para urgências fora de horas ligue antes para o hospital 24h",
           "googleMapsUrl": "https://maps.google.com/?q=SOLVET+Clínica+Portim%C3%A3o",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo–Fr 10:00–13:00 & 15:00–19:00 Uhr, Sa 10:00–14:00 Uhr, So & Feiertage geschlossen",
+          "descriptionDe": "Eine moderne Tagesklinik im Zentrum von Portimão, Teil des tierärztlichen Netzwerks SOLVET, praktisch für Routinekonsultationen, Impfungen und Reisepapiere während eines Aufenthalts. Buchen Sie besonders in den geschäftigen Sommermonaten frühzeitig einen Termin.",
+          "tipDe": "Nützlich für Routinebedarf, bei Notfällen außerhalb der Öffnungszeiten jedoch das 24h-Krankenhaus anrufen"
         },
         {
           "name": "Clínica Veterinária do Parchal",
@@ -605,7 +698,10 @@
           "tipEs": "Una buena opción si te alojas cerca de Ferragudo o Lagoa en lugar del centro de Portimão",
           "tipPt": "Uma boa opção se ficar perto de Ferragudo ou Lagoa em vez do centro de Portimão",
           "googleMapsUrl": "https://maps.google.com/?q=Clínica+Veterinária+do+Parchal",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo–Fr 10:00–13:00 & 15:00–19:00 Uhr, Sa 10:00–13:00 Uhr",
+          "descriptionDe": "Eine freundliche Allgemeinpraxis in Parchal, gleich über die Arade-Brücke von Portimão entfernt, eröffnet 2018 und praktisch für Gäste, die um Ferragudo und Lagoa wohnen. Gut für Kontrolluntersuchungen, Impfungen und kleinere Probleme während eines Aufenthalts.",
+          "tipDe": "Eine praktische Option, wenn Sie um Ferragudo oder Lagoa statt im Zentrum von Portimão wohnen"
         }
       ],
       "faqsEn": [
@@ -646,6 +742,18 @@
         {
           "q": "O que preciso para trazer o meu cão para Portugal a partir da UE?",
           "a": "Um passaporte europeu para animal válido, um microchip ISO e uma vacinação antirrábica em dia feita depois do microchip e pelo menos 21 dias antes da viagem. Sem quarentena nem testes adicionais para animais registados na UE."
+        }
+      ],
+      "titleDe": "Tierärztliche Notdienste in Portimão, Tierarztpraxen & Haustierbetreuung",
+      "introDe": "Portimão verfügt über ein Vollversorgungs-Tierkrankenhaus mit 24-Stunden-Dienst sowie mehrere Tageskliniken, sodass Sie sowohl für die Routineversorgung als auch für Notfälle gut abgesichert sind. EU-Haustiere benötigen einen gültigen Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung, um nach Portugal einzureisen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Portimão einen 24-Stunden-Tierarzt?",
+          "a": "Ja. Das Hospital Veterinário de Portimão in der Avenida Afonso Henriques bietet 24-Stunden-Notfallversorgung und stationäre Intensivpflege an jedem Tag des Jahres. Rufen Sie vorab unter +351 282 418 260 an, damit man sich auf Ihre Ankunft vorbereiten kann."
+        },
+        {
+          "q": "Was brauche ich, um meinen Hund aus der EU nach Portugal mitzunehmen?",
+          "a": "Einen gültigen EU-Heimtierausweis, einen ISO-Mikrochip und eine aktuelle Tollwutimpfung, die nach dem Chippen und mindestens 21 Tage vor der Reise verabreicht wurde. Für EU-registrierte Haustiere sind weder Quarantäne noch zusätzliche Tests erforderlich."
         }
       ]
     },
@@ -760,6 +868,22 @@
           "q": "Os cães podem ir a todo o lado em Portimão?",
           "a": "A maioria das zonas exteriores, esplanadas e passeios são acessíveis com trela, mas não as praias concessionadas no verão nem o interior de muitas lojas e atrações cobertas. Os cães de assistência são sempre permitidos por lei."
         }
+      ],
+      "titleDe": "Hundefreundliche Tipps für Portimão",
+      "introDe": "Portimão und die Algarve sind unkompliziert mit Hunden, aber ein paar saisonale und lokale Regeln sind wichtig, vor allem die Sommerhitze und die Strandverbote während der Badesaison. Planen Sie Spaziergänge für die kühleren Stunden, und Sie werden eine großartige Reise mit Ihrem Haustier haben.",
+      "faqsDe": [
+        {
+          "q": "Ist Portimão gut für Hunde?",
+          "a": "Ja, mit saisonalen Einschränkungen. Spaziergänge, Terrassen und die Holzstege sind sehr hundefreundlich, aber die Hauptstrände verbieten Hunde im Sommer, und die Hitze erfordert frühe oder späte Spaziergänge. Frühling und Herbst sind die einfachsten Jahreszeiten für einen Besuch mit Haustier."
+        },
+        {
+          "q": "Was sollte ich für Portimão mit meinem Hund einpacken?",
+          "a": "Einen EU-Heimtierausweis oder Äquivalent, Leine und Maulkorb für den Transport, Kotbeutel, einen faltbaren Wassernapf und reichlich Wasser, sowie ein Bewusstsein für Pfotenschutz auf heißem Pflaster im Sommer."
+        },
+        {
+          "q": "Dürfen Hunde in Portimão überallhin?",
+          "a": "Die meisten Außenbereiche, Terrassen und Promenaden sind an der Leine unbedenklich, aber konzessionierte Sommerstrände und das Innere vieler Geschäfte und Indoor-Attraktionen sind es nicht. Assistenzhunde sind gesetzlich immer zugelassen."
+        }
       ]
     },
     "attractions": {
@@ -793,7 +917,11 @@
           "tipFr": "Pour une sortie en bateau, contactez les opérateurs à l'avance pour confirmer que les chiens sont acceptés",
           "tipEs": "Si quieres una excursión en barco, escribe a los operadores con antelación para confirmar que admiten perros",
           "tipPt": "Se quiser um passeio de barco, contacte os operadores com antecedência para confirmar que aceitam cães",
-          "googleMapsUrl": "https://maps.google.com/?q=Marina+de+Portim%C3%A3o"
+          "googleMapsUrl": "https://maps.google.com/?q=Marina+de+Portim%C3%A3o",
+          "descriptionDe": "Die Uferpromenade und Marina am Arade bilden das lebendige Herz von Portimão, mit vertäuten Booten, offenen Promenaden und Uferlokalen, die einen einfachen Spaziergang mit Leine ermöglichen. Hier legen auch die Delfinbeobachtungs- und Benagil-Höhlen-Bootstouren ab, von denen mehrere Hunde an Bord willkommen heißen, wenn Sie es vorab arrangieren.",
+          "dogPolicyDe": "Hunde an der Leine entlang der Promenade und Marina willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Wenn Sie eine Bootstour möchten, kontaktieren Sie die Anbieter vorab, um zu bestätigen, dass Hunde auf Ihrer gewählten Tour erlaubt sind"
         },
         {
           "name": "Largo 1 de Dezembro & Old Town",
@@ -816,7 +944,11 @@
           "tipFr": "Faites une pause pastel de nata en terrasse sur la place, la plupart acceptent volontiers un chien calme",
           "tipEs": "Haz una pausa para un pastel de nata en una terraza de la plaza, la mayoría aceptan un perro tranquilo",
           "tipPt": "Faça uma pausa para um pastel de nata numa esplanada da praça, a maioria aceita de bom grado um cão calmo",
-          "googleMapsUrl": "https://maps.google.com/?q=Largo+1+de+Dezembro+Portim%C3%A3o"
+          "googleMapsUrl": "https://maps.google.com/?q=Largo+1+de+Dezembro+Portim%C3%A3o",
+          "descriptionDe": "Portimãos Altstadt zentriert sich um den begrünten Largo 1 de Dezembro, einen Gartenplatz, berühmt für seine gefliesten Bänke, die Momente der portugiesischen Geschichte darstellen, umgeben von Fußgängereinkaufsstraßen und Konditoreicafés. Es ist ein angenehmer, schattiger Ort, um mit angeleintem Hund zwischen dem Fluss und der Kirche Nossa Senhora da Conceição zu bummeln.",
+          "dogPolicyDe": "Hunde an der Leine auf dem Platz und in den Fußgängerstraßen willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Machen Sie an einer Café-Terrasse am Platz eine Pause für ein Pastel de Nata, die meisten setzen gerne einen ruhigen Hund an einen Tisch"
         },
         {
           "name": "Santa Catarina Fort & Praia da Rocha Cliffs",
@@ -839,7 +971,11 @@
           "tipFr": "Venez au coucher du soleil pour la plus belle lumière sur l'embouchure, mais emportez de l'eau car il y a peu d'ombre",
           "tipEs": "Ve al atardecer para la mejor luz sobre la desembocadura, pero lleva agua porque hay poca sombra",
           "tipPt": "Venha ao pôr do sol para a melhor luz sobre a foz, mas leve água pois há pouca sombra",
-          "googleMapsUrl": "https://maps.google.com/?q=Fortaleza+de+Santa+Catarina+Praia+da+Rocha"
+          "googleMapsUrl": "https://maps.google.com/?q=Fortaleza+de+Santa+Catarina+Praia+da+Rocha",
+          "descriptionDe": "Am östlichen Ende der Promenade der Praia da Rocha steht die Fortaleza de Santa Catarina aus dem 17. Jahrhundert, die die Mündung des Arade bewacht, mit weitem Blick über den Strand, den Fluss und das gegenüberliegende Ferragudo. Die Aussichtspunkte und der Klippensteg drumherum liegen im Freien und lassen sich leicht mit angeleintem Hund genießen.",
+          "dogPolicyDe": "Hunde an der Leine an den Aussichtspunkten im Freien und dem umliegenden Steg willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Kommen Sie bei Sonnenuntergang für das beste Licht über der Flussmündung, bringen Sie aber Wasser mit, da es kaum Schatten gibt"
         }
       ],
       "tipsEn": [
@@ -917,6 +1053,22 @@
           "q": "Os cães podem visitar os museus de Portimão?",
           "a": "Em geral, não. O Museu de Portimão e a maioria dos espaços cobertos não aceitam animais, embora os miradouros exteriores como o forte de Santa Catarina estejam acessíveis. Os cães de assistência são sempre permitidos."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Portimão",
+      "introDe": "Portimãos beste Sehenswürdigkeiten liegen größtenteils im Freien und lassen sich mit angeleintem Hund leicht genießen, von der Marina und Uferpromenade am Arade über die Klippenwege bis zur historischen Altstadt rund um den Largo 1 de Dezembro. Indoor-Museen und die Innenräume von Denkmälern lassen Hunde im Allgemeinen nicht zu, aber es gibt reichlich im Freien zu tun.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf einer Bootstour ab Portimão mitnehmen?",
+          "a": "Einige Anbieter an der Marina Arade erlauben Hunde bei Delfinbeobachtungstouren und Ausflügen zur Benagil-Höhle, dies ist jedoch nicht durchgängig der Fall. Kontaktieren Sie Ihren gewählten Anbieter vorab, um dies sowie eventuelle Größen- oder Maulkorbanforderungen zu bestätigen."
+        },
+        {
+          "q": "Sind Hunde in der Altstadt von Portimão erlaubt?",
+          "a": "Ja. Der Platz Largo 1 de Dezembro und die umliegenden Fußgängereinkaufsstraßen sind für angeleinte Hunde offen, und viele Café-Terrassen setzen gerne einen ruhigen Hund an einen Tisch."
+        },
+        {
+          "q": "Können Hunde die Museen von Portimão besuchen?",
+          "a": "Im Allgemeinen nicht. Das Museu de Portimão und die meisten Indoor-Stätten lassen keine Haustiere zu, während Außenaussichtspunkte wie die Festung Santa Catarina unbedenklich sind. Assistenzhunde sind stets zugelassen."
+        }
       ]
     },
     "petsitting": {
@@ -948,7 +1100,10 @@
           "tip": "Message a sitter directly to confirm they are comfortable with your dog's size and energy before you book",
           "tipFr": "Contactez un sitter directement pour confirmer qu'il est à l'aise avec la taille et l'énergie de votre chien avant de réserver",
           "tipEs": "Escribe a un cuidador directamente para confirmar que se siente cómodo con el tamaño y la energía de tu perro antes de reservar",
-          "tipPt": "Envie mensagem a um cuidador diretamente para confirmar que está à vontade com o tamanho e a energia do seu cão antes de reservar"
+          "tipPt": "Envie mensagem a um cuidador diretamente para confirmar que está à vontade com o tamanho e a energia do seu cão antes de reservar",
+          "descriptionDe": "Pawshake ist eine etablierte, landesweite portugiesische Plattform für Haustierbetreuung mit Sittern in der gesamten Algarve, die Kurzbesuche, Gassi-Service, Tagesbetreuung und Übernachtungspflege anbietet. Alle Sitter sind überprüft und über die Pawshake-Versicherung abgedeckt, und Sie schreiben ihnen direkt, um zu bestätigen, dass sie zu Ihrem Hund passen, bevor Sie buchen.",
+          "serviceTypeDe": "Online-Buchung. Betreuung, Gassi-Service, Tagesbetreuung, Übernachtung",
+          "tipDe": "Schreiben Sie einem Sitter direkt, um zu bestätigen, dass er mit Größe und Energie Ihres Hundes zurechtkommt, bevor Sie buchen"
         },
         {
           "name": "Gudog Portugal",
@@ -969,7 +1124,10 @@
           "tip": "Read recent reviews and pick a host near your accommodation to keep drop-off and pick-up easy",
           "tipFr": "Lisez les avis récents et choisissez un hôte près de votre logement pour faciliter dépose et récupération",
           "tipEs": "Lee reseñas recientes y elige un anfitrión cerca de tu alojamiento para facilitar la entrega y recogida",
-          "tipPt": "Leia avaliações recentes e escolha um anfitrião perto do seu alojamento para facilitar a entrega e a recolha"
+          "tipPt": "Leia avaliações recentes e escolha um anfitrião perto do seu alojamento para facilitar a entrega e a recolha",
+          "descriptionDe": "Gudog ist ein beliebter europäischer Marktplatz für Hundebetreuung und -unterbringung, der in ganz Portugal, einschließlich der Algarve, tätig ist, mit verifizierten Gastgebern, sicherer Online-Zahlung und kostenloser Stornierungsmöglichkeit. Eine praktische Option für Reisende, die geprüfte Sitter und klare Preise für Tagesbetreuung oder Übernachtungsaufenthalte wünschen.",
+          "serviceTypeDe": "Online-Marktplatz. Unterbringung, Tagesbetreuung, Gassi-Service",
+          "tipDe": "Lesen Sie aktuelle Bewertungen und wählen Sie einen Gastgeber in der Nähe Ihrer Unterkunft, um Abgabe und Abholung einfach zu halten"
         },
         {
           "name": "PetBacker Algarve",
@@ -990,7 +1148,10 @@
           "tip": "Confirm exactly what is included and agree on times in the chat before you accept a booking",
           "tipFr": "Confirmez précisément ce qui est inclus et convenez des horaires dans le chat avant d'accepter une réservation",
           "tipEs": "Confirma exactamente qué incluye y acuerda los horarios en el chat antes de aceptar una reserva",
-          "tipPt": "Confirme exatamente o que está incluído e combine os horários no chat antes de aceitar uma reserva"
+          "tipPt": "Confirme exatamente o que está incluído e combine os horários no chat antes de aceitar uma reserva",
+          "descriptionDe": "PetBacker ist eine internationale App für Haustierdienste mit einem Netzwerk aus Hundesittern und Gassi-Gehern an der Algarve, einschließlich der Region Portimão, mit Bewertungen, Versicherungsschutz und In-App-Nachrichten. Nützlich für kurzfristige oder kurze Buchungen, wenn Sie kurzfristig einen Sitter brauchen.",
+          "serviceTypeDe": "App-basierte Buchung. Betreuung, Gassi-Service, Unterbringung",
+          "tipDe": "Bestätigen Sie genau, was inbegriffen ist, und vereinbaren Sie Zeiten im Chat, bevor Sie eine Buchung akzeptieren"
         }
       ],
       "tipsEn": [
@@ -1068,6 +1229,23 @@
           "q": "Preciso de reservar um cuidador com antecedência?",
           "a": "No verão, sim. Reserve com pelo menos 48 horas de antecedência, pois os cuidadores locais ficam cheios depressa na época alta. Aplicações como a PetBacker podem ajudar com pedidos em cima da hora."
         }
+      ],
+      "titleDe": "Hundesitter & Haustierbetreuung in Portimão",
+      "introDe": "Wenn Sie ein paar Stunden ohne Ihren Hund brauchen, für ein Museum, ein Indoor-Restaurant oder eine Bootstour, die keine Haustiere mitnimmt, werden Portimão und die weitere Algarve von mehreren vertrauenswürdigen Buchungsplattformen bedient. Buchen Sie im Sommer frühzeitig, da lokale Sitter in der Hochsaison schnell ausgebucht sind.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Hundebetreuung in Portimão?",
+          "a": "Rechnen Sie mit etwa 12 bis 35 € pro Tag, je nach Leistung, wobei Kurzbesuche und Spaziergänge am unteren Ende und Ganztagsbetreuung oder Übernachtungspflege am oberen Ende liegen. Die Preise steigen in der geschäftigen Sommersaison."
+        },
+        {
+          "q": "Finde ich in Portimão einen englischsprachigen Haustiersitter?",
+          "a": "Ja. Die Algarve ist sehr international, und viele Sitter auf Pawshake, Gudog und PetBacker sprechen neben Portugiesisch auch Englisch. Schreiben Sie ihnen vorab, um Details zu bestätigen und zu vereinbaren."
+        },
+        {
+          "q": "Muss ich einen Sitter im Voraus buchen?",
+          "a": "Im Sommer ja. Buchen Sie mindestens 48 Stunden im Voraus, da lokale Sitter in der Hochsaison schnell ausgebucht sind. Apps wie PetBacker können manchmal bei kurzfristigeren Anfragen helfen."
+        }
       ]
     }
-  }}
+  }
+}

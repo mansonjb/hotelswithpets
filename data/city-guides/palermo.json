@@ -37,7 +37,11 @@
           "descriptionPt": "Trattoria de operários desde 1916, junto ao mercado do Capo. Clássicos sicilianos, pasta alla Norma, sarde a beccafico, cannoli, sobre toalhas de papel. Local de almoço dos habitantes.",
           "petPolicyPt": "Cães pequenos bem-vindos nas mesas exteriores",
           "mustTryPt": "Pasta alla Norma, sarde a beccafico, cannoli",
-          "tipPt": "Só dinheiro. Encerra aos domingos. O melhor almoço no centro de Palermo por menos de 25 EUR por pessoa."
+          "tipPt": "Só dinheiro. Encerra aos domingos. O melhor almoço no centro de Palermo por menos de 25 EUR por pessoa.",
+          "descriptionDe": "Arbeiter-Trattoria seit 1916 nahe dem Markt Capo. Sizilianische Klassiker, Pasta alla Norma, Sarde a beccafico, Cannoli, auf Papiertischdecken. Mittagstreffpunkt der Einheimischen.",
+          "petPolicyDe": "Kleine Hunde an den Außentischen willkommen",
+          "mustTryDe": "Pasta alla Norma, sarde a beccafico, cannoli",
+          "tipDe": "Nur Barzahlung. Sonntags geschlossen. Bestes Mittagessen im Zentrum Palermos für unter 25 EUR pro Person."
         },
         {
           "name": "Bisso Bistrot",
@@ -63,7 +67,11 @@
           "descriptionPt": "Pequeno bistrot numa antiga livraria do século XIX, nos Quattro Canti. Sem reservas, sem ementa, um quadro de ardósia com 6 pratos diários vindos do mercado. Street food siciliana requintada.",
           "petPolicyPt": "Cães pequenos aceites na esplanada do passeio",
           "mustTryPt": "Pasta con le sarde, caponata, pescado do dia",
-          "tipPt": "Chegue às 12:30 em ponto ou às 14:30, há filas nas horas de pico. A espera vale 100% a pena."
+          "tipPt": "Chegue às 12:30 em ponto ou às 14:30, há filas nas horas de pico. A espera vale 100% a pena.",
+          "descriptionDe": "Winziges Bistrot in einer ehemaligen Buchhandlung aus dem 19. Jahrhundert am Quattro Canti. Keine Reservierung, keine Speisekarte, eine Kreidetafel mit 6 Tagesgerichten vom Markt. Verfeinertes sizilianisches Street Food.",
+          "petPolicyDe": "Kleine Hunde auf der Terrasse am Gehweg akzeptiert",
+          "mustTryDe": "Pasta con le sarde, caponata, daily catch",
+          "tipDe": "Kommen Sie pünktlich um 12:30 Uhr oder um 14:30 Uhr, in Stoßzeiten bilden sich Schlangen. Das Warten lohnt sich zu 100 Prozent."
         },
         {
           "name": "Buatta Cucina Popolana",
@@ -89,7 +97,11 @@
           "descriptionPt": "Trattoria moderna num palazzo abobadado do século XV, focada na revisitação da 'cucina popolana' (cozinha do povo). Generoso pátio exterior com pérgula de vinha.",
           "petPolicyPt": "Cães bem-vindos no pátio",
           "mustTryPt": "Pasta cu masculini, neonata, sfincione palermitano",
-          "tipPt": "Apenas jantares. O pátio enche depressa, reserve com 48h de antecedência no verão."
+          "tipPt": "Apenas jantares. O pátio enche depressa, reserve com 48h de antecedência no verão.",
+          "descriptionDe": "Moderne Trattoria in einem gewölbten Palazzo aus dem 15. Jahrhundert, mit Fokus auf die Wiederbelebung der \"cucina popolana\" (Küche des einfachen Volkes). Großzügiger Innenhof im Freien mit Weinranken-Überdachung.",
+          "petPolicyDe": "Hunde im Innenhof willkommen",
+          "mustTryDe": "Pasta cu masculini, neonata, sfincione palermitano",
+          "tipDe": "Nur abends geöffnet. Der Innenhof füllt sich schnell, im Sommer 48 Std. im Voraus buchen."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Posso comer a street food de Palermo a passear com o meu cão?",
           "a": "Sim, na verdade é a forma mais autêntica. Arancina, panelle (pastéis de grão), pani ca' meusa (sande de baço) e sfincione (focaccia-pizza) compram-se todos nas bancas do mercado para comer à mão. Caminhe entre a Vucciria, Ballarò e o Capo, comendo pelo caminho."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Palermo, Trattorien & Street Food",
+      "introDe": "Die Trattoria- und Street-Food-Kultur Palermos ist auf den Terrassen überwältigend hundetolerant. Die Märkte Vucciria, Ballarò und Capo konzentrieren die hundefreundlichen Lokale der Stadt, ergänzt durch die Kalsa und die Uferpromenade Foro Italico.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in den Trattorien von Palermo erlaubt?",
+          "a": "Ja, auf den meisten Außenterrassen und in vielen Innenräumen. Die sizilianische Kultur ist angeleinten Hunden gegenüber freundlich gesinnt; Palermo ist besonders entspannt dank seines marktstraßenartigen Speisestils, bei dem sich alles nach draußen ausbreitet."
+        },
+        {
+          "q": "Kann ich Palermos Street Food mit Hund im Gehen genießen?",
+          "a": "Ja, das ist sogar die authentischste Art. Arancina, Panelle (Kichererbsenpuffer), Pani ca' meusa (Milzsandwich), Sfincione (Focaccia-Pizza) sind allesamt Handmahlzeiten von den Marktständen. Gehen Sie zwischen Vucciria, Ballarò und Capo und essen Sie unterwegs."
+        }
       ]
     },
     "parks": {
@@ -209,7 +233,10 @@
             "Entrada gratuita",
             "Espaço imenso"
           ],
-          "tipPt": "Estacione junto à Palazzina Cinese para a zona mais tranquila. Evite os caminhos centrais nas tardes de domingo (hora de piquenique dos habitantes)."
+          "tipPt": "Estacione junto à Palazzina Cinese para a zona mais tranquila. Evite os caminhos centrais nas tardes de domingo (hora de piquenique dos habitantes).",
+          "leashRuleDe": "Leinenpflicht; auf den offenen Wiesen wird Freilauf toleriert",
+          "descriptionDe": "Siziliens größter Stadtpark, 400 ha am Fuß des Monte Pellegrino. Königliches Jagdrevier, 1799 von König Ferdinand III. angelegt, heute ein Geflecht aus Wegen, Zitrushainen und Pinienwäldern. Der Vorzeigehundespaziergang der Palermitaner.",
+          "tipDe": "Parken Sie am Ende bei der Palazzina Cinese für den ruhigsten Abschnitt. Meiden Sie die zentralen Wege an Sonntagnachmittagen (Picknickzeit der Einheimischen)."
         },
         {
           "name": "Foro Italico Umberto I",
@@ -253,7 +280,10 @@
             "Sombra de palmeiras",
             "Cafés"
           ],
-          "tipPt": "Melhor ao pôr do sol, os palermitanos acorrem aqui para a passeggiata diária com os cães. Os cafés do lado da Kalsa servem aperitivo com vista de mar."
+          "tipPt": "Melhor ao pôr do sol, os palermitanos acorrem aqui para a passeggiata diária com os cães. Os cafés do lado da Kalsa servem aperitivo com vista de mar.",
+          "leashRuleDe": "Leinenpflicht",
+          "descriptionDe": "2 km verkehrsfreie Uferpromenade vom Hafen bis zum Viertel Kalsa. Rasenstreifen, Palmen, ein Radweg, Meerblick, kühlende Meeresbrise. Der sommerliche Abendtreffpunkt für Hunde in Palermo.",
+          "tipDe": "Am schönsten bei Sonnenuntergang, die Palermitaner strömen hierher zum täglichen passeggiata mit Hund. Die Cafés am Kalsa-Ende servieren Aperitivo mit Meerblick."
         },
         {
           "name": "Orto Botanico di Palermo",
@@ -297,7 +327,10 @@
             "Lago",
             "Caminhos sombreados"
           ],
-          "tipPt": "Entrada 7 EUR; cães admitidos com trela. O Ficus gigante tem uma copa de mais de 30 m, a árvore mais fotografada da Sicília."
+          "tipPt": "Entrada 7 EUR; cães admitidos com trela. O Ficus gigante tem uma copa de mais de 30 m, a árvore mais fotografada da Sicília.",
+          "leashRuleDe": "Leinenpflicht",
+          "descriptionDe": "Gegründet 1789, einer der bedeutendsten botanischen Gärten Europas. 10 ha mit 12.000 Arten, mediterran, tropisch, sukkulent. Die Ficus macrophylla in der Mitte ist die größte in Europa.",
+          "tipDe": "Eintritt 7 EUR; Hunde an der Leine zugelassen. Die riesige Ficus hat eine über 30 m breite Krone, der meistfotografierte Baum Siziliens."
         }
       ],
       "tipsEn": [
@@ -361,6 +394,18 @@
           "q": "Os cães podem nadar nas praias de Palermo?",
           "a": "Mondello (11 km a norte) tem zonas Bau-Beach assinaladas na extremidade oeste. Dentro da própria Palermo, a frente-mar do Foro Italico não é para banhos (tráfego do porto). Conduza 20 minutos para norte para um acesso seguro a praia de cães."
         }
+      ],
+      "titleDe": "Die besten Hundeparks & Spaziergänge in Palermo, Parco della Favorita & Foro Italico",
+      "introDe": "Palermo besitzt die größte städtische Grünfläche Siziliens, den 400 ha großen Parco della Favorita am Fuß des Monte Pellegrino. Zusammen mit der 2 km langen Uferpromenade Foro Italico und der historischen Villa Giulia mit Botanischem Garten bilden sie eine durchgängige grüne Achse.",
+      "faqsDe": [
+        {
+          "q": "Wo dürfen Hunde in Palermo ohne Leine laufen?",
+          "a": "Offiziell nur in ausgewiesenen Hundezonen, und Palermos Netz an eingezäunten sgambamento-Zonen ist im Vergleich zu Norditalien spärlich. In der Praxis tolerieren die weitläufigen Wiesen des Parco della Favorita zu ruhigen Zeiten Hunde ohne Leine. Für echte Freilauffreiheit sind die Wanderwege des Monte Pellegrino oberhalb des Parks am besten."
+        },
+        {
+          "q": "Können Hunde an den Stränden Palermos baden?",
+          "a": "Mondello (11 km nördlich) verfügt am westlichen Ende über ausgeschilderte Bau-Beach-Zonen. Innerhalb Palermos selbst eignet sich die Uferpromenade Foro Italico nicht zum Baden (Hafenverkehr). Fahren Sie 20 Minuten nordwärts für einen sicheren Hundestrandzugang."
+        }
       ]
     },
     "transport": {
@@ -388,7 +433,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=AMAT+Palermo",
           "descriptionPt": "A AMAT opera mais de 90 carreiras de autocarro e 4 linhas modernas de elétrico (T1-T4, inauguradas em 2015). Os elétricos cobrem o anel exterior; os autocarros 101/102/103 cobrem o centro. O mais útil: o elétrico T1 para o Parco della Favorita.",
           "petPolicyPt": "Cães pequenos em caixas de transporte grátis. Cães maiores admitidos com trela e açaime, bilhete obrigatório.",
-          "tipPt": "Bilhete de 90 minutos 1,40 EUR, passe diário 3,50 EUR. Atenção: a fiabilidade dos autocarros de Palermo é fraca, conte com o dobro do horário, sobretudo no centro."
+          "tipPt": "Bilhete de 90 minutos 1,40 EUR, passe diário 3,50 EUR. Atenção: a fiabilidade dos autocarros de Palermo é fraca, conte com o dobro do horário, sobretudo no centro.",
+          "descriptionDe": "AMAT betreibt über 90 Buslinien und 4 moderne Straßenbahnlinien (T1-T4, eröffnet 2015). Die Straßenbahnen decken den äußeren Ring ab; die Buslinien 101/102/103 bedienen das Zentrum. Am nützlichsten: Straßenbahn T1 zum Parco della Favorita.",
+          "petPolicyDe": "Kleine Hunde in Transportboxen kostenlos. Größere Hunde an der Leine mit Maulkorb zugelassen, Ticket erforderlich.",
+          "tipDe": "90-Minuten-Ticket 1,40 EUR, Tageskarte 3,50 EUR. Achtung: Die Buszuverlässigkeit in Palermo ist gering, planen Sie die doppelte Fahrzeit ein, besonders im Zentrum."
         },
         {
           "name": "GNV / Grimaldi Lines Ferry",
@@ -407,7 +455,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Porto+Palermo",
           "descriptionPt": "Ferry noturno Palermo-Nápoles (10h, diário) e semanal para Tunes. Há cabines pet-friendly disponíveis com suplemento.",
           "petPolicyPt": "Cabines pet-friendly com cerca de 30 EUR de suplemento. Cães em canil no convés grátis sem cabine. Com trela nas zonas públicas.",
-          "tipPt": "Reserve a cabine para animais com 2 semanas de antecedência no verão, há apenas 6 a 8 por navio. Evite o pico das férias escolares de agosto."
+          "tipPt": "Reserve a cabine para animais com 2 semanas de antecedência no verão, há apenas 6 a 8 por navio. Evite o pico das férias escolares de agosto.",
+          "descriptionDe": "Nachtfähre Palermo-Neapel (10 Std., täglich) und wöchentlich nach Tunis. Haustierfreundliche Kabinen gegen Aufpreis verfügbar.",
+          "petPolicyDe": "Haustierfreundliche Kabinen ca. 30 EUR Aufpreis. Hunde in Zwingerboxen an Deck kostenlos ohne Kabine. In öffentlichen Bereichen angeleint.",
+          "tipDe": "Buchen Sie die Haustierkabine im Sommer 2 Wochen im Voraus, nur 6-8 pro Schiff. Meiden Sie den Höhepunkt der Ferienzeit im August."
         },
         {
           "name": "Taxi Palermo",
@@ -426,7 +477,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Taxi+Palermo",
           "descriptionPt": "Cooperativa de táxis local que cobre a cidade e o aeroporto Falcone-Borsellino (PMO, 32 km a oeste, cerca de 50 EUR fixos). A FreeNow funciona aqui. Os condutores por vezes recusam cães, ligue para reservar um táxi pet-friendly.",
           "petPolicyPt": "Cães pequenos em caixas de transporte costumam ser aceites; cães maiores exigem pedido prévio na reserva.",
-          "tipPt": "Ligue para o +39 091 6878 para reservar. O comboio Trinacria Express do aeroporto (45 min, 6,90 EUR) é a alternativa barata, cães pequenos grátis."
+          "tipPt": "Ligue para o +39 091 6878 para reservar. O comboio Trinacria Express do aeroporto (45 min, 6,90 EUR) é a alternativa barata, cães pequenos grátis.",
+          "descriptionDe": "Örtliche Taxigenossenschaft, die die Stadt und den Flughafen Falcone-Borsellino (PMO, 32 km westlich, ca. 50 EUR Festpreis) bedient. FreeNow ist verfügbar. Fahrer lehnen Hunde manchmal ab, rufen Sie an, um einen haustierfreundlichen Fahrer zu buchen.",
+          "petPolicyDe": "Kleine Hunde in Transportboxen in der Regel in Ordnung; größere Hunde erfordern eine Voranmeldung bei der Buchung.",
+          "tipDe": "Rufen Sie +39 091 6878 zum Buchen an. Der Zug Trinacria Express vom Flughafen (45 Min., 6,90 EUR) ist die günstige Alternative, kleine Hunde kostenlos."
         }
       ],
       "tipsEn": [
@@ -490,6 +544,18 @@
           "q": "Como vou do aeroporto de Palermo para o centro com um cão?",
           "a": "Comboio Trinacria Express de 30 em 30 minutos, viagem de 45 minutos até Palermo Centrale (6,90 EUR, cães pequenos em caixas de transporte grátis). Táxi com tarifa fixa de 50 EUR, ligue com antecedência para um cão grande. Autocarro Prestia/Comandè 7 EUR, 50 minutos, cães ao critério do condutor."
         }
+      ],
+      "titleDe": "Hundefreundlicher Transport in Palermo, Bus, Straßenbahn & Fähre",
+      "introDe": "Palermos kompaktes Zentrum lässt sich in 30 Minuten von Ecke zu Ecke durchqueren. AMAT betreibt Stadtbusse und 4 Straßenbahnlinien (die Straßenbahn ist die hundefreundlichste Option). Fähren nach Neapel, Tunis, Sardinien und zu den Äolischen Inseln; der Flughafen Falcone-Borsellino liegt 32 km westlich.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf der Fähre von Neapel nach Palermo mitnehmen?",
+          "a": "Ja. GNV und Grimaldi Lines bieten beide haustierfreundliche Kabinen für ca. 30 EUR Aufpreis, mit 6-8 Kabinen pro Schiff. Außerhalb der Kabine reisen Hunde in Zwingerboxen an Deck (kostenlos). Im Sommer frühzeitig buchen."
+        },
+        {
+          "q": "Wie komme ich vom Flughafen Palermo mit Hund ins Zentrum?",
+          "a": "Der Zug Trinacria Express fährt alle 30 Minuten, 45 Minuten Fahrt bis Palermo Centrale (6,90 EUR, kleine Hunde in Transportboxen kostenlos). Taxi zum Festpreis von 50 EUR, für einen großen Hund vorher anrufen. Bus Prestia/Comandè 7 EUR, 50 Minuten, Hunde nach Ermessen des Fahrers."
+        }
       ]
     },
     "beaches": {
@@ -544,7 +610,10 @@
             "Cafés",
             "Chuveiros"
           ],
-          "tipPt": "Autocarro 806 a partir do Politeama de 20 em 20 minutos, viagem de 20 minutos. A Bau-Beach fica no lado de Valdesi, caminhe 10 minutos para oeste a partir da paragem principal."
+          "tipPt": "Autocarro 806 a partir do Politeama de 20 em 20 minutos, viagem de 20 minutos. A Bau-Beach fica no lado de Valdesi, caminhe 10 minutos para oeste a partir da paragem principal.",
+          "leashRuleDe": "Ganzjährig ohne Leine in der ausgeschilderten Hundezone",
+          "descriptionDe": "Palermos ikonische muschelförmige Bucht, 11 km nördlich. Kristallklares flaches Wasser, feiner Sand, gerahmt vom Monte Pellegrino und Monte Gallo. Ausgeschilderte Bau-Beach-Zone am westlichen Ende (Valdesi-Seite), 250 m Sand, ganzjährig.",
+          "tipDe": "Bus 806 ab Politeama alle 20 Minuten, 20 Minuten Fahrt. Der Bau-Beach liegt am Valdesi-Ende, gehen Sie 10 Minuten westlich von der Hauptbushaltestelle."
         },
         {
           "name": "Sferracavallo (Barcarello Cove)",
@@ -586,7 +655,10 @@
             "Sossego",
             "Bom para snorkeling"
           ],
-          "tipPt": "Só de carro (sem autocarro direto). Estacione ao longo da SS113 e depois desça 5 minutos a pé. Melhor ao pôr do sol."
+          "tipPt": "Só de carro (sem autocarro direto). Estacione ao longo da SS113 e depois desça 5 minutos a pé. Melhor ao pôr do sol.",
+          "leashRuleDe": "Ganzjährig ohne Leine in der ausgeschilderten Felsenzone",
+          "descriptionDe": "Felsige Bucht 10 km nordwestlich von Palermo mit einer ausgeschilderten Bau-Beach-Zone. Tieferes Wasser als in Mondello, weniger Besucher. Die Wahl der Einheimischen für Hundeschwimmer mit kräftigen Schwimmern.",
+          "tipDe": "Nur mit dem Auto erreichbar (kein direkter Bus). Parken Sie entlang der SS113 und gehen Sie dann 5 Minuten hinunter. Am schönsten bei Sonnenuntergang."
         },
         {
           "name": "Cefalù Beach (off-season)",
@@ -627,7 +699,10 @@
             "Acesso de comboio",
             "Zona de cafés"
           ],
-          "tipPt": "Melhor de outubro a maio. Comboio Palermo Centrale-Cefalù de hora a hora (6,90 EUR, 45 min). Cães pequenos em caixas de transporte grátis."
+          "tipPt": "Melhor de outubro a maio. Comboio Palermo Centrale-Cefalù de hora a hora (6,90 EUR, 45 min). Cães pequenos em caixas de transporte grátis.",
+          "leashRuleDe": "Ohne Leine Oktober-Mai; in den überwachten Sommerzonen verboten",
+          "descriptionDe": "Siziliens fotogenster Küstenort, 70 km östlich, das Postkartenmotiv aus Kathedrale und Fischerdorf. Der 1,5 km lange goldene Sandstrand ist von Oktober bis Mai hundezugänglich. Zug ab Palermo Centrale 45 Minuten.",
+          "tipDe": "Am besten von Oktober bis Mai. Zug Palermo Centrale-Cefalù stündlich (6,90 EUR, 45 Min.). Kleine Hunde in Transportboxen kostenlos."
         }
       ],
       "tipsEn": [
@@ -691,6 +766,18 @@
           "q": "A água de Mondello é segura para cães?",
           "a": "Sim. Mondello cumpre de forma consistente as normas da UE para águas balneares, a água é rasa e clara. Evite a zona comercial central (tráfego de barcos), a ponta oeste de Valdesi é mais limpa e mais sossegada."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Palermo, Mondello, Sferracavallo & Cefalù",
+      "introDe": "Palermos Aushängeschild-Strand ist Mondello (11 km nördlich), mit einem ausgeschilderten Bau-Beach an seinem westlichen Ende. Darüber hinaus bieten Sferracavallo (10 km nordwestlich), Capaci und die Küste von Cefalù (70 km östlich) ganzjährig hundezugängliches Baden im Mittelmeer.",
+      "faqsDe": [
+        {
+          "q": "Wo können Hunde in der Nähe von Palermo baden?",
+          "a": "Drei Optionen: Mondello Bau-Beach (11 km nördlich, ganzjährig, einfach mit dem Bus erreichbar), die Bucht Barcarello in Sferracavallo (10 km nordwestlich, ruhig, felsig, nur mit Auto erreichbar), und der Strand von Cefalù (70 km östlich, Oktober-Mai, mit dem Zug erreichbar)."
+        },
+        {
+          "q": "Ist das Wasser in Mondello sicher für Hunde?",
+          "a": "Ja. Mondello erfüllt durchgängig die EU-Badegewässerstandards, das Wasser ist flach und klar. Meiden Sie den zentralen kommerziellen Abschnitt (Bootsverkehr), das westliche Valdesi-Ende ist sauberer und ruhiger."
+        }
       ]
     },
     "vets": {
@@ -721,7 +808,9 @@
           "tipEs": "Llama antes, recepción habla inglés. En la Via Castellana, accesible en tranvía T1.",
           "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Borgo+Nuovo+Palermo",
           "descriptionPt": "A maior clínica de urgência 24/7 da Sicília, 10 minutos a oeste do centro de Palermo. Cirurgia completa, cuidados intensivos, TAC, ecografia. Serve toda a Sicília.",
-          "tipPt": "Ligue com antecedência, a rececionista fala inglês. Fica junto à Via Castellana, acessível pelo elétrico T1."
+          "tipPt": "Ligue com antecedência, a rececionista fala inglês. Fica junto à Via Castellana, acessível pelo elétrico T1.",
+          "descriptionDe": "Die größte 24/7-Notfallklinik Siziliens, 10 Minuten westlich des Zentrums von Palermo. Vollständige Chirurgie, Intensivstation, CT, Ultraschall. Bedient ganz Sizilien.",
+          "tipDe": "Vorher anrufen, die Rezeption spricht Englisch. Liegt an der Via Castellana, mit der Straßenbahn T1 erreichbar."
         },
         {
           "name": "Studio Veterinario Vucciria",
@@ -743,7 +832,9 @@
           "tipEs": "Los veterinarios italianos cierran 13:00-16:00, anticípate. Sin cita para vacunaciones.",
           "googleMapsUrl": "https://maps.google.com/?q=Studio+Veterinario+Vucciria+Palermo",
           "descriptionPt": "Clínica diurna de localização central, 5 minutos dos Quattro Canti. Vacinações, colocação de microchip, medicina interna, exames antes de viagem, serviço de chamada até às 22:00 nos dias úteis.",
-          "tipPt": "Os veterinários italianos encerram das 13:00 às 16:00, planeie em conformidade. Atendimentos sem marcação aceites para vacinações."
+          "tipPt": "Os veterinários italianos encerram das 13:00 às 16:00, planeie em conformidade. Atendimentos sem marcação aceites para vacinações.",
+          "descriptionDe": "Zentral gelegene Tagespraxis, 5 Minuten vom Quattro Canti entfernt. Impfungen, Mikrochipping, Innere Medizin, Vorreiseuntersuchungen, Bereitschaft bis 22:00 Uhr an Wochentagen.",
+          "tipDe": "Italienische Tierärzte schließen 13:00-16:00 Uhr, planen Sie entsprechend. Ohne Termin für Impfungen möglich."
         },
         {
           "name": "Centro Veterinario Mondello",
@@ -764,7 +855,9 @@
           "tipEs": "Útil si te alojas cerca de Mondello o Sferracavallo, evita el viaje al centro.",
           "googleMapsUrl": "https://maps.google.com/?q=Centro+Veterinario+Mondello+Palermo",
           "descriptionPt": "Clínica de média dimensão perto da praia de Mondello, com horário alargado e capacidade de chamada até ao final da noite. Cirurgia, dentária, animais exóticos.",
-          "tipPt": "Útil se ficar perto de Mondello ou de Sferracavallo, evita a viagem de volta ao centro."
+          "tipPt": "Útil se ficar perto de Mondello ou de Sferracavallo, evita a viagem de volta ao centro.",
+          "descriptionDe": "Mittelgroße Klinik nahe dem Strand von Mondello, mit erweiterten Öffnungszeiten und Bereitschaft bis in den späten Abend. Chirurgie, Zahnmedizin, Exoten.",
+          "tipDe": "Nützlich bei Unterkunft in der Nähe von Mondello oder Sferracavallo, erspart die Fahrt zurück ins Zentrum."
         }
       ],
       "tipsEn": [
@@ -828,6 +921,18 @@
           "q": "Quanto custa uma ida de urgência ao veterinário em Palermo?",
           "a": "Cerca de 60 a 100 EUR por uma consulta básica de urgência, mais os exames. As tarifas veterinárias sicilianas estão 20 a 30 % abaixo das médias do continente italiano. Cirurgias de maior porte 500 a 1800 EUR."
         }
+      ],
+      "titleDe": "Notfalltierärzte [24 Std.] in Palermo, Tierkliniken & Haustierpflege",
+      "introDe": "Palermo verfügt über mehrere 24/7-Notfallkliniken, die größte Konzentration tierärztlicher Versorgung Siziliens. Das tiermedizinische Lehrnetzwerk der Universität Messina unterstützt den regionalen Standard.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt in Palermo?",
+          "a": "Ja, die Clinica Veterinaria Borgo Nuovo (Via Castellana) ist 24/7 mit vollständiger Notfallkapazität in Betrieb. Die größte Einrichtung Siziliens; rufen Sie vorher für die Triage an."
+        },
+        {
+          "q": "Wie viel kostet ein Tierarztnotfallbesuch in Palermo?",
+          "a": "Rund 60-100 EUR für eine einfache Notfallberatung, zuzüglich Diagnostik. Die sizilianischen Tierarztsätze liegen 20-30 Prozent unter dem Festlanddurchschnitt Italiens. Größere Operationen 500-1800 EUR."
+        }
       ]
     },
     "tips": {
@@ -844,14 +949,16 @@
           "description": "April–June and September–October are ideal: 18-26°C, beach swimmable, terraces in full swing. Avoid July–August (28-32°C, sirocco wind, sun-baked streets). November–March mild but rainy.",
           "descriptionFr": "Avril–juin et septembre–octobre sont idéaux : 18-26°C, mer baignable, terrasses à plein régime. Évitez juillet–août (28-32°C, vent sirocco, rues sous le soleil). Novembre–mars doux mais pluvieux.",
           "descriptionEs": "Abril–junio y septiembre–octubre son ideales: 18-26°C, mar bañable, terrazas a tope. Evita julio–agosto (28-32°C, viento siroco, calles bajo el sol). Noviembre–marzo suaves pero lluviosos.",
-          "descriptionPt": "De abril a junho e de setembro a outubro é ideal: 18 a 26 °C, praia com banhos, esplanadas a todo o vapor. Evite julho e agosto (28 a 32 °C, vento siroco, ruas torradas pelo sol). De novembro a março é ameno mas chuvoso."
+          "descriptionPt": "De abril a junho e de setembro a outubro é ideal: 18 a 26 °C, praia com banhos, esplanadas a todo o vapor. Evite julho e agosto (28 a 32 °C, vento siroco, ruas torradas pelo sol). De novembro a março é ameno mas chuvoso.",
+          "descriptionDe": "April-Juni und September-Oktober sind ideal: 18-26 °C, Strand badetauglich, Terrassen in vollem Betrieb. Meiden Sie Juli-August (28-32 °C, Scirocco-Wind, sonnenverbrannte Straßen). November-März mild, aber regnerisch."
         },
         {
           "name": "Heat & paw safety",
           "description": "Palermo's cobbled streets and Mondello sand both exceed 60°C in July-August midday, paw burns are real. Walk dogs before 09:00, after 19:00. Hotel AC is essential. Mondello water at 28°C is also too warm for older or thick-coated dogs.",
           "descriptionFr": "Les pavés de Palerme et le sable de Mondello dépassent tous deux 60°C en juillet-août en milieu de journée, brûlures de coussinets réelles. Promenez avant 9h, après 19h. Climatisation hôtel essentielle. L'eau à Mondello à 28°C est aussi trop chaude pour chiens âgés ou à poil épais.",
           "descriptionEs": "Los adoquines de Palermo y la arena de Mondello superan ambos 60°C en julio-agosto al mediodía, quemaduras de almohadillas reales. Pasea antes de las 09:00, después de las 19:00. AC del hotel esencial. El agua de Mondello a 28°C también es demasiado caliente para perros mayores o de pelo grueso.",
-          "descriptionPt": "As ruas calcetadas de Palermo e a areia de Mondello ultrapassam ambas os 60 °C ao meio-dia em julho e agosto, as queimaduras nas patas são reais. Passeie os cães antes das 09:00 e depois das 19:00. O ar condicionado no hotel é essencial. A água de Mondello, a 28 °C, também é demasiado quente para cães mais velhos ou de pelo espesso."
+          "descriptionPt": "As ruas calcetadas de Palermo e a areia de Mondello ultrapassam ambas os 60 °C ao meio-dia em julho e agosto, as queimaduras nas patas são reais. Passeie os cães antes das 09:00 e depois das 19:00. O ar condicionado no hotel é essencial. A água de Mondello, a 28 °C, também é demasiado quente para cães mais velhos ou de pelo espesso.",
+          "descriptionDe": "Sowohl die Kopfsteinpflasterstraßen Palermos als auch der Sand von Mondello übersteigen im Juli-August mittags 60 °C, Pfotenverbrennungen sind real. Gehen Sie mit dem Hund vor 09:00 Uhr und nach 19:00 Uhr spazieren. Klimaanlage im Hotel ist unerlässlich. Das 28 °C warme Wasser in Mondello ist auch für ältere oder dickfellige Hunde zu warm."
         },
         {
           "name": "Currency & cost",
@@ -859,7 +966,8 @@
           "description": "Italy uses the euro. Palermo is the cheapest major Italian city: meal 14-22 EUR, street food 2-4 EUR per item, mid-range pet-friendly hotel 90-140 EUR/night, taxi to airport 50 EUR fixed.",
           "descriptionFr": "L'Italie utilise l'euro. Palerme est la grande ville italienne la moins chère : repas 14-22 €, street food 2-4 € l'unité, hôtel pet-friendly milieu de gamme 90-140 €/nuit, taxi aéroport 50 € forfait.",
           "descriptionEs": "Italia usa el euro. Palermo es la gran ciudad italiana más barata: comida 14-22 €, comida callejera 2-4 € por unidad, hotel pet-friendly de gama media 90-140 €/noche, taxi aeropuerto 50 € fijo.",
-          "descriptionPt": "Itália usa o euro. Palermo é a mais barata das grandes cidades italianas: refeição 14 a 22 EUR, street food 2 a 4 EUR por item, hotel pet-friendly de gama média 90 a 140 EUR por noite, táxi para o aeroporto 50 EUR fixos."
+          "descriptionPt": "Itália usa o euro. Palermo é a mais barata das grandes cidades italianas: refeição 14 a 22 EUR, street food 2 a 4 EUR por item, hotel pet-friendly de gama média 90 a 140 EUR por noite, táxi para o aeroporto 50 EUR fixos.",
+          "descriptionDe": "Italien verwendet den Euro. Palermo ist die günstigste italienische Großstadt: Mahlzeit 14-22 EUR, Street Food 2-4 EUR pro Stück, hundefreundliches Mittelklassehotel 90-140 EUR/Nacht, Taxi zum Flughafen 50 EUR Festpreis."
         }
       ],
       "tipsEn": [
@@ -923,6 +1031,18 @@
           "q": "Devo evitar Palermo no verão com um cão?",
           "a": "Julho e agosto são difíceis. Ao meio-dia, as calçadas ultrapassam os 60 °C, o vento siroco traz tempestades de pó, e a água de Mondello chega aos 28 °C (demasiado quente para cães ativos). De maio a junho e de setembro a outubro é muitíssimo melhor, com o mesmo mar quente, ar mais ameno e preços mais baixos."
         }
+      ],
+      "titleDe": "Reisetipps für Palermo mit Hund",
+      "introDe": "Palermo ist die chaotisch-vergnüglichste unter Italiens Großstädten für einen Hund, mit entspannter Tavernenkultur, ganzjährigem Strandzugang in Mondello, dem 400 ha großen Parco della Favorita, aber auch intensiver Sommerhitze und mediterranem Verkehrsaufkommen. Frühling und Herbst sind ideal; der Sommer ist für Hunde brutal.",
+      "faqsDe": [
+        {
+          "q": "Ist Palermo insgesamt hundefreundlich?",
+          "a": "Ja, sehr. Die sizilianische Tavernenkultur heißt Hunde auf den Terrassen willkommen, der Mondello Bau-Beach ist 20 Minuten mit dem Bus entfernt, der Parco della Favorita umfasst 400 ha Stadtpark, und mehrere 24/7-Notfalltierärzte sind verfügbar. Einzige Einschränkungen: Sommerhitze (28-32 °C) und chaotischer Verkehr, gehen Sie zu Fuß oder mit der Straßenbahn statt dem Bus."
+        },
+        {
+          "q": "Sollte ich Palermo im Sommer mit Hund meiden?",
+          "a": "Juli-August sind hart. Mittags übersteigt die Temperatur des Kopfsteinpflasters 60 °C, der Scirocco-Wind bringt Staubstürme, und das Wasser in Mondello erreicht 28 °C (zu warm für aktive Hunde). Mai-Juni und September-Oktober sind deutlich besser, gleiches warmes Meer, mildere Luft, niedrigere Preise."
+        }
       ]
     },
     "attractions": {
@@ -951,7 +1071,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Quattro+Canti+Palermo",
           "descriptionPt": "Cruzamento octogonal barroco (1620) onde a Via Maqueda encontra o Corso Vittorio Emanuele, o centro simbólico da cidade. A adjacente Piazza Pretoria ('Praça da Vergonha') acolhe a fonte de nus do século XVI. Ambas totalmente abertas a cães com trela.",
           "petPolicyPt": "Praças públicas abertas; cães bem-vindos com trela",
-          "tipPt": "A luz do pôr do sol atinge as quatro fachadas dos Quattro Canti em proporção dourada, a melhor foto com o cão por volta das 19:00 no verão."
+          "tipPt": "A luz do pôr do sol atinge as quatro fachadas dos Quattro Canti em proporção dourada, a melhor foto com o cão por volta das 19:00 no verão.",
+          "descriptionDe": "Barocke achteckige Kreuzung (1620), an der sich die Via Maqueda und der Corso Vittorio Emanuele treffen, das symbolische Zentrum der Stadt. Die angrenzende Piazza Pretoria (\"Platz der Schande\") beherbergt den nackten Brunnen aus dem 16. Jahrhundert. Beide für angeleinte Hunde vollständig zugänglich.",
+          "petPolicyDe": "Offene öffentliche Plätze; Hunde an der Leine willkommen",
+          "tipDe": "Das Abendlicht trifft die vier Fassaden am Quattro Canti im goldenen Schnitt, bestes Hundefoto gegen 19:00 Uhr im Sommer."
         },
         {
           "name": "Palermo Cathedral",
@@ -971,7 +1094,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cattedrale+Palermo",
           "descriptionPt": "Catedral árabe-normanda, classificada pela UNESCO, iniciada em 1185, com camadas de acrescentos góticos, renascentistas e neoclássicos. Os cães não são permitidos no interior (à exceção dos cães de assistência), mas a praça envolvente e as muralhas normandas medievais por trás são totalmente acessíveis.",
           "petPolicyPt": "Sem cães no interior; praça exterior totalmente acessível",
-          "tipPt": "A visita ao telhado (7 EUR) sobe a um panorama de 360°, mas os cães não são permitidos. Reserve um cuidador Pawshake por 1h se quiser subir."
+          "tipPt": "A visita ao telhado (7 EUR) sobe a um panorama de 360°, mas os cães não são permitidos. Reserve um cuidador Pawshake por 1h se quiser subir.",
+          "descriptionDe": "UNESCO-Kathedrale im arabisch-normannischen Stil, begonnen 1185, überlagert mit gotischen, Renaissance- und neoklassizistischen Ergänzungen. Hunde im Inneren nicht erlaubt (außer Assistenzhunde), doch der umliegende Platz und die dahinterliegenden mittelalterlichen normannischen Mauern sind vollständig zugänglich.",
+          "petPolicyDe": "Keine Hunde im Inneren; Platz im Freien vollständig zugänglich",
+          "tipDe": "Die Dachtour (7 €) führt zu einem 360°-Panorama hinauf, Hunde jedoch nicht erlaubt. Buchen Sie für 1 Std. einen Pawshake-Sitter, wenn Sie hinaufsteigen möchten."
         },
         {
           "name": "Mercato di Ballarò",
@@ -991,7 +1117,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Mercato+Ballaro+Palermo",
           "descriptionPt": "O mais antigo e vibrante mercado de rua de Palermo, que remonta à era árabe do século X. Bancas diárias de legumes, peixe e street food, vendedores a gritar os tradicionais pregões 'abbanniate'. A experiência mais sensorial da Sicília, totalmente percorrível com cão.",
           "petPolicyPt": "Mercado de rua aberto; cães bem-vindos com trela",
-          "tipPt": "Mantenha os cães com trela curta, o chão fica constantemente molhado com água de peixe e restos de legumes, e há gatos vadios por todo o lado. Chegue cedo (07:30) para o pescado mais fresco e o ambiente mais calmo."
+          "tipPt": "Mantenha os cães com trela curta, o chão fica constantemente molhado com água de peixe e restos de legumes, e há gatos vadios por todo o lado. Chegue cedo (07:30) para o pescado mais fresco e o ambiente mais calmo.",
+          "descriptionDe": "Palermos ältester und lebendigster Straßenmarkt, entstanden im 10. Jahrhundert zur arabischen Zeit. Tägliche Stände mit Gemüse, Fisch und Street Food, Verkäufer, die die traditionellen \"abbanniate\"-Rufe ausrufen. Das sinnlichste Erlebnis Siziliens, vollständig mit Hund begehbar.",
+          "petPolicyDe": "Offener Straßenmarkt; Hunde an der Leine willkommen",
+          "tipDe": "Halten Sie Hunde an kurzer Leine, der Boden ist ständig nass von Fischwasser und Gemüseresten, und streunende Katzen sind überall. Kommen Sie früh (07:30 Uhr) für den frischesten Fang und die ruhigste Atmosphäre."
         }
       ],
       "tipsEn": [
@@ -1055,6 +1184,18 @@
           "q": "Que pontos ao ar livre devo priorizar com um cão em Palermo?",
           "a": "Três prioridades: 1) Quattro Canti e Piazza Pretoria, pelo centro barroco; 2) o exterior da catedral e as muralhas normandas; 3) o mercado de Ballarò às 07:30 e o pôr do sol no Foro Italico. Mais o Parco della Favorita e a Bau-Beach de Mondello como os dois passeios de um dia ao ar livre."
         }
+      ],
+      "titleDe": "Die besten hundefreundlichen Attraktionen in Palermo, Quattro Canti, Kathedrale & Märkte",
+      "introDe": "Palermos UNESCO-Altstadt im arabisch-normannischen Stil lässt sich am besten als Freiluft-Architekturspaziergang erleben, perfekt mit angeleintem Hund. Die meisten Sehenswürdigkeiten im Freien heißen Hunde an der Leine willkommen; nur das Kathedraleninnere, die Capella Palatina und das Innere der Zisa verbieten Haustiere.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund zu den Straßenmärkten von Palermo mitnehmen?",
+          "a": "Ja, alle drei, Ballarò, Vucciria, Capo, sind offene öffentliche Straßenmärkte ohne Zugangsbeschränkung. Halten Sie Hunde an kurzer Leine, da der Boden nass von Marktabwasser ist und streunende Katzen häufig sind. Die Märkte schließen um 14:00 Uhr (Mittagspause)."
+        },
+        {
+          "q": "Welche Sehenswürdigkeiten im Freien sollte ich mit Hund in Palermo priorisieren?",
+          "a": "Drei Prioritäten: 1) Quattro Canti + Piazza Pretoria für das barocke Zentrum; 2) Kathedrale außen + normannische Mauern; 3) Markt Ballarò um 07:30 Uhr + Sonnenuntergang am Foro Italico. Dazu der Parco della Favorita und der Mondello Bau-Beach als die beiden Tagesausflüge im Freien."
+        }
       ]
     },
     "petsitting": {
@@ -1079,7 +1220,9 @@
           "tipFr": "La plupart des sitters dans Kalsa, Vucciria ou près du Politeama (5-15 min du centre). Sitters anglophones disponibles, filtrez à la réservation.",
           "tipEs": "La mayoría de los cuidadores en Kalsa, Vucciria o cerca del Politeama (5-15 min del centro). Cuidadores anglohablantes disponibles, filtra al reservar.",
           "descriptionPt": "A principal plataforma de pet sitting de Itália (propriedade da Rover). Cerca de 10 cuidadores verificados em Palermo. Visitas pontuais, creche, alojamento com pernoita. Seguro incluído, cuidadores avaliados.",
-          "tipPt": "A maioria dos cuidadores fica na Kalsa, na Vucciria ou perto do Politeama (5 a 15 minutos do centro). Há cuidadores que falam inglês, filtre na reserva."
+          "tipPt": "A maioria dos cuidadores fica na Kalsa, na Vucciria ou perto do Politeama (5 a 15 minutos do centro). Há cuidadores que falam inglês, filtre na reserva.",
+          "descriptionDe": "Italiens führende Plattform für Haustierbetreuung (im Besitz von Rover). Rund 10 verifizierte Sitter in Palermo. Kurzbesuche, Tagesbetreuung, Übernachtungsbetreuung. Versicherung inbegriffen, bewertete Sitter.",
+          "tipDe": "Die meisten Sitter befinden sich in Kalsa, Vucciria oder nahe dem Politeama (5-15 Min. vom Zentrum). Englischsprachige Sitter verfügbar, bei der Buchung filtern."
         },
         {
           "name": "Pawshake Palermo",
@@ -1095,7 +1238,9 @@
           "tipFr": "Réservez 48h à l'avance en période normale. Été sicilien (juillet-août), 5+ jours à l'avance, les locaux ont aussi besoin de sitters à la plage.",
           "tipEs": "Reserva con 48h en periodos normales. Verano siciliano (julio-agosto), 5+ días antes, los locales también necesitan cuidadores en la playa.",
           "descriptionPt": "Plataforma internacional com cerca de 5 cuidadores verificados em Palermo. Útil pela interface em inglês e pela portabilidade global da conta.",
-          "tipPt": "Reserve com 48h de antecedência em períodos normais. No verão siciliano (julho e agosto), reserve com 5 ou mais dias de antecedência, os habitantes também precisam de cuidadores na praia."
+          "tipPt": "Reserve com 48h de antecedência em períodos normais. No verão siciliano (julho e agosto), reserve com 5 ou mais dias de antecedência, os habitantes também precisam de cuidadores na praia.",
+          "descriptionDe": "Internationale Plattform mit rund 5 verifizierten Sittern in Palermo. Nützlich wegen der englischsprachigen Benutzeroberfläche und der weltweiten Kontoübertragbarkeit.",
+          "tipDe": "In normalen Zeiten 48 Std. im Voraus buchen. Im sizilianischen Sommer (Juli-August) 5+ Tage im Voraus buchen, auch Einheimische benötigen Sitter am Strand."
         }
       ],
       "tipsEn": [
@@ -1158,6 +1303,18 @@
         {
           "q": "Posso deixar o meu cão no meu hotel de Palermo durante o dia?",
           "a": "A maioria dos hotéis pet-friendly de Palermo (Villa Igiea, Quintocanto, Eurostars Centrale, Plaza Opera, BB22 Palace) aceita cães no quarto durante a sua ausência se forem calmos. O ar condicionado a funcionar é essencial no verão (os quartos podem chegar aos 30 °C sem ele)."
+        }
+      ],
+      "titleDe": "Hundebetreuung & Tagesbetreuung in Palermo, verifizierte Plattformen",
+      "introDe": "Besuche im Kathedraleninneren, der Capella Palatina und den Katakomben erfordern manchmal, den Hund zurückzulassen. Zwei internationale Plattformen (DogBuddy/Rover, Pawshake) sind in Palermo mit rund 15 verifizierten örtlichen Sittern aktiv.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter für den Kathedralenbesuch in Palermo?",
+          "a": "Sowohl Rover (DogBuddy) als auch Pawshake ermöglichen die Buchung von 1-2-stündigen Kurzbesuchen bei verifizierten örtlichen Sittern, perfekt für den Rundgang Kathedrale + Capella Palatina (ca. 2 Std.). Die meisten Sitter im Zentrum Palermos bieten dies gezielt an."
+        },
+        {
+          "q": "Kann ich meinen Hund tagsüber in meinem Hotel in Palermo lassen?",
+          "a": "Die meisten hundefreundlichen Hotels in Palermo (Villa Igiea, Quintocanto, Eurostars Centrale, Plaza Opera, BB22 Palace) erlauben Hunde im Zimmer während Ihrer Abwesenheit, sofern sie ruhig sind. Laufende Klimaanlage ist im Sommer unerlässlich (Zimmer können ohne diese 30 °C erreichen)."
         }
       ]
     }

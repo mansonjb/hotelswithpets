@@ -37,7 +37,11 @@
           "descriptionPt": "Uma churrascaria de estilo francês junto ao canal em Perpignan, que serve carnes grelhadas, hambúrgueres e sobremesas. Tem um pátio sombreado e pet-friendly onde os cães são bem-vindos, o que faz dele uma opção fácil e fiável para uma refeição com cão no centro.",
           "petPolicyPt": "Pátio sombreado pet-friendly; cães com trela bem-vindos",
           "mustTryPt": "Um bife grelhado com escolha de molhos no pátio sombreado",
-          "tipPt": "Peça o pátio sombreado no verão; as tardes de Perpignan ficam muito quentes, e a esplanada junto ao canal é mais fresca."
+          "tipPt": "Peça o pátio sombreado no verão; as tardes de Perpignan ficam muito quentes, e a esplanada junto ao canal é mais fresca.",
+          "descriptionDe": "Ein Grillrestaurant im französischen Stil entlang des Kanals in Perpignan, das gegrilltes Fleisch, Burger und Desserts serviert. Es hat eine schattige, hundefreundliche Terrasse, auf der Hunde willkommen sind, was es zu einer einfachen, verlässlichen Option für ein Essen mit Hund im Zentrum macht.",
+          "petPolicyDe": "Hundefreundliche schattige Terrasse; angeleinte Hunde willkommen",
+          "mustTryDe": "Ein gegrilltes Steak mit Sauce nach Wahl auf der schattigen Terrasse",
+          "tipDe": "Im Sommer nach der schattigen Terrasse fragen; die Nachmittage in Perpignan werden sehr heiß, und die Kanalterrasse ist kühler."
         },
         {
           "name": "L'Arago",
@@ -63,7 +67,11 @@
           "descriptionPt": "Uma brasserie central que serve pratos franceses e italianos, pizzas, massas e saladas frescas, com um pátio exterior pet-friendly. Uma escolha descontraída e prática no coração da cidade, bem situada entre os principais pontos de interesse e o canal.",
           "petPolicyPt": "Pátio exterior pet-friendly; cães com trela bem-vindos",
           "mustTryPt": "Uma pizza no forno a lenha ou uma salada fresca no pátio",
-          "tipPt": "Central e acessível a pé; combine-o com um passeio até Le Castillet, a poucos minutos a pé com o cão."
+          "tipPt": "Central e acessível a pé; combine-o com um passeio até Le Castillet, a poucos minutos a pé com o cão.",
+          "descriptionDe": "Eine zentral gelegene Brasserie mit französischen und italienischen Gerichten, Pizzen, Pastagerichten und frischen Salaten, mit einer hundefreundlichen Außenterrasse. Eine entspannte, praktische Wahl im Herzen der Stadt, gut gelegen zwischen den wichtigsten Sehenswürdigkeiten und dem Kanal.",
+          "petPolicyDe": "Hundefreundliche Außenterrasse; angeleinte Hunde willkommen",
+          "mustTryDe": "Eine Pizza aus dem Holzofen oder ein frischer Salat auf der Terrasse",
+          "tipDe": "Zentral und fußläufig; gut kombinierbar mit einem Spaziergang zum wenige Gehminuten entfernten Le Castillet mit dem Hund."
         },
         {
           "name": "Historic-centre terraces around Le Castillet",
@@ -89,7 +97,11 @@
           "descriptionPt": "As praças e ruelas em redor de Le Castillet e da Place de Verdun estão repletas de cafés e restaurantes catalães cujas esplanadas, em geral, acolhem cães com trela. Uma zona agradável para pratos de partilha ao estilo tapas, especialidades catalãs e um copo de vinho local do Roussillon com um cão aos pés.",
           "petPolicyPt": "A maioria das esplanadas acolhe cães com trela; confirme no local",
           "mustTryPt": "Especialidades catalãs como a bullinada (caldeirada de peixe) ou a escalivada, com um vinho do Roussillon",
-          "tipPt": "As esplanadas enchem à hora do aperitivo; chegue um pouco mais cedo com cão para conseguir uma mesa mais sossegada, longe da passagem mais movimentada."
+          "tipPt": "As esplanadas enchem à hora do aperitivo; chegue um pouco mais cedo com cão para conseguir uma mesa mais sossegada, longe da passagem mais movimentada.",
+          "descriptionDe": "Die Plätze und Gassen rund um Le Castillet und die Place de Verdun sind gesäumt von Cafés und katalanischen Restaurants, deren Außenterrassen angeleinte Hunde weitgehend willkommen heißen. Ein angenehmes Viertel für Tapas-artige Sharing-Teller, katalanische Spezialitäten und ein Glas Roussillon-Wein mit dem Hund zu Füßen.",
+          "petPolicyDe": "Die meisten Außenterrassen heißen angeleinte Hunde willkommen; im Lokal bitte nachfragen",
+          "mustTryDe": "Katalanische Spezialitäten wie Bullinada (Fischeintopf) oder Escalivada, dazu ein Roussillon-Wein",
+          "tipDe": "Die Terrassen füllen sich zur Aperitif-Stunde; mit Hund etwas früher kommen für einen ruhigeren Tisch abseits des größten Trubels."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Dónde estão as melhores esplanadas pet-friendly?",
           "a": "Em redor de Le Castillet e da Place de Verdun, no centro histórico, e ao longo do canal, onde muitos cafés e restaurantes catalães acolhem cães com trela na esplanada."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Perpignan",
+      "introDe": "Perpignan, die katalanische Hauptstadt Südfrankreichs, hat eine warme mediterrane Café- und Terrassenkultur, die sich gut zum Essengehen mit Hund eignet. Die Außenterrassen rund um Le Castillet und die Altstadt sind weitgehend hundetolerant, und mehrere Lokale sind ausdrücklich hundefreundlich. TheFork und BringFido listen beide hundefreundliche Restaurants in der Stadt, von katalanischen und französischen Grills bis zu italienischem Street Food. Die Außenbestuhlung entlang des Bassin-Kanals und in der Altstadt ist die verlässlichste Wahl; den Einlass drinnen sollte man an der Tür bestätigen, da die Regeln variieren.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in Restaurants in Perpignan mitnehmen?",
+          "a": "Außenterrassen sind in Perpignan weitgehend hundetolerant, und mehrere Lokale wie Hippopotamus und L'Arago sind ausdrücklich hundefreundlich. Der Einlass drinnen variiert, daher an der Tür nachfragen."
+        },
+        {
+          "q": "Wo sind die besten hundefreundlichen Terrassen?",
+          "a": "Rund um Le Castillet und die Place de Verdun in der Altstadt sowie entlang des Kanals, wo viele Cafés und katalanische Restaurants angeleinte Hunde draußen willkommen heißen."
+        }
       ]
     },
     "parks": {
@@ -203,7 +227,9 @@
             "Relvados abertos",
             "Equipamento de exercício"
           ],
-          "tipPt": "Use a área para cães sinalizada para o tempo sem trela; no resto dos trilhos a trela é obrigatória."
+          "tipPt": "Use a área para cães sinalizada para o tempo sem trela; no resto dos trilhos a trela é obrigatória.",
+          "descriptionDe": "Ein entspannter Park mit schattigen Wegen und offenen Flächen, beliebt bei Hundehaltern. Er umfasst eine Boule-Bahn, öffentliche Fitnessgeräte und eine eigene Hundezone, in der Hunde ohne Leine laufen dürfen. Eine der angenehmsten Grünflächen der Stadt für einen längeren Spaziergang.",
+          "tipDe": "Die markierte Hundezone für Freilauf nutzen; auf den übrigen Wegen gilt Leinenpflicht."
         },
         {
           "name": "Parc de la Pépinière",
@@ -245,7 +271,9 @@
             "Localização central",
             "Sombra"
           ],
-          "tipPt": "Trela obrigatória aqui; para exercício sem trela vá antes ao espace canin sinalizado mais próximo."
+          "tipPt": "Trela obrigatória aqui; para exercício sem trela vá antes ao espace canin sinalizado mais próximo.",
+          "descriptionDe": "Eine große zentrale Grünfläche, ideal für einen ruhigen Spaziergang nahe der Innenstadt. Grün und ruhig, gut geeignet für einen täglichen Spaziergang an der Leine. Kombinieren Sie ihn mit einer der nahegelegenen, auf der Stadtkarte markierten espaces canins, wenn Ihr Hund freien Auslauf braucht.",
+          "tipDe": "Hier gilt Leinenpflicht; für Freilauf zur nächsten markierten espace canin gehen."
         },
         {
           "name": "Berges de la Têt (riverside promenade)",
@@ -287,7 +315,9 @@
             "Sombra parcial",
             "Caminhar e pedalar"
           ],
-          "tipPt": "Leve água e passeie cedo ou depois do pôr do sol no verão; o sol da tarde do Roussillon e o vento Tramontana podem ser intensos."
+          "tipPt": "Leve água e passeie cedo ou depois do pôr do sol no verão; o sol da tarde do Roussillon e o vento Tramontana podem ser intensos.",
+          "descriptionDe": "Eine Uferpromenade entlang der Têt mit schöner Landschaft und ruhiger Atmosphäre, beliebt zum Spazierengehen, Laufen und Radfahren. Flach und über weite Strecken schattig, eine gute Route am frühen Morgen oder Abend, um die Mittagshitze zu vermeiden, an der Leine.",
+          "tipDe": "Im Sommer Wasser mitnehmen und früh oder nach Sonnenuntergang gehen; die Roussillon-Nachmittagssonne und der Tramontane-Wind können intensiv sein."
         }
       ],
       "tipsEn": [
@@ -351,6 +381,18 @@
           "q": "Se admitem cães nos parques de Perpinhán?",
           "a": "Sim, com trela. O Parc Sant Vicens, o Parc de la Pépinière e as Berges de la Têt são todos pet-friendly; para exercício sem trela, use um espace canin sinalizado."
         }
+      ],
+      "titleDe": "Die besten Parks & Hundezonen in Perpignan",
+      "introDe": "Perpignan ist außergewöhnlich gut auf Hunde eingestellt: Die Stadt unterhält rund 37 Hundezonen (espaces canins), verteilt über alle Stadtteile, in denen Hunde ohne Leine laufen dürfen, kartiert auf der offiziellen Website mairie-perpignan.fr. Für längere Spaziergänge bietet der Parc Sant Vicens schattige Wege, offene Flächen und eine eigene Hundezone, der Parc de la Pépinière ist eine große zentrale Grünfläche, und die Berges de la Têt bieten eine Uferpromenade. Außerhalb der markierten espaces canins gilt überall Leinenpflicht, und Hundekot muss entfernt werden.",
+      "faqsDe": [
+        {
+          "q": "Wo darf mein Hund in Perpignan ohne Leine laufen?",
+          "a": "Die Stadt unterhält rund 37 markierte Hundezonen (espaces canins) in allen Stadtteilen, in denen Hunde ohne Leine laufen dürfen. Auch der Parc Sant Vicens hat eine eigene Hundezone. Die offizielle Stadt-Website zeigt alle auf einer Karte."
+        },
+        {
+          "q": "Sind Hunde in den Parks von Perpignan erlaubt?",
+          "a": "Ja, an der Leine. Der Parc Sant Vicens, der Parc de la Pépinière und die Berges de la Têt sind alle hundefreundlich; für Freilauf eine markierte espace canin nutzen."
+        }
       ]
     },
     "transport": {
@@ -377,7 +419,10 @@
           "website": "https://www.sankeo.com/faq-2/",
           "descriptionPt": "A rede de autocarros local de Perpignan. Os cães e gatos são transportados gratuitamente se forem levados ao colo num cesto; os cães que não vão em transportadora fechada são admitidos com bilhete de tarifa completa, com trela e açaime. Os cães-guia viajam com trela. Uma forma prática de chegar aos bairros periféricos e às ligações.",
           "petPolicyPt": "Animais pequenos de graça num cesto ao colo; cães maiores bilhete de tarifa completa, com trela e açaime",
-          "tipPt": "Leve um açaime para um cão maior; a Sankéo exige-o para cães que não viajam em transportadora fechada."
+          "tipPt": "Leve um açaime para um cão maior; a Sankéo exige-o para cães que não viajam em transportadora fechada.",
+          "descriptionDe": "Perpignans lokales Busnetz. Hunde und Katzen werden kostenlos befördert, wenn sie auf dem Schoß in einem Korb gehalten werden; Hunde ohne geschlossene Transportbox werden mit vollem Fahrschein zugelassen, angeleint und mit Maulkorb. Blindenführhunde reisen an der Leine. Eine praktische Möglichkeit, die Außenbezirke und Anschlusslinien zu erreichen.",
+          "petPolicyDe": "Kleine Haustiere kostenlos im Korb auf dem Schoß; größere Hunde mit vollem Fahrschein, angeleint und mit Maulkorb",
+          "tipDe": "Für größere Hunde einen Maulkorb mitnehmen; Sankéo verlangt ihn für Hunde ohne geschlossene Transportbox."
         },
         {
           "name": "TER liO regional trains (SNCF)",
@@ -395,7 +440,10 @@
           "website": "https://www.ter.sncf.com/occitanie/tarifs-cartes/billet-animal",
           "descriptionPt": "A estação de Perpignan integra a rede regional da Occitânia, com serviços frequentes ao longo da costa e para Montpellier, Narbona e a fronteira espanhola. Compre o bilhete do animal na estação: cães com menos de 6 kg num saco (máx. 45x30x25 cm), cães maiores com açaime e trela, até dois por passageiro. Os cães-guia viajam de graça.",
           "petPolicyPt": "Bilhete do animal na estação; cães com menos de 6 kg num saco, cães maiores com açaime e trela; máx. 2 por passageiro",
-          "tipPt": "Compre o bilhete do animal na bilheteira ou na máquina antes de embarcar; é necessário açaime para cães maiores."
+          "tipPt": "Compre o bilhete do animal na bilheteira ou na máquina antes de embarcar; é necessário açaime para cães maiores.",
+          "descriptionDe": "Der Bahnhof von Perpignan liegt am Regionalnetz Occitanie mit häufigen Verbindungen entlang der Küste sowie nach Montpellier, Narbonne und zur spanischen Grenze. Das Haustierticket am Bahnhof kaufen: Hunde unter 6 kg reisen in einer Tasche (max. 45x30x25 cm), größere Hunde mit Maulkorb und Leine, bis zu zwei pro Fahrgast. Blindenführhunde reisen kostenlos.",
+          "petPolicyDe": "Haustierticket am Bahnhof; Hunde unter 6 kg in einer Tasche, größere Hunde mit Maulkorb und Leine; max. 2 pro Fahrgast",
+          "tipDe": "Das Haustierticket vor dem Einsteigen am Schalter oder Automaten kaufen; für größere Hunde ist ein Maulkorb nötig."
         },
         {
           "name": "On foot & to the beaches",
@@ -413,7 +461,10 @@
           "website": "https://www.plages.tv/chiens/liste-pyrenees-orientales",
           "descriptionPt": "O centro plano e compacto percorre-se facilmente a pé com cão, e o canal e as margens do Têt acrescentam percursos sem trânsito. Para um dia de praia, os troços pet-friendly de Canet-en-Roussillon, Sainte-Marie e Torreilles ficam a uma curta viagem de autocarro ou de carro, para leste. Note que as proibições sazonais de praia decorrem sensivelmente de 15 de junho a 15 de setembro na maioria dos troços.",
           "petPolicyPt": "Trela obrigatória nos passeios, no canal e nas margens do rio",
-          "tipPt": "Planeie as idas à praia em função da proibição sazonal: a maioria dos troços perto de Perpignan fecha aos cães de meados de junho a meados de setembro."
+          "tipPt": "Planeie as idas à praia em função da proibição sazonal: a maioria dos troços perto de Perpignan fecha aos cães de meados de junho a meados de setembro.",
+          "descriptionDe": "Das flache, kompakte Zentrum lässt sich gut mit Hund zu Fuß erkunden, und der Kanal sowie die Têt-Ufer bieten zusätzliche verkehrsfreie Strecken. Für einen Strandtag sind die hundefreundlichen Abschnitte in Canet-en-Roussillon, Sainte-Marie und Torreilles eine kurze Bus- oder Autofahrt östlich entfernt. Zu beachten: Die saisonalen Strandverbote gelten an den meisten Abschnitten ungefähr vom 15. Juni bis 15. September.",
+          "petPolicyDe": "Leinenpflicht auf den Promenaden, am Kanal und an den Flussufern",
+          "tipDe": "Strandausflüge um das saisonale Verbot herum planen: Die meisten Abschnitte nahe Perpignan sind von Mitte Juni bis Mitte September für Hunde gesperrt."
         }
       ],
       "tipsEn": [
@@ -477,6 +528,18 @@
           "q": "Como llevo a mi cão no comboio a partir de Perpinhán?",
           "a": "Nos comboios TER liO, compre um bilhete de animal na estação. Os cães com menos de 6 kg viajam num saco; os maiores precisam de açaime e trela, até dois animais por passageiro."
         }
+      ],
+      "titleDe": "Mit dem Hund unterwegs in Perpignan",
+      "introDe": "Perpignan ist kompakt und flach, sodass sich das Zentrum, der Kanal und die Flussufer mit Hund größtenteils zu Fuß erkunden lassen. Das lokale Busnetz Sankéo befördert kleine Hunde und Katzen kostenlos, wenn sie auf dem Schoß in einem Korb gehalten werden; größere Hunde reisen mit vollem Fahrschein, angeleint und mit Maulkorb. TER-(liO-)Regionalzüge befördern Haustiere gegen ein am Bahnhof gekauftes Ticket: Hunde unter 6 kg in einer Tasche, größere Hunde mit Maulkorb und Leine, bis zu zwei pro Fahrgast. Die Strände von Canet, Sainte-Marie und Torreilles sind eine kurze Bus- oder Autofahrt entfernt.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund in Perpignans Bussen mitfahren?",
+          "a": "Ja. Bei Sankéo fahren kleine Hunde kostenlos im Korb auf dem Schoß; größere Hunde reisen mit vollem Fahrschein, angeleint und mit Maulkorb."
+        },
+        {
+          "q": "Wie nehme ich meinen Hund im Zug ab Perpignan mit?",
+          "a": "Bei den TER-liO-Zügen ein Haustierticket am Bahnhof kaufen. Hunde unter 6 kg reisen in einer Tasche; größere Hunde brauchen Maulkorb und Leine, bis zu zwei Tiere pro Fahrgast."
+        }
       ]
     },
     "beaches": {
@@ -529,7 +592,10 @@
             "Comodidades da estância ali perto",
             "Perto de Perpignan"
           ],
-          "tipPt": "Dirija-se especificamente à zona dos abrigos dos pescadores; é aí que os cães com trela são autorizados todo o ano no Lido."
+          "tipPt": "Dirija-se especificamente à zona dos abrigos dos pescadores; é aí que os cães com trela são autorizados todo o ano no Lido.",
+          "descriptionDe": "Der Lido-Strand in Canet-en-Roussillon ist der nächstgelegene verlässliche ganzjährige Hundestrand bei Perpignan und erlaubt angeleinte Hunde das ganze Jahr über in der Nähe der Fischerhütten (cabanes de pêcheurs). Ein langer Sandstrand am Mittelmeer, etwa 15-20 Minuten mit dem Auto von der Stadt entfernt, mit den Annehmlichkeiten des Badeorts in der Nähe.",
+          "seasonalRestrictionsDe": "Angeleinte Hunde ganzjährig erlaubt in der Nähe der Fischerhütten; aktuelle Beschilderung prüfen",
+          "tipDe": "Gezielt den Abschnitt bei den Fischerhütten aufsuchen; dort sind angeleinte Hunde am Lido ganzjährig erlaubt."
         },
         {
           "name": "Plages de Torreilles",
@@ -573,7 +639,10 @@
             "Acesso a cães fora de época",
             "Sossegada na primavera/outono"
           ],
-          "tipPt": "Melhor de outubro a meados de junho; a proibição de verão (15 de junho a 15 de setembro) obriga a usar o Lido de Canet ou a esperar pela época intermédia."
+          "tipPt": "Melhor de outubro a meados de junho; a proibição de verão (15 de junho a 15 de setembro) obriga a usar o Lido de Canet ou a esperar pela época intermédia.",
+          "descriptionDe": "Torreilles hat die hundefreundlichsten Strände der Gegend, mit zwei Abschnitten, die angeleinte Hunde akzeptieren. Vom 15. Juni bis 15. September sind Hunde nicht erlaubt, aber den Rest des Jahres können Sie angeleinte Hunde entlang dieser breiten, natürlichen, dünengesäumten Sandstrände ausführen, etwa 20-25 Minuten mit dem Auto von Perpignan entfernt.",
+          "seasonalRestrictionsDe": "Angeleinte Hunde erlaubt außer vom 15. Juni bis 15. September (Sommerverbot)",
+          "tipDe": "Am besten von Oktober bis Mitte Juni; das Sommerverbot (15. Juni bis 15. September) bedeutet, dass Sie den Lido von Canet nutzen oder auf die Nebensaison warten müssen."
         },
         {
           "name": "Sainte-Marie & off-season Roussillon coast",
@@ -617,7 +686,10 @@
             "Várias localidades à escolha",
             "Areia mais fresca na época intermédia"
           ],
-          "tipPt": "A primavera e o outono são o momento ideal para dias de praia com cão perto de Perpignan; verifique sempre a sinalização atual da localidade antes de sair."
+          "tipPt": "A primavera e o outono são o momento ideal para dias de praia com cão perto de Perpignan; verifique sempre a sinalização atual da localidade antes de sair.",
+          "descriptionDe": "Entlang der Roussillon-Küste bei Perpignan ist die Toleranz gegenüber Hunden außerhalb der Saison deutlich höher als im Sommer. Orte wie Sainte-Marie-la-Mer und Le Barcarès erlauben angeleinte Hunde in der Regel von etwa Oktober bis Ende Juni. Außerhalb der Hochsaison sind die breiten Mittelmeerstrände ruhig, kühl und deutlich hundefreundlicher.",
+          "seasonalRestrictionsDe": "Die meisten Abschnitte erlauben angeleinte Hunde außerhalb der Saison (ungefähr Oktober bis Ende Juni); Sommerverbote gelten",
+          "tipDe": "Frühling und Herbst sind die beste Zeit für Hundestrandtage bei Perpignan; immer die aktuelle Beschilderung der Gemeinde vor der Abfahrt prüfen."
         }
       ],
       "tipsEn": [
@@ -681,6 +753,18 @@
           "q": "Cuándo são pet-friendly as praias locales?",
           "a": "Fora da proibição estival (sensivelmente de 15 de junho a 15 de setembro), a maioria das praias do Roussillon perto de Perpinhã, incluindo Torreilles e Sainte-Marie, admite cães com trela. A primavera e o outono são as melhores épocas."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Perpignan",
+      "introDe": "Perpignan liegt eine kurze Autofahrt von der Küste des Roussillon entfernt, wo mehrere Strände Hunde willkommen heißen; die Regeln variieren je nach Gemeinde und Saison. Der Lido-Strand in Canet-en-Roussillon erlaubt angeleinte Hunde ganzjährig, in der Nähe der Fischerhütten. Torreilles hat die meisten hundefreundlichen Abschnitte, mit angeleinten Hunden erlaubt außerhalb des Sommerverbots (ungefähr 15. Juni bis 15. September). In den Pyrénées-Orientales ist die Toleranz außerhalb der Saison deutlich höher, sodass Frühling und Herbst weit mehr Möglichkeiten bieten. Immer die Beschilderung am Strandeingang beachten, da die Gemeinderegeln unterschiedlich sind und sich ändern.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund im Sommer an den Strand bei Perpignan mitnehmen?",
+          "a": "Ja, zum Abschnitt bei den Fischerhütten am Lido-Strand von Canet-en-Roussillon, der angeleinte Hunde ganzjährig erlaubt. Die meisten anderen örtlichen Strände verbieten Hunde vom 15. Juni bis 15. September."
+        },
+        {
+          "q": "Wann sind die örtlichen Strände hundefreundlich?",
+          "a": "Außerhalb des Sommerverbots (ungefähr 15. Juni bis 15. September) erlauben die meisten Roussillon-Strände bei Perpignan, einschließlich Torreilles und Sainte-Marie, angeleinte Hunde. Frühling und Herbst sind die beste Zeit."
+        }
       ]
     },
     "vets": {
@@ -731,7 +815,9 @@
             "Medicina interna",
             "Oftalmologia e exóticos"
           ],
-          "tipPt": "Programe este número à chegada; é a clínica para a qual os outros veterinários locais encaminham as urgências fora de horário."
+          "tipPt": "Programe este número à chegada; é a clínica para a qual os outros veterinários locais encaminham as urgências fora de horário.",
+          "descriptionDe": "Eine Tierarztpraxis im Stadtteil Tecnosud, die Notfälle 24/7, an jedem Tag des Jahres, für Hunde, Katzen und exotische Haustiere behandelt. Das Team bietet Chirurgie, Innere Medizin und Ophthalmologie. Der verlässlichste einzelne Anruf für einen Notfall außerhalb der Öffnungszeiten in Perpignan.",
+          "tipDe": "Diese Nummer gleich bei Ankunft speichern; es ist die Klinik, an die andere örtliche Tierärzte für Notfälle außerhalb der Öffnungszeiten verweisen."
         },
         {
           "name": "Clinique Vétérinaire MEDIVET",
@@ -773,7 +859,9 @@
             "Cirurgia e medicina",
             "Encaminha para a NEOVET fora de horário"
           ],
-          "tipPt": "Telefone sempre primeiro; a cobertura de urgência é por marcação e os casos fora de horário vão para a NEOVET."
+          "tipPt": "Telefone sempre primeiro; a cobertura de urgência é por marcação e os casos fora de horário vão para a NEOVET.",
+          "descriptionDe": "Eine Tierarztpraxis direkt südlich von Perpignan, etwa 10 Minuten von Perpignan Sud entfernt. Sie behandelt Notfälle während der Öffnungszeiten und bietet Notdienst an Sonntagen und Feiertagen von 8 bis 20 Uhr. Außerhalb dieser Zeiten werden Fälle an NEOVET verwiesen. Vor der Ankunft bei einem Notfall telefonisch anmelden.",
+          "tipDe": "Immer vorher anrufen; der Notdienst erfolgt nach Terminvereinbarung, und Fälle außerhalb der Öffnungszeiten gehen zu NEOVET."
         },
         {
           "name": "Vétérinaire de garde 66 (3115)",
@@ -815,7 +903,9 @@
             "Todo o departamento",
             "Encaminha para o veterinário de turno"
           ],
-          "tipPt": "Guarde o 3115 como reserva; é um serviço de redirecionamento, não uma clínica, pelo que o encaminha para o veterinário de turno mais próximo."
+          "tipPt": "Guarde o 3115 como reserva; é um serviço de redirecionamento, não uma clínica, pelo que o encaminha para o veterinário de turno mais próximo.",
+          "descriptionDe": "Die nationale Bereitschafts-Hotline für Tierärzte (3115, kostenlos) leitet Sie überall in den Pyrénées-Orientales zum diensthabenden Tierarzt weiter, auch nachts, am Wochenende und an Feiertagen. Nützlich, wenn Sie nicht wissen, welche örtliche Klinik Dienst hat, oder wenn Sie außerhalb von Perpignan im weiteren Département sind.",
+          "tipDe": "3115 als Backup speichern; es ist ein Weiterleitungsdienst, keine Klinik, der Sie zum nächsten diensthabenden Tierarzt verweist."
         }
       ],
       "tipsEn": [
@@ -879,6 +969,18 @@
           "q": "E se estoy fora de Perpinhán no departamento?",
           "a": "Ligue para a linha nacional gratuita 3115, que o encaminha para o veterinário de serviço (vétérinaire de garde) em qualquer ponto dos Pirenéus Orientais, incluindo noites e feriados."
         }
+      ],
+      "titleDe": "Tierarztpraxen & Notfalltierärzte in Perpignan",
+      "introDe": "Perpignan verfügt über eine gute tierärztliche Versorgung, einschließlich einer Klinik mit Rund-um-die-Uhr-Notdienst. NEOVET im Stadtteil Tecnosud nimmt Notfälle 24/7 das ganze Jahr über an. Die nahegelegene MEDIVET in Corneilla-del-Vercol, etwa 10 Minuten südlich, bietet tagsüber sowie am Wochenende und an Feiertagen Notdienst und verweist Fälle außerhalb der Öffnungszeiten an NEOVET. Für das gesamte Département leitet die nationale Notdienst-Hotline vétérinaire de garde (3115) Sie zum diensthabenden Tierarzt weiter. Die größten Risiken für Besucherhunde im Sommer sind Hitze an den offenen Mittelmeerstränden und im trockenen Roussillon-Umland, sowie Zecken.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Perpignan einen 24-Stunden-Tierarzt?",
+          "a": "Ja. NEOVET im Stadtteil Tecnosud behandelt Notfälle 24/7 das ganze Jahr über. Andere örtliche Kliniken, darunter MEDIVET, verweisen Fälle außerhalb der Öffnungszeiten dorthin."
+        },
+        {
+          "q": "Was, wenn ich außerhalb von Perpignan im Département bin?",
+          "a": "Die kostenlose nationale Nummer 3115 anrufen, die Sie überall in den Pyrénées-Orientales zum diensthabenden Tierarzt (vétérinaire de garde) weiterleitet, auch nachts und an Feiertagen."
+        }
       ]
     },
     "tips": {
@@ -894,21 +996,24 @@
           "description": "Most Roussillon beaches near Perpignan ban dogs from 15 June to 15 September. For a summer beach day, use the fishermen's-huts section of Canet's Lido, which allows leashed dogs year-round. In spring and autumn, Torreilles, Sainte-Marie and others open up to leashed dogs.",
           "descriptionFr": "La plupart des plages du Roussillon près de Perpignan interdisent les chiens du 15 juin au 15 septembre. Pour une journée plage en été, utilisez la section des cabanes de pêcheurs du Lido de Canet, qui autorise les chiens en laisse toute l'année. Au printemps et à l'automne, Torreilles, Sainte-Marie et d'autres s'ouvrent aux chiens en laisse.",
           "descriptionEs": "La mayoría de las playas del Rosellón cerca de Perpiñán prohíben los perros del 15 de junio al 15 de septiembre. Para un día de playa en verano, use la sección de las cabañas de pescadores del Lido de Canet, que permite perros con correa todo el año. En primavera y otoño, Torreilles, Sainte-Marie y otras se abren a los perros con correa.",
-          "descriptionPt": "A maioria das praias do Roussillon perto de Perpignan proíbe os cães de 15 de junho a 15 de setembro. Para um dia de praia no verão, use a zona dos abrigos dos pescadores do Lido de Canet, que admite cães com trela todo o ano. Na primavera e no outono, Torreilles, Sainte-Marie e outras abrem-se aos cães com trela."
+          "descriptionPt": "A maioria das praias do Roussillon perto de Perpignan proíbe os cães de 15 de junho a 15 de setembro. Para um dia de praia no verão, use a zona dos abrigos dos pescadores do Lido de Canet, que admite cães com trela todo o ano. Na primavera e no outono, Torreilles, Sainte-Marie e outras abrem-se aos cães com trela.",
+          "descriptionDe": "Die meisten Roussillon-Strände bei Perpignan verbieten Hunde vom 15. Juni bis 15. September. Für einen Strandtag im Sommer den Abschnitt bei den Fischerhütten am Lido von Canet nutzen, der angeleinte Hunde ganzjährig erlaubt. Im Frühling und Herbst öffnen sich Torreilles, Sainte-Marie und weitere für angeleinte Hunde."
         },
         {
           "name": "Mind the heat and the Tramontane",
           "description": "Perpignan is one of the sunniest cities in France, with summer days often above 30C and a strong, dry Tramontane wind off the Pyrenees. Walk dogs early or after sunset, carry water, and test the pavement with your hand. The wind can unsettle nervous dogs, so keep a secure leash and harness.",
           "descriptionFr": "Perpignan est l'une des villes les plus ensoleillées de France, avec des journées d'été souvent au-dessus de 30 °C et une forte Tramontane sèche venue des Pyrénées. Promenez les chiens tôt ou après le coucher du soleil, emportez de l'eau et testez le trottoir avec la main. Le vent peut perturber les chiens craintifs, gardez une laisse et un harnais sûrs.",
           "descriptionEs": "Perpiñán es una de las ciudades más soleadas de Francia, con días de verano a menudo por encima de 30 °C y una fuerte Tramontana seca de los Pirineos. Pasee a los perros temprano o tras la puesta de sol, lleve agua y pruebe el pavimento con la mano. El viento puede inquietar a los perros nerviosos, así que use una correa y un arnés seguros.",
-          "descriptionPt": "Perpignan é uma das cidades mais soalheiras de França, com dias de verão muitas vezes acima dos 30C e um vento Tramontana forte e seco vindo dos Pirenéus. Passeie os cães cedo ou depois do pôr do sol, leve água e teste o pavimento com a mão. O vento pode perturbar os cães nervosos, por isso use uma trela e um arnês seguros."
+          "descriptionPt": "Perpignan é uma das cidades mais soalheiras de França, com dias de verão muitas vezes acima dos 30C e um vento Tramontana forte e seco vindo dos Pirenéus. Passeie os cães cedo ou depois do pôr do sol, leve água e teste o pavimento com a mão. O vento pode perturbar os cães nervosos, por isso use uma trela e um arnês seguros.",
+          "descriptionDe": "Perpignan ist eine der sonnigsten Städte Frankreichs, mit Sommertagen oft über 30 °C und einem starken, trockenen Tramontane-Wind von den Pyrenäen. Hunde früh oder nach Sonnenuntergang ausführen, Wasser mitnehmen und den Bodenbelag mit der Hand testen. Der Wind kann nervöse Hunde beunruhigen, daher auf eine sichere Leine und ein sicheres Geschirr achten."
         },
         {
           "name": "Use the espaces canins & carry documents",
           "description": "A leash is mandatory in the city except inside the roughly 37 marked dog areas (espaces canins), shown on the official mairie map. Carry your dog's EU pet passport, microchip and rabies records. Owners must clear up; fines apply. Buy a pet ticket at the station for trains, and carry a muzzle for larger dogs on buses and trains.",
           "descriptionFr": "La laisse est obligatoire en ville sauf dans les quelque 37 espaces canins balisés, indiqués sur le plan officiel de la mairie. Emportez le passeport européen, la puce et les justificatifs de vaccination antirabique. Les propriétaires doivent ramasser ; des amendes s'appliquent. Achetez un billet animal en gare pour les trains, et emportez une muselière pour les grands chiens dans les bus et les trains.",
           "descriptionEs": "La correa es obligatoria en la ciudad salvo dentro de las unas 37 áreas caninas señalizadas (espaces canins), indicadas en el plano oficial del ayuntamiento. Lleve el pasaporte europeo, el microchip y los justificantes de vacunación antirrábica. Los dueños deben recoger; se aplican multas. Compre un billete de mascota en la estación para los trenes, y lleve un bozal para perros grandes en autobuses y trenes.",
-          "descriptionPt": "A trela é obrigatória na cidade, exceto dentro das cerca de 37 áreas para cães sinalizadas (espaces canins), indicadas no mapa oficial da câmara. Leve o passaporte europeu do seu cão, o microchip e os registos da vacina antirrábica. Os donos têm de recolher os dejetos; aplicam-se multas. Compre um bilhete de animal na estação para os comboios e leve um açaime para cães maiores nos autocarros e comboios."
+          "descriptionPt": "A trela é obrigatória na cidade, exceto dentro das cerca de 37 áreas para cães sinalizadas (espaces canins), indicadas no mapa oficial da câmara. Leve o passaporte europeu do seu cão, o microchip e os registos da vacina antirrábica. Os donos têm de recolher os dejetos; aplicam-se multas. Compre um bilhete de animal na estação para os comboios e leve um açaime para cães maiores nos autocarros e comboios.",
+          "descriptionDe": "In der Stadt gilt Leinenpflicht, außer in den rund 37 markierten Hundezonen (espaces canins), die auf der offiziellen Karte der mairie zu finden sind. EU-Heimtierausweis, Mikrochip und Tollwutunterlagen des Hundes mitführen. Hundekot muss entfernt werden; es drohen Bußgelder. Am Bahnhof ein Haustierticket für Züge kaufen und für größere Hunde einen Maulkorb in Bussen und Zügen mitführen."
         }
       ],
       "tipsEn": [
@@ -972,6 +1077,18 @@
           "q": "É Perpinhán uma buena cidade para cães?",
           "a": "Sim. Tem cerca de 37 áreas caninas sinalizadas, uma cultura de esplanada tolerante, um veterinário de urgência 24 horas e fácil acesso às praias pet-friendly do Roussillon. O principal a gerir é o calor do verão e as proibições sazonais nas praias."
         }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch in Perpignan mit Hund",
+      "introDe": "Perpignan ist eine kompakte, sonnige und wirklich hundefreundliche katalanische Stadt mit rund 37 markierten Hundezonen, einer toleranten Terrassenkultur und leichtem Zugang zur Roussillon-Küste. Worauf man sich vor allem einstellen sollte, sind die saisonalen Strandverbote, der starke Tramontane-Wind und die Sommerhitze. Frühling und Herbst sind ideal, mit mildem Mittelmeerklima, deutlich mehr hundefreundlichen Stränden und ruhigeren Straßen. Es gelten die üblichen französischen und EU-Haustierregeln: EU-Heimtierausweis, Mikrochip und aktuelle Tollwutimpfung.",
+      "faqsDe": [
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch in Perpignan mit Hund?",
+          "a": "Frühling und Herbst. Das Mittelmeerklima ist mild, die Straßen sind ruhiger, und außerhalb des Sommerverbots (15. Juni bis 15. September) öffnen sich deutlich mehr Strände bei Perpignan für angeleinte Hunde."
+        },
+        {
+          "q": "Ist Perpignan eine gute Stadt für Hunde?",
+          "a": "Ja. Sie hat rund 37 markierte Hundezonen, eine tolerante Terrassenkultur, einen 24-Stunden-Notfalltierarzt und leichten Zugang zu hundefreundlichen Roussillon-Stränden. Worauf man vor allem achten muss, sind die Sommerhitze und die saisonalen Strandverbote."
+        }
       ]
     },
     "attractions": {
@@ -999,7 +1116,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Le+Castillet+Perpignan",
           "descriptionPt": "A icónica torre-portão de tijolo vermelho de Perpignan, o único fragmento sobrevivente das muralhas medievais, iniciada em 1368 e coroada por uma torrinha com cúpula. Hoje alberga o museu de história local Casa Pairal. O exterior e a envolvente Place de Verdun proporcionam um belo passeio com cão à trela.",
           "petPolicyPt": "Exterior e praça pet-friendly com trela; interior do museu apenas cães de assistência",
-          "tipPt": "Fotografe a torre de tijolo vermelho a partir da Place de Verdun; a praça é um ponto de partida descontraído e pet-friendly para o centro histórico."
+          "tipPt": "Fotografe a torre de tijolo vermelho a partir da Place de Verdun; a praça é um ponto de partida descontraído e pet-friendly para o centro histórico.",
+          "descriptionDe": "Der ikonische rote Backsteinturm von Perpignan, das einzige erhaltene Fragment der mittelalterlichen Stadtmauer, begonnen 1368 und gekrönt von einem Kuppelturm. Heute beherbergt er das Museum Casa Pairal zur lokalen Geschichte. Das Äußere und die umliegende Place de Verdun eignen sich gut für einen Spaziergang mit angeleintem Hund.",
+          "petPolicyDe": "Außenbereich und Platz hundefreundlich an der Leine; Museumsinnenraum nur Assistenzhunde",
+          "tipDe": "Den roten Backsteinturm von der anderen Seite der Place de Verdun fotografieren; der Platz ist ein entspannter, hundefreundlicher Ausgangspunkt für die Altstadt."
         },
         {
           "name": "Palais des Rois de Majorque (grounds)",
@@ -1018,7 +1138,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Palais+des+Rois+de+Majorque+Perpignan",
           "descriptionPt": "O edifício mais famoso de Perpignan, uma vasta cidadela gótica catalã iniciada em 1276, quando Jaime II fez de Perpignan a capital continental do Reino de Maiorca, organizada em torno de um pátio com arcadas. As muralhas e os jardins em volta da cidadela oferecem vistas panorâmicas e um passeio pet-friendly com trela; as galerias interiores admitem apenas cães de assistência.",
           "petPolicyPt": "Muralhas e jardins pet-friendly com trela; galerias interiores apenas cães de assistência",
-          "tipPt": "Percorra as muralhas em volta da cidadela para as melhores vistas sobre Perpignan e os Pirenéus, totalmente exequível com trela."
+          "tipPt": "Percorra as muralhas em volta da cidadela para as melhores vistas sobre Perpignan e os Pirenéus, totalmente exequível com trela.",
+          "descriptionDe": "Perpignans berühmtestes Bauwerk, eine riesige katalanisch-gotische Zitadelle, begonnen 1276, als Jakob II. Perpignan zur kontinentalen Hauptstadt des Königreichs Mallorca machte, angelegt um einen Arkadenhof. Die Wälle und Gärten rund um die Zitadelle bieten Panoramablicke und einen hundefreundlichen Spaziergang an der Leine; die Innengalerien lassen nur Assistenzhunde zu.",
+          "petPolicyDe": "Wälle und Gärten hundefreundlich an der Leine; Innengalerien nur Assistenzhunde",
+          "tipDe": "Die Wälle rund um die Zitadelle für die besten Ausblicke über Perpignan und die Pyrenäen ablaufen, komplett an der Leine machbar."
         },
         {
           "name": "Cathédrale Saint-Jean & old town",
@@ -1037,7 +1160,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cathedrale+Saint-Jean+Perpignan",
           "descriptionPt": "A Cathédrale Saint-Jean, gótica catalã, iniciada em 1324, com uma única nave imponente, ancora as ruelas coloridas do centro histórico de Perpignan. O exterior, as praças envolventes e a zona do claustro do Campo Santo proporcionam um belo passeio com trela pelo coração histórico; o interior da catedral admite apenas cães de assistência.",
           "petPolicyPt": "Exterior e ruelas do centro histórico pet-friendly com trela; interior da catedral apenas cães de assistência",
-          "tipPt": "Passeie pelas ruelas do centro histórico cedo ou ao fim do dia para evitar o calor do meio-dia; as ruas estreitas mantêm-se então sombreadas e sossegadas."
+          "tipPt": "Passeie pelas ruelas do centro histórico cedo ou ao fim do dia para evitar o calor do meio-dia; as ruas estreitas mantêm-se então sombreadas e sossegadas.",
+          "descriptionDe": "Die katalanisch-gotische Kathedrale Saint-Jean, begonnen 1324, mit einem einzigen hoch aufragenden Kirchenschiff, verankert die farbenfrohen Gassen der Altstadt von Perpignan. Das Äußere, die umliegenden Plätze und der Kreuzgangbereich Campo Santo eignen sich gut für einen Spaziergang mit angeleintem Hund durch das historische Herz; das Innere der Kathedrale lässt nur Assistenzhunde zu.",
+          "petPolicyDe": "Außenbereiche und Altstadtgassen hundefreundlich an der Leine; Kathedraleninneres nur Assistenzhunde",
+          "tipDe": "Die Altstadtgassen früh oder spät erkunden, um die Mittagshitze zu vermeiden; die engen Straßen bleiben dann schattig und ruhig."
         }
       ],
       "tipsEn": [
@@ -1101,6 +1227,18 @@
           "q": "É pedonal o centro histórico com cão?",
           "a": "Muito. O centro é compacto, llano e casi peatonal, e enlaza Le Castillet, a catedral, o centro histórico e o Palais des Rois de Majorque num recorrido fácil."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Perpignan",
+      "introDe": "Perpignan trägt seine katalanische Geschichte im Freien zur Schau, was sich gut für die Erkundung mit Hund eignet. Das rote Backsteintor Le Castillet, der auf einem Hügel gelegene Palais des Rois de Majorque und die Gassen der Altstadt lassen sich am besten zu Fuß entdecken. Die meisten Außendenkmäler, Plätze und der Kanalbereich lassen sich frei an der Leine genießen; die Innenräume von Museen und Kirchen sowie die Innengalerien des Palasts lassen in der Regel nur Assistenzhunde zu, daher am besten zu zweit reisen, damit eine Person mit dem Hund draußen warten kann.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund zu den wichtigsten Sehenswürdigkeiten von Perpignan mitnehmen?",
+          "a": "Ja, für die Außenbereiche: das Äußere von Le Castillet, die Wälle und Gärten des Palais des Rois de Majorque sowie die Altstadt und das Äußere der Kathedrale sind alle an der Leine hundefreundlich. Innengalerien und Kirchen lassen in der Regel nur Assistenzhunde zu."
+        },
+        {
+          "q": "Ist die Altstadt mit Hund gut begehbar?",
+          "a": "Sehr gut. Die Innenstadt ist kompakt, flach und größtenteils fußgängerfreundlich und verbindet Le Castillet, die Kathedrale, die Altstadt und den Palais des Rois de Majorque in einer bequemen Runde."
+        }
       ]
     },
     "petsitting": {
@@ -1125,7 +1263,9 @@
           "tipFr": "Filtrez les promeneurs proposant des visites à domicile si votre chien est anxieux ; un cadre familier convient mieux qu'une pension pour de courtes absences.",
           "tipEs": "Filtre por paseadores que ofrezcan visitas a domicilio si su perro es ansioso; un entorno familiar conviene mejor que el alojamiento para ausencias cortas.",
           "descriptionPt": "Uma das principais plataformas francesas de cuidado de animais, que liga passeadores e cuidadores a donos por toda a Perpignan, com tarifas diárias a partir de cerca de 6-10 EUR mais uma comissão de serviço que inclui apoio e seguro. Uma boa opção tanto para passeios curtos como para creche diurna mais longa enquanto explora a região.",
-          "tipPt": "Filtre por passeadores que ofereçam visitas ao domicílio se o seu cão for ansioso; um ambiente familiar adequa-se melhor a ausências curtas do que o alojamento."
+          "tipPt": "Filtre por passeadores que ofereçam visitas ao domicílio se o seu cão for ansioso; um ambiente familiar adequa-se melhor a ausências curtas do que o alojamento.",
+          "descriptionDe": "Eine führende französische Haustierbetreuungsplattform, die Gassi-Geher und Betreuer mit Hundehaltern in ganz Perpignan verbindet, mit Tagessätzen ab etwa 6-10 EUR zuzüglich einer Servicegebühr, die Support und Versicherung einschließt. Eine gute Option sowohl für kurze Spaziergänge als auch für längere Tagesbetreuung, während Sie die Region erkunden.",
+          "tipDe": "Nach Betreuern filtern, die Hausbesuche anbieten, wenn Ihr Hund ängstlich ist; eine vertraute Umgebung eignet sich für kurze Abwesenheiten besser als eine Unterbringung."
         },
         {
           "name": "Rover Perpignan",
@@ -1141,7 +1281,9 @@
           "tipFr": "Organisez une rencontre avant votre séjour ; les gardiens sérieux de la plateforme s'y attendent et l'apprécient.",
           "tipEs": "Organice un encuentro previo antes del viaje; los cuidadores serios de la plataforma lo esperan y lo agradecen.",
           "descriptionPt": "O maior mercado de cuidado de animais, com dezenas de cuidadores e passeadores verificados em Perpignan que oferecem visitas ao domicílio, passeios, creche e alojamento noturno. Os perfis mostram avaliações, verificação e tarifas, com um alojamento mediano de cerca de 20 EUR por noite e passeios a partir de cerca de 6 EUR. As reservas são geridas na aplicação.",
-          "tipPt": "Marque um primeiro encontro antes da sua viagem; os cuidadores de confiança da plataforma esperam-no e gostam disso."
+          "tipPt": "Marque um primeiro encontro antes da sua viagem; os cuidadores de confiança da plataforma esperam-no e gostam disso.",
+          "descriptionDe": "Der größte Marktplatz für Haustierbetreuung, mit Dutzenden geprüften Betreuern und Gassi-Gehern in Perpignan, die Hausbesuche, Spaziergänge, Tagesbetreuung und Übernachtungsbetreuung anbieten. Profile zeigen Bewertungen, Verifizierung und Preise, mit einem mittleren Übernachtungspreis von rund 20 EUR pro Nacht und Spaziergängen ab etwa 6 EUR. Buchungen erfolgen in der App.",
+          "tipDe": "Vor der Reise ein Kennenlerntreffen vereinbaren; seriöse Betreuer auf der Plattform erwarten und begrüßen das."
         }
       ],
       "tipsEn": [
@@ -1204,6 +1346,18 @@
         {
           "q": "Debo reservar com antelación?",
           "a": "Sim, sobretudo no verão. A procura atinge o pico nos meses quentes, por isso os cuidadores mais bem avaliados esgotam cedo."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Perpignan",
+      "introDe": "Wenn Sie ein Museum oder das Innere eines Palasts besuchen, einen Tagesausflug machen oder einen hundefreien Abend verbringen möchten, ist Perpignan gut mit Haustierbetreuungsplattformen ausgestattet. Animaute ist ein führendes französisches Netzwerk von Gassi-Gehern und Betreuern mit konkurrenzfähigen Tagessätzen, und Rover (das DogBuddy übernommen hat) listet Dutzende geprüfte, bewertete Betreuer und Gassi-Geher in der Stadt für Hausbesuche, Spaziergänge, Tagesbetreuung und Übernachtungsbetreuung. Im Sommer, wenn die Nachfrage ihren Höhepunkt erreicht, im Voraus buchen und dem Betreuer die Nummer eines 24-Stunden-Tierarztes hinterlassen.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter in Perpignan?",
+          "a": "Animaute oder Rover nutzen, beide listen geprüfte, bewertete Betreuer und Gassi-Geher in Perpignan mit Hausbesuchen, Spaziergängen, Tagesbetreuung und Übernachtungsbetreuung."
+        },
+        {
+          "q": "Sollte ich im Voraus buchen?",
+          "a": "Ja, besonders im Sommer. Die Nachfrage erreicht in den warmen Monaten ihren Höhepunkt, sodass die bestbewerteten Betreuer früh ausgebucht sind."
         }
       ]
     }

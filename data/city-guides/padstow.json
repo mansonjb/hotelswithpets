@@ -39,7 +39,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Old+Custom+House+Inn+Padstow",
           "descriptionFr": "Une auberge de la St Austell Brewery superbement placée face au port, sur le South Quay, l'un des endroits les plus faciles de Padstow où s'arrêter avec un chien. Les chiens sages tenus en laisse sont les bienvenus au bar, où gamelles d'eau et biscuits sont généralement prévus.",
           "descriptionEs": "Una posada de la St Austell Brewery en un sitio inmejorable frente al puerto, en South Quay, uno de los lugares más fáciles de Padstow para parar con un perro. Los perros tranquilos con correa son bienvenidos en el bar, donde suele haber cuencos de agua y galletas.",
-          "descriptionPt": "Uma estalagem da St Austell Brewery num local privilegiado de frente para o porto, no South Quay, um dos sítios mais fáceis de Padstow para parar com um cão. Os cães bem-comportados à trela são bem-vindos no bar, onde costuma haver tigelas de água e biscoitos."
+          "descriptionPt": "Uma estalagem da St Austell Brewery num local privilegiado de frente para o porto, no South Quay, um dos sítios mais fáceis de Padstow para parar com um cão. Os cães bem-comportados à trela são bem-vindos no bar, onde costuma haver tigelas de água e biscoitos.",
+          "descriptionDe": "Ein Gasthaus der St Austell Brewery in erstklassiger Lage mit Hafenblick am South Quay, einer der einfachsten Anlaufpunkte in Padstow mit Hund im Schlepptau. Wohlerzogene Hunde an der Leine sind in der Bar willkommen, wo meist Wassernäpfe und Kekse bereitstehen.",
+          "petPolicyDe": "Hunde an der Leine in der Bar willkommen; Wasser und Kekse meist vorhanden.",
+          "mustTryDe": "Lokaler Fish and Chips oder ein Cornish Ale mit Hafenblick",
+          "tipDe": "Steuern Sie die Bar oder die Außentische zum Quay an; beide nehmen Hunde, der Hafenblick ist bei Flut am schönsten."
         },
         {
           "name": "Caffè Rojano",
@@ -65,7 +69,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Caffe+Rojano+Padstow",
           "descriptionFr": "Le restaurant décontracté d'inspiration italienne de Paul Ainsworth, à deux pas du port, où l'on sert des pâtes fraîches et des pizzas napolitaines dans une salle élégante avec un espace extérieur. Les chiens sages sont les bienvenus dans la véranda, ce qui en fait une rare option de dîner assis avec un chien.",
           "descriptionEs": "El restaurante desenfadado de inspiración italiana de Paul Ainsworth, junto al puerto, que sirve pasta fresca y pizzas napolitanas en una sala con estilo y espacio exterior. Los perros tranquilos son bienvenidos en la galería, lo que lo convierte en una rara opción de cena sentada con perro.",
-          "descriptionPt": "O restaurante descontraído de inspiração italiana de Paul Ainsworth, junto ao porto, que serve massa fresca e pizzas napolitanas numa sala elegante com espaço exterior. Os cães bem-comportados são bem-vindos na varanda envidraçada, o que faz dele uma rara opção de jantar sentado com cão."
+          "descriptionPt": "O restaurante descontraído de inspiração italiana de Paul Ainsworth, junto ao porto, que serve massa fresca e pizzas napolitanas numa sala elegante com espaço exterior. Os cães bem-comportados são bem-vindos na varanda envidraçada, o que faz dele uma rara opção de jantar sentado com cão.",
+          "descriptionDe": "Paul Ainsworths entspanntes, italienisch inspiriertes Restaurant nur einen Schritt vom Hafen entfernt, mit frischer Pasta und Pizzen nach Neapolitaner Art in einem stilvollen Raum mit Außenbereich. Wohlerzogene Hunde sind im Wintergartenbereich willkommen, was es zu einer seltenen Option für ein Sitz-Dinner mit Hund macht.",
+          "petPolicyDe": "Wohlerzogene Hunde im Wintergartenbereich willkommen; Reservierung empfohlen.",
+          "mustTryDe": "Ofenfrische Pizza oder frische Pasta des Tages",
+          "tipDe": "Bitten Sie bei der Reservierung um den Wintergarten und erwähnen Sie den Hund; der Hauptspeiseraum ist nicht immer hundefreundlich."
         },
         {
           "name": "The Golden Lion Inn",
@@ -91,7 +99,11 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Golden+Lion+Inn+Padstow",
           "descriptionFr": "La plus ancienne auberge de Padstow, un pub local traditionnel au cœur de la vieille ville, réputé pour ses rôtis du dimanche et son rôle dans la fête du 1er mai, l'«Obby 'Oss». Les chiens en laisse sont les bienvenus au bar, à l'écart de la foule du port.",
           "descriptionEs": "La posada más antigua de Padstow, un pub local tradicional en el corazón del casco antiguo, conocido por sus asados dominicales y su papel en la fiesta del 1 de mayo, el 'Obby 'Oss. Los perros con correa son bienvenidos en el bar, lejos del gentío del puerto.",
-          "descriptionPt": "A estalagem mais antiga de Padstow, um pub local tradicional no coração da vila antiga, conhecido pelos seus assados de domingo e pelo seu papel na festa do 1.º de maio, o 'Obby 'Oss. Os cães à trela são bem-vindos no bar, longe da multidão do porto."
+          "descriptionPt": "A estalagem mais antiga de Padstow, um pub local tradicional no coração da vila antiga, conhecido pelos seus assados de domingo e pelo seu papel na festa do 1.º de maio, o 'Obby 'Oss. Os cães à trela são bem-vindos no bar, longe da multidão do porto.",
+          "descriptionDe": "Padstows ältestes Gasthaus, ein traditioneller Pub im Herzen der Altstadt, bekannt für seine Sonntagsbraten und seine Rolle beim Maifest-Umzug 'Obby 'Oss der Stadt. Hunde an der Leine sind in der Bar willkommen, abseits des Hafentrubels.",
+          "petPolicyDe": "Hunde an der Leine im Barbereich willkommen.",
+          "mustTryDe": "Der Sonntagsbraten (im Voraus reservieren)",
+          "tipDe": "Es liegt oben in den alten Gassen, ruhiger als der Quay an einem geschäftigen Sommertag, und leicht vom Ende des Camel Trail zu erreichen."
         }
       ],
       "faqsEn": [
@@ -153,6 +165,18 @@
         "O South Quay e as ruelas da vila antiga concentram o maior número de pubs e cafés que aceitam cães em Padstow.",
         "Em pleno verão, organize as refeições segundo as regras caninas das praias: coma num pub do porto após o passeio da manhã ou da tarde.",
         "Leve uma manta para o seu cão se instalar aos seus pés; os bares do cais são movimentados e agradecem um cão fora da passagem."
+      ],
+      "titleDe": "Hundefreundliche Restaurants und Pubs in Padstow",
+      "introDe": "Padstow ist ein kleiner Fischereihafen, berühmt für seine Meeresfrüchte, und Hunde sind in den Pubs und Quay-Cafés der Altstadt willkommen. Die meisten Lokale nehmen wohlerzogene Hunde an der Leine in der Bar und an den Außentischen am Hafen mit, Wassernäpfe stehen meist bereit, sodass Sie selten ohne hundefreundlichen Imbiss am Wasser dastehen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Padstows Restaurants drinnen erlaubt oder nur draußen?",
+          "a": "Die meisten Pubs und Cafés in Padstow nehmen wohlerzogene Hunde an der Leine im Barbereich und an den Außentischen am Hafen mit, viele halten Wassernäpfe bereit. Feinere Speiseräume beschränken Hunde mitunter auf einen Wintergarten oder eine Außenterrasse, daher lohnt es sich, den Hund bei der Reservierung zu erwähnen."
+        },
+        {
+          "q": "Ist Padstow ein guter Ort, um mit Hund essen zu gehen?",
+          "a": "Ja. Es ist eine kompakte Hafenstadt, in der Fischer-Pubs und Quay-Cafés an Hunde gewöhnt sind, sodass Sie meist innerhalb weniger Gehminuten vom Wasser gut essen können. An sommerlichen Mittagsspitzen ist es geschäftig, mit einem nervösen Hund empfehlen sich daher frühere oder spätere Zeiten."
+        }
       ]
     },
     "parks": {
@@ -183,7 +207,10 @@
           "offLeashAreaPt": "Mantenha os cães à trela: é uma ciclovia partilhada que ladeia o estuário, terrenos privados e fauna.",
           "tipFr": "Partez du départ de sentier de Padstow, près du parking du port ; faites l'aller-retour aussi loin que vous voulez en croisant les oiseaux de l'estuaire tout du long.",
           "tipEs": "Sal desde el inicio del sendero en Padstow, junto al parking del puerto; haz ida y vuelta tan lejos como quieras cruzando aves del estuario todo el camino.",
-          "tipPt": "Parta do início do trilho em Padstow, junto ao parque de estacionamento do porto; faça ida e volta tão longe quanto quiser, cruzando aves do estuário todo o caminho."
+          "tipPt": "Parta do início do trilho em Padstow, junto ao parque de estacionamento do porto; faça ida e volta tão longe quanto quiser, cruzando aves do estuário todo o caminho.",
+          "descriptionDe": "Der 18 Meilen lange Camel Trail folgt einer stillgelegten Bahnstrecke von Padstow entlang der Camel-Flussmündung durch Wadebridge und weiter Richtung Bodmin und ist einer der flachsten, einfachsten Hundespaziergänge in Cornwall. Der Abschnitt Padstow–Wadebridge umfasst etwa 5,5 Meilen ebenen, befestigten Weg mit weitem Blick über die Flussmündung die ganze Strecke.",
+          "offLeashAreaDe": "Hunde an der Leine halten: Es ist ein gemeinsam genutzter Radweg und verläuft entlang der Flussmündung, privaten Grundstücken und Wildtieren.",
+          "tipDe": "Starten Sie am Padstow-Ausgangspunkt beim Parkplatz am Hafen; Sie können so weit hin- und zurücklaufen, wie Sie möchten, und passieren dabei die ganze Zeit Vogelwelt der Flussmündung."
         },
         {
           "name": "South West Coast Path to Stepper Point",
@@ -203,7 +230,10 @@
           "offLeashAreaPt": "Os cães podem andar sem trela sob controlo próximo no promontório aberto, mas mantenha a trela perto das bordas da falésia e das ovelhas.",
           "tipFr": "Combinez-la avec une halte à Harbour Cove, ouverte aux chiens toute l'année, à l'aller, pour une boucle plage-falaise depuis le port.",
           "tipEs": "Combinalo con una parada en Harbour Cove, abierta a perros todo el ano, a la ida, para un circuito playa-acantilado desde el puerto.",
-          "tipPt": "Combine-o com uma paragem em Harbour Cove, aberta a cães todo o ano, na ida, para um circuito praia-falésia a partir do porto."
+          "tipPt": "Combine-o com uma paragem em Harbour Cove, aberta a cães todo o ano, na ida, para um circuito praia-falésia a partir do porto.",
+          "descriptionDe": "Der Küstenweg nördlich von Padstow folgt der Camel-Flussmündung vorbei an Harbour Cove bis zum Seezeichen-Turm am Stepper Point, einer windigen Landzunge mit großartigem Blick über die Mündung. Die gesamte Strecke verläuft über offenes Grasland und Klippenoberkante, ein klassischer Hundespaziergang, wenn die sommerlichen Strandregeln gelten.",
+          "offLeashAreaDe": "Hunde können auf der offenen Landzunge unter enger Kontrolle ohne Leine laufen, aber in der Nähe von Klippenrändern und weidenden Schafen an der Leine halten.",
+          "tipDe": "Kombinieren Sie es mit einem Halt an der ganzjährig hundefreundlichen Harbour Cove auf dem Hinweg für eine Strand-und-Klippen-Runde vom Hafen aus."
         },
         {
           "name": "Prideaux Place Deer Park (viewpoint walk)",
@@ -223,7 +253,10 @@
           "offLeashAreaPt": "Mantenha os cães à trela nos caminhos e perto do parque de veados; é parque em uso com gado e veados.",
           "tipFr": "La demeure et le parc ont leurs propres horaires et règles pour chiens, utilisez donc les sentiers publics pour la promenade et renseignez-vous avant d'entrer dans le domaine.",
           "tipEs": "La casa y los jardines tienen su propio horario y normas para perros, asi que usa los senderos publicos para el paseo y consulta antes de entrar en la finca.",
-          "tipPt": "A casa e os jardins têm o seu próprio horário e regras para cães, por isso use os trilhos públicos para o passeio e informe-se antes de entrar na propriedade."
+          "tipPt": "A casa e os jardins têm o seu próprio horário e regras para cães, por isso use os trilhos públicos para o passeio e informe-se antes de entrar na propriedade.",
+          "descriptionDe": "Oberhalb der Stadt blicken die Wege und Pfade rund um das Anwesen Prideaux Place hinunter auf den Wildpark und hinaus über die Camel-Flussmündung. Die öffentlichen Wege hier bieten einen ruhigen, bergauf führenden Hundespaziergang abseits des Hafentrubels, mit einer der schönsten Aussichten Padstows.",
+          "offLeashAreaDe": "Hunde auf den Wegen und in der Nähe des Wildparks an der Leine halten; dies ist bewirtschaftetes Parkland mit Vieh und Wild.",
+          "tipDe": "Das Haus und die Anlage haben eigene saisonale Öffnungszeiten und Hunderegeln, nutzen Sie also die öffentlichen Fußwege für den Spaziergang und erkundigen Sie sich vorab, bevor Sie das Anwesen betreten."
         }
       ],
       "tipsEn": [
@@ -284,6 +317,18 @@
         {
           "q": "O Camel Trail é adequado para cães?",
           "a": "Sim. É plano, pavimentado e sem trânsito, ideal para um passeio canino fácil, mas é uma ciclovia partilhada: mantenha o seu cão à trela e atento às bicicletas. O troço Padstow-Wadebridge tem cerca de 9 km só de ida."
+        }
+      ],
+      "titleDe": "Hundespaziergänge und Grünflächen in Padstow",
+      "introDe": "Padstows beste Hundespaziergänge finden eher am Wasser als in formellen Parks statt: Der flache Camel Trail entlang der Flussmündung und der South West Coast Path hinaus zum Stepper Point sind beide ganzjährig für Hunde geöffnet. Halten Sie Hunde an der Leine in der Nähe von Radfahrern, Klippenrändern und dem weidenden Vieh, dem Sie auf der Landzunge begegnen.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich meinen Hund in Padstow ausführen, wenn die Strände eingeschränkt sind?",
+          "a": "Sowohl der Camel Trail als auch der South West Coast Path verlassen die Stadt und sind ganzjährig für Hunde geöffnet, und Harbour Cove bleibt den ganzen Sommer über hundefreundlich. Der Trail ist flach und einfach, während der Küstenweg zum Stepper Point offene Klippenspaziergänge bietet."
+        },
+        {
+          "q": "Ist der Camel Trail für Hunde geeignet?",
+          "a": "Ja. Er ist flach, befestigt und autofrei, ideal für einen einfachen Hundespaziergang, aber es ist ein gemeinsam genutzter Radweg, halten Sie Ihren Hund also an der Leine und achten Sie auf Fahrräder. Der Abschnitt Padstow–Wadebridge ist etwa 5,5 Meilen einfache Strecke."
         }
       ]
     },
@@ -379,6 +424,18 @@
           "q": "Posso levar o meu cão no ferry para Rock?",
           "a": "Sim. O Black Tor Ferry que atravessa o estuário para Rock aceita cães por um pequeno suplemento, cerca de uma libra por travessia ao critério do barqueiro. É o percurso mais rápido para as praias abertas a cães todo o ano em Rock e Daymer Bay."
         }
+      ],
+      "titleDe": "Mit Hund nach Padstow",
+      "introDe": "Padstow verlor in den 1960er-Jahren seinen eigenen Bahnanschluss, und die alte Strecke ist heute der Camel Trail. Die Anreise erfolgt daher per Zug zu einem nahen Hauptbahnhof und anschließend per Bus, oder mit dem Auto. Hunde reisen bei National Rail kostenlos (bis zu zwei pro Fahrgast, an der Leine), und auch die kleine Black Tor Ferry hinüber nach Rock nimmt Hunde mit.",
+      "faqsDe": [
+        {
+          "q": "Hat Padstow einen Bahnhof?",
+          "a": "Nein. Padstows alte Bahnstrecke wurde in den 1960er-Jahren geschlossen, die Trasse ist heute der Camel Trail. Der nächste Hauptbahnhof ist Bodmin Parkway, von dort verkehrt der Go Cornwall Bus 57 über Wadebridge nach Padstow. Hunde reisen bei National Rail kostenlos, bis zu zwei pro Fahrgast an der Leine."
+        },
+        {
+          "q": "Kann ich meinen Hund auf die Fähre nach Rock mitnehmen?",
+          "a": "Ja. Die Black Tor Ferry über die Flussmündung nach Rock nimmt Hunde gegen einen kleinen Aufpreis mit, etwa ein Pfund je Strecke, nach Ermessen des Fährmanns. Es ist die schnellste Route zu den ganzjährig hundefreundlichen Stränden in Rock und Daymer Bay."
+        }
       ]
     },
     "beaches": {
@@ -461,6 +518,18 @@
           "q": "Quando é que os cães são proibidos nas praias de Padstow?",
           "a": "Trevone proíbe cães de 15 de maio a 30 de setembro entre as 10h e as 18h, e St George's Cove de 1 de julho a 31 de agosto, das 10h às 18h, com multas de 100 libras. Fora dessas horas e datas os cães são bem-vindos, por isso o início da manhã e o fim da tarde funcionam bem. Note que as vizinhas Rock Beach e Polzeath aplicam as suas próprias proibições mais rígidas."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Padstow",
+      "introDe": "Padstow liegt an der Camel-Flussmündung, und die Strände teilen sich in zwei Gruppen: die geschützten Mündungssande direkt bei der Stadt und die größeren Surfstrände draußen an der Atlantikküste. Die Hunderegeln sind saisonal und werden strandweise von der Public Spaces Protection Order des Cornwall Council festgelegt, durchgesetzt mit Bußgeldern von 100 Pfund. Zwei Strände auf der Padstow-Seite haben ein sommerliches Tagesverbot: Trevone verbietet Hunde vom 15. Mai bis 30. September zwischen 10 und 18 Uhr, und St George's Cove verbietet sie vom 1. Juli bis 31. August, 10 bis 18 Uhr. Die gute Nachricht: Harbour Cove und Hawker's Cove direkt nördlich der Stadt sowie Daymer Bay und Constantine Bay, die einen kurzen Abstecher entfernt liegen, bleiben ganzjährig hundefreundlich, sodass ein Hund nie leer ausgeht. Beachten Sie, dass die benachbarten Rock Beach und Polzeath eigene strengere saisonale Verbote haben, steuern Sie in Hochsommer daher Harbour Cove oder Daymer Bay an, und prüfen Sie bei Ankunft stets die Schilder, da sich die Verordnung ändern kann.",
+      "faqsDe": [
+        {
+          "q": "Welche Strände in Padstow erlauben Hunde das ganze Jahr über?",
+          "a": "Harbour Cove (Tregirls) und Hawker's Cove direkt nördlich der Stadt bleiben ganzjährig hundefreundlich, ebenso Daymer Bay und Constantine Bay, eine kurze Fahrt oder Fährfahrt entfernt. Das sind die Strände, die in der Hochsaison anzusteuern sind, wenn die Tagesverbote gelten."
+        },
+        {
+          "q": "Wann sind Hunde an Padstows Stränden verboten?",
+          "a": "Trevone verbietet Hunde vom 15. Mai bis 30. September zwischen 10 und 18 Uhr, und St George's Cove vom 1. Juli bis 31. August, 10 bis 18 Uhr, beide mit Bußgeldern von 100 Pfund durchgesetzt. Außerhalb dieser Zeiten und Daten sind Hunde willkommen, sodass sich früher Morgen und Abend gut eignen. Beachten Sie, dass die benachbarten Rock Beach und Polzeath eigene strengere saisonale Verbote haben."
+        }
       ]
     },
     "vets": {
@@ -493,7 +562,10 @@
           "descriptionPt": "A clínica mais próxima de Padstow, mesmo à saída em St Merryn, que trata cuidados de rotina de pequenos animais nas manhãs da semana. Fora de horas encaminha as urgências para o hospital do grupo Penmellyn em St Columb.",
           "tipFr": "Les horaires ne couvrent que les matinées certains jours de semaine, téléphonez donc à l'avance ; pour toute urgence nocturne ou de week-end, vous serez orienté vers l'hôpital de St Columb.",
           "tipEs": "El horario es solo por las mañanas ciertos días entre semana, así que telefonea antes; para cualquier urgencia nocturna o de fin de semana te derivarán al hospital de St Columb.",
-          "tipPt": "O horário é só de manhã em certos dias da semana, por isso telefone antes; para qualquer urgência noturna ou de fim de semana será encaminhado para o hospital de St Columb."
+          "tipPt": "O horário é só de manhã em certos dias da semana, por isso telefone antes; para qualquer urgência noturna ou de fim de semana será encaminhado para o hospital de St Columb.",
+          "hoursDe": "Mo, Di, Do 08:30-14:30 Uhr; außerhalb der Öffnungszeiten über die Gruppenklinik in St Columb",
+          "descriptionDe": "Die nächstgelegene Praxis zu Padstow, gleich außerhalb der Stadt in St Merryn, mit Routineversorgung für Kleintiere an festgelegten Wochentagvormittagen. Außerhalb der Öffnungszeiten verweist sie Notfälle an die Klinik der Penmellyn-Gruppe in St Columb.",
+          "tipDe": "Die Öffnungszeiten sind nur vormittags an festgelegten Wochentagen, daher vorab anrufen; für alles über Nacht oder am Wochenende werden Sie an die Klinik in St Columb verwiesen."
         },
         {
           "name": "Nute Veterinary Centre, Wadebridge",
@@ -515,7 +587,10 @@
           "descriptionPt": "Uma clínica de pequenos animais bem estabelecida em Wadebridge, a cerca de 13 km de Padstow e prática se ficar do lado do Camel Trail. Oferece cuidados de rotina e urgentes de dia e encaminha as urgências fora de horas para o centro MiNightVet em Newquay.",
           "tipFr": "Appelez d'abord pour être conseillé ; les urgences de nuit et de week-end sont gérées par MiNightVet à Newquay, à environ 20 minutes.",
           "tipEs": "Llama primero para que te aconsejen; las urgencias nocturnas y de fin de semana las gestiona MiNightVet en Newquay, a unos 20 minutos.",
-          "tipPt": "Ligue primeiro para o aconselharem; as urgências noturnas e de fim de semana são geridas pela MiNightVet em Newquay, a cerca de 20 minutos."
+          "tipPt": "Ligue primeiro para o aconselharem; as urgências noturnas e de fim de semana são geridas pela MiNightVet em Newquay, a cerca de 20 minutos.",
+          "hoursDe": "Tagsüber wochentags Sprechstunde; Notfälle über Nacht und am Wochenende über MiNightVet Newquay",
+          "descriptionDe": "Eine etablierte Kleintierpraxis in Wadebridge, etwa 8 Meilen von Padstow entfernt und praktisch, wenn Sie in Richtung Camel Trail übernachten. Sie bietet Routine- und Dringlichkeitsversorgung tagsüber und verweist Notfälle außerhalb der Öffnungszeiten an das spezialisierte MiNightVet-Zentrum in Newquay.",
+          "tipDe": "Rufen Sie zuerst an, damit man Sie beraten kann; Notfälle über Nacht und am Wochenende werden von MiNightVet in Newquay übernommen, etwa 20 Minuten entfernt."
         }
       ],
       "faqsEn": [
@@ -542,7 +617,15 @@
           "a": "Penmellyn Vets em St Merryn, mesmo à saída de Padstow, é a clínica mais próxima, com uma consulta maior no Nute Veterinary Centre em Wadebridge a cerca de 13 km. Ambas cobrem cuidados de rotina de dia e encaminham as urgências noturnas e de fim de semana para os hospitais de St Columb e Newquay."
         }
       ],
-      "entryRequirements": []
+      "entryRequirements": [],
+      "titleDe": "Tierärztliche Versorgung nahe Padstow",
+      "introDe": "Padstow ist eine kleine Stadt, die nächsten Praxen liegen gerade außerhalb in St Merryn und in Wadebridge, beide eine kurze Fahrt entfernt. Außerhalb der regulären Zeiten übernehmen die Praxen ihren eigenen Nacht- und Wochenenddienst, notieren Sie sich also vor der Anreise eine Nummer.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächste Tierarzt zu Padstow?",
+          "a": "Penmellyn Vets in St Merryn, gleich außerhalb von Padstow, ist die nächstgelegene Praxis, mit einer größeren Praxis im Nute Veterinary Centre in Wadebridge etwa 8 Meilen entfernt. Beide übernehmen tagsüber die Routineversorgung und verweisen Notfälle außerhalb der Zeiten an Kliniken in St Columb und Newquay."
+        }
+      ]
     },
     "tips": {
       "titleEn": "Practical Tips for Visiting Padstow With a Dog",
@@ -635,6 +718,18 @@
           "q": "É fácil visitar Padstow com um cão?",
           "a": "Sim, desde que planeie em torno das proibições de verão das praias e das marés do estuário. A vila, o porto e o Camel Trail aceitam cães todo o ano, e Harbour Cove e Daymer Bay dão-lhe praias caninas mesmo na época alta."
         }
+      ],
+      "titleDe": "Praktische Tipps für den Besuch von Padstow mit Hund",
+      "introDe": "Padstow ist einer der unkompliziertesten Hundeurlaube in Cornwall, doch zwei Dinge brauchen Planung: die saisonalen Hunderegeln an den Stränden, die mit Bußgeldern durchgesetzt werden, und die Post-Brexit-Papiere für die Einreise eines Hundes nach Großbritannien. Stimmen beide, gehören Ihnen der Hafen, der Camel Trail und die Mündungsstrände.",
+      "faqsDe": [
+        {
+          "q": "Welche Papiere braucht mein Hund für die Einreise nach Großbritannien aus der EU?",
+          "a": "Einen Mikrochip, eine gültige Tollwutimpfung und eine GB Animal Health Certificate, ausgestellt von einem amtlichen Tierarzt innerhalb von 10 Tagen vor der Reise, sowie eine tierärztlich verabreichte Bandwurmbehandlung 1 bis 5 Tage vor Ankunft. Der EU-Heimtierausweis wird für die Einreise nach Großbritannien nicht mehr akzeptiert."
+        },
+        {
+          "q": "Ist Padstow einfach mit Hund zu besuchen?",
+          "a": "Ja, solange Sie die sommerlichen Strandverbote und die Gezeiten der Flussmündung einplanen. Stadt, Hafen und Camel Trail sind ganzjährig hundefreundlich, und Harbour Cove sowie Daymer Bay bieten selbst in der Hochsaison Hundestrände."
+        }
       ]
     },
     "attractions": {
@@ -668,7 +763,11 @@
           "admissionFeePt": "Grátis",
           "tipFr": "Venez tôt un jour d'été : le quai devient très fréquenté en fin de matinée, et les chiens sont plus à l'aise avant la foule.",
           "tipEs": "Ve temprano un día de verano: el muelle se llena a media mañana, y los perros están más a gusto antes del gentío.",
-          "tipPt": "Vá cedo num dia de verão: o cais fica muito movimentado ao fim da manhã, e os cães ficam mais à vontade antes da multidão."
+          "tipPt": "Vá cedo num dia de verão: o cais fica muito movimentado ao fim da manhã, e os cães ficam mais à vontade antes da multidão.",
+          "descriptionDe": "Das Herz der Stadt ist ihr Innenhafen, umringt von Fischerbooten, Meeresfrüchte-Ständen, Pubs und dem Quay, an dem sowohl der Camel Trail als auch der Küstenweg beginnen. Er ist kostenlos, im Freien und ganzjährig hundefreundlich, die natürliche Basis für einen Tagesausflug mit Hund.",
+          "dogPolicyDe": "Hunde an der Leine jederzeit rund um Hafen und Quay willkommen.",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Kommen Sie früh an einem Sommertag: Der Quay wird bis zum späten Vormittag sehr voll, und Hunde sind glücklicher vor dem Ansturm."
         },
         {
           "name": "Black Tor Ferry to Rock",
@@ -691,7 +790,11 @@
           "admissionFeePt": "Cerca de 4 £ ida e volta adulto, mais cerca de 1 £ por cão",
           "tipFr": "Vérifiez horaires et marées avant de traverser ; à marée très basse, le bateau part d'un autre point de la plage.",
           "tipEs": "Consulta el horario y las mareas antes de cruzar; con marea muy baja el barco sale de otro punto de la playa.",
-          "tipPt": "Verifique o horário e as marés antes de atravessar; na maré muito baixa o barco parte de outro ponto da praia."
+          "tipPt": "Verifique o horário e as marés antes de atravessar; na maré muito baixa o barco parte de outro ponto da praia.",
+          "descriptionDe": "Die kleine Personenfähre überquert seit Generationen die Camel-Flussmündung zwischen Padstow und Rock, eine kurze, malerische Fahrt mit weitem Blick über die Mündung. Hunde sind an Bord willkommen, und sie setzt Sie einen Spaziergang von den ganzjährig hundefreundlichen Stränden in Rock und Daymer Bay entfernt ab.",
+          "dogPolicyDe": "Hunde gegen einen kleinen Aufpreis an Bord willkommen, etwa 1 Pfund je Strecke; an der Leine halten.",
+          "admissionFeeDe": "Etwa £4 Hin- und Rückfahrt Erwachsene, plus etwa £1 pro Hund",
+          "tipDe": "Prüfen Sie vor der Überfahrt Fahrplan und Gezeiten; bei sehr niedrigem Wasserstand legt das Boot von einer anderen Stelle des Strands ab."
         },
         {
           "name": "National Lobster Hatchery",
@@ -714,7 +817,11 @@
           "admissionFeePt": "Cerca de 4,50 £ adulto",
           "tipFr": "Comme seuls les chiens d'assistance entrent, prévoyez un roulement : l'un visite pendant que l'autre attend sur le quai, ouvert aux chiens, à quelques pas.",
           "tipEs": "Como solo entran perros de asistencia, organiza un relevo: uno visita mientras el otro espera en el muelle, que admite perros, a pocos pasos.",
-          "tipPt": "Como só entram cães de assistência, planeie um revezamento: um visita enquanto o outro espera no cais, que aceita cães, a poucos passos."
+          "tipPt": "Como só entram cães de assistência, planeie um revezamento: um visita enquanto o outro espera no cais, que aceita cães, a poucos passos.",
+          "descriptionDe": "Ein kleines Meeresschutzzentrum am Quay, das Baby-Hummer für die Auswilderung in Cornwalls Gewässer aufzieht, bei Familien für einen kurzen Indoor-Besuch beliebt. Es ist eine Attraktion nur für Assistenzhunde, ein Punkt, den man sich merken sollte, wenn man sich abwechselt, während einer draußen mit dem Hund wartet.",
+          "dogPolicyDe": "Nur Assistenzhunde drinnen; andere Hunde müssen mit einer Begleitperson draußen warten.",
+          "admissionFeeDe": "Etwa £4,50 Erwachsene",
+          "tipDe": "Da nur Assistenzhunde hineindürfen, planen Sie einen Wechsel: einer besucht die Ausstellung, während der andere ein paar Schritte entfernt am hundefreundlichen Quay wartet."
         }
       ],
       "faqsEn": [
@@ -776,6 +883,18 @@
         "A maioria dos locais de Padstow é ao ar livre e aceita cães: organize o dia em torno do porto, do ferry e do trilho costeiro.",
         "Verifique os horários do ferry e das marés antes de atravessar para Rock; na maré baixa o ponto de embarque desce pela praia.",
         "Para os poucos locais cobertos como o Lobster Hatchery, planeie um revezamento para que um espere lá fora com o cão."
+      ],
+      "titleDe": "Hundefreundliche Aktivitäten in Padstow",
+      "introDe": "Der Großteil von Padstows Reiz liegt im Freien und ist hundefreundlich: der Arbeitshafen, die Bootsausflüge auf der Flussmündung und die Fähre hinüber nach Rock. Indoor-Attraktionen sind für Hunde begrenzter, doch es gibt genug, um einen Tag an der Leine rund ums Wasser zu füllen.",
+      "faqsDe": [
+        {
+          "q": "Was kann ich in Padstow mit Hund unternehmen?",
+          "a": "Machen Sie den hundefreundlichen Hafen zu Ihrer Basis, laufen Sie den flachen Camel Trail oder den Küstenweg zum Stepper Point, und nehmen Sie die Black Tor Ferry hinüber zu den Hundestränden in Rock und Daymer Bay. Der Großteil des Stadtreizes liegt im Freien, ein Hund kommt also kaum zu kurz."
+        },
+        {
+          "q": "Gibt es Indoor-Attraktionen in Padstow, die Hunde erlauben?",
+          "a": "Indoor-Optionen sind begrenzt: Die National Lobster Hatchery beispielsweise lässt nur Assistenzhunde hinein. Padstow funktioniert am besten als Outdoor-Tagesausflug am Wasser, planen Sie also einen Wechsel ein, wenn Sie die wenigen Indoor-Sehenswürdigkeiten sehen möchten."
+        }
       ]
     },
     "petsitting": {
@@ -806,7 +925,10 @@
           "serviceTypePt": "Cuidado de cães e atenção de dia",
           "tipFr": "En tant que petit service local, elle affiche complet pendant les vacances scolaires : écrivez bien à l'avance si vous avez besoin d'une garde en juillet ou août.",
           "tipEs": "Al ser un pequeño servicio local se llena en vacaciones escolares, así que escribe con antelación si necesitas cobertura en julio o agosto.",
-          "tipPt": "Sendo um pequeno serviço local, esgota nas férias escolares, por isso escreva com antecedência se precisar de apoio em julho ou agosto."
+          "tipPt": "Sendo um pequeno serviço local, esgota nas férias escolares, por isso escreva com antecedência se precisar de apoio em julho ou agosto.",
+          "descriptionDe": "Ein lokaler, voll versicherter und in Erster Hilfe geschulter Hundesitter, der Padstow und die umliegenden Dörfer abdeckt und Betreuung anbietet, während Sie für den Tag unterwegs sind. Da sie in Padstow ansässig ist, kennt sie die Strände, Gezeiten und Hunderegeln der Gegend.",
+          "serviceTypeDe": "Hundebetreuung und Tagespflege",
+          "tipDe": "Als kleiner lokaler Service ist sie in den Schulferien schnell ausgebucht, melden Sie sich also frühzeitig, wenn Sie im Juli oder August Betreuung brauchen."
         },
         {
           "name": "Hounds at Home Padstow",
@@ -826,7 +948,10 @@
           "serviceTypePt": "Creche e cuidado ao domicílio",
           "tipFr": "Organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avec l'intervenante avant le jour où vous avez besoin de la garde.",
           "tipEs": "Organiza un breve encuentro previo al viaje, para que tu perro esté cómodo con la cuidadora antes del día en que necesites el servicio.",
-          "tipPt": "Combine um breve encontro antes da viagem, para que o seu cão esteja à vontade com a cuidadora antes do dia em que precisa de apoio."
+          "tipPt": "Combine um breve encontro antes da viagem, para que o seu cão esteja à vontade com a cuidadora antes do dia em que precisa de apoio.",
+          "descriptionDe": "Eine in Padstow ansässige Hundetagesstätte und Hundebetreuung, geführt von einer lokalen Betreuerin, mit Tagespflege und Betreuung im Zuhause für Besuchs- und ansässige Hunde. Eine gute Option, wenn Ihr Hund Gesellschaft und häusliche Umgebung einer Pension vorzieht.",
+          "serviceTypeDe": "Hundetagesstätte und häusliche Hundebetreuung",
+          "tipDe": "Vereinbaren Sie vor der Reise ein kurzes Kennenlerntreffen, damit Ihr Hund sich mit der Betreuerin wohlfühlt, bevor der eigentliche Betreuungstag kommt."
         }
       ],
       "faqsEn": [
@@ -872,6 +997,14 @@
         "Reserve cedo os cuidadores e creches locais em julho e agosto, quando a procura turística em Padstow e Rock é mais elevada.",
         "Combine um breve encontro antes da viagem, para que o seu cão esteja à vontade antes do dia em que precisa de apoio.",
         "Dê aos cuidadores os dados do seu veterinário e o número de urgência de Newquay caso surja uma emergência enquanto está fora."
+      ],
+      "titleDe": "Hundebetreuung und Gassi-Service in Padstow",
+      "introDe": "Für die gelegentlichen Nachmittage, an denen Hunde nicht mitkommen können, bietet Padstow lokale, versicherte Hundesitter und Tagesbetreuungsoptionen, dazu die großen britischen Buchungsplattformen, die das weitere Gebiet um Wadebridge und Rock abdecken. Buchen Sie im Sommer früh, wenn die Nachfrage der Urlauber hoch ist.",
+      "faqsDe": [
+        {
+          "q": "Kann ich in Padstow einen Hundesitter finden?",
+          "a": "Ja. Es gibt lokale, versicherte Sitter und Tagesbetreuungsdienste in und um Padstow, etwa Corrina's Dog Sitting Service und Hounds at Home Padstow, dazu britische Plattformen wie Rover, die das Gebiet um Wadebridge und Rock abdecken. Buchen Sie früh für die Sommerschulferien."
+        }
       ]
     }
   }

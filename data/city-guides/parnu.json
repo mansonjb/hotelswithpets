@@ -39,7 +39,11 @@
           "tipFr": "La terrasse du jardin est l'endroit le plus confortable avec un chien les après-midi d'été.",
           "tipEs": "La terraza del jardín es el lugar más cómodo con perro en las tardes de verano.",
           "tipPt": "A esplanada do jardim é o lugar mais confortável com cão nas tardes de verão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Supelsaksad%20P%C3%A4rnu"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Supelsaksad%20P%C3%A4rnu",
+          "descriptionDe": "Ein beliebtes Café in einer 150 Jahre alten Blockhausvilla auf halbem Weg zwischen Altstadt und Strand, mit pastellfarbenen Zimmern und hausgemachten Kuchen. Es steht auf der eigenen Liste hundefreundlicher Adressen des Tourismusbüros, Ihr Begleiter wird also erwartet, nicht nur geduldet.",
+          "petPolicyDe": "Hunde willkommen; von Visit Pärnu als hundefreundlich gelistet.",
+          "mustTryDe": "Hausgemachte Kuchen mit Kaffee im Garten",
+          "tipDe": "Die Gartenterrasse ist an Sommernachmittagen der angenehmste Ort mit Hund."
         },
         {
           "name": "Steffani Pitsarestoran",
@@ -65,7 +69,11 @@
           "tipFr": "Il y a la queue les soirs d'été pluvieux ; arrivez avant 19h avec un chien.",
           "tipEs": "Se forman colas las tardes lluviosas de verano; llega antes de las 19h con perro.",
           "tipPt": "Formam-se filas nas noites chuvosas de verão; chegue antes das 19h com cão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Steffani%20P%C3%A4rnu"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Steffani%20P%C3%A4rnu",
+          "descriptionDe": "Pärnus klassisches Pizzarestaurant seit den 1990er-Jahren, mit einer großen Sommerterrasse einen kurzen Fußweg vom Rathaus entfernt. Es erscheint auf der hundefreundlichen Liste von Visit Pärnu, und auf der Terrasse findet ein Hund bequem Platz neben dem Tisch.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen; von Visit Pärnu als hundefreundlich gelistet.",
+          "mustTryDe": "Pizza aus dem Holzofen und die saisonalen Salate",
+          "tipDe": "An regnerischen Sommerabenden bilden sich Warteschlangen; kommen Sie mit Hund vor 19 Uhr."
         },
         {
           "name": "Pärnu Jahtklubi restoran",
@@ -91,9 +99,16 @@
           "tipFr": "D'ici, vous pouvez rejoindre à pied le môle du fleuve, l'un des quatre endroits où les chiens peuvent se baigner.",
           "tipEs": "Desde aquí puedes caminar hasta el espigón del río, uno de los cuatro puntos donde los perros pueden bañarse.",
           "tipPt": "Daqui pode caminhar até ao molhe do rio, um dos quatro locais onde os cães podem nadar.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%A4rnu%20Jahtklubi"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%A4rnu%20Jahtklubi",
+          "descriptionDe": "Das Restaurant des Yachtclubs liegt am Ufer des Flusses Pärnu zwischen Zentrum und Strand, mit Masten und Flussverkehr als Kulisse. Visit Pärnu listet es unter den hundefreundlichen Restaurants der Stadt, und der Spaziergang durch die Marina vor dem Essen ist ein Bonus.",
+          "petPolicyDe": "Hunde willkommen; von Visit Pärnu als hundefreundlich gelistet.",
+          "mustTryDe": "Baltischer Tagesfisch am Wasser",
+          "tipDe": "Von hier aus können Sie die Flussmole entlanggehen, einer der vier Orte, an denen Hunde schwimmen dürfen."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Pärnu",
+      "introDe": "Estlands Sommerhauptstadt ist Hunden gegenüber wirklich entspannt: Das Tourismusbüro selbst listet Cafés und Restaurants auf, die sie willkommen heißen, und Wasserschalen finden sich auf Terrassen entlang der Rüütli-Straße und im Strandviertel. Erwarten Sie frischen baltischen Fisch, Pizza aus dem Holzofen und stattliche alte Holzvillen, die zu Cafés umgebaut wurden.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Parks & Walks for Dogs in Pärnu",
@@ -143,7 +158,10 @@
           "bestTimeToVisitEs": "Primera hora de la tarde-noche, cuando se reúnen los perros locales",
           "bestTimeToVisitFr": "En début de soirée, quand les chiens du quartier se retrouvent",
           "bestTimeToVisitPt": "Ao fim da tarde, quando os cães locais se juntam",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%A4rnu%20koerte%20jalutusv%C3%A4ljak"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%A4rnu%20koerte%20jalutusv%C3%A4ljak",
+          "descriptionDe": "Der richtige eingezäunte Hundepark der Stadt, unterteilt in getrennte Bereiche für große und kleine Hunde, mit Hügeln, Büschen und Agility-Geräten einschließlich Rampen, Stufen und einem Tunnel. Es ist der einzige Ort in Pärnu, zusammen mit dem Trainingsplatz, an dem Hunde legal ohne Leine laufen dürfen.",
+          "leashRulesDe": "Ohne Leine innerhalb der Zäune erlaubt; auf dem Weg dorthin Leinenpflicht.",
+          "bestTimeToVisitDe": "Früher Abend, wenn sich die örtlichen Hunde nach Feierabend versammeln"
         },
         {
           "name": "Vallikäär",
@@ -183,7 +201,10 @@
           "bestTimeToVisitEs": "Por la mañana, antes de las multitudes; mágico al anochecer con la fuente iluminada",
           "bestTimeToVisitFr": "Le matin, avant l'affluence ; magique au crépuscule quand la fontaine est illuminée",
           "bestTimeToVisitPt": "De manhã, antes das multidões; mágico ao anoitecer com a fonte iluminada",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vallik%C3%A4%C3%A4r%20P%C3%A4rnu"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vallik%C3%A4%C3%A4r%20P%C3%A4rnu",
+          "descriptionDe": "Der grüne Graben von Pärnus schwedischen Bastionen aus dem 17. Jahrhundert, heute ein geschwungener Park aus Rasenflächen, Wasser und Fußgängerbrücken mit Estlands höchstem Springbrunnen im Kanal. Eine klassische Leinen-Runde zwischen Altstadt und Meer, mit Sommerkonzerten, die das Amphitheater beleben.",
+          "leashRulesDe": "Leinenpflicht, wie überall in Pärnus öffentlichen Bereichen; meiden Sie das Amphitheater bei großen Veranstaltungen oder setzen Sie in dichten Menschenmengen zusätzlich einen Maulkorb auf.",
+          "bestTimeToVisitDe": "Morgens, vor den Tagesausflugsmengen; zauberhaft in der Dämmerung, wenn der Springbrunnen beleuchtet ist"
         },
         {
           "name": "Pärnu rannaniidu matkarada",
@@ -223,9 +244,15 @@
           "bestTimeToVisitEs": "Mayo-junio por las aves (correa estricta), septiembre por la luz dorada y tranquila",
           "bestTimeToVisitFr": "Mai-juin pour l'avifaune (laisse stricte), septembre pour la lumière dorée et le calme",
           "bestTimeToVisitPt": "Maio-junho pela avifauna (trela estrita), setembro pela luz dourada e o sossego",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%A4rnu%20rannaniidu%20matkarada"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%A4rnu%20rannaniidu%20matkarada",
+          "descriptionDe": "Ein Bohlenwegpfad mit Aussichtsplattform durch die geschützte Küstenwiese neben dem Strand, wo Stadtkühe grasen und Watvögel nisten. Hunde an kurzer Leine können den Spaziergang mitmachen; die Aussicht vom Beobachtungsturm über die Bucht belohnt den Umweg.",
+          "leashRulesDe": "Halten Sie Hunde auf dem Bohlenweg angeleint: nistende Vögel und weidendes Vieh teilen sich das Schutzgebiet.",
+          "bestTimeToVisitDe": "Mai-Juni für Vogelleben (strikte Leinenpflicht), September für ruhiges goldenes Licht"
         }
-      ]
+      ],
+      "titleDe": "Parks & Spaziergänge für Hunde in Pärnu",
+      "introDe": "Pärnu ist kompakt, grün und flach: ein eingezäunter, zweigeteilter Hundepark nahe dem Strand, ein zum Promenadenpark umgestalteter Bastionsgraben und ein Bohlenweg durch eine geschützte Küstenwiese liegen alle innerhalb einer halben Stunde Fußweg voneinander entfernt. In öffentlichen Bereichen ist Leinenpflicht; Freilauf gehört in den eingezäunten Park.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Pärnu with a Dog",
@@ -280,7 +307,10 @@
           "costEs": "Billete de mascota con 40% de descuento sobre la tarifa estándar",
           "costPt": "Bilhete de animal com 40% de desconto sobre a tarifa normal"
         }
-      ]
+      ],
+      "titleDe": "Mit Hund unterwegs in Pärnu",
+      "introDe": "Pärnu ist klein genug, um es von einem Ende zum anderen zu Fuß zu durchqueren, und Estland ist im Allgemeinen entspannt, was Haustiere in Fahrzeugen angeht: Stadt- und Kreisbusse nehmen angeleinte, mit Maulkorb versehene Hunde mit, und die Fernbusse, die Pärnu mit Tallinn und Riga verbinden, befördern kleine Haustiere in Transportboxen. Derzeit gibt es keine Passagierzugverbindung nach Pärnu, daher übernehmen Busse die Hauptlast.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog Beaches & Swimming in Pärnu",
@@ -350,7 +380,10 @@
           "seasonalRestrictionsPt": "Nenhuma no troço designado.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Raek%C3%BCla%20rand%20P%C3%A4rnu"
         }
-      ]
+      ],
+      "titleDe": "Hundestrände & Schwimmen in Pärnu",
+      "introDe": "Der berühmte zentrale Strand ist in der Badesaison für Hunde tabu, aber die Stadt weist offiziell vier Badestellen für sie aus: die Flussmole, den Mai-Strand, den Vana-Pärnu-Strand und den Raeküla-Strand. Alle sind in bequemer Gehweite oder mit kurzer Fahrt vom Kurviertel erreichbar.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinarians in Pärnu",
@@ -402,7 +435,10 @@
           "descriptionPt": "O número curto veterinário 24h da Estónia, operado a partir da clínica PetCity de Rannamõisa em Tallinn, envia a ambulância para animais e faz triagem telefónica nas urgências noturnas. De Pärnu, os hospitais 24h de Tallinn ficam a cerca de duas horas de carro, telefone sempre primeiro.",
           "googleMapsUrl": ""
         }
-      ]
+      ],
+      "titleDe": "Tierärzte in Pärnu",
+      "introDe": "Pärnu verfügt über zwei etablierte Kleintierkliniken, die sechs bis sieben Tage die Woche geöffnet sind, eine davon im zentralen Einkaufszentrum. Für nächtliche Notfälle liegen Estlands 24-Stunden-Tierkliniken in Tallinn und Tartu, beide etwa zwei Stunden entfernt, rufen Sie also vor der Fahrt an.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Pärnu with a Dog",
@@ -497,6 +533,22 @@
           "q": "Há veterinário 24 horas em Pärnu?",
           "a": "Não. A Terveks (Riia mnt 109) e a PetCity no Pärnu Keskus cobrem o dia e o fim de semana; para urgências noturnas ligue para o número curto estónio 15222, que faz triagem telefónica e envia a ambulância para animais desde Tallinn, a cerca de duas horas."
         }
+      ],
+      "titleDe": "Wichtige Tipps für einen Besuch in Pärnu mit Hund",
+      "introDe": "Lokale Regeln und saisonales Know-how für Estlands Sommerhauptstadt mit Hund.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund am Strand von Pärnu schwimmen?",
+          "a": "Am zentralen Strand nicht während der Badesaison, aber die Stadt weist vier offizielle Hunde-Badestellen aus: das linke Flussufer bei der Mole, den Mai-Strand, den Vana-Pärnu-Strand und den Raeküla-Strand. Alle liegen nahe am Kurviertel."
+        },
+        {
+          "q": "Wo darf mein Hund in Pärnu ohne Leine laufen?",
+          "a": "Nur im eingezäunten Hundepark neben der wenig befahrenen Mai-Straße, der getrennte Bereiche für große und kleine Hunde sowie Agility-Geräte hat, sowie auf dem Hundetrainingsplatz. Überall sonst ist Leinenpflicht."
+        },
+        {
+          "q": "Gibt es in Pärnu einen 24-Stunden-Tierarzt?",
+          "a": "Nein. Terveks (Riia mnt 109) und PetCity im Pärnu Keskus decken die Tages- und Wochenendversorgung ab; rufen Sie für nächtliche Notfälle Estlands 24/7-Kurzwahlnummer 15222 an, die Telefon-Triage und den Tierrettungswagen aus Tallinn betreibt, etwa zwei Stunden entfernt."
+        }
       ]
     },
     "attractions": {
@@ -519,7 +571,8 @@
           "descriptionPt": "A artéria pedonal do centro histórico, ladeada por casas de madeira em tons pastel, casarões mercantis barrocos, cafés e pequenas lojas. Cães de trela passeiam-na confortavelmente, e muitas esplanadas põem taças de água no verão.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=R%C3%BC%C3%BCtli%20t%C3%A4nav%20P%C3%A4rnu"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=R%C3%BC%C3%BCtli%20t%C3%A4nav%20P%C3%A4rnu",
+          "descriptionDe": "Die Fußgängerachse der Altstadt, gesäumt von pastellfarbenen Holzhäusern, barocken Kaufmannshäusern, Cafés und kleinen Geschäften. Angeleinte Hunde spazieren hier bequem entlang, und viele Terrassen unterwegs stellen im Sommer Wasserschalen auf."
         },
         {
           "name": "Rannapromenaad",
@@ -531,7 +584,8 @@
           "descriptionPt": "O passeio marítimo de madeira reconstruído liga casas de banhos históricas, cabinas art déco e bancos em forma de onda ao longo da baía. Cães de trela são bem-vindos no passeio todo o ano, mesmo quando o areal central lhes está vedado na época balnear.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%A4rnu%20rannapromenaad"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=P%C3%A4rnu%20rannapromenaad",
+          "descriptionDe": "Die wiederaufgebaute hölzerne Strandpromenade verbindet historische Badehäuser, Art-déco-Kabinen und wellenförmige Bänke entlang der Bucht. Angeleinte Hunde sind auf der Promenade ganzjährig willkommen, selbst wenn der zentrale Sandstrand selbst in der Badesaison tabu ist."
         },
         {
           "name": "Vallikäär ja Tallinna värav",
@@ -543,9 +597,13 @@
           "descriptionPt": "O parque do fosso dos bastiões e a Porta de Tallinn do século XVII, a única porta de cidade da era sueca conservada nos Bálticos, formam o canto mais atmosférico de Pärnu. Ambos são ao ar livre e perfeitos de trela, com a fonte mais alta do país no canal.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tallinna%20v%C3%A4rav%20P%C3%A4rnu"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Tallinna%20v%C3%A4rav%20P%C3%A4rnu",
+          "descriptionDe": "Der Bastionsgraben-Park und das Tallinner Tor aus dem 17. Jahrhundert, das einzige erhaltene Stadttor aus schwedischer Zeit im Baltikum, bilden Pärnus stimmungsvollste Ecke. Beide liegen im Freien und sind perfektes Leinenterritorium, mit dem höchsten Springbrunnen des Landes, der im Kanal spielt."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Pärnu",
+      "introDe": "Der Charme von Pärnu liegt ganz im Freien: eine pastellfarbene Holzaltstadt, ein Bastionsgraben-Park und eine preisgekrönte Strandpromenade, alles davon mit angeleintem Hund begehbar. Planen Sie Ihren Besuch außerhalb der größten Festivalwochenenden, wenn Ihr Hund Menschenmengen nicht mag.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Care in Pärnu",
@@ -584,7 +642,10 @@
           "priceRangePt": "Subscrição anual",
           "bookingRequired": true
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung & Hundepflege in Pärnu",
+      "introDe": "Für Spa-Nachmittage oder Festivalabende ohne Ihren Hund listen internationale Plattformen hausbasierte Betreuer und Pensionsgastgeber in Pärnu und der umliegenden Region auf. Buchen Sie für Juli gut im Voraus, wenn die Sommerhauptstadt sich füllt.",
+      "faqsDe": []
     }
   }
 }

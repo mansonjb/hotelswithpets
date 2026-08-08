@@ -37,7 +37,11 @@
           "descriptionPt": "Um pub Young's com 400 anos na Holywell Street, em frente à New Library da Bodleian e ao Sheldonian Theatre, o pub que aceita cães mais central de Oxford e um favorito de professores e licenciados. Os cães bem-comportados são bem-vindos por todo o labirinto de salas acolhedoras com lambris de madeira, onde se guardam petiscos gratuitos para cães atrás do balcão.",
           "petPolicyPt": "Cães bem-vindos por todo o pub com trela",
           "mustTryPt": "Young's London Original, empada do dia, Sunday roast",
-          "tipPt": "Chegue antes das 17:30 nos dias de semana, depois de terminarem as aulas a sala dos fundos enche-se de estudantes e só há lugar de pé."
+          "tipPt": "Chegue antes das 17:30 nos dias de semana, depois de terminarem as aulas a sala dos fundos enche-se de estudantes e só há lugar de pé.",
+          "descriptionDe": "Ein 400 Jahre alter Young's-Pub an der Holywell Street, gegenüber der New Library der Bodleian und dem Sheldonian Theatre, der zentralste hundefreundliche Pub in Oxford und ein Favorit von Dozenten und Absolventen. Wohlerzogene Hunde sind im gesamten Labyrinth der holzvertäfelten kleinen Zimmer willkommen, wo kostenlose Hundeleckerlis hinter der Theke bereitliegen.",
+          "petPolicyDe": "Hunde im gesamten Pub an der Leine willkommen",
+          "mustTryDe": "Young's London Original, Pie des Tages, Sunday Roast",
+          "tipDe": "Kommen Sie werktags vor 17:30 Uhr, nach Vorlesungsende füllt sich das hintere Zimmer mit Studierenden, und es gibt nur noch Stehplätze."
         },
         {
           "name": "The Royal Oak",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um pub vitoriano na Woodstock Road com três beer gardens separados e um interior tranquilo com lambris de madeira, um dos pubs que mais aceita cães em Oxford. Os cães são bem-vindos no interior com trela e no exterior, e o pessoal distribui petiscos gratuitos aos convidados de quatro patas à chegada.",
           "petPolicyPt": "Cães bem-vindos no interior com trela e nos três beer gardens",
           "mustTryPt": "Pizza cozida em forno de pedra, Sunday roast, cerveja local Hook Norton",
-          "tipPt": "O Sunday roast (12:00 às 17:00) é a instituição local, reserve até sexta-feira uma mesa no beer garden com o seu cão durante o verão."
+          "tipPt": "O Sunday roast (12:00 às 17:00) é a instituição local, reserve até sexta-feira uma mesa no beer garden com o seu cão durante o verão.",
+          "descriptionDe": "Ein viktorianischer Pub an der Woodstock Road mit drei separaten Biergärten und einem ruhigen, holzvertäfelten Innenraum, einer der hundefreundlichsten Pubs in Oxford. Hunde sind im Inneren an der Leine und im Freien willkommen, und das Personal reicht vierbeinigen Gästen bei Ankunft kostenlose Leckerlis.",
+          "petPolicyDe": "Hunde im Inneren an der Leine und in allen drei Biergärten willkommen",
+          "mustTryDe": "Steinofenpizza, Sunday Roast, lokales Hook-Norton-Bier",
+          "tipDe": "Der Sunday Roast (12:00-17:00 Uhr) ist die örtliche Institution, buchen Sie bis Freitag für einen Tisch im Biergarten mit Ihrem Hund im Sommer."
         },
         {
           "name": "The Head of the River",
@@ -89,7 +97,11 @@
           "descriptionPt": "Um pub Fuller's instalado num edifício de cais vitoriano em Folly Bridge, com um dos maiores terraços junto ao rio de Oxford, com vista para o Tamisa no início do passeio de Christ Church Meadow. Os cães são bem-vindos no bar e no terraço, com tigelas de água fornecidas por norma.",
           "petPolicyPt": "Cães bem-vindos no bar e no terraço junto ao rio",
           "mustTryPt": "Fish and chips, Fuller's London Pride, bacalhau panado em cerveja",
-          "tipPt": "O terraço junto ao rio enche a partir das 17:00 nas noites quentes, vá para um almoço cedo (12:00 às 13:30) com o seu cão para apanhar as mesas mais calmas com vista para os punts."
+          "tipPt": "O terraço junto ao rio enche a partir das 17:00 nas noites quentes, vá para um almoço cedo (12:00 às 13:30) com o seu cão para apanhar as mesas mais calmas com vista para os punts.",
+          "descriptionDe": "Ein Fuller's-Pub in einem viktorianischen Kaigebäude an der Folly Bridge, mit einer der größten Flussterrassen Oxfords mit Blick auf die Themse am Beginn des Spaziergangs durch die Christ Church Meadow. Hunde sind in der Bar und auf der Terrasse willkommen, Wassernäpfe werden standardmäßig bereitgestellt.",
+          "petPolicyDe": "Hunde in der Bar und auf der Flussterrasse willkommen",
+          "mustTryDe": "Fish and Chips, Fuller's London Pride, Kabeljau im Bierteig",
+          "tipDe": "Die Flussterrasse füllt sich an warmen Abenden ab 17:00 Uhr, gehen Sie für ein frühes Mittagessen (12:00-13:30 Uhr) mit Ihrem Hund für die ruhigsten Tische mit Blick auf die Stocherkähne."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Onde posso encontrar Sunday roasts que aceitam cães em Oxford?",
           "a": "O Royal Oak, o Head of the River, o Kings Arms e o Rickety Press, em Jericho, servem todos Sunday roasts que aceitam cães das 12:00 às 17:00. Reserve até sexta-feira durante o período letivo."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants und Pubs in Oxford",
+      "introDe": "Oxford ist eine der hundefreundlichsten Kleinstädte Englands, eine normannische Universitätsstadt, aufgebaut um honigfarbene Kalksteincolleges, mit Kopfsteinpflastergassen, Flusswegen und einer starken Tradition studentenfreundlicher Pubs, die zugleich als hundefreundliche Speiselokale dienen. Die meisten Pubs und viele Cafés heißen Hunde ausdrücklich willkommen, und Wassernäpfe am Eingang sind die Regel.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Oxfords Restaurants und Pubs im Innenbereich erlaubt?",
+          "a": "Fast alle Oxforder Pubs erlauben Hunde an der Leine im Barbereich und in den Biergärten; viele auch in den kleinen Speiseecken. Restaurants mit vollständigem Tischservice beschränken Hunde meist auf die Außenbestuhlung."
+        },
+        {
+          "q": "Verlangen Oxforder Pubs eine Gebühr für Hunde?",
+          "a": "Nein, kein Pub in Oxford verlangt eine Gebühr, um einen Hund mitzubringen. Die meisten stellen kostenlose Wassernäpfe bereit, und viele haben ein Glas Hundekekse hinter der Theke."
+        },
+        {
+          "q": "Wo finde ich hundefreundliche Sunday Roasts in Oxford?",
+          "a": "The Royal Oak, The Head of the River, The Kings Arms und The Rickety Press in Jericho servieren alle hundefreundliche Sunday Roasts von 12:00-17:00 Uhr. Buchen Sie während der Vorlesungszeit bis Freitag."
+        }
       ]
     },
     "parks": {
@@ -223,7 +251,10 @@
             "Caminhos planos",
             "Vida selvagem"
           ],
-          "tipPt": "Estacione gratuitamente na Walton Well Road e entre a pé pelo portão de Jericho. O pub The Perch, no extremo norte do prado, fica a 45 minutos a pé e acolhe cães molhados no seu enorme jardim."
+          "tipPt": "Estacione gratuitamente na Walton Well Road e entre a pé pelo portão de Jericho. O pub The Perch, no extremo norte do prado, fica a 45 minutos a pé e acolhe cães molhados no seu enorme jardim.",
+          "descriptionDe": "Ein uraltes, 160 Hektar großes Gemeindeland an der Themse, seit dem Domesday Book von 1086 durchgehend beweidet, Oxfords größter Freilaufbereich für Hunde und ein Favorit von Einheimischen, die ihre Hunde im Fluss schwimmen lassen. Kühe, Pferde und Gänse teilen sich die Wiese, ein zuverlässiger Rückruf ist daher unerlässlich; die Wege überfluten nach Winterregen, weshalb von November bis März Gummistiefel hilfreich sind.",
+          "petPolicyDe": "Freilauf erlaubt; Rückruf bei Nutztieren erforderlich",
+          "tipDe": "Parken Sie kostenlos an der Walton Well Road und gehen Sie durch das Jericho-Tor hinein. Der Pub The Perch am nördlichen Ende der Wiese liegt 45 Gehminuten entfernt und heißt nasse Hunde in seinem riesigen Garten willkommen."
         },
         {
           "name": "Christ Church Meadow",
@@ -269,7 +300,10 @@
             "Vistas do horizonte",
             "Histórico"
           ],
-          "tipPt": "Entre pela Rose Lane (junto ao Jardim Botânico) para o acesso mais rápido ao caminho; o circuito do Broad Walk e do New Walk demora cerca de 40 minutos ao ritmo do cão."
+          "tipPt": "Entre pela Rose Lane (junto ao Jardim Botânico) para o acesso mais rápido ao caminho; o circuito do Broad Walk e do New Walk demora cerca de 40 minutos ao ritmo do cão.",
+          "descriptionDe": "Die 16 Hektar große Überschwemmungswiese, auf der der Cherwell in die Themse mündet, im Besitz des Christ Church College, aber frei zugänglich für die Öffentlichkeit. Der 2,4 km lange Rundweg führt an den Bootshäusern des Colleges vorbei und bietet den Postkartenblick auf Oxfords Türme; Hunde müssen wegen der dort weidenden Hochlandrinder stets an kurzer Leine bleiben.",
+          "petPolicyDe": "Stets an kurzer Leine; Nutztiere vorhanden",
+          "tipDe": "Betreten Sie den Weg über die Rose Lane (neben dem Botanischen Garten) für den schnellsten Zugang; die Runde über Broad Walk und New Walk dauert im Hundetempo etwa 40 Minuten."
         },
         {
           "name": "University Parks",
@@ -315,7 +349,10 @@
             "Árvores maduras",
             "Histórico"
           ],
-          "tipPt": "Entre pelo portão de Norham Gardens para o troço mais tranquilo ao longo do Cherwell, o caminho junto ao rio é um circuito plano de 2 km perfeito para cães idosos."
+          "tipPt": "Entre pelo portão de Norham Gardens para o troço mais tranquilo ao longo do Cherwell, o caminho junto ao rio é um circuito plano de 2 km perfeito para cães idosos.",
+          "descriptionDe": "37 Hektar Wiesen und Wald zwischen dem Cherwell und der Parks Road, im Besitz der University of Oxford und frei zugänglich für die Öffentlichkeit, König Charles II. führte hier in den 1680er Jahren seine Hunde aus. Hunde müssen stets an der Leine bleiben und sind aus der Cricketfeld-Einfriedung im Zentrum ausgeschlossen.",
+          "petPolicyDe": "Stets an der Leine; Cricketbereich verboten",
+          "tipDe": "Betreten Sie den Park am Tor Norham Gardens für den ruhigsten Abschnitt entlang des Cherwell, der Flussweg ist eine flache 2-km-Runde, perfekt für ältere Hunde."
         }
       ],
       "tipsEn": [
@@ -395,6 +432,22 @@
           "q": "Os cães são permitidos nos jardins dos colleges de Oxford?",
           "a": "Não, nenhum dos 39 colleges de Oxford aceita cães nos seus jardins ou pátios, com exceção dos cães-guia. Christ Church Meadow é o único terreno pertencente a um college aberto a cães com trela."
         }
+      ],
+      "titleDe": "Die besten Hundeparks und Freilaufflächen in Oxford",
+      "introDe": "Oxford ist auf drei Seiten von grünen Wiesen umgeben, die seit dem Mittelalter beweidet werden, Port Meadow, Christ Church Meadow und der South Park liegen alle innerhalb von 20 Gehminuten vom Stadtzentrum, was Oxford eine der höchsten Hundeauslauffläche-pro-Kopf-Quoten Englands verschafft. Freilauf ist auf Port Meadow und South Park erlaubt; in den flussnahen, den Colleges gehörenden Wiesen gilt Leinenpflicht.",
+      "faqsDe": [
+        {
+          "q": "Wo kann mein Hund in Oxford ohne Leine laufen?",
+          "a": "Port Meadow ist der wichtigste Freilaufbereich der Stadt, 162 Hektar offene Wiese mit Flusszugang. South Park (östlich der Stadt) und Shotover Country Park (östlich) erlauben ebenfalls Freilauf."
+        },
+        {
+          "q": "Kann mein Hund in der Themse bei Port Meadow schwimmen?",
+          "a": "Ja, es gibt mehrere strandartige Einstiege in den Fluss auf der Wiese, prüfen Sie aber nach starkem Regen die Badewasserwarnungen der Environment Agency, da es zu Abwasserüberläufen kommen kann."
+        },
+        {
+          "q": "Sind Hunde in den Gärten der Oxford-Colleges erlaubt?",
+          "a": "Nein, keines der 39 Oxford-Colleges erlaubt Hunde in seinen Gärten oder Innenhöfen, mit Ausnahme von Blindenführhunden. Die Christ Church Meadow ist das einzige den Colleges gehörende Gelände, das für angeleinte Hunde offen ist."
+        }
       ]
     },
     "transport": {
@@ -424,7 +477,11 @@
           "typePt": "Rede de autocarros",
           "descriptionPt": "O principal operador de autocarros urbanos de Oxford opera todas as cinco rotas de park-and-ride mais a densa rede urbana. Os cães viajam gratuitamente ao critério do motorista, com um máximo de um passageiro a transportar até dois cães por piso e cães adicionais ao critério do motorista.",
           "petPolicyPt": "Cães grátis, máx. 2 por passageiro por piso; açaime ou trela obrigatórios",
-          "tipPt": "Evite a hora de ponta da manhã (07:30 às 09:00) no Park&Ride 300 a partir de Thornhill, grandes multidões de estudantes e pouco espaço para cães. Os sábados fora de ponta são os mais fáceis."
+          "tipPt": "Evite a hora de ponta da manhã (07:30 às 09:00) no Park&Ride 300 a partir de Thornhill, grandes multidões de estudantes e pouco espaço para cães. Os sábados fora de ponta são os mais fáceis.",
+          "typeDe": "Busnetz",
+          "descriptionDe": "Oxfords wichtigster Stadtbusbetreiber betreibt alle fünf Park-and-Ride-Linien sowie das dichte Stadtnetz. Hunde reisen kostenlos nach Ermessen des Fahrers, maximal ein Fahrgast mit bis zu zwei Hunden pro Deck, weitere Hunde nach Ermessen des Fahrers.",
+          "petPolicyDe": "Hunde kostenlos, max. 2 pro Fahrgast pro Deck; Maulkorb oder Leine erforderlich",
+          "tipDe": "Meiden Sie die morgendliche Stoßzeit (07:30-09:00 Uhr) auf der Park&Ride-Linie 300 ab Thornhill, große Studierendenmengen und wenig Platz für Hunde. Samstage außerhalb der Stoßzeiten sind am einfachsten."
         },
         {
           "name": "Oxford Tube (London express coach)",
@@ -445,7 +502,11 @@
           "typePt": "Autocarro expresso",
           "descriptionPt": "Serviço de autocarro expresso de 24 horas entre Oxford e London Victoria (de 12 em 12 minutos na hora de ponta, de 20 em 20 minutos fora de ponta, viagem de 100 minutos). Os cães de estimação viajam ao critério do motorista; os cães-guia e de assistência viajam gratuitamente a todo o momento.",
           "petPolicyPt": "Cães de estimação ao critério do motorista, açaime/trela obrigatórios; cães-guia sempre grátis",
-          "tipPt": "Telefone para o escritório de Gloucester Green antes de embarcar com um cão médio ou grande para confirmar, os motoristas podem recusar o embarque nas horas de maior movimento."
+          "tipPt": "Telefone para o escritório de Gloucester Green antes de embarcar com um cão médio ou grande para confirmar, os motoristas podem recusar o embarque nas horas de maior movimento.",
+          "typeDe": "Expressbus",
+          "descriptionDe": "Rund um die Uhr verkehrender Expressbus zwischen Oxford und London Victoria (alle 12 Minuten zur Stoßzeit, alle 20 Minuten außerhalb, 100 Minuten Fahrzeit). Haustiere reisen nach Ermessen des Fahrers; Blinden- und Assistenzhunde reisen stets kostenlos.",
+          "petPolicyDe": "Haustiere nach Ermessen des Fahrers, Maulkorb/Leine erforderlich; Blindenführhunde stets kostenlos",
+          "tipDe": "Rufen Sie vor dem Einstieg mit einem mittelgroßen oder großen Hund im Büro Gloucester Green an, um dies zu bestätigen, Fahrer können in stark frequentierten Zeiten die Mitnahme ablehnen."
         },
         {
           "name": "Oxford railway station (Great Western Railway)",
@@ -466,7 +527,11 @@
           "typePt": "Estação de comboios",
           "descriptionPt": "A estação principal de Oxford, com serviços de hora a hora para London Paddington (60 minutos), Birmingham (60 minutos) e a Costa Sul. A National Rail autoriza que até dois cães por passageiro adulto viajem gratuitamente em todo o país, com trela e sem ocupar um lugar.",
           "petPolicyPt": "2 cães por adulto grátis na National Rail; com trela, sem lugar",
-          "tipPt": "Levante os cães por cima do vão da plataforma ao embarcar, a frota InterCity de piso alto da GWR tem um vão de 25 cm que já causou várias lesões em cães pequenos."
+          "tipPt": "Levante os cães por cima do vão da plataforma ao embarcar, a frota InterCity de piso alto da GWR tem um vão de 25 cm que já causou várias lesões em cães pequenos.",
+          "typeDe": "Bahnhof",
+          "descriptionDe": "Oxfords Hauptbahnhof mit stündlichen Verbindungen nach London Paddington (60 Minuten), Birmingham (60 Minuten) und an die Südküste. National Rail erlaubt landesweit bis zu zwei Hunde pro erwachsenem Fahrgast kostenlos, an der Leine und ohne eigenen Sitzplatz.",
+          "petPolicyDe": "2 Hunde pro Erwachsenem kostenlos bei National Rail; an der Leine, kein Sitzplatz",
+          "tipDe": "Heben Sie Hunde beim Einsteigen über die Bahnsteiglücke, GWR's Intercity-Hochflurwagen haben eine 25 cm breite Lücke, die schon mehrfach zu Verletzungen kleiner Hunde geführt hat."
         }
       ],
       "tipsEn": [
@@ -546,6 +611,22 @@
           "q": "Os animais são permitidos nos táxis de Oxford?",
           "a": "A maioria das empresas de táxi de Oxford (Royal Cars, 001 Taxis) aceita cães ao critério do motorista. Mencione o seu cão ao reservar, alguns motoristas preferem usar um Toyota Prius só com banco de trás em vez de um carro com bancos de pele."
         }
+      ],
+      "titleDe": "Öffentliche Verkehrsmittel mit Haustier in Oxford",
+      "introDe": "Oxford ist eine bekanntermaßen gut zu Fuß erkundbare Stadt, die meisten Sehenswürdigkeiten liegen innerhalb von 20 Gehminuten vom Carfax Tower, sodass das Bus- und Fernbusnetz vor allem für Park-and-Ride-Anlagen, die Flughäfen und die umliegenden Dörfer nützlich ist. Alle Busse von Oxford Bus Company und Stagecoach nehmen Hunde kostenlos nach Ermessen des Fahrers mit; die Oxford-Tube-Busse nach London sind unter derselben Bedingung ebenfalls hundefreundlich.",
+      "faqsDe": [
+        {
+          "q": "Brauchen Hunde in Oxforder Bussen ein Ticket?",
+          "a": "Nein, sowohl Oxford Bus Company als auch Stagecoach befördern Hunde kostenlos nach Ermessen des Fahrers, an der Leine oder in einer Transportbox."
+        },
+        {
+          "q": "Kann ich meinen Hund mit der Oxford Tube nach London mitnehmen?",
+          "a": "Ja, Haustiere reisen nach Ermessen des Fahrers (ohne Gebühr). Blinden- und Assistenzhunde reisen stets kostenlos. Maulkorb oder kurze Leine erforderlich."
+        },
+        {
+          "q": "Sind Haustiere in Oxforder Taxis erlaubt?",
+          "a": "Die meisten Oxforder Taxiunternehmen (Royal Cars, 001 Taxis) nehmen Hunde nach Ermessen des Fahrers mit. Erwähnen Sie Ihren Hund bei der Buchung, manche Fahrer bevorzugen einen Toyota Prius mit reinem Rücksitzbereich statt eines Autos mit Ledersitzen."
+        }
       ]
     },
     "beaches": {
@@ -598,7 +679,10 @@
             "Acesso livre",
             "Estacionamento gratuito"
           ],
-          "tipPt": "Nade a montante do açude de Wolvercote, não a jusante, o açude cria uma corrente de fundo perigosa que já prendeu vários cães."
+          "tipPt": "Nade a montante do açude de Wolvercote, não a jusante, o açude cria uma corrente de fundo perigosa que já prendeu vários cães.",
+          "descriptionDe": "Der 1 km lange Themseabschnitt entlang Port Meadow hat mehrere flache, strandartige Einstiege, an denen Hunde waten und schwimmen können. Die offizielle Badestelle Wolvercote am nördlichen Ende ist ein ausgewiesener Badebereich mit sandigem Zugang, die einzige formelle Badestelle der Environment Agency innerhalb der Stadtgrenzen Oxfords.",
+          "petPolicyDe": "Freilauf erlaubt; Pfoten nach dem Schwimmen abspülen",
+          "tipDe": "Schwimmen Sie oberhalb des Wolvercote-Wehrs, nicht unterhalb, das Wehr erzeugt einen gefährlichen Sog, der schon mehrere Hunde erfasst hat."
         },
         {
           "name": "Farmoor Reservoir lakeside path",
@@ -642,7 +726,10 @@
             "Estacionamento pago",
             "Clube de vela"
           ],
-          "tipPt": "O canto da Pinkhill Reserve, no extremo sudoeste da albufeira, é o troço mais tranquilo, os observadores de aves toleram muito menos os cães noutros pontos do perímetro."
+          "tipPt": "O canto da Pinkhill Reserve, no extremo sudoeste da albufeira, é o troço mais tranquilo, os observadores de aves toleram muito menos os cães noutros pontos do perímetro.",
+          "descriptionDe": "Der Trinkwasserstausee von Thames Water, 5 km westlich von Oxford, mit einem 6,5 km langen hundefreundlichen Uferweg. Hunde müssen stets an der Leine bleiben und dürfen nicht ins Wasser (Trinkwasserquelle), der Reiz liegt im langen, flachen Rundweg mit weitem Ausblick.",
+          "petPolicyDe": "Stets an der Leine; kein Schwimmen (Trinkwasserquelle)",
+          "tipDe": "Die Ecke Pinkhill Reserve am Südwestende des Stausees ist der ruhigste Abschnitt, Vogelbeobachter tolerieren Hunde anderswo am Ufer deutlich weniger."
         },
         {
           "name": "Mesopotamia Walk (Cherwell river path)",
@@ -686,7 +773,10 @@
             "Com trela",
             "Entrada gratuita"
           ],
-          "tipPt": "Evite o caminho de maio a julho, o tráfego de punts em Magdalen Bridge assusta muitos cães e a margem do rio estreita-se para menos de um metro."
+          "tipPt": "Evite o caminho de maio a julho, o tráfego de punts em Magdalen Bridge assusta muitos cães e a margem do rio estreita-se para menos de um metro.",
+          "descriptionDe": "Ein Fußweg entlang des Cherwell auf einer Insel zwischen zwei Flussarmen östlich der University Parks, mit mehreren wadentiefen Zugangspunkten. Hunde müssen an der Leine bleiben, dürfen aber in den Untiefen planschen; der Weg führt zur 800 m flussabwärts gelegenen Stocherkahnstation Magdalen Bridge.",
+          "petPolicyDe": "An der Leine; flaches Waten erlaubt",
+          "tipDe": "Meiden Sie den Weg von Mai bis Juli, der Stocherkahnverkehr an der Magdalen Bridge erschreckt viele Hunde, und das Flussufer verengt sich auf unter einen Meter."
         }
       ],
       "tipsEn": [
@@ -766,6 +856,22 @@
           "q": "As algas azul-esverdeadas são um risco real?",
           "a": "Sim, há mortes confirmadas de cães por algas azul-esverdeadas no Tamisa e no Cherwell todos os verões. Se a água parecer verde, azul ou com escuma, não deixe o seu cão beber, nadar ou permanecer nela; os sintomas (vómitos, convulsões) começam dentro de uma hora."
         }
+      ],
+      "titleDe": "Hundefreundliche Flussufer und Badestellen in Oxford",
+      "introDe": "Oxford hat keine Küste, aber die Themse (örtlich Isis genannt) und der Cherwell bieten mehrere hundefreundliche Badestellen innerhalb der Stadtgrenzen, dazu Stauseen und Seen am Stadtrand. Die Environment Agency veröffentlicht im Sommer Warnungen zur Badewasserqualität; prüfen Sie diese, bevor Sie Ihren Hund nach starkem Regen schwimmen lassen.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund in Oxford in der Themse schwimmen?",
+          "a": "Ja, an der Badestelle Wolvercote bei Port Meadow und mehreren strandartigen Einstiegen entlang der Wiese. Spülen Sie ihn danach immer ab, wegen landwirtschaftlicher Abwässer, und achten Sie im Sommer auf Warnungen vor Blaualgen."
+        },
+        {
+          "q": "Gibt es eingezäunte Schwimmbecken für Hunde in der Nähe von Oxford?",
+          "a": "K9 Aquatics in Bicester (20 km nördlich) bietet gegen Buchung ein beheiztes Hallenbad für Hundehydrotherapie und Freizeitschwimmen. Das nächste reine Hundeaußenbecken liegt bei Paws-In in Hampshire (90 km südlich)."
+        },
+        {
+          "q": "Ist Blaualge eine echte Gefahr?",
+          "a": "Ja, bestätigte Hundetodesfälle durch Blaualgen an Themse und Cherwell kommen jeden Sommer vor. Wenn das Wasser grün, blau oder schaumig aussieht, lassen Sie Ihren Hund nicht daraus trinken, darin schwimmen oder darin stehen; Symptome (Erbrechen, Krampfanfälle) beginnen innerhalb einer Stunde."
+        }
       ]
     },
     "vets": {
@@ -819,7 +925,10 @@
             "Cirurgia",
             "Imagiologia"
           ],
-          "tipPt": "Telefone antes de conduzir, o veterinário noturno pode pedir-lhe que estabilize o animal a caminho ou encaminhá-lo para uma clínica mais próxima se não for crítico."
+          "tipPt": "Telefone antes de conduzir, o veterinário noturno pode pedir-lhe que estabilize o animal a caminho ou encaminhá-lo para uma clínica mais próxima se não for crítico.",
+          "typeDe": "24-Stunden-Notfallkrankenhaus",
+          "descriptionDe": "Oxfordshires wichtigstes 24-Stunden-Kleintiernotfallkrankenhaus, 12 km nördlich des Zentrums von Oxford in Woodstock. 365 Tage im Jahr geöffnet mit eigenem Nachtpersonal aus Tierärzten und Pflegekräften, hauseigener Bildgebung und Chirurgie; nimmt sowohl registrierte als auch Besucherpatienten auf.",
+          "tipDe": "Rufen Sie vor der Fahrt an, der diensthabende Tierarzt bittet Sie eventuell, das Tier unterwegs zu stabilisieren, oder verweist Sie bei nicht kritischen Fällen an eine näher gelegene Praxis."
         },
         {
           "name": "Medivet East Oxford",
@@ -864,7 +973,10 @@
             "Abertura ao sábado",
             "Colocação de microchip"
           ],
-          "tipPt": "Mantém uma vaga sem marcação diária às 13:00 para animais visitantes, leve os registos de vacinação e o passaporte/AHC se vier do estrangeiro."
+          "tipPt": "Mantém uma vaga sem marcação diária às 13:00 para animais visitantes, leve os registos de vacinação e o passaporte/AHC se vier do estrangeiro.",
+          "typeDe": "Kleintierpraxis am Tag",
+          "descriptionDe": "Die wichtigste Tagespraxis an der Cowley Road, mit Samstagsöffnung und direkter Überweisung außerhalb der Öffnungszeiten an Medivet 24 Hour Woodstock für die Nachtversorgung. Walk-in-Impfungen und Mikrochipping verfügbar; nimmt Besuchertiere für Routine- und Akutversorgung an.",
+          "tipDe": "Hält täglich um 13:00 Uhr einen Walk-in-Termin für Besuchertiere frei, bringen Sie Impfnachweise und Reisepass/AHC mit, falls Sie aus dem Ausland kommen."
         },
         {
           "name": "Iffley Vets",
@@ -909,7 +1021,10 @@
             "Cuidados geriátricos",
             "Acupuntura"
           ],
-          "tipPt": "Os visitantes são aceites para consultas pontuais à taxa padrão fora da rede (cerca de 75 libras), telefone com antecedência, sobretudo para reservar a sala exclusiva para gatos."
+          "tipPt": "Os visitantes são aceites para consultas pontuais à taxa padrão fora da rede (cerca de 75 libras), telefone com antecedência, sobretudo para reservar a sala exclusiva para gatos.",
+          "typeDe": "Unabhängige Kleintierpraxis",
+          "descriptionDe": "Seit langem bestehende unabhängige Praxis an der Iffley Road, mit hauseigenem Notdienst außerhalb der Öffnungszeiten für registrierte Kunden sowie eigenen Sprechzimmern für Geriatrie und ausschließlich Katzen. Fußläufig von den Bootshäusern von Magdalen und Christ Church entfernt.",
+          "tipDe": "Besucher werden für Einzelberatungen zur regulären externen Gebühr (~75 GBP) angenommen, rufen Sie vorher an, besonders für die Buchung des reinen Katzenzimmers."
         }
       ],
       "tipsEn": [
@@ -989,6 +1104,22 @@
           "q": "O meu passaporte de animal da UE é válido no Reino Unido?",
           "a": "Não, desde 1 de janeiro de 2021 os passaportes de animais da UE não são válidos para viajar para o Reino Unido. Tem de viajar com um Animal Health Certificate (AHC) emitido na UE dentro dos 10 dias anteriores à entrada. Os veterinários de Oxford reconhecem o AHC para cuidados de rotina."
         }
+      ],
+      "titleDe": "Tierärzte und Notfallkliniken in Oxford",
+      "introDe": "Oxford verfügt über ein dichtes Netz an Kleintierpraxen, wobei sich das wichtigste 24-Stunden-Notfallzentrum 12 km nördlich in Woodstock befindet (Medivet 24 Hour Woodstock). Innerhalb der Stadt konzentrieren sich die meisten Tageskliniken entlang der Cowley Road und Banbury Road; Überweisungen außerhalb der Öffnungszeiten laufen über Medivet Woodstock oder für Spezialfälle über das RVC Equine and Small Animal Hospital in Hertfordshire.",
+      "faqsDe": [
+        {
+          "q": "Wohin gehe ich in Oxford bei einem tierärztlichen Notfall nachts?",
+          "a": "Medivet 24 Hour Woodstock, 62 Hensington Road, Woodstock OX20 1JL (+44 1993 811355) ist das einzige rund um die Uhr geöffnete Notfallkrankenhaus in Oxfordshire. Rufen Sie vor der Fahrt an, es liegt 25 Minuten nördlich des Stadtzentrums."
+        },
+        {
+          "q": "Kann ich als Tourist einen Tierarzt in Oxford aufsuchen?",
+          "a": "Ja, alle Medivet-Praxen, Vets4Pets und die meisten unabhängigen Praxen nehmen Besuchertiere an. Bringen Sie Impfnachweise und Ihren AHC/EU-Heimtierausweis mit; rechnen Sie mit einer Erstberatungsgebühr von 60-90 GBP."
+        },
+        {
+          "q": "Ist mein EU-Heimtierausweis im Vereinigten Königreich gültig?",
+          "a": "Nein, seit dem 1. Januar 2021 sind EU-Heimtierausweise für die Einreise ins Vereinigte Königreich nicht mehr gültig. Sie müssen mit einer innerhalb von 10 Tagen vor der Einreise in der EU ausgestellten Animal Health Certificate (AHC) reisen. Tierärzte in Oxford akzeptieren die AHC für die Routineversorgung."
+        }
       ]
     },
     "tips": {
@@ -1007,14 +1138,16 @@
           "description": "May to June and September to October are the sweet spots: average highs of 16-19 C, Port Meadow is accessible, and the tourist crush on the High Street and Radcliffe Camera is manageable. Avoid July and August when the city fills with summer schools and guided tours, and the narrow pavements between the colleges make walking with a dog genuinely difficult.",
           "descriptionFr": "Mai a juin et septembre a octobre sont les periodes ideales : maximales de 16-19 C, Port Meadow est accessible et la frequentation touristique sur High Street est geerable. Evitez juillet et aout quand la ville se remplit d'ecoles d'ete et de visites guidees, les trottoirs etroits entre les colleges rendant la promenade avec un chien vraiment difficile.",
           "descriptionEs": "Mayo a junio y septiembre a octubre son los mejores periodos: maximas de 16-19 C, Port Meadow es accesible y la avalancha turistica en High Street es manejable. Evita julio y agosto cuando la ciudad se llena de cursos de verano y visitas guiadas, y los estrechos aceras entre los colleges hacen que caminar con un perro sea realmente dificil.",
-          "descriptionPt": "De maio a junho e setembro a outubro sao os periodos ideais: maximas de 16-19 C, Port Meadow esta acessivel e a confusao turistica na High Street e gerivel. Evite julho e agosto quando a cidade se enche de cursos de verao e visitas guiadas, e os passeios estreitos entre os colleges tornam a caminhada com um cao genuinamente dificil."
+          "descriptionPt": "De maio a junho e setembro a outubro sao os periodos ideais: maximas de 16-19 C, Port Meadow esta acessivel e a confusao turistica na High Street e gerivel. Evite julho e agosto quando a cidade se enche de cursos de verao e visitas guiadas, e os passeios estreitos entre os colleges tornam a caminhada com um cao genuinamente dificil.",
+          "descriptionDe": "Mai bis Juni und September bis Oktober sind die idealen Monate: durchschnittliche Höchsttemperaturen von 16-19 Grad, Port Meadow ist gut zugänglich, und das Touristengedränge auf der High Street und an der Radcliffe Camera ist überschaubar. Meiden Sie Juli und August, wenn die Stadt voller Sommerschulen und Führungen ist und die schmalen Gehwege zwischen den Colleges das Gehen mit Hund wirklich schwierig machen."
         },
         {
           "name": "UK pet-import paperwork (2026)",
           "description": "From the EU you need: ISO microchip, valid rabies vaccination (at least 21 days old, not expired), and a GB Animal Health Certificate (AHC) issued by an EU official vet within 10 days of arrival. The AHC is valid 4 months for onward EU travel and 4 months for return. Tapeworm treatment is required only for return travel to Ireland, Finland, Malta or Norway.",
           "descriptionFr": "Depuis l'UE il faut : puce ISO, vaccin antirabique valide (au moins 21 jours, non perime) et un GB Animal Health Certificate (AHC) delivre par un veterinaire officiel de l'UE dans les 10 jours precedant l'arrivee. L'AHC est valable 4 mois pour voyager dans l'UE et 4 mois pour le retour. Le traitement antitenias n'est requis que pour le retour vers l'Irlande, la Finlande, Malte ou la Norvege.",
           "descriptionEs": "Desde la UE necesitas: microchip ISO, vacuna antirrábica vigente (al menos 21 dias, no caducada) y un GB Animal Health Certificate (AHC) emitido por un OV de la UE en los 10 dias previos a la llegada. El AHC es valido 4 meses para viajar en la UE y 4 meses para el retorno. El tratamiento de tenia solo se exige para volver a Irlanda, Finlandia, Malta o Noruega.",
-          "descriptionPt": "A partir da UE precisa de: microchip ISO, vacinacao antirabica valida (pelo menos 21 dias, nao expirada) e um GB Animal Health Certificate (AHC) emitido por um veterinario oficial da UE nos 10 dias anteriores a chegada. O AHC e valido 4 meses para viagens dentro da UE e 4 meses para o regresso. O tratamento anti-tenia so e exigido na viagem de regresso para a Irlanda, Finlandia, Malta ou Noruega."
+          "descriptionPt": "A partir da UE precisa de: microchip ISO, vacinacao antirabica valida (pelo menos 21 dias, nao expirada) e um GB Animal Health Certificate (AHC) emitido por um veterinario oficial da UE nos 10 dias anteriores a chegada. O AHC e valido 4 meses para viagens dentro da UE e 4 meses para o regresso. O tratamento anti-tenia so e exigido na viagem de regresso para a Irlanda, Finlandia, Malta ou Noruega.",
+          "descriptionDe": "Aus der EU benötigen Sie: einen ISO-Mikrochip, eine gültige Tollwutimpfung (mindestens 21 Tage alt, nicht abgelaufen) und eine von einem offiziellen EU-Tierarzt innerhalb von 10 Tagen vor der Einreise ausgestellte GB Animal Health Certificate (AHC). Die AHC ist 4 Monate für die Weiterreise innerhalb der EU und 4 Monate für die Rückreise gültig. Eine Bandwurmbehandlung ist nur für die Rückreise nach Irland, Finnland, Malta oder Norwegen erforderlich."
         },
         {
           "name": "Walking Oxford with a dog",
@@ -1022,7 +1155,8 @@
           "description": "Port Meadow is the definitive Oxford dog walk: 1000 acres of common land shared between dogs, horses and geese, fully off-leash with no formal fences. Access from Walton Well Road (10 min walk from the city centre). The Thames Path from Oxford to Abingdon (7 miles south, flat, almost entirely off-leash riverbank) is the best longer route.",
           "descriptionFr": "Port Meadow est la promenade canine definitoire d'Oxford : 1000 acres de terrain commun partage entre chiens, chevaux et oies, entierement sans laisse sans cloture. Acces depuis Walton Well Road (10 min a pied du centre). Le Thames Path d'Oxford a Abingdon (11 km au sud, plat, berge presque entierement sans laisse) est la meilleure option longue distance.",
           "descriptionEs": "Port Meadow es el paseo canino definitorio de Oxford: 1000 acres de terreno comunal compartido entre perros, caballos y gansos, completamente sin correa y sin cercas. Acceso desde Walton Well Road (10 min a pie del centro). El Thames Path de Oxford a Abingdon (11 km al sur, llano, orilla casi completamente sin correa) es la mejor ruta larga.",
-          "descriptionPt": "Port Meadow e o passeio canino definitorio de Oxford: 1000 acres de terra comunitaria partilhada entre caes, cavalos e gansos, completamente sem trela e sem vedacoes. Acesso pela Walton Well Road (10 min a pe do centro). O Thames Path de Oxford a Abingdon (11 km a sul, plano, margem quase inteiramente sem trela) e a melhor rota longa."
+          "descriptionPt": "Port Meadow e o passeio canino definitorio de Oxford: 1000 acres de terra comunitaria partilhada entre caes, cavalos e gansos, completamente sem trela e sem vedacoes. Acesso pela Walton Well Road (10 min a pe do centro). O Thames Path de Oxford a Abingdon (11 km a sul, plano, margem quase inteiramente sem trela) e a melhor rota longa.",
+          "descriptionDe": "Port Meadow ist der klassische Oxforder Hundespaziergang: 400 Hektar Gemeindeland, das sich Hunde, Pferde und Gänse teilen, vollständig leinenfrei ohne formelle Zäune. Zugang über die Walton Well Road (10 Gehminuten vom Stadtzentrum). Der Thames Path von Oxford nach Abingdon (11 km südlich, flach, fast durchgehend leinenfreies Flussufer) ist die beste längere Route."
         }
       ],
       "tipsEn": [
@@ -1084,6 +1218,18 @@
           "q": "Posso levar o meu cao ao mercado coberto de Oxford?",
           "a": "Na maioria das bancas sim, com trela curta e ao criterio do comerciante. O Covered Market nao tem proibicao geral. Evite o rush do almoco 12:00-14:00 quando fica muito concorrido."
         }
+      ],
+      "titleDe": "Mit Hund nach Oxford reisen: praktische Tipps",
+      "introDe": "Oxford ist einer der hundefreundlichsten Städtetrips im Vereinigten Königreich, Port Meadow bietet 400 Hektar leinenfreies Gemeindeland 10 Minuten vom Stadtzentrum entfernt. Meiden Sie die College-Innenhöfe und genießen Sie den Themse-Uferweg und die Pubszene in Jericho.",
+      "faqsDe": [
+        {
+          "q": "Eignet sich Oxford für ein hundefreundliches Wochenende?",
+          "a": "Ja. Port Meadow bietet 400 Hektar leinenfreies Gemeindeland wenige Minuten vom Zentrum, der Thames Path ist flach und hervorragend, und mehrere Pubs in Jericho, St Clement's und an der Cowley Road heißen Hunde ausdrücklich im Innenbereich willkommen. Meiden Sie die Colleges (nur Assistenzhunde) und planen Sie Museumsbesuche mit Betreuung des Hundes."
+        },
+        {
+          "q": "Darf ich meinen Hund in Oxfords Covered Market mitnehmen?",
+          "a": "An den meisten Ständen ja, an kurzer Leine und nach Ermessen des Händlers. Der Covered Market hat kein generelles Verbot. Meiden Sie den Mittagsansturm von 12:00-14:00 Uhr, wenn es sehr voll wird."
+        }
       ]
     },
     "attractions": {
@@ -1113,7 +1259,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Radcliffe+Camera+Oxford",
           "descriptionPt": "A praça empedrada de Radcliffe Square e a fotogénica Hertford Bridge (Bridge of Sighs) na New College Lane formam o recanto pedonal mais fotografado de Oxford. Os cães com trela são bem-vindos na praça e ao longo das ruelas; o interior da Camera permanece fechado a todos os visitantes exceto aos leitores da Bodleian.",
           "petPolicyPt": "Apenas praça e ruelas ao ar livre; com trela",
-          "tipPt": "A melhor luz para fotografia é 30 minutos antes do pôr do sol, o calcário brilha dourado e as multidões de visitantes do dia dispersam até às 18:00."
+          "tipPt": "A melhor luz para fotografia é 30 minutos antes do pôr do sol, o calcário brilha dourado e as multidões de visitantes do dia dispersam até às 18:00.",
+          "descriptionDe": "Der kopfsteingepflasterte Radcliffe Square und die fotogene Hertford Bridge (Bridge of Sighs) an der New College Lane bilden die meistfotografierte Fußgängerecke Oxfords. Angeleinte Hunde sind auf dem Platz und in den Gassen willkommen; das Innere der Camera ist für alle Besucher außer Lesern der Bodleian geschlossen.",
+          "petPolicyDe": "Nur Platz und Gassen im Freien; an der Leine",
+          "tipDe": "Das beste Fotolicht gibt es 30 Minuten vor Sonnenuntergang, der Kalkstein leuchtet golden, und die Tagestouristen sind bis 18:00 Uhr verschwunden."
         },
         {
           "name": "Cherwell Boathouse punting",
@@ -1134,7 +1283,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Cherwell+Boathouse+Oxford",
           "descriptionPt": "Estação de aluguer de punts de longa data no Cherwell, no norte de Oxford, usada por gerações de estudantes e visitantes. Os cães viajam gratuitamente no punt com os seus donos (bem-comportados, com trela curta); a rota a montante até ao pub Victoria Arms é a ida e volta de 90 minutos mais tranquila.",
           "petPolicyPt": "Cães grátis nos punts com o dono; trela curta obrigatória",
-          "tipPt": "Reserve o punt para 4 pessoas em vez do de 6, o barco mais pequeno assenta mais baixo na água e é muito mais fácil de equilibrar para um cão nervoso."
+          "tipPt": "Reserve o punt para 4 pessoas em vez do de 6, o barco mais pequeno assenta mais baixo na água e é muito mais fácil de equilibrar para um cão nervoso.",
+          "descriptionDe": "Seit langem bestehende Stocherkahn-Verleihstation am Cherwell im Norden Oxfords, genutzt von Generationen von Studierenden und Besuchern. Hunde fahren kostenlos im Kahn bei ihren Besitzern mit (wohlerzogen, an kurzer Leine); die Route flussaufwärts zum Pub Victoria Arms ist der ruhigste 90-minütige Rundgang.",
+          "petPolicyDe": "Hunde kostenlos im Kahn beim Besitzer; kurze Leine erforderlich",
+          "tipDe": "Buchen Sie den 4-Personen-Kahn statt des 6-Personen-Kahns, das kleinere Boot liegt tiefer im Wasser und ist für einen nervösen Hund viel leichter zu balancieren."
         },
         {
           "name": "Oxford Castle and Prison outdoor courtyard",
@@ -1155,7 +1307,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Oxford+Castle+and+Prison",
           "descriptionPt": "A colina fortificada de origem saxã e a prisão vitoriana formam um pátio exterior de entrada gratuita no extremo oeste do centro da cidade. Os cães com trela são bem-vindos a percorrer a praça empedrada e a subir os degraus da St George's Tower (secção ao ar livre); a visita guiada interior à prisão não aceita cães.",
           "petPolicyPt": "Pátio ao ar livre sim (grátis); visita interior não",
-          "tipPt": "O mercado de produtos alimentares de sábado na praça empedrada (10:00 às 16:00) aceita cães e é uma boa paragem para almoçar antes de caminhar para sul até Christ Church Meadow."
+          "tipPt": "O mercado de produtos alimentares de sábado na praça empedrada (10:00 às 16:00) aceita cães e é uma boa paragem para almoçar antes de caminhar para sul até Christ Church Meadow.",
+          "descriptionDe": "Der Motte-Hügel aus der Sachsenzeit und das viktorianische Gefängnis bilden einen kostenlos zugänglichen Außenhof am westlichen Rand des Stadtzentrums. Angeleinte Hunde dürfen den gepflasterten Platz begehen und die Stufen des St George's Tower erklimmen (Außenbereich); die geführte Innentour durch das Gefängnis nimmt keine Hunde an.",
+          "petPolicyDe": "Außenhof ja (kostenlos); Innentour nein",
+          "tipDe": "Der samstägliche Lebensmittelmarkt auf dem gepflasterten Platz (10:00-16:00 Uhr) ist hundefreundlich und ein guter Mittagsstopp, bevor Sie südwärts zur Christ Church Meadow weitergehen."
         }
       ],
       "tipsEn": [
@@ -1235,6 +1390,22 @@
           "q": "Qual é a melhor excursão de um dia que aceita cães a partir de Oxford?",
           "a": "Blenheim Palace (12 km a norte) aceita cães com trela em todos os seus terrenos de 2.000 acres e jardins formais (sem entrada no próprio palácio) por 8 libras por cão. As aldeias dos Cotswolds de Burford e Bibury são também excelentes excursões de meio dia que aceitam cães."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten und Aktivitäten in Oxford",
+      "introDe": "Die meisten Hauptattraktionen Oxfords, die Lesesäle der Bodleian Library, die College-Innenhöfe, das Ashmolean Museum und das Natural History Museum, sind für Hunde tabu. Der Ausgleich ist, dass die schönsten Ausblicke der Stadt alle im Freien liegen: der Platz an der Radcliffe Camera, die Gasse an der Bridge of Sighs, die Runde durch die Christ Church Meadow und die Stocherkahnstationen heißen angeleinte Hunde willkommen.",
+      "faqsDe": [
+        {
+          "q": "Darf ich mit meinem Hund in Oxford Stocherkahn fahren?",
+          "a": "Ja, sowohl Cherwell Boathouse als auch Magdalen Bridge Boat House nehmen Hunde kostenlos an kurzer Leine mit. Sagen Sie dem Stocherkahnführer Bescheid, damit er Sie zur Stabilität nahe dem Bug platziert."
+        },
+        {
+          "q": "Sind Hunde in den Oxford-Colleges erlaubt?",
+          "a": "Nein, außer Blinden- und Assistenzhunden. Die 39 Colleges (Christ Church, Magdalen, New College, Merton usw.) lehnen Haustiere in Innenhöfen, Kapellen und Gärten allesamt ab."
+        },
+        {
+          "q": "Was ist der beste hundefreundliche Tagesausflug ab Oxford?",
+          "a": "Blenheim Palace (12 km nördlich) nimmt Hunde an der Leine auf seinem 800 Hektar großen Gelände und in den Ziergärten mit (kein Zutritt zum Palast selbst) für 8 GBP pro Hund. Die Cotswolds-Dörfer Burford und Bibury sind ebenfalls hervorragende hundefreundliche Halbtagesausflüge."
+        }
       ]
     },
     "petsitting": {
@@ -1286,7 +1457,10 @@
             "Hospedagem",
             "Cuidado da casa"
           ],
-          "tipPt": "Filtre por cuidadores que oferecem encontro de apresentação, a etiqueta do Rover no Reino Unido inclui uma visita inicial gratuita de 15 minutos antes do primeiro passeio."
+          "tipPt": "Filtre por cuidadores que oferecem encontro de apresentação, a etiqueta do Rover no Reino Unido inclui uma visita inicial gratuita de 15 minutos antes do primeiro passeio.",
+          "typeDe": "Online-Plattform",
+          "descriptionDe": "Größter Marktplatz für Haustierbetreuung in Oxford mit über 350 gelisteten Gassi-Gehern und Haussittern, die alle Stadtteile abdecken, einschließlich Jericho, Cowley, Headington und Summertown. Buchungen beinhalten eine Tierarztversicherung über 25.000 GBP und eine rund um die Uhr erreichbare Hotline; die Plattform prüft Ausweis und Referenzen der Sitter.",
+          "tipDe": "Filtern Sie nach Sittern, die ein Kennenlerntreffen anbieten, im Vereinigten Königreich gehört bei Rover ein kostenloser 15-minütiger Erstbesuch vor dem ersten Spaziergang zur guten Praxis."
         },
         {
           "name": "Pawshake, Oxford",
@@ -1329,7 +1503,10 @@
             "Hospedagem",
             "Cuidado da casa"
           ],
-          "tipPt": "Os cuidadores da Pawshake tendem a ser mais baratos do que os do Rover para o mesmo serviço em Oxford, entre 10 e 20%, útil para reservas de uma semana."
+          "tipPt": "Os cuidadores da Pawshake tendem a ser mais baratos do que os do Rover para o mesmo serviço em Oxford, entre 10 e 20%, útil para reservas de uma semana.",
+          "typeDe": "Online-Plattform",
+          "descriptionDe": "Auf Trustpilot bewertete Plattform, die Oxford und Oxfordshire abdeckt, mit über 300 rezensierten Gassi-Gehern und Haustiersittern, darunter eine Durchschnittsbewertung von 4,97 von 5 bei über 600 Bewertungen. Die Pawshake-Garantie umfasst eine Notfall-Tierarztkostendeckung und eine rund um die Uhr erreichbare Hotline für Buchungsfragen.",
+          "tipDe": "Pawshake-Sitter sind bei gleicher Leistung in Oxford tendenziell 10-20 % günstiger als bei Rover, nützlich für wochenlange Buchungen."
         },
         {
           "name": "Animals at Home Oxford",
@@ -1372,7 +1549,10 @@
             "Táxi para animais",
             "Ambulância para animais"
           ],
-          "tipPt": "Reserve o táxi para animais com 24 horas de antecedência para não emergências; as deslocações de emergência ao Medivet estão disponíveis no próprio dia se houver um veículo livre, normalmente 45 a 60 libras."
+          "tipPt": "Reserve o táxi para animais com 24 horas de antecedência para não emergências; as deslocações de emergência ao Medivet estão disponíveis no próprio dia se houver um veículo livre, normalmente 45 a 60 libras.",
+          "typeDe": "Lokale Franchise",
+          "descriptionDe": "Lokale Oxforder Franchise des nationalen Netzwerks Animals at Home, das Gassi-Service, Fütterung, Tiertransport im Notfall und Haustiertaxi in der ganzen Stadt anbietet. Der Haustiertaxi-Service ist besonders nützlich für Besucher ohne Auto, die zu Medivet 24 Hour Woodstock im Notfall transportiert werden müssen.",
+          "tipDe": "Buchen Sie das Haustiertaxi 24 Stunden im Voraus für Nicht-Notfälle; Notfahrten zu Medivet sind bei freiem Fahrzeug am selben Tag verfügbar, typischerweise 45-60 GBP."
         }
       ],
       "tipsEn": [
@@ -1451,6 +1631,22 @@
         {
           "q": "Existem creches caninas sem marcação em Oxford?",
           "a": "Sim, as mais próximas são a Doggy Days Oxford (Cowley) e a Pawsome Oxford (Botley), ambas de 25 a 35 libras por dia com entrega de manhã. É necessária reserva com 48 horas de antecedência no período letivo."
+        }
+      ],
+      "titleDe": "Haustierbetreuung und Gassi-Service in Oxford",
+      "introDe": "Oxford hat eine aktive Gemeinschaft unabhängiger Gassi-Geher und Sitter rund um die Universität und die Bezirke um Cowley, dazu die drei großen Online-Plattformen (Rover, Pawshake, Tailster). Die Gassi-Preise reichen von 12 GBP für einen 30-minütigen Einzelspaziergang bis 18 GBP für einen einstündigen Gruppenspaziergang; eine Übernachtungsbetreuung im Zuhause des Sitters kostet typischerweise 35-45 GBP pro Nacht.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in meinem Oxforder Hotelzimmer lassen, während ich die Colleges besichtige?",
+          "a": "Die meisten hundefreundlichen Oxforder Hotels (Randolph, Mercure Hawkwell House) akzeptieren wohlerzogene Hunde, die tagsüber 2-3 Stunden im Zimmer bleiben; voco Oxford Thames und Malmaison verlangen, dass Hunde nicht allein gelassen werden. Prüfen Sie dies immer bei der Buchung."
+        },
+        {
+          "q": "Was kostet ein Gassi-Spaziergang in Oxford?",
+          "a": "12-15 GBP für einen 30-minütigen Einzelspaziergang, 18-22 GBP für einen einstündigen Gruppenspaziergang im Jahr 2026. Übernachtungsbetreuung 35-50 GBP pro Nacht je nach Lage; das zentrale Oxford (OX1) ist am teuersten."
+        },
+        {
+          "q": "Gibt es Tagesbetreuungsstätten mit spontaner Abgabe in Oxford?",
+          "a": "Ja, die nächstgelegenen sind Doggy Days Oxford (Cowley) und Pawsome Oxford (Botley), beide 25-35 GBP pro Tag mit Abgabe am Morgen. Eine Buchung 48 Stunden im Voraus ist während der Vorlesungszeit erforderlich."
         }
       ]
     }

@@ -1,4 +1,10 @@
-{"slug":"rethymno","name":"Rethymno","country":"Greece","flag":"🇬🇷","lastUpdated":"2026-06-19","guides":{
+{
+  "slug": "rethymno",
+  "name": "Rethymno",
+  "country": "Greece",
+  "flag": "🇬🇷",
+  "lastUpdated": "2026-06-19",
+  "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Rethymno",
       "titleFr": "Restaurants acceptant les animaux à Rethymno",
@@ -33,7 +39,11 @@
           "tipFr": "Réservez une table en première ligne sur le port pour le coucher du soleil. La terrasse est ombragée et ventilée, idéale pour les chiens par forte chaleur estivale",
           "tipEs": "Reserva una mesa en primera línea del puerto para el atardecer. La terraza tiene sombra y brisa, ideal para perros con el calor del verano",
           "tipPt": "Reserve uma mesa na primeira fila do porto para o pôr do sol. A esplanada tem sombra e brisa, ideal para cães no calor do verão",
-          "googleMapsUrl": "https://maps.google.com/?q=Cavo+D%27Oro+Rethymno"
+          "googleMapsUrl": "https://maps.google.com/?q=Cavo+D%27Oro+Rethymno",
+          "descriptionDe": "Seit 1988 direkt am alten venezianischen Hafen mit Blick auf den historischen Leuchtturm geöffnet, ist Cavo D'Oro eine der etabliertesten Fischtavernen von Rethymno. Auf der Hafenterrasse wird ganzjährig im Freien serviert, wo sich angeleinte, ruhige Hunde leicht zu Füßen niederlassen, während man sich durch frische kretische Meeresfrüchte isst.",
+          "petPolicyDe": "Angeleinte Hunde auf der Hafenterrasse willkommen",
+          "mustTryDe": "Gegrillter frischer Fisch, kretisches Meeresfrüchte-Meze",
+          "tipDe": "Einen Tisch in erster Reihe am Hafen für den Sonnenuntergang reservieren. Die Terrasse liegt im Schatten und ist luftig, ideal für Hunde in der Sommerhitze"
         },
         {
           "name": "Castelo Rethymno",
@@ -59,7 +69,11 @@
           "tipFr": "La cour couverte de vigne reste fraîche à la nuit tombée. Venez pour un dîner tardif quand la pierre de la vieille ville a refroidi pour les pattes de votre chien",
           "tipEs": "El patio cubierto de parras se mantiene fresco tras el anochecer. Ven a cenar tarde cuando la piedra del casco antiguo se haya enfriado para las patas de tu perro",
           "tipPt": "O pátio coberto de videiras mantém-se fresco depois de escurecer. Venha para um jantar tardio quando a pedra da cidade velha tiver arrefecido para as patas do seu cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Castelo+Rethymno"
+          "googleMapsUrl": "https://maps.google.com/?q=Castelo+Rethymno",
+          "descriptionDe": "Versteckt in den Gassen der Altstadt von Rethymno ist Castelo ein romantisches Restaurant rund um eine unüberdachte Terrasse, an deren antiken Ziegel- und Steinmauern Wein rankt. Der gartenartige Innenhof ist ruhig und schattig, ein angenehmer Ort, um mit angeleintem Hund abseits des belebteren Hafentrubels zu essen.",
+          "petPolicyDe": "Angeleinte Hunde auf der Innenhofterrasse willkommen",
+          "mustTryDe": "Lamm mit Stamnagathi, kretische Käsesorten",
+          "tipDe": "Der weinberankte Innenhof bleibt nach Einbruch der Dunkelheit kühl. Für ein spätes Abendessen kommen, wenn der Altstadtstein für die Pfoten des Hundes abgekühlt ist"
         },
         {
           "name": "LivingRoom GastroBar",
@@ -85,7 +99,11 @@
           "tipFr": "Prenez un café le matin ici avant que la chaleur ne monte. La brise du front de mer garde la terrasse agréable pour les chiens",
           "tipEs": "Tómate un café por la mañana aquí antes de que apriete el calor. La brisa del paseo marítimo mantiene la terraza agradable para los perros",
           "tipPt": "Tome um café de manhã aqui antes de o calor apertar. A brisa do passeio marítimo mantém a esplanada agradável para os cães",
-          "googleMapsUrl": "https://maps.google.com/?q=LivingRoom+GastroBar+Rethymno"
+          "googleMapsUrl": "https://maps.google.com/?q=LivingRoom+GastroBar+Rethymno",
+          "descriptionDe": "Eine ganztägig geöffnete Lounge-Café-Bar direkt an der Uferpromenade beim alten venezianischen Hafen, LivingRoom serviert von morgens bis spät Kaffee, Brunch, Cocktails und mediterrane kleine Gerichte. Die Freiluftsitzplätze am Meer sind entspannt und luftig, ein einfacher Stopp mit Hund zwischen Strandspaziergängen und Altstadtbummel.",
+          "petPolicyDe": "Angeleinte Hunde auf der Meeresterrasse willkommen",
+          "mustTryDe": "Brunch-Teller, Cocktails, frische Säfte",
+          "tipDe": "Hier einen Morgenkaffee holen, bevor die Hitze zunimmt. Die Meeresbrise hält die Terrasse für Hunde angenehm"
         }
       ],
       "tipsEn": [
@@ -163,6 +181,22 @@
           "q": "Qual é a melhor altura para comer fora com um cão em Rethymno?",
           "a": "À noite, depois das 19:00 no verão, quando as ruas de pedra e as esplanadas já arrefeceram. O porto e o passeio marítimo apanham uma brisa do mar que mantém os cães confortáveis mesmo em julho e agosto."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Rethymno",
+      "introDe": "Die Gastronomiekultur von Rethymno lebt im Freien, und das kommt Hundebesitzern sehr entgegen. Die meisten Tavernen am venezianischen Hafen, in den Gassen der Altstadt und an der langen Uferpromenade bewirten die Gäste auf schattigen Terrassen, wo ein gut erzogener angeleinter Hund ohne Umstände willkommen ist. Im kretischen Sommer empfehlen sich die kühleren Abendstunden nach 19:00 Uhr, wenn sich der Hafen abkühlt und die Steinstraßen nicht mehr glühen, und man sollte um eine Wasserschale bitten, die die meisten familiengeführten Lokale gern bringen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Rethymno erlaubt?",
+          "a": "Auf Außenterrassen ja, fast überall. Tavernen am venezianischen Hafen, in den Gassen der Altstadt und an der Uferpromenade heißen angeleinte, gut erzogene Hunde routinemäßig willkommen. Klimatisierte Innenräume sind meist tabu, also Terrassenplätze einplanen."
+        },
+        {
+          "q": "Bekommt mein Hund in Restaurants in Rethymno Wasser?",
+          "a": "Die meisten familiengeführten Tavernen bringen auf Nachfrage eine Wasserschale, viele stellen im Sommer ohnehin eine bereit. Auch eine eigene faltbare Schale mitbringen, denn bei der kretischen Sommerhitze braucht der Hund zwischen den Stopps häufig Wasser."
+        },
+        {
+          "q": "Wann ist die beste Zeit, mit Hund in Rethymno auswärts zu essen?",
+          "a": "Abends nach 19:00 Uhr im Sommer, sobald sich Steinstraßen und Terrassen abgekühlt haben. Hafen und Uferpromenade fangen eine Meeresbrise ein, die Hunde selbst im Juli und August angenehm kühl hält."
+        }
       ]
     },
     "parks": {
@@ -193,7 +227,10 @@
           "tipFr": "Visitez en milieu de matinée ou en fin d'après-midi. L'ombre et la fontaine en font l'espace vert le plus frais du centre-ville",
           "tipEs": "Visita a media mañana o al final de la tarde. La sombra y la fuente lo convierten en el espacio verde más fresco del centro",
           "tipPt": "Visite a meio da manhã ou ao final da tarde. A sombra e a fonte fazem dele o espaço verde mais fresco do centro da cidade",
-          "googleMapsUrl": "https://maps.google.com/?q=Municipal+Garden+Rethymno"
+          "googleMapsUrl": "https://maps.google.com/?q=Municipal+Garden+Rethymno",
+          "descriptionDe": "Der zentrale öffentliche Garten von Rethymno an der Igoumenou-Gavriil-Straße ist eine grüne Oase mit hohen Bäumen, Blumenbeeten, schattigen Wegen und einem kühlenden Brunnen, ein beliebter Treffpunkt für Einheimische. Das dichte Blätterdach macht ihn zu einem der wenigen wirklich schattigen Spazierplätze der Stadt, ideal für einen angeleinten Bummel mit Hund abseits der Mittagssonne.",
+          "offLeashAreaDe": "Keiner. Hunde müssen nach griechischem Recht angeleint bleiben",
+          "tipDe": "Am späten Vormittag oder späten Nachmittag besuchen. Schatten und Brunnen machen ihn zur kühlsten Grünfläche im Stadtzentrum"
         },
         {
           "name": "Fortezza Headland Walk",
@@ -213,7 +250,10 @@
           "tipFr": "Faites le tour des remparts au lever du soleil pour l'air frais et la plus belle lumière. Emportez de l'eau, il y a peu d'ombre sur le promontoire exposé",
           "tipEs": "Recorre el perímetro al amanecer para disfrutar del aire fresco y la mejor luz. Lleva agua, hay poca sombra en el promontorio expuesto",
           "tipPt": "Percorra o perímetro ao nascer do sol pelo ar fresco e a melhor luz. Leve água, há pouca sombra no promontório exposto",
-          "googleMapsUrl": "https://maps.google.com/?q=Fortezza+Rethymno"
+          "googleMapsUrl": "https://maps.google.com/?q=Fortezza+Rethymno",
+          "descriptionDe": "Die venezianische Fortezza krönt eine felsige Landzunge über der Altstadt, und der Rundweg um ihre Mauern bietet weiten Meerblick, Meeresbrise und eine flache, offene Route für einen angeleinten Spaziergang. Hunde sind im kostenpflichtigen Festungsbereich selbst nicht erlaubt, doch die umliegende Landzunge und die Küstengassen sind ein beliebter Ort für frühmorgendliche und abendliche Spaziergänge.",
+          "offLeashAreaDe": "Keiner. Leinenpflicht. Hunde nicht im kostenpflichtigen Festungsbereich erlaubt",
+          "tipDe": "Den Rundweg bei Sonnenaufgang für kühle Luft und das beste Licht begehen. Wasser mitbringen, auf der exponierten Landzunge gibt es wenig Schatten"
         },
         {
           "name": "Rethymno Seafront Promenade",
@@ -233,7 +273,10 @@
           "tipFr": "Faites cette balade avant 9h ou après 19h en été. Le pavé renvoie la chaleur en milieu de journée et peut brûler les pattes",
           "tipEs": "Haz este paseo antes de las 09:00 o después de las 19:00 en verano. El pavimento irradia calor al mediodía y puede quemar las patas",
           "tipPt": "Faça este passeio antes das 09:00 ou depois das 19:00 no verão. O pavimento irradia calor ao meio-dia e pode queimar as patas",
-          "googleMapsUrl": "https://maps.google.com/?q=Rethymno+Beach+Promenade"
+          "googleMapsUrl": "https://maps.google.com/?q=Rethymno+Beach+Promenade",
+          "descriptionDe": "Vom östlichen Ende der Altstadt entlang des Stadtstrands erstreckt sich die flache Uferpromenade von Rethymno über mehrere Kilometer an Cafés, Palmen und Sand vorbei. Sie ist der einfachste lange Spaziergang der Stadt mit angeleintem Hund, mit fast durchgehender Meeresbrise und vielen Café-Stopps, an denen man im Schatten Wasser bekommt.",
+          "offLeashAreaDe": "Keiner. Leinenpflicht auf Promenade und Stadtstrand",
+          "tipDe": "Diesen Spaziergang im Sommer vor 09:00 Uhr oder nach 19:00 Uhr unternehmen. Der Belag strahlt zur Mittagszeit Hitze ab und kann Pfoten verbrennen"
         }
       ],
       "tipsEn": [
@@ -310,6 +353,22 @@
         {
           "q": "Posso subir à fortaleza da Fortezza com o meu cão?",
           "a": "Os cães não são permitidos dentro do monumento pago da Fortezza, mas o caminho do promontório envolvente e as ruelas costeiras estão abertos a passeios de trela com excelentes vistas de mar e brisa."
+        }
+      ],
+      "titleDe": "Hundeparks & Spaziergänge in Rethymno",
+      "introDe": "Rethymno ist eine kompakte Stadt mit wenigen offiziellen Freilauf-Hundeparks, macht das aber mit schattigen Gärten, einer langen flachen Uferpromenade und der dramatischen Landzunge der Fortezza für Spaziergänge wett. Das griechische Recht schreibt Leinenpflicht im öffentlichen Raum vor, Spaziergänge im Sommer daher für den frühen Morgen oder nach Sonnenuntergang planen, um die Pfoten des Hundes vor heißen Gehwegen zu schonen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Freilauf-Hundeparks in Rethymno?",
+          "a": "Im Zentrum von Rethymno gibt es keine eingezäunten Freilauf-Hundeparks. Das griechische Recht schreibt im öffentlichen Raum Leinenpflicht vor. Der Stadtgarten, die Landzunge der Fortezza und die Uferpromenade sind die besten Optionen für angeleinte Spaziergänge."
+        },
+        {
+          "q": "Wo kann ich mit meinem Hund im Schatten spazieren gehen in Rethymno?",
+          "a": "Der Stadtgarten (Dimotikos Kipos) an der Igoumenou-Gavriil-Straße hat den dichtesten Baumbestand der Stadt und einen Brunnen. Ansonsten bieten die Altstadtgassen schmalen Schatten, während Uferpromenade und Fortezza luftig, aber exponiert sind, diese also früh oder spät im Sommer begehen."
+        },
+        {
+          "q": "Darf ich meinen Hund zur Festung Fortezza mitnehmen?",
+          "a": "Hunde sind im kostenpflichtigen Denkmal Fortezza nicht erlaubt, doch der umliegende Landzungenweg und die Küstengassen sind für angeleinte Spaziergänge mit hervorragendem Meerblick und Brise offen."
         }
       ]
     },
@@ -433,6 +492,22 @@
           "q": "Posso levar o meu cão no ferry para Creta?",
           "a": "Sim, os ferries noturnos do Pireu aceitam animais, mas as regras variam por companhia. Os animais pequenos em caixa podem usar salões designados, enquanto os cães maiores ficam limitados a camarotes para animais, canis ou conveses abertos, de trela e açaimo. Os camarotes que aceitam animais esgotam depressa no verão, por isso reserve cedo."
         }
+      ],
+      "titleDe": "Mit Haustier unterwegs in Rethymno",
+      "introDe": "Die Altstadt von Rethymno ist zu Fuß gut und hundefreundlich zu erkunden, doch für An- und Weiterreise auf Kreta mit Haustier muss man die Regeln von KTEL-Bus, Fähre und Taxi kennen. KTEL-Überlandbusse auf der Insel nehmen bis zu zwei Haustiere pro Bus mit: kleine Hunde unter 10 kg in einer Transportbox bis 50x40x35 cm, größere Hunde angeleint und mit Maulkorb. Rethymno selbst hat keinen Flughafen, die meisten Besucher reisen daher über die Flughäfen Chania (CHA) oder Heraklion an, oder mit der Nachtfähre von Piräus nach Rethymno oder Heraklion.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in einem KTEL-Bus auf Kreta mitnehmen?",
+          "a": "Ja. KTEL-Busse erlauben bis zu zwei Haustiere pro Bus. Kleine Hunde unter 10 kg reisen in einer Transportbox bis 50x40x35 cm, größere Hunde müssen angeleint sein und einen Maulkorb tragen. Haustiere werden nie im Gepäckraum untergebracht. Vor stark frequentierten Sommerfahrten bei KTEL Chania-Rethymno nachfragen."
+        },
+        {
+          "q": "Wie komme ich mit Hund vom Flughafen nach Rethymno?",
+          "a": "Rethymno hat keinen Flughafen. Nach Chania (CHA, ca. 60 km) oder Heraklion (HER, ca. 80 km) fliegen und mit einem vorab gebuchten haustierfreundlichen Taxi oder dem KTEL-Bus weiterfahren, beides etwa eine Stunde. Für mehr Komfort mit größerem Hund ein haustierfreundliches Taxi im Voraus buchen."
+        },
+        {
+          "q": "Darf ich meinen Hund auf der Fähre nach Kreta mitnehmen?",
+          "a": "Ja, Nachtfähren von Piräus nehmen Haustiere mit, die Regeln variieren aber je nach Reederei. Kleine Haustiere in Transportboxen dürfen ausgewiesene Lounges nutzen, größere Hunde sind auf Haustierkabinen, Zwinger oder offene Decks beschränkt, angeleint und mit Maulkorb. Haustierfreundliche Kabinen sind im Sommer schnell ausgebucht, daher früh buchen."
+        }
       ]
     },
     "beaches": {
@@ -515,6 +590,18 @@
           "q": "Qual é a melhor altura para levar um cão a uma praia de Rethymno no verão?",
           "a": "De manhã cedo, antes das 10:00 aproximadamente, ou ao final da tarde. A areia e o ar estão mais frescos, as praias muito menos cheias, e o seu cão evita o calor perigoso do meio-dia. Leve sempre água fresca e um local com sombra, pois o sol de verão cretense é intenso."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Rethymno",
+      "introDe": "Das griechische Strandgesetz (Gesetz 4830/2021) erlaubt Hunden den Zugang zu unorganisierten Stränden und ins Meer, allerdings müssen sie am Sand angeleint und unter Kontrolle sein. Organisierte Strände mit Liegen lassen Hunde nur zu, wenn der Betreiber es ausdrücklich erlaubt, und Blaue-Flagge-Strände verbieten Haustiere außer Assistenzhunden. Rund um Rethymno sind die ruhigeren, weniger organisierten Abschnitte westlich und östlich der Stadt die beste Wahl, besonders am frühen Morgen vor dem sommerlichen Andrang und der Hitze.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund mit an den Strand in Rethymno nehmen?",
+          "a": "Ja, nach griechischem Gesetz 4830/2021 dürfen Hunde auf unorganisierte Strände und ins Meer, müssen am Sand aber angeleint und unter Kontrolle bleiben. Organisierte Liegestrände lassen Hunde nur zu, wenn der Betreiber es erlaubt, und Blaue-Flagge-Strände verbieten Haustiere außer Assistenzhunden. Die ruhigeren westlichen und östlichen Abschnitte bei Rethymno sind am besten geeignet."
+        },
+        {
+          "q": "Wann ist im Sommer die beste Zeit, mit Hund an einen Strand bei Rethymno zu gehen?",
+          "a": "Früh am Morgen, vor etwa 10:00 Uhr, oder abends. Sand und Luft sind dann kühler, die Strände deutlich weniger voll, und der Hund entgeht der gefährlichen Mittagshitze. Immer frisches Wasser und einen schattigen Platz mitbringen, denn die kretische Sommersonne ist intensiv."
+        }
       ]
     },
     "vets": {
@@ -561,7 +648,10 @@
           "tipEs": "Llama con antelación para confirmar el horario, sobre todo en verano cuando muchas clínicas cretenses ajustan sus horarios en torno al calor del mediodía",
           "tipPt": "Telefone com antecedência para confirmar o horário, sobretudo no verão, quando muitas clínicas cretenses ajustam os horários em torno do calor do meio-dia",
           "googleMapsUrl": "https://maps.google.com/?q=Rethymno+Vet+Clinic+Emmanouil+Portaliou",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Telefonisch Öffnungszeiten und Regelungen außerhalb der Öffnungszeiten erfragen",
+          "descriptionDe": "Eine Kleintierpraxis unter Leitung von Dr. Aliki Chatzidaki im Zentrum von Rethymno, die Routinekonsultationen, Impfungen und Reisegesundheitsanliegen behandelt. Ein praktischer erster Ansprechpartner für Besucherhaustiere, mit englischsprachiger Website. Vorab anrufen, um Öffnungszeiten und Regelungen außerhalb der Öffnungszeiten zu bestätigen.",
+          "tipDe": "Vorab anrufen, um die Öffnungszeiten zu bestätigen, besonders im Sommer, wenn viele kretische Praxen ihre Zeiten um die Mittagshitze anpassen"
         },
         {
           "name": "Vogiatzis S. - Paraschoudi V. Small Animal Clinic",
@@ -583,7 +673,10 @@
           "tipEs": "Útil para vacunaciones o una revisión de salud antes de viajar si continúas a otro país de la UE con tu perro",
           "tipPt": "Útil para vacinações ou um exame de saúde antes de viajar se continuar para outro país da UE com o seu cão",
           "googleMapsUrl": "https://maps.google.com/?q=Vogiatzis+Paraschoudi+Rethymno",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Telefonisch Öffnungszeiten erfragen",
+          "descriptionDe": "Eine Kleintierpraxis in Rethymno unter Leitung der Tierärzte Stylianos Vogiatzis und Viki Paraschoudi, mit allgemeinen Konsultationen, Impfungen und Routineversorgung. Eine zuverlässige Option für nicht dringende Anliegen während eines Aufenthalts. Vorab anrufen, um Öffnungszeiten und Verfügbarkeit zu bestätigen.",
+          "tipDe": "Nützlich für Impfungen oder eine Reisegesundheitskontrolle vor der Weiterreise mit Hund in ein anderes EU-Land"
         },
         {
           "name": "Alexandrakis Konstantinos Small Animal Clinic",
@@ -605,7 +698,10 @@
           "tipEs": "Guarda este número como respaldo. Sin una única clínica 24/7 en la ciudad, tener dos o tres números que probar importa en una emergencia",
           "tipPt": "Guarde este número como reserva. Sem uma única clínica 24/7 na cidade, ter dois ou três números para tentar é importante numa emergência",
           "googleMapsUrl": "https://maps.google.com/?q=Alexandrakis+vet+Rethymno",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Telefonisch Öffnungszeiten erfragen",
+          "descriptionDe": "Eine Kleintierpraxis unter Leitung von Dr. Konstantinos Alexandrakis in der Chortatzi-Straße in Rethymno, mit allgemeinen Konsultationen und Routineversorgung. Eine gute Alternative, falls andere Praxen geschlossen oder ausgebucht sind. Vorab anrufen, um die Verfügbarkeit zu prüfen.",
+          "tipDe": "Diese Nummer als Backup aufbewahren. Da es in der Stadt keine einzelne 24/7-Praxis gibt, ist es im Notfall wichtig, zwei oder drei Nummern zur Hand zu haben"
         }
       ],
       "faqsEn": [
@@ -646,6 +742,18 @@
         {
           "q": "O que preciso para levar o meu cão para Creta?",
           "a": "A partir da UE, o seu cão precisa de passaporte europeu, microchip com norma ISO e vacinação antirrábica administrada pelo menos 21 dias antes da viagem. A Grécia não exige tratamento contra a ténia. Os animais de fora da UE precisam de um certificado sanitário da UE e, de países não listados, de um teste de titulação antirrábica."
+        }
+      ],
+      "titleDe": "Notfalltierärzte in Rethymno, Tierarztpraxen & Haustierbetreuung",
+      "introDe": "Rethymno verfügt über mehrere angesehene Kleintierpraxen im und um das Stadtzentrum, auch wenn keine davon durchgehende 24/7-Versorgung bewirbt. Der übliche Rat lautet daher, zunächst die nächstgelegene Praxis anzurufen und nach den Regelungen außerhalb der Öffnungszeiten zu fragen. Als EU-Insel verlangt Kreta von einreisenden Haustieren einen EU-Heimtierausweis, einen ISO-Mikrochip und eine gültige Tollwutimpfung. Eine Praxisnummer sollte man schon vor der Ankunft im Telefon speichern, denn Hitzschlag ist der häufigste Notfall bei Besucherhunden im Sommer.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Notfalltierarzt in Rethymno?",
+          "a": "In Rethymno wirbt keine Praxis mit durchgehender Rund-um-die-Uhr-Versorgung. Praktisch ist es, die nächstgelegene Praxis (etwa Rethymno Vet Clinic oder Vogiatzis-Paraschoudi) anzurufen und nach den Regelungen außerhalb der Öffnungszeiten zu fragen sowie zwei oder drei Nummern gespeichert zu haben. Für ernste Notfälle außerhalb der Stadtzeiten gibt es größere Kliniken in Chania und Heraklion, beide etwa eine Stunde entfernt."
+        },
+        {
+          "q": "Was brauche ich, um meinen Hund nach Kreta mitzunehmen?",
+          "a": "Aus der EU kommend braucht der Hund einen EU-Heimtierausweis, einen ISO-Standard-Mikrochip und eine Tollwutimpfung, die mindestens 21 Tage vor der Reise verabreicht wurde. Griechenland verlangt keine Bandwurmbehandlung. Haustiere aus Nicht-EU-Ländern benötigen eine EU-Tiergesundheitsbescheinigung und, bei nicht gelisteten Ländern, einen Tollwut-Titertest."
         }
       ]
     },
@@ -755,6 +863,22 @@
           "q": "Os cães são permitidos nos principais locais de Rethymno?",
           "a": "As zonas exteriores como o porto, as vielas da cidade velha, o Jardim Municipal e o caminho do promontório da Fortezza são acessíveis de trela, mas os cães não são permitidos dentro do monumento pago da Fortezza nem nos museus. Planeie as visitas interiores para quando o seu cão puder descansar em segurança no hotel."
         }
+      ],
+      "titleDe": "Hundefreundliche Tipps für Rethymno",
+      "introDe": "Rethymno belohnt Hundebesitzer, die sich am kretischen Sommerklima orientieren. Altstadt, Hafen und Uferpromenade sind zu Fuß einfach und einladend, doch von Juni bis September bestimmt die Hitze den Tagesablauf. Ein paar lokale Regeln und saisonale Gewohnheiten halten den Hund sicher und komfortabel.",
+      "faqsDe": [
+        {
+          "q": "Ist Rethymno gut für Hunde geeignet?",
+          "a": "Ja, mit saisonaler Planung. Die begehbare Altstadt, der Hafen, die Uferpromenade und der schattige Stadtgarten machen sie zu Fuß angenehm, und die Terrassengastronomie ist hundefreundlich. Die größte Herausforderung ist die Sommerhitze, den Tag daher von Juni bis September um frühe Morgen- und Abendstunden herum planen."
+        },
+        {
+          "q": "Was sollte ich für Rethymno mit meinem Hund einpacken?",
+          "a": "EU-Heimtierausweis, Leine, Kotbeutel, eine faltbare Wasserschale und reichlich Wasser mitbringen sowie einen Maulkorb, falls KTEL-Busse oder Fähren genutzt werden sollen. Pfotenschutz und eine Kühlmatte helfen im Sommer. Eine örtliche Tierarztnummer vor der Ankunft speichern."
+        },
+        {
+          "q": "Sind Hunde bei den wichtigsten Sehenswürdigkeiten in Rethymno erlaubt?",
+          "a": "Freiluftbereiche wie Hafen, Altstadtgassen, Stadtgarten und der Landzungenweg der Fortezza sind angeleint problemlos, doch Hunde sind im kostenpflichtigen Denkmal Fortezza oder in Innenmuseen nicht erlaubt. Innenbesuche für Zeiten einplanen, in denen der Hund sicher im Hotel ruhen kann."
+        }
       ]
     },
     "attractions": {
@@ -788,7 +912,11 @@
           "tipFr": "Venez au lever ou au coucher du soleil pour la plus belle lumière et un air plus frais. Le soleil de midi sur le quai dégagé est rude pour les chiens en été",
           "tipEs": "Ve al amanecer o al atardecer para la mejor luz y un aire más fresco. El sol del mediodía en el muelle abierto es duro para los perros en verano",
           "tipPt": "Venha ao nascer ou pôr do sol pela melhor luz e ar mais fresco. O sol do meio-dia no cais aberto é duro para os cães no verão",
-          "googleMapsUrl": "https://maps.google.com/?q=Old+Venetian+Harbour+Rethymno"
+          "googleMapsUrl": "https://maps.google.com/?q=Old+Venetian+Harbour+Rethymno",
+          "descriptionDe": "Der bildschöne alte venezianische Hafen von Rethymno, umringt von Tavernen und gekrönt von seinem Leuchtturm aus dem 19. Jahrhundert im ägyptischen Stil, ist das Herz der Stadt. Die Kaimauer ist mit angeleintem Hund vollständig begehbar, und die umliegenden Terrassen heißen Haustiere willkommen, was ihn zum natürlichen Ausgangspunkt für einen Bummel durch die Altstadt macht.",
+          "dogPolicyDe": "Angeleinte Hunde am Kai und auf den Hafenterrassen willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Bei Sonnenaufgang oder Sonnenuntergang kommen für das beste Licht und kühlere Luft. Die Mittagssonne auf dem offenen Kai ist im Sommer hart für Hunde"
         },
         {
           "name": "Rethymno Old Town",
@@ -811,7 +939,11 @@
           "tipFr": "Explorez les ruelles ombragées autour de la fontaine Rimondi en milieu d'après-midi. Elles restent plus fraîches que le port et le front de mer dégagés",
           "tipEs": "Explora las callejuelas con sombra alrededor de la fuente Rimondi a media tarde. Se mantienen más frescas que el puerto y el paseo marítimo abiertos",
           "tipPt": "Explore as vielas sombreadas em redor da fonte Rimondi a meio da tarde. Mantêm-se mais frescas do que o porto e o passeio marítimo abertos",
-          "googleMapsUrl": "https://maps.google.com/?q=Rethymno+Old+Town"
+          "googleMapsUrl": "https://maps.google.com/?q=Rethymno+Old+Town",
+          "descriptionDe": "Eine der am besten erhaltenen Renaissance-Altstädte Griechenlands, das Zentrum von Rethymno ist ein begehbares Gassengewirr venezianischer und osmanischer Architektur mit dem Rimondi-Brunnen, Minaretten, Bogentüren und Handwerksläden. Angeleinte Hunde sind in den gesamten Fußgängerstraßen willkommen, und die schmalen Gassen bieten in der heißesten Tageszeit willkommenen Schatten.",
+          "dogPolicyDe": "Angeleinte Hunde in der gesamten Fußgänger-Altstadt willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Die schattigen Gassen rund um den Rimondi-Brunnen am frühen Nachmittag erkunden. Sie bleiben kühler als Hafen und Uferpromenade"
         },
         {
           "name": "Fortezza Headland",
@@ -834,7 +966,11 @@
           "tipFr": "Faites le tour des remparts à l'heure dorée pour les plus belles vues sur le port. Emportez de l'eau, la colline exposée a peu d'ombre",
           "tipEs": "Recorre el perímetro a la hora dorada para las mejores vistas del puerto. Lleva agua, la colina expuesta tiene poca sombra",
           "tipPt": "Percorra o perímetro à hora dourada pelas melhores vistas do porto. Leve água, a colina exposta tem pouca sombra",
-          "googleMapsUrl": "https://maps.google.com/?q=Fortezza+Rethymno"
+          "googleMapsUrl": "https://maps.google.com/?q=Fortezza+Rethymno",
+          "descriptionDe": "Die venezianische Fortezza aus dem 16. Jahrhundert beherrscht den felsigen Hügel Paleokastro über der Altstadt. Hunde dürfen die kostenpflichtige Festung nicht betreten, doch die umliegende Landzunge und ihre Randwege sind offen und kostenlos zugänglich, mit weitem Meerblick und einem luftigen, angeleinten Spaziergang, der zu den schönsten in Rethymno zählt.",
+          "dogPolicyDe": "Angeleinte Hunde auf der Landzunge willkommen. Nicht erlaubt im kostenpflichtigen Festungsbereich",
+          "admissionFeeDe": "Kostenlos (Landzunge); Festungseintritt nicht haustierzugänglich",
+          "tipDe": "Den Rundweg zur goldenen Stunde für die besten Ausblicke über den Hafen begehen. Wasser mitbringen, der exponierte Hügel bietet wenig Schatten"
         }
       ],
       "tipsEn": [
@@ -880,6 +1016,14 @@
           "q": "Posso visitar os principais locais de Rethymno com o meu cão?",
           "a": "Os locais ao ar livre, o porto veneziano, as ruas da cidade velha e o promontório da Fortezza, percorrem-se todos de trela e são gratuitos. Os cães não são permitidos dentro do monumento pago da Fortezza nem nos museus, por isso planeie-os à parte."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Rethymno",
+      "introDe": "Der Charme von Rethymno konzentriert sich im Freien, was reisenden Hunden perfekt entgegenkommt. Der venezianische Hafen, das Gassengewirr der Altstadt und die Landzunge der Fortezza lassen sich alle zu Fuß, angeleint und ohne Ticketpflicht für die offenen Bereiche erkunden. Die meisten Innendenkmäler und Museen lassen keine Hunde zu, die Besichtigung daher um die Freiluftbereiche herum planen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich die wichtigsten Sehenswürdigkeiten von Rethymno mit meinem Hund besuchen?",
+          "a": "Die Freiluft-Sehenswürdigkeiten, der venezianische Hafen, die Altstadtstraßen und die Landzunge der Fortezza, sind alle angeleint zu Fuß und kostenlos begehbar. Hunde sind im kostenpflichtigen Denkmal Fortezza oder in Innenmuseen nicht erlaubt, diese also gesondert einplanen."
+        }
       ]
     },
     "petsitting": {
@@ -912,7 +1056,10 @@
           "tip": "Message a few sitters several days ahead in summer. Availability around Rethymno is limited at peak season",
           "tipFr": "Contactez plusieurs sitters quelques jours à l'avance en été. Les disponibilités autour de Rethymno sont limitées en haute saison",
           "tipEs": "Escribe a varios cuidadores con varios días de antelación en verano. La disponibilidad en Rethymno es limitada en temporada alta",
-          "tipPt": "Contacte vários cuidadores com alguns dias de antecedência no verão. A disponibilidade em Rethymno é limitada na época alta"
+          "tipPt": "Contacte vários cuidadores com alguns dias de antecedência no verão. A disponibilidade em Rethymno é limitada na época alta",
+          "descriptionDe": "Pawshake ist eine internationale Haustierbetreuungsplattform, die in ganz Griechenland aktiv ist, einschließlich Kreta, und Reisende mit lokalen Betreuern, Gassigehern und Tagespensionen verbindet. Betreuer werden bewertet, und die Plattform beinhaltet eine Buchungsversicherung, was sie zu einer praktischen Möglichkeit macht, kurzfristige Betreuung zu organisieren, während man eine für Hunde nicht zugängliche Sehenswürdigkeit besucht.",
+          "serviceTypeDe": "Online-Buchung. Betreuung, Gassi-Service, Tagesbetreuung, Pension",
+          "tipDe": "Im Sommer mehrere Betreuer einige Tage im Voraus anschreiben. Die Verfügbarkeit rund um Rethymno ist zur Hochsaison begrenzt"
         },
         {
           "name": "Rover",
@@ -934,7 +1081,10 @@
           "tip": "Confirm the sitter's exact location. Coverage is thinner on Crete than in big cities, so a nearby match may be a short drive away",
           "tipFr": "Confirmez la localisation exacte du sitter. La couverture est plus faible en Crète que dans les grandes villes, un sitter proche peut donc être à un court trajet en voiture",
           "tipEs": "Confirma la ubicación exacta del cuidador. La cobertura es menor en Creta que en las grandes ciudades, así que una coincidencia cercana puede estar a un corto trayecto en coche",
-          "tipPt": "Confirme a localização exata do cuidador. A cobertura é mais fraca em Creta do que nas grandes cidades, por isso um cuidador próximo pode estar a uma curta viagem de carro"
+          "tipPt": "Confirme a localização exata do cuidador. A cobertura é mais fraca em Creta do que nas grandes cidades, por isso um cuidador próximo pode estar a uma curta viagem de carro",
+          "descriptionDe": "Rover ist eine große internationale Plattform für Hundebetreuung, Pension und Gassi-Service mit gelisteten Betreuern in vielen griechischen Reisezielen. Für Reisende ist sie eine praktische Möglichkeit, geprüfte lokale Betreuer für ein paar Stunden oder einen ganzen Tag zu finden, mit In-App-Nachrichten, um zu bestätigen, dass ein Betreuer mit Größe und Bedürfnissen des eigenen Hundes zurechtkommt.",
+          "serviceTypeDe": "App-basierte Buchung. Betreuung, Gassi-Service, Pension",
+          "tipDe": "Den genauen Standort des Betreuers bestätigen. Die Abdeckung ist auf Kreta dünner als in Großstädten, ein passender Betreuer kann daher eine kurze Autofahrt entfernt sein"
         }
       ],
       "tipsEn": [
@@ -980,6 +1130,15 @@
           "q": "Quanto custa o pet sitting em Rethymno?",
           "a": "Os preços variam consoante o cuidador e o serviço, mas conte com cerca de 15 a 35 EUR por dia para creche ou acompanhamento ao domicílio através de plataformas internacionais como a Pawshake e a Rover. Confirme sempre o valor e a localização do cuidador diretamente na aplicação antes de reservar."
         }
+      ],
+      "titleDe": "Hundebetreuer & Haustierbetreuung in Rethymno",
+      "introDe": "Auf Kreta gibt es Momente, in denen der Hund nicht mitkommen kann, etwa bei einem Innenmuseum, einem Bootsausflug oder in den heißesten Stunden eines Sommernachmittags. Internationale Buchungsplattformen listen verifizierte Betreuer und Gassigeher rund um Rethymno, und in der geschäftigen Sommersaison lohnt sich eine frühzeitige Buchung.",
+      "faqsDe": [
+        {
+          "q": "Was kostet Hundebetreuung in Rethymno?",
+          "a": "Die Preise variieren je nach Betreuer und Leistung, aber über internationale Plattformen wie Pawshake und Rover sind etwa 15-35 EUR pro Tag für Tagesbetreuung oder Betreuung zu Hause zu erwarten. Immer den Preis und den Standort des Betreuers direkt in der App vor der Buchung bestätigen."
+        }
       ]
     }
-  }}
+  }
+}

@@ -1,4 +1,10 @@
-{"slug":"paros","name":"Paros","country":"Greece","flag":"🇬🇷","lastUpdated":"2026-06-19","guides":{
+{
+  "slug": "paros",
+  "name": "Paros",
+  "country": "Greece",
+  "flag": "🇬🇷",
+  "lastUpdated": "2026-06-19",
+  "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Paros",
       "titleFr": "Restaurants acceptant les animaux à Paros",
@@ -33,7 +39,11 @@
           "tipFr": "Demandez une table ombragée à l'écart du soleil de midi et réclamez une gamelle d'eau. Le personnel a l'habitude des chiens",
           "tipEs": "Pide una mesa sombreada lejos del sol del mediodía y solicita un cuenco de agua. El personal está acostumbrado a los perros",
           "tipPt": "Peça uma mesa sombreada longe do sol do meio-dia e peça uma taça de água. O pessoal está habituado a cães",
-          "googleMapsUrl": "https://maps.google.com/?q=Mana+Mana+Parikia+Paros"
+          "googleMapsUrl": "https://maps.google.com/?q=Mana+Mana+Parikia+Paros",
+          "descriptionDe": "Ein entspannter Ganztagesort mitten in den schattigen Gassen der Altstadt von Parikia, der griechische kleine Gerichte und Brunch unter Bäumen serviert, die die Terrasse kühl halten. Hunde sind an den Außentischen willkommen, und die grüne Umgebung macht ihn auch im Hochsommer zu einer angenehmen Wahl.",
+          "petPolicyDe": "Hunde an den Außentischen willkommen",
+          "mustTryDe": "Griechische kleine Gerichte, frische Brunch-Speisen",
+          "tipDe": "Nach einem schattigen Tisch abseits der Mittagssonne fragen und eine Wasserschale erbitten. Das Personal ist an Hunde gewöhnt"
         },
         {
           "name": "Glafkos",
@@ -59,7 +69,11 @@
           "tipFr": "Venez au coucher du soleil pour la plus belle ambiance portuaire. Le quai capte la brise du soir, bien plus frais que les tables à l'intérieur",
           "tipEs": "Ve al atardecer para el mejor ambiente portuario. El muelle recibe la brisa de la tarde, mucho más fresco que las mesas interiores",
           "tipPt": "Vá ao pôr do sol para o melhor ambiente do porto. O cais apanha a brisa da noite, muito mais fresco do que as mesas no interior",
-          "googleMapsUrl": "https://maps.google.com/?q=Glafkos+Taverna+Naoussa+Paros"
+          "googleMapsUrl": "https://maps.google.com/?q=Glafkos+Taverna+Naoussa+Paros",
+          "descriptionDe": "Eine seit langem bestehende Strandtaverne direkt an der Uferpromenade von Naoussa, die frischen Fisch und klassische griechische Vorspeisen serviert, während die Fischerboote nur wenige Meter entfernt schaukeln. Die Tische stehen am offenen Kai, sodass sich ein angeleinter Hund mit Meeresbrise und leichter Wassernachfüllung neben Sie setzen kann.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse am Kai willkommen",
+          "mustTryDe": "Gegrillter Fisch des Tages, griechischer Salat, frittierte Calamari",
+          "tipDe": "Zum Sonnenuntergang kommen für die beste Hafenatmosphäre. Der Kai fängt die Abendbrise ein, viel kühler als die Tische im Inneren"
         },
         {
           "name": "Siparos Seaside Restaurant",
@@ -85,7 +99,11 @@
           "tipFr": "Réservez une table au coucher du soleil à l'avance en juillet et août. C'est l'une des adresses de bord de mer les plus demandées près de Naoussa",
           "tipEs": "Reserva una mesa al atardecer con antelación en julio y agosto. Es uno de los locales junto al mar más solicitados cerca de Naoussa",
           "tipPt": "Reserve uma mesa ao pôr do sol com antecedência em julho e agosto. É um dos locais à beira-mar mais procurados perto de Naoussa",
-          "googleMapsUrl": "https://maps.google.com/?q=Siparos+Seaside+Restaurant+Paros"
+          "googleMapsUrl": "https://maps.google.com/?q=Siparos+Seaside+Restaurant+Paros",
+          "descriptionDe": "Ein erhöhtes Freiluftrestaurant direkt außerhalb von Naoussa, auf einer Terrasse hoch über dem Wasser mit weitem Blick auf die Ägäis und raffinierter griechischer Küche. Der gesamte Essbereich liegt im Freien, sodass ein ruhiger angeleinter Hund Sie zu einem langen, luftigen Essen abseits des geschäftigen Dorfzentrums begleiten kann.",
+          "petPolicyDe": "Ruhige angeleinte Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Frische Meeresfrüchte, raffinierte griechische Verkostungsgerichte",
+          "tipDe": "Im Juli und August einen Sonnenuntergangstisch im Voraus reservieren. Es ist einer der gefragtesten Strandorte nahe Naoussa"
         }
       ],
       "tipsEn": [
@@ -163,6 +181,22 @@
           "q": "Que vilas são as melhores para comer fora com um cão em Paros?",
           "a": "Naoussa e Parikia têm a maior concentração de tabernas exteriores pet-friendly, sobretudo junto à água. A vila de montanha de Lefkes também é agradável e mais fresca à noite."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Paros",
+      "introDe": "Paros gehört zu den unkompliziertesten griechischen Inseln, um mit Hund essen zu gehen, denn fast überall wird im Freien serviert, auf Terrassen, an Hafenkais und in schattigen Gassen, wo ein wohlerzogener angeleinter Hund standardmäßig willkommen ist. Der Fischereihafen von Naoussa und die Uferpromenade von Parikia sind voller Tavernen, die gerne eine Wasserschale bringen, besonders außerhalb der glühend heißen Mittagsstunden eines Sommers in den Kykladen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Paros erlaubt?",
+          "a": "Auf Außenterrassen und Hafenkais ja, fast durchweg. Das Essen in Paros findet überwiegend im Freien statt, und ein wohlerzogener angeleinter Hund ist in den meisten Tavernen in Parikia und Naoussa standardmäßig willkommen. Klimatisierte Innenräume nehmen seltener Hunde auf, also vorher fragen."
+        },
+        {
+          "q": "Bekommt mein Hund in den Tavernen von Paros Wasser?",
+          "a": "Die meisten füllen auf Nachfrage gerne eine Schale nach, aber nur wenige halten eine bereit, also eine faltbare Schale mitbringen. Bei der Sommerhitze häufig nachfüllen, besonders auf unbeschatteten Terrassen am Kai."
+        },
+        {
+          "q": "Welche Orte eignen sich am besten zum Essengehen mit Hund in Paros?",
+          "a": "Naoussa und Parikia haben die dichteste Ansammlung hundefreundlicher Tavernen im Freien, meist am Wasser. Das Bergdorf Lefkes ist ebenfalls angenehm und abends kühler."
+        }
       ]
     },
     "parks": {
@@ -193,7 +227,10 @@
           "tipFr": "Partez aux premières lueurs en juillet et août. Le pavage de marbre et les sections exposées chauffent vite, et il y a peu d'eau sur le parcours, alors emportez-en beaucoup",
           "tipEs": "Empieza al amanecer en julio y agosto. El empedrado de mármol y los tramos expuestos se calientan rápido, y hay poca agua en la ruta, así que lleva bastante",
           "tipPt": "Comece ao nascer do dia em julho e agosto. O calcetamento de mármore e os trechos expostos aquecem depressa, e há pouca água no percurso, por isso leve bastante",
-          "googleMapsUrl": "https://maps.google.com/?q=Byzantine+Trail+Lefkes+Paros"
+          "googleMapsUrl": "https://maps.google.com/?q=Byzantine+Trail+Lefkes+Paros",
+          "descriptionDe": "Ein rund 6 km langer Hin- und Rückweg aus Stein, der sich durch das grüne Inselinnere vom Bergdorf Lefkes hinunter nach Prodromos schlängelt und einer alten, marmorgepflasterten Route folgt, die einst von Maultieren und Pilgern genutzt wurde. Es ist der charakteristische Hundespaziergang der Insel, mit wenig Verkehr, terrassierten Feldern und stellenweise Schatten, am besten früh morgens oder spät nachmittags im Sommer.",
+          "offLeashAreaDe": "Keine ausgewiesene Freilauffläche. Hunde in der Nähe von weidendem Vieh und Dörfern anleinen",
+          "tipDe": "Im Juli und August bei den ersten Lichtstrahlen starten. Der Marmorbelag und die exponierten Abschnitte heizen sich schnell auf, und es gibt wenig Wasser auf der Strecke, also reichlich mitnehmen"
         },
         {
           "name": "Lefkes Village Lanes",
@@ -213,7 +250,10 @@
           "tipFr": "Combinez avec le chemin byzantin, qui part de la lisière de Lefkes. Le soir est le moment le plus frais et le plus charmant pour marcher",
           "tipEs": "Combínalo con el sendero bizantino, que empieza al borde de Lefkes. La tarde es el momento más fresco y con más ambiente para caminar",
           "tipPt": "Combine com o trilho bizantino, que começa à beira de Lefkes. A noite é a altura mais fresca e com mais ambiente para caminhar",
-          "googleMapsUrl": "https://maps.google.com/?q=Lefkes+Paros"
+          "googleMapsUrl": "https://maps.google.com/?q=Lefkes+Paros",
+          "descriptionDe": "Die weiß getünchten Gassen von Lefkes erklimmen das grünste, höchstgelegene Dorf der Insel, wo die Luft merklich kühler bleibt als an der Küste und die schmalen Stufengassen fast völlig autofrei sind. Das ergibt einen leichten, schattigen Spaziergang für einen angeleinten Hund, mit Tavernen und einem zentralen Platz, an dem man für Wasser Rast machen kann.",
+          "offLeashAreaDe": "Dorfstraßen, nur angeleint",
+          "tipDe": "Mit dem byzantinischen Pfad kombinieren, der am Rand von Lefkes beginnt. Der Abend ist die kühlste und stimmungsvollste Zeit für den Spaziergang"
         },
         {
           "name": "Parikia Seafront Promenade",
@@ -233,7 +273,10 @@
           "tipFr": "Parcourez-la juste après le lever du soleil ou après 19h. À midi le pavage est brûlant et la promenade est encombrée par le trafic du port",
           "tipEs": "Recórrelo justo después del amanecer o después de las 19:00. Al mediodía el pavimento está caliente y el paseo está lleno de tráfico portuario",
           "tipPt": "Percorra-a logo após o nascer do sol ou depois das 19:00. Ao meio-dia o calcetamento está quente e o passeio está cheio de tráfego do porto",
-          "googleMapsUrl": "https://maps.google.com/?q=Parikia+seafront+Paros"
+          "googleMapsUrl": "https://maps.google.com/?q=Parikia+seafront+Paros",
+          "descriptionDe": "Die gepflasterte Uferpromenade, die vom Hafen von Parikia entlang der Bucht verläuft, bietet einen flachen, offenen Spaziergang mit Meeresbrise und leichtem Zugang zum Wasser, beliebt bei Einheimischen, die morgens und abends in der Kühle ihre Hunde ausführen. Sie verbindet Hafen, Windmühle und Stadtstrände in einem einzigen sanften Abschnitt.",
+          "offLeashAreaDe": "Promenade, nur angeleint",
+          "tipDe": "Direkt nach Sonnenaufgang oder nach 19:00 Uhr gehen. Mittags ist der Belag heiß und die Promenade voller Hafenverkehr"
         }
       ],
       "tipsEn": [
@@ -310,6 +353,22 @@
         {
           "q": "Os cães podem passear pela marginal de Parikia?",
           "a": "Sim, com trela. A marginal de Parikia é um passeio plano e ventilado, popular entre os donos de cães locais ao amanhecer e ao anoitecer. Evite o meio-dia, quando o calcetamento está quente e a zona do porto está movimentada."
+        }
+      ],
+      "titleDe": "Hundespaziergänge & Grünflächen in Paros",
+      "introDe": "Paros hat keine großen Stadtparks im nordeuropäischen Sinne, bietet aber für Hunde etwas Besseres: alte Steinpfade, ruhige Bergdörfer und lange Küstenabschnitte mit viel Auslauf. Der klassische Ausflug ist der byzantinische gepflasterte Pfad von Lefkes nach Prodromos, begehbar in den kühleren Stunden eines Sommers in den Kykladen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Freilaufflächen für Hunde in Paros?",
+          "a": "Nein. Paros hat keine eingezäunten Freilaufflächen für Hunde. Die Optionen im Freien sind die Wanderwege und Küstenabschnitte der Insel, auf denen Hunde unter enger Stimmkontrolle oder an der Leine bleiben sollten, besonders in der Nähe von weidendem Vieh und Dörfern."
+        },
+        {
+          "q": "Was ist der beste Hundespaziergang in Paros?",
+          "a": "Der byzantinische gepflasterte Pfad von Lefkes nach Prodromos ist der Klassiker, eine rund 6 km lange Route durch das grüne Inselinnere. Im Sommer früh morgens oder spät nachmittags gehen, da es wenig Schatten und kaum Wasser entlang der Strecke gibt."
+        },
+        {
+          "q": "Können Hunde an der Uferpromenade von Parikia spazieren gehen?",
+          "a": "Ja, an der Leine. Die Uferpromenade von Parikia ist ein flacher, luftiger Spaziergang, bei lokalen Hundehaltern bei Sonnenaufgang und -untergang beliebt. Mittags meiden, wenn der Belag heiß und der Hafenbereich belebt ist."
         }
       ]
     },
@@ -447,6 +506,22 @@
           "q": "Posso levar o meu cão no autocarro KTEL em Paros?",
           "a": "Só cães pequenos até 10 kg numa caixa de transporte segura, ao critério do condutor e com um máximo de dois animais por autocarro, e o boletim sanitário tem de estar carimbado no último ano. Os cães médios e grandes não são aceites, por isso alugue um carro ou combine um táxi pet-friendly."
         }
+      ],
+      "titleDe": "Mit Haustieren unterwegs in Paros",
+      "introDe": "An- und Herumreisen auf Paros mit Hund läuft auf zwei Dinge hinaus: die Fährüberfahrt und die KTEL-Busse der Insel. Fähren von Piräus und anderen Kykladeninseln nehmen Haustiere mit, doch Hunde müssen auf den offenen Decks Maulkorb und Leine tragen und in dafür vorgesehenen Tierkabinen oder Boxen statt in den Lounges reisen, während die lokalen Busse nur kleine, transportboxentaugliche Hunde nach Ermessen des Fahrers mitnehmen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit auf die Fähre nach Paros nehmen?",
+          "a": "Ja. Blue Star Ferries und SeaJets befördern beide Haustiere zwischen Piräus oder anderen Kykladeninseln und Paros. Hunde dürfen nicht in Standardkabinen oder Innenlounges bleiben, also bei der Buchung eine dafür vorgesehene Tierkabine oder einen Boxenplatz reservieren und ein aktuelles Gesundheitsheft mitbringen. Auf den offenen Decks sind Maulkorb und Leine vorgeschrieben."
+        },
+        {
+          "q": "Brauchen Hunde auf griechischen Fähren einen Maulkorb?",
+          "a": "Auf den offenen Decks von Blue Star Ferries und SeaJets ja, Hunde müssen einen Maulkorb tragen und an der Leine sein, begleitet von ihrem Besitzer. Den Maulkorb griffbereit in der Tasche mitführen, für das Einschiffen und Deckspaziergänge."
+        },
+        {
+          "q": "Kann ich meinen Hund im KTEL-Bus in Paros mitnehmen?",
+          "a": "Nur kleine Hunde bis 10 kg in einer sicheren Transportbox, nach Ermessen des Fahrers und mit maximal zwei Haustieren pro Bus, und das Gesundheitsheft muss innerhalb des letzten Jahres abgestempelt worden sein. Mittelgroße und große Hunde werden nicht akzeptiert, also stattdessen einen Mietwagen nehmen oder ein haustierfreundliches Taxi organisieren."
+        }
       ]
     },
     "beaches": {
@@ -529,6 +604,18 @@
           "q": "Há risco de calor para os cães nas praias de Paros no verão?",
           "a": "Sim. Em julho e agosto a areia e a rocha aquecem o suficiente para queimar as patas a meio da manhã, e a sombra é escassa. Passeie e nade ao amanhecer ou à noite, leve água, e teste a areia com a mão antes de deixar o seu cão atravessá-la."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Paros",
+      "introDe": "Paros geht erfreulich entspannt mit Hunden am Strand um, und außerhalb der belebtesten organisierten Abschnitte sind die Regeln informell: eine ruhige Bucht wählen, und der Hund ist meist willkommen. Der Kompromiss ist die Sommerhitze, also früh morgens oder abends planen, dicht bewegte Liegenbereiche meiden, und bedenken, dass organisierte Strände mit Bars Hunde in Stoßzeiten oft nicht gern sehen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde an den Stränden von Paros erlaubt?",
+          "a": "An vielen Stränden ja, die Regeln sind informell, und außerhalb der belebten organisierten Abschnitte ist ein Hund meist willkommen. Kolymbithres, Santa Maria und die ruhigeren südlichen Buchten rund um Aliki sind gute Wahlmöglichkeiten. Die dicht bewegten Liegestuhl- und Strandbar-Zonen in Stoßzeiten meiden, und im Sommer früh oder spät gehen, um dem Hund heißen Sand zu ersparen."
+        },
+        {
+          "q": "Besteht im Sommer Hitzegefahr für Hunde an den Stränden von Paros?",
+          "a": "Ja. Im Juli und August werden Sand und Fels bis zum späten Vormittag heiß genug, um Pfoten zu verbrennen, und Schatten ist rar. Bei Sonnenaufgang oder abends spazieren gehen und schwimmen, Wasser mitführen und den Sand vor dem Überqueren mit der Hand testen."
+        }
       ]
     },
     "vets": {
@@ -575,7 +662,10 @@
           "tipEs": "Guarda el +30 6939 665857 antes de viajar y llama con antelación. Al ser una consulta insular con un solo veterinario, no siempre puede atender urgencias sin cita, así que llamar primero es esencial",
           "tipPt": "Guarde o +30 6939 665857 antes de viajar e ligue com antecedência. Por ser uma clínica de ilha com um só veterinário, nem sempre consegue receber urgências sem marcação, por isso ligar primeiro é essencial",
           "googleMapsUrl": "https://maps.google.com/?q=FEP+Veterinary+Center+Naoussa+Paros",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Tagesklinik; Notfälle außerhalb der Öffnungszeiten per Mobiltelefon",
+          "descriptionDe": "Eine angesehene Tierklinik in Naoussa, gegründet 2017 und geführt von Dr. Kostis Kossenas, mit Allgemeinpraxis, Impfungen und Reisedokumentation. Sie veröffentlicht eine Notfall-Mobilnummer, die der praktische erste Anruf ist, falls der Hund außerhalb der normalen Zeiten auf der Nordseite der Insel Hilfe braucht.",
+          "tipDe": "Vor der Reise +30 6939 665857 speichern und vorher anrufen. Als Einzelarztpraxis auf einer Insel kann sie nicht immer spontane Notfälle annehmen, daher ist ein vorheriger Anruf unerlässlich"
         },
         {
           "name": "Veterinary Corner (Ktiniatriki Gonia)",
@@ -597,7 +687,10 @@
           "tipEs": "Útil para necesidades rutinarias y trámites de viaje cerca del puerto. Llama para confirmar el horario, que se divide en sesiones de mañana y tarde algunos días de la semana",
           "tipPt": "Útil para necessidades de rotina e papelada de viagem perto do porto. Ligue para confirmar o horário, que se divide em sessões de manhã e de tarde em alguns dias de semana",
           "googleMapsUrl": "https://maps.google.com/?q=Veterinary+Corner+Parikia+Paros",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo & Mi 09:00-16:00; Di, Do, Fr 09:00-15:00 & 18:00-20:30; Sa 09:00-15:00",
+          "descriptionDe": "Eine allgemeine Tierarztpraxis im Gebiet von Parikia, günstig gelegen für Reisende in der Nähe des Haupthafens und der Stadt. Sie betreibt zudem ein kostenloses Notfallprogramm für streunende Katzen in Zusammenarbeit mit der Gemeinde Paros und ist damit gut in das Tierbetreuungsnetzwerk der Insel eingebunden.",
+          "tipDe": "Nützlich für Routineanliegen und Reisepapiere nahe dem Hafen. Öffnungszeiten telefonisch bestätigen, sie teilen sich an manchen Wochentagen in Vormittags- und Abendtermine"
         },
         {
           "name": "Veterinary Center of Paros",
@@ -619,7 +712,10 @@
           "tipEs": "Su ubicación entre los dos pueblos la hace práctica si recorres la isla. Llama con antelación, ya que la capacidad para urgencias no programadas varía",
           "tipPt": "A sua posição entre as duas vilas torna-a prática se estiver a percorrer a ilha. Ligue com antecedência, pois a capacidade para urgências não agendadas varia",
           "googleMapsUrl": "https://maps.google.com/?q=Veterinary+Center+Paros",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Tagesklinik; Notfälle je nach Kapazität angenommen",
+          "descriptionDe": "Eine allgemeine Tierklinik an der Hauptstraße zwischen Parikia und Naoussa, geführt von Dr. Loukas Theofanopoulos und Dr. Eleni Rousohadjaki, zentral zwischen beiden Hauptorten gelegen. Sie nimmt Notfälle je nach Kapazität an und ist damit eine nützliche Rückfalloption neben den Praxen in Naoussa und Parikia.",
+          "tipDe": "Die Lage zwischen den beiden Orten macht sie praktisch, wenn man die Insel erkundet. Vorher anrufen, da die Kapazität für ungeplante Notfälle schwankt"
         }
       ],
       "faqsEn": [
@@ -660,6 +756,18 @@
         {
           "q": "Preciso de um passaporte de animal para trazer o meu cão a Paros?",
           "a": "Sim, para animais registados na UE: um passaporte europeu válido, um microchip ISO e uma vacinação antirrábica dada pelo menos 21 dias antes da viagem. A Grécia não exige tratamento contra a ténia. Os animais de fora da UE precisam de um certificado sanitário europeu ou de país terceiro e, por vezes, de um teste de titulação antirrábica consoante a origem."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Paros, Tierkliniken & Haustierbetreuung",
+      "introDe": "Paros verfügt über mehrere gute Tagespraxen in Parikia und Naoussa, hat aber wie die meisten kykladischen Inseln keine eigene 24-Stunden-Tierklinik. Bei einem ernsten Notfall außerhalb der Öffnungszeiten ruft man zunächst das Mobiltelefon des Tierarztes an, und für fortgeschrittene oder nächtliche Facharztversorgung sind das nahe Naxos oder ein Flug bzw. eine Fähre zu einer 24-Stunden-Klinik in Athen die realistischen Optionen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt in Paros?",
+          "a": "Nein. Wie die meisten kykladischen Inseln hat Paros Tagespraxen in Parikia und Naoussa, aber keine eigene 24-Stunden-Tierklinik. Die Mobilnummer des Tierarztes bei Ankunft speichern und im Notfall vorher anrufen. Für fortgeschrittene nächtliche Versorgung oder Facharztbehandlung sind das nahe Naxos oder eine 24-Stunden-Klinik in Athen die realistischen Optionen."
+        },
+        {
+          "q": "Brauche ich einen Heimtierausweis, um meinen Hund nach Paros zu bringen?",
+          "a": "Ja, für EU-registrierte Haustiere: einen gültigen EU-Heimtierausweis, einen ISO-Mikrochip und eine Tollwutimpfung, die mindestens 21 Tage vor der Reise verabreicht wurde. Griechenland verlangt keine Bandwurmbehandlung. Haustiere aus Nicht-EU-Ländern benötigen ein EU- oder Drittland-Gesundheitszeugnis und je nach Herkunft eventuell einen Tollwut-Titertest."
         }
       ]
     },
@@ -790,6 +898,22 @@
           "q": "Qual é a melhor altura para visitar Paros com um cão?",
           "a": "O fim da primavera (maio-junho) e o início do outono (setembro-outubro) são ideais: mar quente, sol mais suave, praias mais tranquilas e ferries menos cheios. Julho e agosto só são viáveis com rotinas rígidas de manhã cedo e ao fim do dia por causa do calor."
         }
+      ],
+      "titleDe": "Hundefreundliche Tipps für Paros",
+      "introDe": "Paros ist eine unkomplizierte Insel für einen Hund, mit Essen im Freien, entspannten Stränden und sanften Dorfspaziergängen, solange man die Sommerhitze der Kykladen und die Fähre, die einen hergebracht hat, einplant. Ein paar lokale Gewohnheiten machen die Reise angenehmer.",
+      "faqsDe": [
+        {
+          "q": "Ist Paros gut für Hunde?",
+          "a": "Ja, mit Planung. Es wird im Freien und hundefreundlich gegessen, Strände sind entspannt gegenüber Haustieren, und die Dorf- und Wanderwege sind wunderschön. Die Hauptbeschränkungen sind die Sommerhitze der Kykladen, die Maulkorb- und Kabinenregeln der Fähre sowie der nur kleine Hunde erlaubende KTEL-Bus, weshalb die meisten Besucher mit mittelgroßem oder großem Hund einen Mietwagen nehmen."
+        },
+        {
+          "q": "Was sollte ich für Paros mit Hund einpacken?",
+          "a": "Den EU-Heimtierausweis mitbringen, einen Maulkorb für die Fährdecks, eine faltbare Wasserschale und einen Sonnen-und-Pfoten-Plan: Spaziergänge bei Sonnenaufgang und -untergang und bei jedem Ausflug Wasser. Ein Autositzbezug ist nützlich für sandige Fahrten nach dem Strand im Mietwagen oder Taxi."
+        },
+        {
+          "q": "Wann ist die beste Zeit, um Paros mit Hund zu besuchen?",
+          "a": "Spätfrühling (Mai-Juni) und Frühherbst (September-Oktober) sind ideal: warmes Meer, mildere Sonne, ruhigere Strände und weniger überfüllte Fähren. Juli und August sind nur mit strikten Routinen früh morgens und abends wegen der Hitze machbar."
+        }
       ]
     },
     "attractions": {
@@ -823,7 +947,11 @@
           "tipFr": "Visitez tôt le matin quand la cour est fraîche et calme, puis enchaînez avec la vieille ville de Parikia et les ruines de son château vénitien tout proche",
           "tipEs": "Visita a primera hora cuando el patio está fresco y tranquilo, luego entra en el casco antiguo de Parikia y las ruinas de su castillo veneciano cercano",
           "tipPt": "Visite de manhã cedo quando o pátio está fresco e calmo, depois entre na cidade velha de Parikia e nas ruínas do seu castelo veneziano ali perto",
-          "googleMapsUrl": "https://maps.google.com/?q=Panagia+Ekatontapiliani+Parikia+Paros"
+          "googleMapsUrl": "https://maps.google.com/?q=Panagia+Ekatontapiliani+Parikia+Paros",
+          "descriptionDe": "Die Kirche der 100 Türen in Parikia ist eines der bedeutendsten byzantinischen Baudenkmäler Griechenlands, gelegen in einem ruhigen, ummauerten Innenhof, den man mit angeleintem Hund durchstreifen kann. Das Innere mit seinem frühchristlichen Baptisterium ist für Haustiere tabu, doch das Gelände und die umliegenden Altstadtgassen ergeben einen schönen, ruhigen Spaziergang.",
+          "dogPolicyDe": "Hunde an der Leine im Innenhof und auf dem Gelände willkommen. Nicht im Kircheninneren",
+          "admissionFeeDe": "Kostenlos (Innenhof)",
+          "tipDe": "Früh morgens besuchen, wenn der Innenhof kühl und ruhig ist, dann in die Altstadt von Parikia und zu den nahegelegenen venezianischen Burgruinen spazieren"
         },
         {
           "name": "Naoussa Fishing Harbour",
@@ -846,7 +974,11 @@
           "tipFr": "Venez à l'heure dorée pour la lumière de carte postale sur les bateaux, puis dînez dans l'une des tavernes dog-friendly du quai",
           "tipEs": "Ven a la hora dorada para la luz de postal sobre las barcas, luego cena en una de las tabernas pet-friendly del muelle",
           "tipPt": "Venha à hora dourada para a luz de postal sobre os barcos, depois jante numa das tabernas dog-friendly do cais",
-          "googleMapsUrl": "https://maps.google.com/?q=Naoussa+harbour+Paros"
+          "googleMapsUrl": "https://maps.google.com/?q=Naoussa+harbour+Paros",
+          "descriptionDe": "Ein typisch kykladischer Hafen, gesäumt von Fischerbooten, Tavernen und einer kleinen Festung aus venezianischer Zeit am Wasser, alles zu Fuß mit dem Hund an der Seite zu erkunden. Die Uferpromenade und das Labyrinth weiß getünchter Gassen dahinter sind der stimmungsvollste Abendspaziergang der Insel.",
+          "dogPolicyDe": "Hunde an der Leine entlang des Hafens und der Gassen willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Zur goldenen Stunde kommen für das Postkartenlicht auf den Booten, dann in einer der hundefreundlichen Tavernen am Kai speisen"
         },
         {
           "name": "Lefkes Village",
@@ -869,7 +1001,11 @@
           "tipFr": "Allez-y en fin d'après-midi quand il fait plus frais, prenez un verre sur la place, puis parcourez une partie du chemin byzantin avant le coucher du soleil",
           "tipEs": "Ve al final de la tarde cuando hace más fresco, toma algo en la plaza, luego camina parte del sendero bizantino antes del atardecer",
           "tipPt": "Vá ao fim da tarde quando está mais fresco, tome uma bebida na praça, depois caminhe parte do trilho bizantino antes do pôr do sol",
-          "googleMapsUrl": "https://maps.google.com/?q=Lefkes+Paros"
+          "googleMapsUrl": "https://maps.google.com/?q=Lefkes+Paros",
+          "descriptionDe": "Das hübscheste Inlandsdorf der Insel, ein Ensemble weiß getünchter Häuser und ein marmorgepflasterter Platz hoch in den Bergen, wo die Luft kühler und die Straßen fast autofrei sind. Ein leichter, schattiger angeleinter Spaziergang und der Ausgangspunkt des historischen byzantinischen Pfades hinunter nach Prodromos.",
+          "dogPolicyDe": "Hunde an der Leine in den gesamten Dorfstraßen willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Am späten Nachmittag kommen, wenn es kühler ist, auf dem Platz etwas trinken, dann vor Sonnenuntergang einen Teil des byzantinischen Pfades gehen"
         }
       ],
       "tipsEn": [
@@ -915,6 +1051,14 @@
           "q": "Posso visitar os locais de Paros com o meu cão?",
           "a": "A maioria dos atrativos da ilha é ao ar livre e fácil de aproveitar com um cão com trela: o pátio de Panagia Ekatontapiliani, o porto de pesca de Naoussa, a cidade velha de Parikia e a vila de montanha de Lefkes. Os cães não são permitidos dentro das igrejas ou museus, por isso planeie as visitas interiores para quando o seu cão puder descansar no hotel."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Paros",
+      "introDe": "Paros trägt seine Geschichte im Freien, was perfekt zu einem Hund passt: ein byzantinischer Kirchhof, ein venezianisch angehauchter Fischereihafen und ein weiß getünchtes Bergdorf lassen sich alle zu Fuß erkunden. Die meisten Sehenswürdigkeiten sind im Freien und an der Leine begehbar, allerdings sind Hunde nicht in den Kirchen und Museen selbst erlaubt.",
+      "faqsDe": [
+        {
+          "q": "Kann ich die Sehenswürdigkeiten von Paros mit meinem Hund besuchen?",
+          "a": "Die meisten Attraktionen der Insel liegen im Freien und lassen sich mit angeleintem Hund leicht genießen: der Innenhof der Panagia Ekatontapiliani, der Fischereihafen von Naoussa, die Altstadt von Parikia und das Bergdorf Lefkes. Hunde sind nicht in den Kirchen oder Museen erlaubt, also Innenbesuche für Zeiten planen, in denen der Hund im Hotel ruhen kann."
+        }
       ]
     },
     "petsitting": {
@@ -946,7 +1090,10 @@
           "tip": "On a small island, book at least a week ahead in summer. Last-minute sitter availability on Paros can be very limited",
           "tipFr": "Sur une petite île, réservez au moins une semaine à l'avance en été. La disponibilité de dernière minute des sitters à Paros peut être très limitée",
           "tipEs": "En una isla pequeña, reserva con al menos una semana de antelación en verano. La disponibilidad de cuidadores de última hora en Paros puede ser muy limitada",
-          "tipPt": "Numa ilha pequena, reserve com pelo menos uma semana de antecedência no verão. A disponibilidade de cuidadores de última hora em Paros pode ser muito limitada"
+          "tipPt": "Numa ilha pequena, reserve com pelo menos uma semana de antecedência no verão. A disponibilidade de cuidadores de última hora em Paros pode ser muito limitada",
+          "descriptionDe": "Pawshake ist eine internationale Haustierbetreuungsplattform, die in ganz Griechenland aktiv ist und die Suche nach lokalen Sittern und Hundeausführern nach Gebiet ermöglicht, einschließlich der Kykladen. Für eine kleine Insel wie Paros ist die Verfügbarkeit dünner als in einer Stadt, also früh suchen und Sitter direkt anschreiben, um zu bestätigen, dass sie das jeweilige Dorf und die Größe des Hundes abdecken, bevor man sich festlegt.",
+          "serviceTypeDe": "Online-Buchung. Betreuung, Gassigehen, Tagesbetreuung, Unterbringung",
+          "tipDe": "Auf einer kleinen Insel im Sommer mindestens eine Woche im Voraus buchen. Kurzfristige Sitter-Verfügbarkeit in Paros kann sehr begrenzt sein"
         },
         {
           "name": "Hotel & Villa Pet Care (concierge)",
@@ -967,7 +1114,10 @@
           "tip": "Mention your dog when booking the room and ask reception to line up a sitter for any planned ferry days or indoor visits",
           "tipFr": "Signalez votre chien à la réservation et demandez à la réception d'organiser un sitter pour les jours de ferry ou les visites intérieures prévues",
           "tipEs": "Menciona a tu perro al reservar la habitación y pide a recepción que organice un cuidador para los días de ferry o visitas interiores previstas",
-          "tipPt": "Mencione o seu cão ao reservar o quarto e peça à receção para arranjar um cuidador para os dias de ferry ou visitas interiores planeadas"
+          "tipPt": "Mencione o seu cão ao reservar o quarto e peça à receção para arranjar um cuidador para os dias de ferry ou visitas interiores planeadas",
+          "descriptionDe": "Viele der haustierfreundlichen Hotels und Villen in Parikia und Naoussa können über die Rezeption einen vertrauenswürdigen lokalen Hundesitter oder -ausführer vermitteln, gestützt auf Personalkontakte, die die Insel kennen. Für Reisende ist es oft schneller und zuverlässiger, zuerst die eigene Unterkunft zu fragen, als auf einer kleinen Insel ohne Vorkenntnisse eine Plattform zu durchsuchen.",
+          "serviceTypeDe": "Vom Concierge vermittelte Betreuung und Gassigehen",
+          "tipDe": "Bei der Zimmerbuchung den Hund erwähnen und die Rezeption bitten, für geplante Fährtage oder Innenbesuche einen Sitter zu organisieren"
         }
       ],
       "tipsEn": [
@@ -1013,6 +1163,15 @@
           "q": "Posso encontrar um cuidador de cães em Paros?",
           "a": "Sim, mas planeie com antecedência. Por ser uma ilha pequena, Paros tem menos opções de creche profissional do que uma cidade, por isso a maioria dos viajantes reserva através de uma plataforma internacional como a Pawshake ou pede ao seu hotel pet-friendly para arranjar um cuidador local de confiança. A disponibilidade é apertada em julho e agosto, por isso reserve com pelo menos uma semana de antecedência."
         }
+      ],
+      "titleDe": "Hundesitter & Haustierbetreuung in Paros",
+      "introDe": "Paros ist eine kleine Insel, daher ist die professionelle Hundetagesbetreuung begrenzt, und die meisten Reisenden verlassen sich auf Online-Sitter-Plattformen oder auf ihr Hotel. Für einen Museumsbesuch, einen langen Fährtag oder einen Strand, an dem Hunde nicht willkommen sind, ist die Buchung eines lokalen Sitters über eine internationale Plattform weit im Voraus die zuverlässigste Option.",
+      "faqsDe": [
+        {
+          "q": "Finde ich einen Hundesitter in Paros?",
+          "a": "Ja, aber im Voraus planen. Als kleine Insel hat Paros weniger professionelle Tagesbetreuungsoptionen als eine Stadt, daher buchen die meisten Reisenden über eine internationale Plattform wie Pawshake oder bitten ihr haustierfreundliches Hotel, einen vertrauenswürdigen lokalen Sitter zu vermitteln. Im Juli und August ist die Verfügbarkeit knapp, also mindestens eine Woche im Voraus reservieren."
+        }
       ]
     }
-  }}
+  }
+}

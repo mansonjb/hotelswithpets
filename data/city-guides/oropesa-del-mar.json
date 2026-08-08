@@ -39,7 +39,11 @@
           "tipFr": "Arrivez avant 14h le week-end, la terrasse se remplit vite et il n'y a pas de réservations",
           "tipEs": "Llega antes de las 14:00 los fines de semana, la terraza se llena rápido y no aceptan reservas",
           "tipPt": "Chegue antes das 14:00 aos fins de semana, a esplanada enche depressa e não aceitam reservas",
-          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+El+Faro+Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+El+Faro+Oropesa+del+Mar",
+          "descriptionDe": "Ein verlässliches Fischrestaurant direkt an der Promenade mit einer weiten Terrasse zum Mittelmeer. Hunde sind auf der Terrasse willkommen, und das Personal bringt routinemäßig Wassernäpfe. Die Paella Valenciana und der frisch gegrillte Fisch sind die Hauptattraktionen, und die Terrasse bekommt selbst in der Julihitze eine gute Meeresbrise. Ein treues lokales Publikum sorgt für eine authentische statt touristische Atmosphäre.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen",
+          "mustTryDe": "Paella Valenciana, gegrillte Dorade",
+          "tipDe": "Kommen Sie am Wochenende vor 14:00 Uhr, die Terrasse füllt sich schnell und es werden keine Reservierungen angenommen"
         },
         {
           "name": "Bar La Marina",
@@ -65,7 +69,11 @@
           "tipFr": "Idéal avant 9h quand les bateaux reviennent et que la pêche du jour est déchargée à côté",
           "tipEs": "Lo mejor antes de las 9h cuando los barcos regresan y se descarga la pesca del día al lado",
           "tipPt": "Melhor antes das 9h quando os barcos voltam e a pesca do dia está a ser descarregada ao lado",
-          "googleMapsUrl": "https://maps.google.com/?q=Bar+La+Marina+Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Bar+La+Marina+Oropesa+del+Mar",
+          "descriptionDe": "Versteckt neben dem Fischereihafen ist La Marina eine echte lokale Bar mit schattiger Terrasse, wo Fischer und Hundebesitzer jeden Morgen einträchtig zusammensitzen. Der Kaffee und der frische Orangensaft sind hervorragend, und die Bocadillos zum Mittagessen sind der wahre Genuss. Hunde gehören hier zum täglichen Bild dazu und sind auf der Terrasse absolut willkommen.",
+          "petPolicyDe": "Hunde immer auf der Terrasse willkommen",
+          "mustTryDe": "Frischer Orangensaft, Bocadillo de Jamón",
+          "tipDe": "Am besten vor 9 Uhr, wenn die Fischerboote zurück sind und der Tagesfang in der Nähe entladen wird"
         },
         {
           "name": "Chiringuito Azul",
@@ -91,7 +99,11 @@
           "tipFr": "Les chiens sont interdits sur la plage principale du 15 juin au 15 sept, promenez vers l'extrémité rocheuse nord où les règles s'assouplissent",
           "tipEs": "Los perros no están permitidos en la sección principal de la playa del 15 jun al 15 sep, camina hacia el extremo norte rocoso donde las normas se relajan",
           "tipPt": "Os cães não são permitidos na secção principal da praia de 15 jun a 15 set, caminhe para a extremidade norte rochosa onde as regras se relaxam",
-          "googleMapsUrl": "https://maps.google.com/?q=Playa+Concha+Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Playa+Concha+Oropesa+del+Mar",
+          "descriptionDe": "Eine klassische spanische Strandbar, die von Mai bis September direkt an der Playa de la Concha betrieben wird. Die Plastikstühle, das kalte Bier und die frischen Mojitos sind genau das Richtige nach einem Strandspaziergang mit Ihrem Hund. Hunde sind an den Außentischen willkommen. Die Küche macht guten frittierten Fisch und kalten Gazpacho. Im Winter geschlossen, kommen Sie zwischen Mai und September.",
+          "petPolicyDe": "Hunde an Außentischen willkommen (saisonal Mai–Sep)",
+          "mustTryDe": "Pescaíto frito, kaltes Estrella Damm, Gazpacho",
+          "tipDe": "Hunde sind auf dem Hauptstrandabschnitt vom 15. Juni bis 15. September nicht erlaubt, gehen Sie zum felsigen Nordende, wo die Regeln lockerer sind"
         },
         {
           "name": "Restaurante La Langosta",
@@ -117,7 +129,11 @@
           "tipFr": "Réservez pour le déjeuner du dimanche, les familles locales envahissent l'endroit",
           "tipEs": "Reserva para el almuerzo del domingo, se llena de familias locales y no conseguirás mesa en terraza sin reserva",
           "tipPt": "Reserve para o almoço de domingo, enche-se de famílias locais e não conseguirá mesa na esplanada sem reserva",
-          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+La+Langosta+Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Restaurante+La+Langosta+Oropesa+del+Mar",
+          "descriptionDe": "In der Altstadt, abseits der Strandmenge, hat La Langosta eine überdachte Terrasse in einer ruhigen Straße, die Einheimische für lange Mittagessen bevorzugen. Das Arroz a Banda (Reis in Fischsud) ist das Gericht, das Sie bestellen sollten. Hunde sind an Stühlen angebunden auf der Terrasse willkommen, und die Inhaberin hat selbst zwei Hunde.",
+          "petPolicyDe": "Hunde auf überdachter Terrasse willkommen",
+          "mustTryDe": "Arroz a banda, Clóchinas Valencianas (lokale Miesmuscheln)",
+          "tipDe": "Reservieren Sie für das Sonntagsmittagessen im Voraus, es füllt sich mit lokalen Familien, und ohne Reservierung bekommen Sie keinen Terrassentisch"
         }
       ],
       "tipsEn": [
@@ -141,20 +157,56 @@
         "As esplanadas da cidade velha são mais tranquilas do que a orla marítima e igualmente pet-friendly."
       ],
       "faqsEn": [
-        {"q": "Are dogs allowed inside restaurants in Oropesa del Mar?", "a": "Spanish law generally restricts dogs to terraces in food-serving establishments. Most restaurants in Oropesa have large outdoor terraces where dogs are welcome. A few café-bars with no food service allow dogs inside."},
-        {"q": "Do restaurants provide water bowls for dogs?", "a": "Most terrace restaurants on the paseo marítimo will bring a water bowl if you ask, and many do so automatically. It is always appreciated to ask rather than assume."}
+        {
+          "q": "Are dogs allowed inside restaurants in Oropesa del Mar?",
+          "a": "Spanish law generally restricts dogs to terraces in food-serving establishments. Most restaurants in Oropesa have large outdoor terraces where dogs are welcome. A few café-bars with no food service allow dogs inside."
+        },
+        {
+          "q": "Do restaurants provide water bowls for dogs?",
+          "a": "Most terrace restaurants on the paseo marítimo will bring a water bowl if you ask, and many do so automatically. It is always appreciated to ask rather than assume."
+        }
       ],
       "faqsFr": [
-        {"q": "Les chiens sont-ils admis à l'intérieur des restaurants à Oropesa del Mar ?", "a": "La loi espagnole limite généralement les chiens aux terrasses dans les établissements servant de la nourriture. La plupart des restaurants d'Oropesa ont de grandes terrasses extérieures où les chiens sont les bienvenus."},
-        {"q": "Les restaurants fournissent-ils des bols d'eau pour les chiens ?", "a": "La plupart des restaurants en terrasse du paseo marítimo apporteront un bol d'eau si vous le demandez, et beaucoup le font automatiquement."}
+        {
+          "q": "Les chiens sont-ils admis à l'intérieur des restaurants à Oropesa del Mar ?",
+          "a": "La loi espagnole limite généralement les chiens aux terrasses dans les établissements servant de la nourriture. La plupart des restaurants d'Oropesa ont de grandes terrasses extérieures où les chiens sont les bienvenus."
+        },
+        {
+          "q": "Les restaurants fournissent-ils des bols d'eau pour les chiens ?",
+          "a": "La plupart des restaurants en terrasse du paseo marítimo apporteront un bol d'eau si vous le demandez, et beaucoup le font automatiquement."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Se permiten perros dentro de los restaurantes de Oropesa del Mar?", "a": "La ley española generalmente restringe los perros a las terrazas en los establecimientos que sirven comida. La mayoría de los restaurantes de Oropesa tienen grandes terrazas exteriores donde los perros son bienvenidos."},
-        {"q": "¿Los restaurantes proporcionan cuencos de agua para perros?", "a": "La mayoría de los restaurantes de terraza del paseo marítimo traerán un cuenco de agua si se lo pides, y muchos lo hacen automáticamente."}
+        {
+          "q": "¿Se permiten perros dentro de los restaurantes de Oropesa del Mar?",
+          "a": "La ley española generalmente restringe los perros a las terrazas en los establecimientos que sirven comida. La mayoría de los restaurantes de Oropesa tienen grandes terrazas exteriores donde los perros son bienvenidos."
+        },
+        {
+          "q": "¿Los restaurantes proporcionan cuencos de agua para perros?",
+          "a": "La mayoría de los restaurantes de terraza del paseo marítimo traerán un cuenco de agua si se lo pides, y muchos lo hacen automáticamente."
+        }
       ],
       "faqsPt": [
-        {"q": "Os cães são permitidos dentro dos restaurantes de Oropesa del Mar?", "a": "A lei espanhola geralmente restringe os cães às esplanadas nos estabelecimentos que servem comida. A maioria dos restaurantes em Oropesa tem grandes esplanadas exteriores onde os cães são bem-vindos."},
-        {"q": "Os restaurantes fornecem taças de água para cães?", "a": "A maioria dos restaurantes com esplanada no paseo marítimo trará uma taça de água se pedir, e muitos fazem-no automaticamente."}
+        {
+          "q": "Os cães são permitidos dentro dos restaurantes de Oropesa del Mar?",
+          "a": "A lei espanhola geralmente restringe os cães às esplanadas nos estabelecimentos que servem comida. A maioria dos restaurantes em Oropesa tem grandes esplanadas exteriores onde os cães são bem-vindos."
+        },
+        {
+          "q": "Os restaurantes fornecem taças de água para cães?",
+          "a": "A maioria dos restaurantes com esplanada no paseo marítimo trará uma taça de água se pedir, e muitos fazem-no automaticamente."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Oropesa del Mar",
+      "introDe": "Oropesa del Mar liegt an der Costa del Azahar zwischen Valencia und Barcelona, und sein entspannter mediterraner Rhythmus zeigt sich auch darin, wie Cafés und Restaurants mit Hunden umgehen. Terrassen dominieren hier die Gastronomieszene und erstrecken sich über Promenaden und sandige Plätze, wo Hunde einfach zum Landschaftsbild gehören. Die meisten Orte am Paseo Marítimo bringen einen Wassernapf, ohne dass man fragen muss. Die fünf unten genannten Orte sind das ganze Jahr über wirklich und konsequent hundefreundlich.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Oropesa del Mar in Innenräumen erlaubt?",
+          "a": "Das spanische Recht beschränkt Hunde in gastronomischen Betrieben generell auf Terrassen. Die meisten Restaurants in Oropesa haben große Außenterrassen, auf denen Hunde willkommen sind. Einige Café-Bars ohne Speisenangebot lassen Hunde auch drinnen zu."
+        },
+        {
+          "q": "Stellen Restaurants Wassernäpfe für Hunde bereit?",
+          "a": "Die meisten Terrassenrestaurants am Paseo Marítimo bringen auf Nachfrage einen Wassernapf, und viele tun dies automatisch. Es ist immer willkommen, lieber zu fragen als es vorauszusetzen."
+        }
       ]
     },
     "parks": {
@@ -191,7 +243,11 @@
           "tipFr": "Partez tôt en été, le sentier côtier est brûlant dès 10h et il n'y a pas d'ombre. Emportez beaucoup d'eau pour votre chien",
           "tipEs": "Ve temprano en verano, el sendero costero se calienta antes de las 10h y no hay sombra. Lleva mucha agua para tu perro",
           "tipPt": "Vá cedo no verão, o trilho costeiro aquece antes das 10h e não há sombra. Leve muita água para o seu cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Serra+d%27Irta+Alcossebre"
+          "googleMapsUrl": "https://maps.google.com/?q=Serra+d%27Irta+Alcossebre",
+          "descriptionDe": "Die Serra d'Irta ist ein geschütztes Küstengebirge unmittelbar südlich von Oropesa, einer der letzten wilden Küstenabschnitte des Mittelmeers in der Region Valencia. Hunde sind auf den markierten Wegen willkommen (an der Leine auf dem Küstenweg, Freilauf auf den Wegen im Landesinneren möglich). Der Küstenweg PR-CV 384 bietet dramatische Meerblicke und Gezeitentümpel. Starten Sie am Zugang bei Alcossebre für die einfachste Route.",
+          "petPolicyDe": "Hunde an der Leine auf dem Küstenweg; Freilauf auf Wegen im Landesinneren möglich",
+          "mustTryDe": "Küstenweg PR-CV 384 zur Cala Mundina",
+          "tipDe": "Gehen Sie im Sommer früh los, der Küstenweg wird ab 10 Uhr heiß und es gibt keinen Schatten. Nehmen Sie ausreichend Wasser für Ihren Hund mit"
         },
         {
           "name": "Paseo Marítimo Walkway",
@@ -217,7 +273,11 @@
           "tipFr": "Le matin tôt (avant 8h) et le soir (après 20h) sont les moments où les locaux promènent leurs chiens le long du front de mer",
           "tipEs": "Temprano por la mañana (antes de las 8h) y por la tarde-noche (después de las 20h) son los momentos en que los locales pasean a sus perros por el paseo",
           "tipPt": "De manhã cedo (antes das 8h) e à noite (depois das 20h) são os momentos em que os locais passeiam os seus cães ao longo da orla marítima",
-          "googleMapsUrl": "https://maps.google.com/?q=Paseo+Maritimo+Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Paseo+Maritimo+Oropesa+del+Mar",
+          "descriptionDe": "Die Uferpromenade, die Oropesas Hauptstrände verbindet, erstreckt sich über mehrere Kilometer und ist der übliche Morgenspaziergang für Einheimische mit Hunden. Breit, flach und von Palmen gesäumt, funktioniert sie das ganze Jahr über. Außerhalb der sommerlichen Stoßzeiten können Hunde frei auf der Promenade neben dem Strand laufen. Der Abschnitt zwischen Marina d'Or und dem Fischereihafen ist der längste durchgehende Teil.",
+          "petPolicyDe": "Hunde an der Leine auf der Promenade; Strandzugang eingeschränkt 15. Juni–15. Sept.",
+          "mustTryDe": "Früher Morgenspaziergang vor 8 Uhr für das beste Licht und die wenigsten Menschen",
+          "tipDe": "Früher Morgen (vor 8 Uhr) und Abend (nach 20 Uhr) sind die Zeiten, zu denen Einheimische ihre Hunde an der Uferpromenade ausführen, ruhiger, kühler, besser für alle"
         },
         {
           "name": "Parque Municipal de Oropesa",
@@ -243,7 +303,11 @@
           "tipFr": "Les bancs ombragés près de la fontaine sont parfaits pour une pause à midi en été, le parc reste 5–6°C plus frais que la promenade",
           "tipEs": "Los bancos sombreados cerca de la fuente son perfectos para un descanso al mediodía en verano, el parque se mantiene 5–6°C más fresco que el paseo",
           "tipPt": "Os bancos sombreados perto da fonte são perfeitos para um descanso ao meio-dia no verão, o parque mantém-se 5–6°C mais fresco do que o passeio",
-          "googleMapsUrl": "https://maps.google.com/?q=Parque+Municipal+Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Parque+Municipal+Oropesa+del+Mar",
+          "descriptionDe": "Der Hauptstadtpark von Oropesa liegt im Zentrum, beschattet von alten Bäumen, und bietet einen angenehmen Kontrast zum Trubel an der Uferpromenade. Hunde sind an der Leine auf den Wegen willkommen. Es gibt einen eigenen Hundeauslaufbereich (Zona Canina) am östlichen Rand mit Agility-Ausrüstung.",
+          "petPolicyDe": "Hunde an der Leine; eigene Hundezone (Zona Canina) auf der Ostseite",
+          "mustTryDe": "Zona Canina auf der Ostseite für Freilaufbewegung",
+          "tipDe": "Die schattigen Bänke am Brunnen eignen sich perfekt für eine Mittagspause im Sommer, der Park bleibt 5–6°C kühler als die Strandpromenade"
         }
       ],
       "tipsEn": [
@@ -267,20 +331,56 @@
         "Leve sempre água para o seu cão no verão."
       ],
       "faqsEn": [
-        {"q": "Are there off-lead areas in Oropesa del Mar?", "a": "Yes, the zona canina in the municipal park and sections of the inland Serra d'Irta trails allow off-lead exercise. Beaches and main promenades require dogs to be on lead."},
-        {"q": "Can dogs go on the beach in Oropesa del Mar?", "a": "Dogs are banned from the main beaches from June 15 to September 15. Outside this period, they are allowed. The rocky north end near the fishing port has year-round access."}
+        {
+          "q": "Are there off-lead areas in Oropesa del Mar?",
+          "a": "Yes, the zona canina in the municipal park and sections of the inland Serra d'Irta trails allow off-lead exercise. Beaches and main promenades require dogs to be on lead."
+        },
+        {
+          "q": "Can dogs go on the beach in Oropesa del Mar?",
+          "a": "Dogs are banned from the main beaches from June 15 to September 15. Outside this period, they are allowed. The rocky north end near the fishing port has year-round access."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il des zones sans laisse à Oropesa del Mar ?", "a": "Oui, la zona canina du parc municipal et certaines pistes de la Serra d'Irta permettent la liberté. Plages et promenades principales exigent la laisse."},
-        {"q": "Les chiens peuvent-ils aller sur la plage à Oropesa del Mar ?", "a": "Les chiens sont interdits sur les plages principales du 15 juin au 15 septembre. En dehors de cette période, ils sont autorisés."}
+        {
+          "q": "Y a-t-il des zones sans laisse à Oropesa del Mar ?",
+          "a": "Oui, la zona canina du parc municipal et certaines pistes de la Serra d'Irta permettent la liberté. Plages et promenades principales exigent la laisse."
+        },
+        {
+          "q": "Les chiens peuvent-ils aller sur la plage à Oropesa del Mar ?",
+          "a": "Les chiens sont interdits sur les plages principales du 15 juin au 15 septembre. En dehors de cette période, ils sont autorisés."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay zonas sin correa en Oropesa del Mar?", "a": "Sí: la zona canina del parque municipal y tramos de los senderos interiores de la Serra d'Irta permiten ir sin correa. Playas y paseos principales requieren correa."},
-        {"q": "¿Pueden los perros ir a la playa en Oropesa del Mar?", "a": "Los perros están prohibidos en las playas principales del 15 de junio al 15 de septiembre. Fuera de este período están permitidos."}
+        {
+          "q": "¿Hay zonas sin correa en Oropesa del Mar?",
+          "a": "Sí: la zona canina del parque municipal y tramos de los senderos interiores de la Serra d'Irta permiten ir sin correa. Playas y paseos principales requieren correa."
+        },
+        {
+          "q": "¿Pueden los perros ir a la playa en Oropesa del Mar?",
+          "a": "Los perros están prohibidos en las playas principales del 15 de junio al 15 de septiembre. Fuera de este período están permitidos."
+        }
       ],
       "faqsPt": [
-        {"q": "Existem zonas sem trela em Oropesa del Mar?", "a": "Sim: a zona canina no parque municipal e secções dos trilhos interiores da Serra d'Irta permitem sem trela. Praias e passeios principais requerem trela."},
-        {"q": "Os cães podem ir à praia em Oropesa del Mar?", "a": "Os cães são proibidos nas praias principais de 15 de junho a 15 de setembro. Fora deste período são permitidos."}
+        {
+          "q": "Existem zonas sem trela em Oropesa del Mar?",
+          "a": "Sim: a zona canina no parque municipal e secções dos trilhos interiores da Serra d'Irta permitem sem trela. Praias e passeios principais requerem trela."
+        },
+        {
+          "q": "Os cães podem ir à praia em Oropesa del Mar?",
+          "a": "Os cães são proibidos nas praias principais de 15 de junho a 15 de setembro. Fora deste período são permitidos."
+        }
+      ],
+      "titleDe": "Parks & Grünflächen in Oropesa del Mar",
+      "introDe": "Oropesa del Mar ist keine Stadt mit großen Parks, gleicht dies aber mit Küstenwegen, Pinienwäldern und dem Naturpark Serra d'Irta direkt vor der Tür aus. Dieses geschützte Küstenmassiv, das sich südlich von Alcossebre erstreckt, ist eine der letzten unbebauten Mittelmeerküsten der Region Valencia, und Hunde sind auf den meisten Wegen willkommen. Auch die Promenaden und Wanderwege, die die Strände der Stadt verbinden, eignen sich gut als tägliche Bewegungsstrecke.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Freilaufbereiche in Oropesa del Mar?",
+          "a": "Ja, die Zona Canina im städtischen Park und Abschnitte der Wege der Serra d'Irta im Landesinneren erlauben Freilaufbewegung. An Stränden und Hauptpromenaden müssen Hunde angeleint sein."
+        },
+        {
+          "q": "Dürfen Hunde in Oropesa del Mar an den Strand?",
+          "a": "Hunde sind vom 15. Juni bis 15. September an den Hauptstränden verboten. Außerhalb dieser Zeit sind sie erlaubt. Das felsige Nordende beim Fischereihafen ist ganzjährig zugänglich."
+        }
       ]
     },
     "transport": {
@@ -331,20 +431,56 @@
         }
       ],
       "faqsEn": [
-        {"q": "What is the easiest way to reach Oropesa del Mar with a large dog?", "a": "By car is strongly recommended for large dogs. The RENFE train allows large dogs with a €6 supplement plus muzzle requirement, but the car gives you full flexibility and free parking outside summer."},
-        {"q": "Is there a taxi or transfer service from Valencia Airport?", "a": "Yes, private taxi transfers from Valencia Airport take about 45 minutes and drivers generally accept dogs (confirm when booking). There is no direct public transport from Valencia Airport to Oropesa."}
+        {
+          "q": "What is the easiest way to reach Oropesa del Mar with a large dog?",
+          "a": "By car is strongly recommended for large dogs. The RENFE train allows large dogs with a €6 supplement plus muzzle requirement, but the car gives you full flexibility and free parking outside summer."
+        },
+        {
+          "q": "Is there a taxi or transfer service from Valencia Airport?",
+          "a": "Yes, private taxi transfers from Valencia Airport take about 45 minutes and drivers generally accept dogs (confirm when booking). There is no direct public transport from Valencia Airport to Oropesa."
+        }
       ],
       "faqsFr": [
-        {"q": "Quel est le moyen le plus simple de rejoindre Oropesa del Mar avec un grand chien ?", "a": "La voiture est fortement recommandée pour les grands chiens. Le train RENFE accepte les grands chiens avec un supplément de 6€ plus obligation de muselière."},
-        {"q": "Y a-t-il un service de taxi depuis l'aéroport de Valence ?", "a": "Oui, les transferts en taxi privé depuis l'aéroport de Valence prennent environ 45 minutes et les chauffeurs acceptent généralement les chiens."}
+        {
+          "q": "Quel est le moyen le plus simple de rejoindre Oropesa del Mar avec un grand chien ?",
+          "a": "La voiture est fortement recommandée pour les grands chiens. Le train RENFE accepte les grands chiens avec un supplément de 6€ plus obligation de muselière."
+        },
+        {
+          "q": "Y a-t-il un service de taxi depuis l'aéroport de Valence ?",
+          "a": "Oui, les transferts en taxi privé depuis l'aéroport de Valence prennent environ 45 minutes et les chauffeurs acceptent généralement les chiens."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Cuál es la forma más fácil de llegar a Oropesa del Mar con un perro grande?", "a": "Se recomienda encarecidamente el coche para perros grandes. El tren RENFE permite perros grandes con suplemento de 6€ más obligación de bozal."},
-        {"q": "¿Hay servicio de taxi desde el aeropuerto de Valencia?", "a": "Sí: los traslados en taxi privado desde el aeropuerto de Valencia tardan unos 45 minutos y los conductores generalmente aceptan perros."}
+        {
+          "q": "¿Cuál es la forma más fácil de llegar a Oropesa del Mar con un perro grande?",
+          "a": "Se recomienda encarecidamente el coche para perros grandes. El tren RENFE permite perros grandes con suplemento de 6€ más obligación de bozal."
+        },
+        {
+          "q": "¿Hay servicio de taxi desde el aeropuerto de Valencia?",
+          "a": "Sí: los traslados en taxi privado desde el aeropuerto de Valencia tardan unos 45 minutos y los conductores generalmente aceptan perros."
+        }
       ],
       "faqsPt": [
-        {"q": "Qual é a forma mais fácil de chegar a Oropesa del Mar com um cão grande?", "a": "O carro é fortemente recomendado para cães grandes. O comboio RENFE permite cães grandes com suplemento de 6€ mais obrigação de focinheira."},
-        {"q": "Existe serviço de táxi do aeroporto de Valência?", "a": "Sim: as transferências de táxi privado do aeroporto de Valência demoram cerca de 45 minutos e os motoristas geralmente aceitam cães."}
+        {
+          "q": "Qual é a forma mais fácil de chegar a Oropesa del Mar com um cão grande?",
+          "a": "O carro é fortemente recomendado para cães grandes. O comboio RENFE permite cães grandes com suplemento de 6€ mais obrigação de focinheira."
+        },
+        {
+          "q": "Existe serviço de táxi do aeroporto de Valência?",
+          "a": "Sim: as transferências de táxi privado do aeroporto de Valência demoram cerca de 45 minutos e os motoristas geralmente aceitam cães."
+        }
+      ],
+      "titleDe": "Mit Haustier nach Oropesa del Mar reisen",
+      "introDe": "Oropesa del Mar liegt an der Autobahn AP-7 auf halbem Weg zwischen Valencia (80 km südlich) und Castellón (30 km nördlich). Mit dem Auto ist es die einfachste Option, Parken ist in den meisten Teilen der Stadt kostenlos und außerhalb des Sommers reichlich verfügbar. Mit dem Zug hat Oropesa eine eigene RENFE-Cercanías-Station an der Strecke Castellón–Valencia, wobei Hunde in Transportboxen akzeptiert werden. Öffentliche Busverbindungen sind begrenzt, aber funktionsfähig.",
+      "faqsDe": [
+        {
+          "q": "Was ist der einfachste Weg, um mit einem großen Hund nach Oropesa del Mar zu gelangen?",
+          "a": "Für große Hunde wird das Auto dringend empfohlen. Der RENFE-Zug lässt große Hunde gegen einen Aufpreis von 6 € sowie mit Maulkorbpflicht zu, aber das Auto bietet Ihnen volle Flexibilität und kostenloses Parken außerhalb des Sommers."
+        },
+        {
+          "q": "Gibt es einen Taxi- oder Transferdienst vom Flughafen Valencia?",
+          "a": "Ja, private Taxitransfers vom Flughafen Valencia dauern etwa 45 Minuten, und die Fahrer akzeptieren Hunde im Allgemeinen (bei der Buchung bestätigen). Vom Flughafen Valencia gibt es keine direkte öffentliche Verkehrsverbindung nach Oropesa."
+        }
       ]
     },
     "beaches": {
@@ -381,7 +517,11 @@
           "tipFr": "L'interdiction des chiens est appliquée par la police locale à partir de mi-juin. En dehors de cette période, les locaux utilisent librement la plage avec leurs chiens",
           "tipEs": "La prohibición de perros es aplicada por la policía local a partir de mediados de junio. Fuera de ese período, los locales usan la playa libremente con perros",
           "tipPt": "A proibição de cães é aplicada pela polícia local a partir de meados de junho. Fora desse período, os locais usam a praia livremente com cães",
-          "googleMapsUrl": "https://maps.google.com/?q=Playa+de+la+Concha+Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Playa+de+la+Concha+Oropesa+del+Mar",
+          "descriptionDe": "Der Hauptstrand von Oropesa del Mar ist ein breiter, sanft abfallender Sandstrand mit ruhigem Mittelmeerwasser. Hunde sind vom 16. September bis 14. Juni erlaubt, und in diesen Monaten ist es eine Freude, der Strand ist fast leer, das Wasser bis spät in den Oktober warm genug zum Schwimmen, und Einheimische bringen ihre Hunde ohne zu zögern mit. In der Hochsaison nutzen Sie stattdessen die Felsbuchten im Norden.",
+          "petPolicyDe": "Hunde erlaubt 16. Sept.–14. Juni. Verboten 15. Juni–15. Sept.",
+          "mustTryDe": "Sonnenaufgangsschwimmen mit Ihrem Hund im Oktober, der Strand ist leer und das Wasser noch warm",
+          "tipDe": "Das Hundeverbot wird ab Mitte Juni von der örtlichen Polizei durchgesetzt. Außerhalb dieses Zeitraums kontrolliert niemand, und Einheimische nutzen den Strand frei mit Hunden"
         },
         {
           "name": "Cala del Moro (rocky cove)",
@@ -407,7 +547,11 @@
           "tipFr": "Portez des chaussures antidérapantes, les rochers sont glissants mouillés",
           "tipEs": "Usa calzado con agarre, las rocas son resbaladizas cuando están mojadas",
           "tipPt": "Use calçado com aderência, as rochas são escorregadias quando molhadas",
-          "googleMapsUrl": "https://maps.google.com/?q=Cala+del+Moro+Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Cala+del+Moro+Oropesa+del+Mar",
+          "descriptionDe": "Eine kleine Felsbucht am Südrand der Stadt, wo die bebaute Uferzone in den Beginn des Naturparks Serra d'Irta übergeht. Hunde sind hier ganzjährig willkommen, da es kein offizieller Badestrand ist. Das Wasser ist über Felsen und Kieseln kristallklar, und die Bucht ist auch im August ruhig. Zu Fuß vom südlichen Ende der Promenade erreichbar.",
+          "petPolicyDe": "Hunde ganzjährig willkommen (kein offizieller Badestrand)",
+          "mustTryDe": "Morgendliche Erkundung der Gezeitentümpel mit Hund im Frühling",
+          "tipDe": "Tragen Sie Schuhe mit Profil, die Felsen sind bei Nässe rutschig. Ihrem Hund geht es gut, Ihnen vielleicht nicht"
         },
         {
           "name": "Playa de la Marina d'Or",
@@ -433,24 +577,64 @@
           "tipFr": "En octobre et novembre la plage est totalement vide en semaine et les chiens peuvent courir librement",
           "tipEs": "En octubre y noviembre la playa está completamente vacía entre semana y los perros pueden correr libremente",
           "tipPt": "Em outubro e novembro a praia está completamente vazia nos dias de semana e os cães podem correr livremente",
-          "googleMapsUrl": "https://maps.google.com/?q=Marina+d%27Or+Playa+Oropesa"
+          "googleMapsUrl": "https://maps.google.com/?q=Marina+d%27Or+Playa+Oropesa",
+          "descriptionDe": "Der nördliche Strandabschnitt vor dem Resortkomplex Marina d'Or. Dieselben Hundebeschränkungen wie am Hauptstrand (Verbot 15. Juni–15. Sept.), aber außerhalb der Sommersaison ist er ruhiger und oft leer. Der Strand hier ist breit und flach mit feinem Sand. Die Promenade entlang dieses Abschnitts hat mehrere Zugänge zum Strand.",
+          "petPolicyDe": "Hunde erlaubt 16. Sept.–14. Juni",
+          "mustTryDe": "Langer Spaziergang außerhalb der Saison von Marina d'Or zum Fischereihafen (3 km am Strand entlang)",
+          "tipDe": "Im Oktober und November ist der Strand an Wochentagen völlig leer, und Hunde können frei laufen"
         }
       ],
       "faqsEn": [
-        {"q": "Are there any dog-friendly beaches in Oropesa del Mar in summer?", "a": "The rocky coves (calas) at the south end of town are not officially designated bathing beaches and are accessible year-round with dogs. The main sandy beaches enforce the ban strictly from June 15 to September 15."},
-        {"q": "What is the fine for bringing a dog to a restricted beach in Spain?", "a": "Fines vary by municipality but typically range from €100 to €600 in the Castellón area. The ban is enforced from mid-June and local police do patrol the main beaches."}
+        {
+          "q": "Are there any dog-friendly beaches in Oropesa del Mar in summer?",
+          "a": "The rocky coves (calas) at the south end of town are not officially designated bathing beaches and are accessible year-round with dogs. The main sandy beaches enforce the ban strictly from June 15 to September 15."
+        },
+        {
+          "q": "What is the fine for bringing a dog to a restricted beach in Spain?",
+          "a": "Fines vary by municipality but typically range from €100 to €600 in the Castellón area. The ban is enforced from mid-June and local police do patrol the main beaches."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il des plages dog-friendly à Oropesa del Mar en été ?", "a": "Les calas rocheuses au sud de la ville ne sont pas des plages de baignade officielles et sont accessibles toute l'année avec des chiens."},
-        {"q": "Quelle est l'amende pour avoir amené un chien sur une plage interdite en Espagne ?", "a": "Les amendes varient selon les municipalités mais vont généralement de 100 à 600€ dans la zone de Castellón."}
+        {
+          "q": "Y a-t-il des plages dog-friendly à Oropesa del Mar en été ?",
+          "a": "Les calas rocheuses au sud de la ville ne sont pas des plages de baignade officielles et sont accessibles toute l'année avec des chiens."
+        },
+        {
+          "q": "Quelle est l'amende pour avoir amené un chien sur une plage interdite en Espagne ?",
+          "a": "Les amendes varient selon les municipalités mais vont généralement de 100 à 600€ dans la zone de Castellón."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay playas dog-friendly en Oropesa del Mar en verano?", "a": "Las calas rocosas en el extremo sur de la localidad no son playas de baño oficiales y son accesibles todo el año con perros."},
-        {"q": "¿Cuál es la multa por llevar un perro a una playa restringida en España?", "a": "Las multas varían por municipio pero típicamente oscilan entre 100 y 600€ en la zona de Castellón."}
+        {
+          "q": "¿Hay playas dog-friendly en Oropesa del Mar en verano?",
+          "a": "Las calas rocosas en el extremo sur de la localidad no son playas de baño oficiales y son accesibles todo el año con perros."
+        },
+        {
+          "q": "¿Cuál es la multa por llevar un perro a una playa restringida en España?",
+          "a": "Las multas varían por municipio pero típicamente oscilan entre 100 y 600€ en la zona de Castellón."
+        }
       ],
       "faqsPt": [
-        {"q": "Existem praias dog-friendly em Oropesa del Mar no verão?", "a": "As enseadas rochosas no extremo sul da cidade não são praias de banho oficiais e são acessíveis durante todo o ano com cães."},
-        {"q": "Qual é a multa por levar um cão a uma praia restrita em Espanha?", "a": "As multas variam por município mas tipicamente variam entre 100 e 600€ na zona de Castellón."}
+        {
+          "q": "Existem praias dog-friendly em Oropesa del Mar no verão?",
+          "a": "As enseadas rochosas no extremo sul da cidade não são praias de banho oficiais e são acessíveis durante todo o ano com cães."
+        },
+        {
+          "q": "Qual é a multa por levar um cão a uma praia restrita em Espanha?",
+          "a": "As multas variam por município mas tipicamente variam entre 100 e 600€ na zona de Castellón."
+        }
+      ],
+      "titleDe": "Strände in Oropesa del Mar für Hunde",
+      "introDe": "Oropesa del Mar hat mehrere Kilometer Mittelmeerstrand, von den breiten Sandabschnitten der Playa de la Concha bis zu den ruhigeren felsigen Buchten im Süden. Die spanischen Strandvorschriften verbieten Hunde an den Hauptsandstränden zwischen dem 15. Juni und 15. September, aber die Felsbuchten und die Küstenlinie des Naturparks bleiben ganzjährig zugänglich. Außerhalb der Hochsaison sind die Strände praktisch leer, und Hunde sind überall willkommen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es im Sommer hundefreundliche Strände in Oropesa del Mar?",
+          "a": "Die Felsbuchten (Calas) am Südende der Stadt sind nicht offiziell als Badestrände ausgewiesen und ganzjährig mit Hunden zugänglich. An den Hauptsandstränden wird das Verbot vom 15. Juni bis 15. September strikt durchgesetzt."
+        },
+        {
+          "q": "Wie hoch ist die Strafe für einen Hund an einem eingeschränkten Strand in Spanien?",
+          "a": "Die Strafen variieren je nach Gemeinde, liegen im Raum Castellón aber typischerweise zwischen 100 € und 600 €. Das Verbot wird ab Mitte Juni durchgesetzt, und die lokale Polizei patrouilliert die Hauptstrände tatsächlich."
+        }
       ]
     },
     "vets": {
@@ -497,7 +681,11 @@
           "tipFr": "En juillet et août, attendez-vous à une attente, la population animale locale triple avec les touristes",
           "tipEs": "En julio y agosto espera esperar, la población animal local se triplica con los turistas. Llega a la apertura",
           "tipPt": "Em julho e agosto espere esperar, a população animal local triplica com os turistas. Chegue na abertura",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Oropesa+del+Mar",
+          "descriptionDe": "Die wichtigste Tierarztpraxis innerhalb der Stadt Oropesa del Mar, zuständig für Routinebehandlungen, Impfungen und Chipüberprüfung. Die Öffnungszeiten sind außerhalb der Sommersaison begrenzt, rufen Sie immer vorher an. Im Sommer, wenn die internationale Touristenzahl den Höhepunkt erreicht, ist englischsprachiges Personal verfügbar.",
+          "petPolicyDe": "Alle Haustiere willkommen",
+          "mustTryDe": "Rufen Sie vorher an, um die Sommeröffnungszeiten zu bestätigen",
+          "tipDe": "Im Juli und August müssen Sie mit Wartezeit rechnen, die lokale Haustierpopulation verdreifacht sich mit den Touristen. Kommen Sie zur Öffnungszeit"
         },
         {
           "name": "Hospital Veterinario Benicàssim",
@@ -523,7 +711,11 @@
           "tipFr": "8 minutes en voiture via la N-340. Plus rapide que de naviguer à Castellón pour les non-urgences",
           "tipEs": "8 minutos en coche por la N-340. Más rápido que navegar por Castellón para no urgencias",
           "tipPt": "8 minutos de carro pela N-340. Mais rápido do que navegar em Castellón para não urgências",
-          "googleMapsUrl": "https://maps.google.com/?q=Benicassim+veterinario"
+          "googleMapsUrl": "https://maps.google.com/?q=Benicassim+veterinario",
+          "descriptionDe": "Ein größeres Tierkrankenhaus 8 km nördlich in Benicàssim mit umfassenderen Diagnosemöglichkeiten einschließlich Röntgen und Ultraschall. Empfohlen für alles, was über Routineberatungen hinausgeht. Das Personal spricht Spanisch und Valencianisch; etwas Englisch wird gesprochen.",
+          "petPolicyDe": "Alle Haustiere willkommen",
+          "mustTryDe": "Vollständige Diagnoseuntersuchung bei Bedarf, besser ausgestattet als die Stadtpraxis",
+          "tipDe": "8 Minuten mit dem Auto über die N-340. Schneller als sich durch Castellón für Nicht-Notfälle zu navigieren"
         },
         {
           "name": "Urgencias Veterinarias Castellón (24h)",
@@ -549,24 +741,64 @@
           "tipFr": "Appelez d'abord, les services d'urgence peuvent évaluer la gravité",
           "tipEs": "Llama primero, los servicios de urgencias pueden evaluar la gravedad",
           "tipPt": "Ligue primeiro, os serviços de urgência podem avaliar a gravidade",
-          "googleMapsUrl": "https://maps.google.com/?q=urgencias+veterinarias+Castellon+de+la+Plana"
+          "googleMapsUrl": "https://maps.google.com/?q=urgencias+veterinarias+Castellon+de+la+Plana",
+          "descriptionDe": "Für echte Notfälle außerhalb der Praxiszeiten bietet Castellón de la Plana (30 km, 25 Min. mit dem Auto) 24-Stunden-Notfall-Tierversorgung. Rufen Sie vor der Fahrt an, um die aktuelle Verfügbarkeit zu bestätigen. Die Autobahn AP-7 macht die Fahrt zu jeder Stunde unkompliziert.",
+          "petPolicyDe": "Notfälle 24h angenommen",
+          "mustTryDe": "Speichern Sie die Nummer in Ihrem Telefon, bevor Sie ankommen",
+          "tipDe": "Rufen Sie zuerst an, der Notdienst kann zum Schweregrad und zur Notwendigkeit eines Transports beraten"
         }
       ],
       "faqsEn": [
-        {"q": "Do I need anything special to bring my dog to Spain?", "a": "EU residents need a valid EU Pet Passport with current rabies vaccination and ISO microchip. Non-EU visitors need a health certificate from an accredited vet in their home country, endorsed by the national authority. Check current requirements at least 3 weeks before travel."},
-        {"q": "Is there a 24-hour vet near Oropesa del Mar?", "a": "Not within the town itself. The nearest 24-hour emergency vet is in Castellón de la Plana, 30 km north (25 minutes by car on the AP-7). Save the number before you arrive."}
+        {
+          "q": "Do I need anything special to bring my dog to Spain?",
+          "a": "EU residents need a valid EU Pet Passport with current rabies vaccination and ISO microchip. Non-EU visitors need a health certificate from an accredited vet in their home country, endorsed by the national authority. Check current requirements at least 3 weeks before travel."
+        },
+        {
+          "q": "Is there a 24-hour vet near Oropesa del Mar?",
+          "a": "Not within the town itself. The nearest 24-hour emergency vet is in Castellón de la Plana, 30 km north (25 minutes by car on the AP-7). Save the number before you arrive."
+        }
       ],
       "faqsFr": [
-        {"q": "Ai-je besoin de quelque chose de spécial pour amener mon chien en Espagne ?", "a": "Les résidents UE ont besoin d'un passeport européen valide avec vaccination antirabique à jour et micropuce ISO. Les visiteurs hors UE ont besoin d'un certificat de santé d'un vétérinaire agréé."},
-        {"q": "Y a-t-il un vétérinaire 24h près d'Oropesa del Mar ?", "a": "Pas dans la ville elle-même. Le vétérinaire d'urgence 24h le plus proche est à Castellón de la Plana, à 30 km au nord (25 min en voiture sur l'AP-7)."}
+        {
+          "q": "Ai-je besoin de quelque chose de spécial pour amener mon chien en Espagne ?",
+          "a": "Les résidents UE ont besoin d'un passeport européen valide avec vaccination antirabique à jour et micropuce ISO. Les visiteurs hors UE ont besoin d'un certificat de santé d'un vétérinaire agréé."
+        },
+        {
+          "q": "Y a-t-il un vétérinaire 24h près d'Oropesa del Mar ?",
+          "a": "Pas dans la ville elle-même. Le vétérinaire d'urgence 24h le plus proche est à Castellón de la Plana, à 30 km au nord (25 min en voiture sur l'AP-7)."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Necesito algo especial para llevar mi perro a España?", "a": "Los residentes UE necesitan un Pasaporte Europeo válido con vacuna antirrábica vigente y microchip ISO. Los visitantes no UE necesitan certificado sanitario de un veterinario acreditado."},
-        {"q": "¿Hay un veterinario 24h cerca de Oropesa del Mar?", "a": "No dentro de la propia localidad. El veterinario de urgencias 24h más cercano está en Castellón de la Plana, a 30 km al norte (25 min en coche por la AP-7)."}
+        {
+          "q": "¿Necesito algo especial para llevar mi perro a España?",
+          "a": "Los residentes UE necesitan un Pasaporte Europeo válido con vacuna antirrábica vigente y microchip ISO. Los visitantes no UE necesitan certificado sanitario de un veterinario acreditado."
+        },
+        {
+          "q": "¿Hay un veterinario 24h cerca de Oropesa del Mar?",
+          "a": "No dentro de la propia localidad. El veterinario de urgencias 24h más cercano está en Castellón de la Plana, a 30 km al norte (25 min en coche por la AP-7)."
+        }
       ],
       "faqsPt": [
-        {"q": "Preciso de algo especial para levar o meu cão para Espanha?", "a": "Os residentes da UE precisam de um Passaporte Europeu válido com vacinação antirrábica atualizada e microchip ISO. Os visitantes não UE precisam de certificado de saúde de um veterinário credenciado."},
-        {"q": "Existe um veterinário 24h perto de Oropesa del Mar?", "a": "Não dentro da própria cidade. O veterinário de urgências 24h mais próximo fica em Castellón de la Plana, a 30 km a norte (25 minutos de carro na AP-7)."}
+        {
+          "q": "Preciso de algo especial para levar o meu cão para Espanha?",
+          "a": "Os residentes da UE precisam de um Passaporte Europeu válido com vacinação antirrábica atualizada e microchip ISO. Os visitantes não UE precisam de certificado de saúde de um veterinário credenciado."
+        },
+        {
+          "q": "Existe um veterinário 24h perto de Oropesa del Mar?",
+          "a": "Não dentro da própria cidade. O veterinário de urgências 24h mais próximo fica em Castellón de la Plana, a 30 km a norte (25 minutos de carro na AP-7)."
+        }
+      ],
+      "titleDe": "Tierärzte & Tiergesundheit in Oropesa del Mar",
+      "introDe": "Oropesa del Mar ist eine kleine Stadt, und die tierärztlichen Möglichkeiten innerhalb der Stadt selbst sind begrenzt. Die nächsten Vollversorgungskliniken befinden sich in Castellón de la Plana (30 km nördlich) und Benicàssim (8 km nördlich). Für Notfälle gibt es in Castellón eine 24-Stunden-Tierarztklinik. Es lohnt sich, die Chipdaten Ihres Haustiers zu Beginn eines längeren Aufenthalts bei einem spanischen Tierarzt zu registrieren.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich etwas Besonderes, um meinen Hund nach Spanien zu bringen?",
+          "a": "EU-Bürger benötigen einen gültigen EU-Heimtierausweis mit aktueller Tollwutimpfung und ISO-Mikrochip. Besucher außerhalb der EU benötigen ein Gesundheitszeugnis eines akkreditierten Tierarztes im Heimatland, das von der nationalen Behörde bestätigt wird. Prüfen Sie die aktuellen Anforderungen mindestens 3 Wochen vor der Reise."
+        },
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt in der Nähe von Oropesa del Mar?",
+          "a": "Nicht innerhalb der Stadt selbst. Der nächste 24-Stunden-Notfalltierarzt befindet sich in Castellón de la Plana, 30 km nördlich (25 Minuten mit dem Auto auf der AP-7). Speichern Sie die Nummer, bevor Sie ankommen."
+        }
       ]
     },
     "tips": {
@@ -625,7 +857,11 @@
           "tipFr": "Commandez en ligne pour le retrait si vous savez ce qu'il vous faut",
           "tipEs": "Pide online para recogida si sabes lo que necesitas",
           "tipPt": "Encomende online para levantamento se souber o que precisa",
-          "googleMapsUrl": "https://maps.google.com/?q=Maxi+Zoo+Castellon"
+          "googleMapsUrl": "https://maps.google.com/?q=Maxi+Zoo+Castellon",
+          "descriptionDe": "Die nächste große Zoofachhandelskette ist Maxi Zoo in Castellón, 30 Minuten nördlich. Führt ein vollständiges Sortiment an Futter, Zubehör, Reiseausrüstung und Medikamenten. Bei einem Aufenthalt von einer Woche oder länger lohnt es sich, bei Ankunft Vorräte anzulegen.",
+          "petPolicyDe": "Zoofachgeschäft, alle Tiere willkommen",
+          "mustTryDe": "Vorräte an Reisewasserflaschen und Kühlmatten für Strandtage anlegen",
+          "tipDe": "Bestellen Sie online zur Abholung, wenn Sie wissen, was Sie brauchen, das spart die 30-minütige Fahrt"
         }
       ],
       "tipsEn": [
@@ -649,20 +885,56 @@
         "A lei espanhola exige trela em todos os espaços públicos. A multa pode chegar a 600€."
       ],
       "faqsEn": [
-        {"q": "Is Oropesa del Mar a good destination for dogs?", "a": "Yes, outside peak summer (mid-June to mid-September) it is excellent. Beach access is unrestricted, restaurants are welcoming, and the Serra d'Irta natural park offers serious hiking. In peak summer, the heat and beach ban make it less ideal but still manageable with early morning and evening routines."},
-        {"q": "Are dogs allowed in the Marina d'Or resort?", "a": "Marina d'Or is a private resort complex and pet policies vary by accommodation unit. Check directly with the specific hotel or apartment when booking. The public areas and promenade outside the resort are accessible with dogs on lead."}
+        {
+          "q": "Is Oropesa del Mar a good destination for dogs?",
+          "a": "Yes, outside peak summer (mid-June to mid-September) it is excellent. Beach access is unrestricted, restaurants are welcoming, and the Serra d'Irta natural park offers serious hiking. In peak summer, the heat and beach ban make it less ideal but still manageable with early morning and evening routines."
+        },
+        {
+          "q": "Are dogs allowed in the Marina d'Or resort?",
+          "a": "Marina d'Or is a private resort complex and pet policies vary by accommodation unit. Check directly with the specific hotel or apartment when booking. The public areas and promenade outside the resort are accessible with dogs on lead."
+        }
       ],
       "faqsFr": [
-        {"q": "Oropesa del Mar est-il un bon endroit pour les chiens ?", "a": "Oui, en dehors du pic estival (mi-juin à mi-septembre), c'est excellent. L'accès à la plage est sans restriction, les restaurants sont accueillants, et le parc naturel de la Serra d'Irta offre de vraies randonnées."},
-        {"q": "Les chiens sont-ils autorisés dans le complexe Marina d'Or ?", "a": "Marina d'Or est un complexe privé et les politiques concernant les animaux varient selon l'hébergement. Vérifiez directement lors de la réservation."}
+        {
+          "q": "Oropesa del Mar est-il un bon endroit pour les chiens ?",
+          "a": "Oui, en dehors du pic estival (mi-juin à mi-septembre), c'est excellent. L'accès à la plage est sans restriction, les restaurants sont accueillants, et le parc naturel de la Serra d'Irta offre de vraies randonnées."
+        },
+        {
+          "q": "Les chiens sont-ils autorisés dans le complexe Marina d'Or ?",
+          "a": "Marina d'Or est un complexe privé et les politiques concernant les animaux varient selon l'hébergement. Vérifiez directement lors de la réservation."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Es Oropesa del Mar un buen destino para perros?", "a": "Sí, fuera del pico estival (mediados de junio a mediados de septiembre) es excelente. El acceso a la playa es sin restricciones, los restaurantes son acogedores y el parque natural de la Serra d'Irta ofrece senderismo serio."},
-        {"q": "¿Se permiten perros en el complejo Marina d'Or?", "a": "Marina d'Or es un complejo privado y las políticas sobre mascotas varían según la unidad de alojamiento. Verifica directamente al reservar."}
+        {
+          "q": "¿Es Oropesa del Mar un buen destino para perros?",
+          "a": "Sí, fuera del pico estival (mediados de junio a mediados de septiembre) es excelente. El acceso a la playa es sin restricciones, los restaurantes son acogedores y el parque natural de la Serra d'Irta ofrece senderismo serio."
+        },
+        {
+          "q": "¿Se permiten perros en el complejo Marina d'Or?",
+          "a": "Marina d'Or es un complejo privado y las políticas sobre mascotas varían según la unidad de alojamiento. Verifica directamente al reservar."
+        }
       ],
       "faqsPt": [
-        {"q": "Oropesa del Mar é um bom destino para cães?", "a": "Sim, fora do pico do verão (meados de junho a meados de setembro) é excelente. O acesso à praia é sem restrições, os restaurantes são acolhedores e o parque natural da Serra d'Irta oferece caminhadas sérias."},
-        {"q": "Os cães são permitidos no complexo Marina d'Or?", "a": "Marina d'Or é um complexo privado e as políticas sobre animais variam por unidade de alojamento. Verifique diretamente ao reservar."}
+        {
+          "q": "Oropesa del Mar é um bom destino para cães?",
+          "a": "Sim, fora do pico do verão (meados de junho a meados de setembro) é excelente. O acesso à praia é sem restrições, os restaurantes são acolhedores e o parque natural da Serra d'Irta oferece caminhadas sérias."
+        },
+        {
+          "q": "Os cães são permitidos no complexo Marina d'Or?",
+          "a": "Marina d'Or é um complexo privado e as políticas sobre animais variam por unidade de alojamento. Verifique diretamente ao reservar."
+        }
+      ],
+      "titleDe": "Wichtige Reisetipps für Oropesa del Mar mit Haustier",
+      "introDe": "Oropesa del Mar ist eine entspannte spanische Strandstadt, die Hunde außerhalb der Sommerhochsaison ganz natürlich willkommen heißt. Das Wichtigste: Strandverbote gelten von Mitte Juni bis Mitte September an den Hauptsandstränden, die Hitze ist im Juli und August intensiv und erfordert sorgfältige Planung für Hunde, und die Stadt ist stark autoorientiert, was tatsächlich zu Ihrem Vorteil ist.",
+      "faqsDe": [
+        {
+          "q": "Ist Oropesa del Mar ein gutes Reiseziel für Hunde?",
+          "a": "Ja, außerhalb der Sommerhochsaison (Mitte Juni bis Mitte September) ist es ausgezeichnet. Der Strandzugang ist uneingeschränkt, die Restaurants sind einladend, und der Naturpark Serra d'Irta bietet ernsthafte Wandermöglichkeiten. In der Hochsaison machen Hitze und Strandverbot es weniger ideal, aber mit früh morgendlichen und abendlichen Routinen dennoch machbar."
+        },
+        {
+          "q": "Sind Hunde im Resort Marina d'Or erlaubt?",
+          "a": "Marina d'Or ist ein privater Resortkomplex, und die Haustierrichtlinien variieren je nach Unterkunftseinheit. Prüfen Sie direkt beim jeweiligen Hotel oder Apartment bei der Buchung. Die öffentlichen Bereiche und die Promenade außerhalb des Resorts sind mit angeleinten Hunden zugänglich."
+        }
       ]
     },
     "attractions": {
@@ -699,7 +971,12 @@
           "tipFr": "Allez au coucher de soleil (vers 20h30 en été, 18h30 en hiver) pour la meilleure lumière sur la Méditerranée",
           "tipEs": "Ve al atardecer (hacia las 20:30 en verano, 18:30 en invierno) para la mejor luz sobre el Mediterráneo",
           "tipPt": "Vá ao pôr do sol (cerca das 20:30 no verão, 18:30 no inverno) para a melhor luz sobre o Mediterrâneo",
-          "googleMapsUrl": "https://maps.google.com/?q=Castillo+Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Castillo+Oropesa+del+Mar",
+          "descriptionDe": "Die Burg aus dem 15. Jahrhundert liegt auf einem Vorsprung über der Altstadt und bietet Panoramablicke auf die Küste und die Serra d'Irta. Hunde sind auf dem Außengelände und den Zugangswegen willkommen. Das Innenmuseum hat eingeschränkten Hundezugang, aber die Aussichtspunkte und Zinnen sind ohnehin die eigentliche Attraktion. Der Weg hinauf durch die Straßen der Altstadt führt an weiß getünchten Häusern und einer kleinen mittelalterlichen Kirche vorbei.",
+          "dogPolicyDe": "Hunde auf dem Außengelände willkommen; Einschränkungen im Innenmuseum",
+          "admissionFeeDe": "Kostenlos",
+          "mustTryDe": "Sonnenuntergang von den Burgzinnen, einer der besten Ausblicke an der Costa del Azahar",
+          "tipDe": "Gehen Sie bei Sonnenuntergang (im Sommer etwa 20:30 Uhr, im Winter 18:30 Uhr) für das beste Licht über dem Mittelmeer"
         },
         {
           "name": "Casco Antiguo (Old Town)",
@@ -725,7 +1002,12 @@
           "tipFr": "Visitez en semaine le matin en été, la vieille ville est presque déserte pendant que la plage est bondée",
           "tipEs": "Visita en día laborable por la mañana en verano, el casco antiguo está casi desierto mientras la playa está abarrotada",
           "tipPt": "Visite num dia da semana de manhã no verão, a cidade velha está quase deserta enquanto a praia está cheia",
-          "googleMapsUrl": "https://maps.google.com/?q=Casco+Antiguo+Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Casco+Antiguo+Oropesa+del+Mar",
+          "descriptionDe": "Oropesas mittelalterliche Altstadt liegt auf einem Hügel über dem modernen Strandresort und ist eine echte Überraschung: weiß getünchte Straßen, eine Kirche aus dem 16. Jahrhundert und eine Größe, die es ermöglicht, das Ganze mit einem Hund in 45 Minuten zu erlaufen. Deutlich weniger Touristen als am Strand. Angeleinte Hunde sind in den Fußgängerstraßen und auf dem kleinen Hauptplatz überall willkommen.",
+          "dogPolicyDe": "Angeleinte Hunde überall willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "mustTryDe": "Der Spaziergang vom Strand hinauf durch die verwinkelten Altstadtgassen zum Aussichtspunkt der Burg",
+          "tipDe": "Besuchen Sie sie an einem Sommerwochentag vormittags, die Altstadt ist fast menschenleer, während der Strand überfüllt ist"
         },
         {
           "name": "Ruta dels Tarongers (Orange Grove Cycling Route)",
@@ -751,7 +1033,12 @@
           "tipFr": "Partez tôt en été et prenez un bol pliable pour le chien, les vergers n'ont pas d'ombre une fois les corridors d'arbres passés",
           "tipEs": "Sal temprano en verano y lleva un cuenco plegable para el perro, los huertos no tienen sombra una vez que abandonas los pasillos de árboles",
           "tipPt": "Parta cedo no verão e leve uma taça dobrável para o cão, os pomares não têm sombra assim que sair dos corredores de árvores",
-          "googleMapsUrl": "https://maps.google.com/?q=Ruta+Tarongers+Oropesa+Castellon"
+          "googleMapsUrl": "https://maps.google.com/?q=Ruta+Tarongers+Oropesa+Castellon",
+          "descriptionDe": "Eine flache Rad- und Wanderroute durch die Orangen- und Zitronenhaine des Hinterlands der Plana Alta. Die Route führt durch Cabanes, Torreblanca und Benicàssim, größtenteils auf ruhigen Landstraßen und Wegen. Hunde ohne Leine sind auf den ländlichen Abschnitten möglich. Der Duft der Orangenblüte von Februar bis Mai ist bemerkenswert. Fahrradverleih ist in der Stadt Oropesa verfügbar.",
+          "dogPolicyDe": "Hunde an der Leine auf Straßen; Freilauf auf ländlichen Wegen möglich",
+          "admissionFeeDe": "Kostenlos",
+          "mustTryDe": "Februar bis Mai für die Orangenblüte, der Duft entlang der Route ist außergewöhnlich",
+          "tipDe": "Starten Sie im Sommer früh und nehmen Sie einen faltbaren Wassernapf für den Hund mit, die Haine haben keinen Schatten, sobald Sie die Baumkorridore verlassen"
         },
         {
           "name": "Torre del Rey (watchtower)",
@@ -777,7 +1064,12 @@
           "tipFr": "Un premier arrêt parfait lors de votre promenade matinale avec le chien, calme avant 8h et la lumière est meilleure",
           "tipEs": "Una parada perfecta para el paseo matutino con el perro, tranquila antes de las 8h y la luz es mejor entonces",
           "tipPt": "Uma primeira paragem perfeita no seu passeio matinal com o cão, calmo antes das 8h e a luz é melhor então",
-          "googleMapsUrl": "https://maps.google.com/?q=Torre+del+Rey+Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Torre+del+Rey+Oropesa+del+Mar",
+          "descriptionDe": "Ein Verteidigungswachturm aus dem 16. Jahrhundert, der direkt am Strand am Südende der Playa de la Concha steht. Einer von über 30 Wachtürmen, die entlang dieser Küste gebaut wurden, um vor Überfällen der Barbareskenpiraten zu warnen. Der Turm selbst ist von innen nicht zugänglich, aber der umliegende Strandbereich und der Blick daneben sind einen Halt wert. Hunde an der Leine sind im umliegenden Bereich willkommen.",
+          "dogPolicyDe": "Hunde an der Leine im umliegenden Bereich willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "mustTryDe": "Den Turm bei Sonnenaufgang mit dem Mittelmeer im Hintergrund fotografieren",
+          "tipDe": "Ein perfekter erster Halt bei Ihrem morgendlichen Hundespaziergang, ruhig vor 8 Uhr und dann das beste Licht"
         }
       ],
       "tipsEn": [
@@ -801,20 +1093,56 @@
         "A rota dos laranjais é excelente entre fevereiro e maio pela época da flor de laranjeira."
       ],
       "faqsEn": [
-        {"q": "Can I visit the castle with my dog?", "a": "Yes, the exterior grounds and viewpoints are accessible with dogs on lead. The interior museum may have restrictions. The castle walk is one of the best things to do with a dog in Oropesa."},
-        {"q": "Are there guided tours in Oropesa that allow dogs?", "a": "Most informal walking tours of the old town can accommodate dogs on lead. Boat tours from the fishing port generally do not allow dogs. Check with the local tourist office (Oficina de Turismo, Calle Mestre Ramon) for current options."}
+        {
+          "q": "Can I visit the castle with my dog?",
+          "a": "Yes, the exterior grounds and viewpoints are accessible with dogs on lead. The interior museum may have restrictions. The castle walk is one of the best things to do with a dog in Oropesa."
+        },
+        {
+          "q": "Are there guided tours in Oropesa that allow dogs?",
+          "a": "Most informal walking tours of the old town can accommodate dogs on lead. Boat tours from the fishing port generally do not allow dogs. Check with the local tourist office (Oficina de Turismo, Calle Mestre Ramon) for current options."
+        }
       ],
       "faqsFr": [
-        {"q": "Puis-je visiter le château avec mon chien ?", "a": "Oui, les espaces extérieurs et les belvédères sont accessibles avec des chiens en laisse. L'intérieur du musée peut avoir des restrictions."},
-        {"q": "Y a-t-il des visites guidées à Oropesa qui acceptent les chiens ?", "a": "La plupart des visites pédestres informelles de la vieille ville peuvent accueillir des chiens en laisse. Les excursions en bateau depuis le port de pêche n'acceptent généralement pas les chiens."}
+        {
+          "q": "Puis-je visiter le château avec mon chien ?",
+          "a": "Oui, les espaces extérieurs et les belvédères sont accessibles avec des chiens en laisse. L'intérieur du musée peut avoir des restrictions."
+        },
+        {
+          "q": "Y a-t-il des visites guidées à Oropesa qui acceptent les chiens ?",
+          "a": "La plupart des visites pédestres informelles de la vieille ville peuvent accueillir des chiens en laisse. Les excursions en bateau depuis le port de pêche n'acceptent généralement pas les chiens."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Puedo visitar el castillo con mi perro?", "a": "Sí: los espacios exteriores y miradores son accesibles con perros con correa. El museo interior puede tener restricciones."},
-        {"q": "¿Hay visitas guiadas en Oropesa que admitan perros?", "a": "La mayoría de las visitas peatonales informales del casco antiguo pueden acomodar perros con correa. Las excursiones en barco desde el puerto pesquero generalmente no admiten perros."}
+        {
+          "q": "¿Puedo visitar el castillo con mi perro?",
+          "a": "Sí: los espacios exteriores y miradores son accesibles con perros con correa. El museo interior puede tener restricciones."
+        },
+        {
+          "q": "¿Hay visitas guiadas en Oropesa que admitan perros?",
+          "a": "La mayoría de las visitas peatonales informales del casco antiguo pueden acomodar perros con correa. Las excursiones en barco desde el puerto pesquero generalmente no admiten perros."
+        }
       ],
       "faqsPt": [
-        {"q": "Posso visitar o castelo com o meu cão?", "a": "Sim: os espaços exteriores e miradouros são acessíveis com cães com trela. O museu interior pode ter restrições."},
-        {"q": "Existem visitas guiadas em Oropesa que permitam cães?", "a": "A maioria das visitas pedestres informais da cidade velha pode acomodar cães com trela. As excursões de barco desde o porto de pesca geralmente não permitem cães."}
+        {
+          "q": "Posso visitar o castelo com o meu cão?",
+          "a": "Sim: os espaços exteriores e miradouros são acessíveis com cães com trela. O museu interior pode ter restrições."
+        },
+        {
+          "q": "Existem visitas guiadas em Oropesa que permitam cães?",
+          "a": "A maioria das visitas pedestres informais da cidade velha pode acomodar cães com trela. As excursões de barco desde o porto de pesca geralmente não permitem cães."
+        }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Oropesa del Mar",
+      "introDe": "Oropesa del Mar ist keine Stadt mit großen Museen und Kulturdenkmälern, und genau das macht ihren Reiz für Haustierbesitzer aus. Die Attraktionen sind im Freien: Küstenwandern, historische Burgen, Radfahren durch Orangenhaine und die wilde Serra d'Irta. Ihr Hund kann bei fast allem dabei sein. Die mittelalterliche Altstadt und die Burg auf der Klippe sind die zwei Höhepunkte.",
+      "faqsDe": [
+        {
+          "q": "Kann ich die Burg mit meinem Hund besuchen?",
+          "a": "Ja, das Außengelände und die Aussichtspunkte sind mit angeleinten Hunden zugänglich. Im Innenmuseum können Einschränkungen gelten. Der Burgspaziergang gehört zu den besten Aktivitäten mit Hund in Oropesa."
+        },
+        {
+          "q": "Gibt es geführte Touren in Oropesa, die Hunde zulassen?",
+          "a": "Die meisten informellen Spaziergänge durch die Altstadt können Hunde an der Leine mitnehmen. Bootstouren vom Fischereihafen erlauben in der Regel keine Hunde. Erkundigen Sie sich beim örtlichen Fremdenverkehrsamt (Oficina de Turismo, Calle Mestre Ramon) nach aktuellen Optionen."
+        }
       ]
     },
     "petsitting": {
@@ -851,7 +1179,11 @@
           "tipFr": "Vérifiez les avis mentionnant spécifiquement les vacances à la plage et la chaleur estivale",
           "tipEs": "Revisa las opiniones que mencionen específicamente vacaciones en la playa y calor veraniego",
           "tipPt": "Verifique as avaliações que mencionem especificamente férias de praia e calor de verão",
-          "googleMapsUrl": "https://maps.google.com/?q=Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Oropesa+del+Mar",
+          "descriptionDe": "Rover ist die größte Plattform für Tierbetreuung in Spanien und hat registrierte Sitter in der Region Oropesa del Mar und Benicàssim. Zu den Leistungen zählen Kurzbesuche, Hundeausführen und Haussitting. Buchen Sie im Sommer 2–3 Wochen im Voraus, da lokale Sitter in der Hochsaison schnell ausgebucht sind.",
+          "petPolicyDe": "Alle Hunde akzeptiert (abhängig von Größe/Rasse und Sitter)",
+          "mustTryDe": "Buchen Sie die Option 'Haussitting', Ihr Sitter bleibt mit dem Hund in Ihrer Unterkunft",
+          "tipDe": "Prüfen Sie Bewertungen, die speziell Strandurlaube und Sommerhitze erwähnen, Sie wollen einen Sitter mit Erfahrung in heißer Witterung"
         },
         {
           "name": "Pawshake Castellón / Oropesa",
@@ -877,7 +1209,11 @@
           "tipFr": "Pawshake inclut l'assurance par défaut, utile dans un pays où vous ne connaissez pas les vétérinaires locaux",
           "tipEs": "Pawshake incluye seguro por defecto, útil en un país donde no conoces a los veterinarios locales",
           "tipPt": "O Pawshake inclui seguro por defeito, útil num país onde não conhece os veterinários locais",
-          "googleMapsUrl": "https://maps.google.com/?q=Oropesa+del+Mar"
+          "googleMapsUrl": "https://maps.google.com/?q=Oropesa+del+Mar",
+          "descriptionDe": "Pawshake ist Rovers Hauptkonkurrent in Spanien mit starker Präsenz in der Region Castellón. Hat in der Hochsaison oft mehr verfügbare Sitter in kleineren Städten wie Oropesa. Die Plattform beinhaltet eine Versicherung für alle Buchungen.",
+          "petPolicyDe": "Alle Haustiere akzeptiert",
+          "mustTryDe": "Verwenden Sie es zusammen mit Rover, vergleichen Sie verfügbare Sitter auf beiden Plattformen vor der Buchung",
+          "tipDe": "Pawshake beinhaltet standardmäßig eine Versicherung, nützlich in einem Land, in dem Sie die örtlichen Tierärzte nicht kennen"
         },
         {
           "name": "Residencia Canina Castellón",
@@ -903,7 +1239,11 @@
           "tipFr": "Apportez la nourriture habituelle de votre chien pour éviter les troubles digestifs dus à un changement de marque",
           "tipEs": "Lleva la comida habitual de tu perro para evitar problemas digestivos por un cambio de marca",
           "tipPt": "Traga a comida habitual do seu cão para evitar problemas digestivos por mudança de marca",
-          "googleMapsUrl": "https://maps.google.com/?q=residencia+canina+Castellon"
+          "googleMapsUrl": "https://maps.google.com/?q=residencia+canina+Castellon",
+          "descriptionDe": "Für mehrtägiges Boarding sind die Zwinger am Stadtrand von Castellón de la Plana (30 km, 25 Min.) die professionellste Option. Mehrere Zwinger in der Region Castellón bieten Auslaufflächen im Freien und beaufsichtigte Bewegung. Buchen Sie für die Hochsommerzeit weit im Voraus, die lokale Nachfrage ist hoch.",
+          "petPolicyDe": "Nur Hunde; Impfnachweis erforderlich",
+          "mustTryDe": "Fragen Sie nach klimatisierten Innenbereichen, unerlässlich für Sommeraufenthalte in diesem Klima",
+          "tipDe": "Bringen Sie das gewohnte Futter Ihres Hundes mit, um Verdauungsprobleme durch einen Markenwechsel während eines ohnehin stressigen Aufenthalts zu vermeiden"
         }
       ],
       "tipsEn": [
@@ -927,20 +1267,56 @@
         "Pergunte a qualquer cuidador sobre a sua rotina de gestão do calor."
       ],
       "faqsEn": [
-        {"q": "Is there professional dog boarding near Oropesa del Mar?", "a": "The town itself has limited boarding options. The nearest professional kennels are in the Castellón de la Plana area, 30 km north. Book well in advance for summer stays."},
-        {"q": "Can I find a dog sitter who speaks English in Oropesa?", "a": "Yes, Rover and Pawshake allow you to filter sitters by language. In summer, Oropesa attracts international tourists and several sitters in the area are English-speaking or multilingual."}
+        {
+          "q": "Is there professional dog boarding near Oropesa del Mar?",
+          "a": "The town itself has limited boarding options. The nearest professional kennels are in the Castellón de la Plana area, 30 km north. Book well in advance for summer stays."
+        },
+        {
+          "q": "Can I find a dog sitter who speaks English in Oropesa?",
+          "a": "Yes, Rover and Pawshake allow you to filter sitters by language. In summer, Oropesa attracts international tourists and several sitters in the area are English-speaking or multilingual."
+        }
       ],
       "faqsFr": [
-        {"q": "Y a-t-il une pension canine professionnelle près d'Oropesa del Mar ?", "a": "La ville elle-même a des options de pension limitées. Les chenils professionnels les plus proches sont dans la zone de Castellón de la Plana, à 30 km au nord."},
-        {"q": "Puis-je trouver un gardien d'animaux qui parle français à Oropesa ?", "a": "Oui, Rover et Pawshake permettent de filtrer les gardiens par langue. En été, plusieurs gardiens dans la région parlent français."}
+        {
+          "q": "Y a-t-il une pension canine professionnelle près d'Oropesa del Mar ?",
+          "a": "La ville elle-même a des options de pension limitées. Les chenils professionnels les plus proches sont dans la zone de Castellón de la Plana, à 30 km au nord."
+        },
+        {
+          "q": "Puis-je trouver un gardien d'animaux qui parle français à Oropesa ?",
+          "a": "Oui, Rover et Pawshake permettent de filtrer les gardiens par langue. En été, plusieurs gardiens dans la région parlent français."
+        }
       ],
       "faqsEs": [
-        {"q": "¿Hay alojamiento profesional para perros cerca de Oropesa del Mar?", "a": "La localidad tiene opciones de internamiento limitadas. Las residencias caninas más cercanas están en la zona de Castellón de la Plana, a 30 km al norte."},
-        {"q": "¿Puedo encontrar un cuidador de mascotas que hable español en Oropesa?", "a": "Sí, Rover y Pawshake permiten filtrar cuidadores por idioma. En verano varios cuidadores de la zona hablan español."}
+        {
+          "q": "¿Hay alojamiento profesional para perros cerca de Oropesa del Mar?",
+          "a": "La localidad tiene opciones de internamiento limitadas. Las residencias caninas más cercanas están en la zona de Castellón de la Plana, a 30 km al norte."
+        },
+        {
+          "q": "¿Puedo encontrar un cuidador de mascotas que hable español en Oropesa?",
+          "a": "Sí, Rover y Pawshake permiten filtrar cuidadores por idioma. En verano varios cuidadores de la zona hablan español."
+        }
       ],
       "faqsPt": [
-        {"q": "Existe alojamento profissional para cães perto de Oropesa del Mar?", "a": "A cidade em si tem opções de internamento limitadas. As residências caninas mais próximas ficam na zona de Castellón de la Plana, a 30 km a norte."},
-        {"q": "Posso encontrar um cuidador de animais que fale português em Oropesa?", "a": "Sim, Rover e Pawshake permitem filtrar cuidadores por idioma. No verão, vários cuidadores na área falam português."}
+        {
+          "q": "Existe alojamento profissional para cães perto de Oropesa del Mar?",
+          "a": "A cidade em si tem opções de internamento limitadas. As residências caninas mais próximas ficam na zona de Castellón de la Plana, a 30 km a norte."
+        },
+        {
+          "q": "Posso encontrar um cuidador de animais que fale português em Oropesa?",
+          "a": "Sim, Rover e Pawshake permitem filtrar cuidadores por idioma. No verão, vários cuidadores na área falam português."
+        }
+      ],
+      "titleDe": "Hundesitter & Tierbetreuung in Oropesa del Mar",
+      "introDe": "Oropesa del Mar ist eine kleine Strandstadt, und die professionelle Infrastruktur für Tierbetreuung ist im Vergleich zu größeren Städten begrenzt. Die Hauptoptionen sind die landesweiten Plattformen Rover und Pawshake (die registrierte Sitter in der Region Oropesa und Benicàssim haben), die örtliche Tierarztpraxis, die zu Boarding beraten kann, und informelle Optionen über lokale Facebook-Gruppen für die Expat- und internationale Gemeinschaft.",
+      "faqsDe": [
+        {
+          "q": "Gibt es professionelles Hunde-Boarding in der Nähe von Oropesa del Mar?",
+          "a": "Die Stadt selbst hat begrenzte Boarding-Optionen. Die nächsten professionellen Zwinger befinden sich im Raum Castellón de la Plana, 30 km nördlich. Buchen Sie für Sommeraufenthalte weit im Voraus."
+        },
+        {
+          "q": "Finde ich in Oropesa einen englischsprachigen Hundesitter?",
+          "a": "Ja, bei Rover und Pawshake können Sie Sitter nach Sprache filtern. Im Sommer zieht Oropesa internationale Touristen an, und mehrere Sitter in der Region sind englischsprachig oder mehrsprachig."
+        }
       ]
     }
   }

@@ -39,7 +39,11 @@
           "tipFr": "Il se trouve juste à côté de la gare, pratique si vous arrivez en train régional CP avec votre chien",
           "tipEs": "Está justo al lado de la estación, práctico si llegas en tren regional de CP con tu perro",
           "tipPt": "Fica mesmo junto à estação, prático se chegar de comboio regional da CP com o seu cão",
-          "googleMapsUrl": "https://maps.google.com/?q=Petiscais+Olh%C3%A3o"
+          "googleMapsUrl": "https://maps.google.com/?q=Petiscais+Olh%C3%A3o",
+          "descriptionDe": "Ein kreatives portugiesisches Restaurant im überdachten Kai des Bahnhofs von Olhão, das Thunfisch-Tataki, Schwertfisch, Schweinebäckchen, Kabeljau und Ceviche neben Pasta und Burgern serviert. Gäste mit Hunden berichten, dass das Personal gerne Außentische für sie herrichtet, was es zu einem der zuverlässigsten hundefreundlichen Orte der Stadt macht.",
+          "petPolicyDe": "Angeleinte Hunde an den Außentischen willkommen; das Personal ist an vierbeinige Gäste gewöhnt",
+          "mustTryDe": "Thunfisch-Tataki und der frische Fisch des Tages",
+          "tipDe": "Es liegt direkt am Bahnhof, praktisch, wenn Sie mit dem CP-Regionalzug und Hund anreisen"
         },
         {
           "name": "Café do Mercado",
@@ -65,7 +69,11 @@
           "tipFr": "Allez-y tôt le samedi, matin de marché, quand l'avenue est la plus animée",
           "tipEs": "Ve temprano el sábado, mañana de mercado, cuando la avenida está más animada",
           "tipPt": "Vá cedo ao sábado, manhã de mercado, quando a avenida está mais animada",
-          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+do+Mercado+Olh%C3%A3o"
+          "googleMapsUrl": "https://maps.google.com/?q=Caf%C3%A9+do+Mercado+Olh%C3%A3o",
+          "descriptionDe": "Ein traditionelles Café-Restaurant an der Marktallee, wo sich Einheimische zu gegrilltem Fisch, Galões und Pastéis de Nata treffen, mit Terrassentischen mit Blick auf die rotbraunen Markthallen und die Ria Formosa. Die Außensitzplätze entlang der Esplanade sind der natürliche Platz mit Hund, während Sie zusehen, wie die Fähren zu den Inseln aufbrechen.",
+          "petPolicyDe": "Terrassensitzplätze; angeleinte Hunde üblich auf Algarve-Esplanaden, beim Personal bestätigen",
+          "mustTryDe": "Gegrillte Sardinen in der Saison und ein Galão zum Thekenpreis",
+          "tipDe": "Gehen Sie früh am Samstag hin, dem Markttag, wenn die Allee am lebendigsten ist"
         }
       ],
       "tipsEn": [
@@ -143,6 +151,22 @@
           "q": "Os restaurantes disponibilizam água para os cães?",
           "a": "Muitas esplanadas trazem uma taça se pedir, mas não é tão automático como em Lisboa ou Faro. Leve uma taça de viagem, sobretudo no verão, quando a calçada aquece."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Olhão",
+      "introDe": "Olhão ist eine Fischerstadt mit Arbeitercharakter, und ihre gastronomische Szene dreht sich um die beiden Uferhallen-Märkte und einfache Fisch-Tascas statt um Touristenmeilen. Wie überall in der Algarve sind Terrassentische die Standardlösung für Hundebesitzer: angeleinte Hunde werden draußen weitgehend akzeptiert, während der Zugang im Innenbereich vom jeweiligen Inhaber abhängt (das portugiesische Recht erlaubt ihn nur dort, wo das Lokal einen entsprechenden Aufkleber zeigt). Die Allee bei den Märkten und die Straßen der Altstadt bieten reichlich Esplanadas zur Auswahl; die beiden unten genannten Lokale haben nachweislich gute Erfahrungen mit Hunden.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde in Olhão mit in Restaurants hinein?",
+          "a": "Nur wenn sich das Lokal dafür entscheidet und den offiziellen Aufkleber zeigt, wie es das portugiesische Recht seit 2018 erlaubt. In der Praxis begrüßen die meisten Lokale in Olhão angeleinte Hunde stattdessen auf ihren Terrassen, und das milde Klima macht Außentische fast das ganze Jahr über nutzbar."
+        },
+        {
+          "q": "Sind Hunde in den berühmten Märkten von Olhão erlaubt?",
+          "a": "Nicht in den Markthallen selbst, die als Arbeitsmärkte für Fisch und Erzeugnisse dienen. Die umliegende Esplanade und die Samstags-Bauernstände draußen sind mit angeleintem Hund kein Problem."
+        },
+        {
+          "q": "Stellen Restaurants Wasser für Hunde bereit?",
+          "a": "Viele Terrassenlokale bringen auf Nachfrage einen Napf, aber es ist nicht so selbstverständlich wie in Lissabon oder Faro. Nehmen Sie einen Reisenapf mit, besonders im Sommer, wenn die Pflastertemperaturen steigen."
+        }
       ]
     },
     "parks": {
@@ -172,7 +196,9 @@
           "tip": "Mornings and after 18:00 are the comfortable slots in July and August; there is little shade at midday",
           "tipFr": "Le matin et après 18 h sont les créneaux confortables en juillet-août ; il y a peu d'ombre à midi",
           "tipEs": "Por la mañana y después de las 18:00 son las franjas cómodas en julio y agosto; hay poca sombra al mediodía",
-          "tipPt": "De manhã e depois das 18h00 são os horários confortáveis em julho e agosto; há pouca sombra ao meio-dia"
+          "tipPt": "De manhã e depois das 18h00 são os horários confortáveis em julho e agosto; há pouca sombra ao meio-dia",
+          "descriptionDe": "Im Oktober 2023 von der Gemeinde innerhalb des östlichen Uferparks eröffnet, ist dies Olhãos Vorzeige-Hundepark: über 4.000 m2 eingezäuntes Gelände, auf dem Hunde sicher frei laufen können. Er ist mit Agility-Ausstattung ausgestattet, darunter Tunnel, Sprungring, Brücken und Sprungstangen, und liegt innerhalb des größeren Parque do Levante für eine Aufwärmrunde an der Leine.",
+          "tipDe": "Morgens und nach 18:00 Uhr sind im Juli und August die angenehmen Zeiten; mittags gibt es kaum Schatten"
         },
         {
           "name": "Parque de Desporto e Lazer dos Pinheiros de Marim",
@@ -191,7 +217,9 @@
           "tip": "Combine it with the quiet lanes towards Marim for a longer walk away from traffic",
           "tipFr": "Combinez-le avec les chemins calmes vers Marim pour une plus longue balade loin du trafic",
           "tipEs": "Combínalo con los caminos tranquilos hacia Marim para un paseo más largo lejos del tráfico",
-          "tipPt": "Combine-o com os caminhos calmos para Marim para um passeio mais longo longe do trânsito"
+          "tipPt": "Combine-o com os caminhos calmos para Marim para um passeio mais longo longe do trânsito",
+          "descriptionDe": "Ein städtischer Sport- und Freizeitpark in einem Pinienwald am Stadtrand, Heimat von Olhãos erstem eingezäunten Hundepark neben Laufstrecken und Picknickplätzen. Die Pinien spenden echten Schatten, was ihn zur besseren Sommerwahl macht, und der Wald selbst ist ein angenehmer Schnüffelspaziergang an der Leine zwischen den Runden im Gehege.",
+          "tipDe": "Kombinieren Sie ihn mit den ruhigen Wegen Richtung Marim für einen längeren Spaziergang abseits des Verkehrs"
         },
         {
           "name": "Jardim Pescador Olhanense",
@@ -210,7 +238,9 @@
           "tip": "During the Festival do Marisco in August the garden is packed and loud; walk the Levante side instead",
           "tipFr": "Pendant le Festival do Marisco en août, le jardin est bondé et bruyant ; préférez le côté Levante",
           "tipEs": "Durante el Festival do Marisco en agosto el jardín está abarrotado y ruidoso; camina mejor por el lado del Levante",
-          "tipPt": "Durante o Festival do Marisco em agosto o jardim fica cheio e barulhento; passeie antes do lado do Levante"
+          "tipPt": "Durante o Festival do Marisco em agosto o jardim fica cheio e barulhento; passeie antes do lado do Levante",
+          "descriptionDe": "Olhãos Hauptuferpark seit 1984, entlang der Ria Formosa direkt westlich der städtischen Märkte, mit altem Baumbestand, Rasenflächen und der beliebtesten Flanierpromenade der Stadt. Mit einem angeleinten Hund schließt er nahtlos an den Jardim Patrão Joaquim Lopes und den Fähranleger an, eine einfache flache Runde mit Wasserblick und morgendlichem Schatten.",
+          "tipDe": "Während des Festival do Marisco im August ist der Garten überfüllt und laut; gehen Sie stattdessen auf der Levante-Seite spazieren"
         }
       ],
       "tipsEn": [
@@ -287,6 +317,22 @@
         {
           "q": "Há sombra para os dias quentes?",
           "a": "Os Pinheiros de Marim são a opção com sombra graças ao pinhal. Os jardins da ribeira têm árvores mas grandes troços abertos; evite o meio-dia em julho e agosto."
+        }
+      ],
+      "titleDe": "Parks & Spaziergänge für Hunde in Olhão",
+      "introDe": "Für eine kleine Stadt investiert Olhão ernsthaft in seine Hunde: Die Gemeinde hat ein Netz eingezäunter Hundeparks aufgebaut, beginnend mit Pinheiros de Marim und dem 4.000 m2 großen Parque Canino do Levante, mit weiteren geplant im gesamten Concelho. Dazu kommen die palmengesäumten Uferanlagen zwischen den Märkten und der Marina, sodass Sie einfache Spaziergänge an der Leine mit Blick auf die Ria Formosa und richtige Freilaufflächen haben, alles kostenlos.",
+      "faqsDe": [
+        {
+          "q": "Hat Olhão einen Freilauf-Hundepark?",
+          "a": "Ja, gleich zwei: das eingezäunte Gehege bei Pinheiros de Marim und den 4.000 m2 großen Parque Canino do Levante mit Agility-Ausstattung, eröffnet 2023. Die Gemeinde hat weitere Hundeparks im gesamten Concelho angekündigt, unter anderem in Fuseta und Pechão."
+        },
+        {
+          "q": "Kann mein Hund die Uferpromenade entlanglaufen?",
+          "a": "Ja, an der Leine. Die Promenade verläuft vom Jardim Pescador Olhanense an den Märkten vorbei bis zum Levante-Park, durchgehend flach mit Blick auf die Ria Formosa."
+        },
+        {
+          "q": "Gibt es Schatten für heiße Tage?",
+          "a": "Pinheiros de Marim ist dank seines Pinienwalds die schattige Option. Die Uferanlagen haben Bäume, aber auch große offene Abschnitte, meiden Sie also die Mittagszeit im Juli und August."
         }
       ]
     },
@@ -425,6 +471,22 @@
           "q": "As raças categorizadas têm regras de transporte adicionais?",
           "a": "Sim. As transportadoras portuguesas excluem as raças potencialmente perigosas dos autocarros e, em geral, estes cães têm de usar trela e açaime em todo o espaço público segundo a lei portuguesa, o que na prática inclui barcos e estações."
         }
+      ],
+      "titleDe": "Mit Haustieren unterwegs in Olhão",
+      "introDe": "Olhão selbst ist kompakt und flach, an den meisten Tagen gehen Sie also einfach zu Fuß. Die beiden wichtigen Verkehrsfragen betreffen die Inselboote und den Regionalzug. Die Linienfähren nach Armona, Culatra und Farol nehmen nur Hunde und Katzen mit, und nur in einer Transportbox, was die meisten mittelgroßen und großen Hunde ausschließt; die privaten Wassertaxis sind die hundefreundliche Alternative. CP-Regionalzüge auf der Linha do Algarve nehmen angeleinte, mit Maulkorb ausgestattete Hunde zum halben Fahrpreis mit, was Faro und Tavira zu einfachen Tagesausflügen macht.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit der Fähre nach Armona oder Culatra mitnehmen?",
+          "a": "Nur in einer Transportbox: Die Linienboote nehmen Hunde und Katzen ausschließlich in einem geeigneten Käfig oder einer Box mit. Für Hunde, die dafür zu groß sind, nehmen private Wassertaxis vom selben Ufer aus Hunde für etwa 30-50 EUR pro Boot und Fahrt mit an Bord."
+        },
+        {
+          "q": "Sind Hunde im Zug von Olhão nach Faro erlaubt?",
+          "a": "Ja. Kleine Haustiere reisen kostenlos in einer geschlossenen Transportbox, und größere Hunde reisen mit Maulkorb an kurzer Leine zum halben Fahrpreis, erhältlich am Fahrkartenschalter, mit Impf- und Chipnachweis."
+        },
+        {
+          "q": "Gelten für gelistete Rassen zusätzliche Beförderungsregeln?",
+          "a": "Ja. Portugiesische Beförderer schließen als potenziell gefährlich eingestufte Rassen von Bussen aus, und ganz allgemein müssen diese Hunde nach portugiesischem Recht an allen öffentlichen Orten Leine und Maulkorb tragen, was in der Praxis auch Boote und Bahnhöfe einschließt."
+        }
       ]
     },
     "beaches": {
@@ -543,6 +605,22 @@
           "q": "Como levo um cão grande até às praias das ilhas?",
           "a": "As carreiras regulares só aceitam cães em transportadora, por isso reserve um táxi aquático privado, que aceita cães no convés. Depois de desembarcar, mantenha o cão pela trela: as ilhas fazem parte do Parque Natural da Ria Formosa e os seus habitats de aves são sensíveis."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände rund um Olhão",
+      "introDe": "Ehrlich gesagt: Olhão hat keinen offiziell ausgewiesenen Hundestrand, und das portugiesische Badegesetz verbietet Hunde an den überwachten Badestränden während der Saison, was für Olhãos fünf Badegewässer (Armona-Mar, Armona-Ria, Fuseta-Mar, Fuseta-Ria und Cavacos) vom 1. Juni bis 30. September gilt, mit Bußgeldern bei Verstößen. Die eigentliche Magie liegt in den anderen acht Monaten: von Oktober bis Mai können Sie mit einem angeleinten Hund kilometerweit über nahezu leeren Atlantiksand auf den vorgelagerten Inseln der Ria Formosa laufen. Halten Sie sich im Sommer an die frühe Fähre, an nicht konzessionierte Abschnitte weit weg von den Flaggen, und richten Sie sich immer nach der Beschilderung vor Ort, denn Toleranz ist kein Recht.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde im Sommer an den Inselstränden von Olhão erlaubt?",
+          "a": "Nicht an den überwachten Badestränden: Das portugiesische Recht schließt Hunde während der Saison von bewachten Badebereichen aus, für Olhãos fünf Badegewässer vom 1. Juni bis 30. September, mit Bußgeldern. Abseits der Konzessionen ist die Toleranz unterschiedlich, und die Beschilderung hat immer Vorrang, daher lautet die sichere Antwort für einen Sommer-Strandtag mit Hund: früh morgens, weit weg von den Flaggen, oder einfach ein anderer Monat."
+        },
+        {
+          "q": "Wann ist die beste Zeit für einen Hundestrandtag bei Olhão?",
+          "a": "Oktober bis Mai. Die Fähren fahren weiterhin, die Atlantikstrände von Armona und Culatra sind praktisch leer, die Temperaturen passen deutlich besser zu Hunden, und außerhalb der Badesaison ist das Gehen an der Leine uneingeschränkt möglich."
+        },
+        {
+          "q": "Wie bringe ich einen großen Hund zu den Inselstränden?",
+          "a": "Die Linienfähren nehmen Hunde nur in Transportboxen mit, buchen Sie also ein privates Wassertaxi, das Hunde an Deck akzeptiert. Nach der Ankunft halten Sie den Hund angeleint: Die Inseln gehören zum Naturpark Ria Formosa, dessen Vogellebensräume empfindlich sind."
+        }
       ]
     },
     "vets": {
@@ -575,7 +653,10 @@
           "tipEs": "Guarda el móvil de urgencias +351 967 721 777; el fijo atiende en horario de oficina",
           "tipPt": "Guarde o telemóvel de urgência +351 967 721 777; o fixo atende em horário de expediente",
           "googleMapsUrl": "https://maps.google.com/?q=Centro+Veterin%C3%A1rio+Porto+Seguro+Olh%C3%A3o",
-          "photo": "/images/city-places/olhao-vets-porto-seguro.jpg"
+          "photo": "/images/city-places/olhao-vets-porto-seguro.jpg",
+          "hoursDe": "Tagsüber Sprechstunden; Notfallberatungen rund um die Uhr verfügbar (Mobil +351 967 721 777)",
+          "descriptionDe": "Eine seit langem etablierte Klinik in Olhão mit Sprechstunden, Impfungen, Chirurgie, Diagnostik, Laborarbeiten und einem Tiershop, und, entscheidend für Reisende, dringenden Beratungen rund um die Uhr über die Notrufnummer. Sie liegt in der Stadt selbst, kurz mit dem Auto oder Taxi vom Ufer entfernt.",
+          "tipDe": "Speichern Sie die Notruf-Mobilnummer +351 967 721 777; das Festnetz ist zu den Bürozeiten besetzt"
         },
         {
           "name": "Clínica Veterinária 115 Animal",
@@ -597,7 +678,10 @@
           "tipEs": "Llama antes incluso en una urgencia para que el veterinario de guardia prepare tu llegada",
           "tipPt": "Ligue antes, mesmo numa urgência, para que o veterinário de serviço prepare a sua chegada",
           "googleMapsUrl": "https://maps.google.com/?q=Cl%C3%ADnica+Veterin%C3%A1ria+115+Animal+Olh%C3%A3o",
-          "photo": "/images/city-places/olhao-vets-115-animal.jpg"
+          "photo": "/images/city-places/olhao-vets-115-animal.jpg",
+          "hoursDe": "Geöffnet Montag bis Sonntag einschließlich Feiertage; 24-Stunden-Notdienst",
+          "descriptionDe": "Eine zentral in Olhão gelegene Klinik mit ungewöhnlich langen Öffnungszeiten, sieben Tage die Woche einschließlich Feiertage, unterstützt durch einen 24-Stunden-Notdienst. Ihre Lage nahe dem Zentrum macht sie zur praktischen ersten Anlaufstelle, wenn während eines Tages rund um die Märkte oder das Ufer etwas passiert.",
+          "tipDe": "Rufen Sie auch im Notfall vorher an, damit sich der Bereitschaftstierarzt auf Ihre Ankunft vorbereiten kann"
         },
         {
           "name": "Hospital Veterinário do Algarve (Faro)",
@@ -619,7 +703,10 @@
           "tipEs": "Guarda el +351 289 880 100 antes de los días de isla; desde el muelle de Olhão puedes llegar en unos 20 minutos",
           "tipPt": "Guarde o +351 289 880 100 antes dos dias de ilha; do cais de Olhão chega lá em cerca de 20 minutos",
           "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterin%C3%A1rio+do+Algarve+Faro",
-          "photo": "/images/city-places/olhao-vets-hospital-veterinario-algarve.jpg"
+          "photo": "/images/city-places/olhao-vets-hospital-veterinario-algarve.jpg",
+          "hoursDe": "24/7",
+          "descriptionDe": "Das regionale Überweisungskrankenhaus, 10-15 Autominuten von Olhão entfernt, mit rund um die Uhr besetztem Personal, Chirurgie, Bildgebung und Intensivpflege. Für alles, was über eine Standarduntersuchung hinausgeht, Schlangenbiss, Hitzschlag, schweres Trauma, verweisen die örtlichen Kliniken selbst nachts an dieses Krankenhaus.",
+          "tipDe": "Speichern Sie +351 289 880 100 vor Inseltagen; vom Anleger in Olhão aus sind Sie in etwa 20 Minuten dort"
         }
       ],
       "tipsEn": [
@@ -697,6 +784,22 @@
           "q": "Os veterinários de Olhão falam inglês?",
           "a": "A grande comunidade internacional do Algarve faz com que o inglês seja falado habitualmente nas clínicas de Olhão e Faro. Para receitas, leve o passaporte europeu ou o boletim sanitário do seu animal."
         }
+      ],
+      "titleDe": "Tierärzte in Olhão",
+      "introDe": "Olhão ist für eine Stadt dieser Größe gut versorgt, mit Kliniken, die 24-Stunden-Notfallberatungen in der Stadt anbieten, sowie einem vollwertigen 24/7-Tierkrankenhaus zehn Minuten entfernt in Faro. Speichern Sie beide Nummern vor einem Ausflug auf die Inseln, wo es überhaupt keine tierärztliche Versorgung gibt und die Bootsfahrt im Notfall wertvolle Minuten kostet. Die portugiesische Notrufnummer für Menschen ist 112; für Tiere rufen Sie die Kliniken direkt an.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Olhão einen 24-Stunden-Tierarzt?",
+          "a": "Zwei städtische Kliniken, Centro Veterinário Porto Seguro und Clínica Veterinária 115 Animal, werben mit 24-Stunden-Notfallberatungen, und das Hospital Veterinário do Algarve in Faro, 10-15 Minuten entfernt, betreibt ein vollwertiges 24/7-Krankenhaus. Rufen Sie immer zuerst an, damit sich das Bereitschaftsteam vorbereiten kann."
+        },
+        {
+          "q": "Worauf sollte ich bei einem Hund an der Algarve achten?",
+          "a": "Leishmaniose durch Sandmücken (von Frühling bis Herbst Schutz durch Repellent verwenden), Hitzschlag im Sommer, Prozessionsspinner unter Pinien im Spätwinter und Frühling sowie Salzwasseraufnahme an Strandtagen."
+        },
+        {
+          "q": "Sprechen Tierärzte in Olhão Englisch?",
+          "a": "Dank der großen internationalen Gemeinschaft der Algarve wird in Kliniken in Olhão und Faro häufig Englisch gesprochen. Bringen Sie für Rezepte den EU-Heimtierausweis oder das Gesundheitsheft Ihres Haustiers mit."
+        }
       ]
     },
     "attractions": {
@@ -730,7 +833,11 @@
           "tipFr": "Le samedi matin est le grand marché hebdomadaire ; venez avant 10 h pour éviter la foule et la chaleur",
           "tipEs": "El sábado por la mañana es el gran mercado semanal; ve antes de las 10:00 para evitar gentío y calor",
           "tipPt": "O sábado de manhã é o grande mercado semanal; vá antes das 10h00 para evitar a multidão e o calor",
-          "googleMapsUrl": "https://maps.google.com/?q=Mercados+de+Olh%C3%A3o"
+          "googleMapsUrl": "https://maps.google.com/?q=Mercados+de+Olh%C3%A3o",
+          "descriptionDe": "Die beiden roten Backstein-Markthallen von 1916, eine für Fisch und eine für Obst und Gemüse, sind das schlagende Herz von Olhão und zählen zu den besten Lebensmittelmärkten Südportugals. Hunde dürfen die Markthallen selbst nicht betreten, aber das Arkaden-Äußere, die Samstags-Bauernstände draußen und die Uferesplanade rundherum bieten einen schönen Spaziergang an der Leine, und die Leute zu beobachten ist grandios.",
+          "dogPolicyDe": "In den Markthallen nicht erlaubt; angeleinte Hunde draußen und auf der Esplanade in Ordnung",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Samstagmorgen ist der große Wochenmarkt; gehen Sie vor 10:00 Uhr hin, um sowohl Menschenmassen als auch Hitze zu vermeiden"
         },
         {
           "name": "Bairro da Barreta (cubist old town)",
@@ -753,7 +860,11 @@
           "tipFr": "La chaux renvoie la chaleur l'été ; parcourez le quartier tôt le matin quand les ruelles sont encore fraîches et vides",
           "tipEs": "La cal rebota el calor en verano; recorre el barrio a primera hora cuando las callejuelas siguen frescas y vacías",
           "tipPt": "A cal reflete o calor no verão; percorra o bairro de manhã cedo quando as ruelas ainda estão frescas e vazias",
-          "googleMapsUrl": "https://maps.google.com/?q=Igreja+Nossa+Senhora+do+Ros%C3%A1rio+Olh%C3%A3o"
+          "googleMapsUrl": "https://maps.google.com/?q=Igreja+Nossa+Senhora+do+Ros%C3%A1rio+Olh%C3%A3o",
+          "descriptionDe": "Olhãos ältestes Viertel ist ein Labyrinth aus weiß getünchten Flachdach-Würfelhäusern mit Außentreppen und Dachterrassen (açoteias), ein Stadtbild, geprägt von Jahrhunderten des Handels mit Nordafrika und einzigartig an der Algarve. Es ist ein unschlagbarer kostenloser Hundespaziergang: ruhige Gassen, schattige Ecken, Straßenkunst, und die Pfarrkirche Nossa Senhora do Rosário im Zentrum, deren Äußeres und Platz der klassische Fotostopp sind.",
+          "dogPolicyDe": "Öffentliche Straßen, angeleinte Hunde willkommen; Kircheninnenraum tabu",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Das Weiß reflektiert im Sommer die Hitze; gehen Sie früh morgens durchs Viertel, wenn die Gassen noch kühl und leer sind"
         },
         {
           "name": "Quinta de Marim (Centro de Educação Ambiental)",
@@ -776,7 +887,11 @@
           "tipFr": "Même si le chien reste au logement, le moulin à marée et les observatoires justifient le détour pour les humains",
           "tipEs": "Aunque el perro se quede en el alojamiento, el molino de mareas y los observatorios justifican el desvío para los humanos",
           "tipPt": "Mesmo que o cão fique no alojamento, o moinho de maré e os observatórios justificam o desvio para os humanos",
-          "googleMapsUrl": "https://maps.google.com/?q=Quinta+de+Marim+Olh%C3%A3o"
+          "googleMapsUrl": "https://maps.google.com/?q=Quinta+de+Marim+Olh%C3%A3o",
+          "descriptionDe": "Das 60 Hektar große Hauptquartiergelände des Naturparks Ria Formosa mit einem 3 km langen, beschilderten Rundweg vorbei an Dünen, Salzwiesen, einer historischen Gezeitenmühle, römischen Salzgewinnungsanlagen, Vogelbeobachtungshütten und den Zwingern des Portugiesischen Wasserhundes, der hier vor dem Aussterben gerettet wurde. Der Eintritt kostet etwa 3 EUR. Eine Besucherhaustierrichtlinie ist nicht veröffentlicht, und es befindet sich ein Wildtier-Auffangzentrum vor Ort, rufen Sie also vor dem Besuch mit Hund unter +351 289 700 210 an.",
+          "dogPolicyDe": "Nicht veröffentlicht; Wildtier-Auffangzentrum vor Ort, vor dem Besuch mit Hund unter +351 289 700 210 anrufen",
+          "admissionFeeDe": "Etwa 3 EUR (kostenlos für Einwohner der Algarve)",
+          "tipDe": "Selbst wenn der Hund in der Unterkunft bleibt, lohnen die Gezeitenmühle und die Vogelbeobachtungshütten den Umweg für die Menschen"
         }
       ],
       "tipsEn": [
@@ -853,6 +968,22 @@
         {
           "q": "Qual é a melhor época para vir com um cão?",
           "a": "Maio, ou do fim de setembro a outubro: mar ameno, barcos em funcionamento, calçada a temperatura suave e restrições de praia ainda não iniciadas ou acabadas de terminar. O inverno é igualmente agradável para passear, com a maioria das esplanadas abertas."
+        }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Olhão",
+      "introDe": "Olhãos Sehenswürdigkeiten liegen fast alle im Freien, was perfekt zu einem Hund passt: die roten Backstein-Markthallen von 1916 am Ufer, die weiß getünchten Würfelhäuser der alten Fischerviertel, die der Stadt ihren Spitznamen 'kubistisch' eingebracht haben, und die Lagune selbst. Ein angeleinter Hund kann bei fast allem dabei sein außer den Marktinnenräumen und Kircheninnenräumen, und das flache Gelände macht die ganze Stadt zu einem einzigen zusammenhängenden Spaziergang.",
+      "faqsDe": [
+        {
+          "q": "Was kann ich mit meinem Hund in Olhão tatsächlich besichtigen?",
+          "a": "Fast alles, worauf es ankommt: die Marktaußenbereiche und die Esplanade, die ganze kubistische Altstadt, die Uferanlagen und Bootsausflüge mit dem Wassertaxi. Nur die Markthallen, Kircheninnenräume und (noch zu bestätigen) der Rundweg von Quinta de Marim erfordern, den Hund zurückzulassen."
+        },
+        {
+          "q": "Lohnt sich Olhão im Vergleich zu größeren Algarve-Resorts?",
+          "a": "Mit Hund durchaus mehr: Es ist eine echte Stadt statt ein Resort, mit ganzjährigem Leben, flachen Wegen, städtischen Hundeparks und den Inseln vor der Haustür, und man vermeidet die Klippentreppen und Menschenmassen der westlichen Algarve."
+        },
+        {
+          "q": "Was ist die beste Jahreszeit für einen Besuch mit Hund?",
+          "a": "Mai oder Ende September bis Oktober: warmes Meer, geöffnete Fähren, milde Pflastertemperaturen, und die Strandbeschränkungen haben entweder noch nicht begonnen oder sind gerade zu Ende. Auch der Winter ist zum Spazierengehen angenehm, mit den meisten noch geöffneten Terrassen."
         }
       ]
     },
@@ -965,6 +1096,22 @@
           "q": "A água da torneira é segura para cães, e o calor?",
           "a": "A água da torneira é segura em todo o Portugal. O calor é o verdadeiro risco de junho a setembro: passeie cedo e ao fim do dia, evite a calçada escaldante, nunca deixe o cão no carro e lembre-se de que as ilhas quase não têm sombra."
         }
+      ],
+      "titleDe": "Wichtige Tipps für einen Besuch in Olhão mit Haustier",
+      "introDe": "Olhão belohnt Hundebesitzer, die um zwei Realitäten herum planen: das Strandverbot während der Badesaison (1. Juni bis 30. September) und die Transportbox-Pflicht auf den Inselfähren. Bekommen Sie das richtig hin, durch Timing außerhalb der Saison oder ein Wassertaxi, und die Stadt ist eine der einfachsten Basen an der Algarve: flach, gut zu Fuß erkundbar, bodenständig freundlich, mit städtischen Hundeparks und 24-Stunden-Tierarztversorgung. Portugal ist ein EU-Land, daher gelten für die Einreise der übliche EU-Heimtierausweis, Mikrochip und Tollwutimpfung.",
+      "faqsDe": [
+        {
+          "q": "Ist Olhão ein hundefreundliches Reiseziel?",
+          "a": "Ja, mit dem richtigen Kalender. Die Stadt selbst ist wirklich unkompliziert: flache Straßen, Terrassenrestaurants, städtische Hundeparks, Tierärzte mit 24-Stunden-Versorgung. Die Inseln und Strände sind von Oktober bis Mai wunderbar mit Hund, aber der Sommer bringt die landesweiten Beschränkungen der Badesaison und Transportbox-Pflicht auf den Fähren."
+        },
+        {
+          "q": "Welche Dokumente braucht mein Hund für Portugal?",
+          "a": "Aus einem anderen EU-Land: EU-Heimtierausweis, Mikrochip und gültige Tollwutimpfung. Gehört Ihr Hund zu Portugals gelisteten Rassen, erwarten Sie Leinen- und Maulkorbpflicht in der Öffentlichkeit sowie den Ausschluss von öffentlichen Verkehrsmitteln."
+        },
+        {
+          "q": "Ist Leitungswasser für Hunde sicher, und wie steht es mit der Hitze?",
+          "a": "Leitungswasser ist in ganz Portugal unbedenklich. Die Hitze ist von Juni bis September das eigentliche Risiko: gehen Sie früh und spät spazieren, meiden Sie heißes Pflaster, lassen Sie einen Hund nie im Auto zurück, und denken Sie daran, dass die Inseln kaum Schatten bieten."
+        }
       ]
     },
     "petsitting": {
@@ -989,7 +1136,9 @@
           "tipFr": "Écrivez à deux ou trois gardiens avec vos dates avant de choisir ; les disponibilités estivales en Algarve partent vite",
           "tipEs": "Escribe a dos o tres cuidadores con tus fechas antes de elegir; la disponibilidad estival en el Algarve vuela",
           "tipPt": "Escreva a dois ou três cuidadores com as suas datas antes de escolher; a disponibilidade de verão no Algarve esgota depressa",
-          "photo": "/images/city-places/olhao-petsitting-pawshake.jpg"
+          "photo": "/images/city-places/olhao-petsitting-pawshake.jpg",
+          "descriptionDe": "Pawshake listet versicherte örtliche Sitter und Gassigeher rund um Olhão, Faro und Tavira für Hausbesuche, Tagesbetreuung und Übernachtung, alles gebucht und bezahlt über die Plattform mit Fotoupdates. Profile zeigen Bewertungen früherer Besitzer, und jede Buchung beinhaltet tierärztlichen Versicherungsschutz.",
+          "tipDe": "Schreiben Sie zwei oder drei Sitter mit Ihren Daten an, bevor Sie sich entscheiden; die Sommerverfügbarkeit an der Algarve verschwindet schnell"
         },
         {
           "name": "Rover (Algarve)",
@@ -1003,7 +1152,9 @@
           "tipFr": "Organisez une rencontre le jour de votre arrivée pour que le gardien soit un visage connu avant d'en avoir besoin",
           "tipEs": "Organiza un encuentro el día de tu llegada para que el cuidador sea una cara conocida antes de necesitarlo",
           "tipPt": "Combine um primeiro encontro no dia da chegada para que o cuidador seja uma cara conhecida antes de precisar dele",
-          "photo": "/images/city-places/olhao-petsitting-rover.jpg"
+          "photo": "/images/city-places/olhao-petsitting-rover.jpg",
+          "descriptionDe": "Rover, der weltweit größte Sitter-Marktplatz, ist in ganz Portugal aktiv und zeigt Sitter und Gassigeher entlang des Korridors Faro-Olhão, von einstündigen Spaziergängen bis zur mehrtägigen Betreuung im Haus. Buchung, Bezahlung und Nachrichten laufen über die App, mit einem Hintergrundprüfungs-Abzeichen bei geprüften Profilen.",
+          "tipDe": "Vereinbaren Sie am Anreisetag ein Kennenlerntreffen, damit der Sitter ein bekanntes Gesicht ist, bevor Sie ihn brauchen"
         }
       ],
       "tipsEn": [
@@ -1080,6 +1231,22 @@
         {
           "q": "Um cuidador pode levar o meu cão às ilhas?",
           "a": "Só com o seu acordo explícito e as mesmas regras que enfrentaria: transportadora na carreira ou táxi aquático, trela no parque natural. A maioria dos donos reserva antes passeios na cidade, fáceis na ribeira plana."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassigehen in Olhão",
+      "introDe": "Für Momente, in denen ein Hund nicht mitkommen kann, eine ausgiebige Markterkundung, eine Vogelbeobachtungshütte, eine Bootstour ohne Hunde, ist Olhão durch dieselben internationalen Sitter-Plattformen abgedeckt, die auch Faro bedienen, mit Sittern in den von Auswanderern geprägten Orten der östlichen Algarve. Buchen Sie für Juli und August im Voraus, wenn die Nachfrage von Urlaubern mit Haustieren ihren Höhepunkt erreicht.",
+      "faqsDe": [
+        {
+          "q": "Gibt es professionelle Haustiersitter in Olhão?",
+          "a": "Ja, über die internationalen Plattformen Pawshake und Rover, die beide Sitter in Olhão und der umliegenden östlichen Algarve zeigen. Die große Auswanderer-Gemeinschaft der Region hält das Angebot außerhalb des Hochsommers ausreichend."
+        },
+        {
+          "q": "Wie viel kostet Haustierbetreuung an der Algarve?",
+          "a": "Rechnen Sie mit etwa 10-15 EUR für einen Spaziergang oder Hausbesuch und 15-25 EUR pro Nacht für die Unterbringung, im August etwas mehr. Die Preise werden von jedem Sitter auf der Plattform selbst festgelegt."
+        },
+        {
+          "q": "Kann ein Sitter meinen Hund auf die Inseln mitnehmen?",
+          "a": "Nur mit Ihrer ausdrücklichen Zustimmung und denselben Regeln, denen Sie selbst begegnen würden: Transportbox auf der Fähre oder ein Wassertaxi, Leine im Naturpark. Die meisten Besitzer buchen stattdessen Spaziergänge in der Stadt, was das flache Ufer einfach macht."
         }
       ]
     }

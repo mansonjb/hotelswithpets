@@ -38,7 +38,11 @@
           "tipFr": "Commandez au comptoir puis prenez une table côté fleuve. La vue sur le pont au coucher du soleil (vers 21h en juin) est le meilleur spot photo de la ville.",
           "tipEs": "Pide en la barra y luego coge una mesa al borde del río. La vista del puente al atardecer (sobre las 21:00 en junio) es el mejor sitio para fotos de la ciudad.",
           "tipPt": "Peça no balcão e depois apanhe uma mesa à beira-rio. A vista da ponte ao pôr do sol (cerca das 21:00 em junho) é o melhor sítio para fotos da cidade.",
-          "googleMapsUrl": "https://maps.google.com/?q=Historische+Wurstkuchl+Regensburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Historische+Wurstkuchl+Regensburg",
+          "descriptionDe": "Gilt als die älteste Wurstküche der Welt und grillt seit 1146 Regensburger Bratwurst auf Buchenholz. Winzige Holzstube und eine lange Freiluftterrasse entlang der Donau, im Schatten der Steinernen Brücke.",
+          "petPolicyDe": "Hunde an den Außentischen entlang der Donau willkommen, Wassernäpfe auf Anfrage",
+          "mustTryDe": "6 oder 12 Regensburger Bratwürste mit Sauerkraut und süßem Senf",
+          "tipDe": "Bestellen Sie am Tresen und sichern Sie sich dann einen Tisch am Fluss. Der Blick auf die Brücke bei Sonnenuntergang (im Juni gegen 21:00 Uhr) ist der beste Fotoplatz der Stadt."
         },
         {
           "name": "Spitalgarten",
@@ -64,7 +68,11 @@
           "tipFr": "Traversez le Steinerne Brücke depuis l'Altstadt, 5 min à pied. Self-service pour les boissons, service à table pour les plats chauds.",
           "tipEs": "Cruza el Steinerne Brücke desde el Altstadt, 5 min a pie. Autoservicio para bebidas, servicio en mesa para platos calientes.",
           "tipPt": "Atravesse o Steinerne Brücke a partir do Altstadt, 5 min a pé. Self-service para as bebidas, serviço à mesa para os pratos quentes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Spitalgarten+Regensburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Spitalgarten+Regensburg",
+          "descriptionDe": "Klassischer bayerischer Biergarten unter Kastanien, seit 1226 von der Spital-Brauerei betrieben. Liegt direkt am Nordufer der Donau gegenüber der Steinernen Brücke, mit 1.200 Plätzen und der größten hundefreundlichen Außenterrasse der Stadt.",
+          "petPolicyDe": "Hunde unter den Kastanien willkommen, Wassernäpfe an der Theke",
+          "mustTryDe": "Schweinshaxe, Obatzda, Spital Weißbier",
+          "tipDe": "Gehen Sie über die Steinerne Brücke von der Altstadt aus, die Anfahrt dauert nur 5 Minuten. Getränke gibt es zur Selbstbedienung, warme Gerichte werden bestellt."
         },
         {
           "name": "Brauerei zum Hofbräuhaus Regensburg",
@@ -90,7 +98,11 @@
           "tipFr": "La cour pavée se remplit en premier les soirs chauds, réservez de mai à septembre. La stube voûtée est plus fraîche en été.",
           "tipEs": "El patio empedrado se llena primero en las noches cálidas, reserva de mayo a septiembre. La stube abovedada es más fresca en verano.",
           "tipPt": "O pátio empedrado enche-se primeiro nas noites quentes, reserve de maio a setembro. A stube abobadada é mais fresca no verão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hofbraeuhaus+Regensburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Hofbraeuhaus+Regensburg",
+          "descriptionDe": "Historische Brauerei und Wirtshaus in einem Gebäude aus dem 15. Jahrhundert, zwei Minuten vom Dom entfernt. Gewölbte Stube innen, kleiner Kopfsteinpflasterhof außen, vollständige bayerische Speisekarte und hauseigenes Hofbräuhaus-Bier, direkt vor Ort gebraut.",
+          "petPolicyDe": "Ruhige, angeleinte Hunde in der gewölbten Stube und im Kopfsteinpflasterhof willkommen",
+          "mustTryDe": "Schweinsbraten mit Knödel, hauseigenes Hofbräuhaus Hell",
+          "tipDe": "Der Kopfsteinpflasterhof ist an warmen Abenden zuerst voll, buchen Sie von Mai bis September im Voraus. Die gewölbte Stube innen ist im Sommer die kühlere Option."
         }
       ],
       "tipsEn": [
@@ -153,7 +165,19 @@
           "a": "Não. Não há suplemento por levar um cão. As taças de água oferecem-se quase sempre a pedido, sem custo."
         }
       ],
-      "titlePt": "Restaurantes pet-friendly em Ratisbona, Wurstkuchl e cervejarias"
+      "titlePt": "Restaurantes pet-friendly em Ratisbona, Wurstkuchl e cervejarias",
+      "titleDe": "Hundefreundliche Restaurants in Regensburg, Wurstkuchl & Biergärten",
+      "introDe": "Regensburgs UNESCO-Altstadt ist so klein, dass man sie mit Hund in 30 Minuten von einem Ende zum anderen durchqueren kann. Die bayerische Wirtshauskultur heißt ruhige, angeleinte Hunde standardmäßig willkommen, und die Donauterrassen rund um die Steinerne Brücke bieten die fotogensten hundefreundlichen Tische der Stadt.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Regensburger Restaurants erlaubt?",
+          "a": "Ja, in der Regel. Die bayerische Wirtshauskultur heißt ruhige, angeleinte Hunde auch drinnen weit offener willkommen als in südeuropäischen Ländern. Etwa 80 bis 90 Prozent der Regensburger Restaurants akzeptieren Hunde sowohl innen als auch auf der Terrasse."
+        },
+        {
+          "q": "Verlangen Regensburger Restaurants einen Aufpreis für Hunde?",
+          "a": "Nein. Es gibt keinen Aufpreis, wenn Sie einen Hund mitbringen. Wassernäpfe werden auf Anfrage fast immer kostenlos angeboten."
+        }
+      ]
     },
     "parks": {
       "titleEn": "Best Dog Parks & Walks in Regensburg, Stadtpark & Donau Paths",
@@ -207,7 +231,10 @@
           "tipFr": "Idéal tôt le matin ou après 18h en été pour l'ombre et le calme. L'entrée est se trouve à 7 minutes à pied du Dom.",
           "tipEs": "Mejor a primera hora o después de las 18:00 en verano para sombra y calma. La entrada este queda a 7 minutos a pie del Dom.",
           "tipPt": "Melhor de manhã cedo ou depois das 18:00 no verão para sombra e calma. A entrada leste fica a 7 minutos a pé do Dom.",
-          "googleMapsUrl": "https://maps.google.com/?q=Stadtpark+Regensburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Stadtpark+Regensburg",
+          "leashRuleDe": "Leinenpflicht auf Wiesen und Hauptwegen",
+          "descriptionDe": "Die zentrale öffentliche Grünanlage der Stadt, angelegt auf dem Gelände eines Friedhofs aus dem 19. Jahrhundert südlich der Altstadt. Alte Platanen, Teiche, Wiesen und schattige Wege. Die größte Grünfläche in der Nähe der historischen Altstadt.",
+          "tipDe": "Am besten früh morgens oder nach 18:00 Uhr im Sommer, wegen Schatten und Ruhe. Der Osteingang ist 7 Gehminuten vom Dom entfernt."
         },
         {
           "name": "Donau riverside path (Jahninsel & Grieser Spitz)",
@@ -251,7 +278,10 @@
           "tipFr": "Traversez l'Eiserne Brücke piétonne depuis l'Altstadt. La lumière du couchant sur les flèches de la cathédrale depuis la pointe ouest est la meilleure photo gratuite de la ville.",
           "tipEs": "Cruza el puente peatonal Eiserne Brücke desde el Altstadt. La luz del atardecer sobre las agujas de la catedral desde la punta oeste es la mejor foto gratis de la ciudad.",
           "tipPt": "Atravesse a ponte pedonal Eiserne Brücke a partir do Altstadt. A luz do pôr do sol sobre as torres da catedral a partir da ponta oeste é a melhor fotografia gratuita da cidade.",
-          "googleMapsUrl": "https://maps.google.com/?q=Jahninsel+Regensburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Jahninsel+Regensburg",
+          "leashRuleDe": "Leinenpflicht auf den Wegen, Freilauf auf den westlichen Wiesen geduldet",
+          "descriptionDe": "Lange, schmale Insel in der Donau zwischen Altstadt und Stadtamhof. Flache Kieswege, große Wiesen, alte Bäume und ununterbrochener Blick zurück auf den Dom. Der beliebteste Nachmittagsspaziergang der Einheimischen.",
+          "tipDe": "Überqueren Sie die Eiserne Brücke von der Altstadt aus. Das Sonnenuntergangslicht auf den Domtürmen von der Westspitze aus ist das beste kostenlose Foto der Stadt."
         },
         {
           "name": "Dörnbergpark",
@@ -295,7 +325,10 @@
           "tipFr": "10 minutes à pied à l'ouest de l'Altstadt. La Hundeauslaufzone clôturée se remplit de locaux entre 17h et 19h en semaine.",
           "tipEs": "10 minutos a pie al oeste del Altstadt. La Hundeauslaufzone vallada se llena de locales entre las 17:00 y las 19:00 entre semana.",
           "tipPt": "10 minutos a pé a oeste do Altstadt. A Hundeauslaufzone vedada enche-se de locais entre as 17:00 e as 19:00 nos dias de semana.",
-          "googleMapsUrl": "https://maps.google.com/?q=Doernbergpark+Regensburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Doernbergpark+Regensburg",
+          "leashRuleDe": "Leinenpflicht; kleine markierte Freilaufwiese",
+          "descriptionDe": "Ein englischer Landschaftspark aus dem Jahr 1804 rund um die neugotische Villa Dörnberg. Alte Platanen, formale Rasenflächen und eine eingezäunte Hundeauslaufzone am Südrand. Ein ruhiger Favorit der Nachbarschaft.",
+          "tipDe": "10 Gehminuten westlich der Altstadt. Die eingezäunte Hundeauslaufzone füllt sich werktags zwischen 17:00 und 19:00 Uhr mit Einheimischen."
         }
       ],
       "tipsEn": [
@@ -357,6 +390,18 @@
           "q": "O meu cão pode nadar em Ratisbona?",
           "a": "Sim. A Hundebadeplatz oficial no Danúbio a oeste da cidade, no bairro de Winzer, é o sítio mais fácil dentro da cidade, com entrada de gravilha pouco profunda. Os locais também deixam os cães banhar-se no Regen fora do centro histórico."
         }
+      ],
+      "titleDe": "Beste Hundeparks & Spaziergänge in Regensburg, Stadtpark & Donauwege",
+      "introDe": "Regensburg ist eine grüne Stadt: Der Stadtpark liegt fünf Minuten nördlich der Altstadt, Donau und Regen bieten lange, flache Uferspaziergänge, und das bayerische Waldrecht erlaubt Hunden Freilauf auf markierten Waldwegen am Stadtrand.",
+      "faqsDe": [
+        {
+          "q": "Wo darf mein Hund in Regensburg ohne Leine laufen?",
+          "a": "Zwei Hauptoptionen innerhalb der Stadt: die eingezäunte Hundeauslaufzone im Dörnbergpark und die westlichen Wiesen der Jahninsel, wo Freilauf geduldet wird. Für mehr Freiheit unterliegen die Waldwege nördlich des Regen dem bayerischen Waldrecht und erlauben ganzjährig Freilauf auf markierten Wegen."
+        },
+        {
+          "q": "Kann mein Hund in Regensburg schwimmen?",
+          "a": "Ja. Der offizielle Hundebadeplatz an der Donau westlich der Stadt im Stadtteil Winzer ist der einfachste innerstädtische Ort zum Schwimmen mit Hund, mit flachem Kieseinstieg. Einheimische lassen ihre Hunde auch im Regen außerhalb der Altstadt schwimmen."
+        }
       ]
     },
     "transport": {
@@ -386,7 +431,10 @@
           "tipFr": "Réservez les billets ICE via l'app DB Navigator, ajoutez le chien comme Reisende (voyageur) lors de la réservation pour avoir le billet animal à 50 %.",
           "tipEs": "Reserva los billetes ICE en la app DB Navigator, añade el perro como Reisende (viajero) al reservar para tener el billete mascota al 50 %.",
           "tipPt": "Reserve os bilhetes ICE na app DB Navigator, adicione o cão como Reisende (viajante) ao reservar para ter o bilhete animal a 50 %.",
-          "googleMapsUrl": "https://maps.google.com/?q=Regensburg+Hauptbahnhof"
+          "googleMapsUrl": "https://maps.google.com/?q=Regensburg+Hauptbahnhof",
+          "descriptionDe": "Der Regensburger Hauptbahnhof liegt an der ICE/IC-Strecke zwischen München und Leipzig. Direkter ICE nach München (1 Std. 30 Min.), Nürnberg (1 Std. 05 Min.) und Leipzig (4 Std.). Das regionale Bayern-Ticket gilt für ganz Bayern, einschließlich des Hundes zum Kindertarif.",
+          "petPolicyDe": "Kleine Hunde (bis ca. 25 cm Schulterhöhe) reisen in einer Transportbox kostenlos. Größere Hunde benötigen ein Kinderticket (50 Prozent) und müssen angeleint und mit Maulkorb versehen sein.",
+          "tipDe": "Buchen Sie ICE-Tickets über die DB Navigator App und fügen Sie den Hund bei der Buchung als Reisenden hinzu, um das 50-Prozent-Haustierticket zu erhalten."
         },
         {
           "name": "RVV Bus & S-Bahn",
@@ -405,7 +453,10 @@
           "tipFr": "Le TagesTicket (1 jour, toutes zones RVV, 1 adulte + 1 chien) couvre la journée pour environ 6,50 €. Achat aux distributeurs ou via l'app RVV.",
           "tipEs": "El TagesTicket (1 día, todas las zonas RVV, 1 adulto + 1 perro) cubre el día por unos 6,50 €. Cómpralo en las máquinas o en la app RVV.",
           "tipPt": "O TagesTicket (1 dia, todas as zonas RVV, 1 adulto + 1 cão) cobre o dia por cerca de 6,50 €. Compre nas máquinas ou na app RVV.",
-          "googleMapsUrl": "https://maps.google.com/?q=RVV+Regensburg"
+          "googleMapsUrl": "https://maps.google.com/?q=RVV+Regensburg",
+          "descriptionDe": "Der Regensburger Verkehrsverbund betreibt die städtischen und regionalen Buslinien sowie die S-Bahn-Linien, die Regensburg mit Neumarkt, Schwandorf und Landshut verbinden. Keine Straßenbahn oder U-Bahn; Busse bedienen die Stadt im 15-Minuten-Takt.",
+          "petPolicyDe": "Kleine Hunde in Transportboxen und Assistenzhunde fahren kostenlos. Größere Hunde benötigen ein Kinderticket; für Nicht-Kleinhunderassen gilt im RVV-Bus Maulkorbpflicht.",
+          "tipDe": "Das TagesTicket (1 Tag, alle RVV-Stadtzonen, 1 Erwachsener + 1 Hund) kostet für einen ganzen Tag etwa 6,50 EUR. Erhältlich an jedem Fahrkartenautomaten oder über die RVV-App."
         },
         {
           "name": "Munich Airport (MUC) Express",
@@ -424,7 +475,10 @@
           "tipFr": "Avec un grand chien, le combiné S-Bahn + ALX/ICE jusqu'à Munich Hbf puis S8 vers MUC est la route la plus fiable, autorisée sur tous les segments avec billet animal.",
           "tipEs": "Con un perro grande, combinar S-Bahn + ALX/ICE hasta Múnich Hbf y luego S8 al MUC es la ruta más fiable, permitida en todos los tramos con billete mascota.",
           "tipPt": "Com um cão grande, a combinação S-Bahn + ALX/ICE até Munique Hbf e depois S8 para o MUC é a rota mais fiável, permitida em todos os troços com bilhete animal.",
-          "googleMapsUrl": "https://maps.google.com/?q=Regensburg+Munich+Airport+Shuttle"
+          "googleMapsUrl": "https://maps.google.com/?q=Regensburg+Munich+Airport+Shuttle",
+          "descriptionDe": "Direkter Shuttle-Van-Service vom Stadtzentrum Regensburg zum Flughafen München in etwa 90 Minuten. Der nächstgelegene große internationale Knotenpunkt, mit globalen Verbindungen, die der kleine Flughafen Nürnberg nicht bieten kann.",
+          "petPolicyDe": "Kleine Hunde in einer Transportbox werden bei Buchung auf Anfrage akzeptiert; größere Hunde nach Einzelfallprüfung.",
+          "tipDe": "Bei einem großen Hund ist die Strecke S-Bahn + ALX/ICE nach München Hbf und dann S8 zum MUC die zuverlässigste Route, auf allen Streckenabschnitten mit Haustierticket erlaubt."
         }
       ],
       "tipsEn": [
@@ -486,6 +540,18 @@
           "q": "Como vou de Munique a Ratisbona com cão?",
           "a": "ICE ou ALX (Alex) directo em cerca de 1h30 de Munique Hbf a Ratisbona Hbf. Cães pequenos em transportadora grátis; cães maiores precisam de bilhete animal infantil e açaime. Reserve no DB Navigator."
         }
+      ],
+      "titleDe": "Haustierfreundliche Verkehrsmittel in Regensburg, RVV-Bus, S-Bahn & ICE",
+      "introDe": "Regensburgs kompakte UNESCO-Altstadt lässt sich in 20 Minuten von einem Ende zum anderen durchqueren. Das RVV-Busnetz und die regionale S-Bahn erschließen das weitere Stadtgebiet, beide sind hundefreundlich nach den üblichen bayerischen Regeln. Direkte ICE-Züge verbinden München, Nürnberg und Leipzig, und der Flughafen München ist der nächstgelegene internationale Knotenpunkt.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund im RVV-Bus in Regensburg mitnehmen?",
+          "a": "Ja. Kleine Hunde in einer Transportbox reisen kostenlos; größere Hunde benötigen ein Kinderticket (etwa 1,80 EUR), und für Nicht-Kleinhunderassen gilt im RVV-Bus Maulkorbpflicht. Leinenpflicht besteht immer."
+        },
+        {
+          "q": "Wie komme ich mit Hund von München nach Regensburg?",
+          "a": "Direkter ICE oder ALX (Alex) in etwa 1 Std. 30 Min. vom Münchner Hauptbahnhof zum Regensburger Hauptbahnhof. Kleine Hunde in einer Transportbox fahren kostenlos; größere Hunde benötigen ein Kinder-Haustierticket und einen Maulkorb. Buchung über die DB Navigator App."
+        }
       ]
     },
     "beaches": {
@@ -538,7 +604,10 @@
           "tipFr": "Idéal en fin de matinée. Méfiez-vous du courant du Danube après la fonte des neiges (avril à mai) ; la zone peu profonde est la plus sûre pour les chiens timides.",
           "tipEs": "Mejor a media mañana. Cuidado con la corriente del Danubio tras el deshielo (abril a mayo); la zona poco profunda es la más segura para nadadores tímidos.",
           "tipPt": "Melhor a meio da manhã. Cuidado com a corrente do Danúbio após o degelo (abril a maio); a zona pouco profunda é a mais segura para nadadores tímidos.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hundebadeplatz+Winzer+Regensburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Hundebadeplatz+Winzer+Regensburg",
+          "leashRuleDe": "Freilauf innerhalb der markierten Hundebadezone",
+          "descriptionDe": "Der offizielle Hundebadeplatz der Stadt am Südufer der Donau im Stadtteil Winzer. Kies- und Grasufer, flaches Wasser, ausgeschilderter Bereich. Der zentralste Hundebadeplatz in Regensburg.",
+          "tipDe": "Am besten am späten Vormittag. Vorsicht bei der Donauströmung nach der Frühjahrsschneeschmelze (April bis Mai); der flache Bereich ist am sichersten für unsichere Schwimmer."
         },
         {
           "name": "Guggenberger See",
@@ -580,7 +649,10 @@
           "tipFr": "Prenez la S1 jusqu'à Regenstauf puis 15 minutes à pied. Le lac atteint 22 à 24 degrés en juillet et août.",
           "tipEs": "Toma la S1 hasta Regenstauf y 15 minutos a pie. El lago alcanza 22 a 24 grados en julio y agosto.",
           "tipPt": "Apanhe a S1 até Regenstauf e 15 minutos a pé. O lago atinge 22 a 24 graus em julho e agosto.",
-          "googleMapsUrl": "https://maps.google.com/?q=Guggenberger+See"
+          "googleMapsUrl": "https://maps.google.com/?q=Guggenberger+See",
+          "leashRuleDe": "Eigener Hundestrand am Nordufer; sonst Leinenpflicht",
+          "descriptionDe": "Ehemalige Kiesgrube, umgewandelt in einen sauberen Badesee, 15 Minuten nördlich von Regensburg mit der S-Bahn. Ein ausgeschilderter Hundestrand am Nordufer bietet im Sommer rund 200 m Gras und flaches Wasser für Hunde.",
+          "tipDe": "Nehmen Sie die S1 nach Regenstauf, dann 15 Minuten zu Fuß. Der See erwärmt sich im Juli und August auf 22 bis 24 Grad."
         },
         {
           "name": "Großer Brombachsee Hundestrand",
@@ -622,7 +694,10 @@
           "tipFr": "Vaut une journée complète en juillet ou août. La Hundestrand sud d'Allmannsdorf est la plus facile, parking gratuit à 200 m.",
           "tipEs": "Merece una excursión de día completo en julio o agosto. La Hundestrand sur de Allmannsdorf es la más fácil, aparcamiento gratis a 200 m.",
           "tipPt": "Vale uma excursão de dia inteiro em julho ou agosto. A Hundestrand sul de Allmannsdorf é a mais fácil, estacionamento gratuito a 200 m.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hundestrand+Brombachsee"
+          "googleMapsUrl": "https://maps.google.com/?q=Hundestrand+Brombachsee",
+          "leashRuleDe": "Freilauf innerhalb markierter Hundestrandzonen",
+          "descriptionDe": "Der größte See im Fränkischen Seenland, etwa 1 Std. 15 Min. mit dem Auto westlich von Regensburg. Drei ausgeschilderte Hundestrandzonen am Südufer bieten 200 bis 400 m Sand zum Schwimmen und Toben, der Goldstandard unter den bayerischen Sommer-Hundestränden.",
+          "tipDe": "Lohnt sich als ganztägiger Ausflug im Juli oder August. Der südliche Hundestrand bei Allmannsdorf ist am einfachsten zu erreichen, kostenloser Parkplatz 200 m entfernt."
         }
       ],
       "tipsEn": [
@@ -684,6 +759,18 @@
           "q": "O Danúbio é seguro para o meu cão nadar?",
           "a": "Sim, dentro da zona oficial Hundebadeplatz Winzer, onde a margem é pouco profunda e a corrente mais fraca. Evite o canal central que atravessa o Altstadt, com mais tráfego fluvial e corrente; a zona de banho sinalizada é a opção segura."
         }
+      ],
+      "titleDe": "Hundefreundliche Wasserstellen in Regensburg, Donau & Seen",
+      "introDe": "Regensburg liegt am Zusammenfluss von Donau und Regen, rund 500 km vom nächsten Meer entfernt. Die Stadt hat einen offiziell ausgewiesenen Hundebadeplatz an der Donau westlich des Zentrums, dazu einfache Tagesausflüge zu bayerischen Hundestränden wie dem Guggenberger See und dem Hundestrand am Brombachsee.",
+      "faqsDe": [
+        {
+          "q": "Wo können Hunde in oder bei Regensburg schwimmen?",
+          "a": "Der Hundebadeplatz Winzer an der Donau westlich der Stadt ist die einfachste Option in der Stadt. Für einen Tagesausflug bieten der Guggenberger See (15 Minuten mit der S-Bahn) und der Hundestrand am Brombachsee (1 Std. 15 Min. mit dem Auto) beide ausgewiesene Zonen mit flachem Wasser."
+        },
+        {
+          "q": "Ist die Donau sicher zum Schwimmen für meinen Hund?",
+          "a": "Ja, innerhalb der offiziellen Zone des Hundebadeplatzes Winzer, wo das Ufer flach und die Strömung schwächer ist. Meiden Sie die zentrale Flussrinne durch die Altstadt, wo Bootsverkehr und Strömung stärker sind; die ausgewiesene Badezone ist die sichere Wahl."
+        }
       ]
     },
     "vets": {
@@ -726,7 +813,10 @@
           "tipFr": "La ligne d'urgence 24h est le +49 941 946 50 50 ; appelez avant d'amener votre animal pour qu'ils se preparent.",
           "tipEs": "La linea de urgencias 24h es +49 941 946 50 50; llama antes de llevar a tu mascota para que se preparen.",
           "tipPt": "A linha de urgências 24h é +49 941 946 50 50; ligue antes de levar o seu animal para que se preparem.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Regensburg+Merianweg+3"
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Regensburg+Merianweg+3",
+          "descriptionDe": "Eine auf Kleintiere spezialisierte Klinik am Merianweg westlich des Zentrums, gegründet von Dr. Uwe Romberger, mit einem rund-um-die-Uhr-Notdienst neben Tageskonsultationen. Chirurgie, Bildgebung und stationäre Pflege sind vor Ort verfügbar. Rufen Sie vorher an, damit der diensthabende Tierarzt vor Ihrer Ankunft eine Ersteinschätzung vornehmen kann.",
+          "specialtiesDe": "Notfall, Chirurgie, Innere Medizin, Bildgebung",
+          "tipDe": "Die 24-Stunden-Notfallnummer lautet +49 941 946 50 50; rufen Sie an, bevor Sie Ihr Haustier bringen, damit man sich vorbereiten kann."
         },
         {
           "name": "AniCura Tierklinik Regensburg (Haslbach)",
@@ -758,7 +848,10 @@
           "tipFr": "Pendant les urgences de nuit, le telephone peut rester sans reponse ; la clinique demande de venir directement.",
           "tipEs": "Durante las urgencias nocturnas el telefono puede no responder; la clinica pide acudir directamente.",
           "tipPt": "Durante as urgências noturnas o telefone pode não ser atendido; a clínica pede para ir diretamente.",
-          "googleMapsUrl": "https://maps.google.com/?q=AniCura+Regensburg+Hofer+Strasse+11"
+          "googleMapsUrl": "https://maps.google.com/?q=AniCura+Regensburg+Hofer+Strasse+11",
+          "descriptionDe": "Diese zur AniCura-Gruppe gehörende Klinik in Haslbach nordöstlich des Zentrums bietet einen 24-Stunden-Notdienst mit Chirurgie und Intensivpflege. Während der Notfallzeiten bittet das Team darum, direkt zu kommen, statt sich auf das Telefon zu verlassen. Eine solide zweite Option, falls Die Tierklinik ausgelastet ist.",
+          "specialtiesDe": "Notfall, Chirurgie, Intensivpflege, Diagnostik",
+          "tipDe": "Während der nächtlichen Notfallzeiten wird das Telefon möglicherweise nicht abgenommen; die Klinik bittet, direkt zu kommen."
         },
         {
           "name": "Kleintierpraxis Dr. Angelika Ranzinger",
@@ -790,7 +883,10 @@
           "tipFr": "Pour un controle sante voyage UE, appelez un ou deux jours avant.",
           "tipEs": "Para un control de salud de viaje UE, llama uno o dos dias antes.",
           "tipPt": "Para um controlo de saúde de viagem na UE, ligue um ou dois dias antes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kleintierpraxis+Ranzinger+Weissenburgstrasse+15+Regensburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Kleintierpraxis+Ranzinger+Weissenburgstrasse+15+Regensburg",
+          "descriptionDe": "Eine angesehene Tagespraxis für Kleintiere im Ostenviertel östlich der Altstadt, praktisch für Routineversorgung, Impfungen und EU-Reisedokumente während Ihres Aufenthalts. Keine 24-Stunden-Klinik, nutzen Sie daher für nächtliche Notfälle Die Tierklinik oder AniCura Haslbach. Eine telefonische Terminvereinbarung wird empfohlen.",
+          "specialtiesDe": "Routineversorgung, Impfungen, Reisezertifikate",
+          "tipDe": "Für eine EU-Reisegesundheitsuntersuchung rufen Sie ein bis zwei Tage im Voraus an."
         }
       ],
       "tipsEn": [
@@ -851,6 +947,18 @@
         {
           "q": "Quanto custa uma visita ao veterinário em Ratisbona?",
           "a": "As tarifas seguem o GOT alemão (tabela veterinária): consulta clássica 30 a 60 €, urgência 80 a 150 € mais diagnóstico. Cirurgias maiores 600 a 2500 €. Os seguros europeus de animais costumam reembolsar."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte [24h] in Regensburg, Tierkliniken & Haustierpflege",
+      "introDe": "Regensburg verfügt über eine solide tierärztliche Versorgung mit einer 24-Stunden-Notfallklinik im Gewerbepark sowie mehreren Tagespraxen. Die Standards sind hoch, die deutsche Tiermedizin zählt zu den besten in Europa.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Regensburg einen 24-Stunden-Tierarzt?",
+          "a": "Ja, die Tierklinik Regensburg im Gewerbepark nördlich des Zentrums ist rund um die Uhr geöffnet, mit vollständiger Chirurgie und Intensivpflege. Rufen Sie vor der Anfahrt unter +49 941 4646464 zur Ersteinschätzung an."
+        },
+        {
+          "q": "Wie viel kostet ein Tierarztbesuch in Regensburg?",
+          "a": "Die Standardgebühren richten sich nach der deutschen GOT (Gebührenordnung für Tierärzte): reguläre Konsultation 30 bis 60 EUR, Notfallbesuch 80 bis 150 EUR zuzüglich Diagnostik. Größere Operationen 600 bis 2.500 EUR. EU-Haustierversicherungen erstatten oft die Kosten."
         }
       ]
     },
@@ -931,6 +1039,18 @@
           "q": "Ratisbona é boa para um fim de semana longo com cão?",
           "a": "Sim. Três dias chegam para percorrer o Altstadt UNESCO, dedicar um dia às margens do Danúbio na Jahninsel e na Hundebadeplatz Winzer, e uma excursão à Walhalla ou ao Guggenberger See. Os comboios tornam as ligações rápidas."
         }
+      ],
+      "titleDe": "Reisetipps für einen Besuch in Regensburg mit Hund",
+      "introDe": "Regensburg gehört zu den einfachsten kleinen deutschen Städten für einen Besuch mit Hund: kompakte UNESCO-Altstadt, bayerische Wirtshauskultur, die Hunde standardmäßig einschließt, und kurze Wege zum Donauufer. Die wenigen Dinge, die man wissen sollte, betreffen die Sommerhitze auf dem Kopfsteinpflaster, die Listenhunde-Regelungen und die Anreise über den Flughafen München.",
+      "faqsDe": [
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch in Regensburg mit Hund?",
+          "a": "Mai bis Anfang Juli und September bis Mitte Oktober. Die Tagestemperaturen liegen bei 18 bis 24 Grad, die Uferwege sind ruhig genug für die geduldeten Freilaufzonen, und das Kopfsteinpflaster ist kühl. Der Winter ist möglich (für bayerische Verhältnisse mild, etwa 0 bis 5 Grad), aber der Weihnachtsmarkttrubel nach 17:00 Uhr stresst viele Hunde."
+        },
+        {
+          "q": "Eignet sich Regensburg für ein langes Wochenende mit Hund?",
+          "a": "Ja. Drei Tage reichen aus, um die UNESCO-Altstadt zu erkunden, einen Donau-Uferausflug zur Jahninsel und zum Hundebadeplatz Winzer zu machen sowie einen Tagesausflug zur Walhalla oder zum Guggenberger See zu unternehmen. Die Züge halten die Reisezeiten für weitere Verbindungen kurz."
+        }
       ]
     },
     "attractions": {
@@ -962,7 +1082,10 @@
           "tipFr": "Traversez au coucher du soleil (vers 21h en juin) pour la lumière dorée sur les flèches de la cathédrale. Évitez 11h-14h en été quand les groupes saturent le pont.",
           "tipEs": "Cruza al atardecer (sobre las 21:00 en junio) para la luz dorada sobre las agujas. Evita 11:00 a 14:00 en verano cuando los grupos saturan el puente.",
           "tipPt": "Atravesse ao pôr do sol (cerca das 21:00 em junho) para a luz dourada nas torres. Evite 11:00 às 14:00 no verão quando os grupos saturam a ponte.",
-          "googleMapsUrl": "https://maps.google.com/?q=Steinerne+Bruecke+Regensburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Steinerne+Bruecke+Regensburg",
+          "descriptionDe": "Die steinerne Brücke aus dem 12. Jahrhundert über die Donau, 308 m lang und das Wahrzeichen von Regensburg. Seit 2008 vollständig für Fußgänger, verbindet der freie Bogen die Altstadt mit Stadtamhof und bietet weite Ausblicke auf den Dom.",
+          "petPolicyDe": "Hunde an der Leine willkommen, rund um die Uhr geöffnet, kostenlos",
+          "tipDe": "Überqueren Sie die Brücke bei Sonnenuntergang (im Juni gegen 21:00 Uhr) für das goldene Licht auf den Domtürmen. Vermeiden Sie 11:00 bis 14:00 Uhr im Sommer, wenn Reisegruppen die Brücke füllen."
         },
         {
           "name": "Domplatz & Regensburg Cathedral exterior",
@@ -983,7 +1106,10 @@
           "tipFr": "Les vêpres des Domspatzen sont chantées plusieurs jours par semaine ; la musique porte sur la place dehors, écoute dog-friendly.",
           "tipEs": "Las vísperas de los Domspatzen se cantan varios días a la semana; la música se oye en la plaza fuera, escucha pet-friendly.",
           "tipPt": "As vésperas dos Domspatzen são cantadas vários dias por semana; a música ouve-se na praça fora, escuta pet-friendly.",
-          "googleMapsUrl": "https://maps.google.com/?q=Domplatz+Regensburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Domplatz+Regensburg",
+          "descriptionDe": "Der gotische Dom St. Peter (Baubeginn 1273), das Meisterwerk der bayerischen Gotik. Das Innere ist für Hunde geschlossen (nur Assistenzhunde), aber der Domplatz und die umliegenden Gassen sind Tag und Nacht geöffnet und hundefreundlich.",
+          "petPolicyDe": "Platz rund um die Uhr mit angeleinten Hunden geöffnet; das Domesinnere ist außer für Assistenzhunde tabu",
+          "tipDe": "Die Vesper der Regensburger Domspatzen wird mehrmals wöchentlich im Dom gesungen; die Musik dringt bis auf den Platz nach draußen, hundefreundliches Zuhören."
         },
         {
           "name": "Walhalla memorial terraces",
@@ -1004,7 +1130,10 @@
           "tipFr": "Bateau-promenade depuis le quai du Danube à Ratisbonne (mars à octobre) ou bus 5 depuis la Hbf. Les 358 marches en marbre jusqu'à la terrasse sont raides, accordez une pause à un chien jeune en haut.",
           "tipEs": "Barco fluvial desde el muelle del Danubio en Ratisbona (marzo a octubre) o bus 5 desde la Hbf. Los 358 escalones de mármol hasta la terraza son empinados, da una pausa a un perro joven arriba.",
           "tipPt": "Barco fluvial a partir do cais do Danúbio em Ratisbona (março a outubro) ou autocarro 5 a partir da Hbf. Os 358 degraus de mármore até à esplanada são íngremes, dê uma pausa a um cão jovem no topo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Walhalla+Donaustauf"
+          "googleMapsUrl": "https://maps.google.com/?q=Walhalla+Donaustauf",
+          "descriptionDe": "König Ludwigs I. neoklassizistische Gedenkstätte im Stil eines griechischen Tempels über der Donau, eröffnet 1842. Das Innere ist für Hunde geschlossen, aber die Panoramaterrasse mit Blick auf das Donautal ist für angeleinte Hunde geöffnet und der Höhepunkt des Besuchs.",
+          "petPolicyDe": "Außenterrassen und Treppen heißen angeleinte Hunde willkommen; das Innere ist für Haustiere geschlossen",
+          "tipDe": "Nehmen Sie das Flussschiff vom Regensburger Donauanleger (März bis Oktober) oder den Bus 5 ab dem Hauptbahnhof. Die 358 Marmorstufen hinauf zur Terrasse sind steil, gönnen Sie einem jungen Hund oben eine Pause."
         }
       ],
       "tipsEn": [
@@ -1066,6 +1195,18 @@
           "q": "Qual é a atração mais pet-friendly de Ratisbona?",
           "a": "O Steinerne Brücke de uma ponta à outra, com regresso pelas margens do Danúbio via Jahninsel. É grátis, totalmente ao ar livre, dura cerca de uma hora e inclui as vistas emblemáticas da cidade."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Regensburg, UNESCO-Altstadt & Donau",
+      "introDe": "Regensburgs UNESCO-Welterbe-Altstadt und Stadtamhof lassen sich in 30 Minuten von einem Ende zum anderen durchqueren. Die Steinerne Brücke, der Domplatz, das Flussufer und die Walhalla-Terrasse östlich der Stadt sind allesamt hundefreundliche Erlebnisse im Freien. Museen im Innenbereich sind meist für Hunde geschlossen, der Rest des Besuchs ist jedoch problemlos.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund in den Regensburger Dom?",
+          "a": "Es sind nur Assistenzhunde im Inneren erlaubt. Der Domplatz draußen ist rund um die Uhr für angeleinte Hunde geöffnet und bietet ohnehin die besten Fotos der gotischen Fassade."
+        },
+        {
+          "q": "Was ist die hundefreundlichste Sehenswürdigkeit in Regensburg?",
+          "a": "Die Steinerne Brücke von einem Ende zum anderen, dann ein Rückweg entlang des Donauufers über die Jahninsel. Kostenlos, vollständig im Freien, dauert etwa eine Stunde und bietet die charakteristischen Ausblicke der Stadt."
+        }
       ]
     },
     "petsitting": {
@@ -1095,7 +1236,10 @@
           "tipFr": "Réservez 3 à 5 jours à l'avance en été. Lisez attentivement les avis et préférez les sitters avec 20+ séjours récents.",
           "tipEs": "Reserva 3 a 5 días antes en verano. Lee bien las opiniones y prefiere sitters con 20+ estancias recientes.",
           "tipPt": "Reserve 3 a 5 dias antes no verão. Leia bem as opiniões e prefira sitters com 20+ estadias recentes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Regensburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Regensburg",
+          "descriptionDe": "Größter Marktplatz für Hundebetreuung und Gassi-Service in Deutschland. Tagessätze in Regensburg etwa 20 bis 35 EUR; Übernachtungsbetreuung 25 bis 45 EUR. Über Rover versichert.",
+          "petPolicyDe": "Alle Rassen und Größen; Betreuer legen ihre eigenen Regeln fest und akzeptieren Video-Kennenlerntermine",
+          "tipDe": "Buchen Sie in der sommerlichen Hochsaison 3 bis 5 Tage im Voraus. Lesen Sie Bewertungen sorgfältig und bevorzugen Sie Betreuer mit mehr als 20 aktuellen Aufenthalten."
         },
         {
           "name": "Pawshake Regensburg",
@@ -1114,7 +1258,10 @@
           "tipFr": "Tarifs journaliers autour de 20 à 30 € ; la rencontre est le meilleur moyen de valider un sitter avant de s'engager.",
           "tipEs": "Tarifas diarias en torno a 20 a 30 €; la presentación es la mejor forma de validar a un sitter antes de comprometerse.",
           "tipPt": "Tarifas diárias entre 20 e 30 €; a apresentação é a melhor forma de validar um sitter antes de se comprometer.",
-          "googleMapsUrl": "https://maps.google.com/?q=Regensburg"
+          "googleMapsUrl": "https://maps.google.com/?q=Regensburg",
+          "descriptionDe": "Europäische Plattform für Haustierbetreuung mit einem kleineren, aber sorgfältig ausgewählten Angebot in Regensburg. Tagesbetreuung und Übernachtung, Fokus auf häusliche Umgebung statt Pensionen.",
+          "petPolicyDe": "Alle Rassen; verpflichtendes kostenloses Kennenlerntreffen vor jedem Aufenthalt",
+          "tipDe": "Tagessätze etwa 20 bis 30 EUR; das Kennenlerntreffen ist die beste Möglichkeit, einen Betreuer vor der Buchung zu prüfen."
         }
       ],
       "tipsEn": [
@@ -1175,6 +1322,18 @@
         {
           "q": "Há serviços de passeio no Altstadt?",
           "a": "Sim. Rover e Pawshake oferecem passeios de 30 a 60 min no centro por cerca de 15 a 25 €. Útil para um museu fechado a cães ou um jantar prolongado."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundepension in Regensburg",
+      "introDe": "Regensburg hat einen florierenden freiberuflichen Markt für Haustierbetreuung über Rover.de und Pawshake, dazu mehrere kleine Tierpensionen im ländlichen Landkreis rund um die Stadt. Die meisten Freiberufler sind zweisprachig Deutsch-Englisch und akzeptieren kurze Aufenthalte.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet eine Hundepension in Regensburg?",
+          "a": "Etwa 20 bis 35 EUR pro Tag bei einem freiberuflichen Rover- oder Pawshake-Betreuer, oder 30 bis 50 EUR pro Nacht in einer Tierpension. Bei längeren Aufenthalten gibt es oft ab 5 Nächten einen Rabatt."
+        },
+        {
+          "q": "Gibt es Gassi-Service in der Altstadt?",
+          "a": "Ja. Rover und Pawshake bieten beide 30- bis 60-minütige Spaziergänge im Zentrum für etwa 15 bis 25 EUR an. Nützlich, wenn Sie ein Museum ohne Hundezutritt besuchen oder länger essen gehen."
         }
       ]
     }

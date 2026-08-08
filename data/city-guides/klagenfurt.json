@@ -39,7 +39,11 @@
           "tipFr": "Fermé le dimanche. La cour à arcades se remplit en premier les soirs chauds, réservez de mai à septembre.",
           "tipEs": "Cerrado domingos. El patio con arcadas se llena primero en noches cálidas, reserva de mayo a septiembre.",
           "tipPt": "Fechado aos domingos. O pátio com arcadas enche-se primeiro nas noites quentes, reserve de maio a setembro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Landhauskeller+Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=Landhauskeller+Klagenfurt",
+          "descriptionDe": "Gewölbtes Renaissance-Restaurant in den Kellern des 1574 errichteten Landhauses, dem Sitz des Kärntner Landtags. Gemütliche Stube drinnen, großer Arkadenhof draußen, beide bei Einheimischen mit Hund beliebt. Regionale Kärntner Küche.",
+          "petPolicyDe": "Ruhige, angeleinte Hunde willkommen in der Gewölbestube und im Arkadenhof",
+          "mustTryDe": "Kärntner Kasnudeln, Reindling, lokaler Lavanttaler Wein",
+          "tipDe": "Sonntags geschlossen. Der Arkadenhof füllt sich an warmen Abenden zuerst, von Mai bis September vorab reservieren."
         },
         {
           "name": "Café Moser",
@@ -65,7 +69,11 @@
           "tipFr": "Meilleure Sachertorte de Carinthie. Calme pour le petit-déjeuner et le café de l'après-midi avec un chien, plus animé le midi et après les soirées au théâtre.",
           "tipEs": "Mejor Sachertorte de Carintia. Tranquilo para desayuno y café de tarde con perro, más concurrido al mediodía y después de las funciones del teatro.",
           "tipPt": "Melhor Sachertorte da Caríntia. Calmo para pequeno-almoço e café da tarde com cão, mais animado ao meio-dia e após as récitas no teatro.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Moser+Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=Cafe+Moser+Klagenfurt",
+          "descriptionDe": "Klassisches österreichisches Kaffeehaus von 1888 gegenüber dem Stadttheater. Wiener Gebäck, vollständige Mittagskarte und eine breite Terrasse am Fußgänger-Theaterplatz. Hunde sind an den Marmortischen ein gewohnter Anblick.",
+          "petPolicyDe": "Hunde willkommen drinnen und auf der Fußgängerterrasse, Wassernäpfe auf Nachfrage",
+          "mustTryDe": "Sachertorte, Wiener Schnitzel, Melange",
+          "tipDe": "Beste Sachertorte in Kärnten. Ruhig zum Frühstück und Nachmittagskaffee mit Hund, geschäftiger zur Mittagszeit und nach Theaterabenden."
         },
         {
           "name": "Maria Loretto Schloss-Restaurant",
@@ -91,7 +99,11 @@
           "tipFr": "Réservez pour le coucher du soleil sur la terrasse au bord du lac de mai à septembre. Bus 20 du centre ou 30 min à pied le long du lac.",
           "tipEs": "Reserva para la puesta de sol en la terraza junto al lago de mayo a septiembre. Bus 20 desde el centro o 30 min a pie por la orilla del lago.",
           "tipPt": "Reserve para o pôr do sol na esplanada à beira-lago de maio a setembro. Autocarro 20 a partir do centro ou 30 min a pé pela margem do lago.",
-          "googleMapsUrl": "https://maps.google.com/?q=Maria+Loretto+Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=Maria+Loretto+Klagenfurt",
+          "descriptionDe": "Seeschloss-Restaurant auf einer kleinen Landzunge über dem Wörthersee, 10 Minuten mit dem Bus von der Altstadt. Breite Seeterrasse mit dem fotogensten hundefreundlichen Ausblick der Stadt. Österreichisch geprägte Küche mit italienischem Einschlag.",
+          "petPolicyDe": "Hunde willkommen auf der großen Seeterrasse, Wassernäpfe auf Nachfrage",
+          "mustTryDe": "Reinanke aus dem Wörthersee, Kärntner Weine",
+          "tipDe": "Von Mai bis September zum Sonnenuntergang auf der Seeterrasse reservieren. Bus 20 ab dem Zentrum nehmen oder den 30-minütigen Uferweg gehen."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Os restaurantes de Klagenfurt cobram extra por levar cão?",
           "a": "Não. Não há suplemento por levar um cão. As taças de água oferecem-se quase sempre a pedido, sem custo."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Klagenfurt, Kärntner Stuben & Seeterrassen",
+      "introDe": "Die Kärntner Gasthauskultur in Klagenfurt ist wie in den meisten Teilen Österreichs von Natur aus hundetolerant. Der Alte Platz in der Altstadt und die Lendkanal-Terrassen Richtung Wörthersee bieten die meisten hundefreundlichen Tische, und Einheimische führen ihre Hunde regelmäßig durch die Fußgängerzone.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Klagenfurter Restaurants drinnen erlaubt?",
+          "a": "Ja, im Allgemeinen. Die österreichische Gasthauskultur heißt ruhige, angeleinte Hunde drinnen willkommen. Etwa 80 bis 90 Prozent der Klagenfurter Restaurants akzeptieren Hunde sowohl drinnen als auch auf der Terrasse."
+        },
+        {
+          "q": "Verlangen Klagenfurter Restaurants einen Aufpreis für Hunde?",
+          "a": "Nein. Es gibt keinen Aufpreis, wenn man einen Hund mitbringt. Wassernäpfe werden auf Nachfrage fast immer kostenlos angeboten."
+        }
       ]
     },
     "parks": {
@@ -207,7 +231,10 @@
           "tipFr": "Atteignez les contreforts en 10 minutes à pied à l'ouest de l'Altstadt. Prévoyez de l'eau en été ; la forêt reste 4 à 6 degrés plus fraîche que la ville.",
           "tipEs": "Llegas a las estribaciones en 10 minutos a pie al oeste del Altstadt. Lleva agua en verano; el bosque se mantiene 4 a 6 grados más fresco que la ciudad.",
           "tipPt": "Chegue aos contrafortes em 10 minutos a pé a oeste do Altstadt. Leve água no verão; a floresta mantém-se 4 a 6 graus mais fresca do que a cidade.",
-          "googleMapsUrl": "https://maps.google.com/?q=Kreuzbergl+Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=Kreuzbergl+Klagenfurt",
+          "leashRuleDe": "Leinenpflicht auf den Hauptwegen; Freilaufzonen in den oberen Waldwegen außerhalb der Brut- und Setzzeit",
+          "descriptionDe": "Gemischter Laub- und Nadelwald, der sich direkt über der Altstadt auf 525 m erhebt. Markierte Wege, eine Sternwarte und eine Kapelle am Gipfel, der wichtigste Wald der Stadt für schattige Hundespaziergänge das ganze Jahr über.",
+          "tipDe": "Die Ausläufer sind in einem 10-minütigen Spaziergang westlich der Altstadt erreichbar. Im Sommer Wasser mitnehmen, der Wald bleibt 4 bis 6 Grad kühler als die Stadt."
         },
         {
           "name": "Europapark",
@@ -251,7 +278,10 @@
           "tipFr": "Depuis l'Altstadt par le Lendkanal en 25 minutes, ou bus 10 jusqu'au Strandbad. Évitez la plage principale du Strandbad en été (chiens interdits en zone de baignade, OK sur les chemins du parc).",
           "tipEs": "Desde el Altstadt por el Lendkanal en 25 minutos, o bus 10 hasta el Strandbad. Evita la playa principal del Strandbad en verano (perros prohibidos en la zona de baño, OK en caminos del parque).",
           "tipPt": "A partir do Altstadt pelo Lendkanal em 25 minutos, ou autocarro 10 até ao Strandbad. Evite a praia principal do Strandbad no verão (cães proibidos na zona de banhistas, OK nos caminhos do parque).",
-          "googleMapsUrl": "https://maps.google.com/?q=Europapark+Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=Europapark+Klagenfurt",
+          "leashRuleDe": "Durchgehend Leinenpflicht; für ausgewiesene Badebereiche gelten im Sommer eigene Regeln",
+          "descriptionDe": "Großer gestalteter Park entlang des östlichen Wörthersee-Ufers, von Minimundus bis zum Strandbad. Flache Uferwege, alter Baumbestand, der Miniaturpark Minimundus und das Freiluft-Planetarium liegen im Park. Der Standard-Seespaziergang der Einheimischen.",
+          "tipDe": "Von der Altstadt in 25 Minuten über den Lendkanal zu Fuß erreichbar, oder Bus 10 zum Strandbad. Den Hauptstrand des Strandbads im Sommer meiden (Hunde im Badebereich verboten, auf den Parkwegen erlaubt)."
         },
         {
           "name": "Lendkanal towpath",
@@ -295,7 +325,10 @@
           "tipFr": "Faites un aller sur une rive et le retour sur l'autre pour une boucle d'1h15. Le lever de soleil côté Altstadt et le coucher côté lac sont tous deux spectaculaires.",
           "tipEs": "Ve por una orilla y vuelve por la otra para un circuito de 1h15. El amanecer desde el Altstadt y la puesta de sol desde el lago son ambos espectaculares.",
           "tipPt": "Vá por uma margem e regresse pela outra para um circuito de 1h15. O nascer do sol a partir do Altstadt e o pôr do sol a partir do lago são ambos espectaculares.",
-          "googleMapsUrl": "https://maps.google.com/?q=Lendkanal+Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=Lendkanal+Klagenfurt",
+          "leashRuleDe": "Im städtischen Abschnitt durchgehend Leinenpflicht",
+          "descriptionDe": "Der Kanal aus dem 18. Jahrhundert, der die Altstadt mit dem Wörthersee verbindet, mit durchgehendem Uferweg auf beiden Seiten. Platanen, Bänke, Schwäne und Enten. Der fotogenste flache Spaziergang der Stadt.",
+          "tipDe": "Für eine 1-Stunde-15-Runde auf einer Seite hin und auf der anderen zurückgehen. Sonnenaufgang vom Altstadt-Ende und Sonnenuntergang vom Seeufer-Ende sind beide spektakulär."
         }
       ],
       "tipsEn": [
@@ -357,6 +390,18 @@
           "q": "O meu cão pode nadar em Klagenfurt?",
           "a": "Sim, nos Hundebadeplätze designados do Wörthersee. A praia principal do Strandbad Klagenfurt proíbe cães, mas zonas caninas sinalizadas no extremo leste do lago perto do Schloss Maria Loretto e na foz do Lendkanal deixam o banho sem trela no verão."
         }
+      ],
+      "titleDe": "Die besten Hundeparks & Spaziergänge in Klagenfurt, Kreuzbergl & Europapark",
+      "introDe": "Klagenfurt liegt zwischen dem Wörthersee und dem bewaldeten Kreuzbergl. Grünflächen gibt es überall: Der Europapark erstreckt sich am östlichen Seeufer entlang, der Kreuzbergl-Wald steigt direkt hinter der Altstadt an, und der Lendkanal verbindet die Stadt mit dem See über einen 4 km langen, hundefreundlichen Weg.",
+      "faqsDe": [
+        {
+          "q": "Wo darf mein Hund in Klagenfurt ohne Leine laufen?",
+          "a": "Die oberen Waldwege des Kreuzbergls direkt über der Altstadt erlauben Freilauf auf markierten Wegen außerhalb der Brut- und Setzzeit. Als innerstädtische Option ist die ausgeschilderte Hundezone im Europapark das wichtigste eingezäunte Freilaufareal."
+        },
+        {
+          "q": "Kann mein Hund in Klagenfurt schwimmen?",
+          "a": "Ja, an den ausgewiesenen Hundebadeplätzen am Wörthersee. Das Hauptbad Strandbad Klagenfurt verbietet Hunde, aber ausgeschilderte Hundebadezonen am östlichen Seeende bei Schloss Maria Loretto und an der Lendkanal-Mündung erlauben im Sommer Freilaufschwimmen."
+        }
       ]
     },
     "transport": {
@@ -386,7 +431,10 @@
           "tipFr": "Réservez les Railjet via l'app ÖBB, ajoutez le chien comme Hund lors de la réservation pour avoir le billet animal demi-tarif.",
           "tipEs": "Reserva los Railjet en la app ÖBB, añade el perro como Hund al reservar para tener el billete mascota a mitad de tarifa.",
           "tipPt": "Reserve os Railjet na app ÖBB, adicione o cão como Hund ao reservar para ter o bilhete animal a meia tarifa.",
-          "googleMapsUrl": "https://maps.google.com/?q=Klagenfurt+Hauptbahnhof"
+          "googleMapsUrl": "https://maps.google.com/?q=Klagenfurt+Hauptbahnhof",
+          "descriptionDe": "Der Klagenfurter Hauptbahnhof liegt an der südlichen ÖBB-Railjet-Strecke. Direkter Railjet nach Wien (4 Std.) und Salzburg (2 Std. 45), mit Anschlüssen nach Innsbruck, Graz und München (über Salzburg).",
+          "petPolicyDe": "Kleine Hunde (bis ca. 30 cm Schulterhöhe) in einer Transportbox reisen kostenlos. Größere Hunde benötigen ein Halbpreisticket (ca. 50 Prozent) und müssen in gemeinsam genutzten Abteilbereichen angeleint und mit Maulkorb versehen sein.",
+          "tipDe": "Railjet-Tickets über die ÖBB-App buchen, den Hund bei der Buchung als „Hund“ hinzufügen, um das Halbpreis-Haustierticket zu erhalten."
         },
         {
           "name": "STW Klagenfurt city bus",
@@ -405,7 +453,10 @@
           "tipFr": "Tageskarte (environ 4,20 € pour 1 adulte + 1 chien) couvre tous les bus STW sur la journée. Achat auprès du conducteur ou via l'app STW.",
           "tipEs": "Tageskarte (unos 4,20 € para 1 adulto + 1 perro) cubre todos los buses STW del día. Cómprala al conductor o en la app STW.",
           "tipPt": "Tageskarte (cerca de 4,20 € para 1 adulto + 1 cão) cobre todos os autocarros STW do dia. Compre ao motorista ou na app STW.",
-          "googleMapsUrl": "https://maps.google.com/?q=STW+Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=STW+Klagenfurt",
+          "descriptionDe": "Die Stadtwerke Klagenfurt betreiben 13 Buslinien, die die Stadt und das Wörthersee-Ufer abdecken. Keine Straßenbahn oder U-Bahn; die Busse verkehren im 15- bis 30-Minuten-Takt. Linie 10 bedient das Strandbad und die Seeparks.",
+          "petPolicyDe": "Kleine Hunde in Transportboxen und Assistenzhunde fahren kostenlos. Größere Hunde benötigen ein Kinderticket (ca. 1,40 EUR) und eine Leine; für Nicht-Zwerghunde ist in STW-Bussen ein Maulkorb vorgeschrieben.",
+          "tipDe": "Die Tageskarte (ca. 4,20 EUR für 1 Erwachsenen + 1 Hund) gilt für alle STW-Busse an diesem Tag. Erhältlich beim Fahrer oder über die STW-App."
         },
         {
           "name": "Klagenfurt Airport (KLU)",
@@ -424,7 +475,10 @@
           "tipFr": "Connexions limitées ; pour les vols transatlantiques et la plupart des destinations européennes, un Railjet ÖBB jusqu'à Vienne (4h) puis une correspondance à Vienne (VIE) est plus fiable et moins cher.",
           "tipEs": "Conexiones limitadas; para vuelos transatlánticos y la mayoría de destinos europeos, un Railjet ÖBB hasta Viena (4h) y conexión en Viena (VIE) es más fiable y barato.",
           "tipPt": "Ligações limitadas; para voos transatlânticos e a maioria dos destinos europeus, um Railjet ÖBB até Viena (4h) e ligação em Viena (VIE) é mais fiável e barato.",
-          "googleMapsUrl": "https://maps.google.com/?q=Klagenfurt+Airport"
+          "googleMapsUrl": "https://maps.google.com/?q=Klagenfurt+Airport",
+          "descriptionDe": "Kleiner internationaler Flughafen 4 km nördlich des Zentrums, mit saisonalen Flügen nach Wien, Frankfurt, Hamburg, Berlin und London. Haustierfreundliche Abfertigung, zehn Minuten mit Taxi oder Bus 41 zum Hbf.",
+          "petPolicyDe": "Kabinenhaustiere bis 8 kg werden von Austrian, Lufthansa und Eurowings akzeptiert; Frachtraumtiere in IATA-konformen Transportboxen; Airline-Bestimmungen 48 Std. vor dem Flug prüfen",
+          "tipDe": "Begrenzte Verbindungen; für Transatlantik- und die meisten Europaflüge ist ein ÖBB-Railjet nach Wien (4 Std.) mit Anschluss am Flughafen Wien (VIE) zuverlässiger und günstiger."
         }
       ],
       "tipsEn": [
@@ -486,6 +540,18 @@
           "q": "Como vou de Viena a Klagenfurt com cão?",
           "a": "Railjet ÖBB directo em 4 horas de Viena Hbf a Klagenfurt Hbf. Cães pequenos em transportadora grátis; cães maiores precisam de bilhete animal a meia tarifa e açaime na zona partilhada. Reserve na app ÖBB."
         }
+      ],
+      "titleDe": "Haustierfreundlicher Transport in Klagenfurt, STW-Bus, ÖBB & Flughafen KLU",
+      "introDe": "Die kompakte Altstadt von Klagenfurt lässt sich in 15 Minuten von einem Ende zum anderen durchqueren. Das STW-Stadtbusnetz deckt den Rest der Stadt ab, hundefreundlich mit einfachen Regeln. Direkte ÖBB-Railjets verbinden Wien (4 Std.) und Salzburg (2 Std. 45). Der Flughafen Klagenfurt (KLU) ist der nächstgelegene internationale Hub, 4 km vom Zentrum entfernt, mit saisonalen Flügen nach Wien, Frankfurt und Hamburg.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in Klagenfurt im STW-Bus mitnehmen?",
+          "a": "Ja. Kleine Hunde in einer Transportbox fahren kostenlos; größere Hunde benötigen ein Kinderticket (ca. 1,40 EUR), und für Nicht-Zwerghunde ist in STW-Bussen ein Maulkorb vorgeschrieben. Leinenpflicht besteht immer."
+        },
+        {
+          "q": "Wie komme ich mit Hund von Wien nach Klagenfurt?",
+          "a": "Direkter ÖBB-Railjet in 4 Stunden vom Wiener Hbf nach Klagenfurt Hbf. Kleine Hunde in einer Transportbox fahren kostenlos; größere Hunde benötigen ein Halbpreis-Haustierticket und in gemeinsam genutzten Bereichen einen Maulkorb. Buchung über die ÖBB-App."
+        }
       ]
     },
     "beaches": {
@@ -538,7 +604,10 @@
           "tipFr": "Bus 20 du centre ou 30 minutes à pied le long du Lendkanal. Vérifiez les mises à jour 2026 de Kärnten Tourismus avant de venir, le périmètre peut changer d'une saison à l'autre.",
           "tipEs": "Bus 20 desde el centro o 30 minutos a pie por el Lendkanal. Consulta las actualizaciones 2026 de Kärnten Tourismus antes de ir, el perímetro puede cambiar entre temporadas.",
           "tipPt": "Autocarro 20 a partir do centro ou 30 minutos a pé pelo Lendkanal. Verifique as actualizações 2026 da Kärnten Tourismus antes de ir, o perímetro pode mudar entre épocas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hundebadeplatz+Maria+Loretto"
+          "googleMapsUrl": "https://maps.google.com/?q=Hundebadeplatz+Maria+Loretto",
+          "leashRuleDe": "Freilauf innerhalb der markierten Hundebadezone, genauer Umfang vor Ort ausgeschildert",
+          "descriptionDe": "Ausgeschilderter Hundebadeplatz am östlichen Wörthersee-Ufer nahe der Landzunge von Schloss Maria Loretto. Gras- und Kieseleinstieg, flaches Wasser, der zentralste innerstädtische Hundestrand.",
+          "tipDe": "Bus 20 ab dem Zentrum oder 30-minütiger Spaziergang entlang des Lendkanals. Vor der Fahrt die 2026er Zonenupdates von Kärnten Tourismus prüfen, der Umfang kann sich saisonal ändern."
         },
         {
           "name": "Hundebadeplatz Lendkanal-Mündung",
@@ -580,7 +649,10 @@
           "tipFr": "Depuis l'Altstadt par le Lendkanal en 30 minutes. Évitez 13h-15h en juillet, le soleil est dur sur l'herbe sans ombre.",
           "tipEs": "Desde el Altstadt por el Lendkanal en 30 minutos. Evita 13:00 a 15:00 en julio, el sol es duro sobre la hierba sin sombra.",
           "tipPt": "A partir do Altstadt pelo Lendkanal em 30 minutos. Evite 13:00 às 15:00 em julho, o sol é duro sobre a relva sem sombra.",
-          "googleMapsUrl": "https://maps.google.com/?q=Friedelstrand+Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=Friedelstrand+Klagenfurt",
+          "leashRuleDe": "Freilauf innerhalb des markierten Hundebadeplatzes; genaue Zone vor Ort ausgeschildert",
+          "descriptionDe": "Hundebadezone an der Mündung des Lendkanals in den Wörthersee, an der Friedelstrand-Promenade. Graseinstieg, flacher Kiesgrund, bei Einheimischen nach Feierabend beliebt.",
+          "tipDe": "Von der Altstadt in 30 Minuten entlang des Lendkanals zu Fuß erreichbar. Im Juli 13:00 bis 15:00 Uhr meiden, wenn die Sonne auf der unbeschatteten Wiese hart einwirkt."
         },
         {
           "name": "Hundebadeplatz Krumpendorf",
@@ -622,7 +694,10 @@
           "tipFr": "Train ÖBB régional de la Hbf de Klagenfurt à Krumpendorf en 8 minutes ; la Hundebadeplatz est à 10 minutes à pied de la gare.",
           "tipEs": "Tren ÖBB regional desde la Hbf de Klagenfurt a Krumpendorf en 8 minutos; la Hundebadeplatz queda a 10 minutos a pie de la estación.",
           "tipPt": "Comboio ÖBB regional da Hbf de Klagenfurt a Krumpendorf em 8 minutos; a Hundebadeplatz fica a 10 minutos a pé da estação.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hundebadeplatz+Krumpendorf"
+          "googleMapsUrl": "https://maps.google.com/?q=Hundebadeplatz+Krumpendorf",
+          "leashRuleDe": "Freilauf innerhalb des markierten Hundebadeplatzes",
+          "descriptionDe": "Ausgeschilderter Hundebadeplatz am nördlichen Wörthersee-Ufer in Krumpendorf, 10 Minuten mit dem Auto oder 25 Minuten mit dem Zug von Klagenfurt entfernt. Größere Zone als die Klagenfurter Stadtoptionen, oft weniger überlaufen.",
+          "tipDe": "ÖBB-Regionalzug vom Klagenfurter Hbf nach Krumpendorf in 8 Minuten; der Hundebadeplatz ist einen 10-minütigen Spaziergang vom Bahnhof entfernt."
         }
       ],
       "tipsEn": [
@@ -684,6 +759,18 @@
           "q": "Os cães são admitidos na praia principal do Strandbad Klagenfurt?",
           "a": "Não. A zona principal do Strandbad proíbe cães no verão para proteger os banhistas. Use as Hundebadeplätze sinalizadas próximas (Maria Loretto, foz do Lendkanal)."
         }
+      ],
+      "titleDe": "Hundefreundliches Seeschwimmen in Klagenfurt, Wörthersee-Hundebadeplätze",
+      "introDe": "Klagenfurt liegt am östlichen Ende des Wörthersees, dem wärmsten See der Alpen (bis zu 26 Grad im Juli). Hunde sind im Hauptbadebereich des Strandbads verboten, doch mehrere ausgeschilderte Hundebadeplätze am östlichen Seeende und an der Lendkanal-Mündung bieten offizielles Freilaufschwimmen. Genaue Zonen für 2026 bei Kärnten Tourismus überprüfen.",
+      "faqsDe": [
+        {
+          "q": "Wo können Hunde im Wörthersee schwimmen?",
+          "a": "Mehrere ausgeschilderte Hundebadeplätze rund um den See: in Klagenfurt selbst bei Maria Loretto und an der Lendkanal-Mündung am Friedelstrand, zusätzlich größere Zonen in Krumpendorf (Nordufer) und auf der Veldener Seite. Genaue Zonen für 2026 bei Kärnten Tourismus bestätigen."
+        },
+        {
+          "q": "Sind Hunde am Hauptstrand des Strandbads Klagenfurt erlaubt?",
+          "a": "Nein. Der Hauptbadebereich des Strandbads verbietet Hunde im Sommer zum Schutz der Badegäste. Stattdessen die nahegelegenen ausgeschilderten Hundebadeplätze (Maria Loretto, Lendkanal-Mündung) nutzen."
+        }
       ]
     },
     "vets": {
@@ -716,7 +803,9 @@
           "tipFr": "Appelez avant, le personnel parle anglais. Ils prépareront l'équipe adaptée avant votre arrivée. Environ 30 minutes en voiture ou par l'autoroute A2.",
           "tipEs": "Llama antes, hay personal que habla inglés. Prepararán el equipo adecuado antes de tu llegada. Unos 30 minutos en coche o por la autopista A2.",
           "tipPt": "Ligue antes, há pessoal que fala inglês. Vão preparar a equipa adequada antes da sua chegada. Cerca de 30 minutos de carro ou pela autoestrada A2.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Annenheim+Villach"
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Annenheim+Villach",
+          "descriptionDe": "Das tierärztliche 24/7-Notfallreferenzkrankenhaus für Kärnten, 35 km westlich von Klagenfurt bei Villach. Chirurgie, Intensivstation, CT, Ultraschall, Endoskopie. Der Standardanlaufpunkt für ernste Notfälle.",
+          "tipDe": "Vorab anrufen, englischsprachiges Personal verfügbar. Das richtige Team wird vor Ihrer Ankunft auf den Fall vorbereitet. Etwa 30 Minuten mit dem Auto oder über die A2."
         },
         {
           "name": "Tierklinik Klagenfurt Stadt",
@@ -738,7 +827,9 @@
           "tipFr": "Sans rdv possible pour signatures de passeport et bilans pré-voyage. Rdv pour bilan complet.",
           "tipEs": "Sin cita posible para firmas de pasaporte y revisiones previas. Con cita para revisión completa.",
           "tipPt": "Sem marcação possível para assinaturas de passaporte e revisões prévias. Com marcação para check-up completo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Klagenfurt+Rosentaler"
+          "googleMapsUrl": "https://maps.google.com/?q=Tierklinik+Klagenfurt+Rosentaler",
+          "descriptionDe": "Tagesklinik mit vollem Leistungsspektrum am südlichen Stadtrand. Innere Medizin, Chirurgie, Zahnbehandlung. Die wichtigste tagsüber verfügbare Anlaufstelle innerhalb von Klagenfurt selbst.",
+          "tipDe": "Einfacher Walk-in für Heimtierausweis-Unterschriften und Reisechecks vor Abflug. Für vollständige Untersuchungen vorab einen Termin vereinbaren."
         },
         {
           "name": "Tierarztpraxis Altstadt Klagenfurt",
@@ -760,7 +851,9 @@
           "tipFr": "Sans rdv accepté pour vaccinations et soins courants ; rdv pour bilan complet.",
           "tipEs": "Aceptan sin cita para vacunaciones y atenciones rutinarias; con cita para revisión completa.",
           "tipPt": "Aceitam sem marcação para vacinações e cuidados de rotina; com marcação para check-up completo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Tierarztpraxis+Bahnhofstrasse+Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=Tierarztpraxis+Bahnhofstrasse+Klagenfurt",
+          "descriptionDe": "Zentral gelegene Tagespraxis, 5 Minuten zu Fuß vom Hauptbahnhof und dem südlichen Altstadtrand entfernt. Impfungen, Mikrochippen, Routineversorgung, Reisechecks vor Abflug. Die praktische Option für Touristen.",
+          "tipDe": "Walk-ins für Impfungen und Routineangelegenheiten werden akzeptiert; für vollständige Untersuchungen vorab einen Termin vereinbaren."
         }
       ],
       "tipsEn": [
@@ -821,6 +914,18 @@
         {
           "q": "Quanto custa uma visita ao veterinário em Klagenfurt?",
           "a": "Consulta clássica 35 a 70 €, urgência 100 a 180 € mais diagnóstico. Cirurgias maiores 700 a 2800 €. Os seguros europeus de animais costumam reembolsar."
+        }
+      ],
+      "titleDe": "Tiernotdienste [24h] in Klagenfurt, Tierkliniken & Tierbetreuung",
+      "introDe": "Klagenfurt verfügt über eine solide tierärztliche Versorgung mit einer 24/7-Überweisungsklinik im weiteren Kärntner Raum sowie mehreren Tagespraxen in der Stadt. Die Tierklinik Annenheim bei Villach (35 km westlich) ist der regionale Notfall-Knotenpunkt.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Klagenfurt einen 24-Stunden-Tierarzt?",
+          "a": "Das nächstgelegene 24/7-Notfallkrankenhaus ist die Tierklinik Annenheim bei Villach, 35 km westlich von Klagenfurt (30 Minuten über die A2). Innerhalb der Stadt deckt die Tierklinik Klagenfurt Stadt erweiterte Tageszeiten ab, jedoch keine vollständigen nächtlichen Notfälle."
+        },
+        {
+          "q": "Wie viel kostet ein Tierarztbesuch in Klagenfurt?",
+          "a": "Routinekonsultation 35 bis 70 EUR, Notfallbesuch 100 bis 180 EUR zuzüglich Diagnostik. Größere Operationen 700 bis 2800 EUR. EU-Tierversicherungen erstatten häufig die Kosten."
         }
       ]
     },
@@ -901,6 +1006,18 @@
           "q": "Klagenfurt é boa para um fim de semana longo com cão?",
           "a": "Sim. Três dias chegam para percorrer o Altstadt, dedicar um dia ao Wörthersee com banho nas Hundebadeplätze, e um dia na floresta do Kreuzbergl ou excursão em autocarro a Velden pela margem do lago. Railjet ÖBB directo para Viena em 4 horas para a continuação."
         }
+      ],
+      "titleDe": "Reisetipps für einen Besuch in Klagenfurt mit Hund",
+      "introDe": "Klagenfurt gehört zu den unkompliziertesten kleinen österreichischen Städten für einen Besuch mit Hund: kompakte Altstadt, Kärntner Gasthauskultur, die Hunde von Natur aus einschließt, und kurze Wege zum Wörthersee. Zu beachten sind die Maulkorbpflicht in Stadtbussen, die saisonalen Grenzen der Hundebadeplätze und die 24/7-Tierarztroute über Villach.",
+      "faqsDe": [
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch in Klagenfurt mit Hund?",
+          "a": "Ende Mai bis Anfang Juli sowie September. Tagestemperaturen liegen bei 20 bis 26 Grad, der Wörthersee ist warm genug zum Hundeschwimmen, und der Hochsommerandrang von Ende Juli und August ist vorbei. Der Winter ist möglich, aber Kärnten wird kalt (etwa minus 2 bis plus 4 Grad) mit kurzen Tagen."
+        },
+        {
+          "q": "Eignet sich Klagenfurt für ein langes Wochenende mit Hund?",
+          "a": "Ja. Drei Tage reichen, um die Altstadt zu erkunden, einen Wörthersee-Tag mit Schwimmen am Hundebadeplatz zu verbringen und einen Tag dem Kreuzbergl-Wald oder einem Busausflug entlang des Sees nach Velden zu widmen. Der direkte ÖBB-Railjet nach Wien in 4 Stunden hält die Weiterreise einfach."
+        }
       ]
     },
     "attractions": {
@@ -932,7 +1049,10 @@
           "tipFr": "La lumière du couchant sur les écailles de chlorite est au mieux de juin à août vers 20h30. Calme pour les photos avant 9h.",
           "tipEs": "La luz del atardecer sobre las escamas de clorito es la mejor de junio a agosto sobre las 20:30. Tranquilo para fotos antes de las 09:00.",
           "tipPt": "A luz do pôr do sol sobre as escamas de clorito é melhor de junho a agosto por volta das 20:30. Calmo para fotos antes das 09:00.",
-          "googleMapsUrl": "https://maps.google.com/?q=Lindwurmbrunnen+Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=Lindwurmbrunnen+Klagenfurt",
+          "descriptionDe": "Der 1593 entstandene Drachenbrunnen am Neuen Platz, Klagenfurts Wahrzeichen und Stadtsymbol. Aus einem einzigen Chloritschieferblock gehauen, blickt der Lindwurm über den Platz zur Habsburger Statue der Maria Theresia.",
+          "petPolicyDe": "Platz rund um die Uhr geöffnet, angeleinte Hunde willkommen",
+          "tipDe": "Das Abendlicht auf den Chloritschieferschuppen des Lindwurms ist von Juni bis August gegen 20:30 Uhr am schönsten. Vor 09:00 Uhr ruhig für Fotos."
         },
         {
           "name": "Minimundus",
@@ -953,7 +1073,10 @@
           "tipFr": "Bus 10 du centre ou 25 minutes à pied par le Lendkanal. Préférez un jour nuageux, les miniatures blanches sont plus douces pour les yeux du chien.",
           "tipEs": "Bus 10 desde el centro o 25 minutos a pie por el Lendkanal. Visita un día nublado, las miniaturas blancas son más suaves para los ojos del perro que con sol fuerte.",
           "tipPt": "Autocarro 10 a partir do centro ou 25 minutos a pé pelo Lendkanal. Visite num dia nublado, as miniaturas brancas são mais suaves para os olhos do cão do que ao sol forte.",
-          "googleMapsUrl": "https://maps.google.com/?q=Minimundus+Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=Minimundus+Klagenfurt",
+          "descriptionDe": "Freiluft-Miniaturpark mit mehr als 150 Modellen im Maßstab 1:25 von Weltsehenswürdigkeiten (Eiffelturm, Freiheitsstatue, Taj Mahal). Am westlichen Wörthersee-Ufer innerhalb des Europaparks gelegen. Hunde an kurzer Leine auf allen Außenwegen willkommen.",
+          "petPolicyDe": "Angeleinte Hunde auf allen Außenwegen willkommen; durch die wenigen überdachten Abschnitte tragen",
+          "tipDe": "Bus 10 ab dem Zentrum oder 25-minütiger Lendkanal-Spaziergang. An einem bewölkten Tag besuchen, die weißen Miniaturen sind bei bedecktem Himmel schonender für die Augen des Hundes als bei greller Sonne."
         },
         {
           "name": "Landhaus courtyard & Alter Platz",
@@ -974,7 +1097,10 @@
           "tipFr": "L'Alter Platz se remplit de locaux de 18h à 22h en été. L'apéro en terrasse avec son chien fait partie de la vie locale à Klagenfurt.",
           "tipEs": "La Alter Platz se llena de locales de 18:00 a 22:00 en verano. El aperitivo en terraza con perro forma parte de la vida local en Klagenfurt.",
           "tipPt": "A Alter Platz enche-se de locais das 18:00 às 22:00 no verão. O aperitivo na esplanada com cão faz parte da vida local em Klagenfurt.",
-          "googleMapsUrl": "https://maps.google.com/?q=Landhaushof+Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=Landhaushof+Klagenfurt",
+          "descriptionDe": "Das 1574 errichtete Renaissance-Landhaus ist Sitz des Kärntner Landtags. Der Arkadenhof mit dem bemalten Wappensaal ist tagsüber für Besucher und angeleinte Hunde geöffnet; der Fußgängerbereich Alter Platz davor ist die Hauptader der Altstadt.",
+          "petPolicyDe": "Äußerer Innenhof für angeleinte Hunde geöffnet; das Innere des Wappensaals ist für Haustiere geschlossen, Assistenzhunde ausgenommen",
+          "tipDe": "Der Alte Platz füllt sich im Sommer von 18:00 bis 22:00 Uhr mit Einheimischen. Ein Aperitivo im Freien mit Hund gehört zum Klagenfurter Lebensgefühl."
         }
       ],
       "tipsEn": [
@@ -1036,6 +1162,18 @@
           "q": "Qual é a atração mais pet-friendly de Klagenfurt?",
           "a": "O passeio do Lendkanal do Altstadt ao Wörthersee, depois um banho na Hundebadeplatz Maria Loretto e um café na esplanada à beira-lago. É grátis, totalmente ao ar livre, dura cerca de 2 horas e inclui as vistas emblemáticas da cidade."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Klagenfurt, Lindwurm & Minimundus",
+      "introDe": "Klagenfurts Hauptsehenswürdigkeiten sind größtenteils im Freien und hundefreundlich: der Neue Platz mit dem ikonischen Lindwurmbrunnen, der Renaissance-Innenhof des Landhauses, der Freiluft-Miniaturpark Minimundus (Hunde an der Leine willkommen) und die Wörthersee-Uferpromenade. Innenmuseen sind für Hunde meist geschlossen.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund mit in den Minimundus?",
+          "a": "Ja, an kurzer Leine auf allen Außenwegen. Tragen Sie Ihren Hund durch die wenigen überdachten Tunnel, in denen die Miniaturmodelle geschützt sind. Dies ist eine der hundefreundlichsten Familienattraktionen Europas."
+        },
+        {
+          "q": "Was ist die hundefreundlichste Sehenswürdigkeit in Klagenfurt?",
+          "a": "Der Lendkanal-Spaziergang von der Altstadt zum Wörthersee, dann ein Bad am Hundebadeplatz Maria Loretto und ein Kaffee auf der Seeterrasse. Kostenlos, vollständig im Freien, dauert etwa 2 Stunden und umfasst die Wahrzeichen der Stadt."
+        }
       ]
     },
     "petsitting": {
@@ -1065,7 +1203,10 @@
           "tipFr": "Réservez 5 à 7 jours à l'avance en été (juillet à août). Lisez les avis et préférez les sitters avec 15+ séjours récents en Carinthie.",
           "tipEs": "Reserva 5 a 7 días antes en pleno verano (julio a agosto). Lee opiniones y prefiere sitters con 15+ estancias recientes en Carintia.",
           "tipPt": "Reserve 5 a 7 dias antes em pleno verão (julho a agosto). Leia opiniões e prefira sitters com 15+ estadias recentes na Caríntia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=Klagenfurt",
+          "descriptionDe": "Größter Marktplatz für Hundebetreuer und -sitter in Österreich. Tagessätze in Klagenfurt liegen bei etwa 20 bis 32 EUR; Übernachtungsbetreuung 25 bis 45 EUR. Über Rover versichert.",
+          "petPolicyDe": "Alle Rassen und Größen; Betreuer legen ihre eigenen Regeln fest und akzeptieren Video-Kennenlerntreffen",
+          "tipDe": "In der Hochsaison im Sommer (Juli bis August) 5 bis 7 Tage im Voraus buchen. Bewertungen lesen und Betreuer mit 15+ aktuellen Aufenthalten in der Region Kärnten bevorzugen."
         },
         {
           "name": "Pawshake Klagenfurt",
@@ -1084,7 +1225,10 @@
           "tipFr": "Tarifs journaliers autour de 20 à 30 € ; la rencontre est le meilleur moyen de valider un sitter avant de s'engager.",
           "tipEs": "Tarifas diarias en torno a 20 a 30 €; la presentación es la mejor forma de validar a un sitter antes de comprometerse.",
           "tipPt": "Tarifas diárias entre 20 e 30 €; a apresentação é a melhor forma de validar um sitter antes de se comprometer.",
-          "googleMapsUrl": "https://maps.google.com/?q=Klagenfurt"
+          "googleMapsUrl": "https://maps.google.com/?q=Klagenfurt",
+          "descriptionDe": "Europäische Plattform für Haustierbetreuung mit einem kleinen, aber ausgewählten Angebot in Klagenfurt. Tagesbetreuung und Übernachtung, Fokus auf häusliche Umgebung statt Pensionen.",
+          "petPolicyDe": "Alle Rassen; kostenloses Kennenlerntreffen vor jedem Aufenthalt verpflichtend",
+          "tipDe": "Tagessätze liegen bei etwa 20 bis 30 EUR; das Kennenlerntreffen ist die beste Möglichkeit, einen Betreuer vor der Buchung zu prüfen."
         }
       ],
       "tipsEn": [
@@ -1145,6 +1289,18 @@
         {
           "q": "Há serviços de passeio no Altstadt?",
           "a": "Sim. Rover e Pawshake oferecem passeios de 30 a 60 min no centro por cerca de 12 a 20 €. Útil para um museu fechado a cães ou um jantar prolongado."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundepension in Klagenfurt",
+      "introDe": "Klagenfurt verfügt über einen kleineren, aber wachsenden Markt an freiberuflichen Haustierbetreuern über Rover.at und Pawshake sowie mehrere ländliche Tierpensionen im weiteren Kärnten. Universitätsstudenten und Anwohner am See stellen die meisten städtischen Betreuer.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet eine Hundepension in Klagenfurt?",
+          "a": "Etwa 20 bis 32 EUR pro Tag bei einem freiberuflichen Betreuer über Rover oder Pawshake, oder 30 bis 50 EUR pro Nacht in einer Tierpension. Bei längeren Aufenthalten gibt es ab 5 Nächten oft Rabatte."
+        },
+        {
+          "q": "Gibt es in der Altstadt Hundegassi-Dienste?",
+          "a": "Ja. Rover und Pawshake bieten beide 30- bis 60-minütige Spaziergänge im Zentrum für etwa 12 bis 20 EUR an. Nützlich, wenn Sie ein Museum besuchen, in dem Hunde nicht erlaubt sind, oder ein längeres Restaurant-Abendessen einplanen."
         }
       ]
     }

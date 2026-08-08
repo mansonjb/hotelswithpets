@@ -38,7 +38,11 @@
           "tipFr": "La terrasse passe à l'ombre après 14h ; si votre chien craint la chaleur, réservez le second service du déjeuner.",
           "tipEs": "La terraza queda a la sombra después de las 14:00; si tu perro sufre con el calor, reserva el segundo turno de comida.",
           "tipPt": "A esplanada apanha sombra à tarde depois das 14:00; se o seu cão for sensível ao calor, reserve o serviço de almoço mais tardio.",
-          "googleMapsUrl": "https://maps.google.com/?q=Le+Vintage+Hyeres"
+          "googleMapsUrl": "https://maps.google.com/?q=Le+Vintage+Hyeres",
+          "descriptionDe": "Ein verlässliches Bistro an der palmengesäumten Avenue Gambetta mit einer großzügigen schattigen Terrasse und einer provenzalischen Karte, die den ganzen Tag über gilt. Hunde an der Leine sind auf der Terrasse ausdrücklich willkommen, und das Personal bringt ungefragt eine Wasserschale. Die Lage, auf halbem Weg zwischen dem SNCF-Bahnhof und dem Fuß der Vieille Ville, macht es zu einem einfachen Mittagsstopp.",
+          "petPolicyDe": "Hunde an der Leine auf der Terrasse willkommen",
+          "mustTryDe": "Tagesgericht, provenzalischer Salat, gegrillter Fisch aus der Region",
+          "tipDe": "Die Terrasse liegt ab 14:00 Uhr im Nachmittagsschatten; wenn Ihr Hund hitzeempfindlich ist, buchen Sie den späteren Mittagsservice."
         },
         {
           "name": "Le Marsico",
@@ -64,7 +68,11 @@
           "tipFr": "Le côté boulevard est plus chaud que la cour intérieure ; en plein été demandez la seconde rangée de tables sous la marquise.",
           "tipEs": "El lado del boulevard es más caluroso que el patio interior; en pleno verano pide la segunda fila de mesas bajo la marquesina.",
           "tipPt": "O lado do bulevar é mais quente do que o pátio interior; em pleno verão, peça a segunda fila de mesas sob o toldo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Le+Marsico+Hyeres"
+          "googleMapsUrl": "https://maps.google.com/?q=Le+Marsico+Hyeres",
+          "descriptionDe": "Eine alteingesessene Brasserie mit Blick auf den Yachthafen, auf der Wasserseite des Hafenboulevards, die seit Jahren unaufgeregt Hunde auf ihrer Terrasse willkommen heißt. Die Karte bietet schlichte Meeresfrüchte- und Brasserie-Klassiker: Moules-frites, gegrillte Goldbrasse, Salade niçoise, abends Pizza. Praktisch für ein entspanntes Mittagessen vor einer Fährüberfahrt mit TLV-TVM oder nach dem morgendlichen Spaziergang durch die Vieux Salins.",
+          "petPolicyDe": "Hunde an der Leine auf der Hafenterrasse willkommen",
+          "mustTryDe": "Moules-frites, gegrillte Goldbrasse, Salade niçoise",
+          "tipDe": "Die Boulevardseite ist heißer als der Innenhof; im Hochsommer nach der zweiten Tischreihe unter der Markise fragen."
         },
         {
           "name": "La Petite Galinette",
@@ -90,9 +98,16 @@
           "tipFr": "La Place Massillon est piétonne mais des deux-roues passent parfois ; un chien sensible est mieux aux tables du fond, près du mur de l'église.",
           "tipEs": "La Place Massillon es peatonal pero pasan motos de vez en cuando; un perro inquieto está mejor en las mesas del fondo, junto al muro de la iglesia.",
           "tipPt": "A Place Massillon fica fechada ao trânsito, mas ocasionalmente passam motas; um cão irrequieto fica melhor nas mesas dos fundos, mais perto da parede da igreja.",
-          "googleMapsUrl": "https://maps.google.com/?q=La+Petite+Galinette+Hyeres"
+          "googleMapsUrl": "https://maps.google.com/?q=La+Petite+Galinette+Hyeres",
+          "descriptionDe": "Ein winziges Bistro auf dem gepflasterten Place Massillon im Herzen der mittelalterlichen Vieille Ville, mit fünf oder sechs Tischen unter den Platanen. Die Küche ist kurz, marktfrisch und provenzalisch: Petits farcis, Pissaladière, Daube, gegrillter Fisch. Hunde an der Leine an den Außentischen gehören zum Alltagsbild; der Innenraum ist für ein Tier zu eng.",
+          "petPolicyDe": "Hunde an der Leine nur an den Außentischen willkommen",
+          "mustTryDe": "Petits farcis, Pissaladière, gegrillter Fisch",
+          "tipDe": "Der Place Massillon ist verkehrsfrei, aber gelegentlich fahren Motorräder durch; ein unruhiger Hund ist an den hinteren Tischen näher an der Kirchenmauer besser aufgehoben."
         }
-      ]
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Hyères",
+      "introDe": "Hyères ist verschlafener als Cannes oder Nizza, aber die Terrassen heißen Hunde ebenso willkommen. Die mittelalterliche Vieille Ville, die sich hinter der Avenue Gambetta den Hügel hinaufzieht, ist voller kleiner Bistros, deren Tische sich von Frühling bis Herbst auf die Fußgängergassen ausbreiten, und die Uferpromenade Port d'Hyères vor dem Yachthafen reiht Cafés und Brasserien aneinander, die es seit jeher für selbstverständlich halten, Hunde unter den Tisch zu lassen. Auf der Halbinsel Giens ist die Gruppe von Fischrestaurants an La Tour Fondue (dem Fährhafen nach Porquerolles) ebenso entspannt, praktisch vor der Bootsfahrt.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Dog-Friendly Parks in Hyères",
@@ -123,7 +138,10 @@
           "tipFr": "Entrez par la porte nord de l'Avenue Ambroise Thomas pour éviter la foule scolaire à l'entrée sud vers 16h30.",
           "tipEs": "Entra por la puerta norte de la Avenue Ambroise Thomas para evitar el bullicio escolar de la entrada sur hacia las 16:30.",
           "tipPt": "Entre pelo portão norte da Avenue Ambroise Thomas para evitar a multidão escolar à entrada sul por volta das 16:30.",
-          "googleMapsUrl": "https://maps.google.com/?q=Parc+Olbius+Riquier+Hyeres"
+          "googleMapsUrl": "https://maps.google.com/?q=Parc+Olbius+Riquier+Hyeres",
+          "descriptionDe": "Der Hauptpark der Stadt Hyères, 7 Hektar mit Palmen, exotischen Bäumen und botanischen Gewächshäusern, 10 Gehminuten von der Avenue Gambetta entfernt. Die Wege sind flach und schattig, mit einem Ententeich, einem kleinen Streichelzoo und einer frei zugänglichen Rasenfläche. Hunde an der Leine sind auf den Alleen willkommen, jedoch nicht im Streichelzoo-Gehege oder in den Gewächshäusern.",
+          "petPolicyDe": "Hunde an der Leine auf den Alleen willkommen; im Streichelzoo-Gehege und in den Gewächshäusern nicht erlaubt",
+          "tipDe": "Am nördlichen Tor Avenue Ambroise Thomas eintreten, um dem Schulgedränge am Südeingang gegen 16:30 Uhr auszuweichen."
         },
         {
           "name": "Vieux Salins d'Hyères",
@@ -144,7 +162,10 @@
           "tipFr": "Allez-y entre novembre et mars : flamants présents, lumière magnifique et absence des moustiques qui gâchent les soirées d'été.",
           "tipEs": "Ve entre noviembre y marzo: flamencos presentes, luz magnífica y ausencia de los mosquitos que arruinan las tardes de verano.",
           "tipPt": "Vá entre novembro e março: há flamingos, a luz é melhor, e os mosquitos que estragam as noites de verão estão ausentes.",
-          "googleMapsUrl": "https://maps.google.com/?q=Vieux+Salins+d+Hyeres"
+          "googleMapsUrl": "https://maps.google.com/?q=Vieux+Salins+d+Hyeres",
+          "descriptionDe": "Das östliche Salzsumpfgebiet, ein frei zugängliches Feuchtgebiet von rund 350 Hektar, das vom Conservatoire du Littoral als Teil des Netzwerks des Nationalparks Port-Cros betrieben wird. Flache Schotterwege umrunden die Becken, die Vogelwelt ist im Winter außergewöhnlich, und die Salinen bieten Ausblicke auf die Îles d'Or. Hunde an der Leine sind auf den markierten Wegen erlaubt.",
+          "petPolicyDe": "Hunde an der Leine auf den markierten Wegen willkommen",
+          "tipDe": "Zwischen November und März kommen: Flamingos sind präsent, das Licht ist am schönsten, und die Mücken, die die Sommerabende verderben, fehlen."
         },
         {
           "name": "Salin des Pesquiers and Giens tombolo",
@@ -165,9 +186,15 @@
           "tipFr": "Combinez avec un détour de 10 km à l'est jusqu'à la Plage du Mérou (cani-plage) ; les deux tiennent dans une journée tranquille.",
           "tipEs": "Combínalo con un desvío de 10 km al este hasta la Plage du Mérou (cani-plage); ambos caben en una jornada tranquila.",
           "tipPt": "Combine com um pequeno desvio à cani-plage da Plage du Mérou, 10 km a leste; pode fazer ambos num único dia tranquilo.",
-          "googleMapsUrl": "https://maps.google.com/?q=Salin+des+Pesquiers+Giens"
+          "googleMapsUrl": "https://maps.google.com/?q=Salin+des+Pesquiers+Giens",
+          "descriptionDe": "Die westliche Saline liegt zwischen den beiden Sandbarren (Tombolos), die Giens mit dem Festland verbinden. Die Route du Sel ist im Sommer für Autos gesperrt und wird zu einer flachen, 7 km langen Wander- und Radstrecke entlang der Salinen mit Blick auf Porquerolles. Das Innere der Saline ist nur mit geführter Tour zugänglich, aber der Randweg ist mit einem angeleinten Hund frei begehbar.",
+          "petPolicyDe": "Hunde an der Leine auf dem Randweg der Route du Sel willkommen; das Innere nur mit geführter Tour (keine Hunde)",
+          "tipDe": "Mit einem kurzen Abstecher zum Hundestrand Plage du Mérou 10 km östlich kombinieren; beides lässt sich an einem ruhigen Tag erledigen."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Parks in Hyères",
+      "introDe": "Hyères verbindet klassische Riviera-Palmen mit weitläufigen Naturschutzgebieten im Süden: den Salzwiesen Vieux Salins und Pesquiers auf beiden Seiten des Tombolo von Giens, den bewaldeten Parc Olbius Riquier mit seinen botanischen Gewächshäusern und den Sentier du Littoral, der die beiden Salzsumpfgebiete verbindet. Alle drei sind ganzjährig Gebiet für angeleinte Hunde, wobei der Spaziergang durch die Salinen besonders in den kühlen Monaten reizvoll ist, wenn Flamingos präsent sind.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Pet-Friendly Transport in Hyères",
@@ -197,7 +224,10 @@
           "tipFr": "Sur la ligne de la Tour Fondue en été, les bus se remplissent à 9h30 avec les passagers du ferry ; prenez le 8h ou le 11h30 si possible.",
           "tipEs": "En la línea de la Tour Fondue en verano, los autobuses se llenan a las 9:30 con pasajeros del ferry; coge el de las 8:00 o 11:30 si puedes.",
           "tipPt": "Na linha da Tour Fondue no verão, os autocarros enchem às 09:30 com os passageiros do ferry; apanhe o serviço das 08:00 ou das 11:30 se puder.",
-          "googleMapsUrl": "https://www.reseaumistral.com"
+          "googleMapsUrl": "https://www.reseaumistral.com",
+          "descriptionDe": "Réseau Mistral betreibt die Stadtbusse und die saisonalen Bateaux-Bus in 12 Gemeinden der Agglomeration Toulon, einschließlich Hyères. Kleine Haustiere in einer Tragetasche fahren kostenlos; große Hunde müssen an der Leine sein und einen Maulkorb tragen. Der Bus vom Zentrum von Hyères zur La Tour Fondue (Giens), der die Fähre nach Porquerolles bedient, ist die praktische Linie für Besucher mit Hund.",
+          "petPolicyDe": "Kleine Haustiere in Tragetasche kostenlos; große Hunde Leine + Maulkorb",
+          "tipDe": "Auf der Linie Tour Fondue füllen sich die Busse im Sommer um 09:30 Uhr mit Fahrgästen der Fähre; wenn möglich den Service um 08:00 oder 11:30 Uhr nehmen."
         },
         {
           "name": "TLV-TVM ferries to the Îles d'Or",
@@ -217,7 +247,10 @@
           "tipFr": "Privilégiez Porquerolles : les chiens sont admis au village et sur les sentiers forestiers (en laisse) avec bien plus d'options que Port-Cros où on ne peut pas quitter le quai.",
           "tipEs": "Mejor Porquerolles: los perros se admiten en el pueblo y senderos forestales (con correa), con muchas más opciones que Port-Cros donde no se puede salir del muelle.",
           "tipPt": "Vá a Porquerolles: os cães são permitidos na aldeia e nos trilhos da floresta (com trela) e há muito mais opções do que em Port-Cros, onde não pode sair do cais.",
-          "googleMapsUrl": "https://www.tlv-tvm.com"
+          "googleMapsUrl": "https://www.tlv-tvm.com",
+          "descriptionDe": "TLV-TVM betreiben die ganzjährigen Shuttles nach Porquerolles (ab La Tour Fondue, 20 Minuten) sowie nach Port-Cros und Le Levant (ab Port d'Hyères, 60 Minuten). Laut offiziellem Règlement intérieur reisen Hunde kostenlos und ohne Ticket, müssen an Bord an der Leine sein, und das Unternehmen empfiehlt einen Maulkorb bei belebten Sommerüberfahrten. Zu beachten sind die untenstehenden Regeln am Zielort: Auf den Inseln selbst gelten Einschränkungen für Hunde.",
+          "petPolicyDe": "Hunde an Bord an der Leine kostenlos; Einschränkungen auf den Inseln (keine Hunde an den Stränden von Porquerolles; auf Port-Cros nur der Hafenbereich)",
+          "tipDe": "Nach Porquerolles fahren: Hunde sind im Dorf und auf den Waldwegen erlaubt (an der Leine), und es gibt weit mehr Möglichkeiten als auf Port-Cros, wo man den Hafenbereich nicht verlassen darf."
         },
         {
           "name": "Gare SNCF de Hyères",
@@ -237,9 +270,15 @@
           "tipFr": "Visez les TER de 11h ou 14h vers Toulon, hors heure de pointe ; les trains d'heure pointue peuvent être pénibles pour un grand chien.",
           "tipEs": "Apunta a los TER de las 11:00 o 14:00 a Toulon, fuera de hora punta; los trenes de hora punta pueden resultar incómodos para un perro grande.",
           "tipPt": "Opte pelas partidas TER fora de horas de ponta, das 11:00 ou das 14:00, para Toulon; os comboios da hora de ponta podem ficar desconfortavelmente cheios para um cão grande.",
-          "googleMapsUrl": "https://maps.google.com/?q=Gare+SNCF+Hyeres"
+          "googleMapsUrl": "https://maps.google.com/?q=Gare+SNCF+Hyeres",
+          "descriptionDe": "Hyères ist der östliche Endpunkt der TER-Linie Marseille-Toulon-Hyères, mit Verbindungen alle 30 bis 60 Minuten nach Toulon (20 Minuten) und weiter bis Marseille Saint-Charles (1 Std. 30 Min.). Bahnsteigwechsel in Toulon ermöglichen Anschluss an TGV-Verbindungen nach Paris, Lyon und Lille. Es gelten die SNCF-Haustierregeln: Hunde unter 6 kg in einer Transportbox 7,50 EUR, größere Hunde angeleint mit Maulkorb zum halben Erwachsenenpreis.",
+          "petPolicyDe": "Hunde <6 kg in Transportbox 7,50 EUR; Hunde >6 kg zahlen 50 % des Erwachsenenpreises, angeleint mit Maulkorb",
+          "tipDe": "Die verkehrsärmeren TER-Abfahrten um 11:00 oder 14:00 Uhr nach Toulon nutzen; Züge zur Hauptverkehrszeit können für einen großen Hund unangenehm voll sein."
         }
-      ]
+      ],
+      "titleDe": "Haustierfreundlicher Nahverkehr in Hyères",
+      "introDe": "Hyères ist die östliche Endstation der TER-Linie Marseille-Toulon-Hyères und das Tor zu den Îles d'Or per Fähre. Auf den Zügen gelten die nationalen SNCF-Haustierregeln, das städtische Netz Réseau Mistral akzeptiert kleine Haustiere in einer Tragetasche und große Hunde angeleint mit Maulkorb, und die Fähren TLV-TVM nach Porquerolles, Port-Cros und Le Levant befördern Hunde kostenlos. Diese Kombination macht Hyères zu einem der leichter mit öffentlichen Verkehrsmitteln und Tier erreichbaren Orte an der französischen Riviera.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Beaches in Hyères",
@@ -270,7 +309,10 @@
           "tipFr": "Stationnez le long du Boulevard du Front de Mer parallèle à la plage ; le parking municipal officiel 200 m au nord est gratuit mais se remplit tôt les week-ends d'été.",
           "tipEs": "Aparca a lo largo del Boulevard du Front de Mer paralelo a la arena; el aparcamiento municipal oficial 200 m al norte es gratuito pero se llena pronto los fines de semana de verano.",
           "tipPt": "Estacione ao longo do Boulevard du Front de Mer paralelo ao areal; o parque municipal oficial, 200 m a norte, é gratuito mas enche cedo aos fins de semana de verão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plage+du+Merou+Hyeres"
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+du+Merou+Hyeres",
+          "descriptionDe": "Der einzige offiziell genehmigte Hundestrand in Hyères, von der Gemeinde an der Ostküste zwischen L'Ayguade und Les Salins eingerichtet. Der Hundebereich ist durch hölzerne Ganivelle-Zäune abgegrenzt, an den Eingängen beschildert und mit kostenlosen Kotbeutelspendern und Mülleimern ausgestattet. Der Sand ist fein und das Wasser wird sanft tiefer, geeignet für Hunde jeder Größe.",
+          "petPolicyDe": "Hunde ganzjährig im markierten Bereich willkommen; an der Leine, Besitzer für die Reinigung verantwortlich",
+          "tipDe": "Entlang des Boulevard du Front de Mer parallel zum Sand parken; der offizielle städtische Parkplatz 200 m nördlich ist kostenlos, füllt sich an Sommerwochenenden aber früh."
         },
         {
           "name": "Plages des Vieux Salins (off-season walking)",
@@ -290,7 +332,10 @@
           "tipFr": "Évitez les week-ends de vacances scolaires d'octobre et avril ; les habitants savent que c'est l'une des rares portions sauvages canines et l'affluence est forte.",
           "tipEs": "Evita los fines de semana de vacaciones escolares de octubre y abril; los locales saben que es uno de los pocos tramos salvajes para perros y la afluencia es alta.",
           "tipPt": "Evite os fins de semana de férias escolares em outubro e abril; os habitantes locais sabem que este é um dos poucos troços selvagens para cães e a afluência é grande.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plages+Vieux+Salins+Hyeres"
+          "googleMapsUrl": "https://maps.google.com/?q=Plages+Vieux+Salins+Hyeres",
+          "descriptionDe": "Genau genommen handelt es sich um die wilden Sandabschnitte zwischen dem Hundestrand Mérou und dem östlichen Ende der Vieux Salins. Sie gelten nicht formell als überwachte Strände und dienen außerhalb der Badesaison als lange, menschenleere Hundespazierstrecken ohne Badegäste, unmittelbar hinter dem Feuchtgebiet der Vieux Salins. Die Windexposition ist hoch; vorab die Mistral-Vorhersage prüfen.",
+          "petPolicyDe": "Angeleintes Gehen außerhalb der Saison toleriert; Badeverbot in der Saison gilt für die angrenzenden überwachten Bereiche",
+          "tipDe": "Die Ferienwochenenden im Oktober und April meiden; Einheimische wissen, dass dies einer der wenigen wilden Hundeabschnitte ist, und der Andrang ist entsprechend hoch."
         },
         {
           "name": "Almanarre, Bergerie, Madrague (NOT dog-friendly)",
@@ -310,9 +355,15 @@
           "tipFr": "Si vous voulez vraiment mer et sable à Giens, parcourez la Route du Sel avec le chien en laisse et oubliez la plage en elle-même.",
           "tipEs": "Si quieres mar y arena en Giens, recorre la Route du Sel con el perro con correa y olvida la playa en sí.",
           "tipPt": "Se quiser mesmo mar e areia em Giens, percorra a Route du Sel com o cão com trela e dispense a praia propriamente dita.",
-          "googleMapsUrl": "https://maps.google.com/?q=Plage+Almanarre+Giens"
+          "googleMapsUrl": "https://maps.google.com/?q=Plage+Almanarre+Giens",
+          "descriptionDe": "Hier eher als Warnung denn als Empfehlung aufgeführt: Die drei bekanntesten Strände am Tombolo von Giens (der für Windsurfen berühmte Almanarre, La Bergerie und La Madrague) verbieten Hunde laut Gemeindevorschriften ausdrücklich ganzjährig. Der Zugang zu Fuß endet an den Dünen; wer einen Hund hat, sollte die Strandzeit stattdessen am Hundestrand Mérou einplanen.",
+          "petPolicyDe": "Hunde ganzjährig verboten; bei Kontrolle droht ein Bußgeld der Gemeinde",
+          "tipDe": "Wer auf Giens wirklich Meer und Sand mit Hund erleben möchte, geht die Route du Sel angeleint und lässt den eigentlichen Strand aus."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Strände in Hyères",
+      "introDe": "Hyères hebt sich von anderen Riviera-Orten ab, weil es einen ganzjährig offiziell ausgewiesenen Hundestrand besitzt: die Plage du Mérou, den Hundestrand zwischen L'Ayguade und Les Salins am Boulevard du Front de Mer, den die Stadt mit hölzernen Ganivelle-Zäunen, Beschilderung, Kotbeutelspendern und Mülleimern eingerichtet hat. Die Strände Almanarre, La Bergerie und La Madrague sind alle für Hunde gesperrt, ebenso wie die per Fähre erreichbaren Strände von Porquerolles. Außerhalb der Badesaison wird angeleintes Gehen auf den ruhigeren Abschnitten des Tombolo von Giens toleriert.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinarians in Hyères",
@@ -344,7 +395,10 @@
           "tipFr": "Présentez-vous sans appeler pour une vraie urgence ; l'équipe de garde de nuit sur place est faite pour ça. Pour une consultation simple, prenez rendez-vous en ligne.",
           "tipEs": "Preséntate sin llamar para una urgencia real; el equipo de guardia nocturna en el sitio está preparado. Para consultas rutinarias reserva en línea.",
           "tipPt": "Para verdadeiras urgências, vá sem telefonar; a equipa noturna no local prepara-se para isso. Para consultas de rotina, marque com antecedência online.",
-          "googleMapsUrl": "https://maps.google.com/?q=Univet+La+Rade+Hyeres"
+          "googleMapsUrl": "https://maps.google.com/?q=Univet+La+Rade+Hyeres",
+          "descriptionDe": "Eine Vollklinik an der zentralen Avenue Alphonse Denis mit einer für eine Stadt dieser Größe ungewöhnlichen Besonderheit: ein Tierarzt ist physisch rund um die Uhr vor Ort. Sprechstunden, Chirurgie, Bildgebung, Labor und Zahnmedizin. EU-Heimtierausweise und Reisezertifikate werden am selben Tag ausgestellt. An der Rezeption wird Englisch gesprochen.",
+          "petPolicyDe": "Alle Haustiere willkommen; EU-Heimtierausweis-Unterlagen werden ausgestellt",
+          "tipDe": "Bei echten Notfällen ohne vorherigen Anruf vorbeikommen; das Nachtteam vor Ort ist genau dafür eingerichtet. Für Routinesprechstunden vorab online buchen."
         },
         {
           "name": "Clinique Vétérinaire Olbia",
@@ -366,7 +420,10 @@
           "tipFr": "Olbia est plus rapide à rejoindre en voiture depuis la presqu'île de Giens que Univet La Rade au centre ; utile si vous logez à La Capte ou à La Tour Fondue.",
           "tipEs": "Olbia se alcanza más rápido en coche desde la península de Giens que Univet La Rade en el centro; útil si te alojas en La Capte o La Tour Fondue.",
           "tipPt": "A Olbia é mais rápida de alcançar de carro a partir da península de Giens do que a Univet La Rade no centro; útil saber se ficar em La Capte ou em La Tour Fondue.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Olbia+Hyeres"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinique+Olbia+Hyeres",
+          "descriptionDe": "Eine moderne Klinik im Westen von Hyères, nahe der Straße zum Flughafen Toulon, mit Sprechstunden, Chirurgie und Bildgebung. Das Team betreibt eine 24-Stunden-Notrufnummer; Fälle außerhalb der Öffnungszeiten übernimmt der diensthabende Tierarzt, der innerhalb weniger Minuten zurückruft. Eine nützliche zweite Option, wenn Univet La Rade in der Hochsaison ausgebucht ist.",
+          "petPolicyDe": "Alle Haustiere willkommen; 24-Stunden-Rückruf im Notfall",
+          "tipDe": "Olbia ist von der Halbinsel Giens aus mit dem Auto schneller zu erreichen als Univet La Rade im Zentrum; nützlich zu wissen, wenn man in La Capte oder La Tour Fondue übernachtet."
         },
         {
           "name": "3115 Service Urgences Vétérinaires",
@@ -388,9 +445,15 @@
           "tipFr": "Le réseau mobile est inégal sur les sentiers forestiers de Porquerolles ; enregistrez le numéro direct d'Univet La Rade en plus du 3115 avant la traversée.",
           "tipEs": "La cobertura es irregular en los senderos forestales de Porquerolles; guarda el número directo de Univet La Rade además del 3115 antes del ferry.",
           "tipPt": "A cobertura de rede móvel é irregular nos trilhos da floresta de Porquerolles; guarde o número direto da Univet La Rade a par do 3115 antes de apanhar o ferry.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Die nationale Tierarzt-Notrufnummer 3115 ist kostenlos, rund um die Uhr erreichbar und verbindet mit dem diensthabenden Tierarzt in Ihrer Nähe. Sie deckt das gesamte Var-Département einschließlich der Halbinsel Giens und der Ostküste von Hyères ab, nützlich, wenn ein Problem außerhalb des Stadtzentrums auftritt.",
+          "petPolicyDe": "Alle Tierarten, rund um die Uhr",
+          "tipDe": "Der Mobilfunkempfang auf den Waldwegen von Porquerolles ist lückenhaft; die Direktnummer von Univet La Rade neben der 3115 speichern, bevor man die Fähre nimmt."
         }
-      ]
+      ],
+      "titleDe": "Tierärzte in Hyères",
+      "introDe": "Für eine französische Ferienstadt ungewöhnlich verfügt Hyères über eine Tierklinik mit 24-Stunden-Vor-Ort-Betrieb, Univet La Rade an der Avenue Alphonse Denis, wo nachts tatsächlich ein Tierarzt vor Ort ist statt nur in Rufbereitschaft. Auch die Clinique Olbia und die Praxis Moutonne betreiben 24-Stunden-Notdienste. Die nationale Hotline 3115 funktioniert im gesamten Var-Département und verbindet kostenlos mit dem nächsten diensthabenden Tierarzt.",
+      "faqsDe": []
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Hyères",
@@ -421,7 +484,10 @@
           "tipFr": "Montez à la fraîche le matin (avant 10h en été) ou après 18h ; les marches calcaires emmagasinent la chaleur en pleine journée.",
           "tipEs": "Sube al fresco de la mañana (antes de las 10:00 en verano) o después de las 18:00; los escalones calizos acumulan calor a mediodía.",
           "tipPt": "Suba no fresco da manhã (antes das 10h no verão) ou depois das 18:00; os degraus de calcário apanham o calor do meio-dia.",
-          "googleMapsUrl": "https://maps.google.com/?q=Vieille+Ville+Hyeres+Parc+Saint+Bernard"
+          "googleMapsUrl": "https://maps.google.com/?q=Vieille+Ville+Hyeres+Parc+Saint+Bernard",
+          "descriptionDe": "Die mittelalterliche Altstadt von Hyères zieht sich den Hügel oberhalb der Avenue Gambetta hinauf, durch den Place Massillon (den Marktplatz), vorbei an der Collégiale Saint-Paul, hinauf zum Parc Saint-Bernard und den Ruinen der mittelalterlichen Burg, mit einem weiten Panorama über die Halbinsel Giens und die Îles d'Or. Der vollständige Aufstieg zu Fuß dauert 30 bis 40 Minuten und ist mit angeleintem Hund vollständig zugänglich.",
+          "petPolicyDe": "Hunde an der Leine auf allen Straßen und im Parc Saint-Bernard willkommen",
+          "tipDe": "In der Morgenkühle (vor 10 Uhr im Sommer) oder nach 18:00 Uhr aufsteigen; die Kalksteinstufen heizen sich mittags auf."
         },
         {
           "name": "Île de Porquerolles day trip",
@@ -442,7 +508,10 @@
           "tipFr": "Prenez la première traversée du matin (vers 8h30) et le dernier retour (vers 17h30) ; le village entre les deux se remplit et le chien préfère les sentiers forestiers.",
           "tipEs": "Toma la primera travesía de la mañana (sobre las 8:30) y el último regreso (sobre las 17:30); el pueblo entre medias se llena y el perro está mejor en los senderos forestales.",
           "tipPt": "Apanhe a primeira travessia da manhã (por volta das 08:30) e o último regresso (por volta das 17:30); a aldeia entretanto enche-se de visitantes de um dia e o cão fica mais feliz nos trilhos da floresta.",
-          "googleMapsUrl": "https://maps.google.com/?q=Porquerolles+ferry+La+Tour+Fondue"
+          "googleMapsUrl": "https://maps.google.com/?q=Porquerolles+ferry+La+Tour+Fondue",
+          "descriptionDe": "Porquerolles, die größte der Îles d'Or, ist mit den TLV-TVM-Shuttles von La Tour Fondue aus in 20 Minuten erreichbar. Laut den Regeln des Nationalparks Port-Cros sind Hunde auf dem Dorfplatz und auf den Waldwegen willkommen (an der Leine, unter Kontrolle), an allen Stränden jedoch strikt verboten. Mit einem flexiblen Plan und einem Sitter für die Badezeit ist er als Tagesausflug mit Hund machbar.",
+          "petPolicyDe": "Hunde im Dorf und auf den Waldwegen an der Leine willkommen; an allen Stränden verboten",
+          "tipDe": "Die erste morgendliche Überfahrt (gegen 08:30 Uhr) und die letzte Rückfahrt (gegen 17:30 Uhr) nehmen; dazwischen füllt sich das Dorf mit Tagesausflüglern, und der Hund ist auf den Waldwegen glücklicher."
         },
         {
           "name": "Avenue Gambetta palm walk",
@@ -463,9 +532,15 @@
           "tipFr": "Le mardi matin est jour de marché sur l'Avenue Joseph Clotis voisine ; arrivez tôt, le secteur est dense dès 9h.",
           "tipEs": "El martes por la mañana hay mercado en la Avenue Joseph Clotis cercana; llega temprano, la zona está concurrida desde las 9:00.",
           "tipPt": "Terça-feira de manhã é dia de mercado na vizinha Avenue Joseph Clotis; chegue cedo, o percurso fica movimentado com compradores a partir das 09:00.",
-          "googleMapsUrl": "https://maps.google.com/?q=Avenue+Gambetta+Hyeres"
+          "googleMapsUrl": "https://maps.google.com/?q=Avenue+Gambetta+Hyeres",
+          "descriptionDe": "Hyères trägt den Beinamen Hyères-les-Palmiers wegen der langen, mit Kanarischen Dattelpalmen gesäumten Avenue Gambetta, dem Rückgrat der modernen Stadt zwischen dem SNCF-Bahnhof und dem alten Casino. Die Gehwege sind breit, die Terrassen hundefreundlich, und die Allee bietet an heißen Nachmittagen einen einfachen, flachen 800-Meter-Spaziergang unter durchgehendem Palmenschatten.",
+          "petPolicyDe": "Hunde an der Leine auf Gehwegen und Terrassen willkommen",
+          "tipDe": "Dienstagvormittag ist Markttag an der nahegelegenen Avenue Joseph Clotis; früh kommen, ab 09:00 Uhr ist die Strecke voller Einkäufer."
         }
-      ]
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Hyères",
+      "introDe": "Hyères eignet sich besser für eine hundegerechte Route als die meisten Riviera-Städte. Die mittelalterliche Vieille Ville, die zum Parc Saint-Bernard hinaufführt, die palmengesäumte Avenue Gambetta, das doppelte Tombolo von Giens, das Flamingo-Feuchtgebiet der Vieux Salins und ein Tagesausflug nach Porquerolles (mit Planung) funktionieren alle mit einem angeleinten Tier. Die beiden erwähnenswerten Indoor-Attraktionen, das modernistische Haus Villa Noailles und die Tour des Templiers, schränken Haustiere ein, doch die Outdoor-Seite von Hyères ist so groß, dass das selten ins Gewicht fällt.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Pet Travel Tips for Hyères",
@@ -527,7 +602,10 @@
           "descriptionEs": "La península de Giens es uno de los puntos más ventosos de la costa francesa: con mistral fuerte, los senderos de las salinas y el tombolo se vuelven desagradables o peligrosos para un perro pequeño. En julio y agosto, las temperaturas de mediodía superan con frecuencia los 30°C; los escalones calizos de la Vieille Ville y la arena del Mérou queman las almohadillas. Pasea temprano o tarde.",
           "descriptionPt": "A península de Giens é um dos pontos mais ventosos da costa francesa: com mistral forte, os trilhos das salinas e o tômbolo tornam-se desagradáveis ou perigosos para um cão pequeno. Em julho e agosto, as temperaturas do meio-dia ultrapassam frequentemente os 30°C; os degraus calcários da Vieille Ville e a areia do Mérou queimam as patas. Passeie cedo ou tarde."
         }
-      ]
+      ],
+      "titleDe": "Tipps für Reisen mit Haustier in Hyères",
+      "introDe": "Hyères ist eine der wenigen Riviera-Städte mit einem offiziellen, ganzjährigen Hundestrand und verfügt über eine echte 24-Stunden-Tierklinik vor Ort, beides wissenswert im Voraus. Die Einschränkungen auf den Inseln Porquerolles und Port-Cros sind die Hauptüberraschung für Erstbesucher. Diese fünf Punkte im Voraus einplanen, dann steht dem Aufenthalt nichts im Weg.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet-Sitting Services in Hyères",
@@ -558,7 +636,10 @@
           "tipFr": "Si vous prévoyez une journée à Port-Cros, réservez le sitter sur toute la plage matin-soir ; le dernier retour est vers 17h30 et la récupération plus tard est compliquée.",
           "tipEs": "Si planificas un día en Port-Cros, reserva al cuidador para toda la franja mañana-tarde; el último regreso es sobre las 17:30 y la recogida posterior es complicada.",
           "tipPt": "Se planeia um dia em Port-Cros, reserve o cuidador para toda a janela de manhã a noite; o último ferry de regresso é por volta das 17:30 e uma recolha mais tarde é complicada.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Pawshake ist das dichteste Netzwerk für Haustierbetreuung in Südfrankreich, mit Sittern in Hyères, La Crau, Carqueiranne und der Agglomeration Toulon. Die Leistungen umfassen Kurzbesuche, Spaziergänge, Tagesbetreuung und Unterbringung zu Hause. Die Sitter-Profile zeigen Bewertungen und einen festen Nachtsatz; die Versicherung ist über die Plattform inbegriffen.",
+          "petPolicyDe": "Alle kleinen Haustiere; Profile geben akzeptierte Größen und Arten an",
+          "tipDe": "Bei einem Ausflug nach Port-Cros den Sitter für das gesamte Zeitfenster vom Morgen bis zum Abend buchen; die letzte Fähre zurück fährt gegen 17:30 Uhr, eine spätere Abholung ist umständlich."
         },
         {
           "name": "Holidog",
@@ -579,7 +660,10 @@
           "tipFr": "Filtrez les hôtes à distance de marche de votre hôtel ; les arrêts Mistral à Giens sont limités et un VTC avec chien alourdit la note.",
           "tipEs": "Filtra anfitriones a distancia a pie de tu hotel; las paradas Mistral en Giens son limitadas y un VTC con perro encarece bastante.",
           "tipPt": "Filtre por anfitriões a curta distância a pé do seu hotel; as paragens do autocarro Mistral em Giens são limitadas e um VTC com um cão acrescenta bastante ao custo.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Holidog ist ein in Frankreich gegründetes Netzwerk für Haustierbetreuung mit starker lokaler Präsenz an der Var-Küste. Die Seite listet geprüfte Gastgeber, die Unterbringung zu Hause, Tagesbetreuung und Spaziergänge anbieten, mit Kaution und vollständiger Haftpflichtversicherung. Nützlich für mehrtägige Aufenthalte, wenn ein Hotel den Hund nicht ganztägig aufnehmen kann.",
+          "petPolicyDe": "Hunde und Katzen; Gastgeberprofile geben die Akzeptanz an",
+          "tipDe": "Nach Gastgebern in Gehdistanz zum Hotel filtern; die Haltestellen des Mistral-Busses in Giens sind begrenzt, und ein VTC mit Hund erhöht die Kosten deutlich."
         },
         {
           "name": "Animaute",
@@ -600,9 +684,15 @@
           "tipFr": "Pour une semaine complète, écrivez à trois gardiens et comparez ; les tarifs semaine sur Animaute varient beaucoup d'un hôte à l'autre.",
           "tipEs": "Si reservas una semana completa, escribe a tres cuidadores y compara; las tarifas semanales en Animaute varían mucho entre anfitriones.",
           "tipPt": "Se estiver a reservar para uma semana inteira, contacte três cuidadores e compare; as tarifas semanais na Animaute variam muito entre anfitriões.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Animaute ist eine französische Plattform für Tierbetreuung mit aktiven Gastgebern im Korridor Hyères-Toulon. Die Leistungen umfassen Unterbringung zu Hause, Tagesbetreuung, Spaziergänge und Kurzbesuche. Die Plattform kümmert sich um Zahlung, Versicherung und ein strukturiertes Bewertungssystem. Für mehrtägige Buchungen im Var meist günstiger als Pawshake.",
+          "petPolicyDe": "Hunde, Katzen, Kaninchen und Nagetiere; das Sitter-Profil legt die Akzeptanz fest",
+          "tipDe": "Bei einer Buchung für eine ganze Woche drei Sitter anschreiben und vergleichen; die Wochensätze auf Animaute variieren stark zwischen den Gastgebern."
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung in Hyères",
+      "introDe": "Für Aktivitäten, bei denen der Hund nicht dabei sein kann, eine Wanderung auf Port-Cros, ein langes Mittagessen in einem der Restaurants an der Uferpromenade Almanarre, das Innere der Villa Noailles, decken die drei wichtigsten Plattformen für Haustierbetreuung Hyères und die weitere Var-Küste ab und stellen kurzfristig Sitter bereit.",
+      "faqsDe": []
     }
   }
 }

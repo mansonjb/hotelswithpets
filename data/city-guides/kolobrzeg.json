@@ -39,7 +39,11 @@
           "tipFr": "Demandez une table du jardin côté port, plus calme et plus ombragée que le côté rue.",
           "tipEs": "Pide una mesa del jardín orientada al puerto, más tranquila y sombreada que el lado de la calle.",
           "tipPt": "Peça uma mesa do jardim virada para o porto, mais tranquila e sombreada do que o lado da rua.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pod+Winogronami+Towarowa+16+Kolobrzeg"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Pod+Winogronami+Towarowa+16+Kolobrzeg",
+          "descriptionDe": "Ein seit langem bestehendes polnisch-mediterranes Restaurant direkt an der belebten Fischerhafen-Uferpromenade mit Gartenterrasse. Hunde sind sowohl auf der Terrasse als auch, ruhig, im Inneren willkommen.",
+          "petPolicyDe": "Hunde willkommen auf der Gartenterrasse und, wenn ruhig, auch im Inneren. Wassernäpfe auf Anfrage.",
+          "mustTryDe": "Gebackener Zander nach Moskauer Art",
+          "tipDe": "Bitten Sie um einen Gartentisch mit Blick zum Hafen, ruhiger und schattiger als die Straßenseite."
         },
         {
           "name": "Bazylia Pizza & Grill",
@@ -65,7 +69,11 @@
           "tipFr": "Les soirées de week-end sont très fréquentées. Réservez en juillet et août.",
           "tipEs": "Las noches de fin de semana se llenan. Reserva en julio y agosto.",
           "tipPt": "As noites de fim de semana enchem. Reserve em julho e agosto.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bazylia+Pizza+Grill+Narutowicza+15+Kolobrzeg"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bazylia+Pizza+Grill+Narutowicza+15+Kolobrzeg",
+          "descriptionDe": "Ein gemütlicher Pizza- und Grillort in der Altstadt mit Sofas und warmer Beleuchtung. Hunde sind mittags und abends regelmäßig an den Außentischen zu sehen.",
+          "petPolicyDe": "Hunde an den Außentischen willkommen, angeleint.",
+          "mustTryDe": "Pizza aus dem Holzofen und gegrillte Rippchen",
+          "tipDe": "An Wochenendabenden wird es voll. Im Juli und August im Voraus reservieren."
         },
         {
           "name": "Masarnia Burger Bar",
@@ -91,7 +99,11 @@
           "tipFr": "Une option rapide et décontractée près de la place de la vieille ville, idéale après une longue balade sur la promenade.",
           "tipEs": "Una opción rápida e informal cerca de la plaza del casco antiguo, ideal tras un largo paseo por el malecón.",
           "tipPt": "Uma opção rápida e informal perto da praça da cidade velha, ideal após um longo passeio pelo passeio marítimo.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Masarnia+Burger+Bar+Kamienna+1+Kolobrzeg"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Masarnia+Burger+Bar+Kamienna+1+Kolobrzeg",
+          "descriptionDe": "Kolobrzegs ursprüngliche Burger-Bar, seit 2015 in Betrieb, mit einem kleinen Außenbereich. Hunde sind draußen willkommen, und das Personal bringt bei warmem Wetter Wassernäpfe.",
+          "petPolicyDe": "Hunde an den Außentischen willkommen.",
+          "mustTryDe": "Klassischer Rindfleisch-Burger",
+          "tipDe": "Eine schnelle, ungezwungene Option nahe dem Altstadtplatz, gut nach einem langen Spaziergang auf der Promenade."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "É fácil encontrar restaurantes que aceitem cães perto do passeio marítimo?",
           "a": "Sim. As ruas logo atrás do passeio, Towarowa, Narutowicza e Kamienna, têm várias esplanadas que costumam receber clientes com cães presos à trela de maio a setembro."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Kolobrzeg",
+      "introDe": "Die Strandpromenade und die alten Fischerhafenstraßen von Kolobrzeg haben eine entspannte Terrassenkultur im Freien, die sich fast das ganze Jahr über für einen gut erzogenen Hund eignet. Hygienevorschriften halten Haustiere in den meisten Lokalen von geschlossenen Speiseräumen fern, doch Gärten, überdachte Terrassen und Straßentische rund um die Straßen Towarowa, Narutowicza und Kamienna heißen angeleinte Hunde regelmäßig willkommen, besonders in der Saison von Mai bis September. Im Winter ist es dennoch ratsam, vorher anzurufen, da manche Terrassen für die Saison schließen.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund mit in Restaurants in Kolobrzeg nehmen?",
+          "a": "In der Regel nein. Die polnischen Hygienevorschriften halten Tiere in den meisten Betrieben von geschlossenen Gastronomiebereichen fern, obwohl einige, wie Pod Winogronami, einen ruhigen Hund im Inneren dulden. Außenterrassen sind fast überall die verlässliche Option."
+        },
+        {
+          "q": "Stellen Restaurants Wassernäpfe für Hunde bereit?",
+          "a": "Die meisten hundefreundlichen Terrassen bringen auf Anfrage einen Napf mit Wasser, besonders in den wärmeren Monaten, aber das ist nicht überall selbstverständlich, also fragen Sie nach."
+        },
+        {
+          "q": "Ist es leicht, hundefreundliche Restaurants in der Nähe der Strandpromenade zu finden?",
+          "a": "Ja. Die Straßen direkt hinter der Promenade, Towarowa, Narutowicza und Kamienna, verfügen über mehrere Terrassen, die von Mai bis September regelmäßig Gäste mit angeleinten Hunden bewirten."
+        }
       ]
     },
     "parks": {
@@ -199,7 +227,10 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Nadmorski+Park+Zdrojowy+Kolobrzeg",
           "descriptionPt": "O histórico parque termal liga o molhe e a zona do farol ao centro da cidade por avenidas sombreadas, roseirais e bancos. Os cães presos à trela são bem-vindos em todos os caminhos.",
           "offLeashAreaPt": "Nenhuma, trela obrigatória em todo o parque",
-          "tipPt": "De manhã cedo é mais tranquilo, antes de chegarem os grupos de autocarro ao lado do molhe."
+          "tipPt": "De manhã cedo é mais tranquilo, antes de chegarem os grupos de autocarro ao lado do molhe.",
+          "descriptionDe": "Der historische Kurpark verbindet das Gebiet um Seebrücke und Leuchtturm über schattige Alleen, Rosengärten und Bänke mit dem Stadtzentrum. Angeleinte Hunde sind auf allen Wegen willkommen.",
+          "offLeashAreaDe": "Keine, im gesamten Park ist eine Leine Pflicht",
+          "tipDe": "Der frühe Morgen ist am ruhigsten, bevor die Tagesausflugsgruppen am Seebrückenende eintreffen."
         },
         {
           "name": "Ecopark Wschodni",
@@ -219,7 +250,10 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Ekopark+Wschodni+Kolobrzeg",
           "descriptionPt": "Uma extensão de 381 hectares de floresta costeira e sapal salgado (Solne Bagno) no extremo leste da cidade, muito procurada para passeios longos e tranquilos e para andar de bicicleta. É uma zona de nidificação de aves, por isso mantenha o cão preso à trela perto das zonas húmidas.",
           "offLeashAreaPt": "Nenhuma oficial, recomenda-se trela perto das zonas húmidas para proteger as aves nidificantes",
-          "tipPt": "Combine com um passeio de bicicleta, os caminhos de gravilha planos atravessam a floresta até Podczele."
+          "tipPt": "Combine com um passeio de bicicleta, os caminhos de gravilha planos atravessam a floresta até Podczele.",
+          "descriptionDe": "Ein 381 Hektar großes Gebiet aus Küstenwald und Salzwiese (Solne Bagno) am östlichen Stadtrand, beliebt für lange, ruhige Spaziergänge und Radtouren. Es ist ein Brutgebiet für Vögel, daher Hunde in der Nähe der Feuchtgebiete angeleint halten.",
+          "offLeashAreaDe": "Kein offizieller, in der Nähe der Feuchtgebiete wird zum Schutz der Brutvögel eine Leine empfohlen",
+          "tipDe": "Kombinieren Sie den Besuch mit einer Radtour, die flachen Schotterwege führen direkt durch den Wald in Richtung Podczele."
         },
         {
           "name": "Bulwar Parsety (Parseta Embankment)",
@@ -239,7 +273,10 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bulwar+Parsety+Kolobrzeg",
           "descriptionPt": "Um dique plano e pavimentado ao longo do rio Parseta, atravessando o porto, entre barcos de pesca e a marina, ligando facilmente a cidade velha e o farol. Ideal para um passeio mais calmo, longe da azáfama da praia.",
           "offLeashAreaPt": "Nenhuma, trela obrigatória",
-          "tipPt": "Ótimo para cães mais velhos ou sensíveis ao calor, pois é plano e parcialmente sombreado pelos edifícios do porto."
+          "tipPt": "Ótimo para cães mais velhos ou sensíveis ao calor, pois é plano e parcialmente sombreado pelos edifícios do porto.",
+          "descriptionDe": "Ein flacher, gepflasterter Uferweg entlang der Parseta durch den Hafen, vorbei an Fischerbooten und Marina, der leicht sowohl zur Altstadt als auch zum Leuchtturm führt. Gut für einen ruhigeren Spaziergang abseits des Strandtrubels.",
+          "offLeashAreaDe": "Keine, Leine Pflicht",
+          "tipDe": "Ideal für ältere oder hitzeempfindliche Hunde, da der Weg flach ist und teilweise durch Hafengebäude beschattet wird."
         }
       ],
       "tipsEn": [
@@ -316,6 +353,22 @@
         {
           "q": "Posso passear o meu cão pelo passeio marítimo?",
           "a": "Sim, o passeio é plano, pavimentado e aceita cães à trela em todo o seu comprimento entre o farol, o molhe e o parque termal."
+        }
+      ],
+      "titleDe": "Hundeparks & Spaziergänge in Kolobrzeg",
+      "introDe": "Kolobrzeg ist wie geschaffen zum Spazierengehen, flach, grün und durchzogen von einer Strandpromenade, die sich über Kilometer erstreckt. Der Nadmorski Park Zdrojowy (Küsten-Kurpark) im Kurviertel und der weitläufige Ecopark Wschodni am östlichen Stadtrand bieten angeleinten Hunden stundenlange, schattige und wenig befahrene Spaziergänge, während der Uferweg entlang der Parseta eine flache, hundefreundliche Route mitten durch die Stadt bildet.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Freilaufflächen für Hunde in Kolobrzeg?",
+          "a": "In der Stadt existiert kein offizieller Freilauf-Hundepark. Hunde müssen in Parks und Grünflächen grundsätzlich angeleint sein, planen Sie also mit angeleinten Spaziergängen statt freiem Auslauf."
+        },
+        {
+          "q": "Eignet sich der Ecopark Wschodni für einen ganztägigen Spaziergang?",
+          "a": "Ja, er umfasst 381 Hektar Küstenwald und Salzwiese mit flachen Schotterwegen, gut geeignet für ein paar Stunden oder mehr, besonders in Kombination mit dem Fahrrad."
+        },
+        {
+          "q": "Kann ich meinen Hund entlang der Strandpromenade ausführen?",
+          "a": "Ja, die Promenade ist auf ihrer gesamten Länge zwischen Leuchtturm, Seebrücke und Kurpark flach, gepflastert und angeleint hundefreundlich."
         }
       ]
     },
@@ -453,6 +506,22 @@
           "contentEs": "Autobuses locales MZK Kolobrzeg: km.kolobrzeg.pl. Trenes nacionales PKP: intercity.pl/en, compra el billete para perro en línea antes de subir. Aeropuerto de Szczecin-Goleniow (SZZ): airport-szczecin.com.pl.",
           "contentPt": "Autocarros locais MZK Kolobrzeg: km.kolobrzeg.pl. Comboios nacionais PKP: intercity.pl/en, compre o bilhete para cão online antes de embarcar. Aeroporto de Szczecin-Goleniow (SZZ): airport-szczecin.com.pl."
         }
+      ],
+      "titleDe": "Mit Haustieren unterwegs in Kolobrzeg",
+      "introDe": "Kolobrzeg ist ein kleiner, flacher Kurort, gut zu Fuß oder mit dem Fahrrad mit Hund zu erkunden. Der nächste Flughafen ist Szczecin (SZZ), etwa 80 km entfernt, und die Stadt selbst verfügt über ein kleines lokales Busnetz (MZK) sowie eine saisonale Touristenbahn. Hund an der Leine und mit Maulkorb ist die Standardanforderung im gesamten polnischen öffentlichen Nahverkehr.",
+      "faqsDe": [
+        {
+          "q": "Brauchen Hunde in Kolobrzeg einen Maulkorb in öffentlichen Verkehrsmitteln?",
+          "a": "Ja, polnische Vorschriften verlangen, dass Hunde in Bussen und Zügen angeleint und mit Maulkorb versehen sind, mit Ausnahme kleiner Hunde in einer geschlossenen Transportbox und von Blindenführhunden."
+        },
+        {
+          "q": "Wie lautet der nächste Flughafen zu Kolobrzeg?",
+          "a": "Der Flughafen Szczecin-Goleniów (SZZ), etwa 80 km bzw. rund 1 Stunde 15 Minuten mit dem Auto südwestlich gelegen."
+        },
+        {
+          "q": "Ist es leicht, sich in Kolobrzeg ohne Auto fortzubewegen?",
+          "a": "Für die Stadt selbst ja, sie ist klein und flach, in deutlich unter einer Stunde von einem Ende zum anderen zu Fuß erreichbar. Ein Auto hilft vor allem bei Tagesausflügen entlang der Küste."
+        }
       ]
     },
     "beaches": {
@@ -476,7 +545,8 @@
           "rules": "Leash required; muzzle required for dogs classified as aggressive breeds. Owners must clean up after their dogs.",
           "facilities": "None on-site, nearest cafes and parking back towards Podczele",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza+dla+psow+Podczele+Kolobrzeg",
-          "photo": ""
+          "photo": "",
+          "descriptionDe": "Ein langer, ruhigerer Abschnitt, der vom letzten öffentlichen Strandzugang bei Podczele bis zur Grenze zur benachbarten Gemeinde Ustronie Morskie verläuft. Sand und Dünengras, weniger überlaufen als der zentrale Strand."
         },
         {
           "name": "Plaza dla Psow Zachod (West Dog Beach, Radzikowo)",
@@ -489,7 +559,8 @@
           "rules": "Leash required; muzzle required for dogs classified as aggressive breeds. Owners must clean up after their dogs.",
           "facilities": "Pine-forest parking nearby, no facilities directly on the beach",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza+dla+psow+Radzikowo+Kolobrzeg",
-          "photo": ""
+          "photo": "",
+          "descriptionDe": "Der westliche Hundeabschnitt beginnt beim letzten Strandzugang an der ulica Plazowa in Radzikowo und verläuft bis zur Grenze zu Grzybowo, begrenzt von Kiefernwäldern, die Schatten abseits des Sandes spenden."
         },
         {
           "name": "Main town beach & promenade",
@@ -502,7 +573,8 @@
           "rules": "Leash required at all times; clean up after your dog; very crowded in the June-August bathing season",
           "facilities": "Full beach facilities, cafes, showers, lifeguard towers in season",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Plaza+Kolobrzeg+molo",
-          "photo": ""
+          "photo": "",
+          "descriptionDe": "Seit März 2025 sind angeleinte Hunde auch hier erlaubt, nicht nur in den beiden ausgewiesenen Abschnitten, obwohl es im Juli und August deutlich voller ist. Früher Morgen oder Nebensaison sind die beste Zeit, um einen Hund an den zentralen Abschnitt mitzunehmen."
         }
       ],
       "faqsEn": [
@@ -560,6 +632,22 @@
           "q": "Qual é a melhor praia para deixar um cão nadar sem multidões?",
           "a": "As duas secções dedicadas a cães, a leste de Podczele e a oeste de Radzikowo, são mais calmas do que a praia central sob o molhe, sobretudo fora de julho e agosto."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände in Kolobrzeg",
+      "introDe": "Kolobrzeg hat im März 2025 seine Strandregeln geändert: Der Stadtrat entfernte das alte pauschale Hundeverbot aus den Badestrand-Vorschriften, nachdem ein Urteil ein vollständiges Verbot für rechtswidrig erklärt hatte. Angeleinte Hunde sind nun an allen Stränden von Kolobrzeg erlaubt, und Besitzer müssen die Hinterlassenschaften ihrer Tiere entfernen. Zwei seit langem bestehende ausgewiesene Hundeabschnitte am östlichen und westlichen Stadtrand bleiben die geräumigsten, am wenigsten überlaufenen Optionen für einen richtigen Auslauf im Sand.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde in Kolobrzeg an den Strand?",
+          "a": "Ja. Seit einer Entscheidung des Stadtrats vom März 2025 sind angeleinte Hunde an allen Stränden von Kolobrzeg erlaubt, nicht nur an den beiden historisch ausgewiesenen Hundeabschnitten bei Podczele (Ost) und Radzikowo (West)."
+        },
+        {
+          "q": "Müssen Hunde am Strand einen Maulkorb tragen?",
+          "a": "Ein Maulkorb ist nur für Hunde vorgeschrieben, deren Rassen nach polnischen Vorschriften als gefährlich eingestuft sind. Andere Hunde brauchen eine Leine und einen Besitzer, der die Hinterlassenschaften entfernt."
+        },
+        {
+          "q": "Welcher Strand eignet sich am besten, um einen Hund ohne Gedränge schwimmen zu lassen?",
+          "a": "Die beiden ausgewiesenen Hundeabschnitte, östlich von Podczele und westlich von Radzikowo, sind ruhiger als der zentrale Strand unterhalb der Seebrücke, besonders außerhalb von Juli und August."
+        }
       ]
     },
     "vets": {
@@ -606,7 +694,10 @@
           "photo": "",
           "hoursPt": "Seg-Sex 10:00-14:00 e 16:00-18:00, Sáb 10:00-13:00, encerrado Dom",
           "descriptionPt": "Consultório veterinário generalista no extremo oeste da cidade, perto da praia para cães de Radzikowo. Consultas e cuidados de rotina apenas durante o dia, sem serviço noturno.",
-          "tipPt": "Reserve por telefone, a clínica não atende sem marcação fora do horário indicado."
+          "tipPt": "Reserve por telefone, a clínica não atende sem marcação fora do horário indicado.",
+          "hoursDe": "Mo-Fr 10:00-14:00 & 16:00-18:00, Sa 10:00-13:00, So geschlossen",
+          "descriptionDe": "Allgemeine Kleintierpraxis am westlichen Stadtrand, nahe dem Hundestrand Radzikowo. Nur tagsüber Sprechstunden und Routinebehandlungen, kein Übernachtdienst.",
+          "tipDe": "Termin telefonisch vereinbaren, die Klinik nimmt außerhalb der angegebenen Zeiten keine Laufkundschaft an."
         },
         {
           "name": "Gabinet Weterynaryjny lek. wet. Tomasz Golembiewski",
@@ -628,7 +719,10 @@
           "photo": "",
           "hoursPt": "Seg-Sex 10:00-19:00, Sáb 10:00-13:00, encerrado Dom",
           "descriptionPt": "Consultório no centro da cidade velha, a poucos passos dos restaurantes do bairro histórico, com consultas gerais, vacinas e pequenas intervenções.",
-          "tipPt": "A localização central torna-o a opção mais prática para quem se aloja na cidade velha ou perto do porto."
+          "tipPt": "A localização central torna-o a opção mais prática para quem se aloja na cidade velha ou perto do porto.",
+          "hoursDe": "Mo-Fr 10:00-19:00, Sa 10:00-13:00, So geschlossen",
+          "descriptionDe": "Zentrale Praxis in der Altstadt, wenige Gehminuten von den Restaurants der Altstadt entfernt, bietet allgemeine Sprechstunden, Impfungen und kleinere Eingriffe.",
+          "tipDe": "Die zentrale Lage macht sie zur einfachsten Option, wenn man in der Altstadt oder nahe dem Hafen wohnt."
         },
         {
           "name": "Klinika Vet24h (Szczecin, regional 24h referral)",
@@ -650,7 +744,10 @@
           "photo": "",
           "hoursPt": "24/7, turno diurno 08:00-20:00 e turno noturno 20:00-08:00",
           "descriptionPt": "O verdadeiro hospital veterinário permanente mais próximo, a cerca de 95 km / 1h15 a sudoeste de Kolobrzeg, com imagiologia (ecografia, raio-x, TAC), cirurgia e cuidados críticos noturnos. Telefone antes para a equipa se preparar.",
-          "tipPt": "Para qualquer emergência com risco de vida à noite, ligue para este número antes de conduzir, é a alternativa realista para toda a costa de Kolobrzeg."
+          "tipPt": "Para qualquer emergência com risco de vida à noite, ligue para este número antes de conduzir, é a alternativa realista para toda a costa de Kolobrzeg.",
+          "hoursDe": "24/7, Tagschicht 08:00-20:00 und Nachtschicht 20:00-08:00",
+          "descriptionDe": "Die nächste echte rund um die Uhr geöffnete Tierklinik, etwa 95 km bzw. 1 Std. 15 Min. südwestlich von Kolobrzeg, mit Bildgebung (Ultraschall, Röntgen, CT), Chirurgie und nächtlicher Intensivpflege. Vorher anrufen, damit sich das Team vorbereiten kann.",
+          "tipDe": "Bei lebensbedrohlichen Fällen in der Nacht vor der Fahrt diese Nummer anrufen, sie ist die realistische Rückfalloption für die gesamte Küste um Kolobrzeg."
         }
       ],
       "faqsEn": [
@@ -707,6 +804,22 @@
         {
           "q": "Os veterinários locais de Kolobrzeg falam inglês?",
           "a": "Não de forma fiável. Um polaco básico ou uma aplicação de tradução são úteis para uma visita de rotina; para algo sério, telefonar antes ajuda a clínica a preparar-se, ou a equipa maior do hospital de Szczecin pode ter mais falantes de inglês."
+        }
+      ],
+      "titleDe": "Tierärztliche Notdienste in Kolobrzeg, Tierkliniken & Haustierpflege",
+      "introDe": "Kolobrzeg verfügt über einige tagsüber geöffnete Kleintierkliniken, jedoch über keine eigene 24-Stunden-Tierklinik. Für echte Notfälle außerhalb der Sprechzeiten ist die nächste rund um die Uhr geöffnete Einrichtung in Szczecin, etwa 95 km bzw. rund 1 Stunde 15 Minuten mit dem Auto entfernt. Inhaber eines EU-Heimtierausweises benötigen eine gültige Tollwutimpfung und einen Mikrochip, um mit Hund oder Katze nach Polen einzureisen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Kolobrzeg selbst einen 24-Stunden-Tierarzt?",
+          "a": "Nein. Die Kliniken in Kolobrzeg haben nur tagsüber geöffnet. Die nächste echte 24-Stunden-Tierklinik ist die Klinika Vet24h in Szczecin, etwa 95 km entfernt."
+        },
+        {
+          "q": "Was brauche ich, um meinen Hund oder meine Katze aus der EU nach Polen einzuführen?",
+          "a": "Einen gültigen EU-Heimtierausweis, eine aktuelle Tollwutimpfung und einen Mikrochip. Für Haustiere, die in der EU registriert sind, ist keine zusätzliche Untersuchung erforderlich."
+        },
+        {
+          "q": "Sprechen die örtlichen Tierärzte in Kolobrzeg Englisch?",
+          "a": "Nicht zuverlässig. Für einen routinemäßigen Besuch sind grundlegende Polnischkenntnisse oder eine Übersetzungs-App hilfreich; bei etwas Ernsthaftem hilft ein vorheriger Anruf der Klinik zur Vorbereitung, oder das größere Team der Klinik in Szczecin verfügt möglicherweise über mehr Englischsprecher."
         }
       ]
     },
@@ -837,7 +950,23 @@
           "a": "Os viajantes da UE precisam de um passaporte para animais válido, microchip e vacinação antirrábica em dia. Os viajantes de fora da UE devem verificar os requisitos da inspeção veterinária polaca (GIW) antes de chegar."
         }
       ],
-      "places": []
+      "places": [],
+      "titleDe": "Hundefreundliche Tipps für Kolobrzeg",
+      "introDe": "Kolobrzeg ist für einen Hund eine wirklich entspannte Ostsee-Kurstadt, flach, gut zu Fuß erreichbar und mit kürzlich für Hunde geöffneten Stränden, doch die Stadt folgt einem starken saisonalen Rhythmus und ein paar polenspezifischen Regeln, die man vor der Anreise kennen sollte.",
+      "faqsDe": [
+        {
+          "q": "Ist Kolobrzeg insgesamt ein gutes Reiseziel für Hundebesitzer?",
+          "a": "Ja. Die Stadt ist flach, hat eine lange kostenlose Promenade, hat kürzlich alle Strände für angeleinte Hunde geöffnet und verfügt über echte, geprüfte hundefreundliche Restaurants und Kliniken, auch wenn ein 24-Stunden-Tierarzt und ein offizieller Freilaufpark fehlen."
+        },
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch mit Hund?",
+          "a": "Ende Mai, Juni oder September, wenn das Wetter noch mild ist, der Strand deutlich weniger überlaufen ist und Restaurantterrassen geöffnet sind, ohne die Warteschlangen der Hochsaison im Juli."
+        },
+        {
+          "q": "Brauche ich besondere Unterlagen, damit mein Hund Polen besuchen darf?",
+          "a": "EU-Reisende benötigen einen gültigen Heimtierausweis, einen Mikrochip und eine aktuelle Tollwutimpfung. Reisende von außerhalb der EU sollten vor der Anreise die Anforderungen der polnischen Veterinäraufsicht (GIW) prüfen."
+        }
+      ]
     },
     "attractions": {
       "titleEn": "Pet-Friendly Attractions in Kolobrzeg",
@@ -870,7 +999,11 @@
           "descriptionPt": "Um farol em funcionamento de 26 metros na foz do rio Parseta, reconstruído após a guerra e aberto a visitantes. O recinto e o pátio são adequados para cães à trela; a estreita escada em caracol até à galeria superior não é prática para a maioria dos cães.",
           "dogPolicyPt": "Cães bem-vindos à trela no recinto e no pátio; a escada interior até ao topo não é prática para cães",
           "admissionFeePt": "Pequena taxa para subir à torre, o recinto é gratuito",
-          "tipPt": "Revezem-se com um acompanhante para que um suba os 109 degraus enquanto o outro espera lá fora com o cão."
+          "tipPt": "Revezem-se com um acompanhante para que um suba os 109 degraus enquanto o outro espera lá fora com o cão.",
+          "descriptionDe": "Ein 26 Meter hoher, funktionsfähiger Leuchtturm an der Mündung der Parseta, nach dem Krieg wiederaufgebaut und für Besucher geöffnet. Das Gelände und der Innenhof sind angeleint hundefreundlich; die enge Wendeltreppe zur oberen Galerie ist für die meisten Hunde nicht praktikabel.",
+          "dogPolicyDe": "Hunde angeleint auf dem Gelände und im Innenhof willkommen; die Innentreppe nach oben ist für Hunde ungeeignet",
+          "admissionFeeDe": "Kleine Gebühr für den Turmaufstieg, das Gelände ist kostenlos",
+          "tipDe": "Wechseln Sie sich mit einem Begleiter ab, damit einer von Ihnen die 109 Stufen erklimmen kann, während der andere mit dem Hund draußen wartet."
         },
         {
           "name": "Molo Kolobrzeskie (Kolobrzeg Pier)",
@@ -893,7 +1026,11 @@
           "descriptionPt": "O molhe de betão mais longo da Polónia, com mais de 220 metros sobre o Báltico, de acesso livre e com vistas amplas sobre o mar. Largo e plano, é um passeio fácil e ventoso com um cão à trela a qualquer hora do dia.",
           "dogPolicyPt": "Cães bem-vindos à trela",
           "admissionFeePt": "Gratuito",
-          "tipPt": "Vá ao pôr do sol, o molhe está virado a oeste e proporciona um verdadeiro pôr do sol báltico sobre a água."
+          "tipPt": "Vá ao pôr do sol, o molhe está virado a oeste e proporciona um verdadeiro pôr do sol báltico sobre a água.",
+          "descriptionDe": "Die längste Betonseebrücke Polens, über 220 Meter über die Ostsee hinaus, kostenlos begehbar mit weiten Meerblicken. Breit und flach, ist sie ein leichter, luftiger Spaziergang mit angeleintem Hund zu jeder Tageszeit.",
+          "dogPolicyDe": "Hunde angeleint willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Gehen Sie bei Sonnenuntergang, die Seebrücke ist nach Westen ausgerichtet und bietet einen richtigen Ostsee-Sonnenuntergang über dem Wasser."
         },
         {
           "name": "Nadmorski Park Zdrojowy & Statue of Poland's Betrothal to the Sea",
@@ -916,7 +1053,11 @@
           "descriptionPt": "O parque termal junto ao mar liga o molhe ao centro da cidade através de roseirais e avenidas sombreadas, passando pelo monumento que assinala o anel simbólico lançado ao Báltico pela Polónia em 1945. Gratuito, plano e adequado para cães à trela em todo o percurso.",
           "dogPolicyPt": "Cães bem-vindos à trela em todo o parque",
           "admissionFeePt": "Gratuito",
-          "tipPt": "Combine com um gelado de um dos quiosques ao longo do caminho do parque, um ritual clássico das férias de verão polacas junto ao mar."
+          "tipPt": "Combine com um gelado de um dos quiosques ao longo do caminho do parque, um ritual clássico das férias de verão polacas junto ao mar.",
+          "descriptionDe": "Der Küsten-Kurpark verbindet die Seebrücke über Rosengärten und schattige Alleen mit dem Stadtzentrum und führt am Denkmal vorbei, das an Polens symbolische Hochzeit von 1945 erinnert, als ein Ring in die Ostsee geworfen wurde. Kostenlos, flach und im gesamten Bereich angeleint hundefreundlich.",
+          "dogPolicyDe": "Hunde im gesamten Park angeleint willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Kombinieren Sie den Besuch mit einem Eis von einem der Kioske entlang des Parkwegs, ein klassisches polnisches Seebad-Ritual."
         }
       ],
       "tipsEn": [
@@ -994,6 +1135,22 @@
           "q": "Os cães são permitidos dentro de igrejas ou museus em Kolobrzeg?",
           "a": "Regra geral, não, exceto cães de assistência. Planeie a visita interior para um momento sem o cão e aproveite os recintos e praças exteriores em vez disso."
         }
+      ],
+      "titleDe": "Haustierfreundliche Sehenswürdigkeiten in Kolobrzeg",
+      "introDe": "Die wichtigsten Sehenswürdigkeiten von Kolobrzeg liegen fast alle im Freien und sind kostenlos, was die Stadt mit einem angeleinten Hund leicht erkundbar macht: Das Leuchtturmgelände, die Seebrücke und die Promenade decken das Wesentliche in einem einzigen flachen Spaziergang ab.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund zum Leuchtturm in Kolobrzeg mitnehmen?",
+          "a": "Das Gelände und der Innenhof sind angeleint hundefreundlich, aber die enge Wendeltreppe zur oberen Galerie ist mit Hund nicht praktikabel, planen Sie also, sich mit einem Reisebegleiter abzuwechseln."
+        },
+        {
+          "q": "Ist die Seebrücke mit Hund kostenlos zu besuchen?",
+          "a": "Ja, die Seebrücke von Kolobrzeg ist kostenlos und angeleinten Hunden zugänglich, und sie ist auf ihrer gesamten Länge von über 220 Metern breit und flach."
+        },
+        {
+          "q": "Sind Hunde in Kirchen oder Museen in Kolobrzeg erlaubt?",
+          "a": "In der Regel nein, abgesehen von Assistenzhunden. Planen Sie Besichtigungen im Innenbereich für einen Moment ohne Hund und nutzen Sie stattdessen die Außenanlagen und Plätze drumherum."
+        }
       ]
     },
     "petsitting": {
@@ -1025,7 +1182,10 @@
           "tipEs": "Reserva con unos días de antelación en julio y agosto, los cuidadores locales más populares se llenan rápido en temporada alta.",
           "descriptionPt": "Uma das maiores plataformas polacas de cuidadores de animais verificados, com perfis, avaliações e seguro para cada cuidador. Pesquise Kolobrzeg ou a região circundante da Pomerânia Ocidental para encontrar um cuidador local para passeios ou visitas ao domicílio.",
           "serviceTypePt": "Passeio de cães, visitas ao domicílio, alojamento",
-          "tipPt": "Reserve com alguns dias de antecedência em julho e agosto, os cuidadores locais mais procurados esgotam depressa na época alta."
+          "tipPt": "Reserve com alguns dias de antecedência em julho e agosto, os cuidadores locais mais procurados esgotam depressa na época alta.",
+          "descriptionDe": "Einer der größten geprüften Marktplätze für Haustierbetreuung in Polen, mit Profilen, Bewertungen und Versicherung für jeden Sitter. Suchen Sie nach Kolobrzeg oder der umliegenden Region Zachodniopomorskie, um einen lokalen Betreuer für Spaziergänge oder Hausbesuche zu finden.",
+          "serviceTypeDe": "Hundeausführen, Hausbesuche, Unterbringung",
+          "tipDe": "Buchen Sie im Juli und August ein paar Tage im Voraus, die beliebtesten lokalen Sitter sind in der Hochsaison schnell ausgebucht."
         },
         {
           "name": "Yoopies",
@@ -1046,7 +1206,10 @@
           "tipEs": "Filtra por la región de Pomerania Occidental y contacta directamente con varios cuidadores, los tiempos de respuesta pueden variar en una pequeña localidad costera.",
           "descriptionPt": "Uma plataforma polaca de serviços de cuidado mais ampla, que inclui cuidadores de animais a par de cuidados infantis e outros serviços ao domicílio. Muitos perfis indicam experiência como técnico veterinário ou passeador profissional.",
           "serviceTypePt": "Passeio de cães, visitas ao domicílio",
-          "tipPt": "Filtre pela região da Pomerânia Ocidental e contacte diretamente vários cuidadores, os tempos de resposta podem variar numa pequena localidade costeira."
+          "tipPt": "Filtre pela região da Pomerânia Ocidental e contacte diretamente vários cuidadores, os tempos de resposta podem variar numa pequena localidade costeira.",
+          "descriptionDe": "Eine breitere polnische Plattform für Betreuungsdienste, die neben Kinderbetreuung und anderen Haushaltsdiensten auch Haustiersitter umfasst. Viele Profile weisen Erfahrung als Tierarzthelfer oder professionelle Hundeausführer aus.",
+          "serviceTypeDe": "Hundeausführen, Hausbesuche",
+          "tipDe": "Filtern Sie nach der Region Zachodniopomorskie und schreiben Sie mehrere Sitter direkt an, die Antwortzeiten können in einer kleinen Küstenstadt variieren."
         },
         {
           "name": "PawAway",
@@ -1066,7 +1229,10 @@
           "tipEs": "Conviene reservar con mucha antelación para la región costera en verano, los anfitriones cerca de Kolobrzeg son limitados.",
           "descriptionPt": "Um serviço de alojamento em casa de família que confia o seu cão a um anfitrião local verificado em vez de um canil, permitindo-lhe ficar num lar familiar com a sua rotina habitual enquanto explora Kolobrzeg sem ele.",
           "serviceTypePt": "Alojamento em casa de família",
-          "tipPt": "É melhor reservar com muita antecedência para a região costeira no verão, os anfitriões perto de Kolobrzeg são limitados."
+          "tipPt": "É melhor reservar com muita antecedência para a região costeira no verão, os anfitriões perto de Kolobrzeg são limitados.",
+          "descriptionDe": "Ein Unterbringungsdienst im Privathaushalt, der Ihren Hund bei einem geprüften lokalen Gastgeber statt in einer Hundepension unterbringt und ihm ermöglicht, in einem Familienhaushalt mit gewohnter Routine zu bleiben, während Sie Kolobrzeg ohne ihn erkunden.",
+          "serviceTypeDe": "Unterbringung im Privathaushalt",
+          "tipDe": "Am besten weit im Voraus buchen, für die Küstenregion im Sommer sind Gastgeber in der Nähe von Kolobrzeg begrenzt."
         }
       ],
       "tipsEn": [
@@ -1143,6 +1309,22 @@
         {
           "q": "Com quanta antecedência devo reservar um cuidador no verão?",
           "a": "Reserve com pelo menos alguns dias de antecedência para julho e agosto, quando tanto os anfitriões como os passeadores independentes estão mais ocupados devido à afluência sazonal."
+        }
+      ],
+      "titleDe": "Hundesitter & Haustierpflege in Kolobrzeg",
+      "introDe": "Kolobrzeg ist eine kleine Kurstadt ohne eigene lokale Haustiersitting-Agentur, aber die landesweiten polnischen Sitter-Plattformen sind hier über unabhängige lokale Betreuer aktiv, nützlich für eine Kur-Behandlung, einen Museumsbesuch oder einen Restaurantabend ohne den Hund.",
+      "faqsDe": [
+        {
+          "q": "Gibt es eine lokale Haustiersitting-Agentur mit Sitz in Kolobrzeg?",
+          "a": "Keine eigene lokale Agentur, aber landesweite polnische Plattformen wie Petsy und Yoopies verbinden Reisende mit unabhängigen Sittern und Hundeausführern in und um die Stadt."
+        },
+        {
+          "q": "Kann mein Kurhotel während Behandlungen eine Haustierbetreuung organisieren?",
+          "a": "Viele Kurhotels in Kolobrzeg können Gästen einen lokalen Sitter vermitteln oder eine kurze Betreuung im Zimmer anbieten, es lohnt sich, beim Check-in nachzufragen, da die Optionen je nach Unterkunft variieren."
+        },
+        {
+          "q": "Wie weit im Voraus sollte ich im Sommer einen Sitter buchen?",
+          "a": "Buchen Sie für Juli und August mindestens ein paar Tage im Voraus, wenn sowohl Gastgeber als auch unabhängige Ausführer durch den saisonalen Andrang am stärksten ausgelastet sind."
         }
       ]
     }

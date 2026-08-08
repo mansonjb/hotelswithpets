@@ -39,7 +39,11 @@
           "tipFr": "Demandez la table du coin en bout de terrasse ; c'est là que la vue au coucher du soleil est la meilleure et qu'il y a le plus de place pour que votre chien s'allonge sans gêner les passants",
           "tipEs": "Pide la mesa del rincón al final de la terraza; tiene la mejor vista al atardecer y el mayor espacio para que tu perro se tumbe sin molestar a los transeúntes",
           "tipPt": "Peça a mesa do canto no fim da esplanada; tem a melhor vista ao pôr do sol e o maior espaço para o seu cão se deitar sem bloquear os transeuntes",
-          "googleMapsUrl": "https://maps.google.com/?q=Mercan+Restaurant+Kas+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Mercan+Restaurant+Kas+Turkey",
+          "descriptionDe": "Ein alteingesessenes Fischrestaurant an der Hafenfront mit einer breiten Holzterrasse und Blick auf die griechische Insel Meis (Kastellorizo). Bekannt für frische Mezze, gegrillten Fisch und kaltes Efes. Hunde sind im äußeren Terrassenbereich abseits des Hauptwegs willkommen.",
+          "petPolicyDe": "Hunde auf der äußeren Terrasse willkommen",
+          "mustTryDe": "Gegrillte Goldbrasse, Calamari, rauchiges Auberginen-Mezze",
+          "tipDe": "Fordern Sie den Ecktisch am Ende der Terrasse an; er hat den besten Sonnenuntergangsblick und den meisten Platz, damit Ihr Hund liegen kann, ohne den Weg zu blockieren"
         },
         {
           "name": "Bahçe Restaurant",
@@ -65,28 +69,84 @@
           "tipFr": "Allez-y le soir quand les lumières du jardin s'allument et que la température baisse ; le jardin ombragé en pleine journée peut encore être chaud en juillet et août",
           "tipEs": "Ve por la tarde cuando se encienden las luces del jardín y baja la temperatura; el jardín con sombra al mediodía puede seguir siendo caluroso en julio y agosto",
           "tipPt": "Vá à tarde quando as luzes do jardim se acendem e a temperatura baixa; o jardim sombreado ao meio-dia pode ainda estar quente em julho e agosto",
-          "googleMapsUrl": "https://maps.google.com/?q=Bahce+Restaurant+Kas+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Bahce+Restaurant+Kas+Turkey",
+          "descriptionDe": "Ein Gartenrestaurant in den alten Steingassen von Kaş versteckt, mit Tischen unter Bougainvillea und Zitronenbäumen. Serviert traditionelle türkische Hausmannskost: Lammeintopf, gefüllte Weinblätter und hausgemachtes Brot. Hunde sind im Gartenbereich willkommen, die Atmosphäre ist sehr entspannt.",
+          "petPolicyDe": "Hunde im Garten willkommen",
+          "mustTryDe": "Lamm-Güveç (Tontopfeintopf), Dolma, Linsensuppe",
+          "tipDe": "Kommen Sie am Abend, wenn die Gartenbeleuchtung angeht und die Temperatur sinkt; der schattige Garten kann mittags im Juli und August noch heiß sein"
         }
       ],
-      "tipsEn": ["Turkish culture is less universally dog-friendly than Western European culture; always confirm before sitting with your dog and choose outer terrace tables away from other diners.", "Carry a collapsible bowl; restaurants do not routinely offer water for dogs but will refill yours on request.", "The harbour promenade allows dogs freely; it is a good evening walk combining a post-dinner stroll with harbour views."],
-      "tipsFr": ["La culture turque est moins universellement dog-friendly que la culture d'Europe de l'Ouest ; confirmez toujours avant de vous asseoir avec votre chien et choisissez des tables en terrasse extérieure à l'écart des autres convives.", "Emportez un bol pliable ; les restaurants ne proposent pas de routine de l'eau pour les chiens, mais rempliront le vôtre à la demande.", "La promenade du port autorise les chiens librement ; c'est une bonne balade du soir qui combine une promenade post-dîner avec des vues sur le port."],
-      "tipsEs": ["La cultura turca es menos universalmente dog-friendly que la cultura de Europa occidental; confirma siempre antes de sentarte con tu perro y elige mesas de terraza exterior alejadas de otros comensales.", "Lleva un cuenco plegable; los restaurantes no suelen ofrecer agua para los perros, pero rellenarán el tuyo si lo pides.", "El paseo del puerto permite perros libremente; es un buen paseo nocturno que combina un paseo post-cena con vistas al puerto."],
-      "tipsPt": ["A cultura turca é menos universalmente dog-friendly do que a cultura da Europa Ocidental; confirme sempre antes de se sentar com o seu cão e escolha mesas de esplanada exterior afastadas dos outros comensais.", "Leve uma tigela dobrável; os restaurantes não oferecem rotineiramente água para cães, mas encherão a sua a pedido.", "O passeio do porto permite cães livremente; é um bom passeio noturno combinando um passeio pós-jantar com vistas do porto."],
+      "tipsEn": [
+        "Turkish culture is less universally dog-friendly than Western European culture; always confirm before sitting with your dog and choose outer terrace tables away from other diners.",
+        "Carry a collapsible bowl; restaurants do not routinely offer water for dogs but will refill yours on request.",
+        "The harbour promenade allows dogs freely; it is a good evening walk combining a post-dinner stroll with harbour views."
+      ],
+      "tipsFr": [
+        "La culture turque est moins universellement dog-friendly que la culture d'Europe de l'Ouest ; confirmez toujours avant de vous asseoir avec votre chien et choisissez des tables en terrasse extérieure à l'écart des autres convives.",
+        "Emportez un bol pliable ; les restaurants ne proposent pas de routine de l'eau pour les chiens, mais rempliront le vôtre à la demande.",
+        "La promenade du port autorise les chiens librement ; c'est une bonne balade du soir qui combine une promenade post-dîner avec des vues sur le port."
+      ],
+      "tipsEs": [
+        "La cultura turca es menos universalmente dog-friendly que la cultura de Europa occidental; confirma siempre antes de sentarte con tu perro y elige mesas de terraza exterior alejadas de otros comensales.",
+        "Lleva un cuenco plegable; los restaurantes no suelen ofrecer agua para los perros, pero rellenarán el tuyo si lo pides.",
+        "El paseo del puerto permite perros libremente; es un buen paseo nocturno que combina un paseo post-cena con vistas al puerto."
+      ],
+      "tipsPt": [
+        "A cultura turca é menos universalmente dog-friendly do que a cultura da Europa Ocidental; confirme sempre antes de se sentar com o seu cão e escolha mesas de esplanada exterior afastadas dos outros comensais.",
+        "Leve uma tigela dobrável; os restaurantes não oferecem rotineiramente água para cães, mas encherão a sua a pedido.",
+        "O passeio do porto permite cães livremente; é um bom passeio noturno combinando um passeio pós-jantar com vistas do porto."
+      ],
       "faqsEn": [
-        { "q": "Are dogs allowed in Turkish restaurants?", "a": "Indoors, almost never. On outdoor terraces in tourist towns like Kaş, most restaurants will tolerate well-behaved dogs at outer tables. The European tourist clientele has made Kaş more dog-tolerant than average Turkish towns." },
-        { "q": "Can I eat at a Turkish tea garden (çay bahçesi) with my dog?", "a": "Kaş has several outdoor çay bahçesi where dogs are informally tolerated. The ones on the harbour wall and in the old town gardens are the most relaxed; ask at the entrance before settling in." }
+        {
+          "q": "Are dogs allowed in Turkish restaurants?",
+          "a": "Indoors, almost never. On outdoor terraces in tourist towns like Kaş, most restaurants will tolerate well-behaved dogs at outer tables. The European tourist clientele has made Kaş more dog-tolerant than average Turkish towns."
+        },
+        {
+          "q": "Can I eat at a Turkish tea garden (çay bahçesi) with my dog?",
+          "a": "Kaş has several outdoor çay bahçesi where dogs are informally tolerated. The ones on the harbour wall and in the old town gardens are the most relaxed; ask at the entrance before settling in."
+        }
       ],
       "faqsFr": [
-        { "q": "Les chiens sont-ils autorisés dans les restaurants turcs ?", "a": "En intérieur, presque jamais. En terrasse extérieure dans les villes touristiques comme Kaş, la plupart des restaurants tolèrent les chiens bien élevés aux tables de bord. La clientèle touristique européenne a rendu Kaş plus dog-tolérant que la moyenne des villes turques." },
-        { "q": "Puis-je manger dans un jardin de thé turc (çay bahçesi) avec mon chien ?", "a": "Kaş compte plusieurs çay bahçesi en plein air où les chiens sont informellement tolérés. Ceux situés sur le quai du port et dans les jardins de la vieille ville sont les plus décontractés ; demandez à l'entrée avant de vous installer." }
+        {
+          "q": "Les chiens sont-ils autorisés dans les restaurants turcs ?",
+          "a": "En intérieur, presque jamais. En terrasse extérieure dans les villes touristiques comme Kaş, la plupart des restaurants tolèrent les chiens bien élevés aux tables de bord. La clientèle touristique européenne a rendu Kaş plus dog-tolérant que la moyenne des villes turques."
+        },
+        {
+          "q": "Puis-je manger dans un jardin de thé turc (çay bahçesi) avec mon chien ?",
+          "a": "Kaş compte plusieurs çay bahçesi en plein air où les chiens sont informellement tolérés. Ceux situés sur le quai du port et dans les jardins de la vieille ville sont les plus décontractés ; demandez à l'entrée avant de vous installer."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Se permiten los perros en los restaurantes turcos?", "a": "En interior, casi nunca. En terrazas exteriores en ciudades turísticas como Kaş, la mayoría de los restaurantes tolerarán perros bien educados en mesas exteriores. La clientela turística europea ha hecho que Kaş sea más tolerante con los perros que la media de las ciudades turcas." },
-        { "q": "¿Puedo comer en un jardín de té turco (çay bahçesi) con mi perro?", "a": "Kaş tiene varios çay bahçesi al aire libre donde los perros son informalmente tolerados. Los que están en el muelle del puerto y en los jardines del casco antiguo son los más relajados; pregunta a la entrada antes de instalarte." }
+        {
+          "q": "¿Se permiten los perros en los restaurantes turcos?",
+          "a": "En interior, casi nunca. En terrazas exteriores en ciudades turísticas como Kaş, la mayoría de los restaurantes tolerarán perros bien educados en mesas exteriores. La clientela turística europea ha hecho que Kaş sea más tolerante con los perros que la media de las ciudades turcas."
+        },
+        {
+          "q": "¿Puedo comer en un jardín de té turco (çay bahçesi) con mi perro?",
+          "a": "Kaş tiene varios çay bahçesi al aire libre donde los perros son informalmente tolerados. Los que están en el muelle del puerto y en los jardines del casco antiguo son los más relajados; pregunta a la entrada antes de instalarte."
+        }
       ],
       "faqsPt": [
-        { "q": "Os cães são permitidos nos restaurantes turcos?", "a": "No interior, quase nunca. Em esplanadas exteriores em cidades turísticas como Kaş, a maioria dos restaurantes tolera cães bem-comportados nas mesas exteriores. A clientela turística europeia tornou Kaş mais tolerante com os cães do que a média das cidades turcas." },
-        { "q": "Posso comer num jardim de chá turco (çay bahçesi) com o meu cão?", "a": "Kaş tem vários çay bahçesi ao ar livre onde os cães são informalmente tolerados. Os que ficam no cais do porto e nos jardins da cidade velha são os mais descontraídos; pergunte à entrada antes de se instalar." }
+        {
+          "q": "Os cães são permitidos nos restaurantes turcos?",
+          "a": "No interior, quase nunca. Em esplanadas exteriores em cidades turísticas como Kaş, a maioria dos restaurantes tolera cães bem-comportados nas mesas exteriores. A clientela turística europeia tornou Kaş mais tolerante com os cães do que a média das cidades turcas."
+        },
+        {
+          "q": "Posso comer num jardim de chá turco (çay bahçesi) com o meu cão?",
+          "a": "Kaş tem vários çay bahçesi ao ar livre onde os cães são informalmente tolerados. Os que ficam no cais do porto e nos jardins da cidade velha são os mais descontraídos; pergunte à entrada antes de se instalar."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Kaş",
+      "introDe": "Kaş ist ein kleines lykisches Hafenstädtchen, in dem fast alle Restaurants Außenterrassen mit Blick auf das Meer oder die verwinkelten Steingassen haben. Hunde werden an Terrassentischen in diesem entspannten Touristenort routinemäßig toleriert; die europäische Expat- und Segelszene hat hundefreundliches Essen im Laufe der Jahre normalisiert. Zugang zu Innenräumen ist mit Hund selten, doch Terrassen gibt es überall.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in türkischen Restaurants erlaubt?",
+          "a": "Im Inneren so gut wie nie. Auf Außenterrassen in Touristenorten wie Kaş tolerieren die meisten Restaurants wohlerzogene Hunde an den äußeren Tischen. Die europäische Touristenklientel hat Kaş hundefreundlicher gemacht als durchschnittliche türkische Städte."
+        },
+        {
+          "q": "Kann ich mit meinem Hund in einem türkischen Teegarten (çay bahçesi) essen?",
+          "a": "Kaş verfügt über mehrere Außen-çay-bahçesi, in denen Hunde informell toleriert werden. Diejenigen an der Hafenmauer und in den Gärten der Altstadt sind am entspanntesten; fragen Sie am Eingang nach, bevor Sie sich niederlassen."
+        }
       ]
     },
     "parks": {
@@ -118,28 +178,83 @@
           "tipFr": "Le chemin des tombeaux lyciens est meilleur à l'heure dorée (fin d'après-midi) ; les tombeaux sculptés brillent ambre et la chaleur a suffisamment baissé pour une marche confortable",
           "tipEs": "El camino de las tumbas licias es mejor a la hora dorada (tarde): las tumbas talladas brillan en ámbar y el calor ha bajado lo suficiente para caminar cómodamente",
           "tipPt": "O caminho das tumbas lícias é melhor na hora dourada (tarde); as tumbas esculpidas brilham em âmbar e o calor baixou o suficiente para caminhar confortavelmente",
-          "googleMapsUrl": "https://maps.google.com/?q=Lycian+rock+tombs+Kas+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Lycian+rock+tombs+Kas+Turkey",
+          "descriptionDe": "Die Hafenpromenade führt um die Hafenmauer und setzt sich fort vorbei an den alten, in die Klippe über der Stadt gehauenen lykischen Felsengräbern. Ein 2 km langer Spaziergang mit dramatischen Ausblicken. Hunde an der Leine entlang der Hauptpromenade; der Weg verengt sich zu einem informellen felsigen Pfad an den Gräbern vorbei, wo Freilauf üblich ist.",
+          "petPolicyDe": "Hunde an der Leine auf der Promenade, Freilauf auf dem felsigen Pfad oberhalb",
+          "tipDe": "Der Weg zu den lykischen Gräbern ist zur goldenen Stunde (später Nachmittag) am schönsten; die behauenen Gräber leuchten bernsteinfarben, und die Hitze hat für einen angenehmen Spaziergang ausreichend nachgelassen"
         }
       ],
-      "tipsEn": ["The Lycian Way long-distance trail passes through Kaş; day-hike sections toward Kalkan or Patara are excellent with dogs (rugged terrain, minimal traffic).", "The peninsula headland road (Çukurbağ Peninsula) is a quiet 8 km loop with sea views on both sides and dogs walking freely.", "Avoid walking on the main beach during July-August midday; the reflective white pebbles store heat and can burn paw pads."],
-      "tipsFr": ["La Via Lycienne (sentier de longue distance) passe par Kaş ; les sections de randonnée d'une journée vers Kalkan ou Patara sont excellentes avec des chiens (terrain accidenté, peu de circulation).", "La route du cap de la péninsule (péninsule de Çukurbağ) est une boucle tranquille de 8 km avec des vues sur la mer des deux côtés et les chiens se promenant librement.", "Évitez de marcher sur la plage principale en juillet-août à midi ; les galets blancs réfléchissants emmagasinent la chaleur et peuvent brûler les coussinets."],
-      "tipsEs": ["El Camino Licio (sendero de larga distancia) pasa por Kaş; las secciones de senderismo de un día hacia Kalkan o Patara son excelentes con perros (terreno accidentado, tráfico mínimo).", "La carretera del cabo de la península (Península Çukurbağ) es un tranquilo bucle de 8 km con vistas al mar a ambos lados y perros caminando libremente.", "Evita caminar en la playa principal en julio-agosto al mediodía; los guijarros blancos reflectantes acumulan calor y pueden quemar las almohadillas."],
-      "tipsPt": ["O Caminho Lício (trilho de longa distância) passa por Kaş; as secções de caminhada de dia em direção a Kalkan ou Patara são excelentes com cães (terreno acidentado, tráfego mínimo).", "A estrada do cabo da península (Península Çukurbağ) é um loop tranquilo de 8 km com vistas para o mar de ambos os lados e cães a caminhar livremente.", "Evite caminhar na praia principal em julho-agosto ao meio-dia; os seixos brancos refletores armazenam calor e podem queimar as patas."],
+      "tipsEn": [
+        "The Lycian Way long-distance trail passes through Kaş; day-hike sections toward Kalkan or Patara are excellent with dogs (rugged terrain, minimal traffic).",
+        "The peninsula headland road (Çukurbağ Peninsula) is a quiet 8 km loop with sea views on both sides and dogs walking freely.",
+        "Avoid walking on the main beach during July-August midday; the reflective white pebbles store heat and can burn paw pads."
+      ],
+      "tipsFr": [
+        "La Via Lycienne (sentier de longue distance) passe par Kaş ; les sections de randonnée d'une journée vers Kalkan ou Patara sont excellentes avec des chiens (terrain accidenté, peu de circulation).",
+        "La route du cap de la péninsule (péninsule de Çukurbağ) est une boucle tranquille de 8 km avec des vues sur la mer des deux côtés et les chiens se promenant librement.",
+        "Évitez de marcher sur la plage principale en juillet-août à midi ; les galets blancs réfléchissants emmagasinent la chaleur et peuvent brûler les coussinets."
+      ],
+      "tipsEs": [
+        "El Camino Licio (sendero de larga distancia) pasa por Kaş; las secciones de senderismo de un día hacia Kalkan o Patara son excelentes con perros (terreno accidentado, tráfico mínimo).",
+        "La carretera del cabo de la península (Península Çukurbağ) es un tranquilo bucle de 8 km con vistas al mar a ambos lados y perros caminando libremente.",
+        "Evita caminar en la playa principal en julio-agosto al mediodía; los guijarros blancos reflectantes acumulan calor y pueden quemar las almohadillas."
+      ],
+      "tipsPt": [
+        "O Caminho Lício (trilho de longa distância) passa por Kaş; as secções de caminhada de dia em direção a Kalkan ou Patara são excelentes com cães (terreno acidentado, tráfego mínimo).",
+        "A estrada do cabo da península (Península Çukurbağ) é um loop tranquilo de 8 km com vistas para o mar de ambos os lados e cães a caminhar livremente.",
+        "Evite caminhar na praia principal em julho-agosto ao meio-dia; os seixos brancos refletores armazenam calor e podem queimar as patas."
+      ],
       "faqsEn": [
-        { "q": "Is the Lycian Way dog-friendly?", "a": "Yes. The Lycian Way is an open trail across private and state land; dogs walk freely. The sections near Kaş are rocky coastal paths requiring sturdy paws. Carry sufficient water as the trail has few sources in summer." },
-        { "q": "Are there any municipal dog restrictions in Kaş?", "a": "No signposted dog bans in public outdoor spaces in Kaş. The main beach has no formal rules; dogs swim at the south end of the beach where it gets quieter." }
+        {
+          "q": "Is the Lycian Way dog-friendly?",
+          "a": "Yes. The Lycian Way is an open trail across private and state land; dogs walk freely. The sections near Kaş are rocky coastal paths requiring sturdy paws. Carry sufficient water as the trail has few sources in summer."
+        },
+        {
+          "q": "Are there any municipal dog restrictions in Kaş?",
+          "a": "No signposted dog bans in public outdoor spaces in Kaş. The main beach has no formal rules; dogs swim at the south end of the beach where it gets quieter."
+        }
       ],
       "faqsFr": [
-        { "q": "La Via Lycienne est-elle dog-friendly ?", "a": "Oui. La Via Lycienne est un sentier ouvert sur des terres privées et domaniales ; les chiens y circulent librement. Les sections proches de Kaş sont des chemins côtiers rocheux nécessitant des coussinets solides. Emportez suffisamment d'eau car le sentier a peu de sources en été." },
-        { "q": "Y a-t-il des restrictions municipales pour les chiens à Kaş ?", "a": "Aucune interdiction de chiens signalée dans les espaces publics extérieurs à Kaş. La plage principale n'a pas de règles formelles ; les chiens se baignent à l'extrémité sud de la plage là où c'est plus calme." }
+        {
+          "q": "La Via Lycienne est-elle dog-friendly ?",
+          "a": "Oui. La Via Lycienne est un sentier ouvert sur des terres privées et domaniales ; les chiens y circulent librement. Les sections proches de Kaş sont des chemins côtiers rocheux nécessitant des coussinets solides. Emportez suffisamment d'eau car le sentier a peu de sources en été."
+        },
+        {
+          "q": "Y a-t-il des restrictions municipales pour les chiens à Kaş ?",
+          "a": "Aucune interdiction de chiens signalée dans les espaces publics extérieurs à Kaş. La plage principale n'a pas de règles formelles ; les chiens se baignent à l'extrémité sud de la plage là où c'est plus calme."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Es el Camino Licio apto para perros?", "a": "Sí. El Camino Licio es un sendero abierto que atraviesa terrenos privados y estatales; los perros caminan libremente. Las secciones cercanas a Kaş son caminos costeros rocosos que requieren patas resistentes. Lleva suficiente agua ya que el sendero tiene pocas fuentes en verano." },
-        { "q": "¿Hay restricciones municipales para perros en Kaş?", "a": "No hay prohibiciones de perros señalizadas en espacios públicos exteriores en Kaş. La playa principal no tiene normas formales; los perros nadan en el extremo sur de la playa donde hay menos gente." }
+        {
+          "q": "¿Es el Camino Licio apto para perros?",
+          "a": "Sí. El Camino Licio es un sendero abierto que atraviesa terrenos privados y estatales; los perros caminan libremente. Las secciones cercanas a Kaş son caminos costeros rocosos que requieren patas resistentes. Lleva suficiente agua ya que el sendero tiene pocas fuentes en verano."
+        },
+        {
+          "q": "¿Hay restricciones municipales para perros en Kaş?",
+          "a": "No hay prohibiciones de perros señalizadas en espacios públicos exteriores en Kaş. La playa principal no tiene normas formales; los perros nadan en el extremo sur de la playa donde hay menos gente."
+        }
       ],
       "faqsPt": [
-        { "q": "O Caminho Lício é dog-friendly?", "a": "Sim. O Caminho Lício é um trilho aberto em terreno privado e estatal; os cães caminham livremente. As secções perto de Kaş são caminhos costeiros rochosos que requerem patas resistentes. Leve água suficiente pois o trilho tem poucas fontes no verão." },
-        { "q": "Há restrições municipais para cães em Kaş?", "a": "Sem proibições de cães sinalizadas nos espaços públicos exteriores de Kaş. A praia principal não tem regras formais; os cães nadam na extremidade sul da praia onde fica mais sossegado." }
+        {
+          "q": "O Caminho Lício é dog-friendly?",
+          "a": "Sim. O Caminho Lício é um trilho aberto em terreno privado e estatal; os cães caminham livremente. As secções perto de Kaş são caminhos costeiros rochosos que requerem patas resistentes. Leve água suficiente pois o trilho tem poucas fontes no verão."
+        },
+        {
+          "q": "Há restrições municipais para cães em Kaş?",
+          "a": "Sem proibições de cães sinalizadas nos espaços públicos exteriores de Kaş. A praia principal não tem regras formais; os cães nadam na extremidade sul da praia onde fica mais sossegado."
+        }
+      ],
+      "titleDe": "Grünflächen & Hundespaziergänge in Kaş",
+      "introDe": "Kaş ist ein kleines Halbinselstädtchen mit begrenzter flacher Grünfläche, bietet aber ausgezeichnete Spaziergänge in der umliegenden lykischen Landschaft. Die Hafenpromenade, der Weg zu den alten lykischen Felsengräbern und die Straße rund um die Landzunge der Halbinsel sind die wichtigsten Hundespazierrouten. Die dramatischen Karsthügel hinter der Stadt bieten wilderes Freilauf-Wandern.",
+      "faqsDe": [
+        {
+          "q": "Ist der Lykische Weg hundefreundlich?",
+          "a": "Ja. Der Lykische Weg ist ein offener Pfad über privates und staatliches Land; Hunde können frei laufen. Die Abschnitte bei Kaş sind felsige Küstenwege, die robuste Pfoten erfordern. Führen Sie ausreichend Wasser mit, da der Weg im Sommer nur wenige Quellen hat."
+        },
+        {
+          "q": "Gibt es kommunale Hundevorschriften in Kaş?",
+          "a": "In Kaş gibt es keine ausgeschilderten Hundeverbote in öffentlichen Außenbereichen. Der Hauptstrand hat keine formellen Regeln; Hunde schwimmen am südlichen Ende des Strands, wo es ruhiger ist."
+        }
       ]
     },
     "transport": {
@@ -152,25 +267,77 @@
       "introEs": "Kaş es una pequeña ciudad que se recorre a pie en 20 minutos. Los aeropuertos más cercanos son Dalaman (2,5 horas) y Antalya (3 horas). Los dolmus (minibuses compartidos) van a las ciudades cercanas; los perros pequeños en transportines son generalmente aceptados. Los taxis se negocian de forma privada y casi siempre admiten perros.",
       "introPt": "Kaş é uma pequena cidade percorrível a pé em 20 minutos. Os aeroportos mais próximos são Dalaman (2,5 horas) e Antalya (3 horas). Os dolmus (minivans partilhadas) ligam às cidades vizinhas; cães pequenos em transportadores são geralmente aceites. Os táxis são negociados de forma privada e quase sempre aceitam cães.",
       "places": [],
-      "tipsEn": ["Car hire from Dalaman or Antalya is the most practical way to travel with a larger dog to Kaş; the coastal road (D400) is scenic and well-maintained.", "Dolmus drivers generally accept small dogs in carriers on quiet off-season routes; always ask before boarding.", "Water taxis (tekne) connect Kaş to the island of Kekova and local coves; most local boat operators accept dogs on the open deck for day excursions."],
-      "tipsFr": ["La location de voiture depuis Dalaman ou Antalya est le moyen le plus pratique de voyager avec un grand chien jusqu'à Kaş ; la route côtière (D400) est panoramique et bien entretenue.", "Les conducteurs de dolmus acceptent généralement les petits chiens dans des transportins sur les routes calmes hors saison ; demandez toujours avant de monter.", "Les taxis nautiques (tekne) relient Kaş à l'île de Kekova et aux criques locales ; la plupart des opérateurs de bateaux locaux acceptent les chiens sur le pont ouvert pour les excursions d'une journée."],
-      "tipsEs": ["El alquiler de coches desde Dalaman o Antalya es la forma más práctica de viajar con un perro grande hasta Kaş; la carretera costera (D400) es pintoresca y está bien mantenida.", "Los conductores de dolmus generalmente aceptan perros pequeños en transportines en rutas tranquilas fuera de temporada; pregunta siempre antes de subir.", "Los taxis acuáticos (tekne) conectan Kaş con la isla de Kekova y las calas locales; la mayoría de los operadores de barcos locales aceptan perros en cubierta abierta para excursiones de un día."],
-      "tipsPt": ["O aluguer de carro a partir de Dalaman ou Antalya é a forma mais prática de viajar com um cão maior para Kaş; a estrada costeira (D400) é panorâmica e bem mantida.", "Os motoristas de dolmus geralmente aceitam cães pequenos em transportadores em rotas calmas fora da época; pergunte sempre antes de embarcar.", "Os táxis aquáticos (tekne) ligam Kaş à ilha de Kekova e às enseadas locais; a maioria dos operadores de barcos locais aceita cães no convés aberto para excursões de dia."],
+      "tipsEn": [
+        "Car hire from Dalaman or Antalya is the most practical way to travel with a larger dog to Kaş; the coastal road (D400) is scenic and well-maintained.",
+        "Dolmus drivers generally accept small dogs in carriers on quiet off-season routes; always ask before boarding.",
+        "Water taxis (tekne) connect Kaş to the island of Kekova and local coves; most local boat operators accept dogs on the open deck for day excursions."
+      ],
+      "tipsFr": [
+        "La location de voiture depuis Dalaman ou Antalya est le moyen le plus pratique de voyager avec un grand chien jusqu'à Kaş ; la route côtière (D400) est panoramique et bien entretenue.",
+        "Les conducteurs de dolmus acceptent généralement les petits chiens dans des transportins sur les routes calmes hors saison ; demandez toujours avant de monter.",
+        "Les taxis nautiques (tekne) relient Kaş à l'île de Kekova et aux criques locales ; la plupart des opérateurs de bateaux locaux acceptent les chiens sur le pont ouvert pour les excursions d'une journée."
+      ],
+      "tipsEs": [
+        "El alquiler de coches desde Dalaman o Antalya es la forma más práctica de viajar con un perro grande hasta Kaş; la carretera costera (D400) es pintoresca y está bien mantenida.",
+        "Los conductores de dolmus generalmente aceptan perros pequeños en transportines en rutas tranquilas fuera de temporada; pregunta siempre antes de subir.",
+        "Los taxis acuáticos (tekne) conectan Kaş con la isla de Kekova y las calas locales; la mayoría de los operadores de barcos locales aceptan perros en cubierta abierta para excursiones de un día."
+      ],
+      "tipsPt": [
+        "O aluguer de carro a partir de Dalaman ou Antalya é a forma mais prática de viajar com um cão maior para Kaş; a estrada costeira (D400) é panorâmica e bem mantida.",
+        "Os motoristas de dolmus geralmente aceitam cães pequenos em transportadores em rotas calmas fora da época; pergunte sempre antes de embarcar.",
+        "Os táxis aquáticos (tekne) ligam Kaş à ilha de Kekova e às enseadas locais; a maioria dos operadores de barcos locais aceita cães no convés aberto para excursões de dia."
+      ],
       "faqsEn": [
-        { "q": "Can my dog come on a boat trip from Kaş?", "a": "Yes for most gulet and tekne day-trip operators in Kaş. Confirm when booking; responsible operators will ask about your dog's size and temperament. The Kekova sunken city boat tour is a popular choice and most operators accept dogs on the open deck." },
-        { "q": "How do I get to Kaş from Dalaman airport with a dog?", "a": "Private transfer is the easiest (2.5 hours, negotiate the rate with the driver and confirm the dog is welcome). Dolmus from Dalaman to Fethiye then onward is possible for small dogs but involves 2-3 transfers." }
+        {
+          "q": "Can my dog come on a boat trip from Kaş?",
+          "a": "Yes for most gulet and tekne day-trip operators in Kaş. Confirm when booking; responsible operators will ask about your dog's size and temperament. The Kekova sunken city boat tour is a popular choice and most operators accept dogs on the open deck."
+        },
+        {
+          "q": "How do I get to Kaş from Dalaman airport with a dog?",
+          "a": "Private transfer is the easiest (2.5 hours, negotiate the rate with the driver and confirm the dog is welcome). Dolmus from Dalaman to Fethiye then onward is possible for small dogs but involves 2-3 transfers."
+        }
       ],
       "faqsFr": [
-        { "q": "Mon chien peut-il venir sur une excursion en bateau depuis Kaş ?", "a": "Oui pour la plupart des opérateurs de gulets et de tekne à Kaş. Confirmez lors de la réservation ; les opérateurs responsables demanderont la taille et le tempérament de votre chien. L'excursion en bateau vers la ville engloutie de Kekova est un choix populaire et la plupart des opérateurs acceptent les chiens sur le pont ouvert." },
-        { "q": "Comment rejoindre Kaş depuis l'aéroport de Dalaman avec un chien ?", "a": "Le transfert privé est le plus simple (2h30, négociez le tarif avec le chauffeur et confirmez que le chien est bienvenu). Le dolmus de Dalaman à Fethiye puis en correspondance est possible pour les petits chiens mais implique 2-3 transferts." }
+        {
+          "q": "Mon chien peut-il venir sur une excursion en bateau depuis Kaş ?",
+          "a": "Oui pour la plupart des opérateurs de gulets et de tekne à Kaş. Confirmez lors de la réservation ; les opérateurs responsables demanderont la taille et le tempérament de votre chien. L'excursion en bateau vers la ville engloutie de Kekova est un choix populaire et la plupart des opérateurs acceptent les chiens sur le pont ouvert."
+        },
+        {
+          "q": "Comment rejoindre Kaş depuis l'aéroport de Dalaman avec un chien ?",
+          "a": "Le transfert privé est le plus simple (2h30, négociez le tarif avec le chauffeur et confirmez que le chien est bienvenu). Le dolmus de Dalaman à Fethiye puis en correspondance est possible pour les petits chiens mais implique 2-3 transferts."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Puede mi perro venir en una excursión en barco desde Kaş?", "a": "Sí para la mayoría de los operadores de gulets y tekne en Kaş. Confirma al reservar; los operadores responsables preguntarán por el tamaño y el temperamento de tu perro. La excursión en barco a la ciudad hundida de Kekova es una opción popular y la mayoría de los operadores aceptan perros en cubierta abierta." },
-        { "q": "¿Cómo llego a Kaş desde el aeropuerto de Dalaman con un perro?", "a": "El traslado privado es lo más sencillo (2,5 horas; negocia la tarifa con el conductor y confirma que el perro es bienvenido). El dolmus de Dalaman a Fethiye y después es posible para perros pequeños pero implica 2-3 transbordos." }
+        {
+          "q": "¿Puede mi perro venir en una excursión en barco desde Kaş?",
+          "a": "Sí para la mayoría de los operadores de gulets y tekne en Kaş. Confirma al reservar; los operadores responsables preguntarán por el tamaño y el temperamento de tu perro. La excursión en barco a la ciudad hundida de Kekova es una opción popular y la mayoría de los operadores aceptan perros en cubierta abierta."
+        },
+        {
+          "q": "¿Cómo llego a Kaş desde el aeropuerto de Dalaman con un perro?",
+          "a": "El traslado privado es lo más sencillo (2,5 horas; negocia la tarifa con el conductor y confirma que el perro es bienvenido). El dolmus de Dalaman a Fethiye y después es posible para perros pequeños pero implica 2-3 transbordos."
+        }
       ],
       "faqsPt": [
-        { "q": "O meu cão pode vir numa excursão de barco a partir de Kaş?", "a": "Sim para a maioria dos operadores de gulets e tekne em Kaş. Confirme ao reservar; os operadores responsáveis vão perguntar sobre o tamanho e temperamento do seu cão. A excursão de barco à cidade submersa de Kekova é uma escolha popular e a maioria dos operadores aceita cães no convés aberto." },
-        { "q": "Como chego a Kaş do aeroporto de Dalaman com um cão?", "a": "A transferência privada é a mais fácil (2,5 horas; negoceie o valor com o motorista e confirme que o cão é bem-vindo). O dolmus de Dalaman para Fethiye e depois é possível para cães pequenos, mas envolve 2-3 transferências." }
+        {
+          "q": "O meu cão pode vir numa excursão de barco a partir de Kaş?",
+          "a": "Sim para a maioria dos operadores de gulets e tekne em Kaş. Confirme ao reservar; os operadores responsáveis vão perguntar sobre o tamanho e temperamento do seu cão. A excursão de barco à cidade submersa de Kekova é uma escolha popular e a maioria dos operadores aceita cães no convés aberto."
+        },
+        {
+          "q": "Como chego a Kaş do aeroporto de Dalaman com um cão?",
+          "a": "A transferência privada é a mais fácil (2,5 horas; negoceie o valor com o motorista e confirme que o cão é bem-vindo). O dolmus de Dalaman para Fethiye e depois é possível para cães pequenos, mas envolve 2-3 transferências."
+        }
+      ],
+      "titleDe": "Mit Hund unterwegs in Kaş",
+      "introDe": "Kaş ist ein kleines Städtchen, das man in 20 Minuten von einem Ende zum anderen durchqueren kann. Die nächstgelegenen Flughäfen sind Dalaman (2,5 Stunden) und Antalya (3 Stunden). Dolmuş (Sammeltaxis) verkehren zu nahegelegenen Orten; kleine Hunde in Transportboxen werden im Allgemeinen akzeptiert. Taxis werden privat verhandelt und sind fast immer hundefreundlich.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund bei einem Bootsausflug ab Kaş mitkommen?",
+          "a": "Ja, bei den meisten Gulet- und Tekne-Tagesausflugsanbietern in Kaş. Bestätigen Sie dies bei der Buchung; verantwortungsbewusste Anbieter fragen nach Größe und Temperament Ihres Hundes. Die Bootstour zur versunkenen Stadt Kekova ist eine beliebte Wahl, und die meisten Anbieter akzeptieren Hunde auf dem offenen Deck."
+        },
+        {
+          "q": "Wie komme ich mit Hund vom Flughafen Dalaman nach Kaş?",
+          "a": "Ein privater Transfer ist am einfachsten (2,5 Stunden, verhandeln Sie den Preis mit dem Fahrer und bestätigen Sie, dass der Hund willkommen ist). Dolmuş von Dalaman nach Fethiye und weiter ist für kleine Hunde möglich, erfordert aber 2-3 Umstiege."
+        }
       ]
     },
     "beaches": {
@@ -202,28 +369,83 @@
           "tipFr": "Emportez de l'eau pour votre chien ; la route de la péninsule n'a pas d'équipements. Les meilleures criques se trouvent à environ 3-4 km du croisement de la ville de Kaş sur la route de la péninsule",
           "tipEs": "Lleva agua para tu perro; la carretera de la península no tiene instalaciones. Las mejores calas están aproximadamente a 3-4 km del cruce de la ciudad de Kaş en la carretera de la península",
           "tipPt": "Leve água para o seu cão; a estrada da península não tem instalações. As melhores enseadas ficam aproximadamente a 3-4 km do cruzamento da cidade de Kaş na estrada da península",
-          "googleMapsUrl": "https://maps.google.com/?q=Cukurbag+Peninsula+Kas+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Cukurbag+Peninsula+Kas+Turkey",
+          "descriptionDe": "Die 8 km lange Straße rund um die Çukurbağ-Halbinsel führt zu mehreren unbewachten Felsbuchten, die über kurze Kletterpartien erreichbar sind. Das türkisfarbene Wasser ist klar und ruhig; Hunde schwimmen hier abseits der organisierten Strandclubbereiche frei. Anwohner bringen ihre Hunde regelmäßig zu diesen Buchten.",
+          "petPolicyDe": "Hunde an den unorganisierten Buchten kostenlos",
+          "tipDe": "Nehmen Sie Wasser für Ihren Hund mit; die Halbinselstraße hat keine Einrichtungen. Die besten Buchten liegen etwa 3-4 km von der Kreuzung der Stadt Kaş auf der Halbinselstraße entfernt"
         }
       ],
-      "tipsEn": ["Kaputaş beach (20 min east on D400) is one of Turkey's most scenic; dogs enter freely outside July-August peak. Narrow steep steps limit access but determined dog owners manage it.", "The sea temperature at Kaş is 22-26°C from May to October; October is particularly good for dog swimming with warm water and empty beaches.", "Sunscreen on your dog's nose and ear tips is advisable in the intense Lycian summer sun."],
-      "tipsFr": ["La plage de Kaputaş (20 min à l'est sur la D400) est l'une des plus belles de Turquie ; les chiens y entrent librement hors de la pointe de juillet-août. Les marches étroites et escarpées limitent l'accès mais les propriétaires déterminés y arrivent.", "La température de la mer à Kaş est de 22-26°C de mai à octobre ; octobre est particulièrement propice à la baignade avec les chiens avec une eau chaude et des plages vides.", "L'application de crème solaire sur le nez et les oreilles de votre chien est conseillée sous l'intense soleil lycien d'été."],
-      "tipsEs": ["La playa de Kaputaş (20 min al este en la D400) es una de las más bonitas de Turquía; los perros entran libremente fuera del pico de julio-agosto. Los escalones estrechos y empinados limitan el acceso pero los dueños determinados lo consiguen.", "La temperatura del mar en Kaş es de 22-26°C de mayo a octubre; octubre es especialmente bueno para que los perros naden con aguas cálidas y playas vacías.", "Se aconseja aplicar protector solar en la nariz y la punta de las orejas de tu perro bajo el intenso sol licio de verano."],
-      "tipsPt": ["A praia de Kaputaş (20 min a leste na D400) é uma das mais bonitas da Turquia; os cães entram livremente fora do pico de julho-agosto. Os degraus estreitos e íngremes limitam o acesso, mas os donos determinados conseguem.", "A temperatura do mar em Kaş é de 22-26°C de maio a outubro; outubro é particularmente bom para os cães nadarem com água quente e praias vazias.", "Recomenda-se protetor solar no nariz e nas pontas das orelhas do seu cão sob o intenso sol lício de verão."],
+      "tipsEn": [
+        "Kaputaş beach (20 min east on D400) is one of Turkey's most scenic; dogs enter freely outside July-August peak. Narrow steep steps limit access but determined dog owners manage it.",
+        "The sea temperature at Kaş is 22-26°C from May to October; October is particularly good for dog swimming with warm water and empty beaches.",
+        "Sunscreen on your dog's nose and ear tips is advisable in the intense Lycian summer sun."
+      ],
+      "tipsFr": [
+        "La plage de Kaputaş (20 min à l'est sur la D400) est l'une des plus belles de Turquie ; les chiens y entrent librement hors de la pointe de juillet-août. Les marches étroites et escarpées limitent l'accès mais les propriétaires déterminés y arrivent.",
+        "La température de la mer à Kaş est de 22-26°C de mai à octobre ; octobre est particulièrement propice à la baignade avec les chiens avec une eau chaude et des plages vides.",
+        "L'application de crème solaire sur le nez et les oreilles de votre chien est conseillée sous l'intense soleil lycien d'été."
+      ],
+      "tipsEs": [
+        "La playa de Kaputaş (20 min al este en la D400) es una de las más bonitas de Turquía; los perros entran libremente fuera del pico de julio-agosto. Los escalones estrechos y empinados limitan el acceso pero los dueños determinados lo consiguen.",
+        "La temperatura del mar en Kaş es de 22-26°C de mayo a octubre; octubre es especialmente bueno para que los perros naden con aguas cálidas y playas vacías.",
+        "Se aconseja aplicar protector solar en la nariz y la punta de las orejas de tu perro bajo el intenso sol licio de verano."
+      ],
+      "tipsPt": [
+        "A praia de Kaputaş (20 min a leste na D400) é uma das mais bonitas da Turquia; os cães entram livremente fora do pico de julho-agosto. Os degraus estreitos e íngremes limitam o acesso, mas os donos determinados conseguem.",
+        "A temperatura do mar em Kaş é de 22-26°C de maio a outubro; outubro é particularmente bom para os cães nadarem com água quente e praias vazias.",
+        "Recomenda-se protetor solar no nariz e nas pontas das orelhas do seu cão sob o intenso sol lício de verão."
+      ],
       "faqsEn": [
-        { "q": "Are dogs allowed on Kaş main beach?", "a": "There is no formal ban but beach attendants may ask you to move to the less crowded south end in peak season. Outside July and August, dogs swim freely at the main beach without issue." },
-        { "q": "What is the water visibility like for dogs swimming in Kaş?", "a": "Exceptionally clear; Kaş has some of the best water clarity on the Turkish coast (visibility to 30+ m). Your dog will be able to see the bottom in most areas." }
+        {
+          "q": "Are dogs allowed on Kaş main beach?",
+          "a": "There is no formal ban but beach attendants may ask you to move to the less crowded south end in peak season. Outside July and August, dogs swim freely at the main beach without issue."
+        },
+        {
+          "q": "What is the water visibility like for dogs swimming in Kaş?",
+          "a": "Exceptionally clear; Kaş has some of the best water clarity on the Turkish coast (visibility to 30+ m). Your dog will be able to see the bottom in most areas."
+        }
       ],
       "faqsFr": [
-        { "q": "Les chiens sont-ils autorisés sur la plage principale de Kaş ?", "a": "Il n'y a pas d'interdiction formelle mais les agents de plage peuvent vous demander de vous déplacer vers l'extrémité sud moins fréquentée en haute saison. En dehors de juillet et août, les chiens nagent librement sur la plage principale sans problème." },
-        { "q": "Quelle est la visibilité dans l'eau pour les chiens qui nagent à Kaş ?", "a": "Exceptionnellement claire ; Kaş offre l'une des meilleures transparences d'eau de la côte turque (visibilité à 30+ m). Votre chien pourra voir le fond dans la plupart des zones." }
+        {
+          "q": "Les chiens sont-ils autorisés sur la plage principale de Kaş ?",
+          "a": "Il n'y a pas d'interdiction formelle mais les agents de plage peuvent vous demander de vous déplacer vers l'extrémité sud moins fréquentée en haute saison. En dehors de juillet et août, les chiens nagent librement sur la plage principale sans problème."
+        },
+        {
+          "q": "Quelle est la visibilité dans l'eau pour les chiens qui nagent à Kaş ?",
+          "a": "Exceptionnellement claire ; Kaş offre l'une des meilleures transparences d'eau de la côte turque (visibilité à 30+ m). Votre chien pourra voir le fond dans la plupart des zones."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Se permiten los perros en la playa principal de Kaş?", "a": "No hay prohibición formal, pero los asistentes de playa pueden pedirte que te muevas al extremo sur menos concurrido en temporada alta. Fuera de julio y agosto, los perros nadan libremente en la playa principal sin problema." },
-        { "q": "¿Cuál es la visibilidad del agua para los perros que nadan en Kaş?", "a": "Excepcionalmente clara; Kaş tiene una de las mejores transparencias de agua de la costa turca (visibilidad a más de 30 m). Tu perro podrá ver el fondo en la mayoría de las zonas." }
+        {
+          "q": "¿Se permiten los perros en la playa principal de Kaş?",
+          "a": "No hay prohibición formal, pero los asistentes de playa pueden pedirte que te muevas al extremo sur menos concurrido en temporada alta. Fuera de julio y agosto, los perros nadan libremente en la playa principal sin problema."
+        },
+        {
+          "q": "¿Cuál es la visibilidad del agua para los perros que nadan en Kaş?",
+          "a": "Excepcionalmente clara; Kaş tiene una de las mejores transparencias de agua de la costa turca (visibilidad a más de 30 m). Tu perro podrá ver el fondo en la mayoría de las zonas."
+        }
       ],
       "faqsPt": [
-        { "q": "Os cães são permitidos na praia principal de Kaş?", "a": "Não há proibição formal, mas os funcionários da praia podem pedir-lhe que se mude para a extremidade sul menos movimentada na época alta. Fora de julho e agosto, os cães nadam livremente na praia principal sem problema." },
-        { "q": "Qual é a visibilidade da água para os cães a nadar em Kaş?", "a": "Excecionalmente clara; Kaş tem uma das melhores transparências de água da costa turca (visibilidade superior a 30 m). O seu cão conseguirá ver o fundo na maioria das áreas." }
+        {
+          "q": "Os cães são permitidos na praia principal de Kaş?",
+          "a": "Não há proibição formal, mas os funcionários da praia podem pedir-lhe que se mude para a extremidade sul menos movimentada na época alta. Fora de julho e agosto, os cães nadam livremente na praia principal sem problema."
+        },
+        {
+          "q": "Qual é a visibilidade da água para os cães a nadar em Kaş?",
+          "a": "Excecionalmente clara; Kaş tem uma das melhores transparências de água da costa turca (visibilidade superior a 30 m). O seu cão conseguirá ver o fundo na maioria das áreas."
+        }
+      ],
+      "titleDe": "Hundefreundliche Strände bei Kaş",
+      "introDe": "Der Hauptstrand von Kaş ist eine kleine Kiesbucht. Außerhalb der Hauptsaison (Mai, Juni, September, Oktober) und am ruhigeren südlichen Ende des Strands werden Hunde toleriert. Das hundefreundlichste Schwimmen findet in den wilden Buchten entlang der Straße der Çukurbağ-Halbinsel sowie am Kaputaş-Strand (20 Minuten östlich) in der Nebensaison statt.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde am Hauptstrand von Kaş erlaubt?",
+          "a": "Es gibt kein offizielles Verbot, doch Strandwächter bitten Sie in der Hauptsaison möglicherweise, zum weniger überfüllten südlichen Ende zu wechseln. Außerhalb von Juli und August schwimmen Hunde am Hauptstrand problemlos frei."
+        },
+        {
+          "q": "Wie ist die Wassersicht für schwimmende Hunde in Kaş?",
+          "a": "Außergewöhnlich klar; Kaş hat eine der besten Wassersichtweiten an der türkischen Küste (Sichtweite über 30 m). Ihr Hund kann in den meisten Bereichen bis zum Grund sehen."
+        }
       ]
     },
     "vets": {
@@ -256,28 +478,83 @@
           "tipFr": "Les vétérinaires turcs sont généralement excellents et bien formés ; la principale barrière linguistique est l'anglais, mais les jeunes vétérinaires parlent souvent un peu. Apportez votre passeport UE pour animaux",
           "tipEs": "Los veterinarios turcos son generalmente excelentes y bien formados; la principal barrera idiomática es el inglés, pero los veterinarios jóvenes suelen hablar algo. Lleva tu pasaporte UE de mascota",
           "tipPt": "Os veterinários turcos são geralmente excelentes e bem formados; a principal barreira linguística é o inglês, mas os veterinários mais jovens muitas vezes falam um pouco. Traga o seu passaporte UE de animal",
-          "googleMapsUrl": "https://maps.google.com/?q=veteriner+Kas+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=veteriner+Kas+Turkey",
+          "descriptionDe": "Eine allgemeine Tierarztpraxis im Stadtzentrum, die Routinebehandlungen, Impfungen, Wundversorgung und grundlegende Diagnostik übernimmt. Die Öffnungszeiten können außerhalb der Sommersaison eingeschränkt sein; rufen Sie vorab an, um die Verfügbarkeit zu bestätigen.",
+          "petPolicyDe": "Alle Haustiere willkommen",
+          "tipDe": "Türkische Tierärzte sind im Allgemeinen ausgezeichnet ausgebildet; die größte Sprachbarriere ist Englisch, doch jüngere Tierärzte sprechen oft etwas davon. Bringen Sie Ihren EU-Heimtierausweis mit"
         }
       ],
-      "tipsEn": ["Jellyfish are common in the Aegean and Mediterranean in late summer; check your dog's mouth and paws after sea swims.", "Heat exhaustion risk is high in July-August; walk only at dawn and dusk, keep your dog hydrated, and never leave in a parked car.", "Antalya has several 24-hour emergency veterinary clinics; save one before your trip (search 'acil veteriner Antalya')."],
-      "tipsFr": ["Les méduses sont courantes en Égée et en Méditerranée à la fin de l'été ; vérifiez la bouche et les coussinets de votre chien après les baignades en mer.", "Le risque d'épuisement thermique est élevé en juillet-août ; promenez-vous seulement à l'aube et au crépuscule, hydratez votre chien et ne le laissez jamais dans une voiture garée.", "Antalya dispose de plusieurs cliniques vétérinaires d'urgence 24h/24 ; sauvegardez-en une avant votre voyage (cherchez 'acil veteriner Antalya')."],
-      "tipsEs": ["Las medusas son frecuentes en el Egeo y el Mediterráneo a finales del verano; revisa la boca y las patas de tu perro después de los baños en el mar.", "El riesgo de agotamiento por calor es alto en julio-agosto; pasea solo al amanecer y al atardecer, mantén hidratado a tu perro y nunca lo dejes en un coche aparcado.", "Antalya tiene varias clínicas veterinarias de urgencias 24 horas; guarda una antes de tu viaje (busca 'acil veteriner Antalya')."],
-      "tipsPt": ["As medusas são comuns no Egeu e no Mediterrâneo no final do verão; verifique a boca e as patas do seu cão após os banhos no mar.", "O risco de exaustão pelo calor é elevado em julho-agosto; passeie apenas ao amanhecer e ao entardecer, mantenha o seu cão hidratado e nunca o deixe num carro estacionado.", "Antalya tem várias clínicas veterinárias de emergência 24 horas; guarde uma antes da viagem (pesquise 'acil veteriner Antalya')."],
+      "tipsEn": [
+        "Jellyfish are common in the Aegean and Mediterranean in late summer; check your dog's mouth and paws after sea swims.",
+        "Heat exhaustion risk is high in July-August; walk only at dawn and dusk, keep your dog hydrated, and never leave in a parked car.",
+        "Antalya has several 24-hour emergency veterinary clinics; save one before your trip (search 'acil veteriner Antalya')."
+      ],
+      "tipsFr": [
+        "Les méduses sont courantes en Égée et en Méditerranée à la fin de l'été ; vérifiez la bouche et les coussinets de votre chien après les baignades en mer.",
+        "Le risque d'épuisement thermique est élevé en juillet-août ; promenez-vous seulement à l'aube et au crépuscule, hydratez votre chien et ne le laissez jamais dans une voiture garée.",
+        "Antalya dispose de plusieurs cliniques vétérinaires d'urgence 24h/24 ; sauvegardez-en une avant votre voyage (cherchez 'acil veteriner Antalya')."
+      ],
+      "tipsEs": [
+        "Las medusas son frecuentes en el Egeo y el Mediterráneo a finales del verano; revisa la boca y las patas de tu perro después de los baños en el mar.",
+        "El riesgo de agotamiento por calor es alto en julio-agosto; pasea solo al amanecer y al atardecer, mantén hidratado a tu perro y nunca lo dejes en un coche aparcado.",
+        "Antalya tiene varias clínicas veterinarias de urgencias 24 horas; guarda una antes de tu viaje (busca 'acil veteriner Antalya')."
+      ],
+      "tipsPt": [
+        "As medusas são comuns no Egeu e no Mediterrâneo no final do verão; verifique a boca e as patas do seu cão após os banhos no mar.",
+        "O risco de exaustão pelo calor é elevado em julho-agosto; passeie apenas ao amanhecer e ao entardecer, mantenha o seu cão hidratado e nunca o deixe num carro estacionado.",
+        "Antalya tem várias clínicas veterinárias de emergência 24 horas; guarde uma antes da viagem (pesquise 'acil veteriner Antalya')."
+      ],
       "faqsEn": [
-        { "q": "Do I need a health certificate to bring my dog into Turkey?", "a": "Yes. EU and UK dogs entering Turkey need a rabies vaccination (at least 21 days before entry), an ISO microchip, and an official veterinary health certificate issued within 10 days of travel. Check the current Turkish Ministry of Agriculture requirements before your trip." },
-        { "q": "Can I buy European dog food brands in Kaş?", "a": "A limited selection of international brands (Purina, Royal Canin) is available in the larger supermarkets in Kaş. For specialist prescription diets, bring sufficient supply from home." }
+        {
+          "q": "Do I need a health certificate to bring my dog into Turkey?",
+          "a": "Yes. EU and UK dogs entering Turkey need a rabies vaccination (at least 21 days before entry), an ISO microchip, and an official veterinary health certificate issued within 10 days of travel. Check the current Turkish Ministry of Agriculture requirements before your trip."
+        },
+        {
+          "q": "Can I buy European dog food brands in Kaş?",
+          "a": "A limited selection of international brands (Purina, Royal Canin) is available in the larger supermarkets in Kaş. For specialist prescription diets, bring sufficient supply from home."
+        }
       ],
       "faqsFr": [
-        { "q": "Ai-je besoin d'un certificat sanitaire pour amener mon chien en Turquie ?", "a": "Oui. Les chiens de l'UE et du Royaume-Uni entrant en Turquie ont besoin d'une vaccination antirabique (au moins 21 jours avant l'entrée), d'une puce ISO et d'un certificat sanitaire vétérinaire officiel délivré dans les 10 jours précédant le voyage. Vérifiez les exigences actuelles du Ministère turc de l'Agriculture avant votre voyage." },
-        { "q": "Puis-je acheter des marques de nourriture pour chien européennes à Kaş ?", "a": "Une sélection limitée de marques internationales (Purina, Royal Canin) est disponible dans les supermarchés plus grands de Kaş. Pour les régimes sur ordonnance spécialisés, apportez une provision suffisante de chez vous." }
+        {
+          "q": "Ai-je besoin d'un certificat sanitaire pour amener mon chien en Turquie ?",
+          "a": "Oui. Les chiens de l'UE et du Royaume-Uni entrant en Turquie ont besoin d'une vaccination antirabique (au moins 21 jours avant l'entrée), d'une puce ISO et d'un certificat sanitaire vétérinaire officiel délivré dans les 10 jours précédant le voyage. Vérifiez les exigences actuelles du Ministère turc de l'Agriculture avant votre voyage."
+        },
+        {
+          "q": "Puis-je acheter des marques de nourriture pour chien européennes à Kaş ?",
+          "a": "Une sélection limitée de marques internationales (Purina, Royal Canin) est disponible dans les supermarchés plus grands de Kaş. Pour les régimes sur ordonnance spécialisés, apportez une provision suffisante de chez vous."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Necesito un certificado sanitario para llevar a mi perro a Turquía?", "a": "Sí. Los perros de la UE y el Reino Unido que entren en Turquía necesitan una vacuna antirrábica (al menos 21 días antes de la entrada), un microchip ISO y un certificado sanitario veterinario oficial expedido en los 10 días anteriores al viaje. Comprueba los requisitos actuales del Ministerio de Agricultura de Turquía antes de tu viaje." },
-        { "q": "¿Puedo comprar marcas europeas de comida para perros en Kaş?", "a": "Una selección limitada de marcas internacionales (Purina, Royal Canin) está disponible en los supermercados más grandes de Kaş. Para dietas especiales con receta, trae suficiente suministro desde casa." }
+        {
+          "q": "¿Necesito un certificado sanitario para llevar a mi perro a Turquía?",
+          "a": "Sí. Los perros de la UE y el Reino Unido que entren en Turquía necesitan una vacuna antirrábica (al menos 21 días antes de la entrada), un microchip ISO y un certificado sanitario veterinario oficial expedido en los 10 días anteriores al viaje. Comprueba los requisitos actuales del Ministerio de Agricultura de Turquía antes de tu viaje."
+        },
+        {
+          "q": "¿Puedo comprar marcas europeas de comida para perros en Kaş?",
+          "a": "Una selección limitada de marcas internacionales (Purina, Royal Canin) está disponible en los supermercados más grandes de Kaş. Para dietas especiales con receta, trae suficiente suministro desde casa."
+        }
       ],
       "faqsPt": [
-        { "q": "Preciso de um certificado sanitário para levar o meu cão para a Turquia?", "a": "Sim. Os cães da UE e do Reino Unido que entrem na Turquia precisam de vacinação antirrábica (pelo menos 21 dias antes da entrada), de um microchip ISO e de um certificado sanitário veterinário oficial emitido nos 10 dias antes da viagem. Verifique os requisitos atuais do Ministério da Agricultura da Turquia antes da sua viagem." },
-        { "q": "Posso comprar marcas europeias de comida para cão em Kaş?", "a": "Uma seleção limitada de marcas internacionais (Purina, Royal Canin) está disponível nos supermercados maiores de Kaş. Para dietas especiais com receita, traga provisão suficiente de casa." }
+        {
+          "q": "Preciso de um certificado sanitário para levar o meu cão para a Turquia?",
+          "a": "Sim. Os cães da UE e do Reino Unido que entrem na Turquia precisam de vacinação antirrábica (pelo menos 21 dias antes da entrada), de um microchip ISO e de um certificado sanitário veterinário oficial emitido nos 10 dias antes da viagem. Verifique os requisitos atuais do Ministério da Agricultura da Turquia antes da sua viagem."
+        },
+        {
+          "q": "Posso comprar marcas europeias de comida para cão em Kaş?",
+          "a": "Uma seleção limitada de marcas internacionais (Purina, Royal Canin) está disponível nos supermercados maiores de Kaş. Para dietas especiais com receita, traga provisão suficiente de casa."
+        }
+      ],
+      "titleDe": "Tierärzte & Notfallversorgung in Kaş",
+      "introDe": "Kaş verfügt über ein bis zwei kleine Tierarztpraxen. Für spezialisierte Behandlung bietet Antalya (3 Stunden) vollausgestattete Tierkliniken. Führen Sie stets ein einfaches Erste-Hilfe-Set für Haustiere mit; Quallenstiche, Pfotenschnitte auf felsigen Pfaden und Hitzeerschöpfung sind im lykischen Sommer die häufigsten Probleme.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich eine Gesundheitsbescheinigung, um meinen Hund in die Türkei zu bringen?",
+          "a": "Ja. Hunde aus der EU und dem Vereinigten Königreich benötigen zur Einreise in die Türkei eine Tollwutimpfung (mindestens 21 Tage vor der Einreise), einen ISO-Mikrochip und eine offizielle tierärztliche Gesundheitsbescheinigung, die innerhalb von 10 Tagen vor der Reise ausgestellt wurde. Prüfen Sie vor Ihrer Reise die aktuellen Anforderungen des türkischen Landwirtschaftsministeriums."
+        },
+        {
+          "q": "Kann ich in Kaş europäische Hundefuttermarken kaufen?",
+          "a": "In den größeren Supermärkten in Kaş ist eine begrenzte Auswahl an internationalen Marken (Purina, Royal Canin) erhältlich. Für spezielle Diätfuttersorten bringen Sie ausreichend Vorrat von zu Hause mit."
+        }
       ]
     },
     "tips": {
@@ -312,20 +589,56 @@
         }
       ],
       "faqsEn": [
-        { "q": "Is Kaş genuinely dog-friendly for a European tourist?", "a": "More so than most Turkish towns. The European expat community and the yachting crowd have shaped Kaş into a notably relaxed place for dogs. You will not face hostility but you will need to be more proactive about confirming terrace access than you would be in France or Spain." },
-        { "q": "Are street dogs an issue in Kaş?", "a": "Turkey has many street dogs (sokak köpeği) which are generally vaccinated and tagged by municipalities. In Kaş they are well-managed and fed by locals. Your dog may interact with them on walks; most are calm but monitor initial encounters." }
+        {
+          "q": "Is Kaş genuinely dog-friendly for a European tourist?",
+          "a": "More so than most Turkish towns. The European expat community and the yachting crowd have shaped Kaş into a notably relaxed place for dogs. You will not face hostility but you will need to be more proactive about confirming terrace access than you would be in France or Spain."
+        },
+        {
+          "q": "Are street dogs an issue in Kaş?",
+          "a": "Turkey has many street dogs (sokak köpeği) which are generally vaccinated and tagged by municipalities. In Kaş they are well-managed and fed by locals. Your dog may interact with them on walks; most are calm but monitor initial encounters."
+        }
       ],
       "faqsFr": [
-        { "q": "Kaş est-elle vraiment dog-friendly pour un touriste européen ?", "a": "Plus que la plupart des villes turques. La communauté d'expatriés européens et les plaisanciers ont façonné Kaş en un endroit notoirement détendu pour les chiens. Vous ne rencontrerez pas d'hostilité mais vous devrez être plus proactif pour confirmer l'accès aux terrasses qu'en France ou en Espagne." },
-        { "q": "Les chiens errants sont-ils un problème à Kaş ?", "a": "La Turquie compte de nombreux chiens errants (sokak köpeği) qui sont généralement vaccinés et identifiés par les municipalités. À Kaş, ils sont bien gérés et nourris par les habitants. Votre chien peut interagir avec eux lors des promenades ; la plupart sont calmes mais surveillez les premières rencontres." }
+        {
+          "q": "Kaş est-elle vraiment dog-friendly pour un touriste européen ?",
+          "a": "Plus que la plupart des villes turques. La communauté d'expatriés européens et les plaisanciers ont façonné Kaş en un endroit notoirement détendu pour les chiens. Vous ne rencontrerez pas d'hostilité mais vous devrez être plus proactif pour confirmer l'accès aux terrasses qu'en France ou en Espagne."
+        },
+        {
+          "q": "Les chiens errants sont-ils un problème à Kaş ?",
+          "a": "La Turquie compte de nombreux chiens errants (sokak köpeği) qui sont généralement vaccinés et identifiés par les municipalités. À Kaş, ils sont bien gérés et nourris par les habitants. Votre chien peut interagir avec eux lors des promenades ; la plupart sont calmes mais surveillez les premières rencontres."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Es Kaş genuinamente dog-friendly para un turista europeo?", "a": "Más que la mayoría de las ciudades turcas. La comunidad de expatriados europeos y la gente de la náutica han convertido Kaş en un lugar notablemente relajado para los perros. No encontrarás hostilidad, pero tendrás que ser más proactivo para confirmar el acceso a las terrazas de lo que lo serías en Francia o España." },
-        { "q": "¿Son los perros callejeros un problema en Kaş?", "a": "Turquía tiene muchos perros callejeros (sokak köpeği) que generalmente están vacunados y etiquetados por los municipios. En Kaş están bien gestionados y alimentados por los locales. Tu perro puede interactuar con ellos en los paseos; la mayoría son tranquilos pero vigila los primeros encuentros." }
+        {
+          "q": "¿Es Kaş genuinamente dog-friendly para un turista europeo?",
+          "a": "Más que la mayoría de las ciudades turcas. La comunidad de expatriados europeos y la gente de la náutica han convertido Kaş en un lugar notablemente relajado para los perros. No encontrarás hostilidad, pero tendrás que ser más proactivo para confirmar el acceso a las terrazas de lo que lo serías en Francia o España."
+        },
+        {
+          "q": "¿Son los perros callejeros un problema en Kaş?",
+          "a": "Turquía tiene muchos perros callejeros (sokak köpeği) que generalmente están vacunados y etiquetados por los municipios. En Kaş están bien gestionados y alimentados por los locales. Tu perro puede interactuar con ellos en los paseos; la mayoría son tranquilos pero vigila los primeros encuentros."
+        }
       ],
       "faqsPt": [
-        { "q": "Kaş é genuinamente dog-friendly para um turista europeu?", "a": "Mais do que a maioria das cidades turcas. A comunidade de expatriados europeus e a multidão de velejadores moldaram Kaş num lugar notavelmente descontraído para os cães. Não vai encontrar hostilidade, mas terá de ser mais proativo a confirmar o acesso à esplanada do que seria em França ou Espanha." },
-        { "q": "Os cães de rua são um problema em Kaş?", "a": "A Turquia tem muitos cães de rua (sokak köpeği) que são geralmente vacinados e identificados pelos municípios. Em Kaş são bem geridos e alimentados pelos locais. O seu cão pode interagir com eles nos passeios; a maioria é calma, mas monitorize os primeiros encontros." }
+        {
+          "q": "Kaş é genuinamente dog-friendly para um turista europeu?",
+          "a": "Mais do que a maioria das cidades turcas. A comunidade de expatriados europeus e a multidão de velejadores moldaram Kaş num lugar notavelmente descontraído para os cães. Não vai encontrar hostilidade, mas terá de ser mais proativo a confirmar o acesso à esplanada do que seria em França ou Espanha."
+        },
+        {
+          "q": "Os cães de rua são um problema em Kaş?",
+          "a": "A Turquia tem muitos cães de rua (sokak köpeği) que são geralmente vacinados e identificados pelos municípios. Em Kaş são bem geridos e alimentados pelos locais. O seu cão pode interagir com eles nos passeios; a maioria é calma, mas monitorize os primeiros encontros."
+        }
+      ],
+      "titleDe": "Wichtige Hundereise-Tipps für Kaş",
+      "introDe": "Kaş belohnt Hundebesitzer, die bereit sind, ihre Reise um die Hitze herum zu planen. Das Städtchen ist klein, die Landschaft atemberaubend, und außerhalb der Hochsommersaison sorgt die europäische Expat-Gemeinschaft für einen herzlichen Empfang für Hunde. Der Schlüssel ist das Timing: Mai, Juni sowie September-Oktober sind die besten Zeiträume.",
+      "faqsDe": [
+        {
+          "q": "Ist Kaş wirklich hundefreundlich für einen europäischen Touristen?",
+          "a": "Mehr als die meisten türkischen Städte. Die europäische Expat-Gemeinschaft und die Segelszene haben Kaş zu einem bemerkenswert entspannten Ort für Hunde gemacht. Sie werden auf keine Feindseligkeit stoßen, müssen aber proaktiver nachfragen, ob eine Terrasse Hunde zulässt, als es in Frankreich oder Spanien nötig wäre."
+        },
+        {
+          "q": "Sind Straßenhunde ein Problem in Kaş?",
+          "a": "Die Türkei hat viele Straßenhunde (sokak köpeği), die von den Gemeinden im Allgemeinen geimpft und gekennzeichnet werden. In Kaş sind sie gut betreut und werden von Anwohnern gefüttert. Ihr Hund kann bei Spaziergängen mit ihnen in Kontakt kommen; die meisten sind ruhig, beobachten Sie jedoch die ersten Begegnungen."
+        }
       ]
     },
     "attractions": {
@@ -357,28 +670,83 @@
           "tipFr": "Réservez un petit gulet privé plutôt qu'une excursion en groupe ; c'est meilleur pour le confort de votre chien et l'équipage sera plus accommodant",
           "tipEs": "Reserva un pequeño gulet privado en lugar de una excursión en grupo; es mejor para la comodidad de tu perro y la tripulación será más complaciente",
           "tipPt": "Reserve um pequeno gulet privado em vez de uma viagem em grupo; melhor para o conforto do seu cão e a tripulação será mais acomodativa",
-          "googleMapsUrl": "https://maps.google.com/?q=Kekova+boat+trip+Kas+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Kekova+boat+trip+Kas+Turkey",
+          "descriptionDe": "Ein halb- oder ganztägiger Gulet-Ausflug zur Insel Kekova und ihren teilweise versunkenen lykischen Ruinen, die durch das kristallklare Wasser sichtbar sind. Hunde reisen auf dem offenen Deck des Gulets und können an den Ankerstopps vom Boot aus schwimmen. Einer der spektakulärsten hundefreundlichen Bootsausflüge im Mittelmeer.",
+          "petPolicyDe": "Hunde auf dem offenen Deck willkommen; bei Buchung bestätigen",
+          "tipDe": "Buchen Sie ein kleines privates Gulet statt eines Gruppenausflugs; besser für den Komfort Ihres Hundes, und die Crew wird entgegenkommender sein"
         }
       ],
-      "tipsEn": ["The Hellenistic theatre above the town is accessed by a short path and dogs enter freely; the views over the harbour and to Greece are exceptional.", "The Lycian rock tombs (Doric tomb on the main street and the King's Tomb) are open-air monuments; dogs walk up to them freely.", "The old town lanes are car-free and excellent for evening strolls with your dog."],
-      "tipsFr": ["Le théâtre hellénistique au-dessus de la ville est accessible par un court chemin et les chiens y entrent librement ; les vues sur le port et vers la Grèce sont exceptionnelles.", "Les tombeaux lyciens (tombeau dorique dans la rue principale et tombeau du roi) sont des monuments en plein air ; les chiens peuvent s'en approcher librement.", "Les ruelles de la vieille ville sont sans voiture et excellentes pour les promenades du soir avec votre chien."],
-      "tipsEs": ["El teatro helenístico sobre la ciudad es accesible por un corto camino y los perros entran libremente; las vistas sobre el puerto y hacia Grecia son excepcionales.", "Las tumbas licias (tumba dórica en la calle principal y tumba del Rey) son monumentos al aire libre; los perros pueden acercarse libremente.", "Las callejuelas del casco antiguo no tienen coches y son excelentes para paseos nocturnos con tu perro."],
-      "tipsPt": ["O teatro helenístico acima da cidade é acessível por um curto caminho e os cães entram livremente; as vistas sobre o porto e para a Grécia são excecionais.", "As tumbas lícias (tumba dórica na rua principal e tumba do Rei) são monumentos ao ar livre; os cães podem aproximar-se livremente.", "As ruelas da cidade velha não têm carros e são excelentes para passeios noturnos com o seu cão."],
+      "tipsEn": [
+        "The Hellenistic theatre above the town is accessed by a short path and dogs enter freely; the views over the harbour and to Greece are exceptional.",
+        "The Lycian rock tombs (Doric tomb on the main street and the King's Tomb) are open-air monuments; dogs walk up to them freely.",
+        "The old town lanes are car-free and excellent for evening strolls with your dog."
+      ],
+      "tipsFr": [
+        "Le théâtre hellénistique au-dessus de la ville est accessible par un court chemin et les chiens y entrent librement ; les vues sur le port et vers la Grèce sont exceptionnelles.",
+        "Les tombeaux lyciens (tombeau dorique dans la rue principale et tombeau du roi) sont des monuments en plein air ; les chiens peuvent s'en approcher librement.",
+        "Les ruelles de la vieille ville sont sans voiture et excellentes pour les promenades du soir avec votre chien."
+      ],
+      "tipsEs": [
+        "El teatro helenístico sobre la ciudad es accesible por un corto camino y los perros entran libremente; las vistas sobre el puerto y hacia Grecia son excepcionales.",
+        "Las tumbas licias (tumba dórica en la calle principal y tumba del Rey) son monumentos al aire libre; los perros pueden acercarse libremente.",
+        "Las callejuelas del casco antiguo no tienen coches y son excelentes para paseos nocturnos con tu perro."
+      ],
+      "tipsPt": [
+        "O teatro helenístico acima da cidade é acessível por um curto caminho e os cães entram livremente; as vistas sobre o porto e para a Grécia são excecionais.",
+        "As tumbas lícias (tumba dórica na rua principal e tumba do Rei) são monumentos ao ar livre; os cães podem aproximar-se livremente.",
+        "As ruelas da cidade velha não têm carros e são excelentes para passeios noturnos com o seu cão."
+      ],
       "faqsEn": [
-        { "q": "Can I take my dog to the Kekova island itself?", "a": "Landing on Kekova island is restricted to protect the archaeological site. The boat trip views the ruins from the water; your dog enjoys the deck and the swimming stops at permitted anchorages." },
-        { "q": "Is scuba diving dog-friendly in Kaş?", "a": "Kaş is one of Turkey's top dive destinations. You cannot dive with your dog but most dive boats accept dogs on the surface boat while their owner dives. Confirm with your dive operator when booking." }
+        {
+          "q": "Can I take my dog to the Kekova island itself?",
+          "a": "Landing on Kekova island is restricted to protect the archaeological site. The boat trip views the ruins from the water; your dog enjoys the deck and the swimming stops at permitted anchorages."
+        },
+        {
+          "q": "Is scuba diving dog-friendly in Kaş?",
+          "a": "Kaş is one of Turkey's top dive destinations. You cannot dive with your dog but most dive boats accept dogs on the surface boat while their owner dives. Confirm with your dive operator when booking."
+        }
       ],
       "faqsFr": [
-        { "q": "Puis-je emmener mon chien sur l'île de Kekova elle-même ?", "a": "Le débarquement sur l'île de Kekova est limité pour protéger le site archéologique. L'excursion en bateau observe les ruines depuis l'eau ; votre chien profite du pont et des arrêts de natation aux mouillages autorisés." },
-        { "q": "La plongée sous-marine est-elle dog-friendly à Kaş ?", "a": "Kaş est l'une des meilleures destinations de plongée de Turquie. Vous ne pouvez pas plonger avec votre chien mais la plupart des bateaux de plongée acceptent les chiens sur le bateau de surface pendant que leur propriétaire plonge. Confirmez avec votre opérateur de plongée lors de la réservation." }
+        {
+          "q": "Puis-je emmener mon chien sur l'île de Kekova elle-même ?",
+          "a": "Le débarquement sur l'île de Kekova est limité pour protéger le site archéologique. L'excursion en bateau observe les ruines depuis l'eau ; votre chien profite du pont et des arrêts de natation aux mouillages autorisés."
+        },
+        {
+          "q": "La plongée sous-marine est-elle dog-friendly à Kaş ?",
+          "a": "Kaş est l'une des meilleures destinations de plongée de Turquie. Vous ne pouvez pas plonger avec votre chien mais la plupart des bateaux de plongée acceptent les chiens sur le bateau de surface pendant que leur propriétaire plonge. Confirmez avec votre opérateur de plongée lors de la réservation."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Puedo llevar a mi perro a la propia isla de Kekova?", "a": "El desembarco en la isla de Kekova está restringido para proteger el yacimiento arqueológico. La excursión en barco observa las ruinas desde el agua; tu perro disfruta de la cubierta y las paradas de baño en los fondeaderos permitidos." },
-        { "q": "¿El buceo es dog-friendly en Kaş?", "a": "Kaş es uno de los mejores destinos de buceo de Turquía. No puedes bucear con tu perro, pero la mayoría de los barcos de buceo aceptan perros en el barco de superficie mientras su dueño bucea. Confirma con tu operador de buceo al reservar." }
+        {
+          "q": "¿Puedo llevar a mi perro a la propia isla de Kekova?",
+          "a": "El desembarco en la isla de Kekova está restringido para proteger el yacimiento arqueológico. La excursión en barco observa las ruinas desde el agua; tu perro disfruta de la cubierta y las paradas de baño en los fondeaderos permitidos."
+        },
+        {
+          "q": "¿El buceo es dog-friendly en Kaş?",
+          "a": "Kaş es uno de los mejores destinos de buceo de Turquía. No puedes bucear con tu perro, pero la mayoría de los barcos de buceo aceptan perros en el barco de superficie mientras su dueño bucea. Confirma con tu operador de buceo al reservar."
+        }
       ],
       "faqsPt": [
-        { "q": "Posso levar o meu cão à própria ilha de Kekova?", "a": "O desembarque na ilha de Kekova é restrito para proteger o sítio arqueológico. A excursão de barco observa as ruínas a partir da água; o seu cão desfruta do convés e das paragens de natação nas fundeadouros permitidos." },
-        { "q": "O mergulho é dog-friendly em Kaş?", "a": "Kaş é um dos melhores destinos de mergulho da Turquia. Não pode mergulhar com o seu cão, mas a maioria dos barcos de mergulho aceita cães no barco de superfície enquanto o dono mergulha. Confirme com o seu operador de mergulho ao reservar." }
+        {
+          "q": "Posso levar o meu cão à própria ilha de Kekova?",
+          "a": "O desembarque na ilha de Kekova é restrito para proteger o sítio arqueológico. A excursão de barco observa as ruínas a partir da água; o seu cão desfruta do convés e das paragens de natação nas fundeadouros permitidos."
+        },
+        {
+          "q": "O mergulho é dog-friendly em Kaş?",
+          "a": "Kaş é um dos melhores destinos de mergulho da Turquia. Não pode mergulhar com o seu cão, mas a maioria dos barcos de mergulho aceita cães no barco de superfície enquanto o dono mergulha. Confirme com o seu operador de mergulho ao reservar."
+        }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Kaş",
+      "introDe": "Kaş' wichtigste Sehenswürdigkeiten liegen im Freien: die lykischen Felsengräber, das kleine hellenistische Theater, der Hafen und das Wasser. Hunde haben zu allen Außenstandorten freien Zugang. Der Bootsausflug zur versunkenen Stadt Kekova ist einer der besten hundefreundlichen Ausflüge an der türkischen Riviera.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund auf die Insel Kekova selbst mitnehmen?",
+          "a": "Das Betreten der Insel Kekova ist zum Schutz der archäologischen Stätte eingeschränkt. Der Bootsausflug betrachtet die Ruinen vom Wasser aus; Ihr Hund genießt das Deck und die Schwimmstopps an den zugelassenen Ankerplätzen."
+        },
+        {
+          "q": "Ist Tauchen in Kaş hundefreundlich?",
+          "a": "Kaş ist eines der besten Tauchziele der Türkei. Sie können nicht mit Ihrem Hund tauchen, doch die meisten Tauchboote akzeptieren Hunde an Bord, während der Besitzer taucht. Bestätigen Sie dies bei der Buchung mit Ihrem Tauchanbieter."
+        }
       ]
     },
     "petsitting": {
@@ -391,25 +759,77 @@
       "introEs": "Kaş tiene una pequeña comunidad de expatriados que ha creado redes informales de cuidado de mascotas. Los kennels formales son limitados, pero la escena social de la ciudad (grupos de Facebook, tablones de la marina) es una forma eficaz de encontrar cuidado de perros a corto plazo. Para alojamiento de varios días, Antalya tiene kennels profesionales.",
       "introPt": "Kaş tem uma pequena comunidade de expatriados que criou redes informais de guarda de animais. Os canis formais são limitados, mas a cena social da cidade (grupos do Facebook, quadros de avisos da marina) é uma forma eficaz de encontrar cuidados de cão a curto prazo. Para alojamento de vários dias, Antalya tem canis profissionais.",
       "places": [],
-      "tipsEn": ["Search 'Kaş expats' on Facebook for the local community group; pet-sitters advertise regularly in summer.", "The marina notice board often has handwritten pet-sitter ads during summer season.", "Your hotel or guesthouse can often recommend a local dog-sitter; boutique hotels in Kaş tend to have contacts in the expat network."],
-      "tipsFr": ["Recherchez 'Kaş expats' sur Facebook pour le groupe communautaire local ; les gardes d'animaux font de la publicité régulièrement en été.", "Le tableau d'affichage de la marina affiche souvent des annonces de garde d'animaux manuscrites en été.", "Votre hôtel ou pension peut souvent recommander un dog-sitter local ; les hôtels boutique à Kaş ont tendance à avoir des contacts dans le réseau d'expatriés."],
-      "tipsEs": ["Busca 'Kaş expats' en Facebook para el grupo comunitario local; los cuidadores de mascotas se anuncian regularmente en verano.", "El tablón de la marina suele tener anuncios escritos a mano de cuidadores de mascotas durante la temporada de verano.", "Tu hotel o pensión a menudo puede recomendar un dog-sitter local; los hoteles boutique en Kaş tienden a tener contactos en la red de expatriados."],
-      "tipsPt": ["Pesquise 'Kaş expats' no Facebook para o grupo comunitário local; os cuidadores de animais anunciam regularmente no verão.", "O quadro de avisos da marina frequentemente tem anúncios manuscritos de cuidadores de animais durante a época de verão.", "O seu hotel ou pensão pode frequentemente recomendar um dog-sitter local; os hotéis boutique em Kaş tendem a ter contactos na rede de expatriados."],
+      "tipsEn": [
+        "Search 'Kaş expats' on Facebook for the local community group; pet-sitters advertise regularly in summer.",
+        "The marina notice board often has handwritten pet-sitter ads during summer season.",
+        "Your hotel or guesthouse can often recommend a local dog-sitter; boutique hotels in Kaş tend to have contacts in the expat network."
+      ],
+      "tipsFr": [
+        "Recherchez 'Kaş expats' sur Facebook pour le groupe communautaire local ; les gardes d'animaux font de la publicité régulièrement en été.",
+        "Le tableau d'affichage de la marina affiche souvent des annonces de garde d'animaux manuscrites en été.",
+        "Votre hôtel ou pension peut souvent recommander un dog-sitter local ; les hôtels boutique à Kaş ont tendance à avoir des contacts dans le réseau d'expatriés."
+      ],
+      "tipsEs": [
+        "Busca 'Kaş expats' en Facebook para el grupo comunitario local; los cuidadores de mascotas se anuncian regularmente en verano.",
+        "El tablón de la marina suele tener anuncios escritos a mano de cuidadores de mascotas durante la temporada de verano.",
+        "Tu hotel o pensión a menudo puede recomendar un dog-sitter local; los hoteles boutique en Kaş tienden a tener contactos en la red de expatriados."
+      ],
+      "tipsPt": [
+        "Pesquise 'Kaş expats' no Facebook para o grupo comunitário local; os cuidadores de animais anunciam regularmente no verão.",
+        "O quadro de avisos da marina frequentemente tem anúncios manuscritos de cuidadores de animais durante a época de verão.",
+        "O seu hotel ou pensão pode frequentemente recomendar um dog-sitter local; os hotéis boutique em Kaş tendem a ter contactos na rede de expatriados."
+      ],
       "faqsEn": [
-        { "q": "Are there professional kennels in Kaş?", "a": "No dedicated kennel in Kaş town. The nearest professional boarding facility is in Antalya (3 hours). For day care, the expat network is the most practical option." },
-        { "q": "Can my dog stay in hotels in Kaş?", "a": "A growing number of boutique hotels and guesthouses in Kaş accept dogs; confirm when booking. The pet-friendly hotel scene is stronger here than in most Turkish resort towns due to the European clientele." }
+        {
+          "q": "Are there professional kennels in Kaş?",
+          "a": "No dedicated kennel in Kaş town. The nearest professional boarding facility is in Antalya (3 hours). For day care, the expat network is the most practical option."
+        },
+        {
+          "q": "Can my dog stay in hotels in Kaş?",
+          "a": "A growing number of boutique hotels and guesthouses in Kaş accept dogs; confirm when booking. The pet-friendly hotel scene is stronger here than in most Turkish resort towns due to the European clientele."
+        }
       ],
       "faqsFr": [
-        { "q": "Y a-t-il des chenils professionnels à Kaş ?", "a": "Pas de chenil dédié dans la ville de Kaş. L'établissement de pension professionnelle le plus proche est à Antalya (3 heures). Pour la garderie de jour, le réseau d'expatriés est l'option la plus pratique." },
-        { "q": "Mon chien peut-il séjourner dans des hôtels à Kaş ?", "a": "Un nombre croissant d'hôtels boutique et de pensions à Kaş acceptent les chiens ; confirmez lors de la réservation. La scène hôtelière pet-friendly est plus développée ici que dans la plupart des stations balnéaires turques en raison de la clientèle européenne." }
+        {
+          "q": "Y a-t-il des chenils professionnels à Kaş ?",
+          "a": "Pas de chenil dédié dans la ville de Kaş. L'établissement de pension professionnelle le plus proche est à Antalya (3 heures). Pour la garderie de jour, le réseau d'expatriés est l'option la plus pratique."
+        },
+        {
+          "q": "Mon chien peut-il séjourner dans des hôtels à Kaş ?",
+          "a": "Un nombre croissant d'hôtels boutique et de pensions à Kaş acceptent les chiens ; confirmez lors de la réservation. La scène hôtelière pet-friendly est plus développée ici que dans la plupart des stations balnéaires turques en raison de la clientèle européenne."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Hay kennels profesionales en Kaş?", "a": "No hay kennel dedicado en la ciudad de Kaş. La instalación de alojamiento profesional más cercana está en Antalya (3 horas). Para guardería de día, la red de expatriados es la opción más práctica." },
-        { "q": "¿Puede mi perro alojarse en hoteles en Kaş?", "a": "Un número creciente de hoteles boutique y pensiones en Kaş aceptan perros; confirma al reservar. La escena de hoteles pet-friendly es más fuerte aquí que en la mayoría de las ciudades turísticas turcas debido a la clientela europea." }
+        {
+          "q": "¿Hay kennels profesionales en Kaş?",
+          "a": "No hay kennel dedicado en la ciudad de Kaş. La instalación de alojamiento profesional más cercana está en Antalya (3 horas). Para guardería de día, la red de expatriados es la opción más práctica."
+        },
+        {
+          "q": "¿Puede mi perro alojarse en hoteles en Kaş?",
+          "a": "Un número creciente de hoteles boutique y pensiones en Kaş aceptan perros; confirma al reservar. La escena de hoteles pet-friendly es más fuerte aquí que en la mayoría de las ciudades turísticas turcas debido a la clientela europea."
+        }
       ],
       "faqsPt": [
-        { "q": "Há canis profissionais em Kaş?", "a": "Nenhum canil dedicado na cidade de Kaş. A instalação de alojamento profissional mais próxima fica em Antalya (3 horas). Para creche de dia, a rede de expatriados é a opção mais prática." },
-        { "q": "O meu cão pode ficar em hotéis em Kaş?", "a": "Um número crescente de hotéis boutique e pensões em Kaş aceita cães; confirme ao reservar. A cena de hotéis pet-friendly é mais forte aqui do que na maioria das cidades turísticas turcas devido à clientela europeia." }
+        {
+          "q": "Há canis profissionais em Kaş?",
+          "a": "Nenhum canil dedicado na cidade de Kaş. A instalação de alojamento profissional mais próxima fica em Antalya (3 horas). Para creche de dia, a rede de expatriados é a opção mais prática."
+        },
+        {
+          "q": "O meu cão pode ficar em hotéis em Kaş?",
+          "a": "Um número crescente de hotéis boutique e pensões em Kaş aceita cães; confirme ao reservar. A cena de hotéis pet-friendly é mais forte aqui do que na maioria das cidades turísticas turcas devido à clientela europeia."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Unterbringung in Kaş",
+      "introDe": "Kaş hat eine kleine Expat-Gemeinschaft, die informelle Netzwerke für Haustierbetreuung aufgebaut hat. Formelle Hundepensionen sind begrenzt, doch die soziale Szene der Stadt (Facebook-Gruppen, Anschlagtafeln am Yachthafen) ist eine effektive Möglichkeit, kurzfristige Hundebetreuung zu finden. Für eine mehrtägige Unterbringung gibt es in Antalya professionelle Hundepensionen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es professionelle Hundepensionen in Kaş?",
+          "a": "Keine eigene Hundepension in der Stadt Kaş. Die nächstgelegene professionelle Unterbringungseinrichtung befindet sich in Antalya (3 Stunden). Für die Tagesbetreuung ist das Expat-Netzwerk die praktischste Option."
+        },
+        {
+          "q": "Kann mein Hund in Hotels in Kaş übernachten?",
+          "a": "Eine wachsende Zahl von Boutique-Hotels und Gästehäusern in Kaş akzeptiert Hunde; bestätigen Sie dies bei der Buchung. Die haustierfreundliche Hotelszene ist hier aufgrund der europäischen Klientel stärker ausgeprägt als in den meisten türkischen Urlaubsorten."
+        }
       ]
     }
   }

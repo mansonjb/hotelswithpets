@@ -39,7 +39,11 @@
           "tipFr": "Pas de réservation possible : venez tôt les week-ends de courses et d'événements.",
           "tipEs": "No aceptan reservas: llega pronto los fines de semana de carreras y eventos.",
           "tipPt": "Não aceitam reservas: chegue cedo nos fins de semana de corridas e eventos.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CENTRO+Vorderstadt+12+Kitzbuhel"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=CENTRO+Vorderstadt+12+Kitzbuhel",
+          "descriptionDe": "Eine italienische Cafe-Bar-Restaurant in Kitzbühels Vorzeigestraße Vorderstadt, die Pasta, Fisch und holzofengebackene Pizza in einem stilvollen, ungezwungenen Raum serviert. Es gilt eine hundefreundliche Richtlinie, und die Tische im Freien blicken auf die bemalten mittelalterlichen Fassaden.",
+          "petPolicyDe": "Hundefreundliche Richtlinie; Terrasse und Innenbereich.",
+          "mustTryDe": "Holzofenpizza nach einer Wanderung am Hahnenkamm",
+          "tipDe": "Es werden keine Reservierungen angenommen, kommen Sie an Renn- und Veranstaltungswochenenden also früh."
         },
         {
           "name": "Eggerwirt Restaurant",
@@ -65,7 +69,11 @@
           "tipFr": "La ruelle calme du Gänsbach derrière l'auberge est pratique pour dégourdir les pattes avant le dîner.",
           "tipEs": "El tranquilo callejón del Gänsbach, detrás de la posada, es práctico para estirar las patas antes de cenar.",
           "tipPt": "A ruela tranquila do Gänsbach atrás da estalagem é prática para esticar as patas antes do jantar.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eggerwirt+Untere+Gansbachgasse+12+Kitzbuhel"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Eggerwirt+Untere+Gansbachgasse+12+Kitzbuhel",
+          "descriptionDe": "Das Restaurant von Kitzbühels historischstem Gasthaus, seit 1658 familiengeführt und offen haustierfreundlich in Hotel und Speisesaal. Erwarten Sie klassische Tiroler Küche, zwei Gehminuten von der Vorderstadt entfernt.",
+          "petPolicyDe": "Haustierfreundliches Haus; Hunde bei gutem Benehmen willkommen.",
+          "mustTryDe": "Wiener Schnitzel und Tiroler Gröstl",
+          "tipDe": "Die ruhige Gänsbachgasse hinter dem Gasthaus eignet sich gut für eine kurze Runde vor dem Essen."
         },
         {
           "name": "Rosi's Sonnbergstuben",
@@ -91,9 +99,16 @@
           "tipFr": "Combinez le déjeuner avec les sentiers des prairies du Sonnberg, une balade douce avec vue sur la vallée.",
           "tipEs": "Combina el almuerzo con los senderos de los prados del Sonnberg, un paseo suave con vistas al valle.",
           "tipPt": "Combine o almoço com os caminhos dos prados do Sonnberg, um passeio suave com vista para o vale.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosis+Sonnbergstuben+Oberaigenweg+103+Kitzbuhel"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Rosis+Sonnbergstuben+Oberaigenweg+103+Kitzbuhel",
+          "descriptionDe": "Rosis legendäres Alpengasthaus oberhalb der Stadt, berühmt für herzhafte Tiroler Gerichte, Live-Musik und prominente Gäste, mit offizieller hundefreundlicher Richtlinie gelistet. Die Sonnenterrasse blickt direkt über das Tal auf den Wilden Kaiser.",
+          "petPolicyDe": "Hundefreundliche Richtlinie; große Terrasse ideal mit Hunden.",
+          "mustTryDe": "Kaiserschmarrn auf der Sonnenterrasse",
+          "tipDe": "Kombinieren Sie das Mittagessen mit den Wiesenwegen am Sonnberg, einem sanften Spaziergang mit Talblick."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Kitzbühel",
+      "introDe": "Kitzbühels Gastronomie reicht von holzofengebackener Pizza in den mittelalterlichen Gassen bis zu legendären Tiroler Berggasthöfen, und Hunde sind in einer bemerkenswerten Anzahl von ihnen willkommen. Allein Falstaff listet ein Dutzend Adressen in Kitzbühel mit offizieller Hunde-willkommen-Richtlinie.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Walks & Green Spaces for Dogs in Kitzbühel",
@@ -127,7 +142,11 @@
           "bestTimeToVisitFr": "Tôt le matin, avant l'arrivée des baigneurs",
           "bestTimeToVisitEs": "Temprano por la mañana, antes de que lleguen los bañistas",
           "bestTimeToVisitPt": "De manhã cedo, antes de chegarem os banhistas",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Schwarzsee+Kitzbuhel"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Schwarzsee+Kitzbuhel",
+          "descriptionDe": "Die flache Runde um Kitzbühels warmen Moorsee ist der klassische Morgenspaziergang mit Hund, mit Schilfgürteln, Bergspiegelungen und Bänken entlang des Weges. Hunde sind rund um den See an der Leine willkommen, Kotbeutel sind Pflicht.",
+          "featuresDe": "Flache Seerunde, Bänke, Bergblick",
+          "leashRulesDe": "Leinenpflicht; Reinigungspflicht",
+          "bestTimeToVisitDe": "Früher Morgen, vor Eintreffen der Badegäste"
         },
         {
           "name": "Wildpark Tirol Aurach",
@@ -151,7 +170,11 @@
           "bestTimeToVisitFr": "Nourrissage l'après-midi ; plus calme les matins de semaine",
           "bestTimeToVisitEs": "Alimentación por la tarde; más tranquilo las mañanas laborables",
           "bestTimeToVisitPt": "Alimentação à tarde; mais calmo nas manhãs de dias úteis",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wildpark+Tirol+Aurach+Kitzbuhel"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Wildpark+Tirol+Aurach+Kitzbuhel",
+          "descriptionDe": "Österreichs höchstgelegener Wildpark lässt Sie und Ihren Hund Hirsche, Steinböcke, Luchse und Murmeltiere entlang einer breiten Almrunde beobachten. Hunde sind an kurzer Leine zugelassen, müssen auf dem Weg bleiben und liegen in der Nähe von Muttertieren in der Verantwortung des Besitzers.",
+          "featuresDe": "Alpenwildpark, über 200 Tiere, Panoramarunde",
+          "leashRulesDe": "Kurze Leine Pflicht; auf dem Weg bleiben",
+          "bestTimeToVisitDe": "Fütterungszeit am Nachmittag; ruhiger an Werktagvormittagen"
         },
         {
           "name": "Bichlalm meadows & Sonnberg paths",
@@ -175,9 +198,16 @@
           "bestTimeToVisitFr": "Lumière de fin d'après-midi sur le Wilder Kaiser",
           "bestTimeToVisitEs": "Luz de última hora de la tarde sobre el Wilder Kaiser",
           "bestTimeToVisitPt": "Luz de fim de tarde sobre o Wilder Kaiser",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bichlalm+Kitzbuhel"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Bichlalm+Kitzbuhel",
+          "descriptionDe": "Die sonnige Ostseite der Stadt steigt durch Heuwiesen und Bauernwege zur Bichlalm auf 1.600 m an, ein beliebtes, wenig anstrengendes Wandergebiet mit Hunden. Lokale Hundeurlaubsführer empfehlen die Route zur Bichlalm-Almhütte wegen ihrer Hüttenstopps und Ausblicke.",
+          "featuresDe": "Wiesenwege, Almhütten, Talblicke",
+          "leashRulesDe": "Leine bei weidendem Vieh und im Dorf anlegen",
+          "bestTimeToVisitDe": "Spätnachmittagslicht über dem Wilden Kaiser"
         }
-      ]
+      ],
+      "titleDe": "Spaziergänge & Grünflächen für Hunde in Kitzbühel",
+      "introDe": "Kitzbühel ist eine kleine, von Bergen umgebene Stadt, daher bestehen ihre Grünflächen aus Moorseen, Almwiesen und Wildpark-Wegen statt aus städtischen Parks. In der Stadt, an den Seen und im Wildpark besteht Leinenpflicht.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Kitzbühel with a Dog",
@@ -232,7 +262,10 @@
           "costPt": "Grátis em transportadora; a partir de 2 EUR caso contrário"
         }
       ],
-      "places": []
+      "places": [],
+      "titleDe": "Mit Hund in Kitzbühel unterwegs",
+      "introDe": "Kitzbühel ist bemerkenswert großzügig gegenüber reisenden Hunden: Innerhalb des Verkehrsverbunds Tirol (VVT) fahren Hunde mit Leine und Maulkorb kostenlos in Bussen und Regionalzügen mit, und auch die großen KitzSki-Seilbahnen befördern Hunde kostenlos. Nur bei ÖBB-Fernzügen außerhalb Tirols wird ein Hundefahrpreis fällig.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Dog-Friendly Lakes near Kitzbühel",
@@ -283,7 +316,10 @@
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Gieringer+Weiher+Kitzbuhel"
         }
       ],
-      "places": []
+      "places": [],
+      "titleDe": "Hundefreundliche Seen bei Kitzbühel",
+      "introDe": "Das Baden in Kitzbühel findet in Moor- und Waldseen statt, nicht an Stränden. Hunde sind rund um den Schwarzsee an der Leine willkommen, jedoch nicht im kostenpflichtigen Strandbad, und der ruhigere Gieringer Weiher ist die lokale Wahl für ein richtiges Hundebad.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinarians & Emergency Care in Kitzbühel",
@@ -335,7 +371,10 @@
           "googleMapsUrl": ""
         }
       ],
-      "places": []
+      "places": [],
+      "titleDe": "Tierärzte & Notfallversorgung in Kitzbühel",
+      "introDe": "Die Stadt verfügt über zwei etablierte Tierarztpraxen, und außerhalb deren Öffnungszeiten übernimmt der Kleintiernotdienst Tirol unter +43 676 88 508 82 444. Rufen Sie immer an, bevor Sie irgendwohin fahren.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Local Tips for Dog Owners in Kitzbühel",
@@ -422,6 +461,22 @@
           "q": "Kitzbühel é viável com cão no inverno?",
           "a": "Sim, com planeamento: os caminhos da vila e do vale são limpos e transitáveis, os cães sobem grátis nos teleféricos e os trilhos de inverno à volta do Schwarzsee ficam abertos. Reserve alojamento pet-friendly com muita antecedência para o fim de semana das corridas do Hahnenkamm em janeiro, quando a vila esgota por completo."
         }
+      ],
+      "titleDe": "Lokale Tipps für Hundebesitzer in Kitzbühel",
+      "introDe": "Kitzbühel ist eine Skilegende, die im Sommer zugleich als unkompliziertes Basislager mit Hund dient: Liftfahrten sind für Hunde kostenlos, Wanderwege beginnen direkt vor der Tür, und die Etikette ist einfach: Leine an in der Stadt, an den Seen und in der Nähe von weidendem Vieh.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund mit den Seilbahnen in Kitzbühel fahren?",
+          "a": "Ja, und kostenlos: Sowohl die Hahnenkammbahn als auch die Kitzbüheler Hornbahn befördern Hunde sommers wie winters kostenlos. Halten Sie den Hund in Stationen und Gondeln angeleint; das Personal kann in Einzelfällen einen Maulkorb verlangen."
+        },
+        {
+          "q": "Kann mein Hund im Schwarzsee schwimmen?",
+          "a": "Hunde sind rund um den See und auf dem Rundweg an der Leine willkommen, aber das kostenpflichtige Strandbad ist in der Saison tabu. Für ein richtiges Bad verweisen Einheimische auf den ruhigeren Gieringer Weiher direkt oberhalb des Sees."
+        },
+        {
+          "q": "Ist Kitzbühel im Winter mit Hund gut zu bewältigen?",
+          "a": "Ja, mit Planung: Stadt und Talwege sind geräumt und begehbar, Hunde fahren kostenlos mit den Liften, und die Winterwanderwege rund um den Schwarzsee bleiben geöffnet. Buchen Sie hundefreundliche Zimmer weit im Voraus für das Hahnenkamm-Rennwochenende im Januar, wenn die Stadt komplett ausgebucht ist."
+        }
       ]
     },
     "attractions": {
@@ -444,7 +499,8 @@
           "descriptionPt": "O núcleo amuralhado de 700 anos, com as suas casas de mercadores em tons pastel, boutiques e campanários, é compacto, com trânsito acalmado e muito agradável de percorrer com o cão pela trela. Na época aparecem taças de água à porta de muitas lojas e cafés.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vorderstadt+Kitzbuhel"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Vorderstadt+Kitzbuhel",
+          "descriptionDe": "Der 700 Jahre alte, ummauerte Kern mit seinen pastellfarbenen Bürgerhäusern, Boutiquen und Kirchtürmen ist kompakt, größtenteils verkehrsberuhigt und mit einem angeleinten Hund sehr gut zu erkunden. Vor vielen Geschäften und Cafés stehen in der Saison Wassernäpfe bereit."
         },
         {
           "name": "Hahnenkamm & Streif summer trail",
@@ -456,7 +512,8 @@
           "descriptionPt": "Suba no Hahnenkammbahn, grátis para os cães, até aos trilhos panorâmicos a 1.700 m e à cabana de partida da descida mais temida do mundo. No verão e no outono pode descer-se a Streif a pé com o cão pela trela e perceber como a Mausefalle é mesmo íngreme.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hahnenkammbahn+Kitzbuhel"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Hahnenkammbahn+Kitzbuhel",
+          "descriptionDe": "Fahren Sie mit der Hahnenkammbahn, Hunde fahren kostenlos mit, zu den Panoramawegen auf 1.700 m und der Starthütte der gefürchtetsten Abfahrt der Welt. Im Sommer und Herbst können Sie die Streif-Strecke mit einem angeleinten Hund bergab gehen und selbst erfassen, wie steil die Mausefalle wirklich ist."
         },
         {
           "name": "Kitzbüheler Horn",
@@ -468,9 +525,13 @@
           "descriptionPt": "O cume piramidal em frente ao Hahnenkamm, servido pelo Hornbahn, onde os cães também viajam grátis. Do Alpenhaus percorrem-se trilhos floridos com vistas de 360 graus para o Wilder Kaiser e os Hohe Tauern; a zona do jardim alpino é uma alternativa mais suave do que atacar o cume.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kitzbuheler+Hornbahn+Kitzbuhel"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Kitzbuheler+Hornbahn+Kitzbuhel",
+          "descriptionDe": "Der Pyramidengipfel gegenüber dem Hahnenkamm, erschlossen durch die Hornbahn, in der Hunde ebenfalls kostenlos mitfahren. Vom Alpenhaus aus wandern Sie auf blumengesäumten Wegen mit 360-Grad-Blick über den Wilden Kaiser und die Hohen Tauern; der alpine Blumengarten ist eine sanftere Alternative zum Gipfelsturm."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Kitzbühel",
+      "introDe": "Die Legende von Kitzbühel erlebt man am besten draußen, was für Hunde perfekt passt: eine ummauerte mittelalterliche Altstadt in Pastelltönen, der Hahnenkamm mit seiner berüchtigten Streif-Strecke und kostenlose Gondeln, um Sie beide hinaufzubringen.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Daycare in Kitzbühel",
@@ -522,7 +583,10 @@
           "priceRangePt": "A partir de cerca de 10 EUR por visita",
           "bookingRequired": true
         }
-      ]
+      ],
+      "titleDe": "Hundesitting & Hundetagesstätte in Kitzbühel",
+      "introDe": "Für Golfrunden, Renntage oder Feinschmecker-Dinner, bei denen Hunde nicht mitkommen können, verfügt Kitzbühel über eine für eine Stadt mit 8.500 Einwohnern ungewöhnlich reichhaltige Hundebetreuungsszene, von familiären Tagesstätten bis hin zu exklusivem Einzelsitting.",
+      "faqsDe": []
     }
   }
 }

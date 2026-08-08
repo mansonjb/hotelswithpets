@@ -39,7 +39,11 @@
           "tipFr": "Le testi kebab nécessite un temps de cuisson minimum de 2-3 heures ; commandez en arrivant et explorez le village avec votre chien pendant la cuisson",
           "tipEs": "El testi kebab requiere un tiempo mínimo de cocción de 2-3 horas; pídelo cuando llegues y explora el pueblo con tu perro mientras se cocina",
           "tipPt": "O testi kebab requer um tempo mínimo de cozimento de 2-3 horas; encomende quando chegar e explore a aldeia com o seu cão enquanto cozinha",
-          "googleMapsUrl": "https://maps.google.com/?q=Pumpkin+Goreme+Restaurant+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Pumpkin+Goreme+Restaurant+Turkey",
+          "descriptionDe": "Ein angesehenes Höhlenrestaurant im Dorfzentrum, bekannt für kappadokische Küche: Testi-Kebab (Lamm im Tontopf), Mantı (türkische Teigtaschen) und lokale kappadokische Weine. Der Innenhof mit Blick auf die Feenkamine ist die ideale Terrasse zum Hüten des Hundes. Das Personal ist an europäische Gäste mit Hund gewöhnt.",
+          "petPolicyDe": "Hunde im Innenhof willkommen",
+          "mustTryDe": "Testi-Kebab (am Tisch aufgebrochen), Mantı mit Joghurt und Butter, lokaler kappadokischer Rotwein",
+          "tipDe": "Der Testi-Kebab braucht mindestens 2-3 Stunden Garzeit; bei der Ankunft bestellen und in der Zwischenzeit mit dem Hund das Dorf erkunden"
         },
         {
           "name": "Dibek Restaurant",
@@ -65,28 +69,84 @@
           "tipFr": "Réservez pour le dîner au coucher du soleil ; les cheminées de fées brillent rose et orange au crépuscule et la terrasse devient magique pour les chiens et les propriétaires",
           "tipEs": "Reserva para la cena al atardecer; las chimeneas de hadas brillan en rosa y naranja al crepúsculo y la terraza se vuelve mágica para perros y dueños por igual",
           "tipPt": "Reserve para o jantar ao pôr do sol; as chaminés de fada brilham em rosa e laranja ao crepúsculo e a esplanada torna-se mágica para cães e donos",
-          "googleMapsUrl": "https://maps.google.com/?q=Dibek+Restaurant+Goreme+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Dibek+Restaurant+Goreme+Turkey",
+          "descriptionDe": "Eines der ältesten Restaurants in Göreme, untergebracht in einem 475 Jahre alten Steinhaus mit mehreren Terrassen und einem Höhlenraum. Serviert traditionelle kappadokische Tarhana-Suppe, Kebab aus dem Tontopf und lokale Weine. Hunde sitzen auf der schattigen äußeren Terrasse mit Blick auf die Feenkamine. Eines der stimmungsvollsten hundefreundlichen Essen der Türkei.",
+          "petPolicyDe": "Hunde auf der schattigen äußeren Terrasse willkommen",
+          "mustTryDe": "Tarhana-Suppe, Kebab aus dem Tontopf, kappadokischer Weißwein",
+          "tipDe": "Zum Abendessen bei Sonnenuntergang reservieren; die Feenkamine leuchten in der Dämmerung rosa und orange, und die Terrasse wird für Hunde und Halter gleichermaßen magisch"
         }
       ],
-      "tipsEn": ["Göreme is at 1,000 m altitude; temperatures are cooler than the Turkish coast by 5-8°C which makes summer visits with dogs much more comfortable.", "The village is small (15-min walk end to end); walk your dog between the restaurant, the valley viewpoints, and your cave hotel without needing a car.", "Local Cappadocian wines (Kavaklıdere, Turasan, Kocabağ vineyards) are produced nearby; the wineries all have dog-welcoming outdoor areas for visits."],
-      "tipsFr": ["Göreme est à 1 000 m d'altitude ; les températures sont plus fraîches que la côte turque de 5-8°C, ce qui rend les visites estivales avec des chiens bien plus confortables.", "Le village est petit (15 min à pied d'un bout à l'autre) ; promenez votre chien entre le restaurant, les points de vue sur les vallées et votre hôtel grotte sans avoir besoin d'une voiture.", "Les vins locaux de Cappadoce (vignobles Kavaklıdere, Turasan, Kocabağ) sont produits à proximité ; les caves acceptent toutes les chiens dans leurs espaces extérieurs pour les visites."],
-      "tipsEs": ["Göreme está a 1.000 m de altitud; las temperaturas son más frescas que la costa turca en 5-8°C, lo que hace que las visitas de verano con perros sean mucho más cómodas.", "El pueblo es pequeño (15 minutos a pie de extremo a extremo); pasea a tu perro entre el restaurante, los miradores del valle y tu hotel cueva sin necesitar coche.", "Los vinos locales de Capadocia (bodegas Kavaklıdere, Turasan, Kocabağ) se producen cerca; todas las bodegas tienen áreas exteriores que admiten perros para las visitas."],
-      "tipsPt": ["Göreme fica a 1.000 m de altitude; as temperaturas são mais frescas do que a costa turca em 5-8°C, o que torna as visitas de verão com cães muito mais confortáveis.", "A aldeia é pequena (15 min a pé de ponta a ponta); passeie o seu cão entre o restaurante, os miradouros do vale e o seu hotel-gruta sem precisar de carro.", "Os vinhos locais da Capadócia (vinhedos Kavaklıdere, Turasan, Kocabağ) são produzidos nas proximidades; todas as adegas têm áreas exteriores que aceitam cães para visitas."],
+      "tipsEn": [
+        "Göreme is at 1,000 m altitude; temperatures are cooler than the Turkish coast by 5-8°C which makes summer visits with dogs much more comfortable.",
+        "The village is small (15-min walk end to end); walk your dog between the restaurant, the valley viewpoints, and your cave hotel without needing a car.",
+        "Local Cappadocian wines (Kavaklıdere, Turasan, Kocabağ vineyards) are produced nearby; the wineries all have dog-welcoming outdoor areas for visits."
+      ],
+      "tipsFr": [
+        "Göreme est à 1 000 m d'altitude ; les températures sont plus fraîches que la côte turque de 5-8°C, ce qui rend les visites estivales avec des chiens bien plus confortables.",
+        "Le village est petit (15 min à pied d'un bout à l'autre) ; promenez votre chien entre le restaurant, les points de vue sur les vallées et votre hôtel grotte sans avoir besoin d'une voiture.",
+        "Les vins locaux de Cappadoce (vignobles Kavaklıdere, Turasan, Kocabağ) sont produits à proximité ; les caves acceptent toutes les chiens dans leurs espaces extérieurs pour les visites."
+      ],
+      "tipsEs": [
+        "Göreme está a 1.000 m de altitud; las temperaturas son más frescas que la costa turca en 5-8°C, lo que hace que las visitas de verano con perros sean mucho más cómodas.",
+        "El pueblo es pequeño (15 minutos a pie de extremo a extremo); pasea a tu perro entre el restaurante, los miradores del valle y tu hotel cueva sin necesitar coche.",
+        "Los vinos locales de Capadocia (bodegas Kavaklıdere, Turasan, Kocabağ) se producen cerca; todas las bodegas tienen áreas exteriores que admiten perros para las visitas."
+      ],
+      "tipsPt": [
+        "Göreme fica a 1.000 m de altitude; as temperaturas são mais frescas do que a costa turca em 5-8°C, o que torna as visitas de verão com cães muito mais confortáveis.",
+        "A aldeia é pequena (15 min a pé de ponta a ponta); passeie o seu cão entre o restaurante, os miradouros do vale e o seu hotel-gruta sem precisar de carro.",
+        "Os vinhos locais da Capadócia (vinhedos Kavaklıdere, Turasan, Kocabağ) são produzidos nas proximidades; todas as adegas têm áreas exteriores que aceitam cães para visitas."
+      ],
       "faqsEn": [
-        { "q": "Are cave restaurant interiors accessible with dogs in Göreme?", "a": "The cave interiors are generally off-limits for dogs; they are narrow, poorly ventilated, and the owners prefer to keep them clean for other diners. The outdoor courtyard terraces are the dog-friendly sections in all cave restaurants." },
-        { "q": "Is Turkish food safe to share with my dog?", "a": "Plain grilled lamb, chicken, and rice are safe in small amounts. Avoid garlic, onions, and highly spiced dishes. Never share baklava or other pastry desserts (high fat and sugar)." }
+        {
+          "q": "Are cave restaurant interiors accessible with dogs in Göreme?",
+          "a": "The cave interiors are generally off-limits for dogs; they are narrow, poorly ventilated, and the owners prefer to keep them clean for other diners. The outdoor courtyard terraces are the dog-friendly sections in all cave restaurants."
+        },
+        {
+          "q": "Is Turkish food safe to share with my dog?",
+          "a": "Plain grilled lamb, chicken, and rice are safe in small amounts. Avoid garlic, onions, and highly spiced dishes. Never share baklava or other pastry desserts (high fat and sugar)."
+        }
       ],
       "faqsFr": [
-        { "q": "Les intérieurs des restaurants de grotte sont-ils accessibles avec des chiens à Göreme ?", "a": "Les intérieurs des grottes sont généralement interdits aux chiens ; ils sont étroits, mal ventilés et les propriétaires préfèrent les garder propres pour les autres convives. Les terrasses de cour extérieures sont les sections dog-friendly de tous les restaurants grotte." },
-        { "q": "La nourriture turque est-elle sans danger à partager avec mon chien ?", "a": "L'agneau, le poulet et le riz grillés simples sont sans danger en petites quantités. Évitez l'ail, les oignons et les plats très épicés. Ne partagez jamais du baklava ou d'autres desserts en pâtisserie (riches en graisses et en sucre)." }
+        {
+          "q": "Les intérieurs des restaurants de grotte sont-ils accessibles avec des chiens à Göreme ?",
+          "a": "Les intérieurs des grottes sont généralement interdits aux chiens ; ils sont étroits, mal ventilés et les propriétaires préfèrent les garder propres pour les autres convives. Les terrasses de cour extérieures sont les sections dog-friendly de tous les restaurants grotte."
+        },
+        {
+          "q": "La nourriture turque est-elle sans danger à partager avec mon chien ?",
+          "a": "L'agneau, le poulet et le riz grillés simples sont sans danger en petites quantités. Évitez l'ail, les oignons et les plats très épicés. Ne partagez jamais du baklava ou d'autres desserts en pâtisserie (riches en graisses et en sucre)."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Son accesibles los interiores de los restaurantes cueva con perros en Göreme?", "a": "Los interiores de las cuevas generalmente no están permitidos para los perros; son estrechos, mal ventilados y los dueños prefieren mantenerlos limpios para otros comensales. Las terrazas de patio exterior son las secciones dog-friendly en todos los restaurantes cueva." },
-        { "q": "¿Es seguro compartir comida turca con mi perro?", "a": "El cordero, el pollo y el arroz a la parrilla simples son seguros en pequeñas cantidades. Evita el ajo, las cebollas y los platos muy especiados. Nunca compartas baklava u otros postres de pastelería (alto contenido en grasa y azúcar)." }
+        {
+          "q": "¿Son accesibles los interiores de los restaurantes cueva con perros en Göreme?",
+          "a": "Los interiores de las cuevas generalmente no están permitidos para los perros; son estrechos, mal ventilados y los dueños prefieren mantenerlos limpios para otros comensales. Las terrazas de patio exterior son las secciones dog-friendly en todos los restaurantes cueva."
+        },
+        {
+          "q": "¿Es seguro compartir comida turca con mi perro?",
+          "a": "El cordero, el pollo y el arroz a la parrilla simples son seguros en pequeñas cantidades. Evita el ajo, las cebollas y los platos muy especiados. Nunca compartas baklava u otros postres de pastelería (alto contenido en grasa y azúcar)."
+        }
       ],
       "faqsPt": [
-        { "q": "Os interiores dos restaurantes de gruta são acessíveis com cães em Göreme?", "a": "Os interiores das grutas são geralmente interditos aos cães; são estreitos, mal ventilados e os proprietários preferem mantê-los limpos para os outros comensais. As esplanadas de pátio exterior são as secções dog-friendly em todos os restaurantes de gruta." },
-        { "q": "A comida turca é segura para partilhar com o meu cão?", "a": "Borrego, frango e arroz grelhados simples são seguros em pequenas quantidades. Evite alho, cebolas e pratos muito temperados. Nunca partilhe baklava ou outros sobremesas de pastelaria (alto teor de gordura e açúcar)." }
+        {
+          "q": "Os interiores dos restaurantes de gruta são acessíveis com cães em Göreme?",
+          "a": "Os interiores das grutas são geralmente interditos aos cães; são estreitos, mal ventilados e os proprietários preferem mantê-los limpos para os outros comensais. As esplanadas de pátio exterior são as secções dog-friendly em todos os restaurantes de gruta."
+        },
+        {
+          "q": "A comida turca é segura para partilhar com o meu cão?",
+          "a": "Borrego, frango e arroz grelhados simples são seguros em pequenas quantidades. Evite alho, cebolas e pratos muito temperados. Nunca partilhe baklava ou outros sobremesas de pastelaria (alto teor de gordura e açúcar)."
+        }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Göreme",
+      "introDe": "Göreme ist ein kleines kappadokisches Dorf, in dem die meisten Restaurants bauartbedingt stark auf Terrassen setzen, angelegt rund um die außergewöhnliche Feenkaminlandschaft. Hunde werden an Außentischen im ganzen Dorf toleriert. Die touristisch geprägte Gastroszene ist gegenüber europäischen Besuchern mit Hund im Allgemeinen aufgeschlossen; lokale Höhlenrestaurants mit Innenhof-Sitzplätzen sind am haustierfreundlichsten.",
+      "faqsDe": [
+        {
+          "q": "Sind die Innenräume der Höhlenrestaurants in Göreme mit Hund zugänglich?",
+          "a": "Die Höhleninnenräume sind für Hunde in der Regel tabu; sie sind eng, schlecht belüftet, und die Betreiber möchten sie für andere Gäste sauber halten. Die Außenterrassen der Innenhöfe sind in allen Höhlenrestaurants der haustierfreundliche Bereich."
+        },
+        {
+          "q": "Ist türkisches Essen sicher, um es mit dem Hund zu teilen?",
+          "a": "Einfaches gegrilltes Lamm, Hähnchen und Reis sind in kleinen Mengen sicher. Knoblauch, Zwiebeln und stark gewürzte Gerichte meiden. Baklava oder andere Gebäckdesserts niemals teilen (viel Fett und Zucker)."
+        }
       ]
     },
     "parks": {
@@ -118,7 +178,10 @@
           "tipFr": "Commencez à Göreme au lever du soleil et marchez jusqu'à Çavuşin (3 heures) ; taxi pour revenir à Göreme. La roche rose brille de façon extraordinaire aux premières lueurs et la vallée est vide d'autres randonneurs",
           "tipEs": "Comienza en Göreme al amanecer y camina hasta Çavuşin (3 horas); taxi de vuelta a Göreme. La roca rosa brilla de forma extraordinaria con las primeras luces y el valle está vacío de otros senderistas",
           "tipPt": "Comece em Göreme ao nascer do sol e caminhe até Çavuşin (3 horas); táxi de volta a Göreme. A rocha rosa brilha de forma extraordinária à primeira luz e o vale está vazio de outros caminhantes",
-          "googleMapsUrl": "https://maps.google.com/?q=Rose+Valley+Goreme+Cappadocia+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Rose+Valley+Goreme+Cappadocia+Turkey",
+          "descriptionDe": "Das schönste der kappadokischen Täler: 8 km rosa und rote Tuffformationen, die bei Sonnenauf- und -untergang in außergewöhnlichen Farben leuchten. Ein gut markierter Weg verbindet Göreme mit Çavuşin durch in den Fels gehauene Kirchen, Weinpressen und in die Felswände gemeißelte Taubenhäuser. Hunde wandern völlig frei ohne Einschränkungen.",
+          "petPolicyDe": "Hunde überall frei, keine Leinenpflicht",
+          "tipDe": "Bei Sonnenaufgang am Ende von Göreme starten und nach Çavuşin laufen (3 Stunden); mit dem Taxi zurück nach Göreme. Das rosa Gestein leuchtet im ersten Licht außergewöhnlich, und das Tal ist frei von anderen Wanderern"
         },
         {
           "name": "Pigeon Valley (Güvercinlik Vadisi)",
@@ -139,28 +202,83 @@
           "tipFr": "Le chemin est étroit par endroits ; utilisez une laisse courte là où le bord du sentier descend en pente raide. L'extrémité d'Uçhisar dispose d'un petit café avec des tables en extérieur où les chiens s'assoient pendant que vous profitez de la vue",
           "tipEs": "El camino es estrecho en algunos lugares; usa una correa corta donde el borde del sendero cae abruptamente. El extremo de Uçhisar tiene un pequeño café con mesas exteriores donde los perros se sientan mientras disfrutas de la vista",
           "tipPt": "O caminho é estreito em alguns sítios; use uma trela curta onde a borda do trilho desce abruptamente. O extremo de Uçhisar tem um pequeno café com mesas exteriores onde os cães se sentam enquanto aprecia a vista",
-          "googleMapsUrl": "https://maps.google.com/?q=Pigeon+Valley+Goreme+Cappadocia+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Pigeon+Valley+Goreme+Cappadocia+Turkey",
+          "descriptionDe": "Ein 5 km langer Talwanderweg, der Göreme mit der Bergfestung von Uçhisar durch Tausende in den Tuff gehauene Taubenhaus-Nischen verbindet. Moderate Wanderung, spektakuläre Ausblicke, Hunde überall frei. Endet an der Burg von Uçhisar mit einem Panorama über ganz Kappadokien.",
+          "petPolicyDe": "Hunde überall frei",
+          "tipDe": "Der Weg ist stellenweise schmal; an Stellen mit steilem Abgrund eine kurze Leine verwenden. Am Ende bei Uçhisar gibt es ein kleines Café mit Außentischen, an dem der Hund sitzen kann, während man die Aussicht genießt"
         }
       ],
-      "tipsEn": ["The Love Valley (Göreme north) has the famous phallic fairy chimneys; it is a 3 km loop from the village edge with dogs completely free. Best at sunrise when hot air balloons launch above.", "Devrent Valley (Imagination Valley, 10 km east) has no marked trails; dogs and owners pick their own route through the moonscape terrain.", "Carry 2 litres of water per person and 1 litre per dog; the valleys have no facilities and the volcanic terrain is porous and very dry."],
-      "tipsFr": ["La Vallée de l'Amour (nord de Göreme) possède les célèbres cheminées de fées phalliques ; c'est une boucle de 3 km depuis le bord du village avec des chiens complètement libres. Meilleur au lever du soleil quand les montgolfières décollent au-dessus.", "La Vallée de Devrent (Vallée de l'Imagination, 10 km à l'est) n'a pas de sentiers balisés ; les chiens et leurs propriétaires choisissent leur propre itinéraire à travers le terrain lunaire.", "Emportez 2 litres d'eau par personne et 1 litre par chien ; les vallées n'ont pas d'équipements et le terrain volcanique est poreux et très sec."],
-      "tipsEs": ["El Valle del Amor (norte de Göreme) tiene las famosas chimeneas de hadas fálicas; es un bucle de 3 km desde el borde del pueblo con los perros completamente libres. Mejor al amanecer cuando los globos aerostáticos despegan arriba.", "El Valle de Devrent (Valle de la Imaginación, 10 km al este) no tiene senderos marcados; perros y dueños eligen su propia ruta a través del terreno de paisaje lunar.", "Lleva 2 litros de agua por persona y 1 litro por perro; los valles no tienen instalaciones y el terreno volcánico es poroso y muy seco."],
-      "tipsPt": ["O Vale do Amor (norte de Göreme) tem as famosas chaminés de fada fálicas; é um loop de 3 km desde a borda da aldeia com os cães completamente livres. Melhor ao nascer do sol quando os balões de ar quente lançam acima.", "O Vale de Devrent (Vale da Imaginação, 10 km a leste) não tem trilhos marcados; cães e donos escolhem a sua própria rota através do terreno de paisagem lunar.", "Leve 2 litros de água por pessoa e 1 litro por cão; os vales não têm instalações e o terreno vulcânico é poroso e muito seco."],
+      "tipsEn": [
+        "The Love Valley (Göreme north) has the famous phallic fairy chimneys; it is a 3 km loop from the village edge with dogs completely free. Best at sunrise when hot air balloons launch above.",
+        "Devrent Valley (Imagination Valley, 10 km east) has no marked trails; dogs and owners pick their own route through the moonscape terrain.",
+        "Carry 2 litres of water per person and 1 litre per dog; the valleys have no facilities and the volcanic terrain is porous and very dry."
+      ],
+      "tipsFr": [
+        "La Vallée de l'Amour (nord de Göreme) possède les célèbres cheminées de fées phalliques ; c'est une boucle de 3 km depuis le bord du village avec des chiens complètement libres. Meilleur au lever du soleil quand les montgolfières décollent au-dessus.",
+        "La Vallée de Devrent (Vallée de l'Imagination, 10 km à l'est) n'a pas de sentiers balisés ; les chiens et leurs propriétaires choisissent leur propre itinéraire à travers le terrain lunaire.",
+        "Emportez 2 litres d'eau par personne et 1 litre par chien ; les vallées n'ont pas d'équipements et le terrain volcanique est poreux et très sec."
+      ],
+      "tipsEs": [
+        "El Valle del Amor (norte de Göreme) tiene las famosas chimeneas de hadas fálicas; es un bucle de 3 km desde el borde del pueblo con los perros completamente libres. Mejor al amanecer cuando los globos aerostáticos despegan arriba.",
+        "El Valle de Devrent (Valle de la Imaginación, 10 km al este) no tiene senderos marcados; perros y dueños eligen su propia ruta a través del terreno de paisaje lunar.",
+        "Lleva 2 litros de agua por persona y 1 litro por perro; los valles no tienen instalaciones y el terreno volcánico es poroso y muy seco."
+      ],
+      "tipsPt": [
+        "O Vale do Amor (norte de Göreme) tem as famosas chaminés de fada fálicas; é um loop de 3 km desde a borda da aldeia com os cães completamente livres. Melhor ao nascer do sol quando os balões de ar quente lançam acima.",
+        "O Vale de Devrent (Vale da Imaginação, 10 km a leste) não tem trilhos marcados; cães e donos escolhem a sua própria rota através do terreno de paisagem lunar.",
+        "Leve 2 litros de água por pessoa e 1 litro por cão; os vales não têm instalações e o terreno vulcânico é poroso e muito seco."
+      ],
       "faqsEn": [
-        { "q": "Can my dog join me on a hot air balloon flight over Cappadocia?", "a": "No balloon operator in Cappadocia accepts dogs. The basket is cramped, the burner is very loud and stressful for dogs, and insurance does not cover animals. This is one activity where your dog must stay at the hotel." },
-        { "q": "Are there any valley trails that require a ticket in Cappadocia?", "a": "The Göreme Open Air Museum (UNESCO church complex) requires a ticket and does not permit dogs inside. All the hiking valleys (Rose, Pigeon, Love, Red, Sword, White) are free and open to dogs." }
+        {
+          "q": "Can my dog join me on a hot air balloon flight over Cappadocia?",
+          "a": "No balloon operator in Cappadocia accepts dogs. The basket is cramped, the burner is very loud and stressful for dogs, and insurance does not cover animals. This is one activity where your dog must stay at the hotel."
+        },
+        {
+          "q": "Are there any valley trails that require a ticket in Cappadocia?",
+          "a": "The Göreme Open Air Museum (UNESCO church complex) requires a ticket and does not permit dogs inside. All the hiking valleys (Rose, Pigeon, Love, Red, Sword, White) are free and open to dogs."
+        }
       ],
       "faqsFr": [
-        { "q": "Mon chien peut-il m'accompagner en vol en montgolfière au-dessus de la Cappadoce ?", "a": "Aucun opérateur de montgolfière en Cappadoce n'accepte les chiens. La nacelle est exiguë, le brûleur est très fort et stressant pour les chiens, et l'assurance ne couvre pas les animaux. C'est une activité où votre chien doit rester à l'hôtel." },
-        { "q": "Y a-t-il des sentiers de vallée qui nécessitent un billet en Cappadoce ?", "a": "Le musée en plein air de Göreme (complexe d'églises UNESCO) nécessite un billet et n'autorise pas les chiens à l'intérieur. Toutes les vallées de randonnée (Rose, des Pigeons, de l'Amour, Rouge, des Épées, Blanche) sont gratuites et ouvertes aux chiens." }
+        {
+          "q": "Mon chien peut-il m'accompagner en vol en montgolfière au-dessus de la Cappadoce ?",
+          "a": "Aucun opérateur de montgolfière en Cappadoce n'accepte les chiens. La nacelle est exiguë, le brûleur est très fort et stressant pour les chiens, et l'assurance ne couvre pas les animaux. C'est une activité où votre chien doit rester à l'hôtel."
+        },
+        {
+          "q": "Y a-t-il des sentiers de vallée qui nécessitent un billet en Cappadoce ?",
+          "a": "Le musée en plein air de Göreme (complexe d'églises UNESCO) nécessite un billet et n'autorise pas les chiens à l'intérieur. Toutes les vallées de randonnée (Rose, des Pigeons, de l'Amour, Rouge, des Épées, Blanche) sont gratuites et ouvertes aux chiens."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Puede mi perro venir conmigo en un vuelo en globo aerostático sobre Capadocia?", "a": "Ningún operador de globo en Capadocia acepta perros. La cesta es pequeña, el quemador es muy ruidoso y estresante para los perros, y el seguro no cubre animales. Esta es una actividad en la que tu perro debe quedarse en el hotel." },
-        { "q": "¿Hay senderos de valle que requieran una entrada en Capadocia?", "a": "El Museo al Aire Libre de Göreme (complejo de iglesias UNESCO) requiere una entrada y no permite perros dentro. Todos los valles de senderismo (Rosa, de las Palomas, del Amor, Rojo, de las Espadas, Blanco) son gratuitos y abiertos a los perros." }
+        {
+          "q": "¿Puede mi perro venir conmigo en un vuelo en globo aerostático sobre Capadocia?",
+          "a": "Ningún operador de globo en Capadocia acepta perros. La cesta es pequeña, el quemador es muy ruidoso y estresante para los perros, y el seguro no cubre animales. Esta es una actividad en la que tu perro debe quedarse en el hotel."
+        },
+        {
+          "q": "¿Hay senderos de valle que requieran una entrada en Capadocia?",
+          "a": "El Museo al Aire Libre de Göreme (complejo de iglesias UNESCO) requiere una entrada y no permite perros dentro. Todos los valles de senderismo (Rosa, de las Palomas, del Amor, Rojo, de las Espadas, Blanco) son gratuitos y abiertos a los perros."
+        }
       ],
       "faqsPt": [
-        { "q": "O meu cão pode juntar-se a mim num voo de balão de ar quente sobre a Capadócia?", "a": "Nenhum operador de balão na Capadócia aceita cães. A cesta é apertada, o queimador é muito alto e stressante para os cães, e o seguro não cobre animais. Esta é uma atividade onde o seu cão deve ficar no hotel." },
-        { "q": "Há trilhos de vale que requerem bilhete na Capadócia?", "a": "O Museu ao Ar Livre de Göreme (complexo de igrejas UNESCO) requer bilhete e não permite cães no interior. Todos os vales de caminhada (Rosa, dos Pombos, do Amor, Vermelho, das Espadas, Branco) são gratuitos e abertos aos cães." }
+        {
+          "q": "O meu cão pode juntar-se a mim num voo de balão de ar quente sobre a Capadócia?",
+          "a": "Nenhum operador de balão na Capadócia aceita cães. A cesta é apertada, o queimador é muito alto e stressante para os cães, e o seguro não cobre animais. Esta é uma atividade onde o seu cão deve ficar no hotel."
+        },
+        {
+          "q": "Há trilhos de vale que requerem bilhete na Capadócia?",
+          "a": "O Museu ao Ar Livre de Göreme (complexo de igrejas UNESCO) requer bilhete e não permite cães no interior. Todos os vales de caminhada (Rosa, dos Pombos, do Amor, Vermelho, das Espadas, Branco) são gratuitos e abertos aos cães."
+        }
+      ],
+      "titleDe": "Mit dem Hund durch die Feenkamin-Täler wandern",
+      "introDe": "Göreme ist von außergewöhnlichen vulkanischen Tuff-Tälern umgeben, die durch Erosion Feenkamine, unterirdische Städte und in den Fels gehauene Kirchen geformt haben. Hunde wandern frei durch alle Täler rund um Göreme; es gibt keine Leinenpflicht und keine Eintrittsgebühren auf den offenen Talwanderwegen. Das Rosental, das Liebestal und das Taubental sind die drei besten Wanderrouten mit Hund.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund bei einer Heißluftballonfahrt über Kappadokien mitfliegen?",
+          "a": "Kein Ballonanbieter in Kappadokien nimmt Hunde mit. Der Korb ist eng, der Brenner sehr laut und für Hunde stressig, und die Versicherung deckt keine Tiere ab. Dies ist eine Aktivität, bei der der Hund im Hotel bleiben muss."
+        },
+        {
+          "q": "Gibt es Talwanderwege in Kappadokien, für die ein Ticket nötig ist?",
+          "a": "Das Freilichtmuseum Göreme (UNESCO-Kirchenkomplex) verlangt ein Ticket und erlaubt keine Hunde im Inneren. Alle Wandertäler (Rosental, Taubental, Liebestal, Rotes Tal, Schwertental, Weißes Tal) sind kostenlos und für Hunde zugänglich."
+        }
       ]
     },
     "transport": {
@@ -173,25 +291,81 @@
       "introEs": "Göreme está servida por dos aeropuertos: Kayseri (ASR, 75 km) y Nevşehir (NAV, 40 km). El alquiler de coches en cualquiera de los aeropuertos es la mejor opción para los dueños de perros. El autobús nocturno cama de Estambul a Göreme acepta perros en transportines bajo el asiento. Los dolmus locales conectan Göreme con Avanos, Uçhisar y Urgup.",
       "introPt": "Göreme é servida por dois aeroportos: Kayseri (ASR, 75 km) e Nevşehir (NAV, 40 km). O aluguer de carro em qualquer aeroporto é a melhor opção para os donos de cães. O autocarro cama noturno de Istambul para Göreme aceita cães em transportadores debaixo do assento. Os dolmus locais ligam Göreme a Avanos, Uçhisar e Urgup.",
       "places": [],
-      "tipsEn": ["Kayseri Airport (ASR) has the most flight options including direct from London, Amsterdam, and Frankfurt; car hire desks available.", "The overnight sleeper bus from Istanbul (Kamil Koç, Metro Turizm) takes 10-11 hours and accepts small dogs in carriers under the seat for a small additional fee.", "A hire car is strongly recommended; the best valley viewpoints and wineries require driving short distances on quiet roads.", "Göreme is best combined with Avanos (pottery town, 10 km, off-leash walking along the Kızılırmak river) and Uçhisar (castle village, 5 km, spectacular dog-walking)."],
-      "tipsFr": ["L'aéroport de Kayseri (ASR) dispose du plus grand nombre d'options de vols, y compris des vols directs depuis Londres, Amsterdam et Francfort ; comptoirs de location de voitures disponibles.", "Le bus de nuit couchette depuis Istanbul (Kamil Koç, Metro Turizm) prend 10-11 heures et accepte les petits chiens dans des transportins sous le siège moyennant un petit supplément.", "La location de voiture est fortement recommandée ; les meilleurs points de vue sur les vallées et les caves nécessitent de courtes distances sur des routes tranquilles.", "Göreme se combine bien avec Avanos (ville de poterie, 10 km, balade sans laisse le long du fleuve Kızılırmak) et Uçhisar (village du château, 5 km, promenade avec chien spectaculaire)."],
-      "tipsEs": ["El aeropuerto de Kayseri (ASR) tiene más opciones de vuelos, incluidos directos desde Londres, Ámsterdam y Fráncfort; hay mostradores de alquiler de coches disponibles.", "El autobús nocturno cama desde Estambul (Kamil Koç, Metro Turizm) tarda 10-11 horas y acepta perros pequeños en transportines bajo el asiento por una pequeña tarifa adicional.", "Se recomienda encarecidamente alquilar un coche; los mejores miradores de los valles y las bodegas requieren recorrer distancias cortas en carreteras tranquilas.", "Göreme se combina bien con Avanos (ciudad de cerámica, 10 km, paseos sin correa junto al río Kızılırmak) y Uçhisar (pueblo del castillo, 5 km, paseos espectaculares con perros)."],
-      "tipsPt": ["O aeroporto de Kayseri (ASR) tem mais opções de voos incluindo diretos de Londres, Amsterdão e Frankfurt; balcões de aluguer de carro disponíveis.", "O autocarro cama noturno de Istambul (Kamil Koç, Metro Turizm) demora 10-11 horas e aceita cães pequenos em transportadores debaixo do assento por uma pequena taxa adicional.", "O aluguer de carro é fortemente recomendado; os melhores miradouros de vale e as adegas requerem curtas distâncias em estradas tranquilas.", "Göreme combina-se bem com Avanos (cidade de cerâmica, 10 km, passeios sem trela ao longo do rio Kızılırmak) e Uçhisar (aldeia do castelo, 5 km, caminhadas espetaculares com cões)."],
+      "tipsEn": [
+        "Kayseri Airport (ASR) has the most flight options including direct from London, Amsterdam, and Frankfurt; car hire desks available.",
+        "The overnight sleeper bus from Istanbul (Kamil Koç, Metro Turizm) takes 10-11 hours and accepts small dogs in carriers under the seat for a small additional fee.",
+        "A hire car is strongly recommended; the best valley viewpoints and wineries require driving short distances on quiet roads.",
+        "Göreme is best combined with Avanos (pottery town, 10 km, off-leash walking along the Kızılırmak river) and Uçhisar (castle village, 5 km, spectacular dog-walking)."
+      ],
+      "tipsFr": [
+        "L'aéroport de Kayseri (ASR) dispose du plus grand nombre d'options de vols, y compris des vols directs depuis Londres, Amsterdam et Francfort ; comptoirs de location de voitures disponibles.",
+        "Le bus de nuit couchette depuis Istanbul (Kamil Koç, Metro Turizm) prend 10-11 heures et accepte les petits chiens dans des transportins sous le siège moyennant un petit supplément.",
+        "La location de voiture est fortement recommandée ; les meilleurs points de vue sur les vallées et les caves nécessitent de courtes distances sur des routes tranquilles.",
+        "Göreme se combine bien avec Avanos (ville de poterie, 10 km, balade sans laisse le long du fleuve Kızılırmak) et Uçhisar (village du château, 5 km, promenade avec chien spectaculaire)."
+      ],
+      "tipsEs": [
+        "El aeropuerto de Kayseri (ASR) tiene más opciones de vuelos, incluidos directos desde Londres, Ámsterdam y Fráncfort; hay mostradores de alquiler de coches disponibles.",
+        "El autobús nocturno cama desde Estambul (Kamil Koç, Metro Turizm) tarda 10-11 horas y acepta perros pequeños en transportines bajo el asiento por una pequeña tarifa adicional.",
+        "Se recomienda encarecidamente alquilar un coche; los mejores miradores de los valles y las bodegas requieren recorrer distancias cortas en carreteras tranquilas.",
+        "Göreme se combina bien con Avanos (ciudad de cerámica, 10 km, paseos sin correa junto al río Kızılırmak) y Uçhisar (pueblo del castillo, 5 km, paseos espectaculares con perros)."
+      ],
+      "tipsPt": [
+        "O aeroporto de Kayseri (ASR) tem mais opções de voos incluindo diretos de Londres, Amsterdão e Frankfurt; balcões de aluguer de carro disponíveis.",
+        "O autocarro cama noturno de Istambul (Kamil Koç, Metro Turizm) demora 10-11 horas e aceita cães pequenos em transportadores debaixo do assento por uma pequena taxa adicional.",
+        "O aluguer de carro é fortemente recomendado; os melhores miradouros de vale e as adegas requerem curtas distâncias em estradas tranquilas.",
+        "Göreme combina-se bem com Avanos (cidade de cerâmica, 10 km, passeios sem trela ao longo do rio Kızılırmak) e Uçhisar (aldeia do castelo, 5 km, caminhadas espetaculares com cões)."
+      ],
       "faqsEn": [
-        { "q": "Can my dog fly into Kayseri Airport?", "a": "Dogs fly in the cargo hold on Turkish Airlines and other carriers operating the Kayseri route; they do not fly in the cabin on this route. Check your airline's pet policy carefully. Alternatively, drive from Istanbul (8 hours) via the D750 highway, which is a manageable journey for dogs with stops." },
-        { "q": "Is a hire car essential for exploring Cappadocia with a dog?", "a": "Strongly recommended. The best Cappadocian experiences (underground cities, remote valleys, Ihlara Gorge, Soğanlı, Mustafapaşa) are 10-50 km from Göreme. The dolmus network covers the main towns but is not suitable for larger dogs." }
+        {
+          "q": "Can my dog fly into Kayseri Airport?",
+          "a": "Dogs fly in the cargo hold on Turkish Airlines and other carriers operating the Kayseri route; they do not fly in the cabin on this route. Check your airline's pet policy carefully. Alternatively, drive from Istanbul (8 hours) via the D750 highway, which is a manageable journey for dogs with stops."
+        },
+        {
+          "q": "Is a hire car essential for exploring Cappadocia with a dog?",
+          "a": "Strongly recommended. The best Cappadocian experiences (underground cities, remote valleys, Ihlara Gorge, Soğanlı, Mustafapaşa) are 10-50 km from Göreme. The dolmus network covers the main towns but is not suitable for larger dogs."
+        }
       ],
       "faqsFr": [
-        { "q": "Mon chien peut-il voler vers l'aéroport de Kayseri ?", "a": "Les chiens volent en soute sur Turkish Airlines et d'autres compagnies opérant la route de Kayseri ; ils ne volent pas en cabine sur cette route. Vérifiez attentivement la politique animaux de votre compagnie aérienne. Alternativement, conduisez depuis Istanbul (8 heures) via l'autoroute D750, ce qui est un trajet gérable pour les chiens avec des arrêts." },
-        { "q": "Une voiture de location est-elle indispensable pour explorer la Cappadoce avec un chien ?", "a": "Fortement recommandé. Les meilleures expériences cappadociennes (villes souterraines, vallées isolées, gorges d'Ihlara, Soğanlı, Mustafapaşa) sont à 10-50 km de Göreme. Le réseau de dolmus couvre les principales villes mais n'est pas adapté aux grands chiens." }
+        {
+          "q": "Mon chien peut-il voler vers l'aéroport de Kayseri ?",
+          "a": "Les chiens volent en soute sur Turkish Airlines et d'autres compagnies opérant la route de Kayseri ; ils ne volent pas en cabine sur cette route. Vérifiez attentivement la politique animaux de votre compagnie aérienne. Alternativement, conduisez depuis Istanbul (8 heures) via l'autoroute D750, ce qui est un trajet gérable pour les chiens avec des arrêts."
+        },
+        {
+          "q": "Une voiture de location est-elle indispensable pour explorer la Cappadoce avec un chien ?",
+          "a": "Fortement recommandé. Les meilleures expériences cappadociennes (villes souterraines, vallées isolées, gorges d'Ihlara, Soğanlı, Mustafapaşa) sont à 10-50 km de Göreme. Le réseau de dolmus couvre les principales villes mais n'est pas adapté aux grands chiens."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Puede mi perro volar al aeropuerto de Kayseri?", "a": "Los perros vuelan en bodega en Turkish Airlines y otras compañías que operan la ruta de Kayseri; no vuelan en cabina en esta ruta. Comprueba cuidadosamente la política de mascotas de tu aerolínea. Alternativamente, conduce desde Estambul (8 horas) por la carretera D750, que es un trayecto manejable para los perros con paradas." },
-        { "q": "¿Es indispensable un coche de alquiler para explorar Capadocia con un perro?", "a": "Altamente recomendado. Las mejores experiencias capadocias (ciudades subterráneas, valles remotos, Barranco de Ihlara, Soğanlı, Mustafapaşa) están a 10-50 km de Göreme. La red de dolmus cubre las principales ciudades pero no es adecuada para perros grandes." }
+        {
+          "q": "¿Puede mi perro volar al aeropuerto de Kayseri?",
+          "a": "Los perros vuelan en bodega en Turkish Airlines y otras compañías que operan la ruta de Kayseri; no vuelan en cabina en esta ruta. Comprueba cuidadosamente la política de mascotas de tu aerolínea. Alternativamente, conduce desde Estambul (8 horas) por la carretera D750, que es un trayecto manejable para los perros con paradas."
+        },
+        {
+          "q": "¿Es indispensable un coche de alquiler para explorar Capadocia con un perro?",
+          "a": "Altamente recomendado. Las mejores experiencias capadocias (ciudades subterráneas, valles remotos, Barranco de Ihlara, Soğanlı, Mustafapaşa) están a 10-50 km de Göreme. La red de dolmus cubre las principales ciudades pero no es adecuada para perros grandes."
+        }
       ],
       "faqsPt": [
-        { "q": "O meu cão pode voar para o aeroporto de Kayseri?", "a": "Os cães voam no porão na Turkish Airlines e outras transportadoras que operam a rota de Kayseri; não voam na cabine nesta rota. Verifique cuidadosamente a política de animais da sua companhia aérea. Alternativamente, conduza de Istambul (8 horas) pela autoestrada D750, que é uma viagem gerível para cães com paragens." },
-        { "q": "Um carro alugado é essencial para explorar a Capadócia com um cão?", "a": "Fortemente recomendado. As melhores experiências capadócias (cidades subterrâneas, vales remotos, Garganta de Ihlara, Soğanlı, Mustafapaşa) ficam a 10-50 km de Göreme. A rede de dolmus cobre as principais cidades mas não é adequada para cães maiores." }
+        {
+          "q": "O meu cão pode voar para o aeroporto de Kayseri?",
+          "a": "Os cães voam no porão na Turkish Airlines e outras transportadoras que operam a rota de Kayseri; não voam na cabine nesta rota. Verifique cuidadosamente a política de animais da sua companhia aérea. Alternativamente, conduza de Istambul (8 horas) pela autoestrada D750, que é uma viagem gerível para cães com paragens."
+        },
+        {
+          "q": "Um carro alugado é essencial para explorar a Capadócia com um cão?",
+          "a": "Fortemente recomendado. As melhores experiências capadócias (cidades subterrâneas, vales remotos, Garganta de Ihlara, Soğanlı, Mustafapaşa) ficam a 10-50 km de Göreme. A rede de dolmus cobre as principais cidades mas não é adequada para cães maiores."
+        }
+      ],
+      "titleDe": "Mit dem Hund nach Göreme anreisen",
+      "introDe": "Göreme wird von zwei Flughäfen bedient: Kayseri (ASR, 75 km) und Nevşehir (NAV, 40 km). Ein Mietwagen an einem der beiden Flughäfen ist für Hundehalter die beste Option. Der Nachtbus von Istanbul nach Göreme erlaubt Hunde in Transportboxen unter dem Sitz. Örtliche Dolmuş verbinden Göreme mit Avanos, Uçhisar und Ürgüp.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund zum Flughafen Kayseri fliegen?",
+          "a": "Hunde fliegen bei Turkish Airlines und anderen Fluggesellschaften, die die Route Kayseri bedienen, im Frachtraum; auf dieser Strecke ist kein Flug in der Kabine möglich. Die Haustierrichtlinien der jeweiligen Fluggesellschaft genau prüfen. Alternativ von Istanbul aus mit dem Auto anreisen (8 Stunden) über die D750, eine mit Pausen gut machbare Fahrt mit Hund."
+        },
+        {
+          "q": "Ist ein Mietwagen für die Erkundung Kappadokiens mit Hund unerlässlich?",
+          "a": "Dringend empfohlen. Die besten kappadokischen Erlebnisse (unterirdische Städte, abgelegene Täler, Ihlara-Schlucht, Soğanlı, Mustafapaşa) liegen 10-50 km von Göreme entfernt. Das Dolmuş-Netz deckt die Hauptorte ab, ist für größere Hunde aber nicht geeignet."
+        }
       ]
     },
     "beaches": {
@@ -204,25 +378,77 @@
       "introEs": "Göreme está a 500 km de la costa; no hay playas de mar. Las opciones de baño más cercanas son el Lago Tuz (Lago de Sal, 100 km al oeste, no apto para perros) y los ríos y lagos de agua dulce en la zona del Barranco de Ihlara (90 km al suroeste). El río Kızılırmak cerca de Avanos (10 km) es el lugar de natación para perros más cercano.",
       "introPt": "Göreme fica a 500 km da costa; não há praias marítimas. As opções de natação mais próximas são o Lago Tuz (Lago Salgado, 100 km a oeste, não adequado para cães) e os rios e lagos de água doce na área da Garganta de Ihlara (90 km a sudoeste). O rio Kızılırmak perto de Avanos (10 km) é o local de natação para cães mais próximo.",
       "places": [],
-      "tipsEn": ["The Kızılırmak river at Avanos has wide sandy banks and calm sections where dogs wade and swim freely; a good add-on to a half-day pottery village visit.", "Ihlara Gorge (90 km, 2 hours) has a beautiful river trail with multiple cool-water swimming pools along the trail floor; dogs hike and swim freely for the full 14 km gorge route.", "Lake Tuz (Salt Lake) is toxic for dogs; do not let your dog drink or swim in it. The high salt concentration causes rapid dehydration."],
-      "tipsFr": ["La rivière Kızılırmak à Avanos dispose de larges berges sablonneuses et de tronçons calmes où les chiens se baignent et nagent librement ; un bon ajout à une visite de demi-journée au village de poterie.", "Les gorges d'Ihlara (90 km, 2 heures) ont un beau sentier de rivière avec plusieurs bassins d'eau fraîche tout au long du fond des gorges ; les chiens randonnent et nagent librement sur les 14 km du parcours.", "Le lac Tuz (lac de sel) est toxique pour les chiens ; ne laissez pas votre chien y boire ou s'y baigner. La forte concentration en sel provoque une déshydratation rapide."],
-      "tipsEs": ["El río Kızılırmak en Avanos tiene amplias orillas de arena y tramos tranquilos donde los perros vadean y nadan libremente; un buen complemento a una visita de medio día al pueblo de cerámica.", "El Barranco de Ihlara (90 km, 2 horas) tiene un hermoso sendero fluvial con múltiples piscinas de agua fresca a lo largo del suelo del barranco; los perros hacen senderismo y nadan libremente en los 14 km del recorrido.", "El Lago Tuz (Lago de Sal) es tóxico para los perros; no dejes que tu perro beba o nade en él. La alta concentración de sal provoca rápida deshidratación."],
-      "tipsPt": ["O rio Kızılırmak em Avanos tem largas margens de areia e secções calmas onde os cães vadeiam e nadam livremente; uma boa adição a uma visita de meio dia à aldeia de cerâmica.", "A Garganta de Ihlara (90 km, 2 horas) tem um bonito trilho ribeirinho com múltiplas piscinas de água fresca ao longo do chão da garganta; os cães fazem caminhadas e nadam livremente nos 14 km do percurso.", "O Lago Tuz (Lago Salgado) é tóxico para os cães; não deixe o seu cão beber ou nadar nele. A alta concentração de sal causa rápida desidratação."],
+      "tipsEn": [
+        "The Kızılırmak river at Avanos has wide sandy banks and calm sections where dogs wade and swim freely; a good add-on to a half-day pottery village visit.",
+        "Ihlara Gorge (90 km, 2 hours) has a beautiful river trail with multiple cool-water swimming pools along the trail floor; dogs hike and swim freely for the full 14 km gorge route.",
+        "Lake Tuz (Salt Lake) is toxic for dogs; do not let your dog drink or swim in it. The high salt concentration causes rapid dehydration."
+      ],
+      "tipsFr": [
+        "La rivière Kızılırmak à Avanos dispose de larges berges sablonneuses et de tronçons calmes où les chiens se baignent et nagent librement ; un bon ajout à une visite de demi-journée au village de poterie.",
+        "Les gorges d'Ihlara (90 km, 2 heures) ont un beau sentier de rivière avec plusieurs bassins d'eau fraîche tout au long du fond des gorges ; les chiens randonnent et nagent librement sur les 14 km du parcours.",
+        "Le lac Tuz (lac de sel) est toxique pour les chiens ; ne laissez pas votre chien y boire ou s'y baigner. La forte concentration en sel provoque une déshydratation rapide."
+      ],
+      "tipsEs": [
+        "El río Kızılırmak en Avanos tiene amplias orillas de arena y tramos tranquilos donde los perros vadean y nadan libremente; un buen complemento a una visita de medio día al pueblo de cerámica.",
+        "El Barranco de Ihlara (90 km, 2 horas) tiene un hermoso sendero fluvial con múltiples piscinas de agua fresca a lo largo del suelo del barranco; los perros hacen senderismo y nadan libremente en los 14 km del recorrido.",
+        "El Lago Tuz (Lago de Sal) es tóxico para los perros; no dejes que tu perro beba o nade en él. La alta concentración de sal provoca rápida deshidratación."
+      ],
+      "tipsPt": [
+        "O rio Kızılırmak em Avanos tem largas margens de areia e secções calmas onde os cães vadeiam e nadam livremente; uma boa adição a uma visita de meio dia à aldeia de cerâmica.",
+        "A Garganta de Ihlara (90 km, 2 horas) tem um bonito trilho ribeirinho com múltiplas piscinas de água fresca ao longo do chão da garganta; os cães fazem caminhadas e nadam livremente nos 14 km do percurso.",
+        "O Lago Tuz (Lago Salgado) é tóxico para os cães; não deixe o seu cão beber ou nadar nele. A alta concentração de sal causa rápida desidratação."
+      ],
       "faqsEn": [
-        { "q": "Can my dog hike the full Ihlara Gorge with me?", "a": "Yes. Ihlara Gorge is a 14 km riverside trail through a canyon with Byzantine frescoed churches and cool swimming pools. Dogs hike the full route freely. Start at Ihlara village and end at Selime fortress (or reverse). Taxi back is easy from Selime." },
-        { "q": "Is there anywhere near Göreme to let my dog swim?", "a": "The Kızılırmak river at Avanos (10 km) is the easiest option; 20-minute drive and a pleasant half-day trip combining dog swimming and the pottery workshops." }
+        {
+          "q": "Can my dog hike the full Ihlara Gorge with me?",
+          "a": "Yes. Ihlara Gorge is a 14 km riverside trail through a canyon with Byzantine frescoed churches and cool swimming pools. Dogs hike the full route freely. Start at Ihlara village and end at Selime fortress (or reverse). Taxi back is easy from Selime."
+        },
+        {
+          "q": "Is there anywhere near Göreme to let my dog swim?",
+          "a": "The Kızılırmak river at Avanos (10 km) is the easiest option; 20-minute drive and a pleasant half-day trip combining dog swimming and the pottery workshops."
+        }
       ],
       "faqsFr": [
-        { "q": "Mon chien peut-il faire toutes les gorges d'Ihlara avec moi ?", "a": "Oui. Les gorges d'Ihlara sont un sentier de bord de rivière de 14 km à travers un canyon avec des églises à fresques byzantines et des piscines rafraîchissantes. Les chiens font tout le parcours librement. Commencez au village d'Ihlara et terminez à la forteresse de Selime (ou inversement). Le taxi de retour est facile depuis Selime." },
-        { "q": "Y a-t-il un endroit près de Göreme pour laisser mon chien se baigner ?", "a": "La rivière Kızılırmak à Avanos (10 km) est l'option la plus facile ; 20 minutes de voiture et une agréable demi-journée combinant baignade du chien et ateliers de poterie." }
+        {
+          "q": "Mon chien peut-il faire toutes les gorges d'Ihlara avec moi ?",
+          "a": "Oui. Les gorges d'Ihlara sont un sentier de bord de rivière de 14 km à travers un canyon avec des églises à fresques byzantines et des piscines rafraîchissantes. Les chiens font tout le parcours librement. Commencez au village d'Ihlara et terminez à la forteresse de Selime (ou inversement). Le taxi de retour est facile depuis Selime."
+        },
+        {
+          "q": "Y a-t-il un endroit près de Göreme pour laisser mon chien se baigner ?",
+          "a": "La rivière Kızılırmak à Avanos (10 km) est l'option la plus facile ; 20 minutes de voiture et une agréable demi-journée combinant baignade du chien et ateliers de poterie."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Puede mi perro hacer todo el Barranco de Ihlara conmigo?", "a": "Sí. El Barranco de Ihlara es un sendero de 14 km junto al río a través de un cañón con iglesias con frescos bizantinos y frescas piscinas. Los perros hacen todo el recorrido libremente. Comienza en el pueblo de Ihlara y termina en la fortaleza de Selime (o al revés). El taxi de vuelta es fácil desde Selime." },
-        { "q": "¿Hay algún lugar cerca de Göreme donde pueda dejar nadar a mi perro?", "a": "El río Kızılırmak en Avanos (10 km) es la opción más sencilla; 20 minutos en coche y una agradable excursión de medio día combinando baño del perro y los talleres de cerámica." }
+        {
+          "q": "¿Puede mi perro hacer todo el Barranco de Ihlara conmigo?",
+          "a": "Sí. El Barranco de Ihlara es un sendero de 14 km junto al río a través de un cañón con iglesias con frescos bizantinos y frescas piscinas. Los perros hacen todo el recorrido libremente. Comienza en el pueblo de Ihlara y termina en la fortaleza de Selime (o al revés). El taxi de vuelta es fácil desde Selime."
+        },
+        {
+          "q": "¿Hay algún lugar cerca de Göreme donde pueda dejar nadar a mi perro?",
+          "a": "El río Kızılırmak en Avanos (10 km) es la opción más sencilla; 20 minutos en coche y una agradable excursión de medio día combinando baño del perro y los talleres de cerámica."
+        }
       ],
       "faqsPt": [
-        { "q": "O meu cão pode fazer toda a Garganta de Ihlara comigo?", "a": "Sim. A Garganta de Ihlara é um trilho ribeirinho de 14 km através de um cânion com igrejas com afrescos bizantinos e piscinas frescas. Os cães fazem o percurso completo livremente. Comece na aldeia de Ihlara e termine na fortaleza de Selime (ou ao contrário). O táxi de volta é fácil a partir de Selime." },
-        { "q": "Há algum lugar perto de Göreme para deixar o meu cão nadar?", "a": "O rio Kızılırmak em Avanos (10 km) é a opção mais fácil; 20 minutos de carro e uma agradável excursão de meio dia combinando natação do cão e as oficinas de cerâmica." }
+        {
+          "q": "O meu cão pode fazer toda a Garganta de Ihlara comigo?",
+          "a": "Sim. A Garganta de Ihlara é um trilho ribeirinho de 14 km através de um cânion com igrejas com afrescos bizantinos e piscinas frescas. Os cães fazem o percurso completo livremente. Comece na aldeia de Ihlara e termine na fortaleza de Selime (ou ao contrário). O táxi de volta é fácil a partir de Selime."
+        },
+        {
+          "q": "Há algum lugar perto de Göreme para deixar o meu cão nadar?",
+          "a": "O rio Kızılırmak em Avanos (10 km) é a opção mais fácil; 20 minutos de carro e uma agradável excursão de meio dia combinando natação do cão e as oficinas de cerâmica."
+        }
+      ],
+      "titleDe": "Seen & Gewässer bei Göreme",
+      "introDe": "Göreme liegt 500 km von der Küste entfernt; es gibt keine Meeresstrände. Die nächsten Bademöglichkeiten sind der Tuzsee (Salzsee, 100 km westlich, für Hunde ungeeignet) sowie die Süßwasserflüsse und Seen im Gebiet der Ihlara-Schlucht (90 km südwestlich). Der Fluss Kızılırmak bei Avanos (10 km) ist die nächstgelegene zugängliche Schwimmstelle für Hunde.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund die gesamte Ihlara-Schlucht mit mir wandern?",
+          "a": "Ja. Die Ihlara-Schlucht ist ein 14 km langer Uferwanderweg durch eine Schlucht mit byzantinischen Freskenkirchen und kühlen Schwimmbecken. Hunde wandern die gesamte Strecke frei. Im Dorf Ihlara starten und an der Festung Selime enden (oder umgekehrt). Ein Taxi zurück von Selime ist problemlos zu bekommen."
+        },
+        {
+          "q": "Gibt es in der Nähe von Göreme eine Stelle, an der mein Hund schwimmen kann?",
+          "a": "Der Fluss Kızılırmak bei Avanos (10 km) ist die einfachste Option; 20 Minuten Fahrt und ein angenehmer Halbtagesausflug, der Hundeschwimmen mit den Töpferwerkstätten verbindet."
+        }
       ]
     },
     "vets": {
@@ -255,28 +481,83 @@
           "tipFr": "Demandez à votre hôtel grotte de contacter un vétérinaire local en votre nom ; le personnel des hôtels de Cappadoce a des contacts locaux et saura quels vétérinaires sont ouverts et acceptent les passeports étrangers pour animaux",
           "tipEs": "Pide a tu hotel cueva que contacte a un veterinario local en tu nombre; el personal de los hoteles de Capadocia tiene contactos locales y sabrá qué veterinarios están abiertos y aceptan pasaportes extranjeros de mascotas",
           "tipPt": "Peça ao seu hotel-gruta para contactar um veterinário local em seu nome; o pessoal dos hotéis da Capadócia tem contactos locais e saberá quais os veterinários que estão abertos e aceitam passaportes estrangeiros de animais",
-          "googleMapsUrl": "https://maps.google.com/?q=veteriner+Nevsehir+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=veteriner+Nevsehir+Turkey",
+          "descriptionDe": "Das regionale Zentrum Nevşehir (40 km von Göreme, 30 Min. mit dem Auto) verfügt über mehrere Tierarztpraxen. Das Höhlenhotel oder die Pension kann vorab anrufen, um die passendste zu finden. Deckt Routineversorgung und kleinere Notfälle ab.",
+          "petPolicyDe": "Alle Haustiere willkommen",
+          "tipDe": "Das Höhlenhotel bitten, in Ihrem Namen einen örtlichen Tierarzt zu kontaktieren; das Personal kappadokischer Hotels hat lokale Kontakte und weiß, welche Tierärzte geöffnet haben und ausländische Heimtierausweise akzeptieren"
         }
       ],
-      "tipsEn": ["The main risk in Cappadocia is paw injuries from the sharp volcanic tuff terrain; apply paw wax before valley hikes and check for cuts after.", "Altitude (1,000 m) combined with thin dry air means dogs dehydrate faster than at sea level; increase water allowance during hikes.", "Snake encounters are possible in the scrubland areas around the valleys in summer; keep your dog visible and close on narrow paths."],
-      "tipsFr": ["Le principal risque en Cappadoce est les blessures aux coussinets dues au terrain volcanique tranchant en tuf ; appliquez de la cire pour les coussinets avant les randonnées en vallée et vérifiez les coupures après.", "L'altitude (1 000 m) combinée à l'air sec et léger signifie que les chiens se déshydratent plus vite qu'au niveau de la mer ; augmentez la ration d'eau lors des randonnées.", "Les rencontres avec des serpents sont possibles dans les zones de garrigue autour des vallées en été ; gardez votre chien visible et proche sur les sentiers étroits."],
-      "tipsEs": ["El principal riesgo en Capadocia son las lesiones en las patas por el terreno volcánico afilado de toba; aplica cera protectora en las patas antes de los senderismos por los valles y revisa si hay cortes después.", "La altitud (1.000 m) combinada con el aire seco y fino significa que los perros se deshidratan más rápido que al nivel del mar; aumenta la ración de agua durante las excursiones.", "Los encuentros con serpientes son posibles en las zonas de matorral alrededor de los valles en verano; mantén a tu perro visible y cerca en los senderos estrechos."],
-      "tipsPt": ["O principal risco na Capadócia são as lesões nas patas pelo terreno de tufo vulcânico afiado; aplique cera de patas antes das caminhadas no vale e verifique cortes depois.", "A altitude (1.000 m) combinada com ar seco e fino significa que os cães se desidratam mais rapidamente do que ao nível do mar; aumente a ração de água durante as caminhadas.", "Os encontros com cobras são possíveis nas áreas de matagal em torno dos vales no verão; mantenha o seu cão visível e perto em trilhos estreitos."],
+      "tipsEn": [
+        "The main risk in Cappadocia is paw injuries from the sharp volcanic tuff terrain; apply paw wax before valley hikes and check for cuts after.",
+        "Altitude (1,000 m) combined with thin dry air means dogs dehydrate faster than at sea level; increase water allowance during hikes.",
+        "Snake encounters are possible in the scrubland areas around the valleys in summer; keep your dog visible and close on narrow paths."
+      ],
+      "tipsFr": [
+        "Le principal risque en Cappadoce est les blessures aux coussinets dues au terrain volcanique tranchant en tuf ; appliquez de la cire pour les coussinets avant les randonnées en vallée et vérifiez les coupures après.",
+        "L'altitude (1 000 m) combinée à l'air sec et léger signifie que les chiens se déshydratent plus vite qu'au niveau de la mer ; augmentez la ration d'eau lors des randonnées.",
+        "Les rencontres avec des serpents sont possibles dans les zones de garrigue autour des vallées en été ; gardez votre chien visible et proche sur les sentiers étroits."
+      ],
+      "tipsEs": [
+        "El principal riesgo en Capadocia son las lesiones en las patas por el terreno volcánico afilado de toba; aplica cera protectora en las patas antes de los senderismos por los valles y revisa si hay cortes después.",
+        "La altitud (1.000 m) combinada con el aire seco y fino significa que los perros se deshidratan más rápido que al nivel del mar; aumenta la ración de agua durante las excursiones.",
+        "Los encuentros con serpientes son posibles en las zonas de matorral alrededor de los valles en verano; mantén a tu perro visible y cerca en los senderos estrechos."
+      ],
+      "tipsPt": [
+        "O principal risco na Capadócia são as lesões nas patas pelo terreno de tufo vulcânico afiado; aplique cera de patas antes das caminhadas no vale e verifique cortes depois.",
+        "A altitude (1.000 m) combinada com ar seco e fino significa que os cães se desidratam mais rapidamente do que ao nível do mar; aumente a ração de água durante as caminhadas.",
+        "Os encontros com cobras são possíveis nas áreas de matagal em torno dos vales no verão; mantenha o seu cão visível e perto em trilhos estreitos."
+      ],
       "faqsEn": [
-        { "q": "Are there veterinary services at Kayseri Airport if my dog needs emergency care on departure?", "a": "No vet at the airport itself. The city of Kayseri (15 min from airport) has several veterinary practices. Your car hire company can call ahead for you." },
-        { "q": "Can my dog get a health certificate for re-entry into the EU at a Cappadocia vet?", "a": "Yes, at an authorised vet in Nevşehir or Kayseri; the certificate must be issued within 10 days of your EU return date. Ask your hotel to help find an authorised (resmi) vet for international health certificates." }
+        {
+          "q": "Are there veterinary services at Kayseri Airport if my dog needs emergency care on departure?",
+          "a": "No vet at the airport itself. The city of Kayseri (15 min from airport) has several veterinary practices. Your car hire company can call ahead for you."
+        },
+        {
+          "q": "Can my dog get a health certificate for re-entry into the EU at a Cappadocia vet?",
+          "a": "Yes, at an authorised vet in Nevşehir or Kayseri; the certificate must be issued within 10 days of your EU return date. Ask your hotel to help find an authorised (resmi) vet for international health certificates."
+        }
       ],
       "faqsFr": [
-        { "q": "Y a-t-il des services vétérinaires à l'aéroport de Kayseri si mon chien a besoin de soins d'urgence au départ ?", "a": "Pas de vétérinaire à l'aéroport lui-même. La ville de Kayseri (15 min de l'aéroport) dispose de plusieurs cabinets vétérinaires. Votre loueur de voitures peut appeler à l'avance pour vous." },
-        { "q": "Mon chien peut-il obtenir un certificat sanitaire pour rentrer dans l'UE chez un vétérinaire de Cappadoce ?", "a": "Oui, chez un vétérinaire agréé à Nevşehir ou Kayseri ; le certificat doit être délivré dans les 10 jours précédant votre date de retour dans l'UE. Demandez à votre hôtel de vous aider à trouver un vétérinaire agréé (resmi) pour les certificats sanitaires internationaux." }
+        {
+          "q": "Y a-t-il des services vétérinaires à l'aéroport de Kayseri si mon chien a besoin de soins d'urgence au départ ?",
+          "a": "Pas de vétérinaire à l'aéroport lui-même. La ville de Kayseri (15 min de l'aéroport) dispose de plusieurs cabinets vétérinaires. Votre loueur de voitures peut appeler à l'avance pour vous."
+        },
+        {
+          "q": "Mon chien peut-il obtenir un certificat sanitaire pour rentrer dans l'UE chez un vétérinaire de Cappadoce ?",
+          "a": "Oui, chez un vétérinaire agréé à Nevşehir ou Kayseri ; le certificat doit être délivré dans les 10 jours précédant votre date de retour dans l'UE. Demandez à votre hôtel de vous aider à trouver un vétérinaire agréé (resmi) pour les certificats sanitaires internationaux."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Hay servicios veterinarios en el aeropuerto de Kayseri si mi perro necesita atención de urgencia a la salida?", "a": "No hay veterinario en el propio aeropuerto. La ciudad de Kayseri (15 min del aeropuerto) cuenta con varios consultorios veterinarios. Tu empresa de alquiler de coches puede llamar con antelación por ti." },
-        { "q": "¿Puede mi perro obtener un certificado sanitario para reentrar a la UE en un veterinario de Capadocia?", "a": "Sí, en un veterinario autorizado en Nevşehir o Kayseri; el certificado debe emitirse dentro de los 10 días de tu fecha de regreso a la UE. Pide a tu hotel que te ayude a encontrar un veterinario autorizado (resmi) para certificados sanitarios internacionales." }
+        {
+          "q": "¿Hay servicios veterinarios en el aeropuerto de Kayseri si mi perro necesita atención de urgencia a la salida?",
+          "a": "No hay veterinario en el propio aeropuerto. La ciudad de Kayseri (15 min del aeropuerto) cuenta con varios consultorios veterinarios. Tu empresa de alquiler de coches puede llamar con antelación por ti."
+        },
+        {
+          "q": "¿Puede mi perro obtener un certificado sanitario para reentrar a la UE en un veterinario de Capadocia?",
+          "a": "Sí, en un veterinario autorizado en Nevşehir o Kayseri; el certificado debe emitirse dentro de los 10 días de tu fecha de regreso a la UE. Pide a tu hotel que te ayude a encontrar un veterinario autorizado (resmi) para certificados sanitarios internacionales."
+        }
       ],
       "faqsPt": [
-        { "q": "Há serviços veterinários no aeroporto de Kayseri se o meu cão precisar de cuidados de emergência na partida?", "a": "Não há veterinário no próprio aeroporto. A cidade de Kayseri (15 min do aeroporto) tem vários consultórios veterinários. A sua empresa de aluguer de carro pode ligar antecipadamente por si." },
-        { "q": "O meu cão pode obter um certificado sanitário para reentrar na UE num veterinário da Capadócia?", "a": "Sim, num veterinário autorizado em Nevşehir ou Kayseri; o certificado deve ser emitido nos 10 dias da sua data de regresso à UE. Peça ao seu hotel para ajudar a encontrar um veterinário autorizado (resmi) para certificados sanitários internacionais." }
+        {
+          "q": "Há serviços veterinários no aeroporto de Kayseri se o meu cão precisar de cuidados de emergência na partida?",
+          "a": "Não há veterinário no próprio aeroporto. A cidade de Kayseri (15 min do aeroporto) tem vários consultórios veterinários. A sua empresa de aluguer de carro pode ligar antecipadamente por si."
+        },
+        {
+          "q": "O meu cão pode obter um certificado sanitário para reentrar na UE num veterinário da Capadócia?",
+          "a": "Sim, num veterinário autorizado em Nevşehir ou Kayseri; o certificado deve ser emitido nos 10 dias da sua data de regresso à UE. Peça ao seu hotel para ajudar a encontrar um veterinário autorizado (resmi) para certificados sanitários internacionais."
+        }
+      ],
+      "titleDe": "Tierärzte & Notfallversorgung im Raum Göreme",
+      "introDe": "Das Dorf Göreme selbst ist klein und hat keinen Tierarzt. Die nächsten Tierarztpraxen liegen in Nevşehir (40 km, 30 Min. mit dem Auto) und Kayseri (75 km, 1 Stunde). Kappadokien ist ein bedeutendes Touristenziel, daher ist die regionale tierärztliche Infrastruktur ordentlich. Immer ein einfaches Erste-Hilfe-Set für Haustiere mitführen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es am Flughafen Kayseri tierärztliche Versorgung, falls mein Hund bei der Abreise einen Notfall hat?",
+          "a": "Am Flughafen selbst gibt es keinen Tierarzt. Die Stadt Kayseri (15 Min. vom Flughafen) hat mehrere Tierarztpraxen. Die Mietwagenfirma kann für einen vorab anrufen."
+        },
+        {
+          "q": "Kann mein Hund bei einem Tierarzt in Kappadokien eine Gesundheitsbescheinigung für die Wiedereinreise in die EU erhalten?",
+          "a": "Ja, bei einem zugelassenen Tierarzt in Nevşehir oder Kayseri; die Bescheinigung muss innerhalb von 10 Tagen vor dem EU-Rückreisedatum ausgestellt werden. Das Hotel bitten, bei der Suche nach einem zugelassenen (resmi) Tierarzt für internationale Gesundheitsbescheinigungen zu helfen."
+        }
       ]
     },
     "tips": {
@@ -311,20 +592,56 @@
         }
       ],
       "faqsEn": [
-        { "q": "Can my dog come on the famous hot air balloon ride?", "a": "No balloon operator accepts dogs. Plan to leave your dog at the cave hotel during the balloon flight (1.5 hours including transfer). Your hotel will look after your dog during this time; confirm at check-in." },
-        { "q": "Is Göreme suitable for older or less active dogs?", "a": "Very much so. The village streets are flat and the valley floor trails have gentle gradients. Older dogs can do the Pigeon Valley and Rose Valley floor sections (4-6 km flat) comfortably. The summit sections are optional." }
+        {
+          "q": "Can my dog come on the famous hot air balloon ride?",
+          "a": "No balloon operator accepts dogs. Plan to leave your dog at the cave hotel during the balloon flight (1.5 hours including transfer). Your hotel will look after your dog during this time; confirm at check-in."
+        },
+        {
+          "q": "Is Göreme suitable for older or less active dogs?",
+          "a": "Very much so. The village streets are flat and the valley floor trails have gentle gradients. Older dogs can do the Pigeon Valley and Rose Valley floor sections (4-6 km flat) comfortably. The summit sections are optional."
+        }
       ],
       "faqsFr": [
-        { "q": "Mon chien peut-il venir faire la célèbre balade en montgolfière ?", "a": "Aucun opérateur de montgolfière n'accepte les chiens. Prévoyez de laisser votre chien à l'hôtel grotte pendant le vol en montgolfière (1h30 avec le transfert). Votre hôtel s'occupera de votre chien pendant ce temps ; confirmez à l'arrivée." },
-        { "q": "Göreme est-elle adaptée aux chiens plus âgés ou moins actifs ?", "a": "Tout à fait. Les rues du village sont plates et les sentiers de fond de vallée ont des pentes douces. Les chiens plus âgés peuvent faire confortablement les sections de la vallée des Pigeons et de la Vallée Rose (4-6 km plats). Les sections de sommet sont optionnelles." }
+        {
+          "q": "Mon chien peut-il venir faire la célèbre balade en montgolfière ?",
+          "a": "Aucun opérateur de montgolfière n'accepte les chiens. Prévoyez de laisser votre chien à l'hôtel grotte pendant le vol en montgolfière (1h30 avec le transfert). Votre hôtel s'occupera de votre chien pendant ce temps ; confirmez à l'arrivée."
+        },
+        {
+          "q": "Göreme est-elle adaptée aux chiens plus âgés ou moins actifs ?",
+          "a": "Tout à fait. Les rues du village sont plates et les sentiers de fond de vallée ont des pentes douces. Les chiens plus âgés peuvent faire confortablement les sections de la vallée des Pigeons et de la Vallée Rose (4-6 km plats). Les sections de sommet sont optionnelles."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Puede mi perro venir en el famoso paseo en globo aerostático?", "a": "Ningún operador de globo acepta perros. Planifica dejar a tu perro en el hotel cueva durante el vuelo en globo (1,5 horas incluido el traslado). Tu hotel cuidará de tu perro durante este tiempo; confírmalo al hacer el check-in." },
-        { "q": "¿Es Göreme adecuado para perros mayores o menos activos?", "a": "Mucho. Las calles del pueblo son llanas y los senderos del fondo del valle tienen gradientes suaves. Los perros mayores pueden hacer cómodamente las secciones del fondo del Valle de las Palomas y el Valle Rosa (4-6 km llanos). Las secciones de cima son opcionales." }
+        {
+          "q": "¿Puede mi perro venir en el famoso paseo en globo aerostático?",
+          "a": "Ningún operador de globo acepta perros. Planifica dejar a tu perro en el hotel cueva durante el vuelo en globo (1,5 horas incluido el traslado). Tu hotel cuidará de tu perro durante este tiempo; confírmalo al hacer el check-in."
+        },
+        {
+          "q": "¿Es Göreme adecuado para perros mayores o menos activos?",
+          "a": "Mucho. Las calles del pueblo son llanas y los senderos del fondo del valle tienen gradientes suaves. Los perros mayores pueden hacer cómodamente las secciones del fondo del Valle de las Palomas y el Valle Rosa (4-6 km llanos). Las secciones de cima son opcionales."
+        }
       ],
       "faqsPt": [
-        { "q": "O meu cão pode vir no famoso passeio de balão de ar quente?", "a": "Nenhum operador de balão aceita cães. Planeie deixar o seu cão no hotel-gruta durante o voo de balão (1,5 horas incluindo transferência). O seu hotel tomará conta do seu cão durante este tempo; confirme no check-in." },
-        { "q": "Göreme é adequada para cães mais velhos ou menos ativos?", "a": "Muito. As ruas da aldeia são planas e os trilhos do fundo do vale têm gradientes suaves. Os cães mais velhos podem fazer confortavelmente as secções do Vale dos Pombos e do fundo do Vale Rosa (4-6 km planos). As secções do cume são opcionais." }
+        {
+          "q": "O meu cão pode vir no famoso passeio de balão de ar quente?",
+          "a": "Nenhum operador de balão aceita cães. Planeie deixar o seu cão no hotel-gruta durante o voo de balão (1,5 horas incluindo transferência). O seu hotel tomará conta do seu cão durante este tempo; confirme no check-in."
+        },
+        {
+          "q": "Göreme é adequada para cães mais velhos ou menos ativos?",
+          "a": "Muito. As ruas da aldeia são planas e os trilhos do fundo do vale têm gradientes suaves. Os cães mais velhos podem fazer confortavelmente as secções do Vale dos Pombos e do fundo do Vale Rosa (4-6 km planos). As secções do cume são opcionais."
+        }
+      ],
+      "titleDe": "Wichtige Reisetipps mit Hund für Göreme & Kappadokien",
+      "introDe": "Göreme ist eines der einzigartigsten Reiseziele der Welt für Hundehalter: eine vulkanische UNESCO-Landschaft, in der Hunde frei durch Feenkamin-Täler wandern, Höhlenhotels Haustiere willkommen heißen und die Höhenlage selbst im Hochsommer für angenehme Temperaturen sorgt. Die wichtigste Vorbereitung besteht darin, die Einreisebestimmungen der Türkei zu verstehen und die eine Aktivität zu planen, bei der der Hund nicht mitkann (die Ballonfahrt).",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund bei der berühmten Heißluftballonfahrt mitfliegen?",
+          "a": "Kein Ballonanbieter nimmt Hunde mit. Den Hund während der Ballonfahrt (1,5 Stunden inklusive Transfer) im Höhlenhotel lassen. Das Hotel kümmert sich in dieser Zeit um den Hund; das beim Check-in bestätigen."
+        },
+        {
+          "q": "Eignet sich Göreme für ältere oder weniger aktive Hunde?",
+          "a": "Sehr gut geeignet. Die Dorfstraßen sind eben, und die Wege auf dem Talboden haben sanfte Steigungen. Ältere Hunde bewältigen die Talboden-Abschnitte von Taubental und Rosental (4-6 km flach) problemlos. Die Gipfelabschnitte sind optional."
+        }
       ]
     },
     "attractions": {
@@ -356,28 +673,83 @@
           "tipFr": "Marchez de Göreme à Uçhisar via la vallée des Pigeons (5 km, 1h30) avec votre chien ; bien plus gratifiant que de conduire et le chemin débouche directement à la base du château",
           "tipEs": "Camina desde Göreme a Uçhisar por el Valle de las Palomas (5 km, 1,5 horas) con tu perro; mucho más gratificante que ir en coche y el camino desemboca directamente en la base del castillo",
           "tipPt": "Caminhe de Göreme a Uçhisar pelo Vale dos Pombos (5 km, 1,5 horas) com o seu cão; muito mais gratificante do que conduzir e o caminho emerge diretamente na base do castelo",
-          "googleMapsUrl": "https://maps.google.com/?q=Uchisar+Castle+Cappadocia+Turkey"
+          "googleMapsUrl": "https://maps.google.com/?q=Uchisar+Castle+Cappadocia+Turkey",
+          "descriptionDe": "Der höchste Punkt Kappadokiens: eine natürliche Felsfestung voller Höhlenräume und Tunnel, mit einem 360-Grad-Panorama über die Feenkaminlandschaft. Hunde erklimmen den äußeren Weg bis zum Fuß der Burg völlig frei; die Innentunnel erfordern ein Ticket und erlauben keine Hunde. Das Dorf rund um die Burg eignet sich hervorragend zum Gassigehen.",
+          "petPolicyDe": "Hunde auf dem Außenweg und im Dorf frei; in den Innentunneln nicht erlaubt",
+          "tipDe": "Von Göreme über das Taubental nach Uçhisar laufen (5 km, 1,5 Stunden) mit Hund; deutlich lohnender als die Anfahrt mit dem Auto, und der Weg mündet direkt am Fuß der Burg"
         }
       ],
-      "tipsEn": ["The underground cities (Derinkuyu, Kaymaklı) are fascinating but completely inaccessible for dogs; the tunnels are too narrow and poorly ventilated. Tie your dog at the entrance in a shaded spot; visits take 45-60 minutes.", "Cappadocian wineries (Turasan in Urgup, Kocabağ in Turasan) have outdoor tasting areas where dogs are welcome; a beautiful afternoon activity in October harvest season.", "The Zelve Open Air Museum (free-standing rock churches, 8 km from Göreme) allows dogs on the exterior paths; only the church interiors exclude dogs."],
-      "tipsFr": ["Les villes souterraines (Derinkuyu, Kaymaklı) sont fascinantes mais totalement inaccessibles pour les chiens ; les tunnels sont trop étroits et mal ventilés. Attachez votre chien à l'entrée dans un endroit ombragé ; les visites durent 45-60 minutes.", "Les caves cappadociennes (Turasan à Urgup, Kocabağ à Turasan) ont des espaces de dégustation en plein air où les chiens sont bienvenus ; une belle activité d'après-midi lors de la saison des vendanges en octobre.", "Le musée en plein air de Zelve (églises rupestres, 8 km de Göreme) autorise les chiens sur les chemins extérieurs ; seuls les intérieurs des églises excluent les chiens."],
-      "tipsEs": ["Las ciudades subterráneas (Derinkuyu, Kaymaklı) son fascinantes pero completamente inaccesibles para los perros; los túneles son demasiado estrechos y están mal ventilados. Ata a tu perro en la entrada en un lugar sombreado; las visitas duran 45-60 minutos.", "Las bodegas de Capadocia (Turasan en Urgup, Kocabağ en Turasan) tienen áreas de degustación al aire libre donde los perros son bienvenidos; una actividad vespertina preciosa en la temporada de vendimia de octubre.", "El Museo al Aire Libre de Zelve (iglesias rupestres, 8 km de Göreme) permite perros en los caminos exteriores; solo los interiores de las iglesias excluyen a los perros."],
-      "tipsPt": ["As cidades subterrâneas (Derinkuyu, Kaymaklı) são fascinantes mas completamente inacessíveis para cães; os túneis são demasiado estreitos e mal ventilados. Prenda o seu cão na entrada num local sombreado; as visitas demoram 45-60 minutos.", "As adegas capadócias (Turasan em Urgup, Kocabağ em Turasan) têm áreas de degustação ao ar livre onde os cães são bem-vindos; uma bela atividade de tarde na época da vindima de outubro.", "O Museu ao Ar Livre de Zelve (igrejas rupestres, 8 km de Göreme) permite cães nos caminhos exteriores; apenas os interiores das igrejas excluem os cães."],
+      "tipsEn": [
+        "The underground cities (Derinkuyu, Kaymaklı) are fascinating but completely inaccessible for dogs; the tunnels are too narrow and poorly ventilated. Tie your dog at the entrance in a shaded spot; visits take 45-60 minutes.",
+        "Cappadocian wineries (Turasan in Urgup, Kocabağ in Turasan) have outdoor tasting areas where dogs are welcome; a beautiful afternoon activity in October harvest season.",
+        "The Zelve Open Air Museum (free-standing rock churches, 8 km from Göreme) allows dogs on the exterior paths; only the church interiors exclude dogs."
+      ],
+      "tipsFr": [
+        "Les villes souterraines (Derinkuyu, Kaymaklı) sont fascinantes mais totalement inaccessibles pour les chiens ; les tunnels sont trop étroits et mal ventilés. Attachez votre chien à l'entrée dans un endroit ombragé ; les visites durent 45-60 minutes.",
+        "Les caves cappadociennes (Turasan à Urgup, Kocabağ à Turasan) ont des espaces de dégustation en plein air où les chiens sont bienvenus ; une belle activité d'après-midi lors de la saison des vendanges en octobre.",
+        "Le musée en plein air de Zelve (églises rupestres, 8 km de Göreme) autorise les chiens sur les chemins extérieurs ; seuls les intérieurs des églises excluent les chiens."
+      ],
+      "tipsEs": [
+        "Las ciudades subterráneas (Derinkuyu, Kaymaklı) son fascinantes pero completamente inaccesibles para los perros; los túneles son demasiado estrechos y están mal ventilados. Ata a tu perro en la entrada en un lugar sombreado; las visitas duran 45-60 minutos.",
+        "Las bodegas de Capadocia (Turasan en Urgup, Kocabağ en Turasan) tienen áreas de degustación al aire libre donde los perros son bienvenidos; una actividad vespertina preciosa en la temporada de vendimia de octubre.",
+        "El Museo al Aire Libre de Zelve (iglesias rupestres, 8 km de Göreme) permite perros en los caminos exteriores; solo los interiores de las iglesias excluyen a los perros."
+      ],
+      "tipsPt": [
+        "As cidades subterrâneas (Derinkuyu, Kaymaklı) são fascinantes mas completamente inacessíveis para cães; os túneis são demasiado estreitos e mal ventilados. Prenda o seu cão na entrada num local sombreado; as visitas demoram 45-60 minutos.",
+        "As adegas capadócias (Turasan em Urgup, Kocabağ em Turasan) têm áreas de degustação ao ar livre onde os cães são bem-vindos; uma bela atividade de tarde na época da vindima de outubro.",
+        "O Museu ao Ar Livre de Zelve (igrejas rupestres, 8 km de Göreme) permite cães nos caminhos exteriores; apenas os interiores das igrejas excluem os cães."
+      ],
       "faqsEn": [
-        { "q": "Can my dog watch the balloon launch at sunrise in Göreme?", "a": "Yes. The main balloon launch area is visible from the village outskirts and from the valley viewpoints; a dog walk to the Rose Valley or Love Valley viewpoint at dawn lets you and your dog watch dozens of balloons launch simultaneously above the fairy chimneys." },
-        { "q": "Is Göreme Open Air Museum worth visiting with my dog?", "a": "The museum itself does not permit dogs inside the church complex. However, the approach walk and the exterior viewpoints around the museum are accessible with dogs; you can tie your dog at the entrance while one member of your party visits inside." }
+        {
+          "q": "Can my dog watch the balloon launch at sunrise in Göreme?",
+          "a": "Yes. The main balloon launch area is visible from the village outskirts and from the valley viewpoints; a dog walk to the Rose Valley or Love Valley viewpoint at dawn lets you and your dog watch dozens of balloons launch simultaneously above the fairy chimneys."
+        },
+        {
+          "q": "Is Göreme Open Air Museum worth visiting with my dog?",
+          "a": "The museum itself does not permit dogs inside the church complex. However, the approach walk and the exterior viewpoints around the museum are accessible with dogs; you can tie your dog at the entrance while one member of your party visits inside."
+        }
       ],
       "faqsFr": [
-        { "q": "Mon chien peut-il regarder le lancement des montgolfières au lever du soleil à Göreme ?", "a": "Oui. La principale zone de lancement des montgolfières est visible depuis les abords du village et depuis les belvédères des vallées ; une promenade avec votre chien jusqu'au belvédère de la Vallée Rose ou de la Vallée de l'Amour à l'aube vous permet de regarder des dizaines de montgolfières s'élever simultanément au-dessus des cheminées de fées." },
-        { "q": "Le musée en plein air de Göreme vaut-il la peine d'être visité avec mon chien ?", "a": "Le musée lui-même n'autorise pas les chiens dans le complexe d'églises. Cependant, le chemin d'approche et les belvédères extérieurs autour du musée sont accessibles avec des chiens ; vous pouvez attacher votre chien à l'entrée pendant qu'un membre de votre groupe visite à l'intérieur." }
+        {
+          "q": "Mon chien peut-il regarder le lancement des montgolfières au lever du soleil à Göreme ?",
+          "a": "Oui. La principale zone de lancement des montgolfières est visible depuis les abords du village et depuis les belvédères des vallées ; une promenade avec votre chien jusqu'au belvédère de la Vallée Rose ou de la Vallée de l'Amour à l'aube vous permet de regarder des dizaines de montgolfières s'élever simultanément au-dessus des cheminées de fées."
+        },
+        {
+          "q": "Le musée en plein air de Göreme vaut-il la peine d'être visité avec mon chien ?",
+          "a": "Le musée lui-même n'autorise pas les chiens dans le complexe d'églises. Cependant, le chemin d'approche et les belvédères extérieurs autour du musée sont accessibles avec des chiens ; vous pouvez attacher votre chien à l'entrée pendant qu'un membre de votre groupe visite à l'intérieur."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Puede mi perro ver el lanzamiento de globos al amanecer en Göreme?", "a": "Sí. La principal zona de lanzamiento de globos es visible desde las afueras del pueblo y desde los miradores de los valles; un paseo con tu perro hasta el mirador del Valle Rosa o del Valle del Amor al amanecer te permite a ti y a tu perro ver cómo docenas de globos despegan simultáneamente sobre las chimeneas de hadas." },
-        { "q": "¿Vale la pena visitar el Museo al Aire Libre de Göreme con mi perro?", "a": "El propio museo no permite perros dentro del complejo de iglesias. Sin embargo, el camino de acceso y los miradores exteriores alrededor del museo son accesibles con perros; puedes atar a tu perro en la entrada mientras un miembro de tu grupo visita el interior." }
+        {
+          "q": "¿Puede mi perro ver el lanzamiento de globos al amanecer en Göreme?",
+          "a": "Sí. La principal zona de lanzamiento de globos es visible desde las afueras del pueblo y desde los miradores de los valles; un paseo con tu perro hasta el mirador del Valle Rosa o del Valle del Amor al amanecer te permite a ti y a tu perro ver cómo docenas de globos despegan simultáneamente sobre las chimeneas de hadas."
+        },
+        {
+          "q": "¿Vale la pena visitar el Museo al Aire Libre de Göreme con mi perro?",
+          "a": "El propio museo no permite perros dentro del complejo de iglesias. Sin embargo, el camino de acceso y los miradores exteriores alrededor del museo son accesibles con perros; puedes atar a tu perro en la entrada mientras un miembro de tu grupo visita el interior."
+        }
       ],
       "faqsPt": [
-        { "q": "O meu cão pode ver o lançamento dos balões ao nascer do sol em Göreme?", "a": "Sim. A principal área de lançamento de balões é visível a partir dos arredores da aldeia e dos miradouros dos vales; um passeio com o seu cão até ao miradouro do Vale Rosa ou do Vale do Amor ao amanhecer permite-lhe a si e ao seu cão ver dezenas de balões lançarem simultaneamente acima das chaminés de fada." },
-        { "q": "Vale a pena visitar o Museu ao Ar Livre de Göreme com o meu cão?", "a": "O próprio museu não permite cães dentro do complexo de igrejas. No entanto, o caminho de acesso e os miradouros exteriores em torno do museu são acessíveis com cães; pode prender o seu cão na entrada enquanto um membro do seu grupo visita o interior." }
+        {
+          "q": "O meu cão pode ver o lançamento dos balões ao nascer do sol em Göreme?",
+          "a": "Sim. A principal área de lançamento de balões é visível a partir dos arredores da aldeia e dos miradouros dos vales; um passeio com o seu cão até ao miradouro do Vale Rosa ou do Vale do Amor ao amanhecer permite-lhe a si e ao seu cão ver dezenas de balões lançarem simultaneamente acima das chaminés de fada."
+        },
+        {
+          "q": "Vale a pena visitar o Museu ao Ar Livre de Göreme com o meu cão?",
+          "a": "O próprio museu não permite cães dentro do complexo de igrejas. No entanto, o caminho de acesso e os miradouros exteriores em torno do museu são acessíveis com cães; pode prender o seu cão na entrada enquanto um membro do seu grupo visita o interior."
+        }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Göreme & Kappadokien",
+      "introDe": "Kappadokiens Freiluftattraktionen sind durchweg hundefreundlich; die Ausnahmen im Inneren (Freilichtmuseum Göreme, unterirdische Städte Derinkuyu und Kaymaklı) erfordern, den Hund draußen zu lassen. Alles andere (die Täler, die Bergfestungen, die Weingüter, die Aussichtspunkte an der Straße) ist mit Hund zugänglich.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund den Ballonstart bei Sonnenaufgang in Göreme beobachten?",
+          "a": "Ja. Der Hauptstartbereich der Ballons ist von den Dorfrändern und den Aussichtspunkten in den Tälern aus sichtbar; ein Spaziergang mit Hund zum Aussichtspunkt im Rosental oder Liebestal bei Morgengrauen lässt einen und den Hund Dutzende Ballons gleichzeitig über den Feenkaminen starten sehen."
+        },
+        {
+          "q": "Lohnt sich ein Besuch des Freilichtmuseums Göreme mit Hund?",
+          "a": "Das Museum selbst erlaubt keine Hunde im Inneren des Kirchenkomplexes. Der Zuweg und die Aussichtspunkte außerhalb des Museums sind jedoch mit Hund zugänglich; man kann den Hund am Eingang anbinden, während ein Mitglied der Gruppe drinnen besichtigt."
+        }
       ]
     },
     "petsitting": {
@@ -390,25 +762,77 @@
       "introEs": "El cuidado de mascotas en Göreme se da principalmente de forma informal a través del personal de los hoteles cueva. Como casi todas las atracciones capadocias son al aire libre y accesibles con perros, el único momento en que realmente necesitas cuidado de mascotas es durante el vuelo en globo (1,5 horas) y las visitas a las ciudades subterráneas.",
       "introPt": "A guarda de animais em Göreme é principalmente informal através do pessoal dos hotéis-gruta. Como quase todas as atrações capadócias são ao ar livre e acessíveis com cães, o único momento em que genuinamente precisa de guarda de animais é durante o voo de balão (1,5 horas) e as visitas às cidades subterrâneas.",
       "places": [],
-      "tipsEn": ["Your cave hotel will keep your dog during the balloon flight; confirm at check-in and leave food and water. Most cave hotel courtyards are perfect for a dog to wait in.", "Ask the hotel's front desk for the name of a local dog-sitter if needed for longer periods; the Cappadocian hospitality industry is well-networked.", "The Facebook group 'Göreme Expats & Locals' occasionally has pet-sitter recommendations."],
-      "tipsFr": ["Votre hôtel grotte gardera votre chien pendant le vol en montgolfière ; confirmez à l'arrivée et laissez de la nourriture et de l'eau. La plupart des cours d'hôtels grottes sont parfaites pour qu'un chien attende.", "Demandez à la réception de l'hôtel le nom d'un dog-sitter local si nécessaire pour des périodes plus longues ; l'industrie hôtelière cappadocienne est bien connectée.", "Le groupe Facebook 'Göreme Expats & Locals' a parfois des recommandations de gardes d'animaux."],
-      "tipsEs": ["Tu hotel cueva cuidará de tu perro durante el vuelo en globo; confirma al hacer el check-in y deja comida y agua. La mayoría de los patios de hoteles cueva son perfectos para que un perro espere.", "Pregunta en la recepción del hotel el nombre de un cuidador de perros local si es necesario para períodos más largos; la industria hotelera de Capadocia está bien conectada.", "El grupo de Facebook 'Göreme Expats & Locals' a veces tiene recomendaciones de cuidadores de mascotas."],
-      "tipsPt": ["O seu hotel-gruta vai tomar conta do seu cão durante o voo de balão; confirme no check-in e deixe comida e água. A maioria dos pátios dos hotéis-gruta são perfeitos para um cão esperar.", "Pergunte na receção do hotel o nome de um cuidador de cão local se necessário para períodos mais longos; a indústria hoteleira capadócia está bem ligada em rede.", "O grupo do Facebook 'Göreme Expats & Locals' tem ocasionalmente recomendações de cuidadores de animais."],
+      "tipsEn": [
+        "Your cave hotel will keep your dog during the balloon flight; confirm at check-in and leave food and water. Most cave hotel courtyards are perfect for a dog to wait in.",
+        "Ask the hotel's front desk for the name of a local dog-sitter if needed for longer periods; the Cappadocian hospitality industry is well-networked.",
+        "The Facebook group 'Göreme Expats & Locals' occasionally has pet-sitter recommendations."
+      ],
+      "tipsFr": [
+        "Votre hôtel grotte gardera votre chien pendant le vol en montgolfière ; confirmez à l'arrivée et laissez de la nourriture et de l'eau. La plupart des cours d'hôtels grottes sont parfaites pour qu'un chien attende.",
+        "Demandez à la réception de l'hôtel le nom d'un dog-sitter local si nécessaire pour des périodes plus longues ; l'industrie hôtelière cappadocienne est bien connectée.",
+        "Le groupe Facebook 'Göreme Expats & Locals' a parfois des recommandations de gardes d'animaux."
+      ],
+      "tipsEs": [
+        "Tu hotel cueva cuidará de tu perro durante el vuelo en globo; confirma al hacer el check-in y deja comida y agua. La mayoría de los patios de hoteles cueva son perfectos para que un perro espere.",
+        "Pregunta en la recepción del hotel el nombre de un cuidador de perros local si es necesario para períodos más largos; la industria hotelera de Capadocia está bien conectada.",
+        "El grupo de Facebook 'Göreme Expats & Locals' a veces tiene recomendaciones de cuidadores de mascotas."
+      ],
+      "tipsPt": [
+        "O seu hotel-gruta vai tomar conta do seu cão durante o voo de balão; confirme no check-in e deixe comida e água. A maioria dos pátios dos hotéis-gruta são perfeitos para um cão esperar.",
+        "Pergunte na receção do hotel o nome de um cuidador de cão local se necessário para períodos mais longos; a indústria hoteleira capadócia está bem ligada em rede.",
+        "O grupo do Facebook 'Göreme Expats & Locals' tem ocasionalmente recomendações de cuidadores de animais."
+      ],
       "faqsEn": [
-        { "q": "Can my cave hotel look after my dog during the balloon flight?", "a": "In almost all cases, yes. Confirm at check-in; most cave hotels have a secure courtyard and staff who are comfortable with dogs. Leave clear feeding and care instructions." },
-        { "q": "Is there a kennel near Göreme?", "a": "No professional kennel in Göreme or Ürgüp. Nevşehir (40 km) may have options; ask your hotel to help contact one for multi-day boarding if needed." }
+        {
+          "q": "Can my cave hotel look after my dog during the balloon flight?",
+          "a": "In almost all cases, yes. Confirm at check-in; most cave hotels have a secure courtyard and staff who are comfortable with dogs. Leave clear feeding and care instructions."
+        },
+        {
+          "q": "Is there a kennel near Göreme?",
+          "a": "No professional kennel in Göreme or Ürgüp. Nevşehir (40 km) may have options; ask your hotel to help contact one for multi-day boarding if needed."
+        }
       ],
       "faqsFr": [
-        { "q": "Mon hôtel grotte peut-il s'occuper de mon chien pendant le vol en montgolfière ?", "a": "Dans presque tous les cas, oui. Confirmez à l'arrivée ; la plupart des hôtels grottes disposent d'une cour sécurisée et d'un personnel à l'aise avec les chiens. Laissez des instructions claires pour l'alimentation et les soins." },
-        { "q": "Y a-t-il un chenil près de Göreme ?", "a": "Pas de chenil professionnel à Göreme ou Ürgüp. Nevşehir (40 km) peut avoir des options ; demandez à votre hôtel de vous aider à en contacter un pour une pension de plusieurs jours si nécessaire." }
+        {
+          "q": "Mon hôtel grotte peut-il s'occuper de mon chien pendant le vol en montgolfière ?",
+          "a": "Dans presque tous les cas, oui. Confirmez à l'arrivée ; la plupart des hôtels grottes disposent d'une cour sécurisée et d'un personnel à l'aise avec les chiens. Laissez des instructions claires pour l'alimentation et les soins."
+        },
+        {
+          "q": "Y a-t-il un chenil près de Göreme ?",
+          "a": "Pas de chenil professionnel à Göreme ou Ürgüp. Nevşehir (40 km) peut avoir des options ; demandez à votre hôtel de vous aider à en contacter un pour une pension de plusieurs jours si nécessaire."
+        }
       ],
       "faqsEs": [
-        { "q": "¿Puede mi hotel cueva cuidar de mi perro durante el vuelo en globo?", "a": "En casi todos los casos, sí. Confirma al hacer el check-in; la mayoría de los hoteles cueva tienen un patio seguro y personal cómodo con los perros. Deja instrucciones claras de alimentación y cuidado." },
-        { "q": "¿Hay un kennel cerca de Göreme?", "a": "No hay kennel profesional en Göreme ni en Ürgüp. Nevşehir (40 km) puede tener opciones; pide a tu hotel que te ayude a contactar con uno para alojamiento de varios días si es necesario." }
+        {
+          "q": "¿Puede mi hotel cueva cuidar de mi perro durante el vuelo en globo?",
+          "a": "En casi todos los casos, sí. Confirma al hacer el check-in; la mayoría de los hoteles cueva tienen un patio seguro y personal cómodo con los perros. Deja instrucciones claras de alimentación y cuidado."
+        },
+        {
+          "q": "¿Hay un kennel cerca de Göreme?",
+          "a": "No hay kennel profesional en Göreme ni en Ürgüp. Nevşehir (40 km) puede tener opciones; pide a tu hotel que te ayude a contactar con uno para alojamiento de varios días si es necesario."
+        }
       ],
       "faqsPt": [
-        { "q": "O meu hotel-gruta pode tomar conta do meu cão durante o voo de balão?", "a": "Em quase todos os casos, sim. Confirme no check-in; a maioria dos hotéis-gruta tem um pátio seguro e pessoal confortável com cães. Deixe instruções claras de alimentação e cuidados." },
-        { "q": "Há um canil perto de Göreme?", "a": "Nenhum canil profissional em Göreme ou Ürgüp. Nevşehir (40 km) pode ter opções; peça ao seu hotel para ajudar a contactar um para alojamento de vários dias se necessário." }
+        {
+          "q": "O meu hotel-gruta pode tomar conta do meu cão durante o voo de balão?",
+          "a": "Em quase todos os casos, sim. Confirme no check-in; a maioria dos hotéis-gruta tem um pátio seguro e pessoal confortável com cães. Deixe instruções claras de alimentação e cuidados."
+        },
+        {
+          "q": "Há um canil perto de Göreme?",
+          "a": "Nenhum canil profissional em Göreme ou Ürgüp. Nevşehir (40 km) pode ter opções; peça ao seu hotel para ajudar a contactar um para alojamento de vários dias se necessário."
+        }
+      ],
+      "titleDe": "Hundebetreuung in Göreme",
+      "introDe": "Haustierbetreuung in Göreme läuft vor allem informell über das Personal der Höhlenhotels. Da fast jede kappadokische Attraktion im Freien und mit Hund zugänglich ist, braucht man eine Betreuung wirklich nur während der Heißluftballonfahrt (1,5 Stunden) und bei Besuchen der unterirdischen Städte.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Höhlenhotel während der Ballonfahrt auf meinen Hund aufpassen?",
+          "a": "In fast allen Fällen ja. Beim Check-in bestätigen; die meisten Höhlenhotels haben einen sicheren Innenhof und ein Personal, das mit Hunden vertraut ist. Klare Fütterungs- und Betreuungshinweise hinterlassen."
+        },
+        {
+          "q": "Gibt es eine Hundepension in der Nähe von Göreme?",
+          "a": "In Göreme oder Ürgüp gibt es keine professionelle Hundepension. Nevşehir (40 km) hat eventuell Optionen; das Hotel bitten, bei Bedarf für eine mehrtägige Unterbringung Kontakt aufzunehmen."
+        }
       ]
     }
   }

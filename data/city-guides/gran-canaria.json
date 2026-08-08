@@ -39,7 +39,11 @@
           "tipFr": "Réservez une table côté canal au coucher du soleil ; la lumière de Mogán fait tout.",
           "tipEs": "Reserva una mesa junto al canal al atardecer; la luz de Mogán lo es todo.",
           "tipPt": "Reserve uma mesa junto ao canal ao pôr do sol; a luz de Mogán é tudo.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Los+Guayres+Puerto+de+Mogan"
+          "googleMapsUrl": "https://www.google.com/maps/search/Los+Guayres+Puerto+de+Mogan",
+          "descriptionDe": "Ein anspruchsvolles kanarisches Terrassenrestaurant im Yachthafen von Mogán, das moderne Interpretationen von Inselprodukten, lokalem Fisch und Ziege anbietet. Die Terrasse am Wasser zwischen den Kanälen ist der Platz der Wahl; gut erzogene angeleinte Hunde sind an den Außentischen willkommen.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse am Wasser willkommen.",
+          "mustTryDe": "Frischer Fisch des Tages und die kanarische Ziege mit papas arrugadas.",
+          "tipDe": "Buchen Sie bei Sonnenuntergang einen Tisch am Kanal; das Licht von Mogán ist der eigentliche Grund für den Besuch."
         },
         {
           "name": "La Marinera",
@@ -65,7 +69,11 @@
           "tipFr": "Demandez les tables de terrasse au-dessus de l'eau ; elles partent en premier les soirs doux.",
           "tipEs": "Pide las mesas de la terraza sobre el agua; se ocupan primero en las noches templadas.",
           "tipPt": "Peça as mesas da esplanada sobre a água; ocupam-se primeiro nas noites amenas.",
-          "googleMapsUrl": "https://www.google.com/maps/search/La+Marinera+Las+Canteras+Las+Palmas"
+          "googleMapsUrl": "https://www.google.com/maps/search/La+Marinera+Las+Canteras+Las+Palmas",
+          "descriptionDe": "Ein klassisches Fischrestaurant am La-Puntilla-Ende der Playa de Las Canteras, das mit seinen Terrassen fast über dem Atlantik thront. Bekannt für gegrillten Fisch, Paella und cazuela; angeleinte Hunde sind auf der zum Meer gewandten Außenterrasse willkommen.",
+          "petPolicyDe": "Angeleinte Hunde auf der zum Meer gewandten Terrasse willkommen.",
+          "mustTryDe": "Gegrillte vieja (Papageifisch) und Meeresfrüchte-Paella.",
+          "tipDe": "Bitten Sie um die Terrassentische über dem Wasser; sie sind an warmen Abenden zuerst vergeben."
         },
         {
           "name": "Anno Domini",
@@ -91,7 +99,11 @@
           "tipFr": "Les soirées sont plus calmes que l'affluence du déjeuner ; demandez une gamelle d'eau pour le chien.",
           "tipEs": "Las noches son más tranquilas que el ajetreo del mediodía; pide un cuenco de agua para el perro.",
           "tipPt": "As noites são mais calmas que o corropio do almoço; peça uma tigela de água para o cão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Anno+Domini+Playa+del+Ingles"
+          "googleMapsUrl": "https://www.google.com/maps/search/Anno+Domini+Playa+del+Ingles",
+          "descriptionDe": "Ein seit langem bestehendes Terrassenrestaurant im Herzen der Südresort-Meile, das kanarische und internationale Gerichte auf einer großzügig schattigen Terrasse verbindet. Ein verlässlicher, entspannter Ort zum Abendessen für Reisende in den Resorts; angeleinte Hunde sind auf der Außenterrasse willkommen.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen.",
+          "mustTryDe": "Kanarischer gegrillter Fisch und die hauseigene Dessertauswahl.",
+          "tipDe": "Abends ist es ruhiger als beim Mittagsansturm der Resortgäste; bitten Sie um einen Wassernapf für den Hund."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Preciso de pôr açaime no cão à mesa?",
           "a": "Não, mas as regras canárias exigem açaime e trela curta nos espaços públicos para os cães classificados como potencialmente perigosos (raças PPP). Leve o açaime à mão se o seu cão entrar nessa categoria."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants auf Gran Canaria",
+      "introDe": "Das ganzjährig milde Wetter macht Terrassenessen auf Gran Canaria zum Standard, und die meisten der schönsten Momente mit Hund auf der Insel finden im Freien statt, mit einem angeleinten Hund zu Ihren Füßen. Die Südresorts Maspalomas, Playa del Inglés und Meloneras leben von offenen Promenaden und Beachclub-Terrassen, das Kanaldorf Puerto de Mogán ist wie geschaffen für ein gemütliches Mittagessen, und Las Palmas verbindet die belebte Promenade der Playa de Las Canteras mit den Tapas-Gassen der Altstadt Vegueta. Die kanarische Küche dreht sich um papas arrugadas con mojo, frischen Fisch, Gofio und Ziegenkäse.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants auf Gran Canaria erlaubt?",
+          "a": "Auf Terrassen ja, fast überall in den Südresorts, in Puerto de Mogán und entlang der Promenade von Las Canteras für angeleinte Hunde. Der Zutritt im Innenbereich hängt vom jeweiligen Betreiber ab, doch bei ganzjährig warmem Wetter findet ohnehin das meiste im Freien statt."
+        },
+        {
+          "q": "Muss mein Hund am Tisch einen Maulkorb tragen?",
+          "a": "Nein, aber die Vorschriften der Kanarischen Inseln verlangen, dass als potenziell gefährlich eingestufte Hunde (PPP-Rassen) in öffentlichen Räumen einen Maulkorb tragen und an kurzer Leine geführt werden. Halten Sie den Maulkorb bereit, falls Ihr Hund in diese Kategorie fällt."
+        }
       ]
     },
     "parks": {
@@ -183,7 +207,10 @@
           "tipFr": "À combiner avec la place du Pueblo Canario voisine et le paseo de Las Canteras pour une journée canine en ville.",
           "tipEs": "Combínalo con la plaza del Pueblo Canario cercana y el paseo de Las Canteras para un día canino completo en la ciudad.",
           "tipPt": "Combine com a praça do Pueblo Canario vizinha e o passeio de Las Canteras para um dia canino completo na cidade.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Parque+Doramas+Las+Palmas"
+          "googleMapsUrl": "https://www.google.com/maps/search/Parque+Doramas+Las+Palmas",
+          "descriptionDe": "Der bekannteste zentrale Park von Las Palmas, ein subtropischer Garten mit Drachenbäumen, Palmen und Teichen zwischen dem Hotel Santa Catalina und dem Pueblo Canario. Eine schattige, leichte angeleinte Runde im Herzen der Stadt, beliebt bei lokalen Hundehaltern in den kühleren Stunden.",
+          "offLeashAreaDe": "Leinenpflicht im gesamten Park.",
+          "tipDe": "Kombinieren Sie den Besuch mit dem nahen Platz Pueblo Canario und der Promenade von Las Canteras für einen vollen Stadttag mit Hund."
         },
         {
           "name": "Roque Nublo trail (Sendero de la Goleta)",
@@ -203,7 +230,10 @@
           "tipFr": "Partez tôt ; les nuages montent souvent à midi et le petit parking de La Goleta se remplit vite.",
           "tipEs": "Empieza temprano; las nubes suelen subir al mediodía y el pequeño aparcamiento de La Goleta se llena rápido.",
           "tipPt": "Comece cedo; as nuvens sobem muitas vezes ao meio-dia e o pequeno parque de La Goleta enche depressa.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Roque+Nublo+sendero+La+Goleta"
+          "googleMapsUrl": "https://www.google.com/maps/search/Roque+Nublo+sendero+La+Goleta",
+          "descriptionDe": "Der klassische, 1,5 km lange Weg zum Fuß des Roque Nublo, dem 80 m hohen vulkanischen Monolithen, der das spirituelle Wahrzeichen der Insel ist, auf rund 1.800 m Höhe. Angeleinte Hunde sind auf dem gut markierten Weg willkommen; die kühle Bergluft ist eine Erholung von der Küstenhitze, und die Ausblicke über ein Wolkenmeer Richtung Teide auf Teneriffa sind außergewöhnlich.",
+          "offLeashAreaDe": "Leinenpflicht; das Gebiet ist ein geschützter Naturraum.",
+          "tipDe": "Starten Sie früh; oft ziehen bis mittags Wolken auf, und der kleine Parkplatz bei La Goleta ist schnell voll."
         },
         {
           "name": "Parque Canino de San Fernando de Maspalomas",
@@ -223,7 +253,10 @@
           "tipFr": "Allez-y le matin ou le soir au frais ; la surface clôturée chauffe à midi en été.",
           "tipEs": "Ve por la mañana o tarde al fresco; la superficie vallada se calienta al mediodía en verano.",
           "tipPt": "Vá de manhã ou ao fim do dia com fresco; a superfície vedada aquece ao meio-dia no verão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Parque+canino+San+Fernando+de+Maspalomas"
+          "googleMapsUrl": "https://www.google.com/maps/search/Parque+canino+San+Fernando+de+Maspalomas",
+          "descriptionDe": "Ein eingezäunter kommunaler Hundeauslauf in San Fernando de Maspalomas, dem Wohnkern hinter den Südresorts, wo Hunde in einem gesicherten Bereich mit Schatten und Wasser frei laufen können. Die praktischste Freilaufoption für Reisende mit Basis rund um Maspalomas und Playa del Inglés.",
+          "offLeashAreaDe": "Eingezäunter Freilaufbereich mit Schatten und Wasserstellen.",
+          "tipDe": "Gehen Sie in den kühleren Morgen- oder Abendstunden; der eingezäunte Untergrund heizt sich im Sommer mittags stark auf."
         }
       ],
       "tipsEn": [
@@ -284,6 +317,18 @@
         {
           "q": "O meu cão pode caminhar nas dunas de Maspalomas?",
           "a": "Não. O campo de dunas é uma reserva natural especial protegida onde não se admitem cães, para proteger o ecossistema frágil e as aves nidificantes. Ainda assim pode aproveitar vistas espetaculares à trela desde os passeios do perímetro e os passadiços do farol."
+        }
+      ],
+      "titleDe": "Hundefreundliche Parks & Grünflächen auf Gran Canaria",
+      "introDe": "Gran Canaria wird auch der Miniaturkontinent genannt: In unter einer Stunde geht es von den südlichen Dünen zu kieferbewaldeten Bergen. Für Spaziergänge mit Hund verbindet die Insel begrünte Stadtparks in Las Palmas mit eindrucksvollen Bergpfaden rund um den Roque Nublo und das gepflasterte Bergdorf Tejeda. Einige Gemeinden betreiben eingezäunte Freilaufbereiche für Hunde (parques caninos); anderswo gilt Leinenpflicht, und das geschützte Dünengebiet von Maspalomas ist für Hunde tabu.",
+      "faqsDe": [
+        {
+          "q": "Gibt es auf Gran Canaria einen Hundepark ohne Leine?",
+          "a": "Ja. Mehrere Gemeinden betreiben eingezäunte parques caninos, darunter einer in San Fernando de Maspalomas, praktisch für die Südresorts, sowie weitere im Raum Las Palmas. Anderswo müssen Hunde in öffentlichen Räumen angeleint bleiben."
+        },
+        {
+          "q": "Darf mein Hund auf den Dünen von Maspalomas laufen?",
+          "a": "Nein. Das Dünengebiet ist ein geschütztes Naturschutzgebiet, in dem Hunde nicht erlaubt sind, um das empfindliche Ökosystem und brütende Vögel zu schützen. Sie können dennoch spektakuläre Ausblicke an der Leine von den Randpromenaden und den Bohlenwegen am Leuchtturm genießen."
         }
       ]
     },
@@ -391,6 +436,18 @@
           "q": "Preciso de papelada especial para voar para Gran Canaria com um cão?",
           "a": "Sem quarentena para animais da UE. Leve passaporte europeu, microchip ISO e vacina antirrábica em dia. Confirme as regras de cabina ou porão, o tamanho da transportadora e as tarifas com a sua companhia e reserve o lugar do animal ao reservar o voo."
         }
+      ],
+      "titleDe": "Mit Hund auf Gran Canaria unterwegs",
+      "introDe": "Gran Canaria ist eine vollwertige Insel, die meisten Reisenden fliegen daher zum Flughafen Gran Canaria (LPA), einem wichtigen Charter-Drehkreuz im Winter zwischen Las Palmas und den südlichen Resorts. Ein Mietwagen ist die einfachste Art, von den Dünen bis in die Berge zu erkunden; die grünen Global-Busse (guaguas) der Insel nehmen kleine Haustiere in einer Transportbox mit, und die Fähren von Fred Olsen und Naviera Armas zwischen den Inseln verbinden Gran Canaria mit Teneriffa und den übrigen Kanaren mit eigenen Haustierregeln. Da Spanien Teil der EU ist, deckt ein EU-Heimtierausweis die Reise ohne Quarantäne ab.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund in den Bussen auf Gran Canaria mitnehmen?",
+          "a": "Kleine Haustiere reisen in einer geschlossenen Transportbox in den grünen Global-Überlandbussen und den Guaguas Municipales von Las Palmas. Größere Hunde werden im Busnetz generell nicht befördert, sodass für sie ein Mietwagen oder ein haustierfreundliches Taxi die praktische Wahl ist."
+        },
+        {
+          "q": "Brauche ich besondere Papiere, um mit Hund nach Gran Canaria zu fliegen?",
+          "a": "Keine Quarantäne für EU-Haustiere. Bringen Sie den EU-Heimtierausweis, einen ISO-Mikrochip und eine gültige Tollwutimpfung mit. Klären Sie Kabinen- oder Frachtraumregeln, Boxengröße und Gebühren mit Ihrer Fluggesellschaft und buchen Sie den Tierplatz zusammen mit dem Flug."
+        }
       ]
     },
     "beaches": {
@@ -473,6 +530,18 @@
           "q": "O meu cão pode ir à praia de Maspalomas ou de Las Canteras?",
           "a": "Não na areia balnear vigiada. Ambas proíbem os cães nas suas zonas balneares principais, e a reserva das dunas de Maspalomas é totalmente proibida. Ainda assim pode percorrer o passeio de Las Canteras e os passeios do perímetro de Maspalomas à trela pelas vistas."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände auf Gran Canaria",
+      "introDe": "Gran Canarias Flaggschiff-Strände, der 3 km lange städtische Streifen der Playa de Las Canteras in Las Palmas und der berühmte goldene Bogen unter den Dünen von Maspalomas, lassen Hunde in ihren überwachten Badebereichen nicht zu. Doch die Insel hat ausgewiesene Hundestrände (playas para perros), an denen Hunde ganzjährig schwimmen und laufen dürfen, am bekanntesten sind der breite, ruhige El Burrero an der Ostküste und die kleine Playa del Cardón nahe Arguineguín im Südwesten. Prüfen Sie stets die aktuelle Beschilderung des Cabildo, da sich die Ausweisungen von Saison zu Saison ändern können.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich mit meinem Hund an den Strand auf Gran Canaria?",
+          "a": "Fahren Sie zu einem ausgewiesenen Hundestrand (playa para perros). Am bekanntesten sind El Burrero an der Ostküste nahe dem Flughafen und Playa del Cardón nahe Arguineguín im Südwesten, wo Hunde ganzjährig schwimmen und laufen dürfen. Die großen Resortstrände Las Canteras und Maspalomas lassen Hunde auf dem überwachten Sand nicht zu."
+        },
+        {
+          "q": "Darf mein Hund an den Strand von Maspalomas oder Las Canteras?",
+          "a": "Nicht auf den überwachten Badesand. Beide verbieten Hunde in ihren Hauptbadezonen, und das Dünenschutzgebiet von Maspalomas ist vollständig tabu. Sie können dennoch die Strandpromenade von Las Canteras und die Randpromenaden von Maspalomas an der Leine für die Ausblicke entlanggehen."
+        }
       ]
     },
     "vets": {
@@ -524,7 +593,10 @@
           "tipEs": "Guarda el número antes de llegar; es el principal centro de referencia 24 horas de la capital.",
           "tipPt": "Guarde o número antes de chegar; é o principal centro de referência 24 horas da capital.",
           "googleMapsUrl": "https://www.google.com/maps/search/AniCura+Albea+Hospital+Veterinario+Las+Palmas",
-          "photo": "/images/city-places/gran-canaria-vets-anicura-albea-hospital-veterinario.jpg"
+          "photo": "/images/city-places/gran-canaria-vets-anicura-albea-hospital-veterinario.jpg",
+          "hoursDe": "24-Stunden-Notfallklinik, jeden Tag im Jahr.",
+          "descriptionDe": "Ein vollwertiges 24-Stunden-Tierkrankenhaus in Las Palmas, Teil des AniCura-Netzwerks, mit Notfalldienst, Intensivstation, Chirurgie, innerer Medizin und Bildgebung. Das wichtigste Referenzzentrum für schwere Notfälle in der Hauptstadt und im Norden der Insel.",
+          "tipDe": "Speichern Sie die Nummer vor der Anreise; es ist das wichtigste 24-Stunden-Referenzzentrum in der Hauptstadt."
         },
         {
           "name": "Hospital Veterinario Benartemi (Medivet)",
@@ -550,7 +622,10 @@
           "tipEs": "Es el hospital 24 horas más práctico para los viajeros alojados en el sur; calcula unos 15-20 minutos en coche desde Maspalomas.",
           "tipPt": "É o hospital 24 horas mais prático para os viajantes alojados no sul; conte cerca de 15-20 minutos de carro desde Maspalomas.",
           "googleMapsUrl": "https://www.google.com/maps/search/Hospital+Veterinario+Benartemi+Vecindario",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "24-Stunden-Notfallklinik, jeden Tag im Jahr.",
+          "descriptionDe": "Ein 24-Stunden-Tierkrankenhaus in Vecindario, Teil des Medivet-Netzwerks, das nächstgelegene vollwertige Notfallkrankenhaus zu den südlichen Resorts von Maspalomas und Playa del Inglés, mit Intensivstation, Chirurgie und Bildgebung.",
+          "tipDe": "Dies ist das praktischste 24-Stunden-Krankenhaus für Reisende im Süden; rechnen Sie mit etwa 15-20 Minuten Fahrzeit ab Maspalomas."
         },
         {
           "name": "Centro Veterinario Vista Cumbre",
@@ -576,7 +651,10 @@
           "tipEs": "Buena para necesidades rutinarias en el sur; para una urgencia nocturna, llama primero al hospital 24 horas de Vecindario.",
           "tipPt": "Boa para necessidades de rotina no sul; para uma urgência noturna, telefone primeiro ao hospital 24 horas de Vecindario.",
           "googleMapsUrl": "https://www.google.com/maps/search/Centro+Veterinario+Vista+Cumbre+San+Fernando+Maspalomas",
-          "photo": "/images/city-places/gran-canaria-vets-centro-veterinario-vista-cumbre.jpg"
+          "photo": "/images/city-places/gran-canaria-vets-centro-veterinario-vista-cumbre.jpg",
+          "hoursDe": "Aktuelle Öffnungszeiten prüfen; Tagesklinik im Herzen der Südresorts.",
+          "descriptionDe": "Eine Nachbarschaftstierarztpraxis in San Fernando de Maspalomas, gut gelegen für Routine- und Alltagsversorgung von Reisenden mit Basis in den Südresorts: Impfungen, Vorsorgeuntersuchungen, kleinere Probleme und Beratung vor dem Rückflug.",
+          "tipDe": "Gut für Routinebedarf im Süden; rufen Sie bei einem nächtlichen Notfall zuerst das 24-Stunden-Krankenhaus in Vecindario an."
         }
       ],
       "faqsEn": [
@@ -617,6 +695,18 @@
         {
           "q": "Que documentos precisa o meu cão para entrar em Gran Canaria?",
           "a": "Para animais da UE, passaporte europeu, microchip e vacina antirrábica em dia, sem quarentena. Os animais de fora da UE precisam de certificado sanitário UE e, conforme o país de origem, possível teste serológico da raiva; consulte as regras oficiais espanholas antes de viajar."
+        }
+      ],
+      "titleDe": "Tierärzte & Notfallversorgung auf Gran Canaria",
+      "introDe": "Gran Canaria ist tiermedizinisch gut versorgt, mit zwei 24-Stunden-Kliniken (eine in Las Palmas, eine im südlichen Raum Vecindario nahe den Resorts) und guten Praxen rund um Maspalomas. Da Spanien Teil der EU ist, reicht den meisten europäischen Wintersonne-Reisenden ein EU-Heimtierausweis mit aktueller Tollwutimpfung und Mikrochip, ohne Quarantäne.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Tierarzt auf Gran Canaria?",
+          "a": "Ja, gleich zwei. AniCura Albea Hospital Veterinario in Las Palmas (+34 928 26 28 20) deckt die Hauptstadt und den Norden ab, und Hospital Veterinario Benartemi (Medivet) in Vecindario (+34 928 79 31 48) ist das nächstgelegene 24-Stunden-Krankenhaus zu den südlichen Resorts."
+        },
+        {
+          "q": "Welche Papiere braucht mein Hund für die Einreise nach Gran Canaria?",
+          "a": "Für EU-Haustiere einen EU-Heimtierausweis, einen Mikrochip und eine gültige Tollwutimpfung, ohne Quarantäne. Nicht-EU-Haustiere benötigen ein EU-Gesundheitszeugnis und je nach Herkunftsland eventuell einen Tollwut-Titertest; prüfen Sie vor der Reise die offiziellen spanischen Bestimmungen."
         }
       ]
     },
@@ -721,6 +811,18 @@
           "q": "É complicado levar o meu cão às Canárias?",
           "a": "Para os viajantes da UE, não. As Canárias fazem parte de Espanha e da UE, por isso não há quarentena: leve passaporte europeu, microchip ISO e vacina antirrábica em dia. O passo principal é confirmar as regras de animais da sua companhia e reservar o lugar do animal com o seu voo."
         }
+      ],
+      "titleDe": "Praktische Tipps für Gran Canaria mit Hund",
+      "introDe": "Gran Canaria ist eines von Europas führenden ganzjährigen Wintersonnenzielen, und für EU-Reisende ist es herrlich unkompliziert: Heimtierausweis, Mikrochip, Tollwut, keine Quarantäne, und zwei Wochen mit 22 Grad im Januar. Planen Sie um drei Dinge herum: Hitze und Sonne (selbst im Winter), die Regeln dazu, welche Strände und Dünengebiete Hunde nutzen dürfen, und die enorme Höhenspanne der Insel, wo die kühlen Berge rund um Roque Nublo und Tejeda einen willkommenen Kontrast zur Resortküste bieten.",
+      "faqsDe": [
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch auf Gran Canaria mit Hund?",
+          "a": "Oktober bis April, die Wintersonnensaison, ist ideal: milde 20-24 Grad, sanfte Wärme und eine ruhigere Insel als in der Sommersaison. Das Klima ist ganzjährig mild, doch die Mittagshitze im Sommer erfordert sehr frühe oder späte Spaziergänge und reichlich Wasser."
+        },
+        {
+          "q": "Ist es kompliziert, meinen Hund auf die Kanarischen Inseln zu bringen?",
+          "a": "Für EU-Reisende nein. Die Kanaren gehören zu Spanien und zur EU, es gibt also keine Quarantäne: Bringen Sie den EU-Heimtierausweis, einen ISO-Mikrochip und eine gültige Tollwutimpfung mit. Der wichtigste Schritt ist, die Haustierregeln Ihrer Fluggesellschaft zu bestätigen und den Tierplatz mit dem Flug zu buchen."
+        }
       ]
     },
     "attractions": {
@@ -754,7 +856,11 @@
           "tipFr": "Venez au coucher du soleil ; la lumière des dunes à l'heure dorée est la plus belle expérience gratuite du sud.",
           "tipEs": "Ven al atardecer; la luz de las dunas a la hora dorada es la mejor experiencia gratis del sur.",
           "tipPt": "Venha ao pôr do sol; a luz das dunas à hora dourada é a melhor experiência grátis do sul.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Faro+de+Maspalomas"
+          "googleMapsUrl": "https://www.google.com/maps/search/Faro+de+Maspalomas",
+          "descriptionDe": "Der 1890 errichtete Leuchtturm von Maspalomas verankert die Südspitze der Insel, wo eine breite Promenade und Bohlenwege den Rand des berühmten Dünenschutzgebiets säumen. Hunde sind im geschützten Dünengebiet oder am Badestrand nicht erlaubt, doch die Randpromenaden und der Platz am Leuchtturm sind für angeleinte Hunde offen und bieten die besten Sonnenuntergangsblicke, wo die Dünen auf das Meer treffen.",
+          "dogPolicyDe": "Angeleinte Hunde auf den Randpromenaden und dem Leuchtturmplatz willkommen; im Dünenschutzgebiet und am Badestrand nicht erlaubt.",
+          "admissionFeeDe": "Kostenlos (Freiluftpromenade).",
+          "tipDe": "Kommen Sie zum Sonnenuntergang; das Dünenlicht zur goldenen Stunde ist das beste kostenlose Erlebnis im Süden."
         },
         {
           "name": "Vegueta old town",
@@ -777,7 +883,11 @@
           "tipFr": "À combiner avec la rue commerçante voisine de Triana et le paseo en bord de mer pour une journée en ville en laisse.",
           "tipEs": "Combínalo con la cercana calle comercial de Triana y el paseo marítimo para un día de ciudad completo con perro.",
           "tipPt": "Combine com a vizinha rua comercial de Triana e o passeio marítimo para um dia de cidade completo à trela.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Vegueta+Las+Palmas"
+          "googleMapsUrl": "https://www.google.com/maps/search/Vegueta+Las+Palmas",
+          "descriptionDe": "Das gründungsgeschichtliche Herz von Las Palmas, ein UNESCO-vorgeschlagenes Rasterviertel aus gepflasterten Gassen rund um die Plaza de Santa Ana und die Catedral de Santa Ana, wo Kolumbus vor der Fahrt nach Westen gebetet haben soll. Ein kostenloses, komplett im Freien liegendes Labyrinth aus historischen Fassaden, Plätzen und dem Sonntagsmarkt; wie geschaffen für einen angeleinten Rundgang mit Hund und einen entspannten Stopp an einem Terrassencafé.",
+          "dogPolicyDe": "Angeleinte Hunde auf allen Straßen und Plätzen willkommen; Museumsinnenräume eingeschränkt.",
+          "admissionFeeDe": "Kostenlos (Straßen und Plätze).",
+          "tipDe": "Kombinieren Sie den Besuch mit der nahen Einkaufsstraße Triana und der Strandpromenade für einen vollen angeleinten Stadttag."
         },
         {
           "name": "Puerto de Mogán",
@@ -800,7 +910,11 @@
           "tipFr": "Allez-y un vendredi pour le marché, ou un soir pour un dîner tranquille au bord du canal avec le chien à vos pieds.",
           "tipEs": "Ve un viernes por el mercadillo, o cualquier noche para una cena tranquila junto al canal con el perro a tus pies.",
           "tipPt": "Vá numa sexta pelo mercado, ou qualquer noite para um jantar tranquilo junto ao canal com o cão aos seus pés.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Puerto+de+Mogan"
+          "googleMapsUrl": "https://www.google.com/maps/search/Puerto+de+Mogan",
+          "descriptionDe": "Das von Kanälen durchzogene Fischerdorf, das wegen seiner Kanäle das kleine Venedig Gran Canarias genannt wird, mit weißgetünchten, bougainvilleaüberrankten Häusern, Fußgängerbrücken, einem Yachthafen und einem kleinen Strand. Ein komplett im Freien liegender Spaziergang, der frei an der Leine begehbar ist, mit Terrassencafés ringsum; der Freitagsmorgenmarkt ist der berühmteste der Insel.",
+          "dogPolicyDe": "Angeleinte Hunde in den Dorfstraßen, auf den Brücken und im Yachthafen willkommen.",
+          "admissionFeeDe": "Kostenlos.",
+          "tipDe": "Kommen Sie freitags für den Markt oder an einem beliebigen Abend für ein ruhiges Abendessen am Kanal mit dem Hund zu Ihren Füßen."
         }
       ],
       "tipsEn": [
@@ -862,6 +976,18 @@
           "q": "Que atrações de Gran Canaria aceitam cães?",
           "a": "O casco antigo de Vegueta em Las Palmas, a aldeia de canais de Puerto de Mogán, os passeios do farol de Maspalomas e os trilhos de montanha à volta do Roque Nublo e Tejeda aceitam todos cães à trela. A maioria das experiências de eleição da ilha é ao ar livre e dog-friendly."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten auf Gran Canaria",
+      "introDe": "Das meiste, was Gran Canaria besonders macht, ist im Freien und leinenfreundlich: die gepflasterte Altstadt Vegueta in Las Palmas, das Kanaldorf Puerto de Mogán, die Bohlenweg-Aussichtspunkte über den Dünen von Maspalomas und das vulkanische Hochland rund um Roque Nublo und Tejeda. Das Flaggschiff-Dünenschutzgebiet und einige geschlossene Museen schränken Hunde ein, doch die Schlüsselerlebnisse der Insel sind fast alle mit Hund an der Leine begehbar.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund auf die Dünen von Maspalomas mitnehmen?",
+          "a": "Nein. Das Dünengebiet ist ein geschütztes Naturschutzgebiet, in dem Hunde nicht erlaubt sind, und auch der angrenzende Badestrand verbietet sie. Sie können dennoch die besten Ausblicke an der Leine von den Randpromenaden und den Bohlenwegen am Faro de Maspalomas genießen, besonders bei Sonnenuntergang."
+        },
+        {
+          "q": "Welche Sehenswürdigkeiten auf Gran Canaria sind hundefreundlich?",
+          "a": "Die Altstadt Vegueta in Las Palmas, das Kanaldorf Puerto de Mogán, die Leuchtturmpromenaden von Maspalomas und die Bergpfade rund um Roque Nublo und Tejeda heißen alle angeleinte Hunde willkommen. Die meisten Schlüsselerlebnisse der Insel sind im Freien und hundefreundlich."
+        }
       ]
     },
     "petsitting": {
@@ -893,7 +1019,10 @@
           "tip": "Read recent reviews and message the sitter first; availability tightens over Christmas and Easter peaks.",
           "tipFr": "Lisez les avis récents et contactez d'abord le sitter ; la disponibilité se resserre aux pics de Noël et de Pâques.",
           "tipEs": "Lee las opiniones recientes y escribe primero al cuidador; la disponibilidad se reduce en los picos de Navidad y Semana Santa.",
-          "tipPt": "Leia as avaliações recentes e contacte primeiro o cuidador; a disponibilidade aperta nos picos de Natal e Páscoa."
+          "tipPt": "Leia as avaliações recentes e contacte primeiro o cuidador; a disponibilidade aperta nos picos de Natal e Páscoa.",
+          "descriptionDe": "Eine Online-Plattform, die Hundebesitzer mit geprüften lokalen Sittern und Gassigehern in ganz Gran Canaria verbindet, mit Unterbringung, Tagesbetreuung und Spaziergängen. Nur ein kleiner Teil der Bewerber-Sitter wird zugelassen, und jede Buchung ist durch eine Tierarztversicherung abgesichert, nützlich für einen Tag an einer Attraktion bei Maspalomas oder als Puffer vor dem Rückflug.",
+          "serviceTypeDe": "Unterbringung, Tagesbetreuung und Gassigehen",
+          "tipDe": "Lesen Sie aktuelle Bewertungen und schreiben Sie dem Sitter zuerst; die Verfügbarkeit wird über Weihnachten und Ostern knapper."
         },
         {
           "name": "Rover",
@@ -914,7 +1043,10 @@
           "tip": "Filter by sitters who accept your dog's size and arrange a short meet-and-greet on your arrival day.",
           "tipFr": "Filtrez les sitters acceptant la taille de votre chien et organisez une courte rencontre le jour de votre arrivée.",
           "tipEs": "Filtra por cuidadores que acepten el tamaño de tu perro y organiza un breve encuentro el día de tu llegada.",
-          "tipPt": "Filtre por cuidadores que aceitem o tamanho do seu cão e marque um breve encontro no dia da chegada."
+          "tipPt": "Filtre por cuidadores que aceitem o tamanho do seu cão e marque um breve encontro no dia da chegada.",
+          "descriptionDe": "Ein großes internationales Netzwerk aus Tiersittern und Gassigehern mit Betreuungspersonen in ganz Gran Canaria, das Unterbringung, Haussitting, Kurzbesuche und Spaziergänge anbietet. Profile, Bewertungen und sichere In-App-Zahlung machen es einfach, einen Sitter für einen Tag an den Dünen oder eine Übergabe am Flugtag zu buchen.",
+          "serviceTypeDe": "Unterbringung, Haussitting, Besuche und Spaziergänge",
+          "tipDe": "Filtern Sie nach Sittern, die die Größe Ihres Hundes akzeptieren, und vereinbaren Sie am Ankunftstag ein kurzes Kennenlerntreffen."
         }
       ],
       "tipsEn": [
@@ -975,6 +1107,18 @@
         {
           "q": "Convém reservar o cuidado com antecedência?",
           "a": "Sim, sobretudo nos picos de Natal, Ano Novo e Páscoa, quando a procura de sol de inverno é maior. Faça primeiro um breve encontro para que o seu cão fique à vontade com o cuidador, e deixe um número de veterinário 24 horas em caso de urgência."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassiservice auf Gran Canaria",
+      "introDe": "Gran Canaria hat einen gesunden Markt für Tierbetreuung, getragen von seiner großen ansässigen Gemeinschaft und Expat-Community sowie dem ganzjährigen Touristenstrom: Die großen Online-Plattformen (Gudog, Rover) listen geprüfte Sitter und Gassigeher in ganz Las Palmas und den südlichen Resorts, ideal, wenn Sie einen Tag an einer haustierfreien Attraktion oder einem Strand verbringen möchten, an dem Hunde nicht erlaubt sind. Frühzeitiges Buchen ist über Weihnachten und Ostern wichtig, die verkehrsreichsten Wintersonnenwochen.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter auf Gran Canaria?",
+          "a": "Nutzen Sie Online-Plattformen wie Gudog oder Rover, die geprüfte lokale Sitter und Gassigeher in ganz Las Palmas und den südlichen Resorts mit Bewertungen und sicherer Zahlung auflisten. Buchen Sie mindestens 1-2 Wochen im Voraus, über Weihnachten, Neujahr und Ostern mehr."
+        },
+        {
+          "q": "Sollte ich Tierbetreuung im Voraus buchen?",
+          "a": "Ja, besonders über die Spitzenzeiten Weihnachten, Neujahr und Ostern, wenn die Wintersonnennachfrage am höchsten ist. Vereinbaren Sie zunächst ein kurzes Kennenlerntreffen, damit sich Ihr Hund an den Sitter gewöhnt, und hinterlassen Sie eine 24-Stunden-Tierarztnummer für Notfälle."
         }
       ]
     }

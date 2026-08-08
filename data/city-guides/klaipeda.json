@@ -37,7 +37,11 @@
           "descriptionPt": "Um pub descontraído da Cidade Velha, num edifício histórico reconvertido mesmo junto ao rio Dane, popular entre os locais pela cerveja artesanal e pela comida de pub. Os cães são visivelmente bem-vindos: os clientes referem que a equipa traz uma taça de água sem ser preciso pedir na esplanada virada para o passeio ribeirinho.",
           "petPolicyPt": "Cães bem-vindos na esplanada ribeirinha; cães calmos com trela referidos dentro do pub nos meses mais frios.",
           "mustTryPt": "Cerveja artesanal local e hambúrguer de pub.",
-          "tipPt": "Sente-se na esplanada virada para o rio Dane para a melhor vista e o ritmo sem pressas; pergunte à equipa em inglês, muito falado nos espaços turísticos."
+          "tipPt": "Sente-se na esplanada virada para o rio Dane para a melhor vista e o ritmo sem pressas; pergunte à equipa em inglês, muito falado nos espaços turísticos.",
+          "descriptionDe": "Eine lockere Altstadtkneipe in einem umgebauten historischen Gebäude direkt am Fluss Dane, bei Einheimischen für Craft Beer und Pub-Food beliebt. Hunde sind sichtbar willkommen: Rezensenten berichten, dass das Personal auf der zum Uferweg gerichteten Terrasse unaufgefordert einen Wassernapf bringt.",
+          "petPolicyDe": "Hunde willkommen auf der Terrasse am Fluss; wohlerzogene angeleinte Hunde werden in kälteren Monaten auch drinnen gemeldet.",
+          "mustTryDe": "Lokales Craft Beer und Pub-Burger.",
+          "tipDe": "Auf der zum Fluss Dane gerichteten Terrasse sitzen für die beste Aussicht und das entspannteste Tempo; das Personal auf Englisch ansprechen, weithin gesprochen in touristisch orientierten Lokalen."
         },
         {
           "name": "Draugiski Gyvunams network venues",
@@ -63,7 +67,11 @@
           "descriptionPt": "O registo nacional oficial pet-friendly, iniciado por amantes de animais lituanos em 2017, lista todos os cafés, restaurantes e lojas com o autocolante verde Draugiski Gyvunams. O site (só em lituano) autoriza filtrar por cidade; o mapa de Klaipeda inclui vários cafés e padarias da Cidade Velha.",
           "petPolicyPt": "Autocolante na porta = cães explicitamente bem-vindos ao critério do dono; espera-se geralmente que andem com trela e calmos.",
           "mustTryPt": "Use o mapa do site para identificar espaços com autocolante perto do seu hotel.",
-          "tipPt": "Use o modo câmara do Google Translate nos anúncios só em lituano; o autocolante verde do cão na porta é o sinal universal."
+          "tipPt": "Use o modo câmara do Google Translate nos anúncios só em lituano; o autocolante verde do cão na porta é o sinal universal.",
+          "descriptionDe": "Das offizielle nationale Register für haustierfreundliche Orte, gestartet 2017 von litauischen Tierfreunden, listet jedes Café, Restaurant und Geschäft mit dem grünen Draugiski-Gyvunams-Aufkleber. Die Website (nur Litauisch) lässt sich nach Stadt filtern; die Karte für Klaipeda umfasst mehrere Cafés und Bäckereien in der Altstadt.",
+          "petPolicyDe": "Aufkleber an der Tür = Hunde ausdrücklich willkommen nach Ermessen des Betreibers; meist wird angeleint und ruhig erwartet.",
+          "mustTryDe": "Die Kartenansicht der Website nutzen, um Lokale mit Aufkleber in der Nähe des Hotels zu finden.",
+          "tipDe": "Den Kameramodus von Google Translate für die nur litauischen Einträge nutzen; der grüne Hundeaufkleber an der Tür ist das universelle Signal."
         }
       ],
       "tipsEn": [
@@ -143,6 +151,22 @@
           "q": "A equipa em Klaipeda fala inglês?",
           "a": "Sim, sobretudo nos pubs e restaurantes turísticos da Cidade Velha. A equipa mais jovem costuma ser fluente."
         }
+      ],
+      "titleDe": "Haustierfreundliche Restaurants in Klaipeda",
+      "introDe": "Klaipeda gehört zum landesweiten Netzwerk Draugiski Gyvunams (Pet Friendly), das 2017 in Litauen gestartet wurde und fast 500 Cafés und Restaurants im ganzen Land auflistet, die den offiziellen Willkommensaufkleber für Haustiere an der Tür zeigen. In der Altstadt und entlang des Flusses Dane heißen mehrere Kneipen und lockere Lokale angeleinte Hunde im Sommer auf der Terrasse willkommen, und in den entspannteren Braunkneipen das ganze Jahr über auch drinnen. Das litauische Küstenklima sorgt dafür, dass die Terrassensaison etwa von Mai bis September dauert; außerhalb dieser Zeit greifen die meisten Hundebesitzer auf Mitnahme zurück oder auf die wenigen Lokale, die Hunde ausdrücklich auch drinnen erlauben. Immer den Türaufkleber prüfen oder das Personal fragen, bevor man sich setzt.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Klaipeda erlaubt?",
+          "a": "Auf Terrassen sehr häufig. Drinnen nur in Lokalen mit dem Draugiski-Gyvunams-Aufkleber oder wenn auf Nachfrage ausdrücklich zugestimmt wird. Das landesweite Register listet fast 500 Lokale."
+        },
+        {
+          "q": "Wo ist das Pet-Friendly-Netzwerk aufgelistet?",
+          "a": "Auf draugiskigyvunams.lt, einer nur auf Litauisch verfügbaren Website mit Stadtkarte. Google Translate zur Navigation verwenden."
+        },
+        {
+          "q": "Spricht das Personal in Klaipeda Englisch?",
+          "a": "Ja, besonders in touristisch orientierten Kneipen und Restaurants in der Altstadt. Jüngeres Personal ist meist fließend."
+        }
       ]
     },
     "parks": {
@@ -177,7 +201,11 @@
           "descriptionPt": "Fundado em 1977 no local de um antigo cemitério, o parque de 12 hectares é uma galeria ao ar livre com 116 esculturas lituanas modernas de 67 artistas, no meio de árvores maduras e caminhos de saibro. Calmo, central e sombreado; um dos passeios mais agradáveis do centro da cidade para um cão com trela.",
           "petPolicyPt": "Cães com trela bem-vindos em todos os caminhos; por favor apanhe os dejetos do seu cão.",
           "facilitiesPt": "Bancos, caminhos de saibro, casas de banho públicas perto da entrada da rua Liepu.",
-          "tipPt": "Entre pela rua Liepu, perto do Museu de História de Klaipeda, para o circuito mais curto junto às esculturas mais marcantes."
+          "tipPt": "Entre pela rua Liepu, perto do Museu de História de Klaipeda, para o circuito mais curto junto às esculturas mais marcantes.",
+          "descriptionDe": "1977 auf dem Gelände eines ehemaligen Friedhofs gegründet, ist der 12 Hektar große Park eine Freiluftgalerie mit 116 modernen litauischen Skulpturen von 67 Künstlern, umgeben von altem Baumbestand und Kiesswegen. Ruhig, zentral und schattig; einer der angenehmsten innerstädtischen Spaziergänge für einen angeleinten Hund.",
+          "petPolicyDe": "Angeleinte Hunde auf allen Wegen willkommen; bitte die Hinterlassenschaften des Hundes aufsammeln.",
+          "facilitiesDe": "Bänke, Kieswege, öffentliche Toiletten nahe dem Eingang Liepu-Straße.",
+          "tipDe": "Am Eingang Liepu-Straße nahe dem Klaipeda-Geschichtsmuseum einsteigen für die kürzeste Runde an den eindrucksvollsten Skulpturen vorbei."
         },
         {
           "name": "Trinyciai Pond Dog Park",
@@ -203,7 +231,11 @@
           "descriptionPt": "Um recinto canino municipal oficial, totalmente vedado, sem trela, junto ao Lago Trinyciai, a norte da cidade. Ampla zona de relva, caminhos de saibro à volta da água, entrada gratuita e um ponto de encontro local seguro para os donos de cães de Klaipeda ao fim da tarde.",
           "petPolicyPt": "Sem trela dentro do recinto vedado; trela obrigatória nos caminhos de acesso e à volta do lago, fora da vedação.",
           "facilitiesPt": "Recinto vedado, bancos, caixotes de lixo; sem torneira de água no local, leve a sua taça.",
-          "tipPt": "Melhor entre as 18:00 e as 20:00 nos dias úteis, quando os donos locais se juntam, o seu cão conhece os habituais."
+          "tipPt": "Melhor entre as 18:00 e as 20:00 nos dias úteis, quando os donos locais se juntam, o seu cão conhece os habituais.",
+          "descriptionDe": "Eine offizielle, vollständig eingezäunte städtische Freilaufzone für Hunde neben dem Trinyciai-Teich im Norden der Stadt. Weite Rasenfläche, Kieswege rund um das Gewässer, kostenloser Eintritt und ein verlässlicher Treffpunkt für Hundehalter aus Klaipeda am späten Nachmittag.",
+          "petPolicyDe": "Freilauf innerhalb der eingezäunten Zone; Leinenpflicht auf den Zufahrtswegen und rund um den Teich außerhalb des Zauns.",
+          "facilitiesDe": "Eingezäunte Zone, Bänke, Abfalleimer; kein Wasseranschluss vor Ort, eigenen Napf mitbringen.",
+          "tipDe": "Am besten zwischen 18:00 und 20:00 Uhr an Werktagen, wenn sich Einheimische treffen, Ihr Hund lernt die Stammgäste kennen."
         },
         {
           "name": "Smiltyne Forest",
@@ -229,7 +261,11 @@
           "descriptionPt": "A floresta de pinheiros e folhosas que cobre a ponta norte da Restinga da Curlândia, mesmo em frente à Cidade Velha de Klaipeda e alcançada pelo ferry pedonal gratuito a partir do terminal do Castelo Velho. Trilhos de areia macia, muita sombra e acesso direto às dunas e à praia para passeios frescos de verão.",
           "petPolicyPt": "Trela obrigatória em todo o Parque Nacional da Restinga da Curlândia, incluindo a floresta; é uma reserva da biosfera da UNESCO com vida selvagem protegida.",
           "facilitiesPt": "Trilhos marcados, zonas de piquenique, casas de banho públicas perto do terminal do ferry.",
-          "tipPt": "Apanhe o ferry pedonal gratuito (Senoji perkela / Castelo Velho), os cães atravessam sem custo adicional, depois caminhe 10 minutos pela floresta até à praia."
+          "tipPt": "Apanhe o ferry pedonal gratuito (Senoji perkela / Castelo Velho), os cães atravessam sem custo adicional, depois caminhe 10 minutos pela floresta até à praia.",
+          "descriptionDe": "Der Kiefern- und Laubwald an der Nordspitze der Kurischen Nehrung, direkt gegenüber der Altstadt von Klaipeda und mit der kostenlosen Fußgängerfähre vom Terminal Alte Burg erreichbar. Weiche Sandwege, viel Schatten und direkter Zugang zu den Dünen und dem Strand für kühle Sommerspaziergänge.",
+          "petPolicyDe": "Leinenpflicht im gesamten Nationalpark Kurische Nehrung, einschließlich des Waldes; dies ist ein UNESCO-Biosphärenreservat mit geschützter Tierwelt.",
+          "facilitiesDe": "Markierte Wege, Picknickplätze, öffentliche Toiletten nahe dem Fährterminal.",
+          "tipDe": "Die kostenlose Fußgängerfähre (Senoji perkela / Alte Burg) nehmen, Hunde fahren kostenlos mit, dann 10 Minuten durch den Wald zum Strand gehen."
         }
       ],
       "tipsEn": [
@@ -309,6 +345,22 @@
           "q": "Os parques de Klaipeda são gratuitos?",
           "a": "Sim, todos os parques municipais e recintos caninos estão abertos e gratuitos 24/7."
         }
+      ],
+      "titleDe": "Die besten Parks & Freilaufzonen in Klaipeda",
+      "introDe": "Klaipeda verfügt über ein großzügiges Angebot an Grünflächen für eine Stadt mit 150.000 Einwohnern. Die Stadt betreibt und unterhält mehrere eingezäunte, kostenlose Freilaufzonen für Hunde (sunu vedziojimo aikstele), die größte davon beim Trinyciai-Teich und im Draugystes-Park im Süden. Der 12 Hektar große Skulpturenpark im Zentrum ist nur an der Leine begehbar, bietet aber eine einzigartige Freiluftgalerie aus der Sowjetzeit mit 116 Skulpturen von 67 litauischen Künstlern, ideal für einen 45-minütigen Spaziergang. Das litauische Leinengesetz verlangt, dass Hunde in allen öffentlichen Bereichen außerhalb der ausgewiesenen Zonen kontrolliert werden; das ist zu beachten, da Bußgelder anfallen können.",
+      "faqsDe": [
+        {
+          "q": "Wo dürfen Hunde in Klaipeda ohne Leine laufen?",
+          "a": "Nur innerhalb der offiziellen eingezäunten Zonen (sunu vedziojimo aikstele), einschließlich der Zone beim Trinyciai-Teich und im Draugystes-Park im Süden. Anderswo besteht Leinenpflicht."
+        },
+        {
+          "q": "Ist die Kurische Nehrung hundefreundlich?",
+          "a": "Ja, für angeleinte Hunde auf markierten Wegen, einschließlich des Smiltyne-Waldes und der Zugangswege zum Strand. Das UNESCO-Biosphärenreservat verbietet das Verlassen der Wege und schränkt den Zugang zu empfindlichen Dünenzonen ein."
+        },
+        {
+          "q": "Sind die Parks in Klaipeda kostenlos?",
+          "a": "Ja, alle städtischen Parks und Hundefreilaufzonen sind rund um die Uhr geöffnet und kostenlos."
+        }
       ]
     },
     "transport": {
@@ -333,7 +385,9 @@
           "petPolicyEs": "Perros admitidos en ambos ferries, con correa todo el trayecto. El cruce peatonal en la línea Old Castle es gratuito para residentes y visitantes.",
           "googleMapsUrl": "https://maps.google.com/?q=Smiltynes+perkela+Klaipeda",
           "descriptionPt": "O operador estatal de ferries Smiltynes perkela faz a única travessia entre Klaipeda continental e a Restinga da Curlândia. O terminal do Castelo Velho (Senoji) trata de passageiros a pé, ciclistas e animais numa travessia de 5 minutos; o Ferry Novo (Naujoji), mais a sul, trata de carros e mercadorias. Os passageiros a pé e os cães atravessam gratuitamente na linha do Castelo Velho.",
-          "petPolicyPt": "Cães aceites nos dois ferries, com trela em todo o percurso. A travessia pedonal na linha do Castelo Velho é gratuita para residentes e visitantes."
+          "petPolicyPt": "Cães aceites nos dois ferries, com trela em todo o percurso. A travessia pedonal na linha do Castelo Velho é gratuita para residentes e visitantes.",
+          "descriptionDe": "Der staatliche Fährbetreiber Smiltynes perkela betreibt die einzige Verbindung zwischen dem Festland Klaipeda und der Kurischen Nehrung. Das Terminal Alte Burg (Senoji) bedient Fußgänger, Radfahrer und Haustiere auf einer 5-minütigen Überfahrt; die Neue Fähre (Naujoji) weiter südlich bedient Autos und Fracht. Fußgänger und Hunde fahren auf der Linie Alte Burg kostenlos.",
+          "petPolicyDe": "Hunde auf beiden Fähren akzeptiert, durchgehend an der Leine. Die Fußgängerüberfahrt auf der Linie Alte Burg ist für Einheimische und Besucher kostenlos."
         },
         {
           "name": "Klaipedos transportas city buses",
@@ -349,7 +403,9 @@
           "petPolicyEs": "Los perros pequeños en transportín cerrado suelen ir gratis; los más grandes con correa se aceptan a discreción del conductor. Se recomienda bozal para perros grandes.",
           "googleMapsUrl": "https://maps.google.com/?q=Klaipedos+transportas",
           "descriptionPt": "A rede municipal de autocarros urbanos cobre todos os bairros residenciais e liga o centro, as estações rodoviária e ferroviária e o ferry. Os bilhetes compram-se online no portal oficial de bilhética, na aplicação do operador ou a bordo ao motorista. A prática lituana normal de transportes admite cães pequenos em transportadora e cães maiores com trela ao critério do motorista.",
-          "petPolicyPt": "Os cães pequenos numa transportadora fechada costumam ser grátis; os cães maiores com trela são aceites ao critério do motorista. Recomenda-se açaime para cães grandes."
+          "petPolicyPt": "Os cães pequenos numa transportadora fechada costumam ser grátis; os cães maiores com trela são aceites ao critério do motorista. Recomenda-se açaime para cães grandes.",
+          "descriptionDe": "Das städtische Stadtbusnetz deckt alle Wohnviertel ab und verbindet das Zentrum, den Bus- und Bahnhof und die Fähre. Tickets werden online über das offizielle Ticketportal, über die App des Betreibers oder beim Fahrer an Bord gekauft. Nach litauischer Standardpraxis sind kleine Hunde in Transportboxen und größere angeleinte Hunde nach Ermessen des Fahrers erlaubt.",
+          "petPolicyDe": "Kleine Hunde in einer geschlossenen Transportbox fahren im Allgemeinen kostenlos; größere angeleinte Hunde werden nach Ermessen des Fahrers akzeptiert. Für große Hunde wird ein Maulkorb empfohlen."
         }
       ],
       "tipsEn": [
@@ -429,6 +485,22 @@
           "q": "Qual é o aeroporto mais próximo?",
           "a": "O Palanga Internacional (PLQ), 30 km a norte. Kaunas (KUN) fica 215 km a leste. Há autocarros a ligar ambos a Klaipeda."
         }
+      ],
+      "titleDe": "Mit Haustier unterwegs in Klaipeda",
+      "introDe": "Klaipeda ist Litauens einziger Ostseehafen und eine der am besten zu Fuß erschließbaren mittelgroßen Städte an der Ostsee. Die Altstadt, die Fähre nach Smiltyne und der Skulpturenpark liegen alle innerhalb eines 25-minütigen Spaziergangs auf flachem Gelände. Der örtliche öffentliche Nahverkehr wird von Klaipedos transportas betrieben und besteht aus Stadtbussen; die zwei Fähren nach Smiltyne (Alte Burg für Fußgänger, Neue Fähre für Fahrzeuge) bilden die Lebensader zur Kurischen Nehrung und nehmen ausdrücklich Hunde mit.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund auf der Smiltyne-Fähre mitnehmen?",
+          "a": "Ja, auf beiden Linien. Die Fußgängerfähre Alte Burg ist kostenlos, dauert 5 Minuten und verkehrt häufig. Leinenpflicht an Bord."
+        },
+        {
+          "q": "Sind Hunde in Stadtbussen von Klaipeda erlaubt?",
+          "a": "Ja, kleine Hunde in Transportboxen fahren im Allgemeinen kostenlos, größere Hunde nach Ermessen des Fahrers an der Leine, idealerweise auch mit Maulkorb. Die Praxis ist unterschiedlich, vor dem Einstieg nachfragen."
+        },
+        {
+          "q": "Was ist der nächstgelegene Flughafen?",
+          "a": "Palanga International (PLQ), 30 km nördlich. Kaunas (KUN) liegt 215 km östlich. Busse verbinden beide mit Klaipeda."
+        }
       ]
     },
     "beaches": {
@@ -458,7 +530,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Melnrage+Beach+Klaipeda",
           "descriptionPt": "Uma praia longa e larga de areia branca, mesmo a norte do porto de Klaipeda, abrigada do vento por dunas altas e dividida em duas partes (Melnrage 1 e 2). Infraestrutura para famílias, estacionamento, rampas de acessibilidade e uma vista clara dos navios de cruzeiro que entram no porto.",
           "petPolicyPt": "Cães com trela bem-vindos fora da zona central vigiada de banhos de junho a agosto; acesso total na meia-estação e no inverno.",
-          "tipPt": "Caminhe até ao extremo norte de Melnrage 2 para encontrar o trecho mais calmo e mais tolerante a cães, mesmo em agosto."
+          "tipPt": "Caminhe até ao extremo norte de Melnrage 2 para encontrar o trecho mais calmo e mais tolerante a cães, mesmo em agosto.",
+          "descriptionDe": "Ein langer, breiter Weißsandstrand direkt nördlich des Hafens von Klaipeda, durch hohe Dünen windgeschützt und in zwei Abschnitte geteilt (Melnrage 1 und 2). Familienfreundliche Infrastruktur, Parkplätze, barrierefreie Rampen und ein klarer Blick auf vorbeifahrende Kreuzfahrtschiffe bei der Hafeneinfahrt.",
+          "petPolicyDe": "Angeleinte Hunde willkommen außerhalb der zentralen bewachten Badezone von Juni bis August; vollständiger Zugang in der Nebensaison und im Winter.",
+          "tipDe": "Zum äußersten Nordende von Melnrage 2 gehen für den ruhigsten, hundefreundlichsten Abschnitt selbst im August."
         },
         {
           "name": "Smiltyne Beach",
@@ -479,7 +554,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Smiltyne+Beach",
           "descriptionPt": "A ponta norte da Restinga da Curlândia, de 98 km, alcançada apenas por ferry a partir da Cidade Velha, oferece areia dourada fina, água báltica clara e pouco profunda e pinhal mesmo por trás da duna. Dentro da reserva da biosfera da UNESCO, pelo que se aplicam as proteções à vida selvagem; a praia em si é um dos trechos costeiros mais pitorescos da Lituânia.",
           "petPolicyPt": "Apenas cães com trela na praia e nos trilhos de acesso; interditos nas áreas vedadas de recuperação das dunas e nas zonas de nidificação de aves marinhas.",
-          "tipPt": "Caminhe para sul pela praia a partir do ferry; ao fim de cerca de 1 km as multidões rareiam e fica praticamente com as dunas só para si."
+          "tipPt": "Caminhe para sul pela praia a partir do ferry; ao fim de cerca de 1 km as multidões rareiam e fica praticamente com as dunas só para si.",
+          "descriptionDe": "Die Nordspitze der 98 km langen Kurischen Nehrung, nur per Fähre von der Altstadt erreichbar, bietet feinen goldenen Sand, klares flaches Ostseewasser und Kiefernwald direkt hinter der Düne. Liegt im UNESCO-Biosphärenreservat, daher gelten Schutzbestimmungen für die Tierwelt; der Strand selbst gehört zu den malerischsten Küstenabschnitten Litauens.",
+          "petPolicyDe": "Nur angeleinte Hunde am Strand und auf den Zugangswegen; in eingezäunten Dünenrenaturierungszonen und Seevogel-Brutgebieten nicht erlaubt.",
+          "tipDe": "Von der Fähre aus nach Süden am Strand entlanggehen; nach etwa 1 km lichten sich die Menschenmassen und man hat praktisch private Dünen für sich."
         },
         {
           "name": "Giruliai Beach",
@@ -500,7 +578,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Giruliai+Beach",
           "descriptionPt": "Uma praia mais sossegada, com floresta por trás, mais a norte do que Melnrage, popular entre os locais que fogem às multidões de verão e de fácil acesso de bicicleta pelo caminho costeiro. Longos trechos planos de areia, dunas baixas e um ambiente descontraído; a zona costuma tolerar cães com trela o ano inteiro.",
           "petPolicyPt": "Cães com trela geralmente bem-vindos fora da zona central vigiada no verão; acesso total na meia-estação.",
-          "tipPt": "Combine com um passeio de bicicleta pelo caminho costeiro a partir de Klaipeda; 6 km de trilho plano ao longo das dunas e do pinhal."
+          "tipPt": "Combine com um passeio de bicicleta pelo caminho costeiro a partir de Klaipeda; 6 km de trilho plano ao longo das dunas e do pinhal.",
+          "descriptionDe": "Ein ruhigerer, waldgesäumter Strand weiter nördlich als Melnrage, bei Einheimischen beliebt, die dem Sommertrubel entkommen wollen, und über den Küstenweg leicht mit dem Fahrrad erreichbar. Lange flache Sandabschnitte, niedrige Dünen und eine entspannte Atmosphäre; der Bereich ist gegenüber angeleinten Hunden das ganze Jahr über im Allgemeinen tolerant.",
+          "petPolicyDe": "Angeleinte Hunde im Allgemeinen willkommen außerhalb des zentralen bewachten Bereichs im Sommer; vollständiger Zugang in der Nebensaison.",
+          "tipDe": "Mit einer Radtour auf dem Küstenweg ab Klaipeda kombinieren; 6 km flacher Weg entlang der Dünen und des Kiefernwaldes."
         }
       ],
       "tipsEn": [
@@ -580,6 +661,22 @@
           "q": "Qual é a melhor praia com um cão?",
           "a": "Melnrage 2 (extremo norte) pela proximidade da cidade; Smiltyne pela experiência da Restinga da Curlândia de ferry; Giruliai pelo sossego."
         }
+      ],
+      "titleDe": "Die besten Strände bei Klaipeda für Hunde",
+      "introDe": "Klaipeda hat direkten Zugang zur Ostsee und zum Kurischen Haff, mit drei Hauptstrandzonen: Smiltyne auf der Kurischen Nehrung (mit der Fähre erreichbar), Melnrage direkt nördlich des Hafens und Giruliai weiter nördlich. Die Badesaison im Sommer dauert von Mitte Juni bis August. Hunde sind an Ostseestränden außerhalb der zentralen bewachten Badebereiche in der Hochsaison im Allgemeinen willkommen; in der Nebensaison und im Winter ist die gesamte Küste praktisch hundefreundlich an der Leine. Der Nationalpark Kurische Nehrung (UNESCO-Weltnaturerbe) verbietet Hunde in ausgewiesenen Dünenrenaturierungszonen.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde an Stränden von Klaipeda?",
+          "a": "Ja, an der Leine, außerhalb der zentralen bewachten Badezonen im Sommer. In der Nebensaison und im Winter ist die gesamte Küste praktisch für angeleinte Hunde geöffnet."
+        },
+        {
+          "q": "Ist der Strand der Kurischen Nehrung für Hunde geeignet?",
+          "a": "Ja, an der Leine, am Strand und auf markierten Wegen. Das Verlassen der Wege und das Betreten eingezäunter Dünenzonen ist im UNESCO-Biosphärenreservat verboten."
+        },
+        {
+          "q": "Welcher Strand ist mit Hund am besten?",
+          "a": "Melnrage 2 (Nordende) wegen der Nähe zur Stadt; Smiltyne für das Erlebnis der Kurischen Nehrung mit der Fähre; Giruliai für Ruhe."
+        }
       ]
     },
     "vets": {
@@ -613,7 +710,11 @@
           "descriptionPt": "O hospital veterinário de referência 24/7 mais moderno da Lituânia fora de Vílnius, com departamentos de especialidade de ortopedia-traumatologia, neurologia e cirurgia de tecidos moles. Equipado para diagnósticos e cirurgia complexos; recebe casos de urgência de dia e de noite.",
           "petPolicyPt": "Casos de urgência 24/7 aceites; consultas de especialidade por encaminhamento ou marcação.",
           "servicesPt": "Urgências 24/7, ortopedia, neurologia, cirurgia de tecidos moles, diagnóstico avançado.",
-          "tipPt": "Ligue com antecedência antes de seguir de carro para a equipa de serviço se poder preparar para o seu caso; consulte o site oficial para a morada e o número direto atuais."
+          "tipPt": "Ligue com antecedência antes de seguir de carro para a equipa de serviço se poder preparar para o seu caso; consulte o site oficial para a morada e o número direto atuais.",
+          "descriptionDe": "Litauens modernstes 24/7-Referenz-Tierkrankenhaus außerhalb von Vilnius, mit Fachabteilungen für Orthopädie-Traumatologie, Neurologie und Weichteilchirurgie. Ausgestattet für komplexe Diagnostik und Chirurgie; nimmt Notfälle Tag und Nacht auf.",
+          "petPolicyDe": "24/7-Notfälle werden angenommen; Facharztkonsultationen nach Überweisung oder Termin.",
+          "servicesDe": "Notdienst 24/7, Orthopädie, Neurologie, Weichteilchirurgie, erweiterte Diagnostik.",
+          "tipDe": "Vor der Anfahrt anrufen, damit sich das Bereitschaftsteam auf den Fall vorbereiten kann; die aktuelle Adresse und Direktnummer auf der offiziellen Website prüfen."
         },
         {
           "name": "Klaipeda general veterinary clinics",
@@ -638,7 +739,11 @@
           "descriptionPt": "Funcionam cerca de catorze clínicas veterinárias gerais em Klaipeda, com cuidados de rotina, vacinação, colocação de microchip, cirurgia e visitas ao domicílio. Os diretórios Info.lt e 1588.lt listam moradas e números de telefone atuais em inglês.",
           "petPolicyPt": "Por marcação para cuidados de rotina; muitas clínicas oferecem vagas urgentes no próprio dia para os viajantes.",
           "servicesPt": "Consulta, vacinação, colocação de microchip, cirurgia básica, visitas ao domicílio.",
-          "tipPt": "Para consultas que não sejam de urgência, é comum haver veterinários que falam inglês; pergunte com antecedência se a sua língua habitual no veterinário não for o lituano."
+          "tipPt": "Para consultas que não sejam de urgência, é comum haver veterinários que falam inglês; pergunte com antecedência se a sua língua habitual no veterinário não for o lituano.",
+          "descriptionDe": "Rund vierzehn allgemeine Tierarztpraxen sind in Klaipeda tätig und bieten Routineversorgung, Impfungen, Mikrochipping, Chirurgie und Hausbesuche an. Die Verzeichnisse Info.lt und 1588.lt listen aktuelle Adressen und Telefonnummern auf Englisch auf.",
+          "petPolicyDe": "Termin für Routineversorgung erforderlich; viele Praxen bieten für Reisende Termine am selben Tag für dringende Fälle an.",
+          "servicesDe": "Konsultation, Impfung, Chippen, einfache Chirurgie, Hausbesuche.",
+          "tipDe": "Für nicht dringende Konsultationen sind englischsprachige Tierärzte üblich; vorab fragen, falls Ihre gewohnte Sprache nicht Litauisch ist."
         }
       ],
       "tipsEn": [
@@ -717,6 +822,22 @@
         {
           "q": "Os veterinários falam inglês?",
           "a": "Geralmente sim nas clínicas maiores de Klaipeda, sobretudo entre a equipa mais jovem. Confirme com antecedência para consultas complexas."
+        }
+      ],
+      "titleDe": "Tiernotdienste in Klaipeda, Tierkliniken & Tierbetreuung",
+      "introDe": "Klaipeda ist eine von zwei litauischen Städten (neben Vilnius) mit einem 24/7-Überweisungstierkrankenhaus, das in den letzten Jahren eröffnet wurde und spezialisierte Orthopädie, Neurologie und Weichteilchirurgie anbietet. Die Stadt verfügt zudem über rund vierzehn allgemeine Tierarztpraxen entlang des Taikos prospektas, der Danes-Straße, Jureiviu und Baltijos prospektas, die Routinekonsultationen, Impfungen, ISO-11784-Mikrochipping und Hausbesuche anbieten.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Klaipeda einen 24/7-Tierarzt?",
+          "a": "Ja, das von 8 Drambliai betriebene Klaipeda Referral Veterinary Hospital ist das Referenzkrankenhaus Westlitauens für Notfälle und spezialisierte Fälle."
+        },
+        {
+          "q": "Brauche ich eine Tollwutimpfung zur Einreise nach Litauen?",
+          "a": "Ja, mit EU-Heimtierausweis und ISO-Mikrochip. Die Impfung muss bei der Einreise mindestens 21 Tage alt sein."
+        },
+        {
+          "q": "Sprechen die Tierärzte Englisch?",
+          "a": "In größeren Kliniken in Klaipeda im Allgemeinen ja, besonders unter jüngerem Personal. Bei komplexen Konsultationen vorab bestätigen."
         }
       ]
     },
@@ -813,6 +934,22 @@
           "q": "Há restrições de raça na Lituânia?",
           "a": "A Lituânia tem restrições a uma lista de raças perigosas; consulte as orientações do Serviço Estatal de Alimentação e Veterinária antes de viajar se tiver uma raça restrita."
         }
+      ],
+      "titleDe": "Wichtige Reisetipps mit Haustier für Klaipeda",
+      "introDe": "Klaipeda ist eine überschaubare Hafenstadt mit 150.000 Einwohnern, Litauens einziger Ostseehafen und das Tor zur UNESCO-gelisteten Kurischen Nehrung. Es gelten EU-Regeln: Heimtierausweis, ISO-Mikrochip, gültige Tollwutimpfung, keine Bandwurmbehandlung für die Einreise aus einem anderen EU-Land erforderlich. Die kurze Badesaison (Mitte Juni bis August) einplanen und sich in Waldgebieten vor Zecken schützen.",
+      "faqsDe": [
+        {
+          "q": "Ist Klaipeda eine gute Stadt für einen Besuch mit Hund?",
+          "a": "Ja, sie gehört zu den unkompliziertesten baltischen Reisezielen mit Hund. Kompakte Altstadt, kostenlose Fußgängerfähre nach Smiltyne (Hunde willkommen), haustierfreundliche Cafés über das nationale Draugiski-Gyvunams-Netzwerk und ein 24/7-Notfalltierarzt."
+        },
+        {
+          "q": "Brauche ich besondere Unterlagen für Litauen?",
+          "a": "EU-Heimtierausweis mit gültiger Tollwutimpfung und ISO-Mikrochip. Keine Bandwurmbehandlung erforderlich bei Einreise aus einem anderen EU-Staat."
+        },
+        {
+          "q": "Gibt es in Litauen Rasseeinschränkungen?",
+          "a": "Litauen hat Einschränkungen für eine Liste als gefährlich eingestufter Rassen; vor der Reise die Hinweise des Staatlichen Lebensmittel- und Veterinärdienstes prüfen, falls Sie eine eingeschränkte Rasse besitzen."
+        }
       ]
     },
     "attractions": {
@@ -842,7 +979,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Theatre+Square+Klaipeda",
           "descriptionPt": "A principal praça cultural da Cidade Velha, ladeada pelo Teatro de Drama de Klaipeda, com a famosa estátua de bronze de Aennchen von Tharau dedicada ao poeta barroco da Prússia Oriental Simon Dach. Um ponto de encontro dos locais e um ponto de partida natural para qualquer passeio pela Cidade Velha com um cão.",
           "petPolicyPt": "Praça ao ar livre, cães com trela bem-vindos a qualquer hora.",
-          "tipPt": "Fotografe a estátua do lado sul para o ângulo clássico; os bancos próximos são ideais para uma pausa para café com o cão."
+          "tipPt": "Fotografe a estátua do lado sul para o ângulo clássico; os bancos próximos são ideais para uma pausa para café com o cão.",
+          "descriptionDe": "Der wichtigste Kulturplatz der Altstadt, gesäumt vom Klaipedaer Schauspielhaus, mit der berühmten Bronzestatue der Aennchen von Tharau, gewidmet dem ostpreußischen Barockdichter Simon Dach. Ein Treffpunkt für Einheimische und ein natürlicher Ausgangspunkt für jeden Altstadtspaziergang mit Hund.",
+          "petPolicyDe": "Freier Platz, angeleinte Hunde jederzeit willkommen.",
+          "tipDe": "Die Statue von der Südseite fotografieren für den klassischen Blickwinkel; nahegelegene Bänke eignen sich ideal für eine Kaffeepause mit Hund."
         },
         {
           "name": "Klaipeda Castle ruins",
@@ -863,7 +1003,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Klaipeda+Castle",
           "descriptionPt": "Os restos do Castelo de Memelburg / Klaipeda, do século XIII, rodeados de fossos e baluartes do lado do porto. Os terrenos exteriores (fossos, muralhas e percursos dos baluartes) estão abertos a cães com trela sem custo; o pequeno Museu do Castelo, dentro das poternas originais, não admite cães.",
           "petPolicyPt": "Cães com trela bem-vindos nos fossos exteriores, nas muralhas e nos passadiços; não admitidos no interior do edifício do museu.",
-          "tipPt": "Faça o circuito do fosso no sentido anti-horário para a melhor vista do baluarte reconstruído e da entrada do porto."
+          "tipPt": "Faça o circuito do fosso no sentido anti-horário para a melhor vista do baluarte reconstruído e da entrada do porto.",
+          "descriptionDe": "Die Überreste der Burg Memelburg / Klaipeda aus dem 13. Jahrhundert, umgeben von Gräben und Bastionen zur Hafenseite hin. Das Außengelände (Gräben, Wälle und Bastionswege) ist kostenlos für angeleinte Hunde zugänglich; das kleine Burgmuseum im ursprünglichen Poternenbereich ist für Hunde tabu.",
+          "petPolicyDe": "Angeleinte Hunde willkommen auf den äußeren Gräben, Wällen und Wegen; im Museumsgebäude nicht erlaubt.",
+          "tipDe": "Den Grabenrundweg gegen den Uhrzeigersinn gehen für die beste Aussicht auf die rekonstruierte Bastion und die Hafeneinfahrt."
         },
         {
           "name": "Klaipeda Old Town & Memel wooden houses",
@@ -884,7 +1027,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Klaipeda+Old+Town",
           "descriptionPt": "As casas alemãs de tabique da era de Memel que ainda existem em Klaipeda concentram-se ao longo das ruas Tiltu, Turgaus e Daru, com um caráter hanseático-prussiano único, que não se encontra noutro lado da Lituânia. Um circuito autoguiado de 60 a 90 minutos cobre a maioria dos destaques, incluindo a Praça de João (Janturgaus aikste) e a passagem de Frederico.",
           "petPolicyPt": "Ruas públicas, cães com trela bem-vindos por todo o lado.",
-          "tipPt": "Faça o circuito ao início da manhã ou depois das 18:00 para apreciar a arquitetura sem as multidões de excursionistas."
+          "tipPt": "Faça o circuito ao início da manhã ou depois das 18:00 para apreciar a arquitetura sem as multidões de excursionistas.",
+          "descriptionDe": "Die erhaltenen deutschen Kolombage-Häuser aus der Memel-Zeit konzentrieren sich entlang der Straßen Tiltu, Turgaus und Daru und verleihen einen unverwechselbaren hanseatisch-preußischen Charakter, der sonst nirgends in Litauen zu finden ist. Ein 60- bis 90-minütiger Rundgang auf eigene Faust deckt die meisten Highlights ab, einschließlich des Johannisplatzes (Janturgaus aikste) und der Friedrich-Passage.",
+          "petPolicyDe": "Öffentliche Straßen, angeleinte Hunde überall willkommen.",
+          "tipDe": "Den Rundgang früh morgens oder nach 18:00 Uhr gehen, um die Architektur ohne die Tagesausflügler-Menschenmassen zu genießen."
         }
       ],
       "tipsEn": [
@@ -964,6 +1110,22 @@
           "q": "O Museu Marítimo é dog-friendly?",
           "a": "Não, os cães não são admitidos no Museu do Mar da Lituânia e aquário em Smiltyne."
         }
+      ],
+      "titleDe": "Top haustierfreundliche Sehenswürdigkeiten in Klaipeda",
+      "introDe": "Klaipedas kompakte Altstadt ist das Herz des städtischen Erbes: der Theaterplatz mit der Statue der Aennchen von Tharau, die dem Dichter Simon Dach gewidmet ist, die Fachwerkhäuser aus der Memel-Zeit, die Ruinen der Burg Klaipeda aus dem 13. Jahrhundert mit ihrem kleinen Museum und der 12 Hektar große Skulpturenpark. Die meisten Freiluft-Sehenswürdigkeiten akzeptieren angeleinte Hunde; Innenmuseen in der Regel nicht (Assistenzhunde ausgenommen).",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Museen in Klaipeda erlaubt?",
+          "a": "In Innenmuseen (Burgmuseum, Meeresmuseum, Geschichtsmuseum) im Allgemeinen nicht. Assistenzhunde werden akzeptiert. Außenanlagen und der Skulpturenpark heißen angeleinte Hunde willkommen."
+        },
+        {
+          "q": "Was ist mit Hund in Klaipeda ein Muss?",
+          "a": "Die Runde durch die Altstadt (Theaterplatz, Burggraben, Memel-Häuser), gefolgt von der kostenlosen Fähre zum Smiltyne-Wald und -Strand."
+        },
+        {
+          "q": "Ist das Meeresmuseum hundefreundlich?",
+          "a": "Nein, Hunde sind im Litauischen Meeresmuseum und Aquarium in Smiltyne nicht zugelassen."
+        }
       ]
     },
     "petsitting": {
@@ -992,7 +1154,10 @@
           "tip": "Book at least 48 hours ahead in peak summer; many Klaipeda sitters fully book for July weekends.",
           "descriptionPt": "Plataforma internacional de pet sitting e passeio de cães com perfis verificados no Município da Cidade de Klaipeda. Filtre por serviço (passeio, creche, pernoita), preço e avaliações; muitos cuidadores falam inglês e podem ir buscar o cão ao seu hotel.",
           "petPolicyPt": "A reserva e a política são definidas por cada cuidador; seguro disponível através da plataforma.",
-          "servicesPt": "Passeio de cães, creche, alojamento com pernoita, visitas pontuais."
+          "servicesPt": "Passeio de cães, creche, alojamento com pernoita, visitas pontuais.",
+          "descriptionDe": "Internationale Plattform für Haustierbetreuung und Gassi-Service mit verifizierten Profilen in der Stadtgemeinde Klaipeda. Filtern nach Leistung (Spaziergang, Tagesbetreuung, Übernachtung), Preis und Bewertungen; viele Betreuer sind englischsprachig und können den Hund im Hotel abholen.",
+          "petPolicyDe": "Buchung und Bedingungen werden von jedem einzelnen Betreuer festgelegt; Versicherung über die Plattform verfügbar.",
+          "servicesDe": "Gassi-Service, Tagesbetreuung, Übernachtungspension, Kurzbesuche."
         }
       ],
       "tipsEn": [
@@ -1071,6 +1236,22 @@
         {
           "q": "Os cuidadores falam inglês?",
           "a": "Muitos falam, sobretudo os cuidadores mais jovens. Filtre os perfis da PetBacker por idioma antes de reservar."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Klaipeda",
+      "introDe": "Klaipeda verfügt über eine kleine, aber aktive Gemeinschaft von Haustierbetreuern und Gassi-Gehern, meist über die internationale Plattform PetBacker zugänglich, die Profile für die Stadtgemeinde Klaipeda mit Bewertungen und englischsprachigen Betreuern auflistet. Es gibt keine vollständig ausgestattete Tagesbetreuungskette wie in größeren europäischen Hauptstädten; Buchungen erfolgen typischerweise bei unabhängigen lokalen Betreuern, die Kurzbesuche oder begleitete Spaziergänge anbieten.",
+      "faqsDe": [
+        {
+          "q": "Wie viel kostet Haustierbetreuung in Klaipeda?",
+          "a": "Unabhängige Betreuer über PetBacker verlangen in der Regel weniger als die Sätze in Vilnius; aktuelle Profile für genaue Preise prüfen."
+        },
+        {
+          "q": "Gibt es in Klaipeda Hundepensionen?",
+          "a": "Ja, aber meist kleine unabhängige Betriebe. Buchungen über PetBacker oder lokale Facebook-Gruppen sind für Kurzaufenthalte flexibler."
+        },
+        {
+          "q": "Sprechen die Betreuer Englisch?",
+          "a": "Viele schon, besonders jüngere Betreuer. PetBacker-Profile vor der Buchung nach Sprache filtern."
         }
       ]
     }

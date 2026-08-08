@@ -37,7 +37,11 @@
           "descriptionPt": "Uma instituição do West End na Gibson Street, a dois passos do Kelvingrove Park, conhecida pela sua política de receção a cães sem concessões. Há vários lugares reservados para donos de cães por ordem de chegada, com tigelas de água gratuitas e guloseimas servidas à mesa. A cozinha oferece brunch o dia inteiro até ao jantar, com um sólido cruzamento escocês-mediterrânico.",
           "petPolicyPt": "Cães bem-vindos em lugares dedicados no interior; água e guloseimas gratuitas",
           "mustTryPt": "Tábua de brunch de fim de semana, haggis bonbons, cerveja artesanal escocesa",
-          "tipPt": "Sábado e domingo antes das 11:00 são os momentos mais tranquilos; os lugares do recanto canino enchem em 30 minutos assim que começa o brunch."
+          "tipPt": "Sábado e domingo antes das 11:00 são os momentos mais tranquilos; os lugares do recanto canino enchem em 30 minutos assim que começa o brunch.",
+          "descriptionDe": "Eine Institution des West End an der Gibson Street, einen Steinwurf vom Kelvingrove Park entfernt, bekannt für seine konsequent hundefreundliche Haltung. Mehrere Plätze sind Hundehaltern nach dem Prinzip \"first come, first served\" vorbehalten, mit kostenlosem Wassernapf und Leckerlis am Tisch. Die Küche bietet den ganzen Tag über Brunch bis Dinner mit starken schottisch-mediterranen Einflüssen.",
+          "petPolicyDe": "Hunde willkommen an reservierten Plätzen drinnen; kostenloses Wasser und Leckerlis",
+          "mustTryDe": "Wochenend-Brunchplatte, Haggis-Bonbons, schottisches Craft-Bier",
+          "tipDe": "Samstag und Sonntag vor 11:00 Uhr sind die ruhigsten Momente; die Hunde-Ecke ist sobald der Brunch beginnt innerhalb von 30 Minuten voll besetzt."
         },
         {
           "name": "Brel",
@@ -63,7 +67,11 @@
           "descriptionPt": "Um bar e restaurante de inspiração belga na calçada de Ashton Lane, com um famoso jardim exterior aquecido que acolhe cães sem reservas. O interior mantém o ambiente descontraído do West End, a carta de cervejas belgas ultrapassa as 100 referências e a cozinha aposta no moules-frites e em pratos de partilha descontraídos. Música ao vivo na maioria dos fins de semana.",
           "petPolicyPt": "Cães bem-vindos no jardim exterior aquecido",
           "mustTryPt": "Moules-frites, cerveja trapista belga, música ao vivo ao fim de semana",
-          "tipPt": "Reserve a mesa do fundo do jardim para o fim da noite: o aquecimento e o toldo mantêm os cães quentes mesmo em outubro."
+          "tipPt": "Reserve a mesa do fundo do jardim para o fim da noite: o aquecimento e o toldo mantêm os cães quentes mesmo em outubro.",
+          "descriptionDe": "Eine belgisch angehauchte Bar und Restaurant in der kopfsteingepflasterten Ashton Lane mit einem berühmten beheizten Außengarten, der Hunde ohne Wenn und Aber willkommen heißt. Innen bleibt die entspannte Atmosphäre des West End erhalten, die belgische Bierkarte umfasst über 100 Sorten, und die Küche setzt auf Moules-frites und lockere Sharing-Gerichte. An den meisten Wochenenden Livemusik.",
+          "petPolicyDe": "Hunde willkommen im beheizten Außengarten",
+          "mustTryDe": "Moules-frites, belgisches Trappistenbier, Livemusik am Wochenende",
+          "tipDe": "Den Tisch im hinteren Garten für den späten Abend reservieren, die Heizung und das Vordach halten Hunde selbst im Oktober warm."
         },
         {
           "name": "The Clutha Bar",
@@ -89,7 +97,11 @@
           "descriptionPt": "Um pub histórico de Glasgow dedicado à música folk, na Stockwell Street, gerido por uma instituição de solidariedade artística desde o acidente de helicóptero de 2013. Cães bem-vindos no bar e no jardim-esplanada à beira-rio, com guloseimas e água ao balcão. Música ao vivo sete noites por semana, comida clássica de pub escocês e uma clientela literalmente operária que trata os cães como família.",
           "petPolicyPt": "Cães bem-vindos no bar e no jardim-esplanada à beira-rio",
           "mustTryPt": "Cullen skink, haggis com neeps e tatties, cerveja Tennent's",
-          "tipPt": "A 'happy hour' das 18:00 traz a clientela local mais simpática: acomode o cão no recanto do fundo para a sessão de folk ao vivo."
+          "tipPt": "A 'happy hour' das 18:00 traz a clientela local mais simpática: acomode o cão no recanto do fundo para a sessão de folk ao vivo.",
+          "descriptionDe": "Ein historischer Glasgower Folk-Musik-Pub in der Stockwell Street, seit dem Hubschrauberunglück von 2013 von einer gemeinnützigen Kulturorganisation geführt. Hunde willkommen in der Bar und im Biergarten am Fluss, mit Leckerlis und Wasser an der Theke. Sieben Abende die Woche Livemusik, klassische schottische Pubküche und eine wirklich bodenständige Stammkundschaft, die Hunde wie Familie behandelt.",
+          "petPolicyDe": "Hunde willkommen in Bar und Biergarten am Fluss",
+          "mustTryDe": "Cullen Skink, Haggis-neeps-tatties, Tennent's Lager",
+          "tipDe": "Die \"Happy Hour\" um 18:00 Uhr bringt das freundlichste Stammpublikum, den Hund in der hinteren Nische für die Live-Folk-Session platzieren."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Onde ficam as ruas gastronómicas mais pet-friendly de Glasgow?",
           "a": "Gibson Street e Ashton Lane no West End, o eixo de Argyle Street em Finnieston, e as ruas Albion e Wilson de Merchant City. O West End lidera a cidade em cafés que aceitam cães no interior."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Glasgow",
+      "introDe": "Glasgow hat eine der großzügigsten hundefreundlichen Gastroszenen Großbritanniens, die schottische Pubkultur heißt Hunde standardmäßig willkommen, und das West End rund um den Kelvingrove Park bündelt die dichteste Ansammlung an innentauglichen Cafés und Gastropubs. Merchant City und Finnieston bilden ein zweites Zentrum designorientierter Lokale, die Hunde ausdrücklich willkommen heißen. Nachfolgend drei verlässliche, geprüfte Adressen mit bestätigten Haustierrichtlinien.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde in Glasgower Restaurants mit hinein?",
+          "a": "Pubs und unabhängige Cafés sagen standardmäßig ja. Gehobene Restaurants und Ketten im Stadtzentrum beschränken Haustiere oft auf die Terrasse; immer an der Tür nachfragen."
+        },
+        {
+          "q": "Verlangen Glasgower Pubs Geld für Wassernäpfe?",
+          "a": "Nie. Ein Wassernapf ist in jedem britischen Pub eine Selbstverständlichkeit. Viele Lokale im West End, The Left Bank, The Drake, Inn Deep, halten außerdem Leckerli-Dosen hinter der Theke bereit."
+        },
+        {
+          "q": "Wo liegen die haustierfreundlichsten Gastromeilen in Glasgow?",
+          "a": "Gibson Street und Ashton Lane im West End, die Argyle Street in Finnieston sowie Albion Street und Wilson Street in Merchant City. Das West End führt die Stadt bei innentauglichen Cafés an."
+        }
       ]
     },
     "parks": {
@@ -220,7 +248,9 @@
             "Café-salão de chá",
             "Estacionamento gratuito"
           ],
-          "tipPt": "ScotRail de Glasgow Central a Pollokshaws West: 10 minutos, cão grátis. Evite o campo do gado Highland e faça o circuito sul pela floresta."
+          "tipPt": "ScotRail de Glasgow Central a Pollokshaws West: 10 minutos, cão grátis. Evite o campo do gado Highland e faça o circuito sul pela floresta.",
+          "descriptionDe": "Großbritanniens einziger Country Park innerhalb einer Stadt, 146 Hektar Wald, Flussuferwege, formale Gärten und die Burrell Collection. Freilauf ist im offenen Waldgebiet die Norm; Leinenpflicht gilt rund um die Weideflächen der Hochlandrinder und den Kinderabenteuerspielplatz. Die Glasgow Subway und der Bahnhof Pollokshaws West bringen einen in kurzer Gehdistanz zu den Toren.",
+          "tipDe": "ScotRail von Glasgow Central nach Pollokshaws West, 10 Minuten, hundefrei. Die Weide der Hochlandrinder meiden und die südliche Waldschleife laufen."
         },
         {
           "name": "Kelvingrove Park",
@@ -263,7 +293,9 @@
             "Café do Kelvingrove Museum",
             "Acesso ao metro Hillhead"
           ],
-          "tipPt": "A encosta sul acima da Stewart Memorial Fountain é o ponto clássico de encontro canino da cidade, às 17:30 nos dias de semana."
+          "tipPt": "A encosta sul acima da Stewart Memorial Fountain é o ponto clássico de encontro canino da cidade, às 17:30 nos dias de semana.",
+          "descriptionDe": "Glasgows viktorianischer Vorzeigepark, 34 Hektar entlang des River Kelvin im West End, mit der Kelvingrove Art Gallery and Museum am westlichen Rand. Freilauf wird auf den offenen Rasenflächen und dem Uferweg weithin geduldet; Leinenpflicht gilt rund um den Museumseingang, den Entenweiher und die Spielplätze. Die U-Bahn-Station Hillhead ist fünf Minuten zu Fuß entfernt.",
+          "tipDe": "Der südliche Hang oberhalb des Stewart Memorial Fountain ist der klassische Hunde-Treffpunkt der Stadt, werktags um 17:30 Uhr."
         },
         {
           "name": "Queen's Park",
@@ -306,7 +338,9 @@
             "Café Glasshouse (cães no exterior)",
             "Estação ScotRail ao portão"
           ],
-          "tipPt": "Suba a colina do mastro ao pôr do sol: o panorama abrange todo o horizonte da cidade, incluindo a Universidade de Glasgow."
+          "tipPt": "Suba a colina do mastro ao pôr do sol: o panorama abrange todo o horizonte da cidade, incluindo a Universidade de Glasgow.",
+          "descriptionDe": "Ein 24 Hektar großer viktorianischer Park auf der Südseite Glasgows, benannt nach Maria Stuart. Der Mast auf dem Hügel bietet einen der besten kostenlosen Panoramablicke der Stadt, und die Terrasse des Glasshouse-Cafés heißt Hunde draußen willkommen. Freilauf wird auf den offenen Rasenflächen weithin geduldet; am Bootsteich und den Tennisplätzen gilt Leinenpflicht. Der Bahnhof Queen's Park (ScotRail) liegt am östlichen Tor.",
+          "tipDe": "Den Hügel mit dem Fahnenmast bei Sonnenuntergang erklimmen, das Panorama umfasst die gesamte Skyline der Stadt einschließlich der Glasgow University."
         }
       ],
       "tipsEn": [
@@ -386,6 +420,22 @@
           "q": "Há um parque canino vedado em Glasgow?",
           "a": "Não há um parque canino municipal totalmente vedado em Glasgow. O equivalente mais próximo é a floresta aberta do Pollok Country Park, onde andar sem trela é a norma fora das zonas de gado sinalizadas."
         }
+      ],
+      "titleDe": "Die besten Hundeparks in Glasgow",
+      "introDe": "Glasgow nennt sich nicht ohne Grund \"Dear Green Place\", über 90 Parks liegen innerhalb der Stadtgrenzen, darunter der 146 Hektar große Pollok Country Park, der einzige Country Park innerhalb einer britischen Stadt. Freilauf ist auf offenen Rasenflächen die Regel; Leinenpflicht gilt rund um Kinderspielplätze, den Botanischen Garten und ausgewiesene Weidezonen. Immer Kotbeutel mitführen, der Glasgow City Council verhängt 80 Pfund Bußgeld für Verunreinigung.",
+      "faqsDe": [
+        {
+          "q": "Wo kann mein Hund in Glasgow komplett ohne Leine laufen?",
+          "a": "Auf den meisten Waldflächen und offenen Rasenflächen des Pollok Country Park sowie auf den offenen Rasenflächen von Kelvingrove und Queen's Park. In den PSPO-Zonen rund um Spielplätze gilt stets Leinenpflicht."
+        },
+        {
+          "q": "Sind die Glasgow Botanic Gardens hundefreundlich?",
+          "a": "Ja, aber nur an der Leine. Die Gewächshäuser und der formale Alpengarten sind für Haustiere ohne Assistenzfunktion geschlossen; die umliegende Parklandschaft ist frei zugänglich."
+        },
+        {
+          "q": "Gibt es in Glasgow einen eingezäunten Hundepark?",
+          "a": "Es gibt keinen vollständig eingezäunten städtischen Hundepark in Glasgow. Das nächste Äquivalent ist das offene Waldgebiet des Pollok Country Park, wo Freilauf außerhalb der markierten Weidezonen die Regel ist."
+        }
       ]
     },
     "transport": {
@@ -415,7 +465,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Glasgow+Central+station",
           "descriptionPt": "A rede de comboios suburbanos da ScotRail é a opção mais pet-friendly de Glasgow: até dois cães grátis por bilhete de adulto em cada comboio. A linha circular do Subway fica limitada a animais pequenos em caixa de transporte. A FirstBus aceita cães com trela bem comportados ao critério do condutor; a McGill's aceita cães grátis na maioria das rotas. Buchanan Street Subway e Glasgow Central são os dois centros de transporte da cidade.",
           "petPolicyPt": "ScotRail: 2 cães grátis por bilhete. Subway: só animais pequenos em caixa de transporte. Autocarros: ao critério do condutor.",
-          "tipPt": "A ScotRail é o transporte pet-friendly mais útil: Glasgow Central a Pollokshaws West (Pollok Country Park) em 10 minutos, e Glasgow Queen Street a Edimburgo em 50 minutos com até 2 cães grátis."
+          "tipPt": "A ScotRail é o transporte pet-friendly mais útil: Glasgow Central a Pollokshaws West (Pollok Country Park) em 10 minutos, e Glasgow Queen Street a Edimburgo em 50 minutos com até 2 cães grátis.",
+          "descriptionDe": "Das ScotRail-Vorortnetz ist die haustierfreundlichste Option in Glasgow, bis zu zwei Hunde kostenlos pro Erwachsenenticket in jedem Zug. Die Subway-Ringlinie ist auf kleine Haustiere in Transportboxen beschränkt. FirstBus erlaubt gut erzogene angeleinte Hunde nach Ermessen des Fahrers; McGill's nimmt Hunde auf den meisten Strecken kostenlos mit. Buchanan Street Subway und Glasgow Central sind die beiden Verkehrsknotenpunkte der Stadt.",
+          "petPolicyDe": "ScotRail: 2 Hunde kostenlos pro Ticket. Subway: nur kleine Haustiere in Transportboxen. Busse: nach Ermessen des Fahrers.",
+          "tipDe": "ScotRail ist die nützlichste Option mit Hund, Glasgow Central nach Pollokshaws West (Pollok Country Park) dauert 10 Minuten, und Glasgow Queen Street nach Edinburgh dauert 50 Minuten mit bis zu 2 Hunden kostenlos."
         },
         {
           "name": "Caledonian Sleeper (Glasgow Central)",
@@ -434,7 +487,10 @@
           "tipFr": "Reservez 12 semaines a l'avance pour les tarifs de sleeper assis les moins chers (a partir d'environ 25 GBP). Le wagon-salon accepte les chiens et sert nourriture et boissons toute la nuit.",
           "tipEs": "Reserva 12 semanas antes para las tarifas de sleeper en asiento mas baratas (desde unos 25 GBP). El vagón salon acepta perros y sirve comida y bebidas durante toda la noche.",
           "tipPt": "Reserve com 12 semanas de antecedencia para as tarifas mais baratas de sleeper com lugar (a partir de cerca de 25 GBP). A carruagem lounge aceita caes e serve comida e bebidas durante a noite.",
-          "googleMapsUrl": "https://maps.google.com/?q=Glasgow+Central+Station"
+          "googleMapsUrl": "https://maps.google.com/?q=Glasgow+Central+Station",
+          "descriptionDe": "Der Caledonian Sleeper verkehrt über Nacht zwischen Glasgow Central und London Euston (8 Std. 30 Min.), Abfahrt in Glasgow gegen 23:00 Uhr, Ankunft in London gegen 07:30 Uhr. Hunde sind nur in den Sitzwagen erlaubt, nicht in den privaten Kabinen. Zwei Hunde pro sitzendem Fahrgast reisen kostenlos. Der Sleeper ist die für Hunde komfortabelste Fernverbindung zwischen Schottland und London, ohne Gedränge tagsüber, und der Hund kann während der Fahrt schlafen.",
+          "petPolicyDe": "Hunde kostenlos in Sitzwagen, in Kabinen nicht erlaubt",
+          "tipDe": "12 Wochen im Voraus buchen für die günstigsten Sitzplatztarife (ab etwa 25 GBP). Der Lounge-Wagen erlaubt Hunde und serviert die ganze Nacht Speisen und Getränke."
         },
         {
           "name": "ScotRail Glasgow to Edinburgh (Queen Street)",
@@ -453,7 +509,10 @@
           "tipFr": "Les trains de pointe (7h-9h30 et 16h30-18h30) se remplissent de navetteurs. Voyagez hors pointe le samedi ou dimanche matin pour le trajet le plus confortable avec un chien.",
           "tipEs": "Los trenes punta (07:00-09:30 y 16:30-18:30) se llenan de commuters. Viaja fuera de punta el sabado o domingo por la manana para el viaje mas comodo con un perro.",
           "tipPt": "Os comboios de ponta (07:00-09:30 e 16:30-18:30) enchem-se de pendulares. Viaje fora de ponta sabado ou domingo de manha para a viagem mais confortavel com um cao.",
-          "googleMapsUrl": "https://maps.google.com/?q=Glasgow+Queen+Street+Station"
+          "googleMapsUrl": "https://maps.google.com/?q=Glasgow+Queen+Street+Station",
+          "descriptionDe": "ScotRail verkehrt häufig zwischen Glasgow Queen Street und Edinburgh Waverley (50 Min.). Bis zu zwei Hunde reisen kostenlos pro zahlendem Fahrgast auf allen ScotRail-Verbindungen, angeleint und unter Kontrolle. Züge fahren tagsüber alle 15-30 Minuten. Dies ist die schnellste und praktischste Option für einen schottischen Zwei-Städte-Trip mit Hund, der Glasgow und Edinburgh kombiniert.",
+          "petPolicyDe": "Bis zu 2 Hunde kostenlos pro Fahrgast, jederzeit angeleint",
+          "tipDe": "Zur Hauptverkehrszeit (07:00-09:30 und 16:30-18:30 Uhr) sind die Züge voller Pendler. Für die angenehmste Fahrt mit Hund außerhalb der Stoßzeiten samstags oder sonntagvormittags reisen."
         }
       ],
       "tipsEn": [
@@ -533,6 +592,22 @@
           "q": "Os cães são permitidos no aeroporto de Glasgow?",
           "a": "Os cães de assistência são bem-vindos em todo o lado. Os cães de companhia que viajam num voo seguem as regras da companhia aérea (cabina ou porão). A caminhada de 500 metros da paragem do autocarro até ao terminal é a única opção de alívio ao ar livre, por isso planeie em conformidade."
         }
+      ],
+      "titleDe": "Haustierfreundlicher Nahverkehr in Glasgow",
+      "introDe": "Der Glasgower Nahverkehr besteht aus der historischen Subway (nur die drittälteste U-Bahn der Welt), den Busnetzen von FirstBus und McGill's sowie den ScotRail-Vorortzügen. ScotRail nimmt pro Fahrkarteninhaber bis zu zwei angeleinte Hunde kostenlos mit; die Subway erlaubt nur kleine Haustiere in Transportboxen (Assistenzhunde ausgenommen); und die Regelungen der Busbetreiber variieren je nach Unternehmen. Das einheitliche Glasgow-Tripper-Ticket deckt Subway und Bahn stadtweit für Touristen ab.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in der Glasgow Subway erlaubt?",
+          "a": "Nur kleine Haustiere in geschlossener Transportbox sind in der Subway erlaubt, neben Assistenzhunden. Mittelgroße und große Hunde müssen stattdessen ScotRail oder Busse nutzen."
+        },
+        {
+          "q": "Kann ich meinen Hund mit dem Zug von Glasgow nach Edinburgh mitnehmen?",
+          "a": "Ja, ScotRail nimmt bis zu 2 Hunde kostenlos pro Erwachsenenticket auf jeder Verbindung Glasgow Queen Street–Edinburgh mit. Die Fahrt dauert 50 Minuten."
+        },
+        {
+          "q": "Sind Hunde am Flughafen Glasgow erlaubt?",
+          "a": "Diensthunde sind überall willkommen. Haustiere, die einen Flug antreten, folgen den Regeln der jeweiligen Fluggesellschaft (Kabine oder Frachtraum). Der 500 Meter lange Fußweg von der Bushaltestelle zum Terminal ist die einzige Möglichkeit für einen Auslauf im Freien, das entsprechend einplanen."
+        }
       ]
     },
     "beaches": {
@@ -562,7 +637,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Balloch+Country+Park+Loch+Lomond",
           "descriptionPt": "O maior lago de água doce da Grã-Bretanha em área de superfície, 30 km a noroeste de Glasgow. A margem de Balloch, na ponta sul do loch, tem relvados abertos, um recanto de praia arenosa e um parque arborizado à volta do histórico Balloch Castle. Sem trela nos relvados e ao longo da margem do loch o ano inteiro; a ScotRail Balloch a partir de Glasgow Queen Street demora 50 minutos, com até 2 cães grátis por bilhete de adulto.",
           "petPolicyPt": "Sem trela o ano inteiro nos relvados e na margem de Balloch, no loch",
-          "tipPt": "Caminhe para norte pelo trilho West Highland Way a partir de Balloch: os primeiros 5 km acompanham a margem do loch por um carvalhal antigo."
+          "tipPt": "Caminhe para norte pelo trilho West Highland Way a partir de Balloch: os primeiros 5 km acompanham a margem do loch por um carvalhal antigo.",
+          "descriptionDe": "Britanniens größter Süßwassersee nach Fläche, 30 km nordwestlich von Glasgow. Das Ufer von Balloch an der Südspitze des Sees bietet offene Rasenflächen, einen kleinen Sandstrand und einen bewaldeten Park rund um das historische Balloch Castle. Ganzjährig Freilauf auf den Rasenflächen und entlang des Seeufers; ScotRail nach Balloch von Glasgow Queen Street dauert 50 Minuten, mit bis zu 2 Hunden kostenlos pro Erwachsenenticket.",
+          "petPolicyDe": "Ganzjährig Freilauf auf den Rasenflächen und am Ufer von Balloch",
+          "tipDe": "Nördlich entlang des West Highland Way ab Balloch laufen, die ersten 5 km folgen dem Seeufer durch uralten Eichenwald."
         },
         {
           "name": "Troon Beach",
@@ -583,7 +661,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Troon+Beach",
           "descriptionPt": "Uma meia-lua arenosa de 5 km na costa de Ayrshire, virada para a ilha de Arran, a praia de mar mais próxima de Glasgow que aceita cães o ano inteiro. Andar sem trela é permitido na maior parte do areal, fora da pequena zona de restrição de verão sinalizada (15 de maio a 15 de setembro) na frente de praia central. A ScotRail Glasgow Central a Troon demora 45 minutos, com até 2 cães grátis por bilhete de adulto.",
           "petPolicyPt": "Sem trela o ano inteiro, fora da secção central restrita no verão",
-          "tipPt": "Caminhe para norte a partir do parque de estacionamento de South Beach: em 10 minutos chega ao areal sem restrições, com vista para Arran do outro lado do firth."
+          "tipPt": "Caminhe para norte a partir do parque de estacionamento de South Beach: em 10 minutos chega ao areal sem restrições, com vista para Arran do outro lado do firth.",
+          "descriptionDe": "Ein 5 km langer sandiger Bogen an der Ayrshire-Küste mit Blick auf die Isle of Arran, der nächstgelegene Meeresstrand zu Glasgow, der Hunde ganzjährig erlaubt. Freilauf ist entlang des größten Teils des Strandes erlaubt, außerhalb der kleinen markierten Sommer-Einschränkungszone (15. Mai bis 15. September) am zentralen Strandabschnitt. ScotRail von Glasgow Central nach Troon dauert 45 Minuten, mit bis zu 2 Hunden kostenlos pro Erwachsenenticket.",
+          "petPolicyDe": "Ganzjährig Freilauf außerhalb des sommerlich eingeschränkten zentralen Abschnitts",
+          "tipDe": "Vom Parkplatz South Beach nach Norden laufen, innerhalb von 10 Minuten ist man auf dem uneingeschränkten Streifen mit Blick auf Arran über den Firth."
         },
         {
           "name": "Clyde Walkway",
@@ -604,7 +685,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Clyde+Walkway+Glasgow",
           "descriptionPt": "Um trilho à beira-rio de 60 km que vai de Glasgow Green, através da cidade, até New Lanark, com os 5 km centrais entre Glasgow Bridge e o Riverside Museum muito frequentados por cães o ano inteiro. Os cães com trela são bem-vindos em toda a extensão; o trilho é pavimentado, iluminado à noite e liga-se diretamente a Kelvingrove e aos Jardins Botânicos através do Kelvin Walkway.",
           "petPolicyPt": "Cães bem-vindos com trela o ano inteiro",
-          "tipPt": "Caminhe para oeste a partir de Glasgow Bridge até ao Riverside Museum: 4 km, totalmente pavimentado, sem travessias de estrada, e o Tall Ship Glenlee, no museu, acolhe cães no convés exterior."
+          "tipPt": "Caminhe para oeste a partir de Glasgow Bridge até ao Riverside Museum: 4 km, totalmente pavimentado, sem travessias de estrada, e o Tall Ship Glenlee, no museu, acolhe cães no convés exterior.",
+          "descriptionDe": "Ein 60 km langer Uferweg, der von Glasgow Green durch die Stadt bis nach New Lanark führt, wobei der zentrale 5 km lange Abschnitt zwischen Glasgow Bridge und dem Riverside Museum das ganze Jahr über bei Hunden beliebt ist. Angeleinte Hunde sind auf der gesamten Länge willkommen; der Weg ist asphaltiert, nachts beleuchtet und über den Kelvin Walkway direkt mit Kelvingrove und den Botanic Gardens verbunden.",
+          "petPolicyDe": "Hunde ganzjährig an der Leine willkommen",
+          "tipDe": "Von der Glasgow Bridge nach Westen zum Riverside Museum laufen, 4 km, vollständig asphaltiert, keine Straßenquerungen, und das Segelschiff Glenlee am Museum heißt Hunde auf dem Außendeck willkommen."
         }
       ],
       "tipsEn": [
@@ -684,6 +768,22 @@
           "q": "As praias do Loch Lomond são pet-friendly a partir de Glasgow?",
           "a": "Sim, a maioria das praias da margem do lago (Balloch, Luss, Balmaha) aceita cães sem trela o ano inteiro. A ScotRail de Glasgow Queen Street a Balloch demora 50 minutos, grátis para até 2 cães por bilhete."
         }
+      ],
+      "titleDe": "Hundefreundliche Ufer & Tagesausflüge ab Glasgow",
+      "introDe": "Glasgow liegt 30 km vom Firth of Clyde und dem Loch Lomond National Park entfernt, beide in unter einer Stunde mit ScotRail erreichbar. Der Uferweg am Clyde bietet der Stadt selbst einen angeleinten Spaziergang am Wasser; Troon Beach (45 Min. mit dem Zug) ist der nächste Meeresstrand für Hunde; und die Ufer von Balloch und Luss am Loch Lomond sind das regionale Aushängeschild für Freilauf am Wasser. Die meisten schottischen Seen und Strände erlauben Hunde das ganze Jahr über, die saisonalen Einschränkungen im Zentrum von Glasgow sind die einzige echte Ausnahme.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund im Zentrum von Glasgow schwimmen?",
+          "a": "Der Clyde fließt durch die Stadt, aber der zentrale Abschnitt ist industriell geprägt und für Hundeschwimmen nicht sicher. Das Ufer von Balloch am Loch Lomond (40 Min. mit dem Zug) ist die nächste sichere Schwimmstelle."
+        },
+        {
+          "q": "Was ist der beste Hundestrand bei Glasgow?",
+          "a": "Troon Beach an der Ayrshire-Küste (45 Min. mit dem Zug) ist das regionale Aushängeschild, 5 km sandiger Bogen ganzjährig ohne Leine erlaubt, außerhalb der kleinen sommerlich eingeschränkten Zentralzone."
+        },
+        {
+          "q": "Sind die Strände am Loch Lomond von Glasgow aus hundefreundlich?",
+          "a": "Ja, die meisten Uferstrände (Balloch, Luss, Balmaha) erlauben Hunde das ganze Jahr über ohne Leine. ScotRail von Glasgow Queen Street nach Balloch dauert 50 Minuten, kostenlos für bis zu 2 Hunde pro Ticket."
+        }
       ]
     },
     "vets": {
@@ -710,7 +810,9 @@
           "tipEs": "A pie de la estación Charing Cross: el veterinario 24h más cercano a cualquier hotel del West End o del centro.",
           "googleMapsUrl": "https://maps.google.com/?q=Vets+Now+Glasgow+North+Street",
           "descriptionPt": "O primeiro hospital de urgência 24 horas dedicado a animais da Escócia, aberto em 2009. Equipado para cirurgia, cuidados intensivos, imagiologia avançada e serviços de especialidade em urgência e cuidados críticos, medicina interna, cirurgia de tecidos moles e ortopedia. O parceiro de referência fora de horário para a maioria das clínicas do centro de Glasgow. A distância de caminhada do centro da cidade.",
-          "tipPt": "A distância de caminhada da estação de Charing Cross: o veterinário 24 horas mais próximo de qualquer hotel do West End ou do centro."
+          "tipPt": "A distância de caminhada da estação de Charing Cross: o veterinário 24 horas mais próximo de qualquer hotel do West End ou do centro.",
+          "descriptionDe": "Schottlands erstes eigenständiges 24-Stunden-Notfallkrankenhaus für Haustiere, eröffnet 2009. Ausgestattet für Operationen, Intensivpflege, moderne Bildgebung und Fachdienste in Notfall- und Intensivmedizin, Innerer Medizin, Weichteilchirurgie und Orthopädie. Der wichtigste außerhalb der Öffnungszeiten zuständige Partner für die meisten Kliniken im Zentrum von Glasgow. Zu Fuß vom Stadtzentrum erreichbar.",
+          "tipDe": "Zu Fuß von der Station Charing Cross erreichbar, der nächste 24-Stunden-Tierarzt zu jedem Hotel im West End oder Stadtzentrum."
         },
         {
           "name": "Emergency Vets Glasgow (24h)",
@@ -728,7 +830,9 @@
           "tipEs": "Llama antes de ir: el equipo de guardia hace triaje y puede derivarte a Vets Now North Street si tu caso encaja mejor con sus especialistas de referencia.",
           "googleMapsUrl": "https://maps.google.com/?q=Emergency+Vets+Glasgow+Rosyth+Road",
           "descriptionPt": "Uma clínica independente exclusivamente de urgência 24 horas na margem sul do Clyde, útil como opção de segunda linha quando a Vets Now fica esgotada. Aberta ininterruptamente, com instalações completas de cirurgia, diagnóstico e cuidados intensivos. A cerca de 5 minutos de Bolt a partir da estação de Glasgow Central.",
-          "tipPt": "Telefone antes de se deslocar: a equipa de serviço faz a triagem e pode encaminhá-lo para a Vets Now North Street se o seu caso se ajustar melhor aos seus especialistas de referência."
+          "tipPt": "Telefone antes de se deslocar: a equipa de serviço faz a triagem e pode encaminhá-lo para a Vets Now North Street se o seu caso se ajustar melhor aos seus especialistas de referência.",
+          "descriptionDe": "Eine unabhängige, ausschließlich für Notfälle zuständige 24-Stunden-Klinik am Südufer des Clyde, nützlich als zweite Option, wenn Vets Now ausgelastet ist. Rund um die Uhr geöffnet mit vollständiger Ausstattung für Operationen, Diagnostik und Intensivpflege. Etwa 5 Minuten mit Bolt vom Bahnhof Glasgow Central entfernt.",
+          "tipDe": "Vor der Anfahrt anrufen, das diensthabende Team führt eine Ersteinschätzung durch und schickt einen bei Bedarf zu Vets Now North Street, falls der Fall besser zu deren Fachärzten passt."
         }
       ],
       "tipsEn": [
@@ -808,6 +912,22 @@
           "q": "Os veterinários de urgência em Glasgow são caros?",
           "a": "Semelhante a Manchester, mais barato do que em Londres. Uma consulta de urgência costuma começar nas 150-250 £; a cirurgia e o internamento noturno custam, normalmente, 500-1500 £, consoante a complexidade."
         }
+      ],
+      "titleDe": "Notfalltierärzte in Glasgow, Tierkliniken & Haustierbetreuung",
+      "introDe": "Glasgow verfügt über eines der dichtesten Tierarztnetze Schottlands, Vets Now eröffnete hier 2009 das erste eigenständige 24-Stunden-Notfallkrankenhaus für Haustiere des Landes, und eine zweite unabhängige Notfallklinik in der Rosyth Road bietet zusätzliche Absicherung. Zwei PDSA-Tierkliniken bedienen einkommensschwache Kunden, verlangen jedoch eine vorherige Anmeldung. Englisch wird überall gesprochen; Besucher mit EU-Heimtierausweisen werden routinemäßig angenommen, allerdings gelten seit dem Brexit für die grenzüberschreitende Einreise Tiergesundheitsbescheinigungen.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächste 24-Stunden-Tierarzt zum Stadtzentrum von Glasgow?",
+          "a": "Vets Now Glasgow in der North Street ist zu Fuß von der Station Charing Cross und dem West End erreichbar. Emergency Vets Glasgow in der Rosyth Road ist die Alternative auf der Südseite."
+        },
+        {
+          "q": "Kann ich meinen Hund aus der EU zu einem Tierarzt in Glasgow bringen?",
+          "a": "Ja, britische Kliniken behandeln EU-registrierte Haustiere routinemäßig. Den EU-Heimtierausweis bzw. die Tiergesundheitsbescheinigung mitbringen; die meisten Kliniken stellen für Versicherungsansprüche eine englischsprachige Rechnung aus."
+        },
+        {
+          "q": "Sind Notfalltierärzte in Glasgow teuer?",
+          "a": "Ähnlich wie Manchester, günstiger als London. Eine Notfallberatung beginnt in der Regel bei 150-250 Pfund; Operationen und Übernachtungsbetreuung liegen je nach Komplexität typischerweise bei 500-1500 Pfund."
+        }
       ]
     },
     "tips": {
@@ -824,14 +944,16 @@
           "description": "May to June and September are the best months: average highs of 16-18 C, Kelvingrove and Pollok parks are green and dry, and the city is far less congested than Edinburgh in summer. July and August bring higher tourist numbers but Glasgow remains less overwhelming than its eastern neighbour. Avoid Celtic Connections (January) and the Glasgow International Comedy Festival (March) if your dog dislikes dense crowds on narrow pavements.",
           "descriptionFr": "Mai a juin et septembre sont les meilleurs mois : maximales de 16-18 C, Kelvingrove et Pollok sont verts et secs, et la ville est bien moins congestionnee qu'Edimbourg en ete. Juillet-aout amene plus de touristes mais Glasgow reste moins overwhelming que sa voisine de l'est. Evitez Celtic Connections (janvier) et le Glasgow International Comedy Festival (mars) si votre chien n'aime pas les foules denses sur les trottoirs etroits.",
           "descriptionEs": "Mayo a junio y septiembre son los mejores meses: maximas de 16-18 C, Kelvingrove y Pollok estan verdes y secos, y la ciudad esta mucho menos congestionada que Edimburgo en verano. Julio-agosto trae mas turistas pero Glasgow sigue siendo menos abrumadora que su vecina del este. Evita Celtic Connections (enero) y el Glasgow International Comedy Festival (marzo) si tu perro no soporta las multitudes densas en las aceras estrechas.",
-          "descriptionPt": "De maio a junho e setembro sao os melhores meses: maximas de 16-18 C, Kelvingrove e Pollok estao verdes e secos, e a cidade esta muito menos congestionada do que Edimburgo no verao. Julho-agosto traz mais turistas mas Glasgow continua a ser menos esmagadora do que a sua vizinha a leste. Evite Celtic Connections (janeiro) e o Glasgow International Comedy Festival (marco) se o seu cao nao gosta de multidoes densas em passeios estreitos."
+          "descriptionPt": "De maio a junho e setembro sao os melhores meses: maximas de 16-18 C, Kelvingrove e Pollok estao verdes e secos, e a cidade esta muito menos congestionada do que Edimburgo no verao. Julho-agosto traz mais turistas mas Glasgow continua a ser menos esmagadora do que a sua vizinha a leste. Evite Celtic Connections (janeiro) e o Glasgow International Comedy Festival (marco) se o seu cao nao gosta de multidoes densas em passeios estreitos.",
+          "descriptionDe": "Mai bis Juni und September sind die besten Monate: durchschnittliche Höchsttemperaturen von 16-18 °C, Kelvingrove und Pollok Park sind grün und trocken, und die Stadt ist im Sommer deutlich weniger überlaufen als Edinburgh. Juli und August bringen mehr Touristen, doch Glasgow bleibt weniger überwältigend als seine östliche Nachbarstadt. Celtic Connections (Januar) und das Glasgow International Comedy Festival (März) meiden, falls der Hund dichtes Gedränge auf schmalen Gehwegen nicht mag."
         },
         {
           "name": "UK pet-import paperwork (2026)",
           "description": "From the EU you need: ISO microchip, valid rabies vaccination (at least 21 days old, not expired), and a GB Animal Health Certificate (AHC) issued by an EU official vet (OV) within 10 days of arrival. The AHC is valid 4 months for onward EU travel and 4 months for return. Tapeworm treatment is required only for return travel to Ireland, Finland, Malta or Norway.",
           "descriptionFr": "Depuis l'UE il faut : puce ISO, vaccin antirabique valide (au moins 21 jours, non perime) et un GB Animal Health Certificate (AHC) delivre par un veterinaire officiel de l'UE dans les 10 jours precedant l'arrivee. L'AHC est valable 4 mois pour voyager dans l'UE et 4 mois pour le retour. Le traitement antitenias n'est requis que pour le retour vers l'Irlande, la Finlande, Malte ou la Norvege.",
           "descriptionEs": "Desde la UE necesitas: microchip ISO, vacuna antirrábica vigente (al menos 21 dias, no caducada) y un GB Animal Health Certificate (AHC) emitido por un OV de la UE en los 10 dias previos a la llegada. El AHC es valido 4 meses para viajar en la UE y 4 meses para el retorno. El tratamiento de tenia solo se exige para volver a Irlanda, Finlandia, Malta o Noruega.",
-          "descriptionPt": "A partir da UE precisa de: microchip ISO, vacinacao antirrábica valida (pelo menos 21 dias, nao expirada) e um GB Animal Health Certificate (AHC) emitido por um veterinario oficial da UE nos 10 dias anteriores a chegada. O AHC e valido 4 meses para viagens dentro da UE e 4 meses para o regresso. O tratamento anti-tenia so e exigido na viagem de regresso para a Irlanda, Finlandia, Malta ou Noruega."
+          "descriptionPt": "A partir da UE precisa de: microchip ISO, vacinacao antirrábica valida (pelo menos 21 dias, nao expirada) e um GB Animal Health Certificate (AHC) emitido por um veterinario oficial da UE nos 10 dias anteriores a chegada. O AHC e valido 4 meses para viagens dentro da UE e 4 meses para o regresso. O tratamento anti-tenia so e exigido na viagem de regresso para a Irlanda, Finlandia, Malta ou Noruega.",
+          "descriptionDe": "Aus der EU benötigt man: ISO-Mikrochip, gültige Tollwutimpfung (mindestens 21 Tage alt, nicht abgelaufen) und eine britische Tiergesundheitsbescheinigung (Animal Health Certificate, AHC), ausgestellt von einem amtlichen EU-Tierarzt innerhalb von 10 Tagen vor der Einreise. Die AHC ist 4 Monate für die Weiterreise in der EU und 4 Monate für die Rückreise gültig. Eine Bandwurmbehandlung ist nur für die Rückreise nach Irland, Finnland, Malta oder Norwegen erforderlich."
         },
         {
           "name": "Walking Glasgow with a dog",
@@ -839,7 +961,8 @@
           "description": "The best dog-walking route in Glasgow links Kelvingrove Park (off-leash lawns and woodland walks) via the River Kelvin path north to the Botanic Gardens, then loops back through the West End. For a longer day, Pollok Country Park (5 km south, free parking) offers 146 hectares of woodland trails fully off-leash. Glasgow Green along the Clyde is the flat city-centre alternative, entirely dog-friendly.",
           "descriptionFr": "La meilleure promenade avec un chien a Glasgow relie Kelvingrove Park (pelouses et sentiers forestiers sans laisse) via le chemin de la riviere Kelvin vers le nord jusqu'aux Botanic Gardens, puis revient par le West End. Pour une journee plus longue, Pollok Country Park (5 km au sud, parking gratuit) offre 146 hectares de sentiers forestiers entierement sans laisse. Glasgow Green le long de la Clyde est l'alternative plate en centre-ville, entierement dog-friendly.",
           "descriptionEs": "La mejor ruta para caminar con perro en Glasgow une Kelvingrove Park (cesped y senderos forestales sin correa) via el camino del rio Kelvin hacia el norte hasta los Botanic Gardens, y regresa por el West End. Para un dia mas largo, Pollok Country Park (5 km al sur, aparcamiento gratis) ofrece 146 hectareas de senderos forestales completamente sin correa. Glasgow Green junto al Clyde es la alternativa plana del centro, completamente dog-friendly.",
-          "descriptionPt": "A melhor rota de caminhada com cao em Glasgow liga Kelvingrove Park (relvados e trilhos de floresta sem trela) pelo caminho do rio Kelvin para norte ate aos Botanic Gardens, e regressa pelo West End. Para um dia mais longo, Pollok Country Park (5 km a sul, estacionamento gratuito) oferece 146 hectares de trilhos florestais completamente sem trela. Glasgow Green ao longo do Clyde e a alternativa plana do centro da cidade, completamente dog-friendly."
+          "descriptionPt": "A melhor rota de caminhada com cao em Glasgow liga Kelvingrove Park (relvados e trilhos de floresta sem trela) pelo caminho do rio Kelvin para norte ate aos Botanic Gardens, e regressa pelo West End. Para um dia mais longo, Pollok Country Park (5 km a sul, estacionamento gratuito) oferece 146 hectares de trilhos florestais completamente sem trela. Glasgow Green ao longo do Clyde e a alternativa plana do centro da cidade, completamente dog-friendly.",
+          "descriptionDe": "Die beste Spazierroute mit Hund in Glasgow verbindet den Kelvingrove Park (Freilauf-Rasenflächen und Waldwege) über den Weg am River Kelvin nach Norden zu den Botanic Gardens und schließt dann eine Schleife durch das West End. Für einen längeren Tag bietet der Pollok Country Park (5 km südlich, kostenlose Parkplätze) 146 Hektar Waldwege, vollständig ohne Leinenpflicht. Glasgow Green entlang des Clyde ist die flache Alternative im Stadtzentrum, durchweg hundefreundlich."
         }
       ],
       "tipsEn": [
@@ -903,6 +1026,18 @@
           "q": "Posso levar o meu cao a Kelvingrove Art Gallery?",
           "a": "Nao. A Kelvingrove Art Gallery so admite caes de assistencia registados. O Kelvingrove Park adjacente e completamente dog-friendly e sem trela. Planeie uma hora de pet-sitting ou revezem-se para a visita a galeria."
         }
+      ],
+      "titleDe": "Reisetipps mit Haustier für Glasgow",
+      "introDe": "Glasgow ist eine der unkompliziertesten britischen Städte für das Reisen mit Hund: kostenlose Mitnahme in jedem ScotRail-Zug, hundefreundliche Pubs in jedem Stadtviertel, der 146 Hektar große Pollok Country Park innerhalb der Stadt und Loch Lomond nur 50 Zugminuten entfernt. Die zwei Dinge, die man einplanen sollte, sind die Tiergesundheitsbescheinigung nach dem Brexit (für Einreisen aus der EU) und der Regen, Glasgow verzeichnet im Schnitt 1370 mm Niederschlag pro Jahr, die regenreichste Großstadt Großbritanniens.",
+      "faqsDe": [
+        {
+          "q": "Eignet sich Glasgow für einen hundefreundlichen Kurztrip?",
+          "a": "Ja. Glasgow bietet mit Kelvingrove Park, Pollok Country Park und Glasgow Green Freilaufflächen, eine schottische Pubkultur, die Hunde standardmäßig willkommen heißt, sowie ScotRail-Verbindungen aus Edinburgh in 50 Minuten. Das West End bündelt die höchste Dichte an innentauglichen hundefreundlichen Lokalen."
+        },
+        {
+          "q": "Kann ich meinen Hund in die Kelvingrove Art Gallery mitnehmen?",
+          "a": "Nein. Die Kelvingrove Art Gallery lässt nur registrierte Assistenzhunde hinein. Der umliegende Kelvingrove Park ist vollständig hundefreundlich und erlaubt Freilauf. Eine Stunde Hundebetreuung einplanen oder sich beim Museumsbesuch abwechseln."
+        }
       ]
     },
     "attractions": {
@@ -932,7 +1067,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Glasgow+Necropolis",
           "descriptionPt": "Um cemitério-jardim vitoriano numa colina a leste da Catedral de Glasgow, com 50 000 túmulos monumentais e um dos horizontes mais fotogénicos da Europa. Os cães com trela são bem-vindos em toda a rede de trilhos; a crista panorâmica sobre a cidade é um famoso ponto local de pôr do sol. Gratuito, aberto 24 horas por dia.",
           "petPolicyPt": "Cães bem-vindos com trela; trate o local com respeito (cemitério)",
-          "tipPt": "Suba à crista das traseiras antes do pôr do sol: a catedral iluminada e o horizonte da cidade formam, juntos, a fotografia clássica de Glasgow."
+          "tipPt": "Suba à crista das traseiras antes do pôr do sol: a catedral iluminada e o horizonte da cidade formam, juntos, a fotografia clássica de Glasgow.",
+          "descriptionDe": "Ein viktorianischer Gartenfriedhof auf einem Hügel östlich der Glasgow Cathedral mit 50.000 Grabmonumenten und einer der fotogensten Skylines Europas. Angeleinte Hunde sind auf dem gesamten Wegenetz willkommen; der Panoramagrat über der Stadt ist ein bekannter lokaler Ort für den Sonnenuntergang. Kostenlos, rund um die Uhr geöffnet.",
+          "petPolicyDe": "Hunde an der Leine willkommen; die Stätte mit Respekt behandeln (Friedhof)",
+          "tipDe": "Vor Sonnenuntergang den hinteren Grat erklimmen, die beleuchtete Kathedrale und die Skyline der Stadt zusammen ergeben Glasgows klassisches Foto."
         },
         {
           "name": "George Square",
@@ -953,7 +1091,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=George+Square+Glasgow",
           "descriptionPt": "O coração cívico de Glasgow, uma ampla praça de pedra fronteada pelas vitorianas City Chambers, um dos mais grandiosos edifícios municipais da Grã-Bretanha. Os cães com trela são bem-vindos por toda a praça e nos passeios à volta do Cenotáfio e das estátuas. O mercado de Natal, em dezembro, tolera cães na sua secção exterior. A praça é o ponto de partida natural de qualquer circuito a pé pela cidade.",
           "petPolicyPt": "Cães bem-vindos com trela; os eventos cívicos podem restringir o acesso",
-          "tipPt": "Faça um circuito com trela de 90 minutos de George Square até à Necropolis, à catedral e de volta por Merchant City: cobre o núcleo histórico num passeio fácil."
+          "tipPt": "Faça um circuito com trela de 90 minutos de George Square até à Necropolis, à catedral e de volta por Merchant City: cobre o núcleo histórico num passeio fácil.",
+          "descriptionDe": "Glasgows ziviles Herz, ein weiter, steingepflasterter Platz, gesäumt von den viktorianischen City Chambers, einem der prächtigsten Rathäuser Großbritanniens. Angeleinte Hunde sind auf dem gesamten Platz und den Gehwegen rund um das Cenotaph und die Statuen willkommen. Der Weihnachtsmarkt im Dezember toleriert Hunde in seinem Außenbereich. Der Platz ist der natürliche Ausgangspunkt für jede Stadtführung.",
+          "petPolicyDe": "Hunde an der Leine willkommen; bei öffentlichen Veranstaltungen kann der Zugang eingeschränkt sein",
+          "tipDe": "Eine 90-minütige angeleinte Schleife vom George Square zur Necropolis, zur Kathedrale und zurück über Merchant City laufen, deckt den historischen Kern in einem entspannten Spaziergang ab."
         },
         {
           "name": "Glasgow Cathedral & Provand's Lordship",
@@ -974,7 +1115,10 @@
           "googleMapsUrl": "https://maps.google.com/?q=Glasgow+Cathedral",
           "descriptionPt": "A única catedral medieval do território continental escocês a sobreviver intacta à Reforma, datada do século XII. O interior da catedral só admite cães de assistência, mas os jardins exteriores, a vizinha Provand's Lordship (a casa mais antiga de Glasgow) e a colina da Necropolis atrás são todos acessíveis com trela. O recinto da catedral oferece uma das paragens fotográficas clássicas e gratuitas da cidade.",
           "petPolicyPt": "Exterior acessível com trela; só cães de assistência no interior",
-          "tipPt": "Combine com um pôr do sol na Necropolis: ambas ficam lado a lado na mesma colina."
+          "tipPt": "Combine com um pôr do sol na Necropolis: ambas ficam lado a lado na mesma colina.",
+          "descriptionDe": "Die einzige mittelalterliche Kathedrale auf dem schottischen Festland, die die Reformation unbeschadet überstand, erbaut im 12. Jahrhundert. Das Innere der Kathedrale lässt nur Assistenzhunde zu, doch die Außengärten, das benachbarte Provand's Lordship (Glasgows ältestes Haus) und der dahinterliegende Hügel der Necropolis sind alle leinenfreundlich. Das Kathedralengelände bietet einen der klassischen kostenlosen Fotostopps der Stadt.",
+          "petPolicyDe": "Außenbereich leinenfreundlich; im Inneren nur Assistenzhunde",
+          "tipDe": "Mit einem Sonnenuntergang an der Necropolis kombinieren, beide liegen Seite an Seite auf demselben Hügel."
         }
       ],
       "tipsEn": [
@@ -1054,6 +1198,22 @@
           "q": "Os cães são permitidos no autocarro turístico panorâmico de Glasgow?",
           "a": "Sim, o circuito descapotável City Sightseeing Glasgow aceita cães com trela no piso superior (se o tempo o permitir). Os circuitos fechados seguem as mesmas regras de autocarro do Reino Unido: ao critério do condutor."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Glasgow",
+      "introDe": "Glasgows Hauptattraktionen teilen sich in Museen, die nur Assistenzhunde zulassen (Kelvingrove, Riverside, Burrell), und das ungewöhnlich großzügige Freilicht-Erbe der West-End-Kopfsteinpflaster, den zivilen Kern rund um den George Square und die Glasgow Necropolis. Das kompakte Stadtzentrum erlaubt eine einzige 90-minütige Spazierrunde, die Kathedrale, George Square, Merchant City und den Uferweg am Clyde umfasst, alles leinenfreundlich. Drei der besten unten.",
+      "faqsDe": [
+        {
+          "q": "Darf mein Hund die Glasgow Cathedral betreten?",
+          "a": "Nur Assistenzhunde dürfen in das Innere der Kathedrale. Die Außengärten, das benachbarte Provand's Lordship und der Hügel der Necropolis sind alle leinenfreundlich und kostenlos."
+        },
+        {
+          "q": "Was ist der beste hundefreundliche Tag in Glasgow?",
+          "a": "Spaziergang durch den Kelvingrove Park, Brunch im The Left Bank, mit ScotRail nachmittags zum Pollok Country Park, dann zurück zum Abendessen und Livemusik im The Clutha oder The Drake."
+        },
+        {
+          "q": "Sind Hunde bei der Glasgow Open-Top-Bustour erlaubt?",
+          "a": "Ja, die Open-Top-Tour von City Sightseeing Glasgow erlaubt angeleinte Hunde auf dem Oberdeck (witterungsabhängig). Bei geschlossenen Touren gelten die üblichen britischen Busregeln: nach Ermessen des Fahrers."
+        }
       ]
     },
     "petsitting": {
@@ -1076,7 +1236,9 @@
           "tipFr": "Filtrez sur West End, Southside ou Merchant City, les trois quartiers avec la plus forte concentration de sitters habitués aux réservations expatriées de dernière minute.",
           "tipEs": "Filtra por West End, Southside o Merchant City: los tres barrios con la mayor concentración de cuidadores acostumbrados a reservas expatriadas de última hora.",
           "descriptionPt": "A plataforma paga de cuidado de cães mais usada do Reino Unido, com centenas de cuidadores verificados em Glasgow que oferecem passeios, visitas pontuais e alojamento noturno. Todas as reservas têm seguro através da plataforma e os passeios incluem localização por GPS. Útil para visitas curtas a museus ou excursões de dia inteiro ao Loch Lomond sem o cão.",
-          "tipPt": "Filtre por West End, Southside ou Merchant City: os três bairros com a maior concentração de cuidadores habituados a reservas de expatriados em cima da hora."
+          "tipPt": "Filtre por West End, Southside ou Merchant City: os três bairros com a maior concentração de cuidadores habituados a reservas de expatriados em cima da hora.",
+          "descriptionDe": "Die meistgenutzte bezahlte Sitter-Plattform Großbritanniens, mit Hunderten geprüften Sittern in Glasgow, die Spaziergänge, Kurzbesuche und Übernachtungsbetreuung anbieten. Alle Buchungen sind über die Plattform versichert, und Spaziergänge beinhalten GPS-Verfolgung. Nützlich für kurze Museumsbesuche oder Ganztagesausflüge nach Loch Lomond ohne Hund.",
+          "tipDe": "Nach West End, Southside oder Merchant City filtern, den drei Vierteln mit der höchsten Dichte an Sittern, die an kurzfristige Buchungen von Expats gewöhnt sind."
         },
         {
           "name": "Rover.com Glasgow",
@@ -1091,7 +1253,9 @@
           "tip": "Book 48 hours ahead on summer weekends and bank holidays in Glasgow.",
           "tipFr": "Reservez 48h a l'avance les week-ends d'ete et jours feries a Glasgow.",
           "tipEs": "Reserva 48h antes los fines de semana de verano y festivos en Glasgow.",
-          "tipPt": "Reserve 48h antes aos fins de semana de verao e feriados em Glasgow."
+          "tipPt": "Reserve 48h antes aos fins de semana de verao e feriados em Glasgow.",
+          "descriptionDe": "Größte britische Plattform für Haustierbetreuung mit geprüften Sittern in ganz Glasgow, die Hundetagesstätten, Kurzbesuche und Übernachtungsbetreuung anbieten. Alle Sitter mit Background-Check, Versicherung inklusive, durchschnittlich 17-26 GBP pro Tag. Starke Abdeckung in West End, Shawlands und Dennistoun.",
+          "tipDe": "An Sommerwochenenden und Feiertagen in Glasgow 48 Stunden im Voraus buchen."
         }
       ],
       "tipsEn": [
@@ -1170,6 +1334,22 @@
         {
           "q": "Os hotéis oferecem pet sitting em Glasgow?",
           "a": "Alguns hotéis de luxo (Kimpton Blythswood, The Grand Central) podem tratar de um cuidador pela receção mediante um custo adicional. Confirme sempre na reserva."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Glasgow",
+      "introDe": "Die Haustierbetreuung in Glasgow wird von Tailster (der bezahlten britischen Plattform) und BorrowMyDoggy (dem kostenlosen Community-Netzwerk) dominiert. Unabhängige lokale Gassigeher konzentrieren sich rund um Kelvingrove, den Pollok Country Park und die Südseite; der Glasgow City Council verlangt eine Lizenz für jeden, der mehr als vier Hunde gleichzeitig auf vom Council verwalteten Flächen ausführt. Die Preise liegen unter London und leicht unter Manchester, Glasgow ist die günstigste britische Großstadt für bezahlte Haustierbetreuung.",
+      "faqsDe": [
+        {
+          "q": "Wo finde ich kurzfristig einen Hundesitter in Glasgow?",
+          "a": "Tailster.com ist am schnellsten, die meisten bezahlten Sitter bestätigen innerhalb weniger Stunden. Nach mindestens 20 Bewertungen filtern und die GPS-verfolgte Gassi-Option prüfen."
+        },
+        {
+          "q": "Sind Gassigeher in Glasgow reguliert?",
+          "a": "Der Glasgow City Council verlangt eine Lizenz für jeden, der mehr als vier Hunde gleichzeitig auf vom Council verwalteten Flächen ausführt. Betreuer über Tailster und BorrowMyDoggy sind über die Plattformen versichert."
+        },
+        {
+          "q": "Bieten Hotels in Glasgow Haustierbetreuung an?",
+          "a": "Ein paar Luxushotels (Kimpton Blythswood, The Grand Central) können über die Rezeption gegen Aufpreis einen Sitter organisieren. Immer bei der Buchung bestätigen."
         }
       ]
     }

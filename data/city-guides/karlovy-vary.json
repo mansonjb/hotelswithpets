@@ -39,7 +39,11 @@
           "tipFr": "Venez avant 10h pour avoir une table en terrasse côté rivière avant les groupes de touristes.",
           "tipEs": "Llega antes de las 10:00 para conseguir mesa en la terraza junto al río antes de que lleguen los grupos.",
           "tipPt": "Chegue antes das 10h00 para conseguir mesa na esplanada junto ao rio antes dos grupos de turistas.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Caf%C3%A9+Elefant+Karlovy+Vary"
+          "googleMapsUrl": "https://www.google.com/maps/search/Caf%C3%A9+Elefant+Karlovy+Vary",
+          "descriptionDe": "Ein prächtiges Kaffeehaus im Wiener Stil an der Hauptkurpromenade, seit dem 18. Jahrhundert in Betrieb und ein fester Bestandteil jedes Spaziergangs durch Karlovy Vary. Hunde sind auf der Terrasse mit Blick auf die Tepla willkommen, mitten im Zentrum der Kolonnaderoute.",
+          "petPolicyDe": "Hunde auf der Terrasse willkommen; ruhige Hunde werden außerhalb der Stoßzeiten meist auch im Inneren akzeptiert",
+          "mustTryDe": "Apfelstrudel mit Wiener Kaffee",
+          "tipDe": "Kommen Sie vor 10:00 Uhr, um einen Terrassentisch mit Flussblick zu bekommen, bevor die Reisegruppen eintreffen"
         },
         {
           "name": "Restaurace Pod Kaštanem",
@@ -65,7 +69,11 @@
           "tipFr": "Pratique après une matinée près du lac Rolava, à quelques minutes à pied dans le même quartier.",
           "tipEs": "Práctico tras una mañana junto al lago Rolava, a pocos minutos a pie en el mismo barrio.",
           "tipPt": "Prático depois de uma manhã junto ao lago Rolava, a poucos minutos a pé no mesmo bairro.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Restaurace+Pod+Ka%C5%A1tanem+Karlovy+Vary"
+          "googleMapsUrl": "https://www.google.com/maps/search/Restaurace+Pod+Ka%C5%A1tanem+Karlovy+Vary",
+          "descriptionDe": "Ein langjähriger lokaler Favorit im Stadtteil Rybáře, der sowohl zwei- als auch vierbeinige Gäste innen und außen willkommen heißt und rund um die Uhr herzhafte tschechische Speisen serviert. Es ist die Adresse, die BringFido für die Stadt an erster Stelle nennt.",
+          "petPolicyDe": "Hunde im Inneren und auf der Terrasse erlaubt",
+          "mustTryDe": "Svíčková mit Knödeln und einem tschechischen Bier",
+          "tipDe": "Praktisch nach einem Vormittag am Rolava-See, ein kurzer Fußweg im selben Stadtteil"
         },
         {
           "name": "Café Pupp",
@@ -91,9 +99,16 @@
           "tipFr": "Combinez avec le sentier forestier vers le funiculaire Diana, dont la gare inférieure est juste derrière l'hôtel.",
           "tipEs": "Combínalo con el sendero forestal hacia el funicular Diana, cuya estación inferior está justo detrás del hotel.",
           "tipPt": "Combine com o trilho florestal até ao funicular Diana, cuja estação inferior fica mesmo atrás do hotel.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Caf%C3%A9+Pupp+Karlovy+Vary"
+          "googleMapsUrl": "https://www.google.com/maps/search/Caf%C3%A9+Pupp+Karlovy+Vary",
+          "descriptionDe": "Die legendäre Konditorei des Grandhotels Pupp, die handgemachte Torten unter Kronleuchtern am Ende der Kurpromenade serviert. Das Pupp ist durchgehend haustierfreundlich, sodass ein Hund zu Ihren Füßen bei Kaffee und Pupp-Torte keine Aufmerksamkeit erregt.",
+          "petPolicyDe": "Hunde willkommen; das Grandhotel Pupp selbst akzeptiert Haustiere",
+          "mustTryDe": "Pupp-Torte und heiße Schokolade",
+          "tipDe": "Kombinieren Sie den Besuch mit dem Waldweg zur Diana-Standseilbahn, deren Talstation direkt hinter dem Hotel liegt"
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Karlovy Vary",
+      "introDe": "Karlovy Varys Café-Kultur ist bemerkenswert entspannt gegenüber Hunden: Die meisten Terrassen entlang der Tepla heißen sie willkommen, und viele historische Kaffeehäuser lassen wohlerzogene Hunde auch im Inneren zu. Reiseführer zählen allein im kompakten Kurgebiet mehr als fünfzehn hundefreundliche Adressen.",
+      "faqsDe": []
     },
     "parks": {
       "titleEn": "Parks & Walks for Dogs in Karlovy Vary",
@@ -147,7 +162,10 @@
           "bestTimeToVisitFr": "Tôt le matin, avant que la promenade thermale ne se remplisse",
           "bestTimeToVisitEs": "A primera hora, antes de que se llene el paseo termal",
           "bestTimeToVisitPt": "De manhã cedo, antes de o passeio termal encher",
-          "googleMapsUrl": "https://www.google.com/maps/search/Dvo%C5%99%C3%A1kovy+sady+Karlovy+Vary"
+          "googleMapsUrl": "https://www.google.com/maps/search/Dvo%C5%99%C3%A1kovy+sady+Karlovy+Vary",
+          "descriptionDe": "Der schönste der zentralen Kurparks, angelegt um die gusseiserne Parkkolonnade mit Blumenbeeten und dem Dvořák-Denkmal. Eine sanfte Leinenrunde zwischen zwei Kolonnadenbesuchen, zwei Minuten von der Mühlbrunnkolonnade entfernt.",
+          "leashRulesDe": "Leinenpflicht jederzeit",
+          "bestTimeToVisitDe": "Früher Morgen, bevor die Kurpromenade sich füllt"
         },
         {
           "name": "Smetanovy sady",
@@ -191,7 +209,10 @@
           "bestTimeToVisitFr": "Fin d'après-midi, quand les fontaines fonctionnent",
           "bestTimeToVisitEs": "Última hora de la tarde, cuando funcionan las fuentes",
           "bestTimeToVisitPt": "Fim de tarde, quando as fontes estão a funcionar",
-          "googleMapsUrl": "https://www.google.com/maps/search/Smetanovy+sady+Karlovy+Vary"
+          "googleMapsUrl": "https://www.google.com/maps/search/Smetanovy+sady+Karlovy+Vary",
+          "descriptionDe": "Ein formaler französischer Garten vor dem monumentalen Elisabethbad, mit breiten Kiesalleen, Brunnen und Rasenflächen. Die symmetrischen Wege ergeben einen leichten, ebenen Leinenspaziergang in einer ansonsten sehr hügeligen Stadt.",
+          "leashRulesDe": "Leinenpflicht; Hunde von den Zierrasenflächen fernhalten",
+          "bestTimeToVisitDe": "Später Nachmittag, wenn die Brunnen in Betrieb sind"
         },
         {
           "name": "Slavkovský les",
@@ -235,9 +256,15 @@
           "bestTimeToVisitFr": "Le matin en été ; la hêtraie garde les sentiers au frais",
           "bestTimeToVisitEs": "Por la mañana en verano; el hayedo mantiene frescos los senderos",
           "bestTimeToVisitPt": "De manhã no verão; a mata de faias mantém os trilhos frescos",
-          "googleMapsUrl": "https://www.google.com/maps/search/Slavkovsk%C3%BD+les+Karlovy+Vary"
+          "googleMapsUrl": "https://www.google.com/maps/search/Slavkovsk%C3%BD+les+Karlovy+Vary",
+          "descriptionDe": "Karlovy Vary ist buchstäblich in den Rand dieses riesigen Naturschutzwaldes gebaut, und rund 130 km markierte Kurwanderwege führen von den Kolonnaden zu Aussichtspunkten wie Diana und dem Drei-Kreuze-Berg. Einheimische führen ihre Hunde auf ruhigen Abschnitten unter Sichtkontrolle ohne Leine, halten Sie Ihren jedoch in der Nähe von Wild und in den Naturschutzzonen an der Leine.",
+          "leashRulesDe": "Freilauf auf Waldwegen unter Sichtkontrolle toleriert; Leinenpflicht in Schutzgebieten und in Wildnähe",
+          "bestTimeToVisitDe": "Morgens im Sommer; der Buchenwald hält die Wege kühl"
         }
-      ]
+      ],
+      "titleDe": "Parks & Spaziergänge für Hunde in Karlovy Vary",
+      "introDe": "Der Kurort liegt in einem Kessel bewaldeter Hügel am Rand des Kaiserwalds (Slavkovský les), sodass gepflegte Kurparks und schier endlose Waldwege nur wenige Minuten von den Kolonnaden entfernt beginnen. In den Stadtparks müssen Hunde an der Leine bleiben; auf den Waldwegen oberhalb der Stadt lassen die Einheimischen sie sich austoben.",
+      "faqsDe": []
     },
     "transport": {
       "titleEn": "Getting Around Karlovy Vary with a Dog",
@@ -292,7 +319,10 @@
           "costEs": "Tarifa canina reducida en ČD; perros pequeños en transportín gratis",
           "costPt": "Tarifa canina reduzida na ČD; cães pequenos em caixa grátis"
         }
-      ]
+      ],
+      "titleDe": "Mit Hund unterwegs in Karlovy Vary",
+      "introDe": "Das Kurgebiet ist Fußgängerzone und kompakt, sodass Sie an den meisten Tagen überhaupt keine Verkehrsmittel benötigen. Wenn doch, nehmen die Stadtbusse der DPKV und die beiden Standseilbahnen Hunde mit: Die tschechischen Vorschriften verlangen entweder eine geschlossene Transportbox oder einen Maulkorb plus kurze Leine, und mit jeder zeitbasierten Karlovy-Vary-Card-Fahrkarte fährt ein Hund kostenlos mit.",
+      "faqsDe": []
     },
     "beaches": {
       "titleEn": "Swimming Spots for Dogs near Karlovy Vary",
@@ -343,7 +373,10 @@
           "seasonalRestrictionsPt": "Nenhuma, todo o ano",
           "googleMapsUrl": "https://www.google.com/maps/search/Svato%C5%A1sk%C3%A9+sk%C3%A1ly"
         }
-      ]
+      ],
+      "titleDe": "Badestellen für Hunde bei Karlovy Vary",
+      "introDe": "Karlovy Vary liegt im Binnenland, und der wichtigste städtische Badesee, der Freizeitkomplex Rolava, lässt keine Hunde zu. Der Ausweg der Einheimischen ist der Fluss Ohře: Kiesbänke und ruhige Seitenarme etwas flussabwärts bieten Hunden ein sicheres, kostenloses Planschvergnügen abseits der bewachten Badezonen.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Veterinarians in Karlovy Vary",
@@ -395,7 +428,10 @@
           "descriptionPt": "Uma clínica de bairro acolhedora em Rybáře: vacinas, documentação de viagem e queixas do dia a dia. Uma boa primeira chamada para verificar o passaporte europeu antes de regressar à Alemanha.",
           "googleMapsUrl": "https://www.google.com/maps/search/PET-VET+MVDr.+Eva+Tich%C3%A1+Karlovy+Vary"
         }
-      ]
+      ],
+      "titleDe": "Tierärzte in Karlovy Vary",
+      "introDe": "Karlovy Varys Tierarztpraxen konzentrieren sich im Stadtteil Rybáře auf der anderen Flussseite des Kurgebiets. Es gibt keine feste 24-Stunden-Klinik in der Stadt: Außerhalb der Öffnungszeiten betreibt die Region Karlovy Vary eine Wochenend-Bereitschaftsregelung zwischen den örtlichen Tierärzten, rufen Sie also immer vorher an. Die EU-weite Notrufnummer ist 112.",
+      "faqsDe": []
     },
     "tips": {
       "titleEn": "Essential Tips for Visiting Karlovy Vary with a Dog",
@@ -482,6 +518,22 @@
           "q": "Os cães podem andar no funicular Diana?",
           "a": "Sim, os cães são admitidos no funicular por uma pequena taxa. O trajeto desde as traseiras do Grandhotel Pupp até ao miradouro Diana demora cerca de três minutos, e no topo esperam trilhos florestais dog-friendly e um restaurante com esplanada."
         }
+      ],
+      "titleDe": "Wichtige Tipps für den Besuch von Karlovy Vary mit Hund",
+      "introDe": "Der weltberühmteste Kurort ist im Umgang mit Hunden unkompliziert, solange Sie eine feste Regel beachten: Sie bleiben außerhalb der Kolonnaden. Planen Sie danach, packen Sie für Hügel und Kopfsteinpflaster, und Karlovy Vary wird zu einer der angenehmsten tschechischen Städte, die man auf vier Pfoten erkunden kann.",
+      "faqsDe": [
+        {
+          "q": "Darf ich meinen Hund mit in die Kolonnaden von Karlovy Vary nehmen?",
+          "a": "Nein. Hunde sind in den Kolonnaden und der geschlossenen Heißsprudel-Halle nicht erlaubt. Sie können die Promenaden daneben trotzdem mit Hund begehen, und eine Person kann den Hund draußen halten, während die andere von den Quellen kostet."
+        },
+        {
+          "q": "Gibt es einen Notfalltierarzt in Karlovy Vary?",
+          "a": "Es gibt keine feste 24-Stunden-Klinik in der Stadt. Die Region Karlovy Vary organisiert eine tierärztliche Wochenend-Bereitschaftsregelung zwischen den örtlichen Praxen, rufen Sie also zuerst eine Klinik wie KVvet (+420 353 567 792) an, die Sie an den diensthabenden Tierarzt verweist."
+        },
+        {
+          "q": "Dürfen Hunde mit der Diana-Standseilbahn fahren?",
+          "a": "Ja, Hunde sind gegen eine geringe Gebühr auf der Standseilbahn erlaubt. Die Fahrt von hinter dem Grandhotel Pupp zum Aussichtspunkt Diana dauert etwa drei Minuten, oben warten hundefreundliche Waldwege und ein Terrassenrestaurant."
+        }
       ]
     },
     "attractions": {
@@ -504,7 +556,8 @@
           "descriptionPt": "A torre miradouro de 1914 sobre o vale termal, acessível por um funicular dog-friendly ou 45 minutos de subida pela floresta. No topo há um restaurante panorâmico com esplanada que aceita cães, um mini zoo e trilhos para outros miradouros.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/Rozhledna+Diana+Karlovy+Vary"
+          "googleMapsUrl": "https://www.google.com/maps/search/Rozhledna+Diana+Karlovy+Vary",
+          "descriptionDe": "Der 1914 erbaute Aussichtsturm über dem Kurtal, erreichbar mit einer hundefreundlichen Standseilbahn oder einem 45-minütigen Waldaufstieg. Oben erwartet Sie ein Panoramaterrassenrestaurant, das Hunde willkommen heißt, ein Minizoo sowie Wanderwege zu weiteren Aussichtspunkten."
         },
         {
           "name": "Mlýnská kolonáda",
@@ -516,7 +569,8 @@
           "descriptionPt": "A mais majestosa das colunatas neorrenascentistas da cidade: 132 metros de colunas que abrigam cinco nascentes quentes. Os cães não podem passar sob a colunata, mas o passeio ribeirinho em frente oferece a fachada completa, e as fotografias, a poucos passos.",
           "dogFriendly": false,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/Ml%C3%BDnsk%C3%A1+kolon%C3%A1da+Karlovy+Vary"
+          "googleMapsUrl": "https://www.google.com/maps/search/Ml%C3%BDnsk%C3%A1+kolon%C3%A1da+Karlovy+Vary",
+          "descriptionDe": "Die prächtigste der neo-renaissance Kolonnaden der Stadt, 132 Meter Säulen, die fünf heiße Quellen überdachen. Hunde dürfen nicht unter die Kolonnade selbst, doch die Uferpromenade davor bietet Ihnen die volle Fassadenansicht und Fotostopps aus wenigen Schritten Entfernung."
         },
         {
           "name": "Svatošské skály",
@@ -528,9 +582,13 @@
           "descriptionPt": "Torres de granito erguidas sobre o rio Ohře, envoltas em lendas e ligadas à cidade por um caminho plano à beira-rio. A ida e volta de 10 km desde Doubí, com ponte pedonal, prados de piquenique e restaurante junto ao trilho, é o passeio clássico de meio dia com cão.",
           "dogFriendly": true,
           "leashRequired": true,
-          "googleMapsUrl": "https://www.google.com/maps/search/Svato%C5%A1sk%C3%A9+sk%C3%A1ly"
+          "googleMapsUrl": "https://www.google.com/maps/search/Svato%C5%A1sk%C3%A9+sk%C3%A1ly",
+          "descriptionDe": "Eine Schlucht aus Granittürmen am Fluss Ohře, umrankt von Legenden und über einen flachen Rad- und Fußweg am Fluss mit der Stadt verbunden. Der 10 km lange Rundweg ab Doubí, mit einer Fußgängerbrücke, Picknickwiesen und einem Restaurant am Wegesrand, ist der klassische Halbtagesausflug mit Hund."
         }
-      ]
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Karlovy Vary",
+      "introDe": "Fast alles Sehenswerte in Karlovy Vary befindet sich im Freien: pastellfarbene Kurfassaden, Promenaden am Fluss und Aussichtstürme im Wald. Ihr Hund kann bei jedem Spaziergang in diesem Guide dabei sein; nur die Innenräume der Kolonnaden und Museen bleiben tabu.",
+      "faqsDe": []
     },
     "petsitting": {
       "titleEn": "Pet Sitting & Dog Walking in Karlovy Vary",
@@ -569,7 +627,10 @@
           "priceRangePt": "A partir de cerca de 300 CZK (12 EUR) por dia",
           "bookingRequired": true
         }
-      ]
+      ],
+      "titleDe": "Haustierbetreuung & Gassi-Service in Karlovy Vary",
+      "introDe": "Wenn Sie eine Kurbehandlung oder eine Kolonnadenführung buchen, bei der Ihr Hund nicht mitkann, verbinden Sie tschechische Online-Plattformen mit geprüften lokalen Betreuern in und um Karlovy Vary. Buchen Sie ein bis zwei Tage im Voraus; der Pool an Betreuern ist kleiner als in Prag.",
+      "faqsDe": []
     }
   }
 }

@@ -39,7 +39,11 @@
           "tipFr": "Réservez la cour en ligne pour le dîner ; les murs intérieurs en granit gardent l'espace frais en été et la salle à l'étage est sans chien.",
           "tipEs": "Reserva el patio online para cenar; los muros interiores de granito mantienen el espacio fresco en verano y la sala superior es sin perros.",
           "tipPt": "Reserve o pátio online para jantar; as paredes interiores de granito mantêm o espaço fresco no verão e a sala superior é sem cães.",
-          "googleMapsUrl": "https://maps.google.com/?q=Historico+by+Papaboa+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Historico+by+Papaboa+Guimaraes",
+          "descriptionDe": "Ein umgebautes Herrenhaus aus dem 17. Jahrhundert mit einer von Granitmauern umgebenen Innenhofterrasse, zwei Gehminuten vom Largo da Oliveira entfernt. Die Küche serviert Minho-Klassiker wie bacalhau à Braga, posta de vitela und rojões mit einer großzügigen Vinho-Verde-Weinkarte, und die Tische im Innenhof heißen ganzjährig angeleinte Hunde willkommen.",
+          "petPolicyDe": "Angeleinte Hunde willkommen auf der Innenhofterrasse; Wassernapf auf Anfrage",
+          "mustTryDe": "Bacalhau à Braga und posta de vitela barrosã mit arroz de feijão",
+          "tipDe": "Reservieren Sie den Innenhof online zum Abendessen; die inneren Granitmauern halten den Raum im Sommer kühl, und der Speisesaal im Obergeschoss ist hundefrei."
         },
         {
           "name": "Cor de Tangerina",
@@ -65,7 +69,11 @@
           "tipFr": "Le déjeuner est plus avantageux ; le menu trois plats change chaque jour et les tables du jardin se remplissent vers 13h15 en été.",
           "tipEs": "El almuerzo es la mejor relación calidad-precio; el menú de tres platos cambia a diario y las mesas del jardín se llenan hacia las 13:15 en verano.",
           "tipPt": "O almoço tem melhor relação qualidade-preço; o menu de três pratos muda diariamente e as mesas do jardim enchem-se pelas 13:15 no verão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Cor+de+Tangerina+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Cor+de+Tangerina+Guimaraes",
+          "descriptionDe": "Ein vegetarisches Bio-Restaurant in einem restaurierten Stadthaus mit einer kleinen Gartenterrasse im Schatten von Orangen- und Zitronenbäumen. Die Tageskarte ist pflanzenbasiert und wechselt je nach Marktangebot; die Gartentische heißen angeleinte Hunde willkommen, und das Personal bringt ungefragt Wassernäpfe.",
+          "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen auf der Gartenterrasse",
+          "mustTryDe": "Tägliches vegetarisches Menü mit lokalen Minho-Produkten und hausgemachtem Brot",
+          "tipDe": "Das Mittagessen ist das bessere Preis-Leistungs-Verhältnis; das Drei-Gänge-Menü wechselt täglich, und die Gartentische sind im Sommer bis 13:15 Uhr voll."
         },
         {
           "name": "Taberna Trovador",
@@ -91,7 +99,11 @@
           "tipFr": "Arrivez à 19h pour le coucher du soleil sur la place ; les tables face au Padrão se remplissent vers 19h45 et il n'y a pas de système de réservation.",
           "tipEs": "Llega a las 19:00 para el atardecer en la plaza; las mesas frente al Padrão se llenan hacia las 19:45 y no hay sistema de reservas.",
           "tipPt": "Chegue às 19:00 para o pôr-do-sol na praça; as mesas em frente ao Padrão enchem-se pelas 19:45 e não há sistema de reservas.",
-          "googleMapsUrl": "https://maps.google.com/?q=Taberna+Trovador+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Taberna+Trovador+Guimaraes",
+          "descriptionDe": "Eine kleine traditionelle tasca auf dem berühmten Platz Largo da Oliveira, mit einer Gehwegterrasse gegenüber dem gotischen Schrein Padrão do Salado. Die Küche serviert Minho-petiscos, gegrilltes Fleisch und lokale Käsesorten; die Tische zum Platz sind ganzjährig hundefreundlich und einer der besten Plätze zum Leute-Beobachten im historischen Zentrum.",
+          "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen auf der Platzterrasse",
+          "mustTryDe": "Tábua de queijos e enchidos da serra und gegrillte picanha mit arroz de tomate",
+          "tipDe": "Kommen Sie um 19:00 Uhr für den Sonnenuntergang auf dem Platz; die Terrassentische mit Blick auf den Padrão sind bis 19:45 Uhr voll, ein Reservierungssystem gibt es nicht."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Qual é a melhor praça para jantar ao ar livre com cão?",
           "a": "O Largo da Oliveira e a Praça de Santiago concentram as esplanadas mais pet-friendly e o melhor observatório, ambos pedonais e iluminados à noite."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Guimarães",
+      "introDe": "Guimarães, die UNESCO-gelistete Geburtsstätte Portugals, vereint in seinem kompakten mittelalterlichen Zentrum rund um Largo da Oliveira, Praça de Santiago und Rua de Santa Maria eine bemerkenswerte Dichte an Gehwegterrassen. Die Granitstraßen sind Fußgängerzonen, und das Klima des Minho hält das Essen im Freien fast das ganze Jahr über möglich, mit angeleinten Hunden auf praktisch jeder Terrasse willkommen.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants in Guimarães drinnen erlaubt?",
+          "a": "Angeleinte Hunde sind auf praktisch jeder Gehwegterrasse im historischen Zentrum willkommen. In klimatisierten Innenräumen im Juli und August sieht man Hunde lieber draußen; fragen Sie an der Tür nach."
+        },
+        {
+          "q": "Stellen Restaurants Wassernäpfe bereit?",
+          "a": "Die meisten Terrassen bringen ungefragt einen Napf; ansonsten funktioniert die Bitte um „água para o cão“ immer."
+        },
+        {
+          "q": "Welcher Platz eignet sich am besten für ein hundefreundliches Abendessen im Freien?",
+          "a": "Largo da Oliveira und Praça de Santiago bündeln die hundefreundlichsten Terrassen und das beste Leute-Beobachten, beide Fußgängerzonen und nachts beleuchtet."
+        }
       ]
     },
     "parks": {
@@ -205,7 +233,11 @@
           "tipFr": "Montez en téléphérique et redescendez à pied par le sentier en forêt de pins ; la descente est ombragée, progressive, et permet au chien de se dégourdir après le téléphérique.",
           "tipEs": "Sube en teleférico y baja a pie por el sendero del bosque de pinos; el descenso es sombreado, gradual, y deja al perro estirarse después del teleférico.",
           "tipPt": "Suba de teleférico e desça a pé pelo trilho da mata de pinheiros; a descida é sombreada, gradual, e deixa o cão estirar-se depois do teleférico.",
-          "googleMapsUrl": "https://maps.google.com/?q=Montanha+da+Penha+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Montanha+da+Penha+Guimaraes",
+          "descriptionDe": "Der 617 m hohe Granitberg, der die südliche Skyline von Guimarães beherrscht, mit markierten Wanderwegen durch Kiefernwald, Picknickplätzen, Aussichtsbalkonen über die Stadt und dem im späten 19. Jahrhundert errichteten Heiligtum von Penha auf dem Gipfel. Angeleinte Hunde sind ganzjährig auf allen Wegen und an allen Außenanlagen willkommen.",
+          "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen auf allen Wegen und Außenanlagen",
+          "facilitiesDe": "Picknicktische, Café-Restaurants, kostenlose Parkplätze nahe dem Gipfel, Heiligtum",
+          "tipDe": "Fahren Sie mit der teleférico hinauf und laufen Sie über den Weg durch den Kiefernwald hinunter; der Abstieg ist schattig, gleichmäßig und lässt Ihren Hund nach der Seilbahnfahrt die Beine vertreten."
         },
         {
           "name": "Ecopista do Rio Ave",
@@ -231,7 +263,11 @@
           "tipFr": "Marchez les 4 premiers km depuis le côté gare de Guimarães ; la forêt riveraine est la plus dense ici et vous pouvez revenir par la route municipale parallèle.",
           "tipEs": "Camina los primeros 4 km desde el lado de la estación de Guimarães; el bosque ribereño es más denso ahí y puedes volver por la carretera municipal paralela.",
           "tipPt": "Caminhe os primeiros 4 km a partir do lado da estação de Guimarães; a mata ribeirinha é mais densa aí e pode regressar pela estrada municipal paralela.",
-          "googleMapsUrl": "https://maps.google.com/?q=Ecopista+Rio+Ave+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Ecopista+Rio+Ave+Guimaraes",
+          "descriptionDe": "Ein 12 km flacher Ecotrack entlang der ehemaligen Bahnstrecke Guimarães-Fafe, der dem Flusstal des Rio Ave durch Kiefernwald, Uferwiesen und zu Rastplätzen umgebaute stillgelegte Bahnhöfe folgt. Mit festem Schotter befestigt, eignet er sich für Hunde jeder Größe und jedes Tempo, und angeleinte Haustiere sind auf der gesamten Strecke willkommen.",
+          "petPolicyDe": "Angeleinte Hunde ganzjährig willkommen auf der gesamten Ecotrack-Strecke",
+          "facilitiesDe": "Kostenlose Parkplätze an beiden Enden, Picknicktische, Trinkbrunnen an umgebauten Bahnhöfen",
+          "tipDe": "Laufen Sie die ersten 4 km vom Bahnhofsende Guimarães aus; der Uferwald ist dort am dichtesten, und Sie können über die parallele Gemeindestraße zurückschleifen."
         },
         {
           "name": "Jardim do Carmo and Parque da Cidade",
@@ -257,7 +293,11 @@
           "tipFr": "La zone canine clôturée est animée 18h-20h quand les propriétaires locaux se rassemblent ; plus calme juste après le lever du soleil.",
           "tipEs": "La zona canina vallada se anima de 18:00 a 20:00 cuando se reúnen los dueños locales; más tranquila justo después del amanecer.",
           "tipPt": "A zona canina vedada anima-se das 18:00 às 20:00 quando os donos locais se reúnem; mais calma logo após o nascer do sol.",
-          "googleMapsUrl": "https://maps.google.com/?q=Jardim+do+Carmo+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Jardim+do+Carmo+Guimaraes",
+          "descriptionDe": "Ein Paar aneinandergrenzender städtischer Gärten am westlichen Rand des historischen Zentrums, mit schattigen Kieswegen, einem kleinen See, Sportrasen und einer eingezäunten Freilaufzone. Kostenlos und rund um die Uhr geöffnet, sind sie die einfachste morgendliche Runde, wenn man innerhalb der mittelalterlichen Mauern übernachtet.",
+          "petPolicyDe": "Angeleinte Hunde überall willkommen; eingezäunter Freilaufbereich vorhanden",
+          "facilitiesDe": "Cafés, Toiletten, Kinderspielplatz, eingezäunte Hundezone",
+          "tipDe": "Die eingezäunte Hundezone ist von 18:00 bis 20:00 Uhr voll, wenn sich lokale Besitzer treffen; ruhiger gleich nach Sonnenaufgang."
         }
       ],
       "tipsEn": [
@@ -335,6 +375,22 @@
           "q": "Onde encontrar passeios sombreados em pleno verão?",
           "a": "A mata de pinheiros da Penha e a Ecopista do Rio Ave são as opções mais constantemente sombreadas perto de Guimarães em julho-agosto."
         }
+      ],
+      "titleDe": "Die besten hundefreundlichen Parks & Bergwanderungen in Guimarães",
+      "introDe": "Guimarães wird an seiner Südflanke vom Berg Penha umschlossen, einem 617 m hohen Granitmassiv aus Kiefern und Eukalyptus, durchzogen von markierten Wanderwegen und erreichbar mit Portugals längster Seilbahn. Innerhalb der Stadt bieten der Parque da Cidade Desportivo und der Jardim do Carmo schattige Grünflächen zur Erholung, während der 12 km lange Ave-Fluss-Ecotrack einen flachen, ganzjährigen Hundespaziergang am Wasser bietet.",
+      "faqsDe": [
+        {
+          "q": "Kann mein Hund mit der Penha-Seilbahn fahren?",
+          "a": "Ja, angeleinte Hunde werden in den Seilbahnkabinen auf dem Schoß des Besitzers akzeptiert; eine Kabine fasst vier Personen plus Hund. Die 5-minütige Fahrt ab der Stadt erspart 4 km Straße."
+        },
+        {
+          "q": "Gibt es in Guimarães einen Hundeauslaufplatz ohne Leine?",
+          "a": "Ja, der Parque da Cidade hat eine eingezäunte Freilaufzone. Außerhalb dieses Bereichs gilt im gesamten Stadtgebiet standardmäßig Leinenpflicht."
+        },
+        {
+          "q": "Wo finde ich im Hochsommer schattige Spaziergänge?",
+          "a": "Der Kiefernwald des Penha und die Ecopista do Rio Ave sind im Juli und August die durchgehend schattigsten Optionen bei Guimarães."
+        }
       ]
     },
     "transport": {
@@ -361,7 +417,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens en laisse muselés + demi-tarif, heures creuses uniquement",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes con correa con bozal + mitad de tarifa, solo horas valle",
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes com trela com açaime + meia tarifa, apenas horas de menor afluência",
-          "googleMapsUrl": "https://maps.google.com/?q=Estacao+CP+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Estacao+CP+Guimaraes",
+          "descriptionDe": "Die CP-Urbano-Linie fährt von Guimarães nach Porto São Bento in etwa 1:10 Std. (rund 3,55 € pro Strecke) über Trofa und Porto Campanhã. Kleine Hunde in Transportboxen reisen kostenlos; größere angeleinte Hunde benötigen einen Maulkorb und ein halbes Ticket, nur in Nebenzeiten.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; größere angeleinte Hunde mit Maulkorb + halbem Fahrpreis, nur Nebenzeiten"
         },
         {
           "name": "TUG Guimarães municipal bus",
@@ -377,7 +435,9 @@
           "petPolicyFr": "Petits chiens en cage gratuits ; grands chiens à la discrétion du chauffeur quand le bus n'est pas plein",
           "petPolicyEs": "Perros pequeños en transportín gratis; grandes a discreción del conductor cuando el bus no está lleno",
           "petPolicyPt": "Cães pequenos em transportadora grátis; grandes à discrição do motorista quando o autocarro vai com lugares",
-          "googleMapsUrl": "https://maps.google.com/?q=Central+de+Camionagem+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Central+de+Camionagem+Guimaraes",
+          "descriptionDe": "Das städtische Busnetz TUG betreibt rund zwanzig Linien, die das historische Zentrum, die Talstation des Penha, das Gerberviertel Couros, die Universität und die umliegenden Gemeinden abdecken. Einzelfahrschein etwa 1,65 €; kleine Hunde in Transportboxen reisen kostenlos, große angeleinte Hunde werden nach Ermessen des Fahrers akzeptiert.",
+          "petPolicyDe": "Kleine Hunde in Transportbox kostenlos; große Hunde nach Ermessen des Fahrers, wenn Bus nicht voll"
         },
         {
           "name": "Teleférico da Penha",
@@ -393,7 +453,9 @@
           "petPolicyFr": "Chiens en laisse bienvenus gratuitement dans chaque cabine sur les genoux du maître",
           "petPolicyEs": "Perros con correa bienvenidos gratis en cada cabina en el regazo del dueño",
           "petPolicyPt": "Cães com trela bem-vindos grátis em cada cabine ao colo do dono",
-          "googleMapsUrl": "https://maps.google.com/?q=Teleferico+da+Penha+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Teleferico+da+Penha+Guimaraes",
+          "descriptionDe": "Portugals längste Seilbahn steigt in 7 Minuten 1,7 km vom südlichen Stadtrand zum Gipfel des Penha auf, mit Kabinen für vier Fahrgäste plus Hund. Hin- und Rückfahrt etwa 6,20 €, Hunde fahren kostenlos in der Kabine auf dem Schoß des Besitzers mit; der unkomplizierteste Weg hinauf zu den Bergwegen und dem Heiligtum.",
+          "petPolicyDe": "Angeleinte Hunde kostenlos willkommen in jeder Kabine auf dem Schoß des Besitzers"
         }
       ],
       "tipsEn": [
@@ -470,6 +532,22 @@
         {
           "q": "O aeroporto do Porto OPO é pet-friendly?",
           "a": "Sim, o OPO aceita cães com trela nas zonas públicas do terminal e a TAP Portugal aceita animais em cabine até 8 kg com reserva prévia. O aeroporto fica a 60 km a oeste de Guimarães pelas auto-estradas A7-A3 (45 min de carro)."
+        }
+      ],
+      "titleDe": "Öffentliche Verkehrsmittel in Guimarães mit Hund",
+      "introDe": "Guimarães liegt am östlichen Ende von CPs Stadtlinie Linha de Guimarães ab Porto São Bento (1:10 Std.), wird vom städtischen Busnetz TUG innerhalb der Stadt bedient und ist mit Portugals längster Seilbahn mit dem Gipfel des Penha verbunden. Die portugiesischen Regeln lassen kleine Hunde in Transportboxen kostenlos mitfahren und akzeptieren große, maulkorbtragende, angeleinte Hunde in Nebenzeiten; die Teleférico da Penha heißt angeleinte Hunde in jeder Kabine willkommen.",
+      "faqsDe": [
+        {
+          "q": "Brauche ich für meinen Hund im Zug nach Porto einen Maulkorb?",
+          "a": "Ja, größere Hunde, die nicht in einer Transportbox sind, müssen in CP-Stadtzügen einen Maulkorb tragen. Kleine Hunde in geschlossenen Boxen sind davon ausgenommen und reisen kostenlos."
+        },
+        {
+          "q": "Kann ich meinen Hund im TUG-Bus mitnehmen?",
+          "a": "Ja, kleine Hunde in Transportboxen reisen kostenlos; große Hunde werden nach Ermessen des Fahrers akzeptiert, wenn der Bus nicht voll ist."
+        },
+        {
+          "q": "Ist der Flughafen Porto OPO haustierfreundlich?",
+          "a": "Ja, OPO akzeptiert angeleinte Hunde in den öffentlichen Terminalbereichen, und TAP Portugal akzeptiert Kabinenhaustiere unter 8 kg mit Voranmeldung. Der Flughafen liegt 60 km westlich von Guimarães über die Autobahnen A7-A3 (45 Autominuten)."
         }
       ]
     },
@@ -589,6 +667,22 @@
           "q": "Existem piscinas termais que aceitem cães?",
           "a": "Não, a zona de piscina das Termas das Taipas é para clientes pagantes apenas com cães de assistência. O parque ribeirinho envolvente aceita cães com trela e fica aberto o ano inteiro."
         }
+      ],
+      "titleDe": "Fluss- und Poolbadestellen im Landesinneren bei Guimarães",
+      "introDe": "Guimarães liegt 60 km landeinwärts vom Atlantik, daher behandelt dieser Guide Flussstrände (praias fluviais) und Thermalbäder, die lokale Hundebesitzer während der heißen Minho-Sommer nutzen. Der Rio Ave und seine Nebenflüsse durchschneiden Granittäler mit schattigen Badestellen, und die historische Kurstadt Caldas das Taipas, 7 km westlich, hat einen Uferpark, in dem angeleinte Hunde ganzjährig im Ave planschen dürfen.",
+      "faqsDe": [
+        {
+          "q": "Liegt Guimarães an der Küste?",
+          "a": "Nein, Guimarães liegt 60 km landeinwärts in der Provinz Minho. Die nächstgelegenen Atlantik-Hundestrände liegen bei Vila do Conde und Póvoa de Varzim, etwa 50 km westlich mit dem Auto."
+        },
+        {
+          "q": "Kann mein Hund im Rio Ave schwimmen?",
+          "a": "Ja, angeleinte Hunde können ganzjährig im Fluss am Parque das Taipas und an anderen unbeaufsichtigten Flussstellen planschen. Die offiziellen Sommer-Badezonen (15. Juni-15. September) schränken Hunde in der Nähe der Rettungsschwimmer-Flaggen ein."
+        },
+        {
+          "q": "Gibt es Thermalbäder, die Hunde zulassen?",
+          "a": "Nein, der Poolbereich der Termas das Taipas ist zahlenden Gästen vorbehalten, Hunde nur als Assistenzhunde. Der umliegende Uferpark lässt angeleinte Hunde zu und ist ganzjährig geöffnet."
+        }
       ]
     },
     "vets": {
@@ -636,7 +730,12 @@
           "tipFr": "Enregistrez le numéro d'urgence avant toute balade sur la Penha ; la couverture mobile chute en forêt de pins et il faudra peut-être appeler avant de redescendre.",
           "tipEs": "Guarda el número de urgencias antes de cualquier paseo en la Penha; la cobertura móvil cae en el bosque de pinos y puede que tengas que llamar antes de bajar.",
           "tipPt": "Guarde o número de urgência antes de qualquer passeio na Penha; a cobertura móvel cai na mata de pinheiros e pode ter de ligar antes de descer.",
-          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Hospital+Veterinario+Guimaraes",
+          "hoursDe": "24/7 Notfalllinie; Klinik Mo-Sa 9:00-20:00 Uhr",
+          "descriptionDe": "Das Referenz-Tierkrankenhaus für die Region Vale do Ave, mit Bildgebung, Chirurgie, Innerer Medizin und Notfallversorgung außerhalb der Öffnungszeiten. Gelegen in der Rua de Santa Luzia direkt südlich des historischen Zentrums, mit einfachem Parken und einem englischsprachigen leitenden Team.",
+          "petPolicyDe": "Notfälle ohne Termin immer angenommen; bei schweren Verletzungen vorher anrufen",
+          "servicesDe": "Notfall, Chirurgie, Bildgebung, Innere Medizin, Zahnbehandlung",
+          "tipDe": "Speichern Sie die Notfallnummer vor jeder Bergwanderung am Penha; der Mobilfunkempfang bricht im Kiefernwald ab, und Sie müssen möglicherweise vor der Abfahrt anrufen."
         },
         {
           "name": "Clínica Veterinária do Toural",
@@ -672,7 +771,12 @@
           "tipFr": "Réservez le premier créneau du matin pour une validation passeport européen le jour même avant un vol depuis Porto OPO ; les après-midis se remplissent de consultations locales.",
           "tipEs": "Reserva el primer hueco de la mañana para validación de pasaporte UE el mismo día antes de un vuelo desde Oporto OPO; las tardes se llenan de consultas locales.",
           "tipPt": "Reserve o primeiro slot da manhã para validação de passaporte UE no mesmo dia antes de um voo do Porto OPO; as tardes enchem-se com consultas locais.",
-          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Toural+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Clinica+Veterinaria+Toural+Guimaraes",
+          "hoursDe": "Mo-Fr 9:00-13:00 und 15:00-19:30 Uhr; Sa 9:00-13:00 Uhr; So geschlossen",
+          "descriptionDe": "Eine zentrale Allgemeinpraxis am Largo do Toural, 5 Minuten vom Largo da Oliveira entfernt, ideal für Impfauffrischungen, EU-Ausweis-Stempel und kleinere Konsultationen außerhalb von Notfällen. Überweist bei Fällen außerhalb der Öffnungszeiten und komplexen Fällen an das Hospital Veterinário de Guimarães.",
+          "petPolicyDe": "Termine bevorzugt; ohne Termin zwischen gebuchten Slots möglich",
+          "servicesDe": "Impfungen, EU-Ausweis, Allgemeinmedizin, kleinere Operationen",
+          "tipDe": "Buchen Sie den ersten Vormittagstermin für eine EU-Ausweisfreigabe am selben Tag vor einem Flug ab Porto OPO; nachmittags sind die Slots mit lokalen Konsultationen belegt."
         },
         {
           "name": "UPVet Hospital Veterinário de Referência (Porto)",
@@ -708,7 +812,12 @@
           "tipFr": "Conduisez-vous plutôt que d'appeler un taxi si votre chien saigne ou convulse ; le transfert A7-A3 vers Vairão est plus rapide que d'attendre un pet-taxi la nuit.",
           "tipEs": "Conduce tú mismo en vez de llamar a un taxi si tu perro sangra o convulsiona; el traslado A7-A3 a Vairão es más rápido que esperar un pet-taxi por la noche.",
           "tipPt": "Conduza você mesmo em vez de chamar táxi se o seu cão sangrar ou convulsionar; a transferência A7-A3 para Vairão é mais rápida do que esperar por um pet-taxi à noite.",
-          "googleMapsUrl": "https://maps.google.com/?q=UPVet+Hospital+Veterinario+Vairao"
+          "googleMapsUrl": "https://maps.google.com/?q=UPVet+Hospital+Veterinario+Vairao",
+          "hoursDe": "24/7 Notfall und Fachmedizin",
+          "descriptionDe": "Das tiermedizinische Lehrkrankenhaus der Universität Porto, das fachärztliche 24/7-Überweisungskrankenhaus für Nordportugal. Deckt Kardiologie, Onkologie, Neurologie und komplexe Chirurgie ab, die das Hospital Veterinário de Guimarães weiterüberweisen kann; 50 Minuten von Guimarães über die Autobahnen A7-A3.",
+          "petPolicyDe": "Überweisungsbasiert; Notfälle ohne Termin angenommen",
+          "servicesDe": "Kardiologie, Onkologie, Neurologie, komplexe Chirurgie, 24-Stunden-Intensivstation",
+          "tipDe": "Fahren Sie selbst, statt ein Taxi zu rufen, wenn Ihr Hund blutet oder einen Anfall hat; die Fahrt über A7-A3 nach Vairão geht schneller, als nachts auf ein Haustier-Taxi zu warten."
         }
       ],
       "tipsEn": [
@@ -785,6 +894,22 @@
         {
           "q": "Posso carimbar um passaporte UE antes de voar do Porto?",
           "a": "Sim, as duas clínicas de Guimarães listadas emitem e actualizam passaportes UE. As consultas no próprio dia estão normalmente disponíveis para cães saudáveis."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte in Guimarães",
+      "introDe": "Guimarães verfügt über mehrere allgemeine Tierarztpraxen im Stadtzentrum, die tagsüber geöffnet sind, und das Hospital Veterinário de Guimarães bietet 24/7-Notfallversorgung für den östlichen Minho. Für Facharztüberweisungen decken das UPVet Hospital Veterinário de Referência in Porto (60 km westlich) und das Hospital Veterinário do Porto anspruchsvolle Fälle in Kardiologie, Onkologie und Neurologie ab.",
+      "faqsDe": [
+        {
+          "q": "Wo ist der nächstgelegene 24-Stunden-Tierarzt zu Guimarães?",
+          "a": "Das Hospital Veterinário de Guimarães in der Rua de Santa Luzia (+351 253 511 020) betreibt die 24/7-Notfalllinie für die Stadt und die Region Vale do Ave, 1,5 km südlich des historischen Zentrums."
+        },
+        {
+          "q": "Sprechen die Tierärzte in Guimarães Englisch?",
+          "a": "Ja, im Hospital Veterinário de Guimarães und in der zentralen Clínica do Toural; die leitenden Tierärzte sind dank der Expat- und Touristenklientel der UNESCO-Stadt durchweg fließend."
+        },
+        {
+          "q": "Kann ich vor einem Abflug ab Porto einen EU-Heimtierausweis-Stempel bekommen?",
+          "a": "Ja, beide gelisteten Kliniken in Guimarães stellen EU-Heimtierausweise aus und aktualisieren sie. Für gesunde Hunde sind Termine am selben Tag meist verfügbar."
         }
       ]
     },
@@ -881,6 +1006,22 @@
           "q": "Qual é o melhor mês para Guimarães com cão?",
           "a": "Maio-junho e setembro-outubro: temperaturas suaves, menor humidade, menos gente e acesso completo aos trilhos da Penha e à ecopista do Ave fora das tardes de verão mais quentes."
         }
+      ],
+      "titleDe": "Haustierfreundliche Tipps für einen Besuch in Guimarães",
+      "introDe": "Guimarães belohnt Reisende mit Haustier mit dem begehbarsten mittelalterlichen Zentrum Nordportugals, einem Granitberg, den man mit Europas längster hundefreundlicher Seilbahn erreicht, einem 12 km flachen Ecotrack entlang des Rio Ave, und dem am dichtesten konzentrierten UNESCO-Welterbe-Erlebnis im Freien, das durchweg angeleinte Hunde zulässt. Planen Sie Reisen für April bis Oktober, um den nassen Minho-Winter zu vermeiden, und übernachten Sie innerhalb der mittelalterlichen Mauern für autofreie Hundelogistik.",
+      "faqsDe": [
+        {
+          "q": "Ist Guimarães eine gute Basis für einen haustierfreundlichen Minho-Urlaub?",
+          "a": "Ja, die Kombination aus begehbarer UNESCO-Altstadt, Penha-Bergwegen, erreichbar mit einer hundefreundlichen Seilbahn, dem 12 km langen Rio-Ave-Ecotrack und 24/7-Tierarztversorgung macht sie zur stärksten Haustierbasis im östlichen Minho."
+        },
+        {
+          "q": "Brauche ich in der Öffentlichkeit in Guimarães einen Maulkorb?",
+          "a": "Nur für Rassen auf der portugiesischen Liste eingeschränkter Rassen; Standardrassen brauchen nur eine Leine. Der TUG-Bus und der CP-Stadtzug akzeptieren maulkorbtragende große Hunde und kostenlose kleine Hunde in Transportboxen."
+        },
+        {
+          "q": "Was ist der beste Monat für Guimarães mit Hund?",
+          "a": "Mai-Juni und September-Oktober: milde Temperaturen, geringere Luftfeuchtigkeit, weniger Andrang und voller Zugang zu den Penha-Wegen und dem Ave-Ecotrack außerhalb der heißesten Sommernachmittage."
+        }
       ]
     },
     "attractions": {
@@ -914,7 +1055,11 @@
           "tipFr": "Faites le tour des remparts à l'heure dorée juste avant le coucher du soleil ; le granit rougeoie orange et la ville en contrebas s'illumine pour l'une des plus belles vues du nord du Portugal.",
           "tipEs": "Recorre las murallas en la hora dorada justo antes del atardecer; el granito brilla anaranjado y la ciudad abajo se ilumina para una de las mejores vistas del norte de Portugal.",
           "tipPt": "Faça o circuito das muralhas à hora dourada mesmo antes do pôr-do-sol; o granito brilha alaranjado e a cidade em baixo ilumina-se para uma das melhores vistas do norte de Portugal.",
-          "googleMapsUrl": "https://maps.google.com/?q=Castelo+de+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Castelo+de+Guimaraes",
+          "descriptionDe": "Die Granitburg aus dem 10. Jahrhundert auf dem Hügel über der Stadt, traditioneller Geburtsort von Afonso Henriques, dem ersten König Portugals. Die äußeren Wälle, der Zugang zum Burgfried und die umliegenden Rasenflächen sind ganzjährig hundefreundlich; nur das Innere des Burgfrieds, in dem sich das kleine Museum befindet, ist für Nicht-Assistenzhunde geschlossen.",
+          "dogPolicyDe": "Angeleinte Hunde willkommen auf Wällen und Rasenflächen; Burgfried-Inneres nur Assistenzhunde",
+          "admissionFeeDe": "Außenbereich kostenlos; Burgfried 2 €",
+          "tipDe": "Laufen Sie die Wallrunde zur goldenen Stunde kurz vor Sonnenuntergang; der Granit leuchtet orange, und die Stadt darunter erstrahlt für einen der besten Ausblicke Nordportugals."
         },
         {
           "name": "Paço dos Duques de Bragança",
@@ -937,7 +1082,11 @@
           "tipFr": "Combinez le Paço et le Castelo en un seul billet (7 €) et marchez entre eux par la ruelle médiévale ; la visite totale incluant les jardins à la française prend environ 90 minutes avec un chien en laisse.",
           "tipEs": "Combina el Paço y el Castelo en una sola entrada (7 €) y camina entre ellos por la callejuela medieval; la visita total incluyendo los jardines a la francesa dura unos 90 minutos con un perro con correa.",
           "tipPt": "Combine o Paço e o Castelo num único bilhete (7 €) e caminhe entre eles pela ruela medieval; a visita total incluindo os jardins à francesa demora cerca de 90 minutos com um cão com trela.",
-          "googleMapsUrl": "https://maps.google.com/?q=Paco+dos+Duques+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Paco+dos+Duques+Guimaraes",
+          "descriptionDe": "Der herzogliche Palast aus Ziegel und Granit aus dem 15. Jahrhundert, erbaut für den ersten Herzog von Bragança, mit seinen 39 Backsteinkaminen, dem Innenhof und den formalen Gärten. Die Gärten und der äußere Innenhof sind ganzjährig hundefreundlich; das Palastinnere mit seinen Wandteppichen und der Museumssammlung lässt nur Assistenzhunde zu.",
+          "dogPolicyDe": "Angeleinte Hunde willkommen in den Gärten und im äußeren Innenhof; Palastinneres nur Assistenzhunde",
+          "admissionFeeDe": "Gärten kostenlos; Palast 6 €",
+          "tipDe": "Kombinieren Sie Paço und Castelo mit einem Ticket (7 €) und laufen Sie über die mittelalterliche Gasse dazwischen; der gesamte Besuch inklusive der formalen Gärten dauert mit angeleintem Hund etwa 90 Minuten."
         },
         {
           "name": "Largo da Oliveira and Padrão do Salado",
@@ -960,7 +1109,11 @@
           "tipFr": "La place accueille le marché alimentaire du dimanche matin ; les matins de semaine plus calmes laissent votre chien explorer le Padrão sans foule.",
           "tipEs": "La plaza acoge el mercado alimentario del domingo por la mañana; las mañanas laborables más tranquilas dejan a tu perro explorar el Padrão sin gentío.",
           "tipPt": "A praça acolhe o mercado alimentar de domingo de manhã; as manhãs úteis mais calmas deixam o seu cão explorar o Padrão sem multidão.",
-          "googleMapsUrl": "https://maps.google.com/?q=Largo+da+Oliveira+Guimaraes"
+          "googleMapsUrl": "https://maps.google.com/?q=Largo+da+Oliveira+Guimaraes",
+          "descriptionDe": "Der ikonische mittelalterliche Platz im Herzen der UNESCO-Altstadt, benannt nach einem legendären Olivenbaum, mit dem gotischen Schrein Padrão do Salado (1342), der den portugiesischen Sieg in der Schlacht von Salado würdigt, der Igreja de Nossa Senhora da Oliveira sowie den Granitarkaden der Antigos Paços do Concelho. Der Platz ist eine reine Fußgänger-Freifläche, ganzjährig hundefreundlich.",
+          "dogPolicyDe": "Angeleinte Hunde ganzjährig willkommen auf dem gesamten Platz; Kircheninneres nur Assistenzhunde",
+          "admissionFeeDe": "Kostenlos",
+          "tipDe": "Sonntagmorgens findet auf dem Platz ein Lebensmittelmarkt statt; an ruhigeren Wochentagvormittagen kann Ihr Hund den Padrão ohne Gedränge erkunden."
         }
       ],
       "tipsEn": [
@@ -1038,6 +1191,22 @@
           "q": "A cidade velha de Guimarães é acessível a pé com um cão?",
           "a": "Sim, todo o circuito UNESCO é pedonal e um cão com trela faz o circuito completo (Castelo, Paço, Largo da Oliveira, Rua de Santa Maria) em cerca de 90 minutos."
         }
+      ],
+      "titleDe": "Top hundefreundliche Sehenswürdigkeiten in Guimarães",
+      "introDe": "Guimarães versammelt die dichteste Sammlung an UNESCO-Freiluft-Erbe in Nordportugal: das Castelo aus dem 10. Jahrhundert, in dem der erste König Portugals geboren wurde, den Palast Paço dos Duques de Bragança aus dem 15. Jahrhundert, den mittelalterlichen Platz Largo da Oliveira mit dem gotischen Schrein Padrão do Salado, sowie die Granitstraße Rua de Santa Maria, die sie verbindet. Alle wichtigen Freiluftstätten lassen angeleinte Hunde zu; nur die kleinen Museumsinnenräume sind Assistenzhunden vorbehalten.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in den Museen von Guimarães erlaubt?",
+          "a": "Nur Assistenzhunde dürfen die Museumsinnenräume betreten (Paço dos Duques, Burgfried des Castelo, Alberto Sampaio, Sociedade Martins Sarmento); angeleinte Haustiere sind auf allen Plätzen, Wällen, Gärten und Freiluft-Erbestätten willkommen."
+        },
+        {
+          "q": "Kann ich meinen Hund mit der Penha-Seilbahn mitnehmen?",
+          "a": "Ja, angeleinte Hunde fahren kostenlos in den Kabinen der Teleférico da Penha auf dem Schoß des Besitzers mit; die 7-minütige Fahrt zum Gipfel bietet dasselbe Panorama wie die kurvenreiche Bergstraße."
+        },
+        {
+          "q": "Ist die Altstadt von Guimarães mit Hund begehbar?",
+          "a": "Ja, der gesamte UNESCO-Rundgang ist Fußgängerzone, und ein angeleinter Hund bewältigt die komplette Runde (Castelo, Paço, Largo da Oliveira, Rua de Santa Maria) in etwa 90 Minuten."
+        }
       ]
     },
     "petsitting": {
@@ -1067,7 +1236,10 @@
           "servicesFr": "Visites, garde de jour, pension de nuit",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno",
           "servicesPt": "Visitas, creche diurna, alojamento nocturno",
-          "openingHours": "App available 24/7; sitters set own hours"
+          "openingHours": "App available 24/7; sitters set own hours",
+          "descriptionDe": "Die führende Peer-to-Peer-Plattform für Haustierbetreuung in Portugal, mit verifizierten Gastgebern in Guimarães, die Kurzbesuche, Tagesbetreuung und Übernachtungsbetreuung anbieten. Die meisten Gastgeber haben Erdgeschosswohnungen in Creixomil und Costa oder kleine Minho-Gärten mit schnellem Zugang nach draußen.",
+          "petPolicyDe": "Richtlinien je nach Gastgeber; versicherte und bewertete Buchungen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungsbetreuung"
         },
         {
           "name": "DogHero Guimarães",
@@ -1086,7 +1258,10 @@
           "servicesFr": "Visites, garde de jour, pension de nuit, balades",
           "servicesEs": "Visitas, guardería diurna, alojamiento nocturno, paseos",
           "servicesPt": "Visitas, creche diurna, alojamento nocturno, passeios",
-          "openingHours": "App available 24/7; sitters set own hours"
+          "openingHours": "App available 24/7; sitters set own hours",
+          "descriptionDe": "Das aus Brasilien stammende DogHero ist die zweitgrößte Peer-to-Peer-Plattform für Haustierbetreuung in Portugal, mit Gastgebern im Zentrum von Guimarães, in Costa, Creixomil und dem ländlichen Briteiros. Verifizierte Profile, versicherte Aufenthalte und In-App-Nachrichten auf Portugiesisch und Englisch.",
+          "petPolicyDe": "Richtlinien je nach Gastgeber; versicherte und bewertete Buchungen",
+          "servicesDe": "Kurzbesuche, Tagesbetreuung, Übernachtungsbetreuung, Gassi-Service"
         }
       ],
       "tipsEn": [
@@ -1163,6 +1338,22 @@
         {
           "q": "Tenho de levar a comida do cão ao cuidador?",
           "a": "A maioria dos anfitriões prefere continuidade; leve 2-3 dias da ração habitual e a taça do cão para limitar transtornos digestivos."
+        }
+      ],
+      "titleDe": "Haustierbetreuung & Hundepension in Guimarães",
+      "introDe": "Guimarães verfügt dank seines UNESCO-Tourismusstroms und der Studentenschaft der Universidade do Minho über ein wachsendes Netz an Haustierbetreuung. Die meisten Dienste laufen über Pawshake und DogHero, mit verifizierten Gastgebern im Stadtzentrum, in Costa, Creixomil und dem ländlichen Umland von Briteiros. Englisch wird in den zentralen Vierteln weit verbreitet gesprochen.",
+      "faqsDe": [
+        {
+          "q": "Was kostet Haustierbetreuung in Guimarães?",
+          "a": "Rechnen Sie mit 18-28 € pro Nacht für die Unterbringung und 10-16 € pro 30-minütigem Spaziergang über Pawshake oder DogHero; ländliche Hundepensionen in Briteiros verlangen ab 22 € pro Tag."
+        },
+        {
+          "q": "Können Hotels für einen Abend einen Betreuer empfehlen?",
+          "a": "Ja, größere Hotels in Guimarães führen eine kurze Liste von Pawshake-Gastgebern, die Abendbesuche übernehmen, nützlich für einen Restaurantabend in Porto oder eine Vinho-Verde-Verkostung im Lima-Tal."
+        },
+        {
+          "q": "Muss ich das Futter meines Hundes zu einem Betreuer mitbringen?",
+          "a": "Die meisten Gastgeber bevorzugen Kontinuität; bringen Sie 2-3 Tage vom gewohnten Trockenfutter sowie den gewohnten Napf des Hundes mit, um Magenprobleme zu vermeiden."
         }
       ]
     }

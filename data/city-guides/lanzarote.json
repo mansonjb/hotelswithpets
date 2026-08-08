@@ -39,7 +39,11 @@
           "tipFr": "Réservez une table au coucher du soleil sur la terrasse ; la lumière sur les falaises de Famara est la raison de venir.",
           "tipEs": "Reserva mesa al atardecer en la terraza; la luz sobre el risco de Famara es el motivo para venir.",
           "tipPt": "Reserve mesa ao pôr do sol na esplanada; a luz sobre o risco de Famara é o motivo para vir.",
-          "googleMapsUrl": "https://www.google.com/maps/search/El+Risco+Famara+Lanzarote"
+          "googleMapsUrl": "https://www.google.com/maps/search/El+Risco+Famara+Lanzarote",
+          "descriptionDe": "Ein gefeiertes Restaurant direkt am Meer im Surferort Famara, unterhalb der Klippen von Risco de Famara, in einem Gebäude, das einst der Familie von César Manrique gehörte. Bekannt für frischen Fisch, Reisgerichte und Sonnenuntergangsblicke auf La Graciosa. Angeleinte Hunde sind auf der weiten Terrasse zum Ozean willkommen.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse zum Ozean willkommen.",
+          "mustTryDe": "Arroz caldoso de bogavante und der Fang des Tages.",
+          "tipDe": "Reservieren Sie einen Tisch auf der Terrasse zum Sonnenuntergang; das Licht auf den Klippen von Famara ist der Grund, hierher zu kommen."
         },
         {
           "name": "La Cantina Teguise",
@@ -65,7 +69,11 @@
           "tipFr": "À combiner avec le marché du dimanche de Teguise ; arrivez avant midi, quand les ruelles se remplissent.",
           "tipEs": "Combínalo con el mercado del domingo de Teguise; llega antes del mediodía, cuando se llenan las calles.",
           "tipPt": "Combine com o mercado de domingo de Teguise; chegue antes do meio-dia, quando as ruas enchem.",
-          "googleMapsUrl": "https://www.google.com/maps/search/La+Cantina+Teguise+Lanzarote"
+          "googleMapsUrl": "https://www.google.com/maps/search/La+Cantina+Teguise+Lanzarote",
+          "descriptionDe": "Ein entspanntes Bistro in einem historischen Haus in der alten Hauptstadt Teguise, mit einem begrünten Innenhof und einer Straßenterrasse in den Kopfsteinpflastergassen. Tapas, lokale Käsesorten und kanarische Weine; ein beliebter Stopp am Sonntagsmarkttag. Angeleinte Hunde sind auf Terrasse und Innenhof willkommen.",
+          "petPolicyDe": "Angeleinte Hunde auf Terrasse und Innenhof willkommen.",
+          "mustTryDe": "Queso majorero a la plancha und ein Brett mit kanarischen Tapas.",
+          "tipDe": "Kombinieren Sie den Besuch mit dem Sonntagsmarkt in Teguise; kommen Sie vor Mittag, bevor die Gassen voll werden."
         },
         {
           "name": "Bar Café Janubio",
@@ -91,7 +99,11 @@
           "tipFr": "Prenez une table face à la mer au coucher du soleil, puis flânez sur la promenade avec votre chien.",
           "tipEs": "Coge una mesa frente al mar al atardecer y luego pasea por el paseo con tu perro.",
           "tipPt": "Apanhe uma mesa de frente para o mar ao pôr do sol e depois passeie pelo passeio com o seu cão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Avenida+de+las+Playas+Puerto+del+Carmen+Lanzarote"
+          "googleMapsUrl": "https://www.google.com/maps/search/Avenida+de+las+Playas+Puerto+del+Carmen+Lanzarote",
+          "descriptionDe": "Ein entspanntes Café-Bar am Meer entlang der Promenade Avenida de las Playas in Puerto del Carmen, das Frühstück, kanarische Tapas und gegrillten Fisch mit einer Terrasse zum Meer serviert. Die Fußgängerpromenade davor ist ein leichter Spaziergang an der Leine; Hunde sind an den Terrassentischen willkommen.",
+          "petPolicyDe": "Angeleinte Hunde auf der Terrasse willkommen.",
+          "mustTryDe": "Gegrillte vieja (Papageifisch) mit papas und ein café cortado.",
+          "tipDe": "Ergattern Sie zum Sonnenuntergang einen Tisch mit Meerblick und schlendern Sie danach mit Ihrem Hund die Promenade entlang."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "Posso comer fora com o meu cão no inverno?",
           "a": "Sim. Lanzarote ronda os 21-24 C de dia mesmo em dezembro e janeiro, por isso comer na esplanada com cão funciona o ano inteiro. As noites podem ser ventosas; leve uma camada para si."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants auf Lanzarote",
+      "introDe": "Auf Lanzarote isst man fast das ganze Jahr über draußen, und das kommt Hunden sehr entgegen. Bei Tagestemperaturen um 21-24 °C selbst im Winter sind die Uferpromenaden von Puerto del Carmen, Playa Blanca und Costa Teguise gesäumt von Terrassen, auf denen angeleinte Hunde ein gewohnter Anblick sind. Bestellen Sie papas arrugadas con mojo, frischen Fisch oder ein Glas vulkanischen Malvasía aus La Geria, und Ihr Hund bekommt dazu eine Wasserschale.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants auf Lanzarote erlaubt?",
+          "a": "Auf Terrassen ja, fast überall entlang der Uferpromenaden und in den Altstädten für angeleinte Hunde. Innenräume hängen vom jeweiligen Betreiber ab, aber beim milden ganzjährigen Klima finden die meisten Mahlzeiten ohnehin draußen statt."
+        },
+        {
+          "q": "Kann ich im Winter mit meinem Hund draußen essen?",
+          "a": "Ja. Auf Lanzarote liegen die Tagestemperaturen selbst im Dezember und Januar bei 21-24 °C, sodass Terrassenessen mit Hund das ganze Jahr über funktioniert. Abends kann es windig werden, bringen Sie also eine zusätzliche Schicht für sich selbst mit."
+        }
       ]
     },
     "parks": {
@@ -183,7 +207,10 @@
           "tipFr": "Parcourez la route de La Geria tôt ; des bodegas comme El Grifo accueillent les chiens en laisse sur leurs terrasses extérieures pour une dégustation.",
           "tipEs": "Recorre la carretera de La Geria temprano; bodegas como El Grifo admiten perros con correa en sus terrazas exteriores para una cata.",
           "tipPt": "Percorra a estrada de La Geria cedo; bodegas como El Grifo aceitam cães à trela nas suas esplanadas exteriores para uma prova.",
-          "googleMapsUrl": "https://www.google.com/maps/search/La+Geria+Lanzarote"
+          "googleMapsUrl": "https://www.google.com/maps/search/La+Geria+Lanzarote",
+          "descriptionDe": "Die riesige geschützte Vulkanlandschaft rund um Timanfaya, mit dem Weintal La Geria an ihrem Rand: schwarze Lavafelder, übersät mit Weinstöcken, die in halbrunden Steinmulden wachsen. Angeleinte Hunde sind auf den markierten Wegen und entlang der von Bodegas gesäumten Straße durch La Geria willkommen, der Kernbereich der Timanfaya-Bustour ist jedoch für Haustiere gesperrt.",
+          "offLeashAreaDe": "Im gesamten Schutzgebiet gilt Leinenpflicht; der Kernbereich der Timanfaya-Bustour ist für Haustiere gesperrt.",
+          "tipDe": "Gehen Sie die Straße durch La Geria früh entlang; Bodegas wie El Grifo heißen angeleinte Hunde auf ihren Außenterrassen bei einer Weinprobe willkommen."
         },
         {
           "name": "Parque Municipal de Arrecife (Parque José Ramírez Cerdá)",
@@ -203,7 +230,10 @@
           "tipFr": "À combiner avec un tour de la lagune du Charco de San Ginés voisine pour une boucle plus longue en laisse.",
           "tipEs": "Combínalo con una vuelta a la laguna del Charco de San Ginés, al lado, para un paseo más largo con correa.",
           "tipPt": "Combine com uma volta à lagoa do Charco de San Ginés, ao lado, para um passeio mais longo à trela.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Parque+Municipal+Arrecife+Lanzarote"
+          "googleMapsUrl": "https://www.google.com/maps/search/Parque+Municipal+Arrecife+Lanzarote",
+          "descriptionDe": "Der zentrale städtische Park von Arrecife, eine grüne Oase aus Palmen, Drachenbäumen und Rasenflächen zwischen der Stadt und der Lagune Charco de San Ginés, mit schattigen Wegen und Bänken. Die nützlichste Grünfläche für den täglichen Spaziergang an der Leine in der Inselhauptstadt, abseits von Lava und Strand.",
+          "offLeashAreaDe": "Im gesamten Park gilt Leinenpflicht.",
+          "tipDe": "Kombinieren Sie den Besuch mit einem Spaziergang rund um die nahegelegene Lagune Charco de San Ginés für eine längere Runde an der Leine."
         },
         {
           "name": "Paseo Marítimo de Costa Teguise",
@@ -223,7 +253,10 @@
           "tipFr": "Parcourez-la au lever du soleil ou après 18h ; le soleil de midi est fort sur le front de mer exposé, même en hiver.",
           "tipEs": "Recórrelo al amanecer o después de las 18:00; el sol del mediodía es fuerte en el paseo expuesto incluso en invierno.",
           "tipPt": "Percorra-o ao nascer do sol ou depois das 18:00; o sol do meio-dia é forte no passeio exposto mesmo no inverno.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Paseo+Maritimo+Costa+Teguise+Lanzarote"
+          "googleMapsUrl": "https://www.google.com/maps/search/Paseo+Maritimo+Costa+Teguise+Lanzarote",
+          "descriptionDe": "Die flache Küstenpromenade, die die Strände von Costa Teguise verbindet, von der Playa de las Cucharas vorbei an der Playa del Jablillo, mit Meerblick, niedrigen Palmen und leichtem Zugang zu Cafés. Ein ruhiger, ebener Spaziergang an der Leine in den kühleren Morgen- und Abendstunden, mit ein paar kleinen hundetauglichen Buchten unterwegs.",
+          "offLeashAreaDe": "Entlang der Promenade gilt Leinenpflicht.",
+          "tipDe": "Gehen Sie bei Sonnenaufgang oder nach 18:00 Uhr spazieren; die Mittagssonne ist an der offenen Küste selbst im Winter stark."
         }
       ],
       "tipsEn": [
@@ -284,6 +317,18 @@
         {
           "q": "Posso passear com o meu cão na zona de Timanfaya / La Geria?",
           "a": "Sim, à trela nos caminhos sinalizados do entorno e na estrada de La Geria, cheia de bodegas, mas o núcleo do tour de autocarro do Parque Nacional de Timanfaya (a rota das Montañas del Fuego) está fechado a animais. As paisagens vulcânicas protegidas quase não têm sombra, por isso passeie cedo e leve água."
+        }
+      ],
+      "titleDe": "Hundefreundliche Parks & Grünflächen auf Lanzarote",
+      "introDe": "Lanzarote ist eine vulkanische Insel, keine grüne, daher sieht die Landkarte der Grünflächen anders aus als auf dem spanischen Festland: Man denke an Küstenpromenaden, palmenbeschattete städtische Parks in Arrecife und die weiten Lava- und Sandwege der geschützten Naturgebiete. Die dramatischen Landschaften des Naturparks Los Volcanes und des Weintals La Geria sind an der Leine begehbar, und die Küstenpromenaden (Paseos) bieten in jedem Ferienort eine ruhige tägliche Runde.",
+      "faqsDe": [
+        {
+          "q": "Gibt es auf Lanzarote einen Freilauf-Hundepark?",
+          "a": "Eingezäunte städtische Hundeauslaufflächen sind auf der Insel selten. Die meisten Besitzer geben ihren Hunden außerhalb der Saison an ruhigen Buchten oder auf den offenen Vulkanwegen freien Auslauf, stets nach eigenem Ermessen und unter Vermeidung von Schutz- und Weidegebieten."
+        },
+        {
+          "q": "Kann ich meinen Hund im Gebiet Timanfaya / La Geria ausführen?",
+          "a": "Ja, an der Leine auf den umliegenden markierten Wegen und der von Bodegas gesäumten Straße durch La Geria, aber der Kernbereich des Nationalparks Timanfaya mit der Bustour (Route Montañas del Fuego) ist für Haustiere gesperrt. Die geschützten Vulkanlandschaften bieten kaum Schatten, gehen Sie also früh und nehmen Sie Wasser mit."
         }
       ]
     },
@@ -391,6 +436,18 @@
           "q": "Posso levar o meu cão no ferry para Fuerteventura ou La Graciosa?",
           "a": "Sim. Fred Olsen Express e Naviera Armas levam animais de Playa Blanca a Corralejo (Fuerteventura), e a Líneas Romero de Órzola a La Graciosa, normalmente com açaime e trela no convés ou no seu carro. Tudo é dentro da UE, por isso basta o passaporte europeu; confirme as regras ao reservar."
         }
+      ],
+      "titleDe": "Mit Hund auf Lanzarote unterwegs",
+      "introDe": "Lanzarote ist eine kompakte Insel, die sich am besten mit dem Auto erkunden lässt, wobei die Ferienorte Puerto del Carmen, Costa Teguise und Playa Blanca alle innerhalb von 40 Minuten vom Flughafen César Manrique (ACE) bei Arrecife liegen. Öffentliche Busse (die grünen InterCity-„Guaguas“) verbinden die Orte und nehmen kleine Haustiere in Transportboxen mit, und Fähren zwischen den Inseln ab Playa Blanca und Órzola eröffnen Tagesausflüge nach Fuerteventura und La Graciosa. Für jede Option gelten eigene Tierregeln.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in Bussen auf Lanzarote mitnehmen?",
+          "a": "Kleine Haustiere reisen in einer geschlossenen Transportbox in den grünen InterCity-Bussen (Guaguas) nach Ermessen des Fahrers; für größere Hunde gibt es keine Garantie. Für größere Hunde oder um Timanfaya, La Geria und die Strände im Norden zu erreichen, ist ein Mietwagen die zuverlässigste Option."
+        },
+        {
+          "q": "Kann ich meinen Hund mit der Fähre nach Fuerteventura oder La Graciosa mitnehmen?",
+          "a": "Ja. Fred Olsen Express und Naviera Armas befördern Haustiere von Playa Blanca nach Corralejo (Fuerteventura), und Líneas Romero von Órzola nach La Graciosa, meist mit Maulkorb und Leine an Deck oder im Auto. Alles bleibt innerhalb der EU, daher genügt der EU-Heimtierausweis; bestätigen Sie die Transportboxregeln bei der Buchung."
+        }
       ]
     },
     "beaches": {
@@ -473,6 +530,18 @@
           "q": "Qual é a principal praia canina de Lanzarote?",
           "a": "A Playa de Guacimeta, em Playa Honda junto ao aeroporto, é a principal praia oficialmente para cães da ilha, sinalizada desde 2014 com uma zona delimitada de cerca de 165 m. Funciona o ano inteiro dentro das faixas diárias (mais ou menos 07:00-10:00 e 19:00-21:00); verifique sempre a sinalização em vigor."
         }
+      ],
+      "titleDe": "Hundestrände auf Lanzarote",
+      "introDe": "Lanzarote verfügt über ein paar offiziell ausgewiesene Hundestrände, die dank des milden Winterklimas das ganze Jahr über funktionieren, plus einen wichtigen Hinweis: Die berühmten goldenen Buchten von Papagayo bei Playa Blanca liegen im geschützten Naturpark Los Ajaches und erlauben keine Hunde. Die zwei zuverlässigen Optionen sind Playa de Guacimeta (Playa Honda, beim Flughafen) und der Hundebereich der Playa de las Coloradas (Playa Blanca). Beide gelten mit früh-morgendlichen und abendlichen Zeitfenstern, ideal beim warmen Klima.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde an den Papagayo-Stränden erlaubt?",
+          "a": "Nein. Die goldenen Buchten von Papagayo bei Playa Blanca liegen im geschützten Naturdenkmal Los Ajaches und erlauben keine Hunde. Für ein Bad mit Hund im Süden fahren Sie stattdessen zum Hundebereich der Playa de las Coloradas in Playa Blanca."
+        },
+        {
+          "q": "Welches ist der wichtigste Hundestrand auf Lanzarote?",
+          "a": "Die Playa de Guacimeta in Playa Honda, neben dem Flughafen, ist der wichtigste offiziell ausgewiesene Hundestrand der Insel, seit 2014 mit einem abgegrenzten Abschnitt von etwa 165 m ausgeschildert. Er funktioniert ganzjährig innerhalb der täglichen Zeitfenster (ungefähr 07:00-10:00 und 19:00-21:00 Uhr); prüfen Sie stets die aktuelle Beschilderung."
+        }
       ]
     },
     "vets": {
@@ -520,7 +589,10 @@
           "tipEs": "Guarda la línea de urgencias +34 607 687299; llama antes de ir para que el veterinario de guardia te reciba.",
           "tipPt": "Guarde a linha de urgência +34 607 687299; telefone antes de ir para que o veterinário de serviço o receba.",
           "googleMapsUrl": "https://www.google.com/maps/search/Clinica+Veterinaria+Jameos+Arrecife+Lanzarote",
-          "photo": "/images/city-places/lanzarote-vets-clinica-veterinaria-jameos.jpg"
+          "photo": "/images/city-places/lanzarote-vets-clinica-veterinaria-jameos.jpg",
+          "hoursDe": "Mo-Fr 09:30-13:30 und 16:00-20:00 Uhr, Sa 10:00-13:00 Uhr; 24h-Notfallbereitschaftsleitung +34 607 687299.",
+          "descriptionDe": "Eine lange etablierte Klinik in Arrecife mit Allgemeinmedizin, Chirurgie, Orthopädie, klinischer Analytik, Ultraschall, Röntgen und Hospitalisierung, mit telefonischem Notdienst außerhalb der Öffnungszeiten für ihre Kunden. Die umfassendste Referenzklinik in der Inselhauptstadt.",
+          "tipDe": "Speichern Sie die Notfallnummer +34 607 687299; rufen Sie vor der Ankunft an, damit der Bereitschaftstierarzt Sie treffen kann."
         },
         {
           "name": "Clínica Veterinaria Smile Vet",
@@ -542,7 +614,10 @@
           "tipEs": "Ideal si te alojas en Puerto del Carmen; escribe por WhatsApp con antelación para confirmar cita el mismo día.",
           "tipPt": "Ideal se está em Puerto del Carmen; envie mensagem por WhatsApp com antecedência para confirmar marcação no próprio dia.",
           "googleMapsUrl": "https://www.google.com/maps/search/Smile+Vet+Puerto+del+Carmen+Lanzarote",
-          "photo": "/images/city-places/lanzarote-vets-clinica-veterinaria-smile-vet.jpg"
+          "photo": "/images/city-places/lanzarote-vets-clinica-veterinaria-smile-vet.jpg",
+          "hoursDe": "Mo-Fr 09:00-14:00 und 16:00-19:00 Uhr, Sa 10:00-13:00 Uhr. Mobil/WhatsApp +34 603 649020.",
+          "descriptionDe": "Eine moderne Klinik im Herzen des Ferienorts Puerto del Carmen, die praktischste Option für Besucher an der Südküste. Bietet allgemeine Sprechstunden, Chirurgie, Impfungen und ein Tiergeschäft, mit Online- und WhatsApp-Buchung.",
+          "tipDe": "Ideal, wenn Sie in Puerto del Carmen untergebracht sind; schreiben Sie vorab per WhatsApp, um einen Termin am selben Tag zu bestätigen."
         },
         {
           "name": "Urgencias Veterinarias Lanzarote",
@@ -564,7 +639,10 @@
           "tipEs": "Su ubicación central lo hace accesible desde los tres núcleos turísticos en menos de 25 minutos; llama siempre antes de conducir hasta allí.",
           "tipPt": "A sua localização central torna-o acessível dos três núcleos turísticos em menos de 25 minutos; ligue sempre antes de conduzir até lá.",
           "googleMapsUrl": "https://www.google.com/maps/search/Urgencias+Veterinarias+Lanzarote+San+Bartolome",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "24h-Notdienst nach vorherigem Telefonanruf, einschließlich Wochenenden und Feiertagen.",
+          "descriptionDe": "Ein eigener, rund um die Uhr verfügbarer tierärztlicher Notdienst mit Sitz in San Bartolomé, im Zentrum der Insel, konzipiert, um Haustiere außerhalb der üblichen Öffnungszeiten der Kliniken zu versorgen. Ein vorheriger Telefonanruf ist erforderlich, damit der Tierarzt Sie zur Konsultation treffen kann.",
+          "tipDe": "Die zentrale Lage macht ihn von allen drei Hauptferienorten in unter 25 Minuten erreichbar; rufen Sie vor der Anfahrt immer an."
         }
       ],
       "faqsEn": [
@@ -605,6 +683,18 @@
         {
           "q": "O que preciso para levar o meu cão a Lanzarote?",
           "a": "Lanzarote faz parte de Espanha e da UE, por isso passaporte europeu, microchip e vacina antirrábica em dia bastam para a maioria dos viajantes europeus, sem quarentena. Quem chega de fora da UE deve consultar antes as regras de entrada oficiais espanholas."
+        }
+      ],
+      "titleDe": "Tierärzte & Notfallversorgung auf Lanzarote",
+      "introDe": "Lanzarote verfügt über ein solides Netz an Tierkliniken in Arrecife, Puerto del Carmen und den zentralen Orten, mit Bereitschaftsdienst außerhalb der Öffnungszeiten für Notfälle. Als Teil Spaniens und der EU benötigen die meisten europäischen Reisenden lediglich einen EU-Heimtierausweis mit aktueller Tollwutimpfung und Mikrochip, ohne Quarantäne für in der EU registrierte Haustiere.",
+      "faqsDe": [
+        {
+          "q": "Gibt es auf Lanzarote einen 24-Stunden-Tierarzt?",
+          "a": "Ja. Die Clínica Veterinaria Jameos in Arrecife betreibt für ihre Kunden eine 24-Stunden-Bereitschaftsleitung (+34 607 687299), und die Urgencias Veterinarias Lanzarote in San Bartolomé bietet nach vorherigem Anruf einen eigenen 24-Stunden-Notdienst (+34 630 917136). Rufen Sie stets vorher an, damit der Tierarzt Sie treffen kann."
+        },
+        {
+          "q": "Was benötige ich, um meinen Hund nach Lanzarote mitzubringen?",
+          "a": "Lanzarote gehört zu Spanien und der EU, sodass ein EU-Heimtierausweis, Mikrochip und aktuelle Tollwutimpfung für die meisten europäischen Reisenden ausreichen, ohne Quarantäne. Reisende von außerhalb der EU sollten vorab die offiziellen Einreisebestimmungen Spaniens prüfen."
         }
       ]
     },
@@ -709,6 +799,18 @@
           "q": "O meu cão pode visitar os sítios de César Manrique e Timanfaya?",
           "a": "Os cães costumam ser aceites apenas nas zonas exteriores dos sítios de Manrique (Jameos del Agua, Mirador del Río, Jardín de Cactus), não dentro das grutas e galerias. O tour de autocarro das Montañas del Fuego de Timanfaya não aceita cães, mas os trilhos vulcânicos do entorno e a estrada do vinho de La Geria fazem-se à trela."
         }
+      ],
+      "titleDe": "Praktische Tipps für einen Besuch auf Lanzarote mit Hund",
+      "introDe": "Lanzarote ist eines der besten Winterreiseziele Europas für Hundebesitzer: eine EU-Insel mit 21-24 °C am Tag das ganze Jahr über, erreichbar mit dem EU-Heimtierausweis ohne Quarantäne, geprägt von César Manriques Idee, dass die vulkanische Landschaft und menschliches Design zusammenleben sollten. Planen Sie um die Hitze der schwarzen Lava, die auch im Winter starke Sonneneinstrahlung und die Regel herum, dass die wichtigsten Sehenswürdigkeiten (Timanfaya, Manriques Kunst-Architektur-Stätten) Hunde oft nur in ihren Außenbereichen erlauben.",
+      "faqsDe": [
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch auf Lanzarote mit Hund?",
+          "a": "Oktober bis April ist die beste Zeit für Wintersonne: Tagestemperaturen um 21-24 °C, ruhige Strände und offene Terrassen. Die Insel funktioniert das ganze Jahr über, aber im Hochsommer ist die Mittagshitze auf der schwarzen Lava intensiv, gehen Sie also früh und nach Sonnenuntergang spazieren und nehmen Sie ausreichend Wasser mit."
+        },
+        {
+          "q": "Kann mein Hund die César-Manrique-Stätten und Timanfaya besuchen?",
+          "a": "Hunde sind meist nur in den Außenbereichen der Manrique-Stätten erlaubt (Jameos del Agua, Mirador del Río, Jardín de Cactus), nicht in den Höhlen und Galerien im Innenbereich. Die Bustour Montañas del Fuego in Timanfaya nimmt keine Hunde mit, aber die umliegenden Vulkanwege und die Weinstraße durch La Geria sind leinenfreundlich."
+        }
       ]
     },
     "attractions": {
@@ -742,7 +844,11 @@
           "tipFr": "Arrivez avant 11h le dimanche de marché ; les ruelles deviennent très denses et une laisse courte met votre chien à l'aise.",
           "tipEs": "Llega antes de las 11:00 el domingo de mercado; las calles se llenan mucho y una correa corta mantiene cómodo a tu perro.",
           "tipPt": "Chegue antes das 11:00 no domingo de mercado; as ruas enchem muito e uma trela curta mantém o seu cão à vontade.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Teguise+Lanzarote"
+          "googleMapsUrl": "https://www.google.com/maps/search/Teguise+Lanzarote",
+          "descriptionDe": "Die historische ehemalige Hauptstadt von Lanzarote, eine wunderschön erhaltene Stadt aus weiß getünchten Häusern, Kopfsteinpflastergassen, Kirchen und der Burg Santa Bárbara auf ihrem Hügel. Der riesige Sonntagsmarkt ist der größte der Insel und füllt die Straßen mit Ständen, Musik und Essen. Alles im Freien und wie geschaffen für einen Spaziergang mit angeleintem Hund, am belebtesten und stimmungsvollsten an Markt-Sonntagen.",
+          "dogPolicyDe": "Angeleinte Hunde auf allen Straßen, Plätzen und dem Freiluftmarkt willkommen.",
+          "admissionFeeDe": "Kostenlos (Markt sonntags).",
+          "tipDe": "Kommen Sie am Markt-Sonntag vor 11:00 Uhr; die Gassen werden sehr voll, und eine kurze Leine hält Ihren Hund entspannt."
         },
         {
           "name": "La Geria wine valley",
@@ -765,7 +871,11 @@
           "tipFr": "Arrêtez-vous à El Grifo, la plus ancienne cave des Canaries, avec espace extérieur et jardin-musée ; allez-y tôt avant la chaleur de midi.",
           "tipEs": "Para en El Grifo, la bodega más antigua de Canarias, con espacio exterior y jardín-museo; ve temprano antes del calor del mediodía.",
           "tipPt": "Pare em El Grifo, a adega mais antiga das Canárias, com espaço exterior e jardim-museu; vá cedo antes do calor do meio-dia.",
-          "googleMapsUrl": "https://www.google.com/maps/search/La+Geria+wine+region+Lanzarote"
+          "googleMapsUrl": "https://www.google.com/maps/search/La+Geria+wine+region+Lanzarote",
+          "descriptionDe": "Die surreale Weinregion von Lanzarote, wo Weinstöcke einzeln in halbrunden Steinmulden wachsen, die in schwarze Vulkanasche gegraben sind, mit den Gipfeln von Timanfaya im Hintergrund. Die Straße LZ-30 führt an historischen Bodegas wie El Grifo und Bodega Rubicón vorbei, viele mit Außenterrassen. Eine einzigartige Landschaft zum Fahren und Wandern, mit Verkostungen von vulkanischem Malvasía unterwegs.",
+          "dogPolicyDe": "Angeleinte Hunde entlang der Straße und auf den Außenterrassen der meisten Bodegas willkommen; bei jeder einzelnen nachfragen.",
+          "admissionFeeDe": "Kostenlos zu befahren; Verkostungen werden bei den Bodegas bezahlt.",
+          "tipDe": "Halten Sie bei El Grifo, dem ältesten Weingut der Kanaren, das über Außenbereiche und einen Museumsgarten verfügt; fahren Sie früh, bevor die Mittagshitze einsetzt."
         },
         {
           "name": "Famara beach & cliffs",
@@ -788,7 +898,11 @@
           "tipFr": "Le vent est fort ici ; venez à marée basse pour le sable large et ferme et regardez les surfeurs, mais gardez les chiens loin des forts courants.",
           "tipEs": "El viento es fuerte aquí; ve en marea baja por la arena ancha y firme y observa el surf, pero mantén a los perros lejos de las corrientes fuertes.",
           "tipPt": "O vento é forte aqui; vá na maré baixa pela areia larga e firme e observe o surf, mas mantenha os cães longe das correntes fortes.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Famara+beach+Lanzarote"
+          "googleMapsUrl": "https://www.google.com/maps/search/Famara+beach+Lanzarote",
+          "descriptionDe": "Ein wilder, windumtoster Surfstrand an der Nordwestküste, ein weiter Bogen aus goldenem Sand unterhalb der aufragenden Klippen von Risco de Famara, mit der vorgelagerten Insel La Graciosa. Eine dramatische, unaufgeregte Alternative zu den Ferienortstränden und ein beliebter Spaziergang an der Leine bei Ebbe; das Dorf Caleta de Famara hat hundefreundliche Terrassen und Surfschul-Atmosphäre.",
+          "dogPolicyDe": "Angeleinte Hunde auf dem weiten offenen Strand außerhalb bewachter Badebereiche willkommen; lokale Beschilderung beachten.",
+          "admissionFeeDe": "Kostenlos.",
+          "tipDe": "Hier weht ein starker Wind; gehen Sie bei Ebbe für den festen, breiten Sand und beobachten Sie die Brandung, halten Sie Hunde aber von den starken Strömungen fern."
         }
       ],
       "tipsEn": [
@@ -850,6 +964,18 @@
           "q": "Que atrações de Lanzarote são melhores com um cão?",
           "a": "As ao ar livre: a antiga capital de Teguise e o seu mercado de domingo, o vale vinícola de La Geria com as suas esplanadas de bodegas, e a praia e o risco selvagens de Famara. Combine-as com as praias caninas da ilha para um dia completo à trela."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten auf Lanzarote",
+      "introDe": "Der Reiz von Lanzarote liegt fast ausschließlich im Freien, was Hunden entgegenkommt: die alte, kopfsteingepflasterte Hauptstadt Teguise mit ihrem Sonntagsmarkt, das von Weinstöcken übersäte Weintal La Geria, die Klippen und der Surfstrand von Famara sowie die Außenterrassen von César Manriques Kunst-Natur-Stätten. Die meisten der wichtigsten Erlebnisse der Insel lassen sich mit einem angeleinten Hund zu Fuß oder mit dem Auto erkunden, mit dem Vorbehalt, dass die Innen- und Höhlenbereiche der Manrique-Stätten sowie die Timanfaya-Bustour tierfrei sind.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund zu den César-Manrique-Stätten mitnehmen?",
+          "a": "Im Allgemeinen nur in die Außenbereiche. Die Höhlen, Auditorien und Innengalerien von Jameos del Agua, Cueva de los Verdes, Mirador del Río und ähnlichen Stätten lassen meist keine Haustiere zu, während ihre offenen Terrassen und Gärten dies oft tun. Prüfen Sie die aktuelle Regelung jeder Stätte am Eingang."
+        },
+        {
+          "q": "Welche Sehenswürdigkeiten auf Lanzarote sind am besten mit Hund geeignet?",
+          "a": "Die komplett im Freien liegenden: die alte Hauptstadt Teguise mit ihrem Sonntagsmarkt, das Weintal La Geria mit seinen Bodega-Terrassen und der wilde Strand und die Klippen von Famara. Kombinieren Sie diese mit den Hundestränden der Insel für einen vollständigen Tag an der Leine."
+        }
       ]
     },
     "petsitting": {
@@ -882,7 +1008,10 @@
           "tip": "Read recent reviews and message the sitter first; resort-area availability tightens in the winter high season.",
           "tipFr": "Lisez les avis récents et contactez d'abord le sitter ; la disponibilité dans les stations se resserre en haute saison hivernale.",
           "tipEs": "Lee las opiniones recientes y escribe primero al cuidador; la disponibilidad en los núcleos turísticos se reduce en la temporada alta de invierno.",
-          "tipPt": "Leia as avaliações recentes e contacte primeiro o cuidador; a disponibilidade nos núcleos turísticos aperta na época alta de inverno."
+          "tipPt": "Leia as avaliações recentes e contacte primeiro o cuidador; a disponibilidade nos núcleos turísticos aperta na época alta de inverno.",
+          "descriptionDe": "Eine Online-Plattform, die Hundebesitzer mit geprüften lokalen Sittern und Gassi-Gehern auf Lanzarote verbindet, mit Übernachtung, Tagesbetreuung und Spaziergängen. Nur ein kleiner Teil der Sitter-Bewerber wird zugelassen, und jede Buchung ist durch eine Tierversicherung abgesichert.",
+          "serviceTypeDe": "Übernachtung, Tagesbetreuung und Gassi-Service",
+          "tipDe": "Lesen Sie aktuelle Bewertungen und schreiben Sie dem Sitter zuerst; die Verfügbarkeit in den Ferienorten sinkt in der Wintersaison."
         },
         {
           "name": "Rover",
@@ -904,7 +1033,10 @@
           "tip": "Filter by sitters who accept your dog's size and arrange a short meet-and-greet on your arrival day.",
           "tipFr": "Filtrez les sitters acceptant la taille de votre chien et organisez une courte rencontre le jour de votre arrivée.",
           "tipEs": "Filtra por cuidadores que acepten el tamaño de tu perro y organiza un breve encuentro el día de tu llegada.",
-          "tipPt": "Filtre por cuidadores que aceitem o tamanho do seu cão e marque um breve encontro no dia da chegada."
+          "tipPt": "Filtre por cuidadores que aceitem o tamanho do seu cão e marque um breve encontro no dia da chegada.",
+          "descriptionDe": "Ein großes internationales Netzwerk von Tiersittern und Gassi-Gehern mit Betreuern auf ganz Lanzarote, das Übernachtung, Haussitting, Kurzbesuche und Spaziergänge anbietet. Profile, Bewertungen und sichere Zahlung in der App machen es einfach, Betreuung für einen Tag an den Manrique-Stätten oder einen Fährausflug nach Fuerteventura zu buchen.",
+          "serviceTypeDe": "Übernachtung, Haussitting, Besuche und Spaziergänge",
+          "tipDe": "Filtern Sie nach Sittern, die die Größe Ihres Hundes akzeptieren, und vereinbaren Sie an Ihrem Ankunftstag ein kurzes Kennenlerntreffen."
         }
       ],
       "tipsEn": [
@@ -965,6 +1097,18 @@
         {
           "q": "Porque poderia precisar de um cuidador em Lanzarote?",
           "a": "Algumas das experiências estrela da ilha não aceitam cães no interior: o tour de autocarro das Montañas del Fuego de Timanfaya e as secções de grutas interiores dos sítios de Manrique. Um cuidador por algumas horas permite-lhe fazê-las enquanto o seu cão fica à vontade."
+        }
+      ],
+      "titleDe": "Hundebetreuung & Gassi-Service auf Lanzarote",
+      "introDe": "Der Markt für Tierbetreuung auf Lanzarote richtet sich nach der großen ansässigen Expat-Gemeinde und den Besuchern der Insel: Die großen Online-Plattformen (Gudog, Rover) listen geprüfte Sitter und Gassi-Geher in Arrecife, Puerto del Carmen, Costa Teguise und Playa Blanca, nützlich, wenn Sie die Höhlen von Manrique im Innenbereich besuchen oder die Timanfaya-Bustour ohne Ihren Hund unternehmen möchten. Frühzeitiges Buchen ist in der Wintersaison (November bis März) und über Ostern wichtig.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter auf Lanzarote?",
+          "a": "Nutzen Sie Online-Plattformen wie Gudog oder Rover, die geprüfte lokale Sitter und Gassi-Geher in Arrecife, Puerto del Carmen, Costa Teguise und Playa Blanca mit Bewertungen und sicherer Zahlung listen. Buchen Sie in der Wintersaison ein paar Wochen im Voraus."
+        },
+        {
+          "q": "Warum könnte ich auf Lanzarote einen Sitter brauchen?",
+          "a": "Manche der wichtigsten Erlebnisse der Insel sind im Innenbereich nicht hundefreundlich: die Bustour Montañas del Fuego in Timanfaya und die Höhlenbereiche der Manrique-Stätten. Ein Sitter für ein paar Stunden ermöglicht es Ihnen, diese zu unternehmen, während Ihr Hund sich wohlfühlt."
         }
       ]
     }

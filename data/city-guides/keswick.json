@@ -39,7 +39,11 @@
           "tipFr": "Il se remplit vite les après-midi pluvieux quand les fells se vident ; arrivez avant 18h le week-end pour une table avec votre chien.",
           "tipEs": "Se llena rápido las tardes lluviosas cuando los fells se vacían; llega antes de las 18h los fines de semana para una mesa con tu perro.",
           "tipPt": "Enche depressa nas tardes de chuva quando os fells se esvaziam; chegue antes das 18h ao fim de semana para uma mesa com o seu cão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dog+and+Gun+Lake+Road+Keswick"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Dog+and+Gun+Lake+Road+Keswick",
+          "descriptionDe": "Eine traditionsreiche Keswicker Institution seit 1807, berühmt in den Lakes für ihr ungarisches Gulasch und ihren Come-as-you-are-Empfang. Hunde sind im gesamten Pub erlaubt, und meist liegt der ein oder andere Wanderhund an der Bar.",
+          "petPolicyDe": "Hunde im gesamten Pub an der Leine willkommen.",
+          "mustTryDe": "Das ungarische Gulasch nach einer Wanderung auf Catbells",
+          "tipDe": "An regnerischen Nachmittagen, wenn sich die Fjälls leeren, füllt sich der Pub schnell; kommen Sie am Wochenende vor 18 Uhr für einen Tisch mit Ihrem Hund."
         },
         {
           "name": "The Wainwright",
@@ -65,7 +69,11 @@
           "tipFr": "Les planchers en chêne permettent aux chiens d'aller partout ici : c'est donc confortable même les soirs de pluie les plus fréquentés ; demandez une table d'angle avec un peu d'espace.",
           "tipEs": "Los suelos de roble hacen que los perros vayan a todas partes aquí, así que se está a gusto incluso las tardes de lluvia más concurridas; pide una mesa de rincón con algo de espacio.",
           "tipPt": "Os pisos de carvalho fazem com que os cães vão a toda a parte aqui, por isso é confortável mesmo nas noites de chuva mais movimentadas; peça uma mesa de canto com algum espaço.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Wainwright+Lake+Road+Keswick"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=The+Wainwright+Lake+Road+Keswick",
+          "descriptionDe": "Ein traditioneller Real-Ale-Pub an der Lake Road, benannt nach dem Fjällwanderer Alfred Wainwright, mit durchgehenden Eichenböden und wechselndem Angebot an cumbrischen Ales. Hunde sind in jedem Teil des Pubs willkommen, und an der Bar wartet ein Glas mit kostenlosen Leckerlis.",
+          "petPolicyDe": "Hunde in allen Bereichen an der Leine willkommen; kostenlose Leckerlis an der Bar.",
+          "mustTryDe": "Ein cumbrisches Fassbier und eine hausgemachte Pastete",
+          "tipDe": "Wegen der Eichenböden dürfen Hunde hier überallhin, sodass es selbst an den belebtesten Regenabenden angenehm bleibt; bitten Sie um einen Ecktisch mit etwas Platz."
         },
         {
           "name": "The Swinside Inn",
@@ -91,7 +99,11 @@
           "tipFr": "C'est une fin naturelle à un tour de Catbells ou de Newlands ; les tables du jardin avec vue sur le fell partent en premier par un après-midi dégagé.",
           "tipEs": "Es un final natural para una vuelta por Catbells o Newlands; las mesas del jardín con vista al fell se ocupan primero en una tarde despejada.",
           "tipPt": "É um final natural para uma volta por Catbells ou Newlands; as mesas do jardim com vista para o fell esgotam primeiro numa tarde limpa.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Swinside+Inn+Newlands+Keswick"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Swinside+Inn+Newlands+Keswick",
+          "descriptionDe": "Ein Landgasthaus im Newlands Valley, ein paar Meilen westlich von Keswick, mit Garten und Terrasse, die direkt auf Catbells und die umliegenden Fjälls blicken. Es zieht einen stetigen Strom von Wanderern von den Hügeln an, mit bereitgestellten Wassernäpfen und kostenlosen Keksen für hungrige Hunde.",
+          "petPolicyDe": "Hunde in Bar und Garten an der Leine willkommen; Wasser und Kekse werden bereitgestellt.",
+          "mustTryDe": "Ein Pint auf der Terrasse mit Blick auf Catbells",
+          "tipDe": "Ein natürlicher Abschluss einer Catbells- oder Newlands-Runde; die Gartentische mit Fjällblick sind an klaren Nachmittagen zuerst vergeben."
         }
       ],
       "tipsEn": [
@@ -153,6 +165,18 @@
           "q": "É preciso reservar uma mesa que aceite cães em Keswick?",
           "a": "Normalmente não para as zonas de bar, que é onde os cães se sentam. Nos fins de semana de chuva e muito movimento os pubs populares enchem ao fim da tarde, por isso chegar cedo ou reservar ajuda a conseguir uma mesa com o seu cão."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants in Keswick",
+      "introDe": "Keswick wurde vom Kennel Club zur hundefreundlichsten Stadt Großbritanniens gekürt, und das zeigt sich in den Pubs: Die meisten heißen Hunde standardmäßig in der Bar willkommen, oft mit einem Wassernapf und einem Glas Leckerlis auf der Theke. Die dichteste Ansammlung findet sich entlang der Lake Road und am Market Square, wo Wanderer mit nassen Stiefeln und schlammigen Pfoten von Catbells und Derwentwater eher die Regel als die Ausnahme sind.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Pubs und Restaurants in Keswick drinnen erlaubt?",
+          "a": "Ja, in den meisten Fällen. Keswick wurde zur hundefreundlichsten Stadt Großbritanniens gekürt, und die große Mehrheit ihrer Pubs erlaubt einen angeleinten Hund in der Bar, oft mit Wassernapf und kostenlosen Leckerlis. Formelle Restauranträume mit Tischservice sind die Ausnahme, fragen Sie bei Ankunft also, welcher Bereich hundefreundlich ist."
+        },
+        {
+          "q": "Muss ich in Keswick einen hundefreundlichen Tisch reservieren?",
+          "a": "Für die Barbereiche, wo Hunde sitzen, in der Regel nicht. An belebten Wochenenden bei schlechtem Wetter füllen sich die beliebten Pubs am späten Nachmittag, daher hilft es, früh zu kommen oder vorab zu reservieren, um mit Ihrem Hund einen Tisch zu bekommen."
+        }
       ]
     },
     "parks": {
@@ -183,7 +207,10 @@
           "tipFr": "Partez tôt ou tard pour éviter la foule ; vous pouvez continuer le long de la rive jusqu'à Calfclose Bay, un endroit plus calme où un chien peut barboter.",
           "tipEs": "Ve temprano o tarde para evitar el gentío; puedes seguir por la orilla hasta Calfclose Bay, un sitio más tranquilo donde un perro puede chapotear.",
           "tipPt": "Vá cedo ou tarde para evitar a multidão; pode continuar pela margem até Calfclose Bay, um sítio mais tranquilo onde um cão pode chapinhar.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Friars+Crag+Keswick"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Friars+Crag+Keswick",
+          "descriptionDe": "Ein flacher, leichter fünfzehnminütiger Spaziergang vom Market Square entlang des Derwentwater-Ufers zu einem der meistgemalten Ausblicke Englands, mit Blick über den See auf die Jaws of Borrowdale. Der Uferweg führt an den Bootsanlegern und einem bewaldeten Vorsprung vorbei und ist die sanfteste Einführung in den See für einen Hund.",
+          "offLeashAreaDe": "Hunde hier anleinen: der Weg ist belebt, verläuft neben Straße und Bootsanlegern, und am Ufer gibt es Enten und andere Wasservögel.",
+          "tipDe": "Gehen Sie früh oder spät, um den Menschenmassen zu entgehen; Sie können weiter am Ufer entlang bis zur Calfclose Bay laufen, einem ruhigeren Ort, an dem ein Hund planschen kann."
         },
         {
           "name": "Catbells",
@@ -203,7 +230,10 @@
           "tipFr": "Il y a quelques marches rocheuses près du sommet où un petit chien ou un chien âgé peut avoir besoin d'aide ; prenez le Keswick Launch jusqu'à Hawes End pour une sortie canine mémorable.",
           "tipEs": "Hay un par de escalones rocosos cerca de la cima donde un perro pequeño o mayor puede necesitar ayuda; toma el Keswick Launch hasta Hawes End para una salida canina memorable.",
           "tipPt": "Há alguns degraus rochosos perto do topo onde um cão pequeno ou idoso pode precisar de ajuda; apanhe o Keswick Launch até Hawes End para uma saída canina memorável.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Catbells+Keswick"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Catbells+Keswick",
+          "descriptionDe": "Der beliebteste kleine Fjäll in den Lakes, eine rund 5,6 Kilometer lange Rundtour an der Westseite des Derwentwater mit ein paar leichten Felskletterpassagen und riesigen Ausblicken über den See und Keswick. Die meisten Wanderer starten in Hawes End, erreichbar zu Fuß, mit dem Keswick Launch oder dem Borrowdale-Bus.",
+          "offLeashAreaDe": "Hunde können auf dem Grat, wo kein Vieh vorhanden ist, unter enger Kontrolle ohne Leine laufen, doch die unteren Felder und das offene Fjäll werden von Schafen beweidet, also anleinen, sobald diese in Sicht sind.",
+          "tipDe": "Nahe dem Gipfel gibt es ein paar Felsstufen, bei denen ein kleiner oder älterer Hund Hilfe benötigen kann; nehmen Sie den Keswick Launch nach Hawes End für einen denkwürdigen Hundetag."
         },
         {
           "name": "Latrigg",
@@ -223,7 +253,10 @@
           "tipFr": "Partir du parking de Gale Road en fait une promenade facile adaptée aux chiens âgés ; le sommet exposé est venteux, prévoyez une couche même en été.",
           "tipEs": "Salir del aparcamiento de Gale Road lo convierte en un paseo fácil apto para perros mayores; la cima expuesta es ventosa, así que lleva una capa incluso en verano.",
           "tipPt": "Partir do parque de estacionamento de Gale Road torna-o num passeio fácil adequado a cães idosos; o cume exposto é ventoso, por isso leve uma camada mesmo no verão.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Latrigg+Keswick"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Latrigg+Keswick",
+          "descriptionDe": "Der sanfte, grasbewachsene Fjäll direkt über Keswick, der mit dem geringsten Aufwand einen der größten Ausblicke der nördlichen Lakes bietet, direkt hinab über die Stadt, den Derwentwater und die Borrowdale-Fjälls. Man kann von der Stadt aus hinaufgehen oder am höher gelegenen Parkplatz Gale Road für eine kurze Hin- und Rücktour zum Gipfel starten.",
+          "offLeashAreaDe": "Ohne Leine unter enger Kontrolle auf dem Gipfelweg, sofern frei von Vieh; auf dem Fjäll weiden Schafe, also die Leine bereithalten und anlegen, wenn diese in der Nähe sind.",
+          "tipDe": "Der Start am Parkplatz Gale Road macht daraus einen leichten Spaziergang, geeignet für ältere Hunde; der exponierte Gipfel ist windig, packen Sie also auch im Sommer eine Schicht ein."
         }
       ],
       "tipsEn": [
@@ -284,6 +317,18 @@
         {
           "q": "É seguro o meu cão nadar em Derwentwater?",
           "a": "Os cães podem chapinhar e nadar em locais da margem como Calfclose Bay, mas o lago pode ter florações de algas azul-esverdeadas com calor que são potencialmente fatais para os cães. Verifique os avisos e a sinalização antes de deixar um cão entrar, evite a água turva e enxágue-o depois."
+        }
+      ],
+      "titleDe": "Hundefreundliche Wanderungen und Fjälls rund um Keswick",
+      "introDe": "Das ist der Grund, einen Hund nach Keswick mitzubringen. Hunde sind auf fast jedem Fjäll und Wanderweg im Lake District willkommen, vom sanften Derwentwater-Ufer bei Friar's Crag bis zum luftigen Grat von Catbells, und die meisten Wanderungen beginnen nur wenige Minuten vom Market Square entfernt. Die goldene Regel ist einfach: Halten Sie Ihren Hund in der Nähe von weidenden Schafen und anderem Vieh sowie während der Brutzeit von Bodenbrütern im Frühling an der Leine, und lassen Sie ihn überall sonst unter enger Kontrolle laufen.",
+      "faqsDe": [
+        {
+          "q": "Dürfen Hunde auf den Fjälls rund um Keswick ohne Leine laufen?",
+          "a": "Ja, unter enger Kontrolle auf dem offenen Fjäll, wo kein Vieh vorhanden ist, wie etwa auf den Graten von Catbells und Latrigg, aber Sie müssen Ihren Hund in der Nähe von Schafen und Rindern sowie während der Brutzeit von Bodenbrütern im Frühling anleinen. Die unteren Felder werden oft beweidet, halten Sie die Leine also griffbereit."
+        },
+        {
+          "q": "Ist es sicher, wenn mein Hund im Derwentwater schwimmt?",
+          "a": "Hunde können an Uferstellen wie Calfclose Bay planschen und schwimmen, aber Blaualgen können sich bei warmem Wetter im See vermehren und sind für Hunde potenziell tödlich. Prüfen Sie vor dem Baden auf Algenwarnungen und Beschilderung, meiden Sie schaumiges Wasser und spülen Sie den Hund danach ab."
         }
       ]
     },
@@ -389,6 +434,18 @@
           "q": "Os cães vão nos barcos do Keswick Launch?",
           "a": "Sim, e grátis. O Keswick Launch aceita cães à trela sem custo nos seus cruzeiros por Derwentwater, que param em cais à volta do lago. Mantenha o cão fora dos bancos e use o barco para ligar um passeio pela margem a uma volta à vila."
         }
+      ],
+      "titleDe": "Mit Hund in Keswick unterwegs",
+      "introDe": "Keswick hat seit der Streckenschließung keinen eigenen Bahnhof mehr, daher reisen die meisten Besucher mit dem Auto oder per Bahn nach Penrith oder Windermere an und beenden die Reise mit dem Bus, die alle Hunde mitnehmen. Vor Ort ist die Stadt klein und zu Fuß erkundbar, die Busse nach Borrowdale und Buttermere nehmen Hunde nach Ermessen des Fahrers mit, und der Keswick Launch auf dem Derwentwater befördert Hunde kostenlos, was hundefreundliche autofreie Tage wirklich einfach macht.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund im Zug in Richtung Keswick mitnehmen?",
+          "a": "Ja, auch wenn Keswick selbst keinen Bahnhof hat. Bei National Rail reisen bis zu zwei Hunde pro Fahrgast kostenlos mit; sie müssen angeleint sein oder in einer Transportbox reisen und dürfen nicht auf den Sitzen sitzen. Sie reisen nach Penrith oder Windermere und beenden die Fahrt mit dem hundefreundlichen Stagecoach-Bus nach Keswick."
+        },
+        {
+          "q": "Dürfen Hunde auf den Booten des Keswick Launch mitfahren?",
+          "a": "Ja, und kostenlos. Der Keswick Launch heißt Hunde an der Leine bei seinen Derwentwater-Kreuzfahrten kostenlos willkommen, die an Anlegestellen rund um den See halten. Halten Sie Ihren Hund von den Sitzen fern, und nutzen Sie das Boot, um einen Uferspaziergang mit der Rückfahrt in die Stadt zu verbinden."
+        }
       ]
     },
     "beaches": {
@@ -461,6 +518,18 @@
           "q": "É seguro deixar o meu cão nadar em Derwentwater?",
           "a": "Em geral sim, mas o risco principal são as algas azul-esverdeadas, que podem surgir com calor e são potencialmente fatais para os cães. Verifique os avisos de algas e a sinalização, evite a água turva ou descolorada e enxágue o cão depois do banho."
         }
+      ],
+      "titleDe": "Hundefreundliches Baden am Seeufer nahe Keswick",
+      "introDe": "Keswick liegt tief im Landesinneren des nördlichen Lake District, daher gibt es hier keine Küste und keinen Meeresstrand; stattdessen bietet die Gegend das Süßwasserufer des Derwentwater, an dem Hunde waten und schwimmen können. Es gibt kein saisonales Hundeverbot am Seeufer, wie es an vielen englischen Küstenstränden der Fall ist, aber das eigentliche Sicherheitsrisiko sind Blaualgen, die sich bei warmem Wetter im See vermehren und für Hunde tödlich sein können, prüfen Sie also immer auf Warnungen und Beschilderung, bevor Ihr Hund ins Wasser geht.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Hundestrände in Keswick?",
+          "a": "Keine Meeresstrände, da Keswick eine Binnenstadt am Derwentwater ohne Küste ist. Stattdessen gibt es hundefreundliches Süßwasserufer an Stellen wie Calfclose Bay und Crow Park, wo Hunde das ganze Jahr über ohne saisonales Verbot schwimmen können, sofern man auf Blaualgen achtet."
+        },
+        {
+          "q": "Ist es sicher, meinen Hund im Derwentwater schwimmen zu lassen?",
+          "a": "In der Regel ja, aber das Hauptrisiko sind Blaualgen, die bei warmem Wetter auftreten können und für Hunde potenziell tödlich sind. Prüfen Sie auf Algenwarnungen und Beschilderung, meiden Sie schaumiges oder verfärbtes Wasser, und spülen Sie Ihren Hund nach dem Schwimmen ab."
+        }
       ]
     },
     "vets": {
@@ -494,7 +563,10 @@
           "tipEs": "Para cualquier urgencia fuera del horario diurno, llama a la línea 24h de Cockermouth; guarda ambos números antes de salir a los fells.",
           "tipPt": "Para qualquer urgência fora do horário diurno, ligue à linha 24h de Cockermouth; guarde ambos os números antes de partir para os fells.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Millcroft+Vets+Keswick+Southey+Hill",
-          "photo": "/images/city-places/keswick-vets-millcroft-keswick.jpg"
+          "photo": "/images/city-places/keswick-vets-millcroft-keswick.jpg",
+          "hoursDe": "Mo-Fr 09:00-18:00 Uhr; außerhalb der Sprechzeiten über die 24h-Leitung in Cockermouth",
+          "descriptionDe": "Die Keswicker Filiale der Millcroft Veterinary Group im Gewerbegebiet Southey Hill am Stadtrand, die tagsüber routinemäßige Kleintierversorgung anbietet. Außerhalb der Sprechzeiten übernimmt das 24-Stunden-Krankenhaus der Gruppe in Cockermouth die Betreuung.",
+          "tipDe": "Bei allem Dringenden außerhalb der Tagesöffnungszeiten rufen Sie die 24h-Leitung in Cockermouth an; speichern Sie beide Nummern, bevor Sie in die Fjälls aufbrechen."
         },
         {
           "name": "Millcroft Vets (Cockermouth 24h hospital)",
@@ -516,7 +588,10 @@
           "tipEs": "Telefonea a la línea 24h antes de salir para que se preparen y confirmen la ruta más rápida desde donde te alojes.",
           "tipPt": "Telefone à linha 24h antes de sair para que se preparem e confirmem o percurso mais rápido a partir de onde estiver hospedado.",
           "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Millcroft+Vets+Cockermouth+Wakefield+Road",
-          "photo": "/images/city-places/keswick-vets-millcroft-cockermouth.jpg"
+          "photo": "/images/city-places/keswick-vets-millcroft-cockermouth.jpg",
+          "hoursDe": "Mo-Fr 08:30-18:30 Uhr, Sa 09:00-17:00 Uhr, So 10:00-15:00 Uhr; 24h-Notfallleitung täglich",
+          "descriptionDe": "Das Hauptkrankenhaus der Gruppe in Cockermouth, etwa 25 Minuten nordwestlich von Keswick, das den 24-Stunden-Notdienst für alle Millcroft-Filialen einschließlich Keswick betreibt. Es behandelt Hunde, Katzen und Kleintiere nachts, am Wochenende und an Feiertagen.",
+          "tipDe": "Rufen Sie die 24h-Leitung an, bevor Sie aufbrechen, damit man sich vorbereiten und die schnellste Route von Ihrem Aufenthaltsort aus bestätigen kann."
         }
       ],
       "faqsEn": [
@@ -557,6 +632,18 @@
         {
           "q": "Que documentação precisa o meu cão para entrar na Grã-Bretanha vindo da UE?",
           "a": "A Grã-Bretanha não aceita o Passaporte Europeu para Animais na entrada. O seu cão precisa de um Animal Health Certificate britânico, de um microchip e de uma vacinação antirrábica válida, mais um tratamento contra a ténia aprovado administrado entre 24 e 120 horas antes da chegada, por isso trate disso com um veterinário antes de viajar."
+        }
+      ],
+      "titleDe": "Tierärzte in Keswick",
+      "introDe": "Keswick hat eine eigene Filiale der Millcroft Veterinary Group, deren 24-Stunden-Notfallversorgung vom Hauptkrankenhaus in Cockermouth, etwa 25 Minuten entfernt, betrieben wird. Englisch wird hier durchgehend gesprochen. Besucher aus der EU sollten bedenken, dass Großbritannien den EU-Heimtierausweis für die Einreise nicht mehr akzeptiert: Hunde benötigen eine britische Tiergesundheitsbescheinigung (GB Animal Health Certificate), einen Mikrochip, eine gültige Tollwutimpfung und eine Bandwurmbehandlung, die 24 bis 120 Stunden vor der Ankunft verabreicht wurde, reisen Sie also mit allen Unterlagen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Notfalltierarzt in der Nähe von Keswick in der Nacht?",
+          "a": "Ja. Die Millcroft-Filiale in Keswick übernimmt die Tagesversorgung, und ihr 24-Stunden-Notdienst wird vom Hauptkrankenhaus der Gruppe in Cockermouth, etwa 25 Minuten entfernt, betrieben, geöffnet nachts, an Wochenenden und Feiertagen. Rufen Sie vorher an, damit man auf Sie vorbereitet ist."
+        },
+        {
+          "q": "Welche Unterlagen benötigt mein Hund für die Einreise nach Großbritannien aus der EU?",
+          "a": "Großbritannien akzeptiert den EU-Heimtierausweis nicht für die Einreise. Ihr Hund benötigt eine britische Tiergesundheitsbescheinigung (GB Animal Health Certificate), einen Mikrochip und eine gültige Tollwutimpfung sowie eine zugelassene Bandwurmbehandlung, die 24 bis 120 Stunden vor der Ankunft verabreicht wurde, organisieren Sie dies also vor der Reise mit einem Tierarzt."
         }
       ]
     },
@@ -661,6 +748,18 @@
           "q": "Os visitantes da UE precisam de documentação especial para levar um cão a Keswick?",
           "a": "Sim. Como Keswick fica na Grã-Bretanha, os visitantes da UE não podem usar o Passaporte Europeu para Animais. O seu cão precisa de um Animal Health Certificate britânico emitido nos 10 dias anteriores à viagem, de um microchip, de uma vacinação antirrábica válida e de um tratamento contra a ténia entre 24 e 120 horas antes da chegada."
         }
+      ],
+      "titleDe": "Praktische Tipps für den Besuch von Keswick mit Hund",
+      "introDe": "Keswick ist eine der hundefreundlichsten Städte Englands, aber zwei Dinge überraschen Besucher: die Papierkram-Anforderungen nach dem Brexit für die Einreise mit einem Hund nach Großbritannien, und die Landregeln, die Schafe und Wildtiere auf den Fjälls schützen. Beachten Sie beides richtig, und der Rest ist einfach.",
+      "faqsDe": [
+        {
+          "q": "Ist Keswick ein guter Ort für einen Besuch mit Hund?",
+          "a": "Ja, es wurde zur hundefreundlichsten Stadt Großbritanniens gekürt. Hunde sind in den meisten Pubs willkommen, reisen kostenlos mit dem Keswick Launch und können fast jeden Fjäll und Wanderweg rund um den Derwentwater erkunden, sofern Sie sie in der Nähe von Vieh anleinen und im Sommer auf Blaualgen im See achten."
+        },
+        {
+          "q": "Benötigen EU-Besucher besondere Unterlagen, um einen Hund nach Keswick mitzubringen?",
+          "a": "Ja. Da Keswick in Großbritannien liegt, können EU-Besucher den EU-Heimtierausweis nicht nutzen. Ihr Hund benötigt eine innerhalb von 10 Tagen vor der Reise ausgestellte britische Tiergesundheitsbescheinigung, einen Mikrochip, eine gültige Tollwutimpfung und eine Bandwurmbehandlung 24 bis 120 Stunden vor der Ankunft."
+        }
       ]
     },
     "attractions": {
@@ -694,7 +793,11 @@
           "tipFr": "Prenez la vedette jusqu'à Hawes End et faites Catbells, puis revenez en bateau ; les ponts ouverts sont le meilleur endroit pour un chien par temps clair.",
           "tipEs": "Toma la lancha hasta Hawes End y haz Catbells, luego vuelve en barco; las cubiertas abiertas son el mejor sitio para un perro en un día despejado.",
           "tipPt": "Apanhe a lancha até Hawes End e faça Catbells, depois volte de barco; os conveses abertos são o melhor sítio para um cão num dia limpo.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Keswick+Launch+Derwentwater"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Keswick+Launch+Derwentwater",
+          "descriptionDe": "Die klassische Art, den Derwentwater zu erleben, mit Booten, die den See umrunden und an sieben Anlegestellen halten, von den Anlegern in Keswick rund bis nach Hawes End und Lodore. Hunde reisen bei jeder Fahrt kostenlos mit, sodass Sie für eine Fjällwanderung aussteigen und zurück in die Stadt segeln können.",
+          "dogPolicyDe": "Alle Hunde kostenlos willkommen, an der Leine und nicht auf den Sitzen; keine Buchung nötig.",
+          "admissionFeeDe": "Hunde kostenlos; Erwachsenenpreise variieren je nach Route",
+          "tipDe": "Nehmen Sie das Boot nach Hawes End und wandern Sie auf Catbells, dann segeln Sie zurück; die offenen Decks sind an einem klaren Tag der schönste Platz für einen Hund."
         },
         {
           "name": "Castlerigg Stone Circle (English Heritage)",
@@ -717,7 +820,11 @@
           "tipFr": "Venez au lever ou au coucher du soleil pour la lumière sur les fells et le cercle le plus calme ; ce sont des terres pâturées, gardez votre chien en laisse et ramassez.",
           "tipEs": "Ven al amanecer o al atardecer para la luz sobre los fells y el círculo más tranquilo; son tierras de pastoreo, así que mantén al perro con correa y recoge.",
           "tipPt": "Venha ao nascer ou ao pôr do sol para a luz sobre os fells e o círculo mais tranquilo; são terras de pastoreio, por isso mantenha o cão à trela e recolha os dejetos.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Castlerigg+Stone+Circle+Keswick"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Castlerigg+Stone+Circle+Keswick",
+          "descriptionDe": "Einer der frühesten und dramatischst gelegenen Steinkreise Großbritanniens, stehend auf einem offenen Feld, umringt von den nördlichen Fjälls direkt außerhalb von Keswick. Es handelt sich um eine kostenlose, frei zugängliche English-Heritage-Stätte, und angeleinte Hunde sind an diesem stimmungsvollen Ort zu jeder Tageszeit willkommen.",
+          "dogPolicyDe": "Hunde an der Leine jederzeit willkommen; das Feld wird von Schafen beweidet, halten Sie sie also angeleint.",
+          "admissionFeeDe": "Kostenlos; Parkplätze am Straßenrand sind begrenzt",
+          "tipDe": "Kommen Sie bei Sonnenauf- oder -untergang für das Licht auf den Fjälls und den ruhigsten Kreis; es handelt sich um beweidetes Ackerland, halten Sie Ihren Hund also angeleint und räumen Sie auf."
         },
         {
           "name": "Whinlatter Forest",
@@ -740,7 +847,11 @@
           "tipFr": "Le couvert des arbres en fait l'un des meilleurs endroits pour promener un chien sous une forte pluie ; restez sur les sentiers balisés et à l'écart des zones d'exploitation forestière actives.",
           "tipEs": "La cubierta de los árboles lo convierte en uno de los mejores sitios para pasear a un perro bajo lluvia fuerte; cíñete a los senderos señalizados y evita las zonas de explotación forestal activas.",
           "tipPt": "A cobertura das árvores faz dele um dos melhores sítios para passear um cão com chuva forte; mantenha-se nos trilhos sinalizados e afastado de zonas de exploração florestal ativas.",
-          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Whinlatter+Forest+Keswick"
+          "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Whinlatter+Forest+Keswick",
+          "descriptionDe": "Englands einziger echter Bergwald, betrieben von Forestry England in den Hügeln westlich von Keswick, mit ausgeschilderten Wander- und Radwegen, einem Aussichtspunkt für Fischadler und einem Besucherzentrum mit Café. Hunde sind auf den Waldwegen an der Leine willkommen, was den Wald zu einer guten Option bei jedem Wetter unter dem Blätterdach macht.",
+          "dogPolicyDe": "Hunde auf den Waldwegen an der Leine willkommen; das Café des Besucherzentrums hat Außensitzplätze für Hunde.",
+          "admissionFeeDe": "Freier Eintritt; Parkgebühr fällt an",
+          "tipDe": "Das Blätterdach macht den Wald zu einem der besten Orte, um einen Hund bei starkem Regen auszuführen; bleiben Sie auf den ausgeschilderten Wegen und meiden Sie aktive Forstbereiche."
         }
       ],
       "tipsEn": [
@@ -802,6 +913,18 @@
           "q": "Que atrações de Keswick aceitam cães?",
           "a": "O Keswick Launch, o círculo de Castlerigg e a floresta de Whinlatter aceitam cães à trela, juntamente com a margem do National Trust em Friar's Crag e Calfclose Bay. Muitas atrações de interior são menos acolhedoras, por isso o lago, os fells e a floresta são o foco natural."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten in Keswick",
+      "introDe": "Der Höhepunkt eines Hundetags in Keswick ist der Derwentwater selbst, und eine Kreuzfahrt mit dem Keswick Launch heißt Hunde kostenlos willkommen. Rund um die Stadt lassen mehrere Attraktionen ebenfalls Hunde herein, von einem prähistorischen Steinkreis unter freiem Himmel mit Bergkulisse bis zu Englands einzigem echten Bergwald, sodass Sie Ihren Hund selten zurücklassen müssen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund auf eine Derwentwater-Kreuzfahrt mitnehmen?",
+          "a": "Ja. Der Keswick Launch heißt alle Hunde an der Leine kostenlos auf seinen Derwentwater-Fahrten willkommen, die an sieben Anlegestellen rund um den See halten. Halten Sie Ihren Hund von den Sitzen fern, und nutzen Sie das Boot, um einen Ufer- oder Fjällspaziergang mit der Rückfahrt in die Stadt zu verbinden."
+        },
+        {
+          "q": "Welche Sehenswürdigkeiten in Keswick erlauben Hunde?",
+          "a": "Der Keswick Launch, der Castlerigg Stone Circle und der Whinlatter Forest heißen alle angeleinte Hunde willkommen, ebenso wie das Seeufer des National Trust bei Friar's Crag und Calfclose Bay. Viele Indoor-Attraktionen sind weniger hundefreundlich, sodass der See, die Fjälls und der Wald der natürliche Schwerpunkt sind."
+        }
       ]
     },
     "petsitting": {
@@ -826,11 +949,16 @@
           "serviceTypeEs": "Alojamiento, guardería, visitas a domicilio y paseo",
           "serviceTypePt": "Alojamento, creche, visitas ao domicílio e passeio",
           "pricePerDay": "From around £20-£35 per day",
-          "languages": ["English"],
+          "languages": [
+            "English"
+          ],
           "tip": "Message two or three sitters early and arrange a short meet-and-greet before your trip so your dog is comfortable before the day you need cover.",
           "tipFr": "Contactez deux ou trois gardiens tôt et organisez une courte rencontre avant votre séjour, pour que votre chien soit à l'aise avant le jour où vous avez besoin de la garde.",
           "tipEs": "Escribe a dos o tres cuidadores pronto y organiza un breve encuentro previo a tu viaje, para que tu perro esté cómodo antes del día en que necesites el servicio.",
-          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço."
+          "tipPt": "Contacte dois ou três cuidadores cedo e combine um breve encontro antes da sua viagem, para que o seu cão esteja à vontade antes do dia em que precisa do serviço.",
+          "descriptionDe": "Die größte Plattform für Tierbetreuung in Großbritannien, mit lokalen Hundesittern, Boardern und Gassi-Gehern in ganz Cumbria und dem Lake District. Jeder Sitter hat ein Profil, Bewertungen und Fotos, und Sie buchen und bezahlen über die App mit inbegriffenem Versicherungsschutz.",
+          "serviceTypeDe": "Hunde-Boarding, Tagesbetreuung, Kurzbesuche und Gassi-Service",
+          "tipDe": "Kontaktieren Sie zwei oder drei Sitter frühzeitig und vereinbaren Sie vor Ihrer Reise ein kurzes Kennenlerntreffen, damit sich Ihr Hund vor dem eigentlichen Betreuungstag wohlfühlt."
         },
         {
           "name": "Tailster",
@@ -844,11 +972,16 @@
           "serviceTypeEs": "Paseo, guardería y alojamiento en casa",
           "serviceTypePt": "Passeio, creche e alojamento ao domicílio",
           "pricePerDay": "From around £18-£30 per day",
-          "languages": ["English"],
+          "languages": [
+            "English"
+          ],
           "tip": "Give clear notes on your dog's recall and reaction to sheep, since Lakeland carers often walk in fields and open fell where livestock is present.",
           "tipFr": "Donnez des indications claires sur le rappel de votre chien et sa réaction aux moutons, car les intervenants du Lakeland promènent souvent dans des champs et sur le fell ouvert où il y a du bétail.",
           "tipEs": "Da indicaciones claras sobre la llamada de vuelta de tu perro y su reacción ante las ovejas, ya que los cuidadores del Lakeland suelen pasear por prados y fell abierto donde hay ganado.",
-          "tipPt": "Dê indicações claras sobre a chamada de retorno do seu cão e a sua reação às ovelhas, já que os cuidadores do Lakeland passeiam muitas vezes por campos e fell aberto onde há gado."
+          "tipPt": "Dê indicações claras sobre a chamada de retorno do seu cão e a sua reação às ovelhas, já que os cuidadores do Lakeland passeiam muitas vezes por campos e fell aberto onde há gado.",
+          "descriptionDe": "Ein landesweites britisches Netzwerk versicherter, geprüfter Hundegassi-Geher und Sitter, das Sie anhand Ihrer Termine und der Bedürfnisse Ihres Hundes mit lokalen Betreuern zusammenbringt. Es ist eine nützliche Alternative zu Rover, um Betreuung für einen halbtägigen Spaziergang oder einen ganzen Tag auf den Fjälls zu finden.",
+          "serviceTypeDe": "Gassi-Service, Tagesbetreuung und Boarding zu Hause",
+          "tipDe": "Geben Sie klare Hinweise zum Rückrufverhalten Ihres Hundes und seiner Reaktion auf Schafe, da Betreuer im Lake District oft auf Feldern und offenem Fjäll mit Vieh unterwegs sind."
         }
       ],
       "tipsEn": [
@@ -909,6 +1042,18 @@
         {
           "q": "Posso deixar o meu cão enquanto subo um fell alto?",
           "a": "Sim. Um cuidador local ou uma creche pelo Rover ou Tailster é ideal para um grande dia de fell como o Skiddaw ou o Blencathra, embora muitos passeios baixos e o Keswick Launch aceitem cães de qualquer forma. Partilhe com o cuidador a chamada de retorno do seu cão perto das ovelhas e os dados do seu veterinário."
+        }
+      ],
+      "titleDe": "Hundesitting und Gassi-Service in Keswick",
+      "introDe": "Wenn Sie einen hohen Fjäll wie Skiddaw besteigen oder einen Ausflug unternehmen möchten, der für Ihren Hund nicht ideal ist, können nationale Plattformen Sie mit geprüften lokalen Sittern und Gassi-Gehern rund um Keswick und den weiteren Lake District verbinden. Buchen Sie in der Hochsaison im Sommer und den Schulferien frühzeitig, wenn die Nachfrage in diesem kleinen Ferienort hoch ist.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter in Keswick?",
+          "a": "Nationale Plattformen wie Rover und Tailster listen geprüfte, versicherte Sitter, Boarder und Gassi-Geher in ganz Cumbria und dem Lake District. Sie durchsuchen Profile und Bewertungen, vereinbaren ein Kennenlerntreffen und buchen über die App; reservieren Sie frühzeitig für die Hochsaison im Sommer und die Ferien."
+        },
+        {
+          "q": "Kann ich meinen Hund zurücklassen, während ich einen hohen Fjäll besteige?",
+          "a": "Ja. Ein lokaler Sitter oder eine Tagesbetreuung über Rover oder Tailster eignet sich ideal für einen großen Fjälltag wie Skiddaw oder Blencathra, obwohl viele niedrigere Wanderungen und der Keswick Launch ohnehin hundefreundlich sind. Teilen Sie dem Betreuer den Rückruf Ihres Hundes bei Schafen sowie die Kontaktdaten des Tierarztes mit."
         }
       ]
     }

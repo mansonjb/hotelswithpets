@@ -39,7 +39,11 @@
           "tipFr": "Réservez la terrasse et précisez que vous venez avec un chien, car la salle n'accepte pas les animaux.",
           "tipEs": "Reserva la terraza e indica que llevas perro, porque el interior no admite mascotas.",
           "tipPt": "Reserve a esplanada e indique que traz cão, porque o interior não admite animais.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Brochette+Nakagyo+Kyoto"
+          "googleMapsUrl": "https://www.google.com/maps/search/Brochette+Nakagyo+Kyoto",
+          "descriptionDe": "Ein lässiges Bistro im Zentrum Kyotos, dessen Außenterrasse angeleinte Hunde willkommen heißt, eine echte Seltenheit in dieser Tempelstadt. Es liegt im begehbaren Straßenraster von Nakagyo nahe Oike und eignet sich damit als einfacher Mittags- oder Abendstopp zwischen Besichtigungen zu Fuß.",
+          "petPolicyDe": "Hunde an der Leine auf der Terrasse willkommen; Verfügbarkeit der Terrasse bei der Reservierung bestätigen.",
+          "mustTryDe": "Die gegrillten Spieße mit einem Glas Wein auf der Terrasse.",
+          "tipDe": "Reservieren Sie die Terrasse und weisen Sie darauf hin, dass Sie einen Hund mitbringen, da Innenplätze keine Haustiere zulassen."
         },
         {
           "name": "Cafe DOnG by Sfera",
@@ -65,7 +69,11 @@
           "tipFr": "Convient surtout aux petits chiens de taille sac ; les grands chiens ne sont pas admis en salle.",
           "tipEs": "Ideal para perros pequeños de tamaño transportín; los perros grandes no se admiten en interior.",
           "tipPt": "Ideal para cães pequenos do tamanho de bolsa; os cães grandes não são admitidos no interior.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Cafe+DOnG+Sfera+Higashiyama+Kyoto"
+          "googleMapsUrl": "https://www.google.com/maps/search/Cafe+DOnG+Sfera+Higashiyama+Kyoto",
+          "descriptionDe": "Ein designorientiertes Café im Sfera-Gebäude am Rande von Gion, wo kleine Hunde drinnen erlaubt sind, ungewöhnlich für das zentrale Kyoto. Es bietet eine ruhige Kaffee- oder leichte Mittagspause im Herzen des Sightseeing-Viertels Higashiyama.",
+          "petPolicyDe": "Nur kleine Hunde sind drinnen erlaubt; aktuelle Richtlinie vor dem Besuch bestätigen.",
+          "mustTryDe": "Ein Kaffee mit Dessert nach einem Spaziergang durch Gion und Higashiyama.",
+          "tipDe": "Am besten geeignet für kleine, transportboxentaugliche Hunde; größere Hunde werden drinnen nicht zugelassen."
         },
         {
           "name": "Ran Hotei",
@@ -91,7 +99,11 @@
           "tipFr": "Renseignez-vous sur les friandises du jour en arrivant ; elles varient selon la saison.",
           "tipEs": "Pregunta por las golosinas del día al llegar; varían según la temporada.",
           "tipPt": "Pergunte pelas guloseimas do dia à chegada; variam com a estação.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Ran+Hotei+Nakagyo+Kyoto"
+          "googleMapsUrl": "https://www.google.com/maps/search/Ran+Hotei+Nakagyo+Kyoto",
+          "descriptionDe": "Ein entspanntes Café im Zentrum Kyotos, das Hunde willkommen heißt und sogar selbstgemachte Hundeleckerlis herstellt, darunter Sojamilch-Kuchen, Kekse und Trockenfleisch. Es ist auf Haustierbesitzer ausgerichtet und eignet sich daher für einen längeren, entspannten Aufenthalt mit einem angeleinten Hund.",
+          "petPolicyDe": "Hunde willkommen; selbstgemachte Hundeleckerlis erhältlich. Hunde drinnen angeleint halten.",
+          "mustTryDe": "Ein Kaffee mit einem Sojamilch-Leckerli für Ihren Hund.",
+          "tipDe": "Fragen Sie bei der Ankunft nach den Leckerlis des Tages; sie variieren je nach Saison."
         }
       ],
       "tipsEn": [
@@ -169,6 +181,22 @@
           "q": "Os cafés para cães de Quioto oferecem algo para os cães?",
           "a": "Alguns sim. Uns poucos cafés fazem guloseimas caseiras ou têm tigelas de água, mas não conte com isso. Leve a sua própria tigela dobrável, água e uma manta por precaução."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants & Cafés in Kyoto",
+      "introDe": "Kyoto ist eine traditionsreiche Stadt, in der die meisten Innenräume von Restaurants, Machiya-Restaurants und Teehäusern keine Hunde zulassen. Planen Sie daher mit Terrassen, speziellen Hundecafés und der Handvoll Lokale, die angeleinte oder kleine Hunde bewirten. Die verlässlichsten Ballungen liegen im zentralen Nakagyo und im Stadtteil Higashiyama, und die Richtlinien ändern sich häufig, rufen Sie also immer vorher an und erwähnen Sie, dass Sie einen Hund mitbringen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in ein Restaurant in Kyoto mitnehmen?",
+          "a": "Selten. Die meisten Innenräume von Restaurants, traditionelle Machiya-Restaurants und Teehäuser lassen keine Hunde zu. Zielen Sie auf Terrassen, spezielle Hundecafés oder die wenigen Lokale, die kleine Hunde drinnen bewirten, und bestätigen Sie dies stets vorab telefonisch."
+        },
+        {
+          "q": "Welche Viertel in Kyoto eignen sich am besten, um mit Hund essen zu gehen?",
+          "a": "Das zentrale Nakagyo und der Stadtteil Higashiyama in der Nähe von Gion haben die meisten hundefreundlichen Cafés und Terrassen. Das Angebot ist dünner als in Tokio, planen Sie also ein konkretes Lokal, statt zu erwarten, einfach irgendwo hineinzugehen."
+        },
+        {
+          "q": "Bieten Hundecafés in Kyoto etwas für Hunde an?",
+          "a": "Manche schon. Einige Cafés stellen selbstgemachte Hundeleckerlis her oder halten Wassernäpfe bereit, verlassen Sie sich aber nicht darauf. Bringen Sie sicherheitshalber Ihren eigenen faltbaren Napf, Wasser und eine Matte mit."
+        }
       ]
     },
     "parks": {
@@ -205,7 +233,11 @@
           "tipFr": "Venez à l'aube ou au crépuscule pour croiser les chiens du quartier et éviter la chaleur estivale sur les berges exposées.",
           "tipEs": "Ve al amanecer o al atardecer para coincidir con los perros del barrio y evitar el calor del verano en las orillas expuestas.",
           "tipPt": "Vá ao amanhecer ou ao anoitecer para encontrar os cães do bairro e evitar o calor do verão nas margens expostas.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Kamogawa+Delta+Kyoto"
+          "googleMapsUrl": "https://www.google.com/maps/search/Kamogawa+Delta+Kyoto",
+          "descriptionDe": "Die grasbewachsenen Ufer des Kamo-Flusses sind Kyotos beliebteste örtliche Hundespazierroute, die sich kilometerweit durch die Stadt zieht und bei Morgen- und Abenddämmerung am stärksten von Hundebesitzern frequentiert wird. Die flachen Uferwege eignen sich ideal für einen langen Spaziergang an der Leine, mit einigen offenen Abschnitten nahe dem Kamogawa-Delta, wo sich Hunde versammeln.",
+          "petPolicyDe": "Angeleinte Hunde auf den Wegen willkommen; Leine kurz halten und Kot Ihres Hundes entfernen.",
+          "mustTryDe": "Ein früher Morgenspaziergang vom Kamogawa-Delta hinunter Richtung Shijo.",
+          "tipDe": "Gehen Sie bei Morgen- oder Abenddämmerung, um örtliche Hunde zu treffen und die Sommerhitze an den offenen Ufern zu vermeiden."
         },
         {
           "name": "Kyoto Gyoen (Imperial Park)",
@@ -231,7 +263,11 @@
           "tipFr": "Restez sur les chemins et gardez la laisse courte ; les enceintes intérieures du palais n'admettent pas les chiens.",
           "tipEs": "Cíñete a los caminos y mantén la correa corta; los recintos interiores del palacio no admiten perros.",
           "tipPt": "Mantenha-se nos caminhos e a trela curta; os recintos interiores do palácio não admitem cães.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Kyoto+Gyoen+National+Garden"
+          "googleMapsUrl": "https://www.google.com/maps/search/Kyoto+Gyoen+National+Garden",
+          "descriptionDe": "Der weitläufige Nationalgarten rund um den Kaiserpalast von Kyoto hat breite Kiesalleen und Rasenflächen, auf denen angeleinte Hunde auf den Wegen willkommen sind. Es ist eine ruhige, zentrale Grünfläche, wobei die Gebäude des Kaiserpalasts und des Sento-Palasts sowie deren innere Anlagen separat sind und keine Hunde zulassen.",
+          "petPolicyDe": "Angeleinte Hunde auf den Parkwegen erlaubt; nur kurze Leinen, Roll- und Langleinen werden nicht empfohlen.",
+          "mustTryDe": "Die Kiesalleen unter den Pflaumen- und Kirschbäumen im zeitigen Frühling.",
+          "tipDe": "Bleiben Sie auf den Wegen und halten Sie die Leine kurz; die inneren Anlagen des Palasts lassen keine Hunde zu."
         },
         {
           "name": "Takaragaike Park",
@@ -257,7 +293,11 @@
           "tipFr": "Gardez les chiens sur la boucle pavée ; les pelouses et zones plantées sont interdites aux chiens ici.",
           "tipEs": "Mantén a los perros en el circuito pavimentado; el césped y las zonas ajardinadas están vetados a los perros aquí.",
           "tipPt": "Mantenha os cães no circuito pavimentado; os relvados e zonas ajardinadas são vedados aos cães aqui.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Takaragaike+Park+Kyoto"
+          "googleMapsUrl": "https://www.google.com/maps/search/Takaragaike+Park+Kyoto",
+          "descriptionDe": "Ein großer Seepark im nördlichen Sakyo-Bezirk mit einer etwa 1,5 km langen Runde um den Takaragaike-Teich, umgeben von bewaldeten Hügeln. Angeleinte Hunde sind auf den asphaltierten Wegen willkommen, was ihn zu einer ruhigeren, grüneren Alternative zu den Flussufern im Stadtzentrum macht.",
+          "petPolicyDe": "Angeleinte Hunde nur auf den asphaltierten Wegen; Hunde bleiben von Rasenflächen und dem Kinderspielbereich fern.",
+          "mustTryDe": "Die Seerunde mit Blick zurück auf die Kitayama-Hügel.",
+          "tipDe": "Halten Sie Hunde auf der asphaltierten Runde; Rasen- und Bepflanzungsflächen sind hier für Hunde tabu."
         }
       ],
       "tipsEn": [
@@ -335,6 +375,22 @@
           "q": "Os cães são admitidos no recinto do Palácio Imperial de Quioto?",
           "a": "Os cães à trela são bem-vindos nos caminhos do Kyoto Gyoen, o grande jardim nacional à volta do palácio. Os edifícios do Palácio Imperial e do Palácio Sento e os seus recintos interiores são à parte e não admitem cães."
         }
+      ],
+      "titleDe": "Die besten Parks & Hundespaziergänge in Kyoto",
+      "introDe": "Die besten Spazierwege für Hunde in Kyoto verlaufen entlang des Kamo-Flusses und in den großen öffentlichen Gärten der Stadt, wo angeleinte Hunde auf den Wegen willkommen sind. Nach den Regeln der Präfektur Kyoto müssen Hunde an einer kurzen Leine gehalten werden und dürfen nicht frei laufen, Roll- und Langleinen werden nicht empfohlen, und Besitzer müssen Kot entfernen und Urin mit Wasser abspülen.",
+      "faqsDe": [
+        {
+          "q": "Wo kann ich meinen Hund in Kyoto ausführen?",
+          "a": "Die Ufer des Kamo-Flusses sind die beliebteste Route, mit kilometerlangen, flachen Wegen für angeleinte Hunde durch die Stadt. Kyoto Gyoen (der Kaiserliche Park) und der Takaragaike-Park im Norden sind die besten großen Gärten, in denen angeleinte Hunde auf den Wegen erlaubt sind."
+        },
+        {
+          "q": "Kann mein Hund in Kyotos Parks ohne Leine laufen?",
+          "a": "Nein. Die Regeln der Präfektur Kyoto verlangen Hunde an kurzer Leine in öffentlichen Räumen, und Roll- oder Langleinen werden nicht empfohlen. Nur wenige offene Abschnitte am Kamo-Fluss werden freier genutzt, doch auch dort wird eine Leine erwartet."
+        },
+        {
+          "q": "Sind Hunde auf dem Gelände des Kaiserpalasts von Kyoto erlaubt?",
+          "a": "Angeleinte Hunde sind auf den Wegen von Kyoto Gyoen, dem großen Nationalgarten rund um den Palast, willkommen. Die Gebäude des Kaiserpalasts und des Sento-Palasts sowie deren innere Anlagen sind separat und lassen keine Hunde zu."
+        }
       ]
     },
     "transport": {
@@ -371,7 +427,11 @@
           "tipFr": "Évitez l'heure de pointe et les bus touristiques bondés, difficiles à gérer avec un sac.",
           "tipEs": "Evita la hora punta y los autobuses turísticos abarrotados, difíciles de manejar con un transportín.",
           "tipPt": "Evite a hora de ponta e os autocarros turísticos apinhados, difíceis de gerir com uma bolsa.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "JR West, die städtische U-Bahn von Kyoto und die Stadtbusse lassen Hunde nur zu, wenn sie während der gesamten Fahrt vollständig in einer geschlossenen Transportbox bleiben, wobei Tier und Box zusammen innerhalb der Grenzen des Betreibers liegen (eine Box von höchstens 70 cm Länge, Gesamtmaßen unter 90 cm und einem Gesamtgewicht unter 10 kg). JR erhebt eine kleine, am Bahnhof erworbene Handgepäckgebühr; bestätigen Sie die genauen aktuellen Grenzwerte und die Gebühr vor der Reise beim Personal.",
+          "petPolicyDe": "Hunde müssen vollständig in einer geschlossenen Transportbox innerhalb der Größen- und Gewichtsgrenzen des Betreibers bleiben; bei JR fällt eine kleine Gebühr an.",
+          "mustTryDe": "Eine ruhige Fahrt außerhalb der Stoßzeiten mit Transportbox hinaus nach Arashiyama oder zum Kamo-Fluss.",
+          "tipDe": "Vermeiden Sie Stoßzeiten und überfüllte Touristenbusse, die extrem voll und für eine Transportbox anstrengend sind."
         },
         {
           "name": "Pet Taxis & Shinkansen Connections",
@@ -397,7 +457,11 @@
           "tipFr": "Réservez les taxis animaliers à l'avance, et achetez le billet bagage à main pour le sac avant de monter dans le Shinkansen.",
           "tipEs": "Reserva los taxis para mascotas con antelación y compra el billete de equipaje de mano para el transportín antes de subir al Shinkansen.",
           "tipPt": "Reserve os táxis para animais com antecedência e compre o bilhete de bagagem de mão para a bolsa antes de entrar no Shinkansen.",
-          "googleMapsUrl": ""
+          "googleMapsUrl": "",
+          "descriptionDe": "Für Hunde, die zu groß für eine Transportbox sind, betreiben spezielle Haustiertaxi-Unternehmen in ganz Kyoto und der weiteren Region Kansai und sind die verlässliche Möglichkeit, einen größeren Hund zu bewegen. Für Fernreisen verbindet der Tokaido-Shinkansen Kyoto und Tokio in etwa 2 Stunden 15 Minuten, und Hunde reisen unter denselben Transportbox- und Handgepäckregeln, sodass ein transportboxtauglicher Hund bei einer Fahrt von Kyoto nach Tokio oder Osaka mitkommen kann.",
+          "petPolicyDe": "Haustiertaxi-Firmen nehmen größere Hunde nach Buchung an; der Shinkansen wendet dieselben Regeln für geschlossene Transportbox und Handgepäck an.",
+          "mustTryDe": "Ein gebuchtes Haustiertaxi nach Arashiyama, oder ein transportboxtauglicher Hund im Shinkansen nach Tokio.",
+          "tipDe": "Buchen Sie Haustiertaxis vorab, und kaufen Sie das Handgepäckticket für die Transportbox vor dem Einsteigen in den Shinkansen."
         }
       ],
       "tipsEn": [
@@ -475,6 +539,22 @@
           "q": "Posso levar o meu cão de Quioto a Tóquio de comboio?",
           "a": "Sim, se couber numa bolsa permitida. O Shinkansen Tokaido liga Quioto e Tóquio em cerca de 2 horas 15 minutos, e os cães viajam com as mesmas regras de bolsa fechada e bagagem de mão que os comboios locais."
         }
+      ],
+      "titleDe": "Mit Hund unterwegs in Kyoto",
+      "introDe": "Wie im übrigen Japan reisen Hunde bei JR West, der U-Bahn von Kyoto und Stadtbussen nur als Handgepäck: vollständig in einer geschlossenen Transportbox, wobei Tier und Box innerhalb der Größen- und Gewichtsgrenzen des Betreibers bleiben müssen (grob eine Box von höchstens 70 cm Länge, Gesamtmaßen unter 90 cm und unter 10 kg). Das macht es einfach, kleine Hunde in Kyoto zu bewegen, schließt aber mittelgroße oder große Hunde vom öffentlichen Nahverkehr aus, planen Sie also für alles Größere ein Haustiertaxi ein.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund in Kyotos Zügen, U-Bahn und Bussen mitnehmen?",
+          "a": "Nur wenn der Hund während der gesamten Fahrt vollständig in einer geschlossenen Transportbox bleibt und Tier plus Box innerhalb der Grenzen des Betreibers liegen (grob eine Box unter 70 cm, Gesamtmaßen unter 90 cm und unter 10 kg). JR erhebt eine kleine Handgepäckgebühr. Bestätigen Sie die genauen aktuellen Grenzwerte beim Personal."
+        },
+        {
+          "q": "Wie bewege ich einen großen Hund durch Kyoto?",
+          "a": "Große und mittelgroße Hunde können den öffentlichen Nahverkehr nicht nutzen, da sie nicht in eine zulässige Transportbox passen. Buchen Sie ein spezielles Haustiertaxi, die übliche verlässliche Option für größere Hunde in Kyoto und der Region Kansai."
+        },
+        {
+          "q": "Kann ich meinen Hund von Kyoto nach Tokio mit dem Zug mitnehmen?",
+          "a": "Ja, wenn er in eine zulässige Transportbox passt. Der Tokaido-Shinkansen verbindet Kyoto und Tokio in etwa 2 Stunden 15 Minuten, und Hunde reisen unter denselben Regeln für geschlossene Transportbox und Handgepäck wie in Regionalzügen."
+        }
       ]
     },
     "beaches": {
@@ -490,7 +570,10 @@
       "faqsEs": [],
       "titlePt": "Praias para cães perto de Quioto",
       "introPt": "Conteúdo em breve, estamos a investigar as melhores opções para si.",
-      "faqsPt": []
+      "faqsPt": [],
+      "titleDe": "Strände in der Nähe von Kyoto",
+      "introDe": "Inhalte folgen in Kürze, wir recherchieren gerade die besten Optionen für Sie.",
+      "faqsDe": []
     },
     "vets": {
       "titleEn": "Emergency Vets & Animal Hospitals in Kyoto",
@@ -526,7 +609,11 @@
           "tipFr": "Téléphone : 075-693-9912. L'anglais est limité la nuit, gardez les informations de votre chien par écrit.",
           "tipEs": "Teléfono: 075-693-9912. El inglés es limitado de noche, ten por escrito los datos de tu perro.",
           "tipPt": "Telefone: 075-693-9912. O inglês é limitado à noite, tenha os dados do seu cão por escrito.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Kyoto+Night+Emergency+Animal+Center+Minami"
+          "googleMapsUrl": "https://www.google.com/maps/search/Kyoto+Night+Emergency+Animal+Center+Minami",
+          "descriptionDe": "Die dedizierte Notfallklinik der Stadt außerhalb der regulären Öffnungszeiten, betrieben vom Kyoto City Veterinary Medical Association im Kyoto Animal Welfare Center im Bezirk Minami. Sie behandelt dringende Fälle bei Kleintieren nachts, jeden Tag im Jahr, wenn reguläre Kliniken geschlossen sind.",
+          "petPolicyDe": "Nur nächtliche Notfallversorgung; vor der Ankunft telefonisch anmelden.",
+          "mustTryDe": "Speichern Sie die Nummer, bevor Sie sie brauchen.",
+          "tipDe": "Telefon: 075-693-9912. Englisch ist nachts begrenzt verfügbar, halten Sie die Details Ihres Hundes schriftlich bereit."
         },
         {
           "name": "Animal Hospital Kyoto",
@@ -552,7 +639,11 @@
           "tipFr": "Téléphone : 075-465-3330. Précisez que vous avez besoin d'anglais à l'appel pour que le personnel se prépare.",
           "tipEs": "Teléfono: 075-465-3330. Indica que necesitas inglés al llamar para que el personal se prepare.",
           "tipPt": "Telefone: 075-465-3330. Indique que precisa de inglês ao ligar para que o pessoal se prepare.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Animal+Hospital+Kyoto+Kita-ku"
+          "googleMapsUrl": "https://www.google.com/maps/search/Animal+Hospital+Kyoto+Kita-ku",
+          "descriptionDe": "Eine Tagesklinik im Bezirk Kita, die ausdrücklich internationale Kunden willkommen heißt, mit Tierärzten und Assistenten, die Englisch sprechen. Sie führt Blutuntersuchungen, Ultraschall und Röntgen durch und verfügt über einen großen Behandlungsraum, der auch größere Hunde aufnehmen kann, was sie zu einer nützlichen englischsprachigen ersten Anlaufstelle macht.",
+          "petPolicyDe": "Tagesklinik mit englischsprachigem Personal; Buchung telefonisch oder über das Kontaktformular der Website.",
+          "mustTryDe": "Behalten Sie diese als Ihre englischsprachige Tagesoption.",
+          "tipDe": "Telefon: 075-465-3330. Erwähnen Sie beim Anruf, dass Sie Englisch benötigen, damit sich das Personal vorbereiten kann."
         }
       ],
       "tipsEn": [
@@ -629,6 +720,22 @@
         {
           "q": "O que faço numa emergência com o meu animal à noite em Quioto?",
           "a": "Ligue primeiro para o Kyoto Night Emergency Animal Center em vez de ir às cegas, e tenha prontos os dados médicos do seu cão. Se o seu cão for demasiado grande para uma bolsa de comboio, reserve um táxi para animais para lá chegar."
+        }
+      ],
+      "titleDe": "Notfalltierärzte & Tierkliniken in Kyoto",
+      "introDe": "Kyoto verfügt über ein eigenes Nacht-Notfallzentrum für Tiere, betrieben vom städtischen Tierärzteverband, sowie Tageskliniken, darunter eine mit englischsprachigen Tierärzten. Die Versorgung außerhalb der Öffnungszeiten ist begrenzter als in Tokio, und englischsprachige Unterstützung ist nachts selten. Speichern Sie daher vor der Reise eine Nummer, rufen Sie vorher an, und halten Sie die wichtigsten medizinischen Details Ihres Hundes schriftlich fest.",
+      "faqsDe": [
+        {
+          "q": "Gibt es in Kyoto einen nächtlichen Notfalltierarzt?",
+          "a": "Ja. Das Kyoto Night Emergency Animal Center (075-693-9912), betrieben vom städtischen Tierärzteverband im Bezirk Minami, behandelt dringende Fälle bei Kleintieren nachts, jeden Tag im Jahr. Rufen Sie vor der Ankunft an."
+        },
+        {
+          "q": "Gibt es englischsprachige Tierärzte in Kyoto?",
+          "a": "Einige. Das Animal Hospital Kyoto im Bezirk Kita (075-465-3330) verfügt über englischsprachige Tierärzte und Assistenten für die Tagesbehandlung. Englischsprachige Unterstützung ist im Nacht-Notfallzentrum selten, bereiten Sie also die Details Ihres Hundes schriftlich vor."
+        },
+        {
+          "q": "Was soll ich bei einem Haustiernotfall in Kyoto nachts tun?",
+          "a": "Rufen Sie zuerst das Kyoto Night Emergency Animal Center an, statt blind loszufahren, und halten Sie die medizinischen Details Ihres Hundes bereit. Wenn Ihr Hund zu groß für eine Transportbox im Zug ist, buchen Sie ein Haustiertaxi, um dorthin zu gelangen."
         }
       ]
     },
@@ -721,6 +828,22 @@
           "q": "Qual é a melhor altura para visitar Quioto com um cão?",
           "a": "A primavera e o outono são ideais, com temperaturas amenas para caminhar. Evite o verão quente e húmido e a época das chuvas de junho a julho, e note que os invernos são frios com neve ocasional."
         }
+      ],
+      "titleDe": "Wichtige Tipps für einen Besuch in Kyoto mit Hund",
+      "introDe": "Kyoto ist ein schönes, aber anspruchsvolles Reiseziel für Hunde: Die meisten berühmten Tempel und Schreine lassen Hunde nicht ins Innere, sodass das Vergnügen in den Flussufern, Gärten und historischen Straßen liegt. Führen Sie die Tollwutdokumente Ihres Hundes mit, rechnen Sie mit ausschließlich transportboxtauglichem öffentlichem Nahverkehr, planen Sie um die harte Sommerhitze herum, und behandeln Sie die Tempelinnenräume als tabu.",
+      "faqsDe": [
+        {
+          "q": "Ist Kyoto eine gute Stadt für einen Besuch mit Hund?",
+          "a": "Für kleine, transportboxtaugliche Hunde und vorbereitete Besitzer ist sie lohnend, aber anspruchsvoll. Die meisten Tempel und Schreine schließen Hunde aus, der öffentliche Nahverkehr ist nur mit Transportbox möglich, und die Sommer sind heiß. Das Vergnügen liegt am Kamo-Fluss, in den Gärten und den historischen Straßen und nicht in den berühmten Innenräumen."
+        },
+        {
+          "q": "Kann ich meinen Hund in Kyotos Tempel und Schreine mitnehmen?",
+          "a": "Meist nicht ins Innere. Die meisten Tempel und Schreine lassen Hunde nicht in ihren heiligen Innenräumen zu, wobei manche Außenanlagen und öffentlichen Zugänge angeleinte Hunde tolerieren. Behandeln Sie einen Tempelbesuch als Außenstopp und prüfen Sie die Richtlinie jeder Stätte vorab."
+        },
+        {
+          "q": "Wann ist die beste Zeit für einen Besuch in Kyoto mit Hund?",
+          "a": "Frühling und Herbst sind ideal, mit milden Temperaturen zum Spazierengehen. Meiden Sie den heißen, feuchten Sommer und die Regenzeit von Juni bis Juli, und beachten Sie, dass die Winter kalt sind mit gelegentlichem Schnee."
+        }
       ]
     },
     "attractions": {
@@ -757,7 +880,11 @@
           "tipFr": "Venez à l'aube : le chemin est plus calme et plus frais, et un chien en laisse se gère mieux sans la foule.",
           "tipEs": "Ve al amanecer: el sendero está más tranquilo y fresco, y un perro con correa se maneja mejor sin las multitudes.",
           "tipPt": "Vá ao amanhecer: o trilho está mais calmo e fresco, e um cão à trela gere-se melhor sem as multidões.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Arashiyama+Bamboo+Grove+Kyoto"
+          "googleMapsUrl": "https://www.google.com/maps/search/Arashiyama+Bamboo+Grove+Kyoto",
+          "descriptionDe": "Der berühmte Bambuswaldpfad in Arashiyama ist ein öffentlicher Fußweg, und angeleinte Hunde sind dort in der Regel erlaubt, am besten früh vor den Menschenmassen zu genießen. Auch das umliegende Flussufer rund um die Togetsukyo-Brücke ist ein angenehmer Spaziergang an der Leine, wobei der nahe gelegene Affenpark Iwatayama Hunde ausschließt.",
+          "petPolicyDe": "Angeleinte Hunde auf dem öffentlichen Bambuspfad in der Regel erlaubt; der Affenpark Iwatayama lässt keine Hunde zu.",
+          "mustTryDe": "Den Bambuspfad im ersten Morgenlicht, anschließend einen Spaziergang am Fluss bei der Togetsukyo-Brücke.",
+          "tipDe": "Gehen Sie bei Sonnenaufgang: Der Pfad ist ruhiger und kühler, und ein angeleinter Hund lässt sich ohne die Menschenmassen leichter führen."
         },
         {
           "name": "Philosopher's Path (Tetsugaku-no-michi)",
@@ -783,7 +910,11 @@
           "tipFr": "Associez-le à une promenade dans les collines de Higashiyama, en restant sur les rues et chemins extérieurs.",
           "tipEs": "Combínalo con un paseo por las colinas de Higashiyama, ciñéndote a las calles y caminos exteriores.",
           "tipPt": "Combine-o com um passeio pelas colinas de Higashiyama, mantendo-se nas ruas e caminhos exteriores.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Philosophers+Path+Kyoto"
+          "googleMapsUrl": "https://www.google.com/maps/search/Philosophers+Path+Kyoto",
+          "descriptionDe": "Ein ruhiger Spazierweg am Kanal in den östlichen Hügeln, gesäumt von Kirschbäumen und verlaufend zwischen Ginkakuji und Nanzenji. Der Weg selbst ist eine öffentliche Route im Freien, auf der ein angeleinter Hund willkommen ist, wobei die daran angebundenen Tempel drinnen keine Hunde zulassen.",
+          "petPolicyDe": "Angeleinte Hunde auf dem öffentlichen Weg willkommen; die Tempel entlang des Wegs lassen drinnen keine Hunde zu.",
+          "mustTryDe": "Den kirschbaumgesäumten Kanalabschnitt Anfang April.",
+          "tipDe": "Verbinden Sie den Weg mit einem Spaziergang in den Ausläufern von Higashiyama, bleiben Sie dabei auf den Straßen und Wegen im Freien."
         },
         {
           "name": "Gion & Higashiyama Historic Streets",
@@ -809,7 +940,11 @@
           "tipFr": "Les rues pavées en pente deviennent glissantes sous la pluie et brûlantes en été ; promenez-vous tôt et vérifiez le sol pour les pattes.",
           "tipEs": "Las calles empedradas en pendiente resbalan con la lluvia y se calientan en verano; pasea temprano y comprueba el suelo para las patas.",
           "tipPt": "As ruas empedradas em declive escorregam com a chuva e aquecem no verão; passeie cedo e verifique o chão para as patas.",
-          "googleMapsUrl": "https://www.google.com/maps/search/Gion+Higashiyama+Kyoto"
+          "googleMapsUrl": "https://www.google.com/maps/search/Gion+Higashiyama+Kyoto",
+          "descriptionDe": "Die erhaltenen Gassen von Gion und Higashiyama mit ihren hölzernen Machiya-Häusern, Teehäusern und abschüssigen Steinstraßen zählen zu Kyotos stimmungsvollsten Spaziergängen und liegen naturgemäß im Freien. Angeleinte Hunde können bei einem Spaziergang durch die öffentlichen Straßen mitkommen, wobei die Schreine und Tempel, zu denen sie führen, ihre heiligen Innenräume hundefrei halten.",
+          "petPolicyDe": "Öffentliche Straßen im Freien für angeleinte Hunde geöffnet; von privaten Teehaus- und Schreininnenräumen fernhalten.",
+          "mustTryDe": "Einen frühmorgendlichen Spaziergang die Steingassen von Higashiyama hinauf, bevor die Menschenmassen kommen.",
+          "tipDe": "Abschüssige Steinstraßen werden bei Nässe rutschig und im Sommer heiß; gehen Sie früh und kontrollieren Sie den Boden für die Pfoten."
         }
       ],
       "tipsEn": [
@@ -887,6 +1022,22 @@
           "q": "O que posso fazer ao ar livre com um cão em Quioto?",
           "a": "Passeie pelo rio Kamo, pelo Caminho da Filosofia e pelo trilho de bambu de Arashiyama, e percorra as ruas históricas de Gion e Higashiyama. Estas rotas ao ar livre são o coração do Quioto dog-friendly, já que a maioria dos interiores exclui os cães."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten & Aktivitäten in Kyoto",
+      "introDe": "Die hundefreundliche Seite Kyotos liegt im Freien: Spaziergänge am Fluss, historische Straßen und öffentliche Wege, auf denen angeleinte Hunde willkommen sind, statt der Tempelinnenräume und kostenpflichtigen Gärten, die sie größtenteils ausschließen. Bauen Sie Ihren Tag um Wahrzeichen im Freien wie den Bambuspfad von Arashiyama, den Philosophenweg und die Gassen von Higashiyama, und behandeln Sie heilige Bezirke als tabu.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund zu Tempeln in Kyoto wie Kiyomizu-dera oder Fushimi Inari mitnehmen?",
+          "a": "Meist nicht ins Innere. Die meisten Tempel und Schreine lassen Hunde nicht in ihren heiligen Bezirken zu, wobei angeleinte Hunde oft die öffentlichen Straßen und Zugänge davor entlanggehen können. Behandeln Sie einen Tempelbesuch als Außenstopp und prüfen Sie die Richtlinie jeder Stätte vorab."
+        },
+        {
+          "q": "Ist der Bambuswald von Arashiyama hundefreundlich?",
+          "a": "Der Weg durch den Bambuswald ist ein öffentlicher Fußweg, auf dem angeleinte Hunde in der Regel erlaubt sind, am besten früh vor den Menschenmassen. Der nahe gelegene Affenpark Iwatayama lässt jedoch keine Hunde zu."
+        },
+        {
+          "q": "Was kann ich in Kyoto mit einem Hund im Freien unternehmen?",
+          "a": "Gehen Sie am Kamo-Fluss, am Philosophenweg und am Bambuspfad von Arashiyama spazieren, und schlendern Sie durch die historischen Straßen von Gion und Higashiyama. Diese Routen im Freien sind das Herzstück des hundefreundlichen Kyoto, da die meisten Innenräume Hunde ausschließen."
+        }
       ]
     },
     "petsitting": {
@@ -927,7 +1078,11 @@
           "languages": [
             "English",
             "Japanese"
-          ]
+          ],
+          "descriptionDe": "Eine globale App für Haustierdienstleistungen, die Hundesitter, Gassigeher, Pensionen und Groomer in Kyoto listet, mit Zahlungsschutz und Versicherung, die in jede Buchung integriert sind. Sie bietet käfigfreie Heimunterbringung als Alternative zu traditionellen Tierpensionen, nützlich für Besitzer, die ihren Hund in einer häuslichen Umgebung wissen möchten, während sie Tempel besichtigen.",
+          "petPolicyDe": "Sitter unterscheiden sich in den Größen und Rassen, die sie akzeptieren; Details und ein Kennenlerntreffen in der App bestätigen.",
+          "mustTryDe": "Einen käfigfreien Heimaufenthalt für einen schüchternen oder kleinen Hund.",
+          "tipDe": "Vereinbaren Sie zunächst einen kurzen Probebesuch, damit sich Ihr Hund vor einem ganzen Tag oder einer Übernachtung wohlfühlt."
         },
         {
           "name": "Pawshake Kyoto",
@@ -957,7 +1112,11 @@
           "languages": [
             "English",
             "Japanese"
-          ]
+          ],
+          "descriptionDe": "Ein internationaler Marktplatz für Haustierbetreuung mit einem Bereich für Kyoto, der Besitzer mit örtlichen Sittern für Heimunterbringung, Tagesbetreuung und Gassigehen verbindet. Profile, Bewertungen und versicherte Buchungen machen ihn zu einer praktischen Option für Besucher, die statt einer Pension einen häuslichen Aufenthalt wünschen, während sie die Stadt besichtigen.",
+          "petPolicyDe": "Einzelne Sitter legen eigene Größen- und Rassegrenzen fest; jedes Profil vor der Buchung prüfen.",
+          "mustTryDe": "Nach einem Sitter in der Nähe Ihres Hotels filtern, der Englisch spricht.",
+          "tipDe": "Schreiben Sie dem Sitter vorab, um Sprache, Impfanforderungen und ein Kennenlerntreffen zu bestätigen."
         }
       ],
       "tipsEn": [
@@ -1034,6 +1193,22 @@
         {
           "q": "Há cuidadores de animais que falem inglês em Quioto?",
           "a": "Sim. Vários cuidadores nas plataformas internacionais servem a comunidade de visitantes de Quioto. Filtre ou escreva para confirmar o idioma e os requisitos de vacinação antes de reservar, sobretudo em época alta."
+        }
+      ],
+      "titleDe": "Hundesitter, Gassigeher & Tierpensionen in Kyoto",
+      "introDe": "Da so viele Tempel, Gärten und Innenattraktionen in Kyoto Hunde ausschließen, kann ein Sitter oder eine Tagesbetreuung Ihnen die Besichtigung ermöglichen, und internationale Buchungsplattformen listen geprüfte Sitter und Gassigeher in der ganzen Stadt. Buchen Sie frühzeitig, da gute Hausbetreuer rund um Feiertage, Wochenenden und die Hochsaison der Kirschblüte und Herbstfärbung schnell ausgebucht sind.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich als Besucher einen Hundesitter in Kyoto?",
+          "a": "Internationale Plattformen wie PetBacker und Pawshake listen geprüfte Sitter in Kyoto mit Bewertungen, Versicherung und oft englischsprachigen Gastgebern, was für Reisende der zugänglichste Weg ist. Buchen Sie frühzeitig und bestätigen Sie die Impfanforderungen."
+        },
+        {
+          "q": "Warum würde ich einen Sitter in Kyoto brauchen?",
+          "a": "Viele der wichtigsten Sehenswürdigkeiten Kyotos, Tempel, Schreine, kostenpflichtige Gärten und Innenattraktionen lassen keine Hunde zu. Eine Tagesbetreuung oder ein Hausbetreuer erlaubt es Ihnen, diese zu besuchen, während Ihr Hund sicher betreut wird."
+        },
+        {
+          "q": "Gibt es englischsprachige Haustiersitter in Kyoto?",
+          "a": "Ja. Mehrere Sitter auf den internationalen Buchungsplattformen bedienen Kyotos Besuchergemeinschaft. Filtern oder schreiben Sie eine Nachricht, um Sprache und Impfanforderungen vor der Buchung zu bestätigen, besonders in der Hochsaison."
         }
       ]
     }

@@ -1,4 +1,10 @@
-{"slug":"kefalonia","name":"Kefalonia","country":"Greece","flag":"🇬🇷","lastUpdated":"2026-06-19","guides":{
+{
+  "slug": "kefalonia",
+  "name": "Kefalonia",
+  "country": "Greece",
+  "flag": "🇬🇷",
+  "lastUpdated": "2026-06-19",
+  "guides": {
     "restaurants": {
       "titleEn": "Pet-Friendly Restaurants in Kefalonia",
       "titleFr": "Restaurants acceptant les animaux à Céphalonie",
@@ -33,7 +39,11 @@
           "tipFr": "Appelez à l'avance hors saison car les horaires varient dans ce petit village, et calez votre repas sur le coucher du soleil sur la baie",
           "tipEs": "Llama con antelación fuera de temporada porque los horarios varían en este pueblo pequeño, y haz coincidir tu comida con la puesta de sol sobre la bahía",
           "tipPt": "Ligue com antecedência fora de época, pois os horários variam nesta pequena aldeia, e marque a refeição para o pôr do sol sobre a baía",
-          "googleMapsUrl": "https://maps.google.com/?q=Remetzo+Village+Lixouri+Kefalonia"
+          "googleMapsUrl": "https://maps.google.com/?q=Remetzo+Village+Lixouri+Kefalonia",
+          "descriptionDe": "Eine familiengeführte Fischtaverne am Meer neben dem Strand von Vrahinari auf der ruhigen Halbinsel Paliki, mit einer entspannten Freiluftterrasse direkt am Wasser. Die Familie hält eigene Hunde, und Gäste erwähnen regelmäßig, ihre eigenen mitzubringen, was diesen Ort zu einem der zuverlässigsten hundefreundlichen Restaurants der Insel macht.",
+          "petPolicyDe": "Hunde auf der Terrasse am Meer willkommen",
+          "mustTryDe": "Frisch gegrillter Fisch, frittierte Zucchini- und Feta-Bällchen",
+          "tipDe": "Rufen Sie in der Nebensaison vorab an, da die Öffnungszeiten in diesem kleinen Dorf variieren, und planen Sie Ihr Essen zum Sonnenuntergang über der Bucht"
         },
         {
           "name": "Ranzo Ionio",
@@ -59,7 +69,11 @@
           "tipFr": "Réservez à l'avance car c'est petit et vite complet, et signalez votre chien pour qu'on vous installe en terrasse",
           "tipEs": "Reserva con antelación porque es pequeño y se llena, y menciona a tu perro para que te sienten en la terraza",
           "tipPt": "Reserve com antecedência porque é pequeno e enche, e mencione o seu cão para o sentarem na esplanada",
-          "googleMapsUrl": "https://maps.google.com/?q=Ranzo+Ionio+Tzamarelata+Kefalonia"
+          "googleMapsUrl": "https://maps.google.com/?q=Ranzo+Ionio+Tzamarelata+Kefalonia",
+          "descriptionDe": "Eine rustikale, familiengeführte Taverne inmitten von Olivenhainen in den Hügeln Nordkefalonias, etwa fünfzehn Minuten von Fiskardo entfernt, mit täglich wechselnden Gerichten ohne gedruckte Speisekarte. Die informelle Freiluftterrasse mit Sonnenuntergangsblick auf das Ionische Meer ist genau die Art von Ort, an dem sich ein angeleinter Hund wohlfühlt, es lohnt sich jedoch, dies bei der Reservierung zu bestätigen.",
+          "petPolicyDe": "Ländliche Freiluftterrasse; angeleinte Hunde meist in Ordnung, bei Buchung bestätigen",
+          "mustTryDe": "Dolmades, gegrillter Fisch, geschmortes Rindfleisch",
+          "tipDe": "Reservieren Sie vorab, da es klein ist und sich schnell füllt, und erwähnen Sie Ihren Hund, damit man Sie auf der Terrasse platziert"
         },
         {
           "name": "Tassia",
@@ -85,7 +99,11 @@
           "tipFr": "Réservez une table sur le quai pour la vue sur le port, et venez en début de soirée avant l'affluence du dîner en plein été",
           "tipEs": "Reserva una mesa junto al muelle para la vista del puerto, y ven a primera hora de la tarde antes del lleno de la cena en pleno verano",
           "tipPt": "Reserve uma mesa junto ao cais para a vista do porto e venha ao início da noite antes do pico do jantar no auge do verão",
-          "googleMapsUrl": "https://maps.google.com/?q=Tassia+Restaurant+Fiskardo+Kefalonia"
+          "googleMapsUrl": "https://maps.google.com/?q=Tassia+Restaurant+Fiskardo+Kefalonia",
+          "descriptionDe": "Ein gefeiertes Restaurant am Kai des Hafens von Fiskardo, geführt von der lokalen Köchin und Kochbuchautorin Tassia Dendrinou, bekannt für raffinierte ionische Meeresfrüchte. Die Tische stehen auf der Freiluftpromenade am Wasser, wo sich ein ruhiger, angeleinter Hund zu Ihren Füßen niederlassen kann, doch da es sich um ein gehobenes Lokal handelt, sollte man das Personal vor dem Platznehmen fragen.",
+          "petPolicyDe": "Freiluftterrasse am Hafen; Personal vor dem Platznehmen mit Hund fragen",
+          "mustTryDe": "Risotto mit Tintenfischtinte, Hummer-Linguine, in Robola geschmortes Hähnchen",
+          "tipDe": "Buchen Sie einen Tisch am Kai für den Hafenblick und kommen Sie am frühen Abend vor dem Abendansturm in der Hochsaison"
         }
       ],
       "tipsEn": [
@@ -163,6 +181,22 @@
           "q": "Que parte da ilha é mais dog-friendly para comer fora?",
           "a": "A península de Paliki (à volta de Lixouri), Fiskardo e as aldeias do norte são as mais descontraídas. As zonas turísticas movimentadas como Lassi são mais rigorosas e mais cheias em julho e agosto."
         }
+      ],
+      "titleDe": "Hundefreundliche Restaurants auf Kefalonia",
+      "introDe": "Die Esskultur Kefalonias dreht sich um Tavernen im Freien direkt am Meer, und die meisten heißen einen gut erzogenen, angeleinten Hund auf ihrer Terrasse willkommen, besonders in den ruhigeren Dörfern von Paliki, Fiskardo und im Norden. Die goldene Regel auf einer ionischen Sommerinsel ist das Timing: Essen Sie am frühen Abend oder nach Sonnenuntergang, wenn sich die Terrassen abkühlen, bringen Sie einen Wassernapf mit und fragen Sie immer zuerst das Personal, da es letztlich im Ermessen des Inhabers liegt.",
+      "faqsDe": [
+        {
+          "q": "Sind Hunde in Restaurants auf Kefalonia erlaubt?",
+          "a": "Auf offenen Tavernenterrassen sind angeleinte, gut erzogene Hunde in der Regel willkommen, besonders in ruhigeren Dörfern. Es liegt im Ermessen des Inhabers, fragen Sie also immer zuerst nach. In klimatisierten Innenräumen sind Hunde nicht erlaubt."
+        },
+        {
+          "q": "Wann ist die beste Zeit, um mit einem Hund auf Kefalonia auswärts zu essen?",
+          "a": "Am frühen Abend oder nach Sonnenuntergang, wenn sich die Terrassen abkühlen. Die Mittagshitze im Sommer auf einer Stein- oder Pflasterterrasse ist für einen Hund unangenehm und gefährlich. Bringen Sie Wasser und einen schattigen Platz mit."
+        },
+        {
+          "q": "Welcher Teil der Insel ist am hundefreundlichsten zum Essengehen?",
+          "a": "Die Halbinsel Paliki (rund um Lixouri), Fiskardo und die nördlichen Dörfer sind am entspanntesten. Belebte Urlaubsorte wie Lassi sind strenger und im Juli und August überfüllter."
+        }
       ]
     },
     "parks": {
@@ -193,7 +227,10 @@
           "tipFr": "Allez-y tôt le matin ou vers le coucher du soleil ; c'est plat et en partie ombragé mais très chaud à midi, et les tortues sont plus visibles dans les eaux claires près du pont",
           "tipEs": "Ve temprano por la mañana o cerca del atardecer; es llano y parcialmente sombreado pero muy caluroso al mediodía, y las tortugas se ven mejor en las aguas claras junto al puente",
           "tipPt": "Vá de manhã cedo ou perto do pôr do sol; é plano e parcialmente sombreado, mas muito quente ao meio-dia, e as tartarugas veem-se melhor nas águas claras junto à ponte",
-          "googleMapsUrl": "https://maps.google.com/?q=Koutavos+Lagoon+Argostoli"
+          "googleMapsUrl": "https://maps.google.com/?q=Koutavos+Lagoon+Argostoli",
+          "descriptionDe": "Eine geschützte Küstenlagune am Rande von Argostoli, ein Nahrungsgebiet für Unechte Karettschildkröten, Schwäne, Enten und Zugvögel, umgeben von einem leichten, flachen Wanderweg. Sie verbindet sich mit der rund 700 Meter langen steinernen De-Bosset-Brücke, der längsten steinernen Meeresbrücke der Welt, was eine angenehme autofreie Runde ergibt, die bei lokalen Hundebesitzern beliebt ist.",
+          "offLeashAreaDe": "Keine. Hunde durchgehend anleinen; dies ist ein geschütztes Feuchtgebiet für Schildkröten und Vögel",
+          "tipDe": "Gehen Sie früh morgens oder gegen Sonnenuntergang; die Strecke ist flach und teilweise schattig, aber mittags sehr heiß, und Schildkröten sind im klaren Flachwasser bei der Brücke am besten zu sehen"
         },
         {
           "name": "Katavothres & Agios Theodoros Lighthouse Loop",
@@ -213,7 +250,10 @@
           "tipFr": "Combinez le phare et les gouffres en une boucle côtière depuis le front de mer d'Argostoli et surveillez votre chien près des chenaux d'eau non clôturés",
           "tipEs": "Combina el faro y los sumideros en un circuito costero desde el paseo de Argostoli y vigila a tu perro cerca de los canales de agua sin vallar",
           "tipPt": "Combine o farol e os sumidouros num circuito costeiro a partir da marginal de Argostoli e vigie o seu cão perto dos canais de água sem vedação",
-          "googleMapsUrl": "https://maps.google.com/?q=Katavothres+Argostoli+Kefalonia"
+          "googleMapsUrl": "https://maps.google.com/?q=Katavothres+Argostoli+Kefalonia",
+          "descriptionDe": "Eine malerische Küstenrunde um die Landzunge von Argostoli, die an den Meeresmühlen-Dolinen von Katavothres vorbeiführt, wo Meerwasser unterirdisch verschwindet, sowie am kreisrunden, dorisch gesäumten Leuchtturm Agios Theodoros (Fanari) von 1828. Der Weg wird ausdrücklich als ideal für einen Spaziergang mit der Familie oder dem Hund beschrieben und ist flach sowie leicht zu Fuß von der Uferpromenade Argostolis erreichbar.",
+          "offLeashAreaDe": "Leine empfohlen. Die Route verläuft in der Nähe von Straßen, dem Leuchtturm und unbefestigten Dolinenkanälen",
+          "tipDe": "Kombinieren Sie Leuchtturm und Dolinen in einer Küstenrunde ab der Uferpromenade von Argostoli und achten Sie auf Ihren Hund in der Nähe der unbefestigten Wasserkanäle"
         },
         {
           "name": "Mount Ainos National Park Trails",
@@ -233,7 +273,10 @@
           "tipFr": "Gardez les chiens strictement en laisse près des chevaux sauvages et des zones d'oiseaux, emportez beaucoup d'eau car il n'y a pas de commodités, et notez qu'il fait plus frais et plus venteux en altitude",
           "tipEs": "Mantén a los perros estrictamente con correa cerca de los caballos salvajes y las zonas de aves, lleva mucha agua porque no hay servicios, y ten en cuenta que hace más fresco y viento en altura",
           "tipPt": "Mantenha os cães estritamente com trela perto dos cavalos selvagens e das zonas de aves, leve muita água pois não há instalações, e note que é mais fresco e ventoso em altitude",
-          "googleMapsUrl": "https://maps.google.com/?q=Mount+Ainos+National+Park+Kefalonia"
+          "googleMapsUrl": "https://maps.google.com/?q=Mount+Ainos+National+Park+Kefalonia",
+          "descriptionDe": "Griechenlands Nationalpark schützt die endemische kefalonische Tanne und beherbergt die berühmten halbwilden Ainos-Pferde, Füchse und seltene Vögel; deutlich kühler als an der Küste. Das Umweltzentrum Ainos-Chionistra bietet einen leichten Rundweg von etwa sechs Kilometern, erreichbar über eine asphaltierte Straße, mit Optionen von leichten Spaziergängen bis zu längeren Wanderungen.",
+          "offLeashAreaDe": "Leine wird durchgehend dringend empfohlen. Geschützter endemischer Wald mit frei umherziehenden wilden Ainos-Pferden und brütenden Vögeln",
+          "tipDe": "Halten Sie Hunde in der Nähe der Wildpferde und Vogelgebiete strikt angeleint, bringen Sie ausreichend Wasser mit, da es keine Einrichtungen gibt, und beachten Sie, dass es in der Höhe kühler und windiger ist"
         }
       ],
       "tipsEn": [
@@ -310,6 +353,22 @@
         {
           "q": "Onde posso passear o meu cão perto de Argostoli?",
           "a": "O trilho da lagoa de Koutavos e a ponte De Bosset formam um circuito plano e sombreado mesmo junto à cidade, e o circuito costeiro do farol de Katavothres fica a curta distância da marginal. Ambos se fazem melhor cedo ou tarde no verão."
+        }
+      ],
+      "titleDe": "Hundeparks & Spaziergänge auf Kefalonia",
+      "introDe": "Kefalonia hat keine offiziellen städtischen Hundeparks, bietet aber einige der schönsten Naturspaziergänge des Ionischen Meeres, von der schattigen Lagune von Koutavos am Rande von Argostoli bis zu den Tannenwäldern des Berges Ainos. Halten Sie Hunde in der Nähe geschützter Wildtiere und der wilden Ainos-Pferde angeleint, und gehen Sie früh oder spät spazieren, um der starken Mittagshitze im Sommer zu entgehen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es Hundeparks ohne Leine auf Kefalonia?",
+          "a": "Nein. Es gibt keine eingezäunten Freilaufflächen auf der Insel. Die besten Hundespaziergänge führen durch Naturgebiete wie die Lagune von Koutavos und den Berg Ainos, wo Hunde zum Schutz der Wildtiere angeleint bleiben sollten."
+        },
+        {
+          "q": "Kann ich meinen Hund in den Nationalpark Berg Ainos mitnehmen?",
+          "a": "Hunde dürfen Sie auf den Wanderwegen begleiten, müssen aber strikt angeleint bleiben. Der Park schützt einen endemischen Tannenwald und beherbergt halbwilde Ainos-Pferde sowie brütende Vögel. Bringen Sie Wasser mit, da es keine Einrichtungen gibt."
+        },
+        {
+          "q": "Wo kann ich meinen Hund in der Nähe von Argostoli ausführen?",
+          "a": "Der Rundweg um die Lagune von Koutavos und die De-Bosset-Brücke bilden eine flache, schattige Schleife direkt bei der Stadt, und die Küstenrunde am Leuchtturm von Katavothres ist ein kurzer Spaziergang von der Uferpromenade entfernt. Beide eignen sich im Sommer am besten früh oder spät am Tag."
         }
       ]
     },
@@ -447,6 +506,22 @@
           "q": "Que documentos precisa o meu cão para entrar na Grécia?",
           "a": "Os animais da UE precisam de microchip, de um passaporte europeu válido e de uma vacina antirrábica dada pelo menos 21 dias antes da viagem. O microchip tem de ser implantado antes da vacina antirrábica. Os animais de fora da UE precisam de um certificado sanitário europeu e, por vezes, de um teste de titulação antirrábica."
         }
+      ],
+      "titleDe": "Mit Haustieren unterwegs auf Kefalonia",
+      "introDe": "Die meisten Reisenden erreichen Kefalonia mit der Fähre vom Festland, und die Haustierregeln der Fähre sind das Wichtigste, was Sie planen müssen: kleine Haustiere reisen in einer Transportbox, größere Hunde nutzen die Zwinger des Schiffs, und an Deck müssen Hunde einen Maulkorb tragen und angeleint sein. Auf der Insel selbst ist das Busnetz begrenzt, und die Regeln für Haustiere liegen im Ermessen des Fahrers, weshalb ein Mietwagen mit Abstand die praktischste Art ist, sich mit einem Hund fortzubewegen.",
+      "faqsDe": [
+        {
+          "q": "Kann ich meinen Hund mit auf die Fähre nach Kefalonia nehmen?",
+          "a": "Ja. Bei Levante Ferries reisen Haustiere bis etwa 10 kg in einer Transportbox neben Ihnen, während größere Hunde die Zwinger des Schiffs nutzen. An Deck müssen Hunde einen Maulkorb tragen und angeleint sein, in Innenlounges sind Haustiere nicht erlaubt. Melden Sie Ihr Haustier an und buchen Sie sein Ticket im Voraus."
+        },
+        {
+          "q": "Können Hunde in den KTEL-Bussen auf Kefalonia mitfahren?",
+          "a": "Kleine Hunde in einer Transportbox werden in der Regel akzeptiert. Größere Hunde benötigen eventuell ein zusätzliches Ticket und müssen angeleint sein und einen Maulkorb tragen, je nach Ermessen des Fahrers. Da das Netz dünn und im Sommer überfüllt ist, ist ein Mietwagen meist einfacher."
+        },
+        {
+          "q": "Welche Dokumente benötigt mein Hund für die Einreise nach Griechenland?",
+          "a": "EU-Haustiere benötigen einen Mikrochip, einen gültigen EU-Heimtierausweis und eine Tollwutimpfung, die mindestens 21 Tage vor der Reise verabreicht wurde. Der Mikrochip muss vor der Tollwutimpfung implantiert werden. Nicht-EU-Haustiere benötigen eine EU-Tiergesundheitsbescheinigung und eventuell einen Tollwut-Titertest."
+        }
       ]
     },
     "beaches": {
@@ -529,6 +604,18 @@
           "q": "O meu cão pode nadar no mar em Cefalónia?",
           "a": "Apenas em praias tranquilas não organizadas quando não há outros banhistas, pois a lei grega proíbe os cães de entrar no mar entre os banhistas. Escolha enseadas isoladas, vá cedo ou tarde, e mantenha sempre o seu cão com trela na areia e apanhe os dejetos."
         }
+      ],
+      "titleDe": "Hundefreundliche Strände auf Kefalonia",
+      "introDe": "Das griechische Gesetz verbietet Hunde auf Blue-Flag- und organisierten Liegestuhl-Stränden, sodass Kefalonias berühmte Strände wie Myrtos, Antisamos und Xi im Sommer praktisch tabu sind, und die Insel hat keinen offiziell ausgewiesenen Hundestrand. Die hundefreundliche Option sind die ruhigen, unorganisierten Buchten, wo angeleinte Hunde das ganze Jahr über toleriert werden; auch dort sollten Sie Ihren Hund vom Wasser fernhalten, wenn andere Badegäste anwesend sind, und im Frühling oder Herbst für die meiste Freiheit besuchen.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen Hundestrand auf Kefalonia?",
+          "a": "Es gibt keinen offiziell ausgewiesenen Hundestrand auf der Insel. Hunde sind an Blue-Flag- und organisierten Liegestuhl-Stränden wie Myrtos und Antisamos verboten, werden aber an ruhigen, unorganisierten Buchten wie Kimilia und Paliolinos toleriert, sofern angeleint. Besuchen Sie die Insel im Frühling oder Herbst für die meiste Freiheit."
+        },
+        {
+          "q": "Kann mein Hund im Meer auf Kefalonia schwimmen?",
+          "a": "Nur an ruhigen, unorganisierten Stränden, wenn keine anderen Badegäste anwesend sind, da das griechische Gesetz Hunden das Baden im Meer unter Schwimmern verbietet. Wählen Sie abgelegene Buchten, gehen Sie früh oder spät, und leinen Sie Ihren Hund am Strand stets an und entsorgen Sie seine Hinterlassenschaften."
+        }
       ]
     },
     "vets": {
@@ -575,7 +662,10 @@
           "tipEs": "Guarda el número antes del viaje (+30 26710 38800) y llama con antelación; al ser una clínica de isla pequeña no puede atender urgencias sin aviso previo",
           "tipPt": "Guarde o número antes da viagem (+30 26710 38800) e ligue com antecedência; sendo uma clínica de ilha pequena, não atende urgências sem aviso prévio",
           "googleMapsUrl": "https://maps.google.com/?q=Vet+Clinic+Vavasi+Lassi+Argostoli",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo-Sa 09:15-13:00 Uhr; werktags abends (außer Mi) 18:00-20:00 Uhr",
+          "descriptionDe": "Eine angesehene Kleintierklinik in Argostoli, gelobt für ihre professionellen, hygienischen Einrichtungen und ihre Arbeit mit lokalen Wildtier- und Tierschutzorganisationen. Sie bietet Impfungen, Operationen und Bildgebung an und ist es gewohnt, englischsprachigen Besuchern und ihren Haustieren zu helfen.",
+          "tipDe": "Speichern Sie die Nummer vor Ihrer Reise (+30 26710 38800) und rufen Sie vorher an; als Klinik auf einer kleinen Insel kann sie Notfälle ohne Vorankündigung nicht ohne Weiteres behandeln"
         },
         {
           "name": "Vet Care Niki (Gavrielatou Niki)",
@@ -597,7 +687,10 @@
           "tipEs": "Los números de los veterinarios de la isla cambian; confirma el número actual in situ o pregunta a tu hotel, y llama siempre antes de ir",
           "tipPt": "Os números dos veterinários da ilha mudam; confirme o número atual no local ou pergunte ao seu hotel, e ligue sempre antes de ir",
           "googleMapsUrl": "https://maps.google.com/?q=Vet+Care+Niki+Argostoli",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo-Sa 09:15-13:00 Uhr",
+          "descriptionDe": "Eine Tierarztpraxis in Argostoli in der Nähe des allgemeinen Krankenhauses, in lokalen Verzeichnissen gelistet und von Tierschutzgruppen auf der Insel empfohlen. Sie ist eine praktische zweite Option in der Stadt für Routineversorgung und Reisegesundheitschecks.",
+          "tipDe": "Telefonnummern von Tierärzten auf der Insel ändern sich; bestätigen Sie die aktuelle Nummer vor Ort oder fragen Sie Ihr Hotel, und rufen Sie immer vor der Ankunft an"
         },
         {
           "name": "John Galidis Veterinary Practice",
@@ -619,7 +712,10 @@
           "tipEs": "Si te alojas en el lado de Lixouri, organiza tu visita veterinaria una mañana entre semana, ya que aquí no se cubren tardes ni fines de semana",
           "tipPt": "Se estiver no lado de Lixouri, marque a sua visita ao veterinário numa manhã de dia útil, pois aqui não há cobertura à tarde nem ao fim de semana",
           "googleMapsUrl": "https://maps.google.com/?q=Veterinary+Lixouri+Kefalonia",
-          "photo": ""
+          "photo": "",
+          "hoursDe": "Mo-Fr nur vormittags, 09:00-13:00 Uhr",
+          "descriptionDe": "Die wichtigste Tierarztoption auf der Halbinsel Paliki, nützlich für Besucher, die rund um Lixouri und die westlichen Strände übernachten. Die Praxis hat werktags nur vormittags geöffnet, planen Sie Routineversorgung entsprechend.",
+          "tipDe": "Wenn Sie auf der Lixouri-Seite übernachten, planen Sie Ihren Tierarztbesuch an einem Werktagvormittag ein, da Nachmittage und Wochenenden hier nicht abgedeckt sind"
         }
       ],
       "faqsEn": [
@@ -660,6 +756,18 @@
         {
           "q": "Que documentos precisa o meu animal para entrar na Grécia?",
           "a": "Os animais da UE precisam de um passaporte europeu, de um microchip ISO e de uma vacinação antirrábica dada pelo menos 21 dias antes da viagem, com o microchip implantado primeiro. Os animais de fora da UE precisam de um certificado sanitário europeu e, de países não listados, de um teste de titulação antirrábica."
+        }
+      ],
+      "titleDe": "Notfall-Tierärzte auf Kefalonia, Tierarztpraxen & Tierpflege",
+      "introDe": "Kefalonia ist eine kleine Insel mit allgemeinmedizinischen Tierärzten in Argostoli und Lixouri, die begrenzte Vormittags- und Abendsprechzeiten haben, und es gibt keine 24-Stunden-Notfallklinik. Speichern Sie sich vor der Reise die Mobilnummer eines Tierarztes und rufen Sie immer vorher an, da die Betreuung außerhalb der Sprechzeiten nach Terminvereinbarung erfolgt; die nächsten großen Fachkliniken befinden sich auf dem Festland in Patras.",
+      "faqsDe": [
+        {
+          "q": "Gibt es einen 24-Stunden-Notfalltierarzt auf Kefalonia?",
+          "a": "Nein. Als kleine Insel verfügt Kefalonia nur über allgemeinmedizinische Tierärzte in Argostoli und Lixouri mit begrenzten Vormittags- und Abendsprechzeiten. Speichern Sie sich die Mobilnummer eines Tierarztes, rufen Sie vorher an, und vereinbaren Sie die Betreuung außerhalb der Sprechzeiten nach Termin. Die nächsten großen Fachkliniken befinden sich auf dem Festland in Patras."
+        },
+        {
+          "q": "Welche Dokumente benötigt mein Haustier für die Einreise nach Griechenland?",
+          "a": "EU-Haustiere benötigen einen EU-Heimtierausweis, einen ISO-Mikrochip und eine Tollwutimpfung, die mindestens 21 Tage vor der Reise verabreicht wurde, wobei der Mikrochip zuerst implantiert werden muss. Nicht-EU-Haustiere benötigen eine EU-Tiergesundheitsbescheinigung und, aus nicht gelisteten Ländern, einen Tollwut-Titertest."
         }
       ]
     },
@@ -774,6 +882,22 @@
           "q": "Posso visitar as grutas de Cefalónia com o meu cão?",
           "a": "Não. A gruta de Drogarati não aceita animais, e o passeio de barco na gruta de Melissani é um barco fechado e partilhado onde os cães não são adequados. Planeie as visitas às grutas para quando o seu cão puder descansar num local fresco e com sombra ou com um cuidador."
         }
+      ],
+      "titleDe": "Hundefreundliche Tipps für Kefalonia",
+      "introDe": "Kefalonia belohnt Hundebesitzer, die sich auf die ionische Sommerhitze und die entspannten, aber informellen Regeln der Insel einstellen. Die meisten Schwierigkeiten entstehen durch Strandbeschränkungen und die Fährüberfahrt, nicht durch die Einstellung der Einheimischen, die in den Dörfern herzlich ist.",
+      "faqsDe": [
+        {
+          "q": "Ist Kefalonia gut für Hunde geeignet?",
+          "a": "Kefalonia ist in seinen Dörfern und Tavernen einladend, erfordert aber Planung. Sommerhitze, Fährregeln für Haustiere und Strandbeschränkungen sind die größten Herausforderungen. Reisen Sie im Frühling oder Herbst, wählen Sie Ihr Basislager in der Nähe von Argostoli oder im ruhigen Norden, und Sie werden die Insel als lohnend für einen Hund empfinden."
+        },
+        {
+          "q": "Was sollte ich für Kefalonia mit meinem Hund einpacken?",
+          "a": "Bringen Sie Ihren EU-Heimtierausweis, einen Maulkorb und eine kurze Leine für Fähren und Busse, einen faltbaren Wassernapf, einen tragbaren Sonnenschutz für wilde Strände sowie Pfotenschutz oder die Gewohnheit, den heißen Boden zu testen. Ein Autositzbezug ist nützlich, da ein Mietwagen die einfachste Art ist, sich fortzubewegen."
+        },
+        {
+          "q": "Kann ich die Höhlen Kefalonias mit meinem Hund besuchen?",
+          "a": "Nein. Die Höhle von Drogarati erlaubt keine Haustiere, und die Bootstour in der Höhle von Melissani findet in einem geschlossenen, gemeinsam genutzten Boot statt, wofür Hunde nicht geeignet sind. Planen Sie Höhlenbesuche für Zeiten, in denen Ihr Hund an einem kühlen, schattigen Ort ruhen kann oder bei einem Sitter bleibt."
+        }
       ]
     },
     "attractions": {
@@ -811,7 +935,12 @@
           "tipFr": "Parcourez-le au coucher du soleil pour la meilleure lumière et des températures plus fraîches, et apportez de l'eau car il y a peu d'ombre au milieu du pont",
           "tipEs": "Recórrelo al atardecer para la mejor luz y temperaturas más frescas, y lleva agua porque hay poca sombra en mitad del puente",
           "tipPt": "Percorra-a ao pôr do sol para a melhor luz e temperaturas mais frescas, e leve água pois há pouca sombra a meio da ponte",
-          "googleMapsUrl": "https://maps.google.com/?q=De+Bosset+Bridge+Argostoli"
+          "googleMapsUrl": "https://maps.google.com/?q=De+Bosset+Bridge+Argostoli",
+          "descriptionDe": "Die De-Bosset-Brücke ist die längste steinerne Meeresbrücke der Welt, eine flache, rund 700 Meter lange, nur für Fußgänger zugängliche Überquerung, die zum grünen Naturgebiet der Koutavos-Lagune führt. Die Lagune beherbergt Unechte Karettschildkröten, Enten und Schwäne, mit einem baumgesäumten Uferweg, der die beliebteste lokale Route für Hundespaziergänge ist.",
+          "dogPolicyDe": "Hunde an der Leine willkommen; in der Nähe der Schildkröten und Vögel angeleint halten",
+          "admissionFeeDe": "Kostenlos",
+          "openingHoursDe": "Rund um die Uhr frei zugänglich",
+          "tipDe": "Gehen Sie bei Sonnenuntergang für das beste Licht und kühlere Temperaturen, und bringen Sie Wasser mit, da es in der Mitte der Brücke wenig Schatten gibt"
         },
         {
           "name": "Assos Village & Venetian Castle",
@@ -838,7 +967,12 @@
           "tipFr": "Faites la montée tôt car les sentiers sont exposés sans ombre et deviennent très chauds ; emportez de l'eau pour votre chien et rafraîchissez-vous ensuite aux plages du village",
           "tipEs": "Haz la subida temprano porque los senderos están expuestos sin sombra y se calientan mucho; lleva agua para tu perro y refréscate después en las playas del pueblo",
           "tipPt": "Faça a subida cedo, pois os trilhos são expostos, sem sombra, e ficam muito quentes; leve água para o seu cão e refresque-se depois nas praias da aldeia",
-          "googleMapsUrl": "https://maps.google.com/?q=Assos+Castle+Kefalonia"
+          "googleMapsUrl": "https://maps.google.com/?q=Assos+Castle+Kefalonia",
+          "descriptionDe": "Ein pastellfarbenes Fischerdorf mit rund hundert Einwohnern an einer hufeisenförmigen Bucht, gekrönt von einer venezianischen Festung aus dem 16. Jahrhundert auf der Halbinsel Frourio. Die Burg ist eine im Freien gelegene, kostenlose Ruine, die über Wanderwege im Freien erreichbar ist, sodass ein angeleinter Hund den ganzen Spaziergang mitmachen und den Hafen und die Gassen darunter erkunden kann.",
+          "dogPolicyDe": "Angeleinte Hunde auf den Außenwegen der Burg und im Dorf willkommen",
+          "admissionFeeDe": "Kostenlos",
+          "openingHoursDe": "Burggelände im Allgemeinen täglich ca. 09:00-17:00 Uhr; Dorf frei zugänglich",
+          "tipDe": "Machen Sie den Aufstieg früh, da die Wege ungeschützt und schattenlos sind und sehr heiß werden; nehmen Sie Wasser für Ihren Hund mit und kühlen Sie sich anschließend an den Stränden des Dorfes ab"
         },
         {
           "name": "Fiskardo Harbour Village",
@@ -865,7 +999,12 @@
           "tipFr": "Venez en fin d'après-midi pour l'ambiance du port et empruntez les sentiers côtiers voisins vers les plages d'Emblisi et Foki pour des balades hors village",
           "tipEs": "Visita a última hora de la tarde por el ambiente del puerto y usa los senderos costeros cercanos hacia las playas de Emblisi y Foki para paseos fuera del pueblo",
           "tipPt": "Visite ao fim da tarde pelo ambiente do porto e use os trilhos costeiros próximos em direção às praias de Emblisi e Foki para passeios fora da aldeia",
-          "googleMapsUrl": "https://maps.google.com/?q=Fiskardo+Kefalonia"
+          "googleMapsUrl": "https://maps.google.com/?q=Fiskardo+Kefalonia",
+          "descriptionDe": "Der malerischste Hafen der Insel und das einzige Dorf, das seine ursprüngliche venezianische Architektur bewahrt hat, mit pastellfarbenen Häusern entlang eines Kais voller Tavernen und Yachten. Es bleibt selbst im Sommer relativ entspannt, und die Freiluftpromenade und die umliegenden Küstenwege sind wie geschaffen für einen gemütlichen Spaziergang an der Leine.",
+          "dogPolicyDe": "Angeleinte Hunde rund um den Hafen willkommen; jede Taverne vor dem Platznehmen auf der Terrasse fragen",
+          "admissionFeeDe": "Kostenlos",
+          "openingHoursDe": "Frei zugänglich; Tavernen und Geschäfte am belebtesten am Abend",
+          "tipDe": "Besuchen Sie den Ort am späten Nachmittag für die Hafenatmosphäre und nutzen Sie die nahen Küstenwege in Richtung der Strände Emblisi und Foki für Spaziergänge außerhalb des Dorfes"
         }
       ],
       "tipsEn": [
@@ -911,6 +1050,14 @@
           "q": "Posso visitar as principais atrações de Cefalónia com o meu cão?",
           "a": "As ao ar livre, sim. A marginal de Argostoli, a aldeia e o castelo de Assos e o porto de Fiskardo são dog-friendly com trela. As grutas de Drogarati e Melissani não aceitam animais, por isso planeie-as à parte."
         }
+      ],
+      "titleDe": "Hundefreundliche Sehenswürdigkeiten auf Kefalonia",
+      "introDe": "Kefalonias beste Sehenswürdigkeiten für Hunde sind die im Freien: die Uferpromenade von Argostoli, das venezianische Dorf Assos und der Hafen von Fiskardo lassen sich alle problemlos an der Leine erkunden. Die Höhlen der Insel sind für Haustiere tabu, gestalten Sie Ihre Hundetage daher stattdessen um Dörfer, Aussichtspunkte und Küstenwanderungen herum.",
+      "faqsDe": [
+        {
+          "q": "Kann ich Kefalonias wichtigste Sehenswürdigkeiten mit meinem Hund besuchen?",
+          "a": "Die im Freien gelegenen, ja. Die Uferpromenade von Argostoli, das Dorf und die Burg von Assos sowie der Hafen von Fiskardo sind alle an der Leine hundefreundlich. Die Höhlen von Drogarati und Melissani erlauben keine Haustiere, planen Sie diese also gesondert."
+        }
       ]
     },
     "petsitting": {
@@ -942,7 +1089,10 @@
           "tip": "Search Kefalonia or Argostoli directly in the app weeks ahead and message several sitters, as island availability is not guaranteed",
           "tipFr": "Cherchez Céphalonie ou Argostoli directement dans l'application des semaines à l'avance et contactez plusieurs gardiens, car la disponibilité sur l'île n'est pas garantie",
           "tipEs": "Busca Cefalonia o Argostoli directamente en la app con semanas de antelación y contacta a varios cuidadores, ya que la disponibilidad en la isla no está garantizada",
-          "tipPt": "Procure Cefalónia ou Argostoli diretamente na aplicação com semanas de antecedência e contacte vários cuidadores, pois a disponibilidade na ilha não é garantida"
+          "tipPt": "Procure Cefalónia ou Argostoli diretamente na aplicação com semanas de antecedência e contacte vários cuidadores, pois a disponibilidade na ilha não é garantida",
+          "descriptionDe": "Eine große internationale Gemeinschaft geprüfter lokaler Haustiersitter, die in ganz Griechenland tätig ist und Betreuung zu Hause, Hundetagesstätte, Gassi-Service und Kurzbesuche anbietet. Sitter werden bewertet, und Buchungen erfolgen über die App, doch das Angebot auf einer kleinen Insel wie Kefalonia ist begrenzt, weshalb frühzeitiger Kontakt wichtig ist.",
+          "serviceTypeDe": "Buchung über App. Boarding, Tagesstätte, Gassi-Service, Kurzbesuche",
+          "tipDe": "Suchen Sie Wochen im Voraus direkt in der App nach Kefalonia oder Argostoli und kontaktieren Sie mehrere Sitter, da die Verfügbarkeit auf der Insel nicht garantiert ist"
         },
         {
           "name": "PetBacker Greece",
@@ -963,7 +1113,10 @@
           "tip": "Because Kefalonia may show no ready listings, use the Post a Request feature rather than expecting providers to appear, and post early",
           "tipFr": "Comme Céphalonie peut n'afficher aucune annonce, utilisez la fonction Publier une demande plutôt que d'attendre que des prestataires apparaissent, et publiez tôt",
           "tipEs": "Como Cefalonia puede no mostrar anuncios, usa la función Publicar una solicitud en lugar de esperar a que aparezcan proveedores, y publica pronto",
-          "tipPt": "Como Cefalónia pode não mostrar anúncios, use a função Publicar um Pedido em vez de esperar que apareçam prestadores, e publique cedo"
+          "tipPt": "Como Cefalónia pode não mostrar anúncios, use a função Publicar um Pedido em vez de esperar que apareçam prestadores, e publique cedo",
+          "descriptionDe": "Ein multinationaler Marktplatz für Tierbetreuung, der in Griechenland aktiv ist und nach dem Anfrage-und-Angebot-Modell funktioniert: Sie veröffentlichen Ihre Termine und Bedürfnisse, und lokale Anbieter antworten mit Angeboten für Boarding, Betreuung, Gassi-Service oder Tiertaxi. Er beinhaltet Versicherungs- und Zahlungsschutz, was beruhigend ist, wenn noch kein gelisteter Sitter für Kefalonia erscheint.",
+          "serviceTypeDe": "Marktplatz mit Anfragefunktion. Boarding, Betreuung, Gassi-Service, Tiertaxi, Fellpflege",
+          "tipDe": "Da für Kefalonia möglicherweise keine fertigen Angebote angezeigt werden, nutzen Sie die Funktion „Anfrage veröffentlichen“, anstatt zu erwarten, dass Anbieter von selbst erscheinen, und veröffentlichen Sie frühzeitig"
         }
       ],
       "tipsEn": [
@@ -1009,6 +1162,15 @@
           "q": "Como encontro um cuidador de cães em Cefalónia?",
           "a": "Use uma plataforma internacional como a Pawshake ou a PetBacker e procure ou publique um pedido para Argostoli com bastante antecedência, pois a ilha tem poucos cuidadores listados. Se não aparecer nada, o seu veterinário local em Argostoli é a melhor fonte para uma recomendação de confiança."
         }
+      ],
+      "titleDe": "Hundesitter & Tierbetreuung auf Kefalonia",
+      "introDe": "Kefalonia hat keine spezialisierte Hundetagesstätte oder Boarding-Kette, daher bedeutet Haustierbetreuung hier, über eine internationale Plattform einen einzelnen lokalen Sitter zu buchen, und das Angebot auf der Insel ist dünn. Suchen und kontaktieren Sie Sitter weit im Voraus Ihrer Reise, und fragen Sie Ihren Tierarzt in Argostoli nach lokalen Empfehlungen, falls die Apps nichts finden.",
+      "faqsDe": [
+        {
+          "q": "Wie finde ich einen Hundesitter auf Kefalonia?",
+          "a": "Nutzen Sie eine internationale Plattform wie Pawshake oder PetBacker und suchen oder veröffentlichen Sie eine Anfrage für Argostoli weit im Voraus, da die Insel nur wenige gelistete Sitter hat. Wenn nichts erscheint, ist Ihr Tierarzt vor Ort in Argostoli die beste Quelle für eine vertrauenswürdige Empfehlung."
+        }
       ]
     }
-  }}
+  }
+}

@@ -137,3 +137,34 @@ untranslated city-guide sections (scripts/i18n-de/extract.mjs), translates ~15
 batches via parallel Sonnet sub-agents, merges (scripts/i18n-de/merge.mjs), builds,
 and commits to feat/de-locale (no push). Idempotent; ~158 batches left (~1 week).
 Runs only while the app is open (else on next launch). Manage in the Scheduled sidebar.
+
+## WAVE guide-pages (2026-08-09) — état de reprise
+Build VERT + committé (commit "wave 1 + flat-field picks wiring"). Reste = agents (rate-limited jusqu'au prochain 03:10 Europe/Paris).
+
+DONE (de complet, natif): animal-health-certificate, autumn-destinations, best-dog-beaches,
+brittany-road-trip (stops+drive.de), christmas-markets (picks), cool-portugal (picks),
+cool-summer (picks+meta), dog-beaches-france (20 reason objs), escape-heat, eurostar,
+fenced-dog-parks. (COPY+metadata+type Locale élargi + accessors de).
+
+DONE COPY mais PICKS incomplets (de optional + fallback EN, à finir en natif):
+- baltic-coast-dog-summer-2026 : ~1 pick whyDe/hotelDe manquant
+- dog-friendly-anti-overtourism-europe : ~2 picks manquants
+- dog-friendly-summer-escape-alps : ~5 picks manquants
+- cool-august-dog-europe : ~7 picks manquants + COPY.de en ASCII (ae/oe/ue/ss) -> RÉÉCRIRE avec vrais umlauts ä/ö/ü/ß
+  Pattern à finir: ajouter whyDe/hotelDe (proper umlauts, Sie) à chaque PICKS entry; le type est déjà `whyDe?/hotelDe?` optional; accessor a déjà la branche `locale==='de' ? p.whyDe ?? p.whyEn`.
+
+TODO wave 2 (14 pages EN evergreen, aucun de encore): heatwave-pet-safety, high-energy-dog-destinations-europe,
+honeymoon-with-pet, hotel-pet-friendly, pet-friendly-hotels-europe-guide, pet-travel-cost-index-europe-2026,
+spa-towns-dog-europe, summer-festivals-dog-europe-2026, top-dog-friendly-cities-europe,
+top-dog-friendly-islands-europe, travel-with-cat-europe, water-loving-dog-destinations-europe,
+wine-tourism-with-dog, winter-destinations-with-dog-2026.
+  + passe flat-field (PICKS whyDe/hotelDe + accessors + metadata dispatcher) sur celles qui en ont.
+
+TODO wave 3 (17 pages FR-slug, l'utilisateur veut le de aussi): allemagne/autriche/espagne/france/italie/portugal-fraiche-chien,
+alpes-chien, cote-dazur-chien, cote-mediterraneenne-chien, iberique-chien, pays-basque-chien, provence-chien,
+city-trip-chien, road-trip-chien, passeport-animal, avion-animal, train-avec-chien.
+  (dog-friendly-europe-by-month = redirect, vérifier ses sous-pages [month]/page.tsx.)
+
+Prompt agent = "add de block mirroring en to every en/fr/es/pt object (label map + COPY) + de branch to every
+accessor/dispatcher + whyDe/hotelDe on PICKS + widen type Locale/Pick; native Sie; PROPER UMLAUTS; zero em-dash;
+backticks for apostrophes; tsc -p . to verify". Build après chaque wave.

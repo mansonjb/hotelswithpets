@@ -12,6 +12,7 @@ const STAY_TITLES_EUROSTAR: Record<string, string> = {
   fr: `Où dormir : hôtels pet-friendly sur chaque itinéraire Eurostar`,
   es: `Dónde dormir: hoteles pet-friendly en cada ruta Eurostar`,
   pt: `Onde dormir: hotéis pet-friendly em cada rota Eurostar`,
+  de: 'Übernachten: haustierfreundliche Hotels an jeder Eurostar-Strecke',
 }
 
 const STICKY_LABELS_EUROSTAR: Record<string, { label: string; cta: string }> = {
@@ -19,6 +20,7 @@ const STICKY_LABELS_EUROSTAR: Record<string, { label: string; cta: string }> = {
   fr: { label: `Hôtels pet-friendly à Londres et Paris`, cta: 'Voir les hôtels' },
   es: { label: 'Hoteles pet-friendly en Londres y París', cta: 'Ver hoteles' },
   pt: { label: 'Hotéis pet-friendly em Londres e Paris', cta: 'Ver hotéis' },
+  de: { label: 'Haustierfreundliche Hotels in London und Paris', cta: 'Hotels ansehen' },
 }
 
 const SLUG = 'eurostar-with-dog'
@@ -328,6 +330,68 @@ const COPY: Record<string, Copy> = {
     ctaButton: 'Ver hotéis pet-friendly →',
     ctaHref: '/pt/destinations',
     relatedTitle: 'Guías prácticas relacionadas',
+  },
+  de: {
+    hero: {
+      kicker: 'FRAGEN & ANTWORTEN HAUSTIERREISEN · AKTUALISIERT 2026',
+      h1: 'Kann ich meinen Hund mit dem Eurostar mitnehmen?',
+      tldr: 'Kurz gesagt: Nein, der Eurostar akzeptiert nur registrierte Assistenzhunde. Haustierhunde und -katzen sind in keiner Klasse erlaubt, auch nicht in Premier und Business Premier. Die gute Nachricht: Es gibt drei zuverlässige, hundefreundliche Alternativen zwischen London und dem europäischen Festland, und wir erklären Ihnen jede davon.',
+    },
+    sections: [
+      { id: 'why', h2: 'Warum erlaubt der Eurostar keine Haustiere?', paras: [
+        'Die Einschränkung ist eine Sicherheits- und Hygienevorschrift des Kanaltunnels, keine unternehmerische Entscheidung. Gemäß dem bilateralen Abkommen, das den Kanaltunnel regelt, dürfen nur registrierte Assistenzhunde und Tiere, die über den Fahrzeugservice von Eurotunnel (Le Shuttle) transportiert werden, mit dem Personenzug die Strecke überqueren.',
+        'Diese Regel gilt seit der Eröffnung des Tunnels 1994 und wurde bei keinem der Eigentümerwechsel des Eurostar geändert. Der Brexit hat daran nichts geändert, und auch der bevorstehende offene Wettbewerb durch neue Bahnbetreiber im Ärmelkanalverkehr wird nichts ändern, denn die Einschränkung ergibt sich aus der Tunnelkonzession selbst.',
+        'Das Eurostar-Personal kann selbst für emotionale Unterstützungstiere keine Ausnahmen gewähren, das britische und EU-Eisenbahnrecht behandelt sie als Haustiere, nicht als Assistenztiere. Nur zertifizierte Assistenzhunde (Blindenführhunde, Hörhunde, medizinische Warnhunde), die bei einer Mitgliedsorganisation von Assistance Dogs International registriert sind, dürfen mitreisen.',
+      ] },
+      { id: 'shuttle', h2: 'Alternative Nr. 1, Le Shuttle (Kanaltunnel mit dem Auto)', paras: [
+        'Le Shuttle (betrieben von Eurotunnel/Getlink) ist die beliebteste und zuverlässigste Option für Reisende mit Haustieren. Sie fahren mit Ihrem Auto direkt auf einen Zugwaggon, und Ihr Haustier bleibt während der 35-minütigen Tunneldurchquerung bei Ihnen im Fahrzeug, kein Frachtraum, keine Trennung, kein Stress.',
+        'Der Haustierzuschlag beträgt 22 £ / 27 € pro Tier und Strecke. Es gibt keine Größen- oder Rassebeschränkung (verbotene gefährliche Rassen nach britischem Recht dürfen jedoch generell nicht ins Vereinigte Königreich einreisen). Bis zu 5 Tiere pro Fahrzeug. Die Buchung erfolgt im regulären Le-Shuttle-Buchungsschritt.',
+        'Praktischer Tipp: Haustiere müssen während der Überfahrt im Fahrzeug bleiben. Sie bleiben bei ihnen. An den Terminals Folkestone und Calais gibt es einen ausgewiesenen Hundeauslauf, nutzen Sie ihn vor und nach der Überfahrt für die Notdurft.',
+      ] },
+      { id: 'ferries', h2: 'Alternative Nr. 2, Fähren über den Ärmelkanal (Dover-Calais, Portsmouth-Caen usw.)', paras: [
+        'P&O Ferries, DFDS und Brittany Ferries betreiben die wichtigsten Autofährrouten zwischen dem Vereinigten Königreich und Frankreich/Spanien/den Niederlanden. Haustiere sind auf jeder Route erlaubt, meist für 20-40 £ pro Strecke (der Preis variiert je nach Anbieter und Route).',
+        'Die meisten Fähren verlangen, dass Haustiere während der Überfahrt auf den Autodecks im Fahrzeug bleiben, Besitzer schauen in der Regel während der Überfahrt nach ihnen (Durchsagen geben an, wann das erlaubt ist). Auf längeren Nachtrouten (Portsmouth-Bilbao, Hull-Rotterdam) bieten manche Schiffe „haustierfreundliche Kabinen" mit direktem Zugang an, buchen Sie diese frühzeitig.',
+        'Wenn Sie als Fußpassagier ohne Auto reisen, akzeptieren nur bestimmte Routen Haustiere: Brittany Ferries Plymouth-Roscoff erlaubt Fußpassagiere mit Haustieren in einem eigenen Zwingerbereich. Die meisten anderen Linien verlangen ein Fahrzeug.',
+      ] },
+      { id: 'flights', h2: 'Alternative Nr. 3, Kurzflüge (London-Paris, London-Brüssel, London-Amsterdam)', paras: [
+        'British Airways, Air France und KLM erlauben Hunde in der Kabine (unter 8 kg in der Transportbox) auf Strecken von und nach London City und Heathrow. Größere Hunde reisen als IATA-konforme Fracht (klimatisierter Frachtraum).',
+        'Kabinengebühr: in der Regel 100-150 £ pro Tier und Strecke. Frachtraum: 300-500 £ pro Strecke für mittelgroße Hunde, mehr für große Rassen. Brachyzephale Rassen (Bulldoggen, Möpse, Perserkatzen) sind bei den meisten Fluggesellschaften auf Sommerstrecken und Strecken mit kurzen Zwischenstopps verboten.',
+        'In der Praxis sind Flüge langsamer als Le Shuttle, wenn man 2 Stunden für Check-in, Sicherheitskontrolle, Einreise und Gepäckausgabe einrechnet. Der Tunnel ist auf der Strecke London-Paris/Brüssel/Amsterdam von Tür zu Tür schneller und für den Hund deutlich weniger stressig.',
+      ] },
+      { id: 'recommendation', h2: 'Unsere praktische Empfehlung', paras: [
+        'Für 95 % der Reisenden zwischen dem Vereinigten Königreich und dem europäischen Festland ist Le Shuttle die richtige Wahl: günstigster Haustierzuschlag, schnellste Überfahrt, der Hund bleibt die ganze Zeit bei Ihnen, keine Trennung. Buchen Sie eine Tagesüberfahrt und seien Sie 30 Minuten vor Abfahrt am Terminal.',
+        'Fähren sind eine sinnvolle Alternative, wenn Sie nicht bis Folkestone fahren möchten (zum Beispiel aus Yorkshire, Schottland oder Wales) oder wenn Sie die Reise mit einer Fähre nach Spanien oder in die Niederlande verlängern möchten, statt durch Frankreich zu fahren.',
+        'Flüge sind nur für sehr kleine Hunde in der Kabine auf Langstrecken (London-Madrid, London-Rom) sinnvoll, bei denen Le Shuttle zwei Tage Fahrt bedeuten würde. Für alles, was in Reichweite von Le Shuttle liegt, gewinnt der Tunnel in jeder Hinsicht.',
+      ] },
+    ],
+    table: {
+      caption: 'Optionen über den Ärmelkanal für Reisen mit Hund (Preise 2026)',
+      head: ['Option', 'Haustiergebühr (pro Strecke)', 'Überfahrtzeit', 'Hund bei Ihnen?', 'Größenlimit', 'Buchungsvorlauf'],
+      rows: [
+        ['Le Shuttle (Kanaltunnel)', '22 £ / 27 €', '35 Min.', 'Ja, im Auto', 'Keines (vorbehaltlich UK BSL)', '24 Std.'],
+        ['P&O Dover-Calais', '24 £', '90 Min.', 'Im Fahrzeug (Autodecks geschlossen)', 'Keines', '48 Std.'],
+        ['DFDS Dover-Dünkirchen', '20 £', '2 Std.', 'Im Fahrzeug', 'Keines', '48 Std.'],
+        ['Brittany Ferries Portsmouth-Caen', '35 £', '6 Std.', 'Im Fahrzeug oder Haustierkabine', 'Keines', '7 Tage'],
+        ['British Airways Kabine (<8 kg)', '150 £', '1 Std. Flug + 4 Std. Transit', 'In der Box unter dem Sitz', '8 kg inkl. Box', '7 Tage'],
+        ['British Airways Fracht (>8 kg)', '350 £+', '1 Std. Flug + 5 Std. Transit', 'Im Frachtraum (klimatisiert)', 'Keine Obergrenze', '14 Tage'],
+        ['Eurostar', ',', ',', 'NICHT ERLAUBT', 'Nur Assistenzhunde', ','],
+      ],
+    },
+    faqTitle: 'Häufig gestellte Fragen',
+    faqs: [
+      { q: 'Sind emotionale Unterstützungstiere im Eurostar erlaubt?', a: 'Nein. Der Eurostar folgt dem britischen und EU-Eisenbahnrecht, das emotionale Unterstützungstiere als Haustiere einstuft, nicht als Assistenztiere. Nur zertifizierte Assistenzhunde (Blindenführ-, Hör- oder medizinische Warnhunde) sind erlaubt, und die Zertifizierung muss von einer Mitgliedsorganisation von Assistance Dogs International stammen.' },
+      { q: 'Wie sieht es mit den Eurostar-Snap-Tickets (günstige Last-Minute-Tickets) aus?', a: 'In allen Klassen gelten dieselben Regeln, Standard, Standard Premier, Business Premier und Snap. Keine Eurostar-Klasse akzeptiert Haustiere.' },
+      { q: 'Kann ich einen kleinen Hund in einer Transportbox als Handgepäck mitnehmen?', a: 'Nein. Der Eurostar erlaubt Hunde oder Katzen als Haustiere selbst in geschlossenen Transportboxen nicht. Auch Hamster, Kaninchen und andere Kleinsäuger sind nicht erlaubt, es sei denn, sie sind registrierte Assistenztiere.' },
+      { q: 'Wird sich die Regel für Haustierreisen zwischen London und Paris in Zukunft ändern?', a: 'Kurzfristig unwahrscheinlich. Die Regel wird durch die Kanaltunnelkonzession festgelegt, nicht durch den Eurostar. Neue Bahnbetreiber, die ab 2026-2027 erwartet werden (Evolyn, FS), unterliegen derselben Einschränkung. Haustierreisen mit dem Personenzug durch den Tunnel würden eine Neuverhandlung der Konzession erfordern.' },
+      { q: 'Wie lange dauert Le Shuttle, sind es wirklich 35 Minuten?', a: 'Ja, die eigentliche Zugüberfahrt dauert 35 Minuten ab Abfahrt des Zuges. Rechnen Sie 30-45 Minuten am britischen Terminal für Einchecken und Sicherheitskontrolle hinzu, ähnlich auf der französischen Seite. Das gesamte Terminal-zu-Terminal-Erlebnis dauert etwa 90 Minuten.' },
+      { q: 'Brauche ich für meinen Hund bei Le Shuttle irgendwelche Unterlagen?', a: 'Ja. Für die Einreise ins Vereinigte Königreich aus der EU ist eine Tiergesundheitsbescheinigung (AHC, 10 Tage gültig) erforderlich, zusätzlich zu einer verpflichtenden Bandwurmbehandlung durch einen Tierarzt zwischen 24 Stunden und 5 Tagen vor der Ankunft im Vereinigten Königreich. Für die Einreise in die EU aus dem Vereinigten Königreich ist ein EU-Heimtierausweis oder eine EU-AHC erforderlich, zusätzlich zu einer mindestens 21 Tage gültigen Tollwutimpfung.' },
+      { q: 'Kann ich von London nach Amsterdam mit meinem Hund reisen, ohne selbst zu fahren?', a: 'Ja, nehmen Sie die Fähre über den Ärmelkanal nach Hoek van Holland (Stena Line, Harwich-Hoek van Holland, 7 Std. über Nacht) und fahren Sie mit den niederländischen Eisenbahnen (NS) weiter, die angeleinte Hunde für 3,20 € pro Tag akzeptieren. Oder fliegen Sie mit KLM in der Kabine oder als Fracht. Es gibt keine direkte Bahnoption mit Haustieren.' },
+    ],
+    ctaTitle: 'Planen Sie eine Reise von London nach Europa mit Ihrem Hund?',
+    ctaDesc: 'Entdecken Sie unsere haustierfreundlichen Hotels in Paris, Brüssel, Amsterdam und Berlin, alle von London aus mit Le Shuttle in unter 8 Stunden Fahrzeit erreichbar.',
+    ctaButton: 'Haustierfreundliche Hotels ansehen →',
+    ctaHref: '/de/destinations',
+    relatedTitle: 'Verwandte praktische Guides',
   },
 }
 

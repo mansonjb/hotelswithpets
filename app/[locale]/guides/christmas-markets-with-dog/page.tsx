@@ -14,6 +14,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   fr: { label: `Hôtels pet-friendly pour les marchés de Noël`, cta: 'Voir les hôtels' },
   es: { label: 'Hoteles pet-friendly para mercados navideños', cta: 'Ver hoteles' },
   pt: { label: 'Hotéis pet-friendly para mercados de Natal', cta: 'Ver hotéis' },
+  de: { label: 'Haustierfreundliche Hotels für Weihnachtsmärkte', cta: 'Hotels ansehen' },
 }
 
 export async function generateStaticParams() {
@@ -33,12 +34,14 @@ export async function generateMetadata({
     fr: `Marchés de Noël dog-friendly en Europe : 6 villes où les animaux sont bienvenus (2026)`,
     es: `Mercados navideños dog-friendly en Europa: 6 ciudades que admiten mascotas (2026)`,
     pt: `Mercados de Natal dog-friendly na Europa: 6 cidades que aceitam animais (2026)`,
+    de: `Hundefreundliche Weihnachtsmärkte in Europa: 6 Städte, die Haustiere willkommen heißen (2026)`,
   }
   const descriptions: Record<string, string> = {
     en: `Six European cities where Christmas markets genuinely welcome leashed dogs and the cold weather is your ally. Strasbourg, Vienna, Cologne, Prague, Bruges and Colmar with verified pet-friendly hotels and wooden stall etiquette.`,
     fr: `Six villes européennes où les marchés de Noël accueillent vraiment les chiens en laisse et où le froid est votre allié. Strasbourg, Vienne, Cologne, Prague, Bruges et Colmar avec hôtels pet-friendly vérifiés et étiquette des chalets en bois.`,
     es: `Seis ciudades europeas donde los mercados navideños realmente admiten perros con correa y donde el frío es tu aliado. Estrasburgo, Viena, Colonia, Praga, Brujas y Colmar con hoteles pet-friendly verificados.`,
     pt: `Seis cidades europeias onde os mercados de Natal aceitam realmente cães à trela e onde o frio é o seu aliado. Estrasburgo, Viena, Colónia, Praga, Bruges e Colmar com hotéis pet-friendly verificados.`,
+    de: `Sechs europäische Städte, in denen Weihnachtsmärkte angeleinte Hunde wirklich willkommen heißen und das kalte Wetter Ihr Verbündeter ist. Straßburg, Wien, Köln, Prag, Brügge und Colmar mit geprüften haustierfreundlichen Hotels und Etikette für die Holzbuden.`,
   }
   return {
     title: titles[locale] ?? titles.en,
@@ -74,11 +77,13 @@ type Pick = {
   whyFr: string
   whyEs: string
   whyPt: string
+  whyDe: string
   hotelName: string
   hotelEn: string
   hotelFr: string
   hotelEs: string
   hotelPt: string
+  hotelDe: string
 }
 
 const PICKS: Pick[] = [
@@ -92,11 +97,13 @@ const PICKS: Pick[] = [
     whyFr: `Le Christkindelsmärik depuis 1570 - le plus ancien marché de Noël encore en activité en France. Le marché s'étend sur 12 places dans la Grande Île UNESCO, toutes pavées et praticables en laisse. Le parvis de la cathédrale (Place de la Cathédrale) est la photo iconique à 4 secondes à pied du quartier de la Petite France. Les trams acceptent les chiens en laisse gratuits.`,
     whyEs: `El Christkindelsmärik desde 1570 - el mercado navideño más antiguo aún en activo de Francia. El mercado se extiende por 12 plazas en la Grande Île UNESCO, todas adoquinadas y recorribles con perro con correa. La plaza de la catedral (Place de la Cathédrale) es la foto icónica a 4 segundos a pie del barrio de la Petite France. Los tranvías admiten perros con correa gratis.`,
     whyPt: `O Christkindelsmärik desde 1570 - o mercado de Natal mais antigo ainda em atividade em França. O mercado estende-se por 12 praças na Grande Île UNESCO, todas calcetadas e percorríveis com cão à trela. O adro da catedral (Place de la Cathédrale) é a foto icónica a 4 segundos a pé do bairro da Petite France. Os elétricos aceitam cães à trela gratuitamente.`,
+    whyDe: `Der Christkindelsmärik seit 1570, der älteste noch bestehende Weihnachtsmarkt Frankreichs. Der Markt erstreckt sich über 12 Plätze in der UNESCO-Grande Île, alle gepflastert und mit einem angeleinten Hund gut begehbar. Der Kathedralenplatz (Place de la Cathédrale) ist das ikonische Fotomotiv, nur 4 Gehminuten vom Viertel Petite France entfernt. Straßenbahnen nehmen angeleinte Hunde kostenlos mit.`,
     hotelName: `Hôtel Régent Petite France`,
     hotelEn: `4-star inside a converted 18th-century ice factory on the Ill river in Petite France. Pets up to 10 kg welcomed (small fee), the riverside rooms have the postcard half-timbered houses view, 5-min walk to the Christkindelsmärik.`,
     hotelFr: `4 étoiles dans une ancienne glacière du XVIIIᵉ sur l'Ill dans la Petite France. Chiens jusqu'à 10 kg acceptés (petit supplément), les chambres côté rivière ont la vue carte postale sur les maisons à colombages, 5 min à pied du Christkindelsmärik.`,
     hotelEs: `4 estrellas en una antigua fábrica de hielo del siglo XVIII junto al Ill en la Petite France. Perros hasta 10 kg admitidos (pequeño suplemento), las habitaciones lado río tienen la vista postal sobre las casas con entramado, 5 min andando al Christkindelsmärik.`,
     hotelPt: `4 estrelas numa antiga fábrica de gelo do século XVIII junto ao Ill na Petite France. Cães até 10 kg aceites (pequena taxa), os quartos lado rio têm a vista postal sobre as casas em tabique, 5 min a pé do Christkindelsmärik.`,
+    hotelDe: `4 Sterne in einer umgebauten Eisfabrik aus dem 18. Jahrhundert am Fluss Ill in Petite France. Haustiere bis 10 kg willkommen (kleine Gebühr), die Zimmer zum Fluss bieten den Postkartenblick auf die Fachwerkhäuser, 5 Gehminuten zum Christkindelsmärik.`,
   },
   {
     slug: 'vienna',
@@ -108,11 +115,13 @@ const PICKS: Pick[] = [
     whyFr: `Vienne tient 20+ marchés de Noël simultanément, le central Rathausplatz est le grand mais les plus petits marchés à Schönbrunn, Belvédère et Spittelberg sont bien plus dog-friendly et intimes. Les trams et le U-Bahn acceptent les chiens en laisse gratuits (muselière si grand selon les règles de la Wiener Linien). Le froid viennois de décembre (max moyen 3°C) convient aux races à double poil et chiens âgés qui détestent la chaleur estivale.`,
     whyEs: `Viena celebra 20+ mercados navideños simultáneamente, el central Rathausplatz es el gigante pero los mercados más pequeños en Schönbrunn, Belvedere y Spittelberg son mucho más dog-friendly e íntimos. Tranvías y U-Bahn admiten perros con correa gratis (bozal si son grandes según reglas Wiener Linien). El frío vienés de diciembre (máx media 3°C) conviene a razas de doble pelo y perros mayores que odian el calor estival.`,
     whyPt: `Viena tem 20+ mercados de Natal em simultâneo, o central Rathausplatz é o gigante mas os mercados menores em Schönbrunn, Belvedere e Spittelberg são muito mais dog-friendly e íntimos. Elétricos e U-Bahn aceitam cães à trela gratuitamente (açaime se forem grandes segundo regras Wiener Linien). O frio vienense de dezembro (máx média 3°C) convém a raças de pelo duplo e cães idosos que odeiam o calor estival.`,
+    whyDe: `Wien veranstaltet über 20 Weihnachtsmärkte gleichzeitig, der zentrale Rathausplatz ist der große, aber die kleineren Märkte bei Schloss Schönbrunn, im Belvedere und am Spittelberg sind deutlich hundefreundlicher und intimer. Straßenbahnen und die U-Bahn nehmen angeleinte Hunde kostenlos mit (Maulkorbpflicht bei großen Hunden laut Wiener Linien). Der kalte Wiener Dezember (Höchsttemperatur im Schnitt 3 °C) passt zu doppelhaarigen Rassen und älteren Hunden, die die Sommerhitze hassen.`,
     hotelName: 'Hotel Sacher Wien',
     hotelEn: `5-star palace opposite the State Opera, with the original Sacher-Torte café on site. Pets welcomed at modest fee, dog bed and bowl provided, the Albertinaplatz Christmas market is a 1-min walk and the Rathausplatz market is 10 min via tram 1 or 71.`,
     hotelFr: `Palace 5 étoiles face à l'Opéra d'État, avec le café Sacher-Torte original sur place. Chiens acceptés (supplément modéré), panier et gamelle fournis, le marché de l'Albertinaplatz est à 1 min à pied et le Rathausplatz à 10 min en tram 1 ou 71.`,
     hotelEs: `Palacio 5 estrellas frente a la Ópera Estatal, con el café Sacher-Torte original in situ. Perros admitidos (suplemento moderado), cama y comedero, el mercado de la Albertinaplatz a 1 min andando y el Rathausplatz a 10 min en tranvía 1 o 71.`,
     hotelPt: `Palace 5 estrelas em frente à Ópera Estatal, com o café Sacher-Torte original no local. Cães aceites (taxa moderada), cama e tigela, o mercado da Albertinaplatz a 1 min a pé e o Rathausplatz a 10 min de elétrico 1 ou 71.`,
+    hotelDe: `5-Sterne-Palace gegenüber der Staatsoper, mit dem original Sacher-Torte-Café im Haus. Haustiere gegen moderate Gebühr willkommen, Hundebett und Napf werden gestellt, der Weihnachtsmarkt am Albertinaplatz ist 1 Gehminute entfernt und der Rathausplatz-Markt 10 Minuten mit der Straßenbahn 1 oder 71.`,
   },
   {
     slug: 'cologne',
@@ -124,11 +133,13 @@ const PICKS: Pick[] = [
     whyFr: `Sept marchés de Noël distincts à travers la ville, tous faisables en un long après-midi : le marché de la cathédrale au pied du Dom (l'iconique), le marché de l'Alter Markt avec l'Hôtel de Ville médiéval, le Heinzels Wintermärchen sur l'Alter Markt (thème lutins, favori canin), et le marché flottant sur le bateau MS RheinFantasie. Le supplément animaux de Cologne est parmi les plus bas d'Allemagne. Les trams et bus KVB acceptent les chiens en laisse gratuits.`,
     whyEs: `Siete mercados navideños distintos por la ciudad, todos recorribles en una tarde larga: el mercado de la catedral al pie del Dom (el icónico), el mercado del Alter Markt con el Ayuntamiento medieval, el Heinzels Wintermärchen en el Alter Markt (temática duendes, favorito canino), y el mercado flotante en el barco MS RheinFantasie. El suplemento canino de Colonia está entre los más bajos de Alemania. Tranvías y buses KVB admiten perros con correa gratis.`,
     whyPt: `Sete mercados de Natal distintos pela cidade, todos percorríveis numa longa tarde: o mercado da catedral aos pés do Dom (o icónico), o mercado do Alter Markt com a Câmara medieval, o Heinzels Wintermärchen no Alter Markt (tema duendes, favorito canino), e o mercado flutuante no barco MS RheinFantasie. A taxa canina de Colónia está entre as mais baixas da Alemanha. Elétricos e autocarros KVB aceitam cães à trela gratuitamente.`,
+    whyDe: `Sieben eigenständige Weihnachtsmärkte in der ganzen Stadt, alle an einem langen Nachmittag zu Fuß erreichbar: der Marktplatz am Fuße des Doms (der ikonische), der Alter Markt mit dem mittelalterlichen Rathaus, der Heinzels Wintermärchen auf dem Alter Markt (Wichtel-Thema, Hunde-Liebling), und der schwimmende Markt auf dem Schiff MS RheinFantasie. Die Hundegebühr in Köln zählt zu den niedrigsten Deutschlands. KVB-Straßenbahnen und -Busse nehmen angeleinte Hunde kostenlos mit.`,
     hotelName: 'Excelsior Hotel Ernst am Dom',
     hotelEn: `5-star opposite the cathedral and the main Christmas market. Pets up to 14 kg welcomed (small fee), dog bed and welcome treats, the marble lobby tolerates a quiet leashed dog while you defrost.`,
     hotelFr: `5 étoiles face à la cathédrale et au marché principal. Chiens jusqu'à 14 kg acceptés (petit supplément), couchage et friandises de bienvenue, le lobby en marbre tolère un chien en laisse calme pendant que vous dégelez.`,
     hotelEs: `5 estrellas frente a la catedral y al mercado principal. Perros hasta 14 kg admitidos (pequeño suplemento), cama y golosinas de bienvenida, el lobby de mármol tolera un perro con correa tranquilo mientras te descongelas.`,
     hotelPt: `5 estrelas em frente à catedral e ao mercado principal. Cães até 14 kg aceites (pequena taxa), cama e guloseimas de boas-vindas, o lobby de mármore tolera um cão à trela calmo enquanto descongela.`,
+    hotelDe: `5 Sterne gegenüber dem Dom und dem Hauptweihnachtsmarkt. Haustiere bis 14 kg willkommen (kleine Gebühr), Hundebett und Willkommensleckerli, die Marmorlobby toleriert einen ruhigen angeleinten Hund, während Sie auftauen.`,
   },
   {
     slug: 'prague',
@@ -140,11 +151,13 @@ const PICKS: Pick[] = [
     whyFr: `Prague étend sa saison de marchés jusqu'à l'Épiphanie (6 janvier), la plus longue de la liste. La place de la Vieille Ville (Staromětské náměstí) et la place Venceslas (Václavské náměstí) sont les deux géants, tous deux praticables avec chien sur les pavés. Les brasseries tchèques accueillent les chiens tout l'hiver, les ruelles médiévales sont plates sous la neige, et les prix sont parmi les plus raisonnables d'Europe.`,
     whyEs: `Praga extiende su temporada de mercados hasta Epifanía (6 enero), la más larga de la lista. La plaza de la Ciudad Vieja (Staromětské náměstí) y la plaza de Wenceslao (Václavské náměstí) son los dos gigantes, ambos recorribles con perro en el adoquinado. Las cervecerías checas admiten perros todo el invierno, las callejuelas medievales son llanas bajo la nieve, y los precios están entre los más razonables de Europa.`,
     whyPt: `Praga estende a sua época de mercados até Epifania (6 janeiro), a mais longa da lista. A praça da Cidade Velha (Staromětské náměstí) e a praça Venceslau (Václavské náměstí) são os dois gigantes, ambos percorríveis com cão no calcetado. As cervejarias checas aceitam cães todo o inverno, as ruelas medievais são planas sob a neve, e os preços estão entre os mais razoáveis da Europa.`,
+    whyDe: `Prag verlängert seine Marktsaison bis Dreikönig (6. Januar), die längste in dieser Liste. Der Altstädter Ring (Staromětské náměstí) und der Wenzelsplatz (Václavské náměstí) sind die beiden Riesen, beide mit Hund auf dem Kopfsteinpflaster gut begehbar. Tschechische Bierstuben heißen Hunde den ganzen Winter willkommen, die mittelalterlichen Gassen sind unter dem Schnee flach, und die Preise gehören zu den moderatesten Europas.`,
     hotelName: 'Hotel U Prince',
     hotelEn: `Boutique 4-star directly on the Old Town Square, dating from 1380. Pets welcomed at modest fee, the rooftop terrace restaurant with cathedral view tolerates a quiet leashed dog, and the market stalls are literally at the hotel door.`,
     hotelFr: `Boutique 4 étoiles directement sur la place de la Vieille Ville, datant de 1380. Chiens acceptés (supplément modéré), la terrasse rooftop avec vue cathédrale tolère un chien en laisse calme, et les chalets du marché sont littéralement à la porte de l'hôtel.`,
     hotelEs: `Boutique 4 estrellas directamente en la plaza de la Ciudad Vieja, de 1380. Perros admitidos (suplemento moderado), la terraza con vista a la catedral tolera un perro con correa tranquilo, y los puestos del mercado están literalmente a la puerta del hotel.`,
     hotelPt: `Boutique 4 estrelas diretamente na praça da Cidade Velha, de 1380. Cães aceites (taxa moderada), a esplanada com vista para a catedral tolera um cão à trela calmo, e as barracas do mercado estão literalmente à porta do hotel.`,
+    hotelDe: `Boutique-4-Sterne-Hotel direkt am Altstädter Ring, aus dem Jahr 1380. Haustiere gegen moderate Gebühr willkommen, das Dachterrassenrestaurant mit Blick auf die Kathedrale toleriert einen ruhigen angeleinten Hund, und die Marktstände liegen buchstäblich vor der Hoteltür.`,
   },
   {
     slug: 'bruges',
@@ -156,11 +169,13 @@ const PICKS: Pick[] = [
     whyFr: `Bruges en décembre est le conte de fées au pic du conte de fées : les canaux gèlent partiellement, la place du Markt accueille le Wintermärkt avec la grande patinoire (humains seulement, mais le chien regarde du bord), et le Belfort brille au-dessus. Les marchés plus petits sur Simon Stevin et Walplein sont plus calmes et plus confortables avec un chien. Les terrasses belges accueillent les chiens tout l'hiver sous chauffages.`,
     whyEs: `Brujas en diciembre es el cuento de hadas en su máximo cuento de hadas: los canales se congelan parcialmente, la plaza Markt acoge el Wintermärkt con la gran pista de patinaje (solo humanos, pero el perro mira desde el borde), y el Belfort brilla por encima. Los mercados más pequeños en Simon Stevin y Walplein son más tranquilos y más cómodos con perro. Las terrazas belgas admiten perros todo el invierno bajo calefactores.`,
     whyPt: `Bruges em dezembro é o conto de fadas no auge do conto de fadas: os canais congelam parcialmente, a praça Markt acolhe o Wintermärkt com a grande pista de patinagem (só humanos, mas o cão observa da margem), e o Belfort brilha por cima. Os mercados menores em Simon Stevin e Walplein são mais calmos e mais confortáveis com cão. As esplanadas belgas aceitam cães todo o inverno sob aquecedores.`,
+    whyDe: `Brügge im Dezember ist das Märchen auf dem Höhepunkt des Märchens: Die Grachten frieren teilweise zu, der Markt beherbergt den Wintermärkt mit der riesigen Eisbahn (nur für Menschen, aber der Hund schaut vom Rand aus zu), und der Belfried leuchtet darüber. Die kleineren Märkte am Simon-Stevin-Platz und am Walplein sind ruhiger und hundefreundlicher. Die belgischen Terrassen heißen Hunde den ganzen Winter unter Heizstrahlern willkommen.`,
     hotelName: 'Boutique Hotel De Castillion',
     hotelEn: `15-room townhouse in a former bishop's residence, 6-min walk to the Markt and the Wintermärkt. Pets up to 10 kg welcomed (modest fee), breakfast in the walled garden, the in-house bistro tolerates a quiet leashed dog at dinner.`,
     hotelFr: `15 chambres dans une ancienne résidence épiscopale, 6 min à pied du Markt et du Wintermärkt. Chiens jusqu'à 10 kg acceptés (supplément modéré), petit-déjeuner dans le jardin clos, le bistrot de l'hôtel tolère un chien en laisse calme au dîner.`,
     hotelEs: `15 habitaciones en una antigua residencia episcopal, 6 min andando al Markt y al Wintermärkt. Perros hasta 10 kg admitidos (suplemento moderado), desayuno en el jardín tapiado, el bistró del hotel tolera un perro con correa tranquilo en la cena.`,
     hotelPt: `15 quartos numa antiga residência episcopal, 6 min a pé do Markt e do Wintermärkt. Cães até 10 kg aceites (taxa moderada), pequeno-almoço no jardim murado, o bistrot do hotel tolera um cão à trela calmo ao jantar.`,
+    hotelDe: `Stadthaus mit 15 Zimmern in einer ehemaligen Bischofsresidenz, 6 Gehminuten zum Markt und zum Wintermärkt. Haustiere bis 10 kg willkommen (moderate Gebühr), Frühstück im ummauerten Garten, das hoteleigene Bistro toleriert beim Abendessen einen ruhigen angeleinten Hund.`,
   },
   {
     slug: 'strasbourg',
@@ -172,11 +187,13 @@ const PICKS: Pick[] = [
     whyFr: `30 min au sud de Strasbourg en TER, Colmar est le village alsacien tellement parfait qu'il a inspiré la ville natale de Belle dans La Belle et la Bête de Disney. Six petits marchés de Noël dans le quartier des canaux de la Petite Venise, tous pavés et praticables en laisse. Les maisons à colombages s'allument à la tombée du jour pour 90 min de promenade carte postale. Gardez Strasbourg comme base hôtel ; Colmar se cale en day trip parfait.`,
     whyEs: `30 min al sur de Estrasburgo en TER, Colmar es el pueblo alsaciano tan perfecto que inspiró la ciudad natal de Bella en La Bella y la Bestia de Disney. Seis pequeños mercados navideños en el barrio de canales de la Pequeña Venecia, todos adoquinados y recorribles con correa. Las casas con entramado se iluminan al atardecer para 90 min de paseo postal. Conserva Estrasburgo como base de hotel; Colmar encaja como excursión perfecta.`,
     whyPt: `30 min a sul de Estrasburgo de TER, Colmar é a aldeia alsaciana tão perfeita que inspirou a vila natal de Bela em A Bela e o Monstro da Disney. Seis pequenos mercados de Natal no bairro dos canais da Pequena Veneza, todos calcetados e percorríveis com trela. As casas em tabique iluminam-se ao entardecer para 90 min de passeio postal. Mantenha Estrasburgo como base de hotel; Colmar encaixa como excursão perfeita.`,
+    whyDe: `30 Minuten südlich von Straßburg mit dem TER-Zug liegt Colmar, das elsässische Dorf, das so bilderbuchhaft ist, dass es Belles Heimatstadt in Disneys Die Schöne und das Biest inspirierte. Sechs kleine Weihnachtsmärkte im Kanalviertel Klein-Venedig, alle gepflastert und mit angeleintem Hund begehbar. Die Fachwerkhäuser leuchten bei Einbruch der Dämmerung für einen 90-minütigen Postkartenspaziergang. Behalten Sie Straßburg als Hotelbasis; Colmar eignet sich perfekt als Tagesausflug.`,
     hotelName: `Hôtel Régent Petite France (Strasbourg base)`,
     hotelEn: `Use the same Strasbourg hotel as your base. TER Strasbourg-Colmar runs every 30 min, dogs €0 in carrier or €3.50 leashed. Colmar station is 12 min walk from the markets.`,
     hotelFr: `Utilisez le même hôtel de Strasbourg comme base. TER Strasbourg-Colmar toutes les 30 min, chiens 0 € en sac ou 3,50 € en laisse. La gare de Colmar est à 12 min à pied des marchés.`,
     hotelEs: `Usa el mismo hotel de Estrasburgo como base. TER Estrasburgo-Colmar cada 30 min, perros 0 € en bolsa o 3,50 € con correa. La estación de Colmar está a 12 min andando de los mercados.`,
     hotelPt: `Use o mesmo hotel de Estrasburgo como base. TER Estrasburgo-Colmar de 30 em 30 min, cães 0 € em saco ou 3,50 € à trela. A estação de Colmar está a 12 min a pé dos mercados.`,
+    hotelDe: `Nutzen Sie dasselbe Straßburger Hotel als Basis. Der TER Straßburg-Colmar fährt alle 30 Minuten, Hunde 0 € in der Transportbox oder 3,50 € angeleint. Der Bahnhof Colmar liegt 12 Gehminuten von den Märkten entfernt.`,
   },
 ]
 
@@ -281,6 +298,31 @@ const COPY = {
       { q: 'Transfronteiriço de comboio?', a: `Estrasburgo-Colmar TER (30 min), Viena-Salzburgo ÖBB (2h30, cães 5 € com açaime), Colónia-Aquisgrão DB (45 min), Praga-Dresden (2 h). Eurostar aceita só cães de assistência - para o Reino Unido, o ferry Cherbourg + comboio via Paris é a alternativa para um cão de companhia.` },
     ],
   },
+  de: {
+    eyebrow: `WEIHNACHTSMÄRKTE · HAUSTIERFREUNDLICHES EUROPA`,
+    title: `Hundefreundliche Weihnachtsmärkte: 6 europäische Städte, die Haustiere willkommen heißen`,
+    intro: `Dezember ist der hundefreundlichste Monat des Jahres zum Reisen. Das Wetter kommt den Rassen entgegen, die im Sommer leiden (Huskys, Berner Sennenhunde, alles mit doppeltem Fell), die Menschenmenge ist wärmer eingepackt und reagiert gelassener auf Hunde zu ihren Füßen, und die hölzernen Weihnachtsmarktbuden sind von Natur aus flach, langsam und im Hundetempo. Wir haben sechs europäische Weihnachtsmärkte ausgewählt, die Hunde an der Leine wirklich willkommen heißen, die Etikette ist universell: Hund nah halten, weg von Kostproben und aus der Bratwurst-Fettzone heraus.`,
+    pickHeading: 'Die sechs Auswahlen',
+    whyHere: 'Warum hier',
+    datesLabel: 'Markttermine',
+    hotelLabel: 'Wo übernachten',
+    seeDestCta: 'Vollständiger Stadtführer →',
+    hotelCta: 'Verfügbarkeit ansehen →',
+    practicalHeading: 'Praktische Infos für Weihnachtsmärkte mit Hund',
+    practical: [
+      { h: 'Besuchermanagement', p: `Weihnachtsmärkte erreichen ihren Höhepunkt am Freitagabend und am Wochenende. Gehen Sie unter der Woche vormittags (10:00–12:00 Uhr) oder nachmittags (15:00–17:00 Uhr), damit es für Ihren Hund angenehm bleibt. Meiden Sie die Glühweinzonen zwischen 19:00 und 22:00 Uhr: das Bratwurstfett am Boden und die schwankende Menschenmenge sind für einen kleinen Hund hart. Einen kleinen Hund durch die dichtesten Zonen zu tragen, ist in Ordnung.` },
+      { h: 'Glühwein + Hund', p: `Glühwein, Glögg, Vin chaud werden in Keramikbechern serviert, die heiß werden. Halten Sie den Becher über dem Kopf des Hundes, nicht davor, und stellen Sie ihn nie auf eine niedrige Ablage, die eine neugierige Nase erreichen kann. Verschütteter Glühwein ist schlecht für Hunde (Alkohol + Zucker + Zimt). Bringen Sie Ihre eigene Wasserflasche und einen Napf mit.` },
+      { h: 'Pfotenpflege im Winter', p: `Salz und Splitt auf den Straßen scheuern die Pfotenballen auf. Wischen Sie die Pfoten vor dem Betreten des Hotels mit einem feuchten Tuch ab; in stark gesalzenen Zonen verwenden Sie eine Pfotensalbe (Mushers Secret ist der bewährte Standard) oder Hundeschuhe. Gepflasterte mittelalterliche Gassen werden bei Nässe rutschig, gehen Sie langsam und nutzen Sie in der Nähe von Treppen eine kurze Leine.` },
+      { h: 'Fluchtplan drinnen', p: `Kälte + Menschenmenge + Gerüche = Stress, selbst für selbstsichere Hunde. Planen Sie alle 90 Minuten eine Pause drinnen ein: ein hundefreundliches Café, das Hotelzimmer oder eine überdachte Passage. Wiens Kaffeehauskultur ist dafür ausgezeichnet geeignet. Köln und Brügge haben warme, überdachte Hallen. Prag hat Bierstuben. Straßburg/Colmar hat Bäckereien, die einen kleinen angeleinten Hund still akzeptieren.` },
+    ],
+    faqHeading: 'Häufig gestellte Fragen',
+    faqs: [
+      { q: 'Darf mein Hund IN die hölzernen Weihnachtsmarktbuden?', a: `Davorstehen und bedient werden ist immer in Ordnung. Ob er in die kleinen Holzhütten darf, entscheidet der Verkäufer, meist lautet die Antwort Nein (es ist seine Küche). Die meisten Verkäufer reichen gerne ein Leckerli über die Theke, wenn Sie danach fragen.` },
+      { q: 'Was ist mit den riesigen Eisbahnen auf den Märkten?', a: `Eisbahnen sind nur für Menschen, Hunde würden das Eis beschädigen und wären darauf unsicher. Wiens Rathausplatz, Brügges Markt, Kölns Heumarkt und Straßburgs Place Kléber haben alle Eisbahnen. Ihr Hund schaut vom hölzernen Rand aus zu; viele Cafés am Rand haben Außenheizungen und heißen einen angeleinten Hund willkommen.` },
+      { q: 'Beste Termine, um den größten Andrang zu vermeiden?', a: `Die Eröffnungswoche (letzte Novemberwoche) und die Woche zwischen dem 26. und 31. Dezember sind am ruhigsten. Je näher der 21. bis 24. Dezember rückt, desto dichter wird der Andrang. Reservierungen in Hotelrestaurants sind ab dem 6. Dezember unerlässlich.` },
+      { q: 'Grenzüberschreitend mit dem Zug?', a: `Straßburg-Colmar TER (30 Min.), Wien-Salzburg ÖBB (2,5 Std., Hunde 5 € mit Maulkorb), Köln-Aachen DB (45 Min.), Prag-Dresden (2 Std.). Der Eurostar akzeptiert nur Assistenzhunde, für Großbritannien ist die Fährverbindung Cherbourg + Zug über Paris die Umgehungslösung für einen Haustierhund.` },
+    ],
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -325,8 +367,8 @@ export default async function Page({
     publisher: { '@type': 'Organization', name: 'HotelsWithPets', url: SITE_URL },
   }
 
-  const pickWhy = (p: Pick) => locale === 'fr' ? p.whyFr : locale === 'es' ? p.whyEs : locale === 'pt' ? p.whyPt : p.whyEn
-  const pickHotel = (p: Pick) => locale === 'fr' ? p.hotelFr : locale === 'es' ? p.hotelEs : locale === 'pt' ? p.hotelPt : p.hotelEn
+  const pickWhy = (p: Pick) => locale === 'fr' ? p.whyFr : locale === 'es' ? p.whyEs : locale === 'pt' ? p.whyPt : locale === 'de' ? p.whyDe : p.whyEn
+  const pickHotel = (p: Pick) => locale === 'fr' ? p.hotelFr : locale === 'es' ? p.hotelEs : locale === 'pt' ? p.hotelPt : locale === 'de' ? p.hotelDe : p.hotelEn
 
   return (
     <main className="min-h-screen bg-stone-50">

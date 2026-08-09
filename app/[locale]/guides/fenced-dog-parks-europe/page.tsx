@@ -13,7 +13,7 @@ import StickyHotelCTA from '@/components/StickyHotelCTA'
 
 const SLUG = 'fenced-dog-parks-europe'
 
-type Locale = 'en' | 'fr' | 'es' | 'pt'
+type Locale = 'en' | 'fr' | 'es' | 'pt' | 'de'
 
 type Park = {
   citySlug: string
@@ -836,7 +836,7 @@ const COUNTRY_TALLY: [string, number][] = Object.entries(
 ).sort((a, b) => b[1] - a[1])
 
 export async function generateStaticParams() {
-  return [{ locale: 'en' }, { locale: 'fr' }, { locale: 'es' }, { locale: 'pt' }]
+  return [{ locale: 'en' }, { locale: 'fr' }, { locale: 'es' }, { locale: 'pt' }, { locale: 'de' }]
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
@@ -847,12 +847,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     fr: `${PARKS.length} parcs canins clôturés en Europe, zones sans laisse vérifiées (${new Date().getFullYear()}) | HotelsWithPets`,
     es: `${PARKS.length} parques caninos vallados en Europa, zonas sin correa verificadas (${new Date().getFullYear()}) | HotelsWithPets`,
     pt: `${PARKS.length} parques caninos vedados na Europa, zonas sem trela verificadas (${new Date().getFullYear()}) | HotelsWithPets`,
+    de: `${PARKS.length} eingezäunte Hundeparks in Europa, geprüfte Freilaufzonen (${new Date().getFullYear()}) | HotelsWithPets`,
   }
   const descs: Record<string, string> = {
     en: `Verified list of ${PARKS.length} fenced dog parks across ${CITY_COUNT} European cities, secure off-leash zones, neighbourhood, size and the parent city guide for each park.`,
     fr: `Liste vérifiée de ${PARKS.length} parcs canins clôturés dans ${CITY_COUNT} villes européennes, zones sans laisse sécurisées, quartier, surface et guide de ville parent pour chacun.`,
     es: `Lista verificada de ${PARKS.length} parques caninos vallados en ${CITY_COUNT} ciudades europeas, zonas sin correa seguras, barrio, superficie y guía de la ciudad de cada parque.`,
     pt: `Lista verificada de ${PARKS.length} parques caninos vedados em ${CITY_COUNT} cidades europeias, zonas sem trela seguras, bairro, área e guia da cidade de cada parque.`,
+    de: `Geprüfte Liste von ${PARKS.length} eingezäunten Hundeparks in ${CITY_COUNT} europäischen Städten, sichere Freilaufzonen, Stadtteil, Größe und den zugehörigen Stadtführer für jeden Park.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -1023,6 +1025,40 @@ const COPY: Record<Locale, {
       `As hembras esterilizadas, machos castrados e cães bien socializados são bem-vindos. Os cães agresivos o em celo no deberían entrar numa zona sem trela compartida, regla universal de etiqueta, no escrita.`,
       `As bolsas para residuos são obrigatórias na zona vedada, a maioria de parques têm dispensadores na entrada. As multas van de 50 € a 750 € por infração segundo a cidade e o país.`,
       `Algunos parques separan os cães pequenos (menos de 10 kg) dois grandes com uma segunda valla. Busca a senhalización «Small dogs» / «Petits chiens» / «Cani piccoli» na entrada.`,
+    ],
+  },
+  de: {
+    kicker: 'EINGEZÄUNTE HUNDEPARKS · AUSGABE 2026',
+    h1: `${PARKS.length} eingezäunte Hundeparks in Europa`,
+    lede: `Jede europäische Stadt hat mindestens eine eingezäunte Hundezone, in der Ihr Hund sicher ohne Leine laufen kann, lokal Hundezone (Österreich, Deutschland), sgambamento (Italien), hundeskov (Dänemark), caniparc (Frankreich), área canina (Spanien) oder parque para perros (Portugal) genannt. Dies ist das geprüfte Verzeichnis aus unseren ${destinations.length} Stadtführern.`,
+    introTitle: 'Warum die Einzäunung wichtig ist',
+    introParas: [
+      `In den meisten europäischen Städten gilt die Leinenpflicht standardmäßig im gesamten öffentlichen Raum. Eingezäunte Hundezonen sind die rechtliche Ausnahme: gesicherte Bereiche, in denen ein Hund frei laufen kann, ohne gegen städtische Vorschriften zu verstoßen, ohne Verkehrsrisiko und ohne Konflikte mit Joggern, Radfahrern oder anderen Parkbesuchern.`,
+      `Jeder Eintrag unten verlinkt zum zugehörigen Stadtführer, dort finden Sie die genaue Adresse, Verkehrsanbindung, Öffnungszeiten, die lokalen Regeln für den Freilauf und geprüfte haustierfreundliche Hotels in der Nähe, jede Empfehlung führt bis zum Buchungsschritt.`,
+    ],
+    countryTitle: 'Verteilung nach Land',
+    countryIntro: `Deutschland, Österreich und Italien führen in Europa bei der Infrastruktur für eingezäunte Hundeparks dank ihrer starken Stadtpark-Kultur. Spanien und Frankreich folgen mit wachsenden Netzen an caniparcs und áreas caninas.`,
+    countriesLabel: 'Top-Länder',
+    listTitle: 'Die vollständige Liste, alphabetisch nach Stadt',
+    parksLabel: 'eingezäunte Parks',
+    citiesLabel: 'Städte',
+    countriesStatLabel: 'Länder',
+    ctaTitle: 'Finden Sie ein haustierfreundliches Hotel in der Nähe dieser Hundeparks',
+    ctaDesc: 'Jeder Park in der Liste verlinkt zum zugehörigen Stadtführer, mit 5+ geprüften haustierfreundlichen Hotels pro Stadt, Haustiergebühren in EUR und direkten Booking.com-Affiliate-Links.',
+    ctaButton: 'Alle Reiseziele ansehen →',
+    faqTitle: 'Häufig gestellte Fragen',
+    faqs: [
+      { q: 'Wie nennt man einen eingezäunten Hundepark in Europa?', a: `Die Bezeichnungen variieren je nach Land: Hundezone oder Hundewiese (Österreich, Deutschland, Schweiz), sgambamento oder area cani (Italien), hundeskov (Dänemark), hondenuitlaatgebied oder losloopgebied (Niederlande), caniparc oder aire pour chiens (Frankreich), área canina oder zona canina (Spanien), parque para cães (Portugal). Alle bezeichnen dasselbe: einen eingezäunten Bereich, in dem Freilauf erlaubt ist.` },
+      { q: 'Sind eingezäunte Hundeparks kostenlos?', a: `Ja, alle eingezäunten Hundezonen dieser Liste sind öffentliche städtische Einrichtungen mit freiem Eintritt, sofern nicht anders angegeben rund um die Uhr geöffnet. Eine kleine Minderheit privater kommerzieller Hundeparks in Europa verlangt Eintritt, keiner davon ist hier enthalten.` },
+      { q: 'Welches europäische Land hat die beste Infrastruktur für eingezäunte Hundeparks?', a: `Nach Anzahl pro Kopf führen Österreich, Deutschland und Italien. Österreichische Städte wie Wien, Salzburg und Graz haben in der Regel jeweils 5+ eingezäunte Hundezonen. Italienische Städte unterhalten sgambamento-Bereiche in jedem größeren Park. Spanien hat sein Netz an áreas caninas seit 2018 rasch ausgebaut.` },
+      { q: 'Sind die eingezäunten Parks mit öffentlichen Verkehrsmitteln erreichbar?', a: `Ja, bei allen liegt jeder Park dieser Liste in einer Stadt, die bereits Teil unseres Reisezielnetzes ist, mit Anbindung durch Straßenbahn, U-Bahn oder Bus. Detaillierte Informationen zur Anreise finden Sie im jeweiligen Stadtführer.` },
+      { q: 'Kann ich mehr als einen Hund in einen eingezäunten Park mitbringen?', a: `Ja, in fast allen Fällen. Eine kleine Zahl italienischer sgambamento-Bereiche begrenzt Besucher zu Stoßzeiten auf 2 Hunde pro Halter, Hinweisschilder am Eingang nennen etwaige lokale Regeln.` },
+    ],
+    legalTitle: 'Regeln, die für alle eingezäunten Hundezonen gelten',
+    legalParas: [
+      `Sterilisierte Hündinnen, kastrierte Rüden und gut sozialisierte Hunde sind willkommen. Aggressive oder läufige Hündinnen sollten nicht in eine gemeinsam genutzte Freilaufzone gebracht werden, dies ist eine allgemeine Park-Etikette-Regel und wird nicht durch Beschilderung durchgesetzt.`,
+      `Kotbeutel sind in der eingezäunten Zone Pflicht, die meisten Parks stellen Spender am Eingang bereit. Die Bußgelder reichen je nach Stadt und Land von 50 € bis 750 € pro nicht entferntem Kot.`,
+      `Manche Parks trennen kleine Hunde (unter 10 kg) mit einem zweiten Zaun von großen Hunden. Achten Sie am Tor auf Schilder wie „Small dogs" / „Petits chiens" / „Cani piccoli".`,
     ],
   },
 }

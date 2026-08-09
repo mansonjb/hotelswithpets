@@ -12,6 +12,7 @@ const STICKY_LABELS_AHC: Record<string, { label: string; cta: string }> = {
   fr: { label: `Hôtels pet-friendly au Royaume-Uni et en UE`, cta: 'Voir les hôtels' },
   es: { label: 'Hoteles pet-friendly en Reino Unido y UE', cta: 'Ver hoteles' },
   pt: { label: 'Hotéis pet-friendly no Reino Unido e UE', cta: 'Ver hotéis' },
+  de: { label: 'Haustierfreundliche Hotels in Großbritannien und der EU', cta: 'Hotels ansehen' },
 }
 
 const SLUG = 'animal-health-certificate-vs-pet-passport-2026'
@@ -492,6 +493,110 @@ const COPY: Record<string, Copy> = {
     ctaDesc: 'Explora nuestros 90+ destinos pet-friendly por toda Europa, cada guía incluye normas de entrada específicas do país, números de veterinários e um mapa Booking.com em vivo de hotéis pet-friendly.',
     ctaButton: 'Ver destinos pet-friendly →',
     ctaHref: '/pt/destinations',
+  },
+  de: {
+    hero: {
+      kicker: 'REISEDOKUMENTE FÜR HAUSTIERE · AKTUALISIERT 2026',
+      h1: 'EU-Heimtierausweis oder Animal Health Certificate: Was brauchen Sie wirklich?',
+      tldr: `Kurze Antwort: Der EU-Heimtierausweis gilt für Reisen innerhalb der EU sowie Norwegen, der Schweiz, Island und Liechtenstein. Ein Animal Health Certificate (AHC) ist erforderlich, um ein in der EU ansässiges Haustier ins Vereinigte Königreich zu bringen. Beide Dokumente sind nicht austauschbar, ihre Kosten unterscheiden sich stark, und 78 % der von uns befragten Erstreisenden haben es bei ihrer ersten Reise falsch gemacht, manchmal an der Grenze, manchmal erst beim Check-in in einem Hotel, das das richtige Dokument verlangte.`,
+    },
+    scenarios: {
+      title: 'Schnelle Entscheidung: Welches Dokument für Ihre Route?',
+      intro: 'Finden Sie Ihre Reiserichtung in der Tabelle unten. Die Spalte „Erforderliches Dokument" nennt die gesetzliche Mindestanforderung, die Spalte „Hinweis" macht auf Überraschungen aufmerksam.',
+      rows: [
+        { from: 'EU-Land', to: 'EU-Land', document: 'EU-Heimtierausweis', note: 'Ein einziges Dokument deckt alle 27 EU-Länder plus Norwegen, die Schweiz, Island und Liechtenstein ab.' },
+        { from: 'EU-Land', to: 'Vereinigtes Königreich', document: 'Animal Health Certificate (AHC)', note: 'EU-Heimtierausweis wird NICHT akzeptiert. AHC gültig 10 Tage für die Einreise, 4 Monate für Reisen innerhalb des UK plus Rückreise.' },
+        { from: 'EU-Land', to: 'Irland', document: 'EU-Heimtierausweis', note: 'Irland weiterhin im EU-Heimtierausweis-System. Bandwurmbehandlung 24-120h vor Ankunft erforderlich.' },
+        { from: 'EU-Land', to: 'Norwegen', document: 'EU-Heimtierausweis', note: 'Norwegen nicht in der EU, akzeptiert aber den Ausweis. Bandwurmbehandlung 24-120h vor Ankunft erforderlich.' },
+        { from: 'EU-Land', to: 'Finnland', document: 'EU-Heimtierausweis', note: 'Finnland in der EU, verlangt aber Bandwurmbehandlung 24-120h vor Ankunft.' },
+        { from: 'EU-Land', to: 'Island', document: 'EU-Heimtierausweis + Importgenehmigung', note: 'Island hat die strengsten Regeln: Genehmigung vor Ankunft, 4 Wochen Heimquarantäne oft durch Importkontrolle ersetzt.' },
+        { from: 'Vereinigtes Königreich', to: 'EU-Land', document: 'GB-Gesundheitsbescheinigung oder EU-AHC', note: 'UK-Heimtierausweis (rot) nach dem Brexit nicht mehr gültig. Neue GB-Bescheinigung oder EU-tierärztliches AHC erforderlich.' },
+        { from: 'USA', to: 'Beliebiges EU-Land', document: 'EU-AHC + USDA-Bestätigung', note: 'AHC ausgestellt von einem USDA-akkreditierten Tierarzt, bestätigt von USDA APHIS innerhalb von 10 Tagen vor der Reise. Gültig 4 Monate für Reisen innerhalb der EU.' },
+        { from: 'Schweiz', to: 'EU-Land', document: 'EU-Heimtierausweis', note: 'Schweiz nicht in der EU, aber im Heimtierausweis-System. Dokument mit dem EU-Ausweis austauschbar.' },
+      ],
+    },
+    passport: {
+      id: 'pet-passport',
+      h2: 'Der EU-Heimtierausweis (die langfristige Option)',
+      paras: [
+        `Der EU-Heimtierausweis ist ein kleines blaues Heft, ausgestellt von einem zugelassenen Tierarzt in jedem EU-Land (oder in Norwegen, der Schweiz, Island, Liechtenstein). Er enthält: die Beschreibung des Haustiers (Rasse, Geschlecht, Geburtsdatum), ein Foto, die Mikrochip-Nummer, die Tollwutimpfhistorie und alle weiteren relevanten Behandlungen. Einmal ausgestellt, ist er lebenslang gültig, Sie erneuern lediglich bestimmte Einträge (hauptsächlich die Tollwutimpfung, die je nach Hersteller alle 1 bis 3 Jahre abläuft).`,
+        'Der Ausweis ist das flexibelste Dokument, da er alle EU-Länder plus die vier EFTA-Staaten (Norwegen, Schweiz, Island, Liechtenstein) unter einem Deckel abdeckt. Er ist auf lange Sicht auch am günstigsten: ein einziger Tierarztbesuch zur Ausstellung (typischerweise 30-60 €), plus die üblichen Kosten für die Tollwutimpfung (30-50 € alle 1-3 Jahre).',
+        'Die Berechtigung ist einfach: Ihr Haustier muss zum Zeitpunkt der Ausstellung des Ausweises in der EU (oder in einem der EFTA-Länder) ansässig sein. Wenn Sie im Vereinigten Königreich, in den USA oder einem anderen Nicht-EU-Land leben, kann Ihr Haustierarzt keinen EU-Ausweis ausstellen, selbst wenn er wollte. Sie erhalten einen nur, wenn Sie EU-Bürger werden, was selten vorkommt.',
+      ],
+      bullets: [
+        'Format: kleines blaues Heft, ~10 × 15 cm',
+        'Aussteller: zugelassener Tierarzt in jedem EU-Land, Norwegen, der Schweiz, Island oder Liechtenstein',
+        'Gültigkeit: lebenslang (mit bei Bedarf erneuerten Impfeinträgen)',
+        'Kosten: 30-60 € bei Ausstellung, plus Impfauffrischungen',
+        'Abdeckung: 27 EU-Länder + 4 EFTA-Staaten (austauschbar)',
+        'Erforderliche Tests: Mikrochip ISO 11784/11785 + mindestens 21 Tage gültige Tollwutimpfung',
+      ],
+    },
+    ahc: {
+      id: 'ahc',
+      h2: 'Das Animal Health Certificate (die reisespezifische Option)',
+      paras: [
+        'Das Animal Health Certificate (AHC) ist eine 10-seitige Bescheinigung, die von einem Tierarzt innerhalb von 10 Tagen vor Reisebeginn ausgestellt wird, gültig für die Einreise in das auf dem Dokument genannte Land sowie für 4 Monate Reisen im Land und Rückreise. Es existiert, weil das Vereinigte Königreich nach dem Brexit ein eigenes System für die Einfuhr von Haustieren eingeführt hat, das den EU-Heimtierausweis nicht anerkennt, und die EU erkennt umgekehrt den alten UK-Heimtierausweis (den roten) nicht für die Einreise in die EU an.',
+        `Das AHC ist pro Reise deutlich teurer als ein Ausweis: typischerweise 100-180 £ im UK oder 100-150 € bei einem EU-Tierarzt, plus in manchen Fällen eine kleine Bearbeitungsgebühr. Es ist in dem Sinne einmalig nutzbar, dass Sie es nicht für eine zweite Reise wiederverwenden können, Sie benötigen jedes Mal ein neues AHC, wenn Sie erneut in das Zielland einreisen (selbst mit 4 Monaten Abstand).`,
+        'Für jemanden, der einmal im Jahr ins UK reist, ist das AHC das richtige Dokument. Für jemanden, der drei- oder viermal im Jahr reist, summieren sich die Kosten auf 400-600 € jährlich, was eine kleine, aber wachsende Zahl von EU-Bürgern dazu bewegt hat, einen UK-GB-Heimtierausweis in Erwägung zu ziehen (ausgestellt von einem UK-Tierarzt während eines Aufenthalts im UK), der ein Jahr lang wiederverwendbar ist, bevor erneut die AHC-Logik greift.',
+      ],
+      bullets: [
+        'Format: 10-seitige Bescheinigung, muss physisch ausgedruckt und unterschrieben werden',
+        'Aussteller: zugelassener Tierarzt innerhalb von 10 Tagen vor Abreise',
+        'Gültigkeit: 10 Tage für die Einreise + 4 Monate für Reisen im Land und Rückreise',
+        'Kosten: 100-180 € pro Reise (deutlich höher als beim EU-Ausweis)',
+        'Einmalig: nicht auf folgende Reisen übertragbar',
+        'Erforderliche Tests: wie beim Ausweis (Mikrochip + Tollwutimpfung + Bandwurmbehandlung für UK)',
+      ],
+    },
+    tapeworm: {
+      id: 'tapeworm',
+      h2: 'Die vorgeschriebene Bandwurmbehandlung (die Regel, die die meisten Reisenden überrascht)',
+      paras: [
+        'Fünf Länder in Europa, das Vereinigte Königreich, Irland, Finnland, Norwegen und Malta, verlangen, dass Hunde zwischen 24 Stunden und 120 Stunden (5 Tagen) vor der Ankunft eine Bandwurmbehandlung auf Praziquantel-Basis von einem Tierarzt erhalten. Die Behandlung muss vom Tierarzt im Heimtierausweis (oder AHC) vermerkt werden.',
+        'Das ist das häufigste Grenzproblem, von dem wir hören. Die Behandlung ist unkompliziert, eine einzige Tablette, kostet 15-30 € beim Tierarzt, muss aber im richtigen Zeitfenster von einem zugelassenen Tierarzt verabreicht und korrekt dokumentiert werden. Besitzer vergessen häufig das Minimum von 24 Stunden (die Behandlung muss mindestens 24 Stunden vor der Ankunft erfolgen) oder das Maximum von 120 Stunden (sie darf nicht älter als 5 Tage sein). Beide Ablehnungsgründe kommen gleich häufig vor.',
+        'Der Grund für die Regel ist die Biosicherheit: Diese fünf Länder sind frei von der Bandwurmart Echinococcus multilocularis, die auf dem europäischen Festland endemisch ist. Ohne die Regel könnten infizierte Hunde den Parasiten über ihren Kot einschleppen, was schwerwiegende Probleme für die öffentliche Gesundheit verursachen würde (er löst die alveoläre Echinokokkose aus, eine schwere Lebererkrankung).',
+      ],
+    },
+    comparison: {
+      caption: 'EU-Heimtierausweis vs. Animal Health Certificate (2026)',
+      head: ['Merkmal', 'EU-Heimtierausweis', 'Animal Health Certificate (AHC)'],
+      rows: [
+        ['Aussteller', 'Zugelassener Tierarzt in EU/EFTA', 'Zugelassener Tierarzt innerhalb von 10 Tagen vor der Reise'],
+        ['Gültigkeit', 'Lebenslang', '10 Tage Einreise + 4 Monate Reise/Rückreise'],
+        ['Kosten', '30-60 € einmalig + Impfauffrischungen', '100-180 € pro Reise'],
+        ['Abdeckung', '27 EU-Länder + 4 EFTA-Staaten', 'Ein auf dem Dokument genanntes Zielland'],
+        ['Wiederverwendbar', 'Ja, unbegrenzt', 'Nein, einmalig'],
+        ['Berechtigte Halter', 'EU-/EFTA-Bürger', 'Jeder mit Zugang zu einem zugelassenen Tierarzt'],
+        ['Erforderlich für UK-Einreise', 'NEIN', 'JA (seit dem Brexit)'],
+        ['Erforderlich für EU-Einreise aus UK', 'NEIN (nur GB-Bescheinigung)', 'JA aus den USA, kann auch aus der EU verlangt werden'],
+        ['Nachweis Bandwurmbehandlung', 'Im Ausweis, durch Tierarzt', 'Im AHC vermerkt'],
+      ],
+    },
+    costs: {
+      id: 'costs',
+      h2: 'Die tatsächlichen Kosten eines Fehlers',
+      paras: [
+        'In unserer 2026er-Umfrage unter 1.200 Erstreisenden mit Haustier berichteten 78 % von mindestens einem Dokumentenfehler. Der häufigste: der Versuch, mit einem EU-Heimtierausweis ins UK einzureisen (340 von 1.200 Fällen), diese Reisenden wurden am Eurotunnel-Terminal oder am Fährhafen zurückgewiesen und verloren dabei manchmal auf der Stelle eine Buchung im Wert von 200-400 £. Der zweithäufigste: die vergessene Bandwurmbehandlung für UK/Irland/Finnland/Norwegen/Malta, ihnen wird meist erlaubt, die Behandlung bei einem Tierarzt am Hafen (70-150 £) nachzuholen, bevor sie weiterreisen dürfen.',
+        'Weniger katastrophal, aber trotzdem teuer: die Ankunft in einem haustierfreundlichen Hotel, das den EU-Ausweis verlangt (die meisten tun das nach dem Brexit), ohne die passenden Unterlagen. Hotels können den Check-in verweigern. Manche akzeptieren ein ausgedrucktes AHC als Nachweis, aber Sie sollten dem Hotel vor der Buchung immer eine E-Mail schreiben, um die genauen Anforderungen zu bestätigen.',
+        'Vermeidbare Gesamtkosten in unserer Stichprobe von 1.200 Reisenden: rund 380.000 €. Durchschnitt pro Reisendem: 316 €. Der größte Kostenpunkt: Zurückweisung an der Grenze und anschließende Neubuchung. Schlimmster von uns erfasster Fall: 1.800 £ Verlust (Paar mit zwei Hunden, mehrteilige Reise am Eurotunnel storniert).',
+      ],
+    },
+    faqTitle: 'Häufig gestellte Fragen',
+    faqs: [
+      { q: `Ich bin Amerikaner, kann ich einen EU-Heimtierausweis nutzen?`, a: 'Nein. Der EU-Heimtierausweis kann nur von einem Tierarzt in einem EU-Land (oder Norwegen, der Schweiz, Island, Liechtenstein) für ein dort ansässiges Haustier ausgestellt werden. Als US-Besucher benötigen Sie einen USDA-akkreditierten Tierarzt, der ein EU-AHC ausstellt, das anschließend innerhalb von 10 Tagen vor der Reise von USDA APHIS bestätigt werden muss. Ihr AHC ist dann 4 Monate für Reisen innerhalb der EU und die Rückreise gültig.' },
+      { q: `Ich lebe im UK mit einem UK-Heimtierausweis, kann ich ihn für die EU nutzen?`, a: 'Nein. Der UK-Heimtierausweis (rotes Heft) ist seit dem 1. Januar 2021 nicht mehr für die Einreise in die EU gültig. Sie benötigen eine neue GB-Gesundheitsbescheinigung, ausgestellt von Ihrem UK-Tierarzt innerhalb von 10 Tagen vor der Reise, ODER ein EU-AHC, ausgestellt von einem zugelassenen Tierarzt während Ihres Aufenthalts in der EU.' },
+      { q: 'Gilt die Bandwurmbehandlung auch für Katzen?', a: 'Nein, nur für Hunde. Der Parasit Echinococcus multilocularis nutzt in erster Linie Hunde (und Füchse) als Endwirte. Katzen unterliegen bei der Einreise ins Vereinigte Königreich, nach Irland, Finnland, Norwegen oder Malta nicht der Bandwurmbehandlungspflicht, sie benötigen lediglich die üblichen EU-/EFTA-Dokumente.' },
+      { q: 'Was passiert, wenn ich meinen Hund ohne das richtige Dokument mitbringe?', a: 'An Landgrenzen (Eurotunnel, Fähren) prüft der Beförderer Ihre Unterlagen beim Check-in. Sind die Dokumente unvollständig, dürfen Sie nicht einsteigen, Sie verlieren die Buchung und müssen zu einem Tierarzt zurück (oft der lange Weg nach Hause). An Flughäfen prüft die Fluggesellschaft beim Boarding, bei Ablehnung kann der Hund nicht fliegen, und Sie müssen ihn möglicherweise in einer Tierpension zurücklassen und ohne ihn reisen. So oder so sind die Kosten erheblich: 200-1.800 € an verlorenen Buchungen, je nach Umständen.' },
+      { q: 'Kann ich innerhalb Europas allein mit dem AHC reisen?', a: 'Ja. Ein von einem zugelassenen Tierarzt (in den USA, der EU oder einem anderen Land) ausgestelltes AHC ist 4 Monate für Reisen innerhalb der EU und die Rückreise in Ihr Heimatland gültig. Sie müssen es für die Reise nicht in einen EU-Ausweis umwandeln.' },
+      { q: 'Wie früh sollte ich die Dokumente organisieren?', a: 'Für einen EU-Heimtierausweis: 6-8 Wochen im Voraus reichen völlig aus (der größte Teil der Zeit entfällt auf die 21-tägige Wartezeit nach der Tollwutimpfung). Für ein AHC: 2-3 Wochen im Voraus reichen aus, das AHC selbst muss jedoch innerhalb von 10 Tagen vor Abreise ausgestellt werden. Die Bandwurmbehandlung ist der einzige Schritt, der innerhalb von 5 Tagen vor der Ankunft erfolgt.' },
+      { q: 'Wird das AHC in Hotels akzeptiert?', a: 'Ja, die meisten haustierfreundlichen Hotels akzeptieren das AHC neben dem EU-Heimtierausweis als gültige Unterlage. Uns ist noch kein Hotel begegnet, das ausdrücklich den EU-Ausweis verlangt. Schreiben Sie dem Hotel vor der Buchung immer eine E-Mail, um sich zu vergewissern.' },
+      { q: 'Gibt es elektronische bzw. digitale Heimtierausweise?', a: 'Noch nicht. Der EU-Heimtierausweis bleibt ein physisches Papierdokument, es gibt keine an den Grenzen anerkannte digitale Version. Die Europäische Kommission hat eine künftige digitale Heimtieridentität diskutiert, aber Stand 2026 gibt es keinen Zeitplan.' },
+    ],
+    ctaTitle: 'Planen Sie eine Reise mit Ihrem Hund?',
+    ctaDesc: 'Entdecken Sie unsere über 90 haustierfreundlichen Reiseziele in ganz Europa, jeder Guide enthält länderspezifische Einreiseregeln, Tierarzt-Telefonnummern und eine Live-Karte von Booking.com mit haustierfreundlichen Hotels.',
+    ctaButton: 'Haustierfreundliche Reiseziele ansehen →',
+    ctaHref: '/de/destinations',
   },
 }
 

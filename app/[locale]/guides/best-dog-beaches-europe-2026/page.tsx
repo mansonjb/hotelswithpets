@@ -13,7 +13,7 @@ import StickyHotelCTA from '@/components/StickyHotelCTA'
 
 const SLUG = 'best-dog-beaches-europe-2026'
 
-type Locale = 'en' | 'fr' | 'es' | 'pt'
+type Locale = 'en' | 'fr' | 'es' | 'pt' | 'de'
 
 // Hand-curated top 25 dog beaches across Europe, sourced from our 105 city guides.
 // Each entry is a real verified beach with year-round or near-year-round dog access.
@@ -234,12 +234,14 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
     fr: `Les 25 meilleures plages dog-friendly d'Europe 2026, Accès toute l'année, sable, forêt et lacs`,
     es: `Las 25 mejores playas dog-friendly de Europa 2026, Acceso todo el año, arena, bosque y lagos`,
     pt: `As 25 melhores praias pet-friendly de Europa 2026, Acesso o ano inteiro, areia, floresta e lagos`,
+    de: `Die 25 besten Hundestrände in Europa 2026, ganzjähriger Zugang, Sand, Wald & Seen`,
   }
   const descs: Record<string, string> = {
     en: `Curated from our verified data across 105 European cities, the 25 best dog beaches with year-round access, dedicated dog zones, and direct rail or ferry from major cities. Atlantic, Mediterranean, North Sea, Baltic and lakes covered.`,
     fr: `Sélection issue de nos données vérifiées dans 105 villes européennes, les 25 meilleures plages canines avec accès toute l'année, zones canines dédiées et trains ou ferries directs depuis les grandes villes. Atlantique, Méditerranée, mer du Nord, Baltique et lacs couverts.`,
     es: `Selección de nuestros datos verificados en 105 ciudades europeas, las 25 mejores playas caninas con acceso todo el año, zonas caninas dedicadas y trenes o ferries directos desde las grandes ciudades. Atlántico, Mediterráneo, Mar del Norte, Báltico y lagos cubiertos.`,
     pt: `Seleção de nuestros datos verificados en 105 cidades europeias, as 25 melhores praias caninas com acesso o ano inteiro, zonas caninas dedicadas e comboios o ferries directos a partir das grandes cidades. Atlântico, Mediterrâneo, Mar do norte, Báltico e lagos cubiertos.`,
+    de: `Zusammengestellt aus unseren verifizierten Daten aus 105 europäischen Städten, die 25 besten Hundestrände mit ganzjährigem Zugang, ausgewiesenen Hundezonen und direkter Bahn- oder Fährverbindung von großen Städten. Atlantik, Mittelmeer, Nordsee, Ostsee und Seen abgedeckt.`,
   }
   const today = new Date().toISOString().split('T')[0]
   return {
@@ -440,6 +442,47 @@ const COPY: Record<Locale, {
       `A senhalización no sitio prevalece. As ordenanzas sobre praias europeias são municipales e cambian cada ano, comprueba sempre a sinal no sitio antes de soltar.`,
       `As leis de trela por nidificación se aplicam na maioria das praias rurales do 1 de abril ao 19 de agosto. O Mediterrâneo exime a maioria das zonas caninas vedadas; o norte de Europa é mais rigoroso.`,
       `Leva sempre uma bolsa. As multas van de 50 € (Faro, Lecce) a 100 € (Brighton, York) por infração e se controlan activamente pelos agentes municipales na maioria das praias desta lista.`,
+    ],
+  },
+  de: {
+    kicker: 'BESTE HUNDESTRÄNDE · AUSGABE 2026',
+    h1: `Die 25 besten Hundestrände in Europa`,
+    lede: `Zusammengestellt aus unseren verifizierten Daten aus ${destinations.length} europäischen Städten, wurde jeder Strand unten durch ein offizielles Gemeindeschild oder eine ganzjährige Verordnung als hundefreundlich zugänglich bestätigt, mit einer authentischen Beschreibung aus erster Hand von unserem Stadtrecherche-Team.`,
+    introTitle: 'Wie wir diese 25 ausgewählt haben',
+    introParas: [
+      `Die europäischen Gemeindevorschriften für Strände ändern sich jedes Jahr, doch der zugrunde liegende Bestand an "ganzjährig ausgeschilderten Hundestränden" ist klein. Wir sind von den ${BEACHES.reduce((n) => n + 1, 273)}+ Strandeinträgen in unseren Stadtführern ausgegangen, haben nur jene behalten, die a) eine ausgewiesene kommunale Hundezone ODER b) ganzjährigen Freilauf im ländlichen Abschnitt bieten, und anschließend die verbliebenen nach einer Mischung aus Erreichbarkeit (Entfernung zu einer großen Flughafen-Bahn-Stadt), Strandqualität (Sand vs. Kiesel) und ganzjähriger Nutzbarkeit gereiht.`,
+      `Jeder Eintrag unten verlinkt zurück zum zugehörigen Stadtführer, wo Sie die vollständige Strandkarte mit Adresse, Anreise, Tierarztnummer und nahegelegenen hundefreundlichen Hotels finden, jede Empfehlung lässt sich bis zum Buchungsschritt weiterverfolgen.`,
+    ],
+    countryTitle: 'Verteilung nach Land',
+    countryIntro: `Die besten Hundestrände Europas konzentrieren sich auf fünf Länder. Portugal (Algarve), Großbritannien (Yorkshire & Brighton), Italien (Salento), Dänemark (Aarhus) und die Niederlande (Nordseeküste) machen ${Math.round(100 * (BEACHES.filter((b) => ['Portugal', 'United Kingdom', 'Italy', 'Denmark', 'Netherlands'].includes(destinations.find((d) => d.slug === b.citySlug)?.country ?? '')).length / BEACHES.length))}% unserer Top 25 aus.`,
+    countriesLabel: 'Top-Länder',
+    rankingTitle: 'Die vollständige Rangliste',
+    rankLabel: '#',
+    yearRoundBadge: 'Ganzjährig',
+    seasonalBadge: 'Saisonal',
+    coastLabels: { atlantic: 'Atlantik', mediterranean: 'Mittelmeer', 'north-sea': 'Nordsee', baltic: 'Ostsee', lake: 'See / Fluss' },
+    ctaTitle: 'Finden Sie ein haustierfreundliches Hotel in der Nähe dieser Strände',
+    ctaDesc: `Jeder Strand in der Rangliste verlinkt zu seinem zugehörigen Stadtführer, mit verifizierten haustierfreundlichen Hotels (5+ pro Stadt), Haustiergebühren in EUR und direkten Booking.com-Affiliate-Links.`,
+    ctaButton: 'Alle Reiseziele ansehen →',
+    faqTitle: 'Häufig gestellte Fragen',
+    faqs: [
+      { q: 'Sind Hunde im Sommer an europäischen Stränden erlaubt?', a: `Das hängt vom Land und vom Strand ab. Die meisten Gemeindestrände in Frankreich, Italien, Spanien und Portugal schließen Hunde vom 1. Juni bis 15.-30. September aus, außer in ausgewiesenen Hundezonen. Großbritannien, die Niederlande, Dänemark und Finnland haben deutlich großzügigere Regeln mit ganzjährigem Zugang an den meisten Stränden.` },
+      { q: 'Welches europäische Land hat die meisten hundefreundlichen Strände?', a: `In absoluten Zahlen: Portugal (Algarve-Küste), Großbritannien (Strandpromenaden von Yorkshire und Brighton) und Italien (Salento, Ligurien). Pro Kopf: Dänemark und die Niederlande, wo die meisten Nordseestrände außerhalb der zentralen Touristenzonen ganzjährig Hunde akzeptieren.` },
+      { q: `Kann ich meinen Hund in einem europäischen Zug zu einem Strand mitnehmen?`, a: `Ja. Niederländische NS-Züge nehmen angeleinte Hunde kostenlos und ohne Maulkorb mit, finnische VR-Züge ebenso. Die britischen LNER und ScotRail nehmen bis zu 2 Hunde kostenlos pro Fahrgast mit. SNCF (Frankreich), Trenitalia (Italien), CP (Portugal) und DB (Deutschland) verlangen ein Halbtarif-Ticket und einen Maulkorb für mittelgroße/große Hunde.` },
+      { q: 'Was ist mit heißem Sand im Sommer?', a: `Atlantik- und Mittelmeersand überschreitet im Juli/August 50 °C Oberflächentemperatur, Pfotenverbrennungen sind real. Schuhe, Pfotenbalsam und Strandzeit vor 10:00 / nach 18:00 Uhr sind unverzichtbar. Nördliche Strände (Dänemark, UK, Niederlande) bleiben auch bei Hitzewellen unter 35 °C.` },
+      { q: 'Wo finde ich haustierfreundliche Hotels in der Nähe dieser Strände?', a: `Jeder Strand in dieser Rangliste verlinkt zu seinem zugehörigen Stadtführer, mit 5+ verifizierten haustierfreundlichen Hotels pro Stadt, Haustierzuschlägen in EUR und direkten Booking.com-Affiliate-Links.` },
+    ],
+    takeawayTitle: 'Die wichtigsten Erkenntnisse für 2026',
+    takeawayParas: [
+      `Ganzjähriger Hundezugang ist häufiger, als man denkt, ${STATS.yearRound} der 25 oben genannten Strände sind an jedem Tag des Jahres für Hunde zugänglich.`,
+      `Seen sind eine unterschätzte Option zum Hundeschwimmen. Trinkwasserseen der Klasse A wie Annecy (Frankreich) und die Seen von Tampere (Finnland) schlagen das Meerwasser in drei Punkten: sauberer, ruhiger, und der Hund kann direkt daraus trinken.`,
+      `Grenzüberschreitende Bahnverbindungen verändern die Landkarte. Maastricht (NL) ↔ Lüttich ↔ Aachen, Annecy ↔ Genf und York ↔ Filey bringen echte Hundestrände in eine Stunde Fahrzeit von drei der hundefreundlichsten Städte Europas.`,
+    ],
+    legalTitle: 'Rechtliche Hinweise, vor der Abfahrt lesen',
+    legalParas: [
+      `Die Beschilderung vor Ort hat immer Vorrang. Hunderegeln an europäischen Stränden werden auf Gemeindeebene festgelegt und ändern sich jährlich, prüfen Sie vor dem Ableinen stets das Schild vor Ort.`,
+      `Leinenpflichten wegen Vogelbrut gelten an den meisten ländlichen Stränden vom 1. April bis 19. August. Das Mittelmeer nimmt die meisten eingezäunten Hundezonen davon aus, Nordeuropa ist strenger.`,
+      `Führen Sie immer einen Kotbeutel mit. Bußgelder reichen von 50 € (Faro, Lecce) bis 100 € (Brighton, York) pro Verstoß und werden an den meisten Stränden dieser Liste aktiv von kommunalen Aufsichtspersonen kontrolliert.`,
     ],
   },
 }

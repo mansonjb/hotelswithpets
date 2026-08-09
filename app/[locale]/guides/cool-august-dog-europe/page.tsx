@@ -23,6 +23,7 @@ const STICKY_LABELS: Record<string, { label: string; cta: string }> = {
   fr: { label: 'Hotels pet-friendly frais en aout', cta: 'Voir les hotels' },
   es: { label: 'Hoteles pet-friendly frescos en agosto', cta: 'Ver hoteles' },
   pt: { label: 'Hoteis pet-friendly frescos em agosto', cta: 'Ver hoteis' },
+  de: { label: 'Kühle Augusthotels für Haustiere', cta: 'Hotels ansehen' },
 }
 
 export async function generateStaticParams() {
@@ -83,11 +84,13 @@ type Pick = {
   whyFr: string
   whyEs: string
   whyPt: string
+  whyDe?: string
   hotelName: string
   hotelEn: string
   hotelFr: string
   hotelEs: string
   hotelPt: string
+  hotelDe?: string
 }
 
 const PICKS: Pick[] = [
@@ -101,11 +104,13 @@ const PICKS: Pick[] = [
     whyFr: `La brise baltique maintient Tallinn sous 22C meme en aout, ce qui en fait la capitale la plus fraiche du continent europeen en ete. La plage de Pirita dispose d'une zone canine dedicee ou votre chien peut courir librement sur le sable. Le Parc Kadriorg couvre 70 hectares et accueille les chiens en laisse toute l'annee, avec de larges sentiers ombrages ideaux pour une balade en milieu de journee. Les tramways acceptent les chiens en laisse gratuitement dans toute la ville. Les prix sont environ la moitie de ce que l'on paye en Scandinavie pour le meme niveau de confort.`,
     whyEs: `La brisa baltica mantiene Tallinn por debajo de 22C incluso en agosto, lo que la convierte en la capital mas fresca del continente europeo en verano. La playa de Pirita tiene una zona canina dedicada donde tu perro puede correr libremente por la arena. El Parque Kadriorg abarca 70 hectareas y acepta perros con correa todo el ano, con amplios senderos sombreados ideales para un paseo a mediodia. Los tranvias admiten perros con correa de forma gratuita en toda la ciudad. Los precios son aproximadamente la mitad de lo que se paga en Escandinavia por el mismo nivel de hotel.`,
     whyPt: `A brisa baltica mantem Talim abaixo dos 22C mesmo em agosto, tornando-a a capital mais fresca do continente europeu no verao. A praia de Pirita tem uma zona canina dedicada onde o seu cao pode correr livremente pela areia. O Parque Kadriorg cobre 70 hectares e aceita caes a trela todo o ano, com amplos caminhos sombreados ideais para um passeio a meio do dia. Os eletricos aceitam caes a trela gratuitamente em toda a cidade. Os precos sao cerca de metade do que se paga na Escandinavia pelo mesmo nivel de hotel.`,
+    whyDe: `Die baltische Brise hält Tallinn auch im August unter 22C und macht die Stadt damit zur kühlsten Hauptstadt auf dem europäischen Festland im Sommer. Der Strand von Pirita verfügt über eine eigene Hundezone, in der Ihr Hund frei am Sand laufen kann. Der Kadriorg-Park erstreckt sich über 70 Hektar und ist das ganze Jahr über für Hunde an der Leine zugänglich, mit breiten schattigen Wegen, die sich ideal für einen Spaziergang am Mittag eignen. Straßenbahnen nehmen Hunde an der Leine in der gesamten Stadt kostenlos mit. Die Preise liegen bei etwa der Hälfte dessen, was Sie in Skandinavien für die gleiche Hotelqualität zahlen.`,
     hotelName: 'Hotel Telegraaf Autograph Collection',
     hotelEn: `Hotel Telegraaf Autograph Collection is a 5-star property in the historic former telegraph building of the Old Town, with a spa courtyard where you can decompress after a walk. Dogs up to 10 kg are welcomed at a modest fee, and the central location puts Kadriorg Park and the old town walls within 15 minutes on foot.`,
     hotelFr: `Hotel Telegraaf Autograph Collection est un 5 etoiles dans l'ancien batiment du telegraphe de la vieille ville, avec une cour spa ideale pour decompresser apres une balade. Les chiens jusqu'a 10 kg sont acceptes avec un supplement modere, et l'emplacement central permet d'atteindre le Parc Kadriorg et les remparts en 15 minutes a pied.`,
     hotelEs: `Hotel Telegraaf Autograph Collection es un 5 estrellas en el antiguo edificio del telegrafo del casco antiguo, con un patio spa perfecto para descansar tras un paseo. Se admiten perros hasta 10 kg con suplemento moderado, y la ubicacion central permite llegar al Parque Kadriorg y las murallas en 15 minutos a pie.`,
     hotelPt: `Hotel Telegraaf Autograph Collection e um 5 estrelas no antigo edificio do telegrafo da cidade velha, com um patio spa ideal para descansar apos um passeio. Caes ate 10 kg sao aceites com taxa moderada, e a localizacao central permite chegar ao Parque Kadriorg e as muralhas em 15 minutos a pe.`,
+    hotelDe: `Das Hotel Telegraaf Autograph Collection ist ein 5-Sterne-Haus im historischen ehemaligen Telegrafengebäude der Altstadt, mit einem Spa-Innenhof, in dem Sie nach einem Spaziergang entspannen können. Hunde bis 10 kg sind gegen eine moderate Gebühr willkommen, und die zentrale Lage bringt Sie in 15 Gehminuten zum Kadriorg-Park und zur Altstadtmauer.`,
   },
   {
     slug: 'riga',
@@ -330,6 +335,32 @@ const COPY = {
     ],
     relatedHeading: 'Ver tambem',
   },
+  de: {
+    eyebrow: 'HAUSTIERFREUNDLICHER AUGUST · ANTI-HITZE EUROPA',
+    title: `Wohin mit dem Hund im August: 8 kühle europäische Städte unter 25C`,
+    intro: `August ist der schlimmste Monat in Europa für Reisen mit einem hitzeempfindlichen Hund. Das gesamte Mittelmeerbecken übersteigt 30C, der Asphalt in Rom, Barcelona und Athen erreicht am Mittag 55C, und brachycephale Rassen (Bulldoggen, Möpse, Französische Bulldoggen, Boxer) können innerhalb weniger Minuten einen Hitzschlag erleiden. Die Antwort ist nicht, die Sommerreise abzusagen: Sie besteht darin, nach Norden auszuweichen. Diese acht Städte in den baltischen Staaten, Belgien und Mitteleuropa bleiben im August zuverlässig unter 25C, haben eine etablierte Hundekultur mit Freilaufparks und Hundestränden und bieten Hotels, die Haustiere ernst nehmen.`,
+    pickHeading: 'Die acht Augustempfehlungen (vom kühlsten sortiert)',
+    whyHere: 'Warum hier',
+    hotelLabel: 'Wo übernachten',
+    seeDestCta: 'Vollständiger Stadtführer →',
+    hotelCta: 'Verfügbarkeit ansehen →',
+    augustLabel: 'Aug. Durchschn. Höchstwert',
+    practicalHeading: 'Hitze im August: was Sie wissen müssen',
+    practical: [
+      { h: 'Warum August der schlimmste Monat für Hunde in Südeuropa ist', p: `Im Juli sind die Temperaturen in Südeuropa hoch, erreichen aber oft am frühen Nachmittag ihren Höhepunkt und sinken zum Abend etwas ab. Der August kehrt das um: Boden, Straßen und Gebäude haben sechs Wochen Hitze gespeichert und geben sie während der Nacht ab, sodass die nächtlichen Tiefstwerte in vielen Mittelmeerstädten über 25C bleiben. Für einen Hund, der nicht schwitzen kann (nur Hecheln, was oberhalb von 28C ineffizient ist), ist der August in Rom, Athen oder Sevilla wirklich gefährlich. Kurzköpfige Rassen, ältere Hunde und übergewichtige Hunde können die Körpertemperatur nicht ausreichend regulieren: Wählen Sie stattdessen eine nördliche Stadt oder reisen Sie in höhere Lagen.` },
+      { h: 'Der Vorteil des Baltikums', p: `Tallinn, Riga und Vilnius teilen sich einen speziellen Vorteil im August: Die Ostsee wirkt als Temperaturregler und hält die Küsten- und Küstennähe-Temperaturen 5 bis 8C unter dem mitteleuropäischen Binnenlanddurchschnitt. Diese Städte haben zudem die beste Kombination aus Hundekultur und Erschwinglichkeit in Europa: Freilaufparks, Hundestrände, kostenlose Mitnahme von Hunden in öffentlichen Verkehrsmitteln und Haustiergebühren in Hotels, die oft zu den niedrigsten der EU zählen. Budgetvergleich: Eine Nacht im 4-Sterne-Hotel in Tallinn kostet im Schnitt 80-120 Euro, gegenüber 180-250 Euro für vergleichbare Qualität in Stockholm oder 130-200 Euro in Helsinki.` },
+      { h: 'Hunde in mitteleuropäischen Parks: das psie biegowisko', p: `Krakau und Wroclaw verfügen beide über eine spezifisch polnische Einrichtung: das psie biegowisko, eine eigene Hundeauslaufzone innerhalb eines öffentlichen Parks. Dies sind eingezäunte Freilaufflächen, oft mit Wasserstellen, die auf den Parkkarten der Stadt eingezeichnet und von anderen Parkbesuchern respektiert werden. Das Äquivalent in Belgien ist die hondenlosloopweide (Freilaufwiese), zu finden im Citadelpark Gent und ähnlichen Grünflächen. Wenn Ihr Hund im August Freilaufzeit braucht, sind dies Ihre garantierten Optionen in Städten, die sonst in öffentlichen Räumen eine Leine vorschreiben.` },
+      { h: 'Hotelbuchung im August: Timing und was Sie fragen sollten', p: `Der August ist die Hochsaison des europäischen Tourismus. In den baltischen Hauptstädten führt die Sommernachfrage dazu, dass gute haustierfreundliche Hotels bereits im Juni für die August-Spitzenwochen ausgebucht sind (1. bis 10. August und 20. bis 31. August sind am stärksten gefragt). Buchen Sie früh und klären Sie bei der Buchung zwei Dinge direkt mit dem Hotel: das Größenlimit für den Hund (viele mitteleuropäische Häuser begrenzen auf 10 kg oder 15 kg) und ob die Haustierrichtlinie auch für gemeinsam genutzte Bereiche wie die Bar-Terrasse oder den Frühstücksraum gilt. In Brügge und Gent füllen die Gentse Feesten (Mitte August) die Stadt: Buchen Sie mindestens 8 Wochen im Voraus.` },
+    ],
+    faqHeading: 'Häufig gestellte Fragen',
+    faqs: [
+      { q: 'Ist der August günstiger als der Juli in Nordeuropa?', a: `In den baltischen Hauptstädten ist der August tatsächlich etwas teurer als der Juli, da der internationale Tourismus in den ersten beiden Augustwochen seinen Höhepunkt erreicht. Die Preise sinken merklich nach dem 20. August, wenn die Schulferien in den meisten Teilen Nordeuropas enden. Bei Flexibilität bietet der Zeitraum vom 21. August bis 5. September die beste Kombination aus kühlen Temperaturen und niedrigeren Preisen. In Belgien (Brügge, Gent) ist der gesamte August Hochsaison, ohne nennenswerte Preisnachlässe vor Mitte September.` },
+      { q: 'Darf mein Hund im August an einen baltischen Strand?', a: `Ja, unter Bedingungen. Der Strand von Pirita in Tallinn hat eine eigene Hundezone, die ganzjährig zugänglich ist. Der Kurortstrand von Jurmala bei Riga hat im Sommer einen eigenen Hundebereich. In Estland und Lettland sind Hunde außerhalb der ausgewiesenen Badezonen an den Stränden generell erlaubt. Litauische Strände (Palanga, Nida) wenden auf den Hauptabschnitten vom 1. Juni bis 30. September strengere saisonale Regeln an. Prüfen Sie immer die aktuellen örtlichen Vorschriften am Zugangspunkt, da sich die Regeln von Jahr zu Jahr ändern können. Nehmen Sie einen Wassernapf mit: Der Sand an baltischen Stränden wird heißer, als die Lufttemperatur vermuten lässt.` },
+      { q: 'Ist Brügge im August ohne die Kanalboote mit Hund machbar?', a: `Völlig. Die Treidelpfade entlang jedes Kanals in Brügge bilden ein komplettes, kostenloses Wegenetz und sind in vielerlei Hinsicht besser als die Touristenboote: Sie gehen in Ihrem eigenen Tempo, haben Schatten von den Bäumen am Pfad, und Ihr Hund ist bei Ihnen. Der Minnewaterpark (30 Minuten zu Fuß vom Zentrum) und der Innenhof des Beginenhofs (Hunde an der Leine außerhalb des Kirchengebäudes geduldet) bieten zwei weitere ruhige Orte. Der einzige Nachteil ist das August-Touristengedränge im Zentrum: Planen Sie Ihre Hauptspaziergänge vor 9 Uhr oder nach 19 Uhr.` },
+      { q: 'Was ist mit dem Balkan im August? Ist nur Slowenien in Ordnung?', a: `Slowenien ist die Ausnahme auf dem Balkan, da Ljubljana auf 295 Metern Höhe liegt und von alpinen Luftströmungen profitiert, die die Augusttemperaturen auf 24C begrenzen. Die kroatische Küste (Dubrovnik, Split, Hvar) erreicht im August 30-34C und ist für hitzeempfindliche Hunde wirklich ungeeignet. Montenegro und Albanien sind noch heißer. Bosnien in höheren Lagen (Sarajevo 26-28C) ist grenzwertig. Serbien (Belgrad 32C im August) und Bulgarien (Sofia 29C) sind zu heiß. Wenn Sie im August mit Hund an die Adria möchten, sind die besten Optionen die slowenische Küste (Piran, Portoroz) mit 26-27C oder die nördlichen kroatischen Inseln vor dem 20. des Monats.` },
+    ],
+    relatedHeading: 'Siehe auch',
+  },
 } as const
 
 type Locale = keyof typeof COPY
@@ -378,12 +409,14 @@ export default async function Page({
     if (locale === 'fr') return p.whyFr
     if (locale === 'es') return p.whyEs
     if (locale === 'pt') return p.whyPt
+    if (locale === 'de') return p.whyDe ?? p.whyEn
     return p.whyEn
   }
   const pickHotel = (p: Pick) => {
     if (locale === 'fr') return p.hotelFr
     if (locale === 'es') return p.hotelEs
     if (locale === 'pt') return p.hotelPt
+    if (locale === 'de') return p.hotelDe ?? p.hotelEn
     return p.hotelEn
   }
 

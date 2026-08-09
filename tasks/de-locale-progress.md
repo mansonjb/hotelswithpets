@@ -168,3 +168,10 @@ city-trip-chien, road-trip-chien, passeport-animal, avion-animal, train-avec-chi
 Prompt agent = "add de block mirroring en to every en/fr/es/pt object (label map + COPY) + de branch to every
 accessor/dispatcher + whyDe/hotelDe on PICKS + widen type Locale/Pick; native Sie; PROPER UMLAUTS; zero em-dash;
 backticks for apostrophes; tsc -p . to verify". Build après chaque wave.
+
+## WAVE guide-pages TERMINÉE (2026-08-09)
+Les 46 pages guides + 2 composants partagés (GuideFooter, CityTripGuide) ont désormais une couverture de complète (COPY + metadata + PICKS/flat-fields *De + accessors branchés + types élargis). Build vert, check-i18n 0 erreur, zéro em-dash, umlauts natifs.
+- Wave 1 (15 EN evergreen) + wave 2 (14 EN) + wave 3 (17 FR-slug) + 3 correctifs résiduels (best-dog-beaches whyDe, fenced-dog-parks descDe, dog-beaches-france ternaires).
+- Shared: GuideFooter (25 guides label+desc + TITLES + coercion) => footer allemand sur tout le site guides.
+- Seule page non traduite volontairement: dog-friendly-europe-by-month (redirect pur, pas de contenu).
+LOCALE DE = 100% (chrome + templates + 418 city-guides + 46 guide pages). Reste éventuel: sous-pages [month] du planner si elles ont un COPY propre (à vérifier un jour).

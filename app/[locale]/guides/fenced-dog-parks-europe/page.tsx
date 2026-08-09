@@ -24,6 +24,7 @@ type Park = {
   descEn: string
   descFr: string
   descEs: string
+  descDe?: string
 }
 
 const PARKS: Park[] = [
@@ -36,6 +37,7 @@ const PARKS: Park[] = [
     descEn: `Aarhus's largest official off-leash dog forest (hundeskov), 25 hectares of fenced beech and oak woodland inside the larger Marselisborg Forest. Multiple walking trails, a small clearing for ball games, and direct access to the rest of the 1,400-hectare forest on leash.`,
     descFr: `Plus grande forêt sans laisse officielle d'Aarhus (hundeskov), 25 hectares de hêtraie et chênaie clôturées à l'intérieur de la grande forêt de Marselisborg. Plusieurs sentiers, petite clairière pour jouer à la balle, et accès direct au reste des 1 400 hectares en laisse.`,
     descEs: `El mayor bosque sin correa oficial de Aarhus (hundeskov), 25 hectáreas de hayedo y robledal vallados dentro del mayor bosque de Marselisborg. Varios senderos, pequeño claro para jugar a la pelota, y acceso directo al resto de las 1.400 hectáreas con correa.`,
+    descDe: `Aarhus' größter offizieller Freilaufwald für Hunde (hundeskov), 25 Hektar eingezäunter Buchen- und Eichenwald innerhalb des größeren Marselisborg-Waldes. Mehrere Wanderwege, eine kleine Lichtung für Ballspiele und direkter Zugang zum restlichen 1.400 Hektar großen Wald an der Leine.`,
   },
   {
     citySlug: "amsterdam",
@@ -45,6 +47,7 @@ const PARKS: Park[] = [
     descEn: `A fully fenced off-leash dog area on Kruysweerstraat in the Amstel/Oost quarter, one of the few completely enclosed dog spaces inside the ring. The full fencing gives dogs with unreliable recall a secure place to run and socialise, with benches for owners. Open and free year-round.`,
     descFr: `Une aire canine entièrement clôturée sur la Kruysweerstraat, dans le quartier de l'Amstel (Oost), l'un des rares espaces canins totalement fermés à l'intérieur du périphérique. La clôture intégrale offre aux chiens au rappel incertain un endroit sûr pour courir et se sociabiliser, avec des bancs pour les maîtres. Ouverte et gratuite toute l'année.`,
     descEs: `Una zona canina totalmente vallada en la calle Kruysweerstraat, en el barrio del Amstel (Oost), uno de los pocos espacios para perros completamente cerrados dentro del anillo. El vallado íntegro ofrece a los perros con poca obediencia a la llamada un lugar seguro para correr y socializar, con bancos para los dueños. Abierta y gratuita todo el año.`,
+    descDe: `Eine vollständig eingezäunte Freilauffläche für Hunde an der Kruysweerstraat im Viertel Amstel/Oost, einer der wenigen komplett umschlossenen Hundeplätze innerhalb des Rings. Die durchgehende Einzäunung bietet Hunden mit unzuverlässigem Rückruf einen sicheren Ort zum Rennen und Sozialisieren, mit Bänken für die Halter. Ganzjährig geöffnet und kostenlos.`,
   },
   {
     citySlug: "barcelona",
@@ -55,6 +58,7 @@ const PARKS: Park[] = [
     descEn: `A busy fenced canine area of over 800 square metres inside Parc de Joan Miró, in the dense Eixample district beside the former bullring (now Las Arenas). Fully enclosed for off-leash play, it fills up on weekends given how many dog owners live nearby, and is shaded by the park's mature trees. Metro Espanya is two minutes away.`,
     descFr: `Une aire canine clôturée très fréquentée de plus de 800 mètres carrés à l'intérieur du Parc de Joan Miró, dans le dense quartier de l'Eixample, à côté des anciennes arènes (aujourd'hui Las Arenas). Entièrement fermée pour la liberté sans laisse, elle se remplit le week-end vu le nombre de maîtres du quartier, et reste ombragée par les arbres du parc. Le métro Espanya est à deux minutes.`,
     descEs: `Una concurrida área canina vallada de más de 800 metros cuadrados dentro del Parc de Joan Miró, en el denso barrio del Eixample, junto a la antigua plaza de toros (hoy Las Arenas). Totalmente cerrada para el juego sin correa, se llena los fines de semana por la cantidad de dueños que viven cerca, y da sombra el arbolado del parque. El metro Espanya está a dos minutos.`,
+    descDe: `Eine belebte eingezäunte Hundefläche von über 800 Quadratmetern im Parc de Joan Miró, im dicht besiedelten Viertel Eixample neben der ehemaligen Stierkampfarena (heute Las Arenas). Vollständig umzäunt für den Freilauf, füllt sie sich am Wochenende, da viele Hundehalter in der Nähe wohnen, und liegt im Schatten der alten Bäume des Parks. Die Metrostation Espanya ist zwei Minuten entfernt.`,
   },
   {
     citySlug: "basel",
@@ -64,6 +68,7 @@ const PARKS: Park[] = [
     descEn: `A free animal park set in floodplain forest, with paddocks for deer, ibex and Highland cattle alongside leashed walking paths and a small river beach. Dogs are welcome on a leash inside the park itself, and the surrounding woods (signposted Bannwald) offer off-leash freedom on th`,
     descFr: `Un parc animalier gratuit installé dans la forêt alluviale, avec enclos pour cerfs, bouquetins et vaches Highland le long de sentiers en laisse et d'une petite plage de rivière. Les chiens sont les bienvenus en laisse dans le parc, et les bois environnants (Bannwald, signalé) off`,
     descEs: `Un parque de animales gratuito en pleno bosque aluvial, con recintos para ciervos, íbices y vacas Highland junto a senderos con correa y una pequeña playa fluvial. Los perros son bienvenidos con correa dentro del parque, y los bosques colindantes (señalizados Bannwald) ofrecen li`,
+    descDe: `Ein kostenloser Tierpark im Auenwald, mit Gehegen für Rehe, Steinböcke und Hochlandrinder entlang von Wegen an der Leine und einem kleinen Flussstrand. Hunde sind an der Leine im Park selbst willkommen, und die umliegenden Wälder (ausgeschildert als Bannwald) bieten Freilauf a`,
   },
   {
     citySlug: "basel",
@@ -73,6 +78,7 @@ const PARKS: Park[] = [
     descEn: `A 6-hectare central park laid out on a former cemetery, with mature plane trees, wide lawns and a small lake. Dogs must stay on the leash but the park is open all night, the lawns are vast and shaded, and a fenced playground area helps families keep things calm. The closest serio`,
     descFr: `Un parc central de 6 hectares aménagé sur un ancien cimetière, avec platanes centenaires, pelouses ouvertes et un petit étang. Les chiens doivent rester en laisse, mais le parc est ouvert toute la nuit, les pelouses sont vastes et ombragées, et une aire de jeu clôturée permet de `,
     descEs: `Un parque central de 6 hectáreas trazado sobre un antiguo cementerio, con plátanos centenarios, amplios céspedes y un pequeño estanque. Los perros deben ir con correa, pero el parque está abierto toda la noche, los céspedes son amplios y sombreados, y una zona de juegos vallada a`,
+    descDe: `Ein 6 Hektar großer Zentralpark auf einem ehemaligen Friedhof, mit alten Platanen, weiten Rasenflächen und einem kleinen Teich. Hunde müssen an der Leine bleiben, doch der Park ist die ganze Nacht geöffnet, die Rasenflächen sind weitläufig und schattig, und ein eingezäunter Spielplatzbereich hilft Familien, alles ruhig zu halten. Der nächste ernstzunehmende`,
   },
   {
     citySlug: "belgrade",
@@ -83,6 +89,7 @@ const PARKS: Park[] = [
     descEn: `A 9-hectare central park around the St Mark's Church, with a fenced municipal dog park on the south side that opened in 2018. Mature plane trees, gravel paths, and several café-kiosks; the dog enclosure has agility equipment and water taps. Three blocks east of the Skadarlija boh`,
     descFr: `Parc central de 9 hectares autour de l'église Saint-Marc, avec un parc canin municipal clôturé du côté sud, ouvert en 2018. Platanes anciens, allées de gravier et plusieurs kiosques-cafés ; l'enclos canin dispose d'agility et de robinets. À trois pâtés de maisons à l'est de Skada`,
     descEs: `Parque central de 9 hectáreas en torno a la iglesia de San Marcos, con un parque canino municipal vallado en el lado sur, inaugurado en 2018. Plátanos maduros, paseos de grava y varios kioskos-café; el recinto canino tiene agility y fuentes. A tres manzanas al este de Skadarlija.`,
+    descDe: `Ein 9 Hektar großer Zentralpark rund um die Sankt-Markus-Kirche, mit einem eingezäunten städtischen Hundepark auf der Südseite, der 2018 eröffnet wurde. Alte Platanen, Kieswege und mehrere Café-Kioske; das Hundegehege verfügt über Agility-Geräte und Wasserzapfstellen. Drei Straßenblocks östlich vom Künstlerviertel Skadarlija.`,
   },
   {
     citySlug: "berlin",
@@ -91,6 +98,7 @@ const PARKS: Park[] = [
     descEn: `Berlin's oldest public park (1848), Volkspark Friedrichshain occupies 52 hectares in the heart of East Berlin's most vibrant neighbourhoods. The park has several large off-leash areas including the Hundewiese (dog meadow) near the north entrance, which is one of the best-maintain`,
     descFr: `Le plus ancien parc public de Berlin (1848), le Volkspark Friedrichshain occupe 52 hectares au cœur des quartiers les plus animés de Berlin-Est. Le parc dispose de plusieurs grandes zones de liberté, dont la Hundewiese (prairie pour chiens) près de l'entrée nord, l'une des zones `,
     descEs: `El parque público más antiguo de Berlín (1848), el Volkspark Friedrichshain ocupa 52 hectáreas en el corazón de los barrios más vibrantes del Berlín del Este. El parque tiene varias zonas grandes sin correa, incluida la Hundewiese (pradera para perros) cerca de la entrada norte, `,
+    descDe: `Berlins ältester öffentlicher Park (1848), der Volkspark Friedrichshain erstreckt sich über 52 Hektar im Herzen der lebendigsten Viertel Ost-Berlins. Der Park bietet mehrere große Freilaufflächen, darunter die Hundewiese nahe dem Nordeingang, eine der bestgepflegten `,
   },
   {
     citySlug: "bologna",
@@ -99,6 +107,7 @@ const PARKS: Park[] = [
     descEn: `A neighbourhood park in the Savena district with a fully fenced off-leash area specifically designed for dogs. The fenced enclosure makes it ideal for dogs with unreliable recall or those who need to exercise in a secure space. Smaller than Giardini Margherita but well-maintained`,
     descFr: `Un parc de quartier dans le district de Savena avec une zone de liberté entièrement clôturée spécifiquement conçue pour les chiens. L'enclos clôturé le rend idéal pour les chiens dont le rappel est peu fiable ou ceux qui ont besoin de s'exercer dans un espace sécurisé. Plus petit`,
     descEs: `Un parque de barrio en el distrito de Savena con una zona de libertad completamente vallada diseñada específicamente para perros. El recinto vallado lo hace ideal para perros con vuelta poco fiable o aquellos que necesitan ejercitarse en un espacio seguro. Más pequeño que los Gia`,
+    descDe: `Ein Stadtteilpark im Bezirk Savena mit einer vollständig eingezäunten Freilauffläche, die eigens für Hunde gestaltet wurde. Das eingezäunte Gehege macht ihn ideal für Hunde mit unzuverlässigem Rückruf oder für alle, die in einer sicheren Umgebung Auslauf brauchen. Kleiner als die Gia`,
   },
   {
     citySlug: "bordeaux",
@@ -108,6 +117,7 @@ const PARKS: Park[] = [
     descEn: `Strictly speaking Darwin is not a park, it is a converted military complex, but it functions as Bordeaux's most dog-permissive open space. The vast courtyard, rooftop terrace garden, and riverside access combine to create a sprawling urban environment where dogs move freely. Th`,
     descFr: `À strictement parler, Darwin n'est pas un parc, c'est un ancien complexe militaire reconverti, mais il fonctionne comme l'espace le plus dog-permissif de Bordeaux. La vaste cour intérieure, la terrasse-jardin sur les toits et l'accès aux berges se combinent pour créer un enviro`,
     descEs: `Estrictamente hablando, Darwin no es un parque, es un complejo militar reconvertido, pero funciona como el espacio más permisivo para perros de Burdeos. El vasto patio, el jardín en la azotea y el acceso al río se combinan para crear un entorno urbano extenso donde los perros s`,
+    descDe: `Streng genommen ist Darwin kein Park, sondern ein umgebauter Militärkomplex, doch er fungiert als der hundefreundlichste Freiraum von Bordeaux. Der weitläufige Innenhof, der Dachterrassengarten und der Zugang zum Flussufer verbinden sich zu einer ausgedehnten urbanen Umgebung, in der sich Hunde fr`,
   },
   {
     citySlug: "bratislava",
@@ -118,6 +128,7 @@ const PARKS: Park[] = [
     descEn: `Central Europe's oldest public park, opened in 1776 in Baroque style on the south bank of the Danube, directly opposite the Old Town and reachable in five minutes over the SNP Bridge. Wide gravel paths, mature plane trees, and a small fenced playground at the centre. Dogs are we`,
     descFr: `Plus vieux parc public d'Europe centrale, ouvert en 1776 en style baroque sur la rive sud du Danube, juste en face de la vieille ville, à cinq minutes par le pont SNP. Larges allées de gravier, platanes anciens et une petite aire de jeux clôturée au centre. Les chiens y sont les`,
     descEs: `El parque público más antiguo de Europa Central, inaugurado en 1776 en estilo barroco en la orilla sur del Danubio, justo enfrente del casco antiguo y a cinco minutos cruzando el puente SNP. Amplios paseos de grava, plátanos maduros y una pequeña zona de juegos vallada en el cent`,
+    descDe: `Der älteste öffentliche Park Mitteleuropas, 1776 im Barockstil am Südufer der Donau angelegt, direkt gegenüber der Altstadt und in fünf Minuten über die SNP-Brücke erreichbar. Breite Kieswege, alte Platanen und ein kleiner eingezäunter Spielplatz in der Mitte. Hunde sind w`,
   },
   {
     citySlug: "brno",
@@ -128,6 +139,7 @@ const PARKS: Park[] = [
     descEn: `Brno's oldest public park (opened 1786), formal allées, mature trees, a pond, ornamental fountains. Two fenced psí louka zones in the south and east corners. Free public WiFi, café, summer concerts.`,
     descFr: `Le plus ancien parc public de Brno (ouvert en 1786), allées formelles, arbres mûrs, étang, fontaines ornementales. Deux zones psí louka clôturées dans les coins sud et est. WiFi public gratuit, café, concerts d'été.`,
     descEs: `El parque público más antiguo de Brno (abierto en 1786), paseos formales, árboles maduros, estanque, fuentes ornamentales. Dos zonas psí louka valladas en las esquinas sur y este. WiFi público gratuito, café, conciertos de verano.`,
+    descDe: `Brünns ältester öffentlicher Park (eröffnet 1786), formale Alleen, alte Bäume, ein Teich, Zierbrunnen. Zwei eingezäunte psí-louka-Zonen in der südlichen und östlichen Ecke. Kostenloses öffentliches WLAN, Café, Sommerkonzerte.`,
   },
   {
     citySlug: "bucharest",
@@ -138,6 +150,7 @@ const PARKS: Park[] = [
     descEn: `Bucharest's largest park, 187 hectares around the central Herastrau Lake, with two fully fenced municipal dog parks (the larger near the Aviator entrance, a medium-sized one near the Mioriță fountain). Beyond the enclosures, the park's footpaths are leash-friendly and the lakesid`,
     descFr: `Plus grand parc de Bucarest, 187 hectares autour du lac central de Herastrau, avec deux parcs canins municipaux entièrement clôturés (le plus grand près de l'entrée Aviator, un de taille moyenne près de la fontaine Mioriță). Au-delà des enclos, les sentiers du parc sont accessibl`,
     descEs: `El mayor parque de Bucarest, 187 hectáreas alrededor del lago central de Herastrau, con dos parques caninos municipales totalmente vallados (el mayor cerca de la entrada Aviator, otro mediano junto a la fuente Mioriță). Más allá de los recintos, los caminos del parque son accesib`,
+    descDe: `Bukarests größter Park, 187 Hektar rund um den zentralen Herăstrău-See, mit zwei vollständig eingezäunten städtischen Hundeparks (der größere nahe dem Aviator-Eingang, ein mittelgroßer nahe dem Mioriță-Brunnen). Außerhalb der Gehege sind die Fußwege des Parks leinenfreundlich und das Seeuf`,
   },
   {
     citySlug: "bucharest",
@@ -148,6 +161,7 @@ const PARKS: Park[] = [
     descEn: `An 86-hectare park around the Tineretului Lake, less crowded than Herastrau or Cismigiu. The wide open lawns are popular with dog owners for ball-throwing; a fenced municipal dog park sits on the eastern edge. Metro M2 stops at Tineretului station, two minutes from the park gate.`,
     descFr: `Parc de 86 hectares autour du lac de Tineretului, moins fréquenté que Herastrau ou Cismigiu. Les vastes pelouses ouvertes sont prisées des propriétaires pour le lancer de balle ; un parc canin municipal clôturé se trouve sur la rive est. Le métro M2 s'arrête à la station Tineretu`,
     descEs: `Parque de 86 hectáreas alrededor del lago Tineretului, menos concurrido que Herastrau o Cismigiu. Las amplias praderas abiertas son favoritas para lanzar pelotas; hay un parque canino municipal vallado en el extremo este. El metro M2 para en la estación Tineretului, a dos minutos`,
+    descDe: `Ein 86 Hektar großer Park rund um den Tineretului-See, weniger überlaufen als Herăstrău oder Cișmigiu. Die weiten offenen Rasenflächen sind bei Hundehaltern zum Ballspielen beliebt; ein eingezäunter städtischer Hundepark liegt am östlichen Rand. Die Metro M2 hält an der Station Tineretului, zwei Minuten vom Parktor entfernt.`,
   },
   {
     citySlug: "budapest",
@@ -157,6 +171,7 @@ const PARKS: Park[] = [
     descEn: `A fully fenced dog adventure park inside Városliget (City Park), separated from the rest of the park by a 1.2-metre fence and split into large-dog and small-dog sections. One of the busiest dog parks in Europe, with up to 800 dogs a day, it has agility obstacles, water points and shaded seating. Metro M1 to Széchenyi fürdő stops at the edge.`,
     descFr: `Un parc d'aventure canin entièrement clôturé au sein du Városliget (parc de la Ville), séparé du reste du parc par une clôture d'1,2 mètre et divisé en zones pour grands et petits chiens. L'un des parcs canins les plus fréquentés d'Europe, avec jusqu'à 800 chiens par jour, il propose des agrès d'agility, des points d'eau et des bancs ombragés. La ligne M1 (arrêt Széchenyi fürdő) dessert l'entrée.`,
     descEs: `Un parque de aventuras canino totalmente vallado dentro del Városliget (parque de la Ciudad), separado del resto del parque por una valla de 1,2 metros y dividido en zonas para perros grandes y pequeños. Uno de los parques caninos más concurridos de Europa, con hasta 800 perros al día, cuenta con obstáculos de agility, fuentes de agua y bancos con sombra. La línea M1 (parada Széchenyi fürdő) llega hasta la entrada.`,
+    descDe: `Ein vollständig eingezäunter Hunde-Erlebnispark im Városliget (Stadtwäldchen), durch einen 1,2 Meter hohen Zaun vom übrigen Park getrennt und in Bereiche für große und kleine Hunde unterteilt. Einer der meistbesuchten Hundeparks Europas mit bis zu 800 Hunden pro Tag, mit Agility-Hindernissen, Wasserstellen und schattigen Sitzgelegenheiten. Die Metrolinie M1 hält am Rand an der Station Széchenyi fürdő.`,
   },
   {
     citySlug: "copenhagen",
@@ -166,6 +181,7 @@ const PARKS: Park[] = [
     descEn: `Central Copenhagen's best-known fenced dog runs sit inside Fælledparken, the city's largest park in Østerbro, with separate enclosures for large and small dogs. Fully fenced grass and gravel, benches and water, open around the clock and free. Handy after a leashed walk across the rest of the 58-hectare park.`,
     descFr: `Les enclos canins clôturés les plus connus du centre de Copenhague se trouvent dans le Fælledparken, le plus grand parc de la ville à Østerbro, avec des zones séparées pour grands et petits chiens. Herbe et gravier entièrement clôturés, bancs et point d'eau, ouverts en continu et gratuits. Pratique après une promenade en laisse dans le reste des 58 hectares du parc.`,
     descEs: `Los recintos caninos vallados más conocidos del centro de Copenhague están dentro del Fælledparken, el mayor parque de la ciudad en Østerbro, con zonas separadas para perros grandes y pequeños. Césped y grava totalmente vallados, bancos y fuente de agua, abiertos las 24 horas y gratuitos. Práctico tras un paseo con correa por el resto de las 58 hectáreas del parque.`,
+    descDe: `Die bekanntesten eingezäunten Hundeauslaufflächen im Zentrum Kopenhagens liegen im Fælledparken, dem größten Park der Stadt in Østerbro, mit getrennten Gehegen für große und kleine Hunde. Vollständig eingezäunter Rasen und Kies, Bänke und Wasser, rund um die Uhr geöffnet und kostenlos. Praktisch nach einem Spaziergang an der Leine durch den restlichen 58 Hektar großen Park.`,
   },
   {
     citySlug: "cordoba",
@@ -176,6 +192,7 @@ const PARKS: Park[] = [
     descEn: `Cordoba's largest urban park (37 ha), a short walk south of the historic centre. Features a fenced Área de Esparcimiento Canino (off-leash zone), wide tree-lined avenues, fountains, and a small lake. Locally beloved for early-morning dog walks before the summer heat builds up.`,
     descFr: `Plus grand parc urbain de Cordoue (37 ha), à courte distance à pied au sud du centre historique. Possède une Área de Esparcimiento Canino clôturée (zone sans laisse), de larges avenues arborées, des fontaines et un petit lac. Apprécié des locaux pour les promenades canines au pet`,
     descEs: `El mayor parque urbano de Córdoba (37 ha), a poca distancia a pie al sur del centro histórico. Cuenta con un Área de Esparcimiento Canino vallada (zona sin correa), amplias avenidas arboladas, fuentes y un pequeño lago. Muy querido por los locales para paseos caninos a primera ho`,
+    descDe: `Córdobas größter Stadtpark (37 ha), ein kurzer Spaziergang südlich des historischen Zentrums. Verfügt über eine eingezäunte Área de Esparcimiento Canino (Freilaufzone), breite baumgesäumte Alleen, Brunnen und einen kleinen See. Bei Einheimischen beliebt für frühmorgendliche Hundespaziergänge, bevor die Sommerhitze einsetzt.`,
   },
   {
     citySlug: "dublin",
@@ -186,6 +203,7 @@ const PARKS: Park[] = [
     descEn: ``,
     descFr: `Avec ses 710 hectares, Phoenix Park est l'un des plus grands parcs urbains enclos d'Europe, plus grand que Central Park et Hyde Park réunis. C'est la destination de promenade canine par excellence pour les Dublinois. Les vastes prairies ouvertes, les longues allées bordées d'arb`,
     descEs: `Con 710 hectáreas, Phoenix Park es uno de los parques urbanos cerrados más grandes de Europa, más grande que Central Park y Hyde Park juntos. Es el destino de paseo canino definitivo para los dublineses. Las vastas praderas abiertas, las largas avenidas arboladas y las tranquila`,
+    descDe: `Mit 710 Hektar ist der Phoenix Park einer der größten eingefriedeten Stadtparks Europas, größer als Central Park und Hyde Park zusammen. Er ist das ultimative Ziel für Hundespaziergänge in Dublin. Die weiten offenen Wiesen, die langen baumgesäumten Alle`,
   },
   {
     citySlug: "dusseldorf",
@@ -196,6 +214,7 @@ const PARKS: Park[] = [
     descEn: `Germany's first public park (1769), 28 hectares of English-landscape lawns and ponds in the very centre of Düsseldorf, between the Königsallee and the Rhine. Dogs must be leashed throughout the park; an off-leash Hundewiese borders the eastern edge along the Inselstraße for free `,
     descFr: `Premier parc public d'Allemagne (1769), 28 hectares de pelouses paysagères à l'anglaise et d'étangs au cœur même de Düsseldorf, entre la Königsallee et le Rhin. Les chiens doivent être tenus en laisse dans tout le parc ; une Hundewiese sans laisse longe le côté est, le long de la`,
     descEs: `Primer parque público de Alemania (1769), 28 hectáreas de praderas paisajísticas al estilo inglés y estanques en el mismo centro de Düsseldorf, entre la Königsallee y el Rin. Los perros deben ir con correa en todo el parque; una Hundewiese sin correa bordea el lado este a lo larg`,
+    descDe: `Deutschlands erster öffentlicher Park (1769), 28 Hektar englische Landschaftsrasen und Teiche im Herzen von Düsseldorf, zwischen der Königsallee und dem Rhein. Hunde müssen im gesamten Park an der Leine geführt werden; eine Hundewiese ohne Leine grenzt entlang der Inselstraße am östlichen Rand a`,
   },
   {
     citySlug: "dusseldorf",
@@ -206,6 +225,7 @@ const PARKS: Park[] = [
     descEn: `A 70-hectare landscape park south of the centre, designed in the late 19th century around two ponds and a wooded ridge. Dogs must be leashed on paths, but a large fenced Hundewiese near the Auf'm Hennekamp entrance gives off-leash space; the southern wood section connects to the `,
     descFr: `Parc paysager de 70 hectares au sud du centre, conçu à la fin du XIXe siècle autour de deux étangs et d'une crête boisée. Les chiens doivent être tenus en laisse sur les sentiers, mais une grande Hundewiese clôturée près de l'entrée Auf'm Hennekamp offre un espace sans laisse ; l`,
     descEs: `Parque paisajístico de 70 hectáreas al sur del centro, diseñado a finales del siglo XIX en torno a dos estanques y una cresta boscosa. Los perros deben ir con correa en los senderos, pero una gran Hundewiese vallada cerca de la entrada de Auf'm Hennekamp ofrece espacio sin correa`,
+    descDe: `Ein 70 Hektar großer Landschaftspark südlich des Zentrums, Ende des 19. Jahrhunderts rund um zwei Teiche und einen bewaldeten Höhenrücken angelegt. Hunde müssen auf den Wegen an der Leine bleiben, doch eine große eingezäunte Hundewiese nahe dem Eingang Auf'm Hennekamp bietet Freilauf; der südliche Waldabschnitt verbindet sich mit de`,
   },
   {
     citySlug: "dusseldorf",
@@ -216,6 +236,7 @@ const PARKS: Park[] = [
     descEn: `A 36-hectare formal park laid out in 1937, near the Messe trade fair grounds and the EKŌ-Haus Japanese centre. The park's main lawns and rose garden require dogs on leash, but the wooded northern section near the Kaiserswerther Straße has an off-leash Hundewiese. The aquazoo Löbb`,
     descFr: `Parc à la française de 36 hectares aménagé en 1937, près du parc des expositions Messe et du centre japonais EKŌ-Haus. Les pelouses principales et la roseraie imposent la laisse, mais la section boisée nord près de la Kaiserswerther Straße abrite une Hundewiese sans laisse. L'aqu`,
     descEs: `Parque formal de 36 hectáreas trazado en 1937, cerca del recinto ferial Messe y del centro japonés EKŌ-Haus. Las praderas principales y la rosaleda exigen correa, pero la sección boscosa del norte, cerca de la Kaiserswerther Straße, alberga una Hundewiese sin correa. El aquazoo L`,
+    descDe: `Ein 36 Hektar großer, 1937 angelegter formaler Park, nahe dem Messegelände und dem japanischen EKŌ-Haus. Die Hauptrasenflächen und der Rosengarten des Parks verlangen Hunde an der Leine, doch der bewaldete Nordteil nahe der Kaiserswerther Straße bietet eine Hundewiese ohne Leine. Der Aquazoo Löbb`,
   },
   {
     citySlug: "frankfurt",
@@ -226,6 +247,7 @@ const PARKS: Park[] = [
     descEn: `A 29-hectare English-style park in the Westend district featuring a fenced Hundeauslauffläche (off-leash zone), one of the few official off-leash areas inside the city ring. The rest of the park requires a leash, but the wide lawns and shaded paths make it one of the most pleasa`,
     descFr: `Parc de 29 hectares à l'anglaise dans le Westend, doté d'un Hundeauslauffläche clôturé (zone sans laisse), l'une des rares aires officielles sans laisse à l'intérieur de la ceinture urbaine. Le reste du parc impose la laisse, mais les vastes pelouses et allées ombragées en font `,
     descEs: `Parque de 29 hectáreas de estilo inglés en el Westend, con una Hundeauslauffläche vallada (zona sin correa), una de las pocas áreas oficiales sin correa dentro del anillo urbano. El resto del parque requiere correa, pero sus amplios céspedes y senderos sombreados lo convierten en`,
+    descDe: `Ein 29 Hektar großer Park im englischen Stil im Stadtteil Westend mit einer eingezäunten Hundeauslauffläche, einer der wenigen offiziellen Freilaufzonen innerhalb des Stadtrings. Im restlichen Park gilt Leinenpflicht, doch die weiten Rasenflächen und schattigen Wege machen ihn zu einem der angenehmst`,
   },
   {
     citySlug: "gdansk",
@@ -236,6 +258,7 @@ const PARKS: Park[] = [
     descEn: `Gdansk's most beautiful park, a 17th-century landscaped garden adjoining the Oliwa Cathedral, palm house, ornamental ponds, the Pałac Opatów art museum. Free entry, dog-friendly with leashed dogs and a fenced dog zone in the south-east corner.`,
     descFr: `Le plus beau parc de Gdansk, jardin paysager du XVIIe siècle attenant à la cathédrale d'Oliwa, palmeraie, étangs ornementaux, musée d'art Pałac Opatów. Entrée libre, dog-friendly avec chiens en laisse et zone canine clôturée au coin sud-est.`,
     descEs: `El parque más bello de Gdansk, jardín paisajístico del siglo XVII contiguo a la catedral de Oliwa, palmera, estanques ornamentales, museo de arte Pałac Opatów. Entrada libre, dog-friendly con perros con correa y zona canina vallada en la esquina sureste.`,
+    descDe: `Gdańsks schönster Park, ein Landschaftsgarten aus dem 17. Jahrhundert neben der Oliwa-Kathedrale, mit Palmenhaus, Zierteichen und dem Kunstmuseum Pałac Opatów. Freier Eintritt, hundefreundlich mit Hunden an der Leine und einer eingezäunten Hundezone in der südöstlichen Ecke.`,
   },
   {
     citySlug: "gothenburg",
@@ -245,6 +268,7 @@ const PARKS: Park[] = [
     descEn: `Gothenburg's most-loved urban park, 137 hectares of mixed forest, open meadow, and formal gardens with free-roaming deer, moose, and flamingos (in the open animal enclosures). Dogs are permitted throughout most of the park. The northern section has designated off-leash areas whe`,
     descFr: `Le parc urbain le plus aimé de Göteborg, 137 hectares de forêt mixte, prairies ouvertes et jardins formels avec cerfs, élans et flamants roses en liberté (dans des enclos ouverts). Les chiens sont autorisés dans la majeure partie du parc. La section nord dispose de zones désigné`,
     descEs: `El parque urbano más querido de Gotemburgo, 137 hectáreas de bosque mixto, prados abiertos y jardines formales con ciervos, alces y flamencos en libertad (en recintos abiertos). Los perros están permitidos en la mayor parte del parque. La sección norte tiene zonas designadas sin`,
+    descDe: `Göteborgs beliebtester Stadtpark, 137 Hektar Mischwald, offene Wiesen und formale Gärten mit frei umherstreifenden Rehen, Elchen und Flamingos (in offenen Tiergehegen). Hunde sind im größten Teil des Parks erlaubt. Der nördliche Bereich verfügt über ausgewiesene Freilaufzonen, w`,
   },
   {
     citySlug: "gothenburg",
@@ -254,6 +278,7 @@ const PARKS: Park[] = [
     descEn: `The 19th-century Garden Society park in the heart of Gothenburg, an enclosed formal garden with a Victorian palm house, an extensive rose garden (one of the finest in Scandinavia), and a popular outdoor café. Dogs on leads are permitted in the park and on the café terrace. Admis`,
     descFr: `Le parc de la Société du Jardin du XIXe siècle au cœur de Göteborg, un jardin formel clos avec une serre palmier victorienne, une vaste roseraie (l'une des plus belles de Scandinavie) et un café en plein air très fréquenté. Les chiens en laisse sont autorisés dans le parc et sur`,
     descEs: `El parque de la Sociedad del Jardín del siglo XIX en el corazón de Gotemburgo, un jardín formal cerrado con un invernadero victoriano de palmeras, un extenso jardín de rosas (uno de los más hermosos de Escandinavia) y un popular café al aire libre. Los perros con correa están pe`,
+    descDe: `Der Park der Gartengesellschaft aus dem 19. Jahrhundert im Herzen Göteborgs, ein umschlossener formaler Garten mit viktorianischem Palmenhaus, einem weitläufigen Rosengarten (einer der schönsten Skandinaviens) und einem beliebten Café im Freien. Hunde an der Leine sind im Park und auf der Café-Terrasse erlaubt. Der Eintr`,
   },
   {
     citySlug: "granada",
@@ -263,6 +288,7 @@ const PARKS: Park[] = [
     descEn: `A fully enclosed off-leash dog park with a perimeter fence, agility obstacles, a drinking fountain, and night lighting that extends its usability into summer evenings. One of the best-maintained pipicanes in Granada, it is popular with residents of the Arabial and Zaidín neighbou`,
     descFr: `Un parc canin entièrement clôturé, en accès libre, avec une clôture périmétrique, des obstacles d'agility, une fontaine à eau et un éclairage nocturne qui permet de l'utiliser lors des soirées estivales. L'un des pipicanes les mieux entretenus de Grenade, très apprécié des habita`,
     descEs: `Un parque canino completamente vallado y sin correa, con valla perimetral, obstáculos de agility, fuente de agua e iluminación nocturna que amplía su uso a las noches de verano. Uno de los pipicanes mejor mantenidos de Granada, muy popular entre los vecinos de los barrios de Arab`,
+    descDe: `Ein vollständig umzäunter Hundeauslauf mit Umfriedung, Agility-Hindernissen, einem Trinkbrunnen und Nachtbeleuchtung, die die Nutzung bis in die Sommerabende hinein verlängert. Einer der bestgepflegten Pipicanes in Granada, beliebt bei Anwohnern der Viertel Arabial und Zaid`,
   },
   {
     citySlug: "granada",
@@ -272,6 +298,7 @@ const PARKS: Park[] = [
     descEn: `A dedicated fenced dog park in the residential Zaidín neighbourhood, popular with local dog owners for its off-leash area, drinking fountain, and agility obstacles. Well-lit in the evenings, which makes it a practical option when summer temperatures finally cool after 20:00. The `,
     descFr: `Un parc canin clôturé dans le quartier résidentiel du Zaidín, apprécié des propriétaires de chiens pour sa zone en liberté, sa fontaine à eau et ses obstacles d'agility. Bien éclairé le soir, ce qui en fait une option pratique quand les températures estivales baissent enfin après`,
     descEs: `Un parque canino vallado en el barrio residencial del Zaidín, muy popular entre los propietarios de perros del barrio por su zona sin correa, fuente de agua y obstáculos de agility. Bien iluminado por las noches, lo que lo convierte en una opción práctica cuando las temperaturas `,
+    descDe: `Ein eigener eingezäunter Hundepark im Wohnviertel Zaidín, beliebt bei lokalen Hundehaltern wegen der Freilauffläche, des Trinkbrunnens und der Agility-Hindernisse. Abends gut beleuchtet, was ihn zu einer praktischen Option macht, wenn die Sommertemperaturen nach 20 Uhr endlich sinken. Das`,
   },
   {
     citySlug: "graz",
@@ -282,6 +309,7 @@ const PARKS: Park[] = [
     descEn: `Graz's main central park (23 ha), laid out in 1869 on the site of the old defensive walls. Mature trees, a pond, the Forum Stadtpark cultural centre, and a signed fenced Hundezone in the eastern corner.`,
     descFr: `Le parc central principal de Graz (23 ha), aménagé en 1869 sur les anciennes murailles. Arbres matures, étang, centre culturel Forum Stadtpark et zone canine clôturée signalée dans le coin est.`,
     descEs: `El parque central principal de Graz (23 ha), trazado en 1869 sobre las antiguas murallas. Árboles maduros, estanque, centro cultural Forum Stadtpark y zona canina vallada señalizada en el extremo este.`,
+    descDe: `Graz' zentraler Hauptpark (23 ha), 1869 auf dem Gelände der alten Stadtmauern angelegt. Alte Bäume, ein Teich, das Kulturzentrum Forum Stadtpark und eine ausgeschilderte eingezäunte Hundezone in der östlichen Ecke.`,
   },
   {
     citySlug: "hamburg",
@@ -292,6 +320,7 @@ const PARKS: Park[] = [
     descEn: `Hamburg's central 148-hectare people's park designed in the 1910s. Features two Hundeauslaufzonen, a large one near the Planetarium and a smaller fenced one to the south, plus wide lawns where leashed dogs are welcome. Summer open-air concerts at the Freilichtbühne; dogs are ad`,
     descFr: `Parc populaire central de 148 hectares, dessiné dans les années 1910. Deux Hundeauslaufzonen, une grande près du Planétarium et une petite clôturée au sud, plus de vastes pelouses où les chiens en laisse sont bienvenus. Concerts d'été à la Freilichtbühne ; les chiens sont admis`,
     descEs: `Parque popular central de 148 hectáreas, diseñado en la década de 1910. Dispone de dos Hundeauslaufzonen, una grande junto al Planetario y otra más pequeña vallada al sur, además de amplios céspedes donde los perros con correa son bienvenidos. Conciertos al aire libre en verano`,
+    descDe: `Hamburgs zentraler 148 Hektar großer Volkspark, in den 1910er Jahren angelegt. Verfügt über zwei Hundeauslaufzonen, eine große nahe dem Planetarium und eine kleinere eingezäunte im Süden, plus weite Rasenflächen, auf denen Hunde an der Leine willkommen sind. Sommerliche Open-Air-Konzerte an der Freilichtbühne; Hunde sind zug`,
   },
   {
     citySlug: "hamburg",
@@ -302,6 +331,7 @@ const PARKS: Park[] = [
     descEn: `At 205 hectares, Hamburg's largest public park, woodland, meadows, a rose garden and three large fenced Hundeauslaufzonen make it the city's top destination for off-leash romping. Extensive wooded trails; often quieter than the central Stadtpark.`,
     descFr: `Avec ses 205 hectares, le plus grand parc public de Hambourg, forêt, prairies, roseraie et trois grandes Hundeauslaufzonen clôturées en font la destination n°1 pour les chiens sans laisse. Larges sentiers forestiers ; souvent plus calme que le Stadtpark central.`,
     descEs: `Con 205 hectáreas, el mayor parque público de Hamburgo, bosque, praderas, rosaleda y tres grandes Hundeauslaufzonen valladas lo convierten en el destino nº1 para perros sin correa. Amplios senderos forestales; a menudo más tranquilo que el Stadtpark central.`,
+    descDe: `Mit 205 Hektar Hamburgs größter öffentlicher Park; Wald, Wiesen, ein Rosengarten und drei große eingezäunte Hundeauslaufzonen machen ihn zum Top-Ziel der Stadt für ausgelassenen Freilauf. Ausgedehnte Waldwege; oft ruhiger als der zentrale Stadtpark.`,
   },
   {
     citySlug: "lecce",
@@ -312,6 +342,7 @@ const PARKS: Park[] = [
     descEn: `A protected agricultural-natural park ringing the north-east of the city, olive groves, the medieval Belloluogo tower, walking trails. Lecce's only large green space; a fenced losloop-style dog zone is in the south corner.`,
     descFr: `Parc agricole-naturel protégé qui ceint le nord-est de la ville, oliveraies, tour médiévale de Belloluogo, sentiers de promenade. Le seul grand espace vert de Lecce ; une zone canine clôturée façon losloop se trouve au coin sud.`,
     descEs: `Parque agrícola-natural protegido que rodea el noreste de la ciudad, olivares, torre medieval de Belloluogo, senderos. El único gran espacio verde de Lecce; una zona canina vallada estilo losloop está en la esquina sur.`,
+    descDe: `Ein geschützter Landwirtschafts- und Naturpark, der den Nordosten der Stadt umgibt, mit Olivenhainen, dem mittelalterlichen Turm von Belloluogo und Wanderwegen. Lecces einzige große Grünfläche; eine eingezäunte Freilaufzone für Hunde liegt in der südlichen Ecke.`,
   },
   {
     citySlug: "leipzig",
@@ -322,6 +353,7 @@ const PARKS: Park[] = [
     descEn: `Leipzig's largest central park, 124 hectares of meadows, ponds and the Auenwald forest tributaries. The fenced south-west off-leash zone (Hundeauslaufzone Clara-Zetkin-Park) is one of the largest in Saxony, with dog-agility equipment.`,
     descFr: `Le plus grand parc central de Leipzig, 124 hectares de prairies, étangs et bras de l'Auenwald. La Hundeauslaufzone clôturée du sud-ouest est l'une des plus grandes de Saxe, avec équipements d'agility.`,
     descEs: `El mayor parque central de Leipzig, 124 hectáreas de praderas, estanques y brazos del Auenwald. La Hundeauslaufzone vallada del suroeste es una de las mayores de Sajonia, con equipo de agility.`,
+    descDe: `Leipzigs größter Zentralpark, 124 Hektar mit Wiesen, Teichen und Ausläufern des Auwalds. Die eingezäunte Freilaufzone im Südwesten (Hundeauslaufzone Clara-Zetkin-Park) ist eine der größten in Sachsen, mit Agility-Geräten für Hunde.`,
   },
   {
     citySlug: "lille",
@@ -332,6 +364,7 @@ const PARKS: Park[] = [
     descEn: `A fully fenced municipal dog park in the Lille-Sud neighbourhood, at the intersection of rue Jules Vallès and rue Alexandra David-Néel. Two separate enclosures (small/large dogs), agility equipment, water taps, and shaded benches. Free, open year-round, with €135 fouling fines en`,
     descFr: `Parc canin municipal entièrement clôturé dans le quartier Lille-Sud, au croisement de la rue Jules Vallès et de la rue Alexandra David-Néel. Deux enclos séparés (petits/grands chiens), agility, robinets et bancs ombragés. Gratuit, ouvert toute l'année, avec amendes de 135 € pour `,
     descEs: `Parque canino municipal totalmente vallado en el barrio Lille-Sud, en la intersección de la rue Jules Vallès con la rue Alexandra David-Néel. Dos recintos separados (perros pequeños/grandes), agility, fuentes y bancos con sombra. Gratis, abierto todo el año, con multas de 135 € p`,
+    descDe: `Ein vollständig eingezäunter städtischer Hundepark im Viertel Lille-Sud, an der Kreuzung von rue Jules Vallès und rue Alexandra David-Néel. Zwei getrennte Gehege (kleine/große Hunde), Agility-Geräte, Wasserzapfstellen und schattige Bänke. Kostenlos, ganzjährig geöffnet, mit Bußgeldern von 135 € für Verunreinigun`,
   },
   {
     citySlug: "lisbon",
@@ -341,6 +374,7 @@ const PARKS: Park[] = [
     descEn: `A fully fenced dog park with a double-gated entrance inside the vast Parque da Bela Vista in Marvila, eastern Lisbon. The enclosure has waste stations, benches and play structures, and the surrounding park offers long leashed walks with city views. Reached by bus or a short walk from Chelas metro.`,
     descFr: `Un parc canin enti\u00e8rement cl\u00f4tur\u00e9 avec entr\u00e9e \u00e0 double portillon, \u00e0 l'int\u00e9rieur du vaste Parque da Bela Vista, \u00e0 Marvila, dans l'est de Lisbonne. L'enclos dispose de distributeurs de sacs, de bancs et de structures de jeu, et le parc alentour offre de longues promenades en laisse avec vue sur la ville. Accessible en bus ou \u00e0 courte distance du m\u00e9tro Chelas.`,
     descEs: `Un parque canino totalmente vallado con entrada de doble puerta, dentro del extenso Parque da Bela Vista, en Marvila, al este de Lisboa. El recinto cuenta con dispensadores de bolsas, bancos y estructuras de juego, y el parque circundante ofrece largos paseos con correa y vistas de la ciudad. Se llega en autob\u00fas o a poca distancia del metro Chelas.`,
+    descDe: `Ein vollst\u00e4ndig eingez\u00e4unter Hundepark mit doppelter Toranlage innerhalb des weitl\u00e4ufigen Parque da Bela Vista in Marvila, im Osten Lissabons. Das Gehege verf\u00fcgt \u00fcber Beutelspender, B\u00e4nke und Spielger\u00e4te, und der umliegende Park bietet lange Spazierg\u00e4nge an der Leine mit Blick \u00fcber die Stadt. Erreichbar mit dem Bus oder zu Fu\u00df von der Metrostation Chelas.`,
   },
   {
     citySlug: "luxembourg",
@@ -351,6 +385,7 @@ const PARKS: Park[] = [
     descEn: `A 30-hectare river-valley park slicing through the heart of Luxembourg City, with leafy paths beneath the UNESCO fortifications, two fenced municipal dog enclosures (enclos pour chiens), and the Adolphe Bridge soaring overhead. Leashed dogs are welcome the full length of the vall`,
     descFr: `Parc en vallée fluviale de 30 hectares qui traverse le cœur de Luxembourg, avec sentiers ombragés sous les fortifications UNESCO, deux enclos canins municipaux clôturés et le pont Adolphe qui surplombe l'ensemble. Les chiens en laisse sont les bienvenus sur toute la longueur de l`,
     descEs: `Parque en valle fluvial de 30 hectáreas que atraviesa el corazón de Luxemburgo, con senderos sombreados bajo las fortificaciones UNESCO, dos recintos caninos municipales vallados y el puente Adolphe sobrevolando el conjunto. Los perros con correa son bienvenidos en toda la longit`,
+    descDe: `Ein 30 Hektar großer Flusstalpark, der sich durch das Herz von Luxemburg-Stadt zieht, mit begrünten Wegen unterhalb der UNESCO-Festungsanlagen, zwei eingezäunten städtischen Hundegehegen (enclos pour chiens) und der hoch darüber aufragenden Adolphe-Brücke. Hunde an der Leine sind auf der gesamten Länge des Ta`,
   },
   {
     citySlug: "luxembourg",
@@ -361,6 +396,7 @@ const PARKS: Park[] = [
     descEn: `A 14-hectare landscaped park in the western Merl district, with mature trees, a small lake with ducks, and a fenced dog enclosure on the north-east side. Leashed dogs welcome throughout the park; off-leash inside the enclosure. The Belair area concentrates a quiet residential dog`,
     descFr: `Parc paysager de 14 hectares dans le quartier ouest de Merl, avec arbres anciens, petit lac aux canards et un enclos canin clôturé sur le côté nord-est. Chiens en laisse acceptés dans tout le parc ; sans laisse à l'intérieur de l'enclos. Le quartier de Belair concentre une commun`,
     descEs: `Parque paisajista de 14 hectáreas en el barrio occidental de Merl, con árboles maduros, un pequeño lago con patos y un recinto canino vallado en el lado noreste. Perros con correa admitidos en todo el parque; sin correa dentro del recinto. La zona de Belair concentra una tranquil`,
+    descDe: `Ein 14 Hektar großer Landschaftspark im westlichen Viertel Merl, mit alten Bäumen, einem kleinen Entenweiher und einem eingezäunten Hundegehege auf der Nordostseite. Hunde an der Leine sind im gesamten Park willkommen; ohne Leine innerhalb des Geheges. Das Viertel Belair vereint eine ruhige Wohngegend für Hundehalter`,
   },
   {
     citySlug: "maastricht",
@@ -371,6 +407,7 @@ const PARKS: Park[] = [
     descEn: `A landscaped 19th-century park hugging the western medieval city walls, formal lawns, the river Jeker, mature trees, ornamental ponds and a fenced losloopgebied in the south corner. Connects directly to the Helpoort medieval gate.`,
     descFr: `Parc paysagé du XIXe siècle qui longe les remparts médiévaux ouest, pelouses formelles, rivière Jeker, arbres mûrs, étangs ornementaux et un losloopgebied clôturé au coin sud. Connecte directement à la porte médiévale Helpoort.`,
     descEs: `Parque paisajístico del siglo XIX que bordea las murallas medievales del oeste, céspedes formales, río Jeker, árboles maduros, estanques ornamentales y un losloopgebied vallado en la esquina sur. Conecta directamente con la puerta medieval Helpoort.`,
+    descDe: `Ein im 19. Jahrhundert angelegter Landschaftspark entlang der westlichen mittelalterlichen Stadtmauer, mit formalen Rasenflächen, dem Fluss Jeker, alten Bäumen, Zierteichen und einem eingezäunten losloopgebied in der südlichen Ecke. Direkt angeschlossen an das mittelalterliche Tor Helpoort.`,
   },
   {
     citySlug: "maastricht",
@@ -381,6 +418,7 @@ const PARKS: Park[] = [
     descEn: `The car-free Maas towpath runs uninterrupted from the city centre south through Sint Pieter to the Belgian border at Smeermaas, flat, paved, with the Albert Canal mirror on the west side. The Pietersplas lake (5 km south) has a designated dog-swimming bay.`,
     descFr: `Le chemin de halage de la Meuse, sans voiture, court sans interruption depuis le centre via Sint Pieter jusqu'à la frontière belge à Smeermaas, plat, pavé, avec le Canal Albert qui le double à l'ouest. Le lac Pietersplas (5 km au sud) a une baie de baignade canine désignée.`,
     descEs: `El camino de sirga del Mosa, sin coches, corre sin interrupción desde el centro vía Sint Pieter hasta la frontera belga en Smeermaas, plano, asfaltado, con el Canal Alberto reflejándolo al oeste. El lago Pietersplas (5 km al sur) tiene una bahía designada para el baño canino.`,
+    descDe: `Der autofreie Treidelpfad an der Maas verläuft ununterbrochen vom Stadtzentrum südlich durch Sint Pieter bis zur belgischen Grenze bei Smeermaas, flach, asphaltiert, mit dem Albertkanal als Spiegelbild auf der Westseite. Der See Pietersplas (5 km südlich) verfügt über eine ausgewiesene Bucht zum Hundeschwimmen.`,
   },
   {
     citySlug: "madrid",
@@ -391,6 +429,7 @@ const PARKS: Park[] = [
     descEn: `Madrid's iconic central park and a UNESCO World Heritage Site. Dogs must be kept on a leash in most areas, but there is a designated off-leash enclosure near the Puerta de Hierro entrance on the northern side of the park. The paths around the Estanque Grande (the rowing lake) are`,
     descFr: `Le parc central emblématique de Madrid et site classé au patrimoine mondial de l'UNESCO. Les chiens doivent être tenus en laisse dans la plupart des zones, mais il existe un enclos de liberté désigné près de l'entrée de la Puerta de Hierro, côté nord du parc. Les allées autour de`,
     descEs: `El icónico parque central de Madrid y Patrimonio Mundial de la UNESCO. Los perros deben ir con correa en la mayoría de las zonas, pero hay un recinto designado sin correa cerca de la entrada de la Puerta de Hierro en el lado norte del parque. Los caminos alrededor del Estanque Gr`,
+    descDe: `Madrids ikonischer Zentralpark und UNESCO-Weltkulturerbe. Hunde müssen in den meisten Bereichen an der Leine geführt werden, doch es gibt ein ausgewiesenes Freilaufgehege nahe dem Eingang Puerta de Hierro auf der Nordseite des Parks. Die Wege rund um den Estanque Grande (den Ruderteich) sin`,
   },
   {
     citySlug: "malaga",
@@ -401,6 +440,7 @@ const PARKS: Park[] = [
     descEn: `Parque del Oeste is the main green lung of western Malaga, a large and well-maintained park with wide tree-lined paths, a dedicated dog area, and a relaxed neighbourhood atmosphere. It lacks the scenic drama of Monte de Gibralfaro or the botanical interest of La Concepción, but a`,
     descFr: `Le Parque del Oeste est le principal poumon vert de l'ouest de Malaga, un grand parc bien entretenu avec de larges allées bordées d'arbres, une zone dédiée aux chiens et une atmosphère détendue de quartier. Il manque du drame scénique du Monte de Gibralfaro ou de l'intérêt botani`,
     descEs: `El Parque del Oeste es el principal pulmón verde del oeste de Málaga, un parque grande y bien mantenido con amplios senderos arbolados, una zona dedicada a perros y un ambiente relajado de barrio. Carece del drama escénico del Monte de Gibralfaro o del interés botánico de La Conc`,
+    descDe: `Der Parque del Oeste ist die grüne Lunge des westlichen Málaga, ein großer und gepflegter Park mit breiten baumgesäumten Wegen, einem eigenen Hundebereich und einer entspannten Nachbarschaftsatmosphäre. Ihm fehlt die landschaftliche Dramatik des Monte de Gibralfaro oder das botanische Interesse von La Conc`,
   },
   {
     citySlug: "manchester",
@@ -411,6 +451,7 @@ const PARKS: Park[] = [
     descEn: `A 90-acre estate of woodland, water gardens, and meadows along the Mersey in leafy Didsbury. Dogs on leash are welcome on every path; off-leash is tolerated on the back meadows and the riverside path along the Mersey. The botanical alpine garden has its own small fenced section t`,
     descFr: `Domaine de 90 acres (36 hectares) de forêt, jardins aquatiques et prairies le long de la Mersey, dans le verdoyant Didsbury. Les chiens en laisse sont les bienvenus sur tous les sentiers ; le sans laisse est toléré sur les prairies du fond et le sentier riverain de la Mersey. Le `,
     descEs: `Finca de 90 acres (36 hectáreas) de bosque, jardines acuáticos y praderas a lo largo del Mersey en el frondoso Didsbury. Los perros con correa son bienvenidos en todos los senderos; soltarlos se tolera en las praderas del fondo y en el sendero ribereño del Mersey. El jardín alpin`,
+    descDe: `Ein 90 Acre (36 Hektar) großes Anwesen mit Wald, Wassergärten und Wiesen entlang des Mersey im grünen Didsbury. Hunde an der Leine sind auf jedem Weg willkommen; Freilauf wird auf den hinteren Wiesen und dem Uferpfad am Mersey geduldet. Der botanische Alpengarten hat einen eigenen kleinen eingezäunten Bereich, d`,
   },
   {
     citySlug: "marseille",
@@ -420,6 +461,7 @@ const PARKS: Park[] = [
     descEn: `A rare combination in Marseille: a 15 m² enclosed canisite (for off-leash play) adjacent to a 3,000 m² open dog-walking area. Less known and therefore less crowded than Longchamp.`,
     descFr: `Une combinaison rare à Marseille : un canisite clôturé de 15 m² (pour les jeux en liberté) adjacent à une zone de promenade canine de 3 000 m². Moins connu et donc moins fréquenté que Longchamp.`,
     descEs: `Una combinación rara en Marsella: un canisite cerrado de 15 m² (para juego suelto) junto a una zona de paseo canino de 3.000 m². Menos conocido y por tanto menos concurrido que Longchamp.`,
+    descDe: `Eine seltene Kombination in Marseille: ein eingezäunter Canisite von 15 m² (für Freilauf) neben einem offenen, 3.000 m² großen Hundeauslaufgebiet. Weniger bekannt und daher weniger überlaufen als Longchamp.`,
   },
   {
     citySlug: "milan",
@@ -430,6 +472,7 @@ const PARKS: Park[] = [
     descEn: `A 6,000-square-metre fenced dog area inside Parco Sempione behind the Aquarium, redesigned by the Area Cani Milano volunteer association with the city. Split into large-dog and small-dog enclosures with custom paths, water and a canine first-aid point, it is the flagship off-leash space in the historic centre, steps from Castello Sforzesco. Under Milan's rules dogs run leash-free inside the fence.`,
     descFr: `Une aire canine clôturée de 6 000 mètres carrés à l'intérieur du Parco Sempione, derrière l'Aquarium, réaménagée par l'association de bénévoles Area Cani Milano avec la Ville. Divisée en enclos pour grands et petits chiens avec parcours dédiés, point d'eau et trousse de premiers secours canins, c'est l'espace sans laisse phare du centre historique, à deux pas du Castello Sforzesco. Selon le règlement milanais, les chiens y courent sans laisse à l'intérieur de la clôture.`,
     descEs: `Una zona canina vallada de 6.000 metros cuadrados dentro del Parco Sempione, detrás del Acuario, rediseñada por la asociación de voluntarios Area Cani Milano junto al Ayuntamiento. Dividida en recintos para perros grandes y pequeños con recorridos a medida, fuente de agua y un punto de primeros auxilios caninos, es el espacio sin correa de referencia del centro histórico, a un paso del Castello Sforzesco. Según la normativa de Milán, los perros corren sin correa dentro de la valla.`,
+    descDe: `Eine 6.000 Quadratmeter große eingezäunte Hundefläche im Parco Sempione hinter dem Aquarium, umgestaltet vom Freiwilligenverein Area Cani Milano gemeinsam mit der Stadt. Aufgeteilt in Gehege für große und kleine Hunde mit eigens angelegten Wegen, einer Wasserstelle und einer Erste-Hilfe-Station für Hunde, ist sie die Vorzeige-Freilauffläche der Altstadt, nur wenige Schritte vom Castello Sforzesco entfernt. Nach den Mailänder Regeln laufen Hunde innerhalb des Zauns ohne Leine.`,
   },
   {
     citySlug: "modena",
@@ -440,6 +483,7 @@ const PARKS: Park[] = [
     descEn: `The city's main park, designed for the Este dukes in the 17th century behind the Palazzo Ducale. Plane trees, ponds, a children's playground and a fenced off-leash dog area in the north-west corner.`,
     descFr: `Le parc principal de la ville, dessiné pour les ducs d'Este au XVIIe s. derrière le Palazzo Ducale. Platanes, étangs, aire de jeux et zone canine clôturée sans laisse dans le coin nord-ouest.`,
     descEs: `El parque principal de la ciudad, diseñado para los duques de Este en el s. XVII tras el Palazzo Ducale. Plátanos, estanques, zona infantil y área canina vallada sin correa en el extremo noroeste.`,
+    descDe: `Der Hauptpark der Stadt, im 17. Jahrhundert für die Este-Herzöge hinter dem Palazzo Ducale angelegt. Platanen, Teiche, ein Kinderspielplatz und eine eingezäunte Freilauffläche für Hunde in der nordwestlichen Ecke.`,
   },
   {
     citySlug: "modena",
@@ -450,6 +494,7 @@ const PARKS: Park[] = [
     descEn: `Modern park built on former rail yards (2009), 23 ha north of the train station. Open lawns, jogging loop, large fenced sgambamento, and the city's main weekend market on Mondays.`,
     descFr: `Parc moderne aménagé sur d'anciennes voies ferrées (2009), 23 ha au nord de la gare. Pelouses dégagées, boucle de jogging, grande zone sgambamento clôturée, et le principal marché du lundi de la ville.`,
     descEs: `Parque moderno construido sobre antiguas vías de tren (2009), 23 ha al norte de la estación. Praderas abiertas, circuito para correr, gran zona sgambamento vallada, y el principal mercado del lunes de la ciudad.`,
+    descDe: `Moderner Park auf einem ehemaligen Bahngelände (2009), 23 ha nördlich des Bahnhofs. Offene Rasenflächen, Jogging-Rundweg, eine große eingezäunte Sgambamento-Fläche und der wichtigste Wochenmarkt der Stadt montags.`,
   },
   {
     citySlug: "montpellier",
@@ -458,6 +503,7 @@ const PARKS: Park[] = [
     descEn: `Montpellier's best dedicated dog park, a 6,000 m² enclosed off-leash area beside the Lez River with canine play equipment, benches, and shaded areas. The riverside setting is beautiful and the park itself is one of the largest purpose-built dog spaces in southern France, popular`,
     descFr: `Le meilleur parc canin de Montpellier, un espace hors laisse clôturé de 6 000 m² en bordure du Lez avec des équipements canins, des bancs et des zones ombragées. Le cadre en bord de rivière est magnifique et le parc lui-même est l'un des plus grands espaces canins aménagés du su`,
     descEs: `El mejor parque canino de Montpellier: una zona sin correa de 6.000 m² junto al río Lez con equipamiento canino, bancos y zonas con sombra. El entorno fluvial es precioso y el parque en sí es uno de los mayores espacios caninos de uso específico del sur de Francia, frecuentado di`,
+    descDe: `Montpelliers bester eigener Hundepark, eine 6.000 m² große eingezäunte Freilauffläche am Ufer des Lez mit Spielgeräten für Hunde, Bänken und schattigen Bereichen. Die Lage am Fluss ist wunderschön, und der Park selbst ist eine der größten eigens angelegten Hundeflächen Südfrankreichs, beliebt be`,
   },
   {
     citySlug: "montpellier",
@@ -466,6 +512,7 @@ const PARKS: Park[] = [
     descEn: `The banks of the Lez River running through Montpellier offer several kilometres of walking path with off-leash sections where dogs can cool off in the water. The Montcalm and Aiguelongue sections are particularly popular and have formal caniparcs nearby, a complete loop through `,
     descFr: `Les berges du Lez traversant Montpellier offrent plusieurs kilomètres de chemin de promenade avec des sections hors laisse où les chiens peuvent se rafraîchir dans l'eau. Les sections Montcalm et Aiguelongue sont particulièrement populaires et disposent de caniparcs à proximité,`,
     descEs: `Las orillas del río Lez que atraviesa Montpellier ofrecen varios kilómetros de caminos con zonas sin correa donde los perros pueden refrescarse en el agua. Los tramos de Montcalm y Aiguelongue son especialmente populares y tienen caniparcs cercanos: un recorrido completo por amba`,
+    descDe: `Die Ufer des Lez, der durch Montpellier fließt, bieten mehrere Kilometer Wanderwege mit Freilaufabschnitten, in denen sich Hunde im Wasser abkühlen können. Die Abschnitte Montcalm und Aiguelongue sind besonders beliebt und verfügen über nahegelegene offizielle Caniparcs, eine vollständige Runde durch beid`,
   },
   {
     citySlug: "munich",
@@ -474,6 +521,7 @@ const PARKS: Park[] = [
     descEn: `At 373 hectares, the Englischer Garten is larger than Central Park and one of the world's great urban parks. For dogs, it is the ultimate Munich destination: multiple designated off-leash areas, the Isar river and Eisbach stream for swimming, the famous artificial surf wave, and `,
     descFr: `Avec 373 hectares, l'Englischer Garten est plus grand que Central Park et l'un des grands parcs urbains du monde. Pour les chiens, c'est la destination ultime à Munich : plusieurs zones de liberté désignées, la rivière Isar et le ruisseau Eisbach pour la baignade, la célèbre vagu`,
     descEs: `Con 373 hectáreas, el Englischer Garten es más grande que el Central Park y uno de los grandes parques urbanos del mundo. Para los perros, es el destino definitivo en Múnich: múltiples zonas sin correa designadas, el río Isar y el arroyo Eisbach para nadar, la famosa ola de surf `,
+    descDe: `Mit 373 Hektar ist der Englische Garten größer als der Central Park und einer der großen Stadtparks der Welt. Für Hunde ist er das ultimative Ziel in München: mehrere ausgewiesene Freilaufzonen, die Isar und der Eisbach zum Schwimmen, die berühmte künstliche Surfwelle, un`,
   },
   {
     citySlug: "nantes",
@@ -483,6 +531,7 @@ const PARKS: Park[] = [
     descEn: `Nantes' most beloved dog park has an official caniparc (fenced off-leash area) and sweeping lawns where dogs can run freely in designated zones, just 15 minutes on foot from the city centre. Tree-lined alleys, a rose garden, and scenic views over a tributary of the Erdre make it `,
     descFr: `Le parc pour chiens le plus apprécié de Nantes dispose d'un caniparc officiel (zone close sans laisse) et de grandes pelouses où les chiens peuvent courir librement dans les zones désignées, à 15 minutes à pied du centre-ville. Les allées bordées d'arbres, la roseraie et les vues`,
     descEs: `El parque para perros más querido de Nantes tiene un caniparc oficial (zona vallada sin correa) y amplias praderas donde los perros pueden correr en las zonas designadas, a 15 minutos a pie del centro. Los paseos arbolados, el jardín de rosas y las vistas sobre un afluente del Er`,
+    descDe: `Nantes' beliebtester Hundepark verfügt über einen offiziellen Caniparc (eingezäunte Freilauffläche) und weite Rasenflächen, auf denen Hunde in ausgewiesenen Zonen frei laufen können, nur 15 Gehminuten vom Stadtzentrum entfernt. Baumgesäumte Alleen, ein Rosengarten und malerische Ausblicke auf einen Nebenarm der Er`,
   },
   {
     citySlug: "nantes",
@@ -492,6 +541,7 @@ const PARKS: Park[] = [
     descEn: `A vast natural meadow along the Loire River on Île Beaulieu, described as the last testament of Loire's humid meadows, with a new caniparc opened in January 2025. Wild grassy expanses and riverside views of the Loire make it perfect for a free-running session away from the city`,
     descFr: `Un vaste espace naturel le long de la Loire sur l'Île Beaulieu, décrit comme le dernier témoignage des prairies humides de la Loire, avec un nouveau caniparc ouvert en janvier 2025. Grandes étendues sauvages et vues sur la Loire en font l'endroit idéal pour une session en liber`,
     descEs: `Un vasto espacio natural junto al Loira en la Île Beaulieu, descrito como el último testimonio de las praderas húmedas del Loira, con un nuevo caniparque inaugurado en enero de 2025. Las extensiones de hierba salvaje y las vistas del Loira lo hacen perfecto para una sesión de c`,
+    descDe: `Eine weitläufige Naturwiese entlang der Loire auf der Île Beaulieu, beschrieben als letztes Zeugnis der feuchten Loire-Wiesen, mit einem neuen Caniparc, der im Januar 2025 eröffnet wurde. Wilde Graslandschaften und Flussblicke auf die Loire machen sie perfekt für eine Freilaufsession fernab der Sta`,
   },
   {
     citySlug: "naples",
@@ -502,6 +552,7 @@ const PARKS: Park[] = [
     descEn: `A terraced cliff-top park on Posillipo offering some of the most spectacular views in Naples, Vesuvius, the Gulf, and the islands of Procida, Ischia and Capri. Wide paved walking loops, benches, shaded pine avenues, and an Area Cani fenced dog run near the upper terrace.`,
     descFr: `Parc en terrasses au sommet de la falaise de Posillipo, offrant certaines des plus belles vues de Naples, Vésuve, Golfe et îles de Procida, Ischia et Capri. Vastes boucles pavées, bancs, allées ombragées de pins et une Area Cani clôturée près de la terrasse supérieure.`,
     descEs: `Parque en terrazas en lo alto del acantilado de Posillipo que ofrece algunas de las vistas más espectaculares de Nápoles, Vesubio, Golfo e islas de Procida, Ischia y Capri. Amplios circuitos pavimentados, bancos, avenidas sombreadas de pinos y un Area Cani vallada cerca de la te`,
+    descDe: `Ein terrassierter Klippenpark auf Posillipo mit einigen der spektakulärsten Ausblicke Neapels, auf den Vesuv, den Golf und die Inseln Procida, Ischia und Capri. Breite gepflasterte Rundwege, Bänke, schattige Pinienalleen und ein eingezäunter Area-Cani-Hundeauslauf nahe der oberen Terrasse.`,
   },
   {
     citySlug: "nuremberg",
@@ -512,6 +563,7 @@ const PARKS: Park[] = [
     descEn: `Nuremberg's main central park, laid out 1903–1905 on the site of old defensive ditches. Plane trees, rose garden, ponds, and a small fenced dog meadow in the western corner. 10 min walk north of the Altstadt.`,
     descFr: `Le parc central principal de Nuremberg, aménagé entre 1903 et 1905 sur d'anciens fossés défensifs. Platanes, roseraie, étangs et petite prairie canine clôturée dans le coin ouest. 10 min à pied au nord de l'Altstadt.`,
     descEs: `El parque central principal de Núremberg, trazado entre 1903 y 1905 sobre antiguos fosos defensivos. Plátanos, rosaleda, estanques y pequeña pradera canina vallada en el rincón oeste. 10 min a pie al norte de la Altstadt.`,
+    descDe: `Nürnbergs zentraler Hauptpark, 1903-1905 auf dem Gelände alter Verteidigungsgräben angelegt. Platanen, Rosengarten, Teiche und eine kleine eingezäunte Hundewiese in der westlichen Ecke. 10 Gehminuten nördlich der Altstadt.`,
   },
   {
     citySlug: "oxford",
@@ -522,6 +574,7 @@ const PARKS: Park[] = [
     descEn: `37 hectares of grassland and woodland between the Cherwell and Parks Road, owned by Oxford University and open free to the public, King Charles II walked his dogs here in the 1680s. Dogs must stay on a lead at all times and are excluded from the cricket pitch enclosure in the ce`,
     descFr: `37 hectares de pelouses et bois entre le Cherwell et Parks Road, propriété de l'Université d'Oxford et ouverts gratuitement au public, le roi Charles II y promenait ses chiens dans les années 1680. Les chiens doivent rester en laisse en permanence et sont exclus de l'enclos du t`,
     descEs: `37 hectáreas de césped y bosque entre el Cherwell y Parks Road, propiedad de la Universidad de Oxford y abiertas gratis al público, el rey Carlos II paseaba aquí a sus perros en la década de 1680. Los perros deben llevar correa en todo momento y están excluidos del recinto del c`,
+    descDe: `37 Hektar Wiesen und Wald zwischen dem Cherwell und der Parks Road, im Besitz der Universität Oxford und kostenlos für die Öffentlichkeit zugänglich; König Karl II. führte hier in den 1680er Jahren seine Hunde aus. Hunde müssen jederzeit an der Leine bleiben und sind vom eingezäunten Kricketfeld in der Mit`,
   },
   {
     citySlug: "palma",
@@ -531,6 +584,7 @@ const PARKS: Park[] = [
     descEn: `Parc de Krekovic is a tranquil residential park in the Son Armadans neighbourhood, a short walk from Castell de Bellver. It features a dedicated enclosed dog run (pipican) which is genuinely off-leash, making it one of the better urban parks in Palma for dogs to socialise freely.`,
     descFr: `Le Parc de Krekovic est un parc résidentiel tranquille dans le quartier de Son Armadans, à deux pas du Castell de Bellver. Il dispose d'un espace canin clôturé (pipican) réellement sans laisse, ce qui en fait l'un des meilleurs parcs urbains de Palma pour la socialisation des chi`,
     descEs: `El Parc de Krekovic es un tranquilo parque residencial en el barrio de Son Armadans, a poca distancia del Castell de Bellver. Cuenta con un pipican cerrado genuinamente sin correa, lo que lo convierte en uno de los mejores parques urbanos de Palma para que los perros socialicen l`,
+    descDe: `Der Parc de Krekovic ist ein ruhiger Wohnpark im Viertel Son Armadans, nur einen kurzen Spaziergang vom Castell de Bellver entfernt. Er verfügt über einen eigenen umzäunten Hundeauslauf (pipican), der tatsächlich ohne Leine genutzt werden kann, was ihn zu einem der besseren Stadtparks Palmas macht, in dem Hunde frei sozialisieren können.`,
   },
   {
     citySlug: "paris",
@@ -540,6 +594,7 @@ const PARKS: Park[] = [
     descEn: `One of the largest fully enclosed caniparcs inside Paris proper, in the Épinettes quarter of the 17th arrondissement, with separate fenced areas for small and large dogs. Wood-chip and earth ground, benches and shade, and entry is free like every Paris caniparc. A secure off-leash option in a dense northern neighbourhood, near the Porte de Clichy transport hub.`,
     descFr: `L'un des plus grands caniparcs entièrement clos de Paris intra-muros, dans le quartier des Épinettes (17e arrondissement), avec des zones clôturées séparées pour petits et grands chiens. Sol en copeaux de bois et terre, bancs et ombre, et l'accès est gratuit comme dans tous les caniparcs parisiens. Une option sans laisse sécurisée dans un quartier dense du nord, près du pôle de transports de la Porte de Clichy.`,
     descEs: `Uno de los mayores caniparcs totalmente cerrados de París capital, en el barrio de Les Épinettes (distrito 17), con zonas valladas separadas para perros pequeños y grandes. Suelo de virutas de madera y tierra, bancos y sombra, y la entrada es gratuita como en todos los caniparcs parisinos. Una opción sin correa segura en un denso barrio del norte, cerca del intercambiador de Porte de Clichy.`,
+    descDe: `Einer der größten vollständig eingezäunten Caniparcs innerhalb von Paris intra-muros, im Viertel Épinettes des 17. Arrondissements, mit getrennten eingezäunten Bereichen für kleine und große Hunde. Boden aus Holzschnitzeln und Erde, Bänke und Schatten, und der Eintritt ist kostenlos wie bei jedem Pariser Caniparc. Eine sichere Freilaufoption in einem dicht besiedelten nördlichen Viertel, nahe dem Verkehrsknotenpunkt Porte de Clichy.`,
   },
   {
     citySlug: "pisa",
@@ -550,6 +605,7 @@ const PARKS: Park[] = [
     descEn: `A small but useful neighbourhood park behind Pisa Centrale, the city's only fully fenced municipal area dedicated to dogs. Off-leash inside the enclosure with benches and water taps; the wider park around it requires a leash. The location is ideal for a dog stretch between trains`,
     descFr: `Petit parc de quartier mais utile derrière la gare Centrale, seul espace municipal entièrement clôturé dédié aux chiens à Pise. Sans laisse à l'intérieur de l'enclos, avec bancs et robinets ; le parc autour exige la laisse. Emplacement idéal pour dégourdir un chien entre deux tra`,
     descEs: `Pequeño parque de barrio pero útil detrás de la estación Centrale, el único espacio municipal totalmente vallado dedicado a perros en Pisa. Sin correa dentro del recinto, con bancos y fuentes; el parque alrededor exige correa. Ubicación ideal para que el perro estire las patas en`,
+    descDe: `Ein kleiner, aber nützlicher Stadtteilpark hinter dem Bahnhof Pisa Centrale, die einzige vollständig eingezäunte städtische Fläche der Stadt, die Hunden vorbehalten ist. Ohne Leine innerhalb des Geheges mit Bänken und Wasserzapfstellen; der umliegende Park verlangt eine Leine. Der Standort ist ideal, um den Hund zwischen zwei Zügen zu bewege`,
   },
   {
     citySlug: "porto",
@@ -559,6 +615,7 @@ const PARKS: Park[] = [
     descEn: `A multi-terraced park high above the Douro River in one of Porto's oldest neighbourhoods. The park has a fully fenced off-leash dog enclosure with a double-gated entrance and a small pool where dogs can cool off in summer. The viewpoint terraces overlook the rooftops of Ribeira a`,
     descFr: `Un parc en terrasses dominant le Douro dans l'un des quartiers les plus anciens de Porto. Il dispose d'un espace canin entièrement clôturé avec une entrée à double portail et un bassin où les chiens peuvent se rafraîchir en été. Les terrasses panoramiques surplombent les toits de`,
     descEs: `Un parque en terrazas elevado sobre el Duero en uno de los barrios más antiguos de Oporto. El parque cuenta con un recinto canino completamente vallado, con entrada de doble portón para mayor seguridad, y un pequeño estanque donde los perros pueden refrescarse en verano. Las terr`,
+    descDe: `Ein mehrfach terrassierter Park hoch über dem Douro in einem der ältesten Viertel Portos. Der Park verfügt über ein vollständig eingezäuntes Hundegehege mit doppelter Toranlage und einem kleinen Becken, in dem sich Hunde im Sommer abkühlen können. Die Aussichtsterrassen blicken über die Dächer von Ribeira und de`,
   },
   {
     citySlug: "prague",
@@ -568,6 +625,7 @@ const PARKS: Park[] = [
     descEn: `Prague's first agility dog playground, a fenced enclosure on Podolské nábřeží on the right bank of the Vltava in Prague 4 (Podolí), entered through double gates. Inside are obstacles, jumps and a balance beam on soft ground, and the riverside setting keeps it shaded and breezy. Trams along the embankment stop nearby.`,
     descFr: `Le premier terrain d'agility pour chiens de Prague, un enclos clôturé sur le Podolské nábřeží, sur la rive droite de la Vltava à Prague 4 (Podolí), avec entrée à double portillon. À l'intérieur : obstacles, sauts et poutre d'équilibre sur sol souple, et le bord de rivière le maintient ombragé et aéré. Les tramways du quai s'arrêtent tout près.`,
     descEs: `El primer parque de agility para perros de Praga, un recinto vallado en el Podolské nábřeží, en la orilla derecha del Moldava en Praga 4 (Podolí), con entrada de doble puerta. Dentro hay obstáculos, saltos y una barra de equilibrio sobre suelo blando, y la ubicación junto al río lo mantiene sombreado y ventilado. Los tranvías del malecón paran muy cerca.`,
+    descDe: `Prags erster Agility-Spielplatz für Hunde, ein eingezäuntes Gehege am Podolské nábřeží am rechten Moldauufer in Prag 4 (Podolí), mit Zugang durch ein doppeltes Tor. Im Inneren gibt es Hindernisse, Sprünge und einen Balancierbalken auf weichem Untergrund, und die Lage am Fluss hält es schattig und luftig. Straßenbahnen entlang des Ufers halten ganz in der Nähe.`,
   },
   {
     citySlug: "reims",
@@ -578,6 +636,7 @@ const PARKS: Park[] = [
     descEn: `22-hectare landscaped park immediately south of the cathedral. Fenced dog zone in the south-east corner.`,
     descFr: `Parc paysage de 22 hectares au sud de la cathedrale. Zone canine cloturee au coin sud-est.`,
     descEs: `Parque paisajistico de 22 hectareas al sur de la catedral. Zona canina vallada en la esquina sureste.`,
+    descDe: `22 Hektar großer Landschaftspark direkt südlich der Kathedrale. Eingezäunte Hundezone in der südöstlichen Ecke.`,
   },
   {
     citySlug: "riga",
@@ -586,6 +645,7 @@ const PARKS: Park[] = [
     descEn: `Lucavsala is a river island in the Daugava, reachable via the Salu Bridge. The northern part of the island hosts what the municipality designates as the largest dog walking park in Riga, a fenced off-leash area adjacent to a riverside swimming spot where dogs can enter the water`,
     descFr: `Lucavsala est une île fluviale dans la Daugava, accessible via le pont Salu. La partie nord de l'île abrite ce que la municipalité désigne comme le plus grand parc de promenade pour chiens de Riga, une zone sans laisse clôturée adjacente à un point de baignade en rivière où les `,
     descEs: `Lucavsala es una isla fluvial en el Daugava, accesible a través del puente Salu. La parte norte de la isla alberga lo que el municipio designa como el mayor parque de paseo para perros de Riga, un área cercada sin correa adyacente a un punto de baño en el río donde los perros pu`,
+    descDe: `Lucavsala ist eine Flussinsel in der Daugava, erreichbar über die Salu-Brücke. Der nördliche Teil der Insel beherbergt das, was die Stadtverwaltung als den größten Hundeauslaufpark Rigas bezeichnet, eine eingezäunte Freilauffläche neben einem Badeplatz am Fluss, wo Hunde ins Wasser gehen könne`,
   },
   {
     citySlug: "riga",
@@ -594,6 +654,7 @@ const PARKS: Park[] = [
     descEn: `One of Riga's best equipped urban dog parks, located across from the historic Viesturdārzs park near Eksporta iela. The fenced enclosure features a full agility course, table, barriers, soft tunnel, walls, arrows, making it a favourite for owners who want to train or simply let`,
     descFr: `L'un des parcs canins urbains les mieux équipés de Riga, situé en face du parc historique Viesturdārzs près d'Eksporta iela. L'enclos clôturé comprend un parcours d'agilité complet, table, barrières, tunnel souple, murs, flèches, ce qui en fait un favori pour les propriétaires `,
     descEs: `Uno de los mejores parques caninos urbanos de Riga, situado frente al histórico parque Viesturdārzs cerca de Eksporta iela. El recinto cercado cuenta con un circuito de agilidad completo, mesa, barreras, túnel blando, paredes, flechas, lo que lo convierte en el favorito de los `,
+    descDe: `Einer der bestausgestatteten Stadthundeparks Rigas, gegenüber dem historischen Park Viesturdārzs nahe der Eksporta iela gelegen. Das eingezäunte Gehege verfügt über einen kompletten Agility-Parcours mit Tisch, Hindernissen, weichem Tunnel, Wänden und Pfeilen, was ihn zum Favoriten für Halter macht, die `,
   },
   {
     citySlug: "riga",
@@ -602,6 +663,7 @@ const PARKS: Park[] = [
     descEn: `A neighbourhood park in central Riga on Pērnavas iela with a specially equipped fenced enclosure for dogs, featuring obstacles and training equipment. Popular with local dog owners for evening runs. The surrounding Grīziņkalns hill area is one of Riga's older neighbourhoods with `,
     descFr: `Un parc de quartier dans le centre de Riga sur Pērnavas iela avec un enclos spécialement équipé et clôturé pour les chiens, comprenant des obstacles et des équipements d'entraînement. Populaire auprès des propriétaires de chiens locaux pour les courses du soir. La zone environnan`,
     descEs: `Un parque de barrio en el centro de Riga en Pērnavas iela con un recinto cercado especialmente equipado para perros, con obstáculos y equipos de entrenamiento. Popular entre los dueños de perros locales para las carreras de tarde. La zona circundante de la colina Grīziņkalns es u`,
+    descDe: `Ein Stadtteilpark im Zentrum Rigas an der Pērnavas iela mit einem speziell ausgestatteten eingezäunten Hundegehege, mit Hindernissen und Trainingsgeräten. Bei lokalen Hundehaltern beliebt für abendliche Ausläufe. Das umliegende Hügelviertel Grīziņkalns ist eines der älteren Viertel Rigas mit e`,
   },
   {
     citySlug: "rotterdam",
@@ -611,6 +673,7 @@ const PARKS: Park[] = [
     descEn: `Rotterdam's largest park (235 ha) contains the 'Hondeneiland' (Dog Island), a fenced off-leash island specifically designed for dogs to play and socialise. Great for dog owners in the south of the city.`,
     descFr: `Le plus grand parc de Rotterdam (235 ha) abrite le 'Hondeneiland' (l'île aux chiens), une île clôturée spécialement conçue pour les jeux et la socialisation canine. Idéal pour les propriétaires du sud de la ville.`,
     descEs: `El parque más grande de Rotterdam (235 ha) alberga el 'Hondeneiland' (isla de los perros): una isla vallada diseñada específicamente para que los perros jueguen y socialicen. Ideal para los dueños del sur de la ciudad.`,
+    descDe: `Rotterdams größter Park (235 ha) beherbergt das 'Hondeneiland' (Hundeinsel), eine eingezäunte Freilaufinsel, die speziell für Hunde zum Spielen und Sozialisieren gestaltet wurde. Ideal für Hundehalter im Süden der Stadt.`,
   },
   {
     citySlug: "salamanca",
@@ -621,6 +684,7 @@ const PARKS: Park[] = [
     descEn: `The largest park in central Salamanca, 13 ha of lawns, mature trees, and a fenced dog area in the south-east corner. Popular with local dog owners morning and evening.`,
     descFr: `Le plus grand parc du centre de Salamanque, 13 ha de pelouses, arbres mûrs et zone canine clôturée dans le coin sud-est. Apprécié des propriétaires locaux matin et soir.`,
     descEs: `El parque más grande del centro de Salamanca, 13 ha de césped, árboles maduros y zona canina vallada en el extremo sureste. Popular entre los dueños locales mañana y tarde.`,
+    descDe: `Der größte Park im Zentrum von Salamanca, 13 ha mit Rasenflächen, alten Bäumen und einer eingezäunten Hundefläche in der südöstlichen Ecke. Bei lokalen Hundehaltern morgens und abends beliebt.`,
   },
   {
     citySlug: "san-sebastian",
@@ -629,6 +693,7 @@ const PARKS: Park[] = [
     descEn: `San Sebastián's most elegant park, a 17-hectare woodland donated to the city in 1898 by the Duke of Mandas in memory of his wife. Shaded paths wind through exotic trees, ponds, and peacock enclosures along the river Urumea. Dogs are welcome throughout on leads, and the riverbank`,
     descFr: `Le parc le plus élégant de Saint-Sébastien, un bois de 17 hectares offert à la ville en 1898 par le duc de Mandas en mémoire de son épouse. Des allées ombragées serpentent parmi des arbres exotiques, des étangs et des enclos à paons le long de la rivière Urumea. Les chiens sont `,
     descEs: `El parque más elegante de San Sebastián, un bosque de 17 hectáreas donado a la ciudad en 1898 por el Duque de Mandas en memoria de su esposa. Senderos sombreados serpentean entre árboles exóticos, estanques y recintos de pavos reales a lo largo del río Urumea. Los perros son bie`,
+    descDe: `San Sebastiáns eleganteste Parkanlage, ein 17 Hektar großer Waldpark, der der Stadt 1898 vom Herzog von Mandas zum Gedenken an seine Frau geschenkt wurde. Schattige Wege schlängeln sich durch exotische Bäume, Teiche und Pfauengehege entlang des Flusses Urumea. Hunde an der Leine sind überall willkommen, und das Flussufe`,
   },
   {
     citySlug: "sofia",
@@ -639,6 +704,7 @@ const PARKS: Park[] = [
     descEn: `A 70-hectare park south of the centre, famous as the city's most permissive off-leash dog space. Long winding paths, open lawns, two fenced enclosures dedicated to dogs (around Emil Berzinski and Petko Y. Todorov), and a route up to the Vitosha foothills. Trams 4 and 6 stop on th`,
     descFr: `Parc de 70 hectares au sud du centre, célèbre comme l'espace canin le plus souple sans laisse de la ville. Longs sentiers sinueux, pelouses ouvertes, deux enclos clôturés dédiés aux chiens (rues Emil Berzinski et Petko Y. Todorov) et un itinéraire qui rejoint les contreforts du V`,
     descEs: `Parque de 70 hectáreas al sur del centro, famoso como el espacio canino más permisivo sin correa de la ciudad. Largos senderos sinuosos, praderas abiertas, dos recintos vallados dedicados a perros (calles Emil Berzinski y Petko Y. Todorov) y una ruta que llega a las estribaciones`,
+    descDe: `Ein 70 Hektar großer Park südlich des Zentrums, bekannt als die freizügigste Freilauffläche der Stadt für Hunde. Lange verschlungene Wege, offene Rasenflächen, zwei eingezäunte Hundegehege (rund um Emil Berzinski und Petko Y. Todorov) und eine Route hinauf zu den Ausläufern des Vitoscha. Die Straßenbahnlinien 4 und 6 halten a`,
   },
   {
     citySlug: "split",
@@ -648,6 +714,7 @@ const PARKS: Park[] = [
     descEn: `Split's main official off-leash spot for dogs is the fenced dog section of Kašjuni beach, on the wooded western flank of the Marjan peninsula. The enclosure lets dogs swim and play freely by the sea, right beside the main pebble beach and separated from it by rocks, so bring your own water as facilities are minimal. Reachable by bus 12 from the centre or a walk through the Marjan forest park, which itself welcomes leashed dogs year-round.`,
     descFr: `Le principal espace sans laisse officiel de Split est la section canine clôturée de la plage de Kašjuni, sur le flanc ouest boisé de la presqu'île de Marjan. L'enclos permet aux chiens de nager et de jouer librement au bord de la mer, juste à côté de la grande plage de galets dont il est séparé par des rochers, alors prévoyez votre eau car les équipements sont minimes. Accessible par le bus 12 depuis le centre ou à pied à travers le parc forestier de Marjan, qui accueille lui-même les chiens en laisse toute l'année.`,
     descEs: `El principal espacio sin correa oficial de Split es la sección canina vallada de la playa de Kašjuni, en la ladera oeste boscosa de la península de Marjan. El recinto permite que los perros naden y jueguen libremente junto al mar, justo al lado de la gran playa de guijarros de la que lo separan unas rocas, así que lleva tu propia agua porque los servicios son mínimos. Se llega en el autobús 12 desde el centro o caminando por el parque forestal de Marjan, que a su vez admite perros con correa todo el año.`,
+    descDe: `Splits wichtigster offizieller Freilaufplatz für Hunde ist der eingezäunte Hundebereich am Strand Kašjuni, an der bewaldeten Westflanke der Halbinsel Marjan. Das Gehege lässt Hunde frei am Meer schwimmen und spielen, direkt neben dem großen Kiesstrand, von dem es durch Felsen getrennt ist, also eigenes Wasser mitbringen, da die Einrichtungen minimal sind. Erreichbar mit dem Bus 12 vom Zentrum oder zu Fuß durch den Waldpark Marjan, der selbst ganzjährig Hunde an der Leine willkommen heißt.`,
   },
   {
     citySlug: "stockholm",
@@ -657,6 +724,7 @@ const PARKS: Park[] = [
     descEn: `A large park on Södermalm's western waterfront with a designated off-leash dog area (hundrastgård) near the allotment gardens. The park slopes down to Lake Mälaren with lovely views across the water. Popular with locals and their dogs year-round, it is especially lively on summer`,
     descFr: `Un grand parc sur le front de mer ouest de Södermalm avec une zone dog-park (hundrastgård) désignée près des jardins ouvriers. Le parc descend vers le lac Mälaren avec de belles vues sur l'eau. Populaire auprès des locaux et de leurs chiens toute l'année, il est particulièrement `,
     descEs: `Un gran parque en el frente marítimo oeste de Södermalm con una zona designada para perros sin correa (hundrastgård) cerca de los jardines familiares. El parque desciende hasta el lago Mälaren con bonitas vistas al agua. Popular entre los locales y sus perros durante todo el año,`,
+    descDe: `Ein großer Park am westlichen Ufer von Södermalm mit einer ausgewiesenen Freilauffläche für Hunde (hundrastgård) nahe den Schrebergärten. Der Park fällt hinunter zum Mälarsee mit herrlichem Blick über das Wasser. Bei Einheimischen und ihren Hunden ganzjährig beliebt, ist er besonders lebhaft an Sommera`,
   },
   {
     citySlug: "strasbourg",
@@ -666,6 +734,7 @@ const PARKS: Park[] = [
     descEn: `Strasbourg's most beloved park, dating back to the 17th century and adjacent to the European Parliament, features a Napoleon III pavilion, a small deer park with Alsatian storks, a lake, and a miniature train. The 0.3-acre fenced off-leash dog area in the northeast corner of the `,
     descFr: `Le parc le plus aimé de Strasbourg, remontant au XVIIe siècle et jouxtant le Parlement Européen, comprend un pavillon Napoléon III, un petit parc aux cerfs avec des cigognes alsaciennes, un lac et un petit train. L'espace canin clôturé de 1 200 m² dans le coin nord-est est le plu`,
     descEs: `El parque más querido de Estrasburgo, que data del siglo XVII y es adyacente al Parlamento Europeo, cuenta con un pabellón Napoleón III, un pequeño parque de ciervos con cigüeñas alsacianas, un lago y un pequeño tren. La zona vallada sin correa de 1.200 m² en la esquina noreste e`,
+    descDe: `Straßburgs beliebtester Park, der auf das 17. Jahrhundert zurückgeht und an das Europäische Parlament grenzt, verfügt über einen Napoleon-III.-Pavillon, einen kleinen Hirschpark mit elsässischen Störchen, einen See und eine Miniatureisenbahn. Die 1.200 m² große eingezäunte Freilauffläche für Hunde in der nordöstlichen Ecke de`,
   },
   {
     citySlug: "stuttgart",
@@ -675,6 +744,7 @@ const PARKS: Park[] = [
     descEn: `The 61-hectare ribbon of Schlossgarten links the city centre to the Neckar at Bad Cannstatt and is the most central walking option. A fenced off-leash meadow (Hundeauslauf) sits in the middle Schlossgarten section between the Eckensee and the Mineralbad Berg.`,
     descFr: `Le ruban du Schlossgarten (61 ha) relie le centre-ville au Neckar à Bad Cannstatt et constitue la promenade la plus centrale. Une prairie clôturée sans laisse (Hundeauslauf) se trouve dans le Mittelschlossgarten, entre l'Eckensee et le Mineralbad Berg.`,
     descEs: `El cinturón del Schlossgarten (61 ha) une el centro con el Neckar en Bad Cannstatt y es la opción de paseo más céntrica. Una pradera vallada sin correa (Hundeauslauf) está en el Schlossgarten medio, entre el Eckensee y el Mineralbad Berg.`,
+    descDe: `Das 61 Hektar große Band des Schlossgartens verbindet das Stadtzentrum mit dem Neckar in Bad Cannstatt und ist die zentralste Spazieroption. Eine eingezäunte Freilaufwiese (Hundeauslauf) liegt im Mittleren Schlossgarten zwischen dem Eckensee und dem Mineralbad Berg.`,
   },
   {
     citySlug: "tallinn",
@@ -683,6 +753,7 @@ const PARKS: Park[] = [
     descEn: `One of Tallinn's best-equipped urban dog parks, located south of the Old Town. Tiigiveski features a proper agility course within its off-leash area, a significant upgrade from a basic fenced enclosure. Popular with local dog owners for training and socialisation. The park is cl`,
     descFr: `L'un des parcs canins urbains les mieux équipés de Tallinn, situé au sud de la vieille ville. Tiigiveski dispose d'un véritable parcours d'agilité dans sa zone de liberté, une amélioration significative par rapport à un simple enclos clôturé. Populaire auprès des propriétaires d`,
     descEs: `Uno de los mejores parques caninos urbanos de Tallinn, ubicado al sur del casco antiguo. Tiigiveski cuenta con un circuito de agilidad completo dentro de su área sin correa, una mejora significativa respecto a un simple recinto cercado. Popular entre los dueños de perros locales`,
+    descDe: `Einer der bestausgestatteten Stadthundeparks Tallinns, südlich der Altstadt gelegen. Tiigiveski verfügt über einen richtigen Agility-Parcours innerhalb seiner Freilauffläche, eine deutliche Aufwertung gegenüber einem einfachen eingezäunten Gehege. Bei lokalen Hundehaltern beliebt zum Trainieren und Sozialisieren. Der Park ist g`,
   },
   {
     citySlug: "tampere",
@@ -693,6 +764,7 @@ const PARKS: Park[] = [
     descEn: `Tampere's largest urban forest, 700 ha of pine and spruce north-east of the centre, 30 km of marked summer hiking and winter cross-country ski trails, 4 fenced koira-aitaus, and direct access to Lake Näsijärvi.`,
     descFr: `La plus grande forêt urbaine de Tampere, 700 ha de pins et d'épicéas au nord-est du centre, 30 km de sentiers de randonnée estivale et de ski de fond hivernal balisés, 4 koira-aitaus clôturés, et accès direct au lac Näsijärvi.`,
     descEs: `El mayor bosque urbano de Tampere, 700 ha de pinos y abetos al noreste del centro, 30 km de senderos balizados de senderismo estival y esquí de fondo invernal, 4 koira-aitaus vallados, y acceso directo al lago Näsijärvi.`,
+    descDe: `Tamperes größter Stadtwald, 700 ha Kiefern- und Fichtenwald nordöstlich des Zentrums, 30 km markierte Sommerwander- und Winterloipenwege, 4 eingezäunte koira-aitaus und direkter Zugang zum Näsijärvi-See.`,
   },
   {
     citySlug: "toledo",
@@ -703,6 +775,7 @@ const PARKS: Park[] = [
     descEn: `Toledo's largest urban green space, 13 hectares with fountains, ornamental gardens, the Río Tajo riverside section. Free, dog-friendly with leashed dogs on main paths and a fenced dog zone in the north corner.`,
     descFr: `Le plus grand espace vert urbain de Toledo, 13 hectares avec fontaines, jardins d'agrément, section riveraine du Tage. Gratuit, dog-friendly avec chiens en laisse sur les allées principales et une zone canine clôturée au coin nord.`,
     descEs: `El mayor espacio verde urbano de Toledo, 13 hectáreas con fuentes, jardines ornamentales, sección ribereña del Tajo. Gratis, dog-friendly con perros con correa en los paseos principales y una zona canina vallada en la esquina norte.`,
+    descDe: `Toledos größte städtische Grünfläche, 13 Hektar mit Brunnen, Ziergärten und einem Abschnitt am Ufer des Río Tajo. Kostenlos, hundefreundlich mit Hunden an der Leine auf den Hauptwegen und einer eingezäunten Hundezone in der nördlichen Ecke.`,
   },
   {
     citySlug: "toulouse",
@@ -711,6 +784,7 @@ const PARKS: Park[] = [
     descEn: `A 7-hectare formal garden near the Toulouse-Matabiau train station with alleys, lawns, and a Japanese garden section. Dogs can walk in the alleys and use the lawns for picnics, though the Japanese garden is restricted. A caniparc (fenced dog area) is available within the garden. `,
     descFr: `Un jardin formel de 7 hectares près de la gare Toulouse-Matabiau avec allées, pelouses et un jardin japonais. Les chiens peuvent se promener dans les allées et utiliser les pelouses pour les pique-niques, bien que le jardin japonais soit restreint. Un caniparc (espace canin clôtu`,
     descEs: `Un jardín formal de 7 hectáreas cerca de la estación de Toulouse-Matabiau con paseos, céspedes y un jardín japonés. Los perros pueden pasear por los senderos y usar los céspedes para picnics, aunque el jardín japonés está restringido. Hay un caniparc (área canina vallada) disponi`,
+    descDe: `Ein 7 Hektar großer formaler Garten nahe dem Bahnhof Toulouse-Matabiau mit Alleen, Rasenflächen und einem japanischen Gartenteil. Hunde dürfen auf den Alleen laufen und die Rasenflächen für Picknicks nutzen, wobei der japanische Garten eingeschränkt ist. Ein Caniparc (eingezäunte Hundefläche) ist innerhalb des Gartens verfügba`,
   },
   {
     citySlug: "turin",
@@ -721,6 +795,7 @@ const PARKS: Park[] = [
     descEn: `Turin's most beloved public park, 84 hectares stretched along the Po river from Corso Vittorio to the Borgo Medievale. Two fenced Aree Cani (one near the castle, one at the southern end), shaded riverside paths, and a dog-friendly gelateria on the promenade.`,
     descFr: `Le parc public le plus aimé de Turin, 84 hectares étirés le long du Pô, du Corso Vittorio au Borgo Medievale. Deux Aree Cani clôturées (une près du château, une à l'extrémité sud), sentiers ombragés le long du fleuve et une gelateria dog-friendly sur la promenade.`,
     descEs: `El parque público más querido de Turín, 84 hectáreas a lo largo del Po, desde Corso Vittorio hasta el Borgo Medievale. Dos Aree Cani valladas (una cerca del castillo, otra en el extremo sur), senderos sombreados junto al río y una gelatería dog-friendly en el paseo.`,
+    descDe: `Turins beliebtester öffentlicher Park, 84 Hektar entlang des Po vom Corso Vittorio bis zum Borgo Medievale. Zwei eingezäunte Aree Cani (eine nahe dem Schloss, eine am südlichen Ende), schattige Uferwege und eine hundefreundliche Gelateria auf der Promenade.`,
   },
   {
     citySlug: "utrecht",
@@ -731,6 +806,7 @@ const PARKS: Park[] = [
     descEn: `A 16-hectare urban park north of the centre with a clearly marked off-leash zone, a fenced playground, a pet-friendly café, and a steady stream of local dogs from the Vogelenbuurt and Wittevrouwen neighbourhoods. It's the easiest off-leash run for anyone staying in central Utrech`,
     descFr: `Parc urbain de 16 hectares au nord du centre, avec zone sans laisse clairement balisée, plaine de jeu clôturée, café dog-friendly, et un défilé constant de chiens locaux des quartiers Vogelenbuurt et Wittevrouwen. C'est le terrain sans laisse le plus accessible pour quiconque log`,
     descEs: `Parque urbano de 16 hectáreas al norte del centro, con zona sin correa bien señalizada, parque infantil vallado, cafetería pet-friendly y un goteo constante de perros locales de los barrios Vogelenbuurt y Wittevrouwen. Es la salida sin correa más accesible para quien se aloja en `,
+    descDe: `Ein 16 Hektar großer Stadtpark nördlich des Zentrums mit einer klar markierten Freilaufzone, einem eingezäunten Spielplatz, einem tierfreundlichen Café und einem stetigen Strom lokaler Hunde aus den Vierteln Vogelenbuurt und Wittevrouwen. Er ist der einfachste Freilaufort für alle, die im Zentrum von Utrech`,
   },
   {
     citySlug: "valencia",
@@ -741,6 +817,7 @@ const PARKS: Park[] = [
     descEn: `A fenced canine area of about 1,380 square metres inside the modern Parque Central near the North Station, in the Russafa quarter. Enclosed by a 1.5-metre fence with bag dispensers, drinking fountains and benches, it opened with the park in 2019 and gives inner-city dogs a secure off-leash run. A short walk from Xàtiva and Bailén stations.`,
     descFr: `Une aire canine clôturée d'environ 1 380 mètres carrés au sein du moderne Parque Central, près de la gare du Nord, dans le quartier de Russafa. Fermée par une clôture d'1,5 mètre, avec distributeurs de sacs, fontaines à boire et bancs, elle a ouvert avec le parc en 2019 et offre aux chiens du centre une course sans laisse en sécurité. À courte distance des stations Xàtiva et Bailén.`,
     descEs: `Una área canina vallada de unos 1.380 metros cuadrados dentro del moderno Parque Central, junto a la Estación del Norte, en el barrio de Russafa. Cerrada por una valla de 1,5 metros, con dispensadores de bolsas, fuentes de agua y bancos, abrió con el parque en 2019 y ofrece a los perros del centro una carrera sin correa segura. A poca distancia de las estaciones de Xàtiva y Bailén.`,
+    descDe: `Eine eingezäunte Hundefläche von rund 1.380 Quadratmetern im modernen Parque Central nahe dem Nordbahnhof, im Viertel Russafa. Umgeben von einem 1,5 Meter hohen Zaun mit Beutelspendern, Trinkbrunnen und Bänken, wurde sie 2019 zusammen mit dem Park eröffnet und bietet Hunden aus der Innenstadt einen sicheren Freilauf. Ein kurzer Spaziergang von den Bahnhöfen Xàtiva und Bailén entfernt.`,
   },
   {
     citySlug: "verona",
@@ -750,6 +827,7 @@ const PARKS: Park[] = [
     descEn: `An official municipal dog park in the Golosine district with a fully fenced off-leash area featuring separate sections for large and small dogs. Equipped with water fountains, shaded seating, and double-gated entrances for security. Free parking is available nearby. Consistently `,
     descFr: `Un parc canin municipal officiel dans le quartier Golosine, avec une zone hors laisse entièrement clôturée divisée en sections pour grands et petits chiens. Équipé de fontaines d'eau, de sièges ombragés et de doubles portails de sécurité. Parking gratuit à proximité. Régulièremen`,
     descEs: `Un parque canino municipal oficial en el barrio Golosine, con una zona sin correa totalmente vallada con secciones separadas para perros grandes y pequeños. Equipado con fuentes de agua, asientos a la sombra y doble puerta de seguridad. Aparcamiento gratuito cerca. Constantemente`,
+    descDe: `Ein offizieller städtischer Hundepark im Viertel Golosine mit einer vollständig eingezäunten Freilauffläche, aufgeteilt in getrennte Bereiche für große und kleine Hunde. Ausgestattet mit Wasserbrunnen, schattigen Sitzgelegenheiten und doppelten Toranlagen zur Sicherheit. In der Nähe steht kostenloser Parkplatz zur Verfügung. Durchgehen`,
   },
   {
     citySlug: "vienna",
@@ -759,6 +837,7 @@ const PARKS: Park[] = [
     descEn: `A fully fenced off-leash Hundezone on Heldenplatz, right beside the Hofburg palace in Vienna's Innere Stadt (1st district), surfaced with bark mulch. Central and easy to reach, dogs run leash-free and muzzle-free inside the fence, as in all Vienna Hundezonen. Trams and the U3 at Herrengasse are a short walk, but note the muzzle rule on Vienna public transport getting there.`,
     descFr: `Une Hundezone sans laisse enti\u00e8rement cl\u00f4tur\u00e9e sur la Heldenplatz, juste \u00e0 c\u00f4t\u00e9 du palais de la Hofburg, dans l'Innere Stadt de Vienne (1er arrondissement), au sol en copeaux d'\u00e9corce. Centrale et facile d'acc\u00e8s, les chiens y courent sans laisse ni museli\u00e8re \u00e0 l'int\u00e9rieur de la cl\u00f4ture, comme dans toutes les Hundezonen viennoises. Tramways et U3 \u00e0 Herrengasse \u00e0 courte distance, mais attention \u00e0 l'obligation de museli\u00e8re dans les transports viennois pour y aller.`,
     descEs: `Una Hundezone sin correa totalmente vallada en la Heldenplatz, justo al lado del palacio de la Hofburg, en el centro hist\u00f3rico de Viena (distrito 1), con suelo de corteza triturada. C\u00e9ntrica y de f\u00e1cil acceso, los perros corren sin correa ni bozal dentro de la valla, como en todas las Hundezonen vienesas. Tranv\u00edas y la U3 en Herrengasse quedan cerca, pero ten en cuenta la obligaci\u00f3n de bozal en el transporte p\u00fablico vien\u00e9s para llegar.`,
+    descDe: `Eine vollst\u00e4ndig eingez\u00e4unte Hundezone am Heldenplatz, direkt neben der Hofburg in Wiens Innerer Stadt (1. Bezirk), mit Rindenmulch als Bodenbelag. Zentral und leicht erreichbar, laufen Hunde innerhalb des Zauns ohne Leine und ohne Maulkorb, wie in allen Wiener Hundezonen. Stra\u00dfenbahnen und die U3 an der Herrengasse sind einen kurzen Fu\u00dfweg entfernt, doch beachten Sie die Maulkorbpflicht in den Wiener \u00f6ffentlichen Verkehrsmitteln auf dem Weg dorthin.`,
   },
   {
     citySlug: "vilnius",
@@ -769,6 +848,7 @@ const PARKS: Park[] = [
     descEn: `Vilnius's only dedicated, fenced municipal dog park, sponsored by Purina and located on the north bank of the Neris in the modern Šnipiškės business district. Two separate fenced sections (small/large), agility equipment, water taps, and shaded benches. The Constitution Square is`,
     descFr: `Seul parc canin clôturé municipal dédié de Vilnius, sponsorisé par Purina et situé sur la rive nord de la Neris dans le quartier d'affaires moderne de Šnipiškės. Deux sections clôturées séparées (petits/grands), agility, robinets et bancs ombragés. La place de la Constitution est`,
     descEs: `El único parque canino municipal cerrado y dedicado de Vilna, patrocinado por Purina y situado en la orilla norte del Neris, en el moderno distrito de negocios de Šnipiškės. Dos secciones valladas separadas (pequeños/grandes), agility, fuentes y bancos con sombra. La Plaza de la `,
+    descDe: `Vilnius' einziger eigener, eingezäunter städtischer Hundepark, gesponsert von Purina und am Nordufer der Neris im modernen Geschäftsviertel Šnipiškės gelegen. Zwei getrennte eingezäunte Bereiche (klein/groß), Agility-Geräte, Wasserzapfstellen und schattige Bänke. Der Verfassungsplatz i`,
   },
   {
     citySlug: "wroclaw",
@@ -779,6 +859,7 @@ const PARKS: Park[] = [
     descEn: `A large, lived-in residential park covering roughly 50 hectares on the southwest side of the city, and arguably the most popular dog park in Wroclaw. Inside, the well-known Dog Meadow (Łąka dla psów) is a fully fenced off-leash zone with agility equipment, tunnels, ramps, and sla`,
     descFr: `Un grand parc résidentiel vivant d'environ 50 hectares au sud-ouest de la ville, sans doute le parc canin le plus populaire de Wroclaw. À l'intérieur, la fameuse Prairie aux Chiens (Łąka dla psów) est une zone clôturée sans laisse avec agility, tunnels, rampes et slalom, où les p`,
     descEs: `Un gran parque residencial muy vivo de unas 50 hectáreas en el suroeste de la ciudad, posiblemente el parque canino más popular de Wroclaw. Dentro, la conocida Pradera de Perros (Łąka dla psów) es una zona vallada sin correa con equipamiento de agility, túneles, rampas y eslalon,`,
+    descDe: `Ein großer, lebendiger Wohnpark auf rund 50 Hektar im Südwesten der Stadt und wohl der beliebteste Hundepark in Wroclaw. Im Inneren ist die bekannte Hundewiese (Łąka dla psów) eine vollständig eingezäunte Freilaufzone mit Agility-Geräten, Tunneln, Rampen und Slalo`,
   },
   {
     citySlug: "wroclaw",
@@ -789,6 +870,7 @@ const PARKS: Park[] = [
     descEn: `A small grassy island in the middle of the Odra river, a five-minute walk from the Rynek and the most beloved hangout in central Wroclaw. The lawn is open, shaded, and ringed by floating bars and views of the baroque University. Dogs are welcome everywhere on leash and the rivers`,
     descFr: `Une petite île herbeuse au milieu de l'Odra, à cinq minutes à pied du Rynek et le coin préféré du centre de Wroclaw. La pelouse est ouverte, ombragée et entourée de bars flottants avec vue sur l'Université baroque. Les chiens sont les bienvenus partout en laisse et les chemins en`,
     descEs: `Una pequeña isla con césped en medio del río Odra, a cinco minutos a pie del Rynek y el lugar favorito del centro de Wroclaw. La pradera es abierta, sombreada y está rodeada de bares flotantes y vistas a la Universidad barroca. Los perros son bienvenidos en todas partes con corre`,
+    descDe: `Eine kleine Grasinsel mitten in der Oder, fünf Gehminuten vom Rynek entfernt und der beliebteste Treffpunkt im Zentrum von Wroclaw. Die Rasenfläche ist offen, schattig und von schwimmenden Bars sowie Ausblicken auf die barocke Universität umgeben. Hunde sind überall an der Leine willkommen, und die Ufe`,
   },
   {
     citySlug: "zagreb",
@@ -798,6 +880,7 @@ const PARKS: Park[] = [
     descEn: `Zagreb's flagship 316-hectare park with five lakes and the city's main fenced off-leash dog zone near the second lake. Tram lines 4, 7, 11, and 12 stop at the entrance. The 4 km perimeter loop is the classic long walk; the woodland sections beyond the lakes stay quiet even on wee`,
     descFr: `Parc emblématique de Zagreb (316 ha) avec cinq lacs et la principale zone sans laisse clôturée de la ville, près du deuxième lac. Les trams 4, 7, 11 et 12 desservent l'entrée. La boucle périmétrique de 4 km est la grande promenade classique ; les sections boisées au-delà des lacs`,
     descEs: `Parque emblemático de Zagreb (316 ha) con cinco lagos y la principal zona sin correa vallada de la ciudad, cerca del segundo lago. Los tranvías 4, 7, 11 y 12 paran en la entrada. El bucle perimetral de 4 km es el paseo largo clásico; las zonas boscosas más allá de los lagos sigue`,
+    descDe: `Zagrebs Vorzeigepark mit 316 Hektar, fünf Seen und der wichtigsten eingezäunten Freilaufzone der Stadt für Hunde nahe dem zweiten See. Die Straßenbahnlinien 4, 7, 11 und 12 halten am Eingang. Die 4 km lange Umrundung ist der klassische lange Spaziergang; die Waldabschnitte jenseits der Seen bleiben selbst am Wochenend`,
   },
   {
     citySlug: "zagreb",
@@ -807,6 +890,7 @@ const PARKS: Park[] = [
     descEn: `A 54-hectare modern park south of the Sava river with a designated fenced dog zone, two lakes, jogging paths, and broad open meadows. Quieter than Maksimir on weekdays. Tram lines 7 and 14 cross the river to the park edge, then a 5-minute walk.`,
     descFr: `Parc moderne de 54 hectares au sud de la Sava, avec une zone canine clôturée dédiée, deux lacs, des chemins de jogging et de larges prairies ouvertes. Plus calme que Maksimir en semaine. Les trams 7 et 14 traversent le fleuve jusqu'au bord du parc, puis 5 minutes à pied.`,
     descEs: `Parque moderno de 54 hectáreas al sur del río Sava, con una zona canina vallada, dos lagos, senderos para correr y amplias praderas abiertas. Más tranquilo que Maksimir entre semana. Los tranvías 7 y 14 cruzan el río hasta el borde del parque, luego 5 minutos a pie.`,
+    descDe: `Ein 54 Hektar großer moderner Park südlich der Save mit einer ausgewiesenen eingezäunten Hundezone, zwei Seen, Jogging-Wegen und weiten offenen Wiesen. Unter der Woche ruhiger als Maksimir. Die Straßenbahnlinien 7 und 14 überqueren den Fluss bis zum Parkrand, dann 5 Minuten zu Fuß.`,
   },
   {
     citySlug: "zaragoza",
@@ -815,6 +899,7 @@ const PARKS: Park[] = [
     descEn: `On the north bank of the Ebro, opposite the Casco Histórico across the Pilar Bridge. Hosts one of the city's largest fenced canine recreation zones: 4,725 m² split into two perimeter-fenced areas, 2,050 m² for calm dogs and 2,675 m² for active dogs, with double security gates, `,
     descFr: `Sur la rive nord de l'Ebre, face au Casco Histórico via le Pont du Pilar. Abrite l'une des plus grandes zones canines clôturées de la ville : 4 725 m² divisés en deux espaces, 2 050 m² pour chiens calmes et 2 675 m² pour chiens actifs, avec doubles portails de sécurité, fontain`,
     descEs: `En la orilla norte del Ebro, frente al Casco Histórico cruzando el Puente del Pilar. Alberga una de las mayores zonas caninas valladas de la ciudad: 4.725 m² divididos en dos espacios, 2.050 m² para perros tranquilos y 2.675 m² para perros activos, con dobles puertas de segurid`,
+    descDe: `Am Nordufer des Ebro, gegenüber dem Casco Histórico jenseits der Pilar-Brücke. Beherbergt eine der größten eingezäunten Hundeauslaufzonen der Stadt: 4.725 m², aufgeteilt in zwei umzäunte Bereiche, 2.050 m² für ruhige Hunde und 2.675 m² für aktive Hunde, mit doppelten Sicherheitstore`,
   },
   {
     citySlug: "zaragoza",
@@ -823,6 +908,7 @@ const PARKS: Park[] = [
     descEn: `A 4-hectare neighbourhood park in the Almozara district with one of Zaragoza's most popular fenced dog enclosures, a flat, fully gated grass and gravel zone with two entrances, water fountains for dogs, and shade from mature pines. The enclosure is unrestricted by hour; the surr`,
     descFr: `Un parc de quartier de 4 hectares dans le district de l'Almozara, avec l'un des enclos à chiens clôturés les plus populaires de Saragosse, une zone plate, entièrement fermée, mêlant herbe et gravier, avec deux entrées, fontaines à eau pour chiens et ombrage de pins matures. L'en`,
     descEs: `Un parque de barrio de 4 hectáreas en el distrito de la Almozara con uno de los recintos caninos vallados más populares de Zaragoza, una zona plana, totalmente cerrada, con hierba y gravilla, dos entradas, fuentes de agua para perros y sombra de pinos maduros. El recinto no tien`,
+    descDe: `Ein 4 Hektar großer Stadtteilpark im Bezirk Almozara mit einem der beliebtesten eingezäunten Hundegehege Zaragozas, einer flachen, vollständig umzäunten Rasen- und Kiesfläche mit zwei Eingängen, Trinkbrunnen für Hunde und Schatten von alten Pinien. Das Gehege ist zeitlich unbeschränkt zugänglich; die umliegen`,
   },]
 
 // Tally cities and countries for stats
@@ -1161,11 +1247,12 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               if (!dest) return null
               const cityName = getLocalizedCityName(p.citySlug, dest.name, l)
               const countryName = getLocalizedCountryName(dest.country, l)
-              const desc = l === 'fr' ? p.descFr : l === 'es' ? p.descEs : p.descEn
+              const desc = l === 'fr' ? p.descFr : l === 'es' ? p.descEs : l === 'de' ? p.descDe ?? p.descEn : p.descEn
               const proximityLabel =
                 l === 'fr' ? `Où dormir près de ${p.name}` :
                 l === 'es' ? `Dónde dormir cerca de ${p.name}` :
                 l === 'pt' ? `Onde dormir perto de ${p.name}` :
+                l === 'de' ? `Übernachten in der Nähe von ${p.name}` :
                 `Where to stay near ${p.name}`
               return (
                 <li key={`${p.citySlug}-${p.name}-${i}`} className="rounded-xl border border-gray-200 bg-white shadow-sm transition hover:shadow-md">
@@ -1227,9 +1314,10 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           l === 'fr' ? `Hôtels pet-friendly dans les grandes villes européennes` :
           l === 'es' ? 'Hoteles pet-friendly en grandes ciudades europeas' :
           l === 'pt' ? `Hotéis pet-friendly nas grandes cidades europeias` :
+          l === 'de' ? 'Tierfreundliche Hotels in den großen europäischen Städten' :
           'Pet-friendly hotels in major European cities'
         }
-        cta={l === 'fr' ? 'Voir' : l === 'es' ? 'Ver' : l === 'pt' ? 'Ver' : 'View'}
+        cta={l === 'fr' ? 'Voir' : l === 'es' ? 'Ver' : l === 'pt' ? 'Ver' : l === 'de' ? 'Ansehen' : 'View'}
       />
     </>
   )

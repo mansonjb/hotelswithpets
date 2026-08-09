@@ -628,6 +628,7 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
                             locale === 'fr' ? `Où dormir près de ${b.beachName}` :
                             locale === 'es' ? `Dónde dormir cerca de ${b.beachName}` :
                             locale === 'pt' ? `Onde dormir perto de ${b.beachName}` :
+                            locale === 'de' ? `Übernachten in der Nähe von ${b.beachName}` :
                             `Where to stay near ${b.beachName}`
                           }
                         />
@@ -772,12 +773,14 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           locale === 'fr' ? `Hôtels pet-friendly Côte d'Azur dès 95 €/nuit` :
           locale === 'es' ? `Hoteles pet-friendly Costa Azul desde 95 €/noche` :
           locale === 'pt' ? `Hotéis pet-friendly Costa Azul desde 95 €/noite` :
+          locale === 'de' ? `Haustierfreundliche Hotels an der Côte d'Azur ab 95 €/Nacht` :
           `Pet-friendly Côte d'Azur hotels from €95/night`
         }
         cta={
           locale === 'fr' ? 'Voir' :
           locale === 'es' ? 'Ver' :
           locale === 'pt' ? 'Ver' :
+          locale === 'de' ? 'Ansehen' :
           'View'
         }
       />

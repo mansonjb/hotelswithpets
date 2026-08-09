@@ -21,7 +21,7 @@ type Beach = {
   rank: number
   name: string
   citySlug: string
-  whyEn: string; whyFr: string; whyEs: string
+  whyEn: string; whyFr: string; whyEs: string; whyDe?: string
   yearRound: boolean
   coast: 'atlantic' | 'mediterranean' | 'north-sea' | 'baltic' | 'lake'
   imageSlug: string // city-place image filename suffix
@@ -34,6 +34,7 @@ const BEACHES: Beach[] = [
     whyEn: '10 km of car-free Atlantic barrier island, only one restaurant on the entire island, off-leash year-round on the western 8 km. Reachable by Animaris ferry from Faro Marina in 35 min.',
     whyFr: '10 km d\'île barrière atlantique sans voiture, un seul restaurant sur toute l\'île, sans laisse toute l\'année sur les 8 km à l\'ouest. Accessible par ferry Animaris depuis la marina de Faro en 35 min.',
     whyEs: '10 km de isla barrera atlántica sin coches, un solo restaurante en toda la isla, sin correa todo el año en los 8 km occidentales. Accesible en ferry Animaris desde la Marina de Faro en 35 min.',
+    whyDe: '10 km autofreie atlantische Barriereinsel, nur ein Restaurant auf der ganzen Insel, ganzjährig Freilauf auf den westlichen 8 km. Erreichbar per Animaris-Fähre ab der Marina von Faro in 35 Min.',
   },
   {
     rank: 2, name: 'Filey Beach', citySlug: 'york', yearRound: true, coast: 'north-sea',
@@ -41,6 +42,7 @@ const BEACHES: Beach[] = [
     whyEn: 'A 5-mile crescent of firm golden sand framed by Filey Brigg headland. The northern end is dog-friendly year-round and the locals\' favourite for off-leash running. Direct LNER train from York in 1h15.',
     whyFr: 'Croissant de 8 km de sable doré ferme bordé par le promontoire de Filey Brigg. L\'extrémité nord est dog-friendly toute l\'année et le favori local pour la course sans laisse. Train LNER direct depuis York en 1h15.',
     whyEs: 'Media luna de 8 km de arena dorada firme delimitada por el promontorio de Filey Brigg. El extremo norte es dog-friendly todo el año y el favorito local para correr sin correa. Tren LNER directo desde York en 1h15.',
+    whyDe: 'Ein 8 km langer Halbmond aus festem goldenem Sand, gerahmt vom Filey Brigg. Das nördliche Ende ist ganzjährig hundefreundlich und bei Einheimischen für den Freilauf beliebt. Direkter LNER-Zug ab York in 1h15.',
   },
   {
     rank: 3, name: 'Punta Prosciutto (Bau Beach)', citySlug: 'lecce', yearRound: true, coast: 'mediterranean',
@@ -48,6 +50,7 @@ const BEACHES: Beach[] = [
     whyEn: 'Dedicated Bau Beach (dog beach) on the Salento\'s Ionian side, fine white sand, shallow turquoise water, sun loungers and umbrellas for owners. 45 min by car west of Lecce.',
     whyFr: 'Bau Beach dédiée côté ionien du Salento, sable blanc fin, eau turquoise peu profonde, transats et parasols pour les maîtres. 45 min en voiture à l\'ouest de Lecce.',
     whyEs: 'Bau Beach dedicada en el lado jónico del Salento, arena blanca fina, agua turquesa poco profunda, tumbonas y sombrillas para los dueños. 45 min en coche al oeste de Lecce.',
+    whyDe: 'Eigene Bau Beach (Hundestrand) an der ionischen Seite des Salento, feiner weißer Sand, seichtes türkisfarbenes Wasser, Liegen und Sonnenschirme für die Halter. 45 Min. mit dem Auto westlich von Lecce.',
   },
   {
     rank: 4, name: 'Praia do Barril (Anchor Cemetery)', citySlug: 'faro', yearRound: true, coast: 'atlantic',
@@ -55,6 +58,7 @@ const BEACHES: Beach[] = [
     whyEn: 'On the Tavira-Ilha de Tavira barrier island, accessible by foot bridge or miniature train from Pedras del Rei. The Cemitério das Âncoras east of the central beach is the year-round dog zone.',
     whyFr: 'Sur l\'île barrière Tavira-Ilha de Tavira, accessible par passerelle ou train miniature depuis Pedras del Rei. Le Cemitério das Âncoras à l\'est de la plage centrale est la zone canine toute l\'année.',
     whyEs: 'En la isla barrera Tavira-Ilha de Tavira, accesible por puente peatonal o tren en miniatura desde Pedras del Rei. El Cemitério das Âncoras al este de la playa central es la zona canina todo el año.',
+    whyDe: 'Auf der Barriereinsel Tavira-Ilha de Tavira, erreichbar über eine Fußgängerbrücke oder die Miniaturbahn ab Pedras del Rei. Der Cemitério das Âncoras östlich des Hauptstrands ist die ganzjährige Hundezone.',
   },
   {
     rank: 5, name: 'Sandsend Beach', citySlug: 'york', yearRound: true, coast: 'north-sea',
@@ -62,6 +66,7 @@ const BEACHES: Beach[] = [
     whyEn: 'A long broad beach 3 miles north of Whitby, among the few major Yorkshire beaches with year-round off-leash freedom along its full length. Backed by jurassic cliffs.',
     whyFr: 'Longue plage large à 5 km au nord de Whitby, l\'une des rares grandes plages du Yorkshire avec liberté sans laisse toute l\'année sur toute sa longueur. Adossée à des falaises jurassiques.',
     whyEs: 'Larga playa amplia a 5 km al norte de Whitby, una de las pocas grandes playas de Yorkshire con libertad sin correa todo el año en toda su longitud. Respaldada por acantilados jurásicos.',
+    whyDe: 'Ein langer, breiter Strand 5 km nördlich von Whitby, einer der wenigen großen Yorkshire-Strände mit ganzjährigem Freilauf auf voller Länge. Von Jurafelsen gesäumt.',
   },
   {
     rank: 6, name: 'Bellevue Strand', citySlug: 'aarhus', yearRound: true, coast: 'baltic',
@@ -69,6 +74,7 @@ const BEACHES: Beach[] = [
     whyEn: 'A signposted year-round dog beach immediately north of Aarhus city centre, flat sand, shallow Baltic water perfect for puppies, accessible by bus 17 in 12 min from the centre.',
     whyFr: 'Plage canine signalée toute l\'année immédiatement au nord du centre d\'Aarhus, sable plat, eaux baltes peu profondes parfaites pour les chiots, accessible en bus 17 en 12 min du centre.',
     whyEs: 'Playa canina señalizada todo el año inmediatamente al norte del centro de Aarhus, arena plana, agua báltica poco profunda perfecta para cachorros, accesible en bus 17 en 12 min del centro.',
+    whyDe: 'Ein ausgeschilderter ganzjähriger Hundestrand direkt nördlich der Innenstadt von Aarhus, flacher Sand, seichtes Ostseewasser, perfekt für Welpen, mit Bus 17 in 12 Min. vom Zentrum erreichbar.',
   },
   {
     rank: 7, name: 'Frassanito', citySlug: 'lecce', yearRound: true, coast: 'mediterranean',
@@ -76,6 +82,7 @@ const BEACHES: Beach[] = [
     whyEn: 'A sandy stretch within the Alimini Lakes natural reserve, 35 min by car north of Otranto. Year-round dog-friendly with shaded pinewood backing, rare on the Salento coast.',
     whyFr: 'Section sablonneuse au sein de la réserve naturelle des lacs Alimini, à 35 min en voiture au nord d\'Otrante. Dog-friendly toute l\'année avec pinède en arrière, rare sur la côte du Salento.',
     whyEs: 'Tramo arenoso dentro de la reserva natural de los lagos Alimini, a 35 min en coche al norte de Otranto. Dog-friendly todo el año con pinar detrás, raro en la costa del Salento.',
+    whyDe: 'Ein Sandabschnitt im Naturschutzgebiet der Alimini-Seen, 35 Min. mit dem Auto nördlich von Otranto. Ganzjährig hundefreundlich mit schattigem Pinienwald im Rücken, selten an der Salento-Küste.',
   },
   {
     rank: 8, name: 'Hondenstrand Zandvoort', citySlug: 'amsterdam', yearRound: true, coast: 'north-sea',
@@ -83,6 +90,7 @@ const BEACHES: Beach[] = [
     whyEn: 'Amsterdam\'s nearest North Sea dog beach, a 1.5 km signposted Hondenstrand at the southern end of Zandvoort. Direct NS train from Amsterdam Centraal in 30 min.',
     whyFr: 'La plage canine de la mer du Nord la plus proche d\'Amsterdam, Hondenstrand signalée d\'1,5 km à l\'extrémité sud de Zandvoort. Train NS direct depuis Amsterdam Centraal en 30 min.',
     whyEs: 'La playa canina del Mar del Norte más cercana a Ámsterdam, Hondenstrand señalizada de 1,5 km en el extremo sur de Zandvoort. Tren NS directo desde Amsterdam Centraal en 30 min.',
+    whyDe: 'Amsterdams nächstgelegener Nordsee-Hundestrand, ein ausgeschilderter 1,5 km langer Hondenstrand am südlichen Ende von Zandvoort. Direkter NS-Zug ab Amsterdam Centraal in 30 Min.',
   },
   {
     rank: 9, name: 'Westduinpark Dunes', citySlug: 'the-hague', yearRound: true, coast: 'north-sea',
@@ -90,6 +98,7 @@ const BEACHES: Beach[] = [
     whyEn: 'Off-leash dunes plus a year-round North Sea dog beach south of Scheveningen, 2 km of unbroken sand walking, the Bosjes van Poot pinewood as backdrop. The most-loved dog walk of The Hague.',
     whyFr: 'Dunes sans laisse plus une plage canine de mer du Nord toute l\'année au sud de Scheveningen, 2 km de sable continu, la pinède des Bosjes van Poot en arrière-plan. La promenade canine préférée de La Haye.',
     whyEs: 'Dunas sin correa más una playa canina del Mar del Norte todo el año al sur de Scheveningen, 2 km de arena continua, el pinar de Bosjes van Poot de fondo. El paseo canino favorito de La Haya.',
+    whyDe: 'Freilauf-Dünen plus ein ganzjähriger Nordsee-Hundestrand südlich von Scheveningen, 2 km durchgehender Sandweg, der Pinienwald Bosjes van Poot als Kulisse. Der beliebteste Hundespaziergang Den Haags.',
   },
   {
     rank: 10, name: 'Praia de Faro (West Section)', citySlug: 'faro', yearRound: true, coast: 'atlantic',
@@ -97,6 +106,7 @@ const BEACHES: Beach[] = [
     whyEn: 'The official praia para cães west of the parking, direct Atlantic exposure, year-round dog access. Bus 14/16 from Faro centre in 20 min, then 10 min walk.',
     whyFr: 'La praia para cães officielle à l\'ouest du parking, exposition atlantique directe, accès canin toute l\'année. Bus 14/16 depuis le centre de Faro en 20 min, puis 10 min à pied.',
     whyEs: 'La praia para cães oficial al oeste del parking, exposición atlántica directa, acceso canino todo el año. Bus 14/16 desde el centro de Faro en 20 min, luego 10 min andando.',
+    whyDe: 'Die offizielle praia para cães westlich des Parkplatzes, direkte Atlantiklage, ganzjähriger Hundezugang. Bus 14/16 ab der Innenstadt von Faro in 20 Min., dann 10 Min. zu Fuß.',
   },
   {
     rank: 11, name: 'Bridlington South Beach', citySlug: 'york', yearRound: false, coast: 'north-sea',
@@ -104,6 +114,7 @@ const BEACHES: Beach[] = [
     whyEn: 'Wide southern sands signposted as a dog beach beyond the harbour groynes, about half the total length is dog-friendly year-round. Direct LNER train from York in 1h25.',
     whyFr: 'Larges sables du sud signalés plage canine au-delà des épis du port, environ la moitié de la longueur totale est dog-friendly toute l\'année. Train LNER direct depuis York en 1h25.',
     whyEs: 'Amplias arenas del sur señalizadas como playa canina más allá de los espigones del puerto, alrededor de la mitad de la longitud total es dog-friendly todo el año. Tren LNER directo desde York en 1h25.',
+    whyDe: 'Breite Südstrände hinter den Hafenbuhnen, als Hundestrand ausgeschildert, etwa die Hälfte der Gesamtlänge ist ganzjährig hundefreundlich. Direkter LNER-Zug ab York in 1h25.',
   },
   {
     rank: 12, name: 'Pietersplas Dog-Swim Bay', citySlug: 'maastricht', yearRound: true, coast: 'lake',
@@ -111,6 +122,7 @@ const BEACHES: Beach[] = [
     whyEn: 'Municipal lake 5 km south of central Maastricht with a designated dog-swim bay at the south end. Sandy entry, calm waters. Walkable from the centre via the Maas towpath.',
     whyFr: 'Lac municipal à 5 km au sud du centre de Maastricht avec une baie de baignade canine désignée au sud. Entrée sablonneuse, eaux calmes. Accessible à pied depuis le centre par le chemin de halage de la Meuse.',
     whyEs: 'Lago municipal a 5 km al sur del centro de Maastricht con una bahía designada para el baño canino en el sur. Entrada arenosa, aguas tranquilas. Accesible a pie desde el centro por el camino de sirga del Mosa.',
+    whyDe: 'Städtischer See 5 km südlich der Innenstadt von Maastricht mit einer ausgewiesenen Hundeschwimmbucht am Südende. Sandiger Einstieg, ruhige Gewässer. Vom Zentrum aus zu Fuß über den Maas-Leinpfad erreichbar.',
   },
   {
     rank: 13, name: 'Pyynikki Dog Beach', citySlug: 'tampere', yearRound: true, coast: 'lake',
@@ -118,6 +130,7 @@ const BEACHES: Beach[] = [
     whyEn: 'Tampere\'s official city dog beach on Lake Pyhäjärvi, sandy entry, dedicated dog zone south of the human swim area. 15 min walk from the centre via the Pyynikki ridge forest.',
     whyFr: 'Plage canine officielle de Tampere sur le lac Pyhäjärvi, entrée sablonneuse, zone canine dédiée au sud de la zone baignade humaine. 15 min à pied du centre par la forêt de la crête de Pyynikki.',
     whyEs: 'Playa canina oficial de Tampere en el lago Pyhäjärvi, entrada arenosa, zona canina dedicada al sur de la zona de baño humana. 15 min andando del centro por el bosque de la cresta de Pyynikki.',
+    whyDe: 'Tamperes offizieller städtischer Hundestrand am See Pyhäjärvi, sandiger Einstieg, eigene Hundezone südlich des Badebereichs für Menschen. 15 Min. zu Fuß vom Zentrum durch den Waldkamm von Pyynikki.',
   },
   {
     rank: 14, name: 'Plage des Marquisats', citySlug: 'annecy', yearRound: true, coast: 'lake',
@@ -125,6 +138,7 @@ const BEACHES: Beach[] = [
     whyEn: 'The official Annecy commune dog beach on the cleanest large lake in Europe (Class A drinking quality), pebbly entry, dedicated water access, 10 min walk from the Vieille Ville.',
     whyFr: 'La plage canine officielle de la commune d\'Annecy sur le grand lac le plus propre d\'Europe (qualité eau potable Classe A), entrée en galets, accès à l\'eau dédié, 10 min à pied de la Vieille Ville.',
     whyEs: 'La playa canina oficial de la comuna de Annecy en el lago grande más limpio de Europa (calidad agua potable Clase A), entrada de guijarros, acceso al agua dedicado, 10 min andando del Casco Antiguo.',
+    whyDe: 'Der offizielle Hundestrand der Gemeinde Annecy am saubersten großen See Europas (Trinkwasserqualität Klasse A), Kieseleinstieg, eigener Wasserzugang, 10 Min. zu Fuß von der Vieille Ville.',
   },
   {
     rank: 15, name: 'Niihama Dog Beach', citySlug: 'tampere', yearRound: true, coast: 'lake',
@@ -132,6 +146,7 @@ const BEACHES: Beach[] = [
     whyEn: 'Tampere\'s second official dog beach on Lake Näsijärvi within Kauppi Forest, pebbly entry, year-round access, direct connection to 30 km of forest trails.',
     whyFr: 'Deuxième plage canine officielle de Tampere sur le lac Näsijärvi dans la forêt de Kauppi, entrée caillouteuse, accès toute l\'année, connexion directe à 30 km de sentiers forestiers.',
     whyEs: 'Segunda playa canina oficial de Tampere en el lago Näsijärvi dentro del bosque de Kauppi, entrada de guijarros, acceso todo el año, conexión directa a 30 km de senderos forestales.',
+    whyDe: 'Tamperes zweiter offizieller Hundestrand am See Näsijärvi im Kauppi-Wald, Kieseleinstieg, ganzjähriger Zugang, direkte Anbindung an 30 km Waldwege.',
   },
   {
     rank: 16, name: 'Eijsder Beemden', citySlug: 'maastricht', yearRound: true, coast: 'lake',
@@ -139,6 +154,7 @@ const BEACHES: Beach[] = [
     whyEn: '200-hectare nature reserve on the Maas floodplain 12 km south of Maastricht, flat riverside meadows, swimming-grade water, free-roaming Konik horses. Off-leash year-round.',
     whyFr: 'Réserve naturelle de 200 hectares sur la plaine d\'inondation de la Meuse à 12 km au sud de Maastricht, prairies riveraines, eau adaptée à la baignade, chevaux Konik en liberté. Sans laisse toute l\'année.',
     whyEs: 'Reserva natural de 200 hectáreas en la llanura aluvial del Mosa a 12 km al sur de Maastricht, praderas ribereñas, agua apta para el baño, caballos Konik en libertad. Sin correa todo el año.',
+    whyDe: '200 Hektar großes Naturschutzgebiet in der Maas-Aue 12 km südlich von Maastricht, flache Uferwiesen, badetaugliches Wasser, frei umherziehende Konik-Pferde. Ganzjährig Freilauf.',
   },
   {
     rank: 17, name: 'Plage de Saint-Jorioz', citySlug: 'annecy', yearRound: true, coast: 'lake',
@@ -146,6 +162,7 @@ const BEACHES: Beach[] = [
     whyEn: 'On Lake Annecy\'s south-west shore, 11 km from Annecy, free-access rural beach with a dog-friendly section just south of the central swim zone. SIBRA bus B from Annecy in 25 min.',
     whyFr: 'Sur la rive sud-ouest du lac d\'Annecy, à 11 km d\'Annecy, plage rurale en accès libre avec section dog-friendly juste au sud de la zone baignade centrale. Bus SIBRA B depuis Annecy en 25 min.',
     whyEs: 'En la orilla suroeste del lago de Annecy, a 11 km de Annecy, playa rural de acceso libre con sección dog-friendly justo al sur de la zona de baño central. Bus SIBRA B desde Annecy en 25 min.',
+    whyDe: 'Am Südwestufer des Lac d\'Annecy, 11 km von Annecy entfernt, frei zugänglicher ländlicher Strand mit hundefreundlichem Abschnitt direkt südlich des zentralen Badebereichs. SIBRA-Bus B ab Annecy in 25 Min.',
   },
   {
     rank: 18, name: 'Den Permanente', citySlug: 'aarhus', yearRound: true, coast: 'baltic',
@@ -153,6 +170,7 @@ const BEACHES: Beach[] = [
     whyEn: 'A signposted year-round dog area at the southern Aarhus harbour, direct sand access, calm Baltic shallows, 5 min by tram from Aarhus Hovedbanegård. The most central dog beach in any Nordic capital.',
     whyFr: 'Zone canine signalée toute l\'année au sud du port d\'Aarhus, accès direct au sable, eaux baltes calmes, 5 min en tram depuis la gare d\'Aarhus. La plage canine la plus centrale de toute capitale nordique.',
     whyEs: 'Zona canina señalizada todo el año en el puerto sur de Aarhus, acceso directo a la arena, aguas bálticas tranquilas, 5 min en tranvía desde la estación de Aarhus. La playa canina más céntrica de cualquier capital nórdica.',
+    whyDe: 'Eine ausgeschilderte ganzjährige Hundezone am Südhafen von Aarhus, direkter Sandzugang, ruhiges Ostseewasser, 5 Min. mit der Straßenbahn ab dem Hauptbahnhof Aarhus. Der zentralste Hundestrand aller nordischen Hauptstädte.',
   },
   {
     rank: 19, name: 'Boschmolenplas', citySlug: 'maastricht', yearRound: true, coast: 'lake',
@@ -160,6 +178,7 @@ const BEACHES: Beach[] = [
     whyEn: 'Large recreation lake 35 km north of Maastricht with a dedicated dog-swimming zone separated from the family beach, the closest year-round real sand beach with on-site café.',
     whyFr: 'Grand lac de loisirs à 35 km au nord de Maastricht avec une zone de baignade canine dédiée séparée de la zone familiale, la plus proche vraie plage de sable toute l\'année avec café sur place.',
     whyEs: 'Gran lago recreativo a 35 km al norte de Maastricht con una zona de baño canino dedicada separada de la zona familiar, la playa de arena de verdad más cercana todo el año con café en el sitio.',
+    whyDe: 'Großer Freizeitsee 35 km nördlich von Maastricht mit eigener Hundeschwimmzone getrennt vom Familienstrand, der nächstgelegene echte Sandstrand mit ganzjährigem Zugang und Café vor Ort.',
   },
   {
     rank: 20, name: 'Plage de Doussard', citySlug: 'annecy', yearRound: true, coast: 'lake',
@@ -167,6 +186,7 @@ const BEACHES: Beach[] = [
     whyEn: 'Southernmost shore of Lake Annecy at the Bout-du-Lac nature reserve, wild pebble beach, the lake at its narrowest. The 16 km cycle path from Annecy ends here.',
     whyFr: 'La rive la plus au sud du lac d\'Annecy à la réserve naturelle du Bout-du-Lac, plage sauvage de galets, le lac à son plus étroit. La piste cyclable de 16 km depuis Annecy se termine ici.',
     whyEs: 'La orilla más al sur del lago de Annecy en la reserva natural de Bout-du-Lac, playa salvaje de guijarros, el lago en su parte más estrecha. El sendero ciclista de 16 km desde Annecy termina aquí.',
+    whyDe: 'Das südlichste Ufer des Lac d\'Annecy im Naturschutzgebiet Bout-du-Lac, wilder Kieselstrand, der See an seiner schmalsten Stelle. Der 16 km lange Radweg ab Annecy endet hier.',
   },
   {
     rank: 21, name: 'Torre Chianca / San Cataldo', citySlug: 'lecce', yearRound: true, coast: 'mediterranean',
@@ -174,6 +194,7 @@ const BEACHES: Beach[] = [
     whyEn: 'The closest beach to Lecce (only 15 min by car), long Adriatic sand and dunes north of San Cataldo, with a year-round dog zone along the Torre Chianca stretch.',
     whyFr: 'La plage la plus proche de Lecce (15 min en voiture), long sable adriatique et dunes au nord de San Cataldo, avec zone canine toute l\'année le long du tronçon Torre Chianca.',
     whyEs: 'La playa más cercana a Lecce (solo 15 min en coche), larga arena adriática y dunas al norte de San Cataldo, con zona canina todo el año a lo largo del tramo Torre Chianca.',
+    whyDe: 'Der Strand mit der kürzesten Anfahrt ab Lecce (nur 15 Min. mit dem Auto), langer Adriasand und Dünen nördlich von San Cataldo, mit ganzjähriger Hundezone entlang des Abschnitts Torre Chianca.',
   },
   {
     rank: 22, name: 'Reilinger See', citySlug: 'heidelberg', yearRound: true, coast: 'lake',
@@ -181,6 +202,7 @@ const BEACHES: Beach[] = [
     whyEn: '50-hectare quarry lake 25 km west of Heidelberg with a dedicated Hundestrand at the south-east corner, sand beach, summer café, free parking. The closest real beach for the Heidelberg-Mannheim metro.',
     whyFr: 'Lac de carrière de 50 hectares à 25 km à l\'ouest de Heidelberg avec un Hundestrand dédié au coin sud-est, plage de sable, café d\'été, parking gratuit. La plus proche vraie plage pour la métropole Heidelberg-Mannheim.',
     whyEs: 'Lago de cantera de 50 hectáreas a 25 km al oeste de Heidelberg con un Hundestrand dedicado en la esquina sureste, playa de arena, café estival, parking gratis. La playa real más cercana para la metrópoli Heidelberg-Mannheim.',
+    whyDe: '50 Hektar großer Baggersee 25 km westlich von Heidelberg mit eigenem Hundestrand in der Südostecke, Sandstrand, Sommercafé, kostenlose Parkplätze. Der nächstgelegene echte Strand für die Metropolregion Heidelberg-Mannheim.',
   },
   {
     rank: 23, name: 'Ballehage Strand', citySlug: 'aarhus', yearRound: true, coast: 'baltic',
@@ -188,6 +210,7 @@ const BEACHES: Beach[] = [
     whyEn: 'A small wooded cove south of Aarhus on the Marselisborg Forest coast, pebbly entry, year-round dog beach, the calmest Aarhus swim option for anxious dogs.',
     whyFr: 'Petite crique boisée au sud d\'Aarhus sur la côte de la forêt de Marselisborg, entrée caillouteuse, plage canine toute l\'année, l\'option de baignade la plus calme d\'Aarhus pour chiens anxieux.',
     whyEs: 'Pequeña cala boscosa al sur de Aarhus en la costa del bosque de Marselisborg, entrada de guijarros, playa canina todo el año, la opción de baño más tranquila de Aarhus para perros ansiosos.',
+    whyDe: 'Eine kleine bewaldete Bucht südlich von Aarhus an der Küste des Marselisborg-Waldes, Kieseleinstieg, ganzjähriger Hundestrand, die ruhigste Badeoption in Aarhus für ängstliche Hunde.',
   },
   {
     rank: 24, name: 'Viikinsaari Island', citySlug: 'tampere', yearRound: false, coast: 'lake',
@@ -195,6 +218,7 @@ const BEACHES: Beach[] = [
     whyEn: 'Car-free pine-covered island on Lake Pyhäjärvi, accessible by 25 min Hopealinjat shuttle from Mustalahti port (June-August). Off-leash forest trails outside the bird-nesting zones.',
     whyFr: 'Île couverte de pins sans voiture sur le lac Pyhäjärvi, accessible par navette Hopealinjat de 25 min depuis le port de Mustalahti (juin-août). Sentiers forestiers sans laisse hors zones de nidification.',
     whyEs: 'Isla cubierta de pinos sin coches en el lago Pyhäjärvi, accesible por lanzadera Hopealinjat de 25 min desde el puerto de Mustalahti (junio-agosto). Senderos forestales sin correa fuera de zonas de nidificación.',
+    whyDe: 'Autofreie, pinienbewachsene Insel im See Pyhäjärvi, erreichbar mit der 25-minütigen Hopealinjat-Fähre ab dem Hafen Mustalahti (Juni bis August). Freilauf-Waldwege außerhalb der Vogelbrutzonen.',
   },
   {
     rank: 25, name: 'IJmuiden Beach', citySlug: 'amsterdam', yearRound: true, coast: 'north-sea',
@@ -202,6 +226,7 @@ const BEACHES: Beach[] = [
     whyEn: 'A wide North Sea beach 30 km west of Amsterdam, dunes-and-sand 4 km stretch with a signposted dog zone at the northern end, off-leash year-round. Bus 75 from Sloterdijk in 35 min.',
     whyFr: 'Large plage de mer du Nord à 30 km à l\'ouest d\'Amsterdam, étendue dunes-sable de 4 km avec zone canine signalée à l\'extrémité nord, sans laisse toute l\'année. Bus 75 depuis Sloterdijk en 35 min.',
     whyEs: 'Amplia playa del Mar del Norte a 30 km al oeste de Ámsterdam, extensión dunas-arena de 4 km con zona canina señalizada en el extremo norte, sin correa todo el año. Bus 75 desde Sloterdijk en 35 min.',
+    whyDe: 'Ein breiter Nordseestrand 30 km westlich von Amsterdam, 4 km langer Dünen- und Sandabschnitt mit ausgeschilderter Hundezone am nördlichen Ende, ganzjährig Freilauf. Bus 75 ab Sloterdijk in 35 Min.',
   },
 ]
 
@@ -580,11 +605,12 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
               if (!dest) return null
               const cityName = getLocalizedCityName(b.citySlug, dest.name, l)
               const countryName = getLocalizedCountryName(dest.country, l)
-              const why = l === 'fr' ? b.whyFr : l === 'es' ? b.whyEs : b.whyEn
+              const why = l === 'fr' ? b.whyFr : l === 'es' ? b.whyEs : l === 'de' ? b.whyDe ?? b.whyEn : b.whyEn
               const proximityLabel =
                 l === 'fr' ? `Où dormir près de ${b.name}` :
                 l === 'es' ? `Dónde dormir cerca de ${b.name}` :
                 l === 'pt' ? `Onde dormir perto de ${b.name}` :
+                l === 'de' ? `Übernachten in der Nähe von ${b.name}` :
                 `Where to stay near ${b.name}`
               return (
                 <li key={b.rank} className="rounded-xl border border-gray-200 bg-white shadow-sm transition hover:shadow-md">
@@ -651,9 +677,10 @@ export default async function Page({ params }: { params: Promise<{ locale: strin
           l === 'fr' ? `Hôtels pet-friendly dans toute l'Europe` :
           l === 'es' ? 'Hoteles pet-friendly en toda Europa' :
           l === 'pt' ? `Hotéis pet-friendly em toda a Europa` :
+          l === 'de' ? 'Haustierfreundliche Hotels in ganz Europa' :
           'Pet-friendly hotels Europe-wide'
         }
-        cta={l === 'fr' ? 'Voir' : l === 'es' ? 'Ver' : l === 'pt' ? 'Ver' : 'View'}
+        cta={l === 'fr' ? 'Voir' : l === 'es' ? 'Ver' : l === 'pt' ? 'Ver' : l === 'de' ? 'Ansehen' : 'View'}
       />
     </>
   )
